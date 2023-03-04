@@ -44,3 +44,11 @@ Birme - <https://www.birme.net>
 [TinyPNG – Compress WebP, PNG and JPEG images intelligently](https://tinypng.com/)
 
 [AI Image Upscaler - Enlarge & Enhance Your Photos for Free - Upscale.media](https://www.upscale.media/)
+
+```bash
+brew install imagemagick
+
+mogrify -format jpg /path/to/folder/*.png
+
+mogrify -quality 80% /path/to/folder/*.jpg
+```
