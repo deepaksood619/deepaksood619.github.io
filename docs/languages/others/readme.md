@@ -1,0 +1,18 @@
+# Other Languages
+
+- [General](general)
+- [Markdown](markdown)
+- [YAML](yaml)
+- [TOML](toml)
+- [JSON](json)
+- [JavaScript Templating](javascript-templating)
+- [Regular Expressions / Regex](regular-expressions-regex)
+- [Scala](scala)
+- [Erlang](erlang)
+- [TLA+](tla-plus)
+- [Ruby](ruby)
+- [Rust](rust)
+- [Web Assembly](web-assembly)
+- [Swift](swift)
+- [R Language](r-language)
+- [Others](other-languages.md)

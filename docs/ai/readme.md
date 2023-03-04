@@ -1,0 +1,15 @@
+# AI
+
+- [Model Evaulation](model-evaluation/readme.md)
+- [Data Science](data-science/readme.md)
+- [ML Fundamentals](ml-fundamentals/readme.md)
+- [ML Algorithms](ml-algorithms/readme.md)
+- [Deep Learning](deep-learning/readme.md)
+- [Computer Vision](computer-vision-cv/readme.md)
+- [NLP](nlp/readme.md)
+- [Move37](move-37/readme.md)
+- [Pandas](pandas/readme.md)
+- [Numpy](numpy/readme.md)
+- [Scikit-learn / Scipy](scikit-learn/readme.md)
+- [Libraries](libraries/readme.md)
+- [Courses](courses/readme.md)

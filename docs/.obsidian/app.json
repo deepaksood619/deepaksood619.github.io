@@ -1,0 +1,14 @@
+{
+  "defaultViewMode": "source",
+  "newFileLocation": "current",
+  "promptDelete": false,
+  "attachmentFolderPath": "media",
+  "livePreview": true,
+  "useMarkdownLinks": true,
+  "showUnsupportedFiles": true,
+  "userIgnoreFilters": [
+    "media/"
+  ],
+  "newLinkFormat": "absolute",
+  "alwaysUpdateLinks": true
+}

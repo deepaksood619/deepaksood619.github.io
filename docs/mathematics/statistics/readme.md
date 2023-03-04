@@ -1,0 +1,16 @@
+# Statistics
+
+- [Intro](intro)
+- [Glossary](glossary)
+- [Sampling](sampling)
+- [Descriptive Statistics](descriptive-statistics)
+- [Correlation and Covariance](correlation-and-covariance)
+- [Inferential Statistics](inferential-statistics)
+- [Confidence Intervals](confidence-intervals)
+- [Hypothesis Testing](hypothesis-testing)
+- [Crash Course Statistics](crash-course-statistics)
+- [Discriminant Analysis](discriminant-analysis)
+- [Estimation Statistics](estimation-statistics)
+- [Bivariate Analysis](bivariate-analysis)
+- [Nonparametric Statistics](nonparametric-statistics)
+- [Other Statistics](other-statistics)

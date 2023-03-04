@@ -1,0 +1,11 @@
+# Others
+
+- [Politics](politics/readme.md)
+  - [types-of-governments](politics/types-of-governments.md)
+  - [Politics](politics/others)
+  - [indian-polity](knowledge/others/politics/indian-polity.md)
+- [International Relations IR](international-relations-ir)
+- [Environmental Sciences](environmental-sciences)
+- [Philosophy](philosophy)
+- [Education / PhD](education-phd)
+- [Chemistry Outline](chemistry-outline)

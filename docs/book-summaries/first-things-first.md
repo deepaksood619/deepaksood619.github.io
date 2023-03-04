@@ -1,0 +1,11 @@
+# First Things First
+
+By Stephen Covey, A. Roger Merrill, and Rebecca R. Merrill
+
+The book asserts that there are three generations of [time management](https://en.wikipedia.org/wiki/Time_management): first-generation [task lists](https://en.wikipedia.org/wiki/Time_management#Task_list), second-generation [personal organizers](https://en.wikipedia.org/wiki/Personal_organizer) with deadlines and third-generation [values clarification](https://en.wikipedia.org/wiki/Value_(personal_and_cultural)) as incorporated in the [Franklin Planner](https://en.wikipedia.org/wiki/Franklin_Planner). Using the analogy of "the [clock](https://en.wikipedia.org/wiki/Clock) and the [compass](https://en.wikipedia.org/wiki/Compass)," the authors assert that identifying primary [roles](https://en.wikipedia.org/wiki/Role) and principles provides a "true north" and reference when deciding what activities are most important, so that decisions are guided not merely by the "clock" of scheduling but by the "compass" of purpose and values. Asserting that people have a need "to live, to love, to learn, and to leave a legacy" they propose moving beyond "urgency" (not the same as the [quadrant II](https://en.wikipedia.org/wiki/Cartesian_coordinate_system#Cartesian_coordinates_in_two_dimensions) in a Cartesian coordinate system).
+
+Important items are identified by focusing on a few key priorities and roles which will vary from person to person, then identifying small goals for each role each week, in order to maintain a [holistic life balance](https://en.wikipedia.org/wiki/Holistic_health). One tool for this is a worksheet that lists up to seven key roles, with three weekly goals per role, to be evaluated and scheduled into each week before other appointments occupy all available time with things that seem urgent but are not important. This concept is illustrated with a story that encourages people to "place the big rocks first."
+
+[Delegation](https://en.wikipedia.org/wiki/Delegation) is presented as an important part of time management. Successful delegation, according to Covey, focuses on results and benchmarks that are to be agreed in advance, rather than on prescribing detailed work plans.
+
+<https://en.wikipedia.org/wiki/First_Things_First_(book)>

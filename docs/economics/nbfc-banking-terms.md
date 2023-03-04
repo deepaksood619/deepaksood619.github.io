@@ -1,0 +1,161 @@
+# NBFC / Banking Terms
+
+## Banking Parameters
+
+1. CASA Ratio
+2. Deposits
+3. Advances
+4. Advance to deposit ratio
+5. Profit margin
+6. Net interest margin
+7. Cost to income ratio
+8. Gross NPA
+9. Net NPA
+10. Provision coverage ratio
+11. Revenue
+12. EPS
+
+## Credit Cards
+
+[A Brief History of Credit Cards (or What Happens When You Swipe)](https://www.youtube.com/watch?v=vR-uvPPdI_M&ab_channel=a16z)
+
+<https://twitter.com/arampell/status/1435692945387048964>
+
+<https://productcoalition.com/lets-talk-about-card-payment-processing-df25c37614bd>
+
+Renauld Leplanche is known as the father of the fintech industry and is an investor in Stashfin
+
+## Maker Checker / Dual Approval Process / 4 Eyes Principle
+
+Maker-checker (or Maker and Checker, or 4-Eyes) is one of the central principles of [authorization](https://en.wikipedia.org/wiki/Authorization) in the[information systems](https://en.wikipedia.org/wiki/Information_system)of financial organizations. The principle of maker and checker means that for each[transaction](https://en.wikipedia.org/wiki/Transaction_processing), there must be at least two individuals necessary for its completion. While one individual may create a transaction, the other individual should be involved in confirmation/authorization of the same. Here the segregation of duties play an important role. In this way, strict control is kept over system software and data, keeping in mind functional division of labor between all classes of employees.
+
+Dual Approval is a control that requires two separate people to authorize a transaction. The first person is responsible for creating the request (known as the maker), while the second person checks and approves the activity (known as the checker).
+
+### Why is Dual Approval important?
+
+Humans are not perfect. It does not matter how clever, trusted or trained we are, sooner or later everybody will make a mistake. A maker-checker processintroduces a second pair of eyes and helps spot things that appear suspicious, strange or incorrect. Dual Approval clearly helps protect your business, but it also helps protect your employees from making unintended errors or deviating from process.
+
+### How does it work?
+
+The ability to configure the process flow, approvers and approval limits to meet the individual needs of your business. Any eligible transactions will be transferred to a pre-selected pool of checkers for authorization.
+
+### What are the benefits of Dual Approval?
+
+Adding Dual Approval can help strengthen your online controls and protect your business from several different types of operational risk
+
+#### Payment Scams
+
+Payment fraud is a growing risk, and criminals continue to deploy increasingly clever scams. While a fraudster may be able to trick an individual, a system-enforced checker ensures that a second person looks at the transaction and can help capture the attempt before any money leaves your account.
+
+#### Compromised Credentials
+
+Fraudsters are using advanced techniques to steal people's usernames and passwords, before logging intotheir victims' accounts and diverting funds. Even if a criminal was able to compromise one of your online user's credentials, Dual Approval would help stop the attacker from being able to make a withdrawal.
+
+#### Processing Errors
+
+A checker can help spot a variety of mistakes, from breaches of internal procedure to typing errors on the account number or the value of a transfer.
+
+#### Internal Fraud
+
+While all businesses want to be able to trust their staff, the reality is that a significant number of companies have been defrauded by an employee. External pressures and/or unexpected opportunities can lead a previously trusted staff member into making a poor ethical decision. Dual Approval helps mitigate this risk by acting as an effective deterrent and also providing an opportunity for any wrong doing to be identified early in the process.
+
+<https://en.wikipedia.org/wiki/Maker-checker>
+
+## Breakage
+
+Breakage is a term used to describe revenue gained by retailers through unredeemed gift cards or other prepaid services that are never claimed. In these cases, the company pockets the money paid for these items, without actually providing the service or item for which the customer initially paid. Although nearly all of this money is considered to be a profit to the company, accounting uncertainty due to breakage has been a recurring problem throughout the years.
+
+<https://www.investopedia.com/terms/b/breakage.asp>
+
+## Credit Bureaus
+
+1. TransUnion Cibil
+2. Equifax
+3. Experian
+4. CRIF Mark
+
+
+## Other products
+
+- Home loan
+- Loan against property (LAP)
+- Auto loan
+- Two wheeler loan
+- Credit cards
+- Personal loans
+- Consumer loans
+
+[3 Ways Startups Are Coming for Established Fintech Companies -- And What To Do About It - YouTube](https://www.youtube.com/watch?v=3KYM6JdW9d8&ab_channel=a16z)
+
+## Fintech players
+
+1. Stashfin
+2. <https://www.sliceit.com>
+3. Dhani 50m+
+4. Red carpet (RedCarpetUp)
+5. Ok credit
+6. CreditMantri
+7. Moneytap
+8. CashTap
+9. Earlysalary
+10. <https://www.truebalance.io>
+11. Navi
+12. KreditBee
+13. Cashbean
+14. Kissht - 10m+
+15. Moneyview
+16. Fairmoney
+17. Kartbee
+18. Indialends
+19. Creditt
+20. Mi credit - 5m+
+21. Groww
+22. InCred
+23. Freo
+24. HyperVerge
+25. Finbox
+26. Karza
+27. Krowd
+28. OneAssist
+29. Slice
+30. Niyo (goniyo)
+31. Khatabook
+32. Bajaj finance
+33. Bajaj finserv - <https://www.youtube.com/watch?v=odiaekxLY0g>
+34. Chola
+35. Mutooth Finance
+36. Paisa bazaar
+37. Bank bazaar
+38. Home credit
+39. Cred
+40. Lazypay
+41. Bharatpe
+42. Payu
+43. Amex
+44. Uni pay 1/3rd card (uni app)
+45. OfBusiness
+46. axio, formerly Capital Float
+47. Piramal Finance, one of India's largest non-banking lenders
+48. Affirm (US - fintech)
+
+<https://tracxn.com/d/soonicorn-awards/top-startups-in-india-fintech-2021>
+
+<http://www.startuplanes.com/top-50-fintech-startups-in-india>
+
+<https://fintechnews.sg/62502/fintech-india/updated-top-30-open-banking-influencers-list-for-india-2022>
+
+### P2P
+
+- 12% club - BharatPe
+- Lendenclub
+- Liquiloans
+
+### Debt Bonds
+
+- WintWealth
+- FixedIncome
+
+## SASS Tools
+
+- Finbox - <https://finbox.in>
+- <https://sahamati.org.in>

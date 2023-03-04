@@ -1,0 +1,15 @@
+# Quotes Proverbs
+
+- [Life](life)
+- [Habits](habits)
+- [Motivation](motivation)
+- [Coding](coding)
+- [Business / Management](business-management)
+- [Science](science)
+- [My Quotes](my-quotes)
+- [Stories](stories)
+- [Poems](poems)
+- [Funny](funny)
+- [Tatoos Quotes](tatoos-quotes)
+- [Tips](tips)
+- [Startup Quotes](../../about-me/ideas/startup-quotes)

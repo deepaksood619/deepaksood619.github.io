@@ -1,0 +1,26 @@
+# The 22 Immutable Laws of Branding
+
+By Al Ries and Laura Ries
+
+- Law of Expansion (Chevrolet diluted its brand)
+- Law of Contraction (Subway with its submarine sandwich, Rolls-Royce, Rolex)
+- Law of Singularity (Rolex interchangeable to expensive Swiss watch)
+- Law of Publicity (Oxygen in the bloodstream of brands)
+- Law of Advertising (defend your gains in the marketplace, people want to get best in the category, Budweiser - king of beers, Goodyear - #1 in tires)
+- Law of the Word (Mercedes-Benz - prestige, Honda - well engineered, Toyota - reliable)
+- Law of Category (Kleenex (tissue), Xerox)
+- Law of Fellowship (Competition actually creates more business opportunities for a brand)
+- Law of Credentials (Authenticity - imported beer, microbrew or ice beer)
+- Law of Quality (perception trumps over quality, coke vs pepsi, tastes same)
+- Law of Extensions (Unsold products damages a brand)
+- Law of Consistency (Resisting the temptation to keep adding new products, Volvo - safety)
+- Law of Subbrands (Other brand with same name must satisfy same needs)
+- Law of Siblings (publisher Time Inc with Fortune, Sports Illustrated)
+- Law of Borders (International growth allows you to expand without undermining or diluting the power of your brand)
+- Law of Shape (horizontal line of eye, 2.25 units wide by 1 unit tall)
+- Law of Color (John Deere's signature green, coca cola red)
+- Law of the Name (Xerox, McDonalds, Walmart, Starbucks)
+- Law of the Generic (Budget describes its characteristic - low prices)
+- Law of the Company (Bold brand name Tide and very small unobtrusive company name)
+- Law of Change (Best time to make changes is when you don't have anything to lose, other good moment for change is when your profit margins are large enough for you to consider lowering prices - Marlboro)
+- Law of Mortality (laundary soap Rinso was taken over by Tide, Kodak was taken over by digital photography)

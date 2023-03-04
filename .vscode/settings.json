@@ -1,0 +1,25 @@
+{
+    "search.useIgnoreFiles": false,
+    "gitlens.codeLens.enabled": false,
+    "gitlens.codeLens.authors.enabled": false,
+    "gitlens.codeLens.recentChange.enabled": false,
+    "gitlens.codeLens.recentChange.command": false,
+    "gitlens.currentLine.enabled": false,
+    "workbench.editorAssociations": {
+        "*.md": "default"
+    },
+    "search.exclude": {
+        ".docusaurus": true,
+        "build": true
+    },
+    "files.exclude": {
+        ".docusaurus": true,
+        "build": true,
+        "node_modules": true
+    },
+    "explorer.excludeGitIgnore": true,
+    "files.watcherExclude": {
+        ".docusaurus": true,
+        "build": true
+    }
+}

@@ -1,0 +1,17 @@
+# Other Clouds
+
+- [Google Cloud Platform (GCP)](google-cloud-platform)
+- [Anthos](anthos)
+- [Azure](azure/readme.md)
+  - [Azure Services](azure/services)
+  - [Azure Commands](azure/commands)
+- [Big Query / Big Query](bigquery-big-query)
+- [Oracle](oracle)
+- [Firebase](firebase/readme.md)
+  - [Firebase Analytics](firebase/firebase-analytics)
+  - [Automatic Collection Events](firebase/automatic-collected-events)
+  - [Notifications](firebase/notifications)
+- [Openstack](openstack)
+- [Ticketing / TMS](ticketing-tms)
+- [Business Rule Engine / Decision Rule Engine](business-rule-engine)
+- [Others - SAAS](others-saas)

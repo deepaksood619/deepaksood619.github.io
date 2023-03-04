@@ -1,0 +1,44 @@
+version: "3.7"
+
+services:
+    wiki:
+        stdin_open: true
+        tty: true
+        build:
+            context: .
+            dockerfile: Dockerfile
+        restart: always
+        image: deepaksood619/wiki:latest
+        container_name: wiki
+        environment:
+            - DEBUG=True
+        ports:
+            - 8000:8000
+        entrypoint:
+            - /bin/bash
+            - -c
+            - |
+                sleep infinity
+                # git clone https://github.com/deepaksood619/deepaksood619.github.io.git
+                # cd deepaksood619.github.io/.layouts
+                # npm i
+                # npm run build
+                # cd ..
+                # git checkout -b gh-pages
+                # git add .layouts/public -f
+                # git config --global user.email "deepaksood619@gmail.com"
+                # git commit -m "added gh-pages"
+                # git push origin `git subtree split --prefix .layouts/public gh-pages`:gh-pages --force
+                # git push https://deepaksood619:xxx@github.com/deepaksood619/deepaksood619.github.io.git `git subtree split --prefix .layouts/public gh-pages`:gh-pages --force
+
+                # npm run deploy
+                # git add .layouts/public -f
+                # git branch gh-pages
+                # git subtree split --prefix '.layouts/public' -b gh-pages
+                # git push -f https://deepaksood619:xxx@github.com/deepaksood619/deepaksood619.github.io.git gh-pages:gh-pages
+
+                # git subtree push --prefix .layouts/public origin gh-pages
+                # git subtree push --prefix .layouts/public https://deepaksood619:xxx@github.com/deepaksood619/deepaksood619.github.io.git gh-pages
+
+        # volumes:
+        #     - .:/app/
