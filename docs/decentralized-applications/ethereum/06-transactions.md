@@ -146,7 +146,7 @@ Validator keeps the tip **+0.000210 ETH**
 
 Gas is required for any smart contract interaction too.
 
-![Diagram showing how unused gas is refunded](https://ethereum.org/static/c3638b26a1210d2c73a7ec2335c57351/302a4/gas-tx.jpg)
+![Diagram showing how unused gas is refunded](media/Pasted%20image%2020230305171843.png)
 
 Any gas not used in a transaction is refunded to the user account.
 

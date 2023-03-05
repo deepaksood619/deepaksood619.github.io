@@ -14,6 +14,8 @@ By encapsulating shard-routing logic, Vitess allows application code and databas
 
 <https://www.planetscale.com/blog/videos-intro-to-vitess-its-powerful-capabilities-and-how-to-get-started>
 
+[PlanetScale: The world’s most advanced database platform](https://planetscale.com/)
+
 ## MySQL Workbench / MySQLWorkbench
 
 <https://dev.mysql.com/doc/workbench/en/wb-performance-explain.html>
