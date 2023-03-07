@@ -234,7 +234,7 @@ Unchecking the "User interface sounds" doesn't disable all sound. But sliding th
 
 - Auto Suggestion
 
-   git clone <https://github.com/zsh-users/zsh-autosuggestions> ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-autosuggestions
+   git clone https://github.com/zsh-users/zsh-autosuggestions ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-autosuggestions
 
    <https://github.com/zsh-users/zsh-autosuggestions/blob/master/INSTALL>
 
@@ -288,22 +288,6 @@ syntax on
 filetype on
 ```
 
-#### ~/.profile
-
-```bash
-export SHELL=/usr/local/bin/zsh
-
-#Color Terminal
-export CLICOLOR=1
-export LSCOLORS=ExFxBxDxCxegedabagacad
-export LC_ALL=en_US.UTF-8
-export LANG=en_US.UTF-8
-```
-
-#### ~/.kubectl_aliases
-
-<https://github.com/ahmetb/kubectl-aliases/blob/master/.kubectl_aliases>
-
 #### ~/.aliases
 
 ```bash
@@ -344,31 +328,6 @@ alias python=/usr/local/bin/python3.7
 alias pip=/usr/local/bin/pip3
 
 alias publicIp="curl wgetip.com"
-```
-
-#### ~/.zshrc for ssh and badge
-
-```bash
-ssh() {
-   iterm2_set_user_var title_var $@
-   /usr/bin/ssh -t $@ tmux new-session -A -s <username>
-   #creates a named tmux session for the user in the server, which will be created or attached to on request.
-   iterm2_set_user_var title_var ""
-}
-
-ssh-old() {
-   /usr/bin/ssh $@
-}
-
-dockash() {
-   iterm2_set_user_var title_var $1
-   docker exec -it $1 /bin/bash
-   iterm2_set_user_var title_var ""
-}
-
-clear-badge() {
-   iterm2_set_user_var title_var ""
-}
 ```
 
 #### Alias

@@ -1,6 +1,82 @@
 {
   "recentFiles": [
     {
+      "basename": "static-code-analysis",
+      "path": "python/documentation/27-development-tools/static-code-analysis.md"
+    },
+    {
+      "basename": "others",
+      "path": "technologies/git/others.md"
+    },
+    {
+      "basename": "personal-todo",
+      "path": "office/todo/personal-todo.md"
+    },
+    {
+      "basename": "mac",
+      "path": "devops/ides/mac.md"
+    },
+    {
+      "basename": "todo",
+      "path": "office/cakedefi/todo.md"
+    },
+    {
+      "basename": "10-medallion-architecture",
+      "path": "technologies/apache/databricks/10-medallion-architecture.md"
+    },
+    {
+      "basename": "sql-queries",
+      "path": "office/cakedefi/sql-queries.md"
+    },
+    {
+      "basename": "architecture",
+      "path": "office/cakedefi/architecture.md"
+    },
+    {
+      "basename": "tables",
+      "path": "office/cakedefi/tables.md"
+    },
+    {
+      "basename": "01-terms",
+      "path": "technologies/apache/apache-spark/01-terms.md"
+    },
+    {
+      "basename": "internal-tech",
+      "path": "office/credentials/internal-tech.md"
+    },
+    {
+      "basename": "00-intro",
+      "path": "technologies/apache/apache-spark/00-intro.md"
+    },
+    {
+      "basename": "02-databricks-getting-started",
+      "path": "technologies/apache/databricks/02-databricks-getting-started.md"
+    },
+    {
+      "basename": "01-databricks",
+      "path": "technologies/apache/databricks/01-databricks.md"
+    },
+    {
+      "basename": "merkle-trees",
+      "path": "data-structures/hashtable/merkle-trees.md"
+    },
+    {
+      "basename": "readme",
+      "path": "databases/data-warehousing/readme.md"
+    },
+    {
+      "basename": "intro",
+      "path": "databases/data-warehousing/intro.md"
+    },
+    {
+      "basename": "data-lake",
+      "path": "databases/data-warehousing/data-lake.md"
+    },
+    {
+      "basename": "readme",
+      "path": "databases/others/readme.md"
+    },
+    {
       "basename": "documentation",
       "path": "databases/nosql-databases/aws-dynamodb/documentation.md"
     },
@@ -27,10 +103,6 @@
     {
       "basename": "05-accounts",
       "path": "decentralized-applications/ethereum/05-accounts.md"
-    },
-    {
-      "basename": "architecture",
-      "path": "office/cakedefi/architecture.md"
     },
     {
       "basename": "readme",
@@ -93,14 +165,6 @@
       "path": "technologies/apache/apache-spark/03-processing-model.md"
     },
     {
-      "basename": "01-terms",
-      "path": "technologies/apache/apache-spark/01-terms.md"
-    },
-    {
-      "basename": "00-intro",
-      "path": "technologies/apache/apache-spark/00-intro.md"
-    },
-    {
       "basename": "basic",
       "path": "frontend/js-javascript/basic.md"
     },
@@ -121,14 +185,6 @@
       "path": "management/business/business-terms.md"
     },
     {
-      "basename": "todo",
-      "path": "office/cakedefi/todo.md"
-    },
-    {
-      "basename": "tables",
-      "path": "office/cakedefi/tables.md"
-    },
-    {
       "basename": "deepak-banks",
       "path": "office/keep/deepak-banks.md"
     },
@@ -143,62 +199,6 @@
     {
       "basename": "movies-serials-apps",
       "path": "office/personality/movies-serials-apps.md"
-    },
-    {
-      "basename": "internal-tech",
-      "path": "office/credentials/internal-tech.md"
-    },
-    {
-      "basename": "external-tech",
-      "path": "office/credentials/external-tech.md"
-    },
-    {
-      "basename": "people",
-      "path": "office/cakedefi/people.md"
-    },
-    {
-      "basename": "intro",
-      "path": "ai/data-science/data-visualization/intro.md"
-    },
-    {
-      "basename": "powerbi",
-      "path": "ai/data-science/data-visualization/powerbi.md"
-    },
-    {
-      "basename": "bi-tools",
-      "path": "ai/data-science/data-visualization/bi-tools.md"
-    },
-    {
-      "basename": "infra",
-      "path": "office/blocktoons/infra.md"
-    },
-    {
-      "basename": "warehouse-schemas",
-      "path": "databases/data-warehousing/warehouse-schemas.md"
-    },
-    {
-      "basename": "intro",
-      "path": "databases/data-warehousing/intro.md"
-    },
-    {
-      "basename": "intro",
-      "path": "databases/sql-databases/aws-redshift/intro.md"
-    },
-    {
-      "basename": "services",
-      "path": "cloud/others/azure/services.md"
-    },
-    {
-      "basename": "my-infra",
-      "path": "office/other/my-infra.md"
-    },
-    {
-      "basename": "thinking-mental-models",
-      "path": "psychology/thinking-mental-models.md"
-    },
-    {
-      "basename": "redshift-sql-queries-commands",
-      "path": "databases/sql-databases/aws-redshift/redshift-sql-queries-commands.md"
     }
   ],
   "omittedPaths": [],

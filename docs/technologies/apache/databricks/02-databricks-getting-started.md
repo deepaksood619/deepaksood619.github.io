@@ -51,3 +51,9 @@ from pyspark.sql.functions import avg
 
 display(diamonds.select("color","price").groupBy("color").agg(avg("price")).sort("color"))
 ```
+
+## Others
+
+### Saving data from SQL to spark dataframe
+
+`variable_to_save = _sqldf`
