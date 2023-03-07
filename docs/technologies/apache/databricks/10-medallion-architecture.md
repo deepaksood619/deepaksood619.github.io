@@ -8,11 +8,11 @@ A **medallion architecture** is a data design pattern used to logically organi
 
 ## Benefits of a lakehouse architecture
 
--   Simple data model
--   Easy to understand and implement
--   Enables incremental ETL
--   Can recreate your tables from raw data at any time
--   ACID transactions, time travel
+- Simple data model
+- Easy to understand and implement
+- Enables incremental ETL
+- Can recreate your tables from raw data at any time
+- ACID transactions, time travel
 
 ## A quick primer on lakehouses
 

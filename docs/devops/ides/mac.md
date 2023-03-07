@@ -234,7 +234,7 @@ Unchecking the "User interface sounds" doesn't disable all sound. But sliding th
 
 - Auto Suggestion
 
-   git clone https://github.com/zsh-users/zsh-autosuggestions ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-autosuggestions
+   git clone <https://github.com/zsh-users/zsh-autosuggestions> ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-autosuggestions
 
    <https://github.com/zsh-users/zsh-autosuggestions/blob/master/INSTALL>
 
