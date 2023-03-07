@@ -1,6 +1,6 @@
 # Scikit Learn / Scipy
 
-- [Scikit Learn Intro](intro)
+- [Scikit Learn Intro](ai/scikit-learn/intro.md)
 - [Scikit Learn Commands](commands)
 - [Scikit Learn Others](ai/scikit-learn/others.md)
 - [Scipy Intro](scipy-intro)

@@ -1,6 +1,6 @@
 # Networking Concepts
 
-- [Intro](intro)
+- [Intro](networking/networking-concepts/intro.md)
 - [Book - Computer Networks](book-computer-networks)
 - [OSI Layers](osi-layers)
 - [TCP / IP](tcp-ip)

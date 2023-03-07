@@ -1,6 +1,6 @@
 # Project Management
 
-- [Project Management](intro.md)
+- [Project Management](management/project-management/intro.md)
 - [PM101](pm101)
 - [Project Constraints](project-contraints)
 - [JIRA](jira)

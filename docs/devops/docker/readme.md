@@ -1,6 +1,6 @@
 # Docker
 
-- [Intro](intro)
+- [Intro](devops/docker/intro.md)
 - [Concepts](concepts)
 - [Containers](containers)
 - [Dockerfiles](dockerfiles)

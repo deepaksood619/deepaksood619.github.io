@@ -1,6 +1,6 @@
 # Authentication
 
-- [Authentication](intro.md)
+- [Authentication](computer-science/security/authentication/intro.md)
 - [Cryptography Terms](jwt)
 - [OAuth](oauth)
 - [OpenID](openid)

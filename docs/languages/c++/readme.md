@@ -1,6 +1,6 @@
 # C++
 
-- [Intro](intro)
+- [Intro](languages/c++/intro.md)
 - [Header files](header-files)
 - [printf](printf)
 - [Storage Classes](storage-classes)

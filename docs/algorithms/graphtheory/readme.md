@@ -1,6 +1,6 @@
 # Graph Theory
 
-- [Intro](intro)
+- [Intro](algorithms/graphtheory/intro.md)
 - [Graph Search](graph-search)
 - [Eulearian Trail](eulerian-trail)
 - [Depth First Search (DFS)](depth-first-search-dfs)

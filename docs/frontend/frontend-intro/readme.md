@@ -1,6 +1,6 @@
 # Frontend
 
-- [Intro](intro)
+- [Intro](frontend/frontend-intro/intro.md)
 - [Frontend Architecture](frontend-architecture)
 - [JAMstack / CMS](jamstack-cms)
 - [Wordpress](wordpress)

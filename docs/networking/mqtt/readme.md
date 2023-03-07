@@ -1,6 +1,6 @@
 # MQTT
 
-- [Intro](intro)
+- [Intro](networking/mqtt/intro.md)
 - [Publish Subscribe Pattern](publish-subscribe-pattern)
 - [Messages](messages)
 - [Client, Broker and Connection Establishment](client-broker-and-connection-establishment)

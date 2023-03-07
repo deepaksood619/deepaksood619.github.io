@@ -1,8 +1,9 @@
 # Statistics
 
-- [Intro](intro)
+- [Intro](mathematics/statistics/intro.md)
 - [Glossary](glossary)
 - [Sampling](sampling)
+- [Ranking](mathematics/statistics/ranking.md)
 - [Descriptive Statistics](descriptive-statistics)
 - [Correlation and Covariance](correlation-and-covariance)
 - [Inferential Statistics](inferential-statistics)

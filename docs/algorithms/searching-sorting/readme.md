@@ -1,6 +1,6 @@
 # Searching Sorting
 
-- [Intro](intro)
+- [Intro](algorithms/searching-sorting/intro.md)
 - [Binary Search](binary-search)
 - [Selection Sort](selection-sort)
 - [Insertion Sort](insertion-sort)

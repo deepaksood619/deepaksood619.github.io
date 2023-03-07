@@ -5,5 +5,5 @@
 - [Cheatsheet](cheatsheet)
 - [User Guide](user_guide)
 - [Commands](commands)
-- [Examples](examples)
+- [Examples](ai/pandas/examples.md)
 - [Others](ai/pandas/others.md)

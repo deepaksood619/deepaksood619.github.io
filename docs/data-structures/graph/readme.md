@@ -1,6 +1,6 @@
 # Graph
 
-- [Intro](intro)
+- [Intro](data-structures/graph/intro.md)
 - [Adjacency Matrix](adjacency-matrix)
 - [Adjacency list](adjacency-list)
 - [Implementation](implementation)

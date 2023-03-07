@@ -1,6 +1,6 @@
 # Nutrition
 
-- [Nutrition](intro.md)
+- [Nutrition](knowledge/biology/nutrition/intro.md)
 - [Essentiality](essentiality)
 - [Daily Requirements](daily-requirements)
 - [Chart](chart)

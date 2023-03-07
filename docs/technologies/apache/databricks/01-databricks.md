@@ -11,3 +11,7 @@
 - Open Format Storage Layer
 - Built on Parquet
 - Enables ACID Transactions
+
+## Links
+
+[Get a Git access token & connect a remote repo to Databricks | Databricks on AWS](https://docs.databricks.com/repos/get-access-tokens-from-git-provider.html)

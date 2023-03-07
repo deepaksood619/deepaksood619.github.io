@@ -1,6 +1,6 @@
 # Cryptography
 
-- [Cryptography](intro.md)
+- [Cryptography](computer-science/security/cryptography/intro.md)
 - [Cryptography Terms](cryptography-terms)
 - [Diffie-Hellman Key Exchange](diffie-hellman-key-exchange)
 - [Public-key Cryptography](public-key-cryptography)

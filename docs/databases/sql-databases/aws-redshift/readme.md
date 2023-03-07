@@ -1,6 +1,6 @@
 # Redshift
 
-- [AWS Redshift](intro.md)
+- [AWS Redshift](databases/sql-databases/aws-redshift/intro.md)
 - [Architecture](databases/sql-databases/aws-redshift/architecture.md)
 - [Documentation](documentation)
 - [Deep dive / Best Practices](deep-dive-best-practices)

@@ -1,6 +1,6 @@
 # gRPC
 
-- [gRPC](intro.md)
+- [gRPC](networking/others/grpc/intro.md)
 - [Concepts](concepts)
 - [Guides](guides)
 - [Comparision](comparision)

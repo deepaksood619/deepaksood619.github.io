@@ -1,6 +1,6 @@
 # Kubernetes
 
-- [Intro](intro)
+- [Intro](devops/kubernetes/intro.md)
 - [Outline Documentation](outline-documentation)
 - [Concepts and Overview](concepts-and-overview/readme.md)
   - [Configuration](concepts-and-overview/configuration/readme.md)

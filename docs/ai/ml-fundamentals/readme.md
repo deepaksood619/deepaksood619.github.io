@@ -1,7 +1,7 @@
 # ML Fundamentals
 
 - [Table of Contents](table-of-contents)
-- [Intro](intro)
+- [Intro](ai/ml-fundamentals/intro.md)
 - [ML Classification](ml-classification)
 - [ML Process](ml-process)
 - [Preliminaries](preliminaries)

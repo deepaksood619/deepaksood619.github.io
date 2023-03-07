@@ -1,6 +1,6 @@
 # Kafka
 
-- [Intro](intro)
+- [Intro](technologies/kafka/intro.md)
 - [Intro to Kafka](intro-to-kafka)
 - [Kafka Architecture](kafka-architecture)
 - [Installing Kafka](installing-kafka)

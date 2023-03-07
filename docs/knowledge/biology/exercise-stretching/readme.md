@@ -1,6 +1,6 @@
 # Exercise / Stretching
 
-- [Exercise / Stretching](intro.md)
+- [Exercise / Stretching](knowledge/biology/exercise-stretching/intro.md)
 - [Home Exercise Routine](home-exercise-routine)
 - [Home + Gym](home-gym)
 - [Gym](gym)

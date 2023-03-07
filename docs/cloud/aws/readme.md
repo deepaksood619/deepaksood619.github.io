@@ -1,6 +1,6 @@
 # AWS
 
-- [Intro](intro)
+- [Intro](cloud/aws/intro.md)
 - [AWS Services](aws-services)
 - [CLI Commands](cli-commands)
 - [AWS Glue](aws-glue)

@@ -1,6 +1,6 @@
 # DynamoDB
 
-- [AWS DynamoDB](intro.md)
+- [AWS DynamoDB](databases/nosql-databases/aws-dynamodb/intro.md)
 - [Working](working)
 - [Core Components](core-components)
 - [Documentation](documentation)

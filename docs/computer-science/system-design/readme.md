@@ -1,6 +1,6 @@
 # System Design
 
-- [Intro](intro)
+- [Intro](computer-science/system-design/intro.md)
 - [Trade offs](trade-offs)
 - [Cloud Native](cloud-native)
 - [Architecture Guide](architecture-guide/readme.md)

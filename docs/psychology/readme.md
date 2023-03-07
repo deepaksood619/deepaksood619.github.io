@@ -7,7 +7,7 @@
 - [Self Control / Will Power](self-control-will-power)
 - [Self Awareness](self-awareness)
 - [Power](power)
-- [Psychology](intro.md)
+- [Psychology](psychology/intro.md)
 - [Criticism / Criticizing / Criticize / Critic](criticism)
 - [Biases / Fallacies](biases-fallacies)
 - [Mental Models](mental-models)

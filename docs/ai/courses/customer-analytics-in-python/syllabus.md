@@ -143,4 +143,4 @@ A useful segmentation should include these six characteristics:
 
 <https://www.toptal.com/r/social-network-analysis-in-r-gephi-2>
 
-[Intro](intro)
+[Intro](ai/courses/customer-analytics-in-python/intro.md)

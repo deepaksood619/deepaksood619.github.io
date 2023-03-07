@@ -1,6 +1,6 @@
 # Decentralized Applications
 
-1. [Intro](intro)
+1. [Intro](decentralized-applications/intro.md)
 2. [Dual-Token Economy/Model (Two-Token Economy)](dual-token-economy)
 3. [Blockchain](blockchain)
 4. [Key Concepts](key-concepts)

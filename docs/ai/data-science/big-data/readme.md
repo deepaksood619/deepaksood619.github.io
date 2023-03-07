@@ -1,6 +1,6 @@
 # Big Data
 
-- [Big Data](intro.md)
+- [Big Data](ai/data-science/big-data/intro.md)
 - [Processing Engine](processing-engine)
 - [Design of Key-Value Store](design-of-key-value-stores)
 - [Design of Zookeeper](design-of-zookeeper)

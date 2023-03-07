@@ -1,6 +1,6 @@
 # MongoDB
 
-- [MongoDB](intro.md)
+- [MongoDB](databases/nosql-databases/mongodb/intro.md)
 - [Overview](overview)
 - [Indexes](indexes)
 - [Data Types](data-types)

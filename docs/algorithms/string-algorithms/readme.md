@@ -1,6 +1,6 @@
 # String Algorithms
 
-- [Intro](intro)
+- [Intro](algorithms/string-algorithms/intro.md)
 - [Substring Search Intro](substring-search-intro)
 - [Brute Force](brute-force)
 - [Knuth-Morris-Pratt](knuth-morris-pratt)

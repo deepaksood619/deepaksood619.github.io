@@ -13,26 +13,37 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "office/cakedefi/architecture.md",
+                "file": "databases/nosql-databases/aws-dynamodb/documentation.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "7606d49e76475a45",
+            "id": "9391ff2ca2dd64d8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "frontend/js-javascript/basic.md",
+                "file": "technologies/apache/apache-spark/01-terms.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8e168b6910fcdccc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "technologies/apache/apache-spark/00-intro.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -61,7 +72,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "e-commerce",
+                "query": "medallion",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -106,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "frontend/js-javascript/basic.md",
+                "file": "databases/nosql-databases/aws-dynamodb/documentation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "frontend/js-javascript/basic.md",
+                "file": "databases/nosql-databases/aws-dynamodb/documentation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "frontend/js-javascript/basic.md"
+                "file": "databases/nosql-databases/aws-dynamodb/documentation.md"
               }
             }
           },
@@ -196,32 +207,37 @@
   },
   "active": "978fd2faf621af33",
   "lastOpenFiles": [
-    "about-me/ideas/creating-a-business-startup.md",
-    "databases/nosql-databases/mongodb/intro.md",
-    "ai/courses/others-resources-interview.md",
-    "management/business/business-terms.md",
-    "office/cakedefi/todo.md",
-    "office/cakedefi/tables.md",
+    "databases/nosql-databases/aws-dynamodb/core-components.md",
+    "databases/nosql-databases/aws-dynamodb/cheatsheet.md",
+    "decentralized-applications/ethereum/01-intro-to-ethereum.md",
+    "decentralized-applications/ethereum/02-intro-to-ether.md",
+    "decentralized-applications/ethereum/03-intro-to-dapps.md",
+    "decentralized-applications/ethereum/05-accounts.md",
     "office/cakedefi/architecture.md",
-    "technologies/apache/apache-spark/databricks-getting-started.md",
-    "technologies/apache/apache-spark/databricks.md",
-    "technologies/apache/apache-spark/examples.md",
-    "technologies/apache/apache-spark/spark-built-in-libraries.md",
-    "technologies/apache/apache-spark/sliding-window-analytics.md",
-    "technologies/apache/apache-spark/intro.md",
-    "technologies/apache/apache-spark/joins.md",
+    "office/cakedefi/readme.md",
+    "mathematics/statistics/readme.md",
+    "mathematics/statistics/ranking.md",
+    "technologies/apache/readme.md",
+    "technologies/apache/databricks/readme.md",
+    "office/cakedefi/product.md",
+    "technologies/apache/databricks/10-medallion-architecture.md",
+    "technologies/apache/databricks/02-databricks-getting-started.md",
+    "technologies/apache/databricks/01-databricks.md",
+    "technologies/apache/databricks/40-medallion-architecture.md",
+    "technologies/apache/databricks/31-databricks-getting-started.md",
+    "technologies/apache/databricks/30-databricks.md",
+    "technologies/apache/databricks",
+    "technologies/apache/apache-hive.md",
+    "databricks",
+    "technologies/apache/apache-spark/30-databricks.md",
+    "technologies/apache/apache-spark/40-medallion-architecture.md",
     "technologies/apache/apache-spark/readme.md",
-    "technologies/apache/apache-spark/key-points.md",
-    "technologies/apache/apache-spark/processing-model.md",
-    "technologies/apache/apache-spark/terms.md",
-    "office/keep/deepak-banks.md",
-    "office/cakedefi/infra-hr.md",
-    "databases/data-warehousing/databricks.md",
-    "networking/others/file-formats.md",
-    "databases/data-warehousing/databricks-getting-started.md",
-    "office/personality/movies-serials-apps.md",
-    "office/credentials/internal-tech.md",
-    "office/credentials/external-tech.md",
+    "technologies/apache/apache-spark/31-databricks-getting-started.md",
+    "technologies/apache/apache-spark/09-others.md",
+    "technologies/apache/apache-spark/08-examples.md",
+    "media/Pasted image 20230307111436.png",
+    "media/Pasted image 20230307111403.png",
+    "media/Pasted image 20230307111359.png",
     "media/Pasted image 20230305171944.png",
     "media/Pasted image 20230305171922.png",
     "media/Pasted image 20230305171843.png",
@@ -229,18 +245,13 @@
     "media/Pasted image 20230305103925.png",
     "media/Pasted image 20230305103910.png",
     "media/Coding-Interview-Questions-image1.jpg",
-    "media/stashfin-infra.drawio.png",
     "about-me/projects",
-    "media/plateau-of-latent-potential.png",
-    "media/Pie-image2.jpg",
     "psychology/soft-skills/psychology/soft-skills",
     "psychology/soft-skills/psychology",
     "office/bash.sh",
     "office/keep/office/keep",
     "office/keep/office",
     "languages/c++/languages/c++",
-    "languages/c++/languages",
-    "frontend/others/nextjs",
-    "Untitled"
+    "languages/c++/languages"
   ]
 }

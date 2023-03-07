@@ -1,6 +1,6 @@
 # Physics
 
-- [Intro](intro)
+- [Intro](knowledge/physics/intro.md)
 - [Crash Course Physics](crash-course-physics)
 - [Khan Academy Physics](khan-academy-physics)
 - [Astronomy](astronomy)

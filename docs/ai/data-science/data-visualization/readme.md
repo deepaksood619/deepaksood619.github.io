@@ -1,6 +1,6 @@
 # Data Visualization
 
-- [Data Visualization](intro.md)
+- [Data Visualization](ai/data-science/data-visualization/intro.md)
 - [BI Tools](bi-tools)
 - [PowerBI](powerbi)
 - [Charts](charts)

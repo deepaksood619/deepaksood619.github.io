@@ -1,6 +1,6 @@
 # Algebra
 
-- [Intro](intro)
+- [Intro](mathematics/algebra/intro.md)
 - [Sets](sets)
 - [Root](root)
 - [2.1 Functions](functions)

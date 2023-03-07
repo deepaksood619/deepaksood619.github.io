@@ -1,6 +1,6 @@
 # Istio
 
-- [Istio](intro.md)
+- [Istio](devops/monitoring/istio/intro.md)
 - [Architecture](devops/monitoring/istio/architecture.md)
 - [Traffic Management](traffic-management)
 - [Security](security)
@@ -8,5 +8,5 @@
 - [Tasks](tasks)
 - [Operations](operations)
 - [Commands](commands)
-- [Examples](examples)
+- [Examples](devops/monitoring/istio/examples.md)
 - [Others](devops/monitoring/istio/others.md)

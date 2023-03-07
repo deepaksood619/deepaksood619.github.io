@@ -1,6 +1,6 @@
 # Data Warehousing
 
-- [Intro](intro)
+- [Intro](databases/data-warehousing/intro.md)
 - [Concepts](concepts)
 - [Characteristics](characteristics)
 - [Architecture](databases/data-warehousing/architecture.md)

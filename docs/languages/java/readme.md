@@ -1,6 +1,6 @@
 # Java
 
-- [Intro](intro)
+- [Intro](languages/java/intro.md)
 - [Lambda Expressions](lambda-expressions)
 - [Reflection](reflection)
 - [Defining Constants](defining-constants)

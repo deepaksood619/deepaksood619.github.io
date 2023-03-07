@@ -1,6 +1,6 @@
 # Data Science
 
-- [Intro](intro)
+- [Intro](ai/data-science/intro.md)
 - [Data](data)
 - [Data Preprocessing](data-preprocessing)
 - [Data Mining](data-mining)

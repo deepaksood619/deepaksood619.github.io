@@ -1,6 +1,6 @@
 # DevOps
 
-- [Intro](intro)
+- [Intro](devops/devops-intro/intro.md)
 - [Concepts](concepts)
 - [Design](design)
 - [Deployment Strategies](deployment-strategies)

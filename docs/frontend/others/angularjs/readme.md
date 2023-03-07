@@ -1,6 +1,6 @@
 # AngularJS
 
-- [AngularJS](intro.md)
+- [AngularJS](frontend/others/angularjs/intro.md)
 - [Tour of Heroes](tour-of-heroes)
 - [Intro](01-intro)
 - [Modules](03-modules)

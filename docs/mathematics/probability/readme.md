@@ -1,6 +1,6 @@
 # Probability
 
-- [Intro](intro)
+- [Intro](mathematics/probability/intro.md)
 - [Random Variables](random-variables)
 - [Binomial Random Variables](binomial-random-variables)
 - [Probability Distribution](probability-distribution)

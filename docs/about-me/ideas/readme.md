@@ -1,6 +1,6 @@
 # Ideas
 
-- [Intro](intro)
+- [Intro](about-me/ideas/intro.md)
 - [Creating a Business / Startup](creating-a-business-startup)
 - [Non Profit](non-profit)
 - [Startup Ideas - SAAS](startups-ideas-saas)

@@ -1,4 +1,3 @@
-
 # Databricks in 5 minutes
 
 ## The next command creates a table from a Databricks dataset

@@ -1,6 +1,6 @@
 # Databases Concepts
 
-- [Intro](intro)
+- [Intro](databases/concepts/intro.md)
 - [Types of Databases](types-of-databases)
 - [History](history)
 - [Concepts](core-concepts.md)

@@ -1,6 +1,6 @@
 # AWS Aurora
 
-- [AWS Aurora](intro.md)
+- [AWS Aurora](databases/sql-databases/aws-aurora/intro.md)
 - [Aurora Documentation](aurora-documentation)
 - [Storage](storage)
 - [Configurations / Optimizations / Best Practices](configurations-optimizations-best-practices)

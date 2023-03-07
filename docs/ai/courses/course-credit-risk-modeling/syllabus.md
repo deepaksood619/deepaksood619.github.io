@@ -154,7 +154,7 @@ Monitoring or KPIs & flag anything > 5% deviation
 
 ## Links
 
-- [Intro](intro)
+- [Intro](ai/courses/course-credit-risk-modeling/intro.md)
 - [Credit and Debt](credit-and-debt)
 - [Decision Areas and Credit Scorecards](decision-areas-and-credit-scorecards)
 - [Fraud Features](fraud-features)

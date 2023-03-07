@@ -1,6 +1,6 @@
 # CodeIgnitor
 
-- [CodeIgniter](intro.md)
+- [CodeIgniter](languages/php/codeigniter/intro.md)
 - [Application Architecture](application-architecture)
 - [MVC](mvc)
 - [Basic Concepts](basic-concepts)

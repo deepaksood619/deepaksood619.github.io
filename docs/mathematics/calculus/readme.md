@@ -1,7 +1,7 @@
 # Calculus
 
 - [Precalculus Intro](precalculus-intro)
-- [Intro](intro)
+- [Intro](mathematics/calculus/intro.md)
 - [Tangent Line and the Derivative](tangent-line-and-the-derivative)
 - [Product Rule for Derivatives](product-rule-for-derivatives)
 - [Quotient Rule](quotient-rule)

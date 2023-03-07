@@ -168,4 +168,4 @@ A hashtable of the smaller data set is created, then SQL Server loops through th
 
 <https://www.freecodecamp.org/news/sql-joins-tutorial>
 
-[Spark Joins](../../technologies/apache/apache-spark/joins)
+[Spark Joins](technologies/apache/apache-spark/07-joins.md)

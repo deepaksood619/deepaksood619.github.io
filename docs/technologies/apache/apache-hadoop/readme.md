@@ -1,7 +1,7 @@
 # Apache Hadoop
 
 - [Apache Hadoop](about.md)
-- [Intro](intro)
+- [Intro](technologies/apache/apache-hadoop/intro.md)
 - [Big Data Hadoop Stack](big-data-hadoop-stack)
 - [HDFS](hdfs)
 - [Hadoop MapReduce 1.0](hadoop-mapreduce-1.0)

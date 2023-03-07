@@ -1,6 +1,106 @@
 {
   "recentFiles": [
     {
+      "basename": "documentation",
+      "path": "databases/nosql-databases/aws-dynamodb/documentation.md"
+    },
+    {
+      "basename": "core-components",
+      "path": "databases/nosql-databases/aws-dynamodb/core-components.md"
+    },
+    {
+      "basename": "cheatsheet",
+      "path": "databases/nosql-databases/aws-dynamodb/cheatsheet.md"
+    },
+    {
+      "basename": "01-intro-to-ethereum",
+      "path": "decentralized-applications/ethereum/01-intro-to-ethereum.md"
+    },
+    {
+      "basename": "02-intro-to-ether",
+      "path": "decentralized-applications/ethereum/02-intro-to-ether.md"
+    },
+    {
+      "basename": "03-intro-to-dapps",
+      "path": "decentralized-applications/ethereum/03-intro-to-dapps.md"
+    },
+    {
+      "basename": "05-accounts",
+      "path": "decentralized-applications/ethereum/05-accounts.md"
+    },
+    {
+      "basename": "architecture",
+      "path": "office/cakedefi/architecture.md"
+    },
+    {
+      "basename": "readme",
+      "path": "office/cakedefi/readme.md"
+    },
+    {
+      "basename": "readme",
+      "path": "mathematics/statistics/readme.md"
+    },
+    {
+      "basename": "ranking",
+      "path": "mathematics/statistics/ranking.md"
+    },
+    {
+      "basename": "readme",
+      "path": "technologies/apache/readme.md"
+    },
+    {
+      "basename": "readme",
+      "path": "technologies/apache/databricks/readme.md"
+    },
+    {
+      "basename": "product",
+      "path": "office/cakedefi/product.md"
+    },
+    {
+      "basename": "apache-hive",
+      "path": "technologies/apache/apache-hive.md"
+    },
+    {
+      "basename": "readme",
+      "path": "technologies/apache/apache-spark/readme.md"
+    },
+    {
+      "basename": "09-others",
+      "path": "technologies/apache/apache-spark/09-others.md"
+    },
+    {
+      "basename": "08-examples",
+      "path": "technologies/apache/apache-spark/08-examples.md"
+    },
+    {
+      "basename": "07-joins",
+      "path": "technologies/apache/apache-spark/07-joins.md"
+    },
+    {
+      "basename": "06-sliding-window-analytics",
+      "path": "technologies/apache/apache-spark/06-sliding-window-analytics.md"
+    },
+    {
+      "basename": "05-spark-built-in-libraries",
+      "path": "technologies/apache/apache-spark/05-spark-built-in-libraries.md"
+    },
+    {
+      "basename": "04-key-points",
+      "path": "technologies/apache/apache-spark/04-key-points.md"
+    },
+    {
+      "basename": "03-processing-model",
+      "path": "technologies/apache/apache-spark/03-processing-model.md"
+    },
+    {
+      "basename": "01-terms",
+      "path": "technologies/apache/apache-spark/01-terms.md"
+    },
+    {
+      "basename": "00-intro",
+      "path": "technologies/apache/apache-spark/00-intro.md"
+    },
+    {
       "basename": "basic",
       "path": "frontend/js-javascript/basic.md"
     },
@@ -29,54 +129,6 @@
       "path": "office/cakedefi/tables.md"
     },
     {
-      "basename": "architecture",
-      "path": "office/cakedefi/architecture.md"
-    },
-    {
-      "basename": "databricks-getting-started",
-      "path": "technologies/apache/apache-spark/databricks-getting-started.md"
-    },
-    {
-      "basename": "databricks",
-      "path": "technologies/apache/apache-spark/databricks.md"
-    },
-    {
-      "basename": "examples",
-      "path": "technologies/apache/apache-spark/examples.md"
-    },
-    {
-      "basename": "spark-built-in-libraries",
-      "path": "technologies/apache/apache-spark/spark-built-in-libraries.md"
-    },
-    {
-      "basename": "sliding-window-analytics",
-      "path": "technologies/apache/apache-spark/sliding-window-analytics.md"
-    },
-    {
-      "basename": "intro",
-      "path": "technologies/apache/apache-spark/intro.md"
-    },
-    {
-      "basename": "joins",
-      "path": "technologies/apache/apache-spark/joins.md"
-    },
-    {
-      "basename": "readme",
-      "path": "technologies/apache/apache-spark/readme.md"
-    },
-    {
-      "basename": "key-points",
-      "path": "technologies/apache/apache-spark/key-points.md"
-    },
-    {
-      "basename": "processing-model",
-      "path": "technologies/apache/apache-spark/processing-model.md"
-    },
-    {
-      "basename": "terms",
-      "path": "technologies/apache/apache-spark/terms.md"
-    },
-    {
       "basename": "deepak-banks",
       "path": "office/keep/deepak-banks.md"
     },
@@ -103,10 +155,6 @@
     {
       "basename": "people",
       "path": "office/cakedefi/people.md"
-    },
-    {
-      "basename": "readme",
-      "path": "office/cakedefi/readme.md"
     },
     {
       "basename": "intro",
@@ -151,54 +199,6 @@
     {
       "basename": "redshift-sql-queries-commands",
       "path": "databases/sql-databases/aws-redshift/redshift-sql-queries-commands.md"
-    },
-    {
-      "basename": "readme",
-      "path": "databases/sql-databases/aws-redshift/readme.md"
-    },
-    {
-      "basename": "diseases-tests",
-      "path": "knowledge/biology/diseases-tests.md"
-    },
-    {
-      "basename": "research",
-      "path": "psychology/research.md"
-    },
-    {
-      "basename": "readme",
-      "path": "cloud/aws/analytics/readme.md"
-    },
-    {
-      "basename": "tools",
-      "path": "decentralized-applications/tools.md"
-    },
-    {
-      "basename": "defi",
-      "path": "decentralized-applications/defi.md"
-    },
-    {
-      "basename": "todo",
-      "path": "office/blocktoons/todo.md"
-    },
-    {
-      "basename": "product",
-      "path": "office/cakedefi/product.md"
-    },
-    {
-      "basename": "nbfc-banking-terms",
-      "path": "economics/nbfc-banking-terms.md"
-    },
-    {
-      "basename": "about-culture",
-      "path": "office/cakedefi/about-culture.md"
-    },
-    {
-      "basename": "malaysia",
-      "path": "office/cakedefi/malaysia.md"
-    },
-    {
-      "basename": "my-interviews-cake-defi",
-      "path": "office/cakedefi/my-interviews-cake-defi.md"
     }
   ],
   "omittedPaths": [],

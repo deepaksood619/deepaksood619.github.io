@@ -1,6 +1,6 @@
 # Redis
 
-- [Redis](intro.md)
+- [Redis](databases/nosql-databases/redis/intro.md)
 - [Documentation](documentation)
 - [Redis Concepts](redis-concepts)
 - [Redis Eviction Policies](redis-eviction-policies)

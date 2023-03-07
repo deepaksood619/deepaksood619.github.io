@@ -1,6 +1,6 @@
 # Prometheus
 
-- [Prometheus](intro.md)
+- [Prometheus](devops/monitoring/prometheus/intro.md)
 - [Prometheus Architecture](prometheus-architecture)
 - [Querying](querying)
 - [Rules](rules)

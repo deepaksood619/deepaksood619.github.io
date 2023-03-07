@@ -1,6 +1,6 @@
 # Product Management
 
-- [Product Management](intro.md)
+- [Product Management](management/product-management/intro.md)
 - [product-manager-role](management/product-management/product-manager-role.md)
 - [kano-model](management/product-management/kano-model.md)
 - [product-book-summaries](management/product-management/product-book-summaries.md)

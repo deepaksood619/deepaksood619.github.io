@@ -1,6 +1,6 @@
 # PHP
 
-- [Intro](intro)
+- [Intro](languages/php/intro.md)
 - [Documentation](documentation)
 - [Syntax](syntax)
 - [Operators](operators)

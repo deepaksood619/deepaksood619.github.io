@@ -1,6 +1,6 @@
 # Javascript
 
-- [Intro](intro)
+- [Intro](frontend/js-javascript/intro.md)
 - [Basic](basic)
 - [Promises](promises)
 - [Others](frontend/js-javascript/others.md)

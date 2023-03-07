@@ -2,7 +2,7 @@
 
 - [Exercise / Stretching](exercise-stretching/readme.md)
 - [Nutrition](nutrition/readme.md)
-- [Biology](intro.md)
+- [Biology](knowledge/biology/intro.md)
 - [Genetics](genetics)
 - [Organ Systems](organ-systems)
 - [Muscles](muscles)

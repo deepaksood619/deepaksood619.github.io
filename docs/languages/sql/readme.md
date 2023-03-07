@@ -1,6 +1,6 @@
 # SQL
 
-- [Intro](intro)
+- [Intro](languages/sql/intro.md)
 - [Concepts](concepts)
 - [Types](types)
 - [Operators / Wildcards](operators-wildcards)

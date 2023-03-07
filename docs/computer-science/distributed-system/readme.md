@@ -1,6 +1,6 @@
 # Distributed System
 
-- [Intro](intro)
+- [Intro](computer-science/distributed-system/intro.md)
 - [Vocabulary](vocabulary)
 - [CAP Theorem](cap-theorem)
 - [Consistency](consistency)

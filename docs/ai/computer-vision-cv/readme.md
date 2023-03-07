@@ -1,6 +1,6 @@
 # Computer Vision
 
-- [Computer Vision (CV)](intro.md)
+- [Computer Vision (CV)](ai/computer-vision-cv/intro.md)
 - [Image / Data Labeling Tools](image-data-labeling-tools)
 - [Image Formats](image-formats)
 - [MNIST for ML Begineers | Tensorflow](mnist-for-ml-beginners-tensorflow)

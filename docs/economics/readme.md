@@ -1,6 +1,6 @@
 # Economics
 
-- [Intro](intro)
+- [Intro](economics/intro.md)
 - [Schools of Economic Thoughts](schools-of-economic-thought)
 - [Mental Models](mental-models/economics-mental-models)
   - [Macroeconomics](mental-models/macroeconomics)

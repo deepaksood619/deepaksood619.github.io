@@ -1,6 +1,6 @@
 # Software Engineering
 
-- [Software Engineering](intro.md)
+- [Software Engineering](computer-science/software-engineering/intro.md)
 - [Static Code Analysis](static-code-analysis)
 - [Code Smell](code-smell)
 - [Development Approaches](development-approaches)

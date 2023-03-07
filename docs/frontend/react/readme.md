@@ -1,6 +1,6 @@
 # React
 
-- [Intro](intro)
+- [Intro](frontend/react/intro.md)
 - [Docs](docs)
 - [Mordern React with React](mordern-react-with-redux)
 - [Components](components)

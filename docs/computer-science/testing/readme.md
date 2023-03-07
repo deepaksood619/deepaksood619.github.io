@@ -1,7 +1,7 @@
 # Testing
 
-- [Intro](intro)
-- [Terms](terms)
+- [Intro](computer-science/testing/intro.md)
+- [Terms](computer-science/testing/terms.md)
 - [Mocking](mocking)
 - [Tools](tools)
 - [Load / Performance Testing / QA Tools](load-performance-testing-qa-tools)

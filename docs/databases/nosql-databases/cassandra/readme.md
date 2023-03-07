@@ -1,6 +1,6 @@
 # Cassandra
 
-- [Cassandra](intro.md)
+- [Cassandra](databases/nosql-databases/cassandra/intro.md)
 - [Working](working)
 - [Design](design)
 - [Data Model](data-model)

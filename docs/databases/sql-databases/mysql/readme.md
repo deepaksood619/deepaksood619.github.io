@@ -1,6 +1,6 @@
 # MySQL
 
-- [MySQL](intro.md)
+- [MySQL](databases/sql-databases/mysql/intro.md)
 - [Documentation](documentation)
 - [MySQL Data Types](mysql-data-types)
 - [Connection Handling](connection-handling)
