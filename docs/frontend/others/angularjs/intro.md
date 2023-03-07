@@ -1,4 +1,4 @@
-## AngularJS
+# AngularJS
 
 <https://www.toptal.com/angular/angular-9-tutorial-angular-ivy>
 
@@ -20,7 +20,7 @@ Then you launch the app by *bootstrapping* the *root module*. Angular takes over
 
 ![image](../../../media/AngularJS-image1.jpg)
 
-1. Modules - Angular apps are modular and Angular has its own modularity system called *NgModules*.
+Modules - Angular apps are modular and Angular has its own modularity system called *NgModules*.
 
 ## Angular Ivy
 
@@ -28,20 +28,17 @@ Angular Ivy is the new Angular compiler. It's the result of a major refactoring 
 
 ## Commands
 
+```bash
 # Install
-
 npm install -g @angular/cli
 
-## Create a new project
-
+# Create a new project
 ng new my-app
 
-## Serve the application
-
+# Serve the application
 cd my-app
-
 ng serve --open
 
-## Create a Component
-
+# Create a Component
 ng generate component heroes
+```

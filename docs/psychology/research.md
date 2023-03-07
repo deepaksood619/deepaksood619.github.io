@@ -28,6 +28,8 @@ Typically information is defined in terms of data, knowledge in terms of informa
 
 Both the cross-sectional and the longitudinal studies are observational studies. This means that researchers record information about their subjects without manipulating the study environment. In our study, we would simply measure the cholesterol levels of daily walkers and non-walkers along with any other characteristics that might be of interest to us. We would not influence non-walkers to take up that activity, or advise daily walkers to modify their behaviour. In short, we'd try not to interfere.
 
+[Cross-sectional study - Wikipedia](https://en.wikipedia.org/wiki/Cross-sectional_study)
+
 ## Longitudinal study
 
 A longitudinal study, like a cross-sectional one, is observational. So, once again, researchers do not interfere with their subjects. However, in a longitudinal study, researchers conduct several observations of the same subjects over a period of time, sometimes lasting many years.

@@ -16,26 +16,19 @@
 ## Machine Learning Library (MLlib)
 
 1. Classification: logistic regression, linear SVM, naive Bayes, classification tree
-
 2. Regression: generalized linear models (GLMs), regression tree
-
 3. Collaborative filtering: alternating least squares (ALS), non-negative matrix factorization (NMF)
-
 4. Clustering: K-means
-
 5. Decomposition: SVD, PCA
-
 6. Optimization: stochastic gradient descent, L-BFGS)
-
-## GraphX
-
-![image](../../../media/Technologies-Apache-Spark-Built-in-Libraries-image2.jpg)
 
 ## GraphX
 
 - General graph processing library
 - Build graph using RDDs of nodes and edges
 - Large library of graph algorithms with composable steps
+
+![image](../../../media/Technologies-Apache-Spark-Built-in-Libraries-image2.jpg)
 
 ## GraphX Algorithms
 
@@ -81,14 +74,15 @@ Enables loading & querying structed data in Spark
 
 From Hive:
 
+```python
 c = HiveContext(sc)
-
 rows = c.sql("select text, year from hivetable")
-
 rows.filter(lambda r: r.year > 2013).collect()
+```
 
 From JSON:
 
+```python
 c.jsonFile("tweets.json").registerAsTable("tweets")
-
 c.sql("select text, user.name from tweets")
+```

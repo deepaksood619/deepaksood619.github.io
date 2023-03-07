@@ -22,11 +22,17 @@
 ### SAAS Tools
 
 - Polygon
-- [MoonPay: Buy and sell Bitcoin, Ethereum, and other cryptos](https://www.moonpay.com/) - A fast and simple way to buy and sell crypto
-- [BitPay: Buy Crypto Without Fees | Store, Swap & Spend Bitcoin](https://bitpay.com/)
-- [Coin Payments](https://www.coinpayments.net/)
+- **Payment Services**
+  - [MoonPay: Buy and sell Bitcoin, Ethereum, and other cryptos](https://www.moonpay.com/) - A fast and simple way to buy and sell crypto
+  - [BitPay: Buy Crypto Without Fees | Store, Swap & Spend Bitcoin](https://bitpay.com/)
+  - [Coin Payments](https://www.coinpayments.net/)
+  - Transak
+  - Banxa
+  - CoinGate
+  - [NOWPayments — Accept Crypto Payments as a Business](https://nowpayments.io/)
 - [Plug & play APIs to simplify the web3 experience | Biconomy](https://www.biconomy.io/)
 - [Web3's leading platform for NFT experiences | HyperMint by MoonPay](https://hypermint.com/)
+- KYC - sumsub
 
 ## Hyperledger
 

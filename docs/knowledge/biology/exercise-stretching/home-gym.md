@@ -24,9 +24,8 @@
 
 - **Can do both too**
 
-1. **Add all exercise photos to exercises**
-
-2. **Create only weekly things here**
+1. Add all exercise photos to exercises
+2. Create only weekly things here
 
 ## Sets4Reps10Rest60secTempo2010
 
@@ -36,19 +35,19 @@
 
    - Dumbbell Bench Press
 
-![image](../../../media/Exercise-Stretching_Home-+-Gym-image1.jpg)
+   ![image](../../../media/Exercise-Stretching_Home-+-Gym-image1.jpg)
 
-- Dumbell pull overs
+   - Dumbell pull overs
 
-![image](../../../media/Exercise-Stretching_Home-+-Gym-image2.jpg)
+   ![image](../../../media/Exercise-Stretching_Home-+-Gym-image2.jpg)
 
-- Triceps Extension
+   - Triceps Extension
 
-![image](../../../media/Exercise-Stretching_Home-+-Gym-image3.jpg)
+   ![image](../../../media/Exercise-Stretching_Home-+-Gym-image3.jpg)
 
-- Standing Triceps over head dumbbell
+   - Standing Triceps over head dumbbell
 
-- Pushups
+   - Pushups
 
 2. Tuesday (Focus Back + Biceps)
 
@@ -56,19 +55,19 @@
 
    - Hammer
 
-![image](../../../media/Exercise-Stretching_Home-+-Gym-image4.jpg)
+   ![image](../../../media/Exercise-Stretching_Home-+-Gym-image4.jpg)
 
-- Reverse Fly
+   - Reverse Fly
 
-![image](../../../media/Exercise-Stretching_Home-+-Gym-image5.jpg)
+   ![image](../../../media/Exercise-Stretching_Home-+-Gym-image5.jpg)
 
-- Dumbbell Row
+   - Dumbbell Row
 
-![image](../../../media/Exercise-Stretching_Home-+-Gym-image6.jpg)
+   ![image](../../../media/Exercise-Stretching_Home-+-Gym-image6.jpg)
 
-- Bicep curl
+   - Bicep curl
 
-![image](../../../media/Exercise-Stretching_Home-+-Gym-image7.jpg)
+   ![image](../../../media/Exercise-Stretching_Home-+-Gym-image7.jpg)
 
 3. Wednesday (Focus Shoulders & Legs & Abs)
 
@@ -76,33 +75,33 @@
 
    - Overhead press
 
-![image](../../../media/Exercise-Stretching_Home-+-Gym-image8.jpg)
+   ![image](../../../media/Exercise-Stretching_Home-+-Gym-image8.jpg)
 
-- Squat
+   - Squat
 
-![image](../../../media/Exercise-Stretching_Home-+-Gym-image9.jpg)
+   ![image](../../../media/Exercise-Stretching_Home-+-Gym-image9.jpg)
 
-- Lunge
+   - Lunge
 
-![image](../../../media/Exercise-Stretching_Home-+-Gym-image10.jpg)
+   ![image](../../../media/Exercise-Stretching_Home-+-Gym-image10.jpg)
 
-- Shrug
+   - Shrug
 
-![image](../../../media/Exercise-Stretching_Home-+-Gym-image11.jpg)
+   ![image](../../../media/Exercise-Stretching_Home-+-Gym-image11.jpg)
 
-- Front raise
+   - Front raise
 
-![image](../../../media/Exercise-Stretching_Home-+-Gym-image12.jpg)
+   ![image](../../../media/Exercise-Stretching_Home-+-Gym-image12.jpg)
 
-- Lateral raise
+   - Lateral raise
 
-![image](../../../media/Exercise-Stretching_Home-+-Gym-image13.jpg)
+   ![image](../../../media/Exercise-Stretching_Home-+-Gym-image13.jpg)
 
-- Abs
+   - Abs
 
-- Plank
+   - Plank
 
-- situps
+   - situps
 
 4. Thursday (Focus Triceps + Chest)
 

@@ -1,7 +1,7 @@
 # Istio
 
 - [Istio](intro.md)
-- [Architecture](architecture)
+- [Architecture](devops/monitoring/istio/architecture.md)
 - [Traffic Management](traffic-management)
 - [Security](security)
 - [Observability](observability)

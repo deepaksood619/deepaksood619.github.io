@@ -1,204 +1,204 @@
 {
   "recentFiles": [
     {
-      "basename": "page-rank",
-      "path": "ai/data-science/big-data/page-rank.md"
+      "basename": "basic",
+      "path": "frontend/js-javascript/basic.md"
     },
     {
-      "basename": "07-blocks",
-      "path": "decentralized-applications/ethereum/07-blocks.md"
+      "basename": "creating-a-business-startup",
+      "path": "about-me/ideas/creating-a-business-startup.md"
     },
     {
-      "basename": "08-evm",
-      "path": "decentralized-applications/ethereum/08-evm.md"
+      "basename": "intro",
+      "path": "databases/nosql-databases/mongodb/intro.md"
     },
     {
-      "basename": "01-intro-to-ethereum",
-      "path": "decentralized-applications/ethereum/01-intro-to-ethereum.md"
-    },
-    {
-      "basename": "02-intro-to-ether",
-      "path": "decentralized-applications/ethereum/02-intro-to-ether.md"
-    },
-    {
-      "basename": "03-intro-to-dapps",
-      "path": "decentralized-applications/ethereum/03-intro-to-dapps.md"
-    },
-    {
-      "basename": "05-accounts",
-      "path": "decentralized-applications/ethereum/05-accounts.md"
-    },
-    {
-      "basename": "06-transactions",
-      "path": "decentralized-applications/ethereum/06-transactions.md"
-    },
-    {
-      "basename": "09-gas",
-      "path": "decentralized-applications/ethereum/09-gas.md"
-    },
-    {
-      "basename": "10-nodes-and-clients",
-      "path": "decentralized-applications/ethereum/10-nodes-and-clients.md"
-    },
-    {
-      "basename": "arbitrum",
-      "path": "decentralized-applications/ethereum/arbitrum.md"
-    },
-    {
-      "basename": "technologies-tools",
-      "path": "databases/others/technologies-tools.md"
-    },
-    {
-      "basename": "http-3-quic",
-      "path": "networking/protocols/http-3-quic.md"
-    },
-    {
-      "basename": "todo-tech-&-courses",
-      "path": "office/todo/todo-tech-&-courses.md"
-    },
-    {
-      "basename": "nft-non-fungible-tokens",
-      "path": "decentralized-applications/nft-non-fungible-tokens.md"
-    },
-    {
-      "basename": "tools",
-      "path": "decentralized-applications/tools.md"
-    },
-    {
-      "basename": "coding-interview-questions",
-      "path": "computer-science/interview-question/coding-interview-questions.md"
-    },
-    {
-      "basename": "ui-ux-ixd-design-frontend",
-      "path": "frontend/frontend-intro/ui-ux-ixd-design-frontend.md"
-    },
-    {
-      "basename": "frontend-architecture",
-      "path": "frontend/frontend-intro/frontend-architecture.md"
-    },
-    {
-      "basename": "infra",
-      "path": "office/blocktoons/infra.md"
-    },
-    {
-      "basename": "mac",
-      "path": "devops/ides/mac.md"
-    },
-    {
-      "basename": "stashfin-tech-stack-infra",
-      "path": "about-me/projects/stashfin-tech-stack-infra.md"
-    },
-    {
-      "basename": "projects",
-      "path": "about-me/projects.md"
-    },
-    {
-      "basename": "readme",
-      "path": "economics/readme.md"
-    },
-    {
-      "basename": "nbfc-banking-terms",
-      "path": "economics/nbfc-banking-terms.md"
-    },
-    {
-      "basename": "development-approaches",
-      "path": "computer-science/software-engineering/development-approaches.md"
-    },
-    {
-      "basename": "marketing-sales",
-      "path": "management/marketing-sales.md"
-    },
-    {
-      "basename": "knowledge-of-humanity",
-      "path": "knowledge/general/knowledge-of-humanity.md"
-    },
-    {
-      "basename": "macroeconomics",
-      "path": "economics/mental-models/macroeconomics.md"
-    },
-    {
-      "basename": "others",
-      "path": "computer-science/distributed-system/others.md"
+      "basename": "others-resources-interview",
+      "path": "ai/courses/others-resources-interview.md"
     },
     {
       "basename": "business-terms",
       "path": "management/business/business-terms.md"
     },
     {
-      "basename": "checklist-tips-personal-finance-quotes",
-      "path": "economics/financial-finance-investing/checklist-tips-personal-finance-quotes.md"
+      "basename": "todo",
+      "path": "office/cakedefi/todo.md"
     },
     {
-      "basename": "mental-models",
-      "path": "management/mental-models.md"
+      "basename": "tables",
+      "path": "office/cakedefi/tables.md"
     },
     {
-      "basename": "economics-mental-models",
-      "path": "economics/mental-models/economics-mental-models.md"
+      "basename": "architecture",
+      "path": "office/cakedefi/architecture.md"
     },
     {
-      "basename": "procastination",
-      "path": "psychology/procastination.md"
+      "basename": "databricks-getting-started",
+      "path": "technologies/apache/apache-spark/databricks-getting-started.md"
     },
     {
-      "basename": "life",
-      "path": "knowledge/quotes-proverbs/life.md"
+      "basename": "databricks",
+      "path": "technologies/apache/apache-spark/databricks.md"
     },
     {
-      "basename": "others",
-      "path": "office/keep/others.md"
+      "basename": "examples",
+      "path": "technologies/apache/apache-spark/examples.md"
     },
     {
-      "basename": "prioritization-leverage",
-      "path": "psychology/soft-skills/prioritization-leverage.md"
+      "basename": "spark-built-in-libraries",
+      "path": "technologies/apache/apache-spark/spark-built-in-libraries.md"
     },
     {
-      "basename": "others",
-      "path": "decentralized-applications/ethereum/others.md"
+      "basename": "sliding-window-analytics",
+      "path": "technologies/apache/apache-spark/sliding-window-analytics.md"
     },
     {
-      "basename": "different-coins-tokens",
-      "path": "decentralized-applications/different-coins-tokens.md"
+      "basename": "intro",
+      "path": "technologies/apache/apache-spark/intro.md"
     },
     {
-      "basename": "ethereum-intro",
-      "path": "decentralized-applications/ethereum/ethereum-intro.md"
+      "basename": "joins",
+      "path": "technologies/apache/apache-spark/joins.md"
     },
     {
-      "basename": "recipe",
-      "path": "knowledge/biology/nutrition/recipe.md"
+      "basename": "readme",
+      "path": "technologies/apache/apache-spark/readme.md"
     },
     {
-      "basename": "futures-options-trading",
-      "path": "economics/market-terms/futures-options-trading.md"
+      "basename": "key-points",
+      "path": "technologies/apache/apache-spark/key-points.md"
     },
     {
-      "basename": "policy-plans",
-      "path": "office/keep/policy-plans.md"
+      "basename": "processing-model",
+      "path": "technologies/apache/apache-spark/processing-model.md"
+    },
+    {
+      "basename": "terms",
+      "path": "technologies/apache/apache-spark/terms.md"
     },
     {
       "basename": "deepak-banks",
       "path": "office/keep/deepak-banks.md"
     },
     {
+      "basename": "infra-hr",
+      "path": "office/cakedefi/infra-hr.md"
+    },
+    {
+      "basename": "file-formats",
+      "path": "networking/others/file-formats.md"
+    },
+    {
       "basename": "movies-serials-apps",
       "path": "office/personality/movies-serials-apps.md"
     },
     {
+      "basename": "internal-tech",
+      "path": "office/credentials/internal-tech.md"
+    },
+    {
+      "basename": "external-tech",
+      "path": "office/credentials/external-tech.md"
+    },
+    {
+      "basename": "people",
+      "path": "office/cakedefi/people.md"
+    },
+    {
+      "basename": "readme",
+      "path": "office/cakedefi/readme.md"
+    },
+    {
       "basename": "intro",
-      "path": "computer-science/system-design/microservice-architecture/intro.md"
+      "path": "ai/data-science/data-visualization/intro.md"
+    },
+    {
+      "basename": "powerbi",
+      "path": "ai/data-science/data-visualization/powerbi.md"
+    },
+    {
+      "basename": "bi-tools",
+      "path": "ai/data-science/data-visualization/bi-tools.md"
+    },
+    {
+      "basename": "infra",
+      "path": "office/blocktoons/infra.md"
+    },
+    {
+      "basename": "warehouse-schemas",
+      "path": "databases/data-warehousing/warehouse-schemas.md"
+    },
+    {
+      "basename": "intro",
+      "path": "databases/data-warehousing/intro.md"
+    },
+    {
+      "basename": "intro",
+      "path": "databases/sql-databases/aws-redshift/intro.md"
+    },
+    {
+      "basename": "services",
+      "path": "cloud/others/azure/services.md"
+    },
+    {
+      "basename": "my-infra",
+      "path": "office/other/my-infra.md"
+    },
+    {
+      "basename": "thinking-mental-models",
+      "path": "psychology/thinking-mental-models.md"
+    },
+    {
+      "basename": "redshift-sql-queries-commands",
+      "path": "databases/sql-databases/aws-redshift/redshift-sql-queries-commands.md"
     },
     {
       "basename": "readme",
-      "path": "computer-science/system-design/microservice-architecture/readme.md"
+      "path": "databases/sql-databases/aws-redshift/readme.md"
+    },
+    {
+      "basename": "diseases-tests",
+      "path": "knowledge/biology/diseases-tests.md"
+    },
+    {
+      "basename": "research",
+      "path": "psychology/research.md"
     },
     {
       "basename": "readme",
-      "path": "python/django/readme.md"
+      "path": "cloud/aws/analytics/readme.md"
     },
     {
-      "basename": "plateau-of-latent-potential",
-      "path": "media/plateau-of-latent-potential.png"
+      "basename": "tools",
+      "path": "decentralized-applications/tools.md"
+    },
+    {
+      "basename": "defi",
+      "path": "decentralized-applications/defi.md"
+    },
+    {
+      "basename": "todo",
+      "path": "office/blocktoons/todo.md"
+    },
+    {
+      "basename": "product",
+      "path": "office/cakedefi/product.md"
+    },
+    {
+      "basename": "nbfc-banking-terms",
+      "path": "economics/nbfc-banking-terms.md"
+    },
+    {
+      "basename": "about-culture",
+      "path": "office/cakedefi/about-culture.md"
+    },
+    {
+      "basename": "malaysia",
+      "path": "office/cakedefi/malaysia.md"
+    },
+    {
+      "basename": "my-interviews-cake-defi",
+      "path": "office/cakedefi/my-interviews-cake-defi.md"
     }
   ],
   "omittedPaths": [],

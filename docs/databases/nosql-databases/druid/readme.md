@@ -1,7 +1,7 @@
 # Druid
 
 - [Druid](intro.md)
-- [Architecture](architecture)
+- [Architecture](databases/nosql-databases/druid/architecture.md)
 - [Documentation](documentation)
 - [Paper](paper)
 - [Commands](commands)

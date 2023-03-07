@@ -8,10 +8,6 @@ Create the next generation of applications using artificial intelligence capabil
 
 Intelligent, serverless bot service that scales on demand
 
-[Azure Databricks](https://azure.microsoft.com/en-in/services/databricks/)
-
-Fast, easy and collaborative Apache Spark-based analytics platform
-
 [Azure Cognitive Search](https://azure.microsoft.com/en-in/services/search/)
 
 AI-powered cloud search service for mobile and web app development

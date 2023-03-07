@@ -60,27 +60,34 @@ FestInis a tool for discovering open S3 Buckets starting from a domains.
 ## Digital Forensics
 
 ![image](../../media/Ethical-Hacking-image1.jpg)
+
 ![image](../../media/Ethical-Hacking-image2.jpg)
+
 ![image](../../media/Ethical-Hacking-image3.jpg)
-| **SOLUTIONS**                                           | **PARTNERS/OEM's**                        |
-|-------------------------------------|-----------------------------------|
+
+| **SOLUTIONS** | **PARTNERS/OEM's** |
+|---|---|
 | **Cloud Security(WAF, NGFW), Email Security, Firewall** | Cisco/ PaloAlto/Fortinet/Sophos/Barracuda |
-| **DLP**                                                 | Forcepoint, Cososys, Netskope             |
-| **End Point**                                           | Sophos, TrendMicro, Crowdstrike, FireEye  |
-| **Collaboration**                                       | Cisco/ Polycom                            |
-| **Enterprise Networking**                               | Cisco/Hpe                                 |
-| **Network Access Control**                              | Cisco ISE, FortiNac                       |
-| **MultiFactor Authentication**                          | Cisco Duo, RSA                            |
-| **Back up Solutions**                                   | Veeam                                     |
-| **Web Security**                                        | NetSkope, Forcepoint                      |
-| **Micro Segmentation**                                  | Cisco Teteration, Color Token             |
-| **Storage Solutions**                                   | Dell, Netapp                              |
-| **Inventory& Ticketing Tool**                           | Motadata, Sapphire IMS                    |
-| **Vulnerability Assessment**                            | Tenable, Holmsecurity                     |
-| **Network Monitoring Tool**                             | Motadata, Whatsup Gold, Solarwinds        |
-| **Performance Monitoring & Analytics**                  | Acreedian                                |
-| **Load Balancing & WAF**                                | F5, Array Networks                        |
-| **SD-WAN**                                              | Cisco Viptela, CATO Networks              |
-| **CASB**                                                | Netskope, Forcepoint, Paloalto            |
-| **MDM**                                                 | Vmware, SOTI, Citrix, Meraki              |
-| **Structured Cabling**                                  | Belden, Siemon                            |- Saffron Networks
+| **DLP** | Forcepoint, Cososys, Netskope |
+| **End Point** | Sophos, TrendMicro, Crowdstrike, FireEye |
+| **Collaboration** | Cisco/ Polycom |
+| **Enterprise Networking** | Cisco/Hpe |
+| **Network Access Control** | Cisco ISE, FortiNac |
+| **MultiFactor Authentication** | Cisco Duo, RSA |
+| **Back up Solutions** | Veeam |
+| **Web Security** | NetSkope, Forcepoint |
+| **Micro Segmentation** | Cisco Teteration, Color Token |
+| **Storage Solutions** | Dell, Netapp |
+| **Inventory& Ticketing Tool** | Motadata, Sapphire IMS |
+| **Vulnerability Assessment** | Tenable, Holmsecurity |
+| **Network Monitoring Tool** | Motadata, Whatsup Gold, Solarwinds |
+| **Performance Monitoring & Analytics** | Acreedian |
+| **Load Balancing & WAF** | F5, Array Networks |
+| **SD-WAN** | Cisco Viptela, CATO Networks |
+| **CASB** | Netskope, Forcepoint, Paloalto |
+| **MDM** | Vmware, SOTI, Citrix, Meraki |
+| **Structured Cabling** | Belden, Siemon, Saffron Networks |
+
+## Master data management (MDM)
+
+Master data management (MDM) is a technology-enabled discipline in which business and IT work together to ensure the uniformity, accuracy, stewardship, semantic consistency and accountability of the enterprise's official shared master data assets. Master data is the consistent and uniform set of identifiers and extended attributes that describes the core entities of the enterprise including customers, prospects, citizens, suppliers, sites, hierarchies and chart of accounts.

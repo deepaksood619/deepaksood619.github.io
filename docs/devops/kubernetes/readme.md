@@ -6,7 +6,7 @@
   - [Configuration](concepts-and-overview/configuration/readme.md)
     - [Secrets](concepts-and-overview/configuration/secrets)
   - [Policies](concepts-and-overview/policies)
-  - [Architecture](architecture)
+  - [Architecture](devops/kubernetes/architecture.md)
   - [api-resources](api-resources)
 - [Workloads](workloads/readme.md)
   - [Pods](workloads/pods)

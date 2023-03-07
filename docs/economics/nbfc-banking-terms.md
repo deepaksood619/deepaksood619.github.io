@@ -15,6 +15,12 @@
 11. Revenue
 12. EPS
 
+### ALM (Asset Liability Mismatch)
+
+Asset/liability management is the process of managing the use of assets and [cash flows](https://www.investopedia.com/terms/c/cashflow.asp) to reduce the firm’s [risk of loss](https://www.investopedia.com/terms/r/risk.asp) from not paying a liability on time. Well-managed assets and liabilities increase business profits. The asset/liability management process is typically applied to bank loan portfolios and [pension plans](https://www.investopedia.com/terms/p/pensionplan.asp). It also involves the [economic value of equity](https://www.investopedia.com/terms/e/economicvalueofequity.asp).
+
+[Asset/Liability Management: Definition, Meaning, and Strategies](https://www.investopedia.com/terms/a/asset-liabilitymanagement.asp)
+
 ## Credit Cards
 
 [A Brief History of Credit Cards (or What Happens When You Swipe)](https://www.youtube.com/watch?v=vR-uvPPdI_M&ab_channel=a16z)

@@ -102,83 +102,51 @@ HDFS Architecture
 - <https://www.freecodecamp.org/news/algorithmic-trading-using-python-course>
 - <https://www.freecodecamp.org/news/hands-on-data-science-course>
 
-Statistics and EDA
+### Others
 
-Data Visualization
-
-Descriptive Statistics
-
-central tendency and variability
-
-Inferential Statistics
-
-probability, central limit theorem and more to draw inferences
-
-Exploratory Data Analysis
-
-Hypothesis Testing
-
-Case Study - Uber supply demand gap
+- Statistics and EDA
+- Data Visualization
+- Descriptive Statistics
+- central tendency and variability
+- Inferential Statistics
+- probability, central limit theorem and more to draw inferences
+- Exploratory Data Analysis
+- Hypothesis Testing
+- Case Study - Uber supply demand gap
 
 ## Introduction to ML 1
 
-Linear Regression
-
-predict continuous data values
-
-Supervised Classification
-
-KNN, Naives Bayes and Logistic Regression
-
-Clustering
-
-K-Means and Hierarchical Clustering
-
-Case Study - Telecom Churn
+- Linear Regression
+- predict continuous data values
+- Supervised Classification
+- KNN, Naives Bayes and Logistic Regression
+- Clustering
+- K-Means and Hierarchical Clustering
+- Case Study - Telecom Churn
 
 ## Introduction to ML 2
 
-Time Series
-
-Decision Trees
-
-Support Vector Machines
-
-Neural Networks
-
-Master Feed-forward, Recurrent and Gaussian Neural Networks.
-
-Association Rule Mining
-
-BIG DATA ANALYTICS
-
-INTRODUCTION TO BIG DATA AND HADOOP
-
-Understand the basic concepts of Big Data and Hadoop as processing platforms for Big Data
-
-MANAGING BIG DATA
-
-Learn and use Hadoop ecosystem tools like Sqoop & Hive for data ingestion, extraction and management.
-
-INTRODUCTION TO SPARK
-
-Understand and use Spark, a fast Big Data processing platform
-
-BIG DATA ANALYSIS
-
-Learn how to analyze Big Data using SparkR, SparkSQL
-
-Domain Electives
-
-BFS
-
-Learn Customer analytics and Risk Analytics within BFS (Banking and Financial Services)
-
-E-commerce
-
-Customer marketing analytics and recommendation engines
-
-Health care
+- Time Series
+- Decision Trees
+- Support Vector Machines
+- Neural Networks
+- Master Feed-forward, Recurrent and Gaussian Neural Networks.
+- Association Rule Mining
+- BIG DATA ANALYTICS
+- INTRODUCTION TO BIG DATA AND HADOOP
+- Understand the basic concepts of Big Data and Hadoop as processing platforms for Big Data
+- MANAGING BIG DATA
+- Learn and use Hadoop ecosystem tools like Sqoop & Hive for data ingestion, extraction and management.
+- INTRODUCTION TO SPARK
+- Understand and use Spark, a fast Big Data processing platform
+- BIG DATA ANALYSIS
+- Learn how to analyze Big Data using SparkR, SparkSQL
+- Domain Electives
+- BFS
+- Learn Customer analytics and Risk Analytics within BFS (Banking and Financial Services)
+- E-commerce
+- Customer marketing analytics and recommendation engines
+- Health care
 
 ## Model resources
 

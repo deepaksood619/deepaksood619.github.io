@@ -1,10 +1,10 @@
 # Analytics
 
-1. Amazon Athena
+### Amazon Athena
 
 Query Data in S3 using SQL
 
-2. Amazon EMR
+### Amazon EMR
 
 Hosted Hadoop Framework
 
@@ -12,15 +12,15 @@ Easily Run and Scale Apache Spark, Hadoop, HBase, Presto, Hive, and other Big Da
 
 Amazon EMR is the industry leading cloud-native big data platform for processing vast amounts of data quickly and cost-effectively at scale. Using open source tools such as [Apache Spark](https://aws.amazon.com/emr/features/spark/), [Apache Hive](https://aws.amazon.com/emr/features/hive/), [Apache HBase](https://aws.amazon.com/emr/features/hbase/), [Apache Flink](https://aws.amazon.com/blogs/big-data/use-apache-flink-on-amazon-emr/), [Apache Hudi (Incubating)](https://aws.amazon.com/emr/features/hudi/), and [Presto](https://aws.amazon.com/emr/features/presto/), coupled with the dynamic scalability of [Amazon EC2](https://aws.amazon.com/ec2/) and scalable storage of [Amazon S3](https://aws.amazon.com/s3/), EMR gives analytical teams the engines and elasticity to run Petabyte-scale analysis for a fraction of the cost of traditional on-premises clusters. EMR gives teams the flexibility to run use cases on single-purpose, short lived clusters that automatically scale to meet demand, or on long running highly available clusters using the new multi-master deployment mode. If you have existing on-premises deployments of open source tools such as Apache Spark and Apache Hive, you can also run [EMR clusters on AWS Outposts](https://aws.amazon.com/emr/features/outposts/), giving you both the ability to scale out on-premises via Outposts or in the cloud.
 
-3. Amazon CloudSearch
+### Amazon CloudSearch
 
 Managed Search Service
 
-4. Amazon ElasticSearch Service
+### Amazon ElasticSearch Service
 
 Run and Scale Elasticsearch Clusters
 
-5. Amazon Kinesis
+### Amazon Kinesis
 
 Work with Real-time Streaming Data
 
@@ -30,21 +30,21 @@ Amazon Kinesis Data Firehose is the easiest way to reliably load streaming data 
 
 <https://aws.amazon.com/kinesis/data-firehose>
 
-6. Amazon Redshift
+### Amazon Redshift
 
 Fast, Simple, Cost-effective Data Warehousing
 
-7. Amazon Quicksight
+### Amazon Quicksight
 
 Fast Business Analytics Service
 
-8. AWS Data Pipeline
+### AWS Data Pipeline
 
 Orchestration Service for Periodic, Data-driven Workflows
 
 Not available in Mumbai Region
 
-9. AWS Glue
+### AWS Glue
 
 Perpare and Load Data
 
@@ -52,17 +52,17 @@ Perpare and Load Data
 
 <https://aws.amazon.com/blogs/big-data/enrich-datasets-for-descriptive-analytics-with-aws-glue-databrew>
 
-10. AWS Managed Streaming for Apache Kafka
+### AWS Managed Streaming for Apache Kafka
 
 Fully managed Apache Kafka service
 
-11. AWS Data Exchange
+### AWS Data Exchange
 
 Easily find and subscribe to third-party data in the cloud
 
-12. AWS Lake Formation
+[Patterns for enterprise data sharing at scale | AWS Big Data Blog](https://aws.amazon.com/blogs/big-data/patterns-for-enterprise-data-sharing-at-scale/)
 
-Build a secure data lake in days
+### AWS Lake Formation - Build a secure data lake in days
 
 AWS Lake Formation is a service that makes it easy to set up a secure data lake in days. A data lake is a centralized, curated, and secured repository that stores all your data, both in its original form and prepared for analysis. A data lake enables you to break down data silos and combine different types of analytics to gain insights and guide better business decisions.
 

@@ -27,13 +27,6 @@
 - Performing DeFi transactions on Ethereum takes more than 3,000 distinct steps - each with its own **potential attack** surface. On DeFiChain, just a few lines of code are enough, making transactions much more robust against potential attacks, and DeFiChain’s NativeDeFi approach, more secure.
 - The main benefits of NativeDeFi include: **Consensus happens directly on the native blockchain layer**, the **transaction costs are low**, and the attack surface is low.
 
-## DeFi Tools (SAAS)
-
-- KYC - sumsub
-- Payment service
-  - Transak
-  - Banxa
-
 ## References
 
 [Crypto Investing](crypto-investing)

@@ -198,6 +198,10 @@ The [common cold](https://www.healthline.com/health/cold-flu/cold) is caused b
 
 There’s not much you can do to treat a cold except wait it out and use OTC medications to help relieve your symptoms.
 
+### Aphasia
+
+Aphasia is an inability to comprehend or formulate language because of damage to specific [brain](https://en.m.wikipedia.org/wiki/Brain "Brain") regions.
+
 ## Links
 
 [Bacterial vs. Viral Infections: What’s the Difference?](https://www.healthline.com/health/bacterial-vs-viral-infections)

@@ -2,7 +2,7 @@
 
 ```python
 # SQL table to parquet
- from pyspark.sql import SparkSession
+from pyspark.sql import SparkSession
 spark = SparkSession.builder.getOrCreate()
 df = spark.read.jdbc("YOUR_MYSQL_JDBC_CONN_STRING",  "YOUR_TABLE", properties={"user": "YOUR_USER", "password": "YOUR_PASSWORD"})
 df.write.parquet("YOUR_HDFS_FILE")
@@ -11,6 +11,7 @@ df.write.parquet("YOUR_HDFS_FILE")
 from pyspark import SparkContext
 from pyspark.sql import SQLContext
 from pyspark.sql.types import *
+
 if __name__ == "__main__":
     sc = SparkContext(appName="CSV2Parquet")
     sqlContext = SQLContext(sc)
@@ -31,14 +32,14 @@ if __name__ == "__main__":
 from pyspark import SparkContext
 from pyspark.sql import SQLContext
 from pyspark.sql.types import *
+
 if __name__ == "__main__":
     sc = SparkContext(appName="Parquet2CSV")
     sqlContext = SQLContext(sc)
 readdf = sqlContext.read.parquet('/home/sarvesh/Desktop/submissions-parquet')
-    readdf.rdd.map(tuple).map(lambda row: str(row [0]) + "," + str(row [1]) + ","+ str(row [2]) + ","+ str(row [3])+ ","+
-                              str(row [4])+","+ str(row [5])).saveAsTextFile("/home/sarvesh/Desktop/parquet-to-csv.csv")
+    readdf.rdd.map(tuple).map(lambda row: str(row[0]) + "," + str(row[1]) + ","+ str(row[2]) + ","+ str(row[3])+ ","+ str(row[4])+","+ str(row[5])).saveAsTextFile("/home/sarvesh/Desktop/parquet-to-csv.csv")
 
- http://blogs.quovantis.com/how-to-convert-csv-to-parquet-files/
+# http://blogs.quovantis.com/how-to-convert-csv-to-parquet-files/
 
 from pyspark.sql import SparkSession
 
@@ -63,9 +64,12 @@ condition1 = (data.User_Score.isNotNull()) | (data.User_Count.isNotNull())
 condition2 = data.User_Score != "tbd"
 data = data.filter(condition1).filter(condition2)
 
- https://towardsdatascience.com/pyspark-import-any-data-f2856cda45fd
+# https://towardsdatascience.com/pyspark-import-any-data-f2856cda45fd
+```
 
-Glue Transformation from Aurora DB to Parquet in s3
+### Glue Transformation from Aurora DB to Parquet in s3
+
+```python
  import sys
  from awsglue.transforms import *
  from awsglue.utils import getResolvedOptions
@@ -92,8 +96,11 @@ Glue Transformation from Aurora DB to Parquet in s3
  # datasource_df = dropnullfields3.repartition(2)
  datasink4 = glueContext.write_dynamic_frame.from_options(frame = dropnullfields3, connection_type = "s3", connection_options = {"path": "s3://example-migration-data/glue/user_device_sms_old"}, format = "parquet", transformation_ctx = "datasink4")
  job.commit()
+```
 
-PySpark Tutorial
+### PySpark Tutorial
+
+```python
  # File location and type
  file_location = "/FileStore/tables/game_skater_stats.csv"
  file_type = "csv"

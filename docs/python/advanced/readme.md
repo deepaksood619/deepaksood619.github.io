@@ -1,6 +1,6 @@
 # Advanced
 
-- [Architecture](architecture)
+- [Architecture](python/advanced/architecture.md)
 - [Memory Management](memory-management)
 - [Super](super)
 - [Mixin](mixin)

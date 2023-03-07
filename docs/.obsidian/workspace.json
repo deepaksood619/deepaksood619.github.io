@@ -4,22 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "12971339c0e2b129",
+        "id": "d3beaeb8da4e801b",
         "type": "tabs",
         "children": [
           {
-            "id": "9292c11a055fa4d7",
+            "id": "deaacf76eb4aab0c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ai/data-science/big-data/page-rank.md",
+                "file": "office/cakedefi/architecture.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7606d49e76475a45",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "frontend/js-javascript/basic.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -48,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"alm\"",
+                "query": "e-commerce",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -93,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ai/data-science/big-data/page-rank.md",
+                "file": "frontend/js-javascript/basic.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ai/data-science/big-data/page-rank.md",
+                "file": "frontend/js-javascript/basic.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ai/data-science/big-data/page-rank.md"
+                "file": "frontend/js-javascript/basic.md"
               }
             }
           },
@@ -177,45 +190,45 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "periodic-notes:Open today": false,
-      "obsidian-spaced-repetition:Review flashcards": false
+      "obsidian-spaced-repetition:Review flashcards": false,
+      "periodic-notes:Open today": false
     }
   },
-  "active": "9292c11a055fa4d7",
+  "active": "978fd2faf621af33",
   "lastOpenFiles": [
-    "decentralized-applications/ethereum/07-blocks.md",
-    "decentralized-applications/ethereum/08-evm.md",
-    "decentralized-applications/ethereum/01-intro-to-ethereum.md",
-    "decentralized-applications/ethereum/02-intro-to-ether.md",
-    "decentralized-applications/ethereum/03-intro-to-dapps.md",
-    "decentralized-applications/ethereum/05-accounts.md",
-    "decentralized-applications/ethereum/06-transactions.md",
-    "decentralized-applications/ethereum/09-gas.md",
-    "decentralized-applications/ethereum/10-nodes-and-clients.md",
-    "decentralized-applications/ethereum/arbitrum.md",
-    "databases/others/technologies-tools.md",
-    "networking/protocols/http-3-quic.md",
-    "office/todo/todo-tech-&-courses.md",
-    "decentralized-applications/nft-non-fungible-tokens.md",
-    "decentralized-applications/tools.md",
+    "about-me/ideas/creating-a-business-startup.md",
+    "databases/nosql-databases/mongodb/intro.md",
+    "ai/courses/others-resources-interview.md",
+    "management/business/business-terms.md",
+    "office/cakedefi/todo.md",
+    "office/cakedefi/tables.md",
+    "office/cakedefi/architecture.md",
+    "technologies/apache/apache-spark/databricks-getting-started.md",
+    "technologies/apache/apache-spark/databricks.md",
+    "technologies/apache/apache-spark/examples.md",
+    "technologies/apache/apache-spark/spark-built-in-libraries.md",
+    "technologies/apache/apache-spark/sliding-window-analytics.md",
+    "technologies/apache/apache-spark/intro.md",
+    "technologies/apache/apache-spark/joins.md",
+    "technologies/apache/apache-spark/readme.md",
+    "technologies/apache/apache-spark/key-points.md",
+    "technologies/apache/apache-spark/processing-model.md",
+    "technologies/apache/apache-spark/terms.md",
+    "office/keep/deepak-banks.md",
+    "office/cakedefi/infra-hr.md",
+    "databases/data-warehousing/databricks.md",
+    "networking/others/file-formats.md",
+    "databases/data-warehousing/databricks-getting-started.md",
+    "office/personality/movies-serials-apps.md",
+    "office/credentials/internal-tech.md",
+    "office/credentials/external-tech.md",
     "media/Pasted image 20230305171944.png",
     "media/Pasted image 20230305171922.png",
     "media/Pasted image 20230305171843.png",
     "media/Pasted image 20230305171744.png",
     "media/Pasted image 20230305103925.png",
     "media/Pasted image 20230305103910.png",
-    "ai/data-science/big-data/page-rank.md",
-    "computer-science/interview-question/coding-interview-questions.md",
     "media/Coding-Interview-Questions-image1.jpg",
-    "frontend/frontend-intro/ui-ux-ixd-design-frontend.md",
-    "frontend/frontend-intro/frontend-architecture.md",
-    "office/blocktoons/infra.md",
-    "devops/ides/mac.md",
-    "about-me/projects/stashfin-tech-stack-infra.md",
-    "about-me/projects.md",
-    "economics/readme.md",
-    "economics/nbfc-banking-terms.md",
-    "office/stashfin/business-product.md",
     "media/stashfin-infra.drawio.png",
     "about-me/projects",
     "media/plateau-of-latent-potential.png",

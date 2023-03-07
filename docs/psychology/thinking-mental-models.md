@@ -116,7 +116,7 @@ A crowd can be smarter than a single person, Consider other's perspective to cha
 - [Bandwagon](https://yourlogicalfallacyis.com/bandwagon)--- "Appealing to popularity or the fact that many people do something as an attempted form of validation."
 - For a longer list, see [Thou shall not commit logical fallacies](https://yourlogicalfallacyis.com/)(I have this poster on my office door.)
 
-<https://untools.co>
+**[Tools for better thinking | Untools](https://untools.co)**
 
 ## Black and White Thinking by Kevin Dutton
 

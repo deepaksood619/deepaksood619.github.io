@@ -1,5 +1,7 @@
 # Redshift SQL Queries / Commands
 
+[Simplify Online Analytical Processing (OLAP) queries in Amazon Redshift using new SQL constructs such as ROLLUP, CUBE, and GROUPING SETS | AWS Big Data Blog](https://aws.amazon.com/blogs/big-data/simplify-online-analytical-processing-olap-queries-in-amazon-redshift-using-new-sql-constructs-such-as-rollup-cube-and-grouping-sets/)
+
 <https://docs.aws.amazon.com/redshift/latest/dg/c_designing-queries-best-practices.html>
 
 ```sql

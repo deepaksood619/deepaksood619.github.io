@@ -83,7 +83,7 @@ mongo admin --username root --password YOURPASSWORD
 
 ## Implementation
 
-## Good For
+### Good For
 
 - E-commerce product catalog.
 - Blogs and content management.
@@ -94,7 +94,7 @@ mongo admin --username root --password YOURPASSWORD
 - Evolving data requirements.
 - Loosely coupled objectives - the design may change by over time.
 
-## Not so Good For
+### Not so Good For
 
 - Highly transactional systems or where the data model is designed up front.
 - Tightly coupled systems- MongoDB is not magically faster. If you store the same data, organised in basically the same fashion, and access it exactly the same way, then you really shouldn't expect your results to be wildly different. After all, MySQL and MongoDB are both GPL, so if Mongo had some magically better IO code in it, then the MySQL team could just incorporate it into their codebase.

@@ -32,13 +32,13 @@ There's also libraries for databases, such as the [spark-redshift](https://githu
 
 Similar to reading data with Spark, it's not recommended to write data to local storage when using PySpark. Instead, you should use a distributed file system such as S3 or HDFS. If you going to be processing the results with Spark, then parquet is a good format to use for saving data frames. The snippet below shows how to save a dataframe to DBFS and S3 as parquet.
 
-## DBFS (Parquet)
+```python
+# DBFS (Parquet)
+df.write.save('/FileStore/parquet/game_stats', format='parquet')
 
-`df.write.save('/FileStore/parquet/game_stats', format='parquet')`
-
-## S3 (Parquet)
-
-`df.write.parquet("s3a://my_bucket/game_stats", mode="overwrite")`
+# S3 (Parquet)
+df.write.parquet("s3a://my_bucket/game_stats", mode="overwrite")
+```
 
 ## Transforming Data
 
@@ -46,11 +46,11 @@ One of the ways of performing operations on Spark dataframes is via Spark SQL, w
 
 ## Best Practices
 
-- **Avoid dictionaries, use dataframes:**using Python data types such as dictionaries means that the code might not be executable in a distributed mode. Instead of using keys to index values in a dictionary, consider adding another column to a dataframe that can be used as a filter.
-- **UsetoPandassparingly:**CallingtoPandas()will cause all data to be loaded into memory on the driver node, and prevents operations from being performed in a distributed mode. It's fine to use this function when data has already been aggregated and you want to make use of familiar Python plotting tools, but it should not be used for large dataframes.
-- **Avoid for loops:**If possible, it's preferred to rewrite for-loop logic using the groupby-apply pattern to support parallelized code execution. I've noticed that focusing on using this pattern in Python has also resulted in cleaning code that is easier to translate to PySpark.
-- **Try minimizing eager operations:**In order for your pipeline to be as scalable as possible, it's good to avoid eager operations that pull full dataframes into memory. I've noticed that reading in CSVs is an eager operation, and my work around is to save the dataframe as parquet and then reload it from parquet to build more scalable pipelines.
-- **Use framequery/pandasql to make porting easier:**If you're working with someone else's Python code, it can be tricky to decipher what some of the Pandas operations are achieving. If you plan on porting your code from Python to PySpark, then using a SQL library for Pandas can make this translation easier.
+- **Avoid dictionaries, use dataframes:** using Python data types such as dictionaries means that the code might not be executable in a distributed mode. Instead of using keys to index values in a dictionary, consider adding another column to a dataframe that can be used as a filter.
+- **Use toPandas sparingly:** CallingtoPandas()will cause all data to be loaded into memory on the driver node, and prevents operations from being performed in a distributed mode. It's fine to use this function when data has already been aggregated and you want to make use of familiar Python plotting tools, but it should not be used for large dataframes.
+- **Avoid for loops:** If possible, it's preferred to rewrite for-loop logic using the groupby-apply pattern to support parallelized code execution. I've noticed that focusing on using this pattern in Python has also resulted in cleaning code that is easier to translate to PySpark.
+- **Try minimizing eager operations:** In order for your pipeline to be as scalable as possible, it's good to avoid eager operations that pull full dataframes into memory. I've noticed that reading in CSVs is an eager operation, and my work around is to save the dataframe as parquet and then reload it from parquet to build more scalable pipelines.
+- **Use framequery / pandasql to make porting easier:** If you're working with someone else's Python code, it can be tricky to decipher what some of the Pandas operations are achieving. If you plan on porting your code from Python to PySpark, then using a SQL library for Pandas can make this translation easier.
 
 ## Lazy Evaluation
 
