@@ -1,6 +1,26 @@
 {
   "recentFiles": [
     {
+      "basename": "product",
+      "path": "office/cakedefi/product.md"
+    },
+    {
+      "basename": "todo",
+      "path": "office/cakedefi/todo.md"
+    },
+    {
+      "basename": "readme",
+      "path": "office/cakedefi/readme.md"
+    },
+    {
+      "basename": "sql-queries",
+      "path": "office/cakedefi/sql-queries.md"
+    },
+    {
+      "basename": "others",
+      "path": "databases/data-warehousing/others.md"
+    },
+    {
       "basename": "static-code-analysis",
       "path": "python/documentation/27-development-tools/static-code-analysis.md"
     },
@@ -17,16 +37,8 @@
       "path": "devops/ides/mac.md"
     },
     {
-      "basename": "todo",
-      "path": "office/cakedefi/todo.md"
-    },
-    {
       "basename": "10-medallion-architecture",
       "path": "technologies/apache/databricks/10-medallion-architecture.md"
-    },
-    {
-      "basename": "sql-queries",
-      "path": "office/cakedefi/sql-queries.md"
     },
     {
       "basename": "architecture",
@@ -106,10 +118,6 @@
     },
     {
       "basename": "readme",
-      "path": "office/cakedefi/readme.md"
-    },
-    {
-      "basename": "readme",
       "path": "mathematics/statistics/readme.md"
     },
     {
@@ -123,10 +131,6 @@
     {
       "basename": "readme",
       "path": "technologies/apache/databricks/readme.md"
-    },
-    {
-      "basename": "product",
-      "path": "office/cakedefi/product.md"
     },
     {
       "basename": "apache-hive",
@@ -195,10 +199,6 @@
     {
       "basename": "file-formats",
       "path": "networking/others/file-formats.md"
-    },
-    {
-      "basename": "movies-serials-apps",
-      "path": "office/personality/movies-serials-apps.md"
     }
   ],
   "omittedPaths": [],

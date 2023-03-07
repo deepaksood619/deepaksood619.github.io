@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "python/documentation/27-development-tools/static-code-analysis.md",
+                "file": "office/cakedefi/product.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "precommit",
+                "query": "unity catalog",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -110,8 +110,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -131,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "python/documentation/27-development-tools/static-code-analysis.md",
+                "file": "office/cakedefi/product.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "python/documentation/27-development-tools/static-code-analysis.md",
+                "file": "office/cakedefi/product.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "python/documentation/27-development-tools/static-code-analysis.md"
+                "file": "office/cakedefi/product.md"
               }
             }
           },
@@ -219,14 +218,18 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "c5adb0a45896c5df",
+  "active": "978fd2faf621af33",
   "lastOpenFiles": [
+    "office/cakedefi/todo.md",
+    "office/cakedefi/product.md",
+    "office/cakedefi/readme.md",
+    "office/cakedefi/sql-queries.md",
+    "databases/data-warehousing/others.md",
+    "python/documentation/27-development-tools/static-code-analysis.md",
     "technologies/git/others.md",
     "office/todo/personal-todo.md",
     "devops/ides/mac.md",
-    "office/cakedefi/todo.md",
     "technologies/apache/databricks/10-medallion-architecture.md",
-    "office/cakedefi/sql-queries.md",
     "office/cakedefi/architecture.md",
     "office/cakedefi/tables.md",
     "technologies/apache/apache-spark/01-terms.md",
@@ -243,10 +246,6 @@
     "databases/nosql-databases/aws-dynamodb/core-components.md",
     "databases/nosql-databases/aws-dynamodb/cheatsheet.md",
     "decentralized-applications/ethereum/01-intro-to-ethereum.md",
-    "decentralized-applications/ethereum/02-intro-to-ether.md",
-    "decentralized-applications/ethereum/03-intro-to-dapps.md",
-    "decentralized-applications/ethereum/05-accounts.md",
-    "office/cakedefi/readme.md",
     "technologies/apache/databricks",
     "databricks",
     "media/Pasted image 20230307111436.png",
