@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "readme.md",
+                "file": "technologies/others/others-data.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,8 +86,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -107,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "readme.md",
+                "file": "technologies/others/others-data.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "readme.md",
+                "file": "technologies/others/others-data.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "readme.md"
+                "file": "technologies/others/others-data.md"
               }
             }
           },
@@ -195,11 +194,13 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "eae646b9619747a1",
+  "active": "978fd2faf621af33",
   "lastOpenFiles": [
-    "office/keep/deepak-banks.md",
-    "readme.md",
+    "office/cakedefi/sql-queries.md",
     "office/cakedefi/product.md",
+    "office/cakedefi/infra-hr.md",
+    "readme.md",
+    "office/keep/deepak-banks.md",
     "office/cakedefi/todo.md",
     "office/cakedefi/tables.md",
     "decentralized-applications/development-tools.md",
@@ -216,13 +217,11 @@
     "decentralized-applications/ethereum/readme.md",
     "decentralized-applications/ethereum/erc-4337.md",
     "office/cakedefi/readme.md",
-    "office/cakedefi/sql-queries.md",
     "decentralized-applications/coins-tokens-chains/readme.md",
     "book-summaries/the-art-of-logic.md",
     "decentralized-applications/coins-tokens-chains/coin-token-intro.md",
     "decentralized-applications/readme.md",
     "decentralized-applications/coins-tokens-chains/vechain.md",
-    "decentralized-applications/coins-tokens-chains/dtokens.md",
     "media/Pasted image 20230308224127.png",
     "media/Pasted image 20230308224022.png",
     "decentralized-applications/coins-tokens-chains",
