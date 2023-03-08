@@ -53,33 +53,19 @@ Mentorship is a learning relationship between an experienced person and someone 
 To inspire better conversations with your manager, direct reports, and team next year, here are the most asked meeting questions from Soapbox communities in 2020:
 
 1. What are the biggest time wasters for you each week?
-
 2. How can I better support you?
-
 3. How can we improve the way our team works together?
-
 4. What was a win that you had last week?
-
 5. On a scale of 1-10, how happy are you at work?
-
 6. What skills would you like to develop right now?
-
 7. What does an ideal, productive workday look like to you? Walk me through it.
-
 8. What's your outlook on this week?
-
 9. What's one thing we can do to improve the performance of the team?
-
 10. What's our biggest challenge as a team?
-
 11. Are you happy in your role? What could make it better for you?
-
 12. Are there any aspects of our culture you wish you could change?
-
 13. What projects would you like to work on or be more involved in?
-
 14. What, if anything, feels harder than it should in your day-to-day work?
-
 15. Is your job what you expected when you accepted it? If not, where has it differed?
 
 ## Carrot vs Stick

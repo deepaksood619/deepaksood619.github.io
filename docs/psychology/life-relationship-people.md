@@ -635,9 +635,10 @@ Otherwise show disappointment
 - Elon Musk - Tesla / SpaceX
 - Bill Gates - Microsoft
 - Paul Graham, the English-American computer programmer, is the legendary founder of the Y Combinator
+- Ray Dalio - [Your Questions: Answered](https://www.linkedin.com/pulse/your-questions-answered-ray-dalio/)
 - Yuval Noah Harari
 
-Israeli public intellectual, historian and a professor in the Department of History at the Hebrew University of Jerusalem. He is the author of the popular science bestsellers Sapiens: A Brief History of Humankind, Homo Deus: A Brief History of Tomorrow, and 21 Lessons for the 21st Century
+ Israeli public intellectual, historian and a professor in the Department of History at the Hebrew University of Jerusalem. He is the author of the popular science bestsellers Sapiens: A Brief History of Humankind, Homo Deus: A Brief History of Tomorrow, and 21 Lessons for the 21st Century
 
 - [Is Gautam Adani Gifted Wealth ? India's Second Richest Man Story 🔥 Business Case Study](https://youtu.be/Z8yKfenzYRI)
   - If you build great relationships, half of your work is already done before you tell i need you

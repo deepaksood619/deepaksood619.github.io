@@ -73,6 +73,16 @@ Breakage is a term used to describe revenue gained by retailers through unredeem
 
 <https://www.investopedia.com/terms/b/breakage.asp>
 
+## Negative Interest Rate
+
+- Negative interest rates are a form of monetary policy that sees interest rates fall below 0%.
+- Central banks and regulators use this unusual policy tool when there are strong signs of deflation.
+- Borrowers are credited interest instead of paying interest to lenders in a negative interest rate environment.
+- Central banks charge commercial banks on reserves in an effort to incentivize them to spend rather than hoard cash positions.
+- Although commercial banks are charged interest to keep cash with a nation's central bank, they are generally reluctant to pass negative rates onto their customers.
+
+[What Is a Negative Interest Rate, and Why Would We Have Them?](https://www.investopedia.com/terms/n/negative-interest-rate.asp)
+
 ## Credit Bureaus
 
 1. TransUnion Cibil

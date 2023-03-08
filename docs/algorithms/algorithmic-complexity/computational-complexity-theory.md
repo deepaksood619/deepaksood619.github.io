@@ -12,19 +12,15 @@ Our proof claims that the set of possible programs are countably infinite while 
 
 Infinite set divided into two parts
 
-1. Countably infinite
+1. Countably infinite - A countably infinite set is one that can be enumerated. Ex - even numbers
 
-A countably infinite set is one that can be enumerated. Ex - even numbers
+2. Uncountably infinite - An uncountably infinite set cannot be enumerated. Ex - real numbers.
 
-2. Uncountably infinite
-
-An uncountably infinite set cannot be enumerated. Ex - real numbers.
-
-## Countably many programs
+### Countably many programs
 
 The set of all strings over any alphabet (e.g. set of all computer programs) is countable.
 
-## Uncountably many languages
+### Uncountably many languages
 
 The set of all languages over any alphabet is uncountable
 
@@ -37,7 +33,6 @@ The input to the machine is a tape onto which input has been written, Using a re
 The decision is based on two things -
 
 - Current symbol under the read/write head, and
-
 - The machine's internal state, which is also updated when a symbol is written
 
 ## Universality
@@ -69,7 +64,6 @@ To computer science novices, the difference between the matching and clique prob
 ## Key-Points
 
 1. There are some problems that simply cannot be computed, like the halting problem.
-
 2. There are some things that cannot be computed efficiently, like the problems in NPC.
 
 <https://www.toptal.com/algorithms/computability-theory-complexity>

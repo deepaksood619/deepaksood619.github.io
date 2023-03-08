@@ -28,6 +28,7 @@
   - [Coin Payments](https://www.coinpayments.net/)
   - Transak
   - Banxa
+  - Mercuryo
   - CoinGate
   - [NOWPayments — Accept Crypto Payments as a Business](https://nowpayments.io/)
 - [Plug & play APIs to simplify the web3 experience | Biconomy](https://www.biconomy.io/)

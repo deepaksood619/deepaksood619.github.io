@@ -97,7 +97,13 @@ Arbitrage funds work by exploiting the price differential between assets that sh
 
 ## Equity funds or growth funds
 
-**What is difference in Multi Asset Fund & other Hybrid funds?**
+#### Common Names
+
+- Bluechip’ and ‘large-cap’ are the same thing.
+- ‘Long-term equity’, ‘tax saver’, ‘tax plan’, ‘tax relief’, and ‘ELSS’ are all the same thing — they are funds that help you save tax under section 80C.
+- ‘Emerging large-cap’ is the same as ‘large & mid-cap’.
+
+#### What is difference in Multi Asset Fund & other Hybrid funds?
 
 Hybrid funds are mutual funds that invest in both equity (shares) and debt (fixed income securities, bonds, etc).
 

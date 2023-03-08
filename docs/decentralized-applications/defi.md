@@ -31,7 +31,7 @@
 
 [Crypto Investing](crypto-investing)
 
-[Different Coins / Tokens](different-coins-tokens)
+[Different Coins / Tokens](decentralized-applications/coins-tokens-chains/readme.md)
 
 <https://www.youtube.com/watch?v=p9iTNsh9bSk>
 

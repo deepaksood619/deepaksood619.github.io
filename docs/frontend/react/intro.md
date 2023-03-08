@@ -103,31 +103,25 @@ Encapsulates the idea that all the code that we write in separate files is siloe
 
 <https://reactjs.org/docs/thinking-in-react.html>
 
-1. Break The UI Into A Component Hierarchy
+## Break The UI Into A Component Hierarchy
 
 Draw boxes around every component (and subcomponent) in the mock and give them all names.
 
 ![image](../../media/react-Intro-image2.jpg)
 
-1. FilterableProductTable(orange):contains the entirety of the example
+1. FilterableProductTable(orange): contains the entirety of the example
+2. SearchBar(blue): receives alluser input
+3. ProductTable(green): displays and filters thedata collectionbased onuser input
+4. ProductCategoryRow(turquoise): displays a heading for eachcategory
+5. ProductRow(red): displays a row for eachproduct
 
-2. SearchBar(blue):receives alluser input
-
-3. ProductTable(green):displays and filters thedata collectionbased onuser input
-
-4. ProductCategoryRow(turquoise):displays a heading for eachcategory
-
-5. ProductRow(red):displays a row for eachproduct
-
-2. Build A Static Version in React
+## Build A Static Version in React
 
 Building a static version requires a lot of typing and no thinking, and adding interactivity requires a lot of thinking and not a lot of typing.
 
-3. Identify The Minimal (but complete) Representation Of UI State
-
-4. Identify Where Your State Should Live
-
-5. Add Inverse Data Flow
+1. Identify The Minimal (but complete) Representation Of UI State
+2. Identify Where Your State Should Live
+3. Add Inverse Data Flow
 
 ## Advanced
 

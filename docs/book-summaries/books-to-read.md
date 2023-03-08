@@ -42,6 +42,7 @@ Book Summaries
 - Am I Overthinking This? and Maybe This Will Help by Michelle Rial
 - A Short History of Nearly Everything by Bill Bryson
 - Barbarians At The Gate Paperback by Bryan Burrough
+- Big Debt Crisis - [https://www.principles.com/big-debt-crises](https://www.principles.com/big-debt-crises)
 - The War of Art by Steven Pressfield
 - Tiny Beautiful Things: Advice on Love and Life from Dear Sugar by Cheryl Strayed
 - Ready Player One by Ernest Cline

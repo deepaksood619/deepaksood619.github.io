@@ -453,15 +453,15 @@ Please note thatwe can't take threats of legal action lightly so hopefully you s
 
 1. The first motivational driver is **autonomy**. Autonomy refers to how much people feel in control of their own life and able to make their own choices. In the context of work, autonomy means people feel they have a say in what they work on and how they work on it. They don't feel micromanaged; they feel empowered by their managers to pursue objectives and deadlines on their terms.
 
-...One easy way to judge whether you are leading from a place of autonomy versus control is to pay attention to your feedback or coaching conversations with the team. Specifically, do this: Pay attention to how many times you're giving them advice vs. asking them questions. If you're often giving advice or telling people how to do something, you could be diminishing their sense of autonomy. But if you are asking questions designed to guide them to finding their own solutions, then you are leaving them in control.
+    ...One easy way to judge whether you are leading from a place of autonomy versus control is to pay attention to your feedback or coaching conversations with the team. Specifically, do this: Pay attention to how many times you're giving them advice vs. asking them questions. If you're often giving advice or telling people how to do something, you could be diminishing their sense of autonomy. But if you are asking questions designed to guide them to finding their own solutions, then you are leaving them in control.
 
 2. The second motivational driver is **competence**. Competence refers to our desires to seek control but also to experience mastery. Competence speaks to our natural human desire to be learners, to be growing and feeling like we're making progress. It could be progress in our career, progress towards a set of objectives or working for a team or a company that is making progress. Anything that helps individuals feel they are moving toward mastery leverages competence as a motivation.
 
-...make sure that even when you are giving people constructive feedback, you are pairing it with a lot of positive feedback and praise as well. That way it reminds them of the progress they've already made - and show them you're trying to help them make even more progress.
+    ...make sure that even when you are giving people constructive feedback, you are pairing it with a lot of positive feedback and praise as well. That way it reminds them of the progress they've already made - and show them you're trying to help them make even more progress.
 
 3. The third and final motivational driver is **relatedness**. Relatedness refers to our will to connect with others, interact and care for other people. In terms of research, we've only just begun to grasp just how important relatedness to others truly is. But we know that humans are much more motivated to take actions when they're seen as pro-social - that is, when they're seen as being able to help other people.
 
-...if you can ensure the members of your team know who exactly is being helped by their efforts, you can almost guarantee they'll be willing to work hard to help those people.
+    ...if you can ensure the members of your team know who exactly is being helped by their efforts, you can almost guarantee they'll be willing to work hard to help those people.
 
 ## There are two types of managers
 

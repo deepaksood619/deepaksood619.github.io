@@ -58,7 +58,19 @@ Dremel is a scalable, interactive ad-hoc query system for analysis of read-only 
 
 Analytics engineering is the data transformation work that happens between loading data into your warehouse and analyzing it. dbt allows anyone comfortable with SQL to own that workflow.
 
+With dbt, data teams work directly within the warehouse to produce trusted datasets for reporting, ML modeling, and operational workflows.
+
+![DBT Platform](media/Pasted%20image%2020230308224022.png)
+
+dbt is a SQL-first transformation workflow that lets teams quickly and collaboratively deploy analytics code following software engineering best practices like modularity, portability, CI/CD, and documentation. Now anyone on the data team can safely contribute to production-grade data pipelines.
+
+![](media/Pasted%20image%2020230308224127.png)
+
 <https://www.getdbt.com>
+
+[What is dbt?](https://www.getdbt.com/product/what-is-dbt/)
+
+[What is Analytics Engineering?](https://www.getdbt.com/what-is-analytics-engineering/)
 
 ## SAAS
 

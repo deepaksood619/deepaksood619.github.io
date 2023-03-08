@@ -15,3 +15,7 @@
 ## Links
 
 [Get a Git access token & connect a remote repo to Databricks | Databricks on AWS](https://docs.databricks.com/repos/get-access-tokens-from-git-provider.html)
+
+[The Delta Lake Series, Ebooks](https://www.databricks.com/explore/de-data-warehousing/the-delta-lake-series?_gl=1*1prvfs1*_ga*MTg1NDA1MjkwNC4xNjc4MTgyNTY5*_ga_PQSEQ3RZQC*MTY3ODI0NDgxNi41LjEuMTY3ODI0NjUwOS41MS4wLjA.&_ga=2.184322534.1344930062.1678182569-1854052904.1678182569#page=1)
+
+[Google BigQuery | Databricks on AWS](https://docs.databricks.com/external-data/bigquery.html)

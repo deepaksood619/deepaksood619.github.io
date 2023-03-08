@@ -90,7 +90,7 @@ The ERC-1155 token standard allows for creating multiple token types: fungible, 
 - The functionalities of coins and tokens often overlap
 - Simply put, a token represents what you own, while a coin denotes what you're capable of owning.
 
-[Different Coins and Tokens](different-coins-tokens)
+[Different Coins and Tokens](decentralized-applications/coins-tokens-chains/readme.md)
 
 [Crypto coins vs tokens - Bitstamp Learn Center](https://www.bitstamp.net/learn/crypto-101/crypto-coins-vs-tokens/)
 

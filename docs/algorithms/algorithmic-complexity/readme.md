@@ -8,3 +8,4 @@
 - [NP Hardness](np-hardness)
 - [Halting Problem](halting-problem)
 - [Finite-State Machine](finite-state-machine)
+- [turing-vs-non-turing-machine](algorithms/algorithmic-complexity/turing-vs-non-turing-machine.md)

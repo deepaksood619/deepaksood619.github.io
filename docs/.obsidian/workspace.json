@@ -13,50 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "databases/data-warehousing/readme.md",
+                "file": "decentralized-applications/coins-tokens-chains/bitcoin.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "c0df595b7f0e1b2f",
+            "id": "8d26c66318e64046",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "office/cakedefi/tables.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9391ff2ca2dd64d8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "office/cakedefi/tables.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c5adb0a45896c5df",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "office/cakedefi/product.md",
+                "file": "decentralized-applications/ethereum/arbitrum.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "unity catalog",
+                "query": "different-coins-tokens",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -130,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "office/cakedefi/product.md",
+                "file": "decentralized-applications/ethereum/arbitrum.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "office/cakedefi/product.md",
+                "file": "decentralized-applications/ethereum/arbitrum.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "office/cakedefi/product.md"
+                "file": "decentralized-applications/ethereum/arbitrum.md"
               }
             }
           },
@@ -220,32 +196,36 @@
   },
   "active": "978fd2faf621af33",
   "lastOpenFiles": [
-    "office/cakedefi/todo.md",
-    "office/cakedefi/product.md",
+    "decentralized-applications/vechain.md",
+    "decentralized-applications/usdt.md",
+    "decentralized-applications/usdc.md",
+    "decentralized-applications/nft-non-fungible-tokens.md",
+    "decentralized-applications/different-coins-tokens.md",
+    "decentralized-applications/coin-token-intro.md",
+    "decentralized-applications/cardano.md",
+    "decentralized-applications/bitcoin.md",
+    "decentralized-applications/ethereum/readme.md",
+    "decentralized-applications/ethereum/erc-4337.md",
     "office/cakedefi/readme.md",
     "office/cakedefi/sql-queries.md",
-    "databases/data-warehousing/others.md",
-    "python/documentation/27-development-tools/static-code-analysis.md",
-    "technologies/git/others.md",
-    "office/todo/personal-todo.md",
-    "devops/ides/mac.md",
-    "technologies/apache/databricks/10-medallion-architecture.md",
-    "office/cakedefi/architecture.md",
-    "office/cakedefi/tables.md",
-    "technologies/apache/apache-spark/01-terms.md",
-    "office/credentials/internal-tech.md",
-    "technologies/apache/apache-spark/00-intro.md",
-    "technologies/apache/databricks/02-databricks-getting-started.md",
+    "decentralized-applications/coins-tokens-chains/readme.md",
+    "book-summaries/the-art-of-logic.md",
+    "decentralized-applications/coins-tokens-chains/coin-token-intro.md",
+    "decentralized-applications/readme.md",
+    "decentralized-applications/coins-tokens-chains/vechain.md",
+    "decentralized-applications/coins-tokens-chains/dtokens.md",
+    "technologies/others/others-data.md",
+    "media/Pasted image 20230308224127.png",
+    "media/Pasted image 20230308224022.png",
     "technologies/apache/databricks/01-databricks.md",
-    "data-structures/hashtable/merkle-trees.md",
-    "databases/data-warehousing/readme.md",
-    "databases/data-warehousing/intro.md",
-    "databases/data-warehousing/data-lake.md",
-    "databases/others/readme.md",
-    "databases/nosql-databases/aws-dynamodb/documentation.md",
-    "databases/nosql-databases/aws-dynamodb/core-components.md",
-    "databases/nosql-databases/aws-dynamodb/cheatsheet.md",
-    "decentralized-applications/ethereum/01-intro-to-ethereum.md",
+    "technologies/apache/databricks/readme.md",
+    "office/personality/resumes-jobs-companies-company.md",
+    "psychology/life-relationship-people.md",
+    "knowledge/quotes-proverbs/coding.md",
+    "knowledge/quotes-proverbs/business-management.md",
+    "management/mentoring-teaching-coaching-leading-leader-leadership.md",
+    "decentralized-applications/coins-tokens-chains",
+    "Untitled",
     "technologies/apache/databricks",
     "databricks",
     "media/Pasted image 20230307111436.png",
@@ -256,15 +236,11 @@
     "media/Pasted image 20230305171843.png",
     "media/Pasted image 20230305171744.png",
     "media/Pasted image 20230305103925.png",
-    "media/Pasted image 20230305103910.png",
-    "media/Coding-Interview-Questions-image1.jpg",
     "about-me/projects",
     "psychology/soft-skills/psychology/soft-skills",
     "psychology/soft-skills/psychology",
     "office/bash.sh",
     "office/keep/office/keep",
-    "office/keep/office",
-    "languages/c++/languages/c++",
-    "languages/c++/languages"
+    "office/keep/office"
   ]
 }
