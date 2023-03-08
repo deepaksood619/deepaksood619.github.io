@@ -1,6 +1,34 @@
 {
   "recentFiles": [
     {
+      "basename": "readme",
+      "path": "readme.md"
+    },
+    {
+      "basename": "deepak-banks",
+      "path": "office/keep/deepak-banks.md"
+    },
+    {
+      "basename": "product",
+      "path": "office/cakedefi/product.md"
+    },
+    {
+      "basename": "todo",
+      "path": "office/cakedefi/todo.md"
+    },
+    {
+      "basename": "tables",
+      "path": "office/cakedefi/tables.md"
+    },
+    {
+      "basename": "development-tools",
+      "path": "decentralized-applications/development-tools.md"
+    },
+    {
+      "basename": "tools",
+      "path": "decentralized-applications/tools.md"
+    },
+    {
       "basename": "arbitrum",
       "path": "decentralized-applications/ethereum/arbitrum.md"
     },
@@ -113,10 +141,6 @@
       "path": "decentralized-applications/coins-tokens-chains/usdc.md"
     },
     {
-      "basename": "tools",
-      "path": "decentralized-applications/tools.md"
-    },
-    {
       "basename": "references-learning",
       "path": "decentralized-applications/references-learning.md"
     },
@@ -143,18 +167,6 @@
     {
       "basename": "crypto-news",
       "path": "decentralized-applications/crypto-news.md"
-    },
-    {
-      "basename": "product",
-      "path": "office/cakedefi/product.md"
-    },
-    {
-      "basename": "todo",
-      "path": "office/cakedefi/todo.md"
-    },
-    {
-      "basename": "deepak-banks",
-      "path": "office/keep/deepak-banks.md"
     },
     {
       "basename": "readme",
@@ -187,18 +199,6 @@
     {
       "basename": "blogs-conferences-blogging-presentation-tech-thursdays",
       "path": "computer-science/interview-question/blogs-conferences-blogging-presentation-tech-thursdays.md"
-    },
-    {
-      "basename": "tables",
-      "path": "office/cakedefi/tables.md"
-    },
-    {
-      "basename": "crypto-investing",
-      "path": "decentralized-applications/crypto-investing.md"
-    },
-    {
-      "basename": "finite-state-machine",
-      "path": "algorithms/algorithmic-complexity/finite-state-machine.md"
     }
   ],
   "omittedPaths": [],

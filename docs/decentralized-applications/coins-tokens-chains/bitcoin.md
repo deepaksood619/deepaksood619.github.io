@@ -10,7 +10,7 @@
 - Total number of bitcoins that can be issued is 21 million
 - A unit of bitcoin is divisible to eight decimal places (100 millionths of one bitcoin). Hence, it can be purchased in smaller units called a Satoshi - which, as you might have already guessed, was named in homage to Bitcoin’s creator(s) – Satoshi Nakamoto.
 
-![image](media/decentral-bitcoin.svg)
+![image](../../media/decentral-bitcoin.svg)
 
 - 2 pizza for 10,000 bitcoins which are now worth $100 million
 - A new block is added every 10 minutes
@@ -43,7 +43,7 @@ The blockchain trilemma is a concept coined by [Vitalik Buterin](https://coinmar
 
 ## The Scalability Trilemma
 
-![image](media/Bitcoin-Cryptocurrency-Web3-image1.jpg)
+![image](../../media/Bitcoin-Cryptocurrency-Web3-image1.jpg)
 
 <https://medium.com/logos-network/everything-you-know-about-the-scalability-trilemma-is-probably-wrong-bc4f4b7a7ef>
 
@@ -75,12 +75,12 @@ To others, a degree of centralisation may simply be a price to pay for the other
 
 **Pay-to-Public-Key-Hash (P2PKH)** is a method of sending bitcoin to a specific address. In this method, instead of sending money to a public key, as in P2PK transactions, a hash of the public key is used.
 
-By using the hash of the public key rather than the public key itself, P2PKH enchances bitcoin security. This is because the hash is secured by SHA-256 encryption. Currently no known quantum algorithms can break the SHA-256 encryption. This means that even if a quantum computer were to be used to try to derive the private key from the public key, it would not be able to do so because the public key is not visible on the blockchain, only its hash is.  
-  
-In the context of P2PKH, SHA-256 is used to create a hash of the public key. This hash is then used in the **ScriptPubKey** of the P2PKH transaction. A scriptPubKey is a script that is included in the output of a transaction. It sets the rules that must be satisfied in order to use the funds related to that output.  
-  
-In P2PKH, the scriptPubKey contains the hash of the public key, while the ScriptSig includes the signature and the public key. The public key is only visible on the blockchain when the coins are spent, and not when they are received.  
-  
+By using the hash of the public key rather than the public key itself, P2PKH enchances bitcoin security. This is because the hash is secured by SHA-256 encryption. Currently no known quantum algorithms can break the SHA-256 encryption. This means that even if a quantum computer were to be used to try to derive the private key from the public key, it would not be able to do so because the public key is not visible on the blockchain, only its hash is.
+
+In the context of P2PKH, SHA-256 is used to create a hash of the public key. This hash is then used in the **ScriptPubKey** of the P2PKH transaction. A scriptPubKey is a script that is included in the output of a transaction. It sets the rules that must be satisfied in order to use the funds related to that output.
+
+In P2PKH, the scriptPubKey contains the hash of the public key, while the ScriptSig includes the signature and the public key. The public key is only visible on the blockchain when the coins are spent, and not when they are received.
+
 It is one of the most commonly used transaction types in bitcoin transactions.
 
 P2PKH addresses start with a "1"

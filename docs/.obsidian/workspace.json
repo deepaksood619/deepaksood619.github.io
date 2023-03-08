@@ -8,24 +8,24 @@
         "type": "tabs",
         "children": [
           {
-            "id": "deaacf76eb4aab0c",
+            "id": "8d26c66318e64046",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "decentralized-applications/coins-tokens-chains/bitcoin.md",
+                "file": "office/keep/deepak-banks.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "8d26c66318e64046",
+            "id": "03107ee3e3451e8a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "decentralized-applications/ethereum/arbitrum.md",
+                "file": "readme.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "different-coins-tokens",
+                "query": "decentral-bitcoin.svg",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -86,7 +86,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -106,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "decentralized-applications/ethereum/arbitrum.md",
+                "file": "readme.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "decentralized-applications/ethereum/arbitrum.md",
+                "file": "readme.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "decentralized-applications/ethereum/arbitrum.md"
+                "file": "readme.md"
               }
             }
           },
@@ -194,8 +195,16 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "978fd2faf621af33",
+  "active": "eae646b9619747a1",
   "lastOpenFiles": [
+    "office/keep/deepak-banks.md",
+    "readme.md",
+    "office/cakedefi/product.md",
+    "office/cakedefi/todo.md",
+    "office/cakedefi/tables.md",
+    "decentralized-applications/development-tools.md",
+    "decentralized-applications/tools.md",
+    "decentralized-applications/ethereum/arbitrum.md",
     "decentralized-applications/vechain.md",
     "decentralized-applications/usdt.md",
     "decentralized-applications/usdc.md",
@@ -214,16 +223,8 @@
     "decentralized-applications/readme.md",
     "decentralized-applications/coins-tokens-chains/vechain.md",
     "decentralized-applications/coins-tokens-chains/dtokens.md",
-    "technologies/others/others-data.md",
     "media/Pasted image 20230308224127.png",
     "media/Pasted image 20230308224022.png",
-    "technologies/apache/databricks/01-databricks.md",
-    "technologies/apache/databricks/readme.md",
-    "office/personality/resumes-jobs-companies-company.md",
-    "psychology/life-relationship-people.md",
-    "knowledge/quotes-proverbs/coding.md",
-    "knowledge/quotes-proverbs/business-management.md",
-    "management/mentoring-teaching-coaching-leading-leader-leadership.md",
     "decentralized-applications/coins-tokens-chains",
     "Untitled",
     "technologies/apache/databricks",

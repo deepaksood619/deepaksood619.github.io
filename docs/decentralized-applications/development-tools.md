@@ -24,3 +24,17 @@ Ganache is an Ethereum simulator that makes developing Ethereum applications fas
 [Introduction to Clef | go-ethereum](https://geth.ethereum.org/docs/tools/clef/introduction)
 
 [ETH.Build - Educational Sandbox For Web3](https://eth.build/)
+
+##### [Orientation - Ocean Protocol](https://docs.oceanprotocol.com/)
+
+Ocean provides the next generation of tools to unlock data at a large scale. Ocean makes it easy to publish and consume data services.
+
+### Others
+
+- [NEAR Protocol | Reimagine your World](https://near.org/)
+- [OpenZeppelin](https://www.openzeppelin.com/)
+  - It's an open source framework for building smart contracts on ethereum blockchain
+  - And it has a library of pre built smart contracts including the nft factory contract
+- [Alchemy - the web3 development platform](https://www.alchemy.com/)
+  - [Learn: Alchemy Road to Web3](https://www.youtube.com/playlist?list=PLMj8NvODurfEYLsuiClgikZBGDfhwdcXF)
+  - [Web3 Tutorials Overview](https://docs.alchemy.com/docs)

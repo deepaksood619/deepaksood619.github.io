@@ -1,5 +1,7 @@
 # Arbitrum
 
+Arbitrum is currently the fourth-largest blockchain in terms of the total value locked (TVL) into its decentralized finance (DeFi) ecosystem
+
 Arbitrum is a layer-2 scaling solution for Ethereum, designed to increase the scalability and performance of the Ethereum network. It is a sidechain that runs parallel to the Ethereum mainchain, but with its own consensus mechanism and infrastructure.
 
 Arbitrum aims to offer faster and cheaper transactions on Ethereum by offloading some of the transaction processing from the mainchain to the sidechain. It uses a technology called optimistic rollups, which is a type of scaling solution that allows many transactions to be bundled together and processed off-chain, with only a summary of those transactions being submitted to the mainchain.

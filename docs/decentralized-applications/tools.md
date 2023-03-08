@@ -1,5 +1,7 @@
 # Tools
 
+[Development Tools](decentralized-applications/development-tools.md)
+
 ## Site Tools
 
 - <https://coinmarketcap.com>
@@ -74,22 +76,6 @@ Below are some of the key features of Hyperledger Fabric and what differentiates
 - [Implement a brute force algorithm to find three missing word from BIP39 seed](https://stackoverflow.com/questions/67416082/implement-a-brute-force-algorithm-to-find-three-missing-word-from-bip39-seed)
 - [Getting Title at 18:21](https://github.com/3rdIteration/btcrecover)
 
-## Others
-
-- [Arbitrum - Scaling Ethereum](https://arbitrum.io/)
-  - Arbitrum is currently the fourth-largest blockchain in terms of the total value locked (TVL) into its decentralized finance (DeFi) ecosystem
-- [NEAR Protocol | Reimagine your World](https://near.org/)
-- [OpenZeppelin](https://www.openzeppelin.com/)
-  - It's an open source framework for building smart contracts on ethereum blockchain
-  - And it has a library of pre built smart contracts including the nft factory contract
-- [Alchemy - the web3 development platform](https://www.alchemy.com/)
-  - [Learn: Alchemy Road to Web3](https://www.youtube.com/playlist?list=PLMj8NvODurfEYLsuiClgikZBGDfhwdcXF)
-  - [Web3 Tutorials Overview](https://docs.alchemy.com/docs)
-
 ## Learning / News
 
 - [Cryptocurrency Newsletter | Crypto Newsletter Subscription | CryptoWeekly](https://cryptoweekly.co/newsletter)
-
-## Links
-
-[Development Tools](ethereum/development-tools)

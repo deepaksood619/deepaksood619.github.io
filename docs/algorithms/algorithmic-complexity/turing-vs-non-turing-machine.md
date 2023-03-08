@@ -16,9 +16,9 @@ For a language to be turing complete it has to only fulfill the below requiremen
 
 > What this means, practically, is that the language must support:
 
-> -   Some form of reading and writing memory (reading to/writing from the tape)
-> -   Some form of branching (moving the machine to the forward along the tape, skipping over unwanted symbols)
-> -   Some form of infinite looping capability, either through recursion or explicit loops (moving the machine back along the tape and restarting execution there)
+> - Some form of reading and writing memory (reading to/writing from the tape)
+> - Some form of branching (moving the machine to the forward along the tape, skipping over unwanted symbols)
+> - Some form of infinite looping capability, either through recursion or explicit loops (moving the machine back along the tape and restarting execution there)
 
 Now coming back to blockchain technologies ….
 
