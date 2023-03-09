@@ -56,3 +56,21 @@ display(diamonds.select("color","price").groupBy("color").agg(avg("price")).sort
 ### Saving data from SQL to spark dataframe
 
 `variable_to_save = _sqldf`
+
+### Tables
+
+#### Managed Tables
+
+- Data management: Spark manages both the metadata and the data
+- Data location: Data is saved in the Spark SQL warehouse directory `/user/hive/warehouse`. Metadata is saved in a meta-store of relational entities.
+- Data deletion: The metadata and the data will be deleted after deleting the table.
+
+#### Unmanaged/External Tables
+
+- Data management: Spark manages only the metadata, and the data itself is not controlled by Spark.
+- Data location: Source data location is required to create a table.
+- Data deletion: Only the metadata will be deleted. The tables are saved in the external location.
+
+## Links
+
+[Five Ways To Create Tables In Databricks | by Amy @GrabNGoInfo | GrabNGoInfo | Medium](https://medium.com/grabngoinfo/five-ways-to-create-tables-in-databricks-cd3847cfc3aa)

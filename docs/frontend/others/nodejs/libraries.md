@@ -57,11 +57,11 @@ Intro to HTTP Headers and Cookies
 
 Setting header with expiry
 
+```js
 var date = new Date();
-
 date.setTime(date.getTime() - 20000);
-
 document.cookie = "custom1=value; expires=" + date.toUTCString() + ";"
+```
 
 Set a cookie for 2 weeks and after it expire, user has to re-login
 
@@ -76,3 +76,7 @@ FingerprintJS is a browser fingerprinting library that queries browser attribute
 <https://github.com/fingerprintjs/fingerprintjs>
 
 ## Request - <https://github.com/request/request>
+
+## [Sequelize | Feature-rich ORM for modern TypeScript & JavaScript](https://sequelize.org/)
+
+Sequelize is a modern TypeScript and Node.js ORM for Oracle, Postgres, MySQL, MariaDB, SQLite and SQL Server, and more. Featuring solid transaction support, relations, eager and lazy loading, read replication and more.

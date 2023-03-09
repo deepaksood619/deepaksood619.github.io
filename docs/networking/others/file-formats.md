@@ -9,9 +9,7 @@ Sequence files are introduced in Hadoop. Sequence files act as a container to st
 There are three types of sequence files:
 
 - Uncompressed key/value records.
-
 - Record compressed key/value records -- only 'values' are compressed here
-
 - Block compressed key/value records -- both keys and values are collected in 'blocks' separately and compressed. The size of the 'block' is configurable.
 
 ## RCFile
@@ -52,26 +50,33 @@ Avro
 - Schema segregated from data
   - Unlike Protobuf and Thrift
 - Row major format
+
 JSON
+
 - Serialization format for HTTP & Javascript
 - Text-format with many parsers
 - Schema completely integrated with data
 - Row major format
 - Compression applied on top
+
 ORC
+
 - Originally part of Hive to replace RCFile
   - Now top-level project
 - Schema segregated into footer
 - Column major format with stripes
 - Rich type mode, stored top-down
 - Integrated compression, indexes, & stats
+
 Parquet
+
 - Design based on Google's Dremel paper
 - Schema segregated into footer
 - Column major format with stripes
 - Simpler type-model with logical types
 - All data pushed to leaves of the tree
 - Integrated compression and indexes
+
 ![image](../../media/File-Formats-image1.jpg)
 
 ## DataSets
@@ -249,32 +254,34 @@ Daily hits: 50000*52 = 2600000 messages / day = 2.6 Million msgs/day
 
 ## h5 File / h5py
 
-Hierarchical Data Format(**HDF**) is a set of file formats (**HDF4**,**HDF5) designed to store and organize large amounts of data. Originally developed at the [National Center for Supercomputing Applications](https://en.wikipedia.org/wiki/National_Center_for_Supercomputing_Applications), it is supported by The HDF Group, a non-profit corporation whose mission is to ensure continued development of HDF5 technologies and the continued accessibility of data stored in HDF
+Hierarchical Data Format (**HDF**) is a set of file formats (HDF4, HDF5) designed to store and organize large amounts of data. Originally developed at the [National Center for Supercomputing Applications](https://en.wikipedia.org/wiki/National_Center_for_Supercomputing_Applications), it is supported by The HDF Group, a non-profit corporation whose mission is to ensure continued development of HDF5 technologies and the continued accessibility of data stored in HDF
 
 Filename extensions - .hdf,.h4,.hdf4,.he2,.h5,.hdf5,.he5
-HETEROGENEOUS DATA
 
-HDF®supports n-dimensional datasets and each element in the dataset may itself be a complex object.
+#### HETEROGENEOUS DATA
 
-EASY SHARING
+HDF supports n-dimensional datasets and each element in the dataset may itself be a complex object.
 
-HDF®is portable, with no vendor lock-in, and is a self-describing file format, meaning everything all data and metadata can be passed along in one file.
+#### EASY SHARING
 
-CROSS PLATFORM
+HDF is portable, with no vendor lock-in, and is a self-describing file format, meaning everything all data and metadata can be passed along in one file.
 
-HDF®is a software library that runs on a range of computational platforms, from laptops to massively parallel systems, and implements a high-level API with C, C++, Fortran 90, and Java interfaces. HDF has a large ecosystem with 700+ Github projects.
+#### CROSS PLATFORM
 
-FAST I/O
+HDF is a software library that runs on a range of computational platforms, from laptops to massively parallel systems, and implements a high-level API with C, C++, Fortran 90, and Java interfaces. HDF has a large ecosystem with 700+ Github projects.
 
-HDF®is high-performance I/O with a rich set of integrated performance features that allow for access time and storage space optimizations.
+#### FAST I/O
 
-BIG DATA
+HDF is high-performance I/O with a rich set of integrated performance features that allow for access time and storage space optimizations.
+
+#### BIG DATA
 
 There is no limit on the number or size of data objects in the collection, giving great flexibility for big data.
 
-KEEP METADATA WITH DATA
+#### KEEP METADATA WITH DATA
 
-HDF5®allows you to keep the metadata with the data, streamlining data lifecycles and pipelines.
+HDF5 allows you to keep the metadata with the data, streamlining data lifecycles and pipelines.
+
 <https://en.wikipedia.org/wiki/Hierarchical_Data_Format>
 
 <https://github.com/h5py/h5py>

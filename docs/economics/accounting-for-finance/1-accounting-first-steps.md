@@ -65,4 +65,12 @@
 - Consequently, it behooves us all to understand how accountants think (even if we disagree with them) in putting these statements together
 - The challenge is that accounting thinking keeps chaning, as we move through time, and we have to understand those changes (both the what and the why), to keep up with them
 
+## Double Entry Accounting
+
+Double-entry accounting is **a system that requires two book entries — one debit and one credit — for every transaction within a business**. Your books are balanced when the sum of each debit and its corresponding credit equals zero
+
+[What Is Double-Entry Accounting? - NerdWallet](https://www.nerdwallet.com/article/small-business/double-entry-accounting)
+
+[Double Entry: What It Means in Accounting and How It's Used](https://www.investopedia.com/terms/d/double-entry.asp)
+
 [Fundamental analysis](https://www.youtube.com/playlist?list=PLX2SHiKfualFGenPFh2onjzsh8TeprEmU)

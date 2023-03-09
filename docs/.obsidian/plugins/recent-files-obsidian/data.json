@@ -1,32 +1,148 @@
 {
   "recentFiles": [
     {
+      "basename": "10-medallion-architecture",
+      "path": "technologies/apache/databricks/10-medallion-architecture.md"
+    },
+    {
+      "basename": "02-databricks-getting-started",
+      "path": "technologies/apache/databricks/02-databricks-getting-started.md"
+    },
+    {
+      "basename": "readme",
+      "path": "technologies/apache/databricks/readme.md"
+    },
+    {
+      "basename": "readme",
+      "path": "databases/sql-databases/postgres/readme.md"
+    },
+    {
+      "basename": "other-technologies",
+      "path": "technologies/others/other-technologies.md"
+    },
+    {
       "basename": "others-data",
       "path": "technologies/others/others-data.md"
     },
     {
-      "basename": "sql-queries",
-      "path": "office/cakedefi/sql-queries.md"
+      "basename": "readme",
+      "path": "technologies/others/readme.md"
+    },
+    {
+      "basename": "readme",
+      "path": "technologies/readme.md"
     },
     {
       "basename": "product",
       "path": "office/cakedefi/product.md"
     },
     {
+      "basename": "readme",
+      "path": "economics/accounting-for-finance/readme.md"
+    },
+    {
+      "basename": "1-accounting-first-steps",
+      "path": "economics/accounting-for-finance/1-accounting-first-steps.md"
+    },
+    {
+      "basename": "delta-lake",
+      "path": "networking/others/delta-lake.md"
+    },
+    {
+      "basename": "readme",
+      "path": "networking/others/readme.md"
+    },
+    {
+      "basename": "01-databricks",
+      "path": "technologies/apache/databricks/01-databricks.md"
+    },
+    {
+      "basename": "99-others",
+      "path": "technologies/apache/databricks/99-others.md"
+    },
+    {
+      "basename": "apache-parquet",
+      "path": "networking/others/apache-parquet.md"
+    },
+    {
+      "basename": "file-formats",
+      "path": "networking/others/file-formats.md"
+    },
+    {
+      "basename": "rivers",
+      "path": "knowledge/geography/rivers.md"
+    },
+    {
+      "basename": "liquidity-mining",
+      "path": "decentralized-applications/liquidity-mining.md"
+    },
+    {
+      "basename": "marathon-running",
+      "path": "knowledge/games/marathon-running.md"
+    },
+    {
+      "basename": "addresses-electricity",
+      "path": "office/personality/addresses-electricity.md"
+    },
+    {
+      "basename": "electrical-engineering",
+      "path": "knowledge/applied-sciences/electrical-engineering.md"
+    },
+    {
       "basename": "infra-hr",
       "path": "office/cakedefi/infra-hr.md"
     },
     {
-      "basename": "readme",
-      "path": "readme.md"
+      "basename": "infra",
+      "path": "office/blocktoons/infra.md"
+    },
+    {
+      "basename": "questions-to-company",
+      "path": "office/personality/questions-to-company.md"
+    },
+    {
+      "basename": "08-examples",
+      "path": "technologies/apache/apache-spark/08-examples.md"
+    },
+    {
+      "basename": "04-key-points",
+      "path": "technologies/apache/apache-spark/04-key-points.md"
+    },
+    {
+      "basename": "resumes-jobs-companies-company",
+      "path": "office/personality/resumes-jobs-companies-company.md"
+    },
+    {
+      "basename": "todo",
+      "path": "office/cakedefi/todo.md"
+    },
+    {
+      "basename": "libraries",
+      "path": "frontend/others/nodejs/libraries.md"
     },
     {
       "basename": "deepak-banks",
       "path": "office/keep/deepak-banks.md"
     },
     {
-      "basename": "todo",
-      "path": "office/cakedefi/todo.md"
+      "basename": "readme",
+      "path": "frontend/others/nodejs/readme.md"
+    },
+    {
+      "basename": "defi",
+      "path": "decentralized-applications/defi.md"
+    },
+    {
+      "basename": "readme",
+      "path": "decentralized-applications/ethereum/readme.md"
+    },
+    {
+      "basename": "sql-queries",
+      "path": "office/cakedefi/sql-queries.md"
+    },
+    {
+      "basename": "readme",
+      "path": "readme.md"
     },
     {
       "basename": "tables",
@@ -43,10 +159,6 @@
     {
       "basename": "arbitrum",
       "path": "decentralized-applications/ethereum/arbitrum.md"
-    },
-    {
-      "basename": "readme",
-      "path": "decentralized-applications/ethereum/readme.md"
     },
     {
       "basename": "erc-4337",
@@ -81,124 +193,12 @@
       "path": "decentralized-applications/coins-tokens-chains/dtokens.md"
     },
     {
-      "basename": "01-databricks",
-      "path": "technologies/apache/databricks/01-databricks.md"
-    },
-    {
-      "basename": "readme",
-      "path": "technologies/apache/databricks/readme.md"
-    },
-    {
-      "basename": "resumes-jobs-companies-company",
-      "path": "office/personality/resumes-jobs-companies-company.md"
-    },
-    {
       "basename": "life-relationship-people",
       "path": "psychology/life-relationship-people.md"
     },
     {
       "basename": "coding",
       "path": "knowledge/quotes-proverbs/coding.md"
-    },
-    {
-      "basename": "business-management",
-      "path": "knowledge/quotes-proverbs/business-management.md"
-    },
-    {
-      "basename": "mentoring-teaching-coaching-leading-leader-leadership",
-      "path": "management/mentoring-teaching-coaching-leading-leader-leadership.md"
-    },
-    {
-      "basename": "others",
-      "path": "knowledge/others/politics/others.md"
-    },
-    {
-      "basename": "readme",
-      "path": "knowledge/others/politics/readme.md"
-    },
-    {
-      "basename": "types-of-governments",
-      "path": "knowledge/others/politics/types-of-governments.md"
-    },
-    {
-      "basename": "indian-polity",
-      "path": "knowledge/others/politics/indian-polity.md"
-    },
-    {
-      "basename": "books-to-read",
-      "path": "book-summaries/books-to-read.md"
-    },
-    {
-      "basename": "bitcoin",
-      "path": "decentralized-applications/coins-tokens-chains/bitcoin.md"
-    },
-    {
-      "basename": "bip39",
-      "path": "decentralized-applications/bip39.md"
-    },
-    {
-      "basename": "usdt",
-      "path": "decentralized-applications/coins-tokens-chains/usdt.md"
-    },
-    {
-      "basename": "usdc",
-      "path": "decentralized-applications/coins-tokens-chains/usdc.md"
-    },
-    {
-      "basename": "references-learning",
-      "path": "decentralized-applications/references-learning.md"
-    },
-    {
-      "basename": "others",
-      "path": "decentralized-applications/others.md"
-    },
-    {
-      "basename": "nft-non-fungible-tokens",
-      "path": "decentralized-applications/coins-tokens-chains/nft-non-fungible-tokens.md"
-    },
-    {
-      "basename": "key-concepts",
-      "path": "decentralized-applications/key-concepts.md"
-    },
-    {
-      "basename": "dual-token-economy",
-      "path": "decentralized-applications/dual-token-economy.md"
-    },
-    {
-      "basename": "blockchain",
-      "path": "decentralized-applications/blockchain.md"
-    },
-    {
-      "basename": "crypto-news",
-      "path": "decentralized-applications/crypto-news.md"
-    },
-    {
-      "basename": "readme",
-      "path": "economics/mutual-funds/readme.md"
-    },
-    {
-      "basename": "people",
-      "path": "office/cakedefi/people.md"
-    },
-    {
-      "basename": "deepak-account-credentials",
-      "path": "office/keep/deepak-account-credentials.md"
-    },
-    {
-      "basename": "my-infra",
-      "path": "office/other/my-infra.md"
-    },
-    {
-      "basename": "firebase-analytics",
-      "path": "cloud/others/firebase/firebase-analytics.md"
-    },
-    {
-      "basename": "product-design-questions",
-      "path": "management/product-management/product-design-questions.md"
-    },
-    {
-      "basename": "blogs-conferences-blogging-presentation-tech-thursdays",
-      "path": "computer-science/interview-question/blogs-conferences-blogging-presentation-tech-thursdays.md"
     }
   ],
   "omittedPaths": [],

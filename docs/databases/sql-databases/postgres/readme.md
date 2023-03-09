@@ -317,3 +317,7 @@ SE Radio - 328: Postgres Query Planner (Robert Blumen with Bruce Momjian)
 <https://zerodha.tech/blog/working-with-postgresql>
 
 [Postgres Architecture Explained - YouTube](https://www.youtube.com/watch?v=Q56kljmIN14)
+
+[Herding elephants: Lessons learned from sharding Postgres at Notion](https://www.notion.so/blog/sharding-postgres-at-notion)
+
+[Postgres Copy](https://www.postgresql.org/docs/current/sql-copy.html)

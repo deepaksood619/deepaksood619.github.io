@@ -127,3 +127,4 @@ Stop wrestling with UI libraries, hacking together data sources, and figuring ou
 - Danfo.js - pandas in js
 - Mantin.js
 - Amplication
+- [GitHub - hoophq/sequence: Immutable, scalable, and easy to use ledger service.](https://github.com/hoophq/sequence)

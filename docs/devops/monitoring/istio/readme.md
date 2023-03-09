@@ -6,7 +6,7 @@
 - [Security](security)
 - [Observability](observability)
 - [Tasks](tasks)
-- [Operations](operations)
+- [Operations](devops/monitoring/istio/operations.md)
 - [Commands](commands)
 - [Examples](devops/monitoring/istio/examples.md)
 - [Others](devops/monitoring/istio/others.md)

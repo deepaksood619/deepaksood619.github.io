@@ -9,6 +9,7 @@
 - [Protocol Buffers Protobuf](protocol-buffers-protobuf)
 - [Apache Avro](apache-avro)
 - [Apache Parquet](apache-parquet)
+- [Delta Lake](networking/others/delta-lake.md)
 - [File Formats](file-formats)
 - [RPC](rpc)
 - [gRPC](grpc/readme.md)
