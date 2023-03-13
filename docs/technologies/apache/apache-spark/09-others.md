@@ -10,11 +10,9 @@
 
 <https://thedataguy.in/aws-glue-custom-output-file-size-and-fixed-number-of-files>
 
-Option 1: groupFiles
-
-Option 2: groupFiles while reading from S3
-
-Option 3: Repartition
+- Option 1: groupFiles
+- Option 2: groupFiles while reading from S3
+- Option 3: Repartition
 
 <https://medium.com/enigma-engineering/things-i-wish-id-known-about-spark-when-i-started-one-year-later-edition-d767430181ed>
 

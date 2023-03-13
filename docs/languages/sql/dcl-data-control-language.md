@@ -2,11 +2,11 @@
 
 ## Data Control Language (DCL) / Data Management Language (DML)
 
-show grants for 'raghwendra_sarkar';
-
-- Grant
+## Grant
 
 ```sql
+show grants for 'raghwendra_sarkar';
+
 GRANT SELECT, SHOW VIEW
 ON mydatabase.*
 TO myreaduser@myhost IDENTIFIED BY 'somepassword';
@@ -33,9 +33,9 @@ GRANT SELECT,UPDATE,INSERT,SHOW VIEW ON sttash_website_LIVE.st_collection_lead_a
 GRANT SELECT ON sttash_website_LIVE.elev8_offer_tmp_clicked TO 'test'@'%';
 ```
 
-- Revoke
+## Revoke
 
-## Postgres Grant Command
+### Postgres Grant Command
 
 ```sql
  GRANT { { SELECT | INSERT | UPDATE | DELETE | TRUNCATE | REFERENCES | TRIGGER }

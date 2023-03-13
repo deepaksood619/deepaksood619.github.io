@@ -88,3 +88,7 @@ The Top Three Highest Ranking Crypto Websites on Alexa
 - [Top Bitcoin and other Crypto Payment Processor | CoinGate](https://coingate.com/)
   - Amazon Gift Cards
 - [250+ Stores That Accept Bitcoin | BitPay’s Curated Directory of Places to Spend Cryptocurrency](https://bitpay.com/directory/)
+
+### Links
+
+[How to Spot Crypto Pump-and-Dump Schemes](https://www.coindesk.com/learn/how-to-spot-crypto-pump-and-dump-schemes)

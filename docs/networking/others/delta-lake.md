@@ -1,6 +1,6 @@
 # Delta Lake
 
-[Delta Lake](https://databricks.com/wp-content/uploads/2020/08/p975-armbrust.pdf) is an open-source storage framework that enables building a  
+[Delta Lake](https://databricks.com/wp-content/uploads/2020/08/p975-armbrust.pdf) is an open-source storage framework that enables building a
 [Lakehouse architecture](http://cidrdb.org/cidr2021/papers/cidr2021_paper17.pdf) with compute engines including Spark, PrestoDB, Flink, Trino, and Hive and APIs for Scala, Java, Rust, Ruby, and Python.
 
 - Open Format Storage Layer
@@ -22,7 +22,7 @@ data = spark.range(0, 5)
 data.write.format("delta").save("/tmp/delta-table")
 ```
 
-These operations create a new Delta table using the schema that was _inferred_ from your DataFrame. 
+These operations create a new Delta table using the schema that was _inferred_ from your DataFrame.
 
 [Create a table](https://docs.delta.io/latest/delta-batch.html#-ddlcreatetable)
 
@@ -120,7 +120,7 @@ While the stream is running, you can read the table using the earlier commands.
 
 You can stop the stream by running `stream.stop()` in the same terminal that started the stream.
 
-[Table streaming reads and writes](https://docs.delta.io/latest/delta-streaming.html) 
+[Table streaming reads and writes](https://docs.delta.io/latest/delta-streaming.html)
 
 ## Read a stream of changes from a table
 
@@ -139,12 +139,12 @@ stream2 = spark.readStream.format("delta") \
 
 Delta Lake provides ACID transaction guarantees between reads and writes. This means that:
 
--   For supported [storage systems](https://docs.delta.io/latest/delta-storage.html), multiple writers across multiple clusters can simultaneously modify a table partition and see a consistent snapshot view of the table and there will be a serial order for these writes.
--   Readers continue to see a consistent snapshot view of the table that the Apache Spark job started with, even when a table is modified during a job.
--   [Optimistic concurrency control](https://docs.delta.io/latest/concurrency-control.html#optimistic-concurrency-control)
--   [Write conflicts](https://docs.delta.io/latest/concurrency-control.html#write-conflicts)
--   [Avoid conflicts using partitioning and disjoint command conditions](https://docs.delta.io/latest/concurrency-control.html#avoid-conflicts-using-partitioning-and-disjoint-command-conditions)
--   [Conflict exceptions](https://docs.delta.io/latest/concurrency-control.html#conflict-exceptions)
+- For supported [storage systems](https://docs.delta.io/latest/delta-storage.html), multiple writers across multiple clusters can simultaneously modify a table partition and see a consistent snapshot view of the table and there will be a serial order for these writes.
+- Readers continue to see a consistent snapshot view of the table that the Apache Spark job started with, even when a table is modified during a job.
+- [Optimistic concurrency control](https://docs.delta.io/latest/concurrency-control.html#optimistic-concurrency-control)
+- [Write conflicts](https://docs.delta.io/latest/concurrency-control.html#write-conflicts)
+- [Avoid conflicts using partitioning and disjoint command conditions](https://docs.delta.io/latest/concurrency-control.html#avoid-conflicts-using-partitioning-and-disjoint-command-conditions)
+- [Conflict exceptions](https://docs.delta.io/latest/concurrency-control.html#conflict-exceptions)
 
 ## FAQs
 

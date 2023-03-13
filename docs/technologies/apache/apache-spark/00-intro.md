@@ -243,6 +243,8 @@ This lets you represent RDD as a graph (nodes are connected via edges) and perfo
 
 <https://towardsdatascience.com/natural-language-processing-with-spark-9efef3564270>
 
+[Koalas: pandas API on Apache Spark — Koalas 1.8.2 documentation](https://koalas.readthedocs.io/en/latest/)
+
 ## Spark UI
 
 <https://spark.apache.org/docs/3.0.0-preview/web-ui.html>

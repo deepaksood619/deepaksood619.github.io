@@ -11,3 +11,9 @@ Blocks in the ledger are included in such a way as to build the longest chain, i
 A fork usually gets resolved in one block, because the probability that this situation happens again gets extremely lower with the next blocks that arise, so soon there is a new longest chain that will be considered as main.
 
 (Note: This type of fork is distinct from a hard fork, which is where some developers decide to create a backward-incompatible change to the blockchain protocol, resulting in two forever-distinct blockchains.)
+
+## On-chain Analysis
+
+On-chain metrics turn blockchain-based transaction data into actionable crypto market insights.
+
+[On-Chain Analysis: How to Turn Blockchain Data Into Crypto Market Insights](https://www.coindesk.com/learn/what-is-crypto-on-chain-analysis-and-how-do-you-use-it/)

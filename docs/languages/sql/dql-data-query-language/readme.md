@@ -42,3 +42,42 @@ In this syntax, theUSE INDEXinstructs the queryoptimizer to use one of the named
 Notice that when you recommend the indexes to use, the queryoptimizer may either decide to use them or not depending on the query plan that it comes up with.
 
 <https://www.mysqltutorial.org/mysql-index/mysql-use-index>
+
+## Transpose
+
+```sql
+SELECT
+    id,
+    MAX(CASE WHEN Feetype = 'Revenue Fee' THEN amountFeeRatio END) AS RevenueFeeAmount,
+    MAX(CASE WHEN Feetype = 'Revenue Fee' THEN usdEquivalentFeeRatio END) AS RevenueFeeUSDEquivalent,
+    MAX(CASE WHEN Feetype = 'Maintanence Fee' THEN amountFeeRatio END) AS MaintanenceFeeAmount,
+    MAX(CASE WHEN Feetype = 'Maintanence Fee' THEN usdEquivalentFeeRatio END) AS MaintanenceFeeUSDEquivalent
+FROM test_table
+GROUP BY id limit 100;
+```
+
+[Multiple options to transposing rows into columns](https://www.sqlshack.com/multiple-options-to-transposing-rows-into-columns/)
+
+### Crosstab
+
+```sql
+select *
+from crosstab(
+    'select
+    role,
+    type,
+    sum(duration) as total_minutes
+from work
+group by role, type
+order by type',
+    'select distinct type from work order by type'
+) as ct(
+    role text,
+    "Cleaning" text,
+    "Food preparation" text
+);
+```
+
+[PostgreSQL: Documentation: 15: F.43. tablefunc](https://www.postgresql.org/docs/current/tablefunc.html)
+
+**[Transpositions in SQL. How to handle dynamic transposition… | by Jerry Zhang | Towards Data Science](https://towardsdatascience.com/transpositions-in-sql-c1cf724dfa2a)**

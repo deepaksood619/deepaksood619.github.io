@@ -1,36 +1,38 @@
 # OpenAPI
 
-1. [What Is OpenAPI?](https://swagger.io/docs/specification/about/)
+### [What Is OpenAPI?](https://swagger.io/docs/specification/about/)
 
-An**open API**(often referred to as a public API) is a publicly available [application programming interface](https://en.wikipedia.org/wiki/Application_programming_interface) that provides developers with programmatic access to a proprietary software application or web service.- Writing API Specification
+An **open API** (often referred to as a public API) is a publicly available [application programming interface](https://en.wikipedia.org/wiki/Application_programming_interface) that provides developers with programmatic access to a proprietary software application or web service.- Writing API Specification
 
 - API specifications can be written in YAML or JSON
-Swaggeris a set of open-source tools built around the OpenAPI Specification that can help you design, build, document and consume REST APIs. The major Swagger tools include:
-- [Swagger Editor](http://editor.swagger.io/)-- browser-based editor where you can write OpenAPI specs.
-- [Swagger UI](https://swagger.io/swagger-ui/)-- renders OpenAPI specs as interactive API documentation.
-- [Swagger Codegen](https://github.com/swagger-api/swagger-codegen)-- generates server stubs and client libraries from an OpenAPI spec.
 
-2. [Basic Structure](https://swagger.io/docs/specification/basic-structure/)
+  Swagger is a set of open-source tools built around the OpenAPI Specification that can help you design, build, document and consume REST APIs. The major Swagger tools include:
 
-3. [API Server and Base Path](https://swagger.io/docs/specification/api-host-and-base-path/)
+  - [Swagger Editor](http://editor.swagger.io/)-- browser-based editor where you can write OpenAPI specs.
+  - [Swagger UI](https://swagger.io/swagger-ui/)-- renders OpenAPI specs as interactive API documentation.
+  - [Swagger Codegen](https://github.com/swagger-api/swagger-codegen)-- generates server stubs and client libraries from an OpenAPI spec.
 
-4. [Media Types](https://swagger.io/docs/specification/media-types/)
+### [Basic Structure](https://swagger.io/docs/specification/basic-structure/)
 
-5. [Paths and Operations](https://swagger.io/docs/specification/paths-and-operations/)
+### [API Server and Base Path](https://swagger.io/docs/specification/api-host-and-base-path/)
 
-6. [Describing Parameters](https://swagger.io/docs/specification/describing-parameters/)
+### [Media Types](https://swagger.io/docs/specification/media-types/)
 
-7. [Parameter Serialization](https://swagger.io/docs/specification/serialization/)
+### [Paths and Operations](https://swagger.io/docs/specification/paths-and-operations/)
 
-8. [Describing Request Body](https://swagger.io/docs/specification/describing-request-body/)
+### [Describing Parameters](https://swagger.io/docs/specification/describing-parameters/)
 
-9. [Describing Responses](https://swagger.io/docs/specification/describing-responses/)
+### [Parameter Serialization](https://swagger.io/docs/specification/serialization/)
 
-10. [Data Models (Schemas)](https://swagger.io/docs/specification/data-models/)
+### [Describing Request Body](https://swagger.io/docs/specification/describing-request-body/)
 
-11. [Adding Examples](https://swagger.io/docs/specification/adding-examples/)
+### [Describing Responses](https://swagger.io/docs/specification/describing-responses/)
 
-12. [Authentication](https://swagger.io/docs/specification/authentication/)
+### [Data Models (Schemas)](https://swagger.io/docs/specification/data-models/)
+
+### [Adding Examples](https://swagger.io/docs/specification/adding-examples/)
+
+### [Authentication](https://swagger.io/docs/specification/authentication/)
 
 - Basic
 
@@ -46,19 +48,20 @@ Swaggeris a set of open-source tools built around the OpenAPI Specification that
 
 - OpenID Connect Discovery
 
-13. [Links](https://swagger.io/docs/specification/links/)
+### [Links](https://swagger.io/docs/specification/links/)
 
-14. [Callbacks](https://swagger.io/docs/specification/callbacks/)
+### [Callbacks](https://swagger.io/docs/specification/callbacks/)
 
-15. [Components Section](https://swagger.io/docs/specification/components/)
+### [Components Section](https://swagger.io/docs/specification/components/)
 
-16. [Using $ref](https://swagger.io/docs/specification/using-ref/)
+### [Using $ref](https://swagger.io/docs/specification/using-ref/)
 
-17. [API General Info](https://swagger.io/docs/specification/api-general-info/)
+### [API General Info](https://swagger.io/docs/specification/api-general-info/)
 
-18. [Grouping Operations With Tags](https://swagger.io/docs/specification/grouping-operations-with-tags/)
+### [Grouping Operations With Tags](https://swagger.io/docs/specification/grouping-operations-with-tags/)
 
-19. [OpenAPI Extensions](https://swagger.io/docs/specification/openapi-extensions/)
+### [OpenAPI Extensions](https://swagger.io/docs/specification/openapi-extensions/)
+
 OpenAPI has a way to define multiple security "schemes"
 
 - **apiKey:** an application specific key that can come from:

@@ -28,7 +28,7 @@ YouTube - [The Firebase developer's guide to Google Analytics](https://www.youtu
 
 ## Firebase Analytics
 
-## Events
+### Events
 
 An Event is an important occurrence in your app that you want to measure. You can report up to 500 different types of Events per app and you can associate up to 25 unique parameters with each Event type. Some common events are suggested below, but you may also choose to specify custom Event types that are associated with your specific app. Each event type is identified by a unique name. Event names can be up to 40 characters long, may only contain alphanumeric characters and underscores ("_"), and must start with an alphabetic character. The "firebase_", "google_", and "ga_" prefixes are reserved and should not be used.
 
@@ -42,7 +42,7 @@ Extra events are dropped. A firebase_error event is logged with a firebase_error
 
 For example, you have a login page (with authentication methods of using Facebook, Google or Username/Password) and you'd like to track what is the most commonly used by the users. With this, you could log a custom event with the name of "user_login" and a parameter or login_method. After this, add the parameter in the custom parameter reporting to see the counts.
 
-## Parameters
+### Parameters
 
 Params supply information that contextualize Events. You can associate up to 25 unique Params with each Event type. Some Params are suggested below for certain common Events, but you are not limited to these. You may supply extra Params for suggested Events or custom Params for Custom events. Param names can be up to 40 characters long, may only contain alphanumeric characters and underscores ("_"), and must start with an alphabetic character. Param values can be up to 100 characters long. The "firebase_", "google_", and "ga_" prefixes are reserved and should not be used.
 
@@ -56,7 +56,7 @@ You can also identify up to 50 custom event parameters per project (40 numeric a
 
 Each parameter that you specify counts toward the project limit of 50. For example, if you specify the same parameter for 3 different events, then that counts as 3 of your 50.
 
-## User Property
+### User Property
 
 A UserProperty is an attribute that describes the app-user. By supplying UserProperties, you can later analyze different behaviors of various segments of your userbase. You may supply up to 25 unique UserProperties per app, and you can use the name and value of your choosing for each one. UserProperty names can be up to 24 characters long, may only contain alphanumeric characters and underscores ("_"), and must start with an alphabetic character. UserProperty values can be up to 36 characters long. The "firebase_", "google_", and "ga_" prefixes are reserved and should not be used.
 
@@ -83,18 +83,17 @@ For example, if you associate one property ID with two websites, data for both w
 ## Getting started
 
 1. Create an App + Web property
-
 2. Create a data stream
 
-Data streams enable the flow of data from your website and/or app into Google Analytics. If you'd like to measure more than one touchpoint, you can add multiple data streams to your property. For example, you can add one stream for your Android app, one for your iOS app, and one for each website.
+ Data streams enable the flow of data from your website and/or app into Google Analytics. If you'd like to measure more than one touchpoint, you can add multiple data streams to your property. For example, you can add one stream for your Android app, one for your iOS app, and one for each website.
 
 3. Activate enhanced measurement
 
-When you add a data stream for your website and/or app, some basic parameters (such as language, page title, and screen resolution) are collected by default. With enhanced measurement, Analytics can automatically measure more interactions on your website such as page views, video views, and file downloads right out of the box. We recommend enabling enhanced measurement as you are setting up your App + Web property to begin collecting basic web events right away, without any custom tagging work required. You can disable enhanced measurement at any time
+ When you add a data stream for your website and/or app, some basic parameters (such as language, page title, and screen resolution) are collected by default. With enhanced measurement, Analytics can automatically measure more interactions on your website such as page views, video views, and file downloads right out of the box. We recommend enabling enhanced measurement as you are setting up your App + Web property to begin collecting basic web events right away, without any custom tagging work required. You can disable enhanced measurement at any time
 
 4. Enable data collection
 
-The final step to get set up is enabling data collection, which allows your reports to populate relevant events from your website. This allows tagged data to flow to your new property (in addition to your existing ones), and is essential in order to get meaningful insights from your App + Web property.
+ The final step to get set up is enabling data collection, which allows your reports to populate relevant events from your website. This allows tagged data to flow to your new property (in addition to your existing ones), and is essential in order to get meaningful insights from your App + Web property.
 
 ## Advanced Features
 
@@ -160,6 +159,8 @@ Well, suddenly, that second ad campaign seems like a much better deal, doesn't i
 <https://github.com/PostHog/posthog>
 
 <https://www.adjust.com>
+
+[Heap - Better Insights. Faster. | Heap](https://www.heap.io/)
 
 ### MixPanel
 

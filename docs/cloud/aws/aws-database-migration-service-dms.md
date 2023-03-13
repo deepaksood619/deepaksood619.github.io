@@ -77,3 +77,7 @@ All data transfer into AWS Database Migration Service is free, and data transfer
 | c5.large | $0.154 |
 
 <https://hevodata.com/blog/aurora-to-redshift-data-migration-using-aws-dms>
+
+## Links
+
+[Perform delta data loads to data lakes using AWS DMS | AWS Database Blog](https://aws.amazon.com/blogs/database/perform-delta-data-loads-to-data-lakes-using-aws-dms/)
