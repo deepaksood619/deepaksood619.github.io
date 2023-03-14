@@ -21,6 +21,32 @@ Asset/liability management is the process of managing the use of assets and [ca
 
 [Asset/Liability Management: Definition, Meaning, and Strategies](https://www.investopedia.com/terms/a/asset-liabilitymanagement.asp)
 
+## NPA (Non Performing Assets)
+
+A Non-performing asset(NPA) is defined as a [credit facility](https://en.wikipedia.org/wiki/Credit_facility) in respect of which the [interest](https://en.wikipedia.org/wiki/Interest) and/or installment of [principal](https://en.wikipedia.org/wiki/Bond_(finance)#Principal) has remained 'past due' for a specified period of time. In simple terms, an asset is tagged as non performing when it ceases to generate income for the lender.
+
+GNPA: GNPA stands for gross non-performing assets. GNPA is an absolute amount. It tells you the total value of gross non-performing assets for the bank in a particular quarter or financial year as the case may be.
+
+NNPA: NNPA stands for net non-performing assets. NNPA subtracts the provisions made by the bank from the gross NPA. Therefore net NPA gives you the exact value of non-performing assets after the bank has made specific provisions for it.
+
+## Capital Adequacy Ratio (CAR)
+
+- CAR is critical to ensure that banks have enough cushion to absorb a reasonable amount of losses before they become insolvent.
+- CAR is used by regulators to determine capital adequacy for banks and to run stress tests.
+- The downside of using CAR is that it doesn't account for the risk of a potential run on the bank, or what would happen in a financial crisis.
+
+### Risk-Weighted Assets
+
+[Risk-weighted assets](https://www.investopedia.com/terms/r/riskweightedassets.asp) are used to determine the minimum amount of capital that must be held by banks and other institutions to reduce the risk of [insolvency](https://www.investopedia.com/terms/i/insolvency.asp). The [capital requirement](https://www.investopedia.com/terms/c/capitalrequirement.asp) is based on a [risk assessment](https://www.investopedia.com/terms/r/risk-assessment.asp) for each type of bank asset. For example, a loan that is secured by a [letter of credit](https://www.investopedia.com/terms/l/letterofcredit.asp) is considered to be riskier and requires more capital than a mortgage loan that is secured with collateral.
+
+**CAR = (Tier 1 capital + Tier 2 capital)/risk weighted assets**
+
+**Tier 1 capital:** This can absorb the losses without a bank being required to stop trading. Also called core capital, this consists of ordinary share capital, equity capital, audited revenue reserves, and intangible assets. This is permanently available capital and readily available to absorb losses incurred by a bank without it having to cease operations.
+
+**Tier 2 capital:** This can absorb losses if the bank is winding-up and so gives depositors a lesser measure of protection. This consists of unaudited reserves, unaudited retained earnings, and general loss reserves. This capital cushions losses if the bank is winding up and is used to absorb losses after a bank loses all its tier 1 capital.
+
+[What the Capital Adequacy Ratio (CAR) Measures With Formula](https://www.investopedia.com/terms/c/capitaladequacyratio.asp)
+
 ## Credit Cards
 
 [A Brief History of Credit Cards (or What Happens When You Swipe)](https://www.youtube.com/watch?v=vR-uvPPdI_M&ab_channel=a16z)
@@ -174,3 +200,7 @@ Breakage is a term used to describe revenue gained by retailers through unredeem
 
 - Finbox - <https://finbox.in>
 - <https://sahamati.org.in>
+
+## Links
+
+[Best Bank Stocks to Buy | Banking Industry in India | SBI, HDFC Bank, ICICI Bank, Axis Bank & Kotak - YouTube](https://www.youtube.com/watch?v=mdS4n0R3s0U)

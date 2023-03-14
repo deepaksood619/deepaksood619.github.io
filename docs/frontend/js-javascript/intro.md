@@ -27,11 +27,8 @@
 ## Advantages of JavaScript
 
 1. Less server interaction
-
 2. Immediate feedback to visitors
-
 3. Increased interactivity
-
 4. Richer interfaces
 
 ## Syntax
@@ -41,16 +38,10 @@
 ## Features
 
 - First Class Functions
-- Prototype Based
-
-Supports objects but not classes
-
+- Prototype Based - Supports objects but not classes
 - Event Loops
-- Callback Functions
-
-A function sent as a parameter to other function (Since javascript supports first class functions)
-
-- Asynchronous
+- Callback Functions - A function sent as a parameter to other function (Since javascript supports first class functions)
+- Asynchronous - [Asynchronous JavaScript for Steady App Performance | Toptal®](https://www.toptal.com/javascript/asynchronous-javascript-programming)
 
 ## Console Logs
 
@@ -76,7 +67,6 @@ V8 JS Engine - <https://www.youtube.com/watch?v=xckH5s3UuX4&ab_channel=freeCodeC
 ## Service Workers
 
 1. Runs in background
-
 2. Alternative to AppCache
 
 <https://developers.google.com/web/fundamentals/primers/service-workers>

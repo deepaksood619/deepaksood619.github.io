@@ -84,3 +84,5 @@ The [wage-price spiral](https://www.investopedia.com/terms/w/wage-price-spiral.a
 [Data Update 5 for 2023: Profitability, Returns and Value](https://www.youtube.com/watch?v=qfssMonQ8Ek)
 
 [Data Update 6 for 2023: The Upside and Downside of Debt - YouTube](https://www.youtube.com/watch?v=rtIEgXLx6MI&ab_channel=AswathDamodaran)
+
+[Data Update 7 for 2023: Dividends, Buybacks and Cashflows - YouTube](https://www.youtube.com/watch?v=QKJt3cv7c2k)

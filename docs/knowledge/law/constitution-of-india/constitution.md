@@ -34,6 +34,8 @@ IN OUR CONSTITUENT ASSEMBLY this twenty-sixth day of November 1949, do HEREBY AD
 
 [What is SOVEREIGN DEMOCRATIC REPUBLIC? | Preamble of Indian Constitution | Indian Polity UPSC 2023](https://www.youtube.com/watch?v=_BH3yv8sFsg)
 
+[Preamble of Indian Constitution | What is Preamble? | Indian Polity for UPSC CSE 2023 - YouTube](https://www.youtube.com/watch?v=8ePMJe_4XFg)
+
 ## [PART I:THE UNION AND ITS TERRITORY](https://www.clearias.com/union-and-its-territory/)
 
 1 Name and territory of the Union.

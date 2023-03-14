@@ -2,6 +2,8 @@
 
 [Resume](https://bit.ly/deepak_sood_resume)
 
+ Experiences per year is far important than number of years of experience
+
 ## Professional Experience
 
 ### Stashfin, Engineering Lead (September 2020 - Feb 2023)
@@ -103,6 +105,8 @@ Worked on core product development team, as a java developer and find novel solu
 Worked on core and advance java, face detection using Viola-Jones Algorithm, corner detection using fixed points, Live Video Streaming using ffmpeg.
 
 <http://cisocybersecurity.com/> <https://demo.digiproctor.com>
+
+## Internships
 
 ### Indraprastha Institute of Information Technology, Teaching Assistant (Aug 15 - Dec 16)
 

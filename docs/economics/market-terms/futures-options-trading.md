@@ -343,3 +343,7 @@ How do I find Trades?
 [Power of SHORT STRADDLE in Volatile Markets!](https://www.youtube.com/watch?v=LR5d4HrNYwA)
 
 [Bhramastra 2 Strategy - Option buying strategy to make money | Intraday Option buying strategy | - YouTube](https://www.youtube.com/watch?v=prt9IQ7Itlw&ab_channel=InvestAajForKal)
+
+[Option chain analysis | Options trading basics | Call and Put simplified | Option buyer vs seller | - YouTube](https://www.youtube.com/watch?v=WBLUK4vLRHk)
+
+[Option buying to earn regular income | Option buying strategy by Kunal Saraogi | Options course | - YouTube](https://www.youtube.com/watch?v=otCMZmg3Sgk)

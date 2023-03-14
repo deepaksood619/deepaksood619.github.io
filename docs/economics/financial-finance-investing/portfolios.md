@@ -196,3 +196,7 @@ The balance 40% of the amount, which is Rs.200,000/- can be utilized for active 
 2. Health Insurance - ICICI Lombard Family Floater: Rs 3 lakh
 
 <https://joinditto.in>
+
+## Portfolios
+
+[An insight on Motilal Oswal Hedged Equity Multi-factor Strategy - AIF - YouTube](https://www.youtube.com/watch?v=rOmibLlyH8Y)

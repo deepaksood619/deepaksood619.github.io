@@ -4,6 +4,10 @@
 2. Decentralised
 3. Distributed
 
+## History
+
+[B-money Definition](https://www.investopedia.com/terms/b/bmoney.asp)
+
 ## 2.0 stack
 
 - AWS S3 for storage

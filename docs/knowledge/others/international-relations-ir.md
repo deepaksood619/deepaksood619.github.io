@@ -46,3 +46,5 @@ Trust is most important
 [Why India chose Egypt President El Sisi as Chief Guest for Republic Day | India Egypt Relations](https://www.youtube.com/watch?v=Cr2htefB7yk)
 
 [Why Russia's Biggest Threat is Actually China - YouTube](https://www.youtube.com/watch?v=Iibs7buNwxQ)
+
+Book - Red Roulette by Desmond Shum

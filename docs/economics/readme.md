@@ -6,6 +6,7 @@
   - [Macroeconomics](mental-models/macroeconomics)
     - [Gross Domestic Product (GDP)](gross-domestic-product-gdp)
   - [Microeconomics](mental-models/microeconomics)
+  - [Inequality](economics/mental-models/inequality.md)
 - [Financial/Finance / Investing](financial-finance-investing/readme.md)
   - [Financial Independence (FIRE)](financial-finance-investing/financial-independence)
   - [Portfolios](financial-finance-investing/portfolios)

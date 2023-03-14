@@ -67,6 +67,7 @@ Its lead developer/CTO is [Michael "Monty" Widenius](https://en.wikipedia.org/wi
 <https://mysqlserverteam.com/whats-new-in-mysql-8-0-generally-available>
 
 Upgrade Checker - <https://mysqlserverteam.com/upgrading-to-mysql-8-0-here-is-what-you-need-to-know>
+
 MySQL 8.0 brought enormous changes and modifications that were pushed by the Oracle MySQL Team.
 
 - Physical files have been changed. For instance, *.frm,*.TRG, *.TRN, and*.par [no longer exist](https://dev.mysql.com/worklog/task/?id=8216).

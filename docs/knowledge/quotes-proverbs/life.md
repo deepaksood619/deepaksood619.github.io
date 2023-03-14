@@ -20,7 +20,7 @@ I have seen a community where humans work for humanity and not for money.
 
 The cost of perfection is infinite
 
-## Don't do unto others, what you don't want done unto you
+Don't do unto others, what you don't want done unto you
 
 If you want to go fast, go alone. If you want to go far, go together
 
@@ -64,6 +64,8 @@ If you think it's simple, then you have misunderstood the problem. --- Bjarne St
 
 Change is the only constant in life
 
+Ultimately, your success in life depends on how much clarity you have -- Sadhguru
+
 Change is here. It's faster than ever. It's more pronounced than ever. And it's more impactful than ever.
 
 To live one's life in the best way: the power to do this resides within our soul, if we are capable of being indifferent to indifferent things. I'm indifferent
@@ -82,9 +84,9 @@ A man who carries a cat by the tail learns something he can learn no other way -
 
 Cut yourself off when you need to (if you give yourself shorter timelines, you'll get more done) --- often 80% is sufficient
 
-## The greatest enemy of knowledge is not ignorance, it is the illusion of knowledge -- Stephen Hawking
+**The greatest enemy of knowledge is not ignorance, it is the illusion of knowledge -- Stephen Hawking**
 
-Whether you think you can or think you can't, you're right -- Henry Ford
+**Whether you think you can or think you can't, you're right -- Henry Ford**
 
 If everything is coming your way, then you are on the wrong lane.
 
@@ -348,7 +350,7 @@ Each day is a chance to move your life towards something more than it is now. Do
 
 Thought and emotion are not separate entities. The way you think is the way you feel. -- Sadhguru
 
-## If you know wrong, you'll live wrong
+**If you know wrong, you'll live wrong**
 
 Life is involvement. Where there is no involvement, there is no life. -- Sadhguru
 
@@ -578,7 +580,7 @@ It takes inspiration and activity to the point of insanity to create something t
 
 "Data is not information. Information is not knowledge. Knowledge is not understanding. Understanding is not wisdom." -- Gary Schubert & Cliff Stoll
 
-## Being human means to consciously do the best you can for everyone and everything you come in touch with. -- Sadhguru
+**Being human means to consciously do the best you can for everyone and everything you come in touch with. -- Sadhguru**
 
 Everybody is a genius. But if you judge a fish by its ability to climb a tree, it will live its whole life believing that it is stupid.
 
@@ -936,7 +938,7 @@ You Either Die A Hero, Or You Live Long Enough To See Yourself Become The Villai
 
 You are as good as your work, degree doesn't matter
 
-## The goal of adulthood is to let go of the other possible existences and to make the best of the one. A successful adult is oƒne who understands that it doesn't matter which life you ultimately pick, only that you live it well
+**The goal of adulthood is to let go of the other possible existences and to make the best of the one. A successful adult is one who understands that it doesn't matter which life you ultimately pick, only that you live it well**
 
 Nearly everything in life has a useful zone, a desired dose. Ten minutes in the sun can energize you. Ten hours in the sun can burn you. This concept applies to many things: work, relationships, hobbies, exercise, food.
 

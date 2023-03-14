@@ -58,6 +58,8 @@ Athena supports read, time travel, write, and DDL queries for Apache Iceberg tab
 
 <https://docs.aws.amazon.com/athena/latest/ug/querying-iceberg.html>
 
+[Build a serverless transactional data lake with Apache Iceberg, Amazon EMR Serverless, and Amazon Athena | AWS Big Data Blog](https://aws.amazon.com/blogs/big-data/build-a-serverless-transactional-data-lake-with-apache-iceberg-amazon-emr-serverless-and-amazon-athena/)
+
 ## Query
 
 <https://docs.aws.amazon.com/athena/latest/ug/functions-operators-reference-section.html>

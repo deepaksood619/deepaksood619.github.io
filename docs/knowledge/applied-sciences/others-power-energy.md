@@ -8,6 +8,10 @@ A **core catcher** is a device provided to catch the molten core material ([cori
 
 [Nuclear Power Is Our Best Hope to Ditch Fossil Fuels | Isabelle Boemeke | TED](https://www.youtube.com/watch?v=ESAaz9v4mSU)
 
+## Batteries / Battery / EV
+
+[Are These Batteries The Future Of Energy Storage? - YouTube](https://www.youtube.com/watch?v=n1TBAWlbXKI)
+
 ## Others
 
 [Why do hurricane lanterns look like that?](https://www.youtube.com/watch?v=tURHTuKHBZs)

@@ -357,3 +357,7 @@ It states that when we spend money on war, this creates demand, but also it repr
 Heexplains this with the help of a short anecdote where a boy breaks the window of a shopkeeper. When that happens, the shopkeeper has to call a glazier to come fix the window. Thisgives rise to income for the glazier, who in-turn, spends it at other shops, thus, benefiting the economy overall.
 
 The only issue with this idea is that it doesn't take into account "that which is not seen."What could the shopkeeper have done with all the money that he had to pay to the glazier? Thus, the fallacy.
+
+## Links
+
+[LessWrong - Wikipedia](https://en.wikipedia.org/wiki/LessWrong)

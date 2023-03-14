@@ -97,3 +97,5 @@
 [Home | Ethereum Improvement Proposals](https://eips.ethereum.org/)
 
 [Berlin Hard Fork Is Now Live on Ethereum - CoinDesk](https://www.coindesk.com/tech/2021/04/15/berlin-hard-fork-is-now-live-on-ethereum/)
+
+[Upgrading Ethereum](https://eth2book.info/)

@@ -2,7 +2,7 @@
 
 ## SQL CTEs (Common Table Expressions)
 
-TheCommon Table Expressions (CTE)were introduced into standard SQL in order to simplify various classes of SQL Queries for which a derived table was just unsuitable. CTE was introduced in SQL Server 2005, the common table expression (CTE) is a temporary named result set that you can reference within a SELECT, INSERT, UPDATE, or DELETE statement. You can also use a CTE in a CREATE a view, as part of the view's SELECT query. In addition, as of SQL Server 2008, you can add a CTE to the new MERGE statement.
+The Common Table Expressions (CTE) were introduced into standard SQL in order to simplify various classes of SQL Queries for which a derived table was just unsuitable. CTE was introduced in SQL Server 2005, the common table expression (CTE) is a temporary named result set that you can reference within a SELECT, INSERT, UPDATE, or DELETE statement. You can also use a CTE in a CREATE a view, as part of the view's SELECT query. In addition, as of SQL Server 2008, you can add a CTE to the new MERGE statement.
 
 <https://dev.to/helenanders26/why-you-should-use-sql-ctes-25lk>
 

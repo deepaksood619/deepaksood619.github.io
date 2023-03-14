@@ -217,6 +217,14 @@ An investor is a person who buys a stock expecting a significant appreciation in
 
 <https://zerodha.com/varsity/chapter/supplementary-note-the-20-market-depth>
 
+## Types of Markets
+
+- Bull market
+- Bear market
+- Recovering market
+- Market crashes
+- Side ways market
+
 ## Bull Market (Bullish)
 
 If you believe that the stock prices are likely to go up then you are said to be bullish on the stock price. From a broader perspective, if the stock market index is going up during a particular time period, then it is referred to as the bull market

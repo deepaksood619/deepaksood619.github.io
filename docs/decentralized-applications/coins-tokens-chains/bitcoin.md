@@ -14,6 +14,8 @@
 
 - 2 pizza for 10,000 bitcoins which are now worth $100 million
 - A new block is added every 10 minutes
+- Bitcoin has not been premined, meaning that no coins have been mined and/or distributed between the founders before it became available to the public.
+- Bitcoin is deflationary
 
 ### Wrapped Bitcoin
 
@@ -71,6 +73,16 @@ To others, a degree of centralisation may simply be a price to pay for the other
 
 <https://www.economist.com/finance-and-economics/2022/01/01/is-a-greener-faster-and-more-decentralised-alternative-to-bitcoin-possible>
 
+## Is bitcoin deflationary
+
+Yes, Bitcoin is deflationary.
+
+Bitcoin's monetary policy is designed to create a limited supply of coins, with a maximum of 21 million Bitcoins that can ever exist. This means that unlike traditional currencies, which can be printed and issued by central banks, the supply of Bitcoin is fixed and cannot be increased beyond the predetermined limit.
+
+As more people adopt Bitcoin and demand for it increases, the limited supply of Bitcoins creates upward pressure on the price, resulting in deflationary effects. In other words, as the demand for Bitcoin grows, its value tends to increase, and the cost of goods and services priced in Bitcoin tends to decrease over time.
+
+This deflationary aspect of Bitcoin is one of the factors that makes it attractive to investors, as they believe that the limited supply and potential increase in demand will drive up its value in the long term. However, it also poses challenges for its use as a currency, as deflation can discourage spending and investment in the short term, which can affect economic growth.
+
 ## P2PKH
 
 **Pay-to-Public-Key-Hash (P2PKH)** is a method of sending bitcoin to a specific address. In this method, instead of sending money to a public key, as in P2PK transactions, a hash of the public key is used.
@@ -88,3 +100,18 @@ P2PKH addresses start with a "1"
 [Pay-to-Public-Key-Hash (P2PKH) and Trezor](https://trezor.io/learn/a/pay-to-public-key-hash-p2pkh)
 
 [P2PKH (Pay To Pubkey Hash)](https://learnmeabitcoin.com/technical/p2pkh)
+
+## Upgrades
+
+### Taproot
+
+- Taproot, Bitcoin's latest upgrade, is its most significant one in four years.
+- The Taproot upgrade batches multiple signatures and transactions together, making it easier and faster to verify transactions on Bitcoin's network.
+- It also scrambles transactions with single and multiple signatures together and makes it more difficult to identify transaction inputs on Bitcoin's blockchain.
+- Taproot could help scale the number of transactions occurring on Bitcoin's network.
+
+[Bitcoin's Taproot Upgrade: What You Should Know](https://www.investopedia.com/bitcoin-taproot-upgrade-5210039)
+
+## Links
+
+[Bitcoin price today, BTC to USD live, marketcap and chart | CoinMarketCap](https://coinmarketcap.com/currencies/bitcoin/)

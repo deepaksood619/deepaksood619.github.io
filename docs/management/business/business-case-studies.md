@@ -327,6 +327,12 @@ Marketing tactic used, light the agarbatti in-front of store and left for 2 days
 
 - Trust, ultimately, is the only true currency of the world
 
+[How Paytm is secretly KILLING Phonepe and Bharatpe? : Detailed Business CaseStudy - YouTube](https://www.youtube.com/watch?v=7TcG9cPj2gA)
+
+- Entry Product
+- Retainers
+- Upsell
+
 ## Links
 
 [Why Elon Musk is WRONG about TWITTER and FREE speech? : Business Case Study](https://www.youtube.com/watch?v=nPrVYCtJfgQ)

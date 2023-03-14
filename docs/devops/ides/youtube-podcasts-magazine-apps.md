@@ -38,6 +38,7 @@
 - Documentaries
 - BBC Earth
   - <https://youtube.com/c/BBCReel>
+  - BBC Earth Lab
 - NPTEL lecture series
 - NPTEL - <https://www.youtube.com/channel/UCYa1WtI-vb_bx-anHdmpNfA/playlists>
 - Research
@@ -68,7 +69,7 @@
 - Periodic Videos
 - TLC
 - BetterThanYesterday
-- Charismaoncommand
+- Charisma on Command
 - theschooloflifetv
 - Thomasfrank
 - In a nutshell
@@ -85,6 +86,9 @@
 - Shark tank
 - Think school
 - Modern MBA
+- New Mind
+- Lesics
+- RealLifeLore
 
 ### News
 
@@ -113,13 +117,14 @@
 - 60 Minutes
 - Diplomatic dispatch - sansad tv
 - The daily show with Trevor noah
+- Priya Jain
 
 ### Finance / Stocks / Personal finance (People with same thought process)
 
 - Economics Explained
 - ET Money / ETMoney
 - Shankar Nath
-- Zerodha online
+- Zerodha online / Zerodha Varsity
 - Mad money Jim Cramer - CNBC Television
 - CA Rachna Ranade
 - FreeFincal Pattu DIY Investing
@@ -141,12 +146,36 @@
 
 - Kishore Mahbubani
 - Kevlin Henney
+- Nouriel robini
 
 ### Product
 
 - Aditya saini
 
-### Yearly
+### Crypto
+
+1. [**Jacob Crypto Bury**](https://m.youtube.com/c/JacobCryptoBury) - Overall Best Crypto YouTube Channel
+2. **Coin Bureau** - YouTube Channel to Follow for Crypto Fundamental Analysis
+3. **BitBoy Crypto** - Popular Cryptocurrency YouTube Channel Offering Investment Tips
+4. **Benjamin Cowen** - Best Channel for Crypto Technical Traders
+5. **Altcoin Daily** - Get Daily Crypto Market Updates
+6. **Crypto Banter** - Top YouTube Account for Crypto Beginners
+7. **CryptoRUs** -  YouTube Channel Offering Crypto Trading Insights
+8. **99Bitcoins** - Crypto Channel With Top-Notch Educational Content
+9. **Sheldon Evans** - Popular Crypto Influencer With Engaging Videos
+10. **Kitco News -** YouTube Channel to Follow for Financial News
+11. **Ivan On Tech -** Watch Interviews of Crypto Experts
+12. [TechnicalRoundup](https://www.youtube.com/c/TechnicalRoundup) – best crypto Youtubers for technical analysis
+13. [Trader Mayne](https://www.youtube.com/c/TraderMayne) – best crypto prediction Youtube channel
+14. [Crypto Face](https://www.youtube.com/c/CryptoFace) – most popular crypto Youtube channel for live leverage trading
+15. [The Modern Investor](https://www.youtube.com/c/TheModernInvestor) – good for general investing and cryptocurrency news
+
+### Others
+
+- RM Transit
+- The School of life
+
+## Yearly
 
 - Nobel Prize
 - Webby Awardz
@@ -162,7 +191,7 @@
 
 ## Apps / Android / Play Store
 
-- AndroidMoney
+- AndroMoney
 - Vocabulary Builder
 - DeepStash
 - Calculater the game
@@ -239,7 +268,7 @@
 - [History of the Earth](https://www.youtube.com/channel/UC_aOteuWIY8ITg7DQQspG1g)-- the History Brothers cover multimillion year periods of our planet's history
 - [Half as Interesting](https://www.youtube.com/channel/UCuCkxoKLYO_EQ2GeFtbM_bw)-- light-hearted tidbids of English history and other things
 
-## Making Youtube content
+### Making Youtube content
 
 - On-Time content
 - Timeless content
@@ -289,7 +318,10 @@ Indian History - <https://www.anirudhkanisetti.com/podcasts>
 
 ## Newsletter
 
-Not Boring by Packy McCormick - <https://www.notboring.co>
+- Not Boring by Packy McCormick - <https://www.notboring.co>
+- economic times
+- Sadguru daily quotes
+- YS buzz
 
 ## Tools
 

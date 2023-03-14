@@ -76,7 +76,7 @@ Open two instance of same application - **open -n MQTT.fx.app**
 
    <https://www.google.com/inputtools>
 
- **Extensions**
+  **Extensions**
 
 - darkreader
 - Session Buddy
@@ -90,6 +90,11 @@ Open two instance of same application - **open -n MQTT.fx.app**
 - Moesif Origin & CORS Changer
 - SpeedUp: Netflix, Prime videos
 - YouTube NonStop
+
+ **Others**
+
+- [Why Does The Arc Browser Work? - YouTube](https://www.youtube.com/watch?v=VZKHS0gBLts)
+- Brave Browser
 
 9. **Google Chrome apps**
 

@@ -34,6 +34,8 @@ Buck stopper - Buck stops here
 
 All rumors are false until officially denied.
 
+Don’t look for the needle in the haystack. Just buy the haystack! -- John C. Bogle
+
 ### 22 sentences that will further your career more than a Harvard MBA
 
 1. Done is always better than perfect

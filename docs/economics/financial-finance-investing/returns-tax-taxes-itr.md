@@ -206,6 +206,18 @@ Loss from business and profession cannot be set off against income chargeable to
 
 <https://freefincal.com/which-itr-form-should-i-use>
 
+## NRI Taxes
+
+[Income Tax for NRI](https://cleartax.in/s/income-tax-for-nri)
+
+An NRE account is **a bank account opened in India in the name of an NRI, to park his foreign earnings**; whereas, an NRO account is a bank account opened in India in the name of an NRI, to manage the income earned by him in India. These incomes include rent, dividend, pension, interest, etc.
+
+Interest earned on an NRE account and FCNR account is tax-free. Interest on NRO accounts is taxable in the hands of an NRI.
+
+[How to file ITR as an OCI on Indian income? | Mint](https://www.livemint.com/money/personal-finance/how-to-file-itr-as-an-oci-on-indian-income-11674492598587.html)
+
+Overseas Citizen of India (OCI) card - [How to Register for OCI card - Check the Fees & Status](https://www.bankbazaar.com/passport/how-to-register-oci-card.html)
+
 ## Terms
 
 ### Marginal Tax Rate

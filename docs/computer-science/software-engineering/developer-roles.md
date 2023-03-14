@@ -52,3 +52,5 @@
 ![image](../../media/Software-Coding-Development-Engineering-image6.jpg)
 ![image](../../media/Software-Coding-Development-Engineering-image7.jpg)
 ![image](../../media/Software-Coding-Development-Engineering-image8.jpg)
+
+[How to get a promotion and become a Staff Engineer at FAANG - YouTube](https://www.youtube.com/watch?v=NJjJctW-K0g)

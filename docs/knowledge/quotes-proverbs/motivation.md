@@ -66,6 +66,8 @@ Athlete's body.
 
 Artist's soul.
 
+Doomed if you do, Doomed if you don't
+
 It always seems impossible until it's done -- Nelson Mandela
 
 If not now, when, if not me then who
@@ -662,3 +664,7 @@ The true mark of a pro - at anything - is that he understands, loves, and is goo
 [Chasing Excellence](../../book-summaries/chasing-excellence)
 
 [The Art of Impossible](../../book-summaries/the-art-of-impossible)
+
+[How One Small Idea Led to $1 Million of Paid Water Bills | Tiffani Ashley Bell | TED - YouTube](https://www.youtube.com/watch?v=bIBNebXhNuU) - You have to be that somebody who does something and just not curse and move on
+
+[HOW TO BEGIN by Michael Bungay Stanier | Core Message - YouTube](https://www.youtube.com/watch?v=YCOkYefqoyY)

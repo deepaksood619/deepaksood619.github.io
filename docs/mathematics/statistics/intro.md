@@ -53,29 +53,23 @@ In [statistics](https://en.wikipedia.org/wiki/Statistics), regression toward the
 ## Controlled Experiments
 
 - Randomness
-
 - Allocation bias and Selection bias
-
 - Randomized block design (where number of items in each group can be forced to be equal)
-
 - Control groups
-
 - Placebo effects - Placebo meaning - I shall please
-
 - Single blind study
-
 - Double blind study
-
 - Matched-pair experiments
-
 - Repeated measures design
+
+### Placebo Effect
+
+[THE EXPECTATION EFFECT by David Robson | Core Message - YouTube](https://www.youtube.com/watch?v=037X9orTxco)
 
 ## Henrietta Lacks, the Tuskegee Experiment, & Ethical Data Collection
 
 - Informed Consent
-
 - Nuremberg code
-
 - Beneficence
 
 ## Outliers

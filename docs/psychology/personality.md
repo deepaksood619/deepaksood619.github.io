@@ -63,51 +63,51 @@ MBTI - Myers-Briggs Type Indicator for personality test
 
 ## 12 Positive Personality Traits Of Effective People
 
-1. Capable
+### Capable
 
 There's no exception to this trait. I've never met an effective, happy, or successful person who wasn't capable. They take their life and work seriously. They do things with a purpose. And most importantly, they know what they are talking about.
 
-2. Curious
+### Curious
 
 Effective people avoid assumptions. Effective people ask a lot of questions. That's how you avoid assumptions.
 
-3. Assertive
+### Assertive
 
 People think you have to be nice. That's wrong. It's good to be **polite**, but you don't have to go out of your way to be nice all the time. Effective people think about themselves. But they don't sacrifice others. That's what assertiveness is about.
 
-4. Forgiving
+### Forgiving
 
 Holding grudges is the least effective thing you can do. So many people have destroyed relationships and group dynamics because of grudges. "How could that person do this to me!" Well, maybe that other person doesn't even know why! People do stupid things. Move on.
 
-5. Independent
+### Independent
 
 Effective people are not easily influenced by others. Theylistento others. But they are independent thinkers. They are not easily swayed by outside events.
 
-6. Respectful
+### Respectful
 
 You know how insecure people make subtle digs at you or other people? "You look so tired. What's going on?" That's one of those dirty remarks that's meant to make you feel bad. There are a lot of people who want to put you down, which automatically makes them feel better than you. Respectful people never do that. You can also disagree with people and still be respectful. Basically, effective people are the opposite of internet trolls.
 
-7. Truthful
+### Truthful
 
 When you regularly tell lies (no matter how small they are), you will eventually get caught by your own web. Call me superstitious (or a little-stitious, as Michael Scott once said), but I think lies will eventually catch up with you. That's why it's better to tell the truth. It's not always pretty, but at least it's not a lie.
 
-8. Precise
+### Precise
 
 It's hard to explain things in a few words. It requires thought and effort to be precise. That's why you see a lot of people talk endlessly. They don't know what to say, so they use a shotgun approach. They spray words and hope a few will hit the mark. To be precise, you want to be like a marksman. Every sentence and action serves a purpose.
 
-9. Fair
+### Fair
 
 People who say that fairness is an impossible concept are usually not fair people. There are universal principles of fairness. In summary, be straight with people and don't play favors. Be consistent in the way you treat people. That's the fairest thing we can do. And yes, that seems impossible in practice because it goes against our nature sometimes. But effective people do a lot of things that go against nature. They do things that others don't do.
 
-10. Flexible
+### Flexible
 
 Life is complex and full of change. To survive and thrive, one must adapt all the time. That's why effective people are highly flexible and fluid. If you give them a new idea that works better than their old one, they go with the new one. They don't care about their ego or looking smart. They care about whatworks.
 
-11. Self-aware
+### Self-aware
 
 Knowing what you can and can't, will make your life a lot easier. Too often, [we're not aware of who we are](https://el2.convertkit-mail4.com/c/n4umv8ro7gsvhv4zd6f6/d0ueh0hw8wqzkv/aHR0cHM6Ly9kYXJpdXNmb3JvdXguY29tL3NlbGYtcmVsaWFuY2UtY2VydGFpbnR5Lw==). But to be effective, you must know who you are and what you're made of. And if you have weaknesses or make mistakes, self-awareness will help you to be honest about it. There's nothing wrong with imperfection. In fact, if you're not imperfect, you're probably a robot.
 
-12. Optimistic
+### Optimistic
 
 Give effective people a challenge, and they'll think about a solution. Give them a bleak outlook, and they'll find things to be grateful for. In contrast, being pessimistic is the easiest thing in the world. Everyone can complain and say "we can't do that." But it takes strength to say "let's figure out a way to make it happen."
 
@@ -115,7 +115,7 @@ Give effective people a challenge, and they'll think about a solution. Give them
 
 ## How can you become a 10xer?
 
-## Here are the 4 things you can do to become a 10xer
+### Here are the 4 things you can do to become a 10xer
 
 - See opportunities where others only see threats.
 - Create a bias for action.
@@ -125,7 +125,7 @@ Give effective people a challenge, and they'll think about a solution. Give them
 - Manage your boss and colleagues, don't make them spend time managing you.
 - Proactively help the organization.
 
-## Here's how you can identify 10xers in your organization
+### Here's how you can identify 10xers in your organization
 
 - A 10xer can be any level of experience or in any profession.
 - A 10xer is in the top 10 percent of anyone you've ever worked with.

@@ -100,6 +100,7 @@ Accountability-- How has the firm handled disruptive colleagues? Are the most ta
 
 - [Principle Software Engineer](roles/principle-software-engineer)
 - [Engineering Manager / Tech Lead](roles/engineering-manager)
+- [data](management/roles/data.md)
 
 The fundamental principle of the situational leadership model is that there is **no single "best" style of leadership**. Effective leadership is task-relevant, and the most successful leaders are those who adapt their leadership style to theperformance readiness(ability and willingness) of the individual or group they are attempting to lead or influence. Effective leadership varies, not only with the person or group that is being influenced, but it also depends on the task, job, or function that needs to be accomplished
 

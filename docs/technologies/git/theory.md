@@ -232,7 +232,7 @@ When the interactive rebase dialog opens, you have the ability to do 3 things:
 
 ## Moving around in Git
 
-### **HEAD**
+### HEAD
 
 HEAD is the symbolic name for the currently checked out commit -- it's essentially what commit you're working on top of.
 
@@ -242,10 +242,10 @@ HEAD always points to the most recent commit which is reflected in the working t
 
 Detaching HEAD just means attaching it to a commit instead of a branch.
 
-### **Relative Refs**
+### Relative Refs
 
-    - Moving upwards one commit at a time with `^` (Caret Operator)
-    - Moving upwards a number of times with `~num`
+- Moving upwards one commit at a time with `^` (Caret Operator)
+- Moving upwards a number of times with `~num`
 
 ```bash
 git checkout bugFix^ (parent of bugFix)

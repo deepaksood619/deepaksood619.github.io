@@ -6,4 +6,10 @@
 
 [Federalism in the Indian Constitution | FEDERAL, UNITARY, QUASI-FEDERAL Characteristics | UPSC 2023 - YouTube](https://www.youtube.com/watch?v=eot9SkDhjck)
 
+[Nature of Indian Constitution | Quasi-federal | Federal vs Unitary | Indian Polity for UPSC 2023 - YouTube](https://www.youtube.com/watch?v=fvgubWPaFr4)
+
+Men over men
+
+You must first enable the government to control people and then the government itself must be put under control
+
 [Forms of Government | Difference Between Parliamentary and Presidential Form of Government | UPSC - YouTube](https://www.youtube.com/watch?v=PJt2N2ZtvL8)

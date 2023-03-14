@@ -6,6 +6,8 @@
 
 [Advanced Solidity | RareSkills](https://www.rareskills.io/advanced-solidity)
 
+[Introduction to Smart Contracts — Solidity 0.8.20 documentation](https://docs.soliditylang.org/en/latest/introduction-to-smart-contracts.html)
+
 [Solidity Bootcamps & Senior Web3 Blockchain Engineer Courses](https://www.rareskills.io/solidity-bootcamp)
 
 ### Module 1: Token Protocols and Advanced Solidity development

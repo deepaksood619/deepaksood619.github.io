@@ -65,3 +65,4 @@ Over Ethereum's nine year history, the EVM has undergone several revisions, and 
 - [Ethereum Virtual Machine Opcodes](https://www.ethervm.io/)
 - [A short introduction in Solidity's documentation](https://docs.soliditylang.org/en/latest/introduction-to-smart-contracts.html#index-6)
 - [Gas](https://ethereum.org/en/developers/docs/gas/)
+- [KEVM: Semantics of EVM in K | Runtime Verification, Inc.](https://jellopaper.org/evm/)

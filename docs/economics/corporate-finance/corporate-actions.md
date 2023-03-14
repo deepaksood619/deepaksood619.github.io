@@ -75,3 +75,12 @@ When a company announces a buyback, it signals the company's confidence about it
 - Equity financing can be seen as favorable, such as when the funds are used to pay off debt or improve the company.
 
 <https://www.investopedia.com/ask/answers/042315/how-does-additional-equity-financing-affect-existing-shareholders.asp>
+
+## Right Of First Refusal (ROFR)
+
+- A right of first refusal is a contractual right giving its holder the option to transact with the other contracting party before others can.
+- The ROFR assures the holder that they will not lose their rights to an asset if others express interest.
+- The right of first refusal can limit the owner's potential profits as they are restricted from negotiating third-party offers before the rights' holder.
+- It is a right in a contract that gives shareholders the opportunity of matching the price at which a third party has agreed to buy shares from existing investors or founders
+
+[What Is Right of First Refusal (ROFR), and How Does It Work?](https://www.investopedia.com/terms/r/rightoffirstrefusal.asp)

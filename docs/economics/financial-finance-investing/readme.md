@@ -281,3 +281,5 @@ A better approach, therefore, is to take the middle path. Invest half the Indian
 [How I TRIPLED My Money in 3 Years by Copying Peter Lynch Investing Strategy? | One Up On Wall Street](https://www.youtube.com/watch?v=J9rbQDCo-l8)
 
 [BOOST your SIP Returns by Upto 2% p.a. 🦸‍♂️ | Four Easy-to-Implement SIP Investing Strategies](https://www.youtube.com/watch?v=WT8_9-ll7XU)
+
+[Summary of Benjamin Graham's Intelligent Investor | The Best Book on Investing - YouTube](https://www.youtube.com/watch?v=ltWCUf73vrk)

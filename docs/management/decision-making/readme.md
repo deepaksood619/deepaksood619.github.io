@@ -12,21 +12,13 @@ The goal isn't to make the 'perfect' decision about money every time, but to do 
 
 ## The ABCDs of categorizing decisions
 
-- **Big-bet decisions**
+- **Ad hoc decisions** - Infrequent, low-stakes
 
-Infrequent and high-risk - from major acquisitions to game-changing capital investments
+- **Big-bet decisions** - Infrequent and high-risk - from major acquisitions to game-changing capital investments
 
-- **Cross-cutting decisions**
+- **Cross-cutting decisions** - Frequent and high-risk - think pricing, sales, and operations planning processes or new-product launches
 
-Frequent and high-risk - think pricing, sales, and operations planning processes or new-product launches
-
-- **Delegated decisions**
-
-Frequent and low-risk - routine elements of day-to-day management, typically in areas such as hiring, marketing, and purchasing
-
-- **Ad hoc decisions**
-
-Infrequent, low-stakes
+- **Delegated decisions** - Frequent and low-risk - routine elements of day-to-day management, typically in areas such as hiring, marketing, and purchasing
 
 ![image](../../media/Decision-Making-image1.jpg)
 
@@ -83,9 +75,9 @@ To make good decisions, we generally need to do the following
 
 ## Common decision making pitfalls
 
-- **Analysis paralysis---**This is very common. At some point you get stuck in the process and you can't make a decision. You go over the process over and over again. This is a big risk. You can NEVER have 100% of the information you need. It also helps that your decisions are not about the outcomes. Don't let your fear of making the "right" decision paralyze you. There's no right or wrong outcome. Just outcomes. Deal with it later
-- **Extinction by instinct---**The opposite of the above. It's the belief that instincts are a useful tool in decision making. This leads to rash decisions
-- **Information overload---**This is when you ask too many people for their opinion or insights. Stick to trustworthy sources and keep them at a minimum. More information is not better. Reliable information is
+- **Analysis paralysis -** This is very common. At some point you get stuck in the process and you can't make a decision. You go over the process over and over again. This is a big risk. You can NEVER have 100% of the information you need. It also helps that your decisions are not about the outcomes. Don't let your fear of making the "right" decision paralyze you. There's no right or wrong outcome. Just outcomes. Deal with it later
+- **Extinction by instinct -** The opposite of the above. It's the belief that instincts are a useful tool in decision making. This leads to rash decisions
+- **Information overload -** This is when you ask too many people for their opinion or insights. Stick to trustworthy sources and keep them at a minimum. More information is not better. Reliable information is
 
 ## Why people struggle with decision making
 
@@ -122,32 +114,32 @@ We need to look at it from several different perspectives.
 
 Edward De Bono developed a tool called the 6 Thinking Hats to help you look at a problem from 6 different perspectives.
 
-## THE WHITE HAT IS THE HAT OF LOGIC
+### THE WHITE HAT IS THE HAT OF LOGIC
 
 - When you wear the white hat, ask yourself: what is the information available? What are the facts? How can I look at this objectively?
 - To remember the white hat as the logical one, imagine a scientist in a white coat.
 
-## THE RED HAT IS THE HAT OF EMOTION
+### THE RED HAT IS THE HAT OF EMOTION
 
 - When you wear the red hat, ask yourself: how do I feel? What emotions come up? What is my intuition telling me?
 - To remember the red hat as the emotional one, imagine a fire.
 
-## THE BLACK HAT IS THE CRITIC
+### THE BLACK HAT IS THE CRITIC
 
 - When you wear the black hat, ask yourself: what could go wrong? Why won't this work? Why do I need to be cautious?
 - To remember the black hat as the critic, imagine the robes of a judge.
 
-## THE YELLOW HAT IS THE HAT OF OPTIMISM
+### THE YELLOW HAT IS THE HAT OF OPTIMISM
 
 - When you wear the yellow hat, ask yourself: what could go right? What are the benefits? What is the upside?
 - To remember the yellow hat as the optimist, imagine the sun.
 
-## THE GREEN HAT IS THE HAT OF CREATIVITY
+### THE GREEN HAT IS THE HAT OF CREATIVITY
 
 - When you wear the green hat, ask yourself: how can I be creative? What are the possibilities? Is there a different alternative I'm not considering?
 - To remember the green hat as the creative one, imagine green grass.
 
-## THE BLUE HAT IS THE MANAGER
+### THE BLUE HAT IS THE MANAGER
 
 - When you wear the blue hat, listen to the other hats, think about the big picture, and make your final decision.
 - To remember the blue hat as the manager, think about the sky.
@@ -224,3 +216,7 @@ It all starts with a question:**In X years, will I regret not doing this?**
 The idea is to project yourself into the future and look back on your decision from that perspective. For Bezos, he thought of when he would be 80 and if he would regret not trying to start this company. Yes or no. His answer was quite clear.
 
 <https://alyjuma.medium.com/the-regret-minimization-framework-how-jeff-bezos-made-decisions-4d5a86deaf24>
+
+## Links
+
+[15 DECISION MAKING TECHNIQUES to CHANGE 2023 for YOU! | Ankur Warikoo Hindi - YouTube](https://www.youtube.com/watch?v=jZXknO8lqN0)

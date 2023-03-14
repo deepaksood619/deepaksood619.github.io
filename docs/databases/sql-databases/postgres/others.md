@@ -4,10 +4,10 @@
 
 1. PostGIS
 
-	used for geospatial data manipulation and running location queries in SQL
-	
-	<https://medium.com/@tjukanov/why-should-you-care-about-postgis-a-gentle-introduction-to-spatial-databases-9eccd26bc42b>
-	
+ used for geospatial data manipulation and running location queries in SQL
+
+ <https://medium.com/@tjukanov/why-should-you-care-about-postgis-a-gentle-introduction-to-spatial-databases-9eccd26bc42b>
+
 1. **Key-Value data type (hstore)**
 
 2. **Semi-structured data types**

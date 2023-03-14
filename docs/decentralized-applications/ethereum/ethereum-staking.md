@@ -46,3 +46,5 @@ Understanding that not all interested stakers can afford 32 ETH to participate i
 [Spin up your own Ethereum node | ethereum.org](https://ethereum.org/en/developers/docs/nodes-and-clients/run-a-node/)
 
 **[Validator FAQs](https://launchpad.ethereum.org/en/faq)**
+
+[How Do Ethereum Withdrawals Work? All You Need To Know - YouTube](https://www.youtube.com/watch?v=RwwU3P9n3uo)

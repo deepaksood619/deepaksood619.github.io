@@ -167,6 +167,8 @@ Keep 10 almonds soaked in water over-night and eat them as soon as you wake up t
 - Free sugar < 5 per cent of your daily energy intake
 - Meat - free days
 
+[Data | How many Indians eat meat? - The Hindu](https://www.thehindu.com/data/data-how-many-indians-eat-meat/article65299234.ece) - 70% of India is non-veg
+
 ## Vegetables
 
 - Daikon, White Radish - Mooli

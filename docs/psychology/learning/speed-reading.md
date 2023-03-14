@@ -66,3 +66,5 @@ Post it notes - visual cue and target
 ## Links
 
 [Become a Speed Reader in 15 Minutes](https://www.youtube.com/watch?v=HB__TF9rp0E)
+
+[BEST way to read a newspaper effectively | Strategy & tips for making notes #currentaffairs #current - YouTube](https://www.youtube.com/watch?v=MCFA7_wXA_s)
