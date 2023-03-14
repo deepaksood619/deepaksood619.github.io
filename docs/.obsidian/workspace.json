@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"cte",
+                "query": "ethereum-intro",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -73,7 +73,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -181,7 +182,7 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "978fd2faf621af33",
+  "active": "eae646b9619747a1",
   "lastOpenFiles": [
     "decentralized-applications/blockchain.md",
     "decentralized-applications/coins-tokens-chains/readme.md",

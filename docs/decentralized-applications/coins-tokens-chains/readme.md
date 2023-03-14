@@ -31,14 +31,14 @@ In stock analysis, the focus is often on earnings per share; in crypto analysis,
 
 Market Capitalization - [https://coinmarketcap.com/](https://coinmarketcap.com/)
 
-- [Bitcoin (BTH)](decentralized-applications/coins-tokens-chains/bitcoin.md)
-- [Ether (ETH) - Ethereum Chain](ethereum/ethereum-intro)
+- Bitcoin (BTH)
+- Ether (ETH) - Ethereum Chain
 - Binance (BNB)
 - Solana (SOL)
   - Scalable - 50,000 TPS
   - Low transaction fees
   - <https://solana.com>
-- [Cardano (ADA)](decentralized-applications/coins-tokens-chains/cardano.md)
+- Cardano (ADA)
 - CRO Coin (bitcoin.com)
 - Alt coins (Alternative coins - coins apart from Bitcoin)
 - Meme coin
@@ -61,8 +61,8 @@ Market Capitalization - [https://coinmarketcap.com/](https://coinmarketcap.com/)
 
 ## Stable Coins
 
-- [Tether (USDT)](decentralized-applications/coins-tokens-chains/usdt.md)
-- [USD Coin (USDC)](decentralized-applications/coins-tokens-chains/usdc.md)
+- Tether (USDT)
+- USD Coin (USDC)
 - BUSD (Binance USD)
 - Dai (DAI)
 
@@ -106,7 +106,7 @@ Here are the top tokens (according to Coingecko) you can find on the crypto mark
 - Ronin (Side Chain)
 - Lightning network
 - Ethereum
-- [Vechain](decentralized-applications/coins-tokens-chains/vechain.md)
+- Vechain
 - Testnet
   - [https://goerlifaucet.com/](https://goerlifaucet.com/)
 - DeFiChain
