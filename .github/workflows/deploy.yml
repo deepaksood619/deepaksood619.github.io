@@ -21,6 +21,8 @@ jobs:
         run: npm ci
       - name: Build website
         run: npm run build
+        env:
+          NODE_OPTIONS: --max_old_space_size=4096
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3

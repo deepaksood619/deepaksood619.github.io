@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "decentralized-applications/coins-tokens-chains/bitcoin.md",
+                "file": "office/personality/movies-serials-apps.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "decentralized-applications/coins-tokens-chains/bitcoin.md",
+                "file": "office/personality/movies-serials-apps.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "decentralized-applications/coins-tokens-chains/bitcoin.md",
+                "file": "office/personality/movies-serials-apps.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "decentralized-applications/coins-tokens-chains/bitcoin.md"
+                "file": "office/personality/movies-serials-apps.md"
               }
             }
           },
@@ -183,6 +183,7 @@
   },
   "active": "978fd2faf621af33",
   "lastOpenFiles": [
+    "decentralized-applications/coins-tokens-chains/bitcoin.md",
     "languages/sql/others.md",
     "databases/sql-databases/mysql/others.md",
     "office/cakedefi/todo.md",
@@ -210,7 +211,6 @@
     "economics/finance-terms.md",
     "decentralized-applications/ethereum/ethereum-staking.md",
     "decentralized-applications/ethereum/erc-4337.md",
-    "technologies/apache/databricks/01-databricks.md",
     "office/media/Pasted image 20230313181505.png",
     "media/Pasted image 20230313181505.png",
     "media/Pasted image 20230308224127.png",

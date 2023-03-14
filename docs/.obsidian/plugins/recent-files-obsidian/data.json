@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "movies-serials-apps",
+      "path": "office/personality/movies-serials-apps.md"
+    },
+    {
       "basename": "bitcoin",
       "path": "decentralized-applications/coins-tokens-chains/bitcoin.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "macroeconomics",
       "path": "economics/mental-models/macroeconomics.md"
-    },
-    {
-      "basename": "new-home-place",
-      "path": "office/personality/new-home-place.md"
     }
   ],
   "omittedPaths": [],
