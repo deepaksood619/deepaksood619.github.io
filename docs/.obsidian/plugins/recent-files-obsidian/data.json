@@ -1,6 +1,34 @@
 {
   "recentFiles": [
     {
+      "basename": "readme",
+      "path": "decentralized-applications/coins-tokens-chains/readme.md"
+    },
+    {
+      "basename": "blockchain",
+      "path": "decentralized-applications/blockchain.md"
+    },
+    {
+      "basename": "polygon",
+      "path": "decentralized-applications/ethereum/polygon.md"
+    },
+    {
+      "basename": "readme",
+      "path": "decentralized-applications/ethereum/readme.md"
+    },
+    {
+      "basename": "ethereum-intro",
+      "path": "decentralized-applications/ethereum/ethereum-intro.md"
+    },
+    {
+      "basename": "01-intro-to-ethereum",
+      "path": "decentralized-applications/ethereum/01-intro-to-ethereum.md"
+    },
+    {
+      "basename": "readme",
+      "path": "decentralized-applications/readme.md"
+    },
+    {
       "basename": "movies-serials-apps",
       "path": "office/personality/movies-serials-apps.md"
     },
@@ -61,14 +89,6 @@
       "path": "decentralized-applications/crypto-news.md"
     },
     {
-      "basename": "ethereum-intro",
-      "path": "decentralized-applications/ethereum/ethereum-intro.md"
-    },
-    {
-      "basename": "readme",
-      "path": "decentralized-applications/ethereum/readme.md"
-    },
-    {
       "basename": "08-evm",
       "path": "decentralized-applications/ethereum/08-evm.md"
     },
@@ -79,10 +99,6 @@
     {
       "basename": "intro",
       "path": "decentralized-applications/intro.md"
-    },
-    {
-      "basename": "readme",
-      "path": "decentralized-applications/readme.md"
     },
     {
       "basename": "biases-fallacies",
@@ -183,22 +199,6 @@
     {
       "basename": "economics-mental-models",
       "path": "economics/mental-models/economics-mental-models.md"
-    },
-    {
-      "basename": "readme",
-      "path": "economics/readme.md"
-    },
-    {
-      "basename": "other-statistics",
-      "path": "mathematics/statistics/other-statistics.md"
-    },
-    {
-      "basename": "recession-shapes-recovery",
-      "path": "economics/mental-models/recession-shapes-recovery.md"
-    },
-    {
-      "basename": "macroeconomics",
-      "path": "economics/mental-models/macroeconomics.md"
     }
   ],
   "omittedPaths": [],

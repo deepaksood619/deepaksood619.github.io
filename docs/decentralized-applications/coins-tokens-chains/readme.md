@@ -100,12 +100,12 @@ Here are the top tokens (according to Coingecko) you can find on the crypto mark
 
 ## Chains
 
-- [Blockchain](blockchain)
+- Blockchain
 - Smart chain
 - Smart contract
 - Ronin (Side Chain)
 - Lightning network
-- [Ethereum](ethereum/ethereum-intro)
+- Ethereum
 - [Vechain](decentralized-applications/coins-tokens-chains/vechain.md)
 - Testnet
   - [https://goerlifaucet.com/](https://goerlifaucet.com/)
@@ -114,8 +114,8 @@ Here are the top tokens (according to Coingecko) you can find on the crypto mark
   - [$0.52 | DeFiChain Token (DFI) Token Tracker | Etherscan](https://etherscan.io/token/0x8fc8f8269ebca376d046ce292dc7eac40c8d358a)
   - [DeFi Scan – Native Decentralized Finance for Bitcoin](https://defiscan.live/)
   - [DeFiChain Whitepaper](https://defichain.com/white-paper/)
-- [Arbitrum](ethereum/arbitrum)
-- [Polygon](ethereum/polygon)
+- Arbitrum
+- Polygon
 
 ### Chain Sizes
 

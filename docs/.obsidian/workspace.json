@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "office/personality/movies-serials-apps.md",
+                "file": "decentralized-applications/coins-tokens-chains/readme.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "office/personality/movies-serials-apps.md",
+                "file": "decentralized-applications/coins-tokens-chains/readme.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "office/personality/movies-serials-apps.md",
+                "file": "decentralized-applications/coins-tokens-chains/readme.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "office/personality/movies-serials-apps.md"
+                "file": "decentralized-applications/coins-tokens-chains/readme.md"
               }
             }
           },
@@ -183,6 +183,15 @@
   },
   "active": "978fd2faf621af33",
   "lastOpenFiles": [
+    "decentralized-applications/blockchain.md",
+    "decentralized-applications/coins-tokens-chains/readme.md",
+    "decentralized-applications/ethereum/polygon.md",
+    "decentralized-applications/ethereum/readme.md",
+    "decentralized-applications/ethereum/ethereum-intro.md",
+    "decentralized-applications/ethereum/01-intro-to-ethereum.md",
+    "decentralized-applications/readme.md",
+    "decentralized-applications/coins-tokens-chains.md",
+    "office/personality/movies-serials-apps.md",
     "decentralized-applications/coins-tokens-chains/bitcoin.md",
     "languages/sql/others.md",
     "databases/sql-databases/mysql/others.md",
@@ -198,19 +207,10 @@
     "decentralized-applications/ethereum/layer-2-protocols.md",
     "decentralized-applications/ethereum/arbitrum.md",
     "decentralized-applications/crypto-news.md",
-    "decentralized-applications/ethereum/ethereum-intro.md",
-    "decentralized-applications/ethereum/readme.md",
     "decentralized-applications/ethereum/08-evm.md",
     "decentralized-applications/ethereum/solidity.md",
     "decentralized-applications/intro.md",
-    "decentralized-applications/readme.md",
     "psychology/biases-fallacies.md",
-    "economics/nbfc-banking-terms.md",
-    "ai/courses/course-credit-risk-modeling/intro.md",
-    "ai/courses/course-credit-risk-modeling/syllabus.md",
-    "economics/finance-terms.md",
-    "decentralized-applications/ethereum/ethereum-staking.md",
-    "decentralized-applications/ethereum/erc-4337.md",
     "office/media/Pasted image 20230313181505.png",
     "media/Pasted image 20230313181505.png",
     "media/Pasted image 20230308224127.png",
