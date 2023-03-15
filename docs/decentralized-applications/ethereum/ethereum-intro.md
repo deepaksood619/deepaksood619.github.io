@@ -158,8 +158,6 @@ Testnet tokens are a test currency that allows you to test your Ethereum applica
 
 - A messaging platform for users to simply and instantly message each other wallet-to-wallet, powered by  Log-in With Ethereum
 
-[The Graph](https://thegraph.com/en/)
-
 [GitHub - graphprotocol/graph-node: Graph Node indexes data from blockchains such as Ethereum and serves it over GraphQL](https://github.com/graphprotocol/graph-node)
 
 [Remix - Ethereum IDE](https://remix.ethereum.org/)

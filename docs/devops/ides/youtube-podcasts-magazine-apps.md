@@ -89,6 +89,7 @@
 - New Mind
 - Lesics
 - RealLifeLore
+- Technology Connections
 
 ### News
 
@@ -118,6 +119,7 @@
 - Diplomatic dispatch - sansad tv
 - The daily show with Trevor noah
 - Priya Jain
+- Learn with finology
 
 ### Finance / Stocks / Personal finance (People with same thought process)
 
@@ -226,6 +228,7 @@
 - [Deep Dive](https://www.youtube.com/channel/UCFPGKw4jb7CJur6cHmIgI3Q)-- a relatively new but very promising channel with great big-issue science videos.
 - [Stratzenblitz75](https://www.youtube.com/c/Stratzenblitz75/videos) Kerbal Space program videos with nice lessons on the science behind them (like orbital mechanics)
 - [Wendover Productions](https://www.youtube.com/user/Wendoverproductions)-- neat explanations of wide-ranging things, (including transportation logistics!)
+- Veritasium
 
 ## Inventions and Building Stuff
 
@@ -258,7 +261,7 @@
 - [Vi Hart](https://www.youtube.com/user/Vihart)-- the original "Mathemusician", Vi's soulfully brilliant explanations of math concepts are great for small kids and adults alike.
 - [Zach Star](https://www.youtube.com/channel/UCpCSAcbqs-sjEVfk_hMfY9w)-- math puzzles and other interesting stuff
 - [Numberphile](https://www.youtube.com/results?search_query=numberphile)-- another fun math channel -- sometimes with fun visuals and special guest experts.
-- 3 blue 1 brown
+- 3 blue 1 brown - 3Blue1Brown
 - Standup math
 - Looking glass universe
 

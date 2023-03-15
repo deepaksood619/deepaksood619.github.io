@@ -36,6 +36,27 @@
 - [Plug & play APIs to simplify the web3 experience | Biconomy](https://www.biconomy.io/)
 - [Web3's leading platform for NFT experiences | HyperMint by MoonPay](https://hypermint.com/)
 - KYC - sumsub
+- Security - [Web3 Security Leaderboard](https://www.certik.com/)
+- Analytics - [Glassnode - On-chain market intelligence](https://glassnode.com/)
+
+#### Platforms
+
+- [DefiLlama - DeFi Dashboard](https://defillama.com/)
+- Coinmarketcap
+- DeFi Llama
+- Coincodex
+- Nomics
+- Livecoinwatch
+- CoinCheckUp
+- Coindataflow
+- Coincost
+- Blockworks
+- TokenInsight
+- Messari
+- Dune
+- Nansen
+- Coingecko
+- Glassnode
 
 ## Hyperledger
 
@@ -68,7 +89,7 @@ Below are some of the key features of Hyperledger Fabric and what differentiates
 - Flexible endorsement model for achieving consensus across required organizations
 - Queryable data (key-based queries and JSON queries)
 
-### Brute Force Phrase
+## Brute Force Phrase
 
 - [GitHub - Xeift/Metamask-Mnemonic-Brute-Force: A js program generate random 12 words metamask mnemonic and check the balance in the account.](https://github.com/Xeift/Metamask-Mnemonic-Brute-Force)
 - [Is 12-word seed phrase safe enough?](https://bitcoin.stackexchange.com/questions/38512/is-12-word-seed-phrase-safe-enough)

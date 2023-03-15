@@ -3,10 +3,13 @@
 - OAuth is an open standard for access delegation
 - OAuth provides to clients a "secure delegated access" to server resources on behalf of a resource owner
 - OAuth2 is more of a framework than a defined protocol
+
 [OAuth 2.0](https://oauth.net/2/) is a protocol that allows a user to grant limited access to their resources on one site, to another site, without having to expose their credentials.
+
 According to [OAuth's website](http://oauth.net/about/) the protocol is not unlike a valet key.
 
 Many luxury cars today come with a valet key. It is a special key you give the parking attendant and unlike your regular key, will not allow the car to drive more than a mile or two. Some valet keys will not open the trunk, while others will block access to your onboard cell phone address book. Regardless of what restrictions the valet key imposes, the idea is very clever. You give someone limited access to your car with a special key, while using your regular key to unlock everything.
+
 ![image](../../../media/Authentication_OAuth-image1.jpg)
 
 ## Workflow of OAuth 2.0
@@ -93,7 +96,21 @@ Luckily, [OpenID Connect](https://openid.net/connect/) or OIDC brings some sanit
   - Exact string matching for redirect URIs
   - No access tokens in query strings
   - Refresh tokens must be sender-contrained or one-time use
+
 <https://www.youtube.com/watch?v=g_aVPdwBTfw>
+
+## OAuth2
+
+OAuth2 is a specification that defines several ways to handle authentication and authorization.
+It is quite an extensive specification and covers several complex use cases.
+It includes ways to authenticate using a "third party".
+That's what all the systems with "login with Facebook, Google, Twitter, GitHub" use underneath.
+
+## OAuth 1
+
+There was an OAuth 1, which is very different from OAuth2, and more complex, as it included directly specifications on how to encrypt the communication.
+It is not very popular or used nowadays.
+OAuth2 doesn't specify how to encrypt the communication, it expects you to have your application served with HTTPS.
 
 ## Others
 

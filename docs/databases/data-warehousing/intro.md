@@ -25,29 +25,48 @@ A data warehouse is specially designed for data analytics, which involves readin
 
 ## Data Warehouse vs Data Lake
 
-Unlike a data warehouse, a data lake is a centralized repository foralldata, including structured and unstructured. A data warehouse utilizes a pre-defined schema optimized for analytics. In a data lake, the schema is not defined, enabling additional types of analytics like big data analytics, full text search, real-time analytics, and machine learning.
+Unlike a data warehouse, a data lake is a centralized repository for all data, including structured and unstructured. A data warehouse utilizes a pre-defined schema optimized for analytics. In a data lake, the schema is not defined, enabling additional types of analytics like big data analytics, full text search, real-time analytics, and machine learning.
+
+![image](../../media/Data-Lake-image1.jpg)
 
 | **Characteristics** | **Data Warehouse** | **Data Lake** |
 |:---:|:---:|:---:|
-| Data | Relational data from transactional systems, operational databases, and line of business applications | Non-relational and relational data from IoT devices, web sites, mobile apps, social media, and corporate applications |
-| Schema | Designed prior to the data warehouse implementation (schema-on-write) | Written at the time of analysis (schema-on-read) |
-| Price/Performance | Fastest query results using higher cost storage | Query results getting faster using low-cost storage |
-| Data Quality | Highly curated data that serves as the central version of the truth | Any data that may or may not be curated (i.e. raw data) |
-| Users | Business analysts, data scientists, and data developers | Data scientists, data developers, and business analysts (using curated data) |
-| Analytics | Batch reporting, BI, and visualizations | Machine learning, predictive analytics, data discovery, and profiling |
+| **Data** | Relational data from transactional systems, operational databases, and line of business applications | Non-relational and relational data from IoT devices, web sites, mobile apps, social media, and corporate applications |
+| **Schema** | Designed prior to the data warehouse implementation (schema-on-write) | Written at the time of analysis (schema-on-read) |
+| **Price/Performance** | Fastest query results using higher cost storage | Query results getting faster using low-cost storage |
+| **Data Quality** | Highly curated data that serves as the central version of the truth | Any data that may or may not be curated (i.e. raw data) |
+| **Users** | Business analysts, data scientists, and data developers | Data scientists, data developers, and business analysts (using curated data) |
+| **Analytics** | Batch reporting, BI, and visualizations | Machine learning, predictive analytics, data discovery, and profiling |
+
+|                 | **Data Lake**                                                                   | **Data Warehouse**                                                                |
+|----------|-------------------------------|--------------------------------|
+| **Type of data** | Unstructured and structured data from various company data sources              | Historical data that has been structured to fit a relational database schema      |
+| **Purpose**      | Cost-effective big data storage                                                 | Analytics for business decisions                                                  |
+| **Analytics**    | Machine learning, predictive analytics, data discovery, and profiling           | Batch reporting, BI, and visualizations                                           |
+| **Tasks**        | Storing data and big data analytics, like deep learning and real-time analytics | Typically read-only queries for aggregating and summarizing data                  |
+| **Size**         | Stores all data that might be used - can take up petabytes!                     | Only stores data relevant to analysis                                             |
+|                 | Seperation of compute and storage                                               | Tightly coupled compute and storage                                               |
+|                 | Designed prior to the data warehouse implementation **(Schema on read**)        | Written at the time of analysis **(Schema on write**)                             |
+|                 | Great for storing granular data; raw as well as processed data                  | Great for storing frequently accessed data as well as data aggregates and summary |
+| **Data Quality** | Any data that may or may not be curated (i.e., raw data)                        | Highly curated data that serves as the central version of the truth               |
 
 ## Data Warehouse vs Data Mart
 
 A data mart is a data warehouse that serves the needs of a specific team or business unit, like finance, marketing, or sales. It is smaller, more focused, and may contain summaries of data that best serve its community of users.
 
+A data mart is an access layer which is used to get data out to the users. It is presented as an option for large size data warehouse as it takes less time and money to build. However, there is no standard definition of a data mart is differing from person to person.
+
+In a simple word Data mart is a subsidiary of a data warehouse. The data mart is used for partition of data which is created for the specific group of users.
+
+Data marts could be created in the same database as the Datawarehouse or a physically separate Database.
 | **Characteristics** | **Data Warehouse** | **Data Mart** |
 |:---:|:---:|:---:|
-| Scope | Centralized, multiple subject areas integrated together | Decentralized, specific subject area |
-| Users | Organization-wide | A single community or department |
-| Data source | Many sources | A single or a few sources, or a portion of data already collected in a data warehouse |
-| Size | Large, can be 100's of gigabytes to petabytes | Small, generally up to 10's of gigabytes |
-| Design | Top-down | Bottom-up |
-| Data detail | Complete, detailed data | May hold summarized data |
+| **Scope** | Centralized, multiple subject areas integrated together | Decentralized, specific subject area |
+| **Users** | Organization-wide | A single community or department |
+| **Data source** | Many sources | A single or a few sources, or a portion of data already collected in a data warehouse |
+| **Size** | Large, can be 100's of gigabytes to petabytes | Small, generally up to 10's of gigabytes |
+| **Design** | Top-down | Bottom-up |
+| **Data detail** | Complete, detailed data | May hold summarized data |
 
 ## Reference
 

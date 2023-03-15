@@ -6,6 +6,18 @@
 
 [Introduction to Databricks Unified Data Platform](https://www.youtube.com/watch?v=02DBOfYrYT0&ab_channel=Databricks)
 
+## Unity Catalog
+
+[Work with Unity Catalog and the legacy Hive metastore | Databricks on AWS](https://docs.databricks.com/data-governance/unity-catalog/hive-metastore.html#)
+
+[Work with Unity Catalog and the legacy Hive metastore - Azure Databricks | Microsoft Learn](https://learn.microsoft.com/en-us/azure/databricks/data-governance/unity-catalog/hive-metastore)
+
+[Upgrade Your Objects in Hive Metastore to Unity Catalog - The Databricks Blog](https://www.databricks.com/blog/2022/11/03/how-seamlessly-upgrade-your-hive-metastore-objects-unity-catalog-metastore-using)
+
+## Workflows
+
+[Create, run, and manage Databricks Jobs | Databricks on AWS](https://docs.databricks.com/workflows/jobs/jobs.html)
+
 ## Links
 
 [Get a Git access token & connect a remote repo to Databricks | Databricks on AWS](https://docs.databricks.com/repos/get-access-tokens-from-git-provider.html)
@@ -13,7 +25,3 @@
 [The Delta Lake Series, Ebooks](https://www.databricks.com/explore/de-data-warehousing/the-delta-lake-series)
 
 [Google BigQuery | Databricks on AWS](https://docs.databricks.com/external-data/bigquery.html)
-
-[Work with Unity Catalog and the legacy Hive metastore | Databricks on AWS](https://docs.databricks.com/data-governance/unity-catalog/hive-metastore.html#)
-
-[Work with Unity Catalog and the legacy Hive metastore - Azure Databricks | Microsoft Learn](https://learn.microsoft.com/en-us/azure/databricks/data-governance/unity-catalog/hive-metastore)

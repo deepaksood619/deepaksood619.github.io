@@ -128,3 +128,20 @@ data = data.filter(condition1).filter(condition2)
 ```
 
 <https://towardsdatascience.com/a-brief-introduction-to-pyspark-ff4284701873>
+
+### Queries
+
+```sql
+table_df = table_df.union(table_df)
+
+table_df.display()
+table_df.show()
+
+table_df.count()
+
+table_df.limit(10).display()
+
+table_df_2.replace('Revenue Fee', 'Maintanence Fee').display()
+```
+
+[Show() Vs Display(). To Display the dataframe in a tabular… | by Harun Raseed Basheer | Medium](https://medium.com/@harun.raseed093/show-vs-display-7a7185f3ef65)

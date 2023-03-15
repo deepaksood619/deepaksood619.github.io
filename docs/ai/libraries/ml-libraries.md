@@ -206,6 +206,8 @@ The architecture is a standard [transformer network](https://en.wikipedia.org/wi
 
 Moving from information to knowledge age
 
+[GPT-4](https://openai.com/research/gpt-4)
+
 [It’s Time to Pay Attention to A.I. (ChatGPT and Beyond)](https://www.youtube.com/watch?v=0uQqMxXoNVs)
 
 Dall E - <https://openai.com/dall-e-2>

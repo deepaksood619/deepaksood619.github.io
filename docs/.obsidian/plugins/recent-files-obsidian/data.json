@@ -2,203 +2,203 @@
   "recentFiles": [
     {
       "basename": "readme",
-      "path": "decentralized-applications/coins-tokens-chains/readme.md"
+      "path": "networking/others/readme.md"
     },
     {
-      "basename": "blockchain",
-      "path": "decentralized-applications/blockchain.md"
-    },
-    {
-      "basename": "polygon",
-      "path": "decentralized-applications/ethereum/polygon.md"
+      "basename": "delta-lake-tutorial",
+      "path": "networking/others/delta-lake-tutorial.md"
     },
     {
       "basename": "readme",
-      "path": "decentralized-applications/ethereum/readme.md"
+      "path": "computer-science/security/cryptography/readme.md"
     },
     {
-      "basename": "ethereum-intro",
-      "path": "decentralized-applications/ethereum/ethereum-intro.md"
+      "basename": "public-key-cryptography",
+      "path": "computer-science/security/cryptography/public-key-cryptography.md"
     },
     {
-      "basename": "01-intro-to-ethereum",
-      "path": "decentralized-applications/ethereum/01-intro-to-ethereum.md"
+      "basename": "intro",
+      "path": "computer-science/security/cryptography/intro.md"
+    },
+    {
+      "basename": "diffie-hellman-key-exchange",
+      "path": "computer-science/security/cryptography/diffie-hellman-key-exchange.md"
+    },
+    {
+      "basename": "cryptography-terms",
+      "path": "computer-science/security/cryptography/cryptography-terms.md"
+    },
+    {
+      "basename": "cryptographic-hash-functions",
+      "path": "computer-science/security/cryptography/cryptographic-hash-functions.md"
+    },
+    {
+      "basename": "cryptographic-algorithms",
+      "path": "computer-science/security/cryptography/cryptographic-algorithms.md"
+    },
+    {
+      "basename": "two-2fa",
+      "path": "computer-science/security/authentication/two-2fa.md"
     },
     {
       "basename": "readme",
-      "path": "decentralized-applications/readme.md"
+      "path": "computer-science/security/authentication/readme.md"
     },
     {
-      "basename": "movies-serials-apps",
-      "path": "office/personality/movies-serials-apps.md"
+      "basename": "openid",
+      "path": "computer-science/security/authentication/openid.md"
     },
     {
-      "basename": "bitcoin",
-      "path": "decentralized-applications/coins-tokens-chains/bitcoin.md"
+      "basename": "oauth",
+      "path": "computer-science/security/authentication/oauth.md"
+    },
+    {
+      "basename": "jwt",
+      "path": "computer-science/security/authentication/jwt.md"
+    },
+    {
+      "basename": "intro",
+      "path": "computer-science/security/authentication/intro.md"
+    },
+    {
+      "basename": "http-authentication",
+      "path": "computer-science/security/authentication/http-authentication.md"
+    },
+    {
+      "basename": "certificates",
+      "path": "computer-science/security/authentication/certificates.md"
+    },
+    {
+      "basename": "liquidity-mining",
+      "path": "decentralized-applications/liquidity-mining.md"
+    },
+    {
+      "basename": "kimball-inmon-architecture",
+      "path": "databases/data-warehousing/kimball-inmon-architecture.md"
+    },
+    {
+      "basename": "readme",
+      "path": "databases/data-warehousing/readme.md"
+    },
+    {
+      "basename": "fact-dimension-tables",
+      "path": "databases/data-warehousing/fact-dimension-tables.md"
+    },
+    {
+      "basename": "concepts",
+      "path": "databases/data-warehousing/concepts.md"
+    },
+    {
+      "basename": "intro",
+      "path": "databases/data-warehousing/intro.md"
+    },
+    {
+      "basename": "data-lake",
+      "path": "databases/data-warehousing/data-lake.md"
+    },
+    {
+      "basename": "warehouse-schemas",
+      "path": "databases/data-warehousing/warehouse-schemas.md"
+    },
+    {
+      "basename": "dw-databases",
+      "path": "databases/data-warehousing/dw-databases.md"
     },
     {
       "basename": "others",
-      "path": "languages/sql/others.md"
-    },
-    {
-      "basename": "others",
-      "path": "databases/sql-databases/mysql/others.md"
+      "path": "databases/data-warehousing/others.md"
     },
     {
       "basename": "todo",
       "path": "office/cakedefi/todo.md"
     },
     {
-      "basename": "technologies-tools",
-      "path": "databases/others/technologies-tools.md"
-    },
-    {
-      "basename": "99-others",
-      "path": "technologies/apache/databricks/99-others.md"
+      "basename": "10-medallion-architecture",
+      "path": "technologies/apache/databricks/10-medallion-architecture.md"
     },
     {
       "basename": "others",
       "path": "decentralized-applications/ethereum/others.md"
     },
     {
-      "basename": "tables",
-      "path": "office/cakedefi/tables.md"
+      "basename": "readme",
+      "path": "decentralized-applications/readme.md"
     },
     {
-      "basename": "cakepoolprod-public",
-      "path": "office/media/cakepoolprod-public.png"
+      "basename": "chain-analytics",
+      "path": "decentralized-applications/chain-analytics.md"
     },
     {
-      "basename": "sql-queries",
-      "path": "office/cakedefi/sql-queries.md"
+      "basename": "delta-lake",
+      "path": "networking/others/delta-lake.md"
     },
     {
-      "basename": "upgrades",
-      "path": "decentralized-applications/ethereum/upgrades.md"
+      "basename": "99-others",
+      "path": "technologies/apache/databricks/99-others.md"
     },
     {
-      "basename": "layer-2-protocols",
-      "path": "decentralized-applications/ethereum/layer-2-protocols.md"
-    },
-    {
-      "basename": "arbitrum",
-      "path": "decentralized-applications/ethereum/arbitrum.md"
-    },
-    {
-      "basename": "crypto-news",
-      "path": "decentralized-applications/crypto-news.md"
-    },
-    {
-      "basename": "08-evm",
-      "path": "decentralized-applications/ethereum/08-evm.md"
-    },
-    {
-      "basename": "solidity",
-      "path": "decentralized-applications/ethereum/solidity.md"
-    },
-    {
-      "basename": "intro",
-      "path": "decentralized-applications/intro.md"
-    },
-    {
-      "basename": "biases-fallacies",
-      "path": "psychology/biases-fallacies.md"
-    },
-    {
-      "basename": "nbfc-banking-terms",
-      "path": "economics/nbfc-banking-terms.md"
-    },
-    {
-      "basename": "intro",
-      "path": "ai/courses/course-credit-risk-modeling/intro.md"
-    },
-    {
-      "basename": "syllabus",
-      "path": "ai/courses/course-credit-risk-modeling/syllabus.md"
-    },
-    {
-      "basename": "finance-terms",
-      "path": "economics/finance-terms.md"
-    },
-    {
-      "basename": "ethereum-staking",
-      "path": "decentralized-applications/ethereum/ethereum-staking.md"
-    },
-    {
-      "basename": "erc-4337",
-      "path": "decentralized-applications/ethereum/erc-4337.md"
+      "basename": "02-databricks-getting-started",
+      "path": "technologies/apache/databricks/02-databricks-getting-started.md"
     },
     {
       "basename": "01-databricks",
       "path": "technologies/apache/databricks/01-databricks.md"
     },
     {
+      "basename": "crypto-investing",
+      "path": "decentralized-applications/crypto-investing.md"
+    },
+    {
+      "basename": "tools",
+      "path": "decentralized-applications/tools.md"
+    },
+    {
+      "basename": "usdt",
+      "path": "decentralized-applications/coins-tokens-chains/usdt.md"
+    },
+    {
+      "basename": "product",
+      "path": "office/cakedefi/product.md"
+    },
+    {
       "basename": "readme",
-      "path": "databases/sql-databases/postgres/readme.md"
+      "path": "decentralized-applications/coins-tokens-chains/readme.md"
+    },
+    {
+      "basename": "speaking-story-talking-conversation-presentation-phrases",
+      "path": "psychology/soft-skills/speaking-story-talking-conversation-presentation-phrases.md"
+    },
+    {
+      "basename": "10-nodes-and-clients",
+      "path": "decentralized-applications/ethereum/10-nodes-and-clients.md"
+    },
+    {
+      "basename": "others",
+      "path": "computer-science/security/others.md"
+    },
+    {
+      "basename": "deepak-banks",
+      "path": "office/keep/deepak-banks.md"
+    },
+    {
+      "basename": "ml-libraries",
+      "path": "ai/libraries/ml-libraries.md"
+    },
+    {
+      "basename": "readme",
+      "path": "technologies/apache/apache-spark/readme.md"
+    },
+    {
+      "basename": "09-others",
+      "path": "technologies/apache/apache-spark/09-others.md"
+    },
+    {
+      "basename": "08-examples",
+      "path": "technologies/apache/apache-spark/08-examples.md"
     },
     {
       "basename": "youtube-podcasts-magazine-apps",
       "path": "devops/ides/youtube-podcasts-magazine-apps.md"
-    },
-    {
-      "basename": "futures-options-trading",
-      "path": "economics/market-terms/futures-options-trading.md"
-    },
-    {
-      "basename": "readme",
-      "path": "management/decision-making/readme.md"
-    },
-    {
-      "basename": "intro",
-      "path": "economics/intro.md"
-    },
-    {
-      "basename": "others-power-energy",
-      "path": "knowledge/applied-sciences/others-power-energy.md"
-    },
-    {
-      "basename": "people-team-management-culture",
-      "path": "management/people-team-management-culture.md"
-    },
-    {
-      "basename": "principle-software-engineer",
-      "path": "management/roles/principle-software-engineer.md"
-    },
-    {
-      "basename": "data",
-      "path": "management/roles/data.md"
-    },
-    {
-      "basename": "readme",
-      "path": "management/readme.md"
-    },
-    {
-      "basename": "engineering-manager",
-      "path": "management/roles/engineering-manager.md"
-    },
-    {
-      "basename": "developer-roles",
-      "path": "computer-science/software-engineering/developer-roles.md"
-    },
-    {
-      "basename": "portfolios",
-      "path": "economics/financial-finance-investing/portfolios.md"
-    },
-    {
-      "basename": "readme",
-      "path": "economics/market-terms/readme.md"
-    },
-    {
-      "basename": "ordinals",
-      "path": "decentralized-applications/coins-tokens-chains/ordinals.md"
-    },
-    {
-      "basename": "inequality",
-      "path": "economics/mental-models/inequality.md"
-    },
-    {
-      "basename": "economics-mental-models",
-      "path": "economics/mental-models/economics-mental-models.md"
     }
   ],
   "omittedPaths": [],

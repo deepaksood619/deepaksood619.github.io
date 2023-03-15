@@ -10,6 +10,7 @@
 - [Apache Avro](apache-avro)
 - [Apache Parquet](apache-parquet)
 - [Delta Lake](networking/others/delta-lake.md)
+- [Delta Lake Tutorial](networking/others/delta-lake-tutorial.md)
 - [File Formats](file-formats)
 - [RPC](rpc)
 - [gRPC](grpc/readme.md)

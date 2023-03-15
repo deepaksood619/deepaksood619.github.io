@@ -4,6 +4,7 @@
 
 - [coin-token-intro](decentralized-applications/coins-tokens-chains/coin-token-intro.md)
 - [bitcoin](decentralized-applications/coins-tokens-chains/bitcoin.md)
+- [ordinals](decentralized-applications/coins-tokens-chains/ordinals.md)
 - [USD Coin (USDC)](decentralized-applications/coins-tokens-chains/usdc.md)
 - [Tether (USDT)](decentralized-applications/coins-tokens-chains/usdt.md)
 - [cardano](decentralized-applications/coins-tokens-chains/cardano.md)
@@ -58,6 +59,8 @@ Market Capitalization - [https://coinmarketcap.com/](https://coinmarketcap.com/)
 - DeFi wallet
 - DFI
   DFI is the DeFi Blockchain (DeFiChain) native token. DeFi blockchain is a blockchain launched by DeFiChain Foundation to enable decentralized finance (DeFi) on the Bitcoin blockchain, without needing Turing-complete instructions – which has proven to be causing quite a few unwanted incidents in the DeFi space.
+
+[Top 5 Eco Friendly Cryptocurrencies to Buy and Hold in 2023 - YouTube](https://www.youtube.com/watch?v=7XV3TFISzUk)
 
 ## Stable Coins
 

@@ -57,15 +57,18 @@ The Top Three Highest Ranking Crypto Websites on Alexa
 - [Home | PancakeSwap](https://pancakeswap.finance/)
   - Trade, earn, and win crypto on the most popular decentralized platform in the galaxy.
 - [Guide to DUSD: Earn Negative Interest of Up to -66.6% on DUSD](https://blog.defichain.com/earn-returns-with-negative-interest-rates/)
+- [Liquid Staking for Digital Assets](https://lido.fi/)
+- [RBX: The pinnacle of decentralized finance apps. Defi 2.0](https://rbxdefi.com/)
 
 ## Pros
 
 - Huge Upside
+- Future
 
 ## Cons
 
-- Currently a pyramid scheme
-  - No one is accepting it
+- Currently looks like a pyramid scheme
+  - No one is accepting it for physical things
 - Gambling
 - Highly volatile
 - Very new
@@ -75,8 +78,8 @@ The Top Three Highest Ranking Crypto Websites on Alexa
 - No regulation
 - Non productive asset - doesn't generate anything
 - Timing the market is very important
-- More cannot be generated (printing currency)
-- Cannot be taken from one person to give to other person
+- More cannot be generated (like printing currency for controlling markets)
+  - Cannot be taken from one person to give to other person
 - Doesn't increase productivity of the world
 - Doesn't create value (invest in businesses that creates value)
 - Source code managed by Blockstream

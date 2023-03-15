@@ -101,6 +101,10 @@ This is the best-case scenario out of a worst-case scenario.
 
 ![image](../../media/Product-Management-image5.jpg)
 
+![](../../media/Screenshot%202023-03-14%20at%204.26.52%20PM.png)
+
+![](../../media/Screenshot%202023-03-14%20at%204.26.26%20PM.png)
+
 ## 1% Problem
 
 - Is the problem something that less than 1% of your users face?

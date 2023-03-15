@@ -70,40 +70,6 @@ Open two instance of same application - **open -n MQTT.fx.app**
 - enablePreview - off
 - terminal.integrated.scrollback - 100000
 
-8. **Google chrome**
-
-   Cmd + Shift + A + Enter (to cycle between tabs)
-
-   <https://www.google.com/inputtools>
-
-  **Extensions**
-
-- darkreader
-- Session Buddy
-- Nimbus Screenshot & Screen Video
-- adblock
-- Google meet attendance list
-- JSON formatter
-- Keepa - Amazon Price Tracker
-- LINER: ChatGPT Google Assistant
-- MarkDownload - Markdown Web Clipper
-- Moesif Origin & CORS Changer
-- SpeedUp: Netflix, Prime videos
-- YouTube NonStop
-
- **Others**
-
-- [Why Does The Arc Browser Work? - YouTube](https://www.youtube.com/watch?v=VZKHS0gBLts)
-- Brave Browser
-
-9. **Google Chrome apps**
-
-   - Keep Desktop app
-
-      Go to keep.google.com > go to chrome more tools > create shortcut > check open as new window
-
-   - Youtube music
-
 10. **Google Drive for mac**
 11. bittorrent web
 12. ~~Popcorn~~
@@ -121,6 +87,61 @@ Open two instance of same application - **open -n MQTT.fx.app**
     2. [GitHub - raycast/script-commands: Script Commands let you tailor Raycast to your needs. Think of them as little productivity boosts throughout your day.](https://github.com/raycast/script-commands)
 20. **Android file transfer**
 21. Office
+
+### Google chrome
+
+#### Shortcuts
+
+| Action | Shortcuts |
+|---|---|
+| to cycle between tabs | Cmd + Shift + A + Enter |
+| Jump to the next open tab | ⌘ + Option + Right arrow or ctrl + tab |
+| Jump to the previous open tab | ⌘ + Option + Left arrow or ctrl + shift + tab |
+| Open the previous page in your browsing history for the current tab | `⌘ + [ or ⌘ + Left arrow` |
+| Open the next page in your browsing history for the current tab | `⌘ + ] or ⌘ + Right arrow` |
+| Open the History page in a new tab | ⌘ + y |
+| Open the Downloads page in a new tab | ⌘ + Shift + j |
+| Open the Find Bar to search the current page | ⌘ + f |
+| Jump to the next match to your Find Bar search | ⌘ + g |
+| Jump to the previous match to your Find Bar search | ⌘ + Shift + g |
+| When Find Bar is open, search for selected text | ⌘ + e |
+| Open the JavaScript Console | ⌘ + Option + j |
+| Search the web | ⌘ + Option + f |
+
+<https://www.google.com/inputtools>
+
+[Chrome keyboard shortcuts - Computer - Google Chrome Help](https://support.google.com/chrome/answer/157179)
+
+#### Extensions
+
+- darkreader
+- Session Buddy
+- Nimbus Screenshot & Screen Video
+- adblock
+- Google meet attendance list
+- JSON formatter
+- Keepa - Amazon Price Tracker
+- LINER: ChatGPT Google Assistant
+- MarkDownload - Markdown Web Clipper
+- Moesif Origin & CORS Changer
+- SpeedUp: Netflix, Prime videos
+- YouTube NonStop
+- Duplicate Tab shortcut
+  - Duplicate the current tab - ctrl + d
+  - New tab to the right - ctrl + shift + d
+
+#### Others
+
+- [Why Does The Arc Browser Work? - YouTube](https://www.youtube.com/watch?v=VZKHS0gBLts)
+- Brave Browser
+
+#### Google Chrome apps
+
+- Keep Desktop app
+
+      Go to keep.google.com > go to chrome more tools > create shortcut > check open as new window
+
+- Youtube music
 
 ### brew
 

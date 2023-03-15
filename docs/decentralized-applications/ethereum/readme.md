@@ -1,6 +1,7 @@
 # Ethereum
 
 - [Ethereum Intro](ethereum-intro)
+- [Ethereum Upgrades](decentralized-applications/ethereum/upgrades.md)
 - [Solidity](solidity)
 - [Arbitrum](arbitrum.md)
 - [Ethereum Staking](ethereum-staking.md)

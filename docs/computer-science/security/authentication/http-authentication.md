@@ -33,15 +33,18 @@ This is the simplest possible way to enforce access control as it doesn't requir
 - username and password are concatenated into a single string:username:password
 - this string is encoded with Base64
 - theBasickeyword is put before this encoded value
-Example for a user namedjohnwith passwordsecret:
 
+Example for a user named john with password secret:
+
+```python
 curl --header "Authorization: Basic am9objpzZWNyZXQ=" my-website.com
 
-**from** requests.auth **import** HTTPBasicAuth
-requests.get**(**'https://api.github.com/user'**,** auth=HTTPBasicAuth**(**'user'**,** 'pass'**))**
-Response [200]
+from requests.auth import HTTPBasicAuth
 
-## Cons
+requests.get('https://api.github.com/user, auth=HTTPBasicAuth('user','pass'))
+```
+
+### Cons
 
 - the username and password are sent with every request, potentially exposing them - even if sent via a secure connection
 - connected to SSL/TLS, if a website uses weak encryption, or an attacker can break it, the usernames and passwords will be exposed immediately

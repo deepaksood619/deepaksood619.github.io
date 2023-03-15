@@ -377,6 +377,11 @@ git show-ref --heads'
 - This willnotmake changes to the commit history.
 - Has potential tooverwritefiles in the working directory.
 
+```bash
+# git command to switch between two branches w\ passing the branch name:
+git switch -
+```
+
 ## Cleanup branches
 
 ### Prune origin (remove all branches that are merged)
