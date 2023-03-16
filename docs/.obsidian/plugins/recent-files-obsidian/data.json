@@ -1,8 +1,40 @@
 {
   "recentFiles": [
     {
+      "basename": "11-built-in-functions",
+      "path": "technologies/apache/apache-spark/11-built-in-functions.md"
+    },
+    {
+      "basename": "10-sql-functions-datasources",
+      "path": "technologies/apache/apache-spark/10-sql-functions-datasources.md"
+    },
+    {
+      "basename": "readme",
+      "path": "technologies/apache/apache-spark/readme.md"
+    },
+    {
+      "basename": "99-others",
+      "path": "technologies/apache/apache-spark/99-others.md"
+    },
+    {
+      "basename": "09-dataframe",
+      "path": "technologies/apache/apache-spark/09-dataframe.md"
+    },
+    {
       "basename": "08-examples",
       "path": "technologies/apache/apache-spark/08-examples.md"
+    },
+    {
+      "basename": "00-intro",
+      "path": "technologies/apache/apache-spark/00-intro.md"
+    },
+    {
+      "basename": "02-spark-modules",
+      "path": "technologies/apache/apache-spark/02-spark-modules.md"
+    },
+    {
+      "basename": "01-terms",
+      "path": "technologies/apache/apache-spark/01-terms.md"
     },
     {
       "basename": "sql-queries",
@@ -31,14 +63,6 @@
     {
       "basename": "readme",
       "path": "languages/sql/dql-data-query-language/readme.md"
-    },
-    {
-      "basename": "readme",
-      "path": "technologies/apache/apache-spark/readme.md"
-    },
-    {
-      "basename": "09-others",
-      "path": "technologies/apache/apache-spark/09-others.md"
     },
     {
       "basename": "family-other-accounts",
@@ -175,30 +199,6 @@
     {
       "basename": "fact-dimension-tables",
       "path": "databases/data-warehousing/fact-dimension-tables.md"
-    },
-    {
-      "basename": "concepts",
-      "path": "databases/data-warehousing/concepts.md"
-    },
-    {
-      "basename": "intro",
-      "path": "databases/data-warehousing/intro.md"
-    },
-    {
-      "basename": "data-lake",
-      "path": "databases/data-warehousing/data-lake.md"
-    },
-    {
-      "basename": "warehouse-schemas",
-      "path": "databases/data-warehousing/warehouse-schemas.md"
-    },
-    {
-      "basename": "dw-databases",
-      "path": "databases/data-warehousing/dw-databases.md"
-    },
-    {
-      "basename": "others",
-      "path": "databases/data-warehousing/others.md"
     }
   ],
   "omittedPaths": [],

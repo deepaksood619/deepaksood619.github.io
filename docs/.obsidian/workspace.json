@@ -13,13 +13,62 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "technologies/apache/apache-spark/01-terms.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9dcb8218b0b39728",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "technologies/apache/apache-spark/08-examples.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "9bdc0a6f8c19789f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "technologies/apache/apache-spark/09-dataframe.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "193eb336a181754e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "technologies/apache/apache-spark/10-sql-functions-datasources.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "eaac7825207a1d90",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "technologies/apache/apache-spark/11-built-in-functions.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -93,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "technologies/apache/apache-spark/08-examples.md",
+                "file": "technologies/apache/apache-spark/11-built-in-functions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "technologies/apache/apache-spark/08-examples.md",
+                "file": "technologies/apache/apache-spark/11-built-in-functions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "technologies/apache/apache-spark/08-examples.md"
+                "file": "technologies/apache/apache-spark/11-built-in-functions.md"
               }
             }
           },
@@ -181,8 +230,17 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "fdf02bf9d9aca1c5",
+  "active": "978fd2faf621af33",
   "lastOpenFiles": [
+    "technologies/apache/apache-spark/10-sql-functions-datasources.md",
+    "technologies/apache/apache-spark/11-built-in-functions.md",
+    "technologies/apache/apache-spark/readme.md",
+    "technologies/apache/apache-spark/99-others.md",
+    "technologies/apache/apache-spark/09-dataframe.md",
+    "technologies/apache/apache-spark/08-examples.md",
+    "technologies/apache/apache-spark/00-intro.md",
+    "technologies/apache/apache-spark/02-spark-modules.md",
+    "technologies/apache/apache-spark/01-terms.md",
     "office/cakedefi/sql-queries.md",
     "devops/ides/others.md",
     "computer-science/courses/microsoft-excel-google-sheets.md",
@@ -190,9 +248,6 @@
     "languages/sql/sql-joins.md",
     "languages/sql/dql-data-query-language/aggregation-analytical-queries-sql-analytics.md",
     "languages/sql/dql-data-query-language/readme.md",
-    "technologies/apache/apache-spark/readme.md",
-    "technologies/apache/apache-spark/09-others.md",
-    "technologies/apache/apache-spark/08-examples.md",
     "office/keep/family-other-accounts.md",
     "office/keep/asha-maa.md",
     "languages/sql/others.md",
@@ -203,12 +258,6 @@
     "office/personality/neha.md",
     "devops/ides/youtube-podcasts-magazine-apps.md",
     "decentralized-applications/ethereum/upgrades.md",
-    "decentralized-applications/ethereum/others.md",
-    "decentralized-applications/ethereum/readme.md",
-    "networking/others/delta-lake.md",
-    "networking/others/delta-lake-tutorial.md",
-    "networking/others/readme.md",
-    "computer-science/security/cryptography/readme.md",
     "media/Authentication_OpenID-image3.jpg",
     "media/Screenshot 2023-03-14 at 4.26.26 PM.png",
     "media/Screenshot 2023-03-14 at 4.26.52 PM.png",
