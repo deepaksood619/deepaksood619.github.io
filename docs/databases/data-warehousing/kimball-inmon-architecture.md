@@ -4,14 +4,14 @@ For designing a data warehouse, there are two most common architectures named **
 
 ## Kimball
 
-Kimball’s approach to designing a Datawarehouse was introduced by **Ralph Kimball**. This approach starts with recognizing the business process and questions that Dataware house has to answer. These sets of information are being analyzed and then documented well. The [Extract Transform Load (ETL)](https://www.geeksforgeeks.org/etl-process-in-data-warehouse/) software brings all data from multiple data sources called data marts and then is loaded into a common area called staging. Then this is transformed into an OLAP cube. 
+Kimball’s approach to designing a Datawarehouse was introduced by **Ralph Kimball**. This approach starts with recognizing the business process and questions that Dataware house has to answer. These sets of information are being analyzed and then documented well. The [Extract Transform Load (ETL)](https://www.geeksforgeeks.org/etl-process-in-data-warehouse/) software brings all data from multiple data sources called data marts and then is loaded into a common area called staging. Then this is transformed into an OLAP cube.
 
 ### Applications
 
--   Setup and Built are quick.
--   Generating report against multiple star schema is very successful.
--   Database operations are very effective.
--   Occupies less space in the database and management is easy.
+- Setup and Built are quick.
+- Generating report against multiple star schema is very successful.
+- Database operations are very effective.
+- Occupies less space in the database and management is easy.
 
 Kimball Dataware house architecture is shown below as follows
 
@@ -23,12 +23,12 @@ Inmon’s approach to designing a Datawarehouse was introduced by **Bill Inmon**
 
 ### Applications
 
--   The data warehouse is very flexible to changes.
--   Business processes can be understood very easily.
--   Reports can be handled across enterprises.
--   ETL process is very less prone to errors.
+- The data warehouse is very flexible to changes.
+- Business processes can be understood very easily.
+- Reports can be handled across enterprises.
+- ETL process is very less prone to errors.
 
-Inmon Dataware house architecture is shown below: 
+Inmon Dataware house architecture is shown below:
 
 ![](https://media.geeksforgeeks.org/wp-content/uploads/20200717001348/Inmon.png)
 

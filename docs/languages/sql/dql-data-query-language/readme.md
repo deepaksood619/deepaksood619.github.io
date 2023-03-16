@@ -1,5 +1,15 @@
 # DQL - Data Query Language
 
+## Gotchas
+
+```sql
+-- use ::DATE selects 2023-03-16 too but between without DATE doesn't
+
+t.createdAt::DATE BETWEEN '2023-02-23' and '2023-03-16'
+
+t.createdAt BETWEEN '2023-02-23' AND '2023-03-16'
+```
+
 ```sql
 -- SELECT
 select * from mysql.user;

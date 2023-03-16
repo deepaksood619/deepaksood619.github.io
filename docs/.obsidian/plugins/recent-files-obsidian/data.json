@@ -1,12 +1,104 @@
 {
   "recentFiles": [
     {
+      "basename": "08-examples",
+      "path": "technologies/apache/apache-spark/08-examples.md"
+    },
+    {
+      "basename": "sql-queries",
+      "path": "office/cakedefi/sql-queries.md"
+    },
+    {
+      "basename": "others",
+      "path": "devops/ides/others.md"
+    },
+    {
+      "basename": "microsoft-excel-google-sheets",
+      "path": "computer-science/courses/microsoft-excel-google-sheets.md"
+    },
+    {
+      "basename": "mordern-algorithm-design",
+      "path": "computer-science/courses/mordern-algorithm-design.md"
+    },
+    {
+      "basename": "sql-joins",
+      "path": "languages/sql/sql-joins.md"
+    },
+    {
+      "basename": "aggregation-analytical-queries-sql-analytics",
+      "path": "languages/sql/dql-data-query-language/aggregation-analytical-queries-sql-analytics.md"
+    },
+    {
       "basename": "readme",
-      "path": "networking/others/readme.md"
+      "path": "languages/sql/dql-data-query-language/readme.md"
+    },
+    {
+      "basename": "readme",
+      "path": "technologies/apache/apache-spark/readme.md"
+    },
+    {
+      "basename": "09-others",
+      "path": "technologies/apache/apache-spark/09-others.md"
+    },
+    {
+      "basename": "family-other-accounts",
+      "path": "office/keep/family-other-accounts.md"
+    },
+    {
+      "basename": "asha-maa",
+      "path": "office/keep/asha-maa.md"
+    },
+    {
+      "basename": "others",
+      "path": "languages/sql/others.md"
+    },
+    {
+      "basename": "technologies-tools",
+      "path": "databases/others/technologies-tools.md"
+    },
+    {
+      "basename": "todo",
+      "path": "office/cakedefi/todo.md"
+    },
+    {
+      "basename": "infra-hr",
+      "path": "office/cakedefi/infra-hr.md"
+    },
+    {
+      "basename": "neha",
+      "path": "office/keep/neha.md"
+    },
+    {
+      "basename": "neha",
+      "path": "office/personality/neha.md"
+    },
+    {
+      "basename": "youtube-podcasts-magazine-apps",
+      "path": "devops/ides/youtube-podcasts-magazine-apps.md"
+    },
+    {
+      "basename": "upgrades",
+      "path": "decentralized-applications/ethereum/upgrades.md"
+    },
+    {
+      "basename": "others",
+      "path": "decentralized-applications/ethereum/others.md"
+    },
+    {
+      "basename": "readme",
+      "path": "decentralized-applications/ethereum/readme.md"
+    },
+    {
+      "basename": "delta-lake",
+      "path": "networking/others/delta-lake.md"
     },
     {
       "basename": "delta-lake-tutorial",
       "path": "networking/others/delta-lake-tutorial.md"
+    },
+    {
+      "basename": "readme",
+      "path": "networking/others/readme.md"
     },
     {
       "basename": "readme",
@@ -107,98 +199,6 @@
     {
       "basename": "others",
       "path": "databases/data-warehousing/others.md"
-    },
-    {
-      "basename": "todo",
-      "path": "office/cakedefi/todo.md"
-    },
-    {
-      "basename": "10-medallion-architecture",
-      "path": "technologies/apache/databricks/10-medallion-architecture.md"
-    },
-    {
-      "basename": "others",
-      "path": "decentralized-applications/ethereum/others.md"
-    },
-    {
-      "basename": "readme",
-      "path": "decentralized-applications/readme.md"
-    },
-    {
-      "basename": "chain-analytics",
-      "path": "decentralized-applications/chain-analytics.md"
-    },
-    {
-      "basename": "delta-lake",
-      "path": "networking/others/delta-lake.md"
-    },
-    {
-      "basename": "99-others",
-      "path": "technologies/apache/databricks/99-others.md"
-    },
-    {
-      "basename": "02-databricks-getting-started",
-      "path": "technologies/apache/databricks/02-databricks-getting-started.md"
-    },
-    {
-      "basename": "01-databricks",
-      "path": "technologies/apache/databricks/01-databricks.md"
-    },
-    {
-      "basename": "crypto-investing",
-      "path": "decentralized-applications/crypto-investing.md"
-    },
-    {
-      "basename": "tools",
-      "path": "decentralized-applications/tools.md"
-    },
-    {
-      "basename": "usdt",
-      "path": "decentralized-applications/coins-tokens-chains/usdt.md"
-    },
-    {
-      "basename": "product",
-      "path": "office/cakedefi/product.md"
-    },
-    {
-      "basename": "readme",
-      "path": "decentralized-applications/coins-tokens-chains/readme.md"
-    },
-    {
-      "basename": "speaking-story-talking-conversation-presentation-phrases",
-      "path": "psychology/soft-skills/speaking-story-talking-conversation-presentation-phrases.md"
-    },
-    {
-      "basename": "10-nodes-and-clients",
-      "path": "decentralized-applications/ethereum/10-nodes-and-clients.md"
-    },
-    {
-      "basename": "others",
-      "path": "computer-science/security/others.md"
-    },
-    {
-      "basename": "deepak-banks",
-      "path": "office/keep/deepak-banks.md"
-    },
-    {
-      "basename": "ml-libraries",
-      "path": "ai/libraries/ml-libraries.md"
-    },
-    {
-      "basename": "readme",
-      "path": "technologies/apache/apache-spark/readme.md"
-    },
-    {
-      "basename": "09-others",
-      "path": "technologies/apache/apache-spark/09-others.md"
-    },
-    {
-      "basename": "08-examples",
-      "path": "technologies/apache/apache-spark/08-examples.md"
-    },
-    {
-      "basename": "youtube-podcasts-magazine-apps",
-      "path": "devops/ides/youtube-podcasts-magazine-apps.md"
     }
   ],
   "omittedPaths": [],

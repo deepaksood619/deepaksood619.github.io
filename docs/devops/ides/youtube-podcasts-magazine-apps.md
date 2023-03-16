@@ -121,7 +121,7 @@
 - Priya Jain
 - Learn with finology
 
-### Finance / Stocks / Personal finance (People with same thought process)
+### Finance / Stocks / Personal finance
 
 - Economics Explained
 - ET Money / ETMoney

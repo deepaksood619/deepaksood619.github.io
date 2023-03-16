@@ -1,4 +1,4 @@
-# Intro to Microsoft Excel / Google Sheets
+# Microsoft Excel / Google Sheets
 
 ## Features
 
@@ -44,13 +44,13 @@ Rows - 1,048,576- Text to column
 
 ## Examples
 
-- `=IF(A4>$B$1,B4,C4)`
-  - `=IF(A4>$B$1,IF(B4>$C$2,B4,C4),C4)`
-  - `=IF(OR(A4<$B$1,B4<$C$2),C4,B4)`
-  - `=IF(AND(A4<$B$1,B4<$C$2),C4,B4)`
-  - `=IF(D7>=96,"A",IF(D7>=86,"B",IF(D7>=76,"C",IF(D7>=61,"D",IF(D7>=51,"E", "F")))))`
-- `=SUMIF(C6:C15,D19,D6:D15)`
-- `=AVERAGEIF(B5:B11,"<"&300000,C5:C11)`
+- =IF(A4>$B$1,B4,C4)
+  - =IF(A4>$B$1,IF(B4>$C$2,B4,C4),C4)
+  - =IF(OR(A4<$B$1,B4<$C$2),C4,B4)
+  - =IF(AND(A4<$B$1,B4<$C$2),C4,B4)
+  - =IF(D7>=96,"A",IF(D7>=86,"B",IF(D7>=76,"C",IF(D7>=61,"D",IF(D7>=51,"E", "F")))))
+- =SUMIF(C6:C15,D19,D6:D15)
+- =AVERAGEIF(B5:B11,"<"&300000,C5:C11)
 - =SUMPRODUCT(B5:B7,C5:C7)/SUM(B5:B7)
 - =MID(B4,1,10)
 - =IRR(B4:B8)
@@ -73,6 +73,7 @@ Rows - 1,048,576- Text to column
 
 - IF
   - SUMIF, SUMIFS, COUNTIF, COUNTIFS
+- =FILTER(I:I, ISNA(MATCH(I:I, C:C, 0))) - filter one column based on other column
 
 ## Others
 

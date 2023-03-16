@@ -44,7 +44,7 @@ The Average Coin Dormancy (Dormancy) metric assesses the average amount of Coin 
 Thus the metric measured in units of time (days) and represents the average number of days that each spent coin was dormant prior to being transacted.
 
 - **High dormancy values ↗️** mean that, on average, coins spent that day had been held for longer periods of time in an illiquid state and may be being spent back into liquid circulation.
-    
+
 - **Low dormancy values ↘️** mean the coins being spent that day have are relatively young, signalling that older coins are generally remaining unspent, and on-chain volume is characteristic of more day-to-day traffic.
 
 ## Average Lifespan per Coin
@@ -68,9 +68,9 @@ Uptrends in the Average Lifespan metric indicate there is more HODLing taking pl
 Liveliness defines the balance between aggregate Coin Day Destruction and Coin Day Creation. This provides a macro scale appreciation of the market preference for HODLing, or distributional behaviour.
 
 - **Uptrends ↗️** suggests that a distribution regime is occurring. This indicates that the rate of Coin Day Destruction is outpacing Coin Day Creation, and indicates longer-term investors are spending their coins.
-    
+
 - **Downtrends ↘️** suggests that an accumulation regime is occurring. This indicates that the rate of Coin Day Creation is outpacing Coin Day Destruction, and thus investor accumulation and colder storage is dominant.
-    
+
 - **Steepness of the Trend** provides a gauge on the relative magnitude and aggressiveness of the market preference described in the points above.
 
 ## HODL Waves
@@ -78,7 +78,7 @@ Liveliness defines the balance between aggregate Coin Day Destruction and Coin D
 The HODL Waves present a macro view of the age distribution of the coin supply, and provides insight into changes in investor holding and spending patterns. The metric bundles the coin supply into colored age bands, with the thickness proportional to the percent of total coin supply represented.
 
 - **Warmer Colors** represent younger coins (days to months) which have been recently transacted. Larger volumes of young coins tend to indicate a net divestment by longer-term investors, and increasing saturation by newer investors.
-    
+
 - **Cooler Colors** represent older coins which have not transacted for several months to years. Larger volumes of old coins tend to indicate a growing supply dominance held by longer-term investors, and decreasing saturation of newer investors.
 
 ## Spent Volume Age Bands (SVAB)

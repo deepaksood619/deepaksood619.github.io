@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "networking/others/readme.md",
+                "file": "technologies/apache/apache-spark/08-examples.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"data mart\"",
+                "query": "google sheets",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "networking/others/readme.md",
+                "file": "technologies/apache/apache-spark/08-examples.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "networking/others/readme.md",
+                "file": "technologies/apache/apache-spark/08-examples.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "networking/others/readme.md"
+                "file": "technologies/apache/apache-spark/08-examples.md"
               }
             }
           },
@@ -181,35 +181,35 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "978fd2faf621af33",
+  "active": "fdf02bf9d9aca1c5",
   "lastOpenFiles": [
+    "office/cakedefi/sql-queries.md",
+    "devops/ides/others.md",
+    "computer-science/courses/microsoft-excel-google-sheets.md",
+    "computer-science/courses/mordern-algorithm-design.md",
+    "languages/sql/sql-joins.md",
+    "languages/sql/dql-data-query-language/aggregation-analytical-queries-sql-analytics.md",
+    "languages/sql/dql-data-query-language/readme.md",
+    "technologies/apache/apache-spark/readme.md",
+    "technologies/apache/apache-spark/09-others.md",
+    "technologies/apache/apache-spark/08-examples.md",
+    "office/keep/family-other-accounts.md",
+    "office/keep/asha-maa.md",
+    "languages/sql/others.md",
+    "databases/others/technologies-tools.md",
+    "office/cakedefi/todo.md",
+    "office/cakedefi/infra-hr.md",
+    "office/keep/neha.md",
+    "office/personality/neha.md",
+    "devops/ides/youtube-podcasts-magazine-apps.md",
+    "decentralized-applications/ethereum/upgrades.md",
+    "decentralized-applications/ethereum/others.md",
+    "decentralized-applications/ethereum/readme.md",
+    "networking/others/delta-lake.md",
     "networking/others/delta-lake-tutorial.md",
+    "networking/others/readme.md",
     "computer-science/security/cryptography/readme.md",
-    "computer-science/security/cryptography/public-key-cryptography.md",
-    "computer-science/security/cryptography/intro.md",
-    "computer-science/security/cryptography/diffie-hellman-key-exchange.md",
-    "computer-science/security/cryptography/cryptography-terms.md",
-    "computer-science/security/cryptography/cryptographic-hash-functions.md",
-    "computer-science/security/cryptography/cryptographic-algorithms.md",
-    "computer-science/security/authentication/two-2fa.md",
-    "computer-science/security/authentication/readme.md",
-    "computer-science/security/authentication/openid.md",
-    "computer-science/security/authentication/oauth.md",
-    "computer-science/security/authentication/jwt.md",
-    "computer-science/security/authentication/intro.md",
-    "computer-science/security/authentication/http-authentication.md",
-    "computer-science/security/authentication/certificates.md",
     "media/Authentication_OpenID-image3.jpg",
-    "decentralized-applications/liquidity-mining.md",
-    "databases/data-warehousing/kimball-inmon-architecture.md",
-    "databases/data-warehousing/readme.md",
-    "databases/data-warehousing/fact-dimension-tables.md",
-    "databases/data-warehousing/concepts.md",
-    "databases/data-warehousing/intro.md",
-    "databases/data-warehousing/data-lake.md",
-    "databases/data-warehousing/warehouse-schemas.md",
-    "databases/data-warehousing/dw-databases.md",
-    "databases/data-warehousing/others.md",
     "media/Screenshot 2023-03-14 at 4.26.26 PM.png",
     "media/Screenshot 2023-03-14 at 4.26.52 PM.png",
     "office/media/cakepoolprod-public.png",

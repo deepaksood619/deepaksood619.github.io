@@ -131,17 +131,56 @@ data = data.filter(condition1).filter(condition2)
 
 ### Queries
 
-```sql
+```python
 table_df = table_df.union(table_df)
 
 table_df.display()
 table_df.show()
+display(table_df)
 
 table_df.count()
 
 table_df.limit(10).display()
 
 table_df_2.replace('Revenue Fee', 'Maintanence Fee').display()
+
+# check column types
+table_df.schema
+table_df.dtypes
+
+# Add a new column
+table_df_2 = table_df.withColumn("bonus_amount", table_df.salary*0.3)
 ```
 
 [Show() Vs Display(). To Display the dataframe in a tabular… | by Harun Raseed Basheer | Medium](https://medium.com/@harun.raseed093/show-vs-display-7a7185f3ef65)
+
+#### Load testing data
+
+```python
+# Load the data from its source.
+df = spark.read.load("/databricks-datasets/learning-spark-v2/people/people-10m.delta")
+
+# Write the data to a table.
+
+table_name = "people_10m"
+
+df.write.saveAsTable(table_name)
+
+# Load a table in spark dataframe
+people_df = spark.read.table('people_10m')
+display(people_df)
+
+df = spark.sql('SELECT * FROM people_10m WHERE id >= 9999998')
+```
+
+#### Timestamps
+
+```python
+from pyspark.sql.functions import to_timestamp, lit
+
+# add a new column with a specific date
+specific_date = "2022-03-13 10:30:00"
+df3 = df.withColumn("specific_date", to_timestamp(lit(specific_date)))
+
+df2 = df.withColumn("pipelineAt", F.current_timestamp())
+```

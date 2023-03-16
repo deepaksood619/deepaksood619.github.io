@@ -8,7 +8,7 @@
 - [Data Integration Specialist - AWS](data-integration-specialist-aws)
 - [Udemy - Python for Data Structure](udemy-python-for-data-structures-algorithms)
 - [365 Data Science Program](365-data-science-program)
-- [Intro to Microsoft Excel / Google Sheets](intro-to-microsoft-excel-google-sheets)
+- [Intro to Microsoft Excel / Google Sheets](computer-science/courses/microsoft-excel-google-sheets.md)
 - [365 DS - Advanced Statistical Methods in Python](365-ds-advanced-stastistical-methods-in-python)
 - [365 DS - Mathematics](365-ds-mathematics)
 - [Nutanix Hybrid Cloud](nutanix-hybrid-cloud)

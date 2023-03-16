@@ -13,4 +13,6 @@ In order to simplify and maximize focus on a successful transition to proof-of-s
 
 [The Beacon Chain | ethereum.org](https://ethereum.org/en/upgrades/beacon-chain/)
 
+['What Happens After the Merge' - Vitalik Buterin - YouTube](https://www.youtube.com/watch?v=7ggwLccuN5s)
+
 ## [The Shanghai/Capella Upgrade](https://consensys.net/shanghai-capella-upgrade/)
