@@ -14,31 +14,31 @@ For a language to be turing complete it has to only fulfill the below requiremen
 
 [Colin Barrett's answer to What does it mean to say that a programming language is Turing Complete?](https://www.quora.com/What-does-it-mean-to-say-that-a-programming-language-is-Turing-Complete/answer/Colin-Barrett "www.quora.com")
 
-> What this means, practically, is that the language must support:
+What this means, practically, is that the language must support:
 
-> - Some form of reading and writing memory (reading to/writing from the tape)
-> - Some form of branching (moving the machine to the forward along the tape, skipping over unwanted symbols)
-> - Some form of infinite looping capability, either through recursion or explicit loops (moving the machine back along the tape and restarting execution there)
+- Some form of reading and writing memory (reading to/writing from the tape)
+- Some form of branching (moving the machine to the forward along the tape, skipping over unwanted symbols)
+- Some form of infinite looping capability, either through recursion or explicit loops (moving the machine back along the tape and restarting execution there)
 
 Now coming back to blockchain technologies ….
 
 Bitcoin developers decided to remove the feature of looping in bitcoin script to avoid any spam or network overload, hence making it turing incomplete. The answer to the question is as simple as that. Ethereum try to overcome the problem of infinite looping using a concept called “Gas”.
 
-> The reason gas is important is that it helps to ensure an appropriate fee is being paid by transactions submitted to the network. By requiring that a transaction pay for each operation it performs (or causes a contract to perform), we ensure that network doesn't become bogged down with performing a lot of intensive work that isn't valuable to anyone.
+The reason gas is important is that it helps to ensure an appropriate fee is being paid by transactions submitted to the network. By requiring that a transaction pay for each operation it performs (or causes a contract to perform), we ensure that network doesn't become bogged down with performing a lot of intensive work that isn't valuable to anyone.
 
 As stated by [Vladislav Zorov's answer to To better understand "Turing-complete blockchains", what is an example and a non-example of Turing-complete Blockchains? If a non-example does not exist, why mention it at all?](https://www.quora.com/To-better-understand-Turing-complete-blockchains-what-is-an-example-and-a-non-example-of-Turing-complete-Blockchains-If-a-non-example-does-not-exist-why-mention-it-at-all/answer/Vladislav-Zorov "www.quora.com")
 
-> All Ethereum testnets so far have been DoS’ed
+**All Ethereum testnets so far have been DoS’ed**
 
 We could also ask why Bitcoin developers did not take ethereum approach, but we have to understand, bitcoin was intended for few purposes whereas ethereum tries to do much more.
 
 Below is a standard Pay-To-Public-Key-Hash (P2PKH) transaction in Bitcoin. This is the example transaction where Alice makes a bitcoin payment to Bob’s bitcoin address, that is broadcasted on the network for individual and mining node to verify the transaction.
 
-![](https://qph.cf2.quoracdn.net/main-qimg-5caf2183b70edf8a5a9dd0d333cd7557-pjlq)
+![image](https://qph.cf2.quoracdn.net/main-qimg-5caf2183b70edf8a5a9dd0d333cd7557-pjlq)
 
 The script to verify the transaction and other things is embedded in the message itself. See the locking script and unlocking script part of the message.
 
-> Bitcoin uses a simple, “stack-based”, programming language called Script to implement the locking and unlocking scripts. Using a programming language, even a limited one, to code the locking script, means that it is possible to impose an infinite variety of conditions (or encumbrance) on the UTXO.
+**Bitcoin uses a simple, “stack-based”, programming language called Script to implement the locking and unlocking scripts. Using a programming language, even a limited one, to code the locking script, means that it is possible to impose an infinite variety of conditions (or encumbrance) on the UTXO.**
 
 We also need to understand that bitcoin clients only execute what is ordered in the script part of a transaction and not more. If some non-standard bitcoin client decides to execute something that is not part of the script, it does so on its own peril.
 

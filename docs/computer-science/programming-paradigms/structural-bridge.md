@@ -20,15 +20,15 @@ Thus, we can make Color a separate class with the Red and Blue subclasses. The F
 
 1. When you want to divide a monolithic class that contains several different implementations of some kind of functionality (for example, if the class can work with the different database systems)
 
-The larger the class, the harder it is to understand its code, and the more it drags out the development. In addition, changes made to one of the implementations lead to editing the entire class, which can cause random errors in the code. The bridge allows you to divide a monolithic class into several separate hierarchies. After that you can change their code independently from each other. This simplifies the work on the code and reduces the likelihood of making errors.
+    The larger the class, the harder it is to understand its code, and the more it drags out the development. In addition, changes made to one of the implementations lead to editing the entire class, which can cause random errors in the code. The bridge allows you to divide a monolithic class into several separate hierarchies. After that you can change their code independently from each other. This simplifies the work on the code and reduces the likelihood of making errors.
 
 2. When a class needs to be expanded in two independent planes
 
-The bridge proposes to allocate one of these planes to a separate hierarchy of classes, storing a link to one of its objects in the original class.
+    The bridge proposes to allocate one of these planes to a separate hierarchy of classes, storing a link to one of its objects in the original class.
 
 3. When you want to be able to change the implementation during the execution of the program
 
-The bridge allows you to replace the implementation even during the program execution, since a particular implementation is not included in the abstraction class.
+    The bridge allows you to replace the implementation even during the program execution, since a particular implementation is not included in the abstraction class.
 
 By the way, because of this point Bridge is often confused with Strategy. Note that this function is the lowest on the scale on importance for Bridge, since its main task is structural.
 

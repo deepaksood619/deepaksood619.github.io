@@ -16,7 +16,7 @@ While Ethereum has its own native cryptocurrency (Ether) that follows almost exa
 
 The EVM behaves as a mathematical function would: Given an input, it produces a deterministic output. It therefore is quite helpful to more formally describe Ethereum as having a **state transition function**:
 
-```
+```bash
 Y(S, T)= S'
 ```
 

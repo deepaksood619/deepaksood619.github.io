@@ -2,29 +2,24 @@
 
 ## Design Patterns of Microservices
 
-1. [Aggregator](https://www.edureka.co/blog/microservices-design-patterns#Aggregator) 2. [**API Gateway**](https://www.edureka.co/blog/microservices-design-patterns#APIGateway)
-
+1. [Aggregator](https://www.edureka.co/blog/microservices-design-patterns#Aggregator)
+2. [**API Gateway**](https://www.edureka.co/blog/microservices-design-patterns#APIGateway)
 3. [**Chained or Chain of Responsibility**](https://www.edureka.co/blog/microservices-design-patterns#Chained)
-
-4. [**Asynchronous Messaging**](https://www.edureka.co/blog/microservices-design-patterns#AsynchronousMessaging) 5. [Database or Shared Data](https://www.edureka.co/blog/microservices-design-patterns#Database)
-
+4. [**Asynchronous Messaging**](https://www.edureka.co/blog/microservices-design-patterns#AsynchronousMessaging)
+5. [Database or Shared Data](https://www.edureka.co/blog/microservices-design-patterns#Database)
 6. [Event Sourcing](https://www.edureka.co/blog/microservices-design-patterns#EventSourcing)
-
 7. [Branch](https://www.edureka.co/blog/microservices-design-patterns#Branch)
-
 8. [Command Query Responsibility Segregator](https://www.edureka.co/blog/microservices-design-patterns#CQRS)
-
 9. [Circuit Breaker](https://www.edureka.co/blog/microservices-design-patterns#CircuitBreaker)
-
 10. [Decomposition](https://www.edureka.co/blog/microservices-design-patterns#Decomposition)
 
-  <https://www.edureka.co/blog/microservices-design-patterns>
+<https://www.edureka.co/blog/microservices-design-patterns>
 
-  ![image](../../../media/Microservice-Architecture_Design-Patterns-image1.jpg)
+![image](../../../media/Microservice-Architecture_Design-Patterns-image1.jpg)
 
-    - Decomposition patterns
-      - [Decompose by business capability](https://microservices.io/patterns/decomposition/decompose-by-business-capability.html)
-      - [Decompose by subdomain](https://microservices.io/patterns/decomposition/decompose-by-subdomain.html)
+- Decomposition patterns
+  - [Decompose by business capability](https://microservices.io/patterns/decomposition/decompose-by-business-capability.html)
+  - [Decompose by subdomain](https://microservices.io/patterns/decomposition/decompose-by-subdomain.html)
 
 ## Functional Decomposition
 

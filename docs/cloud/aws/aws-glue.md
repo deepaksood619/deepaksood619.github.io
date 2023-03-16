@@ -220,15 +220,15 @@ docker run -it -e SPARK_HISTORY_OPTS="$SPARK_HISTORY_OPTS -Dspark.history.fs.log
 
 1. **Tried adding hashexpression, hashpartitions with G2, G1 and standard but didn't worked**
 
-`additional_options={"hashexpression":"customer_id","hashpartitions":"10"}`
+    `additional_options={"hashexpression":"customer_id","hashpartitions":"10"}`
 
 2. **Tried raw script with G2 but didn't worked (failed after 4 hours 30 mins)**
 
-`datasource0 = glueContext.create_dynamic_frame.from_catalog(database = "aurora-etl", table_name = "etl_sttash_website_live_userdevicesms", transformation_ctx = "datasource0")`
+    `datasource0 = glueContext.create_dynamic_frame.from_catalog(database = "aurora-etl", table_name = "etl_sttash_website_live_userdevicesms", transformation_ctx = "datasource0")`
 
 3. **Added hashexpression limiting number of rows (failed in 6 minutes)**
 
-`additional_options={"hashexpression":"id > 0 AND column_name < 1000000","hashpartitions":"10"}`
+    `additional_options={"hashexpression":"id > 0 AND column_name < 1000000","hashpartitions":"10"}`
 
 ## Optimization
 
@@ -238,8 +238,6 @@ docker run -it -e SPARK_HISTORY_OPTS="$SPARK_HISTORY_OPTS -Dspark.history.fs.log
 
 <https://thedataguy.in/aws-glue-custom-output-file-size-and-fixed-number-of-files>
 
-Option 1: groupFiles
-
-Option 2: groupFiles while reading from S3
-
-Option 3: Repartition
+- Option 1: groupFiles
+- Option 2: groupFiles while reading from S3
+- Option 3: Repartition

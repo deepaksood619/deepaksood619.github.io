@@ -34,15 +34,15 @@
 - **The income statement,** which reports on how much a business earned in the period of analysis, while providing detail on revenues and expenses
 - **The statement of cash flows,** which reports on cash inflows and outflows for a measure of cash earnings (as opposed to accounting earnings) and cash flows
 
-1. **Balance Sheet**
+### Balance Sheet
 
 ![image](../../media/Accounting-for-Finance_1.-Accounting-First-Steps-image1.jpg)
 
-2. **Income statement**
+### Income statement
 
 ![image](../../media/Accounting-for-Finance_1.-Accounting-First-Steps-image2.jpg)
 
-3. **Statement of Cash Flows**
+### Statement of Cash Flows
 
 ![image](../../media/Accounting-for-Finance_1.-Accounting-First-Steps-image3.jpg)
 

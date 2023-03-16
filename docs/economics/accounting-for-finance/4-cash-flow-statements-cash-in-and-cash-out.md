@@ -13,28 +13,28 @@
 
 ![image](../../media/Accounting-for-Finance_4-Cash-Flow-Statements-Cash-In-and-Cash-Out-image1.jpg)
 
-1. Cash flows from Operations
+### Cash flows from Operations
 
 ![image](../../media/Accounting-for-Finance_4-Cash-Flow-Statements-Cash-In-and-Cash-Out-image2.jpg)
 
-## The working capital effect?
+#### The working capital effect?
 
 - Embedded in the cash flow from operations is the change in working capital items, exclusing cash
   - Non-cash working capital = non-cash current assets - non-debt current liabilities
   - As increase in non-cash working capital will decrease cash flows, whereas a decrease in non-cash working capital will increase cash flows
 - To the extent that non-cash working capital ties up cash and capital, a firm with higher needs for the working capital will have lower cash flows from operations, for any given level of net income, than a firm with lower needs
 
-2. **Cash flows from Investing**
+### Cash flows from Investing
 
 ![image](../../media/Accounting-for-Finance_4-Cash-Flow-Statements-Cash-In-and-Cash-Out-image3.jpg)
 
-## Operating or Non-operating assets
+#### Operating or Non-operating assets
 
 - The investing activities section includes investments in both operating and non-operating assets, except for investment in liquid, close to riskless securities, which is treated as cash & marketable securities
 - The investments into operating assets, whether internal (cap ex, net of divestitures) or external (acquisitions of other companies) are the engine that drives growth in the operating line items (revenues, operating income etc.) Note that acquisitions funded with stock will not show up here for obvious reasons
 - The investments into non-operating assets create a separate source of value, where the payoff will not show up in the operating line items but below the operating income line, as income from cross holdings or securities
 
-3. **Cash flows from Financing**
+### Cash flows from Financing
 
 ![image](../../media/Accounting-for-Finance_4-Cash-Flow-Statements-Cash-In-and-Cash-Out-image4.jpg)
 
