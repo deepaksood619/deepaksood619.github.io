@@ -1,6 +1,5 @@
 # Workflow
 
-
 [Question Detail](https://community.databricks.com/s/question/0D58Y00009dAEFCSA4/schedule-job-to-run-sequentially-after-another-job)
 
 [Orchestrate Databricks jobs with Apache Airflow | Databricks on AWS](https://docs.databricks.com/workflows/jobs/how-to/use-airflow-with-jobs.html)

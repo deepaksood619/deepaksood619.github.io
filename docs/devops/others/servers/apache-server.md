@@ -13,27 +13,23 @@ Also known as HTTPd -- open source web server and extremely customizable
 
 ## Commands
 
+```bash
 apt install apache2
-
 cd /etc/apache2/sites-available/
-
 cp 000-default.conf gci.conf
-
 nano gci.conf
-
 a2ensite gci.conf
-
 service apache2 start
-
 service apache2 reload
-
 nano /etc/apache2/apache2.conf
+```
 
 ## Configs / Commands
 
+```bash
 cat /etc/apache2/mods-available/mpm_prefork.conf
 
-## cat /etc/apache2/apache2.conf
+cat /etc/apache2/apache2.conf
 
 sudo systemctl restart apache2
 
@@ -46,12 +42,10 @@ apachectl configtest
 apachectl -V
 
 sudo apachectl status
-
 sudo apachectl start
-
 sudo apachectl restart
-
 sudo apachectl stop
+```
 
 ## Configs
 
@@ -66,11 +60,11 @@ sudo apachectl stop
 |-- sites-enabled
 |`--*.conf
 
-- **apache2.conf**is the main configuration file. It puts the pieces together by including all remaining configuration files when starting up the web server.
-- **ports.conf**is always included from the main configuration file. It is used to determine the listening ports for incoming connections, and this file can be customized anytime.
-- Configuration files in the**mods-enabled/, conf-enabled/andsites-enabled/**directories contain particular configuration snippets which manage modules, global configuration fragments, or virtual host configurations, respectively.
+- **apache2.conf** is the main configuration file. It puts the pieces together by including all remaining configuration files when starting up the web server.
+- **ports.conf** is always included from the main configuration file. It is used to determine the listening ports for incoming connections, and this file can be customized anytime.
+- Configuration files in the **mods-enabled/, conf-enabled/andsites-enabled/** directories contain particular configuration snippets which manage modules, global configuration fragments, or virtual host configurations, respectively.
 - They are activated by symlinking available configuration files from their respective *-available/ counterparts. These should be managed by using our helpersa2enmod, a2dismod, a2ensite, a2dissite, anda2enconf, a2disconf. See their respective man pages for detailed information.
-- The binary is called apache2. Due to the use of environment variables, in the default configuration, apache2 needs to be started/stopped with/etc/init.d/apache2orapache2ctl.Calling/usr/bin/apache2directly will not workwith the default configuration.
+- The binary is called apache2. Due to the use of environment variables, in the default configuration, apache2 needs to be started/stopped with/etc/init.d/apache2 or apache2ctl. Calling /usr/bin/apache2 directly will not work with the default configuration.
 
 ## Document Roots
 
@@ -92,7 +86,7 @@ Apache's Multi-Processing Modules (MPMs) are responsible for binding to network 
 
 By default mpm is prefork which is thread safe.
 
-1. **Prefork MPM**
+### Prefork MPM
 
 Implements a non-threaded, pre-forking web server that handles requests in a manner similar to Apache 1.3. It is appropriate for sites that need to avoid threading for compatibility with non-thread-safe libraries. It is also the best MPM for isolating each request, so that a problem with a single request will not affect any other.
 
@@ -112,7 +106,7 @@ Because this MPM needs a higher number of processes to handle any given number o
 
 Avoid using MPM Prefork whenever possible. It's inability to scale well with increased traffic will quickly outpace the available hardware on most system configurations.
 
-2. **Worker MPM**
+### Worker MPM
 
 The [workerMPM](http://httpd.apache.org/docs/2.2/mod/worker.html) implements a hybrid multi-process multi-threaded server and gives better performance, hence it should be preferred unless one is using other modules that contain non-thread-safe libraries
 
@@ -132,7 +126,7 @@ Unlike the prefork MPM, the worker MPM enables each child process to serve more 
 
 The KeepAliveTimeOut directive currently defines the amount of time Apache will wait for requests. When utilizing KeepAlive with MPM Worker use the smallest KeepAliveTimeout as possible (1 second preferably).
 
-3. **Event MPM**
+### Event MPM
 
 MPM tries to fix the 'keep alive problem' in HTTP.
 
@@ -150,11 +144,11 @@ A major benefit of the event MPM is that it handles keep-alive connections more 
 
 In the event MPM, a worker thread can write a request to the client, and then pass control of the socket to the listener thread, freeing the worker to address another request. The listener thread assumes control of sockets that don't require immediate action from a worker thread, until it detects an "event" on a socket (e.g. if the client sends a new request on a keep-alive connection, the kernel will create an event to notify the listener that the socket is readable). Once the event is detected, the listener thread will pass it on to the next available idle worker thread.
 
-If theKeepAliveTimeoutis reached before any activity occurs on the socket, the listener thread will close the connection. Also, if any listener thread detects that all worker threads within its process are busy, it will close keep-alive connections, forcing clients to create new connections that can be processed more quickly by other processes' worker threads (although, for the sake of simplicity, we do not show this in the example below). Because the dedicated listener thread helps monitor the lifetime of each keep-alive connection, worker threads that would otherwise have been blocked (waiting for further activity) are instead free to address other active requests.
+If the KeepAliveTimeout is reached before any activity occurs on the socket, the listener thread will close the connection. Also, if any listener thread detects that all worker threads within its process are busy, it will close keep-alive connections, forcing clients to create new connections that can be processed more quickly by other processes' worker threads (although, for the sake of simplicity, we do not show this in the example below). Because the dedicated listener thread helps monitor the lifetime of each keep-alive connection, worker threads that would otherwise have been blocked (waiting for further activity) are instead free to address other active requests.
 
 ![image](../../../media/DevOps-Others-Apache-Server-image3.jpg)
 
-4. There are a number of other experimental MPMs such as Threadpool, Perchild, and Leader.
+There are a number of other experimental MPMs such as Threadpool, Perchild, and Leader.
 
 <https://www.liquidweb.com/kb/apache-performance-tuning-apache-mpm-modules>
 
@@ -181,6 +175,7 @@ To improve Apache's performance, consider migrating to these alternative solutio
 
 - **Workers**
 
+```bash
 sudo ps -y l C apache2 | awk '{x += $8;y += 1} END {print "Apache Memory Usage (MB): "x/1024; print "Average Process Size (MB): "x/((y-1)*1024)}'
 
 MaxRequestWorkers = Baseline Free (with buffer space) / Avg Process Size
@@ -188,18 +183,13 @@ MaxRequestWorkers = Baseline Free (with buffer space) / Avg Process Size
 cat /etc/apache2/mods-available/mpm_prefork.conf
 
 <IfModule mpm_prefork_module>
-
 StartServers 10
-
 MinSpareServers 20
-
 MaxSpareServers 80
-
 MaxRequestWorkers 250
-
 MaxConnectionsPerChild 10000
-
 </IfModule>
+```
 
 - **StartServers** is the number of child processes created upon starting Apache.
 - [**MaxRequestWorkers**](https://httpd.apache.org/docs/2.4/mod/mpm_common.html#maxrequestworkers)(orMaxClientsin versions prior to 2.4) is the maximum number of connections that can be open at one time. Once this limit has been reached, any additional incoming connections are queued. The maximum size of the queue is determined by theListenBacklogsetting (by default 511, though it can be smaller depending on your OS; on Linux, the queue length is limited bynet.core.somaxconn).
@@ -378,7 +368,7 @@ Programs process the request and provide a response and request back to Tomcat, 
 
 ## Varnish
 
-## Varnishis an [HTTP accelerator](https://en.wikipedia.org/wiki/HTTP_accelerator) designed for content-heavy [dynamic web sites](https://en.wikipedia.org/wiki/Dynamic_web_site) as well as APIs. In contrast to other [web accelerators](https://en.wikipedia.org/wiki/Web_accelerator), such as [Squid](https://en.wikipedia.org/wiki/Squid_(software)), which began life as a client-side cache, or [Apache](https://en.wikipedia.org/wiki/Apache_HTTP_server) and [nginx](https://en.wikipedia.org/wiki/Nginx), which are primarily origin servers, Varnish was designed as an HTTP accelerator. Varnish is focused exclusively on [HTTP](https://en.wikipedia.org/wiki/HTTP), unlike other [proxy servers](https://en.wikipedia.org/wiki/Proxy_server) that often support [FTP](https://en.wikipedia.org/wiki/FTP), [SMTP](https://en.wikipedia.org/wiki/SMTP) and other [network protocols](https://en.wikipedia.org/wiki/Network_protocol)
+Varnish is an [HTTP accelerator](https://en.wikipedia.org/wiki/HTTP_accelerator) designed for content-heavy [dynamic web sites](https://en.wikipedia.org/wiki/Dynamic_web_site) as well as APIs. In contrast to other [web accelerators](https://en.wikipedia.org/wiki/Web_accelerator), such as [Squid](https://en.wikipedia.org/wiki/Squid_(software)), which began life as a client-side cache, or [Apache](https://en.wikipedia.org/wiki/Apache_HTTP_server) and [nginx](https://en.wikipedia.org/wiki/Nginx), which are primarily origin servers, Varnish was designed as an HTTP accelerator. Varnish is focused exclusively on [HTTP](https://en.wikipedia.org/wiki/HTTP), unlike other [proxy servers](https://en.wikipedia.org/wiki/Proxy_server) that often support [FTP](https://en.wikipedia.org/wiki/FTP), [SMTP](https://en.wikipedia.org/wiki/SMTP) and other [network protocols](https://en.wikipedia.org/wiki/Network_protocol)
 
 Varnish is used by websites including [Wikipedia](https://en.wikipedia.org/wiki/Wikipedia), online newspaper sites such as [The New York Times](https://en.wikipedia.org/wiki/The_New_York_Times), [The Guardian](https://en.wikipedia.org/wiki/The_Guardian), [Gulf News](https://en.wikipedia.org/wiki/Gulf_News), [The Hindu](https://en.wikipedia.org/wiki/The_Hindu), [Corriere della Sera](https://en.wikipedia.org/wiki/Corriere_della_Sera), social media and content sites such as [Facebook](https://en.wikipedia.org/wiki/Facebook), [Twitter](https://en.wikipedia.org/wiki/Twitter), [Reddit](https://en.wikipedia.org/wiki/Reddit), Spotify, [Vimeo](https://en.wikipedia.org/wiki/Vimeo), and [Tumblr](https://en.wikipedia.org/wiki/Tumblr). In 2012, 5% of the top 10,000 sites in the web used the software.
 

@@ -1,6 +1,6 @@
 # Course - Mindshift
 
-1. **Change is Possible**
+## Change is Possible
 
 In today's world, change is the only constant. This means that whatever stage you are in life, you need to keep yourself open and able to change. How can you do this? In three ways: Learn more about your hidden capabilities and assets. Learn more about learning effectively. Learn about matching your assets with the opportunities that face you. In this week, we'll dive into these three important areas!
 
@@ -17,7 +17,7 @@ In today's world, change is the only constant. This means that whatever stage yo
 
 A lot of people don't agree. They believe that people can change. Well, I believe that too. **But we simply can't sit and wait until people change some day.**
 
-2. **Getting Deeper into Happy Learning**
+## Getting Deeper into Happy Learning
 
 Key to your ability to mindshift is being able to learn effectively. This week, we'll dive deeper into this vital area. Getting yourself motivated to tackle procrastination can sometimes be a challenge in learning, so we'll give you some important tips here. But we'll also give insights into mental tricks to help you focus, relax, and reframe if stress intrudes. We'll also show you how to avoid common learning pitfalls.
 
@@ -36,7 +36,7 @@ Key to your ability to mindshift is being able to learn effectively. This week, 
 
 If you feel an emotion try to put a label on that emotion, so that it can move from our Amygdala to Prefrontal Cortex (rational cognition) where we can think about it rationally
 
-## Cognitive distortions
+### Cognitive distortions
 
 - All or nothing thinking
 - Magnification
@@ -56,7 +56,7 @@ If you feel an emotion try to put a label on that emotion, so that it can move f
 
 - Integrate all your senses into learning - The pitfalls of "Learning Styles"
 
-3. **Learning and Careers**
+## Learning and Careers
 
 This week, we'll be talking about how your own career can develop and change through your life. Your own internal feelings about what you want to do can play a critical role in your long-term happiness. But society and culture can also have a dramatic effect on your career choices and decisions - as can your parents, family, and friends. We'll talk about second-skilling yourself, and developing a talent stack of average talents that can combine into a formidable asset. We'll also talk about various tactics and techniques to help you survive career changes and upheavals.
 
@@ -70,7 +70,7 @@ This week, we'll be talking about how your own career can develop and change thr
 - Attention deficit order
 - It'sneveras bad as you think it is at the time, and there is always a silver lining -- The Golden rule of career catastrophes
 
-4. **Adopting a Learning Lifestyle**
+## Adopting a Learning Lifestyle
 
 In this final week of the course, we'll be exploring how and why to keep yourself in "mindshift" mode. We'll give you all sorts of insider tips on how to pick out the best online learning with materials that are right for you. And we'll also talk about other ways of learning - ways that can make you "the smartest person in the room." Disruption lies ahead in the world - this week, we'll help you seize the advantage.
 

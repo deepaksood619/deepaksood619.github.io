@@ -164,11 +164,9 @@ Keep tabs on action items.Assign someone to check in at appropriate intervals af
 13. Sprint Planning - What has to be done and how it has to be done
 14. Daily scrum - 15 min time box event. Plan for 24 hours.
 
-- **What did you did yesterday** to help our team to meet our sprint goal.
-
-- **What you will do today** that will help our team to meet our sprint goal
-
-- Do I see any **impediments or blockers** that will stop meeting the sprint goal
+    - **What did you did yesterday** to help our team to meet our sprint goal.
+    - **What you will do today** that will help our team to meet our sprint goal
+    - Do I see any **impediments or blockers** that will stop meeting the sprint goal
 
 15. Sprint Review - demonstrate the work done
 16. Retrospective - Creates improvement plan for next sprint

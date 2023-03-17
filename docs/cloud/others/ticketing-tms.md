@@ -130,57 +130,57 @@ QRC - Query / Request / Complaint
 
 ## How to handle support tickets
 
-1. Get details on the case
+### Get details on the case
 
-2. Set status
-    - Open
+### Set status
+
+#### Open
 
 When a new ticket is created in the ticketing system, it gets an "Open" status. Tickets with an "Open" status should be answered as soon as possible. This status means that no agent has yet addressed the customer's case, and they're still waiting for your response. Respond to the customer to let them know that you're on your way to take care of their case.
 
-- Pending
+#### Pending
 
 When you respond to an open ticket, its status will automatically change to "Pending." Tickets get a "Pending" status whenever you're waiting for a response from a customer or additional input or information so that you can proceed. If the customer responds, the ticket will go back to "Open" status.
 
-- On hold
+#### On hold
 
 A ticket with an "On hold" status is a case that cannot be completed right away. This means that the customer service agent needs to consult with someone on the team or another department about the issue. Select the "On hold" status to ensure you get back to the customer when you have the answer and the best solution.
 
-- Solved
+#### Solved
 
 Mark a ticket as "Solved" when you're 100% sure that you've provided the customer with the necessary answers and left them satisfied with the outcome of the conversation. After that, move on because many other cases need to end up with this status in your ticketing software.
 
-- Closed
+#### Closed
 
 There can be times when someone sends you a collaboration proposal or a message with information that isn't a question or challenge for your team. You can briefly reply to such requests, and then mark them as "Closed." This way, the issue has been resolved, and you won't send an [automated feedback request](https://www.helpdesk.com/help/automated-workflows/) again.
 
-- Spam
+#### Spam
 
 The "Spam" status is reserved for malicious or other unnecessary messages you don't need to deal with.
 
-3. Set the priority
-    - Urgent
-    - High
-    - Medium
-    - Low
+### Set the priority
+
+- Urgent
+- High
+- Medium
+- Low
 
 ![image](../../media/Cloud-Others-Ticketing-TMS-image1.jpg)
 
-4. Tag the case
+### Tag the case
 
-5. Add the responsible team
+### Add the responsible team
 
-6. Choose the right agent
+### Choose the right agent
 
-7. Add other people involved in the case
+### Add other people involved in the case
 
-8. Respond to the ticket
+### Respond to the ticket
 
 ## Strategies to assign tickets to agents
 
 1. Manual assignment
-
 2. Supervisor assignment
-
 3. Automated assignment
 
 <https://www.liveagent.com/academy/ticketing-system-best-practices>

@@ -117,28 +117,20 @@ Two main components needed for the gRPC client-side load balancing to work
 ## Limitations
 
 1. grpc server not available in php
-    - Spiral framework
 
-<https://spiral.dev>
+    - Spiral framework - <https://spiral.dev>
 
 2. Load Balancing
-
 3. Error handling is really bad
-
 4. No support for browser JS
-
 5. Breaking API changes
-
 6. Poor documentation for some languages
-
 7. No standardization across languages
 
 ## Development Flow
 
 1. Define the API in "language agnostic" proto sources
-
 2. Implement server
-
 3. Implement clients
 
 ## Architecture

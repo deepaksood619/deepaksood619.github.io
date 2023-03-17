@@ -4,110 +4,109 @@
 
 ## Types of numbers
 
-1. Natural numbers (N) - 1,2,3, ...
+### Natural numbers (N) - 1,2,3
 
 The counting numbers
-2. Whole numbers - 0,1,2,3, ...
+
+### Whole numbers - 0,1,2,3
 
 The counting numbers including 0
-3. Integer numbers (Z) - ... ,-3,-2,-1,0,1,2,3, ...
+
+### Integer numbers (Z) - ... ,-3,-2,-1,0,1,2,3
 
 Positive and negative counting numbers as well as 0
 
 1. Even and odd integers
-
 2. Prime number
-
 3. Composite number
-
 4. Polygonal numbers
-4. Rational numbers (Q) -
+
+### Rational numbers (Q)
 
 The numbers that can be represented as ratio of an integer to a non-zero integer.
 
 All integers are rational but the converse is not true.
-5. Real numbers (R) -
+
+### Real numbers (R)
 
 Numbers that have decimal representations that have a finite or infinite sequence of digits to the right of the decimal point. They can be positive, negative, or zero. All rational numbers are real, but the converse is not true.
-6. Irrational numbers (I) -
+
+### Irrational numbers (I)
 
 Real numbers that are not rational
-7. Imaginary numbers -
 
-Numbers that equal the product of a real number and the square root of --1. The number 0 is both real and imaginary.
-8. Complex numbers (C) -
+### Imaginary numbers
+
+Numbers that equal the product of a real number and the square root of -1. The number 0 is both real and imaginary.
+
+### Complex numbers (C)
 
 Includes real numbers, imaginary numbers, and sums and differences of real and imaginary numbers.
 
-## Algebraic Numbers
-
-1. Algebraic numbers
+#### Algebraic Numbers
 
 Any number that is the [root](https://en.wikipedia.org/wiki/Root_of_a_function) of a non-zero [polynomial](https://en.wikipedia.org/wiki/Polynomial) with rational coefficients.
 
-2. Transcendental number
+#### Transcendental number
 
 Any real or complex number that is not algebraic. Examples include [*e*](https://en.wikipedia.org/wiki/E_(mathematical_constant)) and [*π*](https://en.wikipedia.org/wiki/Pi).
 
-3. Trignometric number
+#### Trignometric number
 
 Any number that is the sine or cosine of a rational multiple of pi.
 
-4. Quadratic surd
+#### Quadratic surd
 
 An algebraic number that is the root of a [quadratic equation](https://en.wikipedia.org/wiki/Quadratic_equation). Such a number can be expressed as the sum of a rational number and the [square root](https://en.wikipedia.org/wiki/Square_root) of a rational.
 
-5. Constructible number
+#### Constructible number
 
 A number representing a length that can be constructed using a [compass and straightedge](https://en.wikipedia.org/wiki/Compass_and_straightedge_constructions). These are a [subset](https://en.wikipedia.org/wiki/Subset) of the algebraic numbers, and include the quadratic surds.
 
-6. Algebraic integer
+#### Algebraic integer
 
 An algebraic number that is the root of a [monic polynomial](https://en.wikipedia.org/wiki/Monic_polynomial) with integer coefficients.
-9. Hypercomplex numbers -
+
+### Hypercomplex numbers
 
 include various number-system extensions:[quaternions](https://en.wikipedia.org/wiki/Quaternion)(H), [octonions](https://en.wikipedia.org/wiki/Octonion)(O), [sedenions](https://en.wikipedia.org/wiki/Sedenion)(S), [tessarines](https://en.wikipedia.org/wiki/Tessarine), [coquaternions](https://en.wikipedia.org/wiki/Coquaternion), and [biquaternions](https://en.wikipedia.org/wiki/Biquaternion).
-10. p-adic numbers -
+
+### p-adic numbers
 
 Various number systems constructed using limits of rational numbers, according to notions of "limit" different from the one used to construct the real numbers.
 
 ## Number Representations
 
 1. Decimal
-
 2. Binary
-
 3. Roman numerals
-
 4. Fractions
-
 5. Scientific notation
-
 6. Knuth's up-arrow notation and Conway chained arrow notation
 
 ## Non Standard Numbers
 
-1. Transfinite numbers
+### Transfinite numbers
 
 Numbers that are greater than any natural number.
 
-2. Ordinal number
+### Ordinal number
 
 Finite and infinite numbers used to describe the [order type] of [well-ordered sets](https://en.wikipedia.org/wiki/Well-ordered_set).
 
-3. Cardinal numbers
+### Cardinal numbers
 
 Finite and infinite numbers used to describe the [cardinalities](https://en.wikipedia.org/wiki/Cardinality) of [sets](https://en.wikipedia.org/wiki/Set_(mathematics)).
 
-4. Infinitesimals
+### Infinitesimals
 
 Nilpotent numbers. These are smaller than any positive real number, but are nonetheless greater than zero. These were used in the initial development of [calculus](https://en.wikipedia.org/wiki/Calculus), and are used in [synthetic differential geometry](https://en.wikipedia.org/wiki/Synthetic_differential_geometry).
 
-5. Hyperreal numbers
+### Hyperreal numbers
 
 The numbers used in [non-standard analysis](https://en.wikipedia.org/wiki/Non-standard_analysis). These include infinite and infinitesimal numbers which possess certain properties of the real numbers.
 
-6. Surreal numbers
+### Surreal numbers
 
 A number system that includes the hyperreal numbers as well as the ordinals. The surreal numbers are the largest possible [ordered field](https://en.wikipedia.org/wiki/Ordered_field).
 

@@ -224,19 +224,19 @@ Sprint review and retrospective helps the team to inspect itself and plan to mak
 
 ## Agile Project Management Frameworks
 
-1. **Kanban**
+### Kanban
 
 Kanban framework is used to implement agile software development and requires real-time communication. Work items are represented on a Kanban board, allowing team members to see the state of each work at any time
 
-2. **Scrum Framework**
+### Scrum Framework
 
 Scrum framework helps in dealing with complex problems and making it possible to deliver high-quality products at the same time. It helps in managing complex, advanced work with a little emphasis on software development
 
-3. **Hybrid framework**
+### Hybrid framework
 
 Hybrid framework is a combination of Agile methods with non-Agile methods. Hybrid can handle requirement changes, and it can deliver product in stages. In hybrid, planning is done using a waterfall approach, while the agile approach handles execution and delivery
 
-4. **Lean framework**
+### Lean framework
 
 The lean framework works on the concept of maximizing customer value with fewer resources and zero waste. Hence, lean focuses on the flow of products and services instead of focusing on separate technologies. Companies can act upon with changing customer needs and requirements
 

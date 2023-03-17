@@ -2,7 +2,7 @@
 
 ## Deep Learning Frameworks
 
-1. mxNet
+### mxNet
 
 A scalable deep learning framework. Extremely fast and efficient. Capable of scaling across multiple GPUs and multiple machines.
 
@@ -20,12 +20,13 @@ Model Server for Apache MXNet (MMS) is a flexible and easy to use tool for servi
 
 <https://github.com/awslabs/mxnet-model-server>
 
-2. Pytorch
+### Pytorch
 
 PyTorch ( Tensors and Dynamic neural netwoks in Python with strong GPU acceleration)
 
-3. Keras
-    - High-level neural networks API. Makes coding, training, and deploying neural networks incredibly easy with its scikit-learn style API.
+### Keras
+
+- High-level neural networks API. Makes coding, training, and deploying neural networks incredibly easy with its scikit-learn style API.
 
 Keras is a high-level neural networks API, written in Python and capable of running on top of [TensorFlow](https://github.com/tensorflow/tensorflow), [CNTK](https://github.com/Microsoft/cntk), or [Theano](https://github.com/Theano/Theano). It was developed with a focus on enabling fast experimentation.Being able to go from idea to result with the least possible delay is key to doing good research.
 
@@ -37,8 +38,9 @@ Use Keras if you need a deep learning library that:
 
 <https://keras.io>
 
-4. TensorFlow
-    - Open source machine learning library. Often used for neural networks, deep learning, and as a computational backend for Keras.
+### TensorFlow
+
+Open source machine learning library. Often used for neural networks, deep learning, and as a computational backend for Keras.
 
 ## Differences
 
@@ -57,7 +59,7 @@ Use Keras if you need a deep learning library that:
 
 Python package built to ease deep learning on graph, on top of existing DL frameworks.
 
-## Deep Graph Library (DGL) is a Python package built for easy implementation of graph neural network model family, on top of existing DL frameworks (currently supporting PyTorch, MXNet and TensorFlow). It offers a versatile control of message passing, speed optimization via auto-batching and highly tuned sparse matrix kernels, and multi-GPU/CPU training to scale to graphs of hundreds of millions of nodes and edges
+Deep Graph Library (DGL) is a Python package built for easy implementation of graph neural network model family, on top of existing DL frameworks (currently supporting PyTorch, MXNet and TensorFlow). It offers a versatile control of message passing, speed optimization via auto-batching and highly tuned sparse matrix kernels, and multi-GPU/CPU training to scale to graphs of hundreds of millions of nodes and edges
 
 ![image](../../media/Libraries-image1.jpg)
 
@@ -71,34 +73,36 @@ Python package built to ease deep learning on graph, on top of existing DL frame
 
 ## Libraries
 
-1. dlib
-    - Implementations of state-of-the-art CV and ML algorithms (including face recognition)
-    - Dlib is a modern C++ toolkit containing machine learning algorithms and tools for creating complex software in C++ to solve real world problems. It is used in both industry and academia in a wide range of domains including robotics, embedded devices, mobile phones, and large high performance computing environments.
+### dlib
 
-2. scikit-image
-    - Collection of algorithms for image processing. Contains some algorithm implementations that OpenCV does not.
+- Implementations of state-of-the-art CV and ML algorithms (including face recognition)
+- Dlib is a modern C++ toolkit containing machine learning algorithms and tools for creating complex software in C++ to solve real world problems. It is used in both industry and academia in a wide range of domains including robotics, embedded devices, mobile phones, and large high performance computing environments.
 
-3. SimpleCV
+### scikit-image
+
+- Collection of algorithms for image processing. Contains some algorithm implementations that OpenCV does not.
+
+### SimpleCV
 
 <http://simplecv.org>
 
-4. Imbalanced-learn - ML
+### Imbalanced-learn - ML
 
-<https://pypi.org/project/imbalanced-l>...
+<https://pypi.org/project/imbalanced-l>
 
-5. Theano - deep learning library
+### Theano - deep learning library
 
 <http://deeplearning.net/software/theano>
 
-6. LightGBM - machine learning
+### LightGBM - machine learning
 
 <https://github.com/microsoft/LightGBM>
 
-7. Eli5 - machine learning
+### Eli5 - machine learning
 
 <https://pypi.org/project/eli5>
 
-8. PyMC3 - Probabilistic Programming in Python
+### PyMC3 - Probabilistic Programming in Python
 
 <https://docs.pymc.io>
 
@@ -108,7 +112,7 @@ FastText is an open-source, free, lightweight library that allows users to learn
 
 ## CMU Sphinx
 
-## CMU Sphinx, also called Sphinx in short, is the general term to describe a group of [speech recognition](https://en.wikipedia.org/wiki/Speech_recognition) systems developed at [Carnegie Mellon University](https://en.wikipedia.org/wiki/Carnegie_Mellon_University). These include a series of speech recognizers (Sphinx 2 - 4) and an [acoustic model](https://en.wikipedia.org/wiki/Acoustic_Model) trainer (SphinxTrain)
+CMU Sphinx, also called Sphinx in short, is the general term to describe a group of [speech recognition](https://en.wikipedia.org/wiki/Speech_recognition) systems developed at [Carnegie Mellon University](https://en.wikipedia.org/wiki/Carnegie_Mellon_University). These include a series of speech recognizers (Sphinx 2 - 4) and an [acoustic model](https://en.wikipedia.org/wiki/Acoustic_Model) trainer (SphinxTrain)
 
 ## SymPy
 
@@ -185,7 +189,6 @@ Genie is a completely open source distributed job orchestration engine developed
 <https://netflix.github.io/genie>
 
 1. Stochastic Gradient Descent
-
 2. Backpropogation
 
 ## Monotonic AI Models
