@@ -23,6 +23,10 @@ Youtube - whiteboardcrypto
 
 [GitHub - coderplex-org/awesome-blockchain: A curated list of awesome Blockchain, Bitcoin and Ethereum related resources](https://github.com/coderplex-org/awesome-blockchain)
 
+[GitHub - dylanhogg/crazy-awesome-crypto: A list of awesome crypto and blockchain projects - A list of 4444 crypto project repos ordered by stars.](https://github.com/dylanhogg/crazy-awesome-crypto)
+
+[GitHub - LukasMasuch/best-of-crypto: 🏆 A ranked list of awesome open-source crypto projects. Updated weekly.](https://github.com/LukasMasuch/best-of-crypto)
+
 [GitHub - hitripod/awesome-blockchain: Curated list of blockchain, Awesome Awesomeness](https://github.com/hitripod/awesome-blockchain)
 
 [ETH.BUILD - YouTube](https://www.youtube.com/playlist?list=PLJz1HruEnenCXH7KW7wBCEBnBLOVkiqIi)
@@ -42,3 +46,9 @@ Youtube - whiteboardcrypto
   - [transactions - What would happen if a portion of the Bitcoin network was separated from the rest of the network? - Bitcoin Stack Exchange](https://bitcoin.stackexchange.com/questions/1738/what-would-happen-if-a-portion-of-the-bitcoin-network-was-separated-from-the-res)
   - [blockchain - Countrywide Internet isolation, inevitable fork - Bitcoin Stack Exchange](https://bitcoin.stackexchange.com/questions/12207/countrywide-internet-isolation-inevitable-fork)
   - [consensus - Network partitioning and FINALITY - Ethereum Stack Exchange](https://ethereum.stackexchange.com/questions/139360/network-partitioning-and-finality?rq=1)
+
+## Presentations
+
+[Melanie Swan presentations | SlideShare](https://www.slideshare.net/lablogga/presentations)
+
+[The Business Blockchain | SlideShare](https://www.slideshare.net/wmougayar/presentations)

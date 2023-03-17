@@ -47,6 +47,8 @@ Since the value of many transactions on Ethereum are small, ether has several de
 | Wei | 10<sup>-18</sup> | Technical implementations |
 | Gwei | 10<sup>-9</sup> | Human-readable gas fees |
 
+[Calculate and Convert Wei, Gwei, and ETH - Alchemy](https://www.alchemy.com/gwei-calculator)
+
 ## Transferring ether
 
 Each transaction on Ethereum contains a `value` field, which specifies the amount of ether to be transferred, denominated in wei, to send from the sender's address to the recipient address.

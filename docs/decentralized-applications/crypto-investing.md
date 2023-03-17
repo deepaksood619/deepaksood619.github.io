@@ -59,6 +59,7 @@ The Top Three Highest Ranking Crypto Websites on Alexa
 - [Guide to DUSD: Earn Negative Interest of Up to -66.6% on DUSD](https://blog.defichain.com/earn-returns-with-negative-interest-rates/)
 - [Liquid Staking for Digital Assets](https://lido.fi/)
 - [RBX: The pinnacle of decentralized finance apps. Defi 2.0](https://rbxdefi.com/)
+- [Zilliqa | Build your future with our native token](https://www.zilliqa.com/what-is-zil)
 
 ## Pros
 

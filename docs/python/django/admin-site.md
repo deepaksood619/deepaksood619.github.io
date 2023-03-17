@@ -151,10 +151,4 @@ React admin - <https://github.com/marmelab/react-admin>
 
 ## Others
 
-<https://awesomeopensource.com>
-
-<https://github.com/sindresorhus/awesome>
-
-## Others
-
 <https://realpython.com/manage-users-in-django-admin>

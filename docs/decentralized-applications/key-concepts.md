@@ -1,5 +1,11 @@
 # Key Concepts
 
+## Web3 Architecture
+
+[The Architecture of a Web 3.0 application](https://www.preethikasireddy.com/post/the-architecture-of-a-web-3-0-application)
+
+![Web3 Architecture](../media/Pasted%20image%2020230316210821.png)
+
 ## Trapdoor function
 
 A trapdoor function is a function that is easy to compute in one direction but difficult to compute in the opposite direction unless you have special information. Trapdoor functions are essential for public key encryption - that's why they are commonly used in blockchain development to represent the ideas of addresses and private keys.

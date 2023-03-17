@@ -128,7 +128,7 @@ Open two instance of same application - **open -n MQTT.fx.app**
 - YouTube NonStop
 - Duplicate Tab shortcut
   - Duplicate the current tab - ctrl + d
-  - New tab to the right - ctrl + shift + d
+  - New tab to the right - cmd + t
 
 #### Others
 

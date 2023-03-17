@@ -28,3 +28,33 @@
 - [PySpark – pivot() (Row to Column)](https://sparkbyexamples.com/pyspark/pyspark-pivot-and-unpivot-dataframe/)
 - [PySpark – partitionBy()](https://sparkbyexamples.com/pyspark/pyspark-partitionby-example/)
 - [PySpark – MapType (Map/Dict)](https://sparkbyexamples.com/pyspark/pyspark-maptype-dict-examples/)
+
+```python
+# Copy pyspark.sql.dataframe.DataFrame to another dataframe
+df_copy = df.alias('df')
+
+# Subtract two pyspark.sql.dataframe.DataFrame
+diff_df = df.subtract(df_copy)
+diff_df.display()
+
+result_df = df.where(df["id"].isin(['5edc8f7d-0036-4910-84c4-48d46f7eeb04']))
+result_df.display()
+```
+
+## Spark DataFrame vs Pandas DataFrame
+
+| Spark DataFrame | Pandas DataFrame |
+| :---: | :---: |
+| Spark DataFrame supports parallelization.  | Pandas DataFrame does not support parallelization.  |
+| Spark DataFrame has Multiple Nodes. | Pandas DataFrame has a Single  Node. |
+| It follows Lazy Execution which means that a task is not executed until an action is performed. | It follows Eager Execution, which means task is executed immediately. |
+| Spark DataFrame is Immutable. | Pandas DataFrame is Mutable. |
+| Complex operations are difficult to perform as compared to Pandas DataFrame. | Complex operations are easier to perform as compared to Spark DataFrame. |
+| Spark DataFrame is distributed and hence processing in the Spark DataFrame is faster for a large amount of data. | Pandas DataFrame is not distributed and hence processing in the Pandas DataFrame will be slower for a large amount of data. |
+| sparkDataFrame.count() returns the number of rows. | pandasDataFrame.count() returns the number of non NA/null observations for each column. |
+| Spark DataFrames are excellent for building a scalable application. | Pandas DataFrames can’t be used to build a scalable application. |
+| Spark DataFrame assures fault tolerance. | Pandas DataFrame does not assure fault tolerance. We need to implement our own framework to assure it. |
+
+[Difference Between Spark DataFrame and Pandas DataFrame - GeeksforGeeks](https://www.geeksforgeeks.org/difference-between-spark-dataframe-and-pandas-dataframe/)
+
+[Pandas vs PySpark DataFrame With Examples - Spark By {Examples}](https://sparkbyexamples.com/pyspark/pandas-vs-pyspark-dataframe-with-examples/)

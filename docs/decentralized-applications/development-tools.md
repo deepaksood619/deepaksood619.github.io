@@ -38,3 +38,5 @@ Ocean provides the next generation of tools to unlock data at a large scale. Oce
 - [Alchemy - the web3 development platform](https://www.alchemy.com/)
   - [Learn: Alchemy Road to Web3](https://www.youtube.com/playlist?list=PLMj8NvODurfEYLsuiClgikZBGDfhwdcXF)
   - [Web3 Tutorials Overview](https://docs.alchemy.com/docs)
+- [Hardhat | Ethereum development environment for professionals by Nomic Foundation](https://hardhat.org/)
+- [Sign-In with Ethereum](https://login.xyz/)

@@ -13,26 +13,62 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "technologies/apache/apache-spark/09-dataframe.md",
+                "file": "technologies/apache/databricks/99-others.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "eaac7825207a1d90",
+            "id": "d1aa618e60e0b98d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "algorithms/algorithmic-complexity/turing-vs-non-turing-machine.md",
+                "file": "technologies/apache/databricks/04-workflow.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ce1b014ba1ff244f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ai/courses/others-resources-interview.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fdceb16abcc6fbf9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "office/personality/emails-templates-general.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4e8dd2017b34044b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "decentralized-applications/tools.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -61,7 +97,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "google sheets",
+                "query": "\"ens\"",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -106,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "algorithms/algorithmic-complexity/turing-vs-non-turing-machine.md",
+                "file": "office/personality/emails-templates-general.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "algorithms/algorithmic-complexity/turing-vs-non-turing-machine.md",
+                "file": "office/personality/emails-templates-general.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "algorithms/algorithmic-complexity/turing-vs-non-turing-machine.md"
+                "file": "office/personality/emails-templates-general.md"
               }
             }
           },
@@ -196,46 +232,46 @@
   },
   "active": "978fd2faf621af33",
   "lastOpenFiles": [
-    "technologies/apache/apache-spark/11-built-in-functions.md",
-    "technologies/apache/apache-spark/09-dataframe.md",
-    "economics/accounting-for-finance/4-cash-flow-statements-cash-in-and-cash-out.md",
-    "technologies/apache/apache-spark/10-sql-functions-datasources.md",
-    "technologies/apache/apache-spark/readme.md",
-    "technologies/apache/apache-spark/99-others.md",
-    "technologies/apache/apache-spark/08-examples.md",
-    "technologies/apache/apache-spark/00-intro.md",
-    "technologies/apache/apache-spark/02-spark-modules.md",
-    "technologies/apache/apache-spark/01-terms.md",
-    "office/cakedefi/sql-queries.md",
-    "devops/ides/others.md",
-    "computer-science/courses/microsoft-excel-google-sheets.md",
-    "computer-science/courses/mordern-algorithm-design.md",
-    "languages/sql/sql-joins.md",
-    "languages/sql/dql-data-query-language/aggregation-analytical-queries-sql-analytics.md",
-    "languages/sql/dql-data-query-language/readme.md",
-    "office/keep/family-other-accounts.md",
-    "office/keep/asha-maa.md",
-    "languages/sql/others.md",
-    "databases/others/technologies-tools.md",
+    "decentralized-applications/ethereum/readme.md",
+    "decentralized-applications/ethereum/30-bridges.md",
+    "ai/courses/readme.md",
+    "ai/courses/professional-data-engineer-pde.md",
+    "media/Screenshot 2023-03-17 at 7.43.56 PM.png",
+    "psychology/soft-skills/disagreement-feedback.md",
+    "about-me/ideas/improvements-feedbacks.md",
+    "media/Screenshot 2023-03-17 at 3.16.48 PM.png",
+    "media/Screenshot 2023-03-17 at 7.36.20 PM.png",
+    "media/Screenshot 2023-03-17 at 7.23.56 PM.png",
+    "media/Screenshot 2023-03-17 at 7.23.13 PM.png",
+    "office/personality/emails-templates-general.md",
+    "office/personality/profiles.md",
+    "cloud/others/bigquery-big-query.md",
+    "ai/courses/others-resources-interview.md",
+    "technologies/apache/databricks/99-others.md",
+    "technologies/apache/databricks/10-medallion-architecture.md",
+    "technologies/apache/databricks/03-optimizations.md",
+    "technologies/apache/databricks/04-workflow.md",
+    "technologies/apache/databricks/02-databricks-getting-started.md",
+    "technologies/apache/databricks/readme.md",
+    "technologies/apache/databricks/01-databricks.md",
     "office/cakedefi/todo.md",
-    "office/cakedefi/infra-hr.md",
-    "office/keep/neha.md",
-    "office/personality/neha.md",
-    "devops/ides/youtube-podcasts-magazine-apps.md",
+    "office/cakedefi/architecture.md",
+    "decentralized-applications/ethereum/others.md",
+    "office/keep/deepak-banks.md",
+    "knowledge/quotes-proverbs/tatoos-quotes.md",
+    "devops/ides/mac.md",
+    "technologies/apache/apache-spark/09-dataframe.md",
+    "office/blocktoons/infra.md",
+    "office/cakedefi/infra.md",
+    "media/Pasted image 20230316224409.png",
+    "media/Pasted image 20230316224403.png",
+    "media/Pasted image 20230316224357.png",
+    "media/Pasted image 20230316210821.png",
     "media/Authentication_OpenID-image3.jpg",
-    "media/Screenshot 2023-03-14 at 4.26.26 PM.png",
-    "media/Screenshot 2023-03-14 at 4.26.52 PM.png",
-    "office/media/cakepoolprod-public.png",
-    "office/media/cakepoolprod - public.png",
-    "office/media/Pasted image 20230313181505.png",
-    "media/Pasted image 20230313181505.png",
-    "media/Pasted image 20230308224127.png",
-    "media/Pasted image 20230308224022.png",
     "decentralized-applications/coins-tokens-chains",
     "Untitled",
     "technologies/apache/databricks",
     "databricks",
-    "media/Pasted image 20230307111436.png",
     "about-me/projects",
     "psychology/soft-skills/psychology/soft-skills",
     "psychology/soft-skills/psychology",

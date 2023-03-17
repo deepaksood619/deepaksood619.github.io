@@ -96,6 +96,8 @@ Medium Daily Digest
 
 ## Repositories
 
+<https://awesomeopensource.com>
+
 <https://github.com/sindresorhus/awesome>
 
 <https://github.com/EbookFoundation/free-programming-books>

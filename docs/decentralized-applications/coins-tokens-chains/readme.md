@@ -119,6 +119,7 @@ Here are the top tokens (according to Coingecko) you can find on the crypto mark
   - [DeFiChain Whitepaper](https://defichain.com/white-paper/)
 - Arbitrum
 - Polygon
+- [Zilliqa blockchain](https://www.zilliqa.com/what-is-zil)
 
 ### Chain Sizes
 

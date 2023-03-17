@@ -97,7 +97,7 @@ In short, gas fees help keep the Ethereum network secure. By requiring a fee for
 
 Although a transaction includes a limit, any gas not used in a transaction is returned to the user (i.e. `max fee - (base fee + tip)` is returned).
 
-![Diagram showing how unused gas is refunded](https://ethereum.org/static/c3638b26a1210d2c73a7ec2335c57351/302a4/gas-tx.jpg)
+![Diagram showing how unused gas is refunded](../../media/Pasted%20image%2020230316224409.png)
 
 ## What is gas limit?
 

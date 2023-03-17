@@ -14,7 +14,11 @@ Phygital
 
 The more participants you actually have in the decentralized network, the more stable the entire cryptocurrency is going to be.
 
-Timechain - [https://blog.goodaudience.com/timechain-a-decade-of-misunderstanding-blockchain-bcb56d7839a3](https://blog.goodaudience.com/timechain-a-decade-of-misunderstanding-blockchain-bcb56d7839a3)
+#### Timechain
+
+[https://blog.goodaudience.com/timechain-a-decade-of-misunderstanding-blockchain-bcb56d7839a3](https://blog.goodaudience.com/timechain-a-decade-of-misunderstanding-blockchain-bcb56d7839a3)
+
+[The Blockchain Timeline. A history of blockchain technology that… | by Madeline Mann | Gem HQ](https://blog.gem.co/the-blockchain-timeline-3fdffe281378)
 
 ## What problem does blockchain solves
 

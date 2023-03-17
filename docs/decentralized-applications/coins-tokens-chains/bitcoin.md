@@ -35,7 +35,11 @@ Lightning Network is a second-layer network that transmits signed, but unbroadca
 
 The Bitcoin Lightning Network is another project being worked on as a second-layer protocol that intends to take transactions off-chain for the purpose of speeding up the network.
 
-## How BLN work?
+[Lightning Network](https://lightning.network/)
+
+[What is Lightning Network? | How Do Bitcoin and Crypto Work? | Get Started with Bitcoin.com](https://www.bitcoin.com/get-started/what-is-lightning-network/)
+
+### How BLN work?
 
 The Lightning Network uses a network of nodes that hold funds in multi-sig wallets ("channels") and exchange signed, but unbroadcast, transactions.
 

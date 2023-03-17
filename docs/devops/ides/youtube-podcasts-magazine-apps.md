@@ -25,6 +25,7 @@
 - Domain of Science
 - Unacademy
 - DW Documentary
+- [Free High-Quality Documentaries - YouTube](https://www.youtube.com/@FreeHighQualityDocumentaries)
 - B1M
 - Discovery
 - Discovery+
@@ -156,21 +157,22 @@
 
 ### Crypto
 
-1. [**Jacob Crypto Bury**](https://m.youtube.com/c/JacobCryptoBury) - Overall Best Crypto YouTube Channel
-2. **Coin Bureau** - YouTube Channel to Follow for Crypto Fundamental Analysis
-3. **BitBoy Crypto** - Popular Cryptocurrency YouTube Channel Offering Investment Tips
-4. **Benjamin Cowen** - Best Channel for Crypto Technical Traders
-5. **Altcoin Daily** - Get Daily Crypto Market Updates
-6. **Crypto Banter** - Top YouTube Account for Crypto Beginners
-7. **CryptoRUs** -  YouTube Channel Offering Crypto Trading Insights
-8. **99Bitcoins** - Crypto Channel With Top-Notch Educational Content
-9. **Sheldon Evans** - Popular Crypto Influencer With Engaging Videos
-10. **Kitco News -** YouTube Channel to Follow for Financial News
-11. **Ivan On Tech -** Watch Interviews of Crypto Experts
-12. [TechnicalRoundup](https://www.youtube.com/c/TechnicalRoundup) – best crypto Youtubers for technical analysis
-13. [Trader Mayne](https://www.youtube.com/c/TraderMayne) – best crypto prediction Youtube channel
-14. [Crypto Face](https://www.youtube.com/c/CryptoFace) – most popular crypto Youtube channel for live leverage trading
-15. [The Modern Investor](https://www.youtube.com/c/TheModernInvestor) – good for general investing and cryptocurrency news
+1. Altcoin Buzz
+2. [**Jacob Crypto Bury**](https://m.youtube.com/c/JacobCryptoBury) - Overall Best Crypto YouTube Channel
+3. **Coin Bureau** - YouTube Channel to Follow for Crypto Fundamental Analysis
+4. **BitBoy Crypto** - Popular Cryptocurrency YouTube Channel Offering Investment Tips
+5. **Benjamin Cowen** - Best Channel for Crypto Technical Traders
+6. **Altcoin Daily** - Get Daily Crypto Market Updates
+7. **Crypto Banter** - Top YouTube Account for Crypto Beginners
+8. **CryptoRUs** -  YouTube Channel Offering Crypto Trading Insights
+9. **99Bitcoins** - Crypto Channel With Top-Notch Educational Content
+10. **Sheldon Evans** - Popular Crypto Influencer With Engaging Videos
+11. **Kitco News -** YouTube Channel to Follow for Financial News
+12. **Ivan On Tech -** Watch Interviews of Crypto Experts
+13. [TechnicalRoundup](https://www.youtube.com/c/TechnicalRoundup) – best crypto Youtubers for technical analysis
+14. [Trader Mayne](https://www.youtube.com/c/TraderMayne) – best crypto prediction Youtube channel
+15. [Crypto Face](https://www.youtube.com/c/CryptoFace) – most popular crypto Youtube channel for live leverage trading
+16. [The Modern Investor](https://www.youtube.com/c/TheModernInvestor) – good for general investing and cryptocurrency news
 
 ### Others
 

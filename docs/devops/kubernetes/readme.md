@@ -31,7 +31,7 @@
 - [KubeEdge](kubeedge)
 - [Design Patterns](design-patterns)
 - [Helm](helm)
-- [Optimizations](optimizations)
+- [Optimizations](devops/kubernetes/optimizations.md)
 - [Tools](tools)
 - [Troubleshooting](troubleshooting)
 - [Others](devops/kubernetes/others.md)

@@ -1,11 +1,7 @@
 # Crypto News
 
 - crypto winter
-
-## Youtube Channels
-
-- The Modern Investor
-- Altcoin Buzz
+- [Bitcoin Obituaries - "Bitcoin is Dead" Declared 400+ Times](https://99bitcoins.com/bitcoin-obituaries/)
 
 ### Cake DeFi CEO briefing, 2nd week of 2023
 

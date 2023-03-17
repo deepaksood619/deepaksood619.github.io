@@ -2,15 +2,11 @@
 
 ## Architecture
 
-Dremel - The execution engine
-
-Colossus - Distributed Storage
-
-Borg - Compute
-
-Jupiter - The Network
-
-BigQuery - The Service
+- Dremel - The execution engine
+- Colossus - Distributed Storage
+- Borg - Compute
+- Jupiter - The Network
+- BigQuery - The Service
 
 ![image](../../media/Cloud-Others-BigQuery-Big-Query-image1.jpg)
 

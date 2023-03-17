@@ -1,5 +1,31 @@
 # Databricks in 5 minutes
 
+## Databricks Input Widget Parameters
+
+There are 4 types of widgets:
+
+- `text`: Input a value in a text box.
+- `dropdown`: Select a value from a list of provided values.
+- `combobox`: Combination of text and dropdown. Select a value from a provided list or input one in the text box.
+- `multiselect`: Select one or more values from a list of provided values.
+
+```python
+# Define Variables
+
+dbutils.widgets.text('widget_name','')
+tablename = dbutils.widgets.get('widget_name')
+
+dbutils.widgets.remove("widget_name")
+
+# help docs
+dbutils.widgets.help("dropdown")
+
+dbutils.widgets.dropdown("state", "CA", ["CA", "IL", "MI", "NY", "OR", "VA"])
+dbutils.widgets.text("database", "customers_dev")
+
+dbutils.notebook.run(i['nb_path'], i['timeout'], i['args']).split(';')
+```
+
 ## The next command creates a table from a Databricks dataset
 
 ```sql

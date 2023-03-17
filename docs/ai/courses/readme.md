@@ -11,4 +11,5 @@
 - [Launching into ML](course-launching-into-ml)
 - [Feature Engineering](course-feature-engineering)
 - [Art and Science of ML](course-art-and-science-of-ml)
+- [Professional Data Engineer (PDE)](ai/courses/professional-data-engineer-pde.md)
 - [Others / Resources / Interview](others-resources-interview)

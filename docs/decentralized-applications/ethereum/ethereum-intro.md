@@ -152,6 +152,8 @@ Testnet tokens are a test currency that allows you to test your Ethereum applica
 
 ## Others
 
+[**How does Ethereum work, anyway?**](https://www.preethikasireddy.com/post/how-does-ethereum-work-anyway)
+
 [Ethereum (ETH) Blockchain Explorer](https://etherscan.io/)
 
 [Blockscan Chat - Wallet to Wallet Messaging for Web3](https://chat.blockscan.com/start)
