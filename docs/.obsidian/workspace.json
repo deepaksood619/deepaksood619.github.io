@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "office/personality/emails-templates-general.md",
+                "file": "databases/sql-databases/aws-redshift/documentation.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"ens\"",
+                "query": "\"sort keys\"",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -122,7 +122,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -142,7 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "office/personality/emails-templates-general.md",
+                "file": "databases/sql-databases/aws-redshift/documentation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +160,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "office/personality/emails-templates-general.md",
+                "file": "databases/sql-databases/aws-redshift/documentation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +183,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "office/personality/emails-templates-general.md"
+                "file": "databases/sql-databases/aws-redshift/documentation.md"
               }
             }
           },
@@ -230,8 +231,17 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "978fd2faf621af33",
+  "active": "fdceb16abcc6fbf9",
   "lastOpenFiles": [
+    "databases/sql-databases/aws-redshift/architecture.md",
+    "ai/model-evaluation/others.md",
+    "ai/data-science/statistics.md",
+    "ai/ml-algorithms/k-nearest-neighbor-knn.md",
+    "ai/ml-fundamentals/ml-classification.md",
+    "media/Others-image2.jpg",
+    "ai/libraries/ml-libraries.md",
+    "technologies/apache/apache-spark/06-sliding-window-analytics.md",
+    "office/personality/emails-templates-general.md",
     "decentralized-applications/ethereum/readme.md",
     "decentralized-applications/ethereum/30-bridges.md",
     "ai/courses/readme.md",
@@ -243,7 +253,6 @@
     "media/Screenshot 2023-03-17 at 7.36.20 PM.png",
     "media/Screenshot 2023-03-17 at 7.23.56 PM.png",
     "media/Screenshot 2023-03-17 at 7.23.13 PM.png",
-    "office/personality/emails-templates-general.md",
     "office/personality/profiles.md",
     "cloud/others/bigquery-big-query.md",
     "ai/courses/others-resources-interview.md",
@@ -256,18 +265,10 @@
     "technologies/apache/databricks/01-databricks.md",
     "office/cakedefi/todo.md",
     "office/cakedefi/architecture.md",
-    "decentralized-applications/ethereum/others.md",
-    "office/keep/deepak-banks.md",
-    "knowledge/quotes-proverbs/tatoos-quotes.md",
-    "devops/ides/mac.md",
-    "technologies/apache/apache-spark/09-dataframe.md",
-    "office/blocktoons/infra.md",
-    "office/cakedefi/infra.md",
     "media/Pasted image 20230316224409.png",
     "media/Pasted image 20230316224403.png",
     "media/Pasted image 20230316224357.png",
     "media/Pasted image 20230316210821.png",
-    "media/Authentication_OpenID-image3.jpg",
     "decentralized-applications/coins-tokens-chains",
     "Untitled",
     "technologies/apache/databricks",

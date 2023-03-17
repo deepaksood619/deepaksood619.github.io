@@ -11,6 +11,7 @@
 [**https://docs.aws.amazon.com/redshift/latest/dg/c_designing-tables-best-practices.html**](https://docs.aws.amazon.com/redshift/latest/dg/c_designing-tables-best-practices.html)
 
 [**https://docs.aws.amazon.com/redshift/latest/dg/c_designing-queries-best-practices.html**](https://docs.aws.amazon.com/redshift/latest/dg/c_designing-queries-best-practices.html)
+
 <https://www.youtube.com/watch?v=TJDtQom7SAA>
 
 <https://aws.amazon.com/blogs/big-data/top-8-best-practices-for-high-performance-etl-processing-using-amazon-redshift>
@@ -26,7 +27,9 @@
 Amazon Redshift utilizes locally attached storage devices
 
 Compute nodes have 2 to 3 times the advertised storage capacity
+
 Global commit ensures all permanent tables have written blocks to another node in the cluster to ensure data redundancy
+
 Asynchronously backup blocks to Amazon S3 - always consistent snapshot
 
 Every 5 GB of changed data or eight hours
@@ -46,7 +49,9 @@ Amazon Redshift is a fully transactional, ACID complaint data warehourse
 
 - Isolation level is serializable
 - Two phase commits (local and global commit phases)
+
 Design consideration
+
 - Because of the expense of commit overhead, limit commits by explicitly creating transactions- **Data ingestion: COPY statement**
 
 Ingestion throughput
@@ -57,10 +62,15 @@ Each slice's query processors can load one file at a time:
 - Parse
 - Distribute
 - Write
+
 Realizing only partial node usage at 6.25% of slices are active
+
 Number of input files should be a multiple of the number of slices
+
 Splitting the single file into 16 input files, all slices are working to maximize ingestion performance
+
 COPY continues to scale linearly as you add nodes
+
 Recommendation is to use delimited files - 1 MB to 1 GB after gzip compression- **Best practices: COPY ingestion**
 
 Delimited files are recommend
@@ -69,6 +79,7 @@ Delimited files are recommend
 - Pick a simple NULL character (N)
 - Use double quotes and an escape character ('') for varchars
 - UTF-8 varchar columns take four bytes per char
+
 Split files into a nuber that is a multiple of the total number of slices in the Amazon Redshift cluster
 
 SELECT count(slice) from stv_slices;- **Data ingestion: Amazon Redshift Spectrum**
@@ -78,31 +89,39 @@ Use INSERT INTO SELECT against external Amazon S3 tables
 - Aggregate incoming data
 - Select subset of columns and/or rows
 - Manipulate incoming column data with SQL
+
 Best practices:
+
 - Save cluster resources for querying and reporting rather than on ELT
 - Filtering/aggregating incoming data can improve performance over COPY
+
 Design considerations
+
 - Repeated reads against Amazon S3 are not transactional
-- $5/TB of (compressed) data scanned- **Design considerations: Data ingestion**
+- $5/TB of (compressed) data scanned
+- **Design considerations: Data ingestion**
 
 Designed for large writes
 
 - Batch processing system, optimized for processing massive amounts of data
 - 1 MB size plus immutable blocks means that we clone blocks on write so as not to introduce fragmentation
 - Small write (~1~10 rows) has similar cost to a larger write (~100K rows)
+
 UPDATE and DELETE
+
 - Immutable blocks means that we only logically delete rows on UPDATE or DELETE
 - Must VACUUM or DEEP COPY to remove ghost rows from table
+
 ![image](../../../media/AWS-Redshift_Deep-dive-Best-practices-image1.jpg)
 
 ![image](../../../media/AWS-Redshift_Deep-dive-Best-practices-image2.jpg)
+
 Steps
 
 1. Load CSV data into a staging table
-
 2. Delete duplicate data from the production table
-
 3. Insert (or append) data from the staging into the production table
+
 Create a Transaction
 
 ![image](../../../media/AWS-Redshift_Deep-dive-Best-practices-image3.jpg)
@@ -137,10 +156,12 @@ Best Practices:
 ## Workload management (WLM) and query monitoring rules
 
 Allows for the separation of different query workloads
+
 Goals
 
 - Prioritize important queries
 - Throttle/abort less important queries
+
 Control concurrent number of executing of queries
 
 Divide cluster memory
@@ -151,13 +172,15 @@ Set query timeouts to abort long running queries
 
 ## WLM attributes
 
-Queues:
+### Queues
 
 - Assigned a percentage of cluster memory
 - SQL queries execute in queue based on
   - Use group: which groups the user belongs to
   - Query group session level variable
-Short query acceleration (SQA):
+
+### Short query acceleration (SQA)
+
 - Automatically detech short running queries and run them within the short query queue if queuing occurs
 
 ## Queue attributes
@@ -249,15 +272,9 @@ Automatically loads the new files detected in the specified Amazon S3 path
 ## Redshift ETL Best Practices
 
 1. While using the COPY command of Redshift, it is always better to use it on multiple source files rather than one big file. This helps in parallelly loading them and can save a lot of time. Using a manifest file is recommended in case of loading from multiple files.
-
 2. In cases where data needs to be deleted after a specific time, it is better to use the time series tables. This involves creating different tables for different time windows and dropping them when that data is not needed. Dropping a table is way faster than deleting rows from one master table.
-
 3. Execute 'VACUUM' command at regular intervals and after the large update or delete operations. Also, use 'ANALYZE' command frequently to ensure that database statistics are updated.
-
 4. AWS workload management queues enable the user to prioritize different kinds of Redshift loads by creating separate queues for each type of job. It is recommended to create a separate queue for all the ETL jobs and a separate one for reporting jobs.
-
 5. For transformations that span across multiple SQL statements, it is recommended to execute 'commit' command after the complete group is executed rather than committing after each statement. For example, let's say there are two INSERT statements in one of your ETL steps. It is better to use the COMMIT statement after both the statements than using a COMMIT after each statement.
-
 6. While using intermediate tables and transferring data between an intermediate table and master table, it is better to use 'ALTER table APPEND' command to insert data from the temporary table to the target table. This command is generally faster than using "CREATE TABLE AS" or "INSERT INTO" statements. It is to be noted that 'ALTER table APPEND' command empties the source table.
-
 7. If there is a need to extract a large amount of data from Redshift and save to S3 or other storage, it is better to use 'UNLOAD' command rather than 'SELECT' command since the former command will be executed parallelly by all the nodes saving a lot of time.

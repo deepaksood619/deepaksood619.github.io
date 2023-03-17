@@ -18,4 +18,14 @@ K-S or Kolmogorov-Smirnov chart measures performance of classification models. M
 
 ## K-fold Cross Validation
 
-![image](../../media/Others-image2.jpg)
+One way to further protect against overfitting is K-fold cross validation
+
+- Split your data into K randomly-assigned segments
+- Reserve one segment as your test data
+- Train on the remaining segments and measure performance against the test set
+- Repeat, using each segment as the test data and the remaining data for training
+- Take the average of the resulting accuracy scores
+
+Using cross-validation will run the validation on multiple folds of the data, which reduces the overfitting.
+
+<https://machinelearningmastery.com/k-fold-cross-validation>

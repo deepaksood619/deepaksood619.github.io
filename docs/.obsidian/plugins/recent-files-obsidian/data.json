@@ -1,6 +1,38 @@
 {
   "recentFiles": [
     {
+      "basename": "documentation",
+      "path": "databases/sql-databases/aws-redshift/documentation.md"
+    },
+    {
+      "basename": "architecture",
+      "path": "databases/sql-databases/aws-redshift/architecture.md"
+    },
+    {
+      "basename": "others",
+      "path": "ai/model-evaluation/others.md"
+    },
+    {
+      "basename": "statistics",
+      "path": "ai/data-science/statistics.md"
+    },
+    {
+      "basename": "k-nearest-neighbor-knn",
+      "path": "ai/ml-algorithms/k-nearest-neighbor-knn.md"
+    },
+    {
+      "basename": "ml-classification",
+      "path": "ai/ml-fundamentals/ml-classification.md"
+    },
+    {
+      "basename": "ml-libraries",
+      "path": "ai/libraries/ml-libraries.md"
+    },
+    {
+      "basename": "06-sliding-window-analytics",
+      "path": "technologies/apache/apache-spark/06-sliding-window-analytics.md"
+    },
+    {
       "basename": "emails-templates-general",
       "path": "office/personality/emails-templates-general.md"
     },
@@ -167,38 +199,6 @@
     {
       "basename": "Pasted image 20230316224409",
       "path": "media/Pasted image 20230316224409.png"
-    },
-    {
-      "basename": "Pasted image 20230316210821",
-      "path": "media/Pasted image 20230316210821.png"
-    },
-    {
-      "basename": "readme",
-      "path": "decentralized-applications/coins-tokens-chains/readme.md"
-    },
-    {
-      "basename": "coin-token-intro",
-      "path": "decentralized-applications/coins-tokens-chains/coin-token-intro.md"
-    },
-    {
-      "basename": "crypto-investing",
-      "path": "decentralized-applications/crypto-investing.md"
-    },
-    {
-      "basename": "defi",
-      "path": "decentralized-applications/defi.md"
-    },
-    {
-      "basename": "readme",
-      "path": "decentralized-applications/readme.md"
-    },
-    {
-      "basename": "development-tools",
-      "path": "decentralized-applications/development-tools.md"
-    },
-    {
-      "basename": "key-concepts",
-      "path": "decentralized-applications/key-concepts.md"
     }
   ],
   "omittedPaths": [],
