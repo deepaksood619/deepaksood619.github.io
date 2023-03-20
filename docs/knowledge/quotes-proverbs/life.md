@@ -999,3 +999,5 @@ The ability of a person to atone has always been the most remarkable of human fe
 Forgiveness for others becomes possible when we've held our own being with great compassion - Tara Brach
 
 All of us live in a bubble which we incorrectly perceive as “normal”
+
+If you don't like something, **change it**. If you can't change it, change your **attitude**. -- Maya Angelou

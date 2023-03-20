@@ -13,8 +13,6 @@ Kimball’s approach to designing a Datawarehouse was introduced by **Ralph Kimb
 - Database operations are very effective.
 - Occupies less space in the database and management is easy.
 
-Kimball Dataware house architecture is shown below as follows
-
 ![](https://media.geeksforgeeks.org/wp-content/uploads/20200717001130/Kimball.png)
 
 ## Inmon
@@ -27,8 +25,6 @@ Inmon’s approach to designing a Datawarehouse was introduced by **Bill Inmon**
 - Business processes can be understood very easily.
 - Reports can be handled across enterprises.
 - ETL process is very less prone to errors.
-
-Inmon Dataware house architecture is shown below:
 
 ![](https://media.geeksforgeeks.org/wp-content/uploads/20200717001348/Inmon.png)
 

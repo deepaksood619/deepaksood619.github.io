@@ -1,6 +1,134 @@
 {
   "recentFiles": [
     {
+      "basename": "architecture",
+      "path": "office/cakedefi/architecture.md"
+    },
+    {
+      "basename": "todo",
+      "path": "office/cakedefi/todo.md"
+    },
+    {
+      "basename": "tableau",
+      "path": "ai/data-science/data-visualization/tableau.md"
+    },
+    {
+      "basename": "newsletter-learning-resources",
+      "path": "computer-science/general/newsletter-learning-resources.md"
+    },
+    {
+      "basename": "slowly-changing-dimension-scd",
+      "path": "databases/data-warehousing/slowly-changing-dimension-scd.md"
+    },
+    {
+      "basename": "tools",
+      "path": "decentralized-applications/tools.md"
+    },
+    {
+      "basename": "google-professional-data-engineer-pde",
+      "path": "ai/courses/google-professional-data-engineer-pde.md"
+    },
+    {
+      "basename": "others-resources-interview",
+      "path": "ai/courses/others-resources-interview.md"
+    },
+    {
+      "basename": "04-workflow",
+      "path": "technologies/apache/databricks/04-workflow.md"
+    },
+    {
+      "basename": "others",
+      "path": "databases/data-warehousing/others.md"
+    },
+    {
+      "basename": "google-professional-cloud-architect-pca",
+      "path": "ai/courses/google-professional-cloud-architect-pca.md"
+    },
+    {
+      "basename": "readme",
+      "path": "ai/courses/readme.md"
+    },
+    {
+      "basename": "readme",
+      "path": "ai/data-science/data-visualization/readme.md"
+    },
+    {
+      "basename": "bi-tools",
+      "path": "ai/data-science/data-visualization/bi-tools.md"
+    },
+    {
+      "basename": "readme",
+      "path": "databases/data-warehousing/readme.md"
+    },
+    {
+      "basename": "01-databricks",
+      "path": "technologies/apache/databricks/01-databricks.md"
+    },
+    {
+      "basename": "03-optimizations",
+      "path": "technologies/apache/databricks/03-optimizations.md"
+    },
+    {
+      "basename": "02-databricks-getting-started",
+      "path": "technologies/apache/databricks/02-databricks-getting-started.md"
+    },
+    {
+      "basename": "family-other-accounts",
+      "path": "office/keep/family-other-accounts.md"
+    },
+    {
+      "basename": "others",
+      "path": "office/keep/others.md"
+    },
+    {
+      "basename": "product",
+      "path": "office/cakedefi/product.md"
+    },
+    {
+      "basename": "people",
+      "path": "office/cakedefi/people.md"
+    },
+    {
+      "basename": "infra",
+      "path": "office/cakedefi/infra.md"
+    },
+    {
+      "basename": "10-medallion-architecture",
+      "path": "technologies/apache/databricks/10-medallion-architecture.md"
+    },
+    {
+      "basename": "kubectl-commands",
+      "path": "devops/kubernetes/kubectl-commands.md"
+    },
+    {
+      "basename": "kimball-inmon-architecture",
+      "path": "databases/data-warehousing/kimball-inmon-architecture.md"
+    },
+    {
+      "basename": "365-data-science-program",
+      "path": "computer-science/courses/365-data-science-program.md"
+    },
+    {
+      "basename": "powerbi",
+      "path": "ai/data-science/data-visualization/powerbi.md"
+    },
+    {
+      "basename": "life",
+      "path": "knowledge/quotes-proverbs/life.md"
+    },
+    {
+      "basename": "motivation",
+      "path": "knowledge/quotes-proverbs/motivation.md"
+    },
+    {
+      "basename": "99-others",
+      "path": "technologies/apache/databricks/99-others.md"
+    },
+    {
+      "basename": "infra",
+      "path": "office/blocktoons/infra.md"
+    },
+    {
       "basename": "documentation",
       "path": "databases/sql-databases/aws-redshift/documentation.md"
     },
@@ -45,14 +173,6 @@
       "path": "decentralized-applications/ethereum/30-bridges.md"
     },
     {
-      "basename": "readme",
-      "path": "ai/courses/readme.md"
-    },
-    {
-      "basename": "professional-data-engineer-pde",
-      "path": "ai/courses/professional-data-engineer-pde.md"
-    },
-    {
       "basename": "disagreement-feedback",
       "path": "psychology/soft-skills/disagreement-feedback.md"
     },
@@ -69,44 +189,8 @@
       "path": "cloud/others/bigquery-big-query.md"
     },
     {
-      "basename": "others-resources-interview",
-      "path": "ai/courses/others-resources-interview.md"
-    },
-    {
-      "basename": "99-others",
-      "path": "technologies/apache/databricks/99-others.md"
-    },
-    {
-      "basename": "10-medallion-architecture",
-      "path": "technologies/apache/databricks/10-medallion-architecture.md"
-    },
-    {
-      "basename": "03-optimizations",
-      "path": "technologies/apache/databricks/03-optimizations.md"
-    },
-    {
-      "basename": "04-workflow",
-      "path": "technologies/apache/databricks/04-workflow.md"
-    },
-    {
-      "basename": "02-databricks-getting-started",
-      "path": "technologies/apache/databricks/02-databricks-getting-started.md"
-    },
-    {
       "basename": "readme",
       "path": "technologies/apache/databricks/readme.md"
-    },
-    {
-      "basename": "01-databricks",
-      "path": "technologies/apache/databricks/01-databricks.md"
-    },
-    {
-      "basename": "todo",
-      "path": "office/cakedefi/todo.md"
-    },
-    {
-      "basename": "architecture",
-      "path": "office/cakedefi/architecture.md"
     },
     {
       "basename": "others",
@@ -115,90 +199,6 @@
     {
       "basename": "deepak-banks",
       "path": "office/keep/deepak-banks.md"
-    },
-    {
-      "basename": "tatoos-quotes",
-      "path": "knowledge/quotes-proverbs/tatoos-quotes.md"
-    },
-    {
-      "basename": "mac",
-      "path": "devops/ides/mac.md"
-    },
-    {
-      "basename": "09-dataframe",
-      "path": "technologies/apache/apache-spark/09-dataframe.md"
-    },
-    {
-      "basename": "infra",
-      "path": "office/blocktoons/infra.md"
-    },
-    {
-      "basename": "infra",
-      "path": "office/cakedefi/infra.md"
-    },
-    {
-      "basename": "08-examples",
-      "path": "technologies/apache/apache-spark/08-examples.md"
-    },
-    {
-      "basename": "10-sql-functions-datasources",
-      "path": "technologies/apache/apache-spark/10-sql-functions-datasources.md"
-    },
-    {
-      "basename": "11-built-in-functions",
-      "path": "technologies/apache/apache-spark/11-built-in-functions.md"
-    },
-    {
-      "basename": "todo-tech-&-courses",
-      "path": "office/todo/todo-tech-&-courses.md"
-    },
-    {
-      "basename": "asking-right-questions",
-      "path": "psychology/soft-skills/asking-right-questions.md"
-    },
-    {
-      "basename": "questions-all",
-      "path": "office/hr-interviews/questions-all.md"
-    },
-    {
-      "basename": "others",
-      "path": "computer-science/interview-question/others.md"
-    },
-    {
-      "basename": "upgrades",
-      "path": "decentralized-applications/ethereum/upgrades.md"
-    },
-    {
-      "basename": "ethereum-intro",
-      "path": "decentralized-applications/ethereum/ethereum-intro.md"
-    },
-    {
-      "basename": "bitcoin",
-      "path": "decentralized-applications/coins-tokens-chains/bitcoin.md"
-    },
-    {
-      "basename": "layer-2-protocols",
-      "path": "decentralized-applications/ethereum/layer-2-protocols.md"
-    },
-    {
-      "basename": "02-intro-to-ether",
-      "path": "decentralized-applications/ethereum/02-intro-to-ether.md"
-    },
-    {
-      "basename": "06-transactions",
-      "path": "decentralized-applications/ethereum/06-transactions.md"
-    },
-    {
-      "basename": "09-gas",
-      "path": "decentralized-applications/ethereum/09-gas.md"
-    },
-    {
-      "basename": "tools",
-      "path": "decentralized-applications/tools.md"
-    },
-    {
-      "basename": "Pasted image 20230316224409",
-      "path": "media/Pasted image 20230316224409.png"
     }
   ],
   "omittedPaths": [],

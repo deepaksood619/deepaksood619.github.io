@@ -11,5 +11,6 @@
 - [Launching into ML](course-launching-into-ml)
 - [Feature Engineering](course-feature-engineering)
 - [Art and Science of ML](course-art-and-science-of-ml)
-- [Professional Data Engineer (PDE)](ai/courses/professional-data-engineer-pde.md)
+- [Professional Data Engineer (PDE)](ai/courses/google-professional-data-engineer-pde.md)
+- [google-professional-cloud-architect-pca](ai/courses/google-professional-cloud-architect-pca.md)
 - [Others / Resources / Interview](others-resources-interview)

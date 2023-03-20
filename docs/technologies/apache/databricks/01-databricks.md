@@ -6,6 +6,8 @@
 
 [Introduction to Databricks Unified Data Platform](https://www.youtube.com/watch?v=02DBOfYrYT0&ab_channel=Databricks)
 
+[Databricks SQL | Databricks](https://www.databricks.com/product/databricks-sql)
+
 ## Unity Catalog
 
 [Work with Unity Catalog and the legacy Hive metastore | Databricks on AWS](https://docs.databricks.com/data-governance/unity-catalog/hive-metastore.html#)

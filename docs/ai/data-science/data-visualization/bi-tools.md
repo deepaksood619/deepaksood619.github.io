@@ -2,14 +2,6 @@
 
 <https://www.toptal.com/business-intelligence/interview-questions>
 
-## Tableau - Visualization from relational databases and data cubes, OLAP cubes, cloud databases
-
-<https://www.datacamp.com/community/tutorials/tableau-visualizations-with-measure-names-and-measure-values>
-
-<https://public.tableau.com/en-us/s>
-
-<https://public.tableau.com/en-us/gallery/travel-planner-emissions-calculator>
-
 ## PowerBI vs Google Data Studio
 
 Overall, both Power BI and Google data studio are similar when it comes to data integration, **Power BI has better ease of working**(given our understanding of Microsoft tools such as Excel) and functionality whereas **Google data studio requires significant learning and workaround** to achievesimilar visualizations. Please find below details for the same.

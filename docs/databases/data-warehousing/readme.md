@@ -2,6 +2,7 @@
 
 - [Intro](databases/data-warehousing/intro.md)
 - [Concepts](concepts)
+- [Slowly Changing Dimension (SCD)](databases/data-warehousing/slowly-changing-dimension-scd.md)
 - [Fact / Dimension Tables](databases/data-warehousing/fact-dimension-tables.md)
 - [Characteristics](characteristics)
 - [Architecture](databases/data-warehousing/architecture.md)

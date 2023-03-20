@@ -1,4 +1,4 @@
-# Professional Data Engineer (PDE)
+# Google Professional Data Engineer (PDE)
 
 ## Questions
 
@@ -37,3 +37,7 @@
 ![Google data warehouse solution architecture](../../media/Screenshot%202023-03-17%20at%207.36.20%20PM.png)
 
 ![](../../media/Screenshot%202023-03-17%20at%207.43.56%20PM.png)
+
+## Resources
+
+[Google Cloud Innovators Bootcamp (G.I.B.) for SG](https://cloudonair.withgoogle.com/events/2023-innovators-bootcamp-singapore)
