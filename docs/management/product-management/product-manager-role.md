@@ -6,17 +6,17 @@ Your job as a PM is to deliver business impact by marshaling the resources of yo
 
 There are three parts to this, each essential:
 
-1. Deliver business impact
+### Deliver business impact
 
- Fundamentally, you are responsible for delivering business impact. If your team drives positive impact - hitting important goals, reducing costs, shipping an important project, etc. - you're doing your job.
+Fundamentally, you are responsible for delivering business impact. If your team drives positive impact - hitting important goals, reducing costs, shipping an important project, etc. - you're doing your job.
 
-2. Marshaling the resources of your team
+### Marshaling the resources of your team
 
- Your job isn't to do the building yourself but instead to increase the leverage of your cross-functional teammates - designers, engineers, data scientists, researchers - to deliver impact. To paraphrase [Andy Grove](https://email.mg2.substack.com/c/eJwlkM1yhSAMhZ9Glg4_irhg0U37CF0yaKKXuQgWsLe-ffGaYXIIIXMm32wLrjGdeo-5kCuZcu6oA76yx1IwkSNjMg606AXrGSWgO2CqV8RlsyTEzTqvSzqQ7Mfk3WyLi-EaYFR1PXnohUs79KOdl4HhICdmbU_VskhOuarX29Ye4DDMqGPwp9mtA-L1o5Q9N-Kj4Z_1YGhf7ul2BGfbmNb6dNVVPgIkfJmvFH-x4eI7ueLCamwAU9DOj1oQp6sfqyGZ5IKKlrcAUo5qGUfFJLAe2k71599P9k1Ht5W3-ZhysfOzneNGkgbE3T5zjCDZWL-s1-rvXt3cVN2O4MppMNjJI9xQyo32jcmsGDBV5GBs0UyKgQ6j4rSj8oZQqXUdrZw7Qao5xDoVtMcQzn-dRI-e), a product manager's output = the output of their team.
+Your job isn't to do the building yourself but instead to increase the leverage of your cross-functional teammates - designers, engineers, data scientists, researchers - to deliver impact. To paraphrase [Andy Grove](https://en.wikipedia.org/wiki/Andrew_Grove#Writing_and_teaching), a product manager's output = the output of their team.
 
-3. Identify and solve the most impactful customer problems
+### Identify and solve the most impactful customer problems
 
- Business impact comes from solving customer problems. Thus, it's your job to lead your team to correctly identify, prioritize, and solve the mostimpactfulcustomer problems.
+Business impact comes from solving customer problems. Thus, it's your job to lead your team to correctly identify, prioritize, and solve the mostimpactfulcustomer problems.
 
 PMs are the ultimate business lever.
 

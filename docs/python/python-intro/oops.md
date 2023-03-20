@@ -48,7 +48,7 @@ class MyClass:
 
 ## Three types of methods
 
-1. Instance Method
+### Instance Method
 
 Normal methods that are associated with each class instance and an object is needed to access this methods (denoted by self)
 
@@ -58,13 +58,13 @@ This gives them a lot of power when it comes to modifying an object's state.
 
 Not only can they modify object state, instance methods can also access the class itself through the `self.__class__` attribute. This means instance methods can also modify class state.
 
-2. Class Method
+### Class Method
 
 `@classmethod` decorator used to create a classmethod
 
 This takes cls as a parameter
 
-3. Static Method
+### Static Method
 
 `@staticmethod` decorator used to create a staticmethod
 

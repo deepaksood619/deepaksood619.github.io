@@ -6,6 +6,16 @@ Dimensional modeling is a bottom-up approach to designing data warehouses in ord
 
 [What’s a Dimensional Model and How to Implement It on the Databricks Lakehouse Platform - The Databricks Blog](https://www.databricks.com/blog/2022/11/07/load-edw-dimensional-model-real-time-databricks-lakehouse.html)
 
+#### 3 Approaches of data modeling
+
+- put everything in one file/table
+- **break data up logically**
+- facts and dimensions, history tracking, go the whole 9 yards
+
+There are probably some performance considerations that should be thought about if you are working with PB’s of data, if you are around 10TB~, then don't spend worrying about join performance.
+
+[Data Modeling in DeltaLake (DataBricks) - Confessions of a Data Guy](https://www.confessionsofadataguy.com/data-modeling-in-deltalake-databricks/)
+
 ## Fact tables
 
 Typically contain point-in-time transactional data. Each row in the table can be extremely simple and is often represented as a unit of transaction. Because of their simplicity, they are often the source of truth tables from which business metrics are derived. For example, fact tables that track transaction-like events such as bookings, reservations, alterations, cancellations, and more.
@@ -37,3 +47,5 @@ Dimension tables describe business entities - thethingsyou model. Entities can i
 | It is used for analysis purpose and decision making. | While the main task of dimension table is to store the information about a business and its process. |
 
 <https://www.geeksforgeeks.org/difference-between-fact-table-and-dimension-table>
+
+[databricks-lakehouse/E2E-Dimensional-Modeling-DLT.sql at main · dbsys21/databricks-lakehouse · GitHub](https://github.com/dbsys21/databricks-lakehouse/blob/main/lakehouse-buildout/dimensional-modeling/E2E-Dimensional-Modeling-DLT.sql)

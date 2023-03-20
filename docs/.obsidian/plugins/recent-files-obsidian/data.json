@@ -1,6 +1,30 @@
 {
   "recentFiles": [
     {
+      "basename": "intro",
+      "path": "ai/data-science/intro.md"
+    },
+    {
+      "basename": "04-fact-dimension-tables",
+      "path": "databases/data-warehousing/04-fact-dimension-tables.md"
+    },
+    {
+      "basename": "data-modeling",
+      "path": "databases/modeling/data-modeling.md"
+    },
+    {
+      "basename": "03-optimizations",
+      "path": "technologies/apache/databricks/03-optimizations.md"
+    },
+    {
+      "basename": "20-delta-live-tables",
+      "path": "technologies/apache/databricks/20-delta-live-tables.md"
+    },
+    {
+      "basename": "10-medallion-architecture",
+      "path": "technologies/apache/databricks/10-medallion-architecture.md"
+    },
+    {
       "basename": "data-fetching",
       "path": "frontend/others/nextjs/data-fetching.md"
     },
@@ -9,20 +33,8 @@
       "path": "databases/nosql-databases/redis/intro.md"
     },
     {
-      "basename": "20-delta-live-tables",
-      "path": "technologies/apache/databricks/20-delta-live-tables.md"
-    },
-    {
       "basename": "readme",
       "path": "technologies/apache/databricks/readme.md"
-    },
-    {
-      "basename": "10-medallion-architecture",
-      "path": "technologies/apache/databricks/10-medallion-architecture.md"
-    },
-    {
-      "basename": "04-fact-dimension-tables",
-      "path": "databases/data-warehousing/04-fact-dimension-tables.md"
     },
     {
       "basename": "10-lambda-architecture",
@@ -97,10 +109,6 @@
       "path": "ai/data-science/data-visualization/tableau.md"
     },
     {
-      "basename": "03-optimizations",
-      "path": "technologies/apache/databricks/03-optimizations.md"
-    },
-    {
       "basename": "04-workflow",
       "path": "technologies/apache/databricks/04-workflow.md"
     },
@@ -115,10 +123,6 @@
     {
       "basename": "infra",
       "path": "office/blocktoons/infra.md"
-    },
-    {
-      "basename": "data-modeling",
-      "path": "databases/modeling/data-modeling.md"
     },
     {
       "basename": "architecture",
@@ -195,10 +199,6 @@
     {
       "basename": "life",
       "path": "knowledge/quotes-proverbs/life.md"
-    },
-    {
-      "basename": "motivation",
-      "path": "knowledge/quotes-proverbs/motivation.md"
     }
   ],
   "omittedPaths": [],

@@ -120,3 +120,5 @@ ANALYZE TABLE MY_BIG_DIM COMPUTE STATISTICS FOR ALL COLUMNS
 [Optimization recommendations on Databricks | Databricks on AWS](https://docs.databricks.com/optimizations/index.html)
 
 [How to Get the Best Performance from Delta Lake Star Schema Databases - The Databricks Blog](https://www.databricks.com/blog/2022/05/20/five-simple-steps-for-implementing-a-star-schema-in-databricks-with-delta-lake.html)
+
+[What’s a Dimensional Model and How to Implement It on the Databricks Lakehouse Platform - The Databricks Blog](https://www.databricks.com/blog/2022/10/20/data-modeling-best-practices-implementation-modern-lakehouse.html)

@@ -17,30 +17,30 @@
 
 ## Types of Data Science
 
-1. Descriptive Analytics (Business Intelligence)
+### Descriptive Analytics (Business Intelligence)
 
-    Get useful data in front of the right people in the form of dashboards, reports and emails
+Get useful data in front of the right people in the form of dashboards, reports and emails
 
-    - Which customers have churned?
-    - Which homes have sold in a given location, and do homes of a certain size sell more quickly?
+- Which customers have churned?
+- Which homes have sold in a given location, and do homes of a certain size sell more quickly?
 
-2. Predictive Analytics (Machine Learning):
+### Predictive Analytics (Machine Learning)
 
-    Put data science models continuously into production
+Put data science models continuously into production
 
-    - Which customers may churn?
-    - How much will a home sell for, given its location and number of rooms?
+- Which customers may churn?
+- How much will a home sell for, given its location and number of rooms?
 
-3. Prescriptive Analytics (Decision Science):
+### Prescriptive Analytics (Decision Science)
 
-    Use data to help a company make decisions
+Use data to help a company make decisions
 
-    - What should we do about the particular types of customers that are prone to churn?
-    - How should we market a home to sell quickly, given its location and number of rooms?
+- What should we do about the particular types of customers that are prone to churn?
+- How should we market a home to sell quickly, given its location and number of rooms?
 
 ## Fields
 
-1. **Data Analysis**
+### Data Analysis
 
 Taking raw information and turning it into knowledge that can be acted on or that can drive a decision
 
@@ -50,7 +50,7 @@ Research - gather the data, design and conduct experiments
 
 Interpretation - Summarize and aggregate, visualize, apply statistical tools
 
-2. **Data Modeling**
+### Data Modeling
 
 Using the data that we have to estimate the data that we wish we had
 
@@ -60,7 +60,7 @@ Unsupervised learning - clustering, dimensionality reduction, anomaly detection
 
 Custom algorithm development - feature engineering, numerical optimization
 
-3. **Data Engineering**
+### Data Engineering
 
 Taking these analysis and modeling activities and making everything work faster, more robustly, and on larger quantities of data
 
@@ -70,7 +70,7 @@ Production - automation, system integration, robustification
 
 Software engineering - ensure maintainability, scaling, collaborative development
 
-4. **Data Mechanics**
+### Data Mechanics
 
 Data formatting - type conversion, string manipulation, fixing errors
 
@@ -87,17 +87,11 @@ Data handling - querying, slicing, joining
 ## Questions for any new data science project
 
 1. What is the question you are trying to answer?
-
 2. Do you know exactly what you are trying to measure?
-
 3. Do you have the right data to answer your question?
-
 4. Do you know enough about how your data was collected?
-
 5. Are there any ethical considerations?
-
 6. Who is going to read your analysis and how much do they understand statistics?
-
 7. Do you need to be able to interrogate your methods?
 
 ## Talk: How did python become a data science powerhouse

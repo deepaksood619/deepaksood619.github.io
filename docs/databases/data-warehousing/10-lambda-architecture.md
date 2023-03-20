@@ -35,7 +35,7 @@ Examples of technologies used in the serving layer include [Druid](https://en.wi
 
 If you are a data practitioner, you would probably have either implemented or used a data processing platform that incorporates the Lambda architecture. A common implementation would have large batch jobs in Hadoop complemented by an update stream stored in Apache Kafka. Apache Spark is often used to read this data stream from Kafka, perform transformations, and then write the result to another Kafka log. In most cases, this would not be a single Spark job but a pipeline of Spark jobs. Each Spark job in the pipeline would read data produced by the previous job, do its own transformations, and feed it to the next job in the pipeline. The final output would be written to a serving system like Apache Cassandra, Elasticsearch or MongoDB.
 
-[What Is Lambda Architecture?](https://www.databricks.com/glossary/lambda-architecture
+[What Is Lambda Architecture?](<https://www.databricks.com/glossary/lambda-architecture>
 
 ## Shortcomings of Lambda Architecture
 

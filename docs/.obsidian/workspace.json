@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "technologies/apache/databricks/10-medallion-architecture.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1e717ce30568aa60",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "frontend/others/nextjs/data-fetching.md",
+                "file": "ai/data-science/intro.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "frontend/others/nextjs/data-fetching.md",
+                "file": "ai/data-science/intro.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "frontend/others/nextjs/data-fetching.md",
+                "file": "ai/data-science/intro.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "frontend/others/nextjs/data-fetching.md"
+                "file": "ai/data-science/intro.md"
               }
             }
           },
@@ -196,11 +183,14 @@
   },
   "active": "978fd2faf621af33",
   "lastOpenFiles": [
-    "databases/nosql-databases/redis/intro.md",
-    "technologies/apache/databricks/20-delta-live-tables.md",
-    "technologies/apache/databricks/readme.md",
-    "technologies/apache/databricks/10-medallion-architecture.md",
     "databases/data-warehousing/04-fact-dimension-tables.md",
+    "databases/modeling/data-modeling.md",
+    "technologies/apache/databricks/03-optimizations.md",
+    "technologies/apache/databricks/20-delta-live-tables.md",
+    "technologies/apache/databricks/10-medallion-architecture.md",
+    "frontend/others/nextjs/data-fetching.md",
+    "databases/nosql-databases/redis/intro.md",
+    "technologies/apache/databricks/readme.md",
     "databases/data-warehousing/10-lambda-architecture.md",
     "databases/data-warehousing/others.md",
     "databases/data-warehousing/readme.md",
@@ -219,9 +209,6 @@
     "decentralized-applications/crypto-investing.md",
     "office/personality/new-home-place.md",
     "ai/data-science/data-visualization/tableau.md",
-    "technologies/apache/databricks/03-optimizations.md",
-    "technologies/apache/databricks/04-workflow.md",
-    "technologies/apache/databricks/02-databricks-getting-started.md",
     "media/Pasted image 20230320193615.png",
     "media/Pasted image 20230320181018.png",
     "media/Pasted image 20230320181009.png",

@@ -31,13 +31,14 @@ The primary goal of using data model are:
 
 There are mainly three different types of data models:
 
-- **Conceptual:**This Data Model defines **WHAT** the system contains. This model is typically created by Business stakeholders and Data Architects. The purpose is to organize, scope and define business concepts and rules.
+- **Conceptual:** This Data Model defines **WHAT** the system contains. This model is typically created by Business stakeholders and Data Architects. The purpose is to organize, scope and define business concepts and rules.
 
-- **Logical:**Defines **HOW** the system should be implemented regardless of the DBMS. This model is typically created by Data Architects and Business Analysts. The purpose is to developed technical map of rules and data structures.
+- **Logical:** Defines **HOW** the system should be implemented regardless of the DBMS. This model is typically created by Data Architects and Business Analysts. The purpose is to developed technical map of rules and data structures.
 
 - **Physical:** This Data Model describes **HOW** the system will be implemented using a specific DBMS system. This model is typically created by DBA and developers. The purpose is actual implementation of the database.
 
 ![image](../../media/Data-Modeling-image2.jpg)
+
 <https://www.guru99.com/data-modelling-conceptual-logical.html>
 
 ## Tenets of NoSQL Data Modeling
@@ -81,50 +82,69 @@ Examples of extensible database requirements:
 - A database that allows users to declare new fields on demand.
 - Or an e-commerce catalog with many products, each with distinct attributes.
 - Or a content management platform that supports extensions for custom data.
+
 The solutions we use to meet these requirements is overly complex and the performance is terrible. How should we find the right balance between schema and schemaless database design?
+
 I'll briefly cover the disadvantages of Entity-Attribute-Value (EAV), a problematic design that's an example of the antipattern called the Inner-Platform Effect, That is, modeling an attribute-management system on top of the RDBMS architecture, which already provides attributes through columns, data types, and constraints.
+
 Then we'll discuss the pros and cons of alternative data modeling patterns, with respect to developer productivity, data integrity, storage efficiency and query performance, and ease of extensibility.
+
 - Class Table Inheritance
 - Serialized BLOB
 - Inverted Indexing
 
-## Extensibility
+### Extensibility
 
 - How can we add new attributes without the pain of schema changes?
 - Especially to support user-defined attributes at runtime or after deployment
-- Solution
-  - **Extra Columns**
+
+**Solutions**
+
+#### Extra Columns
 
 ![image](../../media/Data-Modeling-image3.jpg)
 
-- **Entity-Attribute-Value**
+#### Entity-Attribute-Value
 
 Store each attribute in a row instead of a column
 
 ![image](../../media/Data-Modeling-image4.jpg)
 ![image](../../media/Data-Modeling-image5.jpg)
 
-- **Class Table Inheritance**
-  - Some attributes apply to all, other attributes apply to one subtype or the other
-  - Title table
+#### Class Table Inheritance
+
+- Some attributes apply to all, other attributes apply to one subtype or the other
+- Title table
 
 ![image](../../media/Data-Modeling-image6.jpg)
 
-- Title table with subtype tables
+#### Title table with subtype tables
 
 ![image](../../media/Data-Modeling-image7.jpg)
 
-- Pros
-  - Best to support a finite set of subtypes, which are likely unchanging after creation
-  - Data types and contraints work normally
-  - Easy to create or drop subtype tables
-  - Easy to query attributes common to all subtypes
-  - Subtype tables are shorter, indexes are smaller
-- Cons
-  - Adding one entry takes two INSERT statements
-  - Querying attributes of subtypes requires a join
-  - Querying all types with subtype attributes requires multiple joins (as many as subtypes)
-  - Adding a common attribute locks a large table
-  - Ading an attribute to a populated subtype locks a smaller table- Serialized LOB & Inverted Indexes
+#### Pros
+
+- Best to support a finite set of subtypes, which are likely unchanging after creation
+- Data types and contraints work normally
+- Easy to create or drop subtype tables
+- Easy to query attributes common to all subtypes
+- Subtype tables are shorter, indexes are smaller
+
+#### Cons
+
+- Adding one entry takes two INSERT statements
+- Querying attributes of subtypes requires a join
+- Querying all types with subtype attributes requires multiple joins (as many as subtypes)
+- Adding a common attribute locks a large table
+- Ading an attribute to a populated subtype locks a smaller table- Serialized LOB & Inverted Indexes
+
+### Others
+
 - Online Schema Changes
 - Non-relational databases
+
+## Links
+
+[Extensible Data Modeling](https://www.slideshare.net/billkarwin/extensible-data-modeling)
+
+[erwin Data Modeler | Industry-Leading Data Modeling Tool | erwin, Inc.](https://www.erwin.com/products/erwin-data-modeler/)

@@ -32,26 +32,28 @@ A _pipeline_ is the main unit used to configure and run data processing workflow
 
 A pipeline contains materialized views and streaming tables declared in Python or SQL source files. Delta Live Tables infers the dependencies between these tables, ensuring updates occur in the right order. For each dataset, Delta Live Tables compares the current state with the desired state and proceeds to create or update datasets using efficient processing methods.
 
-[What is Delta Live Tables? | Databricks on AWS](https://docs.databricks.com/delta-live-tables/index.html)
-
 ## When to use views, materialized views, and streaming tables
 
 To ensure your pipelines are efficient and maintainable, choose the best dataset type when you implement your pipeline queries.
 
-#### Consider using a view when:
+#### Consider using a view when
 
 - You have a large or complex query that you want to break into easier-to-manage queries.
 - You want to validate intermediate results using expectations.
 - You want to reduce storage and compute costs and do not require the materialization of query results. Because tables are materialized, they require additional computation and storage resources.
 
-#### Consider using a materialized view when:
+#### Consider using a materialized view when
 
 - Multiple downstream queries consume the table. Because views are computed on demand, the view is re-computed every time the view is queried.
 - The table is consumed by other pipelines, jobs, or queries. Because views are not materialized, you can only use them in the same pipeline.
 - You want to view the results of a query during development. Because tables are materialized and can be viewed and queried outside of the pipeline, using tables during development can help validate the correctness of computations. After validating, convert queries that do not require materialization into views.
 
-#### Consider using a streaming table when:
+#### Consider using a streaming table when
 
 - A query is defined against a data source that is continuously or incrementally growing.
 - Query results should be computed incrementally.
 - High throughput and low latency is desired for the pipeline.
+
+[Getting Started with Delta Live Tables – Databricks](https://www.databricks.com/discover/pages/getting-started-with-delta-live-tables)
+
+[What is Delta Live Tables? | Databricks on AWS](https://docs.databricks.com/delta-live-tables/index.html)

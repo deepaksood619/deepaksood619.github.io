@@ -27,11 +27,11 @@ Code -
 
 1. Partitioning
 
-![image](../../media/Quick-Sort-image1.jpg)
+    ![image](../../media/Quick-Sort-image1.jpg)
 
 2. Sort
 
-![image](../../media/Quick-Sort-image2.jpg)
+    ![image](../../media/Quick-Sort-image2.jpg)
 
 Improvements
 
