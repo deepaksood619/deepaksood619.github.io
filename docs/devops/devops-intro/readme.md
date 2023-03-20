@@ -1,7 +1,7 @@
 # DevOps
 
 - [Intro](devops/devops-intro/intro.md)
-- [Concepts](concepts)
+- [Concepts](devops/devops-intro/concepts.md)
 - [Design](design)
 - [Deployment Strategies](deployment-strategies)
 - [Infra as Code IaC](infra-as-code-iac)

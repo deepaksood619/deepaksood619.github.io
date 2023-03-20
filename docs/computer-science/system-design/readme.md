@@ -7,7 +7,6 @@
 - [Event Driven Architecture](event-driven-architecture)
 - [Microservice Architecture](microservice-architecture/readme.md)
 - [Serverless Architecture](serverless-architecture)
-- [Lambda Architecture](lambda-architecture)
 - [Reactive Microservices Manifesto](reactive-microservices-manifesto)
 - [Enterprise Integration Patterns](enterprise-integration-patterns)
 - [API Gateway](api-gateway)

@@ -5,4 +5,5 @@
 - [Optimizations](technologies/apache/databricks/03-optimizations.md)
 - [Workflow](technologies/apache/databricks/04-workflow.md)
 - [Medallion Architecture](technologies/apache/databricks/10-medallion-architecture.md)
+- [Delta Live Tables](technologies/apache/databricks/20-delta-live-tables.md)
 - [Others](technologies/apache/databricks/99-others.md)

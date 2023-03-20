@@ -276,12 +276,12 @@ If at each step, we choose the nut (to partition the bolts) randomly, we will ge
 
 1. **Java autoboxing and equals()**. Consider two𝚍𝚘𝚞𝚋𝚕𝚎values𝚊and𝚋and their corresponding Double values 𝚡 and 𝚢.
 
-- Find values such that (𝚊==𝚋) is 𝚝𝚛𝚞𝚎 but 𝚡.𝚎𝚚𝚞𝚊𝚕𝚜(𝚢) is 𝚏𝚊𝚕𝚜𝚎.
-- Find values such that (𝚊==𝚋) is 𝚏𝚊𝚕𝚜𝚎 but 𝚡.𝚎𝚚𝚞𝚊𝚕𝚜(𝚢) is 𝚝𝚛𝚞𝚎.
+    - Find values such that (𝚊==𝚋) is 𝚝𝚛𝚞𝚎 but 𝚡.𝚎𝚚𝚞𝚊𝚕𝚜(𝚢) is 𝚏𝚊𝚕𝚜𝚎.
+    - Find values such that (𝚊==𝚋) is 𝚏𝚊𝚕𝚜𝚎 but 𝚡.𝚎𝚚𝚞𝚊𝚕𝚜(𝚢) is 𝚝𝚛𝚞𝚎.
 
-2. **Check if a binary tree is a BST.**Given a binary tree where each𝙽𝚘𝚍𝚎contains a key, determine whether it is a binary search tree. Use extra space proportional to the height of the tree.
+2. **Check if a binary tree is a BST.** Given a binary tree where each𝙽𝚘𝚍𝚎contains a key, determine whether it is a binary search tree. Use extra space proportional to the height of the tree.
 3. **Inorder traversal with constant extra space**. Design an algorithm to perform an inorder traversal of a binary search tree using only a constant amount of extra space.
-4. **Web tracking.**Suppose that you are trackingnweb sites andmusers and you want to support the following API:
+4. **Web tracking.** Suppose that you are trackingnweb sites andmusers and you want to support the following API:
 
 - User visits a website.
 - How many times has a given user visited a given site?

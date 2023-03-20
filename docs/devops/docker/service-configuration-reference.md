@@ -111,75 +111,45 @@ Configures if and how to restart containers when they exit. Replaces [restart](h
 10. update_config
 
 9. devices
-
 10. depends_on
-
 11. dns
-
 12. dns_search
-
 13. tmpfs
-
 14. entrypoint
-
 15. env_file
-
 16. environment
-
 17. expose
-
 18. external_links
-
 19. extra_hosts
-
 20. healthcheck
-
 21. image
-
 22. init
-
 23. isolation
-
 24. labels
-
 25. links
-
 26. logging
-
 27. network_mode
-
 28. networks
 
-- aliases
-
-- ipv4, ipv6 addresses
+    - aliases
+    - ipv4, ipv6 addresses
 
 29. pid
-
 30. ports
-
 31. secrets
-
 32. security_opt
-
 33. stop_grace_period
-
 34. stop_signal
-
 35. sysctls
 
-sysctls:
-net.core.somaxconn: 1024
-net.ipv4.tcp_syncookies: 0
+    sysctls:
+    net.core.somaxconn: 1024
+    net.ipv4.tcp_syncookies: 0
 
 36. ulimits
-
 37. userns_mode
-
 38. volumes
-
 39. restart
-
 40. domainname, hostname, ipc, mac_address, privileged, read_only, shm_size, stdin_open, tty, user, working_dir
 
 Not supported for docker stack deploy

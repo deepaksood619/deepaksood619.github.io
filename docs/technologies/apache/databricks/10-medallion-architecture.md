@@ -41,3 +41,5 @@ So you can see that the data is curated as it moves through the different layers
 ## Medallion architecture and data mesh
 
 The Medallion architecture is compatible with the concept of a **data mesh.** Bronze and silver tables can be joined together in a "one-to-many" fashion, meaning that the data in a single upstream table could be used to generate multiple downstream tables.
+
+[Different Data Warehousing Modeling Techniques and How to Implement them on the Databricks Lakehouse Platform - The Databricks Blog](https://www.databricks.com/blog/2022/06/24/data-warehousing-modeling-techniques-and-their-implementation-on-the-databricks-lakehouse-platform.html)

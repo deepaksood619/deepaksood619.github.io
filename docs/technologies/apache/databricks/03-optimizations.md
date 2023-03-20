@@ -77,7 +77,7 @@ As Databricks continues to add features and capabilities, we can also Auto Tune 
 
 ### Create a Z-Order on your fact tables
 
-![z-order](media/Pasted%20image%2020230320173453.png)
+![z-order](../../../media/Pasted%20image%2020230320173453.png)
 
 To improve query speed, Delta Lake supports the ability to optimize the layout of data stored in cloud storage with [Z-Ordering](https://docs.databricks.com/delta/optimizations/file-mgmt.html), also known as multi-dimensional clustering. Z-Orders are used in similar situations as clustered indexes in the database world, though they are not actually an auxiliary structure. A Z-Order will cluster the data in the Z-Order definition, so that rows like column values from the Z-order definition are collocated in as few files as possible.
 

@@ -99,18 +99,18 @@ Proxy based Redis cluster solution supporting pipeline and scaling dynamically
 ![image](../../../media/Redis-image1.jpg)
 
 <https://github.com/CodisLabs/codis>
-|                                      | Codis       | Twemproxy   | Redis Cluster                                                               |
-|--------------------------|-----------|------------|-------------------------|
-| resharding without restarting cluster | Yes         | No          | Yes                                                                         |
-| pipeline                              | Yes         | Yes         | No                                                                          |
-| hash tags for multi-key operations    | Yes         | Yes         | Yes                                                                         |
-| multi-key operations while resharding | Yes         | -      | No([details](http://redis.io/topics/cluster-spec#multiple-keys-operations)) |
-| Redis clients supporting              | Any clients | Any clients | Clients have to support cluster protocol                                    |
+
+| | **Codis** | **Twemproxy** | **Redis Cluster** |
+|---|---|---|---|
+| resharding without restarting cluster | Yes | No | Yes |
+| pipeline | Yes | Yes | No |
+| hash tags for multi-key operations | Yes | Yes | Yes |
+| multi-key operations while resharding | Yes | - | No([details](http://redis.io/topics/cluster-spec#multiple-keys-operations)) |
+| Redis clients supporting | Any clients | Any clients | Clients have to support cluster protocol |
 
 ## Other in-memory database
 
 1. facebook rocksdb
-
 2. memcached
 
 ## Redis vs Memcached

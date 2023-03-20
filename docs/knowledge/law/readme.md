@@ -8,7 +8,7 @@
   - [Schedules](constitution-of-india/schedules)
   - [Others](constitution-of-india/others)
 
-# Outline
+## Outline
 
 - [Administrative law](https://en.wikipedia.org/wiki/Administrative_law)
 - [Canon law](https://en.wikipedia.org/wiki/Canon_law)

@@ -1,6 +1,126 @@
 {
   "recentFiles": [
     {
+      "basename": "data-fetching",
+      "path": "frontend/others/nextjs/data-fetching.md"
+    },
+    {
+      "basename": "intro",
+      "path": "databases/nosql-databases/redis/intro.md"
+    },
+    {
+      "basename": "20-delta-live-tables",
+      "path": "technologies/apache/databricks/20-delta-live-tables.md"
+    },
+    {
+      "basename": "readme",
+      "path": "technologies/apache/databricks/readme.md"
+    },
+    {
+      "basename": "10-medallion-architecture",
+      "path": "technologies/apache/databricks/10-medallion-architecture.md"
+    },
+    {
+      "basename": "04-fact-dimension-tables",
+      "path": "databases/data-warehousing/04-fact-dimension-tables.md"
+    },
+    {
+      "basename": "10-lambda-architecture",
+      "path": "databases/data-warehousing/10-lambda-architecture.md"
+    },
+    {
+      "basename": "others",
+      "path": "databases/data-warehousing/others.md"
+    },
+    {
+      "basename": "readme",
+      "path": "databases/data-warehousing/readme.md"
+    },
+    {
+      "basename": "11-dw-databases",
+      "path": "databases/data-warehousing/11-dw-databases.md"
+    },
+    {
+      "basename": "readme",
+      "path": "computer-science/system-design/readme.md"
+    },
+    {
+      "basename": "others",
+      "path": "computer-science/system-design/others.md"
+    },
+    {
+      "basename": "09-kimball-inmon-architecture",
+      "path": "databases/data-warehousing/09-kimball-inmon-architecture.md"
+    },
+    {
+      "basename": "07-warehouse-schemas",
+      "path": "databases/data-warehousing/07-warehouse-schemas.md"
+    },
+    {
+      "basename": "06-architecture",
+      "path": "databases/data-warehousing/06-architecture.md"
+    },
+    {
+      "basename": "05-characteristics",
+      "path": "databases/data-warehousing/05-characteristics.md"
+    },
+    {
+      "basename": "08-data-lake",
+      "path": "databases/data-warehousing/08-data-lake.md"
+    },
+    {
+      "basename": "00-intro",
+      "path": "technologies/apache/apache-spark/00-intro.md"
+    },
+    {
+      "basename": "03-slowly-changing-dimension-scd",
+      "path": "databases/data-warehousing/03-slowly-changing-dimension-scd.md"
+    },
+    {
+      "basename": "02-concepts",
+      "path": "databases/data-warehousing/02-concepts.md"
+    },
+    {
+      "basename": "01-intro",
+      "path": "databases/data-warehousing/01-intro.md"
+    },
+    {
+      "basename": "crypto-investing",
+      "path": "decentralized-applications/crypto-investing.md"
+    },
+    {
+      "basename": "new-home-place",
+      "path": "office/personality/new-home-place.md"
+    },
+    {
+      "basename": "tableau",
+      "path": "ai/data-science/data-visualization/tableau.md"
+    },
+    {
+      "basename": "03-optimizations",
+      "path": "technologies/apache/databricks/03-optimizations.md"
+    },
+    {
+      "basename": "04-workflow",
+      "path": "technologies/apache/databricks/04-workflow.md"
+    },
+    {
+      "basename": "02-databricks-getting-started",
+      "path": "technologies/apache/databricks/02-databricks-getting-started.md"
+    },
+    {
+      "basename": "01-databricks",
+      "path": "technologies/apache/databricks/01-databricks.md"
+    },
+    {
+      "basename": "infra",
+      "path": "office/blocktoons/infra.md"
+    },
+    {
+      "basename": "data-modeling",
+      "path": "databases/modeling/data-modeling.md"
+    },
+    {
       "basename": "architecture",
       "path": "office/cakedefi/architecture.md"
     },
@@ -9,16 +129,8 @@
       "path": "office/cakedefi/todo.md"
     },
     {
-      "basename": "tableau",
-      "path": "ai/data-science/data-visualization/tableau.md"
-    },
-    {
       "basename": "newsletter-learning-resources",
       "path": "computer-science/general/newsletter-learning-resources.md"
-    },
-    {
-      "basename": "slowly-changing-dimension-scd",
-      "path": "databases/data-warehousing/slowly-changing-dimension-scd.md"
     },
     {
       "basename": "tools",
@@ -31,14 +143,6 @@
     {
       "basename": "others-resources-interview",
       "path": "ai/courses/others-resources-interview.md"
-    },
-    {
-      "basename": "04-workflow",
-      "path": "technologies/apache/databricks/04-workflow.md"
-    },
-    {
-      "basename": "others",
-      "path": "databases/data-warehousing/others.md"
     },
     {
       "basename": "google-professional-cloud-architect-pca",
@@ -55,22 +159,6 @@
     {
       "basename": "bi-tools",
       "path": "ai/data-science/data-visualization/bi-tools.md"
-    },
-    {
-      "basename": "readme",
-      "path": "databases/data-warehousing/readme.md"
-    },
-    {
-      "basename": "01-databricks",
-      "path": "technologies/apache/databricks/01-databricks.md"
-    },
-    {
-      "basename": "03-optimizations",
-      "path": "technologies/apache/databricks/03-optimizations.md"
-    },
-    {
-      "basename": "02-databricks-getting-started",
-      "path": "technologies/apache/databricks/02-databricks-getting-started.md"
     },
     {
       "basename": "family-other-accounts",
@@ -93,16 +181,8 @@
       "path": "office/cakedefi/infra.md"
     },
     {
-      "basename": "10-medallion-architecture",
-      "path": "technologies/apache/databricks/10-medallion-architecture.md"
-    },
-    {
       "basename": "kubectl-commands",
       "path": "devops/kubernetes/kubectl-commands.md"
-    },
-    {
-      "basename": "kimball-inmon-architecture",
-      "path": "databases/data-warehousing/kimball-inmon-architecture.md"
     },
     {
       "basename": "365-data-science-program",
@@ -119,86 +199,6 @@
     {
       "basename": "motivation",
       "path": "knowledge/quotes-proverbs/motivation.md"
-    },
-    {
-      "basename": "99-others",
-      "path": "technologies/apache/databricks/99-others.md"
-    },
-    {
-      "basename": "infra",
-      "path": "office/blocktoons/infra.md"
-    },
-    {
-      "basename": "documentation",
-      "path": "databases/sql-databases/aws-redshift/documentation.md"
-    },
-    {
-      "basename": "architecture",
-      "path": "databases/sql-databases/aws-redshift/architecture.md"
-    },
-    {
-      "basename": "others",
-      "path": "ai/model-evaluation/others.md"
-    },
-    {
-      "basename": "statistics",
-      "path": "ai/data-science/statistics.md"
-    },
-    {
-      "basename": "k-nearest-neighbor-knn",
-      "path": "ai/ml-algorithms/k-nearest-neighbor-knn.md"
-    },
-    {
-      "basename": "ml-classification",
-      "path": "ai/ml-fundamentals/ml-classification.md"
-    },
-    {
-      "basename": "ml-libraries",
-      "path": "ai/libraries/ml-libraries.md"
-    },
-    {
-      "basename": "06-sliding-window-analytics",
-      "path": "technologies/apache/apache-spark/06-sliding-window-analytics.md"
-    },
-    {
-      "basename": "emails-templates-general",
-      "path": "office/personality/emails-templates-general.md"
-    },
-    {
-      "basename": "readme",
-      "path": "decentralized-applications/ethereum/readme.md"
-    },
-    {
-      "basename": "30-bridges",
-      "path": "decentralized-applications/ethereum/30-bridges.md"
-    },
-    {
-      "basename": "disagreement-feedback",
-      "path": "psychology/soft-skills/disagreement-feedback.md"
-    },
-    {
-      "basename": "improvements-feedbacks",
-      "path": "about-me/ideas/improvements-feedbacks.md"
-    },
-    {
-      "basename": "profiles",
-      "path": "office/personality/profiles.md"
-    },
-    {
-      "basename": "bigquery-big-query",
-      "path": "cloud/others/bigquery-big-query.md"
-    },
-    {
-      "basename": "readme",
-      "path": "technologies/apache/databricks/readme.md"
-    },
-    {
-      "basename": "others",
-      "path": "decentralized-applications/ethereum/others.md"
-    },
-    {
-      "basename": "deepak-banks",
-      "path": "office/keep/deepak-banks.md"
     }
   ],
   "omittedPaths": [],

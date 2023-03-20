@@ -1,6 +1,6 @@
 # Security
 
-- [Concepts](concepts)
+- [Concepts](computer-science/security/concepts.md)
 - [Cryptography](cryptography/readme.md)
 - [Authentication](authentication/readme.md)
 - [Attaks](attacks)

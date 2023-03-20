@@ -1,7 +1,7 @@
 # Operating System
 
 - [Intro](computer-science/operating-system/intro.md)
-- [Concepts](concepts)
+- [Concepts](computer-science/operating-system/concepts.md)
 - [Concurrency / Threading](concurrency-threading)
 - [Concurrency Model - Async](concurrency-models-async)
 - [Concurrency Problems](concurrency-problems)

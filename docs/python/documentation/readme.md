@@ -1,7 +1,7 @@
 # Documentation
 
 - [The Python Standard Library](the-python-standard-library)
-- [01 Intro](01-intro)
+- [01 Intro](python/documentation/01-intro.md)
 - [02 Built-in Functions](02-built-in-functions)
 - [03 Built-in Constants](03-built-in-constants)
 - [04 Built-in Types](04-built-in-types)

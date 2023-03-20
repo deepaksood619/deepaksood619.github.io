@@ -2,7 +2,7 @@
 
 - [AngularJS](frontend/others/angularjs/intro.md)
 - [Tour of Heroes](tour-of-heroes)
-- [Intro](01-intro)
+- [Intro](frontend/others/angularjs/01-intro.md)
 - [Modules](03-modules)
 - [Components](06-components)
 - [Metadata](08-metadata)

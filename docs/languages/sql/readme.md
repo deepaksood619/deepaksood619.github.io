@@ -1,7 +1,7 @@
 # SQL
 
 - [Intro](languages/sql/intro.md)
-- [Concepts](concepts)
+- [Concepts](languages/sql/concepts.md)
 - [Types](types)
 - [Operators / Wildcards](operators-wildcards)
 - [Postgres Commands](postgres-commands)

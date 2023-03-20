@@ -8,13 +8,13 @@ Used by Elasticsearch, this approach assumes that conflicts are unlikely to happ
 
 ## Java API
 
-If you are usingJava, Elasticsearch comes with two built-in clients that you can use in your code:
+If you are using Java, Elasticsearch comes with two built-in clients that you can use in your code:
 
-1. **Node client**
+#### Node client
 
 The node clientjoins a local cluster as anon data node. In other words, it doesn't hold any data itself, but it knows what data lives on which node in the cluster, and can forward requests directly to the correct node.
 
-2. **Transport client**
+#### Transport client
 
 The lighter-weighttransport client can be used to send requests to a remote cluster. It doesn't join the cluster itself, but simply forwards requests to a node in the cluster.
 
@@ -22,7 +22,7 @@ Both Java clients talk to the cluster over port9300, usingthe native Elasticsear
 
 ## Document Oriented
 
-Elasticsearch is*document oriented*, meaningthat it stores entire objects or *documents*. It not only stores them, but also *indexes*the contents of each document in order to make them searchable. In Elasticsearch, you index, search, sort, and filter documents - not rows of columnar data. This is a fundamentally different way of thinking about data and is one of the reasons Elasticsearch can perform complex full-text search.
+Elasticsearch is *document oriented*, meaningthat it stores entire objects or *documents*. It not only stores them, but also *indexes* the contents of each document in order to make them searchable. In Elasticsearch, you index, search, sort, and filter documents - not rows of columnar data. This is a fundamentally different way of thinking about data and is one of the reasons Elasticsearch can perform complex full-text search.
 
 ## JSON
 
@@ -41,11 +41,8 @@ Internally, Elasticsearch has marked the old document as deleted and added an en
 Update api
 
 1. Retrieve the JSON from the old document
-
 2. Change it
-
 3. Delete the old document
-
 4. Index a new document
 
 The only difference is that theupdateAPI achieves this through a single client request, instead of requiring separategetandindexrequests.

@@ -45,3 +45,17 @@ Inmon’s approach to designing a Datawarehouse was introduced by **Bill Inmon**
 [Inmon or Kimball: Which approach is suitable for your data warehouse? | Computer Weekly](https://www.computerweekly.com/tip/Inmon-or-Kimball-Which-approach-is-suitable-for-your-data-warehouse)
 
 [Difference between Kimball and Inmon - GeeksforGeeks](https://www.geeksforgeeks.org/difference-between-kimball-and-inmon/)
+
+## Data Vault
+
+A [Data Vault](https://www.databricks.com/glossary/data-vault) is a more recent data modeling design pattern used to build data warehouses for enterprise-scale analytics compared to Kimball and Inmon methods.
+
+Data Vaults organize data into three different types: **hubs**, **links**, and **satellites**. Hubs represent core business entities, links represent relationships between hubs, and satellites store attributes about hubs or links.
+
+Data Vault focuses on agile data warehouse development where scalability, data integration/ETL and development speed are important. Most customers have a landing zone, Vault zone and a data mart zone which correspond to the Databricks organizational paradigms of Bronze, Silver and Gold layers. The Data Vault modeling style of hub, link and satellite tables typically fits well in the Silver layer of the Databricks Lakehouse.
+
+![A diagram showing how Data Vault modeling works, with hubs, links, and satellites connecting to one another.](../../media/Pasted%20image%2020230320193615.png)
+
+[Different Data Warehousing Modeling Techniques and How to Implement them on the Databricks Lakehouse Platform - The Databricks Blog](https://www.databricks.com/blog/2022/06/24/data-warehousing-modeling-techniques-and-their-implementation-on-the-databricks-lakehouse-platform.html)
+
+[Data Vault 2.0 - DataVaultAlliance](https://datavaultalliance.com/)

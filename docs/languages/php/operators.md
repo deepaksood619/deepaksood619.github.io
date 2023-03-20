@@ -15,7 +15,7 @@ Assume variable A holds 10 and variable B holds 20 then −
 | Operator | Description                                                 | Example              |
 |----------|----------------------------------------------|----------------|
 | +       | Adds two operands                                           | A + B will give 30   |
-| -   | Subtracts second operand from the first                     | A - B will give -10  |
+| - | Subtracts second operand from the first                     | A - B will give -10  |
 | *       | Multiply both operands                                      | A * B will give 200 |
 | /        | Divide numerator by de-numerator                            | B / A will give 2    |
 | %       | Modulus Operator and remainder of after an integer division | B % A will give 0    |
@@ -91,9 +91,9 @@ Here operators with the highest precedence appear at the top of the table, those
 
 | Category       | Operator          | Associativity |
 |----------------|-------------------|---------------|
-| Unary          | ! ++ --      | Right to left |
+| Unary          | ! ++ --    | Right to left |
 | Multiplicative | * / %            | Left to right |
-| Additive       | + -          | Left to right |
+| Additive       | + -        | Left to right |
 | Relational     | < <= > >=     | Left to right |
 | Equality       | == !=             | Left to right |
 | Logical AND    | &&                | Left to right |

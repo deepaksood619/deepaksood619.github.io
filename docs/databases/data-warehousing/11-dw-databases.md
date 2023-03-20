@@ -11,6 +11,7 @@
 9. MemSQL
 10. Presto
 11. FireBolt
+12. [Databricks](technologies/apache/databricks/readme.md)
 
 ## A new class of cloud data warehouses built for AWS
 

@@ -24,11 +24,12 @@ All positions are static by default. Meaning they take up the appropriate amount
 
 Position relative allows you to do two different things
 
-1. To nudge elements in different directions withtop, right, bottomandleftvalues.
+1. To nudge elements in different directions withtop, right, bottom and left values.
+
     When set to position relative, elements take up the same amount of space at the same exact position it was supposed to take as if its position was static.
     It can however, appear to be pushed to a different location visually.
 
-![image](../../../media/CSS-Intro_CSS-Positions-image1.jpg)
+    ![image](../../../media/CSS-Intro_CSS-Positions-image1.jpg)
 
 2. Allow a child element to be positioned absolutely with reference to it. (See below)
 

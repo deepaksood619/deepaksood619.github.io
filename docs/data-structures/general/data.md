@@ -13,15 +13,16 @@ Semi-structured data is information that does not reside in a relational databas
 
 Unstructured data is a data which is not organized in a predefined manner or does not have a predefined data model, thus it is not a good fit for a mainstream relational database. So for Unstructured data, there are alternative platforms for storing and managing, it is increasingly prevalent in IT systems and is used by organizations in a variety of business intelligence and analytics applications.Example: Word, PDF, Text, Media logs.**Differences between Structured, Semi-structured and Unstructured data**
 
-| **Properties**             | **Structured data**                                    | **Semi-structured data**                                                          | **Unstructured data**                              |
-|-------------|--------------------|------------------------|-----------------|
-| **Technology**             | It is based on Relational database table               | It is based on XML/RDF(Resource Description Framework).                           | It is based on character and binary data           |
-| **Transaction management** | Matured transaction and various concurrency techniques | Transaction is adapted from DBMS not matured                                      | No transaction management and no concurrency       |
-| **Version management**     | Versioning over tuples, row, tables                      | Versioning over tuples or graph is possible                                       | Versioned as a whole                               |
-| **Flexibility**            | It is schema dependent and less flexible               | It is more flexible than structured data but less flexible than unstructured data | It is more flexible and there is absence of schema |
-| **Scalability**            | It is very difficult to scale DB schema                | It's scaling is simpler than structured data                                      | It is more scalable.                               |
-| **Robustness**             | Very robust                                            | New technology, not very spread                                                   | ---                                            |
-| **Query performance**      | Structured query allow complex joining                | Queries over anonymous nodes are possible                                         | Only textual queries are possible                  |
+| **Properties** | **Structured data** | **Semi-structured data** | **Unstructured data** |
+|---|---|---|---|
+| **Technology** | It is based on Relational database table | It is based on XML/RDF(Resource Description Framework). | It is based on character and binary data |
+| **Transaction management** | Matured transaction and various concurrency techniques | Transaction is adapted from DBMS not matured | No transaction management and no concurrency |
+| **Version management** | Versioning over tuples, row, tables | Versioning over tuples or graph is possible | Versioned as a whole |
+| **Flexibility** | It is schema dependent and less flexible | It is more flexible than structured data but less flexible than unstructured data | It is more flexible and there is absence of schema |
+| **Scalability** | It is very difficult to scale DB schema | It's scaling is simpler than structured data | It is more scalable. |
+| **Robustness** | Very robust | New technology, not very spread | --- |
+| **Query performance** | Structured query allow complex joining | Queries over anonymous nodes are possible | Only textual queries are possible |
+
 <https://www.geeksforgeeks.org/difference-between-structured-semi-structured-and-unstructured-data>
 
 ## Types of Large Objects (LOBs)

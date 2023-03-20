@@ -265,11 +265,11 @@ This is how you can change the permissions on file by assigning an absolute numb
 
 In the Absolute mode, you change permissions for all 3 owners. In the symbolic mode, you can modify permissions of a specific owner. It makes use of mathematical symbols to modify the file permissions.
 
-| Operator | Description                                                    |
-|-------------|-----------------------------------------------------------|
-| +       | Adds a permission to a file or directory                       |
-| -   | Removes the permission                                         |
-| =        | Sets the permission and overrides the permissions set earlier. |
+| Operator | Description |
+|---|---|
+| + | Adds a permission to a file or directory |
+| - | Removes the permission |
+| = | Sets the permission and overrides the permissions set earlier. |
 
 The various owners are represented as -
 
