@@ -47,25 +47,32 @@ Yak shaving is programming lingo for the seemingly endless series of small tasks
 
 ## [Engineering Principles](http://engineering-principles.onejl.uk/)
 
-- ARCHITECTURE
-  - [Build Differentiators](http://engineering-principles.onejl.uk/architecture/Build_Differentiators.html)
-  - [Design for Emergent Reuse](http://engineering-principles.onejl.uk/architecture/Design_for_Emergent_Reuse.html)
-  - [Evolutionary Systems](http://engineering-principles.onejl.uk/architecture/Evolutionary_Systems.html)
-  - [Scale Horizontally](http://engineering-principles.onejl.uk/architecture/Scale_Horizontally.html)
-  - [Small and Simple](http://engineering-principles.onejl.uk/architecture/Small_and_Simple.html)
-  - [Smarts in the Nodes not the Network](http://engineering-principles.onejl.uk/architecture/Smarts_in_the_Nodes_not_the_Network.html)
-- OPERATIONAL
-  - [Cloud Native](http://engineering-principles.onejl.uk/operational/Cloud_Native.html)
-  - [Data Stewardship](http://engineering-principles.onejl.uk/operational/Data_Stewardship.html)
-  - [Production Ready](http://engineering-principles.onejl.uk/operational/Production_Ready.html)
-- ORGANISATION
-  - [Keep Pace with Technological Change](http://engineering-principles.onejl.uk/organisation/Keep_Pace_with_Technological_Change.html)
-  - [Model the Business Domain](http://engineering-principles.onejl.uk/organisation/Model_the_Business_Domain.html)
-- TECHNOLOGY & PRACTICES
-  - [Secure by Design](http://engineering-principles.onejl.uk/practices/Secure_by_Design.html)
-  - [Automate by Default](http://engineering-principles.onejl.uk/practices/Automate_by_Default.html)
-  - [Consistent Environments](http://engineering-principles.onejl.uk/practices/Consistent_Environments.html)
-  - [Understandability](http://engineering-principles.onejl.uk/practices/Understandability.html)
-  - [Performance Importance](http://engineering-principles.onejl.uk/practices/Performance_Importance.html)
-  - [Get Feedback Early and Often](http://engineering-principles.onejl.uk/practices/Get_Feedback_Early_and_Often.html)
-  - [Design for Testability](http://engineering-principles.onejl.uk/practices/Testability.html)
+### ARCHITECTURE
+
+- [Build Differentiators](http://engineering-principles.onejl.uk/architecture/Build_Differentiators.html)
+- [Design for Emergent Reuse](http://engineering-principles.onejl.uk/architecture/Design_for_Emergent_Reuse.html)
+- [Evolutionary Systems](http://engineering-principles.onejl.uk/architecture/Evolutionary_Systems.html)
+- [Scale Horizontally](http://engineering-principles.onejl.uk/architecture/Scale_Horizontally.html)
+- [Small and Simple](http://engineering-principles.onejl.uk/architecture/Small_and_Simple.html)
+- [Smarts in the Nodes not the Network](http://engineering-principles.onejl.uk/architecture/Smarts_in_the_Nodes_not_the_Network.html)
+
+### OPERATIONAL
+
+- [Cloud Native](http://engineering-principles.onejl.uk/operational/Cloud_Native.html)
+- [Data Stewardship](http://engineering-principles.onejl.uk/operational/Data_Stewardship.html)
+- [Production Ready](http://engineering-principles.onejl.uk/operational/Production_Ready.html)
+
+### ORGANISATION
+
+- [Keep Pace with Technological Change](http://engineering-principles.onejl.uk/organisation/Keep_Pace_with_Technological_Change.html)
+- [Model the Business Domain](http://engineering-principles.onejl.uk/organisation/Model_the_Business_Domain.html)
+
+### TECHNOLOGY & PRACTICES
+
+- [Secure by Design](http://engineering-principles.onejl.uk/practices/Secure_by_Design.html)
+- [Automate by Default](http://engineering-principles.onejl.uk/practices/Automate_by_Default.html)
+- [Consistent Environments](http://engineering-principles.onejl.uk/practices/Consistent_Environments.html)
+- [Understandability](http://engineering-principles.onejl.uk/practices/Understandability.html)
+- [Performance Importance](http://engineering-principles.onejl.uk/practices/Performance_Importance.html)
+- [Get Feedback Early and Often](http://engineering-principles.onejl.uk/practices/Get_Feedback_Early_and_Often.html)
+- [Design for Testability](http://engineering-principles.onejl.uk/practices/Testability.html)

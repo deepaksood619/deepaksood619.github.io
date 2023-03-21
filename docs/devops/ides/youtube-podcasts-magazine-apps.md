@@ -121,6 +121,8 @@
 - The daily show with Trevor noah
 - Priya Jain
 - Learn with finology
+- Labour Law Advisors
+- Practical Engineering
 
 ### Finance / Stocks / Personal finance
 

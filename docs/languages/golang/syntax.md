@@ -17,26 +17,16 @@ In Go language, defer statements delay the execution of the [function](https://w
 
 ## Decision making
 
-1. **if statement**
+1. **if statement** - An if statement consists of a boolean expression followed by one or more statements.
 
-Anif statementconsists of a boolean expression followed by one or more statements.
+2. **if...else statement** - An if statement can be followed by an optionalelse statement, which executes when the boolean expression is false.
 
-2. **if...else statement**
+3. **nested if statement** - You can use one if or else if statement inside another if or else if statement(s).
 
-Anif statementcan be followed by an optionalelse statement, which executes when the boolean expression is false.
+4. **switch statement** - A switch statement allows a variable to be tested for equality against a list of values.
 
-3. **nested if statement**
+    1. Expression Switch − In expression switch, a case contains expressions, which is compared against the value of the switch expression.
 
-You can use oneiforelse ifstatement inside anotheriforelse ifstatement(s).
+    2. Type Switch − In type switch, a case contain type which is compared against the type of a specially annotated switch expression.
 
-4. **switch statement**
-
-Aswitchstatement allows a variable to be tested for equality against a list of values.
-
-1. Expression Switch− In expression switch, a case contains expressions, which is compared against the value of the switch expression.
-
-2. Type Switch− In type switch, a case contain type which is compared against the type of a specially annotated switch expression.
-
-5. **select statement**
-
-Aselectstatement is similar toswitchstatement with difference that case statements refers to channel communications.
+5. **select statement** - A select statement is similar to switch statement with difference that case statements refers to channel communications.

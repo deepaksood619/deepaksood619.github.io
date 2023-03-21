@@ -11,6 +11,7 @@ not your keys, not your crypto
 - Cold wallets
 
     These types of bitcoin wallets cannot be accessed through the internet. They often involve physical devices (like a USB stick), where bitcoin and other cryptocurrencies can be stored securely offline.
+  - [Ledger Nano S Plus | Ledger](https://shop.ledger.com/products/ledger-nano-s-plus)
 
 [How to Store Your Bitcoin](https://www.coindesk.com/learn/how-to-store-your-bitcoin)
 
@@ -97,3 +98,5 @@ The Top Three Highest Ranking Crypto Websites on Alexa
 ### Links
 
 [How to Spot Crypto Pump-and-Dump Schemes](https://www.coindesk.com/learn/how-to-spot-crypto-pump-and-dump-schemes)
+
+[Best Crypto Staking Pools in 2023 - Bear Market Passive Income? - YouTube](https://www.youtube.com/watch?v=mleAqEKEb10)

@@ -206,6 +206,21 @@ Loss from business and profession cannot be set off against income chargeable to
 
 <https://freefincal.com/which-itr-form-should-i-use>
 
+## Inward remittances
+
+**Purpose Code**
+
+- P1006 - Business and management consultancy and public relations services taxation
+- P0802 - Software consultancy implementation other than those covered in SOFTEX form
+
+[Foreign Inward Remittance Certificate for India (FIRC) – Upwork Customer Service & Support | Upwork Help](https://support.upwork.com/hc/en-us/articles/11494386652179-Foreign-Inward-Remittance-Certificate-for-India-FIRC-)
+
+[Foreign Remittances | Fees for Technical Services | TDS Requirement](https://taxguru.in/income-tax/foreign-remittances-fees-technical-services-tds-requirement.html)
+
+[DTAAs with special reference to DTAA between India and Singapore](https://taxguru.in/income-tax/dtaas-special-reference-dtaa-india-singapore.html)
+
+[Singapore & India Double Tax Agreement DTA | GuideMeSingapore - by Hawksford](https://www.guidemesingapore.com/business-guides/taxation-and-accounting/double-tax-treaties/singapore-india-double-tax-treaty-guide)
+
 ## NRI Taxes
 
 [Income Tax for NRI](https://cleartax.in/s/income-tax-for-nri)

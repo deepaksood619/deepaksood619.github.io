@@ -34,7 +34,7 @@ Learn it, Love it, Live it
 
 <https://jobs.netflix.com/culture>
 
-Judgment
+#### Judgment
 
 - You make wise decisions despite ambiguity
 - You identify root causes, and get beyond treating symptoms
@@ -42,7 +42,7 @@ Judgment
 - You are good at using data to inform your intuition
 - You make decisions based on the long term, not near term
 
-Communication
+#### Communication
 
 - You are concise and articulate in speech and writing
 - You listen well and seek to understand before reacting
@@ -50,7 +50,7 @@ Communication
 - You adapt your communication style to work well with people from around the world who may not share your native language
 - You provide candid, helpful, timely feedback to colleagues
 
-Curiosity
+#### Curiosity
 
 - You learn rapidly and eagerly
 - You contribute effectively outside of your specialty
@@ -58,7 +58,7 @@ Curiosity
 - You seek to understand our members around the world, and how we entertain them
 - You seek alternate perspectives
 
-Courage
+#### Courage
 
 - You say what you think, when it's in the best interest of Netflix, even if it is uncomfortable
 - You make tough decisions without agonizing
@@ -66,20 +66,20 @@ Courage
 - You question actions inconsistent with our values
 - You are able to be vulnerable, in search of truth
 
-Passion
+#### Passion
 
 - You inspire others with your thirst for excellence
 - You care intensely about our members and Netflix's success
 - You are tenacious and optimistic
 - You are quietly confident and openly humble
 
-Selflessness
+#### Selflessness
 
 - You seek what is best for Netflix, rather than what is best for yourself or your group
 - You are open-minded in search of great ideas
 - You make time to help colleagues
 
-Innovation
+#### Innovation
 
 - You create new ideas that prove useful
 - You re-conceptualize issues to discover solutions to hard problems
@@ -87,7 +87,7 @@ Innovation
 - You keep us nimble by minimizing complexity and finding time to simplify
 - You thrive on change
 
-Inclusion
+#### Inclusion
 
 - You collaborate effectively with people of diverse backgrounds and cultures
 - You nurture and embrace differing perspectives to make better decisions
@@ -95,7 +95,7 @@ Inclusion
 - You intervene if someone else is being marginalized
 - You are curious about how our different backgrounds affect us at work, rather than pretending they don't affect us
 
-Integrity
+#### Integrity
 
 - You are known for candor, authenticity, transparency, and being non-political
 - You only say things about fellow employees that you say to their face
@@ -103,7 +103,7 @@ Integrity
 - You treat people with respect regardless of their status or disagreement with you
 - You always share relevant information, even when worrisome to do so
 
-Impact
+#### Impact
 
 - You accomplish amazing amounts of important work
 - You demonstrate consistently strong performance so colleagues can rely upon you

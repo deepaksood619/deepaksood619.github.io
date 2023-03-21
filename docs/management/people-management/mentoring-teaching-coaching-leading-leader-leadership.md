@@ -22,7 +22,7 @@ Leadership is not equal to management
 
 The best way to encourage radical candor is to be open to it youself - demonstrate the behavior you want to encourage in others
 
-![image](../media/Mentoring-Teaching-Coaching-Leading-Leader-Leadership-image1.jpg)
+![image](../../media/Mentoring-Teaching-Coaching-Leading-Leader-Leadership-image1.jpg)
 
 - Cynicism - We have a problem, but they don't want to solve it
 - Pessimism - We have a problem, but we can't solve it
@@ -136,7 +136,7 @@ Good business leaders create a vision, articulate the vision, passionately own t
 
 <https://www.atlassian.com/blog/quiz/find-your-leadership-style-examples>
 
-![image](../media/Mentoring-Teaching-Coaching-Leading-Leader-Leadership-image2.jpg)
+![image](../../media/Mentoring-Teaching-Coaching-Leading-Leader-Leadership-image2.jpg)
 
 ## Executive Presence
 
@@ -272,6 +272,6 @@ Trust - [The advice that changed my life!](https://www.youtube.com/watch?v=ggVrF
 
 ## Links
 
-- [Leaders Eat Last](../book-summaries/leaders-eat-last)
+- [Leaders Eat Last](book-summaries/leaders-eat-last.md)
 
 [The Habit That Could Improve Your Career | Paul Catchlove | TED](https://www.youtube.com/watch?v=NcKLNP8x_QA) - Reflection

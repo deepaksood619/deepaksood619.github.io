@@ -8,11 +8,9 @@
 
 - Note that these contraints are interrelated, so a strain on one of the core contraints will affect one or more of the other constraints
 
-    1. The [quality](https://en.wikipedia.org/wiki/Quality_(business)) of work is constrained by the project's budget, deadlines and scope (features).
-
-    2. The [project manager](https://en.wikipedia.org/wiki/Project_manager) can trade between constraints.
-
-    3. Changes in one constraint necessitate changes in others to compensate or quality will suffer.
+1. The [quality](https://en.wikipedia.org/wiki/Quality_(business)) of work is constrained by the project's budget, deadlines and scope (features).
+2. The [project manager](https://en.wikipedia.org/wiki/Project_manager) can trade between constraints.
+3. Changes in one constraint necessitate changes in others to compensate or quality will suffer.
 
 - For example, a project can be completed faster by increasing budget or cutting scope. Similarly, increasing scope may require equivalent increases in budget and schedule. Cutting budget without adjusting schedule or scope will lead to lower quality.
 - **"Good, fast, cheap. Choose two."** and similar statements are often used to encapsulate the triangle's constraints concisely.

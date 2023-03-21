@@ -1,6 +1,190 @@
 {
   "recentFiles": [
     {
+      "basename": "mechanical-engineering",
+      "path": "knowledge/applied-sciences/mechanical-engineering.md"
+    },
+    {
+      "basename": "readme",
+      "path": "frontend/others/nodejs/readme.md"
+    },
+    {
+      "basename": "crypto-investing",
+      "path": "decentralized-applications/crypto-investing.md"
+    },
+    {
+      "basename": "movies-serials-apps",
+      "path": "office/personality/movies-serials-apps.md"
+    },
+    {
+      "basename": "life-lessons-buying-guide-travelling-shopping",
+      "path": "office/personality/life-lessons-buying-guide-travelling-shopping.md"
+    },
+    {
+      "basename": "goal-setting",
+      "path": "management/project-management/goal-setting.md"
+    },
+    {
+      "basename": "readme",
+      "path": "management/project-management/readme.md"
+    },
+    {
+      "basename": "goals",
+      "path": "office/todo/goals.md"
+    },
+    {
+      "basename": "agile",
+      "path": "management/project-management/agile.md"
+    },
+    {
+      "basename": "principles",
+      "path": "computer-science/software-engineering/principles.md"
+    },
+    {
+      "basename": "project-contraints",
+      "path": "management/project-management/project-contraints.md"
+    },
+    {
+      "basename": "scrum-meetings",
+      "path": "management/project-management/scrum-meetings.md"
+    },
+    {
+      "basename": "jira",
+      "path": "management/project-management/jira.md"
+    },
+    {
+      "basename": "youtube-podcasts-magazine-apps",
+      "path": "devops/ides/youtube-podcasts-magazine-apps.md"
+    },
+    {
+      "basename": "neha",
+      "path": "office/keep/neha.md"
+    },
+    {
+      "basename": "product",
+      "path": "office/cakedefi/product.md"
+    },
+    {
+      "basename": "tableau",
+      "path": "ai/data-science/data-visualization/tableau.md"
+    },
+    {
+      "basename": "returns-tax-taxes-itr",
+      "path": "economics/financial-finance-investing/returns-tax-taxes-itr.md"
+    },
+    {
+      "basename": "my-taxes",
+      "path": "office/todo/my-taxes.md"
+    },
+    {
+      "basename": "people-team-management-culture",
+      "path": "management/people-management/people-team-management-culture.md"
+    },
+    {
+      "basename": "mentoring-teaching-coaching-leading-leader-leadership",
+      "path": "management/people-management/mentoring-teaching-coaching-leading-leader-leadership.md"
+    },
+    {
+      "basename": "culture",
+      "path": "management/people-management/culture.md"
+    },
+    {
+      "basename": "readme",
+      "path": "management/people-management/readme.md"
+    },
+    {
+      "basename": "others",
+      "path": "management/roles/others.md"
+    },
+    {
+      "basename": "readme",
+      "path": "management/readme.md"
+    },
+    {
+      "basename": "principle-software-engineer",
+      "path": "management/roles/principle-software-engineer.md"
+    },
+    {
+      "basename": "engineering-manager",
+      "path": "management/roles/engineering-manager.md"
+    },
+    {
+      "basename": "data",
+      "path": "management/roles/data.md"
+    },
+    {
+      "basename": "sql-queries",
+      "path": "office/cakedefi/sql-queries.md"
+    },
+    {
+      "basename": "remote-working-teams",
+      "path": "management/people-management/remote-working-teams.md"
+    },
+    {
+      "basename": "pert-and-cpm",
+      "path": "management/project-management/pert-and-cpm.md"
+    },
+    {
+      "basename": "customer-engagement-cx",
+      "path": "management/customer-engagement-cx.md"
+    },
+    {
+      "basename": "project-product-business-tools-saas",
+      "path": "management/project-product-business-tools-saas.md"
+    },
+    {
+      "basename": "mental-models",
+      "path": "management/mental-models.md"
+    },
+    {
+      "basename": "marketing-sales",
+      "path": "management/marketing-sales.md"
+    },
+    {
+      "basename": "growth-hacking",
+      "path": "management/growth-hacking.md"
+    },
+    {
+      "basename": "community-building",
+      "path": "management/community-building.md"
+    },
+    {
+      "basename": "life-relationship-people",
+      "path": "psychology/life-relationship-people.md"
+    },
+    {
+      "basename": "others",
+      "path": "databases/sql-databases/mysql/others.md"
+    },
+    {
+      "basename": "others",
+      "path": "languages/sql/others.md"
+    },
+    {
+      "basename": "operations",
+      "path": "office/cakedefi/operations.md"
+    },
+    {
+      "basename": "tables",
+      "path": "office/cakedefi/tables.md"
+    },
+    {
+      "basename": "readme",
+      "path": "python/others/flask/readme.md"
+    },
+    {
+      "basename": "sql-examples",
+      "path": "languages/sql/sql-examples.md"
+    },
+    {
+      "basename": "technologies-tools",
+      "path": "databases/others/technologies-tools.md"
+    },
+    {
+      "basename": "infra",
+      "path": "office/cakedefi/infra.md"
+    },
+    {
       "basename": "intro",
       "path": "ai/data-science/intro.md"
     },
@@ -15,190 +199,6 @@
     {
       "basename": "03-optimizations",
       "path": "technologies/apache/databricks/03-optimizations.md"
-    },
-    {
-      "basename": "20-delta-live-tables",
-      "path": "technologies/apache/databricks/20-delta-live-tables.md"
-    },
-    {
-      "basename": "10-medallion-architecture",
-      "path": "technologies/apache/databricks/10-medallion-architecture.md"
-    },
-    {
-      "basename": "data-fetching",
-      "path": "frontend/others/nextjs/data-fetching.md"
-    },
-    {
-      "basename": "intro",
-      "path": "databases/nosql-databases/redis/intro.md"
-    },
-    {
-      "basename": "readme",
-      "path": "technologies/apache/databricks/readme.md"
-    },
-    {
-      "basename": "10-lambda-architecture",
-      "path": "databases/data-warehousing/10-lambda-architecture.md"
-    },
-    {
-      "basename": "others",
-      "path": "databases/data-warehousing/others.md"
-    },
-    {
-      "basename": "readme",
-      "path": "databases/data-warehousing/readme.md"
-    },
-    {
-      "basename": "11-dw-databases",
-      "path": "databases/data-warehousing/11-dw-databases.md"
-    },
-    {
-      "basename": "readme",
-      "path": "computer-science/system-design/readme.md"
-    },
-    {
-      "basename": "others",
-      "path": "computer-science/system-design/others.md"
-    },
-    {
-      "basename": "09-kimball-inmon-architecture",
-      "path": "databases/data-warehousing/09-kimball-inmon-architecture.md"
-    },
-    {
-      "basename": "07-warehouse-schemas",
-      "path": "databases/data-warehousing/07-warehouse-schemas.md"
-    },
-    {
-      "basename": "06-architecture",
-      "path": "databases/data-warehousing/06-architecture.md"
-    },
-    {
-      "basename": "05-characteristics",
-      "path": "databases/data-warehousing/05-characteristics.md"
-    },
-    {
-      "basename": "08-data-lake",
-      "path": "databases/data-warehousing/08-data-lake.md"
-    },
-    {
-      "basename": "00-intro",
-      "path": "technologies/apache/apache-spark/00-intro.md"
-    },
-    {
-      "basename": "03-slowly-changing-dimension-scd",
-      "path": "databases/data-warehousing/03-slowly-changing-dimension-scd.md"
-    },
-    {
-      "basename": "02-concepts",
-      "path": "databases/data-warehousing/02-concepts.md"
-    },
-    {
-      "basename": "01-intro",
-      "path": "databases/data-warehousing/01-intro.md"
-    },
-    {
-      "basename": "crypto-investing",
-      "path": "decentralized-applications/crypto-investing.md"
-    },
-    {
-      "basename": "new-home-place",
-      "path": "office/personality/new-home-place.md"
-    },
-    {
-      "basename": "tableau",
-      "path": "ai/data-science/data-visualization/tableau.md"
-    },
-    {
-      "basename": "04-workflow",
-      "path": "technologies/apache/databricks/04-workflow.md"
-    },
-    {
-      "basename": "02-databricks-getting-started",
-      "path": "technologies/apache/databricks/02-databricks-getting-started.md"
-    },
-    {
-      "basename": "01-databricks",
-      "path": "technologies/apache/databricks/01-databricks.md"
-    },
-    {
-      "basename": "infra",
-      "path": "office/blocktoons/infra.md"
-    },
-    {
-      "basename": "architecture",
-      "path": "office/cakedefi/architecture.md"
-    },
-    {
-      "basename": "todo",
-      "path": "office/cakedefi/todo.md"
-    },
-    {
-      "basename": "newsletter-learning-resources",
-      "path": "computer-science/general/newsletter-learning-resources.md"
-    },
-    {
-      "basename": "tools",
-      "path": "decentralized-applications/tools.md"
-    },
-    {
-      "basename": "google-professional-data-engineer-pde",
-      "path": "ai/courses/google-professional-data-engineer-pde.md"
-    },
-    {
-      "basename": "others-resources-interview",
-      "path": "ai/courses/others-resources-interview.md"
-    },
-    {
-      "basename": "google-professional-cloud-architect-pca",
-      "path": "ai/courses/google-professional-cloud-architect-pca.md"
-    },
-    {
-      "basename": "readme",
-      "path": "ai/courses/readme.md"
-    },
-    {
-      "basename": "readme",
-      "path": "ai/data-science/data-visualization/readme.md"
-    },
-    {
-      "basename": "bi-tools",
-      "path": "ai/data-science/data-visualization/bi-tools.md"
-    },
-    {
-      "basename": "family-other-accounts",
-      "path": "office/keep/family-other-accounts.md"
-    },
-    {
-      "basename": "others",
-      "path": "office/keep/others.md"
-    },
-    {
-      "basename": "product",
-      "path": "office/cakedefi/product.md"
-    },
-    {
-      "basename": "people",
-      "path": "office/cakedefi/people.md"
-    },
-    {
-      "basename": "infra",
-      "path": "office/cakedefi/infra.md"
-    },
-    {
-      "basename": "kubectl-commands",
-      "path": "devops/kubernetes/kubectl-commands.md"
-    },
-    {
-      "basename": "365-data-science-program",
-      "path": "computer-science/courses/365-data-science-program.md"
-    },
-    {
-      "basename": "powerbi",
-      "path": "ai/data-science/data-visualization/powerbi.md"
-    },
-    {
-      "basename": "life",
-      "path": "knowledge/quotes-proverbs/life.md"
     }
   ],
   "omittedPaths": [],

@@ -83,3 +83,5 @@ Double-click a logical table to open it and see its physical tables. Physical ta
 ## Resources
 
 [eLearning: Tableau Web-Based Training](https://www.tableau.com/learn/training/elearning)
+
+[tsm Command Line Reference - Tableau](https://help.tableau.com/current/server/en-us/tsm.htm)

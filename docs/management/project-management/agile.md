@@ -36,189 +36,133 @@ The key to doing agile right is [embracing a mindset of continuous improvement](
 
 - **Agile manifesto**
 - **Scrum**
-- **Kanban**
 
-[Overview](https://www.atlassian.com/agile/kanban)
+### Kanban
 
-[Cards](https://www.atlassian.com/agile/kanban/cards)
+- [Overview](https://www.atlassian.com/agile/kanban)
+- [Cards](https://www.atlassian.com/agile/kanban/cards)
+- [Boards](https://www.atlassian.com/agile/kanban/boards)
+- [WIP limits](https://www.atlassian.com/agile/kanban/wip-limits)
+- [Kanban vs Scrum](https://www.atlassian.com/agile/kanban/kanban-vs-scrum)
+- [Kanplan](https://www.atlassian.com/agile/kanban/kanplan)
 
-[Boards](https://www.atlassian.com/agile/kanban/boards)
+### Agile project management
 
-[WIP limits](https://www.atlassian.com/agile/kanban/wip-limits)
+- [Overview](https://www.atlassian.com/agile/project-management)
+- [Program](https://www.atlassian.com/agile/project-management/program)
+- [Workflow](https://www.atlassian.com/agile/project-management/workflow)
+- [Epics, stories, themes](https://www.atlassian.com/agile/project-management/epics-stories-themes)
+- [Epics](https://www.atlassian.com/agile/project-management/epics)
+- [User Stories](https://www.atlassian.com/agile/project-management/user-stories)
+- [Estimation](https://www.atlassian.com/agile/project-management/estimation)
+- [Metrics](https://www.atlassian.com/agile/project-management/metrics)
+- [Gantt Chart](https://www.atlassian.com/agile/project-management/gantt-chart)
 
-[Kanban vs Scrum](https://www.atlassian.com/agile/kanban/kanban-vs-scrum)
+### Product management
 
-[Kanplan](https://www.atlassian.com/agile/kanban/kanplan)
+- [Overview](https://www.atlassian.com/agile/product-management)
+- [Product Roadmaps](https://www.atlassian.com/agile/product-management/product-roadmaps)
+- [Product Manager](https://www.atlassian.com/agile/product-management/product-manager)
+- [Tips for new product managers](https://www.atlassian.com/agile/product-management/tips-for-new-product-manager)
+- [Roadmaps](https://www.atlassian.com/agile/product-management/roadmaps)
+- [Tips for presenting product roadmaps](https://www.atlassian.com/agile/product-management/tips-for-presenting-product-roadmaps)
+- [Requirements](https://www.atlassian.com/agile/product-management/requirements)
+- [How to prioritize features using NPS](https://www.atlassian.com/agile/product-management/how-to-prioritize-features-using-net-promoter-scores)
+- [Product analytics](https://www.atlassian.com/agile/product-management/product-analytics)
 
-- **Agile project management**
+### Agile at scale
 
-[Overview](https://www.atlassian.com/agile/project-management)
+- [Overview](https://www.atlassian.com/agile/agile-at-scale)
+- [Managing an agile portfolio](https://www.atlassian.com/agile/agile-at-scale/managing-an-agile-portfolio)
+- [Lean portfolio management](https://www.atlassian.com/agile/agile-at-scale/lean-portfolio-management)
+- [Okrs](https://www.atlassian.com/agile/agile-at-scale/okr)
+- [Long-term agile planning](https://www.atlassian.com/agile/agile-at-scale/long-term-agile-planning)
+- [What is SAFe?](https://www.atlassian.com/agile/agile-at-scale/what-is-safe)
+- [Spotify model](https://www.atlassian.com/agile/agile-at-scale/spotify)
+- [Organizational agility with Scrum@Scale](https://www.atlassian.com/agile/agile-at-scale/scrum-at-scale)
+- [Scaling agile with Rosetta Stone](https://www.atlassian.com/agile/agile-at-scale/scaling-agile-with-portfolio-for-jira)
+- [Beyond the basics whitepaper](https://www.atlassian.com/agile/agile-at-scale/beyond-the-basics-whitepaper)
+- [Agile iron triangle](https://www.atlassian.com/agile/agile-at-scale/agile-iron-triangle)
+- [The Large-Scale Scrum (LeSS) framework](https://www.atlassian.com/agile/agile-at-scale/less)
 
-[Program](https://www.atlassian.com/agile/project-management/program)
+### Software development
 
-[Workflow](https://www.atlassian.com/agile/project-management/workflow)
+- [Overview](https://www.atlassian.com/agile/software-development)
+- [Developer](https://www.atlassian.com/agile/software-development/developer)
+- [Dev managers vs scrum masters](https://www.atlassian.com/agile/software-development/dev-managers-vs-scrum-masters)
+- [Git](https://www.atlassian.com/agile/software-development/git)
+- [Branching](https://www.atlassian.com/agile/software-development/branching)
+- [Git branching video](https://www.atlassian.com/agile/software-development/git-branching-video)
+- [Code reviews](https://www.atlassian.com/agile/software-development/code-reviews)
+- [Release](https://www.atlassian.com/agile/software-development/release)
+- [Stress free release](https://www.atlassian.com/agile/software-development/stress-free-release)
+- [Qa at speed](https://www.atlassian.com/agile/software-development/qa-at-speed)
+- [Technical debt](https://www.atlassian.com/agile/software-development/technical-debt)
+- [Testing](https://www.atlassian.com/agile/software-development/testing)
+- [Incident response](https://www.atlassian.com/agile/software-development/incident-response)
+- [Continuous integration](https://www.atlassian.com/agile/software-development/continuous-integration)
 
-[Epics, stories, themes](https://www.atlassian.com/agile/project-management/epics-stories-themes)
+### Design
 
-[Epics](https://www.atlassian.com/agile/project-management/epics)
+- Overview
+- Product design process customer interview
+- Collaborative design in agile teams video
 
-[User Stories](https://www.atlassian.com/agile/project-management/user-stories)
+### The agile advantage
 
-[Estimation](https://www.atlassian.com/agile/project-management/estimation)
-
-[Metrics](https://www.atlassian.com/agile/project-management/metrics)
-
-[Gantt Chart](https://www.atlassian.com/agile/project-management/gantt-chart)
-
-- **Product management**
-
-[Overview](https://www.atlassian.com/agile/product-management)
-
-[Product Roadmaps](https://www.atlassian.com/agile/product-management/product-roadmaps)
-
-[Product Manager](https://www.atlassian.com/agile/product-management/product-manager)
-
-[Tips for new product managers](https://www.atlassian.com/agile/product-management/tips-for-new-product-manager)
-
-[Roadmaps](https://www.atlassian.com/agile/product-management/roadmaps)
-
-[Tips for presenting product roadmaps](https://www.atlassian.com/agile/product-management/tips-for-presenting-product-roadmaps)
-
-[Requirements](https://www.atlassian.com/agile/product-management/requirements)
-
-[How to prioritize features using NPS](https://www.atlassian.com/agile/product-management/how-to-prioritize-features-using-net-promoter-scores)
-
-[Product analytics](https://www.atlassian.com/agile/product-management/product-analytics)
-
-- **Agile at scale**
-
-[Overview](https://www.atlassian.com/agile/agile-at-scale)
-
-[Managing an agile portfolio](https://www.atlassian.com/agile/agile-at-scale/managing-an-agile-portfolio)
-
-[Lean portfolio management](https://www.atlassian.com/agile/agile-at-scale/lean-portfolio-management)
-
-[Okrs](https://www.atlassian.com/agile/agile-at-scale/okr)
-
-[Long-term agile planning](https://www.atlassian.com/agile/agile-at-scale/long-term-agile-planning)
-
-[What is SAFe?](https://www.atlassian.com/agile/agile-at-scale/what-is-safe)
-
-[Spotify model](https://www.atlassian.com/agile/agile-at-scale/spotify)
-
-[Organizational agility with Scrum@Scale](https://www.atlassian.com/agile/agile-at-scale/scrum-at-scale)
-
-[Scaling agile with Rosetta Stone](https://www.atlassian.com/agile/agile-at-scale/scaling-agile-with-portfolio-for-jira)
-
-[Beyond the basics whitepaper](https://www.atlassian.com/agile/agile-at-scale/beyond-the-basics-whitepaper)
-
-[Agile iron triangle](https://www.atlassian.com/agile/agile-at-scale/agile-iron-triangle)
-
-[The Large-Scale Scrum (LeSS) framework](https://www.atlassian.com/agile/agile-at-scale/less)
-
-- **Software development**
-
-[Overview](https://www.atlassian.com/agile/software-development)
-
-[Developer](https://www.atlassian.com/agile/software-development/developer)
-
-[Dev managers vs scrum masters](https://www.atlassian.com/agile/software-development/dev-managers-vs-scrum-masters)
-
-[Git](https://www.atlassian.com/agile/software-development/git)
-
-[Branching](https://www.atlassian.com/agile/software-development/branching)
-
-[Git branching video](https://www.atlassian.com/agile/software-development/git-branching-video)
-
-[Code reviews](https://www.atlassian.com/agile/software-development/code-reviews)
-
-[Release](https://www.atlassian.com/agile/software-development/release)
-
-[Stress free release](https://www.atlassian.com/agile/software-development/stress-free-release)
-
-[Qa at speed](https://www.atlassian.com/agile/software-development/qa-at-speed)
-
-[Technical debt](https://www.atlassian.com/agile/software-development/technical-debt)
-
-[Testing](https://www.atlassian.com/agile/software-development/testing)
-
-[Incident response](https://www.atlassian.com/agile/software-development/incident-response)
-
-[Continuous integration](https://www.atlassian.com/agile/software-development/continuous-integration)
-
-- **Design**
-  - Overview
-  - Product design process customer interview
-  - Collaborative design in agile teams video
-
-- **The agile advantage**
-  - Overview
-  - Connecting business strategy to development reality
-  - Agile is a competitive advantage
-  - Going agile
+- Overview
+- Connecting business strategy to development reality
+- Agile is a competitive advantage
+- Going agile
 
 - **DevOps**
 - **Agile teams**
 
 ## Agile Manifesto
 
-## Individuals and interactionsover processes and tools
-
-## Working softwareover comprehensive documentation
-
-## Customer collaborationover contract negotiation
-
-## Responding to changeover following a plan
+- Individuals and interactions over processes and tools
+- Working software over comprehensive documentation
+- Customer collaborationover contract negotiation
+- Responding to changeover following a plan
 
 ## 12 Principles of the Agile Manifesto
 
 1. Our highest priority is to satisfy the customer through early and continuous delivery of valuable software.
-
 2. Welcome changing requirements, even late in development. Agile processes harness change for the customer's competitive advantage.
-
 3. Deliver working software frequently, from a couple of weeks to a couple of months, with a preference to the shorter timescale.
-
 4. Business people and developers must work together daily throughout the project.
-
 5. Build projects around motivated individuals. Give them the environment and support they need, and trust them to get the job done.
-
 6. The most efficient and effective method of conveying information to and within a development team is face-to-face conversation.
-
 7. Working software is the primary measure of progress.
-
 8. Agile processes promote sustainable development. The sponsors, developers, and users should be able to maintain a constant pace indefinitely.
-
 9. Continuous attention to technical excellence and good design enhances agility.
-
 10. Simplicity--the art of maximizing the amount of work not done--is essential.
-
 11. The best architectures, requirements, and designs emerge from self-organizing teams.
-
 12. At regular intervals, the team reflects on how to become more effective, then tunes and adjusts its behavior accordingly.
 
 ## Steps in Agile Project Management
 
-1. Project planning
+### Project planning
 
 Project planning is a step that ensures everyone understands the end goal and value of that project. Here, the scope is developed, and the work is estimated by breaking it into sprints or iterations
 
-2. Roadmap creation
+### Roadmap creation
 
 A roadmap is a list of all the features that the final product shoudl have. It acts as a plan of action on how a project will evolve. Hence, the roadmap is an integral part of the plan as these features are built during each sprint
 
-3. Release planning
+### Release planning
 
 A plan is made for all feature releases and this plan is revisited at the beginning of each sprint. Agile project methodology uses shorter development cycles or sprints, with features released at the end of each cycle
 
-4. Sprint planning
+### Sprint planning
 
 Sprint planning ensures that each team member has an assigned task before the sprint begins. The stakeholders, need to plan what is to accomplished in that sprint and that the workload is evenly shared amongst the team
 
-5. Daily meetings
+### Daily meetings
 
 Daily meetings help the team in accomplishing their daily tasks in an efficient manner. During these meetings, each team member tells what they have accomplished the previous day and what is their task for today
 
-6. Sprint review and retrospective
+### Sprint review and retrospective
 
 Sprint review and retrospective helps the team to inspect itself and plan to make changes to improve the forth coming sprints. Sprint retrospective takes place after the sprint review, and before the next Sprint planning
 

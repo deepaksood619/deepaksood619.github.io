@@ -1,10 +1,6 @@
 # Management
 
 - [Mental Models](mental-models)
-- [PERT and CPM](pert-and-cpm)
-- [Culture](culture)
-- [People / Team Management / Culture](people-team-management-culture)
-- [Mentoring / Teaching / Coaching / Leading / Leader / Leadership](mentoring-teaching-coaching-leading-leader-leadership)
 - [Project / Product / Business Tools / SAAS](project-product-business-tools-saas)
 - [Business](business/readme.md)
   - [business-terms](management/business/business-terms.md)
@@ -12,6 +8,7 @@
   - [Business Case Studies](business/business-case-studies)
 - [Product Management](product-management/readme.md)
 - [Project Management](project-management/readme.md)
+- [People Management](management/people-management/readme.md)
 - [Decision Making](decision-making/readme.md)
   - [Ethics](decision-making/ethics)
 - [Growth Hacking](growth-hacking)
@@ -20,6 +17,13 @@
 - [Community Building](community-building)
 - [Books / Blinkist - Management](books-blinkist-management)
 - [Others](management/others.md)
+
+## Roles
+
+- [Principle Software Engineer](roles/principle-software-engineer)
+- [Engineering Manager / Tech Lead](roles/engineering-manager)
+- [Data Roles](management/roles/data.md)
+- [Other Roles](management/roles/others.md)
 
 ## Management Basics
 

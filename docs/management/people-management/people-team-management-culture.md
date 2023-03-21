@@ -61,11 +61,11 @@ Creating **psychological safety** in the workplace for learning, innovation, and
   - What challenges are you facing?
   - What can I do to help you?
 
-![image](../media/People-Team-Management-Culture-image1.jpg)
+![image](../../media/People-Team-Management-Culture-image1.jpg)
 
-![image](../media/People-Team-Management-Culture-image2.jpg)
+![image](../../media/People-Team-Management-Culture-image2.jpg)
 
-![image](../media/People-Team-Management-Culture-image3.jpg)
+![image](../../media/People-Team-Management-Culture-image3.jpg)
 
 [Work Principles](https://deepstash.com/idea/58882/work-principles)
 
@@ -96,12 +96,6 @@ Accountability-- How has the firm handled disruptive colleagues? Are the most ta
 
 <https://blog.trello.com/hold-team-accountable-without-micromanaging>
 
-## Roles
-
-- [Principle Software Engineer](roles/principle-software-engineer)
-- [Engineering Manager / Tech Lead](roles/engineering-manager)
-- [data](management/roles/data.md)
-
 The fundamental principle of the situational leadership model is that there is **no single "best" style of leadership**. Effective leadership is task-relevant, and the most successful leaders are those who adapt their leadership style to theperformance readiness(ability and willingness) of the individual or group they are attempting to lead or influence. Effective leadership varies, not only with the person or group that is being influenced, but it also depends on the task, job, or function that needs to be accomplished
 
 <https://www.wikiwand.com/en/Situational_leadership_theory>
@@ -111,11 +105,11 @@ The fundamental principle of the situational leadership model is that there is *
   - Motivation
   - Urgency
 
-![image](../media/People-Team-Management-Culture-image4.jpg)
+![image](../../media/People-Team-Management-Culture-image4.jpg)
 
-![image](../media/People-Team-Management-Culture-image5.jpg)
+![image](../../media/People-Team-Management-Culture-image5.jpg)
 
-![image](../media/People-Team-Management-Culture-image6.jpg)
+![image](../../media/People-Team-Management-Culture-image6.jpg)
 
 - Three are many ways to lead
   - Coach
@@ -124,16 +118,13 @@ The fundamental principle of the situational leadership model is that there is *
   - Champion
 - Saying no
 
-![image](../media/People-Team-Management-Culture-image7.jpg)
+![image](../../media/People-Team-Management-Culture-image7.jpg)
 
-![image](../media/People-Team-Management-Culture-image8.jpg)
+![image](../../media/People-Team-Management-Culture-image8.jpg)
 
 1. Awareness
-
 2. Training
-
 3. Coaching
-
 4. Practice (deliberate)
 
 ## Leadership skills to invest in
@@ -148,7 +139,7 @@ The fundamental principle of the situational leadership model is that there is *
 - Influencing
 - Delegation
 
-![image](../media/People-Team-Management-Culture-image9.jpg)
+![image](../../media/People-Team-Management-Culture-image9.jpg)
 
 <https://blog.trello.com/flexibility-secret-of-great-leaders-everywhere>
 
@@ -161,28 +152,9 @@ The fundamental principle of the situational leadership model is that there is *
 
 Move from Maker to Multiplier mode
 
-![image](../media/People-Team-Management-Culture-image10.jpg)
+![image](../../media/People-Team-Management-Culture-image10.jpg)
 
 [You're The Tech Lead! Now What?](https://www.youtube.com/watch?v=muls9BogsVQ)
-
-## CTO
-
-- Actions speak louder than words. Data speaks louder than actions.
-- Functional skills may be necessary in early leadership journey but what got you here won't get you there
-- Strategy and execution are equally important
-- Not all processes are evil
-
-<https://dev.to/eisabai/four-things-i-wish-i-knew-as-the-new-cto-of-a-startup-4k9j>
-
-<https://www.patkua.com/blog/5-engineering-manager-archetypes>
-
-## Solutions Architect
-
-A solutions architect creates the overall technical vision for a specific solution to a business problem.
-
-A good solutions architect looks at the existing environment and analyzes what technologies are available and what software product must be developed to provide the best solution for the problem that needs to be solved. From there, the solutions architect creates an overall strategic technical vision - not unlike an architect designing a blueprint for a building. They develop a budget for producing a software product based on that vision.
-
-<https://www.coursera.org/articles/solutions-architect>
 
 ## KPI - Key Performance Indicators
 
@@ -266,7 +238,7 @@ Logically segment the business into micro-subdomains, so that each can be suppor
 
 <https://about.gitlab.com/blog/2020/08/27/measuring-engineering-productivity-at-gitlab>
 
-![image](../media/People-Team-Management-Culture-image11.jpg)
+![image](../../media/People-Team-Management-Culture-image11.jpg)
 
 ## Bus Factor
 
@@ -278,7 +250,7 @@ Escalation matrix
 
 ## One Minute Manager
 
-![image](../media/People-Team-Management-Culture-image12.jpg)
+![image](../../media/People-Team-Management-Culture-image12.jpg)
 
 [**https://klinger.io/posts/managing-people-%F0%9F%A4%AF**](https://klinger.io/posts/managing-people-%F0%9F%A4%AF)
 
@@ -312,57 +284,7 @@ This is a question that I love asking my manager and peers because I experience 
 - Attention to detail
 - Communicate well & Clearly
 
-![image](../media/People-Team-Management-Culture-image13.jpg)
-
-## Remote Working / Teams
-
-- **TODOs**
-  - Creating remote teams once a month/quarter meetups
-  - Daily stand-up
-  - Evening syncups
-  - Fixed set of tasks
-  - Everything should be written down and organized
-- **Benefits**
-  - Hiring firing is easy
-- Transfer operational knowledge
-- Over paid vs under paid
-- Really need good managers to take over team
-- Creating feedback loop for every process
-
-## Remote working tips
-
-1. Default to action (if remote and waiting for someone respond, then default to action, take a decision and move on)
-
-    "As far as life philosophies go, "The right time is right now" isn't a bad one. Most of us would benefit from a greater bias toward action.
-
-    If you move fast, you can try more things. And if you try more things, you're likely to find something that works for you."
-
-2. Over-communicate where possible
-3. Make yourself available
-4. Prioritize face-to-face conversations
-5. Offer space to de-stress
-6. Share strategies to help your local community
-
-## Distributed Team (Trust) - Values (Gitlab) (CREDIT)
-
-- Collaboration
-- Results
-- Efficiency
-- Diversity & Inclusion
-- Iteration
-- Transparency - Record by default
-  - Record everything, cannot afford to train people in meetings
-  - self-paced learning and discovery
-  - send links to avoid wasting valuable time holding meetings or getting interrupted by same questions
-  - access the best version of the information
-
-To complement the self-assessment of the stress continuum, McGladrey recently piloted a system she calls **"3-3-3"** --- basically an informal **check-in three days, three weeks, and three months** after a significant event. At the three-day mark, the idea is to gauge the mental state of participants at the time of the event and identify some red flags for bad outcomes. These check-ins can also identify people who need more support."
-
-[Debbie Lovich: 3 tips for leaders to get the future of work right | TED](https://youtu.be/kTS1jJgXsfw)
-
-<https://blog.trello.com/boundaries-to-start-setting-with-your-team>
-
-<https://blog.trello.com/conflict-management-strategies-for-hybrid-teams>
+![image](../../media/People-Team-Management-Culture-image13.jpg)
 
 ## Deadlines
 
@@ -386,17 +308,17 @@ To complement the self-assessment of the stress continuum, McGladrey recently pi
 
 ## QRC Team Topologies
 
-![image](../media/People-Team-Management-Culture-image14.jpg)
+![image](../../media/People-Team-Management-Culture-image14.jpg)
 
 ## Managing Managers
 
-## Do
+### Do
 
 - Treat your direct reports in the same way you want them to treat their team members.
 - Look for opportunities to observe them in action.
 - Spend time getting to know their team members.
 
-## Don't
+### Don't
 
 - Dictate exactly how they should manage. Instead, give them advice and let them find their own authentic style.
 - Criticize them in front of their team. You should be looking for opportunities to bolster their credibility.
@@ -427,19 +349,21 @@ To complement the self-assessment of the stress continuum, McGladrey recently pi
 
 ## Negative Connotation
 
+I am so sad man, you didn't reply to me. I tried reaching out to you.
+
 I have been observing interactions between you & my team.
 
 My understanding is that you agreed to do a project, deliverables were clear & they were not met. Even the first milestone was not achieved by you, no question of it being close to agreed timelines.
 
 The code you committed did not work in simple dev tests, so the question of it being of any use to us is absurd.
 
-What is the escalation about? My suggestion is we close the topic here, we have no interestin using anythingthat you have written, simplybecause it is not usable at all so its totally worthless.
+What is the escalation about? My suggestion is we close the topic here, we have no interest in using anything that you have written, simply because it is not usable at all so its totally worthless.
 
 If you wish to take this forward & threaten my team in any way then we will be forced to defend with all tools available to us.
 
 I hope your intention is not to threaten or escalate this matter & it is an error in my interpretation. If so please excuse me.
 
-Please note thatwe can't take threats of legal action lightly so hopefully you see sense in this and retract that claim.
+Please note that we can't take threats of legal action lightly so hopefully you see sense in this and retract that claim.
 
 - Anger
 - Fear
@@ -447,28 +371,36 @@ Please note thatwe can't take threats of legal action lightly so hopefully you s
 - Jealousy
 - Uncertainty
 
+### Motivating people at work
+
 <https://ideas.ted.com/3-things-that-keep-people-feeling-motivated-at-work>
 
 - Self-determination theory essentially argued that people are motivated when they can determine for themselves what to work on and how to work on it.
 - Indeed they posit that incentives can drive down motivation --"because incentives take away a sense of power to determine the work for oneself."
 
-1. The first motivational driver is **autonomy**. Autonomy refers to how much people feel in control of their own life and able to make their own choices. In the context of work, autonomy means people feel they have a say in what they work on and how they work on it. They don't feel micromanaged; they feel empowered by their managers to pursue objectives and deadlines on their terms.
+#### The first motivational driver is **autonomy**
 
-    ...One easy way to judge whether you are leading from a place of autonomy versus control is to pay attention to your feedback or coaching conversations with the team. Specifically, do this: Pay attention to how many times you're giving them advice vs. asking them questions. If you're often giving advice or telling people how to do something, you could be diminishing their sense of autonomy. But if you are asking questions designed to guide them to finding their own solutions, then you are leaving them in control.
+Autonomy refers to how much people feel in control of their own life and able to make their own choices. In the context of work, autonomy means people feel they have a say in what they work on and how they work on it. They don't feel micromanaged; they feel empowered by their managers to pursue objectives and deadlines on their terms.
 
-2. The second motivational driver is **competence**. Competence refers to our desires to seek control but also to experience mastery. Competence speaks to our natural human desire to be learners, to be growing and feeling like we're making progress. It could be progress in our career, progress towards a set of objectives or working for a team or a company that is making progress. Anything that helps individuals feel they are moving toward mastery leverages competence as a motivation.
+...One easy way to judge whether you are leading from a place of autonomy versus control is to pay attention to your feedback or coaching conversations with the team. Specifically, do this: Pay attention to how many times you're giving them advice vs. asking them questions. If you're often giving advice or telling people how to do something, you could be diminishing their sense of autonomy. But if you are asking questions designed to guide them to finding their own solutions, then you are leaving them in control.
 
-    ...make sure that even when you are giving people constructive feedback, you are pairing it with a lot of positive feedback and praise as well. That way it reminds them of the progress they've already made - and show them you're trying to help them make even more progress.
+#### The second motivational driver is **competence**
 
-3. The third and final motivational driver is **relatedness**. Relatedness refers to our will to connect with others, interact and care for other people. In terms of research, we've only just begun to grasp just how important relatedness to others truly is. But we know that humans are much more motivated to take actions when they're seen as pro-social - that is, when they're seen as being able to help other people.
+Competence refers to our desires to seek control but also to experience mastery. Competence speaks to our natural human desire to be learners, to be growing and feeling like we're making progress. It could be progress in our career, progress towards a set of objectives or working for a team or a company that is making progress. Anything that helps individuals feel they are moving toward mastery leverages competence as a motivation.
 
-    ...if you can ensure the members of your team know who exactly is being helped by their efforts, you can almost guarantee they'll be willing to work hard to help those people.
+...make sure that even when you are giving people constructive feedback, you are pairing it with a lot of positive feedback and praise as well. That way it reminds them of the progress they've already made - and show them you're trying to help them make even more progress.
+
+#### The third and final motivational driver is **relatedness**
+
+Relatedness refers to our will to connect with others, interact and care for other people. In terms of research, we've only just begun to grasp just how important relatedness to others truly is. But we know that humans are much more motivated to take actions when they're seen as pro-social - that is, when they're seen as being able to help other people.
+
+...if you can ensure the members of your team know who exactly is being helped by their efforts, you can almost guarantee they'll be willing to work hard to help those people.
 
 ## There are two types of managers
 
 "One who manages with fear, the other with motivation."
 
-"In fact, 95% of people use fear management- tell people they're doing things wrong, demotivate them, show they didn't live up to expectations."
+"In fact, 95% of people use fear management - tell people they're doing things wrong, demotivate them, show they didn't live up to expectations."
 
 "Both styles work well."
 
@@ -480,6 +412,6 @@ Please note thatwe can't take threats of legal action lightly so hopefully you s
 
 "It's difficult because it comes with the possibility of people becoming lax and satisfied."
 
-"But the manager who makes himself/herself vulnerable- who guides, nurtures, supports, respects--they're the people whom others look up to."
+"But the manager who makes himself/herself vulnerable - who guides, nurtures, supports, respects -- they're the people whom others look up to."
 
 "No organization in the world is built on a product. It's built on people."

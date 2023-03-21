@@ -39,17 +39,17 @@ Companies like Atlassian, Glossier, Datadog, Twitch, dbt, Salesforce, Peloton, a
 
 There are six objectives that a community can drive. To help businesses wrap their heads around the options, use the [SPACES model](https://cmxhub.com/the-spaces-model/):
 
-1. **Support:**Create spaces for customers to answer questions and solve problems for each other. Example:[Autodesk support community](https://www.autodesk.com/community)
+1. **Support:** Create spaces for customers to answer questions and solve problems for each other. Example: [Autodesk support community](https://www.autodesk.com/community)
 
-2. **Product:**Create spaces for customers to share product feedback and ideas with each other and with your team. Example:[Atlassian feedback section](https://community.atlassian.com/t5/Feedback-Announcements/ct-p/feedback-forum)
+2. **Product:** Create spaces for customers to share product feedback and ideas with each other and with your team. Example: [Atlassian feedback section](https://community.atlassian.com/t5/Feedback-Announcements/ct-p/feedback-forum)
 
-3. **Acquisition:**Build programs that help you grow your pipeline and customer base. Example:[Branch's Mobile Growth community](https://mobilegrowth.org/)
+3. **Acquisition:** Build programs that help you grow your pipeline and customer base. Example: [Branch's Mobile Growth community](https://mobilegrowth.org/)
 
-4. **Contribution:**Enable members to contribute content, services, or something else of value to a platform you create. Example:[Notion Template Gallery](https://www.notion.so/Notion-Community-04f306fbf59a413fae15f42e2a1ab029#8d82ce462ca742a8907941f2227a441f)
+4. **Contribution:** Enable members to contribute content, services, or something else of value to a platform you create. Example: [Notion Template Gallery](https://www.notion.so/Notion-Community-04f306fbf59a413fae15f42e2a1ab029#8d82ce462ca742a8907941f2227a441f)
 
-5. **Engagement:**Connect customers to each other around their common interests in order to increase customer retention. Example:[Culture Amp's Culture First](https://www.cultureamp.com/community)
+5. **Engagement:** Connect customers to each other around their common interests in order to increase customer retention. Example: [Culture Amp's Culture First](https://www.cultureamp.com/community)
 
-6. **Success:**Enable customers to teach each other how to better use your product and be more successful in their careers. Example:[Salesforce's Trailblazer program](https://trailhead.salesforce.com/trailblazercommunity)
+6. **Success:** Enable customers to teach each other how to better use your product and be more successful in their careers. Example: [Salesforce's Trailblazer program](https://trailhead.salesforce.com/trailblazercommunity)
 
 Each objective comes with a different set of metrics that you'll likely want to use to measure the business impact of the community:
 

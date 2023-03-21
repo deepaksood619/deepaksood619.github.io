@@ -326,15 +326,15 @@ NFC is a personality trait used in psychology to describe how inclined an indivi
 
 Curiosity is a function of overcoming fear. Fear of being wrong. Fear of being right. Fear of being different. If you don't have the guts to think about really bad ideas, you'll never have the opportunity to execute brilliant ones.
 
-1. Diversive curiosity
+### Diversive curiosity
 
 Diversive curiosity is the fleeting desire to explore novel things. It is the impulse that drives us to endlessly scroll Twitter, flip through People Magazine, or click on a headline, but it doesn't engage us in deeper exploration
 
-2. Empathic curiosity
+### Empathic curiosity
 
 Empathic curiosity is the 'curiosity about the thoughts and feelings of other people.' This is the curiosity that pushes us to truly empathize with someone and "put ourselves in their shoes."
 
-3. Epistemic curiosity
+### Epistemic curiosity
 
 This is the ideal type of curiosity according to Leslie, and the one we should all be cultivating in ourselves, and in our learners: "Epistemic curiosity represents the deepening of a simple seeking of newness into a directed attempt to build understanding. It's what happens when diverse curiosity grows up."
 
