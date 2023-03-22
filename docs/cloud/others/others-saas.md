@@ -14,10 +14,13 @@ Stock Photos - <https://unsplash.com>
 - fastly
 - Cloudfront
 - Akamai
+
+### [Use image CDNs to optimize images](https://web.dev/image-cdns/)
+
 - Imagekit
-  - <https://imagekit.io>
-  - Image crop with Focus mode
-  - <https://docs.imagekit.io/features/image-transformations/resize-crop-and-other-transformations#focus-fo>
+- <https://imagekit.io>
+- Image crop with Focus mode
+- <https://docs.imagekit.io/features/image-transformations/resize-crop-and-other-transformations#focus-fo>
 
 ## Cloudflare
 

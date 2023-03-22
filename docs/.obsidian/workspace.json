@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "economics/nbfc-banking-terms.md",
+                "file": "office/blocktoons/todo.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "identity fraud",
+                "query": "imagekit",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -73,7 +73,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -93,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "economics/nbfc-banking-terms.md",
+                "file": "office/blocktoons/todo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "economics/nbfc-banking-terms.md",
+                "file": "office/blocktoons/todo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "economics/nbfc-banking-terms.md"
+                "file": "office/blocktoons/todo.md"
               }
             }
           },
@@ -183,32 +184,33 @@
   },
   "active": "67e81e28495f738b",
   "lastOpenFiles": [
-    "ai/courses/course-credit-risk-modeling/syllabus.md",
-    "computer-science/security/vulnerabilities.md",
-    "ai/courses/course-credit-risk-modeling/intro.md",
-    "economics/nbfc-banking-terms.md",
-    "ai/courses/course-credit-risk-modeling/fraud-features.md",
-    "languages/sql/sql-joins.md",
-    "office/cakedefi/product.md",
-    "management/business/business-case-studies.md",
-    "office/keep/deepak-banks.md",
-    "databases/indexing/mysql-indexing.md",
-    "databases/indexing/inverted-index.md",
-    "databases/indexing/intro.md",
-    "databases/indexing/database-index.md",
-    "databases/indexing/readme.md",
-    "office/cakedefi/infra.md",
     "office/cakedefi/todo.md",
-    "ai/data-science/data-visualization/tableau.md",
-    "management/people-management/readme.md",
-    "devops/docker/concepts.md",
-    "office/cakedefi/about-culture.md",
-    "office/cakedefi/people.md",
-    "devops/docker/intro.md",
-    "devops/docker/dockerfiles.md",
-    "knowledge/applied-sciences/mechanical-engineering.md",
-    "devops/ides/youtube-podcasts-magazine-apps.md",
-    "frontend/others/nodejs/readme.md",
+    "cloud/others/others-saas.md",
+    "office/blocktoons/todo.md",
+    "office/blocktoons/infra.md",
+    "office/blocktoons/product.md",
+    "office/blocktoons/about.md",
+    "office/blocktoons/people.md",
+    "office/blocktoons/my-interviews-blocktoons.md",
+    "office/blocktoons/readme.md",
+    "office/stashfin-credentials/readme.md",
+    "office/stashfin-credentials/internal-tech.md",
+    "office/credentials/test-ids.md",
+    "office/stashfin-credentials/test-ids.md",
+    "office/stashfin-credentials/odf.md",
+    "office/stashfin-credentials/metta.md",
+    "office/stashfin-credentials/hr.md",
+    "office/stashfin-credentials/external-tech.md",
+    "office/stashfin-credentials/databases-test-ids.md",
+    "office/stashfin-credentials/business.md",
+    "office/stashfin-credentials",
+    "office/credentials/readme.md",
+    "office/credentials/odf.md",
+    "office/credentials/metta.md",
+    "office/credentials/internal-tech.md",
+    "office/credentials/external-tech.md",
+    "office/credentials/databases-test-ids.md",
+    "office/credentials/business.md",
     "media/TODO-Goals-image1.png",
     "management/people-management",
     "media/Pasted image 20230320193615.png",
@@ -227,7 +229,6 @@
     "about-me/projects",
     "psychology/soft-skills/psychology/soft-skills",
     "psychology/soft-skills/psychology",
-    "office/bash.sh",
-    "office/keep/office/keep"
+    "office/bash.sh"
   ]
 }
