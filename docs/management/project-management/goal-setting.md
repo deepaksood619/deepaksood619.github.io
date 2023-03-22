@@ -9,8 +9,8 @@
 
 #### Measurable / ~~Meaningful~~
 
-  - Metrics and milestones. How much? What percentage?
-  - Setting clear checkpoints with deadlines
+- Metrics and milestones. How much? What percentage?
+- Setting clear checkpoints with deadlines
 
 #### Achievable
 
@@ -31,8 +31,8 @@
 
 [TRACTION by Gino Wickman | Core Message - YouTube](https://www.youtube.com/watch?v=21X-4j-rxLI)
 
-1. Rocks for 90 days goal  
-2. Issues  
+1. Rocks for 90 days goal
+2. Issues
 3. Action plan
 
 ### CSI-Approach

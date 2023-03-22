@@ -1,8 +1,10 @@
 # SQL Joins
 
-The SQLJoinsclause is used to combine records from two or more tables in a database. A JOIN is a means for combining fields from two tables by using values common to each.
+The SQLJoins clause is used to combine records from two or more tables in a database. A JOIN is a means for combining fields from two tables by using values common to each.
 
 A SQL join is a Structured Query Language (SQL) instruction to combine data from two sets of data (i.e. two tables).
+
+Default join is **INNER JOIN**
 
 ## Types of Joins
 

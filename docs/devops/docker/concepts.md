@@ -48,6 +48,8 @@ Alpine Linux is a security-oriented, lightweight Linux distribution based on mus
 
 <https://hub.docker.com/_/alpine>
 
+[Why I Will Never Use Alpine Linux Ever Again | Martin Heinz | Personal Website & Blog](https://martinheinz.dev/blog/92)
+
 ## References
 
 <https://docs.docker.com/engine/docker-overview/#the-underlying-technology>

@@ -2,8 +2,6 @@
 
 <https://www.youtube.com/c/AdityaSaini1505/videos>
 
-<https://google.com/search?q=business+case+studies>
-
 [Business Case Studies](https://www.youtube.com/playlist?list=PLGwmAEmjn4fmL_kCTOR-N4fXOlXvLa8dG)
 
 [Modern MBA - YouTube](https://www.youtube.com/@ModernMBA)
@@ -41,7 +39,6 @@
 - Cred - burn, habituation
 
 [How I Made 60,00,00,00,000 only in 2 Years 🔥 | CRED case study | Cred Business Model 🔥](https://youtu.be/mwbMM4o6VtE)
-
 Delta 4 theory
 
 Bragworthy preposition
@@ -245,7 +242,7 @@ Jidoka places responsibility down to the assembly workers to ensure that they ar
 - Ecosystem products
 - Loss leader pricing strategy
 
-- Food
+### Food
 
 ![image](../../media/Business_Business-Case-Studies-image2.jpg)
 
@@ -263,7 +260,7 @@ Jidoka places responsibility down to the assembly workers to ensure that they ar
 
 - Dollar Shave Club - [How to KILL a MONOPOLY? : The fall of Gillette (Business STRATEGY Case Study)](https://www.youtube.com/watch?v=SGIKsejp7-0)
 
-- **Shared value /Collective impact**
+- **Shared value / Collective impact**
 
 Collective impact is based on the idea that social problems arise from and persist because of a complex combination of actions and omissions by players in all sectors - and therefore can be solved only by the coordinated efforts of those players, from businesses to government agencies, charitable organizations, and members of affected populations. What's needed is nothing less than changing how the system functions. Collective-impact efforts have made significant progress on issues as diverse as education, homelessness, juvenile justice, substance abuse, childhood obesity, job creation, and [pollution.](http://www.collectiveimpactforum.org/featured-case-studies)
 

@@ -391,6 +391,7 @@ Methods for rebuilding a table include
 - [Dump and Reload Method](https://dev.mysql.com/doc/refman/8.0/en/rebuilding-tables.html#rebuilding-tables-dump-reload)
 - [ALTER TABLE Method](https://dev.mysql.com/doc/refman/8.0/en/rebuilding-tables.html#rebuilding-tables-alter-table)
 - [REPAIR TABLE Method](https://dev.mysql.com/doc/refman/8.0/en/rebuilding-tables.html#rebuilding-tables-repair-table)
+
 <https://dev.mysql.com/doc/refman/8.0/en/rebuilding-tables.html>
 
 ## MySQL 8.0 - Invisible Index

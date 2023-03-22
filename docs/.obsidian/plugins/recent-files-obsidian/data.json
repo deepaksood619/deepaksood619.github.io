@@ -1,8 +1,104 @@
 {
   "recentFiles": [
     {
+      "basename": "nbfc-banking-terms",
+      "path": "economics/nbfc-banking-terms.md"
+    },
+    {
+      "basename": "syllabus",
+      "path": "ai/courses/course-credit-risk-modeling/syllabus.md"
+    },
+    {
+      "basename": "vulnerabilities",
+      "path": "computer-science/security/vulnerabilities.md"
+    },
+    {
+      "basename": "intro",
+      "path": "ai/courses/course-credit-risk-modeling/intro.md"
+    },
+    {
+      "basename": "fraud-features",
+      "path": "ai/courses/course-credit-risk-modeling/fraud-features.md"
+    },
+    {
+      "basename": "sql-joins",
+      "path": "languages/sql/sql-joins.md"
+    },
+    {
+      "basename": "product",
+      "path": "office/cakedefi/product.md"
+    },
+    {
+      "basename": "business-case-studies",
+      "path": "management/business/business-case-studies.md"
+    },
+    {
+      "basename": "deepak-banks",
+      "path": "office/keep/deepak-banks.md"
+    },
+    {
+      "basename": "mysql-indexing",
+      "path": "databases/indexing/mysql-indexing.md"
+    },
+    {
+      "basename": "inverted-index",
+      "path": "databases/indexing/inverted-index.md"
+    },
+    {
+      "basename": "intro",
+      "path": "databases/indexing/intro.md"
+    },
+    {
+      "basename": "database-index",
+      "path": "databases/indexing/database-index.md"
+    },
+    {
+      "basename": "readme",
+      "path": "databases/indexing/readme.md"
+    },
+    {
+      "basename": "infra",
+      "path": "office/cakedefi/infra.md"
+    },
+    {
+      "basename": "todo",
+      "path": "office/cakedefi/todo.md"
+    },
+    {
+      "basename": "tableau",
+      "path": "ai/data-science/data-visualization/tableau.md"
+    },
+    {
+      "basename": "readme",
+      "path": "management/people-management/readme.md"
+    },
+    {
+      "basename": "concepts",
+      "path": "devops/docker/concepts.md"
+    },
+    {
+      "basename": "about-culture",
+      "path": "office/cakedefi/about-culture.md"
+    },
+    {
+      "basename": "people",
+      "path": "office/cakedefi/people.md"
+    },
+    {
+      "basename": "intro",
+      "path": "devops/docker/intro.md"
+    },
+    {
+      "basename": "dockerfiles",
+      "path": "devops/docker/dockerfiles.md"
+    },
+    {
       "basename": "mechanical-engineering",
       "path": "knowledge/applied-sciences/mechanical-engineering.md"
+    },
+    {
+      "basename": "youtube-podcasts-magazine-apps",
+      "path": "devops/ides/youtube-podcasts-magazine-apps.md"
     },
     {
       "basename": "readme",
@@ -53,20 +149,8 @@
       "path": "management/project-management/jira.md"
     },
     {
-      "basename": "youtube-podcasts-magazine-apps",
-      "path": "devops/ides/youtube-podcasts-magazine-apps.md"
-    },
-    {
       "basename": "neha",
       "path": "office/keep/neha.md"
-    },
-    {
-      "basename": "product",
-      "path": "office/cakedefi/product.md"
-    },
-    {
-      "basename": "tableau",
-      "path": "ai/data-science/data-visualization/tableau.md"
     },
     {
       "basename": "returns-tax-taxes-itr",
@@ -87,10 +171,6 @@
     {
       "basename": "culture",
       "path": "management/people-management/culture.md"
-    },
-    {
-      "basename": "readme",
-      "path": "management/people-management/readme.md"
     },
     {
       "basename": "others",
@@ -119,86 +199,6 @@
     {
       "basename": "remote-working-teams",
       "path": "management/people-management/remote-working-teams.md"
-    },
-    {
-      "basename": "pert-and-cpm",
-      "path": "management/project-management/pert-and-cpm.md"
-    },
-    {
-      "basename": "customer-engagement-cx",
-      "path": "management/customer-engagement-cx.md"
-    },
-    {
-      "basename": "project-product-business-tools-saas",
-      "path": "management/project-product-business-tools-saas.md"
-    },
-    {
-      "basename": "mental-models",
-      "path": "management/mental-models.md"
-    },
-    {
-      "basename": "marketing-sales",
-      "path": "management/marketing-sales.md"
-    },
-    {
-      "basename": "growth-hacking",
-      "path": "management/growth-hacking.md"
-    },
-    {
-      "basename": "community-building",
-      "path": "management/community-building.md"
-    },
-    {
-      "basename": "life-relationship-people",
-      "path": "psychology/life-relationship-people.md"
-    },
-    {
-      "basename": "others",
-      "path": "databases/sql-databases/mysql/others.md"
-    },
-    {
-      "basename": "others",
-      "path": "languages/sql/others.md"
-    },
-    {
-      "basename": "operations",
-      "path": "office/cakedefi/operations.md"
-    },
-    {
-      "basename": "tables",
-      "path": "office/cakedefi/tables.md"
-    },
-    {
-      "basename": "readme",
-      "path": "python/others/flask/readme.md"
-    },
-    {
-      "basename": "sql-examples",
-      "path": "languages/sql/sql-examples.md"
-    },
-    {
-      "basename": "technologies-tools",
-      "path": "databases/others/technologies-tools.md"
-    },
-    {
-      "basename": "infra",
-      "path": "office/cakedefi/infra.md"
-    },
-    {
-      "basename": "intro",
-      "path": "ai/data-science/intro.md"
-    },
-    {
-      "basename": "04-fact-dimension-tables",
-      "path": "databases/data-warehousing/04-fact-dimension-tables.md"
-    },
-    {
-      "basename": "data-modeling",
-      "path": "databases/modeling/data-modeling.md"
-    },
-    {
-      "basename": "03-optimizations",
-      "path": "technologies/apache/databricks/03-optimizations.md"
     }
   ],
   "omittedPaths": [],

@@ -310,6 +310,8 @@ Assuming all accounts are one portfolio, to calculate the total expected loss am
 | **First-party application fraud** | A consumer refuses to repay legitimate debts and/or falsely claims to be a victim of identity fraud to evade the obligation |
 | **Account takeover** | Someone other than the owner uses an account without permission |
 
+[Fortechester](https://fortechester.com/)
+
 ## SAAS
 
 ### LexisNexis Risk Solutions

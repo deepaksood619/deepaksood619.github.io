@@ -4,71 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "878a3e62d0d30562",
+        "id": "630bc09df3006187",
         "type": "tabs",
         "children": [
           {
-            "id": "e6f9df5b11f3849a",
+            "id": "67e81e28495f738b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "management/roles/data.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "40cdc3ccf130ce26",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "management/project-management/agile.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "76ab5f3f9e343f33",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "knowledge/applied-sciences/mechanical-engineering.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e1f67ed126520e9f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "management/people-management/remote-working-teams.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "67123fbc51e9c350",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "management/people-management/readme.md",
+                "file": "economics/nbfc-banking-terms.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -97,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "okr",
+                "query": "identity fraud",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -142,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "knowledge/applied-sciences/mechanical-engineering.md",
+                "file": "economics/nbfc-banking-terms.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "knowledge/applied-sciences/mechanical-engineering.md",
+                "file": "economics/nbfc-banking-terms.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "knowledge/applied-sciences/mechanical-engineering.md"
+                "file": "economics/nbfc-banking-terms.md"
               }
             }
           },
@@ -230,35 +181,35 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "978fd2faf621af33",
+  "active": "67e81e28495f738b",
   "lastOpenFiles": [
-    "frontend/others/nodejs/readme.md",
-    "decentralized-applications/crypto-investing.md",
-    "knowledge/applied-sciences/mechanical-engineering.md",
-    "office/personality/movies-serials-apps.md",
-    "office/personality/life-lessons-buying-guide-travelling-shopping.md",
-    "management/project-management/goal-setting.md",
-    "management/project-management/readme.md",
-    "media/TODO-Goals-image1.png",
-    "office/todo/goals.md",
-    "management/project-management/agile.md",
-    "computer-science/software-engineering/principles.md",
-    "management/project-management/project-contraints.md",
-    "management/project-management/scrum-meetings.md",
-    "management/project-management/jira.md",
-    "devops/ides/youtube-podcasts-magazine-apps.md",
-    "office/keep/neha.md",
+    "ai/courses/course-credit-risk-modeling/syllabus.md",
+    "computer-science/security/vulnerabilities.md",
+    "ai/courses/course-credit-risk-modeling/intro.md",
+    "economics/nbfc-banking-terms.md",
+    "ai/courses/course-credit-risk-modeling/fraud-features.md",
+    "languages/sql/sql-joins.md",
     "office/cakedefi/product.md",
+    "management/business/business-case-studies.md",
+    "office/keep/deepak-banks.md",
+    "databases/indexing/mysql-indexing.md",
+    "databases/indexing/inverted-index.md",
+    "databases/indexing/intro.md",
+    "databases/indexing/database-index.md",
+    "databases/indexing/readme.md",
+    "office/cakedefi/infra.md",
+    "office/cakedefi/todo.md",
     "ai/data-science/data-visualization/tableau.md",
-    "economics/financial-finance-investing/returns-tax-taxes-itr.md",
-    "office/todo/my-taxes.md",
-    "management/people-management/people-team-management-culture.md",
-    "management/people-management/mentoring-teaching-coaching-leading-leader-leadership.md",
-    "management/people-management/culture.md",
     "management/people-management/readme.md",
-    "management/roles/others.md",
-    "management/readme.md",
-    "management/roles/principle-software-engineer.md",
+    "devops/docker/concepts.md",
+    "office/cakedefi/about-culture.md",
+    "office/cakedefi/people.md",
+    "devops/docker/intro.md",
+    "devops/docker/dockerfiles.md",
+    "knowledge/applied-sciences/mechanical-engineering.md",
+    "devops/ides/youtube-podcasts-magazine-apps.md",
+    "frontend/others/nodejs/readme.md",
+    "media/TODO-Goals-image1.png",
     "management/people-management",
     "media/Pasted image 20230320193615.png",
     "media/Pasted image 20230320181018.png",

@@ -1,53 +1,59 @@
 # Vulnerabilities
 
 1. Spectre
-
 2. Meltdown
-
-3. MDS (Microarchitectural Data Sampling)
-
-<https://www.redhat.com/en/blog/understanding-mds-vulnerability-what-it-why-it-works-and-how-mitigate-it>
+3. MDS (Microarchitectural Data Sampling) - <https://www.redhat.com/en/blog/understanding-mds-vulnerability-what-it-why-it-works-and-how-mitigate-it>
 4. HeartBleed (2014)
 
 Heartbleed allows hackers to steal private keys from what should be secure servers. Infected servers were left wide open to let anyone on the Internet read the memory in systems being protected by a vulnerable version of OpenSSL. The breach let threat actors steal data from servers or listen in on conversations or even spoof services and other users.
+
 <https://access.redhat.com/security/vulnerabilities>
 
 ## Open Web Application Security Project (OWASP)
 
-TheOpen Web Application Security Project(OWASP) is an online community that produces freely-available articles, methodologies, documentation, tools, and technologies in the field of [web application security](https://en.wikipedia.org/wiki/Web_application_security).
+The Open Web Application Security Project (OWASP) is an online community that produces freely-available articles, methodologies, documentation, tools, and technologies in the field of [web application security](https://en.wikipedia.org/wiki/Web_application_security).
+
 [The History and Future of OWASP](https://youtu.be/FrU2xaOVDgE)
 
 ## OWASP Top Ten
 
-1. [Injection](https://owasp.org/www-project-top-ten/OWASP_Top_Ten_2017/Top_10-2017_A1-Injection)
+### [Injection](https://owasp.org/www-project-top-ten/OWASP_Top_Ten_2017/Top_10-2017_A1-Injection)
 
 Injection flaws, such as SQL, NoSQL, OS, and LDAP injection, occur when untrusted data is sent to an interpreter as part of a command or query. The attacker's hostile data can trick the interpreter into executing unintended commands or accessing data without proper authorization.
-2. [Broken Authentication](https://owasp.org/www-project-top-ten/OWASP_Top_Ten_2017/Top_10-2017_A2-Broken_Authentication)
+
+### [Broken Authentication](https://owasp.org/www-project-top-ten/OWASP_Top_Ten_2017/Top_10-2017_A2-Broken_Authentication)
 
 Application functions related to authentication and session management are often implemented incorrectly, allowing attackers to compromise passwords, keys, or session tokens, or to exploit other implementation flaws to assume other users' identities temporarily or permanently.
-3. [Sensitive Data Exposure](https://owasp.org/www-project-top-ten/OWASP_Top_Ten_2017/Top_10-2017_A3-Sensitive_Data_Exposure)
+
+### [Sensitive Data Exposure](https://owasp.org/www-project-top-ten/OWASP_Top_Ten_2017/Top_10-2017_A3-Sensitive_Data_Exposure)
 
 Many web applications and APIs do not properly protect sensitive data, such as financial, healthcare, and PII. Attackers may steal or modify such weakly protected data to conduct credit card fraud, identity theft, or other crimes. Sensitive data may be compromised without extra protection, such as encryption at rest or in transit, and requires special precautions when exchanged with the browser.
-4. [XML External Entities (XXE)](https://owasp.org/www-project-top-ten/OWASP_Top_Ten_2017/Top_10-2017_A4-XML_External_Entities_(XXE))
+
+### [XML External Entities (XXE)](https://owasp.org/www-project-top-ten/OWASP_Top_Ten_2017/Top_10-2017_A4-XML_External_Entities_(XXE))
 
 Many older or poorly configured XML processors evaluate external entity references within XML documents. External entities can be used to disclose internal files using the file URI handler, internal file shares, internal port scanning, remote code execution, and denial of service attacks.
-5. [Broken Access Control](https://owasp.org/www-project-top-ten/OWASP_Top_Ten_2017/Top_10-2017_A5-Broken_Access_Control)
+
+### [Broken Access Control](https://owasp.org/www-project-top-ten/OWASP_Top_Ten_2017/Top_10-2017_A5-Broken_Access_Control)
 
 Restrictions on what authenticated users are allowed to do are often not properly enforced. Attackers can exploit these flaws to access unauthorized functionality and/or data, such as access other users' accounts, view sensitive files, modify other users' data, change access rights, etc.
-6. [Security Misconfiguration](https://owasp.org/www-project-top-ten/OWASP_Top_Ten_2017/Top_10-2017_A6-Security_Misconfiguration)
+
+### [Security Misconfiguration](https://owasp.org/www-project-top-ten/OWASP_Top_Ten_2017/Top_10-2017_A6-Security_Misconfiguration)
 
 Security misconfiguration is the most commonly seen issue. This is commonly a result of insecure default configurations, incomplete or ad hoc configurations, open cloud storage, misconfigured HTTP headers, and verbose error messages containing sensitive information. Not only must all operating systems, frameworks, libraries, and applications be securely configured, but they must be patched/upgraded in a timely fashion.
-7. [Cross-Site Scripting XSS](https://owasp.org/www-project-top-ten/OWASP_Top_Ten_2017/Top_10-2017_A7-Cross-Site_Scripting_(XSS))
+
+### [Cross-Site Scripting XSS](https://owasp.org/www-project-top-ten/OWASP_Top_Ten_2017/Top_10-2017_A7-Cross-Site_Scripting_(XSS))
 
 XSS flaws occur whenever an application includes untrusted data in a new web page without proper validation or escaping, or updates an existing web page with user-supplied data using a browser API that can create HTML or JavaScript. XSS allows attackers to execute scripts in the victim's browser which can hijack user sessions, deface web sites, or redirect the user to malicious sites.
+
 A type of computer security vulnerability typically found in web applications. XSS enables attackers to inject client-side scripts into web pages viewed by other users. A cross-site scripting vulnerability may be used by attackers to bypass access controls such as the same-origin policy.- Reflected XSS
 
 It depends on site immediately reflecting a user input (the search query) back onto the page.- Stored XSS
 
 This happens when the malicious code (usually an injected script, like in our example) isstored on the target site's servers. A classic example is storing user-generated comments without sanitizing them. An attacker could leave a malicious comment that injects a script, andanyone who views that comment would be affected.
+
 Prevention - Sanitize user inputs
 
-## XSRF/CSRF - Cross Site Request Forgery
+#### XSRF/CSRF - Cross Site Request Forgery
 
 Cross-site request forgery, also known as one-click attack or session riding and abbreviated as CSRF or XSRF, is a type of malicious [exploit](https://en.wikipedia.org/wiki/Exploit_(computer_security)) of a [website](https://en.wikipedia.org/wiki/Website) where unauthorized commands are transmitted from a [user](https://en.wikipedia.org/wiki/User_(computing)) that the web application trusts. There are many ways in which a malicious website can transmit such commands; specially-crafted image tags, hidden forms, and [JavaScript](https://en.wikipedia.org/wiki/JavaScript) XMLHttpRequests, for example, can all work without the user's interaction or even knowledge. Unlike [cross-site scripting](https://en.wikipedia.org/wiki/Cross-site_scripting)(XSS), which exploits the trust a user has for a particular site, CSRF exploits the trust that a site has in a user's browser
 
@@ -59,15 +65,19 @@ Cross-site request forgery, also known as one-click attack or session riding and
 
 <https://www.freecodecamp.org/news/what-is-cross-site-request-forgery>
 <https://victorzhou.com/blog/xss>
-8. [Insecure Deserialization](https://owasp.org/www-project-top-ten/OWASP_Top_Ten_2017/Top_10-2017_A8-Insecure_Deserialization)
+
+### [Insecure Deserialization](https://owasp.org/www-project-top-ten/OWASP_Top_Ten_2017/Top_10-2017_A8-Insecure_Deserialization)
 
 Insecure deserialization often leads to remote code execution. Even if deserialization flaws do not result in remote code execution, they can be used to perform attacks, including replay attacks, injection attacks, and privilege escalation attacks.
-9. [Using Components with Known Vulnerabilities](https://owasp.org/www-project-top-ten/OWASP_Top_Ten_2017/Top_10-2017_A9-Using_Components_with_Known_Vulnerabilities)
+
+### [Using Components with Known Vulnerabilities](https://owasp.org/www-project-top-ten/OWASP_Top_Ten_2017/Top_10-2017_A9-Using_Components_with_Known_Vulnerabilities)
 
 Components, such as libraries, frameworks, and other software modules, run with the same privileges as the application. If a vulnerable component is exploited, such an attack can facilitate serious data loss or server takeover. Applications and APIs using components with known vulnerabilities may undermine application defenses and enable various attacks and impacts.
-10. [Insufficient Logging & Monitoring](https://owasp.org/www-project-top-ten/OWASP_Top_Ten_2017/Top_10-2017_A10-Insufficient_Logging%252526Monitoring)
+
+### [Insufficient Logging & Monitoring](https://owasp.org/www-project-top-ten/OWASP_Top_Ten_2017/Top_10-2017_A10-Insufficient_Logging%252526Monitoring)
 
 Insufficient logging and monitoring, coupled with missing or ineffective integration with incident response, allows attackers to further attack systems, maintain persistence, pivot to more systems, and tamper, extract, or destroy data. Most breach studies show time to detect a breach is over 200 days, typically detected by external parties rather than internal processes or monitoring.
+
 <https://owasp.org/www-project-top-ten>
 
 <https://www.cloudflare.com/learning/security/threats/owasp-top-10>
@@ -128,15 +138,18 @@ Insufficient logging and monitoring, coupled with missing or ineffective integra
 - [Server Side Request Forgery Prevention](https://cheatsheetseries.owasp.org/cheatsheets/Server_Side_Request_Forgery_Prevention_Cheat_Sheet.html)
 - [Session Management](https://cheatsheetseries.owasp.org/cheatsheets/Session_Management_Cheat_Sheet.html)
 - [TLS Cipher String](https://cheatsheetseries.owasp.org/cheatsheets/TLS_Cipher_String_Cheat_Sheet.html)
-- [Third Party Javascript Management](https://cheatsheetseries.owasp.org/cheatsheets/Third_Party_Javascript_Management_Cheat_Sheet.html)- [**Threat Modeling**](https://cheatsheetseries.owasp.org/cheatsheets/Threat_Modeling_Cheat_Sheet.html)
+- [Third Party Javascript Management](https://cheatsheetseries.owasp.org/cheatsheets/Third_Party_Javascript_Management_Cheat_Sheet.html)
 
-Threat modelingis a process by which potential threats, such as [structural vulnerabilities](https://www.wikiwand.com/en/Structural_vulnerability_(computing)) or the absence of appropriate safeguards, can be identified, enumerated, and mitigations can be prioritized. The purpose of threat modeling is to provide defenders with a systematic analysis of what controls or defenses need to be included, given the nature of the system, the probable attacker's profile, the most likely attack vectors, and the assets most desired by an attacker. Threat modeling answers questions like"Where am I most vulnerable to attack?","What are the most relevant threats?", and"What do I need to do to safeguard against these threats?".
+## [**Threat Modeling**](https://cheatsheetseries.owasp.org/cheatsheets/Threat_Modeling_Cheat_Sheet.html)
 
-## Threat modeling methodologies
+Threat modeling is a process by which potential threats, such as [structural vulnerabilities](https://www.wikiwand.com/en/Structural_vulnerability_(computing)) or the absence of appropriate safeguards, can be identified, enumerated, and mitigations can be prioritized. The purpose of threat modeling is to provide defenders with a systematic analysis of what controls or defenses need to be included, given the nature of the system, the probable attacker's profile, the most likely attack vectors, and the assets most desired by an attacker. Threat modeling answers questions like"Where am I most vulnerable to attack?","What are the most relevant threats?", and"What do I need to do to safeguard against these threats?".
 
-1. **STRIDE**
+### Threat modeling methodologies
 
-STRIDEis a model of threats developed by Praerit Garg and [Loren Kohnfelder](https://www.wikiwand.com/en/Loren_Kohnfelder) at [Microsoft](https://www.wikiwand.com/en/Microsoft) for identifying [computer security](https://www.wikiwand.com/en/Computer_security)[threats](https://www.wikiwand.com/en/Threat_(computer)).It provides a [mnemonic](https://www.wikiwand.com/en/Mnemonic) for security threats in six categories.
+#### STRIDE
+
+STRIDE is a model of threats developed by Praerit Garg and [Loren Kohnfelder](https://www.wikiwand.com/en/Loren_Kohnfelder) at [Microsoft](https://www.wikiwand.com/en/Microsoft) for identifying [computer security](https://www.wikiwand.com/en/Computer_security)[threats](https://www.wikiwand.com/en/Threat_(computer)).It provides a [mnemonic](https://www.wikiwand.com/en/Mnemonic) for security threats in six categories.
+
 The threats are:
 
 - [Spoofing](https://www.wikiwand.com/en/Spoofing_attack)
@@ -145,13 +158,14 @@ The threats are:
 - Information disclosure ([privacy breach](https://www.wikiwand.com/en/Data_privacy) or [data leak](https://www.wikiwand.com/en/Data_leak))
 - [Denial of service](https://www.wikiwand.com/en/Denial-of-service_attack)
 - [Elevation of privilege](https://www.wikiwand.com/en/Privilege_escalation)
+
 <https://www.wikiwand.com/en/STRIDE_(security)>
 
-2. **PASTA**
+#### PASTA
 
 Process for Attack Simulation and Threat Analysis (PASTA) is a seven-step, risk-centric methodology.
-3. **Trike
-    **
+
+#### Trike
 
 <https://www.wikiwand.com/en/Threat_model>- [Transaction Authorization](https://cheatsheetseries.owasp.org/cheatsheets/Transaction_Authorization_Cheat_Sheet.html)
 
@@ -164,6 +178,7 @@ Process for Attack Simulation and Threat Analysis (PASTA) is a seven-step, risk-
 - [Web Service Security](https://cheatsheetseries.owasp.org/cheatsheets/Web_Service_Security_Cheat_Sheet.html)
 - [XML External Entity Prevention](https://cheatsheetseries.owasp.org/cheatsheets/XML_External_Entity_Prevention_Cheat_Sheet.html)
 - [XML Security](https://cheatsheetseries.owasp.org/cheatsheets/XML_Security_Cheat_Sheet.html)
+
 <https://cheatsheetseries.owasp.org>
 
 ## Social Engineering
@@ -173,26 +188,27 @@ Common social engineering techniques include [phishing](https://en.wikipedia.org
 
 ## Phishing
 
-## Spear Phishing
+### Spear Phishing
 
 Spear phishing involves selectively targetting employees, [and developers are especially vulnerable](https://www.teiss.co.uk/threats/developers-vulnerable-phishing-attacks/). Spear phishers will discover information about you, and then selectively use it against you.
 
-## Impersonating Services
+### Impersonating Services
 
 This is the most well-known form of phishing. It involves posing as a business, often styling emails to look like what that business would typically send.
 
-## Smishing
+### Smishing
 
 Smishing (SMS phishing) is similar to standard phishing emails, but over SMS instead. Smishing texts will usually impersonate companies and encourage you to click on a link or give away your personal info.
 
-## Vishing
+### Vishing
 
 Vishing ("voice" and "phishing") involves phishing through phone calls. Of course, this isn't a big deal to us, because what kind of developer seriously answers the phone nowadays? Just send me a text, FFS.
 <https://dev.to/kathyra_/protect-yourself-from-social-engineering-3ihk>
 
 ## Kill Chain
 
-The termkill chainwas originally used as a [military](https://www.wikiwand.com/en/Military) concept related to the structure of an [attack](https://www.wikiwand.com/en/Offensive_(military)); consisting of target identification, force dispatch to target, decision and order to attack the target, and finally the destruction of the target.Conversely, the idea of "breaking" an opponent's kill chain is a method of [defense](https://www.wikiwand.com/en/Defense_(military)) or preemptive action.More recently, [Lockheed Martin](https://www.wikiwand.com/en/Lockheed_Martin) adapted this concept to [information security](https://www.wikiwand.com/en/Information_security), using it as a method for modeling intrusions on a [computer network](https://www.wikiwand.com/en/Computer_network).The cyber kill chain model has seen some adoption in the information security community.However, acceptance is not universal, with critics pointing to what they believe are fundamental flaws in the model.
+The term kill chain was originally used as a [military](https://www.wikiwand.com/en/Military) concept related to the structure of an [attack](https://www.wikiwand.com/en/Offensive_(military)); consisting of target identification, force dispatch to target, decision and order to attack the target, and finally the destruction of the target.Conversely, the idea of "breaking" an opponent's kill chain is a method of [defense](https://www.wikiwand.com/en/Defense_(military)) or preemptive action.More recently, [Lockheed Martin](https://www.wikiwand.com/en/Lockheed_Martin) adapted this concept to [information security](https://www.wikiwand.com/en/Information_security), using it as a method for modeling intrusions on a [computer network](https://www.wikiwand.com/en/Computer_network).The cyber kill chain model has seen some adoption in the information security community.However, acceptance is not universal, with critics pointing to what they believe are fundamental flaws in the model.
+
 <https://www.wikiwand.com/en/Kill_chain>
 
 ## Tab Nabbing
@@ -203,4 +219,5 @@ Tabnabbing is a computer exploit which persuades users to submit their login det
 
 An air gapped machine is simply one that cannot connect to any outside agents. From the highest level being the internet, to the lowest being an intranet or even bluetooth.
 Air gapped machines are isolated from other computers, and are important for storing sensitive data or carrying out critical tasks that should be immune from outside interference. For example, a nuclear power plant should be operated from computers that are behind a full air gap. For the most part, real world air gapped computers are usually connected to some form of intranet in order to make data transfer and process execution easier. However, every connection increases the risk that outside actors will be able to penetrate the system.
+
 <https://www.toptal.com/security/interview-questions>
