@@ -90,6 +90,22 @@ The ERC-1155 token standard allows for creating multiple token types: fungible, 
 - The functionalities of coins and tokens often overlap
 - Simply put, a token represents what you own, while a coin denotes what you're capable of owning.
 
+## Tokenomics
+
+The thing that I think is more interesting, personally, is that there are  _different_ fundamentals in crypto. The underlying elements that make a cryptocurrency valuable, from a token’s supply to how it’s issued to if it is designed to be inflationary or deflationary to its utility all come together to create what’s known as its tokenomics, a portmanteau of token + economics.
+
+Tokenomics are key because a project that has smart and well-designed incentives to buy and hold tokens for the long haul is more likely to succeed. There are blockchains with finite amounts of tokens like Bitcoin – the supply will be capped at 21 million bitcoin. Scarcity can be one factor that creates value. By contrast, Ethereum allows a limitless amount of ether, its native token, to exist. That said, each one has mechanisms in their design to control the supply or new coins created and each has a different value proposition, or utility, that makes it unique.
+
+In stock analysis, the focus is often on earnings per share; in crypto analysis, it typically comes down to supply and demand for the token directly.
+
+- Mining and staking
+- Yields
+- Token burns
+- Limited vs unlimited supplies
+- Token allocations and vesting periods
+
+[What Is Tokenomics and Why Is It Important?](https://www.coindesk.com/learn/what-is-tokenomics-and-why-is-it-important/)
+
 [Different Coins and Tokens](decentralized-applications/coins-tokens-chains/readme.md)
 
 [Crypto coins vs tokens - Bitstamp Learn Center](https://www.bitstamp.net/learn/crypto-101/crypto-coins-vs-tokens/)

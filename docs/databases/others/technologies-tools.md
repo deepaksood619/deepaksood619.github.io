@@ -58,10 +58,18 @@ Having usability as its main goal, DBeaver offers:
 
 <https://github.com/dbeaver/dbeaver>
 
+### Shortcuts
+
 - `ctrl + ]` - New sql script
 - `ctrl + \` - Run query in new tab
 - `ctrl + enter` - Run query in same tab
 - `ctrl + shift + f` - format query
+- `ctrl + shift + c` - advanced copy after `ctrl + a` on output to copy all rows with headers to clipboard
+
+### Settings
+
+- ResultSet fetch size - 1000
+- show line numbers
 
 ## Teradata
 

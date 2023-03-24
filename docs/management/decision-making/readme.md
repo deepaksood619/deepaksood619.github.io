@@ -10,6 +10,8 @@ What's one decision you can make today that will save you from making ten more d
 
 The goal isn't to make the 'perfect' decision about money every time, but to do the best we can and move forward. Most of the time, that's enough".
 
+No HIPPOs (Highest Paid Person's Opinion)
+
 ## The ABCDs of categorizing decisions
 
 - **Ad hoc decisions** - Infrequent, low-stakes

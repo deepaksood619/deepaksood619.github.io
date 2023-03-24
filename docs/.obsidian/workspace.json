@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "office/blocktoons/todo.md",
+                "file": "computer-science/distributed-system/distributed-logging.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "imagekit",
+                "query": "kahoot",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -73,8 +73,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -94,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "office/blocktoons/todo.md",
+                "file": "computer-science/distributed-system/distributed-logging.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "office/blocktoons/todo.md",
+                "file": "computer-science/distributed-system/distributed-logging.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "office/blocktoons/todo.md"
+                "file": "computer-science/distributed-system/distributed-logging.md"
               }
             }
           },
@@ -182,35 +181,35 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "67e81e28495f738b",
+  "active": "978fd2faf621af33",
   "lastOpenFiles": [
-    "office/cakedefi/todo.md",
-    "cloud/others/others-saas.md",
+    "devops/ides/youtube-podcasts-magazine-apps.md",
     "office/blocktoons/todo.md",
+    "office/blocktoons/people.md",
     "office/blocktoons/infra.md",
+    "office/cakedefi/todo.md",
+    "databases/others/technologies-tools.md",
+    "office/cakedefi/sql-queries.md",
+    "management/people-management/culture.md",
+    "management/decision-making/readme.md",
+    "office/cakedefi/product.md",
+    "office/cakedefi/architecture.md",
+    "office/cakedefi/infra.md",
+    "decentralized-applications/coins-tokens-chains/readme.md",
+    "decentralized-applications/coins-tokens-chains/cardano.md",
+    "decentralized-applications/coins-tokens-chains/coin-token-intro.md",
+    "decentralized-applications/coins-tokens-chains/usdt.md",
+    "frontend/others/nodejs/libraries.md",
+    "frontend/others/nodejs/npm-commands.md",
+    "frontend/others/nodejs/nodejs-frameworks.md",
+    "cloud/others/others-saas.md",
     "office/blocktoons/product.md",
     "office/blocktoons/about.md",
-    "office/blocktoons/people.md",
     "office/blocktoons/my-interviews-blocktoons.md",
     "office/blocktoons/readme.md",
     "office/stashfin-credentials/readme.md",
     "office/stashfin-credentials/internal-tech.md",
-    "office/credentials/test-ids.md",
-    "office/stashfin-credentials/test-ids.md",
-    "office/stashfin-credentials/odf.md",
-    "office/stashfin-credentials/metta.md",
-    "office/stashfin-credentials/hr.md",
-    "office/stashfin-credentials/external-tech.md",
-    "office/stashfin-credentials/databases-test-ids.md",
-    "office/stashfin-credentials/business.md",
     "office/stashfin-credentials",
-    "office/credentials/readme.md",
-    "office/credentials/odf.md",
-    "office/credentials/metta.md",
-    "office/credentials/internal-tech.md",
-    "office/credentials/external-tech.md",
-    "office/credentials/databases-test-ids.md",
-    "office/credentials/business.md",
     "media/TODO-Goals-image1.png",
     "management/people-management",
     "media/Pasted image 20230320193615.png",

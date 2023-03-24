@@ -23,13 +23,9 @@ Logging can be used for -
 ## Basics of logging
 
 1. Aggregate your logs
-
 2. Trace the flow
-
 3. Explicitly log control flow events
-
 4. Log metrics
-
 5. Structured log format
 
 ## Logging Best Practices

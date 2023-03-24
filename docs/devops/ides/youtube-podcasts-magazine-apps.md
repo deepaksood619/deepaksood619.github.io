@@ -91,6 +91,7 @@
 - Lesics
 - RealLifeLore
 - Technology Connections
+- Science Magazine
 
 ### News
 

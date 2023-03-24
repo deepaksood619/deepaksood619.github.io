@@ -14,13 +14,9 @@ Learn it, Love it, Live it
 - Organised
 
 1. We encourage independent decision-making by employees
-
 2. We share information openly, broadly, and deliberately
-
 3. We are extraordinarily candid with each other
-
 4. We keep only our highly effective people
-
 5. We avoid rules
 
 ## Blinkist - No Rules Rules by Reed Hastings and Erin Meyer

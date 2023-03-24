@@ -1,20 +1,88 @@
 {
   "recentFiles": [
     {
+      "basename": "distributed-logging",
+      "path": "computer-science/distributed-system/distributed-logging.md"
+    },
+    {
+      "basename": "youtube-podcasts-magazine-apps",
+      "path": "devops/ides/youtube-podcasts-magazine-apps.md"
+    },
+    {
       "basename": "todo",
       "path": "office/blocktoons/todo.md"
+    },
+    {
+      "basename": "people",
+      "path": "office/blocktoons/people.md"
+    },
+    {
+      "basename": "infra",
+      "path": "office/blocktoons/infra.md"
     },
     {
       "basename": "todo",
       "path": "office/cakedefi/todo.md"
     },
     {
-      "basename": "others-saas",
-      "path": "cloud/others/others-saas.md"
+      "basename": "technologies-tools",
+      "path": "databases/others/technologies-tools.md"
+    },
+    {
+      "basename": "sql-queries",
+      "path": "office/cakedefi/sql-queries.md"
+    },
+    {
+      "basename": "culture",
+      "path": "management/people-management/culture.md"
+    },
+    {
+      "basename": "readme",
+      "path": "management/decision-making/readme.md"
+    },
+    {
+      "basename": "product",
+      "path": "office/cakedefi/product.md"
+    },
+    {
+      "basename": "architecture",
+      "path": "office/cakedefi/architecture.md"
     },
     {
       "basename": "infra",
-      "path": "office/blocktoons/infra.md"
+      "path": "office/cakedefi/infra.md"
+    },
+    {
+      "basename": "readme",
+      "path": "decentralized-applications/coins-tokens-chains/readme.md"
+    },
+    {
+      "basename": "cardano",
+      "path": "decentralized-applications/coins-tokens-chains/cardano.md"
+    },
+    {
+      "basename": "coin-token-intro",
+      "path": "decentralized-applications/coins-tokens-chains/coin-token-intro.md"
+    },
+    {
+      "basename": "usdt",
+      "path": "decentralized-applications/coins-tokens-chains/usdt.md"
+    },
+    {
+      "basename": "libraries",
+      "path": "frontend/others/nodejs/libraries.md"
+    },
+    {
+      "basename": "npm-commands",
+      "path": "frontend/others/nodejs/npm-commands.md"
+    },
+    {
+      "basename": "nodejs-frameworks",
+      "path": "frontend/others/nodejs/nodejs-frameworks.md"
+    },
+    {
+      "basename": "others-saas",
+      "path": "cloud/others/others-saas.md"
     },
     {
       "basename": "product",
@@ -23,10 +91,6 @@
     {
       "basename": "about",
       "path": "office/blocktoons/about.md"
-    },
-    {
-      "basename": "people",
-      "path": "office/blocktoons/people.md"
     },
     {
       "basename": "my-interviews-blocktoons",
@@ -73,10 +137,6 @@
       "path": "languages/sql/sql-joins.md"
     },
     {
-      "basename": "product",
-      "path": "office/cakedefi/product.md"
-    },
-    {
       "basename": "business-case-studies",
       "path": "management/business/business-case-studies.md"
     },
@@ -103,10 +163,6 @@
     {
       "basename": "readme",
       "path": "databases/indexing/readme.md"
-    },
-    {
-      "basename": "infra",
-      "path": "office/cakedefi/infra.md"
     },
     {
       "basename": "tableau",
@@ -141,64 +197,8 @@
       "path": "knowledge/applied-sciences/mechanical-engineering.md"
     },
     {
-      "basename": "youtube-podcasts-magazine-apps",
-      "path": "devops/ides/youtube-podcasts-magazine-apps.md"
-    },
-    {
       "basename": "readme",
       "path": "frontend/others/nodejs/readme.md"
-    },
-    {
-      "basename": "crypto-investing",
-      "path": "decentralized-applications/crypto-investing.md"
-    },
-    {
-      "basename": "movies-serials-apps",
-      "path": "office/personality/movies-serials-apps.md"
-    },
-    {
-      "basename": "life-lessons-buying-guide-travelling-shopping",
-      "path": "office/personality/life-lessons-buying-guide-travelling-shopping.md"
-    },
-    {
-      "basename": "goal-setting",
-      "path": "management/project-management/goal-setting.md"
-    },
-    {
-      "basename": "readme",
-      "path": "management/project-management/readme.md"
-    },
-    {
-      "basename": "goals",
-      "path": "office/todo/goals.md"
-    },
-    {
-      "basename": "agile",
-      "path": "management/project-management/agile.md"
-    },
-    {
-      "basename": "principles",
-      "path": "computer-science/software-engineering/principles.md"
-    },
-    {
-      "basename": "project-contraints",
-      "path": "management/project-management/project-contraints.md"
-    },
-    {
-      "basename": "scrum-meetings",
-      "path": "management/project-management/scrum-meetings.md"
-    },
-    {
-      "basename": "jira",
-      "path": "management/project-management/jira.md"
-    },
-    {
-      "basename": "neha",
-      "path": "office/keep/neha.md"
-    },
-    {
-      "basename": "returns-tax-taxes-itr",
-      "path": "economics/financial-finance-investing/returns-tax-taxes-itr.md"
     }
   ],
   "omittedPaths": [],
