@@ -177,61 +177,71 @@ Gain operational insights and take action on AWS resources
 1. Security
 
    - Identity foundation
-
    - Enabling traceability
-
    - Security at all layers
-
    - Risk assessment and mitigation strategies
 
 2. Reliability
 
    - Dynamically acquire computing resources to meet demand
-
    - Recover quickly from infrastructure or service failures
-
    - Mitigate disruptions such as:
 
        - Misconfigurations
-
        - Transient network issues
 
 3. Cost Optimization
 
    - Measure efficiency
-
    - Eliminate unneeded expense
-
    - Consider using managed services
 
 4. Performance Efficiency
 
    - Choose efficient resources and maintain their efficiency as demand changes
-
    - Democratize advanced technologies
-
    - Mechanical sympathy
 
 5. Operation Excellence
 
    - The ability to run and monitor systems
-
    - To continually impove supporting process and procedures
 
 ## Edge Location - Point of Presence
 
 1. Cloudfront - CDN (Content Delivery Network)
-
-2. Route53
-
-<https://docs.aws.amazon.com/Route53/latest/DeveloperGuide/routing-policy.html>
-
+2. Route53 - <https://docs.aws.amazon.com/Route53/latest/DeveloperGuide/routing-policy.html>
 3. WAF (Web Application Framework)
-
 4. SHIELD
-
 5. Lambda@Edge
 
 ![image](../../media/Cloud-AWS-Architecting-on-AWS-image1.jpg)
 
 ![image](../../media/Cloud-AWS-Architecting-on-AWS-image2.jpg)
+
+## Data Analytics Lens
+
+### Scenarios
+
+- [Data discovery](https://docs.aws.amazon.com/wellarchitected/latest/analytics-lens/data-discovery.html)
+- [Modern data architecture](https://docs.aws.amazon.com/wellarchitected/latest/analytics-lens/modern-data-architecture.html)
+
+![modern data architecture reference architecture](../../media/Pasted%20image%2020230326214747.png)
+
+- [Batch data processing](https://docs.aws.amazon.com/wellarchitected/latest/analytics-lens/batch-data-processing.html)
+
+![batch data processing reference architecture](../../media/Pasted%20image%2020230326214900.png)
+
+- [Streaming ingest and stream processing](https://docs.aws.amazon.com/wellarchitected/latest/analytics-lens/streaming-ingest-and-stream-processing.html)
+
+![streaming ingest reference architecture](../../media/Pasted%20image%2020230326220025.png)
+
+- [Operational analytics](https://docs.aws.amazon.com/wellarchitected/latest/analytics-lens/operational-analytics.html)
+
+![operation analytics reference architecture](../../media/Pasted%20image%2020230326221139.png)
+
+- [Data visualization](https://docs.aws.amazon.com/wellarchitected/latest/analytics-lens/data-visualization.html)
+
+![data visualization reference architecture](../../media/Pasted%20image%2020230326221220.png)
+
+[Data Analytics Lens - Data Analytics Lens](https://docs.aws.amazon.com/wellarchitected/latest/analytics-lens/analytics-lens.html)

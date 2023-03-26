@@ -11,6 +11,7 @@ Shard is also commonly used to mean "shared nothing" partitioning. But it's also
 A partition is a physically separate file that comprises a subset of rows of a logical file, which occupies the same CPU+memory+storage node as its peer partitions.
 
 A shard is a physical compute node comprised of CPU+memory+storage. A shard's schema (and integrity constraints) may be replicated across as many shards as needed. Shards may contain unpartioned and partitioned tables.
+
 When using shards and partitions together we effectively have two keys which we can use to chunk out the data. How we decide to choose those keys depends on the query biases of the main applications reading and writing data.
 
 For example, Facebook could shard its data by User Key (so you might live on one MySQL node, and I might live on another MySQL node). But within those nodes, they could also partition data based on Create Date of the timeline item (e.g. items posted could be broken down by month).
@@ -90,9 +91,9 @@ The concept of entity groups is very simple. Store related entities in the same 
 
 <https://medium.com/@jeeyoungk/how-sharding-works-b4dec46b3f6>
 
-### Key/Hash based sharding
+### Key / Hash based sharding
 
-Key based sharding, also known ashash based sharding, involves using a value taken from newly written data - such as a customer's ID number, a client application's IP address, a ZIP code, etc. --- and plugging it into ahash functionto determine which shard the data should go to. A hash function is a function that takes as input a piece of data (for example, a customer email) and outputs a discrete value, known as ahash value. In the case of sharding, the hash value is a shard ID used to determine which shard the incoming data will be stored on. Altogether, the process looks like this:
+Key based sharding, also known as hash based sharding, involves using a value taken from newly written data - such as a customer's ID number, a client application's IP address, a ZIP code, etc. --- and plugging it into ahash functionto determine which shard the data should go to. A hash function is a function that takes as input a piece of data (for example, a customer email) and outputs a discrete value, known as ahash value. In the case of sharding, the hash value is a shard ID used to determine which shard the incoming data will be stored on. Altogether, the process looks like this:
 
 ![image](../../media/Partitioning-Sharding-image5.jpg)
 
@@ -190,7 +191,7 @@ It is important to note that partitioning makes the most sense when dealing with
 
 ## Partition Types
 
-Four partition types available:RANGE,LIST,HASHandKEY
+Four partition types available: RANGE, LIST, HASH and KEY
 
 ## Links
 

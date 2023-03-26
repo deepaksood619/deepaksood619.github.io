@@ -6,7 +6,7 @@ Winter Solstice - 21 December, 22 December
 
 ## South Korea - Hermit Kingdom
 
-The term**hermit kingdom** is used to refer to any country, organization or society which willfully walls itself off, either metaphorically or physically, from the rest of the world. In the current geopolitical order, the [East Asian](https://en.wikipedia.org/wiki/East_Asia) country of [North Korea](https://en.wikipedia.org/wiki/North_Korea) is regarded as a prime example of a hermit kingdom, and the term is contemporarily used to describe that nation state.
+The term **hermit kingdom** is used to refer to any country, organization or society which willfully walls itself off, either metaphorically or physically, from the rest of the world. In the current geopolitical order, the [East Asian](https://en.wikipedia.org/wiki/East_Asia) country of [North Korea](https://en.wikipedia.org/wiki/North_Korea) is regarded as a prime example of a hermit kingdom, and the term is contemporarily used to describe that nation state.
 
 [Map based learning](https://www.youtube.com/playlist?list=PL1vNLZF5gfwdayqTO--hnJUy-nutsb-ZE)
 
@@ -31,3 +31,7 @@ The term**hermit kingdom** is used to refer to any country, organization or soci
 - Hadley Cell
 
 [Lakes in India](https://www.youtube.com/playlist?list=PL1vNLZF5gfwd1-1Wli0O6m2J3sJjr1FA5)
+
+## Others
+
+[Points of the compass - Wikipedia](https://en.m.wikipedia.org/wiki/Points_of_the_compass)

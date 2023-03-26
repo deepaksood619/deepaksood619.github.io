@@ -9,9 +9,7 @@
  <https://medium.com/@tjukanov/why-should-you-care-about-postgis-a-gentle-introduction-to-spatial-databases-9eccd26bc42b>
 
 1. **Key-Value data type (hstore)**
-
 2. **Semi-structured data types**
-
 3. **pg_timetable - Advanced postgres job scheduling**
 
 <https://www.cybertec-postgresql.com/en/pg_timetable-advanced-postgresql-job-scheduling>

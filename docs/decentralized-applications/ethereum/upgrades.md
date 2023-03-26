@@ -13,6 +13,8 @@
 
 In order to simplify and maximize focus on a successful transition to proof-of-stake, The Merge upgrade did not include certain anticipated features such as the ability to withdraw staked ETH. The Shanghai upgrade is planned to follow The Merge, which will enable the ability for stakers to withdraw.
 
+['What Happens After the Merge' - Vitalik Buterin - YouTube](https://www.youtube.com/watch?v=7ggwLccuN5s)
+
 ### ETH issuance tldr
 
 - Before transitioning to proof-of-stake, miners were issued approximately 13,000 ETH/day

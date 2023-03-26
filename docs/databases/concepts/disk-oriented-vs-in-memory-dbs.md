@@ -17,6 +17,7 @@ For a disk oriented DBMS, the system architecture is predicated on the assumptio
 - buffer pool
 - concurrency control
 - logging/recovery
+
 ![image](../../media/Disk-oriented-vs-in-memory-DBs-image1.jpg)
 
 ## Buffer Pool
@@ -42,6 +43,7 @@ In a disk oriented DBMS, the system assumes that a transaction could stall at an
 ## Logging and Recovery
 
 Most DBMS use STEAL+NO-FORCE buffer pool policies, so all modifications have to be flushed to the WAL before a transaction can commit. Each log entry contain before and after image of record modified. Lots of work to keep track of LSNs all throughout the DBMS.
+
 ![image](../../media/Disk-oriented-vs-in-memory-DBs-image2.jpg)
 
 ## Why not MMaps?
@@ -55,7 +57,9 @@ Notable mmap DBMSs
 - MonetDB
 - LMDB
 - MemSQL
+
 Using mmap gives up fine-grained control on the contents of memory.
+
 - Cannot perform non-blocking memory access.
 - The "on-disk" representation has to be the same as the "in-memory" representation.
 - The DBMS has no way of knowing what pages are in memory or not.
@@ -84,6 +88,7 @@ An in-memory DBMS splits the data for tuples into fixed-length and variable-leng
 ## Concurrency Control
 
 In-memory DBMSs still use either a pessimistic or optimistic concurrency control schemes to interleave transactions. They will use modern variants of these algorithms that are designed for in-memory data stor-age. The new bottleneck is contention caused from transactions trying to access data at the same time.
+
 One key difference is that an in-memory DBMS can store locking information about each tuple together with its data. This is because the cost of a transaction acquiring a lock is the same as accessing data. Contrast this with disk-oriented DBMSs where locks are physically stored separate from their tuples because the tuples may get swapped out to disk.
 
 - This helps with CPU cache locality
@@ -92,6 +97,7 @@ One key difference is that an in-memory DBMS can store locking information about
 ## Indexes
 
 Like with concurrency control schemes, in-memory DBMSs will use data structures for their indexes that are optimized for fast, in-memory access.
+
 In-memory DBMSs will not log index updates. Instead, the system will rebuild the indexes upon restart when it loads the database back into memory. This avoids the runtime overhead of logging updates toindexes during transaction execution.
 
 ## Query Processing
@@ -99,7 +105,9 @@ In-memory DBMSs will not log index updates. Instead, the system will rebuild the
 The best strategy for executing a query plan in a DBMS changes when all the data is already in memory.
 
 - Sequential scans are no longer significantly faster than random access.
+
 The traditional tuple-at-a-time iterator model is too slow because of function calls.
+
 - This problem is more significant in OLAP DBMSs
 
 ## Logging and Recovery
@@ -131,11 +139,13 @@ DRAM is fast, but data is not accessed with the same frequency and in the same m
 
 - Hot Data: OLTP Operations
 - Cold Data: OLAP Queries
+
 We will study techniques for how to bring back disk-resident data without slowing down the entire system.
 
 ## Notable Early In-memory DBMSs
 
 - **TimesTen**: Originally Smallbase from HP Labs. Multi-process, shared memory DBMS. Bought by Oracle in 2005.
 - **Dali:** Multi-process shared memory storage manager using memory mapped files [? ].
-- **P*TIME:** Korean in-memory DBMS from the 2000s. Lots of interesting features (e.g., hybrid storage layouts, support for larger-than-memory databases). Sold to SAP in 2005 and is now part of HANA.
+- **`P*TIME`:** Korean in-memory DBMS from the 2000s. Lots of interesting features (e.g., hybrid storage layouts, support for larger-than-memory databases). Sold to SAP in 2005 and is now part of HANA.
+
 <https://www.youtube.com/watch?v=m72mt4VN9ik>

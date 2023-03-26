@@ -61,6 +61,7 @@ Book Summaries
 - Essentialism - The Disciplined Pursuit of Lessby Greg McKeown
 - Flow - The Psychology of Optimal Experience
 - Fluent in 3 months by Benny Lewis
+- Foundation - Isaac Asimov
 - **Godel Escher Bach - An eternal golden braid by douglas hofstadter (AI - Intelligence)**
 - Growth Hacker Marketing: A Primer on the Future of PR, Marketing, and Advertising by Ryan Holiday
 - Growth by Vaclav Smil
@@ -132,6 +133,7 @@ Book Summaries
 - The total money makeover: a proven plan for financial fitness by Dave Ramsey
 - The undoing project - Michael Lewis
 - These Truths - Jill Lepore
+- The three body problem
 - Think and Grow Rich - Napoleon Hill
 - **Thinking fast and slow - Daniel Kahneman**
 - Thinking in Systems - Donella H. Meadows

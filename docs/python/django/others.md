@@ -8,8 +8,6 @@ It's sometimes useful to pre-populate your database with hard-coded data when yo
 
 A fixture is a collection of data that Django knows how to import into a database. The most straightforward way of creating a fixture if you've already got some data is to use the [manage.pydumpdata](https://docs.djangoproject.com/en/1.11/ref/django-admin/#django-admin-dumpdata) command. Or, you can write fixtures by hand; fixtures can be written as JSON, XML or YAML (with [PyYAML](http://www.pyyaml.org/) installed) documents.
 
-## Postgres
-
 ## PostgreSQL-specific ModelFields
 
 - Introduced in Django 1.8
@@ -100,7 +98,7 @@ Django maintains a list of "authentication backend" that is checks for authentic
 
 ### Custom User Model
 
-AUTH_USER_MODEL = 'myapp.MyUser'
+`AUTH_USER_MODEL = 'myapp.MyUser'`
 
 ### Libraries
 
@@ -227,3 +225,5 @@ Bold and italics are done like this:
 <https://www.freecodecamp.org/news/create-a-netflix-clone-with-django-and-tailwind-css>
 
 <https://www.toptal.com/django/django-top-10-mistakes>
+
+[Django App Security: A Pydantic Tutorial, Part 4 | Toptal®](https://www.toptal.com/django/secure-django-heroku-pydantic-tutorial-part-4)

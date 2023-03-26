@@ -6,7 +6,7 @@
 - [Working Backward](https://en.wikipedia.org/wiki/Backward_chaining)
 - Structured thinking
 
-you methodically [break down problems](https://forge.medium.com/the-500-year-old-piece-of-advice-that-will-change-your-life-1e580f115731) and solve them piece by piece, rather than worrying, relying on past assumptions, or shrugging in absolute cluelessness.
+You methodically [break down problems](https://forge.medium.com/the-500-year-old-piece-of-advice-that-will-change-your-life-1e580f115731) and solve them piece by piece, rather than worrying, relying on past assumptions, or shrugging in absolute cluelessness.
 
 - The Map is not the Territory
 - Circle of competence
@@ -134,6 +134,18 @@ Just because a prediction turns out to be true, does not prove that the theory t
 Reason: False hypotheses can make true predictions
 
 <https://www.youtube.com/watch?v=t7PwqiiQmVM>
+
+## Counterfactual thinking
+
+Counterfactual thinking is a concept in psychology that involves the human tendency to create possible alternatives to life events that have already occurred; something that is contrary to what actually happened. Counterfactual thinking is, as it states: "counter to the facts". These thoughts consist of the "What if?" and the "If only..." that occur when thinking of how things could have turned out differently. Counterfactual thoughts include things that – in the present – now could never happen in reality because they solely pertain to events that have occurred in the past.
+
+#### Upward counterfactual thinking
+
+Silver vs bronze medalist
+
+Upward counterfactuals are **thoughts about how the situation could have been better**. These kinds of thoughts tend to make people feel dissatisfied and unhappy; however, upward counterfactuals are the kind of thoughts that allow people to think about how they can do better in the future.
+
+[Counterfactual thinking - Wikipedia](https://en.wikipedia.org/wiki/Counterfactual_thinking)
 
 ## Links
 

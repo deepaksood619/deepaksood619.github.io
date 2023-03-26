@@ -39,3 +39,7 @@ mydb1.close()
 ## bamboolib
 
 <https://towardsdatascience.com/introducing-bamboolib-a-gui-for-pandas-4f6c091089e3>
+
+## Python Version
+
+[Pandas 2.0 : Everything You Need to Know - YouTube](https://www.youtube.com/watch?v=cSLPyRI_ZD8)

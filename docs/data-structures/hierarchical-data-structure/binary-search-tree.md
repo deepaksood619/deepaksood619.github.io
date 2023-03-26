@@ -5,19 +5,23 @@ Properties -
 - Explicit Data Structure
 - Can be used to store key value pairs for a symbol table implementation
 "A Binary Search Tree is sometimes called ordered or sorted binary trees, and it keeps its values in sorted order, so that lookup and other operations can use the principle of binary search" --- [Wikipedia](https://en.wikipedia.org/wiki/Binary_search_tree)
+
 A BST is a binary tree in symmetric order
 
 Each node has a key, and every node's key is:
 
 - Larger than all keys in its left subtree
 - Smaller than all keys in its right subtree
+
 A BST is a reference to a root Node.
 
 A Node is comprised of four fields:
 
 - A Key and a Value
 - A reference to the left and right subtree
+
 ![image](../../media/Binary-Search-Tree-image1.jpg)
+
 Search: If less, go left; if greater, go right; if equal, search hit.
 
 Insert: If less, go left; if greater, go right; if null, insert.
@@ -35,7 +39,9 @@ Search for key, then two cases:
 - Key not in tree -> add new node
 
 ![image](../../media/Binary-Search-Tree-image3.jpg)
+
 Cost: Number of compares is equal to 1 + depth of node
+
 A BST is a binary tree in symmetric order
 
 Each node has a key, and every node's key is:

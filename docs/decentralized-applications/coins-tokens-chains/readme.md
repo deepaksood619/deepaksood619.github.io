@@ -14,65 +14,24 @@
 
 ## Coins
 
-Market Capitalization - [https://coinmarketcap.com/](https://coinmarketcap.com/)
-
-- Bitcoin (BTH)
-- Ether (ETH) - Ethereum Chain
-- Binance (BNB)
+- Bitcoin
+- Ethereum (Ethereum Chain)
+- BNB (Binance)
+- Cardano (ADA)
+- XRP
 - Solana (SOL)
   - Scalable - 50,000 TPS
   - Low transaction fees
   - <https://solana.com>
-- Cardano (ADA)
-- CRO Coin (bitcoin.com)
-- Alt coins (Alternative coins - coins apart from Bitcoin)
-- Meme coin
-- Portfolio
-  - 40% - Ethereum
-  - 20% - Polygon
-  - 20% - Cardano
-  - 10% - Cartezi
-  - 10% - Litecoin
-- 40% - Bitcoin
-- 15% - Ethereum
-- 15% - DeFi
-- 10% - Centralized Exchanges
-- 10% - Smart Contract Projects
-- 5% - NFT (Mana / Chiliz / Axie infinity)
-- 5% - Shitcoins/Memecoins
-- DeFi wallet
-- DFI
-  DFI is the DeFi Blockchain (DeFiChain) native token. DeFi blockchain is a blockchain launched by DeFiChain Foundation to enable decentralized finance (DeFi) on the Bitcoin blockchain, without needing Turing-complete instructions – which has proven to be causing quite a few unwanted incidents in the DeFi space.
-
-[Top 5 Eco Friendly Cryptocurrencies to Buy and Hold in 2023 - YouTube](https://www.youtube.com/watch?v=7XV3TFISzUk)
-
-## Stable Coins
-
-- Tether (USDT)
-- USD Coin (USDC)
-- BUSD (Binance USD)
-- Dai (DAI)
-
-### Algorithmic Stablecoins
-
-- Luna / Terra
-
-## Top Coins
-
-Here is the list of the top 10 cryptocurrencies (according to Coingecko.com) which qualify as coins:
-
-- Bitcoin
-- Ethereum
-- BNB
-- Cardano
-- XRP
-- Solana
 - Polkadot
 - Dogecoin
 - TRON
 - Avalanche
+- Cronos (CRO)
+- Monero (XMR) - [Monero - secure, private, untraceable](https://www.getmonero.org/)
+- Secret (SCRT) - [Secret Network](https://scrt.network/)
 
-Here are the top tokens (according to Coingecko) you can find on the crypto market:
+## Tokens / Stable coins
 
 - Tether
 - USD Coin
@@ -84,6 +43,18 @@ Here are the top tokens (according to Coingecko) you can find on the crypto mark
 - Lido Staked Ether
 - FTX Token
 - Chainlink
+- Algorithmic Stablecoins - Luna / Terra
+
+Market Capitalization - [https://coinmarketcap.com/](https://coinmarketcap.com/)
+
+- Alt coins (Alternative coins - coins apart from Bitcoin)
+- Cartezi
+- Litecoin
+- Polygon
+- DFI
+  DFI is the DeFi Blockchain (DeFiChain) native token. DeFi blockchain is a blockchain launched by DeFiChain Foundation to enable decentralized finance (DeFi) on the Bitcoin blockchain, without needing Turing-complete instructions – which has proven to be causing quite a few unwanted incidents in the DeFi space.
+
+[Top 5 Eco Friendly Cryptocurrencies to Buy and Hold in 2023 - YouTube](https://www.youtube.com/watch?v=7XV3TFISzUk)
 
 ## Chains
 

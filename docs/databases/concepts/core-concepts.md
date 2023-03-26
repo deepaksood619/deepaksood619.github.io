@@ -11,6 +11,7 @@ Try to make all statements Idempotent
 ## Transaction Log
 
 In the field of [databases](https://en.wikipedia.org/wiki/Database) in [computer science](https://en.wikipedia.org/wiki/Computer_science), atransaction log(alsotransaction journal, database log, binary logoraudit trail) is a history of actions executed by a [database management system](https://en.wikipedia.org/wiki/Database_management_system) used to guarantee [ACID](https://en.wikipedia.org/wiki/ACID) properties over [crashes](https://en.wikipedia.org/wiki/Crash_(computing)) or hardware failures. Physically, a log is a [file](https://en.wikipedia.org/wiki/Computer_file) listing changes to the database, stored in a stable storage format.
+
 If, after a start, the database is found in an [inconsistent](https://en.wikipedia.org/wiki/Consistency_(database_systems)) state or not been shut down properly, the database management system reviews the database logs for [uncommitted](https://en.wikipedia.org/wiki/Commit_(data_management)) transactions and [rolls back](https://en.wikipedia.org/wiki/Rollback_(data_management)) the changes made by these [transactions](https://en.wikipedia.org/wiki/Database_transaction). Additionally, all transactions that are already committed but whose changes were not yet materialized in the database are re-applied. Both are done to ensure [atomicity](https://en.wikipedia.org/wiki/Atomicity_(database_systems)) and [durability](https://en.wikipedia.org/wiki/Durability_(computer_science)) of transactions.
 
 ## Types of database log records

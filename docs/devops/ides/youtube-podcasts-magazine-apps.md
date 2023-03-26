@@ -92,6 +92,7 @@
 - RealLifeLore
 - Technology Connections
 - Science Magazine
+- [Free High-Quality Documentaries - YouTube](https://www.youtube.com/@FreeHighQualityDocumentaries)
 
 ### News
 
@@ -128,6 +129,7 @@
 ### Finance / Stocks / Personal finance
 
 - Economics Explained
+- Economics explained essentials
 - ET Money / ETMoney
 - Shankar Nath
 - Zerodha online / Zerodha Varsity
@@ -142,6 +144,7 @@
 - Akshat Shrivastav
 - Pranjal Kamra
 - The madras trailer
+- A16z
 
 ### Trading
 

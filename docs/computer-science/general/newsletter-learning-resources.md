@@ -30,6 +30,7 @@ Quote of the Week:"Computer programming is an art because it applies accumulated
 2. <https://medium.com>
 3. Awesome Repositories -<https://github.com/ossu/computer-science>
 4. [daily.dev | Where developers grow together](https://daily.dev/)
+5. [GitHub - jwasham/coding-interview-university: A complete computer science study plan to become a software engineer.](https://github.com/jwasham/coding-interview-university)
 
 ## Youtube channelsworth subscribing
 

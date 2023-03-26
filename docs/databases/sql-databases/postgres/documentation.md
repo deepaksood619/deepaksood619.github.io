@@ -4,7 +4,7 @@
 
 [1. What IsPostgreSQL?](https://www.postgresql.org/docs/12/intro-whatis.html)
 
-[2. A Brief History ofPostgreSQL](https://www.postgresql.org/docs/12/history.html)
+[2. A Brief History of PostgreSQL](https://www.postgresql.org/docs/12/history.html)
 
 [3. Conventions](https://www.postgresql.org/docs/12/notation.html)
 
@@ -16,7 +16,7 @@
 
 [1. Getting Started](https://www.postgresql.org/docs/12/tutorial-start.html)
 
-[2. TheSQLLanguage](https://www.postgresql.org/docs/12/tutorial-sql.html)
+[2. The SQL Language](https://www.postgresql.org/docs/12/tutorial-sql.html)
 
 [3. Advanced Features](https://www.postgresql.org/docs/12/tutorial-advanced.html)
 
@@ -34,9 +34,10 @@
 
 [9. Functions and Operators](https://www.postgresql.org/docs/12/functions.html)
 
-PREPARE TRANSACTION--prepare the current transaction for two-phase commit
+PREPARE TRANSACTION - prepare the current transaction for two-phase commit
 
 <https://www.highgo.ca/2020/01/28/understanding-prepared-transactions-and-handling-the-orphans>
+
 [10. Type Conversion](https://www.postgresql.org/docs/12/typeconv.html)
 
 [11. Indexes](https://www.postgresql.org/docs/12/indexes.html)
@@ -66,7 +67,13 @@ PREPARE TRANSACTION--prepare the current transaction for two-phase commit
 [**13.3.4. Deadlocks**](https://www.postgresql.org/docs/current/explicit-locking.html#LOCKING-DEADLOCKS)
 
 [**13.3.5. Advisory Locks**](https://www.postgresql.org/docs/current/explicit-locking.html#ADVISORY-LOCKS)
+
 <https://www.postgresql.org/docs/current/explicit-locking.html>
+
+[Postgres Lock Conflicts](https://postgres-locks.husseinnasser.com/?pgcommand=REFRESH%20MATERIALIZED%20VIEW)
+
+[All Postgres Locks Explained | A Deep Dive - YouTube](https://www.youtube.com/watch?v=URwmzTeuHdk)
+
 [13.4. Data Consistency Checks at the Application Level](https://www.postgresql.org/docs/current/applevel-consistency.html)
 
 [13.4.1. Enforcing Consistency with Serializable Transactions](https://www.postgresql.org/docs/current/applevel-consistency.html#SERIALIZABLE-CONSISTENCY)
@@ -76,6 +83,7 @@ PREPARE TRANSACTION--prepare the current transaction for two-phase commit
 [13.5. Caveats](https://www.postgresql.org/docs/current/mvcc-caveats.html)
 
 [13.6. Locking and Indexes](https://www.postgresql.org/docs/current/locking-indexes.html)
+
 [14. Performance Tips](https://www.postgresql.org/docs/12/performance-tips.html)
 
 [15. Parallel Query](https://www.postgresql.org/docs/12/parallel-query.html)
@@ -231,4 +239,5 @@ PREPARE TRANSACTION--prepare the current transaction for two-phase commit
 [K.PostgreSQLLimits](https://www.postgresql.org/docs/12/limits.html)
 
 [L. Acronyms](https://www.postgresql.org/docs/12/acronyms.html)
+
 <https://www.postgresql.org/docs/current/index.html>

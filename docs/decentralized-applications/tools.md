@@ -38,6 +38,7 @@
 - KYC - sumsub
 - Security - [Web3 Security Leaderboard](https://www.certik.com/)
 - Analytics - [Glassnode - On-chain market intelligence](https://glassnode.com/)
+- [Blockchain Analytics & Crypto Compliance Solutions | Elliptic](https://www.elliptic.co/)
 
 #### Platforms
 

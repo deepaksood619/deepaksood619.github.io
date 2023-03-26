@@ -60,14 +60,16 @@ When operations of a transaction are interleaved with operations of other transa
 
 Serial schedules have less resource utilization and low throughput. To improve it, two are more transactions are run concurrently. But concurrency of transactions may lead to inconsistency in database. To avoid this, we need to check whether these concurrent schedules are serializable or not.
 
-## Conflict Serializable:A schedule is called conflict serializable if it can be transformed into a serial schedule by swapping non-conflicting operations
+**Conflict Serializable:** A schedule is called conflict serializable if it can be transformed into a serial schedule by swapping non-conflicting operations
 
-## Conflicting operations:Two operations are said to be conflicting if all conditions satisfy
+**Conflicting operations:** Two operations are said to be conflicting if all conditions satisfy
 
 - They belong to different transactions
 - They operate on the same data item
 - At Least one of them is a write operation
+
 Example
+
 - **Conflicting** operations pair (R1(A), W2(A)) because they belong to two different transactions on same data item A and one of them is write operation.
 - Similarly, (W1(A), W2(A)) and (W1(A), R2(A)) pairs are also **conflicting**.
 - On the other hand, (R1(A), W2(B)) pair is**non-conflicting**because they operate on different data item.

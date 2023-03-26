@@ -13,8 +13,12 @@ Examples of web services that make use of Recommender Systems are: online auctio
 
 [Vinija's Notes • Recommendation Systems • Research Papers](https://vinija.ai/recsys/papers/)
 
-## Social Media Recommendation Engine
+### Social Media Recommendation Engine
 
 - Doom scrolling
 - Endless bottom / endless scrolling
 - Reel life vs real life
+
+### Price Recommendation Engine
+
+[ML driven dynamic pricing @ CARS24 — Part 1 | by Shashank Kumar | CARS24 Data Science Blog | Mar, 2023 | Medium](https://medium.com/cars24-data-science-blog/how-cars24-uses-machine-learning-for-dynamic-pricing-of-used-cars-part-1-51fee52860d1)

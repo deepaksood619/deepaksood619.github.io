@@ -88,6 +88,8 @@ Cut yourself off when you need to (if you give yourself shorter timelines, you'l
 
 **Whether you think you can or think you can't, you're right -- Henry Ford**
 
+I have had a good life and I have accomplished all I wanted to, and more than I had a right to expect I would. -- Isaac Asimov
+
 If everything is coming your way, then you are on the wrong lane.
 
 Never Half-Ass two thing, Whole-Ass one thing

@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "computer-science/distributed-system/distributed-logging.md",
+                "file": "databases/sql-databases/postgres/readme.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6e872776e2f1b256",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "databases/sql-databases/postgres/documentation.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -48,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "kahoot",
+                "query": "timestamp datetime",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -93,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "computer-science/distributed-system/distributed-logging.md",
+                "file": "databases/sql-databases/postgres/documentation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "computer-science/distributed-system/distributed-logging.md",
+                "file": "databases/sql-databases/postgres/documentation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "computer-science/distributed-system/distributed-logging.md"
+                "file": "databases/sql-databases/postgres/documentation.md"
               }
             }
           },
@@ -181,46 +194,46 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "978fd2faf621af33",
+  "active": "6e872776e2f1b256",
   "lastOpenFiles": [
-    "devops/ides/youtube-podcasts-magazine-apps.md",
-    "office/blocktoons/todo.md",
-    "office/blocktoons/people.md",
-    "office/blocktoons/infra.md",
-    "office/cakedefi/todo.md",
-    "databases/others/technologies-tools.md",
-    "office/cakedefi/sql-queries.md",
-    "management/people-management/culture.md",
-    "management/decision-making/readme.md",
-    "office/cakedefi/product.md",
-    "office/cakedefi/architecture.md",
-    "office/cakedefi/infra.md",
-    "decentralized-applications/coins-tokens-chains/readme.md",
-    "decentralized-applications/coins-tokens-chains/cardano.md",
-    "decentralized-applications/coins-tokens-chains/coin-token-intro.md",
-    "decentralized-applications/coins-tokens-chains/usdt.md",
-    "frontend/others/nodejs/libraries.md",
-    "frontend/others/nodejs/npm-commands.md",
-    "frontend/others/nodejs/nodejs-frameworks.md",
-    "cloud/others/others-saas.md",
-    "office/blocktoons/product.md",
-    "office/blocktoons/about.md",
-    "office/blocktoons/my-interviews-blocktoons.md",
-    "office/blocktoons/readme.md",
-    "office/stashfin-credentials/readme.md",
-    "office/stashfin-credentials/internal-tech.md",
+    "languages/sql/ddl-data-definition-language/create-table.md",
+    "languages/sql/dml-data-manipulation-language.md",
+    "data-structures/others/lsm-log-structured-merge-trees.md",
+    "databases/sql-databases/memsql/intro.md",
+    "office/hr-interviews/interview-template.md",
+    "databases/indexing/database-index.md",
+    "data-structures/hierarchical-data-structure/b-tree.md",
+    "data-structures/hierarchical-data-structure/binary-tree.md",
+    "data-structures/hierarchical-data-structure/binary-search-tree.md",
+    "data-structures/hierarchical-data-structure/binary-heap.md",
+    "data-structures/hierarchical-data-structure/beap-bi-parental-heap.md",
+    "databases/concepts/isolation-levels.md",
+    "databases/concepts/types-of-databases.md",
+    "databases/concepts/rum-conjecture.md",
+    "databases/concepts/readme.md",
+    "databases/concepts/others.md",
+    "databases/concepts/mvcc-multiversion-concurrency-control.md",
+    "databases/concepts/intro.md",
+    "databases/concepts/history.md",
+    "media/History-image17.jpg",
+    "databases/concepts/disk-oriented-vs-in-memory-dbs.md",
+    "databases/concepts/core-concepts.md",
+    "databases/concepts/concurrency-control.md",
+    "databases/concepts/acid-and-base.md",
+    "knowledge/geography/others.md",
+    "knowledge/geography/continents.md",
+    "knowledge/geography/readme.md",
+    "media/Pasted image 20230326221220.png",
+    "media/Pasted image 20230326221139.png",
+    "media/Pasted image 20230326220025.png",
+    "media/Pasted image 20230326214900.png",
+    "media/Pasted image 20230326214747.png",
+    "media/Pasted image 20230326214011.png",
+    "media/Pasted image 20230326180326.png",
     "office/stashfin-credentials",
     "media/TODO-Goals-image1.png",
     "management/people-management",
     "media/Pasted image 20230320193615.png",
-    "media/Pasted image 20230320181018.png",
-    "media/Pasted image 20230320181009.png",
-    "media/Pasted image 20230320173453.png",
-    "media/Others-image2.jpg",
-    "media/Screenshot 2023-03-17 at 7.43.56 PM.png",
-    "media/Screenshot 2023-03-17 at 3.16.48 PM.png",
-    "media/Screenshot 2023-03-17 at 7.36.20 PM.png",
-    "media/Screenshot 2023-03-17 at 7.23.56 PM.png",
     "decentralized-applications/coins-tokens-chains",
     "Untitled",
     "technologies/apache/databricks",

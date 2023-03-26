@@ -12,9 +12,11 @@ A binary heap is defined as a binary tree with two additional constraints:
 
 - Shape property: a binary heap is a [*complete binary tree*](https://en.wikipedia.org/wiki/Complete_Binary_Tree); that is, all levels of the tree, except possibly the last one (deepest) are fully filled, and, if the last level of the tree is not complete, the nodes of that level are filled from left to right.
 - Heap property: the key stored in each node is either greater than or equal to (≥) or less than or equal to (≤) the keys in the node's children, according to some [total order](https://en.wikipedia.org/wiki/Total_order).
+
 A binary heap is a complete binary tree which satisfies the heap ordering property. The ordering can be one of two types:
-- the*min-heap property*: the value of each node is greater than or equal to the value of its parent, with the minimum-value element at the root.
-- the*max-heap property*: the value of each node is less than or equal to the value of its parent, with the maximum-value element at the root.
+
+- the *min-heap property* : the value of each node is greater than or equal to the value of its parent, with the minimum-value element at the root.
+- the *max-heap property* : the value of each node is less than or equal to the value of its parent, with the maximum-value element at the root.
 
 Throughout this chapter the word "heap" will always refer to a min-heap.
 
@@ -123,8 +125,6 @@ Goal: Build max heap using bottom-up method
 | **decrease-key** | *Θ*(log*n*) | *Θ*(*n*) | *Θ*(log*n*) | *Θ*(1) | *o*(log*n*) | *Θ*(1) | *Θ*(1) | *Θ*(1) |
 | **merge** | *Θ*(*n*) | *Θ*(log*n*) | *O*(log*n*) | *Θ*(1) | *Θ*(1) | *Θ*(1) | *Θ*(1) | *Θ*(1) |
 
-## Python 3
+Python > Documentation > Concurrent Execution
 
-## Python > Documentation > Concurrent Execution
-
-## Python > Documentation > Data Types
+Python > Documentation > Data Types

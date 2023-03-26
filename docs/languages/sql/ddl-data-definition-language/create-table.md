@@ -330,18 +330,14 @@ MySQL converts TIMESTAMP values from the current time zone to UTC for storage, a
 ### Difference between DATETIME & TIMESTAMP
 
 1. Supported range for DATETIMEis '1000-01-01 00:00:00' to '9999-12-31 23:59:59' while for TIMESTAMP, it is '1970-01-01 00:00:01' UTC to '2038-01-09 03:14:07' UTC.
-
 2. Prior to MySQL 5.6.4, TIMESTAMP requires 4 bytes (+3 bytes for fractional seconds) to store the data while DATETIME requires 8 bytes (+3 bytes for fractional seconds).
-
 3. As of MySQL 5.6.4, DATETIME requires 5 bytes + 3 additional bytes for fractional seconds data storing.
-
 4. In MySQL5+, TIMESTAMP value converts from the current time to UTC and vice-versa while DATETIME does not do any conversion.
-
 5. TIMESTAMP differs with current time zone settings while DATETIME remains constant.
-
 6. TIMESTAMP data can be indexed while the DATETIME data cannot.
-
 7. Queries with DATETIME will not be cached but queries with TIMESTAMP will be cached.
+
+[Datetime vs Timestamp datatype in databases - Which one is better and when? - YouTube](https://www.youtube.com/watch?v=zrl_odkY5tI)
 
 <https://www.eversql.com/mysql-datetime-vs-timestamp-column-types-which-one-i-should-use>
 

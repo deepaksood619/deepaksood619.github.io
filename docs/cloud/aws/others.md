@@ -32,3 +32,11 @@ The AWS CDK lets you build reliable, scalable, cost-effective applications in th
 - Easily share infrastructure design patterns among teams within your organization or even with the public.
 
 [What is the AWS CDK? - AWS Cloud Development Kit (AWS CDK) v2](https://docs.aws.amazon.com/cdk/v2/guide/home.html)
+
+## AWS Data Lab
+
+AWS Data Lab offers accelerated, joint engineering engagements between customers and AWS technical resources to create tangible deliverables that accelerate databases, analytics, artificial intelligence/machine learning (AI/ML), application & infrastructure modernization, and DataOps initiatives.
+
+Data Lab has three offerings - the Build Lab, the Design Lab, and Resident Architect.
+
+[AWS Data Lab](https://aws.amazon.com/aws-data-lab/)

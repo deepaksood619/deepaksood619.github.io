@@ -109,6 +109,10 @@ Breakage is a term used to describe revenue gained by retailers through unredeem
 
 [What Is a Negative Interest Rate, and Why Would We Have Them?](https://www.investopedia.com/terms/n/negative-interest-rate.asp)
 
+## Other Terms
+
+AML - Anti Money Laundering
+
 ## Credit Bureaus
 
 1. TransUnion Cibil

@@ -14,6 +14,8 @@ Phygital
 
 The more participants you actually have in the decentralized network, the more stable the entire cryptocurrency is going to be.
 
+Solving double spend problem
+
 #### Timechain
 
 [https://blog.goodaudience.com/timechain-a-decade-of-misunderstanding-blockchain-bcb56d7839a3](https://blog.goodaudience.com/timechain-a-decade-of-misunderstanding-blockchain-bcb56d7839a3)
@@ -49,6 +51,13 @@ The more participants you actually have in the decentralized network, the more s
 ![image](../media/Blockchain-image6.jpg)
 
 <https://blog.chain.link/what-is-the-blockchain-oracle-problem>
+
+## DDOS in blockchains
+
+- DDoS attacks via transaction flooding
+- DDoS attacks via smart contract
+
+[DDoS in Blockchain - GeeksforGeeks](https://www.geeksforgeeks.org/ddos-in-blockchain/)
 
 ## Links
 

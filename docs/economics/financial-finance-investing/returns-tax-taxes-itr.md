@@ -221,6 +221,8 @@ Loss from business and profession cannot be set off against income chargeable to
 
 [Singapore & India Double Tax Agreement DTA | GuideMeSingapore - by Hawksford](https://www.guidemesingapore.com/business-guides/taxation-and-accounting/double-tax-treaties/singapore-india-double-tax-treaty-guide)
 
+[What Are Telegraphic Transfer (TT) Buying/Selling Rates? - Wise](https://wise.com/au/blog/telegraphic-transfer-buying-rates)
+
 ## NRI Taxes
 
 [Income Tax for NRI](https://cleartax.in/s/income-tax-for-nri)

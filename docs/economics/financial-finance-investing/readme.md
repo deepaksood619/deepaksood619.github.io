@@ -12,6 +12,8 @@ Past performance is no guarantee for future performance
 
 It's not hard to get rich. Investing is a game of temperament not a game of intelligence.
 
+An investor without an investment objective is like a traveler without a destination!
+
 <https://freefincal.com/hdfc-corporate-bond-fund>
 
 Parag Parikh Flexi Cap

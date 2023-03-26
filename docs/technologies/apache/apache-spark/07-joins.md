@@ -2,7 +2,7 @@
 
 ## Sort Merge Joins
 
-When Spark translates an operation in the execution plan as a Sort Merge Join it enables an all-to-all communication strategy among the nodes: the Driver Node will orchestrate the Executors, each of which will hold a particular set of joining keys.Before running the actual operation, the partitions are first sorted(this operation is obviously heavy itself). As you can imagine this kind of strategy can be expensive: nodes need to use the network to share data;note that Sort Merge Joins tend to minimize data movements in the cluster, especially compared to Shuffle Hash Joins.
+When Spark translates an operation in the execution plan as a Sort Merge Join it enables an all-to-all communication strategy among the nodes: the Driver Node will orchestrate the Executors, each of which will hold a particular set of joining keys. Before running the actual operation, the partitions are first sorted (this operation is obviously heavy itself). As you can imagine this kind of strategy can be expensive: nodes need to use the network to share data; note that Sort Merge Joins tend to minimize data movements in the cluster, especially compared to Shuffle Hash Joins.
 
 ![image](../../../media/Technologies-Apache-Joins-image1.jpg)
 

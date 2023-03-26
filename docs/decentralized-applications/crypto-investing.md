@@ -4,21 +4,30 @@ not your keys, not your crypto
 
 ## Types of Crypto wallets
 
+Not your keys not your coins
+
 - Hot wallets
 
     These types of bitcoin wallets are connected to the internet and are typically available online or on your smartphone.
 
-- Cold wallets
+  - Custodial wallets
+
+- Cold wallets / Hardware Wallets
 
     These types of bitcoin wallets cannot be accessed through the internet. They often involve physical devices (like a USB stick), where bitcoin and other cryptocurrencies can be stored securely offline.
   - [Ledger Nano S Plus | Ledger](https://shop.ledger.com/products/ledger-nano-s-plus)
 
 [How to Store Your Bitcoin](https://www.coindesk.com/learn/how-to-store-your-bitcoin)
 
+[Hardware Wallets And MetaMask: The Best Security Combo | ConsenSys](https://consensys.net/blog/metamask/hardware-wallets-and-metamask-the-best-security-combo/)
+
+Authentication with hardware wallets like the Grid+ Lattice1, Keystone, Ledger, and Trezor.
+
 ## Crypto Wallets
 
 - Metamask (A crypto wallet & gateway to blockchain apps)
   - [MetaMask Portfolio dApp](https://portfolio.metamask.io/)
+  - [MetaMask under the hood—not just a crypto wallet - Chainstack](https://chainstack.com/metamask-behind-the-scenes-not-only-a-crypto-wallet/)
 - Trustwallet (Multi Coin Wallet)
 - [Leap Wallet](https://www.leapwallet.io/)
 - [Cake Wallet](https://cakewallet.com/)
@@ -94,6 +103,10 @@ The Top Three Highest Ranking Crypto Websites on Alexa
 - [Top Bitcoin and other Crypto Payment Processor | CoinGate](https://coingate.com/)
   - Amazon Gift Cards
 - [250+ Stores That Accept Bitcoin | BitPay’s Curated Directory of Places to Spend Cryptocurrency](https://bitpay.com/directory/)
+
+## Ideas
+
+[Vitalik Buterin - Ideas for things worth building - YouTube](https://www.youtube.com/watch?v=rp3cDq2LiBM)
 
 ### Links
 

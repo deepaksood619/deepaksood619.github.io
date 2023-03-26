@@ -52,6 +52,12 @@ Vaughan defines this as a process where a clearly unsafe practice comes to be co
 
 [Normalization of deviance - Wikipedia](https://en.wikipedia.org/wiki/Normalization_of_deviance)
 
+## Dark forest hypothesis
+
+The dark forest hypothesis is the conjecture that many alien civilizations exist throughout the universe, but they are both silent and paranoid. In this framing, it is presumed that any space-faring civilization would view any other intelligent life as an inevitable threat, and thus destroy any nascent life that makes its presence known. As a result, the electromagnetic spectrum would be relatively quiescent, without evidence of any intelligent alien life, as in a "dark forest" filled with "armed hunter(s) stalking through the trees like a ghost".
+
+[Dark forest hypothesis - Wikipedia](https://en.wikipedia.org/wiki/Dark_forest_hypothesis)
+
 ## Links
 
 - [Law of Triviality](soft-skills/prioritization-leverage#law-of-triviality)

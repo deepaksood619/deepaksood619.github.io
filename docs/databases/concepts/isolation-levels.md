@@ -22,23 +22,25 @@ Isolation is one of the [ACID](https://en.wikipedia.org/wiki/ACID)([Atomicity](h
 
 The ANSI/ISO standard SQL 92 refers to three differentread phenomenawhen Transaction 1 reads data that Transaction 2 might have changed.
 
-- **Dirty reads**
+#### Dirty reads
 
-*Adirty read(akauncommitted dependency)* occurs when a transaction is allowed to read data from a row that has been modified by another running transaction and not yet committed.
+*A dirty read (aka uncommitted dependency)* occurs when a transaction is allowed to read data from a row that has been modified by another running transaction and not yet committed.
 
-- **Lost Update**
+#### Lost Update
 
 A lost update occurs when two different transactions are trying to update the same column on the same row within a database at the same time. Typically, one transaction updates a particular column in a particular row, while another that began very shortly afterward did not see this update before updating the same value itself. The result of the first transaction is then "lost", as it is simply overwritten by the second transaction.
 
-- **Non-repeatable reads**
+#### Non-repeatable reads
 
 A *non-repeatable read* occurs, when during the course of a transaction, a row is retrieved twice and the values within the row differ between reads.
 
-- **Phantom reads**
+#### Phantom reads
 
-A *phantom read*occurs when, in the course of a transaction, new rows are added or removed by another transaction to the records being read.
+A *phantom read* occurs when, in the course of a transaction, new rows are added or removed by another transaction to the records being read.
 
-## The incorrect summary problem
+[Understanding Phantom Reads Problem with hands on examples - YouTube](https://www.youtube.com/watch?v=n_t0IO0mq5Q)
+
+#### The incorrect summary problem
 
 While one transaction takes a summary over the values of all the instances of a repeated data-item, a second transaction updates some instances of that data-item. The resulting summary does not reflect a correct result for any (usually needed for correctness) precedence order between the two transactions (if one is executed before the other), but rather some random result, depending on the timing of the updates, and whether certain update results have been included in the summary or not.
 
@@ -103,16 +105,16 @@ There are two additional isolation levels:
 
 <https://fauna.com/blog/introduction-to-transaction-isolation-levels>
 
-## Demystifying Database Systems: Correctness Anomalies Under SerializableIsolation
+## Demystifying Database Systems: Correctness Anomalies Under Serializable Isolation
 
-## What Does "Serializable" Mean in a Distributed/ReplicatedSystem?
+**What Does "Serializable" Mean in a Distributed/ReplicatedSystem?**
 
 We defined "serializable isolation" above as a guarantee that even though a database system is allowed to run transactions in parallel, the final result is equivalent to as if they were running one after the other. In a replicated system, this guarantee must be strengthened in order to avoid the anomalies that would only occur at lower levels of isolation in non-replicated systems.- The Immortal Write
 
 - The Stale Read
 - The Casual Reverse
 
-## Classification of SerializableSystems
+### Classification of Serializable Systems
 
 | **System Guarantee** | **Immortal write** | **Stale read** | **Causal reverse** |
 |---|---|---|---|
@@ -140,17 +142,17 @@ We defined "serializable isolation" above as a guarantee that even though a data
 ## Distributed Locking
 
 - **Efficiency:** Taking a lock saves you from unnecessarily doing the same work twice (e.g. some expensive computation). If the lock fails and two nodes end up doing the same piece of work, the result is a minor increase in cost (you end up paying 5 cents more to AWS than you otherwise would have) or a minor inconvenience (e.g. a user ends up getting the same email notification twice)
-- **Correctness:**Taking a lock prevents concurrent processes from stepping on each others' toes and messing up the state of your system. If the lock fails and two nodes concurrently work on the same piece of data, the result is a corrupted file, data loss, permanent inconsistency, the wrong dose of a drug administered to a patient, or some other serious problem
+- **Correctness:** Taking a lock prevents concurrent processes from stepping on each others' toes and messing up the state of your system. If the lock fails and two nodes concurrently work on the same piece of data, the result is a corrupted file, data loss, permanent inconsistency, the wrong dose of a drug administered to a patient, or some other serious problem
 
 <https://martin.kleppmann.com/2016/02/08/how-to-do-distributed-locking.html>
 
-## SLOG - Serializable, Low-Latency, Geo-Replicated transactions
+SLOG - Serializable, Low-Latency, Geo-Replicated transactions
 
 ## MySQL
 
 You can enforce a high degree of consistency with the default [REPEATABLE READ](https://dev.mysql.com/doc/refman/5.7/en/innodb-transaction-isolation-levels.html#isolevel_repeatable-read) level, for operations on crucial data where [ACID](https://dev.mysql.com/doc/refman/5.7/en/glossary.html#glos_acid) compliance is important. Or you can relax the consistency rules with [READ COMMITTED](https://dev.mysql.com/doc/refman/5.7/en/innodb-transaction-isolation-levels.html#isolevel_read-committed) or even [READ UNCOMMITTED](https://dev.mysql.com/doc/refman/5.7/en/innodb-transaction-isolation-levels.html#isolevel_read-uncommitted), in situations such as bulk reporting where precise consistency and repeatable results are less important than minimizing the amount of overhead for locking. [SERIALIZABLE](https://dev.mysql.com/doc/refman/5.7/en/innodb-transaction-isolation-levels.html#isolevel_serializable) enforces even stricter rules than [REPEATABLE READ](https://dev.mysql.com/doc/refman/5.7/en/innodb-transaction-isolation-levels.html#isolevel_repeatable-read), and is used mainly in specialized situations, such as with [XA](https://dev.mysql.com/doc/refman/5.7/en/glossary.html#glos_xa) transactions and for troubleshooting issues with concurrency and [deadlocks](https://dev.mysql.com/doc/refman/5.7/en/glossary.html#glos_deadlock).
 
-## MySQL Lost Update problem
+### MySQL Lost Update problem
 
 <https://stackoverflow.com/questions/53562850/mysql-repeatable-read-isolation-level-and-lost-update-phenomena>
 

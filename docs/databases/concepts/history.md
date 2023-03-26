@@ -33,5 +33,3 @@
 ![image](../../media/History-image16.jpg)
 
 [01 - History of Databases (CMU Databases / Spring 2020)](https://www.youtube.com/watch?v=SdW5RKUboKc)
-
-![image](../../media/History-image17.jpg)

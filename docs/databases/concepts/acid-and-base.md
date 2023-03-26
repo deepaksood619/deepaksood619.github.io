@@ -1,19 +1,27 @@
 # ACID and BASE
 
-1. ACID (SQL)
+## ACID (SQL)
 
-   - A - Atomic, Everything in a transaction succeeds or the entire transaction is rolled back
-   - C - Consistent - A transtion cannot leave the database in an inconsistent state.
-   - I - Isolated - Transaction cannot interfere with each other
-   - D - Durable - Completed Transaction persist, even when the server restarts.
+- A - Atomic, Everything in a transaction succeeds or the entire transaction is rolled back
+- C - Consistent - A transtion cannot leave the database in an inconsistent state.
+- I - Isolated - Transaction cannot interfere with each other
+- D - Durable - Completed Transaction persist, even when the server restarts.
 
-2. BASE - Basically Available, Soft-state Eventual consistency (NoSQL)
+## BASE - Basically Available, Soft-state Eventual consistency (NoSQL)
 
 In partitioned databases, trading some consistency for availability can lead to dramatic improvements in scalability. BASE is optimistic and accepts that the database consistency will be in a state of flux. Although this sounds impossible to cope with, in reality it is quite manageable and leads to levels of scalability that cannot be obtained with ACID.
 
-- **BA - Basic Availability:** This constraint states that the system does guarantee the availability of the data as regards CAP Theorem; there will be a response to any request. But, that response could still be 'failure' to obtain the requested data or the data may be in an inconsistent or changing state, much like waiting for a check to clear in your bank account.
-- **S - Soft State:** The state of the system could change over time, so even during times without input there may be changes going on due to 'eventual consistency,' thus the state of the system is always 'soft.'
-- **E - Eventual Consistency:** The system will *eventually*become consistent once it stops receiving input. The data will propagate to everywhere it should sooner or later, but the system will continue to receive input and is not checking the consistency of every transaction before it moves onto the next one.
+### BA - Basic Availability
+
+This constraint states that the system does guarantee the availability of the data as regards CAP Theorem; there will be a response to any request. But, that response could still be 'failure' to obtain the requested data or the data may be in an inconsistent or changing state, much like waiting for a check to clear in your bank account.
+
+### S - Soft State
+
+The state of the system could change over time, so even during times without input there may be changes going on due to 'eventual consistency,' thus the state of the system is always 'soft.'
+
+### E - Eventual Consistency
+
+The system will *eventually* become consistent once it stops receiving input. The data will propagate to everywhere it should sooner or later, but the system will continue to receive input and is not checking the consistency of every transaction before it moves onto the next one.
 
 ## BASE in terms of NoSQL Databases
 

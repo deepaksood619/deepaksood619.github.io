@@ -73,6 +73,24 @@ The [wage-price spiral](https://www.investopedia.com/terms/w/wage-price-spiral.a
 
 ![image](../../media/Mental-Models_Macroeconomics-image4.jpg)
 
+## Impossible trinity / Impossible Trilemma
+
+The **impossible trinity** (also known as **the impossible [trilemma](https://en.wikipedia.org/wiki/Trilemma "Trilemma")** or the **Unholy Trinity**) is a concept in [international economics](https://en.wikipedia.org/wiki/International_economics "International economics") which states that it is impossible to have all three of the following at the same time:
+
+- a fixed [foreign exchange rate](https://en.wikipedia.org/wiki/Foreign_exchange_rate "Foreign exchange rate")
+- free [capital](https://en.wikipedia.org/wiki/Capital_(economics) "Capital (economics)") movement (absence of [capital controls](https://en.wikipedia.org/wiki/Capital_control "Capital control"))
+- an independent [monetary policy](https://en.wikipedia.org/wiki/Monetary_policy "Monetary policy")
+
+![impossible-trilemma](../../media/Pasted%20image%2020230326180326.png)
+
+- **Side A**: A country can choose to fix exchange rates with one or more countries and have a free flow of capital with others. If it chooses this scenario, independent monetary policy is not achievable because interest rate fluctuations would create currency arbitrage stressing the currency pegs and causing them to break.
+- **Side B**: The country can choose to have a free flow of capital among all foreign nations and also have an autonomous monetary policy. Fixed exchange rates among all nations and the free flow of capital are mutually exclusive. As a result, only one can be chosen at a time. So, if there is a free flow of capital among all nations, there cannot be fixed exchange rates.
+- **Side C**: If a country chooses fixed exchange rates and independent monetary policy it cannot have a free flow of capital. Again, in this instance, fixed exchange rates and the free flow of capital are mutually exclusive.
+
+[What Is a Trilemma and How Is It Used in Economics? With Example](https://www.investopedia.com/terms/t/trilemma.asp)
+
+[Impossible trinity - Wikipedia](https://en.wikipedia.org/wiki/Impossible_trinity)
+
 ## Links
 
 [Data Update 1 for 2023: Setting the table](https://www.youtube.com/watch?v=RKJ1c442AcY)

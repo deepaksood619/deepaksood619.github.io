@@ -9,7 +9,10 @@
 - [Video 2](https://go.dappuniversity.com/bootcamp-2c61ccca)
 - [Video 3](https://go.dappuniversity.com/bootcamp-8e4c800d)
 
-Youtube - whiteboardcrypto
+**Youtube**
+
+- whiteboardcrypto
+- [ETHGlobal - YouTube](https://www.youtube.com/@ETHGlobal)
 
 [The Complete Beginner's Crypto Crash Course](https://www.youtube.com/playlist?list=PLU52pNodXIGdM6XDgHVG7DsPytlsrR_6b)
 
@@ -28,7 +31,6 @@ Youtube - whiteboardcrypto
 [GitHub - LukasMasuch/best-of-crypto: 🏆 A ranked list of awesome open-source crypto projects. Updated weekly.](https://github.com/LukasMasuch/best-of-crypto)
 
 [GitHub - hitripod/awesome-blockchain: Curated list of blockchain, Awesome Awesomeness](https://github.com/hitripod/awesome-blockchain)
-
 [ETH.BUILD - YouTube](https://www.youtube.com/playlist?list=PLJz1HruEnenCXH7KW7wBCEBnBLOVkiqIi)
 
 [Upgrading Ethereum | Contents](https://eth2book.info/bellatrix/contents/)
