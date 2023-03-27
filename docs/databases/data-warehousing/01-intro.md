@@ -1,7 +1,5 @@
 # Data Warehousing
 
-## Lifecycle Data
-
 In [computing](https://en.wikipedia.org/wiki/Computing), a data warehouse (DW or DWH), also known as an enterprise data warehouse (EDW), is a system used for [reporting](https://en.wikipedia.org/wiki/Business_reporting) and [data analysis](https://en.wikipedia.org/wiki/Data_analysis), and is considered a core component of [business intelligence](https://en.wikipedia.org/wiki/Business_intelligence). DWs are central repositories of integrated data from one or more disparate sources. They store current and historical data in one single place that are used for creating analytical reports for workers throughout the enterprise.
 
 The data stored in the warehouse is [uploaded](https://en.wikipedia.org/wiki/Upload) from the [operational systems](https://en.wikipedia.org/wiki/Operational_system) (such as marketing or sales). The data may pass through an [operational data store](https://en.wikipedia.org/wiki/Operational_data_store) and may require [data cleansing](https://en.wikipedia.org/wiki/Data_cleansing) for additional operations to ensure [data quality](https://en.wikipedia.org/wiki/Data_quality) before it is used in the DW for reporting.
@@ -37,18 +35,11 @@ Unlike a data warehouse, a data lake is a centralized repository for all data, i
 | **Data Quality** | Highly curated data that serves as the central version of the truth | Any data that may or may not be curated (i.e. raw data) |
 | **Users** | Business analysts, data scientists, and data developers | Data scientists, data developers, and business analysts (using curated data) |
 | **Analytics** | Batch reporting, BI, and visualizations | Machine learning, predictive analytics, data discovery, and profiling |
-
-|                 | **Data Lake**                                                                   | **Data Warehouse**                                                                |
-|----------|-------------------------------|--------------------------------|
-| **Type of data** | Unstructured and structured data from various company data sources              | Historical data that has been structured to fit a relational database schema      |
-| **Purpose**      | Cost-effective big data storage                                                 | Analytics for business decisions                                                  |
-| **Analytics**    | Machine learning, predictive analytics, data discovery, and profiling           | Batch reporting, BI, and visualizations                                           |
-| **Tasks**        | Storing data and big data analytics, like deep learning and real-time analytics | Typically read-only queries for aggregating and summarizing data                  |
-| **Size**         | Stores all data that might be used - can take up petabytes!                     | Only stores data relevant to analysis                                             |
-|                 | Seperation of compute and storage                                               | Tightly coupled compute and storage                                               |
-|                 | Designed prior to the data warehouse implementation **(Schema on read**)        | Written at the time of analysis **(Schema on write**)                             |
-|                 | Great for storing granular data; raw as well as processed data                  | Great for storing frequently accessed data as well as data aggregates and summary |
-| **Data Quality** | Any data that may or may not be curated (i.e., raw data)                        | Highly curated data that serves as the central version of the truth               |
+| **Tasks** | Typically read-only queries for aggregating and summarizing data | Storing data and big data analytics, like deep learning and real-time analytics                  |
+| **Size** | Only stores data relevant to analysis | Stores all data that might be used - can take up petabytes! |
+|                 | Tightly coupled compute and storage | Seperation of compute and storage |
+|                 | Written at the time of analysis **(Schema on write**) | Designed prior to the data warehouse implementation **(Schema on read**) |
+|                 | Great for storing frequently accessed data as well as data aggregates and summary | Great for storing granular data; raw as well as processed data |
 
 ## Data Warehouse vs Data Mart
 
@@ -59,6 +50,7 @@ A data mart is an access layer which is used to get data out to the users. It is
 In a simple word Data mart is a subsidiary of a data warehouse. The data mart is used for partition of data which is created for the specific group of users.
 
 Data marts could be created in the same database as the Datawarehouse or a physically separate Database.
+
 | **Characteristics** | **Data Warehouse** | **Data Mart** |
 |:---:|:---:|:---:|
 | **Scope** | Centralized, multiple subject areas integrated together | Decentralized, specific subject area |
@@ -67,6 +59,25 @@ Data marts could be created in the same database as the Datawarehouse or a physi
 | **Size** | Large, can be 100's of gigabytes to petabytes | Small, generally up to 10's of gigabytes |
 | **Design** | Top-down | Bottom-up |
 | **Data detail** | Complete, detailed data | May hold summarized data |
+
+## Characteristics of a Data Warehouse
+
+- **Subject-Oriented:** A data warehouse uses a theme, and delivers information about a specific subject instead of a company’s current operations. In other words, the data warehousing process is more equipped to handle a specific theme. Examples of themes or subjects include sales, distributions, marketing, etc.
+- **Integrated:** Integration is defined as establishing a connection between large amount of data from multiple databases or sources. However, it is also essential for the data to be stored in the data warehouse in a unified manner. The process of data warehousing integrates data from multiple sources, such as a mainframe, relational databases, flat files, etc. Furthermore, it helps maintain consistent codes, attribute measures, naming conventions, and, formats.
+- **Time-variant:** Time-variant in a DW is more extensive as compared to other operating systems. Data stored in a data warehouse is recalled with a specific time period and provides information from a historical perspective.
+- **Non-volatile:** In the non-volatile data warehouse, data is permanent i.e. when new data is inserted, previous data is not replaced, omitted, or deleted. In this data warehouse, data is read-only and only refreshes at certain intervals.  The two data operations performed in the data warehouse are data access and data loading.
+
+## Functions of a Data Warehouse
+
+Data warehouse functions as a repository. It helps organizations avoid the cost of storage systems and backup data at an enterprise level. The prominent functions of the data warehouse are:
+
+- Data Cleaning
+- Data Integration
+- [Data Mapping](https://www.astera.com/type/blog/understanding-data-mapping-and-its-techniques/)
+- Data Extraction
+- Data Transformation
+- Data Loading
+- Refreshing
 
 ## Reference
 
@@ -83,3 +94,5 @@ Data marts could be created in the same database as the Datawarehouse or a physi
 <https://www.guru99.com/data-warehouse-architecture.html>
 
 <https://aws.amazon.com/data-warehouse>
+
+[Data Warehouse Concepts: Kimball vs. Inmon Approach | Astera](https://www.astera.com/type/blog/data-warehouse-concepts/)

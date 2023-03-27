@@ -8,6 +8,8 @@ Mindfulness - Always put a half-smile while doing things
 
 If you wait at a bus stop long enough, you're guaranteed to catch a bus, but if you run from bus stop to bus stop, you may never catch a bus.
 
+The successful warrior is the average man, with laser-like focus -- Bruce Lee
+
 ## Attention
 
 1. Involuntary attention

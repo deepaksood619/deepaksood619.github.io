@@ -55,6 +55,7 @@ MQTT excels in scenarios where reliable message delivery is crucial for an appli
 ## History
 
 The MQTT protocol was invented in 1999 by Andy Stanford-Clark (IBM) and Arlen Nipper (Arcom, now Cirrus Link). They needed a protocol for minimal battery loss and minimal bandwidth to [connect with oil pipelines via satellite](http://www.ibm.com/podcasts/software/websphere/connectivity/piper_diaz_nipper_mq_tt_11182011.pdf).
+
 ![image](../../media/mqtt-Intro-image1.jpg)
 
 ## Real world deployments

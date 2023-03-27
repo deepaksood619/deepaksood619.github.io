@@ -118,9 +118,7 @@ OR B.columnName IS NULL
 ```
 
 - **Self Join -** is used to join a table to itself as if the table were two tables, temporarily renaming at least one table in the SQL statement
-
 - **Cartesian Join -** returns the Cartesian product of the sets of records from the two or more joined tables
-
 - **Cross Join -** A CROSS JOIN joins everything with everything. There is no need to provide a key to join on and it can result in a very big data set
 
 ## Join Algorithms

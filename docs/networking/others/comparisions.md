@@ -6,10 +6,13 @@ What should you choose then? Avro, especially at the beginning, seems much easie
 ![image](../../media/Comparisions-image1.jpg)
 
 Sometimes this might be quite problematic. That's why tools like [Schema Registry](https://www.confluent.io/confluent-schema-registry/) were developed.
+
 The next problem you might face with Avro is the overall impact on your domain events. At some point, Avro can leak into your domain. Some constructions like e.g. a map with keys that are not strings are not supported in Avro model. When the serialization mechanism is forcing you to change something in your domain model - it's not a good sign.
 With Protocol Buffers, schema management is much simpler - you just need schema artifact, which can be published as any other artifact to your local repository. Also, your domain can be perfectly separated from the serialization mechanism. The cost is the boilerplate code required for translation between domain and serialization layers.
 Personally, I would use Avro for simple domains with mostly primitive types. For rich domains, with complex types and structures, I've been using Protocol Buffers for quite some time. Clean domain with no serialization influence is really worth paying the boilerplate code price.
+
 <https://blog.softwaremill.com/the-best-serialization-strategy-for-event-sourcing-9321c299632b>
+
 [(Big) Data Serialization with Avro and Protobuf](https://www.slideshare.net/gschmutz/big-data-serialization-with-avro-and-protobuf)
 ![image](../../media/Comparisions-image2.jpg)
 ![image](../../media/Comparisions-image3.jpg)
@@ -99,6 +102,7 @@ To recap on my columnar file format guide, the advantage to Parquet (and columna
 - Reduced Storage Costs (typically) vs Avro
 
 - 10-100x improvement in reading data when you only need a few columns
+
 I cannot overstate the benefit of a 100x improvement in record throughput. It provides a truly massive and fundamental improvement to data processing pipelines that it is very hard to overlook.
 
 When simply counting rows, Parquet blows Avro away, thanks to the metadata parquet stores in the header of row groups.
@@ -116,8 +120,8 @@ The same case study also finds improvements in storage space, and even in full-t
 I have heard some folks argue in favor of Avro vs Parquet. Such arguments are typically based around two points:
 
 - When you are reading entire records at once, Avro wins in performance.
-
 - Write-time is increased drastically for writing Parquet files vs Avro files
+
 So the wider your dataset, the worse Parquet becomes for scanning entire records (which makes sense). This is an extreme example, most datasets are not 700 columns wide, for anything reasonable (< 100) Parquet read performance is close enough to Avro to not matter.
 
 ## Others

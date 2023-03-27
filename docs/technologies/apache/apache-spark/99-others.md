@@ -16,6 +16,8 @@
 
 <https://medium.com/enigma-engineering/things-i-wish-id-known-about-spark-when-i-started-one-year-later-edition-d767430181ed>
 
+[Performance Tuning - Spark 3.3.2 Documentation](https://spark.apache.org/docs/latest/sql-performance-tuning.html)
+
 ## SparkML
 
 <https://spark.apache.org/docs/latest/ml-pipeline.html>

@@ -92,6 +92,7 @@
   - [Patricia Merkle Trie](https://ethereum.org/en/developers/docs/data-structures-and-encoding/patricia-merkle-trie/)
   - [Recursive-length prefix (RLP)](https://ethereum.org/en/developers/docs/data-structures-and-encoding/rlp/)
   - [Simple serialize (SSZ)](https://ethereum.org/en/developers/docs/data-structures-and-encoding/ssz/)
+    - [Why Ethereum Clients prefer SSZ over RLP?](https://etherworld.co/2023/01/25/why-ethereum-clients-prefer-ssz-over-rlp/)
   - [Web3 secret storage definition](https://ethereum.org/en/developers/docs/data-structures-and-encoding/web3-secret-storage/)
 
 [Ethereum development documentation | ethereum.org](https://ethereum.org/en/developers/docs/)

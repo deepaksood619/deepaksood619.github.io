@@ -117,6 +117,9 @@ Delta Lake supports several operations to modify tables using standard DataFrame
 ```python
 data = spark.range(5, 10)
 data.write.format("delta").mode("overwrite").save("/tmp/delta-table")
+
+.option("OverwriteSchema", True)
+.option("mergeSchema", True)
 ```
 
 If you read this table again, you should see only the values 5-9 you have added because you overwrote the previous data.
@@ -205,3 +208,19 @@ stream2 = spark.readStream.format("delta") \
   .writeStream.format("console") \
   .start()
 ```
+
+## Retrieve Delta table history
+
+You can retrieve information on the operations, user, timestamp, and so on for each write to a Delta table by running the `history` command. The operations are returned in reverse chronological order. By default table history is retained for 30 days.
+
+```sql
+DESCRIBE HISTORY '/data/events/' -- get the full history of the table
+
+DESCRIBE HISTORY delta.`/data/events/`
+
+DESCRIBE HISTORY '/data/events/' LIMIT 1 -- get the last operation only
+
+DESCRIBE HISTORY eventsTable
+```
+
+[Work with Delta Lake table history | Databricks on AWS](https://docs.databricks.com/delta/history.html)

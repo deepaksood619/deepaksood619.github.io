@@ -321,6 +321,8 @@ You must own **equity -** a piece of business - to gain your financial freedom
 
 ![image](../../media/TODO-Financial-Finance-Investing_Checklist-Tips-Personal-Finance-Quotes-image4.jpg)
 
+![periods when to make money](../../media/IMG_2688.jpg)
+
 [Charlie Munger: The 5 Investing Tricks That Made Him a Billionaire](https://youtu.be/w4d0e3Jpu9s)
 
 - Invert!

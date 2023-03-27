@@ -15,6 +15,15 @@ Kimball’s approach to designing a Datawarehouse was introduced by **Ralph Kimb
 
 ![](https://media.geeksforgeeks.org/wp-content/uploads/20200717001130/Kimball.png)
 
+### Kimball's four step process to dimensional data modeling
+
+1. **Pick a business process to model.** Kimball’s approach begins with a business process, since ultimately, business users would want to ask questions about processes. This stands in contrast to earlier modeling methodologies, like Bill Inmon’s, which started with the business entities in mind (e.g. the customer model, product model, etc).
+2. **Decide on the grain**. The grain here means the level of data to store as the primary fact table. It should be the most _atomic_ level possible — that is, a level of data that cannot be split further. For instance, in our Point of Sales example earlier, the grain should actually be the _line items_ inside each order, instead of the order itself. This is because in the future, business users may want to ask questions like “what are the products that sold the best during the day in our stores?” — and you would need to drop down to the line-item level in order to query for that question effectively. In Kimball’s day, if you had modeled your data at the order level, such a question would take a huge amount of work to get at the data, because you would run the query on slow database systems. You might even need to do ETL again, if the data is not currently in a queryable form in your warehouse! So it is best to model at the lowest level possible from the beginning.
+3. **Chose the dimensions that apply to each fact table row.** This is usually quite easy to answer if you have ‘picked the grain’ properly. Dimensions fall out of the question “how do businesspeople describe the data that results from the business process?” You will decorate fact tables with a robust set of dimensions representing all possible descriptions.
+4. **Identify the numeric facts that will populate each fact table row.** The numeric data in the fact table falls out of the question “what are we answering?” Business people will ask certain obvious business questions (e.g. what’s the average profit margin per product category?), and so you will need to decide on what are the most important numeric measures to store at the fact table layer, in order to be recombined later to answer their queries. Facts should be true to the grain defined in step 2; if a fact belongs to a different grain, it should live in a separate fact table.
+
+[Kimball's Dimensional Data Modeling | The Analytics Setup Guidebook](https://www.holistics.io/books/setup-analytics/kimball-s-dimensional-data-modeling/)
+
 ## Inmon
 
 Inmon’s approach to designing a Datawarehouse was introduced by **Bill Inmon**. This approach starts with a corporate data model. This model recognizes key areas and also takes care of customers, products, and vendors. This model serves for the creation of a detailed logical model which is used for major operations. Details and models are then used to develop a physical model. This model is normalized and makes data redundancy less. This is a complex model that is difficult to be used for business purposes for which data marts are created and each department is able to use it for their purposes.
@@ -59,3 +68,5 @@ Data Vault focuses on agile data warehouse development where scalability, data i
 [Different Data Warehousing Modeling Techniques and How to Implement them on the Databricks Lakehouse Platform - The Databricks Blog](https://www.databricks.com/blog/2022/06/24/data-warehousing-modeling-techniques-and-their-implementation-on-the-databricks-lakehouse-platform.html)
 
 [Data Vault 2.0 - DataVaultAlliance](https://datavaultalliance.com/)
+
+[Data Warehouse Concepts: Kimball vs. Inmon Approach | Astera](https://www.astera.com/type/blog/data-warehouse-concepts/)

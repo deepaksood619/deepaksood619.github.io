@@ -5,25 +5,22 @@ GraphQL will do to REST what JSON did to XML.
 ## A Data Query Language
 
 GraphQL is strongly typed, self-documenting, and embraces declarative data fetching, which allows clients to query for the exact data they need as well making it possible to build powerful and in-depth developer tools.
+
 GraphQL server - A server which implements the GraphQL Specifications and exposes an API endpoint for clients to query.
+
 GraphQL is typically used in scenarios where related data needs to be queried or in environments where multiple round trips to the server can negatively impact the customer experience.
 
 ## Problems that GraphQL solves
 
 1. The need to do multiple round trips to fetch data required by a view
-
 2. Clients dependency on servers
-
 3. The bad front-end developer experience
-
 4. No Versioning of APIs
-
 5. Get only what you asked
 
 ## Problems with GraphQL
 
 1. Resource Exhaustion Attacks (DOS) using overly complex queries
-
 2. N+1 queries
 
 Solution - <https://github.com/facebook/dataloader>
@@ -76,47 +73,36 @@ Tutorial
 
 ## Queries
 
+```json
 mutation {
+  createLink(
+    url: "<https://www.google.com>"
 
-createLink (
+    description: "Google"
+  ) {
+    id
 
-url: "<https://www.google.com>",
+    url
 
-description: "Google"
-
-) {
-
-id
-
-url
-
-description
-
-}
-
+    description
+  }
 }
 query {
+  links {
+    id
 
-links {
+    url
 
-id
-
-url
-
-description
-
-}
-
+    description
+  }
 }
 mutation {
-
-tokenAuth(username: "deepak", password: "deepaksood") {
-
-token
-
+  tokenAuth(username: "deepak", password: "deepaksood") {
+    token
+  }
 }
+```
 
-}
 ! - bang at the end of a type represents required
 
 In graphene-python it is written as required=True
@@ -124,25 +110,25 @@ In graphene-python it is written as required=True
 ## Client
 
 1. Apollo
-
 2. Relay
-
 3. Graphiql
-
 4. Insomnia
-
 5. Postman
 
 ## Schema stitching
 
 Schema stitching is the process of creating a single GraphQL schema from multiple underlying GraphQL APIs.
+
 One of the main benefits of GraphQL is that we can query all of our data as part of one schema, and get everything we need in one request. But as the schema grows, it might become cumbersome to manage it all as one codebase, and it starts to make sense to split it into different modules. We may also want to decompose your schema into separate microservices, which can be developed and deployed independently.
+
 In both cases, we usemergeSchemasto combine multiple GraphQL schemas together and produce a merged schema that knows how to delegate parts of the query to the relevant subschemas. These subschemas can be either local to the server, or running on a remote server. They can even be services offered by 3rd parties, allowing us to connect to external data and create mashups.
+
 <https://www.apollographql.com/docs/graphql-tools/schema-stitching>
 
 ## Apollo Federation
 
 Apollo Federation is an architecture for composing multiple GraphQL services into a single graph that addresses this need. Unlike other approaches such as schema stitching, it is based on a declarative composition programming model that allowsproper separation of concerns. This design allows teams to implement an enterprise-scale shared data graph as a set of loosely coupled, separately maintained GraphQL services.
+
 <https://principledgraphql.com/integrity#1-one-graph>
 
 <https://www.apollographql.com/docs/apollo-server/federation/introduction>
@@ -153,27 +139,27 @@ Apollo Federation is an architecture for composing multiple GraphQL services int
 
 ## Tools
 
-## Hasura - <https://hasura.io>
+### Hasura - <https://hasura.io>
 
 <https://github.com/hasura/graphql-engine>
 
 Quiver - <https://medium.com/@syrusakbary/quiver-graphql-on-steroids-13612ea1ea77>
 
-## GraphQL Voyager - <https://github.com/APIs-guru/graphql-voyager>
+### GraphQL Voyager - <https://github.com/APIs-guru/graphql-voyager>
 
-## GraphQL Mesh
+### GraphQL Mesh
 
 <https://the-guild.dev/blog/graphql-mesh>
 
 <https://www.youtube.com/watch?v=T0zpPO7Ub_s&ab_channel=GOTOConferences>
 
-## Monitoring GraphQL APIs
+### Monitoring GraphQL APIs
 
 <https://www.moesif.com/blog/technical/monitoring/How-to-Best-Monitor-GraphQL-APIs>
 
 <https://xuorig.medium.com/why-graphql-performance-monitoring-is-hard-41381bc7c44d>
 
-## Persisted Queries
+### Persisted Queries
 
 <https://www.apollographql.com/blog/apollo-client/persisted-graphql-queries>
 

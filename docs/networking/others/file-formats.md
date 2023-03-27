@@ -26,17 +26,21 @@ There are three types of sequence files:
 
 ## Choosing File Formats
 
-- If your data is delimited by some parameters then you can useTEXTFILEformat.
-- If your data is in small files whose size is less than the block size then you can useSEQUENCEFILEformat.
-- If you want to perform analytics on your data and you want to store your data efficiently for that then you can useRCFILEformat.
-- If you want to store your data in an optimized way which lessens your storage and increases your performance then you can useORCFILEformat.
+- If your data is delimited by some parameters then you can use TEXTFILE format.
+- If your data is in small files whose size is less than the block size then you can use SEQUENCEFILE format.
+- If you want to perform analytics on your data and you want to store your data efficiently for that then you can use RCFILE format.
+- If you want to store your data in an optimized way which lessens your storage and increases your performance then you can use ORCFILE format.
+
 <https://acadgild.com/blog/apache-hive-file-formats>
 
 ## Amazon Ion
 
 Amazon Ionis a [richly-typed](http://amzn.github.io/ion-docs/guides/why.html#rich-type-system), [self-describing](http://amzn.github.io/ion-docs/guides/why.html#self-describing), hierarchical data serialization format offering [interchangeable binary and text](http://amzn.github.io/ion-docs/guides/why.html#dual-format-interoperability) representations. The [text format](http://amzn.github.io/ion-docs/docs/spec.html)(a superset of [JSON](http://json.org/)) is easy to read and author, supporting rapid prototyping. The [binary representation](http://amzn.github.io/ion-docs/docs/binary.html) is [efficient to store, transmit, and skip-scan parse](http://amzn.github.io/ion-docs/guides/why.html#read-optimized-binary-format). The rich type system provides unambiguous semantics for long-term preservation of data which can survive multiple generations of software evolution.
+
 Ion was built to address rapid development, decoupling, and efficiency challenges faced every day while engineering large-scale, service-oriented architectures. It has been addressing these challenges within Amazon for nearly a decade, and we believe others will benefit as well.
+
 The Ion text format is a superset of JSON; thus, any valid JSON document is also a valid Ion document.
+
 <http://amzn.github.io/ion-docs>
 
 <http://amzn.github.io/ion-docs/docs/spec.html>
@@ -110,6 +114,7 @@ Parquet
 - Avor's small compression window hurts
 - Parquet Zlib is smaller than ORC
   - Group the column sizes by type
+
 ![image](../../media/File-Formats-image3.jpg)
 
 ![image](../../media/File-Formats-image4.jpg)

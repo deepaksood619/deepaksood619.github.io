@@ -71,6 +71,7 @@ The Top Three Highest Ranking Crypto Websites on Alexa
 - [RBX: The pinnacle of decentralized finance apps. Defi 2.0](https://rbxdefi.com/)
 - [Zilliqa | Build your future with our native token](https://www.zilliqa.com/what-is-zil)
 - Lending - [PeerHive | Revolutionizing Decentralized P2P Lending Experience](https://peerhive.app/)
+- Defi - [Ether Fi App](https://www.mainnet.ether.fi/)
 
 ## Pros
 
