@@ -229,6 +229,20 @@ Use subdirectory wherever possible
 
 <https://www.semrush.com/blog/subdomain-vs-subdirectory>
 
+## Trailing Slash
+
+Different content on slash and non-slash URLs is okay for Google, but often is less ideal for users
+
+- Trailing slashes after the domain name don’t matter
+
+[Should You Have a Trailing Slash at the End of URLs?](https://ahrefs.com/blog/trailing-slash/)
+
+[Trailing Slashes and SEO - Best Practice Guide | Safari Digital](https://www.safaridigital.com.au/blog/trailing-slash-seo/)
+
+[GitHub - slorber/trailing-slash-guide: Understand and fix your static website trailing slash issues!](https://github.com/slorber/trailing-slash-guide)
+
+[To slash or not to slash  |  Google Search Central Blog  |  Google Developers](https://developers.google.com/search/blog/2010/04/to-slash-or-not-to-slash)
+
 ## References
 
 <https://www.toptal.com/full-stack/interview-questions>

@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "decentralized-applications/key-concepts.md",
+                "file": "office/todo/todo-tech-&-courses.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "decentralized-applications/key-concepts.md",
+                "file": "office/todo/todo-tech-&-courses.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "decentralized-applications/key-concepts.md",
+                "file": "office/todo/todo-tech-&-courses.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "decentralized-applications/key-concepts.md"
+                "file": "office/todo/todo-tech-&-courses.md"
               }
             }
           },
@@ -194,14 +194,17 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "978fd2faf621af33",
+  "active": "8bf14d80e682c9ac",
   "lastOpenFiles": [
+    "office/todo/goals.md",
+    "office/todo/todo-tech-&-courses.md",
+    "frontend/frontend-intro/seo-aso.md",
+    "decentralized-applications/key-concepts.md",
     "decentralized-applications/intro.md",
     "decentralized-applications/ethereum/arbitrum.md",
     "office/cakedefi/infra.md",
     "frontend/others/nodejs/npm-commands.md",
     "frontend/js-javascript/promises.md",
-    "frontend/frontend-intro/seo-aso.md",
     "management/product-management/product-market-fit-pmf.md",
     "book-summaries/sell-like-crazy.md",
     "management/marketing.md",
@@ -219,9 +222,6 @@
     "knowledge/general/important-dates-timelines.md",
     "knowledge/others/readme.md",
     "knowledge/others/politics/readme.md",
-    "decentralized-applications/ethereum/ethereum-intro.md",
-    "decentralized-applications/coins-tokens-chains/coin-token-intro.md",
-    "databases/sql-databases/postgres/parameters-configuration-optimization.md",
     "media/IMG_2688.jpg",
     "media/Pasted image 20230327111131.png",
     "media/Pasted image 20230327111057.png",

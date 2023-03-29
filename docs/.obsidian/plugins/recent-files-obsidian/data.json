@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "todo-tech-&-courses",
+      "path": "office/todo/todo-tech-&-courses.md"
+    },
+    {
+      "basename": "goals",
+      "path": "office/todo/goals.md"
+    },
+    {
+      "basename": "seo-aso",
+      "path": "frontend/frontend-intro/seo-aso.md"
+    },
+    {
       "basename": "key-concepts",
       "path": "decentralized-applications/key-concepts.md"
     },
@@ -23,10 +35,6 @@
     {
       "basename": "promises",
       "path": "frontend/js-javascript/promises.md"
-    },
-    {
-      "basename": "seo-aso",
-      "path": "frontend/frontend-intro/seo-aso.md"
     },
     {
       "basename": "product-market-fit-pmf",
@@ -191,14 +199,6 @@
     {
       "basename": "course-feature-engineering",
       "path": "ai/courses/course-feature-engineering.md"
-    },
-    {
-      "basename": "feature-engineering",
-      "path": "ai/ml-algorithms/feature-engineering.md"
-    },
-    {
-      "basename": "google-professional-data-engineer-pde",
-      "path": "ai/courses/google-professional-data-engineer-pde.md"
     }
   ],
   "omittedPaths": [],

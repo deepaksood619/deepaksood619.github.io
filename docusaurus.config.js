@@ -24,7 +24,9 @@ const config = {
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'throw',
 
-  trailingSlash: true,
+  // trailingSlash: undefined, # false, true, both doesn't work
+  // false gives all page errors
+  // true gives linked pages error from other pages since relative path is used
 
   // Even if you don't use internalization, you can use this field to set useful
   // metadata like html lang. For example, if your site is Chinese, you may want
