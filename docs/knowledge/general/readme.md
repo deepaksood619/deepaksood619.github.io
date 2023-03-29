@@ -6,3 +6,4 @@
 - [Science](science)
 - [Mental Models](mental-models)
 - [Important Dates / Timelines](important-dates-timelines)
+- [Others](knowledge/general/others.md)

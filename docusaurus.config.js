@@ -70,6 +70,13 @@ const config = {
         googleTagManager: {
           containerId: 'GTM-TN3KBF4',
         },
+        sitemap: {
+          changefreq: 'weekly',
+          priority: 0.5,
+          ignorePatterns: ['/tags/**'],
+          filename: 'sitemap.xml',
+          trailingSlash: true,
+        },
       }),
     ],
   ],

@@ -7,7 +7,7 @@ Finding product/market fit is the main objective of all new products. However, i
 3. Value proposition
 4. Competitive advantage
 5. Growth strategy
-6. Business model. 
+6. Business model
 
 <https://www.lennysnewsletter.com/p/how-to-know-if-youve-got-productmarket>
 

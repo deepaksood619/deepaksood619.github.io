@@ -38,7 +38,7 @@ Search engine marketing is the practice of marketing a business using paid adver
 
 Black hat SEO refers to a set of practices that are used to increases a site or page's rank in search engines through means that violate the search engines' terms of service.
 
-It's crucial to realize thatimplementing Black Hat SEO tactics and strategiescan get your site banned from search engines, excluding you from the number one traffic referral source on the Internet.
+It's crucial to realize that implementing Black Hat SEO tactics and strategies can get your site banned from search engines, excluding you from the number one traffic referral source on the Internet.
 
 - Content Automation
 - Doorway Pages

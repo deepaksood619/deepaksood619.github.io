@@ -113,3 +113,17 @@ In stock analysis, the focus is often on earnings per share; in crypto analysis,
 [Crypto Coin vs. Token: Understanding the Difference](https://blog.liquid.com/coin-vs-token)
 
 [Crypto Coins vs. Tokens: The Difference Explained](https://zerion.io/blog/crypto-coins-vs-tokens-the-difference-explained/)
+
+### Inflationary vs Deflationary Crypto Assets
+
+Deflationary crypto assets usually have a fixed limit on the total coin supply, which increases purchasing power over time. Inflationary crypto assets often have a flexible coin creation factor that is likely to reduce purchasing power over time.
+
+**Inflationary** cryptos provide several advantages over deflationary ones. They encourage spending and discourage hoarding. Depending on the use case, they can enable greater liquidity and rapid adoption, either due to their utility or their functionality as a medium of exchange. In addition, they arguably offer a more flexible monetary policy than deflationary crypto assets and some fiat currencies. Moreover, token inflation can be adjusted to ecosystem needs.
+
+**Deflationary** crypto assets encourage holding and discourage spending, increasing scarcity and adopting the asset as a store of value. Again deflationary crypto assets can protect themselves from inflation, hyperinflation, and stagflation and retain their value over time. A reduction in token supply may counteract inflationary pressures caused by external factors, including government policies or economic incidents.
+
+[Inflationary Vs Deflationary Crypto | ZebPay India](https://zebpay.com/in/blog/inflationary-vs-deflationary-crypto)
+
+[Inflationary vs. deflationary cryptocurrencies, Explained](https://cointelegraph.com/explained/inflationary-vs-deflationary-cryptocurrencies-explained)
+
+[Inflationary and Deflationary Cryptocurrencies: What’s the Difference?](https://www.coindesk.com/learn/inflationary-and-deflationary-cryptocurrencies-whats-the-difference/)

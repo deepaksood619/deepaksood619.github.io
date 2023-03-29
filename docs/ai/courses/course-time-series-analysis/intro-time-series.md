@@ -130,19 +130,11 @@ b - business days / weekdays
 
 ## Filling the missing values
 
-df_comp.spx=df_comp.spx.fillna(method='ffill')
+`df_comp.spx=df_comp.spx.fillna(method='ffill')`
 
-1. Front filling: Assigns the value of the previous period.
-
-fillna(method="ffill")
-
-2. Back filling: Assigns the value for the next period
-
-fillna(method="bfill")
-
-3. Assigning the same value: Assign the average to all the missing values within the time-series
-
-df_comp.dax=df_comp.dax.fillna(value=df_comp.dax.mean())
+1. Front filling: Assigns the value of the previous period. `fillna(method="ffill")`
+2. Back filling: Assigns the value for the next period. `fillna(method="bfill")`
+3. Assigning the same value: Assign the average to all the missing values within the time-series. `df_comp.dax=df_comp.dax.fillna(value=df_comp.dax.mean())`
 
 ## White Noise
 
@@ -151,9 +143,7 @@ df_comp.dax=df_comp.dax.fillna(value=df_comp.dax.mean())
 - For a timeseries to satisfy as White Noise, it must satisfy 3 conditions
 
     1. constant mean
-
     2. constant variance
-
     3. no aurocorrelation (no clear relationship between past and present values)
 
 ## Random Walk
@@ -170,7 +160,7 @@ Arbitrage - Buy and sell commodities and make a safe profit, while the price adj
 
 ## Stationarity
 
-In the most intuitive sense, stationarity means that the statistical properties of a process generating a time series do not change over time. It does not mean that the series does not change over time, just that thewayit changes does not itself change over time. The algebraic equivalent is thus a linear function, perhaps, and not a constant one; the value of a linear function changes as 𝒙 grows, but thewayit changes remains constant - it has a constant slope; one value that captures that rate of change.
+In the most intuitive sense, stationarity means that the statistical properties of a process generating a time series do not change over time. It does not mean that the series does not change over time, just that the way it changes does not itself change over time. The algebraic equivalent is thus a linear function, perhaps, and not a constant one; the value of a linear function changes as 𝒙 grows, but the way it changes remains constant - it has a constant slope; one value that captures that rate of change.
 
 ![image](../../../media/Course-Time-Series-Analysis_Intro-Time-Series-image4.jpg)
 

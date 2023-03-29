@@ -1,21 +1,15 @@
 # Promises
 
 1. Is single threaded
-
 2. Run on the same queue as painting, updating styles and handling user actions.
-
 3. Terminology
 
    - Fulfilled
-
    - Rejected
-
    - Pending
-
    - Settled
 
 4. Chaining (Promises can be chained together to execute one after other)
-
 5. Parallelism and sequencing
 
 <https://developers.google.com/web/fundamentals/primers/promises#whats-all-the-fuss-about>

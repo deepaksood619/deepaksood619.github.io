@@ -39,7 +39,7 @@ If you write a function component and realize you need to add some state to it, 
   - [useLayoutEffect](https://reactjs.org/docs/hooks-reference.html#uselayouteffect)
   - [useDebugValue](https://reactjs.org/docs/hooks-reference.html#usedebugvalue)
 
-1. **useEffect / Effect Hook**
+### useEffect / Effect Hook
 
 You've likely performed data fetching, subscriptions, or manually changing the DOM from React components before. We call these operations "side effects" (or "effects" for short) because they can affect other components and can't be done during rendering
 
@@ -68,7 +68,7 @@ useEffect(() => {
 });
 ```
 
-2. **useMemo**
+### useMemo
 
 The useMemo is a hook used in the functional component of react that returns a memoized value.
 
@@ -85,7 +85,7 @@ The useMemo is a hook used in the functional component of react that returns a m
 
 ## Examples
 
-## Hooks
+### Hooks
 
 ```js
 import React, { useState, useEffect } from 'react';
@@ -108,7 +108,7 @@ function Example() {
 }
 ```
 
-## Search using axios async await api
+### Search using axios async await api
 
 ```js
 import React, { useState, useEffect } from "react";

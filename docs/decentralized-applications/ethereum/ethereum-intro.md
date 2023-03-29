@@ -136,6 +136,8 @@ Maximal extractable value was first applied in the context of proof-of-work, and
 
 [Overview | Flashbots Docs](https://docs.flashbots.net/flashbots-auction/overview)
 
+[MEVconomics - YouTube](https://www.youtube.com/playlist?list=PLXzKMXK2aHh7bW0j2dhpnLNiIJIMnPgsD)
+
 ## Testing
 
 [What are Testnets?](https://www.alchemy.com/overviews/what-are-testnets)

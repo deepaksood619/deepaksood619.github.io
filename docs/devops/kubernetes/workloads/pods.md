@@ -1,6 +1,6 @@
 # Pods
 
-APodis the basic building block of Kubernetes--the smallest and simplest unit in the Kubernetes object model that you create or deploy. A Pod represents a running process on your cluster.
+A Pod is the basic building block of Kubernetes -- the smallest and simplest unit in the Kubernetes object model that you create or deploy. A Pod represents a running process on your cluster.
 
 A Pod encapsulates an application container (or, in some cases, multiple containers), storage resources, a unique network IP, and options that govern how the container(s) should run. A Pod represents a unit of deployment:**a single instance of an application in Kubernetes,** which might consist of either a single container or a small number of containers that are tightly coupled and that share resources.
 
@@ -76,29 +76,12 @@ Ephemeral containers differ from other containers in that they lack guarantees f
 
 <https://kubernetes.io/docs/concepts/workloads/pods/ephemeral-containers>
 
-1. Which deployment method would allow the most flexibility, multiple applications per pod or one per Pod?
+1. **Which deployment method would allow the most flexibility, multiple applications per pod or one per Pod? -** One per pod
+2. **Which deployment method allows for the most granular scalability? -** One per pod
+3. **Which have the best inter-container performance? -** Multiple per pod
+4. **How many IP addresses are assigned per pod? -** One
+5. **What are some ways containers can communicate within the same pod? -** IPC, loopback or shared filesystem access.
+6. **What are some reasons you should have multiple containers per pod? -** Lean containers may not have functionality like logging. Able to maintain lean execution but add functionality as necessary, like Ambassadors and Sidecar containers.
 
-One per pod
-
-2. Which deployment method allows for the most granular scalability?
-
-One per pod
-
-3. Which have the best inter-container performance?
-
-Multiple per pod
-
-4. How many IP addresses are assigned per pod?
-
-One
-
-5. What are some ways containers can communicate within the same pod?
-
-IPC, loopback or shared filesystem access.
-
-6. What are some reasons you should have multiple containers per pod?
-
-Lean containers may not have functionality like logging. Able to maintain lean execution but add functionality as necessary, like Ambassadors and Sidecar containers.
-
-- args: override Docker images'sCMD
-- command: override Docker images'sEntrypoint
+- args: override Docker images's CMD
+- command: override Docker images's Entrypoint

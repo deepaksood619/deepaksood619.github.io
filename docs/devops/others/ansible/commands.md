@@ -7,16 +7,16 @@
 3. ansible-playbook pull_add_restart.yml -i inventory/iiitd -e "host=IIITD" --check
 4. ansible-playbook pull_add_restart.yml -i inventory/iiitd -e "host=IIITD" --limit @pull_add_restart.retry
 
-1. **Add hosts to files**
+### Add hosts to files
 
-    ```bash
-    - sudo cat /etc/openvpn/openvpn-status.log| grep IIITD
-    - sudo vim /etc/ansible/hosts
-    - IIITD-01 controller=IIITD-01 ansible_host=10.8.42.156 ansible_port=1234 ansible_ssh_pass='xitanez123!@#' ansible_ssh_user=pi
-    - '{0} controller={0} ansible_host={1} ansible_port=1234 ansible_ssh_pass='password' ansible_ssh_user=pi'.format(client.name, client.address)
-    ```
+```bash
+- sudo cat /etc/openvpn/openvpn-status.log| grep IIITD
+- sudo vim /etc/ansible/hosts
+- IIITD-01 controller=IIITD-01 ansible_host=10.8.42.156 ansible_port=1234 ansible_ssh_pass='xitanez123!@#' ansible_ssh_user=pi
+- '{0} controller={0} ansible_host={1} ansible_port=1234 ansible_ssh_pass='password' ansible_ssh_user=pi'.format(client.name, client.address)
+```
 
-2. Create a playbook (yml file)
+### Create a playbook (yml file)
 
 ## Create Inventory File
 

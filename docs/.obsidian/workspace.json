@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "computer-science/testing/postman.md",
+                "file": "knowledge/general/science.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8bf14d80e682c9ac",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "frontend/js-javascript/promises.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -48,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "mock",
+                "query": "\"mev",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -93,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "computer-science/testing/postman.md",
+                "file": "frontend/js-javascript/promises.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "computer-science/testing/postman.md",
+                "file": "frontend/js-javascript/promises.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "computer-science/testing/postman.md"
+                "file": "frontend/js-javascript/promises.md"
               }
             }
           },
@@ -183,32 +196,32 @@
   },
   "active": "978fd2faf621af33",
   "lastOpenFiles": [
+    "frontend/frontend-intro/seo-aso.md",
+    "management/product-management/product-market-fit-pmf.md",
+    "book-summaries/sell-like-crazy.md",
+    "management/marketing.md",
+    "management/sales.md",
+    "office/blocktoons/todo.md",
+    "office/blocktoons/infra.md",
+    "office/cakedefi/todo.md",
+    "office/personality/movies-serials-apps.md",
+    "office/keep/deepak-banks.md",
+    "decentralized-applications/tools.md",
+    "decentralized-applications/development-tools.md",
+    "knowledge/general/others.md",
+    "knowledge/general/readme.md",
+    "knowledge/general/science.md",
+    "knowledge/general/important-dates-timelines.md",
+    "knowledge/others/readme.md",
+    "knowledge/others/politics/readme.md",
+    "decentralized-applications/ethereum/ethereum-intro.md",
+    "decentralized-applications/coins-tokens-chains/coin-token-intro.md",
+    "databases/sql-databases/postgres/parameters-configuration-optimization.md",
+    "computer-science/testing/postman.md",
     "computer-science/testing/readme.md",
     "computer-science/testing/test-pyramid.md",
     "python/documentation/27-development-tools/testing.md",
-    "office/cakedefi/todo.md",
     "office/cakedefi/product.md",
-    "languages/sql/sql-examples.md",
-    "languages/sql/dql-data-query-language/aggregation-analytical-queries-sql-analytics.md",
-    "languages/sql/dql-data-query-language/readme.md",
-    "office/cakedefi/sql-queries.md",
-    "databases/sql-databases/postgres/documentation.md",
-    "office/blocktoons/todo.md",
-    "technologies/apache/databricks/01-databricks.md",
-    "technologies/apache/databricks/20-delta-live-tables.md",
-    "technologies/apache/databricks/99-others.md",
-    "technologies/apache/databricks/readme.md",
-    "networking/others/delta-lake-tutorial.md",
-    "networking/others/delta-lake.md",
-    "office/cakedefi/infra.md",
-    "decentralized-applications/development-tools.md",
-    "decentralized-applications/tools.md",
-    "knowledge/applied-sciences/others-power-energy.md",
-    "cloud/others/google-cloud-platform.md",
-    "databases/others/technologies-tools.md",
-    "technologies/apache/others.md",
-    "ai/courses/course-feature-engineering.md",
-    "ai/ml-algorithms/feature-engineering.md",
     "media/IMG_2688.jpg",
     "media/Pasted image 20230327111131.png",
     "media/Pasted image 20230327111057.png",

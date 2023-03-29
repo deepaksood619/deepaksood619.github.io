@@ -16,7 +16,7 @@ Theeffective_cache_sizeprovides an estimate of the memory available for disk cac
 
 #### work_mem
 
-This configuration is used for complex sorting. If you have to do complex sorting then increase the value ofwork_memfor good results. In-memory sorts are much faster than sorts spilling to disk. Setting a very high value can cause a memory bottleneck for your deployment environment because this parameter is per user sort operation. Therefore, if you have many users trying to execute sort operations, then the system will allocatework_mem*totalsortoperationsfor all users. Setting this parameter globally can cause very high memory usage. So it is highly recommended to modify this at the session level.
+This configuration is used for complex sorting. If you have to do complex sorting then increase the value ofwork_memfor good results. In-memory sorts are much faster than sorts spilling to disk. Setting a very high value can cause a memory bottleneck for your deployment environment because this parameter is per user sort operation. Therefore, if you have many users trying to execute sort operations, then the system will allocatework_mem *totalsortoperations* for all users. Setting this parameter globally can cause very high memory usage. So it is highly recommended to modify this at the session level.
 
 #### maintenance_work_mem
 
@@ -32,10 +32,14 @@ PostgreSQL writes changes into WAL. The checkpoint process flushes the data into
 
 The checkpoint_timeout parameter is used to set time between WAL checkpoints. Setting this too low decreases crash recovery time, as more data is written to disk, but it hurts performance too since every checkpoint ends up consuming valuable system resources. The checkpoint_completion_target is the fraction of time between checkpoints for checkpoint completion. A high frequency of checkpoints can impact performance. For smooth checkpointing, checkpoint_timeoutmust be a low value. Otherwise the OS will accumulate all the dirty pages until the ratio is met and then go for a big flush.
 
+#### max_parallel_workers
+
+These are a helpful set of parameters to tune if your partitions are getting aggregated whenever you query data. For us, having a server with more cores for our DB made sense, as then we can have a `max max_parallel_workers` = number of cores, and then `max_parallel_workers_per_gather` to be half of that count. This count changes based upon how many processes parallelly run and need workers to be spawned. For instance, if you have set up parallel workers to do replication, then you need additional workers for that. Thus, when a user queries data across different months (logical partitions), the parallel workers for gathering run parallelly over multiple partitions and then aggregate the data, thus improving the speeds of `SELECT` queries. `EXPLAIN ANALYZE` would be your friend here to figure out how many workers you need for your workload.
+
 <https://www.percona.com/blog/2018/08/31/tuning-postgresql-database-parameters-to-optimize-performance>
 
 <https://postgresqlco.nf/en/doc/param>
 
-## Links
+**[Working with PostgreSQL - Zerodha Tech Blog](https://zerodha.tech/blog/working-with-postgresql/)**
 
 <https://tightlycoupled.io/my-goto-postgres-configuration-for-web-services>

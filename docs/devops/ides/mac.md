@@ -62,13 +62,13 @@ Open two instance of same application - **open -n MQTT.fx.app**
 7. **Onenote**
 8. **VSCode**
 
-   Open theCommand Palette(⇧⌘P) and type 'shell command' to find theShell Command: Install 'code' command in PATHcommand.
+   Open the Command Palette(⇧⌘P) and type 'shell command' to find the Shell Command: Install 'code' command in PATH command.
 
- **Settings**
+   **Settings**
 
-- Auto Save - afterDelay
-- enablePreview - off
-- terminal.integrated.scrollback - 100000
+   - Auto Save - afterDelay
+   - enablePreview - off
+   - terminal.integrated.scrollback - 100000
 
 10. **Google Drive for mac**
 11. bittorrent web
@@ -137,10 +137,7 @@ Open two instance of same application - **open -n MQTT.fx.app**
 
 #### Google Chrome apps
 
-- Keep Desktop app
-
-      Go to keep.google.com > go to chrome more tools > create shortcut > check open as new window
-
+- Keep Desktop app - Go to keep.google.com > go to chrome more tools > create shortcut > check open as new window
 - Youtube music
 
 ### brew
@@ -309,7 +306,7 @@ function kubectl() { echo "+ kubectl $@">&2; command kubectl $@; }
 
 #### ~/.vimrc
 
-```
+```bash
 syntax on
 filetype on
 ```

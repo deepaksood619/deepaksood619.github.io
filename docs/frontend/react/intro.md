@@ -58,11 +58,8 @@ package.json file is a list of the the dependencies that our application use.
 ## Advantages of React
 
 1. **Fast** - Apps made in React can handle complex updates and still feel quick and responsive.
-
 2. **Modular -** Instead of writing large, dense files of code, you can write many smaller, reusable files. React's modularity can be a beautiful solution to JavaScript's [maintainability problems](https://en.wikipedia.org/wiki/Spaghetti_code).
-
 3. **Scalable -** Large programs that display a lot of changing data are where React performs best.
-
 4. **Flexible -** You can use React for interesting projects that have nothing to do with making a web app. People are still figuring out React's potential.[There's room to explore](https://medium.mybridge.co/22-amazing-open-source-react-projects-cb8230ec719f).
 
 ## Reconciliation
@@ -83,12 +80,8 @@ We have React and ReactDOM as two different libraries because there are use case
 
 ## New Features
 
-1. **Suspense**
-
-<https://reactjs.org/docs/concurrent-mode-suspense.html>
-
+1. **Suspense** - <https://reactjs.org/docs/concurrent-mode-suspense.html>
 2. Time Slicing
-
 3. Profiler
 
 ## ES16

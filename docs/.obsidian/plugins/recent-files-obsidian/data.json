@@ -1,6 +1,94 @@
 {
   "recentFiles": [
     {
+      "basename": "promises",
+      "path": "frontend/js-javascript/promises.md"
+    },
+    {
+      "basename": "seo-aso",
+      "path": "frontend/frontend-intro/seo-aso.md"
+    },
+    {
+      "basename": "product-market-fit-pmf",
+      "path": "management/product-management/product-market-fit-pmf.md"
+    },
+    {
+      "basename": "sell-like-crazy",
+      "path": "book-summaries/sell-like-crazy.md"
+    },
+    {
+      "basename": "marketing",
+      "path": "management/marketing.md"
+    },
+    {
+      "basename": "sales",
+      "path": "management/sales.md"
+    },
+    {
+      "basename": "todo",
+      "path": "office/blocktoons/todo.md"
+    },
+    {
+      "basename": "infra",
+      "path": "office/blocktoons/infra.md"
+    },
+    {
+      "basename": "todo",
+      "path": "office/cakedefi/todo.md"
+    },
+    {
+      "basename": "movies-serials-apps",
+      "path": "office/personality/movies-serials-apps.md"
+    },
+    {
+      "basename": "deepak-banks",
+      "path": "office/keep/deepak-banks.md"
+    },
+    {
+      "basename": "tools",
+      "path": "decentralized-applications/tools.md"
+    },
+    {
+      "basename": "development-tools",
+      "path": "decentralized-applications/development-tools.md"
+    },
+    {
+      "basename": "others",
+      "path": "knowledge/general/others.md"
+    },
+    {
+      "basename": "readme",
+      "path": "knowledge/general/readme.md"
+    },
+    {
+      "basename": "science",
+      "path": "knowledge/general/science.md"
+    },
+    {
+      "basename": "important-dates-timelines",
+      "path": "knowledge/general/important-dates-timelines.md"
+    },
+    {
+      "basename": "readme",
+      "path": "knowledge/others/readme.md"
+    },
+    {
+      "basename": "readme",
+      "path": "knowledge/others/politics/readme.md"
+    },
+    {
+      "basename": "ethereum-intro",
+      "path": "decentralized-applications/ethereum/ethereum-intro.md"
+    },
+    {
+      "basename": "coin-token-intro",
+      "path": "decentralized-applications/coins-tokens-chains/coin-token-intro.md"
+    },
+    {
+      "basename": "parameters-configuration-optimization",
+      "path": "databases/sql-databases/postgres/parameters-configuration-optimization.md"
+    },
+    {
       "basename": "postman",
       "path": "computer-science/testing/postman.md"
     },
@@ -15,10 +103,6 @@
     {
       "basename": "testing",
       "path": "python/documentation/27-development-tools/testing.md"
-    },
-    {
-      "basename": "todo",
-      "path": "office/cakedefi/todo.md"
     },
     {
       "basename": "product",
@@ -43,10 +127,6 @@
     {
       "basename": "documentation",
       "path": "databases/sql-databases/postgres/documentation.md"
-    },
-    {
-      "basename": "todo",
-      "path": "office/blocktoons/todo.md"
     },
     {
       "basename": "01-databricks",
@@ -75,14 +155,6 @@
     {
       "basename": "infra",
       "path": "office/cakedefi/infra.md"
-    },
-    {
-      "basename": "development-tools",
-      "path": "decentralized-applications/development-tools.md"
-    },
-    {
-      "basename": "tools",
-      "path": "decentralized-applications/tools.md"
     },
     {
       "basename": "others-power-energy",
@@ -127,78 +199,6 @@
     {
       "basename": "neha",
       "path": "office/personality/neha.md"
-    },
-    {
-      "basename": "blockchain",
-      "path": "decentralized-applications/blockchain.md"
-    },
-    {
-      "basename": "references-learning",
-      "path": "decentralized-applications/references-learning.md"
-    },
-    {
-      "basename": "youtube-podcasts-magazine-apps",
-      "path": "devops/ides/youtube-podcasts-magazine-apps.md"
-    },
-    {
-      "basename": "48-laws-of-power",
-      "path": "book-summaries/48-laws-of-power.md"
-    },
-    {
-      "basename": "spark-queries",
-      "path": "office/cakedefi/spark-queries.md"
-    },
-    {
-      "basename": "readme",
-      "path": "office/cakedefi/readme.md"
-    },
-    {
-      "basename": "emails-templates-general",
-      "path": "office/personality/emails-templates-general.md"
-    },
-    {
-      "basename": "books-to-read",
-      "path": "book-summaries/books-to-read.md"
-    },
-    {
-      "basename": "marketing",
-      "path": "management/marketing.md"
-    },
-    {
-      "basename": "08-examples",
-      "path": "technologies/apache/apache-spark/08-examples.md"
-    },
-    {
-      "basename": "02-databricks-getting-started",
-      "path": "technologies/apache/databricks/02-databricks-getting-started.md"
-    },
-    {
-      "basename": "sales",
-      "path": "management/sales.md"
-    },
-    {
-      "basename": "mental-models",
-      "path": "psychology/mental-models.md"
-    },
-    {
-      "basename": "sell-like-crazy",
-      "path": "book-summaries/sell-like-crazy.md"
-    },
-    {
-      "basename": "readme",
-      "path": "book-summaries/readme.md"
-    },
-    {
-      "basename": "skin-in-the-game",
-      "path": "book-summaries/skin-in-the-game.md"
-    },
-    {
-      "basename": "product-market-fit-pmf",
-      "path": "management/product-management/product-market-fit-pmf.md"
-    },
-    {
-      "basename": "readme",
-      "path": "management/product-management/readme.md"
     }
   ],
   "omittedPaths": [],

@@ -3,7 +3,7 @@
 ### What Factors affect Join Operations?
 
 1. **Dataset Size —** The size of the datasets participating in the join will directly affect the join operation performance.
-2. **Condition of Join —** The condition of join derives from the logical comparison of the fields in the datasets. These conditions can be categorized as Equivalence condition( =) or Non-Equivalence condition( >, <, ≥, ≤, <>).
+2. **Condition of Join —** The condition of join derives from the logical comparison of the fields in the datasets. These conditions can be categorized as Equivalence condition `( = )` or Non-Equivalence condition `( >, <, ≥, ≤, <>)`.
 3. **Type of Join —** After selecting the condition of Join, we need to check for the type of join which is categorized as _Inner, Outer, Semi, or Cross Join_.
 
 ### Spark strategies for join execution
