@@ -2,21 +2,28 @@
 
 ## Fake API REST Mocks Server Tests
 
-<https://reqres.in>
+- <https://reqres.in>
+- <http://example.com>
+- [**https://jsonplaceholder.typicode.com/**](https://jsonplaceholder.typicode.com/)
+- <https://fakerapi.it/api/v1/persons?_quantity=1>
+- <https://github.com/n0shake/Public-APIs>
+- [http://slowwly.robertomurray.co.uk/delay/3000/url/http://www.google.co.uk](http://slowwly.robertomurray.co.uk/delay/3000/url/http:/www.google.co.uk)
+- [**https://fakestoreapi.com/**](https://fakestoreapi.com/)
+- <https://anapioficeandfire.com>
 
-<http://example.com>
+## Local Infra Mock
 
-[**https://jsonplaceholder.typicode.com/**](https://jsonplaceholder.typicode.com/)
+[LocalStack - A fully functional local cloud stack](https://localstack.cloud/)
 
-<https://fakerapi.it/api/v1/persons?_quantity=1>
+**Fake S3 storage on Local - For local testing**
 
-<https://github.com/n0shake/Public-APIs>
-
-[http://slowwly.robertomurray.co.uk/delay/3000/url/http://www.google.co.uk](http://slowwly.robertomurray.co.uk/delay/3000/url/http:/www.google.co.uk)
-
-[**https://fakestoreapi.com/**](https://fakestoreapi.com/)
-
-<https://anapioficeandfire.com>
+```bash
+git clone https://github.com/johannesboyne/gofakes3.git
+cd gofakes3
+go build
+go run cmd/gofakes3/main.go -backend memory -autobucket
+Use this endpoint for testing : http://localhost:9000
+```
 
 ## Public APIs
 

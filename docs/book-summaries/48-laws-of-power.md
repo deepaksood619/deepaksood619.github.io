@@ -512,3 +512,9 @@ By taking a shape, by having a visible plan, you open yourself to attack. Instea
 <https://www.grahammann.net/book-notes/48-laws-of-power-robert-greene>
 
 [THE 48 LAWS OF POWER by Robert Greene | Core Message](https://youtu.be/cTzU5Yhm-I0)
+
+[Robert Greene: How To Seduce Anyone, Build Confidence & Become Powerful | E232 - YouTube](https://www.youtube.com/watch?v=Qv70RMUFlu0)
+
+- Vulnerability is seductive
+- People can't fake voice and smile
+- It's hard to fake body posture

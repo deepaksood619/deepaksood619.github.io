@@ -176,25 +176,6 @@ Articulate your objectives using absolutely no jargon
 - How long will it take?
 - What are the mid-term and final exams to check for success?
 
-## Product Market Fit
-
-<https://www.lennysnewsletter.com/p/how-to-know-if-youve-got-productmarket>
-
-<https://www.lennysnewsletter.com/p/how-to-kickstart-and-scale-a-marketplace>
-
-## GTM - Go To Market
-
-A go-to-market (GTM) strategy is a step-by-step plan for launching a new product or expanding an existing product into a new market. It sets your initiative up for success by answering the following questions:
-
-- Whatproduct are you selling, and what unique problem does it solve?
-- Whois your ideal customer, and what pain points do they experience?
-  - **Ideal customer profile (ICP)**
-  - **Buyer personas**
-- Wherewill you sell your product? What markets do you want to pursue, and what does the demand and competition look like in those markets?
-- Howwill you reach your target customers and create demand?
-
-<https://asana.com/resources/go-to-market-gtm-strategy>
-
 ## 7 common ways to differentiate a product
 
 1. Be the cheapest

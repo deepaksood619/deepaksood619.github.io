@@ -1,5 +1,13 @@
 # Google Cloud Platform
 
+[Google Cloud Developer Cheat Sheet](https://googlecloudcheatsheet.withgoogle.com/)
+
+[GitHub - priyankavergadia/google-cloud-4-words: The Google Cloud Developer's Cheat Sheet](https://github.com/priyankavergadia/google-cloud-4-words)
+
+[GitHub - priyankavergadia/GCPSketchnote: If you are looking to become a Google Cloud Engineer , then you are at the right place. GCPSketchnote is series where I share Google Cloud concepts in quick and easy to learn format.](https://github.com/priyankavergadia/GCPSketchnote)
+
+[Cloud Architecture Guidance and Topologies  |  Cloud Architecture Center  |  Google Cloud](https://cloud.google.com/architecture)
+
 ## Compute
 
 - Compute Engine

@@ -68,6 +68,7 @@
 - [How to be an adult in relationships](how-to-be-an-adult-in-relationships)
 - [From Strength to Strength](from-strength-to-strength)
 - [The Art of Impossible](the-art-of-impossible)
+- [Sell Like Crazy](book-summaries/sell-like-crazy.md)
 - [Others](book-summaries/others.md)
 - [Books / Blinkist - Management](../management/books-blinkist-management)
 - [Product Book Summaries](management/product-management/product-book-summaries.md)

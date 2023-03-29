@@ -1,9 +1,7 @@
 # Testing
 
 1. Create your inputs
-
 2. Execute the code, capturing the output
-
 3. Compare the output with an expected result
 
 ## Testing a function
@@ -65,9 +63,9 @@
 
 ## Test Runners
 
-There are many test runners available for Python.The one built into the Python standard library is calledunittest
+There are many test runners available for Python.The one built into the Python standard library is called unittest
 
-- unittest
+### unittest
 
 unittest requires that:
 
@@ -76,7 +74,7 @@ unittest requires that:
 
 [unittest.mock](https://docs.python.org/3/library/unittest.mock.html#module-unittest.mock) is a library for testing in Python. As of Python 3.3, it is available in the [standard library](https://docs.python.org/dev/library/unittest.mock).
 
-## Disadvantages
+#### Disadvantages
 
 unittest feels pretty similar to [JUnit](https://en.wikipedia.org/wiki/JUnit) which I would say is a disadvantage. Python is a different language with different patterns and expectations. One weirdness is that you have to put your tests in a class, even if you don't need to [setUp()](https://docs.python.org/3/library/unittest.html#unittest.TestCase.setUp) or [tearDown()](https://docs.python.org/3/library/unittest.html#unittest.TestCase.tearDown) anything. It uses camelCase for the method names which is against the Python conventions. You cannot simplyassert Expression, but instead, have to useself.assertEqual,self.assertTrue, ... (see the [complete list of assert methods](https://docs.python.org/3/library/unittest.html#assert-methods)). And the error messages are not as expressive as the ones you get from Pytest.
 
@@ -96,7 +94,7 @@ The development ofnoseas an open-source application fell behind, and a fork call
 
 Doctest testing script goes in docstring with small function at the bottom of file. Doctest allows you to test your code by running examples included in the documentation and verifying that they returned the expected results. The use-case of doctest is less detailed and don't catch special cases. They are useful as an expressive documentation of the main use case of a module and its components.
 
-The doctest looks for>>>within the docstrings and executes whatever follows as if it was entered in the interactive console. The next line is then the output which is compared to the output of the program.
+The doctest looks for `>>>` within the docstrings and executes whatever follows as if it was entered in the interactive console. The next line is then the output which is compared to the output of the program.
 
 ### PyTest
 
@@ -183,15 +181,15 @@ This plugin produces coverage reports. Compared to just usingcoveragerunthis plu
 
 <https://pytest-cov.readthedocs.io/en/latest/readme.html>
 
-- Hypothesis
+#### Hypothesis
 
 Hypothesis is a library which lets you write tests that are parameterized by a source of examples. It then generates simple and comprehensible examples that make your tests fail, letting you find more bugs with less work.
 
-- tox
+#### tox
 
 tox is a tool for automating test environment management and testing against multiple interpreter configurations.
 
-- robotframework
+#### robotframework
 
 [Robot Framework](http://robotframework.org/) is a generic open source automation framework for acceptance testing, acceptance test driven development (ATDD), and robotic process automation (RPA). It has simple plain text syntax and it can be extended easily with libraries implemented using Python or Java.
 
@@ -215,21 +213,22 @@ assert(n%k==0)
 assert sum([1, 2, 3]) == 6, "Should be 6"
 ```
 
-| [assertEqual(a,b)](https://docs.python.org/3/library/unittest.html#unittest.TestCase.assertEqual)                 | a==b                     |    |
-|---------------------------------|-------------------------------|---------|
-| [assertNotEqual(a,b)](https://docs.python.org/3/library/unittest.html#unittest.TestCase.assertNotEqual)           | a!=b                     |    |
-| [assertTrue(x)](https://docs.python.org/3/library/unittest.html#unittest.TestCase.assertTrue)                      | bool(x) isTrue            |    |
-| [assertFalse(x)](https://docs.python.org/3/library/unittest.html#unittest.TestCase.assertFalse)                    | bool(x) isFalse           |    |
-| [assertIs(a,b)](https://docs.python.org/3/library/unittest.html#unittest.TestCase.assertIs)                       | aisb                     | 3.1 |
-| [assertIsNot(a,b)](https://docs.python.org/3/library/unittest.html#unittest.TestCase.assertIsNot)                 | aisnotb                 | 3.1 |
-| [assertIsNone(x)](https://docs.python.org/3/library/unittest.html#unittest.TestCase.assertIsNone)                  | xisNone                  | 3.1 |
-| [assertIsNotNone(x)](https://docs.python.org/3/library/unittest.html#unittest.TestCase.assertIsNotNone)            | xisnotNone              | 3.1 |
-| [assertIn(a,b)](https://docs.python.org/3/library/unittest.html#unittest.TestCase.assertIn)                       | ainb                     | 3.1 |
-| [assertNotIn(a,b)](https://docs.python.org/3/library/unittest.html#unittest.TestCase.assertNotIn)                 | anotinb                 | 3.1 |
-| [assertIsInstance(a,b)](https://docs.python.org/3/library/unittest.html#unittest.TestCase.assertIsInstance)       | isinstance(a,b)           | 3.2 |
-| [assertNotIsInstance(a,b)](https://docs.python.org/3/library/unittest.html#unittest.TestCase.assertNotIsInstance) | notisinstance(a,b)       | 3.2 |
-| assertRaises(ValueError, args)                                                                                     |                           |    |
-| assertAlmostEqual(1.0, 1.0)                                                                                        | Checks to 7 decimal places |    |
+| | |
+|--------------------------------|----------------------------|
+| `assertEqual(a,b)` | `a==b` |
+| `assertNotEqual(a,b)` | `a!=b` |
+| `assertTrue(x)` | `bool(x) isTrue` |
+| `assertFalse(x)` | `bool(x) isFalse` |
+| `assertIs(a,b)` | `aisb` |
+| `assertIsNot(a,b)` | `aisnotb` |
+| `assertIsNone(x)` | `xisNone` |
+| `assertIsNotNone(x)` | `xisnotNone` |
+| `assertIn(a,b)` | `ainb` |
+| `assertNotIn(a,b)` | `anotinb` |
+| `assertIsInstance(a,b)` | `isinstance(a,b`) |
+| `assertNotIsInstance(a,b)` | `notisinstance(a,b`) |
+| `assertRaises(ValueError, args)` | |
+| `assertAlmostEqual(1.0, 1.0)` | `Checks to 7 decimal places` |
 
 ![image](../../../media/27.-Development-Tools_Testing-image1.jpg)
 

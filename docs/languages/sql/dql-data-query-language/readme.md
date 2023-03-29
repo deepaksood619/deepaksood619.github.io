@@ -91,3 +91,27 @@ order by type',
 [PostgreSQL: Documentation: 15: F.43. tablefunc](https://www.postgresql.org/docs/current/tablefunc.html)
 
 **[Transpositions in SQL. How to handle dynamic transposition… | by Jerry Zhang | Towards Data Science](https://towardsdatascience.com/transpositions-in-sql-c1cf724dfa2a)**
+
+## Date Time Operations
+
+#### date_part, group by week
+
+An INTEGER where 0 = Monday and 6 = Sunday.
+
+```sql
+SELECT
+ ftps.id,
+ date_part('year', createdAt::date) as year,
+ date_part('week', createdAt::date) AS week,
+ count(*) as c
+FROM
+ test ftps
+GROUP BY
+ ftps.id,
+ year,
+ week
+```
+
+[PostgreSQL: Documentation: 8.1: Date/Time Functions and Operators](https://www.postgresql.org/docs/8.1/functions-datetime.html)
+
+[weekday function | Databricks on AWS](https://docs.databricks.com/sql/language-manual/functions/weekday.html)

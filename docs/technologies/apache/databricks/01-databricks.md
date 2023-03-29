@@ -20,6 +20,16 @@
 
 [Create, run, and manage Databricks Jobs | Databricks on AWS](https://docs.databricks.com/workflows/jobs/jobs.html)
 
+## Databricks SQL (DB SQL)
+
+Databricks SQL (DB SQL) is a serverless data warehouse on the Databricks Lakehouse Platform that lets you run all your SQL and BI applications at scale with up to 12x better price/performance, a unified governance model, open formats and APIs, and your tools of choice – no lock-in.
+
+ANSI standard SQL dialect by default
+
+[Evolution of the SQL language at Databricks: ANSI standard by default and easier migrations from data warehouses - The Databricks Blog](https://www.databricks.com/blog/2021/11/16/evolution-of-the-sql-language-at-databricks-ansi-standard-by-default-and-easier-migrations-from-data-warehouses.html)
+
+[SQL language reference | Databricks on AWS](https://docs.databricks.com/sql/language-manual/index.html)
+
 ## Links
 
 [Get a Git access token & connect a remote repo to Databricks | Databricks on AWS](https://docs.databricks.com/repos/get-access-tokens-from-git-provider.html)

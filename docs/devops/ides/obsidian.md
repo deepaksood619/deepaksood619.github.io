@@ -43,16 +43,18 @@ Extensions that helps make obsidian better
 
 ## Obsidian Shortcuts
 
-| **Todo**                    | **Shortcut**    |
-| --------------------------- | --------------- |
-| Search in all files         | `Cmd+Shift+F`   |
-| Toggle edit/preview mode    | `Ctrl/Cmd E`    |
-| Insert External link        | `Ctrl/Cmd-K`    |
-| Indent                      | `Ctrl/Cmd-]`    |
-| Unindent                    | `Cmd-[`         |
-| Jump into selected backlink | `Alt/Opt-Enter` |
-| Navigate forward            | `cmd+ctrl + ->` |
-| Naviagte back               | `cmd+ctrl + <-` |
+| **Todo**                    | **Shortcut**        |
+| --------------------------- | ------------------- |
+| Search in all files         | `Cmd+Shift+F`       |
+| Toggle edit/preview mode    | `Ctrl/Cmd E`        |
+| Insert External link        | `Ctrl/Cmd-K`        |
+| Indent                      | `Ctrl/Cmd-]`        |
+| Unindent                    | `Cmd-[`             |
+| Jump into selected backlink | `Alt/Opt-Enter`     |
+| Navigate forward            | `cmd+ctrl + ->`     |
+| Naviagte back               | `cmd+ctrl + <-`     |
+| Add current date            | Insert current date |
+| Add checkbox                            | `cmd + L` |
 
 ### Some basics
 

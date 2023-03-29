@@ -40,3 +40,4 @@ Ocean provides the next generation of tools to unlock data at a large scale. Oce
   - [Web3 Tutorials Overview](https://docs.alchemy.com/docs)
 - [Hardhat | Ethereum development environment for professionals by Nomic Foundation](https://hardhat.org/)
 - [Sign-In with Ethereum](https://login.xyz/)
+- [Blockscout](https://www.blockscout.com/) - Blockchain explorer for Ethereum based network and a tool for inspecting and analyzing EVM based blockchains.

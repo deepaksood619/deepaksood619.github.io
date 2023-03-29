@@ -56,6 +56,18 @@ An advanced unified programming model
 
 Implement batch and streaming data processing jobs that run on any execution engine.
 
+### ParDo
+
+Overall, there are five core transforms in the Apache Beam model. **`ParDo`** is one of the most commonly used transform functions. `ParDo` works similar to the map phase of the [map-reduce](https://en.wikipedia.org/wiki/MapReduce) algorithm.
+
+`ParDo` is the transform for parallel processing. It applies the processing function to every element in the `PCollection` input and returns zero or more elements to the output `PCollection`.
+
+Using the `ParDo` function requires a user-defined `DoFn.` This function will have the transformation you plan to apply. `DoFn` is a Beam SDK class that describes a distributed processing function.
+
+[What is ParDo transform in Apache Beam?](https://www.educative.io/answers/what-is-pardo-transform-in-apache-beam)
+
+[ParDo](https://beam.apache.org/documentation/transforms/python/elementwise/pardo/)
+
 ## Apache Storm
 
 Apache Storm is a free and open source distributed realtime computation system. Storm makes it easy to reliably process unbounded streams of data, doing for realtime processing what Hadoop did for batch processing. Storm is simple, can be used with any programming language.

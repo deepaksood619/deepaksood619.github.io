@@ -18,6 +18,12 @@ Anorder to show causeis a type of [court order](https://en.wikipedia.org/wiki/Co
 
 <https://en.wikipedia.org/wiki/Order_to_show_cause>
 
+## Money Laundering
+
+Three stages of a money laundering process? - Placement , Layering and Integration
+
+Layering - Tumblr / Mixers - [6 BEST Bitcoin Mixers & Tumblers (2023 List)](https://www.guru99.com/best-bitcoin-mixers-tumblers.html)
+
 ## Links
 
 [Best Judgments of 2022](https://www.youtube.com/watch?v=zfEf53ghkV0)

@@ -2,19 +2,35 @@
 
 ## Courses / Learning
 
-<https://www.toptal.com/blockchain/interview-questions>
-
-[Dapp University](https://www.youtube.com/channel/UCY0xL8V6NzzFcwzHCgB8orQ)
-
+- <https://www.toptal.com/blockchain/interview-questions>
+- [Learn All About Blockchain & Cryptocurrency | Binance Academy](https://academy.binance.com/en)
+- [Dapp University](https://www.youtube.com/channel/UCY0xL8V6NzzFcwzHCgB8orQ)
 - [Video 2](https://go.dappuniversity.com/bootcamp-2c61ccca)
 - [Video 3](https://go.dappuniversity.com/bootcamp-8e4c800d)
-
-**Youtube**
-
 - whiteboardcrypto
-- [ETHGlobal - YouTube](https://www.youtube.com/@ETHGlobal)
+- [ETH.BUILD - YouTube](https://www.youtube.com/playlist?list=PLJz1HruEnenCXH7KW7wBCEBnBLOVkiqIi)
+- [The Complete Beginner's Crypto Crash Course](https://www.youtube.com/playlist?list=PLU52pNodXIGdM6XDgHVG7DsPytlsrR_6b)
 
-[The Complete Beginner's Crypto Crash Course](https://www.youtube.com/playlist?list=PLU52pNodXIGdM6XDgHVG7DsPytlsrR_6b)
+### Youtube Crypto News
+
+1. Altcoin Buzz
+2. [**Jacob Crypto Bury**](https://m.youtube.com/c/JacobCryptoBury) - Overall Best Crypto YouTube Channel
+3. **Coin Bureau** - YouTube Channel to Follow for Crypto Fundamental Analysis
+4. **BitBoy Crypto** - Popular Cryptocurrency YouTube Channel Offering Investment Tips
+5. **Benjamin Cowen** - Best Channel for Crypto Technical Traders
+6. **Altcoin Daily** - Get Daily Crypto Market Updates
+7. **Crypto Banter** - Top YouTube Account for Crypto Beginners
+8. **CryptoRUs** -  YouTube Channel Offering Crypto Trading Insights
+9. **99Bitcoins** - Crypto Channel With Top-Notch Educational Content
+10. **Sheldon Evans** - Popular Crypto Influencer With Engaging Videos
+11. **Kitco News -** YouTube Channel to Follow for Financial News
+12. **Ivan On Tech -** Watch Interviews of Crypto Experts
+13. [TechnicalRoundup](https://www.youtube.com/c/TechnicalRoundup) – best crypto Youtubers for technical analysis
+14. [Trader Mayne](https://www.youtube.com/c/TraderMayne) – best crypto prediction Youtube channel
+15. [Crypto Face](https://www.youtube.com/c/CryptoFace) – most popular crypto Youtube channel for live leverage trading
+16. [The Modern Investor](https://www.youtube.com/c/TheModernInvestor) – good for general investing and cryptocurrency news
+
+### Awesome links
 
 **[GitHub - yjjnls/awesome-blockchain: ⚡️Curated list of resources for the development and applications of blockchain.](https://github.com/yjjnls/awesome-blockchain)**
 
@@ -31,7 +47,6 @@
 [GitHub - LukasMasuch/best-of-crypto: 🏆 A ranked list of awesome open-source crypto projects. Updated weekly.](https://github.com/LukasMasuch/best-of-crypto)
 
 [GitHub - hitripod/awesome-blockchain: Curated list of blockchain, Awesome Awesomeness](https://github.com/hitripod/awesome-blockchain)
-[ETH.BUILD - YouTube](https://www.youtube.com/playlist?list=PLJz1HruEnenCXH7KW7wBCEBnBLOVkiqIi)
 
 [Upgrading Ethereum | Contents](https://eth2book.info/bellatrix/contents/)
 
@@ -49,8 +64,10 @@
   - [blockchain - Countrywide Internet isolation, inevitable fork - Bitcoin Stack Exchange](https://bitcoin.stackexchange.com/questions/12207/countrywide-internet-isolation-inevitable-fork)
   - [consensus - Network partitioning and FINALITY - Ethereum Stack Exchange](https://ethereum.stackexchange.com/questions/139360/network-partitioning-and-finality?rq=1)
 
-## Presentations
+## Presentations / Conference
 
 [Melanie Swan presentations | SlideShare](https://www.slideshare.net/lablogga/presentations)
 
 [The Business Blockchain | SlideShare](https://www.slideshare.net/wmougayar/presentations)
+
+[ETHGlobal - YouTube](https://www.youtube.com/@ETHGlobal)

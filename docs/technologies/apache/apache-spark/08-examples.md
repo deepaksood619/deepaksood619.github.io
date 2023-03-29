@@ -184,3 +184,24 @@ df3 = df.withColumn("specific_date", to_timestamp(lit(specific_date)))
 
 df2 = df.withColumn("pipelineAt", F.current_timestamp())
 ```
+
+#### Querying postgres db using jdbc
+
+```python
+tablename = 'xyz'
+
+# Load Table
+source = f'"{tablename}"'
+
+df = (spark.read.format("jdbc")
+ .option("url", URL)
+ .option("dbtable", f"(select * from {source} limit 1000)")
+ .option("user", user)
+ .option("password", password)
+ .option("ssl", True)
+ .option("sslmode", "require")
+ .option("sslrootcert", ssl_path)
+ .load())
+
+print(df.count())
+```

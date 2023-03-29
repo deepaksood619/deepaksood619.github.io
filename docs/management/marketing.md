@@ -1,4 +1,4 @@
-# Marketing / Sales
+# Marketing
 
 ## Consumer Immersion Exercise
 
@@ -15,12 +15,6 @@ In the long run, your performance reverts to the value you provide.
 Great Marketing kills a bad product faster
 
 ![image](../media/Marketing-Sales-image1.jpg)
-
-## Sales model
-
-In a bottoms-up model, engineers within an enterprise start using your product to solve a well-defined problem such as API management. As more and more employees within the organization start to use your prodct, you can begin to engage the enterprise about becoming a paying customer for your product for your product. Since the enterprise is already using your prouct, the sales conversation is much easier.
-
-In the top-down model, you engage the CIO, CEO, or CTO directly and try to convince them that your product is worth paying for. When the senior leadership of a bank buys into your product idea, you can count on that senior leadership to convince their developers to use your product within the bank.
 
 ![image](../media/Marketing-Sales-image2.jpg)
 
@@ -44,46 +38,17 @@ Sales funnels allow for a numbers-based approach to improvement. Without them, e
 
 <https://www.toptal.com/app/profit-from-mobile-funnel>
 
-## Sell Like Crazy - Sabri Suby
-
-- **Halo effect**
+## Halo effect
 
 The halo effect is a term for a consumer's favoritism toward a line of products due to positive experiences with other products by this maker. The halo effect is correlated to brand strength, [brand loyalty](https://www.investopedia.com/terms/b/brand-loyalty.asp), and contributes to brand equity.
 
 The opposite of the halo effect is the horn effect, named for the horns of the devil. When consumers have an unfavorable experience, they correlate that negative experience with everything associated with a brand.
-
-## KEY TAKEAWAYS
 
 - Companies chase the halo effect because it establishes both brand loyalty and repeat, loyal customers.
 - The concept of the "halo effect" can be traced back to 1920 from a paper written by American psychologist Edward L. Thorndike.
 - Companies use the halo effect to establish themselves as leaders in their industries.
 - The halo effect can be a double-edged sword: if a brand has an extremely positive perception, this can extend into its new products and boost customer retention and loyalty. If not, a poor brand image can also be passed onto new products.
 - The opposite of the halo effect is called the horn effect, which is when a company releases a bad product that destroys loyalty and positive market perception.
-
-- **Find Customers Hopes and dreams, pains and fears, barriers and strategies**
-- **Top 4% gives 64% of revenue**
-- **HVCO (High Value Content Offer)**
-  - Attention grabing headline
-  - Every point touches a burning issue
-  - Keep it simple
-- How to X when Y
-- Compelling image
-- Free cheatsheets if you give your email
-- Offer that customers cannot refuse (crazy offer) - Godfather offer
-  - Rationale why are you making that offer
-  - Build value
-  - Break the final value down to daily / weekly figure
-  - Price for a coffee per day you get X
-  - Give 3 offers
-  - Premium
-  - Free gifts
-  - If you order right now you get x too
-  - Power guarantee (12 months guarantee)
-  - Scaricity (countdown, only X are left)
-- Mutiple Traffic channels
-- Only when you know how much you make off a customer, you will know how much you can spend to get one
-- Magic lantern technique (2-3 videos with pure values - informs what problems your service solves)
-- Add CTA (Call To Action)
 
 <https://www.investopedia.com/terms/h/halo-effect.asp>
 
@@ -576,3 +541,5 @@ Typical OOH formats include billboards, on-car ads, bus-stop shelters, etc.
 ## Links
 
 [The scince of selling](../book-summaries/the-science-of-selling)
+
+[Sell Like Crazy](book-summaries/sell-like-crazy.md)

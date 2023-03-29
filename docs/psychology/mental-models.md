@@ -22,6 +22,14 @@ This got him thinking about economic output on a larger scale. Sure enough, he b
 
 ![image](../media/psy-Mental-Models-image1.jpg)
 
+### 64/4 Rule
+
+4 percent of your activities create 64 percent of the revenue for your business. Make it your goal to give all your time to your 4 percent.
+
+By doubling the 80-20 rule, you get 4-64 rule
+
+Top 4% gives 64% revenue
+
 ## Priming Effect
 
 The priming effect occurs when an individual's exposure to a certain stimulus subconsciously influences his or her response to a subsequent stimulus. These stimuli are often related to words or images that people see during their day-to-day lives.

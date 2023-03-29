@@ -12,7 +12,7 @@
 - [Decision Making](decision-making/readme.md)
   - [Ethics](decision-making/ethics)
 - [Growth Hacking](growth-hacking)
-- [Marketing / Sales](marketing-sales)
+- [Marketing / Sales](management/marketing.md)
 - [Customer Engagement / CX](customer-engagement-cx)
 - [Community Building](community-building)
 - [Books / Blinkist - Management](books-blinkist-management)
