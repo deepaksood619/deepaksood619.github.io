@@ -28,4 +28,12 @@ On-chain metrics turn blockchain-based transaction data into actionable crypto m
 
 Тotal value locked represents the number of assets that are currently being staked in a specific protocol.
 
+Total value locked is a metric that is used to measure the overall health of a DeFi protocol. 
+
+There are three main factors that are taken into consideration when calculating and looking at a decentralized financial services' market cap TVL ratio: calculating the supply, the maximum supply as well as the current price.
+
+In order to get the current market cap, you need to multiply the circulating supply by the current price. In order to get to the TVL ratio, you would need to take that market cap number and divide it by the TVL of the service.
+
+One of the main use of the TVL ratio is to help determine if a DeFi asset is undervalued or overvalued. If it is under 1, it is undervalued in most cases.
+
 [Total Value Locked (TVL) Definition | CoinMarketCap](https://coinmarketcap.com/alexandria/glossary/total-value-locked-tvl)
