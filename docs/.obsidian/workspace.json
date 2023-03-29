@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "frontend/js-javascript/promises.md",
+                "file": "decentralized-applications/key-concepts.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"mev",
+                "query": "tvl",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "frontend/js-javascript/promises.md",
+                "file": "decentralized-applications/key-concepts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "frontend/js-javascript/promises.md",
+                "file": "decentralized-applications/key-concepts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "frontend/js-javascript/promises.md"
+                "file": "decentralized-applications/key-concepts.md"
               }
             }
           },
@@ -196,6 +196,11 @@
   },
   "active": "978fd2faf621af33",
   "lastOpenFiles": [
+    "decentralized-applications/intro.md",
+    "decentralized-applications/ethereum/arbitrum.md",
+    "office/cakedefi/infra.md",
+    "frontend/others/nodejs/npm-commands.md",
+    "frontend/js-javascript/promises.md",
     "frontend/frontend-intro/seo-aso.md",
     "management/product-management/product-market-fit-pmf.md",
     "book-summaries/sell-like-crazy.md",
@@ -217,11 +222,6 @@
     "decentralized-applications/ethereum/ethereum-intro.md",
     "decentralized-applications/coins-tokens-chains/coin-token-intro.md",
     "databases/sql-databases/postgres/parameters-configuration-optimization.md",
-    "computer-science/testing/postman.md",
-    "computer-science/testing/readme.md",
-    "computer-science/testing/test-pyramid.md",
-    "python/documentation/27-development-tools/testing.md",
-    "office/cakedefi/product.md",
     "media/IMG_2688.jpg",
     "media/Pasted image 20230327111131.png",
     "media/Pasted image 20230327111057.png",

@@ -23,3 +23,9 @@ A fork usually gets resolved in one block, because the probability that this sit
 On-chain metrics turn blockchain-based transaction data into actionable crypto market insights.
 
 [On-Chain Analysis: How to Turn Blockchain Data Into Crypto Market Insights](https://www.coindesk.com/learn/what-is-crypto-on-chain-analysis-and-how-do-you-use-it/)
+
+## Total Value Locked (TVL)
+
+Тotal value locked represents the number of assets that are currently being staked in a specific protocol.
+
+[Total Value Locked (TVL) Definition | CoinMarketCap](https://coinmarketcap.com/alexandria/glossary/total-value-locked-tvl)

@@ -1,6 +1,26 @@
 {
   "recentFiles": [
     {
+      "basename": "key-concepts",
+      "path": "decentralized-applications/key-concepts.md"
+    },
+    {
+      "basename": "intro",
+      "path": "decentralized-applications/intro.md"
+    },
+    {
+      "basename": "arbitrum",
+      "path": "decentralized-applications/ethereum/arbitrum.md"
+    },
+    {
+      "basename": "infra",
+      "path": "office/cakedefi/infra.md"
+    },
+    {
+      "basename": "npm-commands",
+      "path": "frontend/others/nodejs/npm-commands.md"
+    },
+    {
       "basename": "promises",
       "path": "frontend/js-javascript/promises.md"
     },
@@ -153,10 +173,6 @@
       "path": "networking/others/delta-lake.md"
     },
     {
-      "basename": "infra",
-      "path": "office/cakedefi/infra.md"
-    },
-    {
       "basename": "others-power-energy",
       "path": "knowledge/applied-sciences/others-power-energy.md"
     },
@@ -183,22 +199,6 @@
     {
       "basename": "google-professional-data-engineer-pde",
       "path": "ai/courses/google-professional-data-engineer-pde.md"
-    },
-    {
-      "basename": "google-professional-cloud-architect-pca",
-      "path": "ai/courses/google-professional-cloud-architect-pca.md"
-    },
-    {
-      "basename": "07-joins",
-      "path": "technologies/apache/apache-spark/07-joins.md"
-    },
-    {
-      "basename": "neha",
-      "path": "office/keep/neha.md"
-    },
-    {
-      "basename": "neha",
-      "path": "office/personality/neha.md"
     }
   ],
   "omittedPaths": [],
