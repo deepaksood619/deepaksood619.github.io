@@ -10,27 +10,28 @@
 
 ## Compute
 
-- Compute Engine
-- App Engine
+### Compute Engine
 
-  Serverless application that completely abstracts away infrastructure so you focus only on code
+### App Engine
 
-- Kubernetes Engine (GKE)
-- Cloud Functions
+Serverless application that completely abstracts away infrastructure so you focus only on code
 
-  Serverless environment to build and connect cloud services. With Cloud Functions you write simple, single-purpose functions that are attached to events emitted from your cloud infrastructure and services. Your Cloud Function is triggered when an event being watched is fired. Your code executes in a fully managed environment. There is no need to provision any infrastructure or worry about managing any servers.
+### Kubernetes Engine (GKE)
 
-  Cloud Functions are written in Javascript and execute in a Node.js v6.11.5 environment on Google Cloud Platform. You can take your Cloud Function and run it in any standard Node.js runtime which makes both portability and local testing a breeze.
+### Cloud Functions
 
-  1. HTTP Functions
+Serverless environment to build and connect cloud services. With Cloud Functions you write simple, single-purpose functions that are attached to events emitted from your cloud infrastructure and services. Your Cloud Function is triggered when an event being watched is fired. Your code executes in a fully managed environment. There is no need to provision any infrastructure or worry about managing any servers.
 
-  2. Background Functions
+Cloud Functions are written in Javascript and execute in a Node.js v6.11.5 environment on Google Cloud Platform. You can take your Cloud Function and run it in any standard Node.js runtime which makes both portability and local testing a breeze.
 
-- Cloud Scheduler
+1. HTTP Functions
+2. Background Functions
 
-  Fully managed cron job service
+### Cloud Scheduler
 
-  <https://cloud.google.com/scheduler/docs/quickstart>
+Fully managed cron job service
+
+<https://cloud.google.com/scheduler/docs/quickstart>
 
 ## Big Data
 
@@ -80,95 +81,106 @@
 
 ## Storage and Databases
 
-- Cloud Storage
+### Cloud Storage
 
-  Geo-redundant object storage for high QPS (Query Per Second) needs
+Geo-redundant object storage for high QPS (Query Per Second) needs
 
-- gsutil
+### gsutil
 
-  Cloud Storage allows world-wide storage and retrieval of any amount of data at any time. You can use Cloud Storage for a range of scenarios including serving website content, storing data for archival and disaster recovery, or distributing large data objects to users via direct download.
+Cloud Storage allows world-wide storage and retrieval of any amount of data at any time. You can use Cloud Storage for a range of scenarios including serving website content, storing data for archival and disaster recovery, or distributing large data objects to users via direct download.
 
-- Cloud SQL
-- Cloud Bigtable
-- **Cloud Spanner**
+### Cloud SQL
 
-  No-Compromise Relational Database Service
+### Cloud Bigtable
 
-  Cloud Spanner is the only enterprise-grade, globally-distributed, and strongly consistent database service built for the cloud specifically to combine the benefits of relational database structure with non-relational horizontal scale. This combination delivers high-performance transactions and strong consistency across rows, regions, and continents with an industry-leading 99.999% availability SLA, no planned downtime, and enterprise-grade security. Cloud Spanner revolutionizes database administration and management and makes application development more efficient.
+### Cloud Spanner
 
-  Its basically a CP system (Consistency - Partition tolerance)
+No-Compromise Relational Database Service
 
-  <https://cloud.google.com/blog/products/gcp/inside-cloud-spanner-and-the-cap-theorem>
+Cloud Spanner is the only enterprise-grade, globally-distributed, and strongly consistent database service built for the cloud specifically to combine the benefits of relational database structure with non-relational horizontal scale. This combination delivers high-performance transactions and strong consistency across rows, regions, and continents with an industry-leading 99.999% availability SLA, no planned downtime, and enterprise-grade security. Cloud Spanner revolutionizes database administration and management and makes application development more efficient.
 
-  <https://cloud.google.com/spanner/docs/true-time-external-consistency>
+Its basically a CP system (Consistency - Partition tolerance)
 
-  <https://ai.google/research/pubs/pub45855>
+<https://cloud.google.com/blog/products/gcp/inside-cloud-spanner-and-the-cap-theorem>
 
-  <https://thedataguy.in/internals-of-google-cloud-spanner>
+<https://cloud.google.com/spanner/docs/true-time-external-consistency>
 
-  A Spanner cluster [contains](https://cloud.google.com/spanner/docs/replication#replica_types) multiple read-write, may contain some read-only and some witness replicas.
+<https://ai.google/research/pubs/pub45855>
 
-  - Read-write replicas serve reads and writes.
-  - Read-only replicas serve reads.
-  - Witnesses don't serve data but participate in leader election.
+<https://thedataguy.in/internals-of-google-cloud-spanner>
 
-  Read-only and witness replicas are only used for multi-regional Spanner clusters that can span across multiple geographical regions. Single region clusters only use read-write replicas. Each replica lives in a different zone in the region to avoid single point of failure due to zonal outages.
+A Spanner cluster [contains](https://cloud.google.com/spanner/docs/replication#replica_types) multiple read-write, may contain some read-only and some witness replicas.
 
-  - Fully managed
-    - No versioning (you don't know which spanner you are using)
-    - No messing with tablespaces
-    - No software patching
-    - No upgrades
-    - No downtime
-    - No index rebuilds
-    - No resharding
-    - Dynamically scalable (up and down) within seconds
+- Read-write replicas serve reads and writes.
+- Read-only replicas serve reads.
+- Witnesses don't serve data but participate in leader election.
+
+Read-only and witness replicas are only used for multi-regional Spanner clusters that can span across multiple geographical regions. Single region clusters only use read-write replicas. Each replica lives in a different zone in the region to avoid single point of failure due to zonal outages.
+
+- Fully managed
+- No versioning (you don't know which spanner you are using)
+- No messing with tablespaces
+- No software patching
+- No upgrades
+- No downtime
+- No index rebuilds
+- No resharding
+- Dynamically scalable (up and down) within seconds
 
 ![image](../../media/Cloud-Others-Google-Cloud-Platform-Managed-Services-image1.jpg)
 
 ![image](../../media/Cloud-Others-Google-Cloud-Platform-Managed-Services-image2.jpg)
 
-- When cloud spanner fits less well
-  - Lift and shift
-  - Lots of in-database business logic (triggers, stored procedures)
-  - Compatibility needed
-  - App is very sensitive to very low latency (micro/nano/low single digit ms)
+#### When cloud spanner fits less well
+
+- Lift and shift
+- Lots of in-database business logic (triggers, stored procedures)
+- Compatibility needed
+- App is very sensitive to very low latency (micro/nano/low single digit ms)
 - Stale reads
 - External (strong) consistency
-  - Low-latency synchronous replication - data is available on commit
-  - True ACID database
-- Considerations
-  - Key choice in tables and indexes
-    - Sequential- or timestamp-based keys can cause hotspots limiting performance
-    - Random UUIDs or hashes distribute data better
-  - Lack of: Triggers, stored procedures, and check constraints
-    - Not null constraint exits, keys are unique, unique column values via indexes
-  - Foreign key constraints and on-delete cascades only with parent-child interleaved tables
-  - No sequence generation for keys
-  - Indexes are tables too
-    - Same contraints for index keys
-    - Querying non-covering index is a table join
-  - Primary key is the ROWID
-    - Uniquely identifies the row
-    - Used to determine where the row is in the storage
-  - Backup and DR
-    - Managed export/import
-    - Historial data snapshots
-    - System-managed backups
-  - TrueTime and MVCC
-    - Linearization - C of "ACID"
-    - Serialization - I of "ACID"
-    - Read snapshots - MVCC to avoid read locks = External Consistency
+- Low-latency synchronous replication - data is available on commit
+- True ACID database
 
-  - Can we deploy in single region?
+#### Considerations
 
-- Cloud Datastore
+- Key choice in tables and indexes
+- Sequential- or timestamp-based keys can cause hotspots limiting performance
+- Random UUIDs or hashes distribute data better
+- Lack of: Triggers, stored procedures, and check constraints
+- Not null constraint exits, keys are unique, unique column values via indexes
+- Foreign key constraints and on-delete cascades only with parent-child interleaved tables
+- No sequence generation for keys
+- Indexes are tables too
+- Same contraints for index keys
+- Querying non-covering index is a table join
+- Primary key is the ROWID
+- Uniquely identifies the row
+- Used to determine where the row is in the storage
 
-  Highly-scalable NoSQL database. It automatically handles sharding and replication, providing you with a highly available and durable database that scales automatically to handle your applications' load. Datastore provides a myriad of capabilities such as ACID transactions, SQL-like queries, and indexes
+#### Backup and DR
 
-- Persistent Disk
+- Managed export/import
+- Historial data snapshots
+- System-managed backups
+- TrueTime and MVCC
+- Linearization - C of "ACID"
+- Serialization - I of "ACID"
+- Read snapshots - MVCC to avoid read locks = External Consistency
 
-- Cloud Memorystore
+#### Create interleaved tables
+
+An _interleaved table_ is a table that you declare to be an interleaved child of another table because you want the rows of the child table to be physically stored with the associated parent row. As mentioned earlier, the parent table primary key must be the first part of the child table composite primary key.
+
+[About schemas  |  Cloud Spanner  |  Google Cloud](https://cloud.google.com/spanner/docs/schema-and-data-model)
+
+### Cloud Datastore
+
+Highly-scalable NoSQL database. It automatically handles sharding and replication, providing you with a highly available and durable database that scales automatically to handle your applications' load. Datastore provides a myriad of capabilities such as ACID transactions, SQL-like queries, and indexes
+
+### Persistent Disk
+
+### Cloud Memorystore
 
 ![image](../../media/Cloud-Others-Google-Cloud-Platform-Managed-Services-image3.jpg)
 

@@ -101,6 +101,41 @@ SELECT ROUND(imdb_rating), COUNT(name) FROM movies GROUP BY 1 ORDER BY 1;
 -- Here, the 1 refers to the first column in our SELECT statement, ROUND(imdb_rating)
 ```
 
+#### Guidelines
+
+- All the dependent columns or columns used in GROUP BY function must form the basis of grouping, hence must be included in GROUP BY clause also
+- GROUP BY clause does not support the use of column alias, but the actual names
+- GROUP BY clause can only be used with aggregate functions like SUM, AVG, COUNT, MAX, and MIN
+- Aggregate functions cannot be used in a GROUP BY clause
+  - Use Inner query for solving this
+  - Example -
+
+```sql
+SELECT
+ cp.CoinId,
+ cp.createdAt AS max_createdAt,
+ COUNT(*) AS count_duplicates
+FROM
+ coin cp
+ INNER JOIN (
+  SELECT
+   CoinId,
+   MAX(createdAt) AS max_createdAt
+  FROM
+   coin
+  GROUP BY
+   CoinId
+ ) cp_max
+ ON cp.CoinId = cp_max.CoinId AND cp.createdAt = cp_max.max_createdAt
+GROUP BY
+ cp.CoinId,
+ cp.createdAt
+HAVING
+ COUNT(*) > 1;
+```
+
+[Using Group functions](https://www.tutorialspoint.com/sql_certificate/using_the_group_functions.htm)
+
 ### Examples
 
 ```sql

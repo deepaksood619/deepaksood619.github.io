@@ -259,28 +259,13 @@ When presented with the possiblity that everything is fine or everything is not,
 
 ## Slippery Slope Fallacy
 
-Aslippery slope argument(SSA), in [logic](https://en.wikipedia.org/wiki/Logic), [critical thinking](https://en.wikipedia.org/wiki/Critical_thinking), political [rhetoric](https://en.wikipedia.org/wiki/Rhetoric), and [caselaw](https://en.wikipedia.org/wiki/Caselaw), is an argument in which a party asserts that a relatively small first step leads to a [chain of related events](https://en.wikipedia.org/wiki/Chain_of_events) culminating in some significant (usually negative) effect.The core of the slippery slope argument is that a specific decision under debate is likely to result in [unintended consequences](https://en.wikipedia.org/wiki/Unintended_consequences). The strength of such an argument depends on whether the small step really is likely to lead to the effect. This is quantified in terms of what is known as the [warrant](https://en.wikipedia.org/wiki/Warrant_(rhetoric))(in this case, a demonstration of the process that leads to the significant effect). This type of argument is sometimes used as a form of [fearmongering](https://en.wikipedia.org/wiki/Fearmongering) in which the probable consequences of a given action are exaggerated in an attempt to scare the audience, although, differentiation is necessary, since, in other cases, it might be demonstrable that the small step will likely lead to an effect.
+A slippery slope argument (SSA), in [logic](https://en.wikipedia.org/wiki/Logic), [critical thinking](https://en.wikipedia.org/wiki/Critical_thinking), political [rhetoric](https://en.wikipedia.org/wiki/Rhetoric), and [caselaw](https://en.wikipedia.org/wiki/Caselaw), is an argument in which a party asserts that a relatively small first step leads to a [chain of related events](https://en.wikipedia.org/wiki/Chain_of_events) culminating in some significant (usually negative) effect.The core of the slippery slope argument is that a specific decision under debate is likely to result in [unintended consequences](https://en.wikipedia.org/wiki/Unintended_consequences). The strength of such an argument depends on whether the small step really is likely to lead to the effect. This is quantified in terms of what is known as the [warrant](https://en.wikipedia.org/wiki/Warrant_(rhetoric))(in this case, a demonstration of the process that leads to the significant effect). This type of argument is sometimes used as a form of [fearmongering](https://en.wikipedia.org/wiki/Fearmongering) in which the probable consequences of a given action are exaggerated in an attempt to scare the audience, although, differentiation is necessary, since, in other cases, it might be demonstrable that the small step will likely lead to an effect.
 
 The fallacious sense of "slippery slope" is often used synonymously with [continuum fallacy](https://en.wikipedia.org/wiki/Continuum_fallacy), in that it ignores the possibility of middle ground and assumes a discrete transition from category A to category B. In this sense it constitutes an [informal fallacy](https://en.wikipedia.org/wiki/Informal_fallacy). In a non-fallacious sense, including use as a legal principle, a middle-ground possibility is acknowledged, and reasoning is provided for the likelihood of the predicted outcome. Other idioms for the slippery slope argument are thethin end/edge of the wedge, the [camel's nose](https://en.wikipedia.org/wiki/Camel%27s_nose) in the tent, or [If You Give a Mouse a Cookie](https://en.wikipedia.org/wiki/If_You_Give_a_Mouse_a_Cookie).
 
 <https://en.wikipedia.org/wiki/Slippery_slope>
 
 [Can you outsmart the slippery slope fallacy? - Elizabeth Cox](https://www.youtube.com/watch?v=Qt4f7QrfRRc&ab_channel=TED-Ed)
-
-[**24 Biases That Come In Your Way While Making Money | ETMONEY**](https://www.youtube.com/watch?v=gRNqZzmmL-0)
-
-- Consistency & Commitment Bias
-  - Once an idea has taken hold of the brain it's almost impossible to eradicate
-  - Over the years, I began to realize that it was a bad idea to speak publicly about stocks that I own. The issue isn't that other investors might steal my best ideas. The real problem is that it messes with my head. Once we've made a public statement, it's psychologically difficult to back away from what we've said - even if we've come to regret that opinion
-
-- Contrast Bias
-- Social Proof Bias
-- Liking Bias
-  - Don't fall in love with a stock
-- Excessive Self-regard Bias
-- Authority Bias
-- Lollapalooza effect
-  - When multiple bias are used to sway someone's decision
 
 ## Contrarianism
 
@@ -306,13 +291,13 @@ In [marketing](https://en.wikipedia.org/wiki/Marketing), thedecoy effect is the 
 
 ## Economic Mental Errors / Fallacies
 
-## Endowment Effect
+### Endowment Effect
 
 You tend to value more if you own the item, then if you have to buy that item
 
 Ex - If you own a rare pokemon card then you totally justify that it should be sold at $3000, but if you had to buy that card, you would think it's overpriced.
 
-## Sunk cost fallacy
+### Sunk cost fallacy
 
 That if you have already paid for something, you have to consume it because you have paid.
 
@@ -332,31 +317,44 @@ It's fallacy as eating the popcorn or watching the movie will not refund the amo
 
 ![image](../media/Biases-Fallacies-image3.jpg)
 
-## Transaction utility
+### Transaction utility
 
 If you have paid a subscription fee, then you are gonna order more than you really need.
 
-## Mental accounting
+### Mental accounting
 
 Seperating money into categories in respect to where it came from. Like if you win the money in lottery, you want to spent the money in leisure instead of saving.
 
 But it violates the rule, that money is fungible i.e. $1 is equal to $1 from any source it came from. It doesn't depend on the source of the money.
 
-## Clearing Debt
+### Clearing Debt
 
 - Avalanche approach - clean by decreasing interest rates
-
 - Snowball method - list by balance
 
-## Base Effect
+### Base Effect
 
-## broken-window fallacy
+### broken-window fallacy
 
 It states that when we spend money on war, this creates demand, but also it represents a huge opportunity cost -- rather than building bombs and rebuilding destroyed towns, we could have used this money to improve education or health care.
 
 Heexplains this with the help of a short anecdote where a boy breaks the window of a shopkeeper. When that happens, the shopkeeper has to call a glazier to come fix the window. Thisgives rise to income for the glazier, who in-turn, spends it at other shops, thus, benefiting the economy overall.
 
 The only issue with this idea is that it doesn't take into account "that which is not seen."What could the shopkeeper have done with all the money that he had to pay to the glazier? Thus, the fallacy.
+
+### [**24 Biases That Come In Your Way While Making Money**](https://www.youtube.com/watch?v=gRNqZzmmL-0)
+
+- Consistency & Commitment Bias
+  - Once an idea has taken hold of the brain it's almost impossible to eradicate
+  - Over the years, I began to realize that it was a bad idea to speak publicly about stocks that I own. The issue isn't that other investors might steal my best ideas. The real problem is that it messes with my head. Once we've made a public statement, it's psychologically difficult to back away from what we've said - even if we've come to regret that opinion
+- Contrast Bias
+- Social Proof Bias
+- Liking Bias
+  - Don't fall in love with a stock
+- Excessive Self-regard Bias
+- Authority Bias
+- Lollapalooza effect
+  - When multiple bias are used to sway someone's decision
 
 ## Links
 

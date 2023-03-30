@@ -28,7 +28,7 @@ On-chain metrics turn blockchain-based transaction data into actionable crypto m
 
 Тotal value locked represents the number of assets that are currently being staked in a specific protocol.
 
-Total value locked is a metric that is used to measure the overall health of a DeFi protocol. 
+Total value locked is a metric that is used to measure the overall health of a DeFi protocol.
 
 There are three main factors that are taken into consideration when calculating and looking at a decentralized financial services' market cap TVL ratio: calculating the supply, the maximum supply as well as the current price.
 

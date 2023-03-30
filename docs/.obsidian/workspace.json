@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "knowledge/general/science.md",
+                "file": "office/cakedefi/product.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,14 +25,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "office/todo/todo-tech-&-courses.md",
+                "file": "cloud/others/google-cloud-platform.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -61,7 +60,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tvl",
+                "query": "\"group by\"",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -106,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "office/todo/todo-tech-&-courses.md",
+                "file": "office/cakedefi/product.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "office/todo/todo-tech-&-courses.md",
+                "file": "office/cakedefi/product.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "office/todo/todo-tech-&-courses.md"
+                "file": "office/cakedefi/product.md"
               }
             }
           },
@@ -159,18 +158,18 @@
             }
           },
           {
-            "id": "a987d647f2219563",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {}
-            }
-          },
-          {
             "id": "cec9827f5e0bd9b7",
             "type": "leaf",
             "state": {
               "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "774afd804f14493d",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
               "state": {}
             }
           }
@@ -194,34 +193,36 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "8bf14d80e682c9ac",
+  "active": "1aa5805179af55fe",
   "lastOpenFiles": [
-    "office/todo/goals.md",
-    "office/todo/todo-tech-&-courses.md",
-    "frontend/frontend-intro/seo-aso.md",
-    "decentralized-applications/key-concepts.md",
-    "decentralized-applications/intro.md",
-    "decentralized-applications/ethereum/arbitrum.md",
-    "office/cakedefi/infra.md",
-    "frontend/others/nodejs/npm-commands.md",
-    "frontend/js-javascript/promises.md",
-    "management/product-management/product-market-fit-pmf.md",
-    "book-summaries/sell-like-crazy.md",
-    "management/marketing.md",
-    "management/sales.md",
+    "networking/others/grpc/intro.md",
+    "office/media/Pasted image 20230330190444.png",
+    "management/product-management/intro.md",
+    "office/cakedefi/product.md",
+    "media/Pasted image 20230330190444.png",
     "office/blocktoons/todo.md",
+    "office/cakedefi/sql-queries.md",
+    "office/cakedefi/tables.md",
+    "languages/sql/dql-data-query-language/aggregation-analytical-queries-sql-analytics.md",
+    "databases/nosql-databases/druid/commands.md",
+    "databases/sql-databases/mysql/scaling-optimizations.md",
+    "databases/sql-databases/aws-aurora/aurora-documentation.md",
+    "languages/sql/intro.md",
+    "languages/sql/sql-commands.md",
+    "languages/sql/functions.md",
+    "cloud/others/bigquery-big-query.md",
+    "ai/data-science/data-visualization/charts.md",
+    "databases/sql-databases/aws-redshift/documentation.md",
+    "languages/sql/dql-data-query-language/readme.md",
+    "languages/sql/sql-examples.md",
+    "office/cakedefi/people.md",
+    "office/cakedefi/infra.md",
     "office/blocktoons/infra.md",
     "office/cakedefi/todo.md",
-    "office/personality/movies-serials-apps.md",
-    "office/keep/deepak-banks.md",
-    "decentralized-applications/tools.md",
-    "decentralized-applications/development-tools.md",
-    "knowledge/general/others.md",
-    "knowledge/general/readme.md",
-    "knowledge/general/science.md",
-    "knowledge/general/important-dates-timelines.md",
-    "knowledge/others/readme.md",
-    "knowledge/others/politics/readme.md",
+    "ai/courses/google-professional-data-engineer-pde.md",
+    "ai/courses/google-professional-cloud-architect-pca.md",
+    "computer-science/courses/microsoft-excel-google-sheets.md",
+    "readme.md",
     "media/IMG_2688.jpg",
     "media/Pasted image 20230327111131.png",
     "media/Pasted image 20230327111057.png",
@@ -230,8 +231,6 @@
     "media/History-image17.jpg",
     "media/Pasted image 20230326221220.png",
     "media/Pasted image 20230326221139.png",
-    "media/Pasted image 20230326220025.png",
-    "media/Pasted image 20230326214900.png",
     "office/stashfin-credentials",
     "management/people-management",
     "decentralized-applications/coins-tokens-chains",

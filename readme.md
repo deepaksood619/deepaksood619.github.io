@@ -4,7 +4,13 @@ Deployed at - [https://deepaksood619.github.io/](https://deepaksood619.github.io
 
 This is my personal wiki where I share everything I know about this world in form of an online wiki.
 
+The purpose of this site is to force me to improve the quality of these notes, the prospect of being read by someone being motivating. It also allows me to access it everywhere.
+
 If this is your first time visiting this wiki, take a look at [outline](https://deepaksood619.github.io/docs/#outline)
+
+**Why I write (summed up in one quote) -** Your brain is for having ideas not holding them.
+
+## Size of Wiki
 
 Below are my 1900+ notes & their relations visualized.
 
@@ -57,7 +63,7 @@ loc
 
 This garden is quite literally my digital brain. It includes my thoughts, notes and links on topics I care about.
 
-I update the notes daily in my [github repo](https://github.com/deepaksood619/deepaksood619.github.io/), and build it few times in a month using Github Actions and Gatsby.
+I update the notes daily in my [github repo](https://github.com/deepaksood619/deepaksood619.github.io/), and build it few times in a month using Github Actions and Docusaurus.
 
 The content being markdown files, which after every commit to the builds the website using docusaurus and publishes it to [deepaksood619.github.io](https://deepaksood619.github.io/) from which you are likely reading this page.
 
@@ -81,12 +87,6 @@ d
 - [Fallacies of Distributed Computing](https://deepaksood619.github.io/computer-science/distributed-system/fallacies-and-problems) and [Biases / Fallacies](https://deepaksood619.github.io/psychology/biases-fallacies) of Human Computing, which everyone should know and try to overcome in their lifetimes
 - [Types of Databases](https://deepaksood619.github.io/databases/concepts/types-of-databases) to organize your data in the right database, since data has gravity, it becomes harder with quantity of data to migrate data over time to other databases
 - [My Experiences](https://deepaksood619.github.io/about-me/experience) over the years and [Social links](https://deepaksood619.github.io/about-me/social-links) to connect with me
-
-### References
-
-[https://wiki.nikiv.dev/](https://wiki.nikiv.dev/)
-
-[Obsidian Gatsby Template](https://demo-obsidian.owenyoung.com/)
 
 ## Donate
 

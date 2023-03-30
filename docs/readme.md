@@ -10,6 +10,8 @@ The purpose of this site is to force me to improve the quality of these notes, t
 
 If this is your first time visiting this wiki, start from the outline below and explore the area of your interest or you can checkout out a curated list of [must read pages](readme.md#must-read-pages) below.
 
+**Why I write (summed up in one quote) -** Your brain is for having ideas not holding them.
+
 ## Outline
 
 - [About me](about-me/readme.md)
@@ -63,9 +65,9 @@ loc
 
 This garden is quite literally my digital brain. It includes my thoughts, notes and links on topics I care about.
 
-I update the notes daily in my [github repo](https://github.com/deepaksood619/deepaksood619.github.io/), and build it few times in a month using Github Actions and Gatsby.
+I update the notes daily in my [github repo](https://github.com/deepaksood619/deepaksood619.github.io/), and build it few times in a month using Github Actions and Docusaurus.
 
-The content being [markdown](languages/others/markdown) files, which after every commit to the builds the website using [Gatsby](frontend/others/gatsby) and publishes it to [deepaksood619.github.io](https://deepaksood619.github.io/) from which you are likely reading this page.
+The content being [markdown](languages/others/markdown) files, which after every commit to the builds the website using Docusaurus and publishes it to [deepaksood619.github.io](https://deepaksood619.github.io/) from which you are likely reading this page.
 
 The way I structure each page often looks the same and follows a structure. The sidebar you see on the left is sorted alphabetically. It's nested too. Many top level folders are nested quite deep.
 
@@ -86,12 +88,6 @@ There's 2000+ pages in here and lots of them I think are interesting. But these 
 - [Fallacies of Distributed Computing](computer-science/distributed-system/fallacies-and-problems) and [Biases / Fallacies](psychology/biases-fallacies) of Human Computing, which everyone should know and try to overcome in their lifetimes
 - [Types of Databases](databases/concepts/types-of-databases) to organize your data in the right database, since data has gravity, it becomes harder with quantity of data to migrate data over time to other databases
 - [My Experiences](about-me/experience) over the years and [Social links](about-me/social-links) to connect with me
-
-### References
-
-[https://wiki.nikiv.dev/](https://wiki.nikiv.dev/)
-
-[Obsidian Gatsby Template](https://demo-obsidian.owenyoung.com/)
 
 ## Donate
 

@@ -21,3 +21,5 @@ At the end of a data warehousing process, the SCD Type 2 table will have multipl
 A Type 3 SCD stores two versions of values for certain selected level attributes. Each record stores the previous value and the current value of the selected attribute. When the value of any of the selected attributes changes, the current value is stored as the old value and the new value becomes the current value.
 
 [Slowly changing dimension - Wikipedia](https://en.wikipedia.org/wiki/Slowly_changing_dimension)
+
+[Implement slowly changing dimensions in a data lake using AWS Glue and Delta | AWS Big Data Blog](https://aws.amazon.com/blogs/big-data/implement-slowly-changing-dimensions-in-a-data-lake-using-aws-glue-and-delta/)

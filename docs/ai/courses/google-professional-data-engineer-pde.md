@@ -43,3 +43,5 @@
 [Google Cloud Innovators Bootcamp (G.I.B.) for SG](https://cloudonair.withgoogle.com/events/2023-innovators-bootcamp-singapore)
 
 [FREE Google Cloud Professional Data Engineer Exam Questions](https://www.whizlabs.com/blog/google-cloud-professional-data-engineer-exam-questions/)
+
+[Professional Data Engineer Sample Questions](https://docs.google.com/forms/d/e/1FAIpQLSfkWEzBCP0wQ09ZuFm7G2_4qtkYbfmk_0getojdnPdCYmq37Q/viewscore?viewscore=AE0zAgAjzL6zgTcNGLRG9BscIBRY6H5VAj3YK4cCXwih6emszDthS_NeoES47s7iZ5J1BOM)

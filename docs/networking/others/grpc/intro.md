@@ -74,39 +74,45 @@ rpc BidiHello(stream HelloRequest) returns (stream HelloResponse){
 
 ## Benefits & Tradeoffs of gRPC
 
-1. Developer productivity
-    - Abstracts away networking details
-    - "Procedure Call" syntax
-    - Action-centric, not resource-centric
+### Developer productivity
 
-2. Strongly Typed Message Schemas
-    - clear "contract" of what messages can look like
-    - Compile-time type checking (in languages that allow it)
-    - Object-oriented APIs facilitate IDE support
-    - Tradeoff: less flexibility
+- Abstracts away networking details
+- "Procedure Call" syntax
+- Action-centric, not resource-centric
 
-3. Efficiency/Performance
-    - HTTP/2
-    - Compact binary format
-    - Tradeoff: less human-consumable than JSON+REST
-    - Tradeoff: lack of browser support
+### Strongly Typed Message Schemas
 
-4. Language agnostic
+- clear "contract" of what messages can look like
+- Compile-time type checking (in languages that allow it)
+- Object-oriented APIs facilitate IDE support
+- Tradeoff: less flexibility
 
-5. Many modern features
-    - Flow control
-    - Full-duplex bidirectional streams; not just request-response
-    - Request and response metadata (headers, trailers)
-    - Call cancellation, deadline propagation
-    - Interceptors (middleware)*
-    - **Service discovery**
-    - **load balancing (Client-side / Look-aside load balancing)**
+### Efficiency/Performance
 
-![image](../../../media/gRPC-image2.jpg)- Proxyless RPC Mesh
+- HTTP/2
+- Compact binary format
+- Tradeoff: less human-consumable than JSON+REST
+- Tradeoff: lack of browser support
+
+### Language agnostic
+
+### Many modern features
+
+- Flow control
+- Full-duplex bidirectional streams; not just request-response
+- Request and response metadata (headers, trailers)
+- Call cancellation, deadline propagation
+- Interceptors (middleware)*
+- **Service discovery**
+- **load balancing (Client-side / Look-aside load balancing)**
+
+![image](../../../media/gRPC-image2.jpg)
+
+- Proxyless RPC Mesh
 
 <https://kubernetes.io/blog/2018/11/07/grpc-load-balancing-on-kubernetes-without-tears>
 
-## Client side load balancing
+#### Client side load balancing
 
 Two main components needed for the gRPC client-side load balancing to work
 
@@ -114,7 +120,10 @@ Two main components needed for the gRPC client-side load balancing to work
 - [load balancing policy](https://github.com/grpc/grpc/blob/master/doc/load-balancing).
 
 ![image](../../../media/gRPC-image3.jpg)
-<https://github.com/jtattermusch/grpc-loadbalancing-kubernetes-examples>- **Automatic retries, hedging* (Retry hedging)**
+
+<https://github.com/jtattermusch/grpc-loadbalancing-kubernetes-examples>
+
+- **Automatic retries, hedging* (Retry hedging)**
 
 ![image](../../../media/gRPC-image4.jpg)
 
@@ -132,23 +141,22 @@ Two main components needed for the gRPC client-side load balancing to work
 - Supported with Proxies
   - Envoy, Nginx, linkerd, nghttp2, haproxy
 
-6. Opinionated
-    - gRPC is end-to-end service communications framework
-    - Few decisions to make
-    - Tradeoff: must buy in 100%
+### Opinionated
 
-7. Ecosystem
-    - grpc-gateway
-        - Exposes gRPC services as REST APIs
-    - grpc-web
-        - Adapts gRPC to work with browser clients
+- gRPC is end-to-end service communications framework
+- Few decisions to make
+- Tradeoff: must buy in 100%
+
+### Ecosystem
+
+- grpc-gateway
+	- Exposes gRPC services as REST APIs
+- grpc-web
+	- Adapts gRPC to work with browser clients
 
 ## Limitations
 
-1. grpc server not available in php
-
-    - Spiral framework - <https://spiral.dev>
-
+1. grpc server not available in php - Spiral framework - <https://spiral.dev>
 2. Load Balancing
 3. Error handling is really bad
 4. No support for browser JS
@@ -166,13 +174,14 @@ Two main components needed for the gRPC client-side load balancing to work
 
 The first thing to note is that the architecture of gRPC is layered:
 
-- **The lowest layer is the transport:**gRPC uses HTTP/2 as its transport protocol. HTTP/2 provides the same basic semantics as HTTP 1.1 (the version with which nearly all developers are familiar), but aims to be more efficient and more secure. The new features in HTTP/2 that are most obvious at first glance are (1) that it can multiplex many parallel requests over the same network connection and (2) that it allows full-duplex bidirectional communication. We'll learn more about
-- **The next layer is the channel:**This is a thin abstraction over the transport. The channel defines calling conventions and implements the mapping of an RPC onto the underlying transport. At this layer, a gRPC call consists of a client-provided service name and method name, optional request metadata (key-value pairs), and zero or more request messages. A call is completed when the server provides optional response header metadata, zero or more response messages, and response trailer metadata. The trailer metadata indicates the final disposition of the call: whether it was a success or a failure. At this layer, there is no knowledge of interface constraints, data types, or message encoding. A message is just a sequence of zero or more bytes. A call may have any number of request and response messages.
-- **The last layer is the stub:**The stub layer is where interface constraints and data types are defined. Does a method accept exactly one request message or a stream of request messages? What kind of data is in each response message and how is it encoded? The answers to these questions are provided by the stub. The stub marries the IDL-defined interfaces to a channel. The stub code is generated from the IDL. The channel layer provides the ABI that these generated stubs use.
+- **The lowest layer is the transport:** gRPC uses HTTP/2 as its transport protocol. HTTP/2 provides the same basic semantics as HTTP 1.1 (the version with which nearly all developers are familiar), but aims to be more efficient and more secure. The new features in HTTP/2 that are most obvious at first glance are (1) that it can multiplex many parallel requests over the same network connection and (2) that it allows full-duplex bidirectional communication. We'll learn more about
+- **The next layer is the channel:** This is a thin abstraction over the transport. The channel defines calling conventions and implements the mapping of an RPC onto the underlying transport. At this layer, a gRPC call consists of a client-provided service name and method name, optional request metadata (key-value pairs), and zero or more request messages. A call is completed when the server provides optional response header metadata, zero or more response messages, and response trailer metadata. The trailer metadata indicates the final disposition of the call: whether it was a success or a failure. At this layer, there is no knowledge of interface constraints, data types, or message encoding. A message is just a sequence of zero or more bytes. A call may have any number of request and response messages.
+- **The last layer is the stub:** The stub layer is where interface constraints and data types are defined. Does a method accept exactly one request message or a stream of request messages? What kind of data is in each response message and how is it encoded? The answers to these questions are provided by the stub. The stub marries the IDL-defined interfaces to a channel. The stub code is generated from the IDL. The channel layer provides the ABI that these generated stubs use.
 
 ## grpc-web
 
 gRPC-Web provides a Javascript library that lets browser clients access a gRPC service.
+
 <https://www.npmjs.com/package/grpc-web>
 
 [**https://blog.envoyproxy.io/envoy-and-grpc-web-a-fresh-new-alternative-to-rest-6504ce7eb880**](https://blog.envoyproxy.io/envoy-and-grpc-web-a-fresh-new-alternative-to-rest-6504ce7eb880)
@@ -231,6 +240,7 @@ Online book - Practical gRPC
 <https://www.udemy.com/course/protocol-buffers>
 
 [The Story of Why We Migrate to gRPC and How We Go About It - Matthias Grüter, Spotify](https://www.youtube.com/watch?v=fMq3IpPE3TU)
+
 [**The complete gRPC course [Protobuf, Go, Java]**](https://www.youtube.com/playlist?list=PLy_6D98if3UJd5hxWNfAqKMr15HZqFnqf)
 
 [gRPC Crash Course - Modes, Examples, Pros & Cons and more](https://www.youtube.com/watch?v=Yw4rkaTc0f8)
