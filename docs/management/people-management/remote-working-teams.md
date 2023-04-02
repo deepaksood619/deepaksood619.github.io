@@ -1,5 +1,7 @@
 # Remote Working / Teams
 
+Teams of 1 are the best teams, and 1 of the most hard to create
+
 ### TODOs
 
 - Making remote teams meet once a month/quarter

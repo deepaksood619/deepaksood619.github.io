@@ -10,6 +10,8 @@
 - whiteboardcrypto
 - [ETH.BUILD - YouTube](https://www.youtube.com/playlist?list=PLJz1HruEnenCXH7KW7wBCEBnBLOVkiqIi)
 - [The Complete Beginner's Crypto Crash Course](https://www.youtube.com/playlist?list=PLU52pNodXIGdM6XDgHVG7DsPytlsrR_6b)
+- **Finematics**
+- [CS120: Bitcoin for Developers I | Saylor Academy](https://learn.saylor.org/course/view.php?id=500)
 
 ### Youtube Crypto News
 
@@ -71,3 +73,9 @@
 [The Business Blockchain | SlideShare](https://www.slideshare.net/wmougayar/presentations)
 
 [ETHGlobal - YouTube](https://www.youtube.com/@ETHGlobal)
+
+## Questions
+
+How bitcoin or ethererum chains connect to networks
+
+It's peer to peer how does it find the peers

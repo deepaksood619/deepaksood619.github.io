@@ -1,5 +1,13 @@
 # NFT (Non Fungible Tokens)
 
+## Fungible
+
+Oil is fungible, which means one barrel of crude is interchangeable with another. Once it leaves its home country, it can be nearly impossible to know where a barrel of oil originated, if its handlers so desire.
+
+- PFP (Profile Picture)
+- Generative Art
+- Autoglyphs
+
 ## Tools
 
 - [https://opensea.io/](https://opensea.io/)

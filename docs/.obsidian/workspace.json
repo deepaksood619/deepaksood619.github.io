@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "office/cakedefi/product.md",
+                "file": "computer-science/security/concepts.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ff7360d26f6d7d6c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "office/blocktoons/infra.md",
                 "mode": "source",
                 "source": false
               }
@@ -60,7 +72,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"group by\"",
+                "query": "snappy compression",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -105,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "office/cakedefi/product.md",
+                "file": "computer-science/security/concepts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "office/cakedefi/product.md",
+                "file": "computer-science/security/concepts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "office/cakedefi/product.md"
+                "file": "computer-science/security/concepts.md"
               }
             }
           },
@@ -193,44 +205,44 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "1aa5805179af55fe",
+  "active": "978fd2faf621af33",
   "lastOpenFiles": [
-    "networking/others/grpc/intro.md",
-    "office/media/Pasted image 20230330190444.png",
-    "management/product-management/intro.md",
-    "office/cakedefi/product.md",
+    "knowledge/quotes-proverbs/business-management.md",
+    "about-me/ideas/creating-a-business-startup.md",
+    "algorithms/data-compression/others.md",
+    "databases/others/databases-others.md",
+    "technologies/kafka/kafka-architecture.md",
+    "networking/others/file-formats.md",
+    "decentralized-applications/defi.md",
+    "economics/mental-models/macroeconomics.md",
+    "ai/courses/customer-analytics-in-python/intro.md",
+    "economics/mental-models/inequality.md",
     "media/Pasted image 20230330190444.png",
-    "office/blocktoons/todo.md",
-    "office/cakedefi/sql-queries.md",
-    "office/cakedefi/tables.md",
-    "languages/sql/dql-data-query-language/aggregation-analytical-queries-sql-analytics.md",
-    "databases/nosql-databases/druid/commands.md",
-    "databases/sql-databases/mysql/scaling-optimizations.md",
-    "databases/sql-databases/aws-aurora/aurora-documentation.md",
-    "languages/sql/intro.md",
-    "languages/sql/sql-commands.md",
-    "languages/sql/functions.md",
-    "cloud/others/bigquery-big-query.md",
-    "ai/data-science/data-visualization/charts.md",
-    "databases/sql-databases/aws-redshift/documentation.md",
-    "languages/sql/dql-data-query-language/readme.md",
-    "languages/sql/sql-examples.md",
-    "office/cakedefi/people.md",
-    "office/cakedefi/infra.md",
+    "office/media/Pasted image 20230330190444.png",
+    "office/cakedefi/product.md",
+    "management/project-management/agile.md",
+    "media/Project-Management_Agile-image7.jpg",
     "office/blocktoons/infra.md",
-    "office/cakedefi/todo.md",
-    "ai/courses/google-professional-data-engineer-pde.md",
-    "ai/courses/google-professional-cloud-architect-pca.md",
-    "computer-science/courses/microsoft-excel-google-sheets.md",
-    "readme.md",
+    "management/project-management/pm101.md",
+    "management/project-management/scrum-meetings.md",
+    "book-summaries/books-to-read.md",
+    "ai/courses/others-resources-interview.md",
+    "ai/courses/readme.md",
+    "ai/readme.md",
+    "algorithms/complex-systems/game-theory.md",
+    "knowledge/quotes-proverbs/life.md",
+    "office/personality/movies-serials-apps.md",
+    "economics/financial-finance-investing/checklist-tips-personal-finance-quotes.md",
+    "management/readme.md",
+    "economics/mental-models/economics-mental-models.md",
+    "economics/financial-finance-investing/readme.md",
+    "media/Pasted image 20230402125553.png",
     "media/IMG_2688.jpg",
     "media/Pasted image 20230327111131.png",
     "media/Pasted image 20230327111057.png",
     "media/Pasted image 20230327110925.png",
     "media/Pasted image 20230327110541.png",
     "media/History-image17.jpg",
-    "media/Pasted image 20230326221220.png",
-    "media/Pasted image 20230326221139.png",
     "office/stashfin-credentials",
     "management/people-management",
     "decentralized-applications/coins-tokens-chains",

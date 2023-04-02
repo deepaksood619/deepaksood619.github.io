@@ -37,3 +37,5 @@ ANSI standard SQL dialect by default
 [The Delta Lake Series, Ebooks](https://www.databricks.com/explore/de-data-warehousing/the-delta-lake-series)
 
 [Google BigQuery | Databricks on AWS](https://docs.databricks.com/external-data/bigquery.html)
+
+[The Best Data Engineering Platform Is a Lakehouse | Databricks](https://www.databricks.com/resources/webinar/best-data-engineering-platform-lakehouse)

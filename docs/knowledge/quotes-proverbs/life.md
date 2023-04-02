@@ -1003,3 +1003,7 @@ Forgiveness for others becomes possible when we've held our own being with great
 All of us live in a bubble which we incorrectly perceive as “normal”
 
 If you don't like something, **change it**. If you can't change it, change your **attitude**. -- Maya Angelou
+
+A man always has two reasons for doing anything, A good reason and the real reason -- J.P. Morgan
+
+The flame that burns twice as bright, burns half as long

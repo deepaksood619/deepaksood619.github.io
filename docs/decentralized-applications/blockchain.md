@@ -59,6 +59,44 @@ Solving double spend problem
 
 [DDoS in Blockchain - GeeksforGeeks](https://www.geeksforgeeks.org/ddos-in-blockchain/)
 
+## Working
+
+### How bitcoin or ethererum wallets connect to their networks
+
+Bitcoin and Ethereum wallets connect to their respective networks through a process called "node synchronization."
+
+When you open a Bitcoin or Ethereum wallet, the wallet software connects to a network of nodes that are running the same software. These nodes are essentially servers that maintain a copy of the blockchain, which is a public ledger of all transactions that have ever occurred on the network.
+
+The wallet software communicates with these nodes to obtain information about your account balance and to send and receive transactions. The synchronization process involves downloading a copy of the blockchain onto your computer or device, which can take some time depending on the speed of your internet connection and the size of the blockchain.
+
+Once your wallet is synchronized with the network, you can send and receive Bitcoin or Ethereum transactions. When you send a transaction, it is broadcast to the network of nodes, which verify and record the transaction on the blockchain. This ensures that all transactions on the network are secure and transparent, and that no one can manipulate the system for their own gain.
+
+### Initial seeding / connection
+
+When a Bitcoin or Ethereum wallet software starts up, it typically begins by connecting to a few pre-configured nodes that are known to be stable and reliable. These nodes are often maintained by the developers of the software or by other trusted members of the community.
+
+Once the wallet software has connected to these initial nodes, it will send a message requesting a list of other nodes on the network. The nodes that the wallet is connected to will respond with a list of nodes that they know about. This process is called "node discovery."
+
+The wallet software will then attempt to connect to some of the nodes on this list. If the connection is successful, it will request information about the blockchain from the node, such as the latest block and the current state of the network. If the node responds with the requested information, the wallet software will add it to its list of known nodes and continue to connect to it in the future.
+
+The process of node discovery and connection is often repeated several times until the wallet software has connected to a sufficient number of nodes to synchronize with the network. In this way, the wallet can ensure that it is connected to a diverse and robust set of nodes on the network, which helps to improve its reliability and security.
+
+### Pre-configured DNS / DNS Seeds
+
+#### For Bitcoin
+
+- Bitcoin Core, the reference implementation of the Bitcoin protocol, maintains a set of DNS seeds that can be used to bootstrap new nodes. These include seed.bitcoin.sipa.be, dnsseed.bluematt.me, and seed.bitcoinstats.com, among others.
+- Many Bitcoin wallet software also include hard-coded IP addresses for well-known nodes on the network, such as Bitseed and Bitnodes.
+
+#### For Ethereum
+
+- The Geth implementation of the Ethereum protocol maintains a set of bootnodes that can be used to bootstrap new nodes. These include enode://a24df51ba24fb4f28833a67a2db1ad346f87342dc61bdc9947e174d55c53e7f9fb6b66bd6de0b1773d3c8ca088f2720c7d76f0b562455ab8f2a1eafdd281b799@52.16.188.185:30303 and enode://enode://c9[1b8631fbdda623568c7b937d92d924408d8baae698fc988e7f2d2c13df05244cc2a735cc69e0d39ebd06c126fa8618b0a66b3d0de08b3c00da1b78a9e92a96@bootnode.ethdevops.io](mailto:1b8631fbdda623568c7b937d92d924408d8baae698fc988e7f2d2c13df05244cc2a735cc69e0d39ebd06c126fa8618b0a66b3d0de08b3c00da1b78a9e92a96@bootnode.ethdevops.io):30303
+- The Parity implementation of the Ethereum protocol also maintains a set of bootnodes, including enode://[::ffff:52.169.42.101]:30303 and enode://[::ffff:54.153.6.94]:30303.
+
+These are just a few examples, and the specific nodes used by different wallet software may vary. Additionally, some wallet software may allow users to configure their own set of preferred nodes to connect to.
+
+Ex - <http://203.184.52.247:8333/>
+
 ## Links
 
 [Blockchain 102 and The Dark Side of Blockchain](https://www.youtube.com/watch?v=-so3AtnToek)

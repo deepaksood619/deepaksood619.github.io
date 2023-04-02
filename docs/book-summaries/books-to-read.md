@@ -2,9 +2,10 @@
 
 ## Resources
 
-<https://www.freecodecamp.org/news/free-textbooks-math-science-and-more-online-pdf-for-college-and-high-school>
+- <https://www.freecodecamp.org/news/free-textbooks-math-science-and-more-online-pdf-for-college-and-high-school>
+- [Home | Bookdown](https://bookdown.org/)
 
-Book Summaries
+### Book Summaries
 
 - Productivitygame.com
 - <https://jamesclear.com/book-summaries>

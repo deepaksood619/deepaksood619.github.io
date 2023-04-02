@@ -97,6 +97,8 @@ Give tech talk - Learning + Note taking + Zettlekasten - Obsidian / Onenote + Do
 
 [10 GitHub repositories to advance your career as a Developer 📚 - DEV Community](https://dev.to/iarchitsharma/10-as-a-developer-egn)
 
+[Saylor Academy | Saylor Academy](https://learn.saylor.org/?redirect=0)
+
 ## Blogs
 
 <https://about.gitlab.com/2019/08/27/tyranny-of-the-clock>

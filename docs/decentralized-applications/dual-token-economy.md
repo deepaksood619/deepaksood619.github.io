@@ -4,8 +4,6 @@
 
 In the world of blockchain, a dual-token economy or model means a project with two tokens, one of which is used for utility inside the network and the other one as security to raise funds for
 
-## What Is a Dual-Token Economy/Model (Two-Token Economy)?
-
 The **dual-**[**token**](https://coinmarketcap.com/alexandria/glossary/token) **economy,** also referred to as the **dual-token model or system,** is a term used for crypto projects that offer **two different types of tokens**. The main idea behind creating tokens is to **avoid compliance issues with regulators and divide the project's ecosystem into two tokens for better usability**.
 
 Typically, one of the two tokens is used as [security](https://coinmarketcap.com/alexandria/glossary/security) to **raise investment for the crypto project**. The token does this by strictly following the regulations outlined for conventional securities, like bonds or stocks. The other token is **used on the network to fulfill certain roles or activities.** These roles usually differ from one project to another.
@@ -23,3 +21,30 @@ A great example is [Axie Infinity](https://coinmarketcap.com/alexandria/article/
 Apart from Axie Infinity, there are many other projects that function on the dual-economy mechanism like **VeChainThor, MakerDAO, Anchor, and Filmio**.
 
 [Dual-Token Economy/Model (Two-Token Economy) | CoinMarketCap](https://coinmarketcap.com/alexandria/glossary/dual-token-economy-model-two-token-economy)
+
+## Algorithmic Stablecoins
+
+[Algorithmic Stablecoin Explained - What they are, what potential they have - YouTube](https://www.youtube.com/watch?v=UZyGL1wpwlI)
+
+The algorithmic stablecoins do not have any underlying assets backing it. It is essentially a smart contract deployed on a blockchain to increase or decrease the supply of tokens based on a written algorithm
+
+The smart contract then self-executes the terms of agreement between the market participants like buyers, sellers, lenders and borrowers.
+
+### Rebase algorithm / Rebase stable coin
+
+Rebase stable coin is a supply elastic token that works in a way the circulating supply expands or contracts due to changes in token price.
+
+- Periodic rebasing
+
+### Seigniorage algorithm / Seigniorage stable coin
+
+Seigniorage stable coin has mostly a multi-token design i.e. one token acts as a stablecoin and other token act as shares or ownership of seigniorage.
+
+In traditional finance seigniorage is the profit made by a government by issuing currency, especially the difference between the face value of coins and their production costs.
+
+In case of seigniorage stable coins the profit is made for the people the holds the shares, i.e. the token that acts as ownership of seigniorage.
+
+In principle shares are used to increase the supply of coins when the price of coin is above its target price. And when price goes below the target price, then a redemable bond is issued as an incentive for buyers to buy coins.
+
+- Expansion
+- Contraction

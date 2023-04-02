@@ -12,6 +12,8 @@ Return of capital is more important than return on capital
 
 It's far better to buy a wonderful company at a fair price, than a fair company at a wonderful price" - Warren Buffet
 
+Being rich is having money, being wealthy is having time -- Margaret Bonnano
+
 ## Choosing companies
 
 - Legacy Planning
@@ -210,21 +212,21 @@ When you identify a trading opportunity, always look how the trade is positioned
 
 ## Personal Finance 4 pillars
 
-- **Protection**
+#### Protection
 
- Adequate life insurance (To ensure your dependants don't struggle in your absence), Health & accident insurance (To ensure the expenses don't cause a financial strain & portfolio drawdown). Emergency funds and possibly, a medical corpus.
+Adequate life insurance (To ensure your dependants don't struggle in your absence), Health & accident insurance (To ensure the expenses don't cause a financial strain & portfolio drawdown). Emergency funds and possibly, a medical corpus.
 
-- **Investments**
+#### Investments
 
- Asset allocation, risk management, goal-based planning.... The usual gospel
+Asset allocation, risk management, goal-based planning.... The usual gospel
 
-- **Taxation**
+#### Taxation
 
- Minimizing the amount you pay to the taxman and the corresponding impact it has on your portfolio. Understanding the power of capital gains vs income tax
+Minimizing the amount you pay to the taxman and the corresponding impact it has on your portfolio. Understanding the power of capital gains vs income tax
 
-- **Administration**
+#### Administration
 
- This is arguably the most important, and the most overlooked, pillar. It encapsulates a wide variety of actions ranging from financial tracking to the formation of a continuity plan (To ensure your dependants can continue in the case of your demise). Central to these is ensuring that wills are made, the right nominations have been selected/updated, and the sharing of important documents.
+This is arguably the most important, and the most overlooked, pillar. It encapsulates a wide variety of actions ranging from financial tracking to the formation of a continuity plan (To ensure your dependants can continue in the case of your demise). Central to these is ensuring that wills are made, the right nominations have been selected/updated, and the sharing of important documents.
 
 ## How to Get Rich (Without Getting Lucky) by Naval Ravikant
 
@@ -399,6 +401,10 @@ Example - is the stock good invert to why is this stock not good
 - Consistency and routines
 - Sound body along with a sound mind
 - Personal responsibility
+
+### Positive Risk Reward Opportunity
+
+A situation when the UPSIDE potential of an asset is much greater than the potential downside, or the downside is limited but the upside is UNLIMITED
 
 ## Others
 

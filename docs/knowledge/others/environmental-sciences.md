@@ -4,7 +4,11 @@
 
 ## Climate Change
 
-<https://www.youtube.com/watch?v=qEC4vfo9cn4>
+Earth overshoot day - 27 July
+
+[10 years to transform the future of humanity -- or destabilize the planet | Johan Rockström - YouTube](https://www.youtube.com/watch?v=8Sl28fkrozE&ab_channel=TED)
+
+[International Relations this Week by Prof Pushpesh Pant 36 | For UPSC/IAS - YouTube](https://www.youtube.com/watch?v=qEC4vfo9cn4)
 
 [The Uninhabitable Earth](../../book-summaries/the-uninhabitable-earth)
 

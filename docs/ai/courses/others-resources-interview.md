@@ -42,6 +42,7 @@
 - <https://www.coursera.org/specializations/practical-data-science>
 - <https://www.edx.org/course/fundamentals-of-tinyml>
 - <https://www.univ.ai>
+- [Interpretable Machine Learning](https://christophm.github.io/interpretable-ml-book/)
 
 ## Courses - Data
 
@@ -293,3 +294,9 @@ Convoluational neural network - <https://towardsdatascience.com/the-most-intuiti
 <https://www.conordewey.com/blog/the-big-list-of-data-science-interview-resources>
 
 <https://towardsdatascience.com/the-uber-data-scientist-interview-7ba9ca95f4e3>
+
+## Links
+
+[Understand ANY Machine Learning Model - YouTube](https://www.youtube.com/watch?v=IqT551LjKHw)
+
+[9.5 Shapley Values | Interpretable Machine Learning](https://christophm.github.io/interpretable-ml-book/shapley.html#the-shapley-value-in-detail)

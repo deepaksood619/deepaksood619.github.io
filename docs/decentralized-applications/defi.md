@@ -46,6 +46,12 @@ In the context of DeFi, oracles are used to provide external data to smart contr
 
 Oracles play a critical role in the DeFi ecosystem because they enable decentralized applications to operate securely and efficiently while maintaining access to the necessary external data. However, the reliability and security of oracles are also critical, as inaccurate or manipulated data can lead to financial losses for users of DeFi protocols. As a result, there are many different oracle providers that have emerged to serve the needs of the DeFi ecosystem, each with their own approaches to security and data verification.
 
+## Products
+
+[Little to NO DeFi Gains? Find out which products and services suit you best - YouTube](https://www.youtube.com/watch?v=C2KURQ1jMQI)
+
+![cakedefi-3-core-products](media/Pasted%20image%2020230330190444.png)
+
 ## References
 
 [Crypto Investing](crypto-investing)
@@ -61,3 +67,5 @@ Oracles play a critical role in the DeFi ecosystem because they enable decentral
 [What is DeFi? A Beginner’s Guide to Decentralized Finance](https://www.youtube.com/watch?v=btB__oHQ0sU)
 
 [Learn crypto and blockchain | CoinDesk](https://www.coindesk.com/learn/defi/)
+
+[The TRUTH About DEFI - YouTube](https://www.youtube.com/watch?v=Ia0DVfRJKy8)

@@ -73,6 +73,8 @@ The Top Three Highest Ranking Crypto Websites on Alexa
 - Lending - [PeerHive | Revolutionizing Decentralized P2P Lending Experience](https://peerhive.app/)
 - Defi - [Ether Fi App](https://www.mainnet.ether.fi/)
 
+![ranks-of-bitcoin-holders](media/Pasted%20image%2020230402125553.png)
+
 ## Pros
 
 - Huge Upside
@@ -108,6 +110,14 @@ The Top Three Highest Ranking Crypto Websites on Alexa
 ## Ideas
 
 [Vitalik Buterin - Ideas for things worth building - YouTube](https://www.youtube.com/watch?v=rp3cDq2LiBM)
+
+## Getting Rekt (Wrecked)
+
+- The Rug Pull (removing a large amount of liquidity from a liquidity pool)
+- Economic Exploit - Flash Loan
+- Exploit vs Hack (Loop holes)
+
+[How (Not) To Get REKT - DeFi Hacks Explained - YouTube](https://www.youtube.com/watch?v=EawgqVdUZCI)
 
 ### Links
 

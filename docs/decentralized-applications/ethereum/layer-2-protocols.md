@@ -26,8 +26,11 @@ Several rollup solutions are already live or in the process of being implemented
 - [arbitrum](decentralized-applications/ethereum/arbitrum.md)
 - [polygon](decentralized-applications/ethereum/polygon.md)
 - Optimism
+
  Optimism is a fast, stable, and scalable L2 blockchain built by Ethereum developers, for Ethereum developers. Built as a minimal extension to existing Ethereum software, Optimism’s EVM-equivalent architecture scales your Ethereum apps without surprises. If it works on Ethereum, it works on Optimism at a fraction of the cost.
 
  [Welcome to the OP Stack | OP Stack Docs](https://stack.optimism.io/#)
 
  [Optimism](https://www.optimism.io/)
+
+[The TRUTH About DEFI - YouTube](https://www.youtube.com/watch?v=Ia0DVfRJKy8)

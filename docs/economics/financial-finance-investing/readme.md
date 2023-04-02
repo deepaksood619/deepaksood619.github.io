@@ -14,6 +14,8 @@ It's not hard to get rich. Investing is a game of temperament not a game of inte
 
 An investor without an investment objective is like a traveler without a destination!
 
+In investing, what is comfortable is rarely profitable -- Robert Arnott
+
 <https://freefincal.com/hdfc-corporate-bond-fund>
 
 Parag Parikh Flexi Cap

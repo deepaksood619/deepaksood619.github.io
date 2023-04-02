@@ -150,9 +150,9 @@ Two main components needed for the gRPC client-side load balancing to work
 ### Ecosystem
 
 - grpc-gateway
-	- Exposes gRPC services as REST APIs
+  - Exposes gRPC services as REST APIs
 - grpc-web
-	- Adapts gRPC to work with browser clients
+  - Adapts gRPC to work with browser clients
 
 ## Limitations
 

@@ -446,3 +446,9 @@ Throw money into the sea if you must, but count it first.
 Chinese proverb that goes “The person who says it cannot be done, should not interrupt the person doing it.
 
 A great founder is one who creates a company and then works hard to make the company survive without them.
+
+Working IN the business vs working ON the business.
+Working IN means working on day to day tasks like delivery product/service, answering mails/questions, etc
+Working ON means taking a zoomed out approach and thinking: what systems could we implement to do this more efficiently in future? What tasks can be eliminated, automated or outsourced? Where should we be focusing more resources in order to achieve our goals faster?
+
+If your business can't run without you - if you can't safely leave your business for a few weeks - you don't really have a business; you have a job.

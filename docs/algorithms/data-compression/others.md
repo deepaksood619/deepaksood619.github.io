@@ -24,9 +24,9 @@ Brotli is a generic-purpose lossless compression algorithm that compresses data 
 
 <https://github.com/google/brotli>
 
-## Snappy
+## Snappy Compression
 
-Snappy is a compression/decompression library. It does not aim for maximum compression, or compatibility with any other compression library; instead, it aims for very high speeds and reasonable compression. For instance, compared to the fastest mode of zlib, Snappy is an order of magnitude faster for most inputs, but the resulting compressed files are anywhere from 20% to 100% bigger.k
+Snappy is a compression/decompression library. It does not aim for maximum compression, or compatibility with any other compression library; instead, it aims for very high speeds and reasonable compression. For instance, compared to the fastest mode of zlib, Snappy is an order of magnitude faster for most inputs, but the resulting compressed files are anywhere from 20% to 100% bigger.
 
 Snappy has the following properties:
 
@@ -35,7 +35,7 @@ Snappy has the following properties:
 - Robust: The Snappy decompressor is designed not to crash in the face of corrupted or malicious input.
 - Free and open source software: Snappy is licensed under a BSD-type license. For more information, see the included COPYING file.
 
-## Performance
+### Performance
 
 Snappy is intended to be fast. On a single core of a Core i7 processor in 64-bit mode, it compresses at about 250 MB/sec or more and decompresses at about 500 MB/sec or more. (These numbers are for the slowest inputs in our benchmark suite; others are much faster.) In our tests, Snappy usually is faster than algorithms in the same class (e.g. LZO, LZF, QuickLZ, etc.) while achieving comparable compression ratios.
 
@@ -49,11 +49,34 @@ Although Snappy should be fairly portable, it is primarily optimized for 64-bit 
 
 <https://github.com/andrix/python-snappy>
 
+```python
 python -m snappy -c uncompressed_file compressed_file.snappy
 
 r = snappy.compress("hola mundo cruel!")
-
 snappy.uncompress(r)
+```
+
+### Working
+
+#### Phase 1: Dictionary Creation
+
+Before compressing the data, Snappy creates a dictionary based on a sample of the input data. This dictionary consists of sequences of bytes that occur frequently in the input data. The dictionary is used to replace these sequences with shorter codes during compression, which improves the compression ratio.
+
+#### Phase 2: Blocks
+
+Snappy divides the input data into blocks of up to 64 KB in size. Each block is compressed separately, which makes it possible to decompress individual parts of the data without having to decompress the entire file.
+
+#### Phase 3: Huffman coding
+
+Snappy uses Huffman coding to compress the data within each block. Huffman coding assigns shorter codes to more frequently occuring symbols. Snappy uses a pre-defined set of Huffman codes that is optimized for the type of data being compressed
+
+#### Phase 4: Compressed output
+
+The compressed data is output in a block-based format that includes information about the size of each block, the length of the uncompressed data, and the contents of the dictionary
+
+#### Phase 5: Decompression
+
+Snappy reverses the compression process. It reads the block headers, decompresses each block using the Huffman codes and dictionary, and concatenates the decompressed blocks to produce the original data.
 
 ## Roaring Bitmaps
 

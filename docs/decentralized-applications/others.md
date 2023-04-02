@@ -8,7 +8,7 @@ IPFS is a peer-to-peer distributed file system that seeks to connect all computi
 
 ### Working
 
-- Each file and all of theblocks within it are given a unique fingerprint called a cryptographic hash.
+- Each file and all of the blocks within it are given a unique fingerprint called a cryptographic hash.
 - IPFS removes duplications across the network.
 - Each network nodestores only content it is interested in, and some indexing information that helps figure out who is storing what.
 - When looking up files, you're asking the network to find nodes storing the content behind a unique hash.

@@ -2,6 +2,7 @@
 
 - crypto winter
 - [Bitcoin Obituaries - "Bitcoin is Dead" Declared 400+ Times](https://99bitcoins.com/bitcoin-obituaries/)
+- [Rekt - Home](https://rekt.news/)
 
 ### Cake DeFi CEO briefing, 2nd week of 2023
 
@@ -53,3 +54,5 @@ On May 7, the price of the then-$18-billion algorithmic stablecoin terraUSD (UST
 [The Next Bull Market Will Be The BIGGEST EVER...](https://www.youtube.com/watch?v=iSKybRTYoyU)
 
 [The Secretive World Of MEV, Where Bots Front-Run Crypto Investors For Big Profits](https://www.forbes.com/sites/jeffkauflin/2022/10/11/the-secretive-world-of-mev-where-crypto-bots-scalp-investors-for-big-profits/?sh=b4e0e672d8dc)
+
+[Hopium Diaries - Dystopian Dreams - YouTube](https://www.youtube.com/watch?v=v1Z5BnBuFyE)

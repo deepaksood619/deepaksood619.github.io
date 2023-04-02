@@ -4,6 +4,16 @@
 
 The Common Table Expressions (CTE) were introduced into standard SQL in order to simplify various classes of SQL Queries for which a derived table was just unsuitable. CTE was introduced in SQL Server 2005, the common table expression (CTE) is a temporary named result set that you can reference within a SELECT, INSERT, UPDATE, or DELETE statement. You can also use a CTE in a CREATE a view, as part of the view's SELECT query. In addition, as of SQL Server 2008, you can add a CTE to the new MERGE statement.
 
+```sql
+with abc as (
+ select * from table1
+),
+xyz as (
+ select * from table2
+)
+select * from abc join xyz on abc.id = xyz.id;
+```
+
 <https://dev.to/helenanders26/why-you-should-use-sql-ctes-25lk>
 
 <https://www.geeksforgeeks.org/cte-in-sql>
@@ -26,7 +36,7 @@ Note that if you use both a unique constraint and a unique index on the same fie
 
 ## Performance
 
-## single vs multiple row inserts
+### single vs multiple row inserts
 
 - 2 rows at a time: 3.5 - 3.5 seconds
 - 5 rows at a time: 2.2 - 2.2 seconds

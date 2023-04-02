@@ -114,7 +114,6 @@ The key to doing agile right is [embracing a mindset of continuous improvement](
 - Connecting business strategy to development reality
 - Agile is a competitive advantage
 - Going agile
-
 - **DevOps**
 - **Agile teams**
 
@@ -188,6 +187,8 @@ The lean framework works on the concept of maximizing customer value with fewer 
 
 ## Extreme Programming
 
+[Scrum and XP from the Trenches - 2nd Edition](https://www.infoq.com/minibooks/scrum-xp-from-the-trenches-2/)
+
 [Putting the XP in Scrum - Roy Osherove - GOTO 2021](https://www.youtube.com/watch?v=JtvSp3BPG8I&ab_channel=GOTOConferences)
 
 ![image](../../media/Project-Management_Agile-image2.jpg)
@@ -202,4 +203,15 @@ The lean framework works on the concept of maximizing customer value with fewer 
 
 ## Twelve XP Practices
 
-![image](../../media/Project-Management_Agile-image7.jpg)
+1. Planning game
+2. Short releases
+3. Simple design
+4. Testing + TDD
+5. Refactoring
+6. Pair programming
+7. Collective ownership
+8. Continuous integration
+9. On-site customer
+10. Sustainable pace
+11. Metaphor
+12. Coding standards

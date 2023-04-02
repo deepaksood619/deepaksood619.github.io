@@ -4,51 +4,37 @@ A Game is any interaction between multiple people in which each person's payoff 
 
 ## Two main branches
 
-1. Cooperative
-    - Where each player has agreed to work together towards a common goal.
-    - A coalition is what you call a group of players in a cooperative game
-    - Shapley Value
-    - Game theory can tell you how to be fair
+### Cooperative
 
-2. Non-cooperative / Competitive
-    - Covers competitive social interactions in which there will be some winners and some losers
-    - Nash Equilibrium
-    - Game theory can tell you how to be smart
+- Where each player has agreed to work together towards a common goal.
+- A coalition is what you call a group of players in a cooperative game
+- Shapley Value
+- Game theory can tell you how to be fair
 
-[Game types](https://en.wikipedia.org/wiki/Game_theory#Game_types)
+### Non-cooperative / Competitive
+
+- Covers competitive social interactions in which there will be some winners and some losers
+- Nash Equilibrium
+- Game theory can tell you how to be smart
+
+## [Game types](https://en.wikipedia.org/wiki/Game_theory#Game_types)
 
 1. [Cooperative / non-cooperative](https://en.wikipedia.org/wiki/Game_theory#Cooperative_/_non-cooperative)
-
 2. [Symmetric / asymmetric](https://en.wikipedia.org/wiki/Game_theory#Symmetric_/_asymmetric)
-
 3. [Zero-sum / non-zero-sum](https://en.wikipedia.org/wiki/Game_theory#Zero-sum_/_non-zero-sum)
-
 4. [Simultaneous / sequential](https://en.wikipedia.org/wiki/Game_theory#Simultaneous_/_sequential)
-
 [Cournot Competition](https://en.wikipedia.org/wiki/Game_theory#Cournot_Competition)
-
 [Bertrand Competition](https://en.wikipedia.org/wiki/Game_theory#Bertrand_Competition)
-
 5. [Perfect information and imperfect information](https://en.wikipedia.org/wiki/Game_theory#Perfect_information_and_imperfect_information)
-
 [Bayesian game](https://en.wikipedia.org/wiki/Game_theory#Bayesian_game)
-
 6. [Combinatorial games](https://en.wikipedia.org/wiki/Game_theory#Combinatorial_games)
-
 7. [Infinitely long games](https://en.wikipedia.org/wiki/Game_theory#Infinitely_long_games)
-
 8. [Discrete and continuous games](https://en.wikipedia.org/wiki/Game_theory#Discrete_and_continuous_games)
-
 9. [Differential games](https://en.wikipedia.org/wiki/Game_theory#Differential_games)
-
 10. [Evolutionary game theory](https://en.wikipedia.org/wiki/Game_theory#Evolutionary_game_theory)
-
 11. [Stochastic outcomes (and relation to other fields)](https://en.wikipedia.org/wiki/Game_theory#Stochastic_outcomes_(and_relation_to_other_fields))
-
 12. [Metagames](https://en.wikipedia.org/wiki/Game_theory#Metagames)
-
 13. [Pooling games](https://en.wikipedia.org/wiki/Game_theory#Pooling_games)
-
 14. [Mean field game theory](https://en.wikipedia.org/wiki/Game_theory#Mean_field_game_theory)
 
 ![image](../../media/Game-Theory-image1.jpg)
@@ -83,21 +69,21 @@ Under the Nash equilibrium, the less optimal but stable outcome is reached betwe
 
 A method of dividing up gains or costs among players according to the value of their individual contributions
 
-Axioms -
+**Axioms**
 
-1. Marginal Contribution -
+#### 1. Marginal Contribution
 
 The contribution of each player is determined by what is gained or lost by removing them from the game
 
-2. Interchangeable players have equal values
+#### 2. Interchangeable players have equal values
 
 If 2 parties bring the same things to the coalition, they should have to contribute the same amount, and should be rewarded for their contributions equally
 
-3. Dummy players have zero value
+#### 3. Dummy players have zero value
 
 If a member of a coalition contributes nothing then they should receive nothing
 
-4. If a game has multiple parts, cost or payment should be decomposed across those parts
+#### 4. If a game has multiple parts, cost or payment should be decomposed across those parts
 
 ## Fair Division
 

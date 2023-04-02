@@ -236,6 +236,10 @@ Dall E - <https://openai.com/dall-e-2>
 
 [Galileo AI · Copilot for interface design](https://www.usegalileo.ai/)
 
+[How Does ChatGPT Work - YouTube](https://www.youtube.com/watch?v=WlbPnZ_SOX4)
+
+[ChatGPT - Explained! - YouTube](https://www.youtube.com/watch?v=NpmnWgQgcsA)
+
 ## ResNet
 
 <https://towardsdatascience.com/an-overview-of-resnet-and-its-variants-5281e2f56035>

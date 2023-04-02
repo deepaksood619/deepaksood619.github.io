@@ -1,204 +1,204 @@
 {
   "recentFiles": [
     {
+      "basename": "concepts",
+      "path": "computer-science/security/concepts.md"
+    },
+    {
+      "basename": "business-management",
+      "path": "knowledge/quotes-proverbs/business-management.md"
+    },
+    {
+      "basename": "creating-a-business-startup",
+      "path": "about-me/ideas/creating-a-business-startup.md"
+    },
+    {
+      "basename": "others",
+      "path": "algorithms/data-compression/others.md"
+    },
+    {
+      "basename": "databases-others",
+      "path": "databases/others/databases-others.md"
+    },
+    {
+      "basename": "kafka-architecture",
+      "path": "technologies/kafka/kafka-architecture.md"
+    },
+    {
+      "basename": "file-formats",
+      "path": "networking/others/file-formats.md"
+    },
+    {
+      "basename": "defi",
+      "path": "decentralized-applications/defi.md"
+    },
+    {
+      "basename": "macroeconomics",
+      "path": "economics/mental-models/macroeconomics.md"
+    },
+    {
+      "basename": "intro",
+      "path": "ai/courses/customer-analytics-in-python/intro.md"
+    },
+    {
+      "basename": "inequality",
+      "path": "economics/mental-models/inequality.md"
+    },
+    {
+      "basename": "Pasted image 20230330190444",
+      "path": "media/Pasted image 20230330190444.png"
+    },
+    {
       "basename": "product",
       "path": "office/cakedefi/product.md"
     },
     {
-      "basename": "intro",
-      "path": "networking/others/grpc/intro.md"
-    },
-    {
-      "basename": "intro",
-      "path": "management/product-management/intro.md"
-    },
-    {
-      "basename": "todo",
-      "path": "office/blocktoons/todo.md"
-    },
-    {
-      "basename": "sql-queries",
-      "path": "office/cakedefi/sql-queries.md"
-    },
-    {
-      "basename": "tables",
-      "path": "office/cakedefi/tables.md"
-    },
-    {
-      "basename": "aggregation-analytical-queries-sql-analytics",
-      "path": "languages/sql/dql-data-query-language/aggregation-analytical-queries-sql-analytics.md"
-    },
-    {
-      "basename": "commands",
-      "path": "databases/nosql-databases/druid/commands.md"
-    },
-    {
-      "basename": "scaling-optimizations",
-      "path": "databases/sql-databases/mysql/scaling-optimizations.md"
-    },
-    {
-      "basename": "aurora-documentation",
-      "path": "databases/sql-databases/aws-aurora/aurora-documentation.md"
-    },
-    {
-      "basename": "intro",
-      "path": "languages/sql/intro.md"
-    },
-    {
-      "basename": "sql-commands",
-      "path": "languages/sql/sql-commands.md"
-    },
-    {
-      "basename": "functions",
-      "path": "languages/sql/functions.md"
-    },
-    {
-      "basename": "bigquery-big-query",
-      "path": "cloud/others/bigquery-big-query.md"
-    },
-    {
-      "basename": "charts",
-      "path": "ai/data-science/data-visualization/charts.md"
-    },
-    {
-      "basename": "documentation",
-      "path": "databases/sql-databases/aws-redshift/documentation.md"
-    },
-    {
-      "basename": "readme",
-      "path": "languages/sql/dql-data-query-language/readme.md"
-    },
-    {
-      "basename": "sql-examples",
-      "path": "languages/sql/sql-examples.md"
-    },
-    {
-      "basename": "people",
-      "path": "office/cakedefi/people.md"
-    },
-    {
-      "basename": "infra",
-      "path": "office/cakedefi/infra.md"
+      "basename": "agile",
+      "path": "management/project-management/agile.md"
     },
     {
       "basename": "infra",
       "path": "office/blocktoons/infra.md"
     },
     {
-      "basename": "todo",
-      "path": "office/cakedefi/todo.md"
+      "basename": "pm101",
+      "path": "management/project-management/pm101.md"
     },
     {
-      "basename": "google-professional-data-engineer-pde",
-      "path": "ai/courses/google-professional-data-engineer-pde.md"
+      "basename": "scrum-meetings",
+      "path": "management/project-management/scrum-meetings.md"
     },
     {
-      "basename": "google-professional-cloud-architect-pca",
-      "path": "ai/courses/google-professional-cloud-architect-pca.md"
+      "basename": "books-to-read",
+      "path": "book-summaries/books-to-read.md"
     },
     {
-      "basename": "microsoft-excel-google-sheets",
-      "path": "computer-science/courses/microsoft-excel-google-sheets.md"
+      "basename": "others-resources-interview",
+      "path": "ai/courses/others-resources-interview.md"
     },
     {
       "basename": "readme",
-      "path": "readme.md"
+      "path": "ai/courses/readme.md"
     },
     {
-      "basename": "biases-fallacies",
-      "path": "psychology/biases-fallacies.md"
+      "basename": "readme",
+      "path": "ai/readme.md"
     },
     {
-      "basename": "03-slowly-changing-dimension-scd",
-      "path": "databases/data-warehousing/03-slowly-changing-dimension-scd.md"
+      "basename": "game-theory",
+      "path": "algorithms/complex-systems/game-theory.md"
     },
     {
-      "basename": "science",
-      "path": "knowledge/general/science.md"
-    },
-    {
-      "basename": "google-cloud-platform",
-      "path": "cloud/others/google-cloud-platform.md"
-    },
-    {
-      "basename": "todo-tech-&-courses",
-      "path": "office/todo/todo-tech-&-courses.md"
-    },
-    {
-      "basename": "goals",
-      "path": "office/todo/goals.md"
-    },
-    {
-      "basename": "seo-aso",
-      "path": "frontend/frontend-intro/seo-aso.md"
-    },
-    {
-      "basename": "key-concepts",
-      "path": "decentralized-applications/key-concepts.md"
-    },
-    {
-      "basename": "intro",
-      "path": "decentralized-applications/intro.md"
-    },
-    {
-      "basename": "arbitrum",
-      "path": "decentralized-applications/ethereum/arbitrum.md"
-    },
-    {
-      "basename": "npm-commands",
-      "path": "frontend/others/nodejs/npm-commands.md"
-    },
-    {
-      "basename": "promises",
-      "path": "frontend/js-javascript/promises.md"
-    },
-    {
-      "basename": "product-market-fit-pmf",
-      "path": "management/product-management/product-market-fit-pmf.md"
-    },
-    {
-      "basename": "sell-like-crazy",
-      "path": "book-summaries/sell-like-crazy.md"
-    },
-    {
-      "basename": "marketing",
-      "path": "management/marketing.md"
-    },
-    {
-      "basename": "sales",
-      "path": "management/sales.md"
+      "basename": "life",
+      "path": "knowledge/quotes-proverbs/life.md"
     },
     {
       "basename": "movies-serials-apps",
       "path": "office/personality/movies-serials-apps.md"
     },
     {
-      "basename": "deepak-banks",
-      "path": "office/keep/deepak-banks.md"
+      "basename": "checklist-tips-personal-finance-quotes",
+      "path": "economics/financial-finance-investing/checklist-tips-personal-finance-quotes.md"
     },
     {
-      "basename": "tools",
-      "path": "decentralized-applications/tools.md"
+      "basename": "readme",
+      "path": "management/readme.md"
     },
     {
-      "basename": "development-tools",
-      "path": "decentralized-applications/development-tools.md"
+      "basename": "economics-mental-models",
+      "path": "economics/mental-models/economics-mental-models.md"
+    },
+    {
+      "basename": "readme",
+      "path": "economics/financial-finance-investing/readme.md"
+    },
+    {
+      "basename": "todo-financial-investing",
+      "path": "office/todo/todo-financial-investing.md"
+    },
+    {
+      "basename": "others",
+      "path": "knowledge/games/others.md"
+    },
+    {
+      "basename": "layer-2-protocols",
+      "path": "decentralized-applications/ethereum/layer-2-protocols.md"
+    },
+    {
+      "basename": "readme",
+      "path": "decentralized-applications/ethereum/readme.md"
+    },
+    {
+      "basename": "key-concepts",
+      "path": "decentralized-applications/key-concepts.md"
+    },
+    {
+      "basename": "crypto-investing",
+      "path": "decentralized-applications/crypto-investing.md"
+    },
+    {
+      "basename": "crypto-news",
+      "path": "decentralized-applications/crypto-news.md"
+    },
+    {
+      "basename": "dual-token-economy",
+      "path": "decentralized-applications/dual-token-economy.md"
+    },
+    {
+      "basename": "readme",
+      "path": "decentralized-applications/coins-tokens-chains/readme.md"
+    },
+    {
+      "basename": "youtube-podcasts-magazine-apps",
+      "path": "devops/ides/youtube-podcasts-magazine-apps.md"
+    },
+    {
+      "basename": "blockchain",
+      "path": "decentralized-applications/blockchain.md"
+    },
+    {
+      "basename": "newsletter-learning-resources",
+      "path": "computer-science/general/newsletter-learning-resources.md"
+    },
+    {
+      "basename": "references-learning",
+      "path": "decentralized-applications/references-learning.md"
+    },
+    {
+      "basename": "readme",
+      "path": "decentralized-applications/readme.md"
+    },
+    {
+      "basename": "questions-to-company",
+      "path": "office/personality/questions-to-company.md"
+    },
+    {
+      "basename": "questions-about-me",
+      "path": "office/personality/questions-about-me.md"
+    },
+    {
+      "basename": "nft-non-fungible-tokens",
+      "path": "decentralized-applications/coins-tokens-chains/nft-non-fungible-tokens.md"
     },
     {
       "basename": "others",
       "path": "knowledge/general/others.md"
     },
     {
-      "basename": "readme",
-      "path": "knowledge/general/readme.md"
+      "basename": "intro",
+      "path": "knowledge/general/intro.md"
     },
     {
       "basename": "important-dates-timelines",
       "path": "knowledge/general/important-dates-timelines.md"
     },
     {
+      "basename": "partner-wife-qualities",
+      "path": "office/personality/partner-wife-qualities.md"
+    },
+    {
       "basename": "readme",
-      "path": "knowledge/others/readme.md"
+      "path": "knowledge/general/readme.md"
     }
   ],
   "omittedPaths": [],

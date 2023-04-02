@@ -6,7 +6,7 @@ A **word type** is the form or spelling of the word independently of its specifi
 
 Now, let's calculate a measure of the lexical richness of the text. The next example shows us that the number of distinct words is just 6% of the total number of words, or equivalently that each word is used 16 times on average
 
-## len(set(text3)) / len(text3)
+`len(set(text3)) / len(text3)`
 
 ## Frequency Distribution
 
@@ -50,3 +50,7 @@ Answering this question involves finding the **antecedent** of the pronoun they,
 *Simple Pipeline Architecture for a Spoken Dialogue System: Spoken input (top left) is analyzed, words are recognized, sentences are parsed and interpreted in context, application-specific actions take place (top right); a response is planned, realized as a syntactic structure, then to suitably inflected words, and finally to spoken output; different types of linguistic knowledge inform each stage of the process.*
 
 ## Recognizing Textual Entailment (RTE)
+
+## Links
+
+[Sentence Tokenization in Transformer Code from scratch! - YouTube](https://www.youtube.com/watch?v=VzS8hrOSSAs)

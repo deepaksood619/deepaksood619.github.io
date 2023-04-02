@@ -45,6 +45,10 @@ The Working Group recommended compilation of four monetary aggregates on the bas
 
 ## Inflation
 
+Why inflation occurs - Too much money chasing too few goods
+
+People are spending more instead of saving, losing trust on paper money and parking money in assets
+
 ![image](../../media/Mental-Models_Macroeconomics-image1.jpg)
 
 ## Demand pull inflation
@@ -90,6 +94,10 @@ The **impossible trinity** (also known as **the impossible [trilemma](https:
 [What Is a Trilemma and How Is It Used in Economics? With Example](https://www.investopedia.com/terms/t/trilemma.asp)
 
 [Impossible trinity - Wikipedia](https://en.wikipedia.org/wiki/Impossible_trinity)
+
+## Demographic Crisis
+
+[Demographic crisis - the impact of an aging society - YouTube](https://www.youtube.com/watch?v=MZTsBU5Nigg)
 
 ## Links
 
