@@ -50,7 +50,7 @@ Oracles play a critical role in the DeFi ecosystem because they enable decentral
 
 [Little to NO DeFi Gains? Find out which products and services suit you best - YouTube](https://www.youtube.com/watch?v=C2KURQ1jMQI)
 
-![cakedefi-3-core-products](media/Pasted%20image%2020230330190444.png)
+![cakedefi-3-core-products](../media/Pasted%20image%2020230330190444.png)
 
 ## References
 
