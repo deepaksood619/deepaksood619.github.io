@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "computer-science/security/concepts.md",
+                "file": "office/cakedefi/todo.md",
                 "mode": "source",
                 "source": false
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "computer-science/security/concepts.md",
+                "file": "office/cakedefi/todo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "computer-science/security/concepts.md",
+                "file": "office/cakedefi/todo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "computer-science/security/concepts.md"
+                "file": "office/cakedefi/todo.md"
               }
             }
           },
@@ -205,8 +205,10 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "978fd2faf621af33",
+  "active": "1aa5805179af55fe",
   "lastOpenFiles": [
+    "media/Screenshot 2023-04-03 at 9.02.03 AM.png",
+    "computer-science/security/concepts.md",
     "knowledge/quotes-proverbs/business-management.md",
     "about-me/ideas/creating-a-business-startup.md",
     "algorithms/data-compression/others.md",
@@ -234,8 +236,6 @@
     "office/personality/movies-serials-apps.md",
     "economics/financial-finance-investing/checklist-tips-personal-finance-quotes.md",
     "management/readme.md",
-    "economics/mental-models/economics-mental-models.md",
-    "economics/financial-finance-investing/readme.md",
     "media/Pasted image 20230402125553.png",
     "media/IMG_2688.jpg",
     "media/Pasted image 20230327111131.png",

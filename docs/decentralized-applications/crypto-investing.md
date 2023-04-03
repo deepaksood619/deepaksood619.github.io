@@ -73,7 +73,7 @@ The Top Three Highest Ranking Crypto Websites on Alexa
 - Lending - [PeerHive | Revolutionizing Decentralized P2P Lending Experience](https://peerhive.app/)
 - Defi - [Ether Fi App](https://www.mainnet.ether.fi/)
 
-![ranks-of-bitcoin-holders](media/Pasted%20image%2020230402125553.png)
+![ranks-of-bitcoin-holders](../media/Screenshot%202023-04-03%20at%209.02.03%20AM.png)
 
 ## Pros
 

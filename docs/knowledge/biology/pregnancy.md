@@ -12,15 +12,15 @@
 
 Health care providers might recommend a C-section if -
 
--   **Labor isn't progressing normally.** Labor that isn't progressing (labor dystocia) is one of the most common reasons for a C-section. Issues with labor progression include prolonged first stage (prolonged dilation or opening of the cervix) or prolonged second stage (prolonged time of pushing after complete cervical dilation).
--   **The baby is in distress.** Concern about changes in a baby's heartbeat might make a C-section the safest option.
--   **The baby or babies are in an unusual position.** A C-section is the safest way to deliver babies whose feet or buttocks enter the birth canal first (breech) or babies whose sides or shoulders come first (transverse).
--   **You're carrying more than one baby.** A C-section might be needed for women carrying twins, triplets or more. This is especially true if labor starts too early or the babies are not in a head-down position.
--   **There's a problem with the placenta.** If the placenta covers the opening of the cervix (placenta previa), a C-section is recommended for delivery.
--   **Prolapsed umbilical cord.** A C-section might be recommended if a loop of umbilical cord slips through the cervix in front of the baby.
--   **There's a health concern.** A C-section might be recommended for women with certain health issues, such as a heart or brain condition.
--   **There's a blockage.** A large fibroid blocking the birth canal, a pelvic fracture or a baby who has a condition that can cause the head to be unusually large (severe hydrocephalus) might be reasons for a C-section.
--   **You've had a previous C-section or other surgery on the uterus.** Although it's often possible to have a vaginal birth after a C-section, a health care provider might recommend a repeat C-section.
+- **Labor isn't progressing normally.** Labor that isn't progressing (labor dystocia) is one of the most common reasons for a C-section. Issues with labor progression include prolonged first stage (prolonged dilation or opening of the cervix) or prolonged second stage (prolonged time of pushing after complete cervical dilation).
+- **The baby is in distress.** Concern about changes in a baby's heartbeat might make a C-section the safest option.
+- **The baby or babies are in an unusual position.** A C-section is the safest way to deliver babies whose feet or buttocks enter the birth canal first (breech) or babies whose sides or shoulders come first (transverse).
+- **You're carrying more than one baby.** A C-section might be needed for women carrying twins, triplets or more. This is especially true if labor starts too early or the babies are not in a head-down position.
+- **There's a problem with the placenta.** If the placenta covers the opening of the cervix (placenta previa), a C-section is recommended for delivery.
+- **Prolapsed umbilical cord.** A C-section might be recommended if a loop of umbilical cord slips through the cervix in front of the baby.
+- **There's a health concern.** A C-section might be recommended for women with certain health issues, such as a heart or brain condition.
+- **There's a blockage.** A large fibroid blocking the birth canal, a pelvic fracture or a baby who has a condition that can cause the head to be unusually large (severe hydrocephalus) might be reasons for a C-section.
+- **You've had a previous C-section or other surgery on the uterus.** Although it's often possible to have a vaginal birth after a C-section, a health care provider might recommend a repeat C-section.
 
 ### Risks
 
@@ -28,18 +28,18 @@ Like other types of major surgery, C-sections carry risks.
 
 Risks to babies include:
 
--   **Breathing problems.** Babies born by scheduled C-section are more likely to develop a breathing issue that causes them to breathe too fast for a few days after birth (transient tachypnea).
--   **Surgical injury.** Although rare, accidental nicks to the baby's skin can occur during surgery.
+- **Breathing problems.** Babies born by scheduled C-section are more likely to develop a breathing issue that causes them to breathe too fast for a few days after birth (transient tachypnea).
+- **Surgical injury.** Although rare, accidental nicks to the baby's skin can occur during surgery.
 
 Risks to mothers include:
 
--   **Infection.** After a C-section, there might be a risk of developing an infection of the lining of the uterus (endometritis), in the urinary tract or at the site of the incision.
--   **Blood loss.** A C-section might cause heavy bleeding during and after delivery.
--   **Reactions to anesthesia.** Reactions to any type of anesthesia are possible.
--   **Blood clots.** A C-section might increase the risk of developing a blood clot inside a deep vein, especially in the legs or pelvis (deep vein thrombosis). If a blood clot travels to the lungs and blocks blood flow (pulmonary embolism), the damage can be life-threatening.
--   **Surgical injury.** Although rare, surgical injuries to the bladder or bowel can occur during a C-section.
--   **Increased risks during future pregnancies.** Having a C-section increases the risk of complications in a later pregnancy and in other surgeries. The more C-sections, the higher the risks of placenta previa and a condition in which the placenta becomes attached to the wall of the uterus (placenta accreta).
-    
+- **Infection.** After a C-section, there might be a risk of developing an infection of the lining of the uterus (endometritis), in the urinary tract or at the site of the incision.
+- **Blood loss.** A C-section might cause heavy bleeding during and after delivery.
+- **Reactions to anesthesia.** Reactions to any type of anesthesia are possible.
+- **Blood clots.** A C-section might increase the risk of developing a blood clot inside a deep vein, especially in the legs or pelvis (deep vein thrombosis). If a blood clot travels to the lungs and blocks blood flow (pulmonary embolism), the damage can be life-threatening.
+- **Surgical injury.** Although rare, surgical injuries to the bladder or bowel can occur during a C-section.
+- **Increased risks during future pregnancies.** Having a C-section increases the risk of complications in a later pregnancy and in other surgeries. The more C-sections, the higher the risks of placenta previa and a condition in which the placenta becomes attached to the wall of the uterus (placenta accreta).
+
     A C-section also increases the risk of the uterus tearing along the scar line (uterine rupture) for women who attempt a vaginal delivery in a later pregnancy.
 
 ## NST

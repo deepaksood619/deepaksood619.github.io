@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "todo",
+      "path": "office/cakedefi/todo.md"
+    },
+    {
       "basename": "concepts",
       "path": "computer-science/security/concepts.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "partner-wife-qualities",
       "path": "office/personality/partner-wife-qualities.md"
-    },
-    {
-      "basename": "readme",
-      "path": "knowledge/general/readme.md"
     }
   ],
   "omittedPaths": [],
