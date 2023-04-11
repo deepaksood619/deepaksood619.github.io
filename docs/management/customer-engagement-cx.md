@@ -424,3 +424,7 @@ The difference between a CRM and a CDP comes down to this: CRMs help manage cust
 ## ERP
 
 [CRM vs ERP - What's the Difference?](https://www.youtube.com/watch?v=YmRz8j66m7I)
+
+## Others
+
+[Canny: Customer Feedback Management Tool](https://canny.io/) - _Canny_ helps you collect and organize feature requests to better understand customer needs and prioritize your roadmap.

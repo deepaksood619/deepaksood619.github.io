@@ -16,6 +16,12 @@
 - A new block is added every 10 minutes
 - Bitcoin has not been premined, meaning that no coins have been mined and/or distributed between the founders before it became available to the public.
 - Bitcoin is deflationary
+- Bitcoin addresses prevent confusion, it don't allow
+  - zero `0`
+  - Uppercase `O`
+  - Uppercase `I`
+  - Lowercase `l`
+  - Because it's created using base58 encoding
 
 ### Wrapped Bitcoin
 
@@ -38,6 +44,8 @@ The Bitcoin Lightning Network is another project being worked on as a second-lay
 [Lightning Network](https://lightning.network/)
 
 [What is Lightning Network? | How Do Bitcoin and Crypto Work? | Get Started with Bitcoin.com](https://www.bitcoin.com/get-started/what-is-lightning-network/)
+
+[Lightning Network Explained - YouTube](https://www.youtube.com/watch?v=9UIOeoBEjmw&ab_channel=Finematics)
 
 ### How BLN work?
 
@@ -119,3 +127,5 @@ P2PKH addresses start with a "1"
 ## Links
 
 [Bitcoin price today, BTC to USD live, marketcap and chart | CoinMarketCap](https://coinmarketcap.com/currencies/bitcoin/)
+
+[What Is Bitcoin Halving | The Code Behind Bitcoin Halving Explained - YouTube](https://www.youtube.com/watch?v=OWeGcD6zJhA&ab_channel=Finematics)

@@ -4,40 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "8b9000e6bd444ce5",
+        "id": "4b9ca4411d81daf3",
         "type": "tabs",
         "children": [
           {
-            "id": "1aa5805179af55fe",
+            "id": "d7c2565e8ceb4f8f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "office/cakedefi/todo.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ff7360d26f6d7d6c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "office/blocktoons/infra.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8bf14d80e682c9ac",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "cloud/others/google-cloud-platform.md",
                 "mode": "source",
                 "source": false
               }
@@ -72,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "snappy compression",
+                "query": "\"aws s3 sync",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -205,44 +181,44 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "1aa5805179af55fe",
+  "active": "978fd2faf621af33",
   "lastOpenFiles": [
+    "technologies/apache/apache-spark/06-sliding-window-analytics.md",
+    "management/customer-engagement-cx.md",
+    "cloud/others/others-saas.md",
+    "cloud/aws/cli-commands.md",
+    "cloud/aws/storage/amazon-s3.md",
+    "office/cakedefi/todo.md",
+    "cloud/others/readme.md",
+    "cloud/others/firebase/automatic-collected-events.md",
+    "ai/libraries/tools.md",
+    "office/todo/todo-financial-investing.md",
+    "office/personality/movies-serials-apps.md",
+    "cloud/aws/security-identity-compliance/iam.md",
+    "cloud/aws/aws-sqs.md",
+    "office/other/my-infra.md",
+    "office/keep/deepak-banks.md",
+    "psychology/thinking-mental-models.md",
+    "office/blocktoons/todo.md",
+    "office/todo/todo-tech-&-courses.md",
+    "devops/ides/youtube-podcasts-magazine-apps.md",
+    "computer-science/system-design/intro.md",
+    "devops/monitoring/metrics.md",
+    "databases/indexing/database-index.md",
+    "databases/indexing/mysql-indexing.md",
+    "databases/sql-databases/postgres/readme.md",
+    "databases/indexing/inverted-index.md",
+    "databases/indexing/intro.md",
+    "media/Technologies-Kafka-Intro-image1.jpg",
+    "media/Technologies-Kafka-Intro-image2.jpg",
     "media/Screenshot 2023-04-03 at 9.02.03 AM.png",
-    "computer-science/security/concepts.md",
-    "knowledge/quotes-proverbs/business-management.md",
-    "about-me/ideas/creating-a-business-startup.md",
-    "algorithms/data-compression/others.md",
-    "databases/others/databases-others.md",
-    "technologies/kafka/kafka-architecture.md",
-    "networking/others/file-formats.md",
-    "decentralized-applications/defi.md",
-    "economics/mental-models/macroeconomics.md",
-    "ai/courses/customer-analytics-in-python/intro.md",
-    "economics/mental-models/inequality.md",
     "media/Pasted image 20230330190444.png",
     "office/media/Pasted image 20230330190444.png",
-    "office/cakedefi/product.md",
-    "management/project-management/agile.md",
     "media/Project-Management_Agile-image7.jpg",
-    "office/blocktoons/infra.md",
-    "management/project-management/pm101.md",
-    "management/project-management/scrum-meetings.md",
-    "book-summaries/books-to-read.md",
-    "ai/courses/others-resources-interview.md",
-    "ai/courses/readme.md",
-    "ai/readme.md",
-    "algorithms/complex-systems/game-theory.md",
-    "knowledge/quotes-proverbs/life.md",
-    "office/personality/movies-serials-apps.md",
-    "economics/financial-finance-investing/checklist-tips-personal-finance-quotes.md",
-    "management/readme.md",
     "media/Pasted image 20230402125553.png",
     "media/IMG_2688.jpg",
     "media/Pasted image 20230327111131.png",
     "media/Pasted image 20230327111057.png",
-    "media/Pasted image 20230327110925.png",
-    "media/Pasted image 20230327110541.png",
-    "media/History-image17.jpg",
     "office/stashfin-credentials",
     "management/people-management",
     "decentralized-applications/coins-tokens-chains",

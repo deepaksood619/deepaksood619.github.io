@@ -7,5 +7,4 @@ A *double-ended queue* or *deque* (pronounced "deck") is a generalization of a s
 Dequeue - double ended queue
 
 - Insert items from any end
-
 - Get items from any end

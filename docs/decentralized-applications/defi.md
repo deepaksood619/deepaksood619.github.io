@@ -52,6 +52,22 @@ Oracles play a critical role in the DeFi ecosystem because they enable decentral
 
 ![cakedefi-3-core-products](../media/Pasted%20image%2020230330190444.png)
 
+## Quadratic Funding
+
+The large donors contribute funds to a matching pool, which are used to match the funds donated by the individual donors, or the “crowd”. Quadratic Funding elevates the crowd’s favorite projects, by contributing more matching funds to the grants that receive the highest number of contributions, not the highest value of contributions.
+
+For example, let’s say there are 10 donors who donate $1 each to project A, and 2 donors who donate $6 each to project B. Although project B received a higher value of contributions than project A, project B would actually receive far more matching funding, as they were supported by 10 individuals, instead of 2. Quadratic Funding makes use of a special formula to determine exactly how funding is matched, ensuring total transparency and fairness in the process.
+
+[How Can $1 Turn Into $27? QUADRATIC FUNDING Explained - YouTube](https://www.youtube.com/watch?v=hEHv-dE4xl8)
+
+## Perpetual protocols
+
+A perpetual contract is a derivative similar to a futures contract but without an expiry date. In conventional markets, a futures contract enables people to speculate on the price of an underlying asset until a specific date in the future when that asset is delivered (in-kind or cash-equivalent). Comparatively, perpetual contracts are permanent where the underlying is never delivered and traders pay certain fees to maintain their position.
+
+[PERPETUAL PROTOCOL - Next Level In Decentralized Trading? (Layer 2, Uniswap V3) - YouTube](https://www.youtube.com/watch?v=pBoKtkoNZEY)
+
+[What is Perpetual Protocol? (PERP) | Kraken](https://www.kraken.com/learn/what-is-perpetual-protocol-perp)
+
 ## References
 
 [Crypto Investing](crypto-investing)

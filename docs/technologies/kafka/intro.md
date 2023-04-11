@@ -30,13 +30,9 @@
 ### Example Applications
 
 1. Managing passenger and driver matching at Uber
-
 2. Providing real-time analytics and predictive maintenance for British Gas' smart home
-
 3. Performing numerous real-time services across all of LinkedIn
-
 4. Streaming videos with persistence and consumer offset
-
 5. For example, in a credit card transaction processing system, there will be a client application, perhaps an online store, responsible for sending each transaction to Kafka immediately when a payment is made. Another application is responsible for immediately checking this transaction against a rules engine and determining whether the transaction is approved or denied. The approve/deny response can then be written back to Kafka and the response can propagate back to the online store where the transaction was initiated. A third application can read both transactions and the approval status from Kafka and store them in a database where analysts can later review the decisions and perhaps improve the rules engine.
 
 ### Concepts
@@ -59,8 +55,6 @@
 3. Producer: a process that publishes messages to a topic
 4. Consumer: a single-threaded process that subscribes to a topic
 5. Broker: one of the servers that comprises a cluster
-
-![image](../../media/Technologies-Kafka-Intro-image1.jpg)
 
 ## Use Cases
 
@@ -88,7 +82,7 @@ Many users of Kafka process data in processing pipelines consisting of multiple 
 
 ### Event Sourcing
 
-[Event sourcing](http://martinfowler.com/eaaDev/EventSourcing.html)**is a style of application design where state changes are logged as a time-ordered sequence of records. Kafka's support for very large stored log data makes it an excellent backend for an application built in this style.
+[Event sourcing](http://martinfowler.com/eaaDev/EventSourcing.html) is a style of application design where state changes are logged as a time-ordered sequence of records. Kafka's support for very large stored log data makes it an excellent backend for an application built in this style.
 
 ### Commit Log
 
@@ -185,6 +179,7 @@ Log compaction is a mechanism to give finer-grained per-record retention, rather
 - <https://www.waitingforcode.com/apache-kafka/apache-kafka-idempotent-producer/read>
 - [**https://kafkasummit.io/session-library/**](https://kafkasummit.io/session-library/)
 - [Streamline Event-driven Microservices With Kafka and Python | Toptal®](https://www.toptal.com/microservices/event-driven-microservices-kafka-python)
+- [Apache Kafka Explained (Comprehensive Overview) - YouTube](https://www.youtube.com/watch?v=JalUUBKdcA0&ab_channel=Finematics)
 
 ## Best Practices
 

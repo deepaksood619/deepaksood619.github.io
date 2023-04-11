@@ -61,7 +61,11 @@ Journald replaces the plain text files of syslog with a binary format that:
 
 jq is like sed for JSON data - you can use it to slice and filter and map and transform structured data with the same ease that sed, awk, grep and friends let you play with text.
 
-`brew install jq`
+```bash
+brew install jq
+
+jq '.accounts[] | select(.userID == "77925937-d719-4ff6-9125-a9199ab6a9b6")' merkle_2023-04-01_2.json
+```
 
 <https://stedolan.github.io/jq>
 

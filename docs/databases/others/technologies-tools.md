@@ -71,6 +71,7 @@ Having usability as its main goal, DBeaver offers:
 
 - ResultSet fetch size - 1000
 - show line numbers
+- SQL Editor > Formatting > Keyword Case: Upper
 
 ## Teradata
 

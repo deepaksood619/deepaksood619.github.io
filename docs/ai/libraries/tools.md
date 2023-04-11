@@ -123,17 +123,17 @@ Magenta
 
 ## Tools
 
-## Paperspace
+#### Paperspace
 
 Hybrid-cloud, end-to-end, ML pipelines from training to inference.
 
 Build real-time predictive intelligence in to your business
 
-## Google Colab
+#### Google Colab
 
-## Saturncloud
+#### Saturncloud
 
-## matrixds
+#### matrixds
 
 <https://cloud.google.com/notebooks>
 
@@ -143,16 +143,11 @@ Build real-time predictive intelligence in to your business
 
 <https://deepbluegpu.com>
 
-## Free notebooks
+#### Free notebooks
 
-<https://freenotebooks.io>
-
-Google Colab - <https://colab.research.google.com>
-
-Kaggle
-
-<https://notebooks.ai>
-
-[**https://teachablemachine.withgoogle.com/**](https://teachablemachine.withgoogle.com/)
-
-<https://www.mage.ai>
+- <https://freenotebooks.io>
+- Google Colab - <https://colab.research.google.com>
+- Kaggle
+- <https://notebooks.ai>
+- [**https://teachablemachine.withgoogle.com/**](https://teachablemachine.withgoogle.com/)
+- <https://www.mage.ai>

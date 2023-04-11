@@ -3,25 +3,17 @@
 ## Javascript
 
 1. Lightweight
-
 2. Interpreted
-
 3. Designed for creating network-centric application
-
 4. Integrated in HTML
-
 5. Object-Oriented capabilities
 
    - It has objects which can contain data and methods that act upon that data.
-
    - It does not have classes, but it does have constructors which do what classes do, including acting as containers for class variables and methods. It does not have class-oriented inheritance, but it does have prototype-oriented inheritance.
-
    - The two main ways of building up object systems are by inheritance (is-a) and by aggregation (has-a). JavaScript does both, but its dynamic nature allows it to excel at aggregation.
 
 6. Open and cross-platform
-
 7. Untyped language (JavaScript variable can hold value of any data type)
-
 8. Single Threaded
 
 ## Advantages of JavaScript

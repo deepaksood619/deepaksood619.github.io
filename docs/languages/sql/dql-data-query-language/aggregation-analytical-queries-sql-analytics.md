@@ -225,3 +225,25 @@ select d_name, sum(
 ) as vowel_count from (select distinct name as d_name
 from demo_table) a group by a.d_name;
 ```
+
+### max_by, min_by
+
+Returns the value of an `expr1` associated with the maximum value of `expr2` in a group.
+
+This function can also be invoked as a [window function](https://docs.databricks.com/sql/language-manual/sql-ref-window-functions.html) using the `OVER` clause.
+
+This function is non-deterministic if `expr2` is not unique within the group.
+
+```sql
+-- max_by
+SELECT max_by(x, y) FROM VALUES (('a', 10)), (('b', 50)), (('c', 20)) AS tab(x, y);
+>>> b
+
+-- min_by
+SELECT min_by(x, y) FROM VALUES (('a', 10)), (('b', 50)), (('c', 20)) AS tab(x, y);
+>>> a
+```
+
+[max\_by aggregate function | Databricks on AWS](https://docs.databricks.com/sql/language-manual/functions/max_by.html)
+
+[min\_by aggregate function | Databricks on AWS](https://docs.databricks.com/sql/language-manual/functions/min_by.html)

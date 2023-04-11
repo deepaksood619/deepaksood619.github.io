@@ -3,8 +3,8 @@
 ## Points to remember
 
 1. Implicit Data Structure
-
 2. Linear Data Structure
+
 An array is collection of items stored at continuous memory locations. The idea is to store multiple items of same type together. This makes it easier to calculate the position of each element by simply adding an offset to a base value, i.e., the memory location of the first element of the array (generally denoted by the name of the array).
 
 ## Types of indexing in array
@@ -37,7 +37,9 @@ An array is collection of items stored at continuous memory locations. The idea 
   - Create a new list that has the references to the same elements as in first list.
 - Deep copy
   - If elements are mutable, then changing something in first list can change items from the copied list that is copied using shallow copy, to stop that deep copy should be used. Where every element in the list is copied and then new list references the copied elements. (Can use deepcopy function from the copy module)
-counters = [0]*8
+
+counters = `[0]*8`
+
 All eight cells references the same object.
 
 ![image](../../media/Array-image2.jpg)
@@ -46,7 +48,9 @@ But since integers are immutable, therefore changing an item doesn't change valu
 
 ![image](../../media/Array-image3.jpg)
 
-Extending a list only copy references of the elements from second list to first list.**Introduction to Arrays**
+Extending a list only copy references of the elements from second list to first list.
+
+**Introduction to Arrays**
 
 Python has 3 main sequence classes:
 
@@ -62,6 +66,7 @@ All support indexing (eg. T [0] = 1)
 - Memory address
 - Units of memory (bits and bytes)
 - Memory retrieval
+
 Python stores each unicode character in 2 bytes of memory. (i.e. 16 bits)
 
 Appropriate memory address can be computed using the calculation, **start + (cellsize)(index)**
@@ -73,4 +78,5 @@ Don't need to specify how large an array is beforehand.
 - A list instance often has greater capacity than current length.
 - If elements keep getting appended, eventually this extra space runs out.
 - When dynamic array is full then it doubles in size.
+
 An ArrayList, or a dynamically resizing array, is an array that resizes itself as needed while still providing 0(1) access. A typical implementation is that when the array is full, the array doubles in size. Each doubling takes0(n) time, but happens so rarely that its amortized time is still O(1).

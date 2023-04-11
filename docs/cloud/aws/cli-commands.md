@@ -28,6 +28,9 @@ aws configure --profile zen
 aws ec2 describe-instances --profile {{profile_name}}
 aws s3 ls --profile zen
 
+# set default profile
+export AWS_DEFAULT_PROFILE=personal
+
 # get current user
 aws sts get-caller-identity
 
@@ -72,6 +75,11 @@ aws rds delete-db-instance --db-instance-identifier <db_name>
 aws rds modify-db-parameter-group --db-parameter-group-name [aurora-data-analytics-group](https://ap-south-1.console.aws.amazon.com/rds/home?region=ap-south-1#parameter-groups-detail:ids=aurora-data-analytics-group;type=DbParameterGroup;editing=false) --parameters "ParameterName='max_execution_time',ParameterValue=3200000,ApplyMethod=immediate"
 
 aws rds modify-db-parameter-group --db-parameter-group-name aurora-prod-db-write-group --parameters "ParameterName='max_execution_time',ParameterValue=1500000,ApplyMethod=immediate"
+
+# personal sync
+aws s3 sync . s3://deep-personal-bucket/photos --storage-class DEEP_ARCHIVE --cli-read-timeout 0 --cli-connect-timeout 0
+
+aws s3 cp abc.zip s3://deep-personal-bucket/photos/abc.zip --storage-class DEEP_ARCHIVE
 ```
 
 ## Tools

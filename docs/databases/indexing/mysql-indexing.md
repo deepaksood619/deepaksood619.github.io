@@ -209,11 +209,11 @@ If your secondary index holds all the data needed to satisfy your query (it 'cov
 
 ## Partial Index
 
-We already know that Indices speed up our queries at the cost of space. The more indices you have, the more the storage requirement. We have already created an index calledsecondary_idx_1on the columnname. The columnnamecan contain large values of any length. Also in the index, the row locators' or row pointers' metadata have their own size. So overall, an index can have a high storage & memory load.
+We already know that Indices speed up our queries at the cost of space. The more indices you have, the more the storage requirement. We have already created an index called `secondary_idx_1` on the columnname. The column name can contain large values of any length. Also in the index, the row locators' or row pointers' metadata have their own size. So overall, an index can have a high storage & memory load.
 
 In MySQL, it's possible to create an index on the first few bytes of data as well. Example: the following command creates an index on the first 4 bytes of name. Though this method reduces memory overhead by a certain amount, the index can't eliminate many rows, since in this example the first 4 bytes may be common across many names. Usually this kind of prefix indexing is supported on CHAR, VARCHAR,BINARY, VARBINARY type of columns.
 
-CREATE INDEX secondary_index_1 ON index_demo (name(4));
+`CREATE INDEX secondary_index_1 ON index_demo (name(4));`
 
 ## What happens under the hood when we define an index?
 

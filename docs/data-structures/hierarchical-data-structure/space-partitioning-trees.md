@@ -26,6 +26,7 @@ It is a two-dimensional analog of octrees and is most often used to partition a 
 - Adaptive mesh generation
 - Accelerate rendering in Doom (game)
 - Hidden surface removal and shadow casting
+
 𝗥𝗔𝗬 𝗖𝗔𝗦𝗧𝗜𝗡𝗚
 
 It is the most basic of many computer graphics rendering algo that uses geometric algo of ray tracing.

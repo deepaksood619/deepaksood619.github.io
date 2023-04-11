@@ -63,3 +63,5 @@ No amount of further confirmations can solve the problem, as the generals will b
 <https://en.wikipedia.org/wiki/Two_Generals%27_Problem>
 
 [**https://bravenewgeek.com/understanding-consensus/**](https://bravenewgeek.com/understanding-consensus/)
+
+[Two Generals' Problem Explained - YouTube](https://www.youtube.com/watch?v=s8Wbt0b8bwY&ab_channel=Finematics)

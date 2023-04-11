@@ -79,6 +79,8 @@ Approach a problem from a different point of view.
 
 <https://www.scotthyoung.com/blog/2021/02/22/productivity-frontier>
 
+[Long Tail: Definition as a Business Strategy and How It Works](https://www.investopedia.com/terms/l/long-tail.asp)
+
 - [Normal Distribution](https://en.wikipedia.org/wiki/Normal_distribution)--- "A very common continuous probability distribution...Physical quantities that are expected to be the sum of many independent processes (such as measurement errors) often have distributions that are nearly normal." (related:[central limit theorem](https://en.wikipedia.org/wiki/Central_limit_theorem))
 - [Sensitivity Analysis](https://en.wikipedia.org/wiki/Sensitivity_analysis)--- "The study of how the uncertainty in the output of a mathematical model or system (numerical or otherwise) can be apportioned to different sources of uncertainty in its inputs."
 - **[Cost-benefit Analysis](https://en.wikipedia.org/wiki/Cost%E2%80%93benefit_analysis)**
@@ -152,3 +154,5 @@ Upward counterfactuals are **thoughts about how the situation could have been b
 <https://system.com>
 
 [The Art of Logic](../book-summaries/the-art-of-logic)
+
+[How to articulate your thoughts effectively (like Steve Jobs) - YouTube](https://www.youtube.com/watch?v=PkPfdR80u_8)

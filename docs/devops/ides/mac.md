@@ -83,8 +83,10 @@ Open two instance of same application - **open -n MQTT.fx.app**
 17. **Bombsquad**
 18. ~~Alfred~~
 19. [Raycast - Supercharged productivity](https://www.raycast.com/)
+
     1. [GitHub - raycast/extensions: Everything you need to extend Raycast.](https://github.com/raycast/extensions)
     2. [GitHub - raycast/script-commands: Script Commands let you tailor Raycast to your needs. Think of them as little productivity boosts throughout your day.](https://github.com/raycast/script-commands)
+
 20. **Android file transfer**
 21. Office
 
@@ -344,6 +346,7 @@ alias rb16='openssl rand -base64 16'
 alias r16='openssl rand -hex 16'
 alias rb32='openssl rand -base64 32'
 alias r32='openssl rand -hex 32'
+# base58 password doesn't contain 0OIl to avoid confusion
 
 alias sf='cd ~/Repositories/stashfin/'
 

@@ -50,6 +50,8 @@ Any developer can create a smart contract and make it public to the network, usi
 
 Thus, with smart contracts, developers can build and deploy arbitrarily complex user-facing apps and services such as: marketplaces, financial instruments, games, etc.
 
+[CODE IS LAW? Smart Contracts Explained (Ethereum, DeFi) - YouTube](https://www.youtube.com/watch?v=pWGLtjG-F5c&ab_channel=Finematics)
+
 ## Links
 
 [Intro to Ethereum | ethereum.org](https://ethereum.org/en/developers/docs/intro-to-ethereum/)

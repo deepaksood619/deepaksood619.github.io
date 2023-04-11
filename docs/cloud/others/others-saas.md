@@ -26,13 +26,13 @@ Stock Photos - <https://unsplash.com>
 
 A "Cloudflare Worker" is JavaScript you write that runs on Cloudflare's edge. A "Cloudflare Service Worker" is specifically a worker which handles HTTP traffic and is written against the Service Worker API.
 
-## What can I do with Service Workers on the edge?
+#### What can I do with Service Workers on the edge?
 
 Anything and everything. You're writing code, so the possibilities are infinite. Your Service Worker will intercept all HTTP requests destined for your domain, and can return any valid HTTP response. Your worker can make outgoing HTTP requests to any server on the public internet.
 
 <https://blog.cloudflare.com/introducing-cloudflare-workers>
 
-A flow diagram of how Cloudflare worker responds to an**HTTP request.**
+A flow diagram of how Cloudflare worker responds to an **HTTP request.**
 
 ![image](../../media/Cloud-Others-Others-SAAS-image1.jpg)
 
@@ -66,24 +66,10 @@ Components
   - test4geeks
 - Concerto - <https://github.com/campsych/concerto-platform>
 - Savsoft - <https://github.com/savsofts/savsoftquiz_v5>
-- TCExam - <https://tcexam.org/docs/installation>
-
-<https://github.com/tecnickcom/tcexam>
-
-- Papershala
-
-<https://papershala.com>
-
-- Edbase
-
-<http://www.edbase.net>
-
-- **Speedexam**
-
-<https://www.speedexam.net>
-
-50 exams per month free
-
+- TCExam - <https://tcexam.org/docs/installation> - <https://github.com/tecnickcom/tcexam>
+- Papershala - <https://papershala.com>
+- Edbase - <http://www.edbase.net>
+- **Speedexam** - <https://www.speedexam.net> - 50 exams per month free
 - <https://belong.co>
 
 ## Supply Chain Management
@@ -183,3 +169,5 @@ Open-source low-code framework for building React-based web applications and int
 <https://temp-mail.org/en>
 
 <https://trends.google.com/trends>
+
+[Automatic, AI-generated interview notes | Metaview](https://www.metaview.ai/)

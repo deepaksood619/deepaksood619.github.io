@@ -105,5 +105,6 @@
       "key": "S"
     }
   ],
-  "editor:save-file": []
+  "editor:save-file": [],
+  "insert-current-date": []
 }

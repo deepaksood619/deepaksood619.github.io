@@ -3,31 +3,22 @@
 ## Points to remember
 
 1. Explicit Data Structure
-
 2. Linear Data Structure
 
 ## Operations
 
 1. AddFirst
-
 2. AddLast
-
 3. Remove/delete (key)
-
 4. Iterator
-
 5. Clonning
 
 ## Variants
 
 1. Singly Linked List
-
 2. Doubly Linked List (Double Ended Linked List)
-
 3. Circular Linked List
-
 4. Doubly Circular Linked List
-
 5. Skip List
 
 The idea is simple, we create multiple layers so that we can skip some nodes.

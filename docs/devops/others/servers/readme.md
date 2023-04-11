@@ -188,7 +188,7 @@ While Apache has the ability to operate on both the underlying filesystem and th
 
 Nginx was created to be both a web server and a proxy server. Due to the architecture required for these two roles, it works primarily with URIs, translating to the filesystem when necessary.
 
-This can be seen in some of the ways that Nginx configuration files are constructed and interpreted.Nginx does not provide a mechanism for specifying configuration for a filesystem directory and instead parses the URI itself.
+This can be seen in some of the ways that Nginx configuration files are constructed and interpreted. Nginx does not provide a mechanism for specifying configuration for a filesystem directory and instead parses the URI itself.
 
 For instance, the primary configuration blocks for Nginx areserverandlocationblocks. Theserverblock interprets the host being requested, while thelocationblocks are responsible for matching portions of the URI that comes after the host and port. At this point, the request is being interpreted as a URI, not as a location on the filesystem.
 

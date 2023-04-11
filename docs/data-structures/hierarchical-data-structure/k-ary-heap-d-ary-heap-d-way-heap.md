@@ -1,6 +1,7 @@
 # k-ary heap / d-ary heap / d-way heap
 
 K-ary heaps are a generalization of binary heap(K=2) in which each node have K children instead of 2.
+
 Properties:
 
 1. Nearly complete binary tree, with all levels having maximum number of nodes except the last, which is filled in left to right manner.
@@ -8,18 +9,18 @@ Properties:
 2. Like Binary Heap, it can be divided into two categories:
 
    - Max k-ary heap (key at root is greater than all descendants and same is recursively true for all nodes).
-
    - Min k-ary heap (key at root is greater than all descendants and same is recursively true for all nodes)
-3-ary max heap - root node is maximum
-of all nodes
+
+3-ary max heap - root node is maximum of all nodes
+
 10
 / |
 7 9 8
 / |  /
 4 6 5 7
 
-3-ary min heap -root node is minimum
-of all nodes
+3-ary min heap -root node is minimum of all nodes
+
 10
 / |
 12 11 13

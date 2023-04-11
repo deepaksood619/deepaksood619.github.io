@@ -12,11 +12,11 @@ Channels are data-race safe communication primitives. The operations set is triv
 
 In the most popular channel implementation libraries, there are two varieties (or modes) of channels available
 
-1. Buffered
+### 1. Buffered
 
 Global data flow is async. Tasks are processed independently with some probability of data flow delays, missing data, and logic/events collision.
 
-2. Unbuffered
+### 2. Unbuffered
 
 Global data flow is strictly synchronous, even if there are several independent processors.
 

@@ -80,6 +80,26 @@ Double-click a logical table to open it and see its physical tables. Physical ta
 
 [Augmented Analytics with Tableau - Ask Data & Explain Data](https://www.tableau.com/learn/webinars/augmented-analytics-with-tableau-ask-data-explain-data)
 
+## Debugging
+
+Client-side redering - `:render=false`
+
+### Configuration
+
+TSM - Tableau Services Manager
+
+cli client for server
+
+```bash
+tsm configuration list-dynamic-keys
+
+tsm help
+
+tsm configuration set -k vizportal.log.level -v debug
+
+tsm configuration set -k vizqlserver.log.level -v debug
+```
+
 ## Resources
 
 [eLearning: Tableau Web-Based Training](https://www.tableau.com/learn/training/elearning)

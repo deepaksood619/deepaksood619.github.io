@@ -60,20 +60,6 @@ $$ LANGUAGE plpythonu;
 - key-value storage
 - Partial indexes
 
-A partial index can save space by specifying which values get indexed.
-
-A partial index is an index built over a subset of a table; the subset is defined by a conditional expression (called thepredicateof the partial index). The index contains entries only for those table rows that satisfy the predicate. Partial indexes are a specialized feature, but there are several situations in which they are useful.
-
-One major reason for using a partial index is to avoid indexing common values. Since a query searching for a common value (one that accounts for more than a few percent of all the table rows) will not use the index anyway, there is no point in keeping those rows in the index at all. This reduces the size of the index, which will speed up those queries that do use the index. It will also speed up many table update operations because the index does not need to be updated in all cases.
-
-```sql
-CREATE INDEX orders_completed_user_id
-ON orders (user_id)
-WHERE completed IS TRUE;
-```
-
-<https://www.postgresql.org/docs/12/indexes-partial.html>
-
 ## JSON Types
 
 PostgreSQL offers two types for storing JSON data - json and jsonb.

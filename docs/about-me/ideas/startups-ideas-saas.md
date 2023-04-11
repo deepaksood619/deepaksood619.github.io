@@ -9,6 +9,10 @@ Create best software companies with Indian labour, since labour is cheap in Indi
 - **List jobs only for weekends**
 - **Full hiring platform**
 
+### Others
+
+- riverside.fm saas opensource alternative
+
 ## AI/ChatGPT
 
 - New questions everytime

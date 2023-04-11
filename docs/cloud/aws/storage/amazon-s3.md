@@ -152,6 +152,7 @@ Monitoring and Automation, All Storage / Month (Objects > 128 KB) - $0.0025per 1
 - S3 One Zone-IA (Long-lived, infrequent, but rapid access) - $0.01per GB (125% cheap)
 - S3 Glacier - $0.004per GB (312% cheap)
 - S3 Glacier Deep Archive (Archiving rarely accessed data) - $0.00099per GB (1262% cheap)
+- Amazon S3 Glacier Instant Retrieval
 - S3 Outposts
 
 <https://aws.amazon.com/s3/storage-classes>
@@ -190,13 +191,13 @@ There are per-request ingest fees when using PUT, COPY, or lifecycle rules to mo
 |-|-|-|
 | S3 Standard | $0.005 | $0.0004 |
 
-## You pay for all bandwidth into and out of Amazon S3, except for the following
+### You pay for all bandwidth into and out of Amazon S3, except for the following
 
 - Data transferred in from the internet.
 - Data transferred out to an Amazon Elastic Compute Cloud (Amazon EC2) instance, when the instance is in the same AWS Region as the S3 bucket.
 - Data transferred out to Amazon CloudFront (CloudFront).
 
-## Data Transfer OUT From Amazon S3 To Internet
+### Data Transfer OUT From Amazon S3 To Internet
 
 | Up to 1 GB / Month          | $0.00 per GB   |
 |-----------------------------|-----------------|
@@ -242,3 +243,16 @@ If you have an object expiration lifecycle policy in your unversioned bucket and
 <https://docs.aws.amazon.com/sdk-for-java/v1/developer-guide/examples-s3-transfermanager.html>
 
 <https://docs.aws.amazon.com/code-samples/latest/catalog/python-s3-file_transfer-demo_file_transfer.py.html>
+
+## Glacier Deep Archieve
+
+[Using Amazon S3 Glacier with the AWS CLI - AWS Command Line Interface](https://docs.aws.amazon.com/cli/latest/userguide/cli-services-glacier.html)
+
+```bash
+aws glacier help
+
+```
+
+#### Glacier Vault
+
+A vault is a container for storing archives. When you create a vault, you specify a vault name and the AWS Region in which you want to create the vault

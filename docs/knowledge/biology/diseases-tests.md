@@ -1,5 +1,7 @@
 # Diseases / Tests
 
+Listening to your own body over a lifetime can tell you far more than any doctor in a small room for a rushed 10 minutes appointment.
+
 ## Lifestyle related disease
 
 - Obesity

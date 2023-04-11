@@ -1,12 +1,11 @@
 # Compilers
 
 LLVM - The **LLVM** compiler infrastructure project is a "collection of modular and reusable [compiler](https://en.wikipedia.org/wiki/Compiler) and [toolchain](https://en.wikipedia.org/wiki/Toolchain) technologies" used to develop compiler [front ends](https://en.wikipedia.org/wiki/Compiler#Front_end) and [back ends](https://en.wikipedia.org/wiki/Compiler#Back_end).
+
 LLVM is written in [C++](https://en.wikipedia.org/wiki/C%2B%2B) and is designed for [compile-time](https://en.wikipedia.org/wiki/Compile-time), [link-time](https://en.wikipedia.org/wiki/Link-time), [run-time](https://en.wikipedia.org/wiki/Run_time_(program_lifecycle_phase)), and "idle-time" optimization of programs written in arbitrary [programming languages](https://en.wikipedia.org/wiki/Programming_language).
 
 1. LLVM Intermediate Representation (IR)
-
 2. LLVM debugger
-
 3. LLVM representation of the C++ standard library
 
 ## Computer voting can never be safe - Medium
@@ -21,6 +20,10 @@ Using 4 compilers of different languages and sources to check each other's work
 
 - I'm a Computer Scientist. Here's why you should never trust a Computer (Especially when it comes to voting) - Medium blog by Ryan North
 - Fully Countering Trusting Trust through Diverse Double-Compiling by David A. Wheeler (MS, George Mason University)
+
+## Compiled vs Interpreted Language
+
+[Compiled vs Interpreted Programming Languages - C++, Rust, Go, Haskell, C#, Java, Python, Javascript - YouTube](https://www.youtube.com/watch?v=y6VvxGHCxa4&ab_channel=Finematics)
 
 ## Compiler
 
@@ -37,9 +40,9 @@ Unlike CFGs, PEGs cannot be [ambiguous](https://en.wikipedia.org/wiki/Ambiguous_
 
 ## Compilation JIT vs AOT
 
-## Just-In-time (JIT)compilation is the process of translating code written in a programming language to machine code at runtime (during a program or application's execution). At runtime, certain dynamic information is available, such as type identification. A JIT compiler monitors to detect functions or loops of code that are run multiple times. These pieces of code are then compiled. If they're quite commonly executed, JIT will optimize them and also store the optimized, compiled code for execution. Browsers use JIT compilation to run JavaScript
+**Just-In-time (JIT)** compilation is the process of translating code written in a programming language to machine code at runtime (during a program or application's execution). At runtime, certain dynamic information is available, such as type identification. A JIT compiler monitors to detect functions or loops of code that are run multiple times. These pieces of code are then compiled. If they're quite commonly executed, JIT will optimize them and also store the optimized, compiled code for execution. Browsers use JIT compilation to run JavaScript
 
-## Ahead-Of-Time (AOT)compilation is the process of translating code written in a programming language to machine code before execution (as opposed to at runtime). Doing so reduces runtime overhead and compiles all files together rather than separately
+**Ahead-Of-Time (AOT)** compilation is the process of translating code written in a programming language to machine code before execution (as opposed to at runtime). Doing so reduces runtime overhead and compiles all files together rather than separately
 
 Some benefits of AOT:
 
@@ -47,6 +50,7 @@ Some benefits of AOT:
 - Templates and styles are inlined with JS so fewer asynchronous calls.
 - Small download size, because the compiler need not to be download as the app is precompiled.
 - AOT also enables tree shaking.
+
 <https://github.com/jamiebuilds/the-super-tiny-compiler/blob/master/the-super-tiny-compiler.js>
 
 <https://www.toptal.com/scala/writing-an-interpreter>

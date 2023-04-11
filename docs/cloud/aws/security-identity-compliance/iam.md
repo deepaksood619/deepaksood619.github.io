@@ -182,3 +182,7 @@ When you use an IAM identity provider, you don't have to create custom sign-in c
 To use an IdP, you create an IAM identity provider entity to establish a trust relationship between your AWS account and the IdP. IAM supports IdPs that are compatible with [OpenID Connect (OIDC)](http://openid.net/connect/) or [SAML 2.0 (Security Assertion Markup Language 2.0)](https://wiki.oasis-open.org/security)
 
 <https://docs.aws.amazon.com/IAM/latest/UserGuide/id_roles_providers.html>
+
+## Others
+
+[The Next Evolution in AWS Single Sign-On | AWS News Blog](https://aws.amazon.com/blogs/aws/the-next-evolution-in-aws-single-sign-on/)

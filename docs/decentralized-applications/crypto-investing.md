@@ -35,32 +35,6 @@ Authentication with hardware wallets like the Grid+ Lattice1, Keystone, Ledger, 
 
 [Metamask Learn: Your guide to getting started in Web3](https://learn.metamask.io/lessons/what-is-a-crypto-wallet)
 
-## Crypto Exchanges (DEX) (Decentralized Exchange)
-
-- DEX Aggregators
-
-    DEX aggregators are the financial protocols which give traders/investors - an easy access to various trading pools using a single dashboard.
-
-[The Top Three Highest Ranking Crypto Websites on Alexa](https://medium.com/@BountyBase/the-top-three-highest-ranking-crypto-websites-on-alexa-2a0afb0dbe61)
-
-[Top Cryptocurrency Spot Exchanges](https://coinmarketcap.com/rankings/exchanges)
-
-The Top Three Highest Ranking Crypto Websites on Alexa
-
-- Binance.com (Global Ranking 210, US Rank 306)
-- Coinmarketcap.com (Global Rank 108, US Rank 131)
-- Coinbase.com (Global Rank 294, US Rank 209)
-- Crypto.com
-- Vauld (FDs)
-- Bitfinex (Exchange)
-- **Kraken** - [https://coinmarketcap.com/exchanges/kraken/](https://coinmarketcap.com/exchanges/kraken/)
-
-[Compare Crypto Exchanges In India](https://www.forbes.com/advisor/in/investing/cryptocurrency/best-crypto-exchange-in-india/)
-
-- CoinDCX
-- CoinSwitch Kuber
-- Wazirx
-
 ### Others
 
 - [Unocoin: Best Crypto Exchange in India](https://unocoin.com/in/)

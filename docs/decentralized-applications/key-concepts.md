@@ -24,6 +24,8 @@ On-chain metrics turn blockchain-based transaction data into actionable crypto m
 
 [On-Chain Analysis: How to Turn Blockchain Data Into Crypto Market Insights](https://www.coindesk.com/learn/what-is-crypto-on-chain-analysis-and-how-do-you-use-it/)
 
+[Cake DeFi - DefiLlama](https://defillama.com/cex/cake-defi)
+
 ## Total Value Locked (TVL)
 
 Тotal value locked represents the number of assets that are currently being staked in a specific protocol.

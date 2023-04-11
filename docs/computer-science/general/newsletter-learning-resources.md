@@ -113,6 +113,8 @@ Give tech talk - Learning + Note taking + Zettlekasten - Obsidian / Onenote + Do
 
 <https://github.com/EbookFoundation/free-programming-books>
 
+[PDF Drive - Search and download PDF files for free.](https://www.pdfdrive.com/)
+
 <https://github.com/sdmg15/Best-websites-a-programmer-should-visit>
 
 <https://gitstar-ranking.com/repositories>

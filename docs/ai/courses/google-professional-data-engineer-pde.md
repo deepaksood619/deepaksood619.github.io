@@ -1,10 +1,5 @@
 # Google Professional Data Engineer (PDE)
 
-## Questions
-
-- Not able to open shared documents - notes from other people taking exam
-- Taking PCA too apart from PDE
-
 ## Format
 
 50 multiple choice questions - 2h
@@ -45,3 +40,9 @@
 [FREE Google Cloud Professional Data Engineer Exam Questions](https://www.whizlabs.com/blog/google-cloud-professional-data-engineer-exam-questions/)
 
 [Professional Data Engineer Sample Questions](https://docs.google.com/forms/d/e/1FAIpQLSfkWEzBCP0wQ09ZuFm7G2_4qtkYbfmk_0getojdnPdCYmq37Q/viewscore?viewscore=AE0zAgAjzL6zgTcNGLRG9BscIBRY6H5VAj3YK4cCXwih6emszDthS_NeoES47s7iZ5J1BOM)
+
+[GIB SG Week 2: Building Batch Data Pipelines on Google Cloud - YouTube](https://www.youtube.com/watch?v=B6KNnXXNxgU&t=629s&ab_channel=GoogleCloudAPAC)
+
+[SEA G.I.B. | Week 3: Building Resilient Streaming Analytics Systems on Google Cloud - YouTube](https://www.youtube.com/watch?v=xNFQ6v1Yaz4&ab_channel=GoogleCloudAPAC)
+
+[SEA GIB Week 4: Smart Analytics, Machine Learning, and AI on Google Cloud - YouTube](https://www.youtube.com/watch?v=YcKiadfg4fg&t=1s&ab_channel=GoogleCloudAPAC)

@@ -61,6 +61,8 @@ If an actor receive a message it can do 3 things
 
 <https://www.youtube.com/watch?v=7erJ1DV_Tlo>
 
+[Actor Model Explained - YouTube](https://www.youtube.com/watch?v=ELwEdb_pD0k&ab_channel=Finematics)
+
 ## Multi-Tenancy
 
 Multi-tenancy is an architecture in which a single instance of a software application serves multiple customers. Each customer is called a tenant. Tenants may be given the ability to customize some parts of the application, such as color of the user interface ([UI](http://searchsoa.techtarget.com/definition/user-interface)) or [business rules](http://whatis.techtarget.com/definition/business-rule), but they cannot customize the application's [code](http://whatis.techtarget.com/definition/code).

@@ -21,7 +21,6 @@
 ## Two types of CPU architecture
 
 1. RISC Architecture
-
 2. CISC Architecture
 
 ## RISC & CISC Comparison
