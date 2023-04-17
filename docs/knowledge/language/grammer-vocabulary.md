@@ -176,3 +176,5 @@ As a general rule, "has" is used in the third person singular ("he", "she", "it"
 - Altruistic / Altruism
 - You are in for a hell of a ride
 - To Insure Promptitude (TIP)
+- BTFB - buy the fucking dip
+- BTFB - bounce the fuck back

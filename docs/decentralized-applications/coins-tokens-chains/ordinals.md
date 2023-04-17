@@ -21,3 +21,7 @@ Ordinals challenge the fungibility of Satoshis in the bitcoin network. All Satos
 But ordinals can alter the value of these units of money. Take rare collectible coins as an example: While a penny may have a face value of exactly one cent, its design and mint year could make it worth a dollar or more in the eyes of some beholders.
 
 Bitcoin is money, and that’s the largest and most important use case, impacting the most people in the world. Which is why I believe that Ordinals and other use cases both known today and yet to emerge will remain niche.
+
+### SADO (self-authenticating decentralized **(interplanetary)** ordinalbooks)
+
+[SADO](http://sado.space/)

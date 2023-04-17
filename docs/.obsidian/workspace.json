@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "office/cakedefi/todo.md",
+                "file": "devops/docker/service-configuration-reference.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "38dad55f72b0ee56",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ai/courses/customer-analytics-in-python/intro.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +60,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"aws s3 sync",
+                "query": "liquidity",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -93,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "office/cakedefi/todo.md",
+                "file": "devops/docker/service-configuration-reference.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "office/cakedefi/todo.md",
+                "file": "devops/docker/service-configuration-reference.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "office/cakedefi/todo.md"
+                "file": "devops/docker/service-configuration-reference.md"
               }
             }
           },
@@ -183,32 +195,32 @@
   },
   "active": "978fd2faf621af33",
   "lastOpenFiles": [
-    "technologies/apache/apache-spark/06-sliding-window-analytics.md",
-    "management/customer-engagement-cx.md",
-    "cloud/others/others-saas.md",
-    "cloud/aws/cli-commands.md",
-    "cloud/aws/storage/amazon-s3.md",
-    "office/cakedefi/todo.md",
-    "cloud/others/readme.md",
-    "cloud/others/firebase/automatic-collected-events.md",
-    "ai/libraries/tools.md",
-    "office/todo/todo-financial-investing.md",
-    "office/personality/movies-serials-apps.md",
-    "cloud/aws/security-identity-compliance/iam.md",
-    "cloud/aws/aws-sqs.md",
-    "office/other/my-infra.md",
+    "psychology/learning/course-learning-how-to-learn.md",
+    "decentralized-applications/liquidity-mining.md",
+    "about-me/faqs.md",
+    "about-me/readme.md",
+    "office/personality/about-me-adjectives.md",
+    "office/cakedefi/infra.md",
     "office/keep/deepak-banks.md",
-    "psychology/thinking-mental-models.md",
+    "office/cakedefi/todo.md",
+    "decentralized-applications/ethereum/layer-2-protocols.md",
+    "office/blocktoons/infra.md",
     "office/blocktoons/todo.md",
-    "office/todo/todo-tech-&-courses.md",
+    "office/keep/neha.md",
+    "office/blocktoons/people.md",
+    "office/personality/movies-serials-apps.md",
+    "office/other/my-infra.md",
+    "decentralized-applications/coins-tokens-chains/readme.md",
+    "decentralized-applications/coins-tokens-chains/ordinals.md",
     "devops/ides/youtube-podcasts-magazine-apps.md",
-    "computer-science/system-design/intro.md",
-    "devops/monitoring/metrics.md",
-    "databases/indexing/database-index.md",
-    "databases/indexing/mysql-indexing.md",
-    "databases/sql-databases/postgres/readme.md",
-    "databases/indexing/inverted-index.md",
-    "databases/indexing/intro.md",
+    "decentralized-applications/references-learning.md",
+    "decentralized-applications/crypto-investing.md",
+    "office/stashfin-credentials/internal-tech.md",
+    "office/stashfin-credentials/external-tech.md",
+    "frontend/frontend-intro/seo-aso.md",
+    "office/todo/todo-tech-&-courses.md",
+    "technologies/apache/databricks/04-workflow.md",
+    "decentralized-applications/key-concepts.md",
     "media/Technologies-Kafka-Intro-image1.jpg",
     "media/Technologies-Kafka-Intro-image2.jpg",
     "media/Screenshot 2023-04-03 at 9.02.03 AM.png",

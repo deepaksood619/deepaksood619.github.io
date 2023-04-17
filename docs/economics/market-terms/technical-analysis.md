@@ -381,7 +381,7 @@ Starting with the basics of the construction of the Fibonacci sequence, we also 
 
 It is believed that the Fibonacci ratios i.e 61.8%, 38.2%, and 23.6% finds its application in stock charts. Fibonacci analysis can be applied when there is a noticeable up-move or down-move in prices. Whenever the stock moves either upwards or downwards sharply, it usually tends to retrace back before its next move. For example if the stock has run up from Rs.50 to Rs.100, then it is likely to retrace back to probably Rs.70, before it can move Rs.120.
 
-## 'The retracement level forecast' is a technique using which one can identify upto which level retracement can happen. These retracement levels provide a good opportunity for the traders to enter new positions in the direction of the trend. The Fibonacci ratios i.e 61.8%, 38.2%, and 23.6% helps the trader to identify the possible extent of the retracement. The trader can use these levels to position himself for trade
+The retracement level forecast' is a technique using which one can identify upto which level retracement can happen. These retracement levels provide a good opportunity for the traders to enter new positions in the direction of the trend. The Fibonacci ratios i.e 61.8%, 38.2%, and 23.6% helps the trader to identify the possible extent of the retracement. The trader can use these levels to position himself for trade
 
 ## The Dow Theory (Part 1)
 

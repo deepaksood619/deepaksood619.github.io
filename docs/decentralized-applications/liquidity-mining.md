@@ -40,7 +40,12 @@ For example, if an LP provides liquidity to a pool containing equal amounts of E
 
 To mitigate volatility loss, LPs can choose to provide liquidity to pools containing less volatile assets or use strategies such as impermanent loss protection, which compensates LPs for any losses incurred due to volatility.
 
+[What Is IMPERMANENT LOSS? DEFI Explained - Uniswap, Curve, Balancer, Bancor - YouTube](https://www.youtube.com/watch?v=8XJ1MSTEuU0&ab_channel=Finematics)
+
 ## Links
 
 - [The 7 Most Frequently Asked Questions About Liquidity Mining](https://blog.defichain.com/the-7-most-frequently-asked-questions-about-liquidity-mining/)
 - [Impermanent Loss & other Liquidity Mining risks explained - Dr. Julian Hosp - The Blockchain Expert](https://julianhosp.com/impermanent-loss-other-liquidity-mining-risks-explained/?ref=defichain-blog)
+- [How do LIQUIDITY POOLS work? (Uniswap, Curve, Balancer) | DEFI Explained - YouTube](https://www.youtube.com/watch?v=cizLhxSKrAc&ab_channel=Finematics)
+- [What Is YIELD FARMING? DEFI Explained (Compound, Balancer, Curve, Synthetix, Ren) - YouTube](https://www.youtube.com/watch?v=ClnnLI1SClA&ab_channel=Finematics)
+- [What Is BANCOR V2? CHAINLINK Integration And Dynamic Automated Market Maker Explained | DEFI - YouTube](https://www.youtube.com/watch?v=bWBfLArJsFk&ab_channel=Finematics)

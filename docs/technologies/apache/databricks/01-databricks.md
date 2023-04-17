@@ -24,10 +24,6 @@ Unity Catalog is a unified governance solution for all data and AI assets includ
 [Work with Unity Catalog and the legacy Hive metastore - Azure Databricks | Microsoft Learn](https://learn.microsoft.com/en-us/azure/databricks/data-governance/unity-catalog/hive-metastore)
 [Upgrade Your Objects in Hive Metastore to Unity Catalog - The Databricks Blog](https://www.databricks.com/blog/2022/11/03/how-seamlessly-upgrade-your-hive-metastore-objects-unity-catalog-metastore-using)
 
-## Workflows
-
-[Create, run, and manage Databricks Jobs | Databricks on AWS](https://docs.databricks.com/workflows/jobs/jobs.html)
-
 ## Databricks SQL (DB SQL)
 
 Databricks SQL (DB SQL) is a serverless data warehouse on the Databricks Lakehouse Platform that lets you run all your SQL and BI applications at scale with up to 12x better price/performance, a unified governance model, open formats and APIs, and your tools of choice – no lock-in.

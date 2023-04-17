@@ -335,3 +335,5 @@ Marketing tactic used, light the agarbatti in-front of store and left for 2 days
 [Why Elon Musk is WRONG about TWITTER and FREE speech? : Business Case Study](https://www.youtube.com/watch?v=nPrVYCtJfgQ)
 
 [Hindenburg has Killed Adani Group?: Decoding Adani’s response to Hindenburg (Business case study)](https://www.youtube.com/watch?v=4WSAeT_XDaI)
+
+[How TATA’s GENIUS strategy is turning TATA Tech into a LEGEND? : Tata technologies case study - YouTube](https://www.youtube.com/watch?v=BlDYS_2X5wI&ab_channel=ThinkSchool)

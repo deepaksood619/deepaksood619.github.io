@@ -34,15 +34,15 @@ The Top Three Highest Ranking Crypto Websites on Alexa
 
 Uniswap v3 introduces:
 
--   **Concentrated liquidity,** giving individual LPs granular control over what price ranges their capital is allocated to. Individual positions are aggregated together into a single pool, forming one combined curve for users to trade against
--   **Multiple fee tiers** , allowing LPs to be appropriately compensated for taking on varying degrees of risk
+- **Concentrated liquidity,** giving individual LPs granular control over what price ranges their capital is allocated to. Individual positions are aggregated together into a single pool, forming one combined curve for users to trade against
+- **Multiple fee tiers** , allowing LPs to be appropriately compensated for taking on varying degrees of risk
 
 These features make Uniswap v3 **the most flexible and efficient AMM ever designed**:
 
--   LPs can provide liquidity with **up to 4000x capital efficiency** relative to Uniswap v2, earning **higher returns on their capital**
--   Capital efficiency paves the way for low-slippage **trade execution that can surpass both centralized exchanges and stablecoin-focused AMMs**
--   LPs can significantly **increase their exposure to preferred assets** and **reduce their downside risk**
--   LPs can sell one asset for another by adding liquidity to a price range entirely above or below the market price, approximating **a fee-earning limit order that executes along a smooth curve**
+- LPs can provide liquidity with **up to 4000x capital efficiency** relative to Uniswap v2, earning **higher returns on their capital**
+- Capital efficiency paves the way for low-slippage **trade execution that can surpass both centralized exchanges and stablecoin-focused AMMs**
+- LPs can significantly **increase their exposure to preferred assets** and **reduce their downside risk**
+- LPs can sell one asset for another by adding liquidity to a price range entirely above or below the market price, approximating **a fee-earning limit order that executes along a smooth curve**
 
 Uniswap's **oracles are now far easier and cheaper to integrate**. V3 oracles are capable of providing time-weighted average prices (TWAPs) on demand for any period within the last ~9 days. This removes the need for integrators to checkpoint historical values.
 

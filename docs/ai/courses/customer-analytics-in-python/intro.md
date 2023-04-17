@@ -1,5 +1,7 @@
 # Intro
 
+[What is Product Analytics? Your Ultimate Guide | FullStory](https://www.fullstory.com/product-analytics/)
+
 ## Fundamental marketing theory
 
 - STP - Segmentation, Targeting, Positioning

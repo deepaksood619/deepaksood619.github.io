@@ -41,11 +41,13 @@ Authentication with hardware wallets like the Grid+ Lattice1, Keystone, Ledger, 
 - [Home | PancakeSwap](https://pancakeswap.finance/)
   - Trade, earn, and win crypto on the most popular decentralized platform in the galaxy.
 - [Guide to DUSD: Earn Negative Interest of Up to -66.6% on DUSD](https://blog.defichain.com/earn-returns-with-negative-interest-rates/)
-- [Liquid Staking for Digital Assets](https://lido.fi/)
+- [Lido | Liquid Staking for Digital Assets](https://lido.fi/)
 - [RBX: The pinnacle of decentralized finance apps. Defi 2.0](https://rbxdefi.com/)
 - [Zilliqa | Build your future with our native token](https://www.zilliqa.com/what-is-zil)
 - Lending - [PeerHive | Revolutionizing Decentralized P2P Lending Experience](https://peerhive.app/)
 - Defi - [Ether Fi App](https://www.mainnet.ether.fi/)
+- [Pool - Curve](https://curve.fi/#/ethereum/pools/steth/deposit/)
+- [Balancer DeFi Liquidity Pools on Ethereum Mainnet](https://app.balancer.fi/#/ethereum)
 
 ![ranks-of-bitcoin-holders](../media/Screenshot%202023-04-03%20at%209.02.03%20AM.png)
 

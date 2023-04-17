@@ -34,3 +34,7 @@ Several rollup solutions are already live or in the process of being implemented
  [Optimism](https://www.optimism.io/)
 
 [The TRUTH About DEFI - YouTube](https://www.youtube.com/watch?v=Ia0DVfRJKy8)
+
+## Links
+
+[Blockchain Layers Explained: Best Blockchain Layers 1, 2, 3, and 0 Explainer video | Jude - YouTube](https://www.youtube.com/watch?v=u2avJ_ctsKM&ab_channel=JudeUmeano)

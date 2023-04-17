@@ -16,18 +16,18 @@ Key Chunks discussed in the course from which you can recall whole course
 
 ### Chunking - The Essentials
 
-1. How to create chunks
+#### How to create chunks
 
 1. Focused Attention
 2. Understanding
 3. Practice
 
-2. Types of chunking
+#### Types of chunking
 
 1. Bottom up chunking
 2. Top down chunking
 
-3. Illusion of competence
+#### Illusion of competence
 
 1. Recalling
 2. Retrieval
@@ -35,34 +35,34 @@ Key Chunks discussed in the course from which you can recall whole course
 4. Highlighting
 5. Referencing
 
-### Seeing the Bigger Picture
-
-1. Neuromodulators
+#### Neuromodulators
 
 1. Acetylcholine (focused learning and attention)
 2. Dopamine (unexpected rewards)
 3. Serotonin (social life and risk taking behavior)
 4. Noradrenaline
 
-2. Overlearning
-3. Choking
-4. Einstellung (Blocking of creation of new concepts because of older concepts)
-5. Interleaving
-6. Transfer learning
-7. Deliberate Practice
+### Seeing the Bigger Picture
+
+1. Overlearning
+2. Choking
+3. Einstellung (Blocking of creation of new concepts because of older concepts)
+4. Interleaving
+5. Transfer learning
+6. Deliberate Practice
 
 ### Procrastination
 
 1. Will power
-2. (Reminder / Routine / Reward)
+2. Process vs Product
+3. Juggling life and learning
+
+#### (Reminder / Routine / Reward)
 
 1. The cue
 2. The routine
 3. The reward
 4. The belief
-
-3. Process vs Product
-4. Juggling life and learning
 
 ### Memory
 
@@ -71,6 +71,8 @@ Key Chunks discussed in the course from which you can recall whole course
 3. Index cards
 4. Meaningful groups
 5. Reconsolidation
+
+#### Retention
 
 1. Consolidation (Move a chunk from STM to LTM)
 2. Reactivation (from LTM to Working Memory / STM)

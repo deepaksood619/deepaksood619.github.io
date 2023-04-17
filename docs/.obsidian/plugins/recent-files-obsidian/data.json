@@ -1,204 +1,204 @@
 {
   "recentFiles": [
     {
-      "basename": "todo",
-      "path": "office/cakedefi/todo.md"
+      "basename": "service-configuration-reference",
+      "path": "devops/docker/service-configuration-reference.md"
     },
     {
-      "basename": "06-sliding-window-analytics",
-      "path": "technologies/apache/apache-spark/06-sliding-window-analytics.md"
+      "basename": "course-learning-how-to-learn",
+      "path": "psychology/learning/course-learning-how-to-learn.md"
     },
     {
-      "basename": "customer-engagement-cx",
-      "path": "management/customer-engagement-cx.md"
+      "basename": "liquidity-mining",
+      "path": "decentralized-applications/liquidity-mining.md"
     },
     {
-      "basename": "others-saas",
-      "path": "cloud/others/others-saas.md"
-    },
-    {
-      "basename": "cli-commands",
-      "path": "cloud/aws/cli-commands.md"
-    },
-    {
-      "basename": "amazon-s3",
-      "path": "cloud/aws/storage/amazon-s3.md"
+      "basename": "faqs",
+      "path": "about-me/faqs.md"
     },
     {
       "basename": "readme",
-      "path": "cloud/others/readme.md"
+      "path": "about-me/readme.md"
     },
     {
-      "basename": "automatic-collected-events",
-      "path": "cloud/others/firebase/automatic-collected-events.md"
+      "basename": "about-me-adjectives",
+      "path": "office/personality/about-me-adjectives.md"
     },
     {
-      "basename": "tools",
-      "path": "ai/libraries/tools.md"
-    },
-    {
-      "basename": "todo-financial-investing",
-      "path": "office/todo/todo-financial-investing.md"
-    },
-    {
-      "basename": "movies-serials-apps",
-      "path": "office/personality/movies-serials-apps.md"
-    },
-    {
-      "basename": "iam",
-      "path": "cloud/aws/security-identity-compliance/iam.md"
-    },
-    {
-      "basename": "aws-sqs",
-      "path": "cloud/aws/aws-sqs.md"
-    },
-    {
-      "basename": "my-infra",
-      "path": "office/other/my-infra.md"
+      "basename": "infra",
+      "path": "office/cakedefi/infra.md"
     },
     {
       "basename": "deepak-banks",
       "path": "office/keep/deepak-banks.md"
     },
     {
-      "basename": "thinking-mental-models",
-      "path": "psychology/thinking-mental-models.md"
+      "basename": "todo",
+      "path": "office/cakedefi/todo.md"
+    },
+    {
+      "basename": "layer-2-protocols",
+      "path": "decentralized-applications/ethereum/layer-2-protocols.md"
+    },
+    {
+      "basename": "infra",
+      "path": "office/blocktoons/infra.md"
     },
     {
       "basename": "todo",
       "path": "office/blocktoons/todo.md"
     },
     {
-      "basename": "todo-tech-&-courses",
-      "path": "office/todo/todo-tech-&-courses.md"
+      "basename": "neha",
+      "path": "office/keep/neha.md"
+    },
+    {
+      "basename": "people",
+      "path": "office/blocktoons/people.md"
+    },
+    {
+      "basename": "movies-serials-apps",
+      "path": "office/personality/movies-serials-apps.md"
+    },
+    {
+      "basename": "my-infra",
+      "path": "office/other/my-infra.md"
+    },
+    {
+      "basename": "readme",
+      "path": "decentralized-applications/coins-tokens-chains/readme.md"
+    },
+    {
+      "basename": "ordinals",
+      "path": "decentralized-applications/coins-tokens-chains/ordinals.md"
     },
     {
       "basename": "youtube-podcasts-magazine-apps",
       "path": "devops/ides/youtube-podcasts-magazine-apps.md"
     },
     {
-      "basename": "intro",
-      "path": "computer-science/system-design/intro.md"
+      "basename": "references-learning",
+      "path": "decentralized-applications/references-learning.md"
     },
     {
-      "basename": "metrics",
-      "path": "devops/monitoring/metrics.md"
+      "basename": "crypto-investing",
+      "path": "decentralized-applications/crypto-investing.md"
     },
     {
-      "basename": "database-index",
-      "path": "databases/indexing/database-index.md"
+      "basename": "internal-tech",
+      "path": "office/stashfin-credentials/internal-tech.md"
     },
     {
-      "basename": "mysql-indexing",
-      "path": "databases/indexing/mysql-indexing.md"
+      "basename": "external-tech",
+      "path": "office/stashfin-credentials/external-tech.md"
     },
     {
-      "basename": "readme",
-      "path": "databases/sql-databases/postgres/readme.md"
+      "basename": "seo-aso",
+      "path": "frontend/frontend-intro/seo-aso.md"
     },
     {
-      "basename": "inverted-index",
-      "path": "databases/indexing/inverted-index.md"
+      "basename": "todo-tech-&-courses",
+      "path": "office/todo/todo-tech-&-courses.md"
     },
     {
-      "basename": "intro",
-      "path": "databases/indexing/intro.md"
+      "basename": "04-workflow",
+      "path": "technologies/apache/databricks/04-workflow.md"
     },
     {
-      "basename": "readme",
-      "path": "databases/indexing/readme.md"
+      "basename": "key-concepts",
+      "path": "decentralized-applications/key-concepts.md"
     },
     {
-      "basename": "google-professional-data-engineer-pde",
-      "path": "ai/courses/google-professional-data-engineer-pde.md"
+      "basename": "01-databricks",
+      "path": "technologies/apache/databricks/01-databricks.md"
     },
     {
-      "basename": "01-intro-to-ethereum",
-      "path": "decentralized-applications/ethereum/01-intro-to-ethereum.md"
+      "basename": "09-dataframe",
+      "path": "technologies/apache/apache-spark/09-dataframe.md"
     },
     {
-      "basename": "03-intro-to-dapps",
-      "path": "decentralized-applications/ethereum/03-intro-to-dapps.md"
+      "basename": "08-examples",
+      "path": "technologies/apache/apache-spark/08-examples.md"
     },
     {
-      "basename": "intro",
-      "path": "decentralized-applications/intro.md"
+      "basename": "architecture",
+      "path": "office/cakedefi/architecture.md"
     },
     {
-      "basename": "readme",
-      "path": "decentralized-applications/ethereum/readme.md"
-    },
-    {
-      "basename": "bitcoin",
-      "path": "decentralized-applications/coins-tokens-chains/bitcoin.md"
-    },
-    {
-      "basename": "tcp-ip",
-      "path": "networking/networking-concepts/tcp-ip.md"
-    },
-    {
-      "basename": "readme",
-      "path": "networking/protocols/tcp-connection-oriented-protocol/readme.md"
-    },
-    {
-      "basename": "flow-control",
-      "path": "networking/protocols/tcp-connection-oriented-protocol/flow-control.md"
-    },
-    {
-      "basename": "udp",
-      "path": "networking/protocols/udp.md"
-    },
-    {
-      "basename": "others",
-      "path": "computer-science/distributed-system/others.md"
+      "basename": "product",
+      "path": "office/cakedefi/product.md"
     },
     {
       "basename": "intro",
-      "path": "technologies/kafka/intro.md"
+      "path": "ai/courses/customer-analytics-in-python/intro.md"
     },
     {
-      "basename": "Technologies-Kafka-Intro-image2",
-      "path": "media/Technologies-Kafka-Intro-image2.jpg"
+      "basename": "syllabus",
+      "path": "ai/courses/customer-analytics-in-python/syllabus.md"
     },
     {
-      "basename": "compilers",
-      "path": "computer-science/operating-system/compilers.md"
+      "basename": "retail-offline-sales",
+      "path": "management/product-management/retail-offline-sales.md"
     },
     {
-      "basename": "general",
-      "path": "languages/others/general.md"
-    },
-    {
-      "basename": "scheduling",
-      "path": "computer-science/operating-system/scheduling.md"
-    },
-    {
-      "basename": "parallel-processing",
-      "path": "computer-science/operating-system/parallel-processing.md"
-    },
-    {
-      "basename": "microprocessor",
-      "path": "computer-science/operating-system/microprocessor.md"
-    },
-    {
-      "basename": "memory-mapping-mmap",
-      "path": "computer-science/operating-system/memory-mapping-mmap.md"
-    },
-    {
-      "basename": "raid",
-      "path": "computer-science/operating-system/raid.md"
-    },
-    {
-      "basename": "concepts",
-      "path": "computer-science/operating-system/concepts.md"
-    },
-    {
-      "basename": "others",
-      "path": "computer-science/general/others.md"
+      "basename": "business-case-studies",
+      "path": "management/business/business-case-studies.md"
     },
     {
       "basename": "readme",
-      "path": "computer-science/general/readme.md"
+      "path": "management/business/readme.md"
+    },
+    {
+      "basename": "indian-market",
+      "path": "management/business/indian-market.md"
+    },
+    {
+      "basename": "business-terms",
+      "path": "management/business/business-terms.md"
+    },
+    {
+      "basename": "intro",
+      "path": "devops/monitoring/prometheus/intro.md"
+    },
+    {
+      "basename": "readme",
+      "path": "management/readme.md"
+    },
+    {
+      "basename": "others-saas",
+      "path": "cloud/others/others-saas.md"
+    },
+    {
+      "basename": "dual-token-economy",
+      "path": "decentralized-applications/dual-token-economy.md"
+    },
+    {
+      "basename": "defi",
+      "path": "decentralized-applications/defi.md"
+    },
+    {
+      "basename": "readme",
+      "path": "management/decision-making/readme.md"
+    },
+    {
+      "basename": "grammer-vocabulary",
+      "path": "knowledge/language/grammer-vocabulary.md"
+    },
+    {
+      "basename": "readme",
+      "path": "frontend/others/nodejs/readme.md"
+    },
+    {
+      "basename": "aws-lambda",
+      "path": "cloud/aws/compute/aws-lambda.md"
+    },
+    {
+      "basename": "obsidian",
+      "path": "devops/ides/obsidian.md"
+    },
+    {
+      "basename": "functions",
+      "path": "languages/sql/functions.md"
     }
   ],
   "omittedPaths": [],

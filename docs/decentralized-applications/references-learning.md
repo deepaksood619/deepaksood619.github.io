@@ -11,6 +11,7 @@
 - [ETH.BUILD - YouTube](https://www.youtube.com/playlist?list=PLJz1HruEnenCXH7KW7wBCEBnBLOVkiqIi)
 - [The Complete Beginner's Crypto Crash Course](https://www.youtube.com/playlist?list=PLU52pNodXIGdM6XDgHVG7DsPytlsrR_6b)
 - **Finematics**
+- Jude Umeano
 - [CS120: Bitcoin for Developers I | Saylor Academy](https://learn.saylor.org/course/view.php?id=500)
 
 ### Youtube Crypto News

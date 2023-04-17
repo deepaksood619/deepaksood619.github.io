@@ -12,6 +12,8 @@ The goal isn't to make the 'perfect' decision about money every time, but to do 
 
 No HIPPOs (Highest Paid Person's Opinion)
 
+Let’s dream big. Plan diligently. Execute relentlessly.
+
 ## The ABCDs of categorizing decisions
 
 - **Ad hoc decisions** - Infrequent, low-stakes

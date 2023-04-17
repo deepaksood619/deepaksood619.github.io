@@ -106,5 +106,13 @@
     }
   ],
   "editor:save-file": [],
-  "insert-current-date": []
+  "insert-current-date": [],
+  "nldates-obsidian:nlp-today": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "Y"
+    }
+  ]
 }

@@ -39,6 +39,17 @@ diff_df.display()
 
 result_df = df.where(df["id"].isin(['5edc8f7d-0036-4910-84c4-48d46f7eeb04']))
 result_df.display()
+result_df.head()
+
+# group by
+df1.groupBy(F.date_format('updatedAt','yyyy-MM-dd').alias('day')).count().display()
+
+# filter
+df2 = df1.filter((df1.updatedAt >= "2023-04-05"))
+df3 = df2.filter(df.amount.isNotNull())
+
+# select
+df1.select('amount').groupby('amount').count().display()
 ```
 
 ## Spark DataFrame vs Pandas DataFrame

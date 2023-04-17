@@ -26,6 +26,8 @@ On-chain metrics turn blockchain-based transaction data into actionable crypto m
 
 [Cake DeFi - DefiLlama](https://defillama.com/cex/cake-defi)
 
+[Nansen - Crypto, DeFi & NFT Analytics](https://www.nansen.ai/)
+
 ## Total Value Locked (TVL)
 
 Тotal value locked represents the number of assets that are currently being staked in a specific protocol.

@@ -48,3 +48,7 @@ In principle shares are used to increase the supply of coins when the price of c
 
 - Expansion
 - Contraction
+
+## Others
+
+[How Does AMPLEFORTH Work? DEFI Explained - YouTube](https://www.youtube.com/watch?v=e-8yjmsshFg&ab_channel=Finematics)

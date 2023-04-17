@@ -53,6 +53,22 @@ You can add npm to a project simply by using the "npm init" command. When you ru
 | It records important metadata about the project. | It allows future devs to install the same dependencies in the project. |
 | It contains information such as name, description, author, script, and dependencies. | It contains the name, dependencies, and locked version of the project. |
 
+## Internals
+
+How NodeJS keep I/O non-blocking
+
+#### Socket I/O
+
+These are your sockets listeners, readers or writes, your fetch, your axis, HTTP, TCP or UDP server. Any socket I/O is done on the main thread but only when socket is ready. Main thread is never block waiting.
+
+#### File I/O
+
+Read and writes to files on disk are blocking in most os, so node can't perform those on the main thread. So it spins up a worker thread to do the file read or write. Main thread remains unblocked while the thread is blocked.
+
+#### DNS
+
+Subtle dns queries are done all the time to resolve domains through the blocking lookup function, same as file io, Node spins up a thread and let it be block, keeping the main thread unblocked.
+
 ## References
 
 <https://en.wikipedia.org/wiki/Node.js>

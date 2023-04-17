@@ -53,7 +53,7 @@ Extensions that helps make obsidian better
 | Jump into selected backlink | `Alt/Opt-Enter`               |
 | Navigate forward            | `cmd+ctrl + ->`               |
 | Naviagte back               | `cmd+ctrl + <-`               |
-| Add current date            | Insert current date (cmd + c) |
+| Add current date            | Insert current date (cmd + y) |
 | Add checkbox                | `cmd + L`                     |
 | Delete the line                            |    `cmd + D`                           |
 

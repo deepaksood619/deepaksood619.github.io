@@ -43,3 +43,5 @@ def lambda_handler(event, context):
     response = urlopen(request)
     return {"statusCode": response.getcode(), "body": response.read().decode()}
 ```
+
+[AWS Serverless Lambda Supports Response Streaming - YouTube](https://www.youtube.com/watch?v=iwX9dYrcL1k&ab_channel=HusseinNasser)

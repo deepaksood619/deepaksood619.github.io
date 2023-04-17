@@ -159,6 +159,10 @@ Urchin Tracking Module(UTM)parametersare five variants of [URL parameters](https
 | utm_term | Identifies search terms. Identify paid search keywords. If you're manually tagging paid keyword campaigns, you should also use utm_term to specify the keyword. | utm_term=running+shoes |
 | utm_content | Identifies what specifically was clicked to bring the user to the site, such as abanner ador atext link. It is often used for A/B testing and content-targeted ads. Used to differentiate similar content, or links within the same ad. For example, if you have two call-to-action links within the same email message, you can use utm_content and set different values for each so you can tell which version is more effective. | utm_content=logolinkor utm_content=textlink |
 
+**Examples**
+
+- `?utm_campaign=shanghaiupgrade_12apr23&utm_medium=social&utm_source=twitter`
+
 <https://en.wikipedia.org/wiki/UTM_parameters>
 
 <https://neilpatel.com/blog/the-ultimate-guide-to-using-utm-parameters>

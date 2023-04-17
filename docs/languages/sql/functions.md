@@ -52,7 +52,7 @@
 | CEILING | Returns the smallest integer value that is `>`= to a number |
 | COS | Returns the cosine of a number |
 | COT | Returns the cotangent of a number |
-| COUNT | Returns the number of records returned by a select query. For MyISAM the total row count is stored for each table soSELECT COUNT(*) FROM yourtableis an operation O(1). It just needs to read this value. For InnoDB the total row count is not stored so a full scan is required. This is an O(n) operation. InnoDBdoes not keep an internal count of rows in a table. (In practice, this would be somewhat complicated due to multi-versioning.) To process aSELECT COUNT(*) FROM tstatement, InnoDBmust scan an index of the table, which takes some time if the index is not entirely in the buffer pool. If your table does not change often, using the MySQL query cache is a good solution. To get a fast count, you have to use a counter table you create yourself and let your application update it according to the inserts and deletes it does.SHOW TABLE STATUSalso can be used if an approximate row count is sufficient. <https://stackoverflow.com/questions/5257973/mysql-complexity-of-select-count-from-mytable> |
+| COUNT | Returns the number of records returned by a select query. For MyISAM the total row count is stored for each table so `SELECT COUNT(*) FROM yourtable` is an operation `O(1)`. It just needs to read this value. For InnoDB the total row count is not stored so a full scan is required. This is an O(n) operation. InnoDBdoes not keep an internal count of rows in a table. (In practice, this would be somewhat complicated due to multi-versioning.) To process a `SELECT COUNT(*) FROM tstatement`, InnoDB must scan an index of the table, which takes some time if the index is not entirely in the buffer pool. If your table does not change often, using the MySQL query cache is a good solution. To get a fast count, you have to use a counter table you create yourself and let your application update it according to the inserts and deletes it does. `SHOW TABLE STATUS` also can be used if an approximate row count is sufficient. <https://stackoverflow.com/questions/5257973/mysql-complexity-of-select-count-from-mytable> |
 | DEGREES | Converts a value in radians to degrees |
 | DIV | Used for integer division |
 | EXP | Returns e raised to the power of a specified number |
@@ -192,6 +192,11 @@
 | [VAR_POP()](https://dev.mysql.com/doc/refman/8.0/en/aggregate-functions.html#function_var-pop) | Return the population standard variance |
 | [VAR_SAMP()](https://dev.mysql.com/doc/refman/8.0/en/aggregate-functions.html#function_var-samp) | Return the sample variance |
 | [VARIANCE()](https://dev.mysql.com/doc/refman/8.0/en/aggregate-functions.html#function_variance) | Return the population standard variance |
+
+## Others
+
+- `NVL(e1, e2)` - The `NVL()` function accepts two arguments. If `e1` evaluates to null, then `NVL()` function returns `e2`. If `e1` evaluates to non-null, the `NVL()` function returns `e1`.  [Oracle NVL() Function By Practical Examples](https://www.oracletutorial.com/oracle-comparison-functions/oracle-nvl/)
+- The `COALESCE()` function evaluates its argument in order and stops evaluation when it can determine the result i.e., when it can find the first non-NULL argument. This feature is known as short-circuit evaluation. In contrast, the `NVL()` function evaluates all of its arguments to determine the result.
 
 ## Window Functions
 

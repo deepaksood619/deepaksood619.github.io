@@ -1,62 +1,46 @@
 # Service Configuration Reference
 
-1. build
+## build - Configuration options that are applied at build time
 
-Configuration options that are applied at build time.
+1. context - Either a path to a directory containing a Dockerfile, or a url to a git repository
 
-1. context
+2. dockerfile - Alternate Dockerfile
 
-Either a path to a directory containing a Dockerfile, or a url to a git repository
+3. args - Add build arguments, which are environment variables accessible only during the build process
 
-2. dockerfile
+4. cache_from - A list of images that the engine uses for cache resolution
 
-Alternate Dockerfile
+5. labels - Add metadata to the resulting image using [Docker labels](https://docs.docker.com/engine/userguide/labels-custom-metadata/). You can use either an array or a dictionary.
 
-3. args
+6. shm_size - Set the size of the/dev/shmpartition for this build's containers. Specify as an integer value representing the number of bytes or as a string expressing a [byte value](https://docs.docker.com/compose/compose-file/#specifying-byte-values).
 
-Add build arguments, which are environment variables accessible only during the build process
+7. target - Build the specified stage as defined inside theDockerfile
 
-4. cache_from
-
-A list of images that the engine uses for cache resolution
-
-5. labels
-
-Add metadata to the resulting image using [Docker labels](https://docs.docker.com/engine/userguide/labels-custom-metadata/). You can use either an array or a dictionary.
-
-6. shm_size
-
-Set the size of the/dev/shmpartition for this build's containers. Specify as an integer value representing the number of bytes or as a string expressing a [byte value](https://docs.docker.com/compose/compose-file/#specifying-byte-values).
-
-7. target
-
-Build the specified stage as defined inside theDockerfile
-
-2. cap_add, cap_drop
+## cap_add, cap_drop
 
 Add or drop container capabilities
 
-3. command
+## command
 
 Override the default command.
 
-4. configs
+## configs
 
 Grant access to configs on a per-service basis using the per-serviceconfigsconfiguration.
 
-5. cgroup_parent
+## cgroup_parent
 
 Specify an optional parent cgroup for the container.
 
-6. container_name
+## container_name
 
 Specify a custom container name, rather than a generated default name.
 
-7. credential_spec
+## credential_spec
 
 Configure the credential spec for managed service account.
 
-8. deploy
+## deploy
 
 Specify configuration related to the deployment and running of services. This only takes effect when deploying to a [swarm](https://docs.docker.com/engine/swarm/) with [docker stack deploy](https://docs.docker.com/engine/reference/commandline/stack_deploy/), and is ignored bydocker-compose upanddocker-compose run.
 
@@ -110,47 +94,49 @@ Configures if and how to restart containers when they exit. Replaces [restart](h
 
 10. update_config
 
-9. devices
-10. depends_on
-11. dns
-12. dns_search
-13. tmpfs
-14. entrypoint
-15. env_file
-16. environment
-17. expose
-18. external_links
-19. extra_hosts
-20. healthcheck
-21. image
-22. init
-23. isolation
-24. labels
-25. links
-26. logging
-27. network_mode
-28. networks
+## Others
+
+1. devices
+2. depends_on
+3. dns
+4. dns_search
+5. tmpfs
+6. entrypoint
+7. env_file
+8. environment
+9. expose
+10. external_links
+11. extra_hosts
+12. healthcheck
+13. image
+14. init
+15. isolation
+16. labels
+17. links
+18. logging
+19. network_mode
+20. networks
 
     - aliases
     - ipv4, ipv6 addresses
 
-29. pid
-30. ports
-31. secrets
-32. security_opt
-33. stop_grace_period
-34. stop_signal
-35. sysctls
+21. pid
+22. ports
+23. secrets
+24. security_opt
+25. stop_grace_period
+26. stop_signal
+27. sysctls
 
     sysctls:
     net.core.somaxconn: 1024
     net.ipv4.tcp_syncookies: 0
 
-36. ulimits
-37. userns_mode
-38. volumes
-39. restart
-40. domainname, hostname, ipc, mac_address, privileged, read_only, shm_size, stdin_open, tty, user, working_dir
+28. ulimits
+29. userns_mode
+30. volumes
+31. restart
+32. domainname, hostname, ipc, mac_address, privileged, read_only, shm_size, stdin_open, tty, user, working_dir
 
 Not supported for docker stack deploy
 
