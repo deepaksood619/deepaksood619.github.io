@@ -8,24 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d7c2565e8ceb4f8f",
+            "id": "77b5a48bcfe8b9cc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "devops/docker/service-configuration-reference.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "38dad55f72b0ee56",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ai/courses/customer-analytics-in-python/intro.md",
+                "file": "networking/protocols/udp.md",
                 "mode": "source",
                 "source": false
               }
@@ -60,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "liquidity",
+                "query": "summary-unit-6",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -84,6 +72,14 @@
               "type": "recent-files",
               "state": {}
             }
+          },
+          {
+            "id": "bd18a4b6c2a58975",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ]
       }
@@ -105,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "devops/docker/service-configuration-reference.md",
+                "file": "networking/protocols/udp.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "devops/docker/service-configuration-reference.md",
+                "file": "networking/protocols/udp.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "devops/docker/service-configuration-reference.md"
+                "file": "networking/protocols/udp.md"
               }
             }
           },
@@ -193,44 +189,44 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "978fd2faf621af33",
+  "active": "77b5a48bcfe8b9cc",
   "lastOpenFiles": [
-    "psychology/learning/course-learning-how-to-learn.md",
-    "decentralized-applications/liquidity-mining.md",
-    "about-me/faqs.md",
-    "about-me/readme.md",
-    "office/personality/about-me-adjectives.md",
-    "office/cakedefi/infra.md",
-    "office/keep/deepak-banks.md",
-    "office/cakedefi/todo.md",
-    "decentralized-applications/ethereum/layer-2-protocols.md",
-    "office/blocktoons/infra.md",
-    "office/blocktoons/todo.md",
-    "office/keep/neha.md",
-    "office/blocktoons/people.md",
-    "office/personality/movies-serials-apps.md",
-    "office/other/my-infra.md",
-    "decentralized-applications/coins-tokens-chains/readme.md",
-    "decentralized-applications/coins-tokens-chains/ordinals.md",
-    "devops/ides/youtube-podcasts-magazine-apps.md",
-    "decentralized-applications/references-learning.md",
-    "decentralized-applications/crypto-investing.md",
-    "office/stashfin-credentials/internal-tech.md",
-    "office/stashfin-credentials/external-tech.md",
-    "frontend/frontend-intro/seo-aso.md",
-    "office/todo/todo-tech-&-courses.md",
-    "technologies/apache/databricks/04-workflow.md",
-    "decentralized-applications/key-concepts.md",
-    "media/Technologies-Kafka-Intro-image1.jpg",
-    "media/Technologies-Kafka-Intro-image2.jpg",
-    "media/Screenshot 2023-04-03 at 9.02.03 AM.png",
-    "media/Pasted image 20230330190444.png",
-    "office/media/Pasted image 20230330190444.png",
-    "media/Project-Management_Agile-image7.jpg",
-    "media/Pasted image 20230402125553.png",
-    "media/IMG_2688.jpg",
-    "media/Pasted image 20230327111131.png",
-    "media/Pasted image 20230327111057.png",
+    "cloud/aws/compute/readme.md",
+    "mathematics/probability/intro-to-probability/unit-3-solved-problems.md",
+    "mathematics/probability/intro-to-probability/unit-2-solved-problems.md",
+    "mathematics/probability/intro-to-probability/unit-1-solved-problems.md",
+    "mathematics/probability/intro-to-probability/summary-unit-6.md",
+    "mathematics/probability/intro-to-probability/summary-unit-5.md",
+    "mathematics/probability/intro-to-probability/readme.md",
+    "mathematics/probability/intro-to-probability/summary-unit-4.md",
+    "mathematics/probability/intro-to-probability/intro-syllabus.md",
+    "mathematics/probability/intro-to-probability/additional-theoretical-material.md",
+    "mathematics/probability/intro-to-probability/additional-theoretical-material-1.md",
+    "mathematics/probability/intro-to-probability/14.-intro-to-bayesian-inference.md",
+    "mathematics/probability/intro-to-probability/13.-conditional-expectation-and-variance-revisited.md",
+    "mathematics/probability/intro-to-probability/12.-sums-of-independent-rv-covariance-and-correlation.md",
+    "mathematics/probability/intro-to-probability/11.-derived-distributions.md",
+    "mathematics/probability/intro-to-probability/10-conditioning-on-a-random-variable-independence-bayes-rule.md",
+    "mathematics/probability/intro-to-probability/9.-conditioning-on-an-event-multiple-continuous-rv.md",
+    "mathematics/probability/intro-to-probability/8.-probability-density-functions.md",
+    "media/Intro-Syllabus_4.-Counting-image2.jpg",
+    "media/Intro-Syllabus_4.-Counting-image3.jpg",
+    "media/Intro-Syllabus_4.-Counting-image9.jpg",
+    "media/Intro-Syllabus_4.-Counting-image8.jpg",
+    "media/Intro-Syllabus_4.-Counting-image7.jpg",
+    "media/Intro-Syllabus_4.-Counting-image6.jpg",
+    "media/Intro-Syllabus_4.-Counting-image5.jpg",
+    "media/Intro-Syllabus_4.-Counting-image4.jpg",
+    "media/Intro-Syllabus_4.-Counting-image10.jpg",
+    "media/Intro-Syllabus_4.-Counting-image11.jpg",
+    "mathematics/probability/intro-to-probability/7-conditioning-on-a-rv-independence-of-rv.md",
+    "mathematics/probability/intro-to-probability/6-variance-conditioning-of-an-event-multiple-rv.md",
+    "mathematics/probability/intro-to-probability/5.-probability-mass-functions-and-expectations.md",
+    "mathematics/probability/intro-to-probability/4.-counting.md",
+    "mathematics/probability/intro-to-probability/3.-independence.md",
+    "mathematics/probability/intro-to-probability/2.-conditioning-and-independence.md",
+    "mathematics/probability/intro-to-probability/1.1-set-sequences-limits-and-series-un-countable-sets.md",
+    "mathematics/probability/intro-to-probability/unit-4-solved-problems.md",
     "office/stashfin-credentials",
     "management/people-management",
     "decentralized-applications/coins-tokens-chains",

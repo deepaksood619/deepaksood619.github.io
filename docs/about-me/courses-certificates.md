@@ -1,5 +1,9 @@
 # Courses / Certificates
 
+### ChatGPT Prompt Engineering for Developers (2 May 2023)
+
+[ChatGPT Prompt Engineering for Developers](ai/courses/chatgpt-prompt-eng.md)
+
 ### CKAD (12 Oct 2020)
 
 - Scholarship - By The Linux Foundation

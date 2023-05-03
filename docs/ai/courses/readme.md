@@ -13,4 +13,5 @@
 - [Art and Science of ML](course-art-and-science-of-ml)
 - [Professional Data Engineer (PDE)](ai/courses/google-professional-data-engineer-pde.md)
 - [google-professional-cloud-architect-pca](ai/courses/google-professional-cloud-architect-pca.md)
+- [ChatGPT Prompt Engineering for Developers](ai/courses/chatgpt-prompt-eng.md)
 - [Others / Resources / Interview](others-resources-interview)

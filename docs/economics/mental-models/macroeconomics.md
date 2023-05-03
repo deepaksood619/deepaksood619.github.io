@@ -112,3 +112,5 @@ The **impossible trinity** (also known as **the impossible [trilemma](https:
 [Data Update 6 for 2023: The Upside and Downside of Debt - YouTube](https://www.youtube.com/watch?v=rtIEgXLx6MI&ab_channel=AswathDamodaran)
 
 [Data Update 7 for 2023: Dividends, Buybacks and Cashflows - YouTube](https://www.youtube.com/watch?v=QKJt3cv7c2k)
+
+[The Two Big Economics Lies You Still Believe | Economics Explained - YouTube](https://www.youtube.com/watch?v=zOYLiTj4vag&ab_channel=EconomicsExplained)

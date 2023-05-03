@@ -13,3 +13,11 @@ Men over men
 You must first enable the government to control people and then the government itself must be put under control
 
 [Forms of Government | Difference Between Parliamentary and Presidential Form of Government | UPSC - YouTube](https://www.youtube.com/watch?v=PJt2N2ZtvL8)
+
+### Tryst with Destiny
+
+Long years ago we made a tryst with destiny, and now the time comes when we shall redeem our pledge, not wholly or in full measure, but very substantially. At the stroke of the midnight hour, when the world sleeps, India will awake to life and freedom.
+
+[Internet History Sourcebooks: Modern History](https://sourcebooks.fordham.edu/mod/1947nehru1.asp)
+
+[A tryst with destiny](https://www.cam.ac.uk/files/a-tryst-with-destiny/index.html)

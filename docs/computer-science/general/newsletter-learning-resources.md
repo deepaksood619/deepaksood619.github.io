@@ -149,3 +149,9 @@ Make sure to finish following documentation and POC in next 30-45 days, since af
 <https://www.youtube.com/channel/UCn1XnDWhsLS5URXTi5wtFTA>
 
 <https://www.youtube.com/playlist?list=PLMCXHnjXnTnvo6alSjVkgxV-VH6EPyvoX>
+
+## AI Tools
+
+- [Talk to Books](https://books.google.com/talktobooks/)
+- ChatGPT
+- [Consensus - Evidence-Based Answers, Faster](https://consensus.app/)

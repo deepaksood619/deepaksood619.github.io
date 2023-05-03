@@ -1,0 +1,73 @@
+# ChatGPT Prompt Engineering for Developers
+
+## Introduction
+
+Two types of large language models (LLMs)
+
+### Base LLM
+
+Predicts next word, based on text training data
+
+Prompt - What is the capital of France?
+
+Ans - What is France's largest city?
+
+Ans - What is France's population?
+
+### Instruction Tuned LLM
+
+Tries to follow instructions
+
+Fine-tune on instructions and good attempts at following those instructions.
+
+RLHF: Reinforcement Learning with Human Feedback
+
+Helpful, Honest, Harmless
+
+Prompt - What is the capital of France?
+
+Ans - The capital of France is Paris.
+
+## Guidelines
+
+### Prompting Principles
+
+#### Principle 1: Write clear and specific instructions
+
+##### Tactic 1: Use delimiters to clearly indicate distinct parts of the input
+
+-   Delimiters can be anything like: , `"""`, `< >`, `<tag> </tag>`, `:`
+
+##### Tactic 2: Ask for a structured output
+
+-   JSON, HTML
+
+##### Tactic 3: Ask the model to check whether conditions are satisfied
+
+##### Tactic 4: "Few-shot" prompting
+
+#### Principle 2: Give the model time to “think”
+
+##### Tactic 1: Specify the steps required to complete a task
+
+##### Tactic 2: Instruct the model to work out its own solution before rushing to a conclusion
+
+#### Model Limitations
+
+##### Hallucinations
+
+Makes statements that sound plausible but are not true
+
+##### Reducing hallucinations
+
+First find relevant information, then answer the question based on the relevant information
+
+## Iterative
+## Summarizing
+## Inferring
+## Transforming
+## Expanding
+## Chatbot
+## Conclusion
+
+[ChatGPT Prompt Engineering for Developers - DeepLearning.AI](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/)

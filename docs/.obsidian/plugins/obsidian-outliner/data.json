@@ -6,5 +6,7 @@
   "betterTab": true,
   "selectAll": true,
   "listLines": true,
-  "listLineAction": "toggle-folding"
+  "listLineAction": "toggle-folding",
+  "dndExperiment": false,
+  "previousRelease": "4.6.5"
 }

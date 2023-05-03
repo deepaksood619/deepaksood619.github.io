@@ -35,6 +35,18 @@ Several rollup solutions are already live or in the process of being implemented
 
 [The TRUTH About DEFI - YouTube](https://www.youtube.com/watch?v=Ia0DVfRJKy8)
 
+## ZK Proof (Zero Knowledge Proof)
+
+A cryptographic method for proving a statement is true without revealing any information about the statement – other than that it is true.
+
+The acronym **zk-SNARK stands for “Zero-Knowledge Succinct Non-Interactive Argument of Knowledge,”** and refers to a proof construction where one can prove possession of certain information, e.g. a secret key, without revealing that information, and without any interaction between the prover and verifier. In May 2022, Zcash began the process of upgrading its underlying cryptography and moving to a new proof composition called Halo.
+
+“Zero-knowledge” proofs allow one party (the prover) to prove to another (the verifier) that a statement is true, without revealing any information beyond the validity of the statement itself. For example, given the hash of a random number, the prover could convince the verifier that there indeed exists a number with this hash value, without revealing what it is.
+
+[What are zk-SNARKs? | Zcash](https://z.cash/technology/zksnarks/)
+
+[Zero Knowledge Canon, part 1 & 2 - a16z crypto](https://a16zcrypto.com/content/article/zero-knowledge-canon/)
+
 ## Links
 
 [Blockchain Layers Explained: Best Blockchain Layers 1, 2, 3, and 0 Explainer video | Jude - YouTube](https://www.youtube.com/watch?v=u2avJ_ctsKM&ab_channel=JudeUmeano)

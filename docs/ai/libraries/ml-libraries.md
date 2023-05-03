@@ -240,6 +240,18 @@ Dall E - <https://openai.com/dall-e-2>
 
 [ChatGPT - Explained! - YouTube](https://www.youtube.com/watch?v=NpmnWgQgcsA)
 
+#### Prompts
+
+##### ChatGPT prompt to write error free
+
+{paste your writing}
+
+Prompt: "Proofread my writing above. Fix grammar and spelling mistakes. And make suggestions that will improve the clarity of my writing"
+
+##### Learn-fast prompt using the 80/20 principle to knowledge
+
+Prompt: "I want to learn about {insert topic}. Identify and share the most important 20% of learnings from this topic that will help me understand 80% of it."
+
 ## ResNet
 
 <https://towardsdatascience.com/an-overview-of-resnet-and-its-variants-5281e2f56035>

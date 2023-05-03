@@ -29,3 +29,5 @@ I can do everything, but if I do everything, I can do only few things therefore 
 It's not what you speak matter its the way you speak matters
 
 Everyone is just a row in a database
+
+One thing, one time, one minute

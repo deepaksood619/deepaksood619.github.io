@@ -121,6 +121,8 @@ Magenta
 
 <https://web.superquery.io>
 
+[Announcing New Tools for Building with Generative AI on AWS | AWS Machine Learning Blog](https://aws.amazon.com/blogs/machine-learning/announcing-new-tools-for-building-with-generative-ai-on-aws/)
+
 ## Tools
 
 #### Paperspace

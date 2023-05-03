@@ -307,6 +307,7 @@
 - Tim Ferris show
 - The diary of a CEO
 - [The Ownership Economy - A podcast on Anchor](https://anchor.fm/theownershipeconomy)
+- [No Stupid Questions Archives - Freakonomics](https://freakonomics.com/series/nsq/)
 
 <https://www.freecodecamp.org/news/best-tech-podcasts-for-software-developers>
 

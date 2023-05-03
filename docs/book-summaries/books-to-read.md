@@ -63,11 +63,13 @@
 - Flow - The Psychology of Optimal Experience
 - Fluent in 3 months by Benny Lewis
 - Foundation - Isaac Asimov
+- Games People Play
 - **Godel Escher Bach - An eternal golden braid by douglas hofstadter (AI - Intelligence)**
 - Growth Hacker Marketing: A Primer on the Future of PR, Marketing, and Advertising by Ryan Holiday
 - Growth by Vaclav Smil
 - Guide to investing - rich dad poor dad
 - Hacking the Human - Ian Mann
+- Project Hail Mary
 - Head Strong
 - High Performance Habits
 - Homo Deus: A Brief History of Tomorrow by Yuval Noah Harari
@@ -143,6 +145,7 @@
 - Way of the Peaceful Warrior: A Book That Changes Lives - Dan Millman
 - What Extraordinary People Think: How to Cut The Busy B.S. and Life Your Kickass Life
 - When Genius Failed: The Rise and Fall of Long-Term Capital Management Paperback by Roger Lowenstein
+- Why nations fail
 - Why We Sleep - Matthew Walker
 - Wired to Win: Rewire Your Brain to Achieve Enormous Success
 - The wealth of nations
@@ -201,3 +204,7 @@ TheBhagavad Gitais the best known and most famous of Hindu texts, with a unique 
 <https://en.wikipedia.org/wiki/Bhagavad_Gita>
 
 I am become death, destroyer of worlds. -- Bhagavad Gita
+
+## Others
+
+[List of books banned in India - Wikipedia](https://en.wikipedia.org/wiki/List_of_books_banned_in_India)

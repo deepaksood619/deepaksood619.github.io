@@ -1,5 +1,9 @@
 # Religion
 
+[What has religion done for this world? - Quora](https://www.quora.com/What-has-religion-done-for-this-world)
+
+Book - What has religion done for mankind?
+
 [Branches of Islam & Family Tree of Shia Imams](https://www.youtube.com/watch?v=e5YynfMfJXA)
 
 - 85% sunni

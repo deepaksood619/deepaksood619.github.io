@@ -28,8 +28,9 @@
 - TRON
 - Avalanche
 - Cronos (CRO)
-- Monero (XMR) - [Monero - secure, private, untraceable](https://www.getmonero.org/)
+- Monero (XMR) - [Monero - secure, private, untraceable](https://www.getmonero.org/) (argues it’s more private than Bitcoin)
 - Secret (SCRT) - [Secret Network](https://scrt.network/)
+- zcash which claims it uses advanced tech to make sure that detecting ownership is nearly impossible
 
 ## Tokens / Stable coins
 

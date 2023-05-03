@@ -8,7 +8,9 @@ You will occasionally get burned and mistreated by always assuming the best in o
 
 Never tell people that they are moron
 
-## Ernest Hemingway
+There are some very smart people in the world who like to solve really hard problems.
+
+#### Ernest Hemingway
 
 Before you talk, listen.
 

@@ -135,6 +135,7 @@ Open two instance of same application - **open -n MQTT.fx.app**
 #### Others
 
 - [Why Does The Arc Browser Work? - YouTube](https://www.youtube.com/watch?v=VZKHS0gBLts)
+- [Arc from The Browser Company](https://arc.net/)
 - Brave Browser
 
 #### Google Chrome apps

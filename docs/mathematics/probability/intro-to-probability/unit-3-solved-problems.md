@@ -17,9 +17,7 @@ Eight rooks are placed in distinct squares of an8×8chessboard, with all possibl
 
 ## Hypergeometric probabilities
 
-An urn containsnballs, out of which exactlymare red. We selectkof the balls at random, without replacement (i.e., selected balls are not put back into the urn before the next selection). What is the probability thatiof the selected balls are red?
-![image](../../../media/Intro-Syllabus_Unit-3-Solved-Problems-image5.jpg)
-![image](../../../media/Intro-Syllabus_Unit-3-Solved-Problems-image6.jpg)
+An urn containsnballs, out of which exactlymare red. We selectkof the balls at random, without replacement (i.e., selected balls are not put back into the urn before the next selection). What is the probability that i of the selected balls are red?
 
 ## Multinomial probabilities
 
@@ -27,8 +25,6 @@ An urn contains balls ofrdifferent colors. We drawnballs, with different draws b
 
 (For such independence to be possible, you may think of an urn that has infinitely many balls, so that removing one does not change the probabilitiespi, or you can think about drawing "with replacement": the chosen ball is put back into the urn before the next draw.)
 
-Letn1,...,nrbe nonnegative integers that sum ton. What is the probability that we obtain exactlyniballs of colori, for eachi=1,...,r?
-![image](../../../media/Intro-Syllabus_Unit-3-Solved-Problems-image7.jpg)
+Letn1,...,nrbe nonnegative integers that sum ton. What is the probability that we obtain exactly ni balls of color i, for each i=1,...,r?
 
 This is the multinomial probability for the special case where we are dealing with two colors.
-![image](../../../media/Intro-Syllabus_Unit-3-Solved-Problems-image8.jpg)

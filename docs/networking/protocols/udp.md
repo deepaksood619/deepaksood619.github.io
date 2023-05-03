@@ -1,12 +1,15 @@
 # UDP
 
 In [computer networking](https://en.wikipedia.org/wiki/Computer_network), theUser Datagram Protocol(UDP) is one of the core members of the [Internet protocol suite](https://en.wikipedia.org/wiki/Internet_protocol_suite). The protocol was designed by [David P. Reed](https://en.wikipedia.org/wiki/David_P._Reed) in 1980 and formally defined in [RFC](https://en.wikipedia.org/wiki/Request_for_Comments_(identifier)) [768](https://tools.ietf.org/html/rfc768). With UDP, computer applications can send messages, in this case referred to as [datagrams](https://en.wikipedia.org/wiki/Datagram), to other hosts on an [Internet Protocol](https://en.wikipedia.org/wiki/Internet_Protocol)(IP) network. Prior communications are not required in order to set up [communication channels](https://en.wikipedia.org/wiki/Communication_channel) or data paths.
+
 UDP uses a simple [connectionless communication](https://en.wikipedia.org/wiki/Connectionless_communication) model with a minimum of protocol mechanisms. UDP provides [checksums](https://en.wikipedia.org/wiki/Checksum) for data integrity, and [port numbers](https://en.wikipedia.org/wiki/Port_numbers) for addressing different functions at the source and destination of the datagram. It has no [handshaking](https://en.wikipedia.org/wiki/Handshaking) dialogues, and thus exposes the user's program to any [unreliability](https://en.wikipedia.org/wiki/Reliability_(computer_networking)) of the underlying network; there is no guarantee of delivery, ordering, or duplicate protection. If error-correction facilities are needed at the network interface level, an application may use [Transmission Control Protocol](https://en.wikipedia.org/wiki/Transmission_Control_Protocol)(TCP) or [Stream Control Transmission Protocol](https://en.wikipedia.org/wiki/Stream_Control_Transmission_Protocol)(SCTP) which are designed for this purpose.
+
 UDP is suitable for purposes where error checking and correction are either not necessary or are performed in the application; UDP avoids the overhead of such processing in the [protocol stack](https://en.wikipedia.org/wiki/Protocol_stack). Time-sensitive applications often use UDP because dropping packets is preferable to waiting for packets delayed due to [retransmission](https://en.wikipedia.org/wiki/Retransmission_(data_networks)), which may not be an option in a [real-time system](https://en.wikipedia.org/wiki/Real-time_system).
 
 ## Attributes
 
 UDP is a simple message-oriented [transport layer](https://en.wikipedia.org/wiki/Transport_layer) protocol that is documented in [RFC](https://en.wikipedia.org/wiki/Request_for_Comments_(identifier)) [768](https://tools.ietf.org/html/rfc768). Although UDP provides integrity verification (via [checksum](https://en.wikipedia.org/wiki/Checksum)) of the header and payload, it provides no guarantees to the [upper layer protocol](https://en.wikipedia.org/wiki/Upper_layer_protocol) for message delivery and the UDP layer retains no state of UDP messages once sent. For this reason, UDP sometimes is referred to as [Unreliable](https://en.wikipedia.org/wiki/Reliability_(computer_networking)) Datagram Protocol.If transmission reliability is desired, it must be implemented in the user's application.
+
 A number of UDP's attributes make it especially suited for certain applications.
 
 - It istransaction-oriented, suitable for simple query-response protocols such as the [Domain Name System](https://en.wikipedia.org/wiki/Domain_Name_System) or the [Network Time Protocol](https://en.wikipedia.org/wiki/Network_Time_Protocol).
@@ -37,6 +40,7 @@ This field identifies the receiver's port and is required. Similar to source por
 ## Length
 
 This field specifies the length in bytes of the UDP header and UDP data. The minimum length is 8 bytes, the length of the header. The field size sets a theoretical limit of 65,535 bytes (8 byte header + 65,527 bytes of data) for a UDP datagram. However the actual limit for the data length, which is imposed by the underlying [IPv4](https://en.wikipedia.org/wiki/IPv4) protocol, is 65,507 bytes (65,535 − 8 byte UDP header − 20 byte [IP header](https://en.wikipedia.org/wiki/IPv4_header)).
+
 Using IPv6 [jumbograms](https://en.wikipedia.org/wiki/Jumbogram) it is possible to have UDP packets of size greater than 65,535 bytes.[RFC](https://en.wikipedia.org/wiki/Request_for_Comments_(identifier)) [2675](https://tools.ietf.org/html/rfc2675) specifies that the length field is set to zero if the length of the UDP header plus UDP data is greater than 65,535.
 
 ## Checksum
@@ -48,27 +52,23 @@ The [checksum](https://en.wikipedia.org/wiki/Checksum) field may be used for err
 The method used to compute the checksum is defined in [RFC](https://en.wikipedia.org/wiki/Request_for_Comments_(identifier)) [768](https://tools.ietf.org/html/rfc768):
 
 Checksum is the 16-bit [one's complement](https://en.wikipedia.org/wiki/One%27s_complement) of the one's complement sum of a pseudo header of information from the IP header, the UDP header, and the data, padded with zero octets at the end (if necessary) to make a multiple of two octets.
+
 In other words, all 16-bit words are summed using one's complement arithmetic. Add the 16-bit values up. On each addition, if a carry-out (17th bit) is produced, swing that 17th carry bit around and add it to the least significant bit of the running total.Finally, the sum is then one's complemented to yield the value of the UDP checksum field.
+
 If the checksum calculation results in the value zero (all 16 bits 0) it should be sent as the one's complement (all 1s) as a zero-value checksum indicates no checksum has been calculated.
+
 The difference between [IPv4](https://en.wikipedia.org/wiki/IPv4) and [IPv6](https://en.wikipedia.org/wiki/IPv6) is in the pseudo header used to compute the checksum and the checksum is not optional in IPv6.
 
 ## Use Cases
 
-1. Streaming Media
-
-Voice and video traffic is generally transmitted using UDP. Real-time video and audio streaming protocols are designed to handle occasional lost packets, so only slight degradation in quality occurs, rather than large delays if lost packets were retransmitted.
+1. Streaming Media - Voice and video traffic is generally transmitted using UDP. Real-time video and audio streaming protocols are designed to handle occasional lost packets, so only slight degradation in quality occurs, rather than large delays if lost packets were retransmitted.
 
 2. Real-time multiplayer games
 
-3. VoIP
+3. VoIP (Voice over IP) - We don't care if some packets are lost
 
 4. Areas where latency and jitter are the primary concernsTCP port numbers aren't the same as UDP port numbers
-Ports
 
-| udp/53 | DNS Domain Name Services queries |
-|--------|----------------------------------|
-Use Case -
+## Ports
 
-1. VoIP (Voice over IP)
-
-We don't care if some packets are lost
+udp/53 - DNS Domain Name Services queries

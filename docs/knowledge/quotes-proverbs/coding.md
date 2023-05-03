@@ -347,3 +347,5 @@ Spend the first 3 years of your career ensuring these to accelerate your growth
 ![image](../../media/quotes-crypto.jpg)
 
 You can often fix something that's been broken, but you can't fix something that never worked in the first place.. -- Mira Kirshenbaum
+
+Any intelligent fool can make things bigger, more complex, and more violent. It takes a touch of genius – and a lot of courage – to move in the opposite direction. -- EF Schumacher

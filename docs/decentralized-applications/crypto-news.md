@@ -3,6 +3,8 @@
 - crypto winter
 - [Bitcoin Obituaries - "Bitcoin is Dead" Declared 400+ Times](https://99bitcoins.com/bitcoin-obituaries/)
 - [Rekt - Home](https://rekt.news/)
+- [State of Crypto 2023 - Google Slides](https://docs.google.com/presentation/d/1_bRyqC8MVjeAmGpOtmhpJydHsxoWWU0wWKsacdx9ovM/edit)
+- [2023 State of Crypto Report: Introducing the State of Crypto Index - a16z crypto](https://a16zcrypto.com/content/article/state-of-crypto-report-2023/)
 
 ### Cake DeFi CEO briefing, 2nd week of 2023
 

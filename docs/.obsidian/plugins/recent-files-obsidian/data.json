@@ -1,204 +1,204 @@
 {
   "recentFiles": [
     {
-      "basename": "service-configuration-reference",
-      "path": "devops/docker/service-configuration-reference.md"
-    },
-    {
-      "basename": "course-learning-how-to-learn",
-      "path": "psychology/learning/course-learning-how-to-learn.md"
-    },
-    {
-      "basename": "liquidity-mining",
-      "path": "decentralized-applications/liquidity-mining.md"
-    },
-    {
-      "basename": "faqs",
-      "path": "about-me/faqs.md"
+      "basename": "udp",
+      "path": "networking/protocols/udp.md"
     },
     {
       "basename": "readme",
-      "path": "about-me/readme.md"
+      "path": "cloud/aws/compute/readme.md"
     },
     {
-      "basename": "about-me-adjectives",
-      "path": "office/personality/about-me-adjectives.md"
+      "basename": "unit-3-solved-problems",
+      "path": "mathematics/probability/intro-to-probability/unit-3-solved-problems.md"
     },
     {
-      "basename": "infra",
-      "path": "office/cakedefi/infra.md"
+      "basename": "unit-2-solved-problems",
+      "path": "mathematics/probability/intro-to-probability/unit-2-solved-problems.md"
     },
     {
-      "basename": "deepak-banks",
-      "path": "office/keep/deepak-banks.md"
+      "basename": "unit-1-solved-problems",
+      "path": "mathematics/probability/intro-to-probability/unit-1-solved-problems.md"
     },
     {
-      "basename": "todo",
-      "path": "office/cakedefi/todo.md"
+      "basename": "readme",
+      "path": "mathematics/probability/intro-to-probability/readme.md"
+    },
+    {
+      "basename": "intro-syllabus",
+      "path": "mathematics/probability/intro-to-probability/intro-syllabus.md"
+    },
+    {
+      "basename": "additional-theoretical-material",
+      "path": "mathematics/probability/intro-to-probability/additional-theoretical-material.md"
+    },
+    {
+      "basename": "14.-intro-to-bayesian-inference",
+      "path": "mathematics/probability/intro-to-probability/14.-intro-to-bayesian-inference.md"
+    },
+    {
+      "basename": "13.-conditional-expectation-and-variance-revisited",
+      "path": "mathematics/probability/intro-to-probability/13.-conditional-expectation-and-variance-revisited.md"
+    },
+    {
+      "basename": "12.-sums-of-independent-rv-covariance-and-correlation",
+      "path": "mathematics/probability/intro-to-probability/12.-sums-of-independent-rv-covariance-and-correlation.md"
+    },
+    {
+      "basename": "11.-derived-distributions",
+      "path": "mathematics/probability/intro-to-probability/11.-derived-distributions.md"
+    },
+    {
+      "basename": "10-conditioning-on-a-random-variable-independence-bayes-rule",
+      "path": "mathematics/probability/intro-to-probability/10-conditioning-on-a-random-variable-independence-bayes-rule.md"
+    },
+    {
+      "basename": "9.-conditioning-on-an-event-multiple-continuous-rv",
+      "path": "mathematics/probability/intro-to-probability/9.-conditioning-on-an-event-multiple-continuous-rv.md"
+    },
+    {
+      "basename": "8.-probability-density-functions",
+      "path": "mathematics/probability/intro-to-probability/8.-probability-density-functions.md"
+    },
+    {
+      "basename": "7-conditioning-on-a-rv-independence-of-rv",
+      "path": "mathematics/probability/intro-to-probability/7-conditioning-on-a-rv-independence-of-rv.md"
+    },
+    {
+      "basename": "6-variance-conditioning-of-an-event-multiple-rv",
+      "path": "mathematics/probability/intro-to-probability/6-variance-conditioning-of-an-event-multiple-rv.md"
+    },
+    {
+      "basename": "5.-probability-mass-functions-and-expectations",
+      "path": "mathematics/probability/intro-to-probability/5.-probability-mass-functions-and-expectations.md"
+    },
+    {
+      "basename": "4.-counting",
+      "path": "mathematics/probability/intro-to-probability/4.-counting.md"
+    },
+    {
+      "basename": "3.-independence",
+      "path": "mathematics/probability/intro-to-probability/3.-independence.md"
+    },
+    {
+      "basename": "2.-conditioning-and-independence",
+      "path": "mathematics/probability/intro-to-probability/2.-conditioning-and-independence.md"
+    },
+    {
+      "basename": "1.1-set-sequences-limits-and-series-un-countable-sets",
+      "path": "mathematics/probability/intro-to-probability/1.1-set-sequences-limits-and-series-un-countable-sets.md"
     },
     {
       "basename": "layer-2-protocols",
       "path": "decentralized-applications/ethereum/layer-2-protocols.md"
     },
     {
-      "basename": "infra",
-      "path": "office/blocktoons/infra.md"
-    },
-    {
       "basename": "todo",
-      "path": "office/blocktoons/todo.md"
+      "path": "office/cakedefi/todo.md"
     },
     {
-      "basename": "neha",
-      "path": "office/keep/neha.md"
+      "basename": "crypto-news",
+      "path": "decentralized-applications/crypto-news.md"
     },
     {
-      "basename": "people",
-      "path": "office/blocktoons/people.md"
-    },
-    {
-      "basename": "movies-serials-apps",
-      "path": "office/personality/movies-serials-apps.md"
-    },
-    {
-      "basename": "my-infra",
-      "path": "office/other/my-infra.md"
+      "basename": "constitution",
+      "path": "knowledge/law/constitution-of-india/constitution.md"
     },
     {
       "basename": "readme",
-      "path": "decentralized-applications/coins-tokens-chains/readme.md"
+      "path": "decentralized-applications/ethereum/readme.md"
     },
     {
-      "basename": "ordinals",
-      "path": "decentralized-applications/coins-tokens-chains/ordinals.md"
+      "basename": "design-of-zookeeper",
+      "path": "ai/data-science/big-data/design-of-zookeeper.md"
     },
     {
-      "basename": "youtube-podcasts-magazine-apps",
-      "path": "devops/ides/youtube-podcasts-magazine-apps.md"
+      "basename": "ethereum-staking",
+      "path": "decentralized-applications/ethereum/ethereum-staking.md"
     },
     {
-      "basename": "references-learning",
-      "path": "decentralized-applications/references-learning.md"
+      "basename": "about",
+      "path": "office/blocktoons/about.md"
     },
     {
-      "basename": "crypto-investing",
-      "path": "decentralized-applications/crypto-investing.md"
+      "basename": "readme",
+      "path": "ai/courses/readme.md"
     },
     {
-      "basename": "internal-tech",
-      "path": "office/stashfin-credentials/internal-tech.md"
-    },
-    {
-      "basename": "external-tech",
-      "path": "office/stashfin-credentials/external-tech.md"
+      "basename": "readme",
+      "path": "cloud/others/firebase/readme.md"
     },
     {
       "basename": "seo-aso",
       "path": "frontend/frontend-intro/seo-aso.md"
     },
     {
-      "basename": "todo-tech-&-courses",
-      "path": "office/todo/todo-tech-&-courses.md"
+      "basename": "neha",
+      "path": "office/keep/neha.md"
     },
     {
-      "basename": "04-workflow",
-      "path": "technologies/apache/databricks/04-workflow.md"
+      "basename": "chatgpt-prompt-eng",
+      "path": "ai/courses/chatgpt-prompt-eng.md"
     },
     {
-      "basename": "key-concepts",
-      "path": "decentralized-applications/key-concepts.md"
+      "basename": "neha",
+      "path": "office/personality/neha.md"
     },
     {
-      "basename": "01-databricks",
-      "path": "technologies/apache/databricks/01-databricks.md"
+      "basename": "deepak-account-credentials",
+      "path": "office/keep/deepak-account-credentials.md"
     },
     {
-      "basename": "09-dataframe",
-      "path": "technologies/apache/apache-spark/09-dataframe.md"
+      "basename": "deepak-banks",
+      "path": "office/keep/deepak-banks.md"
     },
     {
-      "basename": "08-examples",
-      "path": "technologies/apache/apache-spark/08-examples.md"
+      "basename": "startups-ideas-saas",
+      "path": "about-me/ideas/startups-ideas-saas.md"
     },
     {
-      "basename": "architecture",
-      "path": "office/cakedefi/architecture.md"
+      "basename": "courses-certificates",
+      "path": "about-me/courses-certificates.md"
     },
     {
-      "basename": "product",
-      "path": "office/cakedefi/product.md"
+      "basename": "others-data",
+      "path": "technologies/others/others-data.md"
     },
     {
-      "basename": "intro",
-      "path": "ai/courses/customer-analytics-in-python/intro.md"
+      "basename": "new-home-place-house",
+      "path": "office/personality/new-home-place-house.md"
     },
     {
-      "basename": "syllabus",
-      "path": "ai/courses/customer-analytics-in-python/syllabus.md"
+      "basename": "tools",
+      "path": "decentralized-applications/tools.md"
     },
     {
-      "basename": "retail-offline-sales",
-      "path": "management/product-management/retail-offline-sales.md"
+      "basename": "crypto-investing",
+      "path": "decentralized-applications/crypto-investing.md"
     },
     {
-      "basename": "business-case-studies",
-      "path": "management/business/business-case-studies.md"
+      "basename": "books-to-read",
+      "path": "book-summaries/books-to-read.md"
     },
     {
-      "basename": "readme",
-      "path": "management/business/readme.md"
+      "basename": "mental-models",
+      "path": "knowledge/general/mental-models.md"
     },
     {
-      "basename": "indian-market",
-      "path": "management/business/indian-market.md"
-    },
-    {
-      "basename": "business-terms",
-      "path": "management/business/business-terms.md"
-    },
-    {
-      "basename": "intro",
-      "path": "devops/monitoring/prometheus/intro.md"
+      "basename": "religion",
+      "path": "knowledge/history/religion.md"
     },
     {
       "basename": "readme",
-      "path": "management/readme.md"
+      "path": "knowledge/others/politics/readme.md"
     },
     {
-      "basename": "others-saas",
-      "path": "cloud/others/others-saas.md"
+      "basename": "the-elephant-in-the-brain",
+      "path": "book-summaries/the-elephant-in-the-brain.md"
     },
     {
-      "basename": "dual-token-economy",
-      "path": "decentralized-applications/dual-token-economy.md"
-    },
-    {
-      "basename": "defi",
-      "path": "decentralized-applications/defi.md"
-    },
-    {
-      "basename": "readme",
-      "path": "management/decision-making/readme.md"
-    },
-    {
-      "basename": "grammer-vocabulary",
-      "path": "knowledge/language/grammer-vocabulary.md"
-    },
-    {
-      "basename": "readme",
-      "path": "frontend/others/nodejs/readme.md"
-    },
-    {
-      "basename": "aws-lambda",
-      "path": "cloud/aws/compute/aws-lambda.md"
-    },
-    {
-      "basename": "obsidian",
-      "path": "devops/ides/obsidian.md"
-    },
-    {
-      "basename": "functions",
-      "path": "languages/sql/functions.md"
+      "basename": "economics-mental-models",
+      "path": "economics/mental-models/economics-mental-models.md"
     }
   ],
   "omittedPaths": [],

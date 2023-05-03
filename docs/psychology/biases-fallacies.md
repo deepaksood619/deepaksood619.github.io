@@ -334,13 +334,35 @@ But it violates the rule, that money is fungible i.e. $1 is equal to $1 from any
 
 ### Base Effect
 
-### broken-window fallacy
+### broken window fallacy
 
 It states that when we spend money on war, this creates demand, but also it represents a huge opportunity cost -- rather than building bombs and rebuilding destroyed towns, we could have used this money to improve education or health care.
 
-Heexplains this with the help of a short anecdote where a boy breaks the window of a shopkeeper. When that happens, the shopkeeper has to call a glazier to come fix the window. Thisgives rise to income for the glazier, who in-turn, spends it at other shops, thus, benefiting the economy overall.
+He explains this with the help of a short anecdote where a boy breaks the window of a shopkeeper. When that happens, the shopkeeper has to call a glazier to come fix the window. This gives rise to income for the glazier, who in-turn, spends it at other shops, thus, benefiting the economy overall.
 
-The only issue with this idea is that it doesn't take into account "that which is not seen."What could the shopkeeper have done with all the money that he had to pay to the glazier? Thus, the fallacy.
+The only issue with this idea is that it doesn't take into account "that which is not seen." What could the shopkeeper have done with all the money that he had to pay to the glazier? Thus, the fallacy.
+
+#### Story
+
+Imagine that you’re playing a friendly indoor game of cricket with your siblings or friends across a long corridor at home. You need just 3 runs to win the innings and power up for a six. You scream with joy until you hear the ball crashing through an adjacent window.
+
+At this point, you’re only going to think of the thrashing you’ll get when your folks come to know of what you’ve done. It’s obviously a needless repair expense.
+
+But if this were to happen in 1850, then you’d have a way to convince your parents that your mistake has actually done more good than harm.
+
+How’s that you ask?
+
+Presenting to you, the broken window fallacy.
+
+It’s a theoretical misconception that fixing damages can boost the economy through a multiplier effect. French economist Frédéric Bastiat’s essay called The Parable of the Broken Window simplifies this.
+
+In his story, a boy carelessly breaks a window of a shop that belongs to his father. But instead of disciplining him, the local folks decide that he has actually helped the economy. Because repairing a window will add some income in the hands of the glazier (a chap who fixes glasses). He’ll in turn spend this extra income on buying something, creating a multiplier effect of sorts and ultimately boosting the economy.
+
+But here’s the unseen part according to Bastiat. Often when we’re trying to console ourselves that such acts have pumped up the economy, we forget its opportunity cost (losing one benefit when we choose another).
+
+For instance, the 6 francs that the shopkeeper spends on repairing the broken window could have actually been spent on buying some stock for this business. Selling that could have been a better way of creating value rather than just creating a false multiplier effect.
+
+And that misconception is called the broken window fallacy.
 
 ### [**24 Biases That Come In Your Way While Making Money**](https://www.youtube.com/watch?v=gRNqZzmmL-0)
 

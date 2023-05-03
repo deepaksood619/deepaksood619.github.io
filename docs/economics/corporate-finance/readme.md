@@ -58,3 +58,15 @@ In the mergers and acquisitions (M&A) world, there is a delineation between "har
 Corporate Finance - <https://www.youtube.com/playlist?list=PLUkh9m2BorqnDenjSLZ2DHIXrdxoN4Bn_>
 
 Investment Philosophies - <https://www.youtube.com/playlist?list=PLUkh9m2BorqlDJlnBXUaJaMRNE7UDckn6>
+
+### Company Structures
+
+A company in which another company owns a significant stake, is called its **associate company.**
+
+However, in this case, the shareholding is less than 50%.
+
+If the shareholding is higher than 50%, the company is called a **subsidiary company.**
+
+Because the ownership is less than 50%, the parent company is not required to consolidate (include) the associate company’s results in its financial statements.
+
+For example: Hashtag Loyalty is an associate company of Jubilant FoodWorks.

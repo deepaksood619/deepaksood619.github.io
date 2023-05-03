@@ -87,6 +87,8 @@ Crash Course - [Economics](https://www.youtube.com/playlist?list=PL8dPuuaLjXtPNZ
 
 Book - <https://www.principles.com/big-debt-crises> Free pdf
 
+[Money’s Mostly Digital, So Why Is Moving It So Hard? - YouTube](https://www.youtube.com/watch?v=8xzINLykprA&ab_channel=WendoverProductions)
+
 ## Economic machine of a country
 
 - Capital - all the stuff that a business might use, including intangibles like ideas

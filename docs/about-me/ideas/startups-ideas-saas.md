@@ -17,6 +17,12 @@ Create best software companies with Indian labour, since labour is cheap in Indi
 
 - New questions everytime
 - Startup for creating advert from given text input
+- Give whole schema and model to the LLM, and directly ask questions in plain english for analysis and dashboards
+  - Automate data analytics and data engineering tasks
+  - Automatically write the most efficient SQL query and give the answer
+  - No need to create powerbi reports / write sql queries / create visualization, will choose best graph/plots/visualization, add refresh intervals, etc
+- Generative AI Startups
+  - Webtoons / Blocktoons / MangaPlus but by AI artists
 
 **Economics of Data Business**
 

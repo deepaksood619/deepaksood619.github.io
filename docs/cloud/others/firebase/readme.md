@@ -18,6 +18,8 @@ Chrome Extension - Tag Assistant (by Google)
 
 <https://en.wikipedia.org/wiki/Tag_management_system>
 
+<https://www.freecodecamp.org/news/how-to-use-google-tag-manager-to-maintain-google-analytics-and-other-marketing-tags>
+
 ## Firebase Dynamic Links
 
 Firebase Dynamic Links are links that work the way you want, on multiple platforms, and whether or not your app is already installed.
