@@ -1,6 +1,38 @@
 {
   "recentFiles": [
     {
+      "basename": "intro",
+      "path": "devops/others/terraform/intro.md"
+    },
+    {
+      "basename": "readme",
+      "path": "devops/others/readme.md"
+    },
+    {
+      "basename": "commands",
+      "path": "devops/others/terraform/commands.md"
+    },
+    {
+      "basename": "examples",
+      "path": "devops/others/terraform/examples.md"
+    },
+    {
+      "basename": "variables",
+      "path": "devops/others/terraform/variables.md"
+    },
+    {
+      "basename": "documentation",
+      "path": "devops/others/terraform/documentation.md"
+    },
+    {
+      "basename": "others",
+      "path": "psychology/others.md"
+    },
+    {
+      "basename": "mental-models",
+      "path": "knowledge/general/mental-models.md"
+    },
+    {
       "basename": "polygon",
       "path": "decentralized-applications/ethereum/polygon.md"
     },
@@ -167,38 +199,6 @@
     {
       "basename": "life",
       "path": "knowledge/quotes-proverbs/life.md"
-    },
-    {
-      "basename": "logging",
-      "path": "python/django/logging.md"
-    },
-    {
-      "basename": "readme",
-      "path": "data-structures/hashtable/readme.md"
-    },
-    {
-      "basename": "kademlia",
-      "path": "data-structures/hashtable/kademlia.md"
-    },
-    {
-      "basename": "dht-distributed-hash-tables",
-      "path": "data-structures/hashtable/dht-distributed-hash-tables.md"
-    },
-    {
-      "basename": "readme",
-      "path": "languages/sql/dql-data-query-language/readme.md"
-    },
-    {
-      "basename": "readme",
-      "path": "office/todo/readme.md"
-    },
-    {
-      "basename": "goal-setting",
-      "path": "management/project-management/goal-setting.md"
-    },
-    {
-      "basename": "reasons-why",
-      "path": "office/todo/reasons-why.md"
     }
   ],
   "omittedPaths": [],

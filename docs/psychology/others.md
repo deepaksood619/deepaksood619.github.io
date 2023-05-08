@@ -1,6 +1,6 @@
 # Others
 
-## Classical Conditioning
+## Classical Conditioning (Pavlov's Experiment)
 
 Classical conditioning (also known as **Pavlovian** or **respondent conditioning**) refers to a [learning](https://en.wikipedia.org/wiki/Learning) procedure in which a biologically potent [stimulus](https://en.wikipedia.org/wiki/Stimulus_(physiology))(e.g. food) is paired with a previously neutral stimulus (e.g. a bell). It also refers to the learning process that results from this pairing, through which the neutral stimulus comes to elicit a response (e.g. salivation) that is usually similar to the one elicited by the potent stimulus
 
@@ -11,6 +11,10 @@ Classical conditioning (also known as **Pavlovian** or **respondent conditioning
 - Second-order and higher-order conditioning
 - Backward conditioning
 - Temporal conditioning
+
+#### Pavlov's Experiment
+
+Pavlov was conducting research on the digestion of dogs when he noticed that the dogs' physical reactions to food subtly changed over time. At first, the dogs would only salivate when the food was placed in front of them. However, later they salivated slightly before their food arrived.
 
 <https://en.wikipedia.org/wiki/Classical_conditioning>
 
@@ -40,7 +44,7 @@ Time gap is same for both the scenarios
 
 The idea here is that when we need to choose between rewards right now and rewards in the far future, we're much less patient than we ought to be.
 
-In [economics](https://en.wikipedia.org/wiki/Economics), hyperbolic discountingis a time-inconsistentmodel of [delay discounting](https://en.wikipedia.org/wiki/Delay_discounting). It is one of the cornerstones of [behavioral economics](https://en.wikipedia.org/wiki/Behavioral_economics).
+In [economics](https://en.wikipedia.org/wiki/Economics), hyperbolic discounting is a time-inconsistent model of [delay discounting](https://en.wikipedia.org/wiki/Delay_discounting). It is one of the cornerstones of [behavioral economics](https://en.wikipedia.org/wiki/Behavioral_economics).
 
 The discounted utility approach states that [intertemporal choices](https://en.wikipedia.org/wiki/Intertemporal_choice) are no different from other choices, except that some consequences are delayed and hence must be anticipated and discounted (i.e., reweighted to take into account the delay).
 
@@ -56,7 +60,7 @@ The most important consequence of hyperbolic discounting is that it creates temp
 
 ## Illusion of Control
 
-Theillusion of controlis the tendency for people to overestimate their ability to control events; for example, it occurs when someone feels a sense of control over outcomes that they demonstrably do not influence.The effect was named by psychologist [Ellen Langer](https://en.wikipedia.org/wiki/Ellen_Langer) and has been replicated in many different contexts.It is thought to influence [gambling](https://en.wikipedia.org/wiki/Gambling) behavior and belief in the [paranormal](https://en.wikipedia.org/wiki/Paranormal).Along with [illusory superiority](https://en.wikipedia.org/wiki/Illusory_superiority) and [optimism bias](https://en.wikipedia.org/wiki/Optimism_bias), the illusion of control is one of the [positive illusions](https://en.wikipedia.org/wiki/Positive_illusions).
+The illusion of controlis the tendency for people to overestimate their ability to control events; for example, it occurs when someone feels a sense of control over outcomes that they demonstrably do not influence.The effect was named by psychologist [Ellen Langer](https://en.wikipedia.org/wiki/Ellen_Langer) and has been replicated in many different contexts.It is thought to influence [gambling](https://en.wikipedia.org/wiki/Gambling) behavior and belief in the [paranormal](https://en.wikipedia.org/wiki/Paranormal).Along with [illusory superiority](https://en.wikipedia.org/wiki/Illusory_superiority) and [optimism bias](https://en.wikipedia.org/wiki/Optimism_bias), the illusion of control is one of the [positive illusions](https://en.wikipedia.org/wiki/Positive_illusions).
 
 The illusion might arise because people lack direct [introspective](https://en.wikipedia.org/wiki/Introspection) insight into whether they are in control of events. This has been called the [introspection illusion](https://en.wikipedia.org/wiki/Introspection_illusion). Instead they may judge their degree of control by a process that is often unreliable. As a result, they see themselves as responsible for events when there is little or no [causal link](https://en.wikipedia.org/wiki/Causality). In one study, college students were in a virtual reality setting to treat a fear of heights using an elevator. Those who were told that they had control, yet had none, felt as though they had as much control as those who actually did have control over the elevator. Those who were led to believe they did not have control said they felt as though they had little control.
 
@@ -68,7 +72,7 @@ The illusion is more common in familiar situations, and in situations where the 
 
 ## Mere exposure effect
 
-Themere-exposure effectis a [psychological](https://en.wikipedia.org/wiki/Psychological) phenomenon by which people tend to develop a preference for things merely because they are familiar with them. In [social psychology](https://en.wikipedia.org/wiki/Social_psychology), this effect is sometimes called thefamiliarity principle. The effect has been demonstrated with many kinds of things, including words, [Chinese characters](https://en.wikipedia.org/wiki/Chinese_character), paintings, pictures of faces, [geometric figures](https://en.wikipedia.org/wiki/Polygon), and sounds.In studies of interpersonal attraction, the more often someone sees a person, the more pleasing and likeable they find that person.
+The mere-exposure effect is a [psychological](https://en.wikipedia.org/wiki/Psychological) phenomenon by which people tend to develop a preference for things merely because they are familiar with them. In [social psychology](https://en.wikipedia.org/wiki/Social_psychology), this effect is sometimes called the familiarity principle. The effect has been demonstrated with many kinds of things, including words, [Chinese characters](https://en.wikipedia.org/wiki/Chinese_character), paintings, pictures of faces, [geometric figures](https://en.wikipedia.org/wiki/Polygon), and sounds. In studies of interpersonal attraction, the more often someone sees a person, the more pleasing and likeable they find that person.
 
 <https://en.wikipedia.org/wiki/Mere-exposure_effect>
 
@@ -76,13 +80,13 @@ Themere-exposure effectis a [psychological](https://en.wikipedia.org/wiki/Psycho
 
 The **norm of reciprocity** requires that we repay in kind what another has done for us. It can be understood as the expectation that people will respond favorably to each other by returning benefits for benefits, and responding with either indifference or hostility to harms. The [social norm](https://en.wikipedia.org/wiki/Social_norm) of reciprocity often takes different forms in different areas of social life, or in different societies. All of them, however, are distinct from related ideas such as [gratitude](https://en.wikipedia.org/wiki/Gratitude), the [Golden Rule](https://en.wikipedia.org/wiki/Golden_Rule), or mutual goodwill.
 
-The**Golden Rule** is the principle of treating others as oneself would wish to be treated. It is a [maxim](https://en.wikipedia.org/wiki/Maxim_(philosophy)) that is found in many religions and [cultures](https://en.wikipedia.org/wiki/Culture)
+The **Golden Rule** is the principle of treating others as oneself would wish to be treated. It is a [maxim](https://en.wikipedia.org/wiki/Maxim_(philosophy)) that is found in many religions and [cultures](https://en.wikipedia.org/wiki/Culture)
 
 In [*Mahābhārata*](https://en.wikipedia.org/wiki/Mahabharata), the ancient epic of India, there is a discourse in which the wise minister Vidura advises the King Yuddhiśhṭhira
 
-Listening to wise scriptures, austerity, sacrifice, respectful faith, social welfare, forgiveness, purity of intent, compassion, truth and self-control - are the ten wealth of character (self). O king aim for these, may you be steadfast in these qualities. These are the basis of prosperity and rightful living. These are highest attainable things. All worlds are balanced on *dharma*,*dharma*encompasses ways to prosperity as well. O King,*dharma*is the best quality to have, wealth the medium and desire (*kāma*) the lowest. Hence, (keeping these in mind), by self-control and by making *dharma*(right conduct) your main focus, treat others as you treat yourself.
+Listening to wise scriptures, austerity, sacrifice, respectful faith, social welfare, forgiveness, purity of intent, compassion, truth and self-control - are the ten wealth of character (self). O king aim for these, may you be steadfast in these qualities. These are the basis of prosperity and rightful living. These are highest attainable things. All worlds are balanced on *dharma*, *dharma* encompasses ways to prosperity as well. O King, *dharma* is the best quality to have, wealth the medium and desire (*kāma*) the lowest. Hence, (keeping these in mind), by self-control and by making *dharma* (right conduct) your main focus, treat others as you treat yourself.
 
----*Mahābhārata Shānti-Parva*167:9
+---*Mahābhārata Shānti-Parva* 167:9
 
 <https://en.wikipedia.org/wiki/Golden_Rule>
 

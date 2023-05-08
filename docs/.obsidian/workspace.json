@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "decentralized-applications/ethereum/polygon.md",
+                "file": "devops/others/terraform/intro.md",
                 "mode": "source",
                 "source": false
               }
@@ -73,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "10-medallion-architecture",
+                "query": "Pavlov",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "decentralized-applications/ethereum/polygon.md",
+                "file": "devops/others/terraform/intro.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "decentralized-applications/ethereum/polygon.md",
+                "file": "devops/others/terraform/intro.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "decentralized-applications/ethereum/polygon.md"
+                "file": "devops/others/terraform/intro.md"
               }
             }
           },
@@ -216,6 +216,15 @@
   },
   "active": "978fd2faf621af33",
   "lastOpenFiles": [
+    "devops/others/readme.md",
+    "devops/others/terraform/intro.md",
+    "devops/others/terraform/commands.md",
+    "devops/others/terraform/examples.md",
+    "devops/others/terraform/variables.md",
+    "devops/others/terraform/documentation.md",
+    "psychology/others.md",
+    "knowledge/general/mental-models.md",
+    "decentralized-applications/ethereum/polygon.md",
     "office/personality/readme.md",
     "knowledge/others/philosophy.md",
     "devops/devops-intro/design.md",
@@ -235,15 +244,6 @@
     "ai/libraries/chatgpt-llm.md",
     "economics/financial-finance-investing/readme.md",
     "office/todo/todo-financial-investing.md",
-    "cloud/others/google-cloud-platform.md",
-    "languages/others/rust.md",
-    "frontend/frontend-intro/frontend-architecture.md",
-    "office/other/ciso.md",
-    "frontend/others/nextjs/data-fetching.md",
-    "frontend/others/frontend-frameworks.md",
-    "devops/ides/mac.md",
-    "decentralized-applications/tools.md",
-    "decentralized-applications/coins-tokens-chains/ordinals.md",
     "media/Intro-Syllabus_4.-Counting-image2.jpg",
     "media/Intro-Syllabus_4.-Counting-image3.jpg",
     "media/Intro-Syllabus_4.-Counting-image9.jpg",
