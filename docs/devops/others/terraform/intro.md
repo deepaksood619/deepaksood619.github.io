@@ -1,5 +1,14 @@
 # Terraform
 
+## TOC
+
+- [Documentation](terraform/documentation)
+- [Variables](terraform/variables)
+- [Examples](terraform/examples)
+- [Commands](terraform/commands)
+
+## Intro
+
 Declarative Programming tool for automating infrastructure resource creation
 
 Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
@@ -43,16 +52,29 @@ No. Terraform is a tool, which in turn uses Hashicorp Configuration Language (HC
 A simple workflow for deployment will follow closely to the steps below. We will go over each of these steps and concepts more in-depth throughout this track, so don't panic if you don't understand the concepts immediately.
 
 - **Scope -** Confirm what resources need to be created for a given project.
-
 - **Author -** Create the configuration file in HCL based on the scoped parameters
-
-- **Initialize -** Runterraform initin the project directory with the configuration files. This will download the correct provider plug-ins for the project.
-
-- **Plan & Apply -** Runterraform planto verify creation process and thenterraform applyto create real resources as well as state file that compares future changes in your configuration files to what actually exists in your deployment environment.
+- **Initialize -** Run `terraform init` in the project directory with the configuration files. This will download the correct provider plug-ins for the project.
+- **Plan & Apply -** Run `terraform plan` to verify creation process and thenterraform applyto create real resources as well as state file that compares future changes in your configuration files to what actually exists in your deployment environment.
 
 ## Configuration
 
 The set of files used to describe infrastructure in Terraform is simply known as a Terraform *configuration*.
+
+## Tools
+
+[Terraform Pull Request Automation | Atlantis](https://www.runatlantis.io/)
+
+### Terragrunt
+
+Terragrunt is a thin wrapper that provides extra tools for keeping your configurations DRY, working with multiple Terraform modules, and managing remote state.
+
+[Terragrunt | Terraform wrapper](https://terragrunt.gruntwork.io/)
+
+### Gruntwork
+
+Your entire infrastructure. Defined as code. In about a day
+
+[Gruntwork | DevOps as a Service](https://gruntwork.io/)
 
 ## Others - Puppet / AWS CloudFormation
 

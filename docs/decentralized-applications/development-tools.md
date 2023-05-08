@@ -41,3 +41,6 @@ Ocean provides the next generation of tools to unlock data at a large scale. Oce
 - [Hardhat | Ethereum development environment for professionals by Nomic Foundation](https://hardhat.org/)
 - [Sign-In with Ethereum](https://login.xyz/)
 - [Blockscout](https://www.blockscout.com/) - Blockchain explorer for Ethereum based network and a tool for inspecting and analyzing EVM based blockchains.
+- [Welcome to Substrate | Substrate\_ Docs](https://docs.substrate.io/learn/welcome-to-substrate/)
+- [GitHub - casey/ord: 👁‍🗨 Rare and exotic sats](https://github.com/casey/ord)
+- [Curvegrid 🛠 A 30 Minute DApp - Jeff Wentworth - YouTube](https://www.youtube.com/watch?v=PzmVzShojlM&ab_channel=ETHGlobal)

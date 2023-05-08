@@ -1,5 +1,6 @@
 # Libraries
 
+- [Chatgpt / LLM](ai/libraries/chatgpt-llm.md)
 - [AWS Sagemaker](aws-sagemaker)
 - [Datasets](datasets)
 - [ML Model Deployment](ml-model-deployment)

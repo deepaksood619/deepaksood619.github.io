@@ -259,7 +259,7 @@ Python > Advanced > Concurrency
 
 Dijkstra's Guarded Commands - <https://en.wikipedia.org/wiki/Guarded_Command_Language>
 
-Communicating sequential processes **- C.A.R. Hoare**
+[Communicating Sequential Processes, by C. A. R. Hoare (PDF Version)](http://www.usingcsp.com/)
 
 [Rob Pike - 'Concurrency Is Not Parallelism'](https://vimeo.com/49718712)
 

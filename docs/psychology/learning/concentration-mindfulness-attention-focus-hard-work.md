@@ -207,3 +207,5 @@ For this test to work, though, you have to be honest with yourself. Indeed, that
 - [Switch on your Brain](../../book-summaries/switch-on-your-brain)
 - [The Power of Concentration](../../book-summaries/the-power-of-concentration)
 - [Think and Grow Rich](../../book-summaries/think-and-grow-rich)
+
+[STOLEN FOCUS by Johann Hari | Core Message - YouTube](https://www.youtube.com/watch?v=DqlywBxYELw&ab_channel=ProductivityGame)

@@ -466,6 +466,14 @@ find content -type f -name '*' -print0 | xargs -0 rename 's/$/x/'
 
 # rename all files and folders to lowercase
 find . -name "*" -type f -depth -not -path "*/node_modules/*" -not -path  "*/.git/*" | xargs -n 1 rename -f 's/(.*)\/([^\/]*)/$1\/\L$2/' {} \;
+
+# rename dslr photos to it's created date with appended original name
+for f in *.*; do echo mv -n "$f" "$(stat -f'%SB' -t "%Y%m%d_%H%M%S" "$f")_${f%.*}.${f##*.}"; done
+
+# rename dslr photos to it's created date without appended original name
+for f in *.*; do echo mv -n "$f" "$(stat -f'%SB' -t "%Y%m%d_%H%M%S" "$f").${f##*.}"; done
+
+# todo - automatically run the commands, add millisecond precision
 ```
 
 ### hostname

@@ -15,3 +15,4 @@ Earth overshoot day - 27 July
 [This CAN'T be true... Minute Earth](https://www.youtube.com/watch?v=1uTlC_nRb00)
 
 - Packaging might be more environment friendly than non packaged food
+- Floating offshore wind farms can make living closer to shore better, since water problem can be solved by desalination

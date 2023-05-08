@@ -78,3 +78,5 @@ Essential elements of the lifecycle are identifying and formulating -
 - Hyperparameter Tuning
 - Results (Output)
 - Feedback for improvements
+
+[Data Engineering Vs Machine Learning Pipelines - What Is The Difference - YouTube](https://www.youtube.com/watch?v=g90ukIx1mhs&ab_channel=SeattleDataGuy)

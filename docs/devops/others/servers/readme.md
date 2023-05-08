@@ -11,13 +11,9 @@ A request comes in and arrives at the first component - a dedicatedweb server. I
 Examples
 
 1. Nginx
-
 2. Cherokee
-
 3. Apache HTTP Server
-
 4. Apache Tomcat
-
 5. IIS
 
 ## Application Server
@@ -27,17 +23,11 @@ Theapplication servergets those fancy requests and converts the information from
 Examples
 
 1. Gunicorn
-
 2. **uWSGI**
-
 3. Bjoern
-
 4. CherryPy
-
 5. Meinheld
-
 6. mod_WSGI
-
 7. WildFly (JBoss) written in Java
 
 ![image](../../../media/DevOps-Others-Servers-image1.jpg)
@@ -98,7 +88,7 @@ The WSGI has two sides:
 
 Between the server and the application, there may be one or more WSGI middleware components, which implement both side of the API
 
-## Why WSGI
+### Why WSGI
 
 - WSGI servers are designed to handle many requests concurrently. Frameworks are not made to process thousands of requests and determine how to best route them from the server.
 - WSGI speeds up Python web application development because you only need to know basic things about WSGI. If you use TurboGears, Django or CherryPy, you do not need to be concerned about how your particular framework utilizes the WSGI standard. However, you will benefit by understanding how WSGI is implemented.
@@ -110,13 +100,13 @@ ASGI (Asynchronous Server Gateway Interface) is a spiritual successor to WSGI, i
 
 Where WSGI provided a standard for synchronous Python apps, ASGI provides one for both asynchronous and synchronous apps, with a WSGI backwards-compatibility implementation and multiple servers and application frameworks.
 
-## How does ASGI work?
+### How does ASGI work?
 
 ASGI is structured as a single, asynchronous callable. It takesscope, which contains details about the incoming request, send, an awaitable that lets you send events to the client, andreceive, an awaitable which lets you receive events from the client.
 
 This not only allows multiple incoming events and outgoing events for each application, but also allows for a background coroutine so the application can do other things (such as listening for events on an external trigger, like a Redis queue).
 
-## Rationale
+### Rationale
 
 The WSGI specification has worked well since it was introduced, and allowed for great flexibility in Python framework and web server choice. However, its design is irrevocably tied to the HTTP-style request/response cycle, and more and more protocols that do not follow this pattern are becoming a standard part of web programming (most notably, WebSocket).
 
@@ -126,7 +116,7 @@ It also takes the principle of turning protocols into Python-compatible, asynchr
 
 Its primary goal is to provide a way to write HTTP/2 and WebSocket code alongside normal HTTP handling code, however; part of this design means ensuring there is an easy path to use both existing WSGI servers and applications, as a large majority of Python web usage relies on WSGI and providing an easy path forward is critical to adoption. Details on that interoperability are covered in the ASGI-HTTP spec.
 
-## Overview
+### Overview
 
 ASGI consists of two different components:
 
@@ -152,7 +142,7 @@ Each application instance maps to a single incoming "socket" or connection, and 
 
 It is important to clarify that only when you have large daily web traffic, you should be concerned about the performance of a web server. In case you have light daily web traffic, the performance of either of the web servers will not be affected. Furthermore, adding PHP-FPM to both the web server will not make a relative difference even though the actual performance will get enhanced in both cases. It is said that PHP-FPM has a better enhancement effect on Apache web server than Nginx. It is also said that Nginx is faster than Apache in most of the cases. Actually, there are two factors that determine the performance of the web servers for any given web application.
 
-## Content Type
+### Content Type
 
 There are basically two types of contents applicable in the web application. One is static content that stays the same throughout the lifetime of the website session and then there is dynamic content that keeps on changing based on various triggers. The performance of the web servers varies a lot based on this content type.
 
@@ -162,7 +152,7 @@ Coming to Nginx, Nginx lacks the ability to handle dynamic content internally. I
 
 Verdict -- If you have a web application that has more dynamic content, go for Apache. If the static content is more, Nginx is the best option.
 
-## Configuration
+### Configuration
 
 The reason why Apache is considered to be slower than Nginx in most of the cases is its repetitive configuration. Apache checks .htaccess file resides within the content directories. This helps in decentralized configuration but processing requests take a lot more time than it is the case with Nginx. Interpreting .htacceess file each time it is found on the request path is an old concept. This is more useful in content management systems or in shared hosting to allow non-privileged users to control certain aspects without full control over configuration file. Nginx, on the other hand, checks .htaccess files only on the parent directories and hence, the requests can be served faster.
 
@@ -170,11 +160,11 @@ Verdict -- Unless you have a website or web application where you need to give n
 
 <https://www.freelancinggig.com/blog/2018/04/25/apache-php-fpm-vs-nginx-php-fpm-performance-considerations>
 
-## File vs URI-Based Interpretation
+### File vs URI-Based Interpretation
 
 How the web server interprets requests and maps them to actual resources on the system is another area where these two servers differ.
 
-## Apache
+### Apache
 
 Apache provides the ability to interpret a request as a physical resource on the filesystem or as a URI location that may need a more abstract evaluation. In general, for the former Apache uses `<Directory>` or `<Files>` blocks, while it utilizes `<Location>` blocks for more abstract resources.
 
@@ -184,7 +174,7 @@ Apache provides a number of alternatives for when the request does not match the
 
 While Apache has the ability to operate on both the underlying filesystem and the webspace, it leans heavily towards filesystem methods. This can be seen in some of the design decisions, including the use of.htaccessfiles for per-directory configuration. The [Apache docs](http://httpd.apache.org/docs/2.4/sections.html#whichwhen) themselves warn against using URI-based blocks to restrict access when the request mirrors the underlying filesystem.
 
-## Nginx
+### Nginx
 
 Nginx was created to be both a web server and a proxy server. Due to the architecture required for these two roles, it works primarily with URIs, translating to the filesystem when necessary.
 
@@ -198,8 +188,14 @@ This may seem similar, but parsing requests primarily as URIs instead of filesys
 
 <https://www.digitalocean.com/community/tutorials/apache-vs-nginx-practical-considerations>
 
-<https://github.com/gin-gonic/gin>
+## Gin
 
 Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.
 
 <https://gin-gonic.com>
+
+<https://github.com/gin-gonic/gin>
+
+## Links
+
+[Why most TCP servers are multi threaded and how to build one from scratch - YouTube](https://www.youtube.com/watch?v=f9gUFy-9uCM&ab_channel=AsliEngineeringbyArpitBhayani)

@@ -18,13 +18,9 @@ The complete set of design standards, documentation, UI patterns, and components
 Atomic design is methodology for creating design systems. There are five distinct levels in atomic design:
 
 1. [Atoms](https://bradfrost.com/blog/post/atomic-web-design/#atoms)
-
 2. [Molecules](https://bradfrost.com/blog/post/atomic-web-design/#molecules)
-
 3. [Organisms](https://bradfrost.com/blog/post/atomic-web-design/#organisms)
-
 4. [Templates](https://bradfrost.com/blog/post/atomic-web-design/#templates)
-
 5. [Pages](https://bradfrost.com/blog/post/atomic-web-design/#pages)
 
 ![image](../../media/Design-System-image2.jpg)

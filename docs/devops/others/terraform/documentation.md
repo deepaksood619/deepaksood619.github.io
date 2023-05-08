@@ -2,13 +2,13 @@
 
 ## Providers
 
-Theproviderblock is used to configure the named provider, in our case "aws". A provider is responsible for creating and managing resources. A provider is a plugin that Terraform uses to translate the API interactions with the service. A provider is responsible for understanding API interactions and exposing resources. Because Terraform can interact with any API, almost any infrastructure type can be represented as a resource in Terraform.
+The provider block is used to configure the named provider, in our case "aws". A provider is responsible for creating and managing resources. A provider is a plugin that Terraform uses to translate the API interactions with the service. A provider is responsible for understanding API interactions and exposing resources. Because Terraform can interact with any API, almost any infrastructure type can be represented as a resource in Terraform.
 
 Multiple provider blocks can exist if a Terraform configuration manages resources from different providers. To add multiple providers in your configuration, declare the providers and create resources associated with those providers. If your configuration creates a new AWS instance in your environment and you need to add that instance to your Datadog monitoring, you would declare the providers sequentially and then declare your resources for each. In the example below, using multiple providers enables us to pass the instance information directly into the monitoring query.
 
 ## Resources
 
-Theresourceblock defines a resource that exists within the infrastructure. A resource might be a physical component such as an EC2 instance, or it can be a logical resource such as a Heroku application.
+The resource block defines a resource that exists within the infrastructure. A resource might be a physical component such as an EC2 instance, or it can be a logical resource such as a Heroku application.
 
 The resource block has two strings before opening the block: the resource type and the resource name. In our example, the resource type is "aws_instance" and the name is "example." The prefix of the type maps to the provider. In our case "aws_instance" automatically tells Terraform that it is managed by the "aws" provider.
 

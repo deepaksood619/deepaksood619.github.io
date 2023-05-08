@@ -160,8 +160,6 @@ Keep 10 almonds soaked in water over-night and eat them as soon as you wake up t
 
 ![image](../../../media/Nutrition_Food-image3.jpg)
 
-[How We Got the Science of Weight Loss Wrong - with Giles Yeo](https://www.youtube.com/watch?v=GQJ0Z0DRumg&ab_channel=TheRoyalInstitution)
-
 - Protein - 16% of your daily energy intake
 - Fibre > 30 grams per day
 - Free sugar < 5 per cent of your daily energy intake

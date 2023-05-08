@@ -69,6 +69,11 @@ Royal Institution - [How We Got the Science of Weight Loss Wrong - with Giles Ye
 
 Royal Institution - [Is Obesity a Choice? - with Giles Yeo](https://www.youtube.com/watch?v=88tWJ1p5d4o&t=5s&ab_channel=TheRoyalInstitution)
 
+[OUTLIVE by Peter Attia, MD | Core Message - YouTube](https://www.youtube.com/watch?v=Qd75zEnkVp0&ab_channel=ProductivityGame)
+
+- Biggest threat - Insulin resistance
+- Biggest solution - Physical exercise
+
 [What can nutrition teach us about Investing ? I Mihir Patki (Co-Founder - Multipie.co)](https://www.youtube.com/watch?v=sKiCagykVW4&ab_channel=EDGECommunity)
 
 - Basal Metabolic Rate (BMR)

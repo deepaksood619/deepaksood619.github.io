@@ -25,3 +25,7 @@ Bitcoin is money, and that’s the largest and most important use case, impactin
 ### SADO (self-authenticating decentralized **(interplanetary)** ordinalbooks)
 
 [SADO](http://sado.space/)
+
+## Links
+
+[Bitcoin Ordinals Analysis](https://dune.com/dgtl_assets/bitcoin-ordinals-analysis)

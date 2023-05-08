@@ -1,204 +1,204 @@
 {
   "recentFiles": [
     {
-      "basename": "udp",
-      "path": "networking/protocols/udp.md"
+      "basename": "polygon",
+      "path": "decentralized-applications/ethereum/polygon.md"
     },
     {
       "basename": "readme",
-      "path": "cloud/aws/compute/readme.md"
+      "path": "office/personality/readme.md"
     },
     {
-      "basename": "unit-3-solved-problems",
-      "path": "mathematics/probability/intro-to-probability/unit-3-solved-problems.md"
+      "basename": "philosophy",
+      "path": "knowledge/others/philosophy.md"
     },
     {
-      "basename": "unit-2-solved-problems",
-      "path": "mathematics/probability/intro-to-probability/unit-2-solved-problems.md"
-    },
-    {
-      "basename": "unit-1-solved-problems",
-      "path": "mathematics/probability/intro-to-probability/unit-1-solved-problems.md"
+      "basename": "design",
+      "path": "devops/devops-intro/design.md"
     },
     {
       "basename": "readme",
-      "path": "mathematics/probability/intro-to-probability/readme.md"
+      "path": "technologies/apache/databricks/readme.md"
     },
     {
-      "basename": "intro-syllabus",
-      "path": "mathematics/probability/intro-to-probability/intro-syllabus.md"
+      "basename": "10-medallion-architecture",
+      "path": "technologies/apache/databricks/10-medallion-architecture.md"
     },
     {
-      "basename": "additional-theoretical-material",
-      "path": "mathematics/probability/intro-to-probability/additional-theoretical-material.md"
+      "basename": "30-databricks-commands",
+      "path": "technologies/apache/databricks/30-databricks-commands.md"
     },
     {
-      "basename": "14.-intro-to-bayesian-inference",
-      "path": "mathematics/probability/intro-to-probability/14.-intro-to-bayesian-inference.md"
+      "basename": "01-databricks",
+      "path": "technologies/apache/databricks/01-databricks.md"
     },
     {
-      "basename": "13.-conditional-expectation-and-variance-revisited",
-      "path": "mathematics/probability/intro-to-probability/13.-conditional-expectation-and-variance-revisited.md"
-    },
-    {
-      "basename": "12.-sums-of-independent-rv-covariance-and-correlation",
-      "path": "mathematics/probability/intro-to-probability/12.-sums-of-independent-rv-covariance-and-correlation.md"
-    },
-    {
-      "basename": "11.-derived-distributions",
-      "path": "mathematics/probability/intro-to-probability/11.-derived-distributions.md"
-    },
-    {
-      "basename": "10-conditioning-on-a-random-variable-independence-bayes-rule",
-      "path": "mathematics/probability/intro-to-probability/10-conditioning-on-a-random-variable-independence-bayes-rule.md"
-    },
-    {
-      "basename": "9.-conditioning-on-an-event-multiple-continuous-rv",
-      "path": "mathematics/probability/intro-to-probability/9.-conditioning-on-an-event-multiple-continuous-rv.md"
-    },
-    {
-      "basename": "8.-probability-density-functions",
-      "path": "mathematics/probability/intro-to-probability/8.-probability-density-functions.md"
-    },
-    {
-      "basename": "7-conditioning-on-a-rv-independence-of-rv",
-      "path": "mathematics/probability/intro-to-probability/7-conditioning-on-a-rv-independence-of-rv.md"
-    },
-    {
-      "basename": "6-variance-conditioning-of-an-event-multiple-rv",
-      "path": "mathematics/probability/intro-to-probability/6-variance-conditioning-of-an-event-multiple-rv.md"
-    },
-    {
-      "basename": "5.-probability-mass-functions-and-expectations",
-      "path": "mathematics/probability/intro-to-probability/5.-probability-mass-functions-and-expectations.md"
-    },
-    {
-      "basename": "4.-counting",
-      "path": "mathematics/probability/intro-to-probability/4.-counting.md"
-    },
-    {
-      "basename": "3.-independence",
-      "path": "mathematics/probability/intro-to-probability/3.-independence.md"
-    },
-    {
-      "basename": "2.-conditioning-and-independence",
-      "path": "mathematics/probability/intro-to-probability/2.-conditioning-and-independence.md"
-    },
-    {
-      "basename": "1.1-set-sequences-limits-and-series-un-countable-sets",
-      "path": "mathematics/probability/intro-to-probability/1.1-set-sequences-limits-and-series-un-countable-sets.md"
-    },
-    {
-      "basename": "layer-2-protocols",
-      "path": "decentralized-applications/ethereum/layer-2-protocols.md"
-    },
-    {
-      "basename": "todo",
-      "path": "office/cakedefi/todo.md"
-    },
-    {
-      "basename": "crypto-news",
-      "path": "decentralized-applications/crypto-news.md"
-    },
-    {
-      "basename": "constitution",
-      "path": "knowledge/law/constitution-of-india/constitution.md"
-    },
-    {
-      "basename": "readme",
-      "path": "decentralized-applications/ethereum/readme.md"
-    },
-    {
-      "basename": "design-of-zookeeper",
-      "path": "ai/data-science/big-data/design-of-zookeeper.md"
-    },
-    {
-      "basename": "ethereum-staking",
-      "path": "decentralized-applications/ethereum/ethereum-staking.md"
-    },
-    {
-      "basename": "about",
-      "path": "office/blocktoons/about.md"
-    },
-    {
-      "basename": "readme",
-      "path": "ai/courses/readme.md"
-    },
-    {
-      "basename": "readme",
-      "path": "cloud/others/firebase/readme.md"
-    },
-    {
-      "basename": "seo-aso",
-      "path": "frontend/frontend-intro/seo-aso.md"
-    },
-    {
-      "basename": "neha",
-      "path": "office/keep/neha.md"
+      "basename": "arbitrum",
+      "path": "decentralized-applications/ethereum/arbitrum.md"
     },
     {
       "basename": "chatgpt-prompt-eng",
       "path": "ai/courses/chatgpt-prompt-eng.md"
     },
     {
+      "basename": "motivation",
+      "path": "knowledge/quotes-proverbs/motivation.md"
+    },
+    {
+      "basename": "development-tools",
+      "path": "decentralized-applications/development-tools.md"
+    },
+    {
       "basename": "neha",
-      "path": "office/personality/neha.md"
+      "path": "office/keep/neha.md"
     },
     {
-      "basename": "deepak-account-credentials",
-      "path": "office/keep/deepak-account-credentials.md"
+      "basename": "addresses-electricity",
+      "path": "office/personality/addresses-electricity.md"
     },
     {
-      "basename": "deepak-banks",
-      "path": "office/keep/deepak-banks.md"
+      "basename": "people-team-management-culture",
+      "path": "management/people-management/people-team-management-culture.md"
     },
     {
-      "basename": "startups-ideas-saas",
-      "path": "about-me/ideas/startups-ideas-saas.md"
+      "basename": "chatgpt-llm",
+      "path": "ai/libraries/chatgpt-llm.md"
     },
     {
-      "basename": "courses-certificates",
-      "path": "about-me/courses-certificates.md"
+      "basename": "readme",
+      "path": "economics/financial-finance-investing/readme.md"
     },
     {
-      "basename": "others-data",
-      "path": "technologies/others/others-data.md"
+      "basename": "todo-financial-investing",
+      "path": "office/todo/todo-financial-investing.md"
     },
     {
-      "basename": "new-home-place-house",
-      "path": "office/personality/new-home-place-house.md"
+      "basename": "google-cloud-platform",
+      "path": "cloud/others/google-cloud-platform.md"
+    },
+    {
+      "basename": "rust",
+      "path": "languages/others/rust.md"
+    },
+    {
+      "basename": "frontend-architecture",
+      "path": "frontend/frontend-intro/frontend-architecture.md"
+    },
+    {
+      "basename": "ciso",
+      "path": "office/other/ciso.md"
+    },
+    {
+      "basename": "data-fetching",
+      "path": "frontend/others/nextjs/data-fetching.md"
+    },
+    {
+      "basename": "frontend-frameworks",
+      "path": "frontend/others/frontend-frameworks.md"
+    },
+    {
+      "basename": "mac",
+      "path": "devops/ides/mac.md"
     },
     {
       "basename": "tools",
       "path": "decentralized-applications/tools.md"
     },
     {
-      "basename": "crypto-investing",
-      "path": "decentralized-applications/crypto-investing.md"
+      "basename": "ordinals",
+      "path": "decentralized-applications/coins-tokens-chains/ordinals.md"
+    },
+    {
+      "basename": "readme",
+      "path": "decentralized-applications/coins-tokens-chains/readme.md"
+    },
+    {
+      "basename": "readme",
+      "path": "ai/libraries/readme.md"
+    },
+    {
+      "basename": "ml-libraries",
+      "path": "ai/libraries/ml-libraries.md"
+    },
+    {
+      "basename": "todo",
+      "path": "office/cakedefi/todo.md"
+    },
+    {
+      "basename": "99-others",
+      "path": "technologies/apache/databricks/99-others.md"
+    },
+    {
+      "basename": "movies-serials-apps",
+      "path": "office/personality/movies-serials-apps.md"
     },
     {
       "basename": "books-to-read",
       "path": "book-summaries/books-to-read.md"
     },
     {
-      "basename": "mental-models",
-      "path": "knowledge/general/mental-models.md"
+      "basename": "grammer-vocabulary",
+      "path": "knowledge/language/grammer-vocabulary.md"
     },
     {
-      "basename": "religion",
-      "path": "knowledge/history/religion.md"
+      "basename": "vocabulary",
+      "path": "computer-science/distributed-system/vocabulary.md"
+    },
+    {
+      "basename": "civil-engineering",
+      "path": "knowledge/applied-sciences/civil-engineering.md"
+    },
+    {
+      "basename": "intro",
+      "path": "knowledge/general/intro.md"
+    },
+    {
+      "basename": "environmental-sciences",
+      "path": "knowledge/others/environmental-sciences.md"
+    },
+    {
+      "basename": "youtube-podcasts-magazine-apps",
+      "path": "devops/ides/youtube-podcasts-magazine-apps.md"
+    },
+    {
+      "basename": "pregnancy",
+      "path": "knowledge/biology/pregnancy.md"
+    },
+    {
+      "basename": "life",
+      "path": "knowledge/quotes-proverbs/life.md"
+    },
+    {
+      "basename": "logging",
+      "path": "python/django/logging.md"
     },
     {
       "basename": "readme",
-      "path": "knowledge/others/politics/readme.md"
+      "path": "data-structures/hashtable/readme.md"
     },
     {
-      "basename": "the-elephant-in-the-brain",
-      "path": "book-summaries/the-elephant-in-the-brain.md"
+      "basename": "kademlia",
+      "path": "data-structures/hashtable/kademlia.md"
     },
     {
-      "basename": "economics-mental-models",
-      "path": "economics/mental-models/economics-mental-models.md"
+      "basename": "dht-distributed-hash-tables",
+      "path": "data-structures/hashtable/dht-distributed-hash-tables.md"
+    },
+    {
+      "basename": "readme",
+      "path": "languages/sql/dql-data-query-language/readme.md"
+    },
+    {
+      "basename": "readme",
+      "path": "office/todo/readme.md"
+    },
+    {
+      "basename": "goal-setting",
+      "path": "management/project-management/goal-setting.md"
+    },
+    {
+      "basename": "reasons-why",
+      "path": "office/todo/reasons-why.md"
     }
   ],
   "omittedPaths": [],

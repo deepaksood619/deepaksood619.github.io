@@ -97,6 +97,22 @@ These are just a few examples, and the specific nodes used by different wallet s
 
 Ex - <http://203.184.52.247:8333/>
 
+### UTXO (Unspent Transaction Output)
+
+An unspent transaction output (UTXO) refers to a transaction output that can be used as input in a new transaction. In essence, UTXOs define where each blockchain transaction starts and finishes. The UTXO model is a fundamental element of Bitcoin and many other cryptocurrencies.
+
+- A UTXO is the amount of digital currency remaining after a cryptocurrency transaction is executed.
+- UTXOs are processed continuously and are part of the beginning and end of each transaction.
+- When a transaction is completed, any unspent outputs are recorded into a database as inputs that can be used later for a new transaction.
+
+Ethereum uses an account-based approach with account balances, so there are no UTXOs in the Ethereum Virtual Machine.
+
+[Unspent Transaction Output (UTXO) | Binance Academy](https://academy.binance.com/en/glossary/unspent-transaction-output-utxo)
+
+[UTXO Model: Definition, How It Works, and Goals](https://www.investopedia.com/terms/u/utxo.asp)
+
+[What is Unspent Transaction Output (UTXO)? - GeeksforGeeks](https://www.geeksforgeeks.org/what-is-unspent-transaction-output-utxo/)
+
 ## Links
 
 [Blockchain 102 and The Dark Side of Blockchain](https://www.youtube.com/watch?v=-so3AtnToek)

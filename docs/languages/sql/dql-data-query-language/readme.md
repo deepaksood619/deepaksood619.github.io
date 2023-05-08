@@ -115,3 +115,7 @@ GROUP BY
 [PostgreSQL: Documentation: 8.1: Date/Time Functions and Operators](https://www.postgresql.org/docs/8.1/functions-datetime.html)
 
 [weekday function | Databricks on AWS](https://docs.databricks.com/sql/language-manual/functions/weekday.html)
+
+## Links
+
+[A Deep Dive in How Slow SELECT \* is - YouTube](https://www.youtube.com/watch?v=wybjsKtA9hI&ab_channel=HusseinNasser)

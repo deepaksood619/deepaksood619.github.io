@@ -4,7 +4,7 @@
 
 - [coin-token-intro](decentralized-applications/coins-tokens-chains/coin-token-intro.md)
 - [bitcoin](decentralized-applications/coins-tokens-chains/bitcoin.md)
-- [ordinals](decentralized-applications/coins-tokens-chains/ordinals.md)
+- [Ordinals](decentralized-applications/coins-tokens-chains/ordinals.md)
 - [USD Coin (USDC)](decentralized-applications/coins-tokens-chains/usdc.md)
 - [Tether (USDT)](decentralized-applications/coins-tokens-chains/usdt.md)
 - [cardano](decentralized-applications/coins-tokens-chains/cardano.md)

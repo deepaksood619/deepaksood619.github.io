@@ -1007,3 +1007,5 @@ If you don't like something, **change it**. If you can't change it, change your 
 A man always has two reasons for doing anything, A good reason and the real reason -- J.P. Morgan
 
 The flame that burns twice as bright, burns half as long
+
+A belief is not dangerous until it turns absolute

@@ -191,6 +191,7 @@ Forgetting can be caused by two different processes. The first is a **failure of
     test delay (e.g. for a test in 10 days, study once a day)
 - Schedule your revision of each concept/topic to about the time that you would forget it (this needs self-experimentation as there is no formula to calculate this precisely)
 - Consider using a flashcards program (Anki, Quizlet, Supermemo)
+- [How to Supercharge Your Studying with Python, Anki, and ChatGPT](https://www.freecodecamp.org/news/supercharged-studying-with-python-anki-chatgpt/)
 
 ## Retrieval: Accessing Memories from the Brain
 

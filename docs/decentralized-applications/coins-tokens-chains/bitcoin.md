@@ -129,3 +129,7 @@ P2PKH addresses start with a "1"
 [Bitcoin price today, BTC to USD live, marketcap and chart | CoinMarketCap](https://coinmarketcap.com/currencies/bitcoin/)
 
 [What Is Bitcoin Halving | The Code Behind Bitcoin Halving Explained - YouTube](https://www.youtube.com/watch?v=OWeGcD6zJhA&ab_channel=Finematics)
+
+[GitHub - bitcoinbook/bitcoinbook: Mastering Bitcoin 2nd Edition - Programming the Open Blockchain](https://github.com/bitcoinbook/bitcoinbook)
+
+[GitHub - BlockchainCommons/Learning-Bitcoin-from-the-Command-Line: A complete course for learning Bitcoin programming and usage from the command](https://github.com/BlockchainCommons/Learning-Bitcoin-from-the-Command-Line)

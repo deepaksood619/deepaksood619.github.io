@@ -48,7 +48,7 @@ Elective Courses (choose 2 of 3):
   - Anything that increases the quantity demanded at a given price or that increases the maximum willingness to pay for a given quantity
 - A **decrease in demand** means a decrease in quantity demanded at every given price or (in other words) a decrease in the maximum willingness to pay for each given quantity
 
-## Demand Shifters (Income, Population, Substitutes, Complements, Expectations, Tastes)
+### Demand Shifters (Income, Population, Substitutes, Complements, Expectations, Tastes)
 
 - The effect of changes in income on demand **depends on the nature of the good in question**
 - A **Normal Good:** demand increases when income increases (and vice versa)
@@ -61,9 +61,25 @@ Elective Courses (choose 2 of 3):
   - Consumers will adjust their current spending **in anticipation of the direction of future prices** in order to obtain the lowest possible price.
 - Tastes and preferences are subjective and will vary among consumers
 
-## Change in Demand vs Change in Quantity Demanded
+### Change in Demand vs Change in Quantity Demanded
 
 ![image](../../media/Mental-Models_Microeconomics-image4.jpg)
+
+### Elasticity of Demand
+
+#### Elastic demand
+
+- Price = -10%
+- Demand = +15%
+
+Elasticity of demand = 1.5
+
+#### Inelastic demand
+
+- Price = -10%
+- Demand = +5%
+
+Elasticity of demand = 0.5
 
 ## The supply curve
 

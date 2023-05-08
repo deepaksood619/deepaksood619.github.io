@@ -269,6 +269,7 @@ API management apps built on Google Cloud
 - Cloud Tools for Eclipse
 - Gradle App Engine Plugin
 - Cloud Test Lab
+- [Assured Open Source Software  |  Google Cloud](https://cloud.google.com/assured-open-source-software)
 
 ## Productivity Tools
 

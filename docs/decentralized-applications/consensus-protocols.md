@@ -43,6 +43,12 @@ Liquid staking exchanges the token you are staking for a liquid-staking token th
   - Increased wear destroys SSDs after less than a year
   - No use beyond price speculation
 
+## Proof of Time
+
+[Proof-of-time vs. proof-of-stake: How the two algorithms compare](https://cointelegraph.com/news/proof-of-time-vs-proof-of-stake-how-the-two-algorithms-compare)
+
+[Proof-of-time - Simple English Wikipedia, the free encyclopedia](https://simple.wikipedia.org/wiki/Proof-of-time)
+
 ## Proof of Elapsed Time (2016)
 
 - Instead of computing hashes for PoW, just do: nothing! Go to sleep!
@@ -52,6 +58,8 @@ Liquid staking exchanges the token you are staking for a liquid-staking token th
 - Small questions: What guarantees do other nodes have that no node wakes up before its time?
   - Intel SGX
 - See also: Proof of Luck (PoL)
+
+[Proof of Elapsed Time (PoET) Definition, Purposes, Vs. PoW](https://www.investopedia.com/terms/p/proof-elapsed-time-cryptocurrency.asp)
 
 ## mobilecoin (2020): Proof of complexity
 

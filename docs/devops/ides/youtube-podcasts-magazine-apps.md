@@ -150,6 +150,7 @@
 - Pranjal Kamra
 - The madras trailer
 - A16z
+- Motilal Oswal Asset Management
 
 ### Trading
 
@@ -321,6 +322,7 @@ Indian History - <https://www.anirudhkanisetti.com/podcasts>
 - economic times
 - Sadguru daily quotes
 - YS buzz
+- Marcellus
 
 ## Tools
 

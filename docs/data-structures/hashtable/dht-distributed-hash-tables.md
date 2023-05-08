@@ -47,3 +47,5 @@ Beyond basic routing correctness, two important constraints on the topology are 
 ## References
 
 <https://en.wikipedia.org/wiki/Distributed_hash_table>
+
+[Kademlia](data-structures/hashtable/kademlia.md)

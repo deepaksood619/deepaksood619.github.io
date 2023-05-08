@@ -28,7 +28,7 @@ Most cloud solutions either have their own centralized logging solutions that co
 
 Another popular commercial solution for centralized logging and analysis both on premise and in the cloud is Splunk. Splunk is considered to be very scalable and is also commonly used as **Security Information and Event Management (SIEM)** system and has advanced table and data model support.
 
-## [AWS] How do you setup a Virtual Private Cloud (VPC)?
+## AWS - How do you setup a Virtual Private Cloud (VPC)?
 
 VPCs on AWS generally consist of a CIDR with multiple subnets. AWS allows one internet gateway (IG) per VPC, which is used to route traffic to and from the internet. The subnet with the IG is considered the public subnet and all others are considered private.
 

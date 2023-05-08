@@ -13,9 +13,7 @@ Knowledge acquisition involves complex [cognitive](https://en.wikipedia.org/wiki
 - Partial knowledge
 - Scientific knowledge
 
-STEM - Science, Technology, Engineering and Mathematics
-
-References
+**STEM - Science, Technology, Engineering and Mathematics**
 
 <https://en.wikipedia.org/wiki/Knowledge>
 

@@ -75,7 +75,7 @@ Open two instance of same application - **open -n MQTT.fx.app**
 12. ~~Popcorn~~
 13. **VLC** or [GitHub - iina/iina: The modern video player for macOS.](https://github.com/iina/iina)
 14. brew (/bin/bash -c "$(curl -fsSL <https://raw.githubusercontent.com/Homebrew/install/master/install.sh>)")
-15. ~~Anki Flash Cards~~
+15. ~~Anki Flash Cards~~ -
 16. ~~Anaconda navigator~~
 
     [~~https://conda.anaconda.org/conda-forge/~~](https://conda.anaconda.org/conda-forge/)
@@ -200,6 +200,8 @@ brew services cleanup
 - ~~fzf (A command-line fuzzy finder)~~
 
    <https://github.com/junegunn/fzf>
+
+- [GitHub - ellie/atuin: 🐢 Magical shell history](https://github.com/ellie/atuin)
 
 - ~~the_silver_searcher (command ag "services")~~
 

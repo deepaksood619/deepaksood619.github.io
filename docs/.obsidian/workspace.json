@@ -4,22 +4,47 @@
     "type": "split",
     "children": [
       {
-        "id": "4b9ca4411d81daf3",
+        "id": "982897a7da846994",
         "type": "tabs",
         "children": [
           {
-            "id": "77b5a48bcfe8b9cc",
+            "id": "c2b95f66e2ed34c8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "networking/protocols/udp.md",
+                "file": "ai/libraries/ml-libraries.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "070462c1793b6f0a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "decentralized-applications/ethereum/polygon.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c37b39ce7381f5e2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "office/personality/movies-serials-apps.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -48,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "summary-unit-6",
+                "query": "10-medallion-architecture",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -101,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "networking/protocols/udp.md",
+                "file": "decentralized-applications/ethereum/polygon.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "networking/protocols/udp.md",
+                "file": "decentralized-applications/ethereum/polygon.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "networking/protocols/udp.md"
+                "file": "decentralized-applications/ethereum/polygon.md"
               }
             }
           },
@@ -189,26 +214,36 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "77b5a48bcfe8b9cc",
+  "active": "978fd2faf621af33",
   "lastOpenFiles": [
-    "cloud/aws/compute/readme.md",
-    "mathematics/probability/intro-to-probability/unit-3-solved-problems.md",
-    "mathematics/probability/intro-to-probability/unit-2-solved-problems.md",
-    "mathematics/probability/intro-to-probability/unit-1-solved-problems.md",
-    "mathematics/probability/intro-to-probability/summary-unit-6.md",
-    "mathematics/probability/intro-to-probability/summary-unit-5.md",
-    "mathematics/probability/intro-to-probability/readme.md",
-    "mathematics/probability/intro-to-probability/summary-unit-4.md",
-    "mathematics/probability/intro-to-probability/intro-syllabus.md",
-    "mathematics/probability/intro-to-probability/additional-theoretical-material.md",
-    "mathematics/probability/intro-to-probability/additional-theoretical-material-1.md",
-    "mathematics/probability/intro-to-probability/14.-intro-to-bayesian-inference.md",
-    "mathematics/probability/intro-to-probability/13.-conditional-expectation-and-variance-revisited.md",
-    "mathematics/probability/intro-to-probability/12.-sums-of-independent-rv-covariance-and-correlation.md",
-    "mathematics/probability/intro-to-probability/11.-derived-distributions.md",
-    "mathematics/probability/intro-to-probability/10-conditioning-on-a-random-variable-independence-bayes-rule.md",
-    "mathematics/probability/intro-to-probability/9.-conditioning-on-an-event-multiple-continuous-rv.md",
-    "mathematics/probability/intro-to-probability/8.-probability-density-functions.md",
+    "office/personality/readme.md",
+    "knowledge/others/philosophy.md",
+    "devops/devops-intro/design.md",
+    "technologies/apache/databricks/readme.md",
+    "technologies/apache/databricks/10-medallion-architecture.md",
+    "technologies/apache/databricks/30-databricks-commands.md",
+    "technologies/apache/databricks/01-databricks.md",
+    "decentralized-applications/ethereum/arbitrum.md",
+    "ai/courses/chatgpt-prompt-eng.md",
+    "media/chatgpt-prompts.png",
+    "media/chatgpt-promt-engineering.png",
+    "knowledge/quotes-proverbs/motivation.md",
+    "decentralized-applications/development-tools.md",
+    "office/keep/neha.md",
+    "office/personality/addresses-electricity.md",
+    "management/people-management/people-team-management-culture.md",
+    "ai/libraries/chatgpt-llm.md",
+    "economics/financial-finance-investing/readme.md",
+    "office/todo/todo-financial-investing.md",
+    "cloud/others/google-cloud-platform.md",
+    "languages/others/rust.md",
+    "frontend/frontend-intro/frontend-architecture.md",
+    "office/other/ciso.md",
+    "frontend/others/nextjs/data-fetching.md",
+    "frontend/others/frontend-frameworks.md",
+    "devops/ides/mac.md",
+    "decentralized-applications/tools.md",
+    "decentralized-applications/coins-tokens-chains/ordinals.md",
     "media/Intro-Syllabus_4.-Counting-image2.jpg",
     "media/Intro-Syllabus_4.-Counting-image3.jpg",
     "media/Intro-Syllabus_4.-Counting-image9.jpg",
@@ -217,16 +252,6 @@
     "media/Intro-Syllabus_4.-Counting-image6.jpg",
     "media/Intro-Syllabus_4.-Counting-image5.jpg",
     "media/Intro-Syllabus_4.-Counting-image4.jpg",
-    "media/Intro-Syllabus_4.-Counting-image10.jpg",
-    "media/Intro-Syllabus_4.-Counting-image11.jpg",
-    "mathematics/probability/intro-to-probability/7-conditioning-on-a-rv-independence-of-rv.md",
-    "mathematics/probability/intro-to-probability/6-variance-conditioning-of-an-event-multiple-rv.md",
-    "mathematics/probability/intro-to-probability/5.-probability-mass-functions-and-expectations.md",
-    "mathematics/probability/intro-to-probability/4.-counting.md",
-    "mathematics/probability/intro-to-probability/3.-independence.md",
-    "mathematics/probability/intro-to-probability/2.-conditioning-and-independence.md",
-    "mathematics/probability/intro-to-probability/1.1-set-sequences-limits-and-series-un-countable-sets.md",
-    "mathematics/probability/intro-to-probability/unit-4-solved-problems.md",
     "office/stashfin-credentials",
     "management/people-management",
     "decentralized-applications/coins-tokens-chains",

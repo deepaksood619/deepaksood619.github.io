@@ -92,6 +92,8 @@ To reduce stress, start sooner. To be happy, learn to finish what you started.
 
 The hardest thing to do is leaving your comfort zone. But you have to let go of the life you're familiar with and take the risk to live the life you dream about
 
+It's hard to grow beyond something if you won't let go of it.
+
 Antifragile: Things That Gain from Disorder by Nassim Nicholas Taleb
 
 ### Antifragile
@@ -670,3 +672,5 @@ The true mark of a pro - at anything - is that he understands, loves, and is goo
 [HOW TO BEGIN by Michael Bungay Stanier | Core Message - YouTube](https://www.youtube.com/watch?v=YCOkYefqoyY)
 
 ![Keep Moving](../../media/keep-moving.png)
+
+Passion and Ownership: Buffett stressed the importance of working on something you truly love, ideally in your own business or at least having equity in it. Passion and ownership are key drivers for success, according to the Oracle of Omaha.

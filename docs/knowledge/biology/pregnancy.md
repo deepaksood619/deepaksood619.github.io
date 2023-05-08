@@ -55,3 +55,9 @@ It is a non-invasive test used for the surveillance of high-risk pregnancies whe
 ![image](../../media/Pregnancy-Diet-image3.jpg)
 
 ![image](../../media/Pregnancy-Diet-image4.jpg)
+
+## Others
+
+- Breastfeeding mothers do not ovulate
+- Lochia postpartum bleeding 6 weeks
+- Lanugo

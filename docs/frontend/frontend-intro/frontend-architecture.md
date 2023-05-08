@@ -97,12 +97,10 @@ A universal app sends to the browser a page populated with data. Then the app lo
 
 - **Flutter** - SDK from Google to build native mobile apps. Uses **Dart**
 - React Native - Build native mobile apps using the React framework
-- **NativeScript** - Build native mobile apps with JS, TS, Angular or Vue
-
-<https://nativescript.org>
-
+- **NativeScript** - Build native mobile apps with JS, TS, Angular or Vue - <https://nativescript.org>
 - Ionic - Build hybird mobile apps with JavaScript
 - Xamarin - Build native mobile apps with C#
+- [Dioxus | An elegant GUI library for Rust](https://dioxuslabs.com/)
 
 ## PWA: Progressive Web Apps
 

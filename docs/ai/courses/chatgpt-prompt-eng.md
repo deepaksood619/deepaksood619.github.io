@@ -36,11 +36,11 @@ Ans - The capital of France is Paris.
 
 ##### Tactic 1: Use delimiters to clearly indicate distinct parts of the input
 
--   Delimiters can be anything like: , `"""`, `< >`, `<tag> </tag>`, `:`
+- Delimiters can be anything like: , `"""`, `< >`, `<tag> </tag>`, `:`
 
 ##### Tactic 2: Ask for a structured output
 
--   JSON, HTML
+- JSON, HTML
 
 ##### Tactic 3: Ask the model to check whether conditions are satisfied
 
@@ -62,12 +62,24 @@ Makes statements that sound plausible but are not true
 
 First find relevant information, then answer the question based on the relevant information
 
-## Iterative
-## Summarizing
-## Inferring
-## Transforming
-## Expanding
-## Chatbot
-## Conclusion
+## Other Topics
+
+- Iterative
+- Summarizing
+- Inferring
+- Transforming
+- Expanding
+- Chatbot
+- Conclusion
 
 [ChatGPT Prompt Engineering for Developers - DeepLearning.AI](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/)
+
+![ChatGPT Ultimate Prompting Guide](../../media/chatgpt-promt-engineering.png)
+
+![ChatGPT Prompts Commands](../../media/chatgpt-prompts.png)
+
+## Learning
+
+[Large Language Models and Cybersecurity – What You Should Know](https://www.freecodecamp.org/news/large-language-models-and-cybersecurity/)
+
+[Understanding Large Language Models - by Sebastian Raschka](https://magazine.sebastianraschka.com/p/understanding-large-language-models?utm_source=substack&utm_medium=email)

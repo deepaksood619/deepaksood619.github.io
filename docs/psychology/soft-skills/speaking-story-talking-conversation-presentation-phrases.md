@@ -22,6 +22,7 @@ Use english - Indians have a bias towards English
 
 - Engage your audience
 - Preparation before presentation
+- Don't be a **Conversation narcissistic** (is someone who constantly turns the conversation to themselves and is otherwise disengaged in what's being said)
 
 ## Great speeches
 

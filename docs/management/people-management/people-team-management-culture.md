@@ -10,6 +10,8 @@ Most people are terrible managers
 
 Start your team with generalists and scale it by specialists.
 
+Let’s dream big, plan diligently, and execute relentlessly
+
 ## What When How
 
 - **What** are you going to do

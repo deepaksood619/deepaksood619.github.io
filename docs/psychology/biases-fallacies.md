@@ -289,6 +289,14 @@ In [marketing](https://en.wikipedia.org/wiki/Marketing), thedecoy effect is the 
 
 <https://en.wikipedia.org/wiki/Decoy_effect>
 
+## Hot hand fallacy
+
+The hot hand fallacy is the psychological condition that people believe an individual is "hot" or "cold" depending on past performance, when that performance has no bearing on future outcomes. For instance, rolling a die is independent of how you rolled it in the past.
+
+[Hot Hand: What it is, How it Works, Evidence](https://www.investopedia.com/terms/h/hot-hand.asp)
+
+[Hot hand - Wikipedia](https://en.wikipedia.org/wiki/Hot_hand)
+
 ## Economic Mental Errors / Fallacies
 
 ### Endowment Effect

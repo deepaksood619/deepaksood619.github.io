@@ -9,4 +9,4 @@
 - [Philosophy](philosophy)
 - [Education / PhD](education-phd)
 - [Chemistry Outline](chemistry-outline)
-- [News](knowledge/others/news.md)
+- [News](knowledge/others/news-problems.md)
