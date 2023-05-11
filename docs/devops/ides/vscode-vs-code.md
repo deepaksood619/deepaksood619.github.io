@@ -66,25 +66,18 @@ codeanywhere
 - `cmd + opt + ->` = move right in open editors
 - `cmd + K + cmd + S` = show all shortcuts
 - `cmd + shift + T` = reopen last closed tab
-
-## Changed commands
-
-- `cmd+y` = toggle sidebar (because `cmd+b` conflicts with markdown-all-in-one bold shortcut)
+- `Ctrl -` (go back)
+- `Ctrl Shift -` (go forward)
+- `Shift + Option F` (Format document)
+- `Option + Command + Up/Down` - Multiline cursor
+- Select All > `Option + shift + i` - Every line multiline cursor
+- Search > `Command + Shift + L` - Cursor in every searched line
 
 ## Navigation
 
-Forward / Back
-
-Ctrl + - / Ctrl + Shift + -
-
-Command Running
-
-Command + p ( + >)
-
-- git log
-
-Command + Shit + p (directly run commands)
-
+- Forward / Back - Ctrl + - / Ctrl + Shift + -
+- Command Running - Command + p ( + >)
+- git log - Command + Shit + p (directly run commands)
 - Shell Command : Install code in PATH
 - $ code .
 
@@ -96,13 +89,6 @@ Command + Shit + p (directly run commands)
   - ⌘+ (K=>0) (zero) on macOS
 - **Unfold All** unfolds all regions in the editor:
   - ⌘+ (K=>J) on macOS
-
-- `Ctrl -` (go back)
-- `Ctrl Shift -` (go forward)
-- `Shift + Option F` (Format document)
-- `Option + Command + Up/Down` - Multiline cursor
-- Select All > `Option + shift + i` - Every line multiline cursor
-- Search > `Command + Shift + L` - Cursor in every searched line
 
 ![image](../../media/DevOps-IDEs-VSCode-VS-Code-image1.jpg)
 

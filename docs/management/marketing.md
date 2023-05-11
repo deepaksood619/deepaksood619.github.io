@@ -1,5 +1,13 @@
 # Marketing
 
+## AI Tools
+
+[Postwise | Write, Schedule & Grow with Twitter AI](https://postwise.ai/)
+
+[Artificial Intelligence Marketing - Albert](https://albert.ai/) - AI Marketing Tool
+
+[Acquisio: AI-Powered PPC Management Tools & Programmatic Buying](https://www.acquisio.com/) - AI to Supercharge and Simplify Campaign Management
+
 ## Consumer Immersion Exercise
 
 ## ORM - Online Reputation Management

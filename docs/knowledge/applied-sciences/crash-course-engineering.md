@@ -54,9 +54,6 @@ The word engineering itself comes from the latin *Ingenium*, meaning **clevernes
     Solve civilian problems
 
 3. **Mechanical Engineering**
-
 4. **Electrical Engineering**
-
 5. **Chemical Engineering**
-
 6. Industrial Engineering

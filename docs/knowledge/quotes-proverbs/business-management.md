@@ -151,7 +151,8 @@ Everyone can do whatever they want, as long as it doesn't harm anyone else.
 
 Your right to swing your arms ends just where another person's nose begins.
 
-Give a man a fish and you feed him for a day. Teach a man to fish and you feed him for a lifetime
+Give a man a fish and you feed him for a day. Teach a man to fish and you feed him for a lifetime;
+Teach an AI to fish and it will teach itself biology, chemistry, oceanography, evolutionary theories.. and fish all the fish to extinction.
 
 You don't need to predict it to prevent it -- Miller
 

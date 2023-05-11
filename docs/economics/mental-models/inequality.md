@@ -23,3 +23,7 @@ The Lorenz curve is a graphical representation of [income inequality](https://ww
 ![image](../../media/Other-Statistics-image7.jpg)
 
 <https://www.investopedia.com/terms/l/lorenz-curve.asp>
+
+## Links
+
+[Capitalism Doesn't Need Consumers | Economics Explained - YouTube](https://www.youtube.com/watch?v=XySs_KgzyDc&ab_channel=EconomicsExplained)

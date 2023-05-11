@@ -21,6 +21,7 @@ Stock Photos - <https://unsplash.com>
 - <https://imagekit.io>
 - Image crop with Focus mode
 - <https://docs.imagekit.io/features/image-transformations/resize-crop-and-other-transformations#focus-fo>
+- [Serverless Image Handler | AWS Solutions](https://aws.amazon.com/solutions/implementations/serverless-image-handler/)
 
 ## Cloudflare
 

@@ -72,7 +72,7 @@ Brain is made to be efficient and not accurate
 
 ## Self Hyponosis
 
-1. Just five minutes before sleeping, create a movie in your mind about what your ideal image will be or what your tomorrow will be. Picture your goal everyday before going to sleep.
+Just five minutes before sleeping, create a movie in your mind about what your ideal image will be or what your tomorrow will be. Picture your goal everyday before going to sleep.
 
 ## Brain Tricks
 
@@ -94,18 +94,9 @@ Brain is a prediction making machine
 
 Adelson's checkerboard
 
-## Blinkist - Why We Sleep by Mathew Walker
+### Other Illusions
 
-- body clock dictates our sleep patterns
-- Sleep deprivation leads to high blood pressure and heart disease
-- Every animal needs sleep, but not same kind of sleep or the same amount of it
-  - Humans - 8 hours
-- Driving drowsy is equally as dangerous as driving drunk
-- Sleepwalking kills - and it's not caused by dreaming
-- If you want to sleep better, get lots of sunlight and avoid certain substances
-  - Hot bath before sleep
-  - Receive sunlight
-  - Wake up to morning sunlight and not to alarm
+[McGurk effect - Wikipedia](https://en.wikipedia.org/wiki/McGurk_effect)
 
 ## There are more than 5 senses
 
@@ -138,20 +129,6 @@ Object Permanence is the understanding that objectscontinue to exist even when t
 
   ![image](../media/brain-regions.jpg)
 
-## The importance of sleep in learning
-
-- sleep is the brain way to get rid of its toxins
-- erases less important part of memory and simultaneously strengthens areas that we want to remember by going over the synapses over and over
-- rehearses about some of the tougher part we want to learn
-- dreaming about what we are learning can help in the process of learning
-- Also just thinking about that we are going to dream about this topic can make dreams come.
-
-- Its very hard to do multitask, with a lot of training its possible
-- But it's better to do context switching between tasks (can increase or decrease the duration of each task according to priority)
-- hippocampus can create new neurons even in adulthood
-- In restrictive environment, exercise can help to create new neurons
-- persistent/passionate/hard-working/not giving up/staying the course/not letting go
-
 ## Meditation / Mental Exercises
 
 <https://blog.trello.com/sophrology-for-better-work-life-harmony>
@@ -159,3 +136,5 @@ Object Permanence is the understanding that objectscontinue to exist even when t
 ## Links
 
 [What is a mind? - with Philip Ball](https://www.youtube.com/watch?v=uKZWF5amZMg)
+
+[Sleep](psychology/sleep.md)

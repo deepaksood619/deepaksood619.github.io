@@ -68,3 +68,5 @@ annus mirabilis (miracle year)
 Annus horribilis - that's Latin for "a horrible year."
 
 nomen est omen - true to its name - the name is a sign - [Nominative determinism - Wikipedia](https://en.wikipedia.org/wiki/Nominative_determinism)
+
+Sleep to death

@@ -34,9 +34,11 @@
 
 ## Tokens / Stable coins
 
-- Tether
-- USD Coin
-- Binance USD
+[USDT vs. USDC vs. BUSD: What are the similarities and differences?](https://cointelegraph.com/learn/usdt-vs-usdc-vs-busd-what-are-the-similarities-and-differences)
+
+- Tether (USDT)
+- USD Coin (USDC)
+- Binance USD (BUSD)
 - Dai
 - Wrapped Bitcoin
 - LEO Token

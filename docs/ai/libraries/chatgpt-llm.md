@@ -54,13 +54,15 @@ Merlin Chrome Extension
 
 [Gamma App](https://gamma.app/) - AI generated presentation
 
-[Artificial Intelligence Marketing - Albert](https://albert.ai/) - AI Marketing Tool
+[AudioPen - The easiest way to convert messy thoughts into clear text.](https://audiopen.ai/)
 
-[Acquisio: AI-Powered PPC Management Tools & Programmatic Buying](https://www.acquisio.com/) - AI to Supercharge and Simplify Campaign Management
+[Instantly.ai - Cold Email Software](https://instantly.ai/)
 
 #### Prompts
 
 [https://snackprompt.com](https://snackprompt.com/)
+
+[GitHub - f/awesome-chatgpt-prompts: This repo includes ChatGPT prompt curation to use ChatGPT better.](https://github.com/f/awesome-chatgpt-prompts)
 
 ##### ChatGPT prompt to write error free
 
@@ -71,7 +73,3 @@ Prompt: "Proofread my writing above. Fix grammar and spelling mistakes. And make
 ##### Learn-fast prompt using the 80/20 principle to knowledge
 
 Prompt: "I want to learn about {insert topic}. Identify and share the most important 20% of learnings from this topic that will help me understand 80% of it."
-
-### Other LLM Tools
-
-[Instantly.ai - Cold Email Software](https://instantly.ai/)

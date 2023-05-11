@@ -178,13 +178,9 @@ HDFS Architecture
 <https://towardsdatascience.com/5-professional-projects-every-data-scientist-should-know-e89bf4e7e8e1>
 
 1. Customer Segmentation
-
 2. Text Classification
-
 3. Sentiment Analysis
-
 4. Time Series Forecasting
-
 5. Recommendation Systems
 
 ## Courses
@@ -282,6 +278,8 @@ Convoluational neural network - <https://towardsdatascience.com/the-most-intuiti
 <https://www.freecodecamp.org/news/learn-deep-learning-from-the-president-of-kaggle>
 
 <https://deepai.org>
+
+[Hugging Face – The AI community building the future.](https://huggingface.co/)
 
 ## Questions
 

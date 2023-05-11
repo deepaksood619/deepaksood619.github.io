@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "devops/others/terraform/intro.md",
+                "file": "decentralized-applications/ethereum/ethereum-intro.md",
                 "mode": "source",
                 "source": false
               }
@@ -73,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Pavlov",
+                "query": "flashbot",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -106,7 +106,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -126,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "devops/others/terraform/intro.md",
+                "file": "decentralized-applications/ethereum/ethereum-intro.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "devops/others/terraform/intro.md",
+                "file": "decentralized-applications/ethereum/ethereum-intro.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +167,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "devops/others/terraform/intro.md"
+                "file": "decentralized-applications/ethereum/ethereum-intro.md"
               }
             }
           },
@@ -214,36 +215,36 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "978fd2faf621af33",
+  "active": "070462c1793b6f0a",
   "lastOpenFiles": [
-    "devops/others/readme.md",
-    "devops/others/terraform/intro.md",
-    "devops/others/terraform/commands.md",
-    "devops/others/terraform/examples.md",
-    "devops/others/terraform/variables.md",
-    "devops/others/terraform/documentation.md",
+    "economics/schools-of-economic-thought.md",
+    "databases/nosql-databases/mongodb/intro.md",
+    "economics/mental-models/inequality.md",
+    "databases/nosql-databases/mongodb/overview.md",
+    "databases/nosql-databases/mongodb/others.md",
+    "databases/nosql-databases/mongodb/readme.md",
+    "knowledge/physics/others.md",
+    "knowledge/physics/intro.md",
+    "economics/investment-banking.md",
+    "economics/readme.md",
+    "knowledge/quotes-proverbs/motivation.md",
+    "psychology/brain.md",
+    "psychology/sleep.md",
+    "psychology/learning/concentration-mindfulness-attention-focus-hard-work.md",
+    "psychology/learning/memory.md",
+    "psychology/criticism.md",
+    "psychology/thinking-mental-models.md",
+    "psychology/strategic-thinking.md",
+    "psychology/power.md",
     "psychology/others.md",
-    "knowledge/general/mental-models.md",
-    "decentralized-applications/ethereum/polygon.md",
-    "office/personality/readme.md",
-    "knowledge/others/philosophy.md",
-    "devops/devops-intro/design.md",
-    "technologies/apache/databricks/readme.md",
-    "technologies/apache/databricks/10-medallion-architecture.md",
-    "technologies/apache/databricks/30-databricks-commands.md",
-    "technologies/apache/databricks/01-databricks.md",
-    "decentralized-applications/ethereum/arbitrum.md",
-    "ai/courses/chatgpt-prompt-eng.md",
+    "psychology/mental-models.md",
+    "psychology/habits.md",
+    "psychology/course-mindshift.md",
+    "ai/nlp/nlp-concepts.md",
+    "ai/nlp/readme.md",
+    "ai/nlp/intro.md",
     "media/chatgpt-prompts.png",
     "media/chatgpt-promt-engineering.png",
-    "knowledge/quotes-proverbs/motivation.md",
-    "decentralized-applications/development-tools.md",
-    "office/keep/neha.md",
-    "office/personality/addresses-electricity.md",
-    "management/people-management/people-team-management-culture.md",
-    "ai/libraries/chatgpt-llm.md",
-    "economics/financial-finance-investing/readme.md",
-    "office/todo/todo-financial-investing.md",
     "media/Intro-Syllabus_4.-Counting-image2.jpg",
     "media/Intro-Syllabus_4.-Counting-image3.jpg",
     "media/Intro-Syllabus_4.-Counting-image9.jpg",

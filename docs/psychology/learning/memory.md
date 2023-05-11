@@ -25,9 +25,7 @@ Astrocytes have a key role in learning.
 ## Meaningful Groups
 
 1. Have first letters of a list of items and map them together to create a meaningful group representing some simple object.
-
 2. Create a mnemonic for some concepts.
-
 3. Memory palace technique
 
 ## Long term memories for facts and events
@@ -37,25 +35,16 @@ Astrocytes have a key role in learning.
 
 ## Renaissance Learning and Unlocking your Potential
 
-Sometimes you cannot go forward with learning, that means the brain is restructuring itself to create a better foundation for next learning. After you come out of these phase, your learning potential or understanding can take a large leap forward.
-
-## Create a lively Visual Metaphor or Analogy
-
-## No need for genius Envy - Imposter Syndrome (Imposter syndrome involves frequent feelings of inadequacy.)
-
-## Change your thoughts, change your life
-
-## Perseverance (the virtue of the less brilliant)
-
-## The value of teamwork
-
-## A test checklist
-
-## Hard Start - Jump to Easy Technique
-
-## This test has got me excited to do my best
-
-## Have a deep breath in and out when you feel anxious
+- Sometimes you cannot go forward with learning, that means the brain is restructuring itself to create a better foundation for next learning. After you come out of these phase, your learning potential or understanding can take a large leap forward.
+- Create a lively Visual Metaphor or Analogy
+- No need for genius Envy - Imposter Syndrome (Imposter syndrome involves frequent feelings of inadequacy.)
+- Change your thoughts, change your life
+- Perseverance (the virtue of the less brilliant)
+- The value of teamwork
+- A test checklist
+- Hard Start - Jump to Easy Technique
+- This test has got me excited to do my best
+- Have a deep breath in and out when you feel anxious
 
 ## Working Memory
 

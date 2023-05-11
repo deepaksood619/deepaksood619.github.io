@@ -1,5 +1,7 @@
 # Intro
 
+Once an idea has taken hold of the brain it's almost impossible to eradicate. An idea that is fully formed - fully understood - that sticks; right in there somewhere. -- Inception
+
 ## Inspirations
 
 - [Product Hunt – The best new products in tech.](https://www.producthunt.com/)

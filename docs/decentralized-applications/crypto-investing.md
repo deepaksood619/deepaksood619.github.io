@@ -35,9 +35,15 @@ Authentication with hardware wallets like the Grid+ Lattice1, Keystone, Ledger, 
 
 [Metamask Learn: Your guide to getting started in Web3](https://learn.metamask.io/lessons/what-is-a-crypto-wallet)
 
+### Gas Fees Comparision
+
+- [L1 & L2 Comparisons & Benchmarks - Cross-Chain Usage, Growth, Gas, Fees](https://dune.com/msilb7/l2-and-l1-fee-comparison-benchmarks)
+- [Fees - DefiLlama](https://defillama.com/fees)
+
 ### Others
 
 - [Unocoin: Best Crypto Exchange in India](https://unocoin.com/in/)
+- [Mudrex - Easiest way to invest in Crypto](https://mudrex.com/)
 - [Home | PancakeSwap](https://pancakeswap.finance/)
   - Trade, earn, and win crypto on the most popular decentralized platform in the galaxy.
 - [Guide to DUSD: Earn Negative Interest of Up to -66.6% on DUSD](https://blog.defichain.com/earn-returns-with-negative-interest-rates/)
@@ -55,6 +61,7 @@ Authentication with hardware wallets like the Grid+ Lattice1, Keystone, Ledger, 
 
 - Huge Upside
 - Future
+  - Decentralized
 
 ## Cons
 

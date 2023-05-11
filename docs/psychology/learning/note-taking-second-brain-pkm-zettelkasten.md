@@ -89,3 +89,5 @@ Metadata is pretty vague, but in this case, I'm referring specifically to Datavi
 [LYT Kit](https://www.youtube.com/playlist?list=PL3NaIVgSlAVK6CQspGUYsbVF-EIGYuyth)
 
 [Making notes actually useful in Obsidian](https://www.youtube.com/watch?v=v7BbraqevMg)
+
+[The BASB Book](https://www.buildingasecondbrain.com/book)

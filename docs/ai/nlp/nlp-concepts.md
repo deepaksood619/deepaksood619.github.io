@@ -56,3 +56,5 @@ Answering this question involves finding the **antecedent** of the pronoun they,
 [Sentence Tokenization in Transformer Code from scratch! - YouTube](https://www.youtube.com/watch?v=VzS8hrOSSAs)
 
 [The complete guide to Transformer neural Networks! - YouTube](https://www.youtube.com/watch?v=Nw_PJdmydZY)
+
+[Ngram: The 1st Language Model - YouTube](https://www.youtube.com/watch?v=cUsqFx4Sij8&ab_channel=CodeEmporium)

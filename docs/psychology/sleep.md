@@ -44,3 +44,34 @@ Polyphasic sleep is the practice of sleeping in numerous smaller blocks during t
 - Help with insomnia.
 - Help many workers cope with their demanding schedules.
 - Improve overall sleep quality and quality of life.
+
+## The importance of sleep in learning
+
+- sleep is the brain way to get rid of its toxins
+- erases less important part of memory and simultaneously strengthens areas that we want to remember by going over the synapses over and over
+- rehearses about some of the tougher part we want to learn
+- dreaming about what we are learning can help in the process of learning
+- Also just thinking about that we are going to dream about this topic can make dreams come.
+
+- Its very hard to do multitask, with a lot of training its possible
+- But it's better to do context switching between tasks (can increase or decrease the duration of each task according to priority)
+- hippocampus can create new neurons even in adulthood
+- In restrictive environment, exercise can help to create new neurons
+- persistent/passionate/hard-working/not giving up/staying the course/not letting go
+
+## Blinkist - Why We Sleep by Mathew Walker
+
+- body clock dictates our sleep patterns
+- Sleep deprivation leads to high blood pressure and heart disease
+- Every animal needs sleep, but not same kind of sleep or the same amount of it
+  - Humans - 8 hours
+- Driving drowsy is equally as dangerous as driving drunk
+- Sleepwalking kills - and it's not caused by dreaming
+- If you want to sleep better, get lots of sunlight and avoid certain substances
+  - Hot bath before sleep
+  - Receive sunlight
+  - Wake up to morning sunlight and not to alarm
+
+## Links
+
+[Brain](psychology/brain.md)

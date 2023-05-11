@@ -16,6 +16,8 @@
 14. AWS Shield - DDOS Protection
 15. AWS WAF - Filter Malicious Web Traffic
 
+[AWS Startup Security Baseline (AWS SSB) - AWS Prescriptive Guidance](https://docs.aws.amazon.com/prescriptive-guidance/latest/aws-startup-security-baseline/welcome.html)
+
 ## Security Groups
 
 - Cluster security group - It is designed to allow all traffic from the control plane and managed node groups to flow freely between each other

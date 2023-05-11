@@ -38,7 +38,7 @@ WebP lossless images are [26% smaller](https://developers.google.com/speed/webp/
 
 Lossless WebPsupports transparency(also known as alpha channel) at a cost of just [22% additional bytes](https://developers.google.com/speed/webp/docs/webp_lossless_alpha_study#results). For cases when lossy RGB compression is acceptable, lossy WebP also supports transparency, typically providing 3× smaller file sizes compared to PNG.
 
-## How WebP Works
+### How WebP Works
 
 Lossy WebP compression uses predictive coding to encode an image, the same method used by the VP8 video codec to compress keyframes in videos. Predictive coding uses the values in neighboring blocks of pixels to predict the values in a block, and then encodes only the difference.
 
@@ -57,9 +57,13 @@ Lossless WebP compression uses already seen image fragments in order to exactly 
 
 <http://www.libpng.org/pub/png/apps/pngcheck.html>
 
-## pngcheck
+### pngcheck
 
 `pngcheck` verifies the integrity of PNG, JNG and MNG files (by checking the internal 32-bit CRCs, a.k.a. checksums, and decompressing the image data); it can optionally dump almost all of the chunk-level information in the image in human-readable form. For example, it can be used to print the basic statistics about an image (dimensions, bit depth, etc.); to list the color and transparency info in its palette (assuming it has one); or to extract the embedded text annotations. This is a command-line program with batch capabilities
+
+## Image processing
+
+[sharp - High performance Node.js image processing](https://sharp.pixelplumbing.com/)
 
 ## References
 

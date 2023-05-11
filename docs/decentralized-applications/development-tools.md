@@ -29,6 +29,27 @@ Ganache is an Ethereum simulator that makes developing Ethereum applications fas
 
 Ocean provides the next generation of tools to unlock data at a large scale. Ocean makes it easy to publish and consume data services.
 
+### DEXTools
+
+**This is an all-in-one tool for new crypto tokens.** It tracks real-time prices, transactions, liquidity, charts, and more.
+
+**What’s cool about it:** I don't know how to read a smart contract perfectly (your boy was only blessed with a double-digit IQ), but Dextools helps out by giving insights into:
+
+- whether or not that specific token has a verified contract
+- whether it’s safe or a scam
+- the latest transactions for that token
+
+### TokenSniffer
+
+This is a tool that analyzes the token’s smart contract, tokenomics, holders, etc, and then **generates a security audit score for that specific token.**
+
+**What’s cool about it:** TokenSniffer tells you stuff like if...
+
+- The token is sellable or just a honeypot scam
+- The contract source is verified
+- The creator wallet holds more than 5% of the circulating token supply
+- There’s adequate liquidity for the token
+
 ### Others
 
 - [NEAR Protocol | Reimagine your World](https://near.org/)

@@ -67,3 +67,7 @@ Schooling isn't just about education, it is also a form a childcare
 [How to Raise Successful Kids -- Without Over-Parenting | Julie Lythcott-Haims | TED](https://www.youtube.com/watch?v=CyElHdaqkjo)
 
 - Checklist
+
+## Links
+
+[Colin Powell: Kids need structure | TED - YouTube](https://www.youtube.com/watch?v=NhYnouvrG_8&ab_channel=TED)

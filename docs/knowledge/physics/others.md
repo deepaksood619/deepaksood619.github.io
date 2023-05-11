@@ -19,3 +19,9 @@ the phenomenon in which the value of a physical property lags behind changes in 
 <https://publish.obsidian/myquantumwell/Welcome+to+The+Quantum+Well>
 
 [A future with quantum biology - with Alexandra Olaya-Castro](https://www.youtube.com/watch?v=rYYHQYx_QvY)
+
+## Links
+
+[How To Go Faster Than Light Speed - YouTube](https://www.youtube.com/watch?v=akBpQ-A7mCQ&ab_channel=BeSmart)
+
+[LED Display | The detailed Physics behind it - YouTube](https://www.youtube.com/watch?v=96QwqOZ4xjE&ab_channel=Lesics)

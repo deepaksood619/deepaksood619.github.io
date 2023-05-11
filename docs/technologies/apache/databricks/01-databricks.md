@@ -19,6 +19,8 @@ Unity Catalog is a unified governance solution for all data and AI assets includ
 - Integrated with your existing tools
 - Unified and secure data search experience
 
+**Permissioning -** Permissions do inherit downwards, but ownership does not.
+
 [Work with Unity Catalog and the legacy Hive metastore | Databricks on AWS](https://docs.databricks.com/data-governance/unity-catalog/hive-metastore.html#)
 
 [Work with Unity Catalog and the legacy Hive metastore - Azure Databricks | Microsoft Learn](https://learn.microsoft.com/en-us/azure/databricks/data-governance/unity-catalog/hive-metastore)

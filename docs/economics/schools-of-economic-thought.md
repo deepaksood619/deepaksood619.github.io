@@ -45,3 +45,7 @@ Anarcho-capitalismis a [political philosophy](https://www.wikiwand.com/en/Politi
 Problem with Capitalism - It creates a problem, and rather than fixing the problem, it creates a new business to solve the problem
 
 [Is capitalism actually broken?](https://www.youtube.com/watch?v=wcR815SfWOU)
+
+## Links
+
+[The Most Important Economic Schools of Thought | Economics Explained - YouTube](https://www.youtube.com/watch?v=o6UXRZ2XwgU&ab_channel=EconomicsExplained)

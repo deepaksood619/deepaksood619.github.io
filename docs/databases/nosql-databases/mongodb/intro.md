@@ -109,9 +109,14 @@ Performance metrics - <https://stackoverflow.com/a/37654411/5424888>
 
 - How to add access control for some fields in a document (like some users cannot access first_name, last_name in a customer_id document
 
+## Optimizations
+
+[2x Faster Reads and Writes with this MongoDB feature | Clustered Collections - YouTube](https://www.youtube.com/watch?v=OhJ3xcjtpis&ab_channel=HusseinNasser)
+
 ## GridFS
 
 [GridFS](https://docs.mongodb.com/manual/reference/glossary/#term-gridfs) is a specification for storing and retrieving files that exceed the [BSON](https://docs.mongodb.com/manual/reference/glossary/#term-bson)-document [size limit](https://docs.mongodb.com/manual/reference/limits/#limit-bson-document-size) of 16 MB.
+
 <https://docs.mongodb.com/manual/core/gridfs>
 
 ## UI / Tools

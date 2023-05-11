@@ -16,6 +16,8 @@ Conform - (of a person) behave according to socially acceptable conventions or s
 
 Everyone is an authority on everything these days. Take weight loss for instance. Everyone will have a tip or two to offer, much of it common sense; eat healthy, exercise daily, sleep well.
 
+New tech, like BRC-20, will always attract some of the most brilliant engineers & investors…and the most brilliant scammers & risk-takers too.
+
 ## Group Behavior / Group Dynamism / Social conformity
 
 [The Asch Experiment](https://www.youtube.com/watch?v=iRh5qy09nNw)

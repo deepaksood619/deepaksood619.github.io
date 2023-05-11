@@ -250,7 +250,6 @@ If you have an object expiration lifecycle policy in your unversioned bucket and
 
 ```bash
 aws glacier help
-
 ```
 
 #### Glacier Vault

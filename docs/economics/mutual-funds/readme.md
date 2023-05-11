@@ -166,6 +166,8 @@ For example, a multi-asset fund might invest in equity, debt, as well as gold.
 
 ## Index Funds
 
+[11 Different Types of Index Funds in India | How Index Funds Work | Index Funds for Beginners - YouTube](https://www.youtube.com/watch?v=6FhpZd-PAq8&ab_channel=ShankarNath)
+
 - Broad market index funds
 - Market capatalization index funds
 - Equal weight index funds

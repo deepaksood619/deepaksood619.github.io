@@ -237,6 +237,7 @@ Extensions that helps make obsidian better
 
 - AppFlowy - Open-source alternative to Notion
 - <https://anytype.io/en>
+- [Dendron](https://www.dendron.so/)
 
 <https://www.slant.co/topics/4962/~knowledge-base-systems-for-personal-use>
 

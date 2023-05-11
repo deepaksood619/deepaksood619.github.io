@@ -20,6 +20,7 @@ The Top Three Highest Ranking Crypto Websites on Alexa
 - Vauld (FDs)
 - Bitfinex (Exchange)
 - **Kraken** - [https://coinmarketcap.com/exchanges/kraken/](https://coinmarketcap.com/exchanges/kraken/)
+- [Cryptocurrency Exchange - Crypto & Altcoin Swap Platform with Lowest Fees](https://changelly.com/)
 
 [Compare Crypto Exchanges In India](https://www.forbes.com/advisor/in/investing/cryptocurrency/best-crypto-exchange-in-india/)
 

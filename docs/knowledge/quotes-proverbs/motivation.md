@@ -594,6 +594,8 @@ Being interested precedes the results.
 - It's easy to stand out among people and be a big fish in small pond. It's much more difficult when you're a wolf, surrounded by wolves.
 - Torch the complacency you feel gathering around you, continue to put obstacles in front of yourself because that's where you will find the friction that will help you grow even stronger.
 
+[NEVER FINISHED by David Goggins | Core Message - YouTube](https://www.youtube.com/watch?v=OS5tb5WK1XQ&ab_channel=ProductivityGame)
+
 ## Blinkist - Design Your Future by Dominick Quartuccio (8 May 2019)
 
 Three simple steps to stop drifting and start living
