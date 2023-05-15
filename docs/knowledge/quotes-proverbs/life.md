@@ -1,5 +1,7 @@
 # Life
 
+It’s almost always about money.
+
 In is the only way out.
 
 It's just an idea. It's not me.

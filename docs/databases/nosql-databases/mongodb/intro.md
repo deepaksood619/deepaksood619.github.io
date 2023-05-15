@@ -121,9 +121,9 @@ Performance metrics - <https://stackoverflow.com/a/37654411/5424888>
 
 ## UI / Tools
 
-<https://www.mongodb.com/products/compass>
-
-<https://studio3t.com>
+- <https://www.mongodb.com/products/compass>
+- <https://studio3t.com>
+- Metabase
 
 ## Others
 

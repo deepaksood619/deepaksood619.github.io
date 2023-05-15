@@ -27,3 +27,5 @@ The Lorenz curve is a graphical representation of [income inequality](https://ww
 ## Links
 
 [Capitalism Doesn't Need Consumers | Economics Explained - YouTube](https://www.youtube.com/watch?v=XySs_KgzyDc&ab_channel=EconomicsExplained)
+
+- Economic value of human will be negative

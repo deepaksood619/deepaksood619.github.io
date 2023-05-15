@@ -65,8 +65,13 @@ For example, let’s say there are 10 donors who donate $1 each to project A, an
 A perpetual contract is a derivative similar to a futures contract but without an expiry date. In conventional markets, a futures contract enables people to speculate on the price of an underlying asset until a specific date in the future when that asset is delivered (in-kind or cash-equivalent). Comparatively, perpetual contracts are permanent where the underlying is never delivered and traders pay certain fees to maintain their position.
 
 [PERPETUAL PROTOCOL - Next Level In Decentralized Trading? (Layer 2, Uniswap V3) - YouTube](https://www.youtube.com/watch?v=pBoKtkoNZEY)
-
 [What is Perpetual Protocol? (PERP) | Kraken](https://www.kraken.com/learn/what-is-perpetual-protocol-perp)
+
+## Other Protocols
+
+- [Yearn](https://yearn.finance/)
+- [YEARN FINANCE And YFI Token Explained | DeFi, Ethereum - YouTube](https://www.youtube.com/watch?v=qG1goOptZ5w&ab_channel=Finematics)
+- [What are YEARN VAULTS? ETH Vault Explained | DEFI, YIELD FARMING - YouTube](https://www.youtube.com/watch?v=9vTaNl2_B8A&ab_channel=Finematics)
 
 ## References
 

@@ -54,6 +54,15 @@ To ensure your pipelines are efficient and maintainable, choose the best dataset
 - Query results should be computed incrementally.
 - High throughput and low latency is desired for the pipeline.
 
+#### Some general rules
+
+- The less frequently your underlying data sources update (i.e. your data freshness requirement is constrained upstream), the more rationale there is to convert expensive joins and queries into materialized views.
+- Similarly, the less actual data that comes in as part of changes, the more rationale there is to use materialized views and DLT because those incremental data points can be (sanely!) maintained.
+- And again, if it's okay for your data to be "directionally correct" or have some imprecision, then again the performance benefits of a materialized view are greater.
+- And finally, if a particular set of query patterns dominate your overall usage (think 80/20 rule), there's more rationale to provide materialized views of those results to users.
+
+[Views vs Materialized Delta Tables](https://community.databricks.com/s/question/0D53f00001GHVMlCAP/views-vs-materialized-delta-tables)
+
 [Getting Started with Delta Live Tables – Databricks](https://www.databricks.com/discover/pages/getting-started-with-delta-live-tables)
 
 [What is Delta Live Tables? | Databricks on AWS](https://docs.databricks.com/delta-live-tables/index.html)

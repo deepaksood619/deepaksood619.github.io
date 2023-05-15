@@ -1,204 +1,204 @@
 {
   "recentFiles": [
     {
-      "basename": "ethereum-intro",
-      "path": "decentralized-applications/ethereum/ethereum-intro.md"
+      "basename": "databricks-sql",
+      "path": "languages/sql/databricks-sql.md"
     },
     {
-      "basename": "schools-of-economic-thought",
-      "path": "economics/schools-of-economic-thought.md"
+      "basename": "sql-queries",
+      "path": "office/cakedefi/sql-queries.md"
     },
     {
-      "basename": "intro",
-      "path": "databases/nosql-databases/mongodb/intro.md"
+      "basename": "todo",
+      "path": "office/cakedefi/todo.md"
     },
     {
-      "basename": "inequality",
-      "path": "economics/mental-models/inequality.md"
+      "basename": "20-delta-live-tables",
+      "path": "technologies/apache/databricks/20-delta-live-tables.md"
     },
     {
-      "basename": "overview",
-      "path": "databases/nosql-databases/mongodb/overview.md"
-    },
-    {
-      "basename": "others",
-      "path": "databases/nosql-databases/mongodb/others.md"
-    },
-    {
-      "basename": "readme",
-      "path": "databases/nosql-databases/mongodb/readme.md"
-    },
-    {
-      "basename": "others",
-      "path": "knowledge/physics/others.md"
+      "basename": "sql-views",
+      "path": "languages/sql/sql-views.md"
     },
     {
       "basename": "intro",
-      "path": "knowledge/physics/intro.md"
+      "path": "computer-science/system-design/microservice-architecture/intro.md"
     },
     {
-      "basename": "investment-banking",
-      "path": "economics/investment-banking.md"
-    },
-    {
-      "basename": "readme",
-      "path": "economics/readme.md"
-    },
-    {
-      "basename": "motivation",
-      "path": "knowledge/quotes-proverbs/motivation.md"
-    },
-    {
-      "basename": "brain",
-      "path": "psychology/brain.md"
-    },
-    {
-      "basename": "sleep",
-      "path": "psychology/sleep.md"
-    },
-    {
-      "basename": "concentration-mindfulness-attention-focus-hard-work",
-      "path": "psychology/learning/concentration-mindfulness-attention-focus-hard-work.md"
-    },
-    {
-      "basename": "memory",
-      "path": "psychology/learning/memory.md"
-    },
-    {
-      "basename": "criticism",
-      "path": "psychology/criticism.md"
-    },
-    {
-      "basename": "thinking-mental-models",
-      "path": "psychology/thinking-mental-models.md"
-    },
-    {
-      "basename": "strategic-thinking",
-      "path": "psychology/strategic-thinking.md"
-    },
-    {
-      "basename": "power",
-      "path": "psychology/power.md"
-    },
-    {
-      "basename": "others",
-      "path": "psychology/others.md"
-    },
-    {
-      "basename": "mental-models",
-      "path": "psychology/mental-models.md"
-    },
-    {
-      "basename": "habits",
-      "path": "psychology/habits.md"
-    },
-    {
-      "basename": "course-mindshift",
-      "path": "psychology/course-mindshift.md"
-    },
-    {
-      "basename": "nlp-concepts",
-      "path": "ai/nlp/nlp-concepts.md"
-    },
-    {
-      "basename": "readme",
-      "path": "ai/nlp/readme.md"
+      "basename": "design-patterns",
+      "path": "computer-science/system-design/microservice-architecture/design-patterns.md"
     },
     {
       "basename": "intro",
-      "path": "ai/nlp/intro.md"
+      "path": "databases/sql-databases/aws-aurora/intro.md"
     },
     {
-      "basename": "full-text-searches",
-      "path": "technologies/elasticsearch/full-text-searches.md"
+      "basename": "data-business-analyst-data-science",
+      "path": "office/hr-interviews/data-business-analyst-data-science.md"
     },
     {
-      "basename": "documentation",
-      "path": "databases/sql-databases/mysql/documentation.md"
+      "basename": "sql-joins",
+      "path": "languages/sql/sql-joins.md"
     },
     {
-      "basename": "database-index",
-      "path": "databases/indexing/database-index.md"
+      "basename": "keys",
+      "path": "languages/sql/keys.md"
     },
     {
-      "basename": "crash-course-physics",
-      "path": "knowledge/physics/crash-course-physics.md"
+      "basename": "40-databricks-commands",
+      "path": "technologies/apache/databricks/40-databricks-commands.md"
     },
     {
-      "basename": "astronomy",
-      "path": "knowledge/physics/astronomy.md"
+      "basename": "experience",
+      "path": "about-me/experience.md"
     },
     {
-      "basename": "others-resources-interview",
-      "path": "ai/courses/others-resources-interview.md"
+      "basename": "self-control-will-power",
+      "path": "psychology/self-control-will-power.md"
     },
     {
-      "basename": "goals",
-      "path": "office/todo/goals.md"
+      "basename": "readme",
+      "path": "about-me/readme.md"
+    },
+    {
+      "basename": "projects",
+      "path": "about-me/projects.md"
+    },
+    {
+      "basename": "thoughts-future-ideas-vision-prediction",
+      "path": "about-me/ideas/thoughts-future-ideas-vision-prediction.md"
+    },
+    {
+      "basename": "web-scraping",
+      "path": "python/advanced/web-scraping.md"
+    },
+    {
+      "basename": "daily-requirements",
+      "path": "knowledge/biology/nutrition/daily-requirements.md"
     },
     {
       "basename": "chatgpt-llm",
       "path": "ai/libraries/chatgpt-llm.md"
     },
     {
-      "basename": "marketing",
-      "path": "management/marketing.md"
+      "basename": "firebase-analytics",
+      "path": "cloud/others/firebase/firebase-analytics.md"
     },
     {
-      "basename": "intro",
-      "path": "about-me/ideas/intro.md"
-    },
-    {
-      "basename": "readme",
-      "path": "about-me/ideas/readme.md"
-    },
-    {
-      "basename": "youtube-podcasts-magazine-apps",
-      "path": "devops/ides/youtube-podcasts-magazine-apps.md"
-    },
-    {
-      "basename": "addresses-electricity",
-      "path": "office/personality/addresses-electricity.md"
-    },
-    {
-      "basename": "infra",
-      "path": "office/blocktoons/infra.md"
-    },
-    {
-      "basename": "people",
-      "path": "office/blocktoons/people.md"
-    },
-    {
-      "basename": "obsidian",
-      "path": "devops/ides/obsidian.md"
+      "basename": "product-design-questions",
+      "path": "management/product-management/product-design-questions.md"
     },
     {
       "basename": "infra",
       "path": "office/cakedefi/infra.md"
     },
     {
-      "basename": "crypto-investing",
-      "path": "decentralized-applications/crypto-investing.md"
+      "basename": "blogs-conferences-blogging-presentation-tech-thursdays",
+      "path": "computer-science/interview-question/blogs-conferences-blogging-presentation-tech-thursdays.md"
     },
     {
-      "basename": "03-optimizations",
-      "path": "technologies/apache/databricks/03-optimizations.md"
+      "basename": "grammer-vocabulary",
+      "path": "knowledge/language/grammer-vocabulary.md"
     },
     {
-      "basename": "microsoft-excel-google-sheets",
-      "path": "computer-science/courses/microsoft-excel-google-sheets.md"
+      "basename": "addresses-electricity",
+      "path": "office/personality/addresses-electricity.md"
+    },
+    {
+      "basename": "checklist-tips-personal-finance-quotes",
+      "path": "economics/financial-finance-investing/checklist-tips-personal-finance-quotes.md"
+    },
+    {
+      "basename": "emotions",
+      "path": "psychology/emotions.md"
+    },
+    {
+      "basename": "Pasted image 20230514131840",
+      "path": "media/Pasted image 20230514131840.png"
     },
     {
       "basename": "readme",
-      "path": "decentralized-applications/coins-tokens-chains/readme.md"
+      "path": "psychology/readme.md"
     },
     {
-      "basename": "crypto-exchanges",
-      "path": "decentralized-applications/crypto-exchanges.md"
+      "basename": "strategic-thinking",
+      "path": "psychology/strategic-thinking.md"
     },
     {
-      "basename": "usdt",
-      "path": "decentralized-applications/coins-tokens-chains/usdt.md"
+      "basename": "self-awareness",
+      "path": "psychology/self-awareness.md"
+    },
+    {
+      "basename": "life-relationship-people",
+      "path": "psychology/life-relationship-people.md"
+    },
+    {
+      "basename": "sleep",
+      "path": "psychology/sleep.md"
+    },
+    {
+      "basename": "thinking-mental-models",
+      "path": "psychology/thinking-mental-models.md"
+    },
+    {
+      "basename": "brain",
+      "path": "psychology/brain.md"
+    },
+    {
+      "basename": "deepak-banks",
+      "path": "office/keep/deepak-banks.md"
+    },
+    {
+      "basename": "my-infra",
+      "path": "office/other/my-infra.md"
+    },
+    {
+      "basename": "aws-services",
+      "path": "cloud/aws/aws-services.md"
+    },
+    {
+      "basename": "others",
+      "path": "cloud/aws/others.md"
+    },
+    {
+      "basename": "intro",
+      "path": "cloud/aws/security-identity-compliance/intro.md"
+    },
+    {
+      "basename": "amazon-ebs",
+      "path": "cloud/aws/storage/amazon-ebs.md"
+    },
+    {
+      "basename": "readme",
+      "path": "cloud/aws/readme.md"
+    },
+    {
+      "basename": "architecting-on-aws",
+      "path": "cloud/aws/architecting-on-aws.md"
+    },
+    {
+      "basename": "infra",
+      "path": "office/blocktoons/infra.md"
+    },
+    {
+      "basename": "ml-libraries",
+      "path": "ai/libraries/ml-libraries.md"
+    },
+    {
+      "basename": "goals",
+      "path": "office/todo/goals.md"
+    },
+    {
+      "basename": "delta-lake",
+      "path": "networking/others/delta-lake.md"
+    },
+    {
+      "basename": "30-unity-catalog",
+      "path": "technologies/apache/databricks/30-unity-catalog.md"
+    },
+    {
+      "basename": "youtube-podcasts-magazine-apps",
+      "path": "devops/ides/youtube-podcasts-magazine-apps.md"
     }
   ],
   "omittedPaths": [],

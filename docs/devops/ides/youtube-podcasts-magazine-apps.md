@@ -151,6 +151,7 @@
 - The madras trailer
 - A16z
 - Motilal Oswal Asset Management
+- Shrehith S Karkera
 
 ### Trading
 

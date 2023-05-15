@@ -13,6 +13,9 @@
 The Top Three Highest Ranking Crypto Websites on Alexa
 
 - Uniswap (DEX)
+  - [A Short Story of UNISWAP and UNI Token. DEFI Explained - YouTube](https://www.youtube.com/watch?v=LpjMgS4OVzs&ab_channel=Finematics)
+- SushiSwap
+  - [What Is a VAMPIRE ATTACK? SUSHISWAP Saga Explained - YouTube](https://www.youtube.com/watch?v=UFjXwrCGuog&ab_channel=Finematics)
 - Binance.com (Global Ranking 210, US Rank 306)
 - Coinmarketcap.com (Global Rank 108, US Rank 131)
 - Coinbase.com (Global Rank 294, US Rank 209)

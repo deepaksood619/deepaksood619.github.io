@@ -17,6 +17,7 @@
 - [Human Psychology and Thinking](human-psychology-and-thinking)
 - [Stoicism](stoicism)
 - [Life / Relationship / People](life-relationship-people)
+- [Emotions](psychology/emotions.md)
 - [Parenting](parenting)
 - [Pesonality](personality)
 - [Research](research)

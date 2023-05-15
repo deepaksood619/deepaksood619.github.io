@@ -2,7 +2,7 @@
 
 [Resume](https://bit.ly/deepak_sood_resume)
 
- Experiences per year is far important than number of years of experience
+Experiences per year is far important than number of years of experience
 
 ## Professional Experience
 
@@ -10,7 +10,7 @@
 
 - Verticals managed - DevOps, Communications, Customer Support
 
-- Scaled the stack from Rs. 100M p.m. disbursals to Rs. 3000M p.m. disbursals
+- Scaled the stack from Rs. 100M p.m. disbursals to Rs. 5000M p.m. disbursals
 
 - Managed around 40-60 people over multiples teams across engineering
   - Backend
@@ -40,7 +40,10 @@
         - ETLs
   - Product (Multiple projects)
     - Holistic product development across different verticals
-    - TestBook
+      - Customer Support
+      - Marketing + SEO Optimizations
+      - Communications Overhaul
+    - TestBook Integration
     - Graduation Journey
     - StepUp Journey
   - R&D over all the fields specified

@@ -8,36 +8,24 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c2b95f66e2ed34c8",
+            "id": "6455be1a079b20d0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ai/libraries/ml-libraries.md",
+                "file": "languages/sql/sql-joins.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "070462c1793b6f0a",
+            "id": "5035549515040ee6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "decentralized-applications/ethereum/ethereum-intro.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c37b39ce7381f5e2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "office/personality/movies-serials-apps.md",
+                "file": "languages/sql/databricks-sql.md",
                 "mode": "source",
                 "source": false
               }
@@ -73,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "flashbot",
+                "query": "\"Delta Pipelines",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -127,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "decentralized-applications/ethereum/ethereum-intro.md",
+                "file": "languages/sql/databricks-sql.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "decentralized-applications/ethereum/ethereum-intro.md",
+                "file": "languages/sql/databricks-sql.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "decentralized-applications/ethereum/ethereum-intro.md"
+                "file": "languages/sql/databricks-sql.md"
               }
             }
           },
@@ -215,44 +203,44 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "070462c1793b6f0a",
+  "active": "5035549515040ee6",
   "lastOpenFiles": [
-    "economics/schools-of-economic-thought.md",
-    "databases/nosql-databases/mongodb/intro.md",
-    "economics/mental-models/inequality.md",
-    "databases/nosql-databases/mongodb/overview.md",
-    "databases/nosql-databases/mongodb/others.md",
-    "databases/nosql-databases/mongodb/readme.md",
-    "knowledge/physics/others.md",
-    "knowledge/physics/intro.md",
-    "economics/investment-banking.md",
-    "economics/readme.md",
-    "knowledge/quotes-proverbs/motivation.md",
-    "psychology/brain.md",
-    "psychology/sleep.md",
-    "psychology/learning/concentration-mindfulness-attention-focus-hard-work.md",
-    "psychology/learning/memory.md",
-    "psychology/criticism.md",
-    "psychology/thinking-mental-models.md",
-    "psychology/strategic-thinking.md",
-    "psychology/power.md",
-    "psychology/others.md",
-    "psychology/mental-models.md",
-    "psychology/habits.md",
-    "psychology/course-mindshift.md",
-    "ai/nlp/nlp-concepts.md",
-    "ai/nlp/readme.md",
-    "ai/nlp/intro.md",
+    "office/cakedefi/sql-queries.md",
+    "office/cakedefi/todo.md",
+    "technologies/apache/databricks/20-delta-live-tables.md",
+    "languages/sql/sql-views.md",
+    "computer-science/system-design/microservice-architecture/intro.md",
+    "computer-science/system-design/microservice-architecture/design-patterns.md",
+    "databases/sql-databases/aws-aurora/intro.md",
+    "office/hr-interviews/data-business-analyst-data-science.md",
+    "languages/sql/databricks-sql.md",
+    "languages/sql/sql-joins.md",
+    "languages/sql/keys.md",
+    "technologies/apache/databricks/40-databricks-commands.md",
+    "about-me/experience.md",
+    "psychology/self-control-will-power.md",
+    "about-me/readme.md",
+    "about-me/projects.md",
+    "about-me/ideas/thoughts-future-ideas-vision-prediction.md",
+    "python/advanced/web-scraping.md",
+    "knowledge/biology/nutrition/daily-requirements.md",
+    "ai/libraries/chatgpt-llm.md",
+    "cloud/others/firebase/firebase-analytics.md",
+    "management/product-management/product-design-questions.md",
+    "office/cakedefi/infra.md",
+    "computer-science/interview-question/blogs-conferences-blogging-presentation-tech-thursdays.md",
+    "knowledge/language/grammer-vocabulary.md",
+    "office/personality/addresses-electricity.md",
+    "media/Pasted image 20230514131840.png",
+    "media/Pasted image 20230514131925.png",
+    "media/Pasted image 20230514131917.png",
+    "media/Pasted image 20230514131906.png",
+    "media/Pasted image 20230514131857.png",
+    "media/Pasted image 20230514131848.png",
     "media/chatgpt-prompts.png",
     "media/chatgpt-promt-engineering.png",
     "media/Intro-Syllabus_4.-Counting-image2.jpg",
     "media/Intro-Syllabus_4.-Counting-image3.jpg",
-    "media/Intro-Syllabus_4.-Counting-image9.jpg",
-    "media/Intro-Syllabus_4.-Counting-image8.jpg",
-    "media/Intro-Syllabus_4.-Counting-image7.jpg",
-    "media/Intro-Syllabus_4.-Counting-image6.jpg",
-    "media/Intro-Syllabus_4.-Counting-image5.jpg",
-    "media/Intro-Syllabus_4.-Counting-image4.jpg",
     "office/stashfin-credentials",
     "management/people-management",
     "decentralized-applications/coins-tokens-chains",

@@ -6,7 +6,9 @@ Generative Pre-trained Transformer 3 (GPT-3; stylized GPT·3) is an autoregressi
 
 The architecture is a standard [transformer network](https://en.wikipedia.org/wiki/Transformer_(machine_learning_model))(with a few engineering tweaks) with the unprecedented size of 2048-token-long context and 175 billion [parameters](https://en.wikipedia.org/wiki/Parameter_(machine_learning))(requiring 800 GB of storage). The training method is "generative pretraining", meaning that it is trained to predict what the next token is. The model demonstrated strong [few-shot learning](https://en.wikipedia.org/wiki/Few-shot_learning) on many text-based tasks.
 
-## ChatGPT
+## ChatGPT / Bard
+
+[Meet Bard](https://bard.google.com/)
 
 <https://openai.com/blog/chatgpt>
 

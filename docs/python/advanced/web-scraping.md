@@ -34,3 +34,7 @@ print(i, soup.body.div.div)
 <https://www.toptal.com/python/web-scraping-with-python>
 
 <https://www.freecodecamp.org/news/how-to-scrape-websites-with-python>
+
+## AI Tools
+
+[Scrape and Monitor Data from Any Website with No Code](https://www.browse.ai/)

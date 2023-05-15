@@ -36,6 +36,23 @@ The Delta Lake transaction log (also known as the `DeltaLog`) is an ordered rec
 
 **[Understanding the Delta Lake Transaction Log - Databricks Blog](https://www.databricks.com/blog/2019/08/21/diving-into-delta-lake-unpacking-the-transaction-log.html)**
 
+## Selectively overwrite data with Delta Lake
+
+Databricks leverages Delta Lake functionality to support two distinct options for selective overwrites:
+
+- The `replaceWhere` option atomically replaces all records that match a given predicate.
+- You can replace directories of data based on how tables are partitioned using **dynamic partition overwrites**.
+
+[Selectively overwrite data with Delta Lake | Databricks on AWS](https://docs.databricks.com/delta/selective-overwrite.html)
+
+## Clone
+
+```sql
+CREATE TABLE target_schema.gold.target_table_name CLONE source_schema.gold.source_table_name;
+```
+
+[Clone a table on Databricks | Databricks on AWS](https://docs.databricks.com/delta/clone.html)
+
 ## FAQs
 
 ### What format does Delta Lake use to store data?

@@ -1,5 +1,7 @@
 # Productivity / Productive / Time Management / TODO
 
+Productivity isn't everything, but, in the long run, it is almost everything -- Economist Paul Krugman, in The Age of Diminished Expectations
+
 <https://www.scotthyoung.com/blog/2020/10/26/foundation-practices>
 
 1. Establish an Airtight Productivity System

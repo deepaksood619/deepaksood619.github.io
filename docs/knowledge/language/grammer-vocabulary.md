@@ -158,7 +158,7 @@ As a general rule, "has" is used in the third person singular ("he", "she", "it"
 - one-upmanship - the technique or practice of gaining an advantage or feeling of superiority over another person.
   - "the one-upmanship of who can get the best presents"
 - **prescient** - having or showing knowledge of events before they take place. "a prescient warning"
-- Midas Touch - the ability to make money out of anything one undertakes.
+- **Midas Touch** - the ability to make money out of anything one undertakes.
 
 ## Others
 

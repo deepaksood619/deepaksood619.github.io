@@ -247,8 +247,6 @@ How to 80/20 your work:
 3. Look at the others. Eliminate ruthlessly. Automate or outsource what you can. Press pause on the rest.
 4. Repeat.
 
-Productivity isn't everything, but, in the long run, it is almost everything -- Economist Paul Krugman, in The Age of Diminished Expectations
-
 "Time spent working hard is often better spent identifying where the bottleneck is located.
 
 Working hard on the wrong thing leads to frustration, not progress."

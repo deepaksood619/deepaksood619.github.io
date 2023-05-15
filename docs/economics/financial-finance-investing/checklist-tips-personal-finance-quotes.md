@@ -406,6 +406,12 @@ Example - is the stock good invert to why is this stock not good
 
 A situation when the UPSIDE potential of an asset is much greater than the potential downside, or the downside is limited but the upside is UNLIMITED
 
+### Consumption smoothing
+
+Consumption smoothing refers to **a process of achieving a balance between spending for today's needs and saving for the future**. The aim is to balance out spending and saving during the different phases of life. It is a major financial planning challenge for anyone to achieve this balance.
+
+[Consumption Smoothing Definition, Affect on Living Standards](https://www.investopedia.com/terms/c/consumption-smoothing.asp)
+
 ## Others
 
 [Contrarian Investing | Is Contrarian Investing Profitable? | ET Money](https://youtu.be/vnQRuNuJckE)

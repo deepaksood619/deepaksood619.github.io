@@ -28,3 +28,5 @@ Oil is fungible, which means one barrel of crude is interchangeable with another
 [How to Create an NFT Marketplace | Embroker](https://www.embroker.com/blog/how-to-create-an-nft-marketplace/)
 
 [NFT Mania - Hype Or A New Paradigm? CryptoPunks, BAYC, Generative Art, Loot Explained - YouTube](https://www.youtube.com/watch?v=WOxYlBTRncY)
+
+[What Are NFTs and How Can They Be Used in Decentralized Finance? DEFI Explained - YouTube](https://www.youtube.com/watch?v=Xdkkux6OxfM&ab_channel=Finematics)
