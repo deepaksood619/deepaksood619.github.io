@@ -470,10 +470,11 @@ find . -name "*" -type f -depth -not -path "*/node_modules/*" -not -path  "*/.gi
 # rename dslr photos to it's created date with appended original name
 for f in *.*; do echo mv -n "$f" "$(stat -f'%SB' -t "%Y%m%d_%H%M%S" "$f")_${f%.*}.${f##*.}"; done
 
-# rename dslr photos to it's created date without appended original name
-for f in *.*; do echo mv -n "$f" "$(stat -f'%SB' -t "%Y%m%d_%H%M%S" "$f").${f##*.}"; done
+# final command to rename DSLR photos
+for f in *.*; do eval "mv -n \"$f\" \"\$(stat -f '%SB' -t \"%Y%m%d_%H%M%S\" \"$f\")_${f%.*}.${f##*.}\""; done
 
-# todo - automatically run the commands, add millisecond precision
+# rename dslr photos to it's created date without appended original name
+for f in *.*; do echo mv -n "$f" "$(stat -f'%SB' -t "%Y%m%d_%H%M%S%fff" "$f").${f##*.}"; done
 ```
 
 ### hostname

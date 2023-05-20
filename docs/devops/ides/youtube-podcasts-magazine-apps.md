@@ -324,6 +324,7 @@ Indian History - <https://www.anirudhkanisetti.com/podcasts>
 - Sadguru daily quotes
 - YS buzz
 - Marcellus
+- Javascript weekly newsletter
 
 ## Tools
 

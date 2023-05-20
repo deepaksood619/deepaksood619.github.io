@@ -1,6 +1,7 @@
 # YugabyteDB
 
 YugabyteDB is a high-performance, cloud-native distributed SQL database that aims to support all PostgreSQL features. It is best fit for cloud-native OLTP (i.e. real-time, business critical) applications that need absolute data correctness and require at least one of the following: scalability, high tolerance to failures, globally-distributed deployments.
+
 The core features of YugabyteDB include:
 
 - **Powerful RDBMS capabilities**Yugabyte SQL (YSQLfor short) reuses the query layer of PostgreSQL (similar to Amazon Aurora PostgreSQL), thereby supporting most of its features (datatypes, queries, expressions, operators and functions, stored procedures, triggers, extensions, etc). Here is a detailed [list of features currently supported by YSQL](https://github.com/yugabyte/yugabyte-db/blob/master/architecture/YSQL-Features-Supported).
@@ -24,3 +25,5 @@ The core features of YugabyteDB include:
 <https://docs.yugabyte.com/latest/comparisons>
 
 <https://docs.yugabyte.com/latest/architecture/design-goals>
+
+[YugabyteDB supports read committed isolation - YouTube](https://www.youtube.com/watch?v=4ZiFKWOPvoc&ab_channel=HusseinNasser)

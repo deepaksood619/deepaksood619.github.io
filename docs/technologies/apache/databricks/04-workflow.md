@@ -29,3 +29,13 @@ dbutils.notebook.run(i['nb_path'], i['timeout'], i['args']).split(';')
 ```
 
 [Share code between Databricks notebooks | Databricks on AWS](https://docs.databricks.com/notebooks/share-code.html)
+
+## Others
+
+### DBX
+
+Databricks CLI eXtensions - aka `dbx` is a CLI tool for development and advanced Databricks workflows management.
+
+[GitHub - databrickslabs/dbx: 🧱 Databricks CLI eXtensions - aka dbx is a CLI tool for development and advanced Databricks workflows management.](https://github.com/databrickslabs/dbx)
+
+[dbx | github](https://dbx.readthedocs.io/en/latest/)

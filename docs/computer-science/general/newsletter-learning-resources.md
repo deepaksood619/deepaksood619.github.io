@@ -99,6 +99,8 @@ Give tech talk - Learning + Note taking + Zettlekasten - Obsidian / Onenote + Do
 
 [Saylor Academy | Saylor Academy](https://learn.saylor.org/?redirect=0)
 
+[Speaker Deck | Easily Share Your Presentations Online](https://speakerdeck.com/)
+
 ## Blogs
 
 <https://about.gitlab.com/2019/08/27/tyranny-of-the-clock>

@@ -120,6 +120,29 @@ A crowd can be smarter than a single person, Consider other's perspective to cha
 
 **[Tools for better thinking | Untools](https://untools.co)**
 
+## Mitigating
+
+- [Unintended Consequences](https://en.wikipedia.org/wiki/Unintended_consequences)--- "Outcomes that are not the ones foreseen and intended by a purposeful action." (related:[collateral damage](https://en.wikipedia.org/wiki/Collateral_damage)--- "Deaths, injuries, or other damage inflicted on an unintended target.", [Goodhart's law](https://en.wikipedia.org/wiki/Goodhart%27s_law)--- "When a measure becomes a target, it ceases to be a good measure";[Campbell's law](https://en.wikipedia.org/wiki/Campbell%27s_law); **[Streisand Effect](https://en.wikipedia.org/wiki/Streisand_effect)---** "The phenomenon whereby an attempt to hide, remove, or censor a piece of information has the unintended consequence of publicizing the information more widely, usually facilitated by the Internet"; [cobra effect](https://en.wikipedia.org/wiki/Cobra_effect)--- "when an attempted solution to a problem actually makes the problem worse."; "Kick a hornet's nest.")
+- [Preserving Optionality](http://www.iheavy.com/2009/05/01/open-insights-55-preserving-optionality/)--- "A strategy of keeping options open and fluid, fighting the urge to make choices too soon, before all of the uncertainties have been resolved." (related:[tyranny of small decisions](https://en.wikipedia.org/wiki/Tyranny_of_small_decisions)--- "a situation where a series of small, individually rational decisions can negatively change the context of subsequent choices, even to the point where desired alternatives are irreversibly destroyed.";[boiling frog](https://en.wikipedia.org/wiki/Boiling_frog)--- "an anecdote describing a frog slowly being boiled alive.";[path dependence](https://en.wikipedia.org/wiki/Path_dependence); "Everybody has a plan until they get punched in the mouth.";[fog of war](https://en.wikipedia.org/wiki/Fog_of_war);[OODA loop](https://en.wikipedia.org/wiki/OODA_loop))
+- [Precautionary Principle](https://en.wikipedia.org/wiki/Precautionary_principle)--- "If an action or policy has a suspected risk of causing harm to the public, or to the environment, in the absence of scientific consensus (that the action or policy is not harmful), the burden of proof that it is not harmful falls on those taking an action that may or may not be a risk."
+- [Short-termism](http://lexicon.ft.com/Term?term=short_termism)--- "Short-termism refers to an excessive focus on short-term results at the expense of long-term interests."
+
+### Optionality
+
+**At the most basic level, optionality just means having lots of options.**
+
+If you develop a skill with many possible job opportunities, you have more optionality than someone who develops a skill that only has one or two job opportunities.
+
+The advantage of optionality is that as the world grows increasingly difficult to predict, you can thrive in spite of not knowing the future.
+
+You simply see what happens and exercise whichever option turns out to be most advantageous.
+
+[What is Optionality? How Can Optionality Improve My Performance?](https://taylorpearson.me/optionality/)
+
+[Radical Optionality](https://hbr.org/2023/05/radical-optionality)
+
+[Fetching Title#i7d2](https://www.forbes.com/sites/forbestechcouncil/2020/11/11/optionality-part-i-what-is-it-and-why-is-it-crucial/)
+
 ## Black and White Thinking by Kevin Dutton
 
 The burden of a binary brain in a complex world

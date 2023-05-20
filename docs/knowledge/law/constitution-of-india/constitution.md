@@ -74,15 +74,13 @@ IN OUR CONSTITUENT ASSEMBLY this twenty-sixth day of November 1949, do HEREBY AD
 
 ## Right to Equality
 
-14 Equality before law.
+- 14 Equality before law.
+- 15 Prohibition of discrimination on grounds of religion, race, caste, sex or place of birth.
+- 16 Equality of opportunity in matters of public employment.
+- 17 Abolition of Untouchability.
+- 18 Abolition of titles.
 
-15 Prohibition of discrimination on grounds of religion, race, caste, sex or place of birth.
-
-16 Equality of opportunity in matters of public employment.
-
-17 Abolition of Untouchability.
-
-18 Abolition of titles.
+[Right to Equality: Fundamental Rights in the Indian Constitution | Indian Polity for UPSC 2022-2023 - YouTube](https://www.youtube.com/watch?v=xI0rEKEDY28&ab_channel=BYJU%27SIAS)
 
 ## Right to Freedom
 

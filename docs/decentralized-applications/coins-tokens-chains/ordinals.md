@@ -26,6 +26,10 @@ Bitcoin is money, and that’s the largest and most important use case, impactin
 
 [SADO](http://sado.space/)
 
+[Introduction to Ordinals and SADO Protocol - Speaker Deck](https://speakerdeck.com/uzyn/introduction-to-ordinals-and-sado-protocol)
+
 ## Links
 
 [Bitcoin Ordinals Analysis](https://dune.com/dgtl_assets/bitcoin-ordinals-analysis)
+
+[ORDZAAR](https://ordzaar.com/)

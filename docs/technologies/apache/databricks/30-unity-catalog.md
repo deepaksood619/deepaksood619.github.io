@@ -34,13 +34,13 @@ External tables are tables whose data is stored outside of the managed storage l
 
 When you run `DROP TABLE` on an external table, Unity Catalog does not delete the underlying data. To drop a table you must be its owner. You can manage privileges on external tables and use them in queries in the same way as managed tables. To create an external table with SQL, specify a `LOCATION` path in your `CREATE TABLE` statement. External tables can use the following file formats:
 
--   DELTA
--   CSV
--   JSON
--   AVRO
--   PARQUET
--   ORC
--   TEXT
+- DELTA
+- CSV
+- JSON
+- AVRO
+- PARQUET
+- ORC
+- TEXT
 
 #### Fully delete an external table
 

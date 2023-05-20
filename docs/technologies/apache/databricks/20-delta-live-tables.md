@@ -68,3 +68,6 @@ To ensure your pipelines are efficient and maintainable, choose the best dataset
 [What is Delta Live Tables? | Databricks on AWS](https://docs.databricks.com/delta-live-tables/index.html)
 
 [Delta Live Tables SQL language reference | Databricks on AWS](https://docs.databricks.com/delta-live-tables/sql-ref.html)
+
+[Tutorial: Run your first Delta Live Tables pipeline | Databricks on AWS](https://docs.databricks.com/delta-live-tables/tutorial-pipelines.html)
+[]()

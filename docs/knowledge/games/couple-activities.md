@@ -15,6 +15,7 @@
     - Daily Crossword
       - [Crash Course Crossword](https://crosswordlabs.com/view/crash-course-crossword)
       - [Play Free Online Daily Crossword Puzzle Games - NDTV](https://www.ndtv.com/crossword)
+    - word-scramble
     - Video game nights (Sudoku)
     - Hackathon
     - Competitive programming

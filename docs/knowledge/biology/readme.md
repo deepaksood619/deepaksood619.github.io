@@ -81,7 +81,7 @@ Anatomy and Physiology - <https://www.youtube.com/playlist?list=PL8dPuuaLjXtOAKe
 - [Virology](https://en.wikipedia.org/wiki/Virology)
   - [Molecular virology](https://en.wikipedia.org/wiki/Molecular_virology)
 - [Xenobiology](https://en.wikipedia.org/wiki/Xenobiology)
-- [Zoology](https://en.wikipedia.org/wiki/Zoology)([outline](https://en.wikipedia.org/wiki/Outline_of_zoology))
+- [Zoology](https://en.wikipedia.org/wiki/Zoology)([outline](https://en.wikipedia.org/wiki/Outline_of_zoology)) - [The hidden world of animal senses – with Ed Yong - YouTube](https://www.youtube.com/watch?v=dVPN165wz1Y&ab_channel=TheRoyalInstitution)
   - [Animal communications](https://en.wikipedia.org/wiki/Animal_communication)
   - [Apiology](https://en.wikipedia.org/wiki/Apiology)
   - [Arachnology](https://en.wikipedia.org/wiki/Arachnology)

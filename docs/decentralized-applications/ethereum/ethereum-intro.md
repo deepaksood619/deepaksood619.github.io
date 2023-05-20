@@ -117,7 +117,7 @@ Protocol for blockchain based notifications that are chain agnostic, platform in
 
 - Smart contracts allow automatic execution of contract stipulations, no matter their form
 - Classic: Arbitrage between different platforms
-- New: Uncollateralized flash loans
+- New: Uncollateralized flash loans - [Borrow Millions In DEFI With NO COLLATERAL? FLASH LOANS Explained (Aave, dYdX) - YouTube](https://www.youtube.com/watch?v=mCJUhnXQ76s&ab_channel=Finematics)
 
 ## Self-soverign identities (SSI)
 

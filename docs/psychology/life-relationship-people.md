@@ -10,6 +10,8 @@ Never tell people that they are moron
 
 There are some very smart people in the world who like to solve really hard problems.
 
+Like should be treated alike
+
 #### Ernest Hemingway
 
 Before you talk, listen.

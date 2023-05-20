@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "languages/sql/sql-joins.md",
+                "file": "office/cakedefi/todo.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,14 +25,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "languages/sql/databricks-sql.md",
+                "file": "decentralized-applications/ethereum/ethereum-intro.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -61,7 +60,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"Delta Pipelines",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -94,8 +93,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -115,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "languages/sql/databricks-sql.md",
+                "file": "office/cakedefi/todo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "languages/sql/databricks-sql.md",
+                "file": "office/cakedefi/todo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "languages/sql/databricks-sql.md"
+                "file": "office/cakedefi/todo.md"
               }
             }
           },
@@ -203,34 +201,35 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "5035549515040ee6",
+  "active": "978fd2faf621af33",
   "lastOpenFiles": [
-    "office/cakedefi/sql-queries.md",
+    "technologies/apache/databricks/04-workflow.md",
+    "technologies/apache/databricks/99-others.md",
+    "technologies/apache/apache-spark/09-dataframe.md",
+    "technologies/apache/apache-spark/10-sql-functions-datasources.md",
+    "technologies/apache/apache-spark/99-others.md",
+    "python/python-intro/data-structure/set.md",
+    "languages/sql/operators-wildcards.md",
+    "languages/sql/sql-examples.md",
     "office/cakedefi/todo.md",
-    "technologies/apache/databricks/20-delta-live-tables.md",
-    "languages/sql/sql-views.md",
-    "computer-science/system-design/microservice-architecture/intro.md",
-    "computer-science/system-design/microservice-architecture/design-patterns.md",
-    "databases/sql-databases/aws-aurora/intro.md",
-    "office/hr-interviews/data-business-analyst-data-science.md",
-    "languages/sql/databricks-sql.md",
-    "languages/sql/sql-joins.md",
-    "languages/sql/keys.md",
-    "technologies/apache/databricks/40-databricks-commands.md",
-    "about-me/experience.md",
-    "psychology/self-control-will-power.md",
-    "about-me/readme.md",
-    "about-me/projects.md",
-    "about-me/ideas/thoughts-future-ideas-vision-prediction.md",
-    "python/advanced/web-scraping.md",
-    "knowledge/biology/nutrition/daily-requirements.md",
-    "ai/libraries/chatgpt-llm.md",
-    "cloud/others/firebase/firebase-analytics.md",
-    "management/product-management/product-design-questions.md",
+    "office/keep/deepak-banks.md",
+    "office/cakedefi/product.md",
     "office/cakedefi/infra.md",
-    "computer-science/interview-question/blogs-conferences-blogging-presentation-tech-thursdays.md",
-    "knowledge/language/grammer-vocabulary.md",
+    "office/personality/my-interviews.md",
+    "decentralized-applications/coins-tokens-chains/ordinals.md",
+    "computer-science/general/newsletter-learning-resources.md",
+    "office/cakedefi/people.md",
+    "office/blocktoons/todo.md",
+    "office/todo/todo-tech-&-courses.md",
+    "devops/terminal-bash/1-linux-general-unix-linux-commands.md",
+    "decentralized-applications/others.md",
+    "office/hr-interviews/job-descriptions-jd.md",
     "office/personality/addresses-electricity.md",
+    "decentralized-applications/ethereum/ethereum-intro.md",
+    "office/cakedefi/sql-queries.md",
+    "devops/terminal-bash/sysctl.md",
+    "languages/sql/others.md",
+    "media/Screenshot 2023-05-15 at 11.09.00 PM.png",
     "media/Pasted image 20230514131840.png",
     "media/Pasted image 20230514131925.png",
     "media/Pasted image 20230514131917.png",
@@ -240,7 +239,6 @@
     "media/chatgpt-prompts.png",
     "media/chatgpt-promt-engineering.png",
     "media/Intro-Syllabus_4.-Counting-image2.jpg",
-    "media/Intro-Syllabus_4.-Counting-image3.jpg",
     "office/stashfin-credentials",
     "management/people-management",
     "decentralized-applications/coins-tokens-chains",

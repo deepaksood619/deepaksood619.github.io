@@ -69,3 +69,17 @@ df1.select('amount').groupby('amount').count().display()
 [Difference Between Spark DataFrame and Pandas DataFrame - GeeksforGeeks](https://www.geeksforgeeks.org/difference-between-spark-dataframe-and-pandas-dataframe/)
 
 [Pandas vs PySpark DataFrame With Examples - Spark By {Examples}](https://sparkbyexamples.com/pyspark/pandas-vs-pyspark-dataframe-with-examples/)
+
+## Spark collect
+
+PySpark RDD/DataFrame `collect()` is an action operation that is used to retrieve all the elements of the dataset (from all nodes) to the driver node. We should use the collect() on smaller dataset usually after [filter()](https://sparkbyexamples.com/pyspark/pyspark-where-filter/), [group()](https://sparkbyexamples.com/pyspark/pyspark-groupby-explained-with-example/) e.t.c. Retrieving larger datasets results in `OutOfMemory` error.
+
+#### When to avoid Collect()
+
+Usually, collect() is used to retrieve the action output when you have very small result set and calling `collect()` on an RDD/DataFrame with a bigger result set causes out of memory as it returns the entire dataset (from all workers) to the driver hence we should avoid calling collect() on a larger dataset.
+
+#### collect () vs select ()
+
+`select()` is a transformation that returns a new DataFrame and holds the columns that are selected whereas collect() is an action that returns the entire data set in an Array to the driver.
+
+[PySpark Collect() - Retrieve data from DataFrame - Spark By {Examples}](https://sparkbyexamples.com/pyspark/pyspark-collect/)

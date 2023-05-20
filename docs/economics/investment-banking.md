@@ -2,6 +2,8 @@
 
 [Careers in finance - Investment Banking (Part 2) - YouTube](https://www.youtube.com/watch?v=3ivP6-y8tN8&ab_channel=ZerodhaVarsity)
 
+[Careers in finance - Public and private markets (Part 3) - YouTube](https://www.youtube.com/watch?v=PjQSs621oII&ab_channel=ZerodhaVarsity)
+
 ## Investment banking
 
 Investment banking is a specific division of banking related to the creation of capital for other companies, governments, and other entities.

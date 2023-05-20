@@ -204,6 +204,12 @@ There’s not much you can do to treat a cold except wait it out and use OTC med
 
 Aphasia is an inability to comprehend or formulate language because of damage to specific [brain](https://en.m.wikipedia.org/wiki/Brain "Brain") regions.
 
+## Norwood scale
+
+[The Dreadful Business of Balding & Hair Loss - YouTube](https://www.youtube.com/watch?v=Q65BI_5lul4&ab_channel=ModernMBA)
+
+![Norwood scale](../../media/Screenshot%202023-05-15%20at%2011.09.00%20PM.png)
+
 ## Links
 
 [Bacterial vs. Viral Infections: What’s the Difference?](https://www.healthline.com/health/bacterial-vs-viral-infections)
