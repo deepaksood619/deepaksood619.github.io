@@ -88,6 +88,16 @@ Two critical profitability metrics for any company include gross profit and net 
 - Net income is an all-inclusive metric for profitability and provides insight into how well the management team runs all aspects of the business.
 - Net income is often referred to simply as the **bottom line.**
 
+## Transfer Pricing
+
+- Transfer pricing accounting occurs when goods or services are exchanged between divisions of the same company.
+- A transfer price is based on market prices in charging another division, subsidiary, or holding company for services rendered.
+- Companies use transfer pricing to reduce the overall tax burden of the parent company.
+- Companies charge a higher price to divisions in high-tax countries (reducing profit) while charging a lower price (increasing profits) for divisions in low-tax countries.
+- The IRS states that transfer pricing should be the same between intercompany transactions as it would have been had the company done the transaction outside the company.
+
+[Transfer Pricing: What It Is and How It Works, With Examples](https://www.investopedia.com/terms/t/transfer-pricing.asp)
+
 ![image](../../media/Accounting-for-Finance_2-Income-Statements-&-Profitability-Measures-image3.jpg)
 
 ![image](../../media/Accounting-for-Finance_2-Income-Statements-&-Profitability-Measures-image4.jpg)

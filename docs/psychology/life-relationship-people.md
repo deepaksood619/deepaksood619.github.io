@@ -189,14 +189,6 @@ MC is short for **Master of Ceremonies** and may often be written as **emcee**. 
 - Prospective Hindsight
 - Pre-mortem
 
-## Pregnancy / Birth Plan
-
-<https://www.youtube.com/watch?v=F_ssj7-8rYg>
-
-<https://www.parents.com/pregnancy/giving-birth/labor-and-delivery/checklist-how-to-write-a-birth-plan>
-
-15 percent of pregnancies end in miscarriage
-
 ## Boundaries
 
 You have a boundary issue if...
@@ -469,28 +461,6 @@ People have positive attitude towards ageing live 7.2 years longer than people w
 - Donation to Schools should be weak lint
 
 <https://www.youtube.com/watch?v=UAqZMgBtECQ>
-
-## Programmers Burnout
-
-<https://medium.com/hackernoon/why-theres-so-much-burnout-in-software-and-what-to-do-about-it-4ef0297ca7cc>
-
-## Blinkist - The Burnout Fix
-
-1. Working harder or smarter isn't enough to survive the pressures of the modern workplace.
-2. Dramatic success is created through gradual, sustainable growth.
-3. Mindfulness reduces stress and the risk of burnout.
-4. Make time for silence, sanctuary, and solitude in your daily life.
-5. Successful people seek out support and connection.
-6. Creating a personal mission statement will allow you to stay on track.
-7. We need to regulate our energy levels and emotions.
-    - Instead of tracking time, track your energy.
-    - Energy is our most precious resource - the thing that fuels our days and gives us vitality
-    - Energy Audit - Energy Vampires - they deplete your ideas and motivation, or just require enormous amounts of patience and attention
-    - Develop your emotional literacy and learn to interpret the messages your feelings are sending. you
-
-8. Leaders have a big role to play in creating workplaces where employees can thrive.
-
-9. Actional advice: Make a "Not TODO" list
 
 ## 7 reasons smart, hardworking people don't become successful
 

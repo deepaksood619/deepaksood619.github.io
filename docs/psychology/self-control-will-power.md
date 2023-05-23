@@ -161,15 +161,10 @@ when people persistently sacrifice their immediate desires for their long term g
 ![image](../media/Self-Control-Will-Power-image6.jpg)
 
 1. I often fail to enjoy attractive opportunities.
-
 2. It's hard for me to make myself indulge.
-
 3. I regret missed opportunities to enjoy rich experiences in the past.
-
 4. I have difficulty pampering myself.
-
 5. "Seizing the day" is difficult for me.
-
 6. I rarely enjoy the luxuries life has to offer
 
 - hyperopia is not the same thing as extremely strong self-control -- rather, it's an excessive focus on the distant goal of being productive at all cost
@@ -181,34 +176,11 @@ when people persistently sacrifice their immediate desires for their long term g
   - making use of discounts and promotions
   - making up 'functional alibi' (=emphasizing utilitarian value of objects rather than their hedonic qualities)
 
-## Two types of tired
-
-Two different types of feeling tired when deciding whether to push forward with more effortful activities or give myself a break.
-
-## The first kind of tired is felt mostly as you're initiating an activity. This is the feeling you have as you think about going to the gym, but it sounds hard and frustrating and maybe you should just watch another episode ofThe Officefirst
-
-However, once you actually get to the gym, your mood changes. Suddenly it's not so bad and when you get home after you're glad you went.
-
-## The second kind of fatigue persists throughout the activity itself. You've decided to read a hard book for fun. Except it's not really so muchfunas it is a slow torture. Your mind darts every fifteen seconds and you struggle with pushing through more than five minutes of it
-
-The first kind of fatigue doesn't seem to match up with the energy metaphor much at all. In this case, you think the activity will be exhausting, but when you actually get going, it doesn't feel so bad. The effort is all in the starting, not the doing.
-
-This is the kind of feeling you want to push through. If you can overcome that initial hiccup to taking action, everything gets much easier.
-
-The second kind of feeling might be something you encourage yourself to do for specific goals, but if your entire life feels that way for weeks at a time, your habits are probably unsustainable.
-
-## Make a distinction between a lack of inertia and persistent exhaustion from an activity being more hassle than help. If you push yourself to the gym, but feel good after you went, that's good. On the other hand, if you constantly feel exhausted by everything, you might be pushing yourself towards burn out
-
-<https://www.scotthyoung.com/blog/2020/01/13/too-tired>
-
-<https://dariusforoux.com/work-hard-without-burning-out>
-
 ## How to use the power of movies to have same dedication for study
 
 <https://www.scotthyoung.com/blog/2021/05/03/effort-opportunity-cost>
 
 1. Effort Depends on Alternatives
-
 2. Willpower Depends on Reward
 
 [learned industriousness](https://www.scotthyoung.com/blog/2020/11/02/motivation/#07-05)

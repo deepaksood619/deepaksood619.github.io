@@ -34,6 +34,8 @@
 3. Stablecoins: Stablecoins are cryptocurrencies that are pegged to the value of a stable asset, such as the US dollar. They are designed to minimize volatility and provide a stable store of value. Examples of popular stablecoins include USDC, DAI, and Tether.
 4. Automated market makers (AMMs): AMMs are algorithms that determine the price of a cryptocurrency based on its supply and demand. They are used in liquidity pools to facilitate decentralized trading.
 5. Yield farming: Yield farming involves maximizing returns on cryptocurrency holdings by moving them between different DeFi protocols to take advantage of the highest yield opportunities. This can involve lending, staking, or liquidity provision.
+ 1. [Is Yield Farming DEAD? Are There ANY Good Opportunities Left? DEFI Explained - YouTube](https://www.youtube.com/watch?v=s0Of2ZnyhIE&ab_channel=Finematics)
+ 2. [What Is YIELD FARMING? DEFI Explained (Compound, Balancer, Curve, Synthetix, Ren) - YouTube](https://www.youtube.com/watch?v=ClnnLI1SClA&ab_channel=Finematics)
 6. Decentralized finance infrastructure: DeFi infrastructure projects, such as Chainlink and The Graph, provide the building blocks that power many DeFi applications, such as oracles that bring external data to DeFi protocols.
 7. Insurance protocols: DeFi insurance protocols allow users to insure against the risk of smart contract failure or other risks. Examples of DeFi insurance protocols include Nexus Mutual and Cover Protocol.
 8. [Liquidity Mining](decentralized-applications/liquidity-mining.md)
@@ -90,3 +92,5 @@ A perpetual contract is a derivative similar to a futures contract but without a
 [Learn crypto and blockchain | CoinDesk](https://www.coindesk.com/learn/defi/)
 
 [The TRUTH About DEFI - YouTube](https://www.youtube.com/watch?v=Ia0DVfRJKy8)
+
+[Lending And Borrowing In DEFI Explained - Aave, Compound - YouTube](https://www.youtube.com/watch?v=aTp9er6S73M)

@@ -5,3 +5,5 @@
 [THE CREATIVE ACT by Rick Rubin | Core Message - YouTube](https://www.youtube.com/watch?v=eDwSiuTJ434)
 
 [EXCELLENT ADVICE FOR LIVING by Kevin Kelly | Core Message - YouTube](https://www.youtube.com/watch?v=vywKzdaxXK8&ab_channel=ProductivityGame)
+
+[THE UNFAIR ADVANTAGE by Ash Ali and Hasan Kubba | Core Message - YouTube](https://www.youtube.com/watch?v=FXty4TQQWoU)

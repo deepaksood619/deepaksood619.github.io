@@ -35,6 +35,8 @@ Several rollup solutions are already live or in the process of being implemented
 
 [The TRUTH About DEFI - YouTube](https://www.youtube.com/watch?v=Ia0DVfRJKy8)
 
+[Ethereum LAYER 2 SCALING Explained (Rollups, Plasma, Channels, Sidechains) - YouTube](https://www.youtube.com/watch?v=BgCgauWVTs0&ab_channel=Finematics)
+
 ## ZK Proof (Zero Knowledge Proof)
 
 A cryptographic method for proving a statement is true without revealing any information about the statement – other than that it is true.
@@ -50,3 +52,5 @@ The acronym **zk-SNARK stands for “Zero-Knowledge Succinct Non-Interactive Arg
 ## Links
 
 [Blockchain Layers Explained: Best Blockchain Layers 1, 2, 3, and 0 Explainer video | Jude - YouTube](https://www.youtube.com/watch?v=u2avJ_ctsKM&ab_channel=JudeUmeano)
+
+[Argent – The best Ethereum wallet for DeFi and NFTs.](https://www.argent.xyz/)

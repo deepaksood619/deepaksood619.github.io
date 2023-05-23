@@ -51,3 +51,8 @@ Neutron - 1 up quark and 2 down quarks
 [The Fundamental Constituents of Matter and the Eightfold Way](https://www.youtube.com/watch?v=SSswwu8JEYQ)
 
 [Searching for new physics with low-energy techniques - with Danielle Speller - YouTube](https://www.youtube.com/watch?v=NDUUTEhKj54)
+[On the origin of time – with Thomas Hertog - YouTube](https://www.youtube.com/watch?v=fY3MbKNNG8o&ab_channel=TheRoyalInstitution)
+
+[How did Michael Faraday invent? – with David Ricketts - YouTube](https://www.youtube.com/watch?v=z1uOsg2-LTA&ab_channel=TheRoyalInstitution)
+
+[The magic of physics - with Felix Flicker - YouTube](https://www.youtube.com/watch?v=H3wSaLSXdBM&ab_channel=TheRoyalInstitution)

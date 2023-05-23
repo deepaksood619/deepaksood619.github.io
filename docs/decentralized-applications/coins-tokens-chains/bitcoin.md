@@ -124,6 +124,8 @@ P2PKH addresses start with a "1"
 
 [Bitcoin's Taproot Upgrade: What You Should Know](https://www.investopedia.com/bitcoin-taproot-upgrade-5210039)
 
+[What are the Taproot Wizards and why do Bitcoin Maxis hate them? | by Ordzaar | May, 2023 | Medium](https://medium.com/@ordzaar/what-are-the-taproot-wizards-and-why-do-bitcoin-maxis-hate-them-6558fb641678)
+
 ## Links
 
 [Bitcoin price today, BTC to USD live, marketcap and chart | CoinMarketCap](https://coinmarketcap.com/currencies/bitcoin/)

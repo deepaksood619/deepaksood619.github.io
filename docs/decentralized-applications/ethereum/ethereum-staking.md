@@ -37,6 +37,22 @@ As soon as the pool of stakers is large enough to promote a decentralized ecosys
 
 Understanding that not all interested stakers can afford 32 ETH to participate in the network – which at present costs over $40,000 – some platforms have begun to provide staking products that allow investors to combine their financial resources to meet the minimum requirements for becoming a validator. That is also an ideal option for individuals who don’t want to undertake the technical requirements that come with staking. In essence, users need only to deposit and lock their capital on a third-party platform and start earning returns. It’s staking without the hassle.
 
+## Liquid Staking
+
+Staking is a way to help secure proof-of-stake blockchain networks like Ethereum. Network participants can run a validator node by putting tokens “at stake,” which can then be “slashed” (taken away as a penalty) if the node commits any malicious actions or is unreliable. While there are many solo node operators, anyone can stake tokens through staking as a service (SaaS) provider—exposing them to the same risks and giving them the opportunity to share in rewards. However, staked tokens cannot be transacted or used as collateral to earn yield across the [DeFi](https://chain.link/education/defi) ecosystem.
+
+Liquid staking service providers solve this liquidity problem by minting a new token—representing a claim on the underlying staked asset—which can then be traded or deposited in DeFi protocols. For example, a user could deposit ETH to the Lido staking pool and receive stETH (staked ETH) tokens in return, then deposit the stETH to Aave to earn yield. Essentially, liquid staking builds upon existing staking systems by unlocking liquidity for staked tokens.
+
+[What Is Liquid Staking? | Chainlink](https://blog.chain.link/liquid-staking/)
+
+[Best Liquid Staking Platforms For Crypto May 2023](https://milkroad.com/staking/liquid)
+
+<https://www.coindesk.com/learn/crypto-staking-101-what-is-staking>
+
+<https://www.forbes.com/advisor/in/investing/cryptocurrency/what-is-staking-in-crypto>
+
+<https://www.youtube.com/playlist?list=PLAXQ4YtxCRUGVUXRJ-uSzyvNxZQq74uLY>
+
 ## Links
 
 [How Does Ethereum Staking Work?](https://www.coindesk.com/learn/how-does-ethereum-staking-work/)

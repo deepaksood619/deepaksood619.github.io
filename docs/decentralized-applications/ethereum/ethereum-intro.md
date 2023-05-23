@@ -156,6 +156,8 @@ Testnet tokens are a test currency that allows you to test your Ethereum applica
 
 ## Others
 
+[Can ETH Become DEFLATIONARY? EIP 1559 Explained - YouTube](https://www.youtube.com/watch?v=MGemhK9t44Q&ab_channel=Finematics)
+
 [**How does Ethereum work, anyway?**](https://www.preethikasireddy.com/post/how-does-ethereum-work-anyway)
 
 [Ethereum (ETH) Blockchain Explorer](https://etherscan.io/)

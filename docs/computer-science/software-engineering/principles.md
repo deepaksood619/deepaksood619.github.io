@@ -76,3 +76,7 @@ Yak shaving is programming lingo for the seemingly endless series of small tasks
 - [Performance Importance](http://engineering-principles.onejl.uk/practices/Performance_Importance.html)
 - [Get Feedback Early and Often](http://engineering-principles.onejl.uk/practices/Get_Feedback_Early_and_Often.html)
 - [Design for Testability](http://engineering-principles.onejl.uk/practices/Testability.html)
+
+## Links
+
+[The problem with software engineering - YouTube](https://www.youtube.com/watch?v=M-ThkvdcYmo&ab_channel=HusseinNasser)

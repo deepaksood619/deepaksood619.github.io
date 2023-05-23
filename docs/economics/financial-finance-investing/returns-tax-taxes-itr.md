@@ -98,7 +98,7 @@ If people have to invest or spend more, they need to earn at least ₹2.5lks/yr?
 
 ## Deductions
 
-## Deduction U/S 10 - House Rent - 8300 * 12 = 99600
+Deduction U/S 10 - House Rent - 8300 * 12 = 99600
 
 Sec 80D - Medical Insurance Premium (If the policy covers a senior citizen then exemption is Rs.50,000/-) for self and family- Existing or new policy bought between April 2019 till March 2020.
 
@@ -116,15 +116,15 @@ Sec 80GG - Rent Paid
 
 Sec 80U - Handicapped
 
-## Sec 80TTA / 80TTB - Interest on saving a/c (upto 10000)
+### Sec 80TTA / 80TTB - Interest on saving a/c (upto 10000)
 
 [**https://cleartax.in/s/claiming-deduction-on-interest-under-section-80tta**](https://cleartax.in/s/claiming-deduction-on-interest-under-section-80tta)
 
-## 80DDB - Dependent Critical Illness (upto 1,00,000)
+### 80DDB - Dependent Critical Illness (upto 1,00,000)
 
 HRA - <https://freefincal.com/tax-benefits-hra-home-loans>
 
-## DEDUCTION U/S 80C (Max 150000)
+### DEDUCTION U/S 80C (Max 150000)
 
 Contribution to Pension Fund (Jeevan Suraksha)
 
@@ -132,7 +132,7 @@ Life Insurance Premium on life of self/spouse/child only
 
 Deferred Annuity
 
-## Public Provident Fund in own name/spouse/child only
+### Public Provident Fund in own name/spouse/child only
 
 ULIP of UTI/LIC in own name or spouse and child only
 
@@ -158,13 +158,13 @@ DEDUCTION U/S 80CCDNotified Pension Scheme (NPS) (Max 50000)
 
 Asset Classes (Equity, Corporate debt, Government Bonds and AlternativeInvestmentFunds)
 
-## DEDUCTION U/S 24
+### DEDUCTION U/S 24
 
 Interest on Housing Loan on fully constructed accomodation only (Limit - 200,000)
 
 Interest if the loan is taken before 01/04/99 on fully constructed accomodation only (Limit - 30,000)
 
-## 10(5) LTA
+### 10(5) LTA
 
 - 13739
 
@@ -211,7 +211,7 @@ Loss from business and profession cannot be set off against income chargeable to
 **Purpose Code**
 
 - P1006 - Business and management consultancy and public relations services taxation
-- P0802 - Software consultancy implementation other than those covered in SOFTEX form
+- **P0802** - Software consultancy implementation other than those covered in SOFTEX form
 
 [Foreign Inward Remittance Certificate for India (FIRC) – Upwork Customer Service & Support | Upwork Help](https://support.upwork.com/hc/en-us/articles/11494386652179-Foreign-Inward-Remittance-Certificate-for-India-FIRC-)
 
@@ -246,3 +246,7 @@ What Is the Marginal Tax Rate? The marginal tax rate is the amount of additional
 An offshore account is one that is opened by a citizen outside her home country. This does not apply only to Indian citizens. A citizen of the US, opening a bank account in Canada has also opened an offshore bank account.
 
 [Offshore Bank Account: Everything You Need to Know](https://www.winvesta.in/blog/offshore-bank-account/)
+
+## Links
+
+[How To (LEGALLY) Never Pay Taxes - Do This Today - YouTube](https://www.youtube.com/watch?v=248o4zc9RmI)

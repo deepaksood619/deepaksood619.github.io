@@ -1011,3 +1011,5 @@ A man always has two reasons for doing anything, A good reason and the real reas
 The flame that burns twice as bright, burns half as long
 
 A belief is not dangerous until it turns absolute
+
+We are just a chemical scum on a medium-sized planet, orbiting an average star in an ordinary galaxy in one of many universes

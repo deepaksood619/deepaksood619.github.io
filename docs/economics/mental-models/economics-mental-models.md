@@ -201,7 +201,11 @@ Consumer choice
 
 ## Tragedy of the commons / Externalities
 
-Rebound effect - The rebound effect says that the benefits of energy efficiency might be reduced as people change their behavior
+Public goods are rarely cared for.
+
+## Rebound effect
+
+The rebound effect says that the benefits of energy efficiency might be reduced as people change their behavior
 
 ## Quantitative Easing
 

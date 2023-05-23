@@ -5,6 +5,7 @@
 - [Habits](habits)
 - [Procastination](procastination)
 - [Self Control / Will Power](self-control-will-power)
+- [Burnout](psychology/burnout.md)
 - [Self Awareness](self-awareness)
 - [Power](power)
 - [Psychology](psychology/intro.md)

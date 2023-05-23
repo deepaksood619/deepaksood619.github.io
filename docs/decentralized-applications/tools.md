@@ -11,13 +11,6 @@
 - <https://interest.coinmarketcap.com> (Earn crypto from crypto)
 - **<https://cryptopanic.com> (All news in one page)**
 - <https://coinmarketcal.com/en> (Events)
-- <https://studio.glassnode.com/metrics> (Analytics)
-- <https://messari.io> (Analytics)- **Technical Analysis**
-- [Dune | Crypto data dashboards](https://dune.com/home)
-- Total Market Cap
-- 24 hours volume
-- BTC Dominance (if BTC dominance decreases, alt coins take lead)
-- On-chain metrics- Thoughts
 - Blockchain is important bitcoin not
 - Focus on fundamentals
 
@@ -37,7 +30,6 @@
 - [Web3's leading platform for NFT experiences | HyperMint by MoonPay](https://hypermint.com/)
 - KYC - sumsub
 - Security - [Web3 Security Leaderboard](https://www.certik.com/)
-- Analytics - [Glassnode - On-chain market intelligence](https://glassnode.com/)
 - [Blockchain Analytics & Crypto Compliance Solutions | Elliptic](https://www.elliptic.co/)
 - [Gauntlet](https://gauntlet.network/)
 

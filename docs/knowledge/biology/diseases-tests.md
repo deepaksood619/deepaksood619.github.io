@@ -210,6 +210,10 @@ Aphasia is an inability to comprehend or formulate language because of damage to
 
 ![Norwood scale](../../media/Screenshot%202023-05-15%20at%2011.09.00%20PM.png)
 
+## Lead Poisioning
+
+[Lead Poisoning](https://www.drishtiias.com/daily-updates/daily-news-analysis/lead-poisoning-1)
+
 ## Links
 
 [Bacterial vs. Viral Infections: What’s the Difference?](https://www.healthline.com/health/bacterial-vs-viral-infections)

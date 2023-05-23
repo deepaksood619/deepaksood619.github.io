@@ -144,3 +144,7 @@ This statement requires [SELECT](https://dev.mysql.com/doc/refman/8.0/en/privile
 <https://dev.mysql.com/doc/refman/8.0/en/data-size.html>
 
 [SQL Server Performance Essentials -- Full Course](https://www.youtube.com/watch?v=HvxmF0FUwrM)
+
+## Others
+
+[Building and deploying MySQL Raft at Meta - Engineering at Meta](https://engineering.fb.com/2023/05/16/data-infrastructure/mysql-raft-meta/)

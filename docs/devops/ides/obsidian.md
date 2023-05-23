@@ -177,7 +177,7 @@ Extensions that helps make obsidian better
 
 <https://forum.obsidian/t/pubsidian-free-and-elegant-obsidian-publish-alternative/21825>
 
-## Publish / Examples / Showcases
+## Publish / Examples / Showcases / Codex
 
 - [Second Brain Showcases Awesome](https://github.com/KasperZutterman/Second-Brain)
 - <https://publish.obsidian/chromatically/publish+homepage>
@@ -195,6 +195,7 @@ Extensions that helps make obsidian better
 - <https://vinzent03.github.io/obsidian-advanced-uri>
 - <https://wiki.nikiv.dev/>
 - [arboretum.link](https://www.arboretum.link/)
+- [Slate Star Codex](https://slatestarcodex.com/)
 
 ### Blogs example templates
 

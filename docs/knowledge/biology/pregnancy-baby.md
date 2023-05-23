@@ -1,5 +1,15 @@
 # Pregnancy / Baby
 
+## Pregnancy
+
+<https://www.youtube.com/watch?v=F_ssj7-8rYg>
+
+<https://www.parents.com/pregnancy/giving-birth/labor-and-delivery/checklist-how-to-write-a-birth-plan>
+
+15 percent of pregnancies end in miscarriage
+
+[Bridget Teyler - YouTube](https://www.youtube.com/@BridgetTeyler)
+
 ## Baby movements
 
 - Try to perform a kick count around the same time each day, preferably during a time when your baby is usually active, so you get an accurate count. If they usually start kicking after you eat, for example, [have a snack](https://www.verywellfamily.com/great-pregnancy-snacks-2759344) and then lie down for a few hours while counting the number of times you feel them kick.

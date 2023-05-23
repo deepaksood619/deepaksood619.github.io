@@ -52,6 +52,8 @@ Solving double spend problem
 
 <https://blog.chain.link/what-is-the-blockchain-oracle-problem>
 
+[SchellingCoin: A Minimal-Trust Universal Data Feed | Ethereum Foundation Blog](https://blog.ethereum.org/2014/03/28/schellingcoin-a-minimal-trust-universal-data-feed)
+
 ## DDOS in blockchains
 
 - DDoS attacks via transaction flooding

@@ -8,6 +8,12 @@
 
 [Databricks SQL | Databricks](https://www.databricks.com/product/databricks-sql)
 
+## Architecture
+
+With the intent to build data and AI applications, Databricks consists of two core components: the **Control Plane and the Data Plane**. The control plane is **fully managed by Databricks** and consists of the Web UI, Notebooks, Jobs & Queries and the Cluster Manager. The Dataplane **resides in your AWS Account** and is where Databricks Clusters run to process data.
+
+![databricks control and data plane](../../../media/Pasted%20image%2020230522180510.png)
+
 ## Databricks SQL (DB SQL)
 
 Databricks SQL (DB SQL) is a serverless data warehouse on the Databricks Lakehouse Platform that lets you run all your SQL and BI applications at scale with up to 12x better price/performance, a unified governance model, open formats and APIs, and your tools of choice – no lock-in.

@@ -60,6 +60,14 @@ Merlin Chrome Extension
 
 [Instantly.ai - Cold Email Software](https://instantly.ai/)
 
+[Text-to-meme | Supermeme.ai](https://app.supermeme.ai/text-to-meme)
+
+[Botsonic: Custom Train ChatGPT On Your Knowledge Base Data](https://writesonic.com/botsonic)
+
+[Writesonic - Best AI Writer, Copywriting & Paraphrasing Tool](https://writesonic.com/)
+
+[Generative AI API For Your Product | One AI](https://www.oneai.com/)
+
 #### Prompts
 
 [https://snackprompt.com](https://snackprompt.com/)

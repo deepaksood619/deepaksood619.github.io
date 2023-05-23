@@ -18,3 +18,9 @@ Blockchain reinvents trust.
 ## Arguments
 
 What is your sample size?
+
+## Future
+
+[MIT Has Predicted that Society Will Collapse in 2040 | Economics Explained - YouTube](https://www.youtube.com/watch?v=kVOTPAxrrP4&ab_channel=EconomicsExplained)
+
+[Do We Need More Or Less Children? | Economics Explained - YouTube](https://www.youtube.com/watch?v=A-PFgCM4jwM&ab_channel=EconomicsExplained)

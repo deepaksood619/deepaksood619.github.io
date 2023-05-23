@@ -39,3 +39,5 @@ When you install Rustup you'll also get the latest stable version of the Rust bu
 <https://stackoverflow.blog/2020/01/20/what-is-rust-and-why-is-it-so-popular>
 
 <https://www.freecodecamp.org/news/rust-in-replit>
+
+[10 Videos on Rust that accelerate my learning](https://www.linkedin.com/pulse/10-videos-rust-accelerate-my-learning-chun-yin-vincent-lau/)

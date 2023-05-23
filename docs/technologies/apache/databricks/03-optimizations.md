@@ -27,7 +27,7 @@ Bottom line, if the delta tables are backed by a version enabled S3 Bucket with 
 
 - [Disk caching](https://docs.databricks.com/optimizations/disk-cache.html) accelerates repeated reads against Parquet data files by loading data to disk volumes attached to compute clusters.
 - [Dynamic file pruning](https://docs.databricks.com/optimizations/dynamic-file-pruning.html) improves query performance by skipping directories that do not contain data files that match query predicates.
-- [Low shuffle merge](https://docs.databricks.com/optimizations/low-shuffle-merge.html) reduces the number of data files rewritten by `MERGE` operations and reduces the need to recaculate `ZORDER` clusters.
+- [Low shuffle merge](https://docs.databricks.com/optimizations/low-shuffle-merge.html) reduces the number of data files rewritten by `MERGE` operations and reduces the need to recalculate `ZORDER` clusters.
 - Apache Spark 3.0 introduced [adaptive query execution](https://docs.databricks.com/optimizations/aqe.html), which provides enhanced performance for many operations.
 
 #### Databricks recommendations for enhanced performance
@@ -45,7 +45,7 @@ Bottom line, if the delta tables are backed by a version enabled S3 Bucket with 
 - Databricks provides a write serializable isolation guarantee by default; changing the [isolation level](https://docs.databricks.com/optimizations/isolation-level.html) to serializable can reduce throughput for concurrent operations, but might be necessary when read serializability is required.
 - You can use [bloom filter indexes](https://docs.databricks.com/optimizations/bloom-filters.html) to reduce the likelihood of scanning data files that don’t contain records matching a given condition.
 
-### Optimize your file size for fast file pruning
+## Optimize your file size for fast file pruning
 
 Two of the biggest time sinks in an Apache Spark query are the time spent reading data from cloud storage and the need to read all underlying files. With [data skipping](https://docs.databricks.com/delta/optimizations/file-mgmt.html#data-skipping) on Delta Lake, queries can selectively read only the Delta files containing relevant data, saving significant time. Data skipping can help with static file pruning, dynamic file pruning, static partition pruning and dynamic partition pruning.
 
@@ -103,7 +103,7 @@ OPTIMIZE MY_BIG_DIM
   ZORDER BY (MY_BIG_DIM_PK, LIKELY_FIELD_1, LIKELY_FIELD_2)
 ```
 
-### Analyze Table to gather statistics for Adaptive Query Execution Optimizer
+## Analyze Table to gather statistics for Adaptive Query Execution Optimizer
 
 One of the major advancements in Apache Spark 3.0 was the Adaptive Query Execution, or AQE for short. As of Spark 3.0, there are three major features in AQE, including coalescing post-shuffle partitions, converting sort-merge join to broadcast join, and skew join optimization. Together, these features enable the accelerated performance of dimensional models in Spark.
 

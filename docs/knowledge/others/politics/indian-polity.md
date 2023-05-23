@@ -14,6 +14,8 @@ You must first enable the government to control people and then the government i
 
 [Forms of Government | Difference Between Parliamentary and Presidential Form of Government | UPSC - YouTube](https://www.youtube.com/watch?v=PJt2N2ZtvL8)
 
+[Enforcement Directorate (ED) Powers & Prevention of Money Laundering Act (PMLA) | UPSC/IAS 2022-2023 - YouTube](https://www.youtube.com/watch?v=0a0kwKRosOQ)
+
 ### Tryst with Destiny
 
 Long years ago we made a tryst with destiny, and now the time comes when we shall redeem our pledge, not wholly or in full measure, but very substantially. At the stroke of the midnight hour, when the world sleeps, India will awake to life and freedom.

@@ -1,5 +1,18 @@
 # Chain Analytics
 
+On-chain metrics turn blockchain-based transaction data into actionable crypto market insights.
+
+- [On-Chain Analysis: How to Turn Blockchain Data Into Crypto Market Insights](https://www.coindesk.com/learn/what-is-crypto-on-chain-analysis-and-how-do-you-use-it/)
+- [Cake DeFi - DefiLlama](https://defillama.com/cex/cake-defi)
+- [Nansen - Crypto, DeFi & NFT Analytics](https://www.nansen.ai/)
+- <https://studio.glassnode.com/metrics> (Analytics)
+- <https://messari.io> (Analytics)- **Technical Analysis**
+- [Dune | Crypto data dashboards](https://dune.com/home)
+- Total Market Cap
+- 24 hours volume
+- BTC Dominance (if BTC dominance decreases, alt coins take lead)
+- On-chain metrics
+
 ## Coin Lifespan
 
 Lifespan is one of the most powerful tool in on-chain analysis, and is a concept that is unique to blockchains. The transparency of the Bitcoin ledger allows us to Timestamp each UTXO, which allows us to calculate the Lifespan of each coin.

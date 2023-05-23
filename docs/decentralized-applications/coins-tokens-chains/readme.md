@@ -3,6 +3,7 @@
 ## Links
 
 - [coin-token-intro](decentralized-applications/coins-tokens-chains/coin-token-intro.md)
+- [Wallets](decentralized-applications/coins-tokens-chains/wallets.md)
 - [bitcoin](decentralized-applications/coins-tokens-chains/bitcoin.md)
 - [Ordinals](decentralized-applications/coins-tokens-chains/ordinals.md)
 - [USD Coin (USDC)](decentralized-applications/coins-tokens-chains/usdc.md)
@@ -31,6 +32,7 @@
 - Monero (XMR) - [Monero - secure, private, untraceable](https://www.getmonero.org/) (argues it’s more private than Bitcoin)
 - Secret (SCRT) - [Secret Network](https://scrt.network/)
 - zcash which claims it uses advanced tech to make sure that detecting ownership is nearly impossible
+- wbtc - [BITCOIN on ETHEREUM? (renBTC, wBTC, tBTC, sBTC) | DEFI Explained - YouTube](https://www.youtube.com/watch?v=iExly7FGKAQ)
 
 ## Tokens / Stable coins
 
@@ -78,6 +80,7 @@ Market Capitalization - [https://coinmarketcap.com/](https://coinmarketcap.com/)
 - Arbitrum
 - Polygon
 - [Zilliqa blockchain](https://www.zilliqa.com/what-is-zil)
+- [Venom Foundation - Secure by design, scalable by nature](https://venom.foundation/)
 
 ### Cosmos
 

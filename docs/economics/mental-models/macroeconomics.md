@@ -114,3 +114,5 @@ The **impossible trinity** (also known as **the impossible [trilemma](https:
 [Data Update 7 for 2023: Dividends, Buybacks and Cashflows - YouTube](https://www.youtube.com/watch?v=QKJt3cv7c2k)
 
 [The Two Big Economics Lies You Still Believe | Economics Explained - YouTube](https://www.youtube.com/watch?v=zOYLiTj4vag&ab_channel=EconomicsExplained)
+
+[Should We Be Worried About The BRICS? | Economics Explained - YouTube](https://www.youtube.com/watch?v=wBjmgkeit6I)

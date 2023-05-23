@@ -3,6 +3,7 @@
 - **Homeschooling / Home School / Homeschool**
   - Khan academy
   - <https://primer.com>
+  - day wise curriculum for kids for 0 - 18 years
 - **Thoughts**
   - I want to raise my children in UK or US (good child care programs, that develops childs brain) or parents live with me
   - 1st 3 years of the child's brain development is most important
@@ -23,6 +24,7 @@
 - Eat candy and sweets only on Saturday
   - [Lördagsgodis: Sweden's delicious Saturday tradition that prevents decay - BBC Reel](https://youtu.be/BQCbJOwA51k)
 - [Japan's ancient secret to better cognitive memory - BBC REEL](https://youtu.be/s6OmqXCsYt8)
+- [How to expand your baby’s potential with education from birth | Zahra Kassam | TEDxManhattanBeach - YouTube](https://www.youtube.com/watch?v=oXYre2T3p_k&ab_channel=TEDxTalks)
 
 ### Toys
 
@@ -63,7 +65,6 @@ Schooling isn't just about education, it is also a form a childcare
 [Why School Is Bad For You](https://www.youtube.com/watch?v=M4u6oOQ77mg)
 
 [Some Parents Live Out Dreams Through Their Children. Sudha Murthy addressing parents.](https://youtu.be/wPX_iQP-4Rc)
-
 [How to Raise Successful Kids -- Without Over-Parenting | Julie Lythcott-Haims | TED](https://www.youtube.com/watch?v=CyElHdaqkjo)
 
 - Checklist

@@ -45,6 +45,10 @@ Databricks leverages Delta Lake functionality to support two distinct options fo
 
 [Selectively overwrite data with Delta Lake | Databricks on AWS](https://docs.databricks.com/delta/selective-overwrite.html)
 
+## Vaccum
+
+[Remove unused data files with vacuum | Databricks on AWS](https://docs.databricks.com/delta/vacuum.html)
+
 ## Clone
 
 ```sql

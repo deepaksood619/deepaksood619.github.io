@@ -2,6 +2,8 @@
 
 [Ethereum vision | ethereum.org](https://ethereum.org/en/roadmap/vision/)
 
+[ETHEREUM 2.0 - A GAME CHANGER? Proof Of Stake, The Beacon Chain, Sharding, Docking Explained - YouTube](https://www.youtube.com/watch?v=ctzGr58_jeI)
+
 ## [The Merge | ethereum.org](https://ethereum.org/en/upgrades/merge/)
 
 - The upgrade from the original proof-of-work mechanism to proof-of-stake was called The Merge.
@@ -46,3 +48,13 @@ Proto-danksharding requires a new cryptographic scheme: KZG Commitments. This ce
 [KZG Summoning Ceremony](https://ceremony.ethereum.org/)
 
 [The KZG Ceremony - or How I Learnt to Stop Worrying and Love Trusted Setups by Carl Beekhuizen - YouTube](https://www.youtube.com/watch?v=dTBy661ubgg)
+
+## [Don't overload Ethereum's consensus](https://vitalik.ca/general/2023/05/21/dont_overload.html)
+
+Dual-use of validator staked ETH, while it has some risks, is fundamentally fine, but attempting to "recruit" Ethereum social consensus for your application's own purposes is not.
+
+Ethereum social consensus, _for other purposes_:
+
+- **The ultimate oracle**: [a proposal](https://forum.gnosis.io/t/the-ultimate-oracle/61) where users can vote on what facts are true by sending ETH, with a [SchellingCoin](https://blog.ethereum.org/2014/03/28/schellingcoin-a-minimal-trust-universal-data-feed) mechanism: everyone who sent ETH to vote for the majority answer gets a proportional share of all the ETH sent to vote for the minority answer. The description continues: "So in principle this is an symmetric game. What breaks the symmetry is that a) the truth is the natural point to coordinate on and more importantly b) the people betting on the truth can make a credible thread of forking Ethereum if they loose."
+- **Re-staking**: a set of techniques, used by many protocols including [EigenLayer](https://www.eigenlayer.xyz/), where Ethereum stakers can simultaneously use their stake as a deposit in another protocol. In some cases, if they misbehave according to the other protocol's rules, their deposit also gets slashed. In other cases, there are no in-protocol incentives and stake is simply used to vote.
+- **L1-driven recovery of L2 projects**: it has been proposed on many occasions that if an L2 has a bug, the L1 could fork to recover it. One recent example is [this design for using L1 soft forks to recover L2 failures](https://stack.optimism.io/docs/understand/explainer/#unfreezing-the-bridge-via-l1-soft-fork).

@@ -160,3 +160,9 @@ These two perspectives suggest two different approaches you should take:
 ## WFH (Work From Home)
 
 Learning being around smarter folks & absorption by osmosis and overhearing has reduced to zero.
+
+I'm not too likely to discover some entirely new social phenomenon that nobody has ever though about before. But there are a lot of things people have vague nebulous ideas about that they can't quite put into words.
+
+## Cognitive scaffolding
+
+Allows you to build upon your prior knowledge, so your hard earned wisdom can reliably accrete for you

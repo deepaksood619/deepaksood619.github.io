@@ -4,6 +4,10 @@
 
 Crash Course - [Economics](https://www.youtube.com/playlist?list=PL8dPuuaLjXtPNZwz5_o_5uirJ8gQXnhEO)
 
+WEF - You will own nothing and be happy about it
+
+Any changes made to the economy changes atleast 3 more things
+
 ## How the economic machine works
 
 ![image](../media/eco-Intro-image1.jpg)
@@ -88,6 +92,12 @@ Crash Course - [Economics](https://www.youtube.com/playlist?list=PL8dPuuaLjXtPNZ
 Book - <https://www.principles.com/big-debt-crises> Free pdf
 
 [Money’s Mostly Digital, So Why Is Moving It So Hard? - YouTube](https://www.youtube.com/watch?v=8xzINLykprA&ab_channel=WendoverProductions)
+
+[Who Controls All of Our Money? - YouTube](https://www.youtube.com/watch?v=mQUhJTxK5mA&ab_channel=ColdFusion)
+
+- Permit me to issue and control the money of a nation, and I care not who makes its laws. -- Mayer Amsheel Rothschild
+- I was as secretive - indeed, as furtive - as any conspirator. Discovery, we knew, simply must not happen, or else all our time and effort would be wasted. If it were to be exposed that our particular group had got together and written a banking bill, that bill would have no chance whatever of passage by Congress. -- Frank A. Vanderlip
+- It is well enough that people of the nation do not understand our banking and monetary system, for if they did, I belive that there would be a revolution before tomorrow morning -- Henry Ford
 
 ## Economic machine of a country
 
