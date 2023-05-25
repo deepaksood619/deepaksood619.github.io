@@ -7,6 +7,7 @@
   "selectAll": true,
   "listLines": true,
   "listLineAction": "toggle-folding",
-  "dndExperiment": false,
-  "previousRelease": "4.6.5"
+  "dnd": true,
+  "previousRelease": "4.7.1",
+  "dndExperiment": false
 }

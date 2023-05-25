@@ -6,5 +6,6 @@
 - [Workflow](technologies/apache/databricks/04-workflow.md)
 - [Medallion Architecture](technologies/apache/databricks/10-medallion-architecture.md)
 - [Delta Live Tables](technologies/apache/databricks/20-delta-live-tables.md)
+- [Unity Catalog](technologies/apache/databricks/30-unity-catalog.md)
 - [Databricks Commands](technologies/apache/databricks/40-databricks-commands.md)
 - [Others](technologies/apache/databricks/99-others.md)

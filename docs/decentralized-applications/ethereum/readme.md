@@ -7,6 +7,7 @@
 - [Ethereum Staking](ethereum-staking.md)
 - [ERC-4337](decentralized-applications/ethereum/erc-4337.md)
 - [Bridges](decentralized-applications/ethereum/30-bridges.md)
+- [Etherjs](decentralized-applications/ethereum/etherjs.md)
 - [Others](decentralized-applications/ethereum/others.md)
 
 ## Ethereum Development Docs

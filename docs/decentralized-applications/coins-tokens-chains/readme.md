@@ -70,17 +70,25 @@ Market Capitalization - [https://coinmarketcap.com/](https://coinmarketcap.com/)
 - Lightning network
 - Ethereum
 - Vechain
-- Testnet
-  - [https://goerlifaucet.com/](https://goerlifaucet.com/)
-- DeFiChain
-  - [Learn and Earn, DeFiChain | CoinMarketCap](https://coinmarketcap.com/earn/project/defichain)
-  - [$0.52 | DeFiChain Token (DFI) Token Tracker | Etherscan](https://etherscan.io/token/0x8fc8f8269ebca376d046ce292dc7eac40c8d358a)
-  - [DeFi Scan – Native Decentralized Finance for Bitcoin](https://defiscan.live/)
-  - [DeFiChain Whitepaper](https://defichain.com/white-paper/)
 - Arbitrum
 - Polygon
 - [Zilliqa blockchain](https://www.zilliqa.com/what-is-zil)
 - [Venom Foundation - Secure by design, scalable by nature](https://venom.foundation/)
+
+[Chainlist](https://chainlist.org/)
+
+### Testnet
+
+- [https://goerlifaucet.com/](https://goerlifaucet.com/)
+- [Sepolia Faucet](https://sepoliafaucet.com/)
+- [Mumbai Faucet - Polygon - MATIC](https://mumbaifaucet.com/)
+
+### DeFiChain
+
+- [Learn and Earn, DeFiChain | CoinMarketCap](https://coinmarketcap.com/earn/project/defichain)
+- [$0.52 | DeFiChain Token (DFI) Token Tracker | Etherscan](https://etherscan.io/token/0x8fc8f8269ebca376d046ce292dc7eac40c8d358a)
+- [DeFi Scan – Native Decentralized Finance for Bitcoin](https://defiscan.live/)
+- [DeFiChain Whitepaper](https://defichain.com/white-paper/)
 
 ### Cosmos
 
@@ -92,7 +100,7 @@ Cosmos is a decentralized network of independent parallel blockchains, each powe
 
 [Cosmos (ATOM) Blockchain Explorer - ATOMScan](https://atomscan.com/)
 
-### Chain Sizes
+## Chain Sizes
 
 Bitcoin Blockchain Size - 456.72 GB for Feb 18 2023
 

@@ -17,6 +17,8 @@ In order to simplify and maximize focus on a successful transition to proof-of-s
 
 ['What Happens After the Merge' - Vitalik Buterin - YouTube](https://www.youtube.com/watch?v=7ggwLccuN5s)
 
+**Terminal Total Difficulty (TTD)** specifies the final, terminal Proof of Work block, after which the Proof of Stake consensus (implemented in the Beacon Chain) takes over.
+
 ### ETH issuance tldr
 
 - Before transitioning to proof-of-stake, miners were issued approximately 13,000 ETH/day

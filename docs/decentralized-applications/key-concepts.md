@@ -22,7 +22,11 @@ A fork usually gets resolved in one block, because the probability that this sit
 
 Тotal value locked represents the number of assets that are currently being staked in a specific protocol.
 
+TVL is the net sum of all [cryptocurrencies](https://www.tastycrypto.com/blog/cryptocurrency-for-beginners) locked in a particular project.
+
 Total value locked is a metric that is used to measure the overall health of a DeFi protocol.
+
+Depending on the project, TVL can be indicative of the total amount of digital assets borrowed/lent, [crypto staked](https://www.tastycrypto.com/blog/staking-crypto), or the net amount of crypto residing in the [liquidity pools](https://www.tastycrypto.com/blog/liquidity-pools) of a [decentralized exchange (DEX)](https://www.tastycrypto.com/blog/decentralized-crypto-exchange-explained).
 
 There are three main factors that are taken into consideration when calculating and looking at a decentralized financial services' market cap TVL ratio: calculating the supply, the maximum supply as well as the current price.
 
@@ -31,3 +35,9 @@ In order to get the current market cap, you need to multiply the circulating sup
 One of the main use of the TVL ratio is to help determine if a DeFi asset is undervalued or overvalued. If it is under 1, it is undervalued in most cases.
 
 [Total Value Locked (TVL) Definition | CoinMarketCap](https://coinmarketcap.com/alexandria/glossary/total-value-locked-tvl)
+
+**[TVL vs Market Cap vs TVL Ratio: Crypto Concepts — tastycrypto](https://www.tastycrypto.com/blog/tvl-vs-market-cap)**
+
+- TVL (total value locked) refers to the total amount of cryptocurrency being employed by a DeFi project.
+- Market cap refers to the total outstanding value of a project or blockchain cryptocurrency.
+- TVL ratio gauges the health of a protocol.

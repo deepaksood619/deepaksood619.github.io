@@ -1,5 +1,7 @@
 # Tools
 
+The future of decentralized finance lies in the hands of those who dare to challenge the status quo.
+
 [Development Tools](decentralized-applications/development-tools.md)
 
 ## Site Tools

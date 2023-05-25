@@ -17,3 +17,13 @@ create materialized view schema.dev.test_materialized_view_job_run snapshot as s
 ```
 
 Materialized view only run from DBSQL Warehouse and not from notebook.
+
+## Examples
+
+```sql
+CREATE TABLE student_copy AS SELECT * FROM student;
+
+SHOW COLUMNS IN `default`.test ;
+
+DESCRIBE TABLE `default`.test ;
+```

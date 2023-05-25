@@ -18,5 +18,6 @@
 - [Functions](functions)
 - [Stored Procedure](stored-procedure)
 - [PartiQL](partiql)
+- [Databricks SQL](languages/sql/databricks-sql.md)
 - [SQL Examples](sql-examples)
 - [Others](languages/sql/others.md)

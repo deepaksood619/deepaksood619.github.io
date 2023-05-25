@@ -7,14 +7,14 @@ not your keys, not your crypto
 Not your keys not your coins
 
 - Hot wallets
-	- These types of bitcoin wallets are connected to the internet and are typically available online or on your smartphone.
-	- Custodial wallets
+  - These types of bitcoin wallets are connected to the internet and are typically available online or on your smartphone.
+  - Custodial wallets
 
 - Cold wallets / Hardware Wallets
-	- These types of bitcoin wallets cannot be accessed through the internet. They often involve physical devices (like a USB stick), where bitcoin and other cryptocurrencies can be stored securely offline.
-	- Authentication with hardware wallets like the Grid+ Lattice1, Keystone, Ledger, and Trezor.
-	- [Ledger Nano S Plus | Ledger](https://shop.ledger.com/products/ledger-nano-s-plus)
-  
+  - These types of bitcoin wallets cannot be accessed through the internet. They often involve physical devices (like a USB stick), where bitcoin and other cryptocurrencies can be stored securely offline.
+  - Authentication with hardware wallets like the Grid+ Lattice1, Keystone, Ledger, and Trezor.
+  - [Ledger Nano S Plus | Ledger](https://shop.ledger.com/products/ledger-nano-s-plus)
+
 - Paper Wallets
 
 [How to Store Your Bitcoin](https://www.coindesk.com/learn/how-to-store-your-bitcoin)
@@ -36,4 +36,3 @@ Not your keys not your coins
 [Metamask Learn: Your guide to getting started in Web3](https://learn.metamask.io/lessons/what-is-a-crypto-wallet)
 
 [TOP 3 DEFI WALLETS FOR 2021 - What Features Do They Support? - YouTube](https://www.youtube.com/watch?v=JCYIFtb8DwM)
-

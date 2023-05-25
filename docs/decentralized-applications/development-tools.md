@@ -65,3 +65,14 @@ This is a tool that analyzes the token’s smart contract, tokenomics, holders, 
 - [Welcome to Substrate | Substrate\_ Docs](https://docs.substrate.io/learn/welcome-to-substrate/)
 - [GitHub - casey/ord: 👁‍🗨 Rare and exotic sats](https://github.com/casey/ord)
 - [Curvegrid 🛠 A 30 Minute DApp - Jeff Wentworth - YouTube](https://www.youtube.com/watch?v=PzmVzShojlM&ab_channel=ETHGlobal)
+- [The GRAPH - Google Of Blockchains? GRT Token Explained - YouTube](https://www.youtube.com/watch?v=7gC7xJ_98r8)
+
+### Uniswap Build Tools
+
+[Uniswap Foundation - Hacker Home](https://www.uniswapfoundation.org/hacker-home)
+
+[Swap tokens on Uniswap V3 with code, programmatically | A beginners guide with EthersJs & JavaScript - YouTube](https://www.youtube.com/watch?v=vXu5GeLP6A8)
+
+[Deployment Addresses | Uniswap](https://docs.uniswap.org/contracts/v3/reference/deployments)
+
+[.env · GitHub](https://gist.github.com/BlockmanCodes/1ed5e4b3cd597f02e539049c3473f7b3)

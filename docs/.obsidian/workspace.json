@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "technologies/apache/databricks/20-delta-live-tables.md",
+                "file": "decentralized-applications/ethereum/solidity.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "1337",
+                "query": "alchemy",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "technologies/apache/databricks/20-delta-live-tables.md",
+                "file": "decentralized-applications/ethereum/solidity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "technologies/apache/databricks/20-delta-live-tables.md",
+                "file": "decentralized-applications/ethereum/solidity.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "technologies/apache/databricks/20-delta-live-tables.md"
+                "file": "decentralized-applications/ethereum/solidity.md"
               }
             }
           },
@@ -162,7 +162,7 @@
             }
           },
           {
-            "id": "774afd804f14493d",
+            "id": "395b03929294017d",
             "type": "leaf",
             "state": {
               "type": "review-queue-list-view",
@@ -191,42 +191,42 @@
   },
   "active": "978fd2faf621af33",
   "lastOpenFiles": [
-    "decentralized-applications/blockchain.md",
-    "decentralized-applications/ethereum/ethereum-intro.md",
+    "languages/sql/readme.md",
+    "languages/sql/intro.md",
+    "languages/sql/databricks-sql.md",
+    "technologies/apache/databricks/readme.md",
+    "technologies/apache/databricks/30-unity-catalog.md",
+    "decentralized-applications/ethereum/08-evm.md",
+    "media/Pasted image 20230525235415.png",
+    "media/Pasted image 20230525235227.png",
+    "media/Pasted image 20230305171922.png",
+    "media/Pasted image 20230525235106.png",
     "decentralized-applications/ethereum/upgrades.md",
-    "office/personality/addresses-electricity.md",
-    "decentralized-applications/crypto-investing.md",
-    "knowledge/geography/countries.md",
-    "knowledge/geography/others.md",
-    "book-summaries/others.md",
-    "book-summaries/books-to-read.md",
-    "knowledge/geography/india.md",
-    "knowledge/others/politics/indian-polity.md",
-    "knowledge/law/constitution-of-india/others.md",
-    "economics/mental-models/macroeconomics.md",
-    "office/personality/new-home-place-house.md",
-    "knowledge/biology/exercise-stretching/living.md",
-    "office/todo/goals.md",
-    "decentralized-applications/coins-tokens-chains/wallets.md",
-    "decentralized-applications/defi.md",
-    "economics/financial-finance-investing/returns-tax-taxes-itr.md",
-    "ai/nlp/intro.md",
+    "decentralized-applications/development-tools.md",
+    "office/cakedefi/product.md",
     "decentralized-applications/coins-tokens-chains/readme.md",
-    "decentralized-applications/coins-tokens-chains/vechain.md",
-    "decentralized-applications/ethereum/layer-2-protocols.md",
-    "computer-science/system-design/rate-limiting.md",
-    "ai/libraries/chatgpt-llm.md",
+    "decentralized-applications/ethereum/etherjs.md",
+    "decentralized-applications/ethereum/readme.md",
+    "media/Screenshot 2023-05-25 at 11.40.00 PM.png",
+    "media/Screenshot 2023-05-25 at 11.39.28 PM.png",
+    "decentralized-applications/ethereum/solidity.md",
+    "office/keep/deepak-banks.md",
+    "decentralized-applications/tools.md",
+    "decentralized-applications/defi.md",
+    "office/blocktoons/people.md",
+    "office/blocktoons/infra.md",
+    "ai/courses/chatgpt-prompt-eng.md",
+    "ai/data-science/readme.md",
+    "ai/data-science/datasets.md",
+    "ai/libraries/readme.md",
+    "ai/data-science/big-data/intro.md",
+    "decentralized-applications/crypto-investing.md",
     "office/cakedefi/todo.md",
+    "decentralized-applications/ethereum/09-gas.md",
     "media/Pasted image 20230522180510.png",
     "media/Screenshot 2023-05-15 at 11.09.00 PM.png",
     "media/Pasted image 20230514131840.png",
     "media/Pasted image 20230514131925.png",
-    "media/Pasted image 20230514131917.png",
-    "media/Pasted image 20230514131906.png",
-    "media/Pasted image 20230514131857.png",
-    "media/Pasted image 20230514131848.png",
-    "media/chatgpt-prompts.png",
-    "media/chatgpt-promt-engineering.png",
     "office/stashfin-credentials",
     "management/people-management",
     "decentralized-applications/coins-tokens-chains",

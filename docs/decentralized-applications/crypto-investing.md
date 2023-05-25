@@ -5,6 +5,10 @@
 - [L1 & L2 Comparisons & Benchmarks - Cross-Chain Usage, Growth, Gas, Fees](https://dune.com/msilb7/l2-and-l1-fee-comparison-benchmarks)
 - [Fees - DefiLlama](https://defillama.com/fees)
 
+### Dashboards
+
+- [DefiLlama - DeFi Dashboard - TVL](https://defillama.com/?_sp=4a5917cc-9246-49fa-a008-41c519296ec8.1684908761328)
+
 ### Others
 
 - [Unocoin: Best Crypto Exchange in India](https://unocoin.com/in/)
@@ -78,3 +82,7 @@
 [Best Crypto Staking Platforms & Reward Rates for 2023](https://milkroad.com/staking)
 
 [Best Liquid Staking Platforms For Crypto May 2023](https://milkroad.com/staking/liquid)
+
+[11 Best Defi Crypto Coins to Buy In 2023 — tastycrypto](https://www.tastycrypto.com/blog/top-defi-tokens)
+
+[Why Do People Buy Crypto | CoinGecko](https://www.coingecko.com/research/publications/why-people-buy-crypto)
