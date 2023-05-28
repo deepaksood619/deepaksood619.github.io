@@ -147,6 +147,12 @@ WHERE Marks > 75
 ORDER BY RIGHT(NAME, 3), ID ASC;
 ```
 
+#### `ORDER BY ALL`
+
+A shorthand equivalent to specifying all expressions in the `SELECT` list in the order they occur. If `sort_direction` or `nulls_sort_order` are specified they apply to each expression.
+
+[ORDER BY clause | Databricks on AWS](https://docs.databricks.com/sql/language-manual/sql-ref-syntax-qry-select-orderby.html)
+
 ### LIKE
 
 LIKE is a special operator used with the WHERE clause to search for a specific pattern in a column.

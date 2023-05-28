@@ -39,3 +39,5 @@ Databricks CLI eXtensions - aka `dbx` is a CLI tool for development and advanc
 [GitHub - databrickslabs/dbx: 🧱 Databricks CLI eXtensions - aka dbx is a CLI tool for development and advanced Databricks workflows management.](https://github.com/databrickslabs/dbx)
 
 [dbx | github](https://dbx.readthedocs.io/en/latest/)
+
+[GitHub - rafaelpierre/pyjaws: PyJaws: A Pythonic Way to Define Databricks Jobs and Workflows](https://github.com/rafaelpierre/pyjaws)

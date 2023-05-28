@@ -27,3 +27,5 @@ Layering - Tumblr / Mixers - [6 BEST Bitcoin Mixers & Tumblers (2023 List)](http
 ## Links
 
 [Best Judgments of 2022](https://www.youtube.com/watch?v=zfEf53ghkV0)
+
+[What is Happening to The Internet Archive? - YouTube](https://www.youtube.com/watch?v=bp2aowF0jUw)

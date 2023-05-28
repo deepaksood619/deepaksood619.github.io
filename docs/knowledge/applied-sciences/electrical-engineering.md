@@ -30,3 +30,5 @@ He was the first to describe the phenomena we now associate with electrical attr
   - Early Television
 
 <https://www.khanacademy.org/science/electrical-engineering>
+
+[Which is the Killer, Current or Voltage? - YouTube](https://www.youtube.com/watch?v=XDf2nhfxVzg)

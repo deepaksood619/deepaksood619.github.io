@@ -94,6 +94,7 @@
 - Science Magazine
 - [Free High-Quality Documentaries - YouTube](https://www.youtube.com/@FreeHighQualityDocumentaries)
 - Theories of Everything with Curt Jaimungal
+- Visual politik EN
 
 ### Future
 
@@ -325,6 +326,7 @@ Indian History - <https://www.anirudhkanisetti.com/podcasts>
 - Sadguru daily quotes
 - YS buzz
 - Marcellus
+- Stoa Daily
 - Javascript weekly newsletter
 
 ## Tools
@@ -340,3 +342,43 @@ Indian History - <https://www.anirudhkanisetti.com/podcasts>
 ## Top Documentaries
 
 Youtube Original's Mind Field
+
+## Resources
+
+### Torrents
+
+- <https://www.1377x.to>
+- 1377x.to
+- <https://1337xto.to/>
+- 1337xxx.to
+- 1337xx.to
+- <https://waytohunt.org/1337x-proxy-mirror-sites>
+- <https://1337x.unblockit.onl/home>
+- piratebay
+- [https://fmovies.pub](https://fmovies.pub/)
+- popcorn times
+- <https://yifytorrent.cc>
+- <https://yts.mx>
+- <https://pirate-proxy.me>
+- <https://pirate-proxy.pw>
+- <https://zoro.to>
+- Pikashow
+- pdf drive
+- [Youtube Multi Downloader Online Free](https://youtubemultidownloader.net/playlists.html)
+- [Watch Movies Streaming Online Free | TV Show Online HD](https://theflixer.tv/)
+- Index of x
+- [Index of /Movies](http://mha.cs.umn.edu/Movies/)
+- [Index of Games](https://dl.kookdownload.com/game/computer/)
+
+### Journals
+
+- [Sci-Hub: breaking academic paywalls since 2011](https://sci-hub.se/)
+- [Sci-Hub: knowledge as a human right](https://sci-hub.st/)
+- [Sci-Hub: access to information is a human right](https://sci-hub.ru/)
+- The central idea of Sci-Hub is that **Knowledge belongs to all people**
+- [GitHub - freereadorg/awesome-libgen: 😎 Awesome list of Library Genesis, the world's largest free library.](https://github.com/freereadorg/awesome-libgen)
+
+### Reddit Threads
+
+- [Seedboxes](https://www.reddit.com/r/seedboxes/)
+- [It's A Digital Disease!](https://www.reddit.com/r/DataHoarder/)

@@ -1,5 +1,7 @@
 # MBBS / Medicine / Medical / Health
 
+[The Map of Medicine - YouTube](https://www.youtube.com/watch?v=CkwSeMrOPjc)
+
 The MBBS course is divided into 3 phases -
 
 1. Pre-clinical (one year August to July)
@@ -148,3 +150,7 @@ An Internist is a physician specialising in internal medicine, treating complex 
 <https://en.wikipedia.org/wiki/Alternative_medicine>
 
 <https://en.wikipedia.org/wiki/Urine_therapy>
+
+## Others
+
+[How to use the placebo effect to (actually) feel better - YouTube](https://www.youtube.com/watch?v=tefIopDJQBQ)

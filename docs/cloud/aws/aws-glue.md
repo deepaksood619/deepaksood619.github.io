@@ -241,3 +241,7 @@ docker run -it -e SPARK_HISTORY_OPTS="$SPARK_HISTORY_OPTS -Dspark.history.fs.log
 - Option 1: groupFiles
 - Option 2: groupFiles while reading from S3
 - Option 3: Repartition
+
+## Links
+
+[New AWS Glue 4.0 – New and Updated Engines, More Data Formats, and More | AWS News Blog](https://aws.amazon.com/blogs/aws/new-aws-glue-4-0-new-and-updated-engines-more-data-formats-and-more/)

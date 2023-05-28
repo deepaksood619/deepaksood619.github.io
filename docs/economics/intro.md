@@ -119,5 +119,3 @@ Book - <https://www.principles.com/big-debt-crises> Free pdf
 ## Others
 
 <https://finshots.in/archive/finshots-special-how-to-be-a-rational-investor>
-
-[Did Washing Machines Change The Global Economy More Than The Internet? - YouTube](https://www.youtube.com/watch?v=_gvsz_vc7B0)

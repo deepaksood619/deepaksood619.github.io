@@ -1013,3 +1013,5 @@ The flame that burns twice as bright, burns half as long
 A belief is not dangerous until it turns absolute
 
 We are just a chemical scum on a medium-sized planet, orbiting an average star in an ordinary galaxy in one of many universes
+
+[The 5 core principles of life | Nobel Prize-winner Paul Nurse - YouTube](https://www.youtube.com/watch?v=5EwVBC3VsRA)

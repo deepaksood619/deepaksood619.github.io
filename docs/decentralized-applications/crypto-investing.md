@@ -23,7 +23,8 @@
 - Defi - [Ether Fi App](https://www.mainnet.ether.fi/)
 - [Pool - Curve](https://curve.fi/#/ethereum/pools/steth/deposit/)
 - [Balancer DeFi Liquidity Pools on Ethereum Mainnet](https://app.balancer.fi/#/ethereum)
-- [Aave - <!-- -->Open Source Liquidity Protocol](https://aave.com/)
+- [Aave - Open Source Liquidity Protocol](https://aave.com/)
+- [Buy Bitcoin & Ethereum | Cryptocurrency Exchange | Bittrex Global](https://global.bittrex.com/)
 
 ![ranks-of-bitcoin-holders](../media/Screenshot%202023-04-03%20at%209.02.03%20AM.png)
 
@@ -60,6 +61,7 @@
   - Amazon Gift Cards
 - [250+ Stores That Accept Bitcoin | BitPay’s Curated Directory of Places to Spend Cryptocurrency](https://bitpay.com/directory/)
 - [Pay bills with crypto - Spritz Finance](https://www.spritz.finance/)
+- [Find merchants who accept cryptocurrencies | Bitcoin.com](https://www.bitcoin.com/find-crypto-merchants/)
 
 ## Ideas
 

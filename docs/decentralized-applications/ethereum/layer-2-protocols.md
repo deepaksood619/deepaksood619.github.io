@@ -54,3 +54,5 @@ The acronym **zk-SNARK stands for “Zero-Knowledge Succinct Non-Interactive Arg
 [Blockchain Layers Explained: Best Blockchain Layers 1, 2, 3, and 0 Explainer video | Jude - YouTube](https://www.youtube.com/watch?v=u2avJ_ctsKM&ab_channel=JudeUmeano)
 
 [Argent – The best Ethereum wallet for DeFi and NFTs.](https://www.argent.xyz/)
+
+[Cartesi 🛠️ Billions of Reasons to Use Cartesi - Carlo Fragni - YouTube](https://www.youtube.com/watch?v=2WvS5So5su4)

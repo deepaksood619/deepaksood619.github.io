@@ -123,6 +123,10 @@ ANALYZE TABLE MY_BIG_DIM COMPUTE STATISTICS FOR ALL COLUMNS
 
 [What’s a Dimensional Model and How to Implement It on the Databricks Lakehouse Platform - The Databricks Blog](https://www.databricks.com/blog/2022/10/20/data-modeling-best-practices-implementation-modern-lakehouse.html)
 
+## Findings
+
+- using createdAtDate vs createdAt::date doesn't make any difference in run query
+
 ## Others
 
 [Optimizing AWS S3 Access for Databricks - The Databricks Blog](https://www.databricks.com/blog/2022/11/08/optimizing-aws-s3-access-databricks.html)

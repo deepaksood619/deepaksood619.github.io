@@ -66,6 +66,7 @@ Having usability as its main goal, DBeaver offers:
 - `ctrl + shift + f` - format query
 - `ctrl + shift + c` - advanced copy after `ctrl + a` on output to copy all rows with headers to clipboard
 - `ctrl + shift + e` - show execution plan
+- `opt + up/down` - move next or previous query in open editor
 
 ### Settings
 

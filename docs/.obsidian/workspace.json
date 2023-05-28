@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "982897a7da846994",
+        "id": "3569705538c54414",
         "type": "tabs",
         "children": [
           {
-            "id": "696dddd750950060",
+            "id": "b11027af87afca94",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "decentralized-applications/ethereum/solidity.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -48,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "alchemy",
+                "query": "how-to-live-a-good-life",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -101,7 +97,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "decentralized-applications/ethereum/solidity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +113,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "decentralized-applications/ethereum/solidity.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,9 +134,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "decentralized-applications/ethereum/solidity.md"
-              }
+              "state": {}
             }
           },
           {
@@ -174,7 +166,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -189,44 +182,44 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "978fd2faf621af33",
+  "active": "b11027af87afca94",
   "lastOpenFiles": [
+    "management/product-management/behavioral-design-economics.md",
+    "economics/readme.md",
+    "book-summaries/readme.md",
+    "computer-science/security/authentication/readme.md",
+    "computer-science/security/authentication/intro.md",
+    "management/product-management/readme.md",
+    "management/product-management/retail-offline-sales.md",
+    "management/product-management/product-design-questions.md",
+    "decentralized-applications/readme.md",
+    "decentralized-applications/development-tools.md",
+    "office/personality/emails-templates-general.md",
+    "computer-science/system-design/readme.md",
+    "computer-science/system-design/architecture-guide.md",
+    "computer-science/system-design/architecture-guide/readme.md",
+    "computer-science/system-design/n-tier-application-architecture.md",
+    "book-summaries/how-to-live-a-good-life.md",
+    "knowledge/others/philosophy.md",
+    "decentralized-applications/ethereum/polygon.md",
+    "decentralized-applications/ethereum/readme.md",
+    "decentralized-applications/ethereum/layer-2-protocols.md",
+    "computer-science/security/authentication/two-2fa.md",
     "languages/sql/readme.md",
-    "languages/sql/intro.md",
-    "languages/sql/databricks-sql.md",
-    "technologies/apache/databricks/readme.md",
-    "technologies/apache/databricks/30-unity-catalog.md",
-    "decentralized-applications/ethereum/08-evm.md",
+    "languages/sql/dql-data-query-language/readme.md",
+    "languages/sql/dql-data-query-language/aggregation-queries.md",
+    "knowledge/games/readme.md",
+    "knowledge/games/swimming.md",
+    "media/Screenshot 2023-05-28 at 9.57.42 AM.png",
+    "media/Screenshot 2023-05-26 at 1.56.33 PM.png",
+    "media/Screenshot 2023-05-26 at 1.21.56 PM.png",
     "media/Pasted image 20230525235415.png",
     "media/Pasted image 20230525235227.png",
     "media/Pasted image 20230305171922.png",
     "media/Pasted image 20230525235106.png",
-    "decentralized-applications/ethereum/upgrades.md",
-    "decentralized-applications/development-tools.md",
-    "office/cakedefi/product.md",
-    "decentralized-applications/coins-tokens-chains/readme.md",
-    "decentralized-applications/ethereum/etherjs.md",
-    "decentralized-applications/ethereum/readme.md",
     "media/Screenshot 2023-05-25 at 11.40.00 PM.png",
     "media/Screenshot 2023-05-25 at 11.39.28 PM.png",
-    "decentralized-applications/ethereum/solidity.md",
-    "office/keep/deepak-banks.md",
-    "decentralized-applications/tools.md",
-    "decentralized-applications/defi.md",
-    "office/blocktoons/people.md",
-    "office/blocktoons/infra.md",
-    "ai/courses/chatgpt-prompt-eng.md",
-    "ai/data-science/readme.md",
-    "ai/data-science/datasets.md",
-    "ai/libraries/readme.md",
-    "ai/data-science/big-data/intro.md",
-    "decentralized-applications/crypto-investing.md",
-    "office/cakedefi/todo.md",
-    "decentralized-applications/ethereum/09-gas.md",
     "media/Pasted image 20230522180510.png",
-    "media/Screenshot 2023-05-15 at 11.09.00 PM.png",
-    "media/Pasted image 20230514131840.png",
-    "media/Pasted image 20230514131925.png",
     "office/stashfin-credentials",
     "management/people-management",
     "decentralized-applications/coins-tokens-chains",

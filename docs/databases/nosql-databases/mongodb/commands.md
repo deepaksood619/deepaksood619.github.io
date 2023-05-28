@@ -85,6 +85,8 @@ db.sms_collection.getIndexes()
 db.COLLECTION_NAME.aggregate(AGGREGATE_OPERATION)
 ```
 
+[Window Functions & Time Series Collections | MongoDB](https://www.mongodb.com/developer/products/mongodb/window-functions-and-time-series/)
+
 ## RDBMS Where Clause Equivalents in MongoDB
 
 To query the document on the basis of some condition, you can use following operations.

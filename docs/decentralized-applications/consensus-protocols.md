@@ -25,7 +25,15 @@ Staking helps contribute to blockchain security by using your tokens to vouch fo
 - Requires trust in the authorities
   - How are they chosen?
 - Basically: A PKI, a databases, and a hashchain in a trenchcoat
-- Standard construction for "private"/"permissioned" blockchains
+- Standard construction for private / permissioned blockchains
+
+[Proof of authority - Wikipedia](https://en.m.wikipedia.org/wiki/Proof_of_authority)
+
+## Proof of Staked Authority
+
+To maintain blockchain security and achieve network consensus, BSC combines delegated PoS (Proof-of-Stake) and PoA (Proof-of-Authority), the best way to secure the platform. As well as being able to fend off 51% attacks, PoA is known for its openness to Byzantine attacks. Furthermore, elected validators will check each transaction and confirm it only after moving the transaction to ensure the transactions are better secured. The validators also help produce the block in a Poof-of-Authority (PoA) manner. If a person wants to become a validator, they should stake BNB. The validator receives the transaction fees incurred by the block if the block pushed forward by them is added to the chain.
+
+[Everything You Need to Know About Binance Smart Chain (BSC) - Blockchain Council](https://www.blockchain-council.org/cryptocurrency/binance-smart-chain/)
 
 ## Proof of Storage
 

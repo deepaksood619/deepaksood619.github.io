@@ -5,4 +5,5 @@
 - [OAuth](oauth)
 - [OpenID](openid)
 - [HTTP Authentication](http-authentication)
+- [2FA](computer-science/security/authentication/two-2fa.md)
 - [Certificates](certificates)

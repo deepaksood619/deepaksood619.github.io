@@ -43,3 +43,5 @@ Thermal insulation refers to the provisions or constructions employed to reduce 
 ## Hyperobject
 
 Humans design buildings according to conditions they themselves have created but seem to have lost control over, so these phenomena have gained a certain autonomy
+
+Habitat - 67 - [How a 23-Year-Old Solved Urban Sprawl - YouTube](https://www.youtube.com/watch?v=Qwbp9T-WS-I)

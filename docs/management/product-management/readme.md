@@ -9,3 +9,4 @@
 - [Product Design Questions](product-design-questions)
 - [Behavioral Design / Economics](behavioral-design-economics)
 - [Product - Terms](product-terms-tools-saas)
+- [Retail / Offline / Sales](management/product-management/retail-offline-sales.md)

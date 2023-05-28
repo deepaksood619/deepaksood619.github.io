@@ -125,7 +125,7 @@ How to choose a financial product?
 
 - Bucket A: 3-years expenses and emergency funds: 10% savings bank account, 90% Short Term Debt mutual fund. Bucket total = 100%.
 - Bucket B: long term equity: 30% Nifty-50, 20% Nasdaq-100, 5% Commodities, 15% hybrid equity fund, 30% stocks. Bucket total = 100%.
-- Bucket C: long term, Govt backed debt: 100% PPF (my EPF and VPF were withdrawn due to retirement).
+- Bucket C: long term, Govt backed debt
 
 ## Savings
 

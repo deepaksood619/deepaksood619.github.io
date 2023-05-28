@@ -60,3 +60,7 @@ Ethereum social consensus, _for other purposes_:
 - **The ultimate oracle**: [a proposal](https://forum.gnosis.io/t/the-ultimate-oracle/61) where users can vote on what facts are true by sending ETH, with a [SchellingCoin](https://blog.ethereum.org/2014/03/28/schellingcoin-a-minimal-trust-universal-data-feed) mechanism: everyone who sent ETH to vote for the majority answer gets a proportional share of all the ETH sent to vote for the minority answer. The description continues: "So in principle this is an symmetric game. What breaks the symmetry is that a) the truth is the natural point to coordinate on and more importantly b) the people betting on the truth can make a credible thread of forking Ethereum if they loose."
 - **Re-staking**: a set of techniques, used by many protocols including [EigenLayer](https://www.eigenlayer.xyz/), where Ethereum stakers can simultaneously use their stake as a deposit in another protocol. In some cases, if they misbehave according to the other protocol's rules, their deposit also gets slashed. In other cases, there are no in-protocol incentives and stake is simply used to vote.
 - **L1-driven recovery of L2 projects**: it has been proposed on many occasions that if an L2 has a bug, the L1 could fork to recover it. One recent example is [this design for using L1 soft forks to recover L2 failures](https://stack.optimism.io/docs/understand/explainer/#unfreezing-the-bridge-via-l1-soft-fork).
+
+## Others
+
+[Intro to ERC 6551 - Token Bound Accounts - Jayden Windle - YouTube](https://www.youtube.com/watch?v=6WoNRbkZOaU)

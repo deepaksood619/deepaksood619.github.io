@@ -1,6 +1,6 @@
 # Human History / Anthropology
 
-<https://www.youtube.com/watch?v=ehV-MmuvVMU&ab_channel=NationalGeographic>
+[Human Origins 101 | National Geographic - YouTube](https://www.youtube.com/watch?v=ehV-MmuvVMU&ab_channel=NationalGeographic)
 
 - We divided from fungi 650 million years ago
 - 6 million years ago relationship with apes ended
@@ -25,3 +25,5 @@
 ## Earth History
 
 <http://timelineofearth.com>
+
+[To Scale: TIME - YouTube](https://www.youtube.com/watch?v=nOVvEbH2GC0)

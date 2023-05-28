@@ -108,7 +108,7 @@ Hooked: How to Build Habit-Forming Productsby Nir Eyal
 
 ## Influence
 
-1. **Likeability**
+### 1. Likeability
 
 People like talking to people they think they would like. The tip here is to identify the social identity of your audience and capitalilze it
 
@@ -119,7 +119,7 @@ Examples of social identity:
 - Jobs they are into
 - Talking about kids, if they've
 
-2. **Authority**
+### 2. Authority
 
 Anything that is endorsed by credible experts is perceived as valuable
 
@@ -127,7 +127,7 @@ Anything that is endorsed by credible experts is perceived as valuable
 - Analyst ratings to stocks
 - Celeb investments in startups
 
-3. **Reciprocity**
+### 3. Reciprocity
 
 When you give somone something first, they will likely reciprocate
 
@@ -135,7 +135,7 @@ When you give somone something first, they will likely reciprocate
 - Occassion delighters: bday, joining date, even exit
 - Favor outside the primary thing: sharing recipes with a colleague
 
-4. **Scarcity**
+### 4. Scarcity
 
 Anything that is scarce is perceived to be more valuable
 
@@ -143,7 +143,7 @@ Anything that is scarce is perceived to be more valuable
 - 4 days 24 mins left for sale
 - 10 employes get to go to Las Vegas
 
-5. **Social Proof**
+### 5. Social Proof
 
 Anything that other folks similar to you do or endorse is perceived as valuable
 
@@ -151,7 +151,7 @@ Anything that other folks similar to you do or endorse is perceived as valuable
 - No. of reviews, ratings
 - No. of customers as brand ambassadors
 
-6. **Commitment + Consistency**
+### 6. Commitment + Consistency
 
 When you get someone agree to do something, they will be likely to do it again
 

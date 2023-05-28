@@ -97,6 +97,10 @@ We built Conductor to help us orchestrate microservices based process flows at N
 
 <https://netflix.github.io/conductor>
 
-## CronTab-UI
+## Others
 
-<https://github.com/alseambusher/crontab-ui>
+[Give your data team magical powers | Mage](https://www.mage.ai/)
+
+[The Airflow alternative worth checking out: Mage.ai - YouTube](https://www.youtube.com/watch?v=3gXsFEC3aYA)
+
+[GitHub - alseambusher/crontab-ui: Easy and safe way to manage your crontab file](https://github.com/alseambusher/crontab-ui)

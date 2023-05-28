@@ -3,8 +3,11 @@
 ## Redis (Remote Dictionary Service)
 
 Redis is an open source (BSD licensed), extremely fast, in-memory data structure store, used as a database, cache and message broker. It can optionally persist to a disk also. It supports different data structures like simple key-value pairs, sets, queues, strings, hashes, lists, sorted sets with range queries, bitmaps, hyprloglogs and geospatial indexes with radis queries. Redis has built-in replication, Lua scripting, LRU eviction, transactions and different levels of on-disk persistence, and provides high availability via Redis Sentinel and automatic partitioning with Redis Cluster
-You can runatomic operationson these types, like [appending to a string](https://redis.io/commands/append);[incrementing the value in a hash](https://redis.io/commands/hincrby);[pushing an element to a list](https://redis.io/commands/lpush);[computing set intersection](https://redis.io/commands/sinter), [union](https://redis.io/commands/sunion) and [difference](https://redis.io/commands/sdiff); or [getting the member with highest ranking in a sorted set](https://redis.io/commands/zrangebyscore).
+
+You can run atomic operations on these types, like [appending to a string](https://redis.io/commands/append);[incrementing the value in a hash](https://redis.io/commands/hincrby);[pushing an element to a list](https://redis.io/commands/lpush);[computing set intersection](https://redis.io/commands/sinter), [union](https://redis.io/commands/sunion) and [difference](https://redis.io/commands/sdiff); or [getting the member with highest ranking in a sorted set](https://redis.io/commands/zrangebyscore).
+
 In order to achieve its outstanding performance, Redis works with anin-memory dataset. Depending on your use case, you can persist it either by [dumping the dataset to disk](https://redis.io/topics/persistence#snapshotting) every once in a while, or by [appending each command to a log](https://redis.io/topics/persistence#append-only-file). Persistence can be optionally disabled, if you just need a feature-rich, networked, in-memory cache.
+
 Redis also supports trivial-to-setup [master-slave asynchronous replication](https://redis.io/topics/replication), with very fast non-blocking first synchronization, auto-reconnection with partial resynchronization on net split.
 
 ## Features
@@ -25,7 +28,8 @@ Redis also supports trivial-to-setup [master-slave asynchronous replication](htt
 - [Keys with a limited time-to-live](https://redis.io/commands/expire)
 - [LRU eviction of keys](https://redis.io/topics/lru-cache)
 - [Automatic failover](https://redis.io/topics/sentinel)
-Redis is written inANSI Cand works in most POSIX systems like Linux, *BSD, OS X without external dependencies.
+
+Redis is written in ANSI C and works in most POSIX systems like Linux, *BSD, OS X without external dependencies.
 
 ## Advantages
 
@@ -48,31 +52,37 @@ Redis is written inANSI Cand works in most POSIX systems like Linux, *BSD, OS X 
 
 ## Replication/Clustering
 
-## Default: Master-Slave
+### Default: Master-Slave
 
 When installing the chart withcluster.enabled=true, it will deploy a Redis master StatefulSet (only one master node allowed) and a Redis slave StatefulSet. The slaves will be read-replicas of the master. Two services will be exposed:
 
 - Redis Master service: Points to the master, where read-write operations can be performed
 - Redis Slave service: Points to the slaves, where only read operations are allowed.
+
 In case the master crashes, the slaves will wait until the master node is respawned again by the Kubernetes Controller Manager.
 
-## Master-Slave with Sentinel
+### Master-Slave with Sentinel
 
 When installing the chart withcluster.enabled=trueandsentinel.enabled=true, it will deploy a Redis master StatefulSet (only one master allowed) and a Redis slave StatefulSet. In this case, the pods will contain en extra container with Redis Sentinel. This container will form a cluster of Redis Sentinel nodes, which will promote a new master in case the actual one fails. In addition to this, only one service is exposed:
 
 - Redis service: Exposes port 6379 for Redis read-only operations and port 26379 for accesing Redis Sentinel.
+
 For read-only operations, access the service using port 6379. For write operations, it's necessary to access the Redis Sentinel cluster and query the current master using the command below (using redis-cli or similar:
 
-SENTINEL get-master-addr-by-name mymaster
+`SENTINEL get-master-addr-by-name mymaster`
+
 This command will return the address of the current master, which can be accessed from inside the cluster.
+
 In case the current master crashes, the Sentinel containers will elect a new master node.
+
 <https://redis.io/topics/sentinel>
 
-## Redis Cluster
+### Redis Cluster
 
 <https://redis.io/topics/cluster-tutorial>
 
 <https://redis.io/topics/cluster-spec>
+
 Replication - One leader many followers model
 
 Clustering - Shard data across multiple nodes
@@ -80,6 +90,7 @@ Clustering - Shard data across multiple nodes
 <https://redis.io/topics/cluster-tutorial>
 
 Hybrid - Replication + Clustering
+
 Sentinel - <https://redis.io/topics/sentinel>
 
 keydb - Multithreaded fork of redis
@@ -112,6 +123,8 @@ Proxy based Redis cluster solution supporting pipeline and scaling dynamically
 
 1. facebook rocksdb
 2. memcached
+3. [GitHub - paypal/junodb: JunoDB is PayPal's home-grown secure, consistent and highly available key-value store providing low, single digit millisecond, latency at any scale.](https://github.com/paypal/junodb)
+4. [Dissecting Juno DB - YouTube](https://www.youtube.com/playlist?list=PLsdq-3Z1EPT3s3nghXpr0NDpgN3ZIoK4O)
 
 ## Redis vs Memcached
 
@@ -159,6 +172,7 @@ Redis Enterprise 6.0
 - An empty instance uses ~ 3MB of memory
 - 1 Million small Keys -> String Value pairs use ~ 85MB of memory
 - 1 Million Keys -> Hash value, representing an object with 5 fields, use ~ 160 MB of memory
+
 <https://redis.io/topics/faq>
 
 ## References

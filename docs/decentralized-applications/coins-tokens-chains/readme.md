@@ -71,7 +71,9 @@ Market Capitalization - [https://coinmarketcap.com/](https://coinmarketcap.com/)
 - Ethereum
 - Vechain
 - Arbitrum
-- Polygon
+- [POLYGON (MATIC) - Ethereum's Internet Of Blockchains Explained - Layer 2 - YouTube](https://www.youtube.com/watch?v=IijtdpAtOt0)
+  - [Polygon PoS Chain - A Commit Chain? DeFi Explained - YouTube](https://www.youtube.com/watch?v=f7F67ZP9fsE)
+- [Binance Smart Chain And CeDeFi Explained - YouTube](https://www.youtube.com/watch?v=iJDoc0kvXLc)
 - [Zilliqa blockchain](https://www.zilliqa.com/what-is-zil)
 - [Venom Foundation - Secure by design, scalable by nature](https://venom.foundation/)
 

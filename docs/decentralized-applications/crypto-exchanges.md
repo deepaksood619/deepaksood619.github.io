@@ -16,6 +16,7 @@ The Top Three Highest Ranking Crypto Websites on Alexa
   - [A Short Story of UNISWAP and UNI Token. DEFI Explained - YouTube](https://www.youtube.com/watch?v=LpjMgS4OVzs&ab_channel=Finematics)
 - SushiSwap
   - [What Is a VAMPIRE ATTACK? SUSHISWAP Saga Explained - YouTube](https://www.youtube.com/watch?v=UFjXwrCGuog&ab_channel=Finematics)
+- [How Does THORCHAIN Work? DEFI Explained - YouTube](https://www.youtube.com/watch?v=dNDh-mPboPc)
 - Binance.com (Global Ranking 210, US Rank 306)
 - Coinmarketcap.com (Global Rank 108, US Rank 131)
 - Coinbase.com (Global Rank 294, US Rank 209)
@@ -51,3 +52,5 @@ These features make Uniswap v3 **the most flexible and efficient AMM ever desig
 Uniswap's **oracles are now far easier and cheaper to integrate**. V3 oracles are capable of providing time-weighted average prices (TWAPs) on demand for any period within the last ~9 days. This removes the need for integrators to checkpoint historical values.
 
 [Introducing Uniswap V3](https://blog.uniswap.org/uniswap-v3)
+
+[UNISWAP V3 - New Era Of AMMs? Architecture Explained - YouTube](https://www.youtube.com/watch?v=Ehm-OYBmlPM)

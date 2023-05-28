@@ -44,6 +44,8 @@ Dall E - <https://openai.com/dall-e-2>
 
 [Midjourney](https://www.midjourney.com/)
 
+![midjourney-cheatsheet](../../media/Screenshot%202023-05-26%20at%201.56.33%20PM.png)
+
 [ClipDrop](https://clipdrop.co/)
 
 #### Other AI / LLM Tools
@@ -83,3 +85,15 @@ Prompt: "Proofread my writing above. Fix grammar and spelling mistakes. And make
 ##### Learn-fast prompt using the 80/20 principle to knowledge
 
 Prompt: "I want to learn about {insert topic}. Identify and share the most important 20% of learnings from this topic that will help me understand 80% of it."
+
+## Dev Tools
+
+[Welcome to LangChain — 🦜🔗 LangChain 0.0.180](https://python.langchain.com/en/latest/index.html)
+
+## Links
+
+[How to create a private ChatGPT with your own data | by Mick Vleeshouwer | Mar, 2023 | Medium](https://medium.com/@imicknl/how-to-create-a-private-chatgpt-with-your-own-data-15754e6378a1)
+
+[Understanding Large Language Models - by Sebastian Raschka](https://magazine.sebastianraschka.com/p/understanding-large-language-models)
+
+[I Built a Hedge Fund Run by AI Agents - YouTube](https://www.youtube.com/watch?v=vnzt4lwzbXU)

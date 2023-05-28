@@ -32,6 +32,10 @@ The term **hermit kingdom** is used to refer to any country, organization or soc
 
 [Lakes in India](https://www.youtube.com/playlist?list=PL1vNLZF5gfwd1-1Wli0O6m2J3sJjr1FA5)
 
+## Space / Solar System / Earth
+
+[To Scale: THE SOLAR SYSTEM - YouTube](https://www.youtube.com/watch?v=zR3Igc3Rhfg)
+
 ## Others
 
 [Points of the compass - Wikipedia](https://en.m.wikipedia.org/wiki/Points_of_the_compass)

@@ -69,6 +69,8 @@ This is a tool that analyzes the token’s smart contract, tokenomics, holders, 
 
 ### Uniswap Build Tools
 
+[Uniswap 🛠️ An Introduction To Building On Uniswap - Tyllen Bicakcic - YouTube](https://www.youtube.com/watch?v=AYxkVPP07Js)
+
 [Uniswap Foundation - Hacker Home](https://www.uniswapfoundation.org/hacker-home)
 
 [Swap tokens on Uniswap V3 with code, programmatically | A beginners guide with EthersJs & JavaScript - YouTube](https://www.youtube.com/watch?v=vXu5GeLP6A8)

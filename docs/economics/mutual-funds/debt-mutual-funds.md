@@ -25,7 +25,7 @@ They are a type of mutual funds that invest primarily in fixed income instrument
 
 Debt funds, alternatively known as fixed-income funds or credit funds, come under the fixed income asset category of mutual funds. They are low-risk investments vehicles and are comparatively more secure than equity funds which are subject to volatile market forces.
 
-There are several avenues through which you can invest in thebest performing debt fundsfor higher returns. It can be long-term or short-term bonds, monthly income plans (MIPs), floating-rate debt, money market instruments, fixed maturity plans (FMPs) or security products.
+There are several avenues through which you can invest in the best performing debt funds for higher returns. It can be long-term or short-term bonds, monthly income plans (MIPs), floating-rate debt, money market instruments, fixed maturity plans (FMPs) or security products.
 
 Debt Mutual Funds can be broadly classified into:
 
@@ -35,12 +35,12 @@ Debt Mutual Funds can be broadly classified into:
 Below are ten such duration based categories of debt funds as defined by SEBI:
 
 | **Category of Schemes** | **Macaulay Duration [Volatility increases with duration]** | **3 Year Annualised Returns** |
-|---|---|---|
-| Overnight Funds | *Maturity up to 1 Day | 6.39 % |
-| Liquid Funds | *Maturity up to 91 Days | 6.85 % |
+| ----------------------- | ---------------------------------------------------------- | ----------------------------- |
+| Overnight Funds         | Maturity up to 1 Day                                       | 6.39 %                        |
+| Liquid Funds | Maturity up to 91 Days | 6.85 % |
 | Ultra Short Duration Funds| Between 3 to 6 Months | 7.34 % |
 | Low Duration Funds | Between 6 to 12 Months | 7.88 % |
-| Money Market Funds | *Maturity up to 1 Year | 7.31 % |
+| Money Market Funds | Maturity up to 1 Year | 7.31 % |
 | Short Duration Funds | Between 1 to 3 Years | 7.74 % |
 | Medium Duration Funds| Between 3 to 4 Years | 7.90 % |
 | Medium to Long Duration Funds | Between 4 to 7 Years | 7.05 % |
@@ -54,9 +54,11 @@ Below are ten such duration based categories of debt funds as defined by SEBI:
 | Floater Fund |  |  |
 | IDCW - Income Distribution cum Capital Withdrawal / Dividend plans |  |  |
 
+[https://www.hdfcfund.com/investor-desk/hdfc-mf-weekend-bytes/idcw-or-swp-mutual-funds](https://www.hdfcfund.com/investor-desk/hdfc-mf-weekend-bytes/idcw-or-swp-mutual-funds)
+
 ![image](../../media/Mutual-Funds_Debt-Mutual-Funds-image1.jpg)
 
-**Recurring deposits and fixed deposits can be terribly tax-inefficient for those in the 20% and 30% slabs. Primarily because the gains have to declared and tax paid each financial year.A debt mutual fund is a natural choice.**
+**Recurring deposits and fixed deposits can be terribly tax-inefficient for those in the 20% and 30% slabs. Primarily because the gains have to declared and tax paid each financial year. A debt mutual fund is a natural choice.**
 
 Debt mutual fund schemes that invest in fixed income instruments, such as Bonds, and money market instruments etc. that offer capital appreciation.
 
@@ -93,7 +95,6 @@ Gilt funds are debt funds that invest in government securities. The government b
 There are two kinds of gilt funds
 
 1. gilt funds that invest mostly in government securities across maturities.
-
 2. gilt funds with constant maturity of 10 years -- these funds must invest at least 80% of their assets in government securities with a maturity of 10 years.
 
 Investors should keep in mind that since these schemes invest in government securities, they have zero default risk. However, they have very high interest rate risk. In fact, government securities set the tone for interest rates in the money market and economy. The mostly traded 10-year government security is considered the benchmark. Its yield movement sets the tone for trading in the bond market. For example, traders look for trading opportunities based on the spread or interest rate difference between government bonds and corporate bonds or between the 10-year bond and other government bonds.
@@ -158,15 +159,19 @@ This is the fund you rush to in cases of emergencies. Such a fund should offer l
 
 <https://www.paytmmoney.com/blog/emergency-funds>
 
+## EPF Employee Provident Fund
+
+[How to Get or Withdraw EPF Money After Resignation](https://www.bankbazaar.com/saving-schemes/epf-money-after-resignation.html)
+
 ## Retirement
 
-## LIC PMVVY - Papa - 15 lakh (10 years)
+### LIC PMVVY - Papa - 15 lakh (10 years)
 
 - Last date - March 31, 2023
 - 10K per month
 - <https://groww.in/p/savings-schemes/pradhan-mantri-vaya-vandana-yojana>
 
-## SCSS - senior citizens saving scheme - 30 lakh (8 years) - 8%
+### SCSS - senior citizens saving scheme - 30 lakh (8 years) - 8%
 
 - **only one time deposit**
 - **no partial withdrawal**
@@ -178,4 +183,19 @@ A 6% return from arbitrage fund is enough (5.37% post-tax) to beat the 7.75% bon
 
 Mis (Monthly Income Scheme) - Limit 9 lakh
 
-Mahila Samman Saving certificate - 7.5% 2 lakh
+### Mahila Samman Saving certificate - 7.5% 2 lakh
+
+### Sukanya Samriddhi Yojana
+
+- Attractive interest rate of 8%, that is fully exempt from tax under section 80C.
+- Minimum Rs. 250 can be invested in one financial year
+- Maximum investment of Rs. 1,50,000 can be made in one financial year
+- If the minimum amount of Rs 250 is not deposited in any financial year , a penalty of Rs 50/- will be charged
+- Deposits in an account can be made till completion of 14 years, from the date of opening of the account
+- The account shall mature on completion of 21 years from the date of opening of the account, provided that where the marriage of the account holder takes place before completion of such period of 21 years, the operation of the account shall not be permitted beyond the date of her marriage
+- Passbook will be issued to customers.
+- Withdrawal Facility
+  - To meet the financial requirements of the account holder for the purpose of higher education and marriage, account holder can avail partial withdrawal facility after attaining 18 years of age.
+  - If the beneficiary is married before maturity of account, account has to be closed.
+
+[Sukanya Samriddhi Account - Know Scheme Details & Benefits for Your Girl Child | HDFC Bank](https://www.hdfcbank.com/personal/save/accounts/sukanya-samridhi-account)

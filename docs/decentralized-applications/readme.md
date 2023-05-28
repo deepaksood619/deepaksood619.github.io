@@ -14,5 +14,6 @@
 12. [Crypto News](crypto-news)
 13. [Crypto Investing](crypto-investing)
 14. [Tools](tools)
-15. [Others](decentralized-applications/others.md)
-16. [References / Learning](references-learning)
+15. [Development Tools](decentralized-applications/development-tools.md)
+16. [Others](decentralized-applications/others.md)
+17. [References / Learning](references-learning)

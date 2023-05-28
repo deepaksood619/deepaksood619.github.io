@@ -74,3 +74,5 @@
 [https://mfi.engineering/money-forward-i-engineering-2021-43e473dca440](https://mfi.engineering/money-forward-i-engineering-2021-43e473dca440)
 
 [https://mfi.engineering/money-forward-i-engineering-2022-9f5c8549798c](https://mfi.engineering/money-forward-i-engineering-2022-9f5c8549798c)
+
+[CTO Checklist. Being an engineering leader comes in… | by Tom Neal | Medium](https://medium.com/@tom-neal/cto-checklist-1a2ef3d6502)

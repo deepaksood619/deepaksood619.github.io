@@ -72,6 +72,8 @@ First find relevant information, then answer the question based on the relevant 
 - Chatbot
 - Conclusion
 
+**Search Term - Prompt Sites**
+
 [ChatGPT Prompt Engineering for Developers - DeepLearning.AI](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/)
 
 ![ChatGPT Ultimate Prompting Guide](../../media/chatgpt-promt-engineering.png)

@@ -8,4 +8,5 @@
 - [Family Games / Gifts](family-games-gifts)
 - [Couple Activities](couple-activities)
 - [Skiing / Sking](skiing-sking)
+- [Swimming](knowledge/games/swimming.md)
 - [Others](knowledge/games/others.md)

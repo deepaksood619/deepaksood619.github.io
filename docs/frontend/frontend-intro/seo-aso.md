@@ -19,24 +19,16 @@ Search engine marketing is the practice of marketing a business using paid adver
 #### SEO Sites
 
 - [Semrush - Online Marketing Can Be Easy](https://semrush.com/)
-
-<https://developers.google.com/speed/pagespeed/insights>
-
-<https://sitechecker.pro>
-
-<https://seositecheckup.com/seo-audit/www.example.com>
-
-<https://www.seoptimer.com/www.example.com>
-
-<https://app.neilpatel.com/en/seo_analyzer/site_audit>
-
-<https://answerthepublic.com>
-
-<https://stories.google>
-
-<https://purifycss.online>
-
-<https://moz.com>
+- [SerpApi: Google Search API](https://serpapi.com/)
+- <https://developers.google.com/speed/pagespeed/insights>
+- <https://sitechecker.pro>
+- <https://seositecheckup.com/seo-audit/www.example.com>
+- <https://www.seoptimer.com/www.example.com>
+- <https://app.neilpatel.com/en/seo_analyzer/site_audit>
+- <https://answerthepublic.com>
+- <https://stories.google>
+- <https://purifycss.online>
+- <https://moz.com>
 
 ## Black Hat SEO
 

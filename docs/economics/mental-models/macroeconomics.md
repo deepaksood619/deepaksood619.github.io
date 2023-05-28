@@ -116,3 +116,7 @@ The **impossible trinity** (also known as **the impossible [trilemma](https:
 [The Two Big Economics Lies You Still Believe | Economics Explained - YouTube](https://www.youtube.com/watch?v=zOYLiTj4vag&ab_channel=EconomicsExplained)
 
 [Should We Be Worried About The BRICS? | Economics Explained - YouTube](https://www.youtube.com/watch?v=wBjmgkeit6I)
+
+[Did Washing Machines Change The Global Economy More Than The Internet? - YouTube](https://www.youtube.com/watch?v=_gvsz_vc7B0)
+
+[The Inequality Problem Nobody Likes To Talk About | Economics Explained - YouTube](https://www.youtube.com/watch?v=QaL-ocOtooM)

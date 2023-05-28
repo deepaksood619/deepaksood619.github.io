@@ -52,3 +52,5 @@ When a partition key is provided, the events are grouped together by the key and
 - Stagger window
 
 <https://dev.to/frosnerd/window-functions-in-stream-analytics-1m6c>
+
+[Introducing Native Support for Session Windows in Spark Structured Streaming - The Databricks Blog](https://www.databricks.com/blog/2021/10/12/native-support-of-session-window-in-spark-structured-streaming.html)
