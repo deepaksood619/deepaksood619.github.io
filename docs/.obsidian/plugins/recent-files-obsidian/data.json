@@ -1,6 +1,46 @@
 {
   "recentFiles": [
     {
+      "basename": "architecture-guide",
+      "path": "computer-science/system-design/architecture-guide.md"
+    },
+    {
+      "basename": "n-tier-application-architecture",
+      "path": "computer-science/system-design/n-tier-application-architecture.md"
+    },
+    {
+      "basename": "chatgpt-llm",
+      "path": "ai/libraries/chatgpt-llm.md"
+    },
+    {
+      "basename": "intro",
+      "path": "decentralized-applications/intro.md"
+    },
+    {
+      "basename": "my-interviews-cake-defi",
+      "path": "office/cakedefi/my-interviews-cake-defi.md"
+    },
+    {
+      "basename": "grammer-vocabulary",
+      "path": "knowledge/language/grammer-vocabulary.md"
+    },
+    {
+      "basename": "people",
+      "path": "office/cakedefi/people.md"
+    },
+    {
+      "basename": "crypto-investing",
+      "path": "decentralized-applications/crypto-investing.md"
+    },
+    {
+      "basename": "deepak-&-neha-personality",
+      "path": "office/personality/deepak-&-neha-personality.md"
+    },
+    {
+      "basename": "todo",
+      "path": "office/cakedefi/todo.md"
+    },
+    {
       "basename": "behavioral-design-economics",
       "path": "management/product-management/behavioral-design-economics.md"
     },
@@ -47,14 +87,6 @@
     {
       "basename": "readme",
       "path": "computer-science/system-design/readme.md"
-    },
-    {
-      "basename": "architecture-guide",
-      "path": "computer-science/system-design/architecture-guide.md"
-    },
-    {
-      "basename": "n-tier-application-architecture",
-      "path": "computer-science/system-design/n-tier-application-architecture.md"
     },
     {
       "basename": "how-to-live-a-good-life",
@@ -167,38 +199,6 @@
     {
       "basename": "todo-financial-investing",
       "path": "office/todo/todo-financial-investing.md"
-    },
-    {
-      "basename": "returns-tax-taxes-itr",
-      "path": "economics/financial-finance-investing/returns-tax-taxes-itr.md"
-    },
-    {
-      "basename": "deepak-banks",
-      "path": "office/keep/deepak-banks.md"
-    },
-    {
-      "basename": "debt-mutual-funds",
-      "path": "economics/mutual-funds/debt-mutual-funds.md"
-    },
-    {
-      "basename": "crypto-exchanges",
-      "path": "decentralized-applications/crypto-exchanges.md"
-    },
-    {
-      "basename": "readme",
-      "path": "decentralized-applications/coins-tokens-chains/readme.md"
-    },
-    {
-      "basename": "movies-serials-apps",
-      "path": "office/personality/movies-serials-apps.md"
-    },
-    {
-      "basename": "readme",
-      "path": "economics/financial-finance-investing/readme.md"
-    },
-    {
-      "basename": "types-of-governments",
-      "path": "knowledge/others/politics/types-of-governments.md"
     }
   ],
   "omittedPaths": [],

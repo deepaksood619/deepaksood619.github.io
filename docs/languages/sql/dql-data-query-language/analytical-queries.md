@@ -27,7 +27,7 @@ The lowest possible bound  is UNBOUNDED PRECEDING (the first row), the curren
 SELECT time, buy,
   avg(buy) OVER (ORDER BY time rows between 1 preceding and current row) as average_2,
   avg(buy) OVER (ORDER BY time rows between 2 preceding and current row) as average_3
-FROM my_table; 
+FROM my_table;
 ```
 
 ## Links

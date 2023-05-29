@@ -164,7 +164,6 @@ As a general rule, "has" is used in the third person singular ("he", "she", "it"
 
 - BYOD - Bring Your Own Device
 - BYOB - Bring Your Own Booze
-- DYOR - Do Your Own Research
 
 - An axe to grind
 - It's an exception not a majority

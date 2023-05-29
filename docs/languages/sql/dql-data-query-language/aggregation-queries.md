@@ -304,4 +304,3 @@ SELECT min_by(x, y) FROM VALUES (('a', 10)), (('b', 50)), (('c', 20)) AS tab(x, 
 ## Links
 
 [Window Functions](languages/sql/dql-data-query-language/window-functions.md)
-

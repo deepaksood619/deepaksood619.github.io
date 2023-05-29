@@ -70,6 +70,8 @@ Merlin Chrome Extension
 
 [Generative AI API For Your Product | One AI](https://www.oneai.com/)
 
+![ai-tools](../../media/image.png)
+
 #### Prompts
 
 [https://snackprompt.com](https://snackprompt.com/)

@@ -62,6 +62,12 @@ In summary, **Bitcoin is a cryptocurrency built on a blockchain, while Ethereum 
 
 ## Cryptocurrency Terms
 
+**Degen -** In the context of the crypto community, "degen" is **short for "degenerate"** and is often used to refer to a person who is involved in high-risk, speculative trading or investing in cryptocurrencies.
+
+- HODL - Hold
+- WAGMI - We are all gonna make it
+- DYOR - Do Your Own Research
+
 <https://hackernoon.com/crypto-baby-talk-first-50-terms-that-you-should-know-about-30a829320b4b>
 
 [Crypto Glossary of Terms And Jargon | CoinMarketCap](https://coinmarketcap.com/alexandria/glossary)

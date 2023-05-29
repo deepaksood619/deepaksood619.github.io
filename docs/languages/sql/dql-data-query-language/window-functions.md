@@ -91,7 +91,7 @@ SELECT name,
          dept,
          RANK() OVER (PARTITION BY dept ORDER BY salary) AS rank
   FROM employees;
-  
+
   Lisa       Sales  10000    1
   Alex       Sales  30000    2
   Evan       Sales  32000    3

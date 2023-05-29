@@ -18,28 +18,31 @@
 ### 1. Building Water Comfort
 
 #### Bubbling / Breathing
+
 - Don't stress and be calm
 - Bubbling with mouth, nose or both to see which one is most comfortable
-	- quick inhale from mouth, and exhale gently through nose
-	- Controlled exhalation - Breath out, stop, breath out, stop
+  - quick inhale from mouth, and exhale gently through nose
+  - Controlled exhalation - Breath out, stop, breath out, stop
 - Bubbles under water, paddle up breathe and then bubbles under water and repeat
 
 #### Float
+
 - Sculling - move forward, backward or turn
 - Standing up from front float - Practice standing using wall
-	- tuck your knees to your chest, push arms down, place feet on the floor and lift head
+  - tuck your knees to your chest, push arms down, place feet on the floor and lift head
 - Standing up from back float
-	- tuck knees, scoop arms, place feet, lift head
+  - tuck knees, scoop arms, place feet, lift head
 - Sink down
-	- Blow bubbles
-	- use arms to help
+  - Blow bubbles
+  - use arms to help
 - Sitting on the floor
-	- with palms facing up, push the water up the surface
+  - with palms facing up, push the water up the surface
 - Jellyfish float
 - Mushroom float
 - Duck dive (hand stand)
 
 #### Kicking
+
 - Ankles should be relaxed and floppy
 - Hear your kick while kicking
 - Use kickboard for stability and exercising
@@ -62,13 +65,13 @@
 ### 2. Front Floating and Gliding
 
 - Superhero
-	- Look at the floor
-	- Do not look forward
-	- Do not bring arms out of water
+  - Look at the floor
+  - Do not look forward
+  - Do not bring arms out of water
 - Add Warrior
-	- Start with superhero glide and bring arm to your pocket
+  - Start with superhero glide and bring arm to your pocket
 - Add Lean (Warrior Lean)
-	- Rotate body, but face should be down
+  - Rotate body, but face should be down
 
 ### 3. Back Floating and Gliding
 

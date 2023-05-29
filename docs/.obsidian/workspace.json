@@ -11,8 +11,12 @@
             "id": "b11027af87afca94",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "computer-science/system-design/architecture-guide.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -44,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "how-to-live-a-good-life",
+                "query": "dyor",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -97,6 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "computer-science/system-design/architecture-guide.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,6 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "computer-science/system-design/architecture-guide.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +140,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "computer-science/system-design/architecture-guide.md"
+              }
             }
           },
           {
@@ -166,8 +174,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -182,8 +189,18 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "b11027af87afca94",
+  "active": "978fd2faf621af33",
   "lastOpenFiles": [
+    "computer-science/system-design/n-tier-application-architecture.md",
+    "ai/libraries/chatgpt-llm.md",
+    "media/image.png",
+    "decentralized-applications/intro.md",
+    "office/cakedefi/my-interviews-cake-defi.md",
+    "knowledge/language/grammer-vocabulary.md",
+    "office/cakedefi/people.md",
+    "decentralized-applications/crypto-investing.md",
+    "office/personality/deepak-&-neha-personality.md",
+    "office/cakedefi/todo.md",
     "management/product-management/behavioral-design-economics.md",
     "economics/readme.md",
     "book-summaries/readme.md",
@@ -198,18 +215,9 @@
     "computer-science/system-design/readme.md",
     "computer-science/system-design/architecture-guide.md",
     "computer-science/system-design/architecture-guide/readme.md",
-    "computer-science/system-design/n-tier-application-architecture.md",
     "book-summaries/how-to-live-a-good-life.md",
     "knowledge/others/philosophy.md",
     "decentralized-applications/ethereum/polygon.md",
-    "decentralized-applications/ethereum/readme.md",
-    "decentralized-applications/ethereum/layer-2-protocols.md",
-    "computer-science/security/authentication/two-2fa.md",
-    "languages/sql/readme.md",
-    "languages/sql/dql-data-query-language/readme.md",
-    "languages/sql/dql-data-query-language/aggregation-queries.md",
-    "knowledge/games/readme.md",
-    "knowledge/games/swimming.md",
     "media/Screenshot 2023-05-28 at 9.57.42 AM.png",
     "media/Screenshot 2023-05-26 at 1.56.33 PM.png",
     "media/Screenshot 2023-05-26 at 1.21.56 PM.png",
@@ -219,7 +227,6 @@
     "media/Pasted image 20230525235106.png",
     "media/Screenshot 2023-05-25 at 11.40.00 PM.png",
     "media/Screenshot 2023-05-25 at 11.39.28 PM.png",
-    "media/Pasted image 20230522180510.png",
     "office/stashfin-credentials",
     "management/people-management",
     "decentralized-applications/coins-tokens-chains",
