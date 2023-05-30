@@ -129,7 +129,7 @@
 - The daily show with Trevor noah
 - Priya Jain
 - Learn with finology
-- Labour Law Advisors
+- Labour Law Advisor
 - Practical Engineering
 
 ### Finance / Stocks / Personal finance
@@ -328,6 +328,8 @@ Indian History - <https://www.anirudhkanisetti.com/podcasts>
 - Marcellus
 - Stoa Daily
 - Javascript weekly newsletter
+- Lenny's newsletter
+- Smallcase
 
 ## Tools
 

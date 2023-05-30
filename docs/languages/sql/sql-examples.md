@@ -1,5 +1,7 @@
 # SQL Examples
 
+[Online SQL Playground with Data | W3 Schools](https://www.w3schools.com/sql/trysql.asp?filename=trysql_editor)
+
 ```sql
 SELECT count(*) AS TOTALNUMBEROFTABLES FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_SCHEMA = 'sttash_website_LIVE';
 -- 20 Apr 2021 - 955

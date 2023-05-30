@@ -70,6 +70,11 @@ display(people_df)
 
 Delta Lake uses standard syntax for writing data to tables.
 
+```sql
+-- create and insert data
+CREATE TABLE student_copy AS SELECT * FROM student;
+```
+
 To atomically add new data to an existing Delta table, use `append` mode as in the following examples:
 
 ```sql

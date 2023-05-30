@@ -173,8 +173,10 @@ The **Vertipaq Engine** is the in-memory columnar database that stores and hosts
 
 [Technique to improve Power BI report perf by reducing visuals](https://www.youtube.com/watch?v=kkIXtvU1AiM&ab_channel=GuyinaCube)
 
-## Resources
+## Dashboards Showcases
 
 [Amazing Power BI Reports for Inspiration - April 2021 Contest Winners](https://www.youtube.com/watch?v=l6NspVReKz0&ab_channel=BIElite)
 
 [Contest #5 - YouTube Channel Analysis | BI Elite Training](https://training.bielite.com/contest-april-2021-youtube-analysis/)
+
+[Top 17 Tableau Dashboard Examples For Enhanced Business Decisions | SPEC INDIA](https://www.spec-india.com/blog/tableau-dashboard-examples)

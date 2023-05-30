@@ -4,5 +4,5 @@
 - [Internals](internals)
 - [NumPy Reference](numpy-reference)
 - [Ndarray Object](ndarray-object)
-- [Data Types](data-types)
+- [Data Types](ai/numpy/data-types.md)
 - [Cheatsheet](cheatsheet)

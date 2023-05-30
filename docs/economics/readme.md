@@ -32,6 +32,7 @@
   - [Debt Mutual Funds](mutual-funds/debt-mutual-funds)
   - [Debt Mutual Funds Analysis](mutual-funds/debt-mutual-funds-analysis)
   - [Debentures / Bonds](mutual-funds/debentures-bonds)
+  - [Insurance](economics/mutual-funds/insurance.md)
 - [Course - Investing Zerodha Varsity](course-investing-zerodha-varsity)
 - [Course - Corporate Governance](economics/learning.md)
 - [Corporate Finance](corporate-finance/readme.md)

@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "computer-science/system-design/architecture-guide.md",
+                "file": "economics/mutual-funds/debt-mutual-funds.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "025b6581033b3fb0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "languages/sql/dql-data-query-language/window-functions.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -48,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "dyor",
+                "query": "FIRST_VALUE",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -101,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "computer-science/system-design/architecture-guide.md",
+                "file": "languages/sql/dql-data-query-language/window-functions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "computer-science/system-design/architecture-guide.md",
+                "file": "languages/sql/dql-data-query-language/window-functions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "computer-science/system-design/architecture-guide.md"
+                "file": "languages/sql/dql-data-query-language/window-functions.md"
               }
             }
           },
@@ -189,44 +202,44 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "978fd2faf621af33",
+  "active": "025b6581033b3fb0",
   "lastOpenFiles": [
-    "computer-science/system-design/n-tier-application-architecture.md",
-    "ai/libraries/chatgpt-llm.md",
-    "media/image.png",
-    "decentralized-applications/intro.md",
-    "office/cakedefi/my-interviews-cake-defi.md",
-    "knowledge/language/grammer-vocabulary.md",
-    "office/cakedefi/people.md",
+    "media/Screenshot 2023-05-30 at 11.59.41 PM.png",
+    "media/Screenshot 2023-05-30 at 11.59.25 PM.png",
+    "media/Screenshot 2023-05-30 at 11.59.10 PM.png",
+    "media/Screenshot 2023-05-30 at 11.58.55 PM.png",
+    "media/Screenshot 2023-05-30 at 11.58.29 PM.png",
+    "media/Screenshot 2023-05-30 at 11.57.36 PM.png",
+    "media/Screenshot 2023-05-30 at 11.57.00 PM.png",
+    "languages/sql/dql-data-query-language/analytical-queries.md",
+    "languages/sql/dql-data-query-language/window-functions.md",
+    "languages/sql/dql-data-query-language/aggregation-queries.md",
+    "languages/sql/sql-examples.md",
+    "languages/sql/readme.md",
+    "languages/sql/intro.md",
     "decentralized-applications/crypto-investing.md",
-    "office/personality/deepak-&-neha-personality.md",
+    "devops/ides/youtube-podcasts-magazine-apps.md",
+    "decentralized-applications/crypto-news.md",
+    "decentralized-applications/references-learning.md",
+    "computer-science/general/newsletter-learning-resources.md",
+    "networking/others/delta-lake-tutorial.md",
+    "languages/sql/ddl-data-definition-language/create-table.md",
+    "databases/sql-databases/aws-redshift/documentation.md",
     "office/cakedefi/todo.md",
-    "management/product-management/behavioral-design-economics.md",
+    "languages/sql/databricks-sql.md",
+    "economics/mutual-funds/insurance.md",
+    "economics/mutual-funds/readme.md",
     "economics/readme.md",
-    "book-summaries/readme.md",
-    "computer-science/security/authentication/readme.md",
-    "computer-science/security/authentication/intro.md",
-    "management/product-management/readme.md",
-    "management/product-management/retail-offline-sales.md",
-    "management/product-management/product-design-questions.md",
-    "decentralized-applications/readme.md",
-    "decentralized-applications/development-tools.md",
-    "office/personality/emails-templates-general.md",
-    "computer-science/system-design/readme.md",
-    "computer-science/system-design/architecture-guide.md",
-    "computer-science/system-design/architecture-guide/readme.md",
-    "book-summaries/how-to-live-a-good-life.md",
-    "knowledge/others/philosophy.md",
-    "decentralized-applications/ethereum/polygon.md",
+    "economics/mutual-funds/debt-mutual-funds.md",
+    "office/personality/addresses-electricity.md",
+    "networking/others/delta-lake.md",
+    "technologies/apache/databricks/03-optimizations.md",
+    "office/blocktoons/todo.md",
+    "office/keep/deepak-banks.md",
+    "media/Pasted image 20230529234112.png",
+    "media/image.png",
     "media/Screenshot 2023-05-28 at 9.57.42 AM.png",
     "media/Screenshot 2023-05-26 at 1.56.33 PM.png",
-    "media/Screenshot 2023-05-26 at 1.21.56 PM.png",
-    "media/Pasted image 20230525235415.png",
-    "media/Pasted image 20230525235227.png",
-    "media/Pasted image 20230305171922.png",
-    "media/Pasted image 20230525235106.png",
-    "media/Screenshot 2023-05-25 at 11.40.00 PM.png",
-    "media/Screenshot 2023-05-25 at 11.39.28 PM.png",
     "office/stashfin-credentials",
     "management/people-management",
     "decentralized-applications/coins-tokens-chains",

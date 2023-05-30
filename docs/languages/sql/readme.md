@@ -3,6 +3,7 @@
 - [Intro](languages/sql/intro.md)
 - [Concepts](languages/sql/concepts.md)
 - [Types](types)
+- [SQL Data Types](languages/sql/sql-data-types.md)
 - [Operators / Wildcards](operators-wildcards)
 - [Postgres Commands](postgres-commands)
 - [SQL Commands](sql-commands)

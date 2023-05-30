@@ -25,19 +25,21 @@ If no compression is specified in a CREATE TABLE or ALTER TABLE statement, Amazo
 
 ## Concepts
 
-1. **Blocks**
-    - **Column data is persisted to 1 MB immutable blocks**
-    - **Blocks are individually encoded with 1 of 12 encodings**
-    - **A full block can contain millions of values**
+### 1. Blocks
 
-2. **Zone maps**
-    - **Goal: eliminates unnecessary I/O**
-    - **In-memory block metadata**
-        - **Contains per-block min and max values**
-        - **All blocks automatically have zone maps**
-        - **Effectively prunes blocks that cannot contain data for a given query**
+- Column data is persisted to 1 MB immutable blocks
+- Blocks are individually encoded with 1 of 12 encodings
+- A full block can contain millions of values
 
-3. **Materialize columns**
+### 2. Zone maps
+
+- Goal: eliminates unnecessary I/O
+- In-memory block metadata
+  - Contains per-block min and max values
+  - All blocks automatically have zone maps
+  - Effectively prunes blocks that cannot contain data for a given query
+
+### 3. Materialize columns
 
 Goal: Make queries run faster by leveraging zonemaps on the fact tables
 
@@ -46,31 +48,26 @@ Frequently filtered and unchanging dimension values should be materialized withi
 - Time dimension tables do not allow for range restricted scans on fact tables
 - Materializing temporal values in fact table can give significant performance gains
 
-4. **Slices**
-    - **A slice can be thought of like a virtual compute node**
-        - **Unit of data partitioning**
-        - **Parallel query processing**
-    - **Facts about slices**
-        - **Each compute node has either 2 or 16 slices**
-        - **Table rows are distributed to slices**
-        - **A slice processes only its own data**
-5. **Best Practices: Table design summary**
+### 4. Slices
 
-   - Add compression to columns
+- A slice can be thought of like a virtual compute node
+  - Unit of data partitioning
+  - Parallel query processing
+- Facts about slices
+  - Each compute node has either 2 or 16 slices
+  - Table rows are distributed to slices
+  - A slice processes only its own data
 
-   - Add sort keys on the primary columns that are filtered on
+### 5. Best Practices: Table design summary
 
-   - Materialize often filtered columns from dimension tables into fact tables
-
-   - Materialize often calculated values into tables
-
-   - Co-locate large tables using DISTSTYLE KEY if the columns do not cause skew
-
-   - Avoid distribution keys on temporal columns
-
-   - Keep data types as wide as necessay (but no longer than necessary)
-
-       - VARCHAR, CHAR, and NUMERIC
+- Add compression to columns
+- Add sort keys on the primary columns that are filtered on
+- Materialize often filtered columns from dimension tables into fact tables
+- Materialize often calculated values into tables
+- Co-locate large tables using DISTSTYLE KEY if the columns do not cause skew
+- Avoid distribution keys on temporal columns
+- Keep data types as wide as necessay (but no longer than necessary)
+  - VARCHAR, CHAR, and NUMERIC
 
 ## Redshift Sort Key
 

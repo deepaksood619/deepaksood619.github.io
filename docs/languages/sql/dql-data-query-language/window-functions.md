@@ -131,9 +131,31 @@ The clause "ROWS BETWEEN UNBOUNDED PRECEDING AND CURRENT ROW" in the given query
 |[lead(expr[,offset[,default]])](https://docs.databricks.com/sql/language-manual/functions/lead.html)|Returns the value of `expr` from a subsequent row within the partition.|
 |[nth_value(expr, offset[, ignoreNulls])](https://docs.databricks.com/sql/language-manual/functions/nth_value.html)|Returns the value of `expr` at a specific `offset` in the window.|
 
+## SQL Window Functions Cheat Sheet
+
+![window-function-cheatsheet-page-1](../../../media/Screenshot%202023-05-30%20at%2011.57.00%20PM.png)
+
+![window-function-cheatsheet-page-2](../../../media/Screenshot%202023-05-30%20at%2011.57.36%20PM.png)
+
+![window-function-cheatsheet-page-3](../../../media/Screenshot%202023-05-30%20at%2011.58.29%20PM.png)
+
+![window-function-cheatsheet-page-4](../../../media/Screenshot%202023-05-30%20at%2011.58.55%20PM.png)
+
+![window-function-cheatsheet-page-5](../../../media/Screenshot%202023-05-30%20at%2011.59.10%20PM.png)
+
+![window-function-cheatsheet-page-6](../../../media/Screenshot%202023-05-30%20at%2011.59.25%20PM.png)
+
+![window-function-cheatsheet-page-7](../../../media/Screenshot%202023-05-30%20at%2011.59.41%20PM.png)
+
+[SQL Window Functions Cheat Sheet | LearnSQL.com](https://learnsql.com/blog/sql-window-functions-cheat-sheet/)
+
 ## Links
 
 [Analytical Queries](languages/sql/dql-data-query-language/analytical-queries.md)
+
+[Aggregation Queries](languages/sql/dql-data-query-language/aggregation-queries.md)
+
+[What Is the OVER() Clause in SQL? | LearnSQL.com](https://learnsql.com/blog/sql-over-clause/)
 
 [Introducing Window Functions in Spark SQL - The Databricks Blog](https://www.databricks.com/blog/2015/07/15/introducing-window-functions-in-spark-sql.html)
 
