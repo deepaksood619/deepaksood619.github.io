@@ -156,7 +156,7 @@ Edward De Bono developed a tool called the 6 Thinking Hats to help you look at a
 - Calculate the expected return or loss of each outcome
 - Attach a probability to each outcome
 - Understanding the magnitude of the return or loss
-- Multiply the probability by the magnitude (probability of winning *value of win) --- (probability of losing* cost of the loss)
+- Multiply the probability by the magnitude (probability of winning *value of win) - (probability of losing* cost of the loss)
 - Add up and subtract all of the expected returns and losses
 - To get started you don't need to know the exact probabilities. Just following the process will give you unique insights you wouldn't have had otherwise.
 
@@ -177,11 +177,11 @@ Having definedandproperly documented roles and responsibilities at the start of 
 
 ## Fear Settings
 
-"Many a false step was made by standing still." --- Fortune Cookie
+"Many a false step was made by standing still." - Fortune Cookie
 
-"Named must your fear be before banish it you can." --- Yoda
+"Named must your fear be before banish it you can." - Yoda
 
-"Action may not always bring happiness, but there is no happiness without action." --- Benjamin Disraeli, former British Prime Minister
+"Action may not always bring happiness, but there is no happiness without action." - Benjamin Disraeli, former British Prime Minister
 
 We suffer more often in imagination than in reality -- Seneca
 

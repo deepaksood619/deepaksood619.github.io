@@ -14,7 +14,7 @@ Specifically for matrix operations
   - What's more, the GPU achieves this acceleration while being more power- and cost-efficient than a CPU.
   - So when neural networks run on GPUs, they run much faster than on CPUs
 - ![image](../../media/CPU-GPU-TPU-image1.jpg)
-- A GPU is a vector machine. You can give it a long list of data --- a 1D vector --- and run computations on the entire list at the same time.
+- A GPU is a vector machine. You can give it a long list of data - a 1D vector - and run computations on the entire list at the same time.
 - This way, we can perform more computations per second, but we have to perform the same computation on a vector of data in parallel.
 - GPUs are general purpose chips. They don't just perform matrix operations, they can really do any kind of computation.
 - GPUs are optimized for taking huge batches of data and performing the same operation over and over very quickly

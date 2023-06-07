@@ -42,13 +42,13 @@ The generation of random numbers is too important to be left to chance. -- (R)ob
 
 Those who cannot remember the past are condemned to repeat it. -- (D)ynamic Programming
 
-Shipping beats perfection. -- Khan Academy's Development Mantra
+Shipping beats perfection. --Khan Academy's Development Mantra
 
 **The best code is that you never write. The worst code is the code you write two or more times**
 
 The best code is no code at all, and the most effective programmer is the one who knows when not to code.
 
-One of my most productive days was throwing away 1000 lines of code. -- Ken Thompson
+One of my most productive days was throwing away 1000 lines of code.--Ken Thompson
 
 80 percent of data science is preparing data, and the other 20 percent is complaining about preparing data.
 
@@ -62,7 +62,7 @@ Measuring programming progress by lines of code is like measuring aircraft build
 
 **Rating in google play store - This app is very well architected (to all developers)**
 
-Knowing when not to code is possibly the most important skill a programmer can learn. --[The Art Of Readable Code](https://www.amazon.com/Art-Readable-Code-Practical-Techniques/dp/0596802293)
+Knowing when not to code is possibly the most important skill a programmer can learn.--[The Art Of Readable Code](https://www.amazon.com/Art-Readable-Code-Practical-Techniques/dp/0596802293)
 
 First learn computer science and all the theory. Next develop a programming style. Then forget all that and just hack. -- George Carrette
 

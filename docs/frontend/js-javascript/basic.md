@@ -203,7 +203,7 @@ Because variable declarations (and declarations in general) are processed before
 
 ## Closure
 
-A closure is the combination of a function and the lexical environment from which it was declared. Closure allows a function to access variables from an enclosing scope -environment--- even after it leaves the scope in which it was declared.
+A closure is the combination of a function and the lexical environment from which it was declared. Closure allows a function to access variables from an enclosing scope-environment - even after it leaves the scope in which it was declared.
 
 ## Immediate Invoked Function Expression (IIFE)
 

@@ -147,7 +147,7 @@ In [computer science](https://www.wikiwand.com/en/Computer_science), athree-way 
 
 ## [Zawinski's Law](https://en.wikipedia.org/wiki/Jamie_Zawinski#Principles)
 
-"Every program attempts to expand until it can read mail. Those programs which cannot so expand are replaced by ones which can." (related:[Greenspun's tenth rule](https://en.wikipedia.org/wiki/Greenspun%27s_tenth_rule)--- "any sufficiently complicated C or Fortran program contains an ad hoc, informally-specified, bug-ridden, slow implementation of half of Common Lisp.")
+"Every program attempts to expand until it can read mail. Those programs which cannot so expand are replaced by ones which can." (related:[Greenspun's tenth rule](https://en.wikipedia.org/wiki/Greenspun%27s_tenth_rule) - "any sufficiently complicated C or Fortran program contains an ad hoc, informally-specified, bug-ridden, slow implementation of half of Common Lisp.")
 
 ## [Moore's Law](https://en.wikipedia.org/wiki/Moore%27s_law)
 

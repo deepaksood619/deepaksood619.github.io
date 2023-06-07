@@ -68,13 +68,19 @@
 
 [Vitalik Buterin - Ideas for things worth building - YouTube](https://www.youtube.com/watch?v=rp3cDq2LiBM)
 
-## Getting Rekt (Wrecked)
+## Terms
+
+### Getting Rekt (Wrecked)
 
 - The Rug Pull (removing a large amount of liquidity from a liquidity pool)
 - Economic Exploit - Flash Loan
 - Exploit vs Hack (Loop holes)
 
 [How (Not) To Get REKT - DeFi Hacks Explained - YouTube](https://www.youtube.com/watch?v=EawgqVdUZCI)
+
+### Others
+
+- **Wash trading** is when fake trades are made to boost different statistics or drive FOMO
 
 ### Links
 

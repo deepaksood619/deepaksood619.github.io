@@ -41,13 +41,13 @@ Reading a text and recalling it is far more effective than re-reading the text.
 
 Retrieval process while recalling a text helps us to build the chunks and solidify the concept that you have just learned
 
-## Testing on a matter you just learned is an important step and also making mistakes can be helpful
+Testing on a matter you just learned is an important step and also making mistakes can be helpful
 
-## Highlighting or making notes can also be unproductive if you are doing it unefficiently
+Highlighting or making notes can also be unproductive if you are doing it unefficiently
 
-## Referencing a book or googling a page doesn't meet than you know the concept, that is referred to as illusion of incompetance
+Referencing a book or googling a page doesn't meet than you know the concept, that is referred to as illusion of incompetance
 
-## The value of a library of chunks
+The value of a library of chunks
 
 ## Overlearning, Choking, Einstellung and Interleaving
 
@@ -55,7 +55,7 @@ Retrieval process while recalling a text helps us to build the chunks and solidi
 - Einstellung (german word meaning mindset) means an already known concept can prevent you from creating a better concept. (blocked thoughts)
 - Interleaving - Creating new concepts by mixing different concepts (creates flexibility and creativity)
 
-## Immediately after every lecture, meeting, or any significant experience, take 30 seconds --- no more, no less --- to write down the most important points
+Immediately after every lecture, meeting, or any significant experience, take 30 seconds - no more, no less - to write down the most important points
 
 - Chunking
   - Octopus analogy to chunk together groups of information

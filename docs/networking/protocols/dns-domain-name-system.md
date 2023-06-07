@@ -29,7 +29,7 @@ A recursive nameserver is different because if it does not know the ip address f
 
 The recursive nameserver will check its cache first. If the IP address is not there, it will ask a root nameserver (root nameservers do not know IP addresses, but they can read requests and tell the recursive nameserver where to go next). All recursive nameservers come with 13 root nameservers' IP addresses pre-configured. The recursive nameserver picks one and asks it the same question ("what is the IP address for [www.google.com](http://www.google.com)?").
 
-The root nameserver reads the top-level domain (the end of the request), in this case .com, ([www.google.com](http://www.google.com)) and will tell the recursive nameserver to ask the Global Top Level Domain Servers (GTLD). GTLDs are essentially reference lists for each type of domain --- .com, .net., .edu, etc. While they don't know the IP addresses for websites, they do know which nameservers will have that information.
+The root nameserver reads the top-level domain (the end of the request), in this case .com, ([www.google.com](http://www.google.com)) and will tell the recursive nameserver to ask the Global Top Level Domain Servers (GTLD). GTLDs are essentially reference lists for each type of domain---.com, .net., .edu, etc. While they don't know the IP addresses for websites, they do know which nameservers will have that information.
 
 The GTLD nameserver will read the next part of your request, reading from right to left (in this case the 'google' of [www.google.com](http://www.google.com)) and will send back a message with the authoritative nameserver to contact. An authoritative nameserver is a nameserver that is responsible for the domain (and is the primary source of information).
 

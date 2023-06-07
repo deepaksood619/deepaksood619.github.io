@@ -24,7 +24,7 @@ DDD is an approach to software development that tackles complex systems by mappi
 
 ## Design Pattern: Bounded Context -> Domain-Driven Design
 
-Our first challenge is to logically segment the business into micro-subdomains, so that each can be supported by a smallempowered autonomous team. Each subdomain's scope should be bound by its team's capacity to manage the lifecycle of its supporting microservice(s) --- from inception to post-production. This shift from working on transient-projects to autonomous domain-ownership incentivizes accountability for all aspects of microservice design and empowers agile decision-making - which results inimproved time-to-market.
+Our first challenge is to logically segment the business into micro-subdomains, so that each can be supported by a smallempowered autonomous team. Each subdomain's scope should be bound by its team's capacity to manage the lifecycle of its supporting microservice(s) - from inception to post-production. This shift from working on transient-projects to autonomous domain-ownership incentivizes accountability for all aspects of microservice design and empowers agile decision-making - which results inimproved time-to-market.
 Think of the prefix "micro" alluding to the size of the team needed to support the entire lifecycle of the microservice(s) within its bounded business subdomain.
 Within the context of our mockup architecture, let's begin the organizational design process by starting with the payment-processing domain - which includes fraud detection, payments, settlement, and more. Since this scope is likely too complicated for a small team to manage, let's choose to narrow their ownership boundary down to just the fraud-detection subdomain.
 

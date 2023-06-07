@@ -49,8 +49,8 @@ Known as the three M's, Lean methodology defines three types of project waste: m
 
 ## Engineering principles
 
-- **All-in--**This was a massive program and it needed the entire company, from exec to intern, behind it.
-- **Attack the riskiest assumption--**Don't think "MVP." Think about what the riskiest part of the entire program is, and focus on that until it's no longer the top risk.
+- **All-in--** This was a massive program and it needed the entire company, from exec to intern, behind it.
+- **Attack the riskiest assumption--** Don't think "MVP." Think about what the riskiest part of the entire program is, and focus on that until it's no longer the top risk.
 - **Incremental, even when it hurts--** Reduce risk by breaking the migration into as many small parts as possible, even when thatincreases dev time.
 - **Sprint to 100%--** In this program, the payoff was when we could completely stop deploying to the old infrastructure. Don't slow down or lose focus until you are done, done, done, anddone.
 

@@ -48,6 +48,10 @@ Dall E - <https://openai.com/dall-e-2>
 
 [ClipDrop](https://clipdrop.co/)
 
+Deep Nostalgia
+
+[AI Voice Generator: Versatile Text to Speech Software | Murf AI](https://murf.ai/)
+
 #### Other AI / LLM Tools
 
 Merlin Chrome Extension

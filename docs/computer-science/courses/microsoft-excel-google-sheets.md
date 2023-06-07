@@ -257,3 +257,7 @@ Rows - 1,048,576- Text to column
 [Set up a shared drive - Google Workspace Learning Center](https://support.google.com/a/users/answer/9310249?authuser=0)
 
 [22 of the Best Free Google Sheets Templates](https://www.spreadsheetclass.com/google-sheets-templates/)
+
+## Google Doc
+
+Extension - Page Sizer

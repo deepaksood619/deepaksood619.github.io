@@ -95,7 +95,7 @@ if __name__ == "__main__":
     app.run(host="0.0.0.0", port=8000)
 ```
 
-Sanic is arguably the most popular and most loved async framework in the Python world. It has almost all features that you'd want for your projects - routing, middleware, cookies, versioning, blueprints, class-based views, static files, streaming, sockets, etc. --- and what it doesn't offer out of the box - templating, database support, file I/O, queues - can be added as there are just enough async libraries for these as of today.
+Sanic is arguably the most popular and most loved async framework in the Python world. It has almost all features that you'd want for your projects - routing, middleware, cookies, versioning, blueprints, class-based views, static files, streaming, sockets, etc. - and what it doesn't offer out of the box - templating, database support, file I/O, queues - can be added as there are just enough async libraries for these as of today.
 
 <https://github.com/huge-success/sanic>
 

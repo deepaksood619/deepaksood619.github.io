@@ -104,9 +104,9 @@ By default, only the account owner can access Amazon Glacier data. If other peop
 
 ## Retrieval
 
-- **Expedited ---**Expedited retrievals allow you to quickly access your data when occasional urgent requests for a subset of archives are required. For all but the largest archives (250 MB+), data accessed using Expedited retrievals are typically made available within 1--5 minutes. Provisioned Capacity ensures that retrieval capacity for Expedited retrievals is available when you need it.
-- **Standard ---**Standard retrievals allow you to access any of your archives within several hours. Standard retrievals typically complete within 3--5 hours. This is the default option for retrieval requests that do not specify the retrieval option.
-- **Bulk ---**Bulk retrievals are S3 Glacier's lowest-cost retrieval option, which you can use to retrieve large amounts, even petabytes, of data inexpensively in a day. Bulk retrievals typically complete within 5--12 hours.
+- **Expedited -** Expedited retrievals allow you to quickly access your data when occasional urgent requests for a subset of archives are required. For all but the largest archives (250 MB+), data accessed using Expedited retrievals are typically made available within 1--5 minutes. Provisioned Capacity ensures that retrieval capacity for Expedited retrievals is available when you need it.
+- **Standard -** Standard retrievals allow you to access any of your archives within several hours. Standard retrievals typically complete within 3--5 hours. This is the default option for retrieval requests that do not specify the retrieval option.
+- **Bulk -** Bulk retrievals are S3 Glacier's lowest-cost retrieval option, which you can use to retrieve large amounts, even petabytes, of data inexpensively in a day. Bulk retrievals typically complete within 5--12 hours.
 
 6. **AWS Storage Gateway**
 

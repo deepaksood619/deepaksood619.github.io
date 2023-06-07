@@ -323,6 +323,7 @@ Indian History - <https://www.anirudhkanisetti.com/podcasts>
 
 ## Newsletter
 
+- Finshots
 - Not Boring by Packy McCormick - <https://www.notboring.co>
 - economic times
 - Sadguru daily quotes
@@ -332,6 +333,7 @@ Indian History - <https://www.anirudhkanisetti.com/podcasts>
 - Javascript weekly newsletter
 - Lenny's newsletter
 - Smallcase
+- Weekly Grow Digest
 
 ## Tools
 

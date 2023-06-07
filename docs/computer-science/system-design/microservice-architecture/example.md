@@ -8,7 +8,7 @@
 
 ## Design Pattern: Bounded Context -> Domain-Driven Design
 
-Our first challenge is to logically segment the business into micro-subdomains, so that each can be supported by a smallempowered autonomous team. Each subdomain's scope should be bound by its team's capacity to manage the lifecycle of its supporting microservice(s) --- from inception to post-production. This shift from working on transient-projects to autonomous domain-ownership incentivizes accountability for all aspects of microservice design and empowers agile decision-making - which results inimproved time-to-market.
+Our first challenge is to logically segment the business into micro-subdomains, so that each can be supported by a smallempowered autonomous team. Each subdomain's scope should be bound by its team's capacity to manage the lifecycle of its supporting microservice(s) - from inception to post-production. This shift from working on transient-projects to autonomous domain-ownership incentivizes accountability for all aspects of microservice design and empowers agile decision-making - which results inimproved time-to-market.
 Think of the prefix "micro" alluding to the size of the team needed to support the entire lifecycle of the microservice(s) within its bounded business subdomain.
 Within the context of our mockup architecture, let's begin the organizational design process by starting with the payment-processing domain - which includes fraud detection, payments, settlement, and more. Since this scope is likely too complicated for a small team to manage, let's choose to narrow their ownership boundary down to just the fraud-detection subdomain.
 
@@ -25,7 +25,7 @@ Now that we've identified a bounded context and optimal data model for each micr
 ![image](../../../media/Microservice-Architecture_Example-image3.jpg)
 
 The recommended pattern for interservice communication is [asynchronous messaging](https://microservices.io/patterns/communication-style/messaging.html) using a publish-subscribe message broker as its event distribution hub. In this pattern, a producer can publish an event without requisite awareness of whether or not any consumer is listening, and - in the same way - consumers of that event can react to it at their convenience or ignore it altogether. This is typically the foundation of an event-driven architecture.
-Since we have already chosen Redis as the primary database for multiple microservices, we can simplify our architecture by also using it to implement this pattern with [Redis Streams](https://university.redislabs.com/courses/ru202/). Redis Streams is an immutable time-ordered log data structure that allows a producer to publish asynchronous messages to multiple subscribed consumers. This ensures the microservice that is publishing events will remain decoupled from the microservice(s) consuming them - so there are no cross-dependencies on availability and release cycles. In addition, Redis Streams can be configured to handle different delivery guarantees, support consumer groups, and other nuances that are similar in nature to [Kafka](https://kafka.apache.org/)--- also a staple across microservice architectures.
+Since we have already chosen Redis as the primary database for multiple microservices, we can simplify our architecture by also using it to implement this pattern with [Redis Streams](https://university.redislabs.com/courses/ru202/). Redis Streams is an immutable time-ordered log data structure that allows a producer to publish asynchronous messages to multiple subscribed consumers. This ensures the microservice that is publishing events will remain decoupled from the microservice(s) consuming them - so there are no cross-dependencies on availability and release cycles. In addition, Redis Streams can be configured to handle different delivery guarantees, support consumer groups, and other nuances that are similar in nature to [Kafka](https://kafka.apache.org/) - also a staple across microservice architectures.
 
 ## Design Pattern: Choreography-Based Saga -> Distributed Transactions
 
@@ -68,10 +68,10 @@ Now that we've addressed optimizing performance when Redis is not the system-of-
 A real-world example of the latter, is a [strangler application](https://martinfowler.com/bliki/StranglerFigApplication.html) migration from a monolithic to microservice architecture. In this case, a microservice's database could be reliant on an external system-of-record for multiple years, or even indefinitely, as part of a Hybrid Cloud deployment. We actually solved this when we introduced the CQRS pattern, however let's extend the problem statement to include microservices that share the same data and data-access pattern.
 In this case, here are some applicable patterns where Redis simplifies the implementation:
 
-[Read Replicas](https://docs.redislabs.com/5.2/rs/administering/intercluster-replication/replica-of/)--- replicate source data to multiple destinations
+[Read Replicas](https://docs.redislabs.com/5.2/rs/administering/intercluster-replication/replica-of/) - replicate source data to multiple destinations
 
-- [Shared Database](https://microservices.io/patterns/data/shared-database.html)--- allow cross-dependencies between separate bounded contexts
-- [Domain-Driven Design](https://dddcommunity.org/learning-ddd/what_is_ddd/)--- include all microservices sharing data within a single bounded context
+- [Shared Database](https://microservices.io/patterns/data/shared-database.html) - allow cross-dependencies between separate bounded contexts
+- [Domain-Driven Design](https://dddcommunity.org/learning-ddd/what_is_ddd/) - include all microservices sharing data within a single bounded context
 
 ![image](../../../media/Microservice-Architecture_Example-image7.jpg)
 

@@ -86,7 +86,7 @@ In [*Mahābhārata*](https://en.wikipedia.org/wiki/Mahabharata), the ancient epi
 
 Listening to wise scriptures, austerity, sacrifice, respectful faith, social welfare, forgiveness, purity of intent, compassion, truth and self-control - are the ten wealth of character (self). O king aim for these, may you be steadfast in these qualities. These are the basis of prosperity and rightful living. These are highest attainable things. All worlds are balanced on *dharma*, *dharma* encompasses ways to prosperity as well. O King, *dharma* is the best quality to have, wealth the medium and desire (*kāma*) the lowest. Hence, (keeping these in mind), by self-control and by making *dharma* (right conduct) your main focus, treat others as you treat yourself.
 
----*Mahābhārata Shānti-Parva* 167:9
+-*Mahābhārata Shānti-Parva* 167:9
 
 <https://en.wikipedia.org/wiki/Golden_Rule>
 

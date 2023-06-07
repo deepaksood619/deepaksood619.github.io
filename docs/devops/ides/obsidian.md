@@ -61,7 +61,7 @@ Extensions that helps make obsidian better
 
 - Make new note - Cmd-n
 - Create note in new pane - Cmd-shift-n
-- Open the link you're hovering over in a new pane (while in edit mode)---**Cmd-click**
+- Open the link you're hovering over in a new pane (while in edit mode)- Cmd-click
 - Toggle edit/preview mode - Cmd-e
 - Open quick switcher - Cmd-o
 - Close active pane - Cmd-w
@@ -77,7 +77,7 @@ Extensions that helps make obsidian better
 - Swap line up - I mapped this to:Cmd-1
 - Swap line down - I mapped this to:Cmd-2
 - Toggle fold on current line - I mapped this toCmd-3
-- Toggle line to bulleted of numbered list† --- I mapped this toCmd-4
+- Toggle line to bulleted of numbered list† - I mapped this toCmd-4
 - †: Requires the plugin "Hotkeys++"
 - Formatting intermediate
 - Insert template - I mapped this to:Cmd-t
@@ -104,7 +104,7 @@ Extensions that helps make obsidian better
 - Open another vault - I mapped this to:Cmd-ctrl-opt-o
 - Note Management
 - Toggle pin - I mapped this to:Cmd-shift-e
-- Note Refactor: Extract selection to new note - first line as file name†† --- I mapped this to:Cmd-shift-r
+- Note Refactor: Extract selection to new note - first line as file name†† - I mapped this to:Cmd-shift-r
 - Edit file title - I mapped this to:Cmd-l(then hitenterto return to the note)
 - Calendar: Open Weekly Note - I mapped this to:Cmd-shift-m
 - ††: Requires the plugin "Note Refactor"
@@ -124,7 +124,7 @@ Extensions that helps make obsidian better
 
 [My 2020 Comprehensive Obsidian Workflow For Zettelkasten and Evergreen Notes](https://www.youtube.com/watch?v=Ewhfok91AdE)
 
-[Obsidian Plugins (0.9.10) --- My top plugins in the Obsidian app](https://www.youtube.com/watch?v=X61wRmfZU8Y)
+[Obsidian Plugins (0.9.10) - My top plugins in the Obsidian app](https://www.youtube.com/watch?v=X61wRmfZU8Y)
 
 <https://github.com/obsidianmd>
 

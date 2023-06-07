@@ -2,7 +2,7 @@
 
 Brand name - [How to create a great brand name | Jonathan Bell](https://youtu.be/rzbXht7MJVM)
 
-**Megatrends ---** powerful, transformative forces that could change the global economy, business and society ... Think electricity, automobile, the Internet.
+**Megatrends-** powerful, transformative forces that could change the global economy, business and society... Think electricity, automobile, the Internet.
 
 15 day tech startup launch plan:
 

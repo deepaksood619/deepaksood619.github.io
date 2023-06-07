@@ -58,10 +58,10 @@ Cortex provides horizontally scalable, highly available, multi-tenant, long term
 
 Cortex has a fundamentally service-based design, with its essential functions split up into single-purpose components that can be independently scaled:
 
-- **Distributor---** Handles time series data written to Cortex by Prometheus instances using Prometheus'[remote write API](https://prometheus.io/docs/prometheus/latest/storage/#remote-storage-integrations). Incoming data is automatically replicated and sharded, and sent to multiple Cortex ingesters in parallel.
-- **Ingester ---**Receives time series data from distributor nodes and then writes that data to long-term storage backends, compressing data into Prometheus chunks for efficiency.
-- **Ruler---** Executes rules and generates alerts, sending them to [Alertmanager](https://prometheus.io/docs/alerting/alertmanager/)(Cortex installations include Alertmanager).
-- **Querier---** Handles PromQL queries from clients (including [Grafana](https://grafana.com/) dashboards), abstracting over both ephemeral time series data and samples in long-term storage.
+- **Distributor-** Handles time series data written to Cortex by Prometheus instances using Prometheus'[remote write API](https://prometheus.io/docs/prometheus/latest/storage/#remote-storage-integrations). Incoming data is automatically replicated and sharded, and sent to multiple Cortex ingesters in parallel.
+- **Ingester -** Receives time series data from distributor nodes and then writes that data to long-term storage backends, compressing data into Prometheus chunks for efficiency.
+- **Ruler-** Executes rules and generates alerts, sending them to [Alertmanager](https://prometheus.io/docs/alerting/alertmanager/)(Cortex installations include Alertmanager).
+- **Querier-** Handles PromQL queries from clients (including [Grafana](https://grafana.com/) dashboards), abstracting over both ephemeral time series data and samples in long-term storage.
 
 Each of these components can be managed independently, which is key to Cortex's scalability and operations story. You can see a basic diagram of Cortex and the systems it interacts with below:
 

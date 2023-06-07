@@ -62,7 +62,7 @@ Easy choices, hard life. Hard choices, easy life -- Jerzy Gregorek
 
 Society is just 3 missed meals away from total collapse
 
-If you think it's simple, then you have misunderstood the problem. --- Bjarne Stroustrup, Creator of C++
+If you think it's simple, then you have misunderstood the problem. - Bjarne Stroustrup, Creator of C++
 
 Change is the only constant in life
 
@@ -84,7 +84,7 @@ Give me six hours to chop down a tree and I will spend the first four sharpening
 
 A man who carries a cat by the tail learns something he can learn no other way --Mark Twain
 
-Cut yourself off when you need to (if you give yourself shorter timelines, you'll get more done) --- often 80% is sufficient
+Cut yourself off when you need to (if you give yourself shorter timelines, you'll get more done) - often 80% is sufficient
 
 **The greatest enemy of knowledge is not ignorance, it is the illusion of knowledge -- Stephen Hawking**
 
@@ -220,7 +220,7 @@ You cannot rise in love, you cannot fly in love, you cannot stand in love -- you
 
 Your ability to love, to reach out, and to experience life is limitless. The limitation is only of Action of body and mind. -- Sadhguru
 
-If you allow experiences of the past to overshadow your future, you are ensuring there is no future in your life, just recycling the past. --- Sadhguru
+If you allow experiences of the past to overshadow your future, you are ensuring there is no future in your life, just recycling the past. - Sadhguru
 
 Dhyanalinga is not to be worshipped -- it needs to be experienced. The linga is a doorway to the unlimited nature of existence. -- Sadhguru
 
@@ -538,11 +538,11 @@ We don't see things as they are, we see them as we are.
 
 "When you lose track of time, you are either living your best life or wasting it."
 
-"Wisdom is not a product of schooling but of the lifelong attempt to acquire it." --- Albert Einstein
+"Wisdom is not a product of schooling but of the lifelong attempt to acquire it." - Albert Einstein
 
 "Intelligence is learning from one's mistake, wisdom is learning from others mistake"
 
-"Learn steadily rather than short burst for longevity." --- Andrew Ng
+"Learn steadily rather than short burst for longevity." - Andrew Ng
 
 The majority is always wrong. The minority is rarely right. -- Henrik Ibsen
 
@@ -908,7 +908,7 @@ The longer you're a coach, the less you remember what it is like to be a player.
 
 Change positions. A new perspective can improve your old methods."
 
-We don't stop playing because we grow old. We grow old because we stop playing. --- George Bernard Shaw, Irish Playwright
+We don't stop playing because we grow old. We grow old because we stop playing. - George Bernard Shaw, Irish Playwright
 
 Everybody just uses everybody else to get what they want
 

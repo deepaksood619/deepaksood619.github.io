@@ -32,7 +32,7 @@ Distance per time squared? Don't let that throw you. You end up with time square
 
 It may be easier, for a given problem, to use units such as mph/s (miles per hour per second). This would be useful if the velocity in question had a magnitude of something like several miles per hour that changed typically over a number of seconds.
 
-Say you become a drag racer in order to analyze your acceleration down the dragway. After a test race, you know the distance you went - 402 meters, or about 0.25 miles (the magnitude of your displacement) --- and you know the time it took - 5.5 seconds. So what was your acceleration as you blasted down the track?
+Say you become a drag racer in order to analyze your acceleration down the dragway. After a test race, you know the distance you went - 402 meters, or about 0.25 miles (the magnitude of your displacement) - and you know the time it took - 5.5 seconds. So what was your acceleration as you blasted down the track?
 
 Well, you can relate displacement, acceleration, and time as follows:
 

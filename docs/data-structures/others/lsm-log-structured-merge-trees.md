@@ -34,7 +34,7 @@ Structure of an LSM Tree: a memory-resident table, used for writes. Whenever the
 
 The merge step during the read is required, since the data can be split in several parts (for example, an insert followed by delete operation, where delete would shadow the originally inserted record; or an insert, followed by the update operation, where a new field is added to the record).
 
-Every data item in SSTable has a timestamp associated with it. For inserts it specifies the write time, for updates --- an update time and removal time for deletes.
+Every data item in SSTable has a timestamp associated with it. For inserts it specifies the write time, for updates - an update time and removal time for deletes.
 
 ## Summary
 

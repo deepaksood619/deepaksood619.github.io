@@ -54,9 +54,9 @@ set(['Wed'])
 
 ## Difference of sets
 
-The set of elements in A but not in B (written as A --- B)
+The set of elements in A but not in B (written as A - B)
 
-The order matters for Difference. A --- B is NOT the same as B --- A.
+The order matters for Difference. A - B is NOT the same as B - A.
 
 ```python
 DaysA = set(["Mon","Tue","Wed"])

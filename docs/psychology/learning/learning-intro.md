@@ -67,12 +67,12 @@ Everytime you get deep into topic, there comes a point where you are satisfied, 
 
 ## Mental Models
 
-- [Deliberate Practice](https://en.wikipedia.org/wiki/Practice_%28learning_method%29#Deliberate_practice)--- "How expert one becomes at a skill has more to do with how one practices than with merely performing a skill a large number of times."
+- [Deliberate Practice](https://en.wikipedia.org/wiki/Practice_%28learning_method%29#Deliberate_practice) - "How expert one becomes at a skill has more to do with how one practices than with merely performing a skill a large number of times."
 
    The right sort of practice over a sufficient period of time leads to improvement. Nothing else.
 
-- Imposter Syndrome --- "High-achieving individuals marked by an inability to internalize their accomplishments and a persistent fear of being exposed as a 'fraud'."
-- [Spacing Effect](https://en.wikipedia.org/wiki/Spacing_effect)--- "The phenomenon whereby learning is greater when studying is spread out over time, as opposed to studying the same amount of time in a single session."
+- Imposter Syndrome - "High-achieving individuals marked by an inability to internalize their accomplishments and a persistent fear of being exposed as a 'fraud'."
+- [Spacing Effect](https://en.wikipedia.org/wiki/Spacing_effect) - "The phenomenon whereby learning is greater when studying is spread out over time, as opposed to studying the same amount of time in a single session."
 
 ## Memory Types
 

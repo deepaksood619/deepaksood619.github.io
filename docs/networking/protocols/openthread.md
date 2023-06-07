@@ -77,8 +77,8 @@ An End Device (ED) is a node that:
 A Full Thread Device (FTD) always has its radio on, subscribes to the all-routers multicast address, and maintains IPv6 address mappings. There are three types of FTDs:
 
 - Router
-- Router Eligible End Device (REED) --- can be promoted to a Router
-- Full End Device (FED) --- cannot be promoted to a Router
+- Router Eligible End Device (REED) - can be promoted to a Router
+- Full End Device (FED) - cannot be promoted to a Router
 
 An FTD can operate as a Router (Parent) or an End Device (Child).
 
@@ -86,8 +86,8 @@ An FTD can operate as a Router (Parent) or an End Device (Child).
 
 A Minimal Thread Device does not subscribe to multicast traffic and forwards all messages to its Parent. There are two types of MTDs:
 
-- Minimal End Device (MED) --- transceiver always on, does not need to poll for messages from its parent
-- Sleepy End Device (SED) --- normally disabled, wakes on occasion to poll for messages from its parent
+- Minimal End Device (MED) - transceiver always on, does not need to poll for messages from its parent
+- Sleepy End Device (SED) - normally disabled, wakes on occasion to poll for messages from its parent
 
 An MTD can only operate as an End Device (Child).
 ![image](../../media/OpenThread-image2.jpg)**References**

@@ -2,7 +2,9 @@
 
 <https://en.wikipedia.org/wiki/List_of_mnemonics>
 
-Immediately after every lecture, meeting, or any significant experience, take 30 seconds --- no more, no less --- to write down the most important points.
+[Why Flashcards Beat Mnemonics for Studying - Scott H Young](https://www.scotthyoung.com/blog/2023/06/06/flashcards-vs-mnemonics/)
+
+Immediately after every lecture, meeting, or any significant experience, take 30 seconds - no more, no less - to write down the most important points.
 
 ## Mind Mapping - Put main topic in center of the page and write connections form it
 

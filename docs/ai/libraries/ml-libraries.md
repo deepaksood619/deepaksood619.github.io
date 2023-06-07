@@ -242,7 +242,7 @@ Jinaallows you to build search-as-a-service powered by deep learning in just min
 
 - **All data types-** Large-scale indexing and querying of any kind of unstructured data: video, image, long/short text, music, source code, PDF, etc.
 - **Fast & cloud-native-** Distributed architecture from day one, scalable & cloud-native by design: enjoy containerizing, streaming, paralleling, sharding, async scheduling, HTTP/gRPC/WebSocket protocol.
-- **Save time-**Thedesign pattern of neural search systems, from zero to a production-ready system in minutes.
+- **Save time-** The design pattern of neural search systems, from zero to a production-ready system in minutes.
 - **Own your stack-** Keep end-to-end stack ownership of your solution, avoid integration pitfalls you get with fragmented, multi-vendor, generic legacy tools.
 
 <https://jina.ai>

@@ -34,6 +34,7 @@
 16. [The Modern Investor](https://www.youtube.com/c/TheModernInvestor) – good for general investing and cryptocurrency news
 17. [The Ultimate Guide To Crypto | Bankless](https://www.bankless.com/)
 18. Bankless
+19. [Some resources that I use for investing/trading in crypto](https://route2fi.substack.com/p/some-resources-that-i-use-to-stay)
 
 ### Awesome links
 

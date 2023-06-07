@@ -36,7 +36,7 @@ A declarative approach represents what we have and what we need. For example:We 
 
 The good news is computer languages have evolved. Computer languages offer declarative ways to do the needed imperative computer instructions. Just as cars have evolved from manual stick shift into automatic and self-driving ones!
 
-Imperative programming is like driving a stick shift car. You need to do manual steps (press the clutch, depress it slowly, change gears incrementally, etc). Declarative programming is like driving an automatic car --- you just specify the "what": Park or Drive.
+Imperative programming is like driving a stick shift car. You need to do manual steps (press the clutch, depress it slowly, change gears incrementally, etc). Declarative programming is like driving an automatic car - you just specify the "what": Park or Drive.
 
 You cannot program declaratively unless you have the tools that enable you to do so. While you can imperatively drive an automatic car (by switching to manual mode) you cannot declaratively drive a stick shift car. If all you have is a stick shift car, imperative programming is your only obvious choice. This is unless you take the time to install an automatic gear shifter, which might be worth it in the long term. If you can afford a new car, you will probably go with an automatic one unless you are that true nerd who still likes to program with Assembly!
 

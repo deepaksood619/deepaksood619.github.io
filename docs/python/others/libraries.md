@@ -7,7 +7,7 @@ nose packages
 PyPy is a [fast](http://speed.pypy.org/), [compliant](https://pypy.org/compat.html) alternative implementation of the [Python](http://python.org/) language (2.7.13 and 3.5.3). It has several advantages and distinct features:
 
 - **Speed:** thanks to its Just-in-Time compiler, Python programs often run [faster](http://speed.pypy.org/) on PyPy.[(What is a JIT compiler?)](http://en.wikipedia.org/wiki/Just-in-time_compilation)
-    "If you want your code to run faster, you should probably just use PyPy." --- Guido van Rossum (creator of Python)
+    "If you want your code to run faster, you should probably just use PyPy." - Guido van Rossum (creator of Python)
 - **Memory usage:** memory-hungry Python programs (several hundreds of MBs or more) might end up taking [less space](http://morepypy.blogspot.com/2009/10/gc-improvements.html) than they do in CPython.
 - **Compatibility:** PyPy is [highly compatible](https://pypy.org/compat.html) with existing python code. It supports [cffi](https://cffi.readthedocs.org/) and can run popular python libraries like [twisted](https://twistedmatrix.com/) and [django](https://www.djangoproject.com/).
 - **Stackless:** PyPy comes by default with support for [stackless mode](https://pypy.org/features.html#stackless), providing micro-threads for massive concurrency.

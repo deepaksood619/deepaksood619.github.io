@@ -53,7 +53,7 @@ This is complete but not full
 
 ## Binary trees
 
-In computer science, a binary tree is a tree data structure in which each node has at the most two children, which are referred to as the left child and the right child." --- [Wikipedia](https://en.wikipedia.org/wiki/Binary_tree)
+In computer science, a binary tree is a tree data structure in which each node has at the most two children, which are referred to as the left child and the right child."---[Wikipedia](https://en.wikipedia.org/wiki/Binary_tree)
 ![image](../../media/Binary-Tree-image5.jpg)
 The first thing we need to keep in mind when we implement a binary tree is that it is a collection of nodes. Each node has three attributes: value, left_child, and right_child.
 How do we implement a simple binary tree that initializes with these three properties?

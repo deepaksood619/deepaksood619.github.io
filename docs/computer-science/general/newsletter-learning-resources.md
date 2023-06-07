@@ -53,17 +53,13 @@ Quote of the Week:"Computer programming is an art because it applies accumulated
 
 ## Newsletter
 
-Interview Cake Weekly Problem
-
-Daily coding
-
-<http://gamedevjsweekly.com>
-
-<https://dailyproductprep.com>
-
-<https://programmingdigest.net>
-
-Medium Daily Digest
+- Interview Cake Weekly Problem
+- Daily coding
+- <http://gamedevjsweekly.com>
+- <https://dailyproductprep.com>
+- <https://programmingdigest.net>
+- Medium Daily Digest
+- PyCoder's Weekly
 
 ## Learning + Taking notes
 

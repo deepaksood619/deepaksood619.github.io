@@ -2,7 +2,7 @@
 
 Inventor - Satoshi Nakamoto
 
-"Most technologies tend to automate workers on the periphery who are doing menial tasks. But blockchains automate away the center. Instead of putting taxi drivers out of a job, blockchain puts Uber out of a job, and lets the taxi drivers work with the customer directly." --- Vitalik Buterin, Creator of Ethereum
+"Most technologies tend to automate workers on the periphery who are doing menial tasks. But blockchains automate away the center. Instead of putting taxi drivers out of a job, blockchain puts Uber out of a job, and lets the taxi drivers work with the customer directly." - Vitalik Buterin, Creator of Ethereum
 
 A blockchain is a data structure that enables identifying and tracking transactions digitally and sharing this information across a distributed network of computers, creating a distributed trust network.
 

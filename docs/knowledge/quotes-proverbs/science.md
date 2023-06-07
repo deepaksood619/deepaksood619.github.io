@@ -26,4 +26,4 @@ Equations that govern the world
 
 The world's scientific communities cannot claim absolute truth, but they can fairly claim that they are closer than anyone else to genuine knowledge concerning their particular fields of study -- David Joravsky
 
-We didn't stop burning witches because we invented science; we invented science because we stopped burning witches." --- René Girard
+We didn't stop burning witches because we invented science; we invented science because we stopped burning witches." - René Girard

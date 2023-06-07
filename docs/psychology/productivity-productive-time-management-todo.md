@@ -76,10 +76,10 @@ A Most Important Task (MIT) is a critical task that will create the most signifi
 
 ## Mental Models
 
-- [Makers vs Manager's Schedule](http://www.paulgraham.com/makersschedule.html)--- "When you're operating on the maker's schedule, meetings are a disaster." (related:[Deep Work](http://knowledge.wharton.upenn.edu/article/deep-work-the-secret-to-achieving-peak-productivity/))
-- [Murphy's Law](https://en.wikipedia.org/wiki/Murphy%27s_law)--- "Anything that can go wrong, will." (related:[Hofstadter's Law](https://en.wikipedia.org/wiki/Hofstadter%27s_law), "It always takes longer than you expect, even when you take into account Hofstadter's Law.")
-- [Parkinson's Law](https://en.wikipedia.org/wiki/Parkinson%27s_law)--- "Work expands so as to fill the time available for its completion."
-- (3) Gate's Law --- "Most people overestimate what they can do in one year and underestimate what they can do in ten years."
+- [Makers vs Manager's Schedule](http://www.paulgraham.com/makersschedule.html) - "When you're operating on the maker's schedule, meetings are a disaster." (related:[Deep Work](http://knowledge.wharton.upenn.edu/article/deep-work-the-secret-to-achieving-peak-productivity/))
+- [Murphy's Law](https://en.wikipedia.org/wiki/Murphy%27s_law) - "Anything that can go wrong, will." (related:[Hofstadter's Law](https://en.wikipedia.org/wiki/Hofstadter%27s_law), "It always takes longer than you expect, even when you take into account Hofstadter's Law.")
+- [Parkinson's Law](https://en.wikipedia.org/wiki/Parkinson%27s_law) - "Work expands so as to fill the time available for its completion."
+- (3) Gate's Law - "Most people overestimate what they can do in one year and underestimate what they can do in ten years."
 
 ## Blinkist - The 12 Week Year by Brian P. Moran
 

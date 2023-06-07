@@ -4,7 +4,7 @@ Properties -
 
 - Explicit Data Structure
 - Can be used to store key value pairs for a symbol table implementation
-"A Binary Search Tree is sometimes called ordered or sorted binary trees, and it keeps its values in sorted order, so that lookup and other operations can use the principle of binary search" --- [Wikipedia](https://en.wikipedia.org/wiki/Binary_search_tree)
+"A Binary Search Tree is sometimes called ordered or sorted binary trees, and it keeps its values in sorted order, so that lookup and other operations can use the principle of binary search"---[Wikipedia](https://en.wikipedia.org/wiki/Binary_search_tree)
 
 A BST is a binary tree in symmetric order
 
@@ -358,7 +358,7 @@ def remove_node(self, value, parent):
 
 12. **From line 28 to line 30**: We cover the node with both left and rightchildren. We get the node with the smallest value (the code is shown below) and set it to the value of the current node. Finish it by removing the smallest node.
 
-13. **Line 32**: If we find the node we are looking for, it needs to return True. From line 11 to line 31, we handle this case. So just return True and that's it.- To use the clear_node method: set the None value to all three attributes --- (value, left_child, and right_child)
+13. **Line 32**: If we find the node we are looking for, it needs to return True. From line 11 to line 31, we handle this case. So just return True and that's it.- To use the clear_node method: set the None value to all three attributes---(value, left_child, and right_child)
 
 ```python
 def clear_node(self):

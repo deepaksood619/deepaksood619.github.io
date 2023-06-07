@@ -2,7 +2,7 @@
 
 ## Maslow's hierarchy of needs
 
-[Maslow's Hierarchy of Needs](https://en.wikipedia.org/wiki/Maslow%27s_hierarchy_of_needs#Criticism)--- "Maslow used the terms 'physiological', 'safety', 'belongingness' and 'love', 'esteem', 'self-actualization', and 'self-transcendence' to describe the pattern that human motivations generally move through... [though there is] little evidence for the ranking of needs that Maslow described or for the existence of a definite hierarchy at all."
+[Maslow's Hierarchy of Needs](https://en.wikipedia.org/wiki/Maslow%27s_hierarchy_of_needs#Criticism) - "Maslow used the terms 'physiological', 'safety', 'belongingness' and 'love', 'esteem', 'self-actualization', and 'self-transcendence' to describe the pattern that human motivations generally move through... [though there is] little evidence for the ranking of needs that Maslow described or for the existence of a definite hierarchy at all."
 
 Maslow's hierarchy of needsis a theory in [psychology](https://en.wikipedia.org/wiki/Psychology) proposed by [Abraham Maslow](https://en.wikipedia.org/wiki/Abraham_Maslow) in his 1943 paper "A Theory of Human Motivation" in [*Psychological Review*](https://en.wikipedia.org/wiki/Psychological_Review)
 

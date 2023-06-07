@@ -1,6 +1,6 @@
 # NLP Concepts
 
-A **token** is the technical name for a sequence of characters - such as hairy, his, or :) --- that we want to treat as a group. When we count the number of tokens in a text, say, the phrase *to be or not to be*, we are counting occurrences of these sequences
+A **token** is the technical name for a sequence of characters - such as hairy, his, or :) - that we want to treat as a group. When we count the number of tokens in a text, say, the phrase *to be or not to be*, we are counting occurrences of these sequences
 
 A **word type** is the form or spelling of the word independently of its specific occurrences in a text - that is, the word considered as a unique item of vocabulary.
 
@@ -33,7 +33,7 @@ word sense disambiguation we want to work out which sense of a word was intended
 
 ## Pronoun Resolution
 
-A deeper kind of language understanding is to work out "who did what to whom" --- i.e., to detect the subjects and objects of verbs. You learnt to do this in elementary school, but it's harder than you might think. In the sentence the thieves stole the paintings it is easy to tell who performed the stealing action. Consider three possible following sentences in (4c), and try to determine what was sold, caught, and found (one case is ambiguous).
+A deeper kind of language understanding is to work out "who did what to whom" - i.e., to detect the subjects and objects of verbs. You learnt to do this in elementary school, but it's harder than you might think. In the sentence the thieves stole the paintings it is easy to tell who performed the stealing action. Consider three possible following sentences in (4c), and try to determine what was sold, caught, and found (one case is ambiguous).
 
 The thieves stole the paintings. They were subsequently sold.
 
@@ -41,7 +41,7 @@ The thieves stole the paintings. They were subsequently caught.
 
 The thieves stole the paintings. They were subsequently found.
 
-Answering this question involves finding the **antecedent** of the pronoun they, either thieves or paintings. Computational techniques for tackling this problem include **anaphora resolution** --- identifying what a pronoun or noun phrase refers to - and **semantic role labeling** --- identifying how a noun phrase relates to the verb (as agent, patient, instrument, and so on).
+Answering this question involves finding the **antecedent** of the pronoun they, either thieves or paintings. Computational techniques for tackling this problem include **anaphora resolution** - identifying what a pronoun or noun phrase refers to - and **semantic role labeling** - identifying how a noun phrase relates to the verb (as agent, patient, instrument, and so on).
 
 ## Spoken Dialog Systems
 

@@ -41,7 +41,7 @@ In the table, poly(*x*)=*x^O^*^(1)^, i.e., polynomial in*x*.
 
 ## Pseudo-polynomial time
 
-In [computational complexity theory](https://en.wikipedia.org/wiki/Computational_complexity_theory), a numeric algorithm runs inpseudo-polynomial timeif its [running time](https://en.wikipedia.org/wiki/Computation_time) is a [polynomial](https://en.wikipedia.org/wiki/Polynomial) in thenumeric valueof the input (the largest integer present in the input) --- but not necessarily in thelengthof the input (the number of bits required to represent it), which is the case for [polynomial time](https://en.wikipedia.org/wiki/Polynomial_time) algorithms.
+In [computational complexity theory](https://en.wikipedia.org/wiki/Computational_complexity_theory), a numeric algorithm runs inpseudo-polynomial timeif its [running time](https://en.wikipedia.org/wiki/Computation_time) is a [polynomial](https://en.wikipedia.org/wiki/Polynomial) in thenumeric valueof the input (the largest integer present in the input) - but not necessarily in thelengthof the input (the number of bits required to represent it), which is the case for [polynomial time](https://en.wikipedia.org/wiki/Polynomial_time) algorithms.
 
 In general, the numeric value of the input is exponential in the input length, which is why a pseudo-polynomial time algorithm does not necessarily run in polynomial time with respect to the input length.
 

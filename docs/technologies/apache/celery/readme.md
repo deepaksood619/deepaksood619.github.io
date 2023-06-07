@@ -18,55 +18,62 @@ Celery is written in Python, but the protocol can be implemented in any language
 
 Language interoperability can also be achieved by using webhooks in such a way that the client enqueues an URL to be requested by a worker.
 
-- **Brokers**
-  - [RabbitMQ](https://docs.celeryproject.org/en/stable/getting-started/brokers/rabbitmq.html#broker-rabbitmq)
-  - [Redis](https://docs.celeryproject.org/en/stable/getting-started/brokers/redis.html#broker-redis)
-  - [Amazon SQS](https://docs.celeryproject.org/en/stable/getting-started/brokers/sqs.html#broker-sqs)
-  - The recommended [message brokers](https://en.wikipedia.org/wiki/Message_broker) are [RabbitMQ](https://en.wikipedia.org/wiki/RabbitMQ) or [Redis](https://en.wikipedia.org/wiki/Redis).
-- **Concurrency**
-  - prefork (multiprocessing),
-  - [Eventlet](http://eventlet.net/), [gevent](http://gevent.org/)
-  - thread (multithreaded)
-  - solo(single threaded)
-- **Result Stores**
-  - AMQP, Redis
-  - Memcached,
-  - SQLAlchemy, Django ORM
-  - Apache Cassandra, Elasticsearch, Riak
-  - MongoDB, CouchDB, Couchbase, ArangoDB
-  - Amazon DynamoDB, Amazon S3
-  - Microsoft Azure Block Blob, Microsoft Azure Cosmos DB
-  - File system
-- **Serialization**
-  - pickle, json, yaml, msgpack.
-  - zlib, bzip2compression.
-  - Cryptographic message signing.
+#### Brokers
+
+- [RabbitMQ](https://docs.celeryproject.org/en/stable/getting-started/brokers/rabbitmq.html#broker-rabbitmq)
+- [Redis](https://docs.celeryproject.org/en/stable/getting-started/brokers/redis.html#broker-redis)
+- [Amazon SQS](https://docs.celeryproject.org/en/stable/getting-started/brokers/sqs.html#broker-sqs)
+- The recommended [message brokers](https://en.wikipedia.org/wiki/Message_broker) are [RabbitMQ](https://en.wikipedia.org/wiki/RabbitMQ) or [Redis](https://en.wikipedia.org/wiki/Redis).
+
+#### Concurrency
+
+- prefork (multiprocessing),
+- [Eventlet](http://eventlet.net/), [gevent](http://gevent.org/)
+- thread (multithreaded)
+- solo(single threaded)
+
+#### Result Stores
+
+- AMQP, Redis
+- Memcached,
+- SQLAlchemy, Django ORM
+- Apache Cassandra, Elasticsearch, Riak
+- MongoDB, CouchDB, Couchbase, ArangoDB
+- Amazon DynamoDB, Amazon S3
+- Microsoft Azure Block Blob, Microsoft Azure Cosmos DB
+- File system
+
+#### Serialization
+
+- pickle, json, yaml, msgpack.
+- zlib, bzip2compression.
+- Cryptographic message signing.
 
 ## Features
 
-- **Monitoring**
+#### Monitoring
 
 A stream of monitoring events is emitted by workers and is used by built-in and external tools to tell you what your cluster is doing -- in real-time.
 
-- **Work-flows**
+#### Work-flows
 
 Simple and complex work-flows can be composed using a set of powerful primitives we call the "canvas", including grouping, chaining, chunking, and more.
 
-- **Time & Rate Limits**
+#### Time & Rate Limits
 
 You can control how many tasks can be executed per second/minute/hour, or how long a task can be allowed to run, and this can be set as a default, for a specific worker or individually for each task type.
 
-- **Scheduling**
+#### Scheduling
 
 You can specify the time to run a task in seconds or a [datetime](https://docs.python.org/dev/library/datetime.html#datetime.datetime), or you can use periodic tasks for recurring events based on a simple interval, or Crontab expressions supporting minute, hour, day of week, day of month, and month of year.
 
-- **Resource Leak Protection**
+#### Resource Leak Protection
 
 The [--max-tasks-per-child](https://docs.celeryproject.org/en/stable/reference/celery.bin.worker.html#cmdoption-celery-worker-max-tasks-per-child) option is used for user tasks leaking resources, like memory or file descriptors, that are simply out of your control.
 
-- **User Components**
+#### User Components
 
-Each worker component can be customized, and additional components can be defined by the user. The worker is built up using "bootsteps" --- a dependency graph enabling fine grained control of the worker's internals.
+Each worker component can be customized, and additional components can be defined by the user. The worker is built up using "bootsteps" - a dependency graph enabling fine grained control of the worker's internals.
 
 ## Celery beat
 
@@ -116,15 +123,10 @@ In the Django world, you can use celerybeat to configure your crons using celery
 Full journey for a single request is:
 
 1. The user requests a report to the Flask app
-
 2. The Flask app submits the task to the queue. The job is recorded in the database
-
 3. The app also replies to the user with the id of the task
-
 4. A worker picks up the job and runs it to completion
-
 5. The job is marked as completed in the database
-
 6. The user retrieves the report. The report is ready
 
 ## References
@@ -138,3 +140,5 @@ Full journey for a single request is:
 <https://medium.com/squad-engineering/two-years-with-celery-in-production-bug-fix-edition-22238669601d>
 
 <https://docs.celeryproject.org/projects/celery-enhancement-proposals/en/latest/draft/high-level-architecture.html>
+
+[The Many Problems with Celery | Log Blog Kebab](https://steve.dignam.xyz/2023/05/20/many-problems-with-celery/)

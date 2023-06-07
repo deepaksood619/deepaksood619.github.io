@@ -2,7 +2,7 @@
 
 Time Complexity: O(V+E) where V is number of vertices in the graph and E is number of edges in the graph.
 
-DFS "is an algorithm for traversing or searching tree data structure. One starts at the root and explores as far as possible along each branch before backtracking." --- [Wikipedia](https://en.wikipedia.org/wiki/Depth-first_search)
+DFS "is an algorithm for traversing or searching tree data structure. One starts at the root and explores as far as possible along each branch before backtracking."---[Wikipedia](https://en.wikipedia.org/wiki/Depth-first_search)
 
 DFS explores a path all the way to a leaf before backtracking and exploring another path. Let's take a look at an example with this type of traversal.
 

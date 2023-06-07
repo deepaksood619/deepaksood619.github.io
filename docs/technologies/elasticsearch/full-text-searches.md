@@ -36,7 +36,7 @@ Facets correspond to properties of the information elements. They are often deri
 
 The first thing you need in order to build your omni-search, is to map the entities users might be searching for. Remember: it's not what they search it by - just what they'd like to find.
 
-You might not be sure what's considered 'an entity'. For example, on Google Drive, you can search for PDFs, Sheets, or Docs. Are these different entities? While there's a technical discussion I won't get into, as a rule of thumb, if all candidates share the same attributes (e.g. doc name, creator, date...) --- then it can be considered the same entity with a 'type' attribute.
+You might not be sure what's considered 'an entity'. For example, on Google Drive, you can search for PDFs, Sheets, or Docs. Are these different entities? While there's a technical discussion I won't get into, as a rule of thumb, if all candidates share the same attributes (e.g. doc name, creator, date...) - then it can be considered the same entity with a 'type' attribute.
 
 ### Searchable attributes
 

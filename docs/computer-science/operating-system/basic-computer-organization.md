@@ -184,9 +184,9 @@ The design of a von Neumann architecture machine is simpler than a [Harvard arch
 A stored-program digital computer keeps both [program instructions](https://en.wikipedia.org/wiki/Computer_program) and data in [read--write](https://en.wikipedia.org/wiki/Read%E2%80%93write_memory), [random-access memory](https://en.wikipedia.org/wiki/Random-access_memory)(RAM). Stored-program computers were an advancement over the program-controlled computers of the 1940s, such as the [Colossus](https://en.wikipedia.org/wiki/Colossus_computer) and the [ENIAC](https://en.wikipedia.org/wiki/ENIAC). Those were programmed by setting switches and inserting patch cables to route data and control signals between various functional units. The vast majority of modern computers use the same memory for both data and program instructions, but have [caches](https://en.wikipedia.org/wiki/CPU_cache) between the CPU and memory, and, for the caches closest to the CPU, have separate caches for instructions and data, so that most instruction and data fetches use separate buses ([split cache architecture](<https://en.wikipedia.org/wiki/Modified_Harvard_architecture#Split-cache_(or_almost-von-Neumann>) _architecture)).
 Historically there have been 2 types of Computers:
 
-1. **Fixed Program Computers --**Their function is very specific and they couldn't be programmed, e.g. Calculators.
+1. **Fixed Program Computers --** Their function is very specific and they couldn't be programmed, e.g. Calculators.
 
-2. **Stored Program Computers --**These can be programmed to carry out many different tasks, applications are stored on them, hence the name.
+2. **Stored Program Computers --** These can be programmed to carry out many different tasks, applications are stored on them, hence the name.
 
 ## Main Memory Unit (Registers)
 

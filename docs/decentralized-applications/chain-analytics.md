@@ -12,6 +12,7 @@ On-chain metrics turn blockchain-based transaction data into actionable crypto m
 - 24 hours volume
 - BTC Dominance (if BTC dominance decreases, alt coins take lead)
 - On-chain metrics
+- [Innovative Visuals for Blockchain Data | Bubblemaps](https://bubblemaps.io/)
 
 ## Coin Lifespan
 

@@ -87,7 +87,7 @@ Object-oriented databases store data items as objects, seeking to bridge the gap
 
 <https://medium.com/terminusdb/graph-fundamentals-part-1-rdf-60dcf8d0c459>
 
-- [Neo4j](https://tinkerpop.apache.org/docs/current/reference/#neo4j-gremlin)- OLTP graph database (embedded and high availability) (open source, noSQL graph database)
+- [Neo4j](https://tinkerpop.apache.org/docs/current/reference/#neo4j-gremlin)- OLTP graph database (embedded and high availability) (open source, noSQL graph database) - [Build Graph Databases with Neo4j](https://www.freecodecamp.org/news/learn-neo4j-database-course/)
 - [neo4j-gremlin-bolt](https://github.com/SteelBridgeLabs/neo4j-gremlin-bolt)- OLTP graph database (using Bolt Protocol).
 - [OrientDB](https://github.com/orientechnologies/orientdb-gremlin)- OLTP graph database
 - [Apache S2Graph](https://s2graph.apache.org/)- OLTP graph database running on Apache HBase.

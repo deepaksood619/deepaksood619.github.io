@@ -338,7 +338,7 @@ For any system you integrate with via HTTP or HTTPS MockServer can be used as:
 <https://www.mock-server.com>
 
 <https://github.com/mock-server/mockserver>
-If you want to learn more about the default mocks, have a look at the awesome article by Yeray Diaz:[What the mock? --- A cheatsheet for mocking in Python](https://medium.com/@yeraydiazdiaz/what-the-mock-cheatsheet-mocking-in-python-6a71db997832).
+If you want to learn more about the default mocks, have a look at the awesome article by Yeray Diaz:[What the mock? - A cheatsheet for mocking in Python](https://medium.com/@yeraydiazdiaz/what-the-mock-cheatsheet-mocking-in-python-6a71db997832).
 <https://levelup.gitconnected.com/unit-testing-in-python-mocking-patching-and-dependency-injection-301280db2fed>
 
 <https://martinfowler.com/articles/mocksArentStubs.html>

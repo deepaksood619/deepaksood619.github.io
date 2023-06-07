@@ -45,7 +45,7 @@ Teams of 1 are the best teams, and 1 of the most hard to create
   - send links to avoid wasting valuable time holding meetings or getting interrupted by same questions
   - access the best version of the information
 
-To complement the self-assessment of the stress continuum, McGladrey recently piloted a system she calls **"3-3-3"** --- basically an informal **check-in three days, three weeks, and three months** after a significant event. At the three-day mark, the idea is to gauge the mental state of participants at the time of the event and identify some red flags for bad outcomes. These check-ins can also identify people who need more support."
+To complement the self-assessment of the stress continuum, McGladrey recently piloted a system she calls **"3-3-3"** - basically an informal **check-in three days, three weeks, and three months** after a significant event. At the three-day mark, the idea is to gauge the mental state of participants at the time of the event and identify some red flags for bad outcomes. These check-ins can also identify people who need more support."
 
 [Debbie Lovich: 3 tips for leaders to get the future of work right | TED](https://youtu.be/kTS1jJgXsfw)
 

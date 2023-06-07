@@ -70,7 +70,7 @@ If you're building a web application or web service, here are some more specific
 - Cache hit and miss counts.
 - P0, P50, and P100 for the sizes of objects stored in your cache.
 - **The basic host metrics:** disk utilization, disk I/O rate, memory utilization, and cpu utilization. One very useful metric lots of people don't think of is [load average](https://www.howtogeek.com/194642/understanding-the-load-average-on-linux-and-other-unix-like-systems/), which tells you how well your hardware (including disk and network) is keeping up with the demands of your software.
-- **Service input/output operations.** If you're on AWS, you may be using services like ELB or DynamoDB which throttle you if you exceed a certain I/O threshold. If this happens, your app can slow to a crawl and even become unavailable (this happened to my team a few years ago, and it was a pain to diagnose --- we added lots of alarms after this event).
+- **Service input/output operations.** If you're on AWS, you may be using services like ELB or DynamoDB which throttle you if you exceed a certain I/O threshold. If this happens, your app can slow to a crawl and even become unavailable (this happened to my team a few years ago, and it was a pain to diagnose - we added lots of alarms after this event).
 - **Unhealthy host count.** This is a common metric reported by web load balancers. It tells you how many hosts your load balancer currently considers healthy.
 - **Number of connections open** to each web server, database host, queue server, and any other service you have.
 

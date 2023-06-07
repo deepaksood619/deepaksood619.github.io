@@ -20,7 +20,7 @@ Unstructured data is a data which is not organized in a predefined manner or doe
 | **Version management** | Versioning over tuples, row, tables | Versioning over tuples or graph is possible | Versioned as a whole |
 | **Flexibility** | It is schema dependent and less flexible | It is more flexible than structured data but less flexible than unstructured data | It is more flexible and there is absence of schema |
 | **Scalability** | It is very difficult to scale DB schema | It's scaling is simpler than structured data | It is more scalable. |
-| **Robustness** | Very robust | New technology, not very spread | --- |
+| **Robustness** | Very robust | New technology, not very spread | - |
 | **Query performance** | Structured query allow complex joining | Queries over anonymous nodes are possible | Only textual queries are possible |
 
 <https://www.geeksforgeeks.org/difference-between-structured-semi-structured-and-unstructured-data>

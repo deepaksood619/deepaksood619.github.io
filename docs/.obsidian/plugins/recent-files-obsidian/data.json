@@ -1,6 +1,58 @@
 {
   "recentFiles": [
     {
+      "basename": "tips",
+      "path": "psychology/learning/tips.md"
+    },
+    {
+      "basename": "infra",
+      "path": "office/blocktoons/infra.md"
+    },
+    {
+      "basename": "types-of-databases",
+      "path": "databases/concepts/types-of-databases.md"
+    },
+    {
+      "basename": "couple-activities",
+      "path": "knowledge/games/couple-activities.md"
+    },
+    {
+      "basename": "microsoft-excel-google-sheets",
+      "path": "computer-science/courses/microsoft-excel-google-sheets.md"
+    },
+    {
+      "basename": "crypto-investing",
+      "path": "decentralized-applications/crypto-investing.md"
+    },
+    {
+      "basename": "chain-analytics",
+      "path": "decentralized-applications/chain-analytics.md"
+    },
+    {
+      "basename": "youtube-podcasts-magazine-apps",
+      "path": "devops/ides/youtube-podcasts-magazine-apps.md"
+    },
+    {
+      "basename": "newsletter-learning-resources",
+      "path": "computer-science/general/newsletter-learning-resources.md"
+    },
+    {
+      "basename": "chatgpt-llm",
+      "path": "ai/libraries/chatgpt-llm.md"
+    },
+    {
+      "basename": "references-learning",
+      "path": "decentralized-applications/references-learning.md"
+    },
+    {
+      "basename": "others",
+      "path": "python/django/others.md"
+    },
+    {
+      "basename": "readme",
+      "path": "technologies/apache/celery/readme.md"
+    },
+    {
       "basename": "ethereum-intro",
       "path": "decentralized-applications/ethereum/ethereum-intro.md"
     },
@@ -31,10 +83,6 @@
     {
       "basename": "coding",
       "path": "knowledge/quotes-proverbs/coding.md"
-    },
-    {
-      "basename": "youtube-podcasts-magazine-apps",
-      "path": "devops/ides/youtube-podcasts-magazine-apps.md"
     },
     {
       "basename": "chatgpt-prompt-eng",
@@ -91,10 +139,6 @@
     {
       "basename": "diseases-tests",
       "path": "knowledge/biology/diseases-tests.md"
-    },
-    {
-      "basename": "chatgpt-llm",
-      "path": "ai/libraries/chatgpt-llm.md"
     },
     {
       "basename": "others",
@@ -155,50 +199,6 @@
     {
       "basename": "asha-maa",
       "path": "office/keep/asha-maa.md"
-    },
-    {
-      "basename": "about",
-      "path": "office/blocktoons/about.md"
-    },
-    {
-      "basename": "startups-ideas-saas",
-      "path": "about-me/ideas/startups-ideas-saas.md"
-    },
-    {
-      "basename": "others",
-      "path": "ai/computer-vision-cv/others.md"
-    },
-    {
-      "basename": "others",
-      "path": "languages/php/others.md"
-    },
-    {
-      "basename": "cv-libraries-tools",
-      "path": "ai/computer-vision-cv/cv-libraries-tools.md"
-    },
-    {
-      "basename": "image-data-labeling-tools",
-      "path": "ai/computer-vision-cv/image-data-labeling-tools.md"
-    },
-    {
-      "basename": "image-formats",
-      "path": "ai/computer-vision-cv/image-formats.md"
-    },
-    {
-      "basename": "life-relationship-people",
-      "path": "psychology/life-relationship-people.md"
-    },
-    {
-      "basename": "partner-wife-qualities",
-      "path": "office/personality/partner-wife-qualities.md"
-    },
-    {
-      "basename": "mistakes",
-      "path": "knowledge/language/mistakes.md"
-    },
-    {
-      "basename": "poems",
-      "path": "knowledge/quotes-proverbs/poems.md"
     }
   ],
   "omittedPaths": [],

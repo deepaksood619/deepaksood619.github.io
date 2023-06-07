@@ -39,7 +39,7 @@ CSS is easy to learn and understand but it provides powerful control over the pr
 [**Learn Flexbox in 15 Minutes**](https://www.youtube.com/watch?v=fYq5PXgSsbE)
 
 - **CSS -** Color, Grid, Helpers, Media, Pulse, Sass, Shadow, Tables, Transitions, Typography
-- **BEM -** Block Element Modifier is a methodology that helps you to create reusable components and code sharing in front-end development
+- **BEM -** Block Element Modifier is a methodology that helps you to create reusable components and code sharing in front-end development
 - **!Important -** It means, essentially, what it says; that 'this is important, ignore subsequent rules, and any usual specificity issues, apply this rule!'
 - **CSS Reset**, set of CSS rules that resets the styling of all HTML elements to a consistent baseline.
 - Negative Space (padding or margin)

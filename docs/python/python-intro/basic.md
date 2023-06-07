@@ -1,6 +1,6 @@
 # Basic
 
-Python is an experiment in how much freedom programmers need. Too much freedom and nobody can read another's code; too little and expressiveness is endangered. --- Guido van Rossum, Creator of the Python programming language
+Python is an experiment in how much freedom programmers need. Too much freedom and nobody can read another's code; too little and expressiveness is endangered. - Guido van Rossum, Creator of the Python programming language
 
 ## Identifier
 

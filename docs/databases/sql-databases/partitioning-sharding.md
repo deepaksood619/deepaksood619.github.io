@@ -93,7 +93,7 @@ The concept of entity groups is very simple. Store related entities in the same 
 
 ### Key / Hash based sharding
 
-Key based sharding, also known as hash based sharding, involves using a value taken from newly written data - such as a customer's ID number, a client application's IP address, a ZIP code, etc. --- and plugging it into ahash functionto determine which shard the data should go to. A hash function is a function that takes as input a piece of data (for example, a customer email) and outputs a discrete value, known as ahash value. In the case of sharding, the hash value is a shard ID used to determine which shard the incoming data will be stored on. Altogether, the process looks like this:
+Key based sharding, also known as hash based sharding, involves using a value taken from newly written data - such as a customer's ID number, a client application's IP address, a ZIP code, etc. - and plugging it into ahash functionto determine which shard the data should go to. A hash function is a function that takes as input a piece of data (for example, a customer email) and outputs a discrete value, known as ahash value. In the case of sharding, the hash value is a shard ID used to determine which shard the incoming data will be stored on. Altogether, the process looks like this:
 
 ![image](../../media/Partitioning-Sharding-image5.jpg)
 

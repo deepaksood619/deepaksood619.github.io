@@ -111,7 +111,7 @@ Money 2 - 80% change of losing $1000 (people choose this)
 
 ## Availability Heuristic
 
-[Availability Bias](https://en.wikipedia.org/wiki/Availability_heuristic)--- "People tend to heavily weigh their judgments toward more recent information, making new opinions biased toward that latest news."
+[Availability Bias](https://en.wikipedia.org/wiki/Availability_heuristic) - "People tend to heavily weigh their judgments toward more recent information, making new opinions biased toward that latest news."
 
 The Availability Heuristic refers to a common mistake that our brains make by assuming that the examples which come to mind easily are also the most important or prevalent things.
 
@@ -171,7 +171,7 @@ Confirmation bias refers to our tendency to search for and favor information tha
 
 Finding evidence to confirm our existing belief
 
-[Confirmation Bias](https://en.wikipedia.org/wiki/Confirmation_bias) --- "The tendency to search for, interpret, favor, and recall information in a way that confirms one's preexisting beliefs or hypotheses, while giving disproportionately less consideration to alternative possibilities." (related:[cognitive dissonance](https://en.wikipedia.org/wiki/Cognitive_dissonance))
+[Confirmation Bias](https://en.wikipedia.org/wiki/Confirmation_bias) - "The tendency to search for, interpret, favor, and recall information in a way that confirms one's preexisting beliefs or hypotheses, while giving disproportionately less consideration to alternative possibilities." (related:[cognitive dissonance](https://en.wikipedia.org/wiki/Cognitive_dissonance))
 
 Echo-Chamber - an environment where a person only encounters information or opinions that reflect and reinforce their own.
 

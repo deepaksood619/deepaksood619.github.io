@@ -69,11 +69,11 @@ By Concentration You Can Stop the Worry Habit. If you are in the habit of worryi
 
 ## Focused attention exercises cultivate your brain's ability to focus on one single object, like one's breath
 
-To do mindful breathing, sit in a comfortable, upright position and focus all your attention on the sensation of breathing --- "for example, the coolness of air moving in and out of your nostrils or your abdomen moving in and out," says Jha. "Focus on something that is tied to your sensory experience. When your mind wanders away from that sensation to internal mental content or an external distraction, gently return it to the breath-related object." Don't be surprised or disappointed if you find yourself retrieving your mind hundreds of times during a 15-minute session. Think of your brain like a puppy you're training to walk on a leash. Gently redirect it every time it darts away.
+To do mindful breathing, sit in a comfortable, upright position and focus all your attention on the sensation of breathing - "for example, the coolness of air moving in and out of your nostrils or your abdomen moving in and out," says Jha. "Focus on something that is tied to your sensory experience. When your mind wanders away from that sensation to internal mental content or an external distraction, gently return it to the breath-related object." Don't be surprised or disappointed if you find yourself retrieving your mind hundreds of times during a 15-minute session. Think of your brain like a puppy you're training to walk on a leash. Gently redirect it every time it darts away.
 
 ## Another focused-attention exercise is mindful walking
 
-Notice the sensations of walking --- "your feet on the ground, the wind caressing your skin, sounds in the air," says Jha. Walking can take place either indoors or outdoors. You might find this activity easier than mindful breathing; go with whatever exercise works best for you.
+Notice the sensations of walking - "your feet on the ground, the wind caressing your skin, sounds in the air," says Jha. Walking can take place either indoors or outdoors. You might find this activity easier than mindful breathing; go with whatever exercise works best for you.
 
 ## One final focused-attention exercise is the body scan
 

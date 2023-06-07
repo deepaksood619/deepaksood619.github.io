@@ -108,6 +108,8 @@ Django-allauth
 
 django-rest-framework-jwt
 
+[Django REST Framework Authentication | TestDriven.io](https://testdriven.io/blog/django-rest-auth/)
+
 ## Deleting an app in Django
 
 - Remove models from the apps

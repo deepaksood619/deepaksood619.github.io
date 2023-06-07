@@ -21,6 +21,7 @@
     - Competitive programming
     - Leadership speaking
     - Debate competition
+    - Spelling bee
 3. Fun
     - Jigsaw puzzle
     - Jenga

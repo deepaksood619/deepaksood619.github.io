@@ -67,7 +67,7 @@ Don't raise your voice, improve your argument --desmond tutu
 
 Don't argue; try it. If it works, let it spread -- Deng Xiaoping
 
-Action may not always bring happiness, but there is no happiness without action. --- Benjamin Disraeli, former British Prime Minister
+Action may not always bring happiness, but there is no happiness without action. - Benjamin Disraeli, former British Prime Minister
 
 We always overes- timate the change that will occur in the next two years and underestimate the change that will occur in the next ten. Don't let yourself be lulled into inaction. - **Bill Gates**
 
@@ -336,7 +336,7 @@ Whatever problem you're struggling with is probably addressed in some book somew
 
 "The sooner you make a choice, the sooner you can make an adjustment."
 
-"There are three types of people in the world: Those who are immovable, people who don't get it, or don't want to do anything about it; there are people who are movable, people who see the need for change and are prepared to listen to it; and there are people who move, people who make things happen." --- Benjamin Franklin
+"There are three types of people in the world: Those who are immovable, people who don't get it, or don't want to do anything about it; there are people who are movable, people who see the need for change and are prepared to listen to it; and there are people who move, people who make things happen." - Benjamin Franklin
 
 If I had asked the public what they wanted, they would have said a faster horse. -- Henry Ford
 
@@ -388,7 +388,7 @@ Don't look for things to add. Look for things to eliminate.
 
 From good to great
 
-James Collins, the best-selling author, and business guru makes a telling remark in the opening paragraph of his book 'Good to great' --- "Good is the enemy of great. We don't have great schools, principally because we have good schools. We don't have great governments, principally because we have good governments. Few people attain great lives, in large part because it is just so easy to settle for a good life. The vast majority of companies never become great, precisely because the vast majority become quite good --- and that is their main problem."
+James Collins, the best-selling author, and business guru makes a telling remark in the opening paragraph of his book 'Good to great'---"Good is the enemy of great. We don't have great schools, principally because we have good schools. We don't have great governments, principally because we have good governments. Few people attain great lives, in large part because it is just so easy to settle for a good life. The vast majority of companies never become great, precisely because the vast majority become quite good - and that is their main problem."
 
 Profit is not an event. Profit is a habit. - Mike Michalowicz
 

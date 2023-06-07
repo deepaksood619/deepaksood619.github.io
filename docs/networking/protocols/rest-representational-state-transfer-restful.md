@@ -72,17 +72,17 @@ The PATCH method is used to apply partial modifications to a resource.
 
 ## Request Headers
 
-- **Referer header** - tells the URL from where the request has originated
-- **User-Agent header** - additional information about the browser being used to generate the request
-- **Host header** - uniquely identifies a host name; it is necessary when multiple web pages are hosted on the same server
-- **Cookie header** - submits additional parameters to the client
+- **Referer header** -tells the URL from where the request has originated
+- **User-Agent header** -additional information about the browser being used to generate the request
+- **Host header** -uniquely identifies a host name; it is necessary when multiple web pages are hosted on the same server
+- **Cookie header** -submits additional parameters to the client
 
 ## Response Headers
 
-- **Server header** - information about which web server software is being used
-- **Set-Cookie header** - issues the cookie to the browser
-- **Message body** - it is common for an HTTP response to hold a message body
-- **Content-Length header** - tells the size of the message body in bytes
+- **Server header** -information about which web server software is being used
+- **Set-Cookie header** -issues the cookie to the browser
+- **Message body** -it is common for an HTTP response to hold a message body
+- **Content-Length header** -tells the size of the message body in bytes
 
 EX - If we wanted to view all customers, the request would look like this:
 

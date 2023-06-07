@@ -27,7 +27,7 @@
 - [14.5.plistlib - Generate and parse Mac OS X.plistfiles](https://docs.python.org/3.4/library/plistlib.html)
   - [14.5.1. Examples](https://docs.python.org/3.4/library/plistlib.html#examples)
 
-14.2.[configparser](https://docs.python.org/3.4/library/configparser.html#module-configparser)--- Configuration file parser
+14.2.[configparser](https://docs.python.org/3.4/library/configparser.html#module-configparser) - Configuration file parser
 
 This module provides the[ConfigParser](https://docs.python.org/3.4/library/configparser.html#configparser.ConfigParser) class which implements a basic configuration language which provides a structure similar to what's found in Microsoft Windows INI files. You can use this to write Python programs which can be customized by end users easily.
 

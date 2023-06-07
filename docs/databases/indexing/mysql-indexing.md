@@ -302,7 +302,7 @@ In general all of the below could leave an index unusable:
 - !=
 - less than equal to operator
 - NOT LIKE, NOT IN...
-- NOT EXISTS ( SELECT * ... ) --- essentially a LEFT JOIN, often efficient
+- NOT EXISTS ( SELECT * ... ) - essentially a LEFT JOIN, often efficient
 - NOT (expression)
 
 ## Don't use functions in your queries
@@ -318,7 +318,7 @@ Examples:
 - WHERE func(number) = n;*** BAD
 - WHERE number = 5+4;*** GOOD
 - WHERE number = func(n);*** GOOD
-- WHERE start_date > NOW() --- INTERVAL 1 YEAR*** GOOD
+- WHERE start_date > NOW() - INTERVAL 1 YEAR*** GOOD
 - WHERE start_date BETWEEN "2015--01--01" AND "2015--01--31"*** GOOD
 
 ## Redundant indexes
