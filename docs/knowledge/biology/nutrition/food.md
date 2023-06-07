@@ -6,8 +6,6 @@ Only eat till you are 80% full
 
 Zero Oil Cooking
 
-### Caffeine
-
 [The truth about caffeine: how coffee really affects our bodies | Coffee | The Guardian](https://www.theguardian.com/food/2023/feb/15/the-truth-about-caffeine-how-coffee-really-affects-our-bodies)
 
 ## Tips

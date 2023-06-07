@@ -73,13 +73,17 @@ You can also specify DISTRIBUTE BY as an alias for PARTITION BY. You can use CLU
 |[rank()](https://docs.databricks.com/sql/language-manual/functions/rank.html)|Returns the rank of a value compared to all values in the partition.|
 |[row_number()](https://docs.databricks.com/sql/language-manual/functions/row_number.html)|Assigns a unique, sequential number to each row, starting with one, according to the ordering of rows within the window partition.|
 
-### Rank vs Dense Rank
+### rank() vs dense_rank() vs row_number()
+
+You will only see the difference if you have ties within a partition for a particular ordering value.
 
 RANK numbers are skipped so there may be a gap in rankings, and may not be unique. DENSE_RANK numbers are not skipped so there will not be a gap in rankings, and may not be unique.
 
 Unlike `DENSE_RANK`, `RANK` skips positions after equal rankings. The number of positions skipped depends on how many rows had an identical ranking. For example, Mary and Lisa sold the same number of products and are both ranked as #2. With `RANK`, the next position is #4; with `DENSE_RANK`, the next position is #3.
 
 Both `RANK` and `RANK_DENSE` work on partitions of data
+
+`RANK` and `DENSE_RANK` are deterministic in this case, all rows with the same value for both the ordering and partitioning columns will end up with an equal result, whereas `ROW_NUMBER` will arbitrarily (non deterministically) assign an incrementing result to the tied rows.
 
 [What’s the Difference Between RANK and DENSE\_RANK in SQL? | LearnSQL.com](https://learnsql.com/cookbook/whats-the-difference-between-rank-and-dense_rank-in-sql/)
 
@@ -116,6 +120,25 @@ SELECT name,
  Chloe Engineering  23000          2
   Paul Engineering  29000          3
 -- Rank - 1,2,2,3
+
+-- Example
+WITH T(StyleID, ID)
+     AS (SELECT 1,1 UNION ALL
+         SELECT 1,1 UNION ALL
+         SELECT 1,1 UNION ALL
+         SELECT 1,2)
+SELECT *,
+       RANK() OVER(PARTITION BY StyleID ORDER BY ID)       AS [RANK],
+       ROW_NUMBER() OVER(PARTITION BY StyleID ORDER BY ID) AS [ROW_NUMBER],
+       DENSE_RANK() OVER(PARTITION BY StyleID ORDER BY ID) AS [DENSE_RANK]
+FROM   T
+
+StyleID     ID       RANK      ROW_NUMBER      DENSE_RANK
+----------- -------- --------- --------------- ----------
+1           1        1         1               1
+1           1        1         2               1
+1           1        1         3               1
+1           2        4         4               2
 ```
 
 In the context of the query, the window frame (ROWS BETWEEN UNBOUNDED PRECEDING AND CURRENT ROW) is used by the DENSE_RANK() function to calculate the dense rank of each row within its respective department. The dense rank is determined by the order of the "salary" values within the partition.

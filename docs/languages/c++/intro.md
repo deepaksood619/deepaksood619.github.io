@@ -22,7 +22,7 @@ The type of the right-hand operand of >> determines what input is accepted, and 
 
 When we don't have an object to point to or if we need to represent the notion of "no object available" (e.g., for an end of a list), we give the pointer the value nullptr (''the null pointer''). There is only one nullptr shared by all pointer types
 
-## C++ Member (dot [.] and arrow [->]) operator
+## C++ Member (dot `[.]` and arrow `[->]`) operator
 
 The . (dot) operator and the -> (arrow) operator are used to reference individual members of classes, structures, and unions.
 

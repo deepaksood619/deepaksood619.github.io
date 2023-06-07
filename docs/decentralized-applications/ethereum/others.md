@@ -21,3 +21,12 @@ The Ethereum Name Service (ENS) is a distributed, open, and extensible naming sy
 ENS’s job is to map human-readable names like ‘alice.eth’ to machine-readable identifiers such as Ethereum addresses, other cryptocurrency addresses, content hashes, and metadata. ENS also supports ‘reverse resolution’, making it possible to associate metadata such as canonical names or interface descriptions with Ethereum addresses.
 
 [Introduction - ENS Documentation](https://docs.ens.domains/)
+
+### Types of DIDs (Decentralized Identities)
+
+- **Non-custodial crypto wallets**: You have full control over your private keys, which are used to verify transactions and prove ownership of a blockchain address.
+- **Unstoppable Domains**: It lets you buy and mint Web3 domain names that are yours to keep forever.
+- **Soulbound tokens (SBTs)**: The SBTs are basically non-transferrable NFTs that represent your digital persona in Web3.
+- **Ethereum Name Service (ENS)**: It allows you to create “.eth” domains that replace your public wallet address. With ENS, decentralized identifiers are recorded on public and immutable ledgers like Ethereum in the form of a smart contract address.
+
+[Guest Post by DeFiChain: Your identity in the Web3 era: A noob’s guide to decentralized identity | CoinMarketCap](https://coinmarketcap.com/community/articles/644bb6304bebb711c9627197/)

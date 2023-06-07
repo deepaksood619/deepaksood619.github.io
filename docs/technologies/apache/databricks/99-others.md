@@ -2,9 +2,8 @@
 
 ## Download file from DBFS in Databricks
 
-```
-Insert file path from screenshot (removing /dbfs/FileStore/) before ? in URL https://<databricks-instance>/files/?o=6909828974000273
- https://<databricks-instance>/files/folders/my-file.txt?o=6909828974000273
+```bash
+https://<databricks-instance>/files/folders/my-file.txt?o=6909828974111111
 For ex. - https://abc.databricks.com/files/cdbi174/abc.csv?o=xxx
 ```
 
@@ -16,7 +15,7 @@ The time it takes to complete this process can depend on several factors, such a
 
 1. Increase the number of spare disks: Adding more spare disks to the system can help to speed up the process, as the system can use these spare disks to rebuild data faster.
 2. Check for disk errors: Make sure that all the disks are functioning properly and there are no errors on them.
-3. Check for firmware updates: Make sure that the firmware of the storage system and the disks is up to date[.](https://condolobby.com/condos-in-north-york/ "https://condolobby.com/condos-in-north-york/")
+3. Check for firmware updates: Make sure that the firmware of the storage system and the disks is up to date.
 4. Check for performance bottlenecks: Check for any performance bottlenecks on the storage system, such as high CPU or memory usage, and address them if necessary.
 5. Check for any other software issues: Ensure that the software is running smoothly and not having any issues.
 

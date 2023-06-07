@@ -11,3 +11,5 @@ Ouroboros is the first peer-reviewed, verifiably secure blockchain protocol, and
 The protocol is the culmination of tireless effort, building on foundational research, and is propelled by a vision for more secure and transparent global payment systems, and a means to redistribute, more fairly, power and control.
 
 [Cardano is a decentralized public blockchain and cryptocurrency project and is fully open source.](https://cardano.org/)
+
+[What is Cardano? ADA Explained with Animations - YouTube](https://www.youtube.com/watch?v=UMUztLQNqSI)

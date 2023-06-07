@@ -84,6 +84,8 @@ No sugar at all
 
 Don't eat anything that is packed, processed, canned or on someone else's plate!
 
+[Doctor Explains the Latest Vegan vs Keto Head to Head Study - YouTube](https://www.youtube.com/watch?v=SsSHzTsG4wY)
+
 ## Others
 
 1. Roti

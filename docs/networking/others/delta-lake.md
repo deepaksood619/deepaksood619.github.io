@@ -43,6 +43,19 @@ Databricks leverages Delta Lake functionality to support two distinct options fo
 - The `replaceWhere` option atomically replaces all records that match a given predicate.
 - You can replace directories of data based on how tables are partitioned using **dynamic partition overwrites**.
 
+```sql
+-- overwrite only writes those partitions that have been updated,
+table_df_parent.write.format("delta")
+.mode("overwrite")
+.partitionBy("snapshotDate")
+.option("replaceWhere", f"snapshotDate='{run_date}'")
+.saveAsTable(f"{uc_target_table_name_monthly}")
+```
+
+### Dynamic partition overwrites
+
+When in dynamic partition overwrite mode, operations overwrite all existing data in each logical partition for which the write commits new data. Any existing logical partitions for which the write does not contain data remain unchanged. This mode is only applicable when data is being written in overwrite mode: either `INSERT OVERWRITE` in SQL, or a DataFrame write with `df.write.mode("overwrite")`.
+
 [Selectively overwrite data with Delta Lake | Databricks on AWS](https://docs.databricks.com/delta/selective-overwrite.html)
 
 ## Vaccum

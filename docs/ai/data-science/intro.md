@@ -208,3 +208,7 @@ These are the folks who maintain the Hadoop cluster / big data infrastructure. A
 <https://www.analyticsvidhya.com/blog/2021/04/top-30-mcqs-to-ace-your-data-science-questions-interviews>
 
 [Learn Python for Data Science](https://www.youtube.com/playlist?list=PL2-dafEMk2A6QKz1mrk1uIGfHkC1zZ6UU)
+
+## Learning / Resources / Newsletter
+
+- All hands on data

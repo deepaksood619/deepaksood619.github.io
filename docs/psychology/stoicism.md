@@ -22,3 +22,7 @@ Reframing is not about finding the real problem. Its about finding a better prob
 <https://jamesclear.com/inversion>
 
 <https://fs.blog/inversion>
+
+## Others
+
+Sufism - die before you die (disconnect from materialistic possessions)

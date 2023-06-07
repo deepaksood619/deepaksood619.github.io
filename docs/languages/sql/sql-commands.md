@@ -290,6 +290,7 @@ Each SELECT statement within the UNION ALL must have the same number of fields i
 
 - UNION removes duplicate rows.
 - UNION ALL does not remove duplicate rows.
+- Always use UNION ALL unless you need to eliminate duplicate records. By using UNION ALL, you'll avoid the expensive distinct operation the database applies when using a UNION clause.
 
 ```sql
 SELECT column_name(s) FROM table_name1

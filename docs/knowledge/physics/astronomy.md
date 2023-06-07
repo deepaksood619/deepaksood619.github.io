@@ -38,14 +38,20 @@ Some asterisms may also be part of a constellation referring to the traditional 
 
 The names of the three stars come from Arabic;Alnilam(النظام) means "[string of pearls](https://en.wikipedia.org/wiki/Pearl#Pearls_in_jewelry)" or is related to the wordnilam("[sapphire](https://en.wikipedia.org/wiki/Sapphire)") with the spellingsAlnihanandAlnitam, Mintaka means belt.
 
-- Alnitak
+### Alnitak
 
 Alnitak (ζ Orionis) is a triple star system at the eastern end of Orion's belt and is 1,260 light-years from the [Earth](https://en.wikipedia.org/wiki/Earth). Alnitak B is a 4th-magnitude B-type star which orbits Alnitak A every 1,500 years. The primary (Alnitak A) is itself a close binary, comprising Alnitak Aa (a blue supergiant of spectral type O9.7 Ibe and an apparent magnitude of 2.0) and Alnitak Ab (a blue dwarf of spectral type O9V and an apparent magnitude of about 4). Alnitak Aa is estimated as being up to 28 times as massive as the Sun, and to have a diameter 20 times greater. It is the brightest star of class O in the night sky.
 
-- Alnilam
+### Alnilam
 
 Alnilam (ε Orionis) is a [supergiant](https://en.wikipedia.org/wiki/Supergiant), approximately 1,340 light-years away from Earth and magnitude 1.70. It is the 29th-brightest star in the sky and the fourth-brightest in Orion. It is 375,000 times more luminous than the Sun.Its spectrum serves as one of the stable anchor points by which other stars are classified.
 
-- Mintaka
+### Mintaka
 
 Mintaka (δ Orionis) is 1,200 light-years away and shines with magnitude 2.21. Mintaka is 90,000 times more luminous than the Sun. Mintaka is a double star. The two stars orbit around each other every 5.73 days.
+
+[TIMELAPSE OF THE FUTURE: A Journey to the End of Time (4K) - YouTube](https://www.youtube.com/watch?v=uD4izuDMUQA)
+
+## Space / Aerospace Engineering
+
+[Starship vs N1... Is Starship doomed to repeat history? - YouTube](https://www.youtube.com/watch?v=AgqZMK22LEk)

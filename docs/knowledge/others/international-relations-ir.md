@@ -48,3 +48,5 @@ Trust is most important
 [Why Russia's Biggest Threat is Actually China - YouTube](https://www.youtube.com/watch?v=Iibs7buNwxQ)
 
 Book - Red Roulette by Desmond Shum
+
+[Why we fight - YouTube](https://www.youtube.com/watch?v=1zBZ-aGqldA&ab_channel=CharlesHoskinson)

@@ -139,10 +139,6 @@ Dollar-cost averaging (DCA) is an investment strategy in which an investor divid
 - The goal of dollar-cost averaging is to reduce the overall impact of volatility on the price of the target asset; as the price will likely vary each time one of the periodic investments is made, the investment is not as highly subject to volatility.
 - Dollar-cost averaging aims to avoid making the mistake of making one lump-sum investment that is poorly timed with regard to asset pricing.
 
-## Invoice Discounting
-
-Is a method of financing used by small businesses to fulfil their working capital requirements
-
 ## Fixed vs Floating Interest Rate
 
 - A floating exchange rate is determined by the private market through supply and demand.

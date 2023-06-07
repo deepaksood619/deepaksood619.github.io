@@ -194,7 +194,7 @@ When you identify a trading opportunity, always look how the trade is positioned
 - Access to news
 - MS Excel
 
-<https://www.youtube.com/watch?v=w3Y0-Keho9Y>
+[Top 11 Financial Planning Thumb Rules | Learn With ETMONEY - YouTube](https://www.youtube.com/watch?v=w3Y0-Keho9Y)
 
 [10 RULES of INVESTING for Smarter & Faster Financial Decisions | Learn Investment Basics w/ Examples - YouTube](https://www.youtube.com/watch?v=rfScEFtcx3s)
 

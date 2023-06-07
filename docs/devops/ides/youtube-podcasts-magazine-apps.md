@@ -95,6 +95,8 @@
 - [Free High-Quality Documentaries - YouTube](https://www.youtube.com/@FreeHighQualityDocumentaries)
 - Theories of Everything with Curt Jaimungal
 - Visual politik EN
+- Minute food
+- [Zero To Finals - YouTube](https://www.youtube.com/@ZeroToFinals)
 
 ### Future
 
@@ -346,6 +348,16 @@ Indian History - <https://www.anirudhkanisetti.com/podcasts>
 Youtube Original's Mind Field
 
 ## Resources
+
+### Others
+
+- Nebula / Curiosity Stream
+- Natgeo
+- Discovery
+
+### Other Tools
+
+- [12ft Ladder](https://12ft.io/)
 
 ### Torrents
 

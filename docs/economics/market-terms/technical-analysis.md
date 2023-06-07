@@ -28,19 +28,18 @@ The candlesticks are used to identify trading patterns. Patterns in turn help th
 
 Hence, candlesticks can be broken down into single candlestick pattern and multiple candlestick patterns.
 
-## Under the single candlestick pattern we will be learning the following
+## Single Candlestick Patterns
 
-## Doji - Indecisive
+### Doji - Indecisive
 
-## Hammer candle - Bullish
+### Hammer candle - Bullish
 
-## Shooting star - Bearish
+### Shooting star - Bearish
 
-1. Marubozu (bald)
+### 1. Marubozu (bald)
 
-   - Bullish Marubozu
-
-   - Bearish Marubozu
+- Bullish Marubozu
+- Bearish Marubozu
 
 1. Remember the rules based on which candlesticks work
 
@@ -68,13 +67,13 @@ Hence, candlesticks can be broken down into single candlestick pattern and multi
 
     2. Long candle indicates extreme activity, however placing stoploss becomes an issue.
 
-2. Doji
+### 2. Doji
 
 In Japanese, Doji means blunder or mistake
 
 ![image](../../media/Market-Terms_Technical-Analysis-image1.jpg)
 
-3. Spinning Tops
+### 3. Spinning Tops
 
 1. A spinning top has a small real body. The upper and lower shadows are almost equal in length
 
@@ -90,37 +89,37 @@ In Japanese, Doji means blunder or mistake
 
 7. A trader's stance based on dojis is similar to stance taken when a spinning top occurs.
 
-4. Paper umbrella
+### 4. Paper umbrella
 
-   - Hammer
+- Hammer
 
-   - Hanging man
+- Hanging man
 
-5. Shooting star
+### 5. Shooting star
 
-    1. A paper umbrella has a long lower shadow and a small real body. The lower shadow and the real body should maintain the 'shadow to real body' ratio. In case of the paper umbrella the lower shadow should be at least twice the length of the real body
+1. A paper umbrella has a long lower shadow and a small real body. The lower shadow and the real body should maintain the 'shadow to real body' ratio. In case of the paper umbrella the lower shadow should be at least twice the length of the real body
 
-    2. Since the open and close prices are close to each other, the color of the paper umbrella should not matter
+2. Since the open and close prices are close to each other, the color of the paper umbrella should not matter
 
-    3. If a paper umbrella appears at the bottom of a down trend, it is called the 'hammer'
+3. If a paper umbrella appears at the bottom of a down trend, it is called the 'hammer'
 
-    4. If the paper umbrella appears at the top end of an uptrend, it is called the hanging man
+4. If the paper umbrella appears at the top end of an uptrend, it is called the hanging man
 
-    5. The hammer is a bullish pattern and one should look at buying opportunities when it appears
+5. The hammer is a bullish pattern and one should look at buying opportunities when it appears
 
-    6. The low of the hammer acts as the stop loss price trade
+6. The low of the hammer acts as the stop loss price trade
 
-    7. The hanging man is a bearish pattern which appears at the top end of the trend, one should look at selling opportunities when it appears
+7. The hanging man is a bearish pattern which appears at the top end of the trend, one should look at selling opportunities when it appears
 
-    8. The high of the hanging man acts as the stop loss price for the trade
+8. The high of the hanging man acts as the stop loss price for the trade
 
-    9. The shooting star is a bearish pattern which appears at the top end of the trend. One should look at shorting opportunities when a shooting star appears
+9. The shooting star is a bearish pattern which appears at the top end of the trend. One should look at shorting opportunities when a shooting star appears
 
-    10. The high of the shooting star will be the stop loss price for the trade.
+10. The high of the shooting star will be the stop loss price for the trade.
 
 Multiple candlestick patterns are a combination of multiple candles.
 
-## Under the multiple candlestick patterns we will learn the following
+## Multiple Candlestick Patterns
 
 ![image](../../media/Market-Terms_Technical-Analysis-image2.jpg)
 
@@ -198,7 +197,7 @@ It is a bearish candlestick pattern and is formed at the end of an uptrend
 
 ## The Support and Resistance (S&R) - setting price targets
 
-## The Resistance
+### The Resistance
 
 Resistance is something which stops the price from rising further. The resistance level is a price point on the chart where traders expect maximum supply (in terms of selling) for the stock/index. The resistance level is always above the current market price. The likely hood of the price rising up to the resistance level, consolidating, absorbing all the supply, and then declining is high.
 
@@ -224,7 +223,7 @@ Entry -- 206, Stoploss -- 202, and Target -- 215
 
 The identification process is the same for both support and resistance. If the current market price is below the identified point, it is called a resistance point; else it is called a support point.
 
-## The Support
+### The Support
 
 As the name suggests, the support is something that prevents the price from falling further. The support level is a price point on the chart where the trader expects maximum demand (in terms of buying) coming into the stock/index. Whenever the price falls to the support line, it is likely to bounce back. The support level is **always below** the current market price. There is a maximum likely hood that the price could fall till the support, consolidate, absorb all the demand, and then start to move upwards. The support often acts as a trigger to buy.
 
@@ -234,7 +233,7 @@ As the name suggests, the support is something that prevents the price from fall
 
 Like we did while understanding resistance, let us imagine a bearish pattern formation -- perhaps a shooting star at 442 with a high of 446. Clearly with a shooting star, the call is to short Cipla at 442, with 446 as the stoploss. Since we know 435 the immediate support, we can set the target at 435.
 
-## So what makes Rs.435 target worthy? The following reasons back the decision
+### So what makes Rs.435 target worthy? The following reasons back the decision
 
 - Support at 435 implies there is a maximum likely hood of excess demand to emerge
 
@@ -303,7 +302,7 @@ Moving average is a simple technical analysis indicator used to detect the price
   - Double Exponential
   - Triple Exponential
 
-## A simple application of moving average (trading system based on a 50 day exponential moving average)
+### A simple application of moving average (trading system based on a 50 day exponential moving average)
 
 Remember a good trading system gives you a signal to enter a trade and a signal to close out the trade.
 
@@ -329,7 +328,7 @@ Moving averages works brilliantly when there is a trend and fails to perform whe
 
 - The key to MA trading system is to take all the trades and not be judgmental about the signals being generated by the system.
 
-## Moving Average Crossover system
+### Moving Average Crossover system
 
 In a MA crossover system, instead of the usual single moving average, the trader combines two moving averages. This is usually referred to as 'smoothing'.
 
@@ -353,7 +352,7 @@ A trader can use any combination to create a MA cross over system. Some of the p
 
 Remember, longer the time frame the lesser the number of trading signals.
 
-## Key takeaways from this chapter
+### Key takeaways from this chapter
 
 - A standard average calculation is a quick approximation of a series of numbers
 
@@ -403,7 +402,7 @@ The Dow Theory is built on a few beliefs. These are called the Dow Theory tenets
 | Sideway markets can substitute secondary markets | Markets may remain sideways (trading between a range) for an extended period. Example - Reliance Industries between 2010 and 2013 was trading between 860 and 990. The sideways markets can be a substitute for a secondary trend                                                                                              |
 | The closing price is the most sacred             | Between the open, high, low and close prices, the close is the most important price level as it represents the final evaluation of the stock during the day                                                                                                                                                                    |
 
-## Different phases of the market
+### Different phases of the market
 
 ![image](../../media/Market-Terms_Technical-Analysis-image5.jpg)
 
@@ -427,7 +426,7 @@ Finally when the institutional investors (smart money) completely sell off their
 
 Completing the circle, what follows the selloff phase is a fresh round of accumulation phase, and the whole cycle repeats again. It is believed that that entire cycle from accumulation phase to the selloff spans over a few years.
 
-## Dow Patterns
+### Dow Patterns
 
 1. The Double bottom & Double top formation
 
@@ -441,25 +440,19 @@ Imagine a situation where in the double top formation, the 2nd top forms a beari
 
 4. Flag formation
 
-## Summary
+### Summary
 
 - A range is formed when the stock oscillates between the two price points
-
 - A trader can buy at the lower price point, and sell at the higher price point
-
 - The stock gets into a range for a specific reason such as the lack of fundamental triggers, or event expectation
-
 - The stock can break out of the range. A good breakout is characterized by above average volumes and sharp surge in prices
-
 - If the trader has missed an opportunity to buy a stock, the flag formation offers another window to buy
-
 - RRR is a critical parameter for trade evaluation. Develop a minimum RRR threshold based on your risk appetite
-
 - Before initiating a trade the trader should look at the opportunity from the Dow Theory perspective
 
-## The Finale -- Helping you get started
+[Dow Theory Explained: What It Is and How It Works](https://www.investopedia.com/terms/d/dowtheory.asp)
 
-This chapter helps you get started on the things that you need to do on a daily basis to identify trading opportunities employing "Technical Analysis" methodologies.
+[The Dow Theory (Part 1) – Varsity by Zerodha](https://zerodha.com/varsity/chapter/dow-theory-part-1/)
 
 ## Supplementary Notes 1
 
@@ -471,10 +464,16 @@ If you don't know already, then TradingView is now available on Kite. Here is th
 
 ![image](../../media/Market-Terms_Technical-Analysis-image6.jpg)
 
-## Others
+## Elliott Wave Theory
+
+- The Elliott Wave theory is a technical analysis of price patterns related to changes in investor sentiment and psychology.
+- The theory identifies impulse waves that establish a pattern and corrective waves that oppose the larger trend.
+- Each set of waves is within another set of waves that adhere to the same impulse or corrective pattern, described as a fractal approach to investing.
 
 <https://www.investopedia.com/terms/e/elliottwavetheory.asp>
 
 <https://en.wikipedia.org/wiki/Elliott_wave_principle>
+
+## Others
 
 [How to analyse the markets? — Part 1](https://www.youtube.com/watch?v=dMjce5P4j-Y)

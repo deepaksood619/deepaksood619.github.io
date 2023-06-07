@@ -31,3 +31,5 @@ It's not what you speak matter its the way you speak matters
 Everyone is just a row in a database
 
 One thing, one time, one minute
+
+Don't find patterns where none exists

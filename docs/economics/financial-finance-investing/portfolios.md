@@ -2,33 +2,31 @@
 
 ## Portfolio
 
-- **Stocks**
-  - **Equity**
-    - **Shares**
-      - **Domestic**
-        - **Nifty50 (30%)**
-        - **Nifty Next 50 (70%)**
-      - **International**
-        - **Technology - NASDAQ**
-        - **S&P500**
-      - **Companies**
-        - **Reliance**
-        - **TCS**
-  - **Debt**
-    - **FD**
-    - **RD**
-    - **PPF (1,50,000)**
-    - **NPS**
-    - **Liquid funds**
-    - **Long Term Bonds**
-- **Cash (2,00,000)**
+- **Equity**
+  - **Domestic**
+    - Nifty50 (30%)
+    - Nifty Next 50 (70%)
+  - **International**
+    - Technology - NASDAQ
+    - S&P500
+- **Debt**
+  - FD
+  - RD
+  - PPF (1,50,000)
+  - NPS
+  - Liquid funds
+  - Long Term Bonds
+  - Cash (2,00,000)
 - **Gold**
-  - **Soverign Gold Bond - SGB**
-- **P2P**
-- **Trading**
-  - **IPOs**
-  - **ESG (**To borrow Winston Churchill's words, ESG is "a riddle, wrapped in a mystery, inside an enigma.")
-  - **Day trader**
+  - Soverign Gold Bond - SGB
+  - Gold ETF
+- Property
+  - REITs
+- P2P
+- Trading
+  - IPOs
+  - ESG (To borrow Winston Churchill's words, ESG is "a riddle, wrapped in a mystery, inside an enigma.")
+  - Day trader
 
 ![image](../../media/TODO-Financial-Finance-Investing_Portfolios-image1.jpg)
 

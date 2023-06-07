@@ -17,3 +17,5 @@ Earth overshoot day - 27 July
 - Floating offshore wind farms can make living closer to shore better, since water problem can be solved by desalination
 
 [Why sharks matter - with David Shiffman - YouTube](https://www.youtube.com/watch?v=RYXQs1g8dw0&ab_channel=TheRoyalInstitution)
+
+[El Niño 2023 could be a monster! - YouTube](https://www.youtube.com/watch?v=rwdxffEzQ9I)

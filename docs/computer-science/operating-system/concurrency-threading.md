@@ -11,7 +11,15 @@
 
 ## Process
 
-In general, most processes can be described as either**[I/O-bound](https://en.wikipedia.org/wiki/I/O-bound) or [CPU-bound](https://en.wikipedia.org/wiki/CPU-bound)**. An I/O-bound process is one that spends more of its time doing I/O than it spends doing computations. A CPU-bound process, in contrast, generates I/O requests infrequently, using more of its time doing computations. It is important that a long-term scheduler selects a good process mix of I/O-bound and CPU-bound processes. If all processes are I/O-bound, the ready queue will almost always be empty, and the short-term scheduler will have little to do. On the other hand, if all processes are CPU-bound, the I/O waiting queue will almost always be empty, devices will go unused, and again the system will be unbalanced. The system with the best performance will thus have a combination of CPU-bound and I/O-bound processes. In modern operating systems, this is used to make sure that real-time processes get enough CPU time to finish their tasks.
+In general, most processes can be described as either **[I/O-bound](https://en.wikipedia.org/wiki/I/O-bound) or [CPU-bound](https://en.wikipedia.org/wiki/CPU-bound)**.
+
+An I/O-bound process is one that spends more of its time doing I/O than it spends doing computations.
+
+A CPU-bound process, in contrast, generates I/O requests infrequently, using more of its time doing computations. It is important that a long-term scheduler selects a good process mix of I/O-bound and CPU-bound processes.
+
+If all processes are I/O-bound, the ready queue will almost always be empty, and the short-term scheduler will have little to do. On the other hand, if all processes are CPU-bound, the I/O waiting queue will almost always be empty, devices will go unused, and again the system will be unbalanced.
+
+The system with the best performance will thus have a combination of CPU-bound and I/O-bound processes. In modern operating systems, this is used to make sure that real-time processes get enough CPU time to finish their tasks.
 
 ## Threads
 
@@ -264,3 +272,5 @@ Dijkstra's Guarded Commands - <https://en.wikipedia.org/wiki/Guarded_Command_Lan
 [Rob Pike - 'Concurrency Is Not Parallelism'](https://vimeo.com/49718712)
 
 [Demystifying Python Multiprocessing and Multithreading | by David Chong | Towards Data Science](https://towardsdatascience.com/demystifying-python-multiprocessing-and-multithreading-9b62f9875a27)
+
+[Peeking into assembly code to understand why count++ is not atomic - YouTube](https://www.youtube.com/watch?v=kBHd7kn_1EU)

@@ -46,6 +46,20 @@ Anything above 100 is good
 
 <https://networthify.com/calculator/earlyretirement>
 
+#### Retirement Calculation with Variables
+
+- Age - 30
+- Retirement Age - 50
+- Life Expectancy - 90
+- Monthly Expense - 1,00,000
+- Current Retirement Corpus - 1,00,00,000
+- Expected return on investment - 10%
+- Expense factor (Your post retirement expenses as a percent of your current expenses) - 100%
+- Inflation rate - 6%
+- You need to make a **monthly investment** of 1,85,122.36 to accumulate a **corpus** of 13,29,65,839.82
+
+[Retirement Planner Calculator India | Retirement Planning Calculator Online](https://www.moneycontrol.com/personal-finance/tools/retirement-planning-calculator.html)
+
 ## Lifestyle upgrades
 
 - 2 objectives that contradict each other, one objective is to achieve financial independence, other objective is to have lifestyle upgrade

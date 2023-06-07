@@ -60,6 +60,24 @@ SELECT branch,
  revenue - LAG(revenue) OVER (PARTITION BY branch ORDER BY month) AS revenue_delta
 FROM branch_month_sales
 ORDER BY branch, month
+
+-- using ANY_VALUE and IF to transpose rows in columns based on rank
+WITH ranked_transactions AS (
+SELECT
+atr.userId,
+atr.operation,
+atr.confirmedAt,
+ROW_NUMBER() OVER (PARTITION BY atr.userId
+ORDER BY
+atr.confirmedAt ASC) AS rn
+FROM
+all_transactions atr
+)
+SELECT
+rt.UserId,
+ANY_VALUE(IF(rt.rn = 1, rt.operation, NULL), TRUE) AS firstEntryProduct,
+ANY_VALUE(IF(rt.rn = 2, rt.operation, NULL), TRUE) AS secondEntryProduct,
+FROM ranked_transactions rt GROUP BY userId
 ```
 
 ## Links

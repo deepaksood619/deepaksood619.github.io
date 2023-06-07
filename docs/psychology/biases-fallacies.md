@@ -40,11 +40,9 @@ Most people feel they understand the world with far greater detail, coherence, a
 
 ## Dunning-Kruger Effect
 
-"Relatively unskilled persons suffer illusory superiority, mistakenly assessing their ability to be much higher than it really is...[and] highly skilled individuals may underestimate their relative competence and may erroneously assume that tasks which are easy for them are also easy for others." (related:[overconfidence effect](https://en.wikipedia.org/wiki/Overconfidence_effect))
+"Relatively unskilled persons suffer illusory superiority, mistakenly assessing their ability to be much higher than it really is... and highly skilled individuals may underestimate their relative competence and may erroneously assume that tasks which are easy for them are also easy for others." (related: [overconfidence effect](https://en.wikipedia.org/wiki/Overconfidence_effect))
 
 Thinking we know more than we do
-
-In the field of psychology, theDunning--Kruger effect is a cognitive bias in which people of low ability have illusory superiority and mistakenly assess their cognitive ability as greater than it is.
 
 ![image](../media/Biases-Fallacies-image1.jpg)
 
@@ -63,7 +61,7 @@ In the field of psychology, theDunning--Kruger effect is a cognitive bias in whi
   - Listens to people and media persons that agree with them and dismiss others that challenge their world views
 - We'll go a long way to reduce the feeling that our thoughts or actions don't line up with the way we see ourselves or the world
 
-[**Selection Bias**](https://en.wikipedia.org/wiki/Selection_bias)
+## [**Selection Bias**](https://en.wikipedia.org/wiki/Selection_bias)
 
 The selection of individuals, groups or data for analysis in such a way that proper randomization is not achieved, thereby ensuring that the sample obtained is not representative of the population intended to be analyzed." (related:[sampling bias](https://en.wikipedia.org/wiki/Sampling_bias))
 

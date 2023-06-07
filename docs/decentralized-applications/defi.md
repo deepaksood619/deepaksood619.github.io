@@ -74,6 +74,7 @@ A perpetual contract is a derivative similar to a futures contract but without a
 - [Yearn](https://yearn.finance/)
 - [YEARN FINANCE And YFI Token Explained | DeFi, Ethereum - YouTube](https://www.youtube.com/watch?v=qG1goOptZ5w&ab_channel=Finematics)
 - [What are YEARN VAULTS? ETH Vault Explained | DEFI, YIELD FARMING - YouTube](https://www.youtube.com/watch?v=9vTaNl2_B8A&ab_channel=Finematics)
+- [Yearn | Introduction to Yearn Vaults - YouTube](https://www.youtube.com/watch?v=a1TsO62402c)
 
 ## References
 
@@ -102,3 +103,9 @@ A perpetual contract is a derivative similar to a futures contract but without a
 [Derivatives in DEFI Explained (Synthetix, UMA, Hegic, Opyn, Perpetual, dYdX, BarnBridge) - YouTube](https://www.youtube.com/watch?v=QxoqPZRw9y4)
 
 [What Are Tokenized Securities - Benefits, Examples, & Laws](https://milkroad.com/guide/tokenized-securities)
+
+[BANK RUN in DEFI - Lessons Learned From The Iron Finance Collapse - YouTube](https://www.youtube.com/watch?v=HUokre-szPg)
+
+[DEFI 2.0 - A New Narrative? OlympusDAO, Tokemak Explained - YouTube](https://www.youtube.com/watch?v=l0vRTi8_FRk)
+
+[DeFi - Past, Present and Future - YouTube](https://www.youtube.com/watch?v=PT72hAbm2Eo)

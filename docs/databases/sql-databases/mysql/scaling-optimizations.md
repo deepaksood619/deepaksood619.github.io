@@ -85,7 +85,7 @@ We advise against using subqueries as they are not optimized well by the optimiz
 
 ### Use UNION ALL instead of UNION
 
-Always use UNION ALL unless you need to eliminate duplicaterecords. By using UNION ALL, you'll avoid the expensive distinct operation the database applies when using a UNION clause
+Always use UNION ALL unless you need to eliminate duplicate records. By using UNION ALL, you'll avoid the expensive distinct operation the database applies when using a UNION clause
 
 ### The LOAD DATA INFILE statement reads rows from a text file into a table at a very high speed
 

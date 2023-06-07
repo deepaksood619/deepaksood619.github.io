@@ -66,6 +66,7 @@ This is a tool that analyzes the token’s smart contract, tokenomics, holders, 
 - [GitHub - casey/ord: 👁‍🗨 Rare and exotic sats](https://github.com/casey/ord)
 - [Curvegrid 🛠 A 30 Minute DApp - Jeff Wentworth - YouTube](https://www.youtube.com/watch?v=PzmVzShojlM&ab_channel=ETHGlobal)
 - [The GRAPH - Google Of Blockchains? GRT Token Explained - YouTube](https://www.youtube.com/watch?v=7gC7xJ_98r8)
+- [WalletConnect](https://walletconnect.com/)
 
 ### Uniswap Build Tools
 

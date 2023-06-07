@@ -2,8 +2,10 @@
 
 ## CricInfo
 
-[CRICINFO system design | CRICBUZZ System desi](http://youtube.com/watch?v=exSwQtMxGd4) gn
+[CRICINFO system design | CRICBUZZ System design](http://youtube.com/watch?v=exSwQtMxGd4)
+
 ![image](../../media/System-Design-Others-image1.jpg)
+
 ![image](../../media/System-Design-Others-image2.jpg)
 
 ## Netflix
@@ -122,3 +124,5 @@ Non-functional requirements
 ## Others
 
 HTTP + json is not good (because contract is not upheld from developers while sending apis)
+
+[Overview of Discord's data platform that daily processes petabytes of data and trillion points - YouTube](https://www.youtube.com/watch?v=yGpEzO32lU4)

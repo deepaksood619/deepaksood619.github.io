@@ -23,6 +23,15 @@ Oil is fungible, which means one barrel of crude is interchangeable with another
 - [Reveal and Non-reveal NFT Projects - NiftyKit](https://niftykit.com/reveal-and-non-reveal-nft-projects/)
 - [Zapper - Your Home to Web3](https://zapper.xyz/)
 
+## NFT Actions
+
+- Mint - Create one, or bulk NFT(s)
+- Transfer - Standard action, transfer NFT between wallets
+- Query - Enquire NFT's state (real-time lookup)
+- Eject (Exit door) - In case of a Custodial Wallet, remove NFT from in-game asset inventory/wallet to a player wallet outside the ecosystem
+- Burn - Destroy NFT(s)
+- Import - Import (& support) external NFTs in the ecosystem
+
 ## Links
 
 [How to Create an NFT Marketplace | Embroker](https://www.embroker.com/blog/how-to-create-an-nft-marketplace/)

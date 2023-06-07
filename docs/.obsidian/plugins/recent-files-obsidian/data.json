@@ -1,204 +1,204 @@
 {
   "recentFiles": [
     {
-      "basename": "window-functions",
-      "path": "languages/sql/dql-data-query-language/window-functions.md"
-    },
-    {
-      "basename": "analytical-queries",
-      "path": "languages/sql/dql-data-query-language/analytical-queries.md"
-    },
-    {
-      "basename": "aggregation-queries",
-      "path": "languages/sql/dql-data-query-language/aggregation-queries.md"
-    },
-    {
-      "basename": "sql-examples",
-      "path": "languages/sql/sql-examples.md"
+      "basename": "ethereum-intro",
+      "path": "decentralized-applications/ethereum/ethereum-intro.md"
     },
     {
       "basename": "readme",
-      "path": "languages/sql/readme.md"
+      "path": "decentralized-applications/ethereum/readme.md"
     },
     {
-      "basename": "intro",
-      "path": "languages/sql/intro.md"
+      "basename": "international-relations-ir",
+      "path": "knowledge/others/international-relations-ir.md"
     },
     {
-      "basename": "crypto-investing",
-      "path": "decentralized-applications/crypto-investing.md"
+      "basename": "numbers",
+      "path": "mathematics/general/numbers.md"
     },
     {
-      "basename": "youtube-podcasts-magazine-apps",
-      "path": "devops/ides/youtube-podcasts-magazine-apps.md"
-    },
-    {
-      "basename": "crypto-news",
-      "path": "decentralized-applications/crypto-news.md"
-    },
-    {
-      "basename": "references-learning",
-      "path": "decentralized-applications/references-learning.md"
-    },
-    {
-      "basename": "newsletter-learning-resources",
-      "path": "computer-science/general/newsletter-learning-resources.md"
-    },
-    {
-      "basename": "delta-lake-tutorial",
-      "path": "networking/others/delta-lake-tutorial.md"
-    },
-    {
-      "basename": "create-table",
-      "path": "languages/sql/ddl-data-definition-language/create-table.md"
-    },
-    {
-      "basename": "documentation",
-      "path": "databases/sql-databases/aws-redshift/documentation.md"
-    },
-    {
-      "basename": "todo",
-      "path": "office/cakedefi/todo.md"
-    },
-    {
-      "basename": "databricks-sql",
-      "path": "languages/sql/databricks-sql.md"
-    },
-    {
-      "basename": "insurance",
-      "path": "economics/mutual-funds/insurance.md"
-    },
-    {
-      "basename": "readme",
-      "path": "economics/mutual-funds/readme.md"
-    },
-    {
-      "basename": "readme",
-      "path": "economics/readme.md"
-    },
-    {
-      "basename": "debt-mutual-funds",
-      "path": "economics/mutual-funds/debt-mutual-funds.md"
-    },
-    {
-      "basename": "addresses-electricity",
-      "path": "office/personality/addresses-electricity.md"
-    },
-    {
-      "basename": "delta-lake",
-      "path": "networking/others/delta-lake.md"
-    },
-    {
-      "basename": "03-optimizations",
-      "path": "technologies/apache/databricks/03-optimizations.md"
-    },
-    {
-      "basename": "todo",
-      "path": "office/blocktoons/todo.md"
+      "basename": "my-quotes",
+      "path": "knowledge/quotes-proverbs/my-quotes.md"
     },
     {
       "basename": "deepak-banks",
       "path": "office/keep/deepak-banks.md"
     },
     {
-      "basename": "liquidity-mining",
-      "path": "decentralized-applications/liquidity-mining.md"
+      "basename": "addresses-electricity",
+      "path": "office/personality/addresses-electricity.md"
     },
     {
-      "basename": "sql-data-types",
-      "path": "languages/sql/sql-data-types.md"
+      "basename": "coding",
+      "path": "knowledge/quotes-proverbs/coding.md"
     },
     {
-      "basename": "99-others",
-      "path": "technologies/apache/apache-spark/99-others.md"
+      "basename": "youtube-podcasts-magazine-apps",
+      "path": "devops/ides/youtube-podcasts-magazine-apps.md"
     },
     {
-      "basename": "09-dataframe",
-      "path": "technologies/apache/apache-spark/09-dataframe.md"
+      "basename": "chatgpt-prompt-eng",
+      "path": "ai/courses/chatgpt-prompt-eng.md"
     },
     {
-      "basename": "readme",
-      "path": "technologies/apache/apache-spark/readme.md"
+      "basename": "movies-serials-apps",
+      "path": "office/personality/movies-serials-apps.md"
     },
     {
-      "basename": "10-sql-functions-datasources",
-      "path": "technologies/apache/apache-spark/10-sql-functions-datasources.md"
+      "basename": "financial-independence",
+      "path": "economics/financial-finance-investing/financial-independence.md"
     },
     {
-      "basename": "types",
-      "path": "languages/sql/types.md"
+      "basename": "portfolios",
+      "path": "economics/financial-finance-investing/portfolios.md"
     },
     {
-      "basename": "obsidian",
-      "path": "devops/ides/obsidian.md"
+      "basename": "debt-mutual-funds",
+      "path": "economics/mutual-funds/debt-mutual-funds.md"
     },
     {
-      "basename": "mysql-data-types",
-      "path": "databases/sql-databases/mysql/mysql-data-types.md"
-    },
-    {
-      "basename": "11-built-in-functions",
-      "path": "technologies/apache/apache-spark/11-built-in-functions.md"
-    },
-    {
-      "basename": "08-examples",
-      "path": "technologies/apache/apache-spark/08-examples.md"
-    },
-    {
-      "basename": "05-spark-built-in-libraries",
-      "path": "technologies/apache/apache-spark/05-spark-built-in-libraries.md"
-    },
-    {
-      "basename": "01-databricks",
-      "path": "technologies/apache/databricks/01-databricks.md"
-    },
-    {
-      "basename": "99-others",
-      "path": "technologies/apache/databricks/99-others.md"
-    },
-    {
-      "basename": "40-databricks-commands",
-      "path": "technologies/apache/databricks/40-databricks-commands.md"
-    },
-    {
-      "basename": "20-delta-live-tables",
-      "path": "technologies/apache/databricks/20-delta-live-tables.md"
-    },
-    {
-      "basename": "02-databricks-getting-started",
-      "path": "technologies/apache/databricks/02-databricks-getting-started.md"
-    },
-    {
-      "basename": "microsoft-excel-google-sheets",
-      "path": "computer-science/courses/microsoft-excel-google-sheets.md"
-    },
-    {
-      "basename": "powerbi",
-      "path": "ai/data-science/data-visualization/powerbi.md"
+      "basename": "life-lessons-buying-guide-travelling-shopping",
+      "path": "office/personality/life-lessons-buying-guide-travelling-shopping.md"
     },
     {
       "basename": "readme",
-      "path": "ai/data-science/data-visualization/readme.md"
+      "path": "economics/financial-finance-investing/readme.md"
     },
     {
-      "basename": "people",
-      "path": "office/cakedefi/people.md"
+      "basename": "astronomy",
+      "path": "knowledge/physics/astronomy.md"
     },
     {
-      "basename": "architecture-guide",
-      "path": "computer-science/system-design/architecture-guide.md"
+      "basename": "mechanical-engineering",
+      "path": "knowledge/applied-sciences/mechanical-engineering.md"
     },
     {
-      "basename": "n-tier-application-architecture",
-      "path": "computer-science/system-design/n-tier-application-architecture.md"
+      "basename": "crash-course-engineering",
+      "path": "knowledge/applied-sciences/crash-course-engineering.md"
+    },
+    {
+      "basename": "knowledge-of-humanity",
+      "path": "knowledge/general/knowledge-of-humanity.md"
+    },
+    {
+      "basename": "defi",
+      "path": "decentralized-applications/defi.md"
+    },
+    {
+      "basename": "upgrades",
+      "path": "decentralized-applications/ethereum/upgrades.md"
+    },
+    {
+      "basename": "diseases-tests",
+      "path": "knowledge/biology/diseases-tests.md"
     },
     {
       "basename": "chatgpt-llm",
       "path": "ai/libraries/chatgpt-llm.md"
     },
     {
-      "basename": "intro",
-      "path": "decentralized-applications/intro.md"
+      "basename": "others",
+      "path": "knowledge/biology/others.md"
+    },
+    {
+      "basename": "tatoos-quotes",
+      "path": "knowledge/quotes-proverbs/tatoos-quotes.md"
+    },
+    {
+      "basename": "stoicism",
+      "path": "psychology/stoicism.md"
+    },
+    {
+      "basename": "biases-fallacies",
+      "path": "psychology/biases-fallacies.md"
+    },
+    {
+      "basename": "nft-non-fungible-tokens",
+      "path": "decentralized-applications/coins-tokens-chains/nft-non-fungible-tokens.md"
+    },
+    {
+      "basename": "returns-tax-taxes-itr",
+      "path": "economics/financial-finance-investing/returns-tax-taxes-itr.md"
+    },
+    {
+      "basename": "stocks-equity",
+      "path": "economics/financial-finance-investing/stocks-equity.md"
+    },
+    {
+      "basename": "industry-sectors",
+      "path": "economics/financial-finance-investing/industry-sectors.md"
+    },
+    {
+      "basename": "company-management",
+      "path": "economics/financial-finance-investing/company-management.md"
+    },
+    {
+      "basename": "buy-now-pay-later-bnpl",
+      "path": "economics/financial-finance-investing/buy-now-pay-later-bnpl.md"
+    },
+    {
+      "basename": "checklist-tips-personal-finance-quotes",
+      "path": "economics/financial-finance-investing/checklist-tips-personal-finance-quotes.md"
+    },
+    {
+      "basename": "investment-banking",
+      "path": "economics/investment-banking.md"
+    },
+    {
+      "basename": "people",
+      "path": "office/blocktoons/people.md"
+    },
+    {
+      "basename": "deepak-account-credentials",
+      "path": "office/keep/deepak-account-credentials.md"
+    },
+    {
+      "basename": "asha-maa",
+      "path": "office/keep/asha-maa.md"
+    },
+    {
+      "basename": "about",
+      "path": "office/blocktoons/about.md"
+    },
+    {
+      "basename": "startups-ideas-saas",
+      "path": "about-me/ideas/startups-ideas-saas.md"
+    },
+    {
+      "basename": "others",
+      "path": "ai/computer-vision-cv/others.md"
+    },
+    {
+      "basename": "others",
+      "path": "languages/php/others.md"
+    },
+    {
+      "basename": "cv-libraries-tools",
+      "path": "ai/computer-vision-cv/cv-libraries-tools.md"
+    },
+    {
+      "basename": "image-data-labeling-tools",
+      "path": "ai/computer-vision-cv/image-data-labeling-tools.md"
+    },
+    {
+      "basename": "image-formats",
+      "path": "ai/computer-vision-cv/image-formats.md"
+    },
+    {
+      "basename": "life-relationship-people",
+      "path": "psychology/life-relationship-people.md"
+    },
+    {
+      "basename": "partner-wife-qualities",
+      "path": "office/personality/partner-wife-qualities.md"
+    },
+    {
+      "basename": "mistakes",
+      "path": "knowledge/language/mistakes.md"
+    },
+    {
+      "basename": "poems",
+      "path": "knowledge/quotes-proverbs/poems.md"
     }
   ],
   "omittedPaths": [],

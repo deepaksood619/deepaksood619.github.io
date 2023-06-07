@@ -2,6 +2,8 @@
 
 Productivity isn't everything, but, in the long run, it is almost everything -- Economist Paul Krugman, in The Age of Diminished Expectations
 
+The most invisible form of wasted time is doing a good job on an unimportant task.
+
 <https://www.scotthyoung.com/blog/2020/10/26/foundation-practices>
 
 1. Establish an Airtight Productivity System

@@ -28,8 +28,6 @@ Prompt - What is the capital of France?
 
 Ans - The capital of France is Paris.
 
-## Guidelines
-
 ### Prompting Principles
 
 #### Principle 1: Write clear and specific instructions
@@ -52,7 +50,11 @@ Ans - The capital of France is Paris.
 
 ##### Tactic 2: Instruct the model to work out its own solution before rushing to a conclusion
 
-#### Model Limitations
+### Imitating
+
+- In the style of x write about x
+
+### Model Limitations
 
 ##### Hallucinations
 
@@ -72,13 +74,15 @@ First find relevant information, then answer the question based on the relevant 
 - Chatbot
 - Conclusion
 
-**Search Term - Prompt Sites**
-
 [ChatGPT Prompt Engineering for Developers - DeepLearning.AI](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/)
+
+## Prompt Examples
 
 ![ChatGPT Ultimate Prompting Guide](../../media/chatgpt-promt-engineering.png)
 
 ![ChatGPT Prompts Commands](../../media/chatgpt-prompts.png)
+
+Share the most important leadership lessons and insights from the book {insert book} by {insert author}. For each insight suggest an actionable way I can embody it.
 
 ## Learning
 
@@ -87,3 +91,5 @@ First find relevant information, then answer the question based on the relevant 
 [Understanding Large Language Models - by Sebastian Raschka](https://magazine.sebastianraschka.com/p/understanding-large-language-models?utm_source=substack&utm_medium=email)
 
 [The Art of Prompt Design: Use Clear Syntax | by Scott Lundberg | May, 2023 | Towards Data Science](https://towardsdatascience.com/the-art-of-prompt-design-use-clear-syntax-4fc846c1ebd5)
+
+[Prompt Engineering - Google Slides](https://docs.google.com/presentation/d/1wNm1uQs5JnmnxR7es2pb4koEELZ9k_CeTdjvTa38cT8/edit?usp=sharing)

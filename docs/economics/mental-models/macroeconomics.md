@@ -120,3 +120,5 @@ The **impossible trinity** (also known as **the impossible [trilemma](https:
 [Did Washing Machines Change The Global Economy More Than The Internet? - YouTube](https://www.youtube.com/watch?v=_gvsz_vc7B0)
 
 [The Inequality Problem Nobody Likes To Talk About | Economics Explained - YouTube](https://www.youtube.com/watch?v=QaL-ocOtooM)
+
+[How the World’s Most Dangerous Country Solved Murder - YouTube](https://www.youtube.com/watch?v=WtkI-QAgM6w)

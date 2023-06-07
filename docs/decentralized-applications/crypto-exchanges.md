@@ -16,6 +16,7 @@ The Top Three Highest Ranking Crypto Websites on Alexa
   - [A Short Story of UNISWAP and UNI Token. DEFI Explained - YouTube](https://www.youtube.com/watch?v=LpjMgS4OVzs&ab_channel=Finematics)
 - SushiSwap
   - [What Is a VAMPIRE ATTACK? SUSHISWAP Saga Explained - YouTube](https://www.youtube.com/watch?v=UFjXwrCGuog&ab_channel=Finematics)
+  - [SUSHI - Most Underrated Protocol in DeFi? (BentoBox, Kashi, Miso Explained) - YouTube](https://www.youtube.com/watch?v=Cbtvc8Eso_g)
 - [How Does THORCHAIN Work? DEFI Explained - YouTube](https://www.youtube.com/watch?v=dNDh-mPboPc)
 - Binance.com (Global Ranking 210, US Rank 306)
 - Coinmarketcap.com (Global Rank 108, US Rank 131)
@@ -34,7 +35,7 @@ The Top Three Highest Ranking Crypto Websites on Alexa
 
 ### Uniswap v3
 
-- Automated Market Makers (AMMs)
+- Automated Market Makers (AMMs) - [What is an Automated Market Maker? (Liquidity Pool Algorithm) - YouTube](https://www.youtube.com/watch?v=1PbZMudPP5E)
 - Liquidity Providers (LPs)
 
 Uniswap v3 introduces:

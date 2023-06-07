@@ -43,4 +43,9 @@ When you install Rustup you'll also get the latest stable version of the Rust bu
 [10 Videos on Rust that accelerate my learning](https://www.linkedin.com/pulse/10-videos-rust-accelerate-my-learning-chun-yin-vincent-lau/)
 
 [RustEdu Workshop 2022 - RustViz: Interactively Visualizing Ownership and Borrowing - YouTube](https://www.youtube.com/watch?v=zCF8QVkc6IY)
+
 [GitHub - rustviz/rustviz: Interactively Visualizing Ownership and Borrowing for Rust](https://github.com/rustviz/rustviz)
+
+[Rust for Rustaceans by Jon Gjengset](https://rust-for-rustaceans.com/)
+
+[Welcome to Comprehensive Rust 🦀 - Comprehensive Rust 🦀](https://google.github.io/comprehensive-rust/welcome.html)

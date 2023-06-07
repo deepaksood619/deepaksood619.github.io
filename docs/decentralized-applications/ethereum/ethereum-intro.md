@@ -140,6 +140,16 @@ Maximal extractable value was first applied in the context of proof-of-work, and
 
 [What is Flashbots? - How To Use & MEV Protection](https://milkroad.com/flashbots)
 
+[MEV Activities Since the Merge - Strategies, Searchers and Builders during Market Panic - Elaine Hu - YouTube](https://www.youtube.com/watch?v=2iseYQwd2dA&ab_channel=ETHGlobal)
+
+[Information is the New Money - Phil Daian - YouTube](https://www.youtube.com/watch?v=vi-rVTFTb6s&ab_channel=ETHGlobal)
+
+[Protocol economics the Ethereum protocol’s perspective - Vitalik Buterin - YouTube](https://www.youtube.com/watch?v=cXswTUqlZPQ&ab_channel=ETHGlobal)
+
+[Decentralizing Sequencers Wait it’s all PBS Always have been - Hasu - YouTube](https://www.youtube.com/watch?v=6xS0xMzh9Tc&ab_channel=ETHGlobal)
+
+[MEVeconomics in L2 - A Closer Look at the Sequencer's Role and MEV - Patrick McCorry - YouTube](https://www.youtube.com/watch?v=kb8nY2-Osjc&ab_channel=ETHGlobal)
+
 ## Testing
 
 [What are Testnets?](https://www.alchemy.com/overviews/what-are-testnets)
@@ -171,3 +181,5 @@ Testnet tokens are a test currency that allows you to test your Ethereum applica
 [Remix - Ethereum IDE](https://remix.ethereum.org/)
 
 Ethereum By Henning Diedrich
+
+[How Do Ethereum Withdrawals Work? All You Need To Know - YouTube](https://www.youtube.com/watch?v=RwwU3P9n3uo)

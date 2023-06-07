@@ -6,6 +6,8 @@ Only the dead can be forgiven
 
 Free speech is a privilege that must only be given to only set of filtered people.
 
+Too big to fail and too big to jail
+
 ## Quotes
 
 If you want the truth to stand clear before you, never be for or against. The struggle between **for** and **against** is the mind's worst disease -- Sent-ts'an, c. 700 C.E.

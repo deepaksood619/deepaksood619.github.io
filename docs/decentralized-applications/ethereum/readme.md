@@ -81,6 +81,7 @@
 - [Maximal extractable value (MEV)](https://ethereum.org/en/developers/docs/mev/) _– How value is extracted from the Ethereum blockchain beyond the block reward_
 - [Oracles](https://ethereum.org/en/developers/docs/oracles/) _– How information is injected into the Ethereum blockchain_
 - [Scaling](https://ethereum.org/en/developers/docs/scaling/) _– Methods for preserving decentralization and security as Ethereum grows_
+  - [ROLLUPS - The Ultimate Ethereum Scaling Strategy? Arbitrum & Optimism Explained - YouTube](https://www.youtube.com/watch?v=7pWxCklcNsU)
   - [Optimistic rollups](https://ethereum.org/en/developers/docs/scaling/optimistic-rollups/)
   - [Zero-knowledge rollups](https://ethereum.org/en/developers/docs/scaling/zk-rollups/)
   - [State channels](https://ethereum.org/en/developers/docs/scaling/state-channels/)

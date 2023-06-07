@@ -53,16 +53,18 @@ Note howtransparent, calling, andset_transhave been stemmed to their root form.
 
 Encodes words and sentences as numeric vectors. These vector representations are designed to capture the linguistic content of the text, and can be used to assess similarity between a query and a document.
 
-- Word Embeddings
+### Word Embeddings
 
 A word embedding model represents a word as a dense numeric vector. These vectors aim to capture semantic properties of the word - words whose vectors are close together should be similar in terms of semantic meaning. In a good embedding, directions in the vector space are tied to different aspects of the word's meaning. As an example, the vector for "Canada" might be close to "France" in one direction, and close to "Toronto" in another.
+
+[Word Embeddings - EXPLAINED! - YouTube](https://www.youtube.com/watch?v=GmXkCCa4eVA)
 
 The NLP and search communities have been interested in vector representations of words for quite some time. There was a resurgence of interest in word embeddings in the past few years, when many traditional tasks were being revisited using neural networks. Some successful word embedding algorithms were developed, including [word2vec](https://papers.nips.cc/paper/5021-distributed-representations-of-words-and-phrases-and-their-compositionality.pdf) and [GloVe](https://nlp.stanford.edu/pubs/glove.pdf). These approaches make use of large text collections, and examine the context each word appears in to determine its vector representation:
 
 - The word2vec Skip-gram model trains a neural network to predict the context words around a word in a sentence. The internal weights of the network give the word embeddings.
 - In GloVe, the similarity of words depends on how frequently they appear with other context words. The algorithm trains a simple linear model on word co-occurrence counts.
 
-- Sentence Embeddings
+### Sentence Embeddings
 
 Researchers have started to focus on embedding techniques that represent not only words, but longer sections of text. Most current approaches are based on complex neural network architectures, and sometimes incorporate labelled data during training to aid in capturing semantic information.
 

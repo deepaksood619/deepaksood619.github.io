@@ -132,3 +132,7 @@
 [Swimming Vs Running: What Burns The Most Calories? - YouTube](https://www.youtube.com/watch?v=4_dj0bXCoiY)
 
 [Swimming Vs Cycling Vs Running: What Burns The Most Calories? - YouTube](https://www.youtube.com/watch?v=nOsT9_0jYb8)
+
+[5 Worst Breathing Mistakes Swimmers Make - YouTube](https://www.youtube.com/watch?v=KASE1gI7XLE)
+
+[How To Swim Without Getting Tired | Essential Tips For Swimming - YouTube](https://www.youtube.com/watch?v=XS3_lChWJC4)

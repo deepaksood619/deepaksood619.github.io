@@ -51,19 +51,21 @@ it's easier to destroy a relationship than build one.
 
 The secret to feeling great about yourself is not to be found in searching for people who are less than you and then show yourself superior to them, but in searching for people who are more than you and then show yourself worthy of their company.
 
+I would recognize you in total darkness, were you mute and I deaf. I would recognize you in another lifetime entirely, in different bodies, different times. And I would love you in all of this, until the very last star in the sky burnt out into oblivion."
+
 ![image](../media/Life-Relationship-People-image1.jpg)
 
-1. **Body:**The condition of your body, including your diet, stamina, strength, and recovery.
+1. **Body:** The condition of your body, including your diet, stamina, strength, and recovery.
 
-2. **Mind:**[Your ability to focus](http://email.c.kajabimail.net/c/eJwdjstuwyAURL_GbCoQl5fDgkWqJlLX_YAIw3VCYkOEcdT-fWml2cxopHOi0zrGiSQnuODcCgDFreQMmOLHk7Yn825Go_o6KB7Yw9_9lFafFpaxkZvjQhmp7AzChzjJcNDj7HXQdoSDVRLI4m6tPbdBHgdx7om-pn2bSy37Nwtl7dNcwr7RCVvDSlef_RWp7yW3VDLNpdGWVuxHgn_kS8QlvbD-XFJ0FEajFVjgilQXEZ_-sZUSDdgufP037RTS3Fdq-Pb5MQiplda_n4hMdg), rest, and acquire knowledge.
+2. **Mind:** [Your ability to focus](http://email.c.kajabimail.net/c/eJwdjstuwyAURL_GbCoQl5fDgkWqJlLX_YAIw3VCYkOEcdT-fWml2cxopHOi0zrGiSQnuODcCgDFreQMmOLHk7Yn825Go_o6KB7Yw9_9lFafFpaxkZvjQhmp7AzChzjJcNDj7HXQdoSDVRLI4m6tPbdBHgdx7om-pn2bSy37Nwtl7dNcwr7RCVvDSlef_RWp7yW3VDLNpdGWVuxHgn_kS8QlvbD-XFJ0FEajFVjgilQXEZ_-sZUSDdgufP037RTS3Fdq-Pb5MQiplda_n4hMdg), rest, and acquire knowledge.
 
-3. **Love:**Your relationship with family, friends, kids, and intimate partner.
+3. **Love:** Your relationship with family, friends, kids, and intimate partner.
 
-4. **Work:**How much inner satisfaction and financial rewards you receive from your career.
+4. **Work:** How much inner satisfaction and financial rewards you receive from your career.
 
-5. **Money:**What you do with the money youhave.
+5. **Money:** What you do with the money youhave.
 
-6. **Play:**How well you're able to entertain yourself.
+6. **Play:** How well you're able to entertain yourself.
 
 <https://dariusforoux.com/six-spokes-theory>
 
@@ -330,16 +332,12 @@ Developmental psychology has shown that kids come into the world, already knowin
 ![image](../media/Life-Relationship-People-image4.jpg)
 
 1. **Harm/care**
-
 2. **Fairness/reciprocity**
-
 3. **Ingroup/loyalty**
-
 4. **Authority/respect**
-
 5. **Purity/sanctity**
 
-6. ![image](../media/Life-Relationship-People-image5.jpg)
+![image](../media/Life-Relationship-People-image5.jpg)
 
 <https://www.youtube.com/watch?v=8SOQduoLgRw>
 

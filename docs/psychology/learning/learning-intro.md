@@ -474,3 +474,5 @@ You understand an idea not when you've memorized it, but when you know why its s
 [You're Not Slow: Become a Speed Learner in 20 Minutes](https://www.youtube.com/watch?v=_wzJnWCBWkI)
 
 [Ultralearning](../../book-summaries/ultralearning)
+
+[When is Learning Worth the Effort? - Scott H Young](https://www.scotthyoung.com/blog/2023/05/30/learning-cost-benefit/)

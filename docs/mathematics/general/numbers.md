@@ -118,11 +118,13 @@ Euler's Number - 2.71828182845
 Pi - 3.14159 265 359
 
 sqrt(2) - 1.4142135
+
 <https://en.wikipedia.org/wiki/List_of_mathematical_constants>
 
 ## Aleph Numbers (א)
 
 In [mathematics](https://en.wikipedia.org/wiki/Mathematics), and in particular [set theory](https://en.wikipedia.org/wiki/Set_theory), thealeph numbersare a sequence of numbers used to represent the [cardinality](https://en.wikipedia.org/wiki/Cardinality)(or size) of [infinite sets](https://en.wikipedia.org/wiki/Infinite_set) that can be [well-ordered](https://en.wikipedia.org/wiki/Well-ordered). They are named after the symbol used to denote them, the [Hebrew](https://en.wikipedia.org/wiki/Hebrew_alphabet) letter [aleph](https://en.wikipedia.org/wiki/Aleph)(א) (though in older mathematics books the letter aleph is often printed upside down by accident, partly because a [monotype](https://en.wikipedia.org/wiki/Monotype) matrix for aleph was mistakenly constructed the wrong way up).
+
 <https://en.wikipedia.org/wiki/Aleph_number>
 
 ## Euler's Number (e - 2.71828182845)
@@ -130,13 +132,15 @@ In [mathematics](https://en.wikipedia.org/wiki/Mathematics), and in particular [
 e is the natural language of growth
 
 e is the epitome of the universal growth
+
 <https://www.youtube.com/watch?v=AuA2EAgAegE&ab_channel=Numberphile>
 
 <https://www.youtube.com/watch?v=yTfHn9Aj7UM&ab_channel=BetterExplained>
 
 ## Euler's Identity
 
-Most beautiful equation - e^iπ^+ 1 = 0
+Most beautiful equation - `e^iπ^+ 1 = 0`
+
 The five contants are:
 
 - The [number 0](https://www.livescience.com/27853-who-invented-zero.html).
@@ -144,3 +148,5 @@ The five contants are:
 - The [numberπ](https://www.livescience.com/29197-what-is-pi.html), an irrational number (with unending digits) that is the ratio of the circumference of a circle to its diameter. It is approximately 3.14159...
 - The numbere, also an irrational number. It is the base of [natural logarithms](https://www.livescience.com/50940-logarithms.html) that arises naturally through study of compound interest and [calculus](https://www.livescience.com/50777-calculus.html). The numberepervades math, appearing seemingly from nowhere in a vast number of important equations. It is approximately 2.71828....
 - The [numberi](https://www.livescience.com/42748-imaginary-numbers.html), defined as the square root of negative one: √(-1). The most fundamental of the imaginary numbers, so called because, in reality, no number can be multiplied by itself to produce a negative number (and, therefore, negative numbers have no real square roots). But in math, there are many situations where one is forced to take the square root of a negative. The letteriis therefore used as a sort of stand-in to mark places where this was done.
+
+[The Strange Number System Where Infinity Is Tiny - YouTube](https://www.youtube.com/watch?v=tRaq4aYPzCc&ab_channel=Veritasium)

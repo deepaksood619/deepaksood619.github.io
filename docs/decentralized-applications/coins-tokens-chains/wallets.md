@@ -29,6 +29,7 @@ Not your keys not your coins
   - [MetaMask Portfolio dApp](https://portfolio.metamask.io/)
   - [MetaMask under the hood—not just a crypto wallet - Chainstack](https://chainstack.com/metamask-behind-the-scenes-not-only-a-crypto-wallet/)
 - Trustwallet (Multi Coin Wallet)
+- [Best Crypto Wallet for Desktop & Mobile: Altcoin & Bitcoin | Exodus](https://www.exodus.com/) (Multi Coin Wallet)
 - [Leap Wallet](https://www.leapwallet.io/)
 - [Cake Wallet](https://cakewallet.com/)
 - [Buy Bitcoin &amp; cryptocurrency | Wallet, news, education](https://www.bitcoin.com/)

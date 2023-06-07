@@ -79,6 +79,10 @@ For the last two years, fixed deposit investors have been a grieving lot with FD
 
 There is usually a time lag between a vendor supplying goods or services and he getting paid for it. Now, to better manage cash flows during this period, vendors typically approach a bank or a financial institution who then purchases these receivables at a discount for upfront cash. Today, several platforms like KredX, Jiraaf, TradeCred etc. have skipped the banking connection and match vendors and investors who are keen to participate in this financial opportunity Now, invoices can run into lakhs and even crores which is why these platforms break up an invoice into manageable parts allowing investors to buy a fraction of the unpaid invoice amount. The minimum investment amount changes from deal to deal but we do see transactions starting from 50,000 rupees in some cases. These opportunities typically run for a short tenure of 30 to 90 days and the pre-tax IRR can be as high as 15%.
 
+Is a method of financing used by small businesses to fulfil their working capital requirements
+
+[TradeCred](https://www.tradecred.com/)
+
 ## Masterworks
 
 Masterworks is the first platform for buying and selling shares representing an investment in iconic artworks.
@@ -163,7 +167,6 @@ If you hope to distinguish yourself in terms of performance, you have to depart 
 <https://freefincal.com/mutual-fund-faq-new-investors>
 
 [**https://freefincal.com/how-rohits-early-struggles-defined-his-investment-journey/**](https://freefincal.com/how-rohits-early-struggles-defined-his-investment-journey/)
-
 [**https://freefincal.com/how-abhisek-funded-his-marriage-is-on-track-to-financial-freedom/**](https://freefincal.com/how-abhisek-funded-his-marriage-is-on-track-to-financial-freedom/)
 
 ## Financial planning
@@ -171,6 +174,7 @@ If you hope to distinguish yourself in terms of performance, you have to depart 
 - <https://www.businesstoday.in/magazine/money-today/investment/as-good-as-it-gets/story/256057.html>
 - [Build Your Own Stock Portfolio Tracker On Google Sheets](https://youtu.be/qtY1NOVQ6iE)
 - [The best stock tracker templates for Google Sheets](https://www.spreadsheetclass.com/google-sheets-stock-tracker-templates/)
+- [Stock Portfolio Tracking Spreadsheet - Google Sheets](https://docs.google.com/spreadsheets/d/1Ajox_mGj_prTqfIWSSF1xcaDEBm6ZuZZDInZ1Es-_bM/edit#gid=4)
 - Finshots Money Financial Planning Calculator - <https://docs.google.com/spreadsheets/d/13LUIThaOS_QLXAtQz4gxEA7v5UaZQsp3/edit#gid=262879150>
 
 ## Courses
@@ -197,6 +201,8 @@ Finance for Everyone
   - Taxed as per income tax slab
 - Sold after 3 years - Long term Capital Gains
   - 20% tax after indexation
+
+[Calculated the Returns | Gold vs Digital Gold vs SGB vs ETF | SHOCKING RESULTS | LLA - YouTube](https://www.youtube.com/watch?v=UcXeVBMbC_E)
 
 [Should we include gold in our long term investment portfolios?](https://www.youtube.com/watch?v=VUx1h9OLp4I)
 
