@@ -142,7 +142,7 @@ Staging tables:
 - For copying a large number of rows (> hundreds of millions) consider using ALTER TABLE APPEND instead of INSERT INTO SELECT
 VACUUM and ANALYZE
 
-VACCUM will globally sort the table and remove rows that are marked as deleted
+VACUUM will globally sort the table and remove rows that are marked as deleted
 
 - For tables with a sort key, ingestion operations will locally sort new data and write it into the unsorted region
 ANALYZE collects table statistics for optimal query planning

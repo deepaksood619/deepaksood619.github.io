@@ -26,11 +26,7 @@ I have used four types of wildcards; they are:
 - Bracket ([]): It is used to represent or search any single character within the specified range.
 - Caret (^): It is used to represent or search any single character not within the specified range.
 
-## Example
-
-`-- Like Operator`
-
-`Select User_ID, FirstName, LastName, Salary from UserDetail where FirstName LIKE '%h%';`
+`SELECT User_ID, FirstName, LastName, Salary FROM UserDetail WHERE FirstName LIKE '%h%';`
 
 <https://www.quora.com/What-is-a-predicate-in-SQL>
 
@@ -43,12 +39,70 @@ I have used four types of wildcards; they are:
 
 <https://www.dofactory.com/sql/subquery>
 
-## SQL Window Functions
+### Scalar Subquery
 
-Window functions can be simply explained as calculation functions similar to aggregating, but where normal aggregating via theGROUP BYclause combines then hides the individual rows being aggregated, window functions have access to individual rows and can add some of the attributes from those rows into the result set.
+A scalar subquery returns a single value (one column and one row) to be used by the outer query.
 
-![image](../../media/sql-Concepts-image1.jpg)
+### Correlated subqueries
 
-<https://www.toptal.com/sql/intro-to-sql-windows-functions>
+Subqueries which are dependent on the main query are called correlated subqueries
 
-<https://mjk.space/advances-sql-window-frames>
+```sql
+--- We want to find all countries whose area is equal to or smaller than the minimum city area in that particular country. In other words, if there is a country smaller than its smallest city, it will be shown. Why would we use such a query? It can be very convenient if we want to check whether there any are errors in our database. If this query returned anything other than nothing, we would know that something fishy is going on in our records.
+SELECT * FROM country WHERE area <= (
+  SELECT MIN(area) FROM city WHERE city.country_id = country.id
+);
+```
+
+What's the new piece here? Take a look at the `WHERE` clause in the subquery. That's right, it uses `country.id`. Which country does it refer to? The country from the **main clause** of course. This is the secret behind correlated subqueries – if you ran the subquery alone, your database would say:
+
+'Hey, you want me to compare `city.country_id` to `country.id`, but there are tons of ids in the table `country`, so I don't know which one to choose'.
+
+But if you run the instruction as a subquery and the main clause browses the table `country`, then the database will each time compare `country.id` from the subquery with the current `country.id` from the main clause.
+
+Just remember the golden rule: **subqueries can use tables from the main query, but the main query can't use tables from the subquery!**
+
+#### Use Alias when using same table in correlated subqueries
+
+```sql
+SELECT * FROM city main_city WHERE population > (
+  SELECT AVG(population) FROM city  average_city
+  WHERE average_city.country_id = main_city.country_id
+);
+```
+
+#### Others
+
+```sql
+-- ALL with correlated subqueries
+SELECT * FROM trip main_trip WHERE price >= ALL (
+  SELECT price FROM trip sub_trip
+  WHERE main_trip.city_id = sub_trip.city_id
+);
+
+-- EXISTS and NOT EXISTS with correlated subqueries
+SELECT * FROM city WHERE NOT EXISTS (
+  SELECT * FROM trip WHERE city_id = city.id
+);
+
+-- The above query compares city trips and hiking trips which last the same number of dates. It then returns all hiking trips which are cheaper than any city trip of the same duration.
+SELECT * FROM hiking_trip WHERE price < ANY (
+  SELECT price FROM trip WHERE trip.days = hiking_trip.days
+);
+```
+
+## Comparisons
+
+### EXISTS vs IN vs JOIN
+
+Surprisingly doing a join is usually faster then a large IN statement, this is because the values in the IN are not indexed, so MySQL can not do an index join on them. But this only applies with lots of values - for small number of them using IN could be faster.
+
+Personally, I would use the JOIN method until the point that you see this query becoming a problem. (Which would only happen if you had some very complex conditionals to check, that could get slow to do twice). The join is simpler code, and most likely will be super fast - so don't make things more complicated without a specific reason.
+
+A regular JOIN can be used to find matching values in a subquery. Like EXISTS, JOIN allows one or more columns to be used to find matches. Unlike EXISTS, JOIN isn't as confusing to implement. The downside to JOIN is that if the subquery has any identical rows based on the JOIN predicate, then the main query will repeat rows which could lead to invalid query outputs. Both IN and EXISTS will ignore duplicate values in a subquery. Take extra precaution when joining to a table in this fashion.
+
+[SQL EXISTS vs IN vs JOIN Performance Comparison](https://www.mssqltips.com/sqlservertip/6659/sql-exists-vs-in-vs-join-performance-comparison/)
+
+[Subquery vs. JOIN | LearnSQL.com](https://learnsql.com/blog/subquery-vs-join/)
+
+[MySQL :: MySQL 8.0 Reference Manual :: 8.2.2.1 Optimizing IN and EXISTS Subquery Predicates with Semijoin Transformations](https://dev.mysql.com/doc/refman/8.0/en/semijoins.html)

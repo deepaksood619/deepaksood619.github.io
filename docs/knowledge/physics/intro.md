@@ -56,3 +56,5 @@ Neutron - 1 up quark and 2 down quarks
 [How did Michael Faraday invent? – with David Ricketts - YouTube](https://www.youtube.com/watch?v=z1uOsg2-LTA&ab_channel=TheRoyalInstitution)
 
 [The magic of physics - with Felix Flicker - YouTube](https://www.youtube.com/watch?v=H3wSaLSXdBM&ab_channel=TheRoyalInstitution)
+
+[Particle physics made easy - with Pauline Gagnon - YouTube](https://www.youtube.com/watch?v=Gg35wa82pLQ)

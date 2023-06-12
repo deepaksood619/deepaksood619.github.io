@@ -79,6 +79,10 @@ As Databricks continues to add features and capabilities, we can also Auto Tune 
 
 ![z-order](../../../media/Pasted%20image%2020230320173453.png)
 
+If you expect a column to be commonly used in query predicates and if that column has high cardinality (that is, a large number of distinct values), then use `ZORDER BY`.
+
+You can specify multiple columns for `ZORDER BY` as a comma-separated list. However, the effectiveness of the locality drops with each extra column. Z-ordering on columns that do not have statistics collected on them would be ineffective and a waste of resources. This is because data skipping requires column-local stats such as min, max, and count. You can configure statistics collection on certain columns by reordering columns in the schema, or you can increase the number of columns to collect statistics on.
+
 To improve query speed, Delta Lake supports the ability to optimize the layout of data stored in cloud storage with [Z-Ordering](https://docs.databricks.com/delta/optimizations/file-mgmt.html), also known as multi-dimensional clustering. Z-Orders are used in similar situations as clustered indexes in the database world, though they are not actually an auxiliary structure. A Z-Order will cluster the data in the Z-Order definition, so that rows like column values from the Z-order definition are collocated in as few files as possible.
 
 Most database systems introduced indexing as a way to improve query performance. Indexes are files, and thus as the data grows in size, they can become another big data problem to solve. Instead, Delta Lake orders the data in the Parquet files to make range selection on object storage more efficient. Combined with the stats collection process and data skipping, Z-Order is similar to seek vs. scan operations in databases, which indexes solved, without creating another compute bottleneck to find the data a query is looking for.
@@ -92,6 +96,8 @@ OPTIMIZE MY_FACT_TABLE
 
 Additionally, if you have tremendous scale and 100's of billions of rows or Petabytes of data in your fact table, you should consider partitioning to further improve file skipping. Partitions are effective when you are actively filtering on a partitioned field.
 
+[Data skipping with Z-order indexes for Delta Lake | Databricks on AWS](https://docs.databricks.com/delta/data-skipping.html)
+
 ### Create Z-Orders on your dimension key fields and most likely predicates
 
 Although Databricks does not enforce primary keys on a Delta table, since you are reading this blog, you likely have dimensions and a surrogate key exists - one that is an integer or big integer and is validated and expected to be unique.
@@ -102,6 +108,13 @@ One of the dimensions we were working with had over 1 billion rows and benefitte
 OPTIMIZE MY_BIG_DIM
   ZORDER BY (MY_BIG_DIM_PK, LIKELY_FIELD_1, LIKELY_FIELD_2)
 ```
+
+## Partitions vs Z-Ordering
+
+- Z-order works in tandem with the `OPTIMIZE` command. You cannot combine files across partition boundaries, and so Z-order clustering can only occur within a partition. For unpartitioned tables, files can be combined across the entire table.
+- Partitioning works well only for low or known cardinality fields (for example, date fields or physical locations), but not for fields with high cardinality such as timestamps. Z-order works for all fields, including high cardinality fields and fields that may grow infinitely (for example, timestamps or the customer ID in a transactions or orders table).
+
+[When to partition tables on Databricks | Databricks on AWS](https://docs.databricks.com/tables/partitions.html)
 
 ## Analyze Table to gather statistics for Adaptive Query Execution Optimizer
 

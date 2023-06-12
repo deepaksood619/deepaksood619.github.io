@@ -1,5 +1,17 @@
 # Window Functions
 
+Window functions can be simply explained as calculation functions similar to aggregating, but where normal aggregating via the GROUP BY clause combines then hides the individual rows being aggregated, window functions have access to individual rows and can add some of the attributes from those rows into the result set.
+
+![image](../../../media/sql-Concepts-image1.jpg)
+
+<https://www.toptal.com/sql/intro-to-sql-windows-functions>
+
+<https://mjk.space/advances-sql-window-frames>
+
+### What are window functions?
+
+They make building **complex aggregations** much simpler. They are so powerful that they serve as a dividing point in time: people talk about SQL before window functions and SQL after window functions. After window functions and Common Table Expressions were introduced to SQL, SQL has become Turing complete!
+
 Window functions operate on a group of rows, referred to as a window, and calculate a return value for each row based on the group of rows. Window functions are useful for processing tasks such as calculating a moving average, computing a cumulative statistic, or accessing the value of rows given the relative position of the current row.
 
 ## Syntax

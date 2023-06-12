@@ -142,5 +142,6 @@ Performance metrics - <https://stackoverflow.com/a/37654411/5424888>
 [**https://university.mongodb.com/**](https://university.mongodb.com/)
 
 [**https://medium.com/swlh/mongodb-developer-roadmap-for-2021-bec3eb10891d**](https://medium.com/swlh/mongodb-developer-roadmap-for-2021-bec3eb10891d)
-
 [MongoDB Internal Architecture](https://www.youtube.com/watch?v=ONzdr4SmOng)
+
+[Building with Patterns: The Document Versioning Pattern | MongoDB](https://www.mongodb.com/blog/post/building-with-patterns-the-document-versioning-pattern)

@@ -60,6 +60,9 @@ Quote of the Week:"Computer programming is an art because it applies accumulated
 - <https://programmingdigest.net>
 - Medium Daily Digest
 - PyCoder's Weekly
+- Python Weekly
+- Programmer Weekly
+- Metadata weekly
 
 ## Learning + Taking notes
 

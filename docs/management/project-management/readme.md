@@ -8,4 +8,5 @@
 - [Agile](agile)
 - [Scrum / Meetings](scrum-meetings)
 - [Goal Setting](management/project-management/goal-setting.md)
+- [PM Template](management/project-management/template.md)
 - [Others](management/project-management/others.md)

@@ -298,6 +298,30 @@ UNION ALL
 SELECT column_name(s) FROM table_name2
 ```
 
+### INTERSECT
+
+Well, `UNION` gave you all the results from the first query PLUS the results from the second query. `INTERSECT`, on the other hand, only shows the rows which belong to **BOTH** tables.
+
+```sql
+-- names of each person who has medals both in cycling and in skating.
+select person from skating
+INTERSECT
+select person from cycling
+```
+
+### EXCEPT
+
+`EXCEPT` shows all the results from the first (left) table with the **exception** of those that also appeared in the second (right) table.
+
+Some databases use the keyword `MINUS` instead of `EXCEPT`.
+
+```sql
+-- all the countries which have a medal in cycling but not in skating.
+select country from cycling
+except
+select country from skating
+```
+
 ### WITH
 
 ```sql

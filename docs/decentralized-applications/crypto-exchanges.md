@@ -8,6 +8,8 @@
 
 [The Top Three Highest Ranking Crypto Websites on Alexa](https://medium.com/@BountyBase/the-top-three-highest-ranking-crypto-websites-on-alexa-2a0afb0dbe61)
 
+[DeFi Exchanges 2023: List of Top Decentralized Exchanges](https://milkroad.com/exchanges)
+
 [Top Cryptocurrency Spot Exchanges](https://coinmarketcap.com/rankings/exchanges)
 
 The Top Three Highest Ranking Crypto Websites on Alexa

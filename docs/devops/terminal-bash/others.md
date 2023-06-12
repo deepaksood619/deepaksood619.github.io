@@ -69,6 +69,12 @@ jq '.accounts[] | select(.userID == "77925937-d719-4ff6-9125-a9199ab6a9b6")' mer
 
 <https://stedolan.github.io/jq>
 
+## fq
+
+jq for binary formats - tool, language and decoders for working with binary and text formats
+
+[GitHub - wader/fq: jq for binary formats - tool, language and decoders for working with binary and text formats](https://github.com/wader/fq)
+
 ## Networking - socat
 
 socat is a command line based utility that establishes two bidirectional byte streams and transfers data between them. Because the streams can be constructed from a large set of different types of data sinks and sources (see [address types](http://www.dest-unreach.org/socat/doc/socat.html#ADDRESS_TYPES)), and because lots of [address options](http://www.dest-unreach.org/socat/doc/socat.html#ADDRESS_OPTIONS) may be applied to the streams, socat can be used for many different purposes

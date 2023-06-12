@@ -95,3 +95,5 @@
 [11 Best Defi Crypto Coins to Buy In 2023 — tastycrypto](https://www.tastycrypto.com/blog/top-defi-tokens)
 
 [Why Do People Buy Crypto | CoinGecko](https://www.coingecko.com/research/publications/why-people-buy-crypto)
+
+[The TOP Countries With ZERO CRYPTO TAXES - YouTube](https://www.youtube.com/watch?v=tdlmv4iHFb4&ab_channel=MoneyRules-InvestingTips)

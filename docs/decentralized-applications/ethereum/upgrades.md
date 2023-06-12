@@ -63,6 +63,12 @@ Ethereum social consensus, _for other purposes_:
 - **Re-staking**: a set of techniques, used by many protocols including [EigenLayer](https://www.eigenlayer.xyz/), where Ethereum stakers can simultaneously use their stake as a deposit in another protocol. In some cases, if they misbehave according to the other protocol's rules, their deposit also gets slashed. In other cases, there are no in-protocol incentives and stake is simply used to vote.
 - **L1-driven recovery of L2 projects**: it has been proposed on many occasions that if an L2 has a bug, the L1 could fork to recover it. One recent example is [this design for using L1 soft forks to recover L2 failures](https://stack.optimism.io/docs/understand/explainer/#unfreezing-the-bridge-via-l1-soft-fork).
 
+## [Three Transitions for Ethereum Future](https://vitalik.ca/general/2023/06/09/three_transitions.html)
+
+- **The L2 scaling transition** - everyone [moving to rollups](https://ethereum-magicians.org/t/a-rollup-centric-ethereum-roadmap/4698)
+- **The wallet security transition** - everyone moving to [smart contract wallets](https://vitalik.ca/general/2021/01/11/recovery.html)
+- **The privacy transition** - making sure privacy-preserving funds transfers are available, and making sure all of the _other_ gadgets that are being developed (social recovery, identity, reputation) are privacy-preserving
+
 ## Others
 
 [Intro to ERC 6551 - Token Bound Accounts - Jayden Windle - YouTube](https://www.youtube.com/watch?v=6WoNRbkZOaU)

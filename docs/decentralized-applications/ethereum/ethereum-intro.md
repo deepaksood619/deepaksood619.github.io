@@ -150,6 +150,10 @@ Maximal extractable value was first applied in the context of proof-of-work, and
 
 [MEVeconomics in L2 - A Closer Look at the Sequencer's Role and MEV - Patrick McCorry - YouTube](https://www.youtube.com/watch?v=kb8nY2-Osjc&ab_channel=ETHGlobal)
 
+[MEVconomics for Modular Blockchain Stacks - John Adler - YouTube](https://www.youtube.com/watch?v=Tsg8fiQUdjY&ab_channel=ETHGlobal)
+
+[The MEVconomics of bridging - James Prestwich - YouTube](https://www.youtube.com/watch?v=W0ZJ_MamKM4&ab_channel=ETHGlobal)
+
 ## Testing
 
 [What are Testnets?](https://www.alchemy.com/overviews/what-are-testnets)

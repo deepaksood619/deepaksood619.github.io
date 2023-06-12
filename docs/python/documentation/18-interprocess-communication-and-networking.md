@@ -10,7 +10,7 @@
 - [18.8.signal - Set handlers for asynchronous events](https://docs.python.org/3/library/signal.html)
 - [18.9.mmap - Memory-mapped file support](https://docs.python.org/3/library/mmap.html)
 
-## Useasynciowhen you can, threadingwhen you must
+**Use asyncio when you can, threading when you must**
 
 ## Async
 
@@ -69,72 +69,56 @@ Asynchronous HTTP Client/Server for asyncioand Python.
 pip install aiohttp [speedups]
 
 import asyncio
-
 import time
-
 import aiohttp
 
 async def download_site(session, url):
-
-async with session.get(url) as response:
-
-print("Read {0} from {1}".format(response.content_length, url))
-
-res_text = await response.text()
-
-print(f"{i} {url} {response.status} {res_text}n")
+ async with session.get(url) as response:
+  print("Read {0} from {1}".format(response.content_length, url))
+  res_text = await response.text()
+  print(f"{i} {url} {response.status} {res_text}n")
 
 async def download_all_sites(sites):
 
-# 6 hours of timeout for the whole process
-
-timeout = aiohttp.ClientTimeout(total=21600)
+ # 6 hours of timeout for the whole process
+ timeout = aiohttp.ClientTimeout(total=21600)
 
 async with aiohttp.ClientSession(
-
 connector=aiohttp.TCPConnector(limit=15), timeout=timeout
-
 ) as session:
 
 tasks = []
-
 for url in sites:
-
-task = asyncio.ensure_future(download_site(session, url))
-
-tasks.append(task)
+ task = asyncio.ensure_future(download_site(session, url))
+ tasks.append(task)
 
 await asyncio.gather(*tasks, return_exceptions=True)
 
 if **name** == "**main**":
 
 sites = [
-
 "<https://www.jython.org>",
-
 "<http://olympus.realpython.org/dice>",
-
 ] * 80
 
 start_time = time.time()
-
 asyncio.get_event_loop().run_until_complete(download_all_sites(sites))
-
 duration = time.time() - start_time
-
 print(f"Downloaded {len(sites)} sites in {duration} seconds")
 
 ## # default number of sessions = 100
 
-Can be changed - async with aiohttp.ClientSession(connector=aiohttp.TCPConnector(limit=10)) as session:
+# Can be changed
+async with aiohttp.ClientSession(connector=aiohttp.TCPConnector(limit=10)) as session:
 ```
 
-<https://realpython.com/python-concurrency>
-<https://realpython.com/async-io-python>
-<https://docs.aiohttp.org/en/stable>
-<https://aiohttp-demos.readthedocs.io/en/latest/index.html>
-<https://www.roguelynn.com/words/asyncio-we-did-it-wrong>
+- <https://realpython.com/python-concurrency>
+- <https://realpython.com/async-io-python>
+- <https://docs.aiohttp.org/en/stable>
+- <https://aiohttp-demos.readthedocs.io/en/latest/index.html>
+- <https://www.roguelynn.com/words/asyncio-we-did-it-wrong>
+- [Use These Methods to Make Your Python Concurrent Tasks Perform Better | by Peng Qian | Apr, 2023 | Towards Data Science](https://towardsdatascience.com/use-these-methods-to-make-your-python-concurrent-tasks-perform-better-b693b7a633e1)
 
 ## Questions
 
-- How to catch and print exceptions
+- How to catch and print exceptions inside threads / processes

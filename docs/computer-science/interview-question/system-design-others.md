@@ -33,13 +33,9 @@
 ## Cluster Manager
 
 1. Allocates account
-
 2. Disaster recovery
-
 3. Resource track
-
 4. Holds policies Authentication + Authorization
-
 5. Manages Cluster- **Hash(UUID) - Partition Map Table**
 
 - **Consistent Hashing**
@@ -49,16 +45,12 @@
 ## Streaming layer (Stream Manager)
 
 1. Append only
-
 2. Seal
-
 3. Garbage collection
-
 4. Replication
-
 5. Health of FS
-
 6. Store offsets
+
 ![image](../../media/System-Design-Others-image5.jpg)
 <https://www.youtube.com/watch?v=UmWtcgC96X8>
 
@@ -126,3 +118,7 @@ Non-functional requirements
 HTTP + json is not good (because contract is not upheld from developers while sending apis)
 
 [Overview of Discord's data platform that daily processes petabytes of data and trillion points - YouTube](https://www.youtube.com/watch?v=yGpEzO32lU4)
+
+[10 Tips for Building Resilient Payment Systems (2023)](https://shopify.engineering/building-resilient-payment-systems)
+
+- [How Shopify’s engineering improved database writes by 50% with ULID - YouTube](https://www.youtube.com/watch?v=f53-Iw_5ucA)

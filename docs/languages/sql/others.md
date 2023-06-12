@@ -20,9 +20,9 @@ select * from abc join xyz on abc.id = xyz.id;
 
 <https://www.essentialsql.com/introduction-common-table-expressions-ctes>
 
-## When should I use a unique contraint instead of a unique index
+## When should I use a unique constraint instead of a unique index
 
-Under the hood a unique constraint is implemented the same way as a unique index - an index is needed to efficiently fulfill the requirement to enforce the constraint. Even if the index is created as a result of a UNIQUE constraint, the query planner can use it like any other index if it sees it as the best way to approach a given query.
+Under the hood a unique constraint is implemented the same way as a unique index - an index is needed to efficiently fulfil the requirement to enforce the constraint. Even if the index is created as a result of a UNIQUE constraint, the query planner can use it like any other index if it sees it as the best way to approach a given query.
 
 So for a database that supports both features the choice of which to use will often come down to preferred style and consistency.
 

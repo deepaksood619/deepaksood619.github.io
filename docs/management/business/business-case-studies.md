@@ -337,3 +337,5 @@ Marketing tactic used, light the agarbatti in-front of store and left for 2 days
 [Hindenburg has Killed Adani Group?: Decoding Adani’s response to Hindenburg (Business case study)](https://www.youtube.com/watch?v=4WSAeT_XDaI)
 
 [How TATA’s GENIUS strategy is turning TATA Tech into a LEGEND? : Tata technologies case study - YouTube](https://www.youtube.com/watch?v=BlDYS_2X5wI&ab_channel=ThinkSchool)
+
+[The Extravagant Business of Cruises - YouTube](https://www.youtube.com/watch?v=QqQtV7wHSV0)

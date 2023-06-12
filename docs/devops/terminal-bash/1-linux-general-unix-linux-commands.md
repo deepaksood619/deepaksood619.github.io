@@ -221,6 +221,15 @@ display or set date and time
 
 `echo $(($(date +%s%N)/1000000)) # using nanoseconds`
 
+### history
+
+```bash
+history
+
+# clear all terminal history
+history -c && history -w
+```
+
 ### List directory contents
 
 ```bash

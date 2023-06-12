@@ -334,6 +334,7 @@ Indian History - <https://www.anirudhkanisetti.com/podcasts>
 - Lenny's newsletter
 - Smallcase
 - Weekly Grow Digest
+- James Clear
 
 ## Tools
 

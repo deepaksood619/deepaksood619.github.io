@@ -104,3 +104,5 @@ PSNR is commonly used to quantify reconstruction quality for images and video su
 <https://www.freecodecamp.org/news/advanced-computer-vision-with-python>
 
 [Comic book panel segmentation • Max Halford](https://maxhalford.github.io/blog/comic-book-panel-segmentation/)
+
+[Unbelievable Face Swapping with 5 Lines Code - YouTube](https://www.youtube.com/watch?v=a8vFMaH2aDw)

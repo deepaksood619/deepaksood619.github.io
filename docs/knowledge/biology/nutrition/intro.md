@@ -26,17 +26,30 @@ Fat has an [energy](https://en.wikipedia.org/wiki/Energy) content of 9 [kcal](ht
 
 ### Types
 
-- Saturated fat - Single bond between their molecules
-  - Solid at room temperature
-  - Butter, Cheese
-- Un-saturated fat - One or more double or triple bond between the molecules
-  - Liquid at room temperature
-  - Olive oil, Sunflower oil
-- Trans fat
-  - Natural trans fat (Meat)
-  - Artificial trans fat (Industrial, Partially hyderogenerated fats)
+#### Saturated fat - Single bond between their molecules
+
+- Solid at room temperature
+- Butter, Cheese
+
+#### Un-saturated fat - One or more double or triple bond between the molecules
+
+- Liquid at room temperature
+- Olive oil, Sunflower oil
+
+#### Trans fat
+
+- Natural trans fat (Meat)
+- Artificial trans fat (Industrial, Partially hyderogenerated fats)
 
 <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2769584>
+
+#### Visceral body fat
+
+Visceral body fat, also known as 'hidden' fat, is **fat stored deep inside the belly, wrapped around the organs, including the liver and intestines**. It makes up about one tenth of all the fat stored in the body.
+
+#### Subcutaneous fat
+
+Most fat is stored underneath the skin and is known as subcutaneous fat.
 
 ## Micronutrient
 

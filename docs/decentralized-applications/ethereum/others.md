@@ -5,7 +5,9 @@
 - Ethereum is the only major protocol building a scalable unified settlement and data availability layer
 - Rollups scale computation while leveraging Ethereum’s security
 - All roads lead to the endgame of centralized block production, decentralized trustless block validation, and censorship resistance
-- Innovations such as proposer-builder separation and weak statelessness unlock this separation of powers (building and validating) to achieve scalability without sacrificing security or decentralization
+- Innovations such as proposer-builder separation (PBS) and weak statelessness unlock this separation of powers (building and validating) to achieve scalability without sacrificing security or decentralization
+  - [Proposer-builder separation | ethereum.org](https://ethereum.org/nl/roadmap/pbs/)
+  - [State of research: increasing censorship resistance of transactions under proposer/builder separation (PBS) - HackMD](https://notes.ethereum.org/@vbuterin/pbs_censorship_resistance)
 - MEV is now front and center – numerous designs are planned to mitigate its harm and prevent its centralizing tendencies
 - Danksharding combines multiple avenues of cutting edge research to provide the scalable base layer required for Ethereum’s rollup-centric roadmap
 - I do expect danksharding to be implemented within our lifetimes

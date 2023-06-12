@@ -58,9 +58,37 @@ When in dynamic partition overwrite mode, operations overwrite all existing data
 
 [Selectively overwrite data with Delta Lake | Databricks on AWS](https://docs.databricks.com/delta/selective-overwrite.html)
 
-## Vaccum
+### Partitioning best practice
+
+Data in Spark is ideally stored in a smaller number of large files between [128MB and 1GB in size](https://docs.databricks.com/delta/optimizations/auto-optimize.html). This allows the driver and workers to operate efficiently. Having the data fragmented into many small files will slow down reading of the Delta store and will overload the driver memory as it attempts to load metadata for many small files into memory at once.
+
+There are two causes of file fragmentation — unoptimized updates and excessive partitioning.
+
+#### Unoptimized updates
+
+In a continuously streaming Delta stream, data is added in small chunks over time as it streams in in a series of micro batches. With default configuration this will cause the creation of a huge number of small files.
+
+#### Excessive partitioning
+
+If a data column with high ordinality (many discrete values) is chosen as a partition, the Delta store can end up with thousands of partitions. This makes the data look tidy in the file store but causes each micro batch of data to be split into many small files.
+
+#### The deadly combination
+
+If a stream has unoptimized updates and excessive partitioning, then the two factors multiply. A delta store organised this way can easily end up with millions of small fragmented files (the number of partitions times the number of tiny updates per partition).
+
+[Databricks Delta — Partitioning best practice | by gregzrichardson | Nintex Developers | Medium](https://medium.com/nintex-developers/databricks-delta-partitioning-best-practice-c19df9c8a7d2)
+
+## Vacuum
 
 [Remove unused data files with vacuum | Databricks on AWS](https://docs.databricks.com/delta/vacuum.html)
+
+```sql
+VACUUM cake.dev.transactions;
+
+VACUUM cake.dev.transactions RETAIN 168 HOURS;
+```
+
+[VACUUM | Databricks on AWS](https://docs.databricks.com/sql/language-manual/delta-vacuum.html)
 
 ## Clone
 

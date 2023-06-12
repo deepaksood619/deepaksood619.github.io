@@ -16,15 +16,15 @@ Theeffective_cache_sizeprovides an estimate of the memory available for disk cac
 
 #### work_mem
 
-This configuration is used for complex sorting. If you have to do complex sorting then increase the value ofwork_memfor good results. In-memory sorts are much faster than sorts spilling to disk. Setting a very high value can cause a memory bottleneck for your deployment environment because this parameter is per user sort operation. Therefore, if you have many users trying to execute sort operations, then the system will allocatework_mem *totalsortoperations* for all users. Setting this parameter globally can cause very high memory usage. So it is highly recommended to modify this at the session level.
+This configuration is used for complex sorting. If you have to do complex sorting then increase the value ofwork_memfor good results. In-memory sorts are much faster than sorts spilling to disk. Setting a very high value can cause a memory bottleneck for your deployment environment because this parameter is per user sort operation. Therefore, if you have many users trying to execute sort operations, then the system will allocate work_mem *totalsortoperations* for all users. Setting this parameter globally can cause very high memory usage. So it is highly recommended to modify this at the session level.
 
 #### maintenance_work_mem
 
-maintenance_work_memis a memory setting used for maintenance tasks. The default value is 64MB. Setting a large value helps in tasks like [VACUUM](https://www.percona.com/blog/2018/08/06/basic-understanding-bloat-vacuum-postgresql-mvcc/), RESTORE, CREATE INDEX, ADD FOREIGN KEY and ALTER TABLE.
+maintenance_work_mem is a memory setting used for maintenance tasks. The default value is 64MB. Setting a large value helps in tasks like [VACUUM](https://www.percona.com/blog/2018/08/06/basic-understanding-bloat-vacuum-postgresql-mvcc/), RESTORE, CREATE INDEX, ADD FOREIGN KEY and ALTER TABLE.
 
 #### synchronous_commit
 
-This is used to enforce that commit will wait for WAL to be written on disk before returning a success status to the client. This is a trade-off between performance and reliability. If your application is designed such that performance is more important than the reliability, then turn offsynchronous_commit. This means that there will be a time gap between the success status and a guaranteed write to disk. In the case of a server crash, data might be lost even though the client received a success message on commit. In this case, a transaction commits very quickly because it will not wait for a WAL file to be flushed, but reliability is compromised.
+This is used to enforce that commit will wait for WAL to be written on disk before returning a success status to the client. This is a trade-off between performance and reliability. If your application is designed such that performance is more important than the reliability, then turn off synchronous_commit. This means that there will be a time gap between the success status and a guaranteed write to disk. In the case of a server crash, data might be lost even though the client received a success message on commit. In this case, a transaction commits very quickly because it will not wait for a WAL file to be flushed, but reliability is compromised.
 
 #### checkpoint_timeout, checkpoint_completion_target
 

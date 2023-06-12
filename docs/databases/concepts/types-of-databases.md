@@ -172,6 +172,14 @@ Semantic RDF graph databases are databases that map objects using the Resource D
 
 <https://jsondb.io>
 
+## Vector Databases
+
+A vector database is a specialized DBMS that stores vector embeddings utilizing innovative techniques for storage, indexing, and query processing. They offer data management capabilities, such as CRUD and language bindings to widely used data science languages such as Python, SQL, Java, and Tensorflow. Additionally, they deliver advanced features such as high-speed ingestion, sharding, and replication.
+
+Vector databases are designed to handle critical query and algorithmic styles seen in similarity search, anomaly search, observability, fraud detection, and IoT sensor analytics. Such emerging styles are the outcome of digital transformation and the rise of generative AI.
+
+[A Comprehensive Guide to Vector Databases - KDB.AI](https://kdb.ai/blog/a-comprehensive-guide-to-vector-databases/)
+
 ## Comparision
 
 ![image](../../media/Types-of-Databases-image1.jpg)

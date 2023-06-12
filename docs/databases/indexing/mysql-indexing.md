@@ -28,7 +28,7 @@ Using UNION and DISTINCT operators without any major purpose causes unwanted sor
 - The ORDER BY clause is mandatory in SQL if you expect to get a sorted result
 - Not taking advantage of indexed top-N queries
 - Choosing a poor column order in multi-column indexes
-- Inefficient use oflikefilters
+- Inefficient use of like filters
 - Not using index-only scans
 - FullText index is not always used
 

@@ -20,7 +20,7 @@ Tries to follow instructions
 
 Fine-tune on instructions and good attempts at following those instructions.
 
-RLHF: Reinforcement Learning with Human Feedback
+RLHF: Reinforcement Learning with Human Feedback - [Human Feedback in AI: The Essential Ingredient for Success | Label Studio](https://labelstud.io/blog/human-feedback-in-ai/) [Create a High-Quality Dataset for RLHF | Label Studio](https://labelstud.io/blog/create-a-high-quality-rlhf-dataset/)
 
 Helpful, Honest, Harmless
 

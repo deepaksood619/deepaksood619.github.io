@@ -1,204 +1,204 @@
 {
   "recentFiles": [
     {
-      "basename": "tips",
-      "path": "psychology/learning/tips.md"
-    },
-    {
-      "basename": "infra",
-      "path": "office/blocktoons/infra.md"
-    },
-    {
-      "basename": "types-of-databases",
-      "path": "databases/concepts/types-of-databases.md"
-    },
-    {
-      "basename": "couple-activities",
-      "path": "knowledge/games/couple-activities.md"
-    },
-    {
-      "basename": "microsoft-excel-google-sheets",
-      "path": "computer-science/courses/microsoft-excel-google-sheets.md"
-    },
-    {
-      "basename": "crypto-investing",
-      "path": "decentralized-applications/crypto-investing.md"
-    },
-    {
-      "basename": "chain-analytics",
-      "path": "decentralized-applications/chain-analytics.md"
-    },
-    {
-      "basename": "youtube-podcasts-magazine-apps",
-      "path": "devops/ides/youtube-podcasts-magazine-apps.md"
-    },
-    {
-      "basename": "newsletter-learning-resources",
-      "path": "computer-science/general/newsletter-learning-resources.md"
-    },
-    {
-      "basename": "chatgpt-llm",
-      "path": "ai/libraries/chatgpt-llm.md"
-    },
-    {
-      "basename": "references-learning",
-      "path": "decentralized-applications/references-learning.md"
+      "basename": "life-relationship-people",
+      "path": "psychology/life-relationship-people.md"
     },
     {
       "basename": "others",
-      "path": "python/django/others.md"
+      "path": "knowledge/games/others.md"
     },
     {
       "basename": "readme",
-      "path": "technologies/apache/celery/readme.md"
+      "path": "knowledge/games/readme.md"
     },
     {
-      "basename": "ethereum-intro",
-      "path": "decentralized-applications/ethereum/ethereum-intro.md"
+      "basename": "india",
+      "path": "knowledge/geography/india.md"
     },
     {
-      "basename": "readme",
-      "path": "decentralized-applications/ethereum/readme.md"
+      "basename": "system-design-others",
+      "path": "computer-science/interview-question/system-design-others.md"
     },
     {
-      "basename": "international-relations-ir",
-      "path": "knowledge/others/international-relations-ir.md"
+      "basename": "intro",
+      "path": "knowledge/physics/intro.md"
     },
     {
-      "basename": "numbers",
-      "path": "mathematics/general/numbers.md"
-    },
-    {
-      "basename": "my-quotes",
-      "path": "knowledge/quotes-proverbs/my-quotes.md"
-    },
-    {
-      "basename": "deepak-banks",
-      "path": "office/keep/deepak-banks.md"
-    },
-    {
-      "basename": "addresses-electricity",
-      "path": "office/personality/addresses-electricity.md"
-    },
-    {
-      "basename": "coding",
-      "path": "knowledge/quotes-proverbs/coding.md"
-    },
-    {
-      "basename": "chatgpt-prompt-eng",
-      "path": "ai/courses/chatgpt-prompt-eng.md"
-    },
-    {
-      "basename": "movies-serials-apps",
-      "path": "office/personality/movies-serials-apps.md"
-    },
-    {
-      "basename": "financial-independence",
-      "path": "economics/financial-finance-investing/financial-independence.md"
-    },
-    {
-      "basename": "portfolios",
-      "path": "economics/financial-finance-investing/portfolios.md"
-    },
-    {
-      "basename": "debt-mutual-funds",
-      "path": "economics/mutual-funds/debt-mutual-funds.md"
-    },
-    {
-      "basename": "life-lessons-buying-guide-travelling-shopping",
-      "path": "office/personality/life-lessons-buying-guide-travelling-shopping.md"
-    },
-    {
-      "basename": "readme",
-      "path": "economics/financial-finance-investing/readme.md"
+      "basename": "crash-course-physics",
+      "path": "knowledge/physics/crash-course-physics.md"
     },
     {
       "basename": "astronomy",
       "path": "knowledge/physics/astronomy.md"
     },
     {
+      "basename": "readme",
+      "path": "knowledge/physics/readme.md"
+    },
+    {
+      "basename": "others",
+      "path": "knowledge/physics/others.md"
+    },
+    {
+      "basename": "business-case-studies",
+      "path": "management/business/business-case-studies.md"
+    },
+    {
+      "basename": "intro",
+      "path": "ai/computer-vision-cv/intro.md"
+    },
+    {
+      "basename": "readme",
+      "path": "ai/computer-vision-cv/readme.md"
+    },
+    {
+      "basename": "macroeconomics",
+      "path": "economics/mental-models/macroeconomics.md"
+    },
+    {
+      "basename": "input-output-template",
+      "path": "python/python-intro/input-output-template.md"
+    },
+    {
+      "basename": "others",
+      "path": "python/django/others.md"
+    },
+    {
+      "basename": "python-tricks",
+      "path": "python/advanced/python-tricks.md"
+    },
+    {
+      "basename": "python-versions",
+      "path": "python/advanced/python-versions.md"
+    },
+    {
+      "basename": "readme",
+      "path": "python/python-intro/readme.md"
+    },
+    {
+      "basename": "readme",
+      "path": "python/readme.md"
+    },
+    {
+      "basename": "technical-indicators",
+      "path": "economics/market-terms/technical-indicators.md"
+    },
+    {
       "basename": "mechanical-engineering",
       "path": "knowledge/applied-sciences/mechanical-engineering.md"
     },
     {
-      "basename": "crash-course-engineering",
-      "path": "knowledge/applied-sciences/crash-course-engineering.md"
+      "basename": "human-psychology-and-thinking",
+      "path": "psychology/human-psychology-and-thinking.md"
     },
     {
-      "basename": "knowledge-of-humanity",
-      "path": "knowledge/general/knowledge-of-humanity.md"
+      "basename": "readme",
+      "path": "economics/mutual-funds/readme.md"
     },
     {
-      "basename": "defi",
-      "path": "decentralized-applications/defi.md"
+      "basename": "readme",
+      "path": "computer-science/system-design/readme.md"
     },
     {
-      "basename": "upgrades",
-      "path": "decentralized-applications/ethereum/upgrades.md"
+      "basename": "intro",
+      "path": "computer-science/system-design/intro.md"
     },
     {
-      "basename": "diseases-tests",
-      "path": "knowledge/biology/diseases-tests.md"
+      "basename": "chatgpt-prompt-eng",
+      "path": "ai/courses/chatgpt-prompt-eng.md"
     },
     {
       "basename": "others",
-      "path": "knowledge/biology/others.md"
+      "path": "computer-science/system-design/others.md"
     },
     {
-      "basename": "tatoos-quotes",
-      "path": "knowledge/quotes-proverbs/tatoos-quotes.md"
+      "basename": "crypto-exchanges",
+      "path": "decentralized-applications/crypto-exchanges.md"
     },
     {
-      "basename": "stoicism",
-      "path": "psychology/stoicism.md"
+      "basename": "ml-model-deployment",
+      "path": "ai/libraries/ml-model-deployment.md"
     },
     {
-      "basename": "biases-fallacies",
-      "path": "psychology/biases-fallacies.md"
+      "basename": "todo-tech-&-courses",
+      "path": "office/todo/todo-tech-&-courses.md"
     },
     {
-      "basename": "nft-non-fungible-tokens",
-      "path": "decentralized-applications/coins-tokens-chains/nft-non-fungible-tokens.md"
+      "basename": "community-building",
+      "path": "management/community-building.md"
     },
     {
-      "basename": "returns-tax-taxes-itr",
-      "path": "economics/financial-finance-investing/returns-tax-taxes-itr.md"
+      "basename": "types-of-databases",
+      "path": "databases/concepts/types-of-databases.md"
     },
     {
-      "basename": "stocks-equity",
-      "path": "economics/financial-finance-investing/stocks-equity.md"
+      "basename": "readme",
+      "path": "databases/concepts/readme.md"
     },
     {
-      "basename": "industry-sectors",
-      "path": "economics/financial-finance-investing/industry-sectors.md"
+      "basename": "readme",
+      "path": "databases/readme.md"
     },
     {
-      "basename": "company-management",
-      "path": "economics/financial-finance-investing/company-management.md"
+      "basename": "database-index",
+      "path": "databases/indexing/database-index.md"
     },
     {
-      "basename": "buy-now-pay-later-bnpl",
-      "path": "economics/financial-finance-investing/buy-now-pay-later-bnpl.md"
+      "basename": "mysql-indexing",
+      "path": "databases/indexing/mysql-indexing.md"
     },
     {
-      "basename": "checklist-tips-personal-finance-quotes",
-      "path": "economics/financial-finance-investing/checklist-tips-personal-finance-quotes.md"
+      "basename": "intro",
+      "path": "databases/indexing/intro.md"
     },
     {
-      "basename": "investment-banking",
-      "path": "economics/investment-banking.md"
+      "basename": "readme",
+      "path": "databases/indexing/readme.md"
     },
     {
-      "basename": "people",
-      "path": "office/blocktoons/people.md"
+      "basename": "parameters-configuration-optimization",
+      "path": "databases/sql-databases/postgres/parameters-configuration-optimization.md"
     },
     {
-      "basename": "deepak-account-credentials",
-      "path": "office/keep/deepak-account-credentials.md"
+      "basename": "18-interprocess-communication-and-networking",
+      "path": "python/documentation/18-interprocess-communication-and-networking.md"
     },
     {
-      "basename": "asha-maa",
-      "path": "office/keep/asha-maa.md"
+      "basename": "delta-lake",
+      "path": "networking/others/delta-lake.md"
+    },
+    {
+      "basename": "readme",
+      "path": "python/others/fastapi/readme.md"
+    },
+    {
+      "basename": "others",
+      "path": "decentralized-applications/ethereum/others.md"
+    },
+    {
+      "basename": "solidity",
+      "path": "decentralized-applications/ethereum/solidity.md"
+    },
+    {
+      "basename": "others",
+      "path": "devops/terminal-bash/others.md"
+    },
+    {
+      "basename": "infra",
+      "path": "office/cakedefi/infra.md"
+    },
+    {
+      "basename": "product",
+      "path": "office/cakedefi/product.md"
+    },
+    {
+      "basename": "todo",
+      "path": "office/cakedefi/todo.md"
+    },
+    {
+      "basename": "concepts",
+      "path": "languages/sql/concepts.md"
     }
   ],
   "omittedPaths": [],

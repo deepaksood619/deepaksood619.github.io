@@ -105,3 +105,5 @@ assert test('1 4 45 6 10 8', 4) == 0
  for x in lst:
   print(x, end=' ')
 ```
+
+[I changed the Python print statement to understand how it works internally - YouTube](https://www.youtube.com/watch?v=vuZO4qzjCdQ)

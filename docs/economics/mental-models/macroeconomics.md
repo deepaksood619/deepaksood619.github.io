@@ -122,3 +122,5 @@ The **impossible trinity** (also known as **the impossible [trilemma](https:
 [The Inequality Problem Nobody Likes To Talk About | Economics Explained - YouTube](https://www.youtube.com/watch?v=QaL-ocOtooM)
 
 [How the World’s Most Dangerous Country Solved Murder - YouTube](https://www.youtube.com/watch?v=WtkI-QAgM6w)
+
+[The Big Economic Problem of Shrinking Cities | Economics Explained - YouTube](https://www.youtube.com/watch?v=qJbIlaqTMT0)

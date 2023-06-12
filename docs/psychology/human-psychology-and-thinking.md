@@ -107,3 +107,7 @@ The experiments showed how normal, intelligent people were willing to give an ob
 Gaslight - manipulate (someone) by psychological means into doubting their own sanity.
 
 psychological manipulation of a person for one’s advantage—causing the person to question the validity of their own thoughts, reality, or sanity.
+
+## Others
+
+[Why We Always Feel Bad and Guilty - YouTube](https://www.youtube.com/watch?v=71WImmxUPRo)

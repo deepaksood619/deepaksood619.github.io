@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "psychology/learning/tips.md",
+                "file": "psychology/life-relationship-people.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "mnemonics",
+                "query": "\"role model",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -81,7 +81,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -101,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "psychology/learning/tips.md",
+                "file": "psychology/life-relationship-people.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "psychology/learning/tips.md",
+                "file": "psychology/life-relationship-people.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "psychology/learning/tips.md"
+                "file": "psychology/life-relationship-people.md"
               }
             }
           },
@@ -189,34 +190,34 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "978fd2faf621af33",
+  "active": "b11027af87afca94",
   "lastOpenFiles": [
-    "office/blocktoons/infra.md",
-    "databases/concepts/types-of-databases.md",
-    "knowledge/games/couple-activities.md",
-    "computer-science/courses/microsoft-excel-google-sheets.md",
-    "decentralized-applications/crypto-investing.md",
-    "decentralized-applications/chain-analytics.md",
-    "devops/ides/youtube-podcasts-magazine-apps.md",
-    "computer-science/general/newsletter-learning-resources.md",
-    "ai/libraries/chatgpt-llm.md",
-    "decentralized-applications/references-learning.md",
+    "knowledge/games/others.md",
+    "knowledge/games/readme.md",
+    "knowledge/geography/india.md",
+    "computer-science/interview-question/system-design-others.md",
+    "knowledge/physics/intro.md",
+    "knowledge/physics/crash-course-physics.md",
+    "knowledge/physics/astronomy.md",
+    "knowledge/physics/readme.md",
+    "knowledge/physics/others.md",
+    "management/business/business-case-studies.md",
+    "ai/computer-vision-cv/intro.md",
+    "ai/computer-vision-cv/readme.md",
+    "economics/mental-models/macroeconomics.md",
+    "python/python-intro/input-output-template.md",
     "python/django/others.md",
-    "technologies/apache/celery/readme.md",
-    "decentralized-applications/ethereum/ethereum-intro.md",
-    "decentralized-applications/ethereum/readme.md",
-    "knowledge/others/international-relations-ir.md",
-    "mathematics/general/numbers.md",
-    "knowledge/quotes-proverbs/my-quotes.md",
-    "office/keep/deepak-banks.md",
-    "office/personality/addresses-electricity.md",
-    "knowledge/quotes-proverbs/coding.md",
+    "python/advanced/python-tricks.md",
+    "python/advanced/python-versions.md",
+    "python/python-intro/readme.md",
+    "python/readme.md",
+    "economics/market-terms/technical-indicators.md",
+    "knowledge/applied-sciences/mechanical-engineering.md",
+    "psychology/human-psychology-and-thinking.md",
+    "economics/mutual-funds/readme.md",
+    "computer-science/system-design/readme.md",
+    "computer-science/system-design/intro.md",
     "ai/courses/chatgpt-prompt-eng.md",
-    "office/personality/movies-serials-apps.md",
-    "economics/financial-finance-investing/financial-independence.md",
-    "economics/financial-finance-investing/portfolios.md",
-    "economics/mutual-funds/debt-mutual-funds.md",
-    "office/personality/life-lessons-buying-guide-travelling-shopping.md",
     "office.zip",
     "media/Screenshot 2023-05-30 at 11.59.41 PM.png",
     "media/Screenshot 2023-05-30 at 11.59.25 PM.png",

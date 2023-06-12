@@ -83,3 +83,7 @@ We will learn other miscellaneous design patterns that don’t fall nicely into 
 In this section you will learn how ECDSA (Elliptic Curve Digital Signature Algorithm) works and how it is used in smart contracts. You will also learn the surprising ways it breaks and what to do about it.
 
 You will hack custom smart contracts we deploy to the main net (and get a little cryptocurrency out of it!). You will also learn relevant design patterns that depend on ECDSA signatures like EIP 712, Governance, ERC 20 Permit, Metatransactions (gasless transactions) and Relayers.
+
+## Others
+
+[Slither – a Solidity static analysis framework | Trail of Bits Blog](https://blog.trailofbits.com/2018/10/19/slither-a-solidity-static-analysis-framework/)

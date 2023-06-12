@@ -86,3 +86,7 @@ Allows us to maintain pre-aggregated values for some combination of dimensions e
 
 <https://docs.pinot.apache.org/basics/indexing/star-tree-index>
 <https://en.wikipedia.org/wiki/Search_engine_indexing>
+
+## Others
+
+[Understanding database Indexes in PostgreSQL](https://mastermind.dev/indexes-in-postgresql)

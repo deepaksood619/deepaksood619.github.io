@@ -58,6 +58,20 @@
 | OR           | TRUE if any of the conditions separated by OR is TRUE        |
 | SOME         | TRUE if any of the subquery values meet the condition        |
 
+```sql
+-- ALL Operator
+-- all countries whose area is greater than each area of each city from city table
+SELECT * FROM country WHERE area > ALL (
+  SELECT area FROM city
+);
+
+-- ANY Operator
+-- find trips to the cities which are cheaper than ANY hiking trip to the mountain with id 1
+SELECT * FROM trip WHERE price < ANY (
+  SELECT price FROM hiking_trip WHERE mountain_id = 1
+);
+```
+
 <https://www.w3schools.com/sql/sql_operators.asp>
 
 ## Wildcard Characters in MS Access
