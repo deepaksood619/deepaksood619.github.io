@@ -29,3 +29,9 @@ databricks secrets list-scopes --output JSON
 [Databricks SQL CLI | Databricks on AWS](https://docs.databricks.com/dev-tools/databricks-sql-cli.html)
 
 [GitHub - databricks/databricks-cli: Command Line Interface for Databricks](https://github.com/databricks/databricks-cli)
+
+## Notebook Shortcuts
+
+- H - show all shortcuts
+- cmd-shift-f : Format code
+- cmd + / : Comment all highlighted code

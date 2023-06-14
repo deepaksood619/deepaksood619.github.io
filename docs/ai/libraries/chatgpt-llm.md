@@ -76,6 +76,10 @@ Merlin Chrome Extension
 
 ![ai-tools](../../media/image.png)
 
+[FinGPT: Open-Source Financial Large Language Models](https://arxiv.org/abs/2306.06031)
+
+[Self-healing code is the future of software development - Stack Overflow Blog](https://stackoverflow.blog/2023/06/07/self-healing-code-is-the-future-of-software-development/)
+
 #### Prompts
 
 [https://snackprompt.com](https://snackprompt.com/)

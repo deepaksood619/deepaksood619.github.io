@@ -135,3 +135,5 @@ P2PKH addresses start with a "1"
 [GitHub - bitcoinbook/bitcoinbook: Mastering Bitcoin 2nd Edition - Programming the Open Blockchain](https://github.com/bitcoinbook/bitcoinbook)
 
 [GitHub - BlockchainCommons/Learning-Bitcoin-from-the-Command-Line: A complete course for learning Bitcoin programming and usage from the command](https://github.com/BlockchainCommons/Learning-Bitcoin-from-the-Command-Line)
+
+[Modeling Bitcoin Value with Scarcity | Medium](https://medium.com/@100trillionUSD/modeling-bitcoins-value-with-scarcity-91fa0fc03e25)

@@ -26,6 +26,8 @@ ANSI standard SQL dialect by default
 
 ## Links
 
+[Ideas Portal | Databricks on AWS](https://docs.databricks.com/resources/ideas.html)
+
 [Get a Git access token & connect a remote repo to Databricks | Databricks on AWS](https://docs.databricks.com/repos/get-access-tokens-from-git-provider.html)
 
 [The Delta Lake Series, Ebooks](https://www.databricks.com/explore/de-data-warehousing/the-delta-lake-series)

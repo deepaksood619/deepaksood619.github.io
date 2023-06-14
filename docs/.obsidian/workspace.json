@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "psychology/life-relationship-people.md",
+                "file": "decentralized-applications/development-tools.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"role model",
+                "query": "openzeppelin",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -102,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "psychology/life-relationship-people.md",
+                "file": "decentralized-applications/development-tools.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "psychology/life-relationship-people.md",
+                "file": "decentralized-applications/development-tools.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "psychology/life-relationship-people.md"
+                "file": "decentralized-applications/development-tools.md"
               }
             }
           },
@@ -192,32 +192,32 @@
   },
   "active": "b11027af87afca94",
   "lastOpenFiles": [
-    "knowledge/games/others.md",
-    "knowledge/games/readme.md",
-    "knowledge/geography/india.md",
-    "computer-science/interview-question/system-design-others.md",
-    "knowledge/physics/intro.md",
-    "knowledge/physics/crash-course-physics.md",
-    "knowledge/physics/astronomy.md",
-    "knowledge/physics/readme.md",
-    "knowledge/physics/others.md",
-    "management/business/business-case-studies.md",
-    "ai/computer-vision-cv/intro.md",
-    "ai/computer-vision-cv/readme.md",
-    "economics/mental-models/macroeconomics.md",
-    "python/python-intro/input-output-template.md",
-    "python/django/others.md",
-    "python/advanced/python-tricks.md",
-    "python/advanced/python-versions.md",
-    "python/python-intro/readme.md",
-    "python/readme.md",
-    "economics/market-terms/technical-indicators.md",
-    "knowledge/applied-sciences/mechanical-engineering.md",
-    "psychology/human-psychology-and-thinking.md",
-    "economics/mutual-funds/readme.md",
-    "computer-science/system-design/readme.md",
-    "computer-science/system-design/intro.md",
-    "ai/courses/chatgpt-prompt-eng.md",
+    "decentralized-applications/ethereum/polygon.md",
+    "decentralized-applications/coins-tokens-chains/readme.md",
+    "decentralized-applications/blockchain.md",
+    "decentralized-applications/readme.md",
+    "decentralized-applications/ethereum/ethereum-intro.md",
+    "decentralized-applications/ethereum/others.md",
+    "decentralized-applications/coins-tokens-chains/wallets.md",
+    "frontend/others/static-site-generators.md",
+    "decentralized-applications/coins-tokens-chains/bitcoin.md",
+    "decentralized-applications/development-tools.md",
+    "decentralized-applications/tools.md",
+    "ai/data-science/big-data/intro.md",
+    "databases/concepts/types-of-databases.md",
+    "databases/concepts/readme.md",
+    "databases/readme.md",
+    "office/todo/todo-tech-&-courses.md",
+    "technologies/apache/celery/readme.md",
+    "languages/sql/dql-data-query-language/window-functions.md",
+    "languages/sql/functions.md",
+    "office/personality/movies-serials-apps.md",
+    "languages/sql/sql-joins.md",
+    "technologies/apache/databricks/01-databricks.md",
+    "technologies/apache/databricks/readme.md",
+    "ai/libraries/chatgpt-llm.md",
+    "ai/data-science/data-visualization/tableau.md",
+    "ai/data-science/data-visualization/powerbi.md",
     "office.zip",
     "media/Screenshot 2023-05-30 at 11.59.41 PM.png",
     "media/Screenshot 2023-05-30 at 11.59.25 PM.png",

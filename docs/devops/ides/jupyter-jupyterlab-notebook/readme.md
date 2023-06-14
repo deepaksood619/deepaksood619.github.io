@@ -90,15 +90,15 @@ dd - delete
 
 ### Magics in Jupyter (magic commands)
 
-1. **Line magic (%)**
+#### 1. Line magic (`%`)
 
-    Operate on single line of input
+Operate on single line of input
 
-2. **Cell magic (%%)**
+#### 2. Cell magic (`%%`)
 
-    Operate on multiple lines of input
+Operate on multiple lines of input
 
-3. **Commands**
+#### 3. Commands
 
 ```bash
 %magic for help on magic
@@ -142,21 +142,17 @@ $( document ).ready(code_toggle);
 
 ## References
 
-<https://www.datacamp.com/community/tutorials/tutorial-jupyter-notebook>
-
-<https://www.dataquest.io/blog/advanced-jupyter-notebooks-tutorial>
-
-<https://towardsdatascience.com/speed-up-jupyter-notebooks-20716cbe2025>
-
-<https://towardsdatascience.com/how-to-effortlessly-optimize-jupyter-notebooks-e864162a06ee>
-
-<https://blog.dominodatalab.com/lesser-known-ways-of-using-notebooks>
+- <https://www.datacamp.com/community/tutorials/tutorial-jupyter-notebook>
+- <https://www.dataquest.io/blog/advanced-jupyter-notebooks-tutorial>
+- <https://towardsdatascience.com/speed-up-jupyter-notebooks-20716cbe2025>
+- <https://towardsdatascience.com/how-to-effortlessly-optimize-jupyter-notebooks-e864162a06ee>
+- <https://blog.dominodatalab.com/lesser-known-ways-of-using-notebooks>
 
 ## Jupyter Extensions
 
 ### Interact Jupyter
 
-Theinteractfunction (ipywidgets.interact) automatically creates user interface (UI) controls for exploring code and data interactively.
+The interact function (ipywidgets.interact) automatically creates user interface (UI) controls for exploring code and data interactively.
 
 ### Using button
 

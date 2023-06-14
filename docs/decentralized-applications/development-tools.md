@@ -50,6 +50,11 @@ This is a tool that analyzes the token’s smart contract, tokenomics, holders, 
 - The creator wallet holds more than 5% of the circulating token supply
 - There’s adequate liquidity for the token
 
+### Libraries
+
+- [Introduction — Web3.py 5.31.4 documentation](https://web3py.readthedocs.io/en/v5/)
+- [GitHub - ethereum/web3.py: A python interface for interacting with the Ethereum blockchain and ecosystem.](https://github.com/ethereum/web3.py)
+
 ### Others
 
 - [NEAR Protocol | Reimagine your World](https://near.org/)

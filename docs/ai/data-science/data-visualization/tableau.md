@@ -96,8 +96,10 @@ tsm configuration list-dynamic-keys
 tsm help
 
 tsm configuration set -k vizportal.log.level -v debug
-
 tsm configuration set -k vizqlserver.log.level -v debug
+
+tsm configuration set -k vizportal.log.level -v info
+tsm configuration set -k vizqlserver.log.level -v info
 ```
 
 ## Resources

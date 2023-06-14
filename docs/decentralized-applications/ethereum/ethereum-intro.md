@@ -154,6 +154,8 @@ Maximal extractable value was first applied in the context of proof-of-work, and
 
 [The MEVconomics of bridging - James Prestwich - YouTube](https://www.youtube.com/watch?v=W0ZJ_MamKM4&ab_channel=ETHGlobal)
 
+[What is MEV: A beginner’s guide to Ethereum’s invisible tax](https://cointelegraph.com/learn/what-is-mev-ethereums-invisible-tax)
+
 ## Testing
 
 [What are Testnets?](https://www.alchemy.com/overviews/what-are-testnets)

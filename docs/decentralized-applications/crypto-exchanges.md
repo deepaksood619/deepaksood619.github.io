@@ -15,7 +15,6 @@
 The Top Three Highest Ranking Crypto Websites on Alexa
 
 - Uniswap (DEX)
-  - [A Short Story of UNISWAP and UNI Token. DEFI Explained - YouTube](https://www.youtube.com/watch?v=LpjMgS4OVzs&ab_channel=Finematics)
 - SushiSwap
   - [What Is a VAMPIRE ATTACK? SUSHISWAP Saga Explained - YouTube](https://www.youtube.com/watch?v=UFjXwrCGuog&ab_channel=Finematics)
   - [SUSHI - Most Underrated Protocol in DeFi? (BentoBox, Kashi, Miso Explained) - YouTube](https://www.youtube.com/watch?v=Cbtvc8Eso_g)
@@ -35,7 +34,11 @@ The Top Three Highest Ranking Crypto Websites on Alexa
 - CoinSwitch Kuber
 - Wazirx
 
-### Uniswap v3
+### Uniswap
+
+[A Short Story of UNISWAP and UNI Token. DEFI Explained - YouTube](https://www.youtube.com/watch?v=LpjMgS4OVzs&ab_channel=Finematics)
+
+#### Uniswap v3
 
 - Automated Market Makers (AMMs) - [What is an Automated Market Maker? (Liquidity Pool Algorithm) - YouTube](https://www.youtube.com/watch?v=1PbZMudPP5E)
 - Liquidity Providers (LPs)
@@ -57,3 +60,9 @@ Uniswap's **oracles are now far easier and cheaper to integrate**. V3 oracles a
 [Introducing Uniswap V3](https://blog.uniswap.org/uniswap-v3)
 
 [UNISWAP V3 - New Era Of AMMs? Architecture Explained - YouTube](https://www.youtube.com/watch?v=Ehm-OYBmlPM)
+
+#### Uniswap v4
+
+[GitHub - Uniswap/v4-core: 🦄 🦄 🦄 🦄 Core smart contracts of Uniswap v4](https://github.com/Uniswap/v4-core)
+
+[Our Vision for Uniswap v4](https://blog.uniswap.org/uniswap-v4)

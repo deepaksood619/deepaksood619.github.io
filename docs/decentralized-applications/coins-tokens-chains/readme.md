@@ -76,6 +76,8 @@ Market Capitalization - [https://coinmarketcap.com/](https://coinmarketcap.com/)
 - [Binance Smart Chain And CeDeFi Explained - YouTube](https://www.youtube.com/watch?v=iJDoc0kvXLc)
 - [Zilliqa blockchain](https://www.zilliqa.com/what-is-zil)
 - [Venom Foundation - Secure by design, scalable by nature](https://venom.foundation/)
+- [Avalanche: Create Without Limits | dApp Platform](https://www.avax.network/)
+- [Aeternity Blockchain Definition | CoinMarketCap](https://coinmarketcap.com/alexandria/glossary/aeternity-blockchain)
 
 [Chainlist](https://chainlist.org/)
 

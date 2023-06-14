@@ -106,3 +106,7 @@ A regular JOIN can be used to find matching values in a subquery. Like EXISTS, J
 [Subquery vs. JOIN | LearnSQL.com](https://learnsql.com/blog/subquery-vs-join/)
 
 [MySQL :: MySQL 8.0 Reference Manual :: 8.2.2.1 Optimizing IN and EXISTS Subquery Predicates with Semijoin Transformations](https://dev.mysql.com/doc/refman/8.0/en/semijoins.html)
+
+[T-SQL commands performance comparison - NOT IN vs NOT EXISTS vs LEFT JOIN vs EXCEPT](https://www.sqlshack.com/t-sql-commands-performance-comparison-not-vs-not-exists-vs-left-join-vs-except/)
+
+- methods that use the SQL NOT EXISTS and the LEFT JOIN commands has the least execution costs, and the method that uses the NOT IN command has the heaviest query cost
