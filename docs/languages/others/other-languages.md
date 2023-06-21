@@ -71,7 +71,7 @@ Dark is a holistic programming language, editor, and infrastructure for building
 
 ## Gremlin
 
-Gremlinis a [graph traversal](https://en.wikipedia.org/wiki/Graph_traversal) language and [virtual machine](https://en.wikipedia.org/wiki/Virtual_machine) developed by Apache TinkerPop of the [Apache Software Foundation](https://en.wikipedia.org/wiki/Apache_Software_Foundation). Gremlin works for both [OLTP](https://en.wikipedia.org/wiki/Online_transaction_processing)-based graph databases as well as [OLAP](https://en.wikipedia.org/wiki/Online_analytical_processing)-based graph processors. Gremlin's [automata](https://en.wikipedia.org/wiki/Automata_theory) and [functional language](https://en.wikipedia.org/wiki/Functional_programming) foundation enable Gremlin to naturally support [imperative](https://en.wikipedia.org/wiki/Imperative_programming) and [declarative](https://en.wikipedia.org/wiki/Declarative_programming) querying, host language agnosticism, user-defined [domain specific languages](https://en.wikipedia.org/wiki/Domain-specific_language), an extensible compiler/optimizer, single- and multi-machine execution models, hybrid depth- and breadth-first evaluation, as well as [Turing Completeness](https://en.wikipedia.org/wiki/Turing_Complete).
+Gremlin is a [graph traversal](https://en.wikipedia.org/wiki/Graph_traversal) language and [virtual machine](https://en.wikipedia.org/wiki/Virtual_machine) developed by Apache TinkerPop of the [Apache Software Foundation](https://en.wikipedia.org/wiki/Apache_Software_Foundation). Gremlin works for both [OLTP](https://en.wikipedia.org/wiki/Online_transaction_processing)-based graph databases as well as [OLAP](https://en.wikipedia.org/wiki/Online_analytical_processing)-based graph processors. Gremlin's [automata](https://en.wikipedia.org/wiki/Automata_theory) and [functional language](https://en.wikipedia.org/wiki/Functional_programming) foundation enable Gremlin to naturally support [imperative](https://en.wikipedia.org/wiki/Imperative_programming) and [declarative](https://en.wikipedia.org/wiki/Declarative_programming) querying, host language agnosticism, user-defined [domain specific languages](https://en.wikipedia.org/wiki/Domain-specific_language), an extensible compiler/optimizer, single- and multi-machine execution models, hybrid depth- and breadth-first evaluation, as well as [Turing Completeness](https://en.wikipedia.org/wiki/Turing_Complete).
 
 As an explanatory analogy, Apache TinkerPop and Gremlin are to [graph databases](https://en.wikipedia.org/wiki/Graph_databases) what the [JDBC](https://en.wikipedia.org/wiki/Java_Database_Connectivity) and [SQL](https://en.wikipedia.org/wiki/SQL) are to [relational databases](https://en.wikipedia.org/wiki/RDBMS). Likewise, the Gremlin traversal machine is to graph computing as what the [Java virtual machine](https://en.wikipedia.org/wiki/Java_virtual_machine) is to general purpose computing.
 
@@ -125,7 +125,7 @@ Reading - <https://www.braveclojure.com>
 
 ## datalog
 
-Datalogis a [declarative](https://en.wikipedia.org/wiki/Declarative_programming)[logic programming](https://en.wikipedia.org/wiki/Logic_programming) language that syntactically is a subset of [Prolog](https://en.wikipedia.org/wiki/Prolog). It is often used as a [query language](https://en.wikipedia.org/wiki/Query_language) for [deductive databases](https://en.wikipedia.org/wiki/Deductive_database). In recent years, Datalog has found new application in [data integration](https://en.wikipedia.org/wiki/Data_integration), [information extraction](https://en.wikipedia.org/wiki/Information_extraction), [networking](https://en.wikipedia.org/wiki/Computer_network), [program analysis](https://en.wikipedia.org/wiki/Program_analysis), [security](https://en.wikipedia.org/wiki/Security), [cloud computing](https://en.wikipedia.org/wiki/Cloud_computing) and [machine learning](https://en.wikipedia.org/wiki/Machine_learning).
+Datalog is a [declarative](https://en.wikipedia.org/wiki/Declarative_programming)[logic programming](https://en.wikipedia.org/wiki/Logic_programming) language that syntactically is a subset of [Prolog](https://en.wikipedia.org/wiki/Prolog). It is often used as a [query language](https://en.wikipedia.org/wiki/Query_language) for [deductive databases](https://en.wikipedia.org/wiki/Deductive_database). In recent years, Datalog has found new application in [data integration](https://en.wikipedia.org/wiki/Data_integration), [information extraction](https://en.wikipedia.org/wiki/Information_extraction), [networking](https://en.wikipedia.org/wiki/Computer_network), [program analysis](https://en.wikipedia.org/wiki/Program_analysis), [security](https://en.wikipedia.org/wiki/Security), [cloud computing](https://en.wikipedia.org/wiki/Cloud_computing) and [machine learning](https://en.wikipedia.org/wiki/Machine_learning).
 
 Its origins date back to the beginning of [logic programming](https://en.wikipedia.org/wiki/Logic_programming), but it became prominent as a separate area around 1977 when [Hervé Gallaire](https://en.wikipedia.org/w/index.php?title=Herv%C3%A9_Gallaire&action=edit&redlink=1) and [Jack Minker](https://en.wikipedia.org/wiki/Jack_Minker) organized a workshop on [logic](https://en.wikipedia.org/wiki/Logic) and [databases](https://en.wikipedia.org/wiki/Database).[David Maier](https://en.wikipedia.org/wiki/David_Maier) is credited with coining the term Datalog.
 
@@ -176,7 +176,7 @@ Rather than being a standalone programming language, Halide is embedded in C++. 
 
 ## Julia
 
-## Juliais a [high-level](https://en.wikipedia.org/wiki/High-level_programming_language)[general-purpose](https://en.wikipedia.org/wiki/General-purpose_programming_language)[dynamic programming language](https://en.wikipedia.org/wiki/Dynamic_programming_language) that was originally designed to address the needs of high-performance [numerical analysis](https://en.wikipedia.org/wiki/Numerical_analysis) and [computational science](https://en.wikipedia.org/wiki/Computational_science), without the typical need of [separate compilation](https://en.wikipedia.org/wiki/Compiler#Compiler_construction) to be fast, also usable for client and server web use, low-level [systems programming](https://en.wikipedia.org/wiki/System_programming) or as a [specification language](https://en.wikipedia.org/wiki/Specification_language)
+Julia is a [high-level](https://en.wikipedia.org/wiki/High-level_programming_language)[general-purpose](https://en.wikipedia.org/wiki/General-purpose_programming_language)[dynamic programming language](https://en.wikipedia.org/wiki/Dynamic_programming_language) that was originally designed to address the needs of high-performance [numerical analysis](https://en.wikipedia.org/wiki/Numerical_analysis) and [computational science](https://en.wikipedia.org/wiki/Computational_science), without the typical need of [separate compilation](https://en.wikipedia.org/wiki/Compiler#Compiler_construction) to be fast, also usable for client and server web use, low-level [systems programming](https://en.wikipedia.org/wiki/System_programming) or as a [specification language](https://en.wikipedia.org/wiki/Specification_language)
 
 Distinctive aspects of Julia's design include a type system with [parametric polymorphism](https://en.wikipedia.org/wiki/Parametric_polymorphism) and types in a fully [dynamic programming language](https://en.wikipedia.org/wiki/Dynamic_programming_language) and [multiple dispatch](https://en.wikipedia.org/wiki/Multiple_dispatch) as its core [programming paradigm](https://en.wikipedia.org/wiki/Programming_paradigm). It allows [concurrent](https://en.wikipedia.org/wiki/Concurrent_computing), [parallel](https://en.wikipedia.org/wiki/Parallel_computing) and [distributed computing](https://en.wikipedia.org/wiki/Distributed_computing), and [direct calling](https://en.wikipedia.org/wiki/Foreign_function_interface) of [C](https://en.wikipedia.org/wiki/C_(programming_language)) and [Fortran](https://en.wikipedia.org/wiki/Fortran) libraries without [glue code](https://en.wikipedia.org/wiki/Adapter_pattern#gluecode).
 
@@ -191,21 +191,13 @@ Julia is [garbage-collected](https://en.wikipedia.org/wiki/Garbage_collection_(c
 Flux is a lightweight scripting language for querying databases (like InfluxDB) and working with data. It's part of InfluxDB 1.7 and 2.0, but can be run independently of those.
 
 1. Comments
-
 2. Named arguments
-
 3. String Literals
-
 4. Buckets
-
 5. Duration Literal
-
 6. Time Literal
-
 7. Pipe forward operator
-
 8. Anonymous function
-
 9. Predicate function
 
 <https://www.influxdata.com/blog/why-were-building-flux-a-new-data-scripting-and-query-language>
@@ -222,7 +214,7 @@ Flux is a lightweight scripting language for querying databases (like InfluxDB) 
 
 Simple, fast, safe, compiled language for developing maintainable software. Supports translation from C and (soon) C++. Compiles itself in <1s.
 
-## Key Features of V
+### Key Features of V
 
 - Simplicity: the language can be learned in half an hour, less if you already know Go
 - Fast compilation: ~100k loc/s right now, ~1.2 million loc/s once x64 generation is mature enough
@@ -238,3 +230,9 @@ Simple, fast, safe, compiled language for developing maintainable software. Supp
 <https://github.com/vlang/v>
 
 <https://vlang.io>
+
+## ziglang
+
+[Home ⚡ Zig Programming Language](https://ziglang.org/)
+
+[GitHub - zigzap/zap: blazingly fast backends in zig](https://github.com/zigzap/zap)

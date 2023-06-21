@@ -49,3 +49,5 @@ When you install Rustup you'll also get the latest stable version of the Rust bu
 [Rust for Rustaceans by Jon Gjengset](https://rust-for-rustaceans.com/)
 
 [Welcome to Comprehensive Rust 🦀 - Comprehensive Rust 🦀](https://google.github.io/comprehensive-rust/welcome.html)
+
+[Effective Rust](https://www.lurklurk.org/effective-rust/)

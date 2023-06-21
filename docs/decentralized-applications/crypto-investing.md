@@ -17,7 +17,6 @@
 - [Home | PancakeSwap](https://pancakeswap.finance/)
   - Trade, earn, and win crypto on the most popular decentralized platform in the galaxy.
 - [Guide to DUSD: Earn Negative Interest of Up to -66.6% on DUSD](https://blog.defichain.com/earn-returns-with-negative-interest-rates/)
-- [Lido | Liquid Staking for Digital Assets](https://lido.fi/)
 - [RBX: The pinnacle of decentralized finance apps. Defi 2.0](https://rbxdefi.com/)
 - [Zilliqa | Build your future with our native token](https://www.zilliqa.com/what-is-zil)
 - Lending - [PeerHive | Revolutionizing Decentralized P2P Lending Experience](https://peerhive.app/)
@@ -26,6 +25,7 @@
 - [Balancer DeFi Liquidity Pools on Ethereum Mainnet](https://app.balancer.fi/#/ethereum)
 - [Aave - Open Source Liquidity Protocol](https://aave.com/)
 - [Buy Bitcoin & Ethereum | Cryptocurrency Exchange | Bittrex Global](https://global.bittrex.com/)
+- [Bitpanda Cash Plus](https://www.bitpanda.com/en/bitpanda-cash-plus)
 
 ![ranks-of-bitcoin-holders](../media/Screenshot%202023-04-03%20at%209.02.03%20AM.png)
 
@@ -89,8 +89,6 @@
 [Best Crypto Staking Pools in 2023 - Bear Market Passive Income? - YouTube](https://www.youtube.com/watch?v=mleAqEKEb10)
 
 [Best Crypto Staking Platforms & Reward Rates for 2023](https://milkroad.com/staking)
-
-[Best Liquid Staking Platforms For Crypto May 2023](https://milkroad.com/staking/liquid)
 
 [11 Best Defi Crypto Coins to Buy In 2023 — tastycrypto](https://www.tastycrypto.com/blog/top-defi-tokens)
 

@@ -54,3 +54,7 @@ Make a distinction between a lack of inertia and persistent exhaustion from an a
 7. Creative Rest
 
 [Ben Meer on LinkedIn: How to avoid burnout. Get 7 types of rest: | 337 comments](https://www.linkedin.com/posts/benmeer_how-to-avoid-burnout-get-7-types-of-rest-ugcPost-7064214773680238592-oRJ_)
+
+## Links
+
+[Why It Is OK To Have No Ambition In Life? - a zen short story - YouTube](https://www.youtube.com/watch?v=OTvrE9hfyKU)

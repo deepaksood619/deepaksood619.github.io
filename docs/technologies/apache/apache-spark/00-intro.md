@@ -130,3 +130,5 @@ spark-submit --master local --class GvaWeather target/scala-2.10/gva-weather_2.1
 <https://www.freecodecamp.org/news/use-pyspark-for-data-processing-and-machine-learning>
 
 [Apache Spark Tutorial with Examples - Spark By {Examples}](https://sparkbyexamples.com/)
+
+[Errors — PySpark 3.4.0 documentation](https://spark.apache.org/docs/latest/api/python/reference/pyspark.errors.html)

@@ -99,6 +99,12 @@ The **impossible trinity** (also known as **the impossible [trilemma](https:
 
 [Demographic crisis - the impact of an aging society - YouTube](https://www.youtube.com/watch?v=MZTsBU5Nigg)
 
+## India
+
+[Indian Influencers Are WRONG About India! - YouTube](https://www.youtube.com/watch?v=-smxznU1eUI)
+
+[Lies You've Been Told About INDIA & The Truth You Need to Know! - YouTube](https://www.youtube.com/watch?v=oHVgxbvkojw)
+
 ## Links
 
 [Data Update 1 for 2023: Setting the table](https://www.youtube.com/watch?v=RKJ1c442AcY)
@@ -124,3 +130,5 @@ The **impossible trinity** (also known as **the impossible [trilemma](https:
 [How the World’s Most Dangerous Country Solved Murder - YouTube](https://www.youtube.com/watch?v=WtkI-QAgM6w)
 
 [The Big Economic Problem of Shrinking Cities | Economics Explained - YouTube](https://www.youtube.com/watch?v=qJbIlaqTMT0)
+
+[The Next Global Superpower Isn't Who You Think | Ian Bremmer | TED - YouTube](https://www.youtube.com/watch?v=uiUPD-z9DTg)

@@ -47,3 +47,7 @@ Every material in a Montessori classroom supports an aspect of child development
 [Montessori education - Wikipedia](https://en.m.wikipedia.org/wiki/Montessori_education)
 
 [Exploring the Pros and Cons of Montessori Education | Rasmussen University](https://www.rasmussen.edu/degrees/education/blog/pros_cons_montessori_education/)
+
+## Others
+
+[Evidence-based education - Wikipedia](https://en.wikipedia.org/wiki/Evidence-based_education)

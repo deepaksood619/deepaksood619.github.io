@@ -8,6 +8,8 @@
 
 [Databricks SQL | Databricks](https://www.databricks.com/product/databricks-sql)
 
+[Get started articles, tutorials, and best practices | Databricks on AWS](https://docs.databricks.com/getting-started/tutorials/index.html)
+
 ## Architecture
 
 With the intent to build data and AI applications, Databricks consists of two core components: the **Control Plane and the Data Plane**. The control plane is **fully managed by Databricks** and consists of the Web UI, Notebooks, Jobs & Queries and the Cluster Manager. The Dataplane **resides in your AWS Account** and is where Databricks Clusters run to process data.
@@ -35,3 +37,5 @@ ANSI standard SQL dialect by default
 [Google BigQuery | Databricks on AWS](https://docs.databricks.com/external-data/bigquery.html)
 
 [The Best Data Engineering Platform Is a Lakehouse | Databricks](https://www.databricks.com/resources/webinar/best-data-engineering-platform-lakehouse)
+
+[Customer Story: Coins.ph | Databricks](https://www.databricks.com/customers/coins-ph)

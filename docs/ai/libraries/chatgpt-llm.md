@@ -38,7 +38,7 @@ Moving from information to knowledge age
 
 #### AI Generators
 
-[Stable Diffusion Online](https://stablediffusionweb.com/)
+[Stable Diffusion Online](https://stablediffusionweb.com/) - [Stability AI](https://stability.ai/)
 
 Dall E - <https://openai.com/dall-e-2>
 
@@ -51,6 +51,8 @@ Dall E - <https://openai.com/dall-e-2>
 Deep Nostalgia
 
 [AI Voice Generator: Versatile Text to Speech Software | Murf AI](https://murf.ai/)
+
+[Tammy AI](https://tammy.ai/)
 
 #### Other AI / LLM Tools
 

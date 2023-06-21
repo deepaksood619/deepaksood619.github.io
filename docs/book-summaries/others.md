@@ -11,3 +11,5 @@
 [Be Rare & Valuable: SO GOOD THEY CAN'T IGNORE YOU by Cal Newport - YouTube](https://www.youtube.com/watch?v=DFjTD8v7xuw)
 
 [THE MILLIONAIRE NEXT DOOR by Thomas Stanley and William Danko | Core Message - YouTube](https://www.youtube.com/watch?v=aYy7QK1MDk4)
+
+[Design your rich life: I WILL TEACH YOU TO BE RICH by Ramit Sethi | Core Message - YouTube](https://www.youtube.com/watch?v=vybSDRL6C3g)

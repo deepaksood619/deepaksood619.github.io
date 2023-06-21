@@ -91,3 +91,9 @@ Metadata is pretty vague, but in this case, I'm referring specifically to Datavi
 [Making notes actually useful in Obsidian](https://www.youtube.com/watch?v=v7BbraqevMg)
 
 [The BASB Book](https://www.buildingasecondbrain.com/book)
+
+[BUILDING A SECOND BRAIN by Tiago Forte | Core Message - YouTube](https://www.youtube.com/watch?v=aEm72qlAtVc)
+
+[Organise Your Life - Building a Second Brain book summary - YouTube](https://www.youtube.com/watch?v=KTXshjVpEQ0)
+
+[Tiago Forte | Building a Second Brain | Talks at Google - YouTube](https://www.youtube.com/watch?v=Y86GOtc1KNo)

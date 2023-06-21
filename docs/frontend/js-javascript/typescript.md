@@ -34,3 +34,5 @@ In addition to static type analysis, TypeScript also adds the following features
 <https://www.toptal.com/typescript/typescript-vs-javascript-guide>
 
 <https://www.freecodecamp.org/news/build-strongly-typed-polymorphic-components-with-react-and-typescript>
+
+[TypeScript 5.2's New Keyword: 'using' | Total TypeScript](https://www.totaltypescript.com/typescript-5-2-new-keyword-using)

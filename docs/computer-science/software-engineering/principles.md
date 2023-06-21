@@ -18,6 +18,8 @@ Used for setting, communicating and monitoring quarterly goals and results in or
 
 ![image](../../media/Software-Coding-Development-Engineering-image1.jpg)
 
+[What Matters: How to grade OKRs like John Doerr and Google](https://www.whatmatters.com/faqs/how-to-grade-okrs)
+
 <https://soapboxhq.com/goal-examples/engineering>
 
 <https://okrexamples.co/technology-engineering-rnd-okr-examples>

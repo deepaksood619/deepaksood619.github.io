@@ -209,3 +209,5 @@ For this test to work, though, you have to be honest with yourself. Indeed, that
 - [Think and Grow Rich](../../book-summaries/think-and-grow-rich)
 
 [STOLEN FOCUS by Johann Hari | Core Message - YouTube](https://www.youtube.com/watch?v=DqlywBxYELw&ab_channel=ProductivityGame)
+
+[How to FOCUS for 16 hours a day! - YouTube](https://www.youtube.com/watch?v=EePH5kYNmvc)

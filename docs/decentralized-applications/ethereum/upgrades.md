@@ -69,6 +69,8 @@ Ethereum social consensus, _for other purposes_:
 - **The wallet security transition** - everyone moving to [smart contract wallets](https://vitalik.ca/general/2021/01/11/recovery.html)
 - **The privacy transition** - making sure privacy-preserving funds transfers are available, and making sure all of the _other_ gadgets that are being developed (social recovery, identity, reputation) are privacy-preserving
 
+[Deeper dive on cross-L2 reading for wallets and other use cases](https://vitalik.ca/general/2023/06/20/deeperdive.html)
+
 ## Others
 
 [Intro to ERC 6551 - Token Bound Accounts - Jayden Windle - YouTube](https://www.youtube.com/watch?v=6WoNRbkZOaU)

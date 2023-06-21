@@ -78,6 +78,8 @@ In programming, it is also common to refer to the "NIH syndrome" as the tendency
 
 [Writing Code You Won't Hate Tomorrow](https://www.youtube.com/watch?v=qjtMs7jQxEo)
 
+[What should a software developer not do? - YouTube](https://www.youtube.com/watch?v=rBUVdZRkd0A)
+
 [Why You Shouldn't Nest Your Code](https://www.youtube.com/watch?v=CFRhGnuXG-4)
 
 - Never Nester

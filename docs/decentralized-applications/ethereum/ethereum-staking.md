@@ -53,6 +53,10 @@ Liquid staking service providers solve this liquidity problem by minting a new t
 
 <https://www.youtube.com/playlist?list=PLAXQ4YtxCRUGVUXRJ-uSzyvNxZQq74uLY>
 
+[Lido | Liquid Staking for Digital Assets](https://lido.fi/)
+
+[Best Liquid Staking Platforms For Crypto May 2023](https://milkroad.com/staking/liquid)
+
 ## Links
 
 [How Does Ethereum Staking Work?](https://www.coindesk.com/learn/how-does-ethereum-staking-work/)

@@ -15,7 +15,15 @@ The Bristol Stool Chart shows seven categories of stool. Every person will have 
 ![image](../../media/Digestive-System-image2.gif)
 
 - [Type 1--2 indicate constipation](https://www.continence.org.au/pages/constipation.html)
-- [Type 3--4 are ideal stools](https://www.continence.org.au/pages/about-your-bowel.html) as they are easier to pass, and
+- [Type 3--4 are ideal stools](https://www.continence.org.au/pages/about-your-bowel.html) as they are easier to pass
 - [Type 5--7 may indicate diarrhoea and urgency.](https://www.continence.org.au/pages/diarrhoea.html)
 
 <https://www.continence.org.au/pages/bristol-stool-chart.html>
+
+[Steps of Diagnostic Upper GI Endoscopy - Dr S Easwaramoorthy - YouTube](https://www.youtube.com/watch?v=1sbDbe4F6cc&ab_channel=IAGESChannel)
+
+[Duodenal Anatomy: Overview, Gross Anatomy, Microscopic Anatomy](https://emedicine.medscape.com/article/1898874-overview)
+
+[Helicobacter pylori - Wikipedia](https://en.wikipedia.org/wiki/Helicobacter_pylori)
+
+[Gram-negative bacteria - Wikipedia](https://en.wikipedia.org/wiki/Gram-negative_bacteria)

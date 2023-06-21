@@ -34,6 +34,9 @@
 - zcash which claims it uses advanced tech to make sure that detecting ownership is nearly impossible
 - wbtc - [BITCOIN on ETHEREUM? (renBTC, wBTC, tBTC, sBTC) | DEFI Explained - YouTube](https://www.youtube.com/watch?v=iExly7FGKAQ)
 
+- AltCoins
+- ShitCoins
+
 ## Tokens / Stable coins
 
 [USDT vs. USDC vs. BUSD: What are the similarities and differences?](https://cointelegraph.com/learn/usdt-vs-usdc-vs-busd-what-are-the-similarities-and-differences)

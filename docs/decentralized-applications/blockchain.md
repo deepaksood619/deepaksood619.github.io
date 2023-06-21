@@ -103,7 +103,7 @@ Ex - <http://203.184.52.247:8333/>
 
 An unspent transaction output (UTXO) refers to a transaction output that can be used as input in a new transaction. In essence, UTXOs define where each blockchain transaction starts and finishes. The UTXO model is a fundamental element of Bitcoin and many other cryptocurrencies.
 
-- A UTXO is the amount of digital currency remaining after a cryptocurrency transaction is executed.
+- A UTXO is the amount of digital currency remaining after a cryptocurrency transaction is executed.
 - UTXOs are processed continuously and are part of the beginning and end of each transaction.
 - When a transaction is completed, any unspent outputs are recorded into a database as inputs that can be used later for a new transaction.
 

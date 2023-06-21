@@ -31,7 +31,7 @@ Before you quit, try.
 - What makes you happy
 - What you want to achieve
 
-## Relationship Quotes
+## Relationship Quotes (Marriage)
 
 Marrying well makes everything easier.
 
@@ -56,20 +56,15 @@ I would recognize you in total darkness, were you mute and I deaf. I would recog
 ![image](../media/Life-Relationship-People-image1.jpg)
 
 1. **Body:** The condition of your body, including your diet, stamina, strength, and recovery.
-
 2. **Mind:** [Your ability to focus](http://email.c.kajabimail.net/c/eJwdjstuwyAURL_GbCoQl5fDgkWqJlLX_YAIw3VCYkOEcdT-fWml2cxopHOi0zrGiSQnuODcCgDFreQMmOLHk7Yn825Go_o6KB7Yw9_9lFafFpaxkZvjQhmp7AzChzjJcNDj7HXQdoSDVRLI4m6tPbdBHgdx7om-pn2bSy37Nwtl7dNcwr7RCVvDSlef_RWp7yW3VDLNpdGWVuxHgn_kS8QlvbD-XFJ0FEajFVjgilQXEZ_-sZUSDdgufP037RTS3Fdq-Pb5MQiplda_n4hMdg), rest, and acquire knowledge.
-
 3. **Love:** Your relationship with family, friends, kids, and intimate partner.
-
 4. **Work:** How much inner satisfaction and financial rewards you receive from your career.
-
 5. **Money:** What you do with the money youhave.
-
 6. **Play:** How well you're able to entertain yourself.
 
 <https://dariusforoux.com/six-spokes-theory>
 
-## Date nights (Questions to wife) - Blinkist - Eight Dates by John Gottman
+### Date nights (Questions to wife) - Blinkist - Eight Dates by John Gottman
 
 1. Trust and commitment
 2. Addressing conflict
@@ -113,12 +108,9 @@ Love is not about somebody. Love is not some kind of act. Love is the way you ar
 
 I want to live in a world where friends feel **ok** to drop by each other's home unannounced
 
-## 7 secrets to a healthy relationship
+### 7 secrets to a healthy relationship
 
-1. Appreciate your partner's efforts
-
-    If you want your relationship to work, constantly remind yourself that the other is more significant than you.
-
+1. Appreciate your partner's efforts - If you want your relationship to work, constantly remind yourself that the other is more significant than you.
 2. Learn to respect personal space
 3. Express your emotions
 4. Discuss your concerns
@@ -126,11 +118,11 @@ I want to live in a world where friends feel **ok** to drop by each other's home
 6. Share your passions
 7. Avoid blame game
 
-## Gottman Ratio - 5 to 1 (can be used for habits also, for every one slip, do right 5/4 times)
+### Gottman Ratio - 5 to 1 (can be used for habits also, for every one slip, do right 5/4 times)
 
 This means that for every one negative feeling or interaction between partners, there must be five positive feelings or interactions. Stable and happy couples share more positive feelings and actions than negative ones. Unhappy couples tend to have more negative feelings and actions than positive ones. Partners who criticize each other, provide constant negative feedback, aren't supportive of each other, don't demonstrate affection or appreciation, or behave uninterested in their partner are in relationships that are out of balance.
 
-## The 5 love languages
+### The 5 love languages
 
 1. Positive, uplifting words of affirmation
 
@@ -146,6 +138,28 @@ This means that for every one negative feeling or interaction between partners, 
 4. Doing useful things for your partner is a common way to express love
 5. Physical touch is a powerful way to show your love
 6. Greatest gift - Helping your partner through hard times (simply standing by your partner during rough periods)
+
+### TEAM Method
+
+A marriage done well is a superpower
+
+Daily 10 mins checkin to boost your marriage
+
+#### T - Touch
+
+Hold hands, sit next to each other on the couch. Remind yourselves with touch you're in this together
+
+#### E - Education
+
+You each share one thing you learned that day that was interesting. A fact. A hard truth. Whatever. It's a chance for novelty and endorphins when we expand our brains.
+
+#### A - Appreciation
+
+You each share one thing you appreciate about the other. Could be how beautiful your partner looks that day. If you're ticked, it could be that they took out the trash. Only rules are, points for creativity and you can't keep using the same one
+
+#### M - Metrics
+
+Usually, when you're upset you tell them that moment. That gets naggy 321 times a day. With the check-in, you wait and bring it to this time. You don't fight when elevated, but you always get to explain your point.
 
 ## Friendship
 
@@ -650,3 +664,7 @@ Parasocial interaction(PSI) refers to a kind of [psychological relationship](htt
 [The Secret to Making New Friends as an Adult | Marisa G. Franco | TED](https://www.youtube.com/watch?v=-k0p-DYYZKU)
 
 - Make others feel valued and listened
+
+[Good sex explained in 9 minutes | Dr. Emily Nagoski - YouTube](https://www.youtube.com/watch?v=eqX38J9ya1I)
+
+[What is the RIGHT AGE to Get Married? - YouTube](https://www.youtube.com/watch?v=kFOqci-3WPs)

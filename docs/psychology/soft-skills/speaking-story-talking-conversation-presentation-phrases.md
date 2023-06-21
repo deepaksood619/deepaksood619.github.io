@@ -2,6 +2,8 @@
 
 Use english - Indians have a bias towards English
 
+Always tell stories, most visual stories are the best, and simple
+
 ## How to speak
 
 - Start with a Promise (At the end of this hour you will learn about x)

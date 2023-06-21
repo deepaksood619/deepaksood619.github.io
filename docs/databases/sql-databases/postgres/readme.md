@@ -155,3 +155,5 @@ SE Radio - 328: Postgres Query Planner (Robert Blumen with Bruce Momjian)
 [Herding elephants: Lessons learned from sharding Postgres at Notion](https://www.notion.so/blog/sharding-postgres-at-notion)
 
 [Postgres Copy](https://www.postgresql.org/docs/current/sql-copy.html)
+
+[Fun with PostgreSQL Puzzles: Moving Objects with Arrays, Sequences, and Aggregates](https://www.crunchydata.com/blog/fun-with-postgresql-puzzles-moving-objects-with-arrays-sequences-and-aggregates)

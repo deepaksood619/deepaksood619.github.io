@@ -50,3 +50,5 @@ Trust is most important
 Book - Red Roulette by Desmond Shum
 
 [Why we fight - YouTube](https://www.youtube.com/watch?v=1zBZ-aGqldA&ab_channel=CharlesHoskinson)
+
+[Ray Dalio on US Dominance, China Economy, Inflation, Future of Bridgewater - YouTube](https://www.youtube.com/watch?v=Y3LufB6DK4k)

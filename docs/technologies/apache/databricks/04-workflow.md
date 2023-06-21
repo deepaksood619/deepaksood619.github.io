@@ -30,6 +30,16 @@ dbutils.notebook.run(i['nb_path'], i['timeout'], i['args']).split(';')
 
 [Share code between Databricks notebooks | Databricks on AWS](https://docs.databricks.com/notebooks/share-code.html)
 
+[Share information between tasks in a Databricks job | Databricks on AWS](https://docs.databricks.com/workflows/jobs/share-task-context.html)
+
+```python
+dbutils.jobs.taskValues.set(key = 'name', value = 'Some User')
+dbutils.jobs.taskValues.set(key = "age", value = 30)
+
+dbutils.jobs.taskValues.get(taskKey = "Get_user_data", key = "age", default = 42, debugValue = 0)
+dbutils.jobs.taskValues.get(taskKey = "Get_user_data", key = "name", default = "Jane Doe")
+```
+
 ## Others
 
 ### DBX

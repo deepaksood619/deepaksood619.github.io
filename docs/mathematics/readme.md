@@ -161,3 +161,5 @@ Processing signals (filtering, storage and reconstruction, separation of informa
 [A few of the best math explainers from this summer](https://www.youtube.com/watch?v=F3Qixy-r_rQ)
 
 [How a Computer Broke a 50-Year Math Record - YouTube](https://www.youtube.com/watch?v=fDAPJ7rvcUw&ab_channel=QuantaMagazine)
+
+[The hidden networks of everything | Albert-László Barabási - YouTube](https://www.youtube.com/watch?v=RfgjHoVCZwU)

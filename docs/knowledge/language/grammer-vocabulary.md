@@ -27,71 +27,44 @@ Other areas of study for linguists include:
 
 ## How are you
 
-## Personal
+### Personal
 
-How are you doing?
+- How are you doing?
+- I am doing well (I am doing good incorrect)
+- How have you been?
+- What's going on?
+- What's new
+- What's new with you
+- What's up?
+- What are you up to?
+- How are things going?
+- How are you feeling?
+- How's it going?
+- How is everything
+- How's things?
+- How's life?
+- How's your day been?
+- How's your day going?
+- Are you alright?
 
-I am doing well (I am doing good incorrect)
+### Professional
 
-How have you been?
+- How do you do?
+- Are you well?
+- How do you fare?
+- How are things coming along?
+- How's everything coming together?
+- How's your health?
+- Hello, I hope you are well?
+- I trust you're well
 
-What's going on?
+### Fun
 
-What's new
-
-What's new with you
-
-What's up?
-
-What are you up to?
-
-How are things going?
-
-How are you feeling?
-
-How's it going?
-
-How is everything
-
-How's things?
-
-How's life?
-
-How's your day been?
-
-How's your day going?
-
-Are you alright?
-
-## Professional
-
-How do you do?
-
-Are you well?
-
-How do you fare?
-
-How are things coming along?
-
-How's everything coming together?
-
-How's your health?
-
-Hello, I hope you are well?
-
-I trust you're well
-
-## Fun
-
-Howdy
-
-How's it hanging
-
-How's tricks?
-
-What's sizzling?
-
-What's kicking
+- Howdy
+- How's it hanging
+- How's tricks?
+- What's sizzling?
+- What's kicking
 
 ## One word that solves all problems
 
@@ -115,7 +88,7 @@ Often it's not we who shape words, but the words we use shape us. -- Nina George
 
 ## Whataboutism / whataboutery
 
-Whataboutism, also known aswhataboutery, is a variant of the [tu quoque](https://en.wikipedia.org/wiki/Tu_quoque)[logical fallacy](https://en.wikipedia.org/wiki/Logical_fallacy) that attempts to discredit an opponent's position by charging them with [hypocrisy](https://en.wikipedia.org/wiki/Hypocrisy) without directly refuting or disproving their argument.
+Whataboutism, also known as whataboutery, is a variant of the [tu quoque](https://en.wikipedia.org/wiki/Tu_quoque)[logical fallacy](https://en.wikipedia.org/wiki/Logical_fallacy) that attempts to discredit an opponent's position by charging them with [hypocrisy](https://en.wikipedia.org/wiki/Hypocrisy) without directly refuting or disproving their argument.
 
 ## Others
 
@@ -159,6 +132,7 @@ As a general rule, "has" is used in the third person singular ("he", "she", "it"
   - "the one-upmanship of who can get the best presents"
 - **prescient** - having or showing knowledge of events before they take place. "a prescient warning"
 - **Midas Touch** - the ability to make money out of anything one undertakes.
+- autodidact - a self-taught person
 
 ## Others
 

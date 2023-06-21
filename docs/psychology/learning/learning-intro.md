@@ -192,6 +192,7 @@ Forgetting can be caused by two different processes. The first is a **failure of
 - Schedule your revision of each concept/topic to about the time that you would forget it (this needs self-experimentation as there is no formula to calculate this precisely)
 - Consider using a flashcards program (Anki, Quizlet, Supermemo)
 - [How to Supercharge Your Studying with Python, Anki, and ChatGPT](https://www.freecodecamp.org/news/supercharged-studying-with-python-anki-chatgpt/)
+- [Image Occlusion, Heatmap, Cloze Overlapper - Glutanimate - Anki Dev (The Accelerated Learning Canon) - YouTube](https://www.youtube.com/watch?v=4Mc_e-kRjOs)
 
 ## Retrieval: Accessing Memories from the Brain
 
@@ -476,3 +477,7 @@ You understand an idea not when you've memorized it, but when you know why its s
 [Ultralearning](../../book-summaries/ultralearning)
 
 [When is Learning Worth the Effort? - Scott H Young](https://www.scotthyoung.com/blog/2023/05/30/learning-cost-benefit/)
+
+[How to study for exams - Evidence-based revision tips - YouTube](https://www.youtube.com/watch?v=ukLnPbIffxE)
+
+[Augmenting Long term Memory - Michael Nielsen (The Accelerated Learning Canon) - YouTube](https://www.youtube.com/watch?v=o0-iULLKlfA)

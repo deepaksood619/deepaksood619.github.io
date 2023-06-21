@@ -18,7 +18,6 @@ The Top Three Highest Ranking Crypto Websites on Alexa
 - SushiSwap
   - [What Is a VAMPIRE ATTACK? SUSHISWAP Saga Explained - YouTube](https://www.youtube.com/watch?v=UFjXwrCGuog&ab_channel=Finematics)
   - [SUSHI - Most Underrated Protocol in DeFi? (BentoBox, Kashi, Miso Explained) - YouTube](https://www.youtube.com/watch?v=Cbtvc8Eso_g)
-- [How Does THORCHAIN Work? DEFI Explained - YouTube](https://www.youtube.com/watch?v=dNDh-mPboPc)
 - Binance.com (Global Ranking 210, US Rank 306)
 - Coinmarketcap.com (Global Rank 108, US Rank 131)
 - Coinbase.com (Global Rank 294, US Rank 209)
@@ -37,6 +36,8 @@ The Top Three Highest Ranking Crypto Websites on Alexa
 ### Uniswap
 
 [A Short Story of UNISWAP and UNI Token. DEFI Explained - YouTube](https://www.youtube.com/watch?v=LpjMgS4OVzs&ab_channel=Finematics)
+
+[Uniswap Exchange Review 2023: Is it safe to use?](https://milkroad.com/reviews/uniswap)
 
 #### Uniswap v3
 
@@ -66,3 +67,23 @@ Uniswap's **oracles are now far easier and cheaper to integrate**. V3 oracles a
 [GitHub - Uniswap/v4-core: 🦄 🦄 🦄 🦄 Core smart contracts of Uniswap v4](https://github.com/Uniswap/v4-core)
 
 [Our Vision for Uniswap v4](https://blog.uniswap.org/uniswap-v4)
+
+### ThorChain
+
+THORChain is a settlement layer that facilitates swaps between Bitcoin, Ethereum, BNB Chain, Avalanche, Cosmos Hub, Dogecoin, Bitcoin Cash, Litecoin
+
+THORChain is secured by its native token, RUNE, which deterministically accrues value as more assets are deposited into the network.
+
+Anyone can use THORChain to swap native assets between any supported chains or deposit their assets to earn yield from swaps.
+
+[THORChain Network Explorer](https://thorchain.net/dashboard)
+
+[THORChain](https://thorchain.org/)
+
+[How Does THORCHAIN Work? DEFI Explained - YouTube](https://www.youtube.com/watch?v=dNDh-mPboPc)
+
+#### Community
+
+[THORChain (@THORChain) / Twitter](https://twitter.com/THORChain)
+
+[THORChain | Linktree](https://linktr.ee/multichain)

@@ -223,3 +223,5 @@ Isotropic refers to the properties of a material which is independent of the dir
 [Understanding Magnetic couplers! - YouTube](https://www.youtube.com/watch?v=IAkxS1xVraw&ab_channel=Lesics)
 
 [The Secret Invention That Changed World War 2 - YouTube](https://www.youtube.com/watch?v=Dtocpvv88gQ)
+
+[How does an Elevator work? - YouTube](https://www.youtube.com/watch?v=rKp4pe92ljg)

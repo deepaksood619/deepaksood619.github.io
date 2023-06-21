@@ -195,7 +195,8 @@ Finance for Everyone
   - LTCG with indexation available
 - No TDS (pay in returns)
 - 4KG per individual per year limit
-- <https://www.youtube.com/watch?v=sJR0ge1779w&feature=youtu.be&ab_channel=ETMONEY>
+- [Best Ways to Invest in Gold | Sovereign Gold Bond vs ETFs vs Mutual Fund vs Digital & Physical Gold - YouTube](https://www.youtube.com/watch?v=sJR0ge1779w)
+- [How to Invest in Gold | Sovereign Gold Bonds (SGB) vs Digital Gold vs Gold ETF vs Gold Mutual Fund - YouTube](https://www.youtube.com/watch?v=9UWNdpryusM)
 - Sold before 3 years - Short Term Capital Gains
   - Gains added to income
   - Taxed as per income tax slab
@@ -204,10 +205,11 @@ Finance for Everyone
 
 [Calculated the Returns | Gold vs Digital Gold vs SGB vs ETF | SHOCKING RESULTS | LLA - YouTube](https://www.youtube.com/watch?v=UcXeVBMbC_E)
 
-[Should we include gold in our long term investment portfolios?](https://www.youtube.com/watch?v=VUx1h9OLp4I)
+[Should we include gold in our long term investment portfolios? | freefincal](https://www.youtube.com/watch?v=VUx1h9OLp4I)
 
 - No benefit in including gold in your portfolio for returns
 - Negative correlation between equity and gold
+- 50% equity + 50% bond perform the best, lower beta (volatility) and same alpha (excess returns)
 
 ## National Pension Scheme (NPS)
 

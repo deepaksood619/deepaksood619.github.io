@@ -678,3 +678,7 @@ The true mark of a pro - at anything - is that he understands, loves, and is goo
 If you can't fly then run, if you can't run then walk, if you can't walk then crawl, but whatever you do you have to keep moving forward. -- Martin Luther King Jr
 
 Passion and Ownership: Buffett stressed the importance of working on something you truly love, ideally in your own business or at least having equity in it. Passion and ownership are key drivers for success, according to the Oracle of Omaha.
+
+## Links
+
+[World Leading Therapist: 3 Simple Steps To Remove Your Negative Thoughts: Marisa Peer | E154 - YouTube](https://www.youtube.com/watch?v=bzilnhq3Mkg)

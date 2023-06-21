@@ -95,6 +95,8 @@ As more people adopt Bitcoin and demand for it increases, the limited supply of 
 
 This deflationary aspect of Bitcoin is one of the factors that makes it attractive to investors, as they believe that the limited supply and potential increase in demand will drive up its value in the long term. However, it also poses challenges for its use as a currency, as deflation can discourage spending and investment in the short term, which can affect economic growth.
 
+[What happens when all 21 million Bitcoin are mined? - MoonPay](https://www.moonpay.com/learn/bitcoin/what-happens-when-21-million-bitcoins-are-mined)
+
 ## P2PKH
 
 **Pay-to-Public-Key-Hash (P2PKH)** is a method of sending bitcoin to a specific address. In this method, instead of sending money to a public key, as in P2PK transactions, a hash of the public key is used.

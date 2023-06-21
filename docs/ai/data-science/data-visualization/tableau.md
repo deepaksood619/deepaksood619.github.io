@@ -102,6 +102,12 @@ tsm configuration set -k vizportal.log.level -v info
 tsm configuration set -k vizqlserver.log.level -v info
 ```
 
+## REST APIs
+
+[REST API and Resource Versions - Tableau](https://help.tableau.com/current/api/rest_api/en-us/REST/rest_api_concepts_versions.htm)
+
+[Triggering extract refreshes for Tableau Server workbooks and data sources using the REST API | by Elliott Stam | Devyx | Medium](https://medium.com/snake-charmer-python-and-analytics/triggering-extract-refreshes-for-tableau-server-workbooks-and-data-sources-using-the-rest-api-d4a8b8c001bf)
+
 ## Resources
 
 [eLearning: Tableau Web-Based Training](https://www.tableau.com/learn/training/elearning)
