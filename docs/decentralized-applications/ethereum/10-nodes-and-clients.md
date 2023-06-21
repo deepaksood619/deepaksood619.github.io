@@ -7,16 +7,16 @@ Post-Merge Ethereum consists of two parts: the execution layer and the consensus
 - The execution client (also known as the Execution Engine, EL client or formerly the Eth1 client) listens to new transactions broadcasted in the network, executes them in EVM, and holds the latest state and database of all current Ethereum data.
 - The consensus client (also known as the Beacon Node, CL client or formerly the Eth2 client) implements the proof-of-stake consensus algorithm, which enables the network to achieve agreement based on validated data from the execution client.
 
-Both [execution clients](https://ethereum.org/en/developers/docs/nodes-and-clients/#execution-clients) and [consensus clients](https://ethereum.org/en/developers/docs/nodes-and-clients/#consensus-clients) exist in a variety of programming languages developed by different teams.
+Both [execution clients](https://ethereum.org/en/developers/docs/nodes-and-clients/#execution-clients) and [consensus clients](https://ethereum.org/en/developers/docs/nodes-and-clients/#consensus-clients) exist in a variety of programming languages developed by different teams.
 
 ### Tracking nodes in the network
 
 Multiple trackers offer a real-time overview of nodes in the Ethereum network. Note that due to the nature of decentralized networks, these crawlers can only provide a limited view of the network and might report different results.
 
-- [Map of nodes](https://etherscan.io/nodetracker) by Etherscan
-- [Ethernodes](https://ethernodes.org/) by Bitfly
+- [Map of nodes](https://etherscan.io/nodetracker) by Etherscan
+- [Ethernodes](https://ethernodes.org/) by Bitfly
 - [Ethereum Node Crawler](https://crawler.ethereum.org/)
-- [Nodewatch](https://www.nodewatch.io/) by Chainsafe, crawling consensus nodes
+- [Nodewatch](https://www.nodewatch.io/) by Chainsafe, crawling consensus nodes
 
 ## NODE TYPES
 

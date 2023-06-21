@@ -17,8 +17,8 @@ The D3.js library uses pre-built functions to select elements, create SVG object
 The central principle of D3.js design is to enable the programmer to first use a CSS-style selector to select a given set of [Document Object Model](https://en.wikipedia.org/wiki/Document_Object_Model)(DOM) nodes, then use operators to manipulate them in a similar manner to [jQuery](https://en.wikipedia.org/wiki/JQuery).For example, one may select all HTML `<p>...</p>` elements, and then change their text color, e.g. to lavender:
 
 ```html
-d3.selectAll("p")             // select all <p> elements
-.style("color", "lavender")  // set style "color" to value "lavender"   .attr("class", "squares")   // set attribute "class" to value "squares"   .attr("x", 50);         // set attribute "x" (horizontal position) to value 50px
+d3.selectAll("p")             // select all <p> elements
+.style("color", "lavender")  // set style "color" to value "lavender"   .attr("class", "squares")   // set attribute "class" to value "squares"   .attr("x", 50);         // set attribute "x" (horizontal position) to value 50px
 
 d3.selectAll("li")
 .text("list item")
@@ -43,7 +43,7 @@ d3.select("body")
 By declaring a transition, values for attributes and styles can be smoothly interpolated over a certain time. The following code will make all HTML `<p>...</p>` elements on a page gradually change their text color to pink:
 
 ```html
-d3.selectAll("p")          // select all <p> elements   .transition("trans_1")     // transition with name "trans_1"     .delay(0)                  // transition starting 0ms after trigger     .duration(500)             // transitioning for 500ms     .ease(d3.easeLinear)       // transition easing progression is linear...   .style("color", "pink");   // ... to color:pink
+d3.selectAll("p")          // select all <p> elements   .transition("trans_1")     // transition with name "trans_1"     .delay(0)                  // transition starting 0ms after trigger     .duration(500)             // transitioning for 500ms     .ease(d3.easeLinear)       // transition easing progression is linear...   .style("color", "pink");   // ... to color:pink
 ```
 
 ### Data-binding
@@ -51,25 +51,25 @@ d3.selectAll("p")          // select all <p> elements   .transition(
 ```python
 // Data
 var countriesData = [
-     { name:"Ireland",  income:53000, life: 78, pop:6378, color: "black"},
-     { name:"Norway",   income:73000, life: 87, pop:5084, color: "blue" },
-     { name:"Tanzania", income:27000, life: 50, pop:3407, color: "grey" }
-  ];
+     { name:"Ireland",  income:53000, life: 78, pop:6378, color: "black"},
+     { name:"Norway",   income:73000, life: 87, pop:5084, color: "blue" },
+     { name:"Tanzania", income:27000, life: 50, pop:3407, color: "grey" }
+  ];
 
-// Create SVG container  var svg = d3.select("#hook").append("svg")
-        .attr("width", 120)
-        .attr("height", 120)
-        .style("background-color", "#D0D0D0");
-       
+// Create SVG container  var svg = d3.select("#hook").append("svg")
+        .attr("width", 120)
+        .attr("height", 120)
+        .style("background-color", "#D0D0D0");
+       
 // Create SVG elements from data
 
-svg.selectAll("circle")   // create virtual circle template      .data(countriesData)     // bind data      
-.join("circle")     // joins data to the selection and creates circle elements for each individual data       
-.attr("id", function(d) { return d.name })          // set the circle's id according to the country name       
-.attr("cx", function(d) { return d.income / 1000  })// set the circle's horizontal position according to income       
-.attr("cy", function(d) { return d.life })         // set the circle's vertical position according to life expectancy       
-.attr("r",  function(d) { return d.pop / 1000 *2 })// set the circle's radius according to country's population       
-.attr("fill", function(d) { return d.color });    // set the circle's color according to country's color
+svg.selectAll("circle")   // create virtual circle template      .data(countriesData)     // bind data      
+.join("circle")     // joins data to the selection and creates circle elements for each individual data       
+.attr("id", function(d) { return d.name })          // set the circle's id according to the country name       
+.attr("cx", function(d) { return d.income / 1000  })// set the circle's horizontal position according to income       
+.attr("cy", function(d) { return d.life })         // set the circle's vertical position according to life expectancy       
+.attr("r",  function(d) { return d.pop / 1000 *2 })// set the circle's radius according to country's population       
+.attr("fill", function(d) { return d.color });    // set the circle's color according to country's color
 
 svg.append("rect")
 .attr("x", 0)
@@ -103,10 +103,10 @@ When enter()is combined with thedata()method, it looks at the selected elements 
  <ul></ul>
  <script>
   const dataset = ["a", "b", "c"];
-  d3.select("ul").selectAll("li")        
-  .data(dataset)        
-  .enter()        
-  .append("li")        
+  d3.select("ul").selectAll("li")        
+  .data(dataset)        
+  .enter()        
+  .append("li")        
   .text("New item");
 
   d3.select("body").selectAll("h2")

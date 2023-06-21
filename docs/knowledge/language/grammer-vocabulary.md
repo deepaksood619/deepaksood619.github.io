@@ -132,7 +132,7 @@ As a general rule, "has" is used in the third person singular ("he", "she", "it"
   - "the one-upmanship of who can get the best presents"
 - **prescient** - having or showing knowledge of events before they take place. "a prescient warning"
 - **Midas Touch** - the ability to make money out of anything one undertakes.
-- autodidact - a self-taught person
+- autodidact - a self-taught person
 
 ## Others
 
@@ -151,6 +151,6 @@ As a general rule, "has" is used in the third person singular ("he", "she", "it"
 - To Insure Promptitude (TIP)
 - BTFB - buy the fucking dip
 - BTFB - bounce the fuck back
-- Shilling is _when a person or group of persons promotes a particular cryptocurrency to create excitement for it_.
+- Shilling is _when a person or group of persons promotes a particular cryptocurrency to create excitement for it_.
 - NGMI - not gonna make it
 - Phenomenon (singular) vs Phenomena (plural)

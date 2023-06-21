@@ -532,7 +532,7 @@ FROM bank_data.meta_data where cast(substring(create_date,1,19) as timestamp) be
 ## Things to remember
 
 - MSCK repair statement loads the partition data for Hive-compatible data/partitions like year=2020/month=04/day=20. In this case, you would have to use ALTER TABLE ADD PARTITION to add each partition manually.
-- msck - is Hive's **m**eta**s**tore **c**onsistency **c**heck, similar to `fsck` which stands for [filesystem consistency check](https://en.wikipedia.org/wiki/Fsck)
+- msck - is Hive's **m**eta**s**tore **c**onsistency **c**heck, similar to `fsck` which stands for [filesystem consistency check](https://en.wikipedia.org/wiki/Fsck)
 - Hive Schema mismatch
 
     It can happen that partition schema is different from table's schema leading to 'HIVE_PARTITION_SCHEMA_MISMATCH' error. At the beginning of query execution, Athena verifies the table's schema by checking that each column data type is compatible between the table and the partition. If you create a table in CSV, JSON, and AVRO in Athena with AWS Glue Crawler, after the Crawler finishes processing, the schemas for the table and its partitions may be different. If there is a mismatch between the table's schema and the partition schemas, your queries fail in Athena due to the schema verification error.

@@ -45,7 +45,7 @@ Fat has an [energy](https://en.wikipedia.org/wiki/Energy) content of 9 [kcal](ht
 
 #### Visceral body fat
 
-Visceral body fat, also known as 'hidden' fat, is **fat stored deep inside the belly, wrapped around the organs, including the liver and intestines**. It makes up about one tenth of all the fat stored in the body.
+Visceral body fat, also known as 'hidden' fat, is **fat stored deep inside the belly, wrapped around the organs, including the liver and intestines**. It makes up about one tenth of all the fat stored in the body.
 
 #### Subcutaneous fat
 

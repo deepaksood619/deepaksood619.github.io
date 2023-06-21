@@ -159,7 +159,7 @@ A hashtable of the smaller data set is created, then SQL Server loops through th
 
 ### Left Anti Semi Join
 
-Left Anti Semi Join is the opposite of a [Left Semi Join](http://sqlity.net/en/1348/a-join-a-day-the-left-semi-join/). However, that does not make it a [right semi join](http://sqlity.net/en/1354/a-join-a-day-the-right-semi-join/). Instead "Anti" affects which rows are returned and which aren't. Like the Left Semi Join, the Left Anti Semi Join returns only rows from the left row source. Each row is also returned at most once. And duplicates are also not eliminated. However, other than the Left Semi Join, the Left Anti Semi Join returns only rows for which no match on the right side exists.
+Left Anti Semi Join is the opposite of a [Left Semi Join](http://sqlity.net/en/1348/a-join-a-day-the-left-semi-join/). However, that does not make it a [right semi join](http://sqlity.net/en/1354/a-join-a-day-the-right-semi-join/). Instead "Anti" affects which rows are returned and which aren't. Like the Left Semi Join, the Left Anti Semi Join returns only rows from the left row source. Each row is also returned at most once. And duplicates are also not eliminated. However, other than the Left Semi Join, the Left Anti Semi Join returns only rows for which no match on the right side exists.
 
 [A Join A Day – The Left Anti Semi Join - sqlity.net](https://sqlity.net/en/1360/a-join-a-day-the-left-anti-semi-join/)
 

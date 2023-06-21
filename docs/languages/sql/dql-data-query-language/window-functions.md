@@ -10,7 +10,7 @@ Window functions can be simply explained as calculation functions similar to agg
 
 ### What are window functions?
 
-They make building **complex aggregations** much simpler. They are so powerful that they serve as a dividing point in time: people talk about SQL before window functions and SQL after window functions. After window functions and Common Table Expressions were introduced to SQL, SQL has become Turing complete!
+They make building **complex aggregations** much simpler. They are so powerful that they serve as a dividing point in time: people talk about SQL before window functions and SQL after window functions. After window functions and Common Table Expressions were introduced to SQL, SQL has become Turing complete!
 
 Window functions operate on a group of rows, referred to as a window, and calculate a return value for each row based on the group of rows. Window functions are useful for processing tasks such as calculating a moving average, computing a cumulative statistic, or accessing the value of rows given the relative position of the current row.
 
@@ -37,23 +37,23 @@ The function operating on the window. Different classes of functions support dif
 
 #### ranking_function
 
-Any of the [Ranking window functions](https://docs.databricks.com/sql/language-manual/sql-ref-functions-builtin.html#ranking-window-functions).
+Any of the [Ranking window functions](https://docs.databricks.com/sql/language-manual/sql-ref-functions-builtin.html#ranking-window-functions).
 
-If specified the window_spec must include an [ORDER BY clause](https://docs.databricks.com/sql/language-manual/sql-ref-syntax-qry-select-orderby.html), but not a window_frame clause.
+If specified the window_spec must include an [ORDER BY clause](https://docs.databricks.com/sql/language-manual/sql-ref-syntax-qry-select-orderby.html), but not a window_frame clause.
 
 #### analytic_function
 
-Any of the [Analytic window functions](https://docs.databricks.com/sql/language-manual/sql-ref-functions-builtin.html#analytic-window-functions).
+Any of the [Analytic window functions](https://docs.databricks.com/sql/language-manual/sql-ref-functions-builtin.html#analytic-window-functions).
 
 #### aggregate_function
 
-Any of the [Aggregate functions](https://docs.databricks.com/sql/language-manual/sql-ref-functions-builtin.html#aggregate-functions).
+Any of the [Aggregate functions](https://docs.databricks.com/sql/language-manual/sql-ref-functions-builtin.html#aggregate-functions).
 
 If specified the function must not include a FILTER clause.
 
 ### window_name
 
-Identifies a [named window](https://docs.databricks.com/sql/language-manual/sql-ref-syntax-qry-select-named-window.html) specification defined by the [query](https://docs.databricks.com/sql/language-manual/sql-ref-syntax-qry-query.html).
+Identifies a [named window](https://docs.databricks.com/sql/language-manual/sql-ref-syntax-qry-select-named-window.html) specification defined by the [query](https://docs.databricks.com/sql/language-manual/sql-ref-syntax-qry-query.html).
 
 ### window_spec
 
@@ -65,11 +65,11 @@ One or more expression used to specify a group of rows defining the scope on whi
 
 #### order_by
 
-The [ORDER BY clause](https://docs.databricks.com/sql/language-manual/sql-ref-syntax-qry-select-orderby.html) specifies the order of rows within a partition.
+The [ORDER BY clause](https://docs.databricks.com/sql/language-manual/sql-ref-syntax-qry-select-orderby.html) specifies the order of rows within a partition.
 
 #### window_frame
 
-The [window frame clause](https://docs.databricks.com/sql/language-manual/sql-ref-syntax-window-functions-frame.html) specifies a sliding subset of rows within the partition on which the aggregate or analytics function operates.
+The [window frame clause](https://docs.databricks.com/sql/language-manual/sql-ref-syntax-window-functions-frame.html) specifies a sliding subset of rows within the partition on which the aggregate or analytics function operates.
 
 You can specify SORT BY as an alias for ORDER BY.
 
@@ -80,7 +80,7 @@ You can also specify DISTRIBUTE BY as an alias for PARTITION BY. You can use CLU
 |Function|Description|
 |---|---|
 |[dense_rank()](https://docs.databricks.com/sql/language-manual/functions/dense_rank.html)|Returns the rank of a value compared to all values in the partition.|
-|[ntile(n)](https://docs.databricks.com/sql/language-manual/functions/ntile.html)|Divides the rows for each window partition into n buckets ranging from 1 to at most `n`.|
+|[ntile(n)](https://docs.databricks.com/sql/language-manual/functions/ntile.html)|Divides the rows for each window partition into n buckets ranging from 1 to at most `n`.|
 |[percent_rank()](https://docs.databricks.com/sql/language-manual/functions/percent_rank.html)|Computes the percentage ranking of a value within the partition.|
 |[rank()](https://docs.databricks.com/sql/language-manual/functions/rank.html)|Returns the rank of a value compared to all values in the partition.|
 |[row_number()](https://docs.databricks.com/sql/language-manual/functions/row_number.html)|Assigns a unique, sequential number to each row, starting with one, according to the ordering of rows within the window partition.|
@@ -89,13 +89,13 @@ You can also specify DISTRIBUTE BY as an alias for PARTITION BY. You can use CLU
 
 You will only see the difference if you have ties within a partition for a particular ordering value.
 
-RANK numbers are skipped so there may be a gap in rankings, and may not be unique. DENSE_RANK numbers are not skipped so there will not be a gap in rankings, and may not be unique.
+RANK numbers are skipped so there may be a gap in rankings, and may not be unique. DENSE_RANK numbers are not skipped so there will not be a gap in rankings, and may not be unique.
 
-Unlike `DENSE_RANK`, `RANK` skips positions after equal rankings. The number of positions skipped depends on how many rows had an identical ranking. For example, Mary and Lisa sold the same number of products and are both ranked as #2. With `RANK`, the next position is #4; with `DENSE_RANK`, the next position is #3.
+Unlike `DENSE_RANK`, `RANK` skips positions after equal rankings. The number of positions skipped depends on how many rows had an identical ranking. For example, Mary and Lisa sold the same number of products and are both ranked as #2. With `RANK`, the next position is #4; with `DENSE_RANK`, the next position is #3.
 
-Both `RANK` and `RANK_DENSE` work on partitions of data
+Both `RANK` and `RANK_DENSE` work on partitions of data
 
-`RANK` and `DENSE_RANK` are deterministic in this case, all rows with the same value for both the ordering and partitioning columns will end up with an equal result, whereas `ROW_NUMBER` will arbitrarily (non deterministically) assign an incrementing result to the tied rows.
+`RANK` and `DENSE_RANK` are deterministic in this case, all rows with the same value for both the ordering and partitioning columns will end up with an equal result, whereas `ROW_NUMBER` will arbitrarily (non deterministically) assign an incrementing result to the tied rows.
 
 [What’s the Difference Between RANK and DENSE\_RANK in SQL? | LearnSQL.com](https://learnsql.com/cookbook/whats-the-difference-between-rank-and-dense_rank-in-sql/)
 
@@ -162,9 +162,9 @@ The clause "ROWS BETWEEN UNBOUNDED PRECEDING AND CURRENT ROW" in the given query
 |Function|Description|
 |---|---|
 |[cume_dist()](https://docs.databricks.com/sql/language-manual/functions/cume_dist.html)|Returns the position of a value relative to all values in the partition.|
-|[lag(expr[,offset[,default]])](https://docs.databricks.com/sql/language-manual/functions/lag.html)|Returns the value of `expr` from a preceding row within the partition.|
-|[lead(expr[,offset[,default]])](https://docs.databricks.com/sql/language-manual/functions/lead.html)|Returns the value of `expr` from a subsequent row within the partition.|
-|[nth_value(expr, offset[, ignoreNulls])](https://docs.databricks.com/sql/language-manual/functions/nth_value.html)|Returns the value of `expr` at a specific `offset` in the window.|
+|[lag(expr[,offset[,default]])](https://docs.databricks.com/sql/language-manual/functions/lag.html)|Returns the value of `expr` from a preceding row within the partition.|
+|[lead(expr[,offset[,default]])](https://docs.databricks.com/sql/language-manual/functions/lead.html)|Returns the value of `expr` from a subsequent row within the partition.|
+|[nth_value(expr, offset[, ignoreNulls])](https://docs.databricks.com/sql/language-manual/functions/nth_value.html)|Returns the value of `expr` at a specific `offset` in the window.|
 
 ## SQL Window Functions Cheat Sheet
 

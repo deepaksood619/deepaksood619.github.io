@@ -17,7 +17,7 @@
 
 ### ALM (Asset Liability Mismatch)
 
-Asset/liability management is the process of managing the use of assets and [cash flows](https://www.investopedia.com/terms/c/cashflow.asp) to reduce the firm’s [risk of loss](https://www.investopedia.com/terms/r/risk.asp) from not paying a liability on time. Well-managed assets and liabilities increase business profits. The asset/liability management process is typically applied to bank loan portfolios and [pension plans](https://www.investopedia.com/terms/p/pensionplan.asp). It also involves the [economic value of equity](https://www.investopedia.com/terms/e/economicvalueofequity.asp).
+Asset/liability management is the process of managing the use of assets and [cash flows](https://www.investopedia.com/terms/c/cashflow.asp) to reduce the firm’s [risk of loss](https://www.investopedia.com/terms/r/risk.asp) from not paying a liability on time. Well-managed assets and liabilities increase business profits. The asset/liability management process is typically applied to bank loan portfolios and [pension plans](https://www.investopedia.com/terms/p/pensionplan.asp). It also involves the [economic value of equity](https://www.investopedia.com/terms/e/economicvalueofequity.asp).
 
 [Asset/Liability Management: Definition, Meaning, and Strategies](https://www.investopedia.com/terms/a/asset-liabilitymanagement.asp)
 
@@ -27,7 +27,7 @@ A Non-performing asset(NPA) is defined as a [credit facility](https://en.wikiped
 
 GNPA: GNPA stands for gross non-performing assets. GNPA is an absolute amount. It tells you the total value of gross non-performing assets for the bank in a particular quarter or financial year as the case may be.
 
-NNPA: NNPA stands for net non-performing assets. NNPA subtracts the provisions made by the bank from the gross NPA. Therefore net NPA gives you the exact value of non-performing assets after the bank has made specific provisions for it.
+NNPA: NNPA stands for net non-performing assets. NNPA subtracts the provisions made by the bank from the gross NPA. Therefore net NPA gives you the exact value of non-performing assets after the bank has made specific provisions for it.
 
 ## Capital Adequacy Ratio (CAR)
 
@@ -37,13 +37,13 @@ NNPA: NNPA stands for net non-performing assets. NNPA subtracts the provisions m
 
 ### Risk-Weighted Assets
 
-[Risk-weighted assets](https://www.investopedia.com/terms/r/riskweightedassets.asp) are used to determine the minimum amount of capital that must be held by banks and other institutions to reduce the risk of [insolvency](https://www.investopedia.com/terms/i/insolvency.asp). The [capital requirement](https://www.investopedia.com/terms/c/capitalrequirement.asp) is based on a [risk assessment](https://www.investopedia.com/terms/r/risk-assessment.asp) for each type of bank asset. For example, a loan that is secured by a [letter of credit](https://www.investopedia.com/terms/l/letterofcredit.asp) is considered to be riskier and requires more capital than a mortgage loan that is secured with collateral.
+[Risk-weighted assets](https://www.investopedia.com/terms/r/riskweightedassets.asp) are used to determine the minimum amount of capital that must be held by banks and other institutions to reduce the risk of [insolvency](https://www.investopedia.com/terms/i/insolvency.asp). The [capital requirement](https://www.investopedia.com/terms/c/capitalrequirement.asp) is based on a [risk assessment](https://www.investopedia.com/terms/r/risk-assessment.asp) for each type of bank asset. For example, a loan that is secured by a [letter of credit](https://www.investopedia.com/terms/l/letterofcredit.asp) is considered to be riskier and requires more capital than a mortgage loan that is secured with collateral.
 
 **CAR = (Tier 1 capital + Tier 2 capital)/risk weighted assets**
 
-**Tier 1 capital:** This can absorb the losses without a bank being required to stop trading. Also called core capital, this consists of ordinary share capital, equity capital, audited revenue reserves, and intangible assets. This is permanently available capital and readily available to absorb losses incurred by a bank without it having to cease operations.
+**Tier 1 capital:** This can absorb the losses without a bank being required to stop trading. Also called core capital, this consists of ordinary share capital, equity capital, audited revenue reserves, and intangible assets. This is permanently available capital and readily available to absorb losses incurred by a bank without it having to cease operations.
 
-**Tier 2 capital:** This can absorb losses if the bank is winding-up and so gives depositors a lesser measure of protection. This consists of unaudited reserves, unaudited retained earnings, and general loss reserves. This capital cushions losses if the bank is winding up and is used to absorb losses after a bank loses all its tier 1 capital.
+**Tier 2 capital:** This can absorb losses if the bank is winding-up and so gives depositors a lesser measure of protection. This consists of unaudited reserves, unaudited retained earnings, and general loss reserves. This capital cushions losses if the bank is winding up and is used to absorb losses after a bank loses all its tier 1 capital.
 
 [What the Capital Adequacy Ratio (CAR) Measures With Formula](https://www.investopedia.com/terms/c/capitaladequacyratio.asp)
 

@@ -24,7 +24,7 @@ Week 4
 
 1) Pick a data visualization tool (find a free or cheap one, low risk)
 2) Stand up a data warehouse (find one with a free tier)
-3) Put in place an EL solution with a free tier like [Portable](https://www.linkedin.com/company/portable-io/)
+3) Put in place an EL solution with a free tier like [Portable](https://www.linkedin.com/company/portable-io/)
 
 Week 5
 

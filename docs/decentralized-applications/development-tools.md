@@ -7,7 +7,7 @@
 
 Ganache is an Ethereum simulator that makes developing Ethereum applications faster, easier, and safer. It includes all popular RPC functions and features (like events) and can be run deterministically to make development a breeze.
 
-- `console.log` in Solidity
+- `console.log` in Solidity
 - Zero-config Mainnet Forking
 - Fork any Ethereum network without waiting to sync
 - Ethereum JSON-RPC support
@@ -31,9 +31,9 @@ Ocean provides the next generation of tools to unlock data at a large scale. Oce
 
 ### DEXTools
 
-**This is an all-in-one tool for new crypto tokens.** It tracks real-time prices, transactions, liquidity, charts, and more.
+**This is an all-in-one tool for new crypto tokens.** It tracks real-time prices, transactions, liquidity, charts, and more.
 
-**What’s cool about it:** I don't know how to read a smart contract perfectly (your boy was only blessed with a double-digit IQ), but Dextools helps out by giving insights into:
+**What’s cool about it:** I don't know how to read a smart contract perfectly (your boy was only blessed with a double-digit IQ), but Dextools helps out by giving insights into:
 
 - whether or not that specific token has a verified contract
 - whether it’s safe or a scam
@@ -41,9 +41,9 @@ Ocean provides the next generation of tools to unlock data at a large scale. Oce
 
 ### TokenSniffer
 
-This is a tool that analyzes the token’s smart contract, tokenomics, holders, etc, and then **generates a security audit score for that specific token.**
+This is a tool that analyzes the token’s smart contract, tokenomics, holders, etc, and then **generates a security audit score for that specific token.**
 
-**What’s cool about it:** TokenSniffer tells you stuff like if...
+**What’s cool about it:** TokenSniffer tells you stuff like if...
 
 - The token is sellable or just a honeypot scam
 - The contract source is verified

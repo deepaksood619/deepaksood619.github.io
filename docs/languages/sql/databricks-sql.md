@@ -6,27 +6,27 @@
 
 ### [set_operator](https://docs.databricks.com/sql/language-manual/sql-ref-syntax-qry-select-setops.html)
 
-A construct combining subqueries using `UNION`, `EXCEPT`, or `INTERSECT` operators.
+A construct combining subqueries using `UNION`, `EXCEPT`, or `INTERSECT` operators.
 
 ### [ORDER BY](https://docs.databricks.com/sql/language-manual/sql-ref-syntax-qry-select-orderby.html)
 
-An ordering of the rows of the complete result set of the query. The output rows are ordered across the partitions. This parameter is mutually exclusive with `SORT BY`, `CLUSTER BY`, and `DISTRIBUTE BY` and cannot be specified together.
+An ordering of the rows of the complete result set of the query. The output rows are ordered across the partitions. This parameter is mutually exclusive with `SORT BY`, `CLUSTER BY`, and `DISTRIBUTE BY` and cannot be specified together.
 
 ### [DISTRIBUTE BY](https://docs.databricks.com/sql/language-manual/sql-ref-syntax-qry-select-distributeby.html)
 
-A set of expressions by which the result rows are repartitioned. This parameter is mutually exclusive with `ORDER BY` and `CLUSTER BY` and cannot be specified together.
+A set of expressions by which the result rows are repartitioned. This parameter is mutually exclusive with `ORDER BY` and `CLUSTER BY` and cannot be specified together.
 
 ### [SORT BY](https://docs.databricks.com/sql/language-manual/sql-ref-syntax-qry-select-sortby.html)
 
-An ordering by which the rows are ordered within each partition. This parameter is mutually exclusive with `ORDER BY` and `CLUSTER BY` and cannot be specified together.
+An ordering by which the rows are ordered within each partition. This parameter is mutually exclusive with `ORDER BY` and `CLUSTER BY` and cannot be specified together.
 
 ### [CLUSTER BY](https://docs.databricks.com/sql/language-manual/sql-ref-syntax-qry-select-clusterby.html)
 
-A set of expressions that is used to repartition and sort the rows. Using this clause has the same effect of using `DISTRIBUTE BY` and `SORT BY` together.
+A set of expressions that is used to repartition and sort the rows. Using this clause has the same effect of using `DISTRIBUTE BY` and `SORT BY` together.
 
 ### [WINDOW](https://docs.databricks.com/sql/language-manual/sql-ref-syntax-qry-select-named-window.html)
 
-Defines named window specifications that can be shared by multiple [Window functions](https://docs.databricks.com/sql/language-manual/sql-ref-window-functions.html) in the `select_query`.
+Defines named window specifications that can be shared by multiple [Window functions](https://docs.databricks.com/sql/language-manual/sql-ref-window-functions.html) in the `select_query`.
 
 ## Functions
 

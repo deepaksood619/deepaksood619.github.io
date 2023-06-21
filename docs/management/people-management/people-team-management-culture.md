@@ -14,7 +14,7 @@ Let’s dream big, plan diligently, and execute relentlessly
 
 Would I rather be feared or loved? Both I want people to be afraid of how much they love me.
 
-Fool me once, shame on you. Fool me twice, shame on me. Fool me three times, shame on both of us.
+Fool me once, shame on you. Fool me twice, shame on me. Fool me three times, shame on both of us.
 
 ## What When How
 

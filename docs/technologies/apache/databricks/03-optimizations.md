@@ -4,7 +4,7 @@
 
 [Save on storage costs with Databricks on AWS | Medium](https://medium.com/the-nobodys-of-tech/save-on-storage-costs-with-databricks-on-aws-374931708fa0)
 
-The only way to delete files no longer needed for the table’s state is by running the [_VACUUM_](https://docs.delta.io/latest/delta-utility.html#vacuum) command on the table. The command takes a threshold (days), and only removes files beyond the threshold days so that the time-travel/restore is available for the threshold period. This is great and appears to have solved the problem of exponential file duplication, but there is one more caveat. Unless the S3 bucket backing the delta table is disabled for [_versioning_](https://docs.aws.amazon.com/AmazonS3/latest/userguide/versioning-workflows.html), the previous delete operation only adds a [_Delete Marker_](https://docs.aws.amazon.com/AmazonS3/latest/userguide/DeleteMarker.html) to the files, and the actual version is still retained for X number of days for general purpose restoration. The X number of days is defined in the [_Lifecycle Policy_](https://docs.aws.amazon.com/AmazonS3/latest/userguide/object-lifecycle-mgmt.html) of the S3 bucket.
+The only way to delete files no longer needed for the table’s state is by running the [_VACUUM_](https://docs.delta.io/latest/delta-utility.html#vacuum) command on the table. The command takes a threshold (days), and only removes files beyond the threshold days so that the time-travel/restore is available for the threshold period. This is great and appears to have solved the problem of exponential file duplication, but there is one more caveat. Unless the S3 bucket backing the delta table is disabled for [_versioning_](https://docs.aws.amazon.com/AmazonS3/latest/userguide/versioning-workflows.html), the previous delete operation only adds a [_Delete Marker_](https://docs.aws.amazon.com/AmazonS3/latest/userguide/DeleteMarker.html) to the files, and the actual version is still retained for X number of days for general purpose restoration. The X number of days is defined in the [_Lifecycle Policy_](https://docs.aws.amazon.com/AmazonS3/latest/userguide/object-lifecycle-mgmt.html) of the S3 bucket.
 
 Bottom line, if the delta tables are backed by a version enabled S3 Bucket with a very generous lifecycle policy, the storage cost will increase exponentially and mitigation efforts through VACUUM has very little effect. The bitter truth is, after a while, much of your S3 cost is towards the files that does not make up your table.
 
@@ -47,11 +47,11 @@ Bottom line, if the delta tables are backed by a version enabled S3 Bucket with 
 
 ## Optimize your file size for fast file pruning
 
-Two of the biggest time sinks in an Apache Spark query are the time spent reading data from cloud storage and the need to read all underlying files. With [data skipping](https://docs.databricks.com/delta/optimizations/file-mgmt.html#data-skipping) on Delta Lake, queries can selectively read only the Delta files containing relevant data, saving significant time. Data skipping can help with static file pruning, dynamic file pruning, static partition pruning and dynamic partition pruning.
+Two of the biggest time sinks in an Apache Spark query are the time spent reading data from cloud storage and the need to read all underlying files. With [data skipping](https://docs.databricks.com/delta/optimizations/file-mgmt.html#data-skipping) on Delta Lake, queries can selectively read only the Delta files containing relevant data, saving significant time. Data skipping can help with static file pruning, dynamic file pruning, static partition pruning and dynamic partition pruning.
 
 One of the first things to consider when setting up data skipping is the ideal data file size - too small and you will have too many files (the well-known “small-file problem”); too large and you won’t be able to skip enough data.
 
-A good file size range is 32-128MB (`1024*1024*32 = 33554432` for 32MB of course). Again, the idea is that if the file size is too big, the dynamic file pruning will skip to the right file or files, but they will be so large it will still have a lot of work to do. By [creating smaller files](https://docs.databricks.com/delta/optimizations/file-mgmt.html#id4), you can benefit from file pruning and minimize the I/O retrieving the data you need to join.
+A good file size range is 32-128MB (`1024*1024*32 = 33554432` for 32MB of course). Again, the idea is that if the file size is too big, the dynamic file pruning will skip to the right file or files, but they will be so large it will still have a lot of work to do. By [creating smaller files](https://docs.databricks.com/delta/optimizations/file-mgmt.html#id4), you can benefit from file pruning and minimize the I/O retrieving the data you need to join.
 
 You can set the file size value for the entire notebook in Python:
 
@@ -73,17 +73,17 @@ ALTER TABLE (database).(table) SET TBLPROPERTIES (delta.targetFileSize=33554432)
 
 If you happen to be reading this article after you have already created tables, you can still set the table property for the file size and, when optimizing and creating the ZORDER, the files will be proportioned to the new file size. If you have already added a ZORDER, you can add and/or remove a column to force a re-write before arriving at the final ZORDER configuration.
 
-As Databricks continues to add features and capabilities, we can also Auto Tune the file size based on the table size. For smaller databases, the above setting will likely provide better performance but for larger tables and/or just to make it simpler, you can follow the guidance [here](https://docs.databricks.com/delta/optimizations/file-mgmt.html#autotune-based-on-table-size) and implement the `delta.tuneFileSizesForRewrites` table property.
+As Databricks continues to add features and capabilities, we can also Auto Tune the file size based on the table size. For smaller databases, the above setting will likely provide better performance but for larger tables and/or just to make it simpler, you can follow the guidance [here](https://docs.databricks.com/delta/optimizations/file-mgmt.html#autotune-based-on-table-size) and implement the `delta.tuneFileSizesForRewrites` table property.
 
 ### Create a Z-Order on your fact tables
 
 ![z-order](../../../media/Pasted%20image%2020230320173453.png)
 
-If you expect a column to be commonly used in query predicates and if that column has high cardinality (that is, a large number of distinct values), then use `ZORDER BY`.
+If you expect a column to be commonly used in query predicates and if that column has high cardinality (that is, a large number of distinct values), then use `ZORDER BY`.
 
-You can specify multiple columns for `ZORDER BY` as a comma-separated list. However, the effectiveness of the locality drops with each extra column. Z-ordering on columns that do not have statistics collected on them would be ineffective and a waste of resources. This is because data skipping requires column-local stats such as min, max, and count. You can configure statistics collection on certain columns by reordering columns in the schema, or you can increase the number of columns to collect statistics on.
+You can specify multiple columns for `ZORDER BY` as a comma-separated list. However, the effectiveness of the locality drops with each extra column. Z-ordering on columns that do not have statistics collected on them would be ineffective and a waste of resources. This is because data skipping requires column-local stats such as min, max, and count. You can configure statistics collection on certain columns by reordering columns in the schema, or you can increase the number of columns to collect statistics on.
 
-To improve query speed, Delta Lake supports the ability to optimize the layout of data stored in cloud storage with [Z-Ordering](https://docs.databricks.com/delta/optimizations/file-mgmt.html), also known as multi-dimensional clustering. Z-Orders are used in similar situations as clustered indexes in the database world, though they are not actually an auxiliary structure. A Z-Order will cluster the data in the Z-Order definition, so that rows like column values from the Z-order definition are collocated in as few files as possible.
+To improve query speed, Delta Lake supports the ability to optimize the layout of data stored in cloud storage with [Z-Ordering](https://docs.databricks.com/delta/optimizations/file-mgmt.html), also known as multi-dimensional clustering. Z-Orders are used in similar situations as clustered indexes in the database world, though they are not actually an auxiliary structure. A Z-Order will cluster the data in the Z-Order definition, so that rows like column values from the Z-order definition are collocated in as few files as possible.
 
 Most database systems introduced indexing as a way to improve query performance. Indexes are files, and thus as the data grows in size, they can become another big data problem to solve. Instead, Delta Lake orders the data in the Parquet files to make range selection on object storage more efficient. Combined with the stats collection process and data skipping, Z-Order is similar to seek vs. scan operations in databases, which indexes solved, without creating another compute bottleneck to find the data a query is looking for.
 
@@ -111,7 +111,7 @@ OPTIMIZE MY_BIG_DIM
 
 ## Partitions vs Z-Ordering
 
-- Z-order works in tandem with the `OPTIMIZE` command. You cannot combine files across partition boundaries, and so Z-order clustering can only occur within a partition. For unpartitioned tables, files can be combined across the entire table.
+- Z-order works in tandem with the `OPTIMIZE` command. You cannot combine files across partition boundaries, and so Z-order clustering can only occur within a partition. For unpartitioned tables, files can be combined across the entire table.
 - Partitioning works well only for low or known cardinality fields (for example, date fields or physical locations), but not for fields with high cardinality such as timestamps. Z-order works for all fields, including high cardinality fields and fields that may grow infinitely (for example, timestamps or the customer ID in a transactions or orders table).
 
 [When to partition tables on Databricks | Databricks on AWS](https://docs.databricks.com/tables/partitions.html)

@@ -22,7 +22,7 @@ But ordinals can alter the value of these units of money. Take rare collectible 
 
 Bitcoin is money, and that’s the largest and most important use case, impacting the most people in the world. Which is why I believe that Ordinals and other use cases both known today and yet to emerge will remain niche.
 
-### SADO (self-authenticating decentralized **(interplanetary)** ordinalbooks)
+### SADO (self-authenticating decentralized **(interplanetary)** ordinalbooks)
 
 [SADO](http://sado.space/)
 

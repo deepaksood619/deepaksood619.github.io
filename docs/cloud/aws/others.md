@@ -35,7 +35,7 @@ The AWS CDK lets you build reliable, scalable, cost-effective applications in th
 
 ## AWS Data Lab
 
-AWS Data Lab offers accelerated, joint engineering engagements between customers and AWS technical resources to create tangible deliverables that accelerate databases, analytics, artificial intelligence/machine learning (AI/ML), application & infrastructure modernization, and DataOps initiatives.
+AWS Data Lab offers accelerated, joint engineering engagements between customers and AWS technical resources to create tangible deliverables that accelerate databases, analytics, artificial intelligence/machine learning (AI/ML), application & infrastructure modernization, and DataOps initiatives.
 
 Data Lab has three offerings - the Build Lab, the Design Lab, and Resident Architect.
 

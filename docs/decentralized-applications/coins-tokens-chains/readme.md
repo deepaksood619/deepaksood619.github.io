@@ -101,7 +101,7 @@ Market Capitalization - [https://coinmarketcap.com/](https://coinmarketcap.com/)
 
 [Cosmos: The Internet of Blockchains](https://cosmos.network/)
 
-Cosmos is a decentralized network of independent parallel blockchains, each powered by  BFT consensus algorithms like [Tendermint](https://v1.cosmos.network/intro#what-is-tendermint-core-and-the-abci) consensus.
+Cosmos is a decentralized network of independent parallel blockchains, each powered by  BFT consensus algorithms like [Tendermint](https://v1.cosmos.network/intro#what-is-tendermint-core-and-the-abci) consensus.
 
 [What is Cosmos? - Cosmos Network](https://v1.cosmos.network/intro)
 

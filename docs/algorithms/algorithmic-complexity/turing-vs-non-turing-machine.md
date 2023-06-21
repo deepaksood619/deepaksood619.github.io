@@ -22,11 +22,11 @@ What this means, practically, is that the language must support:
 
 Now coming back to blockchain technologies ….
 
-Bitcoin developers decided to remove the feature of looping in bitcoin script to avoid any spam or network overload, hence making it turing incomplete. The answer to the question is as simple as that. Ethereum try to overcome the problem of infinite looping using a concept called “Gas”.
+Bitcoin developers decided to remove the feature of looping in bitcoin script to avoid any spam or network overload, hence making it turing incomplete. The answer to the question is as simple as that. Ethereum try to overcome the problem of infinite looping using a concept called “Gas”.
 
-The reason gas is important is that it helps to ensure an appropriate fee is being paid by transactions submitted to the network. By requiring that a transaction pay for each operation it performs (or causes a contract to perform), we ensure that network doesn't become bogged down with performing a lot of intensive work that isn't valuable to anyone.
+The reason gas is important is that it helps to ensure an appropriate fee is being paid by transactions submitted to the network. By requiring that a transaction pay for each operation it performs (or causes a contract to perform), we ensure that network doesn't become bogged down with performing a lot of intensive work that isn't valuable to anyone.
 
-As stated by [Vladislav Zorov's answer to To better understand "Turing-complete blockchains", what is an example and a non-example of Turing-complete Blockchains? If a non-example does not exist, why mention it at all?](https://www.quora.com/To-better-understand-Turing-complete-blockchains-what-is-an-example-and-a-non-example-of-Turing-complete-Blockchains-If-a-non-example-does-not-exist-why-mention-it-at-all/answer/Vladislav-Zorov "www.quora.com")
+As stated by [Vladislav Zorov's answer to To better understand "Turing-complete blockchains", what is an example and a non-example of Turing-complete Blockchains? If a non-example does not exist, why mention it at all?](https://www.quora.com/To-better-understand-Turing-complete-blockchains-what-is-an-example-and-a-non-example-of-Turing-complete-Blockchains-If-a-non-example-does-not-exist-why-mention-it-at-all/answer/Vladislav-Zorov "www.quora.com")
 
 **All Ethereum testnets so far have been DoS’ed**
 
@@ -48,9 +48,9 @@ Now imagine if I could send a message containing Infinite loop as a part of scri
 
 ## Turning vs Non-Turing complete Chains
 
-The Bitcoin blockchain is (purposefully) non-Turing-complete - the scripting language inside transactions is powerful enough to express some smart contracts, like multi-signature wallets or even add-ons like Lightning Network, but it cannot express any program whatsoever (like a Turing-complete language could). For example you can’t loop and read/write to arbitrary memory locations - you’re limited to a simple stack machine.
+The Bitcoin blockchain is (purposefully) non-Turing-complete - the scripting language inside transactions is powerful enough to express some smart contracts, like multi-signature wallets or even add-ons like Lightning Network, but it cannot express any program whatsoever (like a Turing-complete language could). For example you can’t loop and read/write to arbitrary memory locations - you’re limited to a simple stack machine.
 
-The advantage of the above are termination guarantees - programs (transactions) always end, and their runtime will be roughly proportional to their length. While in Ethereum (a Turing-complete blockchain) there can be transactions that fail to terminate, and also it’s not possible to determine in advance whether a certain transaction will terminate (a result known as the “Halting Problem” in computer science).
+The advantage of the above are termination guarantees - programs (transactions) always end, and their runtime will be roughly proportional to their length. While in Ethereum (a Turing-complete blockchain) there can be transactions that fail to terminate, and also it’s not possible to determine in advance whether a certain transaction will terminate (a result known as the “Halting Problem” in computer science).
 
 So in Ethereum you pay per computational step, while in Bitcoin you pay per byte. If a transaction goes in an endless loop on Ethereum, it will eventually drain all the gas attached to it and be force-terminated. Of course, this won’t stop people that want to mess with miners if gas is free - all Ethereum testnets so far have been DoS’ed (just spam the network with endlessly-looping transactions; you don’t need much resource to send those, but it takes lots of resource to process them), except one where you had to join a channel to beg for test Ether and they’d only give you an amount proportional to your Ethereum-related GitHub contributions. If you ran out, you’d have to go back to the channel and explain why you ran out.
 

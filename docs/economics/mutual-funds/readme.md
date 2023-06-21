@@ -111,7 +111,7 @@ They are also called balanced funds.
 
 There are a few kinds of hybrid funds.
 
-Multi-asset funds are also hybrid in nature but there’s one major difference. They have to invest in at least 3 different assets and must invest at least 10% in each of those assets.
+Multi-asset funds are also hybrid in nature but there’s one major difference. They have to invest in at least 3 different assets and must invest at least 10% in each of those assets.
 
 For example, a multi-asset fund might invest in equity, debt, as well as gold.
 

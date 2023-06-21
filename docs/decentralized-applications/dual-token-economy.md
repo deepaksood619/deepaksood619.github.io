@@ -40,7 +40,7 @@ Rebase stable coin is a supply elastic token that works in a way the circulating
 
 Seigniorage stable coin has mostly a multi-token design i.e. one token acts as a stablecoin and other token act as shares or ownership of seigniorage.
 
-In traditional finance seigniorage is the profit made by a government by issuing currency, especially the difference between the face value of coins and their production costs.
+In traditional finance seigniorage is the profit made by a government by issuing currency, especially the difference between the face value of coins and their production costs.
 
 In case of seigniorage stable coins the profit is made for the people the holds the shares, i.e. the token that acts as ownership of seigniorage.
 

@@ -15,20 +15,20 @@ table_name = "people_10m"
 df.write.saveAsTable(table_name)
 ```
 
-The preceding operations create a new [managed table](https://docs.databricks.com/lakehouse/data-objects.html#managed-table) by using the schema that was inferred from the data. For information about available options when you create a Delta table, see [CREATE TABLE](https://docs.databricks.com/sql/language-manual/sql-ref-syntax-ddl-create-table.html).
+The preceding operations create a new [managed table](https://docs.databricks.com/lakehouse/data-objects.html#managed-table) by using the schema that was inferred from the data. For information about available options when you create a Delta table, see [CREATE TABLE](https://docs.databricks.com/sql/language-manual/sql-ref-syntax-ddl-create-table.html).
 
-For managed tables, Databricks determines the location for the data. To get the location, you can use the [DESCRIBE DETAIL](https://docs.databricks.com/delta/table-details.html) statement, for example:
+For managed tables, Databricks determines the location for the data. To get the location, you can use the [DESCRIBE DETAIL](https://docs.databricks.com/delta/table-details.html) statement, for example:
 
 ```sql
 display(spark.sql('DESCRIBE DETAIL people_10m'))
 ```
 
 - You can directly use SQL too to create tables
-- You can also use the `DeltaTableBuilder` API in Delta Lake to create tables. Compared to the DataFrameWriter APIs, this API makes it easier to specify additional information like column comments, table properties, and [generated columns](https://docs.databricks.com/delta/generated-columns.html).
+- You can also use the `DeltaTableBuilder` API in Delta Lake to create tables. Compared to the DataFrameWriter APIs, this API makes it easier to specify additional information like column comments, table properties, and [generated columns](https://docs.databricks.com/delta/generated-columns.html).
 
 ## Upsert to a table
 
-To merge a set of updates and insertions into an existing Delta table, you use the [MERGE INTO](https://docs.databricks.com/sql/language-manual/delta-merge-into.html) statement. For example, the following statement takes data from the source table and merges it into the target Delta table. When there is a matching row in both tables, Delta Lake updates the data column using the given expression. When there is no matching row, Delta Lake adds a new row. This operation is known as an _upsert_.
+To merge a set of updates and insertions into an existing Delta table, you use the [MERGE INTO](https://docs.databricks.com/sql/language-manual/delta-merge-into.html) statement. For example, the following statement takes data from the source table and merges it into the target Delta table. When there is a matching row in both tables, Delta Lake updates the data column using the given expression. When there is no matching row, Delta Lake adds a new row. This operation is known as an _upsert_.
 
 ```sql
 CREATE OR REPLACE TEMP VIEW people_updates (
@@ -48,9 +48,9 @@ WHEN MATCHED THEN UPDATE SET *
 WHEN NOT MATCHED THEN INSERT *;
 ```
 
-If you specify `*`, this updates or inserts all columns in the target table. This assumes that the source table has the same columns as those in the target table, otherwise the query will throw an analysis error.
+If you specify `*`, this updates or inserts all columns in the target table. This assumes that the source table has the same columns as those in the target table, otherwise the query will throw an analysis error.
 
-You must specify a value for every column in your table when you perform an `INSERT` operation (for example, when there is no matching row in the existing dataset). However, you do not need to update all values.
+You must specify a value for every column in your table when you perform an `INSERT` operation (for example, when there is no matching row in the existing dataset). However, you do not need to update all values.
 
 ## Read a table
 
@@ -75,13 +75,13 @@ Delta Lake uses standard syntax for writing data to tables.
 CREATE TABLE student_copy AS SELECT * FROM student;
 ```
 
-To atomically add new data to an existing Delta table, use `append` mode as in the following examples:
+To atomically add new data to an existing Delta table, use `append` mode as in the following examples:
 
 ```sql
 INSERT INTO people10m SELECT * FROM more_people
 ```
 
-To atomically replace all the data in a table, use `overwrite` mode as in the following examples:
+To atomically replace all the data in a table, use `overwrite` mode as in the following examples:
 
 ```sql
 INSERT OVERWRITE TABLE people10m SELECT * FROM more_people
@@ -98,7 +98,7 @@ data = spark.range(0, 5)
 data.write.format("delta").save("/tmp/delta-table")
 ```
 
-These operations create a new Delta table using the schema that was _inferred_ from your DataFrame.
+These operations create a new Delta table using the schema that was _inferred_ from your DataFrame.
 
 [Create a table](https://docs.delta.io/latest/delta-batch.html#-ddlcreatetable)
 
@@ -106,7 +106,7 @@ These operations create a new Delta table using the schema that was _inferred_�
 
 ### Read a table
 
-You read data in your Delta table by specifying the path to the files `"/tmp/delta-table"`:
+You read data in your Delta table by specifying the path to the files `"/tmp/delta-table"`:
 
 ```python
 df = spark.read.format("delta").load("/tmp/delta-table")
@@ -216,7 +216,7 @@ stream2 = spark.readStream.format("delta") \
 
 ## Retrieve Delta table history
 
-You can retrieve information on the operations, user, timestamp, and so on for each write to a Delta table by running the `history` command. The operations are returned in reverse chronological order. By default table history is retained for 30 days.
+You can retrieve information on the operations, user, timestamp, and so on for each write to a Delta table by running the `history` command. The operations are returned in reverse chronological order. By default table history is retained for 30 days.
 
 ```sql
 DESCRIBE HISTORY '/data/events/' -- get the full history of the table

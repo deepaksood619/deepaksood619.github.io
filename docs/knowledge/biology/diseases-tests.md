@@ -196,13 +196,13 @@ If a boil doesn't heal after a week of home care, call your doctor. Other reason
 
 A cold can cause a stuffy or runny nose, sore throat, and low fever, but is a cold bacterial or viral?
 
-The [common cold](https://www.healthline.com/health/cold-flu/cold) is caused by a number of different viruses, although **rhinoviruses** are most often the culprit.
+The [common cold](https://www.healthline.com/health/cold-flu/cold) is caused by a number of different viruses, although **rhinoviruses** are most often the culprit.
 
 There’s not much you can do to treat a cold except wait it out and use OTC medications to help relieve your symptoms.
 
 ### Aphasia
 
-Aphasia is an inability to comprehend or formulate language because of damage to specific [brain](https://en.m.wikipedia.org/wiki/Brain "Brain") regions.
+Aphasia is an inability to comprehend or formulate language because of damage to specific [brain](https://en.m.wikipedia.org/wiki/Brain "Brain") regions.
 
 ## Norwood scale
 

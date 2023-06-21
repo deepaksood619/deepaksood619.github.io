@@ -4,7 +4,7 @@
 
 ### DecimalType()
 
-Represents arbitrary-precision signed decimal numbers. Backed internally by `java.math.BigDecimal`. A `BigDecimal` consists of an arbitrary precision integer **unscaled value** and a 32-bit **integer scale**.
+Represents arbitrary-precision signed decimal numbers. Backed internally by `java.math.BigDecimal`. A `BigDecimal` consists of an arbitrary precision integer **unscaled value** and a 32-bit **integer scale**.
 
 But what it really means? Let’s break it down:
 

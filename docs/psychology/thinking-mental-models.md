@@ -168,7 +168,7 @@ Counterfactual thinking is a concept in psychology that involves the human tende
 
 Silver vs bronze medalist
 
-Upward counterfactuals are **thoughts about how the situation could have been better**. These kinds of thoughts tend to make people feel dissatisfied and unhappy; however, upward counterfactuals are the kind of thoughts that allow people to think about how they can do better in the future.
+Upward counterfactuals are **thoughts about how the situation could have been better**. These kinds of thoughts tend to make people feel dissatisfied and unhappy; however, upward counterfactuals are the kind of thoughts that allow people to think about how they can do better in the future.
 
 [Counterfactual thinking - Wikipedia](https://en.wikipedia.org/wiki/Counterfactual_thinking)
 

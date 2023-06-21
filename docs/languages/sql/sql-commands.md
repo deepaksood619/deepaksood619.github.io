@@ -149,7 +149,7 @@ ORDER BY RIGHT(NAME, 3), ID ASC;
 
 #### `ORDER BY ALL`
 
-A shorthand equivalent to specifying all expressions in the `SELECT` list in the order they occur. If `sort_direction` or `nulls_sort_order` are specified they apply to each expression.
+A shorthand equivalent to specifying all expressions in the `SELECT` list in the order they occur. If `sort_direction` or `nulls_sort_order` are specified they apply to each expression.
 
 [ORDER BY clause | Databricks on AWS](https://docs.databricks.com/sql/language-manual/sql-ref-syntax-qry-select-orderby.html)
 
@@ -300,7 +300,7 @@ SELECT column_name(s) FROM table_name2
 
 ### INTERSECT
 
-Well, `UNION` gave you all the results from the first query PLUS the results from the second query. `INTERSECT`, on the other hand, only shows the rows which belong to **BOTH** tables.
+Well, `UNION` gave you all the results from the first query PLUS the results from the second query. `INTERSECT`, on the other hand, only shows the rows which belong to **BOTH** tables.
 
 ```sql
 -- names of each person who has medals both in cycling and in skating.
@@ -311,9 +311,9 @@ select person from cycling
 
 ### EXCEPT
 
-`EXCEPT` shows all the results from the first (left) table with the **exception** of those that also appeared in the second (right) table.
+`EXCEPT` shows all the results from the first (left) table with the **exception** of those that also appeared in the second (right) table.
 
-Some databases use the keyword `MINUS` instead of `EXCEPT`.
+Some databases use the keyword `MINUS` instead of `EXCEPT`.
 
 ```sql
 -- all the countries which have a medal in cycling but not in skating.

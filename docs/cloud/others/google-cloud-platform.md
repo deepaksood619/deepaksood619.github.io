@@ -6,7 +6,7 @@
 
 [GitHub - priyankavergadia/GCPSketchnote: If you are looking to become a Google Cloud Engineer , then you are at the right place. GCPSketchnote is series where I share Google Cloud concepts in quick and easy to learn format.](https://github.com/priyankavergadia/GCPSketchnote)
 
-[Cloud Architecture Guidance and Topologies  |  Cloud Architecture Center  |  Google Cloud](https://cloud.google.com/architecture)
+[Cloud Architecture Guidance and Topologies  |  Cloud Architecture Center  |  Google Cloud](https://cloud.google.com/architecture)
 
 ## Compute
 
@@ -170,9 +170,9 @@ Read-only and witness replicas are only used for multi-regional Spanner clusters
 
 #### Create interleaved tables
 
-An _interleaved table_ is a table that you declare to be an interleaved child of another table because you want the rows of the child table to be physically stored with the associated parent row. As mentioned earlier, the parent table primary key must be the first part of the child table composite primary key.
+An _interleaved table_ is a table that you declare to be an interleaved child of another table because you want the rows of the child table to be physically stored with the associated parent row. As mentioned earlier, the parent table primary key must be the first part of the child table composite primary key.
 
-[About schemas  |  Cloud Spanner  |  Google Cloud](https://cloud.google.com/spanner/docs/schema-and-data-model)
+[About schemas  |  Cloud Spanner  |  Google Cloud](https://cloud.google.com/spanner/docs/schema-and-data-model)
 
 ### Cloud Datastore
 
@@ -269,7 +269,7 @@ API management apps built on Google Cloud
 - Cloud Tools for Eclipse
 - Gradle App Engine Plugin
 - Cloud Test Lab
-- [Assured Open Source Software  |  Google Cloud](https://cloud.google.com/assured-open-source-software)
+- [Assured Open Source Software  |  Google Cloud](https://cloud.google.com/assured-open-source-software)
 
 ## Productivity Tools
 

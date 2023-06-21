@@ -252,7 +252,7 @@ The intensity of the signal each problem sends at any given time is determined b
 
 Discovery commerce is an online sales method based on guiding the buyer towards a product.
 
-Discovery shopping, on the other hand, is where **a user visits websites or marketplaces without a defined purpose**. This buyer isn’t looking for a specific product, but is open to being pleasantly surprised by exploring an online catalog or receiving suggestions.
+Discovery shopping, on the other hand, is where **a user visits websites or marketplaces without a defined purpose**. This buyer isn’t looking for a specific product, but is open to being pleasantly surprised by exploring an online catalog or receiving suggestions.
 
 Discovery commerce is the equivalent of 'I'm feeling lucky' in Google searches. While the main effort of an ecommerce strategy is aimed at efficiently meeting specific needs of the consumer, discovery commerce draws on the custom of strolling through a store, browsing shelves without intention to buy... until the perfect product catches your eye.
 

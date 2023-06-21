@@ -44,8 +44,8 @@ __This will also be bold__
 
 ```markdown
 As Grace Hopper said:
->  I've always been more interested
->  in the future than in the past.
+>  I've always been more interested
+>  in the future than in the past.
 ```
 
 ![image](../../media/Markdown-image1.jpg)
@@ -54,16 +54,16 @@ As Grace Hopper said:
 
 ```markdown
 1. Unordered
- *  Item 1
- *  Item 2
-   *  Item 2a
-   *  Item 2b
+ *  Item 1
+ *  Item 2
+   *  Item 2a
+   *  Item 2b
 1. Ordered
  1. Item 1
  2. Item 2
  3. Item 3
-   * Item 3a
-   * Item 3b
+   * Item 3a
+   * Item 3b
 ```
 
 ### Images

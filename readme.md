@@ -80,13 +80,13 @@ I use Zettlekasten Method for note taking and obsidian tool to manage and struct
 There's 2000+ pages in here and lots of them I think are interesting. But these few can be nice starts for a read:
 d
 
-- [Quotes](https://deepaksood619.github.io/knowledge/quotes-proverbs/) small phrases that makes my day and help me to remember and revise simple rules in a fun way
-- [Mental Models](https://deepaksood619.github.io/knowledge/general/mental-models) that I have compiled over the years and helps me learn concepts quickly of any domain and connect concepts across domains
-- [Learning how to learn](https://deepaksood619.github.io/psychology/learning/learning-intro) course that changed my learning approach and in turn my whole life, and the reason why I write and maintain these notes.
+- [Quotes](https://deepaksood619.github.io/knowledge/quotes-proverbs/) small phrases that makes my day and help me to remember and revise simple rules in a fun way
+- [Mental Models](https://deepaksood619.github.io/knowledge/general/mental-models) that I have compiled over the years and helps me learn concepts quickly of any domain and connect concepts across domains
+- [Learning how to learn](https://deepaksood619.github.io/psychology/learning/learning-intro) course that changed my learning approach and in turn my whole life, and the reason why I write and maintain these notes.
 - [Book - Principles by Ray Dalio](https://deepaksood619.github.io/book-summaries/principles)
-- [Fallacies of Distributed Computing](https://deepaksood619.github.io/computer-science/distributed-system/fallacies-and-problems) and [Biases / Fallacies](https://deepaksood619.github.io/psychology/biases-fallacies) of Human Computing, which everyone should know and try to overcome in their lifetimes
-- [Types of Databases](https://deepaksood619.github.io/databases/concepts/types-of-databases) to organize your data in the right database, since data has gravity, it becomes harder with quantity of data to migrate data over time to other databases
-- [My Experiences](https://deepaksood619.github.io/about-me/experience) over the years and [Social links](https://deepaksood619.github.io/about-me/social-links) to connect with me
+- [Fallacies of Distributed Computing](https://deepaksood619.github.io/computer-science/distributed-system/fallacies-and-problems) and [Biases / Fallacies](https://deepaksood619.github.io/psychology/biases-fallacies) of Human Computing, which everyone should know and try to overcome in their lifetimes
+- [Types of Databases](https://deepaksood619.github.io/databases/concepts/types-of-databases) to organize your data in the right database, since data has gravity, it becomes harder with quantity of data to migrate data over time to other databases
+- [My Experiences](https://deepaksood619.github.io/about-me/experience) over the years and [Social links](https://deepaksood619.github.io/about-me/social-links) to connect with me
 
 ## Donate
 

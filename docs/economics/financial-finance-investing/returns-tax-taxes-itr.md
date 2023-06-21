@@ -227,7 +227,7 @@ Loss from business and profession cannot be set off against income chargeable to
 
 [Income Tax for NRI](https://cleartax.in/s/income-tax-for-nri)
 
-An NRE account is **a bank account opened in India in the name of an NRI, to park his foreign earnings**; whereas, an NRO account is a bank account opened in India in the name of an NRI, to manage the income earned by him in India. These incomes include rent, dividend, pension, interest, etc.
+An NRE account is **a bank account opened in India in the name of an NRI, to park his foreign earnings**; whereas, an NRO account is a bank account opened in India in the name of an NRI, to manage the income earned by him in India. These incomes include rent, dividend, pension, interest, etc.
 
 Interest earned on an NRE account and FCNR account is tax-free. Interest on NRO accounts is taxable in the hands of an NRI.
 

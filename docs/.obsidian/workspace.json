@@ -81,8 +81,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -190,7 +189,7 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "eae646b9619747a1",
+  "active": "b11027af87afca94",
   "lastOpenFiles": [
     "decentralized-applications/coins-tokens-chains/wallets.md",
     "decentralized-applications/ethereum/solidity.md",

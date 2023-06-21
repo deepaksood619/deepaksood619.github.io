@@ -536,11 +536,11 @@ Ex - Airtel produced a full song dedicated to friendship. This song had "Har ek 
 
 ## Digital Out-of-Home (DOOH) Advertising
 
-**Out-of-home (OOH)** advertising is traditional (i.e. non-digital and non-programmatic) outdoor advertising. Also known as out-of-home media or outdoor media, OOH advertising is about messaging to consumers when they are in public places, commuting to work, waiting (e.g. in elevators), and in specific commercial locations.
+**Out-of-home (OOH)** advertising is traditional (i.e. non-digital and non-programmatic) outdoor advertising. Also known as out-of-home media or outdoor media, OOH advertising is about messaging to consumers when they are in public places, commuting to work, waiting (e.g. in elevators), and in specific commercial locations.
 
 Typical OOH formats include billboards, on-car ads, bus-stop shelters, etc.
 
-**Digital out-of-home (DOOH)** is basically OOH powered up with AdTech – geofencing, tracking, retargeting, personalizing, attribution and measurement.
+**Digital out-of-home (DOOH)** is basically OOH powered up with AdTech – geofencing, tracking, retargeting, personalizing, attribution and measurement.
 
 [What Is DOOH Advertising and How Does It Work? - Clearcode Blog](https://clearcode.cc/blog/what-is-digital-out-of-home-dooh/)
 

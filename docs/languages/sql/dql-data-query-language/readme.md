@@ -88,7 +88,7 @@ order by type',
 );
 ```
 
-[PostgreSQL: Documentation: 15: F.43. tablefunc](https://www.postgresql.org/docs/current/tablefunc.html)
+[PostgreSQL: Documentation: 15: F.43. tablefunc](https://www.postgresql.org/docs/current/tablefunc.html)
 
 **[Transpositions in SQL. How to handle dynamic transposition… | by Jerry Zhang | Towards Data Science](https://towardsdatascience.com/transpositions-in-sql-c1cf724dfa2a)**
 

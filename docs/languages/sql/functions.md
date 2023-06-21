@@ -195,8 +195,8 @@
 
 ## Others
 
-- `NVL(e1, e2)` - The `NVL()` function accepts two arguments. If `e1` evaluates to null, then `NVL()` function returns `e2`. If `e1` evaluates to non-null, the `NVL()` function returns `e1`.  [Oracle NVL() Function By Practical Examples](https://www.oracletutorial.com/oracle-comparison-functions/oracle-nvl/)
-- The `COALESCE()` function evaluates its argument in order and stops evaluation when it can determine the result i.e., when it can find the first non-NULL argument. This feature is known as short-circuit evaluation. In contrast, the `NVL()` function evaluates all of its arguments to determine the result.
+- `NVL(e1, e2)` - The `NVL()` function accepts two arguments. If `e1` evaluates to null, then `NVL()` function returns `e2`. If `e1` evaluates to non-null, the `NVL()` function returns `e1`.  [Oracle NVL() Function By Practical Examples](https://www.oracletutorial.com/oracle-comparison-functions/oracle-nvl/)
+- The `COALESCE()` function evaluates its argument in order and stops evaluation when it can determine the result i.e., when it can find the first non-NULL argument. This feature is known as short-circuit evaluation. In contrast, the `NVL()` function evaluates all of its arguments to determine the result.
 
 ## Window Functions
 

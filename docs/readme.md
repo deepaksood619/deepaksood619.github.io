@@ -6,7 +6,7 @@ slug: /
 
 This is my personal wiki where I share everything I know about this world in form of an online wiki.
 
-The purpose of this site is to force me to improve the quality of these notes, the prospect of being read by someone being motivating. It also allows me to access it everywhere.
+The purpose of this site is to force me to improve the quality of these notes, the prospect of being read by someone being motivating. It also allows me to access it everywhere.
 
 If this is your first time visiting this wiki, start from the outline below and explore the area of your interest or you can checkout out a curated list of [must read pages](readme.md#must-read-pages) below.
 

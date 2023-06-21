@@ -84,7 +84,7 @@ SELECT car_model, count(DISTINCT city) AS count FROM dealer GROUP BY ALL;
 
 #### GROUP BY ALL
 
-A shorthand notation to add all `SELECT`-list expressions not containing aggregate functions as `group_expression`s. If no such expression exist `GROUP BY ALL` is equivalent to omitting the `GROUP BY` clause which results in a global aggregation.
+A shorthand notation to add all `SELECT`-list expressions not containing aggregate functions as `group_expression`s. If no such expression exist `GROUP BY ALL` is equivalent to omitting the `GROUP BY` clause which results in a global aggregation.
 
 [GROUP BY clause | Databricks on AWS](https://docs.databricks.com/sql/language-manual/sql-ref-syntax-qry-select-groupby.html)
 
@@ -215,11 +215,11 @@ from demo_table) a group by a.d_name;
 
 ### max_by, min_by
 
-Returns the value of an `expr1` associated with the maximum value of `expr2` in a group.
+Returns the value of an `expr1` associated with the maximum value of `expr2` in a group.
 
-This function can also be invoked as a [window function](https://docs.databricks.com/sql/language-manual/sql-ref-window-functions.html) using the `OVER` clause.
+This function can also be invoked as a [window function](https://docs.databricks.com/sql/language-manual/sql-ref-window-functions.html) using the `OVER` clause.
 
-This function is non-deterministic if `expr2` is not unique within the group.
+This function is non-deterministic if `expr2` is not unique within the group.
 
 ```sql
 -- max_by
@@ -239,57 +239,57 @@ SELECT min_by(x, y) FROM VALUES (('a', 10)), (('b', 50)), (('c', 20)) AS tab(x, 
 
 |Function|Description|
 |---|---|
-|[any(expr)](https://docs.databricks.com/sql/language-manual/functions/any.html)|Returns true if at least one value of `expr` in the group is true.|
-|[any_value(expr[,ignoreNull])](https://docs.databricks.com/sql/language-manual/functions/any_value.html)|Returns any random value of `expr` for a group of rows.|
-|[approx_count_distinct(expr[,relativeSD])](https://docs.databricks.com/sql/language-manual/functions/approx_count_distinct.html)|Returns the estimated number of distinct values in `expr` within the group.|
-|[approx_percentile(expr,percentage[,accuracy])](https://docs.databricks.com/sql/language-manual/functions/approx_percentile.html)|Returns the approximate percentile of the `expr` within the group.|
-|[approx_top_k(expr[,k[,maxItemsTracked]])](https://docs.databricks.com/sql/language-manual/functions/approx_top_k.html)|Returns the top `k` most frequently occurring item values in an `expr` along with their approximate counts.|
-|[array_agg(expr)](https://docs.databricks.com/sql/language-manual/functions/array_agg.html)|Returns an array consisting of all values in `expr` within the group.|
+|[any(expr)](https://docs.databricks.com/sql/language-manual/functions/any.html)|Returns true if at least one value of `expr` in the group is true.|
+|[any_value(expr[,ignoreNull])](https://docs.databricks.com/sql/language-manual/functions/any_value.html)|Returns any random value of `expr` for a group of rows.|
+|[approx_count_distinct(expr[,relativeSD])](https://docs.databricks.com/sql/language-manual/functions/approx_count_distinct.html)|Returns the estimated number of distinct values in `expr` within the group.|
+|[approx_percentile(expr,percentage[,accuracy])](https://docs.databricks.com/sql/language-manual/functions/approx_percentile.html)|Returns the approximate percentile of the `expr` within the group.|
+|[approx_top_k(expr[,k[,maxItemsTracked]])](https://docs.databricks.com/sql/language-manual/functions/approx_top_k.html)|Returns the top `k` most frequently occurring item values in an `expr` along with their approximate counts.|
+|[array_agg(expr)](https://docs.databricks.com/sql/language-manual/functions/array_agg.html)|Returns an array consisting of all values in `expr` within the group.|
 |[avg(expr)](https://docs.databricks.com/sql/language-manual/functions/avg.html)|Returns the mean calculated from values of a group.|
-|[bit_and(expr)](https://docs.databricks.com/sql/language-manual/functions/bit_and.html)|Returns the bitwise `AND` of all input values in the group.|
-|[bit_or(expr)](https://docs.databricks.com/sql/language-manual/functions/bit_or.html)|Returns the bitwise `OR` of all input values in the group.|
-|[bit_xor(expr)](https://docs.databricks.com/sql/language-manual/functions/bit_xor.html)|Returns the bitwise `XOR` of all input values in the group.|
-|[bool_and(expr)](https://docs.databricks.com/sql/language-manual/functions/bool_and.html)|Returns true if all values in `expr` are true within the group.|
-|[bool_or(expr)](https://docs.databricks.com/sql/language-manual/functions/bool_or.html)|Returns true if at least one value in `expr` is true within the group.|
-|[collect_list(expr)](https://docs.databricks.com/sql/language-manual/functions/collect_list.html)|Returns an array consisting of all values in `expr` within the group.|
-|[collect_set(expr)](https://docs.databricks.com/sql/language-manual/functions/collect_set.html)|Returns an array consisting of all unique values in `expr` within the group.|
+|[bit_and(expr)](https://docs.databricks.com/sql/language-manual/functions/bit_and.html)|Returns the bitwise `AND` of all input values in the group.|
+|[bit_or(expr)](https://docs.databricks.com/sql/language-manual/functions/bit_or.html)|Returns the bitwise `OR` of all input values in the group.|
+|[bit_xor(expr)](https://docs.databricks.com/sql/language-manual/functions/bit_xor.html)|Returns the bitwise `XOR` of all input values in the group.|
+|[bool_and(expr)](https://docs.databricks.com/sql/language-manual/functions/bool_and.html)|Returns true if all values in `expr` are true within the group.|
+|[bool_or(expr)](https://docs.databricks.com/sql/language-manual/functions/bool_or.html)|Returns true if at least one value in `expr` is true within the group.|
+|[collect_list(expr)](https://docs.databricks.com/sql/language-manual/functions/collect_list.html)|Returns an array consisting of all values in `expr` within the group.|
+|[collect_set(expr)](https://docs.databricks.com/sql/language-manual/functions/collect_set.html)|Returns an array consisting of all unique values in `expr` within the group.|
 |[corr(expr1,expr2)](https://docs.databricks.com/sql/language-manual/functions/corr.html)|Returns Pearson coefficient of correlation between a group of number pairs.|
 |[`count(*)`](https://docs.databricks.com/sql/language-manual/functions/count.html)|Returns the total number of retrieved rows in a group, including rows containing null.|
 |[`count(expr[, …]`)](https://docs.databricks.com/sql/language-manual/functions/count.html)|Returns the number of rows in a group for which the supplied expressions are all non-null.|
-|[count_if(expr)](https://docs.databricks.com/sql/language-manual/functions/count_if.html)|Returns the number of true values for the group in `expr`.|
-|[count_min_sketch(expr, epsilon, confidence, seed)](https://docs.databricks.com/sql/language-manual/functions/count_min_sketch.html)|Returns a count-min sketch of all values in the group in `expr` with the `epsilon`, `confidence` and `seed`.|
+|[count_if(expr)](https://docs.databricks.com/sql/language-manual/functions/count_if.html)|Returns the number of true values for the group in `expr`.|
+|[count_min_sketch(expr, epsilon, confidence, seed)](https://docs.databricks.com/sql/language-manual/functions/count_min_sketch.html)|Returns a count-min sketch of all values in the group in `expr` with the `epsilon`, `confidence` and `seed`.|
 |[covar_pop(expr1,expr2)](https://docs.databricks.com/sql/language-manual/functions/covar_pop.html)|Returns the population covariance of number pairs in a group.|
 |[covar_samp(expr1,expr2)](https://docs.databricks.com/sql/language-manual/functions/covar_samp.html)|Returns the sample covariance of number pairs in a group.|
-|[every(expr)](https://docs.databricks.com/sql/language-manual/functions/every.html)|Returns true if all values of `expr` in the group are true.|
-|[first(expr[,ignoreNull])](https://docs.databricks.com/sql/language-manual/functions/first.html)|Returns the first value of `expr` for a group of rows.|
-|[first_value(expr[,ignoreNull])](https://docs.databricks.com/sql/language-manual/functions/first_value.html)|Returns the first value of `expr` for a group of rows.|
+|[every(expr)](https://docs.databricks.com/sql/language-manual/functions/every.html)|Returns true if all values of `expr` in the group are true.|
+|[first(expr[,ignoreNull])](https://docs.databricks.com/sql/language-manual/functions/first.html)|Returns the first value of `expr` for a group of rows.|
+|[first_value(expr[,ignoreNull])](https://docs.databricks.com/sql/language-manual/functions/first_value.html)|Returns the first value of `expr` for a group of rows.|
 |[hll_sketch_agg(expr[,lgConfigK])](https://docs.databricks.com/sql/language-manual/functions/hll_sketch_agg.html)|Returns a HyperLogLog sketch used to approximate a distinct values count.|
 |[hll_union_agg(expr[,allowDifferentLgConfigK])](https://docs.databricks.com/sql/language-manual/functions/hll_union_agg.html)|Aggregates HyperLogLog sketches for a group of rows.|
 |[kurtosis(expr)](https://docs.databricks.com/sql/language-manual/functions/kurtosis.html)|Returns the kurtosis value calculated from values of a group.|
-|[last(expr[,ignoreNull])](https://docs.databricks.com/sql/language-manual/functions/last.html)|Returns the last value of `expr` for the group of rows.|
-|[last_value(expr[,ignoreNull])](https://docs.databricks.com/sql/language-manual/functions/last_value.html)|Returns the last value of `expr` for the group of rows.|
-|[max(expr)](https://docs.databricks.com/sql/language-manual/functions/max.html)|Returns the maximum value of `expr` in a group.|
-|[max_by(expr1,expr2)](https://docs.databricks.com/sql/language-manual/functions/max_by.html)|Returns the value of an `expr1` associated with the maximum value of `expr2` in a group.|
+|[last(expr[,ignoreNull])](https://docs.databricks.com/sql/language-manual/functions/last.html)|Returns the last value of `expr` for the group of rows.|
+|[last_value(expr[,ignoreNull])](https://docs.databricks.com/sql/language-manual/functions/last_value.html)|Returns the last value of `expr` for the group of rows.|
+|[max(expr)](https://docs.databricks.com/sql/language-manual/functions/max.html)|Returns the maximum value of `expr` in a group.|
+|[max_by(expr1,expr2)](https://docs.databricks.com/sql/language-manual/functions/max_by.html)|Returns the value of an `expr1` associated with the maximum value of `expr2` in a group.|
 |[mean(expr)](https://docs.databricks.com/sql/language-manual/functions/mean.html)|Returns the mean calculated from values of a group.|
 |[median(expr)](https://docs.databricks.com/sql/language-manual/functions/median.html)|Returns the median calculated from values of a group.|
-|[min(expr)](https://docs.databricks.com/sql/language-manual/functions/min.html)|Returns the minimum value of `expr` in a group.|
-|[min_by(expr1, expr2)](https://docs.databricks.com/sql/language-manual/functions/min_by.html)|Returns the value of an `expr1` associated with the minimum value of `expr2` in a group.|
-|[mode(expr)](https://docs.databricks.com/sql/language-manual/functions/mode.html)|Returns the most frequent, not `NULL`, value of `expr` in a group.|
-|[percentile(expr, percentage [,frequency])](https://docs.databricks.com/sql/language-manual/functions/percentile.html)|Returns the exact percentile value of `expr` at the specified `percentage`.|
-|[percentile_approx(expr,percentage[,accuracy])](https://docs.databricks.com/sql/language-manual/functions/percentile_approx.html)|Returns the approximate percentile of the `expr` within the group.|
-|[percentile_cont(pct) WITHIN GROUP (ORDER BY key)](https://docs.databricks.com/sql/language-manual/functions/percentile_cont.html)|Returns the interpolated percentile of the `key` within the group.|
-|[percentile_disc(pct) WITHIN GROUP (ORDER BY key)](https://docs.databricks.com/sql/language-manual/functions/percentile_disc.html)|Returns the discrete percentile of the `key` within the group.|
-|[regr_avgx(yExpr, xExpr)](https://docs.databricks.com/sql/language-manual/functions/regr_avgx.html)|Returns the mean of `xExpr` calculated from values of a group where `xExpr` and `yExpr` are NOT NULL.|
-|[regr_avgy(yExpr, xExpr)](https://docs.databricks.com/sql/language-manual/functions/regr_avgy.html)|Returns the mean of `yExpr` calculated from values of a group where `xExpr` and `yExpr` are NOT NULL.|
-|[regr_count(yExpr, xExpr)](https://docs.databricks.com/sql/language-manual/functions/regr_count.html)|Returns the number of non-null value pairs `yExpr`, `xExpr` in the group.|
-|[regr_intercept(yExpr, xExpr)](https://docs.databricks.com/sql/language-manual/functions/regr_intercept.html)|Returns the intercept of the uni-variate linear regression line in a group where `xExpr` and `yExpr` are NOT NULL.|
-|[regr_r2(yExpr, xExpr)](https://docs.databricks.com/sql/language-manual/functions/regr_r2.html)|Returns the coefficient of determination from values of a group where `xExpr` and `yExpr` are NOT NULL.|
-|[regr_slope(yExpr, xExpr)](https://docs.databricks.com/sql/language-manual/functions/regr_slope.html)|Returns the slope of the linear regression line of non-null value pairs `yExpr`, `xExpr` in the group.|
-|[regr_sxx(yExpr, xExpr)](https://docs.databricks.com/sql/language-manual/functions/regr_sxx.html)|Returns the sum of squares of the `xExpr` values of a group where `xExpr` and `yExpr` are NOT NULL.|
-|[regr_sxy(yExpr, xExpr)](https://docs.databricks.com/sql/language-manual/functions/regr_sxy.html)|Returns the sum of products of `yExpr` and `xExpr` calculated from values of a group where `xExpr` and `yExpr` are NOT NULL.|
-|[regr_syy(yExpr, xExpr)](https://docs.databricks.com/sql/language-manual/functions/regr_syy.html)|Returns the sum of squares of the `yExpr` values of a group where `xExpr` and `yExpr` are NOT NULL.|
+|[min(expr)](https://docs.databricks.com/sql/language-manual/functions/min.html)|Returns the minimum value of `expr` in a group.|
+|[min_by(expr1, expr2)](https://docs.databricks.com/sql/language-manual/functions/min_by.html)|Returns the value of an `expr1` associated with the minimum value of `expr2` in a group.|
+|[mode(expr)](https://docs.databricks.com/sql/language-manual/functions/mode.html)|Returns the most frequent, not `NULL`, value of `expr` in a group.|
+|[percentile(expr, percentage [,frequency])](https://docs.databricks.com/sql/language-manual/functions/percentile.html)|Returns the exact percentile value of `expr` at the specified `percentage`.|
+|[percentile_approx(expr,percentage[,accuracy])](https://docs.databricks.com/sql/language-manual/functions/percentile_approx.html)|Returns the approximate percentile of the `expr` within the group.|
+|[percentile_cont(pct) WITHIN GROUP (ORDER BY key)](https://docs.databricks.com/sql/language-manual/functions/percentile_cont.html)|Returns the interpolated percentile of the `key` within the group.|
+|[percentile_disc(pct) WITHIN GROUP (ORDER BY key)](https://docs.databricks.com/sql/language-manual/functions/percentile_disc.html)|Returns the discrete percentile of the `key` within the group.|
+|[regr_avgx(yExpr, xExpr)](https://docs.databricks.com/sql/language-manual/functions/regr_avgx.html)|Returns the mean of `xExpr` calculated from values of a group where `xExpr` and `yExpr` are NOT NULL.|
+|[regr_avgy(yExpr, xExpr)](https://docs.databricks.com/sql/language-manual/functions/regr_avgy.html)|Returns the mean of `yExpr` calculated from values of a group where `xExpr` and `yExpr` are NOT NULL.|
+|[regr_count(yExpr, xExpr)](https://docs.databricks.com/sql/language-manual/functions/regr_count.html)|Returns the number of non-null value pairs `yExpr`, `xExpr` in the group.|
+|[regr_intercept(yExpr, xExpr)](https://docs.databricks.com/sql/language-manual/functions/regr_intercept.html)|Returns the intercept of the uni-variate linear regression line in a group where `xExpr` and `yExpr` are NOT NULL.|
+|[regr_r2(yExpr, xExpr)](https://docs.databricks.com/sql/language-manual/functions/regr_r2.html)|Returns the coefficient of determination from values of a group where `xExpr` and `yExpr` are NOT NULL.|
+|[regr_slope(yExpr, xExpr)](https://docs.databricks.com/sql/language-manual/functions/regr_slope.html)|Returns the slope of the linear regression line of non-null value pairs `yExpr`, `xExpr` in the group.|
+|[regr_sxx(yExpr, xExpr)](https://docs.databricks.com/sql/language-manual/functions/regr_sxx.html)|Returns the sum of squares of the `xExpr` values of a group where `xExpr` and `yExpr` are NOT NULL.|
+|[regr_sxy(yExpr, xExpr)](https://docs.databricks.com/sql/language-manual/functions/regr_sxy.html)|Returns the sum of products of `yExpr` and `xExpr` calculated from values of a group where `xExpr` and `yExpr` are NOT NULL.|
+|[regr_syy(yExpr, xExpr)](https://docs.databricks.com/sql/language-manual/functions/regr_syy.html)|Returns the sum of squares of the `yExpr` values of a group where `xExpr` and `yExpr` are NOT NULL.|
 |[skewness(expr)](https://docs.databricks.com/sql/language-manual/functions/skewness.html)|Returns the skewness value calculated from values of a group.|
-|[some(expr)](https://docs.databricks.com/sql/language-manual/functions/some.html)|Returns true if at least one value of `expr` in a group is `true`.|
+|[some(expr)](https://docs.databricks.com/sql/language-manual/functions/some.html)|Returns true if at least one value of `expr` in a group is `true`.|
 |[std(expr)](https://docs.databricks.com/sql/language-manual/functions/std.html)|Returns the sample standard deviation calculated from the values within the group.|
 |[stddev(expr)](https://docs.databricks.com/sql/language-manual/functions/stddev.html)|Returns the sample standard deviation calculated from the values within the group.|
 |[stddev_pop(expr)](https://docs.databricks.com/sql/language-manual/functions/stddev_pop.html)|Returns the population standard deviation calculated from values of a group.|

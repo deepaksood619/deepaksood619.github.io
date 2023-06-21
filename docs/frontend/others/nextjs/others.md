@@ -4,7 +4,7 @@
 
 ### [next-connect - npm](https://www.npmjs.com/package/next-connect)
 
-The smol method routing and middleware for [Next.js](https://nextjs.org/)
+The smol method routing and middleware for [Next.js](https://nextjs.org/)
 
 #### Features
 
@@ -16,15 +16,15 @@ The smol method routing and middleware for [Next.js](https://nextjs.org/)
 
 ### [React Hooks for Data Fetching – SWR](https://swr.vercel.app/)
 
-The name “SWR” is derived from `stale-while-revalidate`, a HTTP cache invalidation strategy popularized by [HTTP RFC 5861](https://tools.ietf.org/html/rfc5861). SWR is a strategy to first return the data from cache (stale), then send the fetch request (revalidate), and finally come with the up-to-date data.
+The name “SWR” is derived from `stale-while-revalidate`, a HTTP cache invalidation strategy popularized by [HTTP RFC 5861](https://tools.ietf.org/html/rfc5861). SWR is a strategy to first return the data from cache (stale), then send the fetch request (revalidate), and finally come with the up-to-date data.
 
 #### Features
 
 With just one single line of code, you can simplify the logic of data fetching in your project, and also have all these amazing features out-of-the-box:
 
-- **Fast**, **lightweight** and **reusable** data fetching
-- Built-in **cache** and request deduplication
-- **Real-time** experience
+- **Fast**, **lightweight** and **reusable** data fetching
+- Built-in **cache** and request deduplication
+- **Real-time** experience
 - Transport and protocol agnostic
 - SSR / ISR / SSG support
 - TypeScript ready

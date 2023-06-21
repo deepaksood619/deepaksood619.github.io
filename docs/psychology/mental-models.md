@@ -54,7 +54,7 @@ The priming effect occurs when an individual's exposure to a certain stimulus su
 
 ## Normalization of deviance
 
-**Normalization of deviance** is a term used by the American sociologist [Diane Vaughan](https://en.wikipedia.org/wiki/Diane_Vaughan "Diane Vaughan") to describe the process in which [deviance](https://en.wikipedia.org/wiki/Deviance_(sociology) "Deviance (sociology)") from correct or proper behavior or rule becomes normalized in a government or corporate culture.
+**Normalization of deviance** is a term used by the American sociologist [Diane Vaughan](https://en.wikipedia.org/wiki/Diane_Vaughan "Diane Vaughan") to describe the process in which [deviance](https://en.wikipedia.org/wiki/Deviance_(sociology) "Deviance (sociology)") from correct or proper behavior or rule becomes normalized in a government or corporate culture.
 
 Vaughan defines this as a process where a clearly unsafe practice comes to be considered normal if it does not immediately cause a catastrophe: "a long incubation period (before a final disaster) with early warning signs that were either misinterpreted, ignored or missed completely".
 

@@ -121,12 +121,12 @@ redis-py can be used together with [Redis Sentinel](https://redis.io/topics/sent
 z = redis_client.xpending_range('send:offer_push_notification', 'offer_push_notification_consumer', "-", "+", 10000000)
 
 for i in z:
-   redis_client.xack('send:offer_push_notification', 'offer_push_notification_consumer', i['message_id'])
+   redis_client.xack('send:offer_push_notification', 'offer_push_notification_consumer', i['message_id'])
 
 z = redis_client.xpending_range('send:whatsapp_offer_sms', 'offer_whatsapp_consumer', "-", "+", 100000)
 
 for i in z:
-   redis_client.xack('send:whatsapp_offer_sms', 'offer_whatsapp_consumer', i['message_id'])
+   redis_client.xack('send:whatsapp_offer_sms', 'offer_whatsapp_consumer', i['message_id'])
 ```
 
 ### Redis-OM

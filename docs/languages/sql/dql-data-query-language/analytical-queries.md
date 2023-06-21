@@ -21,7 +21,7 @@ There are many ways to write window frame clauses:
 - **ROWS BETWEEN UNBOUNDED PRECEDING AND UNBOUNDED FOLLOWING** - all rows in the partition.
 - **ROWS BETWEEN UNBOUNDED PRECEDING AND CURRENT ROW** - a window frame that spans from the start of the partition to the current row, inclusive.
 
-The lowest possible bound  is UNBOUNDED PRECEDING (the first row), the current row is CURRENT ROW and the highest possible row is UNBOUNDED FOLLOWING (the last row).
+The lowest possible bound  is UNBOUNDED PRECEDING (the first row), the current row is CURRENT ROW and the highest possible row is UNBOUNDED FOLLOWING (the last row).
 
 ## Examples
 

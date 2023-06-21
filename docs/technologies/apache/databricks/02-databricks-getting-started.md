@@ -94,7 +94,7 @@ group by 1
 #### Managed Tables
 
 - Data management: Spark manages both the metadata and the data
-- Data location: Data is saved in the Spark SQL warehouse directory `/user/hive/warehouse`. Metadata is saved in a meta-store of relational entities.
+- Data location: Data is saved in the Spark SQL warehouse directory `/user/hive/warehouse`. Metadata is saved in a meta-store of relational entities.
 - Data deletion: The metadata and the data will be deleted after deleting the table.
 
 #### Unmanaged/External Tables

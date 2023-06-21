@@ -99,8 +99,8 @@ Open two instance of same application - **open -n MQTT.fx.app**
 | to cycle between tabs | Cmd + Shift + A + Enter |
 | Jump to the next open tab | ⌘ + Option + Right arrow or ctrl + tab |
 | Jump to the previous open tab | ⌘ + Option + Left arrow or ctrl + shift + tab |
-| Open the previous page in your browsing history for the current tab | `⌘ + [ or ⌘ + Left arrow` |
-| Open the next page in your browsing history for the current tab | `⌘ + ] or ⌘ + Right arrow` |
+| Open the previous page in your browsing history for the current tab | `⌘ + [ or ⌘ + Left arrow` |
+| Open the next page in your browsing history for the current tab | `⌘ + ] or ⌘ + Right arrow` |
 | Open the History page in a new tab | ⌘ + y |
 | Open the Downloads page in a new tab | ⌘ + Shift + j |
 | Open the Find Bar to search the current page | ⌘ + f |

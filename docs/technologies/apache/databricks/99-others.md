@@ -40,7 +40,7 @@ MERGE dramatically simplifies how a number of common data pipelines can be built
 
 %pip uninstall -y matplotlib
 
-# Install a library from a version control system with %pip
+# Install a library from a version control system with %pip
 %pip install git+https://github.com/databricks/databricks-cli
 ```
 

@@ -160,7 +160,7 @@ Additionally the package aims for simple usability and extensibility: The object
 
 ## Vaex
 
-Vaex is a high performance Python library for lazy **Out-of-Core DataFrames** (similar to Pandas), to visualize and explore big tabular datasets. It calculates _statistics_ such as mean, sum, count, standard deviation etc, on an _N-dimensional grid_ for more than **a billion** (`10^9`) samples/rows **per second**. Visualization is done using **histograms**, **density plots** and **3d volume rendering**, allowing interactive exploration of big data. Vaex uses memory mapping, zero memory copy policy and lazy computations for best performance (no memory wasted).
+Vaex is a high performance Python library for lazy **Out-of-Core DataFrames** (similar to Pandas), to visualize and explore big tabular datasets. It calculates _statistics_ such as mean, sum, count, standard deviation etc, on an _N-dimensional grid_ for more than **a billion** (`10^9`) samples/rows **per second**. Visualization is done using **histograms**, **density plots** and **3d volume rendering**, allowing interactive exploration of big data. Vaex uses memory mapping, zero memory copy policy and lazy computations for best performance (no memory wasted).
 
 <https://github.com/vaexio/vaex>
 
@@ -168,7 +168,7 @@ Vaex is a high performance Python library for lazy **Out-of-Core DataFrames** 
 
 ## Polars
 
-Polars is a blazingly fast DataFrames library implemented in Rust using [Apache Arrow Columnar Format](https://arrow.apache.org/docs/format/Columnar.html) as the memory model.
+Polars is a blazingly fast DataFrames library implemented in Rust using [Apache Arrow Columnar Format](https://arrow.apache.org/docs/format/Columnar.html) as the memory model.
 
 - Lazy | eager execution
 - Multi-threaded

@@ -133,4 +133,4 @@ Angel investors are typically a diverse group of individuals who have amassed th
 
 - Pre-money and post-money differ in the timing of valuation.
 - Pre-money valuation refers to the value of a company not including external funding or the latest round of funding.
-- Post-money valuation includes outside financing or the latest capital injection. It is important to know which is being referred to, as they are critical concepts in valuation.
+- Post-money valuation includes outside financing or the latest capital injection. It is important to know which is being referred to, as they are critical concepts in valuation.

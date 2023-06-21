@@ -24,7 +24,7 @@ Unity Catalog is a unified governance solution for all data and AI assets includ
 
 Managed tables are the default way to create tables in Unity Catalog. Unity Catalog manages the lifecycle and file layout for these tables. You should not use tools outside of Databricks to manipulate files in these tables directly.
 
-By default, managed tables are stored in the root storage location that you configure when you create a metastore. You can optionally specify managed table storage locations at the catalog or schema levels, overriding the root storage location. Managed tables always use the [Delta](https://docs.databricks.com/delta/index.html) table format.
+By default, managed tables are stored in the root storage location that you configure when you create a metastore. You can optionally specify managed table storage locations at the catalog or schema levels, overriding the root storage location. Managed tables always use the [Delta](https://docs.databricks.com/delta/index.html) table format.
 
 When a managed table is dropped, its underlying data is deleted from your cloud tenant within 30 days.
 
@@ -32,7 +32,7 @@ When a managed table is dropped, its underlying data is deleted from your cloud 
 
 External tables are tables whose data is stored outside of the managed storage location specified for the metastore, catalog, or schema. Use external tables only when you require direct access to the data outside of Databricks clusters or Databricks SQL warehouses.
 
-When you run `DROP TABLE` on an external table, Unity Catalog does not delete the underlying data. To drop a table you must be its owner. You can manage privileges on external tables and use them in queries in the same way as managed tables. To create an external table with SQL, specify a `LOCATION` path in your `CREATE TABLE` statement. External tables can use the following file formats:
+When you run `DROP TABLE` on an external table, Unity Catalog does not delete the underlying data. To drop a table you must be its owner. You can manage privileges on external tables and use them in queries in the same way as managed tables. To create an external table with SQL, specify a `LOCATION` path in your `CREATE TABLE` statement. External tables can use the following file formats:
 
 - DELTA
 - CSV

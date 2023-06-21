@@ -58,11 +58,11 @@ Implement batch and streaming data processing jobs that run on any execution eng
 
 ### ParDo
 
-Overall, there are five core transforms in the Apache Beam model. **`ParDo`** is one of the most commonly used transform functions. `ParDo` works similar to the map phase of the [map-reduce](https://en.wikipedia.org/wiki/MapReduce) algorithm.
+Overall, there are five core transforms in the Apache Beam model. **`ParDo`** is one of the most commonly used transform functions. `ParDo` works similar to the map phase of the [map-reduce](https://en.wikipedia.org/wiki/MapReduce) algorithm.
 
-`ParDo` is the transform for parallel processing. It applies the processing function to every element in the `PCollection` input and returns zero or more elements to the output `PCollection`.
+`ParDo` is the transform for parallel processing. It applies the processing function to every element in the `PCollection` input and returns zero or more elements to the output `PCollection`.
 
-Using the `ParDo` function requires a user-defined `DoFn.` This function will have the transformation you plan to apply. `DoFn` is a Beam SDK class that describes a distributed processing function.
+Using the `ParDo` function requires a user-defined `DoFn.` This function will have the transformation you plan to apply. `DoFn` is a Beam SDK class that describes a distributed processing function.
 
 [What is ParDo transform in Apache Beam?](https://www.educative.io/answers/what-is-pardo-transform-in-apache-beam)
 

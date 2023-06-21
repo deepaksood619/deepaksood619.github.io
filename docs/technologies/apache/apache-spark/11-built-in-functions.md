@@ -4,7 +4,7 @@
 - [PySpark – expr()](https://sparkbyexamples.com/pyspark/pyspark-sql-expr-expression-function/)
 - [PySpark – lit()](https://sparkbyexamples.com/pyspark/pyspark-lit-add-literal-constant/)
 
-    PySpark SQL functions [lit()](https://sparkbyexamples.com/pyspark/pyspark-lit-add-literal-constant/#lit) and [typedLit()](https://sparkbyexamples.com/pyspark/pyspark-lit-add-literal-constant/#typedlit) are used to add a new column to DataFrame by assigning a literal or constant value. Both these functions return [Column type](https://sparkbyexamples.com/pyspark/pyspark-column-functions/) as return type.
+    PySpark SQL functions [lit()](https://sparkbyexamples.com/pyspark/pyspark-lit-add-literal-constant/#lit) and [typedLit()](https://sparkbyexamples.com/pyspark/pyspark-lit-add-literal-constant/#typedlit) are used to add a new column to DataFrame by assigning a literal or constant value. Both these functions return [Column type](https://sparkbyexamples.com/pyspark/pyspark-column-functions/) as return type.
 
 - [PySpark – split()](https://sparkbyexamples.com/pyspark/pyspark-convert-string-to-array-column/)
 - [PySpark – concat_ws()](https://sparkbyexamples.com/pyspark/pyspark-convert-array-column-to-string-column/)

@@ -86,7 +86,7 @@ Rule by children
 
 ### Elite Theory
 
-In [philosophy](https://en.wikipedia.org/wiki/Philosophy "Philosophy"), [political science](https://en.wikipedia.org/wiki/Political_science "Political science") and [sociology](https://en.wikipedia.org/wiki/Sociology "Sociology"), **elite theory** is a theory of the State that seeks to describe and explain power relationships in contemporary society. The theory posits that a small minority, consisting of members of the [economic](https://en.wikipedia.org/wiki/Economic "Economic") elite and [policy](https://en.wikipedia.org/wiki/Policy "Policy")-planning networks, holds the most power—and that this power is independent of democratic elections.
+In [philosophy](https://en.wikipedia.org/wiki/Philosophy "Philosophy"), [political science](https://en.wikipedia.org/wiki/Political_science "Political science") and [sociology](https://en.wikipedia.org/wiki/Sociology "Sociology"), **elite theory** is a theory of the State that seeks to describe and explain power relationships in contemporary society. The theory posits that a small minority, consisting of members of the [economic](https://en.wikipedia.org/wiki/Economic "Economic") elite and [policy](https://en.wikipedia.org/wiki/Policy "Policy")-planning networks, holds the most power—and that this power is independent of democratic elections.
 
 [Elite theory - Wikipedia](https://en.wikipedia.org/wiki/Elite_theory)
 
@@ -115,7 +115,7 @@ In [philosophy](https://en.wikipedia.org/wiki/Philosophy "Philosophy"), [polit
 
 ## Permanent Revolution
 
-**Permanent revolution** is the strategy of a [revolutionary](https://en.wikipedia.org/wiki/Revolution "Revolution") [class](https://en.wikipedia.org/wiki/Social_class "Social class") pursuing its own interests independently and without compromise or alliance with opposing sections of society. As a term within [Marxist theory](https://en.wikipedia.org/wiki/Marxist_theory "Marxist theory"), it was first coined by [Karl Marx](https://en.wikipedia.org/wiki/Karl_Marx "Karl Marx") and [Friedrich Engels](https://en.wikipedia.org/wiki/Friedrich_Engels "Friedrich Engels") as early as 1850, but since then it has been used to refer to different concepts by different theorists, most notably [Leon Trotsky](https://en.wikipedia.org/wiki/Leon_Trotsky "Leon Trotsky").
+**Permanent revolution** is the strategy of a [revolutionary](https://en.wikipedia.org/wiki/Revolution "Revolution") [class](https://en.wikipedia.org/wiki/Social_class "Social class") pursuing its own interests independently and without compromise or alliance with opposing sections of society. As a term within [Marxist theory](https://en.wikipedia.org/wiki/Marxist_theory "Marxist theory"), it was first coined by [Karl Marx](https://en.wikipedia.org/wiki/Karl_Marx "Karl Marx") and [Friedrich Engels](https://en.wikipedia.org/wiki/Friedrich_Engels "Friedrich Engels") as early as 1850, but since then it has been used to refer to different concepts by different theorists, most notably [Leon Trotsky](https://en.wikipedia.org/wiki/Leon_Trotsky "Leon Trotsky").
 
 [Permanent revolution - Wikipedia](https://en.wikipedia.org/wiki/Permanent_revolution)
 

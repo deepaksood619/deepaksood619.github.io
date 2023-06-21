@@ -18,7 +18,7 @@ Gross Transaction Value (GTV) is a calculation of the revenue in relation to com
 ### Net Revenue
 
 - When gross revenue is recorded, all income from a sale is accounted for on the income statement. There is no consideration for any expenditures from any source.
-- Net revenue reporting is instead calculated by subtracting the cost of goods sold from gross revenue and provides a truer picture of the bottom line.
+- Net revenue reporting is instead calculated by subtracting the cost of goods sold from gross revenue and provides a truer picture of the bottom line.
 
 [Gross Revenue vs. Net Revenue Reporting: What's the Difference?](https://www.investopedia.com/ask/answers/102714/what-are-difference-between-gross-revenue-reporting-and-net-revenue-reporting.asp)
 

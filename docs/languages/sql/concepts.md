@@ -54,13 +54,13 @@ SELECT * FROM country WHERE area <= (
 );
 ```
 
-What's the new piece here? Take a look at the `WHERE` clause in the subquery. That's right, it uses `country.id`. Which country does it refer to? The country from the **main clause** of course. This is the secret behind correlated subqueries – if you ran the subquery alone, your database would say:
+What's the new piece here? Take a look at the `WHERE` clause in the subquery. That's right, it uses `country.id`. Which country does it refer to? The country from the **main clause** of course. This is the secret behind correlated subqueries – if you ran the subquery alone, your database would say:
 
-'Hey, you want me to compare `city.country_id` to `country.id`, but there are tons of ids in the table `country`, so I don't know which one to choose'.
+'Hey, you want me to compare `city.country_id` to `country.id`, but there are tons of ids in the table `country`, so I don't know which one to choose'.
 
-But if you run the instruction as a subquery and the main clause browses the table `country`, then the database will each time compare `country.id` from the subquery with the current `country.id` from the main clause.
+But if you run the instruction as a subquery and the main clause browses the table `country`, then the database will each time compare `country.id` from the subquery with the current `country.id` from the main clause.
 
-Just remember the golden rule: **subqueries can use tables from the main query, but the main query can't use tables from the subquery!**
+Just remember the golden rule: **subqueries can use tables from the main query, but the main query can't use tables from the subquery!**
 
 #### Use Alias when using same table in correlated subqueries
 

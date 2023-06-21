@@ -30,15 +30,15 @@ If 0.1 BTC was acquired 100 days ago, it will have accumulated 100 x 0.1 = 10 Co
 
 The CDD metric measures the total volume of Coin Days Destroyed across all Bitcoin spent on any given day. This gives insight into the lifespan of the coins being spent, and a view on the macro sentiment of Bitcoin's longer-term investors.
 
-- **High CDD values ↗️** suggest long term investors are spending coins to realize profits, taking advantage of market strength, or have reduced conviction to hold the asset.
-- **Low CDD values ↘️** occur when day-to-day network traffic dominates network traffic, older coins remain dormant, and conviction to hold the asset is high. Periods of reduced interest in the asset (such as bearish markets) tend to lead to less on-chain activity and thus lower indicator values.
+- **High CDD values ↗️** suggest long term investors are spending coins to realize profits, taking advantage of market strength, or have reduced conviction to hold the asset.
+- **Low CDD values ↘️** occur when day-to-day network traffic dominates network traffic, older coins remain dormant, and conviction to hold the asset is high. Periods of reduced interest in the asset (such as bearish markets) tend to lead to less on-chain activity and thus lower indicator values.
 
 ### CDD-90 and Coin Years Destroyed (CYD)
 
 The two metrics below present macro scale measures of the volume of coindays destroyed.
 
-- **CDD-90** presents the 90-day sum of CDD.
-- **[Coin Years Destroyed (CYD)](https://academy.glassnode.com/indicators/coin-days-destroyed/cyd-coin-years-destroyed)** presents the 365-day sum of CDD.
+- **CDD-90** presents the 90-day sum of CDD.
+- **[Coin Years Destroyed (CYD)](https://academy.glassnode.com/indicators/coin-days-destroyed/cyd-coin-years-destroyed)** presents the 365-day sum of CDD.
 
 ## Binary CDD
 
@@ -46,8 +46,8 @@ Binary Coin Days Destroyed (Binary CDD) is a derivative of the Supply-Adjusted C
 
 Binary CDD will return either a 1 or a 0:
 
-- **Returns 1** when measured CDD is greater than the long term average.
-- **Returns 0** when measured CDD is less than the long term average.
+- **Returns 1** when measured CDD is greater than the long term average.
+- **Returns 0** when measured CDD is less than the long term average.
 
 Here we have applied a 7-day SMA to identify trends in investor spedning behavior. Higher values indicate longer-term Bitcoin holders are spending their coins at a greater rate than the long-term average.
 
@@ -57,9 +57,9 @@ The Average Coin Dormancy (Dormancy) metric assesses the average amount of Coin 
 
 Thus the metric measured in units of time (days) and represents the average number of days that each spent coin was dormant prior to being transacted.
 
-- **High dormancy values ↗️** mean that, on average, coins spent that day had been held for longer periods of time in an illiquid state and may be being spent back into liquid circulation.
+- **High dormancy values ↗️** mean that, on average, coins spent that day had been held for longer periods of time in an illiquid state and may be being spent back into liquid circulation.
 
-- **Low dormancy values ↘️** mean the coins being spent that day have are relatively young, signalling that older coins are generally remaining unspent, and on-chain volume is characteristic of more day-to-day traffic.
+- **Low dormancy values ↘️** mean the coins being spent that day have are relatively young, signalling that older coins are generally remaining unspent, and on-chain volume is characteristic of more day-to-day traffic.
 
 ## Average Lifespan per Coin
 
@@ -71,9 +71,9 @@ This chart presents the average Lifespan held per coin (the age of the average H
 
 ### Metrics
 
-- 🟠 **Total Lifespan Destroyed** = Coindays Destroyed (CDD)
-- 🔵 **Total Lifespan Created** = Circulating Supply
-- 🔴 **Average Lifespan per Coin (days)**
+- 🟠 **Total Lifespan Destroyed** = Coindays Destroyed (CDD)
+- 🔵 **Total Lifespan Created** = Circulating Supply
+- 🔴 **Average Lifespan per Coin (days)**
 
 Uptrends in the Average Lifespan metric indicate there is more HODLing taking place than Lifespan destruction. Downtrends indicate thatr longer-term investors are spending their coins in larger volumes, with steeper downtrends indicating more spent volume.
 
@@ -81,19 +81,19 @@ Uptrends in the Average Lifespan metric indicate there is more HODLing taking pl
 
 Liveliness defines the balance between aggregate Coin Day Destruction and Coin Day Creation. This provides a macro scale appreciation of the market preference for HODLing, or distributional behaviour.
 
-- **Uptrends ↗️** suggests that a distribution regime is occurring. This indicates that the rate of Coin Day Destruction is outpacing Coin Day Creation, and indicates longer-term investors are spending their coins.
+- **Uptrends ↗️** suggests that a distribution regime is occurring. This indicates that the rate of Coin Day Destruction is outpacing Coin Day Creation, and indicates longer-term investors are spending their coins.
 
-- **Downtrends ↘️** suggests that an accumulation regime is occurring. This indicates that the rate of Coin Day Creation is outpacing Coin Day Destruction, and thus investor accumulation and colder storage is dominant.
+- **Downtrends ↘️** suggests that an accumulation regime is occurring. This indicates that the rate of Coin Day Creation is outpacing Coin Day Destruction, and thus investor accumulation and colder storage is dominant.
 
-- **Steepness of the Trend** provides a gauge on the relative magnitude and aggressiveness of the market preference described in the points above.
+- **Steepness of the Trend** provides a gauge on the relative magnitude and aggressiveness of the market preference described in the points above.
 
 ## HODL Waves
 
 The HODL Waves present a macro view of the age distribution of the coin supply, and provides insight into changes in investor holding and spending patterns. The metric bundles the coin supply into colored age bands, with the thickness proportional to the percent of total coin supply represented.
 
-- **Warmer Colors** represent younger coins (days to months) which have been recently transacted. Larger volumes of young coins tend to indicate a net divestment by longer-term investors, and increasing saturation by newer investors.
+- **Warmer Colors** represent younger coins (days to months) which have been recently transacted. Larger volumes of young coins tend to indicate a net divestment by longer-term investors, and increasing saturation by newer investors.
 
-- **Cooler Colors** represent older coins which have not transacted for several months to years. Larger volumes of old coins tend to indicate a growing supply dominance held by longer-term investors, and decreasing saturation of newer investors.
+- **Cooler Colors** represent older coins which have not transacted for several months to years. Larger volumes of old coins tend to indicate a growing supply dominance held by longer-term investors, and decreasing saturation of newer investors.
 
 ## Spent Volume Age Bands (SVAB)
 
@@ -101,8 +101,8 @@ Where HODL Waves present the Unspent coin supply by age, the SVAB metric present
 
 SVAB is a useful tool for identifying periods of time or trends where on-chain transactions are dominated by younger, or older coins. The metric demonstrates the age of coins that are moving, and thereby highlights whether market movements are influenced by long-term HODLers or newer market participants.
 
-- **Cooler colors** will fill a larger portion of the chart area on days where more old coins were spent.
-- **Warmer colors** will fill more of the chart area on days where younger coins were spent.
+- **Cooler colors** will fill a larger portion of the chart area on days where more old coins were spent.
+- **Warmer colors** will fill more of the chart area on days where younger coins were spent.
 
 ## Links
 

@@ -20,7 +20,7 @@ You will also learn every nook and cranny of the ERC20 protocol and its evolutio
 
 #### Week 2: ERC721, ERC721Enumerable, and ERC1155 staking and security considerations
 
-Put an ERC721 on OpenSea and store images on IPFS. Build a project that depends on ERC721Enumerable. You will make NFTs stakable to yield ERC20 tokens, and you will be build an exchange that mints NFTs when paid in ERC20 tokens.
+Put an ERC721 on OpenSea and store images on IPFS. Build a project that depends on ERC721Enumerable. You will make NFTs stakable to yield ERC20 tokens, and you will be build an exchange that mints NFTs when paid in ERC20 tokens.
 
 Like the previous week, you will come out of this understanding every last bit of the ERC721 protocol and implementation. You will practice and understand re-entrancy as it relates to 721 and 1155 implementations.
 
@@ -28,11 +28,11 @@ Like the previous week, you will come out of this understanding every last bit o
 
 Master unit tests that not only assesses functionality, but also all the state transitions a smart contract can undergo. You will learn how to automatically catch mistakes and clean up your code with slither and solhint.
 
-You will implement mutation testing with hardhat to determine the quality of your tests and automatically catch corner cases you didn’t think of. You will practice bug discovery using the Trail of Bits Echida library.
+You will implement mutation testing with hardhat to determine the quality of your tests and automatically catch corner cases you didn’t think of. You will practice bug discovery using the Trail of Bits Echida library.
 
 ### Module 2: Security
 
-#### Week 5-9: Re-entrancy, Read only Reentrancy, msg.value in a loop, access controls, gas griefing, Denial of service, insecure randomness, arithmetic errors, improper data validation, business logic errors, and msg.sender spoofing
+#### Week 5-9: Re-entrancy, Read only Reentrancy, msg.value in a loop, access controls, gas griefing, Denial of service, insecure randomness, arithmetic errors, improper data validation, business logic errors, and msg.sender spoofing
 
 We select problems from Damn Vulnerable DeFi, Capture the Ether, and Ethernaut that you now have the prerequisite knowledge for (nothing is more frustrating that trying to do a hack on a subject you haven’t studied before).
 

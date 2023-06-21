@@ -59,7 +59,7 @@ Over Ethereum's nine year history, the EVM has undergone several revisions, and 
 
 ## Ethereum Contract ABI & EVM Bytecode
 
-As Ethereum uses EVM(Ethereum Virtual Machine) as a core component of the network, smart contract code written in high-level languages needs to be compiled into EVM bytecode to be run. **EMV Bytecode is an executable code on EVM and Contract ABI is an interface to interact with EVM bytecode.** For example, if you want to call a function in a smart contract with your JavaScript code, ABI plays a role as an intermediary between your JavaScript code and EVM bytecode to interact with each other. Below diagram shows the architecture of Contract ABI, EVM bytecode and outside components(dApp and network). The left side is a process of compiling and the right side is interacting.
+As Ethereum uses EVM(Ethereum Virtual Machine) as a core component of the network, smart contract code written in high-level languages needs to be compiled into EVM bytecode to be run. **EMV Bytecode is an executable code on EVM and Contract ABI is an interface to interact with EVM bytecode.** For example, if you want to call a function in a smart contract with your JavaScript code, ABI plays a role as an intermediary between your JavaScript code and EVM bytecode to interact with each other. Below diagram shows the architecture of Contract ABI, EVM bytecode and outside components(dApp and network). The left side is a process of compiling and the right side is interacting.
 
 ![evm-bytecode-with-abi](../../media/Pasted%20image%2020230525235415.png)
 

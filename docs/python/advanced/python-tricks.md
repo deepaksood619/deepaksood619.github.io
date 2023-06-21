@@ -164,8 +164,8 @@ t.substitute(name=name)
 ## Misusing expressions as defaults for function arguments
 
 ```python
-def foo(bar=[]): # bar is optional and defaults to [] if not specified   ...   
-    bar.append("baz") # but this line could be problematic, as we'll see...   ...   
+def foo(bar=[]): # bar is optional and defaults to [] if not specified   ...   
+    bar.append("baz") # but this line could be problematic, as we'll see...   ...   
     return bar
 
 foo()
@@ -182,7 +182,7 @@ Ans: the default value for a function argument is only evaluated once, at the ti
 
 ```python
 def foo(bar=None):
-    if bar is None:  # or if not bar:
+    if bar is None:  # or if not bar:
         bar = []
         bar.append("baz")
     return bar
@@ -301,9 +301,9 @@ Python's built-indictclass can be [subclassed](https://en.wikipedia.org/wiki/Sub
 
 ```python
 class Tree(dict):
-...     def __missing__(self, key):
-...         value = self [key] = type(self)()
-...         return value
+...     def __missing__(self, key):
+...         value = self [key] = type(self)()
+...         return value
 
 # common names by class, order, genus, and type-species
 common_names = Tree()common_names ['Mammalia']['Primates']['Homo']['H. sapiens'] = 'human being'

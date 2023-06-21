@@ -219,11 +219,11 @@ black .
 
 ```bash
 additional_dependencies: [
-            'flake8-isort==2.7.0',
-            'flake8-pep3101==1.2.1',
-            'flake8-polyfill==1.0.2',
-            'flake8-string-format==0.2.3',
-        ]
+            'flake8-isort==2.7.0',
+            'flake8-pep3101==1.2.1',
+            'flake8-polyfill==1.0.2',
+            'flake8-string-format==0.2.3',
+        ]
 
 .flake8
 [flake8]

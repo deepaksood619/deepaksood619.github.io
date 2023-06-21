@@ -42,11 +42,11 @@ Not your keys not your coins
 
 ### How Many Bitcoin Addresses Are There
 
-As long as Bitcoin uses the [RIPEMD160](https://en.wikipedia.org/wiki/RIPEMD) hash function, there are 2^160 Bitcoin addresses.
+As long as Bitcoin uses the [RIPEMD160](https://en.wikipedia.org/wiki/RIPEMD) hash function, there are 2^160 Bitcoin addresses.
 
-That number is: **1,461,501,637,330,902,918,203,684,832,716,283,019,655,932,542,976**
+That number is: **1,461,501,637,330,902,918,203,684,832,716,283,019,655,932,542,976**
 
-Bitcoin addresses are created using public keys. The public key is first hashed with the [SHA256 algorithm](https://en.wikipedia.org/wiki/SHA-2), then that hash is taken and hashed again using the previously mentioned RipeMD160 algorithm.
+Bitcoin addresses are created using public keys. The public key is first hashed with the [SHA256 algorithm](https://en.wikipedia.org/wiki/SHA-2), then that hash is taken and hashed again using the previously mentioned RipeMD160 algorithm.
 
 [How Many Bitcoin Addresses Are There (2022 Update)](https://privacypros.io/btc-faq/how-many-btc-addresses)
 
@@ -54,7 +54,7 @@ Bitcoin addresses are created using public keys. The public key is first hashed 
 
 They simply draw them at random. This means, of course, that two different Bitcoin wallets could theoretically generate the same address, and that the two owners could then spend the same funds. Shocking? Yes, but you will be told that such an event is unlikely to happen. Let’s examine together the probability for such an event to happen.
 
-The total number of possible Bitcoin addresses is 2^160. By performing statistical calculations, it is possible to determine the probability that two wallets will randomly generate the same address. For mathematical details, please refer to [this article](https://download.wpsoftware.net/bitcoin-birthday.pdf).
+The total number of possible Bitcoin addresses is 2^160. By performing statistical calculations, it is possible to determine the probability that two wallets will randomly generate the same address. For mathematical details, please refer to [this article](https://download.wpsoftware.net/bitcoin-birthday.pdf).
 
 We can therefore conclude the following: the probability of having a 99.9999% chance of having an address collision, ie. your wallet randomly generating the same address as another is one in 6.35.10^24.
 
@@ -70,7 +70,7 @@ We can therefore conclude the following: the probability of having a 99.9999% ch
 
 The resulting signature looks the same as one created without the threshold scheme, but it is not created with a single private key. Rather, it is created with multiple private key shares, which are distributed such that no single person controls the private key entirely.
 
-To sign a transaction, enough [Approvers](https://qredo.zendesk.com/hc/en-us/articles/4405882993425) must participate to meet a threshold. This threshold structure is typically conceptualized as “t of n”, in which n refers to the total number of signers, and t refers to the number of Approvers who can sign a transaction on behalf of the entire group. For example, you might have a group of 7 signers (n), and require 4 of them to authenticate a transaction: t of n = 4 of 7.
+To sign a transaction, enough [Approvers](https://qredo.zendesk.com/hc/en-us/articles/4405882993425) must participate to meet a threshold. This threshold structure is typically conceptualized as “t of n”, in which n refers to the total number of signers, and t refers to the number of Approvers who can sign a transaction on behalf of the entire group. For example, you might have a group of 7 signers (n), and require 4 of them to authenticate a transaction: t of n = 4 of 7.
 
 [What Are Threshold Signatures?](https://www.qredo.com/blog/what-are-threshold-signatures)
 
@@ -78,7 +78,7 @@ To sign a transaction, enough [Approvers](https://qredo.zendesk.com/hc/en-us/ar
 
 ### Shamir secret sharing scheme (SSSS)
 
-The Shamir secret sharing scheme (SSSS) provides a way to store the private key in a distributed manner such that while the private key is at rest, it is stored in multiple locations.
+The Shamir secret sharing scheme (SSSS) provides a way to store the private key in a distributed manner such that while the private key is at rest, it is stored in multiple locations.
 
 There are two differences between SSSS and TSS:
 
