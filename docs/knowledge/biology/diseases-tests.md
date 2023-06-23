@@ -218,6 +218,10 @@ Aphasia is an inability to comprehend or formulate language because of damage to
 
 [Understanding Tonsillitis - YouTube](https://www.youtube.com/watch?v=9jpMQQn3R9o)
 
+## Diabetes
+
+[The Rise Of Glucose Monitoring Among Non-Diabetics - YouTube](https://www.youtube.com/watch?v=nYy1zEHvXZ4)
+
 ## Links
 
 [Bacterial vs. Viral Infections: What’s the Difference?](https://www.healthline.com/health/bacterial-vs-viral-infections)

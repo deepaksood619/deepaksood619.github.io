@@ -13,13 +13,46 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "decentralized-applications/blockchain.md",
+                "file": "decentralized-applications/coins-tokens-chains/coin-token-intro.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9b27ce6de125d3ad",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "decentralized-applications/coins-tokens-chains/uniswap.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e1760f756fdb8786",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "387de25eef5a59d7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "data-structures/hashtable/verkle-trees.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -48,7 +81,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": " ",
+                "query": "\"usdc\"",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -101,7 +134,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "decentralized-applications/blockchain.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +150,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "decentralized-applications/blockchain.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,9 +171,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "decentralized-applications/blockchain.md"
-              }
+              "state": {}
             }
           },
           {
@@ -189,34 +218,34 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "b11027af87afca94",
+  "active": "e1760f756fdb8786",
   "lastOpenFiles": [
-    "decentralized-applications/coins-tokens-chains/wallets.md",
-    "decentralized-applications/ethereum/solidity.md",
-    "decentralized-applications/crypto-exchanges.md",
-    "knowledge/biology/mbbs-medicine-medical-health.md",
-    "knowledge/biology/digestive-system.md",
-    "technologies/apache/databricks/readme.md",
-    "ai/data-science/data-visualization/tableau.md",
-    "databases/sql-databases/postgres/readme.md",
-    "computer-science/general/others.md",
-    "office/keep/deepak-banks.md",
-    "office/cakedefi/infra.md",
-    "networking/others/delta-lake.md",
-    "technologies/apache/databricks/03-optimizations.md",
-    "office/personality/addresses-electricity.md",
-    "decentralized-applications/coins-tokens-chains/nft-non-fungible-tokens.md",
+    "data-structures/hashtable/readme.md",
+    "data-structures/hashtable/verkle-trees.md",
     "decentralized-applications/coins-tokens-chains/readme.md",
     "decentralized-applications/coins-tokens-chains/coin-token-intro.md",
-    "office/cakedefi/todo.md",
-    "decentralized-applications/ethereum/upgrades.md",
-    "office/blocktoons/todo.md",
-    "office/keep/neha.md",
-    "office/personality/my-interviews.md",
-    "decentralized-applications/coins-tokens-chains/bitcoin.md",
-    "psychology/life-relationship-people.md",
-    "office/personality/life-lessons-buying-guide-travelling-shopping.md",
-    "office/personality/partner-wife-qualities.md",
+    "decentralized-applications/coins-tokens-chains/thorchain.md",
+    "knowledge/biology/exercise-stretching/home-exercise-routine.md",
+    "economics/financial-finance-investing/checklist-tips-personal-finance-quotes.md",
+    "knowledge/biology/nutrition/fatigue.md",
+    "management/project-product-business-tools-saas.md",
+    "computer-science/software-engineering/principles.md",
+    "management/project-management/agile.md",
+    "management/product-management/product-design-questions.md",
+    "management/people-management/people-team-management-culture.md",
+    "office/cakedefi/infra.md",
+    "office/keep/deepak-banks.md",
+    "decentralized-applications/crypto-investing.md",
+    "decentralized-applications/blockchain.md",
+    "knowledge/physics/intro.md",
+    "knowledge/biology/diseases-tests.md",
+    "knowledge/general/important-dates-timelines.md",
+    "office/todo/personal-todo.md",
+    "book-summaries/others.md",
+    "technologies/apache/databricks/40-databricks-commands.md",
+    "data-structures/hashtable/merkle-trees.md",
+    "decentralized-applications/coins-tokens-chains/uniswap.md",
+    "decentralized-applications/crypto-exchanges.md",
     "office.zip",
     "media/Screenshot 2023-05-30 at 11.59.41 PM.png",
     "media/Screenshot 2023-05-30 at 11.59.25 PM.png",

@@ -60,15 +60,15 @@ var countriesData = [
         .attr("width", 120)
         .attr("height", 120)
         .style("background-color", "#D0D0D0");
-       
+
 // Create SVG elements from data
 
-svg.selectAll("circle")   // create virtual circle template      .data(countriesData)     // bind data      
-.join("circle")     // joins data to the selection and creates circle elements for each individual data       
-.attr("id", function(d) { return d.name })          // set the circle's id according to the country name       
-.attr("cx", function(d) { return d.income / 1000  })// set the circle's horizontal position according to income       
-.attr("cy", function(d) { return d.life })         // set the circle's vertical position according to life expectancy       
-.attr("r",  function(d) { return d.pop / 1000 *2 })// set the circle's radius according to country's population       
+svg.selectAll("circle")   // create virtual circle template      .data(countriesData)     // bind data
+.join("circle")     // joins data to the selection and creates circle elements for each individual data
+.attr("id", function(d) { return d.name })          // set the circle's id according to the country name
+.attr("cx", function(d) { return d.income / 1000  })// set the circle's horizontal position according to income
+.attr("cy", function(d) { return d.life })         // set the circle's vertical position according to life expectancy
+.attr("r",  function(d) { return d.pop / 1000 *2 })// set the circle's radius according to country's population
 .attr("fill", function(d) { return d.color });    // set the circle's color according to country's color
 
 svg.append("rect")
@@ -103,10 +103,10 @@ When enter()is combined with thedata()method, it looks at the selected elements 
  <ul></ul>
  <script>
   const dataset = ["a", "b", "c"];
-  d3.select("ul").selectAll("li")        
-  .data(dataset)        
-  .enter()        
-  .append("li")        
+  d3.select("ul").selectAll("li")
+  .data(dataset)
+  .enter()
+  .append("li")
   .text("New item");
 
   d3.select("body").selectAll("h2")

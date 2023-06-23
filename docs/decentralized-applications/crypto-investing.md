@@ -9,6 +9,7 @@
 
 - [DefiLlama - DeFi Dashboard - TVL](https://defillama.com/?_sp=4a5917cc-9246-49fa-a008-41c519296ec8.1684908761328)
 - [Token unlocks](https://token.unlocks.app/)
+- [Crypto Prices and Portfolio Tracker App | CoinStats](https://coinstats.app/)
 
 ### Others
 

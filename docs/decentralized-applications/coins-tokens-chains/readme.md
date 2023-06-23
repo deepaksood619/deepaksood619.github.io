@@ -12,6 +12,8 @@
 - [dtokens](decentralized-applications/coins-tokens-chains/dtokens.md)
 - [nft-non-fungible-tokens](decentralized-applications/coins-tokens-chains/nft-non-fungible-tokens.md)
 - [vechain](decentralized-applications/coins-tokens-chains/vechain.md)
+- [thorchain](decentralized-applications/coins-tokens-chains/thorchain.md)
+- [uniswap](decentralized-applications/coins-tokens-chains/uniswap.md)
 
 ## Coins
 

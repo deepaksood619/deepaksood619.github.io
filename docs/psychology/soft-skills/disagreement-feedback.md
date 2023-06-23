@@ -29,7 +29,7 @@ It's also important to actively listen to the other person's perspective, even i
 
 Approaching a feedback situation with an open mind and willingness to collaborate can lead to unexpected positive outcomes – without the fear of damaging the relationship.
 
-###  Here are 5 Steps to Disagree with Feedback
+### Here are 5 Steps to Disagree with Feedback
 
 There are many different approaches to responding to feedback when you don't agree with it. Here's a 5 step approach that might be helpful.
 
@@ -67,7 +67,7 @@ Example: _"Thanks again for your feedback and for taking the time to raise it. I
 
 ***NOTE:** If the feedback is unexpected or difficult to hear, you can ask for time to process and reflect before responding (this would come before Step 3). This gives you space to process your emotions and formulate a thoughtful response. Example: "_Thanks for sharing your feedback – I really appreciate your openness. Before responding, I'd like to take some time to process and reflect on what you've shared. Could I take some time to think about this and got back to you in a few days with my thoughts?"_
 
-### What about Unsolicited Advice?  
+### What about Unsolicited Advice?
 
 How would you respond if someone gives you advice that you didn't ask for and you don't agree with? Here are four examples of respectful yet firm responses you could use:
 

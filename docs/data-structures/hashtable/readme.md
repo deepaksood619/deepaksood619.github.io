@@ -6,6 +6,7 @@
 - [Hash Functions](hash-functions)
 - [Hash Tables](hash-tables)
 - [Merkle Trees](merkle-trees)
+- [Verkle Trees](data-structures/hashtable/verkle-trees.md)
 - [Dictionaries](dictionaries)
 - [Probabilistic Data Structure](probabilistic-data-structure)
 - [Bloom Filters](bloom-filters)

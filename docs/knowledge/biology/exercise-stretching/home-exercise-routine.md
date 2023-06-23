@@ -43,8 +43,12 @@ Youtube - Athlean X
 20. Straight leg kickback left/right
 21. Side plank leg pull right/left
 
-## Youtube
+## Youtube / Links
 
-<https://www.youtube.com/watch?v=UBMk30rjy0o&ab_channel=PamelaReif>
+[20 MIN FULL BODY WORKOUT // No Equipment | Pamela Reif - YouTube](https://www.youtube.com/watch?v=UBMk30rjy0o&ab_channel=PamelaReif)
 
 [20 Minute Heart-Pumping Cardio Workout - No Equipment With Warm-Up & Cool-Down | SELF](http://youtube.com/watch?v=vncKnAPhgtg&ab_channel=SELF)
+
+[Shankha Prakshalana - Laghu Shankha Prakshalana: Method, Benefits](https://www.easyayurveda.com/2018/01/16/laghu-shankha-prakshalana/)
+
+[Safety and usefulness of Laghu shankha prakshalana in patients with essential hypertension: A self controlled clinical study - PMC](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4296435/)

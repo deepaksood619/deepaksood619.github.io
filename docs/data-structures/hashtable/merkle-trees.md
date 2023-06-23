@@ -37,3 +37,11 @@ Merkle trees serve to help secure the blockchain because hashes in the Merkle tr
 A node that wants to verify some data can use whats called a 'Merkle proof". This contains some data to be verified, the root hash of the tree, and the tree branch (partner hashes going up along the path from the data chunk to the root hash). People who read the proof can verify that branch hashing is consistent throughout the tree.
 
 [CakeDefi | Youtube | Why Merkle trees are the best way to verify your crypto accounts](https://www.youtube.com/watch?v=gcpW7cfmFeE)
+
+## Links
+
+[Verkle Trees](data-structures/hashtable/verkle-trees.md)
+
+[Introduction to Merkle Tree - GeeksforGeeks](https://www.geeksforgeeks.org/introduction-to-merkle-tree/)
+
+[Merkle tree - Wikipedia](https://en.wikipedia.org/wiki/Merkle_tree)

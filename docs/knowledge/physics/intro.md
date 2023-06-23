@@ -46,11 +46,12 @@ Neutron - 1 up quark and 2 down quarks
 
 <https://en.wikipedia.org/wiki/Standard_Model>
 
-<https://www.youtube.com/watch?v=Unl1jXFnzgo>
+[The Standard Model of Particle Physics: A Triumph of Science - YouTube](https://www.youtube.com/watch?v=Unl1jXFnzgo)
 
 [The Fundamental Constituents of Matter and the Eightfold Way](https://www.youtube.com/watch?v=SSswwu8JEYQ)
 
 [Searching for new physics with low-energy techniques - with Danielle Speller - YouTube](https://www.youtube.com/watch?v=NDUUTEhKj54)
+
 [On the origin of time – with Thomas Hertog - YouTube](https://www.youtube.com/watch?v=fY3MbKNNG8o&ab_channel=TheRoyalInstitution)
 
 [How did Michael Faraday invent? – with David Ricketts - YouTube](https://www.youtube.com/watch?v=z1uOsg2-LTA&ab_channel=TheRoyalInstitution)
@@ -58,3 +59,5 @@ Neutron - 1 up quark and 2 down quarks
 [The magic of physics - with Felix Flicker - YouTube](https://www.youtube.com/watch?v=H3wSaLSXdBM&ab_channel=TheRoyalInstitution)
 
 [Particle physics made easy - with Pauline Gagnon - YouTube](https://www.youtube.com/watch?v=Gg35wa82pLQ)
+
+[Did AI Prove Our Proton Model WRONG? - YouTube](https://www.youtube.com/watch?v=TbzZIMQC6vk)

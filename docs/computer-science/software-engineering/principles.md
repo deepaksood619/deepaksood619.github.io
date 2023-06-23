@@ -12,7 +12,7 @@
 - SoC - Separation of Concerns
 - Research first code later
 
-## Objectives and Key Results (OKR)
+## Objectives and Key Results (OKR / OKRs)
 
 Used for setting, communicating and monitoring quarterly goals and results in organizations.
 
@@ -29,6 +29,8 @@ Used for setting, communicating and monitoring quarterly goals and results in or
 - TPM - Total Productive Maintainence
 - MVP - Minimum Viable Products
 - RAT - Riskiest Assumption Test
+
+[Performance Management Platform Built for Business - 15Five](https://www.15five.com/)
 
 ## Yak Shaving
 
