@@ -155,7 +155,7 @@ Optimism isn't a belief that everything will go well all the time. It's a belief
 ### Motivation
 
 - Peace of Mind
-- I have the power to do and to be whatever i wish to do and be.
+- I have the power to do and to be whatever I wish to do and be.
 - No negative thoughts
 - No one can limit us but ourselves
 - I have courage because I desire it; because I need it; because I use it and because I refuse to become such a weakling as cowardice produces.

@@ -27,6 +27,8 @@
   - Low transaction fees
   - <https://solana.com>
 - Polkadot
+  - [Polkadot: What's Up With DOT?! Potential in 2022!! - YouTube](https://www.youtube.com/watch?v=H7S5k5jWp48)
+  - [What is Polkadot? DOT Explained with Animations - YouTube](https://www.youtube.com/watch?v=YlAdEQp6ekM)
 - Dogecoin
 - TRON
 - Avalanche
@@ -36,8 +38,13 @@
 - zcash which claims it uses advanced tech to make sure that detecting ownership is nearly impossible
 - wbtc - [BITCOIN on ETHEREUM? (renBTC, wBTC, tBTC, sBTC) | DEFI Explained - YouTube](https://www.youtube.com/watch?v=iExly7FGKAQ)
 
+- MainCoin - Bitcoin
 - AltCoins
 - ShitCoins
+- MemeCoins
+- StableCoins
+- DeadCoins
+- ScamCoins
 
 ## Tokens / Stable coins
 
@@ -50,7 +57,7 @@
 - Wrapped Bitcoin
 - LEO Token
 - Shiba Inu
-- Lido Staked Ether
+- Lido Staked Ether ([Lido Staked ETH | CoinMarketCap](https://coinmarketcap.com/currencies/steth/))
 - FTX Token
 - Chainlink
 - Algorithmic Stablecoins - Luna / Terra
@@ -108,6 +115,10 @@ Cosmos is a decentralized network of independent parallel blockchains, each powe
 [What is Cosmos? - Cosmos Network](https://v1.cosmos.network/intro)
 
 [Cosmos (ATOM) Blockchain Explorer - ATOMScan](https://atomscan.com/)
+
+[Cosmos: Complete Beginner’s Guide & TOP Projects!! ⚛️ - YouTube](https://www.youtube.com/watch?v=sgIGVsg51W8)
+
+[Tendermint](https://tendermint.com/)
 
 ## Chain Sizes
 

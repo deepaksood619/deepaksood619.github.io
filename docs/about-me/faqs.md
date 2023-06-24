@@ -15,9 +15,9 @@ I have a passion for building and solving problems, which was first sparked when
 - I always had passion for building stuff, I was always an engineer, Always tried to solve problem myself, as far as I can remember from my early days
 - Excited when I first saw computers, used to play games, learned paint, logo, typing
 - Then the formal education killed it.
-- But then IIIT Delhi again sparked that passion where i saw that this programs really solved problems.
-- And also I excel at every place i am put, In IIITD, i was like in the bottom of pyramid and i needed to come to top, so I worked very hard there and tried to excel
-- Same with Zenatix, and same with every company i have ever been. I try to reach at top
+- But then IIIT Delhi again sparked that passion where I saw that this programs really solved problems.
+- And also I excel at every place I am put, In IIITD, I was like in the bottom of pyramid and I needed to come to top, so I worked very hard there and tried to excel
+- Same with Zenatix, and same with every company I have ever been. I try to reach at top
 - Then there was no going back from there
 - From there onwards I loved building products and solving real world problems
 - Best and easiest way currently is to code@scale
@@ -34,8 +34,8 @@ Learning and building new things and technologies
 
 ### Things I like
 
-- Be direct to me about anything, if you don't like about me anything, i would be very happy to improve on it whatever it may be. I don't hold grudges and will not take it negatively.
-- I am a **rational person**, so i want reason for doing something that is asked, so i know the reason behind the work, and maybe can help to improve it. (so if you want to change something in my work, my routine, or my code, there must be a rationality behind the same), and if you are right i will accept it and will change it no matter how hard it is.
+- Be direct to me about anything, if you don't like about me anything, I would be very happy to improve on it whatever it may be. I don't hold grudges and will not take it negatively.
+- I am a **rational person**, so I want reason for doing something that is asked, so I know the reason behind the work, and maybe can help to improve it. (so if you want to change something in my work, my routine, or my code, there must be a rationality behind the same), and if you are right I will accept it and will change it no matter how hard it is.
 
 ### Things I hate
 
@@ -49,7 +49,7 @@ Learning and building new things and technologies
 
 - I cannot turn a blind eye towards something wrong or something that can be improved, like seeing a code snippet that can be improved and doesn't relate to something I am working, and just let it alone. I will go lengths like to other teams, to make it right. And I will take **ownership** and follow up and see it done.
 
-### Things i admire
+### Things I admire
 
 - Tell me and I forget. Teach me and I remember. Involve me and I learn.
 

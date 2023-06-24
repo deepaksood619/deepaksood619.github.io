@@ -10,7 +10,7 @@ Dress for the job you want, not the job you have
 
 If you fail to plan, you plan to fail
 
-Accountability without autonomy doesn't work i e. I want you to improve X but you cannot change anything
+Accountability without autonomy doesn't work i.e. I want you to improve X but you cannot change anything
 
 Customers are investors, employees are assets
 

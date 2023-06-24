@@ -207,3 +207,5 @@ The clause "ROWS BETWEEN UNBOUNDED PRECEDING AND CURRENT ROW" in the given query
 [Introducing Window Functions in Spark SQL - The Databricks Blog](https://www.databricks.com/blog/2015/07/15/introducing-window-functions-in-spark-sql.html)
 
 [Spark Window Functions with Examples - Spark By {Examples}](https://sparkbyexamples.com/spark/spark-sql-window-functions/)
+
+[Calculate SQL Percentile using the PERCENT\_RANK function in SQL Server](https://www.sqlshack.com/calculate-sql-percentile-using-the-sql-server-percent_rank-function/)

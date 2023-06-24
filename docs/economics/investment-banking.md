@@ -44,6 +44,7 @@ Multiple of Invested Capital ("MOIC") and Internal Rate of Return ("IRR") are tw
 <https://www.investopedia.com/articles/markets/011116/worlds-top-10-private-equity-firms-apo-bx.asp>
 
 - The Blackstone Group Inc.
+- [BlackRock - YouTube](https://www.youtube.com/watch?v=qs_mWvf6yRI)
 - Kohlberg, Kravis & Roberts (KKR)
 - CVC Capital Partners
 - The Carlyle Group Inc.

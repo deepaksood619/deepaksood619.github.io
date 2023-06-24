@@ -42,7 +42,9 @@ Rows - 1,048,576- Text to column
   - t - paste format
 - ctrl + shift + l = add filter to data tables
 
-## Examples
+## Examples / Functions
+
+[Google Sheets function list](https://support.google.com/docs/table/25273)
 
 - =IF(A4>$B$1,B4,C4)
   - =IF(A4>$B$1,IF(B4>$C$2,B4,C4),C4)
@@ -70,6 +72,10 @@ Rows - 1,048,576- Text to column
 - =PMT(D5,D6,D4) - calculate emi amount for loan
 - What-if analysis
   - GoalSeek
+- =PERCENTILE(A2:A20, 0.5) # to get 50th percentile value
+- =PERCENTILERANK(A2:A20, A2) # relative position of a particular data point within a dataset expressed as a percentage
+- PERCENTRANK.INC: Calculates the percentile rank of a value, including the smallest and largest values.
+- PERCENTRANK.EXC: Calculates the percentile rank of a value, excluding the smallest and largest values.
 
 - IF
   - SUMIF, SUMIFS, COUNTIF, COUNTIFS

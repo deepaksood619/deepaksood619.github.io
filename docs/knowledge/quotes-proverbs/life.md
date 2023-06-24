@@ -112,7 +112,7 @@ Power to him who power exerts -- Emerson
 
 You must do the things you think you cannot do -- Eleanor Roosevelt
 
-I know one thing, that i know nothing
+I know one thing, that I know nothing
 
 Knowledge is not power, knowledge is potential power, it only becomes power when you act on it
 

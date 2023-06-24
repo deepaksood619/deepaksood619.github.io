@@ -2,7 +2,7 @@
 
 [How to be a stoic](../book-summaries/how-to-be-a-stoic)
 
-Itaka - Enjoy the road and journey, never say once I get their i will be happy since it's a never ending process
+Itaka - Enjoy the road and journey, never say once I get their I will be happy since it's a never ending process
 
 - **Inversion / premeditatio malorum - premeditation of evils**
   - The goal of this exercise was to envision the negative things that could happen in life. For example, the Stoics would imagine what it would be like to lose their job and become homeless or to suffer an injury and become paralyzed or to have their reputation ruined and lose their status in society.

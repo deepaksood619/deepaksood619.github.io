@@ -58,3 +58,7 @@ On May 7, the price of the then-$18-billion algorithmic stablecoin terraUSD (UST
 [The Secretive World Of MEV, Where Bots Front-Run Crypto Investors For Big Profits](https://www.forbes.com/sites/jeffkauflin/2022/10/11/the-secretive-world-of-mev-where-crypto-bots-scalp-investors-for-big-profits/?sh=b4e0e672d8dc)
 
 [Hopium Diaries - Dystopian Dreams - YouTube](https://www.youtube.com/watch?v=v1Z5BnBuFyE)
+
+[SEC TARGETING Crypto: Which Projects At RISK?? 😨 - YouTube](https://www.youtube.com/watch?v=uPBR3mn6wKU)
+
+[Still Hope For Crypto?! This Will REALLY Surprise You!! 😮 - YouTube](https://www.youtube.com/watch?v=65QgI_Kzq38)

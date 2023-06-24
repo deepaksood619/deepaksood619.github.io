@@ -53,9 +53,19 @@ Liquid staking service providers solve this liquidity problem by minting a new t
 
 <https://www.youtube.com/playlist?list=PLAXQ4YtxCRUGVUXRJ-uSzyvNxZQq74uLY>
 
+[Best Liquid Staking Platforms For Crypto May 2023](https://milkroad.com/staking/liquid)
+
+[What Liquid Staking Tokens Mean For Ethereum (LSDs) - YouTube](https://www.youtube.com/watch?v=5vl1DT9kxck)
+
+### Lido Finance
+
 [Lido | Liquid Staking for Digital Assets](https://lido.fi/)
 
-[Best Liquid Staking Platforms For Crypto May 2023](https://milkroad.com/staking/liquid)
+[Withdrawals | Lido](https://stake.lido.fi/withdrawals)
+
+[Lido Finance: Liquid Ethereum Staking & LDO Potential!! 💧 - YouTube](https://www.youtube.com/watch?v=VQ_uvak1JPw)
+
+[Lido V2 Mainnet Launch](https://blog.lido.fi/lido-v2-launch/?pk_vid=bf23268f37fe14961687501797ca3ac5)
 
 ## Links
 

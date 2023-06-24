@@ -8,51 +8,31 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b11027af87afca94",
+            "id": "6e136e46b528fc68",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "decentralized-applications/coins-tokens-chains/coin-token-intro.md",
+                "file": "mathematics/statistics/crash-course-statistics.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "9b27ce6de125d3ad",
+            "id": "7cb5e763be4bd832",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "decentralized-applications/coins-tokens-chains/uniswap.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e1760f756fdb8786",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "387de25eef5a59d7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "data-structures/hashtable/verkle-trees.md",
+                "file": "economics/mental-models/economics-mental-models.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -81,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"usdc\"",
+                "query": "baumol-effect",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -134,6 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "economics/mental-models/economics-mental-models.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,6 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "economics/mental-models/economics-mental-models.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,7 +153,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "economics/mental-models/economics-mental-models.md"
+              }
             }
           },
           {
@@ -218,34 +202,35 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "e1760f756fdb8786",
+  "active": "978fd2faf621af33",
   "lastOpenFiles": [
-    "data-structures/hashtable/readme.md",
-    "data-structures/hashtable/verkle-trees.md",
-    "decentralized-applications/coins-tokens-chains/readme.md",
-    "decentralized-applications/coins-tokens-chains/coin-token-intro.md",
-    "decentralized-applications/coins-tokens-chains/thorchain.md",
-    "knowledge/biology/exercise-stretching/home-exercise-routine.md",
-    "economics/financial-finance-investing/checklist-tips-personal-finance-quotes.md",
-    "knowledge/biology/nutrition/fatigue.md",
-    "management/project-product-business-tools-saas.md",
-    "computer-science/software-engineering/principles.md",
-    "management/project-management/agile.md",
-    "management/product-management/product-design-questions.md",
-    "management/people-management/people-team-management-culture.md",
-    "office/cakedefi/infra.md",
+    "about-me/faqs.md",
+    "knowledge/language/grammer-vocabulary.md",
+    "mathematics/statistics/percentiles.md",
+    "computer-science/courses/microsoft-excel-google-sheets.md",
+    "devops/monitoring/metrics.md",
+    "mathematics/statistics/crash-course-statistics.md",
+    "mathematics/statistics/readme.md",
     "office/keep/deepak-banks.md",
     "decentralized-applications/crypto-investing.md",
-    "decentralized-applications/blockchain.md",
-    "knowledge/physics/intro.md",
-    "knowledge/biology/diseases-tests.md",
-    "knowledge/general/important-dates-timelines.md",
-    "office/todo/personal-todo.md",
-    "book-summaries/others.md",
-    "technologies/apache/databricks/40-databricks-commands.md",
-    "data-structures/hashtable/merkle-trees.md",
-    "decentralized-applications/coins-tokens-chains/uniswap.md",
     "decentralized-applications/crypto-exchanges.md",
+    "decentralized-applications/crypto-news.md",
+    "economics/investment-banking.md",
+    "decentralized-applications/intro.md",
+    "knowledge/others/news-problems.md",
+    "decentralized-applications/coins-tokens-chains/readme.md",
+    "decentralized-applications/readme.md",
+    "office/cakedefi/todo.md",
+    "decentralized-applications/liquidity-mining.md",
+    "economics/mental-models/economics-mental-models.md",
+    "economics/accounting-for-finance/6a-ratio-analysis.md",
+    "decentralized-applications/ethereum/ethereum-staking.md",
+    "computer-science/distributed-system/byzantine-generals-problem.md",
+    "computer-science/distributed-system/vocabulary.md",
+    "computer-science/distributed-system/readme.md",
+    "management/business/business-case-studies.md",
+    "languages/sql/dql-data-query-language/window-functions.md",
+    "media/Pasted image 20230623092653.png",
     "office.zip",
     "media/Screenshot 2023-05-30 at 11.59.41 PM.png",
     "media/Screenshot 2023-05-30 at 11.59.25 PM.png",
@@ -256,7 +241,6 @@
     "media/Screenshot 2023-05-30 at 11.57.00 PM.png",
     "media/Pasted image 20230529234112.png",
     "media/image.png",
-    "media/Screenshot 2023-05-28 at 9.57.42 AM.png",
     "office/stashfin-credentials",
     "management/people-management",
     "decentralized-applications/coins-tokens-chains",

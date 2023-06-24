@@ -81,7 +81,7 @@ link - [Deepak Kumar Sood](https://deepaksood619-e5c24.web.app/)
 
 ### Competitive Programming (July'17 - Present)
 
-My repository where i maintain all the competitive programming questions that i have solved. It's a collection of problems from various sites like HackerRank, GeeksForGeeks, HackerEarth, CodeChef, LeetCode, and basic algorithms and data structure questions
+My repository where I maintain all the competitive programming questions that I have solved. It's a collection of problems from various sites like HackerRank, GeeksForGeeks, HackerEarth, CodeChef, LeetCode, and basic algorithms and data structure questions
 
 <https://github.com/deepaksood619/Competitive-Programming>
 

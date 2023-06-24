@@ -341,3 +341,5 @@ Marketing tactic used, light the agarbatti in-front of store and left for 2 days
 [The Extravagant Business of Cruises - YouTube](https://www.youtube.com/watch?v=QqQtV7wHSV0)
 
 [The INSANE Story of Domino's Pizza - YouTube](https://www.youtube.com/watch?v=QJh1LkOM4KY)
+
+[How We Built a $150 Million Streaming Platform with $100,000 - YouTube](https://www.youtube.com/watch?v=Alqt6RCEWdM)

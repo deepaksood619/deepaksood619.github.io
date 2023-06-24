@@ -122,7 +122,7 @@ Remember to describe doing the task as vividly as possible, like passing through
 
 Lecturer - Negative reinforcement occurs when an aversive stimulus is removed to reinforce a behavior
 
-Notes - Negative reinforcement is like when something becomes less painful, so you do it more, Like the time i prepared for that 10k run
+Notes - Negative reinforcement is like when something becomes less painful, so you do it more, Like the time I prepared for that 10k run
 
 - Avoid taking notes on a computer. Take handwritten notes instead.
 - Exocortex (An Exocortex is a theoretical augmentation to a person's brain. It's basically extra functions and memory you could add to a brain to make people smarter)

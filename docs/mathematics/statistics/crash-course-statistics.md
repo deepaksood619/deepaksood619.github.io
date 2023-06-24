@@ -2,11 +2,10 @@
 
 [Statistics](https://www.youtube.com/playlist?list=PL8dPuuaLjXtNM_Y-bUAhblSAdWRnmBUcr)
 
-## Z-scores and percentiles
+## Z-scores
 
 - Z-scores - Amount of standard deviation above or below the mean
 - Z-scores in general allow us to compare things that are not on the same scale, as long as they're normally distributed.
-- Percentiles - Tell you what percentage of the population has a score or value that's lower than yours.
 
 ## Confidence intervals
 
@@ -44,7 +43,7 @@ If your p-value were 0.10 you could say that your sample is in the top 10% most 
 - Type 2 Error -
   - False negatives: There was an effect, but we didn't see it.
 
-## You know i am all about that Bayes
+## You know I am all about that Bayes
 
 - Bayesian statistics is about updating beliefs and can be used to test hypotheses.
 - Bayes' Factor - Represents the amount of information that we've learned about our hypotheses from the data

@@ -1,6 +1,6 @@
 # Funny
 
-Once i was travelling by train from Mumbai to Delhi!
+Once I was travelling by train from Mumbai to Delhi!
 
 When the train started, I was traveling alone in the AC-I coupe.
 

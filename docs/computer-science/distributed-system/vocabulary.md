@@ -67,7 +67,7 @@ Fault -> Error -> Failure
 
     The node with the fault stops working, and either produces no result, or a result that shows the node failed
 
-2. [Byzantine failure](fallacies-and-problems#byzantine-generals-problem--two-generals-problem)
+2. [Byzantine failure](computer-science/distributed-system/byzantine-generals-problem.md)
 
     The node with the fault may keep working, but produces an unexpected result/error
 

@@ -29,8 +29,8 @@ Indulge now and pay the price later? Or wait a little and reap bigger re- wards 
 
 ## The secret to self control - Willingness
 
-- I am having a thought that i am feeling a lot of stress right now and i need to smoke a cigaratte
-- I am noticing that I am having the thought that i am feeling a lot of stress right now and i need to smoke a cigaratte
+- I am having a thought that I am feeling a lot of stress right now and I need to smoke a cigaratte
+- I am noticing that I am having the thought that I am feeling a lot of stress right now and I need to smoke a cigaratte
 
 ## Four Burners' Theory
 

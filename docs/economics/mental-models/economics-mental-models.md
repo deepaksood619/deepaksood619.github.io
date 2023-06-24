@@ -265,6 +265,24 @@ It’s the value (or price) that’s destroyed when the gift changes hands. Or p
 
 [The economics of wasteful spending: The deadweight loss of Christmas](https://www.pbs.org/newshour/economy/the-economics-of-wasteful-spending-the-dead-weight-loss-of-christmas)
 
+## Baumol Effect
+
+In economics, the **Baumol effect**, also known as **Baumol's cost disease**, is the rise of wages in jobs that have experienced little or no increase in labor productivity, in response to rising salaries in other jobs that have experienced higher productivity growth.
+
+The rise of wages in jobs without productivity gains derives from the requirement to compete for workers with jobs that have experienced productivity gains and so can naturally pay higher salaries, just as classical economics predicts. For instance, if the retail sector pays its managers low wages, they may decide to quit and get jobs in the automobile sector, where wages are higher because of higher labor productivity. Thus, retail managers' salaries increase not due to labor productivity increases in the retail sector, but due to productivity and corresponding wage increases in other industries.
+
+Baumol helps us understand not only today’s economy but also a likely path for the economy’s future. He explained why labor-intensive services get more and more expensive as the economy grows. And those kinds of services are likely to be the future of the global economy.
+
+![baumol-effect](../../media/Pasted%20image%2020230623092653.png)
+
+[Baumol effect - Wikipedia](https://en.wikipedia.org/wiki/Baumol_effect)
+
+[Taylor Swift and the Baumol Effect](https://finshots.in/archive/taylor-swift-and-the-baumol-effect/)
+
+[William Baumol, whose famous economic theory explains the modern world, has died - Vox](https://www.vox.com/new-money/2017/5/4/15547364/baumol-cost-disease-explained)
+
+[Why Are the Prices So Damn High? | Mercatus Center](https://www.mercatus.org/students/research/books/why-are-prices-so-damn-high)
+
 ## Links
 
 - [Marginal Utility / Analysis](marginal-utility-analysis)

@@ -565,7 +565,7 @@ Lasting Happiness in a changing world
 - Take a few hours of blank time for thinking about yourself and always see the bigger picture on why you are doing what you do
 - Sleep and play are as important as work
 - Be ruthless in cutting away things that aren't essential
-- Say "no" to nonessential tasks and plan the essential ones carefully (How will i know when i have reached my goal)
+- Say "no" to nonessential tasks and plan the essential ones carefully (How will I know when I have reached my goal)
 - Stop doing unncessary things by withdrawing from failure and setting boundaries (Admit errors and mistakes and let go)
 - Keeping on top of what's important requires that you eliminate what slows you down and elminate it.
 - Always take 50% of buffer time that you have expected a work to take
@@ -627,7 +627,7 @@ Otherwise show disappointment
  Israeli public intellectual, historian and a professor in the Department of History at the Hebrew University of Jerusalem. He is the author of the popular science bestsellers Sapiens: A Brief History of Humankind, Homo Deus: A Brief History of Tomorrow, and 21 Lessons for the 21st Century
 
 - [Is Gautam Adani Gifted Wealth ? India's Second Richest Man Story 🔥 Business Case Study](https://youtu.be/Z8yKfenzYRI)
-  - If you build great relationships, half of your work is already done before you tell i need you
+  - If you build great relationships, half of your work is already done before you tell I need you
 
 - [Netaji Subash Chandra Bose: What Schools don't teach you about India's Real Hero!](https://youtu.be/Wf6X-50OQdE)
 

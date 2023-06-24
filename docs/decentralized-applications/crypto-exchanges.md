@@ -18,17 +18,21 @@ The Top Three Highest Ranking Crypto Websites on Alexa
 - SushiSwap
   - [What Is a VAMPIRE ATTACK? SUSHISWAP Saga Explained - YouTube](https://www.youtube.com/watch?v=UFjXwrCGuog&ab_channel=Finematics)
   - [SUSHI - Most Underrated Protocol in DeFi? (BentoBox, Kashi, Miso Explained) - YouTube](https://www.youtube.com/watch?v=Cbtvc8Eso_g)
-- Binance.com (Global Ranking 210, US Rank 306)
 - Coinmarketcap.com (Global Rank 108, US Rank 131)
-- Coinbase.com (Global Rank 294, US Rank 209)
-- Crypto.com
 - Vauld (FDs)
-- Bitfinex (Exchange)
-- **Kraken** - [https://coinmarketcap.com/exchanges/kraken/](https://coinmarketcap.com/exchanges/kraken/)
 - [Cryptocurrency Exchange - Crypto & Altcoin Swap Platform with Lowest Fees](https://changelly.com/)
+
+## Centralized Exchanges (CEX)
 
 [Compare Crypto Exchanges In India](https://www.forbes.com/advisor/in/investing/cryptocurrency/best-crypto-exchange-in-india/)
 
 - CoinDCX
 - CoinSwitch Kuber
 - Wazirx
+- [https://www.bitstamp.net](https://www.bitstamp.net/)
+- Binance.com (Global Ranking 210, US Rank 306)
+- Coinbase.com (Global Rank 294, US Rank 209)
+- Crypto.com
+- Bitfinex (Exchange)
+- **Kraken** - [https://coinmarketcap.com/exchanges/kraken/](https://coinmarketcap.com/exchanges/kraken/)
+- [Buy, Sell & Trade Bitcoin & Other Crypto Currencies with Gemini's Platform | Gemini](https://www.gemini.com/)

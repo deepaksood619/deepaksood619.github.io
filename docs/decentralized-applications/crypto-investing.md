@@ -10,6 +10,7 @@
 - [DefiLlama - DeFi Dashboard - TVL](https://defillama.com/?_sp=4a5917cc-9246-49fa-a008-41c519296ec8.1684908761328)
 - [Token unlocks](https://token.unlocks.app/)
 - [Crypto Prices and Portfolio Tracker App | CoinStats](https://coinstats.app/)
+- [Blockchair — Universal blockchain explorer and search engine](https://blockchair.com/)
 
 ### Others
 
@@ -96,3 +97,5 @@
 [Why Do People Buy Crypto | CoinGecko](https://www.coingecko.com/research/publications/why-people-buy-crypto)
 
 [The TOP Countries With ZERO CRYPTO TAXES - YouTube](https://www.youtube.com/watch?v=tdlmv4iHFb4&ab_channel=MoneyRules-InvestingTips)
+
+[Crypto Market Manipulation! Wyckoff & WHALES!!🐋 - YouTube](https://www.youtube.com/watch?v=ltcnTTeDFjY)

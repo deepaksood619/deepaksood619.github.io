@@ -274,7 +274,7 @@ esta bien - It's okay
 
 Estas feliz? - Are you happy?
 
-Lo siento, estoy mal - I am sorry, i am unwell
+Lo siento, estoy mal - I am sorry, I am unwell
 
 Me llamo Deepak - My name is Deepak
 
@@ -332,7 +332,7 @@ Quieres bailar conmigo? - Do you want to dance with me?
 
 Quieres salir conmigo? Do you want to go out with me?
 
-Me das tu número - Can i get your phone number?
+Me das tu número - Can I get your phone number?
 
 Me gustas mucho - I like you a lot
 
@@ -488,7 +488,7 @@ El beisbol es muy divertido - Baseball is really fun
 
 Tu hablas ingles - Do you speak english
 
-Si, yo hablo espanol - Yes, i speak spanish
+Si, yo hablo espanol - Yes, I speak spanish
 
 Yo necesito mi maleta - I need my suitcase
 
