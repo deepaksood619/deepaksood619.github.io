@@ -44,7 +44,7 @@ Ans - The capital of France is Paris.
 
 ##### Tactic 4: "Few-shot" prompting
 
-#### Principle 2: Give the model time to “think”
+#### Principle 2: Give the model time to "think"
 
 ##### Tactic 1: Specify the steps required to complete a task
 

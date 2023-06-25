@@ -170,7 +170,7 @@ When an Credit Saison India service receives the request, it performs the same s
 
 ## Passkeys
 
-[Passkeys](https://security.googleblog.com/2023/05/so-long-passwords-thanks-for-all-phish.html) are a new way to sign in to apps and websites. They’re both easier to use and more secure than passwords, so users no longer need to rely on the names of pets, birthdays or the infamous “password123.” Instead, passkeys let users sign in to apps and sites the same way they unlock their devices: with a fingerprint, a face scan or a screen lock PIN. And, unlike passwords, passkeys are resistant to online attacks like phishing, making them more secure than things like SMS one-time codes.
+[Passkeys](https://security.googleblog.com/2023/05/so-long-passwords-thanks-for-all-phish.html) are a new way to sign in to apps and websites. They’re both easier to use and more secure than passwords, so users no longer need to rely on the names of pets, birthdays or the infamous "password123." Instead, passkeys let users sign in to apps and sites the same way they unlock their devices: with a fingerprint, a face scan or a screen lock PIN. And, unlike passwords, passkeys are resistant to online attacks like phishing, making them more secure than things like SMS one-time codes.
 
 [Passkeys: What they are and how to use them](https://blog.google/technology/safety-security/the-beginning-of-the-end-of-the-password/)
 

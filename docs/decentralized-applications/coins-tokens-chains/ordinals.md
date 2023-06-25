@@ -8,7 +8,7 @@ It was this flaw in Ethereum NFTs that caused software engineer Casey Rodarmor t
 
 Those in favor of change believe Ordinal Inscriptions could cause an important shift in the bitcoin community and improve the technology behind NFTs.
 
-Yet many questions I’ve been receiving from clients boil down to, “is this good or bad for bitcoin?” and “will this disrupt the usability of it.”
+Yet many questions I’ve been receiving from clients boil down to, "is this good or bad for bitcoin?" and "will this disrupt the usability of it."
 
 The challenge has been that as more Ordinals are being inscribed, the cost of bitcoin transactions has risen. That’s because Ordinals introduce additional, non-financial data on the Bitcoin blockchain that bog down on-chain confirmation times. This includes images, audio clips, even games.
 

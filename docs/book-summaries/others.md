@@ -15,3 +15,15 @@
 [Design your rich life: I WILL TEACH YOU TO BE RICH by Ramit Sethi | Core Message - YouTube](https://www.youtube.com/watch?v=vybSDRL6C3g)
 
 [Does time really exist? | ‘The Order of Time’ by Carlo Rovelli | Best Science Books | Book Summary - YouTube](https://www.youtube.com/watch?v=fS_2NqD1K8s)
+
+## Links
+
+[Productivity Game - YouTube](https://www.youtube.com/@ProductivityGame)
+
+[Influence & Leadership - YouTube](https://www.youtube.com/playlist?list=PL38v62je9cXbxHcw4XNXuQ5eD47q4FXpE)
+
+[Business & Innovation - YouTube](https://www.youtube.com/playlist?list=PL38v62je9cXZD5zvh6IDvAO0IosoPWgdo)
+
+[Personal Development & Peak Performance - YouTube](https://www.youtube.com/playlist?list=PL38v62je9cXb98wDY5q3fW-qN-KbQQeZa)
+
+[Productivity Game PDF Package Playlist - YouTube](https://www.youtube.com/playlist?list=PL38v62je9cXZuHv6WixrJr2zA2LJU0dYu)

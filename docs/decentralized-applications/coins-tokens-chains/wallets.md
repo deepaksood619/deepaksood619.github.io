@@ -44,9 +44,17 @@ Not your keys not your coins
 
 As long as Bitcoin uses the [RIPEMD160](https://en.wikipedia.org/wiki/RIPEMD) hash function, there are 2^160 Bitcoin addresses.
 
-That number is: **1,461,501,637,330,902,918,203,684,832,716,283,019,655,932,542,976**
+That number is: 1,461,501,637,330,902,918,203,684,832,716,283,019,655,932,542,976
 
 Bitcoin addresses are created using public keys. The public key is first hashed with the [SHA256 algorithm](https://en.wikipedia.org/wiki/SHA-2), then that hash is taken and hashed again using the previously mentioned RipeMD160 algorithm.
+
+### Analogy
+
+There are 2^63 grains of sand on all of the beaches of Earth, combined. That’s roughly 9 quintillion grains of sand (or 9,223,372,036,854,775,808).
+
+Imagine that each grain of sand on Earth is another planet Earth, and that each of those planets has 7.442 billion people living on it. Now, if we divide up the number of Bitcoin addresses per person, each would get 3.5 billion for their lifetime.
+
+And if each of those people lives for exactly 100 years, they have 110 Bitcoin addresses to use every second starting from the second they’re born.
 
 [How Many Bitcoin Addresses Are There (2022 Update)](https://privacypros.io/btc-faq/how-many-btc-addresses)
 
@@ -70,7 +78,7 @@ We can therefore conclude the following: the probability of having a 99.9999% ch
 
 The resulting signature looks the same as one created without the threshold scheme, but it is not created with a single private key. Rather, it is created with multiple private key shares, which are distributed such that no single person controls the private key entirely.
 
-To sign a transaction, enough [Approvers](https://qredo.zendesk.com/hc/en-us/articles/4405882993425) must participate to meet a threshold. This threshold structure is typically conceptualized as “t of n”, in which n refers to the total number of signers, and t refers to the number of Approvers who can sign a transaction on behalf of the entire group. For example, you might have a group of 7 signers (n), and require 4 of them to authenticate a transaction: t of n = 4 of 7.
+To sign a transaction, enough [Approvers](https://qredo.zendesk.com/hc/en-us/articles/4405882993425) must participate to meet a threshold. This threshold structure is typically conceptualized as "t of n", in which n refers to the total number of signers, and t refers to the number of Approvers who can sign a transaction on behalf of the entire group. For example, you might have a group of 7 signers (n), and require 4 of them to authenticate a transaction: t of n = 4 of 7.
 
 [What Are Threshold Signatures?](https://www.qredo.com/blog/what-are-threshold-signatures)
 
@@ -82,7 +90,17 @@ The Shamir secret sharing scheme (SSSS) provides a way to store the private key 
 
 There are two differences between SSSS and TSS:
 
-- **Key Generation:** in SSSS, there is a single party called “the dealer” that is in charge of generating the private key secret shares. It means that at time of Key Generation, the private key is generated at a single location and then distributed by the dealer to the different locations. In TSS, there is no dealer as its role is distributed such that the full private key is never at a single location.
+- **Key Generation:** in SSSS, there is a single party called "the dealer" that is in charge of generating the private key secret shares. It means that at time of Key Generation, the private key is generated at a single location and then distributed by the dealer to the different locations. In TSS, there is no dealer as its role is distributed such that the full private key is never at a single location.
 - **Signing:** in SSSS, the parties must reconstruct the full private key in order to sign, which again results in a single point of failure each time a signature is needed. In TSS, the signing is done in a distributed way without ever reconstructing the secret shares.
 
 As we can see, in TSS the private key (which represents the security of the system) is never at a single location throughout its entire lifetime.
+
+### Tools
+
+[Bitcoin financial services - Unchained](https://unchained.com/)
+
+[Caravan - Bitcoin Multisig](https://unchained-capital.github.io/caravan/#/)
+
+[Building A Best-In-Class Hardware Wallet For Bitcoin Multisig | Ledger](https://www.ledger.com/blog/building-a-best-in-class-hardware-bitcoin-multisig)
+
+[How to Create a Multi Signature Wallet for Your Crypto | by Genson C. Glier | BlockToken | Medium](https://medium.com/blocktoken/how-to-create-a-multi-signature-wallet-for-your-crypto-f74c8f888791)

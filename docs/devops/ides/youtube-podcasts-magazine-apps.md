@@ -371,7 +371,7 @@ Youtube Original's Mind Field
 - 1337xx.to
 - <https://waytohunt.org/1337x-proxy-mirror-sites>
 - <https://1337x.unblockit.onl/home>
-- piratebay
+- [Download music, movies, games, software! The Pirate Bay - The galaxy's most resilient BitTorrent site](https://pirate-proxy.click/)
 - [https://fmovies.pub](https://fmovies.pub/)
 - popcorn times
 - <https://yifytorrent.cc>

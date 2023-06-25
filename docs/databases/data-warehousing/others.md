@@ -6,6 +6,8 @@ In [databases](https://en.wikipedia.org/wiki/Database), change data capture(CDC)
 
 CDC solutions occur most often in [data-warehouse](https://en.wikipedia.org/wiki/Data_warehouse) environments since capturing and preserving the state of data across time is one of the core functions of a data warehouse, but CDC can be utilized in any database or data repository system.
 
+[What Is Change Data Capture - Understanding Data Engineering 101 - YouTube](https://www.youtube.com/watch?v=hNJCxF3IWC4)
+
 ### Tools
 
 #### Debezium

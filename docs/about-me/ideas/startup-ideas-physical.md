@@ -148,6 +148,12 @@ Airline can be transporter of fuels if passenger occupancy is lower, i.e. based 
 
 ## Universal Basic Income (UBI) / Universal basic services (UBS)
 
+[Universal Basic Income Explained – Free Money for Everybody? UBI - YouTube](https://www.youtube.com/watch?v=kl39KHS07Xc)
+
+[An Honest Discussion About A Universal Basic Income - YouTube](https://www.youtube.com/watch?v=wMGAt4EC77w)
+
+[Universal Basic Income (UBI) - Life After Automation - YouTube](https://www.youtube.com/watch?v=OQjrhIyaPyg)
+
 [A Socialist Perspective on the Pursuit of Happiness | Aaron Bastani | TED](https://www.youtube.com/watch?v=M6aq2SH-xVo)
 
 - Education

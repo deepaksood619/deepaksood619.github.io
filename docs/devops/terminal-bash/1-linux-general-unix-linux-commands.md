@@ -98,7 +98,7 @@ scp -i ../ec2_ssh_key.pem ubuntu@15.206.94.125:/home/ubuntu/workspace/cred-stuff
 
 ```bash
 # Search a file for keywords
-grep 'keyword' “file”
+grep 'keyword' "file"
 
 # Grep regex
 ls | grep "metrics-[^su]"
@@ -784,7 +784,7 @@ In the call tree, if a function calls more than one function then a vertical lin
 3. xrandr -o normal (Screen rotation)
 4. sudo shred -n 1 -v -z /dev/sd (format full hard disk, first write random bits, than with zeros, to every address)
 5. bash install-missing.sh (running set of bash commands from a file)
-6. wc “file”                 //count number of lines/words/characters in file
+6. wc "file"                 //count number of lines/words/characters in file
 7. banner <anything>    #prints a banner for <anything>
 8  file [path] #to check the type of file
 ```

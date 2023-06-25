@@ -23,7 +23,7 @@
 
 - Most DeFi projects are built on the **Ethereum** blockchain, where applications run on so-called virtual machines. **Unlike native blockchains**, blockchains like Ethereum offer **greater flexibility** for developers. This flexibility, however, **makes them more risky for decentralized financial applications.**
 - When it comes to financial services, Ethereum uses smart contracts on the **application layer**, which could be prone to **human errors and coding mistakes**. In addition, they are simply **not built for the function of financial applications**, but rather a one-size-fits all solution. There, the code gets compiled and has to run through a virtual machine.
-- On blockchains like DeFiChain, the **execution** of the code happens **directly on the native blockchain** layer - no “on-top” application layer is needed. As a result, DeFiChain is perfectly designed for all kinds of financial applications and services.
+- On blockchains like DeFiChain, the **execution** of the code happens **directly on the native blockchain** layer - no "on-top" application layer is needed. As a result, DeFiChain is perfectly designed for all kinds of financial applications and services.
 - Performing DeFi transactions on Ethereum takes more than 3,000 distinct steps - each with its own **potential attack** surface. On DeFiChain, just a few lines of code are enough, making transactions much more robust against potential attacks, and DeFiChain’s NativeDeFi approach, more secure.
 - The main benefits of NativeDeFi include: **Consensus happens directly on the native blockchain layer**, the **transaction costs are low**, and the attack surface is low.
 
@@ -48,6 +48,10 @@ In the context of DeFi, oracles are used to provide external data to smart contr
 
 Oracles play a critical role in the DeFi ecosystem because they enable decentralized applications to operate securely and efficiently while maintaining access to the necessary external data. However, the reliability and security of oracles are also critical, as inaccurate or manipulated data can lead to financial losses for users of DeFi protocols. As a result, there are many different oracle providers that have emerged to serve the needs of the DeFi ecosystem, each with their own approaches to security and data verification.
 
+#### Protocols
+
+- Chainlink
+
 ## Products
 
 [Little to NO DeFi Gains? Find out which products and services suit you best - YouTube](https://www.youtube.com/watch?v=C2KURQ1jMQI)
@@ -56,7 +60,7 @@ Oracles play a critical role in the DeFi ecosystem because they enable decentral
 
 ## Quadratic Funding
 
-The large donors contribute funds to a matching pool, which are used to match the funds donated by the individual donors, or the “crowd”. Quadratic Funding elevates the crowd’s favorite projects, by contributing more matching funds to the grants that receive the highest number of contributions, not the highest value of contributions.
+The large donors contribute funds to a matching pool, which are used to match the funds donated by the individual donors, or the "crowd". Quadratic Funding elevates the crowd’s favorite projects, by contributing more matching funds to the grants that receive the highest number of contributions, not the highest value of contributions.
 
 For example, let’s say there are 10 donors who donate $1 each to project A, and 2 donors who donate $6 each to project B. Although project B received a higher value of contributions than project A, project B would actually receive far more matching funding, as they were supported by 10 individuals, instead of 2. Quadratic Funding makes use of a special formula to determine exactly how funding is matched, ensuring total transparency and fairness in the process.
 

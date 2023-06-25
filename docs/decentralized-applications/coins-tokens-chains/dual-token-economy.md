@@ -10,7 +10,7 @@ Typically, one of the two tokens is used as [security](https://coinmarketcap.com
 
 The **U.S. Securities and Exchange Commission aspect is the main reason why crypto projects prefer to adopt a dual-token economy model.** So far, the SEC has not clearly classified crypto assets, unlike securities, stocks, or bonds which have a clear standing in the SEC framework.
 
-However, the [Framework for “Investment Contract” Analysis of Digital Assets](https://www.sec.gov/corpfin/framework-investment-contract-analysis-digital-assets), has provided a way for blockchain projects to **register their tokens as a security and set certain conditions for them to work in compliance with the regulations**.
+However, the [Framework for "Investment Contract" Analysis of Digital Assets](https://www.sec.gov/corpfin/framework-investment-contract-analysis-digital-assets), has provided a way for blockchain projects to **register their tokens as a security and set certain conditions for them to work in compliance with the regulations**.
 
 To be considered a security, the project has to make sure that **its tokens offer real-world utility and profit to its holders and the project is completely** [**decentralized**](https://coinmarketcap.com/alexandria/glossary/decentralized). If all of these conditions are met, then the token is considered a security token by the SEC.
 

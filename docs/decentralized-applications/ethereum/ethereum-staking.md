@@ -4,20 +4,20 @@
 
 - Reduce Energy Requirements
 - Cheaper to run a node
-- PoS on Ethereum is also intended to lay the groundwork for “[sharding](https://www.coindesk.com/learn/2020/12/02/what-is-sharding/)” – a partitioning technique that allows multiple parallel chains to share data and transaction load efficiently. These shard chains, when combined with a secondary scaling product known as "[rollups](https://www.coindesk.com/learn/what-are-rollups-zk-rollups-and-optimistic-rollups-explained/)," could allow Ethereum to process upward of [100,000 transactions](https://ethereum.org/en/eth2/shard-chains/) per second. That's a huge leap compared with the [10-15 transactions per second](https://ycharts.com/indicators/ethereum_transactions_per_day) it processed under proof-of-work.
+- PoS on Ethereum is also intended to lay the groundwork for "[sharding](https://www.coindesk.com/learn/2020/12/02/what-is-sharding/)" – a partitioning technique that allows multiple parallel chains to share data and transaction load efficiently. These shard chains, when combined with a secondary scaling product known as "[rollups](https://www.coindesk.com/learn/what-are-rollups-zk-rollups-and-optimistic-rollups-explained/)," could allow Ethereum to process upward of [100,000 transactions](https://ethereum.org/en/eth2/shard-chains/) per second. That's a huge leap compared with the [10-15 transactions per second](https://ycharts.com/indicators/ethereum_transactions_per_day) it processed under proof-of-work.
 - Rollups involve batching dozens of transactions together off the main chain, creating a cryptographic proof for them (evidence of their validity) and then submitting that to the main chain.
 
 ## How does Ethereum staking work?
 
-Unlike the PoW-based blockchain, the PoS-powered blockchain bundles 32 blocks of transactions during each round of validation, lasting 6.4 minutes on average. These bundles of blocks are what’s known as “epochs.” An epoch is considered finalized – that is, the transactions contained are irreversible – when the blockchain adds two more epochs after it.
+Unlike the PoW-based blockchain, the PoS-powered blockchain bundles 32 blocks of transactions during each round of validation, lasting 6.4 minutes on average. These bundles of blocks are what’s known as "epochs." An epoch is considered finalized – that is, the transactions contained are irreversible – when the blockchain adds two more epochs after it.
 
-During the validating process (also known as the “attesting process"), stakers are randomly grouped into “committees” of 128 and assigned to a particular shard block.
+During the validating process (also known as the "attesting process"), stakers are randomly grouped into "committees" of 128 and assigned to a particular shard block.
 
-Each committee has a set time for proposing a new block and validating the transactions inside of it, called a “slot.” There are 32 slots in each epoch, meaning 32 sets of committees are required to complete the validation process in each epoch.
+Each committee has a set time for proposing a new block and validating the transactions inside of it, called a "slot." There are 32 slots in each epoch, meaning 32 sets of committees are required to complete the validation process in each epoch.
 
 Once a committee is assigned to a block, one random member of the group is granted the exclusive right to propose a new block of transactions while the remaining 127 members vote on the proposal and attest to the transactions.
 
-Once a majority of the committee has attested the new block, it’s added to the blockchain and a “cross-link” is created to confirm its insertion. Only then does the Ethereum staker who was chosen to propose the new block receive their reward.
+Once a majority of the committee has attested the new block, it’s added to the blockchain and a "cross-link" is created to confirm its insertion. Only then does the Ethereum staker who was chosen to propose the new block receive their reward.
 
 - Cross-linking is the process of reconciling individual shard states with the main chain.
 
@@ -39,7 +39,7 @@ Understanding that not all interested stakers can afford 32 ETH to participate i
 
 ## Liquid Staking
 
-Staking is a way to help secure proof-of-stake blockchain networks like Ethereum. Network participants can run a validator node by putting tokens “at stake,” which can then be “slashed” (taken away as a penalty) if the node commits any malicious actions or is unreliable. While there are many solo node operators, anyone can stake tokens through staking as a service (SaaS) provider—exposing them to the same risks and giving them the opportunity to share in rewards. However, staked tokens cannot be transacted or used as collateral to earn yield across the [DeFi](https://chain.link/education/defi) ecosystem.
+Staking is a way to help secure proof-of-stake blockchain networks like Ethereum. Network participants can run a validator node by putting tokens "at stake," which can then be "slashed" (taken away as a penalty) if the node commits any malicious actions or is unreliable. While there are many solo node operators, anyone can stake tokens through staking as a service (SaaS) provider—exposing them to the same risks and giving them the opportunity to share in rewards. However, staked tokens cannot be transacted or used as collateral to earn yield across the [DeFi](https://chain.link/education/defi) ecosystem.
 
 Liquid staking service providers solve this liquidity problem by minting a new token—representing a claim on the underlying staked asset—which can then be traded or deposited in DeFi protocols. For example, a user could deposit ETH to the Lido staking pool and receive stETH (staked ETH) tokens in return, then deposit the stETH to Aave to earn yield. Essentially, liquid staking builds upon existing staking systems by unlocking liquidity for staked tokens.
 

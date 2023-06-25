@@ -15,7 +15,7 @@ The doctrine that an action is right in so far as it promotes happiness, and tha
 
 Encourages individuals to consider all causes and actions, and then act in the way that brings about the greatest positive impact, based on their values.
 
-MacAskill finds a paper from 1972 titled ‘Famine, Affluence, and Morality’. It’s written by an Australian ethical philosopher Peter Singer and has a simple premise—“If you have money, you have an obligation to donate and help those who are less fortunate.”
+MacAskill finds a paper from 1972 titled ‘Famine, Affluence, and Morality’. It’s written by an Australian ethical philosopher Peter Singer and has a simple premise—"If you have money, you have an obligation to donate and help those who are less fortunate."
 
 Effective Altruism (EA) with a relatively simple goal—put money to the best use possible! He asks people to be more generous with their wealth. But unlike traditional charities, he wants their generosity to be effective. He wants them to adopt a rational and mathematical approach while resolving moral quandaries.
 
@@ -27,7 +27,7 @@ At its core, EA looked at 3 key things.
 2. How solvable is the problem
 3. How neglected is the cause
 
-The key problem is funding cannibalism. That $3 million in donations doesn’t appear out of a vacuum. Because people on average are limited in how much they’re willing to donate to good causes, if someone donates $100 to the ALS Association, he or she will likely donate less to other charities.”
+The key problem is funding cannibalism. That $3 million in donations doesn’t appear out of a vacuum. Because people on average are limited in how much they’re willing to donate to good causes, if someone donates $100 to the ALS Association, he or she will likely donate less to other charities."
 
 <https://en.wikipedia.org/wiki/Effective_altruism>
 

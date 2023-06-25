@@ -214,7 +214,7 @@ Cognitive neuro ergonomics
 
 Liner is a browser extension that lets you highlight anything you see online. Be it articles, images or even videos! The extension saves everything you highlight in a folder so that you can look at it later, all in one place.
 
-“You can also pinpoint time stamps of any YouTube video via it. It’s very handy and convenient and a great tool for research.” she says.
+"You can also pinpoint time stamps of any YouTube video via it. It’s very handy and convenient and a great tool for research." she says.
 
 ## Resources
 

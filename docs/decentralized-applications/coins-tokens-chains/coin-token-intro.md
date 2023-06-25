@@ -10,7 +10,7 @@ Another advantage tokens bring to the crypto world is asset tokenization. They c
 
 Tokens can enable users' interaction with the project’s platform and services. The exact set of token features is defined by the project itself.
 
-For example, the Basic Attention Token (BAT) provides access to different marketing services on the Brave web browser. Users can pay for ads with BAT tokens. The tokens are then distributed among publishers, advertisers, and ad consumers. This way, publishers and advertisers make their earnings without intermediates, while users are compensated for the “attention” they give to the ads displayed online.
+For example, the Basic Attention Token (BAT) provides access to different marketing services on the Brave web browser. Users can pay for ads with BAT tokens. The tokens are then distributed among publishers, advertisers, and ad consumers. This way, publishers and advertisers make their earnings without intermediates, while users are compensated for the "attention" they give to the ads displayed online.
 
 Some crypto tokens also embody tradable goods.
 
@@ -24,14 +24,14 @@ A security token is a digital tokenized form of a traditional security.
 
 Security token holders do not have any ownership rights to the entity which issued the tokens. Instead, they might have some other rights attached to it. The tokens are sold through a public offering called a security token offering (STO). Just like traditional securities, security tokens are regulated by bodies such as the U.S. Securities and Exchange Commission (SEC).
 
-According to the SEC, to determine if a token falls under the security token category, one can perform the “Howey Test,” which consists of a series of questions:
+According to the SEC, to determine if a token falls under the security token category, one can perform the "Howey Test," which consists of a series of questions:
 
 - Did you invest money?
 - Do you expect profit?
 - Did you invest in a common enterprise?
 - Are profits dependent on a third party’s effort?
 
-If you answer “yes” to all of these questions, that means you’re dealing with a security token.
+If you answer "yes" to all of these questions, that means you’re dealing with a security token.
 
 ### Equity tokens
 
@@ -90,9 +90,17 @@ The ERC-1155 token standard allows for creating multiple token types: fungible, 
 - The functionalities of coins and tokens often overlap
 - Simply put, a token represents what you own, while a coin denotes what you're capable of owning.
 
+[Different Coins and Tokens](decentralized-applications/coins-tokens-chains/readme.md)
+
+[Crypto coins vs tokens - Bitstamp Learn Center](https://www.bitstamp.net/learn/crypto-101/crypto-coins-vs-tokens/)
+
+[Crypto Coin vs. Token: Understanding the Difference](https://blog.liquid.com/coin-vs-token)
+
+[Crypto Coins vs. Tokens: The Difference Explained](https://zerion.io/blog/crypto-coins-vs-tokens-the-difference-explained/)
+
 ## Tokenomics
 
-The thing that I think is more interesting, personally, is that there are  _different_ fundamentals in crypto. The underlying elements that make a cryptocurrency valuable, from a token’s supply to how it’s issued to if it is designed to be inflationary or deflationary to its utility all come together to create what’s known as its tokenomics, a portmanteau of token + economics.
+The thing that I think is more interesting, personally, is that there are _different_ fundamentals in crypto. The underlying elements that make a cryptocurrency valuable, from a token’s supply to how it’s issued to if it is designed to be inflationary or deflationary to its utility all come together to create what’s known as its tokenomics, a portmanteau of token + economics.
 
 Tokenomics are key because a project that has smart and well-designed incentives to buy and hold tokens for the long haul is more likely to succeed. There are blockchains with finite amounts of tokens like Bitcoin – the supply will be capped at 21 million bitcoin. Scarcity can be one factor that creates value. By contrast, Ethereum allows a limitless amount of ether, its native token, to exist. That said, each one has mechanisms in their design to control the supply or new coins created and each has a different value proposition, or utility, that makes it unique.
 
@@ -106,13 +114,19 @@ In stock analysis, the focus is often on earnings per share; in crypto analysis,
 
 [What Is Tokenomics and Why Is It Important?](https://www.coindesk.com/learn/what-is-tokenomics-and-why-is-it-important/)
 
-[Different Coins and Tokens](decentralized-applications/coins-tokens-chains/readme.md)
+### Fair Launch Cryptocurrency
 
-[Crypto coins vs tokens - Bitstamp Learn Center](https://www.bitstamp.net/learn/crypto-101/crypto-coins-vs-tokens/)
+Despite the professed egalitarianism of cryptocurrency, new token distributions can skew in favor of private investors, the founders of the token or those who have been tipped off about a new crypto investment before launch.
 
-[Crypto Coin vs. Token: Understanding the Difference](https://blog.liquid.com/coin-vs-token)
+Check token distributions of popular coins and you may be shocked to learn that huge swathes of so-called decentralized networks are reserved for early investors or founders, leaving the general public as second-class investors.
 
-[Crypto Coins vs. Tokens: The Difference Explained](https://zerion.io/blog/crypto-coins-vs-tokens-the-difference-explained/)
+The promise of a “fair launch” remedies these inequalities. The concept refers to projects that provide everyone with an equal chance of acquiring tokens, no matter their status, meaning that no party is privileged to an investment above any other.
+
+Fair launches gained popularity among those who think the market is rigged against them, jaded by whitelists, venture capital allocations and pre-mines that skew favor to the few in the know over the general population.
+
+[What Is a 'Fair Launch' in Crypto?](https://www.coindesk.com/learn/what-is-a-fair-launch-in-crypto/)
+
+[Fair Launch Coins List | Messari](https://messari.io/screener/fair-coins-9E7A9337)
 
 ### Inflationary vs Deflationary Crypto Assets
 
@@ -127,3 +141,7 @@ Deflationary crypto assets usually have a fixed limit on the total coin supply, 
 [Inflationary vs. deflationary cryptocurrencies, Explained](https://cointelegraph.com/explained/inflationary-vs-deflationary-cryptocurrencies-explained)
 
 [Inflationary and Deflationary Cryptocurrencies: What’s the Difference?](https://www.coindesk.com/learn/inflationary-and-deflationary-cryptocurrencies-whats-the-difference/)
+
+## Links
+
+[Dual Token Economy](decentralized-applications/coins-tokens-chains/dual-token-economy.md)

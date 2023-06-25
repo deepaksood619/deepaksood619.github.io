@@ -8,6 +8,7 @@
 - [Achievements / Activities / Awards](achievements-activities-awards)
 - [Social Links](social-links)
 - [FAQs](faqs)
+- [Personality](about-me/personality.md)
 - [Ideas](ideas/readme.md)
 - [Soft Skills](../psychology/soft-skills/readme.md)
 - [Books](../book-summaries/readme.md)

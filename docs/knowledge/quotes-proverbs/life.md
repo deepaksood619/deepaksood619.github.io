@@ -1002,7 +1002,7 @@ The ability of a person to atone has always been the most remarkable of human fe
 
 Forgiveness for others becomes possible when we've held our own being with great compassion - Tara Brach
 
-All of us live in a bubble which we incorrectly perceive as “normal”
+All of us live in a bubble which we incorrectly perceive as "normal"
 
 If you don't like something, **change it**. If you can't change it, change your **attitude**. -- Maya Angelou
 
@@ -1015,3 +1015,11 @@ A belief is not dangerous until it turns absolute
 We are just a chemical scum on a medium-sized planet, orbiting an average star in an ordinary galaxy in one of many universes
 
 [The 5 core principles of life | Nobel Prize-winner Paul Nurse - YouTube](https://www.youtube.com/watch?v=5EwVBC3VsRA)
+
+**Aristotle**
+
+Think about time as divided into the past, the present and the future and then think for a while about what the present is, how thick is the present? The present is just the limit between the past and the future.
+
+And then you get the paradox.
+
+Because the past is something that does not exist, it has existed but it doesn't exist any longer. The future is something that does not exist, it will exist, but it doesn't exist. And the present is nothing - so the present seems to be a nothing dividing something non-existent from something non-existent.

@@ -33,7 +33,7 @@ Programmable Logic Controller
 
 Supervisory Control and Data Acquisition
 
-- Provides supervisory-level control over a larger-scale “system of systems” (e.g. systems that span over multiple areas of the plant rather than one local set of processes).
+- Provides supervisory-level control over a larger-scale "system of systems" (e.g. systems that span over multiple areas of the plant rather than one local set of processes).
 - Often includes HMI/SCADA systems, remote terminal units, and local operator interfaces.
 - Evolved with the Industrial Internet of Things to allow for near-real-time state reports and increased security over more standard protocols such as OPC UA.
 

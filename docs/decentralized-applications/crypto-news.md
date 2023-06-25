@@ -62,3 +62,5 @@ On May 7, the price of the then-$18-billion algorithmic stablecoin terraUSD (UST
 [SEC TARGETING Crypto: Which Projects At RISK?? 😨 - YouTube](https://www.youtube.com/watch?v=uPBR3mn6wKU)
 
 [Still Hope For Crypto?! This Will REALLY Surprise You!! 😮 - YouTube](https://www.youtube.com/watch?v=65QgI_Kzq38)
+
+[This SAYS It ALL!! Crypto Adoption Incoming!! - YouTube](https://www.youtube.com/watch?v=J6-LCwPRJWo)

@@ -26,7 +26,14 @@ Learn it, Love it, Live it
 - Getting rid of useless policies made Netflix employess more accountable
 - At talent-dense organizations, dispersed decision-making is most efficient
 
-## Accountability
+## Values
+
+- Failures should be motivated (Psychological safety for employees)
+- Obligation to dissent
+- Ownership
+- Honesty
+
+## Netflix Culture
 
 <https://jobs.netflix.com/culture>
 
@@ -105,6 +112,8 @@ Learn it, Love it, Live it
 - You demonstrate consistently strong performance so colleagues can rely upon you
 - You make your colleagues better
 - You focus on results over process
+
+## Links
 
 [THE CULTURE CODE by Daniel Coyle | Core Message](https://youtu.be/XHMGd6VR2cQ)
 

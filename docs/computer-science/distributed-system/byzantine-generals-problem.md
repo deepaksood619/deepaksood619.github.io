@@ -43,7 +43,7 @@ There are two categories of failures that are considered. One is **fail-stop** (
 
 ## Byzantine Fault Tolerance (BFT)
 
-Byzantine fault tolerance (BFT) is the property of a system that is able to resist the class of failures derived from the Byzantine Generals’ Problem. This means that a BFT system is able to continue operating even if some of the nodes fail or act maliciously. 
+Byzantine fault tolerance (BFT) is the property of a system that is able to resist the class of failures derived from the Byzantine Generals’ Problem. This means that a BFT system is able to continue operating even if some of the nodes fail or act maliciously.
 
 There is more than one possible solution to the Byzantine Generals’ Problem and, therefore, multiple ways of building a BFT system. Likewise, there are different approaches for a blockchain to achieve Byzantine fault tolerance and this leads us to the so-called consensus algorithms.
 
@@ -89,7 +89,6 @@ The pBFT consensus model works efficiently only when the number of nodes in the 
 - Hyperledger Fabric – permissioned version of pBFT
 - Tendermint – pBFT + DPoS(Delegated Proof-of-Stake)
 
-   
 #### Variations of pBFT
 
 - RBFT – Redundant BFT

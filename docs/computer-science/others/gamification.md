@@ -19,7 +19,7 @@ Two types of users -
 
 ## Octalysis Gamification Framework
 
-The Octalysis Framework is a human-focused gamification design framework that lays out the eight core drives for humans motivation developed by Yu-Kai Chou. The framework is based on the premise that systems are “function-focused”, designed to complete a task as quickly as possible, similar to a factory process assuming workers will complete their tasks in a timely manner because they are required to do so. However, human-focused design acknowledges that people, unlike machines in a system have feelings, insecurities, and reasons why they want or do not want to do certain things, and therefore, optimizes for their feelings, motivations, and engagement.
+The Octalysis Framework is a human-focused gamification design framework that lays out the eight core drives for humans motivation developed by Yu-Kai Chou. The framework is based on the premise that systems are "function-focused", designed to complete a task as quickly as possible, similar to a factory process assuming workers will complete their tasks in a timely manner because they are required to do so. However, human-focused design acknowledges that people, unlike machines in a system have feelings, insecurities, and reasons why they want or do not want to do certain things, and therefore, optimizes for their feelings, motivations, and engagement.
 
 The framework lays out the structure for analyzing the driving forces behind human motivation. It is the process of applying the core behavior drives that motivate a user to complete a task efficiently through an interactive experience. The Octalysis framework is used in healthcare, fitness, education, training, company, and product design to increase user engagement, ROI and motivation.
 

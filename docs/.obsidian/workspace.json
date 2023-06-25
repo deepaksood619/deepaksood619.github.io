@@ -8,31 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "6e136e46b528fc68",
+            "id": "d0bbbaae62774b3f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "mathematics/statistics/crash-course-statistics.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7cb5e763be4bd832",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "economics/mental-models/economics-mental-models.md",
+                "file": "economics/mental-models/macroeconomics.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -61,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "baumol-effect",
+                "query": "pirateba",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -94,7 +81,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -114,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "economics/mental-models/economics-mental-models.md",
+                "file": "economics/mental-models/macroeconomics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "economics/mental-models/economics-mental-models.md",
+                "file": "economics/mental-models/macroeconomics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "economics/mental-models/economics-mental-models.md"
+                "file": "economics/mental-models/macroeconomics.md"
               }
             }
           },
@@ -202,34 +190,36 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "978fd2faf621af33",
+  "active": "d0bbbaae62774b3f",
   "lastOpenFiles": [
-    "about-me/faqs.md",
-    "knowledge/language/grammer-vocabulary.md",
-    "mathematics/statistics/percentiles.md",
-    "computer-science/courses/microsoft-excel-google-sheets.md",
-    "devops/monitoring/metrics.md",
-    "mathematics/statistics/crash-course-statistics.md",
-    "mathematics/statistics/readme.md",
-    "office/keep/deepak-banks.md",
+    "knowledge/history/crash-course-world-history.md",
+    "office/personality/movies-serials-apps.md",
+    "devops/ides/youtube-podcasts-magazine-apps.md",
     "decentralized-applications/crypto-investing.md",
-    "decentralized-applications/crypto-exchanges.md",
+    "office/keep/manoj-papa.md",
+    "office/keep/asha-maa.md",
+    "office/keep/family-other-accounts.md",
+    "office/keep/deepak-banks.md",
+    "knowledge/quotes-proverbs/life.md",
+    "knowledge/quotes-proverbs/science.md",
+    "knowledge/quotes-proverbs/stories.md",
+    "knowledge/quotes-proverbs/tatoos-quotes.md",
+    "knowledge/quotes-proverbs/readme.md",
+    "knowledge/quotes-proverbs/tips.md",
+    "book-summaries/time-and-how-to-spend-it.md",
+    "office/personality/life-lessons-buying-guide-travelling-shopping.md",
+    "knowledge/biology/diseases-tests.md",
+    "psychology/soft-skills/disagreement-feedback.md",
     "decentralized-applications/crypto-news.md",
-    "economics/investment-banking.md",
-    "decentralized-applications/intro.md",
-    "knowledge/others/news-problems.md",
+    "decentralized-applications/coins-tokens-chains/dual-token-economy.md",
+    "decentralized-applications/coins-tokens-chains/coin-token-intro.md",
     "decentralized-applications/coins-tokens-chains/readme.md",
     "decentralized-applications/readme.md",
-    "office/cakedefi/todo.md",
-    "decentralized-applications/liquidity-mining.md",
-    "economics/mental-models/economics-mental-models.md",
-    "economics/accounting-for-finance/6a-ratio-analysis.md",
-    "decentralized-applications/ethereum/ethereum-staking.md",
-    "computer-science/distributed-system/byzantine-generals-problem.md",
-    "computer-science/distributed-system/vocabulary.md",
-    "computer-science/distributed-system/readme.md",
-    "management/business/business-case-studies.md",
-    "languages/sql/dql-data-query-language/window-functions.md",
+    "decentralized-applications/coins-tokens-chains/dtokens.md",
+    "about-me/faqs.md",
+    "about-me/ideas/thoughts-future-ideas-vision-prediction.md",
+    "media/Personality-Deepak-image1.jpg",
+    "media/Personality-Deepak-&-Neha-Personality-image1.jpg",
     "media/Pasted image 20230623092653.png",
     "office.zip",
     "media/Screenshot 2023-05-30 at 11.59.41 PM.png",
@@ -239,8 +229,6 @@
     "media/Screenshot 2023-05-30 at 11.58.29 PM.png",
     "media/Screenshot 2023-05-30 at 11.57.36 PM.png",
     "media/Screenshot 2023-05-30 at 11.57.00 PM.png",
-    "media/Pasted image 20230529234112.png",
-    "media/image.png",
     "office/stashfin-credentials",
     "management/people-management",
     "decentralized-applications/coins-tokens-chains",

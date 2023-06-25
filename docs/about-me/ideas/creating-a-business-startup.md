@@ -101,6 +101,13 @@ Startups are built by generalists and scaled by specialists.
 
 <https://youtu.be/Ndp_NnztS8U>
 
+## Startup / Company Culture
+
+- Open office, no different rooms for managers/boss
+- No cubicles
+- Same washrooms/eating areas for managers/bosses/employees
+- Engage with employees
+
 ## Startup Journey Pyramid
 
 ![image](../../media/Ideas-Creating-a-Business-Startup-image1.jpg)

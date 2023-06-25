@@ -40,6 +40,6 @@ Public mqtt brokers for testing - <https://github.com/mqtt/mqtt.github.io/wiki/p
 easy to use and focused on analyzing MQTT subscriptions. There is also a CLI-based daemon application available, which does not need a graphic interface. |
 | **MQTT Inspector** | iOS | MQTT Inspector is an iOS app that allows detailed analysis of MQTT traffic. Use of the publish/subscribe message types, and complex filterings of received messages, are available. |
 | **HiveMQ Websocket Client** | Web browser | The HiveMQ websocket client runs on any modern browser and connects to MQTT brokers via websockets. Very useful if it’s not possible to install a client application on the machine in use, as well as for quick MQTT tests. |
-| **MyMQTT** | Android | MyMQTT is an MQTT test application for Android devices. It allows the creation of templates for publishing, which makes it very useful for testing MQTT “on-the-go.” |
+| **MyMQTT** | Android | MyMQTT is an MQTT test application for Android devices. It allows the creation of templates for publishing, which makes it very useful for testing MQTT "on-the-go." |
 | **MQTTLens** | Google Chrome | MQTTLens is a Chrome Webapp that can connect to MQTT brokers via TCP and over websockets. This app is easy to grasp and equipped with all the basic MQTT features needed for quick tests. |
 | **mosquitto_pub / mosquitto_sub** | Linux, Windows, MacOSX | mosquitto_pub and mosquitto_sub are the best options for publish/subscribe on servers without GUI. It is also great for MQTT task automation. |

@@ -82,6 +82,8 @@ Merlin Chrome Extension
 
 [Self-healing code is the future of software development - Stack Overflow Blog](https://stackoverflow.blog/2023/06/07/self-healing-code-is-the-future-of-software-development/)
 
+[**H2O.ai** | The fastest, most accurate AI Cloud Platform](https://h2o.ai/)
+
 #### Prompts
 
 [https://snackprompt.com](https://snackprompt.com/)

@@ -41,7 +41,7 @@ dis.dis(myfunc)
         2 LOAD_FAST                0 (alist)
         4 CALL_FUNCTION            1
         6 RETURN_VALUE
-(The “2” is a line number).
+(The "2" is a line number).
 
 myfunc.__code__ #here is the compiled bytecode stored
 myfunc.__code__.co_code

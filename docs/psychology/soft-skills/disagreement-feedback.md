@@ -29,9 +29,7 @@ It's also important to actively listen to the other person's perspective, even i
 
 Approaching a feedback situation with an open mind and willingness to collaborate can lead to unexpected positive outcomes – without the fear of damaging the relationship.
 
-### Here are 5 Steps to Disagree with Feedback
-
-There are many different approaches to responding to feedback when you don't agree with it. Here's a 5 step approach that might be helpful.
+### 5 Steps to Disagree with Feedback
 
 #### Step 1: Gracious Acknowledgment
 
@@ -43,11 +41,11 @@ Example: _"Thanks for taking the time to share your feedback on my presentation.
 
 Before you go all-in and disagree with the feedback you received, take a moment to clarify things. Make sure you fully understand what the other person is saying by asking questions and getting more insight into their perspective. This helps you ensure that you're addressing the right issues and will allow you to come up with a better response.
 
-Example: _“Could you please clarify what you meant by 'lacking in substance'? I want to make sure I understand your perspective",_ and _"Let me make sure I've understood you..._ [then you paraphrase what they've said]_"_
+Example: _"Could you please clarify what you meant by 'lacking in substance'? I want to make sure I understand your perspective",_ and _"Let me make sure I've understood you..._ [then you paraphrase what they've said]_"_
 
 #### Step 3: Sharing Your Side
 
-When it's time to share your disagreement, don't hold back – but do it in a way that's clear and to the point. Avoid becoming defensive or confrontational (e.g. exclaiming _"you're wrong"_ won't get you very far), so take a deep breath and calm your state. Provide specific examples to support your perspective and explain why you feel differently. A great tip is to avoid saying the word _"disagree"_ and present your perspective a different way, e.g. _“I see things a different way..."_ or _"From my perspective…”_.
+When it's time to share your disagreement, don't hold back – but do it in a way that's clear and to the point. Avoid becoming defensive or confrontational (e.g. exclaiming _"you're wrong"_ won't get you very far), so take a deep breath and calm your state. Provide specific examples to support your perspective and explain why you feel differently. A great tip is to avoid saying the word _"disagree"_ and present your perspective a different way, e.g. _"I see things a different way..."_ or _"From my perspective…"_.
 
 Example: _"I understand that you feel the presentation was lacking in substance. I see things a different way. I feel that the data and analysis I presented were both relevant and valuable. For example, the data showed a clear trend that supports our marketing strategy."_
 
@@ -57,7 +55,7 @@ Example: _"I understand that you feel the presentation was lacking in substance.
 
 Instead of simply disagreeing and leaving it at that, try to find a solution or compromise that addresses both your perspective and the feedback you received. This shows that you're willing to work together to find a resolution.
 
-Example: _“I understand that you might have expected more detail in the presentation. For the next one, I’ll make sure I include more specific examples to support each point. I’d be happy to share an outline with you beforehand for review if that helps too. Would that better meet your expectations?"_
+Example: _"I understand that you might have expected more detail in the presentation. For the next one, I’ll make sure I include more specific examples to support each point. I’d be happy to share an outline with you beforehand for review if that helps too. Would that better meet your expectations?"_
 
 #### Step 5: Grateful Conclusion
 
@@ -67,7 +65,7 @@ Example: _"Thanks again for your feedback and for taking the time to raise it. I
 
 ***NOTE:** If the feedback is unexpected or difficult to hear, you can ask for time to process and reflect before responding (this would come before Step 3). This gives you space to process your emotions and formulate a thoughtful response. Example: "_Thanks for sharing your feedback – I really appreciate your openness. Before responding, I'd like to take some time to process and reflect on what you've shared. Could I take some time to think about this and got back to you in a few days with my thoughts?"_
 
-### What about Unsolicited Advice?
+### Unsolicited Advice?
 
 How would you respond if someone gives you advice that you didn't ask for and you don't agree with? Here are four examples of respectful yet firm responses you could use:
 
@@ -79,3 +77,26 @@ How would you respond if someone gives you advice that you didn't ask for and yo
 (Quick note: It's important to note that every situation is unique, so exercise your own judgment and wisdom when responding to unsolicited advice).
 
 Remember, feedback is not a one-size-fits-all approach. Trust your own judgement and use feedback as a tool to enhance your growth and development.
+
+## Why You Believe The Things You Do
+
+I remember reading an article years ago about a father in Yemen who lost a son to starvation, only to have another child fall dangerously ill. Desperate, he turned to tribal elders who recommended a folk remedy: Shove a burning stick through the sick child’s chest to drain the illness. The father agreed.
+
+_When you have no money, and your son is sick, you’ll believe anything._
+
+Here’s a universal reality: What you believe to be true is influenced by how much you want it to be true. The more something helps you deal with uncertainty, the lower the bar is for you to believe it’s true.
+
+If you turn on the television, you find the mothers of the most obvious criminals that man could ever diagnose, and they all think their sons are innocent. The reality is too painful to bear, so you just distort it until it’s bearable.
+
+We have a belief-generating system: What you think is true is heavily based on what you’ve experienced, and you remember the parts of your experiences that make good stories, confirm stereotypes, and connect dots between other experiences.
+
+**It is far easier to fool yourself into believing a falsehood than admit a mistake. Changing your mind is rarer than it should be, leading us to cling to false beliefs.**
+
+You can agree with every word written there and still struggle to change your mind – or take seriously those who do – for two reasons.
+
+1. when you change your mind you can feel like all the hard-fought effort you put into establishing your previous beliefs was wasted. Even a little pain from that reality can be enough to persuade you to stick to the original belief.
+2. when you change your mind, moving from one belief to another, it can be hard to take the new belief seriously – changing beliefs offers proof that the new belief may be short-lived, especially in the eyes of others.
+
+A lot of times we’re not interested in truth – we’re interested in the elimination of uncertainty, and that fact alone causes us to believe things that have little relation to reality.
+
+[Why You Believe The Things You Do · Collab Fund](https://collabfund.com/blog/why-you-believe-the-things-you-do/)

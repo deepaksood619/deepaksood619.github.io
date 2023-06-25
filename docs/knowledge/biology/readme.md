@@ -11,6 +11,7 @@
 - [Nerves System](nerves-system)
 - [Diseases / Tests](diseases-tests)
 - [MBBS / Medicine / Medical / Health](mbbs-medicine-medical-health)
+- [Alternative Medicine](knowledge/biology/alternative-medicine.md)
 - [Pregnancy Diet](knowledge/biology/pregnancy-baby.md)
 - [Others](knowledge/biology/others.md)
 

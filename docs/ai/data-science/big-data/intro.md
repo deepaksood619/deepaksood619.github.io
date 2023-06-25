@@ -133,7 +133,7 @@ The **Yahoo! Cloud Serving Benchmark** (YCSB) is an open-source specification an
 - the era of Big Data is over. It had a good run, but now we can stop worrying about data size and focus on how we’re going to use it to make better decisions
 - MOST PEOPLE DON’T HAVE THAT MUCH DATA
 - THE STORAGE BIAS IN SEPARATION OF STORAGE AND COMPUTE.
-- Instead of “shared nothing” architectures which are hard to manage in real world conditions, shared disk architectures let you grow your storage and your compute independently. The rise of scalable and reasonably fast object storage like S3 and GCS meant that you could relax a lot of the constraints on how you built a database.
+- Instead of "shared nothing" architectures which are hard to manage in real world conditions, shared disk architectures let you grow your storage and your compute independently. The rise of scalable and reasonably fast object storage like S3 and GCS meant that you could relax a lot of the constraints on how you built a database.
 - WORKLOAD SIZES ARE SMALLER THAN OVERALL DATA SIZES
 
 [Zero ELT could be the death of the Modern Data Stack | by Hugo Lu | May, 2023 | Medium](https://medium.com/@hugolu87/zero-elt-could-be-the-death-of-the-modern-data-stack-cfdd56c9246d)

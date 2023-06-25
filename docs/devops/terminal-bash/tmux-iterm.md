@@ -22,7 +22,7 @@ tmux kill-session
 
 # Panes
 Prefix +% – Divide it vertically
-Prefix + “ – Divide it horizontally
+Prefix + " – Divide it horizontally
 Prefix + x – Close pane
 Prefix + spacebar – Change the layout of the current panes
 Prefix + Left/Right - For switching between panes

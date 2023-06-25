@@ -85,6 +85,8 @@ This provides diversification in the rules. When an index house or fund house pr
 
 [Balanced Advantage vs Aggressive Hybrid Funds: When to use what](https://www.youtube.com/watch?v=1BtMJ5LigPU)
 
+[Quant Small Cap Fund: Over 300% return in 3 years | Should You Invest In Quant Small Cap Fund? - YouTube](https://www.youtube.com/watch?v=7bxD-gVp340)
+
 Commodity mutual funds
 
 ## Arbitrage Mutual Funds
@@ -205,7 +207,7 @@ Another big reason most actively managed funds underperform index funds is their
 ![image](../../media/Mutual-Funds-image6.jpg)
 
 ![nifty-50-companies](../../media/Screenshot%202023-05-28%20at%209.57.42%20AM.png)
-28-05-2023
+
 <https://freefincal.com/build-equity-mutual-fund-portfolio>
 
 ## Should I switch to Index Funds?
@@ -256,15 +258,17 @@ In the multicap category, the allocation decision is left to the fund manager wh
 
 [True cost of Smallcase Investing EXPOSED | Ankur Warikoo](https://www.youtube.com/watch?v=RwKEqGOpqQs)
 
-1. Straight Flush: [https://windmillcapital.smallcase.com...](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbGlEUWlBc0luWFhnUGRoeUppT284MFVfb2c0QXxBQ3Jtc0ttbHRBYndVRUlwY2dLc3A0WWtha1F5amJSbVZ2MzN2MGRSaGpRWll2QkRxZldrMVJBNFV2ajVnOVhlLWhtTnZnRkU3RjYtU21wTllFMnI4UG9KaTg0dld0R1hUZWdhT1FXZnFEVjlZcHpVNnFfYmRYMA&q=https%3A%2F%2Fwindmillcapital.smallcase.com%2Fsmallcase%2FSCMO_0007%3FrmId%3D612cd12368f2b17a19fa706c%26distributor%3Dscinfluencer%26showSubscription%3Dfalse)
-2. Value and Momentum: [https://windmillcapital.smallcase.com...](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbVY0M2RzQVA5bEFiQWZBV0l1TmRIV3h4ZlBkd3xBQ3Jtc0tscXdGZ3ltb2ZLNjVYYXBCVEd3WS1qYXNuWGk0V2lyeDV0LWJEMHF3WkxybGhwSXEtckh4LTlaR2NoZndfQXlJdGxhMkZSNXNweENMaWM5WjI3ek5ib2NKZTVCeHNONVdnYUxFbnpKaDhTZEs3SWhZNA&q=https%3A%2F%2Fwindmillcapital.smallcase.com%2Fsmallcase%2FSCMO_0010%3FrmId%3D612cd12368f2b17a19fa706c%26distributor%3Dscinfluencer%26showSubscription%3Dfalse)
-3. Brand Value: [https://windmillcapital.smallcase.com...](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbk5YMGxuM01hcFBrNnFaU0hlb1lJcGU5Tjlld3xBQ3Jtc0tuUHVBRFEyeUJvS21pWG52cFNnalZpazNXek51T3RSMC1jOWJHVVpkSGZrb3J5dk9zUVJFNWxXbnpMSzk5ZWF2blB5YkhmVlhWQlRhRlZtSU1NZklyVkt5bDFRaW5oNG9ybVRYWXdDUk11VTFiWWc5aw&q=https%3A%2F%2Fwindmillcapital.smallcase.com%2Fsmallcase%2FSCNM_0007%3FrmId%3D612cd12368f2b17a19fa706c%26distributor%3Dscinfluencer%26showSubscription%3Dfalse)
+### Smallcases
+
+1. Windmill Capital - Straight Flush
+2. Windmill Capital - Value and Momentum
+3. Windmill Capital - Brand Value
 4. Low risk smart beta: <https://www.smallcase.com/smallcase/low-risk-smart-beta-SCSB_0003>
-5. Smallcase Weekend Investing - Mi_NNF10 - [https://link.smallcase.com/BtqsTL4VPgb](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbDJkLVJxUVI4TDVFR0IyUng4VVR3b2h1TXBWZ3xBQ3Jtc0trdGt6NWw5MGs4ZFppTVNDeGtRQmlodE1GQVkzSkxNRnJoMVpUTlowdkhWOXktUWJWdWxBLU44dUY5Y0VjSE1LdVc5UUlHNWRIVE1mNUk3TEM4SGdsemY5M3FueTUzWkQ5VndXU1RRNmJuQVJOOF9CRQ&q=https%3A%2F%2Flink.smallcase.com%2FBtqsTL4VPgb)
-6. Smallcase Capitalmind Momentum - [https://link.smallcase.com/e/U0oH9UOgocb](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqazBvLURyODB3Y0FJek9sa2t0UXBQYlpZWVhsZ3xBQ3Jtc0trcEJMakZzNDVlOThQMkpfRHVPNUVRYVpNZFdrUnp6N09yblRjY3p0RjVELWdfOXoxNnFaVWlSVWZ4cTJtcHBRa24zUG1MbGZNdGVHMDIzelZDNkg4N3Q5RlNyV2FXOG4zU091RTBaRTlocm5SaVlCdw&q=https%3A%2F%2Flink.smallcase.com%2Fe%2FU0oH9UOgocb)
-7. Dividend Aristocrat - <https://www.smallcase.com/smallcase/dividend-aristocrats-SCMO_0014>
-8. Dividend stars - <https://www.smallcase.com/smallcase/dividend-stars-SCMO_0013>
-9. SmartNifty index - <https://www.smallcase.com/smallcase/best-nifty-(bluechip)-companies-%22hqrp-philosophy%22-GPRET_0002>
+5. Weekend Investing - Smallcase Weekend Investing - Mi_NNF10
+6. Smallcase Capitalmind Momentum
+7. Dividend Aristocrat
+8. Dividend stars
+9. SmartNifty index
 
 1. Gulaq - <https://www.gulaq.com>
 

@@ -49,7 +49,7 @@ Bottom line, if the delta tables are backed by a version enabled S3 Bucket with 
 
 Two of the biggest time sinks in an Apache Spark query are the time spent reading data from cloud storage and the need to read all underlying files. With [data skipping](https://docs.databricks.com/delta/optimizations/file-mgmt.html#data-skipping) on Delta Lake, queries can selectively read only the Delta files containing relevant data, saving significant time. Data skipping can help with static file pruning, dynamic file pruning, static partition pruning and dynamic partition pruning.
 
-One of the first things to consider when setting up data skipping is the ideal data file size - too small and you will have too many files (the well-known “small-file problem”); too large and you won’t be able to skip enough data.
+One of the first things to consider when setting up data skipping is the ideal data file size - too small and you will have too many files (the well-known "small-file problem"); too large and you won’t be able to skip enough data.
 
 A good file size range is 32-128MB (`1024*1024*32 = 33554432` for 32MB of course). Again, the idea is that if the file size is too big, the dynamic file pruning will skip to the right file or files, but they will be so large it will still have a lot of work to do. By [creating smaller files](https://docs.databricks.com/delta/optimizations/file-mgmt.html#id4), you can benefit from file pruning and minimize the I/O retrieving the data you need to join.
 

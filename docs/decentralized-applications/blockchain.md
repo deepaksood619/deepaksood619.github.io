@@ -115,6 +115,20 @@ Ethereum uses an account-based approach with account balances, so there are no U
 
 [What is Unspent Transaction Output (UTXO)? - GeeksforGeeks](https://www.geeksforgeeks.org/what-is-unspent-transaction-output-utxo/)
 
+## Privacy
+
+All Bitcoin transactions are public, traceable, and permanently stored in the Bitcoin network. Anyone can see the balance and all transactions of any address. Since users usually have to reveal their identity in order to receive services or goods, Bitcoin addresses cannot remain fully anonymous.
+
+For these reasons, Bitcoin addresses should only be used once and users must be careful not to disclose their addresses. People who send you money cannot see what other Bitcoin addresses you own and what you do with them.
+
+[Protect your privacy - Bitcoin](https://bitcoin.org/en/protect-your-privacy)
+
+[Top 10 Security and Privacy Tips for Cryptocurrency Holders](https://www.analyticsinsight.net/top-10-security-and-privacy-tips-for-cryptocurrency-holders/)
+
+Layering - Tumblr / Mixers - [6 BEST Bitcoin Mixers & Tumblers (2023 List)](https://www.guru99.com/best-bitcoin-mixers-tumblers.html)
+
+[Protect bitcoin privacy](https://bitcoinmagazine.com/culture/how-i-protect-my-bitcoin-privacy)
+
 ## Links
 
 [Blockchain 102 and The Dark Side of Blockchain](https://www.youtube.com/watch?v=-so3AtnToek)

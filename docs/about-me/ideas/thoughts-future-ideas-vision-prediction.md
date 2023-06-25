@@ -1,7 +1,7 @@
 # Thoughts / Future / Ideas / Vision / Prediction
 
 1. Over time people will reduce reading books (Books will die)
-2. Diversity among humans will decrease, and everything will become standardize
+2. Diversity among humans will decrease, and everything will become standardized
 
 ## Thoughts
 

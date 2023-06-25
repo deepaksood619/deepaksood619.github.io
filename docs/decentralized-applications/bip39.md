@@ -30,9 +30,9 @@ The words in your mnemonic phrase aren't just any random words. They are pulled 
 
 In this list, the first 4 letters are **unique** to each word.
 
-To clarify “unique”, we mean literally the first 4 letters (**not** the first 4 different letters). For example the word “apple”, “appl” does not come up anywhere else in the [BIP39 wordlist](https://www.blockplate.com/pages/bip-39-wordlist "Bip39 wordlist").
+To clarify "unique", we mean literally the first 4 letters (**not** the first 4 different letters). For example the word "apple", "appl" does not come up anywhere else in the [BIP39 wordlist](https://www.blockplate.com/pages/bip-39-wordlist "Bip39 wordlist").
 
-For words that only have 3 letters, there is no 4th letter. For example with the word “add”, there are no more letters afterwards and thus must be the word "add". The word “addict” is in the [BIP39 wordlist](https://www.blockplate.com/pages/bip-39-wordlist "Bip39 wordlist") but you would have used “addi” for “addict”.
+For words that only have 3 letters, there is no 4th letter. For example with the word "add", there are no more letters afterwards and thus must be the word "add". The word "addict" is in the [BIP39 wordlist](https://www.blockplate.com/pages/bip-39-wordlist "Bip39 wordlist") but you would have used "addi" for "addict".
 
 In other words, there are **no two words** in this list with the same first 4 characters.
 
@@ -50,7 +50,7 @@ Well actually, it's not that simple (but it should be!). Let's go into backgroun
 
 Unfortunately, a wallet that supports BIP39 mnemonic phrases does not mean it can recover your coins. It is only one part of the requirement.
 
-BIP39 is like the ability to “read” and understand the seed phrase. But, your wallet also needs to understand how to “find” your coins using that 12-24 word phrase and “know” the coin your trying to find.
+BIP39 is like the ability to "read" and understand the seed phrase. But, your wallet also needs to understand how to "find" your coins using that 12-24 word phrase and "know" the coin your trying to find.
 
 You must know about a compatible wallet when importing an existing seed phrase:
 
@@ -62,7 +62,7 @@ To understand what we mean by this, let’s first dive into what a "wallet" actu
 
 ### Hierarchical Deterministic Wallets
 
-Your wallet is essentially a whole bunch of numbers (that can “store” coins) linked together starting from a single random number.
+Your wallet is essentially a whole bunch of numbers (that can "store" coins) linked together starting from a single random number.
 
 That random number can be transformed (with math) into another number. That number can be transformed into multiple other numbers (and so on and so forth)
 

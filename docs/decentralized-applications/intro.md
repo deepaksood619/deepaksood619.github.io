@@ -81,3 +81,5 @@ In summary, **Bitcoin is a cryptocurrency built on a blockchain, while Ethereum 
 - Infrastructure layer
 - Blockchain layer
 - External layer
+
+The fundamental value proposition for blockchains. - [**TheValueProp**](https://thevalueprop.io/)

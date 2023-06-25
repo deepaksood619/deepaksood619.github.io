@@ -132,3 +132,11 @@ The **impossible trinity** (also known as **the impossible [trilemma](https://en
 [The Big Economic Problem of Shrinking Cities | Economics Explained - YouTube](https://www.youtube.com/watch?v=qJbIlaqTMT0)
 
 [The Next Global Superpower Isn't Who You Think | Ian Bremmer | TED - YouTube](https://www.youtube.com/watch?v=uiUPD-z9DTg)
+
+[AI Winners, Losers and Wannabes: Valuing AI's Boost to NVIDIA's Value! - YouTube](https://www.youtube.com/watch?v=2N0IDShsTyc)
+
+[Why Is Europe Always Lagging Behind The US? | Economics Explained - YouTube](https://www.youtube.com/watch?v=tsahMxXdW30)
+
+[How Corruption Led to Lebanon's Brutal Collapse - YouTube](https://www.youtube.com/watch?v=fvVeslmt1-E)
+
+[Finland Redefines Economic Success | Economics Explained - YouTube](https://www.youtube.com/watch?v=hl-woY7mQVg)

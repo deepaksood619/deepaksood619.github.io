@@ -200,7 +200,56 @@ The [common cold](https://www.healthline.com/health/cold-flu/cold) is caused by 
 
 There’s not much you can do to treat a cold except wait it out and use OTC medications to help relieve your symptoms.
 
-### Aphasia
+### Symptoms
+
+Symptoms of a cold usually peak within 2 to 3 days and can include:
+
+- Sneezing
+- Stuffy nose
+- Runny nose
+- Sore throat
+- Coughing
+- Mucus dripping down your throat (post-nasal drip)
+- Watery eyes
+- Fever (although most people with colds do not have fever)
+
+When viruses that cause colds first infect the nose and sinuses, the nose makes clear mucus. This helps wash the viruses from the nose and sinuses. After 2 or 3 days, mucus may change to a white, yellow, or green color. This is normal and does not mean you need an antibiotic.
+
+Some symptoms, especially runny or stuffy nose and cough, can last for up to 10 to 14 days. Those symptoms should improve over time.
+
+### When to Seek Medical Care
+
+- Trouble breathing or fast breathing
+- Dehydration
+- Fever that lasts longer than 4 days
+- Symptoms that last more than 10 days without improvement
+- Symptoms, such as fever or cough, that improve but then return or worsen
+- Worsening of chronic medical conditions
+
+Colds can have similar symptoms to [flu](https://www.cdc.gov/flu/about/keyfacts.htm). It can be difficult (or even impossible) to tell the difference between them based on symptoms alone.
+
+### How to Feel Better
+
+Below are some ways you can feel better while your body fights off a cold:
+
+- Get plenty of rest.
+- Drink plenty of fluids.
+- Use a clean humidifier or cool mist vaporizer.
+- Use saline nasal spray or drops.
+  - For young children, use a rubber suction bulb to clear mucus.
+- Breathe in steam from a bowl of hot water or shower.
+- Suck on lozenges. Do not give lozenges to children younger than 4 years of age.
+- Use honey to relieve cough for adults and children at least 1 year of age or older.
+
+[Common Cold | Antibiotic Use | CDC](https://www.cdc.gov/antibiotic-use/colds.html)
+
+### Flu vs Common Cold
+
+Influenza (flu) and the common cold are both contagious respiratory illnesses, but they are caused by different viruses. Flu is caused by influenza viruses only, whereas the common cold can be caused by a number of different viruses, including rhinoviruses, parainfluenza, and [seasonal coronaviruses](https://www.cdc.gov/coronavirus/general-information.html). Seasonal coronaviruses should not be confused with SARS-CoV-2, the virus that causes [COVID-19](https://www.cdc.gov/coronavirus/2019-ncov/index.html). Because flu and the common cold have similar symptoms, it can be difficult to tell the difference between them based on symptoms alone. In general, flu is worse than the common cold, and symptoms are typically more intense and begin more abruptly. Colds are usually milder than flu. People with colds are more likely to have a runny or stuffy nose than people who have flu. Colds generally do not result in serious health problems, such as pneumonia, bacterial infections, or hospitalizations. Flu can have serious [associated complications](https://www.cdc.gov/flu/symptoms/symptoms.htm).
+
+[Cold Versus Flu | CDC](https://www.cdc.gov/flu/symptoms/coldflu.htm)
+
+## Aphasia
 
 Aphasia is an inability to comprehend or formulate language because of damage to specific [brain](https://en.m.wikipedia.org/wiki/Brain "Brain") regions.
 

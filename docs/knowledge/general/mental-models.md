@@ -457,27 +457,29 @@ But intuitions can lead to mistakes.
 
 [What Investors can Learn from other Disciplines | Biology, Astrophysics, Statistics, etc | ET Money](https://www.youtube.com/watch?v=2d4tYdhE8mY)
 
-## EVOLUTION - MULLER'S RATCHET
+## Evolution - Muller's Ratchet
 
 What the theory says is that the evolution of any species is severely hampered in the absence of variety. So for instance, if the same genetics of the parent is exactly passed on, to the offspring which is then passed to their offspring then there is no genetic recombination here and this can lead to dangerous mutations ultimately leading to extinction. When we apply this to modern day commerce the Muller's ratchet is exactly what happens in closed societies and large corporations. There is a resistance to change, there are no new ideas, bad habits tend to stick, there is lethargy which eventually brings about the business's downfall.
 
-## ASTROPHYSICS - BENFORD'S LAW OF CONTROVERSY
+[Dawkins re-examined: Dawkins' legacy - YouTube](https://www.youtube.com/watch?v=uLC0akD1WOE)
+
+## Astrophysics - Benford's Law of Controversy
 
 Benford's law of controversy is not really a law but it's more of an adage that says - "Passion is inversely proportional to the amount of real information available". So there are two ways to look at this. Firstly, the theory says that the fewer facts one knows, the more interesting the topic becomes. And secondly, when one is given the opportunity to fill information gaps with rumors, theories and imagination people tend to cling onto what they want to be true which more-often-than-not is something they are passionate about.
 
 If we have data, let's look at data. If all we have are opinions, let's go with mine
 
-## BIOLOGY - COPE'S RULE
+## Biology - Cope's Rule
 
 Cope's Rule postulates that species often evolve to get bigger bodies over time. And this happens for the simple reason that there are many competitive advantages to being big. But size also has its drawbacks in the form of requiring more food per unit of body mass, being unable to hide, having a slow reproductive process etc. which can often be amongst the primary causes of their extinction. In other words the same force that pushes you to become big can also lead to you dying or going extinct.
 
 When we connect this with investing, I'm sure we can visualize a similar life cycle for most companies and industries. Similarly, large businesses get favourable terms, the advantage of economies of scale and a strong brand name
 
-## STATISTICS : STATIONARITY
+## Statistics - Stationarity
 
 Plainly speaking, "stationarity" says that the past is a statistical guide to the future which is another way of saying that the big forces that impact a system don't change over time. For example - if you want to know how many people are going to die next year, then an examination of the last 100 years of actuarial tables should do the trick. Now from an investing standpoint, this concept of stationarity is the bedrock principle for quant based investment managers. I mean, at the core of every quant-based model is the assumption that there are patterns in the stock markets that have prevailed in the past and those patterns will also prevail in the future and this steadiness can be used to make money in the financial markets. However, as wonderful and scientific stationarity might seem it has a tendency to work, right up until the moment it doesn't. It's a bit like stationarity meeting a black swan event like what we saw with the Covid19 pandemic, the war in Ukraine or China pulling the plug on its Internet companies etc. which can come as major unfactored surprises. Infact, Scott Sagan - a professor at Stanford University said it best when he said "Things that have never happened before happen all the time".
 
-## AGRONOMY - LIEBIG'S LAW OF THE MINIMUM
+## Agronomy - Liebig's Law of the Minimum
 
 Agronomy is nothing but the study of agriculture and Liebig's law of the minimum says that a plant's growth is limited not by its total but by it's most scarcest nutrient. For example if you were to give a plant everything except nitrogen or water then the plant is going nowhere. Likewise, if the soil has a mix of different nutrients, Liebig's law says that the crop yield will be only as good as the availability of the least abundant nutrient in the soil. This concept is highly relatable to business and investing frameworks where one bad bank or one broken supply chain can ruin an entire system's trajectory.
 

@@ -9,13 +9,9 @@
 
 ## Autophagy
 
-Autophagy(orautophagocytosis) (from the[Ancient Greek](https://en.wikipedia.org/wiki/Ancient_Greek)αὐτόφαγοςautóphagos, meaning "self-devouring"andκύτοςkýtos, meaning "hollow") is the natural, regulated mechanism of the cell that disassembles unnecessary or dysfunctional components.It allows the orderly degradation and recycling of cellular components
+Autophagy (orautophagocytosis) (from the[Ancient Greek](https://en.wikipedia.org/wiki/Ancient_Greek)αὐτόφαγοςautóphagos, meaning "self-devouring"andκύτοςkýtos, meaning "hollow") is the natural, regulated mechanism of the cell that disassembles unnecessary or dysfunctional components.It allows the orderly degradation and recycling of cellular components
 
 <https://en.wikipedia.org/wiki/Autophagy>
-
-## Homeopathy
-
-Homeopathy is a system of medicine that treats the individual with medicines that stimulate the body's self-healing mechanisms to restore its natural equilibrium
 
 ## Angiogenesis
 

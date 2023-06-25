@@ -17,15 +17,15 @@ To determine where an individual's salary lies in comparison to all other salari
 Here's a step-by-step guide on how to use percentile rank analysis:
 
 1. Collect the salary data: Gather a comprehensive dataset containing the salaries of all individuals you want to compare against. Ensure that the data is representative and covers a wide range of salaries.
-    
+
 2. Sort the data: Arrange the salary data in ascending order from lowest to highest. This step is crucial for percentile calculations.
-    
+
 3. Calculate the percentile rank: Determine the percentile rank of the individual's salary using the following formula:
-    
+
     `Percentile rank = (Number of salaries below the individual's salary / Total number of salaries) x 100`
-    
+
     For example, if there are 100 salaries in the dataset and the individual's salary is greater than 75 of them, the percentile rank would be (75 / 100) x 100 = 75%.
-    
+
 4. Interpret the percentile rank: The percentile rank indicates the percentage of salaries that are equal to or below the individual's salary. For instance, if the individual's percentile rank is 75%, it means that their salary is higher than approximately 75% of the salaries in the dataset.
 
 By using percentile rank analysis, you can assess where an individual's salary stands relative to the entire dataset, providing a context of their salary position among their peers.

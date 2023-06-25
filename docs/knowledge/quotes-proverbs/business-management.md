@@ -442,7 +442,7 @@ Tomorrow doesn't come randomly and a large part of it can be predicted today
 
 Throw money into the sea if you must, but count it first.
 
-Chinese proverb that goes “The person who says it cannot be done, should not interrupt the person doing it.
+Chinese proverb that goes "The person who says it cannot be done, should not interrupt the person doing it.
 
 A great founder is one who creates a company and then works hard to make the company survive without them.
 

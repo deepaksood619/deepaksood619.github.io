@@ -3,6 +3,7 @@
 ## Links
 
 - [coin-token-intro](decentralized-applications/coins-tokens-chains/coin-token-intro.md)
+- [Dual Token Economy](decentralized-applications/coins-tokens-chains/dual-token-economy.md)
 - [Wallets](decentralized-applications/coins-tokens-chains/wallets.md)
 - [bitcoin](decentralized-applications/coins-tokens-chains/bitcoin.md)
 - [Ordinals](decentralized-applications/coins-tokens-chains/ordinals.md)
@@ -59,7 +60,6 @@
 - Shiba Inu
 - Lido Staked Ether ([Lido Staked ETH | CoinMarketCap](https://coinmarketcap.com/currencies/steth/))
 - FTX Token
-- Chainlink
 - Algorithmic Stablecoins - Luna / Terra
 
 Market Capitalization - [https://coinmarketcap.com/](https://coinmarketcap.com/)
@@ -91,7 +91,24 @@ Market Capitalization - [https://coinmarketcap.com/](https://coinmarketcap.com/)
 - [Avalanche: Create Without Limits | dApp Platform](https://www.avax.network/)
 - [Aeternity Blockchain Definition | CoinMarketCap](https://coinmarketcap.com/alexandria/glossary/aeternity-blockchain)
 
-[Chainlist](https://chainlist.org/)
+#### Chainlink (Oracle) - LINK
+
+##### Working
+
+- Node operator (Proof of stake)
+- Requesting Contract
+- ChainLink Service Level Agreement (SLA) contract
+  - Reputation Contract
+  - Order-Matching Contract
+  - Aggregating Contract
+
+##### Links
+
+- [Chainlink: The Industry-Standard Web3 Services Platform](https://chain.link/)
+- [Chainlink: LINK Still Any Potential? DEEP DIVE!! 🔗 - YouTube](https://www.youtube.com/watch?v=EDBbsrTbrjU)
+- [Is Chainlink still a good investment? How LINK EXPLODES to $100! 🚀 - YouTube](https://www.youtube.com/watch?v=qdt4E8e22TU)
+- [What is Chainlink? LINK Explained with Animations (Price Prediction) - YouTube](https://www.youtube.com/watch?v=GnXsJe2wZ_w)
+- [Chainlink Price Prediction (LINK Analysis, Fundamentals, Research) - WhiteboardCrypto](https://whiteboardcrypto.com/chainlink-price-prediction/)
 
 ### Testnet
 

@@ -16,27 +16,29 @@ For example, a failure in concurrency control can result in [data corruption](ht
 
 ## Concurrency control mechanisms
 
-## Optimistic vs Pessimistic Locking
+### Optimistic vs Pessimistic Locking
 
-- Pessimistic Locking
+#### Pessimistic Locking
 
-    Acquire all the locks beforehand and then commit our transaction
+Acquire all the locks beforehand and then commit our transaction
 
-- Optimistic Locking
+[Understanding Pessimistic Locking with Mutex - YouTube](https://www.youtube.com/watch?v=4F-WiPFrPsA)
 
-    We do not acquire any locks on data and when commiting a transaction we check to see if any other transaction updated the record we are working on.
+#### Optimistic Locking
 
-## Optimistic vs Pessimistic Concurrency Control
+We do not acquire any locks on data and when commiting a transaction we check to see if any other transaction updated the record we are working on.
 
-- Pessimistic concurrency control
+### Optimistic vs Pessimistic Concurrency Control
+
+#### Pessimistic concurrency control
 
 Widely used by relational databases, this approach assumes that conflicting changes are likely to happen and so blocks access to a resource in order to prevent conflicts. A typical example is locking a row before reading its data, ensuring that only the thread that placed the lock is able to make changes to the data in that row.
 
-- Optimistic concurrency control
+#### Optimistic concurrency control
 
 Used by Elasticsearch, this approach assumes that conflicts are unlikely to happen and doesn't block operations from being attempted. However, if the underlying data has been modified between reading and writing, the update will fail. It is then up to the application to decide how it should resolve the conflict. For instance, it could reattempt the update, using the fresh data, or it could report the situation to the user.
 
-## Categories
+### Categories
 
 - **[Optimistic](https://en.wikipedia.org/wiki/Optimistic_concurrency_control)-** Delay the checking of whether a transaction meets the isolation and other integrity rules (e.g., [serializability](https://en.wikipedia.org/wiki/Serializability) and [recoverability](https://en.wikipedia.org/wiki/Serializability#Correctness_-_recoverability)) until its end, without blocking any of its (read, write) operations ("...and be optimistic about the rules being met..."), and then abort a transaction to prevent the violation, if the desired rules are to be violated upon its commit. An aborted transaction is immediately restarted and re-executed, which incurs an obvious overhead (versus executing it to the end only once). If not too many transactions are aborted, then being optimistic is usually a good strategy.
 - **Pessimistic-** Block an operation of a transaction, if it may cause violation of the rules, until the possibility of violation disappears. Blocking operations is typically involved with performance reduction.
@@ -48,37 +50,43 @@ The mutual blocking between two transactions (where each one blocks the other or
 
 Blocking, deadlocks, and aborts all result in performance reduction, and hence the trade-offs between the categories.
 
-## Methods
+### Methods
 
 Many methods for concurrency control exist. Most of them can be implemented within either main category above. The major methods, which have each many variants, and in some cases may overlap or be combined, are:
 
-1. **Locking (e.g., [Two-phase locking](https://en.wikipedia.org/wiki/Two-phase_locking)- 2PL)**
-    - Controlling access to data by [locks](https://en.wikipedia.org/wiki/Lock_(computer_science)) assigned to the data. Access of a transaction to a data item (database object) locked by another transaction may be blocked (depending on lock type and access operation type) until lock release.
-    - **Assume transactions will conflict so they must acquire locks on database objects before they are allowed to access them.**
-    - There are two ways to deal with deadlocks in a two-phase locking (2PL) concurrency control protocol
-        - **Deadlock Detection**
-            - Each txn maintains a queue of the txns that hold the locks that it is waiting for
-            - A separate thread checks these queues for deadlocks
-            - If deadlock is found, use a heuristic to decide what transaction to kill in order to break deadlock.
-        - **Deadlock Prevention**
-            - Check whether another txn already holds a lock when another txn requests it
-            - If lock is not available, the txn will either
-                - wait
-                - commit suicide
-                - kill the other txn
+#### 1. Locking (e.g., [Two-phase locking](https://en.wikipedia.org/wiki/Two-phase_locking)- 2PL)
+
+- Controlling access to data by [locks](https://en.wikipedia.org/wiki/Lock_(computer_science)) assigned to the data. Access of a transaction to a data item (database object) locked by another transaction may be blocked (depending on lock type and access operation type) until lock release.
+- **Assume transactions will conflict so they must acquire locks on database objects before they are allowed to access them.**
+- There are two ways to deal with deadlocks in a two-phase locking (2PL) concurrency control protocol
+  - **Deadlock Detection**
+    - Each txn maintains a queue of the txns that hold the locks that it is waiting for
+    - A separate thread checks these queues for deadlocks
+    - If deadlock is found, use a heuristic to decide what transaction to kill in order to break deadlock.
+  - **Deadlock Prevention**
+    - Check whether another txn already holds a lock when another txn requests it
+    - If lock is not available, the txn will either
+      - wait
+      - commit suicide
+      - kill the other txn
 
 ![image](../../media/Concurrency-Control-image1.jpg)
 
-2. **Serialization [graph checking](https://en.wikipedia.org/wiki/Serializability#Testing_conflict_serializability)**(also called Serializability, or Conflict, or Precedence graph checking)
+#### 2. Serialization [graph checking](https://en.wikipedia.org/wiki/Serializability#Testing_conflict_serializability)
+
+Also called Serializability, or Conflict, or Precedence graph checking
 
 Checking for [cycles](https://en.wikipedia.org/wiki/Cycle_(graph_theory)) in the schedule's [graph](https://en.wikipedia.org/wiki/Directed_graph) and breaking them by aborts.
 
-3. **[Timestamp ordering](https://en.wikipedia.org/wiki/Timestamp-based_concurrency_control)(TO)**
-    - Assigning timestamps to transactions, and controlling or checking access to data by timestamp order.
-    - **Assume that conflicts are rare so transactions do not need to first acquire locks on database objects and instead check for conflicts at commit time.**
-4. **[Commitment ordering](https://en.wikipedia.org/wiki/Commitment_ordering)(or Commit ordering; CO)**
+#### 3. [Timestamp ordering](https://en.wikipedia.org/wiki/Timestamp-based_concurrency_control)(TO)
+
+- Assigning timestamps to transactions, and controlling or checking access to data by timestamp order.
+- **Assume that conflicts are rare so transactions do not need to first acquire locks on database objects and instead check for conflicts at commit time.**
+
+#### 4. [Commitment ordering](https://en.wikipedia.org/wiki/Commitment_ordering)(or Commit ordering; CO)
 
 Controlling or checking transactions' chronological order of commit events to be compatible with their respective [precedence order](https://en.wikipedia.org/wiki/Serializability#Testing_conflict_serializability).
+
 Other major concurrency control types that are utilized in conjunction with the methods above include:
 
 - **[Multiversion concurrency control](https://en.wikipedia.org/wiki/Multiversion_concurrency_control)(MVCC) -** Increasing concurrency and performance by generating a new version of a database object each time the object is written, and allowing transactions' read operations of several last relevant versions (of each object) depending on scheduling method.
@@ -97,11 +105,11 @@ The most common mechanism type in database systems since their early days in the
 
 <https://vladmihalcea.com/database-deadlock>
 
-## Timestamp Ordering Concurrency Control
+## Timestamp Ordering (T/O) Concurrency Control
 
 Use timestamps to determine the order of transactions.
 
-## Basic T/O Protocol
+### Basic T/O Protocol
 
 - Every transaction is assigned a unique timestamp when they arrive in the system.
 - The DBMS maintains separate timestamps in each tuple's header of the last transaction that read that tuple or wrote to it.
@@ -113,11 +121,11 @@ Use timestamps to determine the order of transactions.
 Store all changes in private workspace. Check for conflicts at commit time and then merge.
 The protocol puts transactions through three phases during its execution:
 
-1. **Read Phase**
+### 1. Read Phase
 
 Transaction's copy tuples accessed to private work space to ensure repeatable reads, and keep track of read/write sets.
 
-2. **Validation Phase**
+### 2. Validation Phase
 
 When the transaction invokes COMMIT, the DBMS checks if it conflicts with other transactions. Parallel validation means that each transaction must check the read/write set of other transactions that are trying to validate at the same time. Each transaction has to acquire locks for its write set records in some global order. Original OCC uses serial validation.
 
@@ -126,7 +134,7 @@ The DBMS can proceed with the validation in two directions:
 - Backward Validation: Check whether the committing transaction intersects its read/write sets with those of any transactions that have already committed.
 - Forward Validation: Check whether the committing transaction intersects its read/write sets with any active transactions that have not yet committed.
 
-3. **Write Phase**
+### 3. Write Phase
 
 The DBMS propagates the changes in the transactions write set to the database and makes them visible to other transactions' items. As each record is updated, the transaction releases the lock acquired during the Validation Phase
 
@@ -147,15 +155,15 @@ There are different ways for the DBMS to allocate timestamps for transactions. E
 
 ## Benchmarks
 
-1. **Read-only workloads**
+### 1. Read-only workloads
 
 ![image](../../media/Concurrency-Control-image2.jpg)
 
-2. **Write-intensive / Medium-contention**
+### 2. Write-intensive / Medium-contention
 
 ![image](../../media/Concurrency-Control-image3.jpg)
 
-3. **Write-intensive / High-contention**
+### 3. Write-intensive / High-contention
 
 ![image](../../media/Concurrency-Control-image4.jpg)
 
@@ -163,30 +171,33 @@ There are different ways for the DBMS to allocate timestamps for transactions. E
 
 All concurrency control protocols have performance and scalability problems when there are a large number of concurrent threads and large amount of contention (i.e., the transactions are all trying to read/write to the same set of tuples).
 
-- **Lock Thrashing:**
-  - DL_DETECT, WAIT_DIE
-  - Each transaction waits longer to acquire locks, causing other transaction to wait longer to acquire locks.
-  - Can measure this phenomenon by removing deadlock detection/prevention overhead.
-    - Force txns to acquire locks in primary key order
-    - Deadlocks are not possible
+### Lock Thrashing
+
+- DL_DETECT, WAIT_DIE
+- Each transaction waits longer to acquire locks, causing other transaction to wait longer to acquire locks.
+- Can measure this phenomenon by removing deadlock detection/prevention overhead.
+- Force txns to acquire locks in primary key order
+- Deadlocks are not possible
 
 ![image](../../media/Concurrency-Control-image5.jpg)
 
-- **Timestamp Allocation**
-  - All T/O algorithms + WAIT_DIE
-  - Mutex (Worst option)
-  - Atomic Addition (Requires cache invaliadtion on write)
-  - Batched Atomic Addition (Needs a back-off mechanism to prevent fast burn)
-  - Hardware Clock (Not sure if it will exist in future CPUs)
-  - Hardware Counter (Not implemented in existing CPUs)
+### Timestamp Allocation
+
+- All T/O algorithms + WAIT_DIE
+- Mutex (Worst option)
+- Atomic Addition (Requires cache invaliadtion on write)
+- Batched Atomic Addition (Needs a back-off mechanism to prevent fast burn)
+- Hardware Clock (Not sure if it will exist in future CPUs)
+- Hardware Counter (Not implemented in existing CPUs)
 
 ![image](../../media/Concurrency-Control-image6.jpg)
 
-- **Memory Allocation**
-  - OCC + MVCC
-  - Copying data on every read/write access slows down the DBMS because of contention on the memory controller.
-    - In-place updates and non-copying reads are not affected as much
-  - Default libc malloc is slow. Never use it
+### Memory Allocation
+
+- OCC + MVCC
+- Copying data on every read/write access slows down the DBMS because of contention on the memory controller.
+- In-place updates and non-copying reads are not affected as much
+- Default libc malloc is slow. Never use it
 
 ## Operational Transformation
 

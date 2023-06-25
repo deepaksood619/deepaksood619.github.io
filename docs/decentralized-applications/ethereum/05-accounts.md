@@ -47,7 +47,7 @@ An account is made up of a cryptographic pair of keys: public and private. They 
 
 This prevents malicious actors from broadcasting fake transactions because you can always verify the sender of a transaction.
 
-If Alice wants to send ether from her own account to Bob’s account, Alice needs to create a transaction request and send it out to the network for verification. Ethereum’s usage of public-key cryptography ensures that Alice can prove that she originally initiated the transaction request. Without cryptographic mechanisms, a malicious adversary Eve could simply publicly broadcast a request that looks something like “send 5 ETH from Alice’s account to Eve’s account,” and no one would be able to verify that it didn’t come from Alice.
+If Alice wants to send ether from her own account to Bob’s account, Alice needs to create a transaction request and send it out to the network for verification. Ethereum’s usage of public-key cryptography ensures that Alice can prove that she originally initiated the transaction request. Without cryptographic mechanisms, a malicious adversary Eve could simply publicly broadcast a request that looks something like "send 5 ETH from Alice’s account to Eve’s account," and no one would be able to verify that it didn’t come from Alice.
 
 ## Account creation
 
@@ -88,7 +88,7 @@ Example:
 
 `0x06012c8cf97bead5deae237070f9587f8e7a266d`
 
-The contract address is usually given when a contract is deployed to the Ethereum Blockchain. The address comes from the creator's address and the number of transactions sent from that address (the “nonce”).
+The contract address is usually given when a contract is deployed to the Ethereum Blockchain. The address comes from the creator's address and the number of transactions sent from that address (the "nonce").
 
 ## Validator keys
 

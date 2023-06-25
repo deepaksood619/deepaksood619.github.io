@@ -28,8 +28,17 @@
 - [Aave - Open Source Liquidity Protocol](https://aave.com/)
 - [Buy Bitcoin & Ethereum | Cryptocurrency Exchange | Bittrex Global](https://global.bittrex.com/)
 - [Bitpanda Cash Plus](https://www.bitpanda.com/en/bitpanda-cash-plus)
+- [Roots - build wealth through real estate](https://www.investwithroots.com/)
 
 ![ranks-of-bitcoin-holders](../media/Screenshot%202023-04-03%20at%209.02.03%20AM.png)
+
+## Games
+
+[BEST Blockchain Games: TOP 5 Play-To-Earn Cryptos!! 💯 - YouTube](https://www.youtube.com/watch?v=zchIkjXtOtk)
+
+[Axie Infinity: The CRAZIEST Crypto Game EVER!! 🤯 - YouTube](https://www.youtube.com/watch?v=zQPyDc88X8o)
+
+[The Play-To-Earn Blockchain Farming Game - Townstar](https://townstar.com/)
 
 ## Pros
 
