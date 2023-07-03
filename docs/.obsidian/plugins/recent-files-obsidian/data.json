@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "mac",
+      "path": "devops/ides/mac.md"
+    },
+    {
       "basename": "liquidity-mining",
       "path": "decentralized-applications/liquidity-mining.md"
     },
@@ -123,10 +127,6 @@
     {
       "basename": "virtualenv-and-pip",
       "path": "python/python-intro/virtualenv-and-pip.md"
-    },
-    {
-      "basename": "mac",
-      "path": "devops/ides/mac.md"
     },
     {
       "basename": "40-databricks-commands",

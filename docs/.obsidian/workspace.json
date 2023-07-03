@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "decentralized-applications/liquidity-mining.md",
+                "file": "devops/ides/mac.md",
                 "mode": "source",
                 "source": false
               }
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "decentralized-applications/liquidity-mining.md",
+                "file": "devops/ides/mac.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "decentralized-applications/liquidity-mining.md",
+                "file": "devops/ides/mac.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "decentralized-applications/liquidity-mining.md"
+                "file": "devops/ides/mac.md"
               }
             }
           },
@@ -191,6 +191,7 @@
   },
   "active": "978fd2faf621af33",
   "lastOpenFiles": [
+    "decentralized-applications/liquidity-mining.md",
     "computer-science/security/cryptography/cryptographic-algorithms.md",
     "decentralized-applications/coins-tokens-chains/wallets.md",
     "computer-science/security/cryptography/cryptographic-hash-functions.md",
@@ -216,7 +217,6 @@
     "devops/ides/youtube-podcasts-magazine-apps.md",
     "economics/mutual-funds/debt-mutual-funds.md",
     "office/keep/neha.md",
-    "computer-science/software-engineering/principles.md",
     "media/Screenshot 2023-06-28 at 11.17.15 PM.png",
     "media/Pasted image 20230628225903.png",
     "media/Pasted image 20230626135923.png",

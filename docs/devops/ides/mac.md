@@ -388,7 +388,7 @@ defaults write com.apple.screencapture type JPG
 
 defaults write com.apple.screencapture location "$HOME/Screenshots"
 
-<https://about.gitlab.com/blog/2020/01/30/simple-trick-for-smaller-screenshots>
+**<https://about.gitlab.com/blog/2020/01/30/simple-trick-for-smaller-screenshots>**
 
 ### ipv6 disable
 
