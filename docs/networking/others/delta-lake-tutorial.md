@@ -52,6 +52,8 @@ If you specify `*`, this updates or inserts all columns in the target table. Thi
 
 You must specify a value for every column in your table when you perform an `INSERT` operation (for example, when there is no matching row in the existing dataset). However, you do not need to update all values.
 
+[Update Delta Lake table schema | Databricks on AWS](https://docs.databricks.com/delta/update-schema.html#automatic-schema-evolution-for-delta-lake-merge)
+
 ## Read a table
 
 You access data in Delta tables by the table name or the table path, as shown in the following examples:

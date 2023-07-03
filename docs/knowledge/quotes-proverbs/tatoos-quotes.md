@@ -16,6 +16,8 @@ veni, vidi, vici - I came, I saw, I conquered
 
 This is the way
 
+comme ci, comme ça (neither very good nor very bad)
+
 Dubito ergo cogito, cogito ergo sum. (I doubt therefore I think, I think therefore I am)
 
 Rene Descartes was a [French](https://en.wikipedia.org/wiki/French_people)[philosopher](https://en.wikipedia.org/wiki/Philosopher), [mathematician](https://en.wikipedia.org/wiki/Mathematician), [scientist](https://en.wikipedia.org/wiki/Scientist) and lay [Catholic](https://en.wikipedia.org/wiki/List_of_lay_Catholic_scientists) who invented [analytic geometry](https://en.wikipedia.org/wiki/Analytic_geometry), linking the previously separate fields of [geometry](https://en.wikipedia.org/wiki/Geometry) and [algebra](https://en.wikipedia.org/wiki/Algebra). He spent a large portion of his working life in the [Dutch Republic](https://en.wikipedia.org/wiki/Dutch_Republic), initially serving the [Dutch States Army](https://en.wikipedia.org/wiki/Dutch_States_Army) of [Maurice of Nassau](https://en.wikipedia.org/wiki/Maurice,_Prince_of_Orange), [Prince of Orange](https://en.wikipedia.org/wiki/Prince_of_Orange) and the [Stadtholder](https://en.wikipedia.org/wiki/Stadtholder) of the [United Provinces](https://en.wikipedia.org/wiki/Dutch_Republic). One of the most notable intellectual figures of the [Dutch Golden Age](https://en.wikipedia.org/wiki/Dutch_Golden_Age), Descartes is also widely regarded as one of the founders of [modern philosophy](https://en.wikipedia.org/wiki/Modern_philosophy) and [algebraic geometry](https://en.wikipedia.org/wiki/Algebraic_geometry).

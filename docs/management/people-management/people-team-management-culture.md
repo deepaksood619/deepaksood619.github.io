@@ -223,7 +223,7 @@ Move from Maker to Multiplier mode
 
 <https://lastviking.eu/key_result_areas_for_developers.html>
 
-Logically segment the business into micro-subdomains, so that each can be supported by a small**empowered autonomous team**.
+Logically segment the business into micro-subdomains, so that each can be supported by a small **empowered autonomous team**.
 
 ## Tips
 
@@ -421,3 +421,5 @@ Relatedness refers to our will to connect with others, interact and care for oth
 "But the manager who makes himself/herself vulnerable - who guides, nurtures, supports, respects -- they're the people whom others look up to."
 
 "No organization in the world is built on a product. It's built on people."
+
+![trust-team](../../media/Screenshot%202023-06-28%20at%2011.17.15%20PM.png)

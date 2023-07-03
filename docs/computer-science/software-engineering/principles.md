@@ -26,7 +26,7 @@ Used for setting, communicating and monitoring quarterly goals and results in or
 
 <https://hackernoon.com/the-mvp-is-dead-long-live-the-rat-233d5d16ab02>
 
-- TPM - Total Productive Maintainence
+- TPM - Total Productive Maintenance
 - MVP - Minimum Viable Products
 - RAT - Riskiest Assumption Test
 

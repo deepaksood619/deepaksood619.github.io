@@ -43,6 +43,12 @@ On May 7, the price of the then-$18-billion algorithmic stablecoin terraUSD (UST
 
 **BlockFi:** The crypto lender filed for bankruptcy in late November, a fortnight after FTX collapsed, as it had substantial exposure to the crypto exchange. Another victim of the terraUSD collapse, It had been relying on a $400 million credit facility from FTX to stay solvent after Voyager and Celsius went bankrupt in July.
 
+### Sources
+
+- CoinMarketCap
+- CoinBureau
+- [DeFi Pulse](https://www.defipulse.com/)
+
 ### News
 
 [I HOPE YOU'RE PAYING ATTENTION - BIG Money Is BACK In The Market](https://www.youtube.com/watch?v=9-go6CV2Nws)
@@ -64,3 +70,5 @@ On May 7, the price of the then-$18-billion algorithmic stablecoin terraUSD (UST
 [Still Hope For Crypto?! This Will REALLY Surprise You!! 😮 - YouTube](https://www.youtube.com/watch?v=65QgI_Kzq38)
 
 [This SAYS It ALL!! Crypto Adoption Incoming!! - YouTube](https://www.youtube.com/watch?v=J6-LCwPRJWo)
+
+[US Government Plan For Crypto, CBDC, Ukraine, China & More!! - YouTube](https://www.youtube.com/watch?v=nUyJ911jmL0)

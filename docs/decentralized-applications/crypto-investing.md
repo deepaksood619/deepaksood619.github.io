@@ -17,7 +17,7 @@
 - [Unocoin: Best Crypto Exchange in India](https://unocoin.com/in/)
 - [Mudrex - Easiest way to invest in Crypto](https://mudrex.com/)
 - [Home | PancakeSwap](https://pancakeswap.finance/)
-  - Trade, earn, and win crypto on the most popular decentralized platform in the galaxy.
+- [cowswap - CoW Swap | The smartest way to trade cryptocurrencies](https://swap.cow.fi/)
 - [Guide to DUSD: Earn Negative Interest of Up to -66.6% on DUSD](https://blog.defichain.com/earn-returns-with-negative-interest-rates/)
 - [RBX: The pinnacle of decentralized finance apps. Defi 2.0](https://rbxdefi.com/)
 - [Zilliqa | Build your future with our native token](https://www.zilliqa.com/what-is-zil)
@@ -39,6 +39,12 @@
 [Axie Infinity: The CRAZIEST Crypto Game EVER!! 🤯 - YouTube](https://www.youtube.com/watch?v=zQPyDc88X8o)
 
 [The Play-To-Earn Blockchain Farming Game - Townstar](https://townstar.com/)
+
+[PVU crypto Farmland](https://plantvsundead.com/)
+
+[CryptoKitties | Collect and breed digital cats!](https://www.cryptokitties.co/)
+
+[Money with Moves](https://zbd.gg/)
 
 ## Pros
 
@@ -93,7 +99,21 @@
 
 - **Wash trading** is when fake trades are made to boost different statistics or drive FOMO
 
-### Links
+## Protocols / Applications
+
+### Yearn Finance (YFI)
+
+- [Yearn](https://yearn.finance/)
+- [YEARN FINANCE And YFI Token Explained | DeFi, Ethereum - YouTube](https://www.youtube.com/watch?v=qG1goOptZ5w&ab_channel=Finematics)
+- [What are YEARN VAULTS? ETH Vault Explained | DEFI, YIELD FARMING - YouTube](https://www.youtube.com/watch?v=9vTaNl2_B8A&ab_channel=Finematics)
+- [Yearn | Introduction to Yearn Vaults - YouTube](https://www.youtube.com/watch?v=a1TsO62402c)
+
+### Compound Finance
+
+- [Compound Finance Review: DeFi Unleashed! - YouTube](https://www.youtube.com/watch?v=FUhlxX0pYQo)
+- [Compound](https://compound.finance/)
+
+## Links
 
 [How to Spot Crypto Pump-and-Dump Schemes](https://www.coindesk.com/learn/how-to-spot-crypto-pump-and-dump-schemes)
 

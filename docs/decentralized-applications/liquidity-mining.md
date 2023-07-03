@@ -54,3 +54,19 @@ Liquidity is a measure of resource sufficiency as it concerns a cryptocurrency m
 - [Impermanent Loss & other Liquidity Mining risks explained - Dr. Julian Hosp - The Blockchain Expert](https://julianhosp.com/impermanent-loss-other-liquidity-mining-risks-explained/?ref=defichain-blog)
 - [How do LIQUIDITY POOLS work? (Uniswap, Curve, Balancer) | DEFI Explained - YouTube](https://www.youtube.com/watch?v=cizLhxSKrAc&ab_channel=Finematics)
 - [What Is BANCOR V2? CHAINLINK Integration And Dynamic Automated Market Maker Explained | DEFI - YouTube](https://www.youtube.com/watch?v=bWBfLArJsFk&ab_channel=Finematics)
+
+## Yield Farming
+
+Yield farming involves maximizing returns on cryptocurrency holdings by moving them between different DeFi protocols to take advantage of the highest yield opportunities. This can involve lending, staking, or liquidity provision.
+
+[Is Yield Farming DEAD? Are There ANY Good Opportunities Left? DEFI Explained - YouTube](https://www.youtube.com/watch?v=s0Of2ZnyhIE&ab_channel=Finematics)
+
+[What Is YIELD FARMING? DEFI Explained (Compound, Balancer, Curve, Synthetix, Ren) - YouTube](https://www.youtube.com/watch?v=ClnnLI1SClA&ab_channel=Finematics)
+
+## Differences
+
+[Yield Farming vs. Liquidity Mining: What's the Difference? - B2Bbroker](https://b2broker.com/news/yield-farming-vs-liquidity-mining-whats-the-difference/)
+
+![staking-vs-yf-vs-lm](../../media/Pasted%20image%2020230626135923.png)
+
+[Staking vs Yield Farming vs Liquidity Mining- What's The Difference? - Blockchain Council](https://www.blockchain-council.org/defi/staking-vs-yield-farming-vs-liquidity-mining/)

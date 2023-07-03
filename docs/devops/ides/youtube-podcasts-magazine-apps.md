@@ -350,6 +350,14 @@ Indian History - <https://www.anirudhkanisetti.com/podcasts>
 
 Youtube Original's Mind Field
 
+## Top Music
+
+- Tchaikovsky - 1812 Overture
+- Bach
+- Vivaldi
+- Gioachino Rossini
+- [HALIDONMUSIC - YouTube](https://www.youtube.com/@HALIDONMUSIC)
+
 ## Resources
 
 ### Others

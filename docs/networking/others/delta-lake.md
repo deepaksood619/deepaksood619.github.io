@@ -98,6 +98,14 @@ CREATE TABLE target_schema.gold.target_table_name CLONE source_schema.gold.sourc
 
 [Clone a table on Databricks | Databricks on AWS](https://docs.databricks.com/delta/clone.html)
 
+## Constraints
+
+[Constraints on Databricks | Databricks on AWS](https://docs.databricks.com/tables/constraints.html)
+
+## Others
+
+[How does Databricks manage Delta Lake feature compatibility? | Databricks on AWS](https://docs.databricks.com/delta/feature-compatibility.html)
+
 ## FAQs
 
 ### What format does Delta Lake use to store data?

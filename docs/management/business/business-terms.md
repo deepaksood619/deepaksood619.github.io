@@ -1,7 +1,14 @@
 # Business Terms
 
-COCO - Company Owned Company Operated
-COPO - Company Owned Partner Operated
+### Operating Models
+
+#### COCO - Company Owned Company Operated
+
+#### COPO - Company Owned Partner Operated
+
+#### FOCO Model - Franchise Owned Company Operated
+
+The initial setup cost is born by the investor (franchise) in the FOCO model. And operations are managed by the Brand. The running cost (operations) is borne by the Brand. So, the franchisee gets a minimum guarantee or percentage of revenue earned in return. Here, the franchise investor is the owner of the business, and the company will be responsible for operating it and taking care of all the things necessary to run an outlet. The company will also have to give a fixed percentage of profit shares to the owner of the franchise.
 
 ### GMV - Gross Merchandise Value
 

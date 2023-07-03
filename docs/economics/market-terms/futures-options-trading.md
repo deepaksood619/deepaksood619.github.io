@@ -1,5 +1,7 @@
 # Futures / Options / Trading
 
+Buy the rumor, sell the news
+
 ## Trading
 
 - Start with paper trading account

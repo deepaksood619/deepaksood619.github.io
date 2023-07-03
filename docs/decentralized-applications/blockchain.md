@@ -132,3 +132,11 @@ Layering - Tumblr / Mixers - [6 BEST Bitcoin Mixers & Tumblers (2023 List)](http
 ## Links
 
 [Blockchain 102 and The Dark Side of Blockchain](https://www.youtube.com/watch?v=-so3AtnToek)
+
+[Intersection of Blockchain and Video Games: Is Blockchain Technology Ready for the Gaming Industry? - YouTube](https://www.youtube.com/watch?v=A19ZOAIOywE)
+
+[What is Bitcoin and Blockchain (by Charles Hoskinson) - YouTube](https://www.youtube.com/watch?v=U8OSOrbNrjI)
+
+[Picking the Right Blockchain For the Job - YouTube](https://www.youtube.com/watch?v=rgiP5W8ckl8)
+
+[Yes, You Too Can Break Crypto: Exploiting Common Crypto Mistakes - YouTube](https://www.youtube.com/watch?v=eTHRv2uSc_Y)

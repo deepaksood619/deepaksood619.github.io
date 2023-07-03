@@ -13,4 +13,9 @@ The Polygon network provides several key features that make it attractive to dev
 
 Overall, Polygon aims to provide a scalable and efficient infrastructure for decentralized applications on the Ethereum blockchain, and has become a popular choice for developers and users who require fast and affordable transactions.
 
+Compared to Polkadot and Cosmos
+
 [Polygon Gas Station | Polygon Wiki](https://wiki.polygon.technology/docs/develop/tools/polygon-gas-station/)
+
+[POLYGON (MATIC) - Ethereum's Internet Of Blockchains Explained - Layer 2 - YouTube](https://www.youtube.com/watch?v=IijtdpAtOt0)
+[Polygon PoS Chain - A Commit Chain? DeFi Explained - YouTube](https://www.youtube.com/watch?v=f7F67ZP9fsE)

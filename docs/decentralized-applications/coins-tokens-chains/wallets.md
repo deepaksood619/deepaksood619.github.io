@@ -23,6 +23,8 @@ Not your keys not your coins
 
 [How Bitcoin Wallets Work (Public & Private Key Explained) - YouTube](https://www.youtube.com/watch?v=GSTiKjnBaes)
 
+[wallet.fail (or How to Break the Most Popular Cryptocurrency Wallets) - YouTube](https://www.youtube.com/watch?v=mqEfldjCqVY)
+
 ## Crypto Wallets
 
 - Metamask (A crypto wallet & gateway to blockchain apps)

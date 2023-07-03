@@ -1,5 +1,7 @@
 # Languages Others
 
+[What Is Wrong With Hindi? - YouTube](https://www.youtube.com/watch?v=U4Bb7RNjN8w)
+
 It is tradition for Sherpa to name their children after the day of the week on which they were born.
 
 Tibetan

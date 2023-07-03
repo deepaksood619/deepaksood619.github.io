@@ -22,7 +22,7 @@ Fighting a battle on your terms may require a deep understanding of the rules an
 
 - Author and podcaster Tim Ferriss entered a Chinese National Kickboxing Tournament and won gold by studying the rules of competition and learning that if he pushed his opponent off the elevated platform three times in a single round, he would automatically win the match. Therefore, Ferriss leveraged his high school wrestling training and made every match a pushing contest instead of a kickboxing contest.
 
-When you compete unconventionally, you will get criticized and laughed at like David. But as the saying goes, "**First they ignore you. Then they laugh at you. Then they fight you. Then you win.**"
+When you compete unconventionally, you will get criticized and laughed at like David. But as the saying goes, "**First they ignore you. Then they laugh at you. Then they fight you. Then you win./Then they join you.**"
 
 ## Defeat the giant by feeling like a giant
 

@@ -18,6 +18,9 @@
    3. Client
 
 ![image](../../media/System-Design-Others-image3.jpg)
+
+![netflix-overall-architecture](../../media/Pasted%20image%2020230626094711.png)
+
 <https://www.linkedin.com/pulse/system-design-netflix-narendra-l>
 
 <https://netflixtechblog.com/netflixs-viewing-data-how-we-know-where-you-are-in-house-of-cards-608dd61077da>

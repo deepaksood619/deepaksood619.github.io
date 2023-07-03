@@ -4,10 +4,14 @@ In the context of blockchain, a "layer 2" refers to a secondary protocol or tech
 
 In the case of Ethereum, there are several layer 2 solutions being developed to address the network's current limitations in terms of scalability and transaction throughput. These layer 2 solutions include:
 
+1. **Channels:** They allow participants to exchange their transactions off-chain a number of times while only submitting the final 2 transactions to the base layer. Ex - Raiden, Lightning network
 1. **State channels:** Off-chain agreements between parties that allow for multiple transactions to be conducted without touching the main blockchain until they are settled.
-2. **Plasma:** A framework for creating a hierarchy of blockchains (or "child chains") that can process transactions off-chain and periodically commit them to the main Ethereum blockchain.
-3. **Sidechains:** Independent blockchains that are interoperable with the Ethereum mainnet, allowing for off-chain transactions and reducing congestion on the main network.
+2. **Payment Channels:**
+2. **Plasma:** A framework for creating a hierarchy of blockchains (or "child chains") that can process transactions off-chain and periodically commit them to the main Ethereum blockchain. Ex - OMG, Matic
+3. **Sidechains:** Independent blockchains that are interoperable with the Ethereum mainnet, allowing for off-chain transactions and reducing congestion on the main network. Ex - xdai
 4. **Rollups:** An approach that allows for the aggregation of multiple transactions into a single transaction on the main Ethereum blockchain, significantly increasing the network's capacity to process transactions.
+1. zk-rollups - Ex - Loopring, DeversiFi, zksync
+2. Optimistic rollups - Ex - Optimism
 
 These layer 2 solutions are intended to improve the efficiency and speed of transactions on the Ethereum network, while maintaining the security and decentralization of the underlying blockchain. Other blockchains, such as Bitcoin, also have their own layer 2 solutions, which include technologies like Lightning Network and Liquid Network.
 
@@ -37,17 +41,55 @@ Several rollup solutions are already live or in the process of being implemented
 
 [Ethereum LAYER 2 SCALING Explained (Rollups, Plasma, Channels, Sidechains) - YouTube](https://www.youtube.com/watch?v=BgCgauWVTs0&ab_channel=Finematics)
 
+[Layer 2 Scaling Solutions Explained (Rollups, Plasma, Sidechains, Channels ANIMATED) - YouTube](https://www.youtube.com/watch?v=9pJjtEeq-N4)
+
 ## ZK Proof (Zero Knowledge Proof)
 
 A cryptographic method for proving a statement is true without revealing any information about the statement – other than that it is true.
 
-The acronym **zk-SNARK stands for "Zero-Knowledge Succinct Non-Interactive Argument of Knowledge,"** and refers to a proof construction where one can prove possession of certain information, e.g. a secret key, without revealing that information, and without any interaction between the prover and verifier. In May 2022, Zcash began the process of upgrading its underlying cryptography and moving to a new proof composition called Halo.
-
 "Zero-knowledge" proofs allow one party (the prover) to prove to another (the verifier) that a statement is true, without revealing any information beyond the validity of the statement itself. For example, given the hash of a random number, the prover could convince the verifier that there indeed exists a number with this hash value, without revealing what it is.
+
+#### Criteria for ZK Proof
+
+- Statistical Soundness
+- Completeness
+- Zero Knowledge
+
+#### Types
+
+- Interactive ZK Proof
+- Non-interactive ZK Proof
+
+[Zero Knowledge Canon, part 1 & 2 - a16z crypto](https://a16zcrypto.com/content/article/zero-knowledge-canon/)
+
+[Zero-Knowledge Proof (ZKP): How It Works and Why Its Important - YouTube](https://www.youtube.com/watch?v=e_Im2g2xsAg)
+
+[Zero Knowledge Proof - ZKP - YouTube](https://www.youtube.com/watch?v=OcmvMs4AMbM)
+
+[Zero Knowledge Proof (with Avi Wigderson) - Numberphile - YouTube](https://www.youtube.com/watch?v=5ovdoxnfFVc)
+
+### zk-SNARK
+
+The acronym **zk-SNARK stands for "Zero-Knowledge Succinct Non-Interactive Argument of Knowledge,"** and refers to a proof construction where one can prove possession of certain information, e.g. a secret key, without revealing that information, and without any interaction between the prover and verifier. In May 2022, Zcash began the process of upgrading its underlying cryptography and moving to a new proof composition called Halo.
 
 [What are zk-SNARKs? | Zcash](https://z.cash/technology/zksnarks/)
 
-[Zero Knowledge Canon, part 1 & 2 - a16z crypto](https://a16zcrypto.com/content/article/zero-knowledge-canon/)
+## Sidechains
+
+- A sidechain is a separate, independent blockchain linked to the main blockchain (mainchain) using a two-way bridge.
+- It enables tokens or other digital assets to be transferred between the mainchain and the sidechain.
+- A sidechain can be public or private, and each sidechain has its own token, protocol, consensus mechanism, and security.
+- Sidechains can be used to run blockchain applications like decentralised apps (dapps), taking some computational load off the mainchain and helping to scale the blockchain.
+
+A typical sidechain implementation creates a transaction on the first blockchain (the mainchain) by locking the assets, then creates a transaction on the second blockchain (the sidechain) and provides cryptographic proofs to the transaction that the assets were locked correctly on the first blockchain.
+
+Although sidechains look like a promising solution, they add complexity to the blockchain design and require a lot of effort and investment for the initial setup. Since sidechains are independent blockchains, their security can potentially be compromised since they are not secured by the mainchain. On the other hand, if a sidechain is compromised, it won’t affect the mainchain, so it can be used to experiment with new protocols and improvements to the mainchain.
+
+[What Are Sidechains? Scaling Blockchain on the Side](https://crypto.com/university/what-are-sidechains-scaling-blockchain)
+
+### Layer 2 vs Sidechains
+
+The variations in security techniques between layer 2 and sidechain solutions are the most significant. Layer 2 relies on the main chain's security in most cases, however side chains have their own security features.
 
 ## Links
 

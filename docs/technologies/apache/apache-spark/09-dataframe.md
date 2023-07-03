@@ -51,6 +51,11 @@ df3 = df2.filter(df.amount.isNotNull())
 # select
 df1.select('amount').groupby('amount').count().display()
 
+# group by count, order by count desc
+from pyspark.sql.functions import desc
+
+dfFilter.sort(desc(df.groupby('DepositTransactionId').count())).display()
+
 # dropDuplicates
 df = df.dropDuplicates()
 ```

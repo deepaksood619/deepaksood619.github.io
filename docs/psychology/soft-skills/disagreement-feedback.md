@@ -78,6 +78,14 @@ How would you respond if someone gives you advice that you didn't ask for and yo
 
 Remember, feedback is not a one-size-fits-all approach. Trust your own judgement and use feedback as a tool to enhance your growth and development.
 
+### How to Argue
+
+![hierarchy-of-disagreement](../../media/Pasted%20image%2020230628225903.png)
+
+[How To Argue - The Hierarchy of Disagreement - Adioma](https://blog.adioma.com/how-to-argue-pg-hierarchy-of-disagreement/)
+
+[Hierarchy of disagreement - RationalWiki](https://rationalwiki.org/wiki/Hierarchy_of_disagreement)
+
 ## Why You Believe The Things You Do
 
 I remember reading an article years ago about a father in Yemen who lost a son to starvation, only to have another child fall dangerously ill. Desperate, he turned to tribal elders who recommended a folk remedy: Shove a burning stick through the sick child’s chest to drain the illness. The father agreed.

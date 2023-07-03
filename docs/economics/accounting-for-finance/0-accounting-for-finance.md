@@ -124,3 +124,60 @@ All Accounts
       - Secured Loans
       - Unsecured Loans
       - Bank Overdraft Account
+
+## Cheatsheet
+
+![cheatsheet-finance](../../media/Pasted%20image%2020230626095710.png)
+
+#### cashflow
+
+- Operating Cash Flow: Cash generated or consumed by the company's regular operations.
+- Formula: Net Income + Non-cash Expenses - Changes in Working Capital.
+- Free Cash Flow: Cash available after all expenses and investments have been accounted for.
+- Formula: Operating Cash Flow - Capital Expenditures.
+
+#### revenue
+
+- Gross Revenue: Total revenue generated from sales before deducting any costs or expenses.
+- Formula: Total units sold x Average selling price per unit.
+- Net Revenue: Revenue remaining after deducting discounts, returns, and allowances.
+- Formula: Gross Revenue - Discounts - Returns - Allowances.
+
+#### Cost
+
+- Cost of Goods Sold (COGS): Direct costs associated with producing or delivering the product.
+- Formula: Cost of raw materials + Labor cost + Manufacturing overhead.
+- Gross Profit: Revenue minus the COGS.
+- Formula: Net Revenue - COGS.
+- Operating Expenses: Expenses incurred in running the business, including salaries, marketing costs, and administrative expenses.
+- Formula: Employee salaries + Marketing expenses + Rent + Utilities.
+
+#### profit
+
+- Gross Profit Margin: The percentage of gross profit relative to revenue.
+- Formula: (Gross Profit / Net Revenue) x 100.
+- Operating Profit (EBIT): Profit earned from core operations before interest and taxes.
+- Formula: Gross Profit - Operating Expenses.
+- Net Profit: Profit remaining after deducting all expenses, including taxes and interest.
+- Formula: Operating Profit - Taxes - Interest
+
+#### financial
+
+- Return on Investment (ROI): Measures the profitability of an investment relative to its cost.
+- Formula: (Net Profit from Investment / Cost of Investment) x 100.
+- Earnings Before Interest, Taxes, Depreciation, and Amortization (EBITDA): Measures a company's operating - rformance.
+- Formula: Operating Profit + Depreciation + Amortisation.
+
+#### accounting
+
+- Accounts Receivable (AR) Turnover: Measures how quickly the company collects payments from customers.
+- Formula: Net Revenue / Average Accounts Receivable.
+- Accounts Payable (AP) Turnover: Measures how quickly the company pays its suppliers.
+- Formula: COGS / Average Accounts Payable.
+
+#### investment
+
+- Return on Investment (ROI): Measures the profitability of an investment relative to its cost.
+- Formula: (Net Profit from Investment / Cost of Investment) x 100.
+- Payback Period: Length of time required to recover the initial investment.
+- Formula: Cost of Investment / Annual Cash Flows.

@@ -127,3 +127,9 @@ Career Ladder - <https://docs.google.com/spreadsheets/d/1F1Y3YtjsvAJUZMqS-rK0LGQ
 - Avoiding people
 
 <https://www.lennysnewsletter.com/p/how-to-get-into-product-management>
+
+## Product Marketing
+
+Product Management + Product Marketing
+
+PM will not just own building a product or a feature but also own the end to end success of it.

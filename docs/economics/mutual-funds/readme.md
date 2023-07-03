@@ -295,3 +295,5 @@ Recommended portfolio for aggressive investors:
 - Long Term Gilt Funds and Long Duration Funds
 
 [Solution-Oriented Funds: Should You Use for Investing for Children's Education & Your Retirement? - YouTube](https://www.youtube.com/watch?v=pTPtxE_BkAc)
+
+[Make More from Your SIPs: The Right SIP Frequency, Best SIP Date, and SIP Timing | ET Money - YouTube](https://www.youtube.com/watch?v=OCl-z-IXXEE)

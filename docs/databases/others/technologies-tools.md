@@ -63,6 +63,7 @@ Having usability as its main goal, DBeaver offers:
 - `ctrl + ]` - New sql script
 - `ctrl + \` - Run query in new tab
 - `ctrl + enter` - Run query in same tab
+- `ctrl + /` - toggle line comment
 - `ctrl + shift + f` - format query
 - `ctrl + shift + c` - advanced copy after `ctrl + a` on output to copy all rows with headers to clipboard
 - `ctrl + shift + e` - show execution plan

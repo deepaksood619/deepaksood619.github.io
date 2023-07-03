@@ -578,26 +578,26 @@ You can generate a public-private keypair with thegenrsacontext (the last number
 openssl genrsa -out key.pem 2048
 
 # To extract the public part, use the rsa context:
-  openssl rsa -in keypair.pem -out publickey.crt -pubout
-  openssl rsa -in key.pem -out key.pub -pubout
+openssl rsa -in keypair.pem -out publickey.crt -pubout
+openssl rsa -in key.pem -out key.pub -pubout
 
 # Finally, convert the original keypair to PKCS#8 format with the pkcs8 context:
-  openssl pkcs8 -topk8 -inform PEM -outform PEM -nocrypt -in keypair.pem -out pkcs8.key
+openssl pkcs8 -topk8 -inform PEM -outform PEM -nocrypt -in keypair.pem -out pkcs8.key
 
 # Encrypt and Decrypt a file (using public key to encrypt)
-  echo --pass-- > pass.txt
-  openssl rsautl -in pass.txt -out pass.enc -pubin -inkey key.pub -encrypt
-  openssl rsautl -in pass.enc -out pass.dec -inkey key.pem -decrypt
-  cat pass.dec
+echo --pass-- > pass.txt
+openssl rsautl -in pass.txt -out pass.enc -pubin -inkey key.pub -encrypt
+openssl rsautl -in pass.enc -out pass.dec -inkey key.pem -decrypt
+cat pass.dec
 
 # Compress, Encrypt, Decyrpt, Uncompress a file (using password in pass.txt)
-  echo content > file.txt # overwrite file with content
-  echo content >> file.txt # append content to file.txt
-  gzip file.txt
-  openssl bf -in file.txt.gz -out file.enc -pass file:pass.txt -e
-  openssl bf -in file.enc -out file.dec.gz -pass file:pass.dec -d
-  gzip -d file.dec.gz
-  cat file.dec
+echo content > file.txt # overwrite file with content
+echo content >> file.txt # append content to file.txt
+gzip file.txt
+openssl bf -in file.txt.gz -out file.enc -pass file:pass.txt -e
+openssl bf -in file.enc -out file.dec.gz -pass file:pass.dec -d
+gzip -d file.dec.gz
+cat file.dec
 ```
 
 ### ts

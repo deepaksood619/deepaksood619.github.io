@@ -25,7 +25,7 @@ ON A.columnName = B.columnName;
 
 ### Left [Outer] Join
 
-The left outer join (sometimes abbreviated to left join) returns all rows from theleft-hand table specified in the ON condition andonlythe rows from theright-hand table that meet the join condition.
+The left outer join (sometimes abbreviated to left join) returns all rows from the left-hand table specified in the ON condition and only the rows from the right-hand table that meet the join condition.
 
 ![image](../../media/SQL-Joins-image2.jpg)
 

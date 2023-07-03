@@ -84,7 +84,7 @@ Insufficient logging and monitoring, coupled with missing or ineffective integra
 
 <https://www.toptal.com/security/owasp-top-10-changelog-2017-revision>
 
-## OWASP Cheet Sheet
+## OWASP Cheat Sheet
 
 - [AJAX Security](https://cheatsheetseries.owasp.org/cheatsheets/AJAX_Security_Cheat_Sheet.html)
 - [Abuse Case](https://cheatsheetseries.owasp.org/cheatsheets/Abuse_Case_Cheat_Sheet.html)

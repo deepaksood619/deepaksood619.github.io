@@ -243,7 +243,7 @@ The intensity of the signal each problem sends at any given time is determined b
 14. Revenue Breakup
 15. Capex
 16. Depreciation
-17. Break Even Analysis
+17. Break Even Analysis (BEP - Break Even Point)
 18. DCF Valuation
 19. Dilution
 20. Profitability Charts

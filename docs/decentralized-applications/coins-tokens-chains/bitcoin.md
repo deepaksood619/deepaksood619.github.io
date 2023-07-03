@@ -51,13 +51,11 @@ The Bitcoin Lightning Network is another project being worked on as a second-lay
 
 The Lightning Network uses a network of nodes that hold funds in multi-sig wallets ("channels") and exchange signed, but unbroadcast, transactions.
 
-## Blockchain Trilemma
-
-The blockchain trilemma is a concept coined by [Vitalik Buterin](https://coinmarketcap.com/alexandria/glossary/vitalik-buterin) that proposes a set of three main issues - decentralization, security and scalability - that developers encounter when building blockchains, forcing them to ultimately sacrifice one "aspect" for as a trade-off to accommodatethe other two
-
-## The Scalability Trilemma
+## The Scalability Trilemma / Blockchain Trilemma
 
 ![image](../../media/Bitcoin-Cryptocurrency-Web3-image1.jpg)
+
+The blockchain trilemma is a concept coined by [Vitalik Buterin](https://coinmarketcap.com/alexandria/glossary/vitalik-buterin) that proposes a set of three main issues - decentralization, security and scalability - that developers encounter when building blockchains, forcing them to ultimately sacrifice one "aspect" for as a trade-off to accommodate the other two
 
 <https://medium.com/logos-network/everything-you-know-about-the-scalability-trilemma-is-probably-wrong-bc4f4b7a7ef>
 
@@ -127,6 +125,20 @@ P2PKH addresses start with a "1"
 [Bitcoin's Taproot Upgrade: What You Should Know](https://www.investopedia.com/bitcoin-taproot-upgrade-5210039)
 
 [What are the Taproot Wizards and why do Bitcoin Maxis hate them? | by Ordzaar | May, 2023 | Medium](https://medium.com/@ordzaar/what-are-the-taproot-wizards-and-why-do-bitcoin-maxis-hate-them-6558fb641678)
+
+## Forks
+
+### Bitcoin Cash ($BCH)
+
+This is a Bitcoin hard fork (aka a spinoff) created in 2017 to have lower fees and transaction times (BCH is also one of the four tokens available on the new EDX Market exchange)
+
+### Bitcoin SV ($BSV)
+
+This is a hard fork of Bitcoin Cash (aka it’s a spinoff of the spinoff) with even faster transaction times
+
+### Stacks ($STX)
+
+This is a Layer-2 on the Bitcoin network and helps power stuff like Ordinals (aka NFTs on Bitcoin)
 
 ## Links
 

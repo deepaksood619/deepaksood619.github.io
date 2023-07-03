@@ -1,5 +1,7 @@
 # Types of Governments
 
+turtles move slow, the government moves slower
+
 **Political Ideology**
 
 ### Monarchy

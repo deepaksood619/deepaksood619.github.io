@@ -16,6 +16,8 @@
 
 [Does time really exist? | ‘The Order of Time’ by Carlo Rovelli | Best Science Books | Book Summary - YouTube](https://www.youtube.com/watch?v=fS_2NqD1K8s)
 
+[This book will change your life: THE MOUNTAIN IS YOU by Brianna Wiest | Core Message - YouTube](https://www.youtube.com/watch?v=neIfuuLNUzU)
+
 ## Links
 
 [Productivity Game - YouTube](https://www.youtube.com/@ProductivityGame)

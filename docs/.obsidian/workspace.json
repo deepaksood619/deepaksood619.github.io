@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "economics/mental-models/macroeconomics.md",
+                "file": "decentralized-applications/liquidity-mining.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "pirateba",
+                "query": "elliptic",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -81,8 +81,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -102,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "economics/mental-models/macroeconomics.md",
+                "file": "decentralized-applications/liquidity-mining.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "economics/mental-models/macroeconomics.md",
+                "file": "decentralized-applications/liquidity-mining.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "economics/mental-models/macroeconomics.md"
+                "file": "decentralized-applications/liquidity-mining.md"
               }
             }
           },
@@ -190,45 +189,45 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "d0bbbaae62774b3f",
+  "active": "978fd2faf621af33",
   "lastOpenFiles": [
-    "knowledge/history/crash-course-world-history.md",
-    "office/personality/movies-serials-apps.md",
-    "devops/ides/youtube-podcasts-magazine-apps.md",
-    "decentralized-applications/crypto-investing.md",
-    "office/keep/manoj-papa.md",
-    "office/keep/asha-maa.md",
-    "office/keep/family-other-accounts.md",
-    "office/keep/deepak-banks.md",
-    "knowledge/quotes-proverbs/life.md",
-    "knowledge/quotes-proverbs/science.md",
-    "knowledge/quotes-proverbs/stories.md",
-    "knowledge/quotes-proverbs/tatoos-quotes.md",
-    "knowledge/quotes-proverbs/readme.md",
-    "knowledge/quotes-proverbs/tips.md",
-    "book-summaries/time-and-how-to-spend-it.md",
-    "office/personality/life-lessons-buying-guide-travelling-shopping.md",
-    "knowledge/biology/diseases-tests.md",
-    "psychology/soft-skills/disagreement-feedback.md",
-    "decentralized-applications/crypto-news.md",
-    "decentralized-applications/coins-tokens-chains/dual-token-economy.md",
-    "decentralized-applications/coins-tokens-chains/coin-token-intro.md",
+    "computer-science/security/cryptography/cryptographic-algorithms.md",
+    "decentralized-applications/coins-tokens-chains/wallets.md",
+    "computer-science/security/cryptography/cryptographic-hash-functions.md",
+    "computer-science/security/cryptography/readme.md",
+    "computer-science/security/cryptography/diffie-hellman-key-exchange.md",
+    "computer-science/security/authentication/intro.md",
+    "cloud/aws/storage/readme.md",
+    "devops/terminal-bash/1-linux-general-unix-linux-commands.md",
+    "decentralized-applications/ethereum/layer-2-protocols.md",
+    "book-summaries/principles.md",
+    "knowledge/general/mental-models.md",
+    "management/mental-models.md",
+    "psychology/parenting.md",
+    "decentralized-applications/coins-tokens-chains/bitcoin.md",
+    "decentralized-applications/ethereum/arbitrum.md",
+    "decentralized-applications/ethereum/polygon.md",
+    "python/others/requests.md",
+    "office/cakedefi/infra.md",
+    "office/cakedefi/todo.md",
+    "economics/market-terms/futures-options-trading.md",
     "decentralized-applications/coins-tokens-chains/readme.md",
-    "decentralized-applications/readme.md",
-    "decentralized-applications/coins-tokens-chains/dtokens.md",
-    "about-me/faqs.md",
-    "about-me/ideas/thoughts-future-ideas-vision-prediction.md",
+    "decentralized-applications/coins-tokens-chains/coin-token-intro.md",
+    "devops/ides/youtube-podcasts-magazine-apps.md",
+    "economics/mutual-funds/debt-mutual-funds.md",
+    "office/keep/neha.md",
+    "computer-science/software-engineering/principles.md",
+    "media/Screenshot 2023-06-28 at 11.17.15 PM.png",
+    "media/Pasted image 20230628225903.png",
+    "media/Pasted image 20230626135923.png",
+    "media/Pasted image 20230626095710.png",
+    "media/Pasted image 20230626094711.png",
     "media/Personality-Deepak-image1.jpg",
     "media/Personality-Deepak-&-Neha-Personality-image1.jpg",
     "media/Pasted image 20230623092653.png",
     "office.zip",
     "media/Screenshot 2023-05-30 at 11.59.41 PM.png",
     "media/Screenshot 2023-05-30 at 11.59.25 PM.png",
-    "media/Screenshot 2023-05-30 at 11.59.10 PM.png",
-    "media/Screenshot 2023-05-30 at 11.58.55 PM.png",
-    "media/Screenshot 2023-05-30 at 11.58.29 PM.png",
-    "media/Screenshot 2023-05-30 at 11.57.36 PM.png",
-    "media/Screenshot 2023-05-30 at 11.57.00 PM.png",
     "office/stashfin-credentials",
     "management/people-management",
     "decentralized-applications/coins-tokens-chains",

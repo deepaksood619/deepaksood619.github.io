@@ -41,12 +41,14 @@ Shift characters
 ## 3DES - Triple Data Encryption Algorithm
 
 3DES is a symmetric key block cipher which applies DES algorithm three times to each data block.
+
 3DES uses 3 keys for all 3 rounds of DES. The 3 rounds consists of encryption, decryption and then again encryption.
 
 ## AES (Advanced Encryption Standard)
 
-Is a specification that has selected the Rijndael cipher as its symmetric key ciphering algorithm.- Subs-Perm network
+Is a specification that has selected the Rijndael cipher as its symmetric key ciphering algorithm.
 
+- Subs-Perm network
 - AES - 128
 - randomized enryption
 - nonce-based enryption
@@ -55,6 +57,10 @@ Is a specification that has selected the Rijndael cipher as its symmetric key ci
 <https://hackernoon.com/very-basic-intro-to-aes-256-cipher-qxr32yk>
 
 [**https://www.devglan.com/online-tools/aes-encryption-decryption**](https://www.devglan.com/online-tools/aes-encryption-decryption)
+
+[encryption - How long would it take to brute force an AES-128 key? - Cryptography Stack Exchange](https://crypto.stackexchange.com/questions/48667/how-long-would-it-take-to-brute-force-an-aes-128-key)
+
+[Advanced Encryption Standard (AES) - GeeksforGeeks](https://www.geeksforgeeks.org/advanced-encryption-standard-aes/)
 
 ## Fernet (symmetric encryption)
 
@@ -88,7 +94,7 @@ AES-GCM-SIVis a [mode of operation](https://en.wikipedia.org/wiki/Block_cipher_m
 - Used to authenticate users and allow nodes to communicate with one another over a non-secure medium. Confidentiality and forward secrecy assured.
 - Designed for client-server environment wherein a user might want to use a service over an insecure medium (e.g. LAN)
 
-## Entities
+### Entities
 
 1. Server - resource that could be accessed by the client and TGS
 2. Client - wants to access the resource
@@ -96,7 +102,7 @@ AES-GCM-SIVis a [mode of operation](https://en.wikipedia.org/wiki/Block_cipher_m
 4. Ticket Granting Server (TGS) - the server that issues the ticket
 5. Key Distribution Server (KDC) - knows about the private keys of all entities.
 
-## Drawbacks
+### Drawbacks
 
 - Availability of KDC + centralized point of failures and vulnerabilities
 - Time synchronization and strict deadlines
@@ -111,11 +117,13 @@ Elliptic curves are applicable for [key agreement](https://en.wikipedia.org/wiki
 
 <https://en.wikipedia.org/wiki/Elliptic-curve_cryptography>
 
+[Elliptic Curves - Computerphile - YouTube](https://www.youtube.com/watch?v=NF1pwjL9-DE)
+
 ## ECDSA (Elliptic Curve Digital Signature Algorithm)
 
 In [cryptography](https://en.wikipedia.org/wiki/Cryptography), the ECDSA offers a variant of the [Digital Signature Algorithm](https://en.wikipedia.org/wiki/Digital_Signature_Algorithm)(DSA) which uses [elliptic curve cryptography](https://en.wikipedia.org/wiki/Elliptic_curve_cryptography).
 
-As with elliptic-curve cryptography in general, the bit [size](https://en.wikipedia.org/wiki/Key_size) of the [public key](https://en.wikipedia.org/wiki/Public_key) believed to be needed for ECDSA is about twice the size of the [security level](https://en.wikipedia.org/wiki/Security_level), in bits. For example, at a security level of 80 bits (meaning an attacker requires a maximum of about280operations to find the private key) the size of an ECDSA public key would be 160 bits, whereas the size of a DSA public key is at least 1024 bits. On the other hand, the signature size is the same for both DSA and ECDSA: approximately4tbits, wheretis the security level measured in bits, that is, about 320 bits for a security level of 80 bits.
+As with elliptic-curve cryptography in general, the bit [size](https://en.wikipedia.org/wiki/Key_size) of the [public key](https://en.wikipedia.org/wiki/Public_key) believed to be needed for ECDSA is about twice the size of the [security level](https://en.wikipedia.org/wiki/Security_level), in bits. For example, at a security level of 80 bits (meaning an attacker requires a maximum of about280operations to find the private key) the size of an ECDSA public key would be 160 bits, whereas the size of a DSA public key is at least 1024 bits. On the other hand, the signature size is the same for both DSA and ECDSA: approximately 4 t bits, where t is the security level measured in bits, that is, about 320 bits for a security level of 80 bits.
 
 <https://en.wikipedia.org/wiki/Elliptic_Curve_Digital_Signature_Algorithm>
 

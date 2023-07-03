@@ -33,6 +33,7 @@
 
 - [Netaji Subash Chandra Bose: What Schools don't teach you about India's Real Hero!](https://youtu.be/Wf6X-50OQdE)
 - [Andrew Carnegie - How He Became The World's Richest Man - YouTube](https://www.youtube.com/watch?v=8aIyHl5qP9I)
+- [J.P. Morgan: The Man Who Owned America - YouTube](https://www.youtube.com/watch?v=x1_a20ZDBlU)
 
 ## Thoughts about people
 

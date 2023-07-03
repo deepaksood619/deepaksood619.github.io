@@ -3,7 +3,9 @@
 ## Databricks CLI
 
 ```bash
-pip install --upgrade databricks-cli
+brew tap databricks/tap
+brew install databricks
+databricks -v
 
 databricks configure
 
@@ -30,7 +32,7 @@ databricks secrets put --scope abc-scope --key abc
 
 [Databricks CLI setup & documentation | Databricks on AWS](https://docs.databricks.com/dev-tools/cli/index.html)
 
-[Databricks SQL CLI | Databricks on AWS](https://docs.databricks.com/dev-tools/databricks-sql-cli.html)
+[Databricks CLI | Databricks on AWS](https://docs.databricks.com/dev-tools/cli/databricks-cli.html)
 
 [GitHub - databricks/databricks-cli: Command Line Interface for Databricks](https://github.com/databricks/databricks-cli)
 
