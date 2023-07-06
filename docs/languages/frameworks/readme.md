@@ -9,6 +9,6 @@
 - [Flutter](flutter)
 - [Dash](dash)
 - [Masonite](masonite)
-- [Comparision](comparision)
+- [Comparision](languages/frameworks/comparison.md)
 - [Stacks](stacks)
 - [Others](languages/frameworks/others.md)

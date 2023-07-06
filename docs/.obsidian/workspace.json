@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "devops/ides/mac.md",
+                "file": "python/advanced/web-scraping.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "elliptic",
+                "query": "```python",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "devops/ides/mac.md",
+                "file": "python/advanced/web-scraping.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "devops/ides/mac.md",
+                "file": "python/advanced/web-scraping.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "devops/ides/mac.md"
+                "file": "python/advanced/web-scraping.md"
               }
             }
           },
@@ -191,32 +191,32 @@
   },
   "active": "978fd2faf621af33",
   "lastOpenFiles": [
-    "decentralized-applications/liquidity-mining.md",
-    "computer-science/security/cryptography/cryptographic-algorithms.md",
-    "decentralized-applications/coins-tokens-chains/wallets.md",
-    "computer-science/security/cryptography/cryptographic-hash-functions.md",
-    "computer-science/security/cryptography/readme.md",
-    "computer-science/security/cryptography/diffie-hellman-key-exchange.md",
-    "computer-science/security/authentication/intro.md",
-    "cloud/aws/storage/readme.md",
-    "devops/terminal-bash/1-linux-general-unix-linux-commands.md",
-    "decentralized-applications/ethereum/layer-2-protocols.md",
-    "book-summaries/principles.md",
-    "knowledge/general/mental-models.md",
-    "management/mental-models.md",
-    "psychology/parenting.md",
-    "decentralized-applications/coins-tokens-chains/bitcoin.md",
-    "decentralized-applications/ethereum/arbitrum.md",
-    "decentralized-applications/ethereum/polygon.md",
-    "python/others/requests.md",
-    "office/cakedefi/infra.md",
+    "python/python-intro/datetime.md",
+    "python/advanced/web-scraping.md",
+    "economics/accounting-for-finance/4a-cash-flow-statement-comparisons.md",
+    "economics/accounting-for-finance/2a-income-statement-comparisons.md",
+    "economics/accounting-for-finance/3a-balance-sheet-comparisons.md",
+    "networking/others/comparisons.md",
+    "languages/frameworks/comparison.md",
+    "networking/others/grpc/comparison.md",
+    "databases/nosql-databases/cassandra/data-model.md",
+    "technologies/apache/apache-spark/99-others.md",
+    "technologies/apache/databricks/03-optimizations.md",
+    "technologies/apache/apache-spark/readme.md",
+    "knowledge/biology/mbbs-medicine-medical-health.md",
+    "knowledge/language/grammer-vocabulary.md",
+    "knowledge/general/knowledge-of-humanity.md",
+    "knowledge/applied-sciences/civil-engineering.md",
+    "knowledge/quotes-proverbs/tatoos-quotes.md",
+    "office/personality/resumes-jobs-companies-company.md",
+    "languages/others/markdown.md",
+    "decentralized-applications/crypto-investing.md",
     "office/cakedefi/todo.md",
-    "economics/market-terms/futures-options-trading.md",
-    "decentralized-applications/coins-tokens-chains/readme.md",
-    "decentralized-applications/coins-tokens-chains/coin-token-intro.md",
-    "devops/ides/youtube-podcasts-magazine-apps.md",
-    "economics/mutual-funds/debt-mutual-funds.md",
-    "office/keep/neha.md",
+    "office/blocktoons/todo.md",
+    "databases/nosql-databases/mongodb/intro.md",
+    "ai/data-science/data-visualization/bi-tools.md",
+    "algorithms/data-compression/intro.md",
+    "algorithms/data-compression/others.md",
     "media/Screenshot 2023-06-28 at 11.17.15 PM.png",
     "media/Pasted image 20230628225903.png",
     "media/Pasted image 20230626135923.png",

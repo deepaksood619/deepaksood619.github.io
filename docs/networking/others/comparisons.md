@@ -1,4 +1,4 @@
-# Comparisions
+# Comparisons
 
 ## Avro vs Protobuf
 

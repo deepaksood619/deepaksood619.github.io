@@ -243,6 +243,6 @@ path "prod*" {
 [Kubernetes Secret Management guide beginners using Vault](https://www.youtube.com/playlist?list=PLHq1uqvAteVtq-NRX3yd1ziA_wJSBu3Oj)
 ![image](../../media/Vault-image8.jpg)
 
-## Comparision
+## Comparison
 
 <https://www.cncf.io/announcements/2021/02/23/cncf-provides-insights-into-secrets-management-tools-with-latest-end-user-technology-radar>

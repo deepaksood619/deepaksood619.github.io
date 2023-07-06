@@ -282,19 +282,19 @@ Expert Insights
 
 Statistics
 
-- Browser comparision statistics
+- Browser comparison statistics
 - Browser stastistics
-- Category comparision statistics
+- Category comparison statistics
 - Category statistics
 - Device statistics
 - Geographic statistics
 - Global statistics
 - Google analytics and sendgrid statistics
-- Mailbox provider comparision
+- Mailbox provider comparison
 - Marketing campaigns statistics
 - Statistics overview
 - Subuser statistics
-- Subuser statistics comparision
+- Subuser statistics comparison
 
 Tracking
 

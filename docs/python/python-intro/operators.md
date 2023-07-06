@@ -14,7 +14,7 @@ Python language supports the following types of operators.
 
 Identity vs Equality Operators
 
-- Identity- Identity comparision with "is" and "is not"
+- Identity- Identity comparison with "is" and "is not"
 - Equality- Equality comparisons with "==" and "!="
 
 ## Arithmetic Operators (a = 10, b = 20)

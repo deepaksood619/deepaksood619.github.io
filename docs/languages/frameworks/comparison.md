@@ -1,4 +1,4 @@
-# Comparision
+# Comparison
 
 ## Python vs Nodejs
 
@@ -13,9 +13,7 @@
 - three main reasons that stand behind Node's scalability:
 
     1. It can be easily broken down into microservices.
-
     2. It has an event-based model.
-
     3. It has a non-blocking I/O.
 
 - <https://benchmarksgame-team.pages.debian.net/benchmarksgame/fastest/python.html>

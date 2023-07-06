@@ -382,13 +382,22 @@ brew cleanup # Remove old versions
 brew services cleanup # Remove all unused services
 ```
 
-### Automator
+### Automator (reducing screenshots size)
 
+```bash
 defaults write com.apple.screencapture type JPG
+
+defaults write com.apple.screencapture type PNG
 
 defaults write com.apple.screencapture location "$HOME/Screenshots"
 
-**<https://about.gitlab.com/blog/2020/01/30/simple-trick-for-smaller-screenshots>**
+for f in "$@"
+do
+ mogrify -quality 10% "$f"
+done
+```
+
+<https://about.gitlab.com/blog/2020/01/30/simple-trick-for-smaller-screenshots>
 
 ### ipv6 disable
 

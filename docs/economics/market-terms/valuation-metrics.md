@@ -58,7 +58,7 @@ Earnings per share
 
 1. Simple to understand
 2. Factors in profitability
-3. Excellent relative comparision measure
+3. Excellent relative comparison measure
 
 **Cons**
 

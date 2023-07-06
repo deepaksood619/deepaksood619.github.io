@@ -58,6 +58,24 @@ Photon is the next generation engine on the Databricks Lakehouse Platform that p
 
 [Notes on Photon - Databricks' query engine over data lakes](https://blog.the-pans.com/photon/)
 
+## Database Contraints
+
+Databricks supports standard SQL constraint management clauses. Constraints fall into two categories:
+
+- Enforced constraints ensure that the quality and integrity of data added to a table is automatically verified.
+- Informational primary key and foreign key constraints encode relationships between fields in tables and are not enforced.
+
+### Enforced constraints on Databricks
+
+When a constraint is violated, the transaction fails with an error. Two types of constraints are supported:
+
+- `NOT NULL`: indicates that values in specific columns cannot be null.
+- `CHECK`: indicates that a specified boolean expression must be true for each input row.
+
+[Constraints on Databricks | Databricks on AWS](https://docs.databricks.com/tables/constraints.html#declare-primary-key-and-foreign-key-relationships)
+
+[CONSTRAINT clause | Databricks on AWS](https://docs.databricks.com/sql/language-manual/sql-ref-syntax-ddl-create-table-constraint.html)
+
 ## Links
 
 [delta-lake](networking/others/delta-lake.md)
@@ -65,3 +83,5 @@ Photon is the next generation engine on the Databricks Lakehouse Platform that p
 [Partitions | Databricks on AWS](https://docs.databricks.com/sql/language-manual/sql-ref-partition.html)
 
 [DBeaver integration with Databricks | Databricks on AWS](https://docs.databricks.com/dev-tools/dbeaver.html)
+
+[Introducing English as the New Programming Language for Apache Spark | Databricks Blog](https://www.databricks.com/blog/introducing-english-new-programming-language-apache-spark)

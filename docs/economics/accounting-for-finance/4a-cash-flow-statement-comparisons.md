@@ -1,4 +1,4 @@
-# 4A: Cash Flow Statement Comparisions
+# 4A: Cash Flow Statement Comparisons
 
 ## Cash Flows: A Life Cycle Perspective
 

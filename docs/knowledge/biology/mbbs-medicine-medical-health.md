@@ -151,6 +151,8 @@ An Internist is a physician specialising in internal medicine, treating complex 
 
 <https://en.wikipedia.org/wiki/Urine_therapy>
 
+[Geomancy - Wikipedia](https://en.wikipedia.org/wiki/Geomancy)
+
 ## Others
 
 [How to use the placebo effect to (actually) feel better - YouTube](https://www.youtube.com/watch?v=tefIopDJQBQ)

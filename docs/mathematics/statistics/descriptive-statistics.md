@@ -89,7 +89,7 @@ Standard deviation and coefficient of variation
 
 - **Ranges and variants:** With the range, you look at the difference between the highers and lowest values for a variable, across a sample. In variants, you can look at the difference between the first and third quartile of the data (interquartile range) or between the first and the ninth decile of the data
 - **Standard deviation/Variance:** With the standard deviation, you estimate the difference between each value of a variable and its mean and arrive at a measure of dispersion
-- **Coefficient of variation:** With the coefficient of variation, you divide the standard deviation of a data series by its mean, to provide a measure of comparision with data series of different levels
+- **Coefficient of variation:** With the coefficient of variation, you divide the standard deviation of a data series by its mean, to provide a measure of comparison with data series of different levels
 
 ## Variance and standard deviation
 

@@ -188,7 +188,7 @@ The idea of distance or closeness can break down in very high dimensions (lots o
   - How to evaluate the performance of a model
 - Methods for Performance Evaluation
   - How to obtain reliable estimates?
-- Methods for Model Comparision
+- Methods for Model Comparison
   - How to compare the relative performance among competing models?
 
 ## Limitation of Accuracy
@@ -213,7 +213,7 @@ The idea of distance or closeness can break down in very high dimensions (lots o
     - Class distribution
     - Cost of misclassification
     - Size of training and test sets
-- Methods for Model Comparision
+- Methods for Model Comparison
   - How to compare the relative performance among competing models?
 
 ![image](../../media/K-Nearest-Neighbor-(KNN)-image21.jpg)

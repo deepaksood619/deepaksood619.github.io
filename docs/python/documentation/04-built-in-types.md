@@ -4,7 +4,7 @@
 
 4.2. Boolean Operations - and, or, not
 
-4.3. Comparisions
+4.3. Comparisons
 
 ## 4.4. Numeric Types - int, float, complex
 

@@ -2,34 +2,36 @@
 
 Web Scraping is a technique in which a computer program extracts data from human-readable output coming from websites.
 
-1. lxml.etree
+### lxml.etree
 
-   - theXPath - language for XML queries
+theXPath - language for XML queries
 
-2. beautifulsoup
+### beautifulsoup
 
-   - super short learning curve
+- super short learning curve
+- two function api
+  - parse
+  - search (find_all)
 
-   - two function api
-
-       - parse
-
-       - search (find_all)
-
+```python
 from bs4 import BeautifulSoup
 
 soup = BeautifulSoup(response.text, 'html.parser')
 
 mydivs = soup.find_all("div", {"class": "stylelistrow"})
 print(i, soup.body.div.div)
+```
 
-3. Selenium (for javascript)
+### Selenium (for javascript)
 
-4. Headless browser
-    - [Headless Chromium](https://chromium.googlesource.com/chromium/src/+/lkgr/headless/README)
-    - [Zombie](https://github.com/assaf/zombie)
-    - [slimerjs](http://slimerjs.org/)
-    - [puppeteer](https://github.com/GoogleChrome/puppeteer)
+### Headless browser
+
+- [Headless Chromium](https://chromium.googlesource.com/chromium/src/+/lkgr/headless/README)
+- [Zombie](https://github.com/assaf/zombie)
+- [slimerjs](http://slimerjs.org/)
+- [puppeteer](https://github.com/GoogleChrome/puppeteer)
+
+## Links
 
 <https://www.toptal.com/python/web-scraping-with-python>
 

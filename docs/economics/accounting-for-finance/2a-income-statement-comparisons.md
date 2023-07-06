@@ -1,4 +1,4 @@
-# 2A Income Statement Comparisions
+# 2A Income Statement Comparisons
 
 ## Income Statement: A Life Cycle Perspective
 

@@ -68,7 +68,7 @@
 - Reduce the number of transactions (N)
   - Reduce size of N as the size of itemset increases
   - Used by DHP and vertical-based mining algorithms
-- Reduce the number of comparisions (NM)
+- Reduce the number of comparisons (NM)
   - Use efficient data structures to store the candidates or transactions
   - No need to match every candidate against every transaction
 

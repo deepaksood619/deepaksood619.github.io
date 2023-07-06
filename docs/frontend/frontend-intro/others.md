@@ -50,5 +50,11 @@ brew install imagemagick
 
 mogrify -format jpg /path/to/folder/*.png
 
-mogrify -quality 80% /path/to/folder/*.jpg
+mogrify -format jpg -quality 20% *.png
+
+mogrify -quality 20% /path/to/folder/*.jpg
+
+mogrify -quality 10% *.jpg
 ```
+
+[GitHub - kornelski/pngquant: Lossy PNG compressor — pngquant command based on libimagequant library](https://github.com/kornelski/pngquant)

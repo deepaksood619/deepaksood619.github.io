@@ -187,7 +187,7 @@ Vector databases are designed to handle critical query and algorithmic styles se
 - [Chroma](https://www.trychroma.com/) - the AI-native open-source embedding database
 - [GitHub - chroma-core/chroma: the AI-native open-source embedding database](https://github.com/chroma-core/chroma)
 
-## Comparision
+## Comparison
 
 ![image](../../media/Types-of-Databases-image1.jpg)
 

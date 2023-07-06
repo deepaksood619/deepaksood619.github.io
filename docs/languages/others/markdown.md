@@ -230,11 +230,15 @@ MDX allows you to use JSX in your markdown content. You can import components, s
 
 <https://mdxjs.com>
 
-## Others
+## Markdown here
 
 <https://github.com/adam-p/markdown-here>
- Google Chrome, Firefox, and Thunderbird extension that lets you write email in Markdown and render it before sending.
- <https://markdown-here.com>
+
+Google Chrome, Firefox, and Thunderbird extension that lets you write email in Markdown and render it before sending.
+
+<https://markdown-here.com>
+
+## Others
 
 [Markdown vs. HTML – What Makes the Most Powerful Notes Editor?](https://www.thebrain.com/blog/markdown-vs-html)
 

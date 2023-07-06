@@ -1,4 +1,4 @@
-# Comparision
+# Comparison
 
 ## Performance benchmarks
 
@@ -21,13 +21,14 @@ gRPC is roughly 7 times faster than REST when receiving data & roughly 10 times 
 
 ## gRPC recommended scenarios
 
-- **Microservices--** gRPC is designed for low latency and high throughput communication. gRPC is great for lightweight microservices where efficiency is critical.
-- **Point-to-point real-time communication--** gRPC has excellent support for bi-directional streaming. gRPC services can push messages in real-time without polling.
-- **Polyglot environments--** gRPC tooling supports all popular development languages, making gRPC a good choice for multi-language environments.
-- **Network constrained environments--** gRPC messages are serialized with Protobuf, a lightweight message format. A gRPC message is always smaller than an equivalent JSON message.
+- **Microservices -** gRPC is designed for low latency and high throughput communication. gRPC is great for lightweight microservices where efficiency is critical.
+- **Point-to-point real-time communication -** gRPC has excellent support for bi-directional streaming. gRPC services can push messages in real-time without polling.
+- **Polyglot environments -** gRPC tooling supports all popular development languages, making gRPC a good choice for multi-language environments.
+- **Network constrained environments -** gRPC messages are serialized with Protobuf, a lightweight message format. A gRPC message is always smaller than an equivalent JSON message.
 
 ## gRPC weaknesses
 
 - Limited browser support
 - Not human readable
+
 <https://docs.microsoft.com/en-us/aspnet/core/grpc/comparison>

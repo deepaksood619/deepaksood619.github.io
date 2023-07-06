@@ -4,7 +4,7 @@
 - [VPN](vpn)
 - [5G Wireless Networking](5g-wireless-networking)
 - [Serialization / Deserialization](serialization-deserialization)
-- [Comparisions](comparisions)
+- [Comparisions](networking/others/comparisons.md)
 - [Data Formats](data-formats)
 - [Protocol Buffers Protobuf](protocol-buffers-protobuf)
 - [Apache Avro](apache-avro)

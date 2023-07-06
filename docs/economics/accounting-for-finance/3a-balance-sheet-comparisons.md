@@ -1,4 +1,4 @@
-# 3A: Balance Sheet Comparisions
+# 3A: Balance Sheet Comparisons
 
 ## Balance Sheet: A Life Cycle Perspective
 

@@ -2,29 +2,31 @@
 
 ## Concepts
 
-1. **Tick**
-2. **TimeTuple**
+1. Tick
+2. TimeTuple
 
 ## Modules
 
-1. **Time**
-2. **Datetime**
-3. **Pytz**
-4. **Dateutil**
-5. **Calendar**
+1. Time
+2. Datetime
+3. Pytz
+4. Dateutil
+5. Calendar
 
 ### Time
 
 ```python
-Import time
+import time
 
-Time.time() - Gives current time (in number of ticks since 12:00am, January 1, 1970)
+time.time()
+# Gives current time (in number of ticks since 12:00am, January 1, 1970)
 ```
 
 #### Time a running process
 
 ```python
  import time
+
  start_time = time.time()
  end_time = time.time()
  print("time taken = %4.4f seconds" % (end_time-start_time))

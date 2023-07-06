@@ -5,9 +5,9 @@
 - Financial statements measure operations in absolute terms, i.e. in dollars, rupees or reais, depending upon the currency of denomination
 - Absolute measures are difficult, if not impossible, to compare across companies, since bigger companies, all else held constant, should have bigger dollar profits and carry more debt
 - Ratios scale absolute values to each other, and allow for
-  - Comparisions across companies
-  - Comparisions across time
-  - Comparisions to benchmarks
+  - Comparisons across companies
+  - Comparisons across time
+  - Comparisons to benchmarks
 
 ## 1. Profit Margins
 

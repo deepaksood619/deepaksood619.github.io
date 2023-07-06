@@ -52,10 +52,10 @@
     np.cos(b)   #element-wise cosine
     np.log(a)    #element-wise natural logarithm
     e.dot(f)       # dot product
-- Comparision
-    a == b     #element-wise comparision
-    a < 2       # element-wise comparision
-    np.array_equal(a,b)      #array-wise comparision
+- Comparison
+    a == b     #element-wise comparison
+    a < 2       # element-wise comparison
+    np.array_equal(a,b)      #array-wise comparison
 - Aggregate Functions
     a.sum()                 #array-wise sum
     a.min()                  #array-wise mimimum value

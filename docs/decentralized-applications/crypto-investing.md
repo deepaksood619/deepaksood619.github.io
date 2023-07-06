@@ -1,6 +1,6 @@
 # Crypto Investing
 
-### Gas Fees Comparision
+### Gas Fees Comparison
 
 - [L1 & L2 Comparisons & Benchmarks - Cross-Chain Usage, Growth, Gas, Fees](https://dune.com/msilb7/l2-and-l1-fee-comparison-benchmarks)
 - [Fees - DefiLlama](https://defillama.com/fees)
@@ -29,6 +29,7 @@
 - [Buy Bitcoin & Ethereum | Cryptocurrency Exchange | Bittrex Global](https://global.bittrex.com/)
 - [Bitpanda Cash Plus](https://www.bitpanda.com/en/bitpanda-cash-plus)
 - [Roots - build wealth through real estate](https://www.investwithroots.com/)
+- [Nexo: Buy, Exchange, and Store Bitcoin & Crypto](https://nexo.com/)
 
 ![ranks-of-bitcoin-holders](../media/Screenshot%202023-04-03%20at%209.02.03%20AM.png)
 

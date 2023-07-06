@@ -55,9 +55,9 @@ Jus soli
 
 Jus sanguine
 
-Kaizen
+Kaizen - <https://www.investopedia.com/terms/k/kaizen.asp>
 
-<https://www.investopedia.com/terms/k/kaizen.asp>
+Feng Shui - wind-water - is an [ancient Chinese](https://en.wikipedia.org/wiki/Ancient_China "Ancient China") traditional practice which claims to use energy forces to harmonize individuals with their surrounding environment. - [Feng shui - Wikipedia](https://en.wikipedia.org/wiki/Feng_shui)
 
 Of the people, by the people, for the people
 

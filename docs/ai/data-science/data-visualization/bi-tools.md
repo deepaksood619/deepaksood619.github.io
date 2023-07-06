@@ -86,6 +86,8 @@ Your questions can be saved for later, making it easy to come back to them, or y
 
 <https://github.com/metabase/metabase>
 
+[Joins in Metabase](https://www.metabase.com/learn/questions/joins-in-metabase)
+
 ## Others
 
 <https://www.talend.com/>

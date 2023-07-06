@@ -340,7 +340,7 @@ In order to keep a system secure, it is advisable to conduct a pentest on a regu
 - Code Based Testing
 - Code Driven Testing
 - Code Free Testing
-- Comparision Testing
+- Comparison Testing
 - Combatibility Testing
 - Compliance Testing
 - Concurrency Testing

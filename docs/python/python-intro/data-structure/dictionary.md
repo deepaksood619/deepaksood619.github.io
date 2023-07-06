@@ -100,7 +100,7 @@ Compares elements of both dict
 
 Not supported in python3, use dict1==dict2 instead
 
-Library deepdiff can be used for advanced comparisions
+Library deepdiff can be used for advanced comparisons
 
 - len(dict)
 
