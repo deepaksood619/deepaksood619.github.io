@@ -72,3 +72,9 @@ On May 7, the price of the then-$18-billion algorithmic stablecoin terraUSD (UST
 [This SAYS It ALL!! Crypto Adoption Incoming!! - YouTube](https://www.youtube.com/watch?v=J6-LCwPRJWo)
 
 [US Government Plan For Crypto, CBDC, Ukraine, China & More!! - YouTube](https://www.youtube.com/watch?v=nUyJ911jmL0)
+
+[ETH to $50,000?! Crypto Price Prediction Report! - YouTube](https://www.youtube.com/watch?v=PQsb5TX56QY)
+
+[ETHEREUM Updates!! Where Is ETH Price Going In 2023?! - YouTube](https://www.youtube.com/watch?v=FcT9AnkO6GY)
+
+[Bitcoin Is GROWING Fast!! Ethereum Dominance OVER!? - YouTube](https://www.youtube.com/watch?v=IyuwI5q7HwA)

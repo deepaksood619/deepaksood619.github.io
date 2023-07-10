@@ -279,7 +279,7 @@ There are three important structures used to represent dictionaries:
 
 - The dictionary struct (PyDictObject), representing the entire dictionary object.
 - A keys object (PyDictKeysObject), which contains the hash table indices array (dk_indices).
-- An entries array, which appears directly after the correspondingPyDictKeysObjectin memory and holds the entries referenced bydk_indices.
+- An entries array, which appears directly after the corresponding PyDictKeysObject in memory and holds the entries referenced bydk_indices.
 
 ## Generating an index
 

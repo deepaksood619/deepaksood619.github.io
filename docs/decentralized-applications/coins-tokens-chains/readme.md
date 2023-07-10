@@ -15,6 +15,7 @@
 - [vechain](decentralized-applications/coins-tokens-chains/vechain.md)
 - [thorchain](decentralized-applications/coins-tokens-chains/thorchain.md)
 - [uniswap](decentralized-applications/coins-tokens-chains/uniswap.md)
+- [Near Protocol](decentralized-applications/coins-tokens-chains/near-protocol.md)
 
 ## Coins
 

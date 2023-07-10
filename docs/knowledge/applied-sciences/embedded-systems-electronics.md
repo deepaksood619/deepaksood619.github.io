@@ -124,3 +124,5 @@ The usual way to mitigate this is to have the interrupt controller set a special
 [Design for testing (DFT) - Wikipedia](https://en.wikipedia.org/wiki/Design_for_testing)
 
 [Using DFT Architecture for Superior SoC Testing](https://medium.com/@einfochips/using-dft-architecture-for-superior-soc-testing-9f2c1b290252)
+
+[Basic Electronics Part 1 - YouTube](https://www.youtube.com/watch?v=nb4ovfwqup8)

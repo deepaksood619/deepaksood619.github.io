@@ -28,9 +28,9 @@ The term [Oceania](https://en.wikipedia.org/wiki/Oceania) refers to a group of [
 
 [How the World Map Looks Wildly Different Than You Think](https://youtu.be/lPNrtjboISg)
 
-- Mercator Projection
+## Mercator Projection
 
-TheMercator projection([/mərˈkeɪtər/](https://en.wikipedia.org/wiki/Help:IPA/English)) is a [cylindrical map projection](https://en.wikipedia.org/wiki/Cylindrical_map_projection) presented by [Flemish](https://en.wikipedia.org/wiki/Flemish_people) geographer and cartographer [Gerardus Mercator](https://en.wikipedia.org/wiki/Gerardus_Mercator) in 1569. It became the standard map projection for [navigation](https://en.wikipedia.org/wiki/Navigation) because it is unique in representing north as up and south as down everywhere while preserving local directions and shapes. The map is thereby [conformal](https://en.wikipedia.org/wiki/Conformal_map_projection). As a side effect, the Mercator projection inflates the size of objects away from the equator. This inflation is very small near the equator but accelerates with increasing [latitude](https://en.wikipedia.org/wiki/Latitude) to become infinite at the poles. As a result, landmasses such as [Greenland](https://en.wikipedia.org/wiki/Greenland) and [Antarctica](https://en.wikipedia.org/wiki/Antarctica) appear far larger than they actually are relative to landmasses near the equator, such as Central Africa.
+The Mercator projection ([/mərˈkeɪtər/](https://en.wikipedia.org/wiki/Help:IPA/English)) is a [cylindrical map projection](https://en.wikipedia.org/wiki/Cylindrical_map_projection) presented by [Flemish](https://en.wikipedia.org/wiki/Flemish_people) geographer and cartographer [Gerardus Mercator](https://en.wikipedia.org/wiki/Gerardus_Mercator) in 1569. It became the standard map projection for [navigation](https://en.wikipedia.org/wiki/Navigation) because it is unique in representing north as up and south as down everywhere while preserving local directions and shapes. The map is thereby [conformal](https://en.wikipedia.org/wiki/Conformal_map_projection). As a side effect, the Mercator projection inflates the size of objects away from the equator. This inflation is very small near the equator but accelerates with increasing [latitude](https://en.wikipedia.org/wiki/Latitude) to become infinite at the poles. As a result, landmasses such as [Greenland](https://en.wikipedia.org/wiki/Greenland) and [Antarctica](https://en.wikipedia.org/wiki/Antarctica) appear far larger than they actually are relative to landmasses near the equator, such as Central Africa.
 
 <https://en.wikipedia.org/wiki/Mercator_projection>
 
@@ -38,5 +38,21 @@ TheMercator projection([/mərˈkeɪtər/](https://en.wikipedia.org/wiki/Help:IPA
 
 <https://thetruesize.com>
 
+[Maps Distort How We See the World - by Tomas Pueyo](https://unchartedterritories.tomaspueyo.com/p/maps-distort-how-we-see-the-world)
+
 - India is bigger than greenland
 - Russia is not as big as it seems
+
+![true-size-of-countries-landmass](media/Pasted%20image%2020230710130538.png)
+
+So the Mercator projection clearly distorts our perception of the world. But it’s not the only way it’s distorted. We center our map around the equator and the [reference meridian](https://en.wikipedia.org/wiki/IERS_Reference_Meridian), which goes [through London](https://en.wikipedia.org/wiki/Prime_meridian_(Greenwich)).
+
+What happens if you center it on Argentina instead?
+
+![center-around-argentina](media/Pasted%20image%2020230710130702.png)
+
+_This shows how far away from everything Chile is, at the bottom left of South America. Poor lonely Chile. Your Australian editor Shoni would also want to claim lonely status for New Zealand._
+
+Conversely, if you center the map around Alaska, you can see why it has the [3rd biggest airport](https://www.internationalairportreview.com/article/107921/top-10-busiest-airports-world-cargo/) in the world in terms of cargo: it’s the most central point to all the big markets in the northern hemisphere.
+
+![alaska-center-hub](media/Pasted%20image%2020230710130750.png)

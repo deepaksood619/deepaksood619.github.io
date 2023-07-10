@@ -20,6 +20,7 @@
 - [Investment Terms](investment-terms)
 - [Investment Banking](investment-banking)
 - [Market Terms](market-terms/readme.md)
+  - [IPO](economics/market-terms/ipo.md)
   - [Technical Analysis](market-terms/technical-analysis)
   - [Technical Indicators](market-terms/technical-indicators)
   - [Valuation Metrics](market-terms/valuation-metrics)

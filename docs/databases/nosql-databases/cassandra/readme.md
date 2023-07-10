@@ -8,4 +8,4 @@
 - [CQL (Cassandra Query Language)](cql-cassandra-query-language)
 - [Commands](commands)
 - [Drivers / Clients](drivers-clients)
-- [Questions](questions)
+- [Questions](databases/nosql-databases/cassandra/questions.md)

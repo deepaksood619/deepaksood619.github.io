@@ -4,7 +4,7 @@
 - [Basic](basic)
 - [Promises](promises)
 - [Others](frontend/js-javascript/others.md)
-- [Questions](questions)
+- [Questions](frontend/js-javascript/questions.md)
 - [TypeScript](typescript)
 - [Web API](web-api)
 - [Libraries](libraries)

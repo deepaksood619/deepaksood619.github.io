@@ -132,3 +132,5 @@ So, just what happens when you deliberately try to stretch a muscle? Sarcomeres 
 [Cold-Water Immersion and Cryotherapy: Neuroendocrine and Fat Browning Effects](https://www.youtube.com/watch?v=XaLd5w6zF7A)
 
 [No.1 Heart Surgeon: Cardio Is A Waste Of Time For Weight Loss! Philip Ovadia | E240 - YouTube](https://www.youtube.com/watch?v=V7a8X8AB8yU)
+
+[Exercise Makes You Smarter - This Is Why (animated) - YouTube](https://www.youtube.com/watch?v=D4UKd1iOUeo)

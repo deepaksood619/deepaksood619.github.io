@@ -133,12 +133,8 @@ As a general rule, "has" is used in the third person singular ("he", "she", "it"
 - **prescient** - having or showing knowledge of events before they take place. "a prescient warning"
 - **Midas Touch** - the ability to make money out of anything one undertakes.
 - autodidact - a self-taught person
-
-## Others
-
 - BYOD - Bring Your Own Device
 - BYOB - Bring Your Own Booze
-
 - An axe to grind
 - It's an exception not a majority
 - Consious mindful cognizant
@@ -154,3 +150,4 @@ As a general rule, "has" is used in the third person singular ("he", "she", "it"
 - Shilling is _when a person or group of persons promotes a particular cryptocurrency to create excitement for it_.
 - NGMI - not gonna make it
 - Phenomenon (singular) vs Phenomena (plural)
+- Iconoclastic - criticizing or attacking cherished beliefs or institutions.

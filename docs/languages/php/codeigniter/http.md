@@ -8,7 +8,7 @@ While PHP provides ways to interact with the request and response headers, CodeI
 
 The [IncomingRequest class](https://codeigniter.com/user_guide/incoming/incomingrequest.html) is an object-oriented representation of the HTTP request. It provides everything you need:
 
-use CodeIgniterHTTPIncomingRequest;
+use CodeIgniter HTTPIncomingRequest;
 
 $request = service('request');
 

@@ -50,7 +50,7 @@ The core object in sMAP is the timeseries, a single progression of(time, value)t
 The sMAP architecture consists of several components which may be used together to capture, transmit, store, and present time-series data:
 
 - **sMAP Sources** communicate with existing instrumentation, and collect time-series data using a large variety of underlying protocols. They use thesMAP Libraryto describe and reliably communicate this data to consumers, as well as provide uniform access to actuators.
-- the**sMAP Archiver** is a high-performance historian for storing large volumes of stored data. It provides a simple and powerful interface for making use of historical data and real-time data, and addresseslocatingandcleaningthe raw data.
+- the **sMAP Archiver** is a high-performance historian for storing large volumes of stored data. It provides a simple and powerful interface for making use of historical data and real-time data, and addresses locating and cleaning the raw data.
 - **Applications** make use of historical and/or real-time data in order to achieve a higher-level goal; for instance, providing attractive visualizations, computing optimal control strategies, or providing user feedback. By default, the sMAP project provides **powerdb2**, a time-series organization and plotting application.
 
 - sMAP Sources

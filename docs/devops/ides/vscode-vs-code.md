@@ -20,6 +20,7 @@ codeanywhere
 
 ## Extensions
 
+- Github Copilot
 - Docker
 - Kubernetes
 - Git graph

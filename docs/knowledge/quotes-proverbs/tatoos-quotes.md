@@ -51,6 +51,8 @@ Cui bono (who benefits)
 
 Ceteris Paribus - All else held equal
 
+Audi alteram partem - Latin phrase meaning "listen to the other side", or "let the other side be heard as well"
+
 Jus soli
 
 Jus sanguine

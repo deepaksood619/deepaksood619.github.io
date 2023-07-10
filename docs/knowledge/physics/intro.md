@@ -4,9 +4,9 @@
 
 ## Momentum
 
-In [Newtonian mechanics](https://en.wikipedia.org/wiki/Newtonian_mechanics), linear momentum, translational momentum, or simplymomentum([pl.](https://en.wikipedia.org/wiki/Plural) momenta) is the product of the [mass](https://en.wikipedia.org/wiki/Mass) and [velocity](https://en.wikipedia.org/wiki/Velocity) of an object. It is a [vector](https://en.wikipedia.org/wiki/Euclidean_vector) quantity, possessing a magnitude and a direction in three-dimensional space. Ifmis an object's mass andvis the velocity (also a vector), then the momentum is
+In [Newtonian mechanics](https://en.wikipedia.org/wiki/Newtonian_mechanics), linear momentum, translational momentum, or simply momentum([pl.](https://en.wikipedia.org/wiki/Plural) momenta) is the product of the [mass](https://en.wikipedia.org/wiki/Mass) and [velocity](https://en.wikipedia.org/wiki/Velocity) of an object. It is a [vector](https://en.wikipedia.org/wiki/Euclidean_vector) quantity, possessing a magnitude and a direction in three-dimensional space. Ifmis an object's mass andvis the velocity (also a vector), then the momentum is
 
-p = mv
+`p = mv`
 
 In [SI units](https://en.wikipedia.org/wiki/International_System_of_Units), it is measured in [kilogram meters per second](https://en.wikipedia.org/wiki/Kilogram_metre_per_second)([kg](https://en.wikipedia.org/wiki/Kilogram)⋅[m/s](https://en.wikipedia.org/wiki/Meters_per_second)).[Newton's second law](https://en.wikipedia.org/wiki/Newton%27s_second_law) of motion states that a body's rate of change in momentum is equal to the net force acting on it.
 
@@ -15,8 +15,6 @@ Momentum depends on the [frame of reference](https://en.wikipedia.org/wiki/Frame
 Advanced formulations of classical mechanics, [Lagrangian](https://en.wikipedia.org/wiki/Lagrangian_mechanics) and [Hamiltonian mechanics](https://en.wikipedia.org/wiki/Hamiltonian_mechanics), allow one to choose coordinate systems that incorporate symmetries and constraints. In these systems the conserved quantity isgeneralized momentum, and in general this is different from thekineticmomentum defined above. The concept of generalized momentum is carried over into quantum mechanics, where it becomes an operator on a [wave function](https://en.wikipedia.org/wiki/Wave_function). The momentum and position operators are related by the [Heisenberg uncertainty principle](https://en.wikipedia.org/wiki/Heisenberg_uncertainty_principle).
 
 In continuous systems such as electromagnetic fields, fluids and deformable bodies, a momentum density can be defined, and a continuum version of the conservation of momentum leads to equations such as the [Navier--Stokes equations](https://en.wikipedia.org/wiki/Navier%E2%80%93Stokes_equations) for fluids or the [Cauchy momentum equation](https://en.wikipedia.org/wiki/Cauchy_momentum_equation) for deformable solids or fluids.
-
-## References
 
 <https://en.wikipedia.org/wiki/Momentum>
 
@@ -61,3 +59,7 @@ Neutron - 1 up quark and 2 down quarks
 [Particle physics made easy - with Pauline Gagnon - YouTube](https://www.youtube.com/watch?v=Gg35wa82pLQ)
 
 [Did AI Prove Our Proton Model WRONG? - YouTube](https://www.youtube.com/watch?v=TbzZIMQC6vk)
+
+## Others
+
+[BREAKING: New Phase of Matter - YouTube](https://www.youtube.com/watch?v=ieDIpgso4no)

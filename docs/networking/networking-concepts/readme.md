@@ -10,7 +10,7 @@
 - [Routing](routing)
 - [CIDR](cidr)
 - [Sockets](sockets)
-- [Questions](questions)
+- [Questions](networking/networking-concepts/questions.md)
 - [Data Center Networking](data-center-networking)
 - [Networking Fabric](networking-fabric)
 - [Forward Error Correction](forward-error-correction)

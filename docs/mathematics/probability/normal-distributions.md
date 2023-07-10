@@ -47,9 +47,9 @@ The normal distribution is useful because of the [central limit theorem](https:/
 
 2. Symmetrical -left and right halves are mirror images
 
-3. Bell-shaped-maximumheight(mode)atthemean
+3. Bell-shaped-maximum height (mode) at the mean
 
-4. Mean, Mode, andMedianarealllocatedinthecenter
+4. Mean, Mode, and Median are all located in the center
 
 5. Asymptotic
 <https://en.wikipedia.org/wiki/Normal_distribution>

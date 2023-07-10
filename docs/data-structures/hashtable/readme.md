@@ -15,4 +15,4 @@
 - [DHT - Distributed Hash Tables](dht-distributed-hash-tables)
 - [Chord](chord)
 - [Kademlia](kademlia)
-- [Questions](questions)
+- [Questions](data-structures/hashtable/questions.md)

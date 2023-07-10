@@ -16,6 +16,8 @@ An investor without an investment objective is like a traveler without a destina
 
 In investing, what is comfortable is rarely profitable -- Robert Arnott
 
+If inflation is 5% then your existing money will be half of what it is now in 14 years
+
 <https://freefincal.com/hdfc-corporate-bond-fund>
 
 Parag Parikh Flexi Cap
@@ -59,23 +61,27 @@ Sequence of Returns - [what sequence of returns risk](https://www.youtube.com/wa
 
 [Intangible Assets: The Invisible Superhero Of Investing | ET Money](https://youtu.be/XG4esIF_eGE)
 
+## Alternative Investments
+
 [Alternative Investment Options | Should You Go for them? | ET Money](https://www.youtube.com/watch?v=_dAH-7EdAUw)
 
 Alternative investments are of many types: There are hedge funds, private equity, commodities like agricultural produce, energy and metals, etc. Then there is real estate, venture capital, private debt placement, peer-to-peer lending, investing in start-ups, arts & antiques, vintage coins, stamps, etc. In addition to the higher returns most alternative investments are not linked to the stock markets or even the bond markets which then acts as an asset hedge and can be used by investors to diversify one's portfolio.
 
-## P2P LENDING (Peer to peer lending)
+### P2P LENDING (Peer to peer lending)
 
 In P2P lending programs depositors or lenders earn more interest on their money and likewise, more borrowers can get access to finance with customized approval procedures. In essence, P2P lending platforms like Faircent, Lendbox, LiquiLoans, RupeeCircle etc. act more as facilitators and risk mitigators. In the process, they provide a range of facilities which includes on-boarding, credit evaluation, agreement signing, disbursement of loans and collection services. Individual lenders can now select borrowers per their preferred loan criteria, location, profile, reason for loan loan tenure which is typically between 3 to 36 months and their desired rate of interest which ranges from 12 to 35%.
 
-## FRACTIONAL REAL ESTATE
+### FRACTIONAL REAL ESTATE
 
 Traditionally, investing in real estate requires capital ranging from a few lakhs to a few crores. But now platforms like Strata, PropShare etc. have made it possible for retail investors to own commercial real estate in smaller proportions. The business model starts off with the fractional ownership platform identifying an investable Grade A property like a commercial building or a warehouse. Ofcourse, the properties that are identified almost always has an existing tenant who's been locked on a long-term contract which helps with cash flow visibility. Fractional ownership startups generally charge an annual asset management fee of about 1% and they also take in share of the profits over a particular hurdle rate. From an investor's perspective Like any real estate, the owner receives a monthly rental income which comes with built-in rent escalations. Additionally, the investor also benefits from the price appreciation that these properties have over the years.
 
-## HIGH YIELDING FIXED INCOME INVESTMENTS
+- Strata for investment in commercial property
+
+### HIGH YIELDING FIXED INCOME INVESTMENTS
 
 For the last two years, fixed deposit investors have been a grieving lot with FD returns struggling to match the inflation rate. But now, we are seeing a boom in start-ups offering bonds, structured debt and other high yielding fixed income instruments to retail investors as they look to make a dent in the 1.5 trillion dollar fixed deposit market. One of these weapons of FD destruction are high yielding debt instruments which in addition to offering higher interest rates also allows investors to put in amounts as low as 10,000 rupees. Platforms like Wint Wealth, BondsKart, AltiFi etc. offer products like government bonds, AAA rated papers from lending institutions, high yielding BBB rated corporate bonds, private bond placements and also structured debt.
 
-## INVOICE DISCOUNTING
+### INVOICE DISCOUNTING
 
 There is usually a time lag between a vendor supplying goods or services and he getting paid for it. Now, to better manage cash flows during this period, vendors typically approach a bank or a financial institution who then purchases these receivables at a discount for upfront cash. Today, several platforms like KredX, Jiraaf, TradeCred etc. have skipped the banking connection and match vendors and investors who are keen to participate in this financial opportunity Now, invoices can run into lakhs and even crores which is why these platforms break up an invoice into manageable parts allowing investors to buy a fraction of the unpaid invoice amount. The minimum investment amount changes from deal to deal but we do see transactions starting from 50,000 rupees in some cases. These opportunities typically run for a short tenure of 30 to 90 days and the pre-tax IRR can be as high as 15%.
 
@@ -83,7 +89,7 @@ Is a method of financing used by small businesses to fulfil their working capita
 
 [TradeCred](https://www.tradecred.com/)
 
-## Masterworks
+### Masterworks
 
 Masterworks is the first platform for buying and selling shares representing an investment in iconic artworks.
 
@@ -91,13 +97,9 @@ Masterworks is the first platform for buying and selling shares representing an 
 
 ## Strategies
 
-- **Value Investing**
+- **Value Investing** - <https://www.youtube.com/watch?v=CZA3rVOfti8>
 
-<https://www.youtube.com/watch?v=CZA3rVOfti8>
-
-- **Growth Investing**
-
-<https://www.youtube.com/watch?v=TLGalocqj00>
+- **Growth Investing** - <https://www.youtube.com/watch?v=TLGalocqj00>
 
 ## Quotes / Tips / Philosophy
 

@@ -19,3 +19,5 @@ Compared to Polkadot and Cosmos
 
 [POLYGON (MATIC) - Ethereum's Internet Of Blockchains Explained - Layer 2 - YouTube](https://www.youtube.com/watch?v=IijtdpAtOt0)
 [Polygon PoS Chain - A Commit Chain? DeFi Explained - YouTube](https://www.youtube.com/watch?v=f7F67ZP9fsE)
+
+[What is Polygon? MATIC Explained with Animations - YouTube](https://www.youtube.com/watch?v=GWUwFDFOipo)

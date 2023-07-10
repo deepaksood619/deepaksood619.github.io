@@ -12,7 +12,7 @@
 - [Template FastIO](template-fastio)
 - [Knowledge](knowledge)
 - [JVM Architecture](jvm-architecture)
-- [Questions](questions)
+- [Questions](languages/java/questions.md)
 - [Spring](spring)
 - [Libraries](libraries)
 - [Others](languages/java/others.md)

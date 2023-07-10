@@ -1016,6 +1016,8 @@ We are just a chemical scum on a medium-sized planet, orbiting an average star i
 
 [The 5 core principles of life | Nobel Prize-winner Paul Nurse - YouTube](https://www.youtube.com/watch?v=5EwVBC3VsRA)
 
+---
+
 **Aristotle**
 
 Think about time as divided into the past, the present and the future and then think for a while about what the present is, how thick is the present? The present is just the limit between the past and the future.
@@ -1023,3 +1025,9 @@ Think about time as divided into the past, the present and the future and then t
 And then you get the paradox.
 
 Because the past is something that does not exist, it has existed but it doesn't exist any longer. The future is something that does not exist, it will exist, but it doesn't exist. And the present is nothing - so the present seems to be a nothing dividing something non-existent from something non-existent.
+
+---
+
+Don't hate the players hate the game
+
+Comparison is the thief of joy

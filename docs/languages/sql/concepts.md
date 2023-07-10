@@ -110,3 +110,9 @@ A regular JOIN can be used to find matching values in a subquery. Like EXISTS, J
 [T-SQL commands performance comparison - NOT IN vs NOT EXISTS vs LEFT JOIN vs EXCEPT](https://www.sqlshack.com/t-sql-commands-performance-comparison-not-vs-not-exists-vs-left-join-vs-except/)
 
 - methods that use the SQL NOT EXISTS and the LEFT JOIN commands has the least execution costs, and the method that uses the NOT IN command has the heaviest query cost
+
+## Others
+
+### NULL
+
+<http://www-cs-students.stanford.edu/~wlam/compsci/sqlnulls>

@@ -408,25 +408,25 @@ Due to the internet, our recall memory has become less necessary, because now we
 - It prompts the creation of study material to be used when preparing for exams.
 - It helps to identify errors or areas of confusion.
 
-## Step 1: Survey the textbook and chapters
+### Step 1: Survey the textbook and chapters
 
 - Read the preface and introduction to the text, and browse through the table of contents and the index. This will describe the main topics and the basic organizational structure of the book.
 - Read the introduction and conclusion in each chapter and subsection.
 - Scan the titles and subtitles. Study the pictures, charts, or graphs.
 - Read the summary and any chapter questions.
 
-## Step 2: Start with a question
+### Step 2: Start with a question
 
 - Take the section title, subtitle, or the first sentence of each paragraph and turn it into a question.
 - For example: "Functions of the spinal cord" becomes "What are the functions of the spinal cord?"
 
-## Step 3: Read actively
+### Step 3: Read actively
 
 - Read carefully and actively by creating a "dialogue" with the text.
 - Try to find the answer to the question you created, and ask questions as you read.
 - Be careful not to skim the text looking for the answer, as you might miss other important information.
 
-## Step 4: Respond to your question
+### Step 4: Respond to your question
 
 - Close the textbook and answer the question you created in your own words.
 - If you can't answer the question, reread the section until you can.
@@ -434,7 +434,7 @@ Due to the internet, our recall memory has become less necessary, because now we
 - If that doesn't help, you may need to change your question. Try making it broader or narrower.
 - If changing your question doesn't help, get some assistance. Your instructor or TA are good places to start, or contact Learning Services.
 
-## Step 5: Record Your notes
+### Step 5: Record Your notes
 
 - Once you understand the material and can summarize it in your own words make a record of it.
 - Common methods are highlighting and/or marking the text, or taking notes, or some combination of both.
@@ -442,7 +442,7 @@ Due to the internet, our recall memory has become less necessary, because now we
 - See belowfor the pros and cons of notetaking and highlighting.
 - See our resources for help with note taking.
 
-## Step 6: Review Your notes
+### Step 6: Review Your notes
 
 - Do a thorough review of lecture and text notes weekly, and briefly before each class.
 - Make weekly review periods effective by starting from the beginning of the course in each review session. Though the volume of review material increases as the semester progresses, the amount of time needed to review older material decreases. After you've reviewed the first week's material a few times, it will take only minutes to skim over it and recall the key points.
@@ -481,3 +481,7 @@ You understand an idea not when you've memorized it, but when you know why its s
 [How to study for exams - Evidence-based revision tips - YouTube](https://www.youtube.com/watch?v=ukLnPbIffxE)
 
 [Augmenting Long term Memory - Michael Nielsen (The Accelerated Learning Canon) - YouTube](https://www.youtube.com/watch?v=o0-iULLKlfA)
+
+[Critical Listening: How to Quickly Understand Difficult Things - YouTube](https://www.youtube.com/watch?v=UlMCTUvxa78)
+
+[You’re Not Stupid: How to Easily Learn Difficult Things - YouTube](https://www.youtube.com/watch?v=Kz_brQBl8xk)

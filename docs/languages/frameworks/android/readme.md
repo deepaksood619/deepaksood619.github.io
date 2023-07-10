@@ -301,11 +301,11 @@ Serializable is a standard Java interface. You simply mark a class Serializable 
 
 Parcelable is an Android specific interface where you implement the serialization yourself. It was created to be far more efficient than Serializable, and to get around some problems with the default Java serialization scheme.
 
-## What is the difference betweenServiceandIntentService? How is each used?
+## What is the difference between Service and IntentService? How is each used?
 
 Serviceis the base class for Android services that can be extended to create any service. A class that directly extendsServiceruns on the main thread so it will block the UI (if there is one) and should therefore either be used only for short tasks or should make use of other threads for longer tasks.
 
-IntentServiceis a subclass ofServicethat handles asynchronous requests (expressed as "Intents") on demand. Clients send requests throughstartService(Intent)calls. The service is started as needed, handles eachIntentin turn using a worker thread, and stops itself when it runs out of work. Writing anIntentServicecan be quite simple; just extend theIntentServiceclass and override theonHandleIntent(Intent intent)method where you can manage all incoming requests.
+IntentService is a subclass of Servicethat handles asynchronous requests (expressed as "Intents") on demand. Clients send requests throughstartService(Intent)calls. The service is started as needed, handles eachIntentin turn using a worker thread, and stops itself when it runs out of work. Writing anIntentServicecan be quite simple; just extend theIntentServiceclass and override the onHandleIntent(Intent intent)method where you can manage all incoming requests.
 
 ## What is ANR, and why does it happen?
 

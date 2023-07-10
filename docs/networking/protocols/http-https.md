@@ -139,7 +139,8 @@ An HTTP cookie (also called web cookie, Internet cookie, browser cookie, or simp
 
 ## XHR (XMLHttpRequest)
 
-XMLHttpRequest(XHR) is an [API](https://en.wikipedia.org/wiki/Application_programming_interface) in the form of an [object](https://en.wikipedia.org/wiki/Object-oriented_programming) whose [methods](https://en.wikipedia.org/wiki/Method_(computer_programming)) transfer data between a [web browser](https://en.wikipedia.org/wiki/Web_browser) and a [web server](https://en.wikipedia.org/wiki/Web_server). The object is provided by the browser's [JavaScript](https://en.wikipedia.org/wiki/JavaScript) environment. Particularly, retrieval of data from XHR for the purpose of continually modifying a loaded [web page](https://en.wikipedia.org/wiki/Web_page) is the underlying concept of [Ajax](https://en.wikipedia.org/wiki/Ajax_(programming)) design. Despite the name, XHR can be used with protocols other than [HTTP](https://en.wikipedia.org/wiki/HTTP) and data can be in the form of not only [XML](https://en.wikipedia.org/wiki/XML), but also [JSON](https://en.wikipedia.org/wiki/JSON), [HTML](https://en.wikipedia.org/wiki/HTML) or [plain text](https://en.wikipedia.org/wiki/Plain_text).
+XMLHttpRequest(XHR) is an [API](https://en.wikipedia.org/wiki/Application_programming_interface) in the form of an [object](https://en.wikipedia.org/wiki/Object-oriented_programming) whose [methods](https://en.wikipedia.org/wiki/Method_(computer_programming)) transfer data between a [web browser](https://en.wikipedia.org/wiki/Web_browser) and a [web server](https://en.wikipedia.org/wiki/Web_server). The object is provided by the browser's [JavaScript](https://en.wikipedia.org/wiki/JavaScript) environment. Particularly, retrieval of data from XHR for the purpose of continually modifying a loaded [web page](https://en.wikipedia.org/wiki/Web_page) is the underlying concept of [Ajax](https://en.wikipedia.org/wiki/Ajax_(programming)) design. Despite the name, XHR can be used with protocols other than [HTTP](https://en.wikipedia.org/wiki/HTTP) and data can be in the form of not only [XML](https://en.wikipedia.org/wiki/XML), but also [JSON](https://en.wikipedia.org/wiki/JSON), [HTML](https://en.wikipedia.org/wiki/HTML) or [plain text](https://en.wikipedia.org/wiki/Plain_text)
+
 <https://en.wikipedia.org/wiki/XMLHttpRequest>
 
 Which part of the HTTP response determines whether the browser should redirect to another page?
@@ -156,8 +157,14 @@ When you submit a form, what request method does your browser use?
 - POST puts the form data in the request body
 - GET puts the data in the URL.
 
+## Links
+
 HTTP2.0 Demo - <http://www.http2demo.io>
 
 <https://www.code-maze.com/http-series-part-1>
 
 [The Journey of an HTTP request to the Backend | Backend Engineering Show](https://youtu.be/K2qV6VpfR7I)
+
+[HTTP Request Prioritization (RFC 9218) | The Backend Engineering Show - YouTube](https://www.youtube.com/watch?v=mgcv4UR3jKU)
+
+[HTTP 103 - Early Hints - YouTube](https://www.youtube.com/watch?v=iEuz5hPVNXk)

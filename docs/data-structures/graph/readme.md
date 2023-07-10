@@ -6,4 +6,4 @@
 - [Implementation](implementation)
 - [Undirected Graph](undirected-graph)
 - [Digraphs (Directed Graphs)](digraphs-directed-graphs)
-- [Questions](questions)
+- [Questions](data-structures/graph/questions.md)

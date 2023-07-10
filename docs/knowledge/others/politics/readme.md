@@ -73,6 +73,12 @@ a political leader who seeks support by appealing to the desires and prejudices 
 
 ![image](../../../media/Politics-image7.jpg)
 
+### Subversion
+
+[Sahebs | History of Subversion of India | Full Film - YouTube](https://www.youtube.com/watch?v=N3E534MpkHU)
+
+[Understanding the Political Scenario of INDIA,CANADA,JAPAN,CHINA,USA, FRANCE etc - YouTube](https://www.youtube.com/watch?v=Y9TviIuXPSE)
+
 ## Links
 
 - [Edge of chaos](../../../book-summaries/edge-of-chaos)

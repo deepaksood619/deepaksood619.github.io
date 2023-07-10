@@ -127,3 +127,7 @@ HTTP + json is not good (because contract is not upheld from developers while se
 - [How Shopify’s engineering improved database writes by 50% with ULID - YouTube](https://www.youtube.com/watch?v=f53-Iw_5ucA)
 
 [Ep 1 - @RazorpayEngineering's journey to microservices and ensuring data consistency - YouTube](https://www.youtube.com/watch?v=yqkyq8TPWbg)
+
+[How to NOT Fail a System Design Interview (By a Data Engineer) - YouTube](https://www.youtube.com/watch?v=WQBc2mY9Jng)
+
+[How Giphy uses CDN to serve 10 billion GIFs every day - YouTube](https://www.youtube.com/watch?v=-bo7oVejgRM)

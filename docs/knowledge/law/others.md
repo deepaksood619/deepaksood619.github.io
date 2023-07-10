@@ -24,7 +24,9 @@ MSA- Master Service Agreement
 
 SOW- Statement of Work.
 
-## Doctrine of Colorable Legislation
+## Doctrine
+
+### Doctrine of Colorable Legislation
 
 - The literal meaning of Colorable Legislation is that under the 'color' or 'guise' of power conferred for one particular purpose, the legislature cannot seek to achieve some other purpose which it is otherwise not competent to legislate on
 - Doctrine of Colorable Legislation is built upon the founding stones of the Doctrine of Seperation of Power
@@ -33,9 +35,15 @@ SOW- Statement of Work.
 - Doctrine of Colorable Legislation like any other consitutional law doctrine is a tool devised and applied by the Supreme Court of India to interpret various Consitutional Provisions.
 - It is a guiding principle of immense utility while construing provisions relating to legislative competence
 
-## Doctrine of casus omissus
+### Doctrine of casus omissus
 
 The doctrine of casus omissus outlines the circumstances where a court can supply a clearly unintended omission by the legislature in drafting a particular provision
+
+### Other Doctrines
+
+[Audi alteram partem - Wikipedia](https://en.wikipedia.org/wiki/Audi_alteram_partem)
+
+Ignorance of law is no excuse
 
 ## 5 Landmark cases
 

@@ -322,18 +322,8 @@ Unlike the others, vitamin D can be produced by our bodies, provided our skin is
 
 Try to get 10–20 minutes of sunlight ideally before noon, 3-4 times a week. Darker skin needs more sun than lighter skin; so adjust your sun exposure based on your need.
 
-## Diet
-
-Humans evolved for Feast - famine
-
-We have a maladaptive brain for feast-feast environment
-
-[The Weight Loss Scientist: You've Been LIED To About Calories, Dieting & Losing Weight: Giles Yeo - YouTube](https://www.youtube.com/watch?v=Gy_vcL1cpP8)
-
 ## Links
 
 [Why I eat "expired" food - YouTube](https://www.youtube.com/watch?v=kCeuP6yG64g)
-
-[Food expiration dates don’t mean what you think - Carolyn Beans - YouTube](https://www.youtube.com/watch?v=jDg8DQl7ZeQ)
 
 [Food expiration dates don’t mean what you think - Carolyn Beans - YouTube](https://www.youtube.com/watch?v=jDg8DQl7ZeQ)

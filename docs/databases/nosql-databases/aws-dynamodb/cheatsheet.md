@@ -91,7 +91,7 @@ DynamoDB has two capacity modes,ProvisionedandOn-Demand. You can switch between 
 
 ## Provisioned
 
-Provisioned Throughput Capacityis the maximum amount of capacity your application is allowedto read or write per secondfrom a table or index
+Provisioned Throughput Capacity is the maximum amount of capacity your application is allowedto read or write per secondfrom a table or index
 
 - Provisionedis suited for predictable or steady state workloads
 - RCUsis Read Capacity Unit
@@ -102,9 +102,9 @@ Throttlingis whenrequests are blockeddue to read or write frequency higher than 
 
 ## On-Demand
 
-On-Demand Capacityis pay per request. So you pay only for what you use.
+On-Demand Capacity is pay per request. So you pay only for what you use.
 
-- On-Demand is suited forneworunpredictableworkloads
+- On-Demand is suited for new or unpredictable workloads
 - The throughput is only limited by the default upper limits for a table (40K RCUs and 40K WCUs)
 - Throttling can occurif you exceed double your previous peak capacity (high water mark) within 30 minutes. For example, if you previously peaked to a maximum of 30,000 ops/sec, you could not peak immediately to 90,000 ops/sec, but you could to 60,000 ops/sec.
 - Since there is no hard limit,On-Demand could become very expensivebased on emerging scenarios
@@ -189,7 +189,7 @@ DAX is not ideal for:
 
 ## DynamoDB Transactions
 
-DynamoDB supports transactions via theTransactWriteItemsandTransactGetItemsAPI calls.
+DynamoDB supports transactions via the TransactWriteItems and TransactGetItemsAPI calls.
 
 Transactionslet you query multiple tables at once and are an all-or-nothing approach (all API calls must succeed).
 
@@ -203,18 +203,32 @@ DynamoDB Streamsallows you to set up a Lambda function triggered every time data
 
 ## DynamoDB API
 
-DynamoDB API's most notable commands via CLI: aws dynamodb < command >
-aws dynamodbget-itemreturns a set of attributes for the item with the given primary key. If no matching item, then it does not return any data and there will be no Item element in the response.
+DynamoDB API's most notable commands via CLI:
 
-aws dynamodbput-itemCreates a new item, or replaces an old item with a new item. If an item that has the same primary key as the new item already exists in the specified table, the new item completely replaces the existing item.
-aws dynamodbupdate-itemEdits an existing item's attributes, or adds a new item to the table if it does not already exist.
-aws dynamodbbatch-get-itemreturns the attributes of one or more items from one or more tables. You identify requested items by primary key. A single operation can retrieve up to16 MB of data, which can contain as many as100 items.
-aws dynamodbbatch-write-itemputs or deletes multiple items in one or more tables. Can write up to16 MB of data, which can comprise as many as25 put or delete requests. Individual items to be written can beas large as 400 KB.
-aws dynamodbcreate-tableadds a new table to your account. Table names must be unique within each Region.
-aws dynamodbupdate-tableModifies the provisioned throughput settings, global secondary indexes, or DynamoDB Streams settings for a given table.
-aws dynamodbdelete-tableoperation deletes a table and all of its items.
-aws dynamodbtransact-get-itemsis a synchronous operation that atomically retrieves multiple items from one or more tables (but not from indexes) in a single account and Region. Call can contain up to25 objects. The aggregate size of the items in the transactioncannot exceed 4 MB.
-aws dynamodbtransact-write-itemsa synchronous write operation that groups up to25 action requests. These actions can target items in different tables, but not in different AWS accounts or Regions, and no two actions can target the same item.
-aws dynamodbqueryfinds items based on primary key values. You can query table or secondary index that has a composite primary key.
-aws dynamodbscanreturns one or more items and item attributes by accessing every item in a table or a secondary index.
+aws dynamodb < command >
+
+aws dynamodbget-item returns a set of attributes for the item with the given primary key. If no matching item, then it does not return any data and there will be no Item element in the response.
+
+aws dynamodbput-item Creates a new item, or replaces an old item with a new item. If an item that has the same primary key as the new item already exists in the specified table, the new item completely replaces the existing item.
+
+aws dynamodbupdate-item Edits an existing item's attributes, or adds a new item to the table if it does not already exist.
+
+aws dynamodbbatch-get-item returns the attributes of one or more items from one or more tables. You identify requested items by primary key. A single operation can retrieve up to16 MB of data, which can contain as many as100 items.
+
+aws dynamodbbatch-write-item puts or deletes multiple items in one or more tables. Can write up to16 MB of data, which can comprise as many as25 put or delete requests. Individual items to be written can beas large as 400 KB.
+
+aws dynamodbcreate-table adds a new table to your account. Table names must be unique within each Region.
+
+aws dynamodbupdate-table Modifies the provisioned throughput settings, global secondary indexes, or DynamoDB Streams settings for a given table.
+
+aws dynamodbdelete-table operation deletes a table and all of its items.
+
+aws dynamodbtransact-get-items is a synchronous operation that atomically retrieves multiple items from one or more tables (but not from indexes) in a single account and Region. Call can contain up to25 objects. The aggregate size of the items in the transactioncannot exceed 4 MB.
+
+aws dynamodbtransact-write-items a synchronous write operation that groups up to25 action requests. These actions can target items in different tables, but not in different AWS accounts or Regions, and no two actions can target the same item.
+
+aws dynamodbquery finds items based on primary key values. You can query table or secondary index that has a composite primary key.
+
+aws dynamodbscan returns one or more items and item attributes by accessing every item in a table or a secondary index.
+
 <https://www.freecodecamp.org/news/ultimate-dynamodb-2020-cheatsheet>

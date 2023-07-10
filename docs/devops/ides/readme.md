@@ -11,6 +11,5 @@
 - [Obsidian](obsidian)
 - [Obsidian in VSCode](obsidian-in-vscode)
 - [Youtube / Podcasts / Magazine](youtube-podcasts-magazine-apps)
-- [Photoshop](photoshop)
 - [Medium Blogging](medium-blogging)
 - [Others](devops/ides/others.md)

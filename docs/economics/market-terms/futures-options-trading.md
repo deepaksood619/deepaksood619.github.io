@@ -349,3 +349,5 @@ How do I find Trades?
 [Option chain analysis | Options trading basics | Call and Put simplified | Option buyer vs seller | - YouTube](https://www.youtube.com/watch?v=WBLUK4vLRHk)
 
 [Option buying to earn regular income | Option buying strategy by Kunal Saraogi | Options course | - YouTube](https://www.youtube.com/watch?v=otCMZmg3Sgk)
+
+[12. Physical settlement of futures and options - YouTube](https://www.youtube.com/watch?v=Llp4xW2GI4s)

@@ -8,3 +8,5 @@
 [Coastal Plains of India - Types & Importance [Explained] | Geography for UPSC Prelims & Mains 2022 - YouTube](https://www.youtube.com/watch?v=Kn5S0Sw0MNc)
 
 [National symbols of India - YouTube](https://www.youtube.com/watch?v=-ImDjAuGVoU)
+
+[BrahMos Supersonic Cruise Missile [Explained] | Science and Technology for UPSC Prelims & Mains 2022 - YouTube](https://www.youtube.com/watch?v=1gwRy8t2wCA)

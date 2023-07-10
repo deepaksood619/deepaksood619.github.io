@@ -34,3 +34,5 @@ He was the first to describe the phenomena we now associate with electrical attr
 [Which is the Killer, Current or Voltage? - YouTube](https://www.youtube.com/watch?v=XDf2nhfxVzg)
 
 [Why 3 Phase AC instead of Single Phase??? - YouTube](https://www.youtube.com/watch?v=quABfe4Ev3s)
+
+[Electricity Explained: Volts, Amps, Watts, Fuse Sizing, Wire Gauge, AC/DC, Solar Power and more! - YouTube](https://www.youtube.com/watch?v=cX4s-bxn4fs)

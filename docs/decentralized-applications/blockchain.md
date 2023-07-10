@@ -140,3 +140,5 @@ Layering - Tumblr / Mixers - [6 BEST Bitcoin Mixers & Tumblers (2023 List)](http
 [Picking the Right Blockchain For the Job - YouTube](https://www.youtube.com/watch?v=rgiP5W8ckl8)
 
 [Yes, You Too Can Break Crypto: Exploiting Common Crypto Mistakes - YouTube](https://www.youtube.com/watch?v=eTHRv2uSc_Y)
+
+[Blockchain 101 (or How to Build a Blockchain with JavaScript) - YouTube](https://www.youtube.com/watch?v=JiEAuaNFZGo)

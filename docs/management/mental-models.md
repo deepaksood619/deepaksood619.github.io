@@ -56,4 +56,17 @@ Understanding opportunity cost means eliminating good uses of time. And that's w
 - (1) Intuition - Personal experience coded into your personal neural network, which means your intuition is dangerous outside the bounds of your personal experience. (related:[thinking fast vs thinking slow](https://en.wikipedia.org/wiki/Thinking,_Fast_and_Slow) - "a dichotomy between two modes of thought: 'System 1' is fast, instinctive and emotional; 'System 2' is slower, more deliberative, and more logical.")
 - [Local vs Global Optimum](https://en.wikipedia.org/wiki/Local_optimum) - "A local optimum of an optimization problem is a solution that is optimal (either maximal or minimal) within a neighboring set of candidate solutions. This is in contrast to a global optimum, which is the optimal solution among all possible solutions, not just those in a particular neighborhood of values."
 - [Decision Trees](https://en.wikipedia.org/wiki/Decision_tree) - "A decision support tool that uses a tree-like graph or model of decisions and their possible consequences, including chance event outcomes, resource costs, and utility." (related:[expected value](https://en.wikipedia.org/wiki/Expected_value))
-- [Sunk Cost](https://en.wikipedia.org/wiki/Sunk_costs) - "A cost that has already been incurred and cannot be recovered." (related: "throwing good money after bad", "in for a penny, in for a pound")
+
+### The Trinity of Quality
+
+- Quality (How good it is)
+- Taste / Target (How good you want it to be)
+- Discernment - the ability to judge well (How good you are at knowing the difference)
+
+Problems
+
+- Same taste different discernment
+- Same discernment different taste (creative targets)
+- Different taste and different discernment
+
+[The Trinity of Quality - YouTube](https://www.youtube.com/watch?v=TWBEi4ZcLu4)

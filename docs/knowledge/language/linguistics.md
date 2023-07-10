@@ -6,9 +6,9 @@
 
 the smallest meaningful contrastive unit in a writing system.
 
-In [linguistics](https://en.wikipedia.org/wiki/Linguistics), agraphemeis the smallest unit of a [writing system](https://en.wikipedia.org/wiki/Writing_system) of any given language.An individual grapheme may or may not carry meaning by itself, and may or may not correspond to a single [phoneme](https://en.wikipedia.org/wiki/Phoneme) of the spoken language. Graphemes include [alphabetic letters](https://en.wikipedia.org/wiki/Letter_(alphabet)), [typographic ligatures](https://en.wikipedia.org/wiki/Typographic_ligature), [Chinese characters](https://en.wikipedia.org/wiki/Chinese_characters), [numerical digits](https://en.wikipedia.org/wiki/Numerical_digit), [punctuation](https://en.wikipedia.org/wiki/Punctuation) marks, and other individual symbols. A grapheme can also be construed as a graphical sign that independently represents a portion of linguistic material.
+In [linguistics](https://en.wikipedia.org/wiki/Linguistics), a grapheme is the smallest unit of a [writing system](https://en.wikipedia.org/wiki/Writing_system) of any given language. An individual grapheme may or may not carry meaning by itself, and may or may not correspond to a single [phoneme](https://en.wikipedia.org/wiki/Phoneme) of the spoken language. Graphemes include [alphabetic letters](https://en.wikipedia.org/wiki/Letter_(alphabet)), [typographic ligatures](https://en.wikipedia.org/wiki/Typographic_ligature), [Chinese characters](https://en.wikipedia.org/wiki/Chinese_characters), [numerical digits](https://en.wikipedia.org/wiki/Numerical_digit), [punctuation](https://en.wikipedia.org/wiki/Punctuation) marks, and other individual symbols. A grapheme can also be construed as a graphical sign that independently represents a portion of linguistic material.
 
-The wordgrapheme, coined in analogy withphoneme, is derived from [Ancient Greek]$1 $2(gráphō), meaning 'write', and the suffix-eme, by analogy with [phoneme](https://en.wikipedia.org/wiki/Phoneme) and other names of [emic units](https://en.wikipedia.org/wiki/Emic_unit). The study of graphemes is called [graphemics](https://en.wikipedia.org/wiki/Graphemics).
+The word grapheme, coined in analogy with phoneme, is derived from Ancient Greek (gráphō), meaning 'write', and the suffix-eme, by analogy with [phoneme](https://en.wikipedia.org/wiki/Phoneme) and other names of [emic units](https://en.wikipedia.org/wiki/Emic_unit). The study of graphemes is called [graphemics](https://en.wikipedia.org/wiki/Graphemics).
 
 The concept of graphemes is an abstract one and similar to the notion in [computing](https://en.wikipedia.org/wiki/Computing) of a [character](https://en.wikipedia.org/wiki/Character_(computing)). By comparison, a specific shape that represents any particular grapheme in a specific [typeface](https://en.wikipedia.org/wiki/Typeface) is called a [glyph](https://en.wikipedia.org/wiki/Glyph). For example, the grapheme corresponding to the abstract concept of "the Arabic numeral one" has two distinct glyphs ([allographs](https://en.wikipedia.org/wiki/Allograph)) in the fonts [Times New Roman](https://en.wikipedia.org/wiki/Times_New_Roman) and [Helvetica](https://en.wikipedia.org/wiki/Helvetica).
 
@@ -16,7 +16,7 @@ The concept of graphemes is an abstract one and similar to the notion in [comput
 
 ## Phoneme
 
-Any of the perceptually distinct units of sound in a specified language that distinguish one word from another, for example*p*,*b*,*d*, and *t* in the English words *pad*,*pat*,*bad*, and *bat*.
+Any of the perceptually distinct units of sound in a specified language that distinguish one word from another, for example *p*, *b*, *d*, and *t* in the English words *pad*, *pat*, *bad*, and *bat*.
 
 Despite there being just 26 letters in the English language there are approximately 44 unique sounds, also known as [phonemes](https://www.dyslexia-reading-well.com/phonemes.html). The 44 sounds help distinguish one word or meaning from another. Various letters and letter combinations known as graphemes are used to represent the sounds.
 
@@ -86,18 +86,18 @@ The IPA was created by the [International Phonetic Association](https://www.inte
 
 ## Diacritic
 
-A **diacritic**-- also**diacritical mark**, **diacritical point**, **diacritical sign**, or **accent**-- is a [glyph](https://en.wikipedia.org/wiki/Glyph) added to a [letter](https://en.wikipedia.org/wiki/Letter_(alphabet)), or basic glyph. The term derives from the [Ancient Greek](https://en.wikipedia.org/wiki/Ancient_Greek)[διακριτικός](https://en.wiktionary.org/wiki/%CE%B4%CE%B9%CE%B1%CE%BA%CF%81%CE%B9%CF%84%CE%B9%CE%BA%CF%8C%CF%82#Ancient_Greek)(*diakritikós*, "distinguishing"), fromδιακρίνω(*diakrī́nō*, "to distinguish").*Diacritic*is primarily an [adjective](https://en.wikipedia.org/wiki/Adjective), though sometimes used as a [noun](https://en.wikipedia.org/wiki/Noun), whereas *diacritical*is only ever an adjective. Some diacritical marks, such as the [acute](https://en.wikipedia.org/wiki/Acute_accent)( ´ ) and [grave](https://en.wikipedia.org/wiki/Grave_accent)( ` ), are often called *accents*. Diacritical marks may appear above or below a letter, or in some other position such as within the letter or between two letters.
+A **diacritic**-- also **diacritical mark**, **diacritical point**, **diacritical sign**, or **accent** is a [glyph](https://en.wikipedia.org/wiki/Glyph) added to a [letter](https://en.wikipedia.org/wiki/Letter_(alphabet)), or basic glyph. The term derives from the Ancient Greek διακριτικός (*diakritikós*, "distinguishing"), from διακρίνω (*diakrī́nō*, "to distinguish"). *Diacritic* is primarily an [adjective](https://en.wikipedia.org/wiki/Adjective), though sometimes used as a [noun](https://en.wikipedia.org/wiki/Noun), whereas *diacritical*is only ever an adjective. Some diacritical marks, such as the [acute](https://en.wikipedia.org/wiki/Acute_accent)( \´ ) and [grave](https://en.wikipedia.org/wiki/Grave_accent)( \` ), are often called *accents*. Diacritical marks may appear above or below a letter, or in some other position such as within the letter or between two letters.
 
 ### Diacriticsin Latin & Greek
 
 - accent
-- acute(´)
+- acute(\´)
 - double acute(˝)
 - grave(`)
 - double grave(̏)
 - circumflex(ˆ)
 
-    Thecircumflexis adiacriticin theLatinandGreekscripts that is used in the written forms of many languages and in variousromanizationandtranscriptionschemes. It received its English name fromLatincircumflexus"bent around"-a translation of the Greek περισπωμένη (perispōménē). The circumflex in the Latin script ischevron-shaped (ˆ), while the Greek circumflex may be displayed either - like atilde(˜) or like aninverted breve( ̑ ).
+    The circumflex is a diacritic in the Latin and Greek scripts that is used in the written forms of many languages and in various romanization and transcription schemes. It received its English name fromLatincircumflexus"bent around"-a translation of the Greek περισπωμένη (perispōménē). The circumflex in the Latin script ischevron-shaped (ˆ), while the Greek circumflex may be displayed either - like atilde(˜) or like aninverted breve( ̑ ).
 
 - caron, háček(ˇ)
 - breve(˘)

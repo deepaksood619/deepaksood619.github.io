@@ -7,5 +7,5 @@
 - [Patricia Trie](patricia-trie)
 - [Suffix Tree](suffix-tree)
 - [Suffix Array](suffix-array)
-- [Questions](questions)
+- [Questions](data-structures/trie/questions.md)
 - [Others](data-structures/trie/others.md)

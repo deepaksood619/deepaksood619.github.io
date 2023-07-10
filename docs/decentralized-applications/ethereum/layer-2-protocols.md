@@ -74,6 +74,14 @@ The acronym **zk-SNARK stands for "Zero-Knowledge Succinct Non-Interactive Argum
 
 [What are zk-SNARKs? | Zcash](https://z.cash/technology/zksnarks/)
 
+[Zero knowledge made simple | Justin Thaler - YouTube](https://www.youtube.com/watch?v=7SwTy1MCgEY)
+
+[Lecture 10.3: What is a zk-SNARK? - YouTube](https://www.youtube.com/watch?v=gcKCW7CNu_M)
+
+[SNARK Design, Part I, with Justin Thaler | a16z crypto research talks - YouTube](https://www.youtube.com/watch?v=tg6lKPdR_e4)
+
+[SNARK Design, Part II, with Justin Thaler | a16z crypto research talks - YouTube](https://www.youtube.com/watch?v=cMAI7g3UcoI)
+
 ## Sidechains
 
 - A sidechain is a separate, independent blockchain linked to the main blockchain (mainchain) using a two-way bridge.
@@ -85,7 +93,14 @@ A typical sidechain implementation creates a transaction on the first blockchain
 
 Although sidechains look like a promising solution, they add complexity to the blockchain design and require a lot of effort and investment for the initial setup. Since sidechains are independent blockchains, their security can potentially be compromised since they are not secured by the mainchain. On the other hand, if a sidechain is compromised, it won’t affect the mainchain, so it can be used to experiment with new protocols and improvements to the mainchain.
 
+### Others
+
+- Merge Mining
+- Two way peg
+
 [What Are Sidechains? Scaling Blockchain on the Side](https://crypto.com/university/what-are-sidechains-scaling-blockchain)
+
+[What are Sidechains in Crypto? Rootstock + Polygon Explained! - YouTube](https://www.youtube.com/watch?v=cFRj2-jzm8E)
 
 ### Layer 2 vs Sidechains
 
@@ -98,3 +113,7 @@ The variations in security techniques between layer 2 and sidechain solutions ar
 [Argent – The best Ethereum wallet for DeFi and NFTs.](https://www.argent.xyz/)
 
 [Cartesi 🛠️ Billions of Reasons to Use Cartesi - Carlo Fragni - YouTube](https://www.youtube.com/watch?v=2WvS5So5su4)
+
+[What is Sharding in Crypto? Scaling Solution (Animated) - YouTube](https://www.youtube.com/watch?v=SZpjvWMfgDA)
+
+[What are Rollups in Crypto? ZKSnarks vs Optimistics Rollups Explained - YouTube](https://www.youtube.com/watch?v=6_nOYsvXMsE)

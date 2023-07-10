@@ -53,14 +53,14 @@ Reciprocal strong references between objects should therefore be avoided to the 
 
 To decide which of the two references should be weak, think of the objects in the retain cycle as being in a parent-child relationship. In this relationship, the parent should maintain a strong reference (i.e., ownership of) its child, but the child should not maintain maintain a strong reference (i.e., ownership of) its parent.
 
-For example, if you haveEmployerandEmployeeobjects, which reference one another, you would most likely want to maintain a strong reference from theEmployerto theEmployeeobject, but have a weak reference from theEmployeeto thrEmployer.
+For example, if you have Employer and Employee objects, which reference one another, you would most likely want to maintain a strong reference from theEmployerto theEmployeeobject, but have a weak reference from theEmployeeto thrEmployer.
 
-## Describemanaged object contextand the functionality that it provides
+## Describe managed object contextand the functionality that it provides
 
 - **Related to core data (local storage database)**
 - **Type of classes**
 
-Amanaged object context(represented by an instance ofNSManagedObjectContext) is basically a temporary "scratch pad" in an application for a (presumably) related collection of objects. These objects collectively represent an internally consistent view of one or more persistent stores. A single managed object instance exists in one and only one context, but multiple copies of an object can exist in different contexts.
+A managed object context (represented by an instance of NSManagedObjectContext) is basically a temporary "scratch pad" in an application for a (presumably) related collection of objects. These objects collectively represent an internally consistent view of one or more persistent stores. A single managed object instance exists in one and only one context, but multiple copies of an object can exist in different contexts.
 
 You can think of a managed object context as an intelligent scratch pad. When you fetch objects from a persistent store, you bring temporary copies onto the scratch pad where they form an object graph (or a collection of object graphs). You can then modify those objects however you like. Unless you actually save those changes, though, the persistent store remains unchanged.
 
@@ -78,7 +78,7 @@ There are basically three ways of achieving concurrency in iOS:
 - dispatch queues
 - operation queues
 
-Thedisadvantage of threadsis that they relegate the burden of creating a scalable solution to the developer. You have to decide how many threads to create and adjust that number dynamically as conditions change. Also, the application assumes most of the costs associated with creating and maintaining the threads it uses.
+The disadvantage of threads is that they relegate the burden of creating a scalable solution to the developer. You have to decide how many threads to create and adjust that number dynamically as conditions change. Also, the application assumes most of the costs associated with creating and maintaining the threads it uses.
 
 OS X and iOS therefore prefer to take an asynchronous design approach to solving the concurrency problem rather than relying on threads.
 

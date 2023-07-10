@@ -342,8 +342,18 @@ Marketing tactic used, light the agarbatti in-front of store and left for 2 days
 
 [The INSANE Story of Domino's Pizza - YouTube](https://www.youtube.com/watch?v=QJh1LkOM4KY)
 
+[How Domino's Became The World's Biggest Pizza Chain | Big Business | Insider - YouTube](https://www.youtube.com/watch?v=yEnDZcX3xc8)
+
 [How We Built a $150 Million Streaming Platform with $100,000 - YouTube](https://www.youtube.com/watch?v=Alqt6RCEWdM)
 
 [How Zudio TOOK OVER India’s 5,000 Crore Fashion Industry - YouTube](https://www.youtube.com/watch?v=eP8PCPF8YAI)
 
 [How A Single Company Revolutionized Law Enforcement - YouTube](https://www.youtube.com/watch?v=Jf-mU-hdHyE)
+
+[How EaseMyTrip CRACKED India’s $201 Billion Travel Industry | GrowthX Wireframe - YouTube](https://www.youtube.com/watch?v=j4StYNvbzEg)
+
+[Why did Starbucks REALLY become so popular? - YouTube](https://www.youtube.com/watch?v=3RKU9XBwZro)
+
+[This Indian Brand is KILLING Global Brands like Anything! - YouTube](https://www.youtube.com/watch?v=n60GZmfFde8)
+
+[How Stage CONQUERED India’s 300 Crore OTT Space | GrowthX Wireframe - YouTube](https://www.youtube.com/watch?v=NDrrBVsPLDA)

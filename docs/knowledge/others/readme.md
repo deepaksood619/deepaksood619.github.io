@@ -10,3 +10,4 @@
 - [Education / PhD](education-phd)
 - [Chemistry Outline](chemistry-outline)
 - [News](knowledge/others/news-problems.md)
+- [Others](knowledge/others/others.md)

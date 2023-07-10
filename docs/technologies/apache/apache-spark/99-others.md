@@ -34,6 +34,8 @@ DecimalType() stores two operands (Precision and Scale), this way avoids storing
 
 [Performance Tuning - Spark 3.3.2 Documentation](https://spark.apache.org/docs/latest/sql-performance-tuning.html)
 
+## Bucketing
+
 ## SparkML
 
 <https://spark.apache.org/docs/latest/ml-pipeline.html>

@@ -95,6 +95,18 @@ The best arguments in the world won't change a single person's mind. The only th
 
 It's hard to compute, but it's how the world works.
 
+### Seven storytelling techniques
+
+1. Have an Enemy and a Hero
+2. Use Conflict
+3. Omit any Irrelevant Detail
+4. Tell the Story Like You Talk
+5. Make It Visual
+6. Make It Personal & Easy to Relate To
+7. Add Surprise
+
+[7 Storytelling Techniques and How To Apply Them - Practical Ecommerce](https://www.practicalecommerce.com/7-storytelling-techniques-and-how-to-apply-them)
+
 [The Power Of Storytelling - Full Session](https://youtu.be/SOatuuCSHM8)
 
 [STORYWORTHY by Matthew Dicks | Core Message](https://www.youtube.com/watch?v=rjOMCrbFVGM)

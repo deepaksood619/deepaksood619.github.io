@@ -26,7 +26,7 @@ The number of primary shards in an index is fixed at the time that an index is c
 
 Most entities or objects in most applications can be serialized into a JSON object, with keys and values.Akeyis the name of a field or property, and avaluecanbe a string, a number, a Boolean, another object, an array of values, or some other specialized type such as a string representing a date or an object representing a geolocation.
 
-Often, we use the termsobjectanddocumentinterchangeably. However, there is a distinction.An object is just a JSON object - similar to what is known as a hash, hashmap, dictionary, or associative array. Objects may contain other objects. In Elasticsearch, the termdocumenthas a specific meaning. It refers to the top-level, or root object thatis serialized into JSON and stored in Elasticsearch under a unique ID.
+Often, we use the terms object and document interchangeably. However, there is a distinction.An object is just a JSON object - similar to what is known as a hash, hashmap, dictionary, or associative array. Objects may contain other objects. In Elasticsearch, the termdocumenthas a specific meaning. It refers to the top-level, or root object thatis serialized into JSON and stored in Elasticsearch under a unique ID.
 
 ## Document Metadata
 

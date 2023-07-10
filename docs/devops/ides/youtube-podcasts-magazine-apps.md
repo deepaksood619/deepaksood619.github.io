@@ -6,7 +6,7 @@
 
 - PyCon
 - Linus Tech Tips
-- Watch AWS Reinvent
+- AWS Reinvent
 - Software architecture o'reilly conference
 - **Coding Tech**
 - Techquickie
@@ -32,9 +32,9 @@
   - <https://www.discoveryplus.in/show/the-birth-of-empire-the-east-india-company>
   - <https://www.discoveryplus.in/genre/science>
   - <https://www.discoveryplus.in/show/history-of-the-world>
-- **Nat Geo**
-- **History - World History**
-- **PBS**
+- Nat Geo
+- History - World History
+- PBS
 - ASAPScience
 - Documentaries
 - BBC Earth
@@ -45,7 +45,6 @@
 - Research
   - Microsoft research
   - Talks at google
-- book summaries
 - Objectivity
 - Seeker
   - Bizarre beasts

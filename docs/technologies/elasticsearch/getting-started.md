@@ -18,7 +18,7 @@ The node clientjoins a local cluster as anon data node. In other words, it doesn
 
 The lighter-weighttransport client can be used to send requests to a remote cluster. It doesn't join the cluster itself, but simply forwards requests to a node in the cluster.
 
-Both Java clients talk to the cluster over port9300, usingthe native Elasticsearchtransportprotocol. The nodes in the cluster also communicate with each other over port 9300. If this port is not open, your nodes will not be able to form a cluster.
+Both Java clients talk to the cluster over port9300, usingthe native Elasticsearch transport protocol. The nodes in the cluster also communicate with each other over port 9300. If this port is not open, your nodes will not be able to form a cluster.
 
 ## Document Oriented
 

@@ -58,3 +58,5 @@ Make a distinction between a lack of inertia and persistent exhaustion from an a
 ## Links
 
 [Why It Is OK To Have No Ambition In Life? - a zen short story - YouTube](https://www.youtube.com/watch?v=OTvrE9hfyKU)
+
+[NEUROSCIENTIST: This HABIT Destroys MAN Brain - YouTube](https://www.youtube.com/watch?v=JcAegIUzKuo)

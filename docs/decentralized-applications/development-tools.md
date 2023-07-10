@@ -57,7 +57,6 @@ This is a tool that analyzes the token’s smart contract, tokenomics, holders, 
 
 ### Others
 
-- [NEAR Protocol | Reimagine your World](https://near.org/)
 - [OpenZeppelin](https://www.openzeppelin.com/)
   - It's an open source framework for building smart contracts on ethereum blockchain
   - And it has a library of pre built smart contracts including the nft factory contract

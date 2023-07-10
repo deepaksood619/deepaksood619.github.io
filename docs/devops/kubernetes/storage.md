@@ -54,7 +54,7 @@ emptyDir: {}
 
 ## Persistant Volumes
 
-ThePersistentVolumesubsystem provides an API for users and administrators that abstracts details of how storage is provided from how it is consumed. To do this we introduce two new API resources:PersistentVolumeandPersistentVolumeClaim.
+ThePersistentVolumesubsystem provides an API for users and administrators that abstracts details of how storage is provided from how it is consumed. To do this we introduce two new API resources:PersistentVolume and PersistentVolumeClaim.
 
 A **PersistentVolume(PV)** is a piece of storage in the cluster that has been provisioned by an administrator. It is a resource in the cluster just like a node is a cluster resource. PVs are volume plugins like Volumes, but have a lifecycle independent of any individual pod that uses the PV. This API object captures the details of the implementation of the storage, be that NFS, iSCSI, or a cloud-provider-specific storage system.
 

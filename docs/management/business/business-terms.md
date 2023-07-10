@@ -4,7 +4,9 @@
 
 #### COCO - Company Owned Company Operated
 
-#### COPO - Company Owned Partner Operated
+#### COPO/COFO - Company Owned Partner/Franchise Operated
+
+#### FOFO - Franchise Owned Franchise Operated
 
 #### FOCO Model - Franchise Owned Company Operated
 

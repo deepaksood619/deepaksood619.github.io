@@ -5,7 +5,7 @@
 - [ML Classification](ml-classification)
 - [ML Process](ml-process)
 - [Preliminaries](preliminaries)
-- [Questions](questions)
+- [Questions](ai/ml-fundamentals/questions.md)
 - [Practical AI Problems](practical-ai-problems)
 - [Andrew NG](andrew-ng)
 - [Neural Networks](neural-networks)

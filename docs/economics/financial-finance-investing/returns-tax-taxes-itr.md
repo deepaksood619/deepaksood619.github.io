@@ -6,6 +6,11 @@ Tax evasion (punishable) vs tax avoidance (your legitimate right) of saving tax
 
 Tax Consulation - <https://www.charteredclub.com/tax-consultation-with-ca-karan-batra>
 
+**Period: April 1, 2022 – March 31, 2023**
+
+- Financial Year: 2022 - 2023
+- Assessment Year: 2023 – 2024
+
 ## CA
 
 1. Insurance receipt
@@ -250,3 +255,7 @@ An offshore account is one that is opened by a citizen outside her home country.
 ## Links
 
 [How To (LEGALLY) Never Pay Taxes - Do This Today - YouTube](https://www.youtube.com/watch?v=248o4zc9RmI)
+
+[Section 10 Of Income Tax Act: Exemptions, Allowances and How To Claim It?](https://cleartax.in/s/section-10-of-income-tax-act)
+
+[Fetching Title#sgzf](https://www.youtube.com/watch?v=BfSx7qcDxx4)

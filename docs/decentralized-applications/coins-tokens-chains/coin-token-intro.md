@@ -142,6 +142,14 @@ Deflationary crypto assets usually have a fixed limit on the total coin supply, 
 
 [Inflationary and Deflationary Cryptocurrencies: What’s the Difference?](https://www.coindesk.com/learn/inflationary-and-deflationary-cryptocurrencies-whats-the-difference/)
 
+## Token Unlocks
+
+**Cliff Unlocks** - Tokens are held in a locked state until a specific event or date occurs, after which they will all be released at once
+
+**Linear Unlocks** - Tokens are released at a steady, fixed rate over a period of time. For example, if 30% of tokens are set to be unlocked within a month. Then roughly the token will be releasing 1% per day, or in some cases, it will be releasing every x% per transaction block if they are vested in a smart contract
+
+[Token unlocks](https://token.unlocks.app/)
+
 ## Links
 
 [Dual Token Economy](decentralized-applications/coins-tokens-chains/dual-token-economy.md)

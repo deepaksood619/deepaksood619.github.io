@@ -81,7 +81,7 @@ The useMemo is a hook used in the functional component of react that returns a m
 - shouldComponentUpdate: SeeReact.memo [below](https://reactjs.org/docs/hooks-faq.html#how-do-i-implement-shouldcomponentupdate).
 - render: This is the function component body itself.
 - componentDidMount, componentDidUpdate, componentWillUnmount: The [useEffectHook](https://reactjs.org/docs/hooks-reference.html#useeffect) can express all combinations of these (including [less](https://reactjs.org/docs/hooks-faq.html#can-i-skip-an-effect-on-updates)[common](https://reactjs.org/docs/hooks-faq.html#can-i-run-an-effect-only-on-updates) cases).
-- getSnapshotBeforeUpdate, componentDidCatchandgetDerivedStateFromError: There are no Hook equivalents for these methods yet, but they will be added soon.
+- getSnapshotBeforeUpdate, componentDidCatch and getDerivedStateFromError: There are no Hook equivalents for these methods yet, but they will be added soon.
 
 ## Examples
 

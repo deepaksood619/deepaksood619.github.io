@@ -140,3 +140,17 @@ The **impossible trinity** (also known as **the impossible [trilemma](https://en
 [How Corruption Led to Lebanon's Brutal Collapse - YouTube](https://www.youtube.com/watch?v=fvVeslmt1-E)
 
 [Finland Redefines Economic Success | Economics Explained - YouTube](https://www.youtube.com/watch?v=hl-woY7mQVg)
+
+[That Time the Soviets Tried to Abolish Money - YouTube](https://www.youtube.com/watch?v=bWWqhsh848E)
+
+[The Growing Revolt Against the US Dollar - YouTube](https://www.youtube.com/watch?v=g6rFff2MAxM)
+
+[What Everyone Gets Wrong About Global Debt | Economics Explained - YouTube](https://www.youtube.com/watch?v=IAqj30s4lH8)
+
+[Ray Dalio Explains How the U.S. Economic Crisis is Unfolding. - YouTube](https://www.youtube.com/watch?v=-2Rn4JeHKHs)
+
+[Age of Easy Money (full documentary) | FRONTLINE - YouTube](https://www.youtube.com/watch?v=EpMLAQbSYAw)
+
+[Stories from 2008's Great Recession | 60 Minutes Full Episodes - YouTube](https://www.youtube.com/watch?v=fsSCnYPyb1A)
+
+[How Finance Works: The HBR Guide to Thinking Smart About the Numbers - Mihir Desai - YouTube](https://www.youtube.com/watch?v=8RxBbls_81U)

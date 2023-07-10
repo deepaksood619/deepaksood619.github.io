@@ -21,6 +21,10 @@ Not your keys not your coins
 
 [Hardware Wallets And MetaMask: The Best Security Combo | ConsenSys](https://consensys.net/blog/metamask/hardware-wallets-and-metamask-the-best-security-combo/)
 
+[What is Metamask? Simple Cryptocurrency Wallet - YouTube](https://www.youtube.com/watch?v=byWul4xOBx0)
+
+["Not Your Keys, Not your Crypto" (Meaning + Issues) - YouTube](https://www.youtube.com/watch?v=opCOevmJAko)
+
 [How Bitcoin Wallets Work (Public & Private Key Explained) - YouTube](https://www.youtube.com/watch?v=GSTiKjnBaes)
 
 [wallet.fail (or How to Break the Most Popular Cryptocurrency Wallets) - YouTube](https://www.youtube.com/watch?v=mqEfldjCqVY)

@@ -313,6 +313,10 @@ Ex - If you buyed popcorn and it's bad, then you have to eat it because you have
 
 It's fallacy as eating the popcorn or watching the movie will not refund the amount you have spent, so why put yourself through extra pain
 
+A cost that has already been incurred and cannot be recovered. (related: "throwing good money after bad", "in for a penny, in for a pound")
+
+[Sunk Cost](https://en.wikipedia.org/wiki/Sunk_costs)
+
 [Adam Grant: What frogs in hot water can teach us about thinking again | TED](https://www.youtube.com/watch?v=CIlgTBmiov0)
 
 - Escalation of commitment to a losing course of action
@@ -387,3 +391,7 @@ And that misconception is called the broken window fallacy.
 ## Links
 
 [LessWrong - Wikipedia](https://en.wikipedia.org/wiki/LessWrong)
+
+[21 Mind Traps : The Ultimate Guide to your most common Thinking errors - YouTube](https://www.youtube.com/watch?v=nYYkRaU0xh8)
+
+[21 Mind Traps : The Ultimate Guide to your most common Thinking errors (Part II) - YouTube](https://www.youtube.com/watch?v=6G1F1KVeiNA)

@@ -40,9 +40,9 @@ In order to efficiently manage pools Python uses an additional array calledusedp
 
 The arena is a chunk of 256kB memory allocated on the heap, which provides memory for 64 pools.
 
-All arenas are linked using [doubly linked list](https://en.wikipedia.org/wiki/Doubly_linked_list)(thenextarenaandprevarenafields), it helps to manage them. Thentotalpoolsandnfreepoolsare storing information about currently available pools.
+All arenas are linked using [doubly linked list](https://en.wikipedia.org/wiki/Doubly_linked_list)(the next arena and prev arena fields), it helps to manage them. Then total pools and n free pools are storing information about currently available pools.
 
-Thefreepoolsfield points to the linked list of available pools.
+The free pools field points to the linked list of available pools.
 
 There is nothing complicated in the implementation of the arena. Think of it as a list of containers, which automatically allocates new memory for pools when needed.
 

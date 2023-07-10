@@ -21,7 +21,7 @@
 - [DateTime](datetime)
 - [Exceptions](exceptions)
 - [Time Complexities](time-complexities)
-- [Questions](questions)
+- [Questions](python/python-intro/questions.md)
 - [Requirements file](requirements-file)
 - [Resources](resources)
 - [Data Structure](data-structure/readme.md)

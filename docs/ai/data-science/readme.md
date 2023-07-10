@@ -11,3 +11,4 @@
 - [Topics](topics)
 - [Statistics](statistics)
 - [Data Visualization Outline](data-visualization/readme.md)
+- [Questions](ai/data-science/questions.md)

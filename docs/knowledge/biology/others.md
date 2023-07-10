@@ -9,7 +9,7 @@
 
 ## Autophagy
 
-Autophagy (orautophagocytosis) (from the[Ancient Greek](https://en.wikipedia.org/wiki/Ancient_Greek)αὐτόφαγοςautóphagos, meaning "self-devouring"andκύτοςkýtos, meaning "hollow") is the natural, regulated mechanism of the cell that disassembles unnecessary or dysfunctional components.It allows the orderly degradation and recycling of cellular components
+Autophagy (or autophagocytosis) (from the Ancient Greek) αὐτόφαγοςautóphagos, meaning "self-devouring" andκύτοςkýtos, meaning "hollow") is the natural, regulated mechanism of the cell that disassembles unnecessary or dysfunctional components.It allows the orderly degradation and recycling of cellular components
 
 <https://en.wikipedia.org/wiki/Autophagy>
 
@@ -21,9 +21,11 @@ Physiological process through which new blood vessels form from per-existing ves
 
 ## Tomography
 
-Tomography is [imaging](https://en.wikipedia.org/wiki/Image)by sections or sectioning, through the use of any kind of penetrating[wave](https://en.wikipedia.org/wiki/Wave). The method is used in[radiology](https://en.wikipedia.org/wiki/Radiology),[archaeology](https://en.wikipedia.org/wiki/Archaeology),[biology](https://en.wikipedia.org/wiki/Biology),[atmospheric science](https://en.wikipedia.org/wiki/Atmospheric_science),[geophysics](https://en.wikipedia.org/wiki/Geophysics),[oceanography](https://en.wikipedia.org/wiki/Oceanography),[plasma physics](https://en.wikipedia.org/wiki/Plasma_physics),[materials science](https://en.wikipedia.org/wiki/Materials_science),[astrophysics](https://en.wikipedia.org/wiki/Astrophysics),[quantum information](https://en.wikipedia.org/wiki/Quantum_information), and other areas of science. The word *tomography* is derived from[Ancient Greek](https://en.wikipedia.org/wiki/Ancient_Greek)τόμος*tomos*, "slice, section" and γράφω*graphō*, "to write" (see also[Etymology](https://en.wikipedia.org/wiki/Etymology)). A device used in tomography is called a **tomograph**, while the image produced is a**tomogram
+Tomography is [imaging](https://en.wikipedia.org/wiki/Image)by sections or sectioning, through the use of any kind of penetrating [wave](https://en.wikipedia.org/wiki/Wave). The method is used in [radiology](https://en.wikipedia.org/wiki/Radiology),[archaeology](https://en.wikipedia.org/wiki/Archaeology),[biology](https://en.wikipedia.org/wiki/Biology),[atmospheric science](https://en.wikipedia.org/wiki/Atmospheric_science),[geophysics](https://en.wikipedia.org/wiki/Geophysics),[oceanography](https://en.wikipedia.org/wiki/Oceanography),[plasma physics](https://en.wikipedia.org/wiki/Plasma_physics),[materials science](https://en.wikipedia.org/wiki/Materials_science),[astrophysics](https://en.wikipedia.org/wiki/Astrophysics),[quantum information](https://en.wikipedia.org/wiki/Quantum_information), and other areas of science. The word *tomography* is derived from Ancient Greek τόμος *tomos*, "slice, section" and γράφω*graphō*, "to write" (see also[Etymology](https://en.wikipedia.org/wiki/Etymology)). A device used in tomography is called a **tomograph**, while the image produced is a tomogram
 
 <https://en.wikipedia.org/wiki/Tomography>
+
+## Glands
 
 Your body has two types of sweat glands:
 
@@ -37,6 +39,8 @@ Your body has two types of sweat glands:
 ![image](../../media/bio-Others-image1.jpg)
 
 [Getting older without getting old - with Andrew Steele](https://www.youtube.com/watch?v=fX9P1xuIJGg)
+
+[David Sinclair: Living to 120](https://www.safegraph.com/podcasts/david-sinclair)
 
 Hydra don't age
 

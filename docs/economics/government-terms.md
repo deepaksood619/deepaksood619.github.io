@@ -86,9 +86,7 @@ TheFiscal Responsibility and Budget Management Act, 2003(FRBMA) is an [Act](http
 The main objectives of the act were:
 
 1. to introduce transparent fiscal management systems in the country
-
 2. to introduce a more equitable and manageable distribution of the country's debts over the years
-
 3. to aim for fiscal stability for India in the long run
 
 Additionally, the act was expected to give necessary flexibility to [Reserve Bank of India](https://en.wikipedia.org/wiki/Reserve_Bank_of_India)(RBI) for managing inflation in India.

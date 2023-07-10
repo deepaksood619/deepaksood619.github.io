@@ -51,3 +51,5 @@ When you install Rustup you'll also get the latest stable version of the Rust bu
 [Welcome to Comprehensive Rust 🦀 - Comprehensive Rust 🦀](https://google.github.io/comprehensive-rust/welcome.html)
 
 [Effective Rust](https://www.lurklurk.org/effective-rust/)
+
+[Rust is easy... (we make it hard) - YouTube](https://www.youtube.com/watch?v=06CVZKbNvgE)

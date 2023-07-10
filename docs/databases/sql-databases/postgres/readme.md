@@ -157,3 +157,7 @@ SE Radio - 328: Postgres Query Planner (Robert Blumen with Bruce Momjian)
 [Postgres Copy](https://www.postgresql.org/docs/current/sql-copy.html)
 
 [Fun with PostgreSQL Puzzles: Moving Objects with Arrays, Sequences, and Aggregates](https://www.crunchydata.com/blog/fun-with-postgresql-puzzles-moving-objects-with-arrays-sequences-and-aggregates)
+
+[Postgres System Columns Explained (ctid, xmin,xmax) - YouTube](https://www.youtube.com/watch?v=AveRgUrC7FM)
+
+[Index Fill Factor | The Backend Engineering Show - YouTube](https://www.youtube.com/watch?v=qXDhMJCuDEc)

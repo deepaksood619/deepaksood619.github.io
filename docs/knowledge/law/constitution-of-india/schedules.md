@@ -4,39 +4,28 @@ Schedules - Additional details (like languages list)
 
 TEARS OF OLD PM
 
-T - Territories
-
-E - Emoluments
-
-A - Affirmations
-
-R - Rajya Sabha
-
-S - Scheduled Areas
-
-O - Other Scheduled Areas
-
-F - Federal Structure
-
-O - Official Languages
-
-L - Land Reforms
-
-D - Defection Laws
-
-P - Panchayat
-
-M - Muncipality
+- T - Territories
+- E - Emoluments
+- A - Affirmations
+- R - Rajya Sabha
+- S - Scheduled Areas
+- O - Other Scheduled Areas
+- F - Federal Structure
+- O - Official Languages
+- L - Land Reforms
+- D - Defection Laws
+- P - Panchayat
+- M - Muncipality
 
 ## List of Schedules of Indian Constitution
 
-1. First Schedule of Indian Constitution
+### 1. First Schedule of Indian Constitution
 
 It contains the name of States and Union **Territories**
 
 Territorial Jurisdiction of states is also included
 
-2. Second Schedule of Indian Constitution
+### 2. Second Schedule of Indian Constitution
 
 The provisions in relation to allowances, privileges, **emoluments** of:
 
@@ -50,7 +39,7 @@ The provisions in relation to allowances, privileges, **emoluments** of:
 - High Court Judges
 - [Comptroller & Auditor General of India (CAG)](https://byjus.com/free-ias-prep/the-comptroller-and-auditor-general-of-india/)
 
-3. Third Schedule
+### 3. Third Schedule
 
 It contains the forms of oath and **affirmations** for:
 
@@ -64,27 +53,27 @@ It contains the forms of oath and **affirmations** for:
 - State Legislature Members
 - [High Court](https://byjus.com/free-ias-prep/high-court/) Judges
 
-4. Fourth Schedule
+### 4. Fourth Schedule
 
 It contains the provisions in relation to the allocation of seats for States and Union Territories in the [**Rajya Sabha**](https://byjus.com/free-ias-prep/the-rajya-sabha/)
 
-5. Fifth Schedule
+### 5. Fifth Schedule
 
 It contains provisions in relation to the administration and control of **scheduled areas and scheduled tribes**
 
-6. Sixth Schedule
+### 6. Sixth Schedule
 
 It contains provisions in relation to the administration of tribal areas in the states of Assam, Meghalaya, Tripura and Mizoram
 
-7. Seventh Schedule
+### 7. Seventh Schedule
 
-## Federal Structure - This schedule deals with the three legislative lists
+Federal Structure - This schedule deals with the three legislative lists
 
 - Union
 - State
 - Concurrent
 
-8. [Eighth Schedule](https://byjus.com/free-ias-prep/list-of-languages-in-the-8th-schedule/)
+### 8. [Eighth Schedule](https://byjus.com/free-ias-prep/list-of-languages-in-the-8th-schedule/)
 
 It deals with the 22 **official languages** recognized by the Indian Constitution:
 
@@ -111,7 +100,7 @@ It deals with the 22 **official languages** recognized by the Indian Constitutio
 - Telugu
 - Urdu
 
-9. Ninth Schedule
+### 9. Ninth Schedule
 
 It deals with the state acts and regulations of that deal with **land reforms** and abolition of the [zamindari system](https://byjus.com/free-ias-prep/post-independent-india-zamindari-system-and-kisan-sabha/). It also deals with the acts and regulations of the Parliament dealing with other matters.
 
@@ -123,7 +112,7 @@ However, in 2007, the Supreme Court ruled that the laws included in this schedul
 
 April 24, 1973, are now open to judicial review
 
-10. [Tenth Schedule](https://byjus.com/free-ias-prep/anti-defection-role-of-speaker-10th-schedule-upsc-notes/)
+### 10. [Tenth Schedule](https://byjus.com/free-ias-prep/anti-defection-role-of-speaker-10th-schedule-upsc-notes/)
 
 It contains provisions relating to **disqualification** of the members of Parliament and State Legislatures on the ground of **defection**.
 
@@ -131,7 +120,7 @@ Note:
 
 This schedule was added by the 52nd Amendment Act of 1985, also known as Anti-defection Law
 
-11. Eleventh Schedule
+### 11. Eleventh Schedule
 
 It contains the provisions that specify the powers, authority and responsibilities of **Panchayats**. It has 29 matters.
 
@@ -141,7 +130,7 @@ This schedule was added
 
 by the 73rd Amendment Act of 1992
 
-12. Twelfth Schedule
+### 12. Twelfth Schedule
 
 It deals with the provisions that specify the powers, authority and responsibilities of **Municipalities**. It has 18 matters.
 

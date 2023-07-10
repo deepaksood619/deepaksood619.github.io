@@ -16,6 +16,8 @@ It does this by taking the core of Django and layering a fully asynchronous laye
 
 <https://medium.com/@ksarthak4ever/django-websockets-and-channels-85b7d5e59dda>
 
+[valberg.dk - Writing a chat application in Django 4.2 using async StreamingHttpResponse, Server-Sent Events and PostgreSQL LISTEN/NOTIFY](https://valberg.dk/django-sse-postgresql-listen-notify.html)
+
 ## Pinax
 
 Pinax is an open source ecosystem of reusable Django apps, themes, and starter project templates.

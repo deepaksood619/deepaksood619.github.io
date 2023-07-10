@@ -41,3 +41,15 @@ One of the main use of the TVL ratio is to help determine if a DeFi asset is und
 - TVL (total value locked) refers to the total amount of cryptocurrency being employed by a DeFi project.
 - Market cap refers to the total outstanding value of a project or blockchain cryptocurrency.
 - TVL ratio gauges the health of a protocol.
+
+## Slippage
+
+Slippage is the difference between the average purchase or sale price for a trade and the initial selling or market price. Slippage refers to the changes in the presiding price of an asset in the course of the execution of a trade request.
+
+- Slippage can be positive or negative depending on its impact on the final trade results. In a positive scenario, a buyer ends up realizing more tokens as the average purchase price becomes lower than the presiding selling price. The reverse is the case in a negative slippage scenario.
+
+- A major cause of slippage on centralized exchanges is the liquidity density and the spread across the order prices. Slippage on decentralized exchanges can be caused by other reasons, including tax contracts on the token’s smart contract.
+
+- Slippage on any trading platform can be controlled by modifying trading parameters or using slippage control facilities where they are available. Decentralized exchanges allow users to set up the maximum allowed slippage for their trades using the slippage modification feature.
+
+[What is Slippage in Crypto and How to Minimize Its Impact | CoinGecko](https://www.coingecko.com/learn/slippage-crypto)
