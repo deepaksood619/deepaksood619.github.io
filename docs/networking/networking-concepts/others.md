@@ -59,7 +59,6 @@ Next, double-click onLimit number of connectionsand then set theRD Maximum Conne
 
 <https://www.serverwatch.com/server-tutorials/multiple-remote-desktop-connections-on-windows-server-2016-and-windows-server-2012.html>
 
-
 ## ONAP
 
 ONAP is a comprehensive platform for orchestration, management, and automation of network and edge computing services for network operators, cloud providers, and enterprises. Real-time, policy-driven orchestration and automation of physical and virtual network functions enables rapid automation of new services and complete lifecycle management critical for 5G and next-generation networks.

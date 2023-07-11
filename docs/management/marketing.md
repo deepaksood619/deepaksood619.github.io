@@ -68,7 +68,7 @@ The opposite of the halo effect is the horn effect, named for the horns of the d
 
 ## Email Marketing
 
-[Stripo — FREE Email Template Builder: Drag and Drop Html Email Editor](https://stripo.email/)
+[Stripo - FREE Email Template Builder: Drag and Drop Html Email Editor](https://stripo.email/)
 
 I see email being used, by and large, exactly the way I envisioned. In particular, it's not strictly a work tool or strictly a personal thing. Everybody uses it in different ways, but they use it in a way they find works for them. -- Ray Tomlinson (Inventor - Email)
 

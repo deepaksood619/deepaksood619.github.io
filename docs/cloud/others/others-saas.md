@@ -151,7 +151,7 @@ Open-source low-code framework for building React-based web applications and int
 
 [Drag and Drop Website Builder - Create Websites with WebWave](https://webwave.me/)
 
-[Locofy.ai - ship your products 5-10x faster — with low code](https://www.locofy.ai/)
+[Locofy.ai - ship your products 5-10x faster - with low code](https://www.locofy.ai/)
 
 ## Products
 

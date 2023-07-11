@@ -2,9 +2,9 @@
 
 ### What Factors affect Join Operations?
 
-1. **Dataset Size —** The size of the datasets participating in the join will directly affect the join operation performance.
-2. **Condition of Join —** The condition of join derives from the logical comparison of the fields in the datasets. These conditions can be categorized as Equivalence condition `( = )` or Non-Equivalence condition `( >, <, ≥, ≤, <>)`.
-3. **Type of Join —** After selecting the condition of Join, we need to check for the type of join which is categorized as _Inner, Outer, Semi, or Cross Join_.
+1. **Dataset Size -** The size of the datasets participating in the join will directly affect the join operation performance.
+2. **Condition of Join -** The condition of join derives from the logical comparison of the fields in the datasets. These conditions can be categorized as Equivalence condition `( = )` or Non-Equivalence condition `( >, <, ≥, ≤, <>)`.
+3. **Type of Join -** After selecting the condition of Join, we need to check for the type of join which is categorized as _Inner, Outer, Semi, or Cross Join_.
 
 ### Spark strategies for join execution
 
@@ -86,10 +86,10 @@ This join strategy is selected when no suitable join mechanism to choose from. I
 
 Look at the join hints in the following order:
 
-1. **_Broadcast Hint_ —** Pick Broadcast Hash Join if join type is supported.
-2. **_Sort Merge Hint_** — Pick Sort-Merge to join if join keys are sortable.
-3. **_Shuffle Hash Hint_** — Pick Shuffle Hash Join if join type is supported.
-4. **_Shuffle Replicate NL Hint_** — Pick Cartesian Product if join type is inner like.
+1. **_Broadcast Hint_ -** Pick Broadcast Hash Join if join type is supported.
+2. **_Sort Merge Hint_** - Pick Sort-Merge to join if join keys are sortable.
+3. **_Shuffle Hash Hint_** - Pick Shuffle Hash Join if join type is supported.
+4. **_Shuffle Replicate NL Hint_** - Pick Cartesian Product if join type is inner like.
 
 If no hints are applicable
 
@@ -104,7 +104,7 @@ If no hints are applicable
 Look at the join hints in the following order:
 
 1. **_Broadcast Hint —_** Pick the Broadcast Nested Loop Join.
-2. **_Shuffle Replicate NL Hint_** — Pick Cartesian Product if the join type is inner like.
+2. **_Shuffle Replicate NL Hint_** - Pick Cartesian Product if the join type is inner like.
 
 ## Takeaways
 
@@ -123,6 +123,6 @@ Look at the join hints in the following order:
 
 [Join Strategies in Apache Spark— Deep Dive | by Siddharth Ghosh | Medium](https://medium.com/@ghoshsiddharth25/apache-spark-join-strategies-deep-dive-26bf7e85db28)
 
-[Spark Join Strategies — How & What? | by Jyoti Dhiman | Towards Data Science](https://towardsdatascience.com/strategies-of-spark-join-c0e7b4572bcf)
+[Spark Join Strategies - How & What? | by Jyoti Dhiman | Towards Data Science](https://towardsdatascience.com/strategies-of-spark-join-c0e7b4572bcf)
 
 **[On Improving Broadcast Joins in Apache Spark SQL – Databricks](https://www.databricks.com/session_na20/on-improving-broadcast-joins-in-apache-spark-sql)**

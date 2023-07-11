@@ -106,7 +106,7 @@ The experiments showed how normal, intelligent people were willing to give an ob
 
 Gaslight - manipulate (someone) by psychological means into doubting their own sanity.
 
-psychological manipulation of a person for one’s advantage—causing the person to question the validity of their own thoughts, reality, or sanity.
+psychological manipulation of a person for one’s advantage-causing the person to question the validity of their own thoughts, reality, or sanity.
 
 ## Others
 

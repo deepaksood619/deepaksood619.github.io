@@ -124,7 +124,7 @@ MLlib provides high-level algorithms that are commonly used in general data anal
 
 <https://towardsdatascience.com/natural-language-processing-with-spark-9efef3564270>
 
-[Koalas: pandas API on Apache Spark — Koalas 1.8.2 documentation](https://koalas.readthedocs.io/en/latest/)
+[Koalas: pandas API on Apache Spark - Koalas 1.8.2 documentation](https://koalas.readthedocs.io/en/latest/)
 
 ## Spark UI
 

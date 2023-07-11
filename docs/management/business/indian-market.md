@@ -8,4 +8,4 @@
 
 ## Links
 
-[Indian Industries Sectors](../../economics/financial-finance-investing/industry-sectors)
+[Indian Industries Sectors](economics/finance-investing/industry-sectors.md)

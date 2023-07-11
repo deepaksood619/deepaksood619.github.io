@@ -10,7 +10,7 @@
 - [DefiLlama - DeFi Dashboard - TVL](https://defillama.com/?_sp=4a5917cc-9246-49fa-a008-41c519296ec8.1684908761328)
 - [Token unlocks](https://token.unlocks.app/)
 - [Crypto Prices and Portfolio Tracker App | CoinStats](https://coinstats.app/)
-- [Blockchair — Universal blockchain explorer and search engine](https://blockchair.com/)
+- [Blockchair - Universal blockchain explorer and search engine](https://blockchair.com/)
 
 ### Others
 
@@ -104,10 +104,16 @@
 
 ### Yearn Finance (YFI)
 
+- Yield aggregator built on Ethereum network that's able to maximize yield by dynamically allocating liquidity to number of different defi protocols
+- Ethereum dapp that automatically allocates supplied liquidity to different pools in the defi ecosystem
+- Automated yield farming protocol that searches the market for best return opportunities and supplies the pooled liquidity to said opportunities
+- Opens the complicated yield farming strategies to average crypto user
+
 - [Yearn](https://yearn.finance/)
 - [YEARN FINANCE And YFI Token Explained | DeFi, Ethereum - YouTube](https://www.youtube.com/watch?v=qG1goOptZ5w&ab_channel=Finematics)
 - [What are YEARN VAULTS? ETH Vault Explained | DEFI, YIELD FARMING - YouTube](https://www.youtube.com/watch?v=9vTaNl2_B8A&ab_channel=Finematics)
 - [Yearn | Introduction to Yearn Vaults - YouTube](https://www.youtube.com/watch?v=a1TsO62402c)
+- [Yearn Finance (YFI): A DeFi Money MACHINE!! 💸 - YouTube](https://www.youtube.com/watch?v=opfkTb4ndvc)
 
 ### Compound Finance
 
@@ -122,7 +128,7 @@
 
 [Best Crypto Staking Platforms & Reward Rates for 2023](https://milkroad.com/staking)
 
-[11 Best Defi Crypto Coins to Buy In 2023 — tastycrypto](https://www.tastycrypto.com/blog/top-defi-tokens)
+[11 Best Defi Crypto Coins to Buy In 2023 - tastycrypto](https://www.tastycrypto.com/blog/top-defi-tokens)
 
 [Why Do People Buy Crypto | CoinGecko](https://www.coingecko.com/research/publications/why-people-buy-crypto)
 

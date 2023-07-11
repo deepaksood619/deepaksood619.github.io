@@ -67,7 +67,7 @@
 
 ## Double Entry Accounting
 
-Double-entry accounting is **a system that requires two book entries — one debit and one credit — for every transaction within a business**. Your books are balanced when the sum of each debit and its corresponding credit equals zero
+Double-entry accounting is **a system that requires two book entries - one debit and one credit - for every transaction within a business**. Your books are balanced when the sum of each debit and its corresponding credit equals zero
 
 [What Is Double-Entry Accounting? - NerdWallet](https://www.nerdwallet.com/article/small-business/double-entry-accounting)
 

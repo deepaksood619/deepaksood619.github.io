@@ -129,6 +129,7 @@ The term fixed income is also applied to a person's income that does not vary ma
 
 - EPF (Increase upto 12% of Basic)
 - PPF
+- NPS
 - Recurring deposits (isave ICICI, bigger deposit allowed)
 - Fixed deposits
 - arbitrage mutual funds
@@ -140,6 +141,12 @@ The term fixed income is also applied to a person's income that does not vary ma
   <https://www.thefixedincome.com>
 
 - Debentures (good option)
+
+## EPF Employee Provident Fund
+
+[How to Get or Withdraw EPF Money After Resignation](https://www.bankbazaar.com/saving-schemes/epf-money-after-resignation.html)
+
+**Pension fund** is a retirement savings plan where a portion of your salary is set aside for your future. The funds are managed by a trustee and typically paid out as a monthly pension after retirement. **Provident fund** is similar, but the entire balance is paid out as a lump sum, not as a monthly pension.
 
 ## Emergency Fund / War Chest / Contingency Kitty
 
@@ -158,10 +165,6 @@ This is where you save for large-scale emergencies like a major natural disaster
 This is the fund you rush to in cases of emergencies. Such a fund should offer little in terms of interest but allow immediate accessibility, which in case of extreme situations can suffice till you gain access to your long-term emergency funds.
 
 <https://www.paytmmoney.com/blog/emergency-funds>
-
-## EPF Employee Provident Fund
-
-[How to Get or Withdraw EPF Money After Resignation](https://www.bankbazaar.com/saving-schemes/epf-money-after-resignation.html)
 
 ## Retirement
 

@@ -1,18 +1,4 @@
-# Checklist / Tips / Personal Finance / Quotes
-
-Markets discount everything
-
-Best asset is a machine that creates more asset
-
-If money fails, asset is the king
-
-The things that people really want
-
-Return of capital is more important than return on capital
-
-It's far better to buy a wonderful company at a fair price, than a fair company at a wonderful price" - Warren Buffet
-
-Being rich is having money, being wealthy is having time -- Margaret Bonnano
+# Checklist / Tips / Personal Finance
 
 ## Choosing companies
 

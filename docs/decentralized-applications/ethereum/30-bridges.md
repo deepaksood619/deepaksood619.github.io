@@ -55,7 +55,7 @@ To evaluate trustless bridges based on other factors, we must break them down in
 
 An atomic swap is an exchange of cryptocurrencies from separate blockchains. The swap is conducted between two entities without a third party's involvement. The idea is to remove centralized intermediaries like regulated exchanges and give token owners total control.
 
-The term atomic derives from the term "atomic state" in which a state has no substates; it either happens or it doesn't—there is no other alternative. This refers to the state of the cryptocurrency transaction; it happens or it doesn't.
+The term atomic derives from the term "atomic state" in which a state has no substates; it either happens or it doesn't-there is no other alternative. This refers to the state of the cryptocurrency transaction; it happens or it doesn't.
 
 Most atomic swap-enabled [wallets](https://www.investopedia.com/terms/b/blockchain-wallet.asp) and blockchains use smart contracts. Smart contracts are programs within blockchains that execute when certain conditions are met. In this case, the conditions are that each party agrees to the transaction before a timer runs out. Using a smart contract in the trade prevents either party from stealing a cryptocurrency from the other.
 

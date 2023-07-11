@@ -54,7 +54,7 @@ A tax rate of 20% is levied on long-term capital gains above 36 months after ind
 
 ## Indexation
 
-Indexation is a technique to adjust income payments by means of a price index, in order to maintain the purchasing power of the public after inflation, while deindexation is the unwinding ofindexation.
+Indexation is a technique to adjust income payments by means of a price index, in order to maintain the purchasing power of the public after inflation, while de-indexation is the unwinding of indexation.
 
 <https://cleartax.in/s/indexation-helps-reduce-tax-debt-fund-gains>
 
@@ -258,4 +258,4 @@ An offshore account is one that is opened by a citizen outside her home country.
 
 [Section 10 Of Income Tax Act: Exemptions, Allowances and How To Claim It?](https://cleartax.in/s/section-10-of-income-tax-act)
 
-[Fetching Title#sgzf](https://www.youtube.com/watch?v=BfSx7qcDxx4)
+[How to Save TAX](https://www.youtube.com/watch?v=BfSx7qcDxx4)

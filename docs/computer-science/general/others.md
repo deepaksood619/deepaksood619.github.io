@@ -71,10 +71,10 @@ However, remember that these IDs are not random, and their uniqueness is now you
 
 ### UUID Future
 
-- UUID Version 6 (UUIDv6) — A simple reordering of the bits within a UUIDv1 to allow it to be sorted as an opaque sequence of bytes.
-- UUID Version 7 (UUIDv7) — A new time-based UUID bit layout based on the Unix Epoch timestamp already widely used in the industry.
-- UUID Version 8 (UUIDv8) — A free-form format whose only requirement is to keep backward compatibility.
-- Max UUID — A specialty UUID that acts as the inverse of the [Nil UUID](https://www.rfc-editor.org/rfc/rfc4122#section-4.1.7) put forth in RFC 4122
+- UUID Version 6 (UUIDv6) - A simple reordering of the bits within a UUIDv1 to allow it to be sorted as an opaque sequence of bytes.
+- UUID Version 7 (UUIDv7) - A new time-based UUID bit layout based on the Unix Epoch timestamp already widely used in the industry.
+- UUID Version 8 (UUIDv8) - A free-form format whose only requirement is to keep backward compatibility.
+- Max UUID - A specialty UUID that acts as the inverse of the [Nil UUID](https://www.rfc-editor.org/rfc/rfc4122#section-4.1.7) put forth in RFC 4122
 
 With random ID’s, values that are near each other in the index are going to be inserted at totally different times, and be in totally different places in the table.
 

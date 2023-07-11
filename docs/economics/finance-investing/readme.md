@@ -1,48 +1,15 @@
-# Financial/Finance / Investing
+# Finance / Investing
 
-Always think about Ideal world, as to what will happen in ideal world
-
-Invest in liquid debt bonds
-
-Don't invest a lot in US, new world order, China is a rising giant
-
-Buy the rumors sell the news
-
-Past performance is no guarantee for future performance
-
-It's not hard to get rich. Investing is a game of temperament not a game of intelligence.
-
-An investor without an investment objective is like a traveler without a destination!
-
-In investing, what is comfortable is rarely profitable -- Robert Arnott
-
-If inflation is 5% then your existing money will be half of what it is now in 14 years
-
-**counter cyclical fiscal policy**
-
-**Mal investment - the action or fact of investing money in an ill-judged or wasteful way**
-
-A **consumer spends money and follows trends** while an **investor puts capital to work** and takes advantage of trends.
-
-Chronic consumers often go broke, and persistent investors often get rich.
-
-2 Crore corpus for getting 1,00,000 monthly income at 6% interest before tax
-
-I don't want returns in % I want returns in X
-
-Debt is a hedge against inflation
-
-Us dollars as back-up currency in case of war
-
-Investing should be more like watching paint dry or watching grass grow. If you want excitement, take $800 and go to Las Vegas
-
-In a bear market, smart long-term decisions often look foolish in the short-term; whereas in a bull market foolish long-term decisions often look smart in the short-term.
-
-You can't take the same actions as everyone else and expect to outperform
-
-You can't hope to earn above average returns if you don't place active bets, but if your active bets are wrong, your return will be below average.
-
-If you hope to distinguish yourself in terms of performance, you have to depart from the pack. But, having departed, the difference will only be positive if your choice of strategies and tactics is correct and/or you're able to execute better
+- [Financial Independence (FIRE)](economics/finance-investing/financial-independence.md)
+- [Portfolios](economics/finance-investing/portfolios.md)
+- [BNPL](economics/finance-investing/buy-now-pay-later-bnpl.md)
+- [Checklist](economics/finance-investing/checklist-tips-personal-finance.md)
+- [Returns / Tax / Taxes / ITR](economics/finance-investing/returns-tax-taxes-itr.md)
+- [Stocks / Equity](economics/finance-investing/stocks-equity.md)
+- [Industry Sectors](economics/finance-investing/industry-sectors.md)
+- [Quotes](economics/finance-investing/quotes.md)
+- [Company Management](economics/finance-investing/company-management.md)
+- [Indian Company Types](economics/finance-investing/indian-company-types.md)
 
 <https://freefincal.com/hdfc-corporate-bond-fund>
 

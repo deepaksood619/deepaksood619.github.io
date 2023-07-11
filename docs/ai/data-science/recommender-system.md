@@ -21,4 +21,4 @@ Examples of web services that make use of Recommender Systems are: online auctio
 
 ### Price Recommendation Engine
 
-[ML driven dynamic pricing @ CARS24 — Part 1 | by Shashank Kumar | CARS24 Data Science Blog | Mar, 2023 | Medium](https://medium.com/cars24-data-science-blog/how-cars24-uses-machine-learning-for-dynamic-pricing-of-used-cars-part-1-51fee52860d1)
+[ML driven dynamic pricing @ CARS24 - Part 1 | by Shashank Kumar | CARS24 Data Science Blog | Mar, 2023 | Medium](https://medium.com/cars24-data-science-blog/how-cars24-uses-machine-learning-for-dynamic-pricing-of-used-cars-part-1-51fee52860d1)

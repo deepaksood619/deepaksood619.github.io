@@ -32,7 +32,7 @@ When you install Rustup you'll also get the latest stable version of the Rust bu
 
 [Introduction - Learning Rust With Entirely Too Many Linked Lists](https://rust-unofficial.github.io/too-many-lists/)
 
-[Rust at speed — building a fast concurrent database - YouTube](https://www.youtube.com/watch?v=s19G6n0UjsM&ab_channel=JonGjengset)
+[Rust at speed - building a fast concurrent database - YouTube](https://www.youtube.com/watch?v=s19G6n0UjsM&ab_channel=JonGjengset)
 
 <https://www.rust-lang.org/learn>
 

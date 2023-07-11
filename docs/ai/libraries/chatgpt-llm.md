@@ -84,7 +84,7 @@ Merlin Chrome Extension
 
 [**H2O.ai** | The fastest, most accurate AI Cloud Platform](https://h2o.ai/)
 
-[Framer — Start your dream site with AI. Zero code, maximum speed.](https://www.framer.com/)
+[Framer - Start your dream site with AI. Zero code, maximum speed.](https://www.framer.com/)
 
 #### Prompts
 
@@ -104,7 +104,7 @@ Prompt: "I want to learn about {insert topic}. Identify and share the most impor
 
 ## Dev Tools
 
-[Welcome to LangChain — 🦜🔗 LangChain 0.0.180](https://python.langchain.com/en/latest/index.html)
+[Welcome to LangChain - 🦜🔗 LangChain 0.0.180](https://python.langchain.com/en/latest/index.html)
 
 ## Links
 

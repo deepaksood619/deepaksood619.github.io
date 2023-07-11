@@ -117,7 +117,7 @@ It's hard to compute, but it's how the world works.
 
 All of us speak. BUT very few are really heard closely and carefully.
 
-Here are seven deadly sins of speaking — the reasons why nobody wants to listen to you:
+Here are seven deadly sins of speaking - the reasons why nobody wants to listen to you:
 
 1. **Gossip -** The person gossiping about someone behind their back will very certainly gossip about us when we’re not around.
 2. **Judging -** It’s hard to keep a conversation with someone who’s judgmental. You don’t know her/him, you just know a very small part of her/his story.

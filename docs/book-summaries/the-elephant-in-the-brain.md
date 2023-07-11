@@ -35,8 +35,8 @@ the public expression of opinions or sentiments intended to demonstrate one's go
 
 - Introduced the paper straws just so that they could show to the public that they were doing something.
 - Often, many of those who virtue signal do it without actually practicing what they preach.
-- So many famous people ask their fans and followers to do whatever it takes to pollute the environment a little less — like using public transport. And then you learn about how they use private planes to go everywhere.
-- The world of finance has a lot of these — virtue signallers.
+- So many famous people ask their fans and followers to do whatever it takes to pollute the environment a little less - like using public transport. And then you learn about how they use private planes to go everywhere.
+- The world of finance has a lot of these - virtue signallers.
 - Countless very rich people have asked others not to worry about money at all; to follow their passion; that money doesn’t buy happiness.
 - Yet they still continue to work and grow their wealth every year.
 - There are studies to show that money does buy happiness till a certain limit. Nobody likes to be hungry.

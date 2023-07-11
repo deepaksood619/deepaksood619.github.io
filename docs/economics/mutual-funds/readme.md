@@ -102,7 +102,7 @@ Arbitrage funds work by exploiting the price differential between assets that sh
 #### Common Names
 
 - Bluechip’ and ‘large-cap’ are the same thing.
-- ‘Long-term equity’, ‘tax saver’, ‘tax plan’, ‘tax relief’, and ‘ELSS’ are all the same thing — they are funds that help you save tax under section 80C.
+- ‘Long-term equity’, ‘tax saver’, ‘tax plan’, ‘tax relief’, and ‘ELSS’ are all the same thing - they are funds that help you save tax under section 80C.
 - ‘Emerging large-cap’ is the same as ‘large & mid-cap’.
 
 #### What is difference in Multi Asset Fund & other Hybrid funds?

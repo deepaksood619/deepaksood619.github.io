@@ -476,4 +476,4 @@ If you don't know already, then TradingView is now available on Kite. Here is th
 
 ## Others
 
-[How to analyse the markets? — Part 1](https://www.youtube.com/watch?v=dMjce5P4j-Y)
+[How to analyse the markets? - Part 1](https://www.youtube.com/watch?v=dMjce5P4j-Y)

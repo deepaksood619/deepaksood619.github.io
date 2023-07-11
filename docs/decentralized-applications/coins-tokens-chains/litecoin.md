@@ -8,7 +8,7 @@ The cryptocurrency was created based on the [Bitcoin](https://coinmarketcap.com
 
 Litecoin was released via an open-source client on GitHub on Oct. 7, 2011, and the Litecoin Network went live five days later on Oct. 13, 2011. Since then, it has exploded in both usage and acceptance among merchants and has counted among the top ten cryptocurrencies by market capitalization for most of its existence.
 
-The cryptocurrency was created by Charlie Lee, a former Google employee, who intended Litecoin to be a "lite version of Bitcoin," in that it features many of the same properties as Bitcoin—albeit lighter in weight.
+The cryptocurrency was created by Charlie Lee, a former Google employee, who intended Litecoin to be a "lite version of Bitcoin," in that it features many of the same properties as Bitcoin-albeit lighter in weight.
 
 ### What Makes Litecoin Unique?
 
@@ -32,6 +32,10 @@ Litecoin was designed for speed, whereas Bitcoin was built for maximum security 
 
 [Litecoin price today, LTC to USD live price, marketcap and chart | CoinMarketCap](https://coinmarketcap.com/currencies/litecoin/)
 
+[Charlie Lee - Twitter](https://twitter.com/SatoshiLite)
+
 [https://litecoin.com/en/](https://litecoin.com/en/)
 
 [Litecoin: Is LTC Seriously Underrated? My Take!! 🧐 - YouTube](https://www.youtube.com/watch?v=EkAJVZy7qNo)
+
+[What is Litecoin? LTC Explained with Animations - YouTube](https://www.youtube.com/watch?v=JMTJvXyHJGU)

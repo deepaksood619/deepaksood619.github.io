@@ -36,7 +36,7 @@ One of the main use of the TVL ratio is to help determine if a DeFi asset is und
 
 [Total Value Locked (TVL) Definition | CoinMarketCap](https://coinmarketcap.com/alexandria/glossary/total-value-locked-tvl)
 
-**[TVL vs Market Cap vs TVL Ratio: Crypto Concepts — tastycrypto](https://www.tastycrypto.com/blog/tvl-vs-market-cap)**
+**[TVL vs Market Cap vs TVL Ratio: Crypto Concepts - tastycrypto](https://www.tastycrypto.com/blog/tvl-vs-market-cap)**
 
 - TVL (total value locked) refers to the total amount of cryptocurrency being employed by a DeFi project.
 - Market cap refers to the total outstanding value of a project or blockchain cryptocurrency.

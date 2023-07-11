@@ -47,10 +47,13 @@
 - TRON
 - Avalanche
 - Cronos (CRO)
-- Monero (XMR) - [Monero - secure, private, untraceable](https://www.getmonero.org/) (argues it’s more private than Bitcoin)
-- Secret (SCRT) - [Secret Network](https://scrt.network/)
 - zcash which claims it uses advanced tech to make sure that detecting ownership is nearly impossible
 - wbtc - [BITCOIN on ETHEREUM? (renBTC, wBTC, tBTC, sBTC) | DEFI Explained - YouTube](https://www.youtube.com/watch?v=iExly7FGKAQ)
+
+### Privacy coins
+
+- Monero (XMR) - [Monero - secure, private, untraceable](https://www.getmonero.org/) (argues it’s more private than Bitcoin) - [What is Monero? XMR Explained with Animations - YouTube](https://www.youtube.com/watch?v=B7sLnmlZ-kU)
+- Secret (SCRT) - [Secret Network](https://scrt.network/)
 
 ### MemeCoins
 

@@ -124,6 +124,19 @@ conda install --file requirements.txt
 conda install --use-local psycopg2-binary
 ```
 
+## pipx
+
+Install and Run Python Applications in Isolated Environments
+
+```bash
+brew install pipx
+pipx ensurepath
+
+pipx completions
+```
+
+[pipx](https://pypa.github.io/pipx/)
+
 ## References
 
 <https://stackoverflow.com/questions/41573587/what-is-the-difference-between-venv-pyvenv-pyenv-virtualenv-virtualenvwrappe>

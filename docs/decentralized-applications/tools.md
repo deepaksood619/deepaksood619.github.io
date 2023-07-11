@@ -27,7 +27,7 @@ The future of decentralized finance lies in the hands of those who dare to chall
   - Banxa
   - Mercuryo
   - CoinGate
-  - [NOWPayments — Accept Crypto Payments as a Business](https://nowpayments.io/)
+  - [NOWPayments - Accept Crypto Payments as a Business](https://nowpayments.io/)
 - [Plug & play APIs to simplify the web3 experience | Biconomy](https://www.biconomy.io/)
 - [Web3's leading platform for NFT experiences | HyperMint by MoonPay](https://hypermint.com/)
 - KYC - sumsub

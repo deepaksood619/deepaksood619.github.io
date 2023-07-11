@@ -39,9 +39,9 @@ Understanding that not all interested stakers can afford 32 ETH to participate i
 
 ## Liquid Staking
 
-Staking is a way to help secure proof-of-stake blockchain networks like Ethereum. Network participants can run a validator node by putting tokens "at stake," which can then be "slashed" (taken away as a penalty) if the node commits any malicious actions or is unreliable. While there are many solo node operators, anyone can stake tokens through staking as a service (SaaS) provider—exposing them to the same risks and giving them the opportunity to share in rewards. However, staked tokens cannot be transacted or used as collateral to earn yield across the [DeFi](https://chain.link/education/defi) ecosystem.
+Staking is a way to help secure proof-of-stake blockchain networks like Ethereum. Network participants can run a validator node by putting tokens "at stake," which can then be "slashed" (taken away as a penalty) if the node commits any malicious actions or is unreliable. While there are many solo node operators, anyone can stake tokens through staking as a service (SaaS) provider-exposing them to the same risks and giving them the opportunity to share in rewards. However, staked tokens cannot be transacted or used as collateral to earn yield across the [DeFi](https://chain.link/education/defi) ecosystem.
 
-Liquid staking service providers solve this liquidity problem by minting a new token—representing a claim on the underlying staked asset—which can then be traded or deposited in DeFi protocols. For example, a user could deposit ETH to the Lido staking pool and receive stETH (staked ETH) tokens in return, then deposit the stETH to Aave to earn yield. Essentially, liquid staking builds upon existing staking systems by unlocking liquidity for staked tokens.
+Liquid staking service providers solve this liquidity problem by minting a new token - representing a claim on the underlying staked asset - which can then be traded or deposited in DeFi protocols. For example, a user could deposit ETH to the Lido staking pool and receive stETH (staked ETH) tokens in return, then deposit the stETH to Aave to earn yield. Essentially, liquid staking builds upon existing staking systems by unlocking liquidity for staked tokens.
 
 [What Is Liquid Staking? | Chainlink](https://blog.chain.link/liquid-staking/)
 

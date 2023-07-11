@@ -8,7 +8,7 @@
 
 [B-money Definition](https://www.investopedia.com/terms/b/bmoney.asp)
 
-[Lecture 12 — History of Cryptocurrencies [Bonus lecture] - YouTube](https://www.youtube.com/watch?v=1VYs_zZsorU)
+[Lecture 12 - History of Cryptocurrencies [Bonus lecture] - YouTube](https://www.youtube.com/watch?v=1VYs_zZsorU)
 
 ## 2.0 stack
 

@@ -9,7 +9,7 @@
 
 [Home | Delta Lake](https://delta.io/)
 
-[Welcome to the Delta Lake documentation — Delta Lake Documentation](https://docs.delta.io/latest/index.html)
+[Welcome to the Delta Lake documentation - Delta Lake Documentation](https://docs.delta.io/latest/index.html)
 
 [What is Delta Lake? | Databricks on AWS](https://docs.databricks.com/delta/index.html)
 
@@ -62,7 +62,7 @@ When in dynamic partition overwrite mode, operations overwrite all existing data
 
 Data in Spark is ideally stored in a smaller number of large files between [128MB and 1GB in size](https://docs.databricks.com/delta/optimizations/auto-optimize.html). This allows the driver and workers to operate efficiently. Having the data fragmented into many small files will slow down reading of the Delta store and will overload the driver memory as it attempts to load metadata for many small files into memory at once.
 
-There are two causes of file fragmentation — unoptimized updates and excessive partitioning.
+There are two causes of file fragmentation - unoptimized updates and excessive partitioning.
 
 #### Unoptimized updates
 
@@ -76,7 +76,7 @@ If a data column with high ordinality (many discrete values) is chosen as a part
 
 If a stream has unoptimized updates and excessive partitioning, then the two factors multiply. A delta store organised this way can easily end up with millions of small fragmented files (the number of partitions times the number of tiny updates per partition).
 
-[Databricks Delta — Partitioning best practice | by gregzrichardson | Nintex Developers | Medium](https://medium.com/nintex-developers/databricks-delta-partitioning-best-practice-c19df9c8a7d2)
+[Databricks Delta - Partitioning best practice | by gregzrichardson | Nintex Developers | Medium](https://medium.com/nintex-developers/databricks-delta-partitioning-best-practice-c19df9c8a7d2)
 
 ## Vacuum
 

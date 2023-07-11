@@ -43,3 +43,19 @@ databricks secrets put --scope abc-scope --key abc
 - H - show all shortcuts
 - cmd-shift-f : Format code
 - cmd + / : Comment all highlighted code
+
+## blackbricks (formatter)
+
+```bash
+pipx install blackbricks
+
+# running on all local files
+blackbricks .
+
+# running on remote files
+blackbricks --remote /Repos/username/folder/test_repo_pipeline.py
+
+blackbricks --remote --profile OTHERPROFILE /Users/name.user@example.com/notebook.py
+```
+
+[GitHub - inspera/blackbricks: Black for Databricks notebooks](https://github.com/inspera/blackbricks)

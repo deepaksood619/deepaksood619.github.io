@@ -344,7 +344,7 @@ Spend the first 3 years of your career ensuring these to accelerate your growth
 - show extreme ownership and lead
 - help others succeed
 
-"Software engineering is programming integrated over time" — That’s an interesting statement from Software Engineering at Google which I agree with. When you are sitting alone, writing the code for your side project as a habit, it's programming. All thoughts are encapsulated in your mind. But when you and your colleagues work on one project, discuss how to write the code correctly, trade-off between scalability and delivery, how to scale the engineering team and product by hiring and creating standard processes…etc, at Money Forward i, we call all that engineering. -- Tran B.V. Son, CTO @ money forward i
+"Software engineering is programming integrated over time" - That’s an interesting statement from Software Engineering at Google which I agree with. When you are sitting alone, writing the code for your side project as a habit, it's programming. All thoughts are encapsulated in your mind. But when you and your colleagues work on one project, discuss how to write the code correctly, trade-off between scalability and delivery, how to scale the engineering team and product by hiring and creating standard processes…etc, at Money Forward i, we call all that engineering. -- Tran B.V. Son, CTO @ money forward i
 
 ![image](../../media/quotes-crypto.jpg)
 

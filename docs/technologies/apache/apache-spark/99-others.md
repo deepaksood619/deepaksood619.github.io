@@ -10,11 +10,11 @@ But what it really means? Let’s break it down:
 
 DecimalType() stores two operands (Precision and Scale), this way avoids storing trailing zeros.
 
-- Precision — Number of digits in the Unscaled value
-- Unscaled value — Value without the floating-point (i.e 4.33 the unscaled value would be 433)
-- Scale — Number of digits to the right of the decimal point ( i.e 4.33 the scale is 2)
+- Precision - Number of digits in the Unscaled value
+- Unscaled value - Value without the floating-point (i.e 4.33 the unscaled value would be 433)
+- Scale - Number of digits to the right of the decimal point ( i.e 4.33 the scale is 2)
 
-[Pyspark Data Types — Explained. The ins and outs—Data types… | by Diogo Veloso | BiLD Journal | Medium](https://medium.com/bild-journal/pyspark-data-types-explained-feb5e6f83c43)
+[Pyspark Data Types - Explained. The ins and outs—Data types… | by Diogo Veloso | BiLD Journal | Medium](https://medium.com/bild-journal/pyspark-data-types-explained-feb5e6f83c43)
 
 ## Optimization
 

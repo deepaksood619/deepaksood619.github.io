@@ -88,7 +88,7 @@ Rule by children
 
 ### Elite Theory
 
-In [philosophy](https://en.wikipedia.org/wiki/Philosophy "Philosophy"), [political science](https://en.wikipedia.org/wiki/Political_science "Political science") and [sociology](https://en.wikipedia.org/wiki/Sociology "Sociology"), **elite theory** is a theory of the State that seeks to describe and explain power relationships in contemporary society. The theory posits that a small minority, consisting of members of the [economic](https://en.wikipedia.org/wiki/Economic "Economic") elite and [policy](https://en.wikipedia.org/wiki/Policy "Policy")-planning networks, holds the most power—and that this power is independent of democratic elections.
+In [philosophy](https://en.wikipedia.org/wiki/Philosophy "Philosophy"), [political science](https://en.wikipedia.org/wiki/Political_science "Political science") and [sociology](https://en.wikipedia.org/wiki/Sociology "Sociology"), **elite theory** is a theory of the State that seeks to describe and explain power relationships in contemporary society. The theory posits that a small minority, consisting of members of the [economic](https://en.wikipedia.org/wiki/Economic "Economic") elite and [policy](https://en.wikipedia.org/wiki/Policy "Policy")-planning networks, holds the most power-and that this power is independent of democratic elections.
 
 [Elite theory - Wikipedia](https://en.wikipedia.org/wiki/Elite_theory)
 

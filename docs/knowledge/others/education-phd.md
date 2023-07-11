@@ -42,7 +42,7 @@ Montessori classrooms are beautifully crafted environments designed to meet the 
 
 Every material in a Montessori classroom supports an aspect of child development, creating a match between the child’s natural interests and the available activities. Children can learn through their own experience and at their own pace. They can respond at any moment to the natural curiosities that exist in all humans and build a solid foundation for life-long learning.
 
-[Montessori Education — Montessori Northwest](https://montessori-nw.org/about-montessori-education)
+[Montessori Education - Montessori Northwest](https://montessori-nw.org/about-montessori-education)
 
 [Montessori education - Wikipedia](https://en.m.wikipedia.org/wiki/Montessori_education)
 

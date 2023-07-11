@@ -7,6 +7,9 @@
 ## isort
 
 ```python
+pip install isort
+brew install isort
+
 isort -rc .
 isort **/*.py
 isort -rc -sl **/*.py
@@ -110,14 +113,13 @@ files: ^API/](<pre-commit install
      - repo: https://github.com/pre-commit/pre-commit-hooks
        rev: v3.2.0
        hooks:
-  - id: check-ast
-  - id: check-byte-order-marker
-  - id: check-docstring-first
-  - id: check-executables-have-shebangs
-  - id: check-json
-  - id: debug-statements
-  - id: mixed-line-ending
-
+         - id: check-ast
+         - id: check-byte-order-marker
+         - id: check-docstring-first
+         - id: check-executables-have-shebangs
+         - id: check-json
+         - id: debug-statements
+         - id: mixed-line-ending
          - id: check-added-large-files
          - id: trailing-whitespace
          - id: end-of-file-fixer
@@ -130,8 +132,8 @@ files: ^API/](<pre-commit install
          - id: detect-aws-credentials
          - id: detect-private-key
          - id: no-commit-to-branch
-     - repo: https://gitlab.com/pycqa/flake8
-       rev: 3.8.4
+     - repo: https://github.com/PyCQA/flake8
+       rev: 6.0.0
        hooks:
        - id: flake8
          additional_dependencies: [
@@ -145,7 +147,7 @@ files: ^API/](<pre-commit install
              'flake8-deprecated',
              'flake8-docstrings',
              'flake8-quotes',
-    'flake8-eradicate',
+             'flake8-eradicate',
          ]
      - repo: https://github.com/pycqa/pylint
        rev: pylint-2.6.0
@@ -198,9 +200,12 @@ black .
 ![image](../../../media/27.-Development-Tools_Static-Code-Analysis-image1.jpg)
 
 <https://medium.com/staqu-dev-logs/keeping-python-code-clean-with-pre-commit-hooks-black-flake8-and-isort-cac8b01e0ea1>
+
 [https://pre-commit.com/hooks.html](https://pre-commit.com/hooks.html)
  [GitHub - igorshubovych/markdownlint-cli: MarkdownLint Command Line Interface](https://github.com/igorshubovych/markdownlint-cli)
+
 [https://pre-commit.com/](https://pre-commit.com/)
+
 [https://github.com/pre-commit/pre-commit-hooks](https://github.com/pre-commit/pre-commit-hooks)
 
 ## flake8

@@ -85,7 +85,7 @@ Penpot is the first Open Source design and prototyping platform meant for cross-
 
 Course - <https://www.freecodecamp.org/news/how-to-design-good-typography>
 
-[The 40 Best Google Fonts—A Curated Collection for 2023 · Typewolf](https://www.typewolf.com/google-fonts)
+[The 40 Best Google Fonts-A Curated Collection for 2023 · Typewolf](https://www.typewolf.com/google-fonts)
 
 ## Creating own design system
 

@@ -316,11 +316,11 @@ Marketing tactic used, light the agarbatti in-front of store and left for 2 days
 
 ## Scaling a Business
 
-[The Keiretsu Jutsu — Part 1: An Introduction](https://daily.stoa.com/newsletter/the-keiretsu-jutsu-part-1-an-introduction)
+[The Keiretsu Jutsu - Part 1: An Introduction](https://daily.stoa.com/newsletter/the-keiretsu-jutsu-part-1-an-introduction)
 
 - Zaibatsu system
 
-[The Keiretsu Jutsu — Part 2: Trust Capital and Transaction Costs](https://daily.stoa.com/newsletter/the-keiretsu-jutsu-part-2-trust-capital-and-transaction-costs)
+[The Keiretsu Jutsu - Part 2: Trust Capital and Transaction Costs](https://daily.stoa.com/newsletter/the-keiretsu-jutsu-part-2-trust-capital-and-transaction-costs)
 
 - Trust, ultimately, is the only true currency of the world
 

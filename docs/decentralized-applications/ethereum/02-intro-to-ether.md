@@ -18,7 +18,7 @@ The ether cryptocurrency supports a pricing mechanism for Ethereum's computing p
 
 Therefore, even if a malicious dapp submitted an infinite loop, the transaction would eventually run out of ether and terminate, allowing the network to return to normal.
 
-It is common to conflate Ethereum and ether — when people reference the "price of Ethereum," they are describing the price of ether.
+It is common to conflate Ethereum and ether - when people reference the "price of Ethereum," they are describing the price of ether.
 
 ## Minting ether
 

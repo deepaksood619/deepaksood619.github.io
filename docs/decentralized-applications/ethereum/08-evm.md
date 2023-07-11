@@ -72,13 +72,13 @@ npm install -g solc
 solc --bin SampleToken.sol
 
 # Output Contract ABI
-solc —abi SampleToken.sol
+solc -abi SampleToken.sol
 
 # output to a specific directory
 solc --abi -o build SampleToken.sol
 
 # recompile - overwrite
-solc --abi -o build —overwrite SampleToken.sol
+solc --abi -o build -overwrite SampleToken.sol
 ```
 
 [Explaining Ethereum Contract ABI & EVM Bytecode | by eiki | Medium](https://medium.com/@eiki1212/explaining-ethereum-contract-abi-evm-bytecode-6afa6e917c3b)

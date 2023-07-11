@@ -258,7 +258,7 @@ The heart of product led growth is the end user, who can get into the product ri
 
 Organic discovery, viral loops, and network effects play important roles. This makes PLG a relatively cost-effective growth strategy, not having to rely on hiring more sales reps and spending a bigger marketing budget. PLG might require more R&D money early on to create a great product, but then it can scale with fewer team resource costs.
 
-That said, PLG can be used in tandem with sales and marketing motions. Companies relying on product led growth are selective about where and when to deploy their toolbox of go-to-market motions — combining these in different ways for different journeys, including:
+That said, PLG can be used in tandem with sales and marketing motions. Companies relying on product led growth are selective about where and when to deploy their toolbox of go-to-market motions - combining these in different ways for different journeys, including:
 
 - Start with a popular free product, then layer on a sales-assisted track for enterprise leads.
 - Begin as a sales-led company, then add a freemium or free trial product track a few years in.

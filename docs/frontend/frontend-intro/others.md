@@ -57,4 +57,4 @@ mogrify -quality 20% /path/to/folder/*.jpg
 mogrify -quality 10% *.jpg
 ```
 
-[GitHub - kornelski/pngquant: Lossy PNG compressor — pngquant command based on libimagequant library](https://github.com/kornelski/pngquant)
+[GitHub - kornelski/pngquant: Lossy PNG compressor - pngquant command based on libimagequant library](https://github.com/kornelski/pngquant)

@@ -37,7 +37,7 @@ The amount of ETH paid corresponds to the resources required to do the computati
 ETH is also used to provide **crypto-economic security** to the network in three main ways
 
 1. It is used as a means to reward validators who propose blocks or call out dishonest behavior by other validators
-2. It is staked by validators, acting as collateral against dishonest behavior—if validators attempt to misbehave their ETH can be destroyed
+2. It is staked by validators, acting as collateral against dishonest behavior-if validators attempt to misbehave their ETH can be destroyed
 3. It is used to weigh 'votes' for newly proposed blocks, feeding into the fork-choice part of the consensus mechanism.
 
 ## What are Smart Contracts?
