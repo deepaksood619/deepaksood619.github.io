@@ -11,11 +11,11 @@ repos:
         - id: detect-aws-credentials
         - id: detect-private-key
     - repo: https://github.com/psf/black
-      rev: 22.12.0
+      rev: 23.7.0
       hooks:
         - id: black
     - repo: https://github.com/igorshubovych/markdownlint-cli
-      rev: v0.32.2
+      rev: v0.35.0
       hooks:
         - id: markdownlint
         - id: markdownlint-fix

@@ -100,12 +100,6 @@ The only disadvantages of customer self service software come from how you use i
 
 <https://tawk.to/deepaksood619>
 
-<https://deepaksood619.tawk.help>
-
-deepaksood619@gmail.com
-
-10f818eb17b796493b49e999
-
 <https://goldenpi.com>
 
 <https://developer.tawk.to/jsapi>

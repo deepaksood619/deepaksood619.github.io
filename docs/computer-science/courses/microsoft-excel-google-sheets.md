@@ -255,8 +255,8 @@ Rows - 1,048,576- Text to column
 
 [Google Sheets - Full Course](https://www.youtube.com/watch?v=N2opj8XzYBY&ab_channel=freeCodeCamp.org)
 
-- =GOOGLEFINANCE("GOOGL")
-- =image("https://image.jpg")
+- `=GOOGLEFINANCE("GOOGL")`
+- `=image("https://image.jpg")`
 
 ## Google Drive
 

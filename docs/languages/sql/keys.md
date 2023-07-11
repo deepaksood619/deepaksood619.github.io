@@ -52,9 +52,9 @@ In the following example, StudID is a Primary Key.
 
 | **StudID** | **Roll No** | **First Name** | **LastName** | **Email** |
 |---|---|---|---|---|
-| 1 | 11 | Tom | Price | abc@gmail.com |
-| 2 | 12 | Nick | Wright | xyz@gmail.com |
-| 3 | 13 | Dana | Natan | mno@yahoo.com |
+| 1 | 11 | Tom | Price | <abc@gmail.com> |
+| 2 | 12 | Nick | Wright | <xyz@gmail.com> |
+| 3 | 13 | Dana | Natan | <mno@yahoo.com> |
 
 ## What is the Alternate key?
 
@@ -66,9 +66,9 @@ StudID, Roll No, Email are qualified to become a primary key. But since StudID i
 
 | **StudID** | **Roll No** | **First Name** | **LastName** | **Email** |
 |---|---|---|---|---|
-| 1 | 11 | Tom | Price | abc@gmail.com |
-| 2 | 12 | Nick | Wright | xyz@gmail.com |
-| 3 | 13 | Dana | Natan | mno@yahoo.com |
+| 1 | 11 | Tom | Price | <abc@gmail.com> |
+| 2 | 12 | Nick | Wright | <xyz@gmail.com> |
+| 3 | 13 | Dana | Natan | <mno@yahoo.com> |
 
 ## What is a Candidate Key?
 
@@ -88,9 +88,9 @@ Example: In the given table Stud ID, Roll No, and email are candidate keys which
 
 | **StudID** | **Roll No** | **First Name** | **LastName** | **Email** |
 |---|---|---|---|---|
-| 1 | 11 | Tom | Price | abc@gmail.com |
-| 2 | 12 | Nick | Wright | xyz@gmail.com |
-| 3 | 13 | Dana | Natan | mno@yahoo.com |
+| 1 | 11 | Tom | Price | <abc@gmail.com> |
+| 2 | 12 | Nick | Wright | <xyz@gmail.com> |
+| 3 | 13 | Dana | Natan | <mno@yahoo.com> |
 
 ![image](../../media/Keys-image1.jpg)
 

@@ -168,6 +168,22 @@ Left Anti Semi Join is the opposite of a [Left Semi Join](http://sqlity.net/en/1
 - Left Anti Join - [Left anti join - Power Query](https://learn.microsoft.com/en-us/power-query/merge-queries-left-anti)
 - Right Anti Join - [Right anti join - Power Query](https://learn.microsoft.com/en-us/power-query/merge-queries-right-anti)
 
+## [Joins 13 Ways](https://justinjaffray.com/joins-13-ways/)
+
+- [A join is a lookup](https://justinjaffray.com/joins-13-ways/#a-join-is-a-lookup)
+- [A join is a nested loop over rows](https://justinjaffray.com/joins-13-ways/#a-join-is-a-nested-loop-over-rows)
+- [A join is a nested loop over columns](https://justinjaffray.com/joins-13-ways/#a-join-is-a-nested-loop-over-columns)
+- [A join is compatible alternate realities](https://justinjaffray.com/joins-13-ways/#a-join-is-compatible-alternate-realities)
+- [A join is flatMap](https://justinjaffray.com/joins-13-ways/#a-join-is-flatmap)
+- [A join is the solution to the N+1 problem](https://justinjaffray.com/joins-13-ways/#a-join-is-the-solution-to-the-n1-problem)
+- [A join is paths through a graph](https://justinjaffray.com/joins-13-ways/#a-join-is-paths-through-a-graph)
+- [A join is a minimal model](https://justinjaffray.com/joins-13-ways/#a-join-is-a-minimal-model)
+- [A join is typechecking](https://justinjaffray.com/joins-13-ways/#a-join-is-typechecking)
+- [A join is an operation in the Set monad](https://justinjaffray.com/joins-13-ways/#a-join-is-an-operation-in-the-set-monad)
+- [A join is the biggest acceptable relation](https://justinjaffray.com/joins-13-ways/#a-join-is-the-biggest-acceptable-relation)
+- [A join is a…join](https://justinjaffray.com/joins-13-ways/#a-join-is-ajoin)
+- [A join is a ring product](https://justinjaffray.com/joins-13-ways/#a-join-is-a-ring-product)
+
 ## References
 
 <http://www.sql-join.com/sql-join-types>

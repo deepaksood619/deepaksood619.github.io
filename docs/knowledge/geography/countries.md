@@ -18,6 +18,18 @@
 
 [https://japan-dev.com/blog/japanese-work-culture](https://japan-dev.com/blog/japanese-work-culture)
 
+#### Economies
+
+[Japanese Decline: The Full Story - YouTube](https://www.youtube.com/watch?v=CVyiOewuTtw)
+
+[The Unbelievable Story of Japan's Economic Downfall - YouTube](https://www.youtube.com/watch?v=XBHZd2alFHo)
+
+[How The Economy Of Japan Could Predict The Next Decade | Economics Explained - YouTube](https://www.youtube.com/watch?v=rag4pHU7fcU)
+
+[Japan: The Fading Economy - YouTube](https://www.youtube.com/watch?v=ErUQnd-YFGg)
+
+[Japan's 3 Lost Decades Explained - YouTube](https://www.youtube.com/watch?v=rohuJskoLMg)
+
 ### Others
 
 [Who Controlled Jerusalem the Longest? - YouTube](https://www.youtube.com/watch?v=7GCXhKpoml0)
@@ -28,9 +40,13 @@
 
 [Why Belarus Might Invade Ukraine Too](https://www.youtube.com/watch?v=Ml7ycoLumAs)
 
-## America
+## North America
 
 [American Revolution [Explained] | World History for UPSC Mains 2022-2023 - YouTube](https://www.youtube.com/watch?v=pUA65IoEyxI)
+
+## South America
+
+[Mexico Will Not Be The Next China | Economics Explained - YouTube](https://www.youtube.com/watch?v=dr5z2WvEXBI)
 
 ## Australia
 

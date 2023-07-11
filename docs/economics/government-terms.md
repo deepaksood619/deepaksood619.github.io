@@ -4,9 +4,11 @@
 
 Fiscal policy is done by the government through spending. Monetary policy is done by the central bank through interest rates.
 
-## DPG - Digital Public Goods (e.g. UPI (Unified Payments Interface), Aadhaar, DBT (Direct Benefit Transfer), ONDC (Open Network for Digital Commerce))
+## DPG - Digital Public Goods
 
-## ONDC - Open Network for Digital Commerce
+- UPI (Unified Payments Interface)
+- Aadhaar, DBT (Direct Benefit Transfer)
+- ONDC (Open Network for Digital Commerce)
 
 ## Bureaucracy
 
@@ -230,3 +232,9 @@ A Non Banking Financial Company (NBFC) isa company registered under the Companie
 ## Budget
 
 [INDIAN BUDGET EXPLAINED IN 10 MINUTES | Budget 2023 explained | Abhi and Niyu](https://www.youtube.com/watch?v=-ANjtUiYbZ8)
+
+## Yield Curve Control (YCC)
+
+[Yield curve](https://www.investopedia.com/terms/y/yieldcurve.asp) control is a monetary policy tool used by central banks to manage interest rates across different maturities of government bonds. It involves targeting specific yields or interest rates on government bonds with different maturities, typically aiming to keep long-term interest rates at a desired level.
+
+[Yield Curve Control (YCC): Definition, Purpose, and Examples](https://www.investopedia.com/what-is-yield-curve-control-4797189)

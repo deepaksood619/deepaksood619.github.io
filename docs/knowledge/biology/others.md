@@ -40,7 +40,7 @@ Your body has two types of sweat glands:
 
 [Getting older without getting old - with Andrew Steele](https://www.youtube.com/watch?v=fX9P1xuIJGg)
 
-[David Sinclair: Living to 120](https://www.safegraph.com/podcasts/david-sinclair)
+[David Sinclair: Living to 120 - YouTube](https://www.youtube.com/watch?v=NK-H8Uq3x0Q)
 
 Hydra don't age
 

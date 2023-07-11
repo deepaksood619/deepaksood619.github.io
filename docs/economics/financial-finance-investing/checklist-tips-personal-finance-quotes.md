@@ -424,3 +424,5 @@ Consumption smoothing refers to **a process of achieving a balance between spend
 
 - Future value of money / opportunity cost
 - Present value of money / discount
+
+[How to invest in a bull market | NIFTY at an all-time high | Should you buy, hold, or sell? - YouTube](https://www.youtube.com/watch?v=t78IbEUMynQ)

@@ -4,7 +4,7 @@
 
 ### Stashfin
 
-Scaled the stack and business from Rs. 100M p.m. disbursals to Rs. 3000M p.m. disbursals
+Scaled the stack and business from Rs. 100M p.m. (10 crore) disbursals to Rs. 5000M p.m. (500 crore) disbursals
 
 ### Zenatix
 

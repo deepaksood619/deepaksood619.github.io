@@ -64,6 +64,7 @@ When things are running slowly and you're not sure what to blame, [Query Monitor
 
 ## Commands
 
+```sql
 drop database wordpress;
 
 create database wordpress;
@@ -71,58 +72,43 @@ create database wordpress;
 select * from wordpress.wp_options;
 
 update wp_options set option_value='http://localhost:8080' where option_name='siteurl';
+```
 
+```yaml
 services:
-
 wordpress:
-
 image: wordpress
-
 restart: always
 
 ports:
-
 - 8083:80
 
 environment:
-
 WORDPRESS_DB_HOST: db
-
 WORDPRESS_DB_USER: exampleuser
-
 WORDPRESS_DB_PASSWORD: examplepass
-
 WORDPRESS_DB_NAME: exampledb
 
 volumes:
-
 - wordpress:/var/www/html
 
 db:
-
 image: mysql:5.7
-
 restart: always
 
 environment:
-
 MYSQL_DATABASE: exampledb
-
 MYSQL_USER: exampleuser
-
 MYSQL_PASSWORD: examplepass
-
 MYSQL_RANDOM_ROOT_PASSWORD: '1'
 
 volumes:
-
 - db:/var/lib/mysql
 
 volumes:
-
 wordpress:
-
 db:
+```
 
 ## Config
 

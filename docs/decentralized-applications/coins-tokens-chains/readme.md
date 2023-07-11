@@ -7,6 +7,7 @@
 - [Wallets](decentralized-applications/coins-tokens-chains/wallets.md)
 - [bitcoin](decentralized-applications/coins-tokens-chains/bitcoin.md)
 - [Ordinals](decentralized-applications/coins-tokens-chains/ordinals.md)
+- [Litecoin](decentralized-applications/coins-tokens-chains/litecoin.md)
 - [USD Coin (USDC)](decentralized-applications/coins-tokens-chains/usdc.md)
 - [Tether (USDT)](decentralized-applications/coins-tokens-chains/usdt.md)
 - [cardano](decentralized-applications/coins-tokens-chains/cardano.md)
@@ -18,6 +19,18 @@
 - [Near Protocol](decentralized-applications/coins-tokens-chains/near-protocol.md)
 
 ## Coins
+
+### Types of coins
+
+- MainCoin - Bitcoin
+- AltCoins
+- ShitCoins
+- MemeCoins
+- StableCoins
+- DeadCoins
+- ScamCoins
+
+### AltCoins
 
 - Bitcoin
 - Ethereum (Ethereum Chain)
@@ -31,7 +44,6 @@
 - Polkadot
   - [Polkadot: What's Up With DOT?! Potential in 2022!! - YouTube](https://www.youtube.com/watch?v=H7S5k5jWp48)
   - [What is Polkadot? DOT Explained with Animations - YouTube](https://www.youtube.com/watch?v=YlAdEQp6ekM)
-- Dogecoin
 - TRON
 - Avalanche
 - Cronos (CRO)
@@ -40,13 +52,9 @@
 - zcash which claims it uses advanced tech to make sure that detecting ownership is nearly impossible
 - wbtc - [BITCOIN on ETHEREUM? (renBTC, wBTC, tBTC, sBTC) | DEFI Explained - YouTube](https://www.youtube.com/watch?v=iExly7FGKAQ)
 
-- MainCoin - Bitcoin
-- AltCoins
-- ShitCoins
-- MemeCoins
-- StableCoins
-- DeadCoins
-- ScamCoins
+### MemeCoins
+
+- Dogecoin
 
 ## Tokens / Stable coins
 

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "knowledge/geography/continents.md",
+                "file": "languages/php/codeigniter/commands.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Ancient Greek",
+                "query": "precommit",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -102,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "knowledge/geography/continents.md",
+                "file": "languages/php/codeigniter/commands.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "knowledge/geography/continents.md",
+                "file": "languages/php/codeigniter/commands.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "knowledge/geography/continents.md"
+                "file": "languages/php/codeigniter/commands.md"
               }
             }
           },
@@ -192,35 +192,35 @@
   },
   "active": "cfc373d48b6acbc5",
   "lastOpenFiles": [
-    "knowledge/biology/others.md",
-    "knowledge/language/linguistics.md",
-    "knowledge/geography/continents.md",
+    "python/documentation/27-development-tools/static-code-analysis.md",
+    "office/todo/personal-todo.md",
+    "decentralized-applications/coins-tokens-chains/litecoin.md",
+    "decentralized-applications/coins-tokens-chains/readme.md",
+    "computer-science/security/cryptography/cryptographic-hash-functions.md",
+    "decentralized-applications/coins-tokens-chains/thorchain.md",
+    "decentralized-applications/coins-tokens-chains/wallets.md",
+    "decentralized-applications/coins-tokens-chains/coin-token-intro.md",
+    "languages/sql/sql-joins.md",
+    "office/keep/policy-plans.md",
+    "office/keep/others.md",
+    "office/keep/investment.md",
+    "office/keep/deepak-banks.md",
+    "office/cakedefi/todo.md",
+    "technologies/apache/databricks/readme.md",
+    "technologies/apache/apache-spark/readme.md",
+    "economics/financial-finance-investing/readme.md",
+    "technologies/apache/databricks/01-databricks.md",
+    "technologies/apache/databricks/03-optimizations.md",
+    "technologies/apache/apache-spark/99-others.md",
+    "technologies/apache/databricks/99-others.md",
+    "databases/nosql-databases/cassandra/data-model.md",
+    "technologies/apache/apache-hive.md",
+    "economics/government-terms.md",
+    "ai/libraries/chatgpt-llm.md",
+    "about-me/achievements-activities-awards.md",
     "media/Pasted image 20230710130750.png",
     "media/Pasted image 20230710130702.png",
     "media/Pasted image 20230710130538.png",
-    "office/cakedefi/todo.md",
-    "office/cakedefi/infra.md",
-    "office/personality/new-home-place-house.md",
-    "knowledge/biology/exercise-stretching/living.md",
-    "knowledge/history/histomap.md",
-    "knowledge/geography/countries.md",
-    "ai/ml-fundamentals/neural-networks.md",
-    "decentralized-applications/ethereum/polygon.md",
-    "office/keep/deepak-account-credentials.md",
-    "office/keep/deepak-banks.md",
-    "office/keep/neha.md",
-    "decentralized-applications/ethereum/layer-2-protocols.md",
-    "decentralized-applications/coins-tokens-chains/near-protocol.md",
-    "decentralized-applications/ethereum/arbitrum.md",
-    "decentralized-applications/coins-tokens-chains/wallets.md",
-    "office/personality/neha.md",
-    "economics/financial-finance-investing/returns-tax-taxes-itr.md",
-    "decentralized-applications/coins-tokens-chains/readme.md",
-    "decentralized-applications/development-tools.md",
-    "devops/ides/youtube-podcasts-magazine-apps.md",
-    "management/business/business-case-studies.md",
-    "office/stashfin-credentials/external-tech.md",
-    "office/stashfin-credentials/internal-tech.md",
     "media/Screenshot 2023-06-28 at 11.17.15 PM.png",
     "media/Pasted image 20230628225903.png",
     "media/Pasted image 20230626135923.png",

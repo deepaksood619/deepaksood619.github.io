@@ -1,7 +1,8 @@
 # Commands
 
-## # Dockerfile
+## Dockerfile
 
+```yaml
 FROM ubuntu:18.04
 
 ENV DEBIAN_FRONTEND=noninteractive
@@ -29,11 +30,14 @@ RUN php -r "copy('https://getcomposer.org/installer', 'composer-setup.php');"
 RUN php composer-setup.php --install-dir=/usr/local/bin --filename=composer
 
 WORKDIR /app
+```
 
-## # Commands
+## Commands
 
+```bash
 composer create-project codeigniter4/appstarter news
 
 CI_ENVIRONMENT = development
 
 php spark serve
+```

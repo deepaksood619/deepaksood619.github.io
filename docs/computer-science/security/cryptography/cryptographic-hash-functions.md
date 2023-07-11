@@ -71,6 +71,10 @@ PBKDF2 applies a [pseudorandom function](https://en.wikipedia.org/wiki/Pseudoran
 
 Scrypt is a KDF designed for password storage by Colin Percival to be resistant against hardware-assisted attackers by having a tunable memory cost. It is described in [RFC 7914](https://tools.ietf.org/html/rfc7914.html).
 
+[Hashing Algorithms - SHA256 vs Scrypt](https://www.linkedin.com/pulse/hashing-algorithms-sha256-vs-scrypt-kalana-wijenayake/)
+
+[SHA256 vs Scrypt: How Comparing Hash Rates is Misleading | NKMAG](https://www.nkmag.com/sha256-vs-scrypt-how-comparing-hash-rates-of-different-hashing-algorithms-is-misleading/)
+
 ## Fixed Cost Algorithm
 
 ### ConcatKDF

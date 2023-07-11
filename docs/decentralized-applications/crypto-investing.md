@@ -129,3 +129,5 @@
 [The TOP Countries With ZERO CRYPTO TAXES - YouTube](https://www.youtube.com/watch?v=tdlmv4iHFb4&ab_channel=MoneyRules-InvestingTips)
 
 [Crypto Market Manipulation! Wyckoff & WHALES!!🐋 - YouTube](https://www.youtube.com/watch?v=ltcnTTeDFjY)
+
+[How To Time The Market (And GET RICH!) - YouTube](https://www.youtube.com/watch?v=iXn2GyPHQB0)

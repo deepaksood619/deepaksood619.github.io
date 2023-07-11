@@ -36,6 +36,30 @@ DecimalType() stores two operands (Precision and Scale), this way avoids storing
 
 ## Bucketing
 
+Bucketing is an optimization technique in Apache Spark SQL. Data is allocated among a specified number of buckets, according to values derived from one or more bucketing columns. Bucketing improves performance by shuffling and sorting data prior to downstream operations such as table joins. The tradeoff is the initial overhead due to shuffling and sorting, but for certain data transformations, this technique can improve performance by avoiding later shuffling and sorting.
+
+This technique is useful for dimension tables, which are frequently used tables containing primary keys. It is also useful when there are frequent join operations involving large and small tables.
+
+[Best Practices for Bucketing in Spark SQL | by David Vrba | Towards Data Science](https://towardsdatascience.com/best-practices-for-bucketing-in-spark-sql-ea9f23f7dd53)
+
+[Bucketing in Spark](https://www.clairvoyant.ai/blog/bucketing-in-spark)
+
+## Shuffling
+
+**Apache Spark processes queries by distributing data over multiple nodes and calculating the values separately on every node.** However, occasionally, **the nodes need to exchange the data**. After all, that’s the purpose of Spark - processing data that doesn’t fit on a single machine.
+
+**Shuffling is the process of exchanging data between partitions**. As a result, data rows can move between worker nodes when their source partition and the target partition reside on a different machine.
+
+[What is shuffling in Apache Spark, and when does it happen? | Bartosz Mikulski](https://www.mikulskibartosz.name/shuffling-in-apache-spark/)
+
+[Spark Basics | Shuffling - YouTube](https://www.youtube.com/watch?v=ffHboqNoW_A)
+
+[Spark SQL Shuffle Partitions - Spark By {Examples}](https://sparkbyexamples.com/spark/spark-shuffle-partitions/?expand_article=1)
+
+[Apache Spark : The Shuffle](https://www.linkedin.com/pulse/apache-spark-shuffle-akhil-pathirippilly-mana/)
+
+[35. Databricks & Spark: Interview Question - Shuffle Partition - YouTube](https://www.youtube.com/watch?v=Kmb_pm8AQCE)
+
 ## SparkML
 
 <https://spark.apache.org/docs/latest/ml-pipeline.html>

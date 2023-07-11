@@ -12,21 +12,15 @@
 
 <https://www.wellarchitectedlabs.com>
 
-shpun@amazon.com
-
 <https://www.linkedin.com/in/puneet-sharma-6b202910>
 
 ## Course description
 
 This course focuses on the fundamentals of building IT infrastructure on the AWS platform. You will learn how to optimize the AWS Cloud by understanding AWS services and how they fit into cloud-based solutions. Best practices and design patterns are covered to help you architect optimal IT solutions on the AWS Cloud. Build and explore a variety of infrastructures through guided discussions and hands-on activity.
 
-| Level        | Delivery method                                             | Duration |
-|--------------|-------------------------------------------------|----------|
-| Intermediate | Instructor-led training, hands-on labs, and group exercises | 3 days   |
-
 ## Course objectives
 
-## This course is designed to teach you how to
+### This course is designed to teach you how to
 
 - Make architectural decisions based on AWS architectural principles and best practices
 - Leverage AWS services to make your infrastructure scalable, reliable, and highly available
@@ -34,7 +28,7 @@ This course focuses on the fundamentals of building IT infrastructure on the AWS
 - Make an infrastructure based on AWS more efficient to increase performance and reduce costs
 - Use the **Well-Architected Framework** to improve architectures with AWS solutions
 
-## Intended audience
+### Intended audience
 
 This course is intended for:
 
@@ -42,7 +36,7 @@ This course is intended for:
 - Solution Design Engineers
 - Anyone who needs to understand the scope of cloud architectures
 
-## Prerequisites
+### Prerequisites
 
 We recommend that attendees of this course have:
 

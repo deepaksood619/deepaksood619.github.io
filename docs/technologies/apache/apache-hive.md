@@ -45,7 +45,7 @@ This creates the partitioned table and makes different folder for each partition
 
 Hive organizes tables into partitions. It is a way of dividing a table into related parts based on the values of partitioned columns such as date, city, and department. Using partition, it is easy to query a portion of the data.
 
-Tables or partitions are sub-divided intobuckets, to provide extra structure to the data that may be used for more efficient querying. Bucketing works based on the value of hash function of some column of a table.
+Tables or partitions are sub-divided into buckets, to provide extra structure to the data that may be used for more efficient querying. Bucketing works based on the value of hash function of some column of a table.
 
 <https://www.tutorialspoint.com/hive/hive_partitioning.htm>
 

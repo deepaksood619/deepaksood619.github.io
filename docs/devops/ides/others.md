@@ -97,7 +97,7 @@ Press `t` in any repository to access it and start typing the name of the file y
 | Messages that have an attachment | has:attachment. Example:has:attachment |
 | Messages that have a Google Drive, Docs, Sheets, or Slides attachment or link | has:drive, has:document, has:spreadsheet, has:presentation, Example:has:drive |
 | Messages that have a YouTube video | has:youtube, Example:has:youtube |
-| Messages from a mailing list | list: Example:list:info@example.com |
+| Messages from a mailing list | list: Example: `list:info@example.com` |
 | Attachments with a certain name or file type | filename:Example:filename:pdf, Example:filename:homework.txt |
 | Search for an exact word or phrase | " ", Example:"dinner and movie tonight" |
 | Group multiple search terms together | ( ), Example:subject:(dinner movie) |
@@ -110,12 +110,12 @@ Example:is:read is:starred |
 | Search for messages sent during a certain time period | after:, before:, older:, newer:, Example:after:2004/04/16, Example:after:04/16/2004, Example:before:2004/18/04, Example:before:04/18/2004 |
 | Search for messages older or newer than a time period using d (day), m (month), and y (year) | older_than:, newer_than:, Example:newer_than:2d |
 | Chat messages | is:chat, Example:is:chat movie |
-| Search by email for delivered messages | deliveredto:, Example:deliveredto:username@gmail.com |
+| Search by email for delivered messages | deliveredto:, Example:deliveredto:<username@gmail.com> |
 | Messages in a certain category | category:primary, category:social, category:promotions, category:updates, category:forums, category:reservations, category:purchases, Example:category:updates |
 | Messages larger than a certain size in bytes | size:Example:size:1000000 |
 | Messages larger or smaller than a certain size in bytes | larger: smaller:, Example:larger:10M |
 | Results that match a word exactly | +, Example:+unicorn |
-| Messages with a certain message-id header | Rfc822msgid:, Example:rfc822msgid:200503292@example.com |
+| Messages with a certain message-id header | Rfc822msgid:, Example:rfc822msgid:<200503292@example.com> |
 | Messages that have or don't have a label | has:userlabels, has:nouserlabels, Example:has:nouserlabels, Note:Labels are only added to a message, and not an entire conversation. |
 
 Note: When using numbers as part of your query, a space or a dash (-) will separate a number while a dot (.) will be a decimal. For example,01.2047-100is considered 2 numbers: 01.2047 and 100.

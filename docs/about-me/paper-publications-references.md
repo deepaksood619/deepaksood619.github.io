@@ -1,8 +1,6 @@
-# Master Resume
+# Papers & Publications
 
-## Papers & Publications
-
-1. Deepika Yadav, Pushpendra Singh, Kyle Montague, Vijay Kumar, Deepak Sood, Madeline Balaam, Drishti Sharma, Mona Duggal, Tom Bartindale, Delvin Varghese, and Patrick Olivier. 2017. Sangoshthi: Empowering Community Health Workers through Peer Learning in Rural India. In Proceedings of the 26th International Conference on World Wide Web (WWW '17). International World Wide Web Conferences Steering Committee, Republic and Canton of Geneva, Switzerland, 499-508. DOI: <https://doi.org/10.1145/3038912.3052624>
+Deepika Yadav, Pushpendra Singh, Kyle Montague, Vijay Kumar, Deepak Sood, Madeline Balaam, Drishti Sharma, Mona Duggal, Tom Bartindale, Delvin Varghese, and Patrick Olivier. 2017. Sangoshthi: Empowering Community Health Workers through Peer Learning in Rural India. In Proceedings of the 26th International Conference on World Wide Web (WWW '17). International World Wide Web Conferences Steering Committee, Republic and Canton of Geneva, Switzerland, 499-508. DOI: <https://doi.org/10.1145/3038912.3052624>
 
 Publication Date - Apr 7, 2017
 
@@ -12,7 +10,7 @@ The Healthcare system of India provides outreach services to the rural populatio
 
 <http://indiatoday.intoday.in/education/story/iiit-delhi/1/991017.html>
 
-<https://www.facebook.com/IIITDelhi/posts/2279503818733302> (Project was awarded 100000 USD from Bill & Melinda Gates Foundation for project that aims to build A Mobile-Based Training Platform for ASHA workers.The project is one of the 35 winners across the world. The project, led by Dr. Pushpendra Singh and his Ph.D. student Ms. Deepika Yadav, is targeted towards educating and thus empowering a vital functionary of the National Health Mission known as ASHA (Accredit social Health Activists) **July 2018**
+<https://www.facebook.com/IIITDelhi/posts/2279503818733302> (Project was awarded 100000 USD from Bill & Melinda Gates Foundation for project that aims to build A Mobile-Based Training Platform for ASHA workers.The project is one of the 35 winners across the world. The project, led by Dr. Pushpendra Singh and his Ph.D. student Ms. Deepika Yadav, is targeted towards educating and thus empowering a vital functionary of the National Health Mission known as ASHA (Accredit social Health Activists) - **July 2018**
 
 ## References
 
@@ -20,11 +18,11 @@ The Healthcare system of India provides outreach services to the rural populatio
 - Indraprastha Institute of Information Technology (IIIT) Delhi
 - Mobile Number - +91 88264 58886
 - Office - 011 2690 7458
-- Email - psingh@iiitd.ac.in
+- Email - <psingh@iiitd.ac.in>
 
 - Prof. Dheeraj Sanghi, Dean of Academic Affairs and External Relations
 - Indraprastha Institute of Information Technology (IIIT) Delhi
 - Off: +91 11 26907 467, Res: +91 11 26907 625
-- EA: Ms. Nayana Samuel (nayana@iiitd.ac.in)
+- EA: Ms. Nayana Samuel (<nayana@iiitd.ac.in>)
 - Mobile Number - +91 96707 73311
-- Email - dheeraj@iiitd.ac.in
+- Email - <dheeraj@iiitd.ac.in>

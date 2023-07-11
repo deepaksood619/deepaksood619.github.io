@@ -1,6 +1,182 @@
 {
   "recentFiles": [
     {
+      "basename": "commands",
+      "path": "languages/php/codeigniter/commands.md"
+    },
+    {
+      "basename": "static-code-analysis",
+      "path": "python/documentation/27-development-tools/static-code-analysis.md"
+    },
+    {
+      "basename": "personal-todo",
+      "path": "office/todo/personal-todo.md"
+    },
+    {
+      "basename": "litecoin",
+      "path": "decentralized-applications/coins-tokens-chains/litecoin.md"
+    },
+    {
+      "basename": "readme",
+      "path": "decentralized-applications/coins-tokens-chains/readme.md"
+    },
+    {
+      "basename": "cryptographic-hash-functions",
+      "path": "computer-science/security/cryptography/cryptographic-hash-functions.md"
+    },
+    {
+      "basename": "thorchain",
+      "path": "decentralized-applications/coins-tokens-chains/thorchain.md"
+    },
+    {
+      "basename": "wallets",
+      "path": "decentralized-applications/coins-tokens-chains/wallets.md"
+    },
+    {
+      "basename": "coin-token-intro",
+      "path": "decentralized-applications/coins-tokens-chains/coin-token-intro.md"
+    },
+    {
+      "basename": "sql-joins",
+      "path": "languages/sql/sql-joins.md"
+    },
+    {
+      "basename": "policy-plans",
+      "path": "office/keep/policy-plans.md"
+    },
+    {
+      "basename": "others",
+      "path": "office/keep/others.md"
+    },
+    {
+      "basename": "investment",
+      "path": "office/keep/investment.md"
+    },
+    {
+      "basename": "deepak-banks",
+      "path": "office/keep/deepak-banks.md"
+    },
+    {
+      "basename": "todo",
+      "path": "office/cakedefi/todo.md"
+    },
+    {
+      "basename": "readme",
+      "path": "technologies/apache/databricks/readme.md"
+    },
+    {
+      "basename": "readme",
+      "path": "technologies/apache/apache-spark/readme.md"
+    },
+    {
+      "basename": "readme",
+      "path": "economics/financial-finance-investing/readme.md"
+    },
+    {
+      "basename": "01-databricks",
+      "path": "technologies/apache/databricks/01-databricks.md"
+    },
+    {
+      "basename": "03-optimizations",
+      "path": "technologies/apache/databricks/03-optimizations.md"
+    },
+    {
+      "basename": "99-others",
+      "path": "technologies/apache/apache-spark/99-others.md"
+    },
+    {
+      "basename": "99-others",
+      "path": "technologies/apache/databricks/99-others.md"
+    },
+    {
+      "basename": "data-model",
+      "path": "databases/nosql-databases/cassandra/data-model.md"
+    },
+    {
+      "basename": "apache-hive",
+      "path": "technologies/apache/apache-hive.md"
+    },
+    {
+      "basename": "government-terms",
+      "path": "economics/government-terms.md"
+    },
+    {
+      "basename": "chatgpt-llm",
+      "path": "ai/libraries/chatgpt-llm.md"
+    },
+    {
+      "basename": "achievements-activities-awards",
+      "path": "about-me/achievements-activities-awards.md"
+    },
+    {
+      "basename": "paper-publications-references",
+      "path": "about-me/paper-publications-references.md"
+    },
+    {
+      "basename": "personality",
+      "path": "about-me/personality.md"
+    },
+    {
+      "basename": "readme",
+      "path": "about-me/readme.md"
+    },
+    {
+      "basename": "social-links",
+      "path": "about-me/social-links.md"
+    },
+    {
+      "basename": "countries",
+      "path": "knowledge/geography/countries.md"
+    },
+    {
+      "basename": "crypto-investing",
+      "path": "decentralized-applications/crypto-investing.md"
+    },
+    {
+      "basename": "international-relations-ir",
+      "path": "knowledge/others/international-relations-ir.md"
+    },
+    {
+      "basename": "news-problems",
+      "path": "knowledge/others/news-problems.md"
+    },
+    {
+      "basename": "business-case-studies",
+      "path": "management/business/business-case-studies.md"
+    },
+    {
+      "basename": "4.-counting",
+      "path": "mathematics/probability/intro-to-probability/4.-counting.md"
+    },
+    {
+      "basename": "others",
+      "path": "knowledge/geography/others.md"
+    },
+    {
+      "basename": "india",
+      "path": "knowledge/geography/india.md"
+    },
+    {
+      "basename": "checklist-tips-personal-finance-quotes",
+      "path": "economics/financial-finance-investing/checklist-tips-personal-finance-quotes.md"
+    },
+    {
+      "basename": "neha",
+      "path": "office/keep/neha.md"
+    },
+    {
+      "basename": "neha",
+      "path": "office/personality/neha.md"
+    },
+    {
+      "basename": "obsidian",
+      "path": "devops/ides/obsidian.md"
+    },
+    {
+      "basename": "infra",
+      "path": "office/cakedefi/infra.md"
+    },
+    {
       "basename": "continents",
       "path": "knowledge/geography/continents.md"
     },
@@ -9,16 +185,12 @@
       "path": "knowledge/biology/others.md"
     },
     {
+      "basename": "07-joins",
+      "path": "technologies/apache/apache-spark/07-joins.md"
+    },
+    {
       "basename": "linguistics",
       "path": "knowledge/language/linguistics.md"
-    },
-    {
-      "basename": "todo",
-      "path": "office/cakedefi/todo.md"
-    },
-    {
-      "basename": "infra",
-      "path": "office/cakedefi/infra.md"
     },
     {
       "basename": "new-home-place-house",
@@ -27,178 +199,6 @@
     {
       "basename": "living",
       "path": "knowledge/biology/exercise-stretching/living.md"
-    },
-    {
-      "basename": "histomap",
-      "path": "knowledge/history/histomap.md"
-    },
-    {
-      "basename": "countries",
-      "path": "knowledge/geography/countries.md"
-    },
-    {
-      "basename": "neural-networks",
-      "path": "ai/ml-fundamentals/neural-networks.md"
-    },
-    {
-      "basename": "polygon",
-      "path": "decentralized-applications/ethereum/polygon.md"
-    },
-    {
-      "basename": "deepak-account-credentials",
-      "path": "office/keep/deepak-account-credentials.md"
-    },
-    {
-      "basename": "deepak-banks",
-      "path": "office/keep/deepak-banks.md"
-    },
-    {
-      "basename": "neha",
-      "path": "office/keep/neha.md"
-    },
-    {
-      "basename": "layer-2-protocols",
-      "path": "decentralized-applications/ethereum/layer-2-protocols.md"
-    },
-    {
-      "basename": "near-protocol",
-      "path": "decentralized-applications/coins-tokens-chains/near-protocol.md"
-    },
-    {
-      "basename": "arbitrum",
-      "path": "decentralized-applications/ethereum/arbitrum.md"
-    },
-    {
-      "basename": "wallets",
-      "path": "decentralized-applications/coins-tokens-chains/wallets.md"
-    },
-    {
-      "basename": "neha",
-      "path": "office/personality/neha.md"
-    },
-    {
-      "basename": "returns-tax-taxes-itr",
-      "path": "economics/financial-finance-investing/returns-tax-taxes-itr.md"
-    },
-    {
-      "basename": "readme",
-      "path": "decentralized-applications/coins-tokens-chains/readme.md"
-    },
-    {
-      "basename": "development-tools",
-      "path": "decentralized-applications/development-tools.md"
-    },
-    {
-      "basename": "youtube-podcasts-magazine-apps",
-      "path": "devops/ides/youtube-podcasts-magazine-apps.md"
-    },
-    {
-      "basename": "business-case-studies",
-      "path": "management/business/business-case-studies.md"
-    },
-    {
-      "basename": "external-tech",
-      "path": "office/stashfin-credentials/external-tech.md"
-    },
-    {
-      "basename": "internal-tech",
-      "path": "office/stashfin-credentials/internal-tech.md"
-    },
-    {
-      "basename": "intro",
-      "path": "decentralized-applications/intro.md"
-    },
-    {
-      "basename": "crypto-news",
-      "path": "decentralized-applications/crypto-news.md"
-    },
-    {
-      "basename": "erc-4337",
-      "path": "decentralized-applications/ethereum/erc-4337.md"
-    },
-    {
-      "basename": "india",
-      "path": "knowledge/geography/india.md"
-    },
-    {
-      "basename": "intro",
-      "path": "languages/golang/intro.md"
-    },
-    {
-      "basename": "readme",
-      "path": "knowledge/others/politics/readme.md"
-    },
-    {
-      "basename": "indian-history-timeline",
-      "path": "knowledge/history/indian-history-timeline.md"
-    },
-    {
-      "basename": "documentation",
-      "path": "languages/php/documentation.md"
-    },
-    {
-      "basename": "system-design-others",
-      "path": "computer-science/interview-question/system-design-others.md"
-    },
-    {
-      "basename": "others-power-energy",
-      "path": "knowledge/applied-sciences/others-power-energy.md"
-    },
-    {
-      "basename": "crash-course-physics",
-      "path": "knowledge/physics/crash-course-physics.md"
-    },
-    {
-      "basename": "readme",
-      "path": "knowledge/physics/readme.md"
-    },
-    {
-      "basename": "startup-ideas-physical",
-      "path": "about-me/ideas/startup-ideas-physical.md"
-    },
-    {
-      "basename": "macroeconomics",
-      "path": "economics/mental-models/macroeconomics.md"
-    },
-    {
-      "basename": "readme",
-      "path": "economics/financial-finance-investing/readme.md"
-    },
-    {
-      "basename": "government-terms",
-      "path": "economics/government-terms.md"
-    },
-    {
-      "basename": "mental-models",
-      "path": "knowledge/general/mental-models.md"
-    },
-    {
-      "basename": "chemical-engineering",
-      "path": "knowledge/applied-sciences/chemical-engineering.md"
-    },
-    {
-      "basename": "news-problems",
-      "path": "knowledge/others/news-problems.md"
-    },
-    {
-      "basename": "thoughts-future-ideas-vision-prediction",
-      "path": "about-me/ideas/thoughts-future-ideas-vision-prediction.md"
-    },
-    {
-      "basename": "environmental-sciences",
-      "path": "knowledge/others/environmental-sciences.md"
-    },
-    {
-      "basename": "philosophy",
-      "path": "knowledge/others/philosophy.md"
-    },
-    {
-      "basename": "embedded-systems-electronics",
-      "path": "knowledge/applied-sciences/embedded-systems-electronics.md"
-    },
-    {
-      "basename": "intro",
-      "path": "databases/nosql-databases/redis/intro.md"
     }
   ],
   "omittedPaths": [],

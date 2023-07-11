@@ -74,9 +74,11 @@ Commits should reduce memory usage, although presumably there is a trade-off bet
 
 ## CodeGen
 
+```bash
 flask-sqlacodegen
 
 sqlacodegen mysql+pymysql://user:pass@host.com:3306/sttash_website_LIVE --table "table_name"
+```
 
 <https://github.com/ksindi/flask-sqlacodegen>
 

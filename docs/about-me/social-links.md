@@ -13,6 +13,7 @@
   - <http://bit.ly/deepaksite>
   - <https://bit.ly/deepnotes>
 - <https://resume.github.io/?deepaksood619>
+- [Experienced Software and Product Development Professional](https://deepaksood.framer.ai/)
 - <https://projectshowcase.me/deepaksood>
 - [Portfolio Website](https://deepaksood619-e5c24.web.app)
 - [https://sites.google.com/view/deepak-sood](https://sites.google.com/view/deepak-sood)
@@ -28,7 +29,7 @@
 - Instagram - <https://instagram.com/deepaksood619/>
 - Facebook - <https://www.facebook.com/deepaksood619>
 - Twitter - <https://twitter.com/deepaksood619>
-- Skype Username - deepaksood619@gmail.com
+- Skype Username - <deepaksood619@gmail.com>
 - Github Personal - <https://github.com/deepaksood619>
 - Github College - <https://github.com/deepak15013>
 - Codepen - <https://codepen.io/deepaksood619>

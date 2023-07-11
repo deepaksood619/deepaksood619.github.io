@@ -84,6 +84,8 @@ Merlin Chrome Extension
 
 [**H2O.ai** | The fastest, most accurate AI Cloud Platform](https://h2o.ai/)
 
+[Framer — Start your dream site with AI. Zero code, maximum speed.](https://www.framer.com/)
+
 #### Prompts
 
 [https://snackprompt.com](https://snackprompt.com/)

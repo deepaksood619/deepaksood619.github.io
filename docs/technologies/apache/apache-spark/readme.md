@@ -13,3 +13,15 @@
 - [Sql Functions / Datasources](technologies/apache/apache-spark/10-sql-functions-datasources.md)
 - [Built-In Functions](technologies/apache/apache-spark/11-built-in-functions.md)
 - [Others](technologies/apache/apache-spark/99-others.md)
+
+## Learning
+
+[Advancing Spark - YouTube](https://www.youtube.com/playlist?list=PLHN2ijxAWBaMY4_1xMhOoeRWiZ6_d8F9s)
+
+[Learn Databricks in 30 Days - YouTube](https://www.youtube.com/playlist?list=PLtlmylp_ZK5wF5EbBKRBBATCzS2xbs_53)
+
+[Raja's Data Engineering - YouTube](https://www.youtube.com/@rajasdataengineering7585/playlists)
+
+## Links
+
+[Databricks](technologies/apache/databricks/readme.md)
