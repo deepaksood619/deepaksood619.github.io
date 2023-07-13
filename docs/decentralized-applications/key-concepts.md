@@ -53,3 +53,7 @@ Slippage is the difference between the average purchase or sale price for a trad
 - Slippage on any trading platform can be controlled by modifying trading parameters or using slippage control facilities where they are available. Decentralized exchanges allow users to set up the maximum allowed slippage for their trades using the slippage modification feature.
 
 [What is Slippage in Crypto and How to Minimize Its Impact | CoinGecko](https://www.coingecko.com/learn/slippage-crypto)
+
+## Others
+
+[recursive proofs for the rest of us! - Mohammad Jahanara - YouTube](https://www.youtube.com/watch?v=qFKijOu4S4c)

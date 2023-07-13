@@ -18,6 +18,8 @@
 
 [This book will change your life: THE MOUNTAIN IS YOU by Brianna Wiest | Core Message - YouTube](https://www.youtube.com/watch?v=neIfuuLNUzU)
 
+[How to defeat your inner enemy: COMING ALIVE by Barry Michels & Phil Stutz | Core Message - YouTube](https://www.youtube.com/watch?v=AFFPoz8bPZ0)
+
 ## Links
 
 [Productivity Game - YouTube](https://www.youtube.com/@ProductivityGame)

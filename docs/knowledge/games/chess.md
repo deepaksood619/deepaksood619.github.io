@@ -2,13 +2,13 @@
 
 **King - Priceless, Queen - 9, Rook - 5, Bishop (better than knight) - 3, Knight - 3, Pawn - 1**
 
-**Algebraic Notation**
+### Algebraic Notation
 
 <https://www.wikiwand.com/en/Algebraic_notation_(chess)>
 
 Kfor[king](https://www.wikiwand.com/en/King_(chess)),Qfor[queen](https://www.wikiwand.com/en/Queen_(chess)),Rfor[rook](https://www.wikiwand.com/en/Rook_(chess)),Bfor[bishop](https://www.wikiwand.com/en/Bishop_(chess)), andNfor[knight](https://www.wikiwand.com/en/Knight_(chess))(since K is already used).
 
-**Moves**
+### Moves
 
 Each move of a piece is indicated by the piece's uppercase letter, plus the coordinate of the destination square. For example,**Be5**(move a bishop to e5),**Nf3**(move a knight to f3). For pawn moves, a letter indicating pawn is not used, only the destination square is given. For example,**c5**(move a pawn to c5).
 
@@ -21,13 +21,13 @@ Each move of a piece is indicated by the piece's uppercase letter, plus the coor
 
 - Checkmate with either 1 bishop or 1 knight and a king against a lone king is IMPOSSIBLE.
 
-**Principle**
+### Principle
 
 - Never move a chess piece twice before 1st 10 moves
 - Try to control as much of the center as possible (Control the center)
 - Do castle in first 7 moves
 
-**Tactics and Strategy**
+### Tactics and Strategy
 
 - Double attack
 - Fork (royal fork - when both king and queen are attacked)
@@ -58,43 +58,43 @@ A combination where two pieces work together to deliver an alternating series of
 
 - Tactics are the servant of strategy
 
-**Checkmates**
+### Checkmates
 
 - Smothered checkmate
 - The support checkmate
 - The back rank checkmate
 
-**Terms**
+### Terms
 
-- Gambit
+#### Gambit
 
 A gambit is a term used to show that a player has sacrificed one or more of their pawns for early development of their pieces
 
 e.g. The Danish gambit, The Queen's gambit, King's gambit
 
-- Patzer
+#### Patzer
 
 Player who is very poor at chess (German origin)
 
-- Fianchetto
+#### Fianchetto
 
 Refers to the development of a Bishop along the longest diagonals on the Chessboard (b2 and g2)
 
 ![image](../../media/Games-Chess-image1.jpg)
 
-- En Passant
+#### En Passant
 
 Special capturing right in Chess for pawn
 
-- Exchange
+#### Exchange
 
 When during a game the players capture pieces of equal value.
 
-- Smothered mate
+#### Smothered mate
 
 When a checkmate occurs in which the mated king is surrounded by its own pieces
 
-- Promotion
+#### Promotion
 
 When a pawn reaches the eighth rank, it gets promoted and becomes any piece of the player's choice (a pawn cannot remain a pawn)
 
@@ -105,11 +105,11 @@ When a pawn reaches the eighth rank, it gets promoted and becomes any piece of t
 
 Making a threatening move towards your opponent even though you know it's bad, and hope they won't respond well
 
-**Proverbs**
+### Proverbs
 
 - Tactics are the servant of strategy
 
-**Fast Chess**
+### Fast Chess
 
 **Fast chess**is a type of[chess](https://www.wikiwand.com/en/Chess)in which each player is given less time to consider their moves than normal tournament[time controls](https://www.wikiwand.com/en/Time_control)allow. Fast chess is further subdivided, by decreasing time controls, into[rapid chess](https://www.wikiwand.com/en/Fast_chess#Rapid),[blitz chess](https://www.wikiwand.com/en/Fast_chess#Blitz), and[bullet chess](https://www.wikiwand.com/en/Fast_chess#Bullet).[Armageddon chess](https://www.wikiwand.com/en/Fast_chess#Armageddon)is a particular variation in which different rules apply for each of the two players.
 
@@ -117,11 +117,11 @@ Making a threatening move towards your opponent even though you know it's bad, a
 
 **FIDE - World Chess Federation**
 
-**ELO Rating System**
+### ELO Rating System
 
-The Elo rating system is a method for calculating the relative skill levels of players in[zero-sum games](https://www.wikiwand.com/en/Zero-sum_game)such as[chess](https://www.wikiwand.com/en/Chess). It is named after its creator[Arpad Elo](https://www.wikiwand.com/en/Arpad_Elo), a Hungarian-American physics professor.
+The Elo rating system is a method for calculating the relative skill levels of players in[zero-sum games](https://www.wikiwand.com/en/Zero-sum_game)such as [chess](https://www.wikiwand.com/en/Chess). It is named after its creator [Arpad Elo](https://www.wikiwand.com/en/Arpad_Elo), a Hungarian-American physics professor.
 
-The Elo system was originally invented as an improved chess-rating system over the previously used[Harkness system](https://www.wikiwand.com/en/Harkness_rating_system), but is also used as a rating system for multiplayer competition in a number of[video games](https://www.wikiwand.com/en/Video_game),[association football](https://www.wikiwand.com/en/Association_football),[American football](https://www.wikiwand.com/en/American_football),[basketball](https://www.wikiwand.com/en/Basketball), [Major League Baseball](https://www.wikiwand.com/en/Major_League_Baseball),[table tennis](https://www.wikiwand.com/en/Table_tennis),[board games](https://www.wikiwand.com/en/Board_game) such as[Scrabble](https://www.wikiwand.com/en/Scrabble) and [Diplomacy](https://www.wikiwand.com/en/Diplomacy_(game)), and other games.
+The Elo system was originally invented as an improved chess-rating system over the previously used [Harkness system](https://www.wikiwand.com/en/Harkness_rating_system), but is also used as a rating system for multiplayer competition in a number of[video games](https://www.wikiwand.com/en/Video_game),[association football](https://www.wikiwand.com/en/Association_football),[American football](https://www.wikiwand.com/en/American_football),[basketball](https://www.wikiwand.com/en/Basketball), [Major League Baseball](https://www.wikiwand.com/en/Major_League_Baseball),[table tennis](https://www.wikiwand.com/en/Table_tennis),[board games](https://www.wikiwand.com/en/Board_game) such as[Scrabble](https://www.wikiwand.com/en/Scrabble) and [Diplomacy](https://www.wikiwand.com/en/Diplomacy_(game)), and other games.
 
 The difference in the ratings between two players serves as a predictor of the outcome of a match. Two players with equal ratings who play against each other are expected to score an equal number of wins. A player whose rating is 100 points greater than their opponent's is expected to score 64%; if the difference is 200 points, then the expected score for the stronger player is 76%.
 
@@ -131,6 +131,12 @@ An Elo rating is a comparative rating only, and is valid only within the rating 
 
 <https://www.wikiwand.com/en/Elo_rating_system>
 
-<https://www.youtube.com/playlist?list=PLE0EA747B97FADD86>
+## Learning
 
-<https://www.youtube.com/playlist?list=PLQsLDm9Rq9bHKEBnElquF8GuWkI1EJ8Zp>
+[Chess Tactics - YouTube](https://www.youtube.com/playlist?list=PLE0EA747B97FADD86)
+
+[Beginner to Chess Master - YouTube](https://www.youtube.com/playlist?list=PLQsLDm9Rq9bHKEBnElquF8GuWkI1EJ8Zp)
+
+## Others
+
+[Can Chess, with Hexagons? - YouTube](https://www.youtube.com/watch?v=bgR3yESAEVE)

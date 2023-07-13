@@ -1,8 +1,8 @@
 # Data Visualization
 
 - [Data Visualization](ai/data-science/data-visualization/intro.md)
-- [Tableau](ai/data-science/data-visualization/tableau.md)
 - [BI Tools](bi-tools)
+- [Tableau](ai/data-science/tableau/readme.md)
 - [PowerBI](powerbi)
 - [Charts](charts)
 - [Matplotlib](matplotlib)

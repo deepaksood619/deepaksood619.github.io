@@ -61,7 +61,7 @@ const config = {
           showLastUpdateTime: true,
           exclude: ['**/office/**'],
           editUrl:
-            'https://github.com/deepaksood619/deepaksood619.github.io/tree/main/',
+            'https://github.com/deepaksood619/deepaksood619.github.io/tree/master/',
         },
         blog: false,
         theme: {

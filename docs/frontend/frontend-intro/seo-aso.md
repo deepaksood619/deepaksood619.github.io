@@ -29,6 +29,7 @@ Search engine marketing is the practice of marketing a business using paid adver
 - <https://stories.google>
 - <https://purifycss.online>
 - <https://moz.com>
+- [Rich Results Test - Google Search Console](https://search.google.com/test/rich-results)
 
 ## Black Hat SEO
 
@@ -74,6 +75,14 @@ cloudinary.com for fast image CDN
 ## Search Engine Results Page (SERP)
 
 <https://www.wordstream.com/serp>
+
+## Rich Results
+
+Rich results are experiences on Google surfaces, such as Search, that go beyond the standard blue link. Rich results can include carousels, images or other non-textual elements.
+
+[Mark Up FAQs with Structured Data | Google Search Central  |  Documentation  |  Google for Developers](https://developers.google.com/search/docs/appearance/structured-data/faqpage)
+
+[Rich Results Test - Google Search Console](https://search.google.com/test/rich-results)
 
 ## Siphoning
 
@@ -225,7 +234,7 @@ Use subdirectory wherever possible
 
 <https://www.semrush.com/blog/subdomain-vs-subdirectory>
 
-## Trailing Slash
+### Trailing Slash
 
 Different content on slash and non-slash URLs is okay for Google, but often is less ideal for users
 

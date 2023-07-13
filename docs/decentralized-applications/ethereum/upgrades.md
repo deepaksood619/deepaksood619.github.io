@@ -74,3 +74,5 @@ Ethereum social consensus, _for other purposes_:
 ## Others
 
 [Intro to ERC 6551 - Token Bound Accounts - Jayden Windle - YouTube](https://www.youtube.com/watch?v=6WoNRbkZOaU)
+
+[Vitalik Buterin ETHGlobal Waterloo III Keynote - YouTube](https://www.youtube.com/watch?v=RhzDs0jxhLw)

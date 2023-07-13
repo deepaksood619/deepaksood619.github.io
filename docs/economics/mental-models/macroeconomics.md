@@ -105,6 +105,8 @@ The **impossible trinity** (also known as **the impossible [trilemma](https://en
 
 [Lies You've Been Told About INDIA & The Truth You Need to Know! - YouTube](https://www.youtube.com/watch?v=oHVgxbvkojw)
 
+[As India’s red hot economy set to be world no. 3, reality check on how it stacks up with China, US - YouTube](https://www.youtube.com/watch?v=BYp1HnYUiAo)
+
 ## Links
 
 [Data Update 1 for 2023: Setting the table](https://www.youtube.com/watch?v=RKJ1c442AcY)

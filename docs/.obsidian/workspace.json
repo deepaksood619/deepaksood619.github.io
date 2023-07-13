@@ -13,7 +13,55 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "economics/finance-investing/checklist-tips-personal-finance.md",
+                "file": "economics/finance-investing/readme.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "46e0b217ca1ee31b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ai/data-science/tableau/readme.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "001b31fcb81d7052",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ai/data-science/tableau/tableau-data-model.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5de53267738fe5ee",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "book-summaries/the-4-hour-workweek.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fc3908b459700ef8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "frontend/frontend-intro/seo-aso.md",
                 "mode": "source",
                 "source": false
               }
@@ -31,7 +79,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -60,7 +109,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"liquid staking",
+                "query": "\"serp",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -113,7 +162,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "economics/finance-investing/checklist-tips-personal-finance.md",
+                "file": "frontend/frontend-intro/seo-aso.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +179,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "economics/finance-investing/checklist-tips-personal-finance.md",
+                "file": "frontend/frontend-intro/seo-aso.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +202,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "economics/finance-investing/checklist-tips-personal-finance.md"
+                "file": "frontend/frontend-intro/seo-aso.md"
               }
             }
           },
@@ -201,34 +250,36 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "978fd2faf621af33",
+  "active": "fc3908b459700ef8",
   "lastOpenFiles": [
-    "economics/finance-investing/readme.md",
-    "economics/readme.md",
-    "economics/finance-investing/checklist-tips-personal-finance.md",
-    "economics/finance-investing/buy-now-pay-later-bnpl.md",
-    "economics/finance-investing/quotes.md",
-    "decentralized-applications/ethereum/ethereum-staking.md",
-    "office/blocktoons/infra.md",
-    "about-me/ideas/thoughts-future-ideas-vision-prediction.md",
-    "decentralized-applications/crypto-investing.md",
-    "decentralized-applications/coins-tokens-chains/readme.md",
-    "office/keep/asha-maa.md",
-    "technologies/apache/databricks/40-databricks-commands.md",
-    "technologies/apache/databricks/04-workflow.md",
-    "technologies/apache/databricks/03-optimizations.md",
-    "technologies/apache/databricks/02-databricks-getting-started.md",
-    "technologies/apache/databricks/01-databricks.md",
-    "technologies/apache/databricks/99-others.md",
-    "economics/mutual-funds/debt-mutual-funds.md",
-    "economics/nbfc-banking-terms.md",
+    "office/todo/todo-tech-&-courses.md",
+    "frontend/others/docusaurus.md",
     "python/documentation/27-development-tools/static-code-analysis.md",
-    "python/python-intro/virtualenv-and-pip.md",
-    "python/others/flask/readme.md",
-    "economics/finance-investing/indian-company-types.md",
-    "economics/finance-investing/returns-tax-taxes-itr.md",
-    "economics/finance-investing/company-management.md",
+    "python/documentation/18-interprocess-communication-and-networking.md",
+    "management/community-building.md",
+    "technologies/apache/databricks/40-databricks-commands.md",
+    "ai/data-science/tableau/tableau-data-model.md",
+    "knowledge/quotes-proverbs/business-management.md",
+    "book-summaries/the-4-agreements.md",
+    "book-summaries/readme.md",
+    "book-summaries/the-4-hour-workweek.md",
+    "book-summaries/others.md",
+    "office/cakedefi/todo.md",
+    "office/keep/deepak-banks.md",
+    "economics/finance-investing/readme.md",
+    "office/keep/neha.md",
+    "office/personality/life-lessons-buying-guide-travelling-shopping.md",
+    "office/personality/movies-serials-apps.md",
+    "decentralized-applications/ethereum/upgrades.md",
+    "decentralized-applications/key-concepts.md",
+    "decentralized-applications/readme.md",
+    "knowledge/games/chess.md",
     "office/blocktoons/todo.md",
+    "office/blocktoons/infra.md",
+    "office/stashfin-credentials/external-tech.md",
+    "office/cakedefi/infra.md",
+    "ai/data-science/tableau",
+    "Untitled",
     "media/Pasted image 20230710130750.png",
     "media/Pasted image 20230710130702.png",
     "media/Pasted image 20230710130538.png",
@@ -243,11 +294,9 @@
     "office/stashfin-credentials",
     "management/people-management",
     "decentralized-applications/coins-tokens-chains",
-    "Untitled",
     "technologies/apache/databricks",
     "databricks",
     "about-me/projects",
-    "psychology/soft-skills/psychology/soft-skills",
-    "psychology/soft-skills/psychology"
+    "psychology/soft-skills/psychology/soft-skills"
   ]
 }

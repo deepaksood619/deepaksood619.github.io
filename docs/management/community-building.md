@@ -4,25 +4,25 @@ Companies like Atlassian, Glossier, Datadog, Twitch, dbt, Salesforce, Peloton, a
 
 ![image](../media/Community-Building-image1.jpg)
 
-1. Should you even be investing in community?
+### 1. Should you even be investing in community?
 
-   - Defining community
-   - Aligning community to business objectives
-   - Aligning community to your members' goals
-   - Who should own community?
-   - What to look for in a community hire
+- Defining community
+- Aligning community to business objectives
+- Aligning community to your members' goals
+- Who should own community?
+- What to look for in a community hire
 
-2. What does a community strategy look like?
+### 2. What does a community strategy look like?
 
-   - The three levels of community strategy
-   - Creating community-level goals
-   - Creating tactical-level goals
+- The three levels of community strategy
+- Creating community-level goals
+- Creating tactical-level goals
 
-3. How do you build a meaningful community?
+### 3. How do you build a meaningful community?
 
-   - Designing community programs
-   - Launching your online community
-   - Launching a community-led event program
+- Designing community programs
+- Launching your online community
+- Launching a community-led event program
 
 ## Defining Community
 
@@ -61,9 +61,7 @@ Each objective comes with a different set of metrics that you'll likely want to 
 - How to conduct user research about a potential community:
 
     1. Start a spreadsheetof the people that you'll reach out to for an interview.
-
     2. Reach out to 10 of them to start, and ask for a 30-minute call.
-
     3. As you grow your community, make a habit of speaking with members regularly.
 
 ## Designing community programs
@@ -80,9 +78,11 @@ Each objective comes with a different set of metrics that you'll likely want to 
 
 ## Community Building Tools
 
+- **Giscus -** [A comment system powered by GitHub Discussions](https://giscus.app/)
 - **Disqus -** <https://disqus.com>
 - **Discourse -** <https://www.discourse.org>
 - **Discord -** <https://discord.com>
+- [docsly - Get actionable user feedback for your documentation.](https://www.docsly.dev/)
 - <https://uservoice.com>
 - <https://www.instamojo.com/blog/community-building-platforms-build-your-business-organically>
 - Luma - <https://lu.ma>
@@ -90,3 +90,7 @@ Each objective comes with a different set of metrics that you'll likely want to 
 - [Maven: Expert-led. Peer-driven. Hello, live learning.](https://maven.com/)
 
 Foster meaningful relationships with events, newsletters, and community analytics
+
+## Links
+
+[Web3 Startups: How to Build a Developer Community | Web3 Startups - YouTube](https://www.youtube.com/watch?v=OeRxIvr5EPM)

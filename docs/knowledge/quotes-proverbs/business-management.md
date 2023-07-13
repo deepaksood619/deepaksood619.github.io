@@ -451,3 +451,5 @@ Working IN means working on day to day tasks like delivery product/service, answ
 Working ON means taking a zoomed out approach and thinking: what systems could we implement to do this more efficiently in future? What tasks can be eliminated, automated or outsourced? Where should we be focusing more resources in order to achieve our goals faster?
 
 If your business can't run without you - if you can't safely leave your business for a few weeks - you don't really have a business; you have a job.
+
+Tobacco lobby releasing a study on the health benefits of smoking

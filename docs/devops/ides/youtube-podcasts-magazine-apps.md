@@ -96,6 +96,7 @@
 - Visual politik EN
 - Minute food
 - [Zero To Finals - YouTube](https://www.youtube.com/@ZeroToFinals)
+- [Branch Education - YouTube](https://www.youtube.com/@BranchEducation)
 
 ### Future
 

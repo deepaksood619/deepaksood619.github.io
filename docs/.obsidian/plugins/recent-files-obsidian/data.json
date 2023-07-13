@@ -1,12 +1,196 @@
 {
   "recentFiles": [
     {
-      "basename": "checklist-tips-personal-finance",
-      "path": "economics/finance-investing/checklist-tips-personal-finance.md"
+      "basename": "seo-aso",
+      "path": "frontend/frontend-intro/seo-aso.md"
+    },
+    {
+      "basename": "todo-tech-&-courses",
+      "path": "office/todo/todo-tech-&-courses.md"
+    },
+    {
+      "basename": "docusaurus",
+      "path": "frontend/others/docusaurus.md"
+    },
+    {
+      "basename": "static-code-analysis",
+      "path": "python/documentation/27-development-tools/static-code-analysis.md"
+    },
+    {
+      "basename": "18-interprocess-communication-and-networking",
+      "path": "python/documentation/18-interprocess-communication-and-networking.md"
+    },
+    {
+      "basename": "community-building",
+      "path": "management/community-building.md"
+    },
+    {
+      "basename": "40-databricks-commands",
+      "path": "technologies/apache/databricks/40-databricks-commands.md"
+    },
+    {
+      "basename": "tableau-data-model",
+      "path": "ai/data-science/tableau/tableau-data-model.md"
+    },
+    {
+      "basename": "business-management",
+      "path": "knowledge/quotes-proverbs/business-management.md"
+    },
+    {
+      "basename": "the-4-agreements",
+      "path": "book-summaries/the-4-agreements.md"
+    },
+    {
+      "basename": "readme",
+      "path": "book-summaries/readme.md"
+    },
+    {
+      "basename": "the-4-hour-workweek",
+      "path": "book-summaries/the-4-hour-workweek.md"
+    },
+    {
+      "basename": "others",
+      "path": "book-summaries/others.md"
+    },
+    {
+      "basename": "todo",
+      "path": "office/cakedefi/todo.md"
+    },
+    {
+      "basename": "deepak-banks",
+      "path": "office/keep/deepak-banks.md"
     },
     {
       "basename": "readme",
       "path": "economics/finance-investing/readme.md"
+    },
+    {
+      "basename": "macroeconomics",
+      "path": "economics/mental-models/macroeconomics.md"
+    },
+    {
+      "basename": "neha",
+      "path": "office/keep/neha.md"
+    },
+    {
+      "basename": "life-lessons-buying-guide-travelling-shopping",
+      "path": "office/personality/life-lessons-buying-guide-travelling-shopping.md"
+    },
+    {
+      "basename": "movies-serials-apps",
+      "path": "office/personality/movies-serials-apps.md"
+    },
+    {
+      "basename": "upgrades",
+      "path": "decentralized-applications/ethereum/upgrades.md"
+    },
+    {
+      "basename": "key-concepts",
+      "path": "decentralized-applications/key-concepts.md"
+    },
+    {
+      "basename": "readme",
+      "path": "decentralized-applications/readme.md"
+    },
+    {
+      "basename": "chess",
+      "path": "knowledge/games/chess.md"
+    },
+    {
+      "basename": "todo",
+      "path": "office/blocktoons/todo.md"
+    },
+    {
+      "basename": "infra",
+      "path": "office/blocktoons/infra.md"
+    },
+    {
+      "basename": "external-tech",
+      "path": "office/stashfin-credentials/external-tech.md"
+    },
+    {
+      "basename": "infra",
+      "path": "office/cakedefi/infra.md"
+    },
+    {
+      "basename": "readme",
+      "path": "ai/data-science/tableau/readme.md"
+    },
+    {
+      "basename": "augmented-analytics",
+      "path": "ai/data-science/tableau/augmented-analytics.md"
+    },
+    {
+      "basename": "readme",
+      "path": "ai/data-science/readme.md"
+    },
+    {
+      "basename": "readme",
+      "path": "ai/data-science/data-visualization/readme.md"
+    },
+    {
+      "basename": "intro",
+      "path": "ai/data-science/data-visualization/intro.md"
+    },
+    {
+      "basename": "data",
+      "path": "ai/data-science/data.md"
+    },
+    {
+      "basename": "goals",
+      "path": "office/todo/goals.md"
+    },
+    {
+      "basename": "09-dataframe",
+      "path": "technologies/apache/apache-spark/09-dataframe.md"
+    },
+    {
+      "basename": "readme",
+      "path": "management/readme.md"
+    },
+    {
+      "basename": "marketing",
+      "path": "management/marketing.md"
+    },
+    {
+      "basename": "wallets",
+      "path": "decentralized-applications/coins-tokens-chains/wallets.md"
+    },
+    {
+      "basename": "addresses-electricity",
+      "path": "office/personality/addresses-electricity.md"
+    },
+    {
+      "basename": "youtube-podcasts-magazine-apps",
+      "path": "devops/ides/youtube-podcasts-magazine-apps.md"
+    },
+    {
+      "basename": "newsletter-learning-resources",
+      "path": "computer-science/general/newsletter-learning-resources.md"
+    },
+    {
+      "basename": "readme",
+      "path": "devops/readme.md"
+    },
+    {
+      "basename": "readme",
+      "path": "devops/others/readme.md"
+    },
+    {
+      "basename": "readme",
+      "path": "devops/kubernetes/readme.md"
+    },
+    {
+      "basename": "asset-classes",
+      "path": "economics/finance-investing/asset-classes.md"
+    },
+    {
+      "basename": "checklist-tips-personal-finance",
+      "path": "economics/finance-investing/checklist-tips-personal-finance.md"
+    },
+    {
+      "basename": "ethereum-staking",
+      "path": "decentralized-applications/ethereum/ethereum-staking.md"
     },
     {
       "basename": "readme",
@@ -15,190 +199,6 @@
     {
       "basename": "buy-now-pay-later-bnpl",
       "path": "economics/finance-investing/buy-now-pay-later-bnpl.md"
-    },
-    {
-      "basename": "quotes",
-      "path": "economics/finance-investing/quotes.md"
-    },
-    {
-      "basename": "ethereum-staking",
-      "path": "decentralized-applications/ethereum/ethereum-staking.md"
-    },
-    {
-      "basename": "infra",
-      "path": "office/blocktoons/infra.md"
-    },
-    {
-      "basename": "thoughts-future-ideas-vision-prediction",
-      "path": "about-me/ideas/thoughts-future-ideas-vision-prediction.md"
-    },
-    {
-      "basename": "crypto-investing",
-      "path": "decentralized-applications/crypto-investing.md"
-    },
-    {
-      "basename": "readme",
-      "path": "decentralized-applications/coins-tokens-chains/readme.md"
-    },
-    {
-      "basename": "asha-maa",
-      "path": "office/keep/asha-maa.md"
-    },
-    {
-      "basename": "40-databricks-commands",
-      "path": "technologies/apache/databricks/40-databricks-commands.md"
-    },
-    {
-      "basename": "04-workflow",
-      "path": "technologies/apache/databricks/04-workflow.md"
-    },
-    {
-      "basename": "03-optimizations",
-      "path": "technologies/apache/databricks/03-optimizations.md"
-    },
-    {
-      "basename": "02-databricks-getting-started",
-      "path": "technologies/apache/databricks/02-databricks-getting-started.md"
-    },
-    {
-      "basename": "01-databricks",
-      "path": "technologies/apache/databricks/01-databricks.md"
-    },
-    {
-      "basename": "99-others",
-      "path": "technologies/apache/databricks/99-others.md"
-    },
-    {
-      "basename": "debt-mutual-funds",
-      "path": "economics/mutual-funds/debt-mutual-funds.md"
-    },
-    {
-      "basename": "nbfc-banking-terms",
-      "path": "economics/nbfc-banking-terms.md"
-    },
-    {
-      "basename": "static-code-analysis",
-      "path": "python/documentation/27-development-tools/static-code-analysis.md"
-    },
-    {
-      "basename": "virtualenv-and-pip",
-      "path": "python/python-intro/virtualenv-and-pip.md"
-    },
-    {
-      "basename": "readme",
-      "path": "python/others/flask/readme.md"
-    },
-    {
-      "basename": "indian-company-types",
-      "path": "economics/finance-investing/indian-company-types.md"
-    },
-    {
-      "basename": "returns-tax-taxes-itr",
-      "path": "economics/finance-investing/returns-tax-taxes-itr.md"
-    },
-    {
-      "basename": "company-management",
-      "path": "economics/finance-investing/company-management.md"
-    },
-    {
-      "basename": "todo",
-      "path": "office/blocktoons/todo.md"
-    },
-    {
-      "basename": "todo",
-      "path": "office/cakedefi/todo.md"
-    },
-    {
-      "basename": "business",
-      "path": "office/stashfin-credentials/business.md"
-    },
-    {
-      "basename": "commands",
-      "path": "technologies/git/commands.md"
-    },
-    {
-      "basename": "litecoin",
-      "path": "decentralized-applications/coins-tokens-chains/litecoin.md"
-    },
-    {
-      "basename": "addresses-electricity",
-      "path": "office/personality/addresses-electricity.md"
-    },
-    {
-      "basename": "personal-todo",
-      "path": "office/todo/personal-todo.md"
-    },
-    {
-      "basename": "commands",
-      "path": "languages/php/codeigniter/commands.md"
-    },
-    {
-      "basename": "neha",
-      "path": "office/keep/neha.md"
-    },
-    {
-      "basename": "cryptographic-hash-functions",
-      "path": "computer-science/security/cryptography/cryptographic-hash-functions.md"
-    },
-    {
-      "basename": "thorchain",
-      "path": "decentralized-applications/coins-tokens-chains/thorchain.md"
-    },
-    {
-      "basename": "wallets",
-      "path": "decentralized-applications/coins-tokens-chains/wallets.md"
-    },
-    {
-      "basename": "coin-token-intro",
-      "path": "decentralized-applications/coins-tokens-chains/coin-token-intro.md"
-    },
-    {
-      "basename": "sql-joins",
-      "path": "languages/sql/sql-joins.md"
-    },
-    {
-      "basename": "policy-plans",
-      "path": "office/keep/policy-plans.md"
-    },
-    {
-      "basename": "others",
-      "path": "office/keep/others.md"
-    },
-    {
-      "basename": "investment",
-      "path": "office/keep/investment.md"
-    },
-    {
-      "basename": "deepak-banks",
-      "path": "office/keep/deepak-banks.md"
-    },
-    {
-      "basename": "readme",
-      "path": "technologies/apache/databricks/readme.md"
-    },
-    {
-      "basename": "readme",
-      "path": "technologies/apache/apache-spark/readme.md"
-    },
-    {
-      "basename": "99-others",
-      "path": "technologies/apache/apache-spark/99-others.md"
-    },
-    {
-      "basename": "data-model",
-      "path": "databases/nosql-databases/cassandra/data-model.md"
-    },
-    {
-      "basename": "apache-hive",
-      "path": "technologies/apache/apache-hive.md"
-    },
-    {
-      "basename": "government-terms",
-      "path": "economics/government-terms.md"
-    },
-    {
-      "basename": "chatgpt-llm",
-      "path": "ai/libraries/chatgpt-llm.md"
     }
   ],
   "omittedPaths": [],

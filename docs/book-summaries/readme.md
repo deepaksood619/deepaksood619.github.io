@@ -70,6 +70,7 @@
 - [The art of impossible](the-art-of-impossible)
 - [Sell like crazy](book-summaries/sell-like-crazy.md)
 - [How to live a good life](book-summaries/how-to-live-a-good-life.md)
+- [The 4 Agreements](book-summaries/the-4-agreements.md)
 - [Others](book-summaries/others.md)
 - [Books / Blinkist - Management](../management/books-blinkist-management)
 - [Product Book Summaries](management/product-management/product-book-summaries.md)
