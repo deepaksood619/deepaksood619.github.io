@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "frontend/frontend-intro/seo-aso.md",
+                "file": "cloud/others/others-saas.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"serp",
+                "query": "adwords",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -162,7 +162,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "frontend/frontend-intro/seo-aso.md",
+                "file": "cloud/others/others-saas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -179,7 +179,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "frontend/frontend-intro/seo-aso.md",
+                "file": "cloud/others/others-saas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,7 +202,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "frontend/frontend-intro/seo-aso.md"
+                "file": "cloud/others/others-saas.md"
               }
             }
           },
@@ -250,11 +250,20 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "fc3908b459700ef8",
+  "active": "978fd2faf621af33",
   "lastOpenFiles": [
+    "cloud/others/google-cloud-platform.md",
+    "office/blocktoons/infra.md",
+    "office/cakedefi/infra.md",
+    "office/cakedefi/todo.md",
+    "databases/nosql-databases/mongodb/commands.md",
+    "databases/nosql-databases/mongodb/intro.md",
+    "python/others/fastapi/readme.md",
+    "management/mental-models.md",
+    "python/documentation/27-development-tools/static-code-analysis.md",
+    "frontend/frontend-intro/seo-aso.md",
     "office/todo/todo-tech-&-courses.md",
     "frontend/others/docusaurus.md",
-    "python/documentation/27-development-tools/static-code-analysis.md",
     "python/documentation/18-interprocess-communication-and-networking.md",
     "management/community-building.md",
     "technologies/apache/databricks/40-databricks-commands.md",
@@ -264,20 +273,11 @@
     "book-summaries/readme.md",
     "book-summaries/the-4-hour-workweek.md",
     "book-summaries/others.md",
-    "office/cakedefi/todo.md",
     "office/keep/deepak-banks.md",
     "economics/finance-investing/readme.md",
     "office/keep/neha.md",
     "office/personality/life-lessons-buying-guide-travelling-shopping.md",
     "office/personality/movies-serials-apps.md",
-    "decentralized-applications/ethereum/upgrades.md",
-    "decentralized-applications/key-concepts.md",
-    "decentralized-applications/readme.md",
-    "knowledge/games/chess.md",
-    "office/blocktoons/todo.md",
-    "office/blocktoons/infra.md",
-    "office/stashfin-credentials/external-tech.md",
-    "office/cakedefi/infra.md",
     "ai/data-science/tableau",
     "Untitled",
     "media/Pasted image 20230710130750.png",

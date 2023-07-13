@@ -31,19 +31,19 @@ FastAPI is a modern, fast (high-performance), web framework for building APIs wi
 
 ## OpenAPI
 
-FastAPIgenerates a "schema" with all your API using theOpenAPIstandard for defining APIs.
+FastAPI generates a "schema" with all your API using the OpenAPI standard for defining APIs.
 
-## "Schema"
+### "Schema"
 
 A "schema" is a definition or description of something. Not the code that implements it, but just an abstract description.
 
-## API "schema"
+### API "schema"
 
 In this case, [OpenAPI](https://github.com/OAI/OpenAPI-Specification) is a specification that dictates how to define a schema of your API.
 
 This schema definition includes your API paths, the possible parameters they take, etc.
 
-## Data "schema"
+### Data "schema"
 
 The term "schema" might also refer to the shape of some data, like a JSON content.
 
@@ -65,11 +65,13 @@ You could also use it to generate code automatically, for clients that communica
 
 You can declare path "parameters" or "variables" with the same syntax used by Python format strings
 
+```python
 @app.get("/items/{item_id}")
 
 async def read_item(item_id: int):
 
 return {"item_id": item_id}
+```
 
 ## Query Parameters
 
@@ -81,12 +83,10 @@ The query is the set of key-value pairs that go after the?in a URL, separated by
 
 ## Request Body
 
+```python
 class ClientAuth(Base):
-
 """
-
 stores clients data that can access the apis
-
 """
 
 client_secret = db.Column(db.String(72))
@@ -94,6 +94,7 @@ client_secret = db.Column(db.String(72))
 client_name = db.Column(db.String(50), nullable=False)
 
 registered_by = db.Column(db.String(36), nullable=False)
+```
 
 ## Data Types
 
@@ -112,47 +113,38 @@ registered_by = db.Column(db.String(36), nullable=False)
 
 ## Commands
 
+```python
 from fastapi import FastAPI
-
 from enum import Enum
 
 app = FastAPI()
 
 @app.get("/")
-
 async def root():
-
-return {"message": "Hello World"}
+ return {"message": "Hello World"}
 
 @app.get("/items/{item_id}")
-
 async def read_item(item_id: int):
-
-return {"item_id": item_id}
+ return {"item_id": item_id}
 
 class ModelName(str, Enum):
 
-alexnet = "alexnet123"
+ alexnet = "alexnet123"
+ resnet123 = "resnet"
+ lenet = "lenet123"
 
-resnet123 = "resnet"
+ @app.get("/models/{model_name}")
+ async def get_model(model_name: ModelName):
+  if model_name == ModelName.alexnet:
+   return {"model_name": model_name, "message": "Deep Learning"}
 
-lenet = "lenet123"
+  if model_name.value == "lenet123":
+   return {"model_name": model_name, "message": "LeCNN"}
 
-@app.get("/models/{model_name}")
+  return {"model_name": model_name, "message": "Have some residuals"}
 
-async def get_model(model_name: ModelName):
-
-if model_name == ModelName.alexnet:
-
-return {"model_name": model_name, "message": "Deep Learning"}
-
-if model_name.value == "lenet123":
-
-return {"model_name": model_name, "message": "LeCNN"}
-
-return {"model_name": model_name, "message": "Have some residuals"}
-
-uvicorn main:app --host 0.0.0.0 --reload
+# uvicorn main:app --host 0.0.0.0 --reload
+```
 
 [http://127.0.0.1:8000](http://127.0.0.1:8000/)
 
@@ -181,3 +173,13 @@ It is production-ready, and gives you the following:
 - 100% test coverage.
 - 100% type annotated codebase.
 - Zero hard dependencies.
+
+### Admin
+
+[GitHub - fastapi-admin/fastapi-admin: A fast admin dashboard based on FastAPI and TortoiseORM with tabler ui, inspired by Django admin](https://github.com/fastapi-admin/fastapi-admin)
+
+[Starlette Admin](https://jowilf.github.io/starlette-admin/) (Supports mongoengine too)
+
+## Links
+
+[Awesome FastAPI | | Curated list of awesome lists | Project-Awesome.org](https://project-awesome.org/mjhea0/awesome-fastapi)

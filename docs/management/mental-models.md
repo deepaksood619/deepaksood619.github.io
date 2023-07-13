@@ -61,9 +61,9 @@ Understanding opportunity cost means eliminating good uses of time. And that's w
 
 - Quality (How good it is)
 - Taste / Target (How good you want it to be)
-- Discernment - the ability to judge well (How good you are at knowing the difference)
+- Discernment - the ability to judge well (How good you are at knowing the difference) (How well you can perceive quality)
 
-Problems
+**Problems**
 
 - Same taste different discernment
 - Same discernment different taste (creative targets)

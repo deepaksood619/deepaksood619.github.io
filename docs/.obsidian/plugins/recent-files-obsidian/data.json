@@ -1,6 +1,46 @@
 {
   "recentFiles": [
     {
+      "basename": "others-saas",
+      "path": "cloud/others/others-saas.md"
+    },
+    {
+      "basename": "google-cloud-platform",
+      "path": "cloud/others/google-cloud-platform.md"
+    },
+    {
+      "basename": "infra",
+      "path": "office/blocktoons/infra.md"
+    },
+    {
+      "basename": "infra",
+      "path": "office/cakedefi/infra.md"
+    },
+    {
+      "basename": "todo",
+      "path": "office/cakedefi/todo.md"
+    },
+    {
+      "basename": "commands",
+      "path": "databases/nosql-databases/mongodb/commands.md"
+    },
+    {
+      "basename": "intro",
+      "path": "databases/nosql-databases/mongodb/intro.md"
+    },
+    {
+      "basename": "readme",
+      "path": "python/others/fastapi/readme.md"
+    },
+    {
+      "basename": "mental-models",
+      "path": "management/mental-models.md"
+    },
+    {
+      "basename": "static-code-analysis",
+      "path": "python/documentation/27-development-tools/static-code-analysis.md"
+    },
+    {
       "basename": "seo-aso",
       "path": "frontend/frontend-intro/seo-aso.md"
     },
@@ -11,10 +51,6 @@
     {
       "basename": "docusaurus",
       "path": "frontend/others/docusaurus.md"
-    },
-    {
-      "basename": "static-code-analysis",
-      "path": "python/documentation/27-development-tools/static-code-analysis.md"
     },
     {
       "basename": "18-interprocess-communication-and-networking",
@@ -51,10 +87,6 @@
     {
       "basename": "others",
       "path": "book-summaries/others.md"
-    },
-    {
-      "basename": "todo",
-      "path": "office/cakedefi/todo.md"
     },
     {
       "basename": "deepak-banks",
@@ -101,16 +133,8 @@
       "path": "office/blocktoons/todo.md"
     },
     {
-      "basename": "infra",
-      "path": "office/blocktoons/infra.md"
-    },
-    {
       "basename": "external-tech",
       "path": "office/stashfin-credentials/external-tech.md"
-    },
-    {
-      "basename": "infra",
-      "path": "office/cakedefi/infra.md"
     },
     {
       "basename": "readme",
@@ -175,30 +199,6 @@
     {
       "basename": "readme",
       "path": "devops/others/readme.md"
-    },
-    {
-      "basename": "readme",
-      "path": "devops/kubernetes/readme.md"
-    },
-    {
-      "basename": "asset-classes",
-      "path": "economics/finance-investing/asset-classes.md"
-    },
-    {
-      "basename": "checklist-tips-personal-finance",
-      "path": "economics/finance-investing/checklist-tips-personal-finance.md"
-    },
-    {
-      "basename": "ethereum-staking",
-      "path": "decentralized-applications/ethereum/ethereum-staking.md"
-    },
-    {
-      "basename": "readme",
-      "path": "economics/readme.md"
-    },
-    {
-      "basename": "buy-now-pay-later-bnpl",
-      "path": "economics/finance-investing/buy-now-pay-later-bnpl.md"
     }
   ],
   "omittedPaths": [],

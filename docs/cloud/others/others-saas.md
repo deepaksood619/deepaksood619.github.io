@@ -163,6 +163,12 @@ Open-source low-code framework for building React-based web applications and int
 
 <https://docs.photoprism.app/getting-started>
 
+## Adsense and Adwords
+
+AdWords (now more commonly known as Google Ads) is a system that allows businesses to bid for advertising space in the Google search results and on other Google-affiliated properties. AdSense is a system that allows publishers and website owners to sell ad space to businesses.
+
+Ex for adsense - <https://www.hindustantimes.com/ads.txt>
+
 ## Others
 
 <https://www.nylas.com>

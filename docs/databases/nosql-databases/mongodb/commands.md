@@ -37,9 +37,19 @@ mongo -u root -p example
 ```
 
 ```bash
+# mongodb shell
 brew install mongosh
 
 mongosh "mongodb+srv://cluster0.xxx.mongodb.net/" --apiVersion 1 --username deepaksood619
+```
+
+```bash
+# database tools
+brew tap mongodb/brew
+brew install mongodb-database-tools
+
+# backup mongodb database
+mongodump --uri="mongodb://mongodb0.example.com:27017"
 ```
 
 ## Mongo DB Queries
