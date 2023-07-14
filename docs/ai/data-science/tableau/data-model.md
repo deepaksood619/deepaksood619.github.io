@@ -1,4 +1,4 @@
-# Tableau Data Model
+# Data Model
 
 Every data source that you create in Tableau has a data model. You can think of a data model as a diagram that tells Tableau how it should query data in the connected database tables.
 
@@ -33,5 +33,12 @@ Double-click a logical table to open it and see its physical tables. Physical ta
 | Logical tables are like containers for physical tables | Double-click a logical table to see its physical tables |
 | Level of detail is at the row level of the logical table | Level of detail is at the row level of merged physical tables |
 | Logical tables remain distinct (normalized), not merged in the data source | Physical tables are merged into a single, flat table that defines the logical table |
+
+## Supported data model schemas
+
+- Single-table
+- Star and snowflake
+- Star and snowflake with measures in more than one table
+- Multi-fact analysis
 
 [The Tableau Data Model - Tableau](https://help.tableau.com/current/pro/desktop/en-us/datasource_datamodel.htm)

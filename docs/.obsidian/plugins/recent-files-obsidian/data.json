@@ -1,24 +1,100 @@
 {
   "recentFiles": [
     {
-      "basename": "others-saas",
-      "path": "cloud/others/others-saas.md"
+      "basename": "architecture-components",
+      "path": "ai/data-science/tableau/architecture-components.md"
     },
     {
-      "basename": "google-cloud-platform",
-      "path": "cloud/others/google-cloud-platform.md"
+      "basename": "data-model",
+      "path": "ai/data-science/tableau/data-model.md"
     },
     {
-      "basename": "infra",
-      "path": "office/blocktoons/infra.md"
+      "basename": "readme",
+      "path": "ai/data-science/tableau/readme.md"
+    },
+    {
+      "basename": "concepts",
+      "path": "ai/data-science/tableau/concepts.md"
+    },
+    {
+      "basename": "intro",
+      "path": "computer-science/system-design/intro.md"
+    },
+    {
+      "basename": "readme",
+      "path": "computer-science/system-design/readme.md"
+    },
+    {
+      "basename": "design-patterns",
+      "path": "computer-science/system-design/microservice-architecture/design-patterns.md"
+    },
+    {
+      "basename": "readme",
+      "path": "computer-science/system-design/microservice-architecture/readme.md"
+    },
+    {
+      "basename": "domain-driven-design",
+      "path": "computer-science/system-design/microservice-architecture/domain-driven-design.md"
+    },
+    {
+      "basename": "others",
+      "path": "computer-science/system-design/others.md"
+    },
+    {
+      "basename": "data-sources",
+      "path": "ai/data-science/tableau/data-sources.md"
     },
     {
       "basename": "infra",
       "path": "office/cakedefi/infra.md"
     },
     {
+      "basename": "people-team-management-culture",
+      "path": "management/people-management/people-team-management-culture.md"
+    },
+    {
+      "basename": "references-learning",
+      "path": "decentralized-applications/references-learning.md"
+    },
+    {
+      "basename": "todo-tech-&-courses",
+      "path": "office/todo/todo-tech-&-courses.md"
+    },
+    {
+      "basename": "infra",
+      "path": "office/blocktoons/infra.md"
+    },
+    {
       "basename": "todo",
       "path": "office/cakedefi/todo.md"
+    },
+    {
+      "basename": "addresses-electricity",
+      "path": "office/personality/addresses-electricity.md"
+    },
+    {
+      "basename": "deepak-banks",
+      "path": "office/keep/deepak-banks.md"
+    },
+    {
+      "basename": "crypto-investing",
+      "path": "decentralized-applications/crypto-investing.md"
+    },
+    {
+      "basename": "others-saas",
+      "path": "cloud/others/others-saas.md"
+    },
+    {
+      "basename": "readme",
+      "path": "economics/readme.md"
+    },
+    {
+      "basename": "readme",
+      "path": "economics/finance-investing/readme.md"
+    },
+    {
+      "basename": "google-cloud-platform",
+      "path": "cloud/others/google-cloud-platform.md"
     },
     {
       "basename": "commands",
@@ -45,10 +121,6 @@
       "path": "frontend/frontend-intro/seo-aso.md"
     },
     {
-      "basename": "todo-tech-&-courses",
-      "path": "office/todo/todo-tech-&-courses.md"
-    },
-    {
       "basename": "docusaurus",
       "path": "frontend/others/docusaurus.md"
     },
@@ -63,10 +135,6 @@
     {
       "basename": "40-databricks-commands",
       "path": "technologies/apache/databricks/40-databricks-commands.md"
-    },
-    {
-      "basename": "tableau-data-model",
-      "path": "ai/data-science/tableau/tableau-data-model.md"
     },
     {
       "basename": "business-management",
@@ -87,14 +155,6 @@
     {
       "basename": "others",
       "path": "book-summaries/others.md"
-    },
-    {
-      "basename": "deepak-banks",
-      "path": "office/keep/deepak-banks.md"
-    },
-    {
-      "basename": "readme",
-      "path": "economics/finance-investing/readme.md"
     },
     {
       "basename": "macroeconomics",
@@ -137,68 +197,8 @@
       "path": "office/stashfin-credentials/external-tech.md"
     },
     {
-      "basename": "readme",
-      "path": "ai/data-science/tableau/readme.md"
-    },
-    {
       "basename": "augmented-analytics",
       "path": "ai/data-science/tableau/augmented-analytics.md"
-    },
-    {
-      "basename": "readme",
-      "path": "ai/data-science/readme.md"
-    },
-    {
-      "basename": "readme",
-      "path": "ai/data-science/data-visualization/readme.md"
-    },
-    {
-      "basename": "intro",
-      "path": "ai/data-science/data-visualization/intro.md"
-    },
-    {
-      "basename": "data",
-      "path": "ai/data-science/data.md"
-    },
-    {
-      "basename": "goals",
-      "path": "office/todo/goals.md"
-    },
-    {
-      "basename": "09-dataframe",
-      "path": "technologies/apache/apache-spark/09-dataframe.md"
-    },
-    {
-      "basename": "readme",
-      "path": "management/readme.md"
-    },
-    {
-      "basename": "marketing",
-      "path": "management/marketing.md"
-    },
-    {
-      "basename": "wallets",
-      "path": "decentralized-applications/coins-tokens-chains/wallets.md"
-    },
-    {
-      "basename": "addresses-electricity",
-      "path": "office/personality/addresses-electricity.md"
-    },
-    {
-      "basename": "youtube-podcasts-magazine-apps",
-      "path": "devops/ides/youtube-podcasts-magazine-apps.md"
-    },
-    {
-      "basename": "newsletter-learning-resources",
-      "path": "computer-science/general/newsletter-learning-resources.md"
-    },
-    {
-      "basename": "readme",
-      "path": "devops/readme.md"
-    },
-    {
-      "basename": "readme",
-      "path": "devops/others/readme.md"
     }
   ],
   "omittedPaths": [],

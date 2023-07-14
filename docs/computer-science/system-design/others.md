@@ -3,8 +3,11 @@
 ## Grid FTP
 
 GridFTPis an extension of the [File Transfer Protocol (FTP)](https://en.wikipedia.org/wiki/File_Transfer_Protocol) for [grid computing](https://en.wikipedia.org/wiki/Grid_computing).The protocol was defined within the GridFTP working group of the [Open Grid Forum](https://en.wikipedia.org/wiki/Open_Grid_Forum). There are multiple implementations of the protocol; the most widely used is that provided by the [Globus Toolkit](https://en.wikipedia.org/wiki/Globus_Toolkit).
+
 The aim of GridFTP is to provide a more reliable and high performance file transfer, for example to enable the transmission of very large files. GridFTP is used extensively within large science projects such as the [Large Hadron Collider](https://en.wikipedia.org/wiki/LHC) and by many supercomputer centers and other scientific facilities.
+
 GridFTP also addresses the problem of incompatibility between storage and access systems. Previously, each data provider would make their data available in their own specific way, providing a library of access functions. This made it difficult to obtain data from multiple sources, requiring a different access method for each, and thus dividing the total available data into partitions. GridFTP provides a uniform way of accessing the data, encompassing functions from all the different modes of access, building on and extending the universally accepted FTP standard. FTP was chosen as a basis for it because of its widespread use, and because it has a well defined architecture for extensions to the protocol (which may be dynamically discovered).
+
 Globus Toolkit - GSIFTP
 
 <https://en.wikipedia.org/wiki/GridFTP>
@@ -12,31 +15,28 @@ Globus Toolkit - GSIFTP
 ## Real-Time Analytics
 
 1. Ingestion
-
 2. Store
-
 3. Visualize
-
 4. Act
-
 5. Predict
 
 ## ALT (Aggregator Leaf Tailer) - Real-Time Analytics Without Pipelines
 
 Aggregator Leaf Tailer (ALT)is the data architecture favored by web-scale companies, like Facebook, LinkedIn, and Google, for its efficiency and scalability.
+
 The ALT architecture addresses these shortcomings of Lambda architectures. The key component of ALT is a high-performance serving layer that serves complex queries, and not just key-value lookups. The existence of this serving layer obviates the need for complex data pipelines.
 
 ![image](../../media/system-design-alt-Others-image1.jpg)
 
-## The ALT architecture described
+### The ALT architecture described
 
-1. TheTailerpulls new incoming data from a static or streaming source into an indexing engine. Its job is to fetch from all data sources, be it a data lake, like S3, or a dynamic source, like Kafka or Kinesis.
+1. The Tailer pulls new incoming data from a static or streaming source into an indexing engine. Its job is to fetch from all data sources, be it a data lake, like S3, or a dynamic source, like Kafka or Kinesis.
 
-2. TheLeafis a powerful indexing engine. It indexes all data as and when it arrives via the Tailer. The indexing component builds multiple types of indexes - inverted, columnar, document, geo, and many others - on the fields of a data set. The goal of indexing is to make any query on any data field fast.
+2. The Leaf is a powerful indexing engine. It indexes all data as and when it arrives via the Tailer. The indexing component builds multiple types of indexes - inverted, columnar, document, geo, and many others - on the fields of a data set. The goal of indexing is to make any query on any data field fast.
 
-3. The scalableAggregatortier is designed to deliver low-latency aggregations, be it columnar aggregations, joins, relevance sorting, or grouping. The Aggregators leverage indexing so efficiently that complex logic typically executed by pipeline software in other architectures can be executed on the fly as part of the query.
+3. The scalable Aggregator tier is designed to deliver low-latency aggregations, be it columnar aggregations, joins, relevance sorting, or grouping. The Aggregators leverage indexing so efficiently that complex logic typically executed by pipeline software in other architectures can be executed on the fly as part of the query.
 
-## Advantages of ALT
+### Advantages of ALT
 
 The ALT architecture enables the app developer or data scientist to run low-latency queries on raw data sets without any prior transformation. A large portion of the data transformation process can occur as part of the query itself. How is this possible in the ALT architecture?
 
@@ -45,12 +45,14 @@ The ALT architecture enables the app developer or data scientist to run low-late
 - Queries are distributed across a scalable Aggregator tier.The ability to scale the number of Aggregators, which provide compute and memory resources, allows compute power to be concentrated on any complex processing executed on the fly.
 
 - The Tailer, Leaf, and Aggregator run as discrete microservices in disaggregated fashion.Each Tailer, Leaf, or Aggregator tier can be independently scaled up and down as needed. The system scales Tailers when there is more data to ingest, scales Leaves when data size grows, and scales Aggregators when the number or complexity of queries increases. This independent scalability allows the system to bring significant resources to bear on complex queries when needed, while making it cost-effective to do so.
+
 The most significant difference is that the Lambda architecture performs data transformations up front so that results are pre-materialized, while the ALT architecture allows for query on demand with on-the-fly transformations.
+
 <https://rockset.com/blog/aggregator-leaf-tailer-an-architecture-for-live-analytics-on-event-streams>
 
 ## Dead Letter Queues
 
-In [message queueing](https://en.wikipedia.org/wiki/Message_queue) thedead letter queueis a service implementation to store messages that meet one or more of the following criteria:
+In [message queueing](https://en.wikipedia.org/wiki/Message_queue) the dead letter queue is a service implementation to store messages that meet one or more of the following criteria:
 
 1. Message that is sent to a queue that does not exist.
 2. Queue length limit exceeded.
@@ -76,7 +78,9 @@ Do use dead-letter queues to decrease the number of messages and to reduce the p
 
 General Systemantics(retitled toSystemanticsin its second edition andThe Systems Biblein its third) is a [systems engineering](https://en.wikipedia.org/wiki/Systems_engineering) treatise by [John Gall](https://en.wikipedia.org/wiki/John_Gall_(author)) in which he offers practical principles of systems design based on experience and anecdotes.
 It is offered from the perspective of hownotto design systems, based on system engineering failures. The primary precept of treatise is that large [complex systems](https://en.wikipedia.org/wiki/Complex_system) are extremely difficult to design correctly despite best intentions, so care must be taken to design smaller, less-complex systems and to do so with incremental functionality based on close and continual touch with user needs and measures of effectiveness.
+
 <https://en.wikipedia.org/wiki/Systemantics>
+
 <https://www.freecodecamp.org/news/have-an-idea-want-to-build-a-product-from-scratch-heres-a-checklist-of-things-you-should-go-through-in-your-backend-software-architecture>
 
 ## Notification System

@@ -13,6 +13,7 @@
 - **Finematics**
 - Jude Umeano
 - [CS120: Bitcoin for Developers I | Saylor Academy](https://learn.saylor.org/course/view.php?id=500)
+- [LearnWeb3 - Become a Web3 Developer for free!](https://learnweb3.io/)
 
 ### Youtube Crypto News
 

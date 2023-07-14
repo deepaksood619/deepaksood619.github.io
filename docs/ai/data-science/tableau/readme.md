@@ -1,6 +1,9 @@
 # Tableau
 
-- [Tableau Data Model](ai/data-science/tableau/tableau-data-model.md)
+- [Architecture and Components](ai/data-science/tableau/architecture-components.md)
+- [Data Model](ai/data-science/tableau/data-model.md)
+- [Data Sources](ai/data-science/tableau/data-sources.md)
+- [Concepts](ai/data-science/tableau/concepts.md)
 - [Augmented Analytics](ai/data-science/tableau/augmented-analytics.md)
 
 Visualization from relational databases and data cubes, OLAP cubes, cloud databases
@@ -39,6 +42,12 @@ tsm configuration set -k vizqlserver.log.level -v info
 
 [Triggering extract refreshes for Tableau Server workbooks and data sources using the REST API | by Elliott Stam | Devyx | Medium](https://medium.com/snake-charmer-python-and-analytics/triggering-extract-refreshes-for-tableau-server-workbooks-and-data-sources-using-the-rest-api-d4a8b8c001bf)
 
+## Learning
+
+[Data Viz Heroes](https://twitter.com/i/lists/231325896)
+
+[Data + Science](https://www.dataplusscience.com/TableauReferenceGuide/)
+
 ## Resources
 
 [tsm Command Line Reference - Tableau](https://help.tableau.com/current/server/en-us/tsm.htm)
@@ -46,3 +55,5 @@ tsm configuration set -k vizqlserver.log.level -v info
 [Developer Path | Extending Functionality | Tableau](https://www.tableau.com/learn/learning-paths/developer)
 
 [GitHub - utkarsh-yadav1231/Tableau-Projects: Learnt Data Visualization and Data Analytics with Tableau by solving 3 Realistic Analytics Projects.](https://github.com/utkarsh-yadav1231/Tableau-Projects)
+
+[Get Started - Tableau](https://help.tableau.com/current/pro/desktop/en-us/gettingstarted_overview.htm)

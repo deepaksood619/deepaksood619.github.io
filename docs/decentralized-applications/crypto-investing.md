@@ -30,6 +30,7 @@
 - [Bitpanda Cash Plus](https://www.bitpanda.com/en/bitpanda-cash-plus)
 - [Roots - build wealth through real estate](https://www.investwithroots.com/)
 - [Nexo: Buy, Exchange, and Store Bitcoin & Crypto](https://nexo.com/)
+- [Leading Institutional Staking and RPC Node provider. Stake tokens, host nodes and develop Web3 with us](https://p2p.org/)
 
 ![ranks-of-bitcoin-holders](../media/Screenshot%202023-04-03%20at%209.02.03%20AM.png)
 

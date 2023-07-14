@@ -77,7 +77,7 @@ Systems design is the process of defining the [architecture](https://en.wikipedi
 
 <https://towardsdatascience.com/the-complete-guide-to-the-system-design-interview-ba118f48bdfc>
 
-<https://www.youtube.com/watch?v=UzLMhqg3_Wc>
+[System Design Introduction For Interview. - YouTube](https://www.youtube.com/watch?v=UzLMhqg3_Wc)
 
 ### Scaling
 

@@ -2,6 +2,8 @@
 
 I am available anytime, I can mentor, Any help you need you can always come to me. -- Deepak
 
+Most important quality in a high quality team - **Respect and Trust**.
+
 To not sound arrogant you should tell things with smile with sir, madam
 
 If you want a problem solved make it someone's project. If you want it managed make it someone's job.
