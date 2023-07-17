@@ -391,9 +391,13 @@ Our memories have a forgetting curve, and unless we review what we see or learn,
 
 Due to the internet, our recall memory has become less necessary, because now we don't need to remember information to recall it. Recognition memory is more important with recall memory fading away due to it being externalized.
 
+![curve of forgetting](../../media/Pasted%20image%2020230716224959.png)
+
 [The Knowledge Illusion](../../book-summaries/the-knowledge-illusion)
 
 [Japan's ancient secret to better cognitive memory - BBC REEL](https://youtu.be/s6OmqXCsYt8)
+
+[Curve of Forgetting | Campus Wellness | University of Waterloo](https://uwaterloo.ca/campus-wellness/curve-forgetting)
 
 ## SQ3R / SQ4R (Survey, Question, Read, Respond, Record and Review)
 
@@ -485,3 +489,5 @@ You understand an idea not when you've memorized it, but when you know why its s
 [Critical Listening: How to Quickly Understand Difficult Things - YouTube](https://www.youtube.com/watch?v=UlMCTUvxa78)
 
 [You’re Not Stupid: How to Easily Learn Difficult Things - YouTube](https://www.youtube.com/watch?v=Kz_brQBl8xk)
+
+[The human memory—facts and information](https://www.nationalgeographic.com/science/article/human-memory)

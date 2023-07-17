@@ -1031,3 +1031,7 @@ Because the past is something that does not exist, it has existed but it doesn't
 Don't hate the players hate the game
 
 Comparison is the thief of joy
+
+First step is being informed, second step to inform others who are willing to listen..
+
+Don't be scared be prepared

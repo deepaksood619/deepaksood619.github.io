@@ -1,8 +1,8 @@
 # Firebase Analytics
 
-## Jan 8 2020 <https://medium.com/firebase-developers/google-analytics-vs-firebase-analytics-vs-google-analytics-97ca645a8aff>
+Google Analytics for Firebase, formerly Firebase Analytics, is now known as Google Analytics. It works great for your mobile apps! Oh, but Google Analytics for Mobile has been deprecated; they recommend you use Firebase Analytics, which, as you'll recall, is now Google Analytics. In recent news, you'll be excited to hear that Google Analytics now supports web apps, but don't confuse that with Google Analytics for the web!
 
-tl;dr: Google Analytics for Firebase, formerly Firebase Analytics, is now known as Google Analytics. It works great for your mobile apps! Oh, but Google Analytics for Mobile has been deprecated; they recommend you use Firebase Analytics, which, as you'll recall, is now Google Analytics. In recent news, you'll be excited to hear that Google Analytics now supports web apps, but don't confuse that with Google Analytics for the web!
+<https://medium.com/firebase-developers/google-analytics-vs-firebase-analytics-vs-google-analytics-97ca645a8aff>
 
 ## Google Analytics
 

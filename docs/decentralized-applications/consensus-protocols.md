@@ -18,6 +18,64 @@ Staking helps contribute to blockchain security by using your tokens to vouch fo
     - Even if bootstrapped correctly, may become centralized without any visible sign
 - By owning and staking the coins, you not only become an important part of securing the entire network, but you also get paid for this service. This regular income stream is paid out directly from the blockchain and is deeply embedded in the underlying programming code. The payout amounts (emission rates) vary from blockchain to blockchain; for example, for staking DeFiChain (DFI) you currently receive over 40% APY, while for staking DASH it is over 5% APY.
 
+## Delegated Proof of Stake (DPoS)
+
+**Delegated Proof Of Stake (DPoS)** is a consensus algorithm which is an advancement of the fundamental concepts of [Proof Of Stake](https://www.geeksforgeeks.org/proof-of-stake-pos-in-blockchain/). Delegated Proof of Stake (DPoS) consensus algorithm was developed by Daniel Larimer, founder of BitShares, Steemit and EOS in 2014.
+
+In Proof of Stake consensus system, each person who stakes a token can participate to the **“mintage”** process which means that they get a chance to select layer two nodes which further validates block and be rewarded for adding blocks to [blockchain](https://www.geeksforgeeks.org/blockchain-technology-introduction/). DPos system is maintained by an election system for choosing nodes which verify blocks. These nodes are called **“witnesses”** or **“block producers”**.
+
+### Advantages
+
+1. DPoS blockchains have good protection from double-spending.
+2. DPoS is more democratic and financially inclusive due to lesser staking amount required by a user/node.
+3. DPoS provides more decentralization as more people take part in the consensus due to low entry threshold.
+4. DPoS doesn’t require lots of power to run network, which makes it more sustainable.
+5. Transactions in DPoS is not dependent on computing power required to run network, hence it is more scalable.
+6. DPoS separates election of block producers from block production itself which opens door for more creative models to solve both problems in isolation.
+7. DPoS method provides foundation for implementing interesting governance models in blockchain applications. In a sense, it forms a kind of democracy.
+
+### Disadvantages
+
+1. Effective operation and decision making of network requires delegators to be well informed and appoint honest witnesses.
+2. Limited number of witnesses can lead to centralization of network.
+3. DPoS blockchain is susceptible to problems of weighted voting. Users with smaller stake can refuse from taking part in votings after considering that their vote is insignificant.
+
+[Delegated Proof Of Stake (DPoS) - GeeksforGeeks](https://www.geeksforgeeks.org/delegated-proof-of-stake/)
+
+[What Is Delegated Proof of Stake?](https://crypto.com/university/what-is-dpos-delegated-proof-of-stake)
+
+## Nominated proof of stake (NPoS)
+
+Nominated proof of stake, or NPoS, is similar to proof of stake ([PoS](https://learn.bybit.com/blockchain/what-is-proof-of-stake/)) in allowing users to earn rewards for validating new blocks, but it differs in that only nominated nodes are allowed to participate in block validation.
+
+NPoS is designed to incentivize good behavior and punish bad behavior on blockchains. For example, if a block validator attempts to validate a fraudulent transaction, they will be penalized by losing some of their staked tokens.
+
+This correction mechanism ensures that only honest and reliable nodes are allowed to participate in the nominated proof of stake consensus algorithm, which in turn helps to improve the overall security of the network.
+
+Nominated proof of stake is a popular consensus algorithm among blockchain projects because it combines the security of PoS with the added benefits of stakeholder voting.
+
+### Different Roles Within Nominated Proof of Stake (NPoS)
+
+#### Block validators
+
+Block validators are responsible for verifying the validity of new blocks and adding them to the blockchain. In order to become a block validator, a node must first be nominated by another voter. Once a node has been nominated, they’ll be allowed to validate new blocks and earn rewards for doing so.
+
+#### Nominators
+
+Nominators are responsible for nominating new nodes to become block validators. Only nodes who have been nominated by other voters will be allowed to validate new blocks and earn rewards for doing so. They play an important role in NPoS because they’re responsible for ensuring that only the most trusted and reputable nodes are allowed to validate new blocks.
+
+In summary, the main difference between block validators and nominators is that block validators are responsible for validating new blocks, while nominators are responsible for nominating other nodes to become block validators.
+
+### Examples of Nominated Proof of Stake (NPoS)
+
+The nominated proof of stake consensus algorithm is used by many different blockchain projects, including [EOS](https://learn.bybit.com/altcoins/what-is-eos-crypto/), [Polkadot](https://learn.bybit.com/altcoins/what-is-polkadot-coin-and-how-it-surged-to-the-top/) and [Cosmos](https://learn.bybit.com/altcoins/what-is-cosmos-atom/).
+
+These projects have all implemented NPoS in different ways, but they all share the common goal of improving upon the [existing proof of stake algorithm.](https://learn.bybit.com/blockchain/what-is-proof-of-stake/)
+
+[Nominated Proof of Stake (NPos) | Bybit Learn](https://learn.bybit.com/glossary/definition-nominated-proof-of-stake-npos/)
+
+[What is Nominated Proof-of-Stake? | by Staking Facilities | Medium](https://stakingfac.medium.com/what-is-nominated-proof-of-stake-889fc22bef8f)
+
 ## Proof of Authority (PoA)
 
 - Blocks must be signed by a sufficient quorum of "authoritative" nodes

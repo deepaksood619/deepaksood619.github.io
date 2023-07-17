@@ -1,104 +1,84 @@
 {
   "recentFiles": [
     {
-      "basename": "architecture-components",
-      "path": "ai/data-science/tableau/architecture-components.md"
+      "basename": "breadth-first-search-bfs",
+      "path": "algorithms/graphtheory/breadth-first-search-bfs.md"
     },
     {
-      "basename": "data-model",
-      "path": "ai/data-science/tableau/data-model.md"
+      "basename": "a-search-algorithm",
+      "path": "algorithms/advanced-algorithms/a-search-algorithm.md"
     },
     {
-      "basename": "readme",
-      "path": "ai/data-science/tableau/readme.md"
+      "basename": "disk-scheduling-algorithms",
+      "path": "algorithms/advanced-algorithms/disk-scheduling-algorithms.md"
     },
     {
-      "basename": "concepts",
-      "path": "ai/data-science/tableau/concepts.md"
-    },
-    {
-      "basename": "intro",
-      "path": "computer-science/system-design/intro.md"
-    },
-    {
-      "basename": "readme",
-      "path": "computer-science/system-design/readme.md"
-    },
-    {
-      "basename": "design-patterns",
-      "path": "computer-science/system-design/microservice-architecture/design-patterns.md"
-    },
-    {
-      "basename": "readme",
-      "path": "computer-science/system-design/microservice-architecture/readme.md"
-    },
-    {
-      "basename": "domain-driven-design",
-      "path": "computer-science/system-design/microservice-architecture/domain-driven-design.md"
-    },
-    {
-      "basename": "others",
-      "path": "computer-science/system-design/others.md"
-    },
-    {
-      "basename": "data-sources",
-      "path": "ai/data-science/tableau/data-sources.md"
+      "basename": "note-taking-second-brain-pkm-zettelkasten",
+      "path": "psychology/learning/note-taking-second-brain-pkm-zettelkasten.md"
     },
     {
       "basename": "infra",
       "path": "office/cakedefi/infra.md"
     },
     {
-      "basename": "people-team-management-culture",
-      "path": "management/people-management/people-team-management-culture.md"
+      "basename": "learning-intro",
+      "path": "psychology/learning/learning-intro.md"
     },
     {
-      "basename": "references-learning",
-      "path": "decentralized-applications/references-learning.md"
-    },
-    {
-      "basename": "todo-tech-&-courses",
-      "path": "office/todo/todo-tech-&-courses.md"
-    },
-    {
-      "basename": "infra",
-      "path": "office/blocktoons/infra.md"
-    },
-    {
-      "basename": "todo",
-      "path": "office/cakedefi/todo.md"
-    },
-    {
-      "basename": "addresses-electricity",
-      "path": "office/personality/addresses-electricity.md"
+      "basename": "my-infra",
+      "path": "office/other/my-infra.md"
     },
     {
       "basename": "deepak-banks",
       "path": "office/keep/deepak-banks.md"
     },
     {
-      "basename": "crypto-investing",
-      "path": "decentralized-applications/crypto-investing.md"
+      "basename": "concepts",
+      "path": "ai/data-science/tableau/concepts.md"
     },
     {
-      "basename": "others-saas",
-      "path": "cloud/others/others-saas.md"
+      "basename": "wyckoff-method",
+      "path": "economics/market-terms/wyckoff-method.md"
+    },
+    {
+      "basename": "readme",
+      "path": "economics/market-terms/readme.md"
+    },
+    {
+      "basename": "technical-indicators",
+      "path": "economics/market-terms/technical-indicators.md"
     },
     {
       "basename": "readme",
       "path": "economics/readme.md"
     },
     {
+      "basename": "infra",
+      "path": "office/blocktoons/infra.md"
+    },
+    {
       "basename": "readme",
-      "path": "economics/finance-investing/readme.md"
+      "path": "ai/data-science/tableau/readme.md"
     },
     {
-      "basename": "google-cloud-platform",
-      "path": "cloud/others/google-cloud-platform.md"
+      "basename": "movies-serials-apps",
+      "path": "office/personality/movies-serials-apps.md"
     },
     {
-      "basename": "commands",
-      "path": "databases/nosql-databases/mongodb/commands.md"
+      "basename": "readme",
+      "path": "decentralized-applications/coins-tokens-chains/readme.md"
+    },
+    {
+      "basename": "near-protocol",
+      "path": "decentralized-applications/coins-tokens-chains/near-protocol.md"
+    },
+    {
+      "basename": "human-history-anthropology",
+      "path": "knowledge/history/human-history-anthropology.md"
+    },
+    {
+      "basename": "architecture-components",
+      "path": "ai/data-science/tableau/architecture-components.md"
     },
     {
       "basename": "intro",
@@ -106,99 +86,119 @@
     },
     {
       "basename": "readme",
-      "path": "python/others/fastapi/readme.md"
-    },
-    {
-      "basename": "mental-models",
-      "path": "management/mental-models.md"
-    },
-    {
-      "basename": "static-code-analysis",
-      "path": "python/documentation/27-development-tools/static-code-analysis.md"
-    },
-    {
-      "basename": "seo-aso",
-      "path": "frontend/frontend-intro/seo-aso.md"
-    },
-    {
-      "basename": "docusaurus",
-      "path": "frontend/others/docusaurus.md"
-    },
-    {
-      "basename": "18-interprocess-communication-and-networking",
-      "path": "python/documentation/18-interprocess-communication-and-networking.md"
-    },
-    {
-      "basename": "community-building",
-      "path": "management/community-building.md"
-    },
-    {
-      "basename": "40-databricks-commands",
-      "path": "technologies/apache/databricks/40-databricks-commands.md"
-    },
-    {
-      "basename": "business-management",
-      "path": "knowledge/quotes-proverbs/business-management.md"
-    },
-    {
-      "basename": "the-4-agreements",
-      "path": "book-summaries/the-4-agreements.md"
-    },
-    {
-      "basename": "readme",
-      "path": "book-summaries/readme.md"
-    },
-    {
-      "basename": "the-4-hour-workweek",
-      "path": "book-summaries/the-4-hour-workweek.md"
-    },
-    {
-      "basename": "others",
-      "path": "book-summaries/others.md"
-    },
-    {
-      "basename": "macroeconomics",
-      "path": "economics/mental-models/macroeconomics.md"
-    },
-    {
-      "basename": "neha",
-      "path": "office/keep/neha.md"
-    },
-    {
-      "basename": "life-lessons-buying-guide-travelling-shopping",
-      "path": "office/personality/life-lessons-buying-guide-travelling-shopping.md"
-    },
-    {
-      "basename": "movies-serials-apps",
-      "path": "office/personality/movies-serials-apps.md"
-    },
-    {
-      "basename": "upgrades",
-      "path": "decentralized-applications/ethereum/upgrades.md"
-    },
-    {
-      "basename": "key-concepts",
-      "path": "decentralized-applications/key-concepts.md"
-    },
-    {
-      "basename": "readme",
-      "path": "decentralized-applications/readme.md"
-    },
-    {
-      "basename": "chess",
-      "path": "knowledge/games/chess.md"
+      "path": "databases/nosql-databases/mongodb/readme.md"
     },
     {
       "basename": "todo",
       "path": "office/blocktoons/todo.md"
     },
     {
-      "basename": "external-tech",
-      "path": "office/stashfin-credentials/external-tech.md"
+      "basename": "todo",
+      "path": "office/cakedefi/todo.md"
     },
     {
-      "basename": "augmented-analytics",
-      "path": "ai/data-science/tableau/augmented-analytics.md"
+      "basename": "docusaurus",
+      "path": "frontend/others/docusaurus.md"
+    },
+    {
+      "basename": "readme",
+      "path": "frontend/others/readme.md"
+    },
+    {
+      "basename": "static-site-generators",
+      "path": "frontend/others/static-site-generators.md"
+    },
+    {
+      "basename": "documentation",
+      "path": "frontend/others/nestjs/documentation.md"
+    },
+    {
+      "basename": "the-knowledge-illusion",
+      "path": "book-summaries/the-knowledge-illusion.md"
+    },
+    {
+      "basename": "memory",
+      "path": "psychology/learning/memory.md"
+    },
+    {
+      "basename": "hindi",
+      "path": "knowledge/quotes-proverbs/hindi.md"
+    },
+    {
+      "basename": "my-quotes",
+      "path": "knowledge/quotes-proverbs/my-quotes.md"
+    },
+    {
+      "basename": "tips",
+      "path": "knowledge/quotes-proverbs/tips.md"
+    },
+    {
+      "basename": "readme",
+      "path": "knowledge/quotes-proverbs/readme.md"
+    },
+    {
+      "basename": "life",
+      "path": "knowledge/quotes-proverbs/life.md"
+    },
+    {
+      "basename": "tatoos-quotes",
+      "path": "knowledge/quotes-proverbs/tatoos-quotes.md"
+    },
+    {
+      "basename": "life-relationship-people",
+      "path": "psychology/life-relationship-people.md"
+    },
+    {
+      "basename": "environmental-sciences",
+      "path": "knowledge/others/environmental-sciences.md"
+    },
+    {
+      "basename": "returns-tax-taxes-itr",
+      "path": "economics/finance-investing/returns-tax-taxes-itr.md"
+    },
+    {
+      "basename": "my-taxes",
+      "path": "office/todo/my-taxes.md"
+    },
+    {
+      "basename": "inequality",
+      "path": "economics/mental-models/inequality.md"
+    },
+    {
+      "basename": "virtualenv-and-pip",
+      "path": "python/python-intro/virtualenv-and-pip.md"
+    },
+    {
+      "basename": "others",
+      "path": "computer-science/interview-question/others.md"
+    },
+    {
+      "basename": "readme",
+      "path": "computer-science/interview-question/readme.md"
+    },
+    {
+      "basename": "aws-tech-other-questions",
+      "path": "computer-science/interview-question/aws-tech-other-questions.md"
+    },
+    {
+      "basename": "coding-interview-questions",
+      "path": "computer-science/interview-question/coding-interview-questions.md"
+    },
+    {
+      "basename": "chess",
+      "path": "knowledge/games/chess.md"
+    },
+    {
+      "basename": "crypto-investing",
+      "path": "decentralized-applications/crypto-investing.md"
+    },
+    {
+      "basename": "hr",
+      "path": "office/stashfin-credentials/hr.md"
+    },
+    {
+      "basename": "intro",
+      "path": "about-me/ideas/intro.md"
     }
   ],
   "omittedPaths": [],

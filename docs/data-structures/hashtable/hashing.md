@@ -4,14 +4,15 @@
 
 ## Hash Function
 
-A **hash function** is any [function](https://en.wikipedia.org/wiki/Function_(mathematics)) that can be used to map [data](https://en.wikipedia.org/wiki/Data_(computing)) of arbitrary size to data of fixed size. The values returned by a hash function are called*hash values*,*hash codes*,*digests*, or simply *hashes*. The values are used to index a fixed-size table called a*hash table*. Use of a hash function to index a hash table is called *hashing* or *scatter storage addressing*.
+A **hash function** is any [function](https://en.wikipedia.org/wiki/Function_(mathematics)) that can be used to map [data](https://en.wikipedia.org/wiki/Data_(computing)) of arbitrary size to data of fixed size. The values returned by a hash function are called *hash values*,*hash codes*, *digests*, or simply *hashes*. The values are used to index a fixed-size table called a *hash table*. Use of a hash function to index a hash table is called *hashing* or *scatter storage addressing*.
 
 ## Consistent Hashing
 
 Consistent Hashing is a special kind of hashing such that when a hash table is resized, only K/n keys need to be remapped on average, where K is the number of the keys, and n is the number of slots. In contrast, in most traditional hash tables, a change in the number of array slots causes nearly all keys to be remapped because the mapping between the keys and slots are defined by a modular operation.
+
 <https://www.akamai.com/es/es/multimedia/documents/technical-publication/consistent-hashing-and-random-trees-distributed-caching-protocols-for-relieving-hot-spots-on-the-world-wide-web-technical-publication.pdf>
 
-<https://www.toptal.com/big-data/consistent-hashing>
+[The Ultimate Guide to Consistent Hashing | Toptal®](https://www.toptal.com/big-data/consistent-hashing)
 
 ## Modular based hashing
 

@@ -37,7 +37,7 @@ How much to normalize the database?
 
 how to decide that should I keep value in each row or normalize further database
 
-**Tech Questions**
+### Tech Questions
 
 - Why same code runs in local laptop having less memory and cpu, but in kubernetes with larger cpu and ram gets evicted. How to add backpressure in pods
   - **HPA takes into account both pods requests together in CPU and not on a single pod**
@@ -59,7 +59,7 @@ how to decide that should I keep value in each row or normalize further database
 - Cloud native web server (apache and nginx is not) When to increase threads and when to increase pods / When to add new instance vs optimizing application
 - Python - Time complexity of getting an item using index in set, x = (1,2,3), Time Complexity => x[1]
 
-**Designs**
+### Designs
 
 You can't pull data from AWS RDS to S3 using Athena. Athena is a query engine over S3 data. To be able to extract data from RDS to S3, you can run a Glue job to read from a particular RDS table and create S3 dump in parquet format which will create another external table pointing to S3 data. Then you can query that S3 data using Athena.
 
@@ -86,13 +86,13 @@ We have our data source in Amazon Aurora, We run an ETL that sends this data to 
 7. How can I use the Internet tolift hundreds of people out of financial insecurity?
 8. What's your produest momemt in your life
 
-**Science**
+### Science
 
 - Why mirrors to reflect sunlight from space is not a thing instead of air conditioner and cooling (economically and technologically)
 - Sun gives protons this protons are pure energy what happens to the mass which is converted does it follow conservation of energy that is it can neither be created nor be destroyed.
 - How can we know that we are going forward or backward in a closed compartment when no external force is applied and we are in a state of motion.
 
-**Health**
+### Health
 
 - Drinking sip sip water or glass of water
 - Eating 3 big meals vs 6 small meals

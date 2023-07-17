@@ -121,9 +121,28 @@ Performance metrics - <https://stackoverflow.com/a/37654411/5424888>
 
 ## UI / Tools
 
-- <https://www.mongodb.com/products/compass>
 - <https://studio3t.com>
 - Metabase
+
+### Compass
+
+#### Filters
+
+```json
+{username: 'abc'}
+
+{ "start_date": {$gt: new Date('2017-05-01')} }
+
+{ author : { $eq : "Joe Bloggs" } }
+
+{ dateCreated: { $gt: Date('2000-06-22') } }
+
+{ scores: { $elemMatch: { $gt: 80, $lt: 90 } } }
+```
+
+[Query Your Data — MongoDB Compass](<https://www.mongodb.com/docs/compass/current/query/filter/>
+
+[MongoDB Compass | MongoDB](https://www.mongodb.com/products/compass)
 
 ## Others
 

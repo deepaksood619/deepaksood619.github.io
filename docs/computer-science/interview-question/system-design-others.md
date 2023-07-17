@@ -33,7 +33,7 @@
 
 ## S3 system design (distributed cloud storage)
 
-## Cluster Manager
+### Cluster Manager
 
 1. Allocates account
 2. Disaster recovery
@@ -41,11 +41,11 @@
 4. Holds policies Authentication + Authorization
 5. Manages Cluster- **Hash(UUID) - Partition Map Table**
 
-- **Consistent Hashing**
+- Consistent Hashing
 - **1 hit wonder (don't cache any request till a threshold)**
   - Maybe the request is only once/twice for a day
 
-## Streaming layer (Stream Manager)
+### Streaming layer (Stream Manager)
 
 1. Append only
 2. Seal
@@ -55,7 +55,8 @@
 6. Store offsets
 
 ![image](../../media/System-Design-Others-image5.jpg)
-<https://www.youtube.com/watch?v=UmWtcgC96X8>
+
+[S3 system design | cloud storage system design | Distributed cloud storage system design - YouTube](https://www.youtube.com/watch?v=UmWtcgC96X8)
 
 ## Web Crawlers
 

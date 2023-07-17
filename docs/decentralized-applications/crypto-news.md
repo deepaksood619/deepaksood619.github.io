@@ -16,7 +16,7 @@
 
 4. In the general markets, banks are starting to report Q4 2022 earnings this week. Get ready for a roller coaster!!
 
-![image](../media/btc-image1.jpg)]
+![image](../media/btc-image1.jpg)
 
 ### The Fall of Terra: A Timeline of the Meteoric Rise and Crash of UST and LUNA
 
@@ -49,6 +49,10 @@ On May 7, the price of the then-$18-billion algorithmic stablecoin terraUSD (UST
 - CoinBureau
 - [DeFi Pulse](https://www.defipulse.com/)
 
+### CBDC
+
+[Global CBDC System Incoming!! This Report Will SCARE You!! - YouTube](https://www.youtube.com/watch?v=5VPwG8hSbhw)
+
 ### News
 
 [I HOPE YOU'RE PAYING ATTENTION - BIG Money Is BACK In The Market](https://www.youtube.com/watch?v=9-go6CV2Nws)
@@ -78,3 +82,7 @@ On May 7, the price of the then-$18-billion algorithmic stablecoin terraUSD (UST
 [ETHEREUM Updates!! Where Is ETH Price Going In 2023?! - YouTube](https://www.youtube.com/watch?v=FcT9AnkO6GY)
 
 [Bitcoin Is GROWING Fast!! Ethereum Dominance OVER!? - YouTube](https://www.youtube.com/watch?v=IyuwI5q7HwA)
+
+[Commercial Real Estate CRASH is Coming!! Why I'm Worried! - YouTube](https://www.youtube.com/watch?v=PziydUm1ees)
+
+[Preparing For a BEAR Market!! Complete 101 Guide!! 🐻 - YouTube](https://www.youtube.com/watch?v=Vbjb-mGSMXo)

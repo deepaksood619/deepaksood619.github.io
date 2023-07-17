@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "db0d6fb754e22f4e",
+            "id": "440aca05937a9f0d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ai/data-science/tableau/architecture-components.md",
+                "file": "algorithms/graphtheory/breadth-first-search-bfs.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"yfi",
+                "query": "\"measures",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -81,8 +81,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -102,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ai/data-science/tableau/architecture-components.md",
+                "file": "algorithms/graphtheory/breadth-first-search-bfs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ai/data-science/tableau/architecture-components.md",
+                "file": "algorithms/graphtheory/breadth-first-search-bfs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ai/data-science/tableau/architecture-components.md"
+                "file": "algorithms/graphtheory/breadth-first-search-bfs.md"
               }
             }
           },
@@ -190,35 +189,38 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "49b522e32aa98db2",
+  "active": "978fd2faf621af33",
   "lastOpenFiles": [
-    "ai/data-science/tableau/data-model.md",
+    "algorithms/advanced-algorithms/a-search-algorithm.md",
+    "algorithms/advanced-algorithms/disk-scheduling-algorithms.md",
+    "psychology/learning/note-taking-second-brain-pkm-zettelkasten.md",
+    "office/cakedefi/infra.md",
+    "psychology/learning/learning-intro.md",
+    "office/other/my-infra.md",
+    "office/keep/deepak-banks.md",
+    "ai/data-science/tableau/concepts.md",
+    "economics/market-terms/wyckoff-method.md",
+    "economics/market-terms/readme.md",
+    "economics/market-terms/technical-indicators.md",
+    "economics/readme.md",
+    "office/blocktoons/infra.md",
+    "ai/data-science/tableau/readme.md",
+    "office/personality/movies-serials-apps.md",
+    "decentralized-applications/coins-tokens-chains/readme.md",
+    "decentralized-applications/coins-tokens-chains/near-protocol.md",
+    "knowledge/history/human-history-anthropology.md",
     "ai/data-science/tableau/architecture-components.md",
+    "databases/nosql-databases/mongodb/intro.md",
+    "databases/nosql-databases/mongodb/readme.md",
+    "office/blocktoons/todo.md",
+    "office/cakedefi/todo.md",
+    "frontend/others/docusaurus.md",
+    "frontend/others/readme.md",
+    "frontend/others/static-site-generators.md",
+    "media/Pasted image 20230716224959.png",
+    "media/Pasted image 20230715103730.png",
     "media/Pasted image 20230714180337.png",
     "media/Pasted image 20230714180101.png",
-    "ai/data-science/tableau/readme.md",
-    "ai/data-science/tableau/concepts.md",
-    "computer-science/system-design/intro.md",
-    "computer-science/system-design/readme.md",
-    "computer-science/system-design/microservice-architecture/design-patterns.md",
-    "computer-science/system-design/microservice-architecture/readme.md",
-    "computer-science/system-design/microservice-architecture/domain-driven-design.md",
-    "computer-science/system-design/others.md",
-    "ai/data-science/tableau/data-sources.md",
-    "office/cakedefi/infra.md",
-    "management/people-management/people-team-management-culture.md",
-    "decentralized-applications/references-learning.md",
-    "office/todo/todo-tech-&-courses.md",
-    "office/blocktoons/infra.md",
-    "office/cakedefi/todo.md",
-    "office/personality/addresses-electricity.md",
-    "office/keep/deepak-banks.md",
-    "decentralized-applications/crypto-investing.md",
-    "cloud/others/others-saas.md",
-    "economics/readme.md",
-    "economics/finance-investing/readme.md",
-    "cloud/others/google-cloud-platform.md",
-    "databases/nosql-databases/mongodb/commands.md",
     "ai/data-science/tableau",
     "Untitled",
     "media/Pasted image 20230710130750.png",
@@ -227,8 +229,6 @@
     "media/Screenshot 2023-06-28 at 11.17.15 PM.png",
     "media/Pasted image 20230628225903.png",
     "media/Pasted image 20230626135923.png",
-    "media/Pasted image 20230626095710.png",
-    "media/Pasted image 20230626094711.png",
     "office.zip",
     "office/stashfin-credentials",
     "management/people-management",

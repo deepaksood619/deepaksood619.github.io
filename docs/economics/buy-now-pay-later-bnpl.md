@@ -8,7 +8,7 @@
 - Spending through BNPL is set to go beyond retail shopping and expand in categories like household bills, petrol, travel, and more
 - The top reasons for BNPL usage in India are convenience, good deals, and referral by others
 
-### Indian banks are in a strong position to leverage consumers' trust and push their influence in the BNPL market
+**Indian banks are in a strong position to leverage consumers' trust and push their influence in the BNPL market**
 
 - BNPL is becoming the first credit experience for millennials and younger - your future customers - who will now whave a different perspective on credit cards
 - Its rise will give banks some tough competition for market share if they don't move rapidly to meet demand

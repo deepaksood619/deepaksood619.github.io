@@ -19,3 +19,5 @@ Earth overshoot day - 27 July
 [Why sharks matter - with David Shiffman - YouTube](https://www.youtube.com/watch?v=RYXQs1g8dw0&ab_channel=TheRoyalInstitution)
 
 [El Niño 2023 could be a monster! - YouTube](https://www.youtube.com/watch?v=rwdxffEzQ9I)
+
+[The Broken Economics of the Oceans - YouTube](https://www.youtube.com/watch?v=73ygHs4Kwcs)

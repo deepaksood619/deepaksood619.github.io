@@ -23,15 +23,15 @@ The different components present in a Tableau server are:
 - VizQL Server
 - Data Server
 
-### A) Application Server:
+### A) Application Server
 
 The application server is used to provide the authentications and authorizations. It handles the administration and permission for web and mobile interfaces. It assures security by recording each session id on Tableau Server. The administrator can configure the default timeout of the session in the server.
 
-### B) VizQL Server:
+### B) VizQL Server
 
 VizQL server is used to convert the queries from the data source into visualizations. Once the client request is forwarded to VizQL process, it sends the query directly to data source and retrieves information in the form of images. This image or visualization is presented to the user. Tableau server creates a cache of visualization to reduce the load time. The cache can be shared across many users who have the permission to view the visualization.
 
-### C) Data Server:
+### C) Data Server
 
 Data server is used to manage and store the data from external data sources. It is a central data management system. It provides metadata management, data security, data storage, data connection and driver requirements. It stores the relevant details of data set such as metadata, calculated fields, sets, groups, and parameters. The data source could extract data as well make live connections to external data sources.
 
@@ -42,6 +42,22 @@ The gateway channelizes the requests from users to Tableau components. When the 
 ## Tableau Cloud
 
 Tableau Cloud is a software-as-a-service (SaaS) deployment built to scale to serve thousands of sites with thousands of geographically distributed users within a multi-tenant (shared compute) environment. Tableau Cloud takes advantage of high availability features available in the product and cloud architecture best practices to deliver a reliable experience. Tableau Cloud supports a hybrid data architecture with a mix of networks, including on-premises, private cloud, and public cloud.
+
+## Processes
+
+- Cluster Controller
+- Gateway
+- Application Server
+- VizQL Server
+- Cache Server
+- Search & Browse
+- Backgrounder
+- Data Server
+- Data Engine
+- File Store
+- Repository
+- Tableau Prep Conductor
+- Metrics
 
 ## Links
 

@@ -14,17 +14,12 @@ Like should be treated alike
 
 #### Ernest Hemingway
 
-Before you talk, listen.
-
-Before you react, think.
-
-Before you spend, earn.
-
-Before you criticise, wait.
-
-Before you pray, forgive.
-
-Before you quit, try.
+- Before you talk, listen.
+- Before you react, think.
+- Before you spend, earn.
+- Before you criticise, wait.
+- Before you pray, forgive.
+- Before you quit, try.
 
 [Building a Life - Howard H. Stevenson](https://youtu.be/wLn28DrSF68)
 

@@ -3,6 +3,7 @@
 ## Astro
 
 [GitHub - withastro/astro: Build faster websites with Astro's next-gen island architecture](https://github.com/withastro/astro)
+[Astro UI Framework [Full Book]](https://www.freecodecamp.org/news/how-to-use-the-astro-ui-framework/)
 
 ## [Gatsby](gatsby) (React) and Gridsome (Vue)
 
@@ -33,3 +34,4 @@ Transform your plain text into static websites and blogs
 - <https://docusaurus.io>
 - <https://github.com/doczjs/docz>
   - <https://www.docz.site>
+- [Mintlify - Beautiful documentation that converts users](https://mintlify.com/)

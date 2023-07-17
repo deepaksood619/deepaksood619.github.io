@@ -45,10 +45,10 @@
   - [Polkadot: What's Up With DOT?! Potential in 2022!! - YouTube](https://www.youtube.com/watch?v=H7S5k5jWp48)
   - [What is Polkadot? DOT Explained with Animations - YouTube](https://www.youtube.com/watch?v=YlAdEQp6ekM)
 - TRON
-- Avalanche
 - Cronos (CRO)
 - zcash which claims it uses advanced tech to make sure that detecting ownership is nearly impossible
 - wbtc - [BITCOIN on ETHEREUM? (renBTC, wBTC, tBTC, sBTC) | DEFI Explained - YouTube](https://www.youtube.com/watch?v=iExly7FGKAQ)
+- [Helium: Will HNT Ride The 5G Wave!? Predictions!! - YouTube](https://www.youtube.com/watch?v=cTWv_lv5dG4)
 
 ### Privacy coins
 
@@ -58,8 +58,9 @@
 ### MemeCoins
 
 - Dogecoin
+- [Apecoin: APE Really Worth It?! What You NEED To Know!! 🦧 - YouTube](https://www.youtube.com/watch?v=Zi-7MqpbV4o)
 
-## Tokens / Stable coins
+### Tokens / Stable coins
 
 [USDT vs. USDC vs. BUSD: What are the similarities and differences?](https://cointelegraph.com/learn/usdt-vs-usdc-vs-busd-what-are-the-similarities-and-differences)
 
@@ -99,8 +100,12 @@ Market Capitalization - [https://coinmarketcap.com/](https://coinmarketcap.com/)
 - [Binance Smart Chain And CeDeFi Explained - YouTube](https://www.youtube.com/watch?v=iJDoc0kvXLc)
 - [Zilliqa blockchain](https://www.zilliqa.com/what-is-zil)
 - [Venom Foundation - Secure by design, scalable by nature](https://venom.foundation/)
-- [Avalanche: Create Without Limits | dApp Platform](https://www.avax.network/)
+- Avalanche
+  - [Avalanche: Create Without Limits | dApp Platform](https://www.avax.network/)
+  - [Avalanche: What’s Up With AVAX?! This Will Surprise You!! - YouTube](https://www.youtube.com/watch?v=kts3zcktuZ8)
+  - [Avalanche: Could AVAX CRUSH it in 2022?! Deep Dive!! - YouTube](https://www.youtube.com/watch?v=JKiB_4TPXDM)
 - [Aeternity Blockchain Definition | CoinMarketCap](https://coinmarketcap.com/alexandria/glossary/aeternity-blockchain)
+- [Mina Protocol: A REALLY CRAZY Crypto Project!! 🤯 - YouTube](https://www.youtube.com/watch?v=Zj6rNewnbrw)
 
 #### Chainlink (Oracle) - LINK
 

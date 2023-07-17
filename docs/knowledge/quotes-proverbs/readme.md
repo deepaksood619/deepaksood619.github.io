@@ -13,3 +13,4 @@
 - [Tatoos Quotes](tatoos-quotes)
 - [Tips](tips)
 - [Startup Quotes](../../about-me/ideas/startup-quotes)
+- [Hindi](knowledge/quotes-proverbs/hindi.md)

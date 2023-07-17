@@ -21,3 +21,5 @@ NEAR Protocol also improves upon the convoluted onboarding process of other bloc
 [Near Protocol: Where Is NEAR Going?? Deep Dive!! 🧐 - YouTube](https://www.youtube.com/watch?v=r61UszUFwNY)
 
 [What is Aurora? NEAR's Layer 2 Smart Contract - YouTube](https://www.youtube.com/watch?v=aNrR-vBavwQ)
+
+[Near Protocol: NEAR is On a ROLL!! Top 10 Crypto NEXT!? - YouTube](https://www.youtube.com/watch?v=6fKY5TaiakM)

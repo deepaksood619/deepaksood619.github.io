@@ -195,21 +195,38 @@ Loss from business and profession cannot be set off against income chargeable to
 
 <https://www.etmoney.com/blog/beyond-section-80c-10-ways-to-save-taxes>
 
+## ITR
+
+1. If you have an income from just salary, one house property and bank deposits (Savings, FD, RD, Flexi RD), it is ITR1 (total income up to 50 L).
+2. If you have income specified in a) and income from selling Real Estate, Stocks, Mutual fund units, derivatives, gold etc, or you have withdrawn EPF/PPF, it is ITR2 (individual or HUF with no business income)
+3. If in addition to the above, you (or HUF) have income from a business or proprietorship, ITR3
+4. For people having a presumptive business it is ITR4 (no capital gains allowed). This form is for Individuals, HUFs and Firms having income up to Rs 50 lakh and having business income from Business or profession which is computed under the presumptive taxation schemes (sections 44AD, 44ADA or 44AE). Income from Salary, one house property and bank deposits can also be filled in ITR 4.
+
+<https://freefincal.com/which-itr-form-should-i-use>
+
 ## Stocks Tax
 
 <https://www.youtube.com/watch?v=nfX-esge_3o>
 
-## ITR
+## Foreign Stocks
 
-1. If you have an income from just salary, one house property and bank deposits (Savings, FD, RD, Flexi RD), it is ITR1 (total income up to 50 L).
+### ITR Form to disclose foreign investments
 
-2. If you have income specified in a) and income from selling Real Estate, Stocks, Mutual fund units, derivatives, gold etc, or you have withdrawn EPF/PPF, it is ITR2 (individual or HUF with no business income)
+You should choose the right ITR form to report these details in order to avoid any Income Tax notice. If a taxpayer has foreign investments, he or she will have to disclose the same in the Schedule of Foreign Assets (FA) using the Form ITR-2 or ITR-3.
 
-3. If in addition to the above, you (or HUF) have income from a business or proprietorship, ITR3
+### Who should declare foreign assets?
 
-4. For people having a presumptive business it is ITR4 (no capital gains allowed). This form is for Individuals, HUFs and Firms having income up to Rs 50 lakh and having business income from Business or profession which is computed under the presumptive taxation schemes (sections 44AD, 44ADA or 44AE). Income from Salary, one house property and bank deposits can also be filled in ITR 4.
+Taxpayers need to mandatorily declare all their foreign assets in the ITR, and that also includes investments in US stocks or assets in any other countries. If an individual has taxable income that is below the basic exemption limit of Rs 3 lakh but has stocks in foreign countries, he or she will still need to file the ITR to disclose the stock holdings.
 
-<https://freefincal.com/which-itr-form-should-i-use>
+Foreign stocks have to be declared in the ITR every year until the taxpayer has their name on it. In case of failure to declare the foreign stocks or any foreign asset like real estate, bank deposits, accounts, or insurance policies, the taxpayer will be liable to inspection by the tax department under the Black Money and Imposition of Tax Act, 2015. Besides the scrutiny, they can be penalised with up to Rs 10 lakh fine.
+
+### Taxation for foreign investments and stocks
+
+In India, when a foreign stock is sold after a term of two years, the profit earned from it is treated as long-term capital gains (LTCG) and is taxed at 20 percent (surcharge extra), with indexation benefit. While short-term capital gains (STCG) are taxed at the income slab rates. There is no tax liability on capital gains for the foreign-born.
+
+Also, the dividend income earned on foreign investments is taxed at the pre-defined tax slab rates in India. In the US, when the dividend is paid, the government withholds a flat 25 percent as tax. India has a Double Taxation Avoidance Agreement (DTAA) with the US, due to which one can claim the tax paid in the US to avoid the tax liability in India while filing the ITR.
+
+[Income Tax Return Filing: Invested in foreign assets and stocks? Follow these steps to declare holding in ITR | Zee Business](https://www.zeebiz.com/personal-finance/income-tax/news-income-tax-return-filings-how-to-file-foreign-assets-and-stocks-in-itr-filing-foreign-stock-investment-tax-declaration-capital-gains-tax-stst-242083)
 
 ## Inward remittances
 

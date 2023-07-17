@@ -15,3 +15,4 @@
 - [Addressing Failures](addressing-failures)
 - [Twelve-Factor App](twelve-factor-app)
 - [Others](computer-science/system-design/others.md)
+- [System Design Interview Questions](computer-science/interview-question/readme.md)

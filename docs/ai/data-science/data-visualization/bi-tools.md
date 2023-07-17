@@ -70,24 +70,6 @@ Amazon QuickSight is built with "SPICE" -- a Super-fast, Parallel, In-memory Cal
 
 <https://aws.amazon.com/blogs/big-data/add-comparative-and-cumulative-date-time-calculations-in-amazon-quicksight>
 
-## Metabase
-
-Metabase is an open source business intelligence tool. It lets you ask questions about your data, and displays answers in formats that make sense, whether that's a bar graph or a detailed table.
-
-Your questions can be saved for later, making it easy to come back to them, or you can group questions into great looking dashboards. Metabase also makes it easy to share questions and dashboards with the rest of your team.
-
-`docker run -p 3000:3000 --name metabase metabase/metabase`
-
-<https://www.metabase.com/docs/latest/users-guide/01-what-is-metabase.html>
-
-<https://www.metabase.com/docs/latest/getting-started.html>
-
-<https://www.metabase.com/learn>
-
-<https://github.com/metabase/metabase>
-
-[Joins in Metabase](https://www.metabase.com/learn/questions/joins-in-metabase)
-
 ## Others
 
 <https://www.talend.com/>

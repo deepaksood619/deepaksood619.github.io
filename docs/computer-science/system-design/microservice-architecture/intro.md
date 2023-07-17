@@ -3,6 +3,7 @@
 ## What is microservices architecture?
 
 A microservices‑based application is a distributed system running on multiple machines. Each service in the system communicates by passing messages to the others.
+
 Microservices ecosystem is a platform of services each encapsulating a business capability. A business capability represents what a business does in a particular domain to fulfill its objectives and responsibilities. Each microservice expose an API that developers can discover and use in a self-serve manner. Microservices have independent lifecycle. Developers can build, test and release each microservice independently. The microservices ecosystem enforces an organizational structure of autonomous long standing teams, each responsible for one or multiple services.
 
 If your application has a more complex domain, consider moving to a [Microservices](https://docs.microsoft.com/en-us/azure/architecture/guide/architecture-styles/microservices) architecture. A microservices application is composed of many small, independent services. Each service implements a single business capability. Services are loosely coupled, communicating through API contracts.
@@ -26,14 +27,18 @@ Each service can be built by a small, focused development team. Individual servi
 
 ## Why microservices
 
-- Tackles Complexity
+### Tackles Complexity
 
 It tackles the problem of complexity. It decomposes what would otherwise be a monstrous monolithic application into a set of services. While the total amount of functionality is unchanged, the application has been broken up into manageable chunks or services. Each service has a well‑defined boundary in the form of an RPC or message‑driven API. The Microservices Architecture pattern enforces a level of modularity that in practice is extremely difficult to achieve with a monolithic code base. Consequently, individual services are much faster to develop, and much easier to understand and maintain.
 
-- Develop and release independently
-  - This architecture enables each service to be developed independently by a team that is focused on that service. The developers are free to choose whatever technologies make sense, provided that the service honors the API contract.
-  - The Microservices Architecture pattern enables each microservice to be deployed independently. Developers never need to coordinate the deployment of changes that are local to their service. These kinds of changes can be deployed as soon as they have been tested. The UI team can, for example, perform A/B testing and rapidly iterate on UI changes. The Microservices Architecture pattern makes continuous deployment possible.
-- Enables scaling of a specific component of an application rather than scaling the entire application when there is a demand for just a specific service.
+### Develop and release independently
+
+- This architecture enables each service to be developed independently by a team that is focused on that service. The developers are free to choose whatever technologies make sense, provided that the service honors the API contract.
+- The Microservices Architecture pattern enables each microservice to be deployed independently. Developers never need to coordinate the deployment of changes that are local to their service. These kinds of changes can be deployed as soon as they have been tested. The UI team can, for example, perform A/B testing and rapidly iterate on UI changes. The Microservices Architecture pattern makes continuous deployment possible.
+
+### Scale independently
+
+Enables scaling of a specific component of an application rather than scaling the entire application when there is a demand for just a specific service.
 
 ## Characteristics of Microservices
 
@@ -75,12 +80,12 @@ It tackles the problem of complexity. It decomposes what would otherwise be a mo
 
 In a monolithic application, all components reside within the same process and communication is usually based on method or function calls within the same process.
 
-## Important Points
+### Important Points
 
 - In cases where a new service ends up with a call back to the monolith, I suggest to expose a new API from the monolith, and access the API through an [anti-corruption](https://martinfowler.com/articles/refactoring-external-service.html#SeparatingTheYoutubeDataStructureIntoAGateway) layer in the new service to make sure that the monolith concepts do not leak out.
 - Finding domain boundaries in a monolith is very important.
 
-## Migrating Steps
+### Migrating Steps
 
 - Warm up with a Simple and Fairly Decoupled Capability
 - Minimize Dependency Back to the Monolith
@@ -98,18 +103,13 @@ The atomic unit of monolith decomposition includes:
 - Retire the old code path in the monolith.
 
 The anti-pattern: Decouple the new service, use for new consumers and never retire the old.
+
 Note- Don't move from monolith architecture to microservices in one step.
 
 - First move to a service-oriented architecture without using some fancy bus for message passing, use some simple standard for messaging like HTTP.
 - Then if you really need to, move to microservices
 
-## Migrating to Microservice Databases
-
-From Relational Monolith to Distributed Data
-
-- By Edson Yanaga
-
-## Strangler Pattern
+### Strangler Pattern
 
 The monolith-first pattern is called the strangler pattern because it resembles the development of a tree called the strangler fig.
 
@@ -143,15 +143,6 @@ Backfill refactoring
 - Change Data Capture
 
 The biggest issue in changing a monolith to a microservice lies in changing the communication pattern ---Martin Fowler
-
-## References
-
-<https://martinfowler.com/articles/break-monolith-into-microservices.html>
-
-<https://martinfowler.com/articles/data-monolith-to-mesh.html>
-Migrating to Microservices Databases, Chapter 5, Integration Strategies
-
-[https://www.toptal.com/devops/scaling-microservices-applications](https://www.toptal.com/devops/scaling-microservices-applications?)
 
 ## Service Oriented Architecture
 
@@ -196,25 +187,30 @@ A principle to ensure services have an adequate size and scope. The functionalit
 ## Service normalization
 
 Services are decomposed or consolidated (normalized) to minimize redundancy. In some, this may not be done. These are the cases where performance optimization, access, and aggregation are required.
-[**Service composability**](https://en.wikipedia.org/wiki/Service_composability_principle)
+
+### [Service composability](https://en.wikipedia.org/wiki/Service_composability_principle)
 
 Services can be used to compose other services.
-[**Service discovery**](https://en.wikipedia.org/wiki/Service_discovery)
+
+### [Service discovery](https://en.wikipedia.org/wiki/Service_discovery)
 
 Services are supplemented with communicative meta data by which they can be effectively discovered and interpreted.
-[**Service reusability**](https://en.wikipedia.org/wiki/Service_reusability_principle)
+
+### [Service reusability](https://en.wikipedia.org/wiki/Service_reusability_principle)
 
 Logic is divided into various services, to promote reuse of code.
 
 ## Service [encapsulation](https://en.wikipedia.org/wiki/Encapsulation_(computer_science))
 
 Many services which were not initially planned under SOA, may get encapsulated or become a part of SOA.
+
 <https://en.wikipedia.org/wiki/Service-oriented_architecture>
 
 <https://www.toptal.com/aws/service-oriented-architecture-aws-lambda>
+
 <https://www.youtube.com/watch?v=j6ow-UemzBc&ab_channel=InfoQ>
 
-Great Architecture
+## Great Architecture
 
 - Scales development teams
 - Delivers quality
@@ -235,6 +231,18 @@ Critical decisions
   - Deployment, code generation, dependency management
 - Enable teams to write amazing and simple tests
   - Drive quality, streamlines maintenance, enables continuous delivery
+
 [Scale, Flow and Microservices - James Lewis - GOTO 2021](https://www.youtube.com/watch?v=LL4SJsBtYw0&ab_channel=GOTOConferences)
 
 [Microservices Architecture Patterns](https://www.youtube.com/playlist?list=PLTyWtrsGknYd0JgqeARypdRy-SX1ORYhs)
+
+## Links
+
+<https://martinfowler.com/articles/break-monolith-into-microservices.html>
+
+<https://martinfowler.com/articles/data-monolith-to-mesh.html>
+Migrating to Microservices Databases, Chapter 5, Integration Strategies
+
+[https://www.toptal.com/devops/scaling-microservices-applications](https://www.toptal.com/devops/scaling-microservices-applications?)
+
+Migrating to Microservice Databases - By Edson Yanaga

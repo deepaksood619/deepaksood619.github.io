@@ -109,9 +109,24 @@ Breakage is a term used to describe revenue gained by retailers through unredeem
 
 [What Is a Negative Interest Rate, and Why Would We Have Them?](https://www.investopedia.com/terms/n/negative-interest-rate.asp)
 
+## Monthly Reducing Balance Method?
+
+Most housing loans offered by banks and other financial institutions in the country are **Reducing Balance Loans.** In this method, the interest is calculated as per the outstanding principal amount after each repayment. Every time you pay an EMI, the outstanding loan amount falls.
+
+So, if you’re paying monthly EMIs on your housing loan, the lender will calculate the interest after every payment on the reduced outstanding amount. This is why the interest component is the highest at the start of a repayment cycle. As the outstanding principal falls after every payment, so does the interest component in the EMI amount.
+
+### Why is the Reducing Balance Method better than the Fixed-Rate Method?
+
+In the Fixed-Rate method, the interest is calculated on the entire loan amount. Unlike the reducing balance method, the principal amount is not adjusted after repayments. So, you’ll continue to pay the same interest amount every month, throughout the loan tenure.
+
+[What is the monthly reducing balance method for calculating interest?](https://www.icicibank.com/blogs/home-loan/what-is-the-monthly-reducing-balance-method-for-calculating-interest)
+
+[Reducing Balance Loan Calculator](https://www.bankbazaar.com/finance-tools/emi-calculator/reducing-balance-loan-calculator.html)
+
 ## Other Terms
 
-AML - Anti Money Laundering
+- AML - Anti Money Laundering
+- Travel Rule
 
 ## Credit Bureaus
 
@@ -206,5 +221,7 @@ AML - Anti Money Laundering
 - <https://sahamati.org.in>
 
 ## Links
+
+[BNPL](economics/buy-now-pay-later-bnpl.md)
 
 [Best Bank Stocks to Buy | Banking Industry in India | SBI, HDFC Bank, ICICI Bank, Axis Bank & Kotak - YouTube](https://www.youtube.com/watch?v=mdS4n0R3s0U)

@@ -180,6 +180,21 @@ It is production-ready, and gives you the following:
 
 [Starlette Admin](https://jowilf.github.io/starlette-admin/) (Supports mongoengine too)
 
+### FastAPI-cache2
+
+```bash
+pip install "fastapi-cache2[redis]"
+```
+
+```python
+@app.get("/foo")
+@cache(expire=60)
+async def foo() -> SomeModel:
+    return create_some_model
+```
+
+[GitHub - long2ice/fastapi-cache: fastapi-cache is a tool to cache fastapi response and function result, with backends support redis and memcached.](https://github.com/long2ice/fastapi-cache)
+
 ## Links
 
 [Awesome FastAPI | | Curated list of awesome lists | Project-Awesome.org](https://project-awesome.org/mjhea0/awesome-fastapi)

@@ -6,7 +6,7 @@ Technical Analysis helps identify trading opportunities using actions of Market 
 
 We explore the different chart types used in technical analysis along with its merits and de merits. Specifically we discuss the candlestick chart and why traders prefer **candlesticks** over bar charts.
 
-- **Japanese Candlesticks**
+### Japanese Candlesticks
 
 | **Time Frame** | **Open** | **High** | **Low** | **Close** | **No of Candles** |
 |---|---|---|---|---|---|

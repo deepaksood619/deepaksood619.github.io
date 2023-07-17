@@ -3,7 +3,6 @@
 - [Financial Independence (FIRE)](economics/finance-investing/financial-independence.md)
 - [Asset Classes](economics/finance-investing/asset-classes.md)
 - [Portfolios](economics/finance-investing/portfolios.md)
-- [BNPL](economics/finance-investing/buy-now-pay-later-bnpl.md)
 - [Checklist](economics/finance-investing/checklist-tips-personal-finance.md)
 - [Returns / Tax / Taxes / ITR](economics/finance-investing/returns-tax-taxes-itr.md)
 - [Stocks / Equity](economics/finance-investing/stocks-equity.md)

@@ -26,6 +26,7 @@
 - [Pool - Curve](https://curve.fi/#/ethereum/pools/steth/deposit/)
 - [Balancer DeFi Liquidity Pools on Ethereum Mainnet](https://app.balancer.fi/#/ethereum)
 - [Aave - Open Source Liquidity Protocol](https://aave.com/)
+  - [AAVE: MOST Undervalued DeFi Token?! 2022 Update!! - YouTube](https://www.youtube.com/watch?v=fp4YzAgnIqk)
 - [Buy Bitcoin & Ethereum | Cryptocurrency Exchange | Bittrex Global](https://global.bittrex.com/)
 - [Bitpanda Cash Plus](https://www.bitpanda.com/en/bitpanda-cash-plus)
 - [Roots - build wealth through real estate](https://www.investwithroots.com/)
@@ -134,7 +135,5 @@
 [Why Do People Buy Crypto | CoinGecko](https://www.coingecko.com/research/publications/why-people-buy-crypto)
 
 [The TOP Countries With ZERO CRYPTO TAXES - YouTube](https://www.youtube.com/watch?v=tdlmv4iHFb4&ab_channel=MoneyRules-InvestingTips)
-
-[Crypto Market Manipulation! Wyckoff & WHALES!!🐋 - YouTube](https://www.youtube.com/watch?v=ltcnTTeDFjY)
 
 [How To Time The Market (And GET RICH!) - YouTube](https://www.youtube.com/watch?v=iXn2GyPHQB0)

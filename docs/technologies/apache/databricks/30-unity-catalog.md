@@ -50,3 +50,7 @@ dbutils.fs.rm("s3://<path_to_table>", True)
 ```
 
 [Create tables | Databricks on AWS](https://docs.databricks.com/data-governance/unity-catalog/create-tables.html#)
+
+## Links
+
+[YouTube](https://www.youtube.com/watch?v=KjtYgZDsY7E)
