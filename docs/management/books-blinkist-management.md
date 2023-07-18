@@ -231,17 +231,17 @@ That means focusing on the big picture, making sure that you understand your ind
 
 Decoding the patterns of human connection
 
-- **Networking Styles**
+### Networking Styles
 
-- **Expansionist**
+#### Expansionist
 
 Hit at every conference and cocktail hour. Ease with approaching strangers and exceptionally talented at forging spontaneous ties.
 
-- **Broker**
+#### Broker
 
 Tends to have a diverse network of people with diferent interests and expertise.
 
-- **Convenor**
+#### Convenor
 
 Network is closely interconnected. Valued and intimate friends
 
@@ -249,6 +249,8 @@ Network is closely interconnected. Valued and intimate friends
 - Convenors create networks based on trust, itimacy and exclusivity
 - Brokers bring diverse connections together
 - Expansionists have impressively board networks
+
+[Networking is overrated and probably not worth doing … for most people](https://auren.substack.com/p/networking-is-overrated-and-probably)
 
 ## The Hammurabi Code (Skin in the Game)
 

@@ -6,6 +6,11 @@ Command + k - Search
 
 Command + / - Show shortcuts
 
+## Tools
+
+- JIRA
+- [Linear](https://linear.app/)
+
 ## Bots
 
 - **Standup**
@@ -38,31 +43,18 @@ Command + / - Show shortcuts
 ## Company Pulse
 
 1. I am happy at work.
-
 2. I am satisfied with the career advancement opportunities available to me.
-
 3. I trust my coworkers.
-
 4. I believe in my company's mission.
-
 5. I receive valuable feedback on my work that helps me improve.
-
 6. My accomplishments are recognized by others.
-
 7. What's the one thing you would change about this company?
-
 8. My organization is dedicated to my well being and professional development.
-
 9. For the most part, my job takes advantages of my strengths.
-
 10. I am enthusiastic about the work that I do for my team and am enabled to do my best work.
-
 11. I feel valued by my coworkers and manager(s).
-
 12. I know what is expected of me at work.
-
 13. I would recommend this company to friends & family as a great place to work.
-
 14. Do you have any general feedback for the company?
 
 - Thinking Time - <https://thinkingtime.org>
@@ -107,7 +99,7 @@ The workflows you create in Zapier are called Zaps, and they can automate many c
 
 ## Certification
 
-## Project ManagementProfessional (PMP) is acertificationadministered byProject ManagementInstitute, U.S.A. It is aproject managementcourse recognized all over the world. PMBOK-fifth edition is the latest version for thisexam. Thecertificationis valid for 3 years
+Project ManagementProfessional (PMP) is a certification administered by Project ManagementInstitute, U.S.A. It is a project management course recognized all over the world. PMBOK-fifth edition is the latest version for this exam. The certification is valid for 3 years
 
 ## Planning Poker
 

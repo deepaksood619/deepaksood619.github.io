@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "algorithms/graphtheory/breadth-first-search-bfs.md",
+                "file": "office/blocktoons/infra.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"measures",
+                "query": "\"real estate\"",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "algorithms/graphtheory/breadth-first-search-bfs.md",
+                "file": "office/blocktoons/infra.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "algorithms/graphtheory/breadth-first-search-bfs.md",
+                "file": "office/blocktoons/infra.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "algorithms/graphtheory/breadth-first-search-bfs.md"
+                "file": "office/blocktoons/infra.md"
               }
             }
           },
@@ -191,32 +191,33 @@
   },
   "active": "978fd2faf621af33",
   "lastOpenFiles": [
-    "algorithms/advanced-algorithms/a-search-algorithm.md",
-    "algorithms/advanced-algorithms/disk-scheduling-algorithms.md",
-    "psychology/learning/note-taking-second-brain-pkm-zettelkasten.md",
+    "office/personality/new-home-place-house.md",
+    "management/project-management/others.md",
+    "management/project-management/intro.md",
+    "management/project-management/goal-setting.md",
+    "management/project-management/agile.md",
+    "management/project-management/jira.md",
     "office/cakedefi/infra.md",
-    "psychology/learning/learning-intro.md",
-    "office/other/my-infra.md",
-    "office/keep/deepak-banks.md",
-    "ai/data-science/tableau/concepts.md",
-    "economics/market-terms/wyckoff-method.md",
-    "economics/market-terms/readme.md",
-    "economics/market-terms/technical-indicators.md",
-    "economics/readme.md",
+    "frontend/others/nextjs/data-fetching.md",
+    "frontend/others/nextjs/others.md",
+    "office/cakedefi/product.md",
+    "psychology/others.md",
+    "office/blocktoons/people.md",
     "office/blocktoons/infra.md",
-    "ai/data-science/tableau/readme.md",
-    "office/personality/movies-serials-apps.md",
-    "decentralized-applications/coins-tokens-chains/readme.md",
-    "decentralized-applications/coins-tokens-chains/near-protocol.md",
-    "knowledge/history/human-history-anthropology.md",
-    "ai/data-science/tableau/architecture-components.md",
-    "databases/nosql-databases/mongodb/intro.md",
-    "databases/nosql-databases/mongodb/readme.md",
-    "office/blocktoons/todo.md",
+    "networking/protocols/video-live-streaming.md",
+    "media/Pasted image 20230718133117.png",
     "office/cakedefi/todo.md",
-    "frontend/others/docusaurus.md",
-    "frontend/others/readme.md",
-    "frontend/others/static-site-generators.md",
+    "computer-science/others/tech-books.md",
+    "devops/ides/youtube-podcasts-magazine-apps.md",
+    "computer-science/general/newsletter-learning-resources.md",
+    "management/books-blinkist-management.md",
+    "book-summaries/readme.md",
+    "readme.md",
+    "management/project-management/readme.md",
+    "management/product-management/product-terms-tools-saas.md",
+    "office/personality/emails-templates-general.md",
+    "knowledge/biology/exercise-stretching/living.md",
+    "devops/ides/vscode-vs-code.md",
     "media/Pasted image 20230716224959.png",
     "media/Pasted image 20230715103730.png",
     "media/Pasted image 20230714180337.png",
@@ -228,7 +229,6 @@
     "media/Pasted image 20230710130538.png",
     "media/Screenshot 2023-06-28 at 11.17.15 PM.png",
     "media/Pasted image 20230628225903.png",
-    "media/Pasted image 20230626135923.png",
     "office.zip",
     "office/stashfin-credentials",
     "management/people-management",

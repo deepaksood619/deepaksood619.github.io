@@ -1,6 +1,11 @@
 # JIRA
 
-## Atlassian - JIRA Confluence Trello Bitbucket
+## Atlassian
+
+- JIRA
+- Confluence
+- Trello
+- Bitbucket
 
 ## JIRA Software
 
@@ -44,14 +49,14 @@ Confluence is a knowledge base, or wiki, that stores and organizes all of your i
 | **Resolution Time Report** | Shows the length of time taken to resolve a set of issues for a project or filter. This helps you identify trends and incidents that you can investigate further. |
 | **Single Level Group By Report** | Shows issues grouped by a particular field for a filter. This helps you group search results by a field, and see the overall status of each group. For example, you could view the issues in a version of a project, grouped by Assignee. |
 | **Time Since Issues Report** | For a date field and project or filter, maps the issues against the date that the field was set. This can help you track how many issues were created, updated, etc over a period of time. |
-| **Time Tracking Report *** | Showstime tracking informationon issues for a particularversionof a project. |
-| **User Workload Report*** | Shows how much work a user has been allocated, and how long it should take. For a specified user, you'll be able to see the number of unresolved issues assigned to the specified user, and theremainingworkload, on a per-project basis. |
-| **Version Workload Report*** | Shows how much outstanding work there is (per user and per issue) before a given version is complete. For the specified version, you'll be able to see a list of unresolved issues assigned to each user, each user's workload, and a summary of the total remaining workload for the version. |
-| **Workload Pie Chart Report*** | Shows the relative workload for assignees of all issues for a project or filter. |
+| **Time Tracking Report** | Shows time tracking information on issues for a particular version of a project. |
+| **User Workload Report** | Shows how much work a user has been allocated, and how long it should take. For a specified user, you'll be able to see the number of unresolved issues assigned to the specified user, and theremainingworkload, on a per-project basis. |
+| **Version Workload Report** | Shows how much outstanding work there is (per user and per issue) before a given version is complete. For the specified version, you'll be able to see a list of unresolved issues assigned to each user, each user's workload, and a summary of the total remaining workload for the version. |
+| **Workload Pie Chart Report** | Shows the relative workload for assignees of all issues for a project or filter. |
 
 ## Jira classic vs next-gen
 
-## Next-gen projects are
+### Next-gen projects are
 
 - Faster to set-up than classic projects.You can quickly toggle on features like sprints or reports, allowing you tomix and match the best features of Scrum and Kanban
 - Easier and faster to configure than classic projects.You can easily configure settings like issue types and fields with drag-and-drop editing and reordering all in a single place.

@@ -51,3 +51,26 @@ Studies have pointed out that Okinawans have lower rates of age-related conditio
 7. Social associations - Research shows that older adults with strong social support generally retain independence & experience slower cognitive decline compared to those who are socially isolated
 8. Spirituality - Most individuals residing in Blue Zones belong to a faith-based community & religious affiliations vary among the populations
 9. Family values - Family relationships are integral for individuals in Blue Zones
+
+[Harvard Professor: REVEALING The 7 Big LIES About Exercise, Sleep, Running, Cancer & Sugar!!! - YouTube](https://www.youtube.com/watch?v=ujRwf1HdNjk)
+
+- Diversify Ang Moh Data
+- Exercise Is Weird
+- Sitting Myth - Keep moving - Don't sit for a long time
+- Sleep - 7 hours is optimal and not 8 or 10 hours
+- 10000 Steps A Day - 7000 Steps Optimal
+- Strength / Resistance Training is very important
+- Aging Is Different Senescence( Degrade Of Specific Organs) Collectively
+- Benefits Absence Of Physical Activity Is Accelerates Aging
+- Physical Health Mental Health
+- Retirement
+- Harvard Alumni Exercise Helps Older More
+- Genes Gun Environment Trigger - Two Reason
+- Preventive Disease - Willpower Education High Quality Food
+- Cancer Increase With Wealth - Physically Active Lower Cancer
+- Inflammation
+- Sugar Is Inflammatory
+- Exercise Reduce Inflammatory - Pay More For Less Sugar
+- Don't Have To Be Too Physically Active
+- Running Used To Be Spiritual Habit Of Ancestors
+- Strong Foot Treat Preventive Disease - Take It Slowly

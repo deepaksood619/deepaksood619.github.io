@@ -335,6 +335,7 @@ Indian History - <https://www.anirudhkanisetti.com/podcasts>
 - Smallcase
 - Weekly Grow Digest
 - James Clear
+- Scott Young
 
 ## Tools
 

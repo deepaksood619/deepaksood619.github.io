@@ -86,6 +86,8 @@ Merlin Chrome Extension
 
 [Framer - Start your dream site with AI. Zero code, maximum speed.](https://www.framer.com/)
 
+[Air](https://www.air.ai/)
+
 #### Prompts
 
 [https://snackprompt.com](https://snackprompt.com/)

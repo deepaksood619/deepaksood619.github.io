@@ -46,6 +46,7 @@ Networks, Crowds, and Markets: Reasoning about a Highly Connected World
 - You don't know js <https://github.com/getify/You-Dont-Know-JS>
 - A book of Abstract Algebra
 - Introduction to Statistical Learning With Application in R, by Gareth James
+  - [An Introduction to Statistical Learning](https://www.statlearning.com/)
 - Deep Learning with Python by Francois Chollet
 - SciPy Lectures
 - Master Machine Learning Algorithms

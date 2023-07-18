@@ -49,10 +49,10 @@ Known as the three M's, Lean methodology defines three types of project waste: m
 
 ## Engineering principles
 
-- **All-in--** This was a massive program and it needed the entire company, from exec to intern, behind it.
-- **Attack the riskiest assumption--** Don't think "MVP." Think about what the riskiest part of the entire program is, and focus on that until it's no longer the top risk.
-- **Incremental, even when it hurts--** Reduce risk by breaking the migration into as many small parts as possible, even when thatincreases dev time.
-- **Sprint to 100%--** In this program, the payoff was when we could completely stop deploying to the old infrastructure. Don't slow down or lose focus until you are done, done, done, anddone.
+- **All-in -** This was a massive program and it needed the entire company, from exec to intern, behind it.
+- **Attack the riskiest assumption -** Don't think "MVP." Think about what the riskiest part of the entire program is, and focus on that until it's no longer the top risk.
+- **Incremental, even when it hurts -** Reduce risk by breaking the migration into as many small parts as possible, even when that increases dev time.
+- **Sprint to 100% -** In this program, the payoff was when we could completely stop deploying to the old infrastructure. Don't slow down or lose focus until you are done, done, done, and done.
 
 <https://www.atlassian.com/blog/technology/software-engineering-principles-massive-projects>
 
@@ -88,48 +88,39 @@ YOU COULD TRACK METRICS
 
 how often can your team make changes in production.
 
-- [Challenges for managers with engineering productivity](https://codingsans.com/blog/engineering-productivity#Challenges)
+#### [Challenges for managers with engineering productivity](https://codingsans.com/blog/engineering-productivity#Challenges)
 
-SETTING GOALS
+- SETTING GOALS
+- HAVING TOO MANY MEETINGS
 
-HAVING TOO MANY MEETINGS
+#### [On-boarding for maximum engineering productivity](https://codingsans.com/blog/engineering-productivity#Onboarding)
 
-- [On-boarding for maximum engineering productivity](https://codingsans.com/blog/engineering-productivity#Onboarding)
+- GIVE THEM CONTEXT
+- PAIR PROGRAMMING IS AWESOME FOR ON-BOARDING
+- SET THE DIRECTION
 
-GIVE THEM CONTEXT
-PAIR PROGRAMMING IS AWESOME FOR ON-BOARDING
+#### [Effects of mentoring on engineering productivity](https://codingsans.com/blog/engineering-productivity#Mentoring)
 
-SET THE DIRECTION
+- HAVING A MENTOR IS GREAT
+- BUT IT'S NOT A MUST
 
-- [Effects of mentoring on engineering productivity](https://codingsans.com/blog/engineering-productivity#Mentoring)
+#### [Keeping engineering productivity high](https://codingsans.com/blog/engineering-productivity#Long_Run)
 
-HAVING A MENTOR IS GREAT
+- HAVE CLEAR GOALS
+- PRIORITIZE, PRIORITIZE, PRIORITIZE
+- DON'T BE A TEDDY BEAR
+- CHALLENGE YOUR PEOPLE
 
-BUT IT'S NOT A MUST
+#### [How to improve engineering productivity](https://codingsans.com/blog/engineering-productivity#Improve)
 
-- [Keeping engineering productivity high](https://codingsans.com/blog/engineering-productivity#Long_Run)
-
-HAVE CLEAR GOALS
-
-PRIORITIZE, PRIORITIZE, PRIORITIZE
-
-DON'T BE A TEDDY BEAR
-
-CHALLENGE YOUR PEOPLE
-
-- [How to improve engineering productivity](https://codingsans.com/blog/engineering-productivity#Improve)
-
-RELEASE CODE MORE FREQUENTLY
-
-USE 1-ON-1S
-
-MAKE SURE THE INFORMATION FLOWS
-
-OrgChart
+- RELEASE CODE MORE FREQUENTLY
+- USE 1-ON-1S
+- MAKE SURE THE INFORMATION FLOWS
+- OrgChart
 
 ## The Chicken and the Pig
 
-The [business fable](https://en.wikipedia.org/wiki/Business_fable) ofThe Chicken and the Pigis about commitment to a project or cause. When producing a dish made of eggs with ham or bacon, the [pig](https://en.wikipedia.org/wiki/Pig) provides the ham or bacon which requires his or her sacrifice and the [chicken](https://en.wikipedia.org/wiki/Chicken) provides the eggs which are not difficult to produce. Thus the pig is really committed to that dish while the chicken is only involved, yet both are needed to produce the dish.
+The [business fable](https://en.wikipedia.org/wiki/Business_fable) of The Chicken and the Pig is about commitment to a project or cause. When producing a dish made of eggs with ham or bacon, the [pig](https://en.wikipedia.org/wiki/Pig) provides the ham or bacon which requires his or her sacrifice and the [chicken](https://en.wikipedia.org/wiki/Chicken) provides the eggs which are not difficult to produce. Thus the pig is really committed to that dish while the chicken is only involved, yet both are needed to produce the dish.
 
 The Chicken is involved, but the Pig commits!
 
@@ -147,7 +138,7 @@ The Chicken is involved, but the Pig commits!
 
 ## RACI Matrix
 
-Aresponsibility assignment matrix(RAM), also known asRACI matrix orlinear responsibility chart(LRC), describes the participation by various [roles](https://en.wikipedia.org/wiki/Role) in completing [tasks](https://en.wikipedia.org/wiki/Task_(project_management)) or [deliverables](https://en.wikipedia.org/wiki/Deliverable) for a [project](https://en.wikipedia.org/wiki/Project) or [business process](https://en.wikipedia.org/wiki/Business_process). RACI is an [acronym](https://en.wikipedia.org/wiki/Acronym) derived from the four key responsibilities most typically used: **responsible, accountable, consulted, andinformed**.It is used for clarifying and defining roles and responsibilities in cross-functional or departmental projects and processes
+A responsibility assignment matrix (RAM), also known as RACI matrix or linear responsibility chart (LRC), describes the participation by various [roles](https://en.wikipedia.org/wiki/Role) in completing [tasks](https://en.wikipedia.org/wiki/Task_(project_management)) or [deliverables](https://en.wikipedia.org/wiki/Deliverable) for a [project](https://en.wikipedia.org/wiki/Project) or [business process](https://en.wikipedia.org/wiki/Business_process). RACI is an [acronym](https://en.wikipedia.org/wiki/Acronym) derived from the four key responsibilities most typically used: **responsible, accountable, consulted, and informed**. It is used for clarifying and defining roles and responsibilities in cross-functional or departmental projects and processes
 
 <https://en.wikipedia.org/wiki/Responsibility_assignment_matrix>
 
@@ -172,24 +163,24 @@ Aresponsibility assignment matrix(RAM), also known asRACI matrix orlinear respon
 
 ## Stages
 
-- **Scope**
-- **Scope freeze**
-- **Exploration**
-- **Discussion**
-- **Test case creation**
-- **Test case review**
+- Scope
+- Scope freeze
+- Exploration
+- Discussion
+- Test case creation
+- Test case review
 - **Design documentation**
-  - **Use case**
-  - **Scope**
-  - **Cuts**
-  - **HLD (High level design)**
-  - **LLD (Low level design)**
-- **Design review**
-- **Coding**
-- **Unit testing**
-- **PO Review**
-- **Code Review**
-- **Q/A - Integration Testing**
+  - Use case
+  - Scope
+  - Cuts
+  - HLD (High level design)
+  - LLD (Low level design)
+- Design review
+- Coding
+- Unit testing
+- PO Review
+- Code Review
+- Q/A - Integration Testing
 
 ## Process / Procedure
 
