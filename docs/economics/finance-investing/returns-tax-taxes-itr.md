@@ -11,6 +11,11 @@ Tax Consulation - <https://www.charteredclub.com/tax-consultation-with-ca-karan-
 - Financial Year: 2022 - 2023
 - Assessment Year: 2023 – 2024
 
+### Direct and indirect taxes
+
+- Direct taxes are paid directly to the government and are levied on one's income and profits.
+- Indirect taxes are totally opposite and are paid to the government if one makes any purchases of goods and services.
+
 ## CA
 
 1. Insurance receipt

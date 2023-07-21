@@ -158,3 +158,5 @@ The **impossible trinity** (also known as **the impossible [trilemma](https://en
 [How Finance Works: The HBR Guide to Thinking Smart About the Numbers - Mihir Desai - YouTube](https://www.youtube.com/watch?v=8RxBbls_81U)
 
 [This Company Printed Your MONEY!! The Hidden Story!! - YouTube](https://www.youtube.com/watch?v=obXUfKhgkco)
+
+[End of the Road: How Money Became Worthless - YouTube](https://www.youtube.com/watch?v=Co_tVd9gA2I)

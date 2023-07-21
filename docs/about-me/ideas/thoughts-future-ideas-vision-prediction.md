@@ -2,6 +2,7 @@
 
 1. Over time people will reduce reading books (Books will die)
 2. Diversity among humans will decrease, and everything will become standardized
+3. Travelling will reduce among western countries due to high temperature and climate change negative effects. People will be in home more and in-home entertainment and software will soar.
 
 ## Thoughts
 

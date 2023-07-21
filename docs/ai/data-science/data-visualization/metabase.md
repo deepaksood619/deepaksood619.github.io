@@ -16,11 +16,25 @@ Your questions can be saved for later, making it easy to come back to them, or y
 
 [Joins in Metabase](https://www.metabase.com/learn/questions/joins-in-metabase)
 
-## Parameters for signed embeds
+## Embedding
+
+[Embedding overview](https://www.metabase.com/docs/latest/embedding/start)
+
+### Types
+
+- [Full-app embedding](https://www.metabase.com/docs/latest/embedding/full-app-embedding)
+- [Signed embedding](https://www.metabase.com/docs/latest/embedding/signed-embedding)
+- [Parameters for signed embeds](https://www.metabase.com/docs/latest/embedding/signed-embedding-parameters)
+
+### Demo
+
+[Metabase | See what’s possible with embedded analytics](https://www.metabase.com/embedding-demo)
+
+### Parameters for signed embeds
 
 Parameters are pieces of information that are passed between Metabase and your website via the [embedding URL](https://www.metabase.com/docs/latest/embedding/signed-embedding#adding-the-embedding-url-to-your-website). You can use parameters to specify how Metabase items should look and behave inside the iframe on your website.
 
-## Types of parameters
+#### Types of parameters
 
 Parameters can be signed or unsigned.
 

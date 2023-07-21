@@ -151,3 +151,4 @@ As a general rule, "has" is used in the third person singular ("he", "she", "it"
 - NGMI - not gonna make it
 - Phenomenon (singular) vs Phenomena (plural)
 - Iconoclastic - criticizing or attacking cherished beliefs or institutions.
+- Plenitude - abundance

@@ -4,6 +4,7 @@
 
 - <https://gtmetrix.com>
 - LightHouse
+  - [Lighthouse CI Action · Actions · GitHub Marketplace · GitHub](https://github.com/marketplace/actions/lighthouse-ci-action)
 - <https://www.browserstack.com>
 - <https://www.sitespeed.io>
 - <https://estimator.dev>

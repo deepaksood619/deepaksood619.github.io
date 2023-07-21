@@ -264,3 +264,9 @@ Discovery shopping, on the other hand, is where **a user visits websites or mark
 Discovery commerce is the equivalent of 'I'm feeling lucky' in Google searches. While the main effort of an ecommerce strategy is aimed at efficiently meeting specific needs of the consumer, discovery commerce draws on the custom of strolling through a store, browsing shelves without intention to buy... until the perfect product catches your eye.
 
 [The New Digital Trend: Discovery Commerce | Sales Layer](https://blog.saleslayer.com/the-new-digital-trend-discovery-commerce)
+
+## Links
+
+[How I Turned $300 Into $5.1 Billion - YouTube](https://www.youtube.com/watch?v=XWwMr1jYIDE)
+
+[13 Businesses Making +$1,000,000/Year With 0 Employees - YouTube](https://www.youtube.com/watch?v=giis6_u8n3M)

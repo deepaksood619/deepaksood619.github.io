@@ -44,6 +44,10 @@ DebugView enables you to see the raw event data logged by your app on developmen
 
 Firebase Cloud Messaging (FCM) is a cross-platform messaging solution that lets you reliably send messages at no cost.
 
+### Notifications to web
+
+[https://www.itwonders-web.com/blog/push-notification-using-firebase-demo-tutorial/](https://www.itwonders-web.com/blog/push-notification-using-firebase-demo-tutorial/)
+
 ## Message delivery reports
 
 You can evaluate whether the messages you send reach your users. In the [Reports](https://console.firebase.google.com/project/_/notification/reporting?authuser=1) tab in the Firebase console, you can view the following data for messages sent to Android or iOS FCM SDKs, including those sent via the Notifications composer and the FCM APIs:

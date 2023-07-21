@@ -163,3 +163,5 @@ It's **not recommended to use all-purpose clusters** for any kind of **automa
 [Optimizing AWS S3 Access for Databricks - The Databricks Blog](https://www.databricks.com/blog/2022/11/08/optimizing-aws-s3-access-databricks.html)
 
 - S3 Endpoint is almost always better than NAT Gateway.
+
+[How to Extract Large Query Results Through Cloud Object Stores - The Databricks Blog](https://www.databricks.com/blog/2021/08/11/how-we-achieved-high-bandwidth-connectivity-with-bi-tools.html)

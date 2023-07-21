@@ -180,12 +180,6 @@ Cantillon effect explains how changes in the supply of money in an economy can a
 - [Barriers to Entry](https://en.wikipedia.org/wiki/Barriers_to_entry) - "A cost that must be incurred by a new entrant into a market that incumbents don't or haven't had to incur."
 - [Price Elasticity](https://en.wikipedia.org/wiki/Elasticity_(economics)) - "The measurement of how responsive an economic variable is to a change in another. It gives answers to questions such as 'If I lower the price of a product, how much more will sell?'" (related:[Giffen good](https://en.wikipedia.org/wiki/Giffen_good) - "a product that people consume more of as the price rises and vice versa.")
 - [Market Power](https://en.wikipedia.org/wiki/Market_power) - "The ability of a firm to profitably raise the market price of a good or service over marginal cost."
-- **[Conspicuous Consumption](https://en.wikipedia.org/wiki/Conspicuous_consumption)-** "The spending of money on and the acquiring of luxury goods and services to publicly display economic power." (related:[Veblen goods](https://en.wikipedia.org/wiki/Veblen_good) - "types of luxury goods, such as expensive wines, jewelry, fashion-designer handbags, and luxury cars, which are in demand because of the high prices asked for them.")
-
-A classic example of this would be a luxury watch: A Rolex isn't better at telling the time than a cheap Casio -- but a Rolex signals something about its owner's economic power and thus their social standing.
-
-<https://en.wikipedia.org/wiki/Conspicuous_consumption>
-
 - [Creative Destruction](https://en.wikipedia.org/wiki/Creative_destruction) - "Process of industrial mutation that incessantly revolutionizes the economic structure from within, incessantly destroying the old one, incessantly creating a new one." (related:[Software is Eating the World](http://www.wsj.com/articles/SB10001424053111903480904576512250915629460) - "in many industries, new software ideas will result in the rise of new Silicon Valley-style start-ups that invade existing industries with impunity.")
 - [First-mover advantage](https://en.wikipedia.org/wiki/First-mover_advantage) vs [First-mover disadvantage](https://en.wikipedia.org/wiki/First-mover_advantage#First-mover_disadvantages) - "the advantage gained by the initial ("first-moving") significant occupant of a market segment." (related:[Why now?](https://pando.com/2013/02/20/sequoias-why-now/))
 
@@ -291,3 +285,4 @@ Baumol helps us understand not only today’s economy but also a likely path for
 - [Economics for the common good](../../book-summaries/economics-for-the-common-good)
 - [Dollars and sense](../../book-summaries/dollars-and-sense)
 - [Everyday Millionaires](../../book-summaries/everyday-millionaires)
+- [Consumerism](psychology/consumerism.md)

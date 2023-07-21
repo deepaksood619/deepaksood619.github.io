@@ -1,12 +1,9 @@
 # Other - CICD
 
-CI - Continuous Integration
-
-CD - Continuous Delivery (building deployable artifacts / images)
-
-CD - Continuous Deployment (deploying those artifacts / images)
-
-CV - Continuous Verification
+- CI - Continuous Integration
+- CD - Continuous Delivery (building deployable artifacts / images)
+- CD - Continuous Deployment (deploying those artifacts / images)
+- CV - Continuous Verification
 
 <https://github.com/theonedev/onedev>
 
@@ -37,6 +34,7 @@ Sign up for beta - <https://github.com/features/actions>
 - [Checkout - GitHub Marketplace](https://github.com/marketplace/actions/checkout)
 - [Retry Step - GitHub Marketplace](https://github.com/marketplace/actions/retry-step)
 - [retry action - GitHub Marketplace](https://github.com/marketplace/actions/retry-action)
+- [Lighthouse CI Action · Actions · GitHub Marketplace · GitHub](https://github.com/marketplace/actions/lighthouse-ci-action)
 
 **Run github actions locally**
 

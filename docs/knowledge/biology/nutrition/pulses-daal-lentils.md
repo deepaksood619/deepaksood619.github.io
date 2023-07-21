@@ -84,6 +84,12 @@ Slightly larger than the Mexican red bean, rajma or red kidney beans are very po
 
 Rajma must be soaked for several hours before cooking to soften it. As with all beans (like kabuli chana, lobia, etc.) that are high in fiber and full of nutrition, rajma has gas-producing enzymes. The trick to beating this is to change the soaking water every few hours (before cooking) and cook them until soft.
 
+### Toxicity
+
+Red kidney beans contain relatively high amounts of [phytohemagglutinin](https://en.m.wikipedia.org/wiki/Phytohemagglutinin "Phytohemagglutinin"), and thus are more toxic than most other bean varieties if not pre-soaked and subsequently heated to the boiling point for at least 10 minutes. The US [Food and Drug Administration](https://en.m.wikipedia.org/wiki/Food_and_Drug_Administration "Food and Drug Administration") recommends boiling for 30 minutes to ensure they reach a sufficient temperature long enough to completely destroy the toxin. Cooking at the lower temperature of 80 °C (176 °F), such as in a [slow cooker](https://en.m.wikipedia.org/wiki/Slow_cooker "Slow cooker"), is insufficient to denature the toxin and has been reported to cause food poisoning.
+
+[Kidney bean - Wikipedia](https://en.m.wikipedia.org/wiki/Kidney_bean#Toxicity)
+
 ## Chickpeas - Kala chana / Black chickpeas / / Bengal gram / Desi chana
 
 ![image](../../../media/Nutrition_Pulses-Daal-Lentils-image12.jpg)
@@ -250,56 +256,6 @@ Cornflour is starch which gets from endosperm portion of kernel and used as bind
 | Vermicelli              | Seviyan, Sevaiyan                                          |
 | Wheat                   | Gehoon                                                     |
 | Whole Wheat Flour       | Gehoon aata                                                |
-
-## Cloth Fibers / Textiles
-
-1. Cotton
-2. Linen
-3. Hemp
-4. Polyester
-
-    Fleece - <https://en.wikipedia.org/wiki/Polar_fleece>
-
-    Microfiber - <https://en.wikipedia.org/wiki/Microfiber>
-
-5. Wool
-6. Acrylic
-7. Silk
-8. Nylon
-9. Spandex/Elastane/Lycra
-10. Rayon
-11. Bamboo
-12. Lyocell/Tencel
-
-[Pros & Cons of Common Fabrics | Fibres & Fabrics Part 1](https://www.youtube.com/watch?v=9QmTnHNb8ro)
-
-<https://www.youtube.com/watch?v=-B4tfduOQ7w>
-
-Zoe Hong - <https://www.youtube.com/channel/UCMQ_mPIBPi4IMpYEmuyOMqQ>
-
-### Pill
-
-Apill, colloquially known as a b**obble, fuzzball, orlint ball**is a small ball of fibers that forms on a piece of [cloth](https://en.wikipedia.org/wiki/Cloth).Pillis also a verb for the formation of such balls.
-
-Pilling is a surface defect of textiles caused by wear, and is generally considered an undesirable trait.It happens when washing and wearing of fabrics causes loose fibers to begin to push out from the surface of the cloth, and, over time, abrasion causes the fibers to develop into small spherical bundles, anchored to the surface of the fabric by protruding fibers that haven't broken. The textile industry divides pilling into four stages: **fuzz formation, entanglement, growth, and wear-off.**
-
-Pilling normally happens on the parts of clothing that receive the most abrasion in day-to-day wear, such as the [collar](https://en.wikipedia.org/wiki/Collar_(clothing)), [cuffs](https://en.wikipedia.org/wiki/Cuff), and around the [thighs](https://en.wikipedia.org/wiki/Thighs) and [rear](https://en.wikipedia.org/wiki/Buttocks) on [trousers](https://en.wikipedia.org/wiki/Trousers).
-
-<https://en.wikipedia.org/wiki/Pill_(textile)>
-
-<https://en.wikipedia.org/wiki/Nap_(fabric)>
-
-<https://en.wikipedia.org/wiki/Pile_(textile)>
-
-### Knit vs Woven Fabric
-
-Construction
-
-Woven fabrics are created on weaving looms. These looms can be 54 inches wide and above. The main difference betweenknit vs wovenfabrics is how they are constructed. Woven fabrics are created using several warps, or longitudinal yarns, and wefts, or latitudinal yarns. Knitting involves interloping or interlacing a single yarn or thread.
-
-<https://www.dutchlabelshop.com/en_us/blog/difference-knit-woven-fabric>
-
-[Knitted Vs. Woven Fabrics - What's The Difference???](https://www.youtube.com/watch?v=Zg2aJpd_KJg)
 
 ## Utensils
 

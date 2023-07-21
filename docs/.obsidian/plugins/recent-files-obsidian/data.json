@@ -1,204 +1,204 @@
 {
   "recentFiles": [
     {
-      "basename": "infra",
-      "path": "office/blocktoons/infra.md"
-    },
-    {
-      "basename": "new-home-place-house",
-      "path": "office/personality/new-home-place-house.md"
-    },
-    {
-      "basename": "others",
-      "path": "management/project-management/others.md"
-    },
-    {
-      "basename": "intro",
-      "path": "management/project-management/intro.md"
-    },
-    {
-      "basename": "goal-setting",
-      "path": "management/project-management/goal-setting.md"
-    },
-    {
-      "basename": "agile",
-      "path": "management/project-management/agile.md"
-    },
-    {
-      "basename": "jira",
-      "path": "management/project-management/jira.md"
-    },
-    {
-      "basename": "infra",
-      "path": "office/cakedefi/infra.md"
-    },
-    {
-      "basename": "data-fetching",
-      "path": "frontend/others/nextjs/data-fetching.md"
-    },
-    {
-      "basename": "others",
-      "path": "frontend/others/nextjs/others.md"
-    },
-    {
-      "basename": "product",
-      "path": "office/cakedefi/product.md"
-    },
-    {
-      "basename": "others",
-      "path": "psychology/others.md"
-    },
-    {
-      "basename": "people",
-      "path": "office/blocktoons/people.md"
-    },
-    {
-      "basename": "video-live-streaming",
-      "path": "networking/protocols/video-live-streaming.md"
-    },
-    {
-      "basename": "todo",
-      "path": "office/cakedefi/todo.md"
-    },
-    {
-      "basename": "tech-books",
-      "path": "computer-science/others/tech-books.md"
-    },
-    {
-      "basename": "youtube-podcasts-magazine-apps",
-      "path": "devops/ides/youtube-podcasts-magazine-apps.md"
-    },
-    {
-      "basename": "newsletter-learning-resources",
-      "path": "computer-science/general/newsletter-learning-resources.md"
-    },
-    {
-      "basename": "books-blinkist-management",
-      "path": "management/books-blinkist-management.md"
+      "basename": "tokenomics",
+      "path": "decentralized-applications/tokenomics.md"
     },
     {
       "basename": "readme",
-      "path": "book-summaries/readme.md"
+      "path": "decentralized-applications/readme.md"
+    },
+    {
+      "basename": "on-chain-analytics",
+      "path": "decentralized-applications/on-chain-analytics.md"
+    },
+    {
+      "basename": "coin-token-intro",
+      "path": "decentralized-applications/coins-tokens-chains/coin-token-intro.md"
+    },
+    {
+      "basename": "crypto-investing",
+      "path": "decentralized-applications/crypto-investing.md"
+    },
+    {
+      "basename": "readme",
+      "path": "decentralized-applications/coins-tokens-chains/readme.md"
+    },
+    {
+      "basename": "ethereum-staking",
+      "path": "decentralized-applications/ethereum/ethereum-staking.md"
+    },
+    {
+      "basename": "defi",
+      "path": "decentralized-applications/defi.md"
+    },
+    {
+      "basename": "deepak-banks",
+      "path": "office/keep/deepak-banks.md"
     },
     {
       "basename": "readme",
       "path": "readme.md"
     },
     {
-      "basename": "readme",
-      "path": "management/project-management/readme.md"
+      "basename": "cardano",
+      "path": "decentralized-applications/coins-tokens-chains/cardano.md"
     },
     {
-      "basename": "product-terms-tools-saas",
-      "path": "management/product-management/product-terms-tools-saas.md"
+      "basename": "grammer-vocabulary",
+      "path": "knowledge/language/grammer-vocabulary.md"
+    },
+    {
+      "basename": "vocabulary",
+      "path": "computer-science/distributed-system/vocabulary.md"
+    },
+    {
+      "basename": "todo",
+      "path": "office/cakedefi/todo.md"
     },
     {
       "basename": "emails-templates-general",
       "path": "office/personality/emails-templates-general.md"
     },
     {
+      "basename": "40-proof-of-stake",
+      "path": "decentralized-applications/ethereum/40-proof-of-stake.md"
+    },
+    {
+      "basename": "readme",
+      "path": "decentralized-applications/ethereum/readme.md"
+    },
+    {
+      "basename": "06-transactions",
+      "path": "decentralized-applications/ethereum/06-transactions.md"
+    },
+    {
+      "basename": "consensus-protocols",
+      "path": "decentralized-applications/consensus-protocols.md"
+    },
+    {
+      "basename": "consensus-protocols",
+      "path": "computer-science/distributed-system/consensus-protocols.md"
+    },
+    {
+      "basename": "product",
+      "path": "office/cakedefi/product.md"
+    },
+    {
+      "basename": "deepak-cryptos",
+      "path": "office/keep/deepak-cryptos.md"
+    },
+    {
+      "basename": "readme",
+      "path": "office/keep/readme.md"
+    },
+    {
+      "basename": "news-problems",
+      "path": "knowledge/others/news-problems.md"
+    },
+    {
+      "basename": "crypto-news",
+      "path": "decentralized-applications/crypto-news.md"
+    },
+    {
+      "basename": "new-home-place-house",
+      "path": "office/personality/new-home-place-house.md"
+    },
+    {
       "basename": "living",
       "path": "knowledge/biology/exercise-stretching/living.md"
     },
     {
-      "basename": "vscode-vs-code",
-      "path": "devops/ides/vscode-vs-code.md"
+      "basename": "movies-serials-apps",
+      "path": "office/personality/movies-serials-apps.md"
+    },
+    {
+      "basename": "metabase",
+      "path": "ai/data-science/data-visualization/metabase.md"
+    },
+    {
+      "basename": "infra",
+      "path": "office/blocktoons/infra.md"
+    },
+    {
+      "basename": "infra",
+      "path": "office/cakedefi/infra.md"
+    },
+    {
+      "basename": "returns-tax-taxes-itr",
+      "path": "economics/finance-investing/returns-tax-taxes-itr.md"
+    },
+    {
+      "basename": "03-optimizations",
+      "path": "technologies/apache/databricks/03-optimizations.md"
+    },
+    {
+      "basename": "youtube-podcasts-magazine-apps",
+      "path": "devops/ides/youtube-podcasts-magazine-apps.md"
+    },
+    {
+      "basename": "books-to-read",
+      "path": "book-summaries/books-to-read.md"
+    },
+    {
+      "basename": "macroeconomics",
+      "path": "economics/mental-models/macroeconomics.md"
+    },
+    {
+      "basename": "creating-a-business-startup",
+      "path": "about-me/ideas/creating-a-business-startup.md"
+    },
+    {
+      "basename": "motivation",
+      "path": "knowledge/quotes-proverbs/motivation.md"
+    },
+    {
+      "basename": "parenting",
+      "path": "psychology/parenting.md"
+    },
+    {
+      "basename": "people",
+      "path": "psychology/people.md"
+    },
+    {
+      "basename": "economics-mental-models",
+      "path": "economics/mental-models/economics-mental-models.md"
+    },
+    {
+      "basename": "consumerism",
+      "path": "psychology/consumerism.md"
+    },
+    {
+      "basename": "life-lessons-buying-guide-travelling-shopping",
+      "path": "office/personality/life-lessons-buying-guide-travelling-shopping.md"
     },
     {
       "basename": "intro",
-      "path": "knowledge/biology/intro.md"
+      "path": "psychology/intro.md"
+    },
+    {
+      "basename": "partner-wife-qualities",
+      "path": "office/personality/partner-wife-qualities.md"
+    },
+    {
+      "basename": "productivity-productive-time-management-todo",
+      "path": "psychology/productivity-productive-time-management-todo.md"
     },
     {
       "basename": "readme",
-      "path": "knowledge/biology/readme.md"
+      "path": "psychology/readme.md"
     },
     {
-      "basename": "pregnancy-baby",
-      "path": "knowledge/biology/pregnancy-baby.md"
+      "basename": "life-relationship-people",
+      "path": "psychology/life-relationship-people.md"
     },
     {
-      "basename": "others",
-      "path": "knowledge/biology/others.md"
+      "basename": "faqs",
+      "path": "about-me/faqs.md"
     },
     {
-      "basename": "mbbs-medicine-medical-health",
-      "path": "knowledge/biology/mbbs-medicine-medical-health.md"
-    },
-    {
-      "basename": "genetics",
-      "path": "knowledge/biology/genetics.md"
-    },
-    {
-      "basename": "pulses-daal-lentils",
-      "path": "knowledge/biology/nutrition/pulses-daal-lentils.md"
-    },
-    {
-      "basename": "readme",
-      "path": "knowledge/biology/nutrition/readme.md"
-    },
-    {
-      "basename": "recipe",
-      "path": "knowledge/biology/nutrition/recipe.md"
-    },
-    {
-      "basename": "intro",
-      "path": "knowledge/biology/nutrition/intro.md"
-    },
-    {
-      "basename": "food",
-      "path": "knowledge/biology/nutrition/food.md"
-    },
-    {
-      "basename": "fatigue",
-      "path": "knowledge/biology/nutrition/fatigue.md"
-    },
-    {
-      "basename": "daily-requirements",
-      "path": "knowledge/biology/nutrition/daily-requirements.md"
-    },
-    {
-      "basename": "chart",
-      "path": "knowledge/biology/nutrition/chart.md"
-    },
-    {
-      "basename": "readme",
-      "path": "knowledge/biology/exercise-stretching/readme.md"
-    },
-    {
-      "basename": "gym-nutrition",
-      "path": "knowledge/biology/exercise-stretching/gym-nutrition.md"
-    },
-    {
-      "basename": "data-sources",
-      "path": "ai/data-science/tableau/data-sources.md"
-    },
-    {
-      "basename": "readme",
-      "path": "ai/data-science/tableau/readme.md"
-    },
-    {
-      "basename": "data-model",
-      "path": "ai/data-science/tableau/data-model.md"
-    },
-    {
-      "basename": "augmented-analytics",
-      "path": "ai/data-science/tableau/augmented-analytics.md"
-    },
-    {
-      "basename": "concepts",
-      "path": "ai/data-science/tableau/concepts.md"
-    },
-    {
-      "basename": "todo",
-      "path": "office/blocktoons/todo.md"
-    },
-    {
-      "basename": "chatgpt-llm",
-      "path": "ai/libraries/chatgpt-llm.md"
-    },
-    {
-      "basename": "architecture-components",
-      "path": "ai/data-science/tableau/architecture-components.md"
+      "basename": "about-me-adjectives",
+      "path": "office/personality/about-me-adjectives.md"
     }
   ],
   "omittedPaths": [],

@@ -229,22 +229,9 @@ To help you increase your control, practice going to quiet and screen-free space
 
 <https://deepstash.com/article/2260/seven-ways-to-feel-more-in-control-of-your-life>
 
-Spending money not equal to happiness
-
-Don't seek external validation for happiness
-
-Sigmund Freud - Psychoanalysis
-
-- Mass consumer persuasion
-- Product placement in movies
-- Moved humans from needs (things you need) to desire (you want it, doesn't matter if you need it or not)
-- Dress has become an expression
-- Consumptionism
-- Consumerism
-
 ## Narcissist / Narcissism
 
-1. Morphing critisism.
+1. Morphing criticism.
 2. Spending more time on their feelings than yours.
 3. Repeatedly insisting on having good intentions.
 4. Projecting badness onto those poking at their self-image.

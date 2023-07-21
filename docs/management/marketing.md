@@ -424,7 +424,6 @@ Interstitial ads are full-screen ads that cover the interface of their host app.
 6. **App Inbox / Notification Center**
 
     <https://docs.clevertap.com/docs/app-inbox>
-
     <https://docs.leanplum.com/docs/app-inbox-messages>
 
 7. MSG91

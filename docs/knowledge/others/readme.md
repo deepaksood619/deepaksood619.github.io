@@ -10,4 +10,5 @@
 - [Education / PhD](education-phd)
 - [Chemistry Outline](chemistry-outline)
 - [News](knowledge/others/news-problems.md)
+- [Clothes / Textiles](knowledge/others/clothes-textiles.md)
 - [Others](knowledge/others/others.md)

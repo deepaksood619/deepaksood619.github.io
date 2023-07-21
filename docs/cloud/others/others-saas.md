@@ -163,11 +163,19 @@ Open-source low-code framework for building React-based web applications and int
 
 <https://docs.photoprism.app/getting-started>
 
-## Adsense and Adwords
+## Adwords
 
 AdWords (now more commonly known as Google Ads) is a system that allows businesses to bid for advertising space in the Google search results and on other Google-affiliated properties. AdSense is a system that allows publishers and website owners to sell ad space to businesses.
 
-Ex for adsense - <https://www.hindustantimes.com/ads.txt>
+## Adsense
+
+Auto ads use Google's smart technology to:
+
+- Understand your page structure
+- Detect any existing Google ads on your page. (Note that we're not able to detect ads from other ad networks.)
+- Automatically place new ads based on different elements such as your page layout, the amount of content on your page, and your existing Google ads. Occasionally, Auto ads might place two ads next to each other (regardless of the ads' network origin).
+
+Ex for adsense - <https://deepaksood619.github.io/ads.txt>
 
 ## Others
 

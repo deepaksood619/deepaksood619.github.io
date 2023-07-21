@@ -7,7 +7,7 @@
 - PoS on Ethereum is also intended to lay the groundwork for "[sharding](https://www.coindesk.com/learn/2020/12/02/what-is-sharding/)" – a partitioning technique that allows multiple parallel chains to share data and transaction load efficiently. These shard chains, when combined with a secondary scaling product known as "[rollups](https://www.coindesk.com/learn/what-are-rollups-zk-rollups-and-optimistic-rollups-explained/)," could allow Ethereum to process upward of [100,000 transactions](https://ethereum.org/en/eth2/shard-chains/) per second. That's a huge leap compared with the [10-15 transactions per second](https://ycharts.com/indicators/ethereum_transactions_per_day) it processed under proof-of-work.
 - Rollups involve batching dozens of transactions together off the main chain, creating a cryptographic proof for them (evidence of their validity) and then submitting that to the main chain.
 
-## How does Ethereum staking work?
+### How does Ethereum staking work?
 
 Unlike the PoW-based blockchain, the PoS-powered blockchain bundles 32 blocks of transactions during each round of validation, lasting 6.4 minutes on average. These bundles of blocks are what’s known as "epochs." An epoch is considered finalized – that is, the transactions contained are irreversible – when the blockchain adds two more epochs after it.
 
@@ -25,7 +25,7 @@ Note that block proposers and attesters have varying reward models. The block pr
 
 A base reward is the fundamental primary determiner of the issuance rate of Ethereum post-merge. The more validators are connected to Ethereum, the lower the base reward per validator. That is because the base reward is inversely proportional to the square root of the total balance of all Ethereum validators.
 
-## How profitable is Ethereum staking?
+### How profitable is Ethereum staking?
 
 The reward distributed to stakers depends on the total number of ETH staked and the number of validators on the network. When the pool of staked ETH dips, the annual interest rate increases.
 
@@ -33,15 +33,31 @@ For example, when there were only around 500,000 ETH staked, the annual percenta
 
 As soon as the pool of stakers is large enough to promote a decentralized ecosystem, the interest rate drops.
 
-## What is an Ethereum staking pool?
+### What is an Ethereum staking pool?
 
 Understanding that not all interested stakers can afford 32 ETH to participate in the network – which at present costs over $40,000 – some platforms have begun to provide staking products that allow investors to combine their financial resources to meet the minimum requirements for becoming a validator. That is also an ideal option for individuals who don’t want to undertake the technical requirements that come with staking. In essence, users need only to deposit and lock their capital on a third-party platform and start earning returns. It’s staking without the hassle.
+
+### WHAT IS STAKE DELEGATION?
+
+Delegation is the process by which crypto holders delegate the stake associated with their crypto to a stake pool. It allows crypto holders that do not have the skills or desire to run a node to participate in the network and be rewarded in proportion to the amount of stake delegated.
 
 ## Liquid Staking
 
 Staking is a way to help secure proof-of-stake blockchain networks like Ethereum. Network participants can run a validator node by putting tokens "at stake," which can then be "slashed" (taken away as a penalty) if the node commits any malicious actions or is unreliable. While there are many solo node operators, anyone can stake tokens through staking as a service (SaaS) provider-exposing them to the same risks and giving them the opportunity to share in rewards. However, staked tokens cannot be transacted or used as collateral to earn yield across the [DeFi](https://chain.link/education/defi) ecosystem.
 
 Liquid staking service providers solve this liquidity problem by minting a new token - representing a claim on the underlying staked asset - which can then be traded or deposited in DeFi protocols. For example, a user could deposit ETH to the Lido staking pool and receive stETH (staked ETH) tokens in return, then deposit the stETH to Aave to earn yield. Essentially, liquid staking builds upon existing staking systems by unlocking liquidity for staked tokens.
+
+**Buying stETH vs Staking ETH and receiving stETH**
+
+[TOP 5 LSD Projects for Ethereum Staking (Lido, RocketPool & more!) - YouTube](https://www.youtube.com/watch?v=WJLL0gor4iI)
+
+- [Liquid Staking for Digital Tokens](https://lido.fi/)
+- [Rocketpool](https://rocketpool.net/)
+- [Frax Finance](https://frax.finance/)
+- [Ethereum Proof Of Stake Pool and Solo Staking | StakeWise](https://stakewise.io/)
+- [Liquid Staking - Best Crypto Staking Platform of 2023 | Stader Labs](https://www.staderlabs.com/)
+
+**[Liquid staking TVL Rankings - DefiLlama](https://defillama.com/protocols/liquid%20staking/Ethereum)**
 
 [What Is Liquid Staking? | Chainlink](https://blog.chain.link/liquid-staking/)
 
@@ -57,15 +73,31 @@ Liquid staking service providers solve this liquidity problem by minting a new t
 
 [What Liquid Staking Tokens Mean For Ethereum (LSDs) - YouTube](https://www.youtube.com/watch?v=5vl1DT9kxck)
 
+[Why RocketPool has Everyone TRIPPING on LSD (Liquid Staking Derivatives EXPLAINED) - YouTube](https://www.youtube.com/watch?v=V4W2h5LwJBA)
+
 ### Lido Finance
 
+steth - re-base coin
+
 [Lido | Liquid Staking for Digital Assets](https://lido.fi/)
+
+[Track your Ethereum staking rewards | Lido](https://stake.lido.fi/rewards)
 
 [Withdrawals | Lido](https://stake.lido.fi/withdrawals)
 
 [Lido Finance: Liquid Ethereum Staking & LDO Potential!! 💧 - YouTube](https://www.youtube.com/watch?v=VQ_uvak1JPw)
 
 [Lido V2 Mainnet Launch](https://blog.lido.fi/lido-v2-launch/?pk_vid=bf23268f37fe14961687501797ca3ac5)
+
+[Ethereum Mainnet Explorer](https://www.rated.network/?network=mainnet&view=pool&timeWindow=1d&page=1)
+
+[How to STAKE & EARN Ethereum with Lido (Complete Guide) - YouTube](https://www.youtube.com/watch?v=kRdN4MoEuXg)
+
+[Lido Staked ETH (stETH): All You Need To Know | Bybit Learn](https://learn.bybit.com/altcoins/what-is-steth-lido-staked-eth/)
+
+[Lido ETH Staking Tutorial (Lido Finance stETH) - YouTube](https://www.youtube.com/watch?v=5zCCRx6IudY)
+
+[Lido ETH Staking Tutorial (Lido Finance stETH) - YouTube](https://www.youtube.com/watch?v=5zCCRx6IudY)
 
 ## Links
 

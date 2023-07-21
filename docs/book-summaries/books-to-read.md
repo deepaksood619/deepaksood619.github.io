@@ -102,6 +102,7 @@
 - Salt: A World History - Mark Kurlansky
 - Sapiens a brief history of humankind - Yuval Noah Harari
 - So good they can't ignore you - cal newport
+- Structures : Or Why Things Don't Fall Down
 - Super intelligence - Nick bostrum
 - The Art of Problem Solving
 - **The Checklist manifesto - Atul Gawande**

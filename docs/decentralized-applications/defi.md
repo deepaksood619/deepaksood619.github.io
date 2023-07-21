@@ -46,9 +46,7 @@ In the context of DeFi, oracles are used to provide external data to smart contr
 
 Oracles play a critical role in the DeFi ecosystem because they enable decentralized applications to operate securely and efficiently while maintaining access to the necessary external data. However, the reliability and security of oracles are also critical, as inaccurate or manipulated data can lead to financial losses for users of DeFi protocols. As a result, there are many different oracle providers that have emerged to serve the needs of the DeFi ecosystem, each with their own approaches to security and data verification.
 
-#### Protocols
-
-- Chainlink
+**Protocols - Chainlink**
 
 ## Products
 

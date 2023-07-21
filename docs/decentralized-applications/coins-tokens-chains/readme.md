@@ -34,7 +34,7 @@
 
 - Bitcoin
 - Ethereum (Ethereum Chain)
-- BNB (Binance)
+- BNB (Binance) - [Binance Coin: BNB Any Potential in 2022?! Deep Dive! - YouTube](https://www.youtube.com/watch?v=Jwo4rwik6WM)
 - Cardano (ADA)
 - XRP
 - Solana (SOL)
@@ -44,7 +44,7 @@
 - Polkadot
   - [Polkadot: What's Up With DOT?! Potential in 2022!! - YouTube](https://www.youtube.com/watch?v=H7S5k5jWp48)
   - [What is Polkadot? DOT Explained with Animations - YouTube](https://www.youtube.com/watch?v=YlAdEQp6ekM)
-- TRON
+- TRON - [Tron Review 2023: Beginners Guide to TRX](https://www.coinbureau.com/review/tron-trx-review/)
 - Cronos (CRO)
 - zcash which claims it uses advanced tech to make sure that detecting ownership is nearly impossible
 - wbtc - [BITCOIN on ETHEREUM? (renBTC, wBTC, tBTC, sBTC) | DEFI Explained - YouTube](https://www.youtube.com/watch?v=iExly7FGKAQ)
@@ -58,6 +58,8 @@
 ### MemeCoins
 
 - Dogecoin
+- Shiba Inu
+- Pepe
 - [Apecoin: APE Really Worth It?! What You NEED To Know!! 🦧 - YouTube](https://www.youtube.com/watch?v=Zi-7MqpbV4o)
 
 ### Tokens / Stable coins
@@ -67,7 +69,7 @@
 - Tether (USDT)
 - USD Coin (USDC)
 - Binance USD (BUSD)
-- Dai
+- Dai - Governed by the MakerDAO and Maker Protocol.
 - Wrapped Bitcoin
 - LEO Token
 - Shiba Inu

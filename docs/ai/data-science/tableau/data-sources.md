@@ -37,6 +37,16 @@ Extracts are advantageous for several reasons:
 - **Support additional functionality:** Extracts allow you to take advantage of Tableau functionality that's not available or supported by the original data, such as the ability to compute Count Distinct.
 - **Provide offline access to your data:** If you are using Tableau Desktop, extracts allow you to save and work with the data locally when the original data is not available. For example, when you are traveling.
 
+## Embedded Data Source
+
+An embedded data source in Tableau is a data source that is saved within a Tableau workbook (.twb or .twbx file) rather than being a separate, independent file. This means that the data is stored within the workbook file itself and can be shared easily without having to separately share the data source file.
+
+[Embedding Data in workbooks Vs Published Data sources - Visual BI Solutions](https://visualbi.com/blogs/tableau/embedding-data-workbooks-vs-published-data-sources/)
+
+## Publishing a workbook
+
+[Publish a Workbook - Tableau](https://help.tableau.com/current/pro/desktop/en-us/publish_workbooks_howto.htm)
+
 ## Links
 
 [Refresh Data Sources - Tableau](https://help.tableau.com/current/pro/desktop/en-us/refreshing_data.htm)

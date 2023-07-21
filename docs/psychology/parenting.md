@@ -26,6 +26,12 @@
 - [Japan's ancient secret to better cognitive memory - BBC REEL](https://youtu.be/s6OmqXCsYt8)
 - [How to expand your baby’s potential with education from birth | Zahra Kassam | TEDxManhattanBeach - YouTube](https://www.youtube.com/watch?v=oXYre2T3p_k&ab_channel=TEDxTalks)
 
+### Schooling
+
+[Parents Commiting A Big Mistake Regarding Their Children Education - YouTube](https://www.youtube.com/watch?v=mlAR8dmMHf0)
+
+- Put children late in school
+
 ### Toys
 
 In case you want to set up a business brainwashing affluent parents to spend their money on useless bits of plastic, you will find in this article details of the tricks that firms like Fisher-Price use to flog their products. More constructively, if you are a young parent and you want to buy useful toys for your child, the article says: "After watching kids play with more than 100 different types of toy, the researchers concluded that simple, open-ended, non-realistic toys with multiple parts, like a random assortment of Lego, inspired the highest-quality play. While engaged with such toys, children were "more likely to be creative, engage in problem solving, interact with their peers, and use language," the researchers wrote. Electronic toys, however, tended to limit kids’ play: "A simple wooden cash register in our study inspired children to engage in lots of conversations related to buying and selling – but a plastic cash register that produced sounds when buttons were pushed mostly inspired children to just push the buttons repeatedly."

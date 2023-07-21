@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "office/blocktoons/infra.md",
+                "file": "decentralized-applications/on-chain-analytics.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ddb6a7b79cc00d38",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "decentralized-applications/tokenomics.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -48,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"real estate\"",
+                "query": "tokenomics",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -101,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "office/blocktoons/infra.md",
+                "file": "decentralized-applications/tokenomics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "office/blocktoons/infra.md",
+                "file": "decentralized-applications/tokenomics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "office/blocktoons/infra.md"
+                "file": "decentralized-applications/tokenomics.md"
               }
             }
           },
@@ -191,33 +204,34 @@
   },
   "active": "978fd2faf621af33",
   "lastOpenFiles": [
-    "office/personality/new-home-place-house.md",
-    "management/project-management/others.md",
-    "management/project-management/intro.md",
-    "management/project-management/goal-setting.md",
-    "management/project-management/agile.md",
-    "management/project-management/jira.md",
-    "office/cakedefi/infra.md",
-    "frontend/others/nextjs/data-fetching.md",
-    "frontend/others/nextjs/others.md",
-    "office/cakedefi/product.md",
-    "psychology/others.md",
-    "office/blocktoons/people.md",
-    "office/blocktoons/infra.md",
-    "networking/protocols/video-live-streaming.md",
-    "media/Pasted image 20230718133117.png",
-    "office/cakedefi/todo.md",
-    "computer-science/others/tech-books.md",
-    "devops/ides/youtube-podcasts-magazine-apps.md",
-    "computer-science/general/newsletter-learning-resources.md",
-    "management/books-blinkist-management.md",
-    "book-summaries/readme.md",
+    "decentralized-applications/readme.md",
+    "decentralized-applications/tokenomics.md",
+    "decentralized-applications/on-chain-analytics.md",
+    "decentralized-applications/coins-tokens-chains/coin-token-intro.md",
+    "decentralized-applications/crypto-investing.md",
+    "decentralized-applications/coins-tokens-chains/readme.md",
+    "decentralized-applications/ethereum/ethereum-staking.md",
+    "decentralized-applications/defi.md",
+    "office/keep/deepak-banks.md",
     "readme.md",
-    "management/project-management/readme.md",
-    "management/product-management/product-terms-tools-saas.md",
+    "decentralized-applications/coins-tokens-chains/cardano.md",
+    "knowledge/language/grammer-vocabulary.md",
+    "computer-science/distributed-system/vocabulary.md",
+    "office/cakedefi/todo.md",
     "office/personality/emails-templates-general.md",
-    "knowledge/biology/exercise-stretching/living.md",
-    "devops/ides/vscode-vs-code.md",
+    "decentralized-applications/ethereum/40-proof-of-stake.md",
+    "decentralized-applications/ethereum/readme.md",
+    "decentralized-applications/ethereum/06-transactions.md",
+    "decentralized-applications/consensus-protocols.md",
+    "computer-science/distributed-system/consensus-protocols.md",
+    "office/cakedefi/product.md",
+    "office/keep/deepak-cryptos.md",
+    "office/keep/readme.md",
+    "knowledge/others/news-problems.md",
+    "decentralized-applications/crypto-news.md",
+    "office/personality/new-home-place-house.md",
+    "media/Pasted image 20230719181140.png",
+    "media/Pasted image 20230718133117.png",
     "media/Pasted image 20230716224959.png",
     "media/Pasted image 20230715103730.png",
     "media/Pasted image 20230714180337.png",
@@ -228,7 +242,6 @@
     "media/Pasted image 20230710130702.png",
     "media/Pasted image 20230710130538.png",
     "media/Screenshot 2023-06-28 at 11.17.15 PM.png",
-    "media/Pasted image 20230628225903.png",
     "office.zip",
     "office/stashfin-credentials",
     "management/people-management",

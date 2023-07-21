@@ -20,7 +20,7 @@
 ## Role Model / Influential People / People to follow
 
 - [Jamsetji TATA : STRATEGY of the GREATEST BUSINESS TYCOON of India](https://www.youtube.com/watch?v=OEB_UviHDq0)
-- Elon Musk - Tesla / SpaceX
+- Elon Musk - Tesla / SpaceX - [Elon Musk: The Scientist Behind the CEO (and How He Teaches Himself) Documentary - YouTube](https://www.youtube.com/watch?v=q-g7BPdSmP4)
 - Bill Gates - Microsoft
 - Paul Graham, the English-American computer programmer, is the legendary founder of the Y Combinator
 - Ray Dalio - [Your Questions: Answered](https://www.linkedin.com/pulse/your-questions-answered-ray-dalio/)

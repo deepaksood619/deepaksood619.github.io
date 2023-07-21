@@ -6,6 +6,11 @@
 - [State of Crypto 2023 - Google Slides](https://docs.google.com/presentation/d/1_bRyqC8MVjeAmGpOtmhpJydHsxoWWU0wWKsacdx9ovM/edit)
 - [2023 State of Crypto Report: Introducing the State of Crypto Index - a16z crypto](https://a16zcrypto.com/content/article/state-of-crypto-report-2023/)
 
+### Sources
+
+- CoinBureau
+- MilkRoad
+
 ### Cake DeFi CEO briefing, 2nd week of 2023
 
 1. The calm week 53 in 2022 and week 1 in 2023 played out as expected. For this week, I am expecting the pent-up demand to buy and/or sell cryptos or equities to happen this week… So, get ready for lots of volatility in the upcoming days. IMPORTANT: This is NOT a new up- or down-trend. It is just the supply and demand of the past 2-3 weeks.
@@ -52,6 +57,8 @@ On May 7, the price of the then-$18-billion algorithmic stablecoin terraUSD (UST
 ### CBDC
 
 [Global CBDC System Incoming!! This Report Will SCARE You!! - YouTube](https://www.youtube.com/watch?v=5VPwG8hSbhw)
+
+[You'll NEVER BELIEVE Who's Behind CBDCs & Fast Payments!! - YouTube](https://www.youtube.com/watch?v=Z9Gg3R1EbGU)
 
 ### News
 

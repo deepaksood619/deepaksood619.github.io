@@ -27,4 +27,5 @@
 - [Sleep](sleep)
 - [Course - Mindshift](course-mindshift)
 - [Productivity / Productive / Time Management / TODO](productivity-productive-time-management-todo)
+- [Consumerism](psychology/consumerism.md)
 - [Others](psychology/others.md)

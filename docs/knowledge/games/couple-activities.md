@@ -4,6 +4,7 @@
     - Dancing
     - Photography/Editing
     - Gym & Sports - Running/Badminton/Swimming/Yoga/Meditation/Cycling/Charity
+    - Drama
 2. Learning
     - Language
     - Art & Craft - Painting/Music/Dancing/Board games/DIY projects/Puzzle

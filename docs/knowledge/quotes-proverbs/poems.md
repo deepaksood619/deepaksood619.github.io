@@ -41,3 +41,32 @@ And yet don't look too good, nor talk too wise:
 A bat and ball together cost $1.10. The bat costs $1 more than the ball. How much does ball cost? Intuition says 10¢, but it's not.
 
 The correct answer to the bat & ball question is 5¢. With the total cost of bat & ball at $1.10, and the difference between the two being $1, the ball couldn't cost 10¢ because that'd make the bat cost $1.10, which would bring the combined price to $1.20.
+
+## V for vendetta
+
+Evey: Who are you?
+
+V. : Who? Who is but the form following the function of what and what I am is a man in a mask.
+
+Evey: Well I can see that.
+
+V. : Of course you can, I’m not questioning your powers of observation, I’m merely remarking upon the paradox of asking a masked man who he is.
+
+Evey: Oh, right.
+
+V. : But on this most auspicious of nights, permit me then, in lieu of the more commonplace soubriquet, to suggest the character of this dramatis persona. Voila! In view humble vaudevillian veteran, cast vicariously as both victim and villain by the vicissitudes of fate. This visage, no mere veneer of vanity, is a vestige of the “vox populi” now vacant, vanished. However, this valorous visitation of a bygone vexation stands vivified, and has vowed to vanquish these venal and virulent vermin, van guarding vice and vouchsafing the violently vicious and voracious violation of volition.
+The only verdict is vengeance; a vendetta, held as a votive not in vain, for the value and veracity of such shall one day vindicate the vigilant and the virtuous.
+Verily this vichyssoise of verbiage veers most verbose, so let me simply add that it’s my very good honour to meet you and you may call me V.
+
+Evey: Are you like a crazy person?
+
+V. : I’m quite sure they will say so.
+
+Remember remember the fifth of November
+Gunpowder, treason and plot.
+I know of no reason why gunpowder, treason
+Should ever be forgot…
+
+[V for Vendetta; V’s Introductory Speech and Remember Remember poem | In The Pursuit Of Wisdom](https://storyspeaker.wordpress.com/2007/06/04/v-for-vendetta-v%E2%80%99s-introductory-speech-and-remember-remember-poem/)
+
+[V for Vendetta (2005) - You May Call Me "V" Scene (1/8) | Movieclips - YouTube](https://www.youtube.com/watch?v=Z4RCK8LAFM0)

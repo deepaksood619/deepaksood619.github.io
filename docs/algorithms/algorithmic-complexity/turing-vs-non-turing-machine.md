@@ -55,3 +55,5 @@ The advantage of the above are termination guarantees - programs (transactions) 
 So in Ethereum you pay per computational step, while in Bitcoin you pay per byte. If a transaction goes in an endless loop on Ethereum, it will eventually drain all the gas attached to it and be force-terminated. Of course, this won’t stop people that want to mess with miners if gas is free - all Ethereum testnets so far have been DoS’ed (just spam the network with endlessly-looping transactions; you don’t need much resource to send those, but it takes lots of resource to process them), except one where you had to join a channel to beg for test Ether and they’d only give you an amount proportional to your Ethereum-related GitHub contributions. If you ran out, you’d have to go back to the channel and explain why you ran out.
 
 [What is Meant By Turing-Complete in Ethereum? - GeeksforGeeks](https://www.geeksforgeeks.org/what-is-meant-by-turing-complete-in-ethereum/)
+
+[The Boundary of Computation - YouTube](https://www.youtube.com/watch?v=kmAc1nDizu0)

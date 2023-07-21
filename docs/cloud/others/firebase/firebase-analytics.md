@@ -4,7 +4,7 @@ Google Analytics for Firebase, formerly Firebase Analytics, is now known as Goog
 
 <https://medium.com/firebase-developers/google-analytics-vs-firebase-analytics-vs-google-analytics-97ca645a8aff>
 
-## Google Analytics
+## Google Analytics / GA4
 
 - Unlimited Reporting
   - Analytics provides unlimited reporting on up to 500 distinct events.
@@ -152,7 +152,11 @@ So, which ad campaign performed better? Seems like a no-brainer, right? Should y
   - ...and they spent an average of $6 each
   - ...and over 100 of them signed up for your newsletter?
 
-Well, suddenly, that second ad campaign seems like a much better deal, doesn't it?That's the idea behindattribution. **It's a powerful form of app analytics that not only determines which campaigns are bringing you users, but also which campaigns are bringing you valuable users that you care most about.**
+Well, suddenly, that second ad campaign seems like a much better deal, doesn't it?That's the idea behind attribution. **It's a powerful form of app analytics that not only determines which campaigns are bringing you users, but also which campaigns are bringing you valuable users that you care most about.**
+
+## Pushing data to GA4
+
+[GTM Guide: dataLayer.push with examples - Analytics Mania](https://www.analyticsmania.com/post/datalayer-push/)
 
 ## Others
 

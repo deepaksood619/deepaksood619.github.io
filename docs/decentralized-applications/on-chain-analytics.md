@@ -1,8 +1,10 @@
-# Chain Analytics
+# On-Chain Analytics
 
 On-chain metrics turn blockchain-based transaction data into actionable crypto market insights.
 
+- [CoinMarketCap vs. CoinGecko: Which is BEST?? 🤔 - YouTube](https://www.youtube.com/watch?v=NEBc5KYfE5Q)
 - [On-Chain Analysis: How to Turn Blockchain Data Into Crypto Market Insights](https://www.coindesk.com/learn/what-is-crypto-on-chain-analysis-and-how-do-you-use-it/)
+- [Fees - DefiLlama](https://defillama.com/fees)
 - [Cake DeFi - DefiLlama](https://defillama.com/cex/cake-defi)
 - [Nansen - Crypto, DeFi & NFT Analytics](https://www.nansen.ai/)
 - <https://studio.glassnode.com/metrics> (Analytics)
@@ -63,7 +65,7 @@ Thus the metric measured in units of time (days) and represents the average numb
 
 ## Average Lifespan per Coin
 
-This chart presents the average Lifespan held per coin (the age of the average HODL wave). It is based upon the following principles:
+This presents the average Lifespan held per coin (the age of the average HODL wave). It is based upon the following principles:
 
 - Each unit of coin in the supply creates an equivalent volume of coindays per day.
 - Some portion of the coin supply is spent each day, destroying the accumulated coindays (called Coindays Destroyed, CDD)
@@ -75,7 +77,7 @@ This chart presents the average Lifespan held per coin (the age of the average H
 - 🔵 **Total Lifespan Created** = Circulating Supply
 - 🔴 **Average Lifespan per Coin (days)**
 
-Uptrends in the Average Lifespan metric indicate there is more HODLing taking place than Lifespan destruction. Downtrends indicate thatr longer-term investors are spending their coins in larger volumes, with steeper downtrends indicating more spent volume.
+Uptrends in the Average Lifespan metric indicate there is more HODLing taking place than Lifespan destruction. Downtrends indicate that longer-term investors are spending their coins in larger volumes, with steeper downtrends indicating more spent volume.
 
 ## Liveliness
 
@@ -107,3 +109,7 @@ SVAB is a useful tool for identifying periods of time or trends where on-chain t
 ## Links
 
 [Glassnode Studio - On-Chain Market Intelligence](https://studio.glassnode.com/dashboards/introduction-lifespan)
+
+[How to Correlate the Trend in Crypto Prices to a Twitter sentiment model Using Databricks Delta - The Databricks Blog](https://www.databricks.com/blog/2022/05/02/introduction-to-analyzing-crypto-data-using-databricks.html)
+
+[Real-time Blockchain Analytics With Databricks Delta, SQL, and Graph - The Databricks Blog](https://www.databricks.com/blog/2021/03/03/analyzing-algorand-blockchain-data-with-databricks-delta-part-2.html)

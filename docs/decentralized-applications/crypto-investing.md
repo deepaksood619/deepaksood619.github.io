@@ -32,22 +32,20 @@
 - [Roots - build wealth through real estate](https://www.investwithroots.com/)
 - [Nexo: Buy, Exchange, and Store Bitcoin & Crypto](https://nexo.com/)
 - [Leading Institutional Staking and RPC Node provider. Stake tokens, host nodes and develop Web3 with us](https://p2p.org/)
+- [MakerDAO | An Unbiased Global Financial System](https://makerdao.com/en/)
+- [KyberSwap - Trading Smart](https://kyberswap.com/swap/polygon/wsteth-to-stmatic)
+- [Arkham](https://platform.arkhamintelligence.com/)
 
 ![ranks-of-bitcoin-holders](../media/Screenshot%202023-04-03%20at%209.02.03%20AM.png)
 
 ## Games
 
-[BEST Blockchain Games: TOP 5 Play-To-Earn Cryptos!! 💯 - YouTube](https://www.youtube.com/watch?v=zchIkjXtOtk)
-
-[Axie Infinity: The CRAZIEST Crypto Game EVER!! 🤯 - YouTube](https://www.youtube.com/watch?v=zQPyDc88X8o)
-
-[The Play-To-Earn Blockchain Farming Game - Townstar](https://townstar.com/)
-
-[PVU crypto Farmland](https://plantvsundead.com/)
-
-[CryptoKitties | Collect and breed digital cats!](https://www.cryptokitties.co/)
-
-[Money with Moves](https://zbd.gg/)
+- [BEST Blockchain Games: TOP 5 Play-To-Earn Cryptos!! 💯 - YouTube](https://www.youtube.com/watch?v=zchIkjXtOtk)
+- [Axie Infinity: The CRAZIEST Crypto Game EVER!! 🤯 - YouTube](https://www.youtube.com/watch?v=zQPyDc88X8o)
+- [The Play-To-Earn Blockchain Farming Game - Townstar](https://townstar.com/)
+- [PVU crypto Farmland](https://plantvsundead.com/)
+- [CryptoKitties | Collect and breed digital cats!](https://www.cryptokitties.co/)
+- [Money with Moves](https://zbd.gg/)
 
 ## Pros
 
