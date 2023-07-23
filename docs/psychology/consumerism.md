@@ -22,3 +22,7 @@ The spending of money on and the acquiring of luxury goods and services to publi
 A classic example of this would be a luxury watch: A Rolex isn't better at telling the time than a cheap Casio -- but a Rolex signals something about its owner's economic power and thus their social standing.
 
 <https://en.wikipedia.org/wiki/Conspicuous_consumption>
+
+## Links
+
+[The Almanack of Naval Ravikant](book-summaries/the-almanack-of-naval-ravikant.md)

@@ -49,21 +49,23 @@ sudo apachectl stop
 
 ## Configs
 
+```
 /etc/apache2/
 |-- apache2.conf
-| `-- ports.conf
+|-- ports.conf
 |-- mods-enabled
-| |-- *.load
-|`-- *.conf
+||-- *.load
+|-- *.conf
 |-- conf-enabled
-| `-- *.conf
+|-- *.conf
 |-- sites-enabled
-|`--*.conf
+|--*.conf
+```
 
 - **apache2.conf** is the main configuration file. It puts the pieces together by including all remaining configuration files when starting up the web server.
 - **ports.conf** is always included from the main configuration file. It is used to determine the listening ports for incoming connections, and this file can be customized anytime.
 - Configuration files in the **mods-enabled/, conf-enabled/andsites-enabled/** directories contain particular configuration snippets which manage modules, global configuration fragments, or virtual host configurations, respectively.
-- They are activated by symlinking available configuration files from their respective *-available/ counterparts. These should be managed by using our helpersa2enmod, a2dismod, a2ensite, a2dissite, anda2enconf, a2disconf. See their respective man pages for detailed information.
+- They are activated by symlinking available configuration files from their respective -available/ counterparts. These should be managed by using our helpers a2enmod, a2dismod, a2ensite, a2dissite, and a2enconf, a2disconf. See their respective man pages for detailed information.
 - The binary is called apache2. Due to the use of environment variables, in the default configuration, apache2 needs to be started/stopped with/etc/init.d/apache2 or apache2ctl. Calling /usr/bin/apache2 directly will not work with the default configuration.
 
 ## Document Roots
@@ -154,7 +156,7 @@ There are a number of other experimental MPMs such as Threadpool, Perchild, and 
 
 ## Optimizations
 
-- **Remove the Burden of Processing Code From Apache**
+### Remove the Burden of Processing Code From Apache
 
 Apache modules provide a quick and easy solution to process the code needed to operate your website. Some of the most popular modules aremod_phpfor PHP, mod_railsfor Ruby on Rails, andmod_pythonfor Python.
 
@@ -166,14 +168,15 @@ To improve Apache's performance, consider migrating to these alternative solutio
 - Ruby:[Unicorn](https://bogomips.org/unicorn/)
 - Python:[uWSGI](https://uwsgi-docs.readthedocs.io/en/latest/) or [gnunicorn](http://gunicorn.org/)
 
-- **Change Apache's MaxKeepAliveRequests, KeepAlive, and KeepAliveTimeout Settings**
-  - MaxKeepAliveRequestssets the maximum number of requests to accept per connection. The higher this number, the better the performance of the server, up to a point. The recommended value is 500.
-  - KeepAliveTimeoutsets the number of seconds Apache will wait for a new request from a connection before it closes the connection. This number should be kept low. The recommended value is between 1 and 5.
-  - MaxKeepAliveRequests 500
-        KeepAlive On
-        KeepAliveTimeout 3
+### Change Apache's MaxKeepAliveRequests, KeepAlive, and KeepAliveTimeout Settings
 
-- **Workers**
+- MaxKeepAliveRequestssets the maximum number of requests to accept per connection. The higher this number, the better the performance of the server, up to a point. The recommended value is 500.
+- KeepAliveTimeoutsets the number of seconds Apache will wait for a new request from a connection before it closes the connection. This number should be kept low. The recommended value is between 1 and 5.
+- MaxKeepAliveRequests 500
+ KeepAlive On
+ KeepAliveTimeout 3
+
+### Workers
 
 ```bash
 sudo ps -y l C apache2 | awk '{x += $8;y += 1} END {print "Apache Memory Usage (MB): "x/1024; print "Average Process Size (MB): "x/((y-1)*1024)}'
@@ -200,33 +203,34 @@ MaxConnectionsPerChild 10000
   - Backlog Queue settingnet.core.somaxconnfrom128to32768
   - Ephemeral Ports settingnet.ipv4.ip_local_port_rangefrom32768 60999to1024 65000
 
-- **Optimizations**
-  - Remove Unused Modules
-    - Save memory by not loading modules that you do not need, including but not limited to mod_php, mod_ruby, mod_perl, etc.
-  - Use this command to list out modulesapache2 -Mit will list all the modules and then we have to stop loading unwanted modules. Please follow this article<https://haydenjames.io/strip-apache-improve-performance-memory-efficiency>
-  - Please check and comparempm_prefork_moduleandmpm_event_module(better than prefork).
-  - Turn HostnameLookups Off
-    - Stop doing expensive DNS lookups. You will rarely ever need them and when you do, you can look them up after the fact.
-  - Do Not set KeepAliveTimeout too high
-    - If you have more requests than apache children, this setting can starve your pool of available clients.
-  - Check for SYMLINKS
-  - Avoid Wildcards in DirectoryIndex
-    - Use a specific DirectoryIndex, i.e. index.html or index.php, not index.
-  - Avoid using hostname in configs
-    - If you have HostnameLookups off, this will prevent you from having to wait for the DNS resolve of the hostnames in your configs, use IP addresses instead.
-  - Use Persistent Connections
-    - Set KeepAlive on and then set KeepAliveTimeout and KeepAliveRequests. KeepAliveTimeout is how long apache will wait for the next request, and KeepAliveRequests is the max number of requests for a client prior to resetting the connection. This will prevent the client from having to reconnect between each request.
-  - Turn off safe_mode for php
-    - It will utilize about 50-70% of your script time checking against these safe directives. Instead configure open_base_dir properly and utilize plugins such as mod_itk.
-  - Don't use threaded mpm with mod_php
-    - Look at using mod_itk, mod_php tends to segfault with threaded mpm.
-  - Flush buffers early for pre render
-    - It takes a relatively long time to create a web page on the backend, flush your buffer prior to page completion to send a partial page to the client, so it can start rendering. A good place to do this is right after the HEAD section -- so that the browser can start fetching other objects.
-  - Use mod_disk_cache NOT mod_mem_cache
-    - mod_mem_cache will not share its cache among different apache processes, which results in high memory usage with little performance gain since on an active server, mod_mem_cache will rarely serve the same page twice in the same apache process.
-  - Configure mod_disk_cache with a flat hierarchy
-    - Ensure that you are using CacheDirLength=2 and CacheDirLevels=1 to ensure htcacheclean will not take forever when cleaning up your cache directory.
-  - Disabling .htaccess
+### Optimizations
+
+- Remove Unused Modules
+- Save memory by not loading modules that you do not need, including but not limited to mod_php, mod_ruby, mod_perl, etc.
+- Use this command to list out modulesapache2 -Mit will list all the modules and then we have to stop loading unwanted modules. Please follow this article<https://haydenjames.io/strip-apache-improve-performance-memory-efficiency>
+- Please check and comparempm_prefork_moduleandmpm_event_module(better than prefork).
+- Turn HostnameLookups Off
+- Stop doing expensive DNS lookups. You will rarely ever need them and when you do, you can look them up after the fact.
+- Do Not set KeepAliveTimeout too high
+- If you have more requests than apache children, this setting can starve your pool of available clients.
+- Check for SYMLINKS
+- Avoid Wildcards in DirectoryIndex
+- Use a specific DirectoryIndex, i.e. index.html or index.php, not index.
+- Avoid using hostname in configs
+- If you have HostnameLookups off, this will prevent you from having to wait for the DNS resolve of the hostnames in your configs, use IP addresses instead.
+- Use Persistent Connections
+- Set KeepAlive on and then set KeepAliveTimeout and KeepAliveRequests. KeepAliveTimeout is how long apache will wait for the next request, and KeepAliveRequests is the max number of requests for a client prior to resetting the connection. This will prevent the client from having to reconnect between each request.
+- Turn off safe_mode for php
+- It will utilize about 50-70% of your script time checking against these safe directives. Instead configure open_base_dir properly and utilize plugins such as mod_itk.
+- Don't use threaded mpm with mod_php
+- Look at using mod_itk, mod_php tends to segfault with threaded mpm.
+- Flush buffers early for pre render
+- It takes a relatively long time to create a web page on the backend, flush your buffer prior to page completion to send a partial page to the client, so it can start rendering. A good place to do this is right after the HEAD section -- so that the browser can start fetching other objects.
+- Use mod_disk_cache NOT mod_mem_cache
+- mod_mem_cache will not share its cache among different apache processes, which results in high memory usage with little performance gain since on an active server, mod_mem_cache will rarely serve the same page twice in the same apache process.
+- Configure mod_disk_cache with a flat hierarchy
+- Ensure that you are using CacheDirLength=2 and CacheDirLevels=1 to ensure htcacheclean will not take forever when cleaning up your cache directory.
+- Disabling .htaccess
 
 htaccess allows setting specific configuration for every single directory in our server root, without restarting. So, traversing all the directories, looking for the .htaccess files, on every request, incurs a performance penalty.
 
@@ -255,7 +259,7 @@ AllowOverride All
 
 ## Configurations
 
-## Log Management
+### Log Management
 
 - Mod_log_config, which lets you define the settings and storage location for your logs.
 - Mod_log_forensicrecords system state immediately before and after each request, so narrowing down suspicious activity becomes much easier.
@@ -263,7 +267,7 @@ AllowOverride All
 
 Apache gathers only two distinct types of logs: Access Log and Error Logs.
 
-## Metrics to monitor
+### Metrics to monitor
 
 - Throughput and latency metrics
   - Request Processing Time
@@ -280,7 +284,7 @@ Apache gathers only two distinct types of logs: Access Log and Error Logs.
 | Asynchronous connections: keep-alive | Number of async connections in keep-alive state (only applicable to event MPM) |
 | Asynchronous connections: closing    | Number of async connections in closing state (only applicable to event MPM)    |
 
-## Worker utilization
+### Worker utilization
 
 A worker is considered "busy" if it is in any of the following states: reading, writing, keep-alive, logging, closing, or gracefully finishing. An "idle" worker is not in any of the busy states;
 
@@ -290,7 +294,7 @@ If, on the other hand, you have very few idle workers at all times, you may see 
 
 IncreasingMaxRequestWorkerscan help reduce the number of queued requests, but be careful not to set it unnecessarily high, as each additional worker thread or process requires additional system resources.
 
-## Keep-alive connections
+### Keep-alive connections
 
 If you see a lot of connections in a keep-alive state (indicated by aKon the mod_status scoreboard), you may be getting many requests from clients that don't make subsequent requests (and therefore do not help you reap the intended benefits of keep-alive connections). If you are not already using the event MPM, try switching to it if possible, because this MPM was designed to process keep-alive connections more efficiently.
 
@@ -298,7 +302,7 @@ If youareusing the event MPM, Apache will expose the count of keep-alive async c
 
 [**Host-level resource metrics**](https://www.datadoghq.com/blog/monitoring-apache-web-server-performance/#host-level-resource-metrics)
 
-## Memory usage
+### Memory usage
 
 Memory is one of the most important resources to monitor when using Apache. If Apache runs out of memory, it will start swapping to disk, which greatly degrades performance. To guard against memory leakage (which is particularly important if you use mod_php), you could setMaxConnectionsPerChildto a high value (e.g. 1,000) rather than leaving it unbounded (by setting it to 0). By default, this directive is unbounded, which means that processes will never be forced to restart. If you do choose to set this directive, make sure not to set it too low, because restarting processes carries some overhead.
 
@@ -312,11 +316,11 @@ If Apache is using too much memory, you should try to switch from prefork to the
 
 Lowering the number of processes created upon startup ([StartServers](https://httpd.apache.org/docs/2.4/mod/mpm_common.html#startservers)), and/or decreasingMaxSpareThreads(maximum allowed number of idle worker threads) can also help lower your memory footprint. Alternatively, you can add more memory to your servers, or [scale horizontally](https://wiki.apache.org/httpd/PerformanceScalingOut) to distribute the load among a higher number of servers.
 
-## CPU utilization
+### CPU utilization
 
 If you see CPU usage continually rising on your Apache servers, this can indicate that you don't have enough resources to serve the current rate of requests. If you are running a database and/or application server on the same host as Apache, you should consider moving them onto separate machines. This gives you more flexibility to [scale each layer of your environment](https://wiki.apache.org/httpd/PerformanceScalingOut)(database, application, and web servers) as needed. The more connections Apache needs to serve, the more threads or processes are created (depending on the MPM in use), each of which requires additional CPU.
 
-## Open file descriptors
+### Open file descriptors
 
 Apache opens a file descriptor for each connection, as well as every log file. If your server has a large number of virtual hosts, you may run into a problem with your system-imposed limit, because Apache generates separate log files for each virtual host.[The documentation](https://httpd.apache.org/docs/2.4/vhosts/fd-limits.html) has some useful guidelines about how you can either raise the limit on your system, or [reduce the total number of logs created](http://httpd.apache.org/docs/current/logs.html#virtualhost), by writing all virtual host logs to the same file, and using a script like [split-logfile](http://httpd.apache.org/docs/current/programs/split-logfile.html) for downstream categorization
 

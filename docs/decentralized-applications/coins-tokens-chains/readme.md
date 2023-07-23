@@ -7,16 +7,19 @@
 - [Wallets](decentralized-applications/coins-tokens-chains/wallets.md)
 - [bitcoin](decentralized-applications/coins-tokens-chains/bitcoin.md)
 - [Ordinals](decentralized-applications/coins-tokens-chains/ordinals.md)
+- [BNB](decentralized-applications/coins-tokens-chains/bnb.md)
 - [Litecoin](decentralized-applications/coins-tokens-chains/litecoin.md)
 - [USD Coin (USDC)](decentralized-applications/coins-tokens-chains/usdc.md)
 - [Tether (USDT)](decentralized-applications/coins-tokens-chains/usdt.md)
 - [cardano](decentralized-applications/coins-tokens-chains/cardano.md)
+- [DAI](decentralized-applications/coins-tokens-chains/dai.md)
 - [dtokens](decentralized-applications/coins-tokens-chains/dtokens.md)
 - [nft-non-fungible-tokens](decentralized-applications/coins-tokens-chains/nft-non-fungible-tokens.md)
 - [vechain](decentralized-applications/coins-tokens-chains/vechain.md)
 - [thorchain](decentralized-applications/coins-tokens-chains/thorchain.md)
 - [uniswap](decentralized-applications/coins-tokens-chains/uniswap.md)
 - [Near Protocol](decentralized-applications/coins-tokens-chains/near-protocol.md)
+- [Celestia](decentralized-applications/coins-tokens-chains/celestia.md)
 
 ## Coins
 
@@ -34,7 +37,7 @@
 
 - Bitcoin
 - Ethereum (Ethereum Chain)
-- BNB (Binance) - [Binance Coin: BNB Any Potential in 2022?! Deep Dive! - YouTube](https://www.youtube.com/watch?v=Jwo4rwik6WM)
+- BNB (Binance)
 - Cardano (ADA)
 - XRP
 - Solana (SOL)
@@ -69,7 +72,7 @@
 - Tether (USDT)
 - USD Coin (USDC)
 - Binance USD (BUSD)
-- Dai - Governed by the MakerDAO and Maker Protocol.
+- Dai
 - Wrapped Bitcoin
 - LEO Token
 - Shiba Inu

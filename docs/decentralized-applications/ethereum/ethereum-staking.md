@@ -77,27 +77,18 @@ Liquid staking service providers solve this liquidity problem by minting a new t
 
 ### Lido Finance
 
-steth - re-base coin
+**steth - re-base coin**
 
-[Lido | Liquid Staking for Digital Assets](https://lido.fi/)
-
-[Track your Ethereum staking rewards | Lido](https://stake.lido.fi/rewards)
-
-[Withdrawals | Lido](https://stake.lido.fi/withdrawals)
-
-[Lido Finance: Liquid Ethereum Staking & LDO Potential!! 💧 - YouTube](https://www.youtube.com/watch?v=VQ_uvak1JPw)
-
-[Lido V2 Mainnet Launch](https://blog.lido.fi/lido-v2-launch/?pk_vid=bf23268f37fe14961687501797ca3ac5)
-
-[Ethereum Mainnet Explorer](https://www.rated.network/?network=mainnet&view=pool&timeWindow=1d&page=1)
-
-[How to STAKE & EARN Ethereum with Lido (Complete Guide) - YouTube](https://www.youtube.com/watch?v=kRdN4MoEuXg)
-
-[Lido Staked ETH (stETH): All You Need To Know | Bybit Learn](https://learn.bybit.com/altcoins/what-is-steth-lido-staked-eth/)
-
-[Lido ETH Staking Tutorial (Lido Finance stETH) - YouTube](https://www.youtube.com/watch?v=5zCCRx6IudY)
-
-[Lido ETH Staking Tutorial (Lido Finance stETH) - YouTube](https://www.youtube.com/watch?v=5zCCRx6IudY)
+- [Lido | Liquid Staking for Digital Assets](https://lido.fi/)
+- [Track your Ethereum staking rewards | Lido](https://stake.lido.fi/rewards)
+- [Withdrawals | Lido](https://stake.lido.fi/withdrawals)
+- [Lido Finance: Liquid Ethereum Staking & LDO Potential!! 💧 - YouTube](https://www.youtube.com/watch?v=VQ_uvak1JPw)
+- [Lido V2 Mainnet Launch](https://blog.lido.fi/lido-v2-launch/?pk_vid=bf23268f37fe14961687501797ca3ac5)
+- [Ethereum Mainnet Explorer](https://www.rated.network/?network=mainnet&view=pool&timeWindow=1d&page=1)
+- [How to STAKE & EARN Ethereum with Lido (Complete Guide) - YouTube](https://www.youtube.com/watch?v=kRdN4MoEuXg)
+- [Lido Staked ETH (stETH): All You Need To Know | Bybit Learn](https://learn.bybit.com/altcoins/what-is-steth-lido-staked-eth/)
+- [Lido ETH Staking Tutorial (Lido Finance stETH) - YouTube](https://www.youtube.com/watch?v=5zCCRx6IudY)
+- [What Happens to My stETH if Lido Goes Bankrupt? - YouTube](https://www.youtube.com/watch?v=9G70VDiv6bU)
 
 ## Links
 

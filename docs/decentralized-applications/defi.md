@@ -1,4 +1,4 @@
-# DeFi Decentralized Finance
+# DeFi
 
 ## Decentralized Finance - DeFi
 

@@ -54,5 +54,8 @@ Deflationary crypto assets usually have a fixed limit on the total coin supply, 
 
 [HOW TO DYOR: My Crypto Research Methods Revealed!! 🤓 - YouTube](https://www.youtube.com/watch?v=HCLWDGYnAzk)
 
+[How To DYOR: 12 Ways To Research Crypto Like A PRO - YouTube](https://www.youtube.com/watch?v=JCoqsabz62I)
+
 [Tokenomics: Difference Between 100x & Getting REKT!! 🤓 - YouTube](https://www.youtube.com/watch?v=ftCaqG7wckg)
 
+[What is Tokenomics? Understanding Crypto Fundamentals - YouTube](https://www.youtube.com/watch?v=NOjST7ny4oY)

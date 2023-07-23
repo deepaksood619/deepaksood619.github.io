@@ -14,80 +14,89 @@ Any changes made to the economy changes atleast 3 more things
 
 ![image](../media/eco-Intro-image2.jpg)
 
-1. Transactions
+### 1. Transactions
 
-    Exchanging money or credit for goods, services or financial assets
+Exchanging money or credit for goods, services or financial assets
 
-2. Market
-3. Government
+### 2. Market
 
-   - Central government (collect taxes and spend money)
-   - Central bank (control the amount of credit and money in the economy)
-       - Influencing interest rates
-       - Printing new money
+### 3. Government
 
-4. Credit is the most important part of economy (biggest and most volatile)
+- Central government (collect taxes and spend money)
+- Central bank (control the amount of credit and money in the economy)
+  - Influencing interest rates
+  - Printing new money
 
-   - Lenders
-   - Borrowers
-       - Creditworthy borrower
-            1. The ability of repay
-            2. Collateral if he can't
+### 4. Credit is the most important part of economy (biggest and most volatile)
 
-5. One person's spending is another's person income
+- Lenders
+- Borrowers
+  - Creditworthy borrower
+  1. The ability of repay
+  2. Collateral if he can't
 
-6. Credit is bad if it increases overspending on luxury items, it is good if it is used to increase productivity.
+### 5. One person's spending is another's person income
 
-7. Debt swings
+### 6. Credit is bad if it increases overspending on luxury items, it is good if it is used to increase productivity
 
-   - **Short term debt cycle: 5-8 years**
+### 7. Debt swings
 
-    Average business cycle -- the time between **recessions** -- is about **eight** years.
+#### Short term debt cycle: 5-8 years
 
-   - **Long term debt cycle: 75-100 years**
+Average business cycle -- the time between **recessions** -- is about **eight** years.
 
-      - Long term debt peak
-      - Deleveraging
+#### - Long term debt cycle: 75-100 years
 
-    Less spending -> Less income -> Less wealth -> Less credit -> Less borrowing
+- Long term debt peak
+- Deleveraging
 
-    Solving deleveraging
+Less spending -> Less income -> Less wealth -> Less credit -> Less borrowing
 
-      - Cut spending (Austerity)
-      - Reduce debt (Debt restructuring)
-          - Central government deficit (budget deficit)
-      - Redistribute wealth (from the haves to the have nots)
-      - Print money (Inflationary and stimulative)
-          - Central bank prints money to buy financial assets and government bonds
-      - Beautiful deleveraging
+Solving deleveraging
 
-8. Asset
-9. Liability
-10. Inflation
-    - Packaged Inflation / Shrinkflation / Shadow Inflation
-    - Stagflation
+- Cut spending (Austerity)
+- Reduce debt (Debt restructuring)
+  - Central government deficit (budget deficit)
+- Redistribute wealth (from the haves to the have nots)
+- Print money (Inflationary and stimulative)
+  - Central bank prints money to buy financial assets and government bonds
+- Beautiful deleveraging
 
-    <https://finshots.in/archive/secret-inflation>
+### 8. Asset
 
-    Why Constant Inflation is Bad
+### 9. Liability
 
-    If people start thinking that the price rise could persist indefinitely, then, they'll panic. They'll ask for a pay rise. Landlords will start raising rent indiscriminately. Businesses will bump up the final price of everyday items like milk and bread.
+### 10. Inflation
 
-    Ergo, that expectation and consequent behaviour alone could trigger further inflation.
+- Packaged Inflation / Shrinkflation / Shadow Inflation
+- Stagflation
 
-    It's a vicious cycle.
+<https://finshots.in/archive/secret-inflation>
 
-11. Deflation
-12. Recession
-13. Expansion
-14. Debt burden
+Why Constant Inflation is Bad
 
-    - High debt burden
-    - Low debt burden
+If people start thinking that the price rise could persist indefinitely, then, they'll panic. They'll ask for a pay rise. Landlords will start raising rent indiscriminately. Businesses will bump up the final price of everyday items like milk and bread.
 
-15. Depression
-16. Reflation
-17. Lost decade
+Ergo, that expectation and consequent behaviour alone could trigger further inflation.
+
+It's a vicious cycle.
+
+### 11. Deflation
+
+### 12. Recession
+
+### 13. Expansion
+
+### 14. Debt burden
+
+- High debt burden
+- Low debt burden
+
+### 15. Depression
+
+### 16. Reflation
+
+### 17. Lost decade
 
 Book - <https://www.principles.com/big-debt-crises> Free pdf
 

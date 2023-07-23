@@ -44,27 +44,27 @@ Configure the credential spec for managed service account.
 
 Specify configuration related to the deployment and running of services. This only takes effect when deploying to a [swarm](https://docs.docker.com/engine/swarm/) with [docker stack deploy](https://docs.docker.com/engine/reference/commandline/stack_deploy/), and is ignored bydocker-compose upanddocker-compose run.
 
-1. endpoint_mode (vip / dnsrr)
+### 1. endpoint_mode (vip / dnsrr)
 
 Specify a service discovery method for external clients connecting to a swarm.
 
-2. lables
+### 2. labels
 
 Specify labels for the service. These labels are *only*set on the service, and *not*on any containers for the service.
 
-3. mode
+### 3. mode
 
 Eitherglobal(exactly one container per swarm node) orreplicated(a specified number of containers). The default isreplicated.
 
-4. placement
+### 4. placement
 
 Specify placement of constraints and preferences.
 
-5. replicas
+### 5. replicas
 
 If the service isreplicated(which is the default), specify the number of containers that should be running at any given time.
 
-6. resources
+### 6. resources
 
 Configures resource constraints.
 
@@ -77,11 +77,11 @@ reservations:
 cpus: '0.25'
 memory: 20M
 
-7. Out Of Memory Exceptions (OOME)
+### 7. Out Of Memory Exceptions (OOME)
 
 If your services or containers attempt to use more memory than the system has available, you may experience an Out Of Memory Exception (OOME) and a container, or the Docker daemon, might be killed by the kernel OOM killer.
 
-8. restart_policy
+### 8. restart_policy
 
 Configures if and how to restart containers when they exit. Replaces [restart](https://docs.docker.com/compose/compose-file/compose-file-v2/#orig-resources).
 
@@ -90,9 +90,9 @@ Configures if and how to restart containers when they exit. Replaces [restart](h
 - max_attempts
 - window
 
-9. rollback_config
+### 9. rollback_config
 
-10. update_config
+### 10. update_config
 
 ## Others
 

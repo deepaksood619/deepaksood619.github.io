@@ -94,7 +94,3 @@ Below are some of the key features of Hyperledger Fabric and what differentiates
 - [How long would it take to brute force a bitcoin wallet seed phrase with one word missing? I know there are 2048 options, but how long wou...](https://www.quora.com/How-long-would-it-take-to-brute-force-a-bitcoin-wallet-seed-phrase-with-one-word-missing-I-know-there-are-2048-options-but-how-long-would-it-take-for-a-wallet-to-query-the-blockchain-for-each-one)
 - [Implement a brute force algorithm to find three missing word from BIP39 seed](https://stackoverflow.com/questions/67416082/implement-a-brute-force-algorithm-to-find-three-missing-word-from-bip39-seed)
 - [Getting Title at 18:21](https://github.com/3rdIteration/btcrecover)
-
-## Learning / News
-
-- [Cryptocurrency Newsletter | Crypto Newsletter Subscription | CryptoWeekly](https://cryptoweekly.co/newsletter)

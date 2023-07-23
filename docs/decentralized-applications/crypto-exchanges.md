@@ -36,3 +36,8 @@ The Top Three Highest Ranking Crypto Websites on Alexa
 - Bitfinex (Exchange)
 - **Kraken** - [https://coinmarketcap.com/exchanges/kraken/](https://coinmarketcap.com/exchanges/kraken/)
 - [Buy, Sell & Trade Bitcoin & Other Crypto Currencies with Gemini's Platform | Gemini](https://www.gemini.com/)
+
+## Others
+
+- [Arkham](https://platform.arkhamintelligence.com/)
+- [KyberSwap - Trading Smart](https://kyberswap.com/swap/polygon/wsteth-to-stmatic)

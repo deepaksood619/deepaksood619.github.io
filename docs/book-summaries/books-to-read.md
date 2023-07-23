@@ -207,7 +207,7 @@ TheBhagavad Gitais the best known and most famous of Hindu texts, with a unique 
 
 <https://en.wikipedia.org/wiki/Bhagavad_Gita>
 
-I am become death, destroyer of worlds. -- Bhagavad Gita
+Now, I am become death, destroyer of worlds. -- Bhagavad Gita
 
 ## Others
 

@@ -8,31 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "440aca05937a9f0d",
+            "id": "c1e301c8926bfd7d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "decentralized-applications/on-chain-analytics.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ddb6a7b79cc00d38",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "decentralized-applications/tokenomics.md",
+                "file": "devops/docker/service-configuration-reference.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -61,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tokenomics",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -94,7 +81,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -114,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "decentralized-applications/tokenomics.md",
+                "file": "devops/docker/service-configuration-reference.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "decentralized-applications/tokenomics.md",
+                "file": "devops/docker/service-configuration-reference.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "decentralized-applications/tokenomics.md"
+                "file": "devops/docker/service-configuration-reference.md"
               }
             }
           },
@@ -202,34 +190,35 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "978fd2faf621af33",
+  "active": "c1e301c8926bfd7d",
   "lastOpenFiles": [
-    "decentralized-applications/readme.md",
-    "decentralized-applications/tokenomics.md",
-    "decentralized-applications/on-chain-analytics.md",
-    "decentralized-applications/coins-tokens-chains/coin-token-intro.md",
-    "decentralized-applications/crypto-investing.md",
-    "decentralized-applications/coins-tokens-chains/readme.md",
-    "decentralized-applications/ethereum/ethereum-staking.md",
-    "decentralized-applications/defi.md",
+    "office/todo/personal-todo.md",
+    "economics/intro.md",
+    "office/cakedefi/malaysia.md",
     "office/keep/deepak-banks.md",
-    "readme.md",
-    "decentralized-applications/coins-tokens-chains/cardano.md",
-    "knowledge/language/grammer-vocabulary.md",
-    "computer-science/distributed-system/vocabulary.md",
-    "office/cakedefi/todo.md",
-    "office/personality/emails-templates-general.md",
-    "decentralized-applications/ethereum/40-proof-of-stake.md",
-    "decentralized-applications/ethereum/readme.md",
-    "decentralized-applications/ethereum/06-transactions.md",
-    "decentralized-applications/consensus-protocols.md",
-    "computer-science/distributed-system/consensus-protocols.md",
-    "office/cakedefi/product.md",
-    "office/keep/deepak-cryptos.md",
-    "office/keep/readme.md",
-    "knowledge/others/news-problems.md",
+    "decentralized-applications/coins-tokens-chains/readme.md",
+    "decentralized-applications/coins-tokens-chains/ordinals.md",
+    "decentralized-applications/coins-tokens-chains/dai.md",
+    "management/business/business-case-studies.md",
+    "knowledge/applied-sciences/others-power-energy.md",
+    "computer-science/security/ethical-hacking.md",
+    "decentralized-applications/ethereum/ethereum-staking.md",
+    "economics/nbfc-banking-terms.md",
+    "decentralized-applications/tokenomics.md",
+    "decentralized-applications/coins-tokens-chains/bnb.md",
+    "about-me/ideas/startups-ideas-saas.md",
+    "about-me/ideas/thoughts-future-ideas-vision-prediction.md",
+    "about-me/ideas/startup-quotes.md",
+    "about-me/ideas/readme.md",
+    "about-me/ideas/others.md",
+    "office/stashfin-credentials/external-tech.md",
+    "office/stashfin-credentials/internal-tech.md",
+    "decentralized-applications/crypto-investing.md",
     "decentralized-applications/crypto-news.md",
-    "office/personality/new-home-place-house.md",
+    "decentralized-applications/tools.md",
+    "decentralized-applications/defi-apps.md",
+    "decentralized-applications/on-chain-analytics.md",
+    "media/Pasted image 20230721133751.png",
     "media/Pasted image 20230719181140.png",
     "media/Pasted image 20230718133117.png",
     "media/Pasted image 20230716224959.png",
@@ -241,7 +230,6 @@
     "media/Pasted image 20230710130750.png",
     "media/Pasted image 20230710130702.png",
     "media/Pasted image 20230710130538.png",
-    "media/Screenshot 2023-06-28 at 11.17.15 PM.png",
     "office.zip",
     "office/stashfin-credentials",
     "management/people-management",

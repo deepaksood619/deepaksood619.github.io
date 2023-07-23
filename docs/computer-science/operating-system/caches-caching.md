@@ -29,35 +29,37 @@ Typical use cases are in-memory caches for database, slowly retrievable disk-bas
 ## WHAT TO CACHE?
 
 A good starting point to find out what to cache in your application is to imagine everything where multiple executions of some request result in the same outcome. This can be database queries, HTML fragments, complete web pages or an output of a heavy computation.
+
 It also makes sense to store any kind of language related data geographically local to the content consumer. Common elements of this type of data is translations, user data for people living in a given region. Only one rule applies: data should not change too often or fast but should be read very frequently.
 
 ## WHAT NOT TO CACHE?
 
 A common misconception is if you cache everything, you'll automatically benefit from it. What often works in the first place delivers another problem during high data peaks.
 Data that changes often is generally not very good for caches. Whenever data changes, the cache must be invalidated and, depending on the chosen caching strategy, this can be a costly operation. Imagine a caching system that is located around the world and your data change with a rate of more than 100 changes per second. The benefit of having those data cached will be nullified by the fact that all caches need to invalidate and maybe re-retrieve that changed data record for every single change.
+
 Another point to think about is to not cache data that is fast to retrieve anyways. Caching those elements will introduce an additional round-trip while filling the cache, requiring additional memory. The benefit might not show the expected results or be worth the overhead of bringing in another layer into the architecture.
 
 ## Cache Types
 
-1. **HTTP Cache**
+### HTTP Cache
 
-    A HTTP Cache is mostly used in browsers. This kind of cache keeps information about the last modification date of a resource or a content hash to identify changes to its content. Web servers are expected to deliver useful information about the state of an element to prevent retrieval of an already cached element from the server.
+A HTTP Cache is mostly used in browsers. This kind of cache keeps information about the last modification date of a resource or a content hash to identify changes to its content. Web servers are expected to deliver useful information about the state of an element to prevent retrieval of an already cached element from the server.
 
-    This kind of cache is used to reduce network traffic, minimize cost and offer the user an instant experience for multiple visits.
+This kind of cache is used to reduce network traffic, minimize cost and offer the user an instant experience for multiple visits.
 
-2. **Fragment Cache**
+### Fragment Cache
 
-    A Fragment Cache caches parts of a response or result. This could be a database query outcome or a part of an HTML page. Whatever it is, it should not change often.
+A Fragment Cache caches parts of a response or result. This could be a database query outcome or a part of an HTML page. Whatever it is, it should not change often.
 
-    A common use case for a Fragment Cache is a web page known to contain user specific and user unspecific content. The user-independent content can be cached as a fragment and augmented with user specific content on retrieval. This process is called **Content Enrichment.**
+A common use case for a Fragment Cache is a web page known to contain user specific and user unspecific content. The user-independent content can be cached as a fragment and augmented with user specific content on retrieval. This process is called **Content Enrichment.**
 
-    This caching type is used to reduce operation cost and hardware by providing the same throughput with less computational overhead.
+This caching type is used to reduce operation cost and hardware by providing the same throughput with less computational overhead.
 
-3. **Object Cache**
+### Object Cache
 
-    An Object Cache stores any sort of objects that otherwise need to be read from other data representations. A cache of this type can be used in front of a database to speed up queries and store the resulting objects (e.g. Object Relational Mapping, ORM), or store un-marshalled results of XML, JSON or other general data representations transformed into objects.
+An Object Cache stores any sort of objects that otherwise need to be read from other data representations. A cache of this type can be used in front of a database to speed up queries and store the resulting objects (e.g. Object Relational Mapping, ORM), or store un-marshalled results of XML, JSON or other general data representations transformed into objects.
 
-    These caches often act as a proxy between some external resource, like a database or webservice, and they speed up transformation processes or prevent additional network round-trips between the consumer and producer systems.
+These caches often act as a proxy between some external resource, like a database or webservice, and they speed up transformation processes or prevent additional network round-trips between the consumer and producer systems.
 
 [Cache Access Patterns](cache-access-patterns)
 
@@ -68,33 +70,36 @@ Another point to think about is to not cache data that is fast to retrieve anywa
 ## Locality of reference / Cache locality / Principle of locality
 
 It is the tendency of a processor to access the same set of memory locations repetitively over a short period of time.
+
 Locality is a type of [predictable](https://en.wikipedia.org/wiki/Predictability) behavior that occurs in computer systems. Systems that exhibit stronglocality of referenceare great candidates for performance optimization through the use of techniques such as the [caching](https://en.wikipedia.org/wiki/CPU_cache), [prefetching](https://en.wikipedia.org/wiki/Prefetch_instruction) for memory and advanced [branch predictors](https://en.wikipedia.org/wiki/Branch_predictor) at the [pipelining](https://en.wikipedia.org/wiki/Pipeline_(computing)) stage of a processor core.
 
-## Types of locality
+### Types of locality
 
-- **Temporal locality**
+#### Temporal locality
 
 If at one point a particular memory location is referenced, then it is likely that the same location will be referenced again in the near future. There is a temporal proximity between the adjacent references to the same memory location. In this case it is common to make efforts to store a copy of the referenced data in faster memory storage, to reduce the latency of subsequent references. Temporal locality is a special case of spatial locality (see below), namely when the prospective location is identical to the present location.
 
-- **Spatial locality**
+#### Spatial locality
 
 If a particular storage location is referenced at a particular time, then it is likely that nearby memory locations will be referenced in the near future. In this case it is common to attempt to guess the size and shape of the area around the current reference for which it is worthwhile to prepare faster access for subsequent reference.
 
-- **Memory locality**
+#### Memory locality
 
 Spatial locality explicitly relating to [memory](https://en.wikipedia.org/wiki/Computer_memory).
 
-- **[Branch](https://en.wikipedia.org/wiki/Branch_(computer_science)) locality**
+#### [Branch](https://en.wikipedia.org/wiki/Branch_(computer_science)) locality
 
 If there are only a few possible alternatives for the prospective part of the path in the spatial-temporal coordinate space. This is the case when an instruction loop has a simple structure, or the possible outcome of a small system of conditional branching instructions is restricted to a small set of possibilities. Branch locality is typically not a spatial locality since the few possibilities can be located far away from each other.
 
-- **Equidistant locality**
+#### Equidistant locality
 
 It is halfway between the spatial locality and the branch locality. Consider a loop accessing locations in an equidistant pattern, i.e., the path in the spatial-temporal coordinate space is a dotted line. In this case, a simple linear function can predict which location will be accessed in the near future.
+
 In order to benefit from the very frequently occurring temporal and spatial locality, most of the information storage systems are [hierarchical](https://en.wikipedia.org/wiki/Computer_data_storage#Hierarchy_of_storage). The equidistant locality is usually supported by the diverse nontrivial increment instructions of the processors. For branch locality, the contemporary processors have sophisticated branch predictors, and on the basis of this prediction the memory manager of the processor tries to collect and preprocess the data of the plausible alternatives.
+
 <https://en.wikipedia.org/wiki/Locality_of_reference>
 
-<https://www.geeksforgeeks.org/locality-of-reference-and-cache-operation-in-cache-memory>ƒ
+<https://www.geeksforgeeks.org/locality-of-reference-and-cache-operation-in-cache-memory>
 
 <https://www.geeksforgeeks.org/computer-organization-locality-and-cache-friendly-code>
 
@@ -111,7 +116,9 @@ Typically, a cache-oblivious algorithm works by a [recursive](https://en.wikiped
 ## HTTP ETag (Entity tag)
 
 The **ETag** or **entity tag** is part of [HTTP](https://en.wikipedia.org/wiki/Hypertext_Transfer_Protocol), the protocol for the [World Wide Web](https://en.wikipedia.org/wiki/World_Wide_Web). It is one of several mechanisms that HTTP provides for [Web cache](https://en.wikipedia.org/wiki/Web_cache) validation, which allows a client to make conditional requests. This allows caches to be more efficient and saves bandwidth, as a Web server does not need to send a full response if the content has not changed. ETags can also be used for [optimistic concurrency control](https://en.wikipedia.org/wiki/Optimistic_concurrency_control), as a way to help prevent simultaneous updates of a resource from overwriting each other.
+
 An ETag is an opaque identifier assigned by a Web server to a specific version of a resource found at a [URL](https://en.wikipedia.org/wiki/Uniform_Resource_Locator). If the resource representation at that URL ever changes, a new and different ETag is assigned. Used in this manner, ETags are similar to [fingerprints](https://en.wikipedia.org/wiki/Fingerprint_(computing)) and can quickly be compared to determine whether two representations of a resource are the same.
+
 <https://en.wikipedia.org/wiki/HTTP_ETag>
 
 ## Others

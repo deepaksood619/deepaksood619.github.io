@@ -93,3 +93,7 @@ On May 7, the price of the then-$18-billion algorithmic stablecoin terraUSD (UST
 [Commercial Real Estate CRASH is Coming!! Why I'm Worried! - YouTube](https://www.youtube.com/watch?v=PziydUm1ees)
 
 [Preparing For a BEAR Market!! Complete 101 Guide!! 🐻 - YouTube](https://www.youtube.com/watch?v=Vbjb-mGSMXo)
+
+## Learning
+
+- [Cryptocurrency Newsletter | Crypto Newsletter Subscription | CryptoWeekly](https://cryptoweekly.co/newsletter)

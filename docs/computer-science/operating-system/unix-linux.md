@@ -196,16 +196,16 @@ When 2 programs use the same library (like openssl) are there 2 copies of that l
 Control groups, usually referred to as cgroups, are a Linux kernel feature which allow processes to be organized into hierarchical groups whose usage of various types of resources can then be limited and monitored. The kernel's cgroup interface is provided through a pseudo-filesystem called cgroupfs. Grouping is implemented in the core cgroup kernel code, while resource tracking and limits are implemented in a set of per-resource-type subsystems (memory, CPU, and so on).
 Functions
 
-- **Resource limiting:**a group can be configured not to exceed a specified memory limit or use more than the desired amount of processors or be limited to specific peripheral devices.
-- **Prioritization:**one or more groups may be configured to utilize fewer or more CPUs or disk I/O throughput.
-- **Accounting:**a group's resource usage is monitored and measured.
-- **Control:**groups of processes can be frozen or stopped and restarted.
+- **Resource limiting:** a group can be configured not to exceed a specified memory limit or use more than the desired amount of processors or be limited to specific peripheral devices.
+- **Prioritization:** one or more groups may be configured to utilize fewer or more CPUs or disk I/O throughput.
+- **Accounting:** a group's resource usage is monitored and measured.
+- **Control:** groups of processes can be frozen or stopped and restarted.
 
 <https://itnext.io/breaking-down-containers-part-0-system-architecture-37afe0e51770>
 
 ## POSIX
 
-ThePortable Operating System Interface(POSIX)is a family of [standards](https://en.wikipedia.org/wiki/Standardization) specified by the [IEEE Computer Society](https://en.wikipedia.org/wiki/IEEE_Computer_Society) for maintaining compatibility between [operating systems](https://en.wikipedia.org/wiki/Operating_system). POSIX defines the [application programming interface](https://en.wikipedia.org/wiki/Application_programming_interface)(API), along with command line [shells](https://en.wikipedia.org/wiki/Unix_shell) and utility interfaces, for software compatibility with variants of [Unix](https://en.wikipedia.org/wiki/Unix) and other operating systems.
+The Portable Operating System Interface (POSIX)is a family of [standards](https://en.wikipedia.org/wiki/Standardization) specified by the [IEEE Computer Society](https://en.wikipedia.org/wiki/IEEE_Computer_Society) for maintaining compatibility between [operating systems](https://en.wikipedia.org/wiki/Operating_system). POSIX defines the [application programming interface](https://en.wikipedia.org/wiki/Application_programming_interface)(API), along with command line [shells](https://en.wikipedia.org/wiki/Unix_shell) and utility interfaces, for software compatibility with variants of [Unix](https://en.wikipedia.org/wiki/Unix) and other operating systems.
 
 <https://en.wikipedia.org/wiki/POSIX>
 
@@ -224,7 +224,7 @@ ThePortable Operating System Interface(POSIX)is a family of [standards](https://
 - GlassFish server by sunmicrosystems
 - Rasbian OS
 
-## Debian Family
+### Debian Family
 
 The Debian distribution is the upstream for several other distributions, including Ubuntu, Linux Mint and others. Debian is a pure open source project, and focuses on a key aspect: stability. It also provides the largest and most complete software repository to its users.
 
@@ -236,7 +236,7 @@ Ubuntu aims at providing a good compromise between long term stability and ease 
 - Current material based upon the latest release of Ubuntu and should work well with later versions
 - x86 and x86-64 - Long Term Release (LTS)
 
-## Red Hat / Fedora Family
+### Red Hat / Fedora Family
 
 Fedora is the community distribution that forms the basis of Red Hat Enterprise Linux, CentOS, Scientific Linux and Oracle Linux. Fedora contains significantly more software than Red Hat's enterprise version. One reason for this is that a diverse community is involved in building Fedora; it is not just one company
 
@@ -248,7 +248,7 @@ The Fedora community produces new versions every six months or so. For this reas
 - Long release cycle; targets enterprise server environments
 - Upstream for CentOS, Scientific Linux and Oracle Linux
 
-## OpenSUSE Family
+### OpenSUSE Family
 
 The relationship between openSUSE and SUSE Linux Enterprise Server is similar to the one we just described between Fedora and Red Hat Enterprise Linux. In this case, however, we decided to use openSUSE as the reference distribution for the openSUSE family, due to the difficulty of obtaining a free version of SUSE Linux Enterprise Server. The two products are extremely similar and material that covers openSUSE can typically be applied to SUSE Linux Enterprise Server with no problem:
 
@@ -258,24 +258,24 @@ The relationship between openSUSE and SUSE Linux Enterprise Server is similar to
 - x86 and x86-64
 - Upstream for SUSE Linux Enterprise Server (SLES)
 
-## New Distribution Similarities
+### systemd (system startup and service management)
 
-Current treds and changes to the distributions have reduced some of the differences between the distributions
+systemd is used by the most common distributions, replacing the SysVinit and Upstart packages. Replaces service and chkconfig commands
 
-- **systemd** (system startup and service management)
+### journald (manages system logs)
 
-    systemd is used by the most common distributions, replacing the SysVinit and Upstart packages. Replaces service and chkconfig commands
+journald is a systemd service that collects and stores logging data. It creates and maintains structured, indexed journals based on loggin information that is received from a variety of sources. Depeding on the distribution, text-based system logs may be replaced
 
-- **journald** (manages system logs)
+### firewalld (firewall management daemon)
 
-    journald is a systemd service that collects and stores logging data. It creates and maintains structured, indexed journals based on loggin information that is received from a variety of sources. Depeding on the distribution, text-based system logs may be replaced
+firewalld provides a dynamically managed firewall with support for network/firewall zones to define the trust level of network connections or interfaces. It has support for IPv4, IPv6 firewall settings and Ethernet bridges. This replaces the iptables configurations
 
-- **firewalld** (firewall management daemon)
+### ip (network display and configuration tool)
 
-    firewalld provides a dynamically managed firewall with support for network/firewall zones to define the trust level of network connections or interfaces. It has support for IPv4, IPv6 firewall settings and Ethernet bridges. This replaces the iptables configurations
-
-- **ip** (network display and configuration tool)
-
-    The ip program is part of the net-tools package, and is designed to be a replacement for the ifconfig command. The ip command will show or manipulate routing, network devices, routing information and tunnels
+The ip program is part of the net-tools package, and is designed to be a replacement for the ifconfig command. The ip command will show or manipulate routing, network devices, routing information and tunnels
 
 <https://www.freecodecamp.org/news/securing-linux-servers-with-se-linux>
+
+## Links
+
+[Lightweight Linux Distributions For Older PCs](https://www.freecodecamp.org/news/lightweight-linux-distributions-for-your-pc/)

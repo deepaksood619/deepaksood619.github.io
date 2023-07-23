@@ -142,6 +142,18 @@ The term fixed income is also applied to a person's income that does not vary ma
 
 - Debentures (good option)
 
+## PPF (Public Provident Fund)
+
+After 15 years
+
+- Close account immediately after 15 years and withdraw the money (tax-free), can open a new account after that
+- Extend in a block of 5 years without any contributions (keep getting interest, default)
+  - Withdraw any amount
+  - One withdrawal per financial year
+- Extend in a block of 5 years with contributions (submit "Form H" within 1 year)
+  - Withdraw max of 60%
+  - One withdrawal per financial year any amount under 60% limit combined
+
 ## EPF Employee Provident Fund
 
 [How to Get or Withdraw EPF Money After Resignation](https://www.bankbazaar.com/saving-schemes/epf-money-after-resignation.html)

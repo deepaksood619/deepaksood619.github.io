@@ -177,13 +177,15 @@ The way Hierarchy of Control can be made clearly apparent is generally by groupi
 
 ## Information Architecture (IA)
 
-<https://www.toptal.com/designers/ia/guide-to-information-architecture>
+[The Comprehensive Guide to Information Architecture - Toptal](https://www.toptal.com/designers/ia/guide-to-information-architecture)
+
+[What is Information Architecture? How to Create Userflows and Sitemaps for UX Design](https://www.freecodecamp.org/news/information-architecture-userflow-sitemap/)
 
 An information architecture is a document that provides an operational map to how a product acts and functions work for users. It's akin to a blueprint for digital products, and it displays pages, content, interactions, and behaviors for the entire product.
 
 Information architecture (IA) involves the way a website/app is structured and how the content is organized. The goal is to help users find information and complete tasks. "In other words, information architecture is the creation of a structure for a website, application, or another project, that allows us to understand where we are as users, and where the information we want is in relation to our position. Information architecture results in the creation of site maps, hierarchies, categorizations, navigation, and metadata. When a content strategist begins separating content and dividing it into categories, she is practicing information architecture. When a designer sketches a top level menu to help users understand where they are on a site, he is also practicing information architecture"- from [uxbooth.com](http://www.uxbooth.com/articles/complete-beginners-guide-to-information-architecture/)
 
-## Some qualifications for IA
+### Some qualifications for IA
 
 - Experience documenting complex digital properties (websites, mobile apps, products, and system services)
 - Extremely detailed documentation, ability to find discrepancies, cracks, etc. amongst complex site documentation
@@ -215,7 +217,7 @@ Information architecture (IA) involves the way a website/app is structured and h
 
 ![image](../../media/UI-UX-IxD-Design-Frontend-image5.jpg)
 
-## Elevators
+### Elevators
 
 - Put up mirrors
 - Install hand sanitizers
@@ -245,22 +247,13 @@ The five phases of the Design Thinking Process are:
 ## Tools
 
 - draw.io / drawio
-
-Availability zone
-
-ec2 machine
-
 - Gliffy
 - Mermaid
 - PlantUML
-- Lucid Charts (lucidchart)
-  - 60 objects contraint
+- Lucid Charts (lucidchart) - 60 objects contraint
 - coggle.it
 - moqups (Online Mockup, Wireframe, UI prototyping tool)
-- figma
-
-<https://www.figma.com>
-
+- figma - <https://www.figma.com>
 - <https://balsamiq.com>
 - Mural
 

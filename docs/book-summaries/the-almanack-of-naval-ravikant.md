@@ -29,3 +29,35 @@ A guide to wealth and happiness
   - Cutting down on alcohol, caffeine and sugar will keep your mood more stable. So will avoiding social media
   - Regular exercise is a good habit for both your body and your mind
 - Actionable advice - Lean into short-term pain (ex - working out)
+
+## Wealth / Money
+
+### Myth
+
+1. Money is not everything
+2. Money does not give happiness
+3. Money changes people
+4. Money gives stress
+5. Money makes people distant from relations
+6. Kids will get spoiled if we give money
+7. Money brings respect
+
+### Mythbusters
+
+1. Money is not everything but everything requires money
+2. Money does not give happiness, but poverty also does not guarantee peace
+3. Money does not change people, it shows people by **amplifying** their character
+1. If you have love for bikes, you will buy costlier bikes
+2. If you have love for donation, you will donate more
+3. Your arrogance will be amplified if you were arrogant
+4. Money does not give stress, the way we earn money can cause stress
+5. Money distant people is inability to handle money or relations
+6. Kids will learn accountability if we give them money
+7. Proper CONDUCT with money brings respect
+
+### Bonus
+
+- Lakshmi Mata Aarti - Sab kuch sambhav ho jata man nahi ghabrata
+- Nepotism is normal, don't fight it
+
+[Seven Wrong Mindset About Money Which You Need To Crush - YouTube](https://www.youtube.com/watch?v=9ZM3hGgk8_8)

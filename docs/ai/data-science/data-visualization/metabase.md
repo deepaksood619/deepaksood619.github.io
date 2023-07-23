@@ -58,3 +58,7 @@ Parameters can be signed or unsigned.
 [Dashboard filters](https://www.metabase.com/docs/latest/dashboards/filters)
 
 [SQL parameters](https://www.metabase.com/docs/latest/questions/native-editor/sql-parameters)
+
+## Links
+
+[Embedding Metabase: Setting up customer-facing analytics - YouTube](https://www.youtube.com/watch?v=cwYXnUHA5HM)

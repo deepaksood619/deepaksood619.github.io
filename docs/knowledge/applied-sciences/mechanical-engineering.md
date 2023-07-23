@@ -227,3 +227,5 @@ Isotropic refers to the properties of a material which is independent of the dir
 [How does an Elevator work? - YouTube](https://www.youtube.com/watch?v=rKp4pe92ljg)
 
 [Lessons from a Can Opener - YouTube](https://www.youtube.com/watch?v=i_mLxyIXpSY)
+
+[This goofy fridge has a really clever design. It's also kinda terrible. - YouTube](https://www.youtube.com/watch?v=8PTjPzw9VhY)

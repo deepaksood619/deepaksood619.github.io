@@ -194,7 +194,7 @@ Spend money while feeling good
 - Charities with your time too.
 - Family friendly
 
-Donee/recepient - Register using Aadhaar card, basic salary with close connections salary is pulled, if low, person is added to donation list with his/her item that he needs, with purpose of use.
+Done/recipient - Register using Aadhaar card, basic salary with close connections salary is pulled, if low, person is added to donation list with his/her item that he needs, with purpose of use.
 
 Donor - finds a person and donate the required item or buy for him/her
 

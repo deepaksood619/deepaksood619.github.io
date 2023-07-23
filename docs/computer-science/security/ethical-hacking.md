@@ -10,11 +10,11 @@
 
 <https://github.com/Hack-with-Github/Awesome-Hacking>
 
-## CISSP is a popular cyber security certification. Risk Management, Security Architecture, Network Security, Identity & Access Management, SecOps, and more
+## CISSP
+
+CISSP is a popular cyber security certification. Risk Management, Security Architecture, Network Security, Identity & Access Management, SecOps, and more
 
 <https://www.freecodecamp.org/news/get-ready-to-pass-cissp-exam>
-
-## Use Cases and Abuse Cases
 
 ## White Hat hackers
 
@@ -30,32 +30,18 @@ A black hat hacker has no qualms about selling vulnerabilities and exploits to t
 
 ## Websites
 
-<https://www.quora.com/Are-there-any-website-that-I-can-hack-legally-for-practice>
-
-[**https://hack.me/**](https://hack.me/)
-
-<https://hackthissite.org>
-
-<https://w3challs.com>
-
-<https://dst.com.ng/15-vulnerable-sites-legally-practice-hacking-skills>
-
-[**https://tryhackme.com/**](https://tryhackme.com/)
-
-<https://haveibeenpwned.com>
+- <https://www.quora.com/Are-there-any-website-that-I-can-hack-legally-for-practice>
+- [**https://hack.me/**](https://hack.me/)
+- <https://hackthissite.org>
+- <https://w3challs.com>
+- <https://dst.com.ng/15-vulnerable-sites-legally-practice-hacking-skills>
+- [**https://tryhackme.com/**](https://tryhackme.com/)
+- <https://haveibeenpwned.com>
+- Damn Vulnerable Web Application (DVWA) - <http://www.dvwa.co.uk>
 
 ## Tools
 
-## Festin
-
-FestInis a tool for discovering open S3 Buckets starting from a domains.
-<https://github.com/cr0hn/festin>
-
-## Practice / Learning
-
-## Damn Vulnerable Web Application (DVWA)
-
-<http://www.dvwa.co.uk>
+- Festin - FestIn is a tool for discovering open S3 Buckets starting from a domains. - <https://github.com/cr0hn/festin>
 
 ## Digital Forensics
 
@@ -91,3 +77,8 @@ FestInis a tool for discovering open S3 Buckets starting from a domains.
 ## Master data management (MDM)
 
 Master data management (MDM) is a technology-enabled discipline in which business and IT work together to ensure the uniformity, accuracy, stewardship, semantic consistency and accountability of the enterprise's official shared master data assets. Master data is the consistent and uniform set of identifiers and extended attributes that describes the core entities of the enterprise including customers, prospects, citizens, suppliers, sites, hierarchies and chart of accounts.
+
+## Bug bounty
+
+- [Immunefi](https://immunefi.com/)
+- [The Lido Bug Bounty Program](https://lido.fi/bug-bounty)

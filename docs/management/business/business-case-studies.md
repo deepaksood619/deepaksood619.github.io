@@ -360,3 +360,7 @@ Marketing tactic used, light the agarbatti in-front of store and left for 2 days
 [Western Union: Banking & Finance for the Poor - YouTube](https://www.youtube.com/watch?v=29nSycLw_5A)
 
 [How Delhivery DISRUPTED India’s 1800 Crore Logistics Market | GrowthX Wireframe - YouTube](https://www.youtube.com/watch?v=Sv9mqdnxNXw)
+
+[Launching 500 Cities in 9 Months: Behind Swiggy’s EPIC Growth Strategy | GrowthX Insider - YouTube](https://www.youtube.com/watch?v=0hS9w28fWBM)
+
+[The Banana King: The INSANE True Story - YouTube](https://www.youtube.com/watch?v=j6muUD2SUk8)
