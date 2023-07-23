@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "devops/docker/service-configuration-reference.md",
+                "file": "decentralized-applications/crypto-investing.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "defillama",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -81,8 +81,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -102,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "devops/docker/service-configuration-reference.md",
+                "file": "decentralized-applications/crypto-investing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "devops/docker/service-configuration-reference.md",
+                "file": "decentralized-applications/crypto-investing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "devops/docker/service-configuration-reference.md"
+                "file": "decentralized-applications/crypto-investing.md"
               }
             }
           },
@@ -190,34 +189,34 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "c1e301c8926bfd7d",
+  "active": "978fd2faf621af33",
   "lastOpenFiles": [
-    "office/todo/personal-todo.md",
-    "economics/intro.md",
-    "office/cakedefi/malaysia.md",
-    "office/keep/deepak-banks.md",
-    "decentralized-applications/coins-tokens-chains/readme.md",
-    "decentralized-applications/coins-tokens-chains/ordinals.md",
+    "decentralized-applications/ethereum/40-proof-of-stake.md",
+    "decentralized-applications/development-tools.md",
+    "decentralized-applications/ethereum/dao.md",
     "decentralized-applications/coins-tokens-chains/dai.md",
-    "management/business/business-case-studies.md",
-    "knowledge/applied-sciences/others-power-energy.md",
-    "computer-science/security/ethical-hacking.md",
-    "decentralized-applications/ethereum/ethereum-staking.md",
-    "economics/nbfc-banking-terms.md",
-    "decentralized-applications/tokenomics.md",
-    "decentralized-applications/coins-tokens-chains/bnb.md",
-    "about-me/ideas/startups-ideas-saas.md",
-    "about-me/ideas/thoughts-future-ideas-vision-prediction.md",
-    "about-me/ideas/startup-quotes.md",
-    "about-me/ideas/readme.md",
-    "about-me/ideas/others.md",
-    "office/stashfin-credentials/external-tech.md",
-    "office/stashfin-credentials/internal-tech.md",
+    "decentralized-applications/coins-tokens-chains/uniswap.md",
     "decentralized-applications/crypto-investing.md",
-    "decentralized-applications/crypto-news.md",
-    "decentralized-applications/tools.md",
-    "decentralized-applications/defi-apps.md",
-    "decentralized-applications/on-chain-analytics.md",
+    "decentralized-applications/liquidity-mining.md",
+    "devops/ides/youtube-podcasts-magazine-apps.md",
+    "office/keep/deepak-cryptos.md",
+    "decentralized-applications/ethereum/ethereum-intro.md",
+    "decentralized-applications/ethereum/readme.md",
+    "office/cakedefi/product.md",
+    "office/personality/neha.md",
+    "office/personality/emails-templates-hiring-interview.md",
+    "office/keep/deepak-banks.md",
+    "office/personality/about-me-resume.md",
+    "office/personality/my-body-about-me.md",
+    "office/personality/readme.md",
+    "office/keep/asha-maa.md",
+    "office/keep/deepak-account-credentials.md",
+    "office/keep/family-other-accounts.md",
+    "office/keep/investment.md",
+    "office/keep/manoj-papa.md",
+    "office/keep/neha.md",
+    "office/keep/others.md",
+    "office/keep/policy-plans.md",
     "media/Pasted image 20230721133751.png",
     "media/Pasted image 20230719181140.png",
     "media/Pasted image 20230718133117.png",

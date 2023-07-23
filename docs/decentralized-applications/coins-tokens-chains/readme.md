@@ -52,6 +52,7 @@
 - zcash which claims it uses advanced tech to make sure that detecting ownership is nearly impossible
 - wbtc - [BITCOIN on ETHEREUM? (renBTC, wBTC, tBTC, sBTC) | DEFI Explained - YouTube](https://www.youtube.com/watch?v=iExly7FGKAQ)
 - [Helium: Will HNT Ride The 5G Wave!? Predictions!! - YouTube](https://www.youtube.com/watch?v=cTWv_lv5dG4)
+- Tokenized Gold - [How Chainlink Enables High-Integrity Tokenized Gold Markets | Chainlink Blog](https://blog.chain.link/what-is-tokenized-gold/)
 
 ### Privacy coins
 

@@ -1,5 +1,7 @@
 # Crypto Investing
 
+- Don't buy it, mine it
+
 ### Gas Fees Comparison
 
 - [L1 & L2 Comparisons & Benchmarks - Cross-Chain Usage, Growth, Gas, Fees](https://dune.com/msilb7/l2-and-l1-fee-comparison-benchmarks)
@@ -16,10 +18,15 @@
 - [DefiLlama - DeFi Dashboard - TVL](https://defillama.com/?_sp=4a5917cc-9246-49fa-a008-41c519296ec8.1684908761328)
   - [TVL Rankings - DefiLlama](https://defillama.com/top-protocols)
   - [All Chains TVL - DefiLlama](https://defillama.com/chains)
-  - [DefiLlama - DeFi Dashboard](https://defillama.com/?_sp=4a5917cc-9246-49fa-a008-41c519296ec8.1684908761328)
+  - [DefiLlama - DeFi Dashboard - Protocol Rankings](https://defillama.com/?_sp=4a5917cc-9246-49fa-a008-41c519296ec8.1684908761328)
+  - [Dexs - DefiLlama](https://defillama.com/dexs)
 - [Token unlocks](https://token.unlocks.app/)
 - [Crypto Prices and Portfolio Tracker App | CoinStats](https://coinstats.app/)
 - [Blockchair - Universal blockchain explorer and search engine](https://blockchair.com/)
+- [Uniswap Info v1](https://info.uniswap.org/#/)
+- [Uniswap Info v2](https://v2.info.uniswap.org/#/)
+- [Top Crypto Coins by Total Value Locked — TradingView — India](https://in.tradingview.com/markets/cryptocurrencies/prices-highest-total-value-locked/)
+- [Largest Blockchains in Crypto Ranked by TVL | CoinMarketCap](https://coinmarketcap.com/chain-ranking/)
 
 ### Others
 
@@ -32,7 +39,6 @@
 - [Zilliqa | Build your future with our native token](https://www.zilliqa.com/what-is-zil)
 - Lending - [PeerHive | Revolutionizing Decentralized P2P Lending Experience](https://peerhive.app/)
 - Defi - [Ether Fi App](https://www.mainnet.ether.fi/)
-- [Pool - Curve](https://curve.fi/#/ethereum/pools/steth/deposit/)
 - [Balancer DeFi Liquidity Pools on Ethereum Mainnet](https://app.balancer.fi/#/ethereum)
 - [Aave - Open Source Liquidity Protocol](https://aave.com/)
   - [AAVE: MOST Undervalued DeFi Token?! 2022 Update!! - YouTube](https://www.youtube.com/watch?v=fp4YzAgnIqk)

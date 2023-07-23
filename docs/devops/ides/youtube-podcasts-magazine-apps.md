@@ -314,6 +314,7 @@
 - [The Ownership Economy - A podcast on Anchor](https://anchor.fm/theownershipeconomy)
 - [No Stupid Questions Archives - Freakonomics](https://freakonomics.com/series/nsq/)
 - The Indian Dream | A podcast by Sahil and Siddharth
+- [Business Wars with David Brown](https://wondery.com/shows/business-wars/)
 
 <https://www.freecodecamp.org/news/best-tech-podcasts-for-software-developers>
 

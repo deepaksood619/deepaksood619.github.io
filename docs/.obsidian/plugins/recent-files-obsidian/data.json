@@ -1,8 +1,136 @@
 {
   "recentFiles": [
     {
-      "basename": "service-configuration-reference",
-      "path": "devops/docker/service-configuration-reference.md"
+      "basename": "crypto-investing",
+      "path": "decentralized-applications/crypto-investing.md"
+    },
+    {
+      "basename": "40-proof-of-stake",
+      "path": "decentralized-applications/ethereum/40-proof-of-stake.md"
+    },
+    {
+      "basename": "development-tools",
+      "path": "decentralized-applications/development-tools.md"
+    },
+    {
+      "basename": "dao",
+      "path": "decentralized-applications/ethereum/dao.md"
+    },
+    {
+      "basename": "dai",
+      "path": "decentralized-applications/coins-tokens-chains/dai.md"
+    },
+    {
+      "basename": "uniswap",
+      "path": "decentralized-applications/coins-tokens-chains/uniswap.md"
+    },
+    {
+      "basename": "liquidity-mining",
+      "path": "decentralized-applications/liquidity-mining.md"
+    },
+    {
+      "basename": "youtube-podcasts-magazine-apps",
+      "path": "devops/ides/youtube-podcasts-magazine-apps.md"
+    },
+    {
+      "basename": "deepak-cryptos",
+      "path": "office/keep/deepak-cryptos.md"
+    },
+    {
+      "basename": "ethereum-intro",
+      "path": "decentralized-applications/ethereum/ethereum-intro.md"
+    },
+    {
+      "basename": "readme",
+      "path": "decentralized-applications/ethereum/readme.md"
+    },
+    {
+      "basename": "product",
+      "path": "office/cakedefi/product.md"
+    },
+    {
+      "basename": "neha",
+      "path": "office/personality/neha.md"
+    },
+    {
+      "basename": "emails-templates-hiring-interview",
+      "path": "office/personality/emails-templates-hiring-interview.md"
+    },
+    {
+      "basename": "deepak-banks",
+      "path": "office/keep/deepak-banks.md"
+    },
+    {
+      "basename": "about-me-resume",
+      "path": "office/personality/about-me-resume.md"
+    },
+    {
+      "basename": "my-body-about-me",
+      "path": "office/personality/my-body-about-me.md"
+    },
+    {
+      "basename": "readme",
+      "path": "office/personality/readme.md"
+    },
+    {
+      "basename": "asha-maa",
+      "path": "office/keep/asha-maa.md"
+    },
+    {
+      "basename": "deepak-account-credentials",
+      "path": "office/keep/deepak-account-credentials.md"
+    },
+    {
+      "basename": "family-other-accounts",
+      "path": "office/keep/family-other-accounts.md"
+    },
+    {
+      "basename": "investment",
+      "path": "office/keep/investment.md"
+    },
+    {
+      "basename": "manoj-papa",
+      "path": "office/keep/manoj-papa.md"
+    },
+    {
+      "basename": "neha",
+      "path": "office/keep/neha.md"
+    },
+    {
+      "basename": "others",
+      "path": "office/keep/others.md"
+    },
+    {
+      "basename": "policy-plans",
+      "path": "office/keep/policy-plans.md"
+    },
+    {
+      "basename": "readme",
+      "path": "office/keep/readme.md"
+    },
+    {
+      "basename": "crypto-exchanges",
+      "path": "decentralized-applications/crypto-exchanges.md"
+    },
+    {
+      "basename": "readme",
+      "path": "decentralized-applications/coins-tokens-chains/readme.md"
+    },
+    {
+      "basename": "tools",
+      "path": "decentralized-applications/tools.md"
+    },
+    {
+      "basename": "life-relationship-people",
+      "path": "psychology/life-relationship-people.md"
+    },
+    {
+      "basename": "celestia",
+      "path": "decentralized-applications/coins-tokens-chains/celestia.md"
+    },
+    {
+      "basename": "addresses-electricity",
+      "path": "office/personality/addresses-electricity.md"
     },
     {
       "basename": "personal-todo",
@@ -13,24 +141,16 @@
       "path": "economics/intro.md"
     },
     {
+      "basename": "service-configuration-reference",
+      "path": "devops/docker/service-configuration-reference.md"
+    },
+    {
       "basename": "malaysia",
       "path": "office/cakedefi/malaysia.md"
     },
     {
-      "basename": "deepak-banks",
-      "path": "office/keep/deepak-banks.md"
-    },
-    {
-      "basename": "readme",
-      "path": "decentralized-applications/coins-tokens-chains/readme.md"
-    },
-    {
       "basename": "ordinals",
       "path": "decentralized-applications/coins-tokens-chains/ordinals.md"
-    },
-    {
-      "basename": "dai",
-      "path": "decentralized-applications/coins-tokens-chains/dai.md"
     },
     {
       "basename": "business-case-studies",
@@ -79,126 +199,6 @@
     {
       "basename": "others",
       "path": "about-me/ideas/others.md"
-    },
-    {
-      "basename": "external-tech",
-      "path": "office/stashfin-credentials/external-tech.md"
-    },
-    {
-      "basename": "internal-tech",
-      "path": "office/stashfin-credentials/internal-tech.md"
-    },
-    {
-      "basename": "crypto-investing",
-      "path": "decentralized-applications/crypto-investing.md"
-    },
-    {
-      "basename": "crypto-news",
-      "path": "decentralized-applications/crypto-news.md"
-    },
-    {
-      "basename": "tools",
-      "path": "decentralized-applications/tools.md"
-    },
-    {
-      "basename": "defi-apps",
-      "path": "decentralized-applications/defi-apps.md"
-    },
-    {
-      "basename": "on-chain-analytics",
-      "path": "decentralized-applications/on-chain-analytics.md"
-    },
-    {
-      "basename": "crypto-exchanges",
-      "path": "decentralized-applications/crypto-exchanges.md"
-    },
-    {
-      "basename": "the-almanack-of-naval-ravikant",
-      "path": "book-summaries/the-almanack-of-naval-ravikant.md"
-    },
-    {
-      "basename": "ui-ux-ixd-design-frontend",
-      "path": "frontend/frontend-intro/ui-ux-ixd-design-frontend.md"
-    },
-    {
-      "basename": "unix-linux",
-      "path": "computer-science/operating-system/unix-linux.md"
-    },
-    {
-      "basename": "todo",
-      "path": "office/cakedefi/todo.md"
-    },
-    {
-      "basename": "blockchain",
-      "path": "decentralized-applications/blockchain.md"
-    },
-    {
-      "basename": "celestia",
-      "path": "decentralized-applications/coins-tokens-chains/celestia.md"
-    },
-    {
-      "basename": "new-home-place-house",
-      "path": "office/personality/new-home-place-house.md"
-    },
-    {
-      "basename": "consumerism",
-      "path": "psychology/consumerism.md"
-    },
-    {
-      "basename": "life-relationship-people",
-      "path": "psychology/life-relationship-people.md"
-    },
-    {
-      "basename": "living",
-      "path": "knowledge/biology/exercise-stretching/living.md"
-    },
-    {
-      "basename": "mechanical-engineering",
-      "path": "knowledge/applied-sciences/mechanical-engineering.md"
-    },
-    {
-      "basename": "metabase",
-      "path": "ai/data-science/data-visualization/metabase.md"
-    },
-    {
-      "basename": "debt-mutual-funds",
-      "path": "economics/mutual-funds/debt-mutual-funds.md"
-    },
-    {
-      "basename": "asset-classes",
-      "path": "economics/finance-investing/asset-classes.md"
-    },
-    {
-      "basename": "returns-tax-taxes-itr",
-      "path": "economics/finance-investing/returns-tax-taxes-itr.md"
-    },
-    {
-      "basename": "manoj-papa",
-      "path": "office/keep/manoj-papa.md"
-    },
-    {
-      "basename": "neha",
-      "path": "office/keep/neha.md"
-    },
-    {
-      "basename": "books-to-read",
-      "path": "book-summaries/books-to-read.md"
-    },
-    {
-      "basename": "apache-server",
-      "path": "devops/others/servers/apache-server.md"
-    },
-    {
-      "basename": "caches-caching",
-      "path": "computer-science/operating-system/caches-caching.md"
-    },
-    {
-      "basename": "defi",
-      "path": "decentralized-applications/defi.md"
-    },
-    {
-      "basename": "product",
-      "path": "office/cakedefi/product.md"
     }
   ],
   "omittedPaths": [],

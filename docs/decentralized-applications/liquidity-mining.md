@@ -54,6 +54,9 @@ Liquidity is a measure of resource sufficiency as it concerns a cryptocurrency m
 - [Impermanent Loss & other Liquidity Mining risks explained - Dr. Julian Hosp - The Blockchain Expert](https://julianhosp.com/impermanent-loss-other-liquidity-mining-risks-explained/?ref=defichain-blog)
 - [How do LIQUIDITY POOLS work? (Uniswap, Curve, Balancer) | DEFI Explained - YouTube](https://www.youtube.com/watch?v=cizLhxSKrAc&ab_channel=Finematics)
 - [What Is BANCOR V2? CHAINLINK Integration And Dynamic Automated Market Maker Explained | DEFI - YouTube](https://www.youtube.com/watch?v=bWBfLArJsFk&ab_channel=Finematics)
+- [Top LP Tokens Coins by Market Cap | CoinGecko](https://www.coingecko.com/en/categories/lp-tokens)
+- [Top 10 Liquidity Pool (LP) Tokens: Unleashing the Power of DeFi - CryptoTicker](https://cryptoticker.io/en/top-10-liquidity-pool-tokens/)
+- [What are liquidity provider (LP) tokens, and how do they work?](https://cointelegraph.com/explained/what-are-liquidity-provider-lp-tokens-and-how-do-they-work)
 
 ## Yield Farming
 
@@ -70,3 +73,15 @@ Yield farming involves maximizing returns on cryptocurrency holdings by moving t
 ![staking-vs-yf-vs-lm](../media/Pasted%20image%2020230626135923.png)
 
 [Staking vs Yield Farming vs Liquidity Mining- What's The Difference? - Blockchain Council](https://www.blockchain-council.org/defi/staking-vs-yield-farming-vs-liquidity-mining/)
+
+## Curve Finance
+
+[Understanding Gauges - Curve Finance](https://resources.curve.fi/reward-gauges/understanding-gauges)
+
+[Curve Finance: Deposit & stake liquidity | Lido Finance - YouTube](https://www.youtube.com/watch?v=kBe0yrFvX7I)
+
+[Pool - Curve](https://curve.fi/#/ethereum/pools/steth/deposit/)
+
+## Links
+
+[Harvest - Web3 Platform to Earn on Your Crypto](https://www.harvest.finance/)
