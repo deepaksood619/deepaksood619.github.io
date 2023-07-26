@@ -42,6 +42,8 @@ To mitigate volatility loss, LPs can choose to provide liquidity to pools contai
 
 [What Is IMPERMANENT LOSS? DEFI Explained - Uniswap, Curve, Balancer, Bancor - YouTube](https://www.youtube.com/watch?v=8XJ1MSTEuU0&ab_channel=Finematics)
 
+[Impermanent Loss Calculator](https://dailydefi.org/tools/impermanent-loss-calculator/)
+
 ## Liquidity
 
 Liquidity is a measure of resource sufficiency as it concerns a cryptocurrency market or a custodial institution. For tradable assets, it translates to investors’ freedom to make trades in any direction without significant [slippage](https://www.coingecko.com/learn/slippage-crypto). For custodial institutions, it is the ability to satisfy withdrawal requests without significant delays or friction. A sufficiently liquid market or institution should be able to sustain this in harsh market conditions.

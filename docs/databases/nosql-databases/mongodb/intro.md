@@ -119,34 +119,6 @@ Performance metrics - <https://stackoverflow.com/a/37654411/5424888>
 
 <https://docs.mongodb.com/manual/core/gridfs>
 
-## UI / Tools
-
-- <https://studio3t.com>
-- Metabase
-
-### Compass
-
-#### Filters
-
-```json
-{username: 'abc'}
-
-{ "start_date": {$gt: new Date('2017-05-01')} }
-
-{ author : { $eq : "Joe Bloggs" } }
-
-{ dateCreated: { $gt: Date('2000-06-22') } }
-
-{ scores: { $elemMatch: { $gt: 80, $lt: 90 } } }
-
--- search - like abc
-{"email": /abc/}
-```
-
-[Query Your Data — MongoDB Compass](<https://www.mongodb.com/docs/compass/current/query/filter/>
-
-[MongoDB Compass | MongoDB](https://www.mongodb.com/products/compass)
-
 ## Others
 
 <https://www.ferretdb.io> - A truly Open Source MongoDB alternative

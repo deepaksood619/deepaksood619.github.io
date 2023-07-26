@@ -57,13 +57,13 @@ An option is a derivative, a contract that gives the buyer the right, but not th
 
 To enter into an option contract, the buyer must pay an option [premium](https://corporatefinanceinstitute.com/resources/knowledge/finance/market-risk-premium/). The two most common types of options are calls and puts:
 
-1. **Call options (right to buy)**
+### Call options (right to buy)
 
 Calls give the buyer the right, but not the obligation, to buy the underlying [asset](https://corporatefinanceinstitute.com/resources/knowledge/finance/marketable-securities/) at the strike price specified in the option contract. Investors buy calls when they believe the price of the underlying asset will increase and sell calls if they believe it will decrease.
 
 ![image](../../media/Market-Terms_Futures-Options-Trading-image1.jpg)
 
-2. **Put options (right to sell)**
+### Put options (right to sell)
 
 Puts give the buyer the right, but not the obligation, to sell the underlying asset at the strike price specified in the contract. The writer (seller) of the put option is obligated to buy the asset if the put buyer exercises their option. Investors buy puts when they believe the price of the underlying asset will decrease and sell puts if they believe it will increase.
 
@@ -71,7 +71,7 @@ Puts give the buyer the right, but not the obligation, to sell the underlying as
 
 ## Payoffs for Options: Calls and Puts
 
-## Calls
+### Calls
 
 The buyer of a call option pays the option premium in full at the time of entering the contract. Afterward, the buyer enjoys a potential profit should the market move in his favor. There is no possibility of the option generating any further loss beyond the purchase price. This is one of the most attractive features of buying options. For a limited investment, the buyer secures unlimited profit potential with a known and strictly limited potential loss.
 
@@ -81,7 +81,7 @@ For example, a stock option isfor 100 shares of the underlying stock. Assume a t
 
 He paid $2,500 for the 100 shares ($25 x 100) and sells the shares for $3,500 ($35 x 100). His profit from the option is $1,000 ($3,500 -- $2,500), minus the $150 premium paid for the option. Thus, his net profit, excluding transaction costs, is $850 ($1,000 -- $150). That's a very nice return on investment (ROI) for just a $150 investment.
 
-## Selling Call Options
+#### Selling Call Options
 
 The call option seller's downside is potentially unlimited. As the spot price of the underlying asset exceeds the strike price, the writer of the option incurs a loss accordingly (equal to the optionbuyer's profit). However, if the market price of the underlying asset does not go higher than the option strike price, then the option expires worthless. The option seller profits in the amount of the premium they received for the option.
 
@@ -89,7 +89,7 @@ An example is portrayed below, indicating the potential payoff for a call option
 
 ![image](../../media/Market-Terms_Futures-Options-Trading-image3.jpg)
 
-## Puts
+### Puts
 
 A put option gives the buyer the right to sell the underlying asset at the option strike price. The profit the buyer makes on the option depends on how far below the spot price falls below the strike price. If the spot price is below the strike price, then the put buyer is "in-the-money." If the spot price remains higher than the strike price, the option will expire unexercised. The option buyer's loss is, again, limited to the premium paid for the option.
 
@@ -139,7 +139,8 @@ Investors can benefit from downward price movements by either selling calls or b
 
 Option Greeks are foces that influence the premium of an option
 
-1. Delta
+### Delta
+
     - Delta is an option greek that captures the effect of the direction of the market
 
 Option Delta = Rate of change in premium wrt Underlying
@@ -153,19 +154,19 @@ Option Delta = Rate of change in premium wrt Underlying
 
 ![image](../../media/Market-Terms_Futures-Options-Trading-image6.jpg)
 
-[7. The Option Greeks - Delta](https://www.youtube.com/watch?v=I7YWC_j1ocI)
+[The Option Greeks - Delta](https://www.youtube.com/watch?v=I7YWC_j1ocI)
 
-2. Gamma
+### Gamma
 
-[8. Gamma](https://www.youtube.com/watch?v=koJQc3fqxjk)
+[Gamma](https://www.youtube.com/watch?v=koJQc3fqxjk)
 
-3. Theta
+### Theta
 
-[9. Theta](https://www.youtube.com/watch?v=fDLJlU8OdP8)
+[Theta](https://www.youtube.com/watch?v=fDLJlU8OdP8)
 
-4. Vega
+### Vega
 
-[10. Vega](https://youtu.be/2hmF5gqKEUg)
+[Vega](https://youtu.be/2hmF5gqKEUg)
 
 ## Margins
 
@@ -217,11 +218,11 @@ An options chain provides detailed quote and price information and should not be
 
 ## Open Interest and Trading Volume
 
-## Daily Trading Volume
+### Daily Trading Volume
 
 [Trading volume](https://www.investopedia.com/articles/technical/02/010702.asp) is the number of shares or contracts traded in a given period. When looking at the option's underlying stock, the volume can giveyou insight into the strength of the currentprice movement. Trading volume in options, just like in stocks, is an [indicator](https://www.investopedia.com/terms/i/indicator.asp) of the current interest.
 
-## Open Interest
+### Open Interest
 
 [Open interest](https://www.investopedia.com/articles/technical/02/112002.asp) is the number of active contracts. It's one of the data fields on most option quote displays, along with [bid price](https://www.investopedia.com/terms/b/bidprice.asp), [ask price](https://www.investopedia.com/terms/a/ask.asp), volume, and [implied volatility](https://www.investopedia.com/terms/i/iv.asp). Yet, many options traders ignore active contracts, which can lead to unforeseen consequences.
 
@@ -314,19 +315,19 @@ You can configure a combination strategy according to the market, the time frame
 
 [Day Trading Strategies for Beginners: Class 1 of 12 by Ross Cameron](https://youtu.be/txWaMpSzHhM)
 
-How does day trading work?
+### How does day trading work?
 
 - The simple concept is that we want to buy stocks that are going to move up
 - Day traders profit from volatility. Markets that aren't moving won't give us profits
 - When stocks are moving, we can find opportunities to trade and profit
 - It's our job to find volatility in the market by hunting for catalysts such as quarterly earnings, press releases, and other types of news
 
-Why do most traders fail?
+### Why do most traders fail?
 
 - Day trading requires quick decisions and a lot of discipline. Many new traders intially lack the ability to make good decisions and maintain composure while under the stress of a losing position
 - Skill and discipline are like muscles that require exercise to grow. Your ability to make quick decisions and follow your trading rules will improve with experience
 
-How do I find Trades?
+### How do I find Trades?
 
 - Once I have found stocks that will have the volatility to give us profit potential, I have to find exact entry and exit levels
 - I rely on a handful of simple patterns and strategies
@@ -336,7 +337,7 @@ How do I find Trades?
 
 [Option Buying & Selling - Advantages & Disadvantaged Explained!](https://youtu.be/wwZ157RxD4E)
 
-[6. Moneyness of option](https://www.youtube.com/watch?v=3J9I0U9w4Ww)
+[Moneyness of option](https://www.youtube.com/watch?v=3J9I0U9w4Ww)
 
 - In the money (ITM)
 - Out of the money (OTM)
@@ -350,4 +351,4 @@ How do I find Trades?
 
 [Option buying to earn regular income | Option buying strategy by Kunal Saraogi | Options course | - YouTube](https://www.youtube.com/watch?v=otCMZmg3Sgk)
 
-[12. Physical settlement of futures and options - YouTube](https://www.youtube.com/watch?v=Llp4xW2GI4s)
+[Physical settlement of futures and options - YouTube](https://www.youtube.com/watch?v=Llp4xW2GI4s)

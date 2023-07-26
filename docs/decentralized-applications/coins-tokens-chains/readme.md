@@ -11,7 +11,7 @@
 - [Litecoin](decentralized-applications/coins-tokens-chains/litecoin.md)
 - [USD Coin (USDC)](decentralized-applications/coins-tokens-chains/usdc.md)
 - [Tether (USDT)](decentralized-applications/coins-tokens-chains/usdt.md)
-- [cardano](decentralized-applications/coins-tokens-chains/cardano.md)
+- [Cardano](decentralized-applications/coins-tokens-chains/cardano.md)
 - [DAI](decentralized-applications/coins-tokens-chains/dai.md)
 - [dtokens](decentralized-applications/coins-tokens-chains/dtokens.md)
 - [nft-non-fungible-tokens](decentralized-applications/coins-tokens-chains/nft-non-fungible-tokens.md)
@@ -53,6 +53,7 @@
 - wbtc - [BITCOIN on ETHEREUM? (renBTC, wBTC, tBTC, sBTC) | DEFI Explained - YouTube](https://www.youtube.com/watch?v=iExly7FGKAQ)
 - [Helium: Will HNT Ride The 5G Wave!? Predictions!! - YouTube](https://www.youtube.com/watch?v=cTWv_lv5dG4)
 - Tokenized Gold - [How Chainlink Enables High-Integrity Tokenized Gold Markets | Chainlink Blog](https://blog.chain.link/what-is-tokenized-gold/)
+- [What is Hedera Hashgraph? HBAR Explained with Animations - YouTube](https://www.youtube.com/watch?v=5UJsowkiYDY)
 
 ### Privacy coins
 

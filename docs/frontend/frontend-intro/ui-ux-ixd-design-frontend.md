@@ -57,6 +57,8 @@ Adark patternis "a [user interface](https://en.wikipedia.org/wiki/User_interface
 
 [How to Encourage Clicks Without the Shady Tricks | UX Consultant | Paul Boag](https://www.youtube.com/watch?v=6tvR1rz_Nb8)
 
+[How Brands Use Design & Marketing to Control Your Mind - YouTube](https://www.youtube.com/watch?v=p6aF5ma7BiM)
+
 ## The seven most important building blocks of all good user interfaces
 
 - White space
@@ -147,23 +149,23 @@ While disciplines such as software engineering have a heavy focus on designing f
 
 The concept of dimensions of interaction design were introduced in Moggridge's bookDesigning Interactions.Crampton Smith wrote that interaction design draws on four existing design languages, 1D, 2D, 3D, 4D.Silver later proposed a fifth dimension, behaviour.
 
-- **Words**
+### Words
 
 This dimension defines interactions: words are the element that users interact with.
 
-- **Visual representations**
+### Visual representations
 
 Visual representations are the elements of an interface that the user perceives; these may include but are not limited to "typography, diagrams, icons, and other graphics".
 
-- **Physical objects or space**
+### Physical objects or space
 
 This dimension defines the objects or space "with which or within which users interact".
 
-- **Time**
+### Time
 
 The time during which the user interacts with the interface. An example of this includes "content that changes over time such as sound, video or animation".
 
-- **Behavior**
+### Behavior
 
 Behavior defines how users respond to the interface. Users may have different reactions in this interface.
 
@@ -243,6 +245,8 @@ The five phases of the Design Thinking Process are:
 - Test
 
 <https://www.freecodecamp.org/news/the-design-thinking-process-explained>
+
+![visual-hierarchy-size-of-words](../../media/Pasted%20image%2020230726123953.png)
 
 ## Tools
 

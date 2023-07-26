@@ -60,6 +60,8 @@ On May 7, the price of the then-$18-billion algorithmic stablecoin terraUSD (UST
 
 [You'll NEVER BELIEVE Who's Behind CBDCs & Fast Payments!! - YouTube](https://www.youtube.com/watch?v=Z9Gg3R1EbGU)
 
+[Central Bank Plans For CBDCs And Cryptocurrency REVEALED!! - YouTube](https://www.youtube.com/watch?v=YhGMkPh2EpM)
+
 ### News
 
 [I HOPE YOU'RE PAYING ATTENTION - BIG Money Is BACK In The Market](https://www.youtube.com/watch?v=9-go6CV2Nws)

@@ -23,6 +23,7 @@ Oil is fungible, which means one barrel of crude is interchangeable with another
 - [Reveal and Non-reveal NFT Projects - NiftyKit](https://niftykit.com/reveal-and-non-reveal-nft-projects/)
 - [Zapper - Your Home to Web3](https://zapper.xyz/)
 - [Explore Songs | Song a Day World](https://songaday.world/)
+- [Compass Home](https://compass.art/)
 
 ## NFT Actions
 

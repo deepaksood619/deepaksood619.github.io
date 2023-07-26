@@ -4,11 +4,39 @@
 
 TTL indexes are special single-field indexes that MongoDB can use to automatically remove documents from a collection after a certain amount of time or at a specific clock time. Data expiration is useful for certain types of information like machine generated event data, logs, and session information that only need to persist in a database for a finite amount of time.
 
-## mongo-express
+## UI / Tools
+
+- <https://studio3t.com>
+- Metabase
+
+### Compass
+
+```json
+{username: 'abc'}
+
+{ "start_date": {$gt: new Date('2017-05-01')} }
+
+{ author : { $eq : "Joe Bloggs" } }
+
+{ dateCreated: { $gt: Date('2000-06-22') } }
+
+{ scores: { $elemMatch: { $gt: 80, $lt: 90 } } }
+
+-- search - like abc
+{"email": /abc/}
+
+{"user": ObjectId("64591b347266058256f16f43")}
+```
+
+[Query Your Data — MongoDB Compass](<https://www.mongodb.com/docs/compass/current/query/filter/>
+
+[MongoDB Compass | MongoDB](https://www.mongodb.com/products/compass)
+
+### mongo-express
 
 Web-based MongoDB admin interface written with Node.js, Express and Bootstrap3
 
-## Features
+#### Features
 
 - Connect to multiple databases
 - View/add/delete databases

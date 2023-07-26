@@ -82,18 +82,19 @@ For example, if you associate one property ID with two websites, data for both w
 
 ## Getting started
 
-1. Create an App + Web property
-2. Create a data stream
+### Create an App + Web property
 
- Data streams enable the flow of data from your website and/or app into Google Analytics. If you'd like to measure more than one touchpoint, you can add multiple data streams to your property. For example, you can add one stream for your Android app, one for your iOS app, and one for each website.
+### Create a data stream
 
-3. Activate enhanced measurement
+Data streams enable the flow of data from your website and/or app into Google Analytics. If you'd like to measure more than one touchpoint, you can add multiple data streams to your property. For example, you can add one stream for your Android app, one for your iOS app, and one for each website.
 
- When you add a data stream for your website and/or app, some basic parameters (such as language, page title, and screen resolution) are collected by default. With enhanced measurement, Analytics can automatically measure more interactions on your website such as page views, video views, and file downloads right out of the box. We recommend enabling enhanced measurement as you are setting up your App + Web property to begin collecting basic web events right away, without any custom tagging work required. You can disable enhanced measurement at any time
+### Activate enhanced measurement
 
-4. Enable data collection
+When you add a data stream for your website and/or app, some basic parameters (such as language, page title, and screen resolution) are collected by default. With enhanced measurement, Analytics can automatically measure more interactions on your website such as page views, video views, and file downloads right out of the box. We recommend enabling enhanced measurement as you are setting up your App + Web property to begin collecting basic web events right away, without any custom tagging work required. You can disable enhanced measurement at any time
 
- The final step to get set up is enabling data collection, which allows your reports to populate relevant events from your website. This allows tagged data to flow to your new property (in addition to your existing ones), and is essential in order to get meaningful insights from your App + Web property.
+### Enable data collection
+
+The final step to get set up is enabling data collection, which allows your reports to populate relevant events from your website. This allows tagged data to flow to your new property (in addition to your existing ones), and is essential in order to get meaningful insights from your App + Web property.
 
 ## Advanced Features
 

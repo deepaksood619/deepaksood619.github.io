@@ -129,3 +129,10 @@ FFMPEG stitching multiple files into one
 ![image](../../media/Video-Live-Streaming-image14.jpg)
 
 ![image](../../media/Video-Live-Streaming-image15.jpg)
+
+## Audio / Codec / Digital Audio
+
+[Understanding Sound & Speakers - YouTube](https://www.youtube.com/playlist?list=PL6rx9p3tbsMvYWeYUTNuRNMLXn0eyJvub)
+
+- Compressions
+- Rarefactions

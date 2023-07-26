@@ -1,8 +1,10 @@
 # Advanced
 
 1. Atomic Transactions
-2. Using + as the related_name when we do not want django to automatically create related_name
+2. Using `+` as the related_name when we do not want django to automatically create related_name
 3. Using decorators
+
+### Tips
 
 1. No matter what strategy you pick, or what is your business model, always use one, and only one Django model to handle the authentication.
 2. Never user the built-in Django User model directly, even if the built-in Django User implementation fulfill all the requirements of your application.
@@ -37,17 +39,17 @@ Let's say you have a collection ofCarobjects (database rows), and eachCarhas a c
 
 Now, let's say you need to iterate through all the cars, and for each one, print out a list of the wheels. The naive O/R implementation would do the following:
 
-SELECT * FROM Cars;
+`SELECT * FROM Cars;`
 
 And then for each Car:
 
-SELECT * FROM Wheel WHERE CarId = ?
+`SELECT * FROM Wheel WHERE CarId = ?`
 
 In other words, you have one select for the Cars, and then N additional selects, where N is the total number of cars.
 
 Alternatively, one could get all wheels and perform the lookups in memory:
 
-SELECT * FROM Wheel
+`SELECT * FROM Wheel`
 
 This reduces the number of round-trips to the database from N+1 to 2. Most ORM tools give you several ways to prevent N+1 selects.
 

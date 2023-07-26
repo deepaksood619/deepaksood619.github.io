@@ -465,7 +465,7 @@ People have positive attitude towards ageing live 7.2 years longer than people w
 - Football - weak link
 - Programming - strong link
 - Investment group - strong link
-- Donation to Schools should be weak lint
+- Donation to Schools should be weak link
 
 <https://www.youtube.com/watch?v=UAqZMgBtECQ>
 

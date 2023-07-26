@@ -51,11 +51,11 @@ Liquid staking service providers solve this liquidity problem by minting a new t
 
 [TOP 5 LSD Projects for Ethereum Staking (Lido, RocketPool & more!) - YouTube](https://www.youtube.com/watch?v=WJLL0gor4iI)
 
-- [Liquid Staking for Digital Tokens](https://lido.fi/)
+- [Lido Finance](https://lido.fi/)
 - [Rocketpool](https://rocketpool.net/)
 - [Frax Finance](https://frax.finance/)
-- [Ethereum Proof Of Stake Pool and Solo Staking | StakeWise](https://stakewise.io/)
-- [Liquid Staking - Best Crypto Staking Platform of 2023 | Stader Labs](https://www.staderlabs.com/)
+- [StakeWise](https://stakewise.io/)
+- [Stader Labs](https://www.staderlabs.com/)
 
 **[Liquid staking TVL Rankings - DefiLlama](https://defillama.com/protocols/liquid%20staking/Ethereum)**
 
@@ -89,6 +89,22 @@ Liquid staking service providers solve this liquidity problem by minting a new t
 - [Lido Staked ETH (stETH): All You Need To Know | Bybit Learn](https://learn.bybit.com/altcoins/what-is-steth-lido-staked-eth/)
 - [Lido ETH Staking Tutorial (Lido Finance stETH) - YouTube](https://www.youtube.com/watch?v=5zCCRx6IudY)
 - [What Happens to My stETH if Lido Goes Bankrupt? - YouTube](https://www.youtube.com/watch?v=9G70VDiv6bU)
+
+## Staking Opportunities
+
+- Staking - Lido finance
+- Curve - Liquidity Mining (Liquidity Provider)
+- Yearn - LP Tokens
+- Harvest finance
+- [Convex](https://www.convexfinance.com/) (boost rewards by pulling LP)
+- concentrator
+
+### Links
+
+- [Lido: How to earn a high staking yield for ETH (Ethereum) - YouTube](https://www.youtube.com/watch?v=RP4XYgn84jE)
+- [How to Farm 10% APY on stETH with Curve, Convex, and Concentrator - YouTube](https://www.youtube.com/watch?v=02jC7X3wLfs)
+- [$431 Per Day From Uniswap v3 Liquidity Pools (Passive Income) - YouTube](https://www.youtube.com/watch?v=9iR1fWc8sg4)
+- [What is a Liquidity Pool in Crypto? (How to PROFIT from Crypto LPs) - YouTube](https://www.youtube.com/watch?v=QtiMbJt9F1U)
 
 ## Links
 

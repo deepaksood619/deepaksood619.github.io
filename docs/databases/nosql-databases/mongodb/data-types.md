@@ -25,9 +25,11 @@ BSON [/ˈbiːsən/](https://en.wikipedia.org/wiki/Help:IPA/English) is a [comput
 ## JSON vs BSON
 
 JSON (JavaScript Object Notation)-like XML, for example - is a human-readable standard used for data exchange. JSON has become the most widely used standard for data exchange on the web. JSON supports data types like booleans, numbers, strings, and arrays.
+
 BSON, however, is the binary encoding that MongoDB uses to store its documents. It is similar to JSON, but it extends JSON to support more data types, likeDate. BSON documents, unlike JSON documents, are ordered. BSON usually takes less space than JSON and is faster to traverse. BSON, since it is binary, is also quicker to encode and decode.
 
 ## Capped Collections
 
 [Capped collections](https://docs.mongodb.com/manual/reference/glossary/#term-capped-collection) are fixed-size collections that support high-throughput operations that insert and retrieve documents based on insertion order. Capped collections work in a way similar to circular buffers: once a collection fills its allocated space, it makes room for new documents by overwriting the oldest documents in the collection.
+
 <https://docs.mongodb.com/manual/core/capped-collections>

@@ -2,13 +2,8 @@
 
 ## Two types of probability
 
-1. Empirical probability
-
-Something we observer in actual data
-
-2. Theoratical probability
-
-More of an ideal or truth out there that we can't directly see- Binomial distributions
+1. Empirical probability - Something we observer in actual data
+2. Theoratical probability - More of an ideal or truth out there that we can't directly see- Binomial distributions
 
 ![image](../../media/probability-Intro-image1.jpg)- Bayesian updating
 
@@ -22,19 +17,20 @@ To any count add 1 positive and 1 negative number and calculate the new probabil
 Ex - Amazon reviews
 
 ![image](../../media/probability-Intro-image2.jpg)
+
 Ex - 2 defects found in a test of 100 cars. What is the probability of getting a defect? (2% ?)
+
 In [probability theory](https://en.wikipedia.org/wiki/Probability_theory), therule of successionis a formula introduced in the 18th century by [Pierre-Simon Laplace](https://en.wikipedia.org/wiki/Pierre-Simon_Laplace) in the course of treating the [sunrise problem](https://en.wikipedia.org/wiki/Sunrise_problem).
+
 The formula is still used, particularly to estimate underlying probabilities when there are few observations, or for events that have not been observed to occur at all in (finite) sample data. Assigning events a [zero probability](https://en.wikipedia.org/wiki/Zero_probability) contravenes [Cromwell's rule](https://en.wikipedia.org/wiki/Cromwell%27s_rule); such contravention can never be strictly justified in physical situations, albeit sometimes must be assumed in practice.
+
 <https://en.wikipedia.org/wiki/Rule_of_succession>
 
 ## Probability part 1 - Rules and Patterns
 
 - Pareidolia - A product of our brains that causes us to see the pattern of a face in a non-face objects
-
 - Empirical probability
-
 - Theoratical probability
-
 - Conditional probability
 
 ## Probability part 2 - Updating your beliefs with Bayes
@@ -42,18 +38,19 @@ The formula is still used, particularly to estimate underlying probabilities whe
 - Naive bayes filters
 
 ![image](../../media/probability-Intro-image3.jpg)
-![image](../../media/Intro-prob-image4.jpg)- Bayesian Statistics
 
+![image](../../media/Intro-prob-image4.jpg)
+
+- Bayesian Statistics
 - Simulation
 - Law of large numbers (applies to almost any distribution as long as the distribution doesn't have an infinite variance)
 
 ## Geometric Distributions and The Birthday Paradox
 
 - Geometric probability formula
-
 - Geometric distribution
-
 - Cumulative geometric distribution
+
 [Binomial distributions | Probabilities of probabilities, part 1](https://www.youtube.com/watch?v=8idr1WZ1A7Q)
 
 [Why "probability of 0" does not mean "impossible" | Probabilities of probabilities, part 2](https://www.youtube.com/watch?v=ZA4JkHKZM50)
@@ -61,16 +58,18 @@ The formula is still used, particularly to estimate underlying probabilities whe
 ## Probability Density Function
 
 In [probability theory](https://en.wikipedia.org/wiki/Probability_theory), aprobability density function(PDF), ordensityof a [continuous random variable](https://en.wikipedia.org/wiki/Continuous_random_variable), is a [function](https://en.wikipedia.org/wiki/Function_(mathematics)), whose value at any given sample (or point) in the [sample space](https://en.wikipedia.org/wiki/Sample_space)(the set of possible values taken by the random variable) can be interpreted as providing arelative likelihoodthat the value of the random variable would equal that sample.
+
 <https://en.wikipedia.org/wiki/Probability_density_function>
 
 ## Two views of probability
 
-- Frequentist view
+### Frequentist view
 
-In the frequentist view, probability measures the frequency with which an event will occur, if it is repeated many times
-
+- In the frequentist view, probability measures the frequency with which an event will occur, if it is repeated many times
 - In theory, you want to measure the frequency of an outcome if an experiment is repeated an infinite number of times
-- While it is objective, it requires that an event be repeatable, and is thus narrow- Subjectivist (Bayesian) view
+- While it is objective, it requires that an event be repeatable, and is thus narrow
+
+### Subjectivist (Bayesian) view
 
 In the subjectivist view, probability is the value that a rational agent would assign to the likelihood of an event happening
 

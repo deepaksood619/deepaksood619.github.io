@@ -78,6 +78,8 @@ A perpetual contract is a derivative similar to a futures contract but without a
 
 [liquidity-mining](decentralized-applications/liquidity-mining.md)
 
+[DeFi - Playlist YouTube](https://www.youtube.com/playlist?list=PLHx4UicbtUoYvCvRouZ4XbaDpE7cbCCqo)
+
 <https://www.youtube.com/watch?v=p9iTNsh9bSk>
 
 [Youtube DeFi Crash Course](https://www.youtube.com/playlist?list=PLZYHS2HeJ5ejvwRrGI4Wgi5HVVwvvow7R)

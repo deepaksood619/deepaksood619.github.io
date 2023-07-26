@@ -198,6 +198,8 @@ Loss from business and profession cannot be set off against income chargeable to
 
 ![image](../../media/TODO-Financial-Finance-Investing_Returns-Tax-Taxes-ITR-image4.jpg)
 
+[17 Best Income Tax Saving Schemes & Plans in 2023](https://scripbox.com/tax/tax-saving-options/)
+
 <https://www.etmoney.com/blog/beyond-section-80c-10-ways-to-save-taxes>
 
 ## ITR

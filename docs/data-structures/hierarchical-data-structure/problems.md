@@ -9,16 +9,16 @@
 
 ## Interview Problems
 
-1. Validate BST
+### Validate BST
 
-    1. Do an inorder traversal of the BST. The output result must be a sorted array
-    2. Another classic solution is to keep track of the minimum and maximum values a node can take. And at each node we will check whether its value is between the min and max values it's allowed to take. The root can take any value between negative infinity and positive infinity. At any node, its left child should be smaller than or equal than its own value, and similarly the right child should be larger than or equal to. So during recursion, we send the current value as the new max to our left child and send the min as it is without changing. And to the right child, we send the current value as the new min and send the max without changing.
+1. Do an inorder traversal of the BST. The output result must be a sorted array
+2. Another classic solution is to keep track of the minimum and maximum values a node can take. And at each node we will check whether its value is between the min and max values it's allowed to take. The root can take any value between negative infinity and positive infinity. At any node, its left child should be smaller than or equal than its own value, and similarly the right child should be larger than or equal to. So during recursion, we send the current value as the new max to our left child and send the min as it is without changing. And to the right child, we send the current value as the new min and send the max without changing.
 
-2. Level Order Traversal
+### Level Order Traversal
 
 Use queue for pushing items in each level and printing before new items are pushed. Also can have a counter for pushing to queue before the queue had been emptied.
 
-3. Trim a BST
+### Trim a BST
 
 We can do this by performing a post-order traversal of the tree. We first process the left children, then right children, and finally the node itself. So we form the new tree bottom up, starting from the leaves towards the root. As a result while processing the node itself, both its left and right subtrees are valid trimmed binary search trees (may be NULL as well).
 

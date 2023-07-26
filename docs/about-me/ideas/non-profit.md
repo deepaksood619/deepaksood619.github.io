@@ -187,7 +187,7 @@ Problems
 
 ## Chartity / Donations Portal
 
-**Altruism / Compassion**
+### Altruism / Compassion
 
 Spend money while feeling good
 
@@ -215,7 +215,9 @@ Donor - finds a person and donate the required item or buy for him/her
 
 [Effective altruism](../../knowledge/others/philosophy#effective-altruism)
 
-**Affordable housing project**
+[Are future humans really our problem? - YouTube](https://www.youtube.com/watch?v=FQss1IH3MFA)
+
+### Affordable housing project
 
 - Home for underprivileged, affordable housing
 - Like 100rs per month rent type

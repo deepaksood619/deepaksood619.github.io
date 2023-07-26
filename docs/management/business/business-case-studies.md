@@ -364,3 +364,5 @@ Marketing tactic used, light the agarbatti in-front of store and left for 2 days
 [Launching 500 Cities in 9 Months: Behind Swiggy’s EPIC Growth Strategy | GrowthX Insider - YouTube](https://www.youtube.com/watch?v=0hS9w28fWBM)
 
 [The Banana King: The INSANE True Story - YouTube](https://www.youtube.com/watch?v=j6muUD2SUk8)
+
+[How Firstcry TRANSFORMED India’s 4000 Crore E-Commerce Industry | GrowthX Wireframe - YouTube](https://www.youtube.com/watch?v=O7gaqYNPlUY)

@@ -274,3 +274,5 @@ Dijkstra's Guarded Commands - <https://en.wikipedia.org/wiki/Guarded_Command_Lan
 [Demystifying Python Multiprocessing and Multithreading | by David Chong | Towards Data Science](https://towardsdatascience.com/demystifying-python-multiprocessing-and-multithreading-9b62f9875a27)
 
 [Peeking into assembly code to understand why count++ is not atomic - YouTube](https://www.youtube.com/watch?v=kBHd7kn_1EU)
+
+[How to write deadlock free code? - YouTube](https://www.youtube.com/watch?v=Vk2BEiYGeQc)

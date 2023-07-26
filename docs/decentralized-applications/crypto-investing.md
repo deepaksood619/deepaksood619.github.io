@@ -49,6 +49,7 @@
 - [Leading Institutional Staking and RPC Node provider. Stake tokens, host nodes and develop Web3 with us](https://p2p.org/)
 - [MakerDAO | An Unbiased Global Financial System](https://makerdao.com/en/)
 - [Convex](https://www.convexfinance.com/)
+- [RugDoc IO | #1 DeFi Safety & Education Community](https://rugdoc.io/)
 
 ## Games
 
@@ -98,3 +99,5 @@
 [The TOP Countries With ZERO CRYPTO TAXES - YouTube](https://www.youtube.com/watch?v=tdlmv4iHFb4&ab_channel=MoneyRules-InvestingTips)
 
 [How To Time The Market (And GET RICH!) - YouTube](https://www.youtube.com/watch?v=iXn2GyPHQB0)
+
+[Earn Crypto Passive Income: TOP METHODS Revealed!! 💸 - YouTube](https://www.youtube.com/watch?v=Sqo0pOd4dnI)

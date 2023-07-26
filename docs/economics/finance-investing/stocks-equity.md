@@ -8,11 +8,15 @@ Selling stock is as important as buying stock
 
 Don't sell the stocks which gives you high returns, sell the negative or no returns stock
 
-Long-term capital gains from the transfer of equity shares (listed and non-listed) or from stake sales in a startup can be avoided under section 54F of the Income Tax Act, 1961, if the gains are invested in residential property.
-
 Equity risk premium
 
 Stocks are forward looking
+
+### Taxes on ETF / Equity Mutual Funds
+
+Long-term capital gains from the transfer of equity shares (listed and non-listed) or from stake sales in a startup can be avoided under section 54F of the Income Tax Act, 1961, if the gains are invested in residential property.
+
+You can claim exemption against any long-term capital gains tax liability if you invest the net sale proceeds of such capital asset for buying a residential house within two years or get a residential house constructed within three years from the date of sale of such asset. One can claim this exemption even if you have already purchased a house within one year prior to sale of long-term capital gains asset.
 
 ## Screener
 

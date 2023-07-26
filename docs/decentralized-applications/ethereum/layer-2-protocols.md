@@ -2,16 +2,35 @@
 
 In the context of blockchain, a "layer 2" refers to a secondary protocol or technology built on top of a primary blockchain, which provides additional functionality or scalability solutions while relying on the security of the underlying blockchain.
 
-In the case of Ethereum, there are several layer 2 solutions being developed to address the network's current limitations in terms of scalability and transaction throughput. These layer 2 solutions include:
+In the case of Ethereum, there are several layer 2 solutions being developed to address the network's current limitations in terms of scalability and transaction throughput.
 
-1. **Channels:** They allow participants to exchange their transactions off-chain a number of times while only submitting the final 2 transactions to the base layer. Ex - Raiden, Lightning network
+## Types
+
+### Channels
+
+They allow participants to exchange their transactions off-chain a number of times while only submitting the final 2 transactions to the base layer. Ex - Raiden, Lightning network
+
 1. **State channels:** Off-chain agreements between parties that allow for multiple transactions to be conducted without touching the main blockchain until they are settled.
-2. **Payment Channels:**
-2. **Plasma:** A framework for creating a hierarchy of blockchains (or "child chains") that can process transactions off-chain and periodically commit them to the main Ethereum blockchain. Ex - OMG, Matic
-3. **Sidechains:** Independent blockchains that are interoperable with the Ethereum mainnet, allowing for off-chain transactions and reducing congestion on the main network. Ex - xdai
-4. **Rollups:** An approach that allows for the aggregation of multiple transactions into a single transaction on the main Ethereum blockchain, significantly increasing the network's capacity to process transactions.
+2. **Payment Channels**
+
+### Plasma
+
+A framework for creating a hierarchy of blockchains (or "child chains") that can process transactions off-chain and periodically commit them to the main Ethereum blockchain. Ex - OMG, Matic
+
+### Sidechains
+
+Independent blockchains that are interoperable with the Ethereum mainnet, allowing for off-chain transactions and reducing congestion on the main network. Ex - xdai
+
+### Rollups
+
+An approach that allows for the aggregation of multiple transactions into a single transaction on the main Ethereum blockchain, significantly increasing the network's capacity to process transactions.
+
 1. zk-rollups - Ex - Loopring, DeversiFi, zksync
 2. Optimistic rollups - Ex - Optimism
+
+[What are Rollups in Crypto? ZKSnarks vs Optimistics Rollups Explained - YouTube](https://www.youtube.com/watch?v=6_nOYsvXMsE)
+
+## Intro
 
 These layer 2 solutions are intended to improve the efficiency and speed of transactions on the Ethereum network, while maintaining the security and decentralization of the underlying blockchain. Other blockchains, such as Bitcoin, also have their own layer 2 solutions, which include technologies like Lightning Network and Liquid Network.
 
@@ -117,3 +136,5 @@ The variations in security techniques between layer 2 and sidechain solutions ar
 [What is Sharding in Crypto? Scaling Solution (Animated) - YouTube](https://www.youtube.com/watch?v=SZpjvWMfgDA)
 
 [What are Rollups in Crypto? ZKSnarks vs Optimistics Rollups Explained - YouTube](https://www.youtube.com/watch?v=6_nOYsvXMsE)
+
+[Layer 2 Scaling - Playlist YouTube](https://www.youtube.com/playlist?list=PLHx4UicbtUobQJPt_ACy95eDf3FQAiHUi)

@@ -18,6 +18,8 @@ IAEA - International Atomic Energy Agency
 
 [Why Oppenheimer Deserves His Own Movie - YouTube](https://www.youtube.com/watch?v=Xzv84ZdtlE0)
 
+[Oppenheimer's Controversial Legacy - YouTube](https://www.youtube.com/watch?v=nAz6lkosNcA)
+
 ## Batteries / Battery / EV
 
 [Are These Batteries The Future Of Energy Storage? - YouTube](https://www.youtube.com/watch?v=n1TBAWlbXKI)

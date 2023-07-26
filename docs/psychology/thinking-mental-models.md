@@ -11,10 +11,20 @@ You methodically [break down problems](https://forge.medium.com/the-500-year-old
 - The Map is not the Territory
 - Circle of competence
 - Thought Experiment
-- Probablistic Thinking
-- **Gradually, and then suddenly**
 
-The quote is from Ernest Hemingway. The graphic is from Gautam John, a subscriber, who combined two important systems thinking models - the Iceberg Model and Pace Layers framework.
+### Probabilistic Thinking
+
+Probabilistic thinking is essentially trying to estimate, using some tools of math and logic, the likelihood of any specific outcome coming to pass. It is one of the best tools we have to improve the accuracy of our decisions. In a world where each moment is determined by an infinitely complex set of factors, probabilistic thinking helps us identify the most likely outcomes. When we know these our decisions can be more precise and effective.
+
+[Probabilistic Thinking, the one critical right left behind by most people. | by Catherine Wang | Towards Data Science](https://towardsdatascience.com/probabilistic-thinking-the-one-critical-right-left-behind-by-most-people-2f78c2454fdf)
+
+[The Value of Probabilistic Thinking: Spies, Crime, and Lightning Strikes](https://fs.blog/probabilistic-thinking/)
+
+### Gradually, and then suddenly
+
+The quote is from Ernest Hemingway.
+
+Combined two important systems thinking models - the Iceberg Model and Pace Layers framework.
 
 ![image](../media/Thinking-Mental-Models-image1.jpg)
 
@@ -46,17 +56,11 @@ The quote is from Ernest Hemingway. The graphic is from Gautam John, a subscribe
 
 ![image](../media/Thinking-Mental-Models-image2.jpg)
 
-- First principles
+- **First principles -** Break down complex problems into basic elements and create innovative solutions from there.
 
-Break down complex problems into basic elements and create innovative solutions from there.
+- **Abstraction laddering -** Frame your problem better with different levels of abstraction.
 
-- Abstraction laddering
-
-Frame your problem better with different levels of abstraction.
-
-- Inversion
-
-Approach a problem from a different point of view.
+- **Inversion -** Approach a problem from a different point of view.
 
 [Arguing from First Principles](https://en.wikipedia.org/wiki/First_principle) - "A first principle is a basic, foundational, self-evident proposition or assumption that cannot be deduced from any other proposition or assumption." (related:[dimensionality reduction](https://en.wikipedia.org/wiki/Dimensionality_reduction);[orthogonality](https://en.wikipedia.org/wiki/Orthogonality); "Reasonable minds can disagree" if underlying premises differ.)
 

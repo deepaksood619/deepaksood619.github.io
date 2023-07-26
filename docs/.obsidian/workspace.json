@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "decentralized-applications/crypto-investing.md",
+                "file": "frontend/frontend-intro/ui-ux-ixd-design-frontend.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "defillama",
+                "query": "\"codec",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "decentralized-applications/crypto-investing.md",
+                "file": "frontend/frontend-intro/ui-ux-ixd-design-frontend.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "decentralized-applications/crypto-investing.md",
+                "file": "frontend/frontend-intro/ui-ux-ixd-design-frontend.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "decentralized-applications/crypto-investing.md"
+                "file": "frontend/frontend-intro/ui-ux-ixd-design-frontend.md"
               }
             }
           },
@@ -189,34 +189,34 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "978fd2faf621af33",
+  "active": "c1e301c8926bfd7d",
   "lastOpenFiles": [
-    "decentralized-applications/ethereum/40-proof-of-stake.md",
-    "decentralized-applications/development-tools.md",
-    "decentralized-applications/ethereum/dao.md",
-    "decentralized-applications/coins-tokens-chains/dai.md",
-    "decentralized-applications/coins-tokens-chains/uniswap.md",
+    "media/Pasted image 20230726123953.png",
     "decentralized-applications/crypto-investing.md",
+    "decentralized-applications/ethereum/ethereum-staking.md",
+    "office/cakedefi/todo.md",
+    "networking/protocols/video-live-streaming.md",
+    "frontend/html-css/html-intro/tags.md",
+    "networking/networking-concepts/book-computer-networks.md",
+    "languages/php/documentation.md",
     "decentralized-applications/liquidity-mining.md",
+    "economics/finance-investing/stocks-equity.md",
+    "economics/mutual-funds/mutual-funds-indicators.md",
+    "office/personality/movies-serials-apps.md",
     "devops/ides/youtube-podcasts-magazine-apps.md",
-    "office/keep/deepak-cryptos.md",
-    "decentralized-applications/ethereum/ethereum-intro.md",
-    "decentralized-applications/ethereum/readme.md",
-    "office/cakedefi/product.md",
-    "office/personality/neha.md",
-    "office/personality/emails-templates-hiring-interview.md",
     "office/keep/deepak-banks.md",
-    "office/personality/about-me-resume.md",
-    "office/personality/my-body-about-me.md",
-    "office/personality/readme.md",
-    "office/keep/asha-maa.md",
-    "office/keep/deepak-account-credentials.md",
-    "office/keep/family-other-accounts.md",
-    "office/keep/investment.md",
-    "office/keep/manoj-papa.md",
+    "decentralized-applications/defi-apps.md",
+    "knowledge/applied-sciences/mechanical-engineering.md",
     "office/keep/neha.md",
-    "office/keep/others.md",
-    "office/keep/policy-plans.md",
+    "office/todo/my-taxes.md",
+    "economics/finance-investing/returns-tax-taxes-itr.md",
+    "devops/terminal-bash/1-linux-general-unix-linux-commands.md",
+    "decentralized-applications/coins-tokens-chains/nft-non-fungible-tokens.md",
+    "office/keep/deepak-cryptos.md",
+    "decentralized-applications/consensus-protocols.md",
+    "management/mental-models.md",
+    "psychology/thinking-mental-models.md",
+    "book-summaries/thinking-in-systems.md",
     "media/Pasted image 20230721133751.png",
     "media/Pasted image 20230719181140.png",
     "media/Pasted image 20230718133117.png",

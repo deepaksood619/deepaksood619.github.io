@@ -78,3 +78,5 @@ Schooling isn't just about education, it is also a form a childcare
 ## Links
 
 [Colin Powell: Kids need structure | TED - YouTube](https://www.youtube.com/watch?v=NhYnouvrG_8&ab_channel=TED)
+
+[Indian Parents , Their Pravachan And An Important Parenting Tip - YouTube](https://www.youtube.com/watch?v=Sjttt-F2pXE)

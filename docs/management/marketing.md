@@ -552,3 +552,5 @@ Typical OOH formats include billboards, on-car ads, bus-stop shelters, etc.
 [Sell Like Crazy](book-summaries/sell-like-crazy.md)
 
 [The Marketing Secrets Apple & Tesla Always Use: Rory Sutherland | E165 - YouTube](https://www.youtube.com/watch?v=Hz3RWxJck68)
+
+[How Brands Use Design & Marketing to Control Your Mind - YouTube](https://www.youtube.com/watch?v=p6aF5ma7BiM)

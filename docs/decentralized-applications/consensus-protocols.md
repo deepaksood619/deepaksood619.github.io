@@ -130,3 +130,9 @@ To maintain blockchain security and achieve network consensus, BSC combines dele
 ## Proof of History
 
 [Proof of History: How Solana brings time to crypto](https://solana.com/news/proof-of-history)
+
+## Biometric proof of personhood
+
+[Proof of personhood](https://berkeley-defi.github.io/assets/material/Proof%20of%20Person.pdf), aka the "[unique-human problem](https://vitalik.ca/general/2019/11/22/progress.html#numberfifteensic)", is a limited form of real-world identity that asserts that a given registered account is controlled by a real person (and a different real person from every other registered account), ideally without revealing _which_ real person it is.
+
+[What do I think about biometric proof of personhood?](https://vitalik.ca/general/2023/07/24/biometric.html)

@@ -96,7 +96,7 @@ In order to build a **site optimized for organic search engine rankings,** it is
 - Add an XML sitemap
 - Avoid broken links
 - Use vanity/friendly URLs (human readable)
-- Add a robots.txt file
+- Add a robots.txt file - [Test your robots.txt with the robots.txt Tester - Search Console Help](https://support.google.com/webmasters/answer/6062598?hl=en&sjid=16145421751025675359-AP)
 - Integrate Google analytics (or alternative)
 - Specify a favicon, bonus for specifying browser specific icons
 - Ensure lightning fast page load time

@@ -8,6 +8,8 @@ Devops (Development Operations) is a set of practices.
 
 It is a software engineering culture and practice that aims at unifying software development (Dev) and software operations (Ops). The main characteristic of the DevOps movement is to strongly advocate [automation](https://en.wikipedia.org/wiki/Automation) and [monitoring](https://en.wikipedia.org/wiki/Event_monitoring) at all steps of [software construction](https://en.wikipedia.org/wiki/Software_build), from [integration](https://en.wikipedia.org/wiki/Continuous_integration), [testing](https://en.wikipedia.org/wiki/Test_automation), [releasing](https://en.wikipedia.org/wiki/Software_release_life_cycle) to deployment and [infrastructure management](https://en.wikipedia.org/wiki/Infrastructure_as_Code). DevOps aims at shorter development cycles, [increased deployment frequency](https://en.wikipedia.org/wiki/Continuous_delivery), and more dependable releases, in close alignment with business objectives.
 
+[DevOps vs SRE vs Platform Engineering | Clear Big Misconceptions - YouTube](https://www.youtube.com/watch?v=an8SrFtJBdM)
+
 ## What is CI/CD and what are its benefits?
 
 Continuous integration and continuous deployment is a practice wherein you integrate and test your software on every code change. Later on, that code is deployed to production. The main benefit is that it reduces manual work and the chances of human error during deployments.
