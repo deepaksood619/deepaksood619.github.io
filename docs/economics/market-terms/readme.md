@@ -27,6 +27,7 @@ Bulls make money, bears make money, but pigs get slaughtered.
   - coin.zerodha.com
   - console.zerodha.com
   - streak.zerodha.com
+  - [technicals.zerodha.com](https://technicals.zerodha.com/dashboard)
 
 - MoneyControl
 - iqoption

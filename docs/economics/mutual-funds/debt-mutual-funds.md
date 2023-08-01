@@ -56,6 +56,8 @@ Below are ten such duration based categories of debt funds as defined by SEBI:
 
 [https://www.hdfcfund.com/investor-desk/hdfc-mf-weekend-bytes/idcw-or-swp-mutual-funds](https://www.hdfcfund.com/investor-desk/hdfc-mf-weekend-bytes/idcw-or-swp-mutual-funds)
 
+[The best debt fund to invest now | Debt funds | Mutual fund investing - YouTube](https://www.youtube.com/watch?v=j8sQ7gI_70E)
+
 ![image](../../media/Mutual-Funds_Debt-Mutual-Funds-image1.jpg)
 
 **Recurring deposits and fixed deposits can be terribly tax-inefficient for those in the 20% and 30% slabs. Primarily because the gains have to declared and tax paid each financial year. A debt mutual fund is a natural choice.**

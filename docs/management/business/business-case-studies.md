@@ -366,3 +366,5 @@ Marketing tactic used, light the agarbatti in-front of store and left for 2 days
 [The Banana King: The INSANE True Story - YouTube](https://www.youtube.com/watch?v=j6muUD2SUk8)
 
 [How Firstcry TRANSFORMED India’s 4000 Crore E-Commerce Industry | GrowthX Wireframe - YouTube](https://www.youtube.com/watch?v=O7gaqYNPlUY)
+
+[How Masters union is building a Harvard for India? : Business case study - YouTube](https://www.youtube.com/watch?v=yzDF_KX4Zjg)

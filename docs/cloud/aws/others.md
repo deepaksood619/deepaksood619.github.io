@@ -40,3 +40,7 @@ AWS Data Lab offers accelerated, joint engineering engagements between customers
 Data Lab has three offerings - the Build Lab, the Design Lab, and Resident Architect.
 
 [AWS Data Lab](https://aws.amazon.com/aws-data-lab/)
+
+## Amazon Managed Blockchain (AMB)
+
+[AWS expands Amazon Managed Blockchain with Access and Query | AWS Database Blog](https://aws.amazon.com/blogs/database/aws-expands-amazon-managed-blockchain-with-access-and-query/)

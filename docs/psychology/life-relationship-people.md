@@ -414,7 +414,7 @@ Overcoming the 7 greatest challenges that no one expects and everyone experience
 
 ![image](../media/Life-Relationship-People-image7.jpg)
 
-## ikigaiis seen as the convergence of four primary elements
+### ikigaiis seen as the convergence of four primary elements
 
 - What you love (your passion)
 - What the world needs (your mission)
@@ -590,6 +590,14 @@ Ubuntu is an ancient African word meaning '**humanity to others**'. It is often 
 Parasocial interaction(PSI) refers to a kind of [psychological relationship](https://en.wikipedia.org/wiki/Social_relation) experienced by an audience in their mediated encounters with performers in the [mass media](https://en.wikipedia.org/wiki/Mass_media), particularly on [television](https://en.wikipedia.org/wiki/Television) and on [online platforms](https://en.wikipedia.org/wiki/Internet#Social_impact).Viewers or listeners come to consider media personalities as friends, despite having no or limited interactions with them. PSI is described as an [illusionary](https://en.wikipedia.org/wiki/Illusion)[experience](https://en.wikipedia.org/wiki/Experience), such that media audiences interact with [personas](https://en.wikipedia.org/wiki/Persona)(e.g., [talk show](https://en.wikipedia.org/wiki/Talk_show) hosts, [celebrities](https://en.wikipedia.org/wiki/Celebrities), [fictional characters](https://en.wikipedia.org/wiki/Fictional_character), [social media influencers](https://en.wikipedia.org/wiki/Influencer_marketing)) as if they are engaged in a [reciprocal relationship](https://en.wikipedia.org/wiki/Reciprocity_(social_psychology)) with them. The term was coined by Donald Horton and [Richard Wohl](https://en.wikipedia.org/wiki/Richard_Wohl) in 1956.
 
 <https://en.wikipedia.org/wiki/Parasocial_interaction>
+
+## Classes
+
+[Rich Class , Middle Class And Lower Class | A Different Emotion Defining Them - YouTube](https://www.youtube.com/watch?v=0q04x6QKSC4)
+
+- Upper class - Ambitions
+- Middle class - Aspirations
+- Lower class - Enthusiasm
 
 ## Links
 

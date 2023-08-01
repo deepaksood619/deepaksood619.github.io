@@ -276,6 +276,23 @@ An offshore account is one that is opened by a citizen outside her home country.
 
 [Offshore Bank Account: Everything You Need to Know](https://www.winvesta.in/blog/offshore-bank-account/)
 
+## Taxes on house
+
+- In respect of capital gains arising on sale any asset other than a residential house, an individual or an HUF can claim exemption from long term capital gains if the net sale consideration in respect of such asset is invested for acquiring a residential house within a period of two years after sale of such asset.
+- Under Section 54F you should not own more than one residential house property on the date of sale of the asset except the one in respect of which you are claiming the exemption
+- Purchase of the plot by you in your wife’s name will be treated as gift to your wife. As per the provisions of Section 64 of Income Tax Act, all the income arising on property gifted to your spouse is required to be added in your hands.
+- Any gift given to a spouse is exempt from tax. However, if the spouse has no income and the gift is an income generating asset, the income from that asset may be clubbed with the income of the spouse who gifted the asset under clubbing provisions. If both husband and wife wish to claim tax benefit for their joint investments, they may have to enter into a simple agreement bifurcating proportionate ownership for housing loan repayment to reflect in their respective tax returns.
+
+[Taxes on ETF / Equity Mutual Funds](economics/finance-investing/stocks-equity.md)
+
+[I plan to buy house by selling shares. Can some income tax exemption be claimed? | Mint](https://www.livemint.com/money/personal-finance/i-plan-to-buy-house-by-selling-shares-can-some-income-tax-exemption-be-claimed-11648266159497.html)
+
+[Bought plot in wife's name who is a homemaker. On sale, how income tax is calculated | Mint](https://www.livemint.com/money/personal-finance/bought-plot-in-wife-s-name-who-is-a-homemaker-on-sale-how-income-tax-is-calculated-11666516847336.html)
+
+[Section 54EC- Deduction on LTCG Through Capital Gain Bonds](https://cleartax.in/s/section-54ec-bonds)
+
+- Till 50 lakh of LTCG, buy NHAI bonds, get 5% interest rate with 5 year lock in and only pay taxes on interest earned on NHAI bonds and principle which was going to be taxed becomes tax free
+
 ## Links
 
 [How To (LEGALLY) Never Pay Taxes - Do This Today - YouTube](https://www.youtube.com/watch?v=248o4zc9RmI)

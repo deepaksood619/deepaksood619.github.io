@@ -6,63 +6,70 @@ Default join is **INNER JOIN**
 
 ## Types of Joins
 
-### Inner Join
+### Inner Join / Join (Default)
 
 The inner join is probably the most commonly-used type of join in SQL. Inner joins return all rows from two or more tables that meet the join condition.
 
 ![image](../../media/SQL-Joins-image1.jpg)
 
 ```sql
-SELECT columns
-FROM TableA
+SELECT columns FROM TableA
 INNER JOIN TableB
 ON A.columnName = B.columnName;
 ```
 
-### Left [Outer] Join
+### Left [Outer] Join / Outer Join / Left Join
 
 The left outer join (sometimes abbreviated to left join) returns all rows from the left-hand table specified in the ON condition and only the rows from the right-hand table that meet the join condition.
+
+An outer join will combine rows from different tables even if the the join condition is not met. Every row in the left table is returned in the result set, and if the join condition is not met, then NULL values are used to fill in the columns from the right table.
 
 ![image](../../media/SQL-Joins-image2.jpg)
 
 Sample SQL
 
 ```sql
-SELECT columns
-FROM TableA
+SELECT columns FROM TableA
 LEFT OUTER JOIN TableB
 ON A.columnName = B.columnName
+
+SELECT column_name(s) FROM table_1
+LEFT JOIN table_2
+ON table_1.column_name = table_2.column_name;
 ```
 
 ### Left [Outer] Join without Intersection
 
-This join is a variant on the basic left outer join, but instead, it returns all rows from theleft-hand table specified in the ON condition that also meet the join condition andnoneof the rows from theright-hand table that meet the join condition.
+This join is a variant on the basic left outer join, but instead, it returns all rows from the left-hand table specified in the ON condition that also meet the join condition and none of the rows from the right-hand table that meet the join condition.
 
 ![image](../../media/SQL-Joins-image3.jpg)
 
 Sample SQL
 
 ```sql
-SELECT columns
-FROM TableA
+SELECT columns FROM TableA
 LEFT OUTER JOIN TableB
 ON A.columnName = B.columnName
 WHERE B.columnName IS NULL
 ```
 
-### Right [Outer] Join
+### Right [Outer] Join / Right Join
 
-The right outer join (sometimes abbreviated to right join) returns all rows from theright-hand table specified in the ON condition andonlythe rows from theleft-hand table that meet the join condition.
+The right outer join (sometimes abbreviated to right join) returns all rows from the right-hand table specified in the ON condition and only the rows from the left-hand table that meet the join condition.
 
 ![image](../../media/SQL-Joins-image4.jpg)
 
 Sample SQL
 
 ```sql
-SELECT columns
-FROM TableA
+SELECT columns FROM TableA
 RIGHT OUTER JOIN TableB
 ON A.columnName = B.columnName
+
+SELECT column_name(s)
+FROM table_name1
+RIGHT JOIN table_name2
+ON table_name1.column_name=table_name2.column_name
 ```
 
 ### Right [Outer] Join without Intersection
@@ -74,24 +81,22 @@ This join is a variant on the basic right outer join, but instead, it returns al
 Sample SQL
 
 ```sql
-SELECT columns
-FROM TableA
+SELECT columns FROM TableA
 RIGHT OUTER JOIN TableB
 ON A.columnName = B.columnName
 WHERE A.columnName IS NULL
 ```
 
-### Full [Outer] Join
+### Full [Outer] Join / Full Join
 
-The full outer join (sometimes abbreviated to full join) returns all rows from both tables named in the ON condition where the join condition isnotmet (including NULL values).
+The full outer join (sometimes abbreviated to full join) returns all rows from both tables named in the ON condition where the join condition is not met (including NULL values).
 
 ![image](../../media/SQL-Joins-image6.jpg)
 
 Sample SQL
 
 ```sql
-SELECT columns
-FROM TableA
+SELECT columns FROM TableA
 FULL JOIN TableB
 ON A.columnName = B.columnName
 ```
@@ -105,8 +110,7 @@ This variant of the full outer join (sometimes abbreviated to full join) returns
 Sample SQL
 
 ```sql
-SELECT columns
-FROM TableA
+SELECT columns FROM TableA
 FULL JOIN TableB
 ON A.columnName = B.columnName
 WHERE A.columnName IS NULL
@@ -119,11 +123,27 @@ Self join is used to join a table to itself as if the table were two tables, tem
 
 ### Cartesian Join
 
-Cartesian joni returns the Cartesian product of the sets of records from the two or more joined tables
+Cartesian join returns the Cartesian product of the sets of records from the two or more joined tables
 
 ### Cross Join
 
 A CROSS JOIN joins everything with everything. There is no need to provide a key to join on and it can result in a very big data set
+
+Sometimes, we just want to combine all rows of one table with all rows of another table.
+
+For instance, if we had a table of shirts and a table of pants, we might want to know all the possible combinations to create different outfits.
+
+```sql
+SELECT shirts.shirt_color, pants.pants_color FROM shirts CROSS JOIN pants;
+
+SELECT month,
+    COUNT(*)
+FROM newspaper
+CROSS JOIN months
+WHERE start_month <= month
+    AND end_month >= month
+GROUP BY month;
+```
 
 ## [Joins 13 Ways](https://justinjaffray.com/joins-13-ways/)
 

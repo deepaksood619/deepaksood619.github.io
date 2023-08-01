@@ -67,4 +67,8 @@ Lossless WebP compression uses already seen image fragments in order to exactly 
 
 ## References
 
-<https://www.youtube.com/watch?v=-7k3H2GxE5E&t=526s>
+[Progressively loading images - HTTP 203 - YouTube](https://www.youtube.com/watch?v=-7k3H2GxE5E)
+
+[How does a camera work? - YouTube](https://www.youtube.com/watch?v=B7Dopv6kzJA)
+
+[How are Images Compressed? [46MB ↘↘ 4.07MB] JPEG In Depth - YouTube](https://www.youtube.com/watch?v=Kv1Hiv3ox8I)

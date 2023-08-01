@@ -125,3 +125,5 @@ The Association for Computational Linguistics is the international organization 
 ## Links
 
 [NLP - EXPLAINED! - YouTube](https://www.youtube.com/watch?v=LIRwZDEMn2o)
+
+[Convolution in NLP - YouTube](https://www.youtube.com/watch?v=AGWieLbom_g)

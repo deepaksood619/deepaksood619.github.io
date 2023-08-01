@@ -205,70 +205,7 @@ WHERE column_name operator value;
 
 ## COMBINING TABLES
 
-### INNER JOIN / JOIN
-
-An inner join will combine rows from different tables if the join conditionis true.
-
-```sql
-SELECT column_name(s) FROM table_1
-JOIN table_2
-ON table_1.column_name = table_2.column_name;
-```
-
-### LEFT JOIN
-
-```sql
-SELECT column_name(s)
-FROM table_name1
-LEFT JOIN table_name2
-ON table_name1.column_name=table_name2.column_name
-```
-
-### RIGHT JOIN
-
-```sql
-SELECT column_name(s)
-FROM table_name1
-RIGHT JOIN table_name2
-ON table_name1.column_name=table_name2.column_name
-```
-
-### FULL JOIN
-
-```sql
-SELECT column_name(s)
-FROM table_name1
-FULL JOIN table_name2
-ON table_name1.column_name=table_name2.column_name
-```
-
-### OUTER JOIN
-
-An outer join will combine rows from different tables even if the the join condition is not met. Every row in the left table is returned in the result set, and if the join condition is not met, then NULL values are used to fill in the columns from the right table.
-
-```sql
-SELECT column_name(s) FROM table_1
-LEFT JOIN table_2
-ON table_1.column_name = table_2.column_name;
-```
-
-### CROSS JOIN
-
-Sometimes, we just want to combine all rows of one table with all rows of another table.
-
-For instance, if we had a table of shirts and a table of pants, we might want to know all the possible combinations to create different outfits.
-
-```sql
-SELECT shirts.shirt_color, pants.pants_color FROM shirts CROSS JOIN pants;
-
-SELECT month,
-    COUNT(*)
-FROM newspaper
-CROSS JOIN months
-WHERE start_month <= month
-    AND end_month >= month
-GROUP BY month;
-```
+[SQL Joins](languages/sql/sql-joins.md)
 
 ### UNION
 

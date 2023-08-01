@@ -49,6 +49,7 @@ Thinking we know more than we do
 ## Cognitive Dissonance
 
 - New information contradicting our existing beliefs
+- Ex - you like both hamburger and cow
 - Is a state of uneasiness that happens when you have inconsistent beliefs or behavior
 - You may have felt it when you learned new information about the world that contradicted something you'd believed for a long time or maybe you learned something about your behavior that conflicted with your sense of self
 - The state of having inconsistent thoughts, beliefs, or attitudes, especially as relating to behavioural decisions and attitude change
@@ -60,6 +61,16 @@ Thinking we know more than we do
 - Selective exposure
   - Listens to people and media persons that agree with them and dismiss others that challenge their world views
 - We'll go a long way to reduce the feeling that our thoughts or actions don't line up with the way we see ourselves or the world
+
+#### Example
+
+Fox tries to reach grapes that are out of his reach
+
+Outcomes -
+
+1. Get to the grapes
+2. Admit that he was not smart/skilled enough to get to the grapes (Hurts Ego)
+3. Reinterpret the situation retrospectively (Never wanted those sour grapes anyway)
 
 ## [**Selection Bias**](https://en.wikipedia.org/wiki/Selection_bias)
 

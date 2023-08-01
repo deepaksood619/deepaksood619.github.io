@@ -57,6 +57,7 @@
 - [GitHub - cweijan/vscode-office - markdown WYSIWYG](https://github.com/cweijan/vscode-office)
 - [GitHub - zaaack/vscode-markdown-editor: A vscode extension to make your vscode become a  full-featured WYSIWYG markdown editor](https://github.com/zaaack/vscode-markdown-editor)
 - [GitDoc - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=vsls-contrib.gitdoc)
+- [GitHub - ckeditor/ckeditor5: Powerful rich text editor framework with a modular architecture, modern integrations, and features like collaborative editing. WYSIWYG](https://github.com/ckeditor/ckeditor5)
 
 ## Markdown shortcuts in VSCode
 

@@ -63,6 +63,7 @@ Quote of the Week:"Computer programming is an art because it applies accumulated
 - Python Weekly
 - Programmer Weekly
 - Metadata weekly
+- [TLDR Newsletter - A Byte Sized Daily Tech Newsletter](https://tldr.tech/)
 
 ## Learning + Taking notes
 

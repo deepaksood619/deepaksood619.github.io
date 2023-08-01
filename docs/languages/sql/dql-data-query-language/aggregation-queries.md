@@ -301,6 +301,15 @@ SELECT min_by(x, y) FROM VALUES (('a', 10)), (('b', 50)), (('c', 20)) AS tab(x, 
 |[var_samp(expr)](https://docs.databricks.com/sql/language-manual/functions/var_samp.html)|Returns the sample variance calculated from values of a group.|
 |[variance(expr)](https://docs.databricks.com/sql/language-manual/functions/variance.html)|Returns the sample variance calculated from values of a group.|
 
+### COUNT_IF
+
+```sql
+SELECT
+COUNT_IF(col1 = 'abc' AND col2 IN ('abc', 'xyz')) AS cUser
+FROM table_name
+WHERE status = 'ACTIVE'
+```
+
 ## Links
 
 [Window Functions](languages/sql/dql-data-query-language/window-functions.md)

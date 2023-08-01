@@ -41,6 +41,10 @@ Understanding that not all interested stakers can afford 32 ETH to participate i
 
 Delegation is the process by which crypto holders delegate the stake associated with their crypto to a stake pool. It allows crypto holders that do not have the skills or desire to run a node to participate in the network and be rewarded in proportion to the amount of stake delegated.
 
+### What if hundred percent of ethereum is a staked
+
+If 100% of Ethereum is staked, it would mean that all the Ethereum would be locked up in the network and there would be no ETH available for trading or transactions. This is not possible as there will always be some amount of ETH available for trading and transactions. However, if a large percentage of ETH is staked, it could lead to a shortage of ETH in the market which could drive up the price of ETH.
+
 ## Liquid Staking
 
 Staking is a way to help secure proof-of-stake blockchain networks like Ethereum. Network participants can run a validator node by putting tokens "at stake," which can then be "slashed" (taken away as a penalty) if the node commits any malicious actions or is unreliable. While there are many solo node operators, anyone can stake tokens through staking as a service (SaaS) provider-exposing them to the same risks and giving them the opportunity to share in rewards. However, staked tokens cannot be transacted or used as collateral to earn yield across the [DeFi](https://chain.link/education/defi) ecosystem.
@@ -98,6 +102,7 @@ Liquid staking service providers solve this liquidity problem by minting a new t
 - Harvest finance
 - [Convex](https://www.convexfinance.com/) (boost rewards by pulling LP)
 - concentrator
+- [Balancer DeFi Liquidity Pools on Ethereum Mainnet](https://app.balancer.fi/#/ethereum)
 
 ### Links
 

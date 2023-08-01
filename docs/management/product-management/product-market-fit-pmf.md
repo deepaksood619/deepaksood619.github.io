@@ -17,11 +17,13 @@ Finding product/market fit is the main objective of all new products. However, i
 
 A go-to-market (GTM) strategy is a step-by-step plan for launching a new product or expanding an existing product into a new market. It sets your initiative up for success by answering the following questions:
 
-- Whatproduct are you selling, and what unique problem does it solve?
-- Whois your ideal customer, and what pain points do they experience?
+- What product are you selling, and what unique problem does it solve?
+- Who is your ideal customer, and what pain points do they experience?
   - **Ideal customer profile (ICP)**
   - **Buyer personas**
-- Wherewill you sell your product? What markets do you want to pursue, and what does the demand and competition look like in those markets?
-- Howwill you reach your target customers and create demand?
+- Where will you sell your product? What markets do you want to pursue, and what does the demand and competition look like in those markets?
+- How will you reach your target customers and create demand?
+
+![go-to-market-strategy](../../media/Pasted%20image%2020230801121928.png)
 
 <https://asana.com/resources/go-to-market-gtm-strategy>

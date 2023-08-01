@@ -35,3 +35,4 @@ Transform your plain text into static websites and blogs
 - <https://github.com/doczjs/docz>
   - <https://www.docz.site>
 - [Mintlify - Beautiful documentation that converts users](https://mintlify.com/)
+- [GitHub - requarks/wiki: Wiki.js | A modern and powerful wiki app built on Node.js](https://github.com/Requarks/wiki)

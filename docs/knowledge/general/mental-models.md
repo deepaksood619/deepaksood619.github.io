@@ -65,17 +65,21 @@ Mathematics
 
 ## Explaining
 
-- **[Hanlon's Razor](https://en.wikipedia.org/wiki/Hanlon%27s_razor)-** "Never attribute to malice that which is adequately explained by carelessness." (related:[fundamental attribution error](https://en.wikipedia.org/wiki/Fundamental_attribution_error)(FAE) or correspondence bias or attribution effect - " the tendency for people to place an undue emphasis on internal characteristics of the agent (character or intention), rather than external factors, in explaining another person's behavior in a given situation.")
+### [Hanlon's Razor](https://en.wikipedia.org/wiki/Hanlon%27s_razor)
+
+"Never attribute to malice that which is adequately explained by carelessness." (related:[fundamental attribution error](https://en.wikipedia.org/wiki/Fundamental_attribution_error)(FAE) or correspondence bias or attribution effect - " the tendency for people to place an undue emphasis on internal characteristics of the agent (character or intention), rather than external factors, in explaining another person's behavior in a given situation.")
 
 We should not attribute to malice, people do make mistakes
 
 <https://en.wikipedia.org/wiki/Fundamental_attribution_error>
 
-- **[Occam's Razor](https://en.wikipedia.org/wiki/Occam%27s_razor)-** "Among competing hypotheses, the one with the fewest assumptions should be selected." (related:[conjunction fallacy](https://en.wikipedia.org/wiki/Conjunction_fallacy), [overfitting](https://en.wikipedia.org/wiki/Overfitting), "when you hear hoofbeats, think of horses not [zebras](https://en.wikipedia.org/wiki/Zebra_%28medicine%29).")
+### [Occam's Razor](https://en.wikipedia.org/wiki/Occam%27s_razor)
+
+"Among competing hypotheses, the one with the fewest assumptions should be selected." (related:[conjunction fallacy](https://en.wikipedia.org/wiki/Conjunction_fallacy), [overfitting](https://en.wikipedia.org/wiki/Overfitting), "when you hear hoofbeats, think of horses not [zebras](https://en.wikipedia.org/wiki/Zebra_%28medicine%29).")
 
 Simpler explanations are more likely to be true than complicated ones
 
-Occam's Razoris the problem-solving principle that the simplest solution tends to be the right one. When presented with competing [hypotheses](https://en.wikipedia.org/wiki/Hypothesis) to solve a problem, one should select the solution with the fewest assumptions.
+Occam's Razor is the problem-solving principle that the simplest solution tends to be the right one. When presented with competing [hypotheses](https://en.wikipedia.org/wiki/Hypothesis) to solve a problem, one should select the solution with the fewest assumptions.
 
 <https://en.wikipedia.org/wiki/Occam%27s_razor>
 

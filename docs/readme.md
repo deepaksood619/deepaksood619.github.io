@@ -63,8 +63,6 @@ loc
 --------------------------------------------------------------------------------
 ```
 
-### [My Portfolio Website](https://deepaksood619-e5c24.web.app)
-
 ## Getting started
 
 This garden is quite literally my digital brain. It includes my thoughts, notes and links on topics I care about.
@@ -104,3 +102,7 @@ BTC - bc1qfpm3x5qcr6su8ndq8afmw6u5hzdwpyauwkdcdf
 DFI: DFI Chain - df1qtzjm8z8vp05klug8jvhyjnjpg48jqevel9v43r
 
 Paypal - [deepaksood619](https://paypal.me/deepaksood619?country.x=IN&locale.x=en_GB)
+
+## Contact
+
+[Deepak Sood | LinkedIn](https://www.linkedin.com/in/deepaksood619/)

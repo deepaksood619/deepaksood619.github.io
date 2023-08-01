@@ -39,7 +39,6 @@
 - [Zilliqa | Build your future with our native token](https://www.zilliqa.com/what-is-zil)
 - Lending - [PeerHive | Revolutionizing Decentralized P2P Lending Experience](https://peerhive.app/)
 - Defi - [Ether Fi App](https://www.mainnet.ether.fi/)
-- [Balancer DeFi Liquidity Pools on Ethereum Mainnet](https://app.balancer.fi/#/ethereum)
 - [Aave - Open Source Liquidity Protocol](https://aave.com/)
   - [AAVE: MOST Undervalued DeFi Token?! 2022 Update!! - YouTube](https://www.youtube.com/watch?v=fp4YzAgnIqk)
 - [Buy Bitcoin & Ethereum | Cryptocurrency Exchange | Bittrex Global](https://global.bittrex.com/)

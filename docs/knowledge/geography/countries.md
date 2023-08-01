@@ -32,6 +32,8 @@
 
 ### Others
 
+[Taiwan is More Than Microchips and Tensions With China | Economics Explained - YouTube](https://www.youtube.com/watch?v=pvqkehKfQsg)
+
 [Who Controlled Jerusalem the Longest? - YouTube](https://www.youtube.com/watch?v=7GCXhKpoml0)
 
 [How Bangladesh is Secretly Becoming the Richest Country In South Asia - YouTube](https://www.youtube.com/watch?v=MIpdbDKMF14)

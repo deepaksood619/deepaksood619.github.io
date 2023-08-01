@@ -135,4 +135,11 @@ To maintain blockchain security and achieve network consensus, BSC combines dele
 
 [Proof of personhood](https://berkeley-defi.github.io/assets/material/Proof%20of%20Person.pdf), aka the "[unique-human problem](https://vitalik.ca/general/2019/11/22/progress.html#numberfifteensic)", is a limited form of real-world identity that asserts that a given registered account is controlled by a real person (and a different real person from every other registered account), ideally without revealing _which_ real person it is.
 
+- **[Proof of Humanity](https://proofofhumanity.id/)**: you upload a video of yourself, and provide a deposit. To be approved, an existing user needs to vouch for you, and an amount of time needs to pass during which you can be challenged. If there is a challenge, a [Kleros decentralized court](https://kleros.io/about/) determines whether or not your video was genuine; if it is not, you lose your deposit and the challenger gets a reward.
+- **[BrightID](https://brightid.gitbook.io/brightid/getting-verified)**: you join a video call "verification party" with other users, where everyone verifies each other. Higher levels of verification are available via [Bitu](https://medium.com/brightid/what-is-markaz-verification-level-47397372c8eb), a system in which you can get verified if enough other Bitu-verified users vouch for you.
+- **[Idena](http://idena.network/)**: you play a captcha game at a specific point in time (to prevent people from participating multiple times); part of the captcha game involves creating and verifying captchas that will then be used to verify others.
+- **[Circles](https://circles.garden/)**: an existing Circles user vouches for you. Circles is unique in that it does not attempt to create a "globally verifiable ID"; rather, it creates a graph of trust relationships, where someone's trustworthiness can only be verified from the perspective of your own position in that graph.
+
 [What do I think about biometric proof of personhood?](https://vitalik.ca/general/2023/07/24/biometric.html)
+
+[Worldcoin Whitepaper](https://whitepaper.worldcoin.org/)

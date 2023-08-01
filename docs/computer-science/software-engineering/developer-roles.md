@@ -54,3 +54,5 @@
 ![image](../../media/Software-Coding-Development-Engineering-image8.jpg)
 
 [How to get a promotion and become a Staff Engineer at FAANG - YouTube](https://www.youtube.com/watch?v=NJjJctW-K0g)
+
+[How to decide which technology to learn and invest time in? - YouTube](https://www.youtube.com/watch?v=z8m_iKCPTaQ)

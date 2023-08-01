@@ -11,7 +11,7 @@
 - [Litecoin](decentralized-applications/coins-tokens-chains/litecoin.md)
 - [USD Coin (USDC)](decentralized-applications/coins-tokens-chains/usdc.md)
 - [Tether (USDT)](decentralized-applications/coins-tokens-chains/usdt.md)
-- [Cardano](decentralized-applications/coins-tokens-chains/cardano.md)
+- [Cardano - ADA](decentralized-applications/coins-tokens-chains/cardano.md)
 - [DAI](decentralized-applications/coins-tokens-chains/dai.md)
 - [dtokens](decentralized-applications/coins-tokens-chains/dtokens.md)
 - [nft-non-fungible-tokens](decentralized-applications/coins-tokens-chains/nft-non-fungible-tokens.md)

@@ -160,3 +160,5 @@ The **impossible trinity** (also known as **the impossible [trilemma](https://en
 [This Company Printed Your MONEY!! The Hidden Story!! - YouTube](https://www.youtube.com/watch?v=obXUfKhgkco)
 
 [End of the Road: How Money Became Worthless - YouTube](https://www.youtube.com/watch?v=Co_tVd9gA2I)
+
+[Country Risk: A 2023 Mid-year Update - YouTube](https://www.youtube.com/watch?v=F-6_XeUxbmI)

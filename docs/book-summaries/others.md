@@ -20,6 +20,8 @@
 
 [How to defeat your inner enemy: COMING ALIVE by Barry Michels & Phil Stutz | Core Message - YouTube](https://www.youtube.com/watch?v=AFFPoz8bPZ0)
 
+[Infinite mindset = sustained performance | THE INFINITE GAME by Simon Sinek | Core Message - YouTube](https://www.youtube.com/watch?v=jQU36VGWV_o)
+
 ## Links
 
 [Productivity Game - YouTube](https://www.youtube.com/@ProductivityGame)

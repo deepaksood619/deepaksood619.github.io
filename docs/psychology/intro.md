@@ -157,11 +157,11 @@ The Rorschach test is a [psychological test](https://en.wikipedia.org/wiki/Psych
 
 <https://en.wikipedia.org/wiki/Rorschach_test>
 
-<https://www.youtube.com/watch?v=LYi19-Vx6go>
+[How does the Rorschach inkblot test work? - Damion Searls - YouTube](https://www.youtube.com/watch?v=LYi19-Vx6go)
 
-## Barnum Effect / Statement
+## Barnum Effect / Generalized Statement (That sounds like me)
 
-Barnum Effect, also called ForerEffect, in psychology, the phenomenon that occurs when individuals believe that personality descriptions apply specifically to them (more so than to other people), despite the fact that the description is actually filled with information that applies to everyone.
+Barnum Effect, also called Forer Effect, in psychology, the phenomenon that occurs when individuals believe that personality descriptions apply specifically to them (more so than to other people), despite the fact that the description is actually filled with information that applies to everyone.
 
 ## 4 stages of personal development
 

@@ -33,3 +33,7 @@
 [Augmented Analytics with Tableau](https://www.tableau.com/learn/webinars/augmented-analytics-tableau)
 
 [Augmented Analytics with Tableau - Ask Data & Explain Data](https://www.tableau.com/learn/webinars/augmented-analytics-with-tableau-ask-data-explain-data)
+
+[Introducing Databricks Assistant, a context-aware AI assistant | Databricks Blog](https://www.databricks.com/blog/introducing-databricks-assistant)
+
+[Introducing LakehouseIQ: The AI-Powered Engine that Uniquely Understands Your Business | Databricks Blog](https://www.databricks.com/blog/introducing-lakehouseiq-ai-powered-engine-uniquely-understands-your-business)

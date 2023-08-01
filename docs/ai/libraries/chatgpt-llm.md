@@ -88,6 +88,8 @@ Merlin Chrome Extension
 
 [Air](https://www.air.ai/)
 
+[Runway - Advancing creativity with artificial intelligence.](https://runwayml.com/)
+
 #### Prompts
 
 [https://snackprompt.com](https://snackprompt.com/)
@@ -107,6 +109,10 @@ Prompt: "I want to learn about {insert topic}. Identify and share the most impor
 ## Dev Tools
 
 [Welcome to LangChain - 🦜🔗 LangChain 0.0.180](https://python.langchain.com/en/latest/index.html)
+
+[Llama 2 - Meta AI](https://ai.meta.com/llama/)
+
+[Building your Generative AI apps with Meta's Llama 2 and Databricks | Databricks Blog](https://www.databricks.com/blog/building-your-generative-ai-apps-metas-llama-2-and-databricks)
 
 ## Links
 
