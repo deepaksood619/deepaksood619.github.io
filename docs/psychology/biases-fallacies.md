@@ -33,7 +33,6 @@ We tend to see what is present, and overlook what isn't there. This can wreak ha
 <https://en.wikipedia.org/wiki/Cognitive_bias>
 
 <https://en.wikipedia.org/wiki/Cognitive_bias_mitigation>
-
 ## Dunning-Kruger Effect
 
 "Relatively unskilled persons suffer illusory superiority, mistakenly assessing their ability to be much higher than it really is... and highly skilled individuals may underestimate their relative competence and may erroneously assume that tasks which are easy for them are also easy for others." (related: [overconfidence effect](https://en.wikipedia.org/wiki/Overconfidence_effect))
