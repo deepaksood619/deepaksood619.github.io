@@ -21,3 +21,5 @@ Compared to Polkadot and Cosmos
 [Polygon PoS Chain - A Commit Chain? DeFi Explained - YouTube](https://www.youtube.com/watch?v=f7F67ZP9fsE)
 
 [What is Polygon? MATIC Explained with Animations - YouTube](https://www.youtube.com/watch?v=GWUwFDFOipo)
+
+[Polygon 2.0: Protocol Architecture](https://polygon.technology/blog/polygon-2-0-protocol-vision-and-architecture)

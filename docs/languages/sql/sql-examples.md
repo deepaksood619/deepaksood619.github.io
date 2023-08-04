@@ -461,3 +461,23 @@ FROM
 GROUP BY UPPER(TRIM(CreatedBy))
 ORDER BY UPPER(TRIM(CreatedBy)) DESC;
 ```
+
+```sql
+-- [StrataScratch](https://platform.stratascratch.com/coding/2165-sales-percentage-weeks-beginning-and-end)
+WITH first_week_day AS (
+ SELECT
+  date(to_timestamp(invoicedate,
+  'DD/MM/YYYY HH24:MI')) AS first_day,
+  sum(quantity * unitprice) AS first_day_sales
+ FROM
+  early_sales
+ WHERE
+  date(to_timestamp(invoicedate,
+  'DD/MM/YYYY HH24:MI')) = date(date_trunc('week',
+  to_timestamp(invoicedate,
+  'DD/MM/YYYY HH24:MI')))
+ GROUP BY
+  1
+ )
+SELECT * FROM first_week_day;
+```

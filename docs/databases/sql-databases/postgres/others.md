@@ -120,3 +120,7 @@ Many powerful features are included in pgBackRest, including parallel backup and
 <https://info.crunchydata.com/blog/how-to-get-started-with-pgbackrest-and-postgresql-12>
 
 [https://www.kubegres.io/](https://www.kubegres.io/)
+
+## Others
+
+[GitHub - hydradatabase/hydra: Hydra: Column-oriented Postgres. Add scalable analytics to your project in minutes.](https://github.com/hydradatabase/hydra)

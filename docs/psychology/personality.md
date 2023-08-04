@@ -16,50 +16,50 @@ MBTI - Myers-Briggs Type Indicator for personality test
 
 ## Big 5 Theories of Personality
 
-1. **Extraversion**
+### 1. Extraversion
 
-   - Talkative
-   - Loud
-   - Energetic
-   - Adventurous
-   - Sociable
-   - Outgoing
+- Talkative
+- Loud
+- Energetic
+- Adventurous
+- Sociable
+- Outgoing
 
-2. **Openness**
+### 2. Openness
 
-   - Innovative
-   - Artistic
-   - Imaginative
-   - Creative
-   - Refined
-   - Intellectual
+- Innovative
+- Artistic
+- Imaginative
+- Creative
+- Refined
+- Intellectual
 
-3. **Agreeableness**
+### 3. Agreeableness
 
-   - Kind
-   - Pleasant
-   - Gentle
-   - Cooperative
-   - Generous
-   - Mild
+- Kind
+- Pleasant
+- Gentle
+- Cooperative
+- Generous
+- Mild
 
-4. **Conscientiousness**
+### 4. Conscientiousness
 
-   - Organized
-   - Fussy
-   - Efficient
-   - Neat
-   - Thorough
-   - Systematic
+- Organized
+- Fussy
+- Efficient
+- Neat
+- Thorough
+- Systematic
 
-5. **Neuroticism**
+### 5. Neuroticism
 
-   - Tense
-   - Irritable
-   - Nervous
-   - Anxious
-   - Sad
-   - Touchy
+- Tense
+- Irritable
+- Nervous
+- Anxious
+- Sad
+- Touchy
 
 ## 12 Positive Personality Traits Of Effective People
 
@@ -143,4 +143,4 @@ Give effective people a challenge, and they'll think about a solution. Give them
 
 ## Links
 
-- [The path between us](../book-summaries/the-path-between-us)
+[The path between us](../book-summaries/the-path-between-us)

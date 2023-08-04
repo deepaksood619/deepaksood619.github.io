@@ -28,27 +28,27 @@ An Advocate (INFJ) is someone with the [Introverted](https://www.16personalities
 
 ![image](../media/Personality-Deepak-image1.jpg)
 
-**Mind - Introvert**
+#### Mind - Introvert
 
 Introverted individuals tend to prefer fewer, yet deep and meaningful, social interactions and often feel drawn to calmer environments.
 
-**Energy - Intuitive**
+#### Energy - Intuitive
 
 Intuitive individuals are very imaginative, open-minded, and curious. They value originality and focus on hidden meanings and distant possibilities.
 
-**Nature - Feeling**
+#### Nature - Feeling
 
 Feeling individuals value emotional expression and sensitivity. They place a lot of importance on empathy, social harmony, and cooperation.
 
-**Tactics - Judging**
+#### Tactics - Judging
 
 Judging individuals are decisive, thorough, and highly organized. They value clarity, predictability, and closure, preferring structure and planning to spontaneity.
 
-**Identity - Assertive**
+#### Identity - Assertive
 
 Assertive individuals are self-assured, even-tempered, and resistant to stress. They refuse to worry too much and tend to be self-confident when striving to achieve goals.
 
-**Advocates are one of the most likely personality types to...**
+### Advocates are one of the most likely personality types to
 
 - ...often feel misunderstood (94%)
 - ...feel like helping others gives them purpose (93%)
@@ -74,3 +74,7 @@ Assertive individuals are self-assured, even-tempered, and resistant to stress. 
 [Personality](psychology/personality.md)
 
 [Myers–Briggs Type Indicator - Wikipedia](https://en.wikipedia.org/wiki/Myers%E2%80%93Briggs_Type_Indicator)
+
+[7 Random Ways Advocates (INFJs) Are the Most Extreme Personality Type | 16Personalities](https://www.16personalities.com/articles/7-random-ways-advocates-infjs-are-the-most-extreme-personality-type)
+
+[It’s Hard for an Advocate (INFJ) to Truly Love Their Work Without… | 16Personalities](https://www.16personalities.com/articles/its-hard-for-an-advocate-infj-to-truly-love-their-work-without)

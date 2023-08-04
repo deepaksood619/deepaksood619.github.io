@@ -67,6 +67,8 @@ These caches often act as a proxy between some external resource, like a databas
 
 [Cache Coherence / Invalidation](cache-coherence-invalidation)
 
+### [BFCache | others](frontend/frontend-intro/others.md)
+
 ## Locality of reference / Cache locality / Principle of locality
 
 It is the tendency of a processor to access the same set of memory locations repetitively over a short period of time.

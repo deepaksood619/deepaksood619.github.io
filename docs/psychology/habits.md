@@ -10,7 +10,7 @@ When you make your bed, you embody the identity of someone who is clean and orga
 
 What identity are you embodying today? Who are your habits helping you become?
 
-<https://www.youtube.com/watch?v=o7w5r5PfBKo>
+[How to Trick Your Brain to Like Doing Hard Things – Atomic Habits by James Clear - YouTube](https://www.youtube.com/watch?v=o7w5r5PfBKo)
 
 ## Core Ideas of Self Improvement
 
@@ -24,23 +24,7 @@ What identity are you embodying today? Who are your habits helping you become?
 
 <https://www.scotthyoung.com/blog/2020/03/23/core-self-improvement-ideas>
 
-## Quotes
-
-How long does it take to build a habit?
-
-21 days? 30 days? 66 days?
-
-The honest answer is: forever. Because once you stop doing it, it is no longer a habit.
-
-A habit is a lifestyle to be lived, not a finish line to be crossed. Make small, sustainable changes you can stick with.
-
-Make it so easy you can't say no - Leo Babauta
-
-The key - if you want to build habits that last - is to join a group where the desired behavior is the normal behavior.
-
-The recipe for Sustained Success
-
-**Identity-Based habits**
+### Identity-Based habits
 
 Changing your beliefs isn't nearly as hard as you might think. There are two steps.
 
@@ -51,9 +35,7 @@ Changing your beliefs isn't nearly as hard as you might think. There are two ste
 
 ## Ask Questions
 
-If you did that activity continuously for a year, would your life be any different?
-
-If not then don't do it
+If you did that activity continuously for a year, would your life be any different? If not then don't do it.
 
 ## Natural Recoverers
 
@@ -283,3 +265,5 @@ Habits are an important tool, but they're just a tool. Like a hammer or a saw, t
 - [The Seven Habits of Highly Effective People](../book-summaries/the-seven-habits-of-highly-effective-people)
 - [Atomic Habits](../book-summaries/atomic-habits)
 - [Procastination](procastination)
+- [Habits | Quotes](knowledge/quotes-proverbs/habits.md)
+- [When are Minimal Habits Useful for Learning? - Scott H Young](https://www.scotthyoung.com/blog/2023/06/20/minimal-habits-learning/)

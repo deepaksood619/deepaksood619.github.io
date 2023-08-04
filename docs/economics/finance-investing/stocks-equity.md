@@ -1,6 +1,6 @@
 # Stocks / Equity
 
-The stock market is a device for transferring money from the impatient to the patient -- Warren Buffet
+The stock market is a device for transferring money from the impatient to the patient - Warren Buffet
 
 <https://marcellus.in/newsletter/consistent-compounders/studying-the-holiday-schedule-of-consistent-compounders>
 
@@ -72,8 +72,9 @@ You can claim exemption against any long-term capital gains tax liability if you
 
 ![image](../../media/TODO-Financial-Finance-Investing_Stocks-image7.jpg)
 
-- **Happiest Minds**
-- **Dixon**
+- Happiest Minds
+- Dixon
+- V-Guard / Havells
 
 ## Marcellus
 

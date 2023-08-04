@@ -128,6 +128,9 @@ Sec 80U - Handicapped
 
 ### Sec 80TTA / 80TTB - Interest on saving a/c (upto 10000)
 
+- Exemption upto 10,000 for interest earned in savings bank account (less than 60 years) - does not include fixed deposit / RD
+- Exemption upto 50,000 for interest earned for term deposits / RD for age greater than 60 years
+
 [**https://cleartax.in/s/claiming-deduction-on-interest-under-section-80tta**](https://cleartax.in/s/claiming-deduction-on-interest-under-section-80tta)
 
 ### 80DDB - Dependent Critical Illness (upto 1,00,000)

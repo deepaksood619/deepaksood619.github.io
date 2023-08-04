@@ -48,3 +48,5 @@ _Partition pruning_ is a query optimization technique that improves performance 
 [Partitioning Improvements in PostgreSQL 13 - Highgo Software Inc.](https://www.highgo.ca/2020/08/08/partitioning-improvements-in-postgresql-13/)
 
 [They Enabled Postgres Partitioning and their Backend fell apart - YouTube](https://www.youtube.com/watch?v=YPorP8BsF_c)
+
+[Mastering PostgreSQL Table Partitioning](https://fragland.dev/a-guide-to-table-partitioning-with-postgresql-12)

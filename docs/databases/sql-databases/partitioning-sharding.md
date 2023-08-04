@@ -126,7 +126,8 @@ It's very common to sort keys in order. HBase keys are sorted in byte order, whi
 
 ![image](../../media/Partitioning-Sharding-image8.jpg)
 
-In Figure 2 (source:[MongoDB uses range-based sharding to partition data](https://docs.mongodb.com/manual/core/ranged-sharding/)), the key space is divided into (minKey, maxKey). Each sharding unit (chunk) is a section of continuous keys. The advantage of range-based sharding is that the adjacent data has a high probability of being together (such as the data with a common prefix), which can well support operations likerange scan. For example, HBase Region is a typical range-based sharding strategy.
+In Figure 2 (source:[MongoDB uses range-based sharding to partition data](https://docs.mongodb.com/manual/core/ranged-sharding/)), the key space is divided into (minKey, maxKey). Each sharding unit (chunk) is a section of continuous keys. The advantage of range-based sharding is that the adjacent data has a high probability of being together (such as the data with a common prefix), which can well support operations like range scan. For example, HBase Region is a typical range-based sharding strategy.
+
 However, range-based sharding is not friendly to sequential writes with heavy workloads. For example, in the time series type of write load, the write hotspot is always in the last Region. This occurs because the log key is generally related to the timestamp, and the time is monotonically increasing. But relational databases often need to executetable scan(orindex scan), and the common choice is range-based sharding.
 
 ### Hash-Range combination sharding
@@ -181,6 +182,7 @@ High Scalability - <http://highscalability.com/unorthodox-approach-database-desi
 <https://www.vertabelo.com/blog/everything-you-need-to-know-about-mysql-partitions>
 
 MySQL partitioning is about altering -- ideally, optimizing -- the way the database engine physically stores data. It allows you to distribute portions of table data (a.k.a. partitions) across the file system based on a set of user-defined rules (a.k.a. the "partitioning function"). In this way, if the queries you perform access only a fraction of table data and the partitioning function is properly set, there will be less to scan and queries will be faster.
+
 It is important to note that partitioning makes the most sense when dealing with large data sets. If you have fewer than a million rows or only thousands of records, partitioning will not make a difference.
 
 ## Advantages
@@ -196,3 +198,5 @@ Four partition types available: RANGE, LIST, HASH and KEY
 ## Links
 
 [How @ShopifyEngineering avoids hot shards by moving data across databases without any downtime - YouTube](https://www.youtube.com/watch?v=7v-wrJjcg4k)
+
+[Mastering PostgreSQL Table Partitioning](https://fragland.dev/a-guide-to-table-partitioning-with-postgresql-12)

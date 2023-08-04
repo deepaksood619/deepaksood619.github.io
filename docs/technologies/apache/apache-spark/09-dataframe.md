@@ -60,6 +60,19 @@ dfFilter.sort(desc(df.groupby('DepositTransactionId').count())).display()
 df = df.dropDuplicates()
 ```
 
+### CAST
+
+```python
+# cast columns to different types
+from pyspark.sql.functions import col
+
+from pyspark.sql.types import DateType, LongType, DoubleType, IntegerType, BooleanType
+
+df = df.withColumn("col_name", col("col_name").cast(IntegerType())) \
+.withColumn("col_name2", col("col_name2").cast(IntegerType())) \
+.withColumn("col_name3", col("col_name3").cast(BooleanType()))
+```
+
 ## Spark DataFrame vs Pandas DataFrame
 
 | Spark DataFrame | Pandas DataFrame |

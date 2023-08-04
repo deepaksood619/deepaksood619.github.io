@@ -148,8 +148,9 @@ As a general rule, "has" is used in the third person singular ("he", "she", "it"
 - BTFB - buy the fucking dip
 - BTFB - bounce the fuck back
 - WGMI - We are Gonna Make It
-- Shilling is _when a person or group of persons promotes a particular cryptocurrency to create excitement for it_.
 - NGMI - not gonna make it
+- Shilling is _when a person or group of persons promotes a particular cryptocurrency to create excitement for it_.
 - Phenomenon (singular) vs Phenomena (plural)
 - Iconoclastic - criticizing or attacking cherished beliefs or institutions.
 - Plenitude - abundance
+- Gordian knot - an extremely difficult or involved problem

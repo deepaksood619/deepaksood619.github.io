@@ -109,6 +109,8 @@ The **impossible trinity** (also known as **the impossible [trilemma](https://en
 
 ## Links
 
+[Finshots Recap — The best stories on economics](https://finshots.in/archive/recap-2022-the-best-stories-on-economics/)
+
 [Data Update 1 for 2023: Setting the table](https://www.youtube.com/watch?v=RKJ1c442AcY)
 
 ![image](../../media/data-items-company-level.jpg)
@@ -162,3 +164,5 @@ The **impossible trinity** (also known as **the impossible [trilemma](https://en
 [End of the Road: How Money Became Worthless - YouTube](https://www.youtube.com/watch?v=Co_tVd9gA2I)
 
 [Country Risk: A 2023 Mid-year Update - YouTube](https://www.youtube.com/watch?v=F-6_XeUxbmI)
+
+[What’s Happening with the Economy? The Great Wealth Transfer](https://www.linkedin.com/pulse/whats-happening-economy-great-wealth-transfer-ray-dalio/)

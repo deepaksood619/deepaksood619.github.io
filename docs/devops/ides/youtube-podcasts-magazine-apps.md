@@ -316,6 +316,7 @@
 - [No Stupid Questions Archives - Freakonomics](https://freakonomics.com/series/nsq/)
 - The Indian Dream | A podcast by Sahil and Siddharth
 - [Business Wars with David Brown](https://wondery.com/shows/business-wars/)
+- Search Engine by PJ Vogt
 
 <https://www.freecodecamp.org/news/best-tech-podcasts-for-software-developers>
 

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ai/libraries/chatgpt-llm.md",
+                "file": "psychology/biases-fallacies.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "midjourney",
+                "query": "the-knowledge-illusion",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -81,7 +81,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -101,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ai/libraries/chatgpt-llm.md",
+                "file": "psychology/biases-fallacies.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ai/libraries/chatgpt-llm.md",
+                "file": "psychology/biases-fallacies.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ai/libraries/chatgpt-llm.md"
+                "file": "psychology/biases-fallacies.md"
               }
             }
           },
@@ -189,35 +190,36 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "978fd2faf621af33",
+  "active": "c1e301c8926bfd7d",
   "lastOpenFiles": [
-    "readme.md",
-    "office/blocktoons/people.md",
-    "devops/ides/obsidian-in-vscode.md",
-    "knowledge/quotes-proverbs/coding.md",
-    "office/todo/todo-tech-&-courses.md",
-    "frontend/others/static-site-generators.md",
-    "frontend/others/docusaurus.md",
-    "office/keep/deepak-cryptos.md",
-    "office/keep/manoj-papa.md",
-    "ai/libraries/chatgpt-llm.md",
-    "ai/data-science/tableau/augmented-analytics.md",
-    "management/product-management/product-market-fit-pmf.md",
-    "media/Pasted image 20230801121928.png",
-    "office/keep/neha.md",
-    "knowledge/language/grammer-vocabulary.md",
-    "networking/others/delta-lake-tutorial.md",
-    "languages/sql/dql-data-query-language/aggregation-queries.md",
-    "cloud/aws/others.md",
-    "office/keep/deepak-banks.md",
-    "economics/mutual-funds/debt-mutual-funds.md",
-    "office/personality/movies-serials-apps.md",
-    "computer-science/general/newsletter-learning-resources.md",
+    "psychology/learning/learning-intro.md",
+    "psychology/biases-fallacies.md",
+    "book-summaries/the-knowledge-illusion.md",
+    "media/Pasted image 20230804235124.png",
+    "psychology/thinking-mental-models.md",
+    "knowledge/general/mental-models.md",
+    "management/mental-models.md",
+    "psychology/mental-models.md",
+    "psychology/learning/chunking-the-essentials.md",
+    "psychology/learning/tips.md",
+    "psychology/learning/speed-reading.md",
+    "psychology/learning/note-taking-second-brain-pkm-zettelkasten.md",
     "office/blocktoons/infra.md",
-    "networking/others/delta-lake.md",
-    "technologies/apache/databricks/03-optimizations.md",
-    "knowledge/applied-sciences/embedded-systems-electronics.md",
-    "office/personality/addresses-electricity.md",
+    "decentralized-applications/coins-tokens-chains/bitcoin.md",
+    "decentralized-applications/ethereum/layer-2-protocols.md",
+    "databases/sql-databases/postgres/others.md",
+    "ai/data-science/tableau/concepts.md",
+    "ai/data-science/tableau/data-sources.md",
+    "ai/data-science/tableau/readme.md",
+    "ai/data-science/tableau/data-model.md",
+    "ai/data-science/tableau/architecture-components.md",
+    "office/cakedefi/infra.md",
+    "frontend/js-javascript/web-api.md",
+    "frontend/frontend-intro/others.md",
+    "frontend/frontend-intro/readme.md",
+    "frontend/readme.md",
+    "media/Pasted image 20230802182140.png",
+    "media/Pasted image 20230801121928.png",
     "media/Pasted image 20230726123953.png",
     "media/Pasted image 20230721133751.png",
     "media/Pasted image 20230719181140.png",
@@ -225,10 +227,8 @@
     "media/Pasted image 20230716224959.png",
     "media/Pasted image 20230715103730.png",
     "media/Pasted image 20230714180337.png",
-    "media/Pasted image 20230714180101.png",
     "ai/data-science/tableau",
     "Untitled",
-    "media/Pasted image 20230710130750.png",
     "office.zip",
     "office/stashfin-credentials",
     "management/people-management",

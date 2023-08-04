@@ -87,6 +87,8 @@ A cryptographic method for proving a statement is true without revealing any inf
 
 [Zero Knowledge Proof (with Avi Wigderson) - Numberphile - YouTube](https://www.youtube.com/watch?v=5ovdoxnfFVc)
 
+[What Is A zkEVM? — Linea](https://linea.mirror.xyz/qD18IaQ4BROn_Y40EBMTUTdJHYghUtdECscSWyMvm8M)
+
 ### zk-SNARK
 
 The acronym **zk-SNARK stands for "Zero-Knowledge Succinct Non-Interactive Argument of Knowledge,"** and refers to a proof construction where one can prove possession of certain information, e.g. a secret key, without revealing that information, and without any interaction between the prover and verifier. In May 2022, Zcash began the process of upgrading its underlying cryptography and moving to a new proof composition called Halo.

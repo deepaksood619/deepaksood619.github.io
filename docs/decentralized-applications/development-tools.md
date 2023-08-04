@@ -73,6 +73,7 @@ This is a tool that analyzes the token’s smart contract, tokenomics, holders, 
 - [The GRAPH - Google Of Blockchains? GRT Token Explained - YouTube](https://www.youtube.com/watch?v=7gC7xJ_98r8)
 - [WalletConnect](https://walletconnect.com/)
 - [Chainlist](https://chainlist.org/)
+- [Mantle | Mass Adoption of Decentralized and Token-Governed Technologies](https://www.mantle.xyz/)
 
 ### Uniswap Build Tools
 

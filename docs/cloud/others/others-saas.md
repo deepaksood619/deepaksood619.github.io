@@ -177,6 +177,11 @@ Auto ads use Google's smart technology to:
 
 Ex for adsense - <https://deepaksood619.github.io/ads.txt>
 
+## Payments
+
+- [Shopflo · A checkout that converts](https://shopflo.com/)
+- Stripe
+
 ## Others
 
 <https://www.nylas.com>

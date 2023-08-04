@@ -113,6 +113,7 @@ Prompt: "I want to learn about {insert topic}. Identify and share the most impor
 [Llama 2 - Meta AI](https://ai.meta.com/llama/)
 
 [Building your Generative AI apps with Meta's Llama 2 and Databricks | Databricks Blog](https://www.databricks.com/blog/building-your-generative-ai-apps-metas-llama-2-and-databricks)
+[GitHub - stoyan-stoyanov/llmflows: LLMFlows - Simple, Explicit and Transparent LLM Apps](https://github.com/stoyan-stoyanov/llmflows)
 
 ## Links
 

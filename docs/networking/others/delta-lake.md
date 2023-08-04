@@ -102,6 +102,19 @@ CREATE TABLE target_schema.gold.target_table_name CLONE source_schema.gold.sourc
 
 [Constraints on Databricks | Databricks on AWS](https://docs.databricks.com/tables/constraints.html)
 
+## Feature Compatibility
+
+[How does Databricks manage Delta Lake feature compatibility? | Databricks on AWS](https://docs.databricks.com/en/delta/feature-compatibility.html)
+
+```sql
+-- For enabling drop and rename columns command
+
+ALTER TABLE table_name SET TBLPROPERTIES (
+'delta.columnMapping.mode' = 'name',
+'delta.minReaderVersion' = '2',
+'delta.minWriterVersion' = '5');
+```
+
 ## Others
 
 [How does Databricks manage Delta Lake feature compatibility? | Databricks on AWS](https://docs.databricks.com/delta/feature-compatibility.html)

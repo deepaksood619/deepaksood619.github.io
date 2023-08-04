@@ -39,12 +39,6 @@
 
 ![image](../../media/Dimensionality-Reduction-image2.jpg)
 
-![image](../../media/Dimensionality-Reduction-image3.jpg)
-
-![image](../../media/Dimensionality-Reduction-image4.jpg)
-
-![image](../../media/Dimensionality-Reduction-image5.jpg)
-
 ![image](../../media/Dimensionality-Reduction-image6.jpg)
 
 ![image](../../media/Dimensionality-Reduction-image7.jpg)
@@ -80,12 +74,32 @@
 - Evaluate a subset of feature
 - Search for the best subset
 
-- Techniques
-  - Brute-force approach
-    - Try all possible feature subsets as input to data mining algorithm
-  - Embedded approaches
-    - Feature selection occurs natually as part of the data mining algorithm
-  - Fiter approaches
-    - Features are selected before data mining algorithm is run
-  - Wrapper approaches
-    - Use the data mining algorithm as a black box to find best subset of attributes
+### Techniques
+
+#### Brute-force approach
+
+Try all possible feature subsets as input to data mining algorithm
+
+#### Embedded approaches
+
+Feature selection occurs natually as part of the data mining algorithm
+
+#### Fiter approaches
+
+Features are selected before data mining algorithm is run
+
+#### Wrapper approaches
+
+Use the data mining algorithm as a black box to find best subset of attributes
+
+## Feature Creation
+
+- Create new attributes that can capture the important information in a data set much more efficiently than the original attributes
+- Three general methodologies
+  - Feature Extraction - domain-specific
+  - Mapping data to new space
+  - Feature construction - combining features
+
+## Links
+
+[Introduction to dimensionality reduction - Blog | Hex](https://hex.tech/blog/dimensionality-reduction/)

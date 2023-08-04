@@ -21,3 +21,5 @@ Earth overshoot day - 27 July
 [El Niño 2023 could be a monster! - YouTube](https://www.youtube.com/watch?v=rwdxffEzQ9I)
 
 [The Broken Economics of the Oceans - YouTube](https://www.youtube.com/watch?v=73ygHs4Kwcs)
+
+[Finshots Recap — The best stories on climate change](https://finshots.in/archive/recap-2022-climate-change/)

@@ -78,11 +78,29 @@ Yield farming involves maximizing returns on cryptocurrency holdings by moving t
 
 ## Curve Finance
 
+### Gauges
+
+#### The gauge system
+
+On Curve Finance, the inflation is going to users who provide liquidity. This usage is measured with gauges. The liquidity gauge measures how much a user is providing in liquidity.
+
+The liquidity gauge measures how many dollars you have provided in a Curve pool. Each Curve pool has its own liquidity gauge where you can stake your liquidity provider tokens
+
+#### The weight system
+
+Each gauge also has a weight and a type. Those weights represent how much of the daily CRV inflation will be received by the liquidity gauge.
+
+#### The DAO
+
+The weight systems allow the Curve DAO to dictate where the CRV inflation should go.
+
 [Understanding Gauges - Curve Finance](https://resources.curve.fi/reward-gauges/understanding-gauges)
 
 [Curve Finance: Deposit & stake liquidity | Lido Finance - YouTube](https://www.youtube.com/watch?v=kBe0yrFvX7I)
 
 [Pool - Curve](https://curve.fi/#/ethereum/pools/steth/deposit/)
+
+[Understanding Curve Pools - Curve Resources](https://resources.curve.fi/lp/understanding-curve-pools/)
 
 ## Links
 

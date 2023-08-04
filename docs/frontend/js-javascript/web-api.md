@@ -7,7 +7,7 @@ Application Programming Interfaces (APIs) are constructs made available in progr
 Client-side JavaScript, in particular, has many APIs available to it - these are not part of the JavaScript language itself, rather they are built on top of the core JavaScript language, providing you with extra superpowers to use in your JavaScript code. They generally fall into two categories:
 
 - **Browser APIs** are built into your web browser and are able to expose data from the browser and surrounding computer environment and do useful complex things with it. For example, the [Web Audio API](https://developer.mozilla.org/en-US/docs/Web/API/Web_Audio_API) provides JavaScript constructs for manipulating audio in the browser - taking an audio track, altering its volume, applying effects to it, etc. In the background, the browser is actually using some complex lower-level code (e.g. C++ or Rust) to do the actual audio processing. But again, this complexity is abstracted away from you by the API.
-- **Third-party APIs**are not built into the browser by default, and you generally have to retrieve their code and information from somewhere on the Web. For example, the [Twitter API](https://dev.twitter.com/overview/documentation) allows you to do things like displaying your latest tweets on your website. It provides a special set of constructs you can use to query the Twitter service and return specific information.
+- **Third-party APIs** are not built into the browser by default, and you generally have to retrieve their code and information from somewhere on the Web. For example, the [Twitter API](https://dev.twitter.com/overview/documentation) allows you to do things like displaying your latest tweets on your website. It provides a special set of constructs you can use to query the Twitter service and return specific information.
 
 ## Web APIs
 
@@ -22,6 +22,7 @@ Client-side JavaScript, in particular, has many APIs available to it - these are
 - [Beacon](https://developer.mozilla.org/en-US/docs/Web/API/Beacon_API)
 - [Bluetooth API](https://developer.mozilla.org/en-US/docs/Web/API/Web_Bluetooth_API)
 - [Broadcast Channel API](https://developer.mozilla.org/en-US/docs/Web/API/Broadcast_Channel_API)
+  - [BroadcastChannel API - A message bus for the web - Chrome Developers](https://developer.chrome.com/blog/broadcastchannel/)
 
 ## C
 

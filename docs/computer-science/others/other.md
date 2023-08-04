@@ -41,6 +41,8 @@ It depends on the SDR. If you have the right hardware, yes you can, but not with
 
 <https://www.gather.town>
 
+[Augmented Reality Course – Take Your First Steps into the World of AR](https://www.freecodecamp.org/news/take-your-first-steps-into-the-world-of-augmented-reality/)
+
 ## GIS (Geographic Information System)
 
 A Geographic Information System(GIS) is a system designed to capture, store, manipulate, analyze, manage, and present spatial or [geographic data](https://en.wikipedia.org/wiki/Geographic_data_and_information). GIS applications are tools that allow users to create interactive queries (user-created searches), analyze spatial information, edit data in maps, and present the results of all these operations.GIS (more commonly GIScience) sometimes refers to [geographic information science (GIScience)](https://en.wikipedia.org/wiki/Geographic_information_science), the science underlying geographic concepts, applications, and systems.Since the mid-1980s, geographic information systems have become valuable tool used to support a variety of city and regional planning functions.

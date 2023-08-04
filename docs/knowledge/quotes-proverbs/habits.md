@@ -83,3 +83,12 @@ Awareness is often enough to motivate change.
 Simply tracking your food intake will motivate you to alter it. Merely writing down your problems may spark ideas for possible solutions.
 
 The process starts with seeing reality clearly.
+
+How long does it take to build a habit?
+21 days? 30 days? 66 days?
+The honest answer is: forever. Because once you stop doing it, it is no longer a habit.
+A habit is a lifestyle to be lived, not a finish line to be crossed. Make small, sustainable changes you can stick with.
+
+Make it so easy you can't say no - Leo Babauta
+
+The key - if you want to build habits that last - is to join a group where the desired behavior is the normal behavior.

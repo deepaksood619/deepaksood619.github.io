@@ -20,6 +20,14 @@ Blockchain reinvents trust.
 
 What is your sample size?
 
+## Technologies
+
+[Can Rice last forever?](https://finshots.in/archive/can-rice-last-forever/)
+
+[The Ceiling Fan Revolution is here!](https://finshots.in/archive/the-ceiling-fan-revolution/)
+
+[It’s Millet Time!](https://finshots.in/archive/its-millet-time/)
+
 ## Future
 
 [news-problems](knowledge/others/news-problems.md)

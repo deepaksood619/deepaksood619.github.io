@@ -290,17 +290,12 @@ Two major memory system
 
 ## Boost Learning Speed
 
-1. Learners proficient in**fast-paced games**are significantly faster at performing new cognitive tasks.
-
-2. By**pretending you are teaching something to someone**using simple language, you understand it better.
-
-3. **Bilingual people may have a leg up**when it comes to**understanding new things**and processing information, regardless of the learned language.
-
-4. **Learning new materialright before sleeping**provides a significant retention advantage.
-
-5. Establishing as many connections as possible is an effective way to learn, and the best way to do that is to**relate new information to known information.**
-
-6. The brain processes visual information faster than text.**Include relevant visuals (charts, symbols, diagrams...) with learning materialsto improve retention.**
+1. Learners proficient in **fast-paced games** are significantly faster at performing new cognitive tasks.
+2. By **pretending you are teaching something to someone** using simple language, you understand it better.
+3. **Bilingual people may have a leg up** when it comes to **understanding new things**and processing information, regardless of the learned language.
+4. **Learning new material right before sleeping** provides a significant retention advantage.
+5. Establishing as many connections as possible is an effective way to learn, and the best way to do that is to **relate new information to known information.**
+6. The brain processes visual information faster than text. **Include relevant visuals (charts, symbols, diagrams...) with learning materialsto improve retention.**
 
 "One must learn by doing the thing; for though you think you know it, you have no certainty, until you try." - Sophocles
 

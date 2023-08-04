@@ -128,3 +128,5 @@ The usual way to mitigate this is to have the interrupt controller set a special
 [Basic Electronics Part 1 - YouTube](https://www.youtube.com/watch?v=nb4ovfwqup8)
 
 [Exploring Smartphones - Branch Education - YouTube](https://www.youtube.com/playlist?list=PL6rx9p3tbsMtRbJzFLswzvyl6OzHe32TC)
+
+[How do Smartphone CPUs Work? || Inside the System on a Chip - YouTube](https://www.youtube.com/watch?v=NKfW8ijmRQ4)

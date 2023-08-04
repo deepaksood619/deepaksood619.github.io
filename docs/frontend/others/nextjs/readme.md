@@ -112,3 +112,5 @@ next export #allows you to export your app to static HTML, which can be run stan
 <https://www.freecodecamp.org/news/nextjs-tutorial>
 
 [How to Integrate MongoDB Into Your Next.js App | MongoDB](https://www.mongodb.com/developer/languages/javascript/nextjs-with-mongodb/)
+
+[Learn Next.js by Building a Custom API with MongoDB](https://www.freecodecamp.org/news/full-stack-with-nextjs-and-appwrite-course/)
