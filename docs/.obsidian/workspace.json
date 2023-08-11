@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "decentralized-applications/coins-tokens-chains/bitcoin.md",
+                "file": "economics/mutual-funds/readme.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Sybil",
+                "query": "steth",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "decentralized-applications/coins-tokens-chains/bitcoin.md",
+                "file": "economics/mutual-funds/readme.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "decentralized-applications/coins-tokens-chains/bitcoin.md",
+                "file": "economics/mutual-funds/readme.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "decentralized-applications/coins-tokens-chains/bitcoin.md"
+                "file": "economics/mutual-funds/readme.md"
               }
             }
           },
@@ -191,32 +191,32 @@
   },
   "active": "978fd2faf621af33",
   "lastOpenFiles": [
+    "economics/mutual-funds/readme.md",
+    "economics/mutual-funds/others.md",
+    "economics/market-terms/readme.md",
+    "economics/market-terms/futures-options-trading.md",
+    "economics/market-terms/technical-indicators.md",
+    "economics/readme.md",
+    "economics/market-terms/ipo.md",
+    "decentralized-applications/ethereum/ethereum-staking.md",
+    "decentralized-applications/crypto-exchanges.md",
+    "decentralized-applications/coins-tokens-chains/bnb.md",
+    "decentralized-applications/coins-tokens-chains/coin-token-intro.md",
+    "decentralized-applications/coins-tokens-chains/bitcoin.md",
+    "office/todo/todo-tech-&-courses.md",
+    "decentralized-applications/development-tools.md",
     "computer-science/security/attacks.md",
     "computer-science/distributed-system/byzantine-generals-problem.md",
     "decentralized-applications/consensus-protocols.md",
     "decentralized-applications/ethereum/others.md",
     "decentralized-applications/ethereum/layer-2-protocols.md",
-    "office/todo/todo-tech-&-courses.md",
     "management/people-management/remote-working-teams.md",
     "office/personality/resumes-jobs-companies-company.md",
-    "decentralized-applications/ethereum/ethereum-staking.md",
     "office/blocktoons/infra.md",
     "devops/ides/youtube-podcasts-magazine-apps.md",
     "decentralized-applications/coins-tokens-chains/thorchain.md",
     "decentralized-applications/coins-tokens-chains/readme.md",
     "decentralized-applications/crypto-investing.md",
-    "decentralized-applications/defi-apps.md",
-    "decentralized-applications/defi.md",
-    "decentralized-applications/liquidity-mining.md",
-    "management/business/business-case-studies.md",
-    "economics/mental-models/macroeconomics.md",
-    "knowledge/others/news-problems.md",
-    "decentralized-applications/crypto-news.md",
-    "technologies/git/readme.md",
-    "technologies/git/others.md",
-    "knowledge/others/climate-change.md",
-    "technologies/git/theory.md",
-    "decentralized-applications/ethereum/30-bridges.md",
     "media/Pasted image 20230811165442.png",
     "media/Pasted image 20230805120712.png",
     "media/Pasted image 20230804235124.png",

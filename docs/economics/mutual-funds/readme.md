@@ -7,6 +7,7 @@
 - [Debentures / Bonds](economics/mutual-funds/debentures-bonds.md)
 - [Index Investing](economics/mutual-funds/index-investing.md)
 - [Equity Mutual Funds](economics/mutual-funds/equity-mutual-funds.md)
+- [Others](economics/mutual-funds/others.md)
 
 ## Portfolios
 

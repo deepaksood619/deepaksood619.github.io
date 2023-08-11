@@ -134,6 +134,12 @@ P2PKH addresses start with a "1"
 
 [What are the Taproot Wizards and why do Bitcoin Maxis hate them? | by Ordzaar | May, 2023 | Medium](https://medium.com/@ordzaar/what-are-the-taproot-wizards-and-why-do-bitcoin-maxis-hate-them-6558fb641678)
 
+### Segwit (Segregated Witness)
+
+SegWit is an upgrade to the Bitcoin network that helps reduce the size of bitcoin transactions and improve the overall transaction capacity of the network. This upgrade should help reduce the fees customers pay on bitcoin transactions.
+
+[SegWit - Wikipedia](https://en.wikipedia.org/wiki/SegWit)
+
 ## Forks
 
 ### Bitcoin Cash ($BCH)

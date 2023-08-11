@@ -98,6 +98,16 @@ The ERC-1155 token standard allows for creating multiple token types: fungible, 
 
 [Crypto Coins vs. Tokens: The Difference Explained](https://zerion.io/blog/crypto-coins-vs-tokens-the-difference-explained/)
 
+## ICO
+
+- Initial coin offerings (ICOs) are a popular way to raise funds for products and services usually related to cryptocurrency.
+- ICOs are similar to initial public offerings (IPOs), but coins issued in an ICO also can have utility for a software service or product.
+- A few ICOs have yielded returns for investors. Numerous others have turned out to be fraudulent or have performed poorly.
+- To participate in an ICO, you usually need to first purchase a more established digital currency, plus have a basic understanding of cryptocurrency wallets and exchanges.
+- ICOs are, for the most part, completely unregulated, so investors must exercise a high degree of caution and diligence when researching and investing in them.
+
+[ICOs: What is a Coin Launch?](https://www.investopedia.com/terms/i/initial-coin-offering-ico.asp)
+
 ## Links
 
 [Dual Token Economy](decentralized-applications/coins-tokens-chains/dual-token-economy.md)

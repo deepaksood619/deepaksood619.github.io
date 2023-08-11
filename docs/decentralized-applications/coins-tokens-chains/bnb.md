@@ -24,3 +24,5 @@ As of July 2022, Binance had completed 20 BNB coin burn events. In total, 38,683
 [Where To Find 100x Tokens Before It's TOO LATE!! 🚀 - YouTube](https://www.youtube.com/watch?v=VOM0QmIGSJI)
 
 [What is BNB? Binance Smart Chain Explained with Animations - YouTube](https://www.youtube.com/watch?v=G0gmPW8N88M)
+
+[Binance Coin (BNB): Native Token of the Largest Crypto Exchange - Coin Bureau](https://www.coinbureau.com/review/binance-coin-bnb/)

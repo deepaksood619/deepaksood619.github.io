@@ -56,6 +56,14 @@ This is a tool that analyzes the token’s smart contract, tokenomics, holders, 
 - [GitHub - ethereum/web3.py: A python interface for interacting with the Ethereum blockchain and ecosystem.](https://github.com/ethereum/web3.py)
 - [GitHub - web3/web3.js: Ethereum JavaScript API](<https://github.com/web3/web3.js>
 
+### Uniswap Build Tools
+
+- [Uniswap 🛠️ An Introduction To Building On Uniswap - Tyllen Bicakcic - YouTube](https://www.youtube.com/watch?v=AYxkVPP07Js)
+- [Uniswap Foundation - Hacker Home](https://www.uniswapfoundation.org/hacker-home)
+- [Swap tokens on Uniswap V3 with code, programmatically | A beginners guide with EthersJs & JavaScript - YouTube](https://www.youtube.com/watch?v=vXu5GeLP6A8)
+- [Deployment Addresses | Uniswap](https://docs.uniswap.org/contracts/v3/reference/deployments)
+- [.env · GitHub](https://gist.github.com/BlockmanCodes/1ed5e4b3cd597f02e539049c3473f7b3)
+
 ### Others
 
 - [OpenZeppelin](https://www.openzeppelin.com/)
@@ -65,7 +73,7 @@ This is a tool that analyzes the token’s smart contract, tokenomics, holders, 
   - [Learn: Alchemy Road to Web3](https://www.youtube.com/playlist?list=PLMj8NvODurfEYLsuiClgikZBGDfhwdcXF)
   - [Web3 Tutorials Overview](https://docs.alchemy.com/docs)
 - [Hardhat | Ethereum development environment for professionals by Nomic Foundation](https://hardhat.org/)
-- [Sign-In with Ethereum](https://login.xyz/)
+- [login.xyz](https://login.xyz/)
 - [Blockscout](https://www.blockscout.com/) - Blockchain explorer for Ethereum based network and a tool for inspecting and analyzing EVM based blockchains.
 - [Welcome to Substrate | Substrate\_ Docs](https://docs.substrate.io/learn/welcome-to-substrate/)
 - [GitHub - casey/ord: 👁‍🗨 Rare and exotic sats](https://github.com/casey/ord)
@@ -77,15 +85,4 @@ This is a tool that analyzes the token’s smart contract, tokenomics, holders, 
   - [Mantle 🛠️ Master the Art of SLURPPPPPing Data - lib evm - YouTube](https://www.youtube.com/watch?v=0ubIYfAjCDk)
 - [Push Protocol 🛠️ Onboarding 1 Billion Users through Web3 Communication: Push Protocol - Harsh Rajat - YouTube](https://www.youtube.com/watch?v=-DHn1cCdHLs)
 - [Mailchain | Add web3 email to your project](https://mailchain.com/)
-
-### Uniswap Build Tools
-
-[Uniswap 🛠️ An Introduction To Building On Uniswap - Tyllen Bicakcic - YouTube](https://www.youtube.com/watch?v=AYxkVPP07Js)
-
-[Uniswap Foundation - Hacker Home](https://www.uniswapfoundation.org/hacker-home)
-
-[Swap tokens on Uniswap V3 with code, programmatically | A beginners guide with EthersJs & JavaScript - YouTube](https://www.youtube.com/watch?v=vXu5GeLP6A8)
-
-[Deployment Addresses | Uniswap](https://docs.uniswap.org/contracts/v3/reference/deployments)
-
-[.env · GitHub](https://gist.github.com/BlockmanCodes/1ed5e4b3cd597f02e539049c3473f7b3)
+- [Celestia - Home](https://celestia.org/)

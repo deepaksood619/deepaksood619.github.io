@@ -61,27 +61,21 @@ Liquid staking service providers solve this liquidity problem by minting a new t
 - [StakeWise](https://stakewise.io/)
 - [Stader Labs](https://www.staderlabs.com/)
 
-**[Liquid staking TVL Rankings - DefiLlama](https://defillama.com/protocols/liquid%20staking/Ethereum)**
+### Links
 
-[What Is Liquid Staking? | Chainlink](https://blog.chain.link/liquid-staking/)
-
-[Best Liquid Staking Platforms For Crypto May 2023](https://milkroad.com/staking/liquid)
-
-<https://www.coindesk.com/learn/crypto-staking-101-what-is-staking>
-
-<https://www.forbes.com/advisor/in/investing/cryptocurrency/what-is-staking-in-crypto>
-
-<https://www.youtube.com/playlist?list=PLAXQ4YtxCRUGVUXRJ-uSzyvNxZQq74uLY>
-
-[Best Liquid Staking Platforms For Crypto May 2023](https://milkroad.com/staking/liquid)
-
-[What Liquid Staking Tokens Mean For Ethereum (LSDs) - YouTube](https://www.youtube.com/watch?v=5vl1DT9kxck)
-
-[Why RocketPool has Everyone TRIPPING on LSD (Liquid Staking Derivatives EXPLAINED) - YouTube](https://www.youtube.com/watch?v=V4W2h5LwJBA)
+- **[Liquid staking TVL Rankings - DefiLlama](https://defillama.com/protocols/liquid%20staking/Ethereum)**
+- [What Is Liquid Staking? | Chainlink](https://blog.chain.link/liquid-staking/)
+- [Best Liquid Staking Platforms For Crypto May 2023](https://milkroad.com/staking/liquid)
+- <https://www.coindesk.com/learn/crypto-staking-101-what-is-staking>
+- <https://www.forbes.com/advisor/in/investing/cryptocurrency/what-is-staking-in-crypto>
+- <https://www.youtube.com/playlist?list=PLAXQ4YtxCRUGVUXRJ-uSzyvNxZQq74uLY>
+- [Best Liquid Staking Platforms For Crypto May 2023](https://milkroad.com/staking/liquid)
+- [What Liquid Staking Tokens Mean For Ethereum (LSDs) - YouTube](https://www.youtube.com/watch?v=5vl1DT9kxck)
+- [Why RocketPool has Everyone TRIPPING on LSD (Liquid Staking Derivatives EXPLAINED) - YouTube](https://www.youtube.com/watch?v=V4W2h5LwJBA)
 
 ### Lido Finance
 
-**steth - re-base coin**
+#### steth - re-base coin
 
 - [Lido | Liquid Staking for Digital Assets](https://lido.fi/)
 - [Track your Ethereum staking rewards | Lido](https://stake.lido.fi/rewards)
@@ -93,6 +87,16 @@ Liquid staking service providers solve this liquidity problem by minting a new t
 - [Lido Staked ETH (stETH): All You Need To Know | Bybit Learn](https://learn.bybit.com/altcoins/what-is-steth-lido-staked-eth/)
 - [Lido ETH Staking Tutorial (Lido Finance stETH) - YouTube](https://www.youtube.com/watch?v=5zCCRx6IudY)
 - [What Happens to My stETH if Lido Goes Bankrupt? - YouTube](https://www.youtube.com/watch?v=9G70VDiv6bU)
+
+#### wsteth
+
+wstETH is a wrapped version of stETH. Due to the nature of Lido, the amount of stETH on your balance is not constant - it changes daily as staking rewards come in. As some DeFi protocols require a constant balance mechanism for tokens, wstETH keeps your balance of stETH fixed and uses an underlying share system to reflect your staking rewards.
+
+[What is wstETH? | Lido: Help](https://help.lido.fi/en/articles/6579518-what-is-wsteth)
+
+#### Guides
+
+[Guide to Curve Finance on L2 | Lido: Help](https://help.lido.fi/en/articles/6780705-guide-to-curve-finance-on-l2)
 
 ## Staking Opportunities
 

@@ -1,8 +1,60 @@
 {
   "recentFiles": [
     {
+      "basename": "readme",
+      "path": "economics/mutual-funds/readme.md"
+    },
+    {
+      "basename": "others",
+      "path": "economics/mutual-funds/others.md"
+    },
+    {
+      "basename": "readme",
+      "path": "economics/market-terms/readme.md"
+    },
+    {
+      "basename": "futures-options-trading",
+      "path": "economics/market-terms/futures-options-trading.md"
+    },
+    {
+      "basename": "technical-indicators",
+      "path": "economics/market-terms/technical-indicators.md"
+    },
+    {
+      "basename": "readme",
+      "path": "economics/readme.md"
+    },
+    {
+      "basename": "ipo",
+      "path": "economics/market-terms/ipo.md"
+    },
+    {
+      "basename": "ethereum-staking",
+      "path": "decentralized-applications/ethereum/ethereum-staking.md"
+    },
+    {
+      "basename": "crypto-exchanges",
+      "path": "decentralized-applications/crypto-exchanges.md"
+    },
+    {
+      "basename": "bnb",
+      "path": "decentralized-applications/coins-tokens-chains/bnb.md"
+    },
+    {
+      "basename": "coin-token-intro",
+      "path": "decentralized-applications/coins-tokens-chains/coin-token-intro.md"
+    },
+    {
       "basename": "bitcoin",
       "path": "decentralized-applications/coins-tokens-chains/bitcoin.md"
+    },
+    {
+      "basename": "todo-tech-&-courses",
+      "path": "office/todo/todo-tech-&-courses.md"
+    },
+    {
+      "basename": "development-tools",
+      "path": "decentralized-applications/development-tools.md"
     },
     {
       "basename": "attacks",
@@ -25,20 +77,12 @@
       "path": "decentralized-applications/ethereum/layer-2-protocols.md"
     },
     {
-      "basename": "todo-tech-&-courses",
-      "path": "office/todo/todo-tech-&-courses.md"
-    },
-    {
       "basename": "remote-working-teams",
       "path": "management/people-management/remote-working-teams.md"
     },
     {
       "basename": "resumes-jobs-companies-company",
       "path": "office/personality/resumes-jobs-companies-company.md"
-    },
-    {
-      "basename": "ethereum-staking",
-      "path": "decentralized-applications/ethereum/ethereum-staking.md"
     },
     {
       "basename": "infra",
@@ -109,10 +153,6 @@
       "path": "decentralized-applications/ethereum/30-bridges.md"
     },
     {
-      "basename": "bnb",
-      "path": "decentralized-applications/coins-tokens-chains/bnb.md"
-    },
-    {
       "basename": "uniswap",
       "path": "decentralized-applications/coins-tokens-chains/uniswap.md"
     },
@@ -159,46 +199,6 @@
     {
       "basename": "reasons-why",
       "path": "office/todo/reasons-why.md"
-    },
-    {
-      "basename": "intro",
-      "path": "economics/intro.md"
-    },
-    {
-      "basename": "readme",
-      "path": "economics/readme.md"
-    },
-    {
-      "basename": "industry-sectors",
-      "path": "economics/finance-investing/industry-sectors.md"
-    },
-    {
-      "basename": "coding",
-      "path": "knowledge/quotes-proverbs/coding.md"
-    },
-    {
-      "basename": "readme",
-      "path": "economics/mutual-funds/readme.md"
-    },
-    {
-      "basename": "debt-mutual-funds-analysis",
-      "path": "economics/mutual-funds/debt-mutual-funds-analysis.md"
-    },
-    {
-      "basename": "equity-mutual-funds",
-      "path": "economics/mutual-funds/equity-mutual-funds.md"
-    },
-    {
-      "basename": "others",
-      "path": "databases/sql-databases/postgres/others.md"
-    },
-    {
-      "basename": "readme",
-      "path": "frontend/react/readme.md"
-    },
-    {
-      "basename": "intro",
-      "path": "frontend/react/intro.md"
     }
   ],
   "omittedPaths": [],
