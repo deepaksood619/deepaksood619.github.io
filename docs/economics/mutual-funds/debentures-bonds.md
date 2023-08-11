@@ -21,17 +21,18 @@ A call option in NCD means that the company has an option to ask the investor to
 
 ## Types
 
-1. **Convertible debentures,** which are [convertible bonds](https://en.wikipedia.org/wiki/Convertible_bond) or bonds that can be converted into equity shares of the issuing company after a predetermined period of time. "Convertibility" is a feature that corporations may add to the bonds they issue to make them more attractive to buyers. In other words, it is a special feature that a corporate bond may carry. As a result of the advantage a buyer gets from the ability to convert, convertible bonds typically have lower [interest rates](https://en.wikipedia.org/wiki/Interest_rate) than non-convertible corporate bonds.
+### Convertible Debentures (CD)
 
-2. **Non-convertible debentures (NCD),** which are simply regular debentures, cannot be converted into equity shares of the liable company. They are debentures without the convertibility feature attached to them. As a result, they usually carry higher interest rates than their convertible counterparts.
+CD, which are [convertible bonds](https://en.wikipedia.org/wiki/Convertible_bond) or bonds that can be converted into equity shares of the issuing company after a predetermined period of time. "Convertibility" is a feature that corporations may add to the bonds they issue to make them more attractive to buyers. In other words, it is a special feature that a corporate bond may carry. As a result of the advantage a buyer gets from the ability to convert, convertible bonds typically have lower [interest rates](https://en.wikipedia.org/wiki/Interest_rate) than non-convertible corporate bonds.
 
-   1. **Secured debentures**
+### Non-Convertible Debentures (NCD)
 
-       Backed by collateral, in time of backruptcy, assets are sold to pay debenture holders
+NCD, which are simply regular debentures, cannot be converted into equity shares of the liable company. They are debentures without the convertibility feature attached to them. As a result, they usually carry higher interest rates than their convertible counterparts.
 
-   2. **Unsecured debentures**
+1. **Secured debentures** - Backed by collateral, in time of backruptcy, assets are sold to pay debenture holders
+2. **Unsecured debentures** - No backed by any collateral
 
-       No backed by any collateral
+### Others
 
 - **Fixed Rate Bonds:** Has a coupon or interest rate fixed till the maturity of a bond.
 - **Floating Rate Bonds:** Also, known as floaters where the interest rate is linked to reference rate such as MIBOR (Mumbai Interbank Offered Rate).

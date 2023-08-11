@@ -41,6 +41,7 @@
 - Defi - [Ether Fi App](https://www.mainnet.ether.fi/)
 - [Aave - Open Source Liquidity Protocol](https://aave.com/)
   - [AAVE: MOST Undervalued DeFi Token?! 2022 Update!! - YouTube](https://www.youtube.com/watch?v=fp4YzAgnIqk)
+  - [What is AAVE? (Animated) Crypto Borrowing and Lending Explained - YouTube](https://www.youtube.com/watch?v=dTCwssZ116A)
 - [Buy Bitcoin & Ethereum | Cryptocurrency Exchange | Bittrex Global](https://global.bittrex.com/)
 - [Bitpanda Cash Plus](https://www.bitpanda.com/en/bitpanda-cash-plus)
 - [Roots - build wealth through real estate](https://www.investwithroots.com/)
@@ -48,12 +49,12 @@
 - [Leading Institutional Staking and RPC Node provider. Stake tokens, host nodes and develop Web3 with us](https://p2p.org/)
 - [MakerDAO | An Unbiased Global Financial System](https://makerdao.com/en/)
 - [Convex](https://www.convexfinance.com/)
-- [RugDoc IO | #1 DeFi Safety & Education Community](https://rugdoc.io/)
 
 ## Games
 
 - [BEST Blockchain Games: TOP 5 Play-To-Earn Cryptos!! 💯 - YouTube](https://www.youtube.com/watch?v=zchIkjXtOtk)
 - [Axie Infinity: The CRAZIEST Crypto Game EVER!! 🤯 - YouTube](https://www.youtube.com/watch?v=zQPyDc88X8o)
+- [What is Axie Infinity? SLP + AXS explained with Animations - YouTube](https://www.youtube.com/watch?v=mXEYCXCPI5c)
 - [The Play-To-Earn Blockchain Farming Game - Townstar](https://townstar.com/)
 - [PVU crypto Farmland](https://plantvsundead.com/)
 - [CryptoKitties | Collect and breed digital cats!](https://www.cryptokitties.co/)
@@ -72,14 +73,23 @@
 ### Getting Rekt (Wrecked)
 
 - The Rug Pull (removing a large amount of liquidity from a liquidity pool)
-- Economic Exploit - Flash Loan
+  - [What is a Rug Pull in Crypto? (Meaning + 3 Examples) - YouTube](https://www.youtube.com/watch?v=YFaqng3YESE)
+  - Yanking Liquidity
+- Economic Exploit - Flash Loans
+  - [What are Flash Loans? (Animated) Borrow MILLIONS Instantly in Crypto - YouTube](https://www.youtube.com/watch?v=YiF6x193fRk)
 - Exploit vs Hack (Loop holes)
-
-[How (Not) To Get REKT - DeFi Hacks Explained - YouTube](https://www.youtube.com/watch?v=EawgqVdUZCI)
+- [What is a Vampire Attack in Crypto? (SushiSwap Stole Uniswap's Money?) - YouTube](https://www.youtube.com/watch?v=UpqgenfGYkI)
+- [How (Not) To Get REKT - DeFi Hacks Explained - YouTube](https://www.youtube.com/watch?v=EawgqVdUZCI)
+- [Avoid Crypto Scams - 7 Signs of a Rug Pull! - YouTube](https://www.youtube.com/watch?v=a3CZBBqIfn0)
+- [Crypto Scams to Avoid - 10 Tricks Scammers Use - YouTube](https://www.youtube.com/watch?v=dJA5L4ZUTtU)
+- [RugDoc IO | #1 DeFi Safety & Education Community](https://rugdoc.io/)
+- [Token Sniffer](https://tokensniffer.com/)
 
 ### Others
 
 **Wash trading** is when fake trades are made to boost different statistics or drive FOMO
+
+[Diamond Hands vs Paper Hands - Which Hands to Have? - YouTube](https://www.youtube.com/watch?v=j4N0M0Od7_E)
 
 ![ranks-of-bitcoin-holders](../media/Screenshot%202023-04-03%20at%209.02.03%20AM.png)
 
@@ -100,3 +110,5 @@
 [How To Time The Market (And GET RICH!) - YouTube](https://www.youtube.com/watch?v=iXn2GyPHQB0)
 
 [Earn Crypto Passive Income: TOP METHODS Revealed!! 💸 - YouTube](https://www.youtube.com/watch?v=Sqo0pOd4dnI)
+
+[How to get Free Crypto without getting SCAMMED - 13 Real Methods - YouTube](https://www.youtube.com/watch?v=UuyS7YAkECA)

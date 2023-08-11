@@ -5,6 +5,8 @@
 - [Rekt - Home](https://rekt.news/)
 - [State of Crypto 2023 - Google Slides](https://docs.google.com/presentation/d/1_bRyqC8MVjeAmGpOtmhpJydHsxoWWU0wWKsacdx9ovM/edit)
 - [2023 State of Crypto Report: Introducing the State of Crypto Index - a16z crypto](https://a16zcrypto.com/content/article/state-of-crypto-report-2023/)
+- [The Narrative Wedge - by Joel John - Decentralised.co](https://www.decentralised.co/p/the-narrative-wedge)
+- [Lido Finance — The Most Liquid Staking Protocol | by Arthur0x | Aug, 2023 | DeFiance Capital](https://writing.defiance.capital/lido-finance-the-most-liquid-staking-protocol-6033c01a94f2)
 
 ### Sources
 
@@ -62,6 +64,8 @@ On May 7, the price of the then-$18-billion algorithmic stablecoin terraUSD (UST
 
 [Central Bank Plans For CBDCs And Cryptocurrency REVEALED!! - YouTube](https://www.youtube.com/watch?v=YhGMkPh2EpM)
 
+[PREPARE Yourself!! Digital ID & CBDC Are Closer Than You Think!! - YouTube](https://www.youtube.com/watch?v=-QYVbG-Ff7g)
+
 ### News
 
 [I HOPE YOU'RE PAYING ATTENTION - BIG Money Is BACK In The Market](https://www.youtube.com/watch?v=9-go6CV2Nws)
@@ -95,6 +99,10 @@ On May 7, the price of the then-$18-billion algorithmic stablecoin terraUSD (UST
 [Commercial Real Estate CRASH is Coming!! Why I'm Worried! - YouTube](https://www.youtube.com/watch?v=PziydUm1ees)
 
 [Preparing For a BEAR Market!! Complete 101 Guide!! 🐻 - YouTube](https://www.youtube.com/watch?v=Vbjb-mGSMXo)
+
+[CRYPTO Regulations That Could CRASH The Market!! - YouTube](https://www.youtube.com/watch?v=uFXYrrCr668)
+
+[This Man Predicted EVERYTHING!! What Comes NEXT!? - YouTube](https://www.youtube.com/watch?v=Avvv7c8xEok)
 
 ## Learning
 

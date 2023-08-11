@@ -258,6 +258,8 @@ An options chain provides detailed quote and price information and should not be
 
 <https://www.trality.com>
 
+[GitHub - JerBouma/AlgorithmicTrading: This repository contains three ways to obtain arbitrage which are Dual Listing, Options and Statistical Arbitrage. These are projects in collaboration with Optiver and have been peer-reviewed by staff members of Optiver.](https://github.com/JerBouma/AlgorithmicTrading)
+
 ## Price action strategy
 
 A price action algorithmic trading strategy will look at previous open and close or session high and low prices, and it'll trigger a buy or sell order if similar levels are achieved in the future.

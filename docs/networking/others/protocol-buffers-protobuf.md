@@ -7,17 +7,13 @@ Protocol Buffers is a method of [serializing](https://en.wikipedia.org/wiki/Seri
 
 Though the primary purpose of Protocol Buffers is to facilitate network communication, its simplicity and speed make Protocol Buffers an alternative to data-centric C++ classes and structs, especially where interoperability with other languages or systems might be needed in the future.- IDL (Interface Definition Language)
 
-Descibe only and generate interfaces for any language
+Describe only and generate interfaces for any language
 
-- Data Model
-
-Structure of the request and response
-
-- Wire Format
-
-Binary format for network transmission
+- Data Model - Structure of the request and response
+- Wire Format - Binary format for network transmission
 
 ![image](../../media/Protocol-Buffers-Protobuf-image1.jpg)
+
 <https://github.com/google/protobuf>
 
 <https://developers.google.com/protocol-buffers>
@@ -82,10 +78,13 @@ The tests we've implemented cover the following aspects:
 
 <https://developers.google.com/protocol-buffers/docs/proto3>
 
-- **SerializeToString():** serializes the message and returns it as a string. Note that the bytes are binary, not text; we only use thestrtype as a convenient container
-
+- **SerializeToString():** serializes the message and returns it as a string. Note that the bytes are binary, not text; we only use the str type as a convenient container
 - **ParseFromString(data):** parses a message from the given string
 
 ## Specification
 
-protobuf.common.messageData
+`protobuf.common.messageData`
+
+## Links
+
+[Protobufs Explained, and why Google, Apple, and LinkedIn use it over JSON](https://newsletter.devmoh.co/p/protobufs-explained-and-why-google)

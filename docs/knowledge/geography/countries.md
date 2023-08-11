@@ -38,6 +38,10 @@
 
 [How Bangladesh is Secretly Becoming the Richest Country In South Asia - YouTube](https://www.youtube.com/watch?v=MIpdbDKMF14)
 
+[Why Is Indonesia One Of The Fastest Growing Economies In The World? | Economics Explained - YouTube](https://www.youtube.com/watch?v=E_M1pX1EeHo)
+
+[The Not So Polite Truth Behind Canada's Collapsing Economy - YouTube](https://www.youtube.com/watch?v=XomvuLPiTWM)
+
 ## Europe
 
 [Why Belarus Might Invade Ukraine Too](https://www.youtube.com/watch?v=Ml7ycoLumAs)

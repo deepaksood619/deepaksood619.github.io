@@ -37,3 +37,7 @@
 [Introducing Databricks Assistant, a context-aware AI assistant | Databricks Blog](https://www.databricks.com/blog/introducing-databricks-assistant)
 
 [Introducing LakehouseIQ: The AI-Powered Engine that Uniquely Understands Your Business | Databricks Blog](https://www.databricks.com/blog/introducing-lakehouseiq-ai-powered-engine-uniquely-understands-your-business)
+
+## Others
+
+[Zenlytic | Business Intelligence you can talk to](https://www.zenlytic.com/)

@@ -91,7 +91,6 @@
 - RealLifeLore
 - Technology Connections
 - Science Magazine
-- [Free High-Quality Documentaries - YouTube](https://www.youtube.com/@FreeHighQualityDocumentaries)
 - Theories of Everything with Curt Jaimungal
 - Visual politik EN
 - Minute food

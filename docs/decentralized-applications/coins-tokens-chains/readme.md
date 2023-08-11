@@ -33,9 +33,8 @@
 - DeadCoins
 - ScamCoins
 
-### AltCoins
+### AltCoins (Alternative coins - coins apart from Bitcoin)
 
-- Bitcoin
 - Ethereum (Ethereum Chain)
 - BNB (Binance)
 - Cardano (ADA)
@@ -54,6 +53,7 @@
 - [Helium: Will HNT Ride The 5G Wave!? Predictions!! - YouTube](https://www.youtube.com/watch?v=cTWv_lv5dG4)
 - Tokenized Gold - [How Chainlink Enables High-Integrity Tokenized Gold Markets | Chainlink Blog](https://blog.chain.link/what-is-tokenized-gold/)
 - [What is Hedera Hashgraph? HBAR Explained with Animations - YouTube](https://www.youtube.com/watch?v=5UJsowkiYDY)
+- [What is Basic Attention Token? BAT + Brave Browser Explained with Animations - YouTube](https://www.youtube.com/watch?v=uBI3kF0vs-U)
 
 ### Privacy coins
 
@@ -63,33 +63,17 @@
 ### MemeCoins
 
 - Dogecoin
-- Shiba Inu
+- Shiba Inu - [What is the Shiba Inu Coin? SHIB Explained with Animations - YouTube](https://www.youtube.com/watch?v=jGjmOjD_F-o)
 - Pepe
 - [Apecoin: APE Really Worth It?! What You NEED To Know!! 🦧 - YouTube](https://www.youtube.com/watch?v=Zi-7MqpbV4o)
 
-### Tokens / Stable coins
+### Others
 
-[USDT vs. USDC vs. BUSD: What are the similarities and differences?](https://cointelegraph.com/learn/usdt-vs-usdc-vs-busd-what-are-the-similarities-and-differences)
-
-- Tether (USDT)
-- USD Coin (USDC)
-- Binance USD (BUSD)
-- Dai
-- Wrapped Bitcoin
-- LEO Token
-- Shiba Inu
-- Lido Staked Ether ([Lido Staked ETH | CoinMarketCap](https://coinmarketcap.com/currencies/steth/))
-- FTX Token
-- Algorithmic Stablecoins - Luna / Terra
-
-Market Capitalization - [https://coinmarketcap.com/](https://coinmarketcap.com/)
-
-- Alt coins (Alternative coins - coins apart from Bitcoin)
+- [Stable Coins](decentralized-applications/coins-tokens-chains/stable-coins.md)
 - Cartezi
 - Litecoin
 - Polygon
-- DFI
-  DFI is the DeFi Blockchain (DeFiChain) native token. DeFi blockchain is a blockchain launched by DeFiChain Foundation to enable decentralized finance (DeFi) on the Bitcoin blockchain, without needing Turing-complete instructions – which has proven to be causing quite a few unwanted incidents in the DeFi space.
+- DFI - DFI is the DeFi Blockchain (DeFiChain) native token. DeFi blockchain is a blockchain launched by DeFiChain Foundation to enable decentralized finance (DeFi) on the Bitcoin blockchain, without needing Turing-complete instructions – which has proven to be causing quite a few unwanted incidents in the DeFi space.
 
 [Top 5 Eco Friendly Cryptocurrencies to Buy and Hold in 2023 - YouTube](https://www.youtube.com/watch?v=7XV3TFISzUk)
 
@@ -113,6 +97,9 @@ Market Capitalization - [https://coinmarketcap.com/](https://coinmarketcap.com/)
   - [Avalanche: Could AVAX CRUSH it in 2022?! Deep Dive!! - YouTube](https://www.youtube.com/watch?v=JKiB_4TPXDM)
 - [Aeternity Blockchain Definition | CoinMarketCap](https://coinmarketcap.com/alexandria/glossary/aeternity-blockchain)
 - [Mina Protocol: A REALLY CRAZY Crypto Project!! 🤯 - YouTube](https://www.youtube.com/watch?v=Zj6rNewnbrw)
+  - [Mina Protocol 🛠️ Introduction to Mina Protocol and SnarkyJS - Angus Maidment - YouTube](https://www.youtube.com/watch?v=GcbkxGqT1P0)
+- [What is Fantom? FTM Explained with Animations - YouTube](https://www.youtube.com/watch?v=oRoS7VVwe7w)
+- [What is Neo? N3 Explained with Animations - YouTube](https://www.youtube.com/watch?v=I_vCOzEbSMI)
 
 #### Chainlink (Oracle) - LINK
 

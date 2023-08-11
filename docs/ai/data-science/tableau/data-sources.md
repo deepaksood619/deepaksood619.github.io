@@ -43,6 +43,40 @@ An embedded data source in Tableau is a data source that is saved within a Table
 
 [Embedding Data in workbooks Vs Published Data sources - Visual BI Solutions](https://visualbi.com/blogs/tableau/embedding-data-workbooks-vs-published-data-sources/)
 
+## Tableau File Types and Folders
+
+### Workbooks (.twb)
+
+Tableau workbook files have the .twb file extension. Workbooks hold one or more worksheets, plus zero or more dashboards and stories.
+
+### Bookmarks (.tbm)
+
+Tableau bookmark files have the .tbm file extension. Bookmarks contain a single worksheet and are an easy way to quickly share your work. For more information, see [Save a bookmark(Link opens in a new window)](https://help.tableau.com/current/pro/desktop/en-us/save_savework.htm#Bookmark).
+
+### Packaged Workbooks (.twbx)
+
+Tableau packaged workbooks have the .twbx file extension. A packaged workbook is a single zip file that contains a workbook along with any supporting local file data and background images. This format is the best way to package your work for sharing with others who don’t have access to the original data. For more information, see [Packaged Workbooks](https://help.tableau.com/current/pro/desktop/en-us/save_savework_packagedworkbooks.htm).
+
+### Extract (.hyper)
+
+Tableau extract files have the .hyper extension. Extract files are a local copy of a subset or entire data set that you can use to share data with others, when you need to work offline, and improve performance. For more information, see [Extract Your Data](https://help.tableau.com/current/pro/desktop/en-us/extracting_data.htm).
+
+Hyper is Tableau's in-memory Data Engine technology optimized for fast data ingest and analytical query processing on large or complex data sets. The introduction of Hyper results in a number of changes related to extracts. Beginning in Tableau 10.5, new extracts use the .hyper file format instead of the .tde file format. Hyper can slice and dice massive volumes of data in seconds, you will see up to 5X faster query speed and up to 3X faster extract creation speed. With enhanced extract and query performance, and support for even larger datasets, you can choose to extract your data based on the needs of your business.
+
+[Hyper Support Resources](https://www.tableau.com/support/hyper-resources)
+
+[Hyper](https://www.tableau.com/products/new-features/hyper)
+
+### Data Source (.tds)
+
+Tableau data source files have the .tds file extension. Data source files are shortcuts for quickly connecting to the original data that you use often. Data source files do not contain the actual data but rather the information necessary to connect to the actual data as well as any modifications you've made on top of the actual data such as changing default properties, creating calculated fields, adding groups, and so on. For more information, see [Save Data Sources](https://help.tableau.com/current/pro/desktop/en-us/export_connection.htm).
+
+### Packaged Data Source (.tdsx)
+
+Tableau packaged data source files have the .tdsx file extension. A packaged data source is a zip file that contains the data source file (.tds) described above as well as any local file data such as extract files (.hyper), text files, Excel files, Access files, and local cube files. Use this format to create a single file that you can then share with others who may not have access to the original data stored locally on your computer. For more information, see [Save Data Sources](https://help.tableau.com/current/pro/desktop/en-us/export_connection.htm).
+
+[Tableau File Types and Folders - Tableau](https://help.tableau.com/current/pro/desktop/en-us/environ_filesandfolders.htm)
+
 ## Publishing a workbook
 
 [Publish a Workbook - Tableau](https://help.tableau.com/current/pro/desktop/en-us/publish_workbooks_howto.htm)

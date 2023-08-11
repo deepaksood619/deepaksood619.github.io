@@ -143,6 +143,17 @@ Maximal extractable value was first applied in the context of proof-of-work, and
 
 [What is MEV: A beginner’s guide to Ethereum’s invisible tax](https://cointelegraph.com/learn/what-is-mev-ethereums-invisible-tax)
 
+### Others
+
+- PBS - Proposer-Builder Separation
+- ePBS - enshrined Proposer-Builder Separation
+- PTC - Payload-Timeliness Committee
+- ToB - Top-of-Block
+
+[Relays in a post-ePBS world - Proof-of-Stake - Ethereum Research](https://ethresear.ch/t/relays-in-a-post-epbs-world/16278)
+
+[GitHub - skip-mev/pob: Skip's protocol-owned MEV builder implementation](https://github.com/skip-mev/pob)
+
 ## Testing
 
 [What are Testnets?](https://www.alchemy.com/overviews/what-are-testnets)

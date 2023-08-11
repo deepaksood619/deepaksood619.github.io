@@ -20,6 +20,8 @@ select * from abc join xyz on abc.id = xyz.id;
 
 <https://www.essentialsql.com/introduction-common-table-expressions-ctes>
 
+[Learn to Use a Recursive CTE in SQL Query - StrataScratch](https://www.stratascratch.com/blog/learn-to-use-a-recursive-cte-in-sql-query)
+
 ## When should I use a unique constraint instead of a unique index
 
 Under the hood a unique constraint is implemented the same way as a unique index - an index is needed to efficiently fulfil the requirement to enforce the constraint. Even if the index is created as a result of a UNIQUE constraint, the query planner can use it like any other index if it sees it as the best way to approach a given query.

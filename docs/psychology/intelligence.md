@@ -6,53 +6,53 @@ Each type is said to represent different ways of how a person best processes inf
 
 ## 8 Types of Intelligence
 
-1. **Linguistic**
+### 1. Linguistic
 
-    Sensitivity to the meaning, sound, rhythms, inflections & meter of words.
+Sensitivity to the meaning, sound, rhythms, inflections & meter of words.
 
-    Generally observed in poets, journalists, writers, orators, translators
+Generally observed in poets, journalists, writers, orators, translators
 
-2. **Logical mathematical**
+### 2. Logical mathematical
 
-    The ability to analyse problems logically, discern logical or numerical patterns, carry out mathematical operations & perform scientific investigations.
+The ability to analyse problems logically, discern logical or numerical patterns, carry out mathematical operations & perform scientific investigations.
 
-    Generally observed in scientists, mathematicians, accountants, engineers.
+Generally observed in scientists, mathematicians, accountants, engineers.
 
-3. **Musical**
+### 3. Musical
 
-    Sensitivity to understand & appreciate rhythm, pitch, meter, tone, melody and timbre. This may also include the ability to sing and/or play musical intruments.
+Sensitivity to understand & appreciate rhythm, pitch, meter, tone, melody and timbre. This may also include the ability to sing and/or play musical intruments.
 
-    Generally observed in musicians, vocalists, DJ, composers.
+Generally observed in musicians, vocalists, DJ, composers.
 
-4. **Interpersonal**
+### 4. Interpersonal
 
-    The capacity to detect & respond appropriately to the moods, motivations & desires of others see from others' perspectives, empathise, & co-operate.
+The capacity to detect & respond appropriately to the moods, motivations & desires of others see from others' perspectives, empathise, & co-operate.
 
-    Generally observed in political leaders, salespersons, counsellors.
+Generally observed in political leaders, salespersons, counsellors.
 
-5. **Intrapersonal**
+### 5. Intrapersonal
 
-    The intelligence to understand oneself
+The intelligence to understand oneself
 
-    ...in pre-history.. people did what their parents & grandparents did.. But nodwadays.. in developed societies, people live their own lives, switch careers.. And if you don't have a good understanding of yourself, you're in big trouble.
+...in pre-history.. people did what their parents & grandparents did.. But nodwadays.. in developed societies, people live their own lives, switch careers.. And if you don't have a good understanding of yourself, you're in big trouble.
 
-6. **Spatial**
+### 6. Spatial
 
-    Capacity to think in images and pictures, to visualize accurately and abstractly & in multiple dimensions.
+Capacity to think in images and pictures, to visualize accurately and abstractly & in multiple dimensions.
 
-    Generally observed in chess players, surgeons, pilots, sculptors
+Generally observed in chess players, surgeons, pilots, sculptors
 
-7. **Bodly kinesthetic**
+### 7. Bodly kinesthetic
 
-    The intelligence to use your body in a way that demostrate physical & athletic prowess.
+The intelligence to use your body in a way that demostrate physical & athletic prowess.
 
-    Generally observed in athletes, dancers & craftsmen
+Generally observed in athletes, dancers & craftsmen
 
-8. **Naturalist**
+### 8. Naturalist
 
-    The capacity to make important relevant distinctions in the world of nature, such as "between one plant & another, between one animal & another", etc.
+The capacity to make important relevant distinctions in the world of nature, such as "between one plant & another, between one animal & another", etc.
 
-    It's the intelligence of Charles Darwin... We're all using our naturalist intelligence even if we never walk out into the woods or into the Savannah...
+It's the intelligence of Charles Darwin... We're all using our naturalist intelligence even if we never walk out into the woods or into the Savannah...
 
 ## Five minds for the future
 
@@ -64,11 +64,13 @@ Each type is said to represent different ways of how a person best processes inf
 
 ## [IQ](https://en.wikipedia.org/wiki/Intelligence_quotient) vs [EQ](https://en.wikipedia.org/wiki/Emotional_intelligence)
 
-IQis a total score derived from one of several standardized tests designed to assess human intelligence." "EQ is the capacity of individuals to recognize their own, and other people's emotions, to discriminate between different feelings and label them appropriately, and to use emotional information to guide thinking and behavior
+IQ is a total score derived from one of several standardized tests designed to assess human intelligence." "EQ is the capacity of individuals to recognize their own, and other people's emotions, to discriminate between different feelings and label them appropriately, and to use emotional information to guide thinking and behavior
 
-## Emotional Intelligence
+[What Does IQ Actually Measure? - YouTube](https://www.youtube.com/watch?v=FkKPsLxgpuY)
 
-Emotional Intelligence (EQ or EI)can be defined asthe ability to understand, manage, and effectively express one's own feelings, as well as engage and navigate successfully with those of others.
+## Emotional Intelligence (EQ)
+
+Emotional Intelligence (EQ or EI) can be defined asthe ability to understand, manage, and effectively express one's own feelings, as well as engage and navigate successfully with those of others.
 
 EQ can evolve and increase with our desire to learn and grow.
 

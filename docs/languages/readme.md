@@ -7,3 +7,7 @@
 - [Golang](golang/readme.md)
 - [Frameworks](frameworks/readme.md)
 - [Others](others/readme.md)
+
+## Links
+
+[PYPL PopularitY of Programming Language index](https://pypl.github.io/PYPL.html)

@@ -1,5 +1,7 @@
 # DeFi
 
+ You can hide and cross borders with, that gives you access to your own private offworld bank account
+
 ## Decentralized Finance - DeFi
 
 - Allow most operations traditional financial instruments, but on The Blockchain
@@ -62,6 +64,8 @@ For example, let’s say there are 10 donors who donate $1 each to project A, an
 
 [How Can $1 Turn Into $27? QUADRATIC FUNDING Explained - YouTube](https://www.youtube.com/watch?v=hEHv-dE4xl8)
 
+[Quadratic Funding - Crypto Charity that SUPERCHARGES donations - YouTube](https://www.youtube.com/watch?v=LrdG-pZw2Fc)
+
 ## Perpetual protocols
 
 A perpetual contract is a derivative similar to a futures contract but without an expiry date. In conventional markets, a futures contract enables people to speculate on the price of an underlying asset until a specific date in the future when that asset is delivered (in-kind or cash-equivalent). Comparatively, perpetual contracts are permanent where the underlying is never delivered and traders pay certain fees to maintain their position.
@@ -70,13 +74,23 @@ A perpetual contract is a derivative similar to a futures contract but without a
 
 [What is Perpetual Protocol? (PERP) | Kraken](https://www.kraken.com/learn/what-is-perpetual-protocol-perp)
 
+## Olympus
+
+[DEFI 2.0 - A New Narrative? OlympusDAO, Tokemak Explained - YouTube](https://www.youtube.com/watch?v=l0vRTi8_FRk)
+
+[What is DeFi 2.0? How Olympus and TIME actually work - YouTube](https://www.youtube.com/watch?v=I34lOvUWsNc)
+
+[What is OlympusDAO? - OHM Explained with Animations - YouTube](https://www.youtube.com/watch?v=o699i_l_qy8)
+
 ## References
 
 [Crypto Investing](crypto-investing)
 
 [Different Coins / Tokens](decentralized-applications/coins-tokens-chains/readme.md)
 
-[liquidity-mining](decentralized-applications/liquidity-mining.md)
+[Liquidity Mining](decentralized-applications/liquidity-mining.md)
+
+[Defi Apps](decentralized-applications/defi-apps.md)
 
 [DeFi - Playlist YouTube](https://www.youtube.com/playlist?list=PLHx4UicbtUoYvCvRouZ4XbaDpE7cbCCqo)
 
@@ -102,6 +116,6 @@ A perpetual contract is a derivative similar to a futures contract but without a
 
 [BANK RUN in DEFI - Lessons Learned From The Iron Finance Collapse - YouTube](https://www.youtube.com/watch?v=HUokre-szPg)
 
-[DEFI 2.0 - A New Narrative? OlympusDAO, Tokemak Explained - YouTube](https://www.youtube.com/watch?v=l0vRTi8_FRk)
-
 [DeFi - Past, Present and Future - YouTube](https://www.youtube.com/watch?v=PT72hAbm2Eo)
+
+[How to Make Money with Crypto - DeFi For Beginners - YouTube](https://www.youtube.com/watch?v=o9ObYRjpIhs)

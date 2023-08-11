@@ -132,3 +132,5 @@ HTTP + json is not good (because contract is not upheld from developers while se
 [How to NOT Fail a System Design Interview (By a Data Engineer) - YouTube](https://www.youtube.com/watch?v=WQBc2mY9Jng)
 
 [How Giphy uses CDN to serve 10 billion GIFs every day - YouTube](https://www.youtube.com/watch?v=-bo7oVejgRM)
+
+[What happens before the Backend gets the Request - YouTube](https://www.youtube.com/watch?v=gSQoA4SYhJY)

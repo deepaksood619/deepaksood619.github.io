@@ -11,6 +11,7 @@
   - [Firebase Analytics](firebase/firebase-analytics)
   - [Automatic Collection Events](firebase/automatic-collected-events)
   - [Notifications](firebase/notifications)
+  - [Web Push Notifications](cloud/others/firebase/web-push-notifications.md)
 - [Openstack](openstack)
 - [Ticketing / TMS](ticketing-tms)
 - [Business Rule Engine / Decision Rule Engine](business-rule-engine)

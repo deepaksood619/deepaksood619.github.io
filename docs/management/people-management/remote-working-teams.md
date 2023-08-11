@@ -2,6 +2,8 @@
 
 Teams of 1 are the best teams, and 1 of the most hard to create
 
+Remote is a strategic advantage to some companies and poison for others
+
 ### TODOs
 
 - Making remote teams meet once a month/quarter
@@ -52,3 +54,5 @@ To complement the self-assessment of the stress continuum, McGladrey recently pi
 <https://blog.trello.com/boundaries-to-start-setting-with-your-team>
 
 <https://blog.trello.com/conflict-management-strategies-for-hybrid-teams>
+
+[Fetching Title#4ybu](https://staysaasy.com/management/2023/08/06/the-future-of-remote-work.html)

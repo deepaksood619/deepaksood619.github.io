@@ -110,6 +110,8 @@ Though it can be risky for investors who put up funds, the potential for above-a
 
 [How I Raised $2 Million From Investors (My YC Demo Day Pitch Breakdown)](https://youtu.be/5ip-Zf4mGeU)
 
+[How I Raised $2.6M WITHOUT A Product | GrowthX Insider - YouTube](https://www.youtube.com/watch?v=eyfX5et4tUM)
+
 ## Private Equity vs. Venture Capital
 
 [Private equity](https://www.investopedia.com/terms/p/privateequity.asp) and [venture capital](https://www.investopedia.com/terms/v/venturecapital.asp)(VC) invest in different types and sizes of companies, commit different amounts of money, and claim different percentages of equity in the companies in which they invest.

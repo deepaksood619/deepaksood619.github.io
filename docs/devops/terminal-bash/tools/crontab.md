@@ -6,17 +6,14 @@ The software utility **cron** is a time-based [job scheduler](https://en.wikiped
 
 `crontab [**-u *user***] [**-l** | **-r** | **-e**] [**-i**] [**-s]`
 
-`export EDITOR=vi;` to specify a editor to open crontab file.
-
-Edit crontab file, or create one if it doesn't already exist. (/Var/spool/cron) - `crontab -e`
-
-Edit system wide crontab file - `sudo crontab -e`
-
-crontab list of cronjobs , display crontab file contents - `crontab -l`
-
-Remove your crontab file - `crontab -r`
-
-Display the last time you edited your crontab file. (This option is only available on a few systems.) - `crontab -v`
+|                     |                                                                                 |
+| ------------------- | ------------------------------------------------------------------------------- |
+| `export EDITOR=vi;` | to specify a editor to open crontab file.                                       |
+| `crontab -e`        | Edit crontab file, or create one if it doesn't already exist. (/Var/spool/cron) |
+| `sudo crontab -e`   | Edit system wide crontab file                                                   |
+| `crontab -l`        | crontab list of cronjobs , display crontab file contents                        |
+| `crontab -r`        | Remove your crontab file                                                        |
+| `crontab -v`                    |           Display the last time you edited your crontab file. (This option is only available on a few systems.)                                                                      |
 
 ```bash
 * ** ** command to be executed
@@ -38,11 +35,11 @@ Display the last time you edited your crontab file. (This option is only availab
 | 0      | 0    | 1,10,15   | *     | *       | --- midnight on 1st ,10th & 15th of month                |
 | 5,10   | 0    | 10        | *     | 1        | --- At 12.05,12.10 every Monday & on 10th of every month |
 | *     | *   | *        | *     | *       | -- Every minute of every hour throughout the year       |
-| */5   | *   | *        | *     | *       | -- Every 5 minutes                                      |
+| \*/5   | *   | *        | *     | *       | -- Every 5 minutes                                      |
 | 0-10/2 | *   | *        | *     | *       | -- Every 2 minutes in the first 10 minutes              |
 | 0      | *   | *        | *     | *       | -- Every 1 hour                                         |
 | 0      | */2 | *        | *     | *       | -- Every 2 hours                                        |
-| 10     | 10   | *        | *     | *       | -- At 10:10 AM everyday                                 |
+| 10     | 10   | \ \\*        | *     | *       | -- At 10:10 AM everyday                                 |
 
 ## Crontab Keywords
 
@@ -50,7 +47,7 @@ Display the last time you edited your crontab file. (This option is only availab
 |-------------|-----------------|
 | @yearly    | 0 0 1 1 *      |
 | @daily     | 0 0 ** *    |
-| @hourly    | 0 ****   |
+| @hourly    | 0 ** **   |
 | @reboot    | Run at startup. |
 
 ## Examples
@@ -112,7 +109,7 @@ MAIL="ramesh"
 */10* ** * /home/ramesh/check-disk-space
 ```
 
-[Note: Crontab of the current logged in user with MAIL variable]
+Note: Crontab of the current logged in user with MAIL variable
 
 If you wanted the mail not to be sent to anywhere, i.e to stop the crontab output to be emailed, add or update the MAIL variable in the crontab as shown below.
 
@@ -121,9 +118,9 @@ MAIL=""
 ## Redirect crontab output to log file
 
 ```bash
-* ** ** myjob.sh >> /var/log/myjob.log 2>&1
+* * * * * myjob.sh >> /var/log/myjob.log 2>&1
 
-*/2* ** * /bin/bash -c "source $HOME/.profile; docker exec example-analytics bash -c 'cd ../ && date'" >> /var/log/cron/test-/bin/date +%d-%m-%y-%H-%M-%S.log 2>&1
+*/2 * * * * /bin/bash -c "source $HOME/.profile; docker exec example-analytics bash -c 'cd ../ && date'" >> /var/log/cron/test-/bin/date +%d-%m-%y-%H-%M-%S.log 2>&1
 ```
 
 ## Installing Crontab From a Cron File
@@ -136,13 +133,13 @@ no crontab for ramesh
 
 $ cat cron-file.txt
 @yearly /home/ramesh/annual-maintenance
-*/10* ** * /home/ramesh/check-disk-space
+*/10 * * * * /home/ramesh/check-disk-space
 
 ramesh@dev-db$ **crontab cron-file.txt**
 
 ramesh@dev-db$ crontab -l
 @yearly /home/ramesh/annual-maintenance
-*/10* ** * /home/ramesh/check-disk-space
+*/10 * * * * /home/ramesh/check-disk-space
 ```
 
 ## Cronv
@@ -152,3 +149,23 @@ Visualize your cron schedules in crontab
 <https://github.com/takumakanari/cronv>
 
 <https://crontab.guru>
+
+## Quartz Cron Syntax
+
+A cron expression is a string comprised of 6 or 7 fields separated by white space. Fields can contain any of the allowed values, along with various combinations of the allowed special characters for that field. The fields are as follows:
+
+| Field Name | Mandatory | Allowed Values | Allowed Special Characters |
+| --- | --- | --- | --- |
+| Seconds | YES | 0-59 | , - \* / |
+| Minutes | YES | 0-59 | , - \* / |
+| Hours | YES | 0-23 | , - \* / |
+| Day of month | YES | 1-31 | , - \* ? / L W
+| Month | YES | 1-12 or JAN-DEC | , - \* / |
+| Day of week | YES | 1-7 or SUN-SAT | , - \* ? / L # |
+| Year | NO | empty, 1970-2099 | , - \* / |
+
+So cron expressions can be as simple as this: \* \* \* \* ? \*
+
+or more complex, like this: 0/5 14,18,3-39,52 \* ? JAN,MAR,SEP MON-FRI 2002-2010
+
+[Cron Trigger Tutorial](http://www.quartz-scheduler.org/documentation/quartz-2.3.0/tutorials/crontrigger.html)

@@ -45,17 +45,22 @@ Deduplication is a way of storing this redundant data only once.
 
 ## General Data Types
 
-- **Scalar Types**
+### Scalar Types
 
-A scalar type can represent exactly one value. The scalar types are number, string, binary, Boolean, and null.- **Document Types**
+A scalar type can represent exactly one value. The scalar types are number, string, binary, Boolean, and null.
 
-A document type can represent a complex structure with nested attributes, such as you would find in a JSON document. The document types are list and map.- **Set Types**
+### Document Types
+
+A document type can represent a complex structure with nested attributes, such as you would find in a JSON document. The document types are list and map.
+
+### Set Types
 
 A set type can represent multiple scalar values. The set types are string set, number set, and binary set.
 
 ## Autoincrement
 
 AUTOINCREMENT'ing is a common way of generating primary keys. It's not uncommon to see cases where databases are used as ID generators and there are ID-generation designated tables in a database.
+
 There are a few reasons why generating primary keys via auto-incrementing may not be not ideal:
 
 - In distributed database systems, auto-incrementing is a hard problem. A global lock would be needed to be able to generate an ID. If you can generate a UUID instead, it would not require any collaboration between database nodes. Auto-incrementing with locks may introduce contention and may significantly downgrade the performance for insertions in distributed situations. Some databases like MySQL may require specific [configuration](https://www.percona.com/blog/2011/01/12/conflict-avoidance-with-auto_increment_incremen-and-auto_increment_offset/) and more attention to get things right in master-master replication. The configuration is easy to mess up and can lead to write outages.
@@ -74,7 +79,7 @@ Please consider the impacts of auto-incremented IDs vs UUIDs on indexing, partit
 
 ## Performance Benchmarks
 
-## SQL Databases
+### SQL Databases
 
 When you make a lot of inserts or updates do it one statement or disable autocommit and use explicit transactions.
 

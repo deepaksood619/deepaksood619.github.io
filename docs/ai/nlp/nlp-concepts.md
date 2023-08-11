@@ -58,3 +58,5 @@ Answering this question involves finding the **antecedent** of the pronoun they,
 [The complete guide to Transformer neural Networks! - YouTube](https://www.youtube.com/watch?v=Nw_PJdmydZY)
 
 [Ngram: The 1st Language Model - YouTube](https://www.youtube.com/watch?v=cUsqFx4Sij8&ab_channel=CodeEmporium)
+
+[How AI (like ChatGPT) understands word sequences. - YouTube](https://www.youtube.com/watch?v=EcuVZzUiHMY)

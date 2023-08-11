@@ -1,8 +1,8 @@
 # Technical Indicators
 
-### Relative strength index (RSI)**(14)**
+### Relative strength index (RSI) (14)
 
-### Moving average convergence divergence (MACD) **(12,26,9)**
+### Moving average convergence divergence (MACD) (12,26,9)
 
 ### Stochastic(20,3)
 

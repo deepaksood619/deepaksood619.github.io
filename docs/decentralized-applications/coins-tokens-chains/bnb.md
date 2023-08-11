@@ -16,6 +16,11 @@ Previously, the quarterly burn event was based on revenue generated from the Bin
 
 As of July 2022, Binance had completed 20 BNB coin burn events. In total, 38,683,447.66 BNB tokens have been destroyed, reducing its initial 200M supply by 19.34%.
 
+- Binance Chain
+- Binance Smart Chain
+
 [Binance Coin: BNB Any Potential in 2022?! Deep Dive! - YouTube](https://www.youtube.com/watch?v=Jwo4rwik6WM)
 
 [Where To Find 100x Tokens Before It's TOO LATE!! 🚀 - YouTube](https://www.youtube.com/watch?v=VOM0QmIGSJI)
+
+[What is BNB? Binance Smart Chain Explained with Animations - YouTube](https://www.youtube.com/watch?v=G0gmPW8N88M)

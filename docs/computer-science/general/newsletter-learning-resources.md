@@ -75,57 +75,37 @@ Give tech talk - Learning + Note taking + Zettlekasten - Obsidian / Onenote + Do
 
 ## Learning Resources / Bootcamps
 
-<https://github.com/jwasham/coding-interview-university>
-
-<https://www.freecodecamp.org>
-
-<https://www.freecodecamp.org/news/best-coding-games-online-adults-learn-to-code>
-
-<https://www.masaischool.com>
-
-<https://repl.it>
-
-[**https://www.freecodecamp.org/news/tech-talks-software-development-conferences/**](https://www.freecodecamp.org/news/tech-talks-software-development-conferences/)
-
-<https://roadmap.sh/backend>
-
-[**https://github.com/yangshun/tech-interview-handbook**](https://github.com/yangshun/tech-interview-handbook)
-
-[**https://github.com/kdn251/interviews**](https://github.com/kdn251/interviews)
-
-<https://github.com/sdmg15/Best-websites-a-programmer-should-visit>
-
-[10 GitHub repositories to advance your career as a Developer 📚 - DEV Community](https://dev.to/iarchitsharma/10-as-a-developer-egn)
-
-[Saylor Academy | Saylor Academy](https://learn.saylor.org/?redirect=0)
-
-[Speaker Deck | Easily Share Your Presentations Online](https://speakerdeck.com/)
+- <https://github.com/jwasham/coding-interview-university>
+- <https://www.freecodecamp.org>
+- <https://www.freecodecamp.org/news/best-coding-games-online-adults-learn-to-code>
+- <https://www.masaischool.com>
+- <https://repl.it>
+- [**https://www.freecodecamp.org/news/tech-talks-software-development-conferences/**](https://www.freecodecamp.org/news/tech-talks-software-development-conferences/)
+- <https://roadmap.sh/backend>
+- [**https://github.com/yangshun/tech-interview-handbook**](https://github.com/yangshun/tech-interview-handbook)
+- [**https://github.com/kdn251/interviews**](https://github.com/kdn251/interviews)
+- <https://github.com/sdmg15/Best-websites-a-programmer-should-visit>
+- [10 GitHub repositories to advance your career as a Developer 📚 - DEV Community](https://dev.to/iarchitsharma/10-as-a-developer-egn)
+- [Saylor Academy | Saylor Academy](https://learn.saylor.org/?redirect=0)
+- [Speaker Deck | Easily Share Your Presentations Online](https://speakerdeck.com/)
 
 ## Blogs
 
-<https://about.gitlab.com/2019/08/27/tyranny-of-the-clock>
-
-<https://fremtidensuddannelser.dk/en>
+- <https://about.gitlab.com/2019/08/27/tyranny-of-the-clock>
+- <https://fremtidensuddannelser.dk/en>
+- [Stack Overflow Blog - Essays, opinions, and advice on the act of computer programming from Stack Overflow.](https://stackoverflow.blog/)
 
 ## Repositories
 
-<https://awesomeopensource.com>
-
-<https://github.com/sindresorhus/awesome>
-
-<https://github.com/EbookFoundation/free-programming-books>
-
-[PDF Drive - Search and download PDF files for free.](https://www.pdfdrive.com/)
-
-<https://github.com/sdmg15/Best-websites-a-programmer-should-visit>
-
-<https://gitstar-ranking.com/repositories>
-
-<https://github.com/danistefanovic/build-your-own-x>
-
-<https://github.com/gothinkster/realworld>
-
-<https://codebase.show/projects/realworld>
+- <https://awesomeopensource.com>
+- <https://github.com/sindresorhus/awesome>
+- <https://github.com/EbookFoundation/free-programming-books>
+- [PDF Drive - Search and download PDF files for free.](https://www.pdfdrive.com/)
+- <https://github.com/sdmg15/Best-websites-a-programmer-should-visit>
+- <https://gitstar-ranking.com/repositories>
+- <https://github.com/danistefanovic/build-your-own-x>
+- <https://github.com/gothinkster/realworld>
+- <https://codebase.show/projects/realworld>
 
 Make sure to finish following documentation and POC in next 30-45 days, since after that you will not get time, since tasks will be very aggressive
 
@@ -146,11 +126,9 @@ Make sure to finish following documentation and POC in next 30-45 days, since af
 
 ## System Design
 
-<https://www.youtube.com/playlist?list=PLAC2AM9O1C5KioUMeH9qIjbAV_RMmX8rd>
-
-<https://www.youtube.com/channel/UCn1XnDWhsLS5URXTi5wtFTA>
-
-<https://www.youtube.com/playlist?list=PLMCXHnjXnTnvo6alSjVkgxV-VH6EPyvoX>
+- <https://www.youtube.com/playlist?list=PLAC2AM9O1C5KioUMeH9qIjbAV_RMmX8rd>
+- <https://www.youtube.com/channel/UCn1XnDWhsLS5URXTi5wtFTA>
+- <https://www.youtube.com/playlist?list=PLMCXHnjXnTnvo6alSjVkgxV-VH6EPyvoX>
 
 ## AI Tools
 

@@ -36,6 +36,21 @@ The term **hermit kingdom** is used to refer to any country, organization or soc
 
 [To Scale: THE SOLAR SYSTEM - YouTube](https://www.youtube.com/watch?v=zR3Igc3Rhfg)
 
+### Layers of atmosphere
+
+1. Troposphere
+2. Stratosphere
+3. Mesosphere
+4. Thermosphere
+ 1. Ionosphere (lies within the thermosphere)
+5. Exosphere
+
+![layers-of-atmosphere](media/Pasted%20image%2020230805120712.png)
+
+[Earth's Atmosphere: A Multi-layered Cake – Climate Change: Vital Signs of the Planet](https://climate.nasa.gov/news/2919/earths-atmosphere-a-multi-layered-cake/)
+
+[Layers of The Atmosphere - Structure of Earth’s Atmosphere, Characteristics and FAQs](https://byjus.com/physics/layers-of-atmsophere/)
+
 ## Others
 
 [Points of the compass - Wikipedia](https://en.m.wikipedia.org/wiki/Points_of_the_compass)

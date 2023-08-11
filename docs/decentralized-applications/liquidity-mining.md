@@ -44,6 +44,10 @@ To mitigate volatility loss, LPs can choose to provide liquidity to pools contai
 
 [Impermanent Loss Calculator](https://dailydefi.org/tools/impermanent-loss-calculator/)
 
+[What is Impermanent Loss in Crypto? (Animated + Examples) - YouTube](https://www.youtube.com/watch?v=_m6Mowq3Ptk)
+
+[6 Ways to Avoid Impermanent Loss (Crypto Liquidity Pools) - YouTube](https://www.youtube.com/watch?v=oyriORaeJOw)
+
 ## Liquidity
 
 Liquidity is a measure of resource sufficiency as it concerns a cryptocurrency market or a custodial institution. For tradable assets, it translates to investors’ freedom to make trades in any direction without significant [slippage](https://www.coingecko.com/learn/slippage-crypto). For custodial institutions, it is the ability to satisfy withdrawal requests without significant delays or friction. A sufficiently liquid market or institution should be able to sustain this in harsh market conditions.
@@ -59,14 +63,21 @@ Liquidity is a measure of resource sufficiency as it concerns a cryptocurrency m
 - [Top LP Tokens Coins by Market Cap | CoinGecko](https://www.coingecko.com/en/categories/lp-tokens)
 - [Top 10 Liquidity Pool (LP) Tokens: Unleashing the Power of DeFi - CryptoTicker](https://cryptoticker.io/en/top-10-liquidity-pool-tokens/)
 - [What are liquidity provider (LP) tokens, and how do they work?](https://cointelegraph.com/explained/what-are-liquidity-provider-lp-tokens-and-how-do-they-work)
+- [What is a Liquidity Pool in Crypto? (Animated) - YouTube](https://www.youtube.com/watch?v=dVJzcFDo498)
 
 ## Yield Farming
 
 Yield farming involves maximizing returns on cryptocurrency holdings by moving them between different DeFi protocols to take advantage of the highest yield opportunities. This can involve lending, staking, or liquidity provision.
 
+- Leveraged Lending
+
 [Is Yield Farming DEAD? Are There ANY Good Opportunities Left? DEFI Explained - YouTube](https://www.youtube.com/watch?v=s0Of2ZnyhIE&ab_channel=Finematics)
 
 [What Is YIELD FARMING? DEFI Explained (Compound, Balancer, Curve, Synthetix, Ren) - YouTube](https://www.youtube.com/watch?v=ClnnLI1SClA&ab_channel=Finematics)
+
+[What is Yield Farming in Crypto? (Animated + 4 Examples) - YouTube](https://www.youtube.com/watch?v=LaeI5D6NDvw)
+
+[What are Degen Yield Farms? (Animated) - Crypto Pyramid Schemes - YouTube](https://www.youtube.com/watch?v=i0GI6GwEWDQ)
 
 ## Differences
 
@@ -101,6 +112,8 @@ The weight systems allow the Curve DAO to dictate where the CRV inflation should
 [Pool - Curve](https://curve.fi/#/ethereum/pools/steth/deposit/)
 
 [Understanding Curve Pools - Curve Resources](https://resources.curve.fi/lp/understanding-curve-pools/)
+
+[What is Curve Finance? I'm earning 25% AND protecting against a crash - YouTube](https://www.youtube.com/watch?v=MqRfurKVM1A)
 
 ## Links
 

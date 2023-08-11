@@ -70,6 +70,8 @@ The json and jsonb data types accept *almost* identical sets of values as input.
 
 <https://severalnines.com/database-blog/overview-json-capabilities-within-postgresql>
 
+[What are the differences between JSON or JSONB in PostgreSQL®?](https://ftisiot.net/postgresqljson/what-are-the-differences-json-jsonb-postgresql/)
+
 ## Containment
 
 Containment tests whether one document (a set or an array) is contained within another.

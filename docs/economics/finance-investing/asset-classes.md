@@ -59,6 +59,10 @@ Traditionally, investing in real estate requires capital ranging from a few lakh
 
 - Strata for investment in commercial property
 
+#### REIT (Real Estate Investment Trusts) / Real Estate Mutual Funds
+
+<https://cleartax.in/s/reit-funds>
+
 ### HIGH YIELDING FIXED INCOME INVESTMENTS
 
 For the last two years, fixed deposit investors have been a grieving lot with FD returns struggling to match the inflation rate. But now, we are seeing a boom in start-ups offering bonds, structured debt and other high yielding fixed income instruments to retail investors as they look to make a dent in the 1.5 trillion dollar fixed deposit market. One of these weapons of FD destruction are high yielding debt instruments which in addition to offering higher interest rates also allows investors to put in amounts as low as 10,000 rupees. Platforms like Wint Wealth, BondsKart, AltiFi etc. offer products like government bonds, AAA rated papers from lending institutions, high yielding BBB rated corporate bonds, private bond placements and also structured debt.
@@ -77,7 +81,10 @@ Masterworks is the first platform for buying and selling shares representing an 
 
 <https://www.masterworks.com>
 
-[Growpital](https://www.growpital.com/)
+### Others
+
+- [Growpital](https://www.growpital.com/)
+- [Tyke - Invest Securely in Indian Startups](https://tykeinvest.com/)
 
 ## Strategies
 

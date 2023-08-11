@@ -12,6 +12,8 @@
 
 [Top Cryptocurrency Spot Exchanges](https://coinmarketcap.com/rankings/exchanges)
 
+[What is a DEX? How A Decentralized Exchange Works - YouTube](https://www.youtube.com/watch?v=2tTVJL4bpTU)
+
 The Top Three Highest Ranking Crypto Websites on Alexa
 
 - Uniswap (DEX)

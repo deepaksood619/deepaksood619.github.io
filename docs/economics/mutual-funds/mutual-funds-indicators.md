@@ -2,6 +2,11 @@
 
 [How to Measure Mutual Fund Risk | Alpha, Beta, SD, Sharpe, R-squared, Sortino | Learn with ETMONEY](https://www.youtube.com/watch?v=eU45evtcc90)
 
+- TER - Total Expense Ratio - [How do mutual funds earn money? - YouTube](https://www.youtube.com/watch?v=hzAFmR5ll8Y)
+- Exit Load
+- Fact Sheet - [What is a fact sheet? - YouTube](https://www.youtube.com/watch?v=TmheTTQksQE)
+- NAV - [Understanding Net Asset Value (NAV) - YouTube](https://www.youtube.com/watch?v=UD2s3RRvW3A)
+
 ## BETA
 
 **Beta - Measurement of risk or volatility**
@@ -74,3 +79,7 @@ This ratio is particularly useful for risk-averse or conservative investors and 
 - A low Beta and a low standard deviation indicates lower volatility for the fund
 - A higher R-Squared indicates a better correlation with the benchmark
 - **Max Alpha with minimum beta**
+
+## Links
+
+[Important mutual fund metrics when picking mutual funds - YouTube](https://www.youtube.com/watch?v=thOejbtcBjo)

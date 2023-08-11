@@ -24,6 +24,8 @@ ENS’s job is to map human-readable names like ‘alice.eth’ to machine-reada
 
 [Introduction - ENS Documentation](https://docs.ens.domains/)
 
+[What is ENS? Ethereum Name Service Lookup System - YouTube](https://www.youtube.com/watch?v=P8RlPsjGaR8)
+
 ### Types of DIDs (Decentralized Identities)
 
 - **Non-custodial crypto wallets**: You have full control over your private keys, which are used to verify transactions and prove ownership of a blockchain address.

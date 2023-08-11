@@ -74,6 +74,9 @@ This is a tool that analyzes the token’s smart contract, tokenomics, holders, 
 - [WalletConnect](https://walletconnect.com/)
 - [Chainlist](https://chainlist.org/)
 - [Mantle | Mass Adoption of Decentralized and Token-Governed Technologies](https://www.mantle.xyz/)
+  - [Mantle 🛠️ Master the Art of SLURPPPPPing Data - lib evm - YouTube](https://www.youtube.com/watch?v=0ubIYfAjCDk)
+- [Push Protocol 🛠️ Onboarding 1 Billion Users through Web3 Communication: Push Protocol - Harsh Rajat - YouTube](https://www.youtube.com/watch?v=-DHn1cCdHLs)
+- [Mailchain | Add web3 email to your project](https://mailchain.com/)
 
 ### Uniswap Build Tools
 

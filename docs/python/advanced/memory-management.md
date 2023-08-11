@@ -67,3 +67,5 @@ sys._debugmallocstats()
 ## Others
 
 <https://adamj.eu/tech/2019/09/19/working-around-memory-leaks-in-your-django-app>
+
+[Memory Management in Python - Honeybadger Developer Blog](https://www.honeybadger.io/blog/memory-management-in-python/)

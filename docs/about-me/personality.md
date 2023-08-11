@@ -69,6 +69,41 @@ Assertive individuals are self-assured, even-tempered, and resistant to stress. 
 - ...say modern human beauty standards are unrealistic
 - ...go to great lengths to avoid stress
 
+## RISC DIGITAL MINDSET
+
+### Resiliency - Adaptability
+
+comfort in uncertainty and unstructured environments
+navigating through complexity, volatility, and ambiguity
+embracing change, especially when the change isn't our idea
+curiosity and growth mind-set
+reinventing ourselves as a way of life
+learning from failure
+
+### Inner strength - Being your best evolved self
+
+- self-awareness
+- open mindedness and inclusion
+- courage
+- humility - keeps us in touch with all we don't know
+- embodying our humanity
+- overcoming fear of conflict and risk
+
+### Strategic thinker - Holistic
+
+- creative thinking
+- big picture and systems thinking
+- customer obsessed
+- forward thinker with transformative vision
+- ideas based on intuition and insights as well as data and history
+- openness to new ideas and possibilities
+
+### Collaborative spirit
+
+- collaborative problem solving
+- emotional intelligence
+- heart
+
 ## Links
 
 [Personality](psychology/personality.md)

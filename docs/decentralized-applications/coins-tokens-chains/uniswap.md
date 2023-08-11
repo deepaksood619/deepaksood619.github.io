@@ -6,7 +6,7 @@
 
 #### Uniswap v3
 
-- Automated Market Makers (AMMs) - [What is an Automated Market Maker? (Liquidity Pool Algorithm) - YouTube](https://www.youtube.com/watch?v=1PbZMudPP5E)
+- Automated Market Makers (AMMs) - [What is an Automated Market Maker? (Liquidity Pool Algorithm) - YouTube](https://www.youtube.com/watch?v=1PbZMudPP5E) - Constant Product AMM
 - Liquidity Providers (LPs)
 
 Uniswap v3 introduces:
@@ -26,6 +26,8 @@ Uniswap's **oracles are now far easier and cheaper to integrate**. V3 oracles ar
 [Introducing Uniswap V3](https://blog.uniswap.org/uniswap-v3)
 
 [UNISWAP V3 - New Era Of AMMs? Architecture Explained - YouTube](https://www.youtube.com/watch?v=Ehm-OYBmlPM)
+
+[Uniswap V3 Explained - Concentrated Liquidity, NFT LP Tokens, Licensing… - YouTube](https://www.youtube.com/watch?v=ClWR1570UQw)
 
 #### Uniswap v4
 

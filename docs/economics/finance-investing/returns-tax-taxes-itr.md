@@ -6,6 +6,8 @@ Tax evasion (punishable) vs tax avoidance (your legitimate right) of saving tax
 
 Tax Consulation - <https://www.charteredclub.com/tax-consultation-with-ca-karan-batra>
 
+Input tax credit
+
 **Period: April 1, 2022 – March 31, 2023**
 
 - Financial Year: 2022 - 2023

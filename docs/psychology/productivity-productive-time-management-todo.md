@@ -248,3 +248,4 @@ Liner is a browser extension that lets you highlight anything you see online. Be
 
 - [Prioritization / Leverage](soft-skills/prioritization-leverage)
 - The Productivity Project - Chris Bailey
+- [Edsger Dijkstra's One-Day Workweek - Cal Newport](https://calnewport.com/edsger-dijkstras-one-day-workweek)

@@ -6,7 +6,7 @@
 - Coach Ravinder
 - Runizen and Evantik
 
-**Home running**
+### Home running
 
 - Spot jogs
 - High knees
@@ -42,6 +42,8 @@ VO2 max should not be confused with the[lactate threshold (LT)](https://www.very
 
 8. Legs - the easiest way to think about your lower body is to think about your shin being as close to perpendicular as possible when the foot hits the ground," Mahon says. If a person is a heavy heel striker, their angle is too big; if they're a forefoot striker, their angle is too small. Either way, it's a negative position to be in because you're opening yourself up to injuries in the other foot or knee. "You also won't be using all the joints you have properly in the right timing sequence," he says. "If you land at that 90-degree angle, then you get to use your ankle, your knee joint, and the hip joint all at the same time to both absorb shock and then create energy.
 9. Foot - the idea is to aim to hit the road with the ball of your foot, That's going to help you propel forward better, and your stride won't come out too far in front of you.
+
+## Exercises
 
 ### Mid Exercises during run
 

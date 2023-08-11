@@ -1,8 +1,6 @@
 # Coding
 
---
-
-**Only ~0.3% of the world's population today can code, and this small group has built all of the world's ~6.3 million mobile apps. Which means that 99.7% of the world fully depends on 0.3%, which is huge**
+Only ~0.3% of the world's population today can code, and this small group has built all of the world's ~6.3 million mobile apps. Which means that 99.7% of the world fully depends on 0.3%, which is huge
 
 In the next 5 years, a total of ~500 million apps are likely to be built of which 450 million are likely to be built using no/low-code platforms.
 
@@ -353,3 +351,5 @@ You can often fix something that's been broken, but you can't fix something that
 Any intelligent fool can make things bigger, more complex, and more violent. It takes a touch of genius – and a lot of courage – to move in the opposite direction. -- EF Schumacher
 
 There are only two industries that call their customers 'users': illegal drugs and software -- Edward Tufte
+
+![automation-truth](../../media/Pasted%20image%2020230811165442.png)

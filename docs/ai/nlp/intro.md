@@ -1,42 +1,24 @@
 # NLP
 
-[14. Natural Language Processing: Pretraining](https://d2l.ai/chapter_natural-language-processing-pretraining/index.html)
-
-[14.1. Word Embedding (word2vec)](https://d2l.ai/chapter_natural-language-processing-pretraining/word2vec.html)
-
-[14.2. Approximate Training](https://d2l.ai/chapter_natural-language-processing-pretraining/approx-training.html)
-
-[14.3. The Dataset for Pretraining Word Embedding](https://d2l.ai/chapter_natural-language-processing-pretraining/word-embedding-dataset.html)
-
-[14.4. Pretraining word2vec](https://d2l.ai/chapter_natural-language-processing-pretraining/word2vec-pretraining.html)
-
-[14.5. Word Embedding with Global Vectors (GloVe)](https://d2l.ai/chapter_natural-language-processing-pretraining/glove.html)
-
-[14.6. Subword Embedding](https://d2l.ai/chapter_natural-language-processing-pretraining/subword-embedding.html)
-
-[14.7. Finding Synonyms and Analogies](https://d2l.ai/chapter_natural-language-processing-pretraining/similarity-analogy.html)
-
-[14.8. Bidirectional Encoder Representations from Transformers (BERT)](https://d2l.ai/chapter_natural-language-processing-pretraining/bert.html)
-
-[14.9. The Dataset for Pretraining BERT](https://d2l.ai/chapter_natural-language-processing-pretraining/bert-dataset.html)
-
-[14.10. Pretraining BERT](https://d2l.ai/chapter_natural-language-processing-pretraining/bert-pretraining.html)
-
-[15. Natural Language Processing: Applications](https://d2l.ai/chapter_natural-language-processing-applications/index.html)
-
-[15.1. Sentiment Analysis and the Dataset](https://d2l.ai/chapter_natural-language-processing-applications/sentiment-analysis-and-dataset.html)
-
-[15.2. Sentiment Analysis: Using Recurrent Neural Networks](https://d2l.ai/chapter_natural-language-processing-applications/sentiment-analysis-rnn.html)
-
-[15.3. Sentiment Analysis: Using Convolutional Neural Networks](https://d2l.ai/chapter_natural-language-processing-applications/sentiment-analysis-cnn.html)
-
-[15.4. Natural Language Inference and the Dataset](https://d2l.ai/chapter_natural-language-processing-applications/natural-language-inference-and-dataset.html)
-
-[15.5. Natural Language Inference: Using Attention](https://d2l.ai/chapter_natural-language-processing-applications/natural-language-inference-attention.html)
-
-[15.6. Fine-Tuning BERT for Sequence-Level and Token-Level Applications](https://d2l.ai/chapter_natural-language-processing-applications/finetuning-bert.html)
-
-[15.7. Natural Language Inference: Fine-Tuning BERT](https://d2l.ai/chapter_natural-language-processing-applications/natural-language-inference-bert.html)
+- [14. Natural Language Processing: Pretraining](https://d2l.ai/chapter_natural-language-processing-pretraining/index.html)
+- [14.1. Word Embedding (word2vec)](https://d2l.ai/chapter_natural-language-processing-pretraining/word2vec.html)
+- [14.2. Approximate Training](https://d2l.ai/chapter_natural-language-processing-pretraining/approx-training.html)
+- [14.3. The Dataset for Pretraining Word Embedding](https://d2l.ai/chapter_natural-language-processing-pretraining/word-embedding-dataset.html)
+- [14.4. Pretraining word2vec](https://d2l.ai/chapter_natural-language-processing-pretraining/word2vec-pretraining.html)
+- [14.5. Word Embedding with Global Vectors (GloVe)](https://d2l.ai/chapter_natural-language-processing-pretraining/glove.html)
+- [14.6. Subword Embedding](https://d2l.ai/chapter_natural-language-processing-pretraining/subword-embedding.html)
+- [14.7. Finding Synonyms and Analogies](https://d2l.ai/chapter_natural-language-processing-pretraining/similarity-analogy.html)
+- [14.8. Bidirectional Encoder Representations from Transformers (BERT)](https://d2l.ai/chapter_natural-language-processing-pretraining/bert.html)
+- [14.9. The Dataset for Pretraining BERT](https://d2l.ai/chapter_natural-language-processing-pretraining/bert-dataset.html)
+- [14.10. Pretraining BERT](https://d2l.ai/chapter_natural-language-processing-pretraining/bert-pretraining.html)
+- [15. Natural Language Processing: Applications](https://d2l.ai/chapter_natural-language-processing-applications/index.html)
+- [15.1. Sentiment Analysis and the Dataset](https://d2l.ai/chapter_natural-language-processing-applications/sentiment-analysis-and-dataset.html)
+- [15.2. Sentiment Analysis: Using Recurrent Neural Networks](https://d2l.ai/chapter_natural-language-processing-applications/sentiment-analysis-rnn.html)
+- [15.3. Sentiment Analysis: Using Convolutional Neural Networks](https://d2l.ai/chapter_natural-language-processing-applications/sentiment-analysis-cnn.html)
+- [15.4. Natural Language Inference and the Dataset](https://d2l.ai/chapter_natural-language-processing-applications/natural-language-inference-and-dataset.html)
+- [15.5. Natural Language Inference: Using Attention](https://d2l.ai/chapter_natural-language-processing-applications/natural-language-inference-attention.html)
+- [15.6. Fine-Tuning BERT for Sequence-Level and Token-Level Applications](https://d2l.ai/chapter_natural-language-processing-applications/finetuning-bert.html)
+- [15.7. Natural Language Inference: Fine-Tuning BERT](https://d2l.ai/chapter_natural-language-processing-applications/natural-language-inference-bert.html)
 
 ## NLP (Natural Language Processing)
 

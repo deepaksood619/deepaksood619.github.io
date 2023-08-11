@@ -5,7 +5,7 @@
   - [Politics](politics/others)
   - [Indian Polity](knowledge/others/politics/indian-polity.md)
 - [International Relations IR](international-relations-ir)
-- [Environmental Sciences](environmental-sciences)
+- [Environmental Sciences](knowledge/others/climate-change.md)
 - [Philosophy](philosophy)
 - [Education / PhD](education-phd)
 - [Chemistry Outline](chemistry-outline)

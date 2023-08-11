@@ -10,6 +10,11 @@ Fiscal policy is done by the government through spending. Monetary policy is don
 - Aadhaar, DBT (Direct Benefit Transfer)
 - ONDC (Open Network for Digital Commerce)
 
+|               | **Excludable**                                                  | **Non-Excludable**                            |
+| ------------- | ----------------------------------------------------------- | ----------------------------------------- |
+| **Rivalrous**     | **Private Goods** - food, clothing, cards, personal electronics - Not available to everyone and also competitive | **Common Goods** - fish, stocks, timber, coal - Available to everyone but competitive |
+| **Non-Rivalrous** | **Club Goods** - cinemas, private parks, satellite tv - Aren't available to all, but aren't competitive           | **Public Goods** - air, national defense - Available to everyone and not competitive                              |
+
 ## Bureaucracy
 
 - A system of government in which most of the important decisions are taken by state officials rather than by elected representatives.

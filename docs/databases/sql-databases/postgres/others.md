@@ -123,4 +123,5 @@ Many powerful features are included in pgBackRest, including parallel backup and
 
 ## Others
 
-[GitHub - hydradatabase/hydra: Hydra: Column-oriented Postgres. Add scalable analytics to your project in minutes.](https://github.com/hydradatabase/hydra)
+- [GitHub - hydradatabase/hydra: Hydra: Column-oriented Postgres. Add scalable analytics to your project in minutes.](https://github.com/hydradatabase/hydra)
+- [GitHub - getretake/retake: Open-Source Hybrid Search for Postgres](https://github.com/getretake/retake)

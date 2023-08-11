@@ -74,6 +74,14 @@ We can therefore conclude the following: the probability of having a 99.9999% ch
 
 [What if my wallet generated an existing Bitcoin address? | Coinhouse](https://www.coinhouse.com/insights/news/what-if-my-wallet-generated-an-existing-bitcoin-address/)
 
+## Wallet Signature Request
+
+In the blockchain world, every on-chain event (a transaction that interacts with blockchain) requires a processing fee. **The signature request is off-chain so doesn’t.** Users might not understand this at first and be put off from connecting to your dApp. Be explicit that this won’t cost your users anything.
+
+[Writing for blockchain: wallet signature request messages | by Ryan Cordell | HackerNoon.com | Medium](https://medium.com/hackernoon/writing-for-blockchain-wallet-signature-request-messages-6ede721160d5)
+
+[What is a signature in MetaMask? – MetaMask](https://support.metamask.io/hc/en-us/articles/15756276171163-What-is-a-signature-in-MetaMask-)
+
 ## Technologies
 
 [**Threshold Signatures Explained | Binance Academy**](https://academy.binance.com/en/articles/threshold-signatures-explained)

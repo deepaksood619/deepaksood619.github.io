@@ -1,12 +1,12 @@
 # VPN
 
-A **virtual private network**(**VPN**) extends a [private network](https://en.wikipedia.org/wiki/Private_network) across a public network, and enables users to send and receive data across shared or public networks as if their computing devices were directly connected to the private network. Applications running on a computing device, e.g., a laptop, desktop, smartphone, across a VPN may therefore benefit from the functionality, security, and management of the private network. Encryption is a common, though not an inherent, part of a VPN connection.
+A **virtual private network (VPN)** extends a [private network](https://en.wikipedia.org/wiki/Private_network) across a public network, and enables users to send and receive data across shared or public networks as if their computing devices were directly connected to the private network. Applications running on a computing device, e.g., a laptop, desktop, smartphone, across a VPN may therefore benefit from the functionality, security, and management of the private network. Encryption is a common, though not an inherent, part of a VPN connection.
 
-Full Tunnel
+## Full Tunnel
 
 ## Split Tunnel
 
-Split tunnelingis a computer networking concept which allows a mobile user to access dissimilar security domains like a public network (e.g., the Internet) and a local LAN or WAN at the same time, using the same or different network connections. This connection state is usually facilitated through the simultaneous use of a Local Area Network (LAN) Network Interface Card (NIC), radio NIC, Wireless Local Area Network (WLAN) NIC, and VPN client software application without the benefit of access control.
+Split tunneling is a computer networking concept which allows a mobile user to access dissimilar security domains like a public network (e.g., the Internet) and a local LAN or WAN at the same time, using the same or different network connections. This connection state is usually facilitated through the simultaneous use of a Local Area Network (LAN) Network Interface Card (NIC), radio NIC, Wireless Local Area Network (WLAN) NIC, and VPN client software application without the benefit of access control.
 
 ### Advantages
 
@@ -35,7 +35,7 @@ IPsec includes protocols for establishing [mutual authentication](https://en.wik
 
 The initial [IPv4](https://en.wikipedia.org/wiki/IPv4) suite was developed with few security provisions. As a part of the IPv4 enhancement, IPsec is a layer 3 [OSI model](https://en.wikipedia.org/wiki/OSI_model) or [internet layer](https://en.wikipedia.org/wiki/Internet_layer) end-to-end security scheme, while some other Internet security systems in widespread use operate above layer 3, such as [Transport Layer Security](https://en.wikipedia.org/wiki/Transport_Layer_Security)(TLS) and [Secure Shell](https://en.wikipedia.org/wiki/Secure_Shell)(SSH), both of which operate at the Transport layer. IPsec can automatically secure applications at the IP layer.
 
-## Modes of operation
+### Modes of operation
 
 The IPsec protocols AH and ESP can be implemented in a host-to-host transport mode, as well as in a network tunneling mode.
 
@@ -46,6 +46,7 @@ The IPsec protocols AH and ESP can be implemented in a host-to-host transport mo
 OpenVPN is a [free and open-source](https://en.wikipedia.org/wiki/Free_and_open-source) software application that implements [virtual private network](https://en.wikipedia.org/wiki/Virtual_private_network)(VPN) techniques to create secure point-to-point or site-to-site connections in routed or bridged configurations and remote access facilities. It uses a custom security protocolthat utilizes [SSL/TLS](https://en.wikipedia.org/wiki/Transport_Layer_Security) for key exchange. It is capable of traversing [network address translators](https://en.wikipedia.org/wiki/Network_address_translator)(NATs) and [firewalls](https://en.wikipedia.org/wiki/Firewall_(computing))
 
 OpenVPN allows [peers](https://en.wikipedia.org/wiki/Peer-to-peer) to [authenticate](https://en.wikipedia.org/wiki/Authentication) each other using [pre-shared secret keys](https://en.wikipedia.org/wiki/Pre-shared_key), [certificates](https://en.wikipedia.org/wiki/Public_key_certificate) or [username](https://en.wikipedia.org/wiki/User_(computing))/[password](https://en.wikipedia.org/wiki/Password). When used in a multiclient-server configuration, it allows the server to release an [authentication certificate](https://en.wikipedia.org/wiki/Public_key_certificate) for every client, using [signatures](https://en.wikipedia.org/wiki/Digital_signature) and [certificate authority](https://en.wikipedia.org/wiki/Certificate_authority). It uses the [OpenSSL](https://en.wikipedia.org/wiki/OpenSSL) encryption [library](https://en.wikipedia.org/wiki/Library_(computing)) extensively, as well as the [TLS](https://en.wikipedia.org/wiki/Transport_Layer_Security) protocol, and contains many security and control features.
+
 <https://en.wikipedia.org/wiki/OpenVPN>
 
 <https://openvpn.net>
@@ -71,3 +72,41 @@ ngrok is a reverse proxy that creates a secure tunnel from a public endpoint to 
 ## Secure access service edge (SASE) model
 
 <https://pages.awscloud.com/AWSMP-SEC-NetworkSecurity-Edge-SASE-en.html>
+
+## Cloudflare Zero Trust
+
+Cloudflare Zero Trust replaces legacy security perimeters with our global network, making the Internet faster and safer for teams around the world.
+
+**Zero Trust access for all of your applications.**
+
+- Authenticate users on our global network
+- Onboard third-party users seamlessly
+- Log every event and request
+
+**A Secure Web Gateway to protect users and devices.**
+
+- Enforce your company’s Acceptable Use Policy (AUP)
+- Block risky sites with custom blocklists and built-in threat intel
+- Enhance visibility and protection into SaaS applications
+
+**A fast and reliable solution for remote browsing.**
+
+- Execute all browser code in the cloud
+- Mitigate the impact of attacks
+- Seamless, lightning-fast end user experience
+
+**A Cloud Access Security Broker to safeguard data in the cloud.**
+
+- Protect users and sensitive data at rest in SaaS applications
+- Detect insider threats and unsanctioned application usage, or Shadow IT
+- Ensure best practices to prevent data leaks and compliance violations
+
+**A Data Loss Prevention solution to safeguard data in transit.**
+
+- Detect sensitive data as it moves to and from SaaS applications
+- Predefined DLP Profiles to quickly get started
+- Log or block DLP matches
+
+[Cloudflare Zero Trust · Cloudflare Zero Trust docs](https://developers.cloudflare.com/cloudflare-one/)
+
+[WARP | 1.1.1.1 — The free app that makes your Internet faster.](https://1.1.1.1/)

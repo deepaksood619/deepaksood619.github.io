@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c1e301c8926bfd7d",
+            "id": "c64130d7190f0c41",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "psychology/biases-fallacies.md",
+                "file": "office/todo/todo-tech-&-courses.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "the-knowledge-illusion",
+                "query": "bamboo",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -81,8 +81,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -102,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "psychology/biases-fallacies.md",
+                "file": "office/todo/todo-tech-&-courses.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "psychology/biases-fallacies.md",
+                "file": "office/todo/todo-tech-&-courses.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "psychology/biases-fallacies.md"
+                "file": "office/todo/todo-tech-&-courses.md"
               }
             }
           },
@@ -190,34 +189,37 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "c1e301c8926bfd7d",
+  "active": "978fd2faf621af33",
   "lastOpenFiles": [
-    "psychology/learning/learning-intro.md",
-    "psychology/biases-fallacies.md",
-    "book-summaries/the-knowledge-illusion.md",
-    "media/Pasted image 20230804235124.png",
-    "psychology/thinking-mental-models.md",
-    "knowledge/general/mental-models.md",
-    "management/mental-models.md",
-    "psychology/mental-models.md",
-    "psychology/learning/chunking-the-essentials.md",
-    "psychology/learning/tips.md",
-    "psychology/learning/speed-reading.md",
-    "psychology/learning/note-taking-second-brain-pkm-zettelkasten.md",
+    "management/people-management/remote-working-teams.md",
+    "office/personality/resumes-jobs-companies-company.md",
+    "office/todo/todo-tech-&-courses.md",
+    "decentralized-applications/ethereum/ethereum-staking.md",
     "office/blocktoons/infra.md",
-    "decentralized-applications/coins-tokens-chains/bitcoin.md",
-    "decentralized-applications/ethereum/layer-2-protocols.md",
-    "databases/sql-databases/postgres/others.md",
-    "ai/data-science/tableau/concepts.md",
-    "ai/data-science/tableau/data-sources.md",
-    "ai/data-science/tableau/readme.md",
-    "ai/data-science/tableau/data-model.md",
-    "ai/data-science/tableau/architecture-components.md",
-    "office/cakedefi/infra.md",
-    "frontend/js-javascript/web-api.md",
-    "frontend/frontend-intro/others.md",
-    "frontend/frontend-intro/readme.md",
-    "frontend/readme.md",
+    "devops/ides/youtube-podcasts-magazine-apps.md",
+    "decentralized-applications/coins-tokens-chains/thorchain.md",
+    "decentralized-applications/coins-tokens-chains/readme.md",
+    "decentralized-applications/crypto-investing.md",
+    "decentralized-applications/defi-apps.md",
+    "decentralized-applications/defi.md",
+    "decentralized-applications/liquidity-mining.md",
+    "management/business/business-case-studies.md",
+    "economics/mental-models/macroeconomics.md",
+    "knowledge/others/news-problems.md",
+    "decentralized-applications/crypto-news.md",
+    "technologies/git/readme.md",
+    "technologies/git/others.md",
+    "knowledge/others/climate-change.md",
+    "technologies/git/theory.md",
+    "decentralized-applications/ethereum/30-bridges.md",
+    "decentralized-applications/coins-tokens-chains/bnb.md",
+    "decentralized-applications/coins-tokens-chains/uniswap.md",
+    "ai/libraries/chatgpt-llm.md",
+    "ai/nlp/nlp-concepts.md",
+    "ai/nlp/intro.md",
+    "media/Pasted image 20230811165442.png",
+    "media/Pasted image 20230805120712.png",
+    "media/Pasted image 20230804235124.png",
     "media/Pasted image 20230802182140.png",
     "media/Pasted image 20230801121928.png",
     "media/Pasted image 20230726123953.png",
@@ -225,8 +227,6 @@
     "media/Pasted image 20230719181140.png",
     "media/Pasted image 20230718133117.png",
     "media/Pasted image 20230716224959.png",
-    "media/Pasted image 20230715103730.png",
-    "media/Pasted image 20230714180337.png",
     "ai/data-science/tableau",
     "Untitled",
     "office.zip",

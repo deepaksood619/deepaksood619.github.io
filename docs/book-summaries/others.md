@@ -22,6 +22,23 @@
 
 [Infinite mindset = sustained performance | THE INFINITE GAME by Simon Sinek | Core Message - YouTube](https://www.youtube.com/watch?v=jQU36VGWV_o)
 
+[Learn to lead: THE 21 IRREFUTABLE LAWS OF LEADERSHIP by John Maxwell | Core Message - YouTube](https://www.youtube.com/watch?v=QQhdiktL99w)
+
+- The Law of Addition
+  - PROMISE
+    - P - Provide honest and actionable feedback
+    - R - Remove obstacles & preempt problems
+    - O - Own the problems
+    - M - Make time to meet with everyone
+    - I - Influence upper management
+    - S - Spotlight the efforts & contributions
+    - E - Encourage your team to make decisions
+- The Law of Process
+- The Law of Solid Ground
+- The Law of the Picture
+- The Law of Priorities
+- The Law of Sacrifice
+
 ## Links
 
 [Productivity Game - YouTube](https://www.youtube.com/@ProductivityGame)

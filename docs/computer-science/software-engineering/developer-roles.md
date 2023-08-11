@@ -56,3 +56,9 @@
 [How to get a promotion and become a Staff Engineer at FAANG - YouTube](https://www.youtube.com/watch?v=NJjJctW-K0g)
 
 [How to decide which technology to learn and invest time in? - YouTube](https://www.youtube.com/watch?v=z8m_iKCPTaQ)
+
+## Developer vs Engineer
+
+Developer - A developer executes. Their talents often focused to a single area. Without need for the "big picture".
+
+Engineer - An engineer designs and plans. Always aware of the "big picture". With talents in many areas. An engineer can assume the developer role. But an engineer's core focus lies with architecture.

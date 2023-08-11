@@ -132,3 +132,5 @@ Book - <https://www.principles.com/big-debt-crises> Free pdf
 [William Ackman: Everything You Need to Know About Finance and Investing in Under an Hour | Big Think - YouTube](https://www.youtube.com/watch?v=WEDIj9JBTC8)
 
 [Peter Lynch 1994 Lecture - YouTube](https://www.youtube.com/watch?v=72Pq5zKEi_g&ab_channel=GiraffeValue)
+
+[The Cost of Cash | Mark Smalley | TEDxYouth@Kenyalang - YouTube](https://www.youtube.com/watch?v=66ctEX47I4E)

@@ -231,3 +231,5 @@ Isotropic refers to the properties of a material which is independent of the dir
 [This goofy fridge has a really clever design. It's also kinda terrible. - YouTube](https://www.youtube.com/watch?v=8PTjPzw9VhY)
 
 [How a Diesel-Electric Locomotive Works - YouTube](https://www.youtube.com/watch?v=cIQ0yIZgQeE)
+
+[Axial Flux Motors Will Change CARS - Here's Why - YouTube](https://www.youtube.com/watch?v=HFY0cNRQjHA)

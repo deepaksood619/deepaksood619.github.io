@@ -20,7 +20,8 @@ If you're useful over a long time period, you will end up looking smart anyway."
 
 Substack makes it simple for a writer to start an email newsletter that makes money from subscriptions.
 
-<https://www.dotdash.com>
+- <https://www.dotdash.com>
+- [beehiiv.com](https://www.beehiiv.com/)
 
 ## LinkedIn growth playbook
 

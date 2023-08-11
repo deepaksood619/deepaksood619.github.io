@@ -1,18 +1,26 @@
 # Market Terms
 
+- [IPO](economics/market-terms/ipo.md)
+- [Technical Analysis](market-terms/technical-analysis)
+- [Technical Indicators](market-terms/technical-indicators)
+- [Valuation Metrics](market-terms/valuation-metrics)
+- [Futures / Options / Trading](market-terms/futures-options-trading)
+- [Wyckoff Method](economics/market-terms/wyckoff-method.md)
+- [Others](economics/market-terms/others.md)
+
 ## Market timings
 
-## Equity
+### Equity
 
 - 9 am to 9.15 am -- Pre market
 - 9.15 am to 3.30 pm -- Normal trading
 - 3.40 pm to 4.00 pm -- Post market
 
-## Currency
+### Currency
 
 - 9 am to 5 pm -- Normal trading
 
-## Commodity
+### Commodity
 
 - 9 am to 11.30 pm -- during day light savings time - March to November
 - 9 am to 11.55 pm -- November to March
@@ -37,6 +45,13 @@ Bulls make money, bears make money, but pigs get slaughtered.
 - **Tickertape**
 - <https://in.tradingview.com>
 - <https://learnapp.com/home>
+
+### Trading tools
+
+- [GitHub - OpenBB-finance/OpenBBTerminal: Investment Research for Everyone, Everywhere.](https://github.com/OpenBB-finance/OpenBBTerminal)
+- [Finance Toolkit | Jeroen Bouma](https://www.jeroenbouma.com/projects/financetoolkit)
+- [GitHub - JerBouma/FinanceDatabase: This is a database of 300.000+ symbols containing Equities, ETFs, Funds, Indices, Currencies, Cryptocurrencies and Money Markets.](https://github.com/JerBouma/FinanceDatabase)
+- [GitHub - JerBouma/ThePassiveInvestor: Passive Investing for the Average Joe](https://github.com/JerBouma/ThePassiveInvestor)
 
 ## Stock Market
 
@@ -426,8 +441,9 @@ The [contract for difference (CFD)](https://www.investopedia.com/terms/c/contrac
 
 A binary option is a financial product where the buyer receives a payout or loses their investment, based on if the option expires [in the money](https://www.investopedia.com/terms/i/inthemoney.asp). Binary options depend on the outcome of a "yes or no" proposition, hence the name "binary." Binary options have an expiry date and/or time. At the time of expiry, the price of the [underlying asset](https://www.investopedia.com/terms/u/underlying-asset.asp) must be on the correct side of the [strike price](https://www.investopedia.com/terms/s/strikeprice.asp)(based on the trade taken) for the trader to make a profit.
 
-| **capital gains tax** | **a tax on a positive return on an investment resulting from the sale price of a security being higher than the purchase price** |
+|   |  |
 |---|---|
+| **capital gains tax** | a tax on a positive return on an investment resulting from the sale price of a security being higher than the purchase price |
 | **capital loss** | a negative return on an investment resulting from the sale price of a security being lower than the purchase price |
 | **Employee Stock Purchase Plan (ESPP)** | a type of stock plan that allows employees to purchase shares of company stock via accumulated payroll deductions, sometimes at a discount |
 | **holding period** | this refers to the amount of time that stocks or options must be held before they can be sold or exercised; the holding period requirements are described in the plan documents |
@@ -498,8 +514,8 @@ How should an investor deal with the possibility of a stock market crash?" - Thr
 
 - **EQ:** It stands for Equity. In this series [intraday trading](https://tradesmartonline.in/blog/what-is-intraday-trading-basics-for-beginners-in-stock-market/) is possible in addition to delivery.
 - **BE:** It stands for Book Entry. Shares falling in the Trade-to-Trade or T-segment are traded in this series and no intraday is allowed. This means trades can only be settled by accepting or giving the delivery of shares.
-- **BL:**This series is for facilitating block deals.Block deal is a trade, with a minimum quantity of 5 lakh shares or minimum value of Rs. 5 crore, executed through a single transaction, on the special "Block Deal window". The window is opened for only 35 minutes in the morning from 9:15 to 9:50AM.
-- **BT:**This series provides an exit route to small investors having shares in the physical form with a cap of maximum 500 shares.
+- **BL:** This series is for facilitating block deals.Block deal is a trade, with a minimum quantity of 5 lakh shares or minimum value of Rs. 5 crore, executed through a single transaction, on the special "Block Deal window". The window is opened for only 35 minutes in the morning from 9:15 to 9:50AM.
+- **BT:** This series provides an exit route to small investors having shares in the physical form with a cap of maximum 500 shares.
 - **BZ:** Stocks that are blacklisted for violation of exchange rules. This series stocks falls under Trade-to-Trade category and hence BTST (Buy Today Sell Tomorrow) and intraday is not allowed in such stocks.
 - **GC:** This series allows Government Securities and Treasury Bills to be traded under this category.
 - **IL:** This series allows only FIIs to trade among themselves. Permissible only in those securities where maximum permissible limit for FIIs is not breached.

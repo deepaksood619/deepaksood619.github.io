@@ -34,14 +34,34 @@ Inverse relationship between price of bond and yield, if price of bond goes up y
 
 Inverted yield curve
 
-- Average maturity
-- Macaulay duration
+## Average maturity
+
+## Macaulay duration
 
 The Macaulay duration is the [weighted average](https://www.investopedia.com/terms/w/weightedaverage.asp)[term to maturity](https://www.investopedia.com/terms/t/termtomaturity.asp) of the cash flows from a [bond](https://atlas.dotdash.com/terms/b/bond.asp). The weight of each cash flow is determined by dividing the present value of the cash flow by the price. Macaulay duration is frequently used by [portfolio managers](https://atlas.dotdash.com/terms/p/portfoliomanager.asp) who use an immunization strategy.
 
-- Modified duration
+## Modified duration
 
 The modified duration (measured in years) of a bond is essentially the sensitivity of the bond's price to the change in interest rate. So if a bond has a modified duration of 3.2 years, then
 
 - A 1% increase in interest rate decreases the bond's price by 3.2%. A 1.5% increase in the interest rate, lower the bond's price by 4.8%
 - A 1% decrease in interest rate increases the bond's price by 3.2%. A 1.5% decrease in bond price, increases the bond's price by 4.8%
+
+## Conditional Probabilities: Bond Rating and Default Rates
+
+![image](../../media/Mutual-Funds-image8.jpg)
+
+![image](../../media/Mutual-Funds-image9.jpg)
+
+## A Probit Model: Hostile Acquisitions
+
+- While there are no easy pathways to making money, it seems clear that investors in companies that are targeted in acquisitions (especially hostile ones) earn high returns, but only if they invest before the event
+- There are probit models for predicting companies that will be targeted, and they involve:
+  - You start with all firms that publicly traded at the start of a period
+  - The dependent variable becomes the stand-in for whether a firm is targeted in a hostile acquisition
+  - The independent variables reflect what you believe are key drivers of hostile acquisitions, including poor stock price performance, lagging accounting returns and managers with little or no shareholdings
+  - You build a probit model that will yield as output an equation that resembles a regression, but will yield a probability of a hostile acquisition
+
+## Links
+
+[Analyzing debt mutual funds - YouTube](https://www.youtube.com/watch?v=1_2tzQVUqpM)

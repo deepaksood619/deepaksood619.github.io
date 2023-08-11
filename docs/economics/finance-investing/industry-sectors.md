@@ -43,3 +43,9 @@
 [Will Banning Foreign Investors Fix Canada's Housing Crisis?](https://www.youtube.com/watch?v=ROHl9bxubgc)
 
 - Everyone wants afordable housing, but don't want their owned house's prices to go down
+
+[How to Analyze Company Performance Across the Specific Sector | 6 Sectors Analysed | Part-2 - YouTube](https://www.youtube.com/watch?v=CaLNWQlhGGs)
+
+- Infrastructure
+- Pharmaceutical
+- Telecommunications

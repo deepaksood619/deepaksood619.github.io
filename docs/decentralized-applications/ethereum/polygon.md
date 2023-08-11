@@ -23,3 +23,9 @@ Compared to Polkadot and Cosmos
 [What is Polygon? MATIC Explained with Animations - YouTube](https://www.youtube.com/watch?v=GWUwFDFOipo)
 
 [Polygon 2.0: Protocol Architecture](https://polygon.technology/blog/polygon-2-0-protocol-vision-and-architecture)
+
+[Polygon 🛠️ Getting Started with Polygon ID - YouTube](https://www.youtube.com/watch?v=KRtkKx_uHQI)
+
+## Tools
+
+[Polygon Faucet](https://faucet.polygon.technology/)

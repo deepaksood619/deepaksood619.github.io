@@ -390,6 +390,7 @@ defaults write com.apple.screencapture type JPG
 defaults write com.apple.screencapture type PNG
 
 defaults write com.apple.screencapture location "$HOME/Screenshots"
+defaults write com.apple.screencapture location "$HOME/Desktop"
 
 for f in "$@"
 do

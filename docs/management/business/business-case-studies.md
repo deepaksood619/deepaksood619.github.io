@@ -368,3 +368,9 @@ Marketing tactic used, light the agarbatti in-front of store and left for 2 days
 [How Firstcry TRANSFORMED India’s 4000 Crore E-Commerce Industry | GrowthX Wireframe - YouTube](https://www.youtube.com/watch?v=O7gaqYNPlUY)
 
 [How Masters union is building a Harvard for India? : Business case study - YouTube](https://www.youtube.com/watch?v=yzDF_KX4Zjg)
+
+[How Frooti Made A 4200 Crore COMEBACK | GrowthX Wireframe - YouTube](https://www.youtube.com/watch?v=D1p8VibEguY)
+
+[How JAINS built the DIAMOND Industry of India? : Business Case Study - YouTube](https://www.youtube.com/watch?v=Vx4hyGpzVyI)
+
+[How I DOUBLED Neeman’s Business In 9 Months | GrowthX Insider - YouTube](https://www.youtube.com/watch?v=FBdlJRUMUR0)

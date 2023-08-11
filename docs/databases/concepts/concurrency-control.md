@@ -28,6 +28,8 @@ Acquire all the locks beforehand and then commit our transaction
 
 We do not acquire any locks on data and when commiting a transaction we check to see if any other transaction updated the record we are working on.
 
+[Optimistic Locking - What, When, Why, and How? - YouTube](https://www.youtube.com/watch?v=eMotoFvgdUo)
+
 ### Optimistic vs Pessimistic Concurrency Control
 
 #### Pessimistic concurrency control

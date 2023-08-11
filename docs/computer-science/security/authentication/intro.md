@@ -172,7 +172,23 @@ When an Credit Saison India service receives the request, it performs the same s
 
 [Passkeys](https://security.googleblog.com/2023/05/so-long-passwords-thanks-for-all-phish.html) are a new way to sign in to apps and websites. They’re both easier to use and more secure than passwords, so users no longer need to rely on the names of pets, birthdays or the infamous "password123." Instead, passkeys let users sign in to apps and sites the same way they unlock their devices: with a fingerprint, a face scan or a screen lock PIN. And, unlike passwords, passkeys are resistant to online attacks like phishing, making them more secure than things like SMS one-time codes.
 
+Passkeys are easier:
+
+- Users can select an account to sign in with. Typing the username is not required.
+- Users can authenticate using device's screen lock such as a fingerprint sensor, facial recognition or PIN.
+- Once a passkey is created and registered, the user can seamlessly switch to a new device and immediately use it without needing to re-enroll (unlike traditional biometric auth, which requires setup on each device).
+
+Passkeys are safer:
+
+- Developers only save a public key to the server instead of a password, meaning there's far less value for a bad actor to hack into servers, and far less cleanup to do in the event of a breach.
+- Passkeys protect users from phishing attacks. Passkeys work only on their registered websites and apps; a user cannot be tricked into authenticating on a deceptive site because the browser or OS handles verification.
+- Passkeys reduce costs for sending SMS, making them a safer and more cost-effective means for two-factor authentication.
+
+[Passkeys Demo](https://passkeys-demo.appspot.com/)
+
 [Passkeys: What they are and how to use them](https://blog.google/technology/safety-security/the-beginning-of-the-end-of-the-password/)
+
+[Passwordless login with passkeys  |  Authentication  |  Google for Developers](https://developers.google.com/identity/passkeys)
 
 ## Links
 

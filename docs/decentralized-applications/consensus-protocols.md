@@ -143,3 +143,7 @@ To maintain blockchain security and achieve network consensus, BSC combines dele
 [What do I think about biometric proof of personhood?](https://vitalik.ca/general/2023/07/24/biometric.html)
 
 [Worldcoin Whitepaper](https://whitepaper.worldcoin.org/)
+
+## Links
+
+[Endgame: Proof of Governance — Jon Charbonneau](https://dba.mirror.xyz/UTPfxWe65dYrUu_RJX-5VkAJypFRyw3AZh6m0dRXYZk)

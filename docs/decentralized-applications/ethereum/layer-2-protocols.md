@@ -89,6 +89,8 @@ A cryptographic method for proving a statement is true without revealing any inf
 
 [What Is A zkEVM? — Linea](https://linea.mirror.xyz/qD18IaQ4BROn_Y40EBMTUTdJHYghUtdECscSWyMvm8M)
 
+[Lifecycle of ZKP | ZKCamp](https://www.zkcamp.xyz/blog/lifecycle-of-zkp)
+
 ### zk-SNARK
 
 The acronym **zk-SNARK stands for "Zero-Knowledge Succinct Non-Interactive Argument of Knowledge,"** and refers to a proof construction where one can prove possession of certain information, e.g. a secret key, without revealing that information, and without any interaction between the prover and verifier. In May 2022, Zcash began the process of upgrading its underlying cryptography and moving to a new proof composition called Halo.
@@ -140,3 +142,5 @@ The variations in security techniques between layer 2 and sidechain solutions ar
 [What are Rollups in Crypto? ZKSnarks vs Optimistics Rollups Explained - YouTube](https://www.youtube.com/watch?v=6_nOYsvXMsE)
 
 [Layer 2 Scaling - Playlist YouTube](https://www.youtube.com/playlist?list=PLHx4UicbtUobQJPt_ACy95eDf3FQAiHUi)
+
+[Ethereum at Hyperscale - Alex Gluchowski | Pragma Paris 2023 - YouTube](https://www.youtube.com/watch?v=Uh_FMZrVE0A)

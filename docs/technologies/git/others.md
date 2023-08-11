@@ -123,3 +123,7 @@ A command-line tool that makes git easier to use with GitHub.
 ## Gitlab
 
 <https://docs.gitlab.com/ee/user/markdown.html#wiki-specific-markdown>
+
+## Others
+
+[Why Google and Meta Put Billion Lines of Code In 1 Repository? - YouTube](https://www.youtube.com/watch?v=x3cANGNPyx0)

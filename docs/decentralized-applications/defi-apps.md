@@ -19,3 +19,9 @@
 
 - [Compound Finance Review: DeFi Unleashed! - YouTube](https://www.youtube.com/watch?v=FUhlxX0pYQo)
 - [Compound](https://compound.finance/)
+
+## Others
+
+- [What is Fulcrum? How I Made $600 from ETH Crashing - YouTube](https://www.youtube.com/watch?v=OqTGu9NlaBI)
+- [I bought Tesla with Crypto! What is Mirror Protocol? - YouTube](https://www.youtube.com/watch?v=dCpckWMXi4o)
+- [What is Balancer? Crypto Index Funds and BAL Explained with Animations - YouTube](https://www.youtube.com/watch?v=IX6rUhNC8uA)

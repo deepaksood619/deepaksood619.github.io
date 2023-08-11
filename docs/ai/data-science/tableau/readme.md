@@ -5,6 +5,8 @@
 - [Data Sources](ai/data-science/tableau/data-sources.md)
 - [Concepts](ai/data-science/tableau/concepts.md)
 - [Augmented Analytics](ai/data-science/tableau/augmented-analytics.md)
+- [Dashboarding](ai/data-science/tableau/dashboarding.md)
+- [Others](ai/data-science/tableau/others.md)
 
 Visualization from relational databases and data cubes, OLAP cubes, cloud databases
 
@@ -13,6 +15,8 @@ Visualization from relational databases and data cubes, OLAP cubes, cloud databa
 <https://public.tableau.com/en-us/s>
 
 <https://public.tableau.com/en-us/gallery/travel-planner-emissions-calculator>
+
+[https://public.tableau.com/app/discover](https://public.tableau.com/app/discover)
 
 ## Debugging
 

@@ -109,6 +109,25 @@ An unspent transaction output (UTXO) refers to a transaction output that can be 
 
 Ethereum uses an account-based approach with account balances, so there are no UTXOs in the Ethereum Virtual Machine.
 
+#### Example
+
+Alice has 0.45 BTC in her [wallet](https://academy.binance.com/en/articles/crypto-wallet-types-explained). This isn’t a fraction of a coin as we might conceptualize it. It’s rather a collection of UTXOs. Specifically, two UTXOs worth 0.4 BTC, and 0.05 BTC – outputs from past transactions. Now let's imagine that Alice needs to make a payment to Bob of 0.3 BTC.
+
+Her only option here is to break up the 0.4 BTC unit and to send 0.3 BTC to Bob, and 0.1 BTC back to herself. She would normally reclaim less than 0.1 BTC due to mining fees, but let's simplify and leave the [miner](https://academy.binance.com/en/articles/what-is-cryptocurrency-mining) out.
+
+Alice creates a transaction that essentially says to the network: take my 0.4 BTC UTXO as an input, break it up, send 0.3 BTC of it to Bob’s address and return the 0.1 BTC to my address. The 0.4 BTC is now a spent output, and can’t be reused. Meanwhile, two new UTXOs have been created (0.3 BTC and 0.1 BTC).
+
+Note that we broke up a UTXO in this example, but if Alice had to pay 0.42 BTC, she could just as easily have combined her 0.4 BTC with another 0.05 BTC to produce a UTXO worth 0.42 BTC, while returning 0.03 BTC to herself.
+
+#### UTXO Model VS Accounting Model
+
+|**S.No.**|**UTXO Model**|**Accounting Model**|
+|---|---|---|
+|1.|The transaction requires more storage space.|The transaction requires less storage space.|
+|2.|The state is saved in transactions.|The state is saved on the nodes.|
+|3.|The transactions are computationally simpler.|The transactions utilize complex calculations.|
+|4.|Bulk transactions are less efficient.|Bulk transactions are more efficient.|
+
 [Unspent Transaction Output (UTXO) | Binance Academy](https://academy.binance.com/en/glossary/unspent-transaction-output-utxo)
 
 [UTXO Model: Definition, How It Works, and Goals](https://www.investopedia.com/terms/u/utxo.asp)

@@ -76,6 +76,12 @@ Merlin Chrome Extension
 
 [Generative AI API For Your Product | One AI](https://www.oneai.com/)
 
+[Playground AI](https://playgroundai.com/)
+
+[Photo AI: AI Photo Generator](https://photoai.com/)
+
+[Fetching Title#1t9d](https://blog.jupyter.org/generative-ai-in-jupyter-3f7174824862)
+
 ![ai-tools](../../media/image.png)
 
 [FinGPT: Open-Source Financial Large Language Models](https://arxiv.org/abs/2306.06031)
@@ -115,12 +121,25 @@ Prompt: "I want to learn about {insert topic}. Identify and share the most impor
 [Building your Generative AI apps with Meta's Llama 2 and Databricks | Databricks Blog](https://www.databricks.com/blog/building-your-generative-ai-apps-metas-llama-2-and-databricks)
 [GitHub - stoyan-stoyanov/llmflows: LLMFlows - Simple, Explicit and Transparent LLM Apps](https://github.com/stoyan-stoyanov/llmflows)
 
+[Patterns for Building LLM-based Systems & Products](https://eugeneyan.com/writing/llm-patterns/)
+
+[GitHub - ShishirPatil/gorilla: Gorilla: An API store for LLMs](https://github.com/ShishirPatil/gorilla)
+
+[gorilla-llm (Gorilla LLM (UC Berkeley))](https://huggingface.co/gorilla-llm)
+
+## Learning
+
+- [Understanding Large Language Models - by Sebastian Raschka](https://magazine.sebastianraschka.com/p/understanding-large-language-models)
+- [Large language models, explained with a minimum of math and jargon](https://www.understandingai.org/p/large-language-models-explained-with)
+- [Catching up on the weird world of LLMs](https://simonwillison.net/2023/Aug/3/weird-world-of-llms/)
+- [Llama from scratch (or how to implement a paper without crying) | Brian Kitano](https://blog.briankitano.com/llama-from-scratch/)
+
 ## Links
 
 [How to create a private ChatGPT with your own data | by Mick Vleeshouwer | Mar, 2023 | Medium](https://medium.com/@imicknl/how-to-create-a-private-chatgpt-with-your-own-data-15754e6378a1)
 
-[Understanding Large Language Models - by Sebastian Raschka](https://magazine.sebastianraschka.com/p/understanding-large-language-models)
-
 [I Built a Hedge Fund Run by AI Agents - YouTube](https://www.youtube.com/watch?v=vnzt4lwzbXU)
 
 [State of GPT | BRK216HFS - YouTube](https://www.youtube.com/watch?v=bZQun8Y4L2A)
+
+[EMERGENCY EPISODE: Ex-Google Officer Finally Speaks Out On The Dangers Of AI! - Mo Gawdat | E252 - YouTube](https://www.youtube.com/watch?v=bk-nQ7HF6k4)

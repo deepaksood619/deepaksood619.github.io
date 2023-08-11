@@ -15,3 +15,7 @@
 <https://www.templatemonster.com>
 
 <https://themeforest.net>
+
+[Introducing Next.js Commerce 2.0 – Vercel](https://vercel.com/blog/introducing-next-js-commerce-2-0)
+
+[Next.js Commerce – Vercel](https://vercel.com/templates/next.js/nextjs-commerce)

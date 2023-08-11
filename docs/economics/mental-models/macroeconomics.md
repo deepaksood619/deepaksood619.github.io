@@ -1,6 +1,6 @@
 # Macroeconomics
 
-Macroeconomics (from the Greek prefixmakro-meaning "large" +economics) is a branch of [economics](https://en.wikipedia.org/wiki/Economics) dealing with the performance, structure, behavior, and decision-making of an [economy](https://en.wikipedia.org/wiki/Economy) as a whole. This includes regional, national, and global economies. Macroeconomists study aggregated indicators such as [GDP](https://en.wikipedia.org/wiki/Gross_domestic_product), [unemployment rates](https://en.wikipedia.org/wiki/Unemployment#Measurement), [national income](https://en.wikipedia.org/wiki/National_income), [price indices](https://en.wikipedia.org/wiki/Price_index), and the interrelations among the different sectors of the economy to better understand how the whole economy functions. They also develop models that explain the relationship between such factors as [national income](https://en.wikipedia.org/wiki/National_income), [output](https://en.wikipedia.org/wiki/Output_(economics)), [consumption](https://en.wikipedia.org/wiki/Consumption_(economics)), [unemployment](https://en.wikipedia.org/wiki/Unemployment), [inflation](https://en.wikipedia.org/wiki/Inflation), [saving](https://en.wikipedia.org/wiki/Saving), [investment](https://en.wikipedia.org/wiki/Investment_(macroeconomics)), [international trade](https://en.wikipedia.org/wiki/International_trade), and [international finance](https://en.wikipedia.org/wiki/International_finance).
+Macroeconomics (from the Greek prefix makro-meaning "large" +economics) is a branch of [economics](https://en.wikipedia.org/wiki/Economics) dealing with the performance, structure, behavior, and decision-making of an [economy](https://en.wikipedia.org/wiki/Economy) as a whole. This includes regional, national, and global economies. Macroeconomists study aggregated indicators such as [GDP](https://en.wikipedia.org/wiki/Gross_domestic_product), [unemployment rates](https://en.wikipedia.org/wiki/Unemployment#Measurement), [national income](https://en.wikipedia.org/wiki/National_income), [price indices](https://en.wikipedia.org/wiki/Price_index), and the interrelations among the different sectors of the economy to better understand how the whole economy functions. They also develop models that explain the relationship between such factors as [national income](https://en.wikipedia.org/wiki/National_income), [output](https://en.wikipedia.org/wiki/Output_(economics)), [consumption](https://en.wikipedia.org/wiki/Consumption_(economics)), [unemployment](https://en.wikipedia.org/wiki/Unemployment), [inflation](https://en.wikipedia.org/wiki/Inflation), [saving](https://en.wikipedia.org/wiki/Saving), [investment](https://en.wikipedia.org/wiki/Investment_(macroeconomics)), [international trade](https://en.wikipedia.org/wiki/International_trade), and [international finance](https://en.wikipedia.org/wiki/International_finance).
 
 While macroeconomics is a broad field of study, there are two areas of research that are emblematic of the discipline: the attempt to understand the causes and consequences of short-run fluctuations in national income (the [business cycle](https://en.wikipedia.org/wiki/Business_cycle)), and the attempt to understand the determinants of long-run [economic growth](https://en.wikipedia.org/wiki/Economic_growth)(increases in national income).[Macroeconomic models](https://en.wikipedia.org/wiki/Macroeconomic_model) and their forecasts are used by governments to assist in the development and evaluation of [economic policy](https://en.wikipedia.org/wiki/Economic_policy).
 
@@ -107,6 +107,10 @@ The **impossible trinity** (also known as **the impossible [trilemma](https://en
 
 [As India’s red hot economy set to be world no. 3, reality check on how it stacks up with China, US - YouTube](https://www.youtube.com/watch?v=BYp1HnYUiAo)
 
+## Tools
+
+[The Atlas of Economic Complexity](https://atlas.cid.harvard.edu/)
+
 ## Links
 
 [Finshots Recap — The best stories on economics](https://finshots.in/archive/recap-2022-the-best-stories-on-economics/)
@@ -166,3 +170,15 @@ The **impossible trinity** (also known as **the impossible [trilemma](https://en
 [Country Risk: A 2023 Mid-year Update - YouTube](https://www.youtube.com/watch?v=F-6_XeUxbmI)
 
 [What’s Happening with the Economy? The Great Wealth Transfer](https://www.linkedin.com/pulse/whats-happening-economy-great-wealth-transfer-ray-dalio/)
+
+[Skills Wars Are The New Trade Wars | Economics Explained - YouTube](https://www.youtube.com/watch?v=pynhu7kY480)
+
+[Part 2 of a Two-Part Look at: 1. Principles for Navigating Big Debt Crises, and 2. How These Principles Apply to What’s Happening Now](https://www.linkedin.com/pulse/part-2-two-part-look-1-principles-navigating-big-debt-ray-dalio/)
+
+- The debt-money-economic dynamic
+- The internal conflict dynamic
+- The external conflict dynamic
+- Acts of nature (droughts, floods, and pandemics)
+- Human invention and technology development
+
+[Should The USA Isolate To Save Its Economy? | Economics Explained - YouTube](https://www.youtube.com/watch?v=mWk-5TvzQSU)

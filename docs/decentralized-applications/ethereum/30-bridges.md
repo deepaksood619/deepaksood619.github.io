@@ -45,12 +45,6 @@ To evaluate trustless bridges based on other factors, we must break them down in
 - **Generalized message passing bridges –** These bridges excel with security and the ability to transfer more complex data across chains. Typically, they are also good with cost-effectiveness. However, these strengths generally come at the cost of connectivity for light client bridges (ex: IBC) and speed drawbacks for optimistic bridges (ex: Nomad) that use fraud proofs.
 - **Liquidity networks –** These bridges use atomic swaps for transferring assets and are locally verified systems (i.e., they use the underlying blockchains’ validators to verify transactions). As a result, they excel with security and speed. Moreover, they are considered comparatively cost-effective and offer good connectivity. However, the major tradeoff is their inability to pass more complex data – as they don’t support cross-chain message passing.
 
-[Bridges | ethereum.org](https://ethereum.org/en/developers/docs/bridges/)
-
-[What Are Blockchain Bridges And How Can We Classify Them? | by Arjun Chand | LI.FI Blog](https://blog.li.fi/what-are-blockchain-bridges-and-how-can-we-classify-them-560dc6ec05fa)
-
-[Ultimate Guide to Blockchain Bridges | by Birthday Research | Feb, 2023 | Birthday Research](https://blog.birthday.dev/ultimate-guide-to-blockchain-bridges-1e4a06a4cabc)
-
 ## Atomic Swaps
 
 An atomic swap is an exchange of cryptocurrencies from separate blockchains. The swap is conducted between two entities without a third party's involvement. The idea is to remove centralized intermediaries like regulated exchanges and give token owners total control.
@@ -62,3 +56,15 @@ Most atomic swap-enabled [wallets](https://www.investopedia.com/terms/b/blockcha
 Atomic swaps are also called [cross-chain](https://www.investopedia.com/what-are-cross-chain-bridges-6750848) atomic swaps.
 
 [Atomic Swap: Definition, How It Works With Cryptocurrency Trade](https://www.investopedia.com/terms/a/atomic-swaps.asp)
+
+## Links
+
+[Bridges | ethereum.org](https://ethereum.org/en/developers/docs/bridges/)
+
+[What Are Blockchain Bridges And How Can We Classify Them? | by Arjun Chand | LI.FI Blog](https://blog.li.fi/what-are-blockchain-bridges-and-how-can-we-classify-them-560dc6ec05fa)
+
+[Ultimate Guide to Blockchain Bridges | by Birthday Research | Feb, 2023 | Birthday Research](https://blog.birthday.dev/ultimate-guide-to-blockchain-bridges-1e4a06a4cabc)
+
+[What is a Crypto Bridge? (Examples + Purpose for Blockchains) - YouTube](https://www.youtube.com/watch?v=nT26cIz8HjI)
+
+[xPollinate and Connext - My Favorite Bridge! - YouTube](https://www.youtube.com/watch?v=2B_orfSsd58)

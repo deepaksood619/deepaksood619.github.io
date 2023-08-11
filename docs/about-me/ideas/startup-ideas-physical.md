@@ -1,8 +1,8 @@
 # Startup Ideas - Physical
 
-**Affordable tiffin service (p2p tiffin service)**
+#### Affordable tiffin service (p2p tiffin service)
 
-**Personalized gym trainers with equipments at home**
+#### Personalized gym trainers with equipments at home
 
 - The only thing left for people to go out is going to gym
 - Or some good experience at home
@@ -15,13 +15,13 @@
   - They don't like seeing the city dirty
   - They are depressed
 
-**Dantewada - Coding coaching classes (laptop/mobile training)**
+#### Dantewada - Coding coaching classes (laptop/mobile training)
 
 - Teach coding from freecodecamp using JavaScript
 - Give systems for them to study
 - Use Laptops and let guys issue laptop over night
 
-### Business plans
+#### Business plans
 
 - Food industry
 - **Software industry (core expertise, easy)**
@@ -29,14 +29,14 @@
 - Hoticulture industry (self servicing indoor plantations for home)
   - Greenery inside homes
 
-### Self maintaining green cover on top of buildings
+#### Self maintaining green cover on top of buildings
 
 - But conflicts with solar roofs
 - How to stop surface run-off
 - Ground water recharge
 - Circular economy and circular water system for urban sprawled areas
 
-**Pizza slice vending machine**
+#### Pizza slice vending machine
 
 - Why vending machine is not a hit in India?
 
@@ -47,6 +47,7 @@
   - smart connected appliance
   - pre-sets for cooking tasks
   - integrated weighing scale
+- Live TV on phones without internet
 
 ## Mechanical
 
@@ -62,13 +63,13 @@ Perfect School
 
 Get vegetables from farmer and make a distribution center.
 
-**Cars -** side mirror sees behind if anything is coming to not let the user open the door accidently.
+**Cars -** side mirror sees behind if anything is coming to not let the user open the door accidentally
 
 Zero Profit Store - direct Business to Customer without any hidden profits and margins
 
 There are sweaters that can keep you warm, create a clothing that can keep you cool in warm weather integrate micro electronics for fans and some cooling liquid for transferring heat off your body
 
-IoT enabled water tank monitoring system
+#### IoT enabled water tank monitoring system
 
 - Fully autonomous
 - Create its own energy
@@ -77,14 +78,14 @@ IoT enabled water tank monitoring system
 - All analytics done on cloud and user can see it's dashboard
 - Should be cheap
 
-RFID Smart Meters
+#### RFID Smart Meters
 
 - Users must scan and send the meter reading to the server, this removes the problem of having a personnel send to take the meter reading
 - Users can pay the used meter units using the same app or any other app
 - It must be tamper proof and locked from inside
 - Using ML any anomoly in meter reading will be cross checked on site
 
-**Small nuclear power plants for cities**
+#### Small nuclear power plants for cities
 
 - No losses due to electrical transmission
 - No large scale investment
@@ -97,25 +98,20 @@ Connected traffic lights with intelligent routing system
 
 Computer vision traffic management, single pole in mid with high mast 4 side cameras, within same poles trafic lights. Traffic light will be controlled by the amount of cars in each lane.
 
-**Mobile As Laptop**
+#### Mobile As Laptop
 
 1. Only desktop, keyboard and mouse needed
-
 2. Can be used at test centers, people can directly bring their mobile devices and give papers
-
 3. Can be used at WeWork, where people just bring their mobile devices
-
 4. No need of laptops, no need to carry large devices
-
 5. Can be seemlessly switched between large (desktop) and small screens (mobile screen)
-
 6. Window continium
 
-**Windows that can remove use of blinders**
+#### Windows that can remove use of blinders
 
 Example - Air India airplane windows that can change the transparency of windows
 
-**Distributed Kitchens**
+### Distributed Kitchens
 
 D-Restra (Not owned by anyone, open source)
 
@@ -127,11 +123,11 @@ Can also vote to add, delete items in menu.
 
 Set menu, preferences, etc.
 
-Drone selfies, get a drone to take a picture or photo shoot by app.
+Drone selfies, get a drone to take a picture or photo shoot by app
 
-Get personal photographers by app.
+Get personal photographers by app
 
-**New gen smart home**
+#### New gen smart home
 
 - No switches
 - Users will wear a watch, that automatically switches light on when someone goes to room and turns it off

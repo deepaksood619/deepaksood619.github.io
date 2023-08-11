@@ -121,6 +121,8 @@ OR B.columnName IS NULL
 
 Self join is used to join a table to itself as if the table were two tables, temporarily renaming at least one table in the SQL statement
 
+[Illustrated Guide About Self Join in SQL - StrataScratch](https://www.stratascratch.com/blog/illustrated-guide-about-self-join-in-sql)
+
 ### Cartesian Join
 
 Cartesian join returns the Cartesian product of the sets of records from the two or more joined tables

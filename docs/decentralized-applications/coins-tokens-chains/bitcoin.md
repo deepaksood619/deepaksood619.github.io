@@ -47,6 +47,8 @@ The Bitcoin Lightning Network is another project being worked on as a second-lay
 
 [Lightning Network Explained - YouTube](https://www.youtube.com/watch?v=9UIOeoBEjmw&ab_channel=Finematics)
 
+[What is the Lightning Network? (Animated) Free & Instant BTC Transaction - YouTube](https://www.youtube.com/watch?v=SXT9iq__V8c)
+
 ### How BLN work?
 
 The Lightning Network uses a network of nodes that hold funds in multi-sig wallets ("channels") and exchange signed, but unbroadcast, transactions.
