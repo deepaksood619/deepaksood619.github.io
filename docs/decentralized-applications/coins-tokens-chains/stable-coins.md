@@ -30,6 +30,7 @@ Debasing is the term for the opposite. If the value is under $1, they will actua
 Seignorage is the term to describe the profit that banks make between printing money and what the money is actually worth. So a dollar might cost $.03 to print, but be worth $1… which means the seignorage is 97 cents.
 
 Examples
+
 - Basis Cash
 - ESD (Empty Set Dollar)
 

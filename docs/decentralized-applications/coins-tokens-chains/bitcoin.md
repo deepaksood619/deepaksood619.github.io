@@ -97,6 +97,12 @@ This deflationary aspect of Bitcoin is one of the factors that makes it attracti
 
 [What happens when all 21 million Bitcoin are mined? - MoonPay](https://www.moonpay.com/learn/bitcoin/what-happens-when-21-million-bitcoins-are-mined)
 
+## Validations
+
+Many Bitcoin wallets won't process transactions until they've been confirmed at least three times. In most cases, one confirmation is considered enough for smaller transactions below $1,000, three confirmations are best for transactions up to $1,000, and six confirmations are standard for transactions up to $1,000,000.
+
+[3 Things to Know about Bitcoin Confirmations [2023]](https://buybitcoinworldwide.com/confirmations/)
+
 ## P2PKH
 
 **Pay-to-Public-Key-Hash (P2PKH)** is a method of sending bitcoin to a specific address. In this method, instead of sending money to a public key, as in P2PK transactions, a hash of the public key is used.

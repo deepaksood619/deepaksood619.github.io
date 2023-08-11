@@ -2,14 +2,14 @@
 
 ## Types of Security Attacks
 
-1. Passive Attack
+### Passive Attack
 
 They are having the nature of eavesdropping or monitoring of transmitting channel or packet sniffing
 
 - Release of Message Content
 - Traffic analysis used by intruder to gain the information
 
-2. Active Attack
+### Active Attack
 
 Involves some modification of data stream or creation of false stream
 
@@ -51,59 +51,68 @@ Linwood_Cole\' OR 1=1;#
 
 ![image](../../media/Attacks-image1.jpg)
 
-1. **In-Band SQL Injection**
-    - **In-band SQLi occurs when the attacker uses the same communication channel to both launch the attack and gather the result of the attack**
-        - **Retrieved data is presented directly in the application web page**
-    - **Easier to exploit than other categories of SQLi**
-    - **Two common types of in-band SQLi**
-        - **Error-based SQLi**
-        - **Union-based SQLi**
+### In-Band SQL Injection
 
-2. **Error-Based SQLi**
-    - **Error-based SQLi is an in-band SQLi technique that forces the database to generate an error, giving the attacker information upon which to refine their injection**
+- In-band SQLi occurs when the attacker uses the same communication channel to both launch the attack and gather the result of the attack
+  - Retrieved data is presented directly in the application web page
+- Easier to exploit than other categories of SQLi
+- Two common types of in-band SQLi
+  - Error-based SQLi
+  - Union-based SQLi
+
+#### Error-Based SQLi
+
+Error-based SQLi is an in-band SQLi technique that forces the database to generate an error, giving the attacker information upon which to refine their injection
 
 ![image](../../media/Attacks-image2.jpg)
 
-3. **Union-Based SQLi**
-    - **Union-based SQLi is an in-band SQLi technique that leverages the UNION SQL operator to combine the results of two queries into a single result set**
+#### Union-Based SQLi
+
+Union-based SQLi is an in-band SQLi technique that leverages the UNION SQL operator to combine the results of two queries into a single result set
 
 ![image](../../media/Attacks-image3.jpg)
 
-4. **Inferential (Blind) SQL Injection**
-    - **SQLi vulnerability where there is no actual transfer of data via the web application**
-    - **Just as dangerous as in-band SQL injection**
-        - **Attacker able to recontrust the information by sending particular requests and observing the resulting behavior of the DB server**
-    - **Takes longer to exploit than in-band SQL injection**
-    - **Two common types of blind SQLi**
-        - **Boolean-based SQLi**
-        - **Time-based SQLi**
+### Inferential (Blind) SQL Injection
 
-5. **Boolean-based Blind SQLi**
-    - **Boolean-based SQLi is a blind SQLi technique that uses Boolean conditions to return a different result depending on whether the query returns a TRUE or FALSE result**
+- SQLi vulnerability where there is no actual transfer of data via the web application
+- Just as dangerous as in-band SQL injection
+  - Attacker able to recontrust the information by sending particular requests and observing the resulting behavior of the DB server
+- Takes longer to exploit than in-band SQL injection
+- Two common types of blind SQLi
+  - Boolean-based SQLi
+  - Time-based SQLi
+
+#### Boolean-based Blind SQLi
+
+Boolean-based SQLi is a blind SQLi technique that uses Boolean conditions to return a different result depending on whether the query returns a TRUE or FALSE result
 
 ![image](../../media/Attacks-image4.jpg)
 
 ![image](../../media/Attacks-image5.jpg)
-6. **Time-based Blind SQLi**
-    - **Time-based SQLi is a blind SQLi technique that relies on the database pausing for a specified amount of time, then returning the results, indicating a successful SQL query execution**
-    - **Example Query**
+
+#### Time-based Blind SQLi
+
+- Time-based SQLi is a blind SQLi technique that relies on the database pausing for a specified amount of time, then returning the results, indicating a successful SQL query execution
+- Example Query
 
 If the first character of the administrator's hashed password is an 'a', wait for 10 seconds
 
 - response takes 10 seconds -> first letter is 'a'
 - response doesn't take 10 seconds -> first letter is not 'a'
 
-7. **Out-of-band (OAST) SQLi**
-    - **Vulnerability that consists of triggering an out-of-band network connection to a system that you control**
-        - **Not common**
-        - **A variety of protocols can be used (ex. DNS, HTTP)**
-    - **Example Payload:**
+### Out-of-band (OAST) SQLi
+
+- Vulnerability that consists of triggering an out-of-band network connection to a system that you control
+  - Not common
+  - A variety of protocols can be used (ex. DNS, HTTP)
+- Example Payload:
 
 ![image](../../media/Attacks-image6.jpg)
 
 ## Tools
 
 [https://github.com/sqlmapproje ct/sqlmap](https://github.com/sqlmapproje%20ct/sqlmap)
+
 [**https://www.netsparker.com/blog/web-security/sql-injection-cheat-sheet/**](https://www.netsparker.com/blog/web-security/sql-injection-cheat-sheet/)
 
 <https://dotweak.com/2019/08/16/sql-injection-tutorial-for-beginners-Zm5NSWw3MjJCUVMrT2hmWUdNeTZiQT09>
@@ -123,8 +132,15 @@ Different hardware-based techniques exist to prevent the row hammer effect from 
 ## HTTP Desync
 
 Application Load Balancer (ALB) and Classic Load Balancer (CLB) now support HTTP Desync Mitigation Mode, a new feature that protects your application from issues due to HTTP Desync. Modern day web applications are typically built with a chain of proxies that ensure fast and reliable communication between clients and servers. While these proxies follow a standard mechanism to parse RFC 7230 compliant HTTP/1.1 requests, they may have differences in interpretation while parsing non-compliant requests. These differences in interpretation can cause Desync where different proxies in the chain may disagree on request boundaries and therefore may not process the same request. This could leave behind arbitrary messages that may be prepended to the next request in the queue and smuggled to the backend. Ultimately, request smuggling can make applications vulnerable to request queue or cache poisoning, which could lead to credential hijacking or execution of unauthorized commands.
+
 <https://portswigger.net/research/http-desync-attacks-request-smuggling-reborn>
 
 ## Man-in-the-Middle attack (MITM)
 
 A [man-in-the-middle attack](http://searchsecurity.techtarget.com/definition/man-in-the-middle-attack) is one in which the attacker secretly relays and possibly alters the communication between two parties who believe they are directly communicating with each other. One example is active eavesdropping, in which the attacker makes independent connections with the victims and relays messages between them to make them believe they are talking directly to each other over a private connection, when in fact the entire conversation is controlled by the attacker, who even has the ability to modify the content of each message. Often abbreviated to **MITM, MitM, orMITMA,** and sometimes referred to as asession hijacking attack, it has a strong chance of success if the attacker can impersonate each party to the satisfaction of the other. MITM attacks pose a serious threat to online security because they give the attacker the ability to capture and manipulate sensitive information in real-time while posing as a trusted party during transactions, conversations, and the transfer of data. This is straightforward in many circumstances; for example, an attacker within reception range of an unencrypted WiFi access point, can insert himself as a man-in-the-middle.
+
+## Sybil attack
+
+A **Sybil attack** is a type of attack on a computer [network service](https://en.wikipedia.org/wiki/Network_service "Network service") in which an attacker subverts the service's reputation system by creating a large number of [pseudonymous](https://en.wikipedia.org/wiki/Pseudonymity "Pseudonymity") identities and uses them to gain a disproportionately large influence. It is named after the subject of the book _[Sybil](https://en.wikipedia.org/wiki/Sybil_(Schreiber_book) "Sybil (Schreiber book)")_, a case study of a woman diagnosed with [dissociative identity disorder](https://en.wikipedia.org/wiki/Dissociative_identity_disorder "Dissociative identity disorder"). The name was suggested in or before 2002 by Brian Zill at [Microsoft Research](https://en.wikipedia.org/wiki/Microsoft_Research "Microsoft Research"). The term **pseudospoofing** had previously been coined by L. Detweiler on the [Cypherpunks mailing list](https://en.wikipedia.org/wiki/Cypherpunk#Etymology_and_the_Cypherpunks_mailing_list "Cypherpunk") and used in the literature on peer-to-peer systems for the same class of attacks prior to 2002, but this term did not gain as much influence as "Sybil attack".
+
+[Sybil attack - Wikipedia](https://en.wikipedia.org/wiki/Sybil_attack)

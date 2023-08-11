@@ -1,4 +1,4 @@
-# Personal Finance 
+# Personal Finance
 
 ## 4 pillars
 

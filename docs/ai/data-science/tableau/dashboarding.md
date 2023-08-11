@@ -2,9 +2,9 @@
 
 ### Changing Time from Date Range Filter
 
-1. Right-click on the date-time dimension, select > **Duplicate** 
-2. Right-click the copy of the field, hover over Change Data Type > select **Date** 
-3. Remove the current date filter from the filter shelf. 
+1. Right-click on the date-time dimension, select > **Duplicate**
+2. Right-click the copy of the field, hover over Change Data Type > select **Date**
+3. Remove the current date filter from the filter shelf.
 4. Drag the date field copy to the filter shelf and set up the date slider filter.
 
 [Cannot Remove Time From Date Range Filter With Show Times Option | Tableau Software](https://kb.tableau.com/articles/issue/cannot-remove-time-from-date-range-filter-with-show-times-option)

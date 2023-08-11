@@ -1,6 +1,30 @@
 {
   "recentFiles": [
     {
+      "basename": "bitcoin",
+      "path": "decentralized-applications/coins-tokens-chains/bitcoin.md"
+    },
+    {
+      "basename": "attacks",
+      "path": "computer-science/security/attacks.md"
+    },
+    {
+      "basename": "byzantine-generals-problem",
+      "path": "computer-science/distributed-system/byzantine-generals-problem.md"
+    },
+    {
+      "basename": "consensus-protocols",
+      "path": "decentralized-applications/consensus-protocols.md"
+    },
+    {
+      "basename": "others",
+      "path": "decentralized-applications/ethereum/others.md"
+    },
+    {
+      "basename": "layer-2-protocols",
+      "path": "decentralized-applications/ethereum/layer-2-protocols.md"
+    },
+    {
       "basename": "todo-tech-&-courses",
       "path": "office/todo/todo-tech-&-courses.md"
     },
@@ -175,30 +199,6 @@
     {
       "basename": "intro",
       "path": "frontend/react/intro.md"
-    },
-    {
-      "basename": "investment-terms",
-      "path": "economics/investment-terms.md"
-    },
-    {
-      "basename": "mutual-funds-indicators",
-      "path": "economics/mutual-funds/mutual-funds-indicators.md"
-    },
-    {
-      "basename": "debt-mutual-funds",
-      "path": "economics/mutual-funds/debt-mutual-funds.md"
-    },
-    {
-      "basename": "fixed-income",
-      "path": "economics/mutual-funds/fixed-income.md"
-    },
-    {
-      "basename": "debentures-bonds",
-      "path": "economics/mutual-funds/debentures-bonds.md"
-    },
-    {
-      "basename": "index-investing",
-      "path": "economics/mutual-funds/index-investing.md"
     }
   ],
   "omittedPaths": [],
