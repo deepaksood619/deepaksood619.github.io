@@ -29,8 +29,8 @@ MDN - An expression is any valid unit of code that resolves to a value.
 
 ### What is the difference between == and ===
 
-- `==` checks for equality
-- `===` checks for equality and type
+- `\==` to checks for equality
+- `\===` checks for equality and type
 
 ### Difference between call stack and task queue
 

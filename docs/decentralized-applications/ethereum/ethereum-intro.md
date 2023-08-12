@@ -187,3 +187,5 @@ Testnet tokens are a test currency that allows you to test your Ethereum applica
 Ethereum By Henning Diedrich
 
 [How Do Ethereum Withdrawals Work? All You Need To Know - YouTube](https://www.youtube.com/watch?v=RwwU3P9n3uo)
+
+[How does Ethereum work, anyway](https://www.preethikasireddy.com/post/how-does-ethereum-work-anyway)

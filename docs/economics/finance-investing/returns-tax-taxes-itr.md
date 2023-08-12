@@ -18,6 +18,30 @@ Input tax credit
 - Direct taxes are paid directly to the government and are levied on one's income and profits.
 - Indirect taxes are totally opposite and are paid to the government if one makes any purchases of goods and services.
 
+### GST vs Income Tax
+
+Income Tax and GST are 2 completely different Acts and tax different things.
+
+Mr. India earns INR 1 crore by selling services to Indian parties. This is professional income for Mr. India. GST on these services applies at 18%
+
+#### GST
+
+Mr. India will collect the following amount from his clients:
+
+|Particulars|INR|
+|---|---|
+|Fees for services|1,00,00,000|
+|Add: GST @ 18%|18,00,000|
+|Total Collection|1,18,00,000|
+
+This INR 18,00,000 of GST collected will be paid to the Government. Accordingly, **GST is an indirect tax - the clients bear the burden of this amount**.
+
+#### Income Tax
+
+Mr. India will be liable to pay income tax on this INR 1 crore at [slab rates](https://www.thegalacticadvisors.com/tax-rates-individual). This is a tax on your income - a Direct Tax. This goes out of your pocket.
+
+[A Comprehensive Guide on Tax for Freelancers](https://www.thegalacticadvisors.com/post/comprehensive-guide-on-tax-for-freelancers)
+
 ## CA
 
 1. Insurance receipt
@@ -108,9 +132,45 @@ ITR filings for FY 20/21 by income.
 
 If people have to invest or spend more, they need to earn at least ₹2.5lks/yr?
 
+## Freelancing / Freelancer
+
+- ITR4
+- If the total tax liability during a financial year exceeds Rs.10,000, the taxpayer is required to pay taxes every quarter. This is called advance tax.
+- If the total revenue from freelancing work is not more than Rs. 20 lakhs, then GST does not apply.
+- GST returns have to be filed quarterly or monthly based on your turnover and if you have opted for the composition scheme. Composition dealers and those with annual sales below Rs.1.5 crore for the supply of goods can file quarterly returns. **For service providers, the limit is Rs.50 lakhs.**
+
+### Deducations
+
+- Rent of the property
+- Repairs undertaken
+- Depreciation
+- Office expenses
+- Travel Expenses
+- Meal, entertainment or hospitality expenses
+- Local taxes and insurance for your own business property
+- Domain registration and apps purchased
+- Mobile / Wifi Bills
+
+[Freelancers and Taxes - Income Tax for Freelancers](https://cleartax.in/s/income-tax-for-freelancers)
+
+[**A Comprehensive Guide on Tax for Freelancers**](https://www.thegalacticadvisors.com/post/comprehensive-guide-on-tax-for-freelancers)
+
+LUT (Letter of Undertaking) - [GST: How to file an LUT?](https://www.thegalacticadvisors.com/post/gst-how-to-file-an-lut) - let's you export goods or services without payment of GST
+
 ## Deductions
 
-Deduction U/S 10 - House Rent - 8300 * 12 = 99600
+### Deduction U/S 10 - HRA
+
+- House Rent - 8300 * 12 = 99600 (PAN not required)
+- Parents can claim property taxes paid by them and also claim a 30% standard deduction from this rental income.
+- If they are more than 60 years old, they will also enjoy a higher minimum income exemption limit (Rs.3 lakh for those who have aged above 60 years old and Rs.5 lakh for those who are aged above 80 years old).
+- Individuals paying rent but not receiving house rent allowance can claim a deduction under Section 80GG. Also, the individual, spouse or children should not own a house property in the place of employment, business or location where the individual ordinarily resides for claiming this deduction.
+
+- <https://freefincal.com/tax-benefits-hra-home-loans>
+- [Can I pay rent to my parents to save tax?](https://cleartax.in/s/can-i-pay-rent-to-my-parents-to-save-tax)
+- [House Rent Allowance (HRA) - What is House Rent Allowance, HRA Exemption And Tax Deduction](https://cleartax.in/s/hra-house-rent-allowance)
+
+### Others
 
 Sec 80D - Medical Insurance Premium (If the policy covers a senior citizen then exemption is Rs.50,000/-) for self and family- Existing or new policy bought between April 2019 till March 2020.
 
@@ -136,8 +196,6 @@ Sec 80U - Handicapped
 [**https://cleartax.in/s/claiming-deduction-on-interest-under-section-80tta**](https://cleartax.in/s/claiming-deduction-on-interest-under-section-80tta)
 
 ### 80DDB - Dependent Critical Illness (upto 1,00,000)
-
-HRA - <https://freefincal.com/tax-benefits-hra-home-loans>
 
 ### DEDUCTION U/S 80C (Max 150000)
 

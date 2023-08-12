@@ -160,9 +160,11 @@ End-to-end testing
 
 <https://github.com/enzymejs/enzyme>
 
+[Learn End-to-End Testing with Cypress for JavaScript Applications](https://www.freecodecamp.org/news/mastering-end-to-end-testing-with-cypress-for-javascript-applications/)
+
 ## classnames
 
-Usingclassnameslibrary to toggle classes
+Using `classnames` library to toggle classes
 
 [classnames](https://github.com/JedWatson/classnames) is a simple library that lets you toggle class names easily. You can install it usingnpm install classnamesoryarn add classnames.
 

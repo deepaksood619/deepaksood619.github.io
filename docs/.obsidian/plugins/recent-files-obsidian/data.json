@@ -1,156 +1,44 @@
 {
   "recentFiles": [
     {
-      "basename": "readme",
-      "path": "economics/mutual-funds/readme.md"
-    },
-    {
-      "basename": "others",
-      "path": "economics/mutual-funds/others.md"
-    },
-    {
-      "basename": "readme",
-      "path": "economics/market-terms/readme.md"
-    },
-    {
-      "basename": "futures-options-trading",
-      "path": "economics/market-terms/futures-options-trading.md"
-    },
-    {
-      "basename": "technical-indicators",
-      "path": "economics/market-terms/technical-indicators.md"
-    },
-    {
-      "basename": "readme",
-      "path": "economics/readme.md"
-    },
-    {
-      "basename": "ipo",
-      "path": "economics/market-terms/ipo.md"
-    },
-    {
-      "basename": "ethereum-staking",
-      "path": "decentralized-applications/ethereum/ethereum-staking.md"
-    },
-    {
-      "basename": "crypto-exchanges",
-      "path": "decentralized-applications/crypto-exchanges.md"
-    },
-    {
-      "basename": "bnb",
-      "path": "decentralized-applications/coins-tokens-chains/bnb.md"
-    },
-    {
-      "basename": "coin-token-intro",
-      "path": "decentralized-applications/coins-tokens-chains/coin-token-intro.md"
-    },
-    {
-      "basename": "bitcoin",
-      "path": "decentralized-applications/coins-tokens-chains/bitcoin.md"
-    },
-    {
       "basename": "todo-tech-&-courses",
       "path": "office/todo/todo-tech-&-courses.md"
     },
     {
-      "basename": "development-tools",
-      "path": "decentralized-applications/development-tools.md"
-    },
-    {
-      "basename": "attacks",
-      "path": "computer-science/security/attacks.md"
-    },
-    {
-      "basename": "byzantine-generals-problem",
-      "path": "computer-science/distributed-system/byzantine-generals-problem.md"
-    },
-    {
-      "basename": "consensus-protocols",
-      "path": "decentralized-applications/consensus-protocols.md"
-    },
-    {
-      "basename": "others",
-      "path": "decentralized-applications/ethereum/others.md"
-    },
-    {
-      "basename": "layer-2-protocols",
-      "path": "decentralized-applications/ethereum/layer-2-protocols.md"
-    },
-    {
-      "basename": "remote-working-teams",
-      "path": "management/people-management/remote-working-teams.md"
-    },
-    {
-      "basename": "resumes-jobs-companies-company",
-      "path": "office/personality/resumes-jobs-companies-company.md"
-    },
-    {
-      "basename": "infra",
-      "path": "office/blocktoons/infra.md"
-    },
-    {
-      "basename": "youtube-podcasts-magazine-apps",
-      "path": "devops/ides/youtube-podcasts-magazine-apps.md"
-    },
-    {
-      "basename": "thorchain",
-      "path": "decentralized-applications/coins-tokens-chains/thorchain.md"
+      "basename": "readme",
+      "path": "ai/courses/readme.md"
     },
     {
       "basename": "readme",
       "path": "decentralized-applications/coins-tokens-chains/readme.md"
     },
     {
-      "basename": "crypto-investing",
-      "path": "decentralized-applications/crypto-investing.md"
+      "basename": "vechain",
+      "path": "decentralized-applications/coins-tokens-chains/vechain.md"
     },
     {
-      "basename": "defi-apps",
-      "path": "decentralized-applications/defi-apps.md"
-    },
-    {
-      "basename": "defi",
-      "path": "decentralized-applications/defi.md"
-    },
-    {
-      "basename": "liquidity-mining",
-      "path": "decentralized-applications/liquidity-mining.md"
-    },
-    {
-      "basename": "business-case-studies",
-      "path": "management/business/business-case-studies.md"
-    },
-    {
-      "basename": "macroeconomics",
-      "path": "economics/mental-models/macroeconomics.md"
-    },
-    {
-      "basename": "news-problems",
-      "path": "knowledge/others/news-problems.md"
-    },
-    {
-      "basename": "crypto-news",
-      "path": "decentralized-applications/crypto-news.md"
-    },
-    {
-      "basename": "readme",
-      "path": "technologies/git/readme.md"
-    },
-    {
-      "basename": "others",
-      "path": "technologies/git/others.md"
-    },
-    {
-      "basename": "climate-change",
-      "path": "knowledge/others/climate-change.md"
-    },
-    {
-      "basename": "theory",
-      "path": "technologies/git/theory.md"
+      "basename": "cardano",
+      "path": "decentralized-applications/coins-tokens-chains/cardano.md"
     },
     {
       "basename": "30-bridges",
       "path": "decentralized-applications/ethereum/30-bridges.md"
+    },
+    {
+      "basename": "crypto-exchanges",
+      "path": "decentralized-applications/crypto-exchanges.md"
+    },
+    {
+      "basename": "crypto-investing",
+      "path": "decentralized-applications/crypto-investing.md"
+    },
+    {
+      "basename": "coin-token-intro",
+      "path": "decentralized-applications/coins-tokens-chains/coin-token-intro.md"
+    },
+    {
+      "basename": "stable-coins",
+      "path": "decentralized-applications/coins-tokens-chains/stable-coins.md"
     },
     {
       "basename": "uniswap",
@@ -161,44 +49,156 @@
       "path": "ai/libraries/chatgpt-llm.md"
     },
     {
-      "basename": "nlp-concepts",
-      "path": "ai/nlp/nlp-concepts.md"
+      "basename": "consensus-protocols",
+      "path": "decentralized-applications/consensus-protocols.md"
+    },
+    {
+      "basename": "youtube-podcasts-magazine-apps",
+      "path": "devops/ides/youtube-podcasts-magazine-apps.md"
+    },
+    {
+      "basename": "40-proof-of-stake",
+      "path": "decentralized-applications/ethereum/40-proof-of-stake.md"
+    },
+    {
+      "basename": "blockchain",
+      "path": "decentralized-applications/blockchain.md"
+    },
+    {
+      "basename": "tools",
+      "path": "decentralized-applications/tools.md"
+    },
+    {
+      "basename": "01-intro-to-ethereum",
+      "path": "decentralized-applications/ethereum/01-intro-to-ethereum.md"
+    },
+    {
+      "basename": "upgrades",
+      "path": "decentralized-applications/ethereum/upgrades.md"
+    },
+    {
+      "basename": "business-case-studies",
+      "path": "management/business/business-case-studies.md"
+    },
+    {
+      "basename": "questions",
+      "path": "databases/nosql-databases/cassandra/questions.md"
+    },
+    {
+      "basename": "vocabulary",
+      "path": "computer-science/distributed-system/vocabulary.md"
     },
     {
       "basename": "intro",
-      "path": "ai/nlp/intro.md"
+      "path": "computer-science/system-design/microservice-architecture/intro.md"
     },
     {
-      "basename": "chatbot-chatops",
-      "path": "ai/nlp/chatbot-chatops.md"
+      "basename": "intro",
+      "path": "psychology/intro.md"
+    },
+    {
+      "basename": "personality",
+      "path": "about-me/personality.md"
+    },
+    {
+      "basename": "mistakes-apology",
+      "path": "psychology/learning/mistakes-apology.md"
+    },
+    {
+      "basename": "mistakes",
+      "path": "knowledge/language/mistakes.md"
+    },
+    {
+      "basename": "life",
+      "path": "knowledge/quotes-proverbs/life.md"
+    },
+    {
+      "basename": "references-learning",
+      "path": "decentralized-applications/references-learning.md"
+    },
+    {
+      "basename": "ethereum-intro",
+      "path": "decentralized-applications/ethereum/ethereum-intro.md"
+    },
+    {
+      "basename": "liquidity-mining",
+      "path": "decentralized-applications/liquidity-mining.md"
+    },
+    {
+      "basename": "my-interviews-cake-defi",
+      "path": "office/cakedefi/my-interviews-cake-defi.md"
+    },
+    {
+      "basename": "libraries",
+      "path": "frontend/react/libraries.md"
     },
     {
       "basename": "others",
-      "path": "book-summaries/others.md"
+      "path": "frontend/js-javascript/others.md"
     },
     {
-      "basename": "countries",
-      "path": "knowledge/geography/countries.md"
+      "basename": "thinking-mental-models",
+      "path": "psychology/thinking-mental-models.md"
     },
     {
-      "basename": "others",
-      "path": "knowledge/law/constitution-of-india/others.md"
+      "basename": "remote-working-teams",
+      "path": "management/people-management/remote-working-teams.md"
     },
     {
-      "basename": "stable-coins",
-      "path": "decentralized-applications/coins-tokens-chains/stable-coins.md"
+      "basename": "questions",
+      "path": "frontend/js-javascript/questions.md"
     },
     {
-      "basename": "movies-serials-apps",
-      "path": "office/personality/movies-serials-apps.md"
+      "basename": "readme",
+      "path": "frontend/js-javascript/readme.md"
     },
     {
-      "basename": "marathon-running",
-      "path": "knowledge/games/marathon-running.md"
+      "basename": "libraries",
+      "path": "frontend/js-javascript/libraries.md"
     },
     {
-      "basename": "reasons-why",
-      "path": "office/todo/reasons-why.md"
+      "basename": "basic",
+      "path": "frontend/js-javascript/basic.md"
+    },
+    {
+      "basename": "goals",
+      "path": "office/todo/goals.md"
+    },
+    {
+      "basename": "returns-tax-taxes-itr",
+      "path": "economics/finance-investing/returns-tax-taxes-itr.md"
+    },
+    {
+      "basename": "living",
+      "path": "knowledge/biology/exercise-stretching/living.md"
+    },
+    {
+      "basename": "new-home-place-house",
+      "path": "office/personality/new-home-place-house.md"
+    },
+    {
+      "basename": "addresses-electricity",
+      "path": "office/personality/addresses-electricity.md"
+    },
+    {
+      "basename": "coding",
+      "path": "knowledge/quotes-proverbs/coding.md"
+    },
+    {
+      "basename": "ethereum-staking",
+      "path": "decentralized-applications/ethereum/ethereum-staking.md"
+    },
+    {
+      "basename": "ipo",
+      "path": "economics/market-terms/ipo.md"
+    },
+    {
+      "basename": "readme",
+      "path": "economics/readme.md"
+    },
+    {
+      "basename": "readme",
+      "path": "economics/market-terms/readme.md"
     }
   ],
   "omittedPaths": [],

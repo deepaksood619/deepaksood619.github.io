@@ -374,3 +374,5 @@ Marketing tactic used, light the agarbatti in-front of store and left for 2 days
 [How JAINS built the DIAMOND Industry of India? : Business Case Study - YouTube](https://www.youtube.com/watch?v=Vx4hyGpzVyI)
 
 [How I DOUBLED Neeman’s Business In 9 Months | GrowthX Insider - YouTube](https://www.youtube.com/watch?v=FBdlJRUMUR0)
+
+[Dream, determination, defeat – six lessons in analysing startup failure from a candid entrepreneur story](https://yourstory.com/2022/02/entrepreneur-failure-lessons-prashant-desai)

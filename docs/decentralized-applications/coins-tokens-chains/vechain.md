@@ -37,3 +37,5 @@ The unique two-token system (VET+VTHO) significantly helps separate the cost of 
 - Adjustment to variables (e.g. gas price, velocity) can be made to maintain the equilibrium of VTHO demand and supply
 
 [VeChainThor Blockchain ｜ Public Blockchain for Business Mass Adoption](https://www.vechain.org/)
+
+[What is VeChain? VET Supply Chain Solution Explained! - YouTube](https://www.youtube.com/watch?v=vdC8QzD4O9E)

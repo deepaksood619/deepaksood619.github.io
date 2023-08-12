@@ -40,6 +40,18 @@ Solving double spend problem
 - **Cryptographically secure -** That means that the minting of digital currency is secured by mathematical algorithms that make it very difficult to break. It prevents bad actors from creating fake transactions, erasing transactions, stealing funds, etc.
 - **Finite-state machines -** In Computer Science, a state machine is a machine that will analyze a series of inputs and based on those inputs will transition to a new state. Blockchains have one instance responsible for all the transactions being created by the system. There's one global truth that all nodes adhere to, they all share the same state.
 
+## Permissionless vs Permissioned Blockchains
+
+Permissionless blockchains are open to anyone to use. You can even participate in their consensus mechanisms, given that you meet specific requirements. Bitcoin, Ethereum, and BNB Chain are all examples of permissionless blockchains, which are typically transparent and decentralized.
+
+Permissioned blockchains, on the other hand, require invitations to join. They’re typically used in private business settings and tailored for certain use cases. Power is restricted to a small group of validators who make most of the network decisions. Transparency can be limited, but network upgrade time and scalability are often greatly improved.
+
+[What Are Permissioned and Permissionless Blockchains? | Binance Academy](https://academy.binance.com/en/articles/what-are-permissioned-and-permissionless-blockchains)
+
+[Permissioned blockchain vs. permissionless blockchain: Key differences](https://cointelegraph.com/learn/permissioned-blockchain-vs-permissionless-blockchain-key-differences)
+
+[Permissioned And Permissionless Blockchains: A Comprehensive Guide](https://www.blockchain-council.org/blockchain/permissioned-and-permissionless-blockchains-a-comprehensive-guide/)
+
 ## Oracle problem
 
 - Cryptography works only within the system
@@ -54,12 +66,33 @@ Solving double spend problem
 
 [SchellingCoin: A Minimal-Trust Universal Data Feed | Ethereum Foundation Blog](https://blog.ethereum.org/2014/03/28/schellingcoin-a-minimal-trust-universal-data-feed)
 
-## DDOS in blockchains
+## Attacks
+
+[The P + epsilon Attack | Ethereum Foundation Blog](https://blog.ethereum.org/2015/01/28/p-epsilon-attack)
+
+### DDOS in blockchains
 
 - DDoS attacks via transaction flooding
 - DDoS attacks via smart contract
 
 [DDoS in Blockchain - GeeksforGeeks](https://www.geeksforgeeks.org/ddos-in-blockchain/)
+
+### Double Spending
+
+- [Double spending](https://www.geeksforgeeks.org/solutions-to-prevent-double-spending-of-bitcoins/) means the expenditure of the same digital currency twice or more to avail the multiple services. It is a technical flaw that allows users to duplicate money.
+- Since digital currencies are nothing but files, a malicious user can create multiple copies of the same currency file and can use it in multiple places.
+- This issue can also occur if there is an alteration in the network or copies of the currency are only used and not the original one.
+- There are also double spends that allow hackers to reverse transactions so that transaction happens two times.
+- By doing this, the user loses money two times one for the fake block created by the hacker and for the original block as well.
+- The hacker gets incentives as well for the fake blocks that have been mined and confirmed.
+
+#### Types Of Double Spending Attacks
+
+- **Finney Attack:** Finney Attack is a type of Double spending Attack. In this, a merchant accepts an unauthorized transaction. The original block is eclipsed by the hacker using an eclipse attack. The transaction is performed on an unauthorized one. After that, the real block shows up and again the transaction is done automatically for the real block. Thus the merchant loses money two times.
+- **Race attack:** is an attack in which there is a ‘race’ between two transactions. The attacker sends the same money using different machines to two different merchants. The merchants send their goods but transactions get invalid.
+- **51% Attack:** This type of attack is prevalent in small blockchains. Hackers usually take over 51% of the mining power of blockchain and therefore can do anything of their own will.
+
+[What is Double Spending in Blockchain? - GeeksforGeeks](https://www.geeksforgeeks.org/what-is-double-spending-in-blockchain/)
 
 ## Working
 

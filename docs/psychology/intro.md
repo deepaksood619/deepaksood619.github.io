@@ -182,50 +182,50 @@ This happens because of a few mental blocks that are keeping us locked in this c
 
 ## Seven Ways to Feel More in Control of Your Life
 
-## Control Stimuli
+### Control Stimuli
 
 Acting independently begins with what you let into your mind - meaning what comes in from your environment. If you are lacking agency, it's likely your attention is being hijacked and you need to figure out how to restore it.
 
 To help you increase your control, practice going to quiet and screen-free spaces to escape overstimulation.
 
-1. [**Associate selectively**](https://deepstash.com/idea/13067/associate-selectively)
+### [Associate selectively](https://deepstash.com/idea/13067/associate-selectively)
 
-    It's impossible not to be affected by those around us - it's easy to "catch" their emotions and our brains tend to synch up when we associate with other people.
+It's impossible not to be affected by those around us - it's easy to "catch" their emotions and our brains tend to synch up when we associate with other people.
 
-    We should set boundaries with difficult people, disentangle yourself from negative online interactions, and be more conscious of how you might be vulnerable to "groupthink"-pressures to behave or think in ways that are contrary to your values.
+We should set boundaries with difficult people, disentangle yourself from negative online interactions, and be more conscious of how you might be vulnerable to "groupthink"-pressures to behave or think in ways that are contrary to your values.
 
-2. [**Move**](https://deepstash.com/idea/13068/move)
+### [Move](https://deepstash.com/idea/13068/move)
 
-    Physical movement can lead to greater self-control - the ability to defer gratification.
+Physical movement can lead to greater self-control - the ability to defer gratification.
 
-    If you're in deep at work, set a timer to go off every hour and remind yourself to take a moment to assess your mood. If you're feeling stuck or overwhelmed, get up and move. And, if you're having any issues at work, discussing them in a walking meeting (instead of a sitting meeting) may help mitigate conflicts.
+If you're in deep at work, set a timer to go off every hour and remind yourself to take a moment to assess your mood. If you're feeling stuck or overwhelmed, get up and move. And, if you're having any issues at work, discussing them in a walking meeting (instead of a sitting meeting) may help mitigate conflicts.
 
-3. [**Position yourself as a learner**](https://deepstash.com/idea/13069/position-yourself-as-a-learner)
+### [Position yourself as a learner](https://deepstash.com/idea/13069/position-yourself-as-a-learner)
 
-    This requires nurturing your curiosity and allowing yourself to explore new ideas, skills, and people.
+This requires nurturing your curiosity and allowing yourself to explore new ideas, skills, and people.
 
-    This isn't always easy. Practicing a growth mindset - where you recognize that you are a work in progress, capable of learning and changing - can help combat the fear of failure or judgment that often come with learning new things
+This isn't always easy. Practicing a growth mindset - where you recognize that you are a work in progress, capable of learning and changing - can help combat the fear of failure or judgment that often come with learning new things
 
-4. [**Manage your emotions and beliefs**](https://deepstash.com/idea/13070/manage-your-emotions-and-beliefs)
+### [Manage your emotions and beliefs](https://deepstash.com/idea/13070/manage-your-emotions-and-beliefs)
 
-    Increasing your awareness of how your emotions and beliefs drive your thinking, influence your behavior, and affect your judgment will help you navigate life with greater confidence.
+Increasing your awareness of how your emotions and beliefs drive your thinking, influence your behavior, and affect your judgment will help you navigate life with greater confidence.
 
-    While uncovering these inner thoughts and emotions may take effort, being more self-reflective helps you keep yourself grounded by slowing down your thinking process.
+While uncovering these inner thoughts and emotions may take effort, being more self-reflective helps you keep yourself grounded by slowing down your thinking process.
 
-5. [**Check your intuition**](https://deepstash.com/idea/13071/check-your-intuition)
+### [Check your intuition](https://deepstash.com/idea/13071/check-your-intuition)
 
-    Think of intuition as deep inner knowledge that is comprised of millions of data points that our brains have observed over the course of our lives.
+Think of intuition as deep inner knowledge that is comprised of millions of data points that our brains have observed over the course of our lives.
 
-    When used wisely, it can be a tremendous boost to our creativity and help us make important decisions.
+When used wisely, it can be a tremendous boost to our creativity and help us make important decisions.
 
-6. [**Deliberate, then act**](https://deepstash.com/idea/13072/deliberate-then-act)
+### [Deliberate, then act](https://deepstash.com/idea/13072/deliberate-then-act)
 
-    When making an important decision, it's helpful to stop and deliberate first:
+When making an important decision, it's helpful to stop and deliberate first:
 
-    - Focus on the issue at hand enough to clarify your primary objective and what is at stake.
-    - Generate lots of options at first, making sure that any strong emotions or biases aren't driving your thoughts.
-    - Draft a plan for yourself based on those options, putting your thoughts and decisions into writing.
-    - Set your plan aside and come back a while later to reassess it, making changes as necessary.
+- Focus on the issue at hand enough to clarify your primary objective and what is at stake.
+- Generate lots of options at first, making sure that any strong emotions or biases aren't driving your thoughts.
+- Draft a plan for yourself based on those options, putting your thoughts and decisions into writing.
+- Set your plan aside and come back a while later to reassess it, making changes as necessary.
 
 <https://deepstash.com/article/2260/seven-ways-to-feel-more-in-control-of-your-life>
 

@@ -78,7 +78,6 @@
 - Economic Exploit - Flash Loans
   - [What are Flash Loans? (Animated) Borrow MILLIONS Instantly in Crypto - YouTube](https://www.youtube.com/watch?v=YiF6x193fRk)
 - Exploit vs Hack (Loop holes)
-- [What is a Vampire Attack in Crypto? (SushiSwap Stole Uniswap's Money?) - YouTube](https://www.youtube.com/watch?v=UpqgenfGYkI)
 - [How (Not) To Get REKT - DeFi Hacks Explained - YouTube](https://www.youtube.com/watch?v=EawgqVdUZCI)
 - [Avoid Crypto Scams - 7 Signs of a Rug Pull! - YouTube](https://www.youtube.com/watch?v=a3CZBBqIfn0)
 - [Crypto Scams to Avoid - 10 Tricks Scammers Use - YouTube](https://www.youtube.com/watch?v=dJA5L4ZUTtU)

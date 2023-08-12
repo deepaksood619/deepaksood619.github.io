@@ -2,7 +2,9 @@
 
 [USDT vs. USDC vs. BUSD: What are the similarities and differences?](https://cointelegraph.com/learn/usdt-vs-usdc-vs-busd-what-are-the-similarities-and-differences)
 
-- Tether (USDT)
+[What is a Stablecoin? (How they work - ANIMATED) - YouTube](https://www.youtube.com/watch?v=pGzfexGmuVw)
+
+- Tether (USDT) - [What is Tether? USDT Stablecoin - How it works + MAJOR Issues - YouTube](https://www.youtube.com/watch?v=cK8bAA6H5PY)
 - USD Coin (USDC)
 - Binance USD (BUSD)
 - Dai

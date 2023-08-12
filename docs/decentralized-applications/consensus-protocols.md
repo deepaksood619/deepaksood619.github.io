@@ -99,6 +99,8 @@ To maintain blockchain security and achieve network consensus, BSC combines dele
   - Increased wear destroys SSDs after less than a year
   - No use beyond price speculation
 
+[What is Chia? (Animated) Eco-Friendly Storage-Based Crypto - YouTube](https://www.youtube.com/watch?v=HhumRtzglNM)
+
 ## Proof of Time
 
 [Proof-of-time vs. proof-of-stake: How the two algorithms compare](https://cointelegraph.com/news/proof-of-time-vs-proof-of-stake-how-the-two-algorithms-compare)

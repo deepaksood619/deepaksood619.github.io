@@ -68,3 +68,5 @@ Atomic swaps are also called [cross-chain](https://www.investopedia.com/what-are
 [What is a Crypto Bridge? (Examples + Purpose for Blockchains) - YouTube](https://www.youtube.com/watch?v=nT26cIz8HjI)
 
 [xPollinate and Connext - My Favorite Bridge! - YouTube](https://www.youtube.com/watch?v=2B_orfSsd58)
+
+[What is The Ren Protocol? renBTC Token Explained - YouTube](https://www.youtube.com/watch?v=mdoc-Qcc2-8)

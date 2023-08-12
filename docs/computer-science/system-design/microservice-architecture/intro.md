@@ -118,18 +118,6 @@ All the enterprise applications are first made monolith because it's hard to det
 By building up our new service at the boundary of our old service we are able to incrementally cut off our old system, or strangle it.
 Backfill refactoring
 
-## Microservices Characteristics
-
-- Componentization via services
-- Organized around business capabilities
-- Products not projects
-- Smart endpoints and dumb pipes
-- Decentralized governance
-- Decentralized data management
-- Infrastructure automation
-- Design for failure
-- Evolutionary design
-
 ## Integration Strategies
 
 - Shared Tables

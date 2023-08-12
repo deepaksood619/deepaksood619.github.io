@@ -80,7 +80,7 @@ Merlin Chrome Extension
 
 [Photo AI: AI Photo Generator](https://photoai.com/)
 
-[Fetching Title#1t9d](https://blog.jupyter.org/generative-ai-in-jupyter-3f7174824862)
+[Generative AI in Jupyter. Jupyter AI, a new open source project… | by Jason Weill | Aug, 2023 | Jupyter Blog](https://blog.jupyter.org/generative-ai-in-jupyter-3f7174824862)
 
 ![ai-tools](../../media/image.png)
 
@@ -114,18 +114,14 @@ Prompt: "I want to learn about {insert topic}. Identify and share the most impor
 
 ## Dev Tools
 
-[Welcome to LangChain - 🦜🔗 LangChain 0.0.180](https://python.langchain.com/en/latest/index.html)
-
-[Llama 2 - Meta AI](https://ai.meta.com/llama/)
-
-[Building your Generative AI apps with Meta's Llama 2 and Databricks | Databricks Blog](https://www.databricks.com/blog/building-your-generative-ai-apps-metas-llama-2-and-databricks)
-[GitHub - stoyan-stoyanov/llmflows: LLMFlows - Simple, Explicit and Transparent LLM Apps](https://github.com/stoyan-stoyanov/llmflows)
-
-[Patterns for Building LLM-based Systems & Products](https://eugeneyan.com/writing/llm-patterns/)
-
-[GitHub - ShishirPatil/gorilla: Gorilla: An API store for LLMs](https://github.com/ShishirPatil/gorilla)
-
-[gorilla-llm (Gorilla LLM (UC Berkeley))](https://huggingface.co/gorilla-llm)
+- [Welcome to LangChain - 🦜🔗 LangChain 0.0.180](https://python.langchain.com/en/latest/index.html)
+- [Llama 2 - Meta AI](https://ai.meta.com/llama/)
+- [Building your Generative AI apps with Meta's Llama 2 and Databricks | Databricks Blog](https://www.databricks.com/blog/building-your-generative-ai-apps-metas-llama-2-and-databricks)
+- [GitHub - stoyan-stoyanov/llmflows: LLMFlows - Simple, Explicit and Transparent LLM Apps](https://github.com/stoyan-stoyanov/llmflows)
+- [Patterns for Building LLM-based Systems & Products](https://eugeneyan.com/writing/llm-patterns/)
+- [GitHub - ShishirPatil/gorilla: Gorilla: An API store for LLMs](https://github.com/ShishirPatil/gorilla)
+- [gorilla-llm (Gorilla LLM (UC Berkeley))](https://huggingface.co/gorilla-llm)
+- [Advancing Spark - LLM Evaluation with MLFlow 2 4 - YouTube](https://www.youtube.com/watch?v=t_WtkRdycTY)
 
 ## Learning
 

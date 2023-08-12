@@ -145,7 +145,7 @@ You simply see what happens and exercise whichever option turns out to be most a
 
 [Radical Optionality](https://hbr.org/2023/05/radical-optionality)
 
-[Fetching Title#i7d2](https://www.forbes.com/sites/forbestechcouncil/2020/11/11/optionality-part-i-what-is-it-and-why-is-it-crucial/)
+[Optionality (Part I): What Is It And Why Is It Crucial?](https://www.forbes.com/sites/forbestechcouncil/2020/11/11/optionality-part-i-what-is-it-and-why-is-it-crucial/)
 
 ## Black and White Thinking by Kevin Dutton
 

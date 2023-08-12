@@ -20,6 +20,7 @@ The Top Three Highest Ranking Crypto Websites on Alexa
 - SushiSwap
   - [What Is a VAMPIRE ATTACK? SUSHISWAP Saga Explained - YouTube](https://www.youtube.com/watch?v=UFjXwrCGuog&ab_channel=Finematics)
   - [SUSHI - Most Underrated Protocol in DeFi? (BentoBox, Kashi, Miso Explained) - YouTube](https://www.youtube.com/watch?v=Cbtvc8Eso_g)
+  - [What is Sushiswap? (Animated) Sushi Token + Kashi + Miso Explained - YouTube](https://www.youtube.com/watch?v=NTYbVnENeVo)
 - Coinmarketcap.com (Global Rank 108, US Rank 131)
 - Vauld (FDs)
 - [Cryptocurrency Exchange - Crypto & Altcoin Swap Platform with Lowest Fees](https://changelly.com/)

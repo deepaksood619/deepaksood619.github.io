@@ -49,6 +49,12 @@ Some utility tokens also offer discounts, rewards, or additional benefits to tok
 
 The sole purpose of payment tokens is to pay for goods and services. A token may fall into more than one of the above-listed categories. A security token, for instance, may also have the functionality of a utility token, accounting – once again – for fuzzy boundaries. It remains to be seen how the consensus forms and how the cryptocurrency market evolves in the future.
 
+### Others
+
+- Platform Tokens
+- Transactional Tokens
+- Governance Tokens
+
 ## Token standards
 
 A token standard is a framework for creating tokens.
@@ -98,6 +104,8 @@ The ERC-1155 token standard allows for creating multiple token types: fungible, 
 
 [Crypto Coins vs. Tokens: The Difference Explained](https://zerion.io/blog/crypto-coins-vs-tokens-the-difference-explained/)
 
+[Crypto Coin vs Token (Differences + Examples) - YouTube](https://www.youtube.com/watch?v=422HORNUfkU)
+
 ## ICO
 
 - Initial coin offerings (ICOs) are a popular way to raise funds for products and services usually related to cryptocurrency.
@@ -107,6 +115,8 @@ The ERC-1155 token standard allows for creating multiple token types: fungible, 
 - ICOs are, for the most part, completely unregulated, so investors must exercise a high degree of caution and diligence when researching and investing in them.
 
 [ICOs: What is a Coin Launch?](https://www.investopedia.com/terms/i/initial-coin-offering-ico.asp)
+
+[What is an ICO - BIG Risks of an Initial Coin Offering Explained - YouTube](https://www.youtube.com/watch?v=a2Yd9mbfAos)
 
 ## Links
 

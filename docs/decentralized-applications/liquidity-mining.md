@@ -54,16 +54,27 @@ Liquidity is a measure of resource sufficiency as it concerns a cryptocurrency m
 
 [What is Liquidity in Crypto? | CoinGecko](https://www.coingecko.com/learn/liquidity-crypto)
 
-## Links
+## Liquidity Provider Tokens (LP Tokens)
 
-- [The 7 Most Frequently Asked Questions About Liquidity Mining](https://blog.defichain.com/the-7-most-frequently-asked-questions-about-liquidity-mining/)
-- [Impermanent Loss & other Liquidity Mining risks explained - Dr. Julian Hosp - The Blockchain Expert](https://julianhosp.com/impermanent-loss-other-liquidity-mining-risks-explained/?ref=defichain-blog)
-- [How do LIQUIDITY POOLS work? (Uniswap, Curve, Balancer) | DEFI Explained - YouTube](https://www.youtube.com/watch?v=cizLhxSKrAc&ab_channel=Finematics)
-- [What Is BANCOR V2? CHAINLINK Integration And Dynamic Automated Market Maker Explained | DEFI - YouTube](https://www.youtube.com/watch?v=bWBfLArJsFk&ab_channel=Finematics)
-- [Top LP Tokens Coins by Market Cap | CoinGecko](https://www.coingecko.com/en/categories/lp-tokens)
-- [Top 10 Liquidity Pool (LP) Tokens: Unleashing the Power of DeFi - CryptoTicker](https://cryptoticker.io/en/top-10-liquidity-pool-tokens/)
-- [What are liquidity provider (LP) tokens, and how do they work?](https://cointelegraph.com/explained/what-are-liquidity-provider-lp-tokens-and-how-do-they-work)
-- [What is a Liquidity Pool in Crypto? (Animated) - YouTube](https://www.youtube.com/watch?v=dVJzcFDo498)
+Liquidity provider tokens or LP tokens are tokens issued to liquidity providers on a decentralized exchange (DEX) that run on an automated market maker (AMM) protocol.
+
+LP tokens are used to track individual contributions to the overall liquidity pool, as LP tokens held correspond proportionally to the share of liquidity in the overall pool.
+
+At the most basic level, LP tokens work on the following formula:
+
+`Total Value of Liquidity Pool / Circulating Supply of LP Tokens =  Value of 1 LP Token`
+
+The relationship between LP tokens and the proportional share of a liquidity pool is used most commonly in at least two cases:
+
+1. To determine the liquidity provider’s share of transaction fees accumulated during the duration of liquidity provision.
+2. To determine how much liquidity is returned to liquidity providers from the liquidity pools when LPs decide to redeem their LP tokens.
+
+There are many other use cases for LP tokens that are emerging on modern DeFi platforms. These include:
+
+1. Staking LP tokens to earn further rewards as a way to incentivize LPs to lock their liquidity into pools. Sometimes, this is called **farming.**
+2. Using LP tokens values as a qualifying factor to access initial DEX offering (IDOs), i.e., to participate in certain IDOs, one must hold a certain value of LP tokens.
+
+[Liquidity Provider Tokens (LP Tokens) Definition | CoinMarketCap](https://coinmarketcap.com/alexandria/glossary/liquidity-provider-tokens-lp-tokens)
 
 ## Yield Farming
 
@@ -117,4 +128,13 @@ The weight systems allow the Curve DAO to dictate where the CRV inflation should
 
 ## Links
 
-[Harvest - Web3 Platform to Earn on Your Crypto](https://www.harvest.finance/)
+- [Harvest - Web3 Platform to Earn on Your Crypto](https://www.harvest.finance/)
+- [The top five liquidity trackers and analytic tools | by International Token Standardization Association | Medium](https://itsa-global.medium.com/the-top-five-liquidity-trackers-and-analytic-tools-78b59621d619)
+- [The 7 Most Frequently Asked Questions About Liquidity Mining](https://blog.defichain.com/the-7-most-frequently-asked-questions-about-liquidity-mining/)
+- [Impermanent Loss & other Liquidity Mining risks explained - Dr. Julian Hosp - The Blockchain Expert](https://julianhosp.com/impermanent-loss-other-liquidity-mining-risks-explained/?ref=defichain-blog)
+- [How do LIQUIDITY POOLS work? (Uniswap, Curve, Balancer) | DEFI Explained - YouTube](https://www.youtube.com/watch?v=cizLhxSKrAc&ab_channel=Finematics)
+- [What Is BANCOR V2? CHAINLINK Integration And Dynamic Automated Market Maker Explained | DEFI - YouTube](https://www.youtube.com/watch?v=bWBfLArJsFk&ab_channel=Finematics)
+- [Top LP Tokens Coins by Market Cap | CoinGecko](https://www.coingecko.com/en/categories/lp-tokens)
+- [Top 10 Liquidity Pool (LP) Tokens: Unleashing the Power of DeFi - CryptoTicker](https://cryptoticker.io/en/top-10-liquidity-pool-tokens/)
+- [What are liquidity provider (LP) tokens, and how do they work?](https://cointelegraph.com/explained/what-are-liquidity-provider-lp-tokens-and-how-do-they-work)
+- [What is a Liquidity Pool in Crypto? (Animated) - YouTube](https://www.youtube.com/watch?v=dVJzcFDo498)

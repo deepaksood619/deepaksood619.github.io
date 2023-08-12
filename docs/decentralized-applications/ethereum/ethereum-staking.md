@@ -96,7 +96,8 @@ wstETH is a wrapped version of stETH. Due to the nature of Lido, the amount of s
 
 #### Guides
 
-[Guide to Curve Finance on L2 | Lido: Help](https://help.lido.fi/en/articles/6780705-guide-to-curve-finance-on-l2)
+- [Lido: Help](https://help.lido.fi/en/)
+- [Guide to Curve Finance on L2 | Lido: Help](https://help.lido.fi/en/articles/6780705-guide-to-curve-finance-on-l2)
 
 ## Staking Opportunities
 

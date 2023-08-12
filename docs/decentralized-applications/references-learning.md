@@ -14,6 +14,7 @@
 - Jude Umeano
 - [CS120: Bitcoin for Developers I | Saylor Academy](https://learn.saylor.org/course/view.php?id=500)
 - [LearnWeb3 - Become a Web3 Developer for free!](https://learnweb3.io/)
+- [Crypto & Blockchain Education | CoinMarketCap](https://coinmarketcap.com/alexandria)
 
 ### Youtube Crypto News
 
@@ -69,7 +70,6 @@
 - [What happens to blockchain transactions in case of network partition?](https://news.ycombinator.com/item?id=14594172)
   - [transactions - What would happen if a portion of the Bitcoin network was separated from the rest of the network? - Bitcoin Stack Exchange](https://bitcoin.stackexchange.com/questions/1738/what-would-happen-if-a-portion-of-the-bitcoin-network-was-separated-from-the-res)
   - [blockchain - Countrywide Internet isolation, inevitable fork - Bitcoin Stack Exchange](https://bitcoin.stackexchange.com/questions/12207/countrywide-internet-isolation-inevitable-fork)
-  - [consensus - Network partitioning and FINALITY - Ethereum Stack Exchange](https://ethereum.stackexchange.com/questions/139360/network-partitioning-and-finality?rq=1)
 
 ## Presentations / Conference
 

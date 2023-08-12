@@ -2,7 +2,7 @@
 
 ## Links
 
-- [coin-token-intro](decentralized-applications/coins-tokens-chains/coin-token-intro.md)
+- [Coin Token Intro](decentralized-applications/coins-tokens-chains/coin-token-intro.md)
 - [Dual Token Economy](decentralized-applications/coins-tokens-chains/dual-token-economy.md)
 - [Wallets](decentralized-applications/coins-tokens-chains/wallets.md)
 - [bitcoin](decentralized-applications/coins-tokens-chains/bitcoin.md)
@@ -67,6 +67,14 @@
 - Pepe
 - [Apecoin: APE Really Worth It?! What You NEED To Know!! 🦧 - YouTube](https://www.youtube.com/watch?v=Zi-7MqpbV4o)
 
+### Tokens
+
+- Platform Tokens
+- Security Tokens
+- Transactional Tokens
+- Utility Tokens
+- Governance Tokens
+
 ### Others
 
 - [Stable Coins](decentralized-applications/coins-tokens-chains/stable-coins.md)
@@ -100,6 +108,7 @@
   - [Mina Protocol 🛠️ Introduction to Mina Protocol and SnarkyJS - Angus Maidment - YouTube](https://www.youtube.com/watch?v=GcbkxGqT1P0)
 - [What is Fantom? FTM Explained with Animations - YouTube](https://www.youtube.com/watch?v=oRoS7VVwe7w)
 - [What is Neo? N3 Explained with Animations - YouTube](https://www.youtube.com/watch?v=I_vCOzEbSMI)
+- [What is Tezos - XTZ Self-Amending Explained with Animations - YouTube](https://www.youtube.com/watch?v=Umy75ihttwo)
 
 #### Chainlink (Oracle) - LINK
 

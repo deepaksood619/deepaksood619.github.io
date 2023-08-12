@@ -4,36 +4,38 @@ Never make the same mistake twice.
 
 Learning from mistakes separates the best from the rest
 
+Make a mistake you can afford so that you live to make another one.
+
 ## The After-Action Review (AAR) method
 
 AAR is a 4-question framework
 
-1. What did I intend to accomplish?
+### 1. What did I intend to accomplish?
 
-   Example: Wish John a happy birthday (to show him that he's important to me).
+Example: Wish John a happy birthday (to show him that he's important to me).
 
-2. What happened?
+### 2. What happened?
 
-   Example: I forgot to wish John a happy birthday
+Example: I forgot to wish John a happy birthday
 
-3. Why did it happen that way?
+### 3. Why did it happen that way?
 
-   Seek the root cause, not the proximate.
+Seek the root cause, not the proximate.
 
-   Proximate = what immediately caused something to happen. Root = the real reason something happened.
+Proximate = what immediately caused something to happen. Root = the real reason something happened.
 
-   Example:
+Example:
 
-     - Proximate: It was a crazy day at school; I forgot.
-     - Root: I didn't have a reminder
+- Proximate: It was a crazy day at school; I forgot.
+- Root: I didn't have a reminder
 
-4. What will I do next time for a better outcome (or to repeat my success)?
+### 4. What will I do next time for a better outcome (or to repeat my success)?
 
-   Example: Create a recurring calendar invite for John's birthday (+ other friends/family/colleagues)
+Example: Create a recurring calendar invite for John's birthday (+ other friends/family/colleagues)
 
-   Won't happen again
+Won't happen again
 
-Now some After-Action Review tips:
+### Now some After-Action Review tips
 
 - Do an AAR for any action (win or loss). Normalize learning from wins and losses
 - Complete individually or as a team

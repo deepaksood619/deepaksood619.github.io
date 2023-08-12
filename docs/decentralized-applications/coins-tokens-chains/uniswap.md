@@ -4,6 +4,8 @@
 
 [Uniswap Exchange Review 2023: Is it safe to use?](https://milkroad.com/reviews/uniswap)
 
+[What is Uniswap? (Animated) Decentralized Exchange + UNI Token - YouTube](https://www.youtube.com/watch?v=DLu35sIqVTM)
+
 #### Uniswap v3
 
 - Automated Market Makers (AMMs) - [What is an Automated Market Maker? (Liquidity Pool Algorithm) - YouTube](https://www.youtube.com/watch?v=1PbZMudPP5E) - Constant Product AMM

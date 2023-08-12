@@ -34,6 +34,8 @@ All or none
 
 Time is long but life is short
 
+Forewarned is forearmed
+
 If You Avoid Thinking About the Future, You Get Better at Everything
 
 When you can't build higher, dig deeper.
