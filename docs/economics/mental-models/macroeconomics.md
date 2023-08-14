@@ -111,67 +111,7 @@ The **impossible trinity** (also known as **the impossible [trilemma](https://en
 
 [The Atlas of Economic Complexity](https://atlas.cid.harvard.edu/)
 
-## Links
-
-[Finshots Recap — The best stories on economics](https://finshots.in/archive/recap-2022-the-best-stories-on-economics/)
-
-[Data Update 1 for 2023: Setting the table](https://www.youtube.com/watch?v=RKJ1c442AcY)
-
-![image](../../media/data-items-company-level.jpg)
-
-[Data Update 4 for 2023: Country Risk](https://www.youtube.com/watch?v=qLm-JNEmWBA)
-
-[Data Update 5 for 2023: Profitability, Returns and Value](https://www.youtube.com/watch?v=qfssMonQ8Ek)
-
-[Data Update 6 for 2023: The Upside and Downside of Debt - YouTube](https://www.youtube.com/watch?v=rtIEgXLx6MI&ab_channel=AswathDamodaran)
-
-[Data Update 7 for 2023: Dividends, Buybacks and Cashflows - YouTube](https://www.youtube.com/watch?v=QKJt3cv7c2k)
-
-[The Two Big Economics Lies You Still Believe | Economics Explained - YouTube](https://www.youtube.com/watch?v=zOYLiTj4vag&ab_channel=EconomicsExplained)
-
-[Should We Be Worried About The BRICS? | Economics Explained - YouTube](https://www.youtube.com/watch?v=wBjmgkeit6I)
-
-[Did Washing Machines Change The Global Economy More Than The Internet? - YouTube](https://www.youtube.com/watch?v=_gvsz_vc7B0)
-
-[The Inequality Problem Nobody Likes To Talk About | Economics Explained - YouTube](https://www.youtube.com/watch?v=QaL-ocOtooM)
-
-[How the World’s Most Dangerous Country Solved Murder - YouTube](https://www.youtube.com/watch?v=WtkI-QAgM6w)
-
-[The Big Economic Problem of Shrinking Cities | Economics Explained - YouTube](https://www.youtube.com/watch?v=qJbIlaqTMT0)
-
-[The Next Global Superpower Isn't Who You Think | Ian Bremmer | TED - YouTube](https://www.youtube.com/watch?v=uiUPD-z9DTg)
-
-[AI Winners, Losers and Wannabes: Valuing AI's Boost to NVIDIA's Value! - YouTube](https://www.youtube.com/watch?v=2N0IDShsTyc)
-
-[Why Is Europe Always Lagging Behind The US? | Economics Explained - YouTube](https://www.youtube.com/watch?v=tsahMxXdW30)
-
-[How Corruption Led to Lebanon's Brutal Collapse - YouTube](https://www.youtube.com/watch?v=fvVeslmt1-E)
-
-[Finland Redefines Economic Success | Economics Explained - YouTube](https://www.youtube.com/watch?v=hl-woY7mQVg)
-
-[That Time the Soviets Tried to Abolish Money - YouTube](https://www.youtube.com/watch?v=bWWqhsh848E)
-
-[The Growing Revolt Against the US Dollar - YouTube](https://www.youtube.com/watch?v=g6rFff2MAxM)
-
-[What Everyone Gets Wrong About Global Debt | Economics Explained - YouTube](https://www.youtube.com/watch?v=IAqj30s4lH8)
-
-[Ray Dalio Explains How the U.S. Economic Crisis is Unfolding. - YouTube](https://www.youtube.com/watch?v=-2Rn4JeHKHs)
-
-[Age of Easy Money (full documentary) | FRONTLINE - YouTube](https://www.youtube.com/watch?v=EpMLAQbSYAw)
-
-[Stories from 2008's Great Recession | 60 Minutes Full Episodes - YouTube](https://www.youtube.com/watch?v=fsSCnYPyb1A)
-
-[How Finance Works: The HBR Guide to Thinking Smart About the Numbers - Mihir Desai - YouTube](https://www.youtube.com/watch?v=8RxBbls_81U)
-
-[This Company Printed Your MONEY!! The Hidden Story!! - YouTube](https://www.youtube.com/watch?v=obXUfKhgkco)
-
-[End of the Road: How Money Became Worthless - YouTube](https://www.youtube.com/watch?v=Co_tVd9gA2I)
-
-[Country Risk: A 2023 Mid-year Update - YouTube](https://www.youtube.com/watch?v=F-6_XeUxbmI)
-
-[What’s Happening with the Economy? The Great Wealth Transfer](https://www.linkedin.com/pulse/whats-happening-economy-great-wealth-transfer-ray-dalio/)
-
-[Skills Wars Are The New Trade Wars | Economics Explained - YouTube](https://www.youtube.com/watch?v=pynhu7kY480)
+## Others
 
 [Part 2 of a Two-Part Look at: 1. Principles for Navigating Big Debt Crises, and 2. How These Principles Apply to What’s Happening Now](https://www.linkedin.com/pulse/part-2-two-part-look-1-principles-navigating-big-debt-ray-dalio/)
 
@@ -181,4 +121,39 @@ The **impossible trinity** (also known as **the impossible [trilemma](https://en
 - Acts of nature (droughts, floods, and pandemics)
 - Human invention and technology development
 
-[Should The USA Isolate To Save Its Economy? | Economics Explained - YouTube](https://www.youtube.com/watch?v=mWk-5TvzQSU)
+![image](../../media/data-items-company-level.jpg)
+
+## Links
+
+- [Finshots Recap — The best stories on economics](https://finshots.in/archive/recap-2022-the-best-stories-on-economics/)
+- [Data Update 1 for 2023: Setting the table](https://www.youtube.com/watch?v=RKJ1c442AcY)
+- [Data Update 4 for 2023: Country Risk](https://www.youtube.com/watch?v=qLm-JNEmWBA)
+- [Data Update 5 for 2023: Profitability, Returns and Value](https://www.youtube.com/watch?v=qfssMonQ8Ek)
+- [Data Update 6 for 2023: The Upside and Downside of Debt - YouTube](https://www.youtube.com/watch?v=rtIEgXLx6MI&ab_channel=AswathDamodaran)
+- [Data Update 7 for 2023: Dividends, Buybacks and Cashflows - YouTube](https://www.youtube.com/watch?v=QKJt3cv7c2k)
+- [The Two Big Economics Lies You Still Believe | Economics Explained - YouTube](https://www.youtube.com/watch?v=zOYLiTj4vag&ab_channel=EconomicsExplained)
+- [Should We Be Worried About The BRICS? | Economics Explained - YouTube](https://www.youtube.com/watch?v=wBjmgkeit6I)
+- [Did Washing Machines Change The Global Economy More Than The Internet? - YouTube](https://www.youtube.com/watch?v=_gvsz_vc7B0)
+- [The Inequality Problem Nobody Likes To Talk About | Economics Explained](https://www.youtube.com/watch?v=QaL-ocOtooM)
+- [How the World’s Most Dangerous Country Solved Murder - YouTube](https://www.youtube.com/watch?v=WtkI-QAgM6w)
+- [The Big Economic Problem of Shrinking Cities | Economics Explained - YouTube](https://www.youtube.com/watch?v=qJbIlaqTMT0)
+- [The Next Global Superpower Isn't Who You Think | Ian Bremmer | TED - YouTube](https://www.youtube.com/watch?v=uiUPD-z9DTg)
+- [AI Winners, Losers and Wannabes: Valuing AI's Boost to NVIDIA's Value! - YouTube](https://www.youtube.com/watch?v=2N0IDShsTyc)
+- [Why Is Europe Always Lagging Behind The US? | Economics Explained - YouTube](https://www.youtube.com/watch?v=tsahMxXdW30)
+- [How Corruption Led to Lebanon's Brutal Collapse - YouTube](https://www.youtube.com/watch?v=fvVeslmt1-E)
+- [Finland Redefines Economic Success | Economics Explained - YouTube](https://www.youtube.com/watch?v=hl-woY7mQVg)
+- [That Time the Soviets Tried to Abolish Money - YouTube](https://www.youtube.com/watch?v=bWWqhsh848E)
+- [The Growing Revolt Against the US Dollar - YouTube](https://www.youtube.com/watch?v=g6rFff2MAxM)
+- [What Everyone Gets Wrong About Global Debt | Economics Explained - YouTube](https://www.youtube.com/watch?v=IAqj30s4lH8)
+- [Ray Dalio Explains How the U.S. Economic Crisis is Unfolding. - YouTube](https://www.youtube.com/watch?v=-2Rn4JeHKHs)
+- [Age of Easy Money (full documentary) | FRONTLINE - YouTube](https://www.youtube.com/watch?v=EpMLAQbSYAw)
+- [Stories from 2008's Great Recession | 60 Minutes Full Episodes - YouTube](https://www.youtube.com/watch?v=fsSCnYPyb1A)
+- [How Finance Works: The HBR Guide to Thinking Smart About the Numbers - Mihir Desai - YouTube](https://www.youtube.com/watch?v=8RxBbls_81U)
+- [This Company Printed Your MONEY!! The Hidden Story!! - YouTube](https://www.youtube.com/watch?v=obXUfKhgkco)
+- [End of the Road: How Money Became Worthless - YouTube](https://www.youtube.com/watch?v=Co_tVd9gA2I)
+- [Country Risk: A 2023 Mid-year Update - YouTube](https://www.youtube.com/watch?v=F-6_XeUxbmI)
+- [What’s Happening with the Economy? The Great Wealth Transfer](https://www.linkedin.com/pulse/whats-happening-economy-great-wealth-transfer-ray-dalio/)
+- [Skills Wars Are The New Trade Wars | Economics Explained - YouTube](https://www.youtube.com/watch?v=pynhu7kY480)
+- [Should The USA Isolate To Save Its Economy? | Economics Explained - YouTube](https://www.youtube.com/watch?v=mWk-5TvzQSU)
+- [Worst Cases of Hyperinflation: What It’s Like & How To Survive!! - YouTube](https://www.youtube.com/watch?v=EShqOy1dgek)
+- [The Game Theory Of Military Spending | Economics Explained - YouTube](https://www.youtube.com/watch?v=Vg9Aiz2piew)

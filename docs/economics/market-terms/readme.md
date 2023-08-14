@@ -35,6 +35,8 @@ Bulls make money, bears make money, but pigs get slaughtered.
   - coin.zerodha.com
   - console.zerodha.com
   - streak.zerodha.com
+    - [Streak | Create, backtest and deploy trading strategies](https://www.streak.tech/SystematicTrading)
+    - [Time Series Forecast (TSF): All you need to Know - Streak Tech](https://blog.streak.tech/time-series-forecast-tsf-all-you-need-to-know/)
   - [technicals.zerodha.com](https://technicals.zerodha.com/dashboard)
 
 - MoneyControl

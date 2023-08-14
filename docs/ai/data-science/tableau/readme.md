@@ -10,13 +10,15 @@
 
 Visualization from relational databases and data cubes, OLAP cubes, cloud databases
 
-<https://www.datacamp.com/community/tutorials/tableau-visualizations-with-measure-names-and-measure-values>
+## Public Dashboards
 
-<https://public.tableau.com/en-us/s>
+<https://www.datacamp.com/community/tutorials/tableau-visualizations-with-measure-names-and-measure-values>
 
 <https://public.tableau.com/en-us/gallery/travel-planner-emissions-calculator>
 
 [https://public.tableau.com/app/discover](https://public.tableau.com/app/discover)
+
+[8 Most-Favorited Data Visualizations on Tableau Public](https://www.tableau.com/blog/8-most-favorited-data-visualizations-tableau-public)
 
 ## Debugging
 

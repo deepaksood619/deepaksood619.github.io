@@ -57,3 +57,5 @@ Slippage is the difference between the average purchase or sale price for a trad
 ## Others
 
 [recursive proofs for the rest of us! - Mohammad Jahanara - YouTube](https://www.youtube.com/watch?v=qFKijOu4S4c)
+
+[Soft Fork vs Hard Fork in Crypto (ETH Classic, Litecoin, BTC Cash...) - YouTube](https://www.youtube.com/watch?v=Bu1GcyyFZ7w)

@@ -202,6 +202,7 @@
   - [Philosophy of space and time](https://en.wikipedia.org/wiki/Philosophy_of_space_and_time)
   - [Teleology](https://en.wikipedia.org/wiki/Teleology)
   - [Theism](https://en.wikipedia.org/wiki/Theism) and [Atheism](https://en.wikipedia.org/wiki/Atheism)
+    - [Christopher Hitchens - Wikipedia](https://en.wikipedia.org/wiki/Christopher_Hitchens)
 - [Philosophical traditions and schools](https://en.wikipedia.org/wiki/Philosophical_movement)
   - [African philosophy](https://en.wikipedia.org/wiki/African_philosophy)
   - [Analytic philosophy](https://en.wikipedia.org/wiki/Analytic_philosophy)

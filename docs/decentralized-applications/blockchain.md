@@ -177,7 +177,10 @@ For these reasons, Bitcoin addresses should only be used once and users must be 
 
 [Top 10 Security and Privacy Tips for Cryptocurrency Holders](https://www.analyticsinsight.net/top-10-security-and-privacy-tips-for-cryptocurrency-holders/)
 
-Layering - Tumblr / Mixers - [6 BEST Bitcoin Mixers & Tumblers (2023 List)](https://www.guru99.com/best-bitcoin-mixers-tumblers.html)
+Layering - Tumblr / Mixers
+
+- [6 BEST Bitcoin Mixers & Tumblers (2023 List)](https://www.guru99.com/best-bitcoin-mixers-tumblers.html)
+- [What is a Bitcoin Tumbler? (Legality + Examples) - YouTube](https://www.youtube.com/watch?v=LxnC8eFCOFA)
 
 [Protect bitcoin privacy](https://bitcoinmagazine.com/culture/how-i-protect-my-bitcoin-privacy)
 

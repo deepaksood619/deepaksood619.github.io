@@ -19,3 +19,5 @@
 [Ben Goertzel: Singularity, Sparks of AGI in GPT - YouTube](https://www.youtube.com/watch?v=27zHyw_oHSI)
 
 [Ben Goertzel - Open Ended vs Closed Minded Conceptions of Superintelligence - YouTube](https://www.youtube.com/watch?v=4mEsJ3z6T_E)
+
+[Christopher Hitchens on Fear and A.I. - YouTube](https://www.youtube.com/watch?v=VmKqBlbxfUo)

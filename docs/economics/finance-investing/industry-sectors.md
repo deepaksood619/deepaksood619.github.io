@@ -49,3 +49,5 @@
 - Infrastructure
 - Pharmaceutical
 - Telecommunications
+
+Airlines - [Demystifying Airline Economics: RASK, Yield, and Load Factor](https://www.linkedin.com/pulse/demystifying-airline-economics-rask-yield-load-factor-laili-abdullah/)

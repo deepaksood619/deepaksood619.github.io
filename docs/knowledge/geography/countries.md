@@ -14,6 +14,10 @@
 
 ## Asia
 
+### China
+
+[Why China is Shrinking VERY Fast - YouTube](https://www.youtube.com/watch?v=KiaukPUV6Hg)
+
 ### Japan
 
 [https://japan-dev.com/blog/japanese-work-culture](https://japan-dev.com/blog/japanese-work-culture)
@@ -40,15 +44,21 @@
 
 [Why Is Indonesia One Of The Fastest Growing Economies In The World? | Economics Explained - YouTube](https://www.youtube.com/watch?v=E_M1pX1EeHo)
 
-[The Not So Polite Truth Behind Canada's Collapsing Economy - YouTube](https://www.youtube.com/watch?v=XomvuLPiTWM)
+[Saudi Arabia’s Catastrophic “Everything” Problem - YouTube](https://www.youtube.com/watch?v=txmzVsBniZQ)
 
 ## Europe
 
+### Ukraine
+
 [Why Belarus Might Invade Ukraine Too](https://www.youtube.com/watch?v=Ml7ycoLumAs)
+
+[Why the Destruction of This Dam is Breaking Ukraine - YouTube](https://www.youtube.com/watch?v=MUhTBBkZUP4)
 
 ## North America
 
 [American Revolution [Explained] | World History for UPSC Mains 2022-2023 - YouTube](https://www.youtube.com/watch?v=pUA65IoEyxI)
+
+[The Not So Polite Truth Behind Canada's Collapsing Economy - YouTube](https://www.youtube.com/watch?v=XomvuLPiTWM)
 
 ## South America
 

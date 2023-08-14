@@ -57,6 +57,8 @@ Atomic swaps are also called [cross-chain](https://www.investopedia.com/what-are
 
 [Atomic Swap: Definition, How It Works With Cryptocurrency Trade](https://www.investopedia.com/terms/a/atomic-swaps.asp)
 
+[What is an Atomic Swap in Crypto? Time Locked Smart Contracts - YouTube](https://www.youtube.com/watch?v=-9NDKbJo_A4)
+
 ## Links
 
 [Bridges | ethereum.org](https://ethereum.org/en/developers/docs/bridges/)

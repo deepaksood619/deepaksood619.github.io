@@ -62,7 +62,7 @@ Another source of scale economies is the possibility of purchasing inputs at a l
 
 <https://en.wikipedia.org/wiki/Economies_of_scale>
 
-## Efficient-market hypothesis
+## Efficient market hypothesis (EMH)
 
 The efficient-market hypothesis (EMH) is a theory in [financial economics](https://en.wikipedia.org/wiki/Financial_economics) that states that [asset](https://en.wikipedia.org/wiki/Asset) prices fully reflect all available information. A direct implication is that it is impossible to "beat the market" consistently on a risk-adjusted basis since market prices should only react to new information.
 

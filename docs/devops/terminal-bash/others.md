@@ -154,6 +154,8 @@ It shows a frequently updated list of the processes running on a computer, norma
 
 <https://peteris.rocks/blog/htop>
 
+[How CPU Efficient is your App? - YouTube](https://www.youtube.com/watch?v=BTD5I1BMx2Q)
+
 ## glances
 
 Glancesis a cross-platform monitoring tool which aims to present a large amount of monitoring information through a curses or Web based interface. The information dynamically adapts depending on the size of the user interface.

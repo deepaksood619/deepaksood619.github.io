@@ -4,6 +4,10 @@ Howard Gardner, a psychologist & professor at Harvard University, first introduc
 
 Each type is said to represent different ways of how a person best processes information
 
+Intelligence is real, important, largely heritable, and not particularly changeable -- Scott Young
+
+- It shows strong heritability, with the [g-factor](https://en.wikipedia.org/wiki/G_factor_(psychometrics)) maybe being as much as 85% heritable.
+
 ## 8 Types of Intelligence
 
 ### 1. Linguistic

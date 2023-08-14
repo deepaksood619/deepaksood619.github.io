@@ -43,6 +43,7 @@
 
 - [Intro to the stack](https://ethereum.org/en/developers/docs/ethereum-stack/) _– An overview of the Ethereum/web3 stack_
 - [Smart contracts](https://ethereum.org/en/developers/docs/smart-contracts/) _– Programs that reside at an Ethereum address and run functions when triggered by transactions_
+  - [What are Smart Contracts in Crypto? (4 Examples + Animated) - YouTube](https://www.youtube.com/watch?v=pyaIppMhuic)
   - [Smart contract languages](https://ethereum.org/en/developers/docs/smart-contracts/languages/)
   - [Smart contract anatomy](https://ethereum.org/en/developers/docs/smart-contracts/anatomy/)
   - [Smart contracts libraries](https://ethereum.org/en/developers/docs/smart-contracts/libraries/)

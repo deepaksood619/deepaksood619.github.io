@@ -332,47 +332,28 @@ Marketing tactic used, light the agarbatti in-front of store and left for 2 days
 
 ## Links
 
-[Why Elon Musk is WRONG about TWITTER and FREE speech? : Business Case Study](https://www.youtube.com/watch?v=nPrVYCtJfgQ)
-
-[Hindenburg has Killed Adani Group?: Decoding Adani’s response to Hindenburg (Business case study)](https://www.youtube.com/watch?v=4WSAeT_XDaI)
-
-[How TATA’s GENIUS strategy is turning TATA Tech into a LEGEND? : Tata technologies case study - YouTube](https://www.youtube.com/watch?v=BlDYS_2X5wI&ab_channel=ThinkSchool)
-
-[The Extravagant Business of Cruises - YouTube](https://www.youtube.com/watch?v=QqQtV7wHSV0)
-
-[The INSANE Story of Domino's Pizza - YouTube](https://www.youtube.com/watch?v=QJh1LkOM4KY)
-
-[How Domino's Became The World's Biggest Pizza Chain | Big Business | Insider - YouTube](https://www.youtube.com/watch?v=yEnDZcX3xc8)
-
-[How We Built a $150 Million Streaming Platform with $100,000 - YouTube](https://www.youtube.com/watch?v=Alqt6RCEWdM)
-
-[How Zudio TOOK OVER India’s 5,000 Crore Fashion Industry - YouTube](https://www.youtube.com/watch?v=eP8PCPF8YAI)
-
-[How A Single Company Revolutionized Law Enforcement - YouTube](https://www.youtube.com/watch?v=Jf-mU-hdHyE)
-
-[How EaseMyTrip CRACKED India’s $201 Billion Travel Industry | GrowthX Wireframe - YouTube](https://www.youtube.com/watch?v=j4StYNvbzEg)
-
-[Why did Starbucks REALLY become so popular? - YouTube](https://www.youtube.com/watch?v=3RKU9XBwZro)
-
-[This Indian Brand is KILLING Global Brands like Anything! - YouTube](https://www.youtube.com/watch?v=n60GZmfFde8)
-
-[How Stage CONQUERED India’s 300 Crore OTT Space | GrowthX Wireframe - YouTube](https://www.youtube.com/watch?v=NDrrBVsPLDA)
-[Western Union: Banking & Finance for the Poor - YouTube](https://www.youtube.com/watch?v=29nSycLw_5A)
-
-[How Delhivery DISRUPTED India’s 1800 Crore Logistics Market | GrowthX Wireframe - YouTube](https://www.youtube.com/watch?v=Sv9mqdnxNXw)
-
-[Launching 500 Cities in 9 Months: Behind Swiggy’s EPIC Growth Strategy | GrowthX Insider - YouTube](https://www.youtube.com/watch?v=0hS9w28fWBM)
-
-[The Banana King: The INSANE True Story - YouTube](https://www.youtube.com/watch?v=j6muUD2SUk8)
-
-[How Firstcry TRANSFORMED India’s 4000 Crore E-Commerce Industry | GrowthX Wireframe - YouTube](https://www.youtube.com/watch?v=O7gaqYNPlUY)
-
-[How Masters union is building a Harvard for India? : Business case study - YouTube](https://www.youtube.com/watch?v=yzDF_KX4Zjg)
-
-[How Frooti Made A 4200 Crore COMEBACK | GrowthX Wireframe - YouTube](https://www.youtube.com/watch?v=D1p8VibEguY)
-
-[How JAINS built the DIAMOND Industry of India? : Business Case Study - YouTube](https://www.youtube.com/watch?v=Vx4hyGpzVyI)
-
-[How I DOUBLED Neeman’s Business In 9 Months | GrowthX Insider - YouTube](https://www.youtube.com/watch?v=FBdlJRUMUR0)
-
-[Dream, determination, defeat – six lessons in analysing startup failure from a candid entrepreneur story](https://yourstory.com/2022/02/entrepreneur-failure-lessons-prashant-desai)
+- [Why Elon Musk is WRONG about TWITTER and FREE speech Business Case Study](https://www.youtube.com/watch?v=nPrVYCtJfgQ)
+- [Hindenburg has Killed Adani Group?: Decoding Adani’s response to Hindenburg (Business case study)](https://www.youtube.com/watch?v=4WSAeT_XDaI)
+- [How TATA’s GENIUS strategy is turning TATA Tech into a LEGEND? : Tata technologies case study - YouTube](<https://www.youtube.com/watch?v=BlDYS_2X5wI&-> ab_channel=ThinkSchool)
+- [The Extravagant Business of Cruises - YouTube](https://www.youtube.com/watch?v=QqQtV7wHSV0)
+- [The INSANE Story of Domino's Pizza - YouTube](https://www.youtube.com/watch?v=QJh1LkOM4KY)
+- [How Domino's Became The World's Biggest Pizza Chain | Big Business | Insider - YouTube](https://www.youtube.com/watch?v=yEnDZcX3xc8)
+- [How We Built a $150 Million Streaming Platform with $100,000 - YouTube](https://www.youtube.com/watch?v=Alqt6RCEWdM)
+- [How Zudio TOOK OVER India’s 5,000 Crore Fashion Industry - YouTube](https://www.youtube.com/watch?v=eP8PCPF8YAI)
+- [How A Single Company Revolutionized Law Enforcement - YouTube](https://www.youtube.com/watch?v=Jf-mU-hdHyE)
+- [How EaseMyTrip CRACKED India’s $201 Billion Travel Industry | GrowthX Wireframe - YouTube](https://www.youtube.com/watch?v=j4StYNvbzEg)
+- [Why did Starbucks REALLY become so popular? - YouTube](https://www.youtube.com/watch?v=3RKU9XBwZro)
+- [This Indian Brand is KILLING Global Brands like Anything! - YouTube](https://www.youtube.com/watch?v=n60GZmfFde8)
+- [How Stage CONQUERED India’s 300 Crore OTT Space | GrowthX Wireframe - YouTube](https://www.youtube.com/watch?v=NDrrBVsPLDA)
+- [Western Union: Banking & Finance for the Poor - YouTube](https://www.youtube.com/watch?v=29nSycLw_5A)
+- [How Delhivery DISRUPTED India’s 1800 Crore Logistics Market | GrowthX Wireframe - YouTube](https://www.youtube.com/watch?v=Sv9mqdnxNXw)
+- [Launching 500 Cities in 9 Months: Behind Swiggy’s EPIC Growth Strategy | GrowthX Insider - YouTube](https://www.youtube.com/watch?v=0hS9w28fWBM)
+- [The Banana King: The INSANE True Story - YouTube](https://www.youtube.com/watch?v=j6muUD2SUk8)
+- [How Firstcry TRANSFORMED India’s 4000 Crore E-Commerce Industry | GrowthX Wireframe - YouTube](https://www.youtube.com/watch?v=O7gaqYNPlUY)
+- [How Masters union is building a Harvard for India? : Business case study - YouTube](https://www.youtube.com/watch?v=yzDF_KX4Zjg)
+- [How Frooti Made A 4200 Crore COMEBACK | GrowthX Wireframe - YouTube](https://www.youtube.com/watch?v=D1p8VibEguY)
+- [How JAINS built the DIAMOND Industry of India? : Business Case Study - YouTube](https://www.youtube.com/watch?v=Vx4hyGpzVyI)
+- [How I DOUBLED Neeman’s Business In 9 Months | GrowthX Insider - YouTube](https://www.youtube.com/watch?v=FBdlJRUMUR0)
+- [Dream, determination, defeat – six lessons in analysing startup failure from a candid entrepreneur story](<https://yourstory.com/2022/02/-> entrepreneur-failure-lessons-prashant-desai)
+- [This SECRET Brand is KILLING Nike and Adidas in India? | Business Case Study - YouTube](https://www.youtube.com/watch?v=qQPRWA9JNNQ)
+- [The Invincible Business of Diners - YouTube](https://www.youtube.com/watch?v=3mLEZaqUdE0)

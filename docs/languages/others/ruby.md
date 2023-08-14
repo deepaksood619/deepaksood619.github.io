@@ -147,3 +147,7 @@ An open source content management system for Rails 5.1+
 A free, open-source ecommerce platform that gives you complete control over your store.
 [https://solidus.io](https://solidus.io/)
 <https://github.com/solidusio/solidus>
+
+## Links
+
+[Christopher Hitchens on Ruby on Rails - YouTube](https://www.youtube.com/watch?v=KJ34KqJ6lcI)

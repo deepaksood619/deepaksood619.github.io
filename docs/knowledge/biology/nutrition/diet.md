@@ -32,3 +32,7 @@ Royal Institution - [Is Obesity a Choice? - with Giles Yeo](https://www.youtube.
 [The Man Who Can Predict How Long You Have Left To Live (To The Nearest Month): Gary Brecka | E225 - YouTube](https://www.youtube.com/watch?v=r3atRG5wvtg)
 
 [The Weight Loss Scientist: You've Been LIED To About Calories, Dieting & Losing Weight: Giles Yeo - YouTube](https://www.youtube.com/watch?v=Gy_vcL1cpP8)
+
+People are overweight because they eat too much. It is also really hard to stop. -- Scott Young
+
+- Your brain has specific neural circuitry designed to avoid starvation and, by extension, any rapid weight-loss. When you lose a lot of body fat, your hunger levels increase to encourage you to bring it back up.

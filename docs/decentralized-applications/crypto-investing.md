@@ -94,20 +94,12 @@
 
 ## Links
 
-[How to Spot Crypto Pump-and-Dump Schemes](https://www.coindesk.com/learn/how-to-spot-crypto-pump-and-dump-schemes)
-
-[Best Crypto Staking Pools in 2023 - Bear Market Passive Income? - YouTube](https://www.youtube.com/watch?v=mleAqEKEb10)
-
-[Best Crypto Staking Platforms & Reward Rates for 2023](https://milkroad.com/staking)
-
-[11 Best Defi Crypto Coins to Buy In 2023 - tastycrypto](https://www.tastycrypto.com/blog/top-defi-tokens)
-
-[Why Do People Buy Crypto | CoinGecko](https://www.coingecko.com/research/publications/why-people-buy-crypto)
-
-[The TOP Countries With ZERO CRYPTO TAXES - YouTube](https://www.youtube.com/watch?v=tdlmv4iHFb4&ab_channel=MoneyRules-InvestingTips)
-
-[How To Time The Market (And GET RICH!) - YouTube](https://www.youtube.com/watch?v=iXn2GyPHQB0)
-
-[Earn Crypto Passive Income: TOP METHODS Revealed!! 💸 - YouTube](https://www.youtube.com/watch?v=Sqo0pOd4dnI)
-
-[How to get Free Crypto without getting SCAMMED - 13 Real Methods - YouTube](https://www.youtube.com/watch?v=UuyS7YAkECA)
+- [How to Spot Crypto Pump-and-Dump Schemes](https://www.coindesk.com/learn/how-to-spot-crypto-pump-and-dump-schemes)
+- [Best Crypto Staking Pools in 2023 - Bear Market Passive Income? - YouTube](https://www.youtube.com/watch?v=mleAqEKEb10)
+- [Best Crypto Staking Platforms & Reward Rates for 2023](https://milkroad.com/staking)
+- [11 Best Defi Crypto Coins to Buy In 2023 - tastycrypto](https://www.tastycrypto.com/blog/top-defi-tokens)
+- [Why Do People Buy Crypto | CoinGecko](https://www.coingecko.com/research/publications/why-people-buy-crypto)
+- [The TOP Countries With ZERO CRYPTO TAXES - YouTube](https://www.youtube.com/watch?v=tdlmv4iHFb4&ab_channel=MoneyRules-InvestingTips)
+- [How To Time The Market (And GET RICH!) - YouTube](https://www.youtube.com/watch?v=iXn2GyPHQB0)
+- [Earn Crypto Passive Income: TOP METHODS Revealed!! 💸 - YouTube](https://www.youtube.com/watch?v=Sqo0pOd4dnI)
+- [How to get Free Crypto without getting SCAMMED - 13 Real Methods - YouTube](https://www.youtube.com/watch?v=UuyS7YAkECA)

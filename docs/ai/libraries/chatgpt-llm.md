@@ -132,10 +132,8 @@ Prompt: "I want to learn about {insert topic}. Identify and share the most impor
 
 ## Links
 
-[How to create a private ChatGPT with your own data | by Mick Vleeshouwer | Mar, 2023 | Medium](https://medium.com/@imicknl/how-to-create-a-private-chatgpt-with-your-own-data-15754e6378a1)
-
-[I Built a Hedge Fund Run by AI Agents - YouTube](https://www.youtube.com/watch?v=vnzt4lwzbXU)
-
-[State of GPT | BRK216HFS - YouTube](https://www.youtube.com/watch?v=bZQun8Y4L2A)
-
-[EMERGENCY EPISODE: Ex-Google Officer Finally Speaks Out On The Dangers Of AI! - Mo Gawdat | E252 - YouTube](https://www.youtube.com/watch?v=bk-nQ7HF6k4)
+- [How to create a private ChatGPT with your own data | by Mick Vleeshouwer | Mar, 2023 | Medium](https://medium.com/@imicknl/how-to-create-a-private-chatgpt-with-your-own-data-15754e6378a1)
+- [I Built a Hedge Fund Run by AI Agents - YouTube](https://www.youtube.com/watch?v=vnzt4lwzbXU)
+- [State of GPT | BRK216HFS - YouTube](https://www.youtube.com/watch?v=bZQun8Y4L2A)
+- [EMERGENCY EPISODE: Ex-Google Officer Finally Speaks Out On The Dangers Of AI! - Mo Gawdat | E252 - YouTube](https://www.youtube.com/watch?v=bk-nQ7HF6k4)
+- [Getting Started with LLMs: A Quick Guide to Resources and Opportunities](https://www.linkedin.com/pulse/getting-started-llms-guide-resources-opportunities-wendy-ran-wei/)

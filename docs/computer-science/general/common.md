@@ -58,10 +58,6 @@ While a [megabyte](https://techterms.com/definition/megabyte) can be estimated a
 
 The Year 2038 problem(also called Y2038, Epochalypse, Y2k38, or Unix Y2K) relates to representing time in many digital systems as the number of seconds passed since 00:00:00 [UTC](https://www.wikiwand.com/en/Coordinated_Universal_Time) on [1 January 1970](https://www.wikiwand.com/en/Unix_time) and storing it as a [signed 32-bit integer](https://www.wikiwand.com/en/Signed_number_representations). Such implementations cannot encode times after 03:14:07 UTC on 19 January 2038. Similar to the [Y2K problem](https://www.wikiwand.com/en/Year_2000_problem), the Year 2038 problem is caused by insufficient capacity used to represent time.
 
-## RFC
-
-4122 - UUID/GUID <https://tools.ietf.org/html/rfc4122.html>
-
 ## Epoch Time / Unix Time
 
 Unix time(also known asEpoch time, POSIX time, seconds since the Epoch, orUNIX Epoch time) is a system for describing a [point in time](https://www.wikiwand.com/en/Timestamp). It is the number of [seconds](https://www.wikiwand.com/en/Second) that have elapsed since theUnix epoch, minus [leap seconds](https://www.wikiwand.com/en/Leap_second); the Unix epoch is 00:00:00 [UTC](https://www.wikiwand.com/en/Coordinated_Universal_Time) on 1 January 1970 (an arbitrary date); leap seconds are ignored, with a leap second having the same Unix time as the second before it, and every day is treated as if it contains exactly86400seconds.Due to this treatment Unix time is not a true representation of UTC.

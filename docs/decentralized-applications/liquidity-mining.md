@@ -138,3 +138,5 @@ The weight systems allow the Curve DAO to dictate where the CRV inflation should
 - [Top 10 Liquidity Pool (LP) Tokens: Unleashing the Power of DeFi - CryptoTicker](https://cryptoticker.io/en/top-10-liquidity-pool-tokens/)
 - [What are liquidity provider (LP) tokens, and how do they work?](https://cointelegraph.com/explained/what-are-liquidity-provider-lp-tokens-and-how-do-they-work)
 - [What is a Liquidity Pool in Crypto? (Animated) - YouTube](https://www.youtube.com/watch?v=dVJzcFDo498)
+- [What is a Mining Pool in Crypto? (Animated + Examples) - YouTube](https://www.youtube.com/watch?v=6JytuGeMnKU)
+- [What is a Dark Pool in Crypto? When + Why + How to use one! - YouTube](https://www.youtube.com/watch?v=x75vOoUA4Vg)

@@ -1,7 +1,5 @@
 # Coins / Tokens / Chains
 
-## Links
-
 - [Coin Token Intro](decentralized-applications/coins-tokens-chains/coin-token-intro.md)
 - [Dual Token Economy](decentralized-applications/coins-tokens-chains/dual-token-economy.md)
 - [Wallets](decentralized-applications/coins-tokens-chains/wallets.md)
@@ -39,7 +37,7 @@
 - BNB (Binance)
 - Cardano (ADA)
 - XRP
-- Solana (SOL)
+- Solana (SOL) - [What is Solana? SOL Explained with Animations - YouTube](https://www.youtube.com/watch?v=1jzROE6EhxM)
   - Scalable - 50,000 TPS
   - Low transaction fees
   - <https://solana.com>
@@ -62,7 +60,7 @@
 
 ### MemeCoins
 
-- Dogecoin
+- Dogecoin - [Dogecoin Millionaire - Ripping apart a memecoin investor's claims - YouTube](https://www.youtube.com/watch?v=gBjkG4G8o9k)
 - Shiba Inu - [What is the Shiba Inu Coin? SHIB Explained with Animations - YouTube](https://www.youtube.com/watch?v=jGjmOjD_F-o)
 - Pepe
 - [Apecoin: APE Really Worth It?! What You NEED To Know!! 🦧 - YouTube](https://www.youtube.com/watch?v=Zi-7MqpbV4o)
@@ -74,6 +72,7 @@
 - Transactional Tokens
 - Utility Tokens
 - Governance Tokens
+- [What are Wrapped Tokens? (Explained with Animations) - YouTube](https://www.youtube.com/watch?v=DuwQ6NuPQp4)
 
 ### Others
 
@@ -109,6 +108,13 @@
 - [What is Fantom? FTM Explained with Animations - YouTube](https://www.youtube.com/watch?v=oRoS7VVwe7w)
 - [What is Neo? N3 Explained with Animations - YouTube](https://www.youtube.com/watch?v=I_vCOzEbSMI)
 - [What is Tezos - XTZ Self-Amending Explained with Animations - YouTube](https://www.youtube.com/watch?v=Umy75ihttwo)
+- [What is IOTA’s Tangle? mIOTA Explained with Animations - YouTube](https://www.youtube.com/watch?v=3K9DD5phJEY)
+- [What is Ripple? XRP Explained with Animations - YouTube](https://www.youtube.com/watch?v=dlxYUQIMzqo)
+- [What is IoTeX? IOTX Explained with Animations - YouTube](https://www.youtube.com/watch?v=WyHNu0rnZNk)
+- [What is Harmony One? ONE Explained with Animations - YouTube](https://www.youtube.com/watch?v=NyEZUfBmXWI)
+- [What is Elrond? eGLD Explained with Animations - YouTube](https://www.youtube.com/watch?v=0POflNQeHcI)
+- [A Decentralized Youtube: How Odysee and LBRY Work - YouTube](https://www.youtube.com/watch?v=RCB_udRbF7Q)
+- [What is Terra? UST and LUNA explained with Animations - YouTube](https://www.youtube.com/watch?v=U9lrH0loAns)
 
 #### Chainlink (Oracle) - LINK
 
@@ -165,3 +171,7 @@ Bitcoin Blockchain Size - 456.72 GB for Feb 18 2023
 Ethereum Chain Full Sync Data Size - 888.89 GB for Feb 19 2023
 
 [Ethereum Chain Full Sync Data Size](https://ycharts.com/indicators/ethereum_chain_full_sync_data_size)
+
+## Links
+
+- [Top 50 Cryptocurrencies summarized in 1 sentence - YouTube](https://www.youtube.com/watch?v=V-B6-ySxpbs)

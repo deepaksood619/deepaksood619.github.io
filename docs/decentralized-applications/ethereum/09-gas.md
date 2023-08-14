@@ -136,3 +136,4 @@ If you want to monitor gas prices, so you can send your ETH for less, you can us
 - [Proof of Stake versus Proof of Work](https://blockgeeks.com/guides/proof-of-work-vs-proof-of-stake/)
 - [Mining](https://ethereum.org/en/developers/docs/consensus-mechanisms/pow/mining/)
 - [What Is GAS? Ethereum HIGH Transaction Fees Explained - YouTube](https://www.youtube.com/watch?v=Yh8cHUB-KoU)
+- [What is Ethereum Gas? (Examples + Easy Explanation) - YouTube](https://www.youtube.com/watch?v=3ehaSqwUZ0s)
