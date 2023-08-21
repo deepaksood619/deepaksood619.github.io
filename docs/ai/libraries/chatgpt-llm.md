@@ -115,6 +115,9 @@ Prompt: "I want to learn about {insert topic}. Identify and share the most impor
 ## Dev Tools
 
 - [Welcome to LangChain - 🦜🔗 LangChain 0.0.180](https://python.langchain.com/en/latest/index.html)
+  - [Building LLM applications for production](https://huyenchip.com/2023/04/11/llm-engineering.html)
+  - [Introduction to LangChain LLM: A Beginner’s Guide](https://www.makeuseof.com/langchain-llm-introduction/)
+  - [How to Build LLM Applications with LangChain | DataCamp](https://www.datacamp.com/tutorial/how-to-build-llm-applications-with-langchain)
 - [Llama 2 - Meta AI](https://ai.meta.com/llama/)
 - [Building your Generative AI apps with Meta's Llama 2 and Databricks | Databricks Blog](https://www.databricks.com/blog/building-your-generative-ai-apps-metas-llama-2-and-databricks)
 - [GitHub - stoyan-stoyanov/llmflows: LLMFlows - Simple, Explicit and Transparent LLM Apps](https://github.com/stoyan-stoyanov/llmflows)
@@ -129,6 +132,7 @@ Prompt: "I want to learn about {insert topic}. Identify and share the most impor
 - [Large language models, explained with a minimum of math and jargon](https://www.understandingai.org/p/large-language-models-explained-with)
 - [Catching up on the weird world of LLMs](https://simonwillison.net/2023/Aug/3/weird-world-of-llms/)
 - [Llama from scratch (or how to implement a paper without crying) | Brian Kitano](https://blog.briankitano.com/llama-from-scratch/)
+- [Llama - EXPLAINED! - YouTube](https://www.youtube.com/watch?v=yZ9jkgN2xHQ)
 
 ## Links
 
@@ -136,4 +140,6 @@ Prompt: "I want to learn about {insert topic}. Identify and share the most impor
 - [I Built a Hedge Fund Run by AI Agents - YouTube](https://www.youtube.com/watch?v=vnzt4lwzbXU)
 - [State of GPT | BRK216HFS - YouTube](https://www.youtube.com/watch?v=bZQun8Y4L2A)
 - [EMERGENCY EPISODE: Ex-Google Officer Finally Speaks Out On The Dangers Of AI! - Mo Gawdat | E252 - YouTube](https://www.youtube.com/watch?v=bk-nQ7HF6k4)
+- [WARNING: ChatGPT Could Be The Start Of The End! Sam Harris - YouTube](https://www.youtube.com/watch?v=GmlrEgLGozw)
 - [Getting Started with LLMs: A Quick Guide to Resources and Opportunities](https://www.linkedin.com/pulse/getting-started-llms-guide-resources-opportunities-wendy-ran-wei/)
+- [DoctorGPT: Offline & Passes Medical Exams! - YouTube](https://www.youtube.com/watch?v=J9nJh33GM-w)

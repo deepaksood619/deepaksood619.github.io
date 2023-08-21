@@ -380,10 +380,6 @@ Consumption smoothing refers to **a process of achieving a balance between spend
 
 [Consumption Smoothing Definition, Affect on Living Standards](https://www.investopedia.com/terms/c/consumption-smoothing.asp)
 
-## Others
-
-[Contrarian Investing | Is Contrarian Investing Profitable? | ET Money](https://youtu.be/vnQRuNuJckE)
-
 ## Links
 
 [How to make money in stocks](../../book-summaries/how-to-make-money-in-stocks)

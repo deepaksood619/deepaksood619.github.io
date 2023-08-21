@@ -6,6 +6,10 @@
 - Dungeon Warfare 2
 - PCMR - PC Master Race
 
+### Mini Metro
+
+[My "strategy guide" for Mini Metro : r/MiniMetro](https://www.reddit.com/r/MiniMetro/comments/ceyt26/my_strategy_guide_for_mini_metro/)
+
 ## Others
 
 - [World Chase Tag - The Most INTENSE Chases From WCT5](https://www.youtube.com/watch?v=bo8sSGwo1UY)

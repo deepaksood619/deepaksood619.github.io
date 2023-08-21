@@ -22,7 +22,37 @@ Tableau represents data differently in the view depending on whether the field i
 
 Sometimes your data source does not contain a field (or column) that you need for your analysis. For example, your data source might contain fields with values for Sales and Profit, but not for Profit Ratio. If this is the case, you can create a calculated field for Profit Ratio using data from the Sales and Profit fields.
 
+Analysis > Create Calculated Field
+
+```sql
+-[Column Name]
+```
+
 [Create a Simple Calculated Field - Tableau](https://help.tableau.com/current/pro/desktop/en-us/calculations_calculatedfields_formulas.htm)
+
+## Parameters
+
+A parameter is a workbook variable such as a number, date, or string that can replace a constant value in a calculation, filter, or reference line.
+
+For example, you may create a calculated field that returns True if Sales is greater than $500,000 and otherwise returns False. You can replace the constant value of “500000” in the formula with a parameter. Then, using the parameter control, you can dynamically change the threshold in your calculation.
+
+You can even create a _dynamic_ parameter that’s set to automatically refresh its current value (to the result of a single-value, view-independent calculation), list of values (based on a data source column), or range of values. This will happen each time the workbook is opened and Tableau connects to the data source referenced by the parameter, or whenever you select Refresh from the data source’s context menu..
+
+You can make your parameters more dynamic and interactive by using them in [Parameter Actions](https://help.tableau.com/current/pro/desktop/en-us/actions_parameters.htm). Parameter actions let your audience change a parameter value through direct interaction with a viz, such as clicking or selecting a mark.
+
+[Create Parameters - Tableau](https://help.tableau.com/current/pro/desktop/en-us/parameters_create.htm)
+
+[**Parameters** | Oh, the places you'll go! - YouTube](https://www.youtube.com/watch?v=Xk9HnpmWtsU)
+
+## Sets
+
+You can use sets to compare and ask questions about a subset of data. Sets are custom fields that define a subset of data based on some conditions.
+
+You can make sets more dynamic and interactive by using them in [Set Actions](https://help.tableau.com/current/pro/desktop/en-us/actions_sets.htm). Set actions let your audience interact directly with a viz or dashboard to control aspects of their analysis. When someone selects marks in the view, set actions can change the values in a set.
+
+In addition to a Set Action, you can also allow users to change the membership of a set by using a filter-like interface known as a Set Control, which makes it easy for you to designate inputs into calculations that drive interactive analysis.
+
+[Create Sets - Tableau](https://help.tableau.com/current/pro/desktop/en-us/sortgroup_sets_create.htm)
 
 ## Workbooks and sheets
 

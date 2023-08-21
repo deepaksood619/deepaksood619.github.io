@@ -72,7 +72,7 @@ II: Create an air of mystery
 
 ## 7. Get others to do the work for you, but always take the credit
 
-Use the wisdom, knowledge, and legwork of other people to further your own cause. Not only will such assistance save you valuable time and energy, it will give you a godlike aura of efficiency and speed. In the end your helpers will be forgotten and you will be remembered. Never do yourself what others can do for you.
+Use the wisdom, knowledge, and legwork of other people to further your own cause. Not only will such assistance save you valuable time and energy, it will give you a god like aura of efficiency and speed. In the end your helpers will be forgotten and you will be remembered. Never do yourself what others can do for you.
 
 - You must secure the credit for yourself.
 - Learn to take advantage of others work to further your own cause.

@@ -33,6 +33,8 @@ An approach that allows for the aggregation of multiple transactions into a sing
 [Rollups Are L1s (& L2s) a.k.a. How Rollups \*Actually Actually Ac… — Jon Charbonneau](https://dba.mirror.xyz/LYUb_Y2huJhNUw_z8ltqui2d6KY8Fc3t_cnSE9rDL_o)
 [Open letter to Jon Charbonneau (or Rollups = Bridges + Blockchains) - Layer 2 - Ethereum Research](https://ethresear.ch/t/open-letter-to-jon-charbonneau-or-rollups-bridges-blockchains/15739)
 
+[Notion – The all-in-one workspace for your notes, tasks, wikis, and databases.](https://davidecrapis.notion.site/Rollups-are-Real-Rollup-Economics-2-0-2516079f62a745b598133a101ba5a3de)
+
 ## Intro
 
 These layer 2 solutions are intended to improve the efficiency and speed of transactions on the Ethereum network, while maintaining the security and decentralization of the underlying blockchain. Other blockchains, such as Bitcoin, also have their own layer 2 solutions, which include technologies like Lightning Network and Liquid Network.

@@ -2,26 +2,26 @@
 
 ## Shortest path variants
 
-## Which vertices?
+### Which vertices?
 
 - Single Source : from one vertex s to every other vertex.
 - Source-sink : from one vertex s to another vertex t
 - All pairs : between all pairs of vertices
 
-## Restrictions on edge weights?
+### Restrictions on edge weights?
 
-- Nonnegative weights
+- Non negative weights
 - Euclidean weights
 - Arbitrary weighs
 
-## Cycles?
+### Cycles?
 
 - No directed cycles
 - No "negative cycles"
 
 ## Concept
 
-## Edge Relaxation
+### Edge Relaxation
 
 Create SPT (Shortest Path Tree)
 
@@ -36,13 +36,9 @@ Optimality Condition (there is no edge we missed)
 ## Efficient implementations. How to choose which edge to relax?
 
 1. Topological sort algorithm (no directed cycles)
-
-2. Dijkstra's algorithm (nonnegative weights)
-
+2. Dijkstra's algorithm (non-negative weights)
 3. Bellman-Ford algorithm (no negative cycles)
-
 4. Ford - Fulkerson Algorithm (for maximum flow in a graph)
-
 5. Floyd-Warshall Algorithm (All pairs shortest path algorithm)
 
 ![image](../../media/Shortest-Path-Algorithms-image4.jpg)
@@ -68,7 +64,6 @@ Optimality Condition (there is no edge we missed)
 ## Advanced - Used in maps (precomputed)
 
 1. Highway-node routing
-
 2. Contraction hierarchies
 
 ## Applications - Arbitrage Detection

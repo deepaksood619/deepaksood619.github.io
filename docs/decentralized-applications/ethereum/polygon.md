@@ -26,6 +26,8 @@ Compared to Polkadot and Cosmos
 
 [Polygon 🛠️ Getting Started with Polygon ID - YouTube](https://www.youtube.com/watch?v=KRtkKx_uHQI)
 
+[How Does Polygon zkEVM Work?](https://blog.jarrodwatts.com/how-polygon-zkevm-proves-batches-of-transactions)
+
 ## Tools
 
 [Polygon Faucet](https://faucet.polygon.technology/)

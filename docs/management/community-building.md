@@ -94,3 +94,5 @@ Foster meaningful relationships with events, newsletters, and community analytic
 ## Links
 
 [Web3 Startups: How to Build a Developer Community | Web3 Startups - YouTube](https://www.youtube.com/watch?v=OeRxIvr5EPM)
+
+[What do I think about Community Notes?](https://vitalik.ca/general/2023/08/16/communitynotes.html)

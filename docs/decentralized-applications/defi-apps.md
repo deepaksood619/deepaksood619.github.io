@@ -24,4 +24,5 @@
 
 - [What is Fulcrum? How I Made $600 from ETH Crashing - YouTube](https://www.youtube.com/watch?v=OqTGu9NlaBI)
 - [I bought Tesla with Crypto! What is Mirror Protocol? - YouTube](https://www.youtube.com/watch?v=dCpckWMXi4o)
-- [What is Balancer? Crypto Index Funds and BAL Explained with Animations - YouTube](https://www.youtube.com/watch?v=IX6rUhNC8uA)
+- [What is Balancer? Crypto Index Funds and BAL Explained - YouTube](https://www.youtube.com/watch?v=IX6rUhNC8uA)
+- [TELEGRAM Trading Bots: Game-Changer or Fad?? - YouTube](https://www.youtube.com/watch?v=FzgE0EPFpfY)

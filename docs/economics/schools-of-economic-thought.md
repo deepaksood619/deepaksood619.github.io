@@ -21,7 +21,7 @@ measures which counteract the effects of the economic cycle
 
 ### Mercantilism
 
-an economic policy that is designed to maximize the exports and minimize the imports for an economy
+An economic policy that is designed to maximize the exports and minimize the imports for an economy, and often entails hoarding resources for one's own advantage
 
 [Mercantilism - Wikipedia](https://en.wikipedia.org/wiki/Mercantilism)
 

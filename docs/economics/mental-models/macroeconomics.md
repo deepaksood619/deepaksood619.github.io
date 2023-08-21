@@ -157,3 +157,5 @@ The **impossible trinity** (also known as **the impossible [trilemma](https://en
 - [Should The USA Isolate To Save Its Economy? | Economics Explained - YouTube](https://www.youtube.com/watch?v=mWk-5TvzQSU)
 - [Worst Cases of Hyperinflation: What It’s Like & How To Survive!! - YouTube](https://www.youtube.com/watch?v=EShqOy1dgek)
 - [The Game Theory Of Military Spending | Economics Explained - YouTube](https://www.youtube.com/watch?v=Vg9Aiz2piew)
+- [China Needs to Engineer a Beautiful Deleveraging](https://www.linkedin.com/pulse/china-needs-engineer-beautiful-deleveraging-ray-dalio/)
+- [In Search of Safe Havens: The Trust Deficit and Risk-free Investments! - YouTube](https://www.youtube.com/watch?v=XcywXZAbB8U)

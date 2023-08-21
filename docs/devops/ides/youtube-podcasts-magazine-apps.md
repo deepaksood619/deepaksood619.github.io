@@ -18,7 +18,8 @@
 
 ### Learning
 
-- The Royal Institution Lectures / Perimeter Institute for Theoretical Physics
+- The Royal Institution Lectures
+- Perimeter Institute for Theoretical Physics
 - Ted
 - Ted-Ed
 - Undecided with Matt Ferrell
@@ -59,12 +60,10 @@
 - Useful charts
 - Scott Manley
 - Computerphile
-- Amit Sengupta
 - Toastmasters
 - Be Smart
 - Minutefood
 - Quanta magazine
-- Perimiter institute for theoretical physics
 - Healthcare triage
 - Periodic Videos
 - TLC
@@ -93,10 +92,10 @@
 - Science Magazine
 - Theories of Everything with Curt Jaimungal
 - Visual politik EN
-- Minute food
 - [Zero To Finals - YouTube](https://www.youtube.com/@ZeroToFinals)
 - [Branch Education - YouTube](https://www.youtube.com/@BranchEducation)
 - Not what you think
+- Practical Engineering
 
 ### Future
 
@@ -105,6 +104,10 @@
 ### News
 
 - Top U.S. & World Headlines - Democracy Now
+- Finology Legal - Priya Jain
+- Amit Sengupta
+- Byju IAS DNA
+- Byju IAS Economy this week
 - BBC / BBC Reel
 - Aljajeera
 - Vice news
@@ -116,9 +119,6 @@
 - NonStop 100 aajtak
 - Hindi - 1 Minute, 1 Khabar
 - Hindi - Super 100: Non-Stop Superfast - IndiaTV
-- Byju IAS DNA
-- Byju IAS Economy this week
-- Finology Legal
 - Unacademy
 - Shark Tank
 - Dragon's den
@@ -129,15 +129,14 @@
 - 60 Minutes
 - Diplomatic dispatch - sansad tv
 - The daily show with Trevor noah
-- Priya Jain
 - Learn with finology
 - Labour Law Advisor
-- Practical Engineering
 
 ### Finance / Stocks / Personal finance
 
 - Economics Explained
-- Economics explained essentials
+- Epic economics - Economics explained essentials
+- A16z
 - ET Money / ETMoney
 - Shankar Nath
 - Zerodha online / Zerodha Varsity
@@ -152,7 +151,6 @@
 - Akshat Shrivastav
 - Pranjal Kamra
 - The madras trailer
-- A16z
 - Motilal Oswal Asset Management
 - Shrehith S Karkera
 

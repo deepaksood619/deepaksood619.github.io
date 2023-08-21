@@ -9,6 +9,8 @@
   - [Inequality](economics/mental-models/inequality.md)
 - [Finance / Investing](economics/finance-investing/readme.md)
 - [Government Terms](government-terms)
+  - [Inflation Indexes](economics/inflation-indexes.md)
+  - [Monetary Policies](economics/monetary-policies.md)
 - [Finance Terms](finance-terms)
 - [Investment Terms](investment-terms)
 - [Investment Banking](investment-banking)

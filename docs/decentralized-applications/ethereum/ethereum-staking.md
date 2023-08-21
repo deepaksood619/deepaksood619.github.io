@@ -118,12 +118,9 @@ wstETH is a wrapped version of stETH. Due to the nature of Lido, the amount of s
 
 ## Links
 
-[How Does Ethereum Staking Work?](https://www.coindesk.com/learn/how-does-ethereum-staking-work/)
-
-[Solo stake your ETH | ethereum.org](https://ethereum.org/en/staking/solo/)
-
-[Spin up your own Ethereum node | ethereum.org](https://ethereum.org/en/developers/docs/nodes-and-clients/run-a-node/)
-
-**[Validator FAQs](https://launchpad.ethereum.org/en/faq)**
-
-[How Do Ethereum Withdrawals Work? All You Need To Know - YouTube](https://www.youtube.com/watch?v=RwwU3P9n3uo)
+- [How Does Ethereum Staking Work?](https://www.coindesk.com/learn/how-does-ethereum-staking-work/)
+- [Solo stake your ETH | ethereum.org](https://ethereum.org/en/staking/solo/)
+- [Spin up your own Ethereum node | ethereum.org](https://ethereum.org/en/developers/docs/nodes-and-clients/run-a-node/)
+- **[Validator FAQs](https://launchpad.ethereum.org/en/faq)**
+- [How Do Ethereum Withdrawals Work? All You Need To Know - YouTube](https://www.youtube.com/watch?v=RwwU3P9n3uo)
+- [How To Stake ETH And Earn Staking Rewards: Step By Step](https://milkroad.com/invest/guide-to-staking/)

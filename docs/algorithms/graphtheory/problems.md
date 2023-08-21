@@ -16,9 +16,9 @@ This is an example of Hamiltonian Path Problem. If the path's starting point and
 
 ## Word Ladder Problem
 
-## Problem - Given two words transform one word to another by changing only one letter at a time from the given list of words
+Problem - Given two words transform one word to another by changing only one letter at a time from the given list of words
 
-## Solution - Have a bucket for each class of words, in each bucket every word is connected to each other
+Solution - Have a bucket for each class of words, in each bucket every word is connected to each other
 
 Ex - POP_ which will match both POPE and POPS
 

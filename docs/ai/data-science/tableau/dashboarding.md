@@ -42,3 +42,11 @@ Data source filters in Tableau are mainly used to restrict sensitive data from v
 [Filter Data from Your Views - Tableau](https://help.tableau.com/current/pro/desktop/en-us/filtering.htm)
 
 [Types of Filters in Tableau - Context Filter and More](https://intellipaat.com/blog/types-of-filters-in-tableau/)
+
+## Overlays
+
+[Create a dashboard overlay — ENTIRELY in Tableau | by Brittany Rosenau | Aug, 2023 | Medium](https://brittanyrosenau.medium.com/create-a-dashboard-overlay-entirely-in-tableau-a8e9543979e5)
+
+## Links
+
+[Tableau Dashboard for Sample Superstore Dataset - YouTube](https://www.youtube.com/watch?v=C5KSjZe5yWQ)

@@ -14,13 +14,19 @@
 
 ## Asia
 
-### China
+### China / Taiwan
 
 [Why China is Shrinking VERY Fast - YouTube](https://www.youtube.com/watch?v=KiaukPUV6Hg)
+
+[Why Taiwan is So Much Richer Than China - YouTube](https://www.youtube.com/watch?v=xT17zi_4Oas)
+
+[Taiwan is More Than Microchips and Tensions With China | Economics Explained - YouTube](https://www.youtube.com/watch?v=pvqkehKfQsg)
 
 ### Japan
 
 [https://japan-dev.com/blog/japanese-work-culture](https://japan-dev.com/blog/japanese-work-culture)
+
+[Why Japan Could Rise Again as an Economic Super-Power - YouTube](https://www.youtube.com/watch?v=IY1NFvVBm0U)
 
 #### Economies
 
@@ -34,9 +40,15 @@
 
 [Japan's 3 Lost Decades Explained - YouTube](https://www.youtube.com/watch?v=rohuJskoLMg)
 
-### Others
+### Middle East
 
-[Taiwan is More Than Microchips and Tensions With China | Economics Explained - YouTube](https://www.youtube.com/watch?v=pvqkehKfQsg)
+[Why the Middle East’s Borders Guarantee Forever Wars - YouTube](https://www.youtube.com/watch?v=JN4mnVLP0rU)
+
+[Why 82% of Saudi Arabians Just Live in These Lines - YouTube](https://www.youtube.com/watch?v=uz88EurZdrI)
+
+[Why Iraq is Dying - YouTube](https://www.youtube.com/watch?v=rkZfmySToZk)
+
+### Others
 
 [Who Controlled Jerusalem the Longest? - YouTube](https://www.youtube.com/watch?v=7GCXhKpoml0)
 

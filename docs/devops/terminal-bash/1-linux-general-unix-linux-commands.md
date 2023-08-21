@@ -758,6 +758,8 @@ Renice alters the scheduling priority of one or more running processes. The foll
 
 <https://www.howtoforge.com/linux-nice-command>
 
+[how greedy are your processes? | Linux niceness - YouTube](https://www.youtube.com/watch?v=GsF8R6DBxSg)
+
 ## nohup
 
 The nohup utility invokes utility with its arguments and at this time sets the signal SIGHUP to be ignored. If the standard output is a terminal, the standard output is appended to the file nohup.out in the current directory. If standard error is a terminal, it is directed to the same place as the standard output.

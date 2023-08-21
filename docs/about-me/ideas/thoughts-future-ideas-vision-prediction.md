@@ -16,6 +16,8 @@ Blockchain and smart contract reinvents trust and solve lies/frauds mathematical
 
 Blockchain reinvents trust.
 
+Humans cannot be trusted, they trust software more than other humans - Haven't you studied true history as to what humans have done to other humans.
+
 ## Arguments
 
 What is your sample size?
@@ -44,6 +46,8 @@ What is your sample size?
 [The Dead Internet Theory - YouTube](https://www.youtube.com/watch?v=9WB5grLMXkU)
 
 [Are future humans really our problem? - YouTube](https://www.youtube.com/watch?v=FQss1IH3MFA)
+
+[Engineering Breakthroughs That Will FEED The World - YouTube](https://www.youtube.com/watch?v=tQZM38N9ICo)
 
 ## Links
 

@@ -34,3 +34,5 @@ Recommended portfolio for aggressive investors:
 [How do Mutual Funds work? - YouTube](https://www.youtube.com/watch?v=OuYvU5m2rhQ)
 
 [Building a mutual fund portfolio - YouTube](https://www.youtube.com/watch?v=6Zrl3ZeqqsE)
+
+[5 Mutual Funds you must have in your portfolio | Mutual Fund investment - YouTube](https://www.youtube.com/watch?v=QiFo-Bw2dyI)

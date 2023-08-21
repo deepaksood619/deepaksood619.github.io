@@ -101,3 +101,11 @@ You can claim exemption against any long-term capital gains tax liability if you
 6. Rajeev Thakkar - PPFAS - PPFCF
 
 <https://www.moneycontrol.com/india-investors-portfolio>
+
+## Links
+
+[Contrarian Investing | Is Contrarian Investing Profitable? | ET Money](https://youtu.be/vnQRuNuJckE)
+
+[8 Contrarian Investing Strategies | 31% Return from "Portfolio of Losers" | Contra Mutual Funds - YouTube](https://www.youtube.com/watch?v=EtuJa-TnSc4)
+
+[Stock Market Investing Strategies - YouTube](https://www.youtube.com/playlist?list=PLJND7T5G_LHDgNeP6OgIrwlOC0h0LNAH6)

@@ -21,6 +21,25 @@
   - Investment - 1005.8 tonnes
   - Central banks and other financial institutions - 453.8 tonnes
 
+### Gold Reserves
+
+#### Top 10 Countries With the Most Gold Reserves
+
+1. United States: 8,133 metric tons ($480.84 billion)
+2. Germany: 3,355 metric tons ($198.35 billion)
+3. Italy: 2,452 metric tons ($144.97 billion)
+4. France: 2,437 metric tons ($144.08 billion)
+5. Russia: 2,299 metric tons ($135.92 billion)
+6. China: 1,948 metric tons ($115.17 billion)
+7. Switzerland: 1,040 metric tons ($61.49 billion)
+8. Japan: 846 metric tons ($50.02 billion)
+9. India: 785 metric tons ($46.41 billion)
+10. Netherlands: 612 metric tons ($36.18 billion)
+
+[Which World Countries Have the Most Gold?](https://www.madisontrust.com/information-center/which-world-countries-have-the-most-gold/)
+
+[What Countries Have the Largest Gold Reserves?](https://www.investopedia.com/ask/answers/040715/what-countries-have-largest-gold-reserves.asp)
+
 ### Continent wise household wealth
 
 - North America - $158.1 trillion

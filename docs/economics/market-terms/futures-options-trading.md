@@ -354,3 +354,23 @@ You can configure a combination strategy according to the market, the time frame
 [Option buying to earn regular income | Option buying strategy by Kunal Saraogi | Options course | - YouTube](https://www.youtube.com/watch?v=otCMZmg3Sgk)
 
 [Physical settlement of futures and options - YouTube](https://www.youtube.com/watch?v=Llp4xW2GI4s)
+
+## Learning
+
+[Day Trading for Beginners - YouTube](https://www.youtube.com/playlist?list=PL0u56lu3jgFf2gBxz7mMq7_0k0UvG7ZOe)
+
+[Value Investing with Sven Carlin, Ph.D. - YouTube](https://www.youtube.com/@Value-Investing)
+
+## Why & How of Trading
+
+[Can Day Traders Really Make Money? - YouTube](https://www.youtube.com/watch?v=vRtVrc0vE8k)
+
+[Why DAY TRADING is More Profitable than INVESTING - YouTube](https://www.youtube.com/watch?v=WaXSXYcESww)
+
+[The Truth About Day Trading - YouTube](https://www.youtube.com/watch?v=qhHOmZVAqBE)
+
+[If You Don't Exit You Don't Survive In Stock Market | Shashwat Amrev | Josh Talks - YouTube](https://www.youtube.com/watch?v=UwGSzhjsceI)
+
+[The Truth About Day Trading - YouTube](https://www.youtube.com/watch?v=IQAeaWC5wlE)
+
+[I Tried Day Trading With $1,000 - YouTube](https://www.youtube.com/watch?v=QMK70LE4-AY)

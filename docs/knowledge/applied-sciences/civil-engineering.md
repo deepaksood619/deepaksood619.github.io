@@ -45,3 +45,11 @@ Thermal insulation refers to the provisions or constructions employed to reduce 
 Humans design buildings according to conditions they themselves have created but seem to have lost control over, so these phenomena have gained a certain autonomy
 
 Habitat - 67 - [How a 23-Year-Old Solved Urban Sprawl - YouTube](https://www.youtube.com/watch?v=Qwbp9T-WS-I)
+
+## Links
+
+[Does Rebar Rust? - YouTube](https://www.youtube.com/watch?v=PLF18H9JGHs)
+
+[Sand Castle Holds Up A Car! - Mechanically Stabilized Earth - YouTube](https://www.youtube.com/watch?v=0olpSN6_TCc)
+
+[How Water Towers Work - YouTube](https://www.youtube.com/watch?v=yZwfcMSDBHs)

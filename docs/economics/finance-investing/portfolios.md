@@ -194,3 +194,5 @@ The balance 40% of the amount, which is Rs.200,000/- can be utilized for active 
 ## Portfolios
 
 [An insight on Motilal Oswal Hedged Equity Multi-factor Strategy - AIF - YouTube](https://www.youtube.com/watch?v=rOmibLlyH8Y)
+
+[6 Steps to build momentum portfolio | What is a momentum portfolio? | How to measure momentum? - YouTube](https://www.youtube.com/watch?v=eMuGV8t3ejo)

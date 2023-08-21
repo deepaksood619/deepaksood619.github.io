@@ -211,8 +211,8 @@ In the late 16th and early 17th centuries, Thomas Hobson worked as a licensed ca
 ## Market Failure
 
 - [Social vs Market Norms](https://en.wikipedia.org/wiki/Predictably_Irrational#Being_Paid_vs._A_Friendly_Favor) - "People are happy to do things occasionally when they are not paid for them. In fact there are some situations in which work output is negatively affected by payment of small amounts of money."
-- [Information Asymmetry](https://en.wikipedia.org/wiki/Information_asymmetry) - "The study of decisions in transactions where one party has more or better information than the other." (related:**[adverse selection](https://en.wikipedia.org/wiki/Adverse_selection)**--- "when traders with better private information about the quality of a product will selectively participate in trades which benefit them the most.";[moral hazard](https://en.wikipedia.org/wiki/Moral_hazard) - "when one person takes more risks because someone else bears the cost of those risks.")
-- [Externalities](https://en.wikipedia.org/wiki/Externality) - "An externality is the cost or benefit that affects a party who did not choose to incur that cost or benefit." (related:**[tragedy of the commons](https://en.wikipedia.org/wiki/Tragedy_of_the_commons)**--- "A situation within a shared-resource system where individual users acting independently according to their own self-interest behave contrary to the common good of all users by depleting that resource through their collective action";[free rider problem](https://en.wikipedia.org/wiki/Free_rider_problem) - "when those who benefit from resources, goods, or services do not pay for them, which results in an under-provision of those goods or services.";[Coase theorem](https://en.wikipedia.org/wiki/Coase_theorem) - "if trade in an externality is possible and there are sufficiently low transaction costs, bargaining will lead to a Pareto efficient outcome regardless of the initial allocation of property.";[NIMBY](https://en.wikipedia.org/wiki/NIMBY) - "Not In My Back Yard")
+- [Information Asymmetry](https://en.wikipedia.org/wiki/Information_asymmetry) - "The study of decisions in transactions where one party has more or better information than the other." (related: **[adverse selection](https://en.wikipedia.org/wiki/Adverse_selection)**--- "when traders with better private information about the quality of a product will selectively participate in trades which benefit them the most."; [moral hazard](https://en.wikipedia.org/wiki/Moral_hazard) - "when one person takes more risks because someone else bears the cost of those risks.")
+- [Externalities](https://en.wikipedia.org/wiki/Externality) - "An externality is the cost or benefit that affects a party who did not choose to incur that cost or benefit." (related: **[tragedy of the commons](https://en.wikipedia.org/wiki/Tragedy_of_the_commons)**--- "A situation within a shared-resource system where individual users acting independently according to their own self-interest behave contrary to the common good of all users by depleting that resource through their collective action"; [free rider problem](https://en.wikipedia.org/wiki/Free_rider_problem) - "when those who benefit from resources, goods, or services do not pay for them, which results in an under-provision of those goods or services."; [Coase theorem](https://en.wikipedia.org/wiki/Coase_theorem) - "if trade in an externality is possible and there are sufficiently low transaction costs, bargaining will lead to a Pareto efficient outcome regardless of the initial allocation of property."; [NIMBY](https://en.wikipedia.org/wiki/NIMBY) - "Not In My Back Yard")
 
 The economic problem of overconsumption and depletion of shared resources
 
@@ -230,7 +230,7 @@ The economic problem of overconsumption and depletion of shared resources
 
 - [Nature vs Nurture](https://en.wikipedia.org/wiki/Nature_versus_nurture) - "the relative importance of an individual's innate qualities as compared to an individual's personal experiences in causing individual differences, especially in behavioral traits."
 - (2) Chain Reaction - "A sequence of reactions where a reactive product or by-product causes additional reactions to take place. In a chain reaction, positive feedback leads to a self-amplifying chain of events." (related:[cascading failure](https://en.wikipedia.org/wiki/Cascading_failure), [domino effect](https://en.wikipedia.org/wiki/Domino_effect))
-- (2) Filling a Vacuum - A [vacuum](https://en.wikipedia.org/wiki/Vacuum)"is space void of matter." Filling a vacuum refers to the fact that if a vacuum is put next to something with pressure, it will be quickly filled by the gas producing that pressure. (related:[power vacuum](https://en.wikipedia.org/wiki/Power_vacuum))
+- (2) Filling a Vacuum - A [vacuum](https://en.wikipedia.org/wiki/Vacuum) "is space void of matter." Filling a vacuum refers to the fact that if a vacuum is put next to something with pressure, it will be quickly filled by the gas producing that pressure. (related:[power vacuum](https://en.wikipedia.org/wiki/Power_vacuum))
 - [Emergence](https://en.wikipedia.org/wiki/Emergence#See_also) - "Whereby larger entities, patterns, and regularities arise through interactions among smaller or simpler entities that themselves do not exhibit such properties." (related:[decentralized system](https://en.wikipedia.org/wiki/Decentralised_system), [spontaneous order](https://en.wikipedia.org/wiki/Spontaneous_order))
 - [Natural Selection](https://en.wikipedia.org/wiki/Natural_selection) - "The differential survival and reproduction of individuals due to differences in phenotype. It is a key mechanism of evolution, the change in heritable traits of a population over time."
 - [Butterfly Effect](https://en.wikipedia.org/wiki/Butterfly_effect#See_also) - "The concept that small causes can have large effects." (related:[bullwhip effect](https://en.wikipedia.org/wiki/Bullwhip_effect) - "increasing swings in inventory in response to shifts in customer demand as you move further up the supply chain.")
@@ -255,11 +255,11 @@ The economic problem of overconsumption and depletion of shared resources
 
 ## Catch-22
 
-Acatch-22is a [paradoxical](https://en.wikipedia.org/wiki/Paradox) situation from which an individual cannot escape because of contradictory rules or limitations.The term was coined by [Joseph Heller](https://en.wikipedia.org/wiki/Joseph_Heller), who used it in his 1961 novel [Catch-22](https://en.wikipedia.org/wiki/Catch-22).
+Acatch-22 is a [paradoxical](https://en.wikipedia.org/wiki/Paradox) situation from which an individual cannot escape because of contradictory rules or limitations.The term was coined by [Joseph Heller](https://en.wikipedia.org/wiki/Joseph_Heller), who used it in his 1961 novel [Catch-22](https://en.wikipedia.org/wiki/Catch-22).
 
 An example is:
 
-In needing experience to get a job..."How can I get any experience until I get a job thatgivesme experience?" -- Brantley Foster in [The Secret of My Success](https://en.wikipedia.org/wiki/The_Secret_of_My_Success_(1987_film)).
+In needing experience to get a job... "How can I get any experience until I get a job that gives me experience?" -- Brantley Foster in [The Secret of My Success](https://en.wikipedia.org/wiki/The_Secret_of_My_Success_(1987_film)).
 
 <https://en.wikipedia.org/wiki/Catch-22_(logic)>
 
@@ -273,15 +273,15 @@ A complex system that works is invariably found to have evolved from a simple sy
 
 ## Chesterton's Fence (in Second-order thinking)
 
-Chesterton's fenceis the principle that reforms should not be made until the reasoning behind the existing state of affairs is understood. The quotation is from [G. K. Chesterton](https://en.wikipedia.org/wiki/G._K._Chesterton)'s 1929 bookThe Thing, in the chapter entitled "The Drift from Domesticity":
+Chesterton's fence is the principle that reforms should not be made until the reasoning behind the existing state of affairs is understood. The quotation is from [G. K. Chesterton](https://en.wikipedia.org/wiki/G._K._Chesterton)'s 1929 bookThe Thing, in the chapter entitled "The Drift from Domesticity":
 
 In the matter of reforming things, as distinct from deforming them, there is one plain and simple principle; a principle which will probably be called a paradox. There exists in such a case a certain institution or law; let us say, for the sake of simplicity, a fence or gate erected across a road. The more modern type of reformer goes gaily up to it and says, "I don't see the use of this; let us clear it away." To which the more intelligent type of reformer will do well to answer: "If you don't see the use of it, I certainly won't let you clear it away. Go away and think. Then, when you can come back and tell me that you do see the use of it, I may allow you to destroy it."
 
-## Do not remove a fence until you know why it was put up in the first place
+**Do not remove a fence until you know why it was put up in the first place**
 
 Don't change something until you know why it was there in the first place. It's also a way to look at reforms, and to understand the second order effects of an action.
 
-## Unless we know why someone made a decision, we can't safely change it or conclude that they were wrong
+**Unless we know why someone made a decision, we can't safely change it or conclude that they were wrong**
 
 <https://abovethelaw.com/2014/01/the-fallacy-of-chestertons-fence>
 
@@ -427,7 +427,7 @@ Human capital is unique and differs from any other capital. It is needed for com
 
 ## Hedonic Treadmill / Hedonic Adaptation
 
-Thehedonic treadmill, also known ashedonic adaptation, is the observed tendency of [humans](https://www.wikiwand.com/en/Human) to quickly return to a relatively stable level of [happiness](https://www.wikiwand.com/en/Happiness) despite major positive or negative events or life changes.According to this theory, as a person makes more money, expectations and desires rise in tandem, which results in no permanent gain in happiness.
+The hedonic treadmill, also known as hedonic adaptation, is the observed tendency of [humans](https://www.wikiwand.com/en/Human) to quickly return to a relatively stable level of [happiness](https://www.wikiwand.com/en/Happiness) despite major positive or negative events or life changes. According to this theory, as a person makes more money, expectations and desires rise in tandem, which results in no permanent gain in happiness.
 
 <https://www.wikiwand.com/en/Hedonic_treadmill>
 

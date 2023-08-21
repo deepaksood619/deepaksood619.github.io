@@ -2,19 +2,17 @@
 
 Time Complexity: O(V+E) where V is number of vertices in the graph and E is number of edges in the graph.
 
-DFS "is an algorithm for traversing or searching tree data structure. One starts at the root and explores as far as possible along each branch before backtracking."---[Wikipedia](https://en.wikipedia.org/wiki/Depth-first_search)
+DFS "is an algorithm for traversing or searching tree data structure. One starts at the root and explores as far as possible along each branch before backtracking.
 
-DFS explores a path all the way to a leaf before backtracking and exploring another path. Let's take a look at an example with this type of traversal.
+### DFS Traversal of a Graph vs Tree
 
-When we go deep to the leaf and backtrack, this is called DFS algorithm.
+In the graph, there might be cycles and disconnectivity. Unlike the graph, the tree does not contain a cycle and are always connected. So DFS of a tree is relatively easier. We can simply begin from a node, then traverse its adjacent (or children) without caring about cycles. And if we begin from a single node (root), and traverse this way, it is guaranteed that we traverse the whole tree as there is no dis-connectivity,
 
 ## DFS Traversal Types
 
-1. **Pre-order [Root, Left, Right]**
-
-2. **In-order [Left, Root, Right]**
-
-3. **Post-order [Left, Right, Root]**
+1. `Pre-order [Root, Left, Right]`
+2. `In-order [Left, Root, Right]`
+3. `Post-order [Left, Right, Root]`
 
 ## Pre-order
 
@@ -23,9 +21,7 @@ When we go deep to the leaf and backtrack, this is called DFS algorithm.
 The result for this algorithm will be 1--2--3--4--5--6--7.
 
 1. Print the value of the node.
-
 2. Go to the left child and print it. This is if, and only if, it has a left child.
-
 3. Go to the right child and print it. This is if, and only if, it has a right child.
 
 ```python
@@ -59,9 +55,7 @@ def in_order(self):
 ```
 
 1. Go to the left child and print it. This is if, and only if, it has a left child.
-
 2. Print the node's value
-
 3. Go to the right child and print it. This is if, and only if, it has a right child.
 
 ## Post-order
@@ -84,12 +78,10 @@ def post_order(self):
 ```
 
 1. Go to the left child and print it. This is if, and only if, it has a left child.
-
 2. Go to the right child and print it. This is if, and only if, it has a right child.
-
 3. Print the node's value
 
-## Algorithm
+## Algorithm for DFS in a graph
 
 DFS(to visit a vertex v)
 
@@ -118,7 +110,6 @@ public void dfs(Graph G, int v) {
 ## Properties
 
 1. DFS marks all vertices connected to s in time proportional to the sum of their degrees.
-
 2. After DFS, we can find vertices connected to s in constant time and can find a path to s (if one exists) in time proportional to its length.
 
 ## Union-Find vs DFS
@@ -148,9 +139,12 @@ Maze Graph
 ## Properties
 
 1. DFS marks all vertices connected to s in time proportional to the sum of their degrees.
-
 2. After DFS, we can find vertices connected to s in constant time and can find a path to s (if one exists) in time proportional to its length.
 
 ## Example
 
 1. Flood fill (Photoshop magic wand)
+
+## Links
+
+[DFS | Wikipedia](https://en.wikipedia.org/wiki/Depth-first_search)

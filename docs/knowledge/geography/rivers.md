@@ -49,6 +49,8 @@
 
 ![image](../../media/Rivers-image1.jpg)
 
+[How Wells & Aquifers Actually Work - YouTube](https://www.youtube.com/watch?v=bG19b06NG_w)
+
 [Rivers of India - Geography UPSC, IAS, CDS, NDA, SSC CGL, PCS](https://youtube.com/playlist?list=PL1vNLZF5gfwes_mQ3u4B8KLBUp0ezwjv6)
 
 ## Rivers

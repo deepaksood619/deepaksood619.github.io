@@ -4,6 +4,7 @@
 - [Glossary](glossary)
 - [Sampling](sampling)
 - [Ranking](mathematics/statistics/ranking.md)
+- [Crosstab](mathematics/statistics/crosstab.md)
 - [Percentiles](mathematics/statistics/percentiles.md)
 - [Descriptive Statistics](descriptive-statistics)
 - [Correlation and Covariance](correlation-and-covariance)
