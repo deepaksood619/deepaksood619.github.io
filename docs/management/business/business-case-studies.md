@@ -357,4 +357,6 @@ Marketing tactic used, light the agarbatti in-front of store and left for 2 days
 - [Dream, determination, defeat – six lessons in analysing startup failure from a candid entrepreneur story](<https://yourstory.com/2022/02/-> entrepreneur-failure-lessons-prashant-desai)
 - [This SECRET Brand is KILLING Nike and Adidas in India? | Business Case Study - YouTube](https://www.youtube.com/watch?v=qQPRWA9JNNQ)
 - [The Invincible Business of Diners - YouTube](https://www.youtube.com/watch?v=3mLEZaqUdE0)
-- [How EMIRATES is WINNING when Other AIRLINES are going BANKRUPT? - YouTube](https://www.youtube.com/watch?v=cftToIr9sAo)
+- [How EMIRATES is WINNING when Other AIRLINES are going BANKRUPT - YouTube](https://www.youtube.com/watch?v=cftToIr9sAo)
+- [How Blissclub TOOK OVER India’s 500 Crore Athleisure Market | GrowthX Wireframe - YouTube](https://www.youtube.com/watch?v=NnWaAVNd370)
+- [The Rise & Fall of Under Armour - YouTube](https://www.youtube.com/watch?v=HeWdxezd_CU)

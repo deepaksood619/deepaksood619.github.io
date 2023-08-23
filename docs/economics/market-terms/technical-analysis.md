@@ -92,7 +92,6 @@ In Japanese, Doji means blunder or mistake
 ### 4. Paper umbrella
 
 - Hammer
-
 - Hanging man
 
 ### 5. Shooting star

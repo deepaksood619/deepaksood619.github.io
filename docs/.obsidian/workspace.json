@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "knowledge/games/chess.md",
+                "file": "algorithms/general/union-find-algorithm.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"henry ford\"",
+                "query": "faker",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -81,7 +81,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -101,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "knowledge/games/chess.md",
+                "file": "algorithms/general/union-find-algorithm.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "knowledge/games/chess.md",
+                "file": "algorithms/general/union-find-algorithm.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "knowledge/games/chess.md"
+                "file": "algorithms/general/union-find-algorithm.md"
               }
             }
           },
@@ -184,39 +185,40 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-spaced-repetition:Review flashcards": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "periodic-notes:Open today": false
     }
   },
-  "active": "978fd2faf621af33",
+  "active": "f6c261755f7d2afd",
   "lastOpenFiles": [
-    "knowledge/games/chess.md",
-    "knowledge/quotes-proverbs/life.md",
-    "management/business/business-case-studies.md",
-    "office/personality/addresses-electricity.md",
-    "knowledge/general/mental-models.md",
-    "knowledge/quotes-proverbs/funny.md",
-    "knowledge/quotes-proverbs/my-quotes.md",
-    "economics/market-terms/futures-options-trading.md",
-    "office/personality/movies-serials-apps.md",
-    "economics/financial-facts.md",
-    "algorithms/dynamic-programming/basic-gold-mines.md",
-    "economics/finance-investing/portfolios.md",
-    "book-summaries/48-laws-of-power.md",
-    "about-me/ideas/thoughts-future-ideas-vision-prediction.md",
-    "ai/data-science/tableau/dashboarding.md",
-    "ai/data-science/tableau/concepts.md",
-    "ai/data-science/tableau/others.md",
-    "economics/finance-investing/stocks-equity.md",
-    "economics/finance-investing/checklist-tips.md",
-    "economics/market-terms/readme.md",
-    "ai/data-science/tableau/readme.md",
-    "ai/data-science/tableau/data-model.md",
-    "ai/data-science/tableau/architecture-components.md",
-    "economics/schools-of-economic-thought.md",
-    "psychology/consumerism.md",
+    "ai/libraries/chatgpt-llm.md",
+    "technologies/others/readme.md",
+    "technologies/others/other-technologies.md",
+    "databases/others/readme.md",
+    "databases/others/technologies-tools.md",
+    "computer-science/testing/postman.md",
+    "python/advanced/web-scraping.md",
+    "computer-science/security/ethical-hacking.md",
+    "ai/computer-vision-cv/cv-libraries-tools.md",
+    "computer-science/general/newsletter-learning-resources.md",
     "devops/ides/youtube-podcasts-magazine-apps.md",
+    "about-me/ideas/intro.md",
+    "office/cakedefi/sql-queries.md",
+    "knowledge/biology/nutrition/food.md",
+    "knowledge/biology/nutrition/pulses-daal-lentils.md",
+    "knowledge/biology/exercise-stretching/gym-nutrition.md",
+    "office/blocktoons/about.md",
+    "office/blocktoons/product.md",
+    "networking/others/delta-lake.md",
+    "languages/sql/ddl-data-definition-language/create-table.md",
+    "languages/sql/ddl-data-definition-language/readme.md",
+    "devops/terminal-bash/networking-tools.md",
+    "languages/frameworks/android/readme.md",
+    "ai/courses/others-resources-interview.md",
+    "decentralized-applications/references-learning.md",
+    "ai/data-science/tableau/augmented-analytics.md",
+    "media/Screenshot 2023-08-21 at 11.17.31 AM.jpg",
     "media/Pasted image 20230817174312.png",
     "media/Pasted image 20230811165442.png",
     "media/Pasted image 20230805120712.png",
@@ -226,7 +228,6 @@
     "media/Pasted image 20230726123953.png",
     "media/Pasted image 20230721133751.png",
     "media/Pasted image 20230719181140.png",
-    "media/Pasted image 20230718133117.png",
     "ai/data-science/tableau",
     "Untitled",
     "office.zip",

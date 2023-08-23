@@ -81,8 +81,7 @@ In the multicap category, the allocation decision is left to the fund manager wh
 7. Dividend Aristocrat
 8. Dividend stars
 9. SmartNifty index
-
-1. Gulaq - <https://www.gulaq.com>
+10. Gulaq - <https://www.gulaq.com>
 
 ## Analysis
 

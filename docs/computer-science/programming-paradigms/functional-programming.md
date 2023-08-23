@@ -73,5 +73,7 @@ Technically, a monad is an endofunctor, meaning that it's something that maps a 
 ## What is monad programming?
 
 Monad programming is a technique of composing different monadic values into one big monad. After that it's easy to process all side effects, because they are concentrated just in one monad, rather than many monads.
-<https://www.toptal.com/javascript/option-maybe-either-future-monads-js>
-[Functional Programming & Haskell - Computerphile](https://www.youtube.com/watch?v=LnX3B9oaKzw)
+
+- <https://www.toptal.com/javascript/option-maybe-either-future-monads-js>
+- [Functional Programming & Haskell - Computerphile](https://www.youtube.com/watch?v=LnX3B9oaKzw)
+- [Cultivating an Engineering Dialect • George Wilson • YOW 2021 - YouTube](https://www.youtube.com/watch?v=L4h6VegK1BI)

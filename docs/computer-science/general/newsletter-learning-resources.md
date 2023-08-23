@@ -2,11 +2,7 @@
 
 <https://www.freecodecamp.org/news/how-to-create-an-email-newsletter-design-layout-send>
 
-## #1
-
-This is a weekly newsletter for our tech team. This will contain links worth reading in and around tech.
-
-## So this week it's all about databases
+## Databases
 
 1. <https://medium.com/analytics-vidhya/categories-of-databases-a-primer-9781a3b24285>
 2. <https://www.toptal.com/database/database-design-bad-practices>
@@ -20,10 +16,6 @@ This is a weekly newsletter for our tech team. This will contain links worth rea
 2. <https://www.toptal.com/database/sql-indexes-explained-pt-1>
 3. <https://fauna.com/blog/introduction-to-transaction-isolation-levels>
 
-Some links are prettydeep and if you have any difficulty understanding any concept feel free to reach out to me.
-
-Quote of the Week:"Computer programming is an art because it applies accumulated knowledge to the world, because it requires skill and ingenuity, and especially because it produces objects of beauty. Programmers who subconsciously view themselves as artists will enjoy what they do and will do it better." -- Donald Knuth
-
 ## Websites worth checking out
 
 1. <https://www.freecodecamp.org>
@@ -32,16 +24,14 @@ Quote of the Week:"Computer programming is an art because it applies accumulated
 4. [daily.dev | Where developers grow together](https://daily.dev/)
 5. [GitHub - jwasham/coding-interview-university: A complete computer science study plan to become a software engineer.](https://github.com/jwasham/coding-interview-university)
 
-## Youtube channelsworth subscribing
+## Youtube channels worth subscribing
 
 1. GotoConf -<https://www.youtube.com/user/GotoConferences>
 2. InfoQ -<https://www.youtube.com/user/MarakanaTechTV>
 3. Coding Tech -<https://www.youtube.com/channel/UCtxCXg-UvSnTKPOzLH4wJaQ>
 4. Tech Dummies -<https://www.youtube.com/channel/UCn1XnDWhsLS5URXTi5wtFTA>
 
-## #2
-
-## This is all about Coding
+## Coding
 
 - High Cohesion
 - Low Coupling
@@ -106,8 +96,11 @@ Give tech talk - Learning + Note taking + Zettlekasten - Obsidian / Onenote + Do
 - <https://github.com/danistefanovic/build-your-own-x>
 - <https://github.com/gothinkster/realworld>
 - <https://codebase.show/projects/realworld>
+- [GitHub - awesome-selfhosted/awesome-selfhosted: A list of Free Software network services and web applications which can be hosted on your own servers](https://github.com/awesome-selfhosted/awesome-selfhosted)
+- [GitHub - trimstray/the-book-of-secret-knowledge: A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.](https://github.com/trimstray/the-book-of-secret-knowledge)
+- [GitHub - chubin/cheat.sh: the only cheat sheet you need](https://github.com/chubin/cheat.sh)
 
-Make sure to finish following documentation and POC in next 30-45 days, since after that you will not get time, since tasks will be very aggressive
+## Fundamental Tech
 
 - Python (OOPS concept)
 - Writing Clean Code

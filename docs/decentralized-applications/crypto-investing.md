@@ -2,6 +2,13 @@
 
 - Don't buy it, mine it
 
+### Buy and HODL
+
+- Bitcoin
+- Ethereum
+- Solana
+- Polygon (MATIC) (Maybe)
+
 ### Gas Fees Comparison
 
 - [L1 & L2 Comparisons & Benchmarks - Cross-Chain Usage, Growth, Gas, Fees](https://dune.com/msilb7/l2-and-l1-fee-comparison-benchmarks)

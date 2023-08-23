@@ -64,9 +64,7 @@
 58. [wget](https://www.gnu.org/software/wget/)--retrieving files using HTTP, HTTPS, FTP and FTPS.
 59. [Wireless Tools for Linux](https://hewlettpackard.github.io/wireless-tools/Tools.html)-- includesiwconfig, iwlist, iwspy, iwpriv andifrename.
 60. [Wireshark](https://www.wireshark.org/)--network protocol analyzer.
-61. FRP - A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.
-
-<https://github.com/fatedier/frp>
+61. FRP - A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet. - <https://github.com/fatedier/frp>
 
 ## magic-wormhole
 

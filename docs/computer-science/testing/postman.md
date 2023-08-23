@@ -15,6 +15,8 @@
 
 [LocalStack - A fully functional local cloud stack](https://localstack.cloud/)
 
+[GitHub - localstack/localstack: 💻 A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline](https://github.com/localstack/localstack)
+
 **Fake S3 storage on Local - For local testing**
 
 ```bash

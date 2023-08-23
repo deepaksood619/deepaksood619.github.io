@@ -48,8 +48,9 @@ Habitat - 67 - [How a 23-Year-Old Solved Urban Sprawl - YouTube](https://www.you
 
 ## Links
 
-[Does Rebar Rust? - YouTube](https://www.youtube.com/watch?v=PLF18H9JGHs)
-
-[Sand Castle Holds Up A Car! - Mechanically Stabilized Earth - YouTube](https://www.youtube.com/watch?v=0olpSN6_TCc)
-
-[How Water Towers Work - YouTube](https://www.youtube.com/watch?v=yZwfcMSDBHs)
+- [Does Rebar Rust? - YouTube](https://www.youtube.com/watch?v=PLF18H9JGHs)
+- [Sand Castle Holds Up A Car! - Mechanically Stabilized Earth - YouTube](https://www.youtube.com/watch?v=0olpSN6_TCc)
+- [How Water Towers Work - YouTube](https://www.youtube.com/watch?v=yZwfcMSDBHs)
+- [What is a Weir? - YouTube](https://www.youtube.com/watch?v=YkR79oDAgOg)
+- [Why Concrete Needs Reinforcement - YouTube](https://www.youtube.com/watch?v=cZINeaDjisY)
+- [Every Construction Machine Explained in 15 Minutes - YouTube](https://www.youtube.com/watch?v=6CmX4ZmhwPM)

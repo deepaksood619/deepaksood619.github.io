@@ -259,14 +259,10 @@ While there are different ways to add Google Analytics your WordPress site, here
 
 ## Others
 
-<https://www.wpbeginner.com/wp-themes/how-to-use-multiple-themes-for-pages-in-wordpress>
-
-<https://www.toptal.com/wordpress/tips-and-practices>
-
-<https://www.toptal.com/wordpress/interview-questions>
-
-<https://www.freecodecamp.org/news/how-to-create-an-ecommere-website-using-woocomerce>
-
-<https://www.freecodecamp.org/news/easily-create-a-website-using-elementor-and-wordpress>
-
-[Harness WordPress: Hooks, Actions and Filters  | Toptal®](https://www.toptal.com/wordpress/power-of-wordpress-hooks-actions-and-filters)
+- <https://www.wpbeginner.com/wp-themes/how-to-use-multiple-themes-for-pages-in-wordpress>
+- <https://www.toptal.com/wordpress/tips-and-practices>
+- <https://www.toptal.com/wordpress/interview-questions>
+- <https://www.freecodecamp.org/news/how-to-create-an-ecommere-website-using-woocomerce>
+- <https://www.freecodecamp.org/news/easily-create-a-website-using-elementor-and-wordpress>
+- [Harness WordPress: Hooks, Actions and Filters  | Toptal®](https://www.toptal.com/wordpress/power-of-wordpress-hooks-actions-and-filters)
+- [The Ultimate Guide to High Performance WordPress](https://www.freecodecamp.org/news/the-ultimate-guide-to-high-performance-wordpress/)

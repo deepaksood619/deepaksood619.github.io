@@ -40,3 +40,5 @@ print(i, soup.body.div.div)
 ## AI Tools
 
 [Scrape and Monitor Data from Any Website with No Code](https://www.browse.ai/)
+
+[GitHub - laramies/theHarvester: E-mails, subdomains and names Harvester - OSINT](https://github.com/laramies/theHarvester)

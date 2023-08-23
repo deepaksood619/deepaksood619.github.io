@@ -65,7 +65,7 @@ With face detection, you can get the information you need to perform tasks like 
 
 <https://github.com/ipazc/mtcnn>
 
-<https://github.com/ageitgey/face_recognition>
+[**GitHub - ageitgey/face_recognition**: The world's simplest facial recognition api for Python and the command line](https://github.com/ageitgey/face_recognition)
 
 <https://www.pyimagesearch.com/2019/03/11/liveness-detection-with-opencv>
 

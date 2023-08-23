@@ -143,7 +143,7 @@ Andrew S Tanenbaum and DAVID J. WETHERALL
 4.5.3 The 802.16 Physical L
 4.5.4 The 802.16 MAC Sublayer Prot
 4.5.5 The 802.16 Frame Struc
-4.6 BLUETOOTH
+4.6 BLUETOOTH - [How does Bluetooth Work? - YouTube](https://www.youtube.com/watch?v=1I1vxu5qIUM)
 4.6.1 Bluetooth Architecture
 4.6.2 Bluetooth Applications
 4.6.3 The Bluetooth Protocol Stack

@@ -1,124 +1,8 @@
 {
   "recentFiles": [
     {
-      "basename": "chess",
-      "path": "knowledge/games/chess.md"
-    },
-    {
-      "basename": "life",
-      "path": "knowledge/quotes-proverbs/life.md"
-    },
-    {
-      "basename": "business-case-studies",
-      "path": "management/business/business-case-studies.md"
-    },
-    {
-      "basename": "addresses-electricity",
-      "path": "office/personality/addresses-electricity.md"
-    },
-    {
-      "basename": "mental-models",
-      "path": "knowledge/general/mental-models.md"
-    },
-    {
-      "basename": "funny",
-      "path": "knowledge/quotes-proverbs/funny.md"
-    },
-    {
-      "basename": "my-quotes",
-      "path": "knowledge/quotes-proverbs/my-quotes.md"
-    },
-    {
-      "basename": "futures-options-trading",
-      "path": "economics/market-terms/futures-options-trading.md"
-    },
-    {
-      "basename": "movies-serials-apps",
-      "path": "office/personality/movies-serials-apps.md"
-    },
-    {
-      "basename": "financial-facts",
-      "path": "economics/financial-facts.md"
-    },
-    {
-      "basename": "basic-gold-mines",
-      "path": "algorithms/dynamic-programming/basic-gold-mines.md"
-    },
-    {
-      "basename": "portfolios",
-      "path": "economics/finance-investing/portfolios.md"
-    },
-    {
-      "basename": "48-laws-of-power",
-      "path": "book-summaries/48-laws-of-power.md"
-    },
-    {
-      "basename": "thoughts-future-ideas-vision-prediction",
-      "path": "about-me/ideas/thoughts-future-ideas-vision-prediction.md"
-    },
-    {
-      "basename": "dashboarding",
-      "path": "ai/data-science/tableau/dashboarding.md"
-    },
-    {
-      "basename": "concepts",
-      "path": "ai/data-science/tableau/concepts.md"
-    },
-    {
-      "basename": "others",
-      "path": "ai/data-science/tableau/others.md"
-    },
-    {
-      "basename": "stocks-equity",
-      "path": "economics/finance-investing/stocks-equity.md"
-    },
-    {
-      "basename": "checklist-tips",
-      "path": "economics/finance-investing/checklist-tips.md"
-    },
-    {
-      "basename": "readme",
-      "path": "economics/market-terms/readme.md"
-    },
-    {
-      "basename": "readme",
-      "path": "ai/data-science/tableau/readme.md"
-    },
-    {
-      "basename": "data-model",
-      "path": "ai/data-science/tableau/data-model.md"
-    },
-    {
-      "basename": "architecture-components",
-      "path": "ai/data-science/tableau/architecture-components.md"
-    },
-    {
-      "basename": "schools-of-economic-thought",
-      "path": "economics/schools-of-economic-thought.md"
-    },
-    {
-      "basename": "consumerism",
-      "path": "psychology/consumerism.md"
-    },
-    {
-      "basename": "youtube-podcasts-magazine-apps",
-      "path": "devops/ides/youtube-podcasts-magazine-apps.md"
-    },
-    {
-      "basename": "countries",
-      "path": "knowledge/geography/countries.md"
-    },
-    {
-      "basename": "infra",
-      "path": "office/blocktoons/infra.md"
-    },
-    {
-      "basename": "consensus-protocols",
-      "path": "decentralized-applications/consensus-protocols.md"
-    },
-    {
-      "basename": "bitcoin",
-      "path": "decentralized-applications/coins-tokens-chains/bitcoin.md"
+      "basename": "union-find-algorithm",
+      "path": "algorithms/general/union-find-algorithm.md"
     },
     {
       "basename": "chatgpt-llm",
@@ -126,79 +10,195 @@
     },
     {
       "basename": "readme",
-      "path": "economics/mutual-funds/readme.md"
+      "path": "technologies/others/readme.md"
     },
     {
-      "basename": "1-linux-general-unix-linux-commands",
-      "path": "devops/terminal-bash/1-linux-general-unix-linux-commands.md"
+      "basename": "other-technologies",
+      "path": "technologies/others/other-technologies.md"
+    },
+    {
+      "basename": "readme",
+      "path": "databases/others/readme.md"
+    },
+    {
+      "basename": "technologies-tools",
+      "path": "databases/others/technologies-tools.md"
+    },
+    {
+      "basename": "postman",
+      "path": "computer-science/testing/postman.md"
+    },
+    {
+      "basename": "web-scraping",
+      "path": "python/advanced/web-scraping.md"
+    },
+    {
+      "basename": "ethical-hacking",
+      "path": "computer-science/security/ethical-hacking.md"
+    },
+    {
+      "basename": "cv-libraries-tools",
+      "path": "ai/computer-vision-cv/cv-libraries-tools.md"
+    },
+    {
+      "basename": "newsletter-learning-resources",
+      "path": "computer-science/general/newsletter-learning-resources.md"
+    },
+    {
+      "basename": "youtube-podcasts-magazine-apps",
+      "path": "devops/ides/youtube-podcasts-magazine-apps.md"
+    },
+    {
+      "basename": "intro",
+      "path": "about-me/ideas/intro.md"
+    },
+    {
+      "basename": "sql-queries",
+      "path": "office/cakedefi/sql-queries.md"
     },
     {
       "basename": "food",
       "path": "knowledge/biology/nutrition/food.md"
     },
     {
-      "basename": "diet",
-      "path": "knowledge/biology/nutrition/diet.md"
+      "basename": "pulses-daal-lentils",
+      "path": "knowledge/biology/nutrition/pulses-daal-lentils.md"
     },
     {
-      "basename": "others",
-      "path": "knowledge/geography/others.md"
+      "basename": "gym-nutrition",
+      "path": "knowledge/biology/exercise-stretching/gym-nutrition.md"
     },
     {
-      "basename": "defi-apps",
-      "path": "decentralized-applications/defi-apps.md"
+      "basename": "about",
+      "path": "office/blocktoons/about.md"
     },
     {
-      "basename": "ideals-values-dreams",
-      "path": "office/personality/ideals-values-dreams.md"
+      "basename": "product",
+      "path": "office/blocktoons/product.md"
     },
     {
-      "basename": "life-relationship-people",
-      "path": "psychology/life-relationship-people.md"
-    },
-    {
-      "basename": "civil-engineering",
-      "path": "knowledge/applied-sciences/civil-engineering.md"
-    },
-    {
-      "basename": "rivers",
-      "path": "knowledge/geography/rivers.md"
-    },
-    {
-      "basename": "readme",
-      "path": "knowledge/geography/readme.md"
-    },
-    {
-      "basename": "macroeconomics",
-      "path": "economics/mental-models/macroeconomics.md"
-    },
-    {
-      "basename": "readme",
-      "path": "languages/sql/ddl-data-definition-language/readme.md"
-    },
-    {
-      "basename": "08-examples",
-      "path": "technologies/apache/apache-spark/08-examples.md"
+      "basename": "delta-lake",
+      "path": "networking/others/delta-lake.md"
     },
     {
       "basename": "create-table",
       "path": "languages/sql/ddl-data-definition-language/create-table.md"
     },
     {
-      "basename": "delta-lake-tutorial",
-      "path": "networking/others/delta-lake-tutorial.md"
+      "basename": "readme",
+      "path": "languages/sql/ddl-data-definition-language/readme.md"
+    },
+    {
+      "basename": "networking-tools",
+      "path": "devops/terminal-bash/networking-tools.md"
+    },
+    {
+      "basename": "readme",
+      "path": "languages/frameworks/android/readme.md"
+    },
+    {
+      "basename": "others-resources-interview",
+      "path": "ai/courses/others-resources-interview.md"
+    },
+    {
+      "basename": "references-learning",
+      "path": "decentralized-applications/references-learning.md"
+    },
+    {
+      "basename": "augmented-analytics",
+      "path": "ai/data-science/tableau/augmented-analytics.md"
+    },
+    {
+      "basename": "llm-building",
+      "path": "ai/libraries/llm-building.md"
+    },
+    {
+      "basename": "readme",
+      "path": "ai/courses/readme.md"
+    },
+    {
+      "basename": "types-of-databases",
+      "path": "databases/concepts/types-of-databases.md"
+    },
+    {
+      "basename": "chatgpt-prompt-eng",
+      "path": "ai/courses/chatgpt-prompt-eng.md"
+    },
+    {
+      "basename": "readme",
+      "path": "ai/libraries/readme.md"
     },
     {
       "basename": "infra",
-      "path": "office/cakedefi/infra.md"
+      "path": "office/blocktoons/infra.md"
     },
     {
-      "basename": "deepak-cryptos",
-      "path": "office/keep/deepak-cryptos.md"
+      "basename": "mental-models",
+      "path": "knowledge/general/mental-models.md"
     },
     {
-      "basename": "common",
-      "path": "computer-science/general/common.md"
+      "basename": "crypto-investing",
+      "path": "decentralized-applications/crypto-investing.md"
+    },
+    {
+      "basename": "company-management",
+      "path": "economics/finance-investing/company-management.md"
+    },
+    {
+      "basename": "business-case-studies",
+      "path": "management/business/business-case-studies.md"
+    },
+    {
+      "basename": "creating-a-business-startup",
+      "path": "about-me/ideas/creating-a-business-startup.md"
+    },
+    {
+      "basename": "ecology",
+      "path": "knowledge/biology/nutrition/ecology.md"
+    },
+    {
+      "basename": "speaking-story-talking-conversation-presentation-phrases",
+      "path": "psychology/soft-skills/speaking-story-talking-conversation-presentation-phrases.md"
+    },
+    {
+      "basename": "speaking-phrases-quotes",
+      "path": "psychology/soft-skills/speaking-phrases-quotes.md"
+    },
+    {
+      "basename": "portfolios",
+      "path": "economics/finance-investing/portfolios.md"
+    },
+    {
+      "basename": "disk-io",
+      "path": "computer-science/operating-system/disk-io.md"
+    },
+    {
+      "basename": "macroeconomics",
+      "path": "economics/mental-models/macroeconomics.md"
+    },
+    {
+      "basename": "embedded-systems-electronics",
+      "path": "knowledge/applied-sciences/embedded-systems-electronics.md"
+    },
+    {
+      "basename": "book-computer-networks",
+      "path": "networking/networking-concepts/book-computer-networks.md"
+    },
+    {
+      "basename": "india",
+      "path": "knowledge/geography/india.md"
+    },
+    {
+      "basename": "intro",
+      "path": "computer-science/software-engineering/intro.md"
+    },
+    {
+      "basename": "functional-programming",
+      "path": "computer-science/programming-paradigms/functional-programming.md"
+    },
+    {
+      "basename": "type-systems",
+      "path": "computer-science/programming-concepts/type-systems.md"
     }
   ],
   "omittedPaths": [],

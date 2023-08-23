@@ -8,93 +8,65 @@ The architecture is a standard [transformer network](https://en.wikipedia.org/wi
 
 ## ChatGPT / Bard
 
-[Meet Bard](https://bard.google.com/)
-
-<https://openai.com/blog/chatgpt>
-
 Moving from information to knowledge age
 
-[GPT-4](https://openai.com/research/gpt-4)
-
-[It’s Time to Pay Attention to A.I. (ChatGPT and Beyond)](https://www.youtube.com/watch?v=0uQqMxXoNVs)
-
-<https://en.wikipedia.org/wiki/GPT-3>
-
-<https://www.gwern.net/GPT-3>
-
-[Galileo AI · Copilot for interface design](https://www.usegalileo.ai/)
-
-[How Does ChatGPT Work - YouTube](https://www.youtube.com/watch?v=WlbPnZ_SOX4)
-
-[ChatGPT - Explained! - YouTube](https://www.youtube.com/watch?v=NpmnWgQgcsA)
-
-[Voice control for ChatGPT | Chrome Web Store - Extensions](https://chrome.google.com/webstore/detail/voice-control-for-chatgpt/eollffkcakegifhacjnlnegohfdlidhn)
-
-[ChatGPT Code Interpreter is like a Data Scientist on steroids](https://twitter.com/moritzkremb/status/1654107314528612355)
-
-[The Amazing AI Super Tutor for Students and Teachers | Sal Khan | TED - YouTube](https://www.youtube.com/watch?v=hJP5GqnTrNo&ab_channel=TED)
-
-[WebChatGPT: ChatGPT with internet access | Chrome Web Store - Extensions](https://chrome.google.com/webstore/detail/webchatgpt-chatgpt-with-i/lpfemeioodjbpieminkklglpmhlngfcn/related)
+- [Meet Bard](https://bard.google.com/)
+- <https://openai.com/blog/chatgpt>
+- [Godmode](https://godmode.space/)
+- [OpenAI Platform](https://platform.openai.com/)
+- [GPT-4](https://openai.com/research/gpt-4)
+- [It’s Time to Pay Attention to A.I. (ChatGPT and Beyond)](https://www.youtube.com/watch?v=0uQqMxXoNVs)
+- <https://en.wikipedia.org/wiki/GPT-3>
+- <https://www.gwern.net/GPT-3>
+- [Galileo AI · Copilot for interface design](https://www.usegalileo.ai/)
+- [How Does ChatGPT Work - YouTube](https://www.youtube.com/watch?v=WlbPnZ_SOX4)
+- [ChatGPT - Explained! - YouTube](https://www.youtube.com/watch?v=NpmnWgQgcsA)
+- [Voice control for ChatGPT | Chrome Web Store - Extensions](https://chrome.google.com/webstore/detail/voice-control-for-chatgpt/eollffkcakegifhacjnlnegohfdlidhn)
+- [ChatGPT Code Interpreter is like a Data Scientist on steroids](https://twitter.com/moritzkremb/status/1654107314528612355)
+- [The Amazing AI Super Tutor for Students and Teachers | Sal Khan | TED - YouTube](https://www.youtube.com/watch?v=hJP5GqnTrNo&ab_channel=TED)
+- [WebChatGPT: ChatGPT with internet access | Chrome Web Store - Extensions](https://chrome.google.com/webstore/detail/webchatgpt-chatgpt-with-i/lpfemeioodjbpieminkklglpmhlngfcn/related)
 
 #### AI Generators
 
-[Stable Diffusion Online](https://stablediffusionweb.com/) - [Stability AI](https://stability.ai/)
+- [Stable Diffusion Online](https://stablediffusionweb.com/) - [Stability AI](https://stability.ai/)
+- [GitHub - AUTOMATIC1111/stable-diffusion-webui: Stable Diffusion web UI](https://github.com/AUTOMATIC1111/stable-diffusion-webui)
+- Dall E - <https://openai.com/dall-e-2>
+- [ClipDrop](https://clipdrop.co/)
+- Deep Nostalgia
+- [AI Voice Generator: Versatile Text to Speech Software | Murf AI](https://murf.ai/)
+- [Tammy AI](https://tammy.ai/)
 
-Dall E - <https://openai.com/dall-e-2>
-
-[Midjourney](https://www.midjourney.com/)
+#### [Midjourney](https://www.midjourney.com/)
 
 ![midjourney-cheatsheet](../../media/Screenshot%202023-05-26%20at%201.56.33%20PM.png)
 
-[ClipDrop](https://clipdrop.co/)
+#### Other AI / LLM Tools / Products
 
-Deep Nostalgia
-
-[AI Voice Generator: Versatile Text to Speech Software | Murf AI](https://murf.ai/)
-
-[Tammy AI](https://tammy.ai/)
-
-#### Other AI / LLM Tools
-
-Merlin Chrome Extension
-
-[ElevenLabs - Prime AI Text to Speech | Voice Cloning](https://beta.elevenlabs.io/)
-
-[Create Video](https://studio.d-id.com/editor)
-
-[Gamma App](https://gamma.app/) - AI generated presentation
-
-[AudioPen - The easiest way to convert messy thoughts into clear text.](https://audiopen.ai/)
-
-[Instantly.ai - Cold Email Software](https://instantly.ai/)
-
-[Text-to-meme | Supermeme.ai](https://app.supermeme.ai/text-to-meme)
-
-[Botsonic: Custom Train ChatGPT On Your Knowledge Base Data](https://writesonic.com/botsonic)
-
-[Writesonic - Best AI Writer, Copywriting & Paraphrasing Tool](https://writesonic.com/)
-
-[Generative AI API For Your Product | One AI](https://www.oneai.com/)
-
-[Playground AI](https://playgroundai.com/)
-
-[Photo AI: AI Photo Generator](https://photoai.com/)
-
-[Generative AI in Jupyter. Jupyter AI, a new open source project… | by Jason Weill | Aug, 2023 | Jupyter Blog](https://blog.jupyter.org/generative-ai-in-jupyter-3f7174824862)
+- Merlin Chrome Extension
+- [ElevenLabs - Prime AI Text to Speech | Voice Cloning](https://beta.elevenlabs.io/)
+- [Create Video](https://studio.d-id.com/editor)
+- [Gamma App](https://gamma.app/) - AI generated presentation
+- [AudioPen - The easiest way to convert messy thoughts into clear text.](https://audiopen.ai/)
+- [Instantly.ai - Cold Email Software](https://instantly.ai/)
+- [Text-to-meme | Supermeme.ai](https://app.supermeme.ai/text-to-meme)
+- [Botsonic: Custom Train ChatGPT On Your Knowledge Base Data](https://writesonic.com/botsonic)
+- [Writesonic - Best AI Writer, Copywriting & Paraphrasing Tool](https://writesonic.com/)
+- [Generative AI API For Your Product | One AI](https://www.oneai.com/)
+- [Playground AI](https://playgroundai.com/)
+- [Photo AI: AI Photo Generator](https://photoai.com/)
+- [Generative AI in Jupyter. Jupyter AI, a new open source project… | by Jason Weill | Aug, 2023 | Jupyter Blog](https://blog.jupyter.org/generative-ai-in-jupyter-3f7174824862)
 
 ![ai-tools](../../media/image.png)
 
-[FinGPT: Open-Source Financial Large Language Models](https://arxiv.org/abs/2306.06031)
-
-[Self-healing code is the future of software development - Stack Overflow Blog](https://stackoverflow.blog/2023/06/07/self-healing-code-is-the-future-of-software-development/)
-
-[**H2O.ai** | The fastest, most accurate AI Cloud Platform](https://h2o.ai/)
-
-[Framer - Start your dream site with AI. Zero code, maximum speed.](https://www.framer.com/)
-
-[Air](https://www.air.ai/)
-
-[Runway - Advancing creativity with artificial intelligence.](https://runwayml.com/)
+- [FinGPT: Open-Source Financial Large Language Models](https://arxiv.org/abs/2306.06031)
+- [Self-healing code is the future of software development - Stack Overflow Blog](https://stackoverflow.blog/2023/06/07/self-healing-code-is-the-future-of-software-development/)
+- [**H2O.ai** | The fastest, most accurate AI Cloud Platform](https://h2o.ai/)
+- [Framer - Start your dream site with AI. Zero code, maximum speed.](https://www.framer.com/)
+- [Air](https://www.air.ai/)
+- [Runway - Advancing creativity with artificial intelligence.](https://runwayml.com/)
+- [Milo](https://www.joinmilo.com/)
+- [Harvey | Generative AI for Elite Law Firms](https://www.harvey.ai/)
+- [GitHub - mukulpatnaik/researchgpt: A LLM based research assistant that allows you to have a conversation with a research paper](https://github.com/mukulpatnaik/researchgpt)
 
 #### Prompts
 
@@ -118,24 +90,46 @@ Prompt: "I want to learn about {insert topic}. Identify and share the most impor
   - [Building LLM applications for production](https://huyenchip.com/2023/04/11/llm-engineering.html)
   - [Introduction to LangChain LLM: A Beginner’s Guide](https://www.makeuseof.com/langchain-llm-introduction/)
   - [How to Build LLM Applications with LangChain | DataCamp](https://www.datacamp.com/tutorial/how-to-build-llm-applications-with-langchain)
+- [GitHub - Significant-Gravitas/Auto-GPT: An experimental open-source attempt to make GPT-4 fully autonomous.](https://github.com/Significant-Gravitas/Auto-GPT)
 - [Llama 2 - Meta AI](https://ai.meta.com/llama/)
+- [GitHub - jerryjliu/llama\_index: LlamaIndex (GPT Index) is a data framework for your LLM applications](https://github.com/jerryjliu/llama_index)
 - [Building your Generative AI apps with Meta's Llama 2 and Databricks | Databricks Blog](https://www.databricks.com/blog/building-your-generative-ai-apps-metas-llama-2-and-databricks)
 - [GitHub - stoyan-stoyanov/llmflows: LLMFlows - Simple, Explicit and Transparent LLM Apps](https://github.com/stoyan-stoyanov/llmflows)
 - [Patterns for Building LLM-based Systems & Products](https://eugeneyan.com/writing/llm-patterns/)
 - [GitHub - ShishirPatil/gorilla: Gorilla: An API store for LLMs](https://github.com/ShishirPatil/gorilla)
 - [gorilla-llm (Gorilla LLM (UC Berkeley))](https://huggingface.co/gorilla-llm)
 - [Advancing Spark - LLM Evaluation with MLFlow 2 4 - YouTube](https://www.youtube.com/watch?v=t_WtkRdycTY)
+- [GitHub - Chainlit/chainlit: Build Python LLM apps in minutes ⚡️](https://github.com/Chainlit/chainlit)
+- [Awesome GPT-4](https://gpt4.tools/)
+- [GitHub - xtekky/gpt4free: The official gpt4free repository | various collection of powerful language models](https://github.com/xtekky/gpt4free)
+- [GitHub - yoheinakajima/babyagi](https://github.com/yoheinakajima/babyagi)
+- [GitHub - coqui-ai/TTS: 🐸💬 - a deep learning toolkit for Text-to-Speech, battle-tested in research and production](https://github.com/coqui-ai/TTS)
+- [GitHub - tensorchord/Awesome-LLMOps: An awesome & curated list of best LLMOps tools for developers](https://github.com/tensorchord/Awesome-LLMOps)
+
+```bash
+python -m pip install --upgrade langchain[llm]
+pip install chromadb
+pip install pypdf
+
+pip install chainlit
+chainlit hello
+
+chainlit run document_qa.py
+```
+
+### HuggingFace
+
+[GitHub - huggingface/transformers: 🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.](https://github.com/huggingface/transformers)
+
+[Hugging Face – The AI community building the future.](https://huggingface.co/)
 
 ## Learning
 
-- [Understanding Large Language Models - by Sebastian Raschka](https://magazine.sebastianraschka.com/p/understanding-large-language-models)
-- [Large language models, explained with a minimum of math and jargon](https://www.understandingai.org/p/large-language-models-explained-with)
-- [Catching up on the weird world of LLMs](https://simonwillison.net/2023/Aug/3/weird-world-of-llms/)
-- [Llama from scratch (or how to implement a paper without crying) | Brian Kitano](https://blog.briankitano.com/llama-from-scratch/)
-- [Llama - EXPLAINED! - YouTube](https://www.youtube.com/watch?v=yZ9jkgN2xHQ)
+- [Development with Large Language Models Tutorial – OpenAI, Langchain, Agents, Chroma - YouTube](https://www.youtube.com/watch?v=xZDB1naRUlk&t=1032s)
 
 ## Links
 
+- [ChatGPT Prompt Engineering for Developers](ai/courses/chatgpt-prompt-eng.md)
 - [How to create a private ChatGPT with your own data | by Mick Vleeshouwer | Mar, 2023 | Medium](https://medium.com/@imicknl/how-to-create-a-private-chatgpt-with-your-own-data-15754e6378a1)
 - [I Built a Hedge Fund Run by AI Agents - YouTube](https://www.youtube.com/watch?v=vnzt4lwzbXU)
 - [State of GPT | BRK216HFS - YouTube](https://www.youtube.com/watch?v=bZQun8Y4L2A)

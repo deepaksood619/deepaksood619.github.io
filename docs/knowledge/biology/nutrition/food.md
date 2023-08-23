@@ -322,6 +322,18 @@ Unlike the others, vitamin D can be produced by our bodies, provided our skin is
 
 Try to get 10–20 minutes of sunlight ideally before noon, 3-4 times a week. Darker skin needs more sun than lighter skin; so adjust your sun exposure based on your need.
 
+## Farming
+
+[Soya Chunks : How it's Made ? Good or Bad ?? || Explained by Farming Engineer - YouTube](https://www.youtube.com/watch?v=Jkq36eV0Fsc)
+
+[मक्खन फल ने बनाया 26 साल का लड़का करोड़पति // एवोकाडो खेती Israel butter fruit nursery India Avocado - YouTube](https://www.youtube.com/watch?v=vqTOZEQq5zM)
+
+### Playlist
+
+[Organic Acre - YouTube](https://www.youtube.com/@OrganicAcre)
+
+[Farming Engineer - YouTube](https://www.youtube.com/@FarmingEngineer)
+
 ## Links
 
 [Why I eat "expired" food - YouTube](https://www.youtube.com/watch?v=kCeuP6yG64g)

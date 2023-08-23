@@ -13,10 +13,8 @@
 Protein supplement daily - after gym
 
 1. Whey Protein
+2. Plant based protein - soy protein / plant protein blend (better) - olena
 
-2. Plant based protein - soy protein / **plant protein blend (better) - olena**
-
-- 5500 avg
 - 24g per scoop
 - less than 5g per scoop
 - ultimate nutrition pro star whey protein shake
@@ -24,25 +22,6 @@ Protein supplement daily - after gym
 - muscle blaze whey protein
 - my protein impact whey
 - MB Whey performance
-- 5600 - 4kg
-- Whey premium
-
-3. Muscle Blaze Raw Whey Protein - 2.2 lb/ 1 kg, 33 Servings (Unflavoured)
-
-1220
-24g protein and 5. 2G bcaa per serving (30g)
-
-4. **MuscleBlaze 100% Whey Energy Protein Supplement Powder with Vitamins & Minerals, 1 kg 31 Servings (Chocolate)**
-
-## 1299
-
-- 20g fast-absorbing whey proteins and vitamin and minerals per serving stimulate quick muscle recovery
-- 4.56g bcaas in each serving improves fatigue threshold and enhances recovery
-- Fortified with 13 vitamins and 5 minerals which boost recovery and optimize energy levels
-
-5. AS-IT-IS Nutrition Whey Protein Concentrate 80% Unflavoured - 1Kg
-
-1216
 
 ## Diet Plan
 
@@ -66,3 +45,8 @@ Protein supplement daily - after gym
 2. Upma (Rava
 3. Sweet potato
 4. Soyabean
+
+## Links
+
+- [Guest Series with Dr. Andy Galpin - YouTube](https://www.youtube.com/playlist?list=PLPNW_gerXa4N_PVVoq0Za03YKASSGCazr)
+- [Everything You Thought You Knew About Protein Is Wrong | Stanford's Professor Christopher Gardner - YouTube](https://www.youtube.com/watch?v=DMwf_9wqWY0)

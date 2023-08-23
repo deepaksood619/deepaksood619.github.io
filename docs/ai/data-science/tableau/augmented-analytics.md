@@ -41,3 +41,5 @@
 ## Others
 
 [Zenlytic | Business Intelligence you can talk to](https://www.zenlytic.com/)
+
+[June - Product analytics for B2B SaaS](https://www.june.so/ai)

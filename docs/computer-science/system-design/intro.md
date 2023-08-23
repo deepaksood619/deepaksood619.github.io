@@ -171,3 +171,5 @@ This helps as you no longer have to make assumptions about
 
 [System Design Blueprint: The Ultimate Guide | by Love Sharma | Apr, 2023 | Dev Genius](https://blog.devgenius.io/system-design-blueprint-the-ultimate-guide-e27b914bf8f1)
 ![system-design-checklist](../../media/Screenshot%202023-05-26%20at%201.21.56%20PM.png)
+
+[System Designs - YouTube](https://www.youtube.com/playlist?list=PLQnljOFTspQXSevtRqvMNycWfHM7cXc3d)

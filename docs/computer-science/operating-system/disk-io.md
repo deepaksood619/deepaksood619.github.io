@@ -2,10 +2,10 @@
 
 ## IO
 
-- Syscalls:[open](http://man7.org/linux/man-pages/man2/open.2.html), [write](http://man7.org/linux/man-pages/man2/write.2.html), [read](http://man7.org/linux/man-pages/man2/read.2.html), [fsync](http://man7.org/linux/man-pages/man2/fsync.2.html), [sync](http://man7.org/linux/man-pages/man2/sync.2.html), [close](http://man7.org/linux/man-pages/man2/close.2.html)
-- Standard IO:[fopen](https://linux.die.net/man/3/fopen), [fwrite](https://linux.die.net/man/3/fwrite), [fread](https://linux.die.net/man/3/fread), [fflush](https://linux.die.net/man/3/fflush), [fclose](https://linux.die.net/man/3/fclose)
-- Vectored IO:[writev](https://linux.die.net/man/2/writev), [readv](https://linux.die.net/man/2/readv)
-- Memory mapped IO:[open](http://man7.org/linux/man-pages/man2/open.2.html), [mmap](http://man7.org/linux/man-pages/man2/mmap.2.html), [msync](http://man7.org/linux/man-pages/man2/msync.2.html), [munmap](http://man7.org/linux/man-pages/man2/munmap.2.html)
+- Syscalls: [open](http://man7.org/linux/man-pages/man2/open.2.html), [write](http://man7.org/linux/man-pages/man2/write.2.html), [read](http://man7.org/linux/man-pages/man2/read.2.html), [fsync](http://man7.org/linux/man-pages/man2/fsync.2.html), [sync](http://man7.org/linux/man-pages/man2/sync.2.html), [close](http://man7.org/linux/man-pages/man2/close.2.html)
+- Standard IO: [fopen](https://linux.die.net/man/3/fopen), [fwrite](https://linux.die.net/man/3/fwrite), [fread](https://linux.die.net/man/3/fread), [fflush](https://linux.die.net/man/3/fflush), [fclose](https://linux.die.net/man/3/fclose)
+- Vectored IO: [writev](https://linux.die.net/man/2/writev), [readv](https://linux.die.net/man/2/readv)
+- Memory mapped IO: [open](http://man7.org/linux/man-pages/man2/open.2.html), [mmap](http://man7.org/linux/man-pages/man2/mmap.2.html), [msync](http://man7.org/linux/man-pages/man2/msync.2.html), [munmap](http://man7.org/linux/man-pages/man2/munmap.2.html)
 
 ## Buffered IO
 
@@ -17,7 +17,7 @@ The three types of buffering available are unbuffered, block buffered, and line 
 
 *Block Device* is a special file type providing buffered access to hardware devices such as HDDs or SSDs. Block Devices work act upon *sectors*, group of adjacent bytes. Most disk devices have a sector size of 512 bytes. Sector is the smallest unit of data transfer for block device, it is not possible to transfer less than one sector worth of data. However, often it is possible to fetch multiple adjacent segments at a time. The smallest addressable unit ofFile Systemis *block*.Block is a group of multiple adjacent sectors requested by a device driver. Typical block sizes are 512, 1024, 2048 and 4096 bytes. Usually IO is done through the *Virtual Memory*, which caches requested filesystem blocks in memory and serves as a buffer for intermediate operations. Virtual Memory works with pages, which map to filesystem blocks. Typical page size is 4096 bytes.
 
-## In summary, Virtual Memory *pages*map to Filesystem *blocks*, which map to Block Device *sectors*
+In summary, Virtual Memory *pages* map to Filesystem *blocks*, which map to Block Device *sectors*
 
 ## Standard IO
 
@@ -111,33 +111,33 @@ At the top is the running application which has data that it needs to save to st
 
 ## Access Patterns
 
-Access patterns are patterns with which a program reads and writes the data. In general, we distinguish between the r**andom and sequential access patterns**. But, of course, nothing is absolute. Having fully sequential reads is not possible for ad-hoc queries, since the data has to be located first, but as soon as it is located, it can be read sequentially.
+Access patterns are patterns with which a program reads and writes the data. In general, we distinguish between the **random and sequential access patterns**. But, of course, nothing is absolute. Having fully sequential reads is not possible for ad-hoc queries, since the data has to be located first, but as soon as it is located, it can be read sequentially.
 
-Bysequentialaccess we usually mean reads monotonically going from lower offsets to the higher ones and the higher offsets are immediately following the lower ones.
+By sequential access we usually mean reads monotonically going from lower offsets to the higher ones and the higher offsets are immediately following the lower ones.
 
-Randomaccess is reading non-contiguous chunks of data. It usually involves disk seeks, skipping portions of the file in order to locate the data. Hop size is often hard to predict and spans many pages (for example, when traversing a B-Tree on disk, we have to skip entire levels in order to continue the search). In summary, sequential access implies reading contiguous blocks monotonically and random access is pretty much anything else.
+Random access is reading non-contiguous chunks of data. It usually involves disk seeks, skipping portions of the file in order to locate the data. Hop size is often hard to predict and spans many pages (for example, when traversing a B-Tree on disk, we have to skip entire levels in order to continue the search). In summary, sequential access implies reading contiguous blocks monotonically and random access is pretty much anything else.
 
-Sequentialaccess is often preferred because of it's predictability. In [one of previous posts](https://medium.com/@ifesdjeen/on-disk-io-part-2-more-flavours-of-io-c945db3edb13) we've discussed the fact that avoiding Page Faults allows for a better performance, since reads are served from RAM rather than disk. When reading data sequentially, Kernel may load the pages ahead of time in the process calledprefetching: speculative reading from disk based on some prediction of future requests. In addition, sequential reads avoid additional seeks.
+Sequential access is often preferred because of it's predictability. In [one of previous posts](https://medium.com/@ifesdjeen/on-disk-io-part-2-more-flavours-of-io-c945db3edb13) we've discussed the fact that avoiding Page Faults allows for a better performance, since reads are served from RAM rather than disk. When reading data sequentially, Kernel may load the pages ahead of time in the process called prefetching: speculative reading from disk based on some prediction of future requests. In addition, sequential reads avoid additional seeks.
 
 Optimising for sequential reads and for sequential writes are orthogonal problems. Records written sequentially are not always read together (for example, point queries in sequentially written LSM Tree are still random). Similarly, data read together wasn't necessarily put on disk in a sequential manner (for example, a sequential read of the level in a B-Tree, which might have been updated randomly).
 
 ## Random Reads on SSDs
 
-OnHDDs, sequential access is preferred to random because of their physical organisation and the way they work. Read/write head is attached to the mechanical arm that has to travel across the disk in order to read the blocks of data; disk has to rotate in to position the track sector under read/write head. This all involves a non-trivial amount of movement. Operating System tries to amortise the costs by caching, buffering and scheduling operations optimally.
+On HDDs, sequential access is preferred to random because of their physical organisation and the way they work. Read/write head is attached to the mechanical arm that has to travel across the disk in order to read the blocks of data; disk has to rotate in to position the track sector under read/write head. This all involves a non-trivial amount of movement. Operating System tries to amortise the costs by caching, buffering and scheduling operations optimally.
 
-SSDs are made of electronics and do not have any moving components. In this regard, SSDs are inherently different from HDDs and there's no performance degradation caused by where data is stored on disk physically. However, current SSD technology suffers from the performance degradation caused bywrite amplification. Lack of moving parts allows for several other characteristics, such as parallelism, but we won't be discussing them in this article.
+SSDs are made of electronics and do not have any moving components. In this regard, SSDs are inherently different from HDDs and there's no performance degradation caused by where data is stored on disk physically. However, current SSD technology suffers from the performance degradation caused by write amplification. Lack of moving parts allows for several other characteristics, such as parallelism, but we won't be discussing them in this article.
 
-Minimal read unit on SSD ispage. Reads and writes are performed in pages. Deleting a page worth of data does not immediately remove data physically. Instead, a page is marked as stale and will wait for Garbage Collection to reclaim free space.
+Minimal read unit on SSD is page. Reads and writes are performed in pages. Deleting a page worth of data does not immediately remove data physically. Instead, a page is marked as stale and will wait for Garbage Collection to reclaim free space.
 
-Because writes are performed in pages, even if a single byte has to be updated, the whole page will be written anyway. At the same time, because of the specifics of NAND storage, pages can not be updated in place, so writes can be performed only into the empty pages. These two properties attribute for thewrite amplificationon SSDs.
+Because writes are performed in pages, even if a single byte has to be updated, the whole page will be written anyway. At the same time, because of the specifics of NAND storage, pages can not be updated in place, so writes can be performed only into the empty pages. These two properties attribute for the write amplification on SSDs.
 
-After an extensive amount of random writes, an FTL (Flash Transportation Layer) runs out of free pages and has to performGarbage Collection: a process that reads, consolidates then and writes active pages in free blocks, freeing blocks, occupied by stale pages and reclaiming disk space.
+After an extensive amount of random writes, an FTL (Flash Transportation Layer) runs out of free pages and has to perform Garbage Collection: a process that reads, consolidates then and writes active pages in free blocks, freeing blocks, occupied by stale pages and reclaiming disk space.
 
 Some SSDs implement background Garbage Collection, which takes advantage of idle time in order to consolidate blocks and reclaim stale pages before new data has to be written, which ensures that future foreground write processes have enough free pages available. But given enough write pressure, Garbage Collection process may not keep up with the amount of work, negatively impacting write performance.
 
 A key goal of log-structured systems is sequentialising writes. However, if the FTL is shared by two log- structured applications (or even a single application with multiple append streams), the incoming data into the FTL is likely to look random or disjoint. You can read more about "stacking" log operations in [this paper](https://www.usenix.org/system/files/conference/inflow14/inflow14-yang.pdf).
 
-We've discussed multiple things one has to take into consideration when working with SSDs.Writing complete pagesis better than writing data smaller than the page size, since the smallest SSD unit storage is a page. Because updating page will effectively allocate a new page and invalidate the previous one, updates may result into Garbage Collection. It's better tokeep the write operations page-alignedin order to avoid additional write multiplication. And last, keeping the data with similar lifecycle together(e.g. the data that would be both written and discarded at the same time) will be beneficial for performance. Most of these points are points speak favour of immutable LSM-like Storage, rather than systems that allows in-place updates: writes are batched and SSTables are written sequentially, files are immutable and, when deleted, the whole file is invalidated at once.
+We've discussed multiple things one has to take into consideration when working with SSDs.Writing complete pages is better than writing data smaller than the page size, since the smallest SSD unit storage is a page. Because updating page will effectively allocate a new page and invalidate the previous one, updates may result into Garbage Collection. It's better to keep the write operations page-aligned in order to avoid additional write multiplication. And last, keeping the data with similar lifecycle together(e.g. the data that would be both written and discarded at the same time) will be beneficial for performance. Most of these points are points speak favour of immutable LSM-like Storage, rather than systems that allows in-place updates: writes are batched and SSTables are written sequentially, files are immutable and, when deleted, the whole file is invalidated at once.
 
 <https://medium.com/databasss/on-disk-io-part-1-flavours-of-io-8e1ace1de017>
 
@@ -185,3 +185,9 @@ The Distributed Asynchronous Object Storage (DAOS) is an open-source software-de
 ## Anatomy of SSD
 
 <https://www.techspot.com/amp/article/1985-anatomy-ssd>
+
+[How does this SSD store 8TB of Data? || Inside the Engineering of Solid-State Drive Architecture - YouTube](https://www.youtube.com/watch?v=r-SivgEpA1Q)
+
+## Links
+
+[How do Hard Disk Drives Work? 💻💿🛠 - YouTube](https://www.youtube.com/watch?v=wtdnatmVdIg)

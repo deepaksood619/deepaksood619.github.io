@@ -1,14 +1,10 @@
 # Ethical Hacking
 
-<https://www.shodan.io/host/182.71.91.174>
-
-<https://github.com/arthaud/git-dumper/blob/master/git-dumper.py>
-
-<https://securitytrails.com/domain/example.com/history/a>
-
-<https://www.youtube.com/watch?v=3Kq1MIfTWCE>
-
-<https://github.com/Hack-with-Github/Awesome-Hacking>
+- <https://www.shodan.io/host/182.71.91.174>
+- <https://github.com/arthaud/git-dumper/blob/master/git-dumper.py>
+- <https://securitytrails.com/domain/example.com/history/a>
+- <https://www.youtube.com/watch?v=3Kq1MIfTWCE>
+- [GitHub - Hack-with-Github/Awesome-Hacking: A collection of various awesome lists for hackers, pentesters and security researchers](https://github.com/Hack-with-Github/Awesome-Hacking)
 
 ## CISSP
 
@@ -42,6 +38,7 @@ A black hat hacker has no qualms about selling vulnerabilities and exploits to t
 ## Tools
 
 - Festin - FestIn is a tool for discovering open S3 Buckets starting from a domains. - <https://github.com/cr0hn/festin>
+- [GitHub - swisskyrepo/PayloadsAllTheThings: A list of useful payloads and bypass for Web Application Security and Pentest/CTF](https://github.com/swisskyrepo/PayloadsAllTheThings)
 
 ## Digital Forensics
 

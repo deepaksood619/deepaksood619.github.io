@@ -23,3 +23,8 @@ The word cereal is derived from [Ceres](https://en.wikipedia.org/wiki/Ceres_(Rom
 A pseudocereal is one of any non-grasses that are used in much the same way as [cereals](https://en.wikipedia.org/wiki/Cereal)(true cereals are [grasses](https://en.wikipedia.org/wiki/Grasses)). Their seed can be ground into [flour](https://en.wikipedia.org/wiki/Flour) and otherwise used as cereals. Examples of pseudocereals are [amaranth](https://en.wikipedia.org/wiki/Amaranth_grain)([Love-lies-bleeding](https://en.wikipedia.org/wiki/Love-lies-bleeding_(plant)), [red amaranth](https://en.wikipedia.org/wiki/Red_amaranth), [Prince-of-Wales-feather](https://en.wikipedia.org/wiki/Prince-of-Wales-feather)), [quinoa](https://en.wikipedia.org/wiki/Quinoa), and [buckwheat](https://en.wikipedia.org/wiki/Buckwheat).
 
 <https://en.wikipedia.org/wiki/Pseudocereal>
+
+## Links
+
+- [Ecology And Environment By Ajit Tiwari - YouTube](https://www.youtube.com/playlist?list=PLwYR7WJw1-QUruUDeeTn3vT3NxLyPnuWq)
+- [What’s the Difference Between a Tidal Wave and a Tsunami? - YouTube](https://www.youtube.com/watch?v=YcBXlmlwB8c)

@@ -29,7 +29,9 @@ By encapsulating shard-routing logic, Vitess allows application code and databas
 - `*.*test` - search all objects that include test in their name
 - `*.test` - search all objects that names start with test
 
-## Data Grip
+### Others
+
+- Data Grip
 
 ## NoSQL Workbench
 
@@ -125,3 +127,7 @@ Teams can become more agile with their development for database code, making it 
 The fix forward method works best when changes are broken into small chunks that are deployed independently and automatically. If you're starting from a software development environment where you have one years' worth of work about to deploy, this may not be the approach you adopt right now. However, there are tools that can help you break up your database scripts and schema changes into small, trackable chunks that make this approach much more accessible to companies that are ready to try this out.
 
 <https://www.liquibase.com/blog/roll-back-database-fix-forward>
+
+## Others
+
+[GitHub - harelba/q: q - Run SQL directly on delimited files and multi-file sqlite databases](https://github.com/harelba/q)

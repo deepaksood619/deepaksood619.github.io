@@ -4,13 +4,15 @@
 
 <https://free-for.dev>
 
+[GitHub - awesome-selfhosted/awesome-selfhosted: A list of Free Software network services and web applications which can be hosted on your own servers](https://github.com/awesome-selfhosted/awesome-selfhosted)
+
 ## Knowledge Graph
 
 The **Knowledge Graph** is a knowledge base used by [Google](https://en.wikipedia.org/wiki/Google) and its services to enhance its [search engine](https://en.wikipedia.org/wiki/Google_Search)'s results with information gathered from a variety of sources. This information is presented to users in a box to the right of search results. Knowledge Graph boxes were added to Google's search engine in May 2012, starting in the United States, with international expansion by the end of the year. The Knowledge Graph was powered in part by [Freebase](https://en.wikipedia.org/wiki/Freebase). The information covered by the Knowledge Graph grew significantly after launch, tripling its original size within seven months, and being able to answer "roughly one-third" of the 100 billion monthly searches Google processed in May 2016. The information is often used as a spoken answer in [Google Assistant](https://en.wikipedia.org/wiki/Google_Assistant) and [Google Home](https://en.wikipedia.org/wiki/Google_Home) searches. The Knowledge Graph has been criticized for providing answers without source attribution.
 
 ## Yocto Project
 
-TheYocto Projectis a [Linux Foundation](https://en.wikipedia.org/wiki/Linux_Foundation) Collaborative [open source](https://en.wikipedia.org/wiki/Open_source) Project whose goal is to produce tools and processes that enable the creation of [Linux distributions](https://en.wikipedia.org/wiki/Linux_distribution) for [embedded software](https://en.wikipedia.org/wiki/Embedded_software) that are independent of the underlying architecture of the embedded hardware. The project was announced by the Linux Foundation in 2010 and launched in March, 2011, in collaboration with 22 organizations, including [OpenEmbedded](https://en.wikipedia.org/wiki/OpenEmbedded).
+The Yocto Project is a [Linux Foundation](https://en.wikipedia.org/wiki/Linux_Foundation) Collaborative [open source](https://en.wikipedia.org/wiki/Open_source) Project whose goal is to produce tools and processes that enable the creation of [Linux distributions](https://en.wikipedia.org/wiki/Linux_distribution) for [embedded software](https://en.wikipedia.org/wiki/Embedded_software) that are independent of the underlying architecture of the embedded hardware. The project was announced by the Linux Foundation in 2010 and launched in March, 2011, in collaboration with 22 organizations, including [OpenEmbedded](https://en.wikipedia.org/wiki/OpenEmbedded).
 
 The Yocto Project's focus is on improving the software development process for [embedded Linux](https://en.wikipedia.org/wiki/Embedded_Linux) distributions. The Yocto Project provides interoperable tools, metadata, and processes that enable the rapid, repeatable development of Linux-based [embedded systems](https://en.wikipedia.org/wiki/Embedded_systems) in which every aspect of the development process can be customized.
 
@@ -48,25 +50,27 @@ Amazon Mechanical Turk(MTurk) is a [crowdsourcing](https://en.wikipedia.org/wiki
 
 <https://en.wikipedia.org/wiki/Amazon_Mechanical_Turk>
 
-## WSO2 Integration Agile Platform
+## WSO2
+
+### WSO2 Integration Agile Platform
 
 The WSO2 Integration Agile Platform is a broad framework to develop, reuse, run and manage integrations. It's architected around a common code base of fully open source integration technologies. Components can be used individually, or as a cohesive integration-agile platform.
 
 ![image](../../media/Technologies-Others-Others-image1.jpg)
 
-## WSO2 Stream Processor
+### WSO2 Stream Processor
 
 WSO2 Stream Processor is an open source, cloud native and lightweight stream processing platform that understands streaming SQL queries in order to capture, analyze, process and act on events in real time. This facilitates real-time streaming data integration and analytics. With the product's powerful streaming SQL, simple deployment, and ability to adapt to changes rapidly, enterprises can go to market faster and achieve greater ROI. Unlike other offerings, it provides a simple two-node deployment for high availability and scales beyond with its distributed deployment to cater to extremely high workloads.
 
 ![image](../../media/Technologies-Others-Others-image2.jpg)
 
-## WSO2 API Manager
+### WSO2 API Manager
 
 WSO2 API Manager is an open source enterprise-class solution that supports API publishing, lifecycle management, application development, access control, rate limiting and analytics in one cleanly integrated system.
 
 ![image](../../media/Technologies-Others-Others-image3.jpg)
 
-## WSO2 Identity Server
+### WSO2 Identity Server
 
 WSO2 Identity Server is API-driven, is based on open standards with the deployment options of on-premise, cloud or hybrid. It supports complex IAM requirements given its high extensibility.
 
@@ -86,7 +90,7 @@ HyperTrack is live [location](https://en.wikipedia.org/wiki/Location_(geography)
 
 ## Predictive Dialer
 
-Apredictive dialerdials a list of [telephone numbers](https://en.wikipedia.org/wiki/Telephone_number) and connects answered dials to people making calls, often referred to as agents. Predictive dialers use statistical [algorithms](https://en.wikipedia.org/wiki/Algorithm) to minimize the time that agents spend waiting between conversations, while minimizing the occurrence of someone answering when no agent is available.
+A predictive dialer dials a list of [telephone numbers](https://en.wikipedia.org/wiki/Telephone_number) and connects answered dials to people making calls, often referred to as agents. Predictive dialers use statistical [algorithms](https://en.wikipedia.org/wiki/Algorithm) to minimize the time that agents spend waiting between conversations, while minimizing the occurrence of someone answering when no agent is available.
 
 When dialing numbers one at a time, there are two sources of delay. First, only some fraction of dials are answered; for example, if 1 out of 3 dials are answered, a predictive dialer might dial 3 lines every time an agent becomes available. Second, even dials that are answered take some time before being picked up. If it typically takes 10 seconds for someone to pick up, and conversations typically last 90 seconds, a predictive dialer might start dialing at 80 seconds.A predictive dialer does so by discarding all tones and only passing "Hellos" from the lead to the agent.
 

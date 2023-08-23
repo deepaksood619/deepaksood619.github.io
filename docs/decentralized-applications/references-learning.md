@@ -40,23 +40,15 @@
 
 ### Awesome links
 
-**[GitHub - yjjnls/awesome-blockchain: ⚡️Curated list of resources for the development and applications of blockchain.](https://github.com/yjjnls/awesome-blockchain)**
-
-[GitHub - bekatom/awesome-ethereum: Awesome Ethereum Resources](https://github.com/bekatom/awesome-ethereum)
-
-[GitHub - LukasMasuch/best-of-crypto: 🏆 A ranked list of awesome open-source crypto projects. Updated weekly.](https://github.com/LukasMasuch/best-of-crypto)
-
-[GitHub - cmahon/awesome-cryptocurrency: Cryptocurrency resources](https://github.com/cmahon/awesome-cryptocurrency)
-
-[GitHub - coderplex-org/awesome-blockchain: A curated list of awesome Blockchain, Bitcoin and Ethereum related resources](https://github.com/coderplex-org/awesome-blockchain)
-
-[GitHub - dylanhogg/crazy-awesome-crypto: A list of awesome crypto and blockchain projects - A list of 4444 crypto project repos ordered by stars.](https://github.com/dylanhogg/crazy-awesome-crypto)
-
-[GitHub - LukasMasuch/best-of-crypto: 🏆 A ranked list of awesome open-source crypto projects. Updated weekly.](https://github.com/LukasMasuch/best-of-crypto)
-
-[GitHub - hitripod/awesome-blockchain: Curated list of blockchain, Awesome Awesomeness](https://github.com/hitripod/awesome-blockchain)
-
-[Upgrading Ethereum | Contents](https://eth2book.info/bellatrix/contents/)
+- **[GitHub - yjjnls/awesome-blockchain: ⚡️Curated list of resources for the development and applications of blockchain.](https://github.com/yjjnls/awesome-blockchain)**
+- [GitHub - bekatom/awesome-ethereum: Awesome Ethereum Resources](https://github.com/bekatom/awesome-ethereum)
+- [GitHub - LukasMasuch/best-of-crypto: 🏆 A ranked list of awesome open-source crypto projects. Updated weekly.](https://github.com/LukasMasuch/best-of-crypto)
+- [GitHub - cmahon/awesome-cryptocurrency: Cryptocurrency resources](https://github.com/cmahon/awesome-cryptocurrency)
+- [GitHub - coderplex-org/awesome-blockchain: A curated list of awesome Blockchain, Bitcoin and Ethereum related resources](https://github.com/coderplex-org/awesome-blockchain)
+- [GitHub - dylanhogg/crazy-awesome-crypto: A list of awesome crypto and blockchain projects - A list of 4444 crypto project repos ordered by stars.](https://github.com/dylanhogg/crazy-awesome-crypto)
+- [GitHub - LukasMasuch/best-of-crypto: 🏆 A ranked list of awesome open-source crypto projects. Updated weekly.](https://github.com/LukasMasuch/best-of-crypto)
+- [GitHub - hitripod/awesome-blockchain: Curated list of blockchain, Awesome Awesomeness](https://github.com/hitripod/awesome-blockchain)
+- [Upgrading Ethereum | Contents](https://eth2book.info/bellatrix/contents/)
 
 ## References / Links
 

@@ -359,6 +359,10 @@ Youtube Original's Mind Field
 - Gioachino Rossini
 - [HALIDONMUSIC - YouTube](https://www.youtube.com/@HALIDONMUSIC)
 
+## Instagram
+
+- [Jeryl 🇸🇬 (@smilewithjeryl) • Instagram photos and videos](https://www.instagram.com/smilewithjeryl/?hl=en)
+
 ## Resources
 
 ### Others
@@ -373,6 +377,7 @@ Youtube Original's Mind Field
 
 ### Torrents
 
+- [GitHub - iptv-org/iptv: Collection of publicly available IPTV channels from all over the world](https://github.com/iptv-org/iptv)
 - <https://www.1377x.to>
 - 1377x.to
 - <https://1337xto.to/>

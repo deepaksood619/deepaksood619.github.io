@@ -261,37 +261,23 @@ Convoluational neural network - <https://towardsdatascience.com/the-most-intuiti
 
 ## Resources
 
-<https://towardsdatascience.com/a-weird-introduction-to-deep-learning-7828803693b0>
-
-<https://www.toptal.com/machine-learning/tensorflow-machine-learning-tutorial>
-
-<https://www.inference.vc/untitled>
-
-<https://www.freecodecamp.org/news/deep-learning-neural-networks-explained-in-plain-english>
-
-<https://www.freecodecamp.org/news/keras-video-course-python-deep-learning>
-
-<https://hadrienj.github.io/posts/Deep-Learning-Book-Series-Introduction>
-
-<https://www.freecodecamp.org/news/deep-learning-crash-course-learn-the-key-concepts-and-terms>
-
-<https://www.freecodecamp.org/news/learn-deep-learning-from-the-president-of-kaggle>
-
-<https://deepai.org>
-
-[Hugging Face – The AI community building the future.](https://huggingface.co/)
+- <https://towardsdatascience.com/a-weird-introduction-to-deep-learning-7828803693b0>
+- <https://www.toptal.com/machine-learning/tensorflow-machine-learning-tutorial>
+- <https://www.inference.vc/untitled>
+- <https://www.freecodecamp.org/news/deep-learning-neural-networks-explained-in-plain-english>
+- <https://www.freecodecamp.org/news/keras-video-course-python-deep-learning>
+- <https://hadrienj.github.io/posts/Deep-Learning-Book-Series-Introduction>
+- <https://www.freecodecamp.org/news/deep-learning-crash-course-learn-the-key-concepts-and-terms>
+- <https://www.freecodecamp.org/news/learn-deep-learning-from-the-president-of-kaggle>
+- <https://deepai.org>
 
 ## Questions
 
-<http://onlinetutorials.today/data-science/data-science-interview-questions-and-answers>
-
-<https://medium.com/@leventov/design-of-a-cost-efficient-time-series-store-for-big-data-88c5dc41af8e>
-
-<https://www.fast.ai/2020/01/07/data-questionnaire>
-
-<https://www.conordewey.com/blog/the-big-list-of-data-science-interview-resources>
-
-<https://towardsdatascience.com/the-uber-data-scientist-interview-7ba9ca95f4e3>
+- <http://onlinetutorials.today/data-science/data-science-interview-questions-and-answers>
+- <https://medium.com/@leventov/design-of-a-cost-efficient-time-series-store-for-big-data-88c5dc41af8e>
+- <https://www.fast.ai/2020/01/07/data-questionnaire>
+- <https://www.conordewey.com/blog/the-big-list-of-data-science-interview-resources>
+- <https://towardsdatascience.com/the-uber-data-scientist-interview-7ba9ca95f4e3>
 
 ## Links
 

@@ -117,8 +117,7 @@ How to estimate
 
 ## Resources
 
-[Top 10 Things That Destroy Developer Productivity](https://www.youtube.com/watch?v=O-U11s-Rk_w&ab_channel=CodingTech)
-
-[Top 10 Traits of The Great Technical Leaders](https://youtu.be/3AZi49wyvds)
-
-[Software Engineering at Google](https://abseil.io/resources/swe-book/html/toc.html)
+- [Top 10 Things That Destroy Developer Productivity](https://www.youtube.com/watch?v=O-U11s-Rk_w&ab_channel=CodingTech)
+- [Top 10 Traits of The Great Technical Leaders](https://youtu.be/3AZi49wyvds)
+- [Software Engineering at Google](https://abseil.io/resources/swe-book/html/toc.html)
+- [Engineering for Software • Dave Farley • YOW! 2022 - YouTube](https://www.youtube.com/watch?v=J8vCm1NdKIc)

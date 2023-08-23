@@ -93,30 +93,20 @@ ECMAScript 2015, also known as ES6, introduced many changes to JavaScript.
 
 ## References
 
-Javascript: The Definitive Guide
-
-<https://medium.freecodecamp.org/here-are-examples-of-everything-new-in-ecmascript-2016-2017-and-2018-d52fa3b5a70e>
-
-Why I hate JS - <https://charlieharvey.org.uk/page/javascript_the_weird_parts>
-
-<https://www.toptal.com/javascript/tips-and-practices>
-
-<https://www.freecodecamp.org/news/how-javascript-implements-oop>
-
-<https://www.freecodecamp.org/news/complete-introduction-to-the-most-useful-javascript-array-methods>
-
-<https://www.freecodecamp.org/news/javascript-lexical-scope-tutorial>
-
-<https://www.freecodecamp.org/news/synchronous-vs-asynchronous-in-javascript>
-
-<https://www.freecodecamp.org/news/learn-javascript-form-validation-by-making-a-form>
-
-<https://github.com/airbnb/javascript>
-
-<https://www.freecodecamp.org/news/execution-context-how-javascript-works-behind-the-scenes>
-
-<https://www.freecodecamp.org/news/javascript-es-modules-and-module-bundlers>
-
-<https://www.freecodecamp.org/news/lexical-scope-in-javascript>
-
-<https://www.freecodecamp.org/news/objects-in-javascript-for-beginners>
+- Javascript: The Definitive Guide
+- <https://medium.freecodecamp.org/here-are-examples-of-everything-new-in-ecmascript-2016-2017-and-2018-d52fa3b5a70e>
+- Why I hate JS - <https://charlieharvey.org.uk/page/javascript_the_weird_parts>
+- <https://www.toptal.com/javascript/tips-and-practices>
+- <https://www.freecodecamp.org/news/how-javascript-implements-oop>
+- <https://www.freecodecamp.org/news/complete-introduction-to-the-most-useful-javascript-array-methods>
+- <https://www.freecodecamp.org/news/javascript-lexical-scope-tutorial>
+- <https://www.freecodecamp.org/news/synchronous-vs-asynchronous-in-javascript>
+- <https://www.freecodecamp.org/news/learn-javascript-form-validation-by-making-a-form>
+- <https://github.com/airbnb/javascript>
+- <https://www.freecodecamp.org/news/execution-context-how-javascript-works-behind-the-scenes>
+- <https://www.freecodecamp.org/news/javascript-es-modules-and-module-bundlers>
+- <https://www.freecodecamp.org/news/lexical-scope-in-javascript>
+- <https://www.freecodecamp.org/news/objects-in-javascript-for-beginners>
+- [JavaScript Tips to Help You Build Better Web Development Projects](https://www.freecodecamp.org/news/javascript-tips-for-better-web-dev-projects/)
+- [How to Use JavaScript Promises – Callbacks, Async/Await, and Promise Methods Explained](https://www.freecodecamp.org/news/javascript-promises-async-await-and-promise-methods/)
+- [Learn JavaScript Operators – Logical, Comparison, Ternary, and More JS Operators With Examples](https://www.freecodecamp.org/news/javascript-operators/)

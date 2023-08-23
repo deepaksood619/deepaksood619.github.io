@@ -159,3 +159,5 @@ The **impossible trinity** (also known as **the impossible [trilemma](https://en
 - [The Game Theory Of Military Spending | Economics Explained - YouTube](https://www.youtube.com/watch?v=Vg9Aiz2piew)
 - [China Needs to Engineer a Beautiful Deleveraging](https://www.linkedin.com/pulse/china-needs-engineer-beautiful-deleveraging-ray-dalio/)
 - [In Search of Safe Havens: The Trust Deficit and Risk-free Investments! - YouTube](https://www.youtube.com/watch?v=XcywXZAbB8U)
+- [Why Indian Economy is Bleeding Talent? : Socio-economic case study - YouTube](https://www.youtube.com/watch?v=KYFdxuLFVyQ)
+- [When Economic Policies Go Wrong | Economics Explained - YouTube](https://www.youtube.com/watch?v=6OTPa66ytm0)

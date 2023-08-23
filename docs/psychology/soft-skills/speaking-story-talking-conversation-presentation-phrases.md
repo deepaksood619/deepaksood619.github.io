@@ -26,7 +26,19 @@ Always tell stories, most visual stories are the best, and simple
 - Preparation before presentation
 - Don't be a **Conversation narcissistic** (is someone who constantly turns the conversation to themselves and is otherwise disengaged in what's being said)
 
-## Great speeches
+### Imprompto
+
+#### PREP
+
+- P - Point
+- R - Reason
+- E - Example
+- P - Point
+- Pros vs Cons - Wrapping up with points
+
+[Impromptu Speaking: How to Get Better at Speaking on the Spot - YouTube](https://www.youtube.com/watch?v=SehA30-v-nM)
+
+### Great speeches
 
 [Infinite Vision: The Story of Aravind Eye Hospital](https://youtu.be/Jr70IrWM-n8)
 
@@ -175,3 +187,6 @@ When speaking (or writing), use them to spread positivity and joy with others. U
 - [Talking Across Divide](../../book-summaries/talking-across-divide)
 - [Get it](../../book-summaries/get-it)
 - [Think Again](../../book-summaries/think-again)
+- [2023 Toastmasters World Champion of Public Speaking: Jocelyn Tyson - YouTube](https://www.youtube.com/watch?v=vEmawDu17AU)
+- [Nisha Shivram: 2nd place winner, 2023 World Championship of Public Speaking - YouTube](https://www.youtube.com/watch?v=hkaVgE_9pcs)
+- [Maryam Ganni 3rd place winner, 2023 World Championship of Public Speaking - YouTube](https://www.youtube.com/watch?v=U5xF4M2ghjA)

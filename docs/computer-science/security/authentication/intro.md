@@ -89,6 +89,8 @@ When a server receives an HTTP request in the response, it can send aSet-Cookie 
 - Need to make extra effort to mitigate [CSRF attacks](https://www.owasp.org/index.php/Cross-Site_Request_Forgery_(CSRF))
 - Incompatibility with REST - as it introduces a state into a stateless protocol
 
+[Cookies - YouTube](https://www.youtube.com/playlist?list=PLQnljOFTspQXaimjxx6uGLJz6lR25abZn)
+
 ### Token-Based Authentication (Stateless)
 
 Token based authenticationis gaining in popularity because of the rise in single page applications (SPA) and statelessness (RESTful API's) of the application. There are different ways to implement token based authentication, we will focussing on most commonly used JSON Web Token(JWT). On receiving the credentials from client the server validates the credentials and generates a signed JWT which contains the user information. Note, the token will never get stored in server(stateless). On subsequent request the token will be passed to server and gets verified(decoded) in the server. The token can be maintained at client side in local storage, session storage or even in cookies.
