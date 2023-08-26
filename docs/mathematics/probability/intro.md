@@ -74,7 +74,9 @@ In [probability theory](https://en.wikipedia.org/wiki/Probability_theory), aprob
 In the subjectivist view, probability is the value that a rational agent would assign to the likelihood of an event happening
 
 - You can assign probabilities to events, even if they are not repeatable
-- Unlike the frequentist view, rational individuals can disagree on the probability of an event occuring
+- Unlike the frequentist view, rational individuals can disagree on the probability of an event occurring
+
+[Is probability frequentist or Bayesian? - by Tivadar Danka](https://thepalindrome.org/p/is-probability-frequentist-or-bayesian)
 
 ## Cumulative and Conditional Probabilities
 

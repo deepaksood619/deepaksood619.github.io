@@ -44,3 +44,8 @@ One explanation for whyakrasiarules our lives and procrastination pulls us in ha
 6. Reaffirmation
 
 [4 Proven Ways to Kick Your Procrastination Habit | Ayelet Fishbach | TED - YouTube](https://www.youtube.com/watch?v=tB5J9qgM2zI&ab_channel=TED) - Intrinsic motivation
+
+## Links
+
+- [No.1 Habit & Procrastination Expert: We've Got ADHD Wrong! Break Any Habit & Never Be Distracted! - YouTube](https://www.youtube.com/watch?v=rDdoUbCFn24)
+- [How to stop procrastinating | SOLVING THE PROCRASTINATION PUZZLE by Timothy Pychyl | Core Message - YouTube](https://www.youtube.com/watch?v=6a7NdW4sFIU)

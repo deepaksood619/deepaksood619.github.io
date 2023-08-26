@@ -31,6 +31,8 @@ TSM - Tableau Services Manager
 cli client for server
 
 ```bash
+tsm start
+
 tsm configuration list-dynamic-keys
 
 tsm help

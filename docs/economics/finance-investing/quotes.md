@@ -10,6 +10,8 @@ Buy the rumors sell the news
 
 Past performance is no guarantee for future performance
 
+Never get married to your investment
+
 It's not hard to get rich. Investing is a game of temperament not a game of intelligence.
 
 An investor without an investment objective is like a traveler without a destination!

@@ -41,6 +41,8 @@ In Bitcoin, there have so far been three instances in which a transaction has be
 
 [On Settlement Finality | Ethereum Foundation Blog](https://blog.ethereum.org/2016/05/09/on-settlement-finality)
 
+[The Engineer’s Guide to Blockchain Finality | Trail of Bits Blog](https://blog.trailofbits.com/2023/08/23/the-engineers-guide-to-blockchain-finality/)
+
 ## CRYPTO-ECONOMIC SECURITY
 
 Running a validator is a commitment. The validator is expected to maintain sufficient hardware and connectivity to participate in block validation and proposal. In return, the validator is paid in ETH (their staked balance increases). On the other hand, participating as a validator also opens new avenues for users to attack the network for personal gain or sabotage. To prevent this, validators miss out on ETH rewards if they fail to participate when called upon, and their existing stake can be destroyed if they behave dishonestly. There are two primary behaviors that can be considered dishonest: proposing multiple blocks in a single slot (equivocating) and submitting contradictory attestations.

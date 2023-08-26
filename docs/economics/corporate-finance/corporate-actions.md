@@ -56,6 +56,8 @@ However, a word of caution -- The investor should not be swayed by the discount 
 
 [Unbelievable! Buy Shares at 99.7% Discount using Rights Issue Loophole | Stock Market Scam](https://www.youtube.com/watch?v=DCLeQBp-wZI)
 
+[What is Rights Issue & Rights Entitlement? How to Apply & Sell Rights Issue Shares? - YouTube](https://www.youtube.com/watch?v=m7U4liUJAkE)
+
 ## Buybacks of Shares
 
 A buyback can be seen as a method for a company to invest in itself by buying shares from other investors in the market. Buybacks reduce the number of shares outstanding in the market, however, buyback of shares is an important method of corporate restructuring. There could be many reasons why corporates choose to buy back shares...

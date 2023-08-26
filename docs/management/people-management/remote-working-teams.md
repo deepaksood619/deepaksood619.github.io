@@ -4,6 +4,8 @@ Teams of 1 are the best teams, and 1 of the most hard to create
 
 Remote is a strategic advantage to some companies and poison for others
 
+Remote work needs discipline
+
 ### TODOs
 
 - Making remote teams meet once a month/quarter
@@ -56,3 +58,5 @@ To complement the self-assessment of the stress continuum, McGladrey recently pi
 <https://blog.trello.com/conflict-management-strategies-for-hybrid-teams>
 
 [The Future of Remote Work | Stay SaaSy](https://staysaasy.com/management/2023/08/06/the-future-of-remote-work.html)
+
+[Remote Working Approaches That Worked (And Some That Didn’t) • Charles Humble • GOTO 2023 - YouTube](https://www.youtube.com/watch?v=sQOHhoCSfak)

@@ -77,7 +77,7 @@ M union-find operations on a set of N objects
 
 ## Code Snippets
 
-1. Find
+### 1. Find
 
 ```python
 function *Find*(x):
@@ -86,7 +86,7 @@ function *Find*(x):
  return x.parent
 ```
 
-2. Union
+### 2. Union
 
 ```python
 function *Union*(x, y):

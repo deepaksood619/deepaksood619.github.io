@@ -28,7 +28,11 @@ Moving from information to knowledge age
 
 #### AI Generators
 
-- [Stable Diffusion Online](https://stablediffusionweb.com/) - [Stability AI](https://stability.ai/)
+- [Stable Diffusion Online](https://stablediffusionweb.com/) - [Stability AI](https://stability.ai/) - Generation of unique, realistic, high-quality images, art, logos, and designs
+- Amazon Bedrock
+- Amazon Titan - Amazon Titan FMs are a family of models built by Amazon that are pretrained on large datasets, which makes them powerful, general-purpose models
+- AI21 labs - Jurassic-2 - Multilingual LLMs for text generation in Spanish, French, German, Portuguese, Italian, and Dutch
+- Antropic - Claude - LLM for conversations, question answering, and workflow automation based on research into training honest and responsible AI systems
 - [GitHub - AUTOMATIC1111/stable-diffusion-webui: Stable Diffusion web UI](https://github.com/AUTOMATIC1111/stable-diffusion-webui)
 - Dall E - <https://openai.com/dall-e-2>
 - [ClipDrop](https://clipdrop.co/)
@@ -92,6 +96,7 @@ Prompt: "I want to learn about {insert topic}. Identify and share the most impor
   - [How to Build LLM Applications with LangChain | DataCamp](https://www.datacamp.com/tutorial/how-to-build-llm-applications-with-langchain)
 - [GitHub - Significant-Gravitas/Auto-GPT: An experimental open-source attempt to make GPT-4 fully autonomous.](https://github.com/Significant-Gravitas/Auto-GPT)
 - [Llama 2 - Meta AI](https://ai.meta.com/llama/)
+- [Introducing Code Llama, a state-of-the-art large language model for coding](https://ai.meta.com/blog/code-llama-large-language-model-coding/)
 - [GitHub - jerryjliu/llama\_index: LlamaIndex (GPT Index) is a data framework for your LLM applications](https://github.com/jerryjliu/llama_index)
 - [Building your Generative AI apps with Meta's Llama 2 and Databricks | Databricks Blog](https://www.databricks.com/blog/building-your-generative-ai-apps-metas-llama-2-and-databricks)
 - [GitHub - stoyan-stoyanov/llmflows: LLMFlows - Simple, Explicit and Transparent LLM Apps](https://github.com/stoyan-stoyanov/llmflows)
@@ -105,6 +110,7 @@ Prompt: "I want to learn about {insert topic}. Identify and share the most impor
 - [GitHub - yoheinakajima/babyagi](https://github.com/yoheinakajima/babyagi)
 - [GitHub - coqui-ai/TTS: 🐸💬 - a deep learning toolkit for Text-to-Speech, battle-tested in research and production](https://github.com/coqui-ai/TTS)
 - [GitHub - tensorchord/Awesome-LLMOps: An awesome & curated list of best LLMOps tools for developers](https://github.com/tensorchord/Awesome-LLMOps)
+- [AI Development Cloud Platform | Deploy & Manage AI Logic](https://mindsdb.com/)
 
 ```bash
 python -m pip install --upgrade langchain[llm]
@@ -122,6 +128,15 @@ chainlit run document_qa.py
 [GitHub - huggingface/transformers: 🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.](https://github.com/huggingface/transformers)
 
 [Hugging Face – The AI community building the future.](https://huggingface.co/)
+
+## Purpose-built accelerators for generative AI
+
+- AWS Inferentia - Lowest cost per inference in the cloud for running deep learning (DL) models
+- AWS Trainium - The most cost-efficient, high- performance training of LLMs and diffusion models
+- AWS Inferentia2 - High performance at the lowest cost per inference for LLMs and diffusion models
+- Amazon EC2 P5 instances - Powered by NVIDIA H100 Tensor Core GPUs
+- Amazon EC2 P4d/P4de instances - Powered by NVIDIA A100 Tensor Core GPUs
+- Amazon EC2 G5 instances - Powered by NVIDIA A10G Tensor Core GPUs
 
 ## Learning
 

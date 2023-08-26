@@ -51,7 +51,7 @@ Mr. India will be liable to pay income tax on this INR 1 crore at [slab rates](h
 
 F&O - 2.5 lakh profit exemption per financial year
 
-## LTCG
+## LTCG / Tax Loss Harvesting
 
 To prevent gains from building up, experts suggest harvesting. This means booking a portion of your profits and reinvesting the proceeds. So you sell a part of your equity holdings to book long term capital gains, and then buy back the same shares or mutual fund units.
 
@@ -68,6 +68,7 @@ if you are not able to set off your entire capital loss in the same year, you ca
 [7 Questions to Ask Before Selling Equity Mutual Funds or Stocks | ETMONEY](https://www.youtube.com/watch?v=KJ4kinqOW6c)
 
 [What is Tax Harvesting | What is Tax Loss Harvesting | Tax Harvesting in Mutual Funds](https://www.youtube.com/watch?v=t_y0kNP-apY)
+[How to Save Capital Gain Tax? Use Tax Loss Harvesting to Save Tax in Stock Market - YouTube](https://www.youtube.com/watch?v=E_CKrnF4CtY)
 
 [How I Saved ₹2 Lakhs in Taxes with Tax Loss Harvesting? A Must-Know for all Investors - YouTube](https://www.youtube.com/watch?v=E_CKrnF4CtY)
 
@@ -355,6 +356,26 @@ An offshore account is one that is opened by a citizen outside her home country.
 [Section 54EC- Deduction on LTCG Through Capital Gain Bonds](https://cleartax.in/s/section-54ec-bonds)
 
 - Till 50 lakh of LTCG, buy NHAI bonds, get 5% interest rate with 5 year lock in and only pay taxes on interest earned on NHAI bonds and principle which was going to be taxed becomes tax free
+
+## Property Taxes
+
+Property tax is calculated by the municipal authorities in proportion tothe assessed value of the property.There are mainly three ways of calculating property tax:
+
+### Capital Value System (CVS)
+
+The tax is levied as a percentage of the market value of the property. This market value is determined by the government and is based on the locality of the property. The market value is revised and published yearly. Mumbai follows this system.
+
+### Annual Rental Value System or Rateable Value System (RVS)
+
+Under this system, the tax is calculated on the yearly rental value of the property. This is not necessarily the actual rent amount being collected; rather it is the rental value decided by the municipal authority based on the size, location, condition of the premises, proximity to landmarks, amenities etc. Examples of municipalities following this system of property tax include Hyderabad and Chennai.
+
+### Unit Area Value System (UAS)
+
+In this system, the tax is levied on the per unit price of the built-up area of the property. This price is fixed (per square foot per month) based on the expected returns of the property as per its location, land price, and usage, and is then multiplied with its built-up area. Municipalities like Delhi, Kolkata, Bengaluru, Patna and Hyderabad follow this system for property tax calculation.
+
+[Everything to know about property tax and how it is calculated | HDFC Bank Ltd](https://www.hdfc.com/blog/home-finance/what-property-tax-and-how-it-calculated)
+
+[What is Property Tax? - Types & Calculation](https://groww.in/p/tax/property-tax)
 
 ## Links
 

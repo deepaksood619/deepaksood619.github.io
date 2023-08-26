@@ -2,10 +2,7 @@
 
 ## Choosing companies
 
-- Legacy Planning
-
-we do not want a situation where a rich child living abroad has equal share in your house where a not-so-rich 2nd child lives. This can lead to hardship for the 2nd child. This is a complex subject and some vision on your part is necessary.
-
+- Legacy Planning - we do not want a situation where a rich child living abroad has equal share in your house where a not-so-rich 2nd child lives. This can lead to hardship for the 2nd child. This is a complex subject and some vision on your part is necessary.
 - Estate Planning
 - Living Will
 
@@ -394,3 +391,5 @@ Consumption smoothing refers to **a process of achieving a balance between spend
 [Warren Buffett Explains the 7 Rules Investors Must Follow in 2023 - YouTube](https://www.youtube.com/watch?v=PEPrpSCZkeU)
 
 [GitHub - JerBouma/PersonalFinance: Tracking your income and expenses automatically.](https://github.com/JerBouma/PersonalFinance)
+
+[First Pillar of Investing - Avoid investing in Fragile companies - Introducing the Fragility Score Card: Financial Statement Analysis made easy](https://www.budgetiger.in/p/introducing-the-fragility-score-card)

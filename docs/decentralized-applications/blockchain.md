@@ -186,14 +186,14 @@ Layering - Tumblr / Mixers
 
 ## Links
 
-[Blockchain 102 and The Dark Side of Blockchain](https://www.youtube.com/watch?v=-so3AtnToek)
-
-[Intersection of Blockchain and Video Games: Is Blockchain Technology Ready for the Gaming Industry? - YouTube](https://www.youtube.com/watch?v=A19ZOAIOywE)
-
-[What is Bitcoin and Blockchain (by Charles Hoskinson) - YouTube](https://www.youtube.com/watch?v=U8OSOrbNrjI)
-
-[Picking the Right Blockchain For the Job - YouTube](https://www.youtube.com/watch?v=rgiP5W8ckl8)
-
-[Yes, You Too Can Break Crypto: Exploiting Common Crypto Mistakes - YouTube](https://www.youtube.com/watch?v=eTHRv2uSc_Y)
-
-[Blockchain 101 (or How to Build a Blockchain with JavaScript) - YouTube](https://www.youtube.com/watch?v=JiEAuaNFZGo)
+- [Blockchain 102 and The Dark Side of Blockchain](https://www.youtube.com/watch?v=-so3AtnToek)
+- [Intersection of Blockchain and Video Games: Is Blockchain Technology Ready for the Gaming Industry? - YouTube](https://www.youtube.com/watch?v=A19ZOAIOywE)
+- [What is Bitcoin and Blockchain (by Charles Hoskinson) - YouTube](https://www.youtube.com/watch?v=U8OSOrbNrjI)
+- [Picking the Right Blockchain For the Job - YouTube](https://www.youtube.com/watch?v=rgiP5W8ckl8)
+- [Yes, You Too Can Break Crypto: Exploiting Common Crypto Mistakes - YouTube](https://www.youtube.com/watch?v=eTHRv2uSc_Y)
+- [Blockchain 101 (or How to Build a Blockchain with JavaScript) - YouTube](https://www.youtube.com/watch?v=JiEAuaNFZGo)
+- [How do you get from a private key to a Bitcoin address? | Part 12 Cryptography Crashcourse - YouTube](https://www.youtube.com/watch?v=2idX-V8riy0)
+- [How do Hierarchical Deterministic Wallets work? | Part 13 Cryptography Crashcourse - YouTube](https://www.youtube.com/watch?v=nF2l6mdi7Ts)
+- [How does a Bitcoin transaction work in detail? | Part 14 Cryptography Crashcourse - YouTube](https://www.youtube.com/watch?v=zdhuEytjYH4)
+- [Bitcoin Mining Explained in Detail: Nonce, Merkle Root, SPV,... | Part 15 Cryptography Crashcourse - YouTube](https://www.youtube.com/watch?v=C1n4SI7xzds)
+- [Will Quantum Computers kill Bitcoin? | Part 16 Cryptography Crashcourse - YouTube](https://www.youtube.com/watch?v=SD6WBud04xc)

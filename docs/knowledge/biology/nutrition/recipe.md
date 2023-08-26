@@ -107,27 +107,17 @@
 
 [Easy Lemon Chicken Recipe-Oil Free Lemon Chicken-Diet Lemon Chicken-How to cook oil free Chicken(SUB](https://www.youtube.com/watch?v=MXhYPZ9KQT4)
 
-![image](../../../media/Nutrition_Recipe-image1.jpg)
-
 [Egg Maggi Masala Recipe in Hindi | Street Style Egg Maggi Masala | Bachelors Recipe | KabitasKitchen](https://www.youtube.com/watch?v=6xqsC9pOa3M)
-
-![image](../../../media/Nutrition_Recipe-image2.jpg)
-
-Veg Pulao in cooker
-
-For 1 glass rice - 1.5 glass water
-
-High Flame - 1 whistle
-
-Gas off - don't open till cool
 
 [Veg Pulao Recipe | कुकर में झटपट बनाये बेहतरीन पुलाव | Pressure Cooker Pulao | KabitasKitchen](https://www.youtube.com/watch?v=qFE9madv0RY)
 
-![image](../../../media/Nutrition_Recipe-image3.jpg)
+- For 1 glass rice - 1.5 glass water
+- High Flame - 1 whistle
+- Gas off - don't open till cool
 
 [Jab Koi Sabji Na Ho Toh Sirf 5 Minute May Banaiye Ye Zabardast Recipe - Pet Bharega Dil Nahi - CWF](https://www.youtube.com/watch?v=2Ln3b37gJlE)
 
-![image](../../../media/Nutrition_Recipe-image4.jpg)
+[Air Fryer Tandoori Mushrooms – Spicy Mushroom Tikka - Fast Curries](https://fastcurries.com/2019/07/11/air-fryer-spicy-tandoori-mushrooms/)
 
 ## Theoretical
 

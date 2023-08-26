@@ -12,23 +12,29 @@ Don't sit for long stretches of hour in each position
 
 ## Types of Exercise
 
-1. Aerobic
+### 1. Aerobic
 
-    Aerobic and cardio are synonymous. This type of exercise involves moving major muscle groups continuously to elevate your heart rate and induce a sweat. Aerobic activity can be low-intensity, like a brisk walk, or swimming; or it can be high intensity like running, rowing, playing a sport such as tennis, etc.
+Aerobic and cardio are synonymous. This type of exercise involves moving major muscle groups continuously to elevate your heart rate and induce a sweat. Aerobic activity can be low-intensity, like a brisk walk, or swimming; or it can be high intensity like running, rowing, playing a sport such as tennis, etc.
 
-2. Anaerobic
+### 2. Anaerobic
 
-    Strength training using resistance or weights is the primary anaerobic activity as it doesn't require the same oxygen inputs; hence the word "anaerobic," which means without oxygen. This type of exercise strengthens and tones muscles while also improving coordination and balance. Examples of anaerobic activities include weight lifting, push-ups, pull-ups, plyometric training and HIIT (high-intensity interval training).
+Strength training using resistance or weights is the primary anaerobic activity as it doesn't require the same oxygen inputs; hence the word "anaerobic," which means without oxygen. This type of exercise strengthens and tones muscles while also improving coordination and balance. Examples of anaerobic activities include weight lifting, push-ups, pull-ups, plyometric training and HIIT (high-intensity interval training).
 
-3. Flexibility
+### 3. Flexibility
 
-    Stretching is a type of flexibility exercise that keeps your muscles relaxed and able to move freely. Without stretching either before or after a workout, you're more prone to injuries like tears and pulls.[Yoga](https://www.sleepadvisor.org/yoga-for-sleep/) is also a fantastic activity for flexibility.
+Stretching is a type of flexibility exercise that keeps your muscles relaxed and able to move freely. Without stretching either before or after a workout, you're more prone to injuries like tears and pulls. [Yoga](https://www.sleepadvisor.org/yoga-for-sleep/) is also a fantastic activity for flexibility.
 
 <https://www.sleepadvisor.org/sleep-after-workout>
 
-## Dynamic stretches - ones that incorporate movement and take joints through their full range of motion
+## Types of Stretches
 
-## Static stretches - Stretches that you hold for extended periods of time
+### Dynamic stretches
+
+ones that incorporate movement and take joints through their full range of motion
+
+### Static stretches
+
+Stretches that you hold for extended periods of time
 
 - Active static stretch - the muscle being stretched does the work of holding the position.
 - Passive static stretch - depends on gravity or a prop - like a partner, barre, strap, or elastic band - to hold the muscle that is being stretched in place.
@@ -45,7 +51,7 @@ PNF takes a two-step approach. It starts with iso- metric contraction of the opp
 
 You should not do static stretches (in which you adopt and hold a position) before you exercise. Rather, you should do these when your muscles are warmed up - say, after 10 minutes on the treadmill or with a type of warm-up called dynamic stretching that increases the flow of blood and oxygen to muscles. Surprisingly, rather than readying muscles for sports, static stretches do not improve athletic performance, but can actually undercut strength and power, possibly by affecting the ability of the muscle to store and swiftly release energy. Dynamic stretches are a better choice.
 
-## How a Strech work
+### How a Strech work
 
 Imagine that you could examine skeletal muscle as if peering through a microscope at increasing levels of magnification. First, you'd notice strands of tissue cre- ated by bundles of cells known as muscle fibers). A single muscle fiber comprises similarly bundled filaments called myofibrils. Myofibrils can contract, relax, and lengthen. Each myofibril is built from tinier units called sarcomeres, which in turn are made up of overlapping thin and thick myofilaments.
 
@@ -58,13 +64,9 @@ So, just what happens when you deliberately try to stretch a muscle? Sarcomeres 
 ## Pre-workout stretching
 
 1. 5 round surya namaskar
-
 2. Tad asana
-
 3. Arm and neck rotation
-
 4. Lunges
-
 5. Pushups
 
 ## Harvard Stretching
@@ -126,6 +128,12 @@ So, just what happens when you deliberately try to stretch a muscle? Sarcomeres 
 3. Box jumps
 4. Proprioception - single leg standing, slack line walking
 5. HIIT - BDNF (brain derived neurotrophic factor) - high intensity interval training
+
+## Ergonomics
+
+[Ergonomics Expert Explains How to Set Up Your Desk | WSJ Pro Tip - YouTube](https://www.youtube.com/watch?v=F8_ME4VwTiw)
+
+[The TRUTH About STANDING DESKS - YouTube](https://www.youtube.com/watch?v=yhkigA368mE)
 
 ## Others
 

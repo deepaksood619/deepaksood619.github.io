@@ -14,9 +14,13 @@
 
 ## Asia
 
-### China / Taiwan
+### China
 
 [Why China is Shrinking VERY Fast - YouTube](https://www.youtube.com/watch?v=KiaukPUV6Hg)
+
+[How The British Forced Opium Into China | Epic Economics - YouTube](https://www.youtube.com/watch?v=Kkgvk0fbDws)
+
+### Taiwan
 
 [Why Taiwan is So Much Richer Than China - YouTube](https://www.youtube.com/watch?v=xT17zi_4Oas)
 

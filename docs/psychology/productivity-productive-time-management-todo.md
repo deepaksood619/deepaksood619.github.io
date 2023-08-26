@@ -113,6 +113,10 @@ Plan around a 12-week period, execute tasks and radically improve results
 10. Don't Under-Emphasize the Basics: Exercise, Eat Right, and Read
 11. Realize You Control Your Time and Simplify Your Calendar
 
+### Emails
+
+- Pause your emails so you only receive it once or twice in a day
+
 ## Planning
 
 The 10% Rule: Taking Planning Seriously
@@ -249,3 +253,4 @@ Liner is a browser extension that lets you highlight anything you see online. Be
 - [Prioritization / Leverage](soft-skills/prioritization-leverage)
 - The Productivity Project - Chris Bailey
 - [Edsger Dijkstra's One-Day Workweek - Cal Newport](https://calnewport.com/edsger-dijkstras-one-day-workweek)
+- [How I manage MY WEEK running a 27 CRORE BUSINESS! | Ankur Warikoo Hindi - YouTube](https://www.youtube.com/watch?v=rpuT3LPDAZY)

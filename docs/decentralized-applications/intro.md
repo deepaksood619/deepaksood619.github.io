@@ -10,6 +10,8 @@
 
 [Lecture 12 - History of Cryptocurrencies [Bonus lecture] - YouTube](https://www.youtube.com/watch?v=1VYs_zZsorU)
 
+[CoinMarketCap 10-Year Anniversary | CoinMarketCap](https://coinmarketcap.com/events/cmc-10y-ann/)
+
 ## 2.0 stack
 
 - AWS S3 for storage

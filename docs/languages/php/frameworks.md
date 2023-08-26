@@ -19,7 +19,9 @@ Laravel is an opinionated PHP framework with MVC architecture, providing modern 
 
 According to the charts of 2019, Laravel is at the top of the list as the most popular PHP framework.
 
-## Advantages of Laravel
+[Build a Google Drive Clone with Laravel, PHP, and Vue.js](https://www.freecodecamp.org/news/build-a-google-drive-clone-with-laravel-php-vuejs/)
+
+### Advantages of Laravel
 
 Eloquent ORM, fluent query builder, great documentation, and always up-to-date Laracasts are definitely making the framework stand out. Laravel embraces automation and rapid development with providing tools like **Artisan**.
 

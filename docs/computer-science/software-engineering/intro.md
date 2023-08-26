@@ -121,3 +121,6 @@ How to estimate
 - [Top 10 Traits of The Great Technical Leaders](https://youtu.be/3AZi49wyvds)
 - [Software Engineering at Google](https://abseil.io/resources/swe-book/html/toc.html)
 - [Engineering for Software • Dave Farley • YOW! 2022 - YouTube](https://www.youtube.com/watch?v=J8vCm1NdKIc)
+- [Calling Functions Across Languages • Richard Feldman • GOTO 2023 - YouTube](https://www.youtube.com/watch?v=ZOvxa9aKCCg)
+- [Gamification, Sys. Thinking & the Power of Observability • Jessica Kerr & Jessica Cregg • GOTO 2023 - YouTube](https://www.youtube.com/watch?v=WKx9E3DRqXc)
+- [The Importance of Fun in the Workplace • Holly Cummins • YOW! 2022 - YouTube](https://www.youtube.com/watch?v=trsDnGh-x4U)

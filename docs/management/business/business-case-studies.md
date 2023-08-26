@@ -360,3 +360,5 @@ Marketing tactic used, light the agarbatti in-front of store and left for 2 days
 - [How EMIRATES is WINNING when Other AIRLINES are going BANKRUPT - YouTube](https://www.youtube.com/watch?v=cftToIr9sAo)
 - [How Blissclub TOOK OVER India’s 500 Crore Athleisure Market | GrowthX Wireframe - YouTube](https://www.youtube.com/watch?v=NnWaAVNd370)
 - [The Rise & Fall of Under Armour - YouTube](https://www.youtube.com/watch?v=HeWdxezd_CU)
+- [Fundamental Analysis of Wonderla Holidays Limited - by RCG](https://www.budgetiger.in/p/case-study-wonderla-holidays-limited)
+- [Why Is Fevicol Everywhere? | GrowthX Wireframe - YouTube](https://www.youtube.com/watch?v=RJJRfdGjt10)

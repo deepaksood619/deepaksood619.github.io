@@ -56,6 +56,7 @@
 - [Leading Institutional Staking and RPC Node provider. Stake tokens, host nodes and develop Web3 with us](https://p2p.org/)
 - [MakerDAO | An Unbiased Global Financial System](https://makerdao.com/en/)
 - [Convex](https://www.convexfinance.com/)
+- [OpenEden](https://openeden.com/)
 
 ## Games
 
@@ -98,6 +99,8 @@
 [Diamond Hands vs Paper Hands - Which Hands to Have? - YouTube](https://www.youtube.com/watch?v=j4N0M0Od7_E)
 
 ![ranks-of-bitcoin-holders](../media/Screenshot%202023-04-03%20at%209.02.03%20AM.png)
+
+[Make $100 Per Day Trading Cryptocurrency 2023 (Full Strategy) - YouTube](https://www.youtube.com/watch?v=1IU0kIKXOUc)
 
 ## Links
 

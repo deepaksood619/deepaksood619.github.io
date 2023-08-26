@@ -57,13 +57,15 @@ This strategy is sometimes called the "**kill the company**" exercise in organiz
 
 ## Diffusion of Innovation
 
-Diffusion of innovationsis a [theory](https://en.wikipedia.org/wiki/Theory) that seeks to explain how, why, and at what rate new [ideas](https://en.wikipedia.org/wiki/Idea) and [technology](https://en.wikipedia.org/wiki/Technology) spread.[Everett Rogers](https://en.wikipedia.org/wiki/Everett_Rogers), a professor of [communication studies](https://en.wikipedia.org/wiki/Communication_studies), popularized the theory in his bookDiffusion of Innovations; the book was first published in 1962, and is now in its fifth edition (2003).Rogers argues that diffusion is the process by which an [innovation](https://en.wikipedia.org/wiki/Innovation) is communicated over time among the participants in a social system. The origins of the diffusion of innovations theory are varied and span multiple disciplines.
+Diffusion of innovations is a [theory](https://en.wikipedia.org/wiki/Theory) that seeks to explain how, why, and at what rate new [ideas](https://en.wikipedia.org/wiki/Idea) and [technology](https://en.wikipedia.org/wiki/Technology) spread.[Everett Rogers](https://en.wikipedia.org/wiki/Everett_Rogers), a professor of [communication studies](https://en.wikipedia.org/wiki/Communication_studies), popularized the theory in his bookDiffusion of Innovations; the book was first published in 1962, and is now in its fifth edition (2003).Rogers argues that diffusion is the process by which an [innovation](https://en.wikipedia.org/wiki/Innovation) is communicated over time among the participants in a social system. The origins of the diffusion of innovations theory are varied and span multiple disciplines.
 
 ![image](../media/manage-Others-image2.jpg)
 
 The diffusion of innovations according to Rogers. With successive groups of consumers adopting the new technology (shown in blue), its [market share](https://en.wikipedia.org/wiki/Market_share)(yellow) will eventually reach the saturation level. The blue curve is broken into sections of adopters.
 
 <https://en.wikipedia.org/wiki/Diffusion_of_innovations>
+
+[The Biggest Myth About Innovation - YouTube](https://www.youtube.com/watch?v=thtKslF8zE4)
 
 ## Work First Mindset
 

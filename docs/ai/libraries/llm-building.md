@@ -1,5 +1,6 @@
 # LLM Building
 
+- [Create a Large Language Model from Scratch with Python – Tutorial - YouTube](https://www.youtube.com/watch?v=UU1WVnMk4E8)
 - [Understanding Large Language Models - by Sebastian Raschka](https://magazine.sebastianraschka.com/p/understanding-large-language-models)
 - [Large language models, explained with a minimum of math and jargon](https://www.understandingai.org/p/large-language-models-explained-with)
 - [Catching up on the weird world of LLMs](https://simonwillison.net/2023/Aug/3/weird-world-of-llms/)

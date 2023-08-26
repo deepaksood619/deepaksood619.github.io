@@ -357,3 +357,5 @@ There are only two industries that call their customers 'users': illegal drugs a
 ![automation-truth](../../media/Pasted%20image%2020230811165442.png)
 
 [GitHub - mame/quine-relay: An uroboros program with 100+ programming languages](https://github.com/mame/quine-relay)
+
+Only ugly languages become popular. Python is the one exception. - Donald Knuth

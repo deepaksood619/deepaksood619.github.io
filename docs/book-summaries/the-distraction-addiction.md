@@ -13,3 +13,5 @@ By Alex Soojung-Kim Pang
 - Walking and contemplative design can help us focus and block out distractions
 - Discover greater meaning in your life by identifying addictive distractions and switching them off
 - Attentiveness to the task at hand is an ability honed over time by both willpower and mindfulness
+
+[Why your phone is making you sad - YouTube](https://www.youtube.com/watch?v=vcjQ5JkEE_0)

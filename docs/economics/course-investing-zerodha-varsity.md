@@ -4,6 +4,8 @@
 
 Fundamental Analysis is the art of evaluating the intrinsic value of a stock to find long-term investing opportunities. Learn stock analysis in this module
 
+[Fundamental Analysis of Wonderla Holidays Limited - by RCG](https://www.budgetiger.in/p/case-study-wonderla-holidays-limited)
+
 ## Markets and Taxation
 
 The module covers the taxation aspect of investing/trading in the stock markets. The process of calculating P&L, payment of taxes, filing returns, etc. is explained

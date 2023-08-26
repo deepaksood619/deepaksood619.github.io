@@ -44,6 +44,22 @@ Not your keys not your coins
 
 [TOP 3 DEFI WALLETS FOR 2021 - What Features Do They Support? - YouTube](https://www.youtube.com/watch?v=JCYIFtb8DwM)
 
+## Wallets vs Accounts
+
+'Wallet' describes the MetaMask software you're using. 'Account' refers to a public-private key pair.
+
+Your wallet doesn't have an address; an account within it does. Instead, a MetaMask wallet is a software tool that allows you to manage and access accounts.
+
+You can derive more than one account from a Secret Recovery Phrase (seed phrase).
+
+A wallet is a client (a piece of software) with which you manage your accounts.
+
+An account is a public-private key pair derived from your Secret Recovery Phrase (SRP).
+
+Your accounts in MetaMask are each represented by a public address (the 'public' side of your key pair), which you may have seen referred to incorrectly as a 'wallet address'. There is no such thing: there is only an account address.
+
+[What's the difference between a wallet and an account? – MetaMask](https://support.metamask.io/hc/en-us/articles/13466457757211-What-s-the-difference-between-a-wallet-and-an-account-)
+
 ## Working
 
 ### How Many Bitcoin Addresses Are There

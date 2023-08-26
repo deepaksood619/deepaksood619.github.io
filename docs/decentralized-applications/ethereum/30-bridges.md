@@ -59,16 +59,19 @@ Atomic swaps are also called [cross-chain](https://www.investopedia.com/what-are
 
 [What is an Atomic Swap in Crypto? Time Locked Smart Contracts - YouTube](https://www.youtube.com/watch?v=-9NDKbJo_A4)
 
+## Connext
+
+- [Connext Network](https://www.connext.network/)
+- [What is Connext? - Technical Docs](https://docs.connext.network/concepts/readme)
+- [The Messaging Bridge Stack. What does a secure bridge look like… | by Arjun Bhuptani | Connext](https://blog.connext.network/the-messaging-bridge-stack-a9ae849858e0)
+- [Why web3 deserves safe bridges in order to avoid the next $1B hack | by Massimo Lomuscio | Connext](https://blog.connext.network/why-web3-deserves-safe-bridges-in-order-to-avoid-the-next-1b-hack-26a3ca1d4661)
+
 ## Links
 
-[Bridges | ethereum.org](https://ethereum.org/en/developers/docs/bridges/)
-
-[What Are Blockchain Bridges And How Can We Classify Them? | by Arjun Chand | LI.FI Blog](https://blog.li.fi/what-are-blockchain-bridges-and-how-can-we-classify-them-560dc6ec05fa)
-
-[Ultimate Guide to Blockchain Bridges | by Birthday Research | Feb, 2023 | Birthday Research](https://blog.birthday.dev/ultimate-guide-to-blockchain-bridges-1e4a06a4cabc)
-
-[What is a Crypto Bridge? (Examples + Purpose for Blockchains) - YouTube](https://www.youtube.com/watch?v=nT26cIz8HjI)
-
-[xPollinate and Connext - My Favorite Bridge! - YouTube](https://www.youtube.com/watch?v=2B_orfSsd58)
-
-[What is The Ren Protocol? renBTC Token Explained - YouTube](https://www.youtube.com/watch?v=mdoc-Qcc2-8)
+- [Bridges | ethereum.org](https://ethereum.org/en/developers/docs/bridges/)
+- [What Are Blockchain Bridges And How Can We Classify Them? | by Arjun Chand | LI.FI Blog](https://blog.li.fi/what-are-blockchain-bridges-and-how-can-we-classify-them-560dc6ec05fa)
+- [Ultimate Guide to Blockchain Bridges | by Birthday Research | Feb, 2023 | Birthday Research](https://blog.birthday.dev/ultimate-guide-to-blockchain-bridges-1e4a06a4cabc)
+- [What is a Crypto Bridge? (Examples + Purpose for Blockchains) - YouTube](https://www.youtube.com/watch?v=nT26cIz8HjI)
+- [xPollinate and Connext - My Favorite Bridge! - YouTube](https://www.youtube.com/watch?v=2B_orfSsd58)
+- [What is The Ren Protocol? renBTC Token Explained - YouTube](https://www.youtube.com/watch?v=mdoc-Qcc2-8)
+- [Step-By-Step Guide: How To Bridge Ethereum On Different Blockchains](https://milkroad.com/invest/bridging/)

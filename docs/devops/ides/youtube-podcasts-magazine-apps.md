@@ -131,6 +131,7 @@
 - The daily show with Trevor noah
 - Learn with finology
 - Labour Law Advisor
+- Ravish Kumar Official
 
 ### Finance / Stocks / Personal finance
 
@@ -326,6 +327,7 @@ Indian History - <https://www.anirudhkanisetti.com/podcasts>
 - Finshots
 - Not Boring by Packy McCormick - <https://www.notboring.co>
 - economic times
+- [Budget Tiger | RCG | Substack](https://www.budgetiger.in/)
 - Sadguru daily quotes
 - YS buzz
 - Marcellus

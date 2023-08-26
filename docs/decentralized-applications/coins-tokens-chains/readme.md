@@ -41,6 +41,7 @@
   - Scalable - 50,000 TPS
   - Low transaction fees
   - <https://solana.com>
+  - [The Solana Reading List - by mert - Rotating Words](https://www.mertimus.com/p/the-solana-reading-list?)
 - Polkadot
   - [Polkadot: What's Up With DOT?! Potential in 2022!! - YouTube](https://www.youtube.com/watch?v=H7S5k5jWp48)
   - [What is Polkadot? DOT Explained with Animations - YouTube](https://www.youtube.com/watch?v=YlAdEQp6ekM)
@@ -164,13 +165,8 @@ Cosmos is a decentralized network of independent parallel blockchains, each powe
 
 ## Chain Sizes
 
-Bitcoin Blockchain Size - 456.72 GB for Feb 18 2023
-
-[Bitcoin Blockchain Size](https://ycharts.com/indicators/bitcoin_blockchain_size)
-
-Ethereum Chain Full Sync Data Size - 888.89 GB for Feb 19 2023
-
-[Ethereum Chain Full Sync Data Size](https://ycharts.com/indicators/ethereum_chain_full_sync_data_size)
+- [Bitcoin Blockchain Size](https://ycharts.com/indicators/bitcoin_blockchain_size) - 456.72 GB for Feb 18 2023
+- [Ethereum Chain Full Sync Data Size](https://ycharts.com/indicators/ethereum_chain_full_sync_data_size) - 888.89 GB for Feb 18 2023
 
 ## Links
 

@@ -53,18 +53,6 @@ The Bitcoin Lightning Network is another project being worked on as a second-lay
 
 The Lightning Network uses a network of nodes that hold funds in multi-sig wallets ("channels") and exchange signed, but unbroadcast, transactions.
 
-## The Scalability Trilemma / Blockchain Trilemma
-
-![image](../../media/Bitcoin-Cryptocurrency-Web3-image1.jpg)
-
-The blockchain trilemma is a concept coined by [Vitalik Buterin](https://coinmarketcap.com/alexandria/glossary/vitalik-buterin) that proposes a set of three main issues - decentralization, security and scalability - that developers encounter when building blockchains, forcing them to ultimately sacrifice one "aspect" for as a trade-off to accommodate the other two
-
-<https://medium.com/logos-network/everything-you-know-about-the-scalability-trilemma-is-probably-wrong-bc4f4b7a7ef>
-
-<https://www.toptal.com/bitcoin/intro-to-bitcoin-lightning-network>
-
-<https://www.freecodecamp.org/news/create-cryptocurrency-using-python>
-
 ## Is a greener, faster and more decentralised alternative to Bitcoin possible?
 
 This piece is a counter of sorts to this week's Long Read 3 about how tech is taking over geopolitics, at the core of whose argument lies smart contracts (self-executing rules, not enforced by an intermediary or an authority) that run on blockchains (decentralised or distributed databases). The most popular application of this concept so far has been cryptocurrencies. This article argues that even cryptocurrencies including the popular Bitcoin has flaws which threaten not only its own sustainability but the larger extension to other spheres of life, let alone replacement of nation states.

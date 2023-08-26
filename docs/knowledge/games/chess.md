@@ -41,6 +41,11 @@ Each move of a piece is indicated by the piece's uppercase letter, plus the coor
 
 Tactics - Play characterized by short-term attacks and threats
 
+- Developing / Productive Moves
+- Non-developing / Un-productive moves
+- Reacting moves
+- Tempi / Moves / Time
+
 ### Opening
 
 - Pawn duo
@@ -97,6 +102,12 @@ Tactics - Play characterized by short-term attacks and threats
 - Pawn Chain - a fixed and connected diagonal formation of pawns
 
 [Chess Pawn Basics | Terminology - Beginner to Chess Master #10 - YouTube](https://www.youtube.com/watch?v=T0-PfqdJhQI)
+
+## Time
+
+Having a direct connection between the rooks is often regarded as "completing development"
+
+[The Element of Time in Chess - Beginner to Chess Master #11 - YouTube](https://www.youtube.com/watch?v=c3B34oKM0oI)
 
 ## Terms
 
@@ -164,6 +175,11 @@ A player's Elo rating is represented by a number which may change depending on t
 An Elo rating is a comparative rating only, and is valid only within the rating pool where it was established.
 
 <https://www.wikiwand.com/en/Elo_rating_system>
+
+## Learning
+
+- Youtube - chess.com
+- Youtube - Chess Network
 
 ## Others
 

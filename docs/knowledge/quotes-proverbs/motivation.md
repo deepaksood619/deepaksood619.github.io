@@ -682,3 +682,5 @@ Passion and Ownership: Buffett stressed the importance of working on something y
 ## Links
 
 [World Leading Therapist: 3 Simple Steps To Remove Your Negative Thoughts: Marisa Peer | E154 - YouTube](https://www.youtube.com/watch?v=bzilnhq3Mkg)
+
+[HOW THEY FOOLED EVERYONE ? - YouTube](https://www.youtube.com/watch?v=LzAILQMonM4)

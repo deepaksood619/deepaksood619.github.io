@@ -43,3 +43,5 @@ Fractional stablecoin is **a type of cryptocurrency that is collaterally backed
 [3 Stablecoin Algorithms Explained (Rebase, Empty Set Dollar, Basis Cash, Iron Finance) - YouTube](https://www.youtube.com/watch?v=S7-rfvpEpJs)
 
 [3 Algorithmic Stablecoins Explained - WhiteboardCrypto](https://whiteboardcrypto.com/algorithmic-stablecoins-explained/)
+
+[3 MAIN Types of Stablecoins Explained - YouTube](https://www.youtube.com/watch?v=8XX421H5NtU)

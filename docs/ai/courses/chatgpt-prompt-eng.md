@@ -84,6 +84,12 @@ First find relevant information, then answer the question based on the relevant 
 
 Share the most important leadership lessons and insights from the book {insert book} by {insert author}. For each insight suggest an actionable way I can embody it.
 
+## Parameters
+
+### Temperature
+
+Controls the randomness of the model's output. A higher temperature makes the output more random, while a lower temperature makes it more deterministic.
+
 ## Learning
 
 [Large Language Models and Cybersecurity – What You Should Know](https://www.freecodecamp.org/news/large-language-models-and-cybersecurity/)

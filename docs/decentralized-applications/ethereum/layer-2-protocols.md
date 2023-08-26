@@ -136,16 +136,11 @@ The variations in security techniques between layer 2 and sidechain solutions ar
 
 ## Links
 
-[Blockchain Layers Explained: Best Blockchain Layers 1, 2, 3, and 0 Explainer video | Jude - YouTube](https://www.youtube.com/watch?v=u2avJ_ctsKM&ab_channel=JudeUmeano)
-
-[Argent – The best Ethereum wallet for DeFi and NFTs.](https://www.argent.xyz/)
-
-[Cartesi 🛠️ Billions of Reasons to Use Cartesi - Carlo Fragni - YouTube](https://www.youtube.com/watch?v=2WvS5So5su4)
-
-[What is Sharding in Crypto? Scaling Solution (Animated) - YouTube](https://www.youtube.com/watch?v=SZpjvWMfgDA)
-
-[What are Rollups in Crypto? ZKSnarks vs Optimistics Rollups Explained - YouTube](https://www.youtube.com/watch?v=6_nOYsvXMsE)
-
-[Layer 2 Scaling - Playlist YouTube](https://www.youtube.com/playlist?list=PLHx4UicbtUobQJPt_ACy95eDf3FQAiHUi)
-
-[Ethereum at Hyperscale - Alex Gluchowski | Pragma Paris 2023 - YouTube](https://www.youtube.com/watch?v=Uh_FMZrVE0A)
+- [Blockchain Layers Explained: Best Blockchain Layers 1, 2, 3, and 0 Explainer video | Jude - YouTube](https://www.youtube.com/watch?v=u2avJ_ctsKM&ab_channel=JudeUmeano)
+- [Argent – The best Ethereum wallet for DeFi and NFTs.](https://www.argent.xyz/)
+- [Cartesi 🛠️ Billions of Reasons to Use Cartesi - Carlo Fragni - YouTube](https://www.youtube.com/watch?v=2WvS5So5su4)
+- [What is Sharding in Crypto? Scaling Solution (Animated) - YouTube](https://www.youtube.com/watch?v=SZpjvWMfgDA)
+- [What are Rollups in Crypto? ZKSnarks vs Optimistics Rollups Explained - YouTube](https://www.youtube.com/watch?v=6_nOYsvXMsE)
+- [Layer 2 Scaling - Playlist YouTube](https://www.youtube.com/playlist?list=PLHx4UicbtUobQJPt_ACy95eDf3FQAiHUi)
+- [Ethereum at Hyperscale - Alex Gluchowski | Pragma Paris 2023 - YouTube](https://www.youtube.com/watch?v=Uh_FMZrVE0A)
+- [Top Crypto LAYER 2s to Keep An Eye On (Base, Linea, Mantle) - YouTube](https://www.youtube.com/watch?v=_vHyMkv-m1M)

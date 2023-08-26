@@ -76,46 +76,28 @@ A perpetual contract is a derivative similar to a futures contract but without a
 
 ## Olympus
 
-[DEFI 2.0 - A New Narrative? OlympusDAO, Tokemak Explained - YouTube](https://www.youtube.com/watch?v=l0vRTi8_FRk)
-
-[What is DeFi 2.0? How Olympus and TIME actually work - YouTube](https://www.youtube.com/watch?v=I34lOvUWsNc)
-
-[What is OlympusDAO? - OHM Explained with Animations - YouTube](https://www.youtube.com/watch?v=o699i_l_qy8)
+- [DEFI 2.0 - A New Narrative? OlympusDAO, Tokemak Explained - YouTube](https://www.youtube.com/watch?v=l0vRTi8_FRk)
+- [What is DeFi 2.0? How Olympus and TIME actually work - YouTube](https://www.youtube.com/watch?v=I34lOvUWsNc)
+- [What is OlympusDAO? - OHM Explained with Animations - YouTube](https://www.youtube.com/watch?v=o699i_l_qy8)
 
 ## References
 
-[Crypto Investing](crypto-investing)
-
-[Different Coins / Tokens](decentralized-applications/coins-tokens-chains/readme.md)
-
-[Liquidity Mining](decentralized-applications/liquidity-mining.md)
-
-[Defi Apps](decentralized-applications/defi-apps.md)
-
-[DeFi - Playlist YouTube](https://www.youtube.com/playlist?list=PLHx4UicbtUoYvCvRouZ4XbaDpE7cbCCqo)
-
-<https://www.youtube.com/watch?v=p9iTNsh9bSk>
-
-[Youtube DeFi Crash Course](https://www.youtube.com/playlist?list=PLZYHS2HeJ5ejvwRrGI4Wgi5HVVwvvow7R)
-
-[What is DeFi? A Beginner’s Guide to Decentralized Finance](https://www.youtube.com/watch?v=btB__oHQ0sU)
-
-[Learn crypto and blockchain | CoinDesk](https://www.coindesk.com/learn/defi/)
-
-[The TRUTH About DEFI - YouTube](https://www.youtube.com/watch?v=Ia0DVfRJKy8)
-
-[Lending And Borrowing In DEFI Explained - Aave, Compound - YouTube](https://www.youtube.com/watch?v=aTp9er6S73M)
-
-[DEFI - From Inception To 2021 And Beyond (History Of Decentralized Finance Explained) - YouTube](https://www.youtube.com/watch?v=qFBYB4W2tqU)
-
-[AAVE - The Road To $3 Billion - DEFI Explained - YouTube](https://www.youtube.com/watch?v=WwE3lUq51gQ)
-
-[Derivatives in DEFI Explained (Synthetix, UMA, Hegic, Opyn, Perpetual, dYdX, BarnBridge) - YouTube](https://www.youtube.com/watch?v=QxoqPZRw9y4)
-
-[What Are Tokenized Securities - Benefits, Examples, & Laws](https://milkroad.com/guide/tokenized-securities)
-
-[BANK RUN in DEFI - Lessons Learned From The Iron Finance Collapse - YouTube](https://www.youtube.com/watch?v=HUokre-szPg)
-
-[DeFi - Past, Present and Future - YouTube](https://www.youtube.com/watch?v=PT72hAbm2Eo)
-
-[How to Make Money with Crypto - DeFi For Beginners - YouTube](https://www.youtube.com/watch?v=o9ObYRjpIhs)
+- [Crypto Investing](crypto-investing)
+- [Different Coins / Tokens](decentralized-applications/coins-tokens-chains/readme.md)
+- [Liquidity Mining](decentralized-applications/liquidity-mining.md)
+- [Defi Apps](decentralized-applications/defi-apps.md)
+- [DeFi - Playlist YouTube](https://www.youtube.com/playlist?list=PLHx4UicbtUoYvCvRouZ4XbaDpE7cbCCqo)
+- [Defi Crash Course ( 15 projects in 31 mins ) - YouTube](https://www.youtube.com/watch?v=p9iTNsh9bSk)
+- [Youtube DeFi Crash Course](https://www.youtube.com/playlist?list=PLZYHS2HeJ5ejvwRrGI4Wgi5HVVwvvow7R)
+- [What is DeFi? A Beginner’s Guide to Decentralized Finance](https://www.youtube.com/watch?v=btB__oHQ0sU)
+- [Learn crypto and blockchain | CoinDesk](https://www.coindesk.com/learn/defi/)
+- [The TRUTH About DEFI - YouTube](https://www.youtube.com/watch?v=Ia0DVfRJKy8)
+- [Lending And Borrowing In DEFI Explained - Aave, Compound - YouTube](https://www.youtube.com/watch?v=aTp9er6S73M)
+- [DEFI - From Inception To 2021 And Beyond (History Of Decentralized Finance Explained) - YouTube](https://www.youtube.com/watch?v=qFBYB4W2tqU)
+- [AAVE - The Road To $3 Billion - DEFI Explained - YouTube](https://www.youtube.com/watch?v=WwE3lUq51gQ)
+- [Derivatives in DEFI Explained (Synthetix, UMA, Hegic, Opyn, Perpetual, dYdX, BarnBridge) - YouTube](https://www.youtube.com/watch?v=QxoqPZRw9y4)
+- [What Are Tokenized Securities - Benefits, Examples, & Laws](https://milkroad.com/guide/tokenized-securities)
+- [BANK RUN in DEFI - Lessons Learned From The Iron Finance Collapse - YouTube](https://www.youtube.com/watch?v=HUokre-szPg)
+- [DeFi - Past, Present and Future - YouTube](https://www.youtube.com/watch?v=PT72hAbm2Eo)
+- [How to Make Money with Crypto - DeFi For Beginners - YouTube](https://www.youtube.com/watch?v=o9ObYRjpIhs)
+- [Why Decentralized Social Media Is IMPORTANT For Our Privacy - YouTube](https://www.youtube.com/watch?v=ovnE5gQ3fQQ)

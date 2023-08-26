@@ -9,6 +9,10 @@ Buy the rumor, sell the news
 - Nifty lot size - 75
 - Bank Nifty lot size - 25
 
+## Shorting / Short
+
+[How Short Sellers Make BIG Money in the Stock Markets | Short Selling Explained - YouTube](https://www.youtube.com/watch?v=rSXZVcl21eY)
+
 ## Futures Trading
 
 Futures Trading involves trading in contracts in the derivatives markets. This module covers the various intricacies involved in undergoing a futures trade including margins, leverages, pricing, etc
@@ -337,23 +341,18 @@ You can configure a combination strategy according to the market, the time frame
 
 ## Resources
 
-[Option Buying & Selling - Advantages & Disadvantaged Explained!](https://youtu.be/wwZ157RxD4E)
-
-[Moneyness of option](https://www.youtube.com/watch?v=3J9I0U9w4Ww)
-
-- In the money (ITM)
-- Out of the money (OTM)
-- At the money (ATM)
-
-[Power of SHORT STRADDLE in Volatile Markets!](https://www.youtube.com/watch?v=LR5d4HrNYwA)
-
-[Bhramastra 2 Strategy - Option buying strategy to make money | Intraday Option buying strategy | - YouTube](https://www.youtube.com/watch?v=prt9IQ7Itlw&ab_channel=InvestAajForKal)
-
-[Option chain analysis | Options trading basics | Call and Put simplified | Option buyer vs seller | - YouTube](https://www.youtube.com/watch?v=WBLUK4vLRHk)
-
-[Option buying to earn regular income | Option buying strategy by Kunal Saraogi | Options course | - YouTube](https://www.youtube.com/watch?v=otCMZmg3Sgk)
-
-[Physical settlement of futures and options - YouTube](https://www.youtube.com/watch?v=Llp4xW2GI4s)
+- [Option Buying & Selling - Advantages & Disadvantaged Explained!](https://youtu.be/wwZ157RxD4E)
+- [Moneyness of option](https://www.youtube.com/watch?v=3J9I0U9w4Ww)
+  - In the money (ITM)
+  - Out of the money (OTM)
+  - At the money (ATM)
+- [Power of SHORT STRADDLE in Volatile Markets!](https://www.youtube.com/watch?v=LR5d4HrNYwA)
+- [Bhramastra 2 Strategy - Option buying strategy to make money | Intraday Option buying strategy | - YouTube](https://www.youtube.com/watch?v=prt9IQ7Itlw&ab_channel=InvestAajForKal)
+- [Option chain analysis | Options trading basics | Call and Put simplified | Option buyer vs seller | - YouTube](https://www.youtube.com/watch?v=WBLUK4vLRHk)
+- [Option buying to earn regular income | Option buying strategy by Kunal Saraogi | Options course | - YouTube](https://www.youtube.com/watch?v=otCMZmg3Sgk)
+- [Physical settlement of futures and options - YouTube](https://www.youtube.com/watch?v=Llp4xW2GI4s)
+- [A Beginner's Guide to Futures and Options | Basics of Futures & Options - YouTube](https://www.youtube.com/watch?v=yhZxQROq8oA)
+- [Option Trading strategy | Option buying scalping strategy with less capital? | Option masterclass | - YouTube](https://www.youtube.com/watch?v=G1UaQcqDnRg)
 
 ## Learning
 
@@ -363,14 +362,9 @@ You can configure a combination strategy according to the market, the time frame
 
 ## Why & How of Trading
 
-[Can Day Traders Really Make Money? - YouTube](https://www.youtube.com/watch?v=vRtVrc0vE8k)
-
-[Why DAY TRADING is More Profitable than INVESTING - YouTube](https://www.youtube.com/watch?v=WaXSXYcESww)
-
-[The Truth About Day Trading - YouTube](https://www.youtube.com/watch?v=qhHOmZVAqBE)
-
-[If You Don't Exit You Don't Survive In Stock Market | Shashwat Amrev | Josh Talks - YouTube](https://www.youtube.com/watch?v=UwGSzhjsceI)
-
-[The Truth About Day Trading - YouTube](https://www.youtube.com/watch?v=IQAeaWC5wlE)
-
-[I Tried Day Trading With $1,000 - YouTube](https://www.youtube.com/watch?v=QMK70LE4-AY)
+- [Can Day Traders Really Make Money? - YouTube](https://www.youtube.com/watch?v=vRtVrc0vE8k)
+- [Why DAY TRADING is More Profitable than INVESTING - YouTube](https://www.youtube.com/watch?v=WaXSXYcESww)
+- [The Truth About Day Trading - YouTube](https://www.youtube.com/watch?v=qhHOmZVAqBE)
+- [If You Don't Exit You Don't Survive In Stock Market | Shashwat Amrev | Josh Talks - YouTube](https://www.youtube.com/watch?v=UwGSzhjsceI)
+- [The Truth About Day Trading - YouTube](https://www.youtube.com/watch?v=IQAeaWC5wlE)
+- [I Tried Day Trading With $1,000 - YouTube](https://www.youtube.com/watch?v=QMK70LE4-AY)

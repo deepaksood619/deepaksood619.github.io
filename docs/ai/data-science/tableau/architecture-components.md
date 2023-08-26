@@ -59,6 +59,16 @@ Tableau Cloud is a software-as-a-service (SaaS) deployment built to scale to ser
 - Tableau Prep Conductor
 - Metrics
 
+### Tableau Prep Builder
+
+Combine, shape, and clean your data faster
+
+Self-service data preparation
+
+Tableau Prep Builder provides a modern approach to data preparation, making it easier and faster to combine, shape, and clean data for analysis within Tableau. By providing a visual and direct path to prep your data, you can get your hands on quality data in just a few clicks.
+
+[Tableau Prep | Combine, shape, and clean your data](https://www.tableau.com/products/prep)
+
 ## Links
 
 [Tableau Architecture & Server Components](https://www.guru99.com/tableau-architecture.html)

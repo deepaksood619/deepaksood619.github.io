@@ -58,3 +58,7 @@ Ignorance of law is no excuse
 ## Courses
 
 <https://learn.finology.in/courses/legal/indian-penal-code>
+
+## Others
+
+[3 New Criminal Bills Explained | Why we need New Criminal Laws? - YouTube](https://www.youtube.com/watch?v=ny6HImdeCfE)

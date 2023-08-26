@@ -1,7 +1,7 @@
 # Development Tools
 
-- [10 Most Used Blockchain tools In 2023 For Blockchain Development | upGrad blog](https://www.upgrad.com/blog/top-blockchain-tools/)
-- [List of 10 Best Blockchain Tools](https://101blockchains.com/best-blockchain-tools/)
+- [Infura](decentralized-applications/development/infura.md)
+- [Sample Code](decentralized-applications/development/sample-code.md)
 
 ### [GitHub - trufflesuite/ganache: A tool for creating a local blockchain for fast Ethereum development.](https://github.com/trufflesuite/ganache)
 
@@ -63,16 +63,16 @@ This is a tool that analyzes the token’s smart contract, tokenomics, holders, 
 - [Swap tokens on Uniswap V3 with code, programmatically | A beginners guide with EthersJs & JavaScript - YouTube](https://www.youtube.com/watch?v=vXu5GeLP6A8)
 - [Deployment Addresses | Uniswap](https://docs.uniswap.org/contracts/v3/reference/deployments)
 - [.env · GitHub](https://gist.github.com/BlockmanCodes/1ed5e4b3cd597f02e539049c3473f7b3)
-
+ 
 ### Others
 
 - [OpenZeppelin](https://www.openzeppelin.com/)
-  - It's an open source framework for building smart contracts on ethereum blockchain
-  - And it has a library of pre built smart contracts including the nft factory contract
+  - It's an open source framework for building smart contracts on Ethereum blockchain
+  - And it has a library of pre built smart contracts including the NFT factory contract
 - [Alchemy - the web3 development platform](https://www.alchemy.com/)
   - [Learn: Alchemy Road to Web3](https://www.youtube.com/playlist?list=PLMj8NvODurfEYLsuiClgikZBGDfhwdcXF)
   - [Web3 Tutorials Overview](https://docs.alchemy.com/docs)
-- [Hardhat | Ethereum development environment for professionals by Nomic Foundation](https://hardhat.org/)
+- [Hardhat | Ethereum development environment by Nomic Foundation](https://hardhat.org/)
 - [login.xyz](https://login.xyz/)
 - [Blockscout](https://www.blockscout.com/) - Blockchain explorer for Ethereum based network and a tool for inspecting and analyzing EVM based blockchains.
 - [Welcome to Substrate | Substrate\_ Docs](https://docs.substrate.io/learn/welcome-to-substrate/)
@@ -86,3 +86,10 @@ This is a tool that analyzes the token’s smart contract, tokenomics, holders, 
 - [Push Protocol 🛠️ Onboarding 1 Billion Users through Web3 Communication: Push Protocol - Harsh Rajat - YouTube](https://www.youtube.com/watch?v=-DHn1cCdHLs)
 - [Mailchain | Add web3 email to your project](https://mailchain.com/)
 - [Celestia - Home](https://celestia.org/)
+- [Ethereum API | IPFS API & Gateway | ETH Nodes as a Service](https://www.infura.io/)
+
+## Resources
+
+- [Blockman Codes - YouTube](https://www.youtube.com/@blockmancodes)
+- [10 Most Used Blockchain tools In 2023 For Blockchain Development | upGrad blog](https://www.upgrad.com/blog/top-blockchain-tools/)
+- [List of 10 Best Blockchain Tools](https://101blockchains.com/best-blockchain-tools/)

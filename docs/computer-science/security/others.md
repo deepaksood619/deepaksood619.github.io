@@ -21,7 +21,7 @@ Hidden Wiki - <http://zqktlwi4fecvo6ri.onion/wiki/index.php/Main_Page>
 
 ## steganography
 
-Steganography is the practice of concealing a file, message, image, or video within another file, message, image, or video. The word steganography combines the [Greek](https://en.wikipedia.org/wiki/Greek_language) words steganos ([στεγανός](https://en.wiktionary.org/wiki/%CF%83%CF%84%CE%B5%CE%B3%CE%B1%CE%BD%CF%8C%CF%82#Greek)), meaning "covered, concealed, or protected", and graphein ([γράφειν](https://en.wiktionary.org/wiki/%CE%B3%CF%81%CE%AC%CF%86%CE%B5%CE%B9%CE%BD#Greek)) meaning "writing".
+Steganography is the practice of concealing a file, message, image, or video within another file, message, image, or video. The word steganography combines the Greek words steganos, meaning "covered, concealed, or protected", and graphein meaning "writing".
 
 <https://en.wikipedia.org/wiki/Steganography>
 
@@ -30,6 +30,8 @@ Steganography is the practice of concealing a file, message, image, or video wit
 <https://29a.ch/photo-forensics>
 
 [What is Steganography? How to Hide Data Inside Data](https://www.freecodecamp.org/news/what-is-steganography-hide-data-inside-data/)
+
+[How to Build a Photo Encryption App using Steganography](https://www.freecodecamp.org/news/build-a-photo-encryption-app/)
 
 ## stegosploit
 
