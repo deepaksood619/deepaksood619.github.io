@@ -141,6 +141,7 @@
 - [https://goerlifaucet.com/](https://goerlifaucet.com/)
 - [Sepolia Faucet](https://sepoliafaucet.com/)
 - [Mumbai Faucet - Polygon - MATIC](https://mumbaifaucet.com/)
+- [Infura Sepolia Faucet](https://www.infura.io/faucet/sepolia)
 
 ### DeFiChain
 

@@ -13,6 +13,7 @@
 - [Scikit-learn / Scipy](scikit-learn/readme.md)
 - [Libraries](libraries/readme.md)
 - [Courses](courses/readme.md)
+- [Learning Resources](ai/learning-resources.md)
 
 ## AGI (Artificial General Intelligence)
 

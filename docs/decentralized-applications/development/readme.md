@@ -63,7 +63,7 @@ This is a tool that analyzes the token’s smart contract, tokenomics, holders, 
 - [Swap tokens on Uniswap V3 with code, programmatically | A beginners guide with EthersJs & JavaScript - YouTube](https://www.youtube.com/watch?v=vXu5GeLP6A8)
 - [Deployment Addresses | Uniswap](https://docs.uniswap.org/contracts/v3/reference/deployments)
 - [.env · GitHub](https://gist.github.com/BlockmanCodes/1ed5e4b3cd597f02e539049c3473f7b3)
- 
+
 ### Others
 
 - [OpenZeppelin](https://www.openzeppelin.com/)

@@ -573,14 +573,16 @@ The Amazon Athena DynamoDB connector enables Amazon Athena to communicate with D
 
 <https://github.com/quux00/hive-json-schema>
 
-java -jar target/json-hive-schema-1.0-jar-with-dependencies.jar in.json TopQuark
+`java -jar target/json-hive-schema-1.0-jar-with-dependencies.jar in.json TopQuark`
 
+```sql
 CREATE TABLE TopQuark (
 description string,
 foo struct<bar:string, level1:struct<l2string:string, l2struct:struct<level3:string>>, quux:string>,
 wibble string,
 wobble array<struct<entry:int, entrydetails:struct<details1:string, details2:int>>>)
 ROW FORMAT SERDE 'org.openx.data.jsonserde.JsonSerDe';
+```
 
 <http://thornydev.blogspot.com/2013/07/querying-json-records-via-hive.html>
 

@@ -3,6 +3,7 @@
 - [Resume](https://bit.ly/deepak_sood_resume)
 - [Experience](experience)
 - [Projects](projects)
+- [Jobs](about-me/jobs/readme.md)
 - [Paper / Publications / References](paper-publications-references)
 - [Courses / Certifications](courses-certificates)
 - [Achievements / Activities / Awards](achievements-activities-awards)

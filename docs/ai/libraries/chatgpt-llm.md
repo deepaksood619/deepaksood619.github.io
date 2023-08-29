@@ -71,6 +71,7 @@ Moving from information to knowledge age
 - [Milo](https://www.joinmilo.com/)
 - [Harvey | Generative AI for Elite Law Firms](https://www.harvey.ai/)
 - [GitHub - mukulpatnaik/researchgpt: A LLM based research assistant that allows you to have a conversation with a research paper](https://github.com/mukulpatnaik/researchgpt)
+- [Kombai](https://kombai.com/)
 
 #### Prompts
 

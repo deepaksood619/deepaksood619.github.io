@@ -1,8 +1,8 @@
-#  Trilemma
+# Trilemma
 
 ## The Scalability Trilemma / Blockchain Trilemma
 
-![image](../../media/Bitcoin-Cryptocurrency-Web3-image1.jpg)
+![image](../media/Bitcoin-Cryptocurrency-Web3-image1.jpg)
 
 The blockchain trilemma is a concept coined by [Vitalik Buterin](https://coinmarketcap.com/alexandria/glossary/vitalik-buterin) that proposes a set of three main issues - decentralization, security and scalability - that developers encounter when building blockchains, forcing them to ultimately sacrifice one "aspect" for as a trade-off to accommodate the other two
 
