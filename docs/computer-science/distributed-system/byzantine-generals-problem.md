@@ -4,7 +4,7 @@
 
 All participating nodes have to agree upon every message that is transmitted between the nodes. If a group of nodes is corrupt or the message that they transmit is corrupt then still the network as a whole should not be affected by it and should resist this 'Attack'. In short, the network in its entirety has to agree upon every message transmitted in the network. This agreement is called as **consensus**.
 
-### Two Generals Problem
+## Two Generals Problem
 
 Two Generals problem tells us that two communicating processes will always be one step away from being certain that the other party has received a derivative acknowledgement
 
@@ -14,13 +14,13 @@ It is related to the more general [Byzantine Generals](https://en.wikipedia.org/
 
 Imagine two armies, led by generals, preparing to attack a fortified city. Armies are located on the two sides of the city and can succeed in their siege only if their attack is synchronized. They can communicate by sending messengers and already have a devised attack plan. Now they only have to agree on the fact that they both will proceed with the attack, otherwise the attack can not succeed.
 
-General A sends a message MSG(attack at 7PM) stating that their army will proceed with the attack. Once messenger is dispatched, A doesn't know whether messenger has arrived or no. General B, upon receiving the message, has to send an acknowledgement ACK(MSG(attack at 7PM)). However, messenger carrying this acknowledgement might get captured or fail to deliver, so now B doesn't have any way of knowing if the messenger has successfully delivered it. To be sure about it, B has to wait for a second-order acknowledgement ACK(ACK(MSG(attack at 7PM) stating that A had received an acknowledgement for the acknowledgement.
+General A sends a message MSG(attack at 7PM) stating that their army will proceed with the attack. Once messenger is dispatched, A doesn't know whether messenger has arrived or not. General B, upon receiving the message, has to send an acknowledgement ACK(MSG(attack at 7PM)). However, messenger carrying this acknowledgement might get captured or fail to deliver, so now B doesn't have any way of knowing if the messenger has successfully delivered it. To be sure about it, B has to wait for a second-order acknowledgement ACK(ACK(MSG(attack at 7PM) stating that A had received an acknowledgement for the acknowledgement.
 
 ![image](../../media/Fallacies-and-Problems-image2.jpg)
 
 No amount of further confirmations can solve the problem, as the generals will be one ACK away from knowing if they can safely proceed with the attack. Generals are doomed to wonder if the message carrying this last acknowledgment has reached the destination.
 
-### Types of Byzantine Failures
+## Types of Byzantine Failures
 
 There are two categories of failures that are considered. One is **fail-stop** (in which the node fails and stops operating) and other is **arbitrary-node failure**. Some of the arbitrary node failures are given below :
 

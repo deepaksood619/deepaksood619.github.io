@@ -35,6 +35,17 @@ Negotiating power in your career. Have a lot of it, and you get to call the shot
 6. Become friends
 7. Rise together
 
+### 8 Skills that pay off forever
+
+1. Speaking Up
+2. Being Patient
+3. Being Consistent
+4. Stop Whining
+5. Managing Your Time
+6. Know the Real You
+7. Listening Wisely
+8. Having Confidence
+
 ## References
 
 - <https://medium.freecodecamp.org/writing-a-killer-software-engineering-resume-b11c91ef699d>

@@ -1,16 +1,148 @@
 {
   "recentFiles": [
     {
+      "basename": "byzantine-generals-problem",
+      "path": "computer-science/distributed-system/byzantine-generals-problem.md"
+    },
+    {
+      "basename": "new-home-place-house",
+      "path": "office/personality/new-home-place-house.md"
+    },
+    {
+      "basename": "llm-building",
+      "path": "ai/llm/llm-building.md"
+    },
+    {
+      "basename": "science",
+      "path": "knowledge/general/science.md"
+    },
+    {
+      "basename": "human-psychology-and-thinking",
+      "path": "psychology/human-psychology-and-thinking.md"
+    },
+    {
+      "basename": "learning-resources",
+      "path": "ai/learning-resources.md"
+    },
+    {
+      "basename": "economics-mental-models",
+      "path": "economics/mental-models/economics-mental-models.md"
+    },
+    {
+      "basename": "macroeconomics",
+      "path": "economics/mental-models/macroeconomics.md"
+    },
+    {
+      "basename": "career",
+      "path": "about-me/jobs/career.md"
+    },
+    {
+      "basename": "design-patterns",
+      "path": "ai/llm/design-patterns.md"
+    },
+    {
       "basename": "readme",
-      "path": "about-me/readme.md"
+      "path": "psychology/soft-skills/readme.md"
+    },
+    {
+      "basename": "readme",
+      "path": "ai/llm/readme.md"
+    },
+    {
+      "basename": "readme",
+      "path": "ai/ml-algorithms/readme.md"
+    },
+    {
+      "basename": "readme",
+      "path": "ai/readme.md"
+    },
+    {
+      "basename": "chatgpt-prompt-eng",
+      "path": "ai/courses/chatgpt-prompt-eng.md"
+    },
+    {
+      "basename": "readme",
+      "path": "ai/libraries/readme.md"
+    },
+    {
+      "basename": "bitcoin",
+      "path": "decentralized-applications/coins-tokens-chains/bitcoin.md"
+    },
+    {
+      "basename": "disagreement-feedback",
+      "path": "psychology/soft-skills/disagreement-feedback.md"
+    },
+    {
+      "basename": "readme",
+      "path": "languages/frameworks/android/readme.md"
+    },
+    {
+      "basename": "frameworks",
+      "path": "python/others/frameworks.md"
+    },
+    {
+      "basename": "docs-topic-guides",
+      "path": "python/django/docs-topic-guides.md"
+    },
+    {
+      "basename": "thoughts-future-ideas-vision-prediction",
+      "path": "about-me/ideas/thoughts-future-ideas-vision-prediction.md"
+    },
+    {
+      "basename": "48-laws-of-power",
+      "path": "book-summaries/48-laws-of-power.md"
+    },
+    {
+      "basename": "mental-models",
+      "path": "knowledge/general/mental-models.md"
+    },
+    {
+      "basename": "pregnancy-baby",
+      "path": "knowledge/biology/pregnancy-baby.md"
+    },
+    {
+      "basename": "parenting",
+      "path": "psychology/parenting.md"
+    },
+    {
+      "basename": "food",
+      "path": "knowledge/biology/nutrition/food.md"
+    },
+    {
+      "basename": "ecology",
+      "path": "knowledge/biology/nutrition/ecology.md"
+    },
+    {
+      "basename": "references-learning",
+      "path": "decentralized-applications/references-learning.md"
+    },
+    {
+      "basename": "external-tech",
+      "path": "office/stashfin-credentials/external-tech.md"
+    },
+    {
+      "basename": "marketing",
+      "path": "management/marketing.md"
     },
     {
       "basename": "readme",
       "path": "about-me/jobs/readme.md"
     },
     {
+      "basename": "questions-to-company",
+      "path": "about-me/jobs/questions-to-company.md"
+    },
+    {
       "basename": "companies",
       "path": "about-me/jobs/companies.md"
+    },
+    {
+      "basename": "readme",
+      "path": "technologies/others/readme.md"
+    },
+    {
+      "basename": "readme",
+      "path": "about-me/readme.md"
     },
     {
       "basename": "about-me-resume",
@@ -23,10 +155,6 @@
     {
       "basename": "good-profiles",
       "path": "about-me/jobs/good-profiles.md"
-    },
-    {
-      "basename": "questions-to-company",
-      "path": "about-me/jobs/questions-to-company.md"
     },
     {
       "basename": "resumes-jobs-companies-company",
@@ -43,10 +171,6 @@
     {
       "basename": "emails-templates-general",
       "path": "office/personality/emails-templates-general.md"
-    },
-    {
-      "basename": "career",
-      "path": "about-me/jobs/career.md"
     },
     {
       "basename": "achievements-activities-awards",
@@ -75,130 +199,6 @@
     {
       "basename": "crypto-news",
       "path": "decentralized-applications/crypto-news.md"
-    },
-    {
-      "basename": "deepak-banks",
-      "path": "office/keep/deepak-banks.md"
-    },
-    {
-      "basename": "infra",
-      "path": "office/cakedefi/infra.md"
-    },
-    {
-      "basename": "delta-lake",
-      "path": "networking/others/delta-lake.md"
-    },
-    {
-      "basename": "infra",
-      "path": "office/blocktoons/infra.md"
-    },
-    {
-      "basename": "create-table",
-      "path": "languages/sql/ddl-data-definition-language/create-table.md"
-    },
-    {
-      "basename": "amazon-athena",
-      "path": "cloud/aws/analytics/amazon-athena.md"
-    },
-    {
-      "basename": "addresses-electricity",
-      "path": "office/personality/addresses-electricity.md"
-    },
-    {
-      "basename": "life-lessons-buying-guide-travelling-shopping",
-      "path": "office/personality/life-lessons-buying-guide-travelling-shopping.md"
-    },
-    {
-      "basename": "neha",
-      "path": "office/keep/neha.md"
-    },
-    {
-      "basename": "spark-queries",
-      "path": "office/cakedefi/spark-queries.md"
-    },
-    {
-      "basename": "chatgpt-llm",
-      "path": "ai/libraries/chatgpt-llm.md"
-    },
-    {
-      "basename": "learning-resources",
-      "path": "ai/learning-resources.md"
-    },
-    {
-      "basename": "readme",
-      "path": "ai/readme.md"
-    },
-    {
-      "basename": "llm-building",
-      "path": "ai/libraries/llm-building.md"
-    },
-    {
-      "basename": "todo-tech-&-courses",
-      "path": "office/todo/todo-tech-&-courses.md"
-    },
-    {
-      "basename": "trilemmas",
-      "path": "decentralized-applications/trilemmas.md"
-    },
-    {
-      "basename": "infura",
-      "path": "decentralized-applications/development/infura.md"
-    },
-    {
-      "basename": "deepak-account-credentials",
-      "path": "office/keep/deepak-account-credentials.md"
-    },
-    {
-      "basename": "deepak-cryptos",
-      "path": "office/keep/deepak-cryptos.md"
-    },
-    {
-      "basename": "wallets",
-      "path": "decentralized-applications/coins-tokens-chains/wallets.md"
-    },
-    {
-      "basename": "defi",
-      "path": "decentralized-applications/defi.md"
-    },
-    {
-      "basename": "tokenomics",
-      "path": "decentralized-applications/tokenomics.md"
-    },
-    {
-      "basename": "futures-options-trading",
-      "path": "economics/market-terms/futures-options-trading.md"
-    },
-    {
-      "basename": "13-things-mentally-strong-people-dont-do",
-      "path": "book-summaries/13-things-mentally-strong-people-dont-do.md"
-    },
-    {
-      "basename": "motivation",
-      "path": "knowledge/quotes-proverbs/motivation.md"
-    },
-    {
-      "basename": "mental-models",
-      "path": "knowledge/general/mental-models.md"
-    },
-    {
-      "basename": "productivity-productive-time-management-todo",
-      "path": "psychology/productivity-productive-time-management-todo.md"
-    },
-    {
-      "basename": "intro",
-      "path": "knowledge/biology/exercise-stretching/intro.md"
-    },
-    {
-      "basename": "readme",
-      "path": "knowledge/biology/exercise-stretching/readme.md"
-    },
-    {
-      "basename": "living",
-      "path": "knowledge/biology/exercise-stretching/living.md"
-    },
-    {
-      "basename": "business-management",
-      "path": "knowledge/quotes-proverbs/business-management.md"
     }
   ],
   "omittedPaths": [],

@@ -3,7 +3,7 @@
 - [Career](about-me/jobs/career.md)
 - [Companies](about-me/jobs/companies.md)
 - [Questions to Company](about-me/jobs/questions-to-company.md)
-- [good-profiles](about-me/jobs/good-profiles.md)
+- [Good Profiles](about-me/jobs/good-profiles.md)
 
 ### Shotgun approach
 
@@ -134,29 +134,29 @@ Where you apply to a lot of jobs
 
 - <https://www.cvtemplatemaster.com>
 - <https://relevel.com>
-- jain.arunabh@nirvanaerecycling.com
+- <jain.arunabh@nirvanaerecycling.com>
 - **Salaries -** [https://www.levels.fyi/#](https://www.levels.fyi/)
 
 ### How to apply
 
-#### 1. Make a list of target companies.
+#### 1. Make a list of target companies
 
 - Not just companies you'll submit an app to, but companies you'd be psyched to work for!
 - Aim for 15.
 
-#### 2. Do deep research on those companies.
+#### 2. Do deep research on those companies
 
 - Listen to earnings calls, read articles, find interviews and podcasts with executives.
 - What are their goals, challenges, and initiatives for the next 6-12 months?
 - How can you add relevant value?
 
-#### 3. Make a list of contacts at those companies.
+#### 3. Make a list of contacts at those companies
 
 - Find 10-15 people at each company who could influence your ability to get hired for the role you want.
 - Find their email with Mailscoop.io and save them in a spreadsheet.
 - 10-15 at each company = ~150 total people.
 
-#### 4. Schedule your emails for the new year.
+#### 4. Schedule your emails for the new year
 
 - One of the biggest complaints I hear from job seekers is that they don't have enough time.
 - Both Gmail and Outlook have schedule send features.

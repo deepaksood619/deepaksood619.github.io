@@ -29,7 +29,7 @@
 - [Tasks](tasks)
 - [Operators](operators)
 - [KubeEdge](kubeedge)
-- [Design Patterns](design-patterns)
+- [Design Patterns](devops/kubernetes/design-patterns.md)
 - [Helm](helm)
 - [Optimizations](devops/kubernetes/optimizations.md)
 - [Tools](tools)

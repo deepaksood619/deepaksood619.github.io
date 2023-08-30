@@ -78,7 +78,7 @@ How would you respond if someone gives you advice that you didn't ask for and yo
 
 Remember, feedback is not a one-size-fits-all approach. Trust your own judgement and use feedback as a tool to enhance your growth and development.
 
-### How to Argue
+### How to Argue / Argument / Refute
 
 ![hierarchy-of-disagreement](../../media/Pasted%20image%2020230628225903.png)
 

@@ -5,6 +5,7 @@
 - [ML Fundamentals](ml-fundamentals/readme.md)
 - [ML Algorithms](ml-algorithms/readme.md)
 - [Deep Learning](deep-learning/readme.md)
+- [LLM](ai/llm/readme.md)
 - [Computer Vision](computer-vision-cv/readme.md)
 - [NLP](nlp/readme.md)
 - [Move37](move-37/readme.md)

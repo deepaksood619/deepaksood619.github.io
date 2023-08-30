@@ -3,7 +3,7 @@
 - [Types of Programming Paradigm](types-of-programming-paradigm)
 - [OOPS/SOLID](oops-solid)
 - [Functional Programming](functional-programming)
-- [Design Patterns](design-patterns)
+- [Design Patterns](computer-science/programming-paradigms/design-patterns.md)
 - [Creational - Abstract Factory](creational-abstract-factory)
 - [Creational - Object Pool](creational-object-pool)
 - [Structural - Adapter](structural-adapter)

@@ -229,40 +229,28 @@ for p in Person.objects.raw('SELECT * FROM myapp_person')
 
 ## Management Command
 
+```python
 class Command(BaseCommand):
 
-def add_arguments(self, parser):
+ def add_arguments(self, parser):
+  parser.add_argument(
+   '--customer',
+   action='store',
+   dest='customer_name',
+   default=None,
+   help='Customer name for which device dump has to be generated'
+  )
 
-parser.add_argument(
+  parser.add_argument(
+   '--only_upload_folder_name',
+   action='store',
+   dest='only_upload_folder_name',
+   default=None,
+   help="Set to true if generated files for a customer only need to be uploaded to drive"
+  )
 
-'--customer',
+ def handle(self, *args, **options):
+  customer_name = options ['customer_name']
+  only_upload_folder_name = options ['only_upload_folder_name']
 
-action='store',
-
-dest='customer_name',
-
-default=None,
-
-help='Customer name for which device dump has to be generated'
-
-)
-
-parser.add_argument(
-
-'--only_upload_folder_name',
-
-action='store',
-
-dest='only_upload_folder_name',
-
-default=None,
-
-help="Set to true if generated files for a customer only need to be uploaded to drive"
-
-)
-
-def handle(self, *args, **options):
-
-customer_name = options ['customer_name']
-
-only_upload_folder_name = options ['only_upload_folder_name']
+```

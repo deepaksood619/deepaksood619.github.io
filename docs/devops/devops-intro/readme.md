@@ -2,7 +2,7 @@
 
 - [Intro](devops/devops-intro/intro.md)
 - [Concepts](devops/devops-intro/concepts.md)
-- [Design](design)
+- [Design](devops/devops-intro/design.md)
 - [Deployment Strategies](deployment-strategies)
 - [Infra as Code IaC](infra-as-code-iac)
 - [Chaos Engineering](chaos-engineering)

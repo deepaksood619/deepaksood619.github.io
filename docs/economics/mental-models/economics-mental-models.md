@@ -277,6 +277,10 @@ Baumol helps us understand not only today’s economy but also a likely path for
 
 [Why Are the Prices So Damn High? | Mercatus Center](https://www.mercatus.org/students/research/books/why-are-prices-so-damn-high)
 
+## Rentseeking behaviour
+
+The concept refers to the attempts to gain economic benefits without producing new wealth. Rather than creating a better product or offering a more efficient service, the actors in this scenario extracted vast wealth through manipulative practices.
+
 ## Links
 
 - [Marginal Utility / Analysis](marginal-utility-analysis)

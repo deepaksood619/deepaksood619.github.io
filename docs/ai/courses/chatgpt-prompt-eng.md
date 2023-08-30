@@ -30,6 +30,22 @@ Ans - The capital of France is Paris.
 
 ### Prompting Principles
 
+#### Prompts
+
+[https://snackprompt.com](https://snackprompt.com/)
+
+[GitHub - f/awesome-chatgpt-prompts: This repo includes ChatGPT prompt curation to use ChatGPT better.](https://github.com/f/awesome-chatgpt-prompts)
+
+##### ChatGPT prompt to write error free
+
+{paste your writing}
+
+Prompt: "Proofread my writing above. Fix grammar and spelling mistakes. And make suggestions that will improve the clarity of my writing"
+
+##### Learn-fast prompt using the 80/20 principle to knowledge
+
+Prompt: "I want to learn about {insert topic}. Identify and share the most important 20% of learnings from this topic that will help me understand 80% of it."
+
 #### Principle 1: Write clear and specific instructions
 
 ##### Tactic 1: Use delimiters to clearly indicate distinct parts of the input
@@ -75,6 +91,25 @@ First find relevant information, then answer the question based on the relevant 
 - Conclusion
 
 [ChatGPT Prompt Engineering for Developers - DeepLearning.AI](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/)
+
+## Prompting Techniques
+
+### Chain-of-thought
+
+_Chain-of-thought_ (CoT) prompting is a technique that allows [large language models](https://en.wikipedia.org/wiki/Large_language_models "Large language models") (LLMs) to solve a problem as a series of intermediate steps before giving a final answer. Chain-of-thought prompting improves reasoning ability by inducing the model to answer a multi-step problem with steps of reasoning that mimic a [train of thought](https://en.wikipedia.org/wiki/Train_of_thought "Train of thought"). It allows large language models to overcome difficulties with some reasoning tasks that require [logical thinking](https://en.wikipedia.org/wiki/Logical_reasoning "Logical reasoning") and multiple steps to solve, such as [arithmetic](https://en.wikipedia.org/wiki/Arithmetic "Arithmetic") or [commonsense reasoning](https://en.wikipedia.org/wiki/Commonsense_reasoning "Commonsense reasoning") questions.
+
+### Other techniques
+
+- Generated knowledge prompting
+- Least-to-most prompting
+- Self-consistency decoding
+- Complexity-based prompting
+- Self-refine
+- Tree-of-thought
+- Maieutic prompting
+- Directional-stimulus prompting
+
+[Prompt engineering - Wikipedia](https://en.wikipedia.org/wiki/Prompt_engineering)
 
 ## Prompt Examples
 

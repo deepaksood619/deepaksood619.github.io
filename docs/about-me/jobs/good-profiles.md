@@ -41,4 +41,4 @@ Just like the problem statements being thrown at PMs, the skillset that you will
 
 ## Others
 
-- Yiwen Gong - gyw@google.com
+- Yiwen Gong - <gyw@google.com>

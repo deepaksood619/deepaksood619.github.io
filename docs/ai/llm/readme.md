@@ -1,5 +1,9 @@
 # ChatGPT / LLM
 
+- [LLM Building](ai/llm/llm-building.md)
+- [Design Patterns](ai/llm/design-patterns.md)
+- [ChatGPT Prompt Engineering](ai/courses/chatgpt-prompt-eng.md)
+
 ## GPT-3
 
 Generative Pre-trained Transformer 3 (GPT-3; stylized GPT·3) is an autoregressive language model that uses deep learning to produce human-like text. Given an initial text as prompt, it will produce text that continues the prompt.
@@ -73,63 +77,6 @@ Moving from information to knowledge age
 - [GitHub - mukulpatnaik/researchgpt: A LLM based research assistant that allows you to have a conversation with a research paper](https://github.com/mukulpatnaik/researchgpt)
 - [Kombai](https://kombai.com/)
 
-#### Prompts
-
-[https://snackprompt.com](https://snackprompt.com/)
-
-[GitHub - f/awesome-chatgpt-prompts: This repo includes ChatGPT prompt curation to use ChatGPT better.](https://github.com/f/awesome-chatgpt-prompts)
-
-##### ChatGPT prompt to write error free
-
-{paste your writing}
-
-Prompt: "Proofread my writing above. Fix grammar and spelling mistakes. And make suggestions that will improve the clarity of my writing"
-
-##### Learn-fast prompt using the 80/20 principle to knowledge
-
-Prompt: "I want to learn about {insert topic}. Identify and share the most important 20% of learnings from this topic that will help me understand 80% of it."
-
-## Dev Tools
-
-- [Welcome to LangChain - 🦜🔗 LangChain 0.0.180](https://python.langchain.com/en/latest/index.html)
-  - [Building LLM applications for production](https://huyenchip.com/2023/04/11/llm-engineering.html)
-  - [Introduction to LangChain LLM: A Beginner’s Guide](https://www.makeuseof.com/langchain-llm-introduction/)
-  - [How to Build LLM Applications with LangChain | DataCamp](https://www.datacamp.com/tutorial/how-to-build-llm-applications-with-langchain)
-- [GitHub - Significant-Gravitas/Auto-GPT: An experimental open-source attempt to make GPT-4 fully autonomous.](https://github.com/Significant-Gravitas/Auto-GPT)
-- [Llama 2 - Meta AI](https://ai.meta.com/llama/)
-- [Introducing Code Llama, a state-of-the-art large language model for coding](https://ai.meta.com/blog/code-llama-large-language-model-coding/)
-- [GitHub - jerryjliu/llama\_index: LlamaIndex (GPT Index) is a data framework for your LLM applications](https://github.com/jerryjliu/llama_index)
-- [Building your Generative AI apps with Meta's Llama 2 and Databricks | Databricks Blog](https://www.databricks.com/blog/building-your-generative-ai-apps-metas-llama-2-and-databricks)
-- [GitHub - stoyan-stoyanov/llmflows: LLMFlows - Simple, Explicit and Transparent LLM Apps](https://github.com/stoyan-stoyanov/llmflows)
-- [Patterns for Building LLM-based Systems & Products](https://eugeneyan.com/writing/llm-patterns/)
-- [GitHub - ShishirPatil/gorilla: Gorilla: An API store for LLMs](https://github.com/ShishirPatil/gorilla)
-- [gorilla-llm (Gorilla LLM (UC Berkeley))](https://huggingface.co/gorilla-llm)
-- [Advancing Spark - LLM Evaluation with MLFlow 2 4 - YouTube](https://www.youtube.com/watch?v=t_WtkRdycTY)
-- [GitHub - Chainlit/chainlit: Build Python LLM apps in minutes ⚡️](https://github.com/Chainlit/chainlit)
-- [Awesome GPT-4](https://gpt4.tools/)
-- [GitHub - xtekky/gpt4free: The official gpt4free repository | various collection of powerful language models](https://github.com/xtekky/gpt4free)
-- [GitHub - yoheinakajima/babyagi](https://github.com/yoheinakajima/babyagi)
-- [GitHub - coqui-ai/TTS: 🐸💬 - a deep learning toolkit for Text-to-Speech, battle-tested in research and production](https://github.com/coqui-ai/TTS)
-- [GitHub - tensorchord/Awesome-LLMOps: An awesome & curated list of best LLMOps tools for developers](https://github.com/tensorchord/Awesome-LLMOps)
-- [AI Development Cloud Platform | Deploy & Manage AI Logic](https://mindsdb.com/)
-
-```bash
-python -m pip install --upgrade langchain[llm]
-pip install chromadb
-pip install pypdf
-
-pip install chainlit
-chainlit hello
-
-chainlit run document_qa.py
-```
-
-### HuggingFace
-
-[GitHub - huggingface/transformers: 🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.](https://github.com/huggingface/transformers)
-
-[Hugging Face – The AI community building the future.](https://huggingface.co/)
-
 ## Purpose-built accelerators for generative AI
 
 - AWS Inferentia - Lowest cost per inference in the cloud for running deep learning (DL) models
@@ -138,10 +85,6 @@ chainlit run document_qa.py
 - Amazon EC2 P5 instances - Powered by NVIDIA H100 Tensor Core GPUs
 - Amazon EC2 P4d/P4de instances - Powered by NVIDIA A100 Tensor Core GPUs
 - Amazon EC2 G5 instances - Powered by NVIDIA A10G Tensor Core GPUs
-
-## Learning
-
-- [Development with Large Language Models Tutorial – OpenAI, Langchain, Agents, Chroma - YouTube](https://www.youtube.com/watch?v=xZDB1naRUlk&t=1032s)
 
 ## Links
 

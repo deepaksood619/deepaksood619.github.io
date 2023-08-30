@@ -21,3 +21,5 @@ The branches of science, also referred to as [sciences](https://en.wikipedia.org
 <https://en.wikipedia.org/wiki/Branches_of_science>
 
 [The Map of Engineering](https://youtu.be/pQgxiQAMTTo)
+
+[The "Adjacent Possible" – and How It Explains Human Innovation | Stuart Kauffman | TED - YouTube](https://www.youtube.com/watch?v=nEtATZePGmg)

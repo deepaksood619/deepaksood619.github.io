@@ -155,3 +155,4 @@ POX - Proof of Transfer
 - [Modeling Bitcoin Value with Scarcity | Medium](https://medium.com/@100trillionUSD/modeling-bitcoins-value-with-scarcity-91fa0fc03e25)
 - [Will BITCOIN Collapse At The 21 Million Limit?? 😰 - YouTube](https://www.youtube.com/watch?v=rnKdpf-P1TI)
 - [The Crypto Catch-22: Why Bitcoin Only - by Jesse Myers](https://www.onceinaspecies.com/p/the-crypto-catch-22-why-bitcoin-only)
+- [Why #Bitcoin is a Ponzi Scheme, why most Altcoins aren’t and how we can fix it! | by Julian Hosp | Aug, 2023 | Medium](https://julianhosp.medium.com/why-bitcoin-is-a-ponzi-scheme-why-most-altcoins-arent-and-how-we-can-fix-it-e85847088a58)

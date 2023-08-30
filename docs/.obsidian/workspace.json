@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "43d9626df50d5f1d",
+            "id": "19f7e01f0a542e9c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "about-me/readme.md",
+                "file": "computer-science/distributed-system/byzantine-generals-problem.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "questions-to-company",
+                "query": "fault tolerance",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "about-me/readme.md",
+                "file": "computer-science/distributed-system/byzantine-generals-problem.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "about-me/readme.md",
+                "file": "computer-science/distributed-system/byzantine-generals-problem.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "about-me/readme.md"
+                "file": "computer-science/distributed-system/byzantine-generals-problem.md"
               }
             }
           },
@@ -191,40 +191,41 @@
   },
   "active": "978fd2faf621af33",
   "lastOpenFiles": [
-    "about-me/jobs/readme.md",
-    "about-me/jobs/companies.md",
-    "office/personality/about-me-resume.md",
-    "office/personality/emails-templates-hiring-interview.md",
-    "about-me/jobs/good-profiles.md",
-    "about-me/jobs/questions-to-company.md",
-    "office/personality/resumes-jobs-companies-company.md",
+    "office/personality/new-home-place-house.md",
+    "ai/llm/llm-building.md",
+    "knowledge/general/science.md",
+    "psychology/human-psychology-and-thinking.md",
+    "ai/learning-resources.md",
+    "economics/mental-models/economics-mental-models.md",
+    "economics/mental-models/macroeconomics.md",
+    "about-me/jobs/career.md",
+    "ai/llm/design-patterns.md",
+    "psychology/soft-skills/readme.md",
+    "ai/llm/readme.md",
+    "ai/ml-algorithms/readme.md",
+    "ai/readme.md",
+    "ai/courses/chatgpt-prompt-eng.md",
+    "ai/libraries/readme.md",
+    "ai/llm",
+    "decentralized-applications/coins-tokens-chains/bitcoin.md",
+    "psychology/soft-skills/disagreement-feedback.md",
+    "languages/frameworks/android/readme.md",
+    "python/others/frameworks.md",
+    "python/django/docs-topic-guides.md",
+    "about-me/ideas/thoughts-future-ideas-vision-prediction.md",
+    "book-summaries/48-laws-of-power.md",
+    "knowledge/general/mental-models.md",
+    "knowledge/biology/pregnancy-baby.md",
+    "psychology/parenting.md",
+    "knowledge/biology/nutrition/food.md",
     "media/Personality-Profiles-image5.jpg",
     "media/Personality-Profiles-image4.png",
     "media/Personality-Profiles-image3.jpeg",
     "media/Personality-Profiles-image2.jpeg",
     "media/Personality-Profiles-image1.png",
-    "office/personality/readme.md",
-    "office/personality/questions-about-me.md",
     "media/Personality-Questions-to-company-image1.png",
     "office/media/Personality-Questions-to-company-image1.png",
-    "office/personality/emails-templates-general.md",
-    "about-me/jobs/career.md",
-    "about-me/achievements-activities-awards.md",
-    "office/personality/Untitled.md",
-    "about-me/courses-certificates.md",
     "about-me/jobs",
-    "management/project-product-business-tools-saas.md",
-    "decentralized-applications/coins-tokens-chains/readme.md",
-    "decentralized-applications/development/sample-code.md",
-    "decentralized-applications/development/readme.md",
-    "decentralized-applications/crypto-news.md",
-    "office/keep/deepak-banks.md",
-    "office/cakedefi/infra.md",
-    "networking/others/delta-lake.md",
-    "office/blocktoons/infra.md",
-    "languages/sql/ddl-data-definition-language/create-table.md",
-    "cloud/aws/analytics/amazon-athena.md",
-    "office/personality/addresses-electricity.md",
     "media/Pasted image 20230827130415.png",
     "decentralized-applications/development",
     "media/Screenshot 2023-08-24 at 11.52.42 AM.jpg",
@@ -235,7 +236,6 @@
     "management/people-management",
     "decentralized-applications/coins-tokens-chains",
     "technologies/apache/databricks",
-    "databricks",
-    "about-me/projects"
+    "databricks"
   ]
 }

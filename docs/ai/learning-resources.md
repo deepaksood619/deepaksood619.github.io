@@ -1,9 +1,12 @@
 # Learning Resources
 
-## AI (Artificial Intelligence) + DL (Deep Learning) + ML (Machine Learning)
+## LLM
 
 - [**AI Canon** | Andreessen Horowitz](https://a16z.com/2023/05/25/ai-canon/)
 - LLM - [dbdemos Build your Chat Bot with Dolly - Databricks demos](https://www.dbdemos.ai/demo.html?demoName=llm-dolly-chatbot)
+
+## AI (Artificial Intelligence) + DL (Deep Learning) + ML (Machine Learning)
+
 - <https://www.freecodecamp.org/learn/machine-learning-with-python>
 - OpenCV - <https://www.youtube.com/watch?v=P4Z8_qe2Cu0>
 - D2l.ai + coursera + fast.ai
@@ -17,6 +20,7 @@
 - [Master Coding for Data Science - StrataScratch](https://www.stratascratch.com/)
 - [Harvard CS50's Introduction to Artificial Intelligence with Python – Free University Course](https://www.freecodecamp.org/news/harvard-cs50s-ai-python-course)
 - Mathematics (probability, statistics, calculus)
+- [Machine Learning & Neural Networks without Libraries – No Black Box Course - YouTube](https://www.youtube.com/watch?v=3wwiOSxDAmg)
 
 ## DS (Data Science) + DA (Data Analytics) + DE (Data Engineering)
 
