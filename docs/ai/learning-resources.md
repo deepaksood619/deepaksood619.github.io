@@ -37,3 +37,7 @@
 - [Data Engineering Study Guide](https://docs.google.com/spreadsheets/d/1atzJSnV86J1ylnpOGVO8VaBVmx8TEAhw_DzHr25-ql4/edit?usp=sharing)
 - [Learn Pandas & Python for Data Analysis - Full Course](https://www.freecodecamp.org/news/learn-pandas-for-data-science/)
 - [SQL Interview Prep With Zach Wilson - YouTube](https://www.youtube.com/watch?v=ycQ-wqlaEX8)
+
+## Links
+
+- [It's All About AI • Martin Förtsch, Thomas Endres & Jonas Mayer • YOW! 2022 - YouTube](https://www.youtube.com/watch?v=krihq4iSaO0)

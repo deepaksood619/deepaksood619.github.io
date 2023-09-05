@@ -119,14 +119,13 @@ The usual way to mitigate this is to have the interrupt controller set a special
 
 ## Others
 
-<https://en.wikipedia.org/wiki/MISRA_C>
-
-[Design for testing (DFT) - Wikipedia](https://en.wikipedia.org/wiki/Design_for_testing)
-
-[Using DFT Architecture for Superior SoC Testing](https://medium.com/@einfochips/using-dft-architecture-for-superior-soc-testing-9f2c1b290252)
-
-[Basic Electronics Part 1 - YouTube](https://www.youtube.com/watch?v=nb4ovfwqup8)
-
-[Exploring Smartphones - Branch Education - YouTube](https://www.youtube.com/playlist?list=PL6rx9p3tbsMtRbJzFLswzvyl6OzHe32TC)
-
-[How do Smartphone CPUs Work? || Inside the System on a Chip - YouTube](https://www.youtube.com/watch?v=NKfW8ijmRQ4)
+- <https://en.wikipedia.org/wiki/MISRA_C>
+- [Design for testing (DFT) - Wikipedia](https://en.wikipedia.org/wiki/Design_for_testing)
+- [Using DFT Architecture for Superior SoC Testing](https://medium.com/@einfochips/using-dft-architecture-for-superior-soc-testing-9f2c1b290252)
+- [Basic Electronics Part 1 - YouTube](https://www.youtube.com/watch?v=nb4ovfwqup8)
+- [Exploring Smartphones - Branch Education - YouTube](https://www.youtube.com/playlist?list=PL6rx9p3tbsMtRbJzFLswzvyl6OzHe32TC)
+- [How do Smartphone CPUs Work? || Inside the System on a Chip - YouTube](https://www.youtube.com/watch?v=NKfW8ijmRQ4)
+- [How do Computer Keyboards Work? 🤔⌨⌨🛠 - YouTube](https://www.youtube.com/watch?v=h-NM1xSSzHQ)
+- [How do Scroll Wheels Work? 🖱🛠🔬 - YouTube](https://www.youtube.com/watch?v=-HVKm5fIUA8)
+- [How does a Mouse know when you move it? || How Does a Computer Mouse Work? - YouTube](https://www.youtube.com/watch?v=SAaESb4wTCM)
+- [How do Video Game Controllers Work? || Exploring a PS4 Game Controller - YouTube](https://www.youtube.com/watch?v=vQesgAtr2e4)

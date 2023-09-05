@@ -204,32 +204,21 @@ Isotropic refers to the properties of a material which is independent of the dir
 
 ## Links
 
-[Heat Pumps: the Future of Home Heating](https://www.youtube.com/watch?v=7J52mDjZzto)
-
-[How to build a satellite – with Stuart Eves](https://www.youtube.com/watch?v=oWidvY7JzFE)
-
-[How do airplanes actually fly? - Raymond Adkins - YouTube](https://www.youtube.com/watch?v=p4VHMsIuPmk)
-
-[The Science Of Small Distances - YouTube](https://www.youtube.com/watch?v=Aw-xbs8ZWxE)
-
-[The World Of Microscopic Machines - YouTube](https://www.youtube.com/watch?v=iPGpoUN29zk)
-
-[The Most Complex System In Modern Cars - YouTube](https://www.youtube.com/watch?v=mxHJ3O4iudw)
-
-[How to save 51 billion lives for 68 cents with simple Engineering - YouTube](https://www.youtube.com/watch?v=Qf-D1Upn-KU)
-
-[The GENIUS of Inertial Navigation Systems Explained - YouTube](https://www.youtube.com/watch?v=Pq_PDaYclAw&ab_channel=FlyByMax)
-
-[Understanding Magnetic couplers! - YouTube](https://www.youtube.com/watch?v=IAkxS1xVraw&ab_channel=Lesics)
-
-[The Secret Invention That Changed World War 2 - YouTube](https://www.youtube.com/watch?v=Dtocpvv88gQ)
-
-[How does an Elevator work? - YouTube](https://www.youtube.com/watch?v=rKp4pe92ljg)
-
-[Lessons from a Can Opener - YouTube](https://www.youtube.com/watch?v=i_mLxyIXpSY)
-
-[This goofy fridge has a really clever design. It's also kinda terrible. - YouTube](https://www.youtube.com/watch?v=8PTjPzw9VhY)
-
-[How a Diesel-Electric Locomotive Works - YouTube](https://www.youtube.com/watch?v=cIQ0yIZgQeE)
-
-[Axial Flux Motors Will Change CARS - Here's Why - YouTube](https://www.youtube.com/watch?v=HFY0cNRQjHA)
+- [Heat Pumps: the Future of Home Heating](https://www.youtube.com/watch?v=7J52mDjZzto)
+- [How to build a satellite – with Stuart Eves](https://www.youtube.com/watch?v=oWidvY7JzFE)
+- [How do airplanes actually fly? - Raymond Adkins - YouTube](https://www.youtube.com/watch?v=p4VHMsIuPmk)
+- [The Science Of Small Distances - YouTube](https://www.youtube.com/watch?v=Aw-xbs8ZWxE)
+- [The World Of Microscopic Machines - YouTube](https://www.youtube.com/watch?v=iPGpoUN29zk)
+- [The Most Complex System In Modern Cars - YouTube](https://www.youtube.com/watch?v=mxHJ3O4iudw)
+- [How to save 51 billion lives for 68 cents with simple Engineering - YouTube](https://www.youtube.com/watch?v=Qf-D1Upn-KU)
+- [The GENIUS of Inertial Navigation Systems Explained - YouTube](https://www.youtube.com/watch?v=Pq_PDaYclAw&ab_channel=FlyByMax)
+- [Understanding Magnetic couplers! - YouTube](https://www.youtube.com/watch?v=IAkxS1xVraw&ab_channel=Lesics)
+- [The Secret Invention That Changed World War 2 - YouTube](https://www.youtube.com/watch?v=Dtocpvv88gQ)
+- [How does an Elevator work? - YouTube](https://www.youtube.com/watch?v=rKp4pe92ljg)
+- [Lessons from a Can Opener - YouTube](https://www.youtube.com/watch?v=i_mLxyIXpSY)
+- [This goofy fridge has a really clever design. It's also kinda terrible. - YouTube](https://www.youtube.com/watch?v=8PTjPzw9VhY)
+- [How a Diesel-Electric Locomotive Works - YouTube](https://www.youtube.com/watch?v=cIQ0yIZgQeE)
+- [Axial Flux Motors Will Change CARS - Here's Why - YouTube](https://www.youtube.com/watch?v=HFY0cNRQjHA)
+- [How do Mechanical Pencils Work? #shorts - YouTube](https://www.youtube.com/watch?v=vpR8piWPdKo)
+- [How do Soap Bottle Pumps Work? || Inside Animation of a Soap Pump Dispenser - YouTube](https://www.youtube.com/watch?v=9kzC4CpPxSQ)
+- [Photoelectric light controls are weirder than they seem - YouTube](https://www.youtube.com/watch?v=Khp3wb0QMpQ)

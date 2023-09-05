@@ -47,6 +47,8 @@ Sequence of Returns - [what sequence of returns risk](https://www.youtube.com/wa
 
 [Alternative Investment Options | Should You Go for them? | ET Money](https://www.youtube.com/watch?v=_dAH-7EdAUw)
 
+[Toys for Billionaires: Sports Franchises as Trophy Assets - YouTube](https://www.youtube.com/watch?v=sx2Jx5vaRhc)
+
 Alternative investments are of many types: There are hedge funds, private equity, commodities like agricultural produce, energy and metals, etc. Then there is real estate, venture capital, private debt placement, peer-to-peer lending, investing in start-ups, arts & antiques, vintage coins, stamps, etc. In addition to the higher returns most alternative investments are not linked to the stock markets or even the bond markets which then acts as an asset hedge and can be used by investors to diversify one's portfolio.
 
 ### P2P LENDING (Peer to peer lending)
@@ -261,3 +263,16 @@ A better approach, therefore, is to take the middle path. Invest half the Indian
 [BOOST your SIP Returns by Upto 2% p.a. 🦸‍♂️ | Four Easy-to-Implement SIP Investing Strategies](https://www.youtube.com/watch?v=WT8_9-ll7XU)
 
 [Summary of Benjamin Graham's Intelligent Investor | The Best Book on Investing - YouTube](https://www.youtube.com/watch?v=ltWCUf73vrk)
+
+[Don’t Invest your PAISA Here. It will destroy your wealth. - YouTube](https://www.youtube.com/watch?v=Aqnv2y9eKlg)
+
+- ULIP
+- Derivatives - F&O
+- Intraday/Buy Today Sell Tomorrow/Momentum/Swing Trading
+- Active Large Cap Mutual Funds
+- Peer 2 Peer Lending like 12% Club
+- Corporate Bonds
+- Flats/Apartments in 10+ years old buildings
+- Penny Stocks
+- Initial Public Offering
+- Cryptocurrency

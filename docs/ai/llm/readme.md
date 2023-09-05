@@ -43,6 +43,7 @@ Moving from information to knowledge age
 - Deep Nostalgia
 - [AI Voice Generator: Versatile Text to Speech Software | Murf AI](https://murf.ai/)
 - [Tammy AI](https://tammy.ai/)
+- captions (Android App)
 
 #### [Midjourney](https://www.midjourney.com/)
 

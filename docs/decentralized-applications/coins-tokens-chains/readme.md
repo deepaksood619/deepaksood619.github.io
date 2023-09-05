@@ -73,7 +73,11 @@
 - Transactional Tokens
 - Utility Tokens
 - Governance Tokens
-- [What are Wrapped Tokens? (Explained with Animations) - YouTube](https://www.youtube.com/watch?v=DuwQ6NuPQp4)
+- [Wrapped Tokens - YouTube](https://www.youtube.com/watch?v=DuwQ6NuPQp4)
+
+#### Wrapped Token
+
+A wrapped token is a tokenized version of another cryptocurrency which is pegged to the value of the identical asset it represents on a different network and can be redeemed for the unwrapped version of the token at any point in time.
 
 ### Others
 

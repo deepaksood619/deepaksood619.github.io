@@ -16,25 +16,20 @@
 12. Tree map
 13. Heat map
 14. Pheno plot
-15. Cladogram
-
-    ![image](../../../media/Data-Visualization_Charts-image1.jpg)
-
-    <https://en.wikipedia.org/wiki/Cladogram>
-
+15. Cladogram - <https://en.wikipedia.org/wiki/Cladogram>
 16. Flame Graphs
 
     - Icicle graph
     - Flame Charts
-    [Miha Rekar - What Are Flame Graphs and How to Read Them, RubyConfBY 2017](https://www.youtube.com/watch?v=6uKZXIwd6M0)
-    [USENIX ATC '17: Visualizing Performance with Flame Graphs](https://www.youtube.com/watch?v=D53T1Ejig1Q)
+     - [Miha Rekar - What Are Flame Graphs and How to Read Them, RubyConfBY 2017](https://www.youtube.com/watch?v=6uKZXIwd6M0)
+     - [USENIX ATC '17: Visualizing Performance with Flame Graphs](https://www.youtube.com/watch?v=D53T1Ejig1Q)
 
 17. Sparklines
 
 ## Basic Charts
 
 1. Scatter Plots (2D / 3D)
-2. Line Charts
+2. Line Charts - [Tableau Line & Area Chart Catalogue | Tableau Public](https://public.tableau.com/app/profile/rosa.mariana.de.leon.e/viz/TableauLineAreaChartCatalogue/Catalogue)
 3. Bar Charts
 4. Horizontal Bar Charts
 5. Pie Charts

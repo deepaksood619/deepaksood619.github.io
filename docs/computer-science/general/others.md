@@ -54,6 +54,8 @@ Translation (T9N)
 
 <https://blog.codinghorror.com/the-infinite-space-between-words>
 
+[Technology Size Comparison 🤯🤯 3D Animation - YouTube](https://www.youtube.com/watch?v=gfOD-Qpl6eg)
+
 ### Responsiveness matters
 
 - Walmart has found a sharp decline in conversion rates as latency climbs from 1s to 4s.

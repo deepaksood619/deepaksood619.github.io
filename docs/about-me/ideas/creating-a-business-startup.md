@@ -4,6 +4,13 @@ Brand name - [How to create a great brand name | Jonathan Bell](https://youtu.be
 
 **Megatrends-** powerful, transformative forces that could change the global economy, business and society... Think electricity, automobile, the Internet.
 
+You will have either of the 4 problems while building a startup
+
+- access to capital
+- building the product customers want
+- able to distribute your product at scale
+- ensuring you are able to monetise
+
 15 day tech startup launch plan:
 
 - Domain on [GoDaddy](https://www.linkedin.com/company/godaddy/)- 5 minutes

@@ -383,6 +383,7 @@ Youtube Original's Mind Field
 - <https://www.1377x.to>
 - 1377x.to
 - <https://1337xto.to/>
+- <https://www1.thepiratebay3.to/>
 - 1337xxx.to
 - 1337xx.to
 - <https://waytohunt.org/1337x-proxy-mirror-sites>

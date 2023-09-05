@@ -144,6 +144,7 @@ Cantillon effect explains how changes in the supply of money in an economy can a
 ## Investing
 
 - [Fear of Missing Out](https://en.wikipedia.org/wiki/Fear_of_missing_out)(FOMO) - "A pervasive apprehension that others might be having rewarding experiences from which one is absent."
+- DWTCAFK - Don’t Want To Catch A Falling Knife
 - [Preferred Stock](https://en.wikipedia.org/wiki/Preferred_stock) vs [Common Stock](https://en.wikipedia.org/wiki/Common_stock) - "Preferred stock is a type of stock which may have any combination of features not possessed by common stock including properties of both an equity and a debt instrument, and is generally considered a hybrid instrument."
 - [Margin of Safety](https://en.wikipedia.org/wiki/Margin_of_safety_(financial)) - "The difference between the intrinsic value of a stock and its market price."
   - [3 Unique Methods of Calculating Margin of Safety of a Business & Stock | The Intelligent Investor](https://www.youtube.com/watch?v=Bm3w9YmAF2E)

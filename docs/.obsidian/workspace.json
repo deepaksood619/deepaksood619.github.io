@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "computer-science/distributed-system/byzantine-generals-problem.md",
+                "file": "office/cakedefi/infra.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "fault tolerance",
+                "query": "coinswap",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "computer-science/distributed-system/byzantine-generals-problem.md",
+                "file": "office/cakedefi/infra.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "computer-science/distributed-system/byzantine-generals-problem.md",
+                "file": "office/cakedefi/infra.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "computer-science/distributed-system/byzantine-generals-problem.md"
+                "file": "office/cakedefi/infra.md"
               }
             }
           },
@@ -191,33 +191,33 @@
   },
   "active": "978fd2faf621af33",
   "lastOpenFiles": [
-    "office/personality/new-home-place-house.md",
-    "ai/llm/llm-building.md",
-    "knowledge/general/science.md",
-    "psychology/human-psychology-and-thinking.md",
-    "ai/learning-resources.md",
-    "economics/mental-models/economics-mental-models.md",
-    "economics/mental-models/macroeconomics.md",
-    "about-me/jobs/career.md",
-    "ai/llm/design-patterns.md",
-    "psychology/soft-skills/readme.md",
-    "ai/llm/readme.md",
-    "ai/ml-algorithms/readme.md",
-    "ai/readme.md",
-    "ai/courses/chatgpt-prompt-eng.md",
-    "ai/libraries/readme.md",
-    "ai/llm",
+    "languages/sql/dql-data-query-language/readme.md",
+    "languages/sql/dql-data-query-language/analytical-queries.md",
+    "languages/sql/dql-data-query-language/aggregation-queries.md",
+    "languages/sql/others.md",
+    "languages/sql/readme.md",
+    "office/cakedefi/product.md",
+    "office/cakedefi/tables.md",
+    "office/cakedefi/operations.md",
+    "office/cakedefi/todo.md",
+    "decentralized-applications/coins-tokens-chains/readme.md",
     "decentralized-applications/coins-tokens-chains/bitcoin.md",
-    "psychology/soft-skills/disagreement-feedback.md",
-    "languages/frameworks/android/readme.md",
-    "python/others/frameworks.md",
-    "python/django/docs-topic-guides.md",
-    "about-me/ideas/thoughts-future-ideas-vision-prediction.md",
-    "book-summaries/48-laws-of-power.md",
-    "knowledge/general/mental-models.md",
-    "knowledge/biology/pregnancy-baby.md",
-    "psychology/parenting.md",
-    "knowledge/biology/nutrition/food.md",
+    "decentralized-applications/coins-tokens-chains/coin-token-intro.md",
+    "office/keep/deepak-banks.md",
+    "devops/ides/vscode-vs-code.md",
+    "ai/data-science/tableau/concepts.md",
+    "ai/data-science/tableau/dashboarding.md",
+    "ai/data-science/tableau/others.md",
+    "ai/data-science/tableau/readme.md",
+    "devops/ides/youtube-podcasts-magazine-apps.md",
+    "economics/market-terms/futures-options-trading.md",
+    "office/cakedefi/infra.md",
+    "office/keep/neha.md",
+    "office/personality/addresses-electricity.md",
+    "ai/llm/design-patterns.md",
+    "ai/llm/readme.md",
+    "ai/llm/llm-building.md",
+    "ai/llm",
     "media/Personality-Profiles-image5.jpg",
     "media/Personality-Profiles-image4.png",
     "media/Personality-Profiles-image3.jpeg",

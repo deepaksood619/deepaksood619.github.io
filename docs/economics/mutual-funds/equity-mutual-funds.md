@@ -90,3 +90,8 @@ In the multicap category, the allocation decision is left to the fund manager wh
 ## Links
 
 [Getting started with equity mutual funds - YouTube](https://www.youtube.com/watch?v=nW5DTqJ7REY)
+
+[I'll Select These TWO Mutual Funds for my Lifetime Investing Portfolio - YouTube](https://www.youtube.com/watch?v=aYHRTPTDtNk)
+
+- Momentum
+- Value fund

@@ -20,6 +20,10 @@
 
 [How The British Forced Opium Into China | Epic Economics - YouTube](https://www.youtube.com/watch?v=Kkgvk0fbDws)
 
+[Why is China Building a New $8 Trillion Silk Road? | Epic Economics - YouTube](https://www.youtube.com/watch?v=KP61ScucMog)
+
+[How China Ruined Their Own Economy | Epic Economics - YouTube](https://www.youtube.com/watch?v=iW4wfXdtGZ4)
+
 ### Taiwan
 
 [Why Taiwan is So Much Richer Than China - YouTube](https://www.youtube.com/watch?v=xT17zi_4Oas)
@@ -62,6 +66,10 @@
 
 [Saudi Arabia’s Catastrophic “Everything” Problem - YouTube](https://www.youtube.com/watch?v=txmzVsBniZQ)
 
+[There Will Never Be Another Singapore | Economics Explained - YouTube](https://www.youtube.com/watch?v=KB1vxqD0uPE)
+
+[Why are Russia US & India racing to space? - YouTube](https://www.youtube.com/watch?v=1WYWwE4Axd8)
+
 ## Europe
 
 ### Ukraine
@@ -69,6 +77,10 @@
 [Why Belarus Might Invade Ukraine Too](https://www.youtube.com/watch?v=Ml7ycoLumAs)
 
 [Why the Destruction of This Dam is Breaking Ukraine - YouTube](https://www.youtube.com/watch?v=MUhTBBkZUP4)
+
+### Russia
+
+[Why Russia Isn't Actually Collapsing - YouTube](https://www.youtube.com/watch?v=0T7Itt9mqtA)
 
 ## North America
 

@@ -128,6 +128,14 @@ The fix forward method works best when changes are broken into small chunks that
 
 <https://www.liquibase.com/blog/roll-back-database-fix-forward>
 
+## Jepsen
+
+Jepsen is an effort to improve the safety of distributed databases, queues, consensus systems, etc.
+
+[Distributed Systems Safety Research](https://jepsen.io/)
+
+[Jepsen 13 • Kyle Kingsbury • YOW! 2020 - YouTube](https://www.youtube.com/watch?v=_TD31etxb_w)
+
 ## Others
 
 [GitHub - harelba/q: q - Run SQL directly on delimited files and multi-file sqlite databases](https://github.com/harelba/q)

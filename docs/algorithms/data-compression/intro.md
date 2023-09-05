@@ -147,7 +147,3 @@ A **dictionary coder**, also sometimes known as a**substitution coder**, is a cl
 ## Dictionary Encoding
 
 Elasticsearch and other databases converts big values to a bit representation that signifies that final value
-
-## Image Compression (JPEG)
-
-[How are Images Compressed? [46MB ↘↘ 4.07MB]](https://www.youtube.com/watch?v=Kv1Hiv3ox8I)

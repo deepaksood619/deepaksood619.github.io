@@ -68,3 +68,7 @@ TPUs:
 ## CPU Time
 
 <https://dzone.com/articles/nice-cpu-time-ni-time-in-top>
+
+## Links
+
+[Chasing Silicon: The Race for GPUs](https://www.youtube.com/watch?v=IPre5287P3I)

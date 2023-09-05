@@ -8,6 +8,10 @@
 t.createdAt::DATE BETWEEN '2023-02-23' and '2023-03-16'
 
 t.createdAt BETWEEN '2023-02-23' AND '2023-03-16'
+
+-- IS NOT TRUE selects null rows too and != TRUE don't give null rows
+isFlag IS NOT TRUE
+isFlag != TRUE
 ```
 
 ```sql

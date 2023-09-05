@@ -15,6 +15,7 @@ On-chain metrics turn blockchain-based transaction data into actionable crypto m
 - BTC Dominance (if BTC dominance decreases, alt coins take lead)
 - On-chain metrics
 - [Innovative Visuals for Blockchain Data | Bubblemaps](https://bubblemaps.io/)
+- [The Blockchain Data Platform - Chainalysis](https://www.chainalysis.com/)
 
 ## Chain Coin Analytics
 

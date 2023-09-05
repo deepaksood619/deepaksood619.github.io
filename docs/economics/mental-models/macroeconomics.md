@@ -162,3 +162,4 @@ The **impossible trinity** (also known as **the impossible [trilemma](https://en
 - [Why Indian Economy is Bleeding Talent? : Socio-economic case study - YouTube](https://www.youtube.com/watch?v=KYFdxuLFVyQ)
 - [When Economic Policies Go Wrong | Economics Explained - YouTube](https://www.youtube.com/watch?v=6OTPa66ytm0)
 - [Why the Rich World is Dying and How to Save It - YouTube](https://www.youtube.com/watch?v=x6e03HWI2nQ)
+- [How The UN Destroyed Iraq For Oil | Epic Economics - YouTube](https://www.youtube.com/watch?v=PM3ZMWtbBag)

@@ -145,7 +145,7 @@ Option Greeks are foces that influence the premium of an option
 
 ### Delta
 
-    - Delta is an option greek that captures the effect of the direction of the market
+Delta is an option greek that captures the effect of the direction of the market
 
 Option Delta = Rate of change in premium wrt Underlying
 
@@ -359,6 +359,18 @@ You can configure a combination strategy according to the market, the time frame
 [Day Trading for Beginners - YouTube](https://www.youtube.com/playlist?list=PL0u56lu3jgFf2gBxz7mMq7_0k0UvG7ZOe)
 
 [Value Investing with Sven Carlin, Ph.D. - YouTube](https://www.youtube.com/@Value-Investing)
+
+[MISSION OPTIONS - YouTube](https://www.youtube.com/playlist?list=PLu4JqTPBlGcNctJu1-LcH8OL-dG2DlYCb)
+
+## Auctions Market
+
+During the auction session, the exchange invites offers from fresh sellers for shares that are short delivered. A short delivery happens when the exchange is unable to deliver shares purchased to the demat account because the seller of the shares failed to do so.
+
+### Short Delivery
+
+When the seller of a stock fails to deliver the shares to the exchange for the buyer's demat account, it is known as short delivery. This generally occurs when intraday short positions cannot be closed because of illiquidity or stocks hitting the upper circuit.
+
+[How to participate in the auction markets on Kite?](https://support.zerodha.com/category/trading-and-markets/kite-features/auctions/articles/participation-in-the-auction)
 
 ## Why & How of Trading
 

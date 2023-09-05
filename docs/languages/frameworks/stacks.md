@@ -9,16 +9,20 @@
 - [Avro](http://avro.apache.org/), [Protocol Buffers](https://code.google.com/p/protobuf), [Thrift](http://thrift.apache.org/), and [umpteen zillion](https://github.com/eishay/jvm-serializers/wiki) other libraries handle serialization
 - [Kafka](http://kafka.apache.org/) and [Bookeeper](http://zookeeper.apache.org/bookkeeper) provide a backing log.
 
-LAMP - Linux, Apache, MySQL, PHP/Python/Perl
+## Others
 
-WAMP - Windows, Apache, MySQL, PHP/Python/Perl
+#### LAMP - Linux, Apache, MySQL, PHP/Python/Perl
 
-MEAN - MongoDB, Expressjs, Angular, Nodejs
+#### WAMP - Windows, Apache, MySQL, PHP/Python/Perl
 
-MERN - MongoDB, Expressjs, React, Nodejs
+#### MEAN - MongoDB, Expressjs, Angular, Nodejs
+
+#### MERN - MongoDB, Expressjs, React, Nodejs
 
 <https://www.geeksforgeeks.org/mern-stack>
 
-PERN - Postgres, Express, React, Node
+[MERN Stack Tutorial - Book Store Project - YouTube](https://www.youtube.com/watch?v=-42K44A1oMA)
+
+#### PERN - Postgres, Express, React, Node
 
 <https://www.freecodecamp.org/news/learn-the-pern-stack-full-course>

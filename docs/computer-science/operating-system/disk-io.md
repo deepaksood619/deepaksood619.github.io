@@ -182,12 +182,18 @@ The Distributed Asynchronous Object Storage (DAOS) is an open-source software-de
 
 <https://www.sigarch.org/from-flops-to-iops-the-new-bottlenecks-of-scientific-computing>
 
-## Anatomy of SSD
+## Anatomy of SSD / HDD
 
 <https://www.techspot.com/amp/article/1985-anatomy-ssd>
 
 [How does this SSD store 8TB of Data? || Inside the Engineering of Solid-State Drive Architecture - YouTube](https://www.youtube.com/watch?v=r-SivgEpA1Q)
 
+[The Engineering Puzzle of Storing Trillions of Bits in your Smartphone / SSD using Quantum Mechanics - YouTube](https://www.youtube.com/watch?v=5f2xOxRGKqk)
+
 ## Links
 
 [How do Hard Disk Drives Work? 💻💿🛠 - YouTube](https://www.youtube.com/watch?v=wtdnatmVdIg)
+
+[How does Computer Memory Work? 💻🛠 - YouTube](https://www.youtube.com/watch?v=7J7X7aZvMXQ)
+
+[How does NAND Flash Work? Reading from TLC : Triple Level Cells || Exploring Solid State Drives - YouTube](https://www.youtube.com/watch?v=YtBysgPOKx4)

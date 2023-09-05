@@ -82,6 +82,12 @@ Communism (from [Latin](https://en.wikipedia.org/wiki/Latin) communis, 'common, 
 
 a state, society, or group governed by old people
 
+### Plutocracy
+
+government by the wealthy
+
+an elite or ruling class whose power derives from their wealth
+
 ### Paedocracy
 
 Rule by children
