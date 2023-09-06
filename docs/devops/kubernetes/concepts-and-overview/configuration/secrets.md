@@ -79,6 +79,6 @@ In some systems when the process crashes it **logs all the environment variable*
 
 ## EncryptionConfiguration
 
-In order to encrypt secrets, you must create an **EncryptionConfiguration** object with a key and proper identity. Then, the kube-apiserver needs the**--encryption-provider-config**flag set to a previously configured provider, such as aescbc or ksm. Once this is enabled, you need to recreate every secret, as they are encrypted upon write. Multiple keys are possible.Each key for a provider is tried during decryption. The first key of the first provider is used for encryption. To rotate keys, first create a new key, restart (all) kube-apiserver processes, then recreate every secret.
+In order to encrypt secrets, you must create an **EncryptionConfiguration** object with a key and proper identity. Then, the kube-apiserver needs the **--encryption-provider-config** flag set to a previously configured provider, such as aescbc or ksm. Once this is enabled, you need to recreate every secret, as they are encrypted upon write. Multiple keys are possible.Each key for a provider is tried during decryption. The first key of the first provider is used for encryption. To rotate keys, first create a new key, restart (all) kube-apiserver processes, then recreate every secret.
 
 <https://kubernetes.io/docs/tasks/administer-cluster/encrypt-data>

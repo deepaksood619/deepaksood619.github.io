@@ -36,8 +36,11 @@ PostgreSQL shares many of the same advantages of MySQL. It is easy to use, inexp
 ## Functions in Postgres
 
 Postgres provides a powerful server-side function environment in multiple programming languages.
+
 Try to pre-process as much data as you can on the Postgres server with server-side functions. That way, you can cut down on the latency that comes from passing too much data back and forth between your application servers and your database. This approach is particularly useful for large aggregations and joins.
+
 What's even better is your development team can use its existing skill set for writing Postgres code. Other than the default PL/pgSQL (Postgres' native procedural language), Postgres functions and triggers can be written in PL/Python, PL/Perl, PL/V8 (JavaScript extension for Postgres) and PL/R.
+
 Here is an example of creating a PL/Python function for checking string lengths:
 
 ```sql
@@ -126,40 +129,24 @@ Locking Tuples internals - <https://github.com/postgres/postgres/blob/master/src
 
 Youtube - [Breaking PostgreSQL at Scale - Christophe Pettus](https://www.youtube.com/watch?v=XUkTUMZRBE8)
 
-## Tools
-
-- pgadmin
+Tools - pgadmin
 
 ## References
 
-<http://www.postgresqltutorial.com>
-
-<https://dev.to/digitalocean/-an-introduction-to-queries-in-postgresql-44la>
-
-<https://postgrescheatsheet.com/#/databases>
-
-SE Radio - 328: Postgres Query Planner (Robert Blumen with Bruce Momjian)
-
-<https://dev.to/heroku/postgres-is-underrated-it-handles-more-than-you-think-4ff3>
-
-<https://sql-performance-explained.com>
-
-<https://wiki.postgresql.org/wiki/Don%27t_Do_This>
-
-[Scaling Postgres Episodes](https://www.youtube.com/playlist?list=PLdTaEgcmPg9Kl539gyIFtWL0-cqk3m7v9)
-
-[PostgreSQL Tutorials](https://www.youtube.com/playlist?list=PLdTaEgcmPg9KiTCPWh-K961tiZrvhgfFu)
-
-<https://zerodha.tech/blog/working-with-postgresql>
-
-[Postgres Architecture Explained - YouTube](https://www.youtube.com/watch?v=Q56kljmIN14)
-
-[Herding elephants: Lessons learned from sharding Postgres at Notion](https://www.notion.so/blog/sharding-postgres-at-notion)
-
-[Postgres Copy](https://www.postgresql.org/docs/current/sql-copy.html)
-
-[Fun with PostgreSQL Puzzles: Moving Objects with Arrays, Sequences, and Aggregates](https://www.crunchydata.com/blog/fun-with-postgresql-puzzles-moving-objects-with-arrays-sequences-and-aggregates)
-
-[Postgres System Columns Explained (ctid, xmin,xmax) - YouTube](https://www.youtube.com/watch?v=AveRgUrC7FM)
-
-[Index Fill Factor | The Backend Engineering Show - YouTube](https://www.youtube.com/watch?v=qXDhMJCuDEc)
+- <http://www.postgresqltutorial.com>
+- <https://dev.to/digitalocean/-an-introduction-to-queries-in-postgresql-44la>
+- <https://postgrescheatsheet.com/#/databases>
+- SE Radio - 328: Postgres Query Planner (Robert Blumen with Bruce Momjian)
+- <https://dev.to/heroku/postgres-is-underrated-it-handles-more-than-you-think-4ff3>
+- <https://sql-performance-explained.com>
+- <https://wiki.postgresql.org/wiki/Don%27t_Do_This>
+- [Scaling Postgres Episodes](https://www.youtube.com/playlist?list=PLdTaEgcmPg9Kl539gyIFtWL0-cqk3m7v9)
+- [PostgreSQL Tutorials](https://www.youtube.com/playlist?list=PLdTaEgcmPg9KiTCPWh-K961tiZrvhgfFu)
+- <https://zerodha.tech/blog/working-with-postgresql>
+- [Postgres Architecture Explained - YouTube](https://www.youtube.com/watch?v=Q56kljmIN14)
+- [Herding elephants: Lessons learned from sharding Postgres at Notion](https://www.notion.so/blog/sharding-postgres-at-notion)
+- [Postgres Copy](https://www.postgresql.org/docs/current/sql-copy.html)
+- [Fun with PostgreSQL Puzzles: Moving Objects with Arrays, Sequences, and Aggregates](https://www.crunchydata.com/blog/fun-with-postgresql-puzzles-moving-objects-with-arrays-sequences-and-aggregates)
+- [Postgres System Columns Explained (ctid, xmin,xmax) - YouTube](https://www.youtube.com/watch?v=AveRgUrC7FM)
+- [Index Fill Factor | The Backend Engineering Show - YouTube](https://www.youtube.com/watch?v=qXDhMJCuDEc)
+- [Explaining The Postgres Meme](https://www.avestura.dev/blog/explaining-the-postgres-meme)

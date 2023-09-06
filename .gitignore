@@ -152,6 +152,10 @@ build
 .obsidian/cache
 .obsidian/workspace
 
+# obsidian
+workspace.json
+data.json
+
 # personal wikis
 Office
 build-deploy.sh

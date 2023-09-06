@@ -2,9 +2,7 @@
 
 ## Postgres Extensions
 
-1. PostGIS
-
- used for geospatial data manipulation and running location queries in SQL
+PostGIS - used for geospatial data manipulation and running location queries in SQL
 
  <https://medium.com/@tjukanov/why-should-you-care-about-postgis-a-gentle-introduction-to-spatial-databases-9eccd26bc42b>
 

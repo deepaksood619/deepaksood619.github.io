@@ -28,14 +28,6 @@ A set of expressions that is used to repartition and sort the rows. Using this c
 
 Defines named window specifications that can be shared by multiple [Window functions](https://docs.databricks.com/sql/language-manual/sql-ref-window-functions.html) in the `select_query`.
 
-## Functions
-
-### Built-in Functions
-
-[Built-in functions | Databricks on AWS](https://docs.databricks.com/sql/language-manual/sql-ref-functions-builtin.html)
-
-[str_to_map function | Databricks on AWS](https://docs.databricks.com/sql/language-manual/functions/str_to_map.html)
-
 ## Materialized Views
 
 ```sql
@@ -67,3 +59,7 @@ DESCRIBE TABLE `default`.test ;
 
 SELECT createdAtDate, subject, count(*) FROM students group by ALL ORDER BY ALL;
 ```
+
+## Others
+
+[How to view all databases, tables, and columns in Databricks | by Kristo Raun | Helmes People | Medium](https://medium.com/helmes-people/how-to-view-all-databases-tables-and-columns-in-databricks-9683b12fee10)

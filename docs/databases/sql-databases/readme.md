@@ -7,7 +7,7 @@
 - [AWS Redshift](aws-redshift/readme.md)
 - [MySQL](mysql/readme.md)
 - [Postgres](postgres/readme.md)
-  - [Postgres](postgres/documentation)
+  - [Postgres Documentation](postgres/documentation)
   - [Table Partitioning](databases/sql-databases/postgres/table-partitioning.md)
   - [parameters-configuration-optimization](databases/sql-databases/postgres/parameters-configuration-optimization.md)
   - [others](databases/sql-databases/postgres/others.md)

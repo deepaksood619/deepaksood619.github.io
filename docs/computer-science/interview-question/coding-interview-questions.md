@@ -93,7 +93,7 @@ len(list(permutations('abcde', 5)))
 - <https://practice.geeksforgeeks.org/problems/check-for-balanced-tree/1>- **Medium (O(n)/O(nlogn) - 10 mins, corner cases) - <https://www.hackerrank.com/challenges/flatland-space-stations/problem>**
 - **Medium - <https://www.hackerrank.com/challenges/bigger-is-greater/problem>**
 - **Medium - <https://www.hackerrank.com/challenges/beautiful-triplets/problem>**
-- **Medium - <https://www.hackerrank.com/challenges/kaprekar-numbers/problem>**- <https://practice.geeksforgeeks.org/problems/coin-change2448/1>
+- **Medium - <https://www.hackerrank.com/challenges/kaprekar-numbers/problem>** - <https://practice.geeksforgeeks.org/problems/coin-change2448/1>
 - Medium - [Climbing the Leaderboard | HackerRank](https://www.hackerrank.com/challenges/climbing-the-leaderboard/problem?isFullScreen=true)
 <https://www.geeksforgeeks.org/must-coding-questions-company-wise>
 

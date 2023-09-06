@@ -179,6 +179,7 @@ In the late 16th and early 17th centuries, Thomas Hobson worked as a licensed ca
 - [Switching Costs](https://en.wikipedia.org/wiki/Switching_barriers) - "The costs associated with switching suppliers."
 - [Network Effect](https://en.wikipedia.org/wiki/Network_effect) - "The effect that one user of a good or service has on the value of that product to other people. When a network effect is present, the value of a product or service is dependent on the number of others using it."
 - [Economies of Scale](https://en.wikipedia.org/wiki/Economies_of_scale) - "The cost advantages that enterprises obtain due to size, output, or scale of operation, with cost per unit of output generally decreasing with increasing scale as fixed costs are spread out over more units of output."
+- **Chain gang -** In a chain gang, the prisoners are chained to one another, but none has to be chained to anything else. That’s because none of them can run away without being tripped up by the others, and because it’s practically impossible for them to coordinate their steps so as to all run away at once, as any of you who has ever been in a three-legged race can imagine.
 
 ## Military
 

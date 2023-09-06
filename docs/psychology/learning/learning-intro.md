@@ -156,7 +156,7 @@ Like you can read everything about cycling, but you cannot cycle until you pract
 
 ## Retaining/Storage: Keeping Memories in the Brain
 
-Forgetting can be caused by two different processes. The first is a **failure of storage**-the information might be forgotten because our brain loses it over time. The second is a **failure of retrieval**-the information might be "in" there, but we can't access it.
+Forgetting can be caused by two different processes. The first is a **failure of storage** -the information might be forgotten because our brain loses it over time. The second is a **failure of retrieval** -the information might be "in" there, but we can't access it.
 
 ## Trace Decay
 

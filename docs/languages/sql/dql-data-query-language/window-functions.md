@@ -8,6 +8,26 @@ Window functions can be simply explained as calculation functions similar to agg
 
 <https://mjk.space/advances-sql-window-frames>
 
+#### What does a window function in SQL do?
+
+A window function performs calculations over a set of rows, and uses information within the individual rows when required.
+
+#### How is a window aggregate function different from a "group by" aggregate function?
+
+With "group by," you can only aggregate columns not in the "group by" clause. Window functions allow you to gather both aggregate and non-aggregate values at once.
+
+#### Can you use more than one window function in a single SELECT statement?
+
+Yes, and this is a great advantage, since the window "frames" in each can be based on different filters.
+
+#### Can I access previous data with window functions?
+
+Yes, you can access both previous and future rows, using the LAG and LEAD functions.
+
+#### Can I generate running totals with window functions?
+
+Yes, you can add the ORDER BY clause to produce running totals on each row.
+
 ### What are window functions?
 
 They make building **complex aggregations** much simpler. They are so powerful that they serve as a dividing point in time: people talk about SQL before window functions and SQL after window functions. After window functions and Common Table Expressions were introduced to SQL, SQL has become Turing complete!

@@ -28,8 +28,8 @@
 
 - **Appoint a merchant banker -** In case of a large public issue, the company can appoint more than 1 merchant banker
 - **Apply to SEBI with a registration statement--** The registration statement contains details on what the company does, why the company plans to go public and the financial health of the company
-- **Getting a nod from SEBI**-- Once SEBI receives the registration statement, SEBI takes a call on whether to issue a go-ahead or a 'no go' to the IPO
-- **DRHP**-- If the company gets the initial SEBI nod, then the company needs to prepare the DRHP. A DRHP is a document that gets circulated to the public. Along with a lot of information, DRHP should contain the following details:
+- **Getting a nod from SEBI** -- Once SEBI receives the registration statement, SEBI takes a call on whether to issue a go-ahead or a 'no go' to the IPO
+- **DRHP** -- If the company gets the initial SEBI nod, then the company needs to prepare the DRHP. A DRHP is a document that gets circulated to the public. Along with a lot of information, DRHP should contain the following details:
 
   - The estimated size of the IPO
 
@@ -46,15 +46,15 @@
   - Risks involved in the business
 
   - Management details and their background
-- **Market the IPO**-- This would involve TV and print advertisements in order to build awareness about the company and its IPO offering. This process is also called the IPO roadshow
-- **Fix the price band**-- Decide the price band between which the company would like to go public. Of course, this can't be way off the general perception. If it is, then the public will not subscribe for the IPO
-- **Book Building**-- Once the roadshow is done and the price band fixed the company now has to officially open the window during which the public can subscribe for shares. For example, if the price band is between Rs.100 and Rs.120, then the public can actually choose a price they think is fair enough for the IPO issue. The process of collecting all these price points along with the respective quantities is called Book Building. Book building is perceived as an effective price discovery method
-- **Closure**-- After the book building window is closed (generally open for few days) then the price point at which the issue gets listed is decided. This price point is usually the price at which maximum bids have been received.
-- **Listing Day--** This is the day when the company actually gets listed on the stock exchange. The listing price is the price decided based on market demand and supply on that day and the stock is listed at a premium, par or discount of the cut-off price
+- **Market the IPO** -- This would involve TV and print advertisements in order to build awareness about the company and its IPO offering. This process is also called the IPO roadshow
+- **Fix the price band** -- Decide the price band between which the company would like to go public. Of course, this can't be way off the general perception. If it is, then the public will not subscribe for the IPO
+- **Book Building** -- Once the roadshow is done and the price band fixed the company now has to officially open the window during which the public can subscribe for shares. For example, if the price band is between Rs.100 and Rs.120, then the public can actually choose a price they think is fair enough for the IPO issue. The process of collecting all these price points along with the respective quantities is called Book Building. Book building is perceived as an effective price discovery method
+- **Closure** -- After the book building window is closed (generally open for few days) then the price point at which the issue gets listed is decided. This price point is usually the price at which maximum bids have been received.
+- **Listing Day** -- This is the day when the company actually gets listed on the stock exchange. The listing price is the price decided based on market demand and supply on that day and the stock is listed at a premium, par or discount of the cut-off price
 
 ### What happens after the IPO?
 
-During the bidding process (also called the date of issue) investors can bid for shares at a particular price within the specified price band. This whole system around the date of the issue where one bids for shares, is referred to as thePrimary Market. The moment the stock gets listed and debuts on the stock exchange, the stock starts to trade publicly. This is called thesecondary market.
+During the bidding process (also called the date of issue) investors can bid for shares at a particular price within the specified price band. This whole system around the date of the issue where one bids for shares, is referred to as thePrimary Market. The moment the stock gets listed and debuts on the stock exchange, the stock starts to trade publicly. This is called the secondary market.
 
 Once the stock transitions from primary markets to secondary markets, the stock gets traded daily on the stock exchange. People start buying and selling stocks regularly.
 

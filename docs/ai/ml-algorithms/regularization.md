@@ -128,7 +128,6 @@ The elastic net is just a linear combination of the L1 and L2 regularizing penal
 Question
 
 1. Which type of regularization is more likely to lead to zero weights? **- L1**
-
 2. Which type of regularization penalizes large weight values more? **- L2**
 
 ## Logistic Regression

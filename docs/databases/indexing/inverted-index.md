@@ -60,7 +60,7 @@ Our user could reasonably expect both documents to match the query. We can do be
 If we normalize the terms into a standardformat, then we can find documents that contain terms that are not exactly the same as the user requested, but are similar enough to still be relevant. For instance:
 
 - Quickcan be lowercased to becomequick.
-- foxescan be **stemmed**--reduced to its root form - to becomefox. Similarly, dogscould be stemmed todog.
+- foxescan be **stemmed** --reduced to its root form - to becomefox. Similarly, dogscould be stemmed todog.
 - jumpedandleapare synonyms and can be indexed as just the single termjump.
 
 Now the index looks like this:
