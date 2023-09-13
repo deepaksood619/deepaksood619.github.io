@@ -10,13 +10,23 @@
 
 [Bridget Teyler - YouTube](https://www.youtube.com/@BridgetTeyler)
 
-## Baby movements
+## Baby
+
+### Baby movements
 
 - Try to perform a kick count around the same time each day, preferably during a time when your baby is usually active, so you get an accurate count. If they usually start kicking after you eat, for example, [have a snack](https://www.verywellfamily.com/great-pregnancy-snacks-2759344) and then lie down for a few hours while counting the number of times you feel them kick.
 - If you feel at least 10 kicks or movements within an hour or 20 within two hours, everything is likely fine.
 - But doctors don't consider your baby "[full term](https://www.babycenter.com/pregnancy/your-body/full-term-pregnancy_10407757)" until [39 weeks](https://www.babycenter.com/pregnancy/week-by-week/39-weeks-pregnant). Spending the next two weeks in the womb allows [your baby's brain](https://www.babycenter.com/pregnancy/your-baby/fetal-development-your-babys-brain_20004924), lungs, and nervous system to fully mature.
 
-## C-Section
+### Crying
+
+It's OK to let your baby cry if the baby doesn't seem sick and you've tried everything to soothe your baby. You can try to leave your baby alone in a safe place, such as a crib, for about 10 to 15 minutes. Many babies need to cry before they can fall asleep. And they'll nod off faster if you leave them to cry.
+
+[Fetching Title#3zvs](https://www.mayoclinic.org/healthy-lifestyle/infant-and-toddler-health/in-depth/healthy-baby/art-20043859)
+
+## Pregnancy
+
+### C-Section
 
 - placenta previa, in which going into labor would precipitate life-threatening hemorrhaging, or cord prolapse, which can cause the death of a baby if a C-section is not performed in a manner of minutes.
 
@@ -32,7 +42,7 @@ Health care providers might recommend a C-section if -
 - **There's a blockage.** A large fibroid blocking the birth canal, a pelvic fracture or a baby who has a condition that can cause the head to be unusually large (severe hydrocephalus) might be reasons for a C-section.
 - **You've had a previous C-section or other surgery on the uterus.** Although it's often possible to have a vaginal birth after a C-section, a health care provider might recommend a repeat C-section.
 
-### Risks
+#### Risks
 
 Like other types of major surgery, C-sections carry risks.
 
@@ -41,7 +51,7 @@ Risks to babies include:
 - **Breathing problems.** Babies born by scheduled C-section are more likely to develop a breathing issue that causes them to breathe too fast for a few days after birth (transient tachypnea).
 - **Surgical injury.** Although rare, accidental nicks to the baby's skin can occur during surgery.
 
-Risks to mothers include:
+#### Risks to mothers include
 
 - **Infection.** After a C-section, there might be a risk of developing an infection of the lining of the uterus (endometritis), in the urinary tract or at the site of the incision.
 - **Blood loss.** A C-section might cause heavy bleeding during and after delivery.
@@ -52,11 +62,11 @@ Risks to mothers include:
 
     A C-section also increases the risk of the uterus tearing along the scar line (uterine rupture) for women who attempt a vaginal delivery in a later pregnancy.
 
-## NST
+### NST
 
 It is a non-invasive test used for the surveillance of high-risk pregnancies when the fetus is judged clinically to be at risk for hypoxemia or increased risk of death. Trained and certified nurses, midwives and physicians should read and interpret the non-stress test. The NST readings are as reactive and none reactive. The non-stress tests can initiate at 26 to 28 weeks. The NST is reactive from 32 weeks.
 
-## Pregnancy Diet
+### Pregnancy Diet
 
 ![image](../../media/Pregnancy-Diet-image1.jpg)
 

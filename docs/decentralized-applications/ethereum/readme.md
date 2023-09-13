@@ -37,7 +37,9 @@
 - [Networks](https://ethereum.org/en/developers/docs/networks/) _– Implementations of Ethereum including test networks_
 - [Consensus mechanisms](https://ethereum.org/en/developers/docs/consensus-mechanisms/) _– How the individual nodes of a distributed network agree on the current state of the system_
   - [Proof-of-work](https://ethereum.org/en/developers/docs/consensus-mechanisms/pow/)
-  - [Proof-of-stake](https://ethereum.org/en/developers/docs/consensus-mechanisms/pos/)
+  - [Proof-of-stake](decentralized-applications/ethereum/40-proof-of-stake.md)
+    - [Rewards and Penalties](decentralized-applications/ethereum/41-rewards-and-penalties.md)
+    - [Block Proposals](decentralized-applications/ethereum/42-block-proposals.md)
 
 ### Ethereum stack
 

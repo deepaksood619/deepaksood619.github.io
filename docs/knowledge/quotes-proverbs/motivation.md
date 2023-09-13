@@ -94,6 +94,8 @@ The hardest thing to do is leaving your comfort zone. But you have to let go of 
 
 It's hard to grow beyond something if you won't let go of it.
 
+If you want to make something happen then don't wait it to happen, make it happen.
+
 Antifragile: Things That Gain from Disorder by Nassim Nicholas Taleb
 
 ### Antifragile

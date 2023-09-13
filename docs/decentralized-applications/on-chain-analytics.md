@@ -16,6 +16,7 @@ On-chain metrics turn blockchain-based transaction data into actionable crypto m
 - On-chain metrics
 - [Innovative Visuals for Blockchain Data | Bubblemaps](https://bubblemaps.io/)
 - [The Blockchain Data Platform - Chainalysis](https://www.chainalysis.com/)
+- [SoSo Value](https://alpha.sosovalue.xyz/)
 
 ## Chain Coin Analytics
 

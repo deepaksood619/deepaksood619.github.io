@@ -10,3 +10,7 @@
 [National symbols of India - YouTube](https://www.youtube.com/watch?v=-ImDjAuGVoU)
 
 [BrahMos Supersonic Cruise Missile [Explained] | Science and Technology for UPSC Prelims & Mains 2022 - YouTube](https://www.youtube.com/watch?v=1gwRy8t2wCA)
+
+## Others
+
+[India has a Big Stray Dogs Problem | Dhruv Rathee - YouTube](https://www.youtube.com/watch?v=tMsf6i7yID8)

@@ -57,3 +57,5 @@ So in Ethereum you pay per computational step, while in Bitcoin you pay per byte
 [What is Meant By Turing-Complete in Ethereum? - GeeksforGeeks](https://www.geeksforgeeks.org/what-is-meant-by-turing-complete-in-ethereum/)
 
 [The Boundary of Computation - YouTube](https://www.youtube.com/watch?v=kmAc1nDizu0)
+
+[Turing Machine Alternative (Counter Machines) - Computerphile - YouTube](https://www.youtube.com/watch?v=PXN7jTNGQIw)

@@ -267,3 +267,14 @@ Habits are an important tool, but they're just a tool. Like a hammer or a saw, t
 - [Procastination](procastination)
 - [Habits | Quotes](knowledge/quotes-proverbs/habits.md)
 - [When are Minimal Habits Useful for Learning? - Scott H Young](https://www.scotthyoung.com/blog/2023/06/20/minimal-habits-learning/)
+- [10 Challenges, 90 Days SUCCESS BLUEPRINT for 2024! | Life Advice 2023 | Ankur Warikoo Hindi - YouTube](https://www.youtube.com/watch?v=6azp2ClkdCk)
+  - Structured Thinking
+  - Confident Speaking
+  - Eliminate Sugar Craving
+  - Reading
+  - Meditation
+  - Getting Rejected
+  - Resist the Obvious
+  - Wake Up on Time
+  - Avoid Overthinking
+  - Conquer Procrastination

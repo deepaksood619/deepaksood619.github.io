@@ -28,6 +28,39 @@ A set of expressions that is used to repartition and sort the rows. Using this c
 
 Defines named window specifications that can be shared by multiple [Window functions](https://docs.databricks.com/sql/language-manual/sql-ref-window-functions.html) in the `select_query`.
 
+### Lateral View - map / explode
+
+```sql
+WITH data AS (
+ SELECT
+  abc,
+  cde,
+  count(1) AS nodes
+ FROM
+  table_name
+ WHERE
+  filter_col = 'filter_value'
+ GROUP BY
+  ALL
+),
+-- Example of storing table as map in a single cell
+dummy_data AS (
+ SELECT
+  array_agg((abc, cde, nodes)) AS column_name
+ FROM
+  DATA
+)
+-- Go from map cell to rows and columns
+SELECT
+ m['abc'] AS abc,
+ m['cde'] AS cde,
+ m['nodes'] AS nodes
+FROM
+ dummy_data LATERAL VIEW explode(column_name) AS m
+```
+
+[LATERAL VIEW clause | Databricks](https://docs.databricks.com/en/sql/language-manual/sql-ref-syntax-qry-select-lateral-view.html)
+
 ## Materialized Views
 
 ```sql

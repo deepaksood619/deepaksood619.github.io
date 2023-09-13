@@ -119,29 +119,19 @@ Maximal extractable value (MEV) refers to the maximum value that can be extracte
 
 Maximal extractable value was first applied in the context of proof-of-work, and initially referred to as "miner extractable value". This is because in proof-of-work, miners control transaction inclusion, exclusion, and ordering. However, since the transition to proof-of-stake via The Merge validators have been responsible for these roles, and mining is no longer part of the Ethereum protocol. The value extraction methods still exist, though, so the term "Maximal extractable value" is now used instead.
 
-[Maximal extractable value (MEV) | ethereum.org](https://ethereum.org/en/developers/docs/mev/)
-
-[Overview | Flashbots Docs](https://docs.flashbots.net/flashbots-auction/overview)
-
-[MEVconomics - YouTube](https://www.youtube.com/playlist?list=PLXzKMXK2aHh7bW0j2dhpnLNiIJIMnPgsD)
-
-[What is Flashbots? - How To Use & MEV Protection](https://milkroad.com/flashbots)
-
-[MEV Activities Since the Merge - Strategies, Searchers and Builders during Market Panic - Elaine Hu - YouTube](https://www.youtube.com/watch?v=2iseYQwd2dA&ab_channel=ETHGlobal)
-
-[Information is the New Money - Phil Daian - YouTube](https://www.youtube.com/watch?v=vi-rVTFTb6s&ab_channel=ETHGlobal)
-
-[Protocol economics the Ethereum protocol’s perspective - Vitalik Buterin - YouTube](https://www.youtube.com/watch?v=cXswTUqlZPQ&ab_channel=ETHGlobal)
-
-[Decentralizing Sequencers Wait it’s all PBS Always have been - Hasu - YouTube](https://www.youtube.com/watch?v=6xS0xMzh9Tc&ab_channel=ETHGlobal)
-
-[MEVeconomics in L2 - A Closer Look at the Sequencer's Role and MEV - Patrick McCorry - YouTube](https://www.youtube.com/watch?v=kb8nY2-Osjc&ab_channel=ETHGlobal)
-
-[MEVconomics for Modular Blockchain Stacks - John Adler - YouTube](https://www.youtube.com/watch?v=Tsg8fiQUdjY&ab_channel=ETHGlobal)
-
-[The MEVconomics of bridging - James Prestwich - YouTube](https://www.youtube.com/watch?v=W0ZJ_MamKM4&ab_channel=ETHGlobal)
-
-[What is MEV: A beginner’s guide to Ethereum’s invisible tax](https://cointelegraph.com/learn/what-is-mev-ethereums-invisible-tax)
+- [Maximal extractable value (MEV) | ethereum.org](https://ethereum.org/en/developers/docs/mev/)
+- [Overview | Flashbots Docs](https://docs.flashbots.net/flashbots-auction/overview)
+- [MEVconomics - YouTube](https://www.youtube.com/playlist?list=PLXzKMXK2aHh7bW0j2dhpnLNiIJIMnPgsD)
+- [What is Flashbots? - How To Use & MEV Protection](https://milkroad.com/flashbots)
+- [MEV Activities Since the Merge - Strategies, Searchers and Builders during Market Panic - Elaine Hu - YouTube](https://www.youtube.com/watch?v=2iseYQwd2dA&ab_channel=ETHGlobal)
+- [Information is the New Money - Phil Daian - YouTube](https://www.youtube.com/watch?v=vi-rVTFTb6s&ab_channel=ETHGlobal)
+- [Protocol economics the Ethereum protocol’s perspective - Vitalik Buterin - YouTube](https://www.youtube.com/watch?v=cXswTUqlZPQ&ab_channel=ETHGlobal)
+- [Decentralizing Sequencers Wait it’s all PBS Always have been - Hasu - YouTube](https://www.youtube.com/watch?v=6xS0xMzh9Tc&ab_channel=ETHGlobal)
+- [MEVeconomics in L2 - A Closer Look at the Sequencer's Role and MEV - Patrick McCorry - YouTube](https://www.youtube.com/watch?v=kb8nY2-Osjc&ab_channel=ETHGlobal)
+- [MEVconomics for Modular Blockchain Stacks - John Adler - YouTube](https://www.youtube.com/watch?v=Tsg8fiQUdjY&ab_channel=ETHGlobal)
+- [The MEVconomics of bridging - James Prestwich - YouTube](https://www.youtube.com/watch?v=W0ZJ_MamKM4&ab_channel=ETHGlobal)
+- [What is MEV: A beginner’s guide to Ethereum’s invisible tax](https://cointelegraph.com/learn/what-is-mev-ethereums-invisible-tax)
+- [Easy to Use Arbitrage MEV Bot for Uniswap — MEVBot](https://uniarbitrage.com/0x9ea3cda5c2adf0370454b9ee28786a068227b1a4)
 
 ### Others
 

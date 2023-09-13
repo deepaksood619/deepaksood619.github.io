@@ -165,14 +165,10 @@ Quiver - <https://medium.com/@syrusakbary/quiver-graphql-on-steroids-13612ea1ea7
 
 ## References
 
-<https://medium.freecodecamp.org/rest-apis-are-rest-in-peace-apis-long-live-graphql-d412e559d8e4>
-
-<https://www.quora.com/Is-GraphQL-a-REST-killer>
-
-<http://docs.graphene-python.org/projects/django/en/latest>
-
-<https://www.howtographql.com>
-
-<https://building.buildkite.com/tutorial-getting-started-with-graphql-queries-and-mutations-11211dfe5d64>
-
-<https://www.toptal.com/graphql/creating-your-first-graphql-api>
+- <https://medium.freecodecamp.org/rest-apis-are-rest-in-peace-apis-long-live-graphql-d412e559d8e4>
+- <https://www.quora.com/Is-GraphQL-a-REST-killer>
+- <http://docs.graphene-python.org/projects/django/en/latest>
+- <https://www.howtographql.com>
+- <https://building.buildkite.com/tutorial-getting-started-with-graphql-queries-and-mutations-11211dfe5d64>
+- <https://www.toptal.com/graphql/creating-your-first-graphql-api>
+- [GraphQL Course for Beginners - YouTube](https://www.youtube.com/watch?v=5199E50O7SI)

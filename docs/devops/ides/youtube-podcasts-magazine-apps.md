@@ -165,6 +165,7 @@
 - Kishore Mahbubani
 - Kevlin Henney
 - Nouriel robini
+- Dhruv Rathee
 
 ### Product
 
@@ -385,7 +386,7 @@ Youtube Original's Mind Field
 - 1377x.to
 - <https://1337xto.to/>
 - <https://www1.thepiratebay3.to/>
-- 1337xxx.to
+- **1337xxx.to**
 - 1337xx.to
 - <https://waytohunt.org/1337x-proxy-mirror-sites>
 - <https://1337x.unblockit.onl/home>

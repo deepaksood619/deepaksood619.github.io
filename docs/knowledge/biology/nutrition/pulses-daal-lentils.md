@@ -261,7 +261,31 @@ Cornflour is starch which gets from endosperm portion of kernel and used as bind
 
 [The pan you don't have (but should)](https://www.youtube.com/watch?v=yX4hXnyfozo)
 
-- non stick
-- stainless steel
+[I am SO done with Teflon - YouTube](https://www.youtube.com/watch?v=R1hbV3EzOD4)
+
+[4 Types of Toxic Cookware to Avoid and 4 Safe Alternatives - YouTube](https://www.youtube.com/watch?v=0uATfA_WoTA)
+
+#### Bad
+
+- non stick - Teflon
+- Aluminium cookware
+- Aluminium foil
+- Copper cookware
+- non stick - ceremic coated pans (not long lasting)
+
+#### Good
+
+- 100% ceremic cookware
+- **Stainless steel** (Food grade which doesn't contain nickel or chromium)
+  - [Avoid These Mistakes When Buying Stainless Steel Cookware (What to Look For) - YouTube](https://www.youtube.com/watch?v=zndEZkSQNAo)
+- Glass cookware
 - cast iron
-- carbon steel
+- **carbon steel**
+
+## PFAS (Forever Chemicals)
+
+[Polytetrafluoroethylene - Wikipedia](https://en.wikipedia.org/wiki/Polytetrafluoroethylene#Ecotoxicity)
+
+[PFAS: The secret toxins in your body - YouTube](https://www.youtube.com/watch?v=lVcOxZZGrBc)
+
+- PTFE / PFOA - All PFAS are carcinogenic

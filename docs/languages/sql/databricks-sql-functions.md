@@ -132,7 +132,7 @@
 - [`date_part` function](https://docs.databricks.com/en/sql/language-manual/functions/date_part.html)
 - [`date_sub` function](https://docs.databricks.com/en/sql/language-manual/functions/date_sub.html)
 - [**`date_trunc` function**](https://docs.databricks.com/en/sql/language-manual/functions/date_trunc.html)
-	- `> SELECT date_trunc('YEAR', '2015-03-05T09:32:05.359'); >>> 2015-01-01 00:00:00`
+  - `> SELECT date_trunc('YEAR', '2015-03-05T09:32:05.359'); >>> 2015-01-01 00:00:00`
 - [`dateadd` function](https://docs.databricks.com/en/sql/language-manual/functions/dateadd.html)
 - [`dateadd` (days) function](https://docs.databricks.com/en/sql/language-manual/functions/dateadd2.html)
 - [`datediff` function](https://docs.databricks.com/en/sql/language-manual/functions/datediff.html)

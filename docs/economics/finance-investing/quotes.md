@@ -59,3 +59,5 @@ Return of capital is more important than return on capital
 It's far better to buy a wonderful company at a fair price, than a fair company at a wonderful price" - Warren Buffet
 
 Being rich is having money, being wealthy is having time -- Margaret Bonnano
+
+In the short term price follows emotions. In the long term price follows value

@@ -71,6 +71,12 @@ Ethereum social consensus, _for other purposes_:
 
 [Deeper dive on cross-L2 reading for wallets and other use cases](https://vitalik.ca/general/2023/06/20/deeperdive.html)
 
+## Future Upgrades
+
+![ethereum-upgrades](../../media/Pasted%20image%2020230913230740.png)
+
+[Ethereum Upgrades | X](https://twitter.com/stacy_muur/status/1699133944803823895)
+
 ## Others
 
 [Intro to ERC 6551 - Token Bound Accounts - Jayden Windle - YouTube](https://www.youtube.com/watch?v=6WoNRbkZOaU)

@@ -34,3 +34,7 @@ And the UI will be always fast and reactive.
 ## JavaScript 3D library
 
 <https://github.com/mrdoob/three.js>
+
+## Others
+
+[GitHub - oven-sh/bun: Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one](https://github.com/oven-sh/bun)

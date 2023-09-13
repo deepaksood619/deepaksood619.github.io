@@ -97,3 +97,5 @@ Moving from information to knowledge age
 - [WARNING: ChatGPT Could Be The Start Of The End! Sam Harris - YouTube](https://www.youtube.com/watch?v=GmlrEgLGozw)
 - [Getting Started with LLMs: A Quick Guide to Resources and Opportunities](https://www.linkedin.com/pulse/getting-started-llms-guide-resources-opportunities-wendy-ran-wei/)
 - [DoctorGPT: Offline & Passes Medical Exams! - YouTube](https://www.youtube.com/watch?v=J9nJh33GM-w)
+- [The AI-Powered Tools Supercharging Your Imagination | Bilawal Sidhu | TED - YouTube](https://www.youtube.com/watch?v=eZsVDMsBTCQ)
+- [The True Cost of Compute - YouTube](https://www.youtube.com/watch?v=MNFeJNUu074)

@@ -331,7 +331,7 @@ The truth is often avoided because it is ugly and unpleasant. Never appeal to tr
 
 Everyone has a weakness, a gap in the castle wall. That weakness is usually an insecurity, an uncontrollable emotion or need; it can also be a small secret pleasure. Either way, once found, it is a thumbscrew you can turn to your advantage.
 
-How to find weaknesses:
+How to find weaknesses
 
 - Pay Attention to Gestures and Unconscious Signals:everyday conversation is a great place to look. Start by always seeming interested. Offer a revelation of your own if needed. Probe for suspected weaknesses indirectly. Train your eyes for details.
 - Find the Helpless Child:knowing about a childhood can often reveal weaknesses, or when they revert to acting like a child.
@@ -390,10 +390,10 @@ Striking imagery and grand symbolic gestures create the aura of power - everyone
 
 ## 38. Think as you like but behave like others
 
-    - **If you make a show of going against the times, flaunting your unconventional ideas and unorthodox ways, people will think that you only want attention and that you look down upon them. They will find a way to punish you for making them feel inferior. It is far safer to blend in and nurture the common touch. Share your originality only with tolerant friends and those who are sure to appreciate your uniqueness.**
-    - **Flaunting your pleasure in alien ways of thinking and acting will reveal a different motive - to demonstrate your superiority over your fellows.**
-    - **Wise and clever people learn early on that they can display conventional behavior and mouth conventional ideas without having to believe in them. The power these people gain from blending in is that of being left alone to have the thoughts they want to have, and to express them to the people they want to express them to, without suffering isolation or ostracism.**
-    - **The only time it is worth standing out is when you already stand out - when you have achieved an unshakable position of power, and can display your difference from others as a sign of the distance between you.**
+- If you make a show of going against the times, flaunting your unconventional ideas and unorthodox ways, people will think that you only want attention and that you look down upon them. They will find a way to punish you for making them feel inferior. It is far safer to blend in and nurture the common touch. Share your originality only with tolerant friends and those who are sure to appreciate your uniqueness.
+- Flaunting your pleasure in alien ways of thinking and acting will reveal a different motive - to demonstrate your superiority over your fellows.
+- Wise and clever people learn early on that they can display conventional behavior and mouth conventional ideas without having to believe in them. The power these people gain from blending in is that of being left alone to have the thoughts they want to have, and to express them to the people they want to express them to, without suffering isolation or ostracism.
+- The only time it is worth standing out is when you already stand out - when you have achieved an unshakable position of power, and can display your difference from others as a sign of the distance between you.
 
 ## 39. Stir up waters to catch fish
 

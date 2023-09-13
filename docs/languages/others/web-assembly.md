@@ -2,7 +2,7 @@
 
 <https://medium.com/javascript-scene/what-is-webassembly-the-dawn-of-a-new-era-61256ec5a8f6>
 
-## WebAssembly gives us access to a set of low level building blocksthat we can use to construct just about anything you can imagine
+WebAssembly gives us access to a set of low level building blocks that we can use to construct just about anything you can imagine
 
 WebAssembly is a new type of code that can be run in modern web browsers - it is a low-level assembly-like language with a compact binary format that runs with near-native performance and provides languages such as C/C++ with a compilation target so that they can run on the web. It is also designed to run alongside JavaScript, allowing both to work together.
 
@@ -10,3 +10,5 @@ WebAssembly is a new type of code that can be run in modern web browsers - it is
 - Much faster than JavaScript
 - Not a replacement for JS, works alongside it
 - Next level video games, tools in the browser
+
+[What Can't WebAssembly Do - YouTube](https://www.youtube.com/watch?v=LZSZ6iunoJQ)

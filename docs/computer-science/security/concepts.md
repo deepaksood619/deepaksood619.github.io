@@ -223,3 +223,9 @@ Differential privacy aims to maximize the accuracy of queries from statistical d
   - SPA / JS apps running in browsers / Mobile apps / Embedded devices
 
 <https://www.youtube.com/watch?v=5cQNwifDq1U>
+
+## pwned
+
+The word "pwned" has origins in video game culture and is a [leetspeak](https://en.wikipedia.org/wiki/Leetspeak) derivation of the word "owned", due to the proximity of the "o" and "p" keys. It's typically used to imply that someone has been controlled or compromised, for example "I was pwned in the Adobe data breach".
+
+[Have I Been Pwned: FAQs](https://haveibeenpwned.com/FAQs)

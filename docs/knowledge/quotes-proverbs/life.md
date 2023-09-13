@@ -12,6 +12,8 @@ Injustice anywhere is a threat to justice everywhere - Martin Luther King
 
 90% of everything is crap/junk -- Sturgeon's Revelation
 
+When in doubt zoom out
+
 Be Kind to Everyone!
 
 Be self controlled and alert. Your enemy the devil prowls

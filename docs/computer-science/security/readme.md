@@ -3,7 +3,7 @@
 - [Concepts](computer-science/security/concepts.md)
 - [Cryptography](cryptography/readme.md)
 - [Authentication](authentication/readme.md)
-- [Attaks](attacks)
+- [Attacks](attacks)
 - [Systems Protection](systems-protection)
 - [Vulnerabilities](vulnerabilities)
 - [Firewall WAF](firewall-waf)

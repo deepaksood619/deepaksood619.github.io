@@ -202,6 +202,10 @@ Isotropic refers to the properties of a material which is independent of the dir
 
 [Difference Between Isotropic And Anisotropic - Differences explained on BYJU’S](https://byjus.com/chemistry/difference-between-isotropic-and-anisotropic/)
 
+## Robotics
+
+- [The Fastest Maze-Solving Competition On Earth - YouTube](https://www.youtube.com/watch?v=ZMQbHMgK2rw)
+
 ## Links
 
 - [Heat Pumps: the Future of Home Heating](https://www.youtube.com/watch?v=7J52mDjZzto)

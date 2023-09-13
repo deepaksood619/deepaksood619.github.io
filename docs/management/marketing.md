@@ -308,7 +308,9 @@ I see email being used, by and large, exactly the way I envisioned. In particula
   - Do people who use feature X have a higher LTV?
   - Do users in segment Y have higher engagement with feature Z?
 
-### sexsually sugestive ads
+[Home - Blockchain Ads](https://www.blockchain-ads.com/)
+
+### Sexsually Sugestive Ads
 
 [Is Sex in Advertising Effective?](https://www.businessnewsdaily.com/2649-sex-sells-more.html)
 

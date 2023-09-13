@@ -56,3 +56,4 @@ Negotiating power in your career. Have a lot of it, and you get to call the shot
 - <https://medium.com/s/story/the-ultimate-checklist-for-anyone-considering-a-career-switch-1f0a544c5b39>
 - <https://dev.to/amruthpillai/ever-dreamed-of-a-free-and-open-source-resume-builder-that-doesn-t-store-your-data-meet-reactive-resume-1dpl>
 - <https://www.freecodecamp.org/news/alternative-career-paths>
+- [How to Succeed in Your New Job | The Way We Work, a TED series - YouTube](https://www.youtube.com/watch?v=WgR6mUSsEig)

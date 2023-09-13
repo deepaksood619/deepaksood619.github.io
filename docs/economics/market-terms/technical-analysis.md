@@ -476,3 +476,5 @@ If you don't know already, then TradingView is now available on Kite. Here is th
 ## Others
 
 [How to analyse the markets? - Part 1](https://www.youtube.com/watch?v=dMjce5P4j-Y)
+
+[How to Use Piotroski Score to Find Fundamentally Strong Long-Term Stocks | Joseph Piotroski F-Score - YouTube](https://www.youtube.com/watch?v=oFoiXgi6eNk)

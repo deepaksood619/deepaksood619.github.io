@@ -50,6 +50,24 @@ Oracles play a critical role in the DeFi ecosystem because they enable decentral
 
 **Protocols - Chainlink**
 
+### Satoshi Test
+
+A Satoshi Test is a method to verify ownership of an address belonging to a virtual asset service provider ([VASP](https://www.21analytics.ch/glossary/virtual-asset-service-provider-vasp/)) customer's self-hosted wallet ([unhosted wallet](https://www.21analytics.ch/glossary/non-custodial-self-custodial-unhosted-external-private-wallet/)).
+
+To verify the address’s ownership, a small amount of crypto assets (coins), predefined by the VASP, is sent from the wallet owner’s address to the VASP within a specific time period.
+
+If the wallet owner can successfully send the coins, it serves as proof of address ownership.
+
+The proof is considered invalid if a wallet owner does not complete the transaction in the given timeframe. It has to be redone with a new predefined amount and within a new specific time period. With successful transfers, the wallet user will be reimbursed for the transferred coins. However, the mining fees will not be returned.
+
+The amount transferred is usually around the value of USD 1. This represents a fraction of a Bitcoin, whose smallest unit is a satoshi. Hence the name Satoshi Test. However, this method can be used for most crypto assets.
+
+Depending on the VASPs jurisdiction and AML policy, a Satoshi Test only provides a proof for a limited time (e.g. 1 week) and afterwards has to be repeated, even if the wallet user's address stays the same.
+
+In some regions, a Satoshi Test is called a Penny Test or a Micro Transfer.
+
+[What is a Satoshi Test?](https://www.21analytics.ch/what-is-a-satoshi-test/)
+
 ## Products
 
 [Little to NO DeFi Gains? Find out which products and services suit you best - YouTube](https://www.youtube.com/watch?v=C2KURQ1jMQI)

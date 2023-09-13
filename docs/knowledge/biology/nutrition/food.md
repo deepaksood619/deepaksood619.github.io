@@ -204,6 +204,8 @@ Smooth, bright, seedless, conveniently wrapped; the banana is the original fast 
 
 <https://www.youtube.com/watch?v=s6TXDFp1EcM>
 
+[YouTube](https://www.youtube.com/watch?v=6CPBeNPlcNc)
+
 ## Fruits
 
 ![image](../../../media/Nutrition_Food-image4.jpg)

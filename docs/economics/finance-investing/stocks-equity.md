@@ -109,3 +109,5 @@ You can claim exemption against any long-term capital gains tax liability if you
 [8 Contrarian Investing Strategies | 31% Return from "Portfolio of Losers" | Contra Mutual Funds - YouTube](https://www.youtube.com/watch?v=EtuJa-TnSc4)
 
 [Stock Market Investing Strategies - YouTube](https://www.youtube.com/playlist?list=PLJND7T5G_LHDgNeP6OgIrwlOC0h0LNAH6)
+
+[How should Traders & Investors, trade or invest in a Bear Market? - YouTube](https://www.youtube.com/watch?v=GIIs2Pp_COY)

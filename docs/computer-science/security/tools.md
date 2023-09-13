@@ -43,6 +43,7 @@ spire-agent
 ## Workload Identity
 
 ![image](../../media/Tools-image4.jpg)
+
 <https://spiffe.io/spiffe>
 
 [Zero Trust Service Mesh with Calico, SPIRE, and Envoy - Shaun Crampton & Evan Gilman](https://www.youtube.com/watch?v=rKOEYoINdOE)
@@ -52,6 +53,7 @@ spire-agent
 ## Casbin
 
 An authorization library that supports access control models like ACL, RBAC, ABAC in Golang
+
 <https://casbin.org>
 
 <https://github.com/casbin/casbin>
@@ -83,7 +85,7 @@ Sodium is a new, easy-to-use software library for encryption, decryption, signat
 
 cert-manager builds on top of Kubernetes, introducing certificate authorities and certificates as first-class resource types in the Kubernetes API. This makes it possible to provide 'certificates as a service' to developers working within your Kubernetes cluster.
 
-## Highlights
+### Highlights
 
 - Provide easy to use tools to manage certificates.
 - A standardised API for interacting with multiple certificate authorities (CAs).
@@ -91,7 +93,7 @@ cert-manager builds on top of Kubernetes, introducing certificate authorities an
 - Support for ACME (LetsEncrypt), HashiCorp Vault, Venafi, self signed and internal certificate authorities.
 - Extensible to support custom, internal or otherwise unsupported CAs.
 
-## Concepts
+### Concepts
 
 - Issuer
 - Certificate
@@ -109,13 +111,21 @@ cert-manager builds on top of Kubernetes, introducing certificate authorities an
 
 [Use cert-manager with Let's Encrypt® Certificates Tutorial: Automatic Browser-Trusted HTTPS](https://www.youtube.com/watch?v=etC5d0vpLZE)
 
-## Letsencrypt
+## LetsEncrypt
 
 <https://letsencrypt.org/getting-started>
 
 ## certbot
 
 <https://certbot.eff.org>
+
+## zxcvbn
+
+`zxcvbn` is a password strength estimator inspired by password crackers. Through pattern matching and conservative estimation, it recognizes and weighs 30k common passwords, common names and surnames according to US census data, popular English words from Wikipedia and US television and movies, and other common patterns like dates, repeats (`aaa`), sequences (`abcd`), keyboard patterns (`qwertyuiop`), and l33t speak.
+
+[GitHub - dropbox/zxcvbn: Low-Budget Password Strength Estimation](https://github.com/dropbox/zxcvbn)
+
+[Password Strength Demo | zxcvbn-ts](https://zxcvbn-ts.github.io/zxcvbn/demo/)
 
 ## SASS
 

@@ -57,6 +57,7 @@
 - [MakerDAO | An Unbiased Global Financial System](https://makerdao.com/en/)
 - [Convex](https://www.convexfinance.com/)
 - [OpenEden](https://openeden.com/)
+- [token.com | Invest with Intent](https://www.token.com/)
 
 ## Games
 

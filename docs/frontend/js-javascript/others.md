@@ -33,3 +33,5 @@ Another application of debouncing is in content-loading webpages like Facebook a
 [How to Build a JavaScript Utility Library like Lodash](https://www.freecodecamp.org/news/how-to-create-a-javascript-utility-library-like-lodash/)
 
 [Mastering JavaScript Functions for Beginners](https://www.freecodecamp.org/news/mastering-javascript-functions-for-beginners/)
+
+[JavaScript Modules Crash Course - YouTube](https://www.youtube.com/watch?v=KeBxopnhizw)

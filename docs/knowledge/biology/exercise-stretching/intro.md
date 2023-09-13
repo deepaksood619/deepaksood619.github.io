@@ -142,3 +142,5 @@ So, just what happens when you deliberately try to stretch a muscle? Sarcomeres 
 [No.1 Heart Surgeon: Cardio Is A Waste Of Time For Weight Loss! Philip Ovadia | E240 - YouTube](https://www.youtube.com/watch?v=V7a8X8AB8yU)
 
 [Exercise Makes You Smarter - This Is Why (animated) - YouTube](https://www.youtube.com/watch?v=D4UKd1iOUeo)
+
+[Grow your brain by moving your body—just 10 minutes a day | Wendy Suzuki - YouTube](https://www.youtube.com/watch?v=vlDUW9f8wIs)

@@ -55,3 +55,4 @@ Habitat - 67 - [How a 23-Year-Old Solved Urban Sprawl - YouTube](https://www.you
 - [Why Concrete Needs Reinforcement - YouTube](https://www.youtube.com/watch?v=cZINeaDjisY)
 - [Every Construction Machine Explained in 15 Minutes - YouTube](https://www.youtube.com/watch?v=6CmX4ZmhwPM)
 - [How to Control a Crowd - YouTube](https://www.youtube.com/watch?v=C_B09FZwSbA)
+- [Rare earths crunch? Why we need them and who has them | Business Beyond - YouTube](https://www.youtube.com/watch?v=cL4YXCKrJJ4)

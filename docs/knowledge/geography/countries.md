@@ -16,13 +16,11 @@
 
 ### China
 
-[Why China is Shrinking VERY Fast - YouTube](https://www.youtube.com/watch?v=KiaukPUV6Hg)
-
-[How The British Forced Opium Into China | Epic Economics - YouTube](https://www.youtube.com/watch?v=Kkgvk0fbDws)
-
-[Why is China Building a New $8 Trillion Silk Road? | Epic Economics - YouTube](https://www.youtube.com/watch?v=KP61ScucMog)
-
-[How China Ruined Their Own Economy | Epic Economics - YouTube](https://www.youtube.com/watch?v=iW4wfXdtGZ4)
+- [Why China is Shrinking VERY Fast - YouTube](https://www.youtube.com/watch?v=KiaukPUV6Hg)
+- [How The British Forced Opium Into China | Epic Economics - YouTube](https://www.youtube.com/watch?v=Kkgvk0fbDws)
+- [Why is China Building a New $8 Trillion Silk Road? | Epic Economics - YouTube](https://www.youtube.com/watch?v=KP61ScucMog)
+- [How China Ruined Their Own Economy | Epic Economics - YouTube](https://www.youtube.com/watch?v=iW4wfXdtGZ4)
+- [China’s BIGGEST MISTAKE | Real Estate Market Crisis | Impact on Economy | Finshots TV - YouTube](https://www.youtube.com/watch?v=rD-cBwlYTVc)
 
 ### Taiwan
 

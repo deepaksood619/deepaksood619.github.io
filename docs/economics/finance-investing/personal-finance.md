@@ -19,3 +19,7 @@ Minimizing the amount you pay to the taxman and the corresponding impact it has 
 This is arguably the most important, and the most overlooked, pillar. It encapsulates a wide variety of actions ranging from financial tracking to the formation of a continuity plan (To ensure your dependants can continue in the case of your demise). Central to these is ensuring that wills are made, the right nominations have been selected/updated, and the sharing of important documents.
 
 [Personal Finance - Mutual Funds - YouTube](https://www.youtube.com/playlist?list=PLX2SHiKfualGsjgd7fKFC-JXRF6vO73hk)
+
+## Links
+
+[Robert Kiyosaki From 'Rich Dad Poor Dad' Opens Up On Money, Personal Finance & More | TRS 337 - YouTube](https://www.youtube.com/watch?v=byJgRDFdUj0)

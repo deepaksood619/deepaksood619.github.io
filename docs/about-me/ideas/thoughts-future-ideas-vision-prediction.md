@@ -32,22 +32,15 @@ What is your sample size?
 
 ## Future
 
-[news-problems](knowledge/others/news-problems.md)
-
-[MIT Has Predicted that Society Will Collapse in 2040 | Economics Explained - YouTube](https://www.youtube.com/watch?v=kVOTPAxrrP4&ab_channel=EconomicsExplained)
-[Do We Need More Or Less Children? | Economics Explained - YouTube](https://www.youtube.com/watch?v=A-PFgCM4jwM&ab_channel=EconomicsExplained)
-
-[The Economy of Tomorrow | AI Revolution | Megacities | Documentary - YouTube](https://www.youtube.com/watch?v=jR2ho31tor4)
-
-[Why More Education Is Not Always Better | Economics Explained - YouTube](https://www.youtube.com/watch?v=r5sw-6lJmTA)
-
-[Why men and boys are struggling | Richard Reeves - YouTube](https://www.youtube.com/watch?v=Xmw_1wfUmFs)
-
-[The Dead Internet Theory - YouTube](https://www.youtube.com/watch?v=9WB5grLMXkU)
-
-[Are future humans really our problem? - YouTube](https://www.youtube.com/watch?v=FQss1IH3MFA)
-
-[Engineering Breakthroughs That Will FEED The World - YouTube](https://www.youtube.com/watch?v=tQZM38N9ICo)
+- [news-problems](knowledge/others/news-problems.md)
+- [MIT Has Predicted that Society Will Collapse in 2040 | Economics Explained - YouTube](https://www.youtube.com/watch?v=kVOTPAxrrP4&ab_channel=EconomicsExplained)
+- [Do We Need More Or Less Children? | Economics Explained - YouTube](https://www.youtube.com/watch?v=A-PFgCM4jwM&ab_channel=EconomicsExplained)
+- [The Economy of Tomorrow | AI Revolution | Megacities | Documentary - YouTube](https://www.youtube.com/watch?v=jR2ho31tor4)
+- [Why More Education Is Not Always Better | Economics Explained - YouTube](https://www.youtube.com/watch?v=r5sw-6lJmTA)
+- [Why men and boys are struggling | Richard Reeves - YouTube](https://www.youtube.com/watch?v=Xmw_1wfUmFs)
+- [The Dead Internet Theory - YouTube](https://www.youtube.com/watch?v=9WB5grLMXkU)
+- [Are future humans really our problem? - YouTube](https://www.youtube.com/watch?v=FQss1IH3MFA)
+- [Engineering Breakthroughs That Will FEED The World - YouTube](https://www.youtube.com/watch?v=tQZM38N9ICo)
 
 ## Links
 

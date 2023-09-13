@@ -64,6 +64,7 @@ Liquid staking service providers solve this liquidity problem by minting a new t
 ### Links
 
 - **[Liquid staking TVL Rankings - DefiLlama](https://defillama.com/protocols/liquid%20staking/Ethereum)**
+- [Public Wallet Liquid Staking: Diving Into LSD-Fi](https://milkroad.com/invest/lsd-fi/)
 - [What Is Liquid Staking? | Chainlink](https://blog.chain.link/liquid-staking/)
 - [Best Liquid Staking Platforms For Crypto May 2023](https://milkroad.com/staking/liquid)
 - <https://www.coindesk.com/learn/crypto-staking-101-what-is-staking>
@@ -108,6 +109,7 @@ wstETH is a wrapped version of stETH. Due to the nature of Lido, the amount of s
 - [Convex](https://www.convexfinance.com/) (boost rewards by pulling LP)
 - concentrator
 - [Balancer DeFi Liquidity Pools on Ethereum Mainnet](https://app.balancer.fi/#/ethereum)
+- [How To Restake: Our Experience Restaking On EigenLayer](https://milkroad.com/invest/restaking/)
 
 ### Links
 

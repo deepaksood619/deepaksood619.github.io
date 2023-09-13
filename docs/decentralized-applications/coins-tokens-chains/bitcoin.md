@@ -35,7 +35,7 @@ Because blocks are 1 MB in size, and a block is created every 10 minutes, assumi
 
 <https://towardsdatascience.com/the-blockchain-scalability-problem-the-race-for-visa-like-transaction-speed-5cce48f9d44>
 
-## Bitcoin Lightning Network
+### Bitcoin Lightning Network
 
 Lightning Network is a second-layer network that transmits signed, but unbroadcast, transactions among peers and relies on the Bitcoin blockchain only for final settlement of funds.
 
@@ -53,7 +53,7 @@ The Bitcoin Lightning Network is another project being worked on as a second-lay
 
 The Lightning Network uses a network of nodes that hold funds in multi-sig wallets ("channels") and exchange signed, but unbroadcast, transactions.
 
-## Is a greener, faster and more decentralised alternative to Bitcoin possible?
+### Is a greener, faster and more decentralised alternative to Bitcoin possible?
 
 This piece is a counter of sorts to this week's Long Read 3 about how tech is taking over geopolitics, at the core of whose argument lies smart contracts (self-executing rules, not enforced by an intermediary or an authority) that run on blockchains (decentralised or distributed databases). The most popular application of this concept so far has been cryptocurrencies. This article argues that even cryptocurrencies including the popular Bitcoin has flaws which threaten not only its own sustainability but the larger extension to other spheres of life, let alone replacement of nation states.
 
@@ -73,7 +73,7 @@ To others, a degree of centralisation may simply be a price to pay for the other
 
 <https://www.economist.com/finance-and-economics/2022/01/01/is-a-greener-faster-and-more-decentralised-alternative-to-bitcoin-possible>
 
-## Is bitcoin deflationary
+### Is bitcoin deflationary
 
 Yes, Bitcoin is deflationary.
 
@@ -128,6 +128,8 @@ SegWit is an upgrade to the Bitcoin network that helps reduce the size of bitcoi
 
 [SegWit - Wikipedia](https://en.wikipedia.org/wiki/SegWit)
 
+[What is Segwit? Segregated Witness Explained Simply - YouTube](https://www.youtube.com/watch?v=f3CFUbeehc8)
+
 ## Forks
 
 ### Bitcoin Cash ($BCH)
@@ -146,6 +148,10 @@ POX - Proof of Transfer
 
 [Stacks (STX): Most PROMISING Bitcoin Layer 2?? - YouTube](https://www.youtube.com/watch?v=kwRJK6QQzso)
 
+## Tools
+
+- [mempool - Bitcoin Explorer](https://mempool.space/)
+
 ## Links
 
 - [Bitcoin price today, BTC to USD live, marketcap and chart | CoinMarketCap](https://coinmarketcap.com/currencies/bitcoin/)
@@ -156,3 +162,4 @@ POX - Proof of Transfer
 - [Will BITCOIN Collapse At The 21 Million Limit?? 😰 - YouTube](https://www.youtube.com/watch?v=rnKdpf-P1TI)
 - [The Crypto Catch-22: Why Bitcoin Only - by Jesse Myers](https://www.onceinaspecies.com/p/the-crypto-catch-22-why-bitcoin-only)
 - [Why #Bitcoin is a Ponzi Scheme, why most Altcoins aren’t and how we can fix it! | by Julian Hosp | Aug, 2023 | Medium](https://julianhosp.medium.com/why-bitcoin-is-a-ponzi-scheme-why-most-altcoins-arent-and-how-we-can-fix-it-e85847088a58)
+- [Bitcoin Fees and Unconfirmed Transactions - Complete Beginner's Guide - YouTube](https://www.youtube.com/watch?v=waP7n8crMhg)

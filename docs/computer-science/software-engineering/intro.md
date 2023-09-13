@@ -124,3 +124,6 @@ How to estimate
 - [Calling Functions Across Languages • Richard Feldman • GOTO 2023 - YouTube](https://www.youtube.com/watch?v=ZOvxa9aKCCg)
 - [Gamification, Sys. Thinking & the Power of Observability • Jessica Kerr & Jessica Cregg • GOTO 2023 - YouTube](https://www.youtube.com/watch?v=WKx9E3DRqXc)
 - [The Importance of Fun in the Workplace • Holly Cummins • YOW! 2022 - YouTube](https://www.youtube.com/watch?v=trsDnGh-x4U)
+- [Processing Data From The James Webb Space Telescope • John Davies • GOTO 2023 - YouTube](https://www.youtube.com/watch?v=rknJsrQiheo)
+- [Technical Stories Don't Work • Dave Farley • GOTO 2023 - YouTube](https://www.youtube.com/watch?v=4drvdaZcd0Y)
+- [Epiphany & Apophany • Liz Keogh • YOW! 2022 - YouTube](https://www.youtube.com/watch?v=zvwlc4lNYOY)

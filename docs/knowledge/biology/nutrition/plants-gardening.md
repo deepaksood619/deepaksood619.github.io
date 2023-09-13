@@ -3,11 +3,8 @@
 Aloe vera, English ivy air purifying plants
 
 1. ZZ Plant
-
 2. Rubber plant
-
 3. Fiddle leaf fig
-
 4. Areca palm
 
 [Areca Palm Complete Care Tips | How to Save Areca Palm Leaves | How to water Areca Palm](https://www.youtube.com/watch?v=QPuoVzjkNpc)
@@ -30,3 +27,7 @@ Aloe vera, English ivy air purifying plants
 - Monstera deliciosa
 - Pancake plant (Pilea peperomioides)
 - ZZ plant (Zamioculcas zamiifolia)
+
+## Links
+
+[A Plant-Care & Self-Care Guide for the Modern Houseplant Parent | Kamili Bell Hill | Talks at Google - YouTube](https://www.youtube.com/watch?v=_JiWL16gfN8)

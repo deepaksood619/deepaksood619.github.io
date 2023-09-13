@@ -4,30 +4,32 @@ Sleep is a question of ease. If you are totally at ease, your sleep quality will
 
 If you can transition from wakefulness to sleep consciously, you will also be able to transition from life to death consciously.
 
-1. Comfortable modern sleep is an unnatural superstimulus. Sleepiness, just like hunger, is normal
+### Comfortable modern sleep is an unnatural superstimulus. Sleepiness, just like hunger, is normal
 
-    The default argument for sleeping 7-9 hours a night is that this is the amount of sleep most of us get "naturally" when we sleep without using alarms. In this section, I argue against this line of reasoning, using the following analogy:
+The default argument for sleeping 7-9 hours a night is that this is the amount of sleep most of us get "naturally" when we sleep without using alarms. In this section, I argue against this line of reasoning, using the following analogy:
 
-    - Experiencing hunger is normal and does not necessarily imply that you are not eating enough. Never being hungry means you are probably eating too much.
-    - Experiencing sleepiness is normal and does not necessarily imply that you are undersleeping. Never being sleepy means you are probably sleeping too much.
-    - If you sleep as much as you want, you'll probably sleep too much and become more susceptible to depression.
-      - And if you sleep way too much at once, you'll be feeling terrible afterwards, however pleasant the sleep was.
+- Experiencing hunger is normal and does not necessarily imply that you are not eating enough. Never being hungry means you are probably eating too much.
+- Experiencing sleepiness is normal and does not necessarily imply that you are undersleeping. Never being sleepy means you are probably sleeping too much.
+- If you sleep as much as you want, you'll probably sleep too much and become more susceptible to depression.
+- And if you sleep way too much at once, you'll be feeling terrible afterwards, however pleasant the sleep was.
 
-2. Depression -> oversleeping. Mania -> acute sleep deprivation
-3. Occasional acute sleep deprivation is good for health and promotes more efficient sleep
+### Depression -> oversleeping. Mania -> acute sleep deprivation
 
-    1. Acute sleep deprivation combined with caffeine or some other stimulant that cancels out sleep pressure does not result in decreased cognitive ability at least until 30-40 hours of wakefulness (if this is true, then *sleepiness*, rather *absence of sleep* per se is responsible for decreased cognitive performance during acute sleep deprivation).
-    2. Occasional acute sleep deprivation has no impact on long-term cognitive ability or health.
-    3. Sleep *does* become more efficient over time and, in complete analogy to exercise, you withstand both acute sleep deprivation better and can function at baseline with a lower amount of sleep in the long-term.
+### Occasional acute sleep deprivation is good for health and promotes more efficient sleep
 
-4. Our priors about sleep research should be weak
-5. Decreasing sleep by 1-2 hours a night in the long-term has no negative health effects
+1. Acute sleep deprivation combined with caffeine or some other stimulant that cancels out sleep pressure does not result in decreased cognitive ability at least until 30-40 hours of wakefulness (if this is true, then *sleepiness*, rather *absence of sleep* per se is responsible for decreased cognitive performance during acute sleep deprivation).
+2. Occasional acute sleep deprivation has no impact on long-term cognitive ability or health.
+3. Sleep *does* become more efficient over time and, in complete analogy to exercise, you withstand both acute sleep deprivation better and can function at baseline with a lower amount of sleep in the long-term.
 
-    1. A sleep researcher who trains sailors to sleep efficiently in order to maximize their race performance believes that 4.5-5.5 hours of sleep is fine.
-    2. 70% of 84 hunter-gatherers studied in 2013 slept less than 7 hours per day, with 46% sleeping less than 6 hours.
-    3. A single-point mutation can decrease the amount of required sleep by 2 hours, with no negative side-effects.
-    4. A brain surgery can decrease the amount of sleep required by 3 hours, with no negative-side effects.
-    5. Sleep is not required for memory consolidation.
+### Our priors about sleep research should be weak
+
+### Decreasing sleep by 1-2 hours a night in the long-term has no negative health effects
+
+1. A sleep researcher who trains sailors to sleep efficiently in order to maximize their race performance believes that 4.5-5.5 hours of sleep is fine.
+2. 70% of 84 hunter-gatherers studied in 2013 slept less than 7 hours per day, with 46% sleeping less than 6 hours.
+3. A single-point mutation can decrease the amount of required sleep by 2 hours, with no negative side-effects.
+4. A brain surgery can decrease the amount of sleep required by 3 hours, with no negative-side effects.
+5. Sleep is not required for memory consolidation.
 
 <https://guzey.com/theses-on-sleep>
 
@@ -72,6 +74,12 @@ Polyphasic sleep is the practice of sleeping in numerous smaller blocks during t
   - Receive sunlight
   - Wake up to morning sunlight and not to alarm
 
+## Early Bird and Night Owl
+
+I'm not an early bird or a night own. I'm some form of permanently exhausted pigeon. -- Gemma Correll
+
 ## Links
 
 [Brain](psychology/brain.md)
+
+[Can you change your sleep schedule? - YouTube](https://www.youtube.com/watch?v=Amkg1cdDCpM)
