@@ -127,6 +127,8 @@ As we can see, in TSS the private key (which represents the security of the syst
 
 ### Tools
 
+[BIP39](decentralized-applications/coins-tokens-chains/bip39.md)
+
 [Bitcoin financial services - Unchained](https://unchained.com/)
 
 [Caravan - Bitcoin Multisig](https://unchained-capital.github.io/caravan/#/)

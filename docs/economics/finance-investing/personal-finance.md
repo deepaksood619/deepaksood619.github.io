@@ -23,3 +23,5 @@ This is arguably the most important, and the most overlooked, pillar. It encapsu
 ## Links
 
 [Robert Kiyosaki From 'Rich Dad Poor Dad' Opens Up On Money, Personal Finance & More | TRS 337 - YouTube](https://www.youtube.com/watch?v=byJgRDFdUj0)
+
+[The Psychology of Money : The Real Reasons You're Not Rich Yet - YouTube](https://www.youtube.com/watch?v=_5ecgEXLoCA)

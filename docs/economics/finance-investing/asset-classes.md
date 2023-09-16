@@ -177,6 +177,8 @@ Finance for Everyone
 - Negative correlation between equity and gold
 - 50% equity + 50% bond perform the best, lower beta (volatility) and same alpha (excess returns)
 
+[How to earn higher returns from sovereign gold bonds | Sovereign gold bonds on stock exchanges - YouTube](https://www.youtube.com/watch?v=t2xVVmjzzZA)
+
 ## National Pension Scheme (NPS)
 
 [How Much Monthly Pension Does NPS Give? | ET Money](https://youtu.be/908WbEQRG04)

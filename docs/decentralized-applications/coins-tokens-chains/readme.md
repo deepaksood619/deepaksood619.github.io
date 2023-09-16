@@ -3,6 +3,7 @@
 - [Coin Token Intro](decentralized-applications/coins-tokens-chains/coin-token-intro.md)
 - [Dual Token Economy](decentralized-applications/coins-tokens-chains/dual-token-economy.md)
 - [Wallets](decentralized-applications/coins-tokens-chains/wallets.md)
+- [bip39](decentralized-applications/coins-tokens-chains/bip39.md)
 - [bitcoin](decentralized-applications/coins-tokens-chains/bitcoin.md)
 - [Ordinals](decentralized-applications/coins-tokens-chains/ordinals.md)
 - [BNB](decentralized-applications/coins-tokens-chains/bnb.md)

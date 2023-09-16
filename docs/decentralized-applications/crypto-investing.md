@@ -77,7 +77,7 @@
 - [Pay bills with crypto - Spritz Finance](https://www.spritz.finance/)
 - [Find merchants who accept cryptocurrencies | Bitcoin.com](https://www.bitcoin.com/find-crypto-merchants/)
 
-## Terms
+## Terms / Security
 
 ### Getting Rekt (Wrecked)
 
@@ -94,6 +94,13 @@
 - [Token Sniffer](https://tokensniffer.com/)
 
 ### Others
+
+- Token impersonation
+- Pig butchering
+- Gas minting
+- Sleep minting
+- Hard and soft rug Pulls
+- NFT wash trading
 
 **Wash trading** is when fake trades are made to boost different statistics or drive FOMO
 

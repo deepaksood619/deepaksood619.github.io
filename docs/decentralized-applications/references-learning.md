@@ -59,6 +59,7 @@
 
 - What if all bitcoins are lost i.e. everyone forgets the 12 word passphrase
 - What will happen to bitcoin that is lost in someone's wallet
+- If I know someone's public address and knows it contain bitcoins, can't I do dictionary attack to get the private keys? - [All bitcoin private keys](https://lbc.cryptoguru.org/dio/1)
 - [Home | PancakeSwap](https://pancakeswap.finance/)
 - [https://coinswitch.co/blog/](https://coinswitch.co/blog/)
 - [CoinSwitch](https://www.youtube.com/channel/UCcut1207KRCj6McKa9AHA2g)

@@ -385,6 +385,7 @@ Youtube Original's Mind Field
 - <https://www.1377x.to>
 - 1377x.to
 - <https://1337xto.to/>
+- [1337x | Free Movies, TV Series, Music, Games and Software](https://www.1337x.tw/)
 - <https://www1.thepiratebay3.to/>
 - **1337xxx.to**
 - 1337xx.to

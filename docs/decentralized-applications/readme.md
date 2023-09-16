@@ -8,7 +8,6 @@
 - [Coins / Tokens / Chains](decentralized-applications/coins-tokens-chains/readme.md)
 - [Tokenomics](decentralized-applications/tokenomics.md)
 - [On-Chain Analytics](decentralized-applications/on-chain-analytics.md)
-- [bip39](bip39)
 - [DeFi](defi)
 - [Defi Apps](decentralized-applications/defi-apps.md)
 - [Crypto Exchanges](decentralized-applications/crypto-exchanges.md)

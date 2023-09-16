@@ -212,4 +212,4 @@ For this test to work, though, you have to be honest with yourself. Indeed, that
 
 [How to FOCUS for 16 hours a day! - YouTube](https://www.youtube.com/watch?v=EePH5kYNmvc)
 
-[YouTube](https://www.youtube.com/watch?v=WtLIJwObk2M)
+[Nir Eyal | Indistractable: How to Control Your Attention and Choose Your Life | Talks at Google - YouTube](https://www.youtube.com/watch?v=WtLIJwObk2M)

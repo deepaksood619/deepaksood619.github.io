@@ -427,17 +427,17 @@ Completing the circle, what follows the selloff phase is a fresh round of accumu
 
 ### Dow Patterns
 
-1. The Double bottom & Double top formation
+#### The Double bottom & Double top formation
 
 A double top & double bottom is considered a reversal pattern.
 
 Imagine a situation where in the double top formation, the 2nd top forms a bearish pattern such as shooting star. This means, both from the Dow Theory and candlestick perspective there is consensus to sell; hence the conviction to take the trade is higher.
 
-2. The Triple Bottom & Triple Top
+#### Others
 
-3. Range formation
-
-4. Flag formation
+1. The Triple Bottom & Triple Top
+2. Range formation
+3. Flag formation
 
 ### Summary
 

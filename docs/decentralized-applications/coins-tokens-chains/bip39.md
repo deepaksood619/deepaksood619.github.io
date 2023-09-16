@@ -102,7 +102,7 @@ Whether a wallet supports a certain derivation path should be well documented or
 
 If another wallet does not support a derivation path that your original wallet supported, that doesn't mean your coins are lost. It simply means you're unable to access them (because it doesn't know how to find them!).
 
-See a more in-depth explanation of derivation paths here: [What is a Derivation Path](https://www.blockplate.com/blogs/blockplate/what-is-a-derivation-path "what is a derivation path")
+[What is a Derivation Path](https://www.blockplate.com/blogs/blockplate/what-is-a-derivation-path "what is a derivation path")
 
 ### Coin Support
 
@@ -124,6 +124,15 @@ There are other standards such as:
 
 For these unique standards, they can only be recovered on wallets that support that standard. If your wallet does not "understand" how your seed phrase created, it will not understand how to recover it either.
 
+Using an extended public key, you can generate billions of fresh receiving addresses ( 4,294,967,296 to be exact). This maintains your privacy, security and sanity (as there's only ever going to be one private key that can access the funds connected to those addresses.)
 ## Links
 
 [BIP39 Wallet List - Mnemonic Seed Phrase (Updated 2023)](https://www.blockplate.com/blogs/blockplate/list-of-bip39-wallets-mnemonic-seed)
+
+[How To Get Your Trust Wallet Private Key (And Export) - IsItCrypto](https://isitcrypto.com/get-trust-wallet-private-key/)
+
+[GitHub - iancoleman/bip39: A web tool for converting BIP39 mnemonic codes](https://github.com/iancoleman/bip39)
+
+[All bitcoin private keys](https://lbc.cryptoguru.org/dio/1)
+
+[User Guide: Secret Recovery Phrase, password, and private keys – MetaMask](https://support.metamask.io/hc/en-us/articles/4404722782107-User-Guide-Secret-Recovery-Phrase-password-and-private-keys)

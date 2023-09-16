@@ -18,6 +18,8 @@ IAEA - International Atomic Energy Agency
 
 [The Uncertain Future of Nuclear Power - YouTube](https://www.youtube.com/watch?v=INl3pCXm6Tw)
 
+[All The Times We Nearly Blew Up The World - YouTube](https://www.youtube.com/watch?v=ILgSesWMUEI)
+
 ### Others
 
 [Why Oppenheimer Deserves His Own Movie - YouTube](https://www.youtube.com/watch?v=Xzv84ZdtlE0)
@@ -44,3 +46,5 @@ IAEA - International Atomic Energy Agency
 [“It’s Always About Oil”: CIA & MI6 Staged Coup in Iran 70 Years Ago, Destroying Democracy in Iran - YouTube](https://www.youtube.com/watch?v=7coh9-MpFJo)
 
 [How is India CHALLENGING the Arab Countries in the Global Fuel War? : Geopolitical Case Study - YouTube](https://www.youtube.com/watch?v=sr7BIdpcG10)
+
+[Why CO2 Heat Pumps Are The Future Of Cooling - YouTube](https://www.youtube.com/watch?v=npqzHpeIvhM)

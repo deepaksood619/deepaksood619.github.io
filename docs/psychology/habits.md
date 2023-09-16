@@ -259,6 +259,14 @@ Habits are an important tool, but they're just a tool. Like a hammer or a saw, t
 
 ![image](../media/Habits-image4.jpg)
 
+[5 Habits Keeping you STUCK & 5 Ways to Get UNSTUCK | Shadé Zahrai](https://www.youtube.com/watch?v=v9GDpSL9W5E)
+
+- Infomaniac
+- The knowing doing gap
+- Achievement addict
+- Endlessly multitask
+- Dopamine addiction feedback loop
+
 ## Links
 
 - [13 Things Mentally Strong People Don't Do](../book-summaries/13-things-mentally-strong-people-dont-do)
