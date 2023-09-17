@@ -1,45 +1,53 @@
 # Couple Activities
 
-1. Activities
-    - Dancing
-    - Photography/Editing
-    - Gym & Sports - Running/Badminton/Swimming/Yoga/Meditation/Cycling/Charity
-    - Drama
-2. Learning
-    - Language
-    - Art & Craft - Painting/Music/Dancing/Board games/DIY projects/Puzzle
-    - Origami
-    - Caligraphy
-    - Drawing / Painting
-    - Khan academy
-    - Online tests
-    - Daily Crossword
-      - [Crash Course Crossword](https://crosswordlabs.com/view/crash-course-crossword)
-      - [Play Free Online Daily Crossword Puzzle Games - NDTV](https://www.ndtv.com/crossword)
-    - word-scramble
-    - Video game nights (Sudoku)
-    - Hackathon
-    - Competitive programming
-    - Leadership speaking
-    - Debate competition
-    - Spelling bee
-3. Fun
-    - Jigsaw puzzle
-    - Jenga
-    - Chess
-    - Crossword
-    - UNO
-    - Word Search
-    - Quiz
-      - Superlatives of the world quizzes
-      - Trivia
-      - Quiz
-      - Geography quiz
-4. Music
-5. Dead
-    - Movies
-    - Serials
-    - Video games
+### Activities
+
+- Dancing
+- Photography/Editing
+- Gym & Sports - Running/Badminton/Swimming/Yoga/Meditation/Cycling/Charity
+- Drama
+
+### Learning
+
+- Language
+- Art & Craft - Painting/Music/Dancing/Board games/DIY projects/Puzzle
+- Origami
+- Caligraphy
+- Drawing / Painting
+- Khan academy
+- Online tests
+- Daily Crossword
+  - [Crash Course Crossword](https://crosswordlabs.com/view/crash-course-crossword)
+  - [Play Free Online Daily Crossword Puzzle Games - NDTV](https://www.ndtv.com/crossword)
+- word-scramble
+- Video game nights (Sudoku)
+- Hackathon
+- Competitive programming
+- Leadership speaking
+- Debate competition
+- Spelling bee
+
+### Fun
+
+- Jigsaw puzzle
+- Jenga
+- Chess
+- Crossword
+- UNO
+- Word Search
+- Quiz
+  - Superlatives of the world quizzes
+  - Trivia
+  - Quiz
+  - Geography quiz
+
+### Music / Karoake
+
+### Dead
+
+- Movies
+- Serials
+- Video games
 
 ### One time / Outside
 

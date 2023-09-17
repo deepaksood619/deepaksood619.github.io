@@ -13,3 +13,7 @@ EMNIST Dataset - handwritten character digits
 ## ARC Corpus - AI2 Reasoning Challenge (ARC)
 
 The ARC Corpus contains 14M unordered, science-related sentences including knowledge relevant to ARC, and is provided to as a starting point for addressing the challenge. The Corpus contains sentences from: science-related documents downloaded from the Web; dictionary definitions from Wiktionary, and articles from Simple Wikipedia that were tagged as science.
+
+## LLM Datasets
+
+[WikiText-103 Dataset | Papers With Code](https://paperswithcode.com/dataset/wikitext-103)

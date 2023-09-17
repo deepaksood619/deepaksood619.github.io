@@ -4,7 +4,7 @@
 
 <https://www.learn-sudoku.com/advanced-techniques.html>
 
-**Basic Techniques**
+## Basic Techniques
 
 1. Open Singles
 
