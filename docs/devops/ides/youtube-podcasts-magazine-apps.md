@@ -382,6 +382,7 @@ Youtube Original's Mind Field
 ### Torrents
 
 - [GitHub - iptv-org/iptv: Collection of publicly available IPTV channels from all over the world](https://github.com/iptv-org/iptv)
+- <https://pirate-proxy.top/>
 - <https://www.1377x.to>
 - 1377x.to
 - <https://1337xto.to/>

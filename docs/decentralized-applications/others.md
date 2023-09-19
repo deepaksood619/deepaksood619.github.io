@@ -92,6 +92,8 @@ XRootD software framework is a fully generic suite for fast, low latency and sca
 - [Mirror](https://mirror.xyz/)
 - [GitHub - district0x/ethlance: Ethlance is the first job market platform built entirely on the Ethereum blockchain. Free to use forever!](https://github.com/district0x/ethlance)
 - [Snyper - The first Web3 Social Marketplace](https://snyper.notion.site/Snyper-Angel-Memo-V1-3-73117de4d4cf44b7bcc6208b5e915cc0)
+- [Link3.to | A Web3 Social Network of Verifiable Identities](https://link3.to/)
+- [CyberConnect | Web3's Earliest & Biggest Decentralized Social Network](https://cyberconnect.me/)
 
 ### Decentralized database
 

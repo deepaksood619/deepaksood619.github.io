@@ -120,4 +120,5 @@
 - [The TOP Countries With ZERO CRYPTO TAXES - YouTube](https://www.youtube.com/watch?v=tdlmv4iHFb4&ab_channel=MoneyRules-InvestingTips)
 - [How To Time The Market (And GET RICH!) - YouTube](https://www.youtube.com/watch?v=iXn2GyPHQB0)
 - [Earn Crypto Passive Income: TOP METHODS Revealed!! 💸 - YouTube](https://www.youtube.com/watch?v=Sqo0pOd4dnI)
-- [How to get Free Crypto without getting SCAMMED - 13 Real Methods - YouTube](https://www.youtube.com/watch?v=UuyS7YAkECA)
+- [How to get Free Crypto without getting SCAMMED - 13 Methods - YouTube](https://www.youtube.com/watch?v=UuyS7YAkECA)
+- [What I Learned Managing Arca's Crypto Fund for Five years](https://www.coindesk.com/consensus-magazine/2023/09/18/what-i-learned-managing-a-crypto-fund-for-five-years/)

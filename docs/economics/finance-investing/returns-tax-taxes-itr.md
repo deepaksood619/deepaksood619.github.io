@@ -88,6 +88,8 @@ A tax rate of 20% is levied on long-term capital gains above 36 months after ind
 
 Indexation is a technique to adjust income payments by means of a price index, in order to maintain the purchasing power of the public after inflation, while de-indexation is the unwinding of indexation.
 
+[Cost Inflation Index For FY 2023-24, Index Table, Meaning, Calculation](https://cleartax.in/s/cost-inflation-index)
+
 <https://cleartax.in/s/indexation-helps-reduce-tax-debt-fund-gains>
 
 <https://groww.in/blog/indexation-in-mutual-funds-meaningbenefits-and-more>
