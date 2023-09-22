@@ -8,6 +8,7 @@
 - <https://www.browserstack.com>
 - <https://www.sitespeed.io>
 - <https://estimator.dev>
+- [Free web performance analyser tool for images - Website Analyzer | ImageKit.io](https://imagekit.io/website-analyzer)
 
 ## Bash - add artificial load to the CPU
 

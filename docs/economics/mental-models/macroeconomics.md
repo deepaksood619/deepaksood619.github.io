@@ -20,10 +20,10 @@ The relationship between money and prices has historically been associated with 
 
 The [Reserve Bank of India](https://en.wikipedia.org/wiki/Reserve_Bank_of_India) defines the monetary aggregates as:
 
-- **Reserve money(M0):** Currency in circulation, plus bankers' deposits with the RBI and 'other' deposits with the RBI. Calculated from net RBI credit to the government plus RBI credit to the commercial sector, plus RBI's claims on banks and net foreign assets plus the government's currency liabilities to the public, less the RBI's net non-monetary liabilities. M0 outstanding was₹30.297 trillion as on March 31, 2020.
+- **Reserve money(M0):** Currency in circulation, plus bankers' deposits with the RBI and 'other' deposits with the RBI. Calculated from net RBI credit to the government plus RBI credit to the commercial sector, plus RBI's claims on banks and net foreign assets plus the government's currency liabilities to the public, less the RBI's net non-monetary liabilities. M0 outstanding was ₹30.297 trillion as on March 31, 2020.
 - **M1:** Currency with the public plus deposit money of the public (demand deposits with the banking system and 'other' deposits with the RBI). M1 was 184 per cent of M0 in August 2017.
 - **M2:** M1 plus savings deposits with post office savings banks. M2 was 879 per cent of M0 in August 2017.
-- **M3(the broad concept of money supply):** M1 plus time deposits with the banking system, made up of net bank credit to the government plus bank credit to the commercial sector, plus the net foreign exchange assets of the banking sector and the government's currency liabilities to the public, less the net non-monetary liabilities of the banking sector (other than time deposits). M3 was 555 per cent of M0 as on March 31, 2020(i.e.₹167.99 trillion.)
+- **M3 (the broad concept of money supply):** M1 plus time deposits with the banking system, made up of net bank credit to the government plus bank credit to the commercial sector, plus the net foreign exchange assets of the banking sector and the government's currency liabilities to the public, less the net non-monetary liabilities of the banking sector (other than time deposits). M3 was 555 per cent of M0 as on March 31, 2020(i.e.₹167.99 trillion.)
 - **M4:** M3 plus all deposits with post office savings banks (excluding [National Savings Certificates](https://en.wikipedia.org/wiki/National_Savings_Certificates_(India))).
 
 ## New Monetary Aggregates

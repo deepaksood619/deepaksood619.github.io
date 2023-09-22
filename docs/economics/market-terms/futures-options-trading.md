@@ -9,6 +9,14 @@ Buy the rumor, sell the news
 - Nifty lot size - 75
 - Bank Nifty lot size - 25
 
+### Swing Trading
+
+- Technical swing
+- Sector swing
+- Segment swing
+- Macro swing
+- Business (Value migration) swing
+
 ## Shorting / Short
 
 [How Short Sellers Make BIG Money in the Stock Markets | Short Selling Explained - YouTube](https://www.youtube.com/watch?v=rSXZVcl21eY)

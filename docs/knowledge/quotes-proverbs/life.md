@@ -1039,3 +1039,7 @@ Comparison is the thief of joy
 First step is being informed, second step to inform others who are willing to listen..
 
 Don't be scared be prepared
+
+Humans have opened gates to the hell
+
+God has given us 2 ears and 1 mouth, so you must use those in proportion i.e. 2/3rd listen 1/3 talk

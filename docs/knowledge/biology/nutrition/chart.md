@@ -1,5 +1,7 @@
 # Chart
 
+Sodium is a necessary mineral. But health organizations typically recommend that healthy adults limit sodium intake to less than 2,300 mg (about **one teaspoon** of salt) per day to prevent conditions like high blood pressure.
+
 ## Vitamins and minerals
 
 | **Nutrient** | **EAR** | **Highest RDA/AI** | **UL** | **Unit** | **Top common sources, 100 grams, U.S. Department of Agriculture (USDA)** |

@@ -57,20 +57,14 @@ Recommended Calorie intake - 2800
 15. Kale - Karam Saag
 16. Blueberries
 17. Oats (carbs, fiber, beta-glucan)
-18. Chocolate
-
-    - cocoa (high-flavanol cocoa drink twic a day) (boost ability to repair and regenerate)
-
+18. Chocolate - cocoa (high-flavanol cocoa drink twic a day) (boost ability to repair and regenerate)
 19. **Sweet Potatos**
 20. Spinach
 21. Flexseeds, chia seeds, pumpkin seeds (rich in omega-3, decrease fatigue)
 22. Turmeric
 23. **Extra virgin Olive oil**
 24. Coconut water
-25. Soy Foods (boosts cancer-fighting defence system, 10 grams of soy protein daily)
-
-    - contain genistein, a potent cancer-fighting substance that suppresses the blood vessels that feed nutrients to tumors.
-
+25. Soy Foods (boosts cancer-fighting defence system, 10 grams of soy protein daily) - contain genistein, a potent cancer-fighting substance that suppresses the blood vessels that feed nutrients to tumors.
 26. **Pomegranate/Juice (keep anemia away, rich in iron)**
 27. Parmigiano-Reggiano cheese
 28. White button Mushroom
@@ -202,9 +196,9 @@ Smooth, bright, seedless, conveniently wrapped; the banana is the original fast 
 - **Soy Milk (best for planet)**
 - **Oat Milk (best for planet)**
 
-<https://www.youtube.com/watch?v=s6TXDFp1EcM>
+[Which type of milk is best for you? - Jonathan J. O’Sullivan & Grace E. Cunningham - YouTube](https://www.youtube.com/watch?v=s6TXDFp1EcM)
 
-[YouTube](https://www.youtube.com/watch?v=6CPBeNPlcNc)
+[The truth about milk: According to science | Prof. Tim Spector and Dr Sarah Berry - YouTube](https://www.youtube.com/watch?v=6CPBeNPlcNc)
 
 ## Fruits
 

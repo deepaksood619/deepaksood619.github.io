@@ -184,6 +184,14 @@ Layering - Tumblr / Mixers
 
 [Protect bitcoin privacy](https://bitcoinmagazine.com/culture/how-i-protect-my-bitcoin-privacy)
 
+[GitHub - ameensol/privacy-pools: Privacy 2.0 for Ethereum](https://github.com/ameensol/privacy-pools)
+
+## Blockspace
+
+[GitHub - 0xperp/awesome-blockspace: Overview of Blockspace its demand, pricing, and trading](https://github.com/0xperp/awesome-blockspace)
+
+[Ramblings on Blockspace — Nate](https://mirror.xyz/0x0C23E0dE114d28112f52203cb9583B9826b05dDe/UG0YC5cmw1Ib2DiOivp22suh6gZJyMqVoR3mhu8M2b8)
+
 ## Links
 
 - [Blockchain 102 and The Dark Side of Blockchain](https://www.youtube.com/watch?v=-so3AtnToek)

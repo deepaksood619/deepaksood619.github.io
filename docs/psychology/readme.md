@@ -28,4 +28,5 @@
 - [Course - Mindshift](course-mindshift)
 - [Productivity / Productive / Time Management / TODO](productivity-productive-time-management-todo)
 - [Consumerism](psychology/consumerism.md)
+- [Defence Mechanisms](psychology/defence-mechanisms.md)
 - [Others](psychology/others.md)

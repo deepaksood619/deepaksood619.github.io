@@ -1,6 +1,8 @@
 # Education
 
-**Education for all (KhanAcademy does it all, contribute to it)**
+Education's purpose is to replace an empty mind with an open one.
+
+### Education for all (KhanAcademy does it all, contribute to it)
 
 - Cultfit type you can attend from any city
 - You can attend classes from home too
@@ -16,7 +18,7 @@
 
 **DigiProctor** with a 360 degree camera with all AI
 
-**Free Education with Boarding (Coaching)**
+### Free Education with Boarding (Coaching)
 
 - Job Guarantee and skill focused
 - 24 hour schedule
@@ -26,7 +28,7 @@
 - Digital + AI Based personalized coaching
 - Top class employable persons
 
-**Education Mobile phones**
+### Education Mobile phones
 
 - Give mobile phones / laptop to children, with all reports of usage gone back to teachers
 - Highly controlled
@@ -44,7 +46,7 @@
 - Study 1 hour to get 1 hour internet free
 - Healty competition between community (points and leaderboards)
 
-**Global Education**
+### Global Education
 
 Free Open Source Education for all fields and all classes from nursery to college - same over all the world. Central database, updated constantly and regularly to create global best education.
 

@@ -58,51 +58,32 @@ On May 7, the price of the then-$18-billion algorithmic stablecoin terraUSD (UST
 
 ### CBDC
 
-[Global CBDC System Incoming!! This Report Will SCARE You!! - YouTube](https://www.youtube.com/watch?v=5VPwG8hSbhw)
-
-[You'll NEVER BELIEVE Who's Behind CBDCs & Fast Payments!! - YouTube](https://www.youtube.com/watch?v=Z9Gg3R1EbGU)
-
-[Central Bank Plans For CBDCs And Cryptocurrency REVEALED!! - YouTube](https://www.youtube.com/watch?v=YhGMkPh2EpM)
-
-[PREPARE Yourself!! Digital ID & CBDC Are Closer Than You Think!! - YouTube](https://www.youtube.com/watch?v=-QYVbG-Ff7g)
+- [Global CBDC System Incoming!! This Report Will SCARE You!! - YouTube](https://www.youtube.com/watch?v=5VPwG8hSbhw)
+- [You'll NEVER BELIEVE Who's Behind CBDCs & Fast Payments!! - YouTube](https://www.youtube.com/watch?v=Z9Gg3R1EbGU)
+- [Central Bank Plans For CBDCs And Cryptocurrency REVEALED!! - YouTube](https://www.youtube.com/watch?v=YhGMkPh2EpM)
+- [PREPARE Yourself!! Digital ID & CBDC Are Closer Than You Think!! - YouTube](https://www.youtube.com/watch?v=-QYVbG-Ff7g)
 
 ### News
 
-[I HOPE YOU'RE PAYING ATTENTION - BIG Money Is BACK In The Market](https://www.youtube.com/watch?v=9-go6CV2Nws)
-
-[BIG SURPRISE! Ethereum Layer 2 Airdrop & Major Crypto Regulations News!](https://www.youtube.com/watch?v=M1twe6riV30)
-
-[How Much Bitcoin Should You Own? The Richest Bitcoin Owners](https://www.youtube.com/watch?v=MHHidZBAFRI)
-
-[Which Is Better 1 Bitcoin OR 32 Ethereum? Long Term Investment Strategy](https://www.youtube.com/watch?v=TX90g0s1ovg)
-
-[The Next Bull Market Will Be The BIGGEST EVER...](https://www.youtube.com/watch?v=iSKybRTYoyU)
-
-[The Secretive World Of MEV, Where Bots Front-Run Crypto Investors For Big Profits](https://www.forbes.com/sites/jeffkauflin/2022/10/11/the-secretive-world-of-mev-where-crypto-bots-scalp-investors-for-big-profits/?sh=b4e0e672d8dc)
-
-[Hopium Diaries - Dystopian Dreams - YouTube](https://www.youtube.com/watch?v=v1Z5BnBuFyE)
-
-[SEC TARGETING Crypto: Which Projects At RISK?? 😨 - YouTube](https://www.youtube.com/watch?v=uPBR3mn6wKU)
-
-[Still Hope For Crypto?! This Will REALLY Surprise You!! 😮 - YouTube](https://www.youtube.com/watch?v=65QgI_Kzq38)
-
-[This SAYS It ALL!! Crypto Adoption Incoming!! - YouTube](https://www.youtube.com/watch?v=J6-LCwPRJWo)
-
-[US Government Plan For Crypto, CBDC, Ukraine, China & More!! - YouTube](https://www.youtube.com/watch?v=nUyJ911jmL0)
-
-[ETH to $50,000?! Crypto Price Prediction Report! - YouTube](https://www.youtube.com/watch?v=PQsb5TX56QY)
-
-[ETHEREUM Updates!! Where Is ETH Price Going In 2023?! - YouTube](https://www.youtube.com/watch?v=FcT9AnkO6GY)
-
-[Bitcoin Is GROWING Fast!! Ethereum Dominance OVER!? - YouTube](https://www.youtube.com/watch?v=IyuwI5q7HwA)
-
-[Commercial Real Estate CRASH is Coming!! Why I'm Worried! - YouTube](https://www.youtube.com/watch?v=PziydUm1ees)
-
-[Preparing For a BEAR Market!! Complete 101 Guide!! 🐻 - YouTube](https://www.youtube.com/watch?v=Vbjb-mGSMXo)
-
-[CRYPTO Regulations That Could CRASH The Market!! - YouTube](https://www.youtube.com/watch?v=uFXYrrCr668)
-
-[This Man Predicted EVERYTHING!! What Comes NEXT!? - YouTube](https://www.youtube.com/watch?v=Avvv7c8xEok)
+- [I HOPE YOU'RE PAYING ATTENTION - BIG Money Is BACK In The Market](https://www.youtube.com/watch?v=9-go6CV2Nws)
+- [BIG SURPRISE! Ethereum Layer 2 Airdrop & Major Crypto Regulations News!](https://www.youtube.com/watch?v=M1twe6riV30)
+- [How Much Bitcoin Should You Own? The Richest Bitcoin Owners](https://www.youtube.com/watch?v=MHHidZBAFRI)
+- [Which Is Better 1 Bitcoin OR 32 Ethereum? Long Term Investment Strategy](https://www.youtube.com/watch?v=TX90g0s1ovg)
+- [The Next Bull Market Will Be The BIGGEST EVER...](https://www.youtube.com/watch?v=iSKybRTYoyU)
+- [The Secretive World Of MEV, Where Bots Front-Run Crypto Investors For Big Profits](https://www.forbes.com/sites/jeffkauflin/2022/10/11/the-secretive-world-of-mev-where-crypto-bots-scalp-investors-for-big-profits/?sh=b4e0e672d8dc)
+- [Hopium Diaries - Dystopian Dreams - YouTube](https://www.youtube.com/watch?v=v1Z5BnBuFyE)
+- [SEC TARGETING Crypto: Which Projects At RISK?? 😨 - YouTube](https://www.youtube.com/watch?v=uPBR3mn6wKU)
+- [Still Hope For Crypto?! This Will REALLY Surprise You!! 😮 - YouTube](https://www.youtube.com/watch?v=65QgI_Kzq38)
+- [This SAYS It ALL!! Crypto Adoption Incoming!! - YouTube](https://www.youtube.com/watch?v=J6-LCwPRJWo)
+- [US Government Plan For Crypto, CBDC, Ukraine, China & More!! - YouTube](https://www.youtube.com/watch?v=nUyJ911jmL0)
+- [ETH to $50,000?! Crypto Price Prediction Report! - YouTube](https://www.youtube.com/watch?v=PQsb5TX56QY)
+- [ETHEREUM Updates!! Where Is ETH Price Going In 2023?! - YouTube](https://www.youtube.com/watch?v=FcT9AnkO6GY)
+- [Bitcoin Is GROWING Fast!! Ethereum Dominance OVER!? - YouTube](https://www.youtube.com/watch?v=IyuwI5q7HwA)
+- [Commercial Real Estate CRASH is Coming!! Why I'm Worried! - YouTube](https://www.youtube.com/watch?v=PziydUm1ees)
+- [Preparing For a BEAR Market!! Complete 101 Guide!! 🐻 - YouTube](https://www.youtube.com/watch?v=Vbjb-mGSMXo)
+- [CRYPTO Regulations That Could CRASH The Market!! - YouTube](https://www.youtube.com/watch?v=uFXYrrCr668)
+- [This Man Predicted EVERYTHING!! What Comes NEXT!? - YouTube](https://www.youtube.com/watch?v=Avvv7c8xEok)
+- [Chainalysis: The 2023 Global Crypto Adoption Index](https://www.chainalysis.com/blog/2023-global-crypto-adoption-index/)
 
 ## Learning
 

@@ -3,6 +3,7 @@
 [Human Origins 101 | National Geographic - YouTube](https://www.youtube.com/watch?v=ehV-MmuvVMU&ab_channel=NationalGeographic)
 
 - We divided from fungi 650 million years ago
+- About 221 million and 210 million years ago
 - 6 million years ago relationship with apes ended
 - 2.8 million years ago genus of Homo emerged
 - 2 million years ago fire discovered
@@ -15,7 +16,7 @@
 - 70,000 years ago only humans got some abstract thinking capabilities to survive in today's generation
 - **60,000 years ago first time humans moved out of Africa**
 - 50,000 years ago there was explosion in innovation; tools and weapons became more sophisticated and culture became more complex; communication improved and in turn cooperation improved in large groups
-- Humans started fishing somewhere between [40,000](https://bn9wksbn.r.us-east-1.awstrack.me/L0/https:%2F%2Fwww.alimentarium.org%2Fen%2Fknowledge%2Fhistory-fishing/1/010001816547a836-a6b3f3e8-4853-461c-ace6-ca9f2ad8ddf1-000000/3rZTTMmSVYfh1xf6V8Y1ZcL1Bis=274) and 10000 years BCE.
+- Humans started fishing somewhere between 40,000 and 10000 years BCE.
 - 12,000 years ago agriculture started in multiple locations; because of this specialization started
 - 500 years ago scientific revolution happened; industrial revolution
 
