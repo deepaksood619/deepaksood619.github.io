@@ -339,3 +339,5 @@ Try to get 10–20 minutes of sunlight ideally before noon, 3-4 times a week. Da
 [Food expiration dates don’t mean what you think - Carolyn Beans - YouTube](https://www.youtube.com/watch?v=jDg8DQl7ZeQ)
 
 [Why Coconut Farmers Risk Their Lives To Feed The World's Superfood Obsession | Big Business - YouTube](https://www.youtube.com/watch?v=vEA8HpR_Azw)
+
+![oat-vs-coke-vs-french-fries](../../../media/Pasted%20image%2020231001165735.png)
