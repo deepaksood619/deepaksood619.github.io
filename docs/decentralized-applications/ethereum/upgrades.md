@@ -82,3 +82,5 @@ Ethereum social consensus, _for other purposes_:
 [Intro to ERC 6551 - Token Bound Accounts - Jayden Windle - YouTube](https://www.youtube.com/watch?v=6WoNRbkZOaU)
 
 [Vitalik Buterin ETHGlobal Waterloo III Keynote - YouTube](https://www.youtube.com/watch?v=RhzDs0jxhLw)
+
+[Should Ethereum be okay with enshrining more things in the protocol?](https://vitalik.ca/general/2023/09/30/enshrinement.html)

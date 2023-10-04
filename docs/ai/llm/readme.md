@@ -65,6 +65,7 @@ Moving from information to knowledge age
 - [Photo AI: AI Photo Generator](https://photoai.com/)
 - [Generative AI in Jupyter. Jupyter AI, a new open source project… | by Jason Weill | Aug, 2023 | Jupyter Blog](https://blog.jupyter.org/generative-ai-in-jupyter-3f7174824862)
 - [Mem: Your AI knowledge assistant](https://get.mem.ai/)
+- [GitHub - Nutlope/aicommits: A CLI that writes your git commit messages for you with AI](https://github.com/Nutlope/aicommits)
 
 ![ai-tools](../../media/image.png)
 

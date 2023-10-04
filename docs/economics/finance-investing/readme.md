@@ -1,6 +1,6 @@
 # Finance / Investing
 
-- [Financial Independence (FIRE)](economics/finance-investing/financial-independence.md)
+- [Financial Independence (FIRE)](economics/finance-investing/financial-independence-fire.md)
 - [Asset Classes](economics/finance-investing/asset-classes.md)
 - [Portfolios](economics/finance-investing/portfolios.md)
 - [Personal Finance](economics/finance-investing/personal-finance.md)

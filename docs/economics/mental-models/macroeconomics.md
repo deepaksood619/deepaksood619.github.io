@@ -164,3 +164,4 @@ The **impossible trinity** (also known as **the impossible [trilemma](https://en
 - [Why the Rich World is Dying and How to Save It - YouTube](https://www.youtube.com/watch?v=x6e03HWI2nQ)
 - [How The UN Destroyed Iraq For Oil | Epic Economics - YouTube](https://www.youtube.com/watch?v=PM3ZMWtbBag)
 - [Watch Out! They’re LYING To You About Inflation & The Economy!! - YouTube](https://www.youtube.com/watch?v=SUE1mNNjcZc)
+- [The Thinking Behind Why Cash Is Now Good (and not Trash)](https://www.linkedin.com/pulse/thinking-behind-why-cash-now-good-trash-ray-dalio)

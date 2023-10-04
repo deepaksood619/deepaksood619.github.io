@@ -192,6 +192,12 @@ Smooth, bright, seedless, conveniently wrapped; the banana is the original fast 
 ## Milk
 
 - Cow's Milk
+  - Raw Milk / Whole Milk
+  - Double toned milk
+  - Toned milk
+  - Skimmed milk
+  - Pasteurized Milk
+  - Homogenized Milk
 - Almond Milk
 - **Soy Milk (best for planet)**
 - **Oat Milk (best for planet)**
@@ -199,6 +205,8 @@ Smooth, bright, seedless, conveniently wrapped; the banana is the original fast 
 [Which type of milk is best for you? - Jonathan J. O’Sullivan & Grace E. Cunningham - YouTube](https://www.youtube.com/watch?v=s6TXDFp1EcM)
 
 [The truth about milk: According to science | Prof. Tim Spector and Dr Sarah Berry - YouTube](https://www.youtube.com/watch?v=6CPBeNPlcNc)
+
+[Site Unreachable](https://timesofindia.indiatimes.com/life-style/food-news/difference-between-homogenized-and-pasteurized-milk-and-which-one-is-safe/photostory/89508297.cms?from=mdr)
 
 ## Fruits
 

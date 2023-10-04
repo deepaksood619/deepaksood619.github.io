@@ -56,7 +56,7 @@ Redashwas built to allow fast and easy access to billions of records, that we pr
 
 ## Rive
 
-Rive is a real-time interactive design tool that allows you to design, animate, and immediately integrate your assets into any platform thanks to our [open source runtimes](https://rive.app/runtimes).
+Rive is a real-time interactive design tool that allows you to design, animate, and immediately integrate your assets into any platform thanks to our [open source runtimes](https://rive.app/runtimes)
 
 <https://rive.app>
 
@@ -73,3 +73,5 @@ Amazon QuickSight is built with "SPICE" -- a Super-fast, Parallel, In-memory Cal
 ## Others
 
 <https://www.talend.com/>
+
+[GitHub - finos/perspective: A data visualization and analytics component, especially well-suited for large and/or streaming datasets.](https://github.com/finos/perspective)

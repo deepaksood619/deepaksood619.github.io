@@ -36,3 +36,5 @@ Recommended portfolio for aggressive investors:
 [Building a mutual fund portfolio - YouTube](https://www.youtube.com/watch?v=6Zrl3ZeqqsE)
 
 [5 Mutual Funds you must have in your portfolio | Mutual Fund investment - YouTube](https://www.youtube.com/watch?v=QiFo-Bw2dyI)
+
+[Handpicked List of Mutual Funds Oct-Dec 2023 (PlumbLine)](https://freefincal.com/handpicked-list-of-mutual-funds-oct-dec-2023-plumbline/)

@@ -4,6 +4,8 @@ FIRE means to save and invest aggressively in your 20s and 30s so that you can l
 
 FIRE has more to do with your current lifestyle. To implement FIRE, you save and invest up to 50-70% of your income in assets that can generate high returns and passive income.
 
+Enough will never be enough
+
 ### Lean FIRE
 
 Saving up to 25x their annual expenses and adhere to a strict budget.

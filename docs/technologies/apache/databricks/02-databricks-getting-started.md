@@ -106,3 +106,5 @@ group by 1
 ## Links
 
 [Five Ways To Create Tables In Databricks | by Amy @GrabNGoInfo | GrabNGoInfo | Medium](https://medium.com/grabngoinfo/five-ways-to-create-tables-in-databricks-cd3847cfc3aa)
+
+[Create and share Lakeview dashboards | Databricks on AWS](https://docs.databricks.com/en/dashboards/lakeview.html)
