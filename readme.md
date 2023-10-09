@@ -6,7 +6,7 @@ This is my personal wiki where I share everything I know about this world in for
 
 The purpose of this site is to force me to improve the quality of these notes, the prospect of being read by someone being motivating. It also allows me to access it everywhere.
 
-If this is your first time visiting this wiki, take a look at [outline](https://deepaksood619.github.io/docs/#outline)
+If this is your first time visiting this wiki, take a look at [outline](https://deepaksood619.github.io/#outline)
 
 **Why I write (summed up in one quote) -** Your brain is for having ideas not holding them.
 
