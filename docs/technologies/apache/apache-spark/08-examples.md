@@ -65,6 +65,9 @@ condition2 = data.User_Score != "tbd"
 data = data.filter(condition1).filter(condition2)
 
 # https://towardsdatascience.com/pyspark-import-any-data-f2856cda45fd
+
+# Check if table exists in Spark Catlogue
+spark.catalog.tableExists("schema.dev.table_name")
 ```
 
 ### Glue Transformation from Aurora DB to Parquet in s3
