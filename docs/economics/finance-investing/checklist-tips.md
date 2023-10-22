@@ -393,3 +393,5 @@ Consumption smoothing refers to **a process of achieving a balance between spend
 [GitHub - JerBouma/PersonalFinance: Tracking your income and expenses automatically.](https://github.com/JerBouma/PersonalFinance)
 
 [First Pillar of Investing - Avoid investing in Fragile companies - Introducing the Fragility Score Card: Financial Statement Analysis made easy](https://www.budgetiger.in/p/introducing-the-fragility-score-card)
+
+![psychology-of-a-market-cycle](../../media/Pasted%20image%2020231022201219.png)

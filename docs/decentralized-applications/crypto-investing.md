@@ -123,3 +123,4 @@
 - [How to get Free Crypto without getting SCAMMED - 13 Methods - YouTube](https://www.youtube.com/watch?v=UuyS7YAkECA)
 - [What I Learned Managing Arca's Crypto Fund for Five years](https://www.coindesk.com/consensus-magazine/2023/09/18/what-i-learned-managing-a-crypto-fund-for-five-years/)
 - [How To Trade Perpetual Futures And Use Leverage In Crypto](https://milkroad.com/invest/perpetual-futures/)
+- [Top 10 FREE Tools To Maximise Your CRYPTO Gains!!! - YouTube](https://www.youtube.com/watch?v=TryBWU06Jrk)

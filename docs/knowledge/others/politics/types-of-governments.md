@@ -131,7 +131,7 @@ In [philosophy](https://en.wikipedia.org/wiki/Philosophy "Philosophy"), [politic
 
 ### Left (Liberal)
 
-- Liberty
+- Liberty - Freedom to do everything which injures no one else
 - Equality (egalitarianism)
 
 The idea of fairness for all humans

@@ -35,6 +35,10 @@ Startup time management in three simple steps:
 
 Most important thing for a country/economy/world - **Education**
 
+Impact - education+ food + living
+
+Impact - technological innovation
+
 ## Future / Future predictions
 
 - Everyone will order something from app online and get it delivered at home (first using riders like food delivery guys and then by drones and robots)

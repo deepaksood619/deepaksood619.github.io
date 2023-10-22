@@ -7,6 +7,7 @@
 - [Chart](chart)
 - [Food](food)
 - [Pulses / Daal / Lentils](pulses-daal-lentils)
+- [Honey](knowledge/biology/nutrition/honey.md)
 - [Ecology](ecology)
 - [Recipe](recipe)
 - [Fatigue](fatigue)

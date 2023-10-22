@@ -30,7 +30,7 @@ Ctrl + Cmd + space - Character Palette
 
 You can select the file and pressOption+Command+Cto copy the pathname to the clipboard.
 
-RightClick on folder > option (gives more options)
+Right Click on folder > option (gives more options)
 
 #### Terminal Commands
 
@@ -59,8 +59,9 @@ Open two instance of same application - **open -n MQTT.fx.app**
 4. **Add docker**
 5. ~~Add Anaconda~~
 6. ~~Irvue~~
-7. **Onenote**
-8. **VSCode**
+7. ~~Onenote~~
+8. Obsidian
+9. **VSCode**
 
    Open the Command Palette(⇧⌘P) and type 'shell command' to find the Shell Command: Install 'code' command in PATH command.
 
@@ -183,7 +184,7 @@ brew services cleanup
 
 ### brew install
 
-- **tmux**
+- ~~tmux~~
 - tldr
 - watch
 - **kubectl**
@@ -193,20 +194,10 @@ brew services cleanup
 - tree (directory tree structure)
 - mysql-client / mysql@5.7
 - bat
-- ~~neovim~~
-
-   <https://github.com/neovim/neovim>
-
-- ~~fzf (A command-line fuzzy finder)~~
-
-   <https://github.com/junegunn/fzf>
-
+- ~~neovim~~ - <https://github.com/neovim/neovim>
+- ~~fzf (A command-line fuzzy finder) - ~~<https://github.com/junegunn/fzf>
 - [GitHub - ellie/atuin: 🐢 Magical shell history](https://github.com/ellie/atuin)
-
-- ~~the_silver_searcher (command ag "services")~~
-
-   <https://github.com/ggreer/the_silver_searcher>
-
+- ~~the_silver_searcher (command ag "services") - ~~<https://github.com/ggreer/the_silver_searcher>
 - **hstr**
 
    ```bash
@@ -225,7 +216,6 @@ brew services cleanup
 - **tldr -** <https://tldr.sh> <https://github.com/tldr-pages/tldr>
 - brew install pre-commit
 - rename
-
 - <https://fig.io>
 
 ```bash
@@ -243,6 +233,8 @@ fig --help       a summary of Fig commands with examples
 
 #### for stopping bell sound
 
+Search for - Silence bell in preferences
+
 Unchecking the "User interface sounds" doesn't disable all sound. But sliding the "Alert Volume" option all the way to the left (minimum), together with unchecking the other options does the trick.
 
 #### Setting up Shell
@@ -250,19 +242,19 @@ Unchecking the "User interface sounds" doesn't disable all sound. But sliding th
 - install iterm2
 - oh-my-zsh
 
-   sh -c "$(curl -fsSL <https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh>)"
+   `sh -c "$(curl -fsSL <https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh>)"`
 
 - Theme powerlevel10k
 
    <https://gist.github.com/kevin-smets/8568070>
 
-   Command - git clone <https://github.com/romkatv/powerlevel10k.git> $ZSH_CUSTOM/themes/powerlevel10k
+   Command - `git clone <https://github.com/romkatv/powerlevel10k.git> $ZSH_CUSTOM/themes/powerlevel10k`
 
- source ~/.zshrc, // follow the instructions after that
+ `source ~/.zshrc` , // follow the instructions after that
 
 - Auto Suggestion
 
-   git clone <https://github.com/zsh-users/zsh-autosuggestions> ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-autosuggestions
+   `git clone https://github.com/zsh-users/zsh-autosuggestions ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-autosuggestions`
 
    <https://github.com/zsh-users/zsh-autosuggestions/blob/master/INSTALL>
 

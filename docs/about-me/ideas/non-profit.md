@@ -185,38 +185,6 @@ Problems
 
 1. Can turn on a race between a lot of homes in single society as many are free and can share their home cooked foods
 
-## Chartity / Donations Portal
-
-### Altruism / Compassion
-
-Spend money while feeling good
-
-- Charities with your time too.
-- Family friendly
-
-Done/recipient - Register using Aadhaar card, basic salary with close connections salary is pulled, if low, person is added to donation list with his/her item that he needs, with purpose of use.
-
-Donor - finds a person and donate the required item or buy for him/her
-
-- Donate only to <https://www.guidestar.org> platinum seal of transparency
-- KhanAcademy, Khan Academy
-  - <https://khanacademyannualreport.org/financial-information>
-- Freecodecamp
-
-<https://www.guidestar.org/profile/82-0779546>
-
-- Charitable organization, where donates can be directly facilitate study of some kid, directly interact with him/her (Full transparency)
-- Wikipedia (Gave Rs. 1000 on 29 July 2020)
-- mossy.earth
-
-[The life you can save](../../book-summaries/the-life-you-can-save)
-
-[Doing Good Better](../../book-summaries/doing-good-better)
-
-[Effective altruism](../../knowledge/others/philosophy#effective-altruism)
-
-[Are future humans really our problem? - YouTube](https://www.youtube.com/watch?v=FQss1IH3MFA)
-
 ### Affordable housing project
 
 - Home for underprivileged, affordable housing

@@ -113,3 +113,5 @@ psychological manipulation of a person for one’s advantage-causing the person 
 [Why We Always Feel Bad and Guilty - YouTube](https://www.youtube.com/watch?v=71WImmxUPRo)
 
 [The Science Of Catching Up In Life - YouTube](https://www.youtube.com/watch?v=IOWelVx5CUw)
+
+[Why People become Criminals? | The Problem of Liberty | Dhruv Rathee - YouTube](https://www.youtube.com/watch?v=d0KuhikVnVs)

@@ -1,5 +1,9 @@
 # Quotes
 
+Money begets Money
+
+Two types of investors - The one who knows that they don't know, others who don't know that they don't know.
+
 Always think about Ideal world, as to what will happen in ideal world
 
 Invest in liquid debt bonds

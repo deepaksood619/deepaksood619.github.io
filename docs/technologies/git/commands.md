@@ -514,13 +514,13 @@ loc is a tool for counting lines of code. It's a rust implementation of cloc, bu
 Counting just the dragonflybsd codebase (~9 million lines):
 
 ```bash
-loc: 1.09 seconds
-tokei: 5.3 seconds
-cloc: 1 minute, 50 seconds
-
 brew install loc
 
 loc
+
+loc: 1.09 seconds
+tokei: 5.3 seconds
+cloc: 1 minute, 50 seconds
 ```
 
 [GitHub - cgag/loc: Count lines of code quickly.](https://github.com/cgag/loc)

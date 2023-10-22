@@ -10,7 +10,7 @@
 
 [Python Tutorials - Python Itertools Playlist](https://www.youtube.com/playlist?list=PLGKQkV4guDKEn-pF85NoIL_-VYIFz3ppo)
 
-1. **Infinite Iterators**
+### 1. Infinite Iterators
 
 | **Iterator** | **Arguments** | **Results** | **Example** |
 |---|---|---|---|
@@ -18,7 +18,7 @@
 | [**cycle()**](https://docs.python.org/2/library/itertools.html#itertools.cycle) | p | p0, p1, ... plast, p0, p1, ... | cycle('ABCD')-->ABCDABCD... |
 | [**repeat()**](https://docs.python.org/2/library/itertools.html#itertools.repeat) | elem [,n] | elem, elem, elem, ... endlessly or up to n times | repeat(10,3)-->101010 |
 
-2. **Iterators terminating on the shortest input sequence**
+### 2. Iterators terminating on the shortest input sequence
 
 | **Iterator** | **Arguments** | **Results** | **Example** |
 |---|---|---|---|
@@ -36,7 +36,7 @@
 | [**izip()**](https://docs.python.org/2/library/itertools.html#itertools.izip) | p, q, ... | (p[0], q[0]), (p[1], q[1]), ... | izip('ABCD','xy')-->AxBy |
 | [**izip_longest()**](https://docs.python.org/2/library/itertools.html#itertools.izip_longest) | p, q, ... | (p[0], q[0]), (p[1], q[1]), ... | izip_longest('ABCD','xy',fillvalue='-')-->AxByC-D- |
 
-3. **Combinatoric generators**
+### 3. Combinatoric generators
 
 | Iterator | Arguments | Results | Examples |
 | --- | --- | --- | --- |

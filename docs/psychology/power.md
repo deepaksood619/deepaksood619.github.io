@@ -1,5 +1,7 @@
 # Power
 
+Power tends to corrupt, absolute power corrupts absolutely
+
 It is not power that corrupts but fear. Fear of losing power corrupts those who wield it and fear of the scourge of power corrupts those who are subject to it.
 
 [48 Laws of Power](../book-summaries/48-laws-of-power)
