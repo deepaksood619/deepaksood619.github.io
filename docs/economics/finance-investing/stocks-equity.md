@@ -20,19 +20,13 @@ You can claim exemption against any long-term capital gains tax liability if you
 
 ## Screener
 
-<https://www.screener.in/explore>
-
-<https://www.screener.in/screens/103296/52-week-lows>
-
-<https://www.screener.in/screens/343087/fii-buying>
-
-<https://www.tickertape.in/screener/equity/prebuilt/SCR0001>
-
-<https://www.screener.in/screens/218753/marcellus-little-champs>
-
-<https://www.screener.in/screens/395078/consistent-compounders-marcellus>
-
-<https://www.screener.in/screens/523311/rising-giants-marcellus>
+- <https://www.screener.in/explore>
+- <https://www.screener.in/screens/103296/52-week-lows>
+- <https://www.screener.in/screens/343087/fii-buying>
+- <https://www.tickertape.in/screener/equity/prebuilt/SCR0001>
+- <https://www.screener.in/screens/218753/marcellus-little-champs>
+- <https://www.screener.in/screens/395078/consistent-compounders-marcellus>
+- <https://www.screener.in/screens/523311/rising-giants-marcellus>
 
 ## NiftyETF
 
@@ -75,6 +69,14 @@ You can claim exemption against any long-term capital gains tax liability if you
 - Happiest Minds
 - Dixon
 - V-Guard / Havells
+
+### [3 Electric vehicle stocks for Long term investments | 3 Best EV Stocks in India | - YouTube](https://www.youtube.com/watch?v=bEHjawBxChI)
+
+- Mahindra and Mahindra
+- Exide
+- Tata motors
+- Powergrid
+- Olectra - electric buses
 
 ## Marcellus
 

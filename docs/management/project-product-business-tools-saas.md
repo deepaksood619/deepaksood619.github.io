@@ -1,5 +1,7 @@
 # Project / Product / Business - Tools - SAAS
 
+[PM Templates - by Paweł Huryn](https://www.productcompass.pm/p/templates)
+
 1. notion.so
 
    <https://www.appflowy.io>

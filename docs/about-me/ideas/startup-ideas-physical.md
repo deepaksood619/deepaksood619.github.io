@@ -157,3 +157,7 @@ Airline can be transporter of fuels if passenger occupancy is lower, i.e. based 
 - Healthcare
 - Transport
 - Food
+
+## Others
+
+- Beekeeping

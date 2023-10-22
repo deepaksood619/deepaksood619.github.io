@@ -96,6 +96,8 @@
 - [Branch Education - YouTube](https://www.youtube.com/@BranchEducation)
 - Not what you think
 - Practical Engineering
+- Just have a think
+- [Factory Monster - YouTube](https://www.youtube.com/@Factory_Monster)
 
 ### Future
 

@@ -3,6 +3,7 @@
 - [Intro](about-me/ideas/intro.md)
 - [Creating a Business / Startup](creating-a-business-startup)
 - [Non Profit](non-profit)
+- [Donations](about-me/ideas/donations.md)
 - [Startup Ideas - SAAS](startups-ideas-saas)
 - [Education](education)
 - [Startup Ideas - Physical](startup-ideas-physical)
