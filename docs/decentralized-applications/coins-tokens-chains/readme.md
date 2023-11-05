@@ -122,6 +122,7 @@ A wrapped token is a tokenized version of another cryptocurrency which is pegged
 - [What is Elrond? eGLD Explained with Animations - YouTube](https://www.youtube.com/watch?v=0POflNQeHcI)
 - [A Decentralized Youtube: How Odysee and LBRY Work - YouTube](https://www.youtube.com/watch?v=RCB_udRbF7Q)
 - [What is Terra? UST and LUNA explained with Animations - YouTube](https://www.youtube.com/watch?v=U9lrH0loAns)
+- [How To Get Started With Constellation Network](https://milkroad.com/invest/constellation-network/)
 
 #### Chainlink (Oracle) - LINK
 

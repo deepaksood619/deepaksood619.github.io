@@ -683,6 +683,24 @@ If you can't fly then run, if you can't run then walk, if you can't walk then cr
 
 Passion and Ownership: Buffett stressed the importance of working on something you truly love, ideally in your own business or at least having equity in it. Passion and ownership are key drivers for success, according to the Oracle of Omaha.
 
+## The Passion Principle
+
+Choosing the right career is a challenge. You could be stuck between a well paying job that doesn’t interest you too much and a job that you could be passionate that may pay less. It’s financial security versus passion.
+
+So what do you choose? Money or love?
+
+Well, [the passion principle](https://bn9wksbn.r.us-east-1.awstrack.me/L0/https:%2F%2Fwww.theglobeandmail.com%2Fbusiness%2Fcareers%2Fmanagement%2Farticle-beware-of-the-passion-principle%2F/1/0100018b557a00a2-66e6d914-2d6f-4e4a-b306-ccbab2789a44-000000/i1g_YFaVCLFAXMyJ_6wl92LlWMQ=344) may be one way to answer this question. It simply refers to the cultural idea of sacrificing job security or higher pay to follow your passion. But there’s a problem with this principle as author [Erin Cech](https://bn9wksbn.r.us-east-1.awstrack.me/L0/https:%2F%2Fhbr.org%2F2022%2F10%2Fstriking-a-balance-between-your-passion-and-your-paycheck/1/0100018b557a00a2-66e6d914-2d6f-4e4a-b306-ccbab2789a44-000000/2T5ST_EjBckR_tRvjbQVVQA3qgU=344) puts it in her book _The Trouble With Passion_.
+
+Cech is an associate professor and director of undergraduate studies at the University of Michigan. She’s actually an electrical engineer on paper. But chose to follow her passion in sociology. Over the years she learnt that this may not be the best choice for everybody and coined the term ‘passion principle’. Through her research she found that following your passion as a career creates a bias. It only favours the rich kids who have the springboard to give up on high paying job opportunities and wait for something that they’re really passionate about.
+
+Her [research](https://bn9wksbn.r.us-east-1.awstrack.me/L0/https:%2F%2Fwww.forbes.com%2Fsites%2Fmichaelbarthur%2F2022%2F02%2F20%2Fwhats-the-trouble-with-passion-in-your-life-and-career%2F%3Fsh=156e2d1a1e50/1/0100018b557a00a2-66e6d914-2d6f-4e4a-b306-ccbab2789a44-000000/dofDIrSlpnzUzkOpAZ4QfKuEhos=344) points that over 75% of college students and 67% of college-educated workers rated the importance of passion-related factors more highly than either job security or salary. But only [37%](https://bn9wksbn.r.us-east-1.awstrack.me/L0/https:%2F%2Fwww.theglobeandmail.com%2Fbusiness%2Fcareers%2Fmanagement%2Farticle-beware-of-the-passion-principle%2F/2/0100018b557a00a2-66e6d914-2d6f-4e4a-b306-ccbab2789a44-000000/w6NDDuVdNX1tB-8kulqm1q6XZPI=344) were able to launch into stable jobs or promising graduate programs within their desired sphere.
+
+In fact, things you’re passionate about can change over time. And AI’s the word now. It could do a lot of creative stuff tomorrow that humans can do today. So you might really need to be extremely good at what you love in terms of a career perspective.
+
+That’s why you must think long and hard before jumping the gun. Check and evaluate all the options you have in front of you and then decide what floats your boat.
+
+[Beware of the passion principle - The Globe and Mail](https://www.theglobeandmail.com/business/careers/management/article-beware-of-the-passion-principle/)
+
 ## Links
 
 [World Leading Therapist: 3 Simple Steps To Remove Your Negative Thoughts: Marisa Peer | E154 - YouTube](https://www.youtube.com/watch?v=bzilnhq3Mkg)

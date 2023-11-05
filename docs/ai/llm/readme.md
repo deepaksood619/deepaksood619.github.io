@@ -101,3 +101,5 @@ Moving from information to knowledge age
 - [DoctorGPT: Offline & Passes Medical Exams! - YouTube](https://www.youtube.com/watch?v=J9nJh33GM-w)
 - [The AI-Powered Tools Supercharging Your Imagination | Bilawal Sidhu | TED - YouTube](https://www.youtube.com/watch?v=eZsVDMsBTCQ)
 - [The True Cost of Compute - YouTube](https://www.youtube.com/watch?v=MNFeJNUu074)
+- [Welcome to State of AI Report 2023](https://www.stateof.ai/)
+- [State of AI Report 2023 - ONLINE - Google Slides](https://docs.google.com/presentation/d/156WpBF_rGvf4Ecg19oM1fyR51g4FAmHV3Zs0WLukrLQ/edit)

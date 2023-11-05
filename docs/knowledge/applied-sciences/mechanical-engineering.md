@@ -205,6 +205,8 @@ Isotropic refers to the properties of a material which is independent of the dir
 ## Robotics
 
 - [The Fastest Maze-Solving Competition On Earth - YouTube](https://www.youtube.com/watch?v=ZMQbHMgK2rw)
+- [GitHub - Smoothieware/Smoothieware: Modular, opensource, high performance G-code interpreter and CNC controller written in Object-Oriented C++](https://github.com/Smoothieware/Smoothieware)
+- [start [smoothieware.org]](https://smoothieware.org/)
 
 ## Links
 

@@ -65,7 +65,7 @@ This is the fund you rush to in cases of emergencies. Such a fund should offer l
 
 ## Retirement
 
-### LIC PMVVY - Papa - 15 lakh (10 years)
+### LIC PMVVY - Papa - 15 lakh (10 years) (expired)
 
 - Last date - March 31, 2023
 - 10K per month
@@ -85,7 +85,7 @@ Mis (Monthly Income Scheme) - Limit 9 lakh
 
 ### Mahila Samman Saving certificate - 7.5% 2 lakh
 
-### Sukanya Samriddhi Yojana
+### Sukanya Samriddhi Yojana (SSY)
 
 - Attractive interest rate of 8%, that is fully exempt from tax under section 80C.
 - Minimum Rs. 250 can be invested in one financial year
@@ -93,10 +93,10 @@ Mis (Monthly Income Scheme) - Limit 9 lakh
 - If the minimum amount of Rs 250 is not deposited in any financial year , a penalty of Rs 50/- will be charged
 - Deposits in an account can be made till completion of 14 years, from the date of opening of the account
 - The account shall mature on completion of 21 years from the date of opening of the account, provided that where the marriage of the account holder takes place before completion of such period of 21 years, the operation of the account shall not be permitted beyond the date of her marriage
-- Passbook will be issued to customers.
+- Passbook will be issued to customers
 - Withdrawal Facility
-  - To meet the financial requirements of the account holder for the purpose of higher education and marriage, account holder can avail partial withdrawal facility after attaining 18 years of age.
-  - If the beneficiary is married before maturity of account, account has to be closed.
+  - To meet the financial requirements of the account holder for the purpose of higher education and marriage, account holder can avail partial withdrawal facility after attaining 18 years of age
+  - If the beneficiary is married before maturity of account, account has to be closed
 
 [Sukanya Samriddhi Account - Know Scheme Details & Benefits for Your Girl Child | HDFC Bank](https://www.hdfcbank.com/personal/save/accounts/sukanya-samridhi-account)
 

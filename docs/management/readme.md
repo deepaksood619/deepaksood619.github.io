@@ -12,6 +12,7 @@
 - [Decision Making](decision-making/readme.md)
   - [Ethics](decision-making/ethics)
 - [Growth Hacking](growth-hacking)
+- [Growth Hacking Metrics](management/growth-hacking-metrics.md)
 - [Marketing](management/marketing.md)
 - [Sales](management/sales.md)
 - [Customer Engagement / CX](customer-engagement-cx)

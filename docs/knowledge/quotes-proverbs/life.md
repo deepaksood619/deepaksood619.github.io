@@ -70,6 +70,8 @@ If you think it's simple, then you have misunderstood the problem. - Bjarne Stro
 
 Change is the only constant in life
 
+Optimism is an hard thing to choose
+
 Ultimately, your success in life depends on how much clarity you have -- Sadhguru
 
 Change is here. It's faster than ever. It's more pronounced than ever. And it's more impactful than ever.
@@ -1043,3 +1045,5 @@ Don't be scared be prepared
 Humans have opened gates to the hell
 
 God has given us 2 ears and 1 mouth, so you must use those in proportion i.e. 2/3rd listen 1/3 talk
+
+If you kill a killer the number of killers in the world remains the same.
