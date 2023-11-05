@@ -115,6 +115,14 @@ ALTER TABLE table_name SET TBLPROPERTIES (
 'delta.minWriterVersion' = '5');
 ```
 
+## Deletion Vectors
+
+Deletion vectors are a storage optimization feature that can be enabled on Delta Lake tables. By default, when a single row in a data file is deleted, the entire Parquet file containing the record must be rewritten. With deletion vectors enabled for the table, `DELETE` operations use deletion vectors to mark existing rows as removed without rewriting the Parquet file. Subsequent reads on the table resolve current table state by applying the deletions noted by deletion vectors to the most recent table version.
+
+[What are deletion vectors? | Databricks on AWS](https://docs.databricks.com/en/delta/deletion-vectors.html)
+
+[What is predictive I/O? | Databricks on AWS](https://docs.databricks.com/en/optimizations/predictive-io.html)
+
 ## Others
 
 [How does Databricks manage Delta Lake feature compatibility? | Databricks on AWS](https://docs.databricks.com/delta/feature-compatibility.html)

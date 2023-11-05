@@ -3,9 +3,13 @@
 ## Databricks CLI
 
 ```bash
+# using brew on mac
 brew tap databricks/tap
 brew install databricks
 databricks -v
+
+# using pip on mac or server jupyter notebook
+pip install --upgrade databricks-cli
 
 databricks configure
 
@@ -26,7 +30,8 @@ databricks secrets list-scopes --output JSON
 databricks secrets list --scope my-scope --output JSON
 
 ## Put a secret into specific scope
-databricks secrets put --scope abc-scope --key abc
+databricks secrets put-secret SCOPE KEY
+databricks secrets put-secret abc-scope abc
 ## An editor opens, Paste your secret value above the line and save and exit the editor. Your input is stripped of the comments and stored associated with the key in the scope.
 ```
 

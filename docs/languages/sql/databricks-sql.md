@@ -93,6 +93,19 @@ DESCRIBE TABLE `default`.test ;
 SELECT createdAtDate, subject, count(*) FROM students group by ALL ORDER BY ALL;
 ```
 
+### Print all
+
+```python
+schemas = ['bronze', 'silver', 'gold']
+
+for each_schema in schemas:
+ df = spark.sql(f"SHOW TABLES IN test.{each_schema}").collect()
+
+ for each in df:
+  print("\n", each)
+  print(spark.sql(f"DESCRIBE test.{each_schema}.{each[1]}").collect())
+```
+
 ## Others
 
 [How to view all databases, tables, and columns in Databricks | by Kristo Raun | Helmes People | Medium](https://medium.com/helmes-people/how-to-view-all-databases-tables-and-columns-in-databricks-9683b12fee10)

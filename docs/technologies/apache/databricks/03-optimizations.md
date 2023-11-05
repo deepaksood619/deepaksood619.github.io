@@ -165,3 +165,5 @@ It's **not recommended to use all-purpose clusters** for any kind of **automa
 - S3 Endpoint is almost always better than NAT Gateway.
 
 [How to Extract Large Query Results Through Cloud Object Stores - The Databricks Blog](https://www.databricks.com/blog/2021/08/11/how-we-achieved-high-bandwidth-connectivity-with-bi-tools.html)
+
+[Speed Up Your Data Pipeline with Databricks Pools](https://www.databricks.com/blog/2019/11/11/databricks-pools-speed-up-data-pipelines.html)

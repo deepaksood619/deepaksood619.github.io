@@ -54,6 +54,7 @@
 - Capitalism and Freedom by Milton Friedman
 - Catcher in the rye
 - Daily rituals by Mason Currey
+- Don Quichotte
 - Dotcom secrets by Russel Brunson
 - Economix
 - Edward de bano (Lateral Thinking/The mechanism of mind)
@@ -213,3 +214,5 @@ Now, I am become death, destroyer of worlds. -- Bhagavad Gita
 ## Others
 
 [List of books banned in India - Wikipedia](https://en.wikipedia.org/wiki/List_of_books_banned_in_India)
+
+[top novels of all time - Google Search](https://www.google.com/search?q=top+novels+of+all+time)

@@ -40,6 +40,7 @@
 17. [The Ultimate Guide To Crypto | Bankless](https://www.bankless.com/)
 18. Bankless
 19. [Some resources that I use for investing/trading in crypto](https://route2fi.substack.com/p/some-resources-that-i-use-to-stay)
+20. Newsletter - TLDR Crypto
 
 ### Awesome links
 

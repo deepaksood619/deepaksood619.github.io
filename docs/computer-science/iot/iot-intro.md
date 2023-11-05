@@ -18,19 +18,19 @@ Is an [international standard](https://en.wikipedia.org/wiki/International_stand
 
 ## Four basic architectural components
 
-- **Devices**
+### Devices
 
 Devices are the physical hardware elements that collect sensor data and might perform actuation.
 
-- **Gateway**
+### Gateway
 
 Gateways collect, preprocess, and transfer sensor data from devices and might deliver actuation requests from the cloud to devices.
 
-- **Cloud platform**
+### Cloud platform
 
 The cloud platform - usually offered as a software-as-a-service solution - has a number of important roles, including data acquisition, data analytics, and device management and actuation.
 
-- **Applications**
+### Applications
 
 Applications range from simple web-based data visualization dashboards to highly domain-specific mobile apps.
 On a high level, the software architecture choices for IoT client devices fall into the following seven categories, ranging from simple to more complex:
@@ -68,32 +68,31 @@ On a high level, the software architecture choices for IoT client devices fall i
 
 ## Messaging Patterns
 
-1. competing consumers
-
-    A messaging pattern in which more consumers get messages from a common source (i.e. queue) but each message is delivered to only one consumer.
-
+1. competing consumers - A messaging pattern in which more consumers get messages from a common source (i.e. queue) but each message is delivered to only one consumer.
 2. request/reply
 3. pub/sub
 
 ## Communication patterns
 
-1. **Telemetry**
-    - **Data flows in one direction from the device to other systems for conveying status changes in the device itself (i.e. sensors reading, ...)**
-    - **Direct Messaging mechanism can be used if data is not to be stored.**
+### Telemetry
 
-2. **Inquires**
+- Data flows in one direction from the device to other systems for conveying status changes in the device itself (i.e. sensors reading, ...)
+- Direct Messaging mechanism can be used if data is not to be stored.
 
-    Requests from the device looking to gather required information or asking to initiate activities
+### Inquires
 
-    - Requests and response
+Requests from the device looking to gather required information or asking to initiate activities
 
-3. **Commands**
-    - Commands from other systems sent to a device (or a group of devices) to perform specific activities expecting a result from the command execution, or at least a status for that
-    - Mainly store and forward mechanism is used, sometimes a TTL (Time To Live) on the command message is useful in order to avoid the possibility that an offline device will execute an "old" message that is not useful at the time the device comes back online.
+- Requests and response
 
-4. **Notifications**
+### Commands
 
-    Information flows in one direction from other systems to a device (or a group of devices) for conveying status changes
+- Commands from other systems sent to a device (or a group of devices) to perform specific activities expecting a result from the command execution, or at least a status for that
+- Mainly store and forward mechanism is used, sometimes a TTL (Time To Live) on the command message is useful in order to avoid the possibility that an offline device will execute an "old" message that is not useful at the time the device comes back online.
+
+### Notifications
+
+Information flows in one direction from other systems to a device (or a group of devices) for conveying status changes
 
 ![image](../../media/IoT-Intro-image1.jpg)
 
@@ -109,10 +108,11 @@ On a high level, the software architecture choices for IoT client devices fall i
 
 ## Tools
 
-1. **Node-RED**
-    - Flow-based programming for the Internet of Things
-    - Node-RED is a programming tool for wiring together hardware devices, APIs and online services in new and interesting ways.
-    - It provides a browser-based editor that makes it easy to wire together flows using the wide range of nodes in the palette that can be deployed to its runtime in a single-click.
+### Node-RED
+
+- Flow-based programming for the Internet of Things
+- Node-RED is a programming tool for wiring together hardware devices, APIs and online services in new and interesting ways.
+- It provides a browser-based editor that makes it easy to wire together flows using the wide range of nodes in the palette that can be deployed to its runtime in a single-click.
 
 ## IoT Protocols
 
@@ -134,6 +134,9 @@ On a high level, the software architecture choices for IoT client devices fall i
 IoT Applications, Protocols, and Best Practices - DZone Research Guides
 
 <https://www.home-assistant.io/blog/2016/02/12/classifying-the-internet-of-things>
-End to end overview - <https://cloud.google.com/solutions/iot-overview>- <https://www.edx.org/course/iot-system-architecture-design-and-evaluation>
 
-- <https://www.edx.org/microsoft-professional-program-certificate-in-iot>
+End to end overview - <https://cloud.google.com/solutions/iot-overview>
+
+<https://www.edx.org/course/iot-system-architecture-design-and-evaluation>
+
+<https://www.edx.org/microsoft-professional-program-certificate-in-iot>

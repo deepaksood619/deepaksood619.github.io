@@ -384,16 +384,18 @@ Youtube Original's Mind Field
 ### Torrents
 
 - [GitHub - iptv-org/iptv: Collection of publicly available IPTV channels from all over the world](https://github.com/iptv-org/iptv)
+- [84+ Working 1337x Proxy (October 2023) Mirror Sites To Unblock](https://technoxyz.com/1337x-proxy-unblock/)
+  - [Torrent Search Engine | 1337x.to](https://1337x-to.pages.dev/)
+  - <https://waytohunt.org/1337x-proxy-mirror-sites>
+  - <https://www.1377x.to>
+  - 1377x.to
+  - <https://1337xto.to/>
+  - [1337x | Free Movies, TV Series, Music, Games and Software](https://www.1337x.tw/)
+  - <https://www1.thepiratebay3.to/>
+  - **1337xxx.to**
+  - 1337xx.to
+  - <https://1337x.unblockit.onl/home>
 - <https://pirate-proxy.top/>
-- <https://www.1377x.to>
-- 1377x.to
-- <https://1337xto.to/>
-- [1337x | Free Movies, TV Series, Music, Games and Software](https://www.1337x.tw/)
-- <https://www1.thepiratebay3.to/>
-- **1337xxx.to**
-- 1337xx.to
-- <https://waytohunt.org/1337x-proxy-mirror-sites>
-- <https://1337x.unblockit.onl/home>
 - [Download music, movies, games, software! The Pirate Bay - The galaxy's most resilient BitTorrent site](https://pirate-proxy.click/)
 - [https://fmovies.pub](https://fmovies.pub/)
 - popcorn times

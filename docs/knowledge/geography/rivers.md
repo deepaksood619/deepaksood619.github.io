@@ -51,10 +51,6 @@
 
 [How Wells & Aquifers Actually Work - YouTube](https://www.youtube.com/watch?v=bG19b06NG_w)
 
-[Rivers of India - Geography UPSC, IAS, CDS, NDA, SSC CGL, PCS](https://youtube.com/playlist?list=PL1vNLZF5gfwes_mQ3u4B8KLBUp0ezwjv6)
-
-[Indian Geography: Peninsular Rivers of India | Smart Revision through Animation | OnlyIAS - YouTube](https://www.youtube.com/watch?v=B-M6-sjXBCw)
-
 ## Rivers
 
 ### Mahi
@@ -107,3 +103,9 @@
 - The river is flowing through the states of MP, Maharastra and Gujarat
 - Kakrapar Dam, Ukai Dam, Girna Dam are the major projects on this river
 - The Suki, the Gomai, the Arunavati, the Vaghur, the Amravati, the Puma, the Mona, and the Sipna are the major tributaries of Tapti River
+
+[Top 10 Longest Rivers in India](https://www.jagranjosh.com/general-knowledge/amp/top-10-longest-rivers-in-india-1546602888-1)
+
+[Rivers of India - Geography UPSC, IAS, CDS, NDA, SSC CGL, PCS](https://youtube.com/playlist?list=PL1vNLZF5gfwes_mQ3u4B8KLBUp0ezwjv6)
+
+[Indian Geography: Peninsular Rivers of India | Smart Revision through Animation | OnlyIAS - YouTube](https://www.youtube.com/watch?v=B-M6-sjXBCw)

@@ -2,6 +2,8 @@
 
 Education's purpose is to replace an empty mind with an open one.
 
+Equal access to quality education for everyone
+
 ### Education for all (KhanAcademy does it all, contribute to it)
 
 - Cultfit type you can attend from any city
@@ -50,14 +52,11 @@ Education's purpose is to replace an empty mind with an open one.
 
 Free Open Source Education for all fields and all classes from nursery to college - same over all the world. Central database, updated constantly and regularly to create global best education.
 
-1. Should be comprehensive and also summarized.
-
-    - Summarized for lectures and comprehensive for students reading
-
+1. Should be comprehensive and also summarized - Summarized for lectures and comprehensive for students reading
 2. Should develop overall personality
-
     - Develop growth mindset
-
     - Create life long learners
 
 <https://www.notboring.co/p/primer-the-ambitious-home-for-ambitious>
+
+[How to Make Learning as Addictive as Social Media | Luis Von Ahn | TED - YouTube](https://www.youtube.com/watch?v=P6FORpg0KVo)

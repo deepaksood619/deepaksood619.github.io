@@ -24,6 +24,14 @@ Three stages of a money laundering process? - Placement , Layering and Integrati
 
 Layering - Tumblr / Mixers - [6 BEST Bitcoin Mixers & Tumblers (2023 List)](https://www.guru99.com/best-bitcoin-mixers-tumblers.html)
 
+## Digital Millennium Copyright Act (DMCA)
+
+The **Digital Millennium Copyright Act** (**DMCA**) is a 1998 United States [copyright](https://en.wikipedia.org/wiki/Copyright "Copyright") [law](https://en.wikipedia.org/wiki/Law "Law") that implements two 1996 treaties of the [World Intellectual Property Organization](https://en.wikipedia.org/wiki/World_Intellectual_Property_Organization "World Intellectual Property Organization") (WIPO). It criminalizes production and dissemination of technology, devices, or services intended to circumvent measures that control access to [copyrighted](https://en.wikipedia.org/wiki/Copyright "Copyright") works (commonly known as [digital rights management](https://en.wikipedia.org/wiki/Digital_rights_management "Digital rights management") or DRM). It also criminalizes the act of circumventing an [access control](https://en.wikipedia.org/wiki/Access_control "Access control"), whether or not there is actual [infringement of copyright](https://en.wikipedia.org/wiki/Copyright_infringement "Copyright infringement") itself. In addition, the DMCA heightens the penalties for copyright infringement on the [Internet](https://en.wikipedia.org/wiki/Internet "Internet"). Passed on October 12, 1998, by a unanimous vote in the [United States Senate](https://en.wikipedia.org/wiki/United_States_Senate "United States Senate") and signed into law by President [Bill Clinton](https://en.wikipedia.org/wiki/Bill_Clinton "Bill Clinton") on October 28, 1998, the DMCA amended [Title 17 of the United States Code](https://en.wikipedia.org/wiki/Title_17_of_the_United_States_Code "Title 17 of the United States Code") to extend the reach of copyright, while limiting the [liability](https://en.wikipedia.org/wiki/Legal_liability "Legal liability") of the [providers of online services](https://en.wikipedia.org/wiki/Online_service_provider "Online service provider") for copyright infringement by their users.
+
+[What is DMCA?](https://www.dmca.com/FAQ/What-is-DMCA)
+
+[Digital Millennium Copyright Act - Wikipedia](https://en.wikipedia.org/wiki/Digital_Millennium_Copyright_Act)
+
 ## Links
 
 [Best Judgments of 2022](https://www.youtube.com/watch?v=zfEf53ghkV0)

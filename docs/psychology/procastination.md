@@ -22,13 +22,13 @@ One explanation for whyakrasiarules our lives and procrastination pulls us in ha
 
 ## The framework to beat procastination
 
-1. **Design your future action**
+### 1. Design your future action
 
-    A commitment device is a choice you make in the present that controls your actions in the future.It is a way to lock in future behavior, bind you to good habits, and restrict you from bad ones.
+A commitment device is a choice you make in the present that controls your actions in the future.It is a way to lock in future behavior, bind you to good habits, and restrict you from bad ones.
 
-2. **Reduce the friction of starting**
+### 2. Reduce the friction of starting
 
-3. **Utilize implementation intentions**
+### 3. Utilize implementation intentions
 
 <https://jamesclear.com/akrasia>
 
@@ -44,6 +44,8 @@ One explanation for whyakrasiarules our lives and procrastination pulls us in ha
 6. Reaffirmation
 
 [4 Proven Ways to Kick Your Procrastination Habit | Ayelet Fishbach | TED - YouTube](https://www.youtube.com/watch?v=tB5J9qgM2zI&ab_channel=TED) - Intrinsic motivation
+
+### [Stop Wasting your Time! | The Scientific Way | Dhruv Rathee - YouTube](https://www.youtube.com/watch?v=b8n-wpvBjrw)
 
 ## Links
 
