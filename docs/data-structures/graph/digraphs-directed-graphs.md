@@ -22,9 +22,13 @@
 1. Reachability - Find all vertices reachable from s along a directed path. (Use DFS)
 
 ![image](../../media/Digraphs-(Directed-Graphs)-image5.jpg)
+
 ![image](../../media/Digraphs-(Directed-Graphs)-image6.jpg)
+
 ![image](../../media/Digraphs-(Directed-Graphs)-image7.jpg)
+
 2. ![image](../../media/Digraphs-(Directed-Graphs)-image8.jpg)
+
 ![image](../../media/Digraphs-(Directed-Graphs)-image9.jpg)
 
 ## Edge-Weighted Graph API

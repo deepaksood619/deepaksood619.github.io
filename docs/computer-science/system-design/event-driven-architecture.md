@@ -55,6 +55,7 @@ CQRS is a fancy name for an architecture that uses different data models to repr
 At its heart is the notion that you can use a different model to update information than the model you use to read information.
 
 ![image](../../media/Event-driven-architecture-image1.jpg)
+
 Event-driven architecture (EDA) means constructing your system as a series of commands and/or events. A user submits an online form to make a purchase: that's a command. The items in stock are reserved: that's an event. A confirmation is sent to the user: that's an event. The concept is very simple. Everything in our system is either a command or an event. Commands lead to events and events may lead to new commands and so on.
 
 ## Event Sourcing is a style of application design where state changes are logged as a time-ordered sequence of records

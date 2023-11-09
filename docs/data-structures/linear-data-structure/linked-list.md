@@ -31,6 +31,7 @@ Intrusive linked lists are a variation of [linked lists](https://www.data-struct
 In a typical linked list implementation, a list node contains adatapointer to the linked data and anextpointer to the next node in the list.
 
 ![image](../../media/Linked-List-image2.jpg)
+
 In an intrusive linked list implementation, the list node containsnextpointer to the next list node, but nodatapointer because the list is embedded in the linked object itself.
 
 ![image](../../media/Linked-List-image3.jpg)

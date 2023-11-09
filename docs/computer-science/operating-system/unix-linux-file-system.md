@@ -210,7 +210,9 @@ The write permission gives you the authority to modify the contents of a file. T
 In Windows, an executable program usually has an extension ".exe" and which you can easily run. In Unix/Linux, you cannot run a program unless the execute permission is set. If the execute permission is not set, you might still be able to see/modify the program code (provided read & write permissions are set), but not run it.
 
 ![image](../../media/Unix-Linux-File-System-image1.jpg)
+
 ![image](../../media/Unix-Linux-File-System-image2.jpg)
+
 r= read permission
 
 w= write permission

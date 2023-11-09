@@ -13,6 +13,7 @@ In [object-oriented programming](https://en.wikipedia.org/wiki/Object-oriented_p
 ## Adding Ingredients: Second Try
 
 ![image](../../media/Structural-Decorator-image3.jpg)
+
 What we want:
 
 - Adding a new ingredient like soy milk should not modify the original beverage classes

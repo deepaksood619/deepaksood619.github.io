@@ -15,6 +15,7 @@ Many luxury cars today come with a valet key. It is a special key you give the p
 ## Workflow of OAuth 2.0
 
 ![image](../../../media/Authentication_OAuth-image2.jpg)
+
 Throughout this workflow OAuth 2.0 serves as an authorization framework, the actual authentication of user occurs through OpenID Connect, through the use of ID tokens that are passed along with the access token.
 
 ## 4 Grant Types

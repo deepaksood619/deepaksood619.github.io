@@ -5,7 +5,9 @@ Two quantities are in the**golden ratio** if their [ratio](https://en.wikipedia.
 ![image](../../media/Golden-Ratio-phi-image1.jpg)
 
 where the Greek letter [phi](https://en.wikipedia.org/wiki/Phi_(letter))(ϕorφ) represents the golden ratio. It is an [irrational number](https://en.wikipedia.org/wiki/Irrational_number) with a value of:
+
 ![image](../../media/Golden-Ratio-phi-image2.jpg)
+
 The Geometric Relationship -
 
 ![image](../../media/Golden-Ratio-phi-image3.jpg)

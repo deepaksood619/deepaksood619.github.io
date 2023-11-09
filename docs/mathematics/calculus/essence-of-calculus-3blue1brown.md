@@ -30,49 +30,74 @@
 - Implicit differentiation
 - Integral and derivatives are opposite
 - Taylor series
+
 ![image](../../media/Essence-of-Calculus-3Blue1Brown-image1.jpg)
+
 ![image](../../media/Essence-of-Calculus-3Blue1Brown-image2.jpg)
+
 ![image](../../media/Essence-of-Calculus-3Blue1Brown-image3.jpg)
 
 2. **The paradox of the derivative**
 
 ![image](../../media/Essence-of-Calculus-3Blue1Brown-image4.jpg)
+
 ![image](../../media/Essence-of-Calculus-3Blue1Brown-image5.jpg)
+
 ![image](../../media/Essence-of-Calculus-3Blue1Brown-image6.jpg)
+
 ![image](../../media/Essence-of-Calculus-3Blue1Brown-image7.jpg)
+
 ![image](../../media/Essence-of-Calculus-3Blue1Brown-image8.jpg)
+
 ![image](../../media/Essence-of-Calculus-3Blue1Brown-image9.jpg)
+
 ![image](../../media/Essence-of-Calculus-3Blue1Brown-image10.jpg)
+
 ![image](../../media/Essence-of-Calculus-3Blue1Brown-image11.jpg)
+
 3. **Derivative formulas through geometry**
     - **The Power Rule**
 
 ![image](../../media/Essence-of-Calculus-3Blue1Brown-image12.jpg)
+
 ![image](../../media/Essence-of-Calculus-3Blue1Brown-image13.jpg)
+
 ![image](../../media/Essence-of-Calculus-3Blue1Brown-image14.jpg)
+
 ![image](../../media/Essence-of-Calculus-3Blue1Brown-image15.jpg)
+
 ![image](../../media/Essence-of-Calculus-3Blue1Brown-image16.jpg)
+
 ![image](../../media/Essence-of-Calculus-3Blue1Brown-image17.jpg)
+
 4. **Visualizing the chain rule and product rule**
 
     1. **Sum Rule**
 
 ![image](../../media/Essence-of-Calculus-3Blue1Brown-image18.jpg)
+
 ![image](../../media/Essence-of-Calculus-3Blue1Brown-image19.jpg)
+
 ![image](../../media/Essence-of-Calculus-3Blue1Brown-image20.jpg)
+
 2. **Product Rule**
 
 ![image](../../media/Essence-of-Calculus-3Blue1Brown-image21.jpg)
 ![image](../../media/Essence-of-Calculus-3Blue1Brown-image22.jpg)
 ![image](../../media/Essence-of-Calculus-3Blue1Brown-image23.jpg)
+
 3. **Function composition / Chain Rule**
 
 ![image](../../media/Essence-of-Calculus-3Blue1Brown-image24.jpg)
+
 ![image](../../media/Essence-of-Calculus-3Blue1Brown-image25.jpg)
+
 ![image](../../media/Essence-of-Calculus-3Blue1Brown-image26.jpg)
+
 5. **Derivatives of exponentials**
 
 ![image](../../media/Essence-of-Calculus-3Blue1Brown-image27.jpg)
+
 For smaller and smaller choices of dt value 2^0.000001^ -1 / 0.000001 approaches a specific number. Unlike other functions all the values of dt is separate from the value of t itself
 
 ![image](../../media/Essence-of-Calculus-3Blue1Brown-image28.jpg)
@@ -84,6 +109,7 @@ For smaller and smaller choices of dt value 2^0.000001^ -1 / 0.000001 approaches
 ![image](../../media/Essence-of-Calculus-3Blue1Brown-image34.jpg)
 ![image](../../media/Essence-of-Calculus-3Blue1Brown-image35.jpg)
 ![image](../../media/Essence-of-Calculus-3Blue1Brown-image36.jpg)
+
 We write some contant times t, as e to some constants time t, because rate of change of some thing (like population) is dependent on the size of that thing (i.e. the size of population). Other example, if we put a cup of water in a cool room, the rate at which water cools is proportional to difference in temperature of room and water, or otherwise **the rate at which that difference changes is proportional to itself.** If we invest our money the amount of interest depends on the amount of money invested.
 6. **Implicit differentiation, what going on here?**
 
@@ -111,6 +137,7 @@ We write some contant times t, as e to some constants time t, because rate of ch
 ![image](../../media/Essence-of-Calculus-3Blue1Brown-image51.jpg)
 ![image](../../media/Essence-of-Calculus-3Blue1Brown-image52.jpg)
 ![image](../../media/Essence-of-Calculus-3Blue1Brown-image53.jpg)
+
 8. **Integration and the fundamental theorem of calculus**
 
 ![image](../../media/Essence-of-Calculus-3Blue1Brown-image54.jpg)
@@ -120,12 +147,14 @@ We write some contant times t, as e to some constants time t, because rate of ch
 ![image](../../media/Essence-of-Calculus-3Blue1Brown-image58.jpg)
 ![image](../../media/Essence-of-Calculus-3Blue1Brown-image59.jpg)
 ![image](../../media/Essence-of-Calculus-3Blue1Brown-image60.jpg)
+
 9. **What does area have to do with slope?**
 
 ![image](../../media/Essence-of-Calculus-3Blue1Brown-image61.jpg)
 ![image](../../media/Essence-of-Calculus-3Blue1Brown-image62.jpg)
 ![image](../../media/Essence-of-Calculus-3Blue1Brown-image63.jpg)
 ![image](../../media/Essence-of-Calculus-3Blue1Brown-image64.jpg)
+
 Finding the average of a continuous thing.
 ![image](../../media/Essence-of-Calculus-3Blue1Brown-image65.jpg)
 ![image](../../media/Essence-of-Calculus-3Blue1Brown-image66.jpg)
@@ -136,11 +165,13 @@ Finding the average of a continuous thing.
 ![image](../../media/Essence-of-Calculus-3Blue1Brown-image71.jpg)
 ![image](../../media/Essence-of-Calculus-3Blue1Brown-image72.jpg)
 ![image](../../media/Essence-of-Calculus-3Blue1Brown-image73.jpg)
+
 10. **Higher order derivatives**
 
 ![image](../../media/Essence-of-Calculus-3Blue1Brown-image74.jpg)
 ![image](../../media/Essence-of-Calculus-3Blue1Brown-image75.jpg)
 ![image](../../media/Essence-of-Calculus-3Blue1Brown-image76.jpg)
+
 11. **Taylor series**
     - **Powerful tool for approximating functions**
     - **Taking non-polynomial functions, and finding polynomials that approximate them near some input. Polynomials are much easier to deal with than other functions**
@@ -173,4 +204,5 @@ Finding the average of a continuous thing.
 ## References
 
 [Essence of calculus](https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr)
+
 ![image](../../media/Essence-of-Calculus-3Blue1Brown-image89.jpg)

@@ -148,8 +148,11 @@ Adhering to an ABI (which may or may not be officially standardized) is usually 
 ## ELF (Executable and Linkable Format)
 
 In [computing](https://en.wikipedia.org/wiki/Computing), theExecutable and Linkable Format(ELF, formerly namedExtensible Linking Format), is a common standard [file format](https://en.wikipedia.org/wiki/File_format) for [executable](https://en.wikipedia.org/wiki/Executable) files, [object code](https://en.wikipedia.org/wiki/Object_code), [shared libraries](https://en.wikipedia.org/wiki/Library_(computing)), and [core dumps](https://en.wikipedia.org/wiki/Core_dump). First published in the specification for the [application binary interface](https://en.wikipedia.org/wiki/Application_binary_interface)(ABI) of the [Unix](https://en.wikipedia.org/wiki/Unix) operating system version named [System V Release 4](https://en.wikipedia.org/wiki/System_V_Release_4) (SVR4), and later in the Tool Interface Standard, it was quickly accepted among different vendors of [Unix](https://en.wikipedia.org/wiki/Unix) systems. In 1999, it was chosen as the standard binary file format for Unix and [Unix-like](https://en.wikipedia.org/wiki/Unix-like) systems on [x86](https://en.wikipedia.org/wiki/X86) processors by the [86open](https://en.wikipedia.org/wiki/Executable_and_Linkable_Format#86open) project.
+
 By design, the ELF format is flexible, extensible, and [cross-platform](https://en.wikipedia.org/wiki/Cross-platform). For instance it supports different endiannesses and address sizes so it does not exclude any particular [central processing unit](https://en.wikipedia.org/wiki/Central_processing_unit) (CPU) or [instruction set architecture](https://en.wikipedia.org/wiki/Instruction_set_architecture). This has allowed it to be adopted by many different [operating systems](https://en.wikipedia.org/wiki/Operating_system) on many different hardware [platforms](https://en.wikipedia.org/wiki/Computing_platform)
+
 ELF is used as standard file format for object files on Linux. Prior to this, the a.out file format was being used as a standard but lately ELF took over the charge as a standard.
+
 ELF supports :
 
 - Different processors
@@ -165,6 +168,7 @@ Each ELF file is made up of one ELF header, followed by file data. The data can 
 - Data referred to by entries in the program header table or section header table
 
 ![image](../../media/Basic-Computer-Organization-image11.jpg)
+
 <https://en.wikipedia.org/wiki/Executable_and_Linkable_Format>
 
 <https://www.thegeekstuff.com/2012/07/elf-object-file-format>
@@ -178,10 +182,15 @@ Thevon Neumann architecture - also known as thevon Neumann modelorPrinceton arch
 - [Memory](https://en.wikipedia.org/wiki/Computer_memory) that stores [data](https://en.wikipedia.org/wiki/Data_(computing)) and [instructions](https://en.wikipedia.org/wiki/Instruction_set)
 - External [mass storage](https://en.wikipedia.org/wiki/Mass_storage)
 - [Input and output](https://en.wikipedia.org/wiki/Input_and_output) mechanisms
+
 ![image](../../media/Basic-Computer-Organization-image12.jpg)
+
 The term "von Neumann architecture" has evolved to mean any [stored-program computer](https://en.wikipedia.org/wiki/Stored-program_computer) in which an [instruction fetch](https://en.wikipedia.org/wiki/Instruction_fetch) and a data operation cannot occur at the same time because they share a common [bus](https://en.wikipedia.org/wiki/Bus_(computing)). This is referred to as the [von Neumann bottleneck](https://en.wikipedia.org/wiki/Von_Neumann_architecture#Von_Neumann_bottleneck), and often limits the performance of the system.
+
 The design of a von Neumann architecture machine is simpler than a [Harvard architecture](https://en.wikipedia.org/wiki/Harvard_architecture) machine - which is also a stored-program system but has one dedicated set of address and data buses for reading and writing to memory, and another set of address and [data buses](https://en.wikipedia.org/wiki/Memory_bus) to fetch [instructions](https://en.wikipedia.org/wiki/Instruction_fetch).
+
 A stored-program digital computer keeps both [program instructions](https://en.wikipedia.org/wiki/Computer_program) and data in [read--write](https://en.wikipedia.org/wiki/Read%E2%80%93write_memory), [random-access memory](https://en.wikipedia.org/wiki/Random-access_memory)(RAM). Stored-program computers were an advancement over the program-controlled computers of the 1940s, such as the [Colossus](https://en.wikipedia.org/wiki/Colossus_computer) and the [ENIAC](https://en.wikipedia.org/wiki/ENIAC). Those were programmed by setting switches and inserting patch cables to route data and control signals between various functional units. The vast majority of modern computers use the same memory for both data and program instructions, but have [caches](https://en.wikipedia.org/wiki/CPU_cache) between the CPU and memory, and, for the caches closest to the CPU, have separate caches for instructions and data, so that most instruction and data fetches use separate buses ([split cache architecture](<https://en.wikipedia.org/wiki/Modified_Harvard_architecture#Split-cache_(or_almost-von-Neumann>) _architecture)).
+
 Historically there have been 2 types of Computers:
 
 1. **Fixed Program Computers --** Their function is very specific and they couldn't be programmed, e.g. Calculators.

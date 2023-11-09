@@ -48,9 +48,11 @@ Grid lines remain parallel and evenly spaced
 If you apply a rotation transformation followed by a shear transformation, the combined effect is a composition of both rotation and shear transformation
 
 ![image](../../media/3Blue1Brown-image5.jpg)
+
 In matrix multiplication, order matters
 
 ![image](../../media/3Blue1Brown-image6.jpg)
+
 But Matrix multiplication is associative i.e. (AB)C = A(BC)
 
 ## Three dimensional linear transformations
@@ -103,6 +105,7 @@ In Ax = v, when v happens to be the zero vector, null space gives all of the pos
 Matching coordinates, multiplying pair and adding them together.
 
 ![image](../../media/3Blue1Brown-image13.jpg)
+
 If we projected vector w onto the line that passes through the origin and the tip of vector v, multiplying the length of this projection, by the length of v, we have the dot product.
 ![image](../../media/3Blue1Brown-image14.jpg)
 ![image](../../media/3Blue1Brown-image15.jpg)- If vectors are pointing in the same direction, then the dot product is positive
@@ -115,9 +118,11 @@ If we projected vector w onto the line that passes through the origin and the ti
 ## Cross Products
 
 ![image](../../media/3Blue1Brown-image16.jpg)
+
 If v is to the right of w, than cross product is positive
 
 ![image](../../media/3Blue1Brown-image17.jpg)
+
 If v is to the left of w, than cross product is negative
 
 ![image](../../media/3Blue1Brown-image18.jpg)
@@ -127,6 +132,7 @@ If v is to the left of w, than cross product is negative
 - If we scale a vector by a factor of a, than area of parallelogram also scales up by a factor of a
 
 ![image](../../media/3Blue1Brown-image21.jpg)
+
 Cross product of two vectors is a vector that is the area of the parallelogram and is perpendicular to the parallelogram and in the direction of the thumb of the right hand rule.
 ![image](../../media/3Blue1Brown-image22.jpg)
 ![image](../../media/3Blue1Brown-image23.jpg)
@@ -169,6 +175,7 @@ Eigenvectors - the vectors that doesn't change its span after a transformation. 
 Ex - Rotation by 90 degrees
 
 ![image](../../media/3Blue1Brown-image36.jpg)
+
 Since there are no real numbers, therefore there are no eigenvectors for this transformation- A transformation can have a single eigenvalue with a lot of eigenvector
 
 Ex - Scaling by some scalar eg. 2, there is only one eigenvalue of 2, but all the vectors have that value.- Diagonal matrix - all values other than diagonal is 0

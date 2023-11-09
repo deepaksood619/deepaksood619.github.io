@@ -24,7 +24,9 @@ Creating associative Symbol table
 ![image](../../media/Ternary-Search-Tries-(TST)-image10.jpg)
 
 ![image](../../media/Ternary-Search-Tries-(TST)-image11.jpg)
+
 Very easy to speed up and saves a lot of data.
+
 ![image](../../media/Ternary-Search-Tries-(TST)-image12.jpg)
 
 ![image](../../media/Ternary-Search-Tries-(TST)-image13.jpg)

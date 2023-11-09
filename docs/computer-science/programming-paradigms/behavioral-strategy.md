@@ -11,6 +11,7 @@
 ![image](../../media/Behavioral-Strategy-image5.jpg)
 
 ![image](../../media/Behavioral-Strategy-image6.jpg)
+
 A strategy is a behavioral design pattern that defines a family of similar algorithms and places each of them in its own class, after which the algorithms can be interchanged right during the execution of the program.
 Pros:
 

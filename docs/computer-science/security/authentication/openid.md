@@ -15,6 +15,7 @@ To identify the user, the authenticator uses theid_token(not theaccess_token) fr
 <https://openid.net/specs/openid-connect-core-1_0.html>
 
 ![image](../../../media/Authentication_OpenID-image2.jpg)
+
 The normal process of generating these tokens is much the same as it is in [OAuth 2.0](https://oauth.net/2/):
 
 1. User hits the sign in button on the website,

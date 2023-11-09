@@ -41,6 +41,7 @@ Name/value binding is fixed once bound
 - Ex
 
 ![image](../../media/Functional-Programming-image1.jpg)
+
 Here map can use computers parallel programming capabilities and split the list in multiple lists and then perform parallel operation as opposed to for loop.
 
 Hence Map-Reduce, without Reduce.

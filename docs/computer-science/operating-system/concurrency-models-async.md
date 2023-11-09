@@ -3,6 +3,7 @@
 ## Single-threaded synchronous model
 
 ![image](../../media/Concurrency-Models-Async-image1.jpg)
+
 Each task is performed one at a time, with one finishing completely before another is started. And if the tasks are always performed in a definite order, the implementation of a later task can assume that all earlier tasks have finished without errors, with all their output available for use.
 
 ## Threaded model
