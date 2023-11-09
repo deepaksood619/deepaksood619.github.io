@@ -30,7 +30,7 @@ If we do nothing while we are feeling an emotion, there is no short- or long-ter
 
     Why hot is much hotter than we realize
 
-6. The problem of procastination and self-control
+6. The problem of procrastination and self-control
 
     Why we can't make ourselves do what we want to do
 

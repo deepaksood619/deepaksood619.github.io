@@ -84,7 +84,7 @@ Another can also be**punishing yourself for failure to act**. I knew someone onc
 
 1. The cue - It can be useful or harmful it's a routine, what we do in reaction to that cue matters.
 2. The routine - This is our zombie mode
-3. The reward - giving rewards for following routines can be helpful to avoid procastination
+3. The reward - giving rewards for following routines can be helpful to avoid procrastination
 4. The belief
 
 ## Process vs Product
@@ -150,7 +150,7 @@ Research has shown that this helps your subconscious to grapple with the tasks o
     4. The belief
 
 4. Always have reward if you follow habits
-5. Look for procastination cues
+5. Look for procrastination cues
 6. Keep a planar journal
 7. Create a task list before you go to sleep
 8. Eat your frogs first thing in the morning
@@ -272,7 +272,7 @@ Habits are an important tool, but they're just a tool. Like a hammer or a saw, t
 - [13 Things Mentally Strong People Don't Do](../book-summaries/13-things-mentally-strong-people-dont-do)
 - [The Seven Habits of Highly Effective People](../book-summaries/the-seven-habits-of-highly-effective-people)
 - [Atomic Habits](../book-summaries/atomic-habits)
-- [Procastination](procastination)
+- [Procrastination](psychology/procrastination.md)
 - [Habits | Quotes](knowledge/quotes-proverbs/habits.md)
 - [When are Minimal Habits Useful for Learning? - Scott H Young](https://www.scotthyoung.com/blog/2023/06/20/minimal-habits-learning/)
 - [10 Challenges, 90 Days SUCCESS BLUEPRINT for 2024! | Life Advice 2023 | Ankur Warikoo Hindi - YouTube](https://www.youtube.com/watch?v=6azp2ClkdCk)

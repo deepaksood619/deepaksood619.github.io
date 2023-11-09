@@ -98,9 +98,9 @@ Our actions don't match our intentions.
 
 ## I have an unlimited will power
 
-Should not waste it on fending out procastination except when absolutely necessary.
+Should not waste it on fending out procrastination except when absolutely necessary.
 
-Higher you go into studies more its important to take a hold on your procastination.
+Higher you go into studies more its important to take a hold on your procrastination.
 
 At first its really hard, but later we don't even think about it.
 

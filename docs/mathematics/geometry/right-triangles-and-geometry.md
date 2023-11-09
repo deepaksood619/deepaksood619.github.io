@@ -8,9 +8,11 @@
     - 30-60-90 triangle rule
 
 ![image](../../media/Right-Triangles-and-Geometry-image1.jpg)
+
 4. [Introduction to the trigonometric ratios](https://www.khanacademy.org/math/geometry/hs-geo-trig#hs-geo-trig-ratios-intro)
 
 ![image](../../media/Right-Triangles-and-Geometry-image2.jpg)
+
 Mnemonic - SOH CAH TOA
 
 Sine - Opposite / Hypotenuse
@@ -18,7 +20,9 @@ Sine - Opposite / Hypotenuse
 Cosine - Adjacent / Hypotenuse
 
 Tangent - Opposite / Adjacent
+
 ![image](../../media/Right-Triangles-and-Geometry-image3.jpg)
+
 5. [Solving for a side in a right triangle using the trigonometric ratios:](https://www.khanacademy.org/math/geometry/hs-geo-trig#hs-geo-solve-for-a-side)
 
 6. [Solving for an angle in a right triangle using the trigonometric ratios](https://www.khanacademy.org/math/geometry/hs-geo-trig#hs-geo-solve-for-an-angle)

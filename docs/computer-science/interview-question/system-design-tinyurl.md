@@ -108,7 +108,9 @@ Convert 43 bits to 7 characters long url
          - These all allotments of ranges is maintained by zookeeper
          - It guarantees that there are no collisions.
          - Also can add some random bits to increase security.
+
 ![image](../../media/System-Design-TinyURL-image3.jpg)
+
 Get requests can be cached using CDN
 [Paste bin system design | Software architecture for paste bin](https://www.youtube.com/watch?v=josjRSBqEBI)
 
@@ -163,7 +165,9 @@ User
 - name
 - created
 - metadata
+
 ![image](../../media/System-Design-TinyURL-image4.jpg)
+
 DKGS - Distributed Key Generation Service
 
 8 byte/8char

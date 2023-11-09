@@ -98,6 +98,9 @@
 - Practical Engineering
 - Just have a think
 - [Factory Monster - YouTube](https://www.youtube.com/@Factory_Monster)
+- [The Infographics Show - YouTube](https://www.youtube.com/@TheInfographicsShow)
+- [ZOE - YouTube](https://www.youtube.com/@joinZOE)
+- [The Engineering Mindset - YouTube](https://www.youtube.com/@EngineeringMindset)
 
 ### Future
 
@@ -149,7 +152,7 @@
 - Invest Aaj for Kal - Anant Ladha
 - Warrior Trading
 - P R Sundar
-- Wall street journal
+- The Wall Street Journal
 - Ankur Warikoo
 - Akshat Shrivastav
 - Pranjal Kamra

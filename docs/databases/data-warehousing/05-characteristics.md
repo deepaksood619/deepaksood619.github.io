@@ -21,6 +21,7 @@ A data warehouse is developed by integrating data from varied sources like a mai
 This integration helps in effective analysis of data. Consistency in naming conventions, attribute measures, encoding structure etc. have to be ensured. Consider the following example:
 
 ![image](../../media/Data-Warehousing_Characteristics-image1.jpg)
+
 In the above example, there are three different application labeled A, B and C. Information stored in these applications are Gender, Date, and Balance. However, each application's data is stored different way.
 
 - In Application A gender field store logical values like M or F

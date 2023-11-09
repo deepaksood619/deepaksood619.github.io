@@ -22,6 +22,7 @@ Intuition - If p is small, this means that the odds of seeing heads is small. Th
 nu
 
 ![image](../../../media/Intro-Syllabus_6.-Variance;-Conditioning-of-an-event;-Multiple-r.v.'s-image21.jpg)
+
 Because X is a bernoulli, for X=0, X^2^ = 0 and for X = 1, X^2^ = 1
 conditional mean or conditional expectation
 Expected value rule, remain true in the conditional model

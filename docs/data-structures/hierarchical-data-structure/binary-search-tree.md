@@ -31,6 +31,7 @@ Get: Return value corresponding to given key, or null if no such key
 Cost: Number of compares is equal to 1 + depth of node
 
 ![image](../../media/Binary-Search-Tree-image2.jpg)
+
 Put: Associate value with key
 
 Search for key, then two cases:
@@ -86,7 +87,9 @@ Find successor x of t
 Delete the minimum in t's right subtree
 
 Put x in t's spot
+
 ![image](../../media/Binary-Search-Tree-image4.jpg)
+
 Unsatisfactory solution - Not symmetric
 
 After a long random sequence of insert and delete operation, the height of tree becomes sqrt(N)

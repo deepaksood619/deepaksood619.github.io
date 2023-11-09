@@ -5,6 +5,7 @@ When a system writes data to cache, it must at some point write that data to the
 ## Write-through
 
 ![image](../../media/Caches-Caching-image1.jpg)
+
 write is done synchronously both to the cache and to the backing store. The significance here is not the order in which it happens or whether it happens in parallel. The significance is that I/O completion is only confirmed once the data has been written to both places.
 
 **Advantage:**

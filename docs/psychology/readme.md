@@ -3,7 +3,7 @@
 - [Learning](learning/readme.md)
 - [Soft Skills](soft-skills/readme.md)
 - [Habits](habits)
-- [Procastination](procastination)
+- [Procrastination](psychology/procrastination.md)
 - [Self Control / Will Power](self-control-will-power)
 - [Burnout](psychology/burnout.md)
 - [Self Awareness](self-awareness)

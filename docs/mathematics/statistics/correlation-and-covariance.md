@@ -43,12 +43,14 @@ Usually, in statistics, we measure four types of correlations:
 
 3. -1, Negative Correlation - Variables change in opposite directions
 ![image](../../media/Correlation-and-Covariance-image1.jpg)
+
 The performance of some algorithms can deteriorate if two or more variables are tightly related, called **multicollinearity**. An example is linear regression, where one of the offending correlated variables should be removed in order to improve the skill of the model. We can quantify the relationship between samples of two variables using a statistical method called Pearson's correlation coefficient, named for the developer of the method, Karl Pearson.
 
 ## Pearson r Correlation
 
 Pearsonrcorrelation is the most widely used correlation statistic to measure the degree of the relationship between linearly related variables. For example, in the stock market, if we want to measure how two stocks are related to each other, Pearsonrcorrelation is used to measure the degree of relationship between the two. The point-biserial correlation is conducted with the Pearson correlation formula except that one of the variables is dichotomous. The following formula is used to calculate the Pearsonrcorrelation:
 ![image](../../media/Correlation-and-Covariance-image2.jpg)
+
 r= Pearson r correlation coefficient
 
 N = number of observations
@@ -100,7 +102,8 @@ Spearman rank correlation is a non-parametric test that is used to measure the d
 
 The following formula is used to calculate the Spearman rank correlation:
 ![image](../../media/Correlation-and-Covariance-image4.jpg)
-ρ= Spearman rank correlation
+
+$1= Spearman rank correlation
 
 di= the difference between the ranks of corresponding variables
 
@@ -139,6 +142,7 @@ Covariance is a measure of the joint variability of two variables
 Covariance can take on values from -inf to +inf. This is the problem as it is very hard to put such numbers into perspective
 
 ![image](../../media/Correlation-and-Covariance-image5.jpg)
+
 Like the correlation, a positive covariance indicates that two variables move together, a zero covariance that there is no relationship between the two variables, and a negative covariance an indication that they move in opposite directions
 
 ## Correlation doesn't equal Causation

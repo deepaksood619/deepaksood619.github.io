@@ -4,7 +4,7 @@
 
 - We divided from fungi 650 million years ago
 - About 221 million and 210 million years ago
-- 6 million years ago relationship with apes ended
+- 6-7 million years ago relationship with apes ended
 - 2.8 million years ago genus of Homo emerged
 - 2 million years ago fire discovered
   - Fire started cooking; which turned food more nutritious; which helped develop our brains

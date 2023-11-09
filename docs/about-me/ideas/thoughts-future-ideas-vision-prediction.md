@@ -30,6 +30,21 @@ What is your sample size?
 
 [It’s Millet Time!](https://finshots.in/archive/its-millet-time/)
 
+## Top changes
+
+1. We will be capable of having (subject to no political barriers) Al-based near free doctors, lawyers and tutors for every citizen of the planet that will amplify our human professionals to improve accessibility and care.
+2. We could have more efficient sources of plant protein to replace animal protein and much better fertilizer.
+3. We could replace the majority of cars in most cities
+4. In 15 years we could have flying Mach 5 planes that get us from NYC to London in 90 minutes - on sustainable aviation fuel no less
+5. In 25 years there could be a billion bipedal robots (a million in 10 years). This would create a new industry larger than the current auto industry. From factory workers to farm workers and more, we could free humans from the bottom 50% of really undesirable jobs. You'd have yours, I'd have mine - and it'll totally change how we interact with the physical world.
+6. There could be a billion programmers all "programming" in natural language. The "craft" of coding would be commoditised and the entire field would be opened up to those without the classic CS degree. Just one of innumerable examples of how entire industries could be shaken up.
+7. A world where we can discover more resources than we consume in the next few decades.
+8. We could replace all coal plants by 2050. My bet is on fusion.
+9. Music and entertainment could be plentiful, and personalised. Content creation would be commoditized, but it is not going to change the celebrity-consumer relationship. That "phenomenon" would still exist as a different experience.
+10. Carbon emissions could be a smaller issue (though still an issue) if we get the will to find and scale better technologies for cement, steel, agriculture, transportation, power production, HVAC, etc. Most such efforts will fail but enough will succeed to solve the problem of carbon emissions in the critical areas.
+
+[Here are Vinod Khosla's 10 predictions for the coming decades](https://www.cnbctv18.com/technology/here-are-vinod-khosla-10-predictions-for-the-coming-decades-18240961.htm)
+
 ## Future
 
 - [news-problems](knowledge/others/news-problems.md)
