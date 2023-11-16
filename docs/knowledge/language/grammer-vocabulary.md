@@ -154,4 +154,5 @@ As a general rule, "has" is used in the third person singular ("he", "she", "it"
 - Iconoclastic - criticizing or attacking cherished beliefs or institutions.
 - Plenitude - abundance
 - Gordian knot - an extremely difficult or involved problem
-- polemicist - a person who engages in controversial debate.
+- polemicist - a person who engages in controversial debate
+- Anachronism - a thing belonging or appropriate to a period other than that in which it exists, especially a thing that is [conspicuously](https://www.google.com/search?sca_esv=582945116&rlz=1C5CHFA_enIN1084IN1084&sxsrf=AM9HkKmHuO9Satum_3m3H9eH-yuBQzK5Lw:1700143719194&q=conspicuously&si=ALGXSlasDpH6wngX24yaJ23IzSpEB_Og_s68q9GRjyJqhbrak9EYSWoHRAvJ0G9T-MZp9isSA3jsWbzF7iAKj2vvZsviz17ymOjXozDU6luQCtE10rl2Axc%3D&expnd=1) [old-fashioned](https://www.google.com/search?sca_esv=582945116&rlz=1C5CHFA_enIN1084IN1084&sxsrf=AM9HkKmHuO9Satum_3m3H9eH-yuBQzK5Lw:1700143719194&q=old-fashioned&si=ALGXSlasDpH6wngX24yaJ23IzSpEZu_rrx9un0vm-cGTdM-tMHGaf9ip1CJgxe2qyf-ON7GycKmFHjffOWll9aqvY6k7TfUKH97TBgjd6tehSbxqkiXURfA%3D&expnd=1).

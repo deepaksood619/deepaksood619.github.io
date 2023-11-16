@@ -69,6 +69,7 @@ The dividend discount model (DDM) is a quantitative method used for predicting t
 
 ## Time Value of Money (TVM)
 
+- Money is worth more today than in the future
 - Time value of money means that a sum of money is worth more now than the same sum of money in the future
 - This is because money can grow only through investing. An investment delayed is an opportunity lost
 - The formula for computing the time value of money considers the amount of money, its future value, the amount it can earn, and the time frame

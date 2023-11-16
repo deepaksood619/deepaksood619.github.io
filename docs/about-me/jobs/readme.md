@@ -11,18 +11,21 @@ Where you apply to a lot of jobs
 
 ## Platform
 
-- Job board - [The Pragmatic Engineer Test: 12 Questions on Engineering Culture - The Pragmatic Engineer](https://blog.pragmaticengineer.com/pragmatic-engineer-test/)
+- Hirist
 - <https://tophire.co/home?>
+- LinkedIn
+- [https://www.instahyre.com](https://www.instahyre.com/)
+- <https://welcome.turing.com>
+
+- Job board - [The Pragmatic Engineer Test: 12 Questions on Engineering Culture - The Pragmatic Engineer](https://blog.pragmaticengineer.com/pragmatic-engineer-test/)
+- Toptal
 - <https://cutshort.io/>
 - [Jobs in Crypto & Web3 Companies | Crypto Jobs List](https://cryptojobslist.com/)
-- **linkedin**
-- [**https://www.instahyre.com**](https://www.instahyre.com/)
 - **IIITD AlmaIIITD Alma MaterConnect**
 - AllRemote - skuad - allremote.jobs
 - <https://eazyhire.in>
 - <https://www.bigshyft.com/jobs>
 - Naukri
-- **Hirist (Stashfin uses this)**
 - <https://www.geektrust.in>
 - Stackoverflow
 - stanton chase - executive search
@@ -32,7 +35,6 @@ Where you apply to a lot of jobs
 - [www.computer.org/jobs](http://www.computer.org/jobs)
 - Triplebyte
 - GlassDoor
-- **<https://welcome.turing.com> (Turing)**
 - Wantedly
 - Upwork
 - Angel list

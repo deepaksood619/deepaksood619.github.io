@@ -1,8 +1,6 @@
 # Youtube / Podcasts / Magazine / Apps
 
-## Youtube Channels
-
-### Tech
+## Tech
 
 - PyCon
 - Linus Tech Tips
@@ -16,7 +14,7 @@
 - Infoq
 - Firebase / Google
 
-### Learning
+## Learning
 
 - The Royal Institution Lectures
 - Perimeter Institute for Theoretical Physics
@@ -36,6 +34,7 @@
 - Nat Geo
 - History - World History
 - PBS
+- PBS - Eons
 - ASAPScience
 - Documentaries
 - BBC Earth
@@ -97,16 +96,14 @@
 - Not what you think
 - Practical Engineering
 - Just have a think
-- [Factory Monster - YouTube](https://www.youtube.com/@Factory_Monster)
-- [The Infographics Show - YouTube](https://www.youtube.com/@TheInfographicsShow)
 - [ZOE - YouTube](https://www.youtube.com/@joinZOE)
 - [The Engineering Mindset - YouTube](https://www.youtube.com/@EngineeringMindset)
 
-### Future
+## Future
 
 - Cleo Abram
 
-### News
+## News
 
 - Top U.S. & World Headlines - Democracy Now
 - Finology Legal - Priya Jain
@@ -138,14 +135,14 @@
 - Labour Law Advisor
 - Ravish Kumar Official
 
-### Finance / Stocks / Personal finance
+## Finance / Stocks / Personal finance
 
 - Economics Explained
 - Epic economics - Economics explained essentials
 - A16z
 - ET Money / ETMoney
 - Shankar Nath
-- Zerodha online / Zerodha Varsity
+- Zerodha online / [Zerodha Varsity - YouTube](https://www.youtube.com/@varsitybyzerodha)
 - Mad money Jim Cramer - CNBC Television
 - CA Rachna Ranade
 - FreeFincal Pattu DIY Investing
@@ -159,24 +156,22 @@
 - The madras trailer
 - Motilal Oswal Asset Management
 - Shrehith S Karkera
+- [Aditya Saini - YouTube](https://www.youtube.com/@theadityasaini)
+- [Zing! By Zerodha - YouTube](https://www.youtube.com/@ZingByZerodha)
 
 ### Trading
 
 - Wall Street Week - Bloomberg Markets and Finance
 - Cramer's game plan
 
-### People
+## People
 
 - Kishore Mahbubani
 - Kevlin Henney
 - Nouriel robini
 - Dhruv Rathee
 
-### Product
-
-- Aditya saini
-
-### Others
+## Others
 
 - RM Transit
 - The School of life
@@ -233,14 +228,19 @@
 - [Stratzenblitz75](https://www.youtube.com/c/Stratzenblitz75/videos) Kerbal Space program videos with nice lessons on the science behind them (like orbital mechanics)
 - [Wendover Productions](https://www.youtube.com/user/Wendoverproductions)-- neat explanations of wide-ranging things, (including transportation logistics!)
 - Veritasium
+- [Institute of Human Anatomy - YouTube](https://www.youtube.com/@TheAnatomyLab)
 
-## Inventions and Building Stuff
+## Inventions and Building Stuff / Engineering
 
 - [Colin Furze](https://www.youtube.com/user/colinfurze)-- crazy, energetic, brilliant videos about building things like a home-made hoverbike, two story bicycle, giant mech robot suit.
 - [Simone Giertz](https://www.youtube.com/channel/UC3KEoMzNz8eYnwBC34RaKCQ)-- a super clever and witty engineer/builder, perhaps most famous for her DIY conversion of a Tesla model 3 into a badass mini pickup truck.
 - [Wintergatan](https://www.youtube.com/user/wintergatan2000)-- a hauntingly genius, gentle dude in Sweden who works on a beautiful "marble machine" musical instrument and so many other things. Awesome musician too!
 - [Mark Rober](https://www.youtube.com/user/onemeeeliondollars)(a former Nasa engineer who now makes really fun videos about his complicated and whimsical inventions -- best known for the "glitter bomb" anti-theft devices)
 - [Styropyro](https://www.youtube.com/user/styropyro)(guy who makes crazy powerful lasers, etc.)
+- [Strange Parts - YouTube](https://www.youtube.com/@StrangeParts)
+- [The Engineering Mindset - YouTube](https://www.youtube.com/@EngineeringMindset)
+    - - [Factory Monster - YouTube](https://www.youtube.com/@Factory_Monster)
+- [The Infographics Show - YouTube](https://www.youtube.com/@TheInfographicsShow)
 
 ## Video creation, 3D Animation and Youtubing Strategy
 
@@ -259,6 +259,8 @@
 - [Carykh](https://www.youtube.com/user/carykh)-- AI and building some interesting apps including the famous "size of the universe" interactive
 - [Sebastian Lague](https://www.youtube.com/user/Cercopithecan)-- The Bob Ross of coding, this young gentleman walks us peacefully through a fun series of iterative improvements on a variety of advanced programming projects.
 - [CodeParade](https://www.youtube.com/results?search_query=code+parade)-- great bits of coding, math, and graphics combined
+- [Databricks - YouTube](https://www.youtube.com/@Databricks)
+- [Advancing Analytics - YouTube](https://www.youtube.com/@AdvancingAnalytics)
 
 ## Math
 

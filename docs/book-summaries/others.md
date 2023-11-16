@@ -31,7 +31,7 @@
 - The Law of Sacrifice
 
 ### Attitude Is Everything by Jeff Keller
-  
+
 It’s like a friend who shares stories of everyday people achieving extraordinary things. Imagine meeting someone like J.K. Rowling, who faced rejection but kept a positive attitude, leading to the creation of Harry Potter. Or consider Thomas Edison, the inventor of the light bulb who faced numerous failures and setbacks while working on his invention. However, he maintained an unwavering positive attitude, famously saying ― I have not failed. I've just found 10,000 ways that won't work. This book unveils the power of optimism in everyday life. It's your tool to overcome obstacles, just as ordinary folks like you have, to accomplish remarkable feats.
 
 ## Links

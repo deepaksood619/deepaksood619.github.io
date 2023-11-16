@@ -46,7 +46,9 @@ A commitment device is a choice you make in the present that controls your actio
 [4 Proven Ways to Kick Your Procrastination Habit | Ayelet Fishbach | TED - YouTube](https://www.youtube.com/watch?v=tB5J9qgM2zI&ab_channel=TED) - Intrinsic motivation
 
 ### [Stop Wasting your Time! | The Scientific Way | Dhruv Rathee - YouTube](https://www.youtube.com/watch?v=b8n-wpvBjrw)
+
 #### Expectancy Theory
+
 - Expectancy - Effort - Can I hit my targets if I work hard
 - Instrumentality - Performance - Will hitting my targets lead to rewards?
 - Valence - Reward - Do I find the rewards desirable?
@@ -54,27 +56,32 @@ A commitment device is a choice you make in the present that controls your actio
 Expectancy theory formula - Motivational force (MF) = Expectancy x Instrumentality x Valence
 
 #### Need Theory
+
 1. Need for Achievement
 2. Need for Affiliation
 3. Need for Power
 
 #### Cumulative Prospect Theory
+
 1. Loss Aversion
 
 #### Hyperbolic discounting
 
 #### Temporal Motivation Theory
+
 1. Desirable reward
 2. Expectation to win
 3. Reward more than present status
 4. Immediate result
 
-Motivation = (Expectancy * value) / (1 + Impulsiveness * Delay)
+Motivation = (Expectancy *value) / (1 + Impulsiveness* Delay)
 
 #### Others
+
 1. Fear of failure
 
 #### Solution
+
 1. Know yourself
 2. Write why are you procrastinating
 3. Break into smaller steps for immediate rewards
