@@ -178,7 +178,10 @@ additional_dependencies: [black==20.8b1]>)
 ### Running pre-commit
 
 ```bash
-pre-commit install
+# pip install pre-commit
+brew install pre-commit
+
+# pre-commit install
 
 pre-commit run --all-files
 pre-commit autoupdate

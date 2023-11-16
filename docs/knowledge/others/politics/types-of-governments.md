@@ -10,6 +10,8 @@ turtles move slow, the government moves slower
 
 [Is Democracy Doomed? The Global Fight for Our Future | Timothy Snyder | TED - YouTube](https://www.youtube.com/watch?v=YY6LCOJbve8)
 
+I disapprove of what you say, but will defend to the death your right to say it.
+
 ### Oligarchy
 
 a small group of people having control of a country or organization.
@@ -54,7 +56,9 @@ the dominant social system in medieval Europe, in which the nobility held lands 
 
 ### Imperialism
 
-a policy of extending a country's power and influence through colonization, use of military force, or other means.
+A policy of extending a country's power and influence through colonization, use of military force, or other means.
+
+Imperialism is the highest form of capitalism
 
 ### Sectarianism
 

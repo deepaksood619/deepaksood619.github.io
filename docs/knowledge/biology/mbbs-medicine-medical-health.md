@@ -156,3 +156,5 @@ An Internist is a physician specialising in internal medicine, treating complex 
 ## Others
 
 [How to use the placebo effect to (actually) feel better - YouTube](https://www.youtube.com/watch?v=tefIopDJQBQ)
+
+[Hypnic jerk - Wikipedia](https://en.wikipedia.org/wiki/Hypnic_jerk)

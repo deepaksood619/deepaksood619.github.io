@@ -146,3 +146,4 @@ The variations in security techniques between layer 2 and sidechain solutions ar
 - [Ethereum at Hyperscale - Alex Gluchowski | Pragma Paris 2023 - YouTube](https://www.youtube.com/watch?v=Uh_FMZrVE0A)
 - [Top Crypto LAYER 2s to Keep An Eye On (Base, Linea, Mantle) - YouTube](https://www.youtube.com/watch?v=_vHyMkv-m1M)
 - [L2BEAT – The state of the layer two ecosystem](https://l2beat.com/scaling/summary)
+- [Exit games for EVM validiums: the return of Plasma](https://vitalik.ca/general/2023/11/14/neoplasma.html)

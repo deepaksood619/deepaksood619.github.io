@@ -53,43 +53,39 @@ Open two instance of same application - **open -n MQTT.fx.app**
 
 ## Setting up MAC
 
-1. **Add iterm2** - download from web, details below
-2. Install brew - command on official website
-3. Add zsh - details below
-4. **Add docker**
-5. ~~Add Anaconda~~
-6. ~~Irvue~~
-7. ~~Onenote~~
-8. Obsidian
-9. **VSCode**
+- **Add iterm2** - download from web, details below
+- Install brew - command on official website (/bin/bash -c "$(curl -fsSL <https://raw.githubusercontent.com/Homebrew/install/master/install.sh>)")
+- Add zsh - details below
+- **Add docker**
+- ~~Add Anaconda~~
+- ~~Irvue~~
+- ~~Onenote~~
+- Obsidian
+- **VSCode**
 
    Open the Command Palette(⇧⌘P) and type 'shell command' to find the Shell Command: Install 'code' command in PATH command.
 
    **Settings**
 
-   - Auto Save - afterDelay
-   - enablePreview - off
-   - terminal.integrated.scrollback - 100000
+  - Auto Save - afterDelay
+  - enablePreview - off
+  - terminal.integrated.scrollback - 100000
 
-10. **Google Drive for mac**
-11. bittorrent web
-12. ~~Popcorn~~
-13. **VLC** or [GitHub - iina/iina: The modern video player for macOS.](https://github.com/iina/iina)
-14. brew (/bin/bash -c "$(curl -fsSL <https://raw.githubusercontent.com/Homebrew/install/master/install.sh>)")
-15. ~~Anki Flash Cards~~ -
-16. ~~Anaconda navigator~~
-
-    [~~https://conda.anaconda.org/conda-forge/~~](https://conda.anaconda.org/conda-forge/)
-
-17. **Bombsquad**
-18. ~~Alfred~~
-19. [Raycast - Supercharged productivity](https://www.raycast.com/)
+- **Google Drive for mac**
+- ~~bittorrent web~~
+- ~~Popcorn~~
+- **VLC** or [GitHub - iina/iina: The modern video player for macOS.](https://github.com/iina/iina)
+- ~~Anki Flash Cards~~ -
+- ~~Anaconda navigator~~ - [~~https://conda.anaconda.org/conda-forge/~~](https://conda.anaconda.org/conda-forge/)
+- **Bombsquad**
+- ~~Alfred~~
+- [Raycast - Supercharged productivity](https://www.raycast.com/)
 
     1. [GitHub - raycast/extensions: Everything you need to extend Raycast.](https://github.com/raycast/extensions)
     2. [GitHub - raycast/script-commands: Script Commands let you tailor Raycast to your needs. Think of them as little productivity boosts throughout your day.](https://github.com/raycast/script-commands)
 
-20. **Android file transfer**
-21. Office
+- **Android file transfer**
+- Office
 
 ### Google chrome
 
@@ -242,13 +238,13 @@ Unchecking the "User interface sounds" doesn't disable all sound. But sliding th
 - install iterm2
 - oh-my-zsh
 
-   `sh -c "$(curl -fsSL <https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh>)"`
+   `sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"`
 
 - Theme powerlevel10k
 
    <https://gist.github.com/kevin-smets/8568070>
 
-   Command - `git clone <https://github.com/romkatv/powerlevel10k.git> $ZSH_CUSTOM/themes/powerlevel10k`
+   Command - `git clone https://github.com/romkatv/powerlevel10k.git $ZSH_CUSTOM/themes/powerlevel10k`
 
  `source ~/.zshrc` , // follow the instructions after that
 
@@ -279,7 +275,8 @@ Unchecking the "User interface sounds" doesn't disable all sound. But sliding th
 
 ```bash
 ZSH_THEME="powerlevel10k/powerlevel10k"
-plugins=(git osx docker docker-compose common-aliases zsh-autosuggestions)
+# plugins=(git osx docker docker-compose common-aliases zsh-autosuggestions)
+plugins=(git common-aliases zsh-autosuggestions)
 
 # source profile and aliases
 . ~/.bash_profile
@@ -343,7 +340,7 @@ alias rb32='openssl rand -base64 32'
 alias r32='openssl rand -hex 32'
 # base58 password doesn't contain 0OIl to avoid confusion
 
-alias sf='cd ~/Repositories/stashfin/'
+# alias sf='cd ~/Repositories/stashfin/'
 
 alias python=/usr/local/bin/python3.7
 alias pip=/usr/local/bin/pip3
@@ -379,9 +376,9 @@ brew services cleanup # Remove all unused services
 ```bash
 defaults write com.apple.screencapture type JPG
 
-defaults write com.apple.screencapture type PNG
+# defaults write com.apple.screencapture type PNG
 
-defaults write com.apple.screencapture location "$HOME/Screenshots"
+# defaults write com.apple.screencapture location "$HOME/Screenshots"
 defaults write com.apple.screencapture location "$HOME/Desktop"
 
 for f in "$@"

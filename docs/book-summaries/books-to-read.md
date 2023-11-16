@@ -127,6 +127,7 @@
 - The art of war
 - The book thief
 - The future of capitalism - paul collier
+- The God Delusion by Richard Dawkins
 - The Great Convergence: Asia, the West, and the Logic of One World by Kishore Mahbubani
 - The great gatsby
 - The milionaire next door: the surprising secrets of America's Wealthy - Thomas Stanley
@@ -145,6 +146,7 @@
 - Thinking in Systems - Donella H. Meadows
 - Upheaval: Turning Points for Nations in Crisis - Jared Diamond
 - Wait but why?
+- War is peace by George Orwell
 - Way of the Peaceful Warrior: A Book That Changes Lives - Dan Millman
 - What Extraordinary People Think: How to Cut The Busy B.S. and Life Your Kickass Life
 - When Genius Failed: The Rise and Fall of Long-Term Capital Management Paperback by Roger Lowenstein

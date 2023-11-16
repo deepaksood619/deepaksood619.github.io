@@ -96,6 +96,8 @@ It's hard to grow beyond something if you won't let go of it.
 
 If you want to make something happen then don't wait it to happen, make it happen.
 
+We do this not because it is easy, but because we thought it would be easy
+
 Antifragile: Things That Gain from Disorder by Nassim Nicholas Taleb
 
 ### Antifragile

@@ -21,6 +21,7 @@ Donor - finds a person and donate the required item or buy for him/her
 - Charitable organization, where donates can be directly facilitate study of some kid, directly interact with him/her (Full transparency)
 - Wikipedia (Gave Rs. 1000 on 29 July 2020)
 - mossy.earth
+- Savitri computer
 
 [The life you can save](../../book-summaries/the-life-you-can-save)
 

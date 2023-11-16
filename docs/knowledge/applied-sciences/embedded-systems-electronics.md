@@ -117,6 +117,14 @@ The usual way to mitigate this is to have the interrupt controller set a special
 
 ![image](../../media/Embedded-Systems-Electronics-image2.jpg)
 
+## IGBT
+
+IGBT stands for **insulated-gate bipolar transistor**. It is a three-terminal power semiconductor device that acts as an electronic switch. IGBTs are suitable for high-voltage, high-current applications.
+
+IGBTs are a hybrid of MOSFETs and bipolar transistors. They combine a control input with a MOS structure and a bipolar power transistor that acts as an output switch. IGBTs are of two types, N-channel and P-channel.
+
+IGBTs were developed to combine high efficiency with fast switching. They are ubiquitously used in power electronic circuits for the control of power and energy. They enabled transition from analog power control using previous thyristor switches to digital power control with pulse width modulation.
+
 ## Others
 
 - <https://en.wikipedia.org/wiki/MISRA_C>
