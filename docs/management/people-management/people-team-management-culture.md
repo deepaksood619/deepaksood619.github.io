@@ -106,7 +106,7 @@ Accountability-- How has the firm handled disruptive colleagues? Are the most ta
 
 The fundamental principle of the situational leadership model is that there is **no single "best" style of leadership**. Effective leadership is task-relevant, and the most successful leaders are those who adapt their leadership style to theperformance readiness(ability and willingness) of the individual or group they are attempting to lead or influence. Effective leadership varies, not only with the person or group that is being influenced, but it also depends on the task, job, or function that needs to be accomplished
 
-<https://www.wikiwand.com/en/Situational_leadership_theory>
+<https://en.wikipedia.org/wiki/Situational_leadership_theory>
 
 - Depends on
   - Skill

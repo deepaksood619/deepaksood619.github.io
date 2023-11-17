@@ -18,7 +18,6 @@ Where you apply to a lot of jobs
 - <https://welcome.turing.com>
 
 - Job board - [The Pragmatic Engineer Test: 12 Questions on Engineering Culture - The Pragmatic Engineer](https://blog.pragmaticengineer.com/pragmatic-engineer-test/)
-- Toptal
 - <https://cutshort.io/>
 - [Jobs in Crypto & Web3 Companies | Crypto Jobs List](https://cryptojobslist.com/)
 - **IIITD AlmaIIITD Alma MaterConnect**
@@ -54,6 +53,9 @@ Where you apply to a lot of jobs
 
 ### Remote Job Sites
 
+- **Andela**
+- **Uplers**
+- **Toptal**
 - FlexJobs
 - We Work Remotely
 - Remote Okay

@@ -40,7 +40,7 @@ PECLis a repository for PHP Extensions, providing a directory of all known exten
 
 The packaging and distribution system used by PECL is shared with its sister,PEAR.
 
-The**PHP Extension and Application Repository**, or**PEAR,** is a repository of [PHP](https://www.wikiwand.com/en/PHP) software code.
+The**PHP Extension and Application Repository**, or**PEAR,** is a repository of [PHP](https://en.wikipedia.org/wiki/PHP) software code.
 
 ## Commands
 

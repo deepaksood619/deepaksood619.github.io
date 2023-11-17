@@ -33,6 +33,8 @@ Dimension tables describe business entities - thethingsyou model. Entities can i
 
 ## Fact table vs Dimension table
 
+Dimensions will be something used in a GROUP BY in analytics, whereas facts will usually be aggregated when doing analytics by things like SUM, AVG, and COUNT.
+
 ![image](../../media/Data-Warehousing_Concepts-image2.jpg)
 
 | **Fact Table** | **Dimension Table** |

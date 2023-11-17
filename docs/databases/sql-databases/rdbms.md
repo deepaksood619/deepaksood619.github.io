@@ -63,7 +63,7 @@ SQL Server Reporting Services (SSRS) provides a set of on-premises tools and ser
 
 ## Codd's 12 rules
 
-Codd's twelve rulesare a set of thirteen rules ([numbered zero to twelve](https://www.wikiwand.com/en/Zero-based_numbering)) proposed by [Edgar F. Codd](https://www.wikiwand.com/en/Edgar_F._Codd), a pioneer of the [relational model](https://www.wikiwand.com/en/Relational_model) for [databases](https://www.wikiwand.com/en/Database), designed to define what is required from a [database management system](https://www.wikiwand.com/en/Database_management_system) in order for it to be considered relational, i.e., a [relational database management system](https://www.wikiwand.com/en/Relational_database_management_system)(RDBMS).They are sometimes jokingly referred to as "Codd's Twelve Commandments".
+Codd's twelve rulesare a set of thirteen rules ([numbered zero to twelve](https://en.wikipedia.org/wiki/Zero-based_numbering)) proposed by [Edgar F. Codd](https://en.wikipedia.org/wiki/Edgar_F._Codd), a pioneer of the [relational model](https://en.wikipedia.org/wiki/Relational_model) for [databases](https://en.wikipedia.org/wiki/Database), designed to define what is required from a [database management system](https://en.wikipedia.org/wiki/Database_management_system) in order for it to be considered relational, i.e., a [relational database management system](https://en.wikipedia.org/wiki/Relational_database_management_system)(RDBMS).They are sometimes jokingly referred to as "Codd's Twelve Commandments".
 
 - Rule 0: The foundation rule
 - Rule 1: The information rule
@@ -79,4 +79,4 @@ Codd's twelve rulesare a set of thirteen rules ([numbered zero to twelve](https:
 - Rule 11: Distribution independence
 - Rule 12: The nonsubversion rule
 
-<https://www.wikiwand.com/en/Codd%27s_12_rules>
+<https://en.wikipedia.org/wiki/Codd%27s_12_rules>

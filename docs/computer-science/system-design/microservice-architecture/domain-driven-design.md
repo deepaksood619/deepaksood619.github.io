@@ -1,14 +1,14 @@
 # Domain Driven Design
 
-Domain-driven design(DDD) is the concept that the structure and language of software code (class names, class methods, class variables) should match the [business domain](https://www.wikiwand.com/en/Business_domain). For example, if a software processes loan applications, it might have classes such as LoanApplication and Customer, and methods such as AcceptOffer and Withdraw.
+Domain-driven design(DDD) is the concept that the structure and language of software code (class names, class methods, class variables) should match the [business domain](https://en.wikipedia.org/wiki/Business_domain). For example, if a software processes loan applications, it might have classes such as LoanApplication and Customer, and methods such as AcceptOffer and Withdraw.
 
-DDD connects the [implementation](https://www.wikiwand.com/en/Implementation) to an evolving model.
+DDD connects the [implementation](https://en.wikipedia.org/wiki/Implementation) to an evolving model.
 
 Domain-driven design is predicated on the following goals
 
-- placing the project's primary focus on the core [domain](https://www.wikiwand.com/en/Domain_(software_engineering)) and domain logic;
+- placing the project's primary focus on the core [domain](https://en.wikipedia.org/wiki/Domain_(software_engineering)) and domain logic;
 - basing complex designs on a model of the domain;
-- initiating a creative collaboration between technical and [domain experts](https://www.wikiwand.com/en/Domain_expert) to iteratively refine a conceptual model that addresses particular domain problems.
+- initiating a creative collaboration between technical and [domain experts](https://en.wikipedia.org/wiki/Domain_expert) to iteratively refine a conceptual model that addresses particular domain problems.
 
 Two synergic properties in software design
 
@@ -16,7 +16,7 @@ Two synergic properties in software design
 - Low coupling
 
 DDD is an approach to software development that tackles complex systems by mapping activities, tasks, events, and data from a business domain to software artifacts. One of the most important concepts of DDD is the *bounded context*, which is a cohesive and well-defined unit within the business model in which you define the boundaries of your software artifacts
-<https://www.wikiwand.com/en/Domain-driven_design>
+<https://en.wikipedia.org/wiki/Domain-driven_design>
 
 ## Financial System
 

@@ -2,7 +2,7 @@
 
 ## ESG - Environmental, social and corporate governance
 
-<https://www.wikiwand.com/en/Environmental,_social_and_corporate_governance>
+<https://en.wikipedia.org/wiki/Environmental,_social_and_corporate_governance>
 
 ## Balanced Funds
 

@@ -144,24 +144,24 @@ Insufficient logging and monitoring, coupled with missing or ineffective integra
 
 ## [**Threat Modeling**](https://cheatsheetseries.owasp.org/cheatsheets/Threat_Modeling_Cheat_Sheet.html)
 
-Threat modeling is a process by which potential threats, such as [structural vulnerabilities](https://www.wikiwand.com/en/Structural_vulnerability_(computing)) or the absence of appropriate safeguards, can be identified, enumerated, and mitigations can be prioritized. The purpose of threat modeling is to provide defenders with a systematic analysis of what controls or defenses need to be included, given the nature of the system, the probable attacker's profile, the most likely attack vectors, and the assets most desired by an attacker. Threat modeling answers questions like"Where am I most vulnerable to attack?","What are the most relevant threats?", and"What do I need to do to safeguard against these threats?".
+Threat modeling is a process by which potential threats, such as [structural vulnerabilities](https://en.wikipedia.org/wiki/Structural_vulnerability_(computing)) or the absence of appropriate safeguards, can be identified, enumerated, and mitigations can be prioritized. The purpose of threat modeling is to provide defenders with a systematic analysis of what controls or defenses need to be included, given the nature of the system, the probable attacker's profile, the most likely attack vectors, and the assets most desired by an attacker. Threat modeling answers questions like"Where am I most vulnerable to attack?","What are the most relevant threats?", and"What do I need to do to safeguard against these threats?".
 
 ### Threat modeling methodologies
 
 #### STRIDE
 
-STRIDE is a model of threats developed by Praerit Garg and [Loren Kohnfelder](https://www.wikiwand.com/en/Loren_Kohnfelder) at [Microsoft](https://www.wikiwand.com/en/Microsoft) for identifying [computer security](https://www.wikiwand.com/en/Computer_security)[threats](https://www.wikiwand.com/en/Threat_(computer)).It provides a [mnemonic](https://www.wikiwand.com/en/Mnemonic) for security threats in six categories.
+STRIDE is a model of threats developed by Praerit Garg and [Loren Kohnfelder](https://en.wikipedia.org/wiki/Loren_Kohnfelder) at [Microsoft](https://en.wikipedia.org/wiki/Microsoft) for identifying [computer security](https://en.wikipedia.org/wiki/Computer_security)[threats](https://en.wikipedia.org/wiki/Threat_(computer)).It provides a [mnemonic](https://en.wikipedia.org/wiki/Mnemonic) for security threats in six categories.
 
 The threats are:
 
-- [Spoofing](https://www.wikiwand.com/en/Spoofing_attack)
-- [Tampering](https://www.wikiwand.com/en/Tampering_(crime))
-- [Repudiation](https://www.wikiwand.com/en/Non-repudiation)
-- Information disclosure ([privacy breach](https://www.wikiwand.com/en/Data_privacy) or [data leak](https://www.wikiwand.com/en/Data_leak))
-- [Denial of service](https://www.wikiwand.com/en/Denial-of-service_attack)
-- [Elevation of privilege](https://www.wikiwand.com/en/Privilege_escalation)
+- [Spoofing](https://en.wikipedia.org/wiki/Spoofing_attack)
+- [Tampering](https://en.wikipedia.org/wiki/Tampering_(crime))
+- [Repudiation](https://en.wikipedia.org/wiki/Non-repudiation)
+- Information disclosure ([privacy breach](https://en.wikipedia.org/wiki/Data_privacy) or [data leak](https://en.wikipedia.org/wiki/Data_leak))
+- [Denial of service](https://en.wikipedia.org/wiki/Denial-of-service_attack)
+- [Elevation of privilege](https://en.wikipedia.org/wiki/Privilege_escalation)
 
-<https://www.wikiwand.com/en/STRIDE_(security)>
+<https://en.wikipedia.org/wiki/STRIDE_(security)>
 
 #### PASTA
 
@@ -169,7 +169,7 @@ Process for Attack Simulation and Threat Analysis (PASTA) is a seven-step, risk-
 
 #### Trike
 
-<https://www.wikiwand.com/en/Threat_model>- [Transaction Authorization](https://cheatsheetseries.owasp.org/cheatsheets/Transaction_Authorization_Cheat_Sheet.html)
+<https://en.wikipedia.org/wiki/Threat_model>- [Transaction Authorization](https://cheatsheetseries.owasp.org/cheatsheets/Transaction_Authorization_Cheat_Sheet.html)
 
 - [Transport Layer Protection](https://cheatsheetseries.owasp.org/cheatsheets/Transport_Layer_Protection_Cheat_Sheet.html)
 - [Unvalidated Redirects and Forwards](https://cheatsheetseries.owasp.org/cheatsheets/Unvalidated_Redirects_and_Forwards_Cheat_Sheet.html)
@@ -209,9 +209,9 @@ Vishing ("voice" and "phishing") involves phishing through phone calls. Of cours
 
 ## Kill Chain
 
-The term kill chain was originally used as a [military](https://www.wikiwand.com/en/Military) concept related to the structure of an [attack](https://www.wikiwand.com/en/Offensive_(military)); consisting of target identification, force dispatch to target, decision and order to attack the target, and finally the destruction of the target.Conversely, the idea of "breaking" an opponent's kill chain is a method of [defense](https://www.wikiwand.com/en/Defense_(military)) or preemptive action.More recently, [Lockheed Martin](https://www.wikiwand.com/en/Lockheed_Martin) adapted this concept to [information security](https://www.wikiwand.com/en/Information_security), using it as a method for modeling intrusions on a [computer network](https://www.wikiwand.com/en/Computer_network).The cyber kill chain model has seen some adoption in the information security community.However, acceptance is not universal, with critics pointing to what they believe are fundamental flaws in the model.
+The term kill chain was originally used as a [military](https://en.wikipedia.org/wiki/Military) concept related to the structure of an [attack](https://en.wikipedia.org/wiki/Offensive_(military)); consisting of target identification, force dispatch to target, decision and order to attack the target, and finally the destruction of the target.Conversely, the idea of "breaking" an opponent's kill chain is a method of [defense](https://en.wikipedia.org/wiki/Defense_(military)) or preemptive action.More recently, [Lockheed Martin](https://en.wikipedia.org/wiki/Lockheed_Martin) adapted this concept to [information security](https://en.wikipedia.org/wiki/Information_security), using it as a method for modeling intrusions on a [computer network](https://en.wikipedia.org/wiki/Computer_network).The cyber kill chain model has seen some adoption in the information security community.However, acceptance is not universal, with critics pointing to what they believe are fundamental flaws in the model.
 
-<https://www.wikiwand.com/en/Kill_chain>
+<https://en.wikipedia.org/wiki/Kill_chain>
 
 ## Tab Nabbing
 
