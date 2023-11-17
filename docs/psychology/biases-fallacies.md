@@ -28,7 +28,7 @@ We tend to see what is present, and overlook what isn't there. This can wreak ha
 
 <https://www.teachthought.com/critical-thinking/the-cognitive-bias-codex-a-visual-of-180-cognitive-biases>
 
-<https://www.wikiwand.com/en/List_of_cognitive_biases>
+<https://en.wikipedia.org/wiki/List_of_cognitive_biases>
 
 <https://en.wikipedia.org/wiki/Cognitive_bias>
 
@@ -216,13 +216,13 @@ Subjective validation, sometimes called personalvalidationeffect, is a cognitive
 
 It is the idea that things of an unpleasant nature, like bad news on the telly, for example, tend to stay with us more than something positive.
 
-The negativity bias, also known as the negativity effect, is the notion that, even when of equal intensity, things of a more negative nature (e.g. unpleasant thoughts, emotions, or social interactions; harmful/traumatic events) have a greater effect on one's psychological state and processes than neutral or positive things.In other words, something very positive will generally have less of an impact on a person's behavior and cognition than something equally emotional but negative. The negativity bias has been investigated within many different domains, including the [formation of impressions](https://www.wikiwand.com/en/Impression_formation) and general evaluations; attention, learning, and memory; and [decision-making](https://www.wikiwand.com/en/Decision-making) and risk considerations
+The negativity bias, also known as the negativity effect, is the notion that, even when of equal intensity, things of a more negative nature (e.g. unpleasant thoughts, emotions, or social interactions; harmful/traumatic events) have a greater effect on one's psychological state and processes than neutral or positive things.In other words, something very positive will generally have less of an impact on a person's behavior and cognition than something equally emotional but negative. The negativity bias has been investigated within many different domains, including the [formation of impressions](https://en.wikipedia.org/wiki/Impression_formation) and general evaluations; attention, learning, and memory; and [decision-making](https://en.wikipedia.org/wiki/Decision-making) and risk considerations
 
 - Negative messages stick: they embed themselves in our brains better than positive ones
 - Our brains are more notice, response to, and be influenced by negative things
 - Maybe a survival mechanism - Negative stimuli can be life threatning, so we evolved to focus on bad stuff
 
-<https://www.wikiwand.com/en/Negativity_bias>
+<https://en.wikipedia.org/wiki/Negativity_bias>
 
 ## Ostrich Effect
 

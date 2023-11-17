@@ -4,13 +4,13 @@
 
 ### Algebraic Notation
 
-<https://www.wikiwand.com/en/Algebraic_notation_(chess)>
+<https://en.wikipedia.org/wiki/Algebraic_notation_(chess)>
 
-- K for [king](https://www.wikiwand.com/en/King_(chess))
-- Q for [queen](https://www.wikiwand.com/en/Queen_(chess))
-- R for [rook](https://www.wikiwand.com/en/Rook_(chess))
-- B for [bishop](https://www.wikiwand.com/en/Bishop_(chess))
-- N for [knight](https://www.wikiwand.com/en/Knight_(chess))(since K is already used).
+- K for [king](https://en.wikipedia.org/wiki/King_(chess))
+- Q for [queen](https://en.wikipedia.org/wiki/Queen_(chess))
+- R for [rook](https://en.wikipedia.org/wiki/Rook_(chess))
+- B for [bishop](https://en.wikipedia.org/wiki/Bishop_(chess))
+- N for [knight](https://en.wikipedia.org/wiki/Knight_(chess))(since K is already used).
 
 ### Files
 
@@ -156,25 +156,25 @@ Making a threatening move towards your opponent even though you know it's bad, a
 
 ## Fast Chess
 
-**Fast chess** is a type of chess in which each player is given less time to consider their moves than normal tournament [time controls](https://www.wikiwand.com/en/Time_control) allow. Fast chess is further subdivided, by decreasing time controls, into [rapid chess](https://www.wikiwand.com/en/Fast_chess#Rapid), [blitz chess](https://www.wikiwand.com/en/Fast_chess#Blitz), and [bullet chess](https://www.wikiwand.com/en/Fast_chess#Bullet).[Armageddon chess](https://www.wikiwand.com/en/Fast_chess#Armageddon) is a particular variation in which different rules apply for each of the two players.
+**Fast chess** is a type of chess in which each player is given less time to consider their moves than normal tournament [time controls](https://en.wikipedia.org/wiki/Time_control) allow. Fast chess is further subdivided, by decreasing time controls, into [rapid chess](https://en.wikipedia.org/wiki/Fast_chess#Rapid), [blitz chess](https://en.wikipedia.org/wiki/Fast_chess#Blitz), and [bullet chess](https://en.wikipedia.org/wiki/Fast_chess#Bullet).[Armageddon chess](https://en.wikipedia.org/wiki/Fast_chess#Armageddon) is a particular variation in which different rules apply for each of the two players.
 
-<https://www.wikiwand.com/en/Fast_chess>
+<https://en.wikipedia.org/wiki/Fast_chess>
 
 **FIDE - World Chess Federation**
 
 ## ELO Rating System
 
-The Elo rating system is a method for calculating the relative skill levels of players in[zero-sum games](https://www.wikiwand.com/en/Zero-sum_game)such as [chess](https://www.wikiwand.com/en/Chess). It is named after its creator [Arpad Elo](https://www.wikiwand.com/en/Arpad_Elo), a Hungarian-American physics professor.
+The Elo rating system is a method for calculating the relative skill levels of players in[zero-sum games](https://en.wikipedia.org/wiki/Zero-sum_game)such as [chess](https://en.wikipedia.org/wiki/Chess). It is named after its creator [Arpad Elo](https://en.wikipedia.org/wiki/Arpad_Elo), a Hungarian-American physics professor.
 
-The Elo system was originally invented as an improved chess-rating system over the previously used [Harkness system](https://www.wikiwand.com/en/Harkness_rating_system), but is also used as a rating system for multiplayer competition in a number of [video games](https://www.wikiwand.com/en/Video_game), [association football](https://www.wikiwand.com/en/Association_football), [American football](https://www.wikiwand.com/en/American_football),[basketball](https://www.wikiwand.com/en/Basketball), [Major League Baseball](https://www.wikiwand.com/en/Major_League_Baseball), [table tennis](https://www.wikiwand.com/en/Table_tennis), [board games](https://www.wikiwand.com/en/Board_game) such as [Scrabble](https://www.wikiwand.com/en/Scrabble) and [Diplomacy](https://www.wikiwand.com/en/Diplomacy_(game)), and other games.
+The Elo system was originally invented as an improved chess-rating system over the previously used [Harkness system](https://en.wikipedia.org/wiki/Harkness_rating_system), but is also used as a rating system for multiplayer competition in a number of [video games](https://en.wikipedia.org/wiki/Video_game), [association football](https://en.wikipedia.org/wiki/Association_football), [American football](https://en.wikipedia.org/wiki/American_football),[basketball](https://en.wikipedia.org/wiki/Basketball), [Major League Baseball](https://en.wikipedia.org/wiki/Major_League_Baseball), [table tennis](https://en.wikipedia.org/wiki/Table_tennis), [board games](https://en.wikipedia.org/wiki/Board_game) such as [Scrabble](https://en.wikipedia.org/wiki/Scrabble) and [Diplomacy](https://en.wikipedia.org/wiki/Diplomacy_(game)), and other games.
 
 The difference in the ratings between two players serves as a predictor of the outcome of a match. Two players with equal ratings who play against each other are expected to score an equal number of wins. A player whose rating is 100 points greater than their opponent's is expected to score 64%; if the difference is 200 points, then the expected score for the stronger player is 76%.
 
-A player's Elo rating is represented by a number which may change depending on the outcome of rated games played. After every game, the winning player takes points from the losing one. The difference between the ratings of the winner and loser determines the total number of points gained or lost after a game. If the high-rated player wins, then only a few rating points will be taken from the low-rated player. However, if the lower-rated player scores an [upset win](https://www.wikiwand.com/en/Upset_(competition)), many rating points will be transferred. The lower-rated player will also gain a few points from the higher rated player in the event of a draw. This means that this rating system is self-correcting. Players whose ratings are too low or too high should, in the long run, do better or worse correspondingly than the rating system predicts and thus gain or lose rating points until the ratings reflect their true playing strength.
+A player's Elo rating is represented by a number which may change depending on the outcome of rated games played. After every game, the winning player takes points from the losing one. The difference between the ratings of the winner and loser determines the total number of points gained or lost after a game. If the high-rated player wins, then only a few rating points will be taken from the low-rated player. However, if the lower-rated player scores an [upset win](https://en.wikipedia.org/wiki/Upset_(competition)), many rating points will be transferred. The lower-rated player will also gain a few points from the higher rated player in the event of a draw. This means that this rating system is self-correcting. Players whose ratings are too low or too high should, in the long run, do better or worse correspondingly than the rating system predicts and thus gain or lose rating points until the ratings reflect their true playing strength.
 
 An Elo rating is a comparative rating only, and is valid only within the rating pool where it was established.
 
-<https://www.wikiwand.com/en/Elo_rating_system>
+<https://en.wikipedia.org/wiki/Elo_rating_system>
 
 ## Learning
 

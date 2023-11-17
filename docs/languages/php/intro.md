@@ -49,7 +49,7 @@ PHP has useful [text processing](https://www.php.net/manual/en/refs.basic.text.p
 
 ## PHAR - PHP Archive
 
-<https://www.wikiwand.com/en/PHAR_(file_format)>
+<https://en.wikipedia.org/wiki/PHAR_(file_format)>
 
 ## References
 

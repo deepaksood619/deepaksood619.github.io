@@ -420,21 +420,21 @@ Reasonable accommodation is a principle that promotes equality, enables the gran
 
 ## Systemic bias
 
-Systemic bias, also calledinstitutional bias, is the inherent tendency of a process to support particular outcomes. The term generally refers to human systems such as institutions; the equivalent bias in non-human systems (such as measurement instruments or [mathematical models](https://www.wikiwand.com/en/Computational_mechanics) used to estimate physical quantities) is often called [systematic bias](https://www.wikiwand.com/en/Systematic_bias), and leads to [systematic error](https://www.wikiwand.com/en/Systematic_error) in measurements or estimates. The issues of systemic bias are dealt with extensively in the field of [industrial organization](https://www.wikiwand.com/en/Industrial_organization) economics.
+Systemic bias, also calledinstitutional bias, is the inherent tendency of a process to support particular outcomes. The term generally refers to human systems such as institutions; the equivalent bias in non-human systems (such as measurement instruments or [mathematical models](https://en.wikipedia.org/wiki/Computational_mechanics) used to estimate physical quantities) is often called [systematic bias](https://en.wikipedia.org/wiki/Systematic_bias), and leads to [systematic error](https://en.wikipedia.org/wiki/Systematic_error) in measurements or estimates. The issues of systemic bias are dealt with extensively in the field of [industrial organization](https://en.wikipedia.org/wiki/Industrial_organization) economics.
 
 ## Human Capital Theory
 
-Human capitalis the stock of [habits](https://www.wikiwand.com/en/Habit), [knowledge](https://www.wikiwand.com/en/Knowledge), [social](https://www.wikiwand.com/en/Social) and [personality](https://www.wikiwand.com/en/Personality) attributes (including [creativity](https://www.wikiwand.com/en/Creativity)) embodied in the ability to perform labour so as to produce [economic value](https://www.wikiwand.com/en/Economic_value).
+Human capitalis the stock of [habits](https://en.wikipedia.org/wiki/Habit), [knowledge](https://en.wikipedia.org/wiki/Knowledge), [social](https://en.wikipedia.org/wiki/Social) and [personality](https://en.wikipedia.org/wiki/Personality) attributes (including [creativity](https://en.wikipedia.org/wiki/Creativity)) embodied in the ability to perform labour so as to produce [economic value](https://en.wikipedia.org/wiki/Economic_value).
 
 Human capital is unique and differs from any other capital. It is needed for companies to achieve goals, develop and remain innovative. Companies can invest in human capital for example through education and training enabling improved levels of quality and production.
 
-<https://www.wikiwand.com/en/Human_capital>
+<https://en.wikipedia.org/wiki/Human_capital>
 
 ## Hedonic Treadmill / Hedonic Adaptation
 
-The hedonic treadmill, also known as hedonic adaptation, is the observed tendency of [humans](https://www.wikiwand.com/en/Human) to quickly return to a relatively stable level of [happiness](https://www.wikiwand.com/en/Happiness) despite major positive or negative events or life changes. According to this theory, as a person makes more money, expectations and desires rise in tandem, which results in no permanent gain in happiness.
+The hedonic treadmill, also known as hedonic adaptation, is the observed tendency of [humans](https://en.wikipedia.org/wiki/Human) to quickly return to a relatively stable level of [happiness](https://en.wikipedia.org/wiki/Happiness) despite major positive or negative events or life changes. According to this theory, as a person makes more money, expectations and desires rise in tandem, which results in no permanent gain in happiness.
 
-<https://www.wikiwand.com/en/Hedonic_treadmill>
+<https://en.wikipedia.org/wiki/Hedonic_treadmill>
 
 <https://www.coglode.com/research/hedonic-adaptation>
 

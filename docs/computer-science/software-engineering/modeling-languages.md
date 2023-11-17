@@ -67,8 +67,8 @@ A Workflow is a series of decisions made by different people that determines wha
 
 ## SwimLane
 
-A swimlane (or swimlane diagram) is used in [process flow diagrams](https://www.wikiwand.com/en/Flowchart), or flowcharts, that visually distinguishes [job sharing](https://www.wikiwand.com/en/Job_sharing) and responsibilities for sub-processes of a [business process](https://www.wikiwand.com/en/Business_process). Swimlanes may be arranged either horizontally or vertically.
+A swimlane (or swimlane diagram) is used in [process flow diagrams](https://en.wikipedia.org/wiki/Flowchart), or flowcharts, that visually distinguishes [job sharing](https://en.wikipedia.org/wiki/Job_sharing) and responsibilities for sub-processes of a [business process](https://en.wikipedia.org/wiki/Business_process). Swimlanes may be arranged either horizontally or vertically.
 
 ![image](../../media/Software-Coding-Development-Engineering-image4.jpg)
 
-<https://www.wikiwand.com/en/Swim_lane>
+<https://en.wikipedia.org/wiki/Swim_lane>

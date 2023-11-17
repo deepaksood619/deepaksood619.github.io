@@ -91,7 +91,7 @@ Combined two important systems thinking models - the Iceberg Model and Pace Laye
 
 A systematic approach to estimating the strengths and weaknesses of alternatives that satisfy transactions, activities or functional requirements for a business." (related:[net present value](https://en.wikipedia.org/wiki/Net_present_value) - "a measurement of the profitability of an undertaking that is calculated by subtracting the present values of cash outflows (including initial cost) from the present values of cash inflows over a period of time.", [discount rate](https://en.wikipedia.org/wiki/Discount_rate))
 
-<https://www.wikiwand.com/en/Cost%E2%80%93benefit_analysis>
+<https://en.wikipedia.org/wiki/Cost%E2%80%93benefit_analysis>
 
 <https://www.investopedia.com/terms/c/cost-benefitanalysis.asp>
 

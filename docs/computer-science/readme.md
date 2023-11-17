@@ -101,11 +101,8 @@
     - [Object-oriented programming](https://en.wikipedia.org/wiki/Object-oriented_programming)
   - [Program semantics](https://en.wikipedia.org/wiki/Program_semantics)
   - [Type theory](https://en.wikipedia.org/wiki/Type_theory)
-- [Quantum computing](https://en.wikipedia.org/wiki/Quantum_computing)
-
-[The Map of Quantum Computing | Quantum Computers Explained](https://youtu.be/-UlxHPIEVqA)- [Software engineering](https://en.wikipedia.org/wiki/Software_engineering)
-    - [Formal methods](https://en.wikipedia.org/wiki/Formal_methods)([Formal verification](https://en.wikipedia.org/wiki/Formal_verification))
-
+- [Quantum computing](https://en.wikipedia.org/wiki/Quantum_computing) - [The Map of Quantum Computing | Quantum Computers Explained](https://youtu.be/-UlxHPIEVqA)- [Software engineering](https://en.wikipedia.org/wiki/Software_engineering)
+  - [Formal methods](https://en.wikipedia.org/wiki/Formal_methods)([Formal verification](https://en.wikipedia.org/wiki/Formal_verification))
 - [Theory of computation](https://en.wikipedia.org/wiki/Theory_of_computation)
   - [Automata theory](https://en.wikipedia.org/wiki/Automata_theory)([Formal languages](https://en.wikipedia.org/wiki/Formal_languages))
   - [Computability theory](https://en.wikipedia.org/wiki/Computability_theory_(computer_science))

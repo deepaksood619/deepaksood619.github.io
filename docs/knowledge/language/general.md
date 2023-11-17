@@ -6,11 +6,11 @@
 
 ## CEFR
 
-The Common European Framework of Reference for Languages: Learning, Teaching, Assessment, abbreviated in [English](https://www.wikiwand.com/en/English_language) as CEFR or CEF or CEFRL, is a guideline used to describe achievements of learners of foreign languages across [Europe](https://www.wikiwand.com/en/Europe) and, increasingly, in other countries. It was put together by the [Council of Europe](https://www.wikiwand.com/en/Council_of_Europe) as the main part of the project "Language Learning for European Citizenship" between 1989 and 1996. Its main aim is to provide a method of learning, teaching and assessing which applies to all [languages in Europe](https://www.wikiwand.com/en/Languages_of_Europe). In November 2001, a European Union Council Resolution recommended using the CEFR to set up systems of validation of language ability. The six reference levels (A1, A2, B1, B2, C1, C2) are becoming widely accepted as the European standard for grading an individual's [language proficiency](https://www.wikiwand.com/en/Language_proficiency).
+The Common European Framework of Reference for Languages: Learning, Teaching, Assessment, abbreviated in [English](https://en.wikipedia.org/wiki/English_language) as CEFR or CEF or CEFRL, is a guideline used to describe achievements of learners of foreign languages across [Europe](https://en.wikipedia.org/wiki/Europe) and, increasingly, in other countries. It was put together by the [Council of Europe](https://en.wikipedia.org/wiki/Council_of_Europe) as the main part of the project "Language Learning for European Citizenship" between 1989 and 1996. Its main aim is to provide a method of learning, teaching and assessing which applies to all [languages in Europe](https://en.wikipedia.org/wiki/Languages_of_Europe). In November 2001, a European Union Council Resolution recommended using the CEFR to set up systems of validation of language ability. The six reference levels (A1, A2, B1, B2, C1, C2) are becoming widely accepted as the European standard for grading an individual's [language proficiency](https://en.wikipedia.org/wiki/Language_proficiency).
 
 ![image](../../media/General-image2.jpg)
 
-<https://www.wikiwand.com/en/Common_European_Framework_of_Reference_for_Languages>
+<https://en.wikipedia.org/wiki/Common_European_Framework_of_Reference_for_Languages>
 
 ## Bibliography
 
