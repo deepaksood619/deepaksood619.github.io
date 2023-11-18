@@ -239,7 +239,7 @@
 - [Styropyro](https://www.youtube.com/user/styropyro)(guy who makes crazy powerful lasers, etc.)
 - [Strange Parts - YouTube](https://www.youtube.com/@StrangeParts)
 - [The Engineering Mindset - YouTube](https://www.youtube.com/@EngineeringMindset)
-    - - [Factory Monster - YouTube](https://www.youtube.com/@Factory_Monster)
+- [Factory Monster - YouTube](https://www.youtube.com/@Factory_Monster)
 - [The Infographics Show - YouTube](https://www.youtube.com/@TheInfographicsShow)
 
 ## Video creation, 3D Animation and Youtubing Strategy

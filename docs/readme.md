@@ -26,7 +26,7 @@ If this is your first time visiting this wiki, start from the outline below and 
   - [Frontend](frontend/readme.md)
   - [DevOps](devops/readme.md)
   - [Cloud - AWS](cloud/aws/readme.md)
-  - [Cloud Others](cloud/others/readme.md)
+  - [Cloud - Others](cloud/others/readme.md)
   - [Technologies](technologies/readme.md)
   - [Decentralized Applications / Cryptocurrencies](decentralized-applications/readme.md)
 - [Book Summaries](book-summaries/readme.md)

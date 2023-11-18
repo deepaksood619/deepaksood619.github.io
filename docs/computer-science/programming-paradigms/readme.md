@@ -22,4 +22,3 @@
 - [Concurrency - Reactor](concurrency-reactor)
 - [Architectural - MVVM](architectural-mvvm)
 - [Others](computer-science/programming-paradigms/others.md)
-- [References](references)

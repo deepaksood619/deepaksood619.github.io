@@ -22,7 +22,7 @@ Safety-critical elements are systems or components that are designed to prevent,
 
 ## Concurrent Engineering
 
-Concurrent engineering(**CE**) is a work methodology emphasizing the parallelisation of tasks (i.e. performing tasks concurrently), which is sometimes called **simultaneous engineering** or **integrated product development** (IPD) using an [integrated product team](https://en.wikipedia.org/wiki/Integrated_product_team) approach. It refers to an approach used in [product development](https://en.wikipedia.org/wiki/Product_development) in which functions of design engineering, manufacturing engineering, and other functions are integrated to reduce the time required to bring a new product to market
+Concurrent engineering (CE) is a work methodology emphasizing the parallelisation of tasks (i.e. performing tasks concurrently), which is sometimes called **simultaneous engineering** or **integrated product development** (IPD) using an [integrated product team](https://en.wikipedia.org/wiki/Integrated_product_team) approach. It refers to an approach used in [product development](https://en.wikipedia.org/wiki/Product_development) in which functions of design engineering, manufacturing engineering, and other functions are integrated to reduce the time required to bring a new product to market
 
 ## The Four Keys To Rapid Response Software Development
 
@@ -57,7 +57,9 @@ Here's the Action-Result method:
 
 - Action:Given the task at hand, how did you accomplish it? Once again, be clear and concise.
 - Result:This is the most important part of the A-R method. Here you'll want to describe using relevant metrics what your impact was from completing the task. This is how you communicate you are a high performer.
+
 An example:Launched Facebook Messenger from concept to launch, a way for users to message each other privately within the app, increasing D60 retention by 65% and user stickiness by 325%.
+
 Here, the applicant clearly describes what they did (launch Facebook Messenger), and the direct result from their action (increasing D60 retention and stickiness). It's important when you articulate your result that you use numbers - they help communicate their story with more impact and believability.
 
 ## Best Practices

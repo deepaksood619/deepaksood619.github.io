@@ -5,4 +5,3 @@
 - [Elementary Symbol Tables](elementary-symbol-tables)
 - [Mutable/Immutable Data Structure](mutable-immutable-data-structures)
 - [Endianness](endianness)
-- [Data](data-structures/general/data.md)

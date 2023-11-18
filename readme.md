@@ -39,27 +39,27 @@ loc
 
 ## Outline
 
-- About me
-- Computer Science
-  - AI
-  - Algorithms
-  - Data Structures
-  - Languages
-    - Python
-  - Networking
-  - Databases
-  - Frontend
-  - DevOps
-  - Cloud - AWS
-  - Cloud Others
-  - Technologies
-  - Decentralized Applications / Cryptocurrencies
-- Book Summaries
-- Mathematics
-- Knowledge
-  - Economics
-  - Management
-  - Psychology
+- [About me](https://deepaksood619.github.io/about-me/)
+- [Computer Science](https://deepaksood619.github.io/computer-science/)
+  - [AI](https://deepaksood619.github.io/ai/)
+  - [Algorithms](https://deepaksood619.github.io/algorithms/)
+  - [Data Structures](https://deepaksood619.github.io/data-structures/)
+  - [Languages](https://deepaksood619.github.io/languages/)
+    - [Python](https://deepaksood619.github.io/python/)
+  - [Networking](https://deepaksood619.github.io/networking/)
+  - [Databases](https://deepaksood619.github.io/databases/)
+  - [Frontend](https://deepaksood619.github.io/frontend/)
+  - [DevOps](https://deepaksood619.github.io/devops/)
+  - [Cloud - AWS](https://deepaksood619.github.io/cloud/aws/)
+  - [Cloud - Others](https://deepaksood619.github.io/cloud/others/)
+  - [Technologies](https://deepaksood619.github.io/technologies/)
+  - [Decentralized Applications / Cryptocurrencies](https://deepaksood619.github.io/decentralized-applications/)
+- [Book Summaries](https://deepaksood619.github.io/book-summaries/)
+- [Mathematics](https://deepaksood619.github.io/mathematics/)
+- [Knowledge](https://deepaksood619.github.io/knowledge/)
+  - [Economics](https://deepaksood619.github.io/economics/)
+  - [Management](https://deepaksood619.github.io/management/)
+  - [Psychology](https://deepaksood619.github.io/psychology/)
 
 ## Getting started
 
