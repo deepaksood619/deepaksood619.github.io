@@ -65,17 +65,3 @@ Translation (T9N)
 ![image](../../media/Others-image2-general.jpg)
 
 RAIL Model - <https://web.dev/rail>
-
-## Linear-feedback shift register (LSFR)
-
-In [computing](https://en.wikipedia.org/wiki/Computing), alinear-feedback shift register(LFSR) is a [shift register](https://en.wikipedia.org/wiki/Shift_register) whose input bit is a [linear function](https://en.wikipedia.org/wiki/Linear#Boolean_functions) of its previous state.
-
-The most commonly used linear function of single bits is [exclusive-or](https://en.wikipedia.org/wiki/Exclusive-or)(XOR). Thus, an LFSR is most often a shift register whose input bit is driven by the XOR of some bits of the overall shift register value.
-
-The initial value of the LFSR is called the seed, and because the operation of the register is deterministic, the stream of values produced by the register is completely determined by its current (or previous) state. Likewise, because the register has a finite number of possible states, it must eventually enter a repeating cycle. However, an LFSR with a [well-chosen feedback function](https://en.wikipedia.org/wiki/Primitive_polynomial_(field_theory)) can produce a sequence of bits that appears random and has a [very long cycle](https://en.wikipedia.org/wiki/Maximal_length_sequence).
-
-Applications of LFSRs include generating [pseudo-random numbers](https://en.wikipedia.org/wiki/Pseudorandomness), [pseudo-noise sequences](https://en.wikipedia.org/wiki/Pseudorandom_noise), fast digital counters, and [whitening sequences](https://en.wikipedia.org/wiki/Whitening_sequences). Both hardware and software implementations of LFSRs are common.
-
-The mathematics of a [cyclic redundancy check](https://en.wikipedia.org/wiki/Cyclic_redundancy_check), used to provide a quick check against transmission errors, are closely related to those of an LFSR.In general, the arithmetics behind LFSRs makes them very elegant as an object to study and implement. One can produce relatively complex logics with simple building blocks. However, other methods, that are less elegant but perform better, should be considered as well.
-
-<https://en.wikipedia.org/wiki/Linear-feedback_shift_register>

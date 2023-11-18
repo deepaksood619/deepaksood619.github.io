@@ -10,4 +10,3 @@
 - [Consensus Protocols](consensus-protocols)
 - [Clocks](clocks)
 - [Others](computer-science/distributed-system/others.md)
-- [Designing Distributed Systems](designing-distributed-systems)

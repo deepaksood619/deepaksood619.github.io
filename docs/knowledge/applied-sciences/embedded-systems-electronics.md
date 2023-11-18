@@ -1,12 +1,26 @@
 # Embedded Systems / Electronics
 
+## Linear-feedback shift register (LSFR)
+
+In [computing](https://en.wikipedia.org/wiki/Computing), a linear-feedback shift register (LFSR) is a [shift register](https://en.wikipedia.org/wiki/Shift_register) whose input bit is a [linear function](https://en.wikipedia.org/wiki/Linear#Boolean_functions) of its previous state.
+
+The most commonly used linear function of single bits is [exclusive-or](https://en.wikipedia.org/wiki/Exclusive-or)(XOR). Thus, an LFSR is most often a shift register whose input bit is driven by the XOR of some bits of the overall shift register value.
+
+The initial value of the LFSR is called the seed, and because the operation of the register is deterministic, the stream of values produced by the register is completely determined by its current (or previous) state. Likewise, because the register has a finite number of possible states, it must eventually enter a repeating cycle. However, an LFSR with a [well-chosen feedback function](https://en.wikipedia.org/wiki/Primitive_polynomial_(field_theory)) can produce a sequence of bits that appears random and has a [very long cycle](https://en.wikipedia.org/wiki/Maximal_length_sequence).
+
+Applications of LFSRs include generating [pseudo-random numbers](https://en.wikipedia.org/wiki/Pseudorandomness), [pseudo-noise sequences](https://en.wikipedia.org/wiki/Pseudorandom_noise), fast digital counters, and [whitening sequences](https://en.wikipedia.org/wiki/Whitening_sequences). Both hardware and software implementations of LFSRs are common.
+
+The mathematics of a [cyclic redundancy check](https://en.wikipedia.org/wiki/Cyclic_redundancy_check), used to provide a quick check against transmission errors, are closely related to those of an LFSR.In general, the arithmetics behind LFSRs makes them very elegant as an object to study and implement. One can produce relatively complex logics with simple building blocks. However, other methods, that are less elegant but perform better, should be considered as well.
+
+<https://en.wikipedia.org/wiki/Linear-feedback_shift_register>
+
 ## Network Processors
 
 A **network processor** is an [integrated circuit](https://en.wikipedia.org/wiki/Integrated_circuit) which has a feature set specifically targeted at the [networking](https://en.wikipedia.org/wiki/Computer_networking) application domain.
 
 Network processors are typically [software](https://en.wikipedia.org/wiki/Software) programmable devices and would have generic characteristics similar to general purpose [central processing units](https://en.wikipedia.org/wiki/Central_Processing_Unit) that are commonly used in many different types of equipment and products.
 
-## Functions
+### Functions
 
 In the generic role as a packet processor, a number of optimised features or functions are typically present in a network processor, these include:
 
@@ -33,7 +47,7 @@ Additionally, traffic management, which is a critical element in [L2](https://en
 
 ## Coprocessor
 
-Acoprocessoris a computer processor used to supplement the functions of the primary processor (the [CPU](https://en.wikipedia.org/wiki/Central_processing_unit)). Operations performed by the coprocessor may be [floating point](https://en.wikipedia.org/wiki/Floating_point) arithmetic, [graphics](https://en.wikipedia.org/wiki/Graphics), [signal processing](https://en.wikipedia.org/wiki/Signal_processing), [string processing](https://en.wikipedia.org/wiki/String_processing), [cryptography](https://en.wikipedia.org/wiki/Cryptographic_accelerator) or [I/O interfacing](https://en.wikipedia.org/wiki/Input/output#Interface) with peripheral devices. By offloading processor-intensive tasks from the [main processor](https://en.wikipedia.org/wiki/Central_processing_unit#main_processor), coprocessors can accelerate system performance. Coprocessors allow a line of computers to be customized, so that customers who do not need the extra performance do not need to pay for it.
+A coprocessor is a computer processor used to supplement the functions of the primary processor (the [CPU](https://en.wikipedia.org/wiki/Central_processing_unit)). Operations performed by the coprocessor may be [floating point](https://en.wikipedia.org/wiki/Floating_point) arithmetic, [graphics](https://en.wikipedia.org/wiki/Graphics), [signal processing](https://en.wikipedia.org/wiki/Signal_processing), [string processing](https://en.wikipedia.org/wiki/String_processing), [cryptography](https://en.wikipedia.org/wiki/Cryptographic_accelerator) or [I/O interfacing](https://en.wikipedia.org/wiki/Input/output#Interface) with peripheral devices. By offloading processor-intensive tasks from the [main processor](https://en.wikipedia.org/wiki/Central_processing_unit#main_processor), coprocessors can accelerate system performance. Coprocessors allow a line of computers to be customized, so that customers who do not need the extra performance do not need to pay for it.
 
 <https://en.wikipedia.org/wiki/Coprocessor>
 

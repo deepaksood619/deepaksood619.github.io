@@ -1,6 +1,6 @@
 # Big Data
 
-Big data is a term used to refer to [data sets](https://en.wikipedia.org/wiki/Data_set) that are too large or complex for traditional [data-processing](https://en.wikipedia.org/wiki/Data_processing) [application software](https://en.wikipedia.org/wiki/Application_software) to adequately deal with. Data with many cases (rows) offer greater [statistical power](https://en.wikipedia.org/wiki/Statistical_power), while data with higher complexity (more attributes or columns) may lead to a higher [false discovery rate](https://en.wikipedia.org/wiki/False_discovery_rate).Big data challenges include [capturing data](https://en.wikipedia.org/wiki/Automatic_identification_and_data_capture), [data storage](https://en.wikipedia.org/wiki/Computer_data_storage), [data analysis](https://en.wikipedia.org/wiki/Data_analysis), search, [sharing](https://en.wikipedia.org/wiki/Data_sharing), [transfer](https://en.wikipedia.org/wiki/Data_transmission), [visualization](https://en.wikipedia.org/wiki/Data_visualization), [querying,](https://en.wikipedia.org/wiki/Query_language) updating, [information privacy](https://en.wikipedia.org/wiki/Information_privacy) and data source. Big data was originally associated with three key concepts:**volume, variety, andvelocity.Other concepts later attributed with big data areveracity (i.e., how much noise is in the data) andvalue
+Big data is a term used to refer to [data sets](https://en.wikipedia.org/wiki/Data_set) that are too large or complex for traditional [data-processing](https://en.wikipedia.org/wiki/Data_processing) [application software](https://en.wikipedia.org/wiki/Application_software) to adequately deal with. Data with many cases (rows) offer greater [statistical power](https://en.wikipedia.org/wiki/Statistical_power), while data with higher complexity (more attributes or columns) may lead to a higher [false discovery rate](https://en.wikipedia.org/wiki/False_discovery_rate).Big data challenges include [capturing data](https://en.wikipedia.org/wiki/Automatic_identification_and_data_capture), [data storage](https://en.wikipedia.org/wiki/Computer_data_storage), [data analysis](https://en.wikipedia.org/wiki/Data_analysis), search, [sharing](https://en.wikipedia.org/wiki/Data_sharing), [transfer](https://en.wikipedia.org/wiki/Data_transmission), [visualization](https://en.wikipedia.org/wiki/Data_visualization), [querying,](https://en.wikipedia.org/wiki/Query_language) updating, [information privacy](https://en.wikipedia.org/wiki/Information_privacy) and data source. Big data was originally associated with three key concepts: **volume, variety, and velocity. Other concepts later attributed with big data are veracity (i.e., how much noise is in the data) and value
 
 - The challenges include capture, curation, storage, search, sharing, transfer, analysis and visualization.
 
@@ -18,64 +18,6 @@ Big data is a term used to refer to [data sets](https://en.wikipedia.org/wiki/Da
 - Sharing
 - Analysing
 - Visualization
-
-## Characteristics
-
-### Volume - How much data you have
-
-The quantity of generated and stored data. The size of the data determines the value and potential insight, and whether it can be considered big data or not.
-
-### Variety - How heterogeneous your data is
-
-The type and nature of the data. This helps people who analyze it to effectively use the resulting insight. Big data draws from text, images, audio, video; plus it completes missing pieces through data fusion.
-
-- Structured data (ex - tabular data)
-- Unstructured data - text, sensor data, audio, video
-- Semi structured - web data, log files
-
-### Velocity - How fast data is collected
-
-In this context, the speed at which the data is generated and processed to meet the demands and challenges that lie in the path of growth and development. Big data is often available in real-time.
-
-### Veracity
-
-- The [data quality](https://en.wikipedia.org/wiki/Data_quality) of captured data can vary greatly, affecting the accurate analysis.
-- Veracity refers to the biases, noise and abnormality in data, trustworthiness of data
-
-![image](../../../media/Big-Data-image1.jpg)
-
-### Value
-
-### Validity
-
-- accuracy and correctness of the data relative to a particular use
-- Example - Gauging storm intensity (Satellite imaginery vs social media posts, prediction quality vs human impact)
-
-### Variability
-
-- How the meaning of data changes over time
-- Language Evolution, Data availability, Sampling process, Changes in characteristics of the data source
-
-### Viscosity & Volatility (related to velocity)
-
-#### Viscosity - data velocity relative to timescale of event being studied
-
-#### Volatility - rate of data loss and stable lifetime of data
-
-### Viability - Which data has meaningful relations to questions of interest?
-
-### Venue - Where does the data live and how do you get it?
-
-### Vocabulary
-
-- Metadata describing structure, content, & provenance
-- Schemas, semantics, ontologies, taxonomies, vocabularies
-
-### Vagueness
-
-Confusion about what "Big Data" means
-
-### Valence (Connectedness, such as in the form of graph networks)
 
 ## YCSB Workloads
 
@@ -112,6 +54,14 @@ The **Yahoo! Cloud Serving Benchmark** (YCSB) is an open-source specification an
 3. Merge
 4. Wrangle
 5. Visualize
+
+## Data Wrangling
+
+Data wrangling, sometimes referred to asdata munging, is the process of transforming and [mapping data](https://en.wikipedia.org/wiki/Data_mapping) from one "[raw](https://en.wikipedia.org/wiki/Raw_data)" data form into another [format](https://en.wikipedia.org/wiki/Content_format) with the intent of making it more appropriate and valuable for a variety of downstream purposes such as analytics. Adata wrangleris a person who performs these transformation operations.
+
+This may include further [munging](https://en.wikipedia.org/wiki/Mung_(computer_term)), [data visualization](https://en.wikipedia.org/wiki/Data_visualization), data aggregation, training a [statistical model](https://en.wikipedia.org/wiki/Statistical_model), as well as many other potential uses. Data munging as a process typically follows a set of general steps which begin with extracting the data in a raw form from the data source, "munging" the raw data using algorithms (e.g. sorting) or parsing the data into predefined data structures, and finally depositing the resulting content into a data sink for storage and future use.
+
+<https://en.wikipedia.org/wiki/Data_wrangling>
 
 ## Links
 

@@ -173,6 +173,10 @@ The interact function (ipywidgets.interact) automatically creates user interface
 [JupyterLab](http://jupyterlab.readthedocs.io/en/stable/) is the next-generation user interface for [Project Jupyter](https://jupyter.org/) offering all the familiar building blocks of the classic Jupyter Notebook (notebook, terminal, text editor, file browser, rich outputs, etc.) in a flexible and a more powerful user interface.The basic idea of the Jupyter Lab is to bring all the building blocks that are in the classic notebook, plus some new stuff, under one roof.
 
 ```bash
+pip install jupyterlab
+
+jupyter lab
+
 jupyter lab --ip=0.0.0.0 --allow-root
 
 jupyter lab --core-mode

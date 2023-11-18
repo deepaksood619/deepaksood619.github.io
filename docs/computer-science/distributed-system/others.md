@@ -108,3 +108,12 @@ Replication takes a redundant node one step further; it ensures that the redunda
 [Transparency](https://medium.com/baseds/transparency-illusions-of-a-single-system-part-1-b01c25f7dddd) in [a system](https://medium.com/baseds/transparency-illusions-of-a-single-system-part-2-2b21c5047774) means that all the replicas and the original node must behave similarly, which means that a consumer of the system (like an end user or another node) could potentially write to one replica, while another consumer of the system could read from another replica!
 
 <https://medium.com/baseds/redundancy-and-replication-duplicating-in-a-distributed-system-7ab4322d7378>
+
+## Designing Distributed Systems
+
+#### *Patterns and Paradigms for Scalable, Reliable Services by Brendon Burns (cofounder of Kubernetes)*
+
+- Both an object and interface for expressing core distributed system patterns
+- side-car, adapter and ambassador patterns to split application into a group of containers on a single machine
+- Loosely coupled multi-node distributed patterns for replication, scaling, and communication between the components
+- Work queues, event-based processing and coordinated workflows# Event-Driven Batch Processing

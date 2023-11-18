@@ -119,9 +119,9 @@ Give tech talk - Learning + Note taking + Zettlekasten - Obsidian / Onenote + Do
 
 ## System Design
 
-- <https://www.youtube.com/playlist?list=PLAC2AM9O1C5KioUMeH9qIjbAV_RMmX8rd>
-- <https://www.youtube.com/channel/UCn1XnDWhsLS5URXTi5wtFTA>
-- <https://www.youtube.com/playlist?list=PLMCXHnjXnTnvo6alSjVkgxV-VH6EPyvoX>
+- [Low Level Design | The Code Mate - YouTube](https://www.youtube.com/playlist?list=PLAC2AM9O1C5KioUMeH9qIjbAV_RMmX8rd)
+- [Tech Dummies Narendra L - YouTube](https://www.youtube.com/channel/UCn1XnDWhsLS5URXTi5wtFTA)
+- [System Design for Beginners - YouTube](https://www.youtube.com/playlist?list=PLMCXHnjXnTnvo6alSjVkgxV-VH6EPyvoX)
 
 ## AI Tools
 

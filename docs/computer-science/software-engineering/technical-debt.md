@@ -17,7 +17,7 @@ As a system evolves, it's complexity increases unless work is done to maintan or
 - Quantifying technical debt
 - There's always a trade off between improving existing code versus adding new features
 
-## Symptoms of low code health*
+## Symptoms of low code health
 
 - **Low cohension,** many reponsibilities
 - **Bumpy road code smell,** lack of encapsulation
