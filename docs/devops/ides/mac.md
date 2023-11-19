@@ -346,6 +346,10 @@ alias python=/usr/local/bin/python3.7
 alias pip=/usr/local/bin/pip3
 
 alias publicIp="curl wgetip.com"
+
+alias file_encrypt='openssl enc -aes-256-cbc -salt -pbkdf2 -in enc_file.md -out enc_file.md.enc && rm -rf enc_file.md'
+
+alias file_decrypt='openssl enc -d -aes-256-cbc -salt -pbkdf2 -in enc_file.md.enc -out enc_file.md && rm -rf enc_file.md.enc'
 ```
 
 #### Alias

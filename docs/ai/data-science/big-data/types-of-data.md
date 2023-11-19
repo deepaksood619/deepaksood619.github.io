@@ -12,7 +12,7 @@ Semi-structured data is information that does not reside in a relational databas
 
 ### 3. Unstructured data
 
-Unstructured data is a data which is not organized in a predefined manner or does not have a predefined data model, thus it is not a good fit for a mainstream relational database. So for Unstructured data, there are alternative platforms for storing and managing, it is increasingly prevalent in IT systems and is used by organizations in a variety of business intelligence and analytics applications.Example: Word, PDF, Text, Media logs. 
+Unstructured data is a data which is not organized in a predefined manner or does not have a predefined data model, thus it is not a good fit for a mainstream relational database. So for Unstructured data, there are alternative platforms for storing and managing, it is increasingly prevalent in IT systems and is used by organizations in a variety of business intelligence and analytics applications.Example: Word, PDF, Text, Media logs.
 
 ### Differences between Structured, Semi-structured and Unstructured data
 
@@ -30,7 +30,7 @@ Unstructured data is a data which is not organized in a predefined manner or doe
 
 ## Types of Data by data type
 
-![image](media/Data-image3.jpg)
+![image](../../../media/Data-image3.jpg)
 
 |  |  |
 |---|---|
@@ -55,22 +55,25 @@ Data that consists of a collection of records, each of which consists of a fixed
 ![image](media/Data-image4.jpg)
 
 ### Data Matrix
+
 - If data objects have the same fixed set of numeric attributes, then the data objects can be thought of as points in a multi-dimensional space, where each dimension represents a distinct attribute
 - Such data set can be represented by an m by n matrix, where there are m rows, one for each object, and n columns, one for each attribute
 
 ![image](media/Data-image5.jpg)
 
 ### Document Data
-  - Each document becomes a 'term' vector
-    - Each term is a component (attribute) of the vector
-    - the value of each component is the number of times the corresponding term occurs in the document
+
+- Each document becomes a 'term' vector
+  - Each term is a component (attribute) of the vector
+  - the value of each component is the number of times the corresponding term occurs in the document
 
 ![image](media/Data-image6.jpg)
 
 ### Transaction Data
-  - A special type of record data, where
-    - each record (transaction) involves a set of items
-    - For example, consider a grocery store. The set of products purchased by a customer during one shopping trip consitute a transaction, while the individual products that were purchased are the items
+
+- A special type of record data, where
+  - each record (transaction) involves a set of items
+  - For example, consider a grocery store. The set of products purchased by a customer during one shopping trip consitute a transaction, while the individual products that were purchased are the items
 
 ![image](media/Data-image7.jpg)
 

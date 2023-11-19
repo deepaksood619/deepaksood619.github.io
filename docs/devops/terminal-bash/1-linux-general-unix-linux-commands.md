@@ -589,7 +589,6 @@ rm -rf folder.tar.gz
 alias folder_encrypt='tar czvf test_folder.tar.gz test_folder && openssl enc -aes-256-cbc -salt -pbkdf2 -in test_folder.tar.gz -out test_folder.tar.gz.enc && rm -rf test_folder.tar.gz && rm -rf test_folder'
 
 alias folder_decrypt='openssl enc -d -aes-256-cbc -salt -pbkdf2 -in test_folder.tar.gz.enc -out test_folder.tar.gz && tar xzvf test_folder.tar.gz && rm -rf test_folder.tar.gz.enc && rm -rf test_folder.tar.gz'
-
 ```
 
 ### public private key pair
