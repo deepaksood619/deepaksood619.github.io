@@ -29,3 +29,10 @@ One way to further protect against overfitting is K-fold cross validation
 Using cross-validation will run the validation on multiple folds of the data, which reduces the overfitting.
 
 <https://machinelearningmastery.com/k-fold-cross-validation>
+
+## TSA
+
+Model should be,
+- Transparent,
+- Secure, and 
+- Auditable
