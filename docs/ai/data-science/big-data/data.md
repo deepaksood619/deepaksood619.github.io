@@ -76,13 +76,15 @@ There are different types of attributes
 ## Discrete and Continuous Attributes
 
 ### Discrete Attribute
-  - Has only a finite and countably infinite set of values
-  - Examples: zip code, counts, or the set of words in a collection of documents
-  - Often represented as integer variables
-  - Note: binary attributes are a special case of discrete attributes
+
+- Has only a finite and countably infinite set of values
+- Examples: zip code, counts, or the set of words in a collection of documents
+- Often represented as integer variables
+- Note: binary attributes are a special case of discrete attributes
 
 ### Continuous Attribute
-  - Has real numbers as attributes values
-  - Examples: temperature, height, or weight
-  - Practically, real values can only be measured and represented using a finite number of digits
-  - Continous attributes are typically represented as floating-point variables
+
+- Has real numbers as attributes values
+- Examples: temperature, height, or weight
+- Practically, real values can only be measured and represented using a finite number of digits
+- Continous attributes are typically represented as floating-point variables

@@ -25,6 +25,8 @@ TTL indexes are special single-field indexes that MongoDB can use to automatical
 -- search - like abc
 {"email": /abc/}
 
+{ "title": { "$regex": "(?i)The Village" } }
+
 {"user": ObjectId("64591b347266058256f16f43")}
 ```
 
