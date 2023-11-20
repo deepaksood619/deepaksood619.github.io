@@ -101,6 +101,7 @@ Key features include:
 
 <https://github.com/datawire/ambassador>
 ![image](../../media/API-Gateway-image1.jpg)
+
 <https://microservices.io/patterns/apigateway.html>
 
 Rate Limiting Service

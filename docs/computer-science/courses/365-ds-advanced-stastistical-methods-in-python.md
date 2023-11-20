@@ -199,4 +199,5 @@ Types of Clustering (3:39)
 Dendrogram (5:21)
 
 Heatmaps (4:34)
+
 <https://365datascience.teachable.com/courses/enrolled/362812>

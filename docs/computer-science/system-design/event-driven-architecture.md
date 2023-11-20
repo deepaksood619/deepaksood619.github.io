@@ -40,8 +40,8 @@ Replaying all the events from the logs can give any state of the system at any t
 - Example -
 
     1. Version control - git
-
     2. Accounting ledgers
+
 - Can be used for
   - Audit
   - Debugging
@@ -49,7 +49,7 @@ Replaying all the events from the logs can give any state of the system at any t
   - Alternative State
   - Memory Image
 
-4. CQRS - Command and Query Responsibility Segregation
+2. CQRS - Command and Query Responsibility Segregation
 
 CQRS is a fancy name for an architecture that uses different data models to represent read and write operations.
 At its heart is the notion that you can use a different model to update information than the model you use to read information.
@@ -58,7 +58,7 @@ At its heart is the notion that you can use a different model to update informat
 
 Event-driven architecture (EDA) means constructing your system as a series of commands and/or events. A user submits an online form to make a purchase: that's a command. The items in stock are reserved: that's an event. A confirmation is sent to the user: that's an event. The concept is very simple. Everything in our system is either a command or an event. Commands lead to events and events may lead to new commands and so on.
 
-## Event Sourcing is a style of application design where state changes are logged as a time-ordered sequence of records
+**Event Sourcing is a style of application design where state changes are logged as a time-ordered sequence of records**
 
 ## Publisher subscriber rule
 
@@ -71,6 +71,7 @@ Event-driven architecture (EDA) means constructing your system as a series of co
 
 - A **stream** provides immutable data. It supports only inserting (appending) new events, whereas existing events cannot be changed. Streams are persistent, durable, and fault tolerant. Events in a stream can be keyed, and you can have many events for one key, like "all of Bob's payments." If you squint a bit, you could consider a stream to be like a table in a relational database (RDBMS) that has no unique key constraint and that is append only.
 - A **table** provides mutable data. New events - rows - can be inserted, and existing rows can be updated and deleted. Here, an event's key aka row key identifies which row is being mutated. Like streams, tables are persistent, durable, and fault tolerant. Today, a table behaves much like an RDBMS materialized view because it is being changed automatically as soon as any of its input streams or tables change, rather than letting you directly run insert, update, or delete operations against it.
+
 |                                          | **Stream** | **Table**   |
 |-------------------------------------------|------------|-------------|
 | First event with key bob arrives          | Insert     | Insert      |
@@ -88,6 +89,7 @@ Not withstanding their differences, we can observe that there is a close relatio
 In fact, a table is fully defined by its underlying change stream. If you have ever worked with a relational database such as Oracle or MySQL, these change streams exist there, too! Here, however, they are a hidden implementation detail - albeit an absolutely critical one - and have names like [redo log](https://docs.oracle.com/cd/B28359_01/server.111/b28310/onlineredo001.htm#ADMIN11302) or [binary log](https://dev.mysql.com/doc/internals/en/binary-log-overview.html). In event streaming, the redo log is much more than an implementation detail. It's a first-class entity: a stream. We can turn streams into tables and tables into streams, which is one reason why we say that event streaming and Kafka are [turning the database inside out](https://www.confluent.io/blog/turning-the-database-inside-out-with-apache-samza/).
 
 ![image](../../media/Event-driven-architecture-image3.jpg)
+
 <https://www.confluent.io/blog/kafka-streams-tables-part-1-event-streaming>
 
 ![image](../../media/Event-driven-architecture-image4.jpg)
@@ -179,8 +181,11 @@ Task queues manage background work that must be executed outside the usual HTTP 
 ## Why are task queues necessary?
 
 Tasks are handled asynchronously either because they are not initiated by an HTTP request or because they are long-running jobs that would dramatically reduce the performance of an HTTP response.
+
 For example, a web application could poll the GitHub API every 10 minutes to collect the names of the top 100 starred repositories. A task queue would handle invoking code to call the GitHub API, process the results and store them in a persistent database for later use.
+
 Another example is when a database query would take too long during the HTTP request-response cycle. The query could be performed in the background on a fixed interval with the results stored in the database. When an HTTP request comes in that needs those results a query would simply fetch the precalculated result instead of re-executing the longer query. This precalculation scenario is a form of [caching](https://www.fullstackpython.com/caching.html) enabled by task queues.
+
 Other types of jobs for task queues include
 
 - spreading out large numbers of independent database inserts over time instead of inserting everything at once
@@ -193,6 +198,7 @@ Other types of jobs for task queues include
 
 Message oriented middleware (MOM) refers to the software infrastructure supporting sending and receiving messages between distributed systems. AMQP and MQTT are the two most relevant protocols in this context. They are extensively used for exchanging messages since they provide an abstraction of the different participating system entities, alleviating their coordination and simplifying the communication programming details.
 The basic idea of MOM is that communication takes place by adding messages to distributed queues, and by getting messages from those queues. Based on the model of Message Oriented Middleware, many protocols have been developed, e.g. DDS, STOMP, XMPP. The two most widely used proposals are: the Advanced Message Queuing Protocol (AMQP) and the Message Queuing Telemetry Transport (MQTT).
+
 See also:
 
 - AMQP

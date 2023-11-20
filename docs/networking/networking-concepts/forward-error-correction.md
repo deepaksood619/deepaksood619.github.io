@@ -39,6 +39,7 @@ There are four popularly used error correction codes.
 In [telecommunication](https://en.wikipedia.org/wiki/Telecommunication), Hamming codesare a family of [linear error-correcting codes](https://en.wikipedia.org/wiki/Linear_code). Hamming codes can detect up to two-bit errors or correct one-bit errors without detection of uncorrected errors. By contrast, the simple [parity code](https://en.wikipedia.org/wiki/Parity_bit) cannot correct errors, and can detect only an odd number of bits in error. Hamming codes are [perfect codes](https://en.wikipedia.org/wiki/Perfect_code), that is, they achieve the highest possible [rate](https://en.wikipedia.org/wiki/Block_code#The_rate_R) for codes with their [block length](https://en.wikipedia.org/wiki/Block_code#The_block_length_n) and [minimum distance](https://en.wikipedia.org/wiki/Block_code#The_distance_d) of three.[Richard W. Hamming](https://en.wikipedia.org/wiki/Richard_Hamming) invented Hamming codes in 1950 as a way of automatically correcting errors introduced by [punched card](https://en.wikipedia.org/wiki/Punched_card) readers. In his original paper, Hamming elaborated his general idea, but specifically focused on the [Hamming(7,4)](https://en.wikipedia.org/wiki/Hamming(7,4)) code which adds three parity bits to four bits of data.
 
 <https://en.wikipedia.org/wiki/Hamming_code>- **Binary Convolution Code−** Here, an encoder processes an input sequence of bits of arbitrary length and generates a sequence of output bits.
+
 - **Reed-Solomon Code−** They are block codes that are capable of correcting burst errors in the received data block.
 - **Low-Density Parity Check Code−** It is a block code specified by a parity-check matrix containing a low density of 1s. They are suitable for large block sizes in very noisy channels.
 
@@ -49,8 +50,6 @@ In [telecommunication](https://en.wikipedia.org/wiki/Telecommunication), Hamming
 <https://en.wikipedia.org/wiki/Forward_error_correction>
 
 [Hamming codes, h■w to ov■rco■e n■ise.](https://www.youtube.com/watch?v=X8jsijhllIA)
-
-![image](../../media/Forward-Error-Correction-image3.jpg)
 
 ## Binary Goley Code
 

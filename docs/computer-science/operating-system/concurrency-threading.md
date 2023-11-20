@@ -258,11 +258,9 @@ Atomic instruction that compares contents of a memory location M to a given valu
 
 <https://en.wikipedia.org/wiki/Compare-and-swap>
 
-## See also
-
-Python > Advanced > Concurrency
-
 ## References
+
+[Concurrency](python/advanced/concurrency.md)
 
 [https://schneems.com/2017/10/23/wtf-is-a-thread/#](https://schneems.com/2017/10/23/wtf-is-a-thread/)
 

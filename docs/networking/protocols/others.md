@@ -85,7 +85,7 @@ Modbus has become a [*de facto*](https://en.wikipedia.org/wiki/De_facto)[standar
 
 Modbus enables communication among many devices connected to the same network, for example, a system that measures temperature and humidity and communicates the results to a [computer](https://en.wikipedia.org/wiki/Computer). Modbus is often used to connect a supervisory computer with a [remote terminal unit](https://en.wikipedia.org/wiki/Remote_terminal_unit)(RTU) in supervisory control and data acquisition ([SCADA](https://en.wikipedia.org/wiki/SCADA)) systems. Many of the data types are named from its use in driving relays: a single-bit physical output is called a*coil*, and a single-bit physical input is called a*discrete input*or a*contact*.
 
-## See also
+### See also
 
 BACnet Protocol (Building Automation and Control networks)
 
@@ -95,7 +95,7 @@ BACnet Protocol (Building Automation and Control networks)
 
 ## Zenoh
 
-## Zero Overhead Pub/sub, Store/Query and Compute
+Zero Overhead Pub/sub, Store/Query and Compute
 
 zenoh unifies data in motion, data in-use, data at rest and computations. It carefully blends traditional pub/sub with geo-distributed storages, queries and computations, while retaining a level of time and space efficiency that is well beyond any of the mainstream stacks.
 
@@ -113,7 +113,7 @@ OPC Unified Architecture(OPC UA) is a [machine to machine](https://en.wikipedia.
 - Offers [security](https://en.wikipedia.org/wiki/Information_security) functionality for authentication, authorization, integrity and confidentiality
 - Integral [information model](https://en.wikipedia.org/wiki/Information_model), which is the foundation of the infrastructure necessary for information integration where vendors and organizations can model their complex data into an OPC UA namespace to take advantage of the rich service-oriented architecture of OPC UA. There are over 35 collaborations with the OPC Foundation currently. Key industries include [pharmaceutical](https://en.wikipedia.org/wiki/Pharmaceutical_industry), [oil and gas](https://en.wikipedia.org/wiki/Oil_and_gas_industry), [building automation](https://en.wikipedia.org/wiki/Building_automation), [industrial robotics](https://en.wikipedia.org/wiki/Industrial_robotics), security, manufacturing and [process control](https://en.wikipedia.org/wiki/Process_control).
 
-## Specification
+### Specification
 
 The OPC UA specification is a multi-part specification and consists of the following parts:
 

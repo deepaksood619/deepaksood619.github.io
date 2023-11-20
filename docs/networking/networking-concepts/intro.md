@@ -70,6 +70,7 @@ There are four pieces to the DMVPN puzzle:
 - NHRP (Next Hop Resolution Protocol)
 - Routing (RIP, EIGRP, OSPF, BGP, etc.)
 - IPsec (not required but recommended)
+
 <https://networklessons.com/cisco/ccie-routing-switching/introduction-to-dmvpn>
 
 ## Bridge

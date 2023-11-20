@@ -100,6 +100,7 @@ Gxyz - 3 slots (x, y, z), Valency - 3
 ![image](../../media/Logic-image15.jpg)
 
 ![image](../../media/Logic-image16.jpg)# Logical Operators/Connectives
+
 - **Logical conjuction**
 - join symbols with "and" (. & Λ)
 - conjuction with statements p.q
@@ -209,5 +210,3 @@ This only supports the conclusion *It's tragic.* Not that A is C.
 ## References
 
 [Logic & Language - a short introduction to logic](https://www.youtube.com/playlist?list=PL48654681292CF456)
-
-![image](../../media/Logic-image38.jpg)

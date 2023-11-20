@@ -104,6 +104,7 @@ t.substitute(name=name)
     - Just like any other tool in the software development toolbox, decorators are not a cure-all and they should not be overused. It's important to balance the need to "get stuff done" with the goal of "not getting tangled up in a horrible, unmaintainable code base."
 
 [Python: How Decorators Function](https://www.youtube.com/watch?v=vtoXyxcfmUo&t=2s&ab_channel=CodingTech)
+
 <https://realpython.com/primer-on-python-decorators>
 
 5. **Function argument unpacking**

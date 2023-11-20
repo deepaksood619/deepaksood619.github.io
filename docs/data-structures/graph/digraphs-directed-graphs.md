@@ -40,4 +40,4 @@ We use adjacency-list representation for representing a weighted graph, where ea
 
 ## See also
 
-- Topological Sort
+[Topological Sort](algorithms/graphtheory/topological-sort-algorithm.md)

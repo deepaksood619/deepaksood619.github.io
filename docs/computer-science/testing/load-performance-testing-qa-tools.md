@@ -86,13 +86,9 @@ Goad takes full advantage of the power of Amazon Lambdas for distributed load te
 
 abis a tool for benchmarking your Apache Hypertext Transfer Protocol (HTTP) server. It is designed to give you an impression of how your current Apache installation performs.
 
-## See Also
-
-Locust
-
 ## HTTP Load Testing Tools
 
-- [wrk](https://github.com/wg/wrk)
+### - [wrk](https://github.com/wg/wrk)
 
 ```bash
 wrk --duration 20s --threads 10 --connections 200 [URL]
@@ -102,7 +98,7 @@ wrk -c 5 -t 5 -d 99999 -H "Connection: Close" <http://application-cpu>
 wrk -c 5 -t 5 -d 99999 -H "Connection: Close" <https://facebook.com>
 ```
 
-- **Apache Bench - [Apache HTTP Server Benchmarking Tool](https://httpd.apache.org/docs/2.4/programs/ab.html) (for percentiles)**
+### - **Apache Bench - [Apache HTTP Server Benchmarking Tool](https://httpd.apache.org/docs/2.4/programs/ab.html) (for percentiles)**
 
 ```bash
 apt install apache2
@@ -129,7 +125,7 @@ ab -c 50 -n 5000 -s 90 -p data.json -T application/json -rk <https://staff.lende
 
 ```
 
-- [Siege](https://github.com/JoeDog/siege) (for constant load)
+### - [Siege](https://github.com/JoeDog/siege) (for constant load)
 
 ```bash
 apt-get install -y siege
@@ -137,7 +133,7 @@ apt-get install -y siege
 siege -c2 -t2m [URL]
 ```
 
-- hey / boom
+### - hey / boom
 
 ```bash
 hey <https://dev.example.com>
@@ -145,10 +141,11 @@ hey <https://dev.example.com>
 <https://github.com/rakyll/hey>
 ```
 
-- <https://k6.io>
+### - <https://k6.io>
+
 Open source load testing tool and SaaS for engineering teams
 
-- [**https://fortio.org/**](https://fortio.org/)
+### - [**https://fortio.org/**](https://fortio.org/)
 
 Fortio load testing library, command line tool, advanced echo server and web UI in go (golang). Allows to specify a set query-per-second load and record latency histograms and other useful stats.
 Fortio runs at a specified query per second (qps) and records an histogram of execution time and calculates percentiles (e.g. p99 ie the response time such as 99% of the requests take less than that number (in seconds, SI unit)). It can run for a set duration, for a fixed number of calls, or until interrupted (at a constant target QPS, or max speed/load per connection/thread).
@@ -166,21 +163,19 @@ Fortio runs at a specified query per second (qps) and records an histogram of ex
 
 <https://github.com/blueperf>
 
-## References
-
-<https://www.testingexcellence.com/top-10-open-source-performance-testing-tools>
-
 ## Locust
 
 Locust is an easy-to-use, distributed, user load testing tool. It is intended for load-testing websites (or other systems) and figuring out how many concurrent users a system can handle.
+
 Locust is a scalable load testing framework written in Python
+
 Locust is completely event-based, and therefore it's possible to support thousands of concurrent users on a single machine. In contrast to many other event-based apps it doesn't use callbacks. Instead it uses light-weight processes, through [gevent](http://www.gevent.org/). Each locust swarming your site is actually running inside its own process (or greenlet, to be correct). This allows you to write very expressive scenarios in Python without complicating your code with callbacks.
 
-## Running Locust Distributed
+### Running Locust Distributed
 
 You start one instance of Locust in master mode using the--masterflag. This is the instance that will be running Locust's web interface where you start the test and see live statistics. The master node doesn't simulate any users itself. Instead you have to start one or -most likely - multiple slave Locust nodes using the--slaveflag, together with the--master-host(to specify the IP/hostname of the master node).
 
-## Commands
+### Commands
 
 ```bash
 locust -f tasks.py --host localhost:5000
@@ -271,3 +266,5 @@ Subscribe
 ## Others
 
 <https://aws.amazon.com/about-aws/whats-new/2021/05/introducing-distributed-load-testing-v1-3>
+
+<https://www.testingexcellence.com/top-10-open-source-performance-testing-tools>

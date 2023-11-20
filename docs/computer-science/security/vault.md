@@ -197,6 +197,7 @@ Vault's [database secrets engine](https://www.vaultproject.io/docs/secrets/datab
 This reduces the manual tasks performed by the database administrator and makes the database access more efficient and secure.
 
 ![image](../../media/Vault-image7.jpg)
+
 <https://learn.hashicorp.com/tutorials/vault/database-root-rotation>
 
 <https://learn.hashicorp.com/tutorials/vault/database-secrets>
