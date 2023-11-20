@@ -124,6 +124,7 @@ Service Provider - Trusts the identity provider and authorizes the given user to
 - Increased Security:SAML provides a single point of authentication, which happens at a secure identity provider, SAML provider can apply context-based policies to access applications.
 - Loose Coupling of Directories:SAML doesn't require user information to be maintained and synchronized between directories.
 - Reduced Costs for Service Providers:With SAML, you don't have to maintain account information across multiple services. The identity provider bears this burden.
+
 <https://duo.com/blog/the-beer-drinkers-guide-to-saml>
 
 #### Tricks

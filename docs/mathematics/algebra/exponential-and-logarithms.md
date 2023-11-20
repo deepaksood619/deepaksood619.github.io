@@ -37,6 +37,7 @@
 Exponentiation is a [mathematical](https://en.wikipedia.org/wiki/Mathematics)[operation](https://en.wikipedia.org/wiki/Operation_(mathematics)), written as*b^n^*, involving two numbers, the [*base*](https://en.wikipedia.org/wiki/Base_(exponentiation))*b*and the *exponentn*. When *n* is a positive [integer](https://en.wikipedia.org/wiki/Integer), exponentiation corresponds to repeated [multiplication](https://en.wikipedia.org/wiki/Multiplication) of the base: that is,*b^n^*is the [product](https://en.wikipedia.org/wiki/Product_(mathematics)) of multiplying *n* bases
 
 ![image](../../media/2.7.-Exponential-&-logarithms-image1.jpg)
+
 ![image](../../media/2.7.-Exponential-&-logarithms-image2.jpg)
 
 The number we multiply with itself is called the **base**.The number of times we multiply it with itself is called the **power** or **exponent**.
@@ -79,6 +80,7 @@ The number we multiply with itself is called the **base**.The number of times we
 
 - Square and Multiply algorithm
 - Binary Exponentiation
+
 <https://www.youtube.com/watch?v=BfNlzdFa_a4&ab_channel=mCoding>
 
 ## References

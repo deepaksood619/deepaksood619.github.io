@@ -15,6 +15,7 @@ Unlike [ports](https://en.wikipedia.org/wiki/Port_(computer_networking)), socket
 
 In practice, socketusually refers to a socket in an [Internet Protocol](https://en.wikipedia.org/wiki/Internet_Protocol)(IP) network (where a socket may be called anInternet socket), in particular for the [Transmission Control Protocol](https://en.wikipedia.org/wiki/Transmission_Control_Protocol)(TCP), which is a protocol for one-to-one connections. In this context, sockets are assumed to be associated with a specificsocket address, namely the [IP address](https://en.wikipedia.org/wiki/IP_address) and a [port number](https://en.wikipedia.org/wiki/Port_number) for the local node, and there is a corresponding socket address at the foreign node (other node), which itself has an associated socket, used by the foreign process. Associating a socket with a socket address is calledbinding.
 Note that while a local process can communicate with a foreign process by sending or receiving data to or from a foreignsocket address, it does not have access to the foreignsocketitself, nor can it use the foreignsocket descriptor, as these are both internal to the foreign node. For example, in a connection between 10.20.30.40:4444 and 50.60.70.80:8888 (local IP address:local port, foreign IP address:foreign port), there will also be an associated socket at each end, corresponding to the internal representation of the connection by the protocol stack on that node. These are referred to locally by numerical socket descriptors, say 317 at one side and 922 at the other. A process on node 10.20.30.40 can request to communicate with node 50.60.70.80 on port 8888 (request that the protocol stack create a socket to communicate with that destination), and once it has created a socket and received a socket descriptor (317), it can communicate via this socket by using the descriptor (317). The protocol stack will then forward data to and from node 50.60.70.80 on port 8888. However, a process on node 10.20.30.40 cannot request to communicate based on the foreign socket descriptor, (e.g. "socket 922" or "socket 922 on node 50.60.70.80") as these are internal to the foreign node and are not usable by the protocol stack on node 10.20.30.40.
+
 <https://en.wikipedia.org/wiki/Network_socket>
 
 ## Ports
@@ -63,6 +64,7 @@ These can be registered for services with the IANA and should be treated as semi
 ### Ephermeral Ports (49152-65535)
 
 These are used byclient programsand you are free to use these in client programs. When a Web browser connects to a web server the browser will allocate itself a port in this range. Also known as ephemeral ports.
+
 <https://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers>
 
 ## Network behavior
@@ -76,4 +78,5 @@ The practice of attempting to connect to a range of ports in sequence on a singl
 ## Port Knocking
 
 [Port knocking](https://en.wikipedia.org/wiki/Port_knocking) is something nobody actually uses in the real world, but is a lot of fun to set up. In short, port knocking is a sequence of hits to various closed network ports, and if you get that sequence right, the "real" port opens up for use to your IP. It's neat, but impractical in an actual enterprise.
+
 <https://en.wikipedia.org/wiki/Port_(computer_networking)>

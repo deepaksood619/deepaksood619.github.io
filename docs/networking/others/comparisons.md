@@ -3,6 +3,7 @@
 ## Avro vs Protobuf
 
 What should you choose then? Avro, especially at the beginning, seems much easier to use. The cost of this is that you will need to provide both reader and writer schema to deserialize anything.
+
 ![image](../../media/Comparisions-image1.jpg)
 
 Sometimes this might be quite problematic. That's why tools like [Schema Registry](https://www.confluent.io/confluent-schema-registry/) were developed.
@@ -14,7 +15,9 @@ Personally, I would use Avro for simple domains with mostly primitive types. For
 <https://blog.softwaremill.com/the-best-serialization-strategy-for-event-sourcing-9321c299632b>
 
 [(Big) Data Serialization with Avro and Protobuf](https://www.slideshare.net/gschmutz/big-data-serialization-with-avro-and-protobuf)
+
 ![image](../../media/Comparisions-image2.jpg)
+
 ![image](../../media/Comparisions-image3.jpg)
 
 ![image](../../media/Comparisions-image4.jpg)
@@ -74,6 +77,7 @@ Personally, I would use Avro for simple domains with mostly primitive types. For
 ![image](../../media/Comparisions-image30.jpg)
 
 ![image](../../media/Comparisions-image31.jpg)
+
 ![image](../../media/Comparisions-image32.jpg)
 
 ## Summary

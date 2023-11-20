@@ -13,6 +13,7 @@ OpenSSH(also known as OpenBSD Secure Shell) is a suite of [secure](https://en.wi
 OpenSSH started as a [fork](https://en.wikipedia.org/wiki/Fork_(software_development)) of the [free](https://en.wikipedia.org/wiki/Free_software) SSH program developed by [Tatu Ylönen](https://en.wikipedia.org/wiki/Tatu_Yl%C3%B6nen); later versions of Ylönen's SSH were [proprietary software](https://en.wikipedia.org/wiki/Proprietary_software) offered by [SSH Communications Security](https://en.wikipedia.org/wiki/SSH_Communications_Security).OpenSSH was first released in 1999, and is currently developed as part of the [OpenBSD](https://en.wikipedia.org/wiki/OpenBSD)[operating system](https://en.wikipedia.org/wiki/Operating_system).
 
 OpenSSH is not a single computer program, but rather a suite of programs that serve as alternatives to unencrypted protocols like [Telnet](https://en.wikipedia.org/wiki/Telnet) and [FTP](https://en.wikipedia.org/wiki/FTP). OpenSSH is integrated into several operating systems, while the [portable](https://en.wikipedia.org/wiki/Porting) version is available as a package in other systems.
+
 <https://en.wikipedia.org/wiki/OpenSSH>
 
 ## GStreamer
@@ -36,6 +37,7 @@ NNStreamer - Neural Network (NN) Streamer, Stream Processing Paradigm for Neural
 Zero-configuration networking (zeroconf) is a set of technologies that automatically creates a usable [computer network](https://en.wikipedia.org/wiki/Computer_network) based on the [Internet Protocol Suite](https://en.wikipedia.org/wiki/Internet_Protocol_Suite)(TCP/IP) when computers or network peripherals are interconnected. It does not require manual operator intervention or special configuration servers. Without zeroconf, a network administrator must set up [network services](https://en.wikipedia.org/wiki/Network_service), such as [Dynamic Host Configuration Protocol](https://en.wikipedia.org/wiki/Dynamic_Host_Configuration_Protocol)(DHCP) and [Domain Name System](https://en.wikipedia.org/wiki/Domain_Name_System)(DNS), or configure each computer's network settings manually
 
 Zeroconf is built on three core technologies: automatic assignment of numeric [network addresses](https://en.wikipedia.org/wiki/Network_address) for networked devices, automatic distribution and resolution of computer [hostnames](https://en.wikipedia.org/wiki/Hostname), and automatic [location of network services](https://en.wikipedia.org/wiki/Service_discovery), such as printing devices.
+
 <https://en.wikipedia.org/wiki/Zero-configuration_networking>
 
 ## pmacct
@@ -91,6 +93,7 @@ Ribbon is a client side IPC library that is battle-tested in cloud. It provides 
 - Fault tolerance
 - Multiple protocol (HTTP, TCP, UDP) support in an asynchronous and reactive model
 - Caching and batching
+
 <https://github.com/Netflix/ribbon>
 
 ## mininet

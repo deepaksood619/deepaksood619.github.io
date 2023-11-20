@@ -108,7 +108,8 @@ Parameterization - <https://www.toptal.com/python/python-parameterized-design-pa
 
 <https://slate.com/technology/2019/10/consequential-computer-code-software-history.html>
 
-<https://medium.com/the-atlantic/the-coming-software-apocalypse-4ffb43f3b288>ƒ
+<https://medium.com/the-atlantic/the-coming-software-apocalypse-4ffb43f3b288>$1
+
 <https://github.com/RockstarLang/rockstar>
 
 [The Art of Code - Dylan Beattie](https://www.youtube.com/watch?v=6avJHaC3C2U)

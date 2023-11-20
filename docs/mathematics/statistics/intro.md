@@ -48,6 +48,7 @@ The data that you are trying to study can be a phenomenon that you observe over 
 ## Regression toward the mean
 
 In [statistics](https://en.wikipedia.org/wiki/Statistics), regression toward the mean(also calledregression to the mean, reversion to the mean, andreversion to mediocrity) is the phenomenon that arises if a [sample point](https://en.wikipedia.org/wiki/Sample_point) of a [random variable](https://en.wikipedia.org/wiki/Random_variable) is [extreme](https://en.wikipedia.org/wiki/Extreme_value_theory) (nearly an [outlier](https://en.wikipedia.org/wiki/Outlier)), a future point is likely to be closer to the [mean](https://en.wikipedia.org/wiki/Mean) or [average](https://en.wikipedia.org/wiki/Average).To avoid making incorrect [inferences](https://en.wikipedia.org/wiki/Statistical_inference), regression toward the mean must be considered when designing scientific experiments and interpreting data.
+
 <https://en.wikipedia.org/wiki/Regression_toward_the_mean>
 
 ## Controlled Experiments

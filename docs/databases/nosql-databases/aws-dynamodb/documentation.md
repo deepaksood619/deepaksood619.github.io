@@ -10,6 +10,7 @@
 
 The primary key that uniquely identifies each item in an Amazon DynamoDB table can be simple (a partition key only) or composite (a partition key combined with a sort key).
 Generally speaking, you should design your application for uniform activity across all logical partition keys in the table and its secondary indexes. You can determine the access patterns that your application requires, and estimate the total read capacity units (RCU) and write capacity units (WCU) that each table and secondary index requires.
+
 <https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/bp-partition-key-design.html>
 
 ## Appendix

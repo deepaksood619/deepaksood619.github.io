@@ -44,6 +44,7 @@ But remember: Fundamentally, you're training users to put their credentials into
 
 The Client Credential grant type is designed exclusively for backend server to server operations. Think of it as a server's username and password. Conceptually, it's not far from how your application connects to other backend systems such as your database or Twilio. The benefit is that your OAuth provider can return configuration information or other details within the token itself.
 Finally, since there's not a user involved, it doesn't support OpenID Connect.
+
 <https://auth0.com/docs/protocols/oauth2>
 
 Youtube - [OAuth 2.0: An Overview](https://www.youtube.com/watch?v=CPbvxxslDTU)
@@ -70,6 +71,7 @@ Sliding-sessions are sessions that expire after aperiod of inactivity. As you ca
 
 The [OAuth 2.0 Framework](https://www.oauth.com/oauth2-servers/map-oauth-2-0-specs/) describes overarching patterns for granting authorization but does not define how to actually perform authentication. The application using OAuth constructs a specific request for permissions to a third party system - usually called an Identity Provider (IdP) - which handles the authentication process and returns an Access Token representing success. The IdP may require additional factors such as SMS or email but that is entirely outside the scope of OAuth. Finally, the contents and structure of that Access Token are undefined by default. This ambiguity guarantees that Identity Providers will build incompatible systems.
 Luckily, [OpenID Connect](https://openid.net/connect/) or OIDC brings some sanity to the madness. It is an OAuth extension which adds and strictly defines an ID Token for returning user information. Now when we log in with our Identity Provider, it can return specific fields that our applications can expect and handle. The important thing to remember is that OIDC is just a special, simplified case of OAuth, not a replacement. It uses the same terminology and concepts.
+
 <https://blog.runscope.com/posts/understanding-oauth-2-and-openid-connect>
 
 ## Map of OAuth 2.0 Specs

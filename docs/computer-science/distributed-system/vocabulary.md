@@ -26,11 +26,13 @@ A program has a consistent, coordination-free distributed implementation if any 
 - **Fault tolerant** describes a system that has multiple fault domains at the same level of functionality
 - **Replication** is streaming changes from one process to another
 - **Synchronous replication** is commiting change on a replica at same time as committing on the primary (e.g. MySQL's [semisynchronous replication](https://dev.mysql.com/doc/refman/5.5/en/replication-semisync.html). Typically very, very slow
+
 <https://lethain.com/distributed-systems-vocabulary>
 
 ## State Machine Replication
 
 In [computer science](https://en.wikipedia.org/wiki/Computer_science), **state machine replication** or **state machine approach** is a general method for implementing a fault-tolerant service by replicating servers and coordinating client interactions with server replicas. The approach also provides a framework for understanding and designing replication management protocols.
+
 <https://en.wikipedia.org/wiki/State_machine_replication>
 
 ## Highy Available and Fault Tolerant

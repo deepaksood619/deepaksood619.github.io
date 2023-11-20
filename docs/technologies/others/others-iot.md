@@ -54,6 +54,7 @@ The MQTT protocol adapter exposes an MQTT topic hierarchy for publishing telemet
 Project Flogo is an ultra-light, Go-based open source ecosystem for building event-driven apps.
 
 The notion of triggers and actions are leveraged to process incoming events. An action, a common interface, exposes key capabilities such as application integration, stream processing, etc
+
 ![image](../../media/Technologies-Others-Others-IoT-image3.jpg)
 
 - **App = Trigger(s) + Actions [&Activities]**

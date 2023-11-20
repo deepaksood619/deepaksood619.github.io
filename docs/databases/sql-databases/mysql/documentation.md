@@ -503,6 +503,7 @@ To address such concerns, MySQL permits limits for individual accounts on use of
 - The number of updates an account can issue per hour
 - The number of times an account can connect to the server per hour
 - The number of simultaneous connections to the server by an account
+
 <https://dev.mysql.com/doc/refman/8.0/en/user-resources.html>
 6.2.17 Troubleshooting Problems Connecting to MySQL
 

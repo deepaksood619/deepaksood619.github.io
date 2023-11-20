@@ -13,8 +13,11 @@
 5. Transitive closure (For which vertices v and w is there a path from v to w)
 
 6. PageRank
+
 ![image](../../media/Digraphs-(Directed-Graphs)-image2.jpg)
+
 ![image](../../media/Digraphs-(Directed-Graphs)-image3.jpg)
+
 ![image](../../media/Digraphs-(Directed-Graphs)-image4.jpg)
 
 ## Digraph Search

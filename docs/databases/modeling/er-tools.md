@@ -31,6 +31,7 @@ Low level design section includes a list of tables with a description of their p
 ![image](../../media/ER-Tools-image1.jpg)
 
 Data warehouse included many tables from multiple modules (accounts payable, accounts receivable, general ledger, projects, purchasing, inventory and a few more) and this documentation can save weeks or months of figuring out where the data was, the purpose of columns, how to join tables, or which views to use.
+
 <https://www.dbml.org>
 
 DBML (Database Markup Language)is an open-source DSL language designed to define and document database schemas and structures. It is designed to be simple, consistent and highly-readable.

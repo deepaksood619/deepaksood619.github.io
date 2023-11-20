@@ -16,6 +16,7 @@ Two synergic properties in software design
 - Low coupling
 
 DDD is an approach to software development that tackles complex systems by mapping activities, tasks, events, and data from a business domain to software artifacts. One of the most important concepts of DDD is the *bounded context*, which is a cohesive and well-defined unit within the business model in which you define the boundaries of your software artifacts
+
 <https://en.wikipedia.org/wiki/Domain-driven_design>
 
 ## Financial System
@@ -35,6 +36,7 @@ The diagram above shows that fraud-detection is composed of the workflow's first
 At a very high level, the process we just followed is called [Domain-Driven Design (DDD)](https://dddcommunity.org/learning-ddd/what_is_ddd/), which is supported by the recommended pattern to bind each microservice's scope and ownership claim to a business subdomain called [bounded context](https://martinfowler.com/bliki/BoundedContext.html).
 
 Notice that each microservice has its own dedicated database for **isolation**. The **empowered autonomous team** that owns the blue bounded context chose [RediSearch](https://redislabs.com/modules/redis-search/) to support their "Authenticate Digital Identity" microservice, and [RedisBloom](https://redislabs.com/modules/redis-bloom/) to support their "Probabilistic Fraud Detection Checkpoint" microservice. Meanwhile, a separate team that owns the purple bounded context chose [RedisAI](https://redislabs.com/modules/redis-ai/) to support "Transaction Risk Scoring" in real-time.
+
 ![image](../../../media/Microservice-Architecture_Domain-Driven-Design-image3.jpg)
 
 <https://www.domainlanguage.com/ddd/reference/attachment/pattern-language-overview-med>

@@ -52,6 +52,7 @@ InfluxDB is a time series database. Optimizing for this use case entails some tr
 8. No one point is too important.
     Pro:InfluxDB has very powerful tools to deal with aggregate data and large data sets.
     Con:Points don't have IDs in the traditional sense, they are differentiated by timestamp and series.
+
 <https://docs.influxdata.com/influxdb/v1.7/concepts/insights_tradeoffs>
 
 ## InfluxDB schema design and data layouts

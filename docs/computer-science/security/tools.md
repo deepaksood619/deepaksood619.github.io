@@ -4,6 +4,7 @@
 
 Dex is an identity service that uses [OpenID Connect](https://openid.net/connect/) to drive authentication for other apps.
 Dex acts as a portal to other identity providers through ["connectors."](https://github.com/dexidp/dex#connectors) This lets dex defer authentication to LDAP servers, SAML providers, or established identity providers like GitHub, Google, and Active Directory. Clients write their authentication logic once to talk to dex, then dex handles the protocols for a given backend.
+
 <https://github.com/dexidp/dex>
 
 ## SPIFFE (Secure Production Identity Framework for Everyone)
@@ -61,6 +62,7 @@ An authorization library that supports access control models like ACL, RBAC, ABA
 ## Lavabit
 
 Secure emailfor the world
+
 <https://lavabit.com>
 
 ## Android

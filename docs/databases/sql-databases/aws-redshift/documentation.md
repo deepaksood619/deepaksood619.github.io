@@ -108,6 +108,7 @@ Interleaved sort gives equal weight to each column in the Redshift sort keys. As
   - Sort keys are less beneficial on small tables
   - Define four or less sort key columns - more will result in marginal gains and increased ingestion overhead
 - Less then 10000 rows, don't sort, since all will be in a single zone map
+
 <https://docs.aws.amazon.com/redshift/latest/dg/c_best-practices-sort-key.html>
 - To have Amazon Redshift choose the appropriate sort order, specifyAUTOfor the sort key.
 - If recent data is queried most frequently, specify the timestamp column as the leading column for the sort key.

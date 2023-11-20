@@ -237,6 +237,7 @@ SET query_group TO 'superuser'
 - Use QMR rather than WLM to set query timeouts
 - Use QMR to log long running queries
 - Save the superuser queue for administration tasks and cenceling queries
+
 <https://github.com/awslabs/amazon-redshift-utils>
 
 [AWS re:Invent 2018: [REPEAT 1] Deep Dive and Best Practices for Amazon Redshift (ANT401-R1)](https://www.youtube.com/watch?v=TJDtQom7SAA)
@@ -259,6 +260,7 @@ The COPY command loads data into Amazon Redshift tables from either data files o
   - When you load compressed data, with the COPY command from multiple files, the data loads in parallel. This divides the workload among the nodes in your cluster. When you load all the data from a single large, compressed file, Amazon Redshift is forced to perform a serialized load, which is much slower.
   - In contrast, when you load delimited data from a large, uncompressed file, Amazon Redshift makes use of multiple slices. These slices work in parallel, automatically. This provides fast load performance. Specifically, when Amazon Redshift loads uncompressed, delimited data, data is split into ranges and handled by slices in each node.
   - If you intend to load data from a large, compressed file, we recommend that you split your data into smaller files that are about equal size, from 1 MB to 1 GB after compression. For optimum parallelism, the ideal file size is 1--125 MB after compression. Make the number of files a multiple of the number of slices in your cluster.
+
 <https://docs.aws.amazon.com/redshift/latest/dg/c_loading-data-best-practices.html>
 
 ## Copy Job

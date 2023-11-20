@@ -74,6 +74,7 @@ Specifically this is what Redis does 10 times per second:
 3. If more than 25% of keys were expired, start again from step 1.
 This is a trivial probabilistic algorithm, basically the assumption is that our sample is representative of the whole key space, and we continue to expire until the percentage of keys that are likely to be expired is under 25%
 This means that at any given moment the maximum amount of keys already expired that are using memory is at max equal to max amount of write operations per second divided by 4.
+
 <https://redis.io/commands/expire#how-redis-expires-keys>
 <https://redis.io/topics/data-types-intro>
 
@@ -121,6 +122,7 @@ RDB file is a dump of all user data stored in an internal, compressed serializat
 ## Compress AOF
 
 BGREWRITEAOF
+
 <https://redis.io/commands/bgrewriteaof>
 <https://stackoverflow.com/questions/39953542/aof-and-rdb-backups-in-redis>
 
@@ -139,4 +141,5 @@ Examples of events that can be received are:
 Events are delivered using the normal Pub/Sub layer of Redis, so clients implementing Pub/Sub are able to use this feature without modifications.
 Because Redis Pub/Sub isfire and forgetcurrently there is no way to use this feature if your application demandsreliable notificationof events, that is, if your Pub/Sub client disconnects, and reconnects later, all the events delivered during the time the client was disconnected are lost.
 In the future there are plans to allow for more reliable delivering of events, but probably this will be addressed at a more general level either bringing reliability to Pub/Sub itself, or allowing Lua scripts to intercept Pub/Sub messages to perform operations like pushing the events into a list.
+
 <https://redis.io/topics/notifications>

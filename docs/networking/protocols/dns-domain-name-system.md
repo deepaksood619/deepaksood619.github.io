@@ -146,6 +146,7 @@ A **Service record** (**SRV record**) is a specification of data in the [Domain 
 Punycode is a representation of [Unicode](https://en.wikipedia.org/wiki/Unicode) with the limited [ASCII](https://en.wikipedia.org/wiki/ASCII) character subset used for Internet [host names](https://en.wikipedia.org/wiki/Host_(network)). Using Punycode, host names containing Unicode characters are transcoded to a subset of ASCII consisting of letters, digits, and hyphen, which is called the Letter-Digit-Hyphen (LDH) subset. For example,*München*([German](https://en.wikipedia.org/wiki/German_language) name for [Munich](https://en.wikipedia.org/wiki/Munich)) is encoded as*Mnchen-3ya*
 
 While the [Domain Name System](https://en.wikipedia.org/wiki/Domain_Name_System)(DNS) technically supports arbitrary sequences of octets in domain name labels, the DNS standards recommend the use of the LDH subset of ASCII conventionally used for host names, and require that string comparisons between DNS domain names should be case-insensitive. The Punycode syntax is a method of encoding strings containing Unicode characters, such as [internationalized domain names](https://en.wikipedia.org/wiki/Internationalized_domain_name)(IDNA), into the LDH subset of ASCII favored by DNS. It is specified in [IETF](https://en.wikipedia.org/wiki/IETF)[Request for Comments](https://en.wikipedia.org/wiki/Request_for_Comments) 3492.
+
 <https://en.wikipedia.org/wiki/Punycode>
 
 ## mDNS (multicast DNS)
@@ -177,6 +178,7 @@ SNI is an extension to TLS that provides support for multiple hostnames on a sin
 ## How does SNI work?
 
 The TLS extension SNI works by requiring the client to transmit the hostname of the service it wishes to securely communicate with before the encryption is established. An updated version of SNI called ESNI allows this hostname to be encrypted, which protects privacy and helps to avoid censorship.
+
 <https://www.toptal.com/web/encrypted-safe-with-esni-doh-dot>
 
 ## Global Traffic Management

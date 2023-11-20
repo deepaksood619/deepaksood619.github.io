@@ -20,6 +20,7 @@ render_screen()
 
 - Unity
 - Unreal Engine
+
 ![image](../../media/System-Design-MMOG-Game-image2.jpg)
 
 1. Strategic games
@@ -74,13 +75,17 @@ render_screen()
   - No design pattern
 
 ![image](../../media/System-Design-MMOG-Game-image4.jpg)
+
 ![image](../../media/System-Design-MMOG-Game-image5.jpg)
+
 ![image](../../media/System-Design-MMOG-Game-image6.jpg)
+
 ![image](../../media/System-Design-MMOG-Game-image7.jpg)
 
 - World Server
 - Game /Area Server
 - Data Structure - Map Template
+
 ![image](../../media/System-Design-MMOG-Game-image8.jpg)
 
 ## Patch Servers

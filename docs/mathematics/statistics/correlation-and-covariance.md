@@ -42,6 +42,7 @@ Usually, in statistics, we measure four types of correlations:
 2. 0, Neutral Correlation - No relationship in the change of the variables, independent
 
 3. -1, Negative Correlation - Variables change in opposite directions
+
 ![image](../../media/Correlation-and-Covariance-image1.jpg)
 
 The performance of some algorithms can deteriorate if two or more variables are tightly related, called **multicollinearity**. An example is linear regression, where one of the offending correlated variables should be removed in order to improve the skill of the model. We can quantify the relationship between samples of two variables using a statistical method called Pearson's correlation coefficient, named for the developer of the method, Karl Pearson.

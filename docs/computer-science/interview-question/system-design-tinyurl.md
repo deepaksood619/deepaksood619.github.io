@@ -45,6 +45,7 @@ Delegate requests to one of the worker threads
 - Length of generated tinyURL - 7 characters long
 - Total combinations - 62^7 - 3.5 trillion (million requests/second - 40 days, 1000 requests/second - 110 years exhaust)
 - Any number from 0 to 3.5 trillion can be represented by 43 bits
+
 ![image](../../media/System-Design-TinyURL-image2.jpg)
 
 ## Database

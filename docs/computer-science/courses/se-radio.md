@@ -62,4 +62,5 @@ The cost of cloud storage and compute continues to drop, so engineers can afford
 Kafka, Spark, and Flink are great general purpose tools, but there is also room for a more narrow set of distributed systems tools to support high volume event data. Apache Druid is an open source database built for high performance, read only analytic workloads. Druid has a useful combination of features for event data workloads, including a column-oriented storage system, automatic search indexing, and a horizontally scalable architecture.
 
 Druid's feature set allows for new types of analytics applications to be built on top of it, including search applications, dashboards, and ad-hoc analytics.
+
 <https://softwareengineeringdaily.com/category/data>

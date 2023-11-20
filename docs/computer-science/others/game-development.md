@@ -28,4 +28,5 @@ Host, Run and Scale dedicated game servers on Kubernetes
 A finite-state machine (FSM) is a model of computation. In an FSM, just one of a finite number of hypothetical states can be active at any given time.
 In the competitive world of gaming, developers strive to offer an entertaining user experience for those who interact with the non-player characters (NPCs) that we create. Developers can deliver this interactivity by using finite-state machines (FSMs) to create [AI](https://www.toptal.com/artificial-intelligence) solutions that simulate intelligence in our NPCs.
 AI trends have shifted to behavioral trees, but FSMs remain relevant. They're incorporated - in one capacity or another - into virtually every electronic game.
+
 <https://www.toptal.com/unity-unity3d/unity-ai-development-finite-state-machine-tutorial>

@@ -4,12 +4,15 @@
 
 Considernpeople who are attending a party. We assume that every person has an equal probability of being born on any day during the year, independently of everyone else, and ignore the additional complication presented by leap years (i.e., nobody is born on February 29). What is the probability that each person has a distinct birthday?
 ![image](../../../media/Intro-Syllabus_Unit-3-Solved-Problems-image1.jpg)
+
 ![image](../../../media/Intro-Syllabus_Unit-3-Solved-Problems-image2.jpg)
 
 ## Rooks on a chessboard
 
 Eight rooks are placed in distinct squares of an8×8chessboard, with all possible placements being equally likely. Find the probability that all the rooks are safe from one another, i.e., that there is no row or column with more than one rook.
+
 ![image](../../../media/Intro-Syllabus_Unit-3-Solved-Problems-image3.jpg)
+
 ![image](../../../media/Intro-Syllabus_Unit-3-Solved-Problems-image4.jpg)
 
 1. Counting Principle

@@ -25,11 +25,13 @@
 ![image](../../media/3Blue1Brown-image1.jpg)
 
 called as i hat and j hat
+
 ![image](../../media/3Blue1Brown-image2.jpg)
 
 **Linearly dependent vectors** - If one vector can be removed without changing the span of the vectors. i.e. one of the vectors can be expressed as a linear combination of the other vector
 
 ![image](../../media/3Blue1Brown-image3.jpg)
+
 ![image](../../media/3Blue1Brown-image4.jpg)
 
 **Basis** - The basis of a vector space is a set of linearly independent vectors that span the full space
@@ -70,7 +72,9 @@ But Matrix multiplication is associative i.e. (AB)C = A(BC)
 Volume of the parallelepiped
 
 ![image](../../media/3Blue1Brown-image8.jpg)
+
 ![image](../../media/3Blue1Brown-image9.jpg)
+
 ![image](../../media/3Blue1Brown-image10.jpg)
 
 ## Inverse matrices, column space, rank and null space
@@ -107,7 +111,9 @@ Matching coordinates, multiplying pair and adding them together.
 ![image](../../media/3Blue1Brown-image13.jpg)
 
 If we projected vector w onto the line that passes through the origin and the tip of vector v, multiplying the length of this projection, by the length of v, we have the dot product.
+
 ![image](../../media/3Blue1Brown-image14.jpg)
+
 ![image](../../media/3Blue1Brown-image15.jpg)- If vectors are pointing in the same direction, then the dot product is positive
 
 - If vectors are perpendicular to each other, there dot product is 0
@@ -126,7 +132,9 @@ If v is to the right of w, than cross product is positive
 If v is to the left of w, than cross product is negative
 
 ![image](../../media/3Blue1Brown-image18.jpg)
+
 ![image](../../media/3Blue1Brown-image19.jpg)
+
 ![image](../../media/3Blue1Brown-image20.jpg)- Cross product of two perpendicular vectors are greater than the vectors that are pointing in very similar direction
 
 - If we scale a vector by a factor of a, than area of parallelogram also scales up by a factor of a
@@ -134,16 +142,23 @@ If v is to the left of w, than cross product is negative
 ![image](../../media/3Blue1Brown-image21.jpg)
 
 Cross product of two vectors is a vector that is the area of the parallelogram and is perpendicular to the parallelogram and in the direction of the thumb of the right hand rule.
+
 ![image](../../media/3Blue1Brown-image22.jpg)
+
 ![image](../../media/3Blue1Brown-image23.jpg)
+
 ![image](../../media/3Blue1Brown-image24.jpg)
+
 ![image](../../media/3Blue1Brown-image25.jpg)
 
 ## Cross Product in the light of linear transformations
 
 ![image](../../media/3Blue1Brown-image26.jpg)
+
 ![image](../../media/3Blue1Brown-image27.jpg)
+
 ![image](../../media/3Blue1Brown-image28.jpg)
+
 ![image](../../media/3Blue1Brown-image29.jpg)
 
 ## Change of basis
@@ -159,7 +174,9 @@ Cross product of two vectors is a vector that is the area of the parallelogram a
   - Apply the inverse change of basis matrix to get the transformed vector but in Jennifer's language
 
 ![image](../../media/3Blue1Brown-image30.jpg)
+
 ![image](../../media/3Blue1Brown-image31.jpg)
+
 ![image](../../media/3Blue1Brown-image32.jpg)
 
 ## Eigenvectors and eigenvalues
@@ -167,7 +184,9 @@ Cross product of two vectors is a vector that is the area of the parallelogram a
 Eigenvectors - the vectors that doesn't change its span after a transformation. The factor by which they are changed (either stretched or squished) during the transformation is eigenvalue.
 
 ![image](../../media/3Blue1Brown-image33.jpg)
+
 ![image](../../media/3Blue1Brown-image34.jpg)
+
 ![image](../../media/3Blue1Brown-image35.jpg)- Negative eigenvalue corresponds to flipping during transformation
 
 - There could be no eigenvectors in a transformation
@@ -192,6 +211,7 @@ We can change our coordinate system so that our eigenvectors are our basis vecto
 
 - Scaling - Is if you scale a vector v by some number, then apply the transformation, you get the same ultimate vector as if you scale the transformed version of v by that same amount.
 - Linear transformations preserve addition and scalar multiplication
+
 ![image](../../media/3Blue1Brown-image39.jpg)
 
 ## References

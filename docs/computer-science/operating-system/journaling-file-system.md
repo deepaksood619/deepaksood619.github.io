@@ -63,6 +63,7 @@ In [log-structured file systems](https://en.wikipedia.org/wiki/Log-structured_fi
 ## Copy-on-write file systems
 
 Full [copy-on-write](https://en.wikipedia.org/wiki/Copy-on-write) file systems (such as [ZFS](https://en.wikipedia.org/wiki/ZFS) and [Btrfs](https://en.wikipedia.org/wiki/Btrfs)) avoid in-place changes to file data by writing out the data in newly allocated blocks, followed by updated metadata that would point to the new data and disown the old, followed by metadata pointing to that, and so on up to the superblock, or the root of the file system hierarchy. This has the same correctness-preserving properties as a journal, without the write-twice overhead.
+
 <https://en.wikipedia.org/wiki/Journaling_file_system>
 
 ## ZFS

@@ -38,6 +38,7 @@ The division of large portions of IP space into classes is now almost a legacy c
 ## Reserved IP Addresses
 
 One of the most useful reserved ranges is the loopback range specified by addresses from 127.0.0.0 to 127.255.255.255. This range is used by each host to test networking to itself. Typically, this is expressed by the first address in this range: 127.0.0.1.
+
 <https://en.wikipedia.org/wiki/Reserved_IP_addresses>
 
 ## LoopBack Address
@@ -73,6 +74,7 @@ For example, we could express the idea that the IP address192.168.0.15is associa
 
 [IPAM (IP Address Management)](https://www.infoblox.com/products/ipam-dhcp/) is the administration of DNS and DHCP, which are the network services that assign and resolve IP addresses to machines in a TCP/IP network. Simply put, IPAM is a means of planning, tracking, and managing the Internet Protocol address space used in a network. Most commonly, tools such as DNS and DHCP are used in tandem to perform this task, though true IPAM will glue these services together so that each is aware of changes in the other (for instance DNS knowing of the IP address taken by a client via DHCP, and updating itself accordingly).
 IP Address Management (IPAM) is an integrated suite of tools to enable end-to-end planning, deploying, managing and monitoring of your IP address infrastructure, with a rich user experience. IPAM automatically discovers IP address infrastructure servers and Domain Name System (DNS) servers on your network and enables you to manage them from a central interface.
+
 <https://docs.microsoft.com/en-us/windows-server/networking/technologies/ipam/ipam-top>
 
 ## Ip address examples

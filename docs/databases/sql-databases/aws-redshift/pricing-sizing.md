@@ -12,6 +12,7 @@ Redshift managed storage uses large, high-performance SSDs in each RA3 node for 
 ## Managed, Analytics-Optimized Storage
 
 The new managed storage is equally exciting. There's a cache of large-capacity, high-performance SSD-based storage on each instance, backed by [S3](https://aws.amazon.com/s3/), for scale, performance, and durability. The storage system uses multiple cues, including data block temperature, data blockage, and workload patterns, to manage the cache for high performance. Data is automatically placed into the appropriate tier, and you need not do anything special to benefit from the caching or the other optimizations. You pay the same low price for SSD and S3 storage, and you can scale the storage capacity of your data warehouse without adding and paying for additional instances.
+
 <https://docs.aws.amazon.com/redshift/latest/mgmt/working-with-clusters.html#rs-ra3-node-types>
 
 ## DC2 nodes
@@ -53,10 +54,15 @@ Classic Resize
 - Enable / disable full disk encryption
 Elastic Resize
 - Nodes are added/removed to/from existing cluster (within minutes)
+
 ![image](../../../media/AWS-Redshift_Pricing-Sizing-image2.jpg)
+
 ![image](../../../media/AWS-Redshift_Pricing-Sizing-image3.jpg)
+
 ![image](../../../media/AWS-Redshift_Pricing-Sizing-image4.jpg)
+
 ![image](../../../media/AWS-Redshift_Pricing-Sizing-image5.jpg)
+
 ![image](../../../media/AWS-Redshift_Pricing-Sizing-image6.jpg)
 
 ## Best Practices: Cluster Sizing

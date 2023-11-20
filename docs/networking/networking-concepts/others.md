@@ -36,6 +36,7 @@ ssh -i ec2_ssh_key.pem -X ubuntu@13.233.36.211
 mac - cmd+space
 
 vnc://13.233.36.211:5901
+
 <https://ubuntu.com/tutorials/tutorial-ubuntu-desktop-aws#1-overview>
 
 <https://datawookie.netlify.app/blog/2017/08/remote-desktop-on-an-ubuntu-ec2-instance>

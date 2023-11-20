@@ -105,6 +105,7 @@ Parquet
 - All the formats have general compression
   - ZLIB (GZip) - tight compression, slower
   - Snappy - Some compression, faster
+
 ![image](../../media/File-Formats-image2.jpg)
 
 ## Taxi size analysis
@@ -125,6 +126,7 @@ Parquet
   - String columns have small cardinality
   - Lots of timestamp columns
   - No doubles
+
 ![image](../../media/File-Formats-image5.jpg)
 
 ## Github Size Analysis
@@ -140,6 +142,7 @@ Parquet
 - Read all columns & rows
 - All formats except JSON are splitable
   - Different workers do different parts of file
+
 ![image](../../media/File-Formats-image6.jpg)
 
 ## Taxi read performance analysis
@@ -149,6 +152,7 @@ Parquet
   - Needs to do a lot of string parsing
 - Tradeoff between space & time
   - Less compression is sometimes faster
+
 ![image](../../media/File-Formats-image7.jpg)
 
 ## Sales read performance analysis
@@ -160,6 +164,7 @@ Parquet
   - ORC 0.3 to 1.4% of time
   - Avro < 0.1% of time
   - Parquet 4 to 8% of time
+
 ![image](../../media/File-Formats-image8.jpg)
 
 ## Github read performance analysis
@@ -171,6 +176,7 @@ Parquet
 - A lot of columns needs more space
   - Suspect that we need bigger stripes
   - Rows/stripe - ORC: 18.6k, Parquet: 88.1k
+
 ![image](../../media/File-Formats-image9.jpg)
 
 ## Projection & Predicate Pushdown
@@ -203,6 +209,7 @@ Parquet
 1. Simply compressing JSON with zlib would yield a reasonable tradeoff in size and speed. The result would be just a little bigger, but execution was much faster than using BZ2 on JSON.
 
 2. Going with IDL-based protocols, Thrift and Protocol Buffers compressed with zlib or Snappy would give us the best gain in size and/or speed.
+
 ![image](../../media/File-Formats-image10.jpg)
 
 <https://www.slideshare.net/oom65/file-format-benchmarks-avro-json-orc-parquet>

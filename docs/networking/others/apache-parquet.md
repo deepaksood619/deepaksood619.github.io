@@ -24,7 +24,9 @@ Apache Parquet is a self-describing data format which embeds the schema, or stru
   - Compression techniques specific to a type can be applied as the column values tend to be of the same type
   - Queries that fetch specific column values need not read the entire raw data thus improving performance
   - Different encoding techniques can be applied to different columns
+
 ![image](../../media/Apache-Parquet-image1.jpg)
+
 ![image](../../media/Apache-Parquet-image2.jpg)
 
 ## Compression and encoding

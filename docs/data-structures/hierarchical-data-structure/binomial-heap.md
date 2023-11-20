@@ -20,7 +20,9 @@ b) It has depth as k.
 c) There are exactly ^k^Cinodes at depth i for i = 0, 1, . . . , k.
 
 d) The root has degree k and children of root are themselves Binomial Trees with order k-1, k-2,.. 0 from left to right.
+
 ![image](../../media/Binomial-Heap-image1.jpg)
+
 ![image](../../media/Binomial-Heap-image2.jpg)
 
 ## Structure of a Binomial Heap

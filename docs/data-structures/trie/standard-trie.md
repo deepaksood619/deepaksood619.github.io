@@ -23,4 +23,5 @@ A node that has avalue associatedrepresents a word with a higher or lower chance
 Looking up data in atrieis fast; the worst case takesO(m), wheremis the length of the string, and you don't have to worry about two different words ending up in the same location(collision).
 The drawback is thattriescan take up a lot of space because they save each intermediate step. It is also hard to prevent adding long, meaningless sequences of characters to the trie.
 They are also calledprefix treesbecause apre-order traversalwould visit the nodes inlexicographical order.
+
 ![image](../../media/Standard-Trie-image2.jpg)

@@ -47,10 +47,13 @@ A predicate is a term that says something about a subject.
 - part of sentence frame
 - comments on subject
 - verb and all non-subject arguments
+
 ![image](../../media/Logic-image1.jpg)
 
 Predicate comes first
+
 ![image](../../media/Logic-image2.jpg)
+
 ![image](../../media/Logic-image3.jpg)
 
 ## Valency
@@ -62,7 +65,9 @@ Lx,Rx - 1 slots (x), Valency - 1
 Sxy - 2 slots (x, y), Valency - 2
 
 Gxyz - 3 slots (x, y, z), Valency - 3
+
 ![image](../../media/Logic-image4.jpg)
+
 ![image](../../media/Logic-image5.jpg)
 
 ## Quantifiers & Bound Variables
@@ -73,25 +78,40 @@ Gxyz - 3 slots (x, y, z), Valency - 3
   - all
   - some (at least 1)
   - none
+
 ![image](../../media/Logic-image6.jpg)
+
 ![image](../../media/Logic-image7.jpg)
+
 ![image](../../media/Logic-image8.jpg)
+
 ![image](../../media/Logic-image9.jpg)
+
 ![image](../../media/Logic-image10.jpg)
+
 ![image](../../media/Logic-image11.jpg)
+
 ![image](../../media/Logic-image12.jpg)
+
 ![image](../../media/Logic-image13.jpg)
+
 ![image](../../media/Logic-image14.jpg)
+
 ![image](../../media/Logic-image15.jpg)
+
 ![image](../../media/Logic-image16.jpg)# Logical Operators/Connectives
 - **Logical conjuction**
 - join symbols with "and" (. & Λ)
 - conjuction with statements p.q
 - conjunction with variables x.y
+
 ![image](../../media/Logic-image17.jpg)- **Logical disjunction**
 ![image](../../media/Logic-image18.jpg)
+
 ![image](../../media/Logic-image19.jpg)
+
 ![image](../../media/Logic-image20.jpg)
+
 ![image](../../media/Logic-image21.jpg)
 
 ## Logical Equivalence ( = )
@@ -99,27 +119,39 @@ Gxyz - 3 slots (x, y, z), Valency - 3
 ## Conditional
 
 ![image](../../media/Logic-image22.jpg)
+
 ![image](../../media/Logic-image23.jpg)
 
 ## Biconditional
 
 ![image](../../media/Logic-image24.jpg)
+
 ![image](../../media/Logic-image25.jpg)
+
 ![image](../../media/Logic-image26.jpg)
+
 ![image](../../media/Logic-image27.jpg)
+
 ![image](../../media/Logic-image28.jpg)
+
 ![image](../../media/Logic-image29.jpg)
+
 ![image](../../media/Logic-image30.jpg)
+
 ![image](../../media/Logic-image31.jpg)
 
 ## The language of sets & probability
 
 ![image](../../media/Logic-image32.jpg)
+
 ![image](../../media/Logic-image33.jpg)- Intersection
 
 - Union
+
 ![image](../../media/Logic-image34.jpg)
+
 ![image](../../media/Logic-image35.jpg)
+
 ![image](../../media/Logic-image36.jpg)
 
 ## Probability
@@ -177,4 +209,5 @@ This only supports the conclusion *It's tragic.* Not that A is C.
 ## References
 
 [Logic & Language - a short introduction to logic](https://www.youtube.com/playlist?list=PL48654681292CF456)
+
 ![image](../../media/Logic-image38.jpg)

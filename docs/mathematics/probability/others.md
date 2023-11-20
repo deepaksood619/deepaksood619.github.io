@@ -57,6 +57,9 @@ In [mathematics](https://en.wikipedia.org/wiki/Mathematics), thesoftmax function
   - Example: The process by which an FDA drug works its way through the drug approval pipeline, from research to commercial development
 - **Monte Carlo Simulations:** When you have multiple inputs that determine an output variable, a simulation allows you specify probabilistic distributions for each input variable and get a distribution for the output variable
   - Example: Valuing a company, given its cash flows, growth and risk characteristics
+
 ![image](../../media/probability-Others-image3.jpg)
+
 ![image](../../media/Others-image4-logit.jpg)
+
 ![image](../../media/Others-image5-probit.jpg)

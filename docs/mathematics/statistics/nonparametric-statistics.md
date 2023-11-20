@@ -45,4 +45,5 @@ Non-parametric(ordistribution-free)inferential statistical methodsare mathematic
 - [Tukey--Duckworth test](https://en.wikipedia.org/wiki/Tukey%E2%80%93Duckworth_test): tests equality of two distributions by using ranks
 - [Wald--Wolfowitz runs test](https://en.wikipedia.org/wiki/Wald%E2%80%93Wolfowitz_runs_test): tests whether the elements of a sequence are mutually independent/random
 - [Wilcoxon signed-rank test](https://en.wikipedia.org/wiki/Wilcoxon_signed-rank_test): tests whether matched pair samples are drawn from populations with different mean ranks
+
 <https://en.wikipedia.org/wiki/Nonparametric_statistics>

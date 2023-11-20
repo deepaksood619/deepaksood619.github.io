@@ -22,6 +22,7 @@ Another category of tests that's very applicable to microservices are contract t
 ## End-to-end tests
 
 The test suites we discussed earlier are applicable to testing individual services. End-to-end tests, however, are more coarse-grained and try to test the functionality of an overall system. Depending on the deployment architecture you're going for, if you are deploying all of your services in a pre-production environment in an aggregate manner, you can run end-to-end tests there. Since end-to-end tests are usually brittle and take a long time to run, you'll usually want to restrict the number of these tests to as few as possible. If you have microservices that are completely independent and don't get deployed to a pre-production test environment, then consider approaches that test in production.
+
 ![image](../../media/Test-Pyramid-image1.jpg)
 
 ## Fault Injection
@@ -31,6 +32,7 @@ Introducing errors in a controlled manner in production to see if your system ca
 ## Multivariate testing
 
 Another interesting variation of this kind of testing is multivariate testing, where you're not really testing your new service against defects, instead, you are A/B testing new release features behind A/B testing toggles. The purpose of this type of testing is to see how well these features are received. You can decide roll it out to your entire set of users or make fixes where necessary.
+
 <https://martinfowler.com/articles/practical-test-pyramid.html>
 
 ## Automated vs. Manual Testing
@@ -85,4 +87,5 @@ Examples of compatibility testing include:
 - browser testing (checking to make sure your website or mobile site is fully compatible with different browsers)
 - mobile testing (making sure your application is compatible with iOS and Android)
 - or software testing (if you're going to be creating multiple software applications that need to be interacting with one another, you'll need to conduct compatibility testing to ensure that they actually do so).
+
 <https://www.freecodecamp.org/news/types-of-software-testing>

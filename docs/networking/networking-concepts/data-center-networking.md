@@ -19,11 +19,13 @@ DCell is a server-centric hybrid DCN architecture where one server is directly c
 ## Others
 
 Some of the other well-known DCNs include BCube, Camcube, FiConn, Jelly fishand Scafida. A qualitative discussion of different DCNs along with benefits and drawbacks associated with each one has been made available.
+
 <https://en.wikipedia.org/wiki/Data_center_network_architectures>
 
 ## Torus Interconnect
 
 A **[torus](https://en.wikipedia.org/wiki/Torus) interconnect**is a switch-less [network topology](https://en.wikipedia.org/wiki/Network_topology) for connecting processing nodes in a [parallel computer](https://en.wikipedia.org/wiki/Parallel_computer) system.
+
 <https://en.wikipedia.org/wiki/Torus_interconnect>
 
 ## InfiniBand

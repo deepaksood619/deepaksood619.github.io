@@ -22,6 +22,7 @@ In many digital circuits and practical problems we need to find expression with 
 5. Make rectangular groups containing total terms in power of two like 2,4,8 ..(except 1) and try to cover as many elements as you can in one group.
 
 6. From the groups made in step 5 find the product terms and sum them up for SOP form.
+
 <https://www.geeksforgeeks.org/k-mapkarnaugh-map>
 
 <https://en.wikipedia.org/wiki/Karnaugh_map>

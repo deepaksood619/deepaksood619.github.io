@@ -9,6 +9,7 @@ In a variation of the standard chain-of-responsibility model, some handlers may 
 This pattern promotes the idea of [loose coupling](https://en.wikipedia.org/wiki/Loose_coupling).
 
 The chain-of-responsibility pattern is structurally nearly identical to the [decorator pattern](https://en.wikipedia.org/wiki/Decorator_pattern), the difference being that for the decorator, all classes handle the request, while for the chain of responsibility, exactly one of the classes in the chain handles the request.
+
 ![image](../../media/Behavioral-Chain-of-Responsibility-image1.jpg)
 
 ## Advantages of Chain of Responsibility Design Pattern
@@ -23,6 +24,7 @@ The chain-of-responsibility pattern is structurally nearly identical to the [dec
 - The request must be received not guarantee.
 - The performance of the system will be affected, but also in the code debugging is not easy may cause cycle call.
 - It may not be easy to observe the characteristics of operation, due to debug.
+
 <https://en.wikipedia.org/wiki/Chain-of-responsibility_pattern>
 
 <https://refactoring.guru/design-patterns/chain-of-responsibility>

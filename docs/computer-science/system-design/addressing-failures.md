@@ -59,6 +59,7 @@ A cascading failure is a failure that grows over time as a result of positive fe
 ## Load Shedding
 
 The idea is to ignore some requests rather than crashing a system and making it fail to serve any request.
+
 ![image](../../media/Addressing-Failures-image1.jpg)
 
 8. Retries

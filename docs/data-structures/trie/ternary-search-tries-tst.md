@@ -3,6 +3,7 @@
 Solve the problem of using large amount of data by R-way tries.
 Exactly 3 children.
 Creating associative Symbol table
+
 ![image](../../media/Ternary-Search-Tries-(TST)-image1.jpg)
 
 ![image](../../media/Ternary-Search-Tries-(TST)-image2.jpg)

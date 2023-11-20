@@ -20,6 +20,7 @@ A network-based WAF is generally hardware-based. Since they are installed locall
 A host-based WAF may be fully integrated into an application's software. This solution is less expensive than a network-based WAF and offers more customizability. The downside of a host-based WAF is the consumption of local server resources, implementation complexity, and maintenance costs. These components typically require engineering time, and may be costly.- **Cloud-based WAF**
 
 [Cloud](https://www.cloudflare.com/learning/cloud/what-is-the-cloud/)-based WAFs offer an affordable option that is very easy to implement; they usually offer a turnkey installation that is as simple as a change in [DNS](https://www.cloudflare.com/learning/ddos/glossary/domain-name-system-dns/) to redirect traffic. Cloud-based WAFs also have a minimal upfront cost, as users pay monthly or annually for security as a service. Cloud-based WAFs can also offer a solution that is consistently updated to protect against the newest threats without any additional work or cost on the user's end. The drawback of a cloud-based WAF is that users hand over the responsibility to a third-party, therefore some features of the WAF may be a black box to them.
+
 <https://www.cloudflare.com/learning/ddos/glossary/web-application-firewall-waf>
 
 <https://en.wikipedia.org/wiki/Web_application_firewall>
@@ -29,4 +30,5 @@ A host-based WAF may be fully integrated into an application's software. This so
 ## DDOS Blackhole routing
 
 DDoS blackhole routing/filtering (sometimes called blackholing), is a countermeasure to mitigate a [DDoS attack](https://www.cloudflare.com/learning/ddos/what-is-a-ddos-attack/) in which network traffic is routed into a "black hole," and is lost. When blackhole filtering is implemented without specific restriction criteria, both legitimate and malicious network traffic is routed to a null route or black hole and dropped from the network. When using protocols that are connectionless such as [UDP](https://www.cloudflare.com/learning/ddos/glossary/user-datagram-protocol-udp/), no notification of the dropped data will be returned to the source. With connection oriented protocols like [TCP](https://www.cloudflare.com/learning/ddos/glossary/tcp-ip/), which require a handshake to connect with the target system, a notification will be returned if the data is dropped.
+
 <https://www.freecodecamp.org/news/protect-against-ddos-attacks>

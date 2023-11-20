@@ -215,6 +215,7 @@ SomeClass.speak = speak
 
 Object-oriented analysis and design(OOAD) is a popular technical approach for analyzing and designing an application, system, or business by applying [object-oriented programming](https://en.wikipedia.org/wiki/Object-oriented_programming), as well as using visual modeling throughout the [development life cycles](https://en.wikipedia.org/wiki/Software_development_process) to foster better stakeholder communication and product quality.
 According to the popular guide [Unified Process](https://en.wikipedia.org/wiki/Unified_Process), OOAD in modern software engineering is best conducted in an iterative and incremental way. Iteration by iteration, the outputs of OOAD activities, analysis models for OOA and design models for OOD respectively, will be refined and evolve continuously driven by key factors like risks and business value.
+
 <https://en.wikipedia.org/wiki/Object-oriented_analysis_and_design>
 
 ## Important Points

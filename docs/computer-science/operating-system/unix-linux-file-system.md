@@ -41,6 +41,7 @@ sdb3 = 3rd partition on the second HD ('b' is second of two or more active HDs)
 
 shm / shmfs is also known as tmpfs, which is a common name for a temporary file storage facility on many Unix-like operating systems. It is intended to appear as a mounted file system, but one which uses virtual memory instead of a persistent storage device.
 You can use /dev/shm to improve the performance of application software such as Oracle or overall Linux system performance. On heavily loaded system, it can make tons of difference. For example VMware workstation/server can be optimized to improve your Linux host's performance (i.e. improve the performance of your virtual machines).
+
 <https://www.cyberciti.biz/tips/what-is-devshm-and-its-practical-usage.html>
 
 ## /etc
@@ -82,6 +83,7 @@ root:*:0:0:System Administrator:/var/root:/bin/sh
 ## Hosts file - /etc/hosts
 
 The [computer file](https://en.wikipedia.org/wiki/Computer_file)**hosts** is an operating system file that maps [hostnames](https://en.wikipedia.org/wiki/Hostname) to [IP addresses](https://en.wikipedia.org/wiki/IP_address). It is a [plain text](https://en.wikipedia.org/wiki/Plain_text) file. Originally a file named HOSTS.TXT was manually maintained and made available via file sharing by [Stanford Research Institute](https://en.wikipedia.org/wiki/Stanford_Research_Institute) for the [ARPANET](https://en.wikipedia.org/wiki/ARPANET) membership, containing the hostnames and address of hosts as contributed for inclusion by member organizations. The [Domain Name System](https://en.wikipedia.org/wiki/Domain_Name_System), first described in 1983 and implemented in 1984, automated the publication process and provided instantaneous and dynamic hostname resolution in the rapidly growing network. In modern operating systems, the hosts file remains an alternative name resolution mechanism, configurable often as part of facilities such as the [Name Service Switch](https://en.wikipedia.org/wiki/Name_Service_Switch) as either the primary method or as a fallback method.z
+
 <https://en.wikipedia.org/wiki/Hosts_(file)>
 
 <https://bencane.com/2013/10/29/managing-dns-locally-with-etchosts>
@@ -170,6 +172,7 @@ cat /var/run/utmp
 
 xinetd, the eXtended InterNET Daemon, is an open-source daemon which runs on many Linux and Unix systems and manages Internet-based connectivity. It offers a more secure extension to or version of inetd, the Internet daemon.
 xinetd performs the same function as inetd: it starts programs that provide Internet services. Instead of having such servers started at system initialization time, and be dormant until a connection request arrives, xinetd is he only daemon process started and it listens on all service ports for the services listed in its configuration file. When a request comes in, xinetd starts the appropriate server. Because of the way it operates, xinetd (as well as inetd) is also referred to as a super-server.
+
 <https://www.cyberciti.biz/faq/linux-how-do-i-configure-xinetd-service>
 
 ## File Descriptor
@@ -183,6 +186,7 @@ Each Unix [process](https://en.wikipedia.org/wiki/Process_(computing))(except pe
 | 1             | [Standard output](https://en.wikipedia.org/wiki/Stdout) | STDOUT_FILENO                                                                                                                              | stdout                                                                                                                             |
 | 2             | [Standard error](https://en.wikipedia.org/wiki/Stderr)  | STDERR_FILENO                                                                                                                              | stderr                                                                                                                             |
 /proc/113/fd -> 0,1,2 -> 2>&1
+
 <https://en.wikipedia.org/wiki/File_descriptor>
 
 ## Ownership of Linux Files
@@ -220,6 +224,7 @@ w= write permission
 x= execute permission
 
 -= no permission
+
 ![image](../../media/Unix-Linux-File-System-image3.jpg)
 
 ## Changing file/directory permissions with 'chmod' command
@@ -340,6 +345,7 @@ sudo chmod +r /var/log/electric_meter.log
 sudo usermod -a -G adm telegraf
 
 sudo usermod -a -G root telegraf
+
 <https://www.guru99.com/file-permissions.html>
 
 <https://www.freecodecamp.org/news/file-systems-architecture-explained>

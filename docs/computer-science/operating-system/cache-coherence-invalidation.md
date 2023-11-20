@@ -2,6 +2,7 @@
 
 In [computer architecture](https://en.wikipedia.org/wiki/Computer_architecture), cache coherenceis the uniformity of shared resource data that ends up stored in multiple [local caches](https://en.wikipedia.org/wiki/Cache_(computing)). When clients in a system maintain [caches](https://en.wikipedia.org/wiki/CPU_cache) of a common memory resource, problems may arise with incoherent data, which is particularly the case with [CPUs](https://en.wikipedia.org/wiki/Central_processing_unit) in a [multiprocessing](https://en.wikipedia.org/wiki/Multiprocessing) system.
 In the illustration, consider both the clients have a cached copy of a particular memory block from a previous read. Suppose the client on the bottom updates/changes that memory block, the client on the top could be left with an invalid cache of memory without any notification of the change. Cache coherence is intended to manage such conflicts by maintaining a coherent view of the data values in multiple caches.
+
 ![image](../../media/Caches-Caching-image4.jpg)
 
 ## Requirements for cache coherence
@@ -28,6 +29,7 @@ For the snooping mechanism, a snoop filter reduces the snooping traffic by maint
 Main article:[Directory-based cache coherence](https://en.wikipedia.org/wiki/Directory-based_cache_coherence)
 
 In a directory-based system, the data being shared is placed in a common directory that maintains the coherence between caches. The directory acts as a filter through which the processor must ask permission to load an entry from the primary memory to its cache. When an entry is changed, the directory either updates or invalidates the other caches with that entry.
+
 <https://en.wikipedia.org/wiki/Cache_coherence>
 
 ### Cache Invalidation

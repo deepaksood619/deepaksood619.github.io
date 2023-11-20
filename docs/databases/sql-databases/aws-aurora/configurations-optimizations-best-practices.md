@@ -174,6 +174,7 @@ Impact:This setting also indirectly contributes to Performance Schema memory usa
 
 Recommended settings: Default (16,777,216 bytes). Together withmax_heap_table_size, this parameter limits the size for in-memory tables used for query processing. When the temporary table size limit is exceeded, tables are then swapped to disk.
 Impact:Very large values (hundreds of megabytes or more) are notorious for causing memory issues and out-of-memory errors. This parameter doesn't affect tables created with the MEMORY engine.
+
 <https://aws.amazon.com/blogs/database/best-practices-for-amazon-aurora-mysql-database-configuration>
 
 <https://docs.aws.amazon.com/AmazonRDS/latest/AuroraUserGuide/USER_WorkingWithParamGroups.html>
@@ -194,11 +195,13 @@ A non-Serverless DB cluster for Aurora is called aprovisioned DB cluster. Aurora
 
 Amazon Aurora Serverless v2, currently in preview, scales instantly from hundreds to hundreds-of-thousands of transactions in a fraction of a second. As it scales, it adjusts capacity in fine-grained increments to provide just the right amount of database resources that the application needs. There is no database capacity for you to manage, you pay only for the capacity your application consumes, and you can save up to 90% of your database cost compared to the cost of provisioning capacity for peak load.
 Aurora Serverless v2 (Preview) supports all manner of database workloads, from development and test environments, websites, and applications that have infrequent, intermittent, or unpredictable workloads to the most demanding, business critical applications that require high scale and high availability. It supports the full breadth of Aurora features, including Global Database, Multi-AZ deployments, and read replicas. Aurora Serverless v2 (Preview) is currently available in preview for Aurora with MySQL compatibility only.
+
 <https://docs.aws.amazon.com/AmazonRDS/latest/AuroraUserGuide/aurora-serverless.html>
 
 ## Important points
 
 - You can't give an Aurora Serverless DB cluster a public IP address. You can access an Aurora Serverless DB cluster only from within a virtual private cloud (VPC) based on the Amazon VPC service.
+
 <https://docs.aws.amazon.com/AmazonRDS/latest/AuroraUserGuide/aurora-serverless.how-it-works.html>
 
 ## Optimizations

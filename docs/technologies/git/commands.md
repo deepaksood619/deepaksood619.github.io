@@ -15,6 +15,7 @@ gst
 ```bash
 git clone --depth 1 reponame.git
 git clone --depth=1 --branch=master git://someserver/somerepo dirformynewrepo
+
 <https://stackoverflow.com/questions/30001304/clone-git-repository-without-history/30001366>
 Clone all repo in organization - <https://gist.github.com/potter0815/42dda83fa1709693be36>
 ```

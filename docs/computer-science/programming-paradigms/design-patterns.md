@@ -94,6 +94,7 @@ Design patterns which are used for architectural purposes. Some of the most famo
 ### Parameterization - Python
 
 In a parameterized function, one or more of the details of what the function does are defined as parameters instead of being defined in the function; they have to be passed in by the calling code.
+
 <https://www.toptal.com/python/python-parameterized-design-patterns>
 
 ## The Scope

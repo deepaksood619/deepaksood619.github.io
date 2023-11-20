@@ -37,6 +37,7 @@ RTL is short for RTL2832U. The Realtek RTL2832U chipset was a popular choice for
 ### Can You Transmit With Sdr?
 
 It depends on the SDR. If you have the right hardware, yes you can, but not with the RTL-SDR. Some transmission capable SDRs include the HackRF, PlutoSDR, LimeSDR, LimeSDR Mini, and more.
+
 <https://www.toptal.com/software/software-defined-radio-tutorial-rtl-sdr>
 
 ## Virtual Reality (VR / WebVR / AR - Augmented realityƒ)
