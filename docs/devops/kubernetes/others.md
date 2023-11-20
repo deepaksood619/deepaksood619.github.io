@@ -226,7 +226,9 @@ BKPR is open source under the Apache 2 License and is available for Google Kuber
 
 <https://github.com/helm/charts/tree/master/stable/cluster-autoscaler>
 
-## [Vertical Pod Autoscaler](https://github.com/kubernetes/autoscaler/tree/master/vertical-pod-autoscaler)/ VPA - a set of components that automatically adjust the amount of CPU and memory requested by pods running in the Kubernetes Cluster. Current state - beta
+## [Vertical Pod Autoscaler](https://github.com/kubernetes/autoscaler/tree/master/vertical-pod-autoscaler) / VPA
+
+A set of components that automatically adjust the amount of CPU and memory requested by pods running in the Kubernetes Cluster. Current state - beta
 
 <https://github.com/kubernetes/autoscaler/tree/master/vertical-pod-autoscaler>
 

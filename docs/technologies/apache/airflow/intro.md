@@ -62,15 +62,15 @@ The kubernetes executor is introduced in Apache Airflow 1.10.0. The Kubernetes e
 
 <https://github.com/apache/airflow/blob/master/airflow/config_templates/default_airflow.cfg>
 
-## Maintainance Task Dags - <https://github.com/teamclairvoyant/airflow-maintenance-dags>
+### Maintainance Task Dags - <https://github.com/teamclairvoyant/airflow-maintenance-dags>
 
-## Testing - <https://godatadriven.com/blog/testing-and-debugging-apache-airflow>
+### Testing - <https://godatadriven.com/blog/testing-and-debugging-apache-airflow>
 
 <https://github.com/mumoshu/kube-airflow>
 
 ## Airflow 2.0
 
-- stabilised REST API
+- Stabilised REST API
 - Adds an API to explicitly declare messages passed between tasks in a DAG. The so-called **TaskFlow API** is meant to help handle dependencies and promises to make declaring PythonOperator a tad easier. In order to improve the experience when grouping tasks via the UI, the Airflow team has come up with the concept of task groups, which can be used instead of SubDAGs but comes without drawbacks such as limited parallelism.
 - KubernetesExecutor has been re-architected so users can easily access the Kubernetes API to create their.yaml pod_template_file without the need to specify parameters in the Airflow configuration. Switching from an executor_config dictionary to the pod_override parameter, "which takes a Kubernetes V1Pod object for a 1:1 setting override", helped to reduce the codebase of the executor and improved execution speed.
 - Improve the performance of the scheduler, which seems to have reduced the time the component needs to start tasks. Practitioners using the scheduler with Postgres 9.6+ or MySQL 8+ can also profit from the option to run more than one scheduler instance at a time, which adds resiliency to any setup and makes the scheduler high availability compatible.

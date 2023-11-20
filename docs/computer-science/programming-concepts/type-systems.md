@@ -11,13 +11,17 @@ In [programming languages](https://en.wikipedia.org/wiki/Programming_language), 
 - Documentation
   - Easy to reason code's purpose
   - Doesn't drift like code comments
+
 Statically typed language
+
 - Types must be defined for every variable at compile time
 
 Dynamically typed language
 
 - Types are not required to be defined at compile time
+
 Weakly typed
+
 - Types can be changed at run time.
 
 Strongly typed
@@ -29,10 +33,12 @@ Dependent types (first class types)
 ## Statically Typed vs Dynamically Typed language
 
 A language is statically typed if the **type of a variable is known at compile time**. For some languages this means that you as the programmer must specify what type each variable is (e.g.: Java, C, C++); other languages offer some form oftype inference, the capability of the type system to deduce the type of a variable (e.g.: OCaml, Haskell, Scala, Kotlin, Python)
+
 The main advantage here is that all kinds of checking can be done by the compiler, and therefore a lot of trivial bugs are caught at a very early stage.
+
 A language is dynamically typed if the **type is associated with run-time values,** and not named variables/fields/etc. This means that you as a programmer can write a little quicker because you do not have to specify types every time (unless using a statically-typed language withtype inference). Example: Perl, Ruby, Python.
 
-## (In dynamically typed languages, types are associated with the variable's value, not the variable itself)
+**(In dynamically typed languages, types are associated with the variable's value, not the variable itself)**
 
 Most scripting languages have this feature as there is no compiler to do static type-checking anyway, but you may find yourself searching for a bug that is due to the interpreter misinterpreting the type of a variable. Luckily, scripts tend to be small so bugs have not so many places to hide.
 
@@ -82,7 +88,9 @@ Most scripting languages have this feature as there is no compiler to do static 
 ## Strong Typed vs Weak Typed language
 
 In strongly typed languages, variables are necessarily bound to a particular data type. Python is strong typed, and so is Java.
+
 As opposed to strong typed languages, weak typed languages are those in which variables are not of a specific data type. It should be noted that this does not imply that variables do not have types; it does mean that variables are not "bound" to a specific data type. PHP and C are examples of weak typed languages.
+
 Thus, Python is dynamic typed and strong typed; Java is static typed and strong typed; PHP is dynamic typed and weak typed; C is static typed and weak typed (owing to its casting ability).
 
 ## See Also
@@ -96,4 +104,5 @@ Thus, Python is dynamic typed and strong typed; Java is static typed and strong 
 ## References
 
 [Functional Programming: Type Systems](https://www.youtube.com/watch?v=hy1wjkcIBCU)
+
 ![image](../../media/Type-Systems-image2.jpg)

@@ -1,6 +1,6 @@
 # Intro
 
-## One liner - Kubernetes/Mesos - software tools to manage and coordinate containers
+**One liner - Kubernetes/Mesos - software tools to manage and coordinate containers**
 
 ## Borg - Google's container system
 
@@ -13,7 +13,9 @@
 
 - Distributed decision making
 
-## Containerization - Application containerization is an OS-level virtualization method used to deploy and run distributed applications without launching an entire virtual machine (VM) for each app
+## Containerization
+
+Application containerization is an OS-level virtualization method used to deploy and run distributed applications without launching an entire virtual machine (VM) for each app
 
 ## Intro
 
@@ -21,7 +23,7 @@ Kubernetes is a container orchestration tool. It means we are able to tell kuber
 
 State means which things should be running, like we want 3 instances of this application running in the cluster, and want 10 instance of other application. We scheule those in and kubernetes coordinates that and spread that across the server.
 
-## It is maintained by CNCF (Cloud Native Computing Foundation)
+It is maintained by CNCF (Cloud Native Computing Foundation)
 
 ## Traits
 

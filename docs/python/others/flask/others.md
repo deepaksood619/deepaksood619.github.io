@@ -41,4 +41,4 @@ Flask provides two contexts: the*application context*and the*request context*. F
 
 close_dbchecks if a connection was created by checking ifg.dbwas set. If the connection exists, it is closed. Further down you will tell your application about theclose_dbfunction in the application factory so that it is called after each request.
 
-## In a web application, each request should have its own db connection. So yourget_driverfunction should create a connection and close that connection when it is finished (in a finally clause)
+In a web application, each request should have its own db connection. So your get_driver function should create a connection and close that connection when it is finished (in a finally clause)

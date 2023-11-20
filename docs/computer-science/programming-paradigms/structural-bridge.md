@@ -1,6 +1,6 @@
 # Structural - Bridge
 
-## Bridgeis a structural design pattern that divides one or more classes into two separate hierarchies - abstraction and implementation, allowing them to be changed independently of each other
+Bridge is a structural design pattern that divides one or more classes into two separate hierarchies - abstraction and implementation, allowing them to be changed independently of each other
 
 Let's take a simple example. You have a class called Figure that has the subclasses - Circle and Square. You want to expand the shapes hierarchy in color, that is, to have the Red and Blue figures. But to combine all of this, you'll have to create 4 combinations of subclasses, like BlueCircle and RedSquare.
 

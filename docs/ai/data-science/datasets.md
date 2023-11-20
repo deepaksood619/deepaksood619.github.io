@@ -17,3 +17,13 @@ The ARC Corpus contains 14M unordered, science-related sentences including knowl
 ## LLM Datasets
 
 [WikiText-103 Dataset | Papers With Code](https://paperswithcode.com/dataset/wikitext-103)
+
+## YCSB Workloads
+
+YCSB includes a set of core workloads that define a basic benchmark for cloud systems.
+
+The **Yahoo! Cloud Serving Benchmark** (YCSB) is an open-source specification and program suite for evaluating retrieval and maintenance capabilities of computer programs. It is often used to compare relative performance of [NoSQL](https://en.wikipedia.org/wiki/NoSQL) database management systems.
+
+<https://en.wikipedia.org/wiki/YCSB>
+
+<https://github.com/brianfrankcooper/YCSB/wiki/Core-Workloads>

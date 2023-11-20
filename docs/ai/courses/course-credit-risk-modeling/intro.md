@@ -179,7 +179,7 @@ Setting a higher cut-off score for approval of credit applications will result i
   - Number of applicants as a benchmark
   - Example - Redevelop our model after 50,000/100,000 new data points
 
-- **PSI (Population Stability Index) /CSI (Characteristics Stability Index)**
+## PSI (Population Stability Index) / CSI (Characteristics Stability Index)
 
 PSI and CSI, both of these metrics focus on the shift in thePOPULATION DISTRIBUTION.
 
@@ -187,7 +187,7 @@ These two monitoring metrics are based on the premise that a predictive model wo
 
 For example: if we built a predictive model to predict attrition rate for credit card customers in normal economic circumstances and then if we proceed onto testing it against a sample from recession-hit times, the model might not be able to predict accurately as the population distribution in different income segments might have changed significantly which might drive the actual attrition rate really high but the model might not be able to capture it, thus, predicting erroneous results. But, as we understand this now and if we proceed onto checking the population distribution shifts between the DEV time and the current time, we can get a fair idea if the model results are reliable or not. And this is accomplished by PSI and CSI as important monitoring metrics.
 
-## PSI tends to overall population shift whereas CSI tends to focus on the individual model variables used
+**PSI tends to overall population shift whereas CSI tends to focus on the individual model variables used**
 
 PSI can help us determine the overall population distribution comparison with the DEV sample and if it shows a significant shift then CSI can help us further narrow it down to a few variables which are causing the fluctuations.
 
@@ -203,11 +203,11 @@ A change in the population distribution can be due to:
 
 <https://towardsdatascience.com/psi-and-csi-top-2-model-monitoring-metrics-924a2540bed8>
 
-- **Population Stability Index (PSI)**
+### Population Stability Index (PSI)
 
 Shows whether two populations differ with respect to a feature using discrete categories of the feature.
 
-## PSI can be used to assess whether the population of new loan applicants differ from the population of applicants on which the PD (Population Distribution) model was built
+**PSI can be used to assess whether the population of new loan applicants differ from the population of applicants on which the PD (Population Distribution) model was built**
 
 Population Stability Index (PSI) compares the distribution of a scoring variable (predicted probability) in scoring data set to a training data set that was used to develop the model. The idea is to check "How the current scoring is compared to the predicted probability from training data set".
 
@@ -219,15 +219,13 @@ Actual data vs Excepted data
 
 ![image](../../../media/Course-Credit-Risk-Modeling_Intro-image9.jpg)
 
-## INTERPRETATION RULES
+#### INTERPRETATION RULES
 
 1. PSI < 0.1: No change. You can continue using the existing model.
-
 2. PSI >=0.1:but less than 0.2 - Slight change is required.
-
 3. PSI >=0.2:Significant change is required. Ideally, we should not use this model anymore. It should be recalibrated/redeveloped.
 
-## CSI
+### CSI
 
 It answers which variable is causing a shift in population distribution. It compares the distribution of anindependent variablein the scoring data set to a development data set. It detects shifts in the distributions of input variables that are submitted for scoring over time.
 

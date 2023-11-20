@@ -4,7 +4,7 @@
 
 NumPy, which stands for Numerical Python, is a library consisting of multidimensional array objects and a collection of routines for processing those arrays. Using NumPy, mathematical and logical operations on arrays can be performed.
 
-## NumPy is a library for efficient array computations, modeled after Matlab. Arrays differ from plain Python lists in the way they are stored and handled. Array elements stay together in memory, so they can be quickly accessed. NumPy also supports quick subindexing, e.g., a[0, :, 2] gives you all array elements whose first index is 0 and third index is 2
+NumPy is a library for efficient array computations, modeled after Matlab. Arrays differ from plain Python lists in the way they are stored and handled. Array elements stay together in memory, so they can be quickly accessed. NumPy also supports quick subindexing, e.g., a[0, :, 2] gives you all array elements whose first index is 0 and third index is 2
 
 Furthermore, NumPy provides vectorized mathematical functions. When, e.g., you call numpy.sin(a), the sine function is applied on every element of array a. This is done using compiled C code, so it works much faster than a Python for loop, even faster than list comprehensions.
 

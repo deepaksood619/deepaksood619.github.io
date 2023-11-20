@@ -161,7 +161,7 @@ Contains two adiabatic processes, two isothermal processes, all of which are rev
 
 Is the measure of a system's thermal energy per unit temperature that's unavailable for doing work. It's also the measure of the disorder, or randomness, of a system.
 
-## Classical mechanics is a framework for unraveling the forces at work in a wide class of mechanical systems
+**Classical mechanics is a framework for unraveling the forces at work in a wide class of mechanical systems**
 
 Cellular Automation (simple systems calledcellular automatathat live and die according to simple rules on a lattice.)
 

@@ -2,7 +2,9 @@
 
 [System Design : Design a service like TinyUrl](https://www.youtube.com/watch?v=fMZMm_0ZhK4)
 
-## Problem Statement - Given a long url return a short url, and given a short url return the corresponding long url
+## Problem Statement
+
+Given a long url return a short url, and given a short url return the corresponding long url
 
 - How to generate 7-8 Characters long and is unique
 - How to design the persistance layer (where you would store the short url and long url)
@@ -176,5 +178,7 @@ DKGS - Distributed Key Generation Service
 - Node ID - 10 bits
 - Local counter in each node - 12 bits
 - = 64 bit random id for each key
+
 Async cleanup service
+
 - Every hour run through whole database to get expired keys and delete the same from s3/blob storage

@@ -272,88 +272,80 @@ Among other categories of machine learning problems, [learning to learn](https:/
 
 ## Approaches
 
-1. **Decision tree learning**
+### Decision tree learning
 
 Decision tree learning uses a [decision tree](https://en.wikipedia.org/wiki/Decision_tree) as a [predictive model](https://en.wikipedia.org/wiki/Predictive_modelling), which maps observations about an item to conclusions about the item's target value.
 
-2. **Association rule learning**
+### Association rule learning
 
 Association rule learning is a method for discovering interesting relations between variables in large databases.
 
-3. **Artificial neural networks**
+### Artificial neural networks
 
 An [artificial neural network](https://en.wikipedia.org/wiki/Artificial_neural_network)(ANN) learning algorithm, usually called "neural network" (NN), is a learning algorithm that is vaguely inspired by [biological neural networks](https://en.wikipedia.org/wiki/Biological_neural_networks). Computations are structured in terms of an interconnected group of [artificial neurons](https://en.wikipedia.org/wiki/Artificial_neuron), processing information using a [connectionist](https://en.wikipedia.org/wiki/Connectionism) approach to [computation](https://en.wikipedia.org/wiki/Computation). Modern neural networks are [non-linear](https://en.wikipedia.org/wiki/Non-linear)[statistical](https://en.wikipedia.org/wiki/Statistical)[data modeling](https://en.wikipedia.org/wiki/Data_modeling) tools. They are usually used to model complex relationships between inputs and outputs, to [find patterns](https://en.wikipedia.org/wiki/Pattern_recognition) in data, or to capture the statistical structure in an unknown [joint probability distribution](https://en.wikipedia.org/wiki/Joint_probability_distribution) between observed variables.
 
-4. **Deep learning**
+### Deep learning
 
 Falling hardware prices and the development of [GPUs](https://en.wikipedia.org/wiki/GPU) for personal use in the last few years have contributed to the development of the concept of [deep learning](https://en.wikipedia.org/wiki/Deep_learning) which consists of multiple hidden layers in an artificial neural network. This approach tries to model the way the human brain processes light and sound into vision and hearing. Some successful applications of deep learning are [computer vision](https://en.wikipedia.org/wiki/Computer_vision) and [speech recognition](https://en.wikipedia.org/wiki/Speech_recognition).
 
-5. **Inductive logic programming**
+### Inductive logic programming
 
 Inductive logic programming (ILP) is an approach to rule learning using [logic programming](https://en.wikipedia.org/wiki/Logic_programming) as a uniform representation for input examples, background knowledge, and hypotheses. Given an encoding of the known background knowledge and a set of examples represented as a logical database of facts, an ILP system will derive a hypothesized logic program that [entails](https://en.wikipedia.org/wiki/Entailment) all positive and no negative examples.[Inductive programming](https://en.wikipedia.org/wiki/Inductive_programming) is a related field that considers any kind of programming languages for representing hypotheses (and not only logic programming), such as [functional programs](https://en.wikipedia.org/wiki/Functional_programming).
 
-6. **Support vector machines**
+### Support vector machines
 
 Support vector machines (SVMs) are a set of related [supervised learning](https://en.wikipedia.org/wiki/Supervised_learning) methods used for [classification](https://en.wikipedia.org/wiki/Statistical_classification) and [regression](https://en.wikipedia.org/wiki/Regression_analysis). Given a set of training examples, each marked as belonging to one of two categories, a SVM training algorithm builds a model that predicts whether a new example falls into one category or the other.
 
-7. **Clustering**
+### Clustering
 
 Cluster analysis is the assignment of a set of observations into subsets (called *clusters*) so that observations within the same cluster are similar according to some predesignated criteria, while observations drawn from different clusters are dissimilar. Different clustering techniques make different assumptions on the structure of the data, often defined by some *similarity metric* and evaluated for example by *internal compactness* (similarity between members of the same cluster) and *separation* between different clusters. Other methods are based on *estimated density* and *graph connectivity*. Clustering is a method of [unsupervised learning](https://en.wikipedia.org/wiki/Unsupervised_learning), and a common technique for [statistical](https://en.wikipedia.org/wiki/Statistics)[data analysis](https://en.wikipedia.org/wiki/Data_analysis).
 
-8. **Bayesian networks**
+### Bayesian networks
 
 A Bayesian network, belief network or directed acyclic graphical model is a [probabilistic graphical model](https://en.wikipedia.org/wiki/Graphical_model) that represents a set of [random variables](https://en.wikipedia.org/wiki/Random_variables) and their [conditional independencies](https://en.wikipedia.org/wiki/Conditional_independence) via a [directed acyclic graph](https://en.wikipedia.org/wiki/Directed_acyclic_graph)(DAG). For example, a Bayesian network could represent the probabilistic relationships between diseases and symptoms. Given symptoms, the network can be used to compute the probabilities of the presence of various diseases. Efficient algorithms exist that perform [inference](https://en.wikipedia.org/wiki/Inference) and learning.
 
-9. **Reinforcement learning**
+### Reinforcement learning
 
 Reinforcement learning is concerned with how an *agent*ought to take *actions*in an *environment*so as to maximize some notion of long-term *reward*. Reinforcement learning algorithms attempt to find a *policy* that maps *states*of the world to the actions the agent ought to take in those states. Reinforcement learning differs from the [supervised learning](https://en.wikipedia.org/wiki/Supervised_learning) problem in that correct input/output pairs are never presented, nor sub-optimal actions explicitly corrected.
 
-10. **Representation learning**
-11. **Similarity and metric learning**
-12. **Sparse dictionary learning**
-13. **Genetic algorithms**
-14. **Rule-based machine learning**
-15. **Learning classifier systems**
+### Others
+
+- Representation learning
+- Similarity and metric learning
+- Sparse dictionary learning
+- Genetic algorithms
+- Rule-based machine learning
+- Learning classifier systems
 
 ## Techniques
 
 1. **Statistics and Data Analysis**
 
    - Hypothesis testing
-
    - Exploratory Data Analysis
-
    - Data Manipulation
 
 2. **Machine Learning**
 
    - Decision Tree
-
    - Clustering
-
    - Naive Baiyes
-
    - Principle Component Analysis
-
    - Linear Regression (Statistical Inference Technique)
-
    - Logistic Regression (Probability - Catagorical)
-
    - Telecom Churn Perdition Project
 
 3. **Others**
 
    - Least squares Error Function
-
    - Gradient Descent
-
    - Multivariate Regression
-
    - Sigmoid Function
 
 ![image](../../media/ML-Classification-image3.jpg)
 
-1. **Supervised Machine Learning**
+### 1. Supervised Machine Learning
+
     - Logistic Regression
         - Logistic Regression is a simple twist on Linear Regression. It gets its name from the fact that it is a regression that predicts what's called the Log Odds of an event occuring.
         - Divide data in Training data and Test data
@@ -380,7 +372,8 @@ Reinforcement learning is concerned with how an *agent*ought to take *actions*in
 
 - KNN Classifier - Predicts which group something will be in; It classifies it
 
-2. **Unsupervised Machine Learning**
+### 2. Unsupervised Machine Learning
+
     - **Clustering**
 
        - K-means

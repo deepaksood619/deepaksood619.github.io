@@ -18,9 +18,9 @@ When the environment is fully observed, we call the reinforcement learning probl
 
 ## Two Types of Environments
 
-## Deterministic environment: deterministic environment means that both state transition model and reward model are deterministic functions. If the agent while in a given state repeats a given action, it will always go the same next state and receive the same reward value
+Deterministic environment: deterministic environment means that both state transition model and reward model are deterministic functions. If the agent while in a given state repeats a given action, it will always go the same next state and receive the same reward value
 
-## Stochastic environment: In a stochastic environment there is uncertainity about the actions effect. When the agent repeats doing the same action in a given state, the new state and received reward may not be the same each time. For example, a robot which tries to move forward but because of the imperfection in the robot operation or other factors in the environment (e.g. slippery floor), sometimes the actionforwardwill make it move forward but in sometimes, it will move toleftorright
+Stochastic environment: In a stochastic environment there is uncertainity about the actions effect. When the agent repeats doing the same action in a given state, the new state and received reward may not be the same each time. For example, a robot which tries to move forward but because of the imperfection in the robot operation or other factors in the environment (e.g. slippery floor), sometimes the actionforwardwill make it move forward but in sometimes, it will move toleftorright
 
 ## References
 

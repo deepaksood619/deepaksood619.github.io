@@ -53,7 +53,7 @@ If you run a single process execution pool, you can only handle one request at a
 
 In this scenario, spawning hundreds (or even thousands) of threads is a much more efficient way to increase capacity for I/O-bound tasks. Celery supports two thread-based execution pools: eventlet and gevent. Here, the execution pool runs in the same process as the Celery worker itself. To be precise, both eventlet and gevent use greenlets and not threads.
 
-## Greenlets - also known as green threads, cooperative threads or coroutines - give you threads, but without using threads. Threads are managed by the operating system kernel. The operating system uses a general-purpose scheduler to switch between threads. This general-purpose scheduler is not always very efficient
+Greenlets - also known as green threads, cooperative threads or coroutines - give you threads, but without using threads. Threads are managed by the operating system kernel. The operating system uses a general-purpose scheduler to switch between threads. This general-purpose scheduler is not always very efficient
 
 Greenlets emulate multi-threaded environments without relying on any native operating system capabilities. Greenlets are managed in application space and not in kernel space. There is no scheduler pre-emptively switching between your threads at any given moment. Instead your greenlets voluntarily or explicitly give up control to one another at specified points in your code.
 

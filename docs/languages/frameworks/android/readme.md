@@ -148,10 +148,10 @@ The goals of Hilt are:
 - Battery profiling
 - Dumping the Java Heap Memory (Monitor / Heap Memory Dump)
 - HPROF (Heap/CPU profiling tool)
-- Travis CI (Continous Integration Tool)
-- Circle CI (Continous Integration Tool)
-- Jenkins (Continous Integration Tool)
-- BuddyBuild (Continous Integration Tool & Crash Reporting)
+- Travis CI (Continuous Integration Tool)
+- Circle CI (Continuous Integration Tool)
+- Jenkins (Continuous Integration Tool)
+- BuddyBuild (Continuous Integration Tool & Crash Reporting)
 - Crashlytics (Crash Reporting) - Crashlytics.log(int priority, String tag, String msg);
 - <https://firebase.google.com/docs/crashlytics/customize-crash-reports?platform=android>
 - InstaBug (Crash Reporting)

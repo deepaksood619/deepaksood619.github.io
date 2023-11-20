@@ -33,7 +33,7 @@ Here are a few common ways to specify the layout of elements in aUIView:
 - You can your own code to useNSLayoutConstraintsto have elements in a view arranged by Auto Layout.
 - You can createCGRects describing the exact coordinates for each element and pass them toUIView's- (id)initWithFrame:(CGRect)framemethod.
 
-## What is the difference betweenatomicandnonatomicproperties? Which is the default for synthesized properties (Ans - Atomic)? When would you use one vs. the other?
+## What is the difference between atomic and nonatomic properties? Which is the default for synthesized properties (Ans - Atomic)? When would you use one vs. the other?
 
 Properties specified asatomicare guaranteed to always return a fully initialized object. This also happens to be the default state for synthesized properties so, while it's a good practice to specifyatomicto remove the potential for confusion, if you leave it off, your properties will still beatomic. This guarantee of atomic properties comes at a cost to performance, however. If you have a property for which you know that retrieving an uninitialized value is not a risk (e.g. if all access to the property is already synchronized via other means), then setting it tononatomiccan gain you a bit of performance.
 
@@ -101,9 +101,7 @@ The iOS application states are as follows:
 What are rendering options forJSONSerialization? (not)
 
 1. MutableContainers: Arrays and dictionaries are created as variable objects, not constants.
-
 2. MutableLeaves: Leaf strings in the JSON object graph are created as instances of variable strings.
-
 3. allowFragments: The parser should allow top-level objects that are not an instance of arrays or dictionaries.
 
 <https://www.toptal.com/ios/interview-questions>

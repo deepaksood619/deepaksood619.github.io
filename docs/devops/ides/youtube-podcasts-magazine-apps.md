@@ -1,19 +1,5 @@
 # Youtube / Podcasts / Magazine / Apps
 
-## Tech
-
-- PyCon
-- Linus Tech Tips
-- AWS Reinvent
-- Software architecture o'reilly conference
-- **Coding Tech**
-- Techquickie
-- Guy in a cube
-- Goto conferences
-- Data council
-- Infoq
-- Firebase / Google
-
 ## Learning
 
 - The Royal Institution Lectures
@@ -63,7 +49,6 @@
 - Be Smart
 - Minutefood
 - Quanta magazine
-- Healthcare triage
 - Periodic Videos
 - TLC
 - BetterThanYesterday
@@ -78,7 +63,6 @@
 - People
   - andrew huberman (professor of neurobiology at Stanford)
 - Courses
-- freecodecamp
 - MIT opencourseware
 - Crashcourse
 - Shark tank
@@ -98,6 +82,8 @@
 - Just have a think
 - [ZOE - YouTube](https://www.youtube.com/@joinZOE)
 - [The Engineering Mindset - YouTube](https://www.youtube.com/@EngineeringMindset)
+- Linus Tech Tips
+- Techquickie
 
 ## Future
 
@@ -261,6 +247,16 @@
 - [CodeParade](https://www.youtube.com/results?search_query=code+parade)-- great bits of coding, math, and graphics combined
 - [Databricks - YouTube](https://www.youtube.com/@Databricks)
 - [Advancing Analytics - YouTube](https://www.youtube.com/@AdvancingAnalytics)
+- AWS Reinvent
+- Software architecture o'reilly conference
+- **Coding Tech**
+- Guy in a cube
+- Goto conferences
+- Data council
+- Infoq
+- Firebase / Google
+- freecodecamp
+- PyCon
 
 ## Math
 
@@ -324,6 +320,7 @@
 - [Business Wars with David Brown](https://wondery.com/shows/business-wars/)
 - Search Engine by PJ Vogt
 - [BeerBiceps - YouTube](https://www.youtube.com/@BeerBiceps)
+- Healthcare triage
 
 <https://www.freecodecamp.org/news/best-tech-podcasts-for-software-developers>
 

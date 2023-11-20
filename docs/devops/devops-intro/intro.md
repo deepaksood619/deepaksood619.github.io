@@ -25,17 +25,11 @@ DevOps is a set of practices intended to reduce the time between committing a ch
 ![image](../../media/DevOps-DevOps-Intro-image1.jpg)
 
 1. Plan / Code - code development and review, [source code management](https://en.wikipedia.org/wiki/Version_control) tools, code merging
-
 2. Create / Build ---[continuous integration](https://en.wikipedia.org/wiki/Continuous_integration) tools, build status
-
 3. Verify / Test ---[continuous testing](https://en.wikipedia.org/wiki/Continuous_testing) tools that provide feedback on business risks
-
 4. Package ---[artifact repository](https://en.wikipedia.org/wiki/Binary_repository_manager), application pre-deployment staging
-
 5. Release - change management, release approvals, [release automation](https://en.wikipedia.org/wiki/Application_release_automation)
-
 6. Configure - infrastructure configuration and management, [Infrastructure as Code](https://en.wikipedia.org/wiki/Infrastructure_as_Code) tools
-
 7. Monitor ---[applications performance monitoring](https://en.wikipedia.org/wiki/Application_performance_management), end--user experience
 
 The term "**deployment**" refers to the act of deploying a change to application components or infrastructure, and the term "**release**" refers to the act of enabling or exposing a feature to end-users (with a corresponding business impact)
@@ -50,15 +44,16 @@ The term "**deployment**" refers to the act of deploying a change to application
 
 Monitoring means knowing what's going on inside your system, how much traffic it's getting, how it's performing, how many errors there are. This is not the end goal though, merely a means. Our goal is to be able to detect, debug and resolve any problems that occur, and monitoring is an integral part of that process.
 
-## Schedulingis deciding when and whether a task should run
+## Scheduling vs Orchestration
 
-## Orchestrationis deciding where and how a task should run
+- Scheduling is deciding when and whether a task should run
+- Orchestration is deciding where and how a task should run
 
 ## GitOps
 
 GitOps is a way of implementing Continuous Deployment for cloud native applications. It focuses on a developer-centric experience when operating infrastructure, by using tools developers are already familiar with, including Git and Continuous Deployment tools.
 
-## The core idea of GitOps is having a Git repository that always contains declarative descriptions of the infrastructure currently desired in the production environment and an automated process to make the production environment match the described state in the repository. If you want to deploy a new application or update an existing one, you only need to update the repository - the automated process handles everything else. It's like having cruise control for managing your applications in production
+The core idea of GitOps is having a Git repository that always contains declarative descriptions of the infrastructure currently desired in the production environment and an automated process to make the production environment match the described state in the repository. If you want to deploy a new application or update an existing one, you only need to update the repository - the automated process handles everything else. It's like having cruise control for managing your applications in production
 
 Git is the single source of truth for the desired state of a system
 

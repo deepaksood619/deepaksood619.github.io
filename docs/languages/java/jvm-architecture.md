@@ -5,12 +5,10 @@
 JVM is divided into three main subsystems
 
 1. Class Loader Subsystem
-
 2. Runtime Data Area
-
 3. Execution Engine
 
-1. Class Loader Subsystem
+### 1. Class Loader Subsystem
 
 Java's dynamic class loading functionality is handled by the class loader subsystem. It loads, links and initializes the class when it refers to a class for the first time atruntime, not atcompile-time.It performs three major functionality such as Loading, Linking, and Initialization.
 
@@ -38,7 +36,7 @@ The aboveClass Loaderswill followDelegation Hierarchy Algorithmwhile loading the
 
 This is the final phase of Class Loading, here all [static variable](https://www.javainterviewpoint.com/use-of-static-keyword-in-java/) will be assigned with theoriginal values and [static block](https://www.javainterviewpoint.com/java-static-import/) will be executed.
 
-2. Runtime Data Area
+### 2. Runtime Data Area
 
 Runtime Data Area is divided into 5 major components
 
@@ -58,7 +56,7 @@ Runtime Data Area is divided into 5 major components
 
 5. Native Method stacks-- Native Method Stack holds native method information. For every thread, separate native method stack will be created.
 
-3. Execution Engine
+### 3. Execution Engine
 
 The bytecode which is assigned to theRuntime Data Areawill be executed by the Execution Engine. The Execution Engine reads the byte code and executes one by one.
 
@@ -72,15 +70,17 @@ The bytecode which is assigned to theRuntime Data Areawill be executed by the Ex
 
 - Target Code Generator-- Target Code Generator is responsible for Generating Machine Code/ Native Code
 
-- Profiler--Profileris a special component, it is responsible for finding the hotspots (i.e) Used to identify whether the method is called multiple time or not.
+- Profiler--Profiler is a special component, it is responsible for finding the hotspots (i.e) Used to identify whether the method is called multiple time or not.
 
 - Garbage Collector: Garbage Collector is a part of Execution Engine, it collects/removes the unreferenced objects. Garbage Collection can be triggered by calling"System.gc()", but the execution is not guaranteed.Garbage collector of JVM collects only those objects that are created bynewkeyword. So if you have created any object withoutnew, you can usefinalize methodto perform cleanup.
 
 <https://www.javainterviewpoint.com/java-virtual-machine-architecture-in-java>
 
-## Java Native Interface (JNI): JNIwill be interacting with theNative Method Librariesand provides the Native Libraries required for the Execution Engine
+## Java Native Interface (JNI)
 
-## Native Method Libraries:It is aCollection of the Native Libraries which isrequired for the Execution Engine
+JNI will be interacting with the Native Method Libraries and provides the Native Libraries required for the Execution Engine
+
+## Native Method Libraries: It is a Collection of the Native Libraries which is required for the Execution Engine
 
 ## Z Garbage Collector (Introduced in Java 11)
 
@@ -99,6 +99,6 @@ At a glance, ZGC is:
 - Using colored pointers
 - Using load barriers
 
-At its core, ZGC is aconcurrentgarbage collector, meaning all heavy lifting work is done whileJava threads continue to execute. This greatly limits the impact garbage collection will have on your application's response time.
+At its core, ZGC is a concurrent garbage collector, meaning all heavy lifting work is done whileJava threads continue to execute. This greatly limits the impact garbage collection will have on your application's response time.
 
 <https://wiki.openjdk.java.net/display/zgc/Main>

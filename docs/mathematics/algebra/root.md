@@ -14,7 +14,7 @@ This equals 9 because nine squared is eighty-one.
 
 ![image](../../media/Root-image2.jpg)
 
-## We can take the square root of any non-negative number, but only perfect square numbers yield whole number results. So familiarize yourself with those first. Here are a few to get you started
+We can take the square root of any non-negative number, but only perfect square numbers yield whole number results. So familiarize yourself with those first. Here are a few to get you started
 
 ![image](../../media/Root-image3.jpg)
 

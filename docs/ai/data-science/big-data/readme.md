@@ -4,6 +4,8 @@
 - [Characteristics](ai/data-science/big-data/characteristics.md)
 - [Data](ai/data-science/big-data/data.md)
 - [Types of Data](ai/data-science/big-data/types-of-data.md)
+- [Data Quality](ai/data-science/big-data/data-quality.md)
+- [Data Preprocessing](ai/data-science/big-data/data-preprocessing.md)
 - [Processing Engine](processing-engine)
 - [Design of Key-Value Store](design-of-key-value-stores)
 - [Design of Zookeeper](design-of-zookeeper)

@@ -41,7 +41,9 @@ is the percentage of subscribers to a service who discontinue their subscription
 
 ## SE Radio Episode 352 - Johanathan Nightingale on Scaling Engineering Management
 
-## Law of Diminishing Returns - used to refer to a point at which the level of profits or benefits gained is less than the amount of money or energy invested
+## Law of Diminishing Returns
+
+Used to refer to a point at which the level of profits or benefits gained is less than the amount of money or energy invested
 
 ## Failure Premortem
 

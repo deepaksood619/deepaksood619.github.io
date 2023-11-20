@@ -76,7 +76,7 @@ Runtime - O(n^2 * n!)
 
 ## Itertools.chain()
 
-Without the**chain()**function, iterating over two lists would require creating a copy with the contents of both or adding the contents of one to the other.
+Without the **chain()** function, iterating over two lists would require creating a copy with the contents of both or adding the contents of one to the other.
 
 ```python
 import itertools
@@ -96,7 +96,7 @@ izip() is almost identical to the zip() builtin, in that it pairs up the content
 
 ## Itertools.product()
 
-This tool computes the[cartesian product](https://en.wikipedia.org/wiki/Cartesian_product) of input iterables.
+This tool computes the [cartesian product](https://en.wikipedia.org/wiki/Cartesian_product) of input iterables.
 
 ```python
 from itertools import product
@@ -122,13 +122,13 @@ def product(*args):
         for items in product(*args[:-1]) for item in args[-1])
 ```
 
-In[set theory](https://en.wikipedia.org/wiki/Set_theory)(and, usually, in other parts of[mathematics](https://en.wikipedia.org/wiki/Mathematics)), aCartesian productis a[mathematical operation](https://en.wikipedia.org/wiki/Mathematical_operation) that returns a[set](https://en.wikipedia.org/wiki/Set_(mathematics))(orproduct setor simplyproduct) from multiple sets. That is, for setsAandB, the Cartesian productA×Bis the set of all[ordered pairs](https://en.wikipedia.org/wiki/Ordered_pair)(a,b) wherea∈Aandb∈B. Products can be specified using[set-builder notation](https://en.wikipedia.org/wiki/Set-builder_notation), e.g.
+In [set theory](https://en.wikipedia.org/wiki/Set_theory)(and, usually, in other parts of [mathematics](https://en.wikipedia.org/wiki/Mathematics)), a Cartesian product is a [mathematical operation](https://en.wikipedia.org/wiki/Mathematical_operation) that returns a [set](https://en.wikipedia.org/wiki/Set_(mathematics))(or product set or simply product) from multiple sets. That is, for sets A and B, the Cartesian productA×Bis the set of all [ordered pairs](https://en.wikipedia.org/wiki/Ordered_pair)(a, b) where a∈A and b∈B. Products can be specified using [set-builder notation](https://en.wikipedia.org/wiki/Set-builder_notation), e.g.
 
 ![image](../../media/10.-Functional-Programming-Modules-image1.jpg)
 
-A table can be created by taking the Cartesian product of a set of rows and a set of columns. If the Cartesian productrows×columnsis taken, the cells of the table contain ordered pairs of the form(row value, column value).
+A table can be created by taking the Cartesian product of a set of rows and a set of columns. If the Cartesian product rows×columns is taken, the cells of the table contain ordered pairs of the form (row value, column value).
 
-More generally, a Cartesian product ofnsets, also known as ann-fold Cartesian product, can be represented by an array ofndimensions, where each element is ann-[tuple](https://en.wikipedia.org/wiki/Tuple). An ordered pair is a[2-tuple or couple](https://en.wikipedia.org/wiki/Tuple#Names_for_tuples_of_specific_lengths).
+More generally, a Cartesian product of n sets, also known as an n-fold Cartesian product, can be represented by an array of n dimensions, where each element is an n-[tuple](https://en.wikipedia.org/wiki/Tuple). An ordered pair is a [2-tuple or couple](https://en.wikipedia.org/wiki/Tuple#Names_for_tuples_of_specific_lengths).
 
 <https://en.wikipedia.org/wiki/Cartesian_product>
 

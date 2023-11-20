@@ -1,6 +1,6 @@
 # Self Awareness
 
-## It is the ability to see ourselves clearly, to understand who we are, how other see us, and how we fit into the world
+It is the ability to see ourselves clearly, to understand who we are, how other see us, and how we fit into the world
 
 Knowing yourself is the beginning of all wisdom. -- Aristotle
 

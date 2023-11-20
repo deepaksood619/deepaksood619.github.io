@@ -28,7 +28,7 @@ Startup time management in three simple steps:
 - Product validation is the process of finding customers who are willing to pay for your product, usually before you start building, or in the early stages of building
 - product's market size, ex - wordpress market size,
 - Reddit and Quora to find questions about your product idea
-- Google's[Keyword Planner](https://ads.google.com/home/tools/keyword-planner/)
+- Google's [Keyword Planner](https://ads.google.com/home/tools/keyword-planner/)
 - When in doubt, just ask! If you have freelance or agency clients, just ask them if a product like that would solve their problems, and what they might be willing to pay for it
 
 ## Thoughts

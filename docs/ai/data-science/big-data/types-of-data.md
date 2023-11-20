@@ -54,14 +54,14 @@ Data that consists of a collection of records, each of which consists of a fixed
 
 ![image](../../../media/Data-image4.jpg)
 
-### Data Matrix
+#### Data Matrix
 
 - If data objects have the same fixed set of numeric attributes, then the data objects can be thought of as points in a multi-dimensional space, where each dimension represents a distinct attribute
 - Such data set can be represented by an m by n matrix, where there are m rows, one for each object, and n columns, one for each attribute
 
 ![image](../../../media/Data-image5.jpg)
 
-### Document Data
+#### Document Data
 
 - Each document becomes a 'term' vector
   - Each term is a component (attribute) of the vector
@@ -69,7 +69,7 @@ Data that consists of a collection of records, each of which consists of a fixed
 
 ![image](../../../media/Data-image6.jpg)
 
-### Transaction Data
+#### Transaction Data
 
 - A special type of record data, where
   - each record (transaction) involves a set of items
@@ -77,29 +77,25 @@ Data that consists of a collection of records, each of which consists of a fixed
 
 ![image](../../../media/Data-image7.jpg)
 
-- **Graph**
-  - World Wide Web
-  - Molecular Structures
-- **Ordered**
-  - Spatial Data
-  - Temporal Data
-  - Sequential Data
-  - Genetic Sequence Data
+### Graph
 
-### User Generated Data
+- World Wide Web
+- Molecular Structures
 
-1. Clickstreams
+### Ordered
 
-### Application Generated Data
+- Spatial Data
+- Temporal Data
+- Sequential Data
+- Genetic Sequence Data
 
-1. Performance Metrics
+## Sources of Data
 
-### Machine Generated Data
+- User Generated Data - Clickstreams
+- Application Generated Data - Performance Metrics
+- Machine Generated Data - Network flows, Server metrics
 
-1. Network flows
-2. Server metrics
-
-### Devops
+## Devops
 
 1. Backfilling datasets
 2. Validating data

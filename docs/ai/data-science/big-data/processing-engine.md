@@ -15,11 +15,11 @@ Processing frameworks compute over the data in the system, either by reading fro
 
 Processing frameworks and processing engines are responsible for computing over data in a data system. While there is no authoritative definition setting apart "engines" from "frameworks", it is sometimes useful to define the former as the actual component responsible for operating on data and the latter as a set of components designed to do the same.
 
-For instance, Apache Hadoopcan be considered aprocessing frameworkwithMapReduceas its defaultprocessing engine. Engines and frameworks can often be swapped out or used in tandem. For instance, Apache Spark, another framework, can hook into Hadoop to replace MapReduce. This interoperability between components is one reason that big data systems have great flexibility.
+For instance, Apache Hadoop can be considered a processing framework with MapReduce as its default processing engine. Engines and frameworks can often be swapped out or used in tandem. For instance, Apache Spark, another framework, can hook into Hadoop to replace MapReduce. This interoperability between components is one reason that big data systems have great flexibility.
 
 ## Batch Processing Systems
 
-Batch processinghas a long history within the big data world. Batch processing involves operating over a large, static dataset and returning the result at a later time when the computation is complete.
+Batch processing has a long history within the big data world. Batch processing involves operating over a large, static dataset and returning the result at a later time when the computation is complete.
 
 The datasets in batch processing are typically...
 
@@ -35,15 +35,15 @@ The trade-off for handling large quantities of data is longer computation time. 
 
 ## Stream Processing Systems
 
-Stream processingsystems compute over data as it enters the system. This requires a different processing model than the batch paradigm. Instead of defining operations to apply to an entire dataset, stream processors define operations that will be applied to each individual data item as it passes through the system.
+Stream processing systems compute over data as it enters the system. This requires a different processing model than the batch paradigm. Instead of defining operations to apply to an entire dataset, stream processors define operations that will be applied to each individual data item as it passes through the system.
 
 The datasets in stream processing are considered "unbounded". This has a few important implications:
 
-- Thetotaldataset is only defined as the amount of data that has entered the system so far.
-- Theworkingdataset is perhaps more relevant, and is limited to a single item at a time.
+- The total dataset is only defined as the amount of data that has entered the system so far.
+- The working dataset is perhaps more relevant, and is limited to a single item at a time.
 - Processing is event-based and does not "end" until explicitly stopped. Results are immediately available and will be continually updated as new data arrives.
 
-Stream processing systems can handle a nearly unlimited amount of data, but they only process one (true stream processing) or very few (micro-batch processing) items at a time, with minimal state being maintained in between records. While most systems provide methods of maintaining some state, steam processing is highly optimized for morefunctional processingwith few side effects.
+Stream processing systems can handle a nearly unlimited amount of data, but they only process one (true stream processing) or very few (micro-batch processing) items at a time, with minimal state being maintained in between records. While most systems provide methods of maintaining some state, steam processing is highly optimized for more functional processing with few side effects.
 
 Functional operations focus on discrete steps that have limited state or side-effects. Performing the same operation on the same piece of data will produce the same output independent of other factors. This kind of processing fits well with streams because state between items is usually some combination of difficult, limited, and sometimes undesirable. So while some type of state management is usually possible, these frameworks are much simpler and more efficient in their absence.
 

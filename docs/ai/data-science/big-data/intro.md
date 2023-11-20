@@ -23,16 +23,6 @@ Big data was originally associated with three key concepts: volume, variety, and
 - Analysing
 - Visualization
 
-## YCSB Workloads
-
-YCSB includes a set of core workloads that define a basic benchmark for cloud systems.
-
-The **Yahoo! Cloud Serving Benchmark** (YCSB) is an open-source specification and program suite for evaluating retrieval and maintenance capabilities of computer programs. It is often used to compare relative performance of [NoSQL](https://en.wikipedia.org/wiki/NoSQL) database management systems.
-
-<https://en.wikipedia.org/wiki/YCSB>
-
-<https://github.com/brianfrankcooper/YCSB/wiki/Core-Workloads>
-
 ## Big data enabling technologies
 
 - Apache Hadoop
@@ -61,7 +51,7 @@ The **Yahoo! Cloud Serving Benchmark** (YCSB) is an open-source specification an
 
 ## Data Wrangling
 
-Data wrangling, sometimes referred to asdata munging, is the process of transforming and [mapping data](https://en.wikipedia.org/wiki/Data_mapping) from one "[raw](https://en.wikipedia.org/wiki/Raw_data)" data form into another [format](https://en.wikipedia.org/wiki/Content_format) with the intent of making it more appropriate and valuable for a variety of downstream purposes such as analytics. Adata wrangleris a person who performs these transformation operations.
+Data wrangling, sometimes referred to as data munging, is the process of transforming and [mapping data](https://en.wikipedia.org/wiki/Data_mapping) from one "[raw](https://en.wikipedia.org/wiki/Raw_data)" data form into another [format](https://en.wikipedia.org/wiki/Content_format) with the intent of making it more appropriate and valuable for a variety of downstream purposes such as analytics. A data wrangler is a person who performs these transformation operations.
 
 This may include further [munging](https://en.wikipedia.org/wiki/Mung_(computer_term)), [data visualization](https://en.wikipedia.org/wiki/Data_visualization), data aggregation, training a [statistical model](https://en.wikipedia.org/wiki/Statistical_model), as well as many other potential uses. Data munging as a process typically follows a set of general steps which begin with extracting the data in a raw form from the data source, "munging" the raw data using algorithms (e.g. sorting) or parsing the data into predefined data structures, and finally depositing the resulting content into a data sink for storage and future use.
 
@@ -69,19 +59,14 @@ This may include further [munging](https://en.wikipedia.org/wiki/Mung_(computer_
 
 ## Links
 
-<http://xyz.insightdataengineering.com/blog/pipeline_map>
+- <http://xyz.insightdataengineering.com/blog/pipeline_map>
+- [Big data - Wikipedia](https://en.wikipedia.org/wiki/Big_data)
+- <https://www.semantikoz.com/blog/getting-started-with-hadoop-and-big-data-with-text-and-hive>
+- <https://zerowithdot.com/splitting-to-batches>
+- <https://www.fast.ai/2020/01/07/data-questionnaire>
+- <https://www.digitalocean.com/community/tutorials/an-introduction-to-big-data-concepts-and-terminology>
 
-[Big data - Wikipedia](https://en.wikipedia.org/wiki/Big_data)
-
-<https://www.semantikoz.com/blog/getting-started-with-hadoop-and-big-data-with-text-and-hive>
-
-<https://zerowithdot.com/splitting-to-batches>
-
-<https://www.fast.ai/2020/01/07/data-questionnaire>
-
-<https://www.digitalocean.com/community/tutorials/an-introduction-to-big-data-concepts-and-terminology>
-
-[MotherDuck: Big Data is Dead](https://motherduck.com/blog/big-data-is-dead/)
+### [MotherDuck: Big Data is Dead](https://motherduck.com/blog/big-data-is-dead/)
 
 - Data sizes may have gotten marginally larger, but hardware has gotten bigger at an even faster rate
 - the era of Big Data is over. It had a good run, but now we can stop worrying about data size and focus on how we’re going to use it to make better decisions
