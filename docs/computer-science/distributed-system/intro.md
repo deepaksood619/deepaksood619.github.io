@@ -139,9 +139,13 @@ Amazon used the following principles of distributed system design to meet Amazon
 ## References
 
 <https://www.youtube.com/watch?v=Y6Ev8GIlbxc>
+
 <https://www.researchgate.net/publication/282914203_A_comparative_evaluation_of_AMQP_and_MQTT_protocols_over_unstable_and_mobile_networks>
 
 <https://dev.to/uyouthe/scalable-architecture-without-magic-and-how-to-build-it-if-youre-not-google-336a>
+
 <https://en.wikipedia.org/wiki/High_availability>
+
 <https://lethain.com/distributed-systems-vocabulary>
+
 <https://www.kislayverma.com/post/code-review-checklist-for-distributed-systems>

@@ -47,6 +47,7 @@ CalVer is a versioning convention based on your project's release calendar, inst
 ## YYYY.MINOR.MICRO - 2020.1.1
 
 <https://calver.org>
+
 <https://en.wikipedia.org/wiki/Software_versioning>
 
 ## What is Dynamic Binding (late binding)?

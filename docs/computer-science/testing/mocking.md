@@ -344,4 +344,5 @@ If you want to learn more about the default mocks, have a look at the awesome ar
 <https://levelup.gitconnected.com/unit-testing-in-python-mocking-patching-and-dependency-injection-301280db2fed>
 
 <https://martinfowler.com/articles/mocksArentStubs.html>
+
 <https://medium.com/@yeraydiazdiaz/what-the-mock-cheatsheet-mocking-in-python-6a71db997832>

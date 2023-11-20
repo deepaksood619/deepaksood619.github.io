@@ -76,6 +76,7 @@ This is a trivial probabilistic algorithm, basically the assumption is that our 
 This means that at any given moment the maximum amount of keys already expired that are using memory is at max equal to max amount of write operations per second divided by 4.
 
 <https://redis.io/commands/expire#how-redis-expires-keys>
+
 <https://redis.io/topics/data-types-intro>
 
 ## Scan
@@ -124,6 +125,7 @@ RDB file is a dump of all user data stored in an internal, compressed serializat
 BGREWRITEAOF
 
 <https://redis.io/commands/bgrewriteaof>
+
 <https://stackoverflow.com/questions/39953542/aof-and-rdb-backups-in-redis>
 
 [**https://redis.io/topics/persistence**](https://redis.io/topics/persistence)

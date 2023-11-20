@@ -375,6 +375,7 @@ Rows/Records - Tables can also have many rows of data. These rows are often call
 <https://www.toptal.com/database/database-migrations-caterpillars-butterflies>
 
 <https://www.toptal.com/database/database-design-bad-practices>
+
 <https://dbdb.io>
 
 <https://www.sciencedirect.com/science/article/pii/S1319157816300453>

@@ -220,6 +220,7 @@ To tell if your working set is almost all in memory, check the ReadIOPS metric (
 ## Wait Events
 
 <https://docs.aws.amazon.com/AmazonRDS/latest/AuroraUserGuide/AuroraMySQL.Managing.Tuning.wait-events.html>
+
 <https://aws.amazon.com/premiumsupport/knowledge-center/aurora-mysql-synch-wait-events>
 
 ## Aurora IO Costs/Optimization

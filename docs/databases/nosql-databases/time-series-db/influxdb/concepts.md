@@ -50,6 +50,7 @@ Some advantages of using a TLV representation data system solution are:
 - TLV elements are typically used in a binary format which makes parsing faster and the data smaller than in comparable text based protocols.
 
 <https://en.wikipedia.org/wiki/Type-length-value>
+
 [**Cache**](https://docs.influxdata.com/influxdb/v1.7/concepts/storage_engine/#cache)
 
 The Cache is an in-memory copy of all data points current stored in the WAL. The points are organized by the key, which is the measurement, [tag set](https://docs.influxdata.com/influxdb/v1.7/concepts/glossary/#tag-set), and unique [field](https://docs.influxdata.com/influxdb/v1.7/concepts/glossary/#field). Each field is kept as its own time-ordered range. The Cache data is not compressed while in memory.

@@ -93,6 +93,7 @@ Gatsby’s data layer is powered by a technology called GraphQL. GraphQL is a qu
 ### Themes
 
 <https://gatsby-theme-document.netlify.app>
+
 <https://github.com/codebushi/gatsby-theme-document>
 
 ```bash

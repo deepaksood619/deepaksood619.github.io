@@ -419,6 +419,7 @@ For instance `(?:Bob|Chloe)` matches *Bob* or *Chloe* - but the name is not capt
 `\z` - Anchor asserts that the current position is the end of the string
 
 <https://dzone.com/refcardz/regular-expressions>
+
 <http://www.rexegg.com/regex-quickstart.html>
 
 ## Glob patterns

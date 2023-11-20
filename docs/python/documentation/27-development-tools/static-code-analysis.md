@@ -53,8 +53,11 @@ Mypy is an optional static type checker for Python. You can add type hints ([PEP
 You can mix dynamic and static typing in your programs. You can always fall back to dynamic typing when static typing is not convenient, such as for legacy code.
 
 <https://github.com/python/mypy>
+
 <http://mypy-lang.org>
+
 <https://medium.com/analytics-vidhya/type-annotations-in-python-3-8-3b401384403d>
+
 <https://sourcery.ai/blog/python-best-practices>
 
 ## Black
