@@ -70,7 +70,7 @@ Outcomes -
 2. Admit that he was not smart/skilled enough to get to the grapes (Hurts Ego)
 3. Reinterpret the situation retrospectively (Never wanted those sour grapes anyway)
 
-## [**Selection Bias**](https://en.wikipedia.org/wiki/Selection_bias)
+## [Selection Bias](https://en.wikipedia.org/wiki/Selection_bias)
 
 The selection of individuals, groups or data for analysis in such a way that proper randomization is not achieved, thereby ensuring that the sample obtained is not representative of the population intended to be analyzed." (related:[sampling bias](https://en.wikipedia.org/wiki/Sampling_bias))
 
@@ -383,7 +383,7 @@ For instance, the 6 francs that the shopkeeper spends on repairing the broken wi
 
 And that misconception is called the broken window fallacy.
 
-### [**24 Biases That Come In Your Way While Making Money**](https://www.youtube.com/watch?v=gRNqZzmmL-0)
+### [24 Biases That Come In Your Way While Making Money](https://www.youtube.com/watch?v=gRNqZzmmL-0)
 
 - Consistency & Commitment Bias
   - Once an idea has taken hold of the brain it's almost impossible to eradicate

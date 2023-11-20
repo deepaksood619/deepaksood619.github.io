@@ -1,8 +1,13 @@
 # DQL - Data Query Language
 
-## Gotchas
+## Gotchas / Keep in mind
+
+- ORDER BY can be done on only those columns that are in SELECT
 
 ```sql
+-- in MySQL this doesn't return NULL rows
+select * from table_name where column != 'abc';
+
 -- use ::DATE selects 2023-03-16 too but between without DATE doesn't
 
 t.createdAt::DATE BETWEEN '2023-02-23' and '2023-03-16'
