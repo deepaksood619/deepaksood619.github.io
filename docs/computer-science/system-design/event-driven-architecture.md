@@ -127,6 +127,7 @@ This pattern shows how services can use messaging to control the workflow of a b
 This pattern shows how to split a large message into a claim check and a payload.
 
 <https://docs.microsoft.com/en-us/azure/architecture/guide/technology-choices/messaging>
+
 [Kafka in the Wild - Laura Schornack & Maureen Penzenik - GOTO 2021](https://www.youtube.com/watch?v=iMx8otu3rFg&ab_channel=GOTOConferences)
 
 ## Choreography vs Orchestration

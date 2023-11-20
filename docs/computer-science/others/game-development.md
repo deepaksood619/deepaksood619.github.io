@@ -3,7 +3,9 @@
 <https://docs.microsoft.com/en-us/archive/msdn-magazine/2015/march/game-development-a-web-game-in-an-hour>
 
 <https://www.freecodecamp.org/news/code-an-endless-runner-game-using-unreal-engine-and-c>
+
 <https://developer.mozilla.org/en-US/docs/Games>
+
 <https://www.freecodecamp.org/news/create-a-arcade-style-shooting>
 
 ## Tools
@@ -17,6 +19,7 @@ Host, Run and Scale dedicated game servers on Kubernetes
 <https://agones.dev/site>
 
 <https://github.com/googleforgames/agones>
+
 <https://www.youtube.com/watch?v=lCUs89nAZZA>
 
 <https://games.withgoogle.com>

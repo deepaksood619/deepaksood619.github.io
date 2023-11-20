@@ -85,6 +85,7 @@ Allows us to maintain pre-aggregated values for some combination of dimensions e
 <https://engineering.linkedin.com/blog/2019/06/star-tree-index--powering-fast-aggregations-on-pinot>
 
 <https://docs.pinot.apache.org/basics/indexing/star-tree-index>
+
 <https://en.wikipedia.org/wiki/Search_engine_indexing>
 
 ## Others

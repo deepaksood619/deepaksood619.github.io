@@ -104,6 +104,7 @@ A random IV is not a secret. It is no more sensitive than the ciphertext itself.
 The only secret in a properly designed crypto system is the key (and obviously the plaintext). Everything else (IVs, salts, algorithms, padding, everything) is assumed be be known by attackers.
 
 <https://stackoverflow.com/questions/38059749/handling-transfer-of-iv-initialization-vectors>
+
 <https://en.wikipedia.org/wiki/Initialization_vector>
 
 ## MAC (Message Authentication Code)

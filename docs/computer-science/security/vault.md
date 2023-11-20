@@ -244,6 +244,7 @@ path "prod*" {
 <https://blog.container-solutions.com/secret-sprawl-and-the-challenges-of-modern-enterprise-security>
 
 <https://www.hashicorp.com/blog/dynamic-database-credentials-with-vault-and-kubernetes>
+
 [Kubernetes Secret Management guide beginners using Vault](https://www.youtube.com/playlist?list=PLHq1uqvAteVtq-NRX3yd1ziA_wJSBu3Oj)
 
 ![image](../../media/Vault-image8.jpg)

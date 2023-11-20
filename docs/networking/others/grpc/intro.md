@@ -231,6 +231,7 @@ Online book - Practical gRPC
 <https://bleedingedgepress.com/practical-grpc>
 
 <https://www.semantics3.com/blog/a-simplified-guide-to-grpc-in-python-6c4e25f0c506>
+
 <https://dev.to/techschoolguru/is-grpc-better-than-rest-where-to-use-it-3blg>
 
 <https://grpc.io/blog/optimizing-grpc-part-1>

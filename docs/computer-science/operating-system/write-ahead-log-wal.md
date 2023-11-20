@@ -24,6 +24,7 @@ Here, memory table serves as a buffer: read, write and update operations are per
 Unlike Write-Ahead Log (which writes items in the incoming order) Memory Tables pre-sort the data before it reaches disk in order to facilitate sequential read access. Records that are more likely to be read together, are written together.
 
 <https://medium.com/databasss/on-disk-io-access-patterns-in-lsm-trees-2ba8dffc05f9>
+
 <https://bravenewgeek.com/building-a-distributed-log-from-scratch-part-1-storage-mechanics>
 
 [Redo, Undo and WAL logs | The Backend Engineering Show](https://youtu.be/uHvR7nOu5m4)

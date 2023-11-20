@@ -66,6 +66,7 @@ Cross-site request forgery, also known as one-click attack or session riding and
 <https://cheatsheetseries.owasp.org/cheatsheets/Cross-Site_Request_Forgery_Prevention_Cheat_Sheet.html>
 
 <https://www.freecodecamp.org/news/what-is-cross-site-request-forgery>
+
 <https://victorzhou.com/blog/xss>
 
 ### [Insecure Deserialization](https://owasp.org/www-project-top-ten/OWASP_Top_Ten_2017/Top_10-2017_A8-Insecure_Deserialization)

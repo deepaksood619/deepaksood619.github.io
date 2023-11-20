@@ -9,6 +9,7 @@
 ## Repository Pattern
 
 <https://medium.com/swlh/repository-pattern-in-android-c31d0268118c>
+
 <https://developer.android.com/jetpack/guide#recommended-app-arch>
 
 ## Kotlin Flows
@@ -16,6 +17,7 @@
 A suspending function asynchronously returns a single value, but how can we return multiple asynchronously computed values? This is where Kotlin Flows come in.
 
 <https://developer.android.com/kotlin/flow>
+
 <https://kotlinlang.org/docs/flow.html>
 
 ## Kotlin vs Java

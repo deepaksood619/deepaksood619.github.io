@@ -109,6 +109,7 @@ cert-manager builds on top of Kubernetes, introducing certificate authorities an
 <https://cert-manager.io/docs/concepts>
 
 <https://cert-manager.io/docs/installation/kubernetes>
+
 <https://www.youtube.com/watch?v=JJTJfl-V_UM>
 
 [Use cert-manager with Let's Encrypt® Certificates Tutorial: Automatic Browser-Trusted HTTPS](https://www.youtube.com/watch?v=etC5d0vpLZE)

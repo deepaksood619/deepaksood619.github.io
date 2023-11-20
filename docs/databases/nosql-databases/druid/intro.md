@@ -156,10 +156,13 @@ Druid is fundamentally a column store, and is designed for analytical queries (G
 ## References
 
 <http://druid.io/docs/latest/design/index.html>
+
 <https://medium.com/@leventov/the-problems-with-druid-at-large-scale-and-high-load-part-1-714d475e84c9>
 
 <https://medium.com/@leventov/the-challenges-of-running-druid-at-large-scale-and-future-directions-part-2-ef594ce298f2>
+
 <https://druid.apache.org/docs/latest/ingestion/data-management.html>
+
 <https://imply.io/druid-university/intro-to-druid-university>
 
 ## Imply Druid

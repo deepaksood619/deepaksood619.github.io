@@ -91,6 +91,7 @@ OpenAPI has a way to define multiple security "schemes"
   - <https://stoplight.io>
 - Spectral - api validation
 - <https://github.com/apideck-libraries/portman>
+
 <https://swagger.io/docs/specification/about>
 
 <https://www.openapis.org>

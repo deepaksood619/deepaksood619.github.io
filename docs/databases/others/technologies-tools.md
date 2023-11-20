@@ -21,7 +21,9 @@ By encapsulating shard-routing logic, Vitess allows application code and databas
 ## MySQL Workbench / MySQLWorkbench
 
 <https://dev.mysql.com/doc/workbench/en/wb-performance-explain.html>
+
 <https://www.mysql.com/products/workbench>
+
 <https://dev.to/realtrevorfaux/8-new-sql-tools-that-will-change-how-you-work-in-2020-n63>
 
 - Preferences > SQL Editor > DBMS connection read timeout interval (in seconds) > 3000

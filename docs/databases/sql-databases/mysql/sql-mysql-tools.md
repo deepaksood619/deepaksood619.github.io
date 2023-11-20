@@ -169,6 +169,7 @@ A final option is available to run the migration only on the replica without imp
 Note that if your schema has foreign keys then Gh-ost may not operate cleanly, as this configuration is not supported.
 
 <https://github.com/github/gh-ost>
+
 <https://www.infoworld.com/article/3241730/top-5-open-source-tools-for-mysql-administrators.html>
 
 ## Maintenance Scripts
