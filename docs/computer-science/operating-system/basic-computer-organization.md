@@ -77,6 +77,7 @@
 ## Instruction Set Architecture (ISA)
 
 An **ISA** is an abstract model of a [computer](https://en.wikipedia.org/wiki/Computer). It is also referred to as **architecture** or **computer architecture**. A realization of an ISA, such as a [central processing unit](https://en.wikipedia.org/wiki/Central_processing_unit)(CPU), is called an *implementation*.
+
 <https://en.wikipedia.org/wiki/Instruction_set_architecture>
 Based on where opcode and operand are
 
@@ -87,7 +88,9 @@ Based on where opcode and operand are
 - Register-Memory architecture
 
 - Register-Register / Load Store architecture
+
 ![image](../../media/Basic-Computer-Organization-image7.jpg)
+
 ![image](../../media/Basic-Computer-Organization-image8.jpg)
 
 ## Addressing Modes
@@ -143,6 +146,7 @@ Branch prediction is not the same as [branch target prediction](https://en.wikip
 In [computer software](https://en.wikipedia.org/wiki/Computer_software), anapplication binary interface(ABI) is an [interface](https://en.wikipedia.org/wiki/Interface_(computing)) between two binary program modules; often, one of these modules is a [library](https://en.wikipedia.org/wiki/Library_(computing)) or [operating system](https://en.wikipedia.org/wiki/Operating_system) facility, and the other is a program that is being run by a user.
 AnABIdefines how data structures or computational routines are accessed in [machine code](https://en.wikipedia.org/wiki/Machine_code), which is a low-level, hardware-dependent format; in contrast, an [API](https://en.wikipedia.org/wiki/Application_programming_interface) defines this access in [source code](https://en.wikipedia.org/wiki/Source_code), which is a relatively high-level, hardware-independent, often [human-readable](https://en.wikipedia.org/wiki/Human-readable) format. A common aspect of an ABI is the [calling convention](https://en.wikipedia.org/wiki/Calling_convention), which determines how data is provided as input to or read as output from computational routines; examples are the [x86 calling conventions](https://en.wikipedia.org/wiki/X86_calling_conventions).
 Adhering to an ABI (which may or may not be officially standardized) is usually the job of a [compiler](https://en.wikipedia.org/wiki/Compiler), operating system, or library author; however, an application programmer may have to deal with an ABI directly when writing a program in a mix of programming languages, which can be achieved by using [foreign function calls](https://en.wikipedia.org/wiki/Foreign_function_call).
+
 <https://en.wikipedia.org/wiki/Application_binary_interface>
 
 ## ELF (Executable and Linkable Format)
@@ -210,6 +214,7 @@ Historically there have been 2 types of Computers:
 5. **Current Instruction Register (CIR):**It stores the most recently fetched instructions while it is waiting to be coded and executed
 
 6. **Instruction Buffer Register (IBR):**The instruction that is not to be executed immediately is placed in the instruction buffer register IBR
+
 <https://en.wikipedia.org/wiki/Von_Neumann_architecture>
 
 <https://www.geeksforgeeks.org/computer-organization-von-neumann-architecture>

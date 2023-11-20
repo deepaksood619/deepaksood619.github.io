@@ -68,6 +68,7 @@ An End Device (ED) is a node that:
 - communicates primarily with a single Router
 - does not forward packets for other network devices
 - can disable its transceiver to reduce power
+
 ![image](../../media/OpenThread-image1.jpg)
 
 ## Device Types
@@ -90,6 +91,7 @@ A Minimal Thread Device does not subscribe to multicast traffic and forwards all
 - Sleepy End Device (SED) - normally disabled, wakes on occasion to poll for messages from its parent
 
 An MTD can only operate as an End Device (Child).
+
 ![image](../../media/OpenThread-image2.jpg)**References**
 
 <https://openthread.io>

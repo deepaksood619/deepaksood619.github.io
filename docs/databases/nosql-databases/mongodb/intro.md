@@ -32,6 +32,7 @@ The [storage engine](https://docs.mongodb.com/manual/reference/glossary/#term-st
 - WiredTiger Storage Engine (Default)
 
 [WiredTiger](https://docs.mongodb.com/manual/core/wiredtiger/) is the default storage engine starting in MongoDB 3.2. It is well-suited for most workloads and is recommended for new deployments. WiredTiger provides a document-level concurrency model, checkpointing, and compression, among other features.
+
 <https://docs.mongodb.com/manual/faq/storage>
 
 <https://docs.mongodb.com/manual/core/storage-engines>

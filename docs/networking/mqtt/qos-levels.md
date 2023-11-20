@@ -30,6 +30,7 @@ The minimal QoS level is zero. This service level guarantees a best-effort deliv
 QoS level 1 guarantees that a message is delivered at least one time to the receiver. The sender stores the message until it gets a [PUBACK](http://docs.oasis-open.org/mqtt/mqtt/v3.1.1/os/mqtt-v3.1.1-os.html#_Toc398718043) packet from the receiver that acknowledges receipt of the message. It is possible for a message to be sent or delivered multiple times.
 
 ![image](../../media/QoS-Levels-image2.jpg)
+
 ![image](../../media/QoS-Levels-image3.jpg)
 
 The sender uses the packet identifier in each packet to match the PUBLISH packet to the corresponding PUBACK packet. If the sender does not receive a PUBACK packet in a reasonable amount of time, the sender resends the PUBLISH packet. When a receiver gets a message with QoS 1, it can process it immediately. For example, if the receiver is a broker, the broker sends the message to all subscribing clients and then replies with a PUBACK packet. If the publishing client sends the message again it sets a duplicate (DUP) flag. In QoS 1, this DUP flag is only used for internal purposes and is not processed by broker or client. The receiver of the message sends a PUBACK, regardless of the DUP flag.

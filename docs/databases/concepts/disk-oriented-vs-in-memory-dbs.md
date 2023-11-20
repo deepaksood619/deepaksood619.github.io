@@ -83,6 +83,7 @@ An in-memory DBMS splits the data for tuples into fixed-length and variable-leng
 - Direct memory pointers vs record ids
 - Fixed-length vs variable-length data pools
 - Use checksums to detct software errors from trashing the database
+
 ![image](../../media/Disk-oriented-vs-in-memory-DBs-image3.jpg)
 
 ## Concurrency Control

@@ -30,4 +30,5 @@ The length of a vector is a nonnegative number that describes the extent of the 
 
 - The L2 norm that is calculated as the square root of the sum of the squared vector values.
 - The max norm that is calculated as the maximum vector values.
+
 <https://machinelearningmastery.com/vector-norms-machine-learning>

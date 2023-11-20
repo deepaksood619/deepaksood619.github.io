@@ -88,6 +88,7 @@ Privacy, Integrity and Identification
 ## Https vs TLS (Transport Layer Security) vs SSL (Secure Sockets Layer)
 
 HTTP is the protocol used by your browser and web servers to communicate and exchange information. When that exchange of data is encrypted with SSL/TLS, then we call it HTTPS. The "S" stands for "Secure". SSL is the predecessor to TLS.
+
 <https://howhttps.works/https-ssl-tls-differences>
 
 ## TLS (Tranport Layer Security)
@@ -99,6 +100,7 @@ The TLS protocol aims primarily to provide [privacy](https://en.wikipedia.org/wi
 - The connection is private (or secure) because [symmetric cryptography](https://en.wikipedia.org/wiki/Symmetric-key_algorithm) is used to [encrypt](https://en.wikipedia.org/wiki/Encryption) the data transmitted. The [keys](https://en.wikipedia.org/wiki/Key_(cryptography)) for this symmetric encryption are generated uniquely for each connection and are based on a [shared secret](https://en.wikipedia.org/wiki/Shared_secret) that was negotiated at the start of the [session](https://en.wikipedia.org/wiki/Session_(computer_science)). The server and client negotiate the details of which encryption algorithm and cryptographic keys to use before the first [byte](https://en.wikipedia.org/wiki/Byte) of data is transmitted. The negotiation of a shared secret is both secure (the negotiated secret is unavailable to [eavesdroppers](https://en.wikipedia.org/wiki/Eavesdropping) and cannot be obtained, even by an attacker who places themselves in the middle of the connection) and reliable (no attacker can modify the communications during the negotiation without being detected).
 - The identity of the communicating parties can beauthenticatedusing [public-key cryptography](https://en.wikipedia.org/wiki/Public-key_cryptography). This authentication can be made optional, but is generally required for at least one of the parties (typically the server).
 - The connection isreliablebecause each message transmitted includes a message integrity check using a [message authentication code](https://en.wikipedia.org/wiki/Message_authentication_code) to prevent undetected loss or alteration of the data during [transmission](https://en.wikipedia.org/wiki/Data_transmission).
+
 <https://en.wikipedia.org/wiki/Transport_Layer_Security>
 
 ## ALPN (Application Layer Protocol Negotiation)

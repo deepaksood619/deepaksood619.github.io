@@ -21,6 +21,7 @@ Split tunneling is a computer networking concept which allows a mobile user to a
 ## Variant - Inverse Split Tunneling
 
 A variant of this split tunneling is called "inverse" split tunneling. By default all datagrams enter the tunnel except those destination IPs explicitly allowed by VPN gateway. The criteria for allowing datagrams to exit the local network interface (outside the tunnel) may vary from vendor to vendor (i.e.: port, service, etc.) This keeps control of network gateways to a centralized policy device such as the VPN terminator. This can be augmented by endpoint policy enforcement technologies such as an interface firewall on the endpoint device's network interface driver, [group policy](https://en.wikipedia.org/wiki/Group_policy) object or anti-malware agent. This is related in many ways to [network access control](https://en.wikipedia.org/wiki/Network_access_control)(NAC).
+
 <https://en.wikipedia.org/wiki/Split_tunneling>
 
 ## IPSec VPN vs SSL VPN

@@ -150,6 +150,7 @@ Druid is fundamentally a column store, and is designed for analytical queries (G
 ![image](../../../media/Druid-image9.jpg)
 
 ![image](../../../media/Druid-image10.jpg)
+
 ![image](../../../media/Druid-image11.jpg)
 
 ## References

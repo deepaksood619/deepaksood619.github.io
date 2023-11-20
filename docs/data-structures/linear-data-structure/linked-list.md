@@ -43,6 +43,7 @@ There are two main reasons to use intrusive lists over non-intrusive linked list
 With non-intrusive linked lists, creating a new object and adding it to a list requires two memory allocations: one for the object, and one for the list node. With intrusive linked lists, you only need to allocate one object (since the list node is embedded in the object). This means fewer errors to be handled, because there are half as many cases where memory allocation can fail.- Less cache thrashing
 
 Intrusive linked lists also suffer less from cache thrashing. Iterating through a non-intrusive list node requires dereferencing a list node, and then dereferencing the list data. Intrusive linked lists only require dereferencing the next list node.
+
 <https://www.data-structures-in-practice.com/intrusive-linked-lists>
 In a Linked List the first node is called the **head** and the last node is called the **tail**.
 

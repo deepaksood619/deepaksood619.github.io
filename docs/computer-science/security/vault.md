@@ -172,8 +172,11 @@ spec:
 ## App Roles
 
 ![image](../../media/Vault-image2.jpg)
+
 ![image](../../media/Vault-image3.jpg)
+
 ![image](../../media/Vault-image4.jpg)
+
 ![image](../../media/Vault-image5.jpg)
 
 ## Review Approle
@@ -229,6 +232,7 @@ path "prod*" {
 ```
 
 3. Create role
+
 <https://www.vaultproject.io/docs/what-is-vault>
 
 <https://github.com/hashicorp/vault>
@@ -241,6 +245,7 @@ path "prod*" {
 
 <https://www.hashicorp.com/blog/dynamic-database-credentials-with-vault-and-kubernetes>
 [Kubernetes Secret Management guide beginners using Vault](https://www.youtube.com/playlist?list=PLHq1uqvAteVtq-NRX3yd1ziA_wJSBu3Oj)
+
 ![image](../../media/Vault-image8.jpg)
 
 ## Comparison

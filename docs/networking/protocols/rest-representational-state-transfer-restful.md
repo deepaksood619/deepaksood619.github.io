@@ -245,6 +245,7 @@ binary data allows you to send things which you can not enter in Postman. For ex
   - Visibility
   - Portability
   - Reliability
+
 <https://www.restapitutorial.com/lessons/whatisrest.html>
 
 ## Best Practices

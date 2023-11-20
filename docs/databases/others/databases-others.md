@@ -349,6 +349,7 @@ The event streaming database purpose-built for stream processing applications.
 Minio is a high performance distributed object storage server, designed for
 
 large-scale private cloud infrastructure.
+
 <https://minio.io>
 
 **Others**

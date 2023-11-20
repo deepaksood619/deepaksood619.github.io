@@ -36,6 +36,7 @@ The connection is represented by a data structure called the THD which is create
 ![image](../../../media/MySQL_Connection-Handling-image2.jpg)
 
 Figure 2 illustrates the command phase. Here, the client sends queries to the server and get results back in several rounds. In general, a sequence of statements can be enclosed by a start transaction and a commit/rollback. In this case there is a need to keep track of thetransaction context. In auto-commit mode, each statement will be executed as a transaction (each statement constitutes the full transaction context). In addition there is thesession context, i.e. the session can hold session variables, user variables, and temporary tables. Thus, as long as the context is relevant for executing queries, all queries on a connection must use the same THD.
+
 ![image](../../../media/MySQL_Connection-Handling-image3.jpg)
 
 Figure 3 illustrates what happens when a MySQL Client disconnects from a MySQL Server. The Client sends a [COM_QUIT](https://dev.mysql.com/doc/dev/mysql-server/latest/page_protocol_com_quit.html) command which causes the server to close the socket. A disconnect can also happen when either side closes its end of the socket. Upon a disconnect the user thread will clean up, deallocate the THD, and finally put itself in the Thread Cache as "suspended" if there are free slots. If there are no free slots, the user thread will be "terminated".
@@ -59,4 +60,5 @@ A thread will happily execute instructions until it needs to wait for something 
 - Rule of thumb: Max number of connections = 4 times available CPU cores
 - Efficient use of connections will depend upon user load, useful number of user connections can even be lower than number of CPU cores when the bottleneck is somewhere else than on the threading
 - Check out your own load by doubling the number of connections until TPS no longer increases and latency starts to increase
+
 <https://mysqlserverteam.com/mysql-connection-handling-and-scaling>

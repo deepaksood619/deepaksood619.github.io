@@ -9,8 +9,11 @@ In a public key encryption system, any person can encrypt a message using the re
 - Relies on a centralized authority, aka Certificate Authority (CA)
 - Users generally have their own identities - public-private key pair which is attested by the CA and stored in the form of certificates
 - X.509 certificate format
+
 ![image](../../../media/Cryptography-Intro_Public-key-cryptography-image1.jpg)
+
 ![image](../../../media/Cryptography-Intro_Public-key-cryptography-image2.jpg)
+
 ![image](../../../media/Cryptography-Intro_Public-key-cryptography-image3.jpg)
 <https://medium.com/sitewards/the-magic-of-tls-x509-and-mutual-authentication-explained-b2162dec4401>
 ![image](../../../media/Cryptography-Intro_Public-key-cryptography-image4.jpg)

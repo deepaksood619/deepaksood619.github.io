@@ -13,9 +13,13 @@ S3 - $0.025per GB
 ## Storage
 
 The minimumstorageis 10GB. Based on yourdatabaseusage, your AmazonAurora storagewill automatically grow, up to 64 TB, in 10GB increments with no impact todatabaseperformance. There is no need to provisionstoragein advance
+
 ![image](../../../media/AWS-Aurora_Storage-image1.jpg)
+
 ![image](../../../media/AWS-Aurora_Storage-image2.jpg)
+
 ![image](../../../media/AWS-Aurora_Storage-image3.jpg)
+
 ![image](../../../media/AWS-Aurora_Storage-image4.jpg)
 
 ## Cloud native database architecture
@@ -60,6 +64,7 @@ The minimumstorageis 10GB. Based on yourdatabaseusage, your AmazonAurora storage
   - If segments are too big, repairs take too long
 - Choose the biggest size that lets us repair "fast enough"
   - We currently picked a segment size of 10 GB, as we repair a 10-GB segment in less than a minute
+
 ![image](../../../media/AWS-Aurora_Storage-image14.jpg)
 
 ## Performance results

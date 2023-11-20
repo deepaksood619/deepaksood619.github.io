@@ -84,6 +84,7 @@
 
 The Hybrid Application Gateway built on top of Envoy
 Gloo is a feature-rich, Kubernetes-native ingress controller, and next-generation API gateway. Gloo is exceptional in its function-level routing; its support for legacy apps, microservices and serverless; its discovery capabilities; its numerous features; and its tight integration with leading open-source projects. Gloo is uniquely designed to support hybrid applications, in which multiple technologies, architectures, protocols, and clouds can coexist
+
 <https://github.com/solo-io/gloo>
 
 ## Ambassador
@@ -97,6 +98,7 @@ Key features include:
 - [Istio integration](https://www.getambassador.io/user-guide/with-istio)
 - [Authentication](https://www.getambassador.io/reference/services/auth-service)
 - Robust TLS support, including TLS client-certificate authentication
+
 <https://github.com/datawire/ambassador>
 ![image](../../media/API-Gateway-image1.jpg)
 <https://microservices.io/patterns/apigateway.html>

@@ -6,6 +6,7 @@ Path: Sequence of vertices connected by edges
 
 Cycle: Path whose first and last vertices are the same
 Two vertices are connected if there is a path between them
+
 ![image](../../media/Undirected-Graph-image1.jpg)
 
 ## Handshaking Lemma

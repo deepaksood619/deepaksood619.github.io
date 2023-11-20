@@ -6,6 +6,7 @@ The purpose of this can be illustrated by an example. Imagine a program that is 
 WAL allows updates of a database to be done [in-place](https://en.wikipedia.org/wiki/In-place_algorithm). Another way to implement atomic updates is with [shadow paging](https://en.wikipedia.org/wiki/Shadow_paging), which is not in-place. The main advantage of doing updates in-place is that it reduces the need to modify indexes and block lists.
 [ARIES](https://en.wikipedia.org/wiki/Algorithms_for_Recovery_and_Isolation_Exploiting_Semantics) is a popular algorithm in the WAL family.
 Modern [file systems](https://en.wikipedia.org/wiki/File_system) typically use a variant of WAL for at least file system [metadata](https://en.wikipedia.org/wiki/Metadata) called [journaling](https://en.wikipedia.org/wiki/Journaling_file_system).
+
 <https://en.wikipedia.org/wiki/Write-ahead_logging>
 
 ## InfluxDB WAL
@@ -21,6 +22,7 @@ It's often advised to use a separate physical device for Write Ahead Log to make
 LSM-Trees are using Memory tables, where data is stored before it gets to the main storage, for serving reads and batching writes together. After reaching a size threshold, memory table is written on disk.
 Here, memory table serves as a buffer: read, write and update operations are performed against memory tables, allowing batching a few items together. When data is written on disk, it's done sequentially, in one pass. This amortises a cost of small random writes and converts them into larger sequential allocations on disk, transforming updates of logically unrelated data into physically sequential I/O.
 Unlike Write-Ahead Log (which writes items in the incoming order) Memory Tables pre-sort the data before it reaches disk in order to facilitate sequential read access. Records that are more likely to be read together, are written together.
+
 <https://medium.com/databasss/on-disk-io-access-patterns-in-lsm-trees-2ba8dffc05f9>
 <https://bravenewgeek.com/building-a-distributed-log-from-scratch-part-1-storage-mechanics>
 

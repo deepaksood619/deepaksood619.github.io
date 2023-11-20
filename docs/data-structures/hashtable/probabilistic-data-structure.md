@@ -11,6 +11,7 @@ Probabilistic data structures are a group of data structures that are extremely 
 4. **Frequency Estimation: Count-Mean-Min Sketch**
 
 5. **Locality-sensitive hashing**(**LSH**)
+
 ![image](../../media/Probabilistic-Data-Structure-image1.jpg)
 
 ## Ribbon Filter (practically smaller than Bloom and Xor)

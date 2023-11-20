@@ -23,6 +23,7 @@ SRS - Simple Random Sample, is a sample taken so that each member in a set of n 
 - Binomial Distribution
 
 ![image](../../media/Binomial-Random-Variables-image1.jpg)
+
 ![image](../../media/Binomial-Random-Variables-image2.jpg)
 
 - Binompdf (Binomial Probability Distribution Function) and Binomcdf (Binomial Cumulative Distribution Function) functions

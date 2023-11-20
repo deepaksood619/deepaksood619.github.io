@@ -48,6 +48,7 @@ Some advantages of using a TLV representation data system solution are:
 - New message elements which are received at an older node can be safely skipped and the rest of the message can be parsed. This is similar to the way that unknown [XML](https://en.wikipedia.org/wiki/XML) tags can be safely skipped;
 - TLV elements can be placed in any order inside the message body;
 - TLV elements are typically used in a binary format which makes parsing faster and the data smaller than in comparable text based protocols.
+
 <https://en.wikipedia.org/wiki/Type-length-value>
 [**Cache**](https://docs.influxdata.com/influxdb/v1.7/concepts/storage_engine/#cache)
 

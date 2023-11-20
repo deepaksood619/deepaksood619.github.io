@@ -7,8 +7,11 @@
 
 <https://aws.amazon.com/blogs/aws/new-aqua-advanced-query-accelerator-for-amazon-redshift>
 ![image](../../../media/AWS-Redshift_Others-image2.jpg)
+
 ![image](../../../media/AWS-Redshift_Others-image3.jpg)
+
 ![image](../../../media/AWS-Redshift_Others-image4.jpg)
+
 ![image](../../../media/AWS-Redshift_Others-image5.jpg)
 
 Amazon Redshift spatial provides location-based analytics for rich insights into your data. It seamlessly integrates spatial and business data to provide analytics for decision making.[Amazon Redshift launched native spatial data processing support in November 2019](https://aws.amazon.com/about-aws/whats-new/2019/11/amazon-redshift-announces-support-spatial-data/), with a polymorphic data type GEOMETRY and several key SQL spatial functions. We now support GEOGRAPHY data type, and our library of SQL spatial functions has grown to 80. We support all the common spatial datatypes and standards, including Shapefiles, GeoJSON, WKT, WKB, eWKT, and eWKB.

@@ -14,6 +14,7 @@
 
 It's a benchmarking tool that can help DBAs and developers load test their database servers.
 mysqlslap can emulate a large number of client connections hitting the database server at the same time. The load testing parameters are fully configurable and the results from different test runs can be used to fine-tune database design or hardware resources.
+
 <https://www.digitalocean.com/community/tutorials/how-to-measure-mysql-query-performance-with-mysqlslap>
 
 ## Optimizations
@@ -166,6 +167,7 @@ A final option is available to run the migration only on the replica without imp
 ### Gh-ost general flow
 
 Note that if your schema has foreign keys then Gh-ost may not operate cleanly, as this configuration is not supported.
+
 <https://github.com/github/gh-ost>
 <https://www.infoworld.com/article/3241730/top-5-open-source-tools-for-mysql-administrators.html>
 

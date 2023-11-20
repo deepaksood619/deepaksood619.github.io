@@ -3,6 +3,7 @@
 ## The probability of difference of two sets
 
 ![image](../../../media/Intro-Syllabus_Unit-1-Solved-Problems-image1.jpg)
+
 ![image](../../../media/Intro-Syllabus_Unit-1-Solved-Problems-image2.jpg)
 
 Geniuses and chocolates.Out of the students in a class, 60% are geniuses, 70% love chocolate, and 40% fall into both categories. Determine the probability that a randomly selected student is neither a genius nor a chocolate lover

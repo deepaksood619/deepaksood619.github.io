@@ -85,6 +85,7 @@ Analytics, Data Lakes and Data Warehouses Unified in the Cloud
 ## Datastage
 
 Datastage is an ETL tool which extracts data, transform and load data from source to the target. The data sources might include sequential files, indexed files, relational databases, external data sources, archives, enterprise applications, etc. DataStage facilitates business analysis by providing quality data to help in gaining business intelligence.
+
 <https://www.guru99.com/datastage-tutorial.html>
 
 ## Liquibase

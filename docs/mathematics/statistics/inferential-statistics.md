@@ -25,7 +25,9 @@ Itis a fancy name for methods that aid in quantifying properties of the domain o
 ## The Normal Distribution
 
 ![image](../../media/Inferential-Statistics-image2.jpg)
+
 ![image](../../media/Inferential-Statistics-image3.jpg)
+
 ![image](../../media/Inferential-Statistics-image4.jpg)
 
 ## The Standard Normal Distribution

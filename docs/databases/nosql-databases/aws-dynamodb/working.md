@@ -11,6 +11,7 @@ The total size of an item is the sum of the lengths of its attribute names and v
 - A binary value must be encoded in base64 format before it can be sent to DynamoDB, but the value's raw byte length is used for calculating size. The size of a binary attribute is(length of attribute name) + (number of raw bytes).
 - The size of a null attribute or a Boolean attribute is(length of attribute name) + (1 byte).
 - An attribute of typeListorMaprequires 3 bytes of overhead, regardless of its contents. The size of aListorMapis(length of attribute name) + sum (size of nested elements) + (3 bytes). The size of an emptyListorMapis(length of attribute name) + (3 bytes).
+
 <https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/CapacityUnitCalculations.html>
 
 ## Scan vs Query
@@ -22,6 +23,7 @@ A scan operation scans the entire table. You can specify filters to apply to the
 
 whilescanquery you have to scan whole table then apply filter on every singlerowto find the right result. The performance isO(n). Its much slower if your table is big.
 Also, think about the global secondary index to support a different kind of queries on different keys to gain performance objective
+
 <https://stackoverflow.com/questions/43452219/what-is-the-difference-between-scan-and-query-in-dynamodb-when-use-scan-query>
 
 <https://medium.com/@amos.shahar/dynamodb-query-vs-scan-sql-syntax-and-join-tables-part-1-371288a7cb8f>
@@ -35,6 +37,7 @@ Write capacity unit (WCU)
 Replicated write capacity unit (rWCU)- One**read capacity unit**represents one strongly consistent read per second, or two eventually consistent reads per second, for items up to 4 KB in size. If you need to read an item that is larger than 4 KB, DynamoDB will need to consume additional read capacity units. The total number of read capacity units required depends on the item size, and whether you want an eventually consistent or strongly consistent read.
 
 - One**write capacity unit**represents one write per second for items up to 1 KB in size. If you need to write an item that is larger than 1 KB, DynamoDB will need to consume additional write capacity units. The total number of write capacity units required depends on the item size.
+
 ![image](../../../media/AWS-DynamoDB_Working-image1.jpg)- Secondary Indexes
   - Local secondary indexes
   - Global secondary indexes (asynchronous)

@@ -112,6 +112,7 @@ Goal: Preprocess a text corpus to support concordance queries: given a word, fin
 Sparse Matrix-vector multiplication
 
 Using symbol table, we can have space proportional to number of nonzero values. We can use hash table because the order is also not important. Keys will be the position of the nonzero element in each row and value will be the actual value.
+
 ![image](../../media/Elementary-Symbol-Tables-image1.jpg)
 
 ![image](../../media/Elementary-Symbol-Tables-image2.jpg)

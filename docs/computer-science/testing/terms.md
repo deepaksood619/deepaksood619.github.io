@@ -127,6 +127,7 @@ Fuzz testing is a software testing technique using which a random data is given 
 - Application Fuzzing
 - Protocol Fuzzing
 - File Format Fuzzing
+
 <https://github.com/minimaxir/big-list-of-naughty-strings>
 
 <https://www.freecodecamp.org/news/whats-fuzzing-fuzz-testing-explained>
@@ -349,4 +350,5 @@ In order to keep a system secure, it is advisable to conduct a pentest on a regu
 - Context Driven Testing
 - Control Flow Path
 - Conversion Testing
+
 <https://www.tutorialspoint.com/software_testing_dictionary/index.htm>

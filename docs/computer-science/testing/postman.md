@@ -59,6 +59,7 @@ Postman supports the following variable scopes:
 - Environment
 - Data
 - Local
+
 <https://learning.postman.com/docs/postman/variables-and-environments/variables>
 
 ## Environments
@@ -81,6 +82,7 @@ Examples of dynamic variables are as follows:
 
 The Collection Runner allows you to run sets of requests in a specified sequence. The Collection Runner will log your request test results, and your scripts can pass data between requests as well as altering the request workflow.
 You can run collections against specific environments, and can pass data files into a run. Collection runs allow you to automate your API testing, and you can schedule runs using monitors. You can integrate collection runs to your CI/CD pipeline using Postman's CLI Newman.
+
 <https://learning.postman.com/docs/running-collections/intro-to-collection-runs>
 
 ## Mock Server
@@ -94,6 +96,7 @@ You can run collections against specific environments, and can pass data files i
 ## Newman
 
 Newman is a command line Collection Runner for Postman. It allows you to run and test a Postman Collection directly from the command line. It is built with extensibility in mind so that you can easily integrate it with your continuous integration servers and build systems.
+
 <https://learning.postman.com/docs/running-collections/using-newman-cli/command-line-integration-with-newman>
 
 ## Pre-Request Script

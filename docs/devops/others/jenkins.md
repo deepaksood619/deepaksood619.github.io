@@ -207,6 +207,7 @@ Clear build queue, Manage Jenkins > Script Console:
 ## Jenkins X
 
 Full CI/CD on kubernetes
+
 <https://kublr.com/blog/cicd-pipeline-with-jenkins-nexus-kubernetes>
 
 ## Jenkins Operator

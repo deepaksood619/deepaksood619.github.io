@@ -21,4 +21,5 @@ Or, equivalently (using [logical transposition](https://en.wikipedia.org/wiki/Tr
 
 - The function is [bijective](https://en.wikipedia.org/wiki/Bijective_function)(one-to-one and ontoorone-to-one correspondence) if each element of the codomain is mapped to byexactlyone element of the domain. That is, the function isbothinjective and surjective. A bijective function is also called abijection.
 An injective function need not be surjective (not all elements of the codomain may be associated with arguments), and a surjective function need not be injective (some images may be associated withmore than oneargument). The four possible combinations of injective and surjective features are illustrated in the adjacent diagrams.
+
 <https://en.wikipedia.org/wiki/Bijection,_injection_and_surjection>

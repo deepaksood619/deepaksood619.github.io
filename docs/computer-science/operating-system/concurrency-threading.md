@@ -228,6 +228,7 @@ Many collective routines and directive-based parallel languages impose implicit 
 Semaphores are signalling mechanisms which can allow one or more threads/processors to access a section. A Semaphore has a flag which has a certain fixed value associated with it and each time a thread wishes to access the section, it decrements the flag. Similarly, when the thread leaves the section, the flag is incremented. If the flag is zero, the thread cannot access the section and gets blocked if it chooses to wait.
 
 Some semaphores would allow only one thread or process in the code section. Such Semaphores are called binary semaphore and are very similar to Mutex. Here, if the value of semaphore is 1, the thread is allowed to access and if the value is 0, the access is denied.
+
 <https://en.wikipedia.org/wiki/Synchronization_(computer_science)>
 
 ## Hyper - Threading Technology (HTT)

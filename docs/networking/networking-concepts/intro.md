@@ -54,6 +54,7 @@ PAT - Port Address Translation
 DNAT - Destination Network Address Translation
 
 SNAT - Source Network Address Translation
+
 <https://en.wikipedia.org/wiki/Network_address_translation>
 
 ## VPN

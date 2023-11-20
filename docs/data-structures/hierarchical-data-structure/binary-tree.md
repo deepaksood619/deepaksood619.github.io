@@ -19,6 +19,7 @@ T = Number of internal nodes with two children
 - In the **infinite complete** binary tree, every node has two children (and so the set of levels is [countably infinite](https://en.wikipedia.org/wiki/Countably_infinite)). The set of all nodes is countably infinite, but the set of all infinite paths from the root is uncountable, having the [cardinality of the continuum](https://en.wikipedia.org/wiki/Cardinality_of_the_continuum). These paths correspond by an order-preserving [bijection](https://en.wikipedia.org/wiki/Bijection) to the points of the [Cantor set](https://en.wikipedia.org/wiki/Cantor_set), or (using the example of a [Stern--Brocot tree](https://en.wikipedia.org/wiki/Stern%E2%80%93Brocot_tree)) to the set of positive [irrational numbers](https://en.wikipedia.org/wiki/Irrational_number).
 - A **balanced** binary tree is a binary tree structure in which the left and right subtrees of every node differ in height by no more than 1.One may also consider binary trees where no leaf is much farther away from the root than any other leaf. (Different balancing schemes allow different definitions of "much farther".)
 - A **degenerate**(or **pathological**) tree is where each parent node has only one associated child node.This means that the tree will behave like a [linked list](https://en.wikipedia.org/wiki/Linked_list) data structure.
+
 <https://en.wikipedia.org/wiki/Binary_tree#Types_of_binary_trees>
 
 ## Binary Tree
@@ -28,6 +29,7 @@ Empty or node with links to left and right binary trees.
 ![image](../../media/Binary-Tree-image1.jpg)
 
 This is neither full nor complete
+
 ![image](../../media/Binary-Tree-image2.jpg)
 
 This is both full and complete

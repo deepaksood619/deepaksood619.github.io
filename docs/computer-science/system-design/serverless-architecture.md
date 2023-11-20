@@ -28,6 +28,7 @@ Serverless computing simply means using existing, auto-scaling cloud services to
 ## Durable Functions
 
 Durable Functionsis an extension of [Azure Functions](https://docs.microsoft.com/en-us/azure/azure-functions/functions-overview) that lets you write stateful functions in a serverless compute environment. The extension lets you define stateful workflows by writing [orchestrator functions](https://docs.microsoft.com/en-us/azure/azure-functions/durable/durable-functions-orchestrations) and stateful entities by writing [entity functions](https://docs.microsoft.com/en-us/azure/azure-functions/durable/durable-functions-entities) using the Azure Functions programming model. Behind the scenes, the extension manages state, checkpoints, and restarts for you, allowing you to focus on your business logic.
+
 <https://docs.microsoft.com/en-us/azure/azure-functions/durable/durable-functions-overview>
 
 ## AWS SAM (Serverless Application Model)

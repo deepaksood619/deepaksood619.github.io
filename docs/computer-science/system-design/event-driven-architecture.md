@@ -125,6 +125,7 @@ This pattern shows how services can use messaging to control the workflow of a b
 - [Claim-Check Pattern](https://docs.microsoft.com/en-us/azure/architecture/patterns/claim-check)
 
 This pattern shows how to split a large message into a claim check and a payload.
+
 <https://docs.microsoft.com/en-us/azure/architecture/guide/technology-choices/messaging>
 [Kafka in the Wild - Laura Schornack & Maureen Penzenik - GOTO 2021](https://www.youtube.com/watch?v=iMx8otu3rFg&ab_channel=GOTOConferences)
 
@@ -155,6 +156,7 @@ This pattern shows how to split a large message into a claim check and a payload
 6. Both of these methods have their own disadvantages and advantages. In some cases, orchestration is better whereas in others choreography is better.
 
 7. Major advantages of choreography over orchestration:1) Orchestration suffers from tight coupling, whereas choreography offers loose coupling. 2) Orchestration depends on RESTful APIs and hence requires more maintenance due to failures whereas choreography requires less maintenance and is fault-tolerant because it is mostly stateless and messages can be retried.
+
 <https://www.youtube.com/watch?v=ePHpAPacOdI>
 
 <https://segment.com/blog/exactly-once-delivery>
@@ -183,6 +185,7 @@ Other types of jobs for task queues include
 - spreading out large numbers of independent database inserts over time instead of inserting everything at once
 - aggregating collected data values on a fixed interval, such as every 15 minutes
 - scheduling periodic jobs such as batch processes
+
 <https://www.fullstackpython.com/task-queues.html>
 
 ## Message Oriented Architecture (MOM)
@@ -198,6 +201,7 @@ See also:
 ## RabbitMQ: The Polyglot Broker (Distributed Message Broker)
 
 All three protocols are supported by RabbitMQ broker, making it an ideal choice for interoperability between applications.
+
 <https://www.youtube.com/watch?v=Cie5v59mrTg&ab_channel=HusseinNasser>
 
 <https://www.youtube.com/watch?v=FzqjtU2x6YA&ab_channel=ThatDevOpsGuy>
@@ -209,6 +213,7 @@ All three protocols are supported by RabbitMQ broker, making it an ideal choice 
 ## pika
 
 Pika is a RabbitMQ (AMQP 0-9-1) client library for Python.
+
 <https://pypi.org/project/pika>
 
 <https://pika.readthedocs.io/en/stable/intro.html>

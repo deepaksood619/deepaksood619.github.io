@@ -195,6 +195,7 @@ Vector databases are designed to handle critical query and algorithmic styles se
 
 A **relational database** is one where data is stored in the form of a table. Each table has a **schema**, which is the columns and types a record is required to have. Each schema must have at least one primary key that uniquely identifies that record. In other words, there are no duplicate rows in your database. Moreover, each table can be related to other tables using foreign keys.
 One important aspect of relational databases is that a change in a schema must be applied to all records. This can sometimes cause breakages and big headaches during migrations.**Non-relational databases**tackle things in a different way. They are inherently schema-less, which means that records can be saved with different schemas and with a different, nested structure. Records can still have primary keys, but a change in the schema is done on an entry-by-entry basis.
+
 <https://www.prisma.io/blog/comparison-of-database-models-1iz9u29nwn37>
 
 <http://www.cattell.net/datastores/Datastores.pdf>
@@ -212,6 +213,7 @@ Amazon RDS Proxy
 
 Amazon RDS Proxy is a fully managed, highly available database proxy for [Amazon Relational Database Service (RDS)](https://aws.amazon.com/rds/) that makes applications more scalable, more resilient to database failures, and more secure.
 Many applications, including those built on modern [serverless architectures](https://aws.amazon.com/serverless/), can have a large number of open connections to the database server, and may open and close database connections at a high rate, exhausting database memory and compute resources. Amazon RDS Proxy allows applications to pool and share connections established with the database, improving database efficiency and application scalability. With RDS Proxy, failover times for Aurora and RDS databases are reduced by up to 66% and database credentials, authentication, and access can be managed through integration with AWS Secrets Manager and AWS Identity and Access Management (IAM).
+
 <https://aws.amazon.com/rds/proxy>
 
 ### Amazon RDS on VMWare
@@ -265,6 +267,7 @@ Migrate Databases with Minimal Downtime
 ### AWS Managed Apache Cassandra Service
 
 Amazon Managed Apache Cassandra Service is a scalable, highly available, and managed Apache Cassandra--compatible database service. With Amazon Managed Cassandra Service, you can run your Cassandra workloads on AWS using the same Cassandra application code and developer tools that you use today. You don't have to provision, patch, or manage servers, and you don't have to install, maintain, or operate software. Amazon Managed Cassandra Service is serverless, so you pay for only the resources you use and the service automatically scales tables up and down in response to application traffic. You can build applications that serve thousands of requests per second with virtually unlimited throughput and storage.
+
 <https://aws.amazon.com/mcs>
 
 ### Amazon TimeStream
@@ -304,6 +307,7 @@ Additionally, because individual columns of data are typically the same type and
 Yet columnar stores are not without trade-offs. First of all, inserts take much longer: the system needs to split each record into the appropriate columns and write it to disk accordingly. Second, it is easier for row-based stores to take advantage of an index (e.g., B-tree) to quickly find the appropriate records. Third, with a row-store it is easier to normalize your dataset, such that you can more efficiently store related datasets in other tables.
 
 As a result, the choice of row-oriented vs. columnar database greatly depends on your workload. Typically, row-oriented stores are used with transactional (OLTP) workloads, while columnar stores are used with analytical (OLAP) workloads.
+
 <https://blog.timescale.com/blog/building-columnar-compression-in-a-row-oriented-database>
 
 ### Benefits of Columnar Formats
@@ -353,6 +357,7 @@ The other downside, is that they are more CPU and ram intensive to write, as the
 ## In-Memory Databases (IMDB) and In-Memory Data Grids (IMDG)
 
 One of the crucial differences between In-Memory Data Grids and In-Memory Databases lies in the ability to scale to hundreds and thousands of servers. That is the In-Memory Data Grid's**inherent capability** for such scale due to their MPP (Massively Parallel Processing) architecture, and the In-Memory Database's**explicit inability** to scale due to fact that SQL joins, in general, cannot be efficiently performed in a distribution context.
+
 <https://www.gridgain.com/resources/blog/in-memory-database-vs-in-memory-data-grid-revisited>
 
 ## RDBMS

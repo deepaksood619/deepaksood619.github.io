@@ -119,6 +119,7 @@ Mutual authentication is of two types:
 
 - Certificate based
 - User name-password based
+
 <https://en.wikipedia.org/wiki/Mutual_authentication>- We use TLS/SSL for two main reasons
 
     1. Encryption

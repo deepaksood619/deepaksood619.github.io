@@ -205,6 +205,7 @@ Smishing (SMS phishing) is similar to standard phishing emails, but over SMS ins
 ### Vishing
 
 Vishing ("voice" and "phishing") involves phishing through phone calls. Of course, this isn't a big deal to us, because what kind of developer seriously answers the phone nowadays? Just send me a text, FFS.
+
 <https://dev.to/kathyra_/protect-yourself-from-social-engineering-3ihk>
 
 ## Kill Chain

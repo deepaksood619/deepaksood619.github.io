@@ -17,7 +17,9 @@ MVN - MultiVariate Normal Distribution
 ![image](../../media/Cheatsheet-image7.jpg)
 
 ![image](../../media/Cheatsheet-image8.jpg)
+
 ![image](../../media/Cheatsheet-image9.jpg)
+
 ![image](../../media/Cheatsheet-image10.jpg)
 
 ## Table fo Distributions

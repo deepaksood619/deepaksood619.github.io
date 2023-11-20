@@ -109,6 +109,7 @@ Then we'll discuss the pros and cons of alternative data modeling patterns, with
 Store each attribute in a row instead of a column
 
 ![image](../../media/Data-Modeling-image4.jpg)
+
 ![image](../../media/Data-Modeling-image5.jpg)
 
 #### Class Table Inheritance

@@ -106,6 +106,7 @@ Note there is never an "Invalid Syntax" error on an HTML page. Browsers fix any 
 ### Post-rendering and user-induced execution
 
 After rendering has completed, the browser executes JavaScript code as a result of some timing mechanism (such as a Google Doodle animation) or user interaction (typing a query into the search box and receiving suggestions). Plugins such as Flash or Java may execute as well, although not at this time on the Google homepage. Scripts can cause additional network requests to be performed, as well as modify the page or its layout, causing another round of page rendering and painting.
+
 <https://github.com/alex/what-happens-when>
 
 ## Problems
