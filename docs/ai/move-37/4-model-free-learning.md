@@ -30,7 +30,7 @@ A complete model of the environment is required to do Dynamic Programming. If ou
 
 For some board games such as chess and go, although we can accurately model the environment's dynamics, computational power constrains us from calculating the Bellman optimality equation. This is where model-free learning methods shine. We handle this situation by optimizing for a smaller subset of states that are frequently encountered, at the cost of knowing less about the infrequently visited states.
 
-## Episodic and Continous Task
+## Episodic and Continuous Task
 
 In RL problems we have two different tasks in nature
 

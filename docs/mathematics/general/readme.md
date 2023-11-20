@@ -4,7 +4,7 @@
 - [Greek Letters / Latin](greek-letters-latin)
 - [Logic](logic)
 - [Properties](properties)
-- [GCD](gcd)
+- [GCD](mathematics/general/gcd-lcm.md)
 - [Fermat's Little Theorem](fermat-little-theorem)
 - [Fermat's Last Theorem](fermat-last-theorem)
 - [Godel's Incompleteness Theorem](godel-incompleteness-theorem)

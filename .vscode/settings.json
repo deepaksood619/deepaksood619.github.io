@@ -14,6 +14,7 @@
     },
     "files.exclude": {
         ".docusaurus": true,
+        "**/.obsidian": true,
         "build": true,
         "node_modules": true
     },

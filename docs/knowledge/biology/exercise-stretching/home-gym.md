@@ -27,7 +27,7 @@
 1. Add all exercise photos to exercises
 2. Create only weekly things here
 
-## Sets4Reps10Rest60secTempo2010
+## Sets 4 Reps 10 Rest 60 sec Tempo 2010
 
 1. Monday (Focus Chest + Triceps)
 

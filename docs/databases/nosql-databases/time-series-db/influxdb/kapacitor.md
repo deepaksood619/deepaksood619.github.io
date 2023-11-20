@@ -13,16 +13,17 @@ Kapacitor is an open source data processing framework that makes it easy to crea
 
 ## Commands
 
+```bash
 helm install stable/kapacitor --name foo --namespace bar
 Usage: kapacitor [options] [command] [args]
 
-## record Record the result of a query or a snapshot of the current stream data
+record Record the result of a query or a snapshot of the current stream data
 
-## define Create/update a task
+define Create/update a task
 
-## define-template Create/update a template
+define-template Create/update a template
 
-## define-topic-handler Create/update an alert handler for a topic
+define-topic-handler Create/update an alert handler for a topic
 
 replay Replay a recording to a task.
 
@@ -42,9 +43,9 @@ push Publish a task definition to another Kapacitor instance. Not implemented ye
 
 delete Delete tasks, templates, recordings, replays, topics or topic-handlers.
 
-## list List information about tasks, templates, recordings, replays, topics, topic-handlers or service-tests
+list List information about tasks, templates, recordings, replays, topics, topic-handlers or service-tests
 
-## show Display detailed information about a task
+show Display detailed information about a task
 
 show-template Display detailed information about a template.
 
@@ -63,11 +64,13 @@ version Displays the Kapacitor version info.
 vars Print debug vars in JSON format.
 
 service-tests Test a service.
+
 Examples
 
 kapacitor list tasks
 
 kapacitor show chronograf-v1-1370efff-9133-4cff-b94f-541a5e3d9dd0
+```
 
 ## Creating Alerts
 

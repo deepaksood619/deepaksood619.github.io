@@ -470,7 +470,7 @@ set statement_timeout to 60000; commit;
 
 [ROLLBACK TO SAVEPOINT](https://www.postgresql.org/docs/current/sql-rollback-to.html) - roll back to a savepoint
 
-## [SAVEPOINT](https://www.postgresql.org/docs/current/sql-savepoint.html) - define a new savepoint within the current transaction
+[SAVEPOINT](https://www.postgresql.org/docs/current/sql-savepoint.html) - define a new savepoint within the current transaction
 
 [SECURITY LABEL](https://www.postgresql.org/docs/current/sql-security-label.html) - define or change a security label applied to an object
 

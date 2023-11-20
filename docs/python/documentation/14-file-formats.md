@@ -29,7 +29,7 @@
 
 14.2.[configparser](https://docs.python.org/3.4/library/configparser.html#module-configparser) - Configuration file parser
 
-This module provides the[ConfigParser](https://docs.python.org/3.4/library/configparser.html#configparser.ConfigParser) class which implements a basic configuration language which provides a structure similar to what's found in Microsoft Windows INI files. You can use this to write Python programs which can be customized by end users easily.
+This module provides the [ConfigParser](https://docs.python.org/3.4/library/configparser.html#configparser.ConfigParser) class which implements a basic configuration language which provides a structure similar to what's found in Microsoft Windows INI files. You can use this to write Python programs which can be customized by end users easily.
 
 ## config.ini
 

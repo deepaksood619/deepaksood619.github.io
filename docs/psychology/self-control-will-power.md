@@ -8,21 +8,21 @@ Between stimulus and response, there is a space. - Victor E. Frankl
 
 Indulge now and pay the price later? Or wait a little and reap bigger re- wards in the future? Many of life's biggest challenges come down to a simple trade off.
 
-## It's your ability to resolve conflicts between your short-term desires and your long-term goals
+It's your ability to resolve conflicts between your short-term desires and your long-term goals
 
 ## Techniques to identify self control conflicts
 
-## broad-bracketing
+### broad-bracketing
 
 - think of your choice (whether to indulge or not) not as a one-shot decision, but as a sequence of habitual decisions;
 - always ask yourself: what will be the consequences if I indulge every time?
 
-## psychological connectedness
+### psychological connectedness
 
 - realize that in the future you likely won't change much -- you'll be equally tempted to indulge as you're now and you won't have more willpower or resources to deal with temptations than you have now
 - ask yourself -- what would my older self ask me to do better now?
 
-## adjusting your identity
+### adjusting your identity
 
 - identify yourself with the self-image of a strong-willed person
 - choose your identity based on your goals -- if you want to become a runner, start thinking like one
@@ -67,9 +67,7 @@ Our actions don't match our intentions.
 ![image](../media/Self-Control-Will-Power-image5.jpg)
 
 1. Understand your intentions
-
 2. Understand yourself
-
 3. Align your intentions
 
 ## Resistance vs Exhaution
@@ -96,7 +94,7 @@ Our actions don't match our intentions.
 
 ## Will power
 
-## I have an unlimited will power
+I have an unlimited will power
 
 Should not waste it on fending out procrastination except when absolutely necessary.
 
@@ -118,13 +116,15 @@ Self-reliance is nothing more than being self-sufficient. It means notclingingto
   - another way is to repeat positive statements about possible change in important areas in your life (e.g. "I'm capable of grad- ually improving my diet") -- these need to be grounded in reality
 - self-affirmation helps you realize that you're a competent and adequate person, even though you may not always have perfect self-control.
 
+## Construal
+
 Construe - interpret
 
-## Construal - a person's perception and interpretation of attributes and behavior of the self or of others
+A person's perception and interpretation of attributes and behavior of the self or of others
 
-a construal is a way that people perceive, comprehend, and interpret their world, particularly the acts of others toward them.
+A construal is a way that people perceive, comprehend, and interpret their world, particularly the acts of others toward them.
 
-## Construal and Reappraisal: Reframing Self-Control Conflict
+### Construal and Reappraisal: Reframing Self-Control Conflict
 
 - Whenever making an important decision, get yourself into a high-level (=abstract) construal by asking yourself a series of '**why**' questions
   - for instance, if you want to lose weight, ask yourself: Why do I
@@ -142,7 +142,7 @@ a construal is a way that people perceive, comprehend, and interpret their world
   - You can think of the positive consequences of not choosing the tempting option (e.g. not putting on weight)
   - The best approach is to focus on the positive aspects of selecting the healthy option (e.g. staying slim and healthy, feeling proud of yourself)
 
-## Construal-Level Theory (CLT)
+### Construal-Level Theory (CLT)
 
 People are capable of thinking about the future, the past, remote locations, another person's perspective, and counterfactual alternatives. Without denying the uniqueness of each process, it is proposed that they constitute different forms of traversing psychological distance. Psychological distance is egocentric: Its reference point is the self in the here and now, and the different ways in which an object might be removed from that point - in time, in space, in social distance, and in hypotheticality - constitute different distance dimensions. Transcending the self in the here and now entails mental construal, and the farther removed an object is from direct experience, the higher (more abstract) the level of construal of that object.
 

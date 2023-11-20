@@ -29,7 +29,7 @@ Scramble the keys uniformly to produce a table index
 - Efficiently computable
 - Each table index equally likely for each key
 
-## NOTE: Always try to use all the data for calculating hash (try to involve all the bits for computing the hash function)
+**NOTE: Always try to use all the data for calculating hash (try to involve all the bits for computing the hash function)**
 
 ## Modular Hashing
 

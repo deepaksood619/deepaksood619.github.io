@@ -52,7 +52,7 @@ Each attempt represents a lesson learned and progress toward the ulti- mate goal
 
 ![image](../media/Habits-image2.jpg)
 
-## Exposure therapy, where you give yourself small doses of the thing you're scared of to diminish the fear it generates, works for phobias of spiders or clowns, but it can also help with getting started
+Exposure therapy, where you give yourself small doses of the thing you're scared of to diminish the fear it generates, works for phobias of spiders or clowns, but it can also help with getting started
 
 Say you need to write an essay, but you're not sure what topic to do it on. You've implemented the suggestions above, and picked a default topic and a deadline. Now the deadline has passed, and you're supposed to get started on the essay, but you're still dragging your feet. Now what?
 

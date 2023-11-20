@@ -18,13 +18,14 @@
 
 It's pretty hard to write good tests and when you measure your test coverage it is tempting to quickly write a couple of bad tests.
 Worst is no testing at all.
+
 A little bit better is a test that just executes a function but does not check if the return value/the side effects are what you expect. So you simply run it to check if the code crashes.
 
-## Happy-Tests where you check the output of the tested function and a typical input is even better. I call themhappybecause they test what you expect to get
+**##**Happy-Tests where you check the output of the tested function and a typical input is even better. I call them happy because they test what you expect to get**
 
-In contrast, an**unhappyexecution path** is dealing with unwanted inputs. This is also called [**negative testing**](https://en.wikipedia.org/wiki/Negative_testing). You check if you actually throw an error. Not throwing an error and silently failing is bad as it hides bugs.
+In contrast, an **unhappyexecution path** is dealing with unwanted inputs. This is also called [**negative testing**](https://en.wikipedia.org/wiki/Negative_testing). You check if you actually throw an error. Not throwing an error and silently failing is bad as it hides bugs.
 
-## Property testingis pretty cool. There you don't test for single values, but you check if a property is still held. For example, the output of a factorization function can be multiplied and should equal the input
+**Property testing is pretty cool. There you don't test for single values, but you check if a property is still held. For example, the output of a factorization function can be multiplied and should equal the input**
 
 <https://medium.com/swlh/unit-testing-in-python-basics-21a9a57418a0>
 
@@ -38,7 +39,9 @@ In contrast, an**unhappyexecution path** is dealing with unwanted inputs. This i
 
 Root cause analysis (RCA) is a problem-solving method which is used to pinpoint the exact cause of a problem or event.
 The root cause is the actual cause of a specific problem or set of problems, and when that cause is removed, it prevents the final undesirable effect from occurring.
+
 RCA is a reactive method, as opposed to preventive, since it will be employed only after a problem has occurred in order to find its cause and prevent it from happening again.
+
 <https://www.techopedia.com/definition/30361/root-cause-analysis-rca>
 
 <https://www.freecodecamp.org/news/what-is-a-software-post-mortem>
@@ -87,7 +90,9 @@ RCA is a reactive method, as opposed to preventive, since it will be employed on
 ## Multivariate Testing
 
 Multivariate testing(or A/B testing)is when you make product changes that are only seen by some of your users. This gives you some people that see the A version of your product and other people that see the B version of your product. Then you can see if version A or B gives you the results you want. A debate within multivariate testing is whether or not multi-armed bandit testing is the best kind of A/B test. Bandit testing is a continuous form of A/B testing that always send people toward the best performing options. In essence, the experiment never ends. I'm not going to get into this debate here, but I wanted you to know that there is a debate.
+
 When running A/B tests it is important to remember that sample size matters. If option A and B are only shown to a few hundred visitors then it doesn't really matter what the results say. You don't have enough participants in the test to make the statistics meaningful. Here is an anecdote to illuminate this point. If you run an A/B test for 1 day, and on that day you have 2,000 visitors, and option A gave you the results you wanted 70% of the time, then you'd think this experiment is a success. Later you find out that this was the same day that a new blog linked to your product and the traffic from this blog accounted for 90% of your traffic that day. At best, your A/B test has uncovered something about the audience of this blog, not about the users of your product as a whole.- Traffic shifting
+
 <https://copyconstruct.medium.com/testing-in-production-the-safe-way-18ca102d0ef1>
 
 [Why Good Developers Write Bad Tests](https://www.youtube.com/watch?v=oO-FMAdjY68)

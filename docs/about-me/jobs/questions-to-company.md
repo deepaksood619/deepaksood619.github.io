@@ -181,7 +181,7 @@ The longer the runway, the more financially stable the company is.
 
 ## ESOPS, Restricted Stock, Stock Options, and Phantom Stock
 
-Restricted stock gives the employees the right to receive shares as a gift ora purchased item after meeting particular restrictions, such as working for a specific period or hitting specific performance targets.Stock options provide employees with the opportunity to buy shares at a fixed price for a set period, while phantom stock provides[cash bonuses](https://www.investopedia.com/terms/c/cash-bonus.asp)for good employee performance.
+Restricted stock gives the employees the right to receive shares as a gift ora purchased item after meeting particular restrictions, such as working for a specific period or hitting specific performance targets.Stock options provide employees with the opportunity to buy shares at a fixed price for a set period, while phantom stock provides [cash bonuses](https://www.investopedia.com/terms/c/cash-bonus.asp)for good employee performance.
 
 These bonuses equate to the value of a particular number of shares.Stock appreciation rights give employees the right to raise the value of an assigned number of shares. Companies usually pay these shares in cash.
 
@@ -230,7 +230,7 @@ Percentage of the company that the ESOP pool represents
     - If your most recent valuation is close to or exceeds the needed sale price, your equity offer has value. If the needed sale price is much higher than the company's most recent valuation, though, you have something to consider: Based on its current growth rate, how many years would you need to stay before its value comes close to that needed sale price? Are you comfortable investing that much time?
 
 - The more owed in liquidation perference, the less your equity is likely worth
-- it had investors and board members whose equity was[protected](https://www.sec.gov/Archives/edgar/data/1089196/000119312515079062/d520327ds1a.htm#toc520327_13)by highliquidation preference - a guarantee that they get paid first and at least a certain amount when the company sells. When startup investors make millions in a sale, but money runs dry before reaching employees, a bad preference stack is often the cause.
+- it had investors and board members whose equity was [protected](https://www.sec.gov/Archives/edgar/data/1089196/000119312515079062/d520327ds1a.htm#toc520327_13)by highliquidation preference - a guarantee that they get paid first and at least a certain amount when the company sells. When startup investors make millions in a sale, but money runs dry before reaching employees, a bad preference stack is often the cause.
 - Liquidation preference give investors the protection they need to make the high-risk investments that startups thrive on.
 - If there had been a 1x liquidation preference in place, the investor would be guaranteed to get $3 million back.
 - The more money a startup raises, the harder it gets to fetch a high enough acquisition price.

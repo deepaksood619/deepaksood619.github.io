@@ -37,7 +37,7 @@
 
 4. **Data exploration:** This is often what comes to mind when thinking of data analysis. Data exploration involves generating statistics, features, and visualizations from the data to better understand its underlying patterns. This then leads to insights that might generate business value.
 
-5. **Data modeling and model validation (optional):** Training a statistical or[machine learning](https://www.toptal.com/machine-learning/interview-questions)model is not always required, as a data analyst usually generates value through insights found in the data exploration step, but it may uncover additional information. Easily interpretable models, like linear or tree-based models, and clustering techniques often expose patterns that would be otherwise difficult to detect with data visualization alone.
+5. **Data modeling and model validation (optional):** Training a statistical or [machine learning](https://www.toptal.com/machine-learning/interview-questions)model is not always required, as a data analyst usually generates value through insights found in the data exploration step, but it may uncover additional information. Easily interpretable models, like linear or tree-based models, and clustering techniques often expose patterns that would be otherwise difficult to detect with data visualization alone.
 
 6. **Storytelling:** This last step encompasses every bit of information uncovered previously to finally present a solution to - or at least a path to continue exploring - the business problem proposed in the first step. It's all about being able to clearly communicate findings to stakeholders and convincing them to take a course of action that will lead to creating business value.
 

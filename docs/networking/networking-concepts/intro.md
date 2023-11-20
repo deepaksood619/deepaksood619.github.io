@@ -41,7 +41,7 @@ A firewall is a program that decides whether traffic coming into a server or goi
 It is a way to translate requests that are incoming into a routing server to the relevant devices or servers that it knows about in the LAN. This is usually implemented in physical LANs as a way to route requests through one IP address to the necessary backend servers.
 A system called*Network Address Translation*, allows the addresses to be rewritten when packets traverse network borders to allow them to continue on to their correct destination. This allows the same IP address to be used on multiple, isolated networks while still allowing these to communicate with each other if configured correctly.
 
-## IP masqueradingis a technique that hides an entire IP address space, usually consisting of private IP addresses, behind a single IP address in another, usually public address space. The hidden addresses are changed into a single (public) IP address as the source address of the outgoing IP packets so they appear as originating not from the hidden host but from the routing device itself. Because of the popularity of this technique to conserve IPv4 address space, the term *NAT*has become virtually synonymous with IP masquerading
+IP masquerading is a technique that hides an entire IP address space, usually consisting of private IP addresses, behind a single IP address in another, usually public address space. The hidden addresses are changed into a single (public) IP address as the source address of the outgoing IP packets so they appear as originating not from the hidden host but from the routing device itself. Because of the popularity of this technique to conserve IPv4 address space, the term *NAT*has become virtually synonymous with IP masquerading
 
 ## NAT Implementations
 
@@ -75,11 +75,13 @@ There are four pieces to the DMVPN puzzle:
 
 A **network bridge** is a [computer networking device](https://en.wikipedia.org/wiki/Networking_hardware) that creates a single aggregate network from multiple [communication networks](https://en.wikipedia.org/wiki/Communication_network) or [network segments](https://en.wikipedia.org/wiki/Network_segment). This function is called**network bridging.**Bridging is distinct from [routing](https://en.wikipedia.org/wiki/Routing). Routing allows multiple networks to communicate independently and yet remain separate, whereas bridging connects two separate networks as if they were a single network.In the [OSI model](https://en.wikipedia.org/wiki/OSI_model), bridging is performed in the [data link layer](https://en.wikipedia.org/wiki/Data_link_layer)(layer 2). If one or more segments of the bridged network are [wireless](https://en.wikipedia.org/wiki/Wireless_network), the device is known as a**wireless bridge.**
 There are four main types of network bridging technologies: simple bridging, multiport bridging, learning or transparent bridging, and [source route bridging](https://en.wikipedia.org/wiki/Source_route_bridging).
+
 <https://en.wikipedia.org/wiki/Bridging_(networking)>
 
 ## References
 
 <https://www.digitalocean.com/community/tutorials/an-introduction-to-networking-terminology-interfaces-and-protocols>
+
 <https://www.freecodecamp.org/news/free-computer-networking-course>
 
 - Intro to Network Devices
@@ -136,4 +138,5 @@ There are four main types of network bridging technologies: simple bridging, mul
 - Cable Management
 - Basics of Change Management
 - Common Networking Protocols
+
 <https://www.freecodecamp.org/news/how-does-the-internet-work>

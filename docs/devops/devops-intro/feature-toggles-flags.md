@@ -10,7 +10,7 @@ The technique allows developers to release a [version](https://en.wikipedia.org/
 
 Feature Toggles (often also refered to as Feature Flags) are a powerful technique, allowing teams to modify system behavior without changing code. They fall into various usage categories, and it's important to take that categorization into account when implementing and managing toggles. Toggles introduce complexity. We can keep that complexity in check by using smart toggle implementation practices and appropriate tools to manage our toggle configuration, but we should also aim to constrain the number of toggles in our system.
 
-## Feature Toggling is a set of patterns which can help a team to deliver new functionality to users rapidly but safely
+**Feature Toggling is a set of patterns which can help a team to deliver new functionality to users rapidly but safely**
 
 Feature Toggles are also refered to as Feature Flags, Feature Bits, or Feature Flippers.
 
@@ -18,13 +18,10 @@ Feature Toggles are also refered to as Feature Flags, Feature Bits, or Feature F
 
 ## Categories of Toggles
 
-1. **Release Toggles**
-
-2. **Experiment Toggles**
-
-3. **Ops Toggles**
-
-4. **Permissioning Toggles**
+1. Release Toggles
+2. Experiment Toggles
+3. Ops Toggles
+4. Permissioning Toggles
 
 ## Static vs Dynamic Toggles
 
@@ -36,32 +33,21 @@ Feature Toggles are also refered to as Feature Flags, Feature Bits, or Feature F
 
 ## Implementation Techniques
 
-1. **De-coupling decision points from decision logic**
-
-2. **Inversion of decision**
-
-3. **Avoiding conditionals**
+1. De-coupling decision points from decision logic
+2. Inversion of decision
+3. Avoiding conditionals
 
 ## Toggle Configuration
 
-1. **Dynamic routing vs dynamic configuration**
-
-2. **Prefer static configuration**
-
-3. **Approaches for managing toggle configuration**
-
-   - **Hardcoded Toggle Configuration**
-
-   - **Parametrized Toggle Configuration**
-
-   - **Toggle Configuration File**
-
-   - **Toggle Configuration in App DB**
-
-   - **Distributed Toggle Configuration**
-
-4. **Overriding Configuration**
-
-   - **Per-request overrides**
+1. Dynamic routing vs dynamic configuration
+2. Prefer static configuration
+3. Approaches for managing toggle configuration
+   - Hardcoded Toggle Configuration
+   - Parametrized Toggle Configuration
+   - Toggle Configuration File
+   - Toggle Configuration in App DB
+   - Distributed Toggle Configuration
+4. Overriding Configuration
+   - Per-request overrides
 
 <https://martinfowler.com/articles/feature-toggles.html>

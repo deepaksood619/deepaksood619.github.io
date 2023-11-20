@@ -95,9 +95,12 @@ len(list(permutations('abcde', 5)))
 - **Medium - <https://www.hackerrank.com/challenges/beautiful-triplets/problem>**
 - **Medium - <https://www.hackerrank.com/challenges/kaprekar-numbers/problem>** - <https://practice.geeksforgeeks.org/problems/coin-change2448/1>
 - Medium - [Climbing the Leaderboard | HackerRank](https://www.hackerrank.com/challenges/climbing-the-leaderboard/problem?isFullScreen=true)
-<https://www.geeksforgeeks.org/must-coding-questions-company-wise>
 
-<https://www.geeksforgeeks.org/practice-for-cracking-any-coding-interview>
+## Sources
+
+- <https://www.geeksforgeeks.org/must-coding-questions-company-wise>
+- <https://www.geeksforgeeks.org/practice-for-cracking-any-coding-interview>
+- [hackerrank-solutions: A collection of solutions to competitive programming exercises on HackerRank.](https://github.com/kilian-hu/hackerrank-solutions/)
 
 ## Interview
 

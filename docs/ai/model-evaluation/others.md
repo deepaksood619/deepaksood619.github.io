@@ -33,6 +33,7 @@ Using cross-validation will run the validation on multiple folds of the data, wh
 ## TSA
 
 Model should be,
+
 - Transparent,
-- Secure, and 
+- Secure, and
 - Auditable

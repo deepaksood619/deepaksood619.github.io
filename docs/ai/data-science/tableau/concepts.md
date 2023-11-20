@@ -1,6 +1,6 @@
 # Concepts
 
-## [Field Types: Dimensions and Measures, Blue and Green](https://help.tableau.com/current/pro/desktop/en-us/datafields_typesandroles.htm)
+[Field Types: Dimensions and Measures, Blue and Green](https://help.tableau.com/current/pro/desktop/en-us/datafields_typesandroles.htm)
 
 When you connect to a new data source, Tableau assigns each field in the data source as dimension or measure in the Data pane, depending on the type of data the field contains. You use these fields to build views of your data.
 
@@ -75,4 +75,5 @@ From Story we can access Dashboard and Worksheets but we can not access dimensio
 [Tableau Workbook Stories Dashboards Worksheets](https://www.wisdomaxis.com/technology/software/tableau/interview-questions/tableau-workbook-story-dashboard-worksheet-data-views.php)
 
 [Explain the difference between Tableau Workbook, Story, Dashboard and Worksheets?](https://www.linkedin.com/pulse/explain-difference-between-tableau-workbook-story-upendar-sheethala/)
+
 [Workbooks and Sheets - Tableau](https://help.tableau.com/current/pro/desktop/en-us/environ_workbooksandsheets.htm)

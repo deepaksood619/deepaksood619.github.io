@@ -142,7 +142,7 @@ Insufficient logging and monitoring, coupled with missing or ineffective integra
 - [TLS Cipher String](https://cheatsheetseries.owasp.org/cheatsheets/TLS_Cipher_String_Cheat_Sheet.html)
 - [Third Party Javascript Management](https://cheatsheetseries.owasp.org/cheatsheets/Third_Party_Javascript_Management_Cheat_Sheet.html)
 
-## [**Threat Modeling**](https://cheatsheetseries.owasp.org/cheatsheets/Threat_Modeling_Cheat_Sheet.html)
+## [Threat Modeling](https://cheatsheetseries.owasp.org/cheatsheets/Threat_Modeling_Cheat_Sheet.html)
 
 Threat modeling is a process by which potential threats, such as [structural vulnerabilities](https://en.wikipedia.org/wiki/Structural_vulnerability_(computing)) or the absence of appropriate safeguards, can be identified, enumerated, and mitigations can be prioritized. The purpose of threat modeling is to provide defenders with a systematic analysis of what controls or defenses need to be included, given the nature of the system, the probable attacker's profile, the most likely attack vectors, and the assets most desired by an attacker. Threat modeling answers questions like"Where am I most vulnerable to attack?","What are the most relevant threats?", and"What do I need to do to safeguard against these threats?".
 

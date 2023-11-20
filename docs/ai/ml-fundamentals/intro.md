@@ -87,7 +87,9 @@ The linear regression models we'll examine here use a loss function called**squa
 = (observation - prediction(x))2
 = (y - y')2
 
-## Mean square error(MSE) is the average squared loss per example over the whole dataset. To calculate MSE, sum up all the squared losses for individual examples and then divide by the number of examples
+## Mean square error(MSE)
+
+MSE is the average squared loss per example over the whole dataset. To calculate MSE, sum up all the squared losses for individual examples and then divide by the number of examples
 
 MSE=1N∑(x,y)∈D(y−prediction(x))2
 

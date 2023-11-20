@@ -18,18 +18,18 @@ You will have either of the 4 problems while building a startup
 - Brand assets on [Figma](https://www.linkedin.com/company/figma/)- 40 minutes
 - Website template design on [Wix.com](https://www.linkedin.com/company/wix-com/)- 2 hours
 - Webpage on [Webflow](https://www.linkedin.com/company/webflow-inc-/)- 2 hours
-- Website to backend workflow on [Zapier](https://www.linkedin.com/company/zapier/)and[Notion](https://www.linkedin.com/company/notionhq/)- 2 hours
+- Website to backend workflow on [Zapier](https://www.linkedin.com/company/zapier/) and [Notion](https://www.linkedin.com/company/notionhq/)- 2 hours
 - Early user testimonial videos on [Testimonial](https://www.linkedin.com/company/testimonialto/)- 30 minutes
 - Early app building on [FlutterFlow](https://www.linkedin.com/company/flutterflow/)- 7 days
 - Step by step instructions on using app on [UserGuiding](https://www.linkedin.com/company/userguiding/)- 2 hours
-- Payment collection on [Stripe](https://www.linkedin.com/company/stripe/)or[Bolt](https://www.linkedin.com/company/bolt-com/)- 2 hours
+- Payment collection on [Stripe](https://www.linkedin.com/company/stripe/) or [Bolt](https://www.linkedin.com/company/bolt-com/)- 2 hours
 - shopify
 - <https://gumroad.com>
 - App distribution on ProductHunt - 5 hours
-- Newsletter plan on[Substack](https://www.linkedin.com/company/substack/)- 7 days
-- SEO on[Ahrefs](https://www.linkedin.com/company/ahrefs/)- 5 hours
-- Landing page chatbot on[Landbot](https://www.linkedin.com/company/landbot-io/)- 1 hour
-- CRM on[HubSpot](https://www.linkedin.com/company/hubspot/)- 1 hour
+- Newsletter plan on [Substack](https://www.linkedin.com/company/substack/)- 7 days
+- SEO on [Ahrefs](https://www.linkedin.com/company/ahrefs/)- 5 hours
+- Landing page chatbot on [Landbot](https://www.linkedin.com/company/landbot-io/)- 1 hour
+- CRM on [HubSpot](https://www.linkedin.com/company/hubspot/)- 1 hour
 
 ### Inspirations and Research and Product news
 
@@ -185,7 +185,7 @@ Startups are built by generalists and scaled by specialists.
 
 **Oligopoly**
 
-An oligopoly is a[market form](https://en.wikipedia.org/wiki/Market_structure) where in a [market](https://en.wikipedia.org/wiki/Market_(economics)) or [industry](https://en.wikipedia.org/wiki/Industry_(economics)) is dominated by a small group of large sellers (oligopolists). For example, it has been found out that insulin and the electrical industry are highly oligopolist in the US.
+An oligopoly is a [market form](https://en.wikipedia.org/wiki/Market_structure) where in a [market](https://en.wikipedia.org/wiki/Market_(economics)) or [industry](https://en.wikipedia.org/wiki/Industry_(economics)) is dominated by a small group of large sellers (oligopolists). For example, it has been found out that insulin and the electrical industry are highly oligopolist in the US.
 
 <https://en.wikipedia.org/wiki/Oligopoly>
 

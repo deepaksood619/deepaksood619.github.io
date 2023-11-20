@@ -1,6 +1,6 @@
 # Infra as Code IaC
 
-## Infrastructure as Code (IaC) is a paradigm that manages and tracks infrastructure configuration in files rather than manually or graphical user interfaces. This allows for more scalable infrastructure configuration and more importantly allows for transparent tracking of changes through usually versioning system
+Infrastructure as Code (IaC) is a paradigm that manages and tracks infrastructure configuration in files rather than manually or graphical user interfaces. This allows for more scalable infrastructure configuration and more importantly allows for transparent tracking of changes through usually versioning system
 
 Configuration management systems are software systems that allow managing an environment in a consistent, reliable, and secure way.
 

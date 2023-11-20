@@ -182,19 +182,19 @@ As a designer, it isyour responsibilityto educate your clients why this design a
 
 ## Assignments
 
-## THE CHALLENGE IS?
+### THE CHALLENGE IS?
 
 You've been onboarded as a Senior PM at Aegon Life.
 
 Aegon Life Insurance Companyis India's only all-digital Life Insurance company without any branches, agents, or tie-ups with Banks. Products are available on the company's website; web-aggregators like PolicyBazar, Coverfox; Digital partners like Paytm, Mobikwik, Flipkart, Phonepe, etc. where customers can purchase in DIY fashion.
 
-## Problem Statement
+### Problem Statement
 
 WhatsApp has about 500m users and the user base is expected to grow swiftly. To leverage this trend, Aegon Life wants to create options for customers to explore and purchase life insurance right on WhatsApp, without needing to go anywhere else. Aegon Life wants to have this as a differentiating factor. Assume you are the product owner entrusted with creating a super-engaging, super-easy journey on WhatsApp for people to purchase insurance so that there are almost no dropouts mid-way. How would you go about creating such a journey and experience?
 
 To get context, we highly recommend you go through the insurance buying journey on other online platforms. You have to design an end-to-end insurance buying journey (including payment) on WhatsApp. The buying experience can't be a linear one, i.e. should not simply mirror the web/mobile site buying experience. The elements of conversational commerce can be used to simplify the buying process so that even the new-to-internet/smartphone users can complete the journey in an unassisted (DIY) way.
 
-## Useful links
+### Useful links
 
 - Aegon Life website link for buying Term Insurance. Reference purpose only: <https://www.aegonlife.com/online-plans/saral-jeevan-bima>
 - Required fields: <https://bit.ly/3r92Y93>

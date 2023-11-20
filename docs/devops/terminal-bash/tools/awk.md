@@ -1,8 +1,8 @@
 # AWK
 
-## man awk - pattern-directed scanning and processing language
+man awk - pattern-directed scanning and processing language
 
-## AWKis a [programming language](https://en.wikipedia.org/wiki/Programming_language) designed for text processing and typically used as a [data extraction](https://en.wikipedia.org/wiki/Data_extraction) and reporting tool. It is a standard feature of most [Unix-like](https://en.wikipedia.org/wiki/Unix-like)[operating systems](https://en.wikipedia.org/wiki/Operating_system)
+AWK is a [programming language](https://en.wikipedia.org/wiki/Programming_language) designed for text processing and typically used as a [data extraction](https://en.wikipedia.org/wiki/Data_extraction) and reporting tool. It is a standard feature of most [Unix-like](https://en.wikipedia.org/wiki/Unix-like)[operating systems](https://en.wikipedia.org/wiki/Operating_system)
 
 The AWK language is a [data-driven](https://en.wikipedia.org/wiki/Data-driven_programming)[scripting language](https://en.wikipedia.org/wiki/Scripting_language) consisting of a set of actions to be taken against [streams](https://en.wikipedia.org/wiki/Stream_(computing)) of textual data -- either run directly on files or used as part of a [pipeline](https://en.wikipedia.org/wiki/Pipeline_(Unix))-- for purposes of extracting or transforming text, such as producing formatted reports. The language extensively uses the [string](https://en.wikipedia.org/wiki/String_(computer_science))[datatype](https://en.wikipedia.org/wiki/Datatype), [associative arrays](https://en.wikipedia.org/wiki/Associative_array)(that is, arrays indexed by key strings), and [regular expressions](https://en.wikipedia.org/wiki/Regular_expression). While AWK has a limited intended [application domain](https://en.wikipedia.org/wiki/Application_domain) and was especially designed to support [one-liner programs](https://en.wikipedia.org/wiki/One-liner_program), the language is [Turing-complete](https://en.wikipedia.org/wiki/Turing-complete), and even the early Bell Labs users of AWK often wrote well-structured large AWK programs.
 
@@ -24,15 +24,17 @@ In addition to a simple AWK expression, such asfoo == 1or/^foo/, the *condition*
 
 ## Idea behind AWK Programming
 
-## Event-based Programming
+### Event-based Programming
 
 In a normal procedural shell script or command line session, you're telling the computer to do a sequence of things in a specific order. That's not how AWK works. In AWK, you tell the computer how to look for events, and then tell it what to do when it finds an event you're interested in.
 
 Let's take another look at that AWK program. This time, I'll format it a bit more nicely:
 
+```bash
 /oatmeal/ {
 print $1 ": featuring " $3;
 }
+```
 
 The first part of this program ---/oatmeal/ -is theeventthat you're looking for. Events can be specified in a few different ways: you can use a C-style conditional expression, or a special event like BEGIN that is triggered before the first line is read. However, the most common kind of event to see is a regular expression event, which is what /oatmeal/ is. If "oatmeal" appears in a line of text, then our event will be triggered.
 

@@ -68,11 +68,11 @@ A realm in Keycloak is the equivalent of a tenant. It allows creating isolated g
 
 ![image](../../media/DevOps-Others-KeyCloak-image5.jpg)
 
-## Python - <https://github.com/marcospereirampj/python-keycloak>
+Python - <https://github.com/marcospereirampj/python-keycloak>
 
 <https://github.com/chunky-monkeys/keycloak-client>
 
-## Django integration - <https://medium.com/@sairamkrish/keycloak-integration-part-3-integration-with-python-django-backend-5dac3b4a8e4e>
+Django integration - <https://medium.com/@sairamkrish/keycloak-integration-part-3-integration-with-python-django-backend-5dac3b4a8e4e>
 
 <https://github.com/keycloak/keycloak>
 

@@ -36,18 +36,18 @@
 # 2. Log
 
 1. YYYY.MM.DD Headline of What done
-1. Detail 1
-2. Detail 2
+    1. Detail 1
+    2. Detail 2
 2. YYYY.MM.DD Headline of What done
-1. Detail 1
-2. Detail 2
+    1. Detail 1
+    2. Detail 2
 
 # 3. Goals and Questions
 
 1. Questions
 2. Scope
-1. In Scope
-2. Out of Scope
+    1. In Scope
+    2. Out of Scope
 3. Goal State
 4. Milestones
 
@@ -62,48 +62,48 @@
 # 5. Deliverables
 
 1. Stage 1
-1. HH - Deliverable 1 - Due YYYY.MM.DD
-1. Detail 1
-2. Detail 2
-2. HH - Deliverable 2 - Due YYYY.MM.DD
-1. Detail 1
-2. Detail 2
+    1. HH - Deliverable 1 - Due YYYY.MM.DD
+        1. Detail 1
+        2. Detail 2
+    2. HH - Deliverable 2 - Due YYYY.MM.DD
+        1. Detail 1
+        2. Detail 2
 2. Stage 2
-1. HH - Deliverable 3 - Due YYYY.MM.DD
-1. Detail 1
-2. Detail 2
-2. HH - Deliverable 4 - Due YYYY.MM.DD
-1. Detail 1
-2. Detail 2
+    1. HH - Deliverable 3 - Due YYYY.MM.DD
+        1. Detail 1
+        2. Detail 2
+    2. HH - Deliverable 4 - Due YYYY.MM.DD
+        1. Detail 1
+        2. Detail 2
 
 # 6. Tasks
 
 1. Stage 1
-1. 60 Task One
-2. 30 Task Two
-3. 90 Task Three
-4. 15 Task Four
+    1. 60 Task One
+    2. 30 Task Two
+    3. 90 Task Three
+    4. 15 Task Four
 2. Stage 2
-1. 60 Task One
-2. 30 Task Two
-3. 90 Task Three
-4. 15 Task Four
+    1. 60 Task One
+    2. 30 Task Two
+    3. 90 Task Three
+    4. 15 Task Four
 3. Stage 3
-1. 60 Task One
-2. 30 Task Two
-3. 90 Task Three
-4. 15 Task Four
+    1. 60 Task One
+    2. 30 Task Two
+    3. 90 Task Three
+    4. 15 Task Four
 
 # 7. Ideas
 
 1. YYYY.MM.DD
-1. Idea 1
-1. Detail 1
-2. Detail 2
-2. Idea 2
-1. Detail 1
-2. Detail 2
+    1. Idea 1
+        1. Detail 1
+        2. Detail 2
+    2. Idea 2
+        1. Detail 1
+        2. Detail 2
 2. YYYY.MM.DD
-1. Idea 3
-1. Detail 1
-2. Detail 2
+    1. Idea 3
+        1. Detail 1
+        2. Detail 2

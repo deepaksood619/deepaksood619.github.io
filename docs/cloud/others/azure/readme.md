@@ -4,6 +4,7 @@
 
 ## Commands
 
+```bash
 brew update && brew install azure-cli
 
 az login
@@ -16,7 +17,7 @@ az --version
 
 brew update && brew upgrade azure-cli
 
-## # for tunneling to kubernetes-dashboard
+## for tunneling to kubernetes-dashboard
 
 az aks browse --resource-group Technology --name prod-cluster
 
@@ -36,7 +37,7 @@ az network public-ip create --resource-group MC_Technology_dev-kubernetes-cluste
 
 az network public-ip create --resource-group staticpublicip --name kongPublicIP --allocation-method static
 
-## az network public-ip create --resource-group staticpublicip --name kongproxyPublicIP --allocation-method static --sku Standard
+az network public-ip create --resource-group staticpublicip --name kongproxyPublicIP --allocation-method static --sku Standard
 
 az network public-ip show --resource-group MC_Technology_dev-kubernetes-cluster_southindia --name kafkaPublicIP
 
@@ -56,7 +57,7 @@ SP_ID=$(az aks show --resource-group Technology --name prod-cluster --query serv
 
 az ad sp create-for-rbac --skip-assignment
 
-ELK
+## ELK
 
 az keyvault create --name example-kubernetes-vault --resource-group Technology
 
@@ -66,7 +67,7 @@ az network public-ip create -n kibana-ip --resource-group=Technology --allocatio
 
 az network public-ip create -n elk-ip --resource-group=Technology --allocation-method=static
 
-52.172.150.153
+# 52.172.150.153
 
 az keyvault certificate import --name kibana-certificate --vault-name example-kubernetes-vault -f ${DOMAIN}.pfx --tags domain=${DOMAIN}
 
@@ -77,6 +78,7 @@ az redis create --name dev-logscache --location southindia --resource-group Tech
 helm delete --purge elasticsearch
 
 ./deploy.sh -n elk -v example-kubernetes-vault
+```
 
 <https://github.com/Azure/helm-elasticstack>
 
@@ -108,11 +110,11 @@ Azure Container Instances (ACI) provide a hosted environment for running contain
 
 ## Create
 
-az aks install-connector --resource-group Technology --name dev-kubernetes-cluster --connector-name virtual-kubelet --os-type Linux
+`az aks install-connector --resource-group Technology --name dev-kubernetes-cluster --connector-name virtual-kubelet --os-type Linux`
 
 ## Delete
 
-az aks remove-connector --resource-group Technology --name dev-kubernetes-cluster --connector-name virtual-kubelet --os-type Linux
+`az aks remove-connector --resource-group Technology --name dev-kubernetes-cluster --connector-name virtual-kubelet --os-type Linux`
 
 <https://docs.microsoft.com/en-us/azure/aks/virtual-kubelet#installation>
 

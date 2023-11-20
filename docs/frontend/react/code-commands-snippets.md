@@ -1,12 +1,12 @@
 # Code / Commands / Snippets
 
-## dependenciesare the packages your project depends on
+dependencies are the packages your project depends on
 
-## devDependenciesare the packages that are needed during the development phase. Say a testing framework like [Jest](https://flaviocopes.com/jest/) or other utilities like [Babel](https://flaviocopes.com/babel/) or [ESLint](https://flaviocopes.com/eslint/)
+devDependencies are the packages that are needed during the development phase. Say a testing framework like [Jest](https://flaviocopes.com/jest/) or other utilities like [Babel](https://flaviocopes.com/babel/) or [ESLint](https://flaviocopes.com/eslint/)
 
 In both cases, when you install a package, its dependencies and devDependencies are automatically installed by [npm](https://flaviocopes.com/npm/).
 
-## peerDependenciesare different. They are not automatically installed
+peerDependencies are different. They are not automatically installed
 
 When a dependency is listed in a package as a peerDependency, it is not automatically installed. Instead, the code that includes the package must include it as its dependency.
 
