@@ -110,6 +110,7 @@ Interleaved sort gives equal weight to each column in the Redshift sort keys. As
 - Less then 10000 rows, don't sort, since all will be in a single zone map
 
 <https://docs.aws.amazon.com/redshift/latest/dg/c_best-practices-sort-key.html>
+
 - To have Amazon Redshift choose the appropriate sort order, specifyAUTOfor the sort key.
 - If recent data is queried most frequently, specify the timestamp column as the leading column for the sort key.
     Queries are more efficient because they can skip entire blocks that fall outside the time range.

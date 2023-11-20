@@ -257,5 +257,3 @@ Finding the average of a continuous thing.
 ## References
 
 [Essence of calculus](https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr)
-
-![image](../../media/Essence-of-Calculus-3Blue1Brown-image89.jpg)

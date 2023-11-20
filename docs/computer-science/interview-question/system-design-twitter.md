@@ -9,27 +9,20 @@
 ## Core Features
 
 1. Tweeting
-
 2. Timeline
     - User (Own tweets in profile)
     - Home (All tweets from people you follow)
 
 3. Following
-
 4. Full Text Search
-
 5. HashTags
-
 6. Push Notifications
-
 7. Text Notifications
-
 8. How to incorporate Advertisments
 
 ## Database
 
 1. Tweets database
-
 2. Users database
 
 Problem with this structure is that to get a tweet corresponding to user, if would take a lot of time because there would be a big select query. (Every time we open twitter home statement)

@@ -74,6 +74,7 @@ A common optimization (so common in fact, that it is almost to be considered a p
 Example:A coalescing hash table array with *M* = 10 and *N* = 3
 
 ![image](../../media/Hashing-Techniques-image5.jpg)
+
 <https://programming.guide/coalesced-hashing.html>
 
 ### Robin hood hashing

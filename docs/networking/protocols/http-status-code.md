@@ -79,6 +79,7 @@ HTTP 499 in Nginx means that the**client closed the connection**before the serve
     - [510Not Extended](https://httpstatuses.com/510)
     - [511Network Authentication Required](https://httpstatuses.com/511)
     - [599Network Connect Timeout Error](https://httpstatuses.com/599)
+
 <https://httpstatuses.com>
 
 <https://dev.to/khaosdoctor/the-complete-guide-to-status-codes-for-meaningful-rest-apis-conclusion-2pf8>

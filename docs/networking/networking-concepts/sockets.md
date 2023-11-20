@@ -34,4 +34,5 @@ sock_object.sendto(b"hello", ("127.0.0.1", 8000))
 ## TCP socket
 
 tcp_socket = socket(AF_INET, SOCK_STREAM)
+
 <https://cs.nyu.edu/courses/fall17/CSCI-UA.0480-009>

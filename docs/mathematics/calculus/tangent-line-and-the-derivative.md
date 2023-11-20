@@ -48,5 +48,3 @@ A line that touches the curve at two points.
 ## References
 
 [The Tangent Line and the Derivative (Calculus)](https://www.youtube.com/watch?v=O_cwTAfjgAQ)
-
-![image](../../media/Tangent-Line-and-the-Derivative-image13.jpg)

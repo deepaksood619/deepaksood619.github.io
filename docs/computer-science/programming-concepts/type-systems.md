@@ -93,16 +93,12 @@ As opposed to strong typed languages, weak typed languages are those in which va
 
 Thus, Python is dynamic typed and strong typed; Java is static typed and strong typed; PHP is dynamic typed and weak typed; C is static typed and weak typed (owing to its casting ability).
 
-## See Also
-
-- Programming Styles > Duck typing
-
 ## Others
 
 - Algebraic Data Types (ADT)
 
 ## References
 
-[Functional Programming: Type Systems](https://www.youtube.com/watch?v=hy1wjkcIBCU)
+Programming Styles > Duck typing
 
-![image](../../media/Type-Systems-image2.jpg)
+[Functional Programming: Type Systems](https://www.youtube.com/watch?v=hy1wjkcIBCU)

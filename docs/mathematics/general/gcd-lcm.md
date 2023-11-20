@@ -3,6 +3,7 @@
 ## GCD
 
 Greatest Common Divisor (GCD) of two integers A and B is the **largest integer that divides both A and B.**
+
 ### Synonyms
 
 1. Greatest Common Divisor (GCD)
@@ -31,11 +32,11 @@ The **Euclidean algorithm**, or **Euclid's algorithm**, is an efficient method f
 
 ```python
 def gcd(x, y):
-	
-	while (y):
-		x, y = y, x%y
-		
-	return x
+
+ while (y):
+  x, y = y, x%y
+
+ return x
 ```
 
 ### Applications
@@ -72,7 +73,7 @@ math.lcm(6,9,10)
 
 # using gcd
 def lcm(a,b):
-	return (a // gcd(a,b))* b
+ return (a // gcd(a,b))* b
 ```
 
 [Program to find LCM of two numbers - GeeksforGeeks](https://www.geeksforgeeks.org/program-to-find-lcm-of-two-numbers/)

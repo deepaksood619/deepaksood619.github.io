@@ -139,6 +139,7 @@ Branch prediction is not the same as [branch target prediction](https://en.wikip
 - [1.14 Prediction of function returns](https://en.wikipedia.org/wiki/Branch_predictor#Prediction_of_function_returns)
 - [1.15 Overriding branch prediction](https://en.wikipedia.org/wiki/Branch_predictor#Overriding_branch_prediction)
 - [1.16 Neural branch prediction](https://en.wikipedia.org/wiki/Branch_predictor#Neural_branch_prediction)
+
 <https://en.wikipedia.org/wiki/Branch_predictor>
 
 ## Application Binary Interface (ABI)

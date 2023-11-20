@@ -328,6 +328,7 @@ In order to keep a system secure, it is advisable to conduct a pentest on a regu
 - [Web Application Testing](https://www.tutorialspoint.com/software_testing_dictionary/web_application_testing.htm)
 - [White box Testing](https://www.tutorialspoint.com/software_testing_dictionary/white_box_testing.htm)
 - [Workflow Testing](https://www.tutorialspoint.com/software_testing_dictionary/workflow_testing.htm)
+
 <https://dev.to/maxwell_dev/the-testing-introduction-i-wish-i-had-2dn>
 
 <https://dev.to/conw_y/towards-zero-bugs-1bop>

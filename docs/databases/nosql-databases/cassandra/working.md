@@ -54,6 +54,7 @@
 - Consistency < All performs read repair in background (read_repair_chance -default 10% of reads)
 
 ![image](../../../media/Cassandra_Working-image2.jpg)**Compaction**
+
 - Data updates accumulate over time and SSTables and logs need to be compacted
   - The process of compaction merges SSTables, i.e., by merging updates for a key
   - Run periodically and locally at each server- TimeWindowCompactionStrategy
