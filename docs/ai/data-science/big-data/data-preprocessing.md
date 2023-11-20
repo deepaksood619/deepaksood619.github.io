@@ -5,8 +5,10 @@
 1. Aggregation
 2. Attribute Transformation
 3. Dimensionality Reduction
- - Feature creation
- - Feature subset selection
+
+- Feature creation
+- Feature subset selection
+
 4. Discretization and Binarization
 5. Sampling
 

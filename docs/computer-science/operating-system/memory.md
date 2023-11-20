@@ -61,7 +61,7 @@ Is number of memory pages the process has in real memory multiplied by pagesize.
 - DATA is the total private memory mapped to process physical or not
 - CODE also known as "textresident set" is total physical memory used to load application code
 
-So, to sum up, **RES** is most close to the memory used by the process in memory, excluding what's swapped out. but keep in mind that includes the **SHR**(shared physical memory) which mean it could have been used by some other process as well.
+So, to sum up, **RES** is most close to the memory used by the process in memory, excluding what's swapped out. but keep in mind that includes the **SHR** (shared physical memory) which mean it could have been used by some other process as well.
 
 ## Utilities
 

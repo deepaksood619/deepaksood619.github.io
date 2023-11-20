@@ -1,9 +1,9 @@
 # MySQL Indexing
 
-## Important Points
+## Important Points / Keep in mind / Gotchas
 
 - The primary key is already an index
-  - We can't have a Primary Key column with a NULLvalue.
+  - We can't have a Primary Key column with a NULL value.
 - Using composite indexes is vital if you're trying to speed up a particular query
 - Index order is very VERY important
 - Avoid performing file sorts
@@ -17,20 +17,20 @@
 - Avoid using functions in predicates
 - Avoid using a wildcard (%) at the beginning of a predicate (The predicate LIKE**'%abc'**causes a full table scan.)
 - Avoid unnecessary columns in SELECT clause
-- Use inner join, instead of outer join if possible
-
-Use outer join only when it is necessary. Using it needlessly not only limits database performance but also limits MySQL query optimization options, resulting in slower execution of SQL statements.
-
-- Use DISTINCT and UNION only if it is necessary
-
-Using UNION and DISTINCT operators without any major purpose causes unwanted sorting and slowing down of SQL execution. Instead of UNION, using UNION ALL brings more efficiency in the process and improves MySQL performance more precisely.
-
 - The ORDER BY clause is mandatory in SQL if you expect to get a sorted result
 - Not taking advantage of indexed top-N queries
 - Choosing a poor column order in multi-column indexes
 - Inefficient use of like filters
 - Not using index-only scans
 - FullText index is not always used
+
+#### Use inner join, instead of outer join if possible
+
+Use outer join only when it is necessary. Using it needlessly not only limits database performance but also limits MySQL query optimization options, resulting in slower execution of SQL statements.
+
+#### Use DISTINCT and UNION only if it is necessary
+
+Using UNION and DISTINCT operators without any major purpose causes unwanted sorting and slowing down of SQL execution. Instead of UNION, using UNION ALL brings more efficiency in the process and improves MySQL performance more precisely.
 
 [**https://use-the-index-luke.com/3-minute-test/mysql**](https://use-the-index-luke.com/3-minute-test/mysql)
 
@@ -120,7 +120,7 @@ There are two modes for MySQL Fulltext searching: natural language mode and Bool
 - Non-sequential primary keys could lead to fragmentation issues. Causing page splits and disk fragmentations that lead to overheads in I/O operations.
 - You should strive to insert data in primary key order when using InnoDB, and you should try to use a clustering key that will give a monotonically increasing values for each new row. This will ensure that rows are inserted in sequential order and will offer better performance for joins using primary keys.
 
-## Disadvantages of Primary Index
+### Disadvantages of Primary Index
 
 Since the primary index contains a direct reference to the data block address through the virtual address space & disk blocks are physically organized in the order of the index key, every time the OS does some disk page split due toDMLoperations likeINSERT/UPDATE/DELETE, the primary index also needs to be updated. SoDMLoperations puts some pressure on the performance of the primary index.
 
@@ -133,7 +133,7 @@ The leaf nodes for secondary indexes don't store row data as the Primary Key B-T
 
 This typically means when utilizing a secondary index, InnoDB will first use the B-Tree of the secondary index to retrieve the Primary Key values of the applicable rows, and then after use these values in conjunction with the Primary Key B-tree to fetch the row data!
 
-## Disadvantages of a Secondary Index
+### Disadvantages of a Secondary Index
 
 With DML operations like DELETE/INSERT, the secondary index also needs to be updated so that the copy of the primary key column can be deleted / inserted. In such cases, the existence of lots of secondary indexes can create issues.
 
@@ -170,13 +170,13 @@ Composite indices can help you in JOIN & SELECT queries as well. Example: in the
 
 When several indexes are defined, the MySQL query optimizer chooses that index which eliminates the greatest number of rows or scans as few rows as possible for better efficiency.
 
-## Why do we use composite indices? Why not define multiple secondary indices on the columns we are interested in?
+### Why do we use composite indices? Why not define multiple secondary indices on the columns we are interested in?
 
 MySQL uses only one index per table per query except for UNION.(In a UNION, each logical query is run separately, and the results are merged.) So defining multiple indices on multiple columns does not guarantee those indices will be used even if they are part of the query.
 
 MySQL maintains something called index statistics which helps MySQL infer what the data looks like in the system. Index statistics is a generilization though, but based on this meta data, MySQL decides which index is appropriate for the current query.
 
-## How does composite index work?
+### How does composite index work?
 
 The columns used in composite indices are concatenated together, and those concatenated keys are stored in sorted order using a B+ Tree. When you perform a search, concatenation of your search keys is matched against those of the composite index. Then if there is any mismatch between the ordering of your search keys & ordering of the composite index columns, the index can't be used.
 
@@ -188,7 +188,7 @@ In our example, for the following record, a composite index key is formed by con
 | pan_no   | HJKXS9086W |
 | phone_no | 9090909090 |
 
-## How to identify if you need a composite index
+### How to identify if you need a composite index
 
 - Analyze your queries first according to your use cases. If you see certain fields are appearing together in many queries, you may consider creating a composite index.
 - If you are creating an index incol1& a composite index in (col1,col2), then only the composite index should be fine.col1alone can be served by the composite index itself since it's a left side prefix of the index.
@@ -278,12 +278,13 @@ This means in some cases we can still use an index past a range condition. It's 
 
 ## Prefix ranges?
 
-SELECT ... WHERE last_name LIKE "%mithers"
+`SELECT ... WHERE last_name LIKE "%mithers"`
+
 This isn't a range, we can't use a B-Tree to traverse this obviously. Imagine yourself being at the root of a tree with such a query, do you go left or right? You don't know! This is exactly why we can use an index to support such a query.
 
 ## Examples
 
-## INDEX (a, b) VS INDEX (b, a)
+### INDEX (a, b) VS INDEX (b, a)
 
 - WHERE a = 1 AND b > 3*** First is better
 - WHERE b = 5 AND b > 7*** Second is better
@@ -293,7 +294,7 @@ This isn't a range, we can't use a B-Tree to traverse this obviously. Imagine yo
 - WHERE a = 4*** First only
 - WHERE a > 4*** First only
 
-## INDEX (a, b, c)
+### INDEX (a, b, c)
 
 - WHERE a > 1 AND b =3 AND c = 4*** Uses only first part of index
 - WHERE a = 1 AND b > 3 AND c = 4*** Uses first 2 parts of index
@@ -324,20 +325,26 @@ Examples:
 ## Redundant indexes
 
 Over indexing can hurt performance due to overheads
+
 The drawback of having too many indexes is the maintenance cost.
+
 Adding new indexes might have a performance impact for INSERT, UPDATE, and DELETE operations, especially if a new index causes you to hit memory limits.
 Every time you perform a write on a table, the indexes will need to be maintained. Furthermore when you run a query, each index must be considered by the MySQL Optimizer.
 
 - If there is an index on (A, B), adding another index (A) would be redundant because it is a prefix of the first index. That is, the index on (A, B) can already be used as an index for column A alone.
 - If there is an index on (A, PK_ID). The PK_ID column as you already know is already included if you're using InnoDB, so it's redundant, luckily it won't add it twice so you are safe to do it, you just don't need too.
+
 The only time we want redundant indexes is when extending an existing index makes it much larger and thus reduces performance!
+
 You can easily see which indexes are redundant, especially those that have never been used, by querying the INFORMATION_SCHEMA database.
 That being said don't be afraid to add indexes that will actually be used! In a read heavy application the costs will be negligible. It's best to test whether an index is beneficial out for yourself!
 
 ## Index Merge
 
 When i said MySQL only uses one index, per query, per table, most of the times this is true! However, sometimes MySQL does in fact have the capabilities to use multiple single column indexes.
+
 For example: it could use several indexes to fetch primary key values, and then perform a union or intersection depending on the query. These are useful in situations where you cannot form a suitable multicolumn index e.g. in the case of several 'OR' conditionals in your query.
+
 However it is rare that these are actually used, and if you are able to form a suitable multicolumn index then you should, because this will typically outperform a merge index
 
 ## Index not used
@@ -358,8 +365,7 @@ Therefore, we recommend to avoid such OR conditions and consider splitting the q
 
 - Since indices consume extra memory, carefully decide how many & what type of index will suffice your need.
 - With DML operations, indices are updated, so write operations are quite costly with indexes. The more indices you have, the greater the cost. Indexes are used to make read operations faster. So if you have a system that is write heavy but not read heavy, think hard about whether you need an index or not.
-- Cardinality is important - cardinality means the number of distinct values in a column. If you create an index in a column that has low cardinality, that's not going to be beneficial since the index should reduce search space. Low cardinality does not significantly reduce search space.
-    Example: if you create an index on a boolean (int1or0only ) type column, the index will be very skewed since cardinality is less (cardinality is 2 here). But if this boolean field can be combined with other columns to produce high cardinality, go for that index when necessary.
+- Cardinality is important - cardinality means the number of distinct values in a column. If you create an index in a column that has low cardinality, that's not going to be beneficial since the index should reduce search space. Low cardinality does not significantly reduce search space. Example: if you create an index on a boolean (int1or0only ) type column, the index will be very skewed since cardinality is less (cardinality is 2 here). But if this boolean field can be combined with other columns to produce high cardinality, go for that index when necessary.
 - Indices might need some maintenance as well if old data still remains in the index. They need to be deleted otherwise memory will be hogged, so try to have a monitoring plan for your indices.
 
 ```sql

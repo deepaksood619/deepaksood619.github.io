@@ -194,17 +194,9 @@ These bonuses equate to the value of a particular number of shares.Stock appreci
 
 ## Equity offer questions
 
-- What percent of the company do these shares represent?
-
-Your percentage of ownership means more than your number of shares
-
-- What is your total preference stack?
-
-The more owed in liquidation perference, the less your equity is likely worth
-
-- What's the minimum price you would exit for?
-
-Gives reference point for valuing your potential payout
+- What percent of the company do these shares represent? - Your percentage of ownership means more than your number of shares
+- What is your total preference stack? - The more owed in liquidation perference, the less your equity is likely worth
+- What's the minimum price you would exit for? - Gives reference point for valuing your potential payout
 
 <https://angel.co/blog/30-questions-to-ask-before-joining-a-startup>
 

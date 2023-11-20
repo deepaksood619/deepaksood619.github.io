@@ -49,6 +49,10 @@ Monitoring means knowing what's going on inside your system, how much traffic it
 - Scheduling is deciding when and whether a task should run
 - Orchestration is deciding where and how a task should run
 
+## Remediation vs Repair
+
+**Remediation is a more thorough and long-term solution than repair**. Repair is for minor damage that doesn't have an underlying cause. Remediation is for major or recurring damage caused by an underlying issue.
+
 ## GitOps
 
 GitOps is a way of implementing Continuous Deployment for cloud native applications. It focuses on a developer-centric experience when operating infrastructure, by using tools developers are already familiar with, including Git and Continuous Deployment tools.

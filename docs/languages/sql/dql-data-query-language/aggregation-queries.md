@@ -123,6 +123,17 @@ HAVING
 
 [Using Group functions](https://www.tutorialspoint.com/sql_certificate/using_the_group_functions.htm)
 
+### Is this a valid query?
+
+```sql
+SELECT city, COUNT(*) FROM census WHERE COUNT(*) > 5
+GROUP BY city ORDER BY COUNT(*) DESC
+```
+
+no, GROUP BY happens after WHERE, so you can't use aggregations in a WHERE
+
+Use `HAVING COUNT(*) > 5` instead instead of WHERE
+
 ### Examples
 
 ```sql
