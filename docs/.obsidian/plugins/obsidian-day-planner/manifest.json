@@ -1,9 +1,11 @@
 {
   "id": "obsidian-day-planner",
   "name": "Day Planner",
-  "version": "0.5.8",
-  "description": "A plugin to help you plan your day and setup pomodoro timers",
-  "isDesktopOnly": false,
-  "js": "main.js",
-  "css": "style.css"
+  "version": "0.15.3",
+  "minAppVersion": "0.16.0",
+  "description": "A day planner with clean UI and readable syntax",
+  "author": "James Lynch, continued by Ivan Lednev",
+  "authorUrl": "https://github.com/ivan-lednev",
+  "fundingUrl": "https://www.buymeacoffee.com/machineelf",
+  "isDesktopOnly": false
 }

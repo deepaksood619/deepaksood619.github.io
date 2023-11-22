@@ -536,10 +536,6 @@ Managed PostgreSQL database service for app developers
 
 Build and run innovative hybrid applications across cloud boundaries
 
-[Azure Sentinel](https://azure.microsoft.com/en-in/services/azure-sentinel/)
-
-Put cloud-native SIEM and intelligent security analytics to work to help protect your enterprise
-
 [Azure ArcPREVIEW](https://azure.microsoft.com/en-in/services/azure-arc/)
 
 Bring Azure services and management to any infrastructure

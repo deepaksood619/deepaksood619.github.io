@@ -2,6 +2,7 @@
 
 - [Intro](languages/sql/intro.md)
 - [Concepts](languages/sql/concepts.md)
+- [CTE / Subquery](languages/sql/cte-subquery.md)
 - [Types](types)
 - [SQL Data Types](languages/sql/sql-data-types.md)
 - [Operators / Wildcards](operators-wildcards)

@@ -70,3 +70,20 @@ ALTER SCHEMA
  ALTER SCHEMA NewSchema
 TRANSFER OldSchema.TableName;
 ```
+
+## Truncate vs Delete
+
+- **TRUNCATE** is a DDL command which removes the contents of the table while leaving the structure in place. Removes all rows from the given table.
+
+```
+truncate table marketing.emailcampaign
+```
+
+- **DELETE** is a DML command which removes rows given a WHERE clause
+
+```
+delete from
+  marketing.emailcampaign
+where
+  month = 'January'
+```

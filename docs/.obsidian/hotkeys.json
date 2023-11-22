@@ -114,5 +114,13 @@
       ],
       "key": "Y"
     }
+  ],
+  "editor:toggle-bold": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "B"
+    }
   ]
 }

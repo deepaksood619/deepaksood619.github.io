@@ -12,3 +12,10 @@
 - [Recipe](recipe)
 - [Fatigue](fatigue)
 - [Plants / Gardening](plants-gardening)
+
+### Biggest Factors for bad health and death
+
+- Ultra processed food
+- Tobacco
+- Alcohol
+- Lack of exercise

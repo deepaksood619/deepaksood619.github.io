@@ -12,6 +12,14 @@ The acceptable amount of data loss measured in time. For example, if a disaster 
 
 Point-in-time recovery** (PITR) in the context of [computers](https://en.wikipedia.org/wiki/Computer) involves systems whereby an administrator can restore or recover a set of data or a particular setting from a time in the past
 
+## Recovery
+
+Disaster recovery in the database world relates to the backups, logs and replication instances that are maintained while everything is working fine. These can then be switched on, switched over and analysed when something does go wrong, like a hardware failure, natural disaster or even human error.
+
+- **Failover** – multiple clusters are set up so if one fails the other can take over.
+- **Mirroring** – maintaining two copies of the same database at different locations. One in offline mode so we know where things are at when we need to use it.
+- **Replication** – the secondary database is online and can be queried. This is not only good for Disaster Recovery but can be useful if you utilise one instance for reporting and one for live queries. If you are using AWS setting this up takes just a few clicks.
+
 ## Question
 
 Scenario: An ERP application is deployed across multiple AZs in a single region. In the event of failure, the Recovery Time Objective (RTO) must be less than 3 hours, and the Recovery Point Objective (RPO) must be 15 minutes. The customer realizes that data corruption occurred roughly 1.5 hours ago. What DR strategy could be used to achieve this RTO and RPO in the event of this kind of failure?
@@ -28,11 +36,11 @@ Option C. Take hourly DB backups to EC2 instance store volumes with transaction 
 
 <https://aws.amazon.com/blogs/architecture/disaster-recovery-dr-architecture-on-aws-part-iii-pilot-light-and-warm-standby>
 
-## Solution
+### Solution
 
 Option 1 - Take 15 minute DB backups stored in Glacier with transaction logs stored in S3 every 5 minutes
 
-## Explanation
+### Explanation
 
 Since RPO is 15 minutes therefore DB backups must be taken every 15 minutes and stored in Glacier since RTO is 3 hours. Also transaction logs can be stored in S3 every 5 minutes so that it can be replayed after recovery of the database in event of failure. The time for storing transaction logs can be decreased to decrease the chance of data loss.
 
@@ -70,7 +78,7 @@ There are two main approaches for replicating data: synchronous and asynchronous
 
 ## Tools
 
-## Valero
+### Valero
 
 Velero (formerly Heptio Ark) gives you tools to back up and restore your Kubernetes cluster resources and persistent volumes. You can run Velero with a public cloud platform or on-premises. Velero lets you:
 
@@ -85,19 +93,19 @@ Velero consists of:
 
 <https://github.com/vmware-tanzu/velero>
 
-## Kanister
+### Kanister
 
 A framework for data management in Kubernetes. It allows domain experts to define application-specific data management workflows through Kubernetes API extensions. Kanister makes it easy to integrate your application's data with your storage infrastructure.
 
-## Features
+#### Features
 
-- Tasks Execute Anywhere:Exec into running containers or spin up new ones.
-- Object Storage:Efficiently and securely transfer data between your app and Object Storage using Restic.
-- Block Storage:Backup, restore, and copy data using your storage's APIs.
+- Tasks Execute Anywhere: Exec into running containers or spin up new ones.
+- Object Storage: Efficiently and securely transfer data between your app and Object Storage using Restic.
+- Block Storage: Backup, restore, and copy data using your storage's APIs.
 - Kubernetes Workload Integration:Easily perform common workload operations like scaling up/down, acting on all mounted PVCs and many more.
-- Application Centric:A single Blueprint handles workflows for every instance of your app.
-- Kubernetes Native APIs:APIs built using CRDs that play nicely with the Kubernetes ecosystem.
-- Secured by RBAC:Prevent unauthorized access to your workflows using RBAC.
+- Application Centric: A single Blueprint handles workflows for every instance of your app.
+- Kubernetes Native APIs: APIs built using CRDs that play nicely with the Kubernetes ecosystem.
+- Secured by RBAC: Prevent unauthorized access to your workflows using RBAC.
 - Reporting:Watching, logging and eventing let you know the impact of your workflows.
 
 <https://github.com/kanisterio/kanister>
