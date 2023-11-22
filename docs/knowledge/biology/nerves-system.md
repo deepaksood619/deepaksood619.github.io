@@ -22,3 +22,11 @@ Their functions are usually categorized as being either sensory or motor. Sensor
 - [XII. Hypoglossal nerve](https://www.healthline.com/health/12-cranial-nerves#xii-hypoglossal-nerve)
 
 <https://www.healthline.com/health/12-cranial-nerves>
+
+## Others
+
+### Nociception
+
+In [physiology](https://en.wikipedia.org/wiki/Physiology "Physiology"), **nociception** (/ˌnəʊsɪˈsɛpʃ(ə)n/), also **nocioception**; from [Latin](https://en.wikipedia.org/wiki/Latin_language "Latin language") _nocere_ 'to [harm](https://en.wikipedia.org/wiki/Harm "Harm")/hurt') is the [sensory nervous system](https://en.wikipedia.org/wiki/Somatosensory_system "Somatosensory system")'s process of encoding [noxious stimuli](https://en.wikipedia.org/wiki/Noxious_stimulus "Noxious stimulus"). It deals with a series of events and processes required for an organism to receive a [painful](https://en.wikipedia.org/wiki/Pain "Pain") stimulus, convert it to a molecular signal, and recognize and characterize the signal to trigger an appropriate defensive response.
+
+[Nociception - Wikipedia](https://en.wikipedia.org/wiki/Nociception)

@@ -151,3 +151,4 @@ IGBTs were developed to combine high efficiency with fast switching. They are u
 - [How do Scroll Wheels Work? 🖱🛠🔬 - YouTube](https://www.youtube.com/watch?v=-HVKm5fIUA8)
 - [How does a Mouse know when you move it? || How Does a Computer Mouse Work? - YouTube](https://www.youtube.com/watch?v=SAaESb4wTCM)
 - [How do Video Game Controllers Work? || Exploring a PS4 Game Controller - YouTube](https://www.youtube.com/watch?v=vQesgAtr2e4)
+- [What are OSS and BSS? OSS BSS Architecture explained.](https://wisdomplexus.com/blogs/oss-bss-architecture-explained/)

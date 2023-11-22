@@ -14,7 +14,7 @@ A json file maintained on the cloud where all the updates are performed. These i
 
 ## TPM - Trusted Platform Module
 
-Is an [international standard](https://en.wikipedia.org/wiki/International_standard) for a [secure cryptoprocessor](https://en.wikipedia.org/wiki/Secure_cryptoprocessor), a dedicated [microcontroller](https://en.wikipedia.org/wiki/Microcontroller) designed to secure hardware through integrated [cryptographic keys](https://en.wikipedia.org/wiki/Cryptographic_keys).
+Is an [international standard](https://en.wikipedia.org/wiki/International_standard) for a [secure cryptoprocessor](https://en.wikipedia.org/wiki/Secure_cryptoprocessor), a dedicated [microcontroller](https://en.wikipedia.org/wiki/Microcontroller) designed to secure hardware through integrated [cryptographic keys](https://en.wikipedia.org/wiki/Cryptographic_keys)
 
 ## Four basic architectural components
 
@@ -22,7 +22,7 @@ Is an [international standard](https://en.wikipedia.org/wiki/International_stand
 
 Devices are the physical hardware elements that collect sensor data and might perform actuation.
 
-### Gateway
+### IoT Gateway
 
 Gateways collect, preprocess, and transfer sensor data from devices and might deliver actuation requests from the cloud to devices.
 
@@ -45,9 +45,9 @@ On a high level, the software architecture choices for IoT client devices fall i
 
 ## Software architecture options for IoT devices
 
-| **Feature** | **** | **** | **** | **Architecture option** | **** | **** |
+| **Feature** | **Architecture option** |  |  |  |  |  |
 |---|---|---|---|---|---|---|
-| **** | No OS or RTOS | Language runtime | Full OS | App OS | Server OS | Container OS |
+| | No OS or RTOS | Language runtime | Full OS | App OS | Server OS | Container OS |
 | **Typical devices** | Simple sensor devices, heartbeat sensors, lightbulbs, and so on | Feature watches, more advanced sensing devices | "Maker" devices, generic sensing solutions | High-end smartwatches | Solutions benefiting from a portable webserver and edge-computing capabilities | Solutions benefiting from fully isomorphic apps - that is, code that can be migrated between the cloud and the edge |
 | **Minimum required RAM** | Tens of kilobytes | Hundreds of kilobytes | A few megabytes | Hundreds of megabytes | Tens of megabytes | Gigabytes |
 | **Typical communication protocols** | Constrained (MQTT, LWM2M, CoAP) | Constrained (MQTT, LWM2M, CoAP) | Standard Internet protocols (HTTP, HTTPS) | Standard Internet protocols (HTTP, HTTPS) | Standard Internet protocols (HTTP, HTTPS) | Standard Internet protocols (HTTP, HTTPS) |

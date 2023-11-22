@@ -12,3 +12,4 @@
 - [Design of HBase](design-of-hbase)
 - [Parameter Servers](parameter-servers)
 - [Page Rank](page-rank)
+- [Tools](ai/data-science/big-data/tools.md)

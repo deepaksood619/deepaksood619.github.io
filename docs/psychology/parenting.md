@@ -100,3 +100,5 @@ Schooling isn't just about education, it is also a form a childcare
 [Indian Parents , Their Pravachan And An Important Parenting Tip - YouTube](https://www.youtube.com/watch?v=Sjttt-F2pXE)
 
 [The Single Most Important Parenting Strategy - Repair | Becky Kennedy | TED - YouTube](https://www.youtube.com/watch?v=PHpPtdk9rco)
+
+[Toddlers Fears](https://www.whattoexpect.com/toddler-development/toddler-fears.aspx)

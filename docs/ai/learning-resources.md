@@ -25,6 +25,7 @@
 ## DS (Data Science) + DA (Data Analytics) + DE (Data Engineering)
 
 - Tool - dbt, fivetran, Informatica
+- [GitHub - DataEngineer-io/data-engineer-handbook: This is a repo with links to everything you'd ever want to learn about data engineering](https://github.com/DataEngineer-io/data-engineer-handbook)
 - [IOT & Predictive maintenance](https://www.dbdemos.ai/minisite/lakehouse-iot-platform/index.html)
 - [Data Analysis with Python Certification | freeCodeCamp.org](https://www.freecodecamp.org/learn/data-analysis-with-python)
 - DS - Pandas and Numpy + Scipy + scikit-learn

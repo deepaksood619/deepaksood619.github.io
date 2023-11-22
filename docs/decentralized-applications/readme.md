@@ -15,7 +15,7 @@
 - [Crypto News](crypto-news)
 - [Crypto Investing](crypto-investing)
 - [Crypto Future](decentralized-applications/crypto-future.md)
-- [Tools](tools)
+- [Tools](decentralized-applications/tools.md)
 - [Development Tools](decentralized-applications/development/readme.md)
 - [Others](decentralized-applications/others.md)
 - [References / Learning](references-learning)

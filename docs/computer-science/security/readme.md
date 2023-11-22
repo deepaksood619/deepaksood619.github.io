@@ -8,6 +8,6 @@
 - [Vulnerabilities](vulnerabilities)
 - [Firewall WAF](firewall-waf)
 - [Vault](vault)
-- [Tools](tools)
+- [Tools](computer-science/security/tools.md)
 - [Ethical Hacking](ethical-hacking)
 - [Others](computer-science/security/others.md)

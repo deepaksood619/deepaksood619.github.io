@@ -32,6 +32,6 @@
 - [Design Patterns](devops/kubernetes/design-patterns.md)
 - [Helm](helm)
 - [Optimizations](devops/kubernetes/optimizations.md)
-- [Tools](tools)
+- [Tools](devops/kubernetes/tools.md)
 - [Troubleshooting](troubleshooting)
 - [Others](devops/kubernetes/others.md)

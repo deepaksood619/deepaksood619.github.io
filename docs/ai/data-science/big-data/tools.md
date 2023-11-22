@@ -1,4 +1,28 @@
-# Others - Data
+# Tools
+
+## Informatica PowerCenter / IICS
+
+Informatica PowerCenter is a tool for extracting, transforming, and loading data from sources. It's used to create data warehouses for industries. Informatica PowerCenter can connect to: 
+
+- Enterprise database systems
+- Mainframe systems
+- Middleware
+- Midrange systems
+- Analytics tools like Tableau
+- Cloud-based systems like Microsoft Azure and AWS
+
+Informatica Intelligent Cloud Services (IICS) is a cloud-based platform for integrating and synchronizing data and applications. IICS offers similar functionality to PowerCenter, but it can be accessed via the internet. IICS allows users to run ETL (Extract, Transform and Load) codes in the cloud.
+
+Some transformations in IICS include: 
+
+- Lookup Transformation
+- Joiner Transformation
+- Union Transformation
+- Normalizer Transformation
+- Hierarchy Parser Transformation
+- Hierarchy Builder Transformation
+- Transaction Control Transformation
+- WebServices Transformation
 
 ## Data Hub
 
@@ -60,11 +84,11 @@ Analytics engineering is the data transformation work that happens between loadi
 
 With dbt, data teams work directly within the warehouse to produce trusted datasets for reporting, ML modeling, and operational workflows.
 
-![DBT Platform](../../media/Pasted%20image%2020230308224022.png)
+![DBT Platform](../../../media/Pasted%20image%2020230308224022.png)
 
 dbt is a SQL-first transformation workflow that lets teams quickly and collaboratively deploy analytics code following software engineering best practices like modularity, portability, CI/CD, and documentation. Now anyone on the data team can safely contribute to production-grade data pipelines.
 
-![](../../media/Pasted%20image%2020230308224127.png)
+![](../../../media/Pasted%20image%2020230308224127.png)
 
 <https://www.getdbt.com>
 

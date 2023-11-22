@@ -16,7 +16,7 @@ The software utility **cron** is a time-based [job scheduler](https://en.wikiped
 | `crontab -v`                    |           Display the last time you edited your crontab file. (This option is only available on a few systems.)                                                                      |
 
 ```bash
-* ** ** command to be executed
+* * * * * command to be executed
 - - - - -
 | | || |
 | | || +----- day of week (0 - 6) (Sunday=0)
@@ -47,7 +47,7 @@ The software utility **cron** is a time-based [job scheduler](https://en.wikiped
 |-------------|-----------------|
 | @yearly    | 0 0 1 1 *      |
 | @daily     | 0 0 ** *    |
-| @hourly    | 0 ****   |
+| @hourly    | `0 * * * *`   |
 | @reboot    | Run at startup. |
 
 ## Examples
