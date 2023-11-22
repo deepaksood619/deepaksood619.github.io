@@ -83,7 +83,7 @@ Modbus has become a [*de facto*](https://en.wikipedia.org/wiki/De_facto)[standar
 - easy to deploy and maintain,
 - moves raw bits or words without placing many restrictions on vendors.
 
-Modbus enables communication among many devices connected to the same network, for example, a system that measures temperature and humidity and communicates the results to a [computer](https://en.wikipedia.org/wiki/Computer). Modbus is often used to connect a supervisory computer with a [remote terminal unit](https://en.wikipedia.org/wiki/Remote_terminal_unit)(RTU) in supervisory control and data acquisition ([SCADA](https://en.wikipedia.org/wiki/SCADA)) systems. Many of the data types are named from its use in driving relays: a single-bit physical output is called a*coil*, and a single-bit physical input is called a*discrete input*or a*contact*.
+Modbus enables communication among many devices connected to the same network, for example, a system that measures temperature and humidity and communicates the results to a [computer](https://en.wikipedia.org/wiki/Computer). Modbus is often used to connect a supervisory computer with a [remote terminal unit](https://en.wikipedia.org/wiki/Remote_terminal_unit)(RTU) in supervisory control and data acquisition ([SCADA](https://en.wikipedia.org/wiki/SCADA)) systems. Many of the data types are named from its use in driving relays: a single-bit physical output is called a *coil*, and a single-bit physical input is called a *discrete input* or a *contact*.
 
 ### See also
 
@@ -101,7 +101,7 @@ zenoh unifies data in motion, data in-use, data at rest and computations. It car
 
 <http://zenoh.io>
 
-## OPC Unified Architecture(OPC UA)
+## OPC Unified Architecture (OPC UA)
 
 OPC Unified Architecture(OPC UA) is a [machine to machine](https://en.wikipedia.org/wiki/Machine_to_machine)[communication protocol](https://en.wikipedia.org/wiki/Communication_protocol) for [industrial automation](https://en.wikipedia.org/wiki/Industrial_automation) developed by the [OPC Foundation](https://en.wikipedia.org/wiki/OPC_Foundation). Distinguishing characteristics are:
 

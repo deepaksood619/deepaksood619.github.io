@@ -35,3 +35,5 @@ Historically, some phenomena not necessarily heritable have also been described 
 ## Links
 
 [Learn Genetic Engineering - Part 1: How does it work?](https://www.youtube.com/watch?v=E_TAHxPBqKY)
+
+[Zygosity - Wikipedia](https://en.wikipedia.org/wiki/Zygosity)

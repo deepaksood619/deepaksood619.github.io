@@ -1,9 +1,9 @@
 # Job Hunting
 
-- [Career](about-me/jobs/career.md)
-- [Companies](about-me/jobs/companies.md)
-- [Questions to Company](about-me/jobs/questions-to-company.md)
-- [Good Profiles](about-me/jobs/good-profiles.md)
+- [Career](management/jobs/career.md)
+- [Companies](management/jobs/companies.md)
+- [Questions to Company](management/jobs/questions-to-company.md)
+- [Good Profiles](management/jobs/good-profiles.md)
 
 ### Shotgun approach
 

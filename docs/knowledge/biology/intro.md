@@ -88,6 +88,10 @@ Thecarrying capacityof a biological [species](https://en.wikipedia.org/wiki/Spec
 
 [How we can detect pretty much anything - Hélène Morlon and Anna Papadopoulou](https://www.youtube.com/watch?v=bdwU_ZPk1cY&ab_channel=TED-Ed)
 
+## Other Organisms
+
+[Slime mold - Wikipedia](https://en.wikipedia.org/wiki/Slime_mold)
+
 ## Resources
 
 <https://user-images.githubusercontent.com/21294/94627410-73b6c680-028b-11eb-9501-d7453af56106.jpg?ck_subscriber_id=389278734>

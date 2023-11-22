@@ -103,3 +103,7 @@ Tribalismis the state of being organized by, or advocating for, [tribes](https:/
 ## Thinkers vs Doers
 
 <https://www.scotthyoung.com/blog/2019/09/23/thinkers-vs-doers>
+
+## Others
+
+[Stream of consciousness - Wikipedia](https://en.wikipedia.org/wiki/Stream_of_consciousness)

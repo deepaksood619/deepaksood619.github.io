@@ -106,12 +106,12 @@ Eclipse [hawkBit](http://www.eclipse.org/hawkbit/index.html) is an domain indepe
 
 hawkBit is device and communication channel neutral by means of supporting
 
-- SoftwareandOperating systemupdates forM2M gateways(typically but not necessarily running Linux)and
-- Firmwareupdates forembeddeddevices
+- Software and Operating system updates for M2M gateways (typically but not necessarily running Linux) and
+- Firmware updates for embedded devices
 
 both for
 
-- cableor
+- cable or
 - over the air(OTA) connected devices
 
 Features at a glance

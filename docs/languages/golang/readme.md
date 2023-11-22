@@ -5,5 +5,5 @@
 - [Syntax](syntax)
 - [Data Types](languages/golang/data-types.md)
 - [Concepts](languages/golang/concepts.md)
-- [Tools](tools)
+- [Tools](languages/golang/tools.md)
 - [Examples](languages/golang/examples.md)

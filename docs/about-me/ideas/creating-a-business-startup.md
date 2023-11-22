@@ -277,3 +277,5 @@ Discovery commerce is the equivalent of 'I'm feeling lucky' in Google searches. 
 [How I Turned $300 Into $5.1 Billion - YouTube](https://www.youtube.com/watch?v=XWwMr1jYIDE)
 
 [13 Businesses Making +$1,000,000/Year With 0 Employees - YouTube](https://www.youtube.com/watch?v=giis6_u8n3M)
+
+[How to build a company board as a founder?](https://shorts.growthx.club/how-to-build-a-board-with-intent)

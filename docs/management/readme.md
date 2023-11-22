@@ -26,6 +26,7 @@
 - [Engineering Manager / Tech Lead](roles/engineering-manager)
 - [Data Roles](management/roles/data.md)
 - [Other Roles](management/roles/others.md)
+- [Jobs](management/jobs/readme.md)
 
 ## Management Basics
 
