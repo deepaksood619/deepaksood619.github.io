@@ -63,7 +63,10 @@ Perfect School
 
 Get vegetables from farmer and make a distribution center.
 
-**Cars -** side mirror sees behind if anything is coming to not let the user open the door accidentally
+### Cars
+
+- side mirror sees behind if anything is coming to not let the user open the door accidentally
+- Fog cameras in car, they can see everything infront by cutting through the fog, using night-vision/other sensors like lidar/radar, etc
 
 Zero Profit Store - direct Business to Customer without any hidden profits and margins
 

@@ -221,6 +221,7 @@
 - Netflix
 - Google
 - Microsoft
+- Microsoft Research
 - xteam
 - Zerodha - <https://zerodha.tech/blog/being-future-ready-with-common-sense>
 - OpenAI - $9,000,000 Salary - L5 - 10 years total experience

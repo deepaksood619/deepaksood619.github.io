@@ -138,6 +138,9 @@ For instance, if we had a table of shirts and a table of pants, we might want to
 ```sql
 SELECT shirts.shirt_color, pants.pants_color FROM shirts CROSS JOIN pants;
 
+-- students which has lower marks than any other students
+SELECT s1.name FROM students s1 CROSS JOIN students s2 WHERE s1.marks < s2.marks;
+
 SELECT month,
     COUNT(*)
 FROM newspaper

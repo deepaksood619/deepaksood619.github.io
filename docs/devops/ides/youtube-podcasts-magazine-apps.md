@@ -66,19 +66,18 @@
 - MIT opencourseware
 - Crashcourse
 - Shark tank
-- Think school
-- Modern MBA
 - New Mind
 - Lesics
 - RealLifeLore
 - Technology Connections
 - Science Magazine
+- Big Think
 - Theories of Everything with Curt Jaimungal
 - Visual politik EN
 - [Zero To Finals - YouTube](https://www.youtube.com/@ZeroToFinals)
 - [Branch Education - YouTube](https://www.youtube.com/@BranchEducation)
 - Not what you think
-- Practical Engineering
+- [Practical Engineering - YouTube](https://www.youtube.com/@PracticalEngineeringChannel)
 - Just have a think
 - [ZOE - YouTube](https://www.youtube.com/@joinZOE)
 - [The Engineering Mindset - YouTube](https://www.youtube.com/@EngineeringMindset)
@@ -131,7 +130,6 @@
 - Zerodha online / [Zerodha Varsity - YouTube](https://www.youtube.com/@varsitybyzerodha)
 - Mad money Jim Cramer - CNBC Television
 - CA Rachna Ranade
-- FreeFincal Pattu DIY Investing
 - Invest Aaj for Kal - Anant Ladha
 - Warrior Trading
 - P R Sundar
@@ -145,10 +143,18 @@
 - [Aditya Saini - YouTube](https://www.youtube.com/@theadityasaini)
 - [Zing! By Zerodha - YouTube](https://www.youtube.com/@ZingByZerodha)
 
-### Trading
+### Trading / Investing
 
 - Wall Street Week - Bloomberg Markets and Finance
 - Cramer's game plan
+- [Yadnya Investment Academy - YouTube](https://www.youtube.com/@InvestYadnya)
+- FreeFincal Pattu DIY Investing
+
+### Business / Management
+
+- [MagnatesMedia - YouTube](https://www.youtube.com/@MagnatesMedia)
+- [Modern MBA - YouTube](https://www.youtube.com/@ModernMBA)
+- Think school
 
 ## People
 
@@ -156,6 +162,8 @@
 - Kevlin Henney
 - Nouriel robini
 - Dhruv Rathee
+- [Soch by Mohak Mangal - YouTube](https://www.youtube.com/@sochbymm)
+- [BeerBiceps - YouTube](https://www.youtube.com/@BeerBiceps)
 
 ## Others
 
@@ -297,6 +305,8 @@
 - Level up engineering
 - Talk Python to me
 - Dear SQL DBA
+- The Cloudcast [https://podcastaddict.com/podcast/the-cloudcast/2156860](https://podcastaddict.com/podcast/the-cloudcast/2156860)
+- AWS Podcast [https://d3gih7jbfe3jlq.cloudfront.net/aws-podcast.rss](https://d3gih7jbfe3jlq.cloudfront.net/aws-podcast.rss)
 
 ### Others
 
@@ -313,14 +323,15 @@
 - Unofficial sources
 - Huberman lab
 - Tim Ferris show
-- The diary of a CEO
+- [The Diary Of A CEO - YouTube](https://www.youtube.com/@TheDiaryOfACEO)
 - [The Ownership Economy - A podcast on Anchor](https://anchor.fm/theownershipeconomy)
 - [No Stupid Questions Archives - Freakonomics](https://freakonomics.com/series/nsq/)
 - The Indian Dream | A podcast by Sahil and Siddharth
 - [Business Wars with David Brown](https://wondery.com/shows/business-wars/)
 - Search Engine by PJ Vogt
-- [BeerBiceps - YouTube](https://www.youtube.com/@BeerBiceps)
 - Healthcare triage
+- The Science of Change [https://podcastaddict.com/podcast/the-science-of-change/4496415](https://podcastaddict.com/podcast/the-science-of-change/4496415)
+- Business Breakdowns [https://podcastaddict.com/podcast/business-breakdowns/4400688](https://podcastaddict.com/podcast/business-breakdowns/4400688)
 
 <https://www.freecodecamp.org/news/best-tech-podcasts-for-software-developers>
 

@@ -1,7 +1,5 @@
 # Others
 
-Datastructures > Others > Database Index
-
 ## JDBC - Java Database Connectivity
 
 Java Database Connectivity (JDBC) is an [application programming interface](https://en.wikipedia.org/wiki/Application_programming_interface)(API) for the programming language [Java](https://en.wikipedia.org/wiki/Java_(programming_language)), which defines how a client may access a [database](https://en.wikipedia.org/wiki/Database). It is a Java-based data access technology used for Java database connectivity. It is part of the [Java Standard Edition](https://en.wikipedia.org/wiki/Java_Standard_Edition) platform, from [Oracle Corporation](https://en.wikipedia.org/wiki/Oracle_Corporation). It provides methods to query and update data in a database, and is oriented towards [relational databases](https://en.wikipedia.org/wiki/Relational_database). A JDBC-to-[ODBC](https://en.wikipedia.org/wiki/ODBC) bridge enables connections to any ODBC-accessible data source in the [Java virtual machine](https://en.wikipedia.org/wiki/Java_virtual_machine)(JVM) host environment
@@ -11,22 +9,25 @@ Java Database Connectivity (JDBC) is an [application programming interface](http
 ## ODBC - Opensource Database Connectivity
 
 In [computing](https://en.wikipedia.org/wiki/Computing), Open Database Connectivity(ODBC) is a standard [application programming interface](https://en.wikipedia.org/wiki/Application_programming_interface)(API) for accessing [database management systems](https://en.wikipedia.org/wiki/Database_management_system)(DBMS) . The designers of ODBC aimed to make it independent of database systems and [operating systems](https://en.wikipedia.org/wiki/Operating_system). An application written using ODBC can be ported to other platforms, both on the client and server side, with few changes to the data access code.
-ODBC accomplishes DBMS independence by using anODBC driveras a translation layer between the application and the DBMS. The application uses ODBC functions through anODBC driver managerwith which it is linked, and the driver passes the [query](https://en.wikipedia.org/wiki/Query_language) to the DBMS. An ODBC driver can be thought of as analogous to a printer driver or other driver, providing a standard set of functions for the application to use, and implementing DBMS-specific functionality. An application that can use ODBC is referred to as "ODBC-compliant". Any ODBC-compliant application can access any DBMS for which a driver is installed. Drivers exist for all major DBMSs, many other data sources like [address book](https://en.wikipedia.org/wiki/Address_book) systems and [Microsoft Excel](https://en.wikipedia.org/wiki/Microsoft_Excel), and even for text or [comma-separated values](https://en.wikipedia.org/wiki/Comma-separated_values)(CSV) files.
+
+ODBC accomplishes DBMS independence by using anODBC driveras a translation layer between the application and the DBMS. The application uses ODBC functions through an ODBC driver manager with which it is linked, and the driver passes the [query](https://en.wikipedia.org/wiki/Query_language) to the DBMS. An ODBC driver can be thought of as analogous to a printer driver or other driver, providing a standard set of functions for the application to use, and implementing DBMS-specific functionality. An application that can use ODBC is referred to as "ODBC-compliant". Any ODBC-compliant application can access any DBMS for which a driver is installed. Drivers exist for all major DBMSs, many other data sources like [address book](https://en.wikipedia.org/wiki/Address_book) systems and [Microsoft Excel](https://en.wikipedia.org/wiki/Microsoft_Excel), and even for text or [comma-separated values](https://en.wikipedia.org/wiki/Comma-separated_values)(CSV) files.
+
 ODBC was originally developed by [Microsoft](https://en.wikipedia.org/wiki/Microsoft) and [Simba Technologies](https://en.wikipedia.org/wiki/Simba_Technologies) during the early 1990s, and became the basis for the [Call Level Interface](https://en.wikipedia.org/wiki/Call_Level_Interface)(CLI) standardized by [SQL Access Group](https://en.wikipedia.org/wiki/SQL_Access_Group) in the [Unix](https://en.wikipedia.org/wiki/Unix) and [mainframe](https://en.wikipedia.org/wiki/Mainframe_computer) field. ODBC retained several features that were removed as part of the CLI effort. Full ODBC was later ported back to those platforms, and became a [de facto standard](https://en.wikipedia.org/wiki/De_facto_standard) considerably better known than CLI. The CLI remains similar to ODBC, and applications can be ported from one platform to the other with few changes.
 
 <https://en.wikipedia.org/wiki/Open_Database_Connectivity>
 
 ## Data Integrity
 
-It's vital to users that the data they interact with is secure, correct and sensible. Examples are making sure that age isn't a negative number, or that no two students have the same information. We refer to this asdata integrity.
+It's vital to users that the data they interact with is secure, correct and sensible. Examples are making sure that age isn't a negative number, or that no two students have the same information. We refer to this as data integrity.
+
 Data integrity takes several forms and can be divided into four categories:
 
 - **Entity Integrity:** No duplicate rows exist in a table. For example, we can't insert Ron Weasley twice in the database.
-- **Domain Integrity:** Restricting the type of values that one can insert in order to enforce correct values. For example, a House can only be Gryffindor, Ravenclaw, Slytherin, or Hufflepuff.
+- **Domain Integrity:** Restricting the type of values that one can insert in order to enforce correct values. For example, a House can only be Gryffindor, Ravenclaw, Slytherin, or Hufflepuff. This also includes the length.
 - **Referential Integrity:** Records that are used by other records cannot be deleted. A teacher cannot be deleted if they are currently teaching a course.
 - **User-Defined Integrity:** An "other" category that consists of business-related logic and rules to the database.
 
-## Referential Integrity Constraints
+### Referential Integrity Constraints
 
 Referential integrity constraints are one of the features of DBMSs we become acquainted with. We use them because they make us feel comfortable. These **constraints guarantee that you will never mistakenly insert a value that doesn't exist in the referenced column.** It also prevents you from deleting a row whose column is referenced on the other side of the constraint.
 
@@ -83,8 +84,6 @@ Please consider the impacts of auto-incremented IDs vs UUIDs on indexing, partit
 ### SQL Databases
 
 When you make a lot of inserts or updates do it one statement or disable autocommit and use explicit transactions.
-
-<https://docs.google.com/spreadsheets/d/1fbrqhC83l8GNb_WuNu_53_QgAXAi661wsv7bun-IMt0/edit?usp=sharing>
 
 ![image](../../media/database-others-Others-image2.jpg)
 

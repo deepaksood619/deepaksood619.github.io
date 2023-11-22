@@ -83,6 +83,10 @@ In this, the indices are based on a sorted ordering of the values. These are gen
 
 Indices are based on the values being distributed uniformly across a range of buckets. The buckets to which a value is assigned is determined by a function called a hash function.
 
+## Heaped storage
+
+Heaped storage is a term for tables that live on the database with no clustered index. The data is stored in no particular order and new data simply gets added as it comes in.
+
 ## Methods of indexing
 
 ### Clustered Indexing
@@ -98,7 +102,7 @@ For example, students studying in each semester are grouped together. i.e. 1stSe
 
 Clustered index sorted according to first name (Search key)
 
-Primary Indexing
+#### Primary Indexing
 
 This is a type of Clustered Indexing wherein the data is sorted according to the search key and the primary key of the database table is used to create the index. It is a default format of indexing where it induces sequential file organization. As primary keys are unique and are stored in a sorted manner, the performance of the searching operation is quite efficient.
 

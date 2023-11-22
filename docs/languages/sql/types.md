@@ -33,7 +33,7 @@ PL/SQL is a combination of SQL along with the procedural features of programming
 
 ## T-SQL (Transact SQL)
 
-T-SQL (Transact-SQL) is a set of programming extensions from Sybase and Microsoft that add several features to the Structured Query Language ([SQL](https://searchsqlserver.techtarget.com/definition/SQL)), including transaction control, exception and error handling, row processing and declared variables.
+T-SQL (Transact-SQL) is a set of programming extensions from Sybase and Microsoft that add several features to the Structured Query Language ([SQL](https://searchsqlserver.techtarget.com/definition/SQL)), including transaction control, exception and error handling, row processing and declared variables. It is used primarily in Microsoft SQL Server.
 
 All applications that communicate with [SQL Server](https://searchsqlserver.techtarget.com/definition/SQL-Server) do so by sending T-SQL statements to the server. T-SQL queries include the SELECT statement, selecting columns, labeling output columns, restricting rows and modifying a search condition.
 

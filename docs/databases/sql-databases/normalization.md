@@ -43,9 +43,9 @@ Suppose, if at a point of time the company closes the department D890 then delet
 
 ## Normalization
 
-- First normal form(1NF)
-- Second normal form(2NF)
-- Third normal form(3NF)
+- First normal form (1NF)
+- Second normal form (2NF)
+- Third normal form (3NF)
 - Boyce & Codd normal form (BCNF)
 - Fourth normal form (4NF)
 - Fifth normal form (5NF)
@@ -53,6 +53,7 @@ Suppose, if at a point of time the company closes the department D890 then delet
 ### First Normal Form (1NF)
 
 An attribute (column) of a table cannot hold multiple values. It should hold only atomic values.
+
 Sample Employee table, it displays employees are working with multiple departments.
 
 | Employee | Age | Department        |
@@ -60,6 +61,7 @@ Sample Employee table, it displays employees are working with multiple departmen
 | Melvin   | 32  | Marketing, Sales  |
 | Edward   | 45  | Quality Assurance |
 | Alex     | 36  | Human Resource    |
+
 Employee table following 1NF:
 
 | Employee | Age | Department        |
@@ -73,6 +75,7 @@ Employee table following 1NF:
 
 - Should be in 1NF
 - All non-key attributes are fully functional dependent on the primary key
+
 Sample Products table:
 
 | productID | product    | Brand   |
@@ -81,6 +84,7 @@ Sample Products table:
 | 2         | Monitor    | Samsung |
 | 3         | Scanner    | HP      |
 | 4         | Head phone | JBL     |
+
 Product table following 2NF:
 
 Products Category table:
@@ -108,6 +112,7 @@ Products Brand table:
 | 2    | 1         | 2       |
 | 3    | 2         | 3       |
 | 4    | 3         | 4       |
+
 ![image](../../media/Normalization-image1.jpg)
 
 ### Third Normal Form (3NF)
@@ -122,6 +127,7 @@ If such an entity exists, move it outside into a new table.
 ### Boyce-Codd Normal Form (BCNF)
 
 3NF and all tables in the database should be only one primary key.
+
 It is an advance version of 3NF that's why it is also referred as 3.5NF. BCNF is stricter than 3NF. A table complies with BCNF if it is in 3NF and for every [**functional dependency**](https://beginnersbook.com/2015/04/functional-dependency-in-dbms/) X->Y, X should be the super key of the table.
 
 ### Fourth Normal Form (4NF)

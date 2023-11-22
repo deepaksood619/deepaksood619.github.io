@@ -1,27 +1,5 @@
 # Others
 
-## SQL CTEs (Common Table Expressions)
-
-The Common Table Expressions (CTE) were introduced into standard SQL in order to simplify various classes of SQL Queries for which a derived table was just unsuitable. CTE was introduced in SQL Server 2005, the common table expression (CTE) is a temporary named result set that you can reference within a SELECT, INSERT, UPDATE, or DELETE statement. You can also use a CTE in a CREATE a view, as part of the view's SELECT query. In addition, as of SQL Server 2008, you can add a CTE to the new MERGE statement.
-
-```sql
-with abc as (
- select * from table1
-),
-xyz as (
- select * from table2
-)
-select * from abc join xyz on abc.id = xyz.id;
-```
-
-<https://dev.to/helenanders26/why-you-should-use-sql-ctes-25lk>
-
-<https://www.geeksforgeeks.org/cte-in-sql>
-
-<https://www.essentialsql.com/introduction-common-table-expressions-ctes>
-
-[Learn to Use a Recursive CTE in SQL Query - StrataScratch](https://www.stratascratch.com/blog/learn-to-use-a-recursive-cte-in-sql-query)
-
 ## When should I use a unique constraint instead of a unique index
 
 Under the hood a unique constraint is implemented the same way as a unique index - an index is needed to efficiently fulfil the requirement to enforce the constraint. Even if the index is created as a result of a UNIQUE constraint, the query planner can use it like any other index if it sees it as the best way to approach a given query.
@@ -68,6 +46,24 @@ If you are inserting many rows from the same client at the same time, use INSERT
 By enabling data engineers to identify new & updated records by accessing simple fields likecreated_timestampandupdated_timestamp. Make sure that both these fields are populated by the database and not the application. You should have a separate datetime or timestamp field if you want to populate it from the application.
 
 <https://towardsdatascience.com/table-design-best-practices-for-etl-200accee9cc9>
+
+## System Tables
+
+In SQL Server these are often referred to as system tables and views. They can be found in the master database, which holds [data about the database](https://www.helenanderson.co.nz/search-sys-tables/). And in the system views within each database for specific information about each database.
+
+In PostgreSQL, a similar collection of tables can be found in the information_schema and PostgreSQL catalog.
+
+Examples of system views:
+
+- sys.objects – shows each object, its type and created date
+- sys.indexes – shows each index and type
+- information_schema.columns – shows each column, it’s position and datatype
+
+Examples of catalog objects:
+
+- information_schema.tables – shows each object, its type and created date
+- pg_index – shows each index and type
+- information_schema.columns – shows each column, it’s position and datatype.
 
 ## Others
 

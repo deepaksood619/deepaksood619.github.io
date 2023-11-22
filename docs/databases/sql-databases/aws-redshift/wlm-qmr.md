@@ -1,6 +1,6 @@
 # Workload management (WLM) and query monitoring rules (QMR)
 
-## Workload management (WLM) 
+## Workload management (WLM)
 
 Allows for the separation of different query workloads
 
@@ -69,12 +69,12 @@ SET query_group TO 'superuser'
 - Extension of workload management (WLM)
 - Allow the automatic handling of runaway (poorly written) queries
 - Rules applied to a WLM queue allow queries to be
-	- LOGGED
-	- ABORTED
-	- HOPPED
+  - LOGGED
+  - ABORTED
+  - HOPPED
 - Goals
-	- Protect against wasteful use of the cluster
-	- Log resource-intensive queries
+  - Protect against wasteful use of the cluster
+  - Log resource-intensive queries
 
 ## WLM and QMR
 

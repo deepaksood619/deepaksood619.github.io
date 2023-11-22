@@ -183,6 +183,17 @@ WHERE
 -- Here _ in a wildcard for substituting any value % is a wildcard character that matches zero or more missing letters in the pattern
 ```
 
+LIKE is an operator that compares column values with a specified pattern. During pattern matching, regular characters must exactly match the characters specified in the character string. The data type of the column can be any character or date data type. There are certain characters within the pattern, called wildcard characters.
+
+I have used four types of wildcards; they are:
+
+- Percent sign `(%)`: It is used to represent or search any string of zero or more characters.
+- Underscore `(_)`: It is used to represent or search a single character.
+- Bracket `([])`: It is used to represent or search any single character within the specified range.
+- Caret `(^)`: It is used to represent or search any single character not within the specified range.
+
+`SELECT User_ID, FirstName, LastName, Salary FROM UserDetail WHERE FirstName LIKE '%h%';`
+
 ### LIMIT
 
 LIMIT is a clause that lets you specify the maximum number of rows the result set will have.
@@ -210,6 +221,8 @@ WHERE column_name operator value;
 ### UNION
 
 This will add all rows of table_name2 on top of table_name1
+
+While a JOIN combines rows of columns horizontally, a UNION combines the results vertically. Using a UNION combines the result of two queries into one column and removes duplicates. If your query has multiple columns, they need to be in the same order to complete the UNION.
 
 ```sql
 SELECT column_name(s) FROM table_name1

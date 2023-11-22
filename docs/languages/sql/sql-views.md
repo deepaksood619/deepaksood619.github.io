@@ -4,6 +4,8 @@ Database Administrator and Database Users will face two challenges: writing comp
 
 The view is a query stored in the data dictionary, on which the user can query just like they do on tables. It does not use the physical memory, only the query is stored in the data dictionary. It is computed dynamically, whenever the user performs any query on it. Changes made at any point in view are reflected in the actual base table.
 
+A view is a stored query. When you create a database view, the database stores the SQL you gave it. Then, when you come along and query that view, the database takes the stored view query, adds in the extras from the query against the view, and executes it.
+
 The view has primarily two purposes:
 
 - Simplify the complex SQL queries.
