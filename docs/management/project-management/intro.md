@@ -4,14 +4,14 @@
 
 ## Project Factors
 
-- Project budget:How much money is going to be spent on this project? How is it divided up?
-- Timeline:When is your project due by?
-- Goals:What are the project's end goals and deliverables? Start there and work backward.
-- Values:How do your organizational goals and values apply to this project? Knowing this will help set expectations (and help you hold team members [accountable for their commitments](https://blog.trello.com/accountability-tips-remote-work?hsLang=en)).
-- Complexity and Scale:How complex or simple is this project?
-- Flexibility:How flexible or rigid is this project and its end goals, timelines, deliverables, and team or stakeholder expectations?
-- Project type and industry:Some methodologies work best for certain industries and project types, such as highly creative projects or product development sprints.
-- Team:Consider the team size, diversity, flexibility, experience, and individual expertise or strengths and weaknesses, as well as their ability to collaborate and communicate when choosing a methodology.
+- Project budget: How much money is going to be spent on this project? How is it divided up?
+- Timeline: When is your project due by?
+- Goals: What are the project's end goals and deliverables? Start there and work backward.
+- Values: How do your organizational goals and values apply to this project? Knowing this will help set expectations (and help you hold team members [accountable for their commitments](https://blog.trello.com/accountability-tips-remote-work?hsLang=en)).
+- Complexity and Scale: How complex or simple is this project?
+- Flexibility: How flexible or rigid is this project and its end goals, timelines, deliverables, and team or stakeholder expectations?
+- Project type and industry: Some methodologies work best for certain industries and project types, such as highly creative projects or product development sprints.
+- Team: Consider the team size, diversity, flexibility, experience, and individual expertise or strengths and weaknesses, as well as their ability to collaborate and communicate when choosing a methodology.
 
 ## Methodologies
 
@@ -19,6 +19,10 @@
 - Scrum: Quick And Continuous Development Projects
 - Kanban: Visualize Task Progress For Agile Teams
 - Lean: Projects That Do More With Less
+- Waterfall: Large-Scale, End-Goal Focused, And Fixed Projects
+- Hybrid: Flexible And Fast-Paced Projects With Structured Plans
+
+### Lean
 
 Lean was created in the Japanese manufacturing industry to improve quality control and remove redundancies that may increase the price or value for customers down the line.
 
@@ -27,9 +31,6 @@ Known as the three M's, Lean methodology defines three types of project waste: m
 - Muda is about getting rid of the waste or anything that doesn't add value.
 - Mura streamlines processes, so if one aspect of the project takes too long, for instance, then something further down the task list will have to be completed faster.
 - Muri is about removing blockers, such as too many stakeholder meetings.
-
-- Waterfall: Large-Scale, End-Goal Focused, And Fixed Projects
-- Hybrid: Flexible And Fast-Paced Projects With Structured Plans
 
 ## What we need
 
@@ -52,7 +53,7 @@ Known as the three M's, Lean methodology defines three types of project waste: m
 - **All-in -** This was a massive program and it needed the entire company, from exec to intern, behind it.
 - **Attack the riskiest assumption -** Don't think "MVP." Think about what the riskiest part of the entire program is, and focus on that until it's no longer the top risk.
 - **Incremental, even when it hurts -** Reduce risk by breaking the migration into as many small parts as possible, even when that increases dev time.
-- **Sprint to 100% -** In this program, the payoff was when we could completely stop deploying to the old infrastructure. Don't slow down or lose focus until you are done, done, done, and done.
+- **Sprint to 100% -** In this program, the payoff was when we could completely stop deploying to the old infrastructure. Don't slow down or lose focus until you are done.
 
 <https://www.atlassian.com/blog/technology/software-engineering-principles-massive-projects>
 
@@ -148,12 +149,10 @@ A responsibility assignment matrix (RAM), also known as RACI matrix or linear re
 - LLD
 - Product Review
 - Risk Review
-
-- **Engineering Review (Ankur + Deepak)**
+- Engineering Review
   - API Design
   - Database modeling
   - Test cases
-
 - Demo - 1 (product + engineering)
 - Demo - 2 (product + engineering)
 - Demo - 3 by QA (product + engineering)
@@ -206,12 +205,8 @@ A responsibility assignment matrix (RAM), also known as RACI matrix or linear re
 
 ## Questions
 
-<https://www.toptal.com/project-managers/program-manager/interview-questions>
-
-<https://www.toptal.com/project-managers/project-management-consultant/interview-questions>
-
-<https://www.toptal.com/project-managers/scrum-master/interview-questions>
-
-<https://blog.trello.com/50-project-management-terms-you-should-know>
-
-<https://blog.trello.com/most-common-project-blockers>
+- <https://www.toptal.com/project-managers/program-manager/interview-questions>
+- <https://www.toptal.com/project-managers/project-management-consultant/interview-questions>
+- <https://www.toptal.com/project-managers/scrum-master/interview-questions>
+- <https://blog.trello.com/50-project-management-terms-you-should-know>
+- <https://blog.trello.com/most-common-project-blockers>

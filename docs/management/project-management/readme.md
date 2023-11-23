@@ -7,6 +7,6 @@
 - [JIRA](jira)
 - [Agile](agile)
 - [Scrum / Meetings](scrum-meetings)
-- [Goal Setting](management/project-management/goal-setting.md)
+- [Goal Setting](management/project-management/goals-setting.md)
 - [PM Template](management/project-management/template.md)
 - [Others](management/project-management/others.md)

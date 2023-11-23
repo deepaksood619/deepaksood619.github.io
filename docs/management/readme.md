@@ -3,7 +3,7 @@
 - [Mental Models](mental-models)
 - [Project / Product / Business Tools / SAAS](project-product-business-tools-saas)
 - [Business](business/readme.md)
-  - [business-terms](management/business/business-terms.md)
+  - [Business Terms](management/business/business-terms.md)
   - [Indian Market](business/indian-market)
   - [Business Case Studies](business/business-case-studies)
 - [Product Management](product-management/readme.md)

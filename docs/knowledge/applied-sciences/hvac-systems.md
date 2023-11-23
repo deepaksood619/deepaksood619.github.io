@@ -24,6 +24,7 @@ If we further break down the HVAC system by the energy consumed by its individua
 - BMS - Building Management System - [Building Management System (BMS)](https://www.zenatix.com/building-management-system-bms/)
 
 [5 HVAC Industry Trends Driving Energy Efficiency & Sustainability](https://www.zenatix.com/5-hvac-industry-trends-driving-energy-efficiency-and-sustainability/)
+
 - Energy Efficiency
 - Indoor Air Quality
 - Smart Maintenance

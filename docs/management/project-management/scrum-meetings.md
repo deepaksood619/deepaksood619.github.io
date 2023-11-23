@@ -53,33 +53,33 @@ The goal of a skip-level meeting is twofold:
 
 ## Meetings
 
-- Get everyone in on the action
+### Get everyone in on the action
 
 Proactively give less dominant participants the floor by calling on them individually.On remote calls, regularly check if remote participants are able to follow the conversation and contribute.
 
-- Interrupt interruptions
+### Interrupt interruptions
 
 Lead by example and call out when you see someone being inadvertently silenced in a discussion. Encourage others to do the same. Come equipped with phrases like, "Hang on a sec, Fatima -- I want to make sure I understand Aniket's point before we add on to it."
 
 If anyone is a repeat offender, take them aside for a moment after the meeting and point it out to them. Assume they're totally oblivious to their behaviors -- peoplerarelyact this way on purpose.
 
-- Give credit where credit's due
+### Give credit where credit's due
 
 When someone makes a good point, acknowledge their contribution and give public attribution to their ideas. Don't let hijackers get away with appropriation, and highlight when value has been added.
 
-- Use the power of the pen
+### Use the power of the pen
 
 If one person is dominating, ask them to be the scribe. This intrinsically tasks them with listening and creates a space for others.
 
-- Write and share
+### Write and share
 
 Give everyone time to process the question, jot down thoughts on paper, and share what they've come up with. This gives less vocal participants time to gather their thoughts and ensures they'll be heard.
 
-- Clean up as you go
+### Clean up as you go
 
 At the end of each agenda topic, pause to agree on next steps and establish specific commitments with clear deadlines. Assign Directly Responsible Individuals (DRI) and rotate the DRI role to ensure the loudest person doesn't receive all of the action items.
 
-- Follow-ups
+### Follow-ups
 
 Circulate a follow-up note that captures the key takeaways, action items, and DRIs.This way everyone is in the loop and on the same page (consider that remote participants may not have been able to hear everything perfectly).
 
@@ -94,28 +94,30 @@ Keep tabs on action items.Assign someone to check in at appropriate intervals af
 
 ![image](../../media/Project-Management_Scrum-Meetings-image2.jpg)
 
-- **Artifacts**
-  - Product Backlog
-    - Running todo list consisting of all the things that need to be done
-  - Sprint Backlog
-  - Increment (definition of done)
+### Artifacts
 
-- [Sprint planning](https://www.atlassian.com/agile/scrum/sprint-planning)
-  - Moving items from product backlog to sprint backlog
-  - Keep in mind to only take task that can be completed in that sprint time (2 weeks)
-  - The sprint goal is an objective that can be met by implementing stories from the backlog
-  - Velocity = The amount of work typically completed in a sprint
-  - **Goals**
-    - Focus Execution
-    - Minimize surprises
-    - Higher quality code
-  - **Todo**
-    - Backlog grooming (A meeting before the meeting)
-    - Sprint planning meeting (Prioritization)
-      - Retrospective recap (action item from last retrospective)
-      - Product and market updates
-      - Planning conversation
-    - Creating action items
+- Product Backlog
+  - Running todo list consisting of all the things that need to be done
+- Sprint Backlog
+- Increment (definition of done)
+
+### [Sprint planning](https://www.atlassian.com/agile/scrum/sprint-planning)
+
+- Moving items from product backlog to sprint backlog
+- Keep in mind to only take task that can be completed in that sprint time (2 weeks)
+- The sprint goal is an objective that can be met by implementing stories from the backlog
+- Velocity = The amount of work typically completed in a sprint
+- **Goals**
+  - Focus Execution
+  - Minimize surprises
+  - Higher quality code
+- **Todo**
+  - Backlog grooming (A meeting before the meeting)
+  - Sprint planning meeting (Prioritization)
+    - Retrospective recap (action item from last retrospective)
+    - Product and market updates
+    - Planning conversation
+  - Creating action items
 - [Ceremonies](https://www.atlassian.com/agile/scrum/ceremonies)
   - Sprint planning
   - Daily scrum or standup
@@ -147,13 +149,13 @@ Keep tabs on action items.Assign someone to check in at appropriate intervals af
 
 [The Agile Coach - What is Scrum](https://www.youtube.com/playlist?list=PLaD4FvsFdarT0B2yi9byhKWYX1YmrkrpC)
 
-[**Scrum in 16 minutes**](https://www.youtube.com/watch?v=vuBFzAdaHDY)
+### [Scrum in 16 minutes](https://www.youtube.com/watch?v=vuBFzAdaHDY)
 
 1. Vision - Company's vision reflects what the company wants and built for. Ex - Amazons' vision - "We want to be the most customer centric company in the world"
 2. Roadmap
 3. Working Software
 4. Definition of Done (Agile software developer uses this for determining if the software meets there quality bar), helps to reduce technical debt (things like scalability and automated testing is considered)
-5. Work in Sprints/Iteration (1-4 weeks) (best to use 1-2 weeks sprints)
+5. Work in Sprints / Iteration (1-4 weeks) (best to use 1-2 weeks sprints)
 6. Sprint backlog - sprint goal
 7. Product backlog - features that are passed to sprint backlog (contains every piece of work that team plans on working)
 8. Definition of Ready (documentation that defines clearly accepted criterion that team understands)

@@ -8,6 +8,8 @@ Most people don't even know what they want until they see it. So sometimes you h
 
 ## PM Triangle
 
+[Project Contraints](management/project-management/project-contraints.md)
+
 Asking (or forcing?) your team to stay late to hit those deadlines only accomplishes two things: it burns them out quicker, and it fosters resentment towards you. You can maybe do this once or twice each year, but neither of these are feasible if you're looking to cultivate a healthy and lasting relationship with your engineering teams.
 
 So, the question becomes what do you do? Well as a product manager it's your job to figure these problems out, and sometimes you'll unfortunately need to have difficult conversations with certain stakeholders.
@@ -222,70 +224,6 @@ Articulate your objectives using absolutely no jargon
     - Should be actionable
   - 4-5 L1 supporting metrics
 - Critique your metrics
-
-## Product Strategy + GTM (Go To Market)
-
-[PM School - Should Google enter the OTT market? | Strategy and GTM questions in PM Interviews](https://www.youtube.com/watch?v=TG657u78MOQ)
-
-- CXO Thinking Skills
-- How well you breakdown an ambiguous & vague problem
-- Should X enter Y market
-- Do not jump to conclusions, don't say yes or no without an approach/framework
-
-5C Framework
-
-- Competition
-  - How competitive is the industry?
-  - Too many/few players?
-  - Any unfair advantages others have that we don't
-- Customers (Synergies)
-  - Existing customers
-  - Future customers in new market
-- Company
-  - Do we have what it takes from a skillset standpoint?
-    - Strengths
-    - Weaknesses
-- Collaborators
-  - Do we need to partner with anyone to enter this market?
-- Climate
-  - Political / Economic / Regulatory
-
-Where & How to enter?
-
-- Where - Look at customer journey / value chain
-- How - Think about business model
-
-## Pricing Strategy
-
-[PM School - How do you price Spotify Premium? | Pricing Questions in PM Interviews](https://www.youtube.com/watch?v=lDwqjTQs6Qk)
-
-- Pricing is not just a number (it can make or break your product)
-- Analysis
-  - What is the product?
-  - Who is the customer?
-  - What is the problem?
-  - What is the company?
-- Business
-  - Goal
-  - Market (Competition)
-  - Brand
-  - Willingness to pay (alternatives)
-  - Cost (manufacturing)
-- Strategies
-  - Price Skimming
-    - Initially charge the highest price customers will pay and gradually reduce the price
-    - Works when technology is new
-    - There is little to no competition
-    - Goal: Gather as much revenue as possible until demand is high
-  - Market penetration
-    - Price really low at the start to beat competition, and then graudually increase price
-  - Premium pricing
-    - Price really high for aspirational products
-  - Bundled pricing
-    - Combine high & low value products & price the bundle lower than the combined price of each of the products taken individually
-  - Freemium
-    - Offer a basic version for free, and a paid upgraded version (ex - SAAS products)
-- Frequency of payment (Annual / Monthly)
 
 ## Product Sense
 

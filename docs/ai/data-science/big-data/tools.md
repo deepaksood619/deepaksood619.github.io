@@ -2,7 +2,7 @@
 
 ## Informatica PowerCenter / IICS
 
-Informatica PowerCenter is a tool for extracting, transforming, and loading data from sources. It's used to create data warehouses for industries. Informatica PowerCenter can connect to: 
+Informatica PowerCenter is a tool for extracting, transforming, and loading data from sources. It's used to create data warehouses for industries. Informatica PowerCenter can connect to:
 
 - Enterprise database systems
 - Mainframe systems
@@ -13,7 +13,7 @@ Informatica PowerCenter is a tool for extracting, transforming, and loading data
 
 Informatica Intelligent Cloud Services (IICS) is a cloud-based platform for integrating and synchronizing data and applications. IICS offers similar functionality to PowerCenter, but it can be accessed via the internet. IICS allows users to run ETL (Extract, Transform and Load) codes in the cloud.
 
-Some transformations in IICS include: 
+Some transformations in IICS include:
 
 - Lookup Transformation
 - Joiner Transformation

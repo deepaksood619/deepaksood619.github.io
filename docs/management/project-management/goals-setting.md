@@ -1,4 +1,4 @@
-# Goal Setting
+# Goals Setting
 
 ### SMART Goals
 

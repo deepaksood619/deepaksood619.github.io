@@ -10,7 +10,7 @@ Agile is an iterative approach to project management and software development th
 
 - One cannot anticipate every detail of a complex problem.
 - Start simple (with something that works), then improve it.
-- Identify emerging patterns and continuously adapt the structure of your code. (Refactoring, for which you want Unittests)
+- Identify emerging patterns and continuously adapt the structure of your code. (Refactoring, for which you want Unit tests)
 
 Agility gives the enterprise the ability to out-innovate its competition. And, as technology both raises the bar for competition and lowers barriers to innovation, those enterprises that fail to out-innovate will themselves be out-innovated into oblivion.
 
@@ -20,7 +20,7 @@ Teams choose agile so they can respond to changes in the marketplace or feedback
 
 ## Agile yesterday, today, and tomorrow
 
-The publication of the Agile Manifesto in 2001 marks the birth of agile as a methodology. Since then, many agile frameworks have emerged such as **Scrum, Kanban, Lean, Crystal Clear, and Extreme Programming (XP).** Each embodies the core principles of frequent iteration, continuous learning, and high quality in its own way.**[Scrum](https://www.atlassian.com/agile/scrum) and XP are favored by software development teams, while [Kanban](https://www.atlassian.com/agile/kanban) is a darling among service-oriented teams like IT or human resources.**
+The publication of the Agile Manifesto in 2001 marks the birth of agile as a methodology. Since then, many agile frameworks have emerged such as **Scrum, Kanban, Lean, Crystal Clear, and Extreme Programming (XP).** Each embodies the core principles of frequent iteration, continuous learning, and high quality in its own way. **[Scrum](https://www.atlassian.com/agile/scrum) and XP are favored by software development teams, while [Kanban](https://www.atlassian.com/agile/kanban) is a darling among service-oriented teams like IT or human resources.**
 
 Today, many agile teams combine practices from a few different frameworks, spiced up with practices unique to the team. Some call this heresy. We call it practical. It's not about "Agile" -- it's about agility.
 
@@ -201,7 +201,7 @@ The lean framework works on the concept of maximizing customer value with fewer 
 
 ![image](../../media/Project-Management_Agile-image6.jpg)
 
-## Twelve XP Practices
+### Twelve XP Practices
 
 1. Planning game
 2. Short releases
