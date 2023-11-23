@@ -4,15 +4,15 @@
 
 <https://en.wikipedia.org/wiki/Behavioral_economics>
 
-1. **Increase the immediate benefit to taking any action:forced choice and present bias**
+### Increase the immediate benefit to taking any action:forced choice and present bias
 
-## Forced Choice
+#### Forced Choice
 
 Asked people to "accept" or "decline" the new feature. By asking people if they wanted to decline (which is definitive and final), there was now a cost to not accepting it - you might not get a second chance. Suddenly, "accept" looks much better in comparison. When we allow people to skip something or say "maybe later," there's very little cost to them.
 
 ![image](../../media/Product-Management_Behavioral-Design-Economics-image1.jpg)
 
-## Present bias
+#### Present bias
 
 The immediate benefit to the user of taking the action should be higher than the cost of the action. This is because we tend toward ["present bias](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3909663)." In the prior example, we increased the benefit of saying "yes," by making "no" relatively more costly (definitive and final). Now we increased the benefit of saying "yes" by focusing people on a short-term goal: completing setup. People (you, your users, your customers) all want to complete things. By making people feel closer to completing something, we delivered a bigger immediate benefit.
 
@@ -20,37 +20,37 @@ The immediate benefit to the user of taking the action should be higher than the
 
 <https://irrationallabs.com/blog/its-not-always-about-making-things-easier-when-to-make-your-sign-up-flow-harder>
 
-2. **Make people feel like they already own it:the endowment effect**
+### Make people feel like they already own it:the endowment effect
 
 Switching email phrasing from "Join the program" to "Claim your welcome kit." drove a 120% increase in registration
 
 Experiment with designing products that allow the user to more quickly feel psychological ownership (a form of endowment). Your product is already theirs, and by not taking action, they may lose the opportunity to benefit from it.
 
-3. **Lean into existing behavior, and then make it easier:friction**
+### Lean into existing behavior, and then make it easier: friction
 
 Lean into what people are already doing, and then make it easier for them
 
-4. **Get commitments on day one:mental models**
+### Get commitments on day one:mental models
 
 Day 1 is the day your users have the most momentum they will ever have. Catching them at this moment with the right features and mental model will drive higher opt-in rates and engagement than at any other time in the user's lifecycle.
 
 ## 5 actionable behavioral design strategies
 
-1. A literature review
+### 1. A literature review
 
-2. Pick a key behavior
+### 2. Pick a key behavior
 
-3. Behavioral map
+### 3. Behavioral map
 
 ![image](../../media/Product-Management_Behavioral-Design-Economics-image3.jpg)
 
-4. Identify the psychologies at play
+### 4. Identify the psychologies at play
 
 Humans tend to follow the path of least resistance and respond to immediate incentives
 
 ![image](../../media/Product-Management_Behavioral-Design-Economics-image4.jpg)
 
-5. Conduct theory-based experiments
+### 5. Conduct theory-based experiments
 
 ![image](../../media/Product-Management_Behavioral-Design-Economics-image5.jpg)
 
@@ -66,38 +66,44 @@ Humans tend to follow the path of least resistance and respond to immediate ince
 
 ## Hooked Model
 
-- Trigger
-  - Classical triggers
-    - Boredom - Instagram
-    - Hunger - Zomato
-    - Need to go out - Ola/Uber
-  - External triggers
-    - Notifications
-- Action
-- Variable reward system
-  - Adrenaline rush
-  - When a creature is rewarded in a random unpredictable pattern, that creature get addicted to carry out that action again and again
-  - Increase and decrease difficulty, difficult to win 10 games in a row
-  - Infinite loop phenomenon
-    - Bottomless bowl
-      - 73% more than normal bowl subjects
-      - If there isn't a visual cue to indicate the quantity of consumption and experience is left unhindered and by default it will lead to excessive consumption and most importantly, inspite of excessive consumption, the subject will still be unsatisfied, leading to more consumption
-      - Shower
-        - No idea how much water you are consuming
-        - Lose track of time
-        - Left with slight urge to shower more
-    - Bottomless scroll
-- Investment
-  - In-app purchases
-  - Delete facebook
-    - Might contact your friends later, but never
-    - Perceived value of facebook has increased because of the connections
+Hooked: How to Build Habit-Forming Products by Nir Eyal
+
+### Trigger
+
+- Classical triggers
+  - Boredom - Instagram
+  - Hunger - Zomato
+  - Need to go out - Ola/Uber
+- External triggers
+  - Notifications
+
+### Action
+
+Variable reward system
+
+- Adrenaline rush
+- When a creature is rewarded in a random unpredictable pattern, that creature get addicted to carry out that action again and again
+- Increase and decrease difficulty, difficult to win 10 games in a row
+- Infinite loop phenomenon
+  - Bottomless bowl
+    - 73% more than normal bowl subjects
+    - If there isn't a visual cue to indicate the quantity of consumption and experience is left unhindered and by default it will lead to excessive consumption and most importantly, inspite of excessive consumption, the subject will still be unsatisfied, leading to more consumption
+  - Shower
+    - No idea how much water you are consuming
+    - Lose track of time
+    - Left with slight urge to shower more
+- Bottomless scroll
+
+### Investment
+
+- In-app purchases
+- Delete facebook
+  - Might contact your friends later, but never
+  - Perceived value of facebook has increased because of the connections
 
 Hooked Workbook - to understand customers
 
 <https://www.nirandfar.com/download/hooked-workbook.pdf>
-
-Hooked: How to Build Habit-Forming Productsby Nir Eyal
 
 ## Habituation
 

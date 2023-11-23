@@ -1,6 +1,8 @@
 # People Management
 
-- [people-team-management-culture](management/people-management/people-team-management-culture.md)
-- [culture](management/people-management/culture.md)
-- [mentoring-teaching-coaching-leading-leader-leadership](management/people-management/mentoring-teaching-coaching-leading-leader-leadership.md)
-- [remote-working-teams](management/people-management/remote-working-teams.md)
+- [People / Team Management](management/people-management/people-team-management.md)
+- [Culture](management/people-management/culture.md)
+- [Mentoring / Leading](management/people-management/mentoring-teaching-coaching-leading-leader-leadership.md)
+- [Types of Leadership](management/people-management/types-of-leadership.md)
+- [Leadership Interview Questions](management/people-management/leadership-interview-questions.md)
+- [Remote Working Teams](management/people-management/remote-working-teams.md)

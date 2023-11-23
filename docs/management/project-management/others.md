@@ -28,18 +28,16 @@ Command + / - Show shortcuts
   - [Flexbot](https://zapier.com/blog/best-free-slack-apps/#flexbot): Encourage healthy habits, automatically
   - [GoodRipple](https://zapier.com/blog/best-free-slack-apps/#goodripple): Spread happiness throughout your company
   - [Stop, Breathe & Think](https://zapier.com/blog/best-free-slack-apps/#stopbreathethink): Practice mindfulness at work
-  - Birthdaybot
+  - Birthday bot
 - **PTO requests and shift management**
   - [TimeBot](https://zapier.com/blog/best-free-slack-apps/#timebot): Manage vacation time, sick leave, and holidays
   - AttendanceBot
   - Doodle Bot
 - **Others**
-  - **Poly/Polly (Pulse Survey)**
+  - Poly/Polly (Pulse Survey)
 
 <https://forms.gle/ZhbT6fPhZefMkBpMA>
-
 <https://www.polly.ai/template/team-happiness-pulse-survey>
-
 <https://www.polly.ai/template/remote-pulse-check-in>
 
 ## Company Pulse
@@ -71,7 +69,7 @@ Command + / - Show shortcuts
 
 The workflows you create in Zapier are called Zaps, and they can automate many common tasks for you - like adding items to your to-do list or updating leads in your CRM.
 
-- [**https://workstreams.ai/**](https://workstreams.ai/)
+[https://workstreams.ai/](https://workstreams.ai/)
 
 <https://snacknation.com/blog/best-slack-apps>
 

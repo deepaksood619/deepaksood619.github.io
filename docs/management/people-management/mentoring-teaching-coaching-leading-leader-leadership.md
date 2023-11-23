@@ -1,4 +1,4 @@
-# Mentoring / Teaching / Coaching / Leading / Leader / Leadership
+# Mentoring / Leading
 
 Leadership is the ability to guide, support, and nurture others. Leaders are adept at finding ways for others to be at their best.
 
@@ -70,7 +70,7 @@ To inspire better conversations with your manager, direct reports, and team next
 
 ## Carrot vs Stick
 
-CarrotandStickApproach of Motivation. ... Thecarrotis a reward for moving while thestickis the punishment for not moving and hence making him move forcefully. Thus, an individual is givencarroti.e. reward when he performs efficiently and is jabbed with astick oris given a punishment in case of non-performance.
+Carrot and Stick Approach of Motivation. ... The carrot is a reward for moving while the stick is the punishment for not moving and hence making him move forcefully. Thus, an individual is given carrot i.e. reward when he performs efficiently and is jabbed with a stick or is given a punishment in case of non-performance.
 
 ## Leaders
 
@@ -93,50 +93,17 @@ Good business leaders create a vision, articulate the vision, passionately own t
 - Everyone has a voice
 - Software is a team sport
 
-## Types of Leadership
+### 9 Traits of Exceptional Leaders
 
-1. Transformational leadership
-2. Situational leadership
-3. Authoritarian leadership
-4. Bureaucratic leadership
-
-    As the cousin of the autocratic style, bureaucratic leadership runs on rules, policy, and maintaining the status quo. The standard procedure always wins out. Proponents of this style will listen to employees, and may even acknowledge their good ideas, but if those ideas don't fit within the established system, they'll never get the green light.
-
-5. Democratic leadership
-
-    The democratic approach to leadership relies on every team member providing input to help the team move towards the best decisions. The leader may still ultimately make the call, but it will likely be in sync with the conversations that have been happening across the team.
-
-6. Coaching leadership
-
-    Coach-style leaders look at their team members and see oodles of potential that can be unleashed and tapped into to help the company grow. As such, coaching leadership relies on your ability to connect your team's capabilities to the right strategic opportunities. Chances are, you enjoy working with a wide variety of people and often make a massive positive impact.
-
-7. Visionary leadership
-
-    Also known as "transformational leadership," this is the style most often revered in organizations that prioritize growth. Because you're constantly challenging employees to not just meet, but exceed their goals, this leadership style requires dynamic communication skills to win people over to your vision of what's possible -- both for themselves and for the company.
-
-8. Servant leadership
-
-    The founding principles of servant leadership include nine behaviors:
-
-      1. Serve first
-      2. Add value to others
-      3. Build trust
-      4. Listen to understand
-      5. Think about your thinking
-      6. Increase your influence
-      7. Demonstrate courage
-      8. Live your values
-      9. Live your transformation
-
-      In other words, you're the type of leader who is focused on elevating their team members first, knowing that their success reflects well on you and that your own reward will follow. And, chances are, morale on your team is consistently high.
-
-9. Laissez-faire leadership
-
-    This ultra-hands-off style of leadership essentially transfers all authority to employees. You're always there to hook them up with whatever resources they need, but then you let them run with it while you attend to other matters. This means your team members can take more ownership of their roles in creative ways, which can be sooooooo empowering.
-
-<https://www.atlassian.com/blog/quiz/find-your-leadership-style-examples>
-
-![image](../../media/Mentoring-Teaching-Coaching-Leading-Leader-Leadership-image2.jpg)
+1. Respect - They always respect their people
+2. Authenticity - They can't faked authenticity.
+3. Communication - They are great communicators
+4. Humility - Staying humble enables them to stay connected to their team.
+5. Accountability - They hold themselves accountable and expect the same of their people.
+6. Lead by Example - They model the behavior they expect.
+7. Empathy - Without empathy, they can't build a team or nurture a new generation of leaders.
+8. Visionary - They are driven and inspired by what the future can become.
+9. Care - They show genuine care for their team.
 
 ## Executive Presence
 
@@ -189,43 +156,6 @@ Trillion dollar coach - Bill Campbell
 ## Teaching
 
 [How Schools Can Nurture Every Student's Genius | Trish Millines Dziko | TED](https://www.youtube.com/watch?v=SUDMIA23_5s)
-
-## Interview Questions
-
-### Can you tell me about a time when you demonstrated leadership capabilities on the job?
-
-While I was working for my last employer, I was given a special project to oversee. It was my responsibility to ensure it was a success, including coordinating the work of other team members. To keep things on target, I scheduled a strategy meeting to divvy up duties and create a timeline. While also working through my tasks, I reached out regularly to monitor the team's progress, offering guidance and support as necessary to ensure everyone stayed motivated and that deadlines would be met. Ultimately, the project was a success, finishing on time and with all deliverables meeting or exceeding expectations."
-
-### Which supporting skills do you think are most important when it comes to leadership?
-
-First, I think that communication skills are crucial. I regularly use active listening when communicating with others, ensuring I fully understand their perspective. Additionally, since I've regularly worked with stakeholders who don't have the same level of specialty expertise, I've found that the ability to take complex ideas and simplify them is paramount for success. However, communication alone isn't enough. **Accountability** is also vital, as it allows me to lead by example. Similarly, critical thinking is a core component for strategic planning, and served me well when I lead a project with my past employer, which was completed on time and ultimately exceeded expectations.
-
-### When there is a disagreement on your team, how do you handle it?
-
-When there's a disagreement, my first step is to understand the perspective of each person involved. I use active listening skills, giving each party my full attention. I'll summarize my understanding of the situation, asking probing questions to gain additional clarity as required. At that point, my goal is to facilitate conversations that lead to resolutions. Using a calm and respectful approach, I'll work with the involved parties to find a reasonable compromise, brainstorming, and discussing ideas until a suitable option is found. The process ensures everyone can learn more about the other's perspective and that the resolution is a collaborative venture.
-
-1. Tell me about the hardest decision you've ever made as a leader. How did you decide which course of action was best?
-2. What steps do you take to make sure that projects are completed on time, on budget, and to the proper standard?
-3. How would you describe your leadership style? How would your colleagues describe it?
-4. Can you tell me about a time where you faced a leadership challenge? What did you do to overcome it?
-5. If a team member is under performing, what steps do you take to improve their performance?
-6. Have you ever taken on a leadership role voluntarily? If so, can you tell me about it?
-7. Tell me about your approach to delegation.
-8. Can you describe a time when you lead by example?
-9. Have you ever served in a coach or mentor role? How were you able to help the other person achieve success?
-10. How do you monitor a team's performance?
-11. If a team is struggling to stay motivated, what steps would you take to boost engagement?
-12. When a member of your team presents you with an idea, how do you respond?
-13. Which of your past managers was your favorite leader, and why?
-14. Are there any leaders that inspire you?
-15. How do you respond to constructive criticism?
-16. What approach do you use when you need to deliver constructive criticism?
-17. What steps do you take to measure your personal performance at work?
-18. During your first days in the job, are there any changes that you try to implement immediately?
-19. When starting with a new team, how do you evaluate the current state of their capabilities?
-20. What do you think is most important in creating a positive culture?
-21. How do you determine who gets access to professional development or training?
-22. If your project became unexpectedly shorthanded, what would you do to ensure it stayed on target?
 
 ## STAR Method
 

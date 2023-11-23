@@ -1,4 +1,4 @@
-# People / Team Management / Culture
+# People / Team Management
 
 I am available anytime, I can mentor, Any help you need you can always come to me. -- Deepak
 
@@ -29,13 +29,13 @@ Fool me once, shame on you. Fool me twice, shame on me. Fool me three times, sha
 - As long as the task involved only mechanical skill, bonuses worked as they would be expected: the higher the pay, the better the performance.
 - But once the task called for "even rudimentary cognitive skill," a larger reward "led to poorer performance."
 - Higher incentives led to worse performances
-- Financial incentives, can resullt in a negative impact on overall performance
+- Financial incentives, can result in a negative impact on overall performance
 - New approach - intrinsic motivation
-  - Autonomy
-    - Traditional management is great if you want compliance, but if you want engagement self-direction works better
-    - 20 percent time
-  - Mastery
-  - Purpose
+	- Autonomy
+		- Traditional management is great if you want compliance, but if you want engagement self-direction works better
+		- 20 percent time
+	- Mastery
+	- Purpose
 
 ## Psychological Safety
 
@@ -63,17 +63,19 @@ Creating **psychological safety** in the workplace for learning, innovation, and
 - When leaders are curious and admit that they don't know everything, people are encouraged to speak up
 - When people take risks and speak up, it's important for leaders to respond productively
 - You don't have to be a leader to help create a fearless work environment
-  - I need help
-  - I don't know
-  - I made a mistake
-  - What challenges are you facing?
-  - What can I do to help you?
+	- I need help
+	- I don't know
+	- I made a mistake
+	- What challenges are you facing?
+	- What can I do to help you?
 
 ![image](../../media/People-Team-Management-Culture-image1.jpg)
 
 ![image](../../media/People-Team-Management-Culture-image2.jpg)
 
-![image](../../media/People-Team-Management-Culture-image3.jpg)
+Let your team know
+- Over-communication is helpful - The more everyone proactively shares progress + concerns, the better.
+- Empathize empathy - Not sure what someone meant by their note? Assume positive intent. Feeling bothered by the way someone communicated their request? Kindly share the feedback of what you observed + how you'd like things to be different next time.
 
 [Work Principles](https://deepstash.com/idea/58882/work-principles)
 
@@ -92,26 +94,26 @@ Creating **psychological safety** in the workplace for learning, innovation, and
 - Use tools and protocols to shape how work is done
 - **Don't overlook governance.**
 
-Mentors-- Does the firm prioritize mentorship? Do employees feel like they have advocates within the firm? Do the mentees eventually become the mentors?
+Mentors - Does the firm prioritize mentorship? Do employees feel like they have advocates within the firm? Do the mentees eventually become the mentors?
 
-Trust-- Do people at the firm trust those around and above them? If younger employees look left and right in a meeting, do they admire these people? Do they aspire to be in their bosses' shoes in the future?
+Trust - Do people at the firm trust those around and above them? If younger employees look left and right in a meeting, do they admire these people? Do they aspire to be in their bosses' shoes in the future?
 
-Strategy-- Do the "higher ups" value their employees' opinions? Do they encourage open discussions or do they "steer" the conversation? Do they value differing opinions or just say they do?
+Strategy - Do the "higher ups" value their employees' opinions? Do they encourage open discussions or do they "steer" the conversation? Do they value differing opinions or just say they do?
 
-Recruiting-- What types of qualities does the firm prioritize when hiring? How much emphasis is placed on character versus sheer intellectual horsepower? Where do they recruit from?
+Recruiting - What types of qualities does the firm prioritize when hiring? How much emphasis is placed on character versus sheer intellectual horsepower? Where do they recruit from?
 
-Accountability-- How has the firm handled disruptive colleagues? Are the most talented colleagues given exceptions or are they held to the same standard? How are good team players acknowledged and rewarded?
+Accountability - How has the firm handled disruptive colleagues? Are the most talented colleagues given exceptions or are they held to the same standard? How are good team players acknowledged and rewarded?
 
 <https://blog.trello.com/hold-team-accountable-without-micromanaging>
 
-The fundamental principle of the situational leadership model is that there is **no single "best" style of leadership**. Effective leadership is task-relevant, and the most successful leaders are those who adapt their leadership style to theperformance readiness(ability and willingness) of the individual or group they are attempting to lead or influence. Effective leadership varies, not only with the person or group that is being influenced, but it also depends on the task, job, or function that needs to be accomplished
+The fundamental principle of the situational leadership model is that there is **no single "best" style of leadership**. Effective leadership is task-relevant, and the most successful leaders are those who adapt their leadership style to the performance readiness (ability and willingness) of the individual or group they are attempting to lead or influence. Effective leadership varies, not only with the person or group that is being influenced, but it also depends on the task, job, or function that needs to be accomplished.
 
 <https://en.wikipedia.org/wiki/Situational_leadership_theory>
 
 - Depends on
-  - Skill
-  - Motivation
-  - Urgency
+	- Skill
+	- Motivation
+	- Urgency
 
 ![image](../../media/People-Team-Management-Culture-image4.jpg)
 
@@ -120,10 +122,10 @@ The fundamental principle of the situational leadership model is that there is *
 ![image](../../media/People-Team-Management-Culture-image6.jpg)
 
 - Three are many ways to lead
-  - Coach
-  - Shepherd
-  - Shaman
-  - Champion
+	- Coach
+	- Shepherd
+	- Shaman
+	- Champion
 - Saying no
 
 ![image](../../media/People-Team-Management-Culture-image7.jpg)
@@ -170,7 +172,7 @@ Move from Maker to Multiplier mode
 
 ## KRA - Key Result Areas
 
-1. Complexity/Innovation- Task Based
+1. Complexity / Innovation- Task Based
 2. Code Quality
 3. Communication with project owner
 4. Responsibility and Teamwork.
@@ -187,34 +189,33 @@ Move from Maker to Multiplier mode
 - Alerting
 - **Finding problems proactively**
 - **Participating in knowledge sharing (Tech sessions)**
-
-- **Understanding the specifications**for the "thing" you are about to implement.
+- **Understanding the specifications** for the "thing" you are about to implement.
 - **Estimating time** required to implement something.
 - **Communications skills** and clearness in your reporting and communication.
-- **Knowledge in the programming languages**you use.
-- **Knowledge in the libraries**you use.
-- **Knowledge in the tool-sets**you use.
+- **Knowledge in the programming languages** you use.
+- **Knowledge in the libraries** you use.
+- **Knowledge in the tool-sets** you use.
 - **Analytical thinking** and experience (practical when you design the architecture of the "thing" prior to coding it).
-- **Technological understanding**(ability to see your new "thing" in a wider perspective, for example how a small library fit into a large project or product).
+- **Technological understanding** (ability to see your new "thing" in a wider perspective, for example how a small library fit into a large project or product).
 - **Creativity**(finding better ways to achieve your projects goals).
 - **Planning**
-- **Coding**(testable code, clean reusable code, maintainable code, readable code, bug-free code, beautiful code).
-- **Correctness**(few bugs, few iterations with refactoring).
-- **Application performance**(the application does what it's supposed to do without wasting CPU, memory or other resources).
-- **Learning**(your ability to learn about and use new technologies, protocols, libraries, or even languages as needed).
-- **Durability**(to stay on track no matter what, even when you feel dead bored, or in way over your head).
+- **Coding** (testable code, clean reusable code, maintainable code, readable code, bug-free code, beautiful code).
+- **Correctness** (few bugs, few iterations with refactoring).
+- **Application performance** (the application does what it's supposed to do without wasting CPU, memory or other resources).
+- **Learning** (your ability to learn about and use new technologies, protocols, libraries, or even languages as needed).
+- **Durability** (to stay on track no matter what, even when you feel dead bored, or in way over your head).
 
 ## Effectiveness
 
 - Actual delivery time vs Estimated delivery time
 - One time successful delivery vs Total delivery
-- Overall accomplish time: issue created time to issue resolved time.
+- Overall accomplish time - issue created time to issue resolved time
 
 ## Quality
 
 - Avg code review score
 - Re-do work counts
-- Bug Reports: Total vs Critical
+- Bug Reports - Total vs Critical
 
 ## Productivity
 
@@ -238,7 +239,7 @@ Logically segment the business into micro-subdomains, so that each can be suppor
 - Talk to people in party, motivate them to scale up and take ownership, give esops, give them vision, give them bigger goals, get them motivated instead of talking about other things
 - Intrinsic motivated people, who are themselves motivated and everyone should get out of their way, extrinsic when people are motivated by external pressure or force or incentives
 
-## Performance reviews (Engineering reviews) (Engineering
+## Performance reviews (Engineering reviews)
 
 <https://blog.pragmaticengineer.com/performance-reviews-for-software-engineers>
 
@@ -250,7 +251,7 @@ Logically segment the business into micro-subdomains, so that each can be suppor
 
 ## Bus Factor
 
-A project'sbus factor(or truck factor) is a number equal to the number of team members who, if run over by a bus, would put the project in jeopardy. The smallest bus factor is 1. Larger numbers are preferable. Essentially, a low bus factor represents a single point of failure within the team.
+A project's bus factor (or truck factor) is a number equal to the number of team members who, if run over by a bus, would put the project in jeopardy. The smallest bus factor is 1. Larger numbers are preferable. Essentially, a low bus factor represents a single point of failure within the team.
 
 <https://deviq.com/bus-factor>
 
@@ -260,18 +261,39 @@ Escalation matrix
 
 ![image](../../media/People-Team-Management-Culture-image12.jpg)
 
-[**https://klinger.io/posts/managing-people-%F0%9F%A4%AF**](https://klinger.io/posts/managing-people-%F0%9F%A4%AF)
+### [**Managing people**](https://klinger.io/posts/managing-people-%F0%9F%A4%AF)
 
-- There is no point being angry at your team -- ever
-- You are in charge of processes and people
-  - And you got more information than they do, always
-- You either created the processes where this outcome happened
-  - or you hired (or did not fire) the wrong people
-- Ultimately everything is your fault
+- As a manager, everything is your fault
+	- There is no point being angry at your team -- ever
+	- You are in charge of processes and people
+		- And you got more information than they do, always
+	- You either created the processes where this outcome happened
+		- or you hired (or did not fire) the wrong people
+	- Ultimately everything is your fault
+- You manage processes; you lead people
+- Processes are expectations made explicit
+- Decisions vs Opinions
+- Ownership
+- Avoid back and forth
+- Trust
+- Trust through transparency
+- Trust is not binary
+- Don't confuse autonomy and abandonment
+- Decision Layering
+- Avoid drive-by management
+- Feedbacking people
+- Firing should never be a surprise
+- Never delay firing
+- Explicit > Implicit
+- Best practices: Start by making true what's real
+- Expect to refactor your company every few months
+- Burnout
+- Chaos is felt less by the people creating it
+- Expect more from managers that report from you
 
 ## Feedbacks
 
-- What would you say is my biggest strength?
+**What would you say is my biggest strength?**
 
 This is a question that I love asking my manager and peers because I experience imposter syndrome a lot more than I'd like to admit. Asking this question tackles two things: getting feedback from those around me and squashing feelings of imposter syndrome as they creep up.
 
@@ -283,7 +305,7 @@ This is a question that I love asking my manager and peers because I experience 
 - Move up / out
 - Fail fast, Fail often
 - Take ownership
-- Excecute well, Execute quickly
+- Execute well, Execute quickly
 - Process Orientation
 - Customer centricity
 - Innovate
@@ -359,6 +381,8 @@ This is a question that I love asking my manager and peers because I experience 
 
 I am so sad man, you didn't reply to me. I tried reaching out to you.
 
+### Rebuttal
+
 I have been observing interactions between you & my team.
 
 My understanding is that you agreed to do a project, deliverables were clear & they were not met. Even the first milestone was not achieved by you, no question of it being close to agreed timelines.
@@ -372,6 +396,8 @@ If you wish to take this forward & threaten my team in any way then we will be f
 I hope your intention is not to threaten or escalate this matter & it is an error in my interpretation. If so please excuse me.
 
 Please note that we can't take threats of legal action lightly so hopefully you see sense in this and retract that claim.
+
+### Others
 
 - Anger
 - Fear
