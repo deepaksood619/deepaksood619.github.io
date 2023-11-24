@@ -1,31 +1,52 @@
 # Vault
 
 Vault is a tool for securely accessing *secrets*. A secret is anything that you want to tightly control access to, such as API keys, passwords, or certificates. Vault provides a unified interface to any secret, while providing tight access control and recording a detailed audit log.
+
 Vault was built to solve the secret sprawl problem in a user-friendly and auditable way. Just as immutable infrastructure gives operations certainty in server configurations and eliminates drift, Vault gives security certainty in when, where, and how secrets are being used across a system. It is the central source of security truth for modern architectures.
 
 ## Features
 
-- **Secure Secret Storage**
+### Secure Secret Storage
 
-Arbitrary key/value secrets can be stored in Vault. Vault encrypts these secrets prior to writing them to persistent storage, so gaining access to the raw storage isn't enough to access your secrets. Vault can write to disk, [Consul](https://www.consul.io/), and more.- **Dynamic Secrets**
+Arbitrary key/value secrets can be stored in Vault. Vault encrypts these secrets prior to writing them to persistent storage, so gaining access to the raw storage isn't enough to access your secrets. Vault can write to disk, [Consul](https://www.consul.io/), and more.
 
-Vault can generate secrets on-demand for some systems, such as AWS or SQL databases. For example, when an application needs to access an S3 bucket, it asks Vault for credentials, and Vault will generate an AWS keypair with valid permissions on demand. After creating these dynamic secrets, Vault will also automatically revoke them after the lease is up. Thus, even if the system is breached, the attacker only has a short window of opportunity before the secret gets re-generated and access is revoked.- **Data Encryption**
+### Dynamic Secrets
 
-Vault can encrypt and decrypt data without storing it. This allows security teams to define encryption parameters and developers to store encrypted data in a location such as SQL without having to design their own encryption methods.- **Leasing and Renewal**
+Vault can generate secrets on-demand for some systems, such as AWS or SQL databases. For example, when an application needs to access an S3 bucket, it asks Vault for credentials, and Vault will generate an AWS keypair with valid permissions on demand. After creating these dynamic secrets, Vault will also automatically revoke them after the lease is up. Thus, even if the system is breached, the attacker only has a short window of opportunity before the secret gets re-generated and access is revoked.
 
-All secrets in Vault have aleaseassociated with them. At the end of the lease, Vault will automatically revoke that secret. Clients are able to renew leases via built-in renew APIs.- **Revocation**
+### Data Encryption
 
-Vault has built-in support for secret revocation. Vault can revoke not only single secrets, but a tree of secrets, for example all secrets read by a specific user, or all secrets of a particular type. Revocation assists in key rolling as well as locking down systems in the case of an intrusion.- **Limit the internal surface area of a breach to a single application instance**
+Vault can encrypt and decrypt data without storing it. This allows security teams to define encryption parameters and developers to store encrypted data in a location such as SQL without having to design their own encryption methods.
 
-Fine-grained ACLs lets Vault grants specific, limited communication permissions for each secret. If a secret is compromised, it only provides access to a single service and not the entire infrastructure. In many existing security managers, obtaining one key will let an attacker have free reign throughout the system.- **Generate an audit trail of service communication**
+### Leasing and Renewal
 
-Each time a secret is generated it creates an audit log which can be used to determine the specific compromised resource in the datacenter. For example, if an application that does not have access to a database attempts to make a connection, it is clear that there has been a compromise. The audit log can be used by operators and security teams to pinpoint tainted servers and take the proper steps to restore the security of the system as a whole. It is important to note that secrets are generatedafterthe log is stored, meaning that all access actions are guaranteed to be logged. If for some reason the log cannot be written, the secret will not be generated.- **Simplify security for large operations and infrastructures**
+All secrets in Vault have aleaseassociated with them. At the end of the lease, Vault will automatically revoke that secret. Clients are able to renew leases via built-in renew APIs.
 
-Often the biggest hurdle to proper security is the complexity of the implementing the security solution. With simple installation and setup, Vault lowers the barrier to entry for organizations to use responsible secret management to secure their distributed infrastructure. Secrets can be written from the command line or the [complete HTTP API](http://www.google.com/url?q=http%3A%2F%2Fvaultproject.io%2Fdocs%2Fhttp%2Findex.html&sa=D&sntz=1&usg=AFQjCNFDA0tQawMLYkAwPLjf-UZLCImSPw).- **In-transit data encryption**
+### Revocation
 
-Vault can encrypt and decrypt data without storing it. Security teams can define encryption parameters and store encrypted data in a location such as a SQL database without having to design a custom encryption method. You can read more about [how HashiCorp's Atlas uses Vault to encrypt GitHub OAuth tokens](https://www.google.com/url?q=https%3A%2F%2Fhashicorp.com%2Fblog%2Fhow-atlas-uses-vault-for-managing-secrets.html&sa=D&sntz=1&usg=AFQjCNHM-BUqX0jdzPzHtH1Wx88qQw-yJA).- **High-availability**
+Vault has built-in support for secret revocation. Vault can revoke not only single secrets, but a tree of secrets, for example all secrets read by a specific user, or all secrets of a particular type. Revocation assists in key rolling as well as locking down systems in the case of an intrusion.
 
-High-availability is a requirement for large-scale infrastructures to protect against service outages. Vault can run in multi-server mode when using a [backend that supports it](https://www.google.com/url?q=https%3A%2F%2Fvaultproject.io%2Fdocs%2Fconcepts%2Fha.html&sa=D&sntz=1&usg=AFQjCNGaIQAyr3T1AgRc__VI7utYGAx-Jg), such as Consul or etcd.- **Authentication methods**
+### Limit the internal surface area of a breach to a single application instance
+
+Fine-grained ACLs lets Vault grants specific, limited communication permissions for each secret. If a secret is compromised, it only provides access to a single service and not the entire infrastructure. In many existing security managers, obtaining one key will let an attacker have free reign throughout the system.
+
+### Generate an audit trail of service communication
+
+Each time a secret is generated it creates an audit log which can be used to determine the specific compromised resource in the datacenter. For example, if an application that does not have access to a database attempts to make a connection, it is clear that there has been a compromise. The audit log can be used by operators and security teams to pinpoint tainted servers and take the proper steps to restore the security of the system as a whole. It is important to note that secrets are generated after the log is stored, meaning that all access actions are guaranteed to be logged. If for some reason the log cannot be written, the secret will not be generated.
+
+### Simplify security for large operations and infrastructures
+
+Often the biggest hurdle to proper security is the complexity of the implementing the security solution. With simple installation and setup, Vault lowers the barrier to entry for organizations to use responsible secret management to secure their distributed infrastructure. Secrets can be written from the command line or the [complete HTTP API](http://www.google.com/url?q=http%3A%2F%2Fvaultproject.io%2Fdocs%2Fhttp%2Findex.html&sa=D&sntz=1&usg=AFQjCNFDA0tQawMLYkAwPLjf-UZLCImSPw).
+
+### In-transit data encryption
+
+Vault can encrypt and decrypt data without storing it. Security teams can define encryption parameters and store encrypted data in a location such as a SQL database without having to design a custom encryption method. You can read more about [how HashiCorp's Atlas uses Vault to encrypt GitHub OAuth tokens](https://www.google.com/url?q=https%3A%2F%2Fhashicorp.com%2Fblog%2Fhow-atlas-uses-vault-for-managing-secrets.html&sa=D&sntz=1&usg=AFQjCNHM-BUqX0jdzPzHtH1Wx88qQw-yJA).
+
+### High-availability
+
+High-availability is a requirement for large-scale infrastructures to protect against service outages. Vault can run in multi-server mode when using a [backend that supports it](https://www.google.com/url?q=https%3A%2F%2Fvaultproject.io%2Fdocs%2Fconcepts%2Fha.html&sa=D&sntz=1&usg=AFQjCNGaIQAyr3T1AgRc__VI7utYGAx-Jg), such as Consul or etcd.
+
+### Authentication methods
 
 Vault includes multiple methods for authentication so organizations can select the option that fits best with their setup. Vault [currently supports](https://www.google.com/url?q=https%3A%2F%2Fvaultproject.io%2Fdocs%2Fconcepts%2Fauth.html&sa=D&sntz=1&usg=AFQjCNFkbuRP8tVhRTt8aUYwQETkJZwFVw) tokens, username/password, GitHub, certificates, and more.
 
@@ -46,6 +67,7 @@ Vault includes multiple methods for authentication so organizations can select t
 ## Option 1: Distributing Tokens
 
 One reason you might want to do this instead of using approle is its easy to use envconsul or consul-template
+
 If distributing tokens directly:
 
 - use a token role, similar to what we do with approle roles
@@ -247,8 +269,6 @@ path "prod*" {
 <https://www.hashicorp.com/blog/dynamic-database-credentials-with-vault-and-kubernetes>
 
 [Kubernetes Secret Management guide beginners using Vault](https://www.youtube.com/playlist?list=PLHq1uqvAteVtq-NRX3yd1ziA_wJSBu3Oj)
-
-![image](../../media/Vault-image8.jpg)
 
 ## Comparison
 

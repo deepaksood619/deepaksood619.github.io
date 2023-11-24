@@ -76,3 +76,5 @@
 [https://mfi.engineering/money-forward-i-engineering-2022-9f5c8549798c](https://mfi.engineering/money-forward-i-engineering-2022-9f5c8549798c)
 
 [CTO Checklist. Being an engineering leader comes in… | by Tom Neal | Medium](https://medium.com/@tom-neal/cto-checklist-1a2ef3d6502)
+
+[Small Steps Are the Fastest Way Forward: Life Beyond Agile & Scrum • Sander Hoogendoorn • GOTO 2023 - YouTube](https://www.youtube.com/watch?v=OzCE4m9ERvU)

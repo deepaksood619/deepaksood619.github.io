@@ -13,6 +13,9 @@
 9. [Developer-First Observability with Micha “Mies” Hernandez van Leuffen](https://youtu.be/NSUXRfSXk1E?si=Fj6WvLAskYflCL21)
 10. [How Application-First Cloud Services are Changing the Game](https://youtu.be/D563l11sXyk?si=hCwT4YwVsu6AkApC)
 11. [Monte Carlo in Reinforcement Learning](https://youtu.be/sgj9gex39P0?si=t_RXeoRYIdLHXfoI)
+12. [Effective and Efficient Observability with OpenTelemetry - YouTube](https://www.youtube.com/watch?v=kh_IZlSj8DU)
+13. [130 People – No Bosses: Too Good To Be True? in 4 Minutes • Helle Markmann • GOTO 2023 - YouTube](https://www.youtube.com/watch?v=fR12tWwTLHo)
+14. [Quarkus Unveiled: Efficiency & Green Impact • Holly Cummins & Charles Humble • GOTO 2023 - YouTube](https://www.youtube.com/watch?v=7bvQXb3Nv0E)
 
 ## Podcasts
 

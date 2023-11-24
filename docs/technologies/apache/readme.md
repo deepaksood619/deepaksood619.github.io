@@ -11,7 +11,6 @@
 - [Apache Samza](apache-samza)
 - [Apache Flink](apache-flink)
 - [Apache Spark](apache-spark/readme.md)
-- [Databricks](technologies/apache/databricks/readme.md)
 - [CNCF](cncf)
 - [Airflow](airflow/readme.md)
 - [Celery](celery/readme.md)

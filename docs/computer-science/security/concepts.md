@@ -76,9 +76,9 @@ Information is accessed based on the responsibilities assigned to an actor or a 
 
 ## Entity vs Identity
 
-Entity is a **thing** that exists as an**individual unit** while identity is a**set of attributes that can be used to distinguish the entity within a context**.
+Entity is a **thing** that exists as an **individual unit** while identity is a **set of attributes that can be used to distinguish the entity within a context**.
 
-Let's assume we know Mike. He is a young man who lives in Poland. He is working as a software engineer for one of the local IT startups.**Mike is the entity.He has many identities**i.e. he can be defined as a young polish man in one context and as a promising software engineer in another. Other people may perceive Mike (entity) using different subsets of his attributes (identities).
+Let's assume we know Mike. He is a young man who lives in Poland. He is working as a software engineer for one of the local IT startups. **Mike is the entity.He has many identities**i.e. he can be defined as a young polish man in one context and as a promising software engineer in another. Other people may perceive Mike (entity) using different subsets of his attributes (identities).
 
 In the software world, your backend could be described as an entity. It's thething. Your UI application perceives it as a URL and a certificate (one identity). Your database, on the other hand, sees it as a different identity -- a set of credentials that grants access to the database.
 

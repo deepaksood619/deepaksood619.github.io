@@ -8,13 +8,13 @@ Snowflake adopts a shared-nothing architecture. It uses Amazon S3 for its underl
 
 Implementation of Snowflake began in late 2012 and has been generally available since June 2015.
 
-#### Concurrency Control 
+#### Concurrency Control
 
 [Multi-version Concurrency Control (MVCC)](https://dbdb.io/browse?concurrency-control=multi-version-concurrency-control-mvcc)
 
 Snowflake supports MVCC. As Snowflake's underlying data storage is done by Amazon S3, each write operation instead of performing writes in place, it creates a new entire file including the changes. The stale version of data is replaced by the newly created file, but is not deleted immediately. Snowflake allows users to define how long the stale version will be kept in S3, which is up to 90 days. Based on MVCC, Snowflake also supports time travel query.
 
-#### Data Model 
+#### Data Model
 
 [Relational](https://dbdb.io/browse?data-model=relational) [Document / XML](https://dbdb.io/browse?data-model=document-xml)
 
@@ -26,19 +26,19 @@ Snowflake is relational as it supports ANSI SQL and ACID transactions. It offers
 
 Snowflake supports defining and maintaining constraints, but does not enforce them, except for NOT NULL constraints, which are always enforced including foreign key constraint.
 
-#### Indexes 
+#### Indexes
 
 [Not Supported](https://dbdb.io/browse?indexes=not-supported)
 
 Snowflake does not support index, as maintaining index is expensive due to its architecture. Snowflake uses min-max based pruning, and other techniques to accelerate data access.
 
-#### Isolation Levels 
+#### Isolation Levels
 
 [Snapshot Isolation](https://dbdb.io/browse?isolation-levels=snapshot-isolation)
 
 According to their paper and talk, Snowflake supports Snapshot Isolation. However, according to their documentation, it is said that Read Committed is the only Isolation level that is supported.
 
-#### Joins 
+#### Joins
 
 [Hash Join](https://dbdb.io/browse?joins=hash-join)
 
@@ -46,23 +46,23 @@ According to their paper and talk, Snowflake supports Snapshot Isolation. Howeve
 
 [Not Supported](https://dbdb.io/browse?query-compilation=not-supported)
 
-#### Query Execution 
+#### Query Execution
 
 [Vectorized Model](https://dbdb.io/browse?query-execution=vectorized-model)
 
 Snowflake processes data in pipelined fashion, in batches of a few thousand rows in columnar format. It also uses a push instead of pull model as the relational operators push the intermediate results to their downstream operators.
 
-#### Query Interface 
+#### Query Interface
 
 [SQL](https://dbdb.io/browse?query-interface=sql)
 
-#### Storage Architecture 
+#### Storage Architecture
 
 [Disk-oriented](https://dbdb.io/browse?storage-architecture=disk-oriented)
 
 Snowflake's data storage is done via Amazon S3 service. Upon query execution, the responsible work nodes uses HTTP -based interface to read/write data. The worker node also uses its local disk as a cache.
 
-#### Storage Model 
+#### Storage Model
 
 [Hybrid](https://dbdb.io/browse?storage-model=hybrid)
 
@@ -72,7 +72,7 @@ Snowflake horizontally partitions data into large immutable files which are equi
 
 [Not Supported](https://dbdb.io/browse?stored-procedures=not-supported)
 
-#### System Architecture 
+#### System Architecture
 
 [Shared-Disk](https://dbdb.io/browse?system-architecture=shared-disk)
 

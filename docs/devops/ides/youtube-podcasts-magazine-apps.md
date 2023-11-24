@@ -164,6 +164,7 @@
 - Dhruv Rathee
 - [Soch by Mohak Mangal - YouTube](https://www.youtube.com/@sochbymm)
 - [BeerBiceps - YouTube](https://www.youtube.com/@BeerBiceps)
+- [Johnny Harris - YouTube](https://www.youtube.com/@johnnyharris)
 
 ## Others
 
@@ -221,7 +222,7 @@
 - [Deep Dive](https://www.youtube.com/channel/UCFPGKw4jb7CJur6cHmIgI3Q)-- a relatively new but very promising channel with great big-issue science videos.
 - [Stratzenblitz75](https://www.youtube.com/c/Stratzenblitz75/videos) Kerbal Space program videos with nice lessons on the science behind them (like orbital mechanics)
 - [Wendover Productions](https://www.youtube.com/user/Wendoverproductions)-- neat explanations of wide-ranging things, (including transportation logistics!)
-- Veritasium
+- [Veritasium - YouTube](https://www.youtube.com/@veritasium)
 - [Institute of Human Anatomy - YouTube](https://www.youtube.com/@TheAnatomyLab)
 
 ## Inventions and Building Stuff / Engineering

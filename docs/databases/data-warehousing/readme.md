@@ -15,5 +15,5 @@
 
 ### Others
 
-- [Databricks](technologies/apache/databricks/readme.md)
-- [10-medallion-architecture](technologies/apache/databricks/10-medallion-architecture.md)
+- [Databricks](technologies/databricks/readme.md)
+- [10-medallion-architecture](technologies/databricks/10-medallion-architecture.md)

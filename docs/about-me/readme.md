@@ -7,7 +7,7 @@
 - [Courses / Certifications](courses-certificates)
 - [Achievements / Activities / Awards](achievements-activities-awards)
 - [Social Links](social-links)
-- [FAQs](faqs)
+- [FAQs](about-me/faqs.md)
 - [Personality](about-me/personality.md)
 - [Ideas](ideas/readme.md)
 - [Soft Skills](../psychology/soft-skills/readme.md)

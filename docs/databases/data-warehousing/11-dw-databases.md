@@ -11,7 +11,7 @@
 9. MemSQL
 10. Presto
 11. FireBolt
-12. [Databricks](technologies/apache/databricks/readme.md)
+12. [Databricks](technologies/databricks/readme.md)
 
 ## Firebolt
 

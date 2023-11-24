@@ -61,3 +61,5 @@ brew install go
 <https://www.freecodecamp.org/news/learn-go-by-building-11-projects>
 
 [Writing our own Concurrent Thread safe Queue - YouTube](https://www.youtube.com/watch?v=oYoVx8ZuvTw)
+
+[Go Programming Tutorial – 3 Beginner Projects - YouTube](https://www.youtube.com/watch?v=k_V5VvYSlS4)

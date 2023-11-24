@@ -38,7 +38,7 @@ An AMI includes the following:
 - Launch permissions that control which AWS accounts can use the AMI to launch instances
 - A block device mapping that specifies the volumes to attach to the instance when it's launched
 
-## Structure101 - Architecure Development Environment
+Structure101 - Architecture Development Environment
 
 ## Resources
 
@@ -50,10 +50,7 @@ An AMI includes the following:
 
 ## Whitepapers
 
-<https://d1.awsstatic.com/whitepapers/architecture/AWS-Performance-Efficiency-Pillar.pdf>
-
-<https://d1.awsstatic.com/whitepapers/architecture/AWS-Reliability-Pillar.pdf>
-
-<https://d1.awsstatic.com/whitepapers/architecture/AWS-Cost-Optimization-Pillar.pdf>
-
-<https://d1.awsstatic.com/whitepapers/architecture/AWS-Operational-Excellence-Pillar.pdf>
+- <https://d1.awsstatic.com/whitepapers/architecture/AWS-Performance-Efficiency-Pillar.pdf>
+- <https://d1.awsstatic.com/whitepapers/architecture/AWS-Reliability-Pillar.pdf>
+- <https://d1.awsstatic.com/whitepapers/architecture/AWS-Cost-Optimization-Pillar.pdf>
+- <https://d1.awsstatic.com/whitepapers/architecture/AWS-Operational-Excellence-Pillar.pdf>

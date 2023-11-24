@@ -4,21 +4,22 @@
 2. sq. root(a.b) = sq. root(a) * sq. root(b), iff a and b both are not negative
 3. **Complex Number => i^2^ = - 1**
 
-   - Real part
-   - Imaginary part
-   - Principle Square Root
+- Real part
+- Imaginary part
+- Principle Square Root
 
 4. Complex Plane
-   - The horizontal number line (what we know as thexxx-axis on a Cartesian plane) is thereal axis.
-   - The vertical number line (theyyy-axis on a Cartesian plane) is theimaginary axis.
+
+- The horizontal number line (what we know as the xxx-axis on a Cartesian plane) is the real axis.
+- The vertical number line (the yyy-axis on a Cartesian plane) is the imaginary axis.
 
 5. Number Systems
 
-   - Counting number system ( greater than 0)
-   - Integer number system (positive and negative numbers)
-   - Rational number system (fractions)
-   - Real number system (decimals)
-   - Complex number system
+- Counting number system ( greater than 0)
+- Integer number system (positive and negative numbers)
+- Rational number system (fractions)
+- Real number system (decimals)
+- Complex number system
 
 6. Pure imaginary
 7. Adding and subtracting complex numbers
