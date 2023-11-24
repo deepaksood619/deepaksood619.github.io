@@ -117,7 +117,9 @@ Worked on core product development team, as a java developer and find novel solu
 
 Worked on core and advance java, face detection using Viola-Jones Algorithm, corner detection using fixed points, Live Video Streaming using ffmpeg.
 
-<http://cisocybersecurity.com/> <https://demo.digiproctor.com>
+<http://cisocybersecurity.com/>
+
+<https://demo.digiproctor.com>
 
 ## Internships
 
