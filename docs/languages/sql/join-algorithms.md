@@ -16,6 +16,25 @@ Used to join two data sets that are already sorted using the same key. A row fro
 
 <https://en.wikipedia.org/wiki/Sort-merge_join>
 
+#### Interesting order
+
+An interesting order in a sort-merge join occurs when the inputs to the join are produced by:
+
+- An index scan of a tree-based index
+- Another merge join
+- Some other plan operator that produces output sorted on an appropriate key
+
+A sort-merge join is a common join algorithm in database systems that uses sorting. It's particularly efficient for large datasets that can't fit in memory. The algorithm works by:
+
+1. Sorting both relations on the join attribute
+2. Merging the sorted relations by scanning them sequentially
+3. Looking for qualifying tuples
+4. Dividing the data into smaller chunks
+5. Sorting them independently
+6. Merging them in a distributed manner
+
+An operator has a flexible order requirement if it has more than one interesting sort order. For example, the merge-join operator has a flexible order requirement because every permutation of the join attributes is an interesting sort order.
+
 ### [hash join](https://en.wikipedia.org/wiki/Hash_join)
 
 Hash joins are typically more efficient than nested loops joins, except when the probe side of the join is very small. However, hash joins can only be used to compute equijoins.
@@ -34,6 +53,33 @@ A hashtable of the smaller data set is created, then SQL Server loops through th
 
 <https://en.wikipedia.org/wiki/Hash_join>
 
+### Hash Join vs Merge Join
+
+Hash joins are more efficient for large tables, while merge joins are better for joining sorted tables.
+
+#### Hash joins
+
+- Can only be used for equi-joins
+- Are better for joining large amounts of data in an equi-join
+- Generally perform better than sort merge joins
+- Use a hash table to join equi joins
+- Can cause an overflow condition in the hash table if:
+  - The hash index is greater than the main memory
+  - There are multiple tuples with the same join attribute values
+
+#### Merge joins
+
+- Are faster and use less memory than hash joins
+- Are more flexible than hash joins
+- Are used to join sorted tables
+- Are best for joining large and sorted and non-indexed inputs
+
+The PostgreSQL query planner automatically chooses the most appropriate join algorithm based on the query conditions and table statistics.
+
+[Difference between Hash Join and Sort Merge Join - GeeksforGeeks](https://www.geeksforgeeks.org/difference-between-hash-join-and-sort-merge-join/)
+
+[Hash Joins Versus Merge Joins](https://www.vertica.com/docs/9.3.x/HTML/Content/Authoring/AnalyzingData/Optimizations/HashJoinsVs.MergeJoins.htm)
+
 ### Left Anti Semi Join
 
 Left Anti Semi Join is the opposite of a [Left Semi Join](http://sqlity.net/en/1348/a-join-a-day-the-left-semi-join/). However, that does not make it a [right semi join](http://sqlity.net/en/1354/a-join-a-day-the-right-semi-join/). Instead "Anti" affects which rows are returned and which aren't. Like the Left Semi Join, the Left Anti Semi Join returns only rows from the left row source. Each row is also returned at most once. And duplicates are also not eliminated. However, other than the Left Semi Join, the Left Anti Semi Join returns only rows for which no match on the right side exists.
@@ -44,3 +90,7 @@ Left Anti Semi Join is the opposite of a [Left Semi Join](http://sqlity.net/en/1
 
 - Left Anti Join - [Left anti join - Power Query](https://learn.microsoft.com/en-us/power-query/merge-queries-left-anti)
 - Right Anti Join - [Right anti join - Power Query](https://learn.microsoft.com/en-us/power-query/merge-queries-right-anti)
+
+## Links
+
+[Internals of Physical Join Operators (Nested Loops Join, Hash Match Join & Merge Join) in SQL Server](https://www.sqlshack.com/internals-of-physical-join-operators-nested-loops-join-hash-match-join-merge-join-in-sql-server/)

@@ -70,11 +70,9 @@
 
 ## Presentations / Conference
 
-[Melanie Swan presentations | SlideShare](https://www.slideshare.net/lablogga/presentations)
-
-[The Business Blockchain | SlideShare](https://www.slideshare.net/wmougayar/presentations)
-
-[ETHGlobal - YouTube](https://www.youtube.com/@ETHGlobal)
+- [Melanie Swan presentations | SlideShare](https://www.slideshare.net/lablogga/presentations)
+- [The Business Blockchain | SlideShare](https://www.slideshare.net/wmougayar/presentations)
+- [ETHGlobal - YouTube](https://www.youtube.com/@ETHGlobal)
 
 ## Questions
 

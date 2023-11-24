@@ -24,4 +24,4 @@
 
 ## Links
 
-[Databricks](technologies/apache/databricks/readme.md)
+[Databricks](technologies/databricks/readme.md)

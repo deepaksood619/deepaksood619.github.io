@@ -44,6 +44,8 @@
 
 [What We Left Behind - 10 Valuable Skills From The 1990s - Garth Gilmour & Eamonn Boyle - GOTO 2020](https://www.youtube.com/watch?v=DrBPXSiUWbI)
 
+[Career Mistakes to Avoid as a Developer](https://www.freecodecamp.org/news/career-mistakes-to-avoid-as-a-dev/)
+
 ## Non Functional Requirements
 
 <https://en.wikipedia.org/wiki/Non-functional_requirement>

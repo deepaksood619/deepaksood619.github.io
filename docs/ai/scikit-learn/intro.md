@@ -12,3 +12,5 @@
 <http://scikit-learn.org/stable/tutorial/machine_learning_map>
 
 <http://scikit-learn.org/stable/modules/classes.html>
+
+[Machine Learning with Python and Scikit-Learn – Full Course - YouTube](https://www.youtube.com/watch?v=hDKCxebp88A)

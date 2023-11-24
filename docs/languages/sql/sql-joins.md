@@ -121,6 +121,14 @@ OR B.columnName IS NULL
 
 Self join is used to join a table to itself as if the table were two tables, temporarily renaming at least one table in the SQL statement
 
+```sql
+SELECT A1.*, A2.*
+FROM TableA A1
+JOIN TableA A2
+ON A1.id = A2.id
+WHERE A1.columnName < A.columnName
+```
+
 [Illustrated Guide About Self Join in SQL - StrataScratch](https://www.stratascratch.com/blog/illustrated-guide-about-self-join-in-sql)
 
 ### Cartesian Join
@@ -148,6 +156,33 @@ CROSS JOIN months
 WHERE start_month <= month
     AND end_month >= month
 GROUP BY month;
+```
+
+### Equi Join / equijoin / equi-join
+
+EQUI JOIN creates a JOIN for equality or matching column(s) values of the relative tables. EQUI JOIN also create JOIN by using JOIN with ON and then providing the names of the columns with their relative tables to check equality using equal sign (=).
+
+```sql
+SELECT student.name, student.id, record.class, record.city
+FROM student, record
+WHERE student.city = record.city;
+
+SELECT student.name, student.id, record.class, record.city
+FROM student
+JOIN record
+ON student.city = record.city;
+```
+
+[SQL | EQUI Join and NON EQUI JOIN - GeeksforGeeks](https://www.geeksforgeeks.org/sql-equi-join-and-non-equi-join/)
+
+### Non Equi Join / non-equi join
+
+NON EQUI JOIN performs a JOIN using comparison operator other than equal(=) sign like >, <, >=, <= with conditions.
+
+```sql
+SELECT student.name, record.id, record.city
+FROM student, record
+WHERE Student.id < Record.id ;
 ```
 
 ## [Joins 13 Ways](https://justinjaffray.com/joins-13-ways/)
