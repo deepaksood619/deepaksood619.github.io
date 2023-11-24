@@ -133,39 +133,6 @@ JanusGraph is a highly scalable [graph database](https://en.wikipedia.org/wiki/G
 
 [https://docs.janusgraph.org](https://docs.janusgraph.org/)
 
-## ClickHouse
-
-ClickHouse is anopensourcecolumn-oriented database management system capable ofrealtime generation of analytical data reports usingSQLqueries.
-
-**Key Features**
-
-- True column-oriented storage
-- Vectorized query execution
-- Data compression
-- Parallel and distributed query execution
-- Real time query processing
-- Real time data ingestion
-- On-disk locality of reference
-- Cross-datacenter replication
-- High availability
-- SQL support
-- Local and distributed joins
-- Pluggable external dimension tables
-- Arrays and nested data types
-- Approximate query processing
-- Probabilistic data structures
-- Full support of IPv6
-- Features for web analytics
-- State-of-the-art algorithms
-- Detailed documentation
-- Clean documented code
-
-<https://clickhouse.yandex>
-
-<https://github.com/yandex/ClickHouse>
-
-Used by - Zerodha
-
 ## tidb
 
 TiDB ("Ti" stands for Titanium) is an open-source NewSQL database that supports Hybrid Transactional and Analytical Processing (HTAP) workloads. It is MySQL compatible and features horizontal scalability, strong consistency, and high availability.

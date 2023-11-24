@@ -1,8 +1,8 @@
 # DW - Databases
 
 1. SnowFlake
-2. AWS Redshift
-3. Snowflake
+2. Clickhouse
+3. AWS Redshift
 4. AWS Athena
 5. Google BigQuery
 6. Elastic
@@ -13,7 +13,9 @@
 11. FireBolt
 12. [Databricks](technologies/apache/databricks/readme.md)
 
-## A new class of cloud data warehouses built for AWS
+## Firebolt
+
+A new class of cloud data warehouses built for AWS
 
 Firebolt has completely redesigned the cloud data warehouse to deliver a super fast, incredibly efficient analytics experience at any scale
 

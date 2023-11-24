@@ -44,6 +44,7 @@ Moving from information to knowledge age
 - [AI Voice Generator: Versatile Text to Speech Software | Murf AI](https://murf.ai/)
 - [Tammy AI](https://tammy.ai/)
 - captions (Android App)
+- [MeetGeek | Record, Transcribe & Share Meeting Notes](https://meetgeek.ai/)
 
 #### [Midjourney](https://www.midjourney.com/)
 
