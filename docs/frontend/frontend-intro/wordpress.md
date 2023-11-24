@@ -139,7 +139,7 @@ There are two kinds of hooks:
 
 - What are the difference between action hook and filter hook in WordPress?
 
-    1. **Actions Hook**
+### 1. Actions Hook
 
 Actions Hook are triggered by particular events that take place in WordPress such as changing themes, publishing a post, or displaying an administration screen. It is a custom [PHP](https://www.bestinterviewquestion.com/core-php-interview-questions) function defined in your plugin and hooked, i.e., set to respond, to some of these events.
 
@@ -156,7 +156,7 @@ Here are some Actions Functions listed
 - add_action()
 - remove_action()
 
-2. **Filters Hook**
+### 2. Filters Hook
 
 Filters Hook are functions that WordPress passes data through, at certain points in execution, just before taking some action with the data. It sits between the database and the browser and between the browser and the database; all most all input and output in WordPress pass through at least one filter hook.
 

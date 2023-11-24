@@ -6,7 +6,7 @@
 - Written in Scala and Java
 - Aims to provide - Unified, High-throughput, low-latency platform for handling real-time data feeds.
 - Storage layer - massively scalable pub/sub message queue designed as a distributed transaction log (highly valuable for enterprise infrastructures to process streaming data)
-- Kafka connects to external systems (for data import/export) via Kafka Connect and provides Kafka Streams, a Java stream processinglibrary
+- Kafka connects to external systems (for data import/export) via Kafka Connect and provides Kafka Streams, a Java stream processing library
 - Design is heavily influenced by [transaction logs](https://en.wikipedia.org/wiki/Transaction_log). (based on commit log)
 
 - Fault tolerant highly available queue used in publisher-subscriber or streaming application

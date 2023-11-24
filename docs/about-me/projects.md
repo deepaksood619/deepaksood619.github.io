@@ -2,7 +2,7 @@
 
 ### Stashfin Infra / DevOps (Feb'20 - Jan'21)
 
-[stashfin-tech-stack-infra](about-me/projects/stashfin-tech-stack-infra.md)
+[Stashfi Tech Stack / Infra](about-me/projects/90-stashfin-tech-stack-infra.md)
 
 ### React Shopping Cart - (May'21)
 
@@ -61,6 +61,10 @@ Zenatix Solutions Pvt. Ltd.
 
 Wattman is an IOT based energy monitoring solution which captures data from various sources and provide real time monitoring and control for HVAC systems.
 
+[Zenatix Solutions](about-me/projects/95-zenatix-solutions.md)
+
+[Zenatix Achitecture](about-me/projects/96-zenatix-architecture.md)
+
 <https://play.google.com/store/apps/details?id=com.zenatix.smartaccontrol&hl=en>
 
 <https://zenatix.com/products>
@@ -96,6 +100,8 @@ Used ffmpeg to stream live video capture of both screen and webcam over UDP for 
 <http://cisocybersecurity.com>
 
 <https://demo.digiproctor.com>
+
+[CISO Cybersecurity](about-me/projects/99-ciso-cybersecurity.md)
 
 ### Sangoshthi: Phase - 2 Deployment, Guide: Dr. Pushpendra Singh, (Apr'17 - July'18)
 
