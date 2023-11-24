@@ -1,6 +1,6 @@
 # Documentation
 
-Getting Started
+### Getting Started
 
 - [Design](http://druid.io/docs/latest/design/index.html)
   - [What is Druid?](http://druid.io/docs/latest/design/index.html#what-is-druid)
@@ -22,9 +22,10 @@ Getting Started
   - [Tutorial: Compacting segments](http://druid.io/docs/latest/tutorials/tutorial-compaction.html)
   - [Tutorial: Deleting data](http://druid.io/docs/latest/tutorials/tutorial-delete-data.html)
   - [Tutorial: Writing your own ingestion specs](http://druid.io/docs/latest/tutorials/tutorial-ingestion-spec.html)
-  - [Tutorial: Transforming input data](http://druid.io/docs/latest/tutorials/tutorial-transform-spec.html)- [Clustering](http://druid.io/docs/latest/tutorials/cluster.html)
+  - [Tutorial: Transforming input data](http://druid.io/docs/latest/tutorials/tutorial-transform-spec.html)
+- [Clustering](http://druid.io/docs/latest/tutorials/cluster.html)
 
-Data Ingestion
+### Data Ingestion
 
 - [Ingestion overview](http://druid.io/docs/latest/ingestion/index.html)
 - [Data Formats](http://druid.io/docs/latest/ingestion/data-formats.html)
@@ -48,7 +49,7 @@ Data Ingestion
 - [FAQ](http://druid.io/docs/latest/ingestion/faq.html)
 - [Misc. Tasks](http://druid.io/docs/latest/ingestion/misc-tasks.html)
 
-Querying
+### Querying
 
 - [Overview](http://druid.io/docs/latest/querying/querying.html)
 - [Timeseries](http://druid.io/docs/latest/querying/timeseriesquery.html)
@@ -59,7 +60,8 @@ Querying
 - [DataSource Metadata](http://druid.io/docs/latest/querying/datasourcemetadataquery.html)
 - [Search](http://druid.io/docs/latest/querying/searchquery.html)
 - [Select](http://druid.io/docs/latest/querying/select-query.html)
-- [Scan](http://druid.io/docs/latest/querying/scan-query.html)- Components
+- [Scan](http://druid.io/docs/latest/querying/scan-query.html)
+- Components
   - [Datasources](http://druid.io/docs/latest/querying/datasource.html)
   - [Filters](http://druid.io/docs/latest/querying/filters.html)
   - [Aggregations](http://druid.io/docs/latest/querying/aggregations.html)
@@ -75,9 +77,10 @@ Querying
 - [Sorting Orders](http://druid.io/docs/latest/querying/sorting-orders.html)
 - [Virtual Columns](http://druid.io/docs/latest/querying/virtual-columns.html)
 
-Design
+### Design
 
-- [Overview](http://druid.io/docs/latest/design/index.html)- Storage
+- [Overview](http://druid.io/docs/latest/design/index.html)
+- Storage
   - [Segments](http://druid.io/docs/latest/design/segments.html)
 - Node Types
   - [Historical](http://druid.io/docs/latest/design/historical.html)
@@ -93,7 +96,7 @@ Design
   - [Metadata Storage](http://druid.io/docs/latest/dependencies/metadata-storage.html)
   - [ZooKeeper](http://druid.io/docs/latest/dependencies/zookeeper.html)
 
-Operations
+### Operations
 
 - [API Reference](http://druid.io/docs/latest/operations/api-reference.html)
   - [Coordinator](http://druid.io/docs/latest/operations/api-reference.html#coordinator)
@@ -116,7 +119,7 @@ Operations
 - [TLS Support](http://druid.io/docs/latest/operations/tls-support.html)
 - [Password Provider](http://druid.io/docs/latest/operations/password-provider.html)
 
-Configuration
+### Configuration
 
 - [Configuration Reference](http://druid.io/docs/latest/configuration/index.html)
 - [Recommended Configuration File Organization](http://druid.io/docs/latest/configuration/index.html#recommended-configuration-file-organization)
@@ -131,7 +134,7 @@ Configuration
 - [General Query Configuration](http://druid.io/docs/latest/configuration/index.html#general-query-configuration)
 - [Configuring Logging](http://druid.io/docs/latest/configuration/logging.html)
 
-Development
+### Development
 
 - [Overview](http://druid.io/docs/latest/development/overview.html)
 - [Libraries](http://druid.io/docs/latest/development/libraries.html)
@@ -139,7 +142,8 @@ Development
 - [JavaScript](http://druid.io/docs/latest/development/javascript.html)
 - [Build From Source](http://druid.io/docs/latest/development/build.html)
 - [Versioning](http://druid.io/docs/latest/development/versioning.html)
-- [Integration](http://druid.io/docs/latest/development/integrating-druid-with-other-technologies.html)- Experimental Features
+- [Integration](http://druid.io/docs/latest/development/integrating-druid-with-other-technologies.html)
+- Experimental Features
   - [Overview](http://druid.io/docs/latest/development/experimental.html)
   - [Approximate Histograms and Quantiles](http://druid.io/docs/latest/development/extensions-core/approximate-histograms.html)
   - [Datasketches](http://druid.io/docs/latest/development/extensions-core/datasketches-extension.html)
@@ -147,7 +151,7 @@ Development
   - [Router](http://druid.io/docs/latest/development/router.html)
   - [Kafka Indexing Service](http://druid.io/docs/latest/development/extensions-core/kafka-ingestion.html)
 
-Misc
+### Misc
 
 - [Druid Expressions Language](http://druid.io/docs/latest/misc/math-expr.html)
 - [Papers & Talks](http://druid.io/docs/latest/misc/papers-and-talks.html)

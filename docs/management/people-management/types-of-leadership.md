@@ -1,8 +1,11 @@
 # Types of Leadership
 
 ### 1. Transformational leadership
+
 ### 2. Situational leadership
+
 ### 3. Authoritarian leadership
+
 ### 4. Bureaucratic leadership
 
 As the cousin of the autocratic style, bureaucratic leadership runs on rules, policy, and maintaining the status quo. The standard procedure always wins out. Proponents of this style will listen to employees, and may even acknowledge their good ideas, but if those ideas don't fit within the established system, they'll never get the green light.
