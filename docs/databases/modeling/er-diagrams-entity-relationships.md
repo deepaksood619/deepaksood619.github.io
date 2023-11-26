@@ -1,6 +1,6 @@
 # ER Diagrams (Entity Relationships)
 
-An**entity--relationship model**(or**ER model**) describes interrelated things of interest in a specific domain of knowledge. A basic ER model is composed of entity types (which classify the things of interest) and specifies relationships that can exist between [entities](https://en.wiktionary.org/wiki/entity)(instances of those entity types).
+An **entity--relationship model** (or **ER model**) describes interrelated things of interest in a specific domain of knowledge. A basic ER model is composed of entity types (which classify the things of interest) and specifies relationships that can exist between [entities](https://en.wiktionary.org/wiki/entity)(instances of those entity types).
 
 ![image](../../media/ER-Diagrams-(Entity-Relationships)-image1.jpg)
 
@@ -18,16 +18,19 @@ An entity set is a collection of similar types of entities. An entity set may co
 
 ## Attributes
 
-Entities are represented by means of their properties, calledattributes. All attributes have values. For example, a student entity may have name, class, and age as attributes.
+Entities are represented by means of their properties, called attributes. All attributes have values. For example, a student entity may have name, class, and age as attributes.
 There exists a domain or range of values that can be assigned to attributes. For example, a student's name cannot be a numeric value. It has to be alphabetic. A student's age cannot be negative, etc.
-Types of Attributes
+
+### Types of Attributes
 
 - Simple attribute− Simple attributes are atomic values, which cannot be divided further. For example, a student's phone number is an atomic value of 10 digits.
 - Composite attribute− Composite attributes are made of more than one simple attribute. For example, a student's complete name may have first_name and last_name.
 - Derived attribute− Derived attributes are the attributes that do not exist in the physical database, but their values are derived from other attributes present in the database. For example, average_salary in a department should not be saved directly in the database, instead it can be derived. For another example, age can be derived from data_of_birth.
 - Single-value attribute− Single-value attributes contain single value. For example − Social_Security_Number.
 - Multi-value attribute− Multi-value attributes may contain more than one values. For example, a person can have more than one phone number, email_address, etc.
-These attribute types can come together in a way like −
+
+These attribute types can come together in a way like
+
 - simple single-valued attributes
 - simple multi-valued attributes
 - composite single-valued attributes
