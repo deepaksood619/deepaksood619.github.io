@@ -37,8 +37,9 @@ except:
 
 ## The Problem - Simple Examples
 
-Example 1: We want to add a user to a database. You can see thatdbdoes not return anything, but we change the state of our system. And we want to be sure that we don't actually change our production system when the unit tests are running!
-Example 2: Generate a file name based on the current date. You can see that the dependencydatetimereturns a value:
+Example 1: We want to add a user to a database. You can see that db does not return anything, but we change the state of our system. And we want to be sure that we don't actually change our production system when the unit tests are running!
+
+Example 2: Generate a file name based on the current date. You can see that the dependency date time returns a value:
 
 ```python
 import datetime
@@ -48,6 +49,7 @@ def generate_filename():
 ```
 
 Similarly, you could imagine a function which returns the weather in an English sentence and uses an API to get the actual weather ([example](https://gist.github.com/MartinThoma/5c7224ceae47e74645e0145d26dc03ec)).
+
 Example 3: In my project [edapy](https://github.com/MartinThoma/edapy) I looked at metadata from PDF files. I use the dependency PdfFileReader and have the file itself as an dependency. As the PDF file could be broken, PyPDF2 might throw an exception. So you can imagine code like this:
 
 ```python
@@ -82,6 +84,7 @@ Just like the example above, they make isolated unit testing hard or even imposs
 ## The solution: Patching
 
 The overall strategy to test this is always the same: Replace the external dependency that is causing headaches by something in your control. The act of replacing the dependency is called **patching**, the replacement is called a **mock**. Depending on what exactly the mock does, you might also hear this being called a **Test Double, Test Stub, Test Spy or a Fake Object**. In practice in Python, the distinction does not matter.
+
 Let's make a tiny example how to use patch!
 
 ```python
@@ -99,6 +102,7 @@ def dark_magic(transaction):
 ```
 
 No matter which transaction you would use, the function is_credit_card_fraud would throw a ValueError.
+
 This is how you patch that dependency away with a decorator@patch:
 
 ```python
@@ -129,12 +133,13 @@ def test_is_credit_card_fraud_context_handler():
 assert is_fraud == True
 ```
 
-When you now execute pytest, the test will succeed. You will always get 0.999 as a return value ofdark_magic🎉
-A part that might be surprising in this example is the first parameter of thepatchdecorator: It's"fraud_example.dark_magic"and NOT"external_dependency.dark_magic"! The target of your replacement is always what was loaded within the file you want to test, not where it was loaded from.
+When you now execute pytest, the test will succeed. You will always get 0.999 as a return value of dark_magic
+
+A part that might be surprising in this example is the first parameter of the patch decorator: It's "fraud_example.dark_magic" and NOT "external_dependency.dark_magic"! The target of your replacement is always what was loaded within the file you want to test, not where it was loaded from.
 
 ## Direct replacement: Don't do this
 
-The following is an example which does not usepatchand seems to work, but it has a big flaw. If you directly replacedatetime.datetimeinstead of patching it, it will be overwritten in all other contexts after that as well! ⚠️
+The following is an example which does not usepatchand seems to work, but it has a big flaw. If you directly replacedatetime.datetimeinstead of patching it, it will be overwritten in all other contexts after that as well!
 
 ```python
 # Core Library modules
@@ -156,9 +161,10 @@ assert generate_filename() == "1990-04-28.jpg"
 
 ## Mock and MagicMock
 
-You now know how to replace a dependency, hence it is time to talk about what to replace it with. This is whereunittest.mock.Mockandunittest.mock.MagicMockcome into play.
+You now know how to replace a dependency, hence it is time to talk about what to replace it with. This is where unittest.mock.Mock and unittest.mock.MagicMock come into play.
 
 Everything you do with Mock will return a Mock. Call a function? Get a Mock as a return value. Access an attribute? Get a Mock as a value.
+
 Python has so called "magic" methods. I like the term "dunder" methods better - it just means all methods which start and end with adoubleunderscore. Examples are `__iter__` or `__contains__`. MagicMock has those defined, Mock doesn't. I would use MagicMock everywhere, except if the mocked object doesn't define any of the magic functions.
 
 A core feature of mock classes is that they allow you to not only remove a dependency which is hard to test, but also to assert on the way the mock was interacted with. Typical methods are [assert_called](https://docs.python.org/3/library/unittest.mock.html#unittest.mock.Mock.assert_called)(), [assert_called_with](https://docs.python.org/3/library/unittest.mock.html#unittest.mock.Mock.assert_called_with)(), [assert_not_called](https://docs.python.org/3/library/unittest.mock.html#unittest.mock.Mock.assert_not_called)().
@@ -168,6 +174,7 @@ A core feature of mock classes is that they allow you to not only remove a depen
 A part that is really bad aboutMagicMockis that you can do anything with it - including accessing non-existing attributes, calling non-existing methods or calling existing methods with the wrong count of parameters. The mock object is missing aspecification. If you don't like that, useautospec=Truewhen patching the object:
 
 patch.object(Foo, 'foo', autospec=True)
+
 Or you can create a Mock like this:
 
 ```python
@@ -190,7 +197,7 @@ The next parameter of **patch** is **autospec**. Where spec looks at the mocked 
 
 Finally, there is **spec_set**. That one prevents you from setting attributes that don't exist.
 
-Usually, I would useautospec=Trueandspec_set=Trueeverywhere. Code which uses introspection might be an example where you don't want that.
+Usually, I would use autospec=True and spec_set=True everywhere. Code which uses introspection might be an example where you don't want that.
 
 ## pytests monkeypatch
 
@@ -208,11 +215,12 @@ def test_is_credit_card_fraud_monkeypatch(monkeypatch):
     assert is_fraud == True
 ```
 
-The question when you should use `unittest.mock.patch` and - if necessary -unittest.mock.Mockor pytestsmonkeypatchboils pretty much down to personal taste nowadays. The core Pythons patch / Mock only exist since Python 3.3 which, I guess, is a big part of the reason whymonkeypatchexists in the first place.
+The question when you should use `unittest.mock.patch` and - if necessary -unittest.mock.Mock or pytests monkey patch boils pretty much down to personal taste nowadays. The core Pythons patch / Mock only exist since Python 3.3 which, I guess, is a big part of the reason whymonkeypatchexists in the first place.
 
 ## External Packages
 
 There are a couple of packages designed for simplifying the patching and giving better mocks for well-known dependencies.
+
 For example, you can use [freezegun](https://pypi.org/project/freezegun/) for mocking the system time:
 
 ```python
@@ -224,6 +232,7 @@ with freeze_time("1990-04-28"):
 ```
 
 For boto3 / botocore (Cloud-stuff), there is [moto](https://pypi.org/project/moto/).
+
 For [requests](https://pypi.org/project/requests/), there is [responses](https://pypi.org/project/responses/):
 
 ```python
@@ -328,7 +337,7 @@ To keep your code clean, it is often a good idea to wrap third party dependencie
 
 ## Tools
 
-## Mock Server
+### Mock Server
 
 For any system you integrate with via HTTP or HTTPS MockServer can be used as:
 
@@ -339,6 +348,7 @@ For any system you integrate with via HTTP or HTTPS MockServer can be used as:
 <https://www.mock-server.com>
 
 <https://github.com/mock-server/mockserver>
+
 If you want to learn more about the default mocks, have a look at the awesome article by Yeray Diaz:[What the mock? - A cheatsheet for mocking in Python](https://medium.com/@yeraydiazdiaz/what-the-mock-cheatsheet-mocking-in-python-6a71db997832).
 
 <https://levelup.gitconnected.com/unit-testing-in-python-mocking-patching-and-dependency-injection-301280db2fed>

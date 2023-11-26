@@ -101,4 +101,4 @@ As an aside - I still almost always recommend still using a columnar file format
 
 <https://blog.twitter.com/engineering/en_us/a/2013/dremel-made-simple-with-parquet.html>
 
-[**https://www.youtube.com/watch?v=rVC9F1y38oU**](https://www.youtube.com/watch?v=rVC9F1y38oU)
+[Apache Parquet: Parquet file internals and inspecting Parquet file structure - YouTube](https://www.youtube.com/watch?v=rVC9F1y38oU)

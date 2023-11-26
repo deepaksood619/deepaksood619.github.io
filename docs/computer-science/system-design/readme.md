@@ -6,6 +6,7 @@
 - [Architecture Guide](computer-science/system-design/architecture-guide.md)
 - [N-tier application architecture](computer-science/system-design/n-tier-application-architecture.md)
 - [Event Driven Architecture](event-driven-architecture)
+- [Message Oriented Architecture (MOM)](computer-science/system-design/message-oriented-architecture-mom.md)
 - [Microservice Architecture](microservice-architecture/readme.md)
 - [Serverless Architecture](serverless-architecture)
 - [Reactive Microservices Manifesto](reactive-microservices-manifesto)

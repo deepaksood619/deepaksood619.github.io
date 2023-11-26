@@ -1,7 +1,5 @@
 # MQTT 5.0
 
-## MQTT 5.0
-
 - Enhancements for scalability and large scale systems in respect to setups with 1000s and millions of devices.
 - Improved error reporting (Reason Code & Reason String)
 - Formalize common patterns including capability discovery and request response
@@ -32,3 +30,5 @@
 <https://github.com/mqtt/mqtt.github.io/wiki/Differences-between-3.1.1-and-5.0>
 
 <https://blog.codecentric.de/en/2017/11/hello-mqtt-version-5-0>
+
+[MQTT 5 Essentials | Advanced MQTT for IoT Communication | HiveMQ](https://www.hivemq.com/mqtt/mqtt-5/)

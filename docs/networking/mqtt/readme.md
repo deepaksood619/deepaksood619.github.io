@@ -18,4 +18,4 @@
 - [Libraries](libraries)
 - [MQTT - SN](mqtt-sn)
 - [Paho Client](paho-client)
-- [Others](networking/mqtt/others.md)
+- [MQTT vs HTTP](networking/mqtt/mqtt-vs-http.md)

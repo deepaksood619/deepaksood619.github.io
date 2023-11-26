@@ -1,6 +1,6 @@
 # Feature Toggles / Flags
 
-Afeature toggle(alsofeature switch, feature flag, feature flipper, conditional feature, etc.) is a technique in [software development](https://en.wikipedia.org/wiki/Software_development) that attempts to provide an alternative to maintaining multiple [source-code](https://en.wikipedia.org/wiki/Source_code) branches (known as feature branches), such that a feature can be tested even before it is completed and ready for release. Feature toggle is used to hide, enable or disable the feature during run time. For example, during the development process, a developer can enable the feature for testing and disable it for other users.
+A feature toggle (also feature switch, feature flag, feature flipper, conditional feature, etc.) is a technique in [software development](https://en.wikipedia.org/wiki/Software_development) that attempts to provide an alternative to maintaining multiple [source-code](https://en.wikipedia.org/wiki/Source_code) branches (known as feature branches), such that a feature can be tested even before it is completed and ready for release. Feature toggle is used to hide, enable or disable the feature during run time. For example, during the development process, a developer can enable the feature for testing and disable it for other users.
 
 Continuous release and [continuous deployment](https://en.wikipedia.org/wiki/Continuous_deployment) provide developers with rapid feedback about their coding. This requires the integration of their code changes as early as possible. Feature branches introduce a bypass to this process.Feature toggles are an important technique used for the implementation of [continuous delivery](https://en.wikipedia.org/wiki/Continuous_delivery).
 
@@ -42,12 +42,12 @@ Feature Toggles are also refered to as Feature Flags, Feature Bits, or Feature F
 1. Dynamic routing vs dynamic configuration
 2. Prefer static configuration
 3. Approaches for managing toggle configuration
-   - Hardcoded Toggle Configuration
-   - Parametrized Toggle Configuration
-   - Toggle Configuration File
-   - Toggle Configuration in App DB
-   - Distributed Toggle Configuration
+ - Hardcoded Toggle Configuration
+ - Parametrized Toggle Configuration
+ - Toggle Configuration File
+ - Toggle Configuration in App DB
+ - Distributed Toggle Configuration
 4. Overriding Configuration
-   - Per-request overrides
+ - Per-request overrides
 
 <https://martinfowler.com/articles/feature-toggles.html>

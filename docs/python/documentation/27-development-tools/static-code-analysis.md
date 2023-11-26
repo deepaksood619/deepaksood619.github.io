@@ -96,18 +96,14 @@ We believe that you should always use the best industry standard linters. Some o
 
 We built pre-commit to solve our hook issues. It is a multi-language package manager for pre-commit hooks. You specify a list of hooks you want and pre-commit manages the installation and execution of any hook written in any language before every commit. pre-commit is specifically designed to not require root access. If one of your developers doesn't have node installed but modifies a JavaScript file, pre-commit automatically handles downloading and building node to run eslint without root.
 
-```bash
+```yaml
+# filename - .pre-commit-config.yaml
+
 exclude: '^$'
 fail_fast: false
 exclude: '^(?!tests/)$' #run only test folder files
-files: ^API/](<pre-commit install
- pre-commit run --all-files
- git commit --no-verify
+files: ^API/
 
- exclude: '^$'
- fail_fast: false
- exclude: '^(?!tests/)$' #run only test folder files
- files: ^API/
  repos:
      - repo: https://github.com/timothycrosley/isort
        rev: 5.6.4
@@ -127,7 +123,7 @@ files: ^API/](<pre-commit install
          - id: trailing-whitespace
          - id: end-of-file-fixer
          - id: check-yaml
-      args: [--allow-multiple-documents, --unsafe]
+    args: [--allow-multiple-documents, --unsafe]
     exclude: /templates/
          - id: requirements-txt-fixer
          - id: check-merge-conflict
@@ -184,6 +180,7 @@ additional_dependencies: [black==20.8b1]>)
 # pip install pre-commit
 brew install pre-commit
 
+# to install pre-commit as git webhook locally
 # pre-commit install
 
 pre-commit run --all-files
@@ -192,6 +189,7 @@ pre-commit autoupdate
 # run pre-commit on specific files in a folder
 git ls-files -- Technologies/Technologies | xargs pre-commit run --files
 
+# bypass installed webhooks
 git commit --no-verify
 
 # isort run
@@ -202,8 +200,6 @@ autoflake -r --in-place --remove-unused-variables --remove-all-unused-imports **
 
 black .
 ```
-
-![image](../../../media/27.-Development-Tools_Static-Code-Analysis-image1.jpg)
 
 <https://medium.com/staqu-dev-logs/keeping-python-code-clean-with-pre-commit-hooks-black-flake8-and-isort-cac8b01e0ea1>
 
@@ -228,7 +224,8 @@ black .
 - C9**:McCabe complexity plugin mccabe
 - N8**:Naming Conventions plugin pep8-naming
 
-```bash
+```yaml
+# filename - .pre-commit-config.yaml
 additional_dependencies: [
             'flake8-isort==2.7.0',
             'flake8-pep3101==1.2.1',
@@ -236,7 +233,7 @@ additional_dependencies: [
             'flake8-string-format==0.2.3',
         ]
 
-.flake8
+# filename - .flake8
 [flake8]
 # ignore = E203, E266, E501, F403, F401, F541
 ignore = E231, W503
@@ -335,7 +332,7 @@ Mypy is an optional static type checker for Python that aims to combine the bene
 
 ## Code Complexity
 
-- **radon**
+### radon
 
 ```python
 $ pip install radon

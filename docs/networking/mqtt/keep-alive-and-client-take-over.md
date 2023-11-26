@@ -12,26 +12,26 @@ As Andy Stanford-Clark (the inventor of the MQTT protocol) points out, the probl
 MQTT includes a keep alive function that provides a workaround for the issue of half-open connections (or at least makes it possible to assess if the connection is still open).
 
 Keep alive ensures that the connection between the broker and client is still open and that the broker and the client are aware of being connected.When the client establishes a connection to the broker, the client communicates a time interval in seconds to the broker. This interval defines the maximum length of time that the broker and client may not communicate with each other.
+
 The MQTT specification says the following:
 
 "The Keep Alive ... is the maximum time interval that is permitted to elapse between the point at which the Client finishes transmitting one Control Packet and the point it starts sending the next. It is the responsibility of the Client to ensure that the interval between Control Packets being sent does not exceed the Keep Alive value. In the absence of sending any other Control Packets, the Client MUST send a PINGREQ Packet."
+
 As long as messages are exchanged frequently and the keep-alive interval is not exceeded, there is no need to send an extra message to establish whether the connection is still open.
 
 If the client does not send a messages during the keep-alive period, it must send a PINGREQ packet to the broker to confirm that it is available and to make sure that the broker is also still available.
+
 The broker must disconnect a client that does not send a message or a PINGREQ packet in one and a half times the keep alive interval.Likewise, the client is expected to close the connection if it does not receive a response from the broker in a reasonable amount of time.
+
 This allows the broker to detect a half-open connection and close the connection to the (already disconnected) client if the keepAlive value is exceeded by more than 150% of the value.
 
 ## Keep Alive Flow
 
 ## PINGREQ
 
-![image](../../media/Keep-Alive-&-Client-Take-Over-image1.jpg)
-
 The PINGREQ is sent by the client and indicates to the broker that the client is still alive. If the client does not send any other type of packets (for example, a PUBLISH or SUBSCRIBE packet), the client must send a PINGREQ packet to the broker. The client can send a PINGREQ packet any time it wants to confirm that the network connection is still alive. The PINGREQ packet does not contain a payload.
 
 ## PINGRESP
-
-![image](../../media/Keep-Alive-&-Client-Take-Over-image2.jpg)
 
 When the broker receives a PINGREQ packet, the broker must reply with a PINGRESP packet to show the client that it is still available. The PINGRESP packet also does not contain a payload.
 
@@ -44,7 +44,7 @@ When the broker receives a PINGREQ packet, the broker must reply with a PINGRESP
 
 ## Client Take-Over
 
-Usually, a disconnected client tries to reconnect. Sometimes, the broker still has an half-open connection for the client. In MQTT, if the broker detects a half-open connection, it performs a 'client take-over'.The broker closes the previous connection to the same client (determined by the client identifier), and establishes a new connection with the client.This behavior ensures that the half-open connection does not stop the disconnected client from re-establishing a connection.
+Usually, a disconnected client tries to reconnect. Sometimes, the broker still has an half-open connection for the client. In MQTT, if the broker detects a half-open connection, it performs a 'client take-over'. The broker closes the previous connection to the same client (determined by the client identifier), and establishes a new connection with the client. This behavior ensures that the half-open connection does not stop the disconnected client from re-establishing a connection.
 
 ## References
 
