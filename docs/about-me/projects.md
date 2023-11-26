@@ -1,5 +1,9 @@
 # Projects
 
+### Stashfin Business (Feb'20 - Feb'23)
+
+[Stashfin Business](about-me/projects/89-stashfin.md)
+
 ### Stashfin Infra / DevOps (Feb'20 - Jan'21)
 
 [Stashfi Tech Stack / Infra](about-me/projects/90-stashfin-tech-stack-infra.md)

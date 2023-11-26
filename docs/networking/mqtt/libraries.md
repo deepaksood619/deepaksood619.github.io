@@ -36,8 +36,7 @@ Public mqtt brokers for testing - <https://github.com/mqtt/mqtt.github.io/wiki/p
 | **CLIENT TOOL** | **OS** | **DESCRIPTION** |
 |---|---|---|
 | **MQTT.fx** | Windows, Linux, MacOSX | MQTT.fx is a JavaFX application with a clean interface and advanced features like scripting, broker statistics, and templates. |
-| **mqtt-spy** | Windows, Linux, MacOSX | mqtt-spy is a JavaFX application that is
-easy to use and focused on analyzing MQTT subscriptions. There is also a CLI-based daemon application available, which does not need a graphic interface. |
+| **mqtt-spy** | Windows, Linux, MacOSX | mqtt-spy is a JavaFX application that is easy to use and focused on analyzing MQTT subscriptions. There is also a CLI-based daemon application available, which does not need a graphic interface.
 | **MQTT Inspector** | iOS | MQTT Inspector is an iOS app that allows detailed analysis of MQTT traffic. Use of the publish/subscribe message types, and complex filterings of received messages, are available. |
 | **HiveMQ Websocket Client** | Web browser | The HiveMQ websocket client runs on any modern browser and connects to MQTT brokers via websockets. Very useful if it’s not possible to install a client application on the machine in use, as well as for quick MQTT tests. |
 | **MyMQTT** | Android | MyMQTT is an MQTT test application for Android devices. It allows the creation of templates for publishing, which makes it very useful for testing MQTT "on-the-go." |

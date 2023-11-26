@@ -6,13 +6,13 @@ A retained message is a normal MQTT message with the retained flag set to true. 
 
 Retained messages help newly-subscribed clients get a status update immediately after they subscribe to a topic. The retained message eliminates the wait for the publishing clients to send the next update
 
-In other words, a retained message on a topic is thelast known good value. The retained message doesn't have to be the last value, but it must be the last message with the retained flag set to true.
+In other words, a retained message on a topic is the last known good value. The retained message doesn't have to be the last value, but it must be the last message with the retained flag set to true.
 
-It is important to understand that a retained message has nothing to do withpersitant session. Once a retained message is stored by the broker, there's only one way to remove it.
+It is important to understand that a retained message has nothing to do with persitant session. Once a retained message is stored by the broker, there's only one way to remove it.
 
 ## Send a retained message
 
-From the perspective of a developer, sending a retained message is quite simple and straight-forward. You just set theretained flagof a [MQTT publish message](https://www.hivemq.com/blog/mqtt-essentials-part-4-mqtt-publish-subscribe-unsubscribe/) to true. Typically, your client library provides an easy way to set this flag.
+From the perspective of a developer, sending a retained message is quite simple and straight-forward. You just set the retained flag of a [MQTT publish message](https://www.hivemq.com/blog/mqtt-essentials-part-4-mqtt-publish-subscribe-unsubscribe/) to true. Typically, your client library provides an easy way to set this flag.
 
 ## Delete a retained message
 
@@ -20,7 +20,7 @@ There is also a very simple way to delete the retained message of a topic: send 
 
 ## Why and when should you use Retained Messages?
 
-A retained message makes sense when you want newly-connected subscribers to receive messages immediately (without waiting until a publishing client sends the next message). This is extremely helpful for status updates of components or devices on individual topics. For example, the status of device1 is on the topicmyhome/devices/device1/status. When retained messages are used, new subscribers to the topic get the status (online/offline) of the device immediately after they subscribe. The same is true for clients that send data in intervals, temperature, GPS coordinates, and other data. **Without retained messages, new subscribers are kept in the dark between publish intervals.** Using retained messages helps provide the last good value to a connecting client immediately.
+A retained message makes sense when you want newly-connected subscribers to receive messages immediately (without waiting until a publishing client sends the next message). This is extremely helpful for status updates of components or devices on individual topics. For example, the status of device1 is on the topic `myhome/devices/device1/status`. When retained messages are used, new subscribers to the topic get the status (online/offline) of the device immediately after they subscribe. The same is true for clients that send data in intervals, temperature, GPS coordinates, and other data. **Without retained messages, new subscribers are kept in the dark between publish intervals.** Using retained messages helps provide the last good value to a connecting client immediately.
 
 ### References
 

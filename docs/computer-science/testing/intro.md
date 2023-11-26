@@ -2,10 +2,9 @@
 
 ## Testing Vocabulary
 
-- The **units** we are testing in the section above are functions -fibandnext_collatz_element.
-- We have 5**unit tests**; all of them intest_math_functions.py: Thetest_* functions.
-- Thepytestcommand-line executable is called a**test runner**. It executes (runs) the tests.
-- A**test suite** is an arbitrary collection of tests. Usually, you mean all tests.
+- **units** - functions we are testing
+- The pytest command-line executable is called a **test runner**. It executes (runs) the tests.
+- A **test suite** is an arbitrary collection of tests. Usually, it means all tests.
 
 ## Why do we test at all?
 
@@ -21,11 +20,11 @@ Worst is no testing at all.
 
 A little bit better is a test that just executes a function but does not check if the return value/the side effects are what you expect. So you simply run it to check if the code crashes.
 
-**##**Happy-Tests where you check the output of the tested function and a typical input is even better. I call them happy because they test what you expect to get**
+Happy-Tests where you check the output of the tested function and a typical input is even better. I call them happy because they test what you expect to get
 
-In contrast, an **unhappyexecution path** is dealing with unwanted inputs. This is also called [**negative testing**](https://en.wikipedia.org/wiki/Negative_testing). You check if you actually throw an error. Not throwing an error and silently failing is bad as it hides bugs.
+In contrast, an **unhappy execution path** is dealing with unwanted inputs. This is also called [**negative testing**](https://en.wikipedia.org/wiki/Negative_testing). You check if you actually throw an error. Not throwing an error and silently failing is bad as it hides bugs.
 
-**Property testing is pretty cool. There you don't test for single values, but you check if a property is still held. For example, the output of a factorization function can be multiplied and should equal the input**
+Property testing is pretty cool. There you don't test for single values, but you check if a property is still held. For example, the output of a factorization function can be multiplied and should equal the input
 
 <https://medium.com/swlh/unit-testing-in-python-basics-21a9a57418a0>
 
@@ -61,10 +60,7 @@ RCA is a reactive method, as opposed to preventive, since it will be employed on
 - Load tests
 - Smoke tests
 - Coverage tests
-- Regression tests
-
-<https://www.toptal.com/web-qa/ui-visual-regression-testing>
-
+- Regression tests - <https://www.toptal.com/web-qa/ui-visual-regression-testing>
 - Acceptance tests
 - Property based tests
 - Usability tests

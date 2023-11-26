@@ -182,6 +182,12 @@ Keep tabs on action items.Assign someone to check in at appropriate intervals af
 
 ![image](../../media/Project-Management_Scrum-Meetings-image5.jpg)
 
+### Scrum vs Sprint
+
+==Scrum is a framework for managing work, while Sprint is a framework for managing time==. Scrum is more flexible than Sprint, which is more rigid. Scrum can be used for projects of any length, while Sprint is typically used for projects lasting two or four weeks.
+
+Scrum is a framework often used in Agile methodology. Scrum provides meetings, tools, and roles. Sprint is a defined period for creating a feature. A Sprint is a condensed period of time during which a scrum team works to complete a specific amount of work. The maximum time for a sprint is 30 days.
+
 ## Questions
 
 1. What were the deliverables from last week and did you achieve them?

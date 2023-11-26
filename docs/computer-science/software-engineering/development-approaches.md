@@ -16,7 +16,7 @@ Learned Helplessness Development (LHD) - in which team members have been beaten 
 
 Not allowed to do development (NADD) - somewhat similar to CYAE. No actual development is tolerated by the development team. Everyone with any technical knowledge at all is at least 3 levels too low on the corporate ladder to be allowed to make even trivial decisions, and any initiative by individuals is a sign developers have too much time on there hands - meaning they are either poorly managed and ignoring whatever it is the bosses boss thinks they do, or they can be laid off. Developers are occasionally fed poorly written specs, not allowed to ask questions, and yelled at for "being late" before they are given the 6 signature sign off they need to write a single line of code.
 
-All-But-Vacuum Management (ABVM) - Team members operate with no lead/managerial/exec feedback or processes-just rumor handed down- until project stagnation and butting-of-heads gives leads and execs enough one-sided whining to do something pointlessly drastic. This avoids ever having to deal with team members as humans or actually evaluate anyone's performance, or define anybody's role.
+All-But-Vacuum Management (ABVM) - Team members operate with no lead / managerial / exec feedback or processes - just rumor handed down - until project stagnation and butting-of-heads gives leads and execs enough one-sided whining to do something pointlessly drastic. This avoids ever having to deal with team members as humans or actually evaluate anyone's performance, or define anybody's role.
 
 Next Year's Dollars Don't Matter (NY$DM) - When following this approach, every dumb decision that creates a potential maintenance or portability nightmare is elevated to "essential" because maintenance dollars are in next year's budget, and don't matter for this development project. Indeed, the absolute worst crud can be preserved because it is an "investment". Rewriting and replacing the crud would only spend this years dollars on an effort that wouldn't have any tangible ROI until several years in the future. The idea that maintenance is usually forever (the service life of in-house software appears to be measured in decades) has no impact at all, since that gigantic maintenance budget is only spent one year at a time, and it's made up of next year's worthless dollars.
 
@@ -24,7 +24,7 @@ Shovel-Driven Development (SDD) - Get it out the door as quickly as possible, cu
 
 BDD: Blog Driven Development (BDD) - Developers who are constantly thinking about the subject of their next blog post. Nearly every somewhat interesting line of code they write is extracted into a blog post.
 
-Ass Licking Management (ALM) - This is the management which is ready to lick its employee's ass to keep them in the companyâ€¦Most of the time, these employees follow GMPM methodology by finishing the assignment with hacks.
+Ass Licking Management (ALM) - This is the management which is ready to lick its employee's ass to keep them in the company. Most of the time, these employees follow GMPM methodology by finishing the assignment with hacks.
 
 Not invented here (NIH) - not invented here
 
@@ -40,11 +40,11 @@ Never Ending Story Development (NESD) - This can happen if mangement is weak and
 
 Out of Scope Development (OSD) - where every request or idea, no matter how unrelated gets approved and expedited as long as it might sell one more piece of software or make one customer happy already. This is despite the fact that any monetary gains will be offset by the rising development costs of maintaining a hodgepodge of unrelated features.
 
-I Wish I Was Somewhere Else (IWIWSE) - which produces some of the most unmotivated code in existance.
+I Wish I Was Somewhere Else (IWIWSE) - which produces some of the most unmotivated code in existence.
 
 Decapitated Chicken Process (DCP) - A time honored micromanagement technique where each day managers identify a drastic emergency and require developers drop what they are doing (and whatever process they are using) and immediately attend to the latest conflagration. Since this does the double duty of creating new bugs and making other tasks fall behind, fires become easier and easier for managers to spot and then freak out about. Practically a standard in the games industry.
 
-Blame The People Worked and Left (BTPWAL) - When you see a glitch, doesn't matter whether your code caused it or notâ€¦through it on the people worked on this project and left the organization. I see this frequently in consulting environments.
+Blame The People Worked and Left (BTPWAL) - When you see a glitch, doesn't matter whether your code caused it or not, through it on the people worked on this project and left the organization. I see this frequently in consulting environments.
 
 It's What They Wanted Development (IWTWD) - Absolving oneself of all accountability by inventing a group of people known as "they" and blaming them for one's own inability to design and develop a usable system.
 
@@ -96,7 +96,7 @@ FUD Development (FUDD) - implementing the feature the right way is huge and scar
 
 Idiot Savant Driven Development (ISDD) - the one developer who knows one language and one way to hack bludgeons software into existence by sheer force of will and time, leaving management to talk about "great productivity" and "working the long hours necessary". Then it explodes and no one knows where to point the finger.
 
-I Was an Expert Once Syndrome (IWEOS) - senior-level people "contributing" because of their years of "expertise" that grant them the inalienable right to shit on every discussion, whine about everything out of their comfort zone and squeeze in every last "favorite" feature into the final product.
+I Was an Expert Once Syndrome (IWEOS) - senior-level people "contributing" because of their years of "expertise" that grant them the inalienable right to shit on every discussion, whine about everything out of their comfort zone and squeeze in every last "favourite" feature into the final product.
 
 Angst Ridden Development (ARD) - being alone on a mountaintop fighting back the animals, the invalids, the fear mongerers, the savants and the tired old hags with a single trusty sword made of quality and rationality.
 

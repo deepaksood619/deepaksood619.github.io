@@ -12,10 +12,7 @@ Google Test (also known as gtest for e.g. the [ROS](https://en.wikipedia.org/wik
 
 ## Other Tools
 
-- Selenium
-
-<https://zenq.com/blogs/whats-new-in-selenium-4-and-the-impact-on-previous-versions>
-
+- Selenium - <https://zenq.com/blogs/whats-new-in-selenium-4-and-the-impact-on-previous-versions>
 - Puppeteer - <https://github.com/puppeteer/puppeteer>
 - <https://cucumber.io>
 - NCover
@@ -23,16 +20,10 @@ Google Test (also known as gtest for e.g. the [ROS](https://en.wikipedia.org/wik
 - JTest
 - Cobertura
 - Emma
-- Bazel
-
-Build and test software of any size, quickly and reliably
-
-<https://www.bazel.build>
-REST Assured (REST Test Tool)
-
-Mockito (Mocking)
-
-JUnit
+- Bazel - Build and test software of any size, quickly and reliably - <https://www.bazel.build>
+- REST Assured (REST Test Tool)
+- Mockito (Mocking)
+- JUnit
 
 ## REST Assured
 

@@ -1,6 +1,7 @@
 # Software Engineering
 
 - [Software Engineering](computer-science/software-engineering/intro.md)
+- [Coding Guidelines / Code Reviews / Clean Code](computer-science/software-engineering/coding-guidelines-code-reviews-clean-code.md)
 - [Static Code Analysis](static-code-analysis)
 - [Code Smell](code-smell)
 - [Development Approaches](development-approaches)

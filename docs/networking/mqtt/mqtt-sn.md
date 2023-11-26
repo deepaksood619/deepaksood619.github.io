@@ -2,9 +2,9 @@
 
 MQTT for Sensor Networks
 
-- MQTT-SNusesUDPand notTCPfor its transport.
-- UDPis a connection less protocol whereasTCPis connection orientated.
-- MQTT-SNis designed, as far as possible., to work in the same way as MQTT
+- MQTT-SN uses UDP and not TCP for its transport.
+- UDP is a connection less protocol whereasTCPis connection orientated.
+- MQTT-SN is designed, as far as possible, to work in the same way as MQTT
 - In that regard MQTT-SN usually requires a connection to the broker before it can send and receive messages.
 - This connection is in effect avirtual connection.
 
@@ -54,23 +54,19 @@ MQTT-SN clients connect themselves to a MQTT server via a MQTT-SN GW using the M
 There are two types of Gateways depending on how a Gateway performs the protocol translation between MQTT and MQTT-SN:
 
 1. Transparent Gateway - For each MQTT-SN client, transparent gateway will form an individual MQTT connection to the MQTT broker.
-
 2. Aggregating Gateway - In this, for all MQTT-SN clients, the Aggregating gateway will form only one MQTT connection to the MQTT broker. The advantage of using aggregating gateway is shown where WSN network has large number of sensor nodes because it helps in reducing the number of MQTT connections that broker has to create with individual client.
 
 ## MQTT-SN vs MQTT
 
-## Advantages
+### Advantages
 
-1. MQTT-SN supports topic ID instead of topic name. First client sends a registration request with topic name and topic ID (2 octets) to a broker. After the registration is accepted, client uses topic ID to refer the topic name. This saves media bandwidth and device memory - it is quite expensive to keep and send topic name e.g:home/livingroom/socket2/meterin memory for each publish message.
-
+1. MQTT-SN supports topic ID instead of topic name. First client sends a registration request with topic name and topic ID (2 octets) to a broker. After the registration is accepted, client uses topic ID to refer the topic name. This saves media bandwidth and device memory - it is quite expensive to keep and send topic name e.g: `home/livingroom/socket2/meter` in memory for each publish message.
 2. Topic name to topic ID can be preconfigured in MQTT-SN gateway, so that even registration message can be skipped before publish.
-
 3. MQTT-SN does not require TCP/IP stack. It can be used over a serial link (preferred way), where with simple link protocol (to distinguish different devices on the line) overhead is really small. Alternatively it can be used over UDP, which is less hungry than TCP.
 
-## Disadvantages
+### Disadvantages
 
 1. You need some sort of gateway, which is nothing else than a TCP or UDP stack moved to a different device. This can also be a simple device (e.g.: Arduino Uno) just serving multiple MQTT-SN devices without doing other job.
-
 2. MQTT-SN is not well supported.
 
 ## References
@@ -78,7 +74,8 @@ There are two types of Gateways depending on how a Gateway performs the protocol
 <http://www.steves-internet-guide.com/mqtt-sn>
 
 <https://www.bevywise.com/blog/benefits-of-mqtt-sn-over-mqtt>
-Clients -
+
+### Clients
 
 <https://github.com/eclipse/paho.mqtt-sn.embedded-c>
 

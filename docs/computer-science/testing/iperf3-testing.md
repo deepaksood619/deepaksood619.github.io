@@ -2,13 +2,16 @@
 
 ## iperf (Network throughput)
 
-iPerfis a widely used tool for network performance measurement and tuning. It is significant as a cross-platform tool that can produce standardized performance measurements for any network. Iperf has [client](https://en.wikipedia.org/wiki/Client_(computing)) and [server](https://en.wikipedia.org/wiki/Server_(computing)) functionality, and can create data streams to measure the throughput between the two ends in one or both directions. Typical Iperf output contains a time-stamped report of the amount of data transferred and the throughput measured.
+iPerf is a widely used tool for network performance measurement and tuning. It is significant as a cross-platform tool that can produce standardized performance measurements for any network. Iperf has [client](https://en.wikipedia.org/wiki/Client_(computing)) and [server](https://en.wikipedia.org/wiki/Server_(computing)) functionality, and can create data streams to measure the throughput between the two ends in one or both directions. Typical Iperf output contains a time-stamped report of the amount of data transferred and the throughput measured.
+
 The data streams can be either [Transmission Control Protocol](https://en.wikipedia.org/wiki/Transmission_Control_Protocol)(TCP) or [User Datagram Protocol](https://en.wikipedia.org/wiki/User_Datagram_Protocol)(UDP):
 
 - UDP: When used for testing UDP capacity, Iperf allows the user to specify the [datagram](https://en.wikipedia.org/wiki/Datagram#Packets_vs._datagrams) size and provides results for the datagram throughput and the [packet](https://en.wikipedia.org/wiki/Packet_(information_technology)) loss.
 - TCP: When used for testing TCP capacity, Iperf measures the throughput of the payload. Iperf uses 1024 × 1024 for [mebibytes](https://en.wikipedia.org/wiki/Mebibyte) and 1000 × 1000 for [megabytes](https://en.wikipedia.org/wiki/Megabyte).
+
 iperf is a tool for active measurements of the maximum achievable bandwidth on IP networks. It supports tuning of various parameters related to timing, protocols, and buffers. For each test it reports the measured throughput / bitrate, loss, and other parameters.
-This version, sometimes referred to as iperf3, is a redesign of an original version developed at NLANR/DAST. iperf3 is a new implementation from scratch, with the goal of a smaller, simpler code base, and a library version of the functionality that can be used in other programs. iperf3 also has a number of features found in other tools such as nuttcp and netperf, but were missing from the original iperf. These include, for example, a zero-copy mode and optional JSON output. Note that iperf3 isnotbackwards compatible with the original iperf.
+
+This version, sometimes referred to as iperf3, is a redesign of an original version developed at NLANR/DAST. iperf3 is a new implementation from scratch, with the goal of a smaller, simpler code base, and a library version of the functionality that can be used in other programs. iperf3 also has a number of features found in other tools such as nuttcp and netperf, but were missing from the original iperf. These include, for example, a zero-copy mode and optional JSON output. Note that iperf3 is not backwards compatible with the original iperf.
 
 ## Commands
 

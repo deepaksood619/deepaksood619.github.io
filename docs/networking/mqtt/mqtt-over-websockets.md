@@ -1,14 +1,13 @@
 # MQTT over WebSockets
 
-We've seen that MQTT is ideal for constrained devices and unreliable networks and that it is perfect for sending messages with a very low overhead. Naturally, it would be quite nice to send and receive MQTT messages directly in a browser. For example, on a mobile phone.MQTT over WebSocketsis the answer. MQTT over WebSockets enables the browser to leverage all MQTT features. You can use these capabilities for many interesting use cases:
+We've seen that MQTT is ideal for constrained devices and unreliable networks and that it is perfect for sending messages with a very low overhead. Naturally, it would be quite nice to send and receive MQTT messages directly in a browser. For example, on a mobile phone.MQTT over WebSockets is the answer. MQTT over WebSockets enables the browser to leverage all MQTT features. You can use these capabilities for many interesting use cases:
 
 - Display live information from a device or sensor.
 - Receive push notifications (for example, an alert or critical condition warning).
 - See the current status of devices with LWT and retained messages.
 - Communicate efficiently with mobile web applications.
-HTML5 websockets provide a full-duplex communication over a TCP connection. Most modern web browsers implement this specification, even on mobile devices. MQTT can be used in
 
-conjunction with websockets to allow any web application to behave like a full-featured MQTT client. A library that utilizes websockets for MQTT like the Paho Javascript Client is needed.
+HTML5 websockets provide a full-duplex communication over a TCP connection. Most modern web browsers implement this specification, even on mobile devices. MQTT can be used in conjunction with websockets to allow any web application to behave like a full-featured MQTT client. A library that utilizes websockets for MQTT like the Paho Javascript Client is needed.
 
 ## The advantages of using MQTT in web applications are
 
@@ -31,7 +30,7 @@ InMQTT over WebSockets, the MQTT message (for example, a CONNECT or PUBLISH pack
 
 ## Why not use MQTT directly?
 
-Currently, it is not possible to speak pure MQTT in a browser because it is not possible to open a raw TCP connection.[Socket API](http://www.w3.org/TR/raw-sockets/) will change that situation; however, few browsers implement this API yet.
+Currently, it is not possible to speak pure MQTT in a browser because it is not possible to open a raw TCP connection. [Socket API](http://www.w3.org/TR/raw-sockets/) will change that situation; however, few browsers implement this API yet.
 
 ## Secure WebSockets
 

@@ -55,10 +55,10 @@ The Unified Software Development Process or Unified Process is an [iterative and
 
 Here's the Action-Result method:
 
-- Action:Given the task at hand, how did you accomplish it? Once again, be clear and concise.
-- Result:This is the most important part of the A-R method. Here you'll want to describe using relevant metrics what your impact was from completing the task. This is how you communicate you are a high performer.
+- Action: Given the task at hand, how did you accomplish it? Once again, be clear and concise.
+- Result: This is the most important part of the A-R method. Here you'll want to describe using relevant metrics what your impact was from completing the task. This is how you communicate you are a high performer.
 
-An example:Launched Facebook Messenger from concept to launch, a way for users to message each other privately within the app, increasing D60 retention by 65% and user stickiness by 325%.
+An example: Launched Facebook Messenger from concept to launch, a way for users to message each other privately within the app, increasing D60 retention by 65% and user stickiness by 325%.
 
 Here, the applicant clearly describes what they did (launch Facebook Messenger), and the direct result from their action (increasing D60 retention and stickiness). It's important when you articulate your result that you use numbers - they help communicate their story with more impact and believability.
 

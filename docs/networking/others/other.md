@@ -66,9 +66,9 @@ pmacct is a small set of multi-purpose passive network monitoring tools. It can 
 - Flexible architecture to tag, filter, redirect, aggregate and split captured data
 - Comes with:
   - a BGP daemon/thread for efficient visibility into the inter-domain routing plane. Read more [here](http://www.pmacct.net/lucente_pmacct_uknof14.pdf).
-    - Supports BGP/MPLS VPNs rfc4364, Label Unicast rfc3107
-    - Supports BGP ADD-PATHs (draft-ietf-idr-add-paths) for visibility of BGP multi-path routes
-    - Can log live BGP messaging and/or dump BGP tables per peer at regular time interval
+  - Supports BGP/MPLS VPNs rfc4364, Label Unicast rfc3107
+  - Supports BGP ADD-PATHs (draft-ietf-idr-add-paths) for visibility of BGP multi-path routes
+  - Can log live BGP messaging and/or dump BGP tables per peer at regular time interval
   - a BMP daemon/thread to gain insight in BGP data, events and statistics
     - Supports draft-ietf-grow-bmp-loc-rib and draft-ietf-grow-bmp-adj-rib-out
   - an IS-IS/IGP thread for visibility of internal routes

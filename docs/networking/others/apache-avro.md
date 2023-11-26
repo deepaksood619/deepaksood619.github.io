@@ -1,6 +1,6 @@
 # Apache Avro
 
-*Apache Avro is a **language-neutral fast data serialization system**.* It was developed by Doug Cutting, the father of Hadoop. Since Hadoop writable classes lack language portability, Avro becomes quite helpful, as it deals with data formats that can be processed by multiple languages. Avro is a preferred tool to serialize data in Hadoop.
+Apache Avro is a **language-neutral fast data serialization system**. It was developed by Doug Cutting, the father of Hadoop. Since Hadoop writable classes lack language portability, Avro becomes quite helpful, as it deals with data formats that can be processed by multiple languages. Avro is a preferred tool to serialize data in Hadoop.
 Avro has a schema-based system. A language-independent schema is associated with its read and write operations. Avro serializes the data which has a built-in schema. Avro serializes the data into a compact binary format, which can be deserialized by any application.
 
 Avro uses JSON format to declare the data structures. Presently, it supports languages such as Java, C, C++, C#, Python, and Ruby.
@@ -17,7 +17,7 @@ Avro provides:
 
 ## Avro Schemas
 
-Avro depends heavily on itsschema. It allows every data to be written with no prior knowledge of the schema. It serializes fast and the resulting serialized data is lesser in size. Schema is stored along with the Avro data in a file for any further processing.
+Avro depends heavily on its schema. It allows every data to be written with no prior knowledge of the schema. It serializes fast and the resulting serialized data is lesser in size. Schema is stored along with the Avro data in a file for any further processing.
 
 In RPC, the client and the server exchange schemas during the connection. (This can be optimized so that, for most calls, no schemas are actually transmitted.) Since both client and server both have the other's full schema, correspondence between same named fields, missing fields, extra fields, etc. can all be easily resolved.
 
@@ -70,7 +70,7 @@ Here are some recommendations specific to Avro:
 
 <https://docs.aws.amazon.com/athena/latest/ug/avro.html>
 
-#### Disadvantage
+## Disadvantage
 
 Can't directly see files in S3, only csv, json and parquet supported in s3
 

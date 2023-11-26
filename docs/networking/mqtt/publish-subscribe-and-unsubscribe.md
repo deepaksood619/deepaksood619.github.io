@@ -4,8 +4,6 @@
 
 An MQTT client can publish messages as soon as it connects to a broker. MQTT utilizes topic-based filtering of the messages on the broker.Each message must contain a topic that the broker can use to forward the message to interested clients. Typically, each message has a payload which contains the data to transmit in byte format.MQTT is data-agnostic. The use case of the client determines how the payload is structured. The sending client (publisher) decides whether it wants to send binary data, text data, or even full-fledged XML or JSON.
 
-![image](../../media/Publish-Subscribe-&-Unsubscribe-image1.jpg)
-
 ## Topic Name
 
 The topic name is a simple string that is hierarchically structured with forward slashes as delimiters. For example, "myhome/livingroom/temperature" or "Germany/Munich/Octoberfest/people".
@@ -39,8 +37,6 @@ The client that initially publishes the message is only concerned about deliveri
 
 Publishing a message doesn't make sense if no one ever receives it. In other words, if there are no clients to subscribe to the topics of the messages. To receive messages on topics of interest, the client sends a [SUBSCRIBE](http://docs.oasis-open.org/mqtt/mqtt/v3.1.1/os/mqtt-v3.1.1-os.html#_Toc398718063) message to the MQTT broker. This subscribe message is very simple, it contains a unique packet identifier and a list of subscriptions.
 
-![image](../../media/Publish-Subscribe-&-Unsubscribe-image3.jpg)
-
 ## Packet Identifier
 
 The packet identifier uniquely identifies a message as it flows between the client and broker. The client library and/or the broker is responsible for setting this internal MQTT identifier.
@@ -52,8 +48,6 @@ A SUBSCRIBE message can contain multiple subscriptions for a client. Each subscr
 ## Suback
 
 To confirm each subscription, the broker sends a [SUBACK](http://docs.oasis-open.org/mqtt/mqtt/v3.1.1/os/mqtt-v3.1.1-os.html#_Toc398718068) acknowledgement message to the client. This message contains the packet identifier of the original Subscribe message (to clearly identify the message) and a list of return codes.
-
-![image](../../media/Publish-Subscribe-&-Unsubscribe-image4.jpg)
 
 ## Packet Identifier
 
@@ -77,8 +71,6 @@ After a client successfully sends the SUBSCRIBE message and receives the SUBACK 
 
 The counterpart of the SUBSCRIBE message is the [UNSUBSCRIBE](http://docs.oasis-open.org/mqtt/mqtt/v3.1.1/os/mqtt-v3.1.1-os.html#_Toc398718072) message. This message deletes existing subscriptions of a client on the broker. The UNSUBSCRIBE message is similar to the SUBSCRIBE message and has a packet identifier and a list of topics.
 
-![image](../../media/Publish-Subscribe-&-Unsubscribe-image6.jpg)
-
 ## Packet Identifier
 
 The packet identifier uniquely identifies a message as it flows between the client and broker. The client library and/or the broker is responsible for setting this internal MQTT identifier.
@@ -90,8 +82,6 @@ The list of topics can contain multiple topics from which the client wants to un
 ## Unsuback
 
 To confirm the unsubscribe, the broker sends an [UNSUBACK](http://docs.oasis-open.org/mqtt/mqtt/v3.1.1/os/mqtt-v3.1.1-os.html#_Toc398718077) acknowledgement message to the client. This message contains only the packet identifier of the original UNSUBSCRIBE message (to clearly identify the message).
-
-![image](../../media/Publish-Subscribe-&-Unsubscribe-image7.jpg)
 
 ## Packet Identifier
 

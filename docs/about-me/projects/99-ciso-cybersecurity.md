@@ -53,7 +53,7 @@ Automatic face detection using Viola-Jones Algorithm, corner detection using fix
 
 - jd (java decompiler)
 - PC Resource Check and sanitization
-	- System lockdown
+  - System lockdown
 - Hybrid Mobile Application using Ionic Framework
 - Digi in a box
 - Terminate, random 360, Id decline, Pause

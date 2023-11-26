@@ -5,16 +5,20 @@ In MQTT, the word topic refers to an UTF-8 string that the broker uses to filter
 ![image](../../media/Topics-&-Best-Practices-image1.jpg)
 
 In comparison to a message queue, MQTT topics are very lightweight. The client does not need to create the desired topic before they publish or subscribe to it. The broker accepts each valid topic without any prior initialization.
+
 Here are some examples of topics:
 
 ```bash
 myhome/groundfloor/livingroom/temperature
+
 USA/California/San Francisco/Silicon Valley
+
 5ff4a2ce-e485-40f4-826c-b1a5d81be9b6/status
+
 Germany/Bavaria/car/2382340923453/latitude
 ```
 
-Note that each topic must containat least 1 character and that the topic string permits empty spaces.Topics are case-sensitive.For example, _myhome/temperature and_MyHome/Temperature are two different topics. Additionally, the forward slash alone is a valid topic.
+Note that each topic must contain at least 1 character and that the topic string permits empty spaces.Topics are case-sensitive.For example, myhome/temperature and MyHome/Temperature are two different topics. Additionally, the forward slash alone is a valid topic.
 
 ## Wildcards
 
@@ -44,7 +48,7 @@ As the name suggests, a single-level wildcard replaces one topic level. The plus
 
 ![image](../../media/Topics-&-Best-Practices-image2.jpg)
 
-Any topic matches a topic with single-level wildcard if it contains an arbitrary string instead of the wildcard. For example a subscription to _myhome/groundfloor/+/temperature can produce the following results:
+Any topic matches a topic with single-level wildcard if it contains an arbitrary string instead of the wildcard. For example a subscription to `myhome/groundfloor/+/temperature` can produce the following results:
 
 ![image](../../media/Topics-&-Best-Practices-image3.jpg)
 
@@ -56,11 +60,11 @@ The multi-level wildcard covers many topic levels. The hash symbol represents th
 
 ![image](../../media/Topics-&-Best-Practices-image5.jpg)
 
-When a client subscribes to a topic with a multi-level wildcard, it receives all messages of a topic that begins with the pattern before the wildcard character, no matter how long or deep the topic is. If you specify only the multi-level wildcard as a topic (_#), you receive all messages that are sent to the MQTT broker. If you expect high throughput, subscription with a multi-level wildcard alone is an anti-pattern (see the best practices below).
+When a client subscribes to a topic with a multi-level wildcard, it receives all messages of a topic that begins with the pattern before the wildcard character, no matter how long or deep the topic is. If you specify only the multi-level wildcard as a topic (`#`), you receive all messages that are sent to the MQTT broker. If you expect high throughput, subscription with a multi-level wildcard alone is an anti-pattern (see the best practices below).
 
 ## Topics beginning with `$`
 
-Generally, you can name your MQTT topics as you wish. However, there is one exception: **Topics that start with a `$` symbol have a different purpose.** These topics are not part of the subscription when you subscribe to the multi-level wildcard as a topic (#).The `$-symbol` topics are reserved for internal statistics of the MQTT broker.Clients cannot publish messages to these topics. At the moment, there is no official standardization for such topics. Commonly,$SYS/is used for all the following information, but broker implementations varies.
+Generally, you can name your MQTT topics as you wish. However, there is one exception: **Topics that start with a `$` symbol have a different purpose.** These topics are not part of the subscription when you subscribe to the multi-level wildcard as a topic (#).The `$-symbol` topics are reserved for internal statistics of the MQTT broker.Clients cannot publish messages to these topics. At the moment, there is no official standardization for such topics. Commonly, `$SYS/` is used for all the following information, but broker implementations varies.
 
 ```bash
 $SYS/broker/clients/connected
@@ -74,7 +78,7 @@ $SYS/broker/uptime
 
 ### Never use a leading forward slash
 
-A leading forward slash is permitted in MQTT. For example,/myhome/groundfloor/livingroom. However, the leading forward slash introduces an unnecessary topic level with a zero character at the front. The zero does not provide any benefit and often leads to confusion.
+A leading forward slash is permitted in MQTT. For example, `/myhome/groundfloor/livingroom`. However, the leading forward slash introduces an unnecessary topic level with a zero character at the front. The zero does not provide any benefit and often leads to confusion.
 
 ### Never use spaces in a topic
 
@@ -90,7 +94,7 @@ Because non-ASCII UTF-8 characters often display incorrectly, it is very difficu
 
 ### Embed a unique identifier or the Client Id into the topic
 
-It can be very helpful to include the unique identifier of the publishing client in the topic. The unique identifier in the topic helps you identify who sent the message. The embedded ID can be used to enforce authorization. Only a client that has the same client ID as the ID in the topic is allowed to publish to that topic. For example, a client with the _client1 ID is allowed to publish to_client1/status, but not permitted to publish to_client2/status.
+It can be very helpful to include the unique identifier of the publishing client in the topic. The unique identifier in the topic helps you identify who sent the message. The embedded ID can be used to enforce authorization. Only a client that has the same client ID as the ID in the topic is allowed to publish to that topic. For example, a client with the client1 ID is allowed to publish to_client1/status, but not permitted to publish to_client2/status.
 
 ### Don't subscribe to `#`
 
@@ -102,7 +106,7 @@ Topics are a flexible concept and there is no need to preallocate them in any wa
 
 ### Use specific topics, not general ones
 
-When you name topics, don't use them in the same way as in a queue. Be as specific topics as possible. For example, if you have three sensors in your living room, create topics for _myhome/livingroom/temperature,_myhome/livingroom/brightness and _myhome/livingroom/humidity. Do not send all values over_myhome/livingroom. Use of a single topic for all messages is a anti pattern. Specific naming also makes it possible for you to use other MQTT features such as retained messages.
+When you name topics, don't use them in the same way as in a queue. Be as specific topics as possible. For example, if you have three sensors in your living room, create topics for myhome/livingroom/temperature, myhome/livingroom/brightness and myhome/livingroom/humidity. Do not send all values over myhome/livingroom. Use of a single topic for all messages is a anti pattern. Specific naming also makes it possible for you to use other MQTT features such as retained messages.
 
 ## References
 
