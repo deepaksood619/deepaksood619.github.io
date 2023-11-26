@@ -42,12 +42,15 @@ Feature Toggles are also refered to as Feature Flags, Feature Bits, or Feature F
 1. Dynamic routing vs dynamic configuration
 2. Prefer static configuration
 3. Approaches for managing toggle configuration
- - Hardcoded Toggle Configuration
- - Parametrized Toggle Configuration
- - Toggle Configuration File
- - Toggle Configuration in App DB
- - Distributed Toggle Configuration
+
+- Hardcoded Toggle Configuration
+- Parametrized Toggle Configuration
+- Toggle Configuration File
+- Toggle Configuration in App DB
+- Distributed Toggle Configuration
+
 4. Overriding Configuration
- - Per-request overrides
+
+- Per-request overrides
 
 <https://martinfowler.com/articles/feature-toggles.html>

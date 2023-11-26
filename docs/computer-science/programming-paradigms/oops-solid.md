@@ -1,6 +1,6 @@
 # OOPS / SOLID
 
-## AEIP - Abstraction, Encapsulation, Inheritance and Polymorphism
+AEIP - Abstraction, Encapsulation, Inheritance and Polymorphism
 
 ## Modularity
 
@@ -14,7 +14,7 @@ Means a real world entity (like a car, bus, pen, etc..)
 
 ## Classes
 
-Collection of objectsis called class. It is a logical entity.
+Collection of objects is called class. It is a logical entity.
 
 A class defines the behavior of an object and the kind of information an object can store. The information in a class is stored in attributes, and functions that belong to a class are called methods. A child class inherits the attributes and methods from its parent class.
 
@@ -69,53 +69,57 @@ Another example can be to speak something e.g. cat speaks meaw, dog barks woof e
 
 Types of polymorphism
 
-1. Parametric polymorphism
+### 1. Parametric polymorphism
 
-    This is a pretty common technique in many languages, albeit better known as "Generics". The core idea is to allow programmers to use a wildcard type when defining data structures that can later be filled with any type.
+This is a pretty common technique in many languages, albeit better known as "Generics". The core idea is to allow programmers to use a wildcard type when defining data structures that can later be filled with any type.
 
-    ![image](../../media/OOPS-SOLID-image1.jpg)
+![image](../../media/OOPS-SOLID-image1.jpg)
 
-2. Subtype polymorphism (most used type, using shape like triangle, rectangle and calling area like traingle.area(), rectangle.area())
+### 2. Subtype polymorphism
 
-    Subtyping is better known as object oriented inheritance. The classic example is a vehicle type, here in Java:
+Most used type, using shape like triangle, rectangle and calling area like traingle.area(), rectangle.area())
 
-    ```java
-    abstract class Vehicle {
-        abstract double getWeight();
-    }
+Subtyping is better known as object oriented inheritance. The classic example is a vehicle type, here in Java:
 
-    class Car extends Vehicle {
-        double getWeight() { return 10.0; }
-    }
+```java
+abstract class Vehicle {
+ abstract double getWeight();
+}
 
-    class Truck extends Vehicle {
-        double getWeight() { return 100.0; }
-    }
+class Car extends Vehicle {
+ double getWeight() { return 10.0; }
+}
 
-    class Toyota extends Car { /* ... */ }
+class Truck extends Vehicle {
+ double getWeight() { return 100.0; }
+}
 
-    static void printWeight(Vehicle v) {
-        // Allowed because all vehicles have to have this method
-        System.out.println(v.getWeight());
-    }
-    ```
+class Toyota extends Car { /* ... */ }
 
-3. Ad-Hoc polymorphism (AKA Type Classes)
+static void printWeight(Vehicle v) {
+ // Allowed because all vehicles have to have this method
+ System.out.println(v.getWeight());
+}
+```
 
-    This is more commonly known as function or operator overloading. In languages that allow this, you can define a function multiple times to deal with different input types. For example in Java:
+### 3. Ad-Hoc polymorphism (AKA Type Classes)
 
-    ```java
-    class Printer {
-        public String prettyPrint(int x) { /*...*/ }
-        public String prettyPrint(char c) { /*...*/ }
-    }
-    ```
+This is more commonly known as function or operator overloading. In languages that allow this, you can define a function multiple times to deal with different input types. For example in Java:
 
-4. Row Polymorphism
-5. Kind Polymorphism
-6. Higher-rank Polymorphism
-7. Linearity Polymorphism
-8. Levity Polymorphism
+```java
+class Printer {
+ public String prettyPrint(int x) { /*...*/ }
+ public String prettyPrint(char c) { /*...*/ }
+}
+```
+
+### Others
+
+1. Row Polymorphism
+2. Kind Polymorphism
+3. Higher-rank Polymorphism
+4. Linearity Polymorphism
+5. Levity Polymorphism
 
 <https://dev.to/jvanbruegge/what-the-heck-is-polymorphism-nmh>
 
@@ -238,39 +242,39 @@ According to the popular guide [Unified Process](https://en.wikipedia.org/wiki/U
 
 ## SOLID principles
 
-1. **Single Responsibility Principle**
+### 1. Single Responsibility Principle
 
-    A class should have one and only one reason to change, meaning that a class should have only one job
+A class should have one and only one reason to change, meaning that a class should have only one job
 
-2. **Open Closed Principle**
+### 2. Open Closed Principle
 
-    Objects or entities should be open for extension, but closed for modification
+Objects or entities should be open for extension, but closed for modification
 
-3. **Liskov Substitution Principle**
+### 3. Liskov Substitution Principle
 
-    Objects in a program should be replaceable with instances of their subtypes without altering the correctness of that program
+Objects in a program should be replaceable with instances of their subtypes without altering the correctness of that program
 
-    Letq(x)be a property provable about objects ofxof typeT. Thenq(y)should be provable for objectsyof type S where S is a subtype of T.
+Letq(x)be a property provable about objects ofxof typeT. Thenq(y)should be provable for objectsyof type S where S is a subtype of T.
 
-    All this is stating is that every subclass/derived class should be substitutable for their base/parent class.
+All this is stating is that every subclass/derived class should be substitutable for their base/parent class.
 
-4. **Interface Segregation Principle**
+### 4. Interface Segregation Principle
 
-    Many client-specific interfaces are better than one general-purpose interface
+Many client-specific interfaces are better than one general-purpose interface
 
-    A client should never be forced to implement an interface that it doesn't use or clients shouldn't be forced to depend on methods they do not use.
+A client should never be forced to implement an interface that it doesn't use or clients shouldn't be forced to depend on methods they do not use.
 
-5. **Dependency Inversion principle**
+### 5. Dependency Inversion principle
 
-    Entities must depend on abstractions not on concretions
+Entities must depend on abstractions not on concretions
 
-    It states that the high level module must not depend on the low level module, but they should depend on abstractions.
+It states that the high level module must not depend on the low level module, but they should depend on abstractions.
 
-    The dependency inversion principle tells us that we should always try to have dependencies on interfaces (or Abstract Classes), not classes.
+The dependency inversion principle tells us that we should always try to have dependencies on interfaces (or Abstract Classes), not classes.
 
-    <https://javapapers.com/oops/association-aggregation-composition-abstraction-generalization-realization-dependency>
+<https://javapapers.com/oops/association-aggregation-composition-abstraction-generalization-realization-dependency>
 
-    <https://scotch.io/bar-talk/s-o-l-i-d-the-first-five-principles-of-object-oriented-design>
+<https://scotch.io/bar-talk/s-o-l-i-d-the-first-five-principles-of-object-oriented-design>
 
 ## STUPID
 

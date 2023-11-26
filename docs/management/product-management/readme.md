@@ -1,5 +1,6 @@
 # Product Management
 
+- [Product Design Stages](management/product-management/product-design-stages.md)
 - [Product Management](management/product-management/intro.md)
 - [Product Manager Role](management/product-management/product-manager-role.md)
 - [Kano Model](management/product-management/kano-model.md)

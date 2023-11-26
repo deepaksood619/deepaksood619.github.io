@@ -7,6 +7,7 @@
 - [Acid and Base](acid-and-base)
 - [Concurrency Control](concurrency-control)
 - [Isolation Levels](isolation-levels)
+- [Database Workloads](databases/concepts/database-workloads.md)
 - [Disk Oriented vs In-memory DBs](disk-oriented-vs-in-memory-dbs)
 - [MVCC Multiversion Concurrency Control](mvcc-multiversion-concurrency-control)
 - [Rum Conjecture](rum-conjecture)

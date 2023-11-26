@@ -17,6 +17,7 @@
 - [Sales](management/sales.md)
 - [Customer Engagement / CX](customer-engagement-cx)
 - [Community Building](community-building)
+- [Six Sigma](management/six-sigma.md)
 - [Books / Blinkist - Management](books-blinkist-management)
 - [Others](management/others.md)
 
@@ -68,12 +69,8 @@
 - [Crisis Management](https://www.managementstudyguide.com/crisis-management-articles.htm)
 - [Workplace Violence](https://www.managementstudyguide.com/workplace-violence-articles.htm)
 - [Virtual Teams](https://www.managementstudyguide.com/virtual-teams-articles.htm)
-- [Public Administration](https://www.managementstudyguide.com/public-administration-articles.htm)
-
-[How to make traffic better, not worse](https://youtu.be/AR7caWQvWBQ)
-
+- [Public Administration](https://www.managementstudyguide.com/public-administration-articles.htm) - [How to make traffic better, not worse](https://youtu.be/AR7caWQvWBQ)
 - Transit oriented development
-
 - [Non Profit Organizations](https://www.managementstudyguide.com/non-profit-organizations-articles.htm)
 - [Political Science](https://www.managementstudyguide.com/political-science-articles.htm)
 - [Group Behavior](https://www.managementstudyguide.com/group-behavior-articles.htm)

@@ -156,6 +156,7 @@ build
 # git update-index --assume-unchanged docs/.obsidian/workspace.json
 workspace.json
 data.json
+graph.json
 
 # personal wikis
 Office

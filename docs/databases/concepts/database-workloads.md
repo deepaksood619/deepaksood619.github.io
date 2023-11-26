@@ -17,7 +17,8 @@ is characterized by relatively low volume of transactions. Queries are often ver
 
 - Help business with decision making and problem solving
 - Queries a large amount of data
-The following table summarizes the major differences between OLTP and OLAP system design.
+
+### Differences between OLTP and OLAP system design
 
 | | **OLTP System Online Transaction Processing (Operational System)** | **OLAP System Online Analytical Processing (Data Warehouse)** |
 |---|---|---|
