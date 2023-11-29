@@ -46,8 +46,6 @@ Zabbix is an open source monitoring software tool for diverse IT components, inc
 - A Zabbix [agent](https://en.wikipedia.org/wiki/Software_agent) can also be installed on UNIX and Windows hosts to monitor statistics such as CPU load, network utilization, disk space, etc.
 - As an alternative to installing an agent on hosts, Zabbix includes support for monitoring via [SNMP](https://en.wikipedia.org/wiki/Simple_Network_Management_Protocol), [TCP](https://en.wikipedia.org/wiki/Transmission_Control_Protocol) and [ICMP](https://en.wikipedia.org/wiki/Internet_Control_Message_Protocol) checks, as well as over [IPMI](https://en.wikipedia.org/wiki/Intelligent_Platform_Management_Interface), [JMX](https://en.wikipedia.org/wiki/Java_Management_Extensions), [SSH](https://en.wikipedia.org/wiki/Secure_Shell), [Telnet](https://en.wikipedia.org/wiki/Telnet) and using custom parameters. Zabbix supports a variety of near-real-time notification mechanisms, including [XMPP](https://en.wikipedia.org/wiki/Extensible_Messaging_and_Presence_Protocol).
 
-## References
-
 <https://en.wikipedia.org/wiki/Zabbix>
 
 <https://www.zabbix.com>
@@ -56,7 +54,7 @@ Zabbix is an open source monitoring software tool for diverse IT components, inc
 
 Nagios [/ˈnɑːɡiːoʊs/](https://en.wikipedia.org/wiki/Help:IPA/English), now known as Nagios Core, is a [free](https://en.wikipedia.org/wiki/Free_software) and [open source](https://en.wikipedia.org/wiki/Open-source_software)[computer](https://en.wikipedia.org/wiki/Computer)-[software application](https://en.wikipedia.org/wiki/Software_application) that [monitors](https://en.wikipedia.org/wiki/Event_monitoring) [systems](https://en.wikipedia.org/wiki/System_monitor), [networks](https://en.wikipedia.org/wiki/Network_monitoring) and infrastructure. Nagios offers monitoring and alerting services for servers, switches, applications and services. It alerts users when things go wrong and alerts them a second time when the problem has been resolved
 
-## Features
+### Features
 
 - Monitoring of network services ([SMTP](https://en.wikipedia.org/wiki/Simple_Mail_Transfer_Protocol), [POP3](https://en.wikipedia.org/wiki/Post_Office_Protocol), [HTTP](https://en.wikipedia.org/wiki/Hypertext_Transfer_Protocol), [NNTP](https://en.wikipedia.org/wiki/Network_News_Transfer_Protocol), [ICMP](https://en.wikipedia.org/wiki/Internet_Control_Message_Protocol), [SNMP](https://en.wikipedia.org/wiki/Simple_network_management_protocol), [FTP](https://en.wikipedia.org/wiki/File_Transfer_Protocol), [SSH](https://en.wikipedia.org/wiki/Secure_Shell))
 - Monitoring of host resources ([processor](https://en.wikipedia.org/wiki/Central_processing_unit) load, [disk](https://en.wikipedia.org/wiki/Hard_disk) usage, system logs) on a majority of [network operating systems](https://en.wikipedia.org/wiki/Network_operating_system), including [Microsoft Windows](https://en.wikipedia.org/wiki/Microsoft_Windows), using [monitoring agents](https://en.wikipedia.org/wiki/Nagios#Nagios_agents).
@@ -82,7 +80,7 @@ Nagios [/ˈnɑːɡiːoʊs/](https://en.wikipedia.org/wiki/Help:IPA/English), now
 
 Monit is a small Open Source utility for managing and monitoring Unix systems. Monit conducts automatic maintenance and repair and can execute meaningful causal actions in error situations.
 
-## Mmonit
+### Mmonit
 
 M/Monit can monitor and manage distributed computer systems, conduct automatic maintenance and repair and execute meaningful causal actions in error situations.
 
@@ -92,7 +90,7 @@ M/Monit can monitor and manage distributed computer systems, conduct automatic m
 
 Sentry fundamentally is a service that helps you monitor and fix crashes in realtime. The server is in Python, but it contains a full API for sending events from any language, in any application.
 
-## settings.py
+### settings.py
 
 ```python
 settings.py
@@ -186,14 +184,11 @@ Send error logs (record exception) - <https://docs.newrelic.com/docs/agents/pyth
 
 <https://docs.newrelic.com/docs/integrations/kubernetes-integration/kubernetes-events/kubernetes-integration-predefined-alert-policy>
 
-## Data Tables
+### Data Tables
 
 1. A screenshot of a table in New Relic where you were particularly frustrated by how it displays your data.
-
 2. A screenshot of a table in New Relic where you felt it was missing information that would make it easier for you to complete a task that you're trying to do.
-
 3. A screenshot of a table in New Relic where you felt that this table is really is really well set up for your needs.
-
 4. A screenshot of a data table from somewhere else, that you think New Relic could learn from something that they are doing differently
 
 ## Sensu

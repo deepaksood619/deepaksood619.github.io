@@ -11,3 +11,4 @@
   - [Concepts](influxdb/concepts)
   - [Kapacitor](influxdb/kapacitor)
   - [Others](influxdb/others)
+  - [Upgrades](databases/nosql-databases/time-series-db/influxdb/upgrades.md)
