@@ -8,7 +8,6 @@
 - Storage layer - massively scalable pub/sub message queue designed as a distributed transaction log (highly valuable for enterprise infrastructures to process streaming data)
 - Kafka connects to external systems (for data import/export) via Kafka Connect and provides Kafka Streams, a Java stream processing library
 - Design is heavily influenced by [transaction logs](https://en.wikipedia.org/wiki/Transaction_log). (based on commit log)
-
 - Fault tolerant highly available queue used in publisher-subscriber or streaming application
 - It can deliver message exactly once and also it keeps all the messages ordered inside a parition of a topic
 - Horizontally scalable, fault-tolerant, wicked fast
@@ -22,7 +21,6 @@
 
 - Building real-time streaming data pipelines that reliably get data between systems or applications
 - Building real-time streaming applications that transform or react to the streams of data
-
 - Publish and Subscribe - Read and write streams of data like a messaging system
 - Process - Write scalable stream processing applications that react to events in real-time
 - Store - Store streams of data safely in a distributed, replicated, fault-tolerant cluster

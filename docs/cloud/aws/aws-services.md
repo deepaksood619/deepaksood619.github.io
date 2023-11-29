@@ -41,6 +41,7 @@
    ```
 
 2. AWS Auto Scaling - Scale Multiple Resources to Meet Demand
+
 3. AWS CloudFormation
 
    Create and Manage Resources with Templates
@@ -79,10 +80,7 @@
 10. AWS Deep Learning AMIs - Quickly Start Deep Learning on EC2
 11. Apache MXNet on AWS - Scalable, High-performance Deep Learning
 12. TensorFlow on AWS - Open-source Machine Intelligence Library
-13. Amazon Textract - Easily extract printed text, handwriting, and data from virtually any document
-
-      <https://github.com/aws-samples/amazon-textract-code-samples/tree/master/python>
-
+13. Amazon Textract - Easily extract printed text, handwriting, and data from virtually any document - <https://github.com/aws-samples/amazon-textract-code-samples/tree/master/python>
 14. Amazon Kendra
 
 Highly accurate intelligent search service powered by machine learning
@@ -111,34 +109,35 @@ Highly accurate intelligent search service powered by machine learning
 
 ## Application Integeration
 
-1. AWS Step Functions
+### 1. AWS Step Functions
 
-   Coordinate Distributed Applications
+Coordinate Distributed Applications
 
-   AWS Step Functions is a serverless function orchestrator that makes it easy to sequence AWS Lambda functions and multiple AWS services into business-critical applications. Through its visual interface, you can create and run a series of checkpointed and event-driven workflows that maintain the application state.The output of one step acts as an input to the next. Each step in your application executes in order, as defined by your business logic.
+AWS Step Functions is a serverless function orchestrator that makes it easy to sequence AWS Lambda functions and multiple AWS services into business-critical applications. Through its visual interface, you can create and run a series of checkpointed and event-driven workflows that maintain the application state.The output of one step acts as an input to the next. Each step in your application executes in order, as defined by your business logic.
 
-   Orchestrating a series of individual serverless applications, managing retries, and debugging failures can be challenging. As your distributed applications become more complex, the complexity of managing them also grows. Step Functions automatically manages error handling, retry logic, and state.With its built-in operational controls, Step Functions manages sequencing, error handling, retry logic, and state, removing a significant operational burden from your team.
+Orchestrating a series of individual serverless applications, managing retries, and debugging failures can be challenging. As your distributed applications become more complex, the complexity of managing them also grows. Step Functions automatically manages error handling, retry logic, and state.With its built-in operational controls, Step Functions manages sequencing, error handling, retry logic, and state, removing a significant operational burden from your team.
 
-2. Amazon Simple Queue Service (SQS) - Managed Message Queues
-3. Amazon Simple Notification Service (SNS)
+### 2. Amazon Simple Queue Service (SQS) - Managed Message Queues
 
-   Pub/Sub, Mobile Push and SMS
+### 3. Amazon Simple Notification Service (SNS)
 
-   Amazon Simple Notification Service (SNS) is a highly available, durable, secure, fully managed pub/sub messaging service that enables you to decouple microservices, distributed systems, and serverless applications. Amazon SNS provides topics for high-throughput, push-based, many-to-many messaging. Using Amazon SNS topics, your publisher systems can fan out messages to a large number of subscriber endpoints for parallel processing, including [Amazon SQS](https://aws.amazon.com/sqs/) queues, [AWS Lambda](https://aws.amazon.com/lambda/) functions, and HTTP/S webhooks. Additionally, SNS can be used to fan out notifications to end users using mobile push, SMS, and email.
+Pub/Sub, Mobile Push and SMS
 
-4. Amazon MQ
+Amazon Simple Notification Service (SNS) is a highly available, durable, secure, fully managed pub/sub messaging service that enables you to decouple microservices, distributed systems, and serverless applications. Amazon SNS provides topics for high-throughput, push-based, many-to-many messaging. Using Amazon SNS topics, your publisher systems can fan out messages to a large number of subscriber endpoints for parallel processing, including [Amazon SQS](https://aws.amazon.com/sqs/) queues, [AWS Lambda](https://aws.amazon.com/lambda/) functions, and HTTP/S webhooks. Additionally, SNS can be used to fan out notifications to end users using mobile push, SMS, and email.
 
-   Managed Message Broker for ActiveMQ
+### 4. Amazon MQ
 
-   Amazon MQ is a managed message broker service for Apache ActiveMQ that makes it easy to set up and operate message brokers in the cloud. Message brokers allow different software systems--often using different programming languages, and on different platforms--to communicate and exchange information. Amazon MQ reduces your operational load by managing the provisioning, setup, and maintenance of ActiveMQ, a popular open-source message broker. Connecting your current applications to Amazon MQ is easy because it uses industry-standard APIs and protocols for messaging, including JMS, NMS, AMQP, STOMP, MQTT, and WebSocket. Using standards means that in most cases, there's no need to rewrite any messaging code when you migrate to AWS.
+Managed Message Broker for ActiveMQ
 
-5. Amazon Eventbridge
+Amazon MQ is a managed message broker service for Apache ActiveMQ that makes it easy to set up and operate message brokers in the cloud. Message brokers allow different software systems--often using different programming languages, and on different platforms--to communicate and exchange information. Amazon MQ reduces your operational load by managing the provisioning, setup, and maintenance of ActiveMQ, a popular open-source message broker. Connecting your current applications to Amazon MQ is easy because it uses industry-standard APIs and protocols for messaging, including JMS, NMS, AMQP, STOMP, MQTT, and WebSocket. Using standards means that in most cases, there's no need to rewrite any messaging code when you migrate to AWS.
 
-   Amazon EventBridge is a serverless event bus that makes it easy to connect applications together using data from your own applications, integrated Software-as-a-Service (SaaS) applications, and AWS services. EventBridge delivers a stream of real-time data from event sources, such as Zendesk, Datadog, or Pagerduty, and routes that data to targets like AWS Lambda. You can set up routing rules to determine where to send your data to build application architectures that react in real time to all of your data sources. EventBridge makes it easy to build event-driven applications because it takes care of event ingestion and delivery, security, authorization, and error handling for you.
+### 5. Amazon Eventbridge
 
-   Schema Registry - Now in Preview:As your applications become more interconnected through events, you need to spend more effort in finding events and understanding their structure in order to write code to react to those events. The Amazon EventBridge schema registry stores event structure - or schema - in a shared central location and maps those schemas to code for Java, Python, and Typescript so it's easy to use events as objects in your code. Schema from your event bus can be automatically added to the registry through the schema discovery feature. You can connect to and interact with the schema registry from the AWS Management Console, APIs, or the SDK Toolkits for Jetbrains (Intellij, PyCharm, Webstorm, Rider) and VS Code.
+Amazon EventBridge is a serverless event bus that makes it easy to connect applications together using data from your own applications, integrated Software-as-a-Service (SaaS) applications, and AWS services. EventBridge delivers a stream of real-time data from event sources, such as Zendesk, Datadog, or Pagerduty, and routes that data to targets like AWS Lambda. You can set up routing rules to determine where to send your data to build application architectures that react in real time to all of your data sources. EventBridge makes it easy to build event-driven applications because it takes care of event ingestion and delivery, security, authorization, and error handling for you.
 
-   <https://aws.amazon.com/eventbridge>
+Schema Registry - Now in Preview:As your applications become more interconnected through events, you need to spend more effort in finding events and understanding their structure in order to write code to react to those events. The Amazon EventBridge schema registry stores event structure - or schema - in a shared central location and maps those schemas to code for Java, Python, and Typescript so it's easy to use events as objects in your code. Schema from your event bus can be automatically added to the registry through the schema discovery feature. You can connect to and interact with the schema registry from the AWS Management Console, APIs, or the SDK Toolkits for Jetbrains (Intellij, PyCharm, Webstorm, Rider) and VS Code.
+
+<https://aws.amazon.com/eventbridge>
 
 ## Customer Engagement
 
@@ -148,19 +147,21 @@ Highly accurate intelligent search service powered by machine learning
 
 ## Business Productivity
 
-1. Alexa for Business - Empower your Organization with Alexa
-2. Amazon Chime
+### 1. Alexa for Business - Empower your Organization with Alexa
 
-   Frustation-free Meetings, Video Calls, and Chat
+### 2. Amazon Chime
 
-   Amazon Chime is a communications service that lets you meet, chat, and place business calls inside and outside your organization, all using a single application. Developers can use the same communications infrastructure and services that power Amazon Chime, and add audio calling, video calling, and screen sharing capabilities directly to their applications using the Amazon Chime SDK.
+Frustation-free Meetings, Video Calls, and Chat
 
-   Amazon Chime Voice Connector is a service that enables enterprises to migrate their telephony workloads to AWS. IT professionals can use Voice Connector for low-cost SIP trunking from on-premises or cloud-based phone systems. Voice Connector supports inbound calling, outbound calling, or both. Developers can also use Voice Connector to build PSTN calling in their own applications using the Amazon Chime SDK or stream audio for phone call analytics and machine learning.
+Amazon Chime is a communications service that lets you meet, chat, and place business calls inside and outside your organization, all using a single application. Developers can use the same communications infrastructure and services that power Amazon Chime, and add audio calling, video calling, and screen sharing capabilities directly to their applications using the Amazon Chime SDK.
 
-   <https://aws.amazon.com/chime>
+Amazon Chime Voice Connector is a service that enables enterprises to migrate their telephony workloads to AWS. IT professionals can use Voice Connector for low-cost SIP trunking from on-premises or cloud-based phone systems. Voice Connector supports inbound calling, outbound calling, or both. Developers can also use Voice Connector to build PSTN calling in their own applications using the Amazon Chime SDK or stream audio for phone call analytics and machine learning.
 
-3. Amazon WorkDocs - Enterprise Storage and Sharing Service
-4. Amazon WorkMail - Secure and Managed Business Email and Calendaring
+<https://aws.amazon.com/chime>
+
+### 3. Amazon WorkDocs - Enterprise Storage and Sharing Service
+
+### 4. Amazon WorkMail - Secure and Managed Business Email and Calendaring
 
 ## Desktop & App Streaming
 

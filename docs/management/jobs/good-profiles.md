@@ -40,6 +40,33 @@ I started my professional journey with the prestigious CITI group wherein I was 
 
 Just like the problem statements being thrown at PMs, the skillset that you will develop cannot be easily defined. I feel that being a PM forces you to pull different threads in your talent pool - the analytical mindset to read data, the creative flair for the best user journey, the smoothest sales pitch to get stakeholder buy-in, and the patience to execute end-to-end. As a PM, I need to be the CEO of my product!
 
+### Software
+
+[linkedin.com/in/rajeshkthiagarajan/](https://www.linkedin.com/in/rajeshkthiagarajan/)
+
+I am a global product, technology & business leader excited to help teams be purpose-driven and build game-changing products & services.
+
+Currently, I work as a principal consultant at "Equal Experts" (EE). At EE, I am responsible for helping the clients of EE in their digital transformation journey. I mainly focus on business-strategy-oriented digital solutions and related product development.
+
+Over the last 19+ years, I have handled various roles across product management, client relationship management, and service delivery for flagship brands, including - McKool Smith, Trilogy, Bank of America, Goldman Sachs, British Petroleum, AthenaHealth, Network International and IBS.
+
+During this time, I leveraged my customer-first thinking from my product background and the ability to scope, and consult with clients to execute transformational projects.
+
+My expertise is in building, running & growing high-impact teams that leverage technology.
+
+I specialize in
+• Building a culture that celebrates collaboration, innovation, learning, diversity & radical candour.
+• Creating a vision for products that are inspiring and a strategy that is clear, relatable and executable.
+• Drawing on a toolkit of agile, lean, and user-centred practices to set strategic bets, minimize risk & deliver outcomes.
+
+In short:
+
+1. 19+ years of progressive leadership experience across global brands & tech businesses in India, Emerging Markets, Uk and the US.
+2. Hands-on, multi-functional (Product, Strategy, Technology, Design, Analytics, Operations) leader successfully building teams, businesses, and customer-centric products.
+3. In-depth experience in developing and product managing B2B products from scratch and scaling to thousands of active users.
+4. Proven ability to work with the process dynamics of both established large firms and fast-growing start-ups.
+5. Adept in leading teams through rapid growth & change.
+
 ## Others
 
 - Yiwen Gong - <gyw@google.com>

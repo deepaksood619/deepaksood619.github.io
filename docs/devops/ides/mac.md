@@ -233,6 +233,12 @@ Search for - Silence bell in preferences
 
 Unchecking the "User interface sounds" doesn't disable all sound. But sliding the "Alert Volume" option all the way to the left (minimum), together with unchecking the other options does the trick.
 
+##### Others
+
+- Finder - show status bar
+- Default Downloads folder
+- Search the current folder
+
 #### Setting up Shell
 
 - install iterm2
