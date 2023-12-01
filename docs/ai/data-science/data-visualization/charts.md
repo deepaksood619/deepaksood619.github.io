@@ -157,3 +157,9 @@
 3. Filled-Area Animation
 4. Visualizing MRI Volume Slices
 5. Heatmap Animation
+
+## Libraries
+
+- [GitHub - highcharts/highcharts: Highcharts JS, the JavaScript charting framework](https://github.com/highcharts/highcharts)
+- [Chart.js | Open source HTML5 Charts for your website](https://www.chartjs.org/)
+- [10+ Free JavaScript Chart Library📊you must use in 2023. - DEV Community](https://dev.to/themeselection/10-javascript-chart-library-you-must-use-k20)

@@ -6,7 +6,7 @@ Where operations teams would manage the infrastructure resource allocations to t
 
 Cloud-native platforms, like Kubernetes, expose a flat network that is overlaid on existing networking topologies and primitives of cloud providers. Similarly, the native storage layer is often abstracted to expose logical volumes that are integrated with containers. Operators can allocate storage quotas and network policies that are accessed by developers and resource administrators. The infrastructure abstraction not only addresses the need for portability across cloud environments, but also lets developers take advantage of emerging patterns to build and deploy applications. Orchestration managers become the deployment target, irrespective of the underlying infrastructure that may be based on physical servers or virtual machines, private clouds or public clouds.
 
-Kubernetes is an ideal platform for running contemporary workloads designed as cloud-native applications. It's become the de facto operating system for the cloud, in meuch the same way Linux is the operating system for the underlying machines.
+Kubernetes is an ideal platform for running contemporary workloads designed as cloud-native applications. It's become the de facto operating system for the cloud, in much the same way Linux is the operating system for the underlying machines.
 
 ## 10 Key Attributes of Cloud-Native Applications
 

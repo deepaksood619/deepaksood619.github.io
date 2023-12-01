@@ -16,6 +16,21 @@
 12. [Effective and Efficient Observability with OpenTelemetry - YouTube](https://www.youtube.com/watch?v=kh_IZlSj8DU)
 13. [130 People – No Bosses: Too Good To Be True? in 4 Minutes • Helle Markmann • GOTO 2023 - YouTube](https://www.youtube.com/watch?v=fR12tWwTLHo)
 14. [Quarkus Unveiled: Efficiency & Green Impact • Holly Cummins & Charles Humble • GOTO 2023 - YouTube](https://www.youtube.com/watch?v=7bvQXb3Nv0E)
+15. [One Rule to Rule Them All • Pragmatic Dave Thomas • GOTO 2023](https://youtu.be/ug8XX2MpzEw?si=f_QqQSSIKoqNBYda)
+16. [The One Where We Threat Model During Development • Izar Tarandach • GOTO...](https://youtu.be/_Pam1hkkzyM?si=u6MvN7WcyOJseiEV)
+17. [Advanced Music Production with FL Studio – Tutorial](https://youtu.be/I_ShMaNw0Rc?si=QI4YhgrivzFnEExr)
+18. [How Data & Software Eng. Teams Collaborate to Ensure Smooth Data Integra...](https://youtu.be/x-FPdvCCbL8?si=wKHl5wyv_YKOT9BC)
+19. [F2023 #22 - Distributed Transaction Processing Databases (CMU Intro to D...](https://youtu.be/QRJs_57Pung?si=UvLjXPQUFdmkjP7w)
+20. [Deep Q-Networks Explained!](https://youtu.be/x83WmvbRa2I?si=2JQkkSpExE26txKR)
+21. [F2023 #22 - Distributed Transaction Processing Databases (CMU Intro to D...](https://youtu.be/QRJs_57Pung?si=QK9LXnr_AIG5ajY8)
+22. [Chroma Vector Database: Retrieval for LLMs (Hammad Bashir + Liquan Pei)](https://youtu.be/E4ot5d79jdA?si=6apWFfCdKbi7_yFK)
+23. [Pijul: Version-Control Post-Git in 4 Minutes • Pierre-Étienne Meunier • ...](https://youtu.be/dgXnVx94c9E?si=Bc1DnpV_RS7I3GQP)
+24. [How Git Works: Explained in 4 Minutes](https://youtu.be/e9lnsKot_SQ?si=5hKhbdIy2r4Apope)
+25. [CodeSandbox Frontend System Design | Mock Interview | 💪Chakde System Des...](https://youtu.be/o5aoJlcS8Rc?si=LzU5hRiYbISxdElA)
+26. [Ace the Senior Frontend Interview & beyond at Atlassian | Chakde Intervi...](https://youtu.be/pBDpZtuGKxI?si=1KE6BekUOJMaz7cM)
+27. [What Is A Backend For A Frontend (BFF) Architecture Pattern](https://youtu.be/SSo-z16wEnc?si=Mhvmiw2V-E11gm-4)
+28. [Mastering how web works ? | Frontend For Everyone](https://youtu.be/s7fa2s8Ry4M?si=57a7i--t3uqTu0Ou)
+29. [Resource Lists for Senior Engineers: WhitePapers, Blogs and Videos](https://www.youtube.com/live/dbc6kC8lWvk?si=hUwanVhbr4SvwHp4)
 
 ## Podcasts
 

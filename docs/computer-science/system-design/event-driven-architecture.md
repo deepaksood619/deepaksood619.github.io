@@ -54,6 +54,7 @@ Replaying all the events from the logs can give any state of the system at any t
 2. CQRS - Command and Query Responsibility Segregation
 
 CQRS is a fancy name for an architecture that uses different data models to represent read and write operations.
+
 At its heart is the notion that you can use a different model to update information than the model you use to read information.
 
 ![image](../../media/Event-driven-architecture-image1.jpg)
@@ -85,8 +86,8 @@ Event-driven architecture (EDA) means constructing your system as a series of co
 
 Not withstanding their differences, we can observe that there is a close relationship between a stream and a table. We call this the [stream-table duality](https://www.confluent.io/blog/streams-tables-two-sides-same-coin/). What this means is:
 
-- We can turn a stream into a tableby aggregating the stream with operations such asCOUNT()orSUM(), for example. In our chess analogy, we could reconstruct the board's latest state (table) by replaying all recorded moves (stream).
-- We can turn a table into a streamby capturing the changes made to the table - inserts, updates, and deletes - into a "change stream." This process is often called [change data capture](https://en.wikipedia.org/wiki/Change_data_capture) or CDC for short. In the chess analogy, we could achieve this by observing the last played move and recording it (into the stream) or, alternatively, by comparing the board's state (table) before and after the last move and then recording the difference of what changed (into the stream), though this is likely slower than the first option.
+- We can turn a stream into a table by aggregating the stream with operations such asCOUNT()orSUM(), for example. In our chess analogy, we could reconstruct the board's latest state (table) by replaying all recorded moves (stream).
+- We can turn a table into a stream by capturing the changes made to the table - inserts, updates, and deletes - into a "change stream." This process is often called [change data capture](https://en.wikipedia.org/wiki/Change_data_capture) or CDC for short. In the chess analogy, we could achieve this by observing the last played move and recording it (into the stream) or, alternatively, by comparing the board's state (table) before and after the last move and then recording the difference of what changed (into the stream), though this is likely slower than the first option.
 
 In fact, a table is fully defined by its underlying change stream. If you have ever worked with a relational database such as Oracle or MySQL, these change streams exist there, too! Here, however, they are a hidden implementation detail - albeit an absolutely critical one - and have names like [redo log](https://docs.oracle.com/cd/B28359_01/server.111/b28310/onlineredo001.htm#ADMIN11302) or [binary log](https://dev.mysql.com/doc/internals/en/binary-log-overview.html). In event streaming, the redo log is much more than an implementation detail. It's a first-class entity: a stream. We can turn streams into tables and tables into streams, which is one reason why we say that event streaming and Kafka are [turning the database inside out](https://www.confluent.io/blog/turning-the-database-inside-out-with-apache-samza/).
 
@@ -102,31 +103,31 @@ In fact, a table is fully defined by its underlying change stream. If you have e
 
 Consider these patterns when implementing asynchronous messaging:
 
-- [Competing Consumers Pattern](https://docs.microsoft.com/en-us/azure/architecture/patterns/competing-consumers)
+### - [Competing Consumers Pattern](https://docs.microsoft.com/en-us/azure/architecture/patterns/competing-consumers)
 
 Multiple consumers may need to compete to read messages from a queue. This pattern explains how to process multiple messages concurrently to optimize throughput, to improve scalability and availability, and to balance the workload.
 
-- [Priority Queue Pattern](https://docs.microsoft.com/en-us/azure/architecture/patterns/priority-queue)
+### - [Priority Queue Pattern](https://docs.microsoft.com/en-us/azure/architecture/patterns/priority-queue)
 
 For cases where the business logic requires that some messages are processed before others, this pattern describes how messages posted by a producer that have a higher priority can be received and processed more quickly by a consumer than messages of a lower priority.
 
-- [Queue-based Load Leveling Pattern](https://docs.microsoft.com/en-us/azure/architecture/patterns/queue-based-load-leveling)
+### - [Queue-based Load Leveling Pattern](https://docs.microsoft.com/en-us/azure/architecture/patterns/queue-based-load-leveling)
 
 This pattern uses a message broker to act as a buffer between a producer and a consumer to help to minimize the impact on availability and responsiveness of intermittent heavy loads for both those entities.
 
-- [Retry Pattern](https://docs.microsoft.com/en-us/azure/architecture/patterns/retry)
+### - [Retry Pattern](https://docs.microsoft.com/en-us/azure/architecture/patterns/retry)
 
 A producer or consumer might be unable connect to a queue, but the reasons for this failure may be temporary and quickly pass. This pattern describes how to handle this situation to add resiliency to an application.
 
-- [Scheduler Agent Supervisor Pattern](https://docs.microsoft.com/en-us/azure/architecture/patterns/scheduler-agent-supervisor)
+### - [Scheduler Agent Supervisor Pattern](https://docs.microsoft.com/en-us/azure/architecture/patterns/scheduler-agent-supervisor)
 
 Messaging is often used as part of a workflow implementation. This pattern demonstrates how messaging can coordinate a set of actions across a distributed set of services and other remote resources, and enable a system to recover and retry actions that fail.
 
-- [Choreography pattern](https://docs.microsoft.com/en-us/azure/architecture/patterns/choreography)
+### - [Choreography pattern](https://docs.microsoft.com/en-us/azure/architecture/patterns/choreography)
 
 This pattern shows how services can use messaging to control the workflow of a business transaction.
 
-- [Claim-Check Pattern](https://docs.microsoft.com/en-us/azure/architecture/patterns/claim-check)
+### - [Claim-Check Pattern](https://docs.microsoft.com/en-us/azure/architecture/patterns/claim-check)
 
 This pattern shows how to split a large message into a claim check and a payload.
 
@@ -138,9 +139,9 @@ This pattern shows how to split a large message into a claim check and a payload
 
 ![image](../../media/Event-driven-architecture-image6.jpg)
 
-## Orchestration - command-driven architecture
+Orchestration - command-driven architecture
 
-## Choreography - event-driven communication
+Choreography - event-driven communication
 
 ![image](../../media/Event-driven-architecture-image7.jpg)
 
@@ -167,6 +168,7 @@ This pattern shows how to split a large message into a claim check and a payload
 <https://segment.com/blog/exactly-once-delivery>
 
 [GOTO 2017 - The Many Meanings of Event-Driven Architecture - Martin Fowler](https://www.youtube.com/watch?v=STKCRSUsyP0)
+
 LMAX Architecture
 
 - <https://martinfowler.com/articles/lmax.html>
@@ -180,7 +182,7 @@ LMAX Architecture
 
 Task queues manage background work that must be executed outside the usual HTTP request-response cycle.
 
-## Why are task queues necessary?
+### Why are task queues necessary?
 
 Tasks are handled asynchronously either because they are not initiated by an HTTP request or because they are long-running jobs that would dramatically reduce the performance of an HTTP response.
 

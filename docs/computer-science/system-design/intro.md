@@ -20,9 +20,11 @@ Systems design is the process of defining the [architecture](https://en.wikipedi
 1. Features
 2. Define APIs
 3. Availability (CAP Theorem)
-   - Consistency
-   - Availability, and
-   - Partition Tolerance
+
+- Consistency
+- Availability, and
+- Partition Tolerance
+
 4. Latency Performance (If customer facing application, then latency matters)
 5. Scalability (Add more users and requests)
 6. Durability (Data is not lost or compromised)
@@ -30,46 +32,55 @@ Systems design is the process of defining the [architecture](https://en.wikipedi
 8. Security & Privacy
 9. Cost Effective
 
-## How to approach a system design problem
+## Approaching a system design problem
 
-- Gather requirements (Functional and non-functional requirements)
-  - Functional
-    - sendMessage(messageBody)
-    - receiveMessage()
-  - Non-functional
-    - Scalable (handles load increases, more queues and messages)
-    - Highly available (services hardware/network failures)
-    - Highly performent (single digit latency for main operations)
-    - Durable (once submitted, data is not lost)
+### Gather requirements (Functional and non-functional requirements)
+
+- Functional
+  - sendMessage(messageBody)
+  - receiveMessage()
+- Non-functional
+  - Scalable (handles load increases, more queues and messages)
+  - Highly available (services hardware/network failures)
+  - Highly performent (single digit latency for main operations)
+  - Durable (once submitted, data is not lost)
   - What is the expected read-to-write ratio?
-  - How many **concurrent requests** should we expect?
-  - What's the average expected response time?
-  - What's the limit of the data we allow users to provide?
-  - How many customers
-  - RPS / Traffic
-  - Who are the users
-- Establish the Scope
-  - Do we want to discuss the end-to-end experience or just the API?
-  - What clients do we want to support (mobile, web, etc)?
-  - Do we require authentication? Analytics? Integrating with existing systems?
-- High level design
-  - Cloud - CDN / LoadBalancers / Servers / Queues
-  - Database layer
-  - Scalability
-- Low level design
-  - DS + Algo
-  - API
-  - Data model
-  - Database schema
-  - Optimizations
-  - Edge cases
-    - Viral Videos
-    - High number of followers
-- Others
-  - Security
-  - Reliability
-  - Replication
-  - Tradeoffs
+- How many **concurrent requests** should we expect?
+- What's the average expected response time?
+- What's the limit of the data we allow users to provide?
+- How many customers
+- RPS / Traffic
+- Who are the users
+
+### Establish the Scope
+
+- Do we want to discuss the end-to-end experience or just the API?
+- What clients do we want to support (mobile, web, etc)?
+- Do we require authentication? Analytics? Integrating with existing systems?
+
+### High level design
+
+- Cloud - CDN / LoadBalancers / Servers / Queues
+- Database layer
+- Scalability
+
+### Low level design
+
+- DS + Algo
+- API
+- Data model
+- Database schema
+- Optimizations
+- Edge cases
+  - Viral Videos
+  - High number of followers
+
+### Others
+
+- Security
+- Reliability
+- Replication
+- Tradeoffs
 
 <https://www.freecodecamp.org/news/systems-design-for-interviews>
 
@@ -90,7 +101,7 @@ Vertical Scaling is expensive and have a limit whereas Horizontal Scaling is che
 
 Consider latency between cross racks, cross hosts
 
-### CPU/ Memory/ HardDrive / Nework Bandwidth
+### CPU / Memory / HardDrive / Network Bandwidth
 
 All of the above are limited resources. How to improve limitations while scaling
 
@@ -111,8 +122,8 @@ Containers - is a way of running your applications and its dependencies in an is
 
 ### Publisher - Subscriber or Queue
 
-    - Queuing is a *point-to-point communication model* - a pool of consumers may read from a server and each message is delivered to one of them - it allows you to divide up the processing of data over multiple consumer instances and scale your processing.
-    - Publish-subscribe is a *broadcast communication model* - a message is broadcast to all the consumers.
+- Queuing is a *point-to-point communication model* - a pool of consumers may read from a server and each message is delivered to one of them - it allows you to divide up the processing of data over multiple consumer instances and scale your processing.
+- Publish-subscribe is a *broadcast communication model* - a message is broadcast to all the consumers.
 
 ### Thin clients, Thick clients, Dumb clients, Smart client
 
@@ -172,4 +183,14 @@ This helps as you no longer have to make assumptions about
 [System Design Blueprint: The Ultimate Guide | by Love Sharma | Apr, 2023 | Dev Genius](https://blog.devgenius.io/system-design-blueprint-the-ultimate-guide-e27b914bf8f1)
 ![system-design-checklist](../../media/Screenshot%202023-05-26%20at%201.21.56%20PM.png)
 
-[System Designs - YouTube](https://www.youtube.com/playlist?list=PLQnljOFTspQXSevtRqvMNycWfHM7cXc3d)
+- [System Designs - YouTube](https://www.youtube.com/playlist?list=PLQnljOFTspQXSevtRqvMNycWfHM7cXc3d)
+- [System Design Master Template: How to Answer Any System Design Interview Question. | by Arslan Ahmad | Level Up Coding](https://levelup.gitconnected.com/system-design-master-template-how-to-answer-any-system-design-interview-question-ee5dc332acd5)
+- [Mastering the Art of Caching for System Design Interviews: A Complete Guide | by Arslan Ahmad | Level Up Coding](https://levelup.gitconnected.com/master-the-art-of-caching-for-system-design-interviews-a-complete-guide-676bb49d194)
+- [How to Use Consistent Hashing in a System Design Interview? | by Arslan Ahmad | InterviewNoodle](https://interviewnoodle.com/how-to-use-consistent-hashing-in-a-system-design-interview-b738be3a1ae3)
+- [System Design Interview Basics: CAP vs. PACELC | by Arslan Ahmad | InterviewNoodle](https://interviewnoodle.com/system-design-interview-basics-cap-vs-pacelc-cf7c5eebc313)
+- [System Design Interviews: A Step-By-Step Guide | by Arslan Ahmad | InterviewNoodle](https://interviewnoodle.com/system-design-interviews-a-step-by-step-guide-cb30496f31a5)
+- [System Design Interview Question: Designing a URL Shortening Service | by Arslan Ahmad | InterviewNoodle](https://interviewnoodle.com/system-design-interview-question-designing-a-url-shortening-service-eac7b147295)
+- [System Design Interviews: What distinguishes you from others? | by Arslan Ahmad | InterviewNoodle](https://interviewnoodle.com/system-design-interviews-what-distinguishes-you-from-others-7095405ec48)
+- [The Complete Guide to Ace the System Design Interview in 2023 | by Arslan Ahmad | CodeX | Medium](https://medium.com/codex/the-complete-guide-to-ace-the-system-design-interview-in-2022-2d21c9534905)
+- [Top 7 Facebook System Design Interview Questions and Answers (2023) | by Arslan Ahmad | CodeX | Medium](https://medium.com/codex/top-7-facebook-system-design-interview-questions-and-answers-2022-8c2dd329038)
+- [System Design Tutorial: 3 Must-Know Distributed Systems Concepts | by Arslan Ahmad | Geek Culture | Medium](https://medium.com/geekculture/system-design-tutorial-3-must-know-distributed-systems-concepts-279d4e9718e8)
