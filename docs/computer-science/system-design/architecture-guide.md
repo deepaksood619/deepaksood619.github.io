@@ -26,53 +26,61 @@ Web-queue-worker is suitable for relatively simple domains with some resource-in
 | Big data                  | Divide a huge dataset into small chunks. Parallel processing on local datasets.  | Batch and real-time data analysis. Predictive analysis using ML. |
 | Big compute               | Data allocation to thousands of cores.                                           | Compute intensive domains such as simulation.                    |
 
-- Design Principles
-  - Design for self-healing
-  - Make all things redundant
-  - Minimize coordination
-  - Design to scale out
-  - Partition around limits
-  - Design for operations
-  - Use managed services
-  - Use the best data store for the job
-  - Design for evolution
-  - Build for the needs of business
-- Best Practices
-  - API Design
-  - API Implementation
-  - Autoscaling
-  - Background jobs
-  - Caching
-  - Content Delivery Network
-  - Data Partitioning
-  - Data Partitioning strategies (by service)
-  - Monitoring and diagnostics
-  - Naming Conventions
-  - Retry Guidance for Specific services
-  - Transient fault handling
-- Performance Tuning
-  - Scenario 1 - Distributed Transactions
-  - Scenario 2 - Multiple backend services
-  - Scenario 3 - Event Streaming
-- Performance Antipatterns
-  - Busy Database
-  - Busy Front End
-  - Chatty I/O
-  - Extraneous Fetching
-  - Improper Instantiation
-  - Monolithic Persistence
-  - No Caching
-  - Synchronous I/O2. Design Patterns
-  - [Ambassador](https://docs.microsoft.com/en-us/azure/architecture/patterns/ambassador)
-  - [Anti-corruption Layer](https://docs.microsoft.com/en-us/azure/architecture/patterns/anti-corruption-layer)
-  - [Availability](https://docs.microsoft.com/en-us/azure/architecture/patterns/category/availability)
-  - [Backends for Frontends](https://docs.microsoft.com/en-us/azure/architecture/patterns/backends-for-frontends)
-  - [Bulkhead](https://docs.microsoft.com/en-us/azure/architecture/patterns/bulkhead)
+### - Design Principles
+
+- Design for self-healing
+- Make all things redundant
+- Minimize coordination
+- Design to scale out
+- Partition around limits
+- Design for operations
+- Use managed services
+- Use the best data store for the job
+- Design for evolution
+- Build for the needs of business
+
+### - Best Practices
+
+- API Design
+- API Implementation
+- Autoscaling
+- Background jobs
+- Caching
+- Content Delivery Network
+- Data Partitioning
+- Data Partitioning strategies (by service)
+- Monitoring and diagnostics
+- Naming Conventions
+- Retry Guidance for Specific services
+- Transient fault handling
+
+### - Performance Tuning
+
+- Scenario 1 - Distributed Transactions
+- Scenario 2 - Multiple backend services
+- Scenario 3 - Event Streaming
+
+### - Performance Antipatterns
+
+- Busy Database
+- Busy Front End
+- Chatty I/O
+- Extraneous Fetching
+- Improper Instantiation
+- Monolithic Persistence
+- No Caching
+- Synchronous I/O2. Design Patterns
+- [Ambassador](https://docs.microsoft.com/en-us/azure/architecture/patterns/ambassador)
+- [Anti-corruption Layer](https://docs.microsoft.com/en-us/azure/architecture/patterns/anti-corruption-layer)
+- [Availability](https://docs.microsoft.com/en-us/azure/architecture/patterns/category/availability)
+- [Backends for Frontends](https://docs.microsoft.com/en-us/azure/architecture/patterns/backends-for-frontends)
+- [Bulkhead](https://docs.microsoft.com/en-us/azure/architecture/patterns/bulkhead)
 
 The Bulkhead pattern is a type of application design that is tolerant of failure. In a bulkhead architecture, elements of an application are isolated into pools so that if one fails, the others will continue to function. It's named after the sectioned partitions (bulkheads) of a ship's hull. If the hull of a ship is compromised, only the damaged section fills with water, which prevents the ship from sinking.
 
-<https://www.youtube.com/watch?v=R2FT5edyKOg> - [Cache-Aside](https://docs.microsoft.com/en-us/azure/architecture/patterns/cache-aside)
+<https://www.youtube.com/watch?v=R2FT5edyKOg>
 
+- [Cache-Aside](https://docs.microsoft.com/en-us/azure/architecture/patterns/cache-aside)
 - [Choreography](https://docs.microsoft.com/en-us/azure/architecture/patterns/choreography)
 - [Circuit Breaker](https://docs.microsoft.com/en-us/azure/architecture/patterns/circuit-breaker)
 - [Claim Check](https://docs.microsoft.com/en-us/azure/architecture/patterns/claim-check)
@@ -136,12 +144,8 @@ The Bulkhead pattern is a type of application design that is tolerant of failure
 
 ## Cloud Adoption Framework
 
-<https://docs.microsoft.com/en-us/azure/architecture/guide>
-
-<https://github.com/MicrosoftDocs/architecture-center>
-
-<https://thenewstack.io/primer-understanding-software-and-system-architecture>
-
-<https://www.freecodecamp.org/news/systems-design-for-interviews>
-
-[Cloud Architecture Guidance and Topologies &nbsp;|&nbsp; Cloud Architecture Center | Google Cloud](https://cloud.google.com/architecture)
+- <https://docs.microsoft.com/en-us/azure/architecture/guide>
+- <https://github.com/MicrosoftDocs/architecture-center>
+- <https://thenewstack.io/primer-understanding-software-and-system-architecture>
+- <https://www.freecodecamp.org/news/systems-design-for-interviews>
+- [Cloud Architecture Guidance and Topologies &nbsp;|&nbsp; Cloud Architecture Center | Google Cloud](https://cloud.google.com/architecture)

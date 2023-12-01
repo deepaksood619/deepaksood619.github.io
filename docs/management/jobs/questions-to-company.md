@@ -44,10 +44,7 @@ Always don't say yes to any offer at that time, always sleep over it
 
 - What will be my roles and responsibilities as Solution Architect?
 
-1. **Always find the person who you will be working under, because you will learn from that person only.**
-
-  Why - Engineering productivity is key to building good software. It comes down to the manager to make sure the developer team is performing as expected.
-
+1. **Always find the person who you will be working under, because you will learn from that person only.** - Why - Engineering productivity is key to building good software. It comes down to the manager to make sure the developer team is performing as expected.
 2. Find how can you grow in the company. (Both professionally and academically)
 3. Teaching must be a part of the company. (Best way to learn is to teach)
 4. More higher positions (Experience needed or knowledge needed)
@@ -95,9 +92,7 @@ Always don't say yes to any offer at that time, always sleep over it
 - Decision making process
 - How are raises calculated and awarded?
 - Functional and Non functional requirements?
-- **Career Path / Engineering Competency Matrix**
-
-<https://drive.google.com/open?id=131XZCEb8LoXqy79WWrhCX4sBnGhCM1nAIz4feFZJsEo>
+- **Career Path / Engineering Competency Matrix** - <https://drive.google.com/open?id=131XZCEb8LoXqy79WWrhCX4sBnGhCM1nAIz4feFZJsEo>
 
 1. What do the day-to-day responsibilities of the role look like?
 2. What are the company's values? What characteristics do you look for in employees in order to represent those values?
@@ -115,8 +110,6 @@ Always don't say yes to any offer at that time, always sleep over it
 - How you do peer reviews? (core reviews, branching strategies, methodologies they follow?)
 - What programs do you have for continuous education.
 - What's the software development process that you use?
-  - How is project management handled?
-    - **Project Management and Task Management Tools**
   - How many projects could I expect to work on in a month?
   - What's the process for managing the code?
   - How long are the typical sprints?
@@ -126,6 +119,8 @@ Always don't say yes to any offer at that time, always sleep over it
   - What's the typical length of a project?
   - How are vacation days handled?
   - Are there any emergency processes in place? / Disaster Recovery
+- How is project management handled?
+  - **Project Management and Task Management Tools**
 - Are there technical debts in the current architecture/code base?
 - How do you tackle technical debt?
 - What's your company culture like?
@@ -157,18 +152,10 @@ Always don't say yes to any offer at that time, always sleep over it
 
 ## Startup Questions
 
-- Background of founders before joining companyc
-- Do you have product-market fit?
-
-If not, they don't have real money, and there's no guarantee they ever will.
-
+- Background of founders before joining company
+- Do you have product-market fit? - If not, they don't have real money, and there's no guarantee they ever will.
 - What is your current growth rate?
-- What is your runway?
-
-The longer the runway, the more financially stable the company is.
-
-"Cashrunway" refers to the length of time in which a company will remain solvent, assuming that they are unable to raise more money.
-
+- What is your runway? - The longer the runway, the more financially stable the company is. "Cashrunway" refers to the length of time in which a company will remain solvent, assuming that they are unable to raise more money.
 - What's the company's/department's strategy for the next 6-18 months
   - Keep the title & position of the interviewer in mind
 
@@ -215,23 +202,19 @@ Your percentage of ownership means more than your number of shares
 Percentage of the company that the ESOP pool represents
 
 2. What is the my **preference stack**? (What is the total preference) (Classes of preferred shares) (multiples 1.5x?)
-    - **dilution**
-    - What was our most recent valuation?
-    - What is our current yearly growth rate?
-    - How much would the company need to sell for before my equity has value?
-    - If your most recent valuation is close to or exceeds the needed sale price, your equity offer has value. If the needed sale price is much higher than the company's most recent valuation, though, you have something to consider: Based on its current growth rate, how many years would you need to stay before its value comes close to that needed sale price? Are you comfortable investing that much time?
 
-- The more owed in liquidation perference, the less your equity is likely worth
-- it had investors and board members whose equity was [protected](https://www.sec.gov/Archives/edgar/data/1089196/000119312515079062/d520327ds1a.htm#toc520327_13)by highliquidation preference - a guarantee that they get paid first and at least a certain amount when the company sells. When startup investors make millions in a sale, but money runs dry before reaching employees, a bad preference stack is often the cause.
+- **dilution**
+- What was our most recent valuation?
+- What is our current yearly growth rate?
+- How much would the company need to sell for before my equity has value?
+- If your most recent valuation is close to or exceeds the needed sale price, your equity offer has value. If the needed sale price is much higher than the company's most recent valuation, though, you have something to consider: Based on its current growth rate, how many years would you need to stay before its value comes close to that needed sale price? Are you comfortable investing that much time?
+- The more owed in liquidation preference, the less your equity is likely worth
+- it had investors and board members whose equity was [protected](https://www.sec.gov/Archives/edgar/data/1089196/000119312515079062/d520327ds1a.htm#toc520327_13)by high liquidation preference - a guarantee that they get paid first and at least a certain amount when the company sells. When startup investors make millions in a sale, but money runs dry before reaching employees, a bad preference stack is often the cause.
 - Liquidation preference give investors the protection they need to make the high-risk investments that startups thrive on.
 - If there had been a 1x liquidation preference in place, the investor would be guaranteed to get $3 million back.
 - The more money a startup raises, the harder it gets to fetch a high enough acquisition price.
 
-3. Premptive rights
-
-What are preemptive rights and who has them?
-
-Preemptive rights allow common shareholders to maintain their proportional ownership in a company by buying more shares in the event that the company issues another offering. These are sometimes issued to holders of common stocks. Holders of preferred shares typically also have other protections against dilution.
+3. Preemptive rights - What are preemptive rights and who has them? - Preemptive rights allow common shareholders to maintain their proportional ownership in a company by buying more shares in the event that the company issues another offering. These are sometimes issued to holders of common stocks. Holders of preferred shares typically also have other protections against dilution.
 
 4. While the first company offers you 1000 options out of 1,00,000, the second offers 500 out of 10,000. You have more skin in the game in the second company but you have to ask the founder why the ESOP pool is so small? Is he or she averse to sharing equity with early team members? When will the ESOP pool be expanded? These questions will help you better understand the founder's vision.
 

@@ -127,3 +127,4 @@ wstETH is a wrapped version of stETH. Due to the nature of Lido, the amount of s
 - [How Do Ethereum Withdrawals Work? All You Need To Know - YouTube](https://www.youtube.com/watch?v=RwwU3P9n3uo)
 - [How To Stake ETH And Earn Staking Rewards: Step By Step](https://milkroad.com/invest/guide-to-staking/)
 - [Ethereum staking deposit contract address | ethereum.org](https://ethereum.org/en/staking/deposit-contract/)
+- [Validating Ethereum | Ep 0 | Lido Community Staking Series - YouTube](https://www.youtube.com/watch?v=U-uxZRmB6_0)

@@ -4,6 +4,7 @@
 
 [NBFC / Banking Terms](economics/nbfc-banking-terms.md)
 
+![stashfin-product-architecture](../../media/Pasted%20image%2020231201172554.png)
 ## Processes
 
 ### Dev Onboarding

@@ -1047,3 +1047,7 @@ Humans have opened gates to the hell
 God has given us 2 ears and 1 mouth, so you must use those in proportion i.e. 2/3rd listen 1/3 talk
 
 If you kill a killer the number of killers in the world remains the same.
+
+I have never said most of the things I said -- Yogi berra
+
+## End

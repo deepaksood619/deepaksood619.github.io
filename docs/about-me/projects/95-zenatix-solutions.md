@@ -120,6 +120,8 @@ Demo, presentation and meetings with Director General (Shri Abhay Bakre) and Dir
 - Nginx setup as web server
 - Automation using Ansible
 
+![kiali-screenshot](../../media/Pasted%20image%2020231201175111.png)
+
 ### Data Engineering
 
 - Kafka production deployment

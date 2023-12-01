@@ -9,7 +9,7 @@
 - Kafka connects to external systems (for data import/export) via Kafka Connect and provides Kafka Streams, a Java stream processing library
 - Design is heavily influenced by [transaction logs](https://en.wikipedia.org/wiki/Transaction_log). (based on commit log)
 - Fault tolerant highly available queue used in publisher-subscriber or streaming application
-- It can deliver message exactly once and also it keeps all the messages ordered inside a parition of a topic
+- It can deliver message exactly once and also it keeps all the messages ordered inside a partition of a topic
 - Horizontally scalable, fault-tolerant, wicked fast
 - Focuses on real-time analysis, not batch jobs
 - Streams and streams only
@@ -35,15 +35,15 @@
 
 ### Concepts
 
-- Kafka is run as a cluster on one or more servers that can span multiple datacenters.
-- The Kafka cluster stores streams of *records*in categories called *topics*.
+- Kafka is run as a cluster on one or more servers that can span multiple data-centers.
+- The Kafka cluster stores streams of *records* in categories called *topics*.
 - Each record consists of a key, a value, and a timestamp.
 
 ### APIs
 
 - The [Producer API](https://kafka.apache.org/documentation.html#producerapi) allows an application to publish a stream of records to one or more Kafka topics.
 - The [Consumer API](https://kafka.apache.org/documentation.html#consumerapi) allows an application to subscribe to one or more topics and process the stream of records produced to them.
-- The [Streams API](https://kafka.apache.org/documentation/streams) allows an application to act as a*stream processor*, consuming an input stream from one or more topics and producing an output stream to one or more output topics, effectively transforming the input streams to output streams.
+- The [Streams API](https://kafka.apache.org/documentation/streams) allows an application to act as a *stream processor*, consuming an input stream from one or more topics and producing an output stream to one or more output topics, effectively transforming the input streams to output streams.
 - The [Connector API](https://kafka.apache.org/documentation.html#connect) allows building and running reusable producers or consumers that connect Kafka topics to existing applications or data systems. For example, a connector to a relational database might capture every change to a table.
 
 ### Architecture
@@ -107,19 +107,9 @@ K-Stream , K-Table
 
 ## Managed Services
 
-- Confluent Cloud - Apache Kafka as a service
-
-<https://www.confluent.io/confluent-cloud>
-
-- AWS - Amazon Kinesis Streams
-
-<https://aws.amazon.com/kafka>
-
-<https://aws.amazon.com/kinesis>
-
-- Google Cloud - Confluent Cloud on GCP
-
-<https://cloud.google.com/blog/products/gcp/google-cloud-platform-and-confluent-partner-to-deliver-a-managed-apache-kafka-service>
+- Confluent Cloud - Apache Kafka as a service - <https://www.confluent.io/confluent-cloud>
+- AWS - Amazon Kinesis Streams - <https://aws.amazon.com/kafka> - <https://aws.amazon.com/kinesis>
+- Google Cloud - Confluent Cloud on GCP - <https://cloud.google.com/blog/products/gcp/google-cloud-platform-and-confluent-partner-to-deliver-a-managed-apache-kafka-service>
 
 ## Meet Kafka (Definitive Guide)
 
