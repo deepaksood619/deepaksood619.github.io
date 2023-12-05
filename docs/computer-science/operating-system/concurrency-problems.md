@@ -67,16 +67,16 @@ The problem is how to design a discipline of behavior (a [concurrent](https://en
 
 ## References
 
-<https://en.wikipedia.org/wiki/Producer%E2%80%93consumer_problem>
+https://en.wikipedia.org/wiki/Producer%E2%80%93consumer_problem
 
-<https://en.wikipedia.org/wiki/Readers%E2%80%93writers_problem>
+https://en.wikipedia.org/wiki/Readers%E2%80%93writers_problem
 
-<https://en.wikipedia.org/wiki/Sleeping_barber_problem>
+https://en.wikipedia.org/wiki/Sleeping_barber_problem
 
-<https://en.wikipedia.org/wiki/Cigarette_smokers_problem>
+https://en.wikipedia.org/wiki/Cigarette_smokers_problem
 
-<https://en.wikipedia.org/wiki/Dining_philosophers_problem>
+https://en.wikipedia.org/wiki/Dining_philosophers_problem
 
-<https://www.geeksforgeeks.org/operating-system-dining-philosopher-problem-using-semaphores>
+https://www.geeksforgeeks.org/operating-system-dining-philosopher-problem-using-semaphores
 
-<https://www.geeksforgeeks.org/dining-philosophers-solution-using-monitors>
+https://www.geeksforgeeks.org/dining-philosophers-solution-using-monitors

@@ -99,9 +99,9 @@
 
 - [TypeORM](https://docs.nestjs.com/recipes/sql-typeorm)
 
-<https://typeorm.io>
+https://typeorm.io
 
-<https://github.com/typeorm/typeorm>
+https://github.com/typeorm/typeorm
 
 - [Mongoose](https://docs.nestjs.com/recipes/mongodb)
 - [Sequelize](https://docs.nestjs.com/recipes/sql-sequelize)

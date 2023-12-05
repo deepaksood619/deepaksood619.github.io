@@ -8,8 +8,8 @@ Further advantages are found particularly in the decentralized structure, which 
 
 ## References
 
-<https://en.wikipedia.org/wiki/Kademlia>
+https://en.wikipedia.org/wiki/Kademlia
 
-<https://github.com/bmuller/kademlia>
+https://github.com/bmuller/kademlia
 
 [Kademlia - a Distributed Hash Table implementation to power the overlay network of BitTorrent - YouTube](https://www.youtube.com/watch?v=_kCHOpINA5g&ab_channel=AsliEngineeringbyArpitBhayani)

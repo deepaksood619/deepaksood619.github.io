@@ -29,8 +29,8 @@ The view has primarily two purposes:
 
 [Difference between Views and Materialized Views in SQL](https://www.tutorialspoint.com/difference-between-views-and-materialized-views-in-sql)
 
-<https://www.datacamp.com/community/tutorials/materialized-views-postgresql>
+https://www.datacamp.com/community/tutorials/materialized-views-postgresql
 
-<https://www.datacamp.com/community/tutorials/views-in-sql>
+https://www.datacamp.com/community/tutorials/views-in-sql
 
-<https://www.mysqltutorial.org/mysql-views-tutorial.aspx>
+https://www.mysqltutorial.org/mysql-views-tutorial.aspx

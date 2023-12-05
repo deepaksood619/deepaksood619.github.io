@@ -13,9 +13,9 @@ Investment banking is a specific division of banking related to the creation of 
 
 Companies - Goldman Sachs, Morgan Stanley, JPMorgan Chase, Bank of America Merrill Lynch, and Deutsche Bank
 
-<https://www.coursera.org/courses?query=investment%20banking>
+https://www.coursera.org/courses?query=investment%20banking
 
-<https://www.investopedia.com/terms/i/investment-banking.asp>
+https://www.investopedia.com/terms/i/investment-banking.asp
 
 ## Private Equity
 
@@ -38,10 +38,10 @@ Multiple of Invested Capital ("MOIC") and Internal Rate of Return ("IRR") are tw
 - Indiegogo
 - kickstarter
 - Patreon
-- <https://www.gofundme.com/c/blog/top-crowdfunding-sites>
+- https://www.gofundme.com/c/blog/top-crowdfunding-sites
 - [100X.VC | Top Pre-Seed and Seed Stage VC Fund for Indian Startups](https://www.100x.vc/)
 
-<https://www.investopedia.com/articles/markets/011116/worlds-top-10-private-equity-firms-apo-bx.asp>
+https://www.investopedia.com/articles/markets/011116/worlds-top-10-private-equity-firms-apo-bx.asp
 
 - The Blackstone Group Inc.
 - [BlackRock - YouTube](https://www.youtube.com/watch?v=qs_mWvf6yRI)
@@ -54,7 +54,7 @@ Multiple of Invested Capital ("MOIC") and Internal Rate of Return ("IRR") are tw
 - TPG Capital
 - Warburg Pincus LLC
 - Neuberger Berman Group LLC
-- <https://www.strikerpartners.com> -> The Graham Group
+- https://www.strikerpartners.com> - The Graham Group
 - Chris Kolenaty - Founder of Snow Leopard Ventures / Snow Leopard Global Capital Management
 - QED Investors / qedinvestors (Nigel Morris founder of capital one)
 
@@ -85,16 +85,16 @@ A leveraged buyout (LBO) is the acquisition of another company using a significa
 - In a leveraged buyout (LBO), there is usually a ratio of 90% debt to 10% equity.
 - LBOs have acquired a reputation as a ruthless and predatory business tactic, especially since the target company's assets can be used as leverage against it.
 
-<https://www.investopedia.com/terms/l/leveragedbuyout.asp>
+https://www.investopedia.com/terms/l/leveragedbuyout.asp
 
-<https://en.wikipedia.org/wiki/LBO_valuation_model>
+https://en.wikipedia.org/wiki/LBO_valuation_model
 
 - **[Real Estate Private Equity](https://www.investopedia.com/terms/p/private-equity-real-estate.asp):** There was a surge in this type of funding after the 2008 financial crisis crashed real estate prices. Typical areas where funds are deployed are commercial real estate and real estate investment trusts ([REIT](https://www.investopedia.com/articles/03/013103.asp)). Real estate funds require higher minimum capital for investment as compared to other funding categories in private equity. Investor funds are also locked away for several years at a time in this type of funding. According to research firm Preqin, real estate funds in private equity are expected to clock in a 50 percent growth by 2023 to reach a market size of $1.2 trillion.
 
 - **[Fund of funds](https://www.investopedia.com/terms/f/fundsoffunds.asp):** As the name denotes, this type of funding primarily focuses on investing in other funds, primarily mutual funds and hedge funds. They offer a backdoor entry to an investor who cannot afford minimum capital requirements in such funds. But critics of such funds point to their higher management fees (because they are rolled up from multiple funds) and the fact that unfettered diversification may not always result in an optimal strategy to multiply returns.
 - **[Venture Capital](https://www.investopedia.com/terms/v/venturecapital.asp):** Venture capital funding is a form of private equity, in which investors (also known as angels) provide capital to entrepreneurs. Depending on the stage at which it is provided, [venture capital can take several forms](https://www.investopedia.com/ask/answers/020415/what-difference-between-private-equity-and-venture-capital.asp). Seed financing refers to the capital provided by an investor to scale an idea from a prototype to a product or service. On the other hand, early stage financing can help an entrepreneur grow a company further while a Series A financing enables them to actively compete in a market or create one.
 
-<https://www.investopedia.com/terms/p/privateequity.asp>
+https://www.investopedia.com/terms/p/privateequity.asp
 
 ## Venture Capital
 
@@ -106,7 +106,7 @@ Though it can be risky for investors who put up funds, the potential for above-a
 - Venture capital funds manage pooled investments in high-growth opportunities in startups and other early-stage firms and are typically only open to accredited investors.
 - Venture capital has evolved from a niche activity at the end of the Second World War into a sophisticated industry with multiple players that play an important role in spurring innovation.
 
-<https://www.investopedia.com/terms/v/venturecapital.asp>
+https://www.investopedia.com/terms/v/venturecapital.asp
 
 [How I Raised $2 Million From Investors (My YC Demo Day Pitch Breakdown)](https://youtu.be/5ip-Zf4mGeU)
 
@@ -124,9 +124,9 @@ With private equity, multiple investors' assets are combined, and these pooled r
 
 A venture capital firm, on the other hand, invests in a company during its earliest stages of operation. It takes on the risk of providing new businesses with funding so that they can begin producing and earning profits. It is often the startup money provided by venture capitalists that gives new businesses the means to become attractive to private equity buyers or eligible for investment banking services.
 
-<https://www.investopedia.com/ask/answers/020415/what-difference-between-private-equity-and-venture-capital.asp>
+https://www.investopedia.com/ask/answers/020415/what-difference-between-private-equity-and-venture-capital.asp
 
-## Angel Investor - <https://www.lennysnewsletter.com/p/angel-investing>
+## Angel Investor - https://www.lennysnewsletter.com/p/angel-investing
 
 For small businesses, or for up-and-coming businesses in emerging industries, venture capital is generally provided by [high net worth individuals](https://www.investopedia.com/terms/h/hnwi.asp)(HNWIs)-also often known as "[angel investors](https://www.investopedia.com/terms/a/angelinvestor.asp)"-and venture capital firms. The National Venture Capital Association (NVCA) is an organization composed of hundreds of venture capital firms that offer to fund innovative enterprises.
 

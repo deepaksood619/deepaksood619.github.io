@@ -20,4 +20,4 @@ In a multi-threaded environment, the LBYL approach can risk introducing a race c
 
 The property of a programming language whereby there is no distinction between code and the data on which a program is operating.
 
-<https://www.toptal.com/julia/code-writing-code-modern-metaprogamming>
+https://www.toptal.com/julia/code-writing-code-modern-metaprogamming

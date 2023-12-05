@@ -18,7 +18,7 @@
 
 Earnings before interest, tax, depreciation and amortization (EBITDA) is a measure of a company's operating performance/profitability (i.e., how much profit it makes with its present assets and its operations on the products it produces and sells, as well as providing a proxy for cash flow). Essentially, it's a way to evaluate a company's performance without having to factor in financing decisions, accounting decisions or tax environments.
 
-<https://en.wikipedia.org/wiki/Earnings_before_interest,_taxes,_depreciation,_and_amortization>
+https://en.wikipedia.org/wiki/Earnings_before_interest,_taxes,_depreciation,_and_amortization
 
 ## Price to Book Ratio (P/B Ratio)
 
@@ -73,7 +73,7 @@ Earnings per share
 - Companies that have no earnings or that are losing money do not have a P/E ratio since there is nothing to put in the denominator.
 - Two kinds of P/E ratios, forward and trailing P/E, are used in practice
 
-<https://www.investopedia.com/terms/p/price-earningsratio.asp>
+https://www.investopedia.com/terms/p/price-earningsratio.asp
 
 [Why the PE of One is Mohnish Pabrai’s Best Investing Strategy? PE Ratio Valuation with Example](https://www.youtube.com/watch?v=YzyM8AK9xj8)
 
@@ -85,9 +85,9 @@ The price/earnings to growth ratio (PEG ratio) isa stock's price-to-earnings (P/
 - The PEG ratio is considered to be an indicator of a stock's true value, and similar to the P/E ratio, a lower PEG may indicate that a stock is undervalued.
 - The PEG for a given company may differ significantly from one reported source to another, depending on which growth estimate is used in the calculation, such as one-year or three-year projected growth.
 
-<https://www.investopedia.com/terms/p/pegratio.asp>
+https://www.investopedia.com/terms/p/pegratio.asp
 
-<https://www.investopedia.com/investing/use-pe-ratio-and-peg-to-tell-stocks-future>
+https://www.investopedia.com/investing/use-pe-ratio-and-peg-to-tell-stocks-future
 
 ## Price to Sales Ratio (PS Ratio)
 
@@ -133,7 +133,7 @@ The Graham number or Benjamin Graham number is a figure used in [securities](htt
 
 The final number is, theoretically, the maximum price that a defensive investor should pay for the given stock. Put another way, a stock priced below the Graham Number would be considered a good value, if it also meets a number of other criteria.
 
-<https://en.wikipedia.org/wiki/Graham_number>
+https://en.wikipedia.org/wiki/Graham_number
 
 ## [8 Valuation Techniques for Beginners incl. Discounted Cash Flow | How to Value a Business?](https://www.youtube.com/watch?v=PgV9w6MS1B8)
 

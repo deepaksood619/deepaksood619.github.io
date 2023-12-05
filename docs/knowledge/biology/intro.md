@@ -26,15 +26,15 @@ Taxonomy, which translates from Ancient Greek as "arrangement method," is a tool
 - Genus - Homo
 - Species - Home sapiens
 
-<https://en.wikipedia.org/wiki/Human>
+https://en.wikipedia.org/wiki/Human
 
 ![image](../../media/Biology-image1.jpg)
 
 ![image](../../media/Biology-image2.jpg)
 
-<https://en.wikipedia.org/wiki/Taxonomic_rank>
+https://en.wikipedia.org/wiki/Taxonomic_rank
 
-<https://en.wikipedia.org/wiki/Kingdom_(biology)>
+https://en.wikipedia.org/wiki/Kingdom_(biology)
 
 ## Tree of life
 
@@ -42,11 +42,11 @@ Taxonomy, which translates from Ancient Greek as "arrangement method," is a tool
 
 ![image](../../media/Biology-image4.jpg)
 
-<https://en.wikipedia.org/wiki/Tree_of_life_(biology)>
+https://en.wikipedia.org/wiki/Tree_of_life_(biology)
 
 [Evolution & Classification of Life | Single Celled Bacteria to Humans](https://www.youtube.com/watch?v=HpXaiG8L28s)
 
-<https://en.wikipedia.org/wiki/Template:Human_timeline>
+https://en.wikipedia.org/wiki/Template:Human_timeline
 
 ## Protein
 
@@ -70,7 +70,7 @@ Pyramidal neurons - Excitatory neurons
 
 ## All about Brain
 
-<https://waitbutwhy.com/2017/04/neuralink.html>
+https://waitbutwhy.com/2017/04/neuralink.html
 
 ## Hypnagogia
 
@@ -82,7 +82,7 @@ Altered state of Consciousness, occur just before deep sleep
 
 Thecarrying capacityof a biological [species](https://en.wikipedia.org/wiki/Species) in an [environment](https://en.wikipedia.org/wiki/Natural_environment) is the maximum population size of the species that the environment can sustain indefinitely, given the food, [habitat](https://en.wikipedia.org/wiki/Habitat), [water](https://en.wikipedia.org/wiki/Drinking_water), and other [necessities available](https://en.wikipedia.org/wiki/Resource) in the environment. In [population biology](https://en.wikipedia.org/wiki/Population_biology), carrying capacity is defined as the [environment](https://en.wikipedia.org/wiki/Environment_(biophysical))'s maximal load, which is different from the [concept](https://en.wikipedia.org/wiki/Concept) of population equilibrium. Its effect on [population dynamics](https://en.wikipedia.org/wiki/Population_dynamics) may be approximated in a [logistic model](https://en.wikipedia.org/wiki/Logistic_function), although this simplification ignores the possibility of [overshoot](https://en.wikipedia.org/wiki/Overshoot_(population)) which real systems may exhibit.
 
-<https://en.wikipedia.org/wiki/Carrying_capacity>
+https://en.wikipedia.org/wiki/Carrying_capacity
 
 ## e-DNA (Environmental DNA)
 
@@ -94,10 +94,10 @@ Thecarrying capacityof a biological [species](https://en.wikipedia.org/wiki/Spec
 
 ## Resources
 
-<https://user-images.githubusercontent.com/21294/94627410-73b6c680-028b-11eb-9501-d7453af56106.jpg?ck_subscriber_id=389278734>
+https://user-images.githubusercontent.com/21294/94627410-73b6c680-028b-11eb-9501-d7453af56106.jpg?ck_subscriber_id=389278734
 
-<https://www.scotthyoung.com/blog/2021/01/18/biology>
+https://www.scotthyoung.com/blog/2021/01/18/biology
 
-<https://github.com/CompCogNeuro/ed4>
+https://github.com/CompCogNeuro/ed4
 
-<https://www.weizmann.ac.il/mcb/UriAlon/download/systems-biology-course-2018>
+https://www.weizmann.ac.il/mcb/UriAlon/download/systems-biology-course-2018

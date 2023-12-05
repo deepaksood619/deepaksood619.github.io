@@ -130,7 +130,7 @@ A table can be created by taking the Cartesian product of a set of rows and a se
 
 More generally, a Cartesian product of n sets, also known as an n-fold Cartesian product, can be represented by an array of n dimensions, where each element is an n-[tuple](https://en.wikipedia.org/wiki/Tuple). An ordered pair is a [2-tuple or couple](https://en.wikipedia.org/wiki/Tuple#Names_for_tuples_of_specific_lengths).
 
-<https://en.wikipedia.org/wiki/Cartesian_product>
+https://en.wikipedia.org/wiki/Cartesian_product
 
 ## Subset of a given length
 
@@ -200,7 +200,7 @@ print(add_part(3))
 >>>312
 ```
 
-<https://www.geeksforgeeks.org/partial-functions-python>
+https://www.geeksforgeeks.org/partial-functions-python
 
 ```python
 from functools import cache,  lru_cache
@@ -214,6 +214,6 @@ return fib(n-1) + fib(n-2)
 
 ## References
 
-<https://julien.danjou.info/python-and-functional-programming>
+https://julien.danjou.info/python-and-functional-programming
 
-<https://skerritt.blog/learn-functional-python-in-10-minutes>
+https://skerritt.blog/learn-functional-python-in-10-minutes

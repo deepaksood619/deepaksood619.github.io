@@ -28,7 +28,7 @@
 
 [13.14. Dog Breed Identification (ImageNet Dogs) on Kaggle](https://d2l.ai/chapter_computer-vision/kaggle-dog.html)
 
-<https://d2l.ai/chapter_computer-vision/index.html>
+https://d2l.ai/chapter_computer-vision/index.html
 
 Computer vision involves analyzing patterns in visual images and reconstructing the real-world objects that produced them. The process is often broken up into two phases:**feature detectionandpattern recognition.** Feature detection involves selecting important features of the image; pattern recognition involves discovering patterns in the features.
 
@@ -57,7 +57,7 @@ Here are some of the terms that we use regarding the face detection feature of M
 - Side face
 - Multiple face dull
 
-<https://developers.google.com/ml-kit/vision/face-detection/face-detection-concepts>
+https://developers.google.com/ml-kit/vision/face-detection/face-detection-concepts
 
 ## Image Gradient
 
@@ -75,17 +75,17 @@ See Also -
 
 Mathematics > Calculus > Gradient
 
-<https://en.wikipedia.org/wiki/Image_gradient>
+https://en.wikipedia.org/wiki/Image_gradient
 
 ## Hough Transform
 
 The **Hough transform** is a [feature extraction](https://en.wikipedia.org/wiki/Feature_extraction) technique used in [image analysis](https://en.wikipedia.org/wiki/Image_analysis), [computer vision](https://en.wikipedia.org/wiki/Computer_vision), and [digital image processing](https://en.wikipedia.org/wiki/Digital_image_processing).The purpose of the technique is to find imperfect instances of objects within a certain class of shapes by a voting procedure. This voting procedure is carried out in a [parameter space](https://en.wikipedia.org/wiki/Parameter_space), from which object candidates are obtained as local maxima in a so-called accumulator space that is explicitly constructed by the algorithm for computing the Hough transform.
 
-<https://en.wikipedia.org/wiki/Hough_transform>
+https://en.wikipedia.org/wiki/Hough_transform
 
 ## Canny Edge Detection
 
-<https://opencv-python-tutroals.readthedocs.io/en/latest/py_tutorials/py_imgproc/py_canny/py_canny.html>
+https://opencv-python-tutroals.readthedocs.io/en/latest/py_tutorials/py_imgproc/py_canny/py_canny.html
 
 ## Peak Signal to Noise Ratio (PSNR)
 
@@ -93,15 +93,15 @@ Peak signal-to-noise ratio(PSNR) is an engineering term for the ratio between th
 
 PSNR is commonly used to quantify reconstruction quality for images and video subject to [lossy compression](https://en.wikipedia.org/wiki/Lossy_compression).
 
-<https://en.wikipedia.org/wiki/Peak_signal-to-noise_ratio>
+https://en.wikipedia.org/wiki/Peak_signal-to-noise_ratio
 
 ## References
 
 [Self Driving Nanodegree](../../computer-science/courses/self-driving-nanodegree)
 
-<https://towardsdatascience.com/understanding-ssd-multibox-real-time-object-detection-in-deep-learning-495ef744fab>
+https://towardsdatascience.com/understanding-ssd-multibox-real-time-object-detection-in-deep-learning-495ef744fab
 
-<https://www.freecodecamp.org/news/advanced-computer-vision-with-python>
+https://www.freecodecamp.org/news/advanced-computer-vision-with-python
 
 [Comic book panel segmentation • Max Halford](https://maxhalford.github.io/blog/comic-book-panel-segmentation/)
 

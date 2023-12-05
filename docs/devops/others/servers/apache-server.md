@@ -78,9 +78,9 @@ The default Ubuntu document root is/var/www/html. You can make your own virtual 
 
 - mod_status
 
-<https://httpd.apache.org/docs/2.4/mod/mod_status.html>
+https://httpd.apache.org/docs/2.4/mod/mod_status.html
 
-<https://www.datadoghq.com/blog/collect-apache-performance-metrics>
+https://www.datadoghq.com/blog/collect-apache-performance-metrics
 
 ## Apache MPM (Multi Processing Module)
 
@@ -152,7 +152,7 @@ If the KeepAliveTimeout is reached before any activity occurs on the socket, the
 
 There are a number of other experimental MPMs such as Threadpool, Perchild, and Leader.
 
-<https://www.liquidweb.com/kb/apache-performance-tuning-apache-mpm-modules>
+https://www.liquidweb.com/kb/apache-performance-tuning-apache-mpm-modules
 
 ## Optimizations
 
@@ -207,7 +207,7 @@ MaxConnectionsPerChild 10000
 
 - Remove Unused Modules
 - Save memory by not loading modules that you do not need, including but not limited to mod_php, mod_ruby, mod_perl, etc.
-- Use this command to list out modulesapache2 -Mit will list all the modules and then we have to stop loading unwanted modules. Please follow this article<https://haydenjames.io/strip-apache-improve-performance-memory-efficiency>
+- Use this command to list out modulesapache2 -Mit will list all the modules and then we have to stop loading unwanted modules. Please follow this articlehttps://haydenjames.io/strip-apache-improve-performance-memory-efficiency
 - Please check and comparempm_prefork_moduleandmpm_event_module(better than prefork).
 - Turn HostnameLookups Off
 - Stop doing expensive DNS lookups. You will rarely ever need them and when you do, you can look them up after the fact.
@@ -338,15 +338,15 @@ Apache will typically generate a 503 Service Unavailable status code when it is 
 
 [**https://www.datadoghq.com/blog/monitoring-apache-web-server-performance/**](https://www.datadoghq.com/blog/monitoring-apache-web-server-performance/)
 
-<https://www.datadoghq.com/blog/collect-apache-performance-metrics>
+https://www.datadoghq.com/blog/collect-apache-performance-metrics
 
-<https://cwiki.apache.org/confluence/display/httpd/PerformanceScalingUp>
+https://cwiki.apache.org/confluence/display/httpd/PerformanceScalingUp
 
-<https://cwiki.apache.org/confluence/display/httpd/PerformanceScalingOut>
+https://cwiki.apache.org/confluence/display/httpd/PerformanceScalingOut
 
-<https://httpd.apache.org/docs/2.4/mod/mpm_common.html>
+https://httpd.apache.org/docs/2.4/mod/mpm_common.html
 
-<https://www.liquidweb.com/kb/apache-performance-tuning-mpm-directives/#prefork>
+https://www.liquidweb.com/kb/apache-performance-tuning-mpm-directives/#prefork
 
 ## Apache Tomcat
 
@@ -368,7 +368,7 @@ Apache Takes The request from user, And handover to Tomcat. And Tomcat handover 
 
 Programs process the request and provide a response and request back to Tomcat, Then Tomcat handover request and response object to Apache server and Finally Apache give a response to user.
 
-<https://www.quora.com/What-is-the-difference-between-apache-and-apache-tomcat>
+https://www.quora.com/What-is-the-difference-between-apache-and-apache-tomcat
 
 ## Varnish
 
@@ -379,4 +379,4 @@ Varnish is used by websites including [Wikipedia](https://en.wikipedia.org/wiki/
 - Layer 7 reverse proxy
 - HTTP Cache
 
-<https://en.wikipedia.org/wiki/Varnish_(software)>
+https://en.wikipedia.org/wiki/Varnish_(software)

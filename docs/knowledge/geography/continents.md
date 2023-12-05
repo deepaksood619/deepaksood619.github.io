@@ -32,11 +32,11 @@ The term [Oceania](https://en.wikipedia.org/wiki/Oceania) refers to a group of [
 
 The Mercator projection ([/mərˈkeɪtər/](https://en.wikipedia.org/wiki/Help:IPA/English)) is a [cylindrical map projection](https://en.wikipedia.org/wiki/Cylindrical_map_projection) presented by [Flemish](https://en.wikipedia.org/wiki/Flemish_people) geographer and cartographer [Gerardus Mercator](https://en.wikipedia.org/wiki/Gerardus_Mercator) in 1569. It became the standard map projection for [navigation](https://en.wikipedia.org/wiki/Navigation) because it is unique in representing north as up and south as down everywhere while preserving local directions and shapes. The map is thereby [conformal](https://en.wikipedia.org/wiki/Conformal_map_projection). As a side effect, the Mercator projection inflates the size of objects away from the equator. This inflation is very small near the equator but accelerates with increasing [latitude](https://en.wikipedia.org/wiki/Latitude) to become infinite at the poles. As a result, landmasses such as [Greenland](https://en.wikipedia.org/wiki/Greenland) and [Antarctica](https://en.wikipedia.org/wiki/Antarctica) appear far larger than they actually are relative to landmasses near the equator, such as Central Africa.
 
-<https://en.wikipedia.org/wiki/Mercator_projection>
+https://en.wikipedia.org/wiki/Mercator_projection
 
-<https://en.wikipedia.org/wiki/Equal-area_map>
+https://en.wikipedia.org/wiki/Equal-area_map
 
-<https://thetruesize.com>
+https://thetruesize.com
 
 [Maps Distort How We See the World - by Tomas Pueyo](https://unchartedterritories.tomaspueyo.com/p/maps-distort-how-we-see-the-world)
 

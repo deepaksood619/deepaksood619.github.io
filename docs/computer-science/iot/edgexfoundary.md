@@ -18,8 +18,8 @@ EdgeX enables data to be sent "north," "south," or laterally as needed and as di
 
 ## References
 
-<https://en.wikipedia.org/wiki/Linux_Foundation#EdgeX_Foundry>
+https://en.wikipedia.org/wiki/Linux_Foundation#EdgeX_Foundry
 
-<https://www.edgexfoundry.org/get-started>
+https://www.edgexfoundry.org/get-started
 
-<https://wiki.edgexfoundry.org/display/FA/Introduction+to+EdgeX+Foundry>
+https://wiki.edgexfoundry.org/display/FA/Introduction+to+EdgeX+Foundry

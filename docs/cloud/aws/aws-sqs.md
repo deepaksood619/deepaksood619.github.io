@@ -20,9 +20,9 @@ SQS offers two types of message queues. **Standard queues** offer maximum throug
 
 Max Payload Size - 256 KB
 
-Can be increased using s3 - <https://github.com/awslabs/amazon-sqs-java-extended-client-lib>
+Can be increased using s3 - https://github.com/awslabs/amazon-sqs-java-extended-client-lib
 
-<https://github.com/timothymugayi/boto3-sqs-extended-client-lib>
+https://github.com/timothymugayi/boto3-sqs-extended-client-lib
 
 ## Batching
 
@@ -42,7 +42,7 @@ All customers can make 1 million Amazon SQS requests for free each month.
 | Size of Payloads           | Each 64 KB chunk of a payload is billed as 1 request (for example, an API action with a 256 KB payload is billed as 4 requests).                                                                                                                                                    |
 | Interaction with Amazon S3 | When using the [Amazon SQS Extended Client Library](https://github.com/awslabs/amazon-sqs-java-extended-client-lib) to send payloads using Amazon S3, you incur [Amazon S3 charges](https://aws.amazon.com/s3/pricing/) for any Amazon S3 storage you use to send message payloads. |
 
-<https://aws.amazon.com/sqs>
+https://aws.amazon.com/sqs
 
 ## FAQs
 
@@ -158,7 +158,7 @@ Longer message retention provides greater flexibility to allow for longer interv
 
 You can configure the Amazon SQS message retention period to a value from 1 minute to 14 days. The default is 4 days. Once the message retention quota is reached, your messages are automatically deleted.
 
-<https://aws.amazon.com/sqs/faqs>
+https://aws.amazon.com/sqs/faqs
 
 ## Boto3
 
@@ -241,12 +241,12 @@ while True:
     i += 1
 ```
 
-<https://boto3.amazonaws.com/v1/documentation/api/latest/reference/services/sqs.html>
+https://boto3.amazonaws.com/v1/documentation/api/latest/reference/services/sqs.html
 
 ![image](../../media/Cloud-AWS-AWS-SQS-image1.jpg)
 
 [**http://pragmaticnotes.com/2017/12/19/lifecycle-of-a-message-in-amazon-sqs-a-detailed-coverage/**](http://pragmaticnotes.com/2017/12/19/lifecycle-of-a-message-in-amazon-sqs-a-detailed-coverage/)
 
-<https://blog.contactsunny.com/tech/emulating-apache-kafka-with-amazon-sns-and-sqs>
+https://blog.contactsunny.com/tech/emulating-apache-kafka-with-amazon-sns-and-sqs
 
 ![image](../../media/Cloud-AWS-AWS-SQS-image2.jpg)

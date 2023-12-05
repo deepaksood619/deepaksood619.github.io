@@ -24,4 +24,4 @@ Dot Product of Matrices
 
 Why is Linear Algebra Useful
 
-<https://365datascience.teachable.com/courses/enrolled/372258>
+https://365datascience.teachable.com/courses/enrolled/372258

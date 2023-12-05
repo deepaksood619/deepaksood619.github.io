@@ -30,7 +30,7 @@ Main article:[Directory-based cache coherence](https://en.wikipedia.org/wiki/Dir
 
 In a directory-based system, the data being shared is placed in a common directory that maintains the coherence between caches. The directory acts as a filter through which the processor must ask permission to load an entry from the primary memory to its cache. When an entry is changed, the directory either updates or invalidates the other caches with that entry.
 
-<https://en.wikipedia.org/wiki/Cache_coherence>
+https://en.wikipedia.org/wiki/Cache_coherence
 
 ### Cache Invalidation
 
@@ -68,4 +68,4 @@ There are a few alternatives to cache invalidation that still deliver updated co
 
 Using invalidation to transfer new content can be difficult when invalidating multiple objects. Invalidating multiple representations adds a level of complexity to the application. Cache invalidation must be carried out through a caching proxy; these requests can impact performance of the caching proxy, causing information to be transferred at a slower rate to clients.
 
-<https://en.wikipedia.org/wiki/Cache_invalidation>
+https://en.wikipedia.org/wiki/Cache_invalidation

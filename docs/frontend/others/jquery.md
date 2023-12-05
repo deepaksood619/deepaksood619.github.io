@@ -242,4 +242,4 @@ $('#item').prop('disabled', true);
 $('#item').prop('disabled', false);
 ```
 
-<https://www.toptal.com/jquery/interview-questions>
+https://www.toptal.com/jquery/interview-questions

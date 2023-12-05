@@ -10,9 +10,9 @@ Merkle trees are used in distributed systems for efficient data verification. Th
 
 Image - A basic Merkle Tree. I've abbreviated the middle nodes as H(cd) and H(ab) respectively, but without this shorthand the root hash could also be called H(H(H(a) + H(b)) + H(H(c) +H(d)))
 
-<https://brilliant.org/wiki/merkle-tree>
+https://brilliant.org/wiki/merkle-tree
 
-<https://hackernoon.com/merkle-tree-introduction-4c44250e2da7>
+https://hackernoon.com/merkle-tree-introduction-4c44250e2da7
 
 A Merkle tree is a type of binary tree composed of a set of nodes with lots of leaf nodes at the bottom of the tree that contains data. Intermediate nodes in a Merkle tree consist of nodes that have a hash of its two child nodes, and the root node is made up of the hash of its two child nodes, representing the top of the tree.
 

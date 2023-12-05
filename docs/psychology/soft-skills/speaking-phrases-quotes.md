@@ -39,7 +39,7 @@ Turning action words into identity words (verbs into nouns) is effective because
 - Feel free to interrupt me in between to ask any questions and let me know if you want to dig deeper in any part.
 - What if you stopped trying to think your way through it and started to act your way through it?
 
-### <https://blog.trello.com/how-to-give-your-manager-feedback>
+### https://blog.trello.com/how-to-give-your-manager-feedback
 
 Constructive: "I noticed that in our last meeting, Ellen seemed upset by how you reacted to her suggestions. I've found some effective ways to communicate with her if you'd like to hear them!"
 

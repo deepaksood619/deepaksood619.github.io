@@ -86,4 +86,4 @@ With both optimizations i.e. Union by Rank and Path Compression, the time comple
 
 ## References
 
-<https://en.wikipedia.org/wiki/Disjoint-set_data_structure>
+https://en.wikipedia.org/wiki/Disjoint-set_data_structure

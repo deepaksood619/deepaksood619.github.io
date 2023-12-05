@@ -18,7 +18,7 @@ RAII is associated most prominently with [C++](https://en.wikipedia.org/wiki/C%2
 
 Other names for this idiom includeConstructor Acquires, Destructor Releases(CADRe)and one particular style of use is calledScope-based Resource Management(SBRM).This latter term is for the special case of [automatic variables](https://en.wikipedia.org/wiki/Automatic_variable). RAII ties resources to objectlifetime, which may not coincide with entry and exit of a scope. (Notably variables allocated on the free store have lifetimes unrelated to any given scope.) However, using RAII for automatic variables (SBRM) is the most common use case.
 
-<https://en.wikipedia.org/wiki/Resource_acquisition_is_initialization>
+https://en.wikipedia.org/wiki/Resource_acquisition_is_initialization
 
 Resource Acquisition Is Initializationor RAII, is a C++ programming techniquewhich binds the life cycle of a resource that must be acquired before use (allocated heap memory, thread of execution, open socket, open file, locked mutex, disk space, database connection - anything that exists in limited supply) to the [lifetime](https://en.cppreference.com/w/cpp/language/lifetime) of an object.
 
@@ -37,10 +37,10 @@ Move semantics make it possible to safely transfer resource ownership between ob
 
 Classes with open()/close(), lock()/unlock(), or init()/copyFrom()/destroy() member functions are typical examples of non-RAII classes:
 
-<https://en.cppreference.com/w/cpp/language/raii>
+https://en.cppreference.com/w/cpp/language/raii
 
 ## Array Decay
 
 The loss of type and dimensions of an array is known as decay of an array.This generally occurs when we pass the array into function by value or pointer. What it does is, it sends first address to the array which is a pointer, hence the size of array is not the original one, but the one occupied by the pointer in the memory.
 
-<https://www.geeksforgeeks.org/what-is-array-decay-in-c-how-can-it-be-prevented>
+https://www.geeksforgeeks.org/what-is-array-decay-in-c-how-can-it-be-prevented

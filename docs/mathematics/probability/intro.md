@@ -24,7 +24,7 @@ In [probability theory](https://en.wikipedia.org/wiki/Probability_theory), the r
 
 The formula is still used, particularly to estimate underlying probabilities when there are few observations, or for events that have not been observed to occur at all in (finite) sample data. Assigning events a [zero probability](https://en.wikipedia.org/wiki/Zero_probability) contravenes [Cromwell's rule](https://en.wikipedia.org/wiki/Cromwell%27s_rule); such contravention can never be strictly justified in physical situations, albeit sometimes must be assumed in practice.
 
-<https://en.wikipedia.org/wiki/Rule_of_succession>
+https://en.wikipedia.org/wiki/Rule_of_succession
 
 ## Probability part 1 - Rules and Patterns
 
@@ -59,7 +59,7 @@ The formula is still used, particularly to estimate underlying probabilities whe
 
 In [probability theory](https://en.wikipedia.org/wiki/Probability_theory), a probability density function(PDF), or density of a [continuous random variable](https://en.wikipedia.org/wiki/Continuous_random_variable), is a [function](https://en.wikipedia.org/wiki/Function_(mathematics)), whose value at any given sample (or point) in the [sample space](https://en.wikipedia.org/wiki/Sample_space)(the set of possible values taken by the random variable) can be interpreted as providing a relative likelihood that the value of the random variable would equal that sample.
 
-<https://en.wikipedia.org/wiki/Probability_density_function>
+https://en.wikipedia.org/wiki/Probability_density_function
 
 ## Two views of probability
 

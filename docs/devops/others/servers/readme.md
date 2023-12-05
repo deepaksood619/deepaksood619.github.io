@@ -36,7 +36,7 @@ Examples
 
 In computer networks, a**proxy server** is a [server](https://en.wikipedia.org/wiki/Server_(computing))(a computer system or an application) that acts as an [intermediary](https://en.wikipedia.org/wiki/Intermediary) for requests from [clients](https://en.wikipedia.org/wiki/Client_(computing)) seeking resources from other servers.A client connects to the proxy server, requesting some service, such as a file, connection, [web page](https://en.wikipedia.org/wiki/Web_page), or other resource available from a different server and the proxy server evaluates the request as a way to simplify and control its complexity.Proxies were invented to add structure and [encapsulation](https://en.wikipedia.org/wiki/Encapsulation_(networking)) to [distributed systems](https://en.wikipedia.org/wiki/Distributed_computing).
 
-<https://en.wikipedia.org/wiki/Proxy_server>
+https://en.wikipedia.org/wiki/Proxy_server
 
 ## Web Accelerator
 
@@ -44,7 +44,7 @@ A **web accelerator** is a [proxy server](https://en.wikipedia.org/wiki/Proxy_se
 
 Web accelerators may be installed on the client computer or mobile device, on ISP servers, on the server computer/network, or a combination. Accelerating delivery through compression requires some type of host-based server to collect, compress and then deliver content to a client computer.
 
-<https://en.wikipedia.org/wiki/Web_accelerator>
+https://en.wikipedia.org/wiki/Web_accelerator
 
 ## Microsoft IIS (Internet Information Services)
 
@@ -75,7 +75,7 @@ The "WSGI" part in the name is a tribute to the namesake Python standard, as it 
 
 Versatility, performance, low-resource usage and reliability are the strengths of the project (and the only rules followed).
 
-<https://uwsgi-docs.readthedocs.io/en/latest>
+https://uwsgi-docs.readthedocs.io/en/latest
 
 ## WSGI (whiz-gee with a hard 'g' or 'whiskey')
 
@@ -134,9 +134,9 @@ Applications are instantiated with a connection scope, and then run in an event 
 
 Each application instance maps to a single incoming "socket" or connection, and is expected to last the lifetime of that connection plus a little longer if there is cleanup to do. Some protocols may not use traditional sockets; ASGI specifications for those protocols are expected to define what the scope (instance) lifetime is and when it gets shut down.
 
-<https://asgi.readthedocs.io/en/latest/introduction.html>
+https://asgi.readthedocs.io/en/latest/introduction.html
 
-<https://www.appdynamics.com/blog/engineering/an-introduction-to-python-wsgi-servers-part-1>
+https://www.appdynamics.com/blog/engineering/an-introduction-to-python-wsgi-servers-part-1
 
 ## Apache vs Nginx
 
@@ -158,7 +158,7 @@ The reason why Apache is considered to be slower than Nginx in most of the cases
 
 Verdict -- Unless you have a website or web application where you need to give non-privilege users certain controls, you should always go for Nginx otherwise.
 
-<https://www.freelancinggig.com/blog/2018/04/25/apache-php-fpm-vs-nginx-php-fpm-performance-considerations>
+https://www.freelancinggig.com/blog/2018/04/25/apache-php-fpm-vs-nginx-php-fpm-performance-considerations
 
 ### File vs URI-Based Interpretation
 
@@ -186,15 +186,15 @@ For static files, all requests eventually have to be mapped to a location on the
 
 This may seem similar, but parsing requests primarily as URIs instead of filesystem locations allows Nginx to more easily function in both web, mail, and proxy server roles. Nginx is configured simply by laying out how to respond to different request patterns. Nginx does not check the filesystem until it is ready to serve the request, which explains why it does not implement a form of.htaccessfiles.
 
-<https://www.digitalocean.com/community/tutorials/apache-vs-nginx-practical-considerations>
+https://www.digitalocean.com/community/tutorials/apache-vs-nginx-practical-considerations
 
 ## Gin
 
 Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.
 
-<https://gin-gonic.com>
+https://gin-gonic.com
 
-<https://github.com/gin-gonic/gin>
+https://github.com/gin-gonic/gin
 
 ## Links
 

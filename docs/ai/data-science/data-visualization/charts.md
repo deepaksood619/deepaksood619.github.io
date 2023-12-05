@@ -16,7 +16,7 @@
 12. Tree map
 13. Heat map
 14. Pheno plot
-15. Cladogram - <https://en.wikipedia.org/wiki/Cladogram>
+15. Cladogram - https://en.wikipedia.org/wiki/Cladogram
 16. Flame Graphs
 
     - Icicle graph
@@ -49,7 +49,7 @@
 1. Error Bars
 2. Continuous Error Bars
 3. Box Plots
-4. Histograms - <https://www.datacamp.com/community/tutorials/histograms-matplotlib>
+4. Histograms - https://www.datacamp.com/community/tutorials/histograms-matplotlib
 5. Distplots
 6. 2D Histograms
 7. 2d Density Plots

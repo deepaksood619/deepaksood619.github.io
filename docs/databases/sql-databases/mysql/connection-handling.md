@@ -61,4 +61,4 @@ A thread will happily execute instructions until it needs to wait for something 
 - Efficient use of connections will depend upon user load, useful number of user connections can even be lower than number of CPU cores when the bottleneck is somewhere else than on the threading
 - Check out your own load by doubling the number of connections until TPS no longer increases and latency starts to increase
 
-<https://mysqlserverteam.com/mysql-connection-handling-and-scaling>
+https://mysqlserverteam.com/mysql-connection-handling-and-scaling

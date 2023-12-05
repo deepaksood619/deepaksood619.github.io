@@ -68,7 +68,7 @@ Here are some recommendations specific to Avro:
 - Avoid non-trivial union types and recursive types. These are Avro features that map poorly to most other systems. Since our goal is an intermediate format that maps well to other systems we want to avoid any overly advanced features.
 - Enforce reasonable schema and field naming conventions. Since these schemas will map into Hadoop having common fields like customer_id named the same across events will be very helpful in making sure that joins between these are easy to do. A reasonable scheme might be something like PageViewEvent, OrderEvent, ApplicationBounceEvent, etc.- Avro Support Athena as Deser for querying
 
-<https://docs.aws.amazon.com/athena/latest/ug/avro.html>
+https://docs.aws.amazon.com/athena/latest/ug/avro.html
 
 ## Disadvantage
 
@@ -76,16 +76,16 @@ Can't directly see files in S3, only csv, json and parquet supported in s3
 
 ## Tools
 
-<https://github.com/sksamuel/avro4s>
+https://github.com/sksamuel/avro4s
 
 ## References
 
-<https://www.tutorialspoint.com/avro/avro_overview.htm>
+https://www.tutorialspoint.com/avro/avro_overview.htm
 
-<http://cloudurable.com/blog/avro/index.html>
+http://cloudurable.com/blog/avro/index.html
 
-<http://avro.apache.org/docs/current>
+http://avro.apache.org/docs/current
 
-<https://docs.oracle.com/database/nosql-12.1.3.0/GettingStartedGuide/avroschemas.html>
+https://docs.oracle.com/database/nosql-12.1.3.0/GettingStartedGuide/avroschemas.html
 
-<https://www.sderosiaux.com/articles/2017/03/02/serializing-data-efficiently-with-apache-avro-and-dealing-with-a-schema-registry>
+https://www.sderosiaux.com/articles/2017/03/02/serializing-data-efficiently-with-apache-avro-and-dealing-with-a-schema-registry

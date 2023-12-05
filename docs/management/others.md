@@ -13,7 +13,7 @@ Strengths and Weakness are frequently internally-related, while Opportunities an
 
 The degree to which the internal environment of the firm matches with the external environment is expressed by the concept of [strategic fit](https://en.wikipedia.org/wiki/Strategic_fit). Identification of SWOTs is important because they can inform later steps in planning to achieve the objective. First, decision-makers should consider whether the objective is attainable, given the SWOTs. If the objective is *not*attainable, they must select a different objective and repeat the process.
 
-<https://en.wikipedia.org/wiki/SWOT_analysis>
+https://en.wikipedia.org/wiki/SWOT_analysis
 
 ## PEST Analysis (political, economic, social and technological)
 
@@ -29,11 +29,11 @@ Kanban is a method for managing the creation of products with an emphasis on con
 - **Limit the amount of work in progress (WIP):**this helps balance the flow-based approach so teams don't start and commit to too much work at once
 - **Enhance flow:**when something is finished, the next highest thing from the backlog is pulled into play
 
-<https://resources.collab.net/agile-101/what-is-kanban>
+https://resources.collab.net/agile-101/what-is-kanban
 
 ## Using Lanes to grow Teams
 
-<https://medium.com/teads-engineering/growing-a-feature-team-using-lanes-2e50d5521006>
+https://medium.com/teads-engineering/growing-a-feature-team-using-lanes-2e50d5521006
 
 ## churn rate
 
@@ -65,7 +65,7 @@ Diffusion of innovations is a [theory](https://en.wikipedia.org/wiki/Theory) tha
 
 The diffusion of innovations according to Rogers. With successive groups of consumers adopting the new technology (shown in blue), its [market share](https://en.wikipedia.org/wiki/Market_share)(yellow) will eventually reach the saturation level. The blue curve is broken into sections of adopters.
 
-<https://en.wikipedia.org/wiki/Diffusion_of_innovations>
+https://en.wikipedia.org/wiki/Diffusion_of_innovations
 
 [The Biggest Myth About Innovation - YouTube](https://www.youtube.com/watch?v=thtKslF8zE4)
 
@@ -79,4 +79,4 @@ Force Majeure is a common clause in contract law. It allows a party to limit the
 
 ## Human Resource Management
 
-<https://www.keka.com>
+https://www.keka.com

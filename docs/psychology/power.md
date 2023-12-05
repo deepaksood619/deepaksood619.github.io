@@ -14,4 +14,4 @@ Be mindful of the principles of persuasion. No one trusts a doctor who shows up 
 
 Since people are too busy to study everything in detail or weigh all the pros and cons before making a purchase, they rely on the simplified idea of authority. If someone is trusted by our peers, we also instantly trust them.
 
-<https://dariusforoux.com/authority>
+https://dariusforoux.com/authority

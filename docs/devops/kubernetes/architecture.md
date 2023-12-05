@@ -41,8 +41,8 @@ A node is a worker machine in Kubernetes, previously known as aminion. A node ma
 
 The node controller is a Kubernetes master component which manages various aspects of nodes.
 
-<https://learnk8s.io/kubernetes-node-size>
+https://learnk8s.io/kubernetes-node-size
 
 ## Others
 
-<https://cloudyuga.guru/blog/cloud-controller-manager>
+https://cloudyuga.guru/blog/cloud-controller-manager

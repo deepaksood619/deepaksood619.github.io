@@ -24,6 +24,6 @@ The model is deployed to an online prediction service cluster (generally contain
 - Deploy ML models
 - Iterate - Monitor, optimize and maintain the performance of the model
 
-<https://www.freecodecamp.org/news/what-is-mlops-machine-learning-operations-explained>
+https://www.freecodecamp.org/news/what-is-mlops-machine-learning-operations-explained
 
 [MLOps guide](https://huyenchip.com/mlops/)

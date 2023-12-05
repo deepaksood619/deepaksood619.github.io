@@ -1,10 +1,10 @@
 # Wordpress
 
-<https://wordpress.com/home/deepaksood619.wordpress.com>
+https://wordpress.com/home/deepaksood619.wordpress.com
 
 WordPress is a content management system that powers 34% of all websites on the internet and 60% of websites that run on CMS. The power of WordPress is in the ecosystem - there are a lot of different plugins and themes. Anyone without any special programming knowledge can build a website, but a working knowledge of WordPress intricacies is a boon to any developer or designer resume.
 
-<https://www.advancedcustomfields.com>
+https://www.advancedcustomfields.com
 
 [Overview of WordPress (Beginners Guide 2020)](https://www.youtube.com/watch?v=jmqu4HC3zmo)
 
@@ -18,15 +18,15 @@ Pages - That are not part of blog, and are standalone pages like about us, conta
 
 ## Themes
 
-- <https://generatepress.com>
-- Divi Theme - <https://www.elegantthemes.com> <https://www.elegantthemesdemo.com>
+- https://generatepress.com
+- Divi Theme - https://www.elegantthemes.com> <https://www.elegantthemesdemo.com
 - Astra
-- <https://www.isitwp.com/top-wordpress-themes>
-- <https://rishitheme.com>
+- https://www.isitwp.com/top-wordpress-themes
+- https://rishitheme.com
 
 ## Plugins
 
-- <https://wp-rocket.me>
+- https://wp-rocket.me
 
 - W3 Total Cache
 - WP Super Cache
@@ -40,7 +40,7 @@ Pages - That are not part of blog, and are standalone pages like about us, conta
 - jonRadio multiple themes
 - All-in-One WP Migration by ServMask
 - Accordian plugin
-- <https://wordpress.org/support/article/managing-plugins>
+- https://wordpress.org/support/article/managing-plugins
 
 ## Tools
 
@@ -56,8 +56,8 @@ The [Advanced Database Cleaner](https://wordpress.org/plugins/advanced-database-
 
 When things are running slowly and you're not sure what to blame, [Query Monitor](https://wordpress.org/plugins/query-monitor/) lets you see what queries are taking too long to execute, as well as show you PHP warnings and errors.
 
-- <https://themeisle.com/blog/wordpress-version-control>
-- <https://kinsta.com/blog/wordpress-version-control>
+- https://themeisle.com/blog/wordpress-version-control
+- https://kinsta.com/blog/wordpress-version-control
   - [WP Pusher](https://wppusher.com/)-- lets you deploy themes and plugins from any Git repository. Note that this one focuses specifically on themes and plugins.
   - [Revisr](https://wordpress.org/plugins/revisr/)-- offers a much more comprehensive approach to using Git with WordPress. You can track your entire site, including your database, in a Git repository. You can also commit changes from inside your WordPress dashboard, revert files, and push/pull changes to a remote repository (like Bitbucket or GitHub).
   - [VersionPress](https://versionpress.com/) is an open source project that aims to "bring the full power of Git to WordPress" by version-controlling both your site's files and database. Though it also relies on Git, VersionPress gets its own section because it does things a little differently than the methods above.
@@ -112,7 +112,7 @@ db:
 
 ## Config
 
-<https://wordpress.org/support/article/editing-wp-config-php>
+https://wordpress.org/support/article/editing-wp-config-php
 
 ## Questions
 
@@ -259,10 +259,10 @@ While there are different ways to add Google Analytics your WordPress site, here
 
 ## Others
 
-- <https://www.wpbeginner.com/wp-themes/how-to-use-multiple-themes-for-pages-in-wordpress>
-- <https://www.toptal.com/wordpress/tips-and-practices>
-- <https://www.toptal.com/wordpress/interview-questions>
-- <https://www.freecodecamp.org/news/how-to-create-an-ecommere-website-using-woocomerce>
-- <https://www.freecodecamp.org/news/easily-create-a-website-using-elementor-and-wordpress>
+- https://www.wpbeginner.com/wp-themes/how-to-use-multiple-themes-for-pages-in-wordpress
+- https://www.toptal.com/wordpress/tips-and-practices
+- https://www.toptal.com/wordpress/interview-questions
+- https://www.freecodecamp.org/news/how-to-create-an-ecommere-website-using-woocomerce
+- https://www.freecodecamp.org/news/easily-create-a-website-using-elementor-and-wordpress
 - [Harness WordPress: Hooks, Actions and Filters  | Toptal®](https://www.toptal.com/wordpress/power-of-wordpress-hooks-actions-and-filters)
 - [The Ultimate Guide to High Performance WordPress](https://www.freecodecamp.org/news/the-ultimate-guide-to-high-performance-wordpress/)

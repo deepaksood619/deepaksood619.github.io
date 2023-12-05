@@ -43,7 +43,7 @@ Next.js also has support for Image Optimization by default. This allows for resi
 
 Automatic Image Optimization works with any image source. Even if the image is hosted by an external data source, like a CMS, it can still be optimized.
 
-<https://nextjs.org/docs/basic-features/image-optimization>
+https://nextjs.org/docs/basic-features/image-optimization
 
 ## Pre-Rendering
 
@@ -73,7 +73,7 @@ You can also use Client-side Rendering along with Static Generation or Server-si
 ## Commands
 
 ```bash
-npx create-next-app nextjs-blog --use-npm --example "<https://github.com/vercel/next-learn-starter/tree/master/learn-starter>"
+npx create-next-app nextjs-blog --use-npm --example "https://github.com/vercel/next-learn-starter/tree/master/learn-starter"
 
 npm run dev
 
@@ -88,9 +88,9 @@ next export #allows you to export your app to static HTML, which can be run stan
 
 ## Deployment
 
-<https://nextjs.org/docs/deployment>
+https://nextjs.org/docs/deployment
 
-<https://nextjs.org/docs/advanced-features/static-html-export>
+https://nextjs.org/docs/advanced-features/static-html-export
 
 ## Next.js 12
 
@@ -105,11 +105,11 @@ next export #allows you to export your app to static HTML, which can be run stan
 
 ## References
 
-<https://www.freecodecamp.org/news/the-next-js-handbook>
+https://www.freecodecamp.org/news/the-next-js-handbook
 
-<https://masteringnextjs.com>
+https://masteringnextjs.com
 
-<https://www.freecodecamp.org/news/nextjs-tutorial>
+https://www.freecodecamp.org/news/nextjs-tutorial
 
 [How to Integrate MongoDB Into Your Next.js App | MongoDB](https://www.mongodb.com/developer/languages/javascript/nextjs-with-mongodb/)
 

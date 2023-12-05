@@ -48,11 +48,11 @@ If you use thehostnetwork mode for a container, that container's network stack i
 
 Host mode networking can be useful to optimize performance, and in situations where a container needs to handle a large range of ports, as it does not require network address translation (NAT), and no "userland-proxy" is created for each port.
 
-<https://docs.docker.com/network/host>
+https://docs.docker.com/network/host
 
 The goal of this tutorial is to start anginxcontainer which binds directly to port 80 on the Docker host. From a networking point of view, this is the same level of isolation as if thenginxprocess were running directly on the Docker host and not in a container. However, in all other ways, such as storage, process namespace, and user namespace, thenginxprocess is isolated from the host.
 
-<https://docs.docker.com/network/network-tutorial-host>
+https://docs.docker.com/network/network-tutorial-host
 
 ## Bridge Networks
 
@@ -64,14 +64,14 @@ Bridge networks apply to containers running on thesameDocker daemon host. For co
 
 When you start Docker, a [default bridge network](https://docs.docker.com/network/bridge/#use-the-default-bridge-network)(also calledbridge) is created automatically, and newly-started containers connect to it unless otherwise specified. You can also create user-defined custom bridge networks.**User-defined bridge networks are superior to the defaultbridgenetwork.**
 
-<https://docs.docker.com/network/bridge>
+https://docs.docker.com/network/bridge
 
 ## References
 
-<https://success.docker.com/article/networking>
+https://success.docker.com/article/networking
 
-<https://success.docker.com/article/ucp-service-discovery>
+https://success.docker.com/article/ucp-service-discovery
 
-<https://docs.docker.com/network>
+https://docs.docker.com/network
 
-<https://docs.docker.com/network/network-tutorial-standalone>
+https://docs.docker.com/network/network-tutorial-standalone

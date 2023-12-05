@@ -64,8 +64,8 @@ date: '2020-01-01'
 
 ### npm install gray-matter
 
-<https://github.com/jonschlinkert/gray-matter>
+https://github.com/jonschlinkert/gray-matter
 
 ### References
 
-<https://www.tutorialspoint.com/yaml/yaml_basics.htm>
+https://www.tutorialspoint.com/yaml/yaml_basics.htm

@@ -1,12 +1,12 @@
 # Others
 
-<https://docs.mongodb.com/manual/core/index-ttl>
+https://docs.mongodb.com/manual/core/index-ttl
 
 TTL indexes are special single-field indexes that MongoDB can use to automatically remove documents from a collection after a certain amount of time or at a specific clock time. Data expiration is useful for certain types of information like machine generated event data, logs, and session information that only need to persist in a database for a finite amount of time.
 
 ## UI / Tools
 
-- <https://studio3t.com>
+- https://studio3t.com
 - Metabase
 
 ### Compass
@@ -30,7 +30,7 @@ TTL indexes are special single-field indexes that MongoDB can use to automatical
 {"user": ObjectId("64591b347266058256f16f43")}
 ```
 
-[Query Your Data — MongoDB Compass](<https://www.mongodb.com/docs/compass/current/query/filter/>
+[Query Your Data — MongoDB Compass](https://www.mongodb.com/docs/compass/current/query/filter/
 
 [MongoDB Compass | MongoDB](https://www.mongodb.com/products/compass)
 
@@ -56,4 +56,4 @@ Web-based MongoDB admin interface written with Node.js, Express and Bootstrap3
 - Custom CA and CA validation disabling
 - Supports replica sets
 
-<https://github.com/mongo-express/mongo-express>
+https://github.com/mongo-express/mongo-express

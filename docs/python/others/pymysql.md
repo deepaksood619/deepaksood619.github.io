@@ -1,20 +1,20 @@
 # PyMySQL
 
-<https://github.com/PyMySQL/PyMySQL>
+https://github.com/PyMySQL/PyMySQL
 
-<https://pymysql.readthedocs.io/en/latest>
+https://pymysql.readthedocs.io/en/latest
 
-<https://pypi.org/project/PyMySQL>
+https://pypi.org/project/PyMySQL
 
 pip install PyMySQL==0.9.3
 
 ## Connections Object
 
-<https://pymysql.readthedocs.io/en/latest/modules/connections.html>
+https://pymysql.readthedocs.io/en/latest/modules/connections.html
 
 ## Cursors Object
 
-<https://pymysql.readthedocs.io/en/latest/modules/cursors.html>
+https://pymysql.readthedocs.io/en/latest/modules/cursors.html
 
 ## Getting Started
 
@@ -50,7 +50,7 @@ pip install PyMySQL==0.9.3
 
 ## Connection Pooling
 
-<https://pythontic.com/database/mysql/connection%20pooling>
+https://pythontic.com/database/mysql/connection%20pooling
 
 ## # Singleton Class
 
@@ -194,13 +194,13 @@ import logging
              self.conn = None
 ```
 
-<https://hackersandslackers.com/python-mysql-pymysql>
+https://hackersandslackers.com/python-mysql-pymysql
 
-<https://medium.com/@vipinc.007/python-a-database-interaction-class-using-pymysql-3338fb90f38c>
+https://medium.com/@vipinc.007/python-a-database-interaction-class-using-pymysql-3338fb90f38c
 
 ## Others
 
-<https://pypi.org/project/mysql-connector-python>
+https://pypi.org/project/mysql-connector-python
 
 ## psycopg2
 
@@ -210,10 +210,10 @@ Psycopg 2 is mostly implemented in C as a libpq wrapper, resulting in being both
 
 Psycopg 2 is both Unicode and Python 3 friendly.
 
-<https://pypi.org/project/psycopg2-binary>
+https://pypi.org/project/psycopg2-binary
 
-<https://www.psycopg.org/docs>
+https://www.psycopg.org/docs
 
-<https://www.psycopg.org/docs/usage.html>
+https://www.psycopg.org/docs/usage.html
 
-<https://www.psycopg.org/docs/cursor.html>
+https://www.psycopg.org/docs/cursor.html

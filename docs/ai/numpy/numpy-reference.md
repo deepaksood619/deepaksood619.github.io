@@ -15,9 +15,9 @@
 
 The term broadcasting describes how numpy treats arrays with different shapes during arithmetic operations. Subject to certain constraints, the smaller array is "broadcast" across the larger array so that they have compatible shapes. Broadcasting provides a means of vectorizing array operations so that looping occurs in C instead of Python. It does this without making needless copies of data and usually leads to efficient algorithm implementations. There are, however, cases where broadcasting is a bad idea because it leads to inefficient use of memory that slows computation.
 
-<https://numpy.org/doc/stable/user/basics.broadcasting.html>
+https://numpy.org/doc/stable/user/basics.broadcasting.html
 
-<https://www.geeksforgeeks.org/python-broadcasting-with-numpy-arrays>
+https://www.geeksforgeeks.org/python-broadcasting-with-numpy-arrays
 
 - [Output type determination](https://docs.scipy.org/doc/numpy/reference/ufuncs.html#output-type-determination)
 - [Use of internal buffers](https://docs.scipy.org/doc/numpy/reference/ufuncs.html#use-of-internal-buffers)
@@ -81,4 +81,4 @@ The term broadcasting describes how numpy treats arrays with different shapes du
 
 ## Reference
 
-<https://docs.scipy.org/doc/numpy/reference>
+https://docs.scipy.org/doc/numpy/reference

@@ -8,13 +8,13 @@ Maslow's hierarchy of needsis a theory in [psychology](https://en.wikipedia.org/
 
 ![image](../media/Psychology-image1.jpg)
 
-<https://en.wikipedia.org/wiki/Maslow%27s_hierarchy_of_needs>
+https://en.wikipedia.org/wiki/Maslow%27s_hierarchy_of_needs
 
 ## NLP - Neuro Linguistic Programming
 
 Neuro-linguistic programming(NLP) is an approach to communication, personal development, and [psychotherapy](https://en.wikipedia.org/wiki/Psychotherapy) created by [Richard Bandler](https://en.wikipedia.org/wiki/Richard_Bandler) and [John Grinder](https://en.wikipedia.org/wiki/John_Grinder) in [California](https://en.wikipedia.org/wiki/California), United States in the 1970s. NLP's creators claim there is a connection between neurological processes (neuro-), language (linguistic) and behavioral patterns learned through experience (programming), and that these can be changed to achieve specific goals in life. Bandler and Grinder also claim that NLP methodology can "model" the skills of exceptional people, allowing anyone to acquire those skills.They claim as well that, often in a single session, NLP can treat problems such as phobias, depression, tic disorders, [psychosomatic illnesses](https://en.wikipedia.org/wiki/Psychosomatic_illness), near-sightedness, allergy, common cold, and learning disorders
 
-<https://en.wikipedia.org/wiki/Neuro-linguistic_programming>
+https://en.wikipedia.org/wiki/Neuro-linguistic_programming
 
 ## Full spectrum mapping for taking big decisions
 
@@ -82,9 +82,9 @@ Our bodies change our minds, and our minds change our behavior, and our behavior
 
 The Diderot Effect states that obtaining a new possession often creates a spiral of consumption which leads you to acquire more new things. As a result, we end up buying things that our previous selves never needed to feel happy or fulfilled.
 
-<https://en.wikipedia.org/wiki/Diderot_effect>
+https://en.wikipedia.org/wiki/Diderot_effect
 
-<https://jamesclear.com/diderot-effect>
+https://jamesclear.com/diderot-effect
 
 [Why new things make us sad - BBC REEL](https://youtu.be/hUNxBSiV4ZY)
 
@@ -109,7 +109,7 @@ Your words help to frame your sense of empowerment and control. Furthermore, the
 
 In other words, the phrase "I don't" is a psychologically empowering way to say no, while the phrase "I can't" is a psychologically draining way to say no.
 
-<https://jamesclear.com/how-to-say-no>
+https://jamesclear.com/how-to-say-no
 
 ## Panpsychism
 
@@ -125,7 +125,7 @@ Claiming that consciousness is an intrinsic element of all matter.
 
 Failing to explore enough can result in local maxima traps.
 
-<https://www.scotthyoung.com/blog/2019/09/17/explore-exploit>
+https://www.scotthyoung.com/blog/2019/09/17/explore-exploit
 
 Nomophobia - the irrational fear of being without your mobile phone or being unable to use your phone for some reason, such as the absence of a signal or running out of minutes or battery power. A phobia is by definition an irrational fear.
 
@@ -139,7 +139,7 @@ Elevation of carbon dioxide in the blood caused by an uncontrollable external th
 
 Birth order refers to the order a child is born in their family; [first-born](https://en.wikipedia.org/wiki/Firstborn) and second-born are examples. Birth order is often believed to have a profound and lasting effect on psychological development. This assertion has been repeatedly challenged. Recent research has consistently found that earlier born children score slightly higher on average on [measures of intelligence](https://en.wikipedia.org/wiki/Intelligence_quotient), but has found zero, or almost zero, robust effect of birth order on personality. Nevertheless, the notion that birth-order significantly influences personality continues to have a strong presence in [pop psychology](https://en.wikipedia.org/wiki/Pop_psychology) and popular culture
 
-<https://en.wikipedia.org/wiki/Birth_order>
+https://en.wikipedia.org/wiki/Birth_order
 
 ## Types of behavior
 
@@ -155,7 +155,7 @@ Birth order refers to the order a child is born in their family; [first-born](ht
 
 The Rorschach test is a [psychological test](https://en.wikipedia.org/wiki/Psychological_test) in which subjects' perceptions of [inkblots](https://en.wikipedia.org/wiki/Ink) are recorded and then analyzed using [psychological](https://en.wikipedia.org/wiki/Psychology) interpretation, complex [algorithms](https://en.wikipedia.org/wiki/Algorithm), or both. Some psychologists use this test to examine a person's personality characteristics and emotional functioning. It has been employed to detect underlying [thought disorder](https://en.wikipedia.org/wiki/Thought_disorder), especially in cases where patients are reluctant to describe their thinking processes openly.The test is named after its creator, Swiss psychologist [Hermann Rorschach](https://en.wikipedia.org/wiki/Hermann_Rorschach). The Rorschach can be thought of as a psychometric examination of [pareidolia](https://en.wikipedia.org/wiki/Pareidolia), active distorted perception of visual stimuli. In the 1960s, the Rorschach was the most widely used [projective test](https://en.wikipedia.org/wiki/Projective_test).
 
-<https://en.wikipedia.org/wiki/Rorschach_test>
+https://en.wikipedia.org/wiki/Rorschach_test
 
 [How does the Rorschach inkblot test work? - Damion Searls - YouTube](https://www.youtube.com/watch?v=LYi19-Vx6go)
 
@@ -227,7 +227,7 @@ When making an important decision, it's helpful to stop and deliberate first:
 - Draft a plan for yourself based on those options, putting your thoughts and decisions into writing.
 - Set your plan aside and come back a while later to reassess it, making changes as necessary.
 
-<https://deepstash.com/article/2260/seven-ways-to-feel-more-in-control-of-your-life>
+https://deepstash.com/article/2260/seven-ways-to-feel-more-in-control-of-your-life
 
 ## Narcissist / Narcissism
 

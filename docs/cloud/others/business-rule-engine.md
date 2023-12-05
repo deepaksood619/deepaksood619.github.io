@@ -1,8 +1,8 @@
 # Business Rules Engine (BRE) / Decision Rule Engine
 
-<https://martinfowler.com/bliki/RulesEngine.html> - Avoid building rule engine
+https://martinfowler.com/bliki/RulesEngine.html - Avoid building rule engine
 
-<https://martinfowler.com/dslCatalog/productionRule.html>
+https://martinfowler.com/dslCatalog/productionRule.html
 
 Abusiness rules engineis a [software system](https://en.wikipedia.org/wiki/Software_system) that executes one or more [business rules](https://en.wikipedia.org/wiki/Business_rules) in a runtime production environment. The rules might come from legal [regulation](https://en.wikipedia.org/wiki/Regulation)("An employee can be fired for any reason or no reason but not for an illegal reason"), company policy ("All customers that spend more than $100 at one time will receive a 10% discount"), or other sources. A business rule system enables these company policies and other operational decisions to be defined, tested, executed and maintained separately from [application code](https://en.wikipedia.org/wiki/Application_code).
 
@@ -35,9 +35,9 @@ The biggest difference between these types is that production rule engines execu
 
 There are some circumstance where [Fuzzy Logic](https://en.wikipedia.org/wiki/Fuzzy_Logic) based inference may be more appropriate, where heuristics are used in rule processing, rather than Boolean rules. Examples might include customer classification, missing data inference, customer value calculations, etc. The DARL languageand the associated inference engine and editors is an example of this approach.
 
-<https://en.wikipedia.org/wiki/Business_rules_engine>
+https://en.wikipedia.org/wiki/Business_rules_engine
 
-<https://www.youtube.com/watch?v=V4nl_v85sNA>
+https://www.youtube.com/watch?v=V4nl_v85sNA
 
 ## Tools
 
@@ -45,7 +45,7 @@ There are some circumstance where [Fuzzy Logic](https://en.wikipedia.org/wiki/Fu
 - Pega
 - Kissflow
 
-<https://exceptionnotfound.net/designing-a-workflow-engine-database-part-1-introduction-and-purpose>
+https://exceptionnotfound.net/designing-a-workflow-engine-database-part-1-introduction-and-purpose
 
 - BRM - Business Rules Management
 - BRF - Business Rules Framework
@@ -72,15 +72,15 @@ DMN - Decision Model and Notation
 
 The Decision Model and Notation (DMN™) is a Standard by OMG® providing a common and visual notation readily understandable by all users and personas. With DMN, business analysts can define the initial decision requirements and then formalize more detailed decision models; technical developers can automate the decisions in any process with a portable execution semantic, while business stakeholders can manage and monitor those decisions.
 
-<https://www.drools.org/learn/dmn.html>
+https://www.drools.org/learn/dmn.html
 
-<https://learn-dmn-in-15-minutes.com>
+https://learn-dmn-in-15-minutes.com
 
-<https://www.drools.org>
+https://www.drools.org
 
-<https://en.wikipedia.org/wiki/Drools>
+https://en.wikipedia.org/wiki/Drools
 
-<https://www.tutorialspoint.com/drools/drools_introduction.htm>
+https://www.tutorialspoint.com/drools/drools_introduction.htm
 
 [**https://www.toptal.com/java/rules-engines-power-to-the-smeople**](https://www.toptal.com/java/rules-engines-power-to-the-smeople)
 
@@ -92,7 +92,7 @@ From a more abstract or higher-level perspective, workflow may be considered a v
 
 Workflows may be viewed as one fundamental building block to be combined with other parts of an organization's structure such as information technology, [teams](https://en.wikipedia.org/wiki/Team), [projects](https://en.wikipedia.org/wiki/Project) and [hierarchies](https://en.wikipedia.org/wiki/Hierarchical_organization).
 
-<https://en.wikipedia.org/wiki/Workflow>
+https://en.wikipedia.org/wiki/Workflow
 
 ## Forward Chaining
 
@@ -102,7 +102,7 @@ Forward chaining starts with the available [data](https://en.wikipedia.org/wiki/
 
 Inference engines will [iterate](https://en.wikipedia.org/wiki/Iteration#Computing) through this process until a goal is reached.
 
-<https://en.wikipedia.org/wiki/Forward_chaining>
+https://en.wikipedia.org/wiki/Forward_chaining
 
 ## Backward Chaining
 
@@ -112,7 +112,7 @@ In [game theory](https://en.wikipedia.org/wiki/Game_theory), researchers apply i
 
 Backward chaining is implemented in [logic programming](https://en.wikipedia.org/wiki/Logic_programming) by [SLD resolution](https://en.wikipedia.org/wiki/SLD_resolution). Both rules are based on the [modus ponens](https://en.wikipedia.org/wiki/Modus_ponens) inference rule. It is one of the two most commonly used methods of [reasoning](https://en.wikipedia.org/wiki/Reasoning) with [inference rules](https://en.wikipedia.org/wiki/Inference_rule) and [logical implications](https://en.wikipedia.org/wiki/Logical_consequence)-- the other is [forward chaining](https://en.wikipedia.org/wiki/Forward_chaining). Backward chaining systems usually employ a [depth-first search](https://en.wikipedia.org/wiki/Depth-first_search) strategy, e.g.[Prolog](https://en.wikipedia.org/wiki/Prolog).
 
-<https://en.wikipedia.org/wiki/Backward_chaining>
+https://en.wikipedia.org/wiki/Backward_chaining
 
 ## Rules Engine
 
@@ -150,6 +150,6 @@ Like the Condition, it will likely have some sort of reference to actual code th
 
 Finally, you have the engine itself. This is the thing that will actually perform the bulk of the work. It'll accept records, load a list of rules, check whether those rules should be applied based on specific triggers and conditions, and then apply the effects of the rules.
 
-<https://medium.com/swlh/how-to-design-software-rules-engines-adbb098b2d73>
+https://medium.com/swlh/how-to-design-software-rules-engines-adbb098b2d73
 
-<https://github.com/venmo/business-rules>
+https://github.com/venmo/business-rules

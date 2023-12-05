@@ -159,6 +159,6 @@ Aspirants should know about the Constitutional Articles related with the Schedul
 | Eleventh Schedule | Article 243-G |
 | Twelfth Schedule | Article 243-W |
 
-<https://byjus.com/free-ias-prep/schedules-indian-constitution>
+https://byjus.com/free-ias-prep/schedules-indian-constitution
 
-<https://www.clearias.com/schedules-indian-constitution>
+https://www.clearias.com/schedules-indian-constitution

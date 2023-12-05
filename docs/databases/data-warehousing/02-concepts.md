@@ -103,4 +103,4 @@ To design Data Warehouse Architecture, you need to follow below given best pract
 - Consider implementing an ODS model when information retrieval need is near the bottom of the data abstraction pyramid or when there are multiple operational sources required to be accessed.
 - One should make sure that the data model is integrated and not just consolidated. In that case, you should consider 3NF data model. It is also ideal for acquiring ETL and Data cleansing tools
 
-<https://www.guru99.com/data-warehouse-architecture.html>
+https://www.guru99.com/data-warehouse-architecture.html

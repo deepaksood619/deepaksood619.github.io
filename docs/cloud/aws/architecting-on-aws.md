@@ -2,17 +2,17 @@
 
 12thAugust to 14thAugust 2020
 
-<http://online.vitalsource.com>
+http://online.vitalsource.com
 
-<https://infrastructure.aws>
+https://infrastructure.aws
 
-<https://calculator.aws>
+https://calculator.aws
 
-<http://checkip.amazonaws.com>
+http://checkip.amazonaws.com
 
-<https://www.wellarchitectedlabs.com>
+https://www.wellarchitectedlabs.com
 
-<https://www.linkedin.com/in/puneet-sharma-6b202910>
+https://www.linkedin.com/in/puneet-sharma-6b202910
 
 ## Course description
 
@@ -75,7 +75,7 @@ We recommend that attendees of this course have:
 - Amazon DynamoDB
 - AWS Database Migration Service (AWS DMS)
 
-<https://aws.amazon.com/premiumsupport/knowledge-center/transformations-aws-dms>
+https://aws.amazon.com/premiumsupport/knowledge-center/transformations-aws-dms
 
 - Hands-on lab: Deploying a Web Application on AWS
 
@@ -204,7 +204,7 @@ Gain operational insights and take action on AWS resources
 ## Edge Location - Point of Presence
 
 1. Cloudfront - CDN (Content Delivery Network)
-2. Route53 - <https://docs.aws.amazon.com/Route53/latest/DeveloperGuide/routing-policy.html>
+2. Route53 - https://docs.aws.amazon.com/Route53/latest/DeveloperGuide/routing-policy.html
 3. WAF (Web Application Framework)
 4. SHIELD
 5. Lambda@Edge

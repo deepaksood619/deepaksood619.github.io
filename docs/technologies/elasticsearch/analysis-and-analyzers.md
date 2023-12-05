@@ -47,7 +47,7 @@ set, shape, semi, transpar, call, set_tran, 5
 
 Note howtransparent, calling, andset_transhave been stemmed to their root form.
 
-<https://www.elastic.co/guide/en/elasticsearch/guide/current/analysis-intro.html>
+https://www.elastic.co/guide/en/elasticsearch/guide/current/analysis-intro.html
 
 ## Text Embeddings
 
@@ -72,4 +72,4 @@ Once trained, the models are able to take a sentence and produce a vector for ea
 
 Some common sentence embedding techniques include [InferSent](https://arxiv.org/abs/1705.02364), [Universal Sentence Encoder](https://arxiv.org/abs/1803.11175), [ELMo](https://arxiv.org/abs/1802.05365), and [BERT](https://arxiv.org/abs/1810.04805). Improving word and sentence embeddings is an active area of research, and it's likely that additional strong models will be introduced.
 
-<https://www.elastic.co/blog/text-similarity-search-with-vectors-in-elasticsearch>
+https://www.elastic.co/blog/text-similarity-search-with-vectors-in-elasticsearch

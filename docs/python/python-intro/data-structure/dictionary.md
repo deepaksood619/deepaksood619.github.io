@@ -6,9 +6,9 @@ Each piece of information in a dictionary is stored as a key-value pair. When we
 
 Use curly braces to define a dictionary. Use colons to connect keys and values, and use commas to separate individual key-value pairs.
 
-Empty Dictionary - {}
+Empty Dictionary - `{}`
 
-Dictionary - {'Name': 'Deepak', 'Age':25}
+Dictionary - `{'Name': 'Deepak', 'Age':25}`
 
 ## Accessing Values in Dictionary
 
@@ -44,7 +44,7 @@ Value : Never
 
 Returning a default empty dictionary will not raise AttributeError for second get()
 
-sub_typology=project.json.get(**'area'**,{}).get(**'0'**,{}).get(**'areaSubTypology'**, **''**)
+`sub_typology=project.json.get(**'area'**,{}).get(**'0'**,{}).get(**'areaSubTypology'**, **''**)`
 
 ## Updating in Dictionary
 
@@ -231,7 +231,7 @@ print(dict2)
 - The same thing happens for lookups, just starts with the initial slot i (where i depends on the hash of the key). If the hash and the key both don't match the entry in the slot, it starts probing, until it finds a slot with a match. If all slots are exhausted, it reports a fail.
 - BTW, thedictwill be resized if it is two-thirds full. This avoids slowing down lookups.
 
-<https://stackoverflow.com/questions/327311/how-are-pythons-built-in-dictionaries-implemented>
+https://stackoverflow.com/questions/327311/how-are-pythons-built-in-dictionaries-implemented
 
 Commonly, dictionaries are implemented with either search trees, or hash tables.
 
@@ -365,6 +365,6 @@ i = mask & (i*5 + perturb + 1);
 
 After a few shifts, perturb becomes 0, meaning justi*5 + 1is used. This is fine becausemask & (i*5 + 1)produces every integer in range 0-maskexactly once.
 
-<https://www.data-structures-in-practice.com/hash-tables>
+https://www.data-structures-in-practice.com/hash-tables
 
-<https://www.youtube.com/watch?v=npw4s1QTmPg>
+https://www.youtube.com/watch?v=npw4s1QTmPg

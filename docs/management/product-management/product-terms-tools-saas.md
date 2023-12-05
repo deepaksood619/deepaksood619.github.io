@@ -6,7 +6,7 @@
 - PDP - Product Detail Page
 - CRO - Conversion Rate Optimization
 
-<https://blog.crobox.com/article/product-detail-page-examples>
+https://blog.crobox.com/article/product-detail-page-examples
 
 ## Take up rate
 

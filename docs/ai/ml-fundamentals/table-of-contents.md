@@ -1,8 +1,8 @@
 # Table of contents
 
-## Preface - <https://d2l.ai/chapter_preface/index.html>
+## Preface - https://d2l.ai/chapter_preface/index.html
 
-## Notation - <https://d2l.ai/chapter_notation/index.html>
+## Notation - https://d2l.ai/chapter_notation/index.html
 
 ![image](../../media/Table-of-contents-image1.jpg)
 

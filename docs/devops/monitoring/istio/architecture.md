@@ -15,7 +15,7 @@ The following diagram shows the different components that make up each plane:
 
 Traffic in Istio is categorized as data plane traffic and control plane traffic. Data plane traffic refers to the messages that the business logic of the workloads send and receive. Control plane traffic refers to configuration and control messages sent between Istio components to program the behavior of the mesh. Traffic management in Istio refers exclusively to data plane traffic.
 
-<https://istio.io/docs/ops/deployment/architecture>
+https://istio.io/docs/ops/deployment/architecture
 
 Istio is composed of these components:
 
@@ -67,7 +67,7 @@ Istio is platform-independent and designed to run in a variety of environments, 
 
 ## References
 
-<https://istio.io/docs/concepts/what-is-istio>
+https://istio.io/docs/concepts/what-is-istio
 
 ## Ingress Routing
 

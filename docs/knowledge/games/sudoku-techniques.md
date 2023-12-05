@@ -1,8 +1,8 @@
 # Sudoku Techniques
 
-<https://www.learn-sudoku.com/basic-techniques.html>
+https://www.learn-sudoku.com/basic-techniques.html
 
-<https://www.learn-sudoku.com/advanced-techniques.html>
+https://www.learn-sudoku.com/advanced-techniques.html
 
 ## Basic Techniques
 

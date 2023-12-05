@@ -37,4 +37,4 @@ One way to look at smells is with respect to principles and quality: "Smells are
 
 `new XYZ(s).doSomething(buildParam1(x), buildParam2(x), buildParam3(x), a + Math.sin(x) * Math.tan(x*y + z)).doAnythingElse().build().sendRequest();`
 
-<https://en.wikipedia.org/wiki/Code_smell>
+https://en.wikipedia.org/wiki/Code_smell

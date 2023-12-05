@@ -41,4 +41,4 @@ If earlier the connection changes in one component could lead to a huge avalanch
 
 - the mediator class can "blow itself up" quite a bit, which can complicate the work with it.
 
-<https://py.checkio.org/blog/design-patterns-part-2>
+https://py.checkio.org/blog/design-patterns-part-2

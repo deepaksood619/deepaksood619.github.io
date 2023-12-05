@@ -23,7 +23,7 @@ In [mathematics](https://en.wikipedia.org/wiki/Mathematics), the theory ofoptima
 
 ## Apartment hunting - 37%
 
-<https://en.wikipedia.org/wiki/Optimal_stopping>
+https://en.wikipedia.org/wiki/Optimal_stopping
 
 ## Secretary Problem
 
@@ -33,4 +33,4 @@ The basic form of the problem is the following: imagine an administrator who wan
 
 The problem has an elegant solution, and the shortest rigorous proof known so far is provided by the [odds algorithm](https://en.wikipedia.org/wiki/Odds_algorithm)(Bruss 2000). An easy analysis implies that the optimal win probability is always at least1/e, and that the latter holds even in a much greater generality (2003). The optimal stopping rule prescribes always rejecting the first ~n/e applicants that are interviewed (where [e](https://en.wikipedia.org/wiki/E_(mathematical_constant)) is the base of the [natural logarithm](https://en.wikipedia.org/wiki/Natural_logarithm)) and then stopping at the first applicant who is better than every applicant interviewed so far (or continuing to the last applicant if this never occurs). Sometimes this strategy is called the 1/estopping rule, because the probability of stopping at the best applicant with this strategy is about1/ealready for moderate values ofn. One reason why the secretary problem has received so much attention is that the optimal policy for the problem (the stopping rule) is simple and selects the single best candidate about 37% of the time, irrespective of whether there are 100 or 100 million applicants.
 
-<https://en.wikipedia.org/wiki/Secretary_problem>
+https://en.wikipedia.org/wiki/Secretary_problem

@@ -248,7 +248,7 @@ query_expression:
     SELECT ...   (Some valid select or union statement)
 ```
 
-<https://dev.mysql.com/doc/refman/8.0/en/create-table.html>
+https://dev.mysql.com/doc/refman/8.0/en/create-table.html
 
 ## Examples
 
@@ -340,8 +340,8 @@ MySQL converts TIMESTAMP values from the current time zone to UTC for storage, a
 
 [Datetime vs Timestamp datatype in databases - Which one is better and when? - YouTube](https://www.youtube.com/watch?v=zrl_odkY5tI)
 
-<https://www.eversql.com/mysql-datetime-vs-timestamp-column-types-which-one-i-should-use>
+https://www.eversql.com/mysql-datetime-vs-timestamp-column-types-which-one-i-should-use
 
-<https://stackoverflow.com/questions/409286/should-i-use-the-datetime-or-timestamp-data-type-in-mysql>
+https://stackoverflow.com/questions/409286/should-i-use-the-datetime-or-timestamp-data-type-in-mysql
 
-<https://www.c-sharpcorner.com/article/difference-between-mysql-datetime-and-timestamp-datatypes>
+https://www.c-sharpcorner.com/article/difference-between-mysql-datetime-and-timestamp-datatypes

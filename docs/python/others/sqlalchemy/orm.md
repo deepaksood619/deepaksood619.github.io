@@ -17,7 +17,7 @@ A successful application may be constructed using the Object Relational Mapper e
 - [Create an Instance of the Mapped Class](https://docs.sqlalchemy.org/en/13/orm/tutorial.html#create-an-instance-of-the-mapped-class)
 - [Creating a Session](https://docs.sqlalchemy.org/en/13/orm/tutorial.html#creating-a-session)
 
-<https://docs.sqlalchemy.org/en/14/orm/session_basics.html>
+https://docs.sqlalchemy.org/en/14/orm/session_basics.html
 
 - [Adding and Updating Objects](https://docs.sqlalchemy.org/en/13/orm/tutorial.html#adding-and-updating-objects)
 - [Rolling Back](https://docs.sqlalchemy.org/en/13/orm/tutorial.html#rolling-back)
@@ -79,7 +79,7 @@ As usual production-ready programs need to override these defaults (to fine-tune
 - **pool_recycle:** Configures the maximum age (in seconds) of connections in the pool.
 - **pool_timeout:** Identifies how many seconds the program will wait before giving up on getting a connection from the pool.
 
-<https://wiki.postgresql.org/wiki/Replication,_Clustering,_and_Connection_Pooling>
+https://wiki.postgresql.org/wiki/Replication,_Clustering,_and_Connection_Pooling
 
 ## SQLAlchemy Dialects
 
@@ -109,8 +109,8 @@ On its core, SQLAlchemy includes the following list of dialects:
 
 ORM, which stands forObject Relational Mapper, is the specialization of the [Data Mapperdesign pattern](https://martinfowler.com/eaaCatalog/dataMapper.html) that addresses relational databases like MySQL, Oracle, and PostgreSQL. As explained by Martin Fowler in the article,Mappersare responsible for moving data between objects and a database while keeping them independent of each other. As object-oriented programming languages and relational databases structure data on different ways, we need specific code to translate from one schema to the other.
 
-<https://auth0.com/blog/sqlalchemy-orm-tutorial-for-python-developers>
+https://auth0.com/blog/sqlalchemy-orm-tutorial-for-python-developers
 
-<https://www.infoq.com/articles/optimizing-orm-performance>
+https://www.infoq.com/articles/optimizing-orm-performance
 
-<https://stackoverflow.com/questions/451845/orm-performance-cost>
+https://stackoverflow.com/questions/451845/orm-performance-cost

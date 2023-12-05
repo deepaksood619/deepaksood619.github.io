@@ -9,9 +9,9 @@
 - Advanced:[Managers](https://docs.djangoproject.com/en/2.0/topics/db/managers/)|[Raw SQL](https://docs.djangoproject.com/en/2.0/topics/db/sql/)|[Transactions](https://docs.djangoproject.com/en/2.0/topics/db/transactions/)|[Aggregation](https://docs.djangoproject.com/en/2.0/topics/db/aggregation/)|[Search](https://docs.djangoproject.com/en/2.0/topics/db/search/)|[Custom fields](https://docs.djangoproject.com/en/2.0/howto/custom-model-fields/)|[Multiple databases](https://docs.djangoproject.com/en/2.0/topics/db/multi-db/)|[Custom lookups](https://docs.djangoproject.com/en/2.0/howto/custom-lookups/)|[Query Expressions](https://docs.djangoproject.com/en/2.0/ref/models/expressions/)|[Conditional Expressions](https://docs.djangoproject.com/en/2.0/ref/models/conditional-expressions/)|[Database Functions](https://docs.djangoproject.com/en/2.0/ref/models/database-functions/)
 - Other:[Supported databases](https://docs.djangoproject.com/en/2.0/ref/databases/)|[Legacy databases](https://docs.djangoproject.com/en/2.0/howto/legacy-databases/)|[Providing initial data](https://docs.djangoproject.com/en/2.0/howto/initial-data/)|[Optimize database access](https://docs.djangoproject.com/en/2.0/topics/db/optimization/)|[PostgreSQL specific features](https://docs.djangoproject.com/en/2.0/ref/contrib/postgres/)
 
-<https://docs.djangoproject.com/en/4.1/topics/db/transactions>
+https://docs.djangoproject.com/en/4.1/topics/db/transactions
 
-<https://seddonym.me/2020/11/19/trouble-atomic>
+https://seddonym.me/2020/11/19/trouble-atomic
 
 ## The view layer
 
@@ -80,9 +80,9 @@ To use a model the app must be added to the tuple INSTALLED_APPS, which is store
 - [Syndication feeds (RSS/Atom)](https://docs.djangoproject.com/en/2.0/ref/contrib/syndication/)
 - [Pagination](https://docs.djangoproject.com/en/2.0/topics/pagination/)
 
-<https://www.django-rest-framework.org/api-guide/pagination/#cursorpagination>
+https://www.django-rest-framework.org/api-guide/pagination/#cursorpagination
 
-<https://pganalyze.com/blog/pagination-django-postgres>
+https://pganalyze.com/blog/pagination-django-postgres
 
 - [Messages framework](https://docs.djangoproject.com/en/2.0/ref/contrib/messages/)
 - [Serialization](https://docs.djangoproject.com/en/2.0/topics/serialization/)

@@ -50,7 +50,7 @@
         - Carrier-sense multiple access with collision detection(CSMA/CD)
         - Carrier-sense multiple access with collision avoidance(CSMA/CA)
 
-<https://en.wikipedia.org/wiki/Internet_protocol_suite>
+https://en.wikipedia.org/wiki/Internet_protocol_suite
 
 ## Networking Protocols
 
@@ -99,11 +99,11 @@ The updated protocol added a function called "0-RTT resumption" that enables the
 - The server generates its own hash, and then decrypts the client-sent hash to verify that it matches. If it does, it sends its ownFinishedmessage to the client, also encrypted with the symmetric key.
 - From now on the TLS session transmits the application (HTTP) data encrypted with the agreed symmetric key
 
-<https://en.wikipedia.org/wiki/Transport_Layer_Security>
+https://en.wikipedia.org/wiki/Transport_Layer_Security
 
-<https://www.cloudflare.com/learning/ssl/transport-layer-security-tls>
+https://www.cloudflare.com/learning/ssl/transport-layer-security-tls
 
-<https://security.stackexchange.com/questions/93333/what-layer-is-tls>
+https://security.stackexchange.com/questions/93333/what-layer-is-tls
 
 ## Mutual Authentication
 
@@ -121,7 +121,7 @@ Mutual authentication is of two types:
 - Certificate based
 - User name-password based
 
-<https://en.wikipedia.org/wiki/Mutual_authentication>- We use TLS/SSL for two main reasons
+https://en.wikipedia.org/wiki/Mutual_authentication- We use TLS/SSL for two main reasons
 
     1. Encryption
     2. Authentication

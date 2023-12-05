@@ -27,9 +27,9 @@ service HelloService {
 }
 ```
 
-<https://github.com/google/protobuf>
+https://github.com/google/protobuf
 
-<https://developers.google.com/protocol-buffers>
+https://developers.google.com/protocol-buffers
 
 ## Advantages over XML
 
@@ -85,11 +85,11 @@ The tests we've implemented cover the following aspects:
 
 ## Python apis
 
-<https://developers.google.com/protocol-buffers/docs/reference/python-generated>
+https://developers.google.com/protocol-buffers/docs/reference/python-generated
 
-<https://developers.google.com/protocol-buffers/docs/pythontutorial>
+https://developers.google.com/protocol-buffers/docs/pythontutorial
 
-<https://developers.google.com/protocol-buffers/docs/proto3>
+https://developers.google.com/protocol-buffers/docs/proto3
 
 - **SerializeToString():** serializes the message and returns it as a string. Note that the bytes are binary, not text; we only use the str type as a convenient container
 - **ParseFromString(data):** parses a message from the given string

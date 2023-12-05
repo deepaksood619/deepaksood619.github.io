@@ -27,6 +27,6 @@ Allow ports 60000:61000 udp on server
 
 ## References
 
-<https://github.com/mobile-shell/mosh>
+https://github.com/mobile-shell/mosh
 
-<https://mosh.org>
+https://mosh.org

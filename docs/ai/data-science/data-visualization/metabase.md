@@ -6,13 +6,13 @@ Your questions can be saved for later, making it easy to come back to them, or y
 
 `docker run -p 3000:3000 --name metabase metabase/metabase`
 
-<https://www.metabase.com/docs/latest/users-guide/01-what-is-metabase.html>
+https://www.metabase.com/docs/latest/users-guide/01-what-is-metabase.html
 
-<https://www.metabase.com/docs/latest/getting-started.html>
+https://www.metabase.com/docs/latest/getting-started.html
 
-<https://www.metabase.com/learn>
+https://www.metabase.com/learn
 
-<https://github.com/metabase/metabase>
+https://github.com/metabase/metabase
 
 [Joins in Metabase](https://www.metabase.com/learn/questions/joins-in-metabase)
 

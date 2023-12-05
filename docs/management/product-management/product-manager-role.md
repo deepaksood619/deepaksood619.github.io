@@ -46,7 +46,7 @@ The most important PM attributes
 
 Playlist - [Spotify Squads/Tribes/Guilds](https://www.youtube.com/playlist?list=PLcb4e6GmmJKTxdVwg44TLPx7WkE2UQ6XB)
 
-<https://www.jeremiahlee.com/posts/failed-squad-goals>
+https://www.jeremiahlee.com/posts/failed-squad-goals
 
 There is no one size fits all
 
@@ -96,9 +96,9 @@ There is no perfect PEPSI there are only perfect PEPSIs
 
 ## Product Manager Career
 
-<https://hackernoon.com/how-to-plan-your-career-change-and-become-a-product-manager-my-tips-and-tricks-for-success-fnv231pc>
+https://hackernoon.com/how-to-plan-your-career-change-and-become-a-product-manager-my-tips-and-tricks-for-success-fnv231pc
 
-Career Ladder - <https://docs.google.com/spreadsheets/d/1F1Y3YtjsvAJUZMqS-rK0LGQGg7eHYubq9KqedPwLCDE/edit#gid=1755575210>
+Career Ladder - https://docs.google.com/spreadsheets/d/1F1Y3YtjsvAJUZMqS-rK0LGQGg7eHYubq9KqedPwLCDE/edit#gid=1755575210
 
 ### Become a product manager if you are fulfilled by
 
@@ -126,7 +126,7 @@ Career Ladder - <https://docs.google.com/spreadsheets/d/1F1Y3YtjsvAJUZMqS-rK0LGQ
 - Avoiding email
 - Avoiding people
 
-<https://www.lennysnewsletter.com/p/how-to-get-into-product-management>
+https://www.lennysnewsletter.com/p/how-to-get-into-product-management
 
 ## Product Marketing
 

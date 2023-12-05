@@ -54,7 +54,7 @@ Router processes are optional processes that provide a unified API gateway in fr
 
 ![image](../../../media/Druid_Architecture-image1.jpg)
 
-<https://docs.imply.io/cloud/design>
+https://docs.imply.io/cloud/design
 
 Druid processes can be deployed individually (one per physical server, virtual server, or container) or can be colocated on shared servers. One common colocation plan is a three-type plan:
 

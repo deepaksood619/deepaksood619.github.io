@@ -41,7 +41,7 @@ AWS seems to have recognized that 'messaging' is as important a service as any o
 
 Sadly, AWS has rolled out Pinpoint with an altogether different set of monsters to deal with. First, Pinpoint can get needlessly expensive as it charges $0.0012 per customer tracked. Second, the Pinpoint Delivery Dashboard (a sort of UI to see things like delivery metrics, bounce notifications, etc.) costs $1,250 per month - SERIOUSLY - a huge charge for something that should have been a basic requirement. This rules out Pinpoint for Small and Medium Businesses (SMB's).
 
-<https://www.pinpointjourneys.com/build>
+https://www.pinpointjourneys.com/build
 
 ## Segments
 
@@ -150,20 +150,20 @@ When a message contains more than the maximum number of characters, the message 
 
 ## Suppression List
 
-<https://docs.aws.amazon.com/ses/latest/DeveloperGuide/sending-email-global-suppression-list.html>
+https://docs.aws.amazon.com/ses/latest/DeveloperGuide/sending-email-global-suppression-list.html
 
-<https://docs.aws.amazon.com/ses/latest/DeveloperGuide/sending-email-suppression-list.html>
+https://docs.aws.amazon.com/ses/latest/DeveloperGuide/sending-email-suppression-list.html
 
-<https://aws.amazon.com/solutions/implementations/predictive-user-engagement>
+https://aws.amazon.com/solutions/implementations/predictive-user-engagement
 
-<https://aws.amazon.com/solutions/implementations/location-based-notifications-using-amazon-pinpoint>
+https://aws.amazon.com/solutions/implementations/location-based-notifications-using-amazon-pinpoint
 
-<https://docs.aws.amazon.com/pinpoint/latest/developerguide/event-streams-data-sms.html>
+https://docs.aws.amazon.com/pinpoint/latest/developerguide/event-streams-data-sms.html
 
 [**https://aws.amazon.com/solutions/implementations/digital-user-engagement-events-database/**](https://aws.amazon.com/solutions/implementations/digital-user-engagement-events-database/)
 
-<https://github.com/aws-samples/digital-user-engagement-reference-architecture>
+https://github.com/aws-samples/digital-user-engagement-reference-architecture
 
-<https://awsdue.tv>
+https://awsdue.tv
 
-<https://docs.aws.amazon.com/pinpoint/latest/userguide/channels-sms-limitations-characters.html#channels-sms-limitations-characters-gsm-alphabet>
+https://docs.aws.amazon.com/pinpoint/latest/userguide/channels-sms-limitations-characters.html#channels-sms-limitations-characters-gsm-alphabet

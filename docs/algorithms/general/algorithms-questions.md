@@ -79,11 +79,11 @@ def maxSubArraySum(a,size):
     return max_so_far
 ```
 
-<https://www.geeksforgeeks.org/largest-sum-contiguous-subarray>
+https://www.geeksforgeeks.org/largest-sum-contiguous-subarray
 
 ## Maximum Product Subarray
 
-<https://www.geeksforgeeks.org/maximum-product-subarray>
+https://www.geeksforgeeks.org/maximum-product-subarray
 
 ## Interview Problems
 
@@ -188,8 +188,8 @@ Following are detailed operations.
 
 - Do a lookup for x in hash map.
 
-<https://www.geeksforgeeks.org/design-a-data-structure-that-supports-insert-delete-search-and-getrandom-in-constant-time>
+https://www.geeksforgeeks.org/design-a-data-structure-that-supports-insert-delete-search-and-getrandom-in-constant-time
 
-<https://www.toptal.com/algorithms/mixed-integer-programming>
+https://www.toptal.com/algorithms/mixed-integer-programming
 
-<https://www.hackerrank.com/interview/interview-preparation-kit>
+https://www.hackerrank.com/interview/interview-preparation-kit

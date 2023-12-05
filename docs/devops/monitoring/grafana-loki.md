@@ -25,7 +25,7 @@ Promtail is an agent that ships the logs from the local system to the Loki clust
 
 ![image](../../media/DevOps-Monitoring-Grafana-image1.jpg)
 
-<https://grafana.com/docs/loki/latest/clients/promtail>
+https://grafana.com/docs/loki/latest/clients/promtail
 
 The Loki is built on the same design principles of Prometheus, therefore it is a good fit for storing and analyzing the logs of Kubernetes.
 
@@ -79,31 +79,31 @@ Unlike other logging systems, Loki is built around the idea of only indexing met
 
 Loki 2.0 brings an index mechanism named 'boltdb-shipper' and is what we now call **Single Store Loki**. This index type only requires one store, the object store, for both the index and chunks.
 
-<https://grafana.com/docs/loki/latest/storage>
+https://grafana.com/docs/loki/latest/storage
 
-<https://grafana.com/docs/loki/latest/operations/storage/boltdb-shipper>
+https://grafana.com/docs/loki/latest/operations/storage/boltdb-shipper
 
-<https://www.infracloud.io/logging-in-kubernetes-efk-vs-plg-stack>
+https://www.infracloud.io/logging-in-kubernetes-efk-vs-plg-stack
 
-<https://grafana.com/oss/loki>
+https://grafana.com/oss/loki
 
-<https://github.com/grafana/loki>
+https://github.com/grafana/loki
 
-<https://grafana.com/go/webinar/observability-with-loki-2.0>
+https://grafana.com/go/webinar/observability-with-loki-2.0
 
-<https://grafana.com/go/webinar/intro-to-loki-like-prometheus-but-for-logs>
+https://grafana.com/go/webinar/intro-to-loki-like-prometheus-but-for-logs
 
-<https://grafana.com/docs/loki/latest/architecture>
+https://grafana.com/docs/loki/latest/architecture
 
-<https://grafana.com/grafana/dashboards/13407>
+https://grafana.com/grafana/dashboards/13407
 
-<https://grafana.com/grafana/dashboards/10880>
+https://grafana.com/grafana/dashboards/10880
 
-<https://grafana.com/grafana/dashboards/10004>
+https://grafana.com/grafana/dashboards/10004
 
-<https://grafana.com/docs/loki/latest/operations/observability>
+https://grafana.com/docs/loki/latest/operations/observability
 
-<https://grafana.com/blog/2020/10/28/loki-2.0-released-transform-logs-as-youre-querying-them-and-set-up-alerts-within-loki>
+https://grafana.com/blog/2020/10/28/loki-2.0-released-transform-logs-as-youre-querying-them-and-set-up-alerts-within-loki
 
 ## LogQL
 
@@ -114,7 +114,7 @@ There are two types of LogQL queries:
 - **Log queries** return the contents of log lines.
 - **Metric queries** extend log queries and calculate sample values based on the content of logs from a log query.
 
-<https://grafana.com/docs/loki/latest/logql/metric_queries>
+https://grafana.com/docs/loki/latest/logql/metric_queries
 
 ## Examples
 
@@ -124,4 +124,4 @@ There are two types of LogQL queries:
 rate({app="reminder-messages-sms-consumer"}[5m])
 ```
 
-<https://grafana.com/docs/loki/latest/logql>
+https://grafana.com/docs/loki/latest/logql

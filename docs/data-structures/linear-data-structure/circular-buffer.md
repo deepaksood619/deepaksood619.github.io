@@ -12,4 +12,4 @@ Circular buffering makes a good implementation strategy for a [queue](https://en
 
 In some situations, overwriting circular buffer can be used, e.g. in multimedia. If the buffer is used as the bounded buffer in the [producer-consumer problem](https://en.wikipedia.org/wiki/Producer-consumer_problem) then it is probably desired for the producer (e.g., an audio generator) to overwrite old data if the consumer (e.g., the [sound card](https://en.wikipedia.org/wiki/Sound_card)) is unable to momentarily keep up. Also, the [LZ77](https://en.wikipedia.org/wiki/LZ77) family of lossless data compression algorithms operates on the assumption that strings seen more recently in a data stream are more likely to occur soon in the stream. Implementations store the most recent data in a circular buffer.
 
-<https://en.wikipedia.org/wiki/Circular_buffer>
+https://en.wikipedia.org/wiki/Circular_buffer

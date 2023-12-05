@@ -62,11 +62,11 @@ PSR-7 is a set of common interfaces defined by PHP Framework Interop Group. Thes
 
 Any web application using this set of interfaces is a PSR-7 application.
 
-<https://github.com/guzzle/psr7>
+https://github.com/guzzle/psr7
 
 ## Libraries
 
-<https://github.com/chriskacerguis/codeigniter-restserver>
+https://github.com/chriskacerguis/codeigniter-restserver
 
 A fully RESTful server implementation for CodeIgniter using one library, one config file and one controller.
 

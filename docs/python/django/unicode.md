@@ -46,4 +46,4 @@ While printing lists as well as other container classes, the contained elements 
 
 ## References
 
-<https://nedbatchelder.com/text/unipain.html>
+https://nedbatchelder.com/text/unipain.html

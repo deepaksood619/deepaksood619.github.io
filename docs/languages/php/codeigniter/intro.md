@@ -34,11 +34,11 @@ CodeIgniter is a powerful PHP framework with a very small footprint, built for d
 - Support for Hooks and Class Extensions
 - Large library of "helper" functions
 
-<https://www.tutorialspoint.com/codeigniter/codeigniter_overview.htm>
+https://www.tutorialspoint.com/codeigniter/codeigniter_overview.htm
 
 ## Docker Environment
 
-<https://hub.docker.com/r/bitnami/codeigniter>
+https://hub.docker.com/r/bitnami/codeigniter
 
 ## Docs
 
@@ -170,4 +170,4 @@ CodeIgniter is a powerful PHP framework with a very small footprint, built for d
 - [Authentication](https://codeigniter.com/user_guide/extending/authentication.html)
 - [Contributing to CodeIgniter](https://codeigniter.com/user_guide/extending/contributing.html)
 
-<https://codeigniter.com/user_guide/index.html>
+https://codeigniter.com/user_guide/index.html

@@ -54,4 +54,4 @@
 - Logistic Distributions
 - Probability Distributions: A Practical Example
 
-<https://365datascience.teachable.com/courses/enrolled/506102>
+https://365datascience.teachable.com/courses/enrolled/506102

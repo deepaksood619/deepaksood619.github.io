@@ -16,7 +16,7 @@
 - [Node isolation/restriction](https://kubernetes.io/docs/concepts/configuration/assign-pod-node/#node-isolation-restriction)
 - [Affinity and anti-affinity](https://kubernetes.io/docs/concepts/configuration/assign-pod-node/#affinity-and-anti-affinity)
 
-<https://kubernetes.io/docs/concepts/scheduling-eviction/assign-pod-node>
+https://kubernetes.io/docs/concepts/scheduling-eviction/assign-pod-node
 
 ```yaml
 apiVersion: v1
@@ -49,16 +49,16 @@ spec:
 
 - [nodeName](https://kubernetes.io/docs/concepts/configuration/assign-pod-node/#nodename)
 
-<https://kubernetes.io/docs/concepts/configuration/assign-pod-node>
+https://kubernetes.io/docs/concepts/configuration/assign-pod-node
 
 ## Taints and Tolerations
 
 - [Taint based Evictions](https://kubernetes.io/docs/concepts/configuration/taint-and-toleration/#taint-based-evictions)
 - [Taint Nodes by Condition](https://kubernetes.io/docs/concepts/configuration/taint-and-toleration/#taint-nodes-by-condition)
 
-<https://kubernetes.io/docs/concepts/configuration/taint-and-toleration>
+https://kubernetes.io/docs/concepts/configuration/taint-and-toleration
 
-<https://docs.microsoft.com/en-us/azure/aks/operator-best-practices-advanced-scheduler#provide-dedicated-nodes-using-taints-and-tolerations>
+https://docs.microsoft.com/en-us/azure/aks/operator-best-practices-advanced-scheduler#provide-dedicated-nodes-using-taints-and-tolerations
 
 Node affinity is a property of Pods that attracts them to a set of nodes (either as a preference or a hard requirement). Taints are theopposite --they allow a node to repel a set of pods. Tolerations are applied to pods, and allow (but do not require) the pods to schedule onto nodes with matching taints.
 
@@ -72,7 +72,7 @@ Node affinity is a property of Pods that attracts them to a set of nodes (either
 - [Debugging Pod Priority and Preemption](https://kubernetes.io/docs/concepts/configuration/pod-priority-preemption/#debugging-pod-priority-and-preemption)
 - [Interactions of Pod priority and QoS](https://kubernetes.io/docs/concepts/configuration/pod-priority-preemption/#interactions-of-pod-priority-and-qos)
 
-<https://kubernetes.io/docs/concepts/configuration/pod-priority-preemption>
+https://kubernetes.io/docs/concepts/configuration/pod-priority-preemption
 
 ## Configmaps
 
@@ -109,7 +109,7 @@ volumes:
     name: special-config
 ```
 
-<https://kubernetes.io/docs/concepts/configuration/configmap>
+https://kubernetes.io/docs/concepts/configuration/configmap
 
 ## Secrets vs ConfigMaps
 

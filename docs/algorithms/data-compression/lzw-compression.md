@@ -4,7 +4,7 @@ LZF belongs to a family of compression codecs called "simple Lempel-Ziv" codecs.
 
 - Used in Druid
 
-<https://github.com/ning/compress/wiki/LZFFormat>
+https://github.com/ning/compress/wiki/LZFFormat
 
 ## Properties
 
@@ -106,4 +106,4 @@ Ans: An array of size 2^w^.
 - LZMA
 - LZSS
 
-<https://en.wikipedia.org/wiki/LZ77_and_LZ78>
+https://en.wikipedia.org/wiki/LZ77_and_LZ78

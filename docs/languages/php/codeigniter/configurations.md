@@ -64,8 +64,8 @@ $autoload ['config'] = array('config1', 'config2');
 
 $autoload ['model'] = array('first_model', 'second_model');
 
-<https://www.tutorialspoint.com/codeigniter/codeigniter_configuration.htm>
+https://www.tutorialspoint.com/codeigniter/codeigniter_configuration.htm
 
 ## Error Handlings
 
-<https://www.tutorialspoint.com/codeigniter/codeigniter_error_handling.htm>
+https://www.tutorialspoint.com/codeigniter/codeigniter_error_handling.htm

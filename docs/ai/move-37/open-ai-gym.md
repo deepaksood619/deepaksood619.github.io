@@ -10,10 +10,10 @@ Reward is given for moving forward, total 300+ points up to the far end. If the 
 
 ## References
 
-<http://kvfrans.com/simple-algoritms-for-solving-cartpole>
+http://kvfrans.com/simple-algoritms-for-solving-cartpole
 
-<https://github.com/kvfrans/openai-cartpole>
+https://github.com/kvfrans/openai-cartpole
 
-<https://gym.openai.com/envs/FrozenLake-v0>
+https://gym.openai.com/envs/FrozenLake-v0
 
-<https://gym.openai.com/envs/BipedalWalker-v2>
+https://gym.openai.com/envs/BipedalWalker-v2

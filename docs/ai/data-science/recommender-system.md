@@ -7,9 +7,9 @@ Examples of web services that make use of Recommender Systems are: online auctio
 - **Frequently bought together** for Retail
 - **Top picks for you** for Media and Entertainment
 
-<https://www.quora.com/LinkedIn-Recommendations/How-does-LinkedIns-recommendation-system-work>
+https://www.quora.com/LinkedIn-Recommendations/How-does-LinkedIns-recommendation-system-work
 
-<https://docs.aws.amazon.com/personalize/latest/dg/what-is-personalize.html>
+https://docs.aws.amazon.com/personalize/latest/dg/what-is-personalize.html
 
 [Vinija's Notes • Recommendation Systems • Research Papers](https://vinija.ai/recsys/papers/)
 

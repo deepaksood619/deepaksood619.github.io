@@ -71,7 +71,7 @@ Mathematics
 
 We should not attribute to malice, people do make mistakes
 
-<https://en.wikipedia.org/wiki/Fundamental_attribution_error>
+https://en.wikipedia.org/wiki/Fundamental_attribution_error
 
 ### [Occam's Razor](https://en.wikipedia.org/wiki/Occam%27s_razor)
 
@@ -81,7 +81,7 @@ Simpler explanations are more likely to be true than complicated ones
 
 Occam's Razor is the problem-solving principle that the simplest solution tends to be the right one. When presented with competing [hypotheses](https://en.wikipedia.org/wiki/Hypothesis) to solve a problem, one should select the solution with the fewest assumptions.
 
-<https://en.wikipedia.org/wiki/Occam%27s_razor>
+https://en.wikipedia.org/wiki/Occam%27s_razor
 
 ## Problem Framing
 
@@ -131,7 +131,7 @@ In [game theory](https://en.wikipedia.org/wiki/Game_theory) and [economic theory
 
 In contrast, non-zero-sumdescribes a situation in which the interacting parties' aggregate gains and losses can be less than or more than zero. A zero-sum game is also called astrictly competitivegame while non-zero-sum games can be either competitive or non-competitive. Zero-sum games are most often solved with the [minimax theorem](https://en.wikipedia.org/wiki/Minimax_theorem) which is closely related to [linear programming duality](https://en.wikipedia.org/wiki/LP_duality), or with [Nash equilibrium](https://en.wikipedia.org/wiki/Nash_equilibrium).
 
-<https://en.wikipedia.org/wiki/Zero-sum_game>
+https://en.wikipedia.org/wiki/Zero-sum_game
 
 - [Alternative Dispute Resolution (ADR)](https://en.wikipedia.org/wiki/Alternative_dispute_resolution) - "Dispute resolution processes and techniques that act as a means for disagreeing parties to come to an agreement short of litigation." (related:[mediation](https://en.wikipedia.org/wiki/Mediation);[arbitration](https://en.wikipedia.org/wiki/Arbitration); "extend an olive branch.")
 - [Prisoner's Dilemma](https://en.wikipedia.org/wiki/Prisoner%27s_dilemma) - "A standard example of a game analyzed in game theory that shows why two completely 'rational' individuals might not cooperate, even if it appears that it is in their best interests to do so." (related:[Nash equilibrium](https://en.wikipedia.org/wiki/Nash_equilibrium), [evolutionarily stable strategy](https://en.wikipedia.org/wiki/Evolutionarily_stable_strategy))
@@ -242,11 +242,11 @@ In the late 16th and early 17th centuries, Thomas Hobson worked as a licensed ca
 - [Micropayment](https://en.wikipedia.org/wiki/Micropayment) - "A financial transaction involving a very small sum of money and usually one that occurs online."
 - [Godwin's Law](https://en.wikipedia.org/wiki/Godwin%27s_law) - "If an online discussion (regardless of topic or scope) goes on long enough, sooner or later someone will compare someone or something to Hitler or Nazism." (related: "Take the high road.", "Rise above the fray.", "Don't stoop down to their level.")
 
-<https://medium.com/@yegg/mental-models-i-find-repeatedly-useful-936f1cc405d>
+https://medium.com/@yegg/mental-models-i-find-repeatedly-useful-936f1cc405d
 
-<https://jamesclear.com/mental-models>
+https://jamesclear.com/mental-models
 
-<https://fs.blog/tgmm>
+https://fs.blog/tgmm
 
 ## Catch-22
 
@@ -256,7 +256,7 @@ An example is:
 
 In needing experience to get a job... "How can I get any experience until I get a job that gives me experience?" -- Brantley Foster in [The Secret of My Success](https://en.wikipedia.org/wiki/The_Secret_of_My_Success_(1987_film)).
 
-<https://en.wikipedia.org/wiki/Catch-22_(logic)>
+https://en.wikipedia.org/wiki/Catch-22_(logic)
 
 ## Says law
 
@@ -278,9 +278,9 @@ Don't change something until you know why it was there in the first place. It's 
 
 **Unless we know why someone made a decision, we can't safely change it or conclude that they were wrong**
 
-<https://abovethelaw.com/2014/01/the-fallacy-of-chestertons-fence>
+https://abovethelaw.com/2014/01/the-fallacy-of-chestertons-fence
 
-<https://fs.blog/2020/03/chestertons-fence>
+https://fs.blog/2020/03/chestertons-fence
 
 ## 50 Ideas
 
@@ -402,7 +402,7 @@ We're inspired by people who take a stand for what they believe in, who refuse t
 
 We can start a positive cycle of desire for ourselves even in simple things, like fitness. It's like turning a giant flywheel, which builds momentum as we go. One turn of the flywheel might work like this: I commit to showing up for my workouts with my highly disciplined friend, who holds me accountable if I don't; which makes me want to eat well so that I have enough energy for our workouts; which makes me want to wake up...."
 
-<https://www.perell.com/blog/50-ideas-that-changed-my-life>
+https://www.perell.com/blog/50-ideas-that-changed-my-life
 
 ## Principle of reasonable accommodation
 
@@ -418,21 +418,21 @@ Human capitalis the stock of [habits](https://en.wikipedia.org/wiki/Habit), [kno
 
 Human capital is unique and differs from any other capital. It is needed for companies to achieve goals, develop and remain innovative. Companies can invest in human capital for example through education and training enabling improved levels of quality and production.
 
-<https://en.wikipedia.org/wiki/Human_capital>
+https://en.wikipedia.org/wiki/Human_capital
 
 ## Hedonic Treadmill / Hedonic Adaptation
 
 The hedonic treadmill, also known as hedonic adaptation, is the observed tendency of [humans](https://en.wikipedia.org/wiki/Human) to quickly return to a relatively stable level of [happiness](https://en.wikipedia.org/wiki/Happiness) despite major positive or negative events or life changes. According to this theory, as a person makes more money, expectations and desires rise in tandem, which results in no permanent gain in happiness.
 
-<https://en.wikipedia.org/wiki/Hedonic_treadmill>
+https://en.wikipedia.org/wiki/Hedonic_treadmill
 
-<https://www.coglode.com/research/hedonic-adaptation>
+https://www.coglode.com/research/hedonic-adaptation
 
 ## Zeigarnik Effect
 
 It's the tendency of our brains to dwell on unfinished tasks. And if you leave in the middle of a financial plan, it could create stress. That stress could push you into restarting the plan again. But since it requires far more effort than bingeing on a TV show, you put it off again. And the stress builds up and paralyses you into inactivity. It's a vicious cycle.
 
-<https://en.wikipedia.org/wiki/Zeigarnik_effect>
+https://en.wikipedia.org/wiki/Zeigarnik_effect
 
 ## Certainty Effect
 
@@ -440,7 +440,7 @@ It's the tendency of our brains to dwell on unfinished tasks. And if you leave i
 
 ![image](../../media/Mental-Models-image9.jpg)
 
-<https://www.coglode.com/story/offsetting-painful-loss-with-reassuring-certainty>
+https://www.coglode.com/story/offsetting-painful-loss-with-reassuring-certainty
 
 Decision making is hard.
 
@@ -452,7 +452,7 @@ But intuitions can lead to mistakes.
 
 2008 financial crisis.
 
-<https://collabfund.com/blog/little-ways-the-world-works>
+https://collabfund.com/blog/little-ways-the-world-works
 
 [What Investors can Learn from other Disciplines | Biology, Astrophysics, Statistics, etc | ET Money](https://www.youtube.com/watch?v=2d4tYdhE8mY)
 

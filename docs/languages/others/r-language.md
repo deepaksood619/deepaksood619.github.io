@@ -65,7 +65,7 @@ names(chocolateData) <- gsub("[[:space:]+]", "_", names(chocolateData)) # remove
       - Subsetting
       - Recycling
 
-<https://cran.r-project.org/web/packages/tibble/vignettes/tibble.html>
+https://cran.r-project.org/web/packages/tibble/vignettes/tibble.html
 
 ## Summarizing
 
@@ -94,7 +94,7 @@ chocolateData %>%
                sdRating = sd(Rating))
 ```
 
-<https://www.youtube.com/watch?v=_V8eKsto3Ug>
+https://www.youtube.com/watch?v=_V8eKsto3Ug
 
 ## Others
 
@@ -102,7 +102,7 @@ chocolateData %>%
 
 The tidyverse is an opinionated [collection of R packages](https://www.tidyverse.org/packages) designed for data science. All packages share an underlying design philosophy, grammar, and data structures.
 
-<https://www.tidyverse.org>
+https://www.tidyverse.org
 
 ### Others
 

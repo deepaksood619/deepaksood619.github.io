@@ -32,6 +32,6 @@ Two kinds oflogical reasoningcan be distinguished in addition to formal deductio
 - [Inductive reasoning](https://en.wikipedia.org/wiki/Inductive_reasoning) attempts to support a determination of therule. It hypothesizes aruleafter numerous examples are taken to be aconclusionthat follows from apreconditionin terms of such arule. Example: "The grass got wet numerous times when it rained, therefore: the grass always gets wet when it rains." While they may be persuasive, these arguments are not deductively valid, see the [problem of induction](https://en.wikipedia.org/wiki/Problem_of_induction).[Science](https://en.wikipedia.org/wiki/Science) is associated with this type of reasoning.
 - [Abductive reasoning](https://en.wikipedia.org/wiki/Abductive_reasoning), a.k.a.inference to the best explanation, selects a [cogent](https://en.wiktionary.org/wiki/cogent) set ofpreconditions. Given a trueconclusionand arule, it attempts to select some possiblepremisesthat, if true also, can support theconclusion, though not uniquely. Example: "When it rains, the grass gets wet. The grass is wet. Therefore, it might have rained." This kind of reasoning can be used to develop a [hypothesis](https://en.wikipedia.org/wiki/Hypothesis), which in turn can be tested by additional reasoning or data.[Diagnosticians](https://en.wikipedia.org/wiki/Diagnostician), [detectives](https://en.wikipedia.org/wiki/Detective), and [scientists](https://en.wikipedia.org/wiki/Scientist) often use this type of reasoning.
 
-<https://en.wikipedia.org/wiki/Category:Reasoning>
+https://en.wikipedia.org/wiki/Category:Reasoning
 
-<https://en.wikipedia.org/wiki/Logical_reasoning>
+https://en.wikipedia.org/wiki/Logical_reasoning

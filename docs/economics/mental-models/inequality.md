@@ -10,9 +10,9 @@ The Gini coefficient was proposed by Gini as a measure of [inequality](https://e
 
 There are some issues in interpreting a Gini coefficient. The same value may result from many different distribution curves. The demographic structure should be taken into account. Countries with an aging population, or with a baby boom, experience an increasing pre-tax Gini coefficient even if real income distribution for working adults remains constant. Scholars have devised over a dozen variants of the Gini coefficient.
 
-<https://en.wikipedia.org/wiki/Gini_coefficient>
+https://en.wikipedia.org/wiki/Gini_coefficient
 
-<https://www.investopedia.com/terms/g/gini-index.asp>
+https://www.investopedia.com/terms/g/gini-index.asp
 
 [What Is The Most Equal Country on Earth? - YouTube](https://www.youtube.com/watch?v=Zwn6fqbNRLo)
 
@@ -22,7 +22,7 @@ The Lorenz curve is a graphical representation of [income inequality](https://ww
 
 ![image](../../media/Other-Statistics-image7.jpg)
 
-<https://www.investopedia.com/terms/l/lorenz-curve.asp>
+https://www.investopedia.com/terms/l/lorenz-curve.asp
 
 ## Links
 

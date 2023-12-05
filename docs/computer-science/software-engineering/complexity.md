@@ -3,7 +3,7 @@
 - **Learning and Discovery -** Iteration, Feedback, Incrementalism, Experimentation and Empiricism
 - **Managing Complexity -** Modularity, Information Hiring, Seperation of Concerns, Loose-Coupling, Cohesion
 
-<https://dont.build>
+https://dont.build
 
 Making great software is more about **managing complexity and thinking through details** than it is about design or pretty pixels. One of the biggest misunderstandings of our era.
 
@@ -21,7 +21,7 @@ Brooks advocates "growing" software organically through incremental development.
 
 Brooks goes on to argue that there is a difference between "good" designers and "great" designers. He postulates that as programming is a creative process, some designers are inherently better than others. He suggests that there is as much as a tenfold difference between an ordinary designer and a great one. He then advocates treating star designers equally well as star managers, providing them not just with equal [remuneration](https://en.wikipedia.org/wiki/Remuneration), but also all the perks of higher status: large office, staff, travel funds, etc.
 
-<https://en.wikipedia.org/wiki/No_Silver_Bullet>
+https://en.wikipedia.org/wiki/No_Silver_Bullet
 
 ## Encapsulated vs systemic complexity in protocol design
 

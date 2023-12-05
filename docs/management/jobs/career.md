@@ -23,7 +23,7 @@ Negotiating power in your career. Have a lot of it, and you get to call the shot
 1. Increasing scarcity and value of what you offer
 2. Doing the same work - but doing a lot of it
 
-<https://grow.google/grow-your-career>
+https://grow.google/grow-your-career
 
 ### How to build a career in 7 steps
 
@@ -48,12 +48,12 @@ Negotiating power in your career. Have a lot of it, and you get to call the shot
 
 ## References
 
-- <https://medium.freecodecamp.org/writing-a-killer-software-engineering-resume-b11c91ef699d>
-- <https://medium.freecodecamp.org/you-in-6-seconds-how-to-write-a-r%C3%A9sum%C3%A9-that-employers-will-actually-read-fd7757740802>
-- <https://cvmkr.com>
-- <https://s3.amazonaws.com/dreamjob/DJModule5/perfect-marketing-materials/vault/WinningResumes-2853d5b8.pdf>
-- <https://www.scotthyoung.com/blog/2020/04/05/circle-or-stairs>
-- <https://medium.com/s/story/the-ultimate-checklist-for-anyone-considering-a-career-switch-1f0a544c5b39>
-- <https://dev.to/amruthpillai/ever-dreamed-of-a-free-and-open-source-resume-builder-that-doesn-t-store-your-data-meet-reactive-resume-1dpl>
-- <https://www.freecodecamp.org/news/alternative-career-paths>
+- https://medium.freecodecamp.org/writing-a-killer-software-engineering-resume-b11c91ef699d
+- https://medium.freecodecamp.org/you-in-6-seconds-how-to-write-a-r%C3%A9sum%C3%A9-that-employers-will-actually-read-fd7757740802
+- https://cvmkr.com
+- https://s3.amazonaws.com/dreamjob/DJModule5/perfect-marketing-materials/vault/WinningResumes-2853d5b8.pdf
+- https://www.scotthyoung.com/blog/2020/04/05/circle-or-stairs
+- https://medium.com/s/story/the-ultimate-checklist-for-anyone-considering-a-career-switch-1f0a544c5b39
+- https://dev.to/amruthpillai/ever-dreamed-of-a-free-and-open-source-resume-builder-that-doesn-t-store-your-data-meet-reactive-resume-1dpl
+- https://www.freecodecamp.org/news/alternative-career-paths
 - [How to Succeed in Your New Job | The Way We Work, a TED series - YouTube](https://www.youtube.com/watch?v=WgR6mUSsEig)

@@ -108,11 +108,11 @@ In addition to this basic usage, there are many other features that make alerts 
    - _source_enabled
    - scan_entire_timeframe
 
-<https://elastalert.readthedocs.io/en/latest/ruletypes.html#common-configuration-options>
+https://elastalert.readthedocs.io/en/latest/ruletypes.html#common-configuration-options
 
-<https://elastalert.readthedocs.io/en/latest/ruletypes.html>
+https://elastalert.readthedocs.io/en/latest/ruletypes.html
 
-<https://elastalert.readthedocs.io/en/latest/ruletypes.html#rule-types>
+https://elastalert.readthedocs.io/en/latest/ruletypes.html#rule-types
 
 ## Example
 
@@ -153,12 +153,12 @@ deadman_pagerduty: |-
 
 ## References
 
-<https://elastalert.readthedocs.io/en/latest/index.html>
+https://elastalert.readthedocs.io/en/latest/index.html
 
-<https://engineeringblog.yelp.com/2015/10/elastalert-alerting-at-scale-with-elasticsearch.html>
+https://engineeringblog.yelp.com/2015/10/elastalert-alerting-at-scale-with-elasticsearch.html
 
-<https://github.com/bitsensor/elastalert>
+https://github.com/bitsensor/elastalert
 
 ## Other Plugins
 
-<https://github.com/sivasamyk/logtrail>
+https://github.com/sivasamyk/logtrail

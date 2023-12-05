@@ -10,7 +10,7 @@ Since the data extraction takes time, it is common to execute the three phases i
 
 ![image](../../media/ETL-(Extract-Transform-Load)-image1.jpg)
 
-<https://www.toptal.com/etl/interview-questions>
+https://www.toptal.com/etl/interview-questions
 
 ## ELT - (Extract, Load, Transform)
 

@@ -30,11 +30,11 @@ npm run serve
 npm deploy
 ```
 
-<https://docusaurus.io/docs>
+https://docusaurus.io/docs
 
 [Architecture | Docusaurus](https://docusaurus.io/docs/next/advanced/architecture)
 
-<https://wiki.nikiv.dev/>
+https://wiki.nikiv.dev/
 
 ### Extensions
 

@@ -40,4 +40,4 @@ A queue is far more rigid than a topic. Before a queue can be used, the queue mu
 
 ## References
 
-<https://www.hivemq.com/blog/mqtt-essentials-part2-publish-subscribe>
+https://www.hivemq.com/blog/mqtt-essentials-part2-publish-subscribe

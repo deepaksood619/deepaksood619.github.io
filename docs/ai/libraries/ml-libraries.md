@@ -10,7 +10,7 @@ Apache MXNetis an [open-source](https://en.wikipedia.org/wiki/Open-source_softwa
 
 The MXNet [library](https://en.wikipedia.org/wiki/Library_(computing)) is [portable](https://en.wikipedia.org/wiki/Software_portability) and can [scale](https://en.wikipedia.org/wiki/Scalability) to multiple [GPUs](https://en.wikipedia.org/wiki/Graphics_processing_unit) and multiple machines. MXNet is supported by [public cloud](https://en.wikipedia.org/wiki/Public_cloud) providers including [Amazon Web Services](https://en.wikipedia.org/wiki/Amazon_Web_Services)(AWS) and [Microsoft Azure](https://en.wikipedia.org/wiki/Microsoft_Azure).Amazon has chosen MXNet as its deep learning framework of choice at AWS.Currently, MXNet is supported by [Intel](https://en.wikipedia.org/wiki/Intel), [Baidu](https://en.wikipedia.org/wiki/Baidu), [Microsoft](https://en.wikipedia.org/wiki/Microsoft), [Wolfram Research](https://en.wikipedia.org/wiki/Wolfram_Research), and research institutions such as [Carnegie Mellon](https://en.wikipedia.org/wiki/Carnegie_Mellon_University), [MIT](https://en.wikipedia.org/wiki/Massachusetts_Institute_of_Technology), the [University of Washington](https://en.wikipedia.org/wiki/University_of_Washington), and the [Hong Kong University of Science and Technology](https://en.wikipedia.org/wiki/Hong_Kong_University_of_Science_and_Technology).
 
-<https://en.wikipedia.org/wiki/Apache_MXNet>
+https://en.wikipedia.org/wiki/Apache_MXNet
 
 ## MXNet Model Server
 
@@ -18,7 +18,7 @@ Model Server for Apache MXNet is a tool for serving neural net models for infere
 
 Model Server for Apache MXNet (MMS) is a flexible and easy to use tool for serving deep learning models exported from [MXNet](http://mxnet.io/) or the Open Neural Network Exchange ([ONNX](http://onnx.ai/)).
 
-<https://github.com/awslabs/mxnet-model-server>
+https://github.com/awslabs/mxnet-model-server
 
 ### Pytorch
 
@@ -36,7 +36,7 @@ Use Keras if you need a deep learning library that:
 - Supports both convolutional networks and recurrent networks, as well as combinations of the two.
 - Runs seamlessly on CPU and GPU.
 
-<https://keras.io>
+https://keras.io
 
 ### TensorFlow
 
@@ -49,11 +49,11 @@ Open source machine learning library. Often used for neural networks, deep learn
 - Tensorfow is another great framework for deep learning. But is slow and memory hungry
 - After using Pytorch/Keras/Tensorflow 2.0/ I finally decided that MXNet would be my frameworks of choice for Deep Learning.
 
-<https://www.kaggle.com/learn-forum/90594>
+https://www.kaggle.com/learn-forum/90594
 
-<https://www.freecodecamp.org/news/deep-learning-frameworks-compared-mxnet-vs-tensorflow-vs-dl4j-vs-pytorch>
+https://www.freecodecamp.org/news/deep-learning-frameworks-compared-mxnet-vs-tensorflow-vs-dl4j-vs-pytorch
 
-<https://wiki.pathmind.com/comparison-frameworks-dl4j-tensorflow-pytorch>
+https://wiki.pathmind.com/comparison-frameworks-dl4j-tensorflow-pytorch
 
 ## Deep Graph Library (DGL)
 
@@ -63,11 +63,11 @@ Deep Graph Library (DGL) is a Python package built for easy implementation of gr
 
 ![image](../../media/Libraries-image1.jpg)
 
-<https://www.dgl.ai>
+https://www.dgl.ai
 
-<https://docs.dgl.ai/index.html>
+https://docs.dgl.ai/index.html
 
-<https://github.com/dmlc/dgl>
+https://github.com/dmlc/dgl
 
 [**https://github.com/dmlc/dgl/tree/master/examples**](https://github.com/dmlc/dgl/tree/master/examples)
 
@@ -84,27 +84,27 @@ Deep Graph Library (DGL) is a Python package built for easy implementation of gr
 
 ### SimpleCV
 
-<http://simplecv.org>
+http://simplecv.org
 
 ### Imbalanced-learn - ML
 
-<https://pypi.org/project/imbalanced-l>
+https://pypi.org/project/imbalanced-l
 
 ### Theano - deep learning library
 
-<http://deeplearning.net/software/theano>
+http://deeplearning.net/software/theano
 
 ### LightGBM - machine learning
 
-<https://github.com/microsoft/LightGBM>
+https://github.com/microsoft/LightGBM
 
 ### Eli5 - machine learning
 
-<https://pypi.org/project/eli5>
+https://pypi.org/project/eli5
 
 ### PyMC3 - Probabilistic Programming in Python
 
-<https://docs.pymc.io>
+https://docs.pymc.io
 
 ## fastText (by facebookResearch)
 
@@ -118,9 +118,9 @@ CMU Sphinx, also called Sphinx in short, is the general term to describe a group
 
 SymPy - algebraic evaluation, differentiation, expansion, complex numbers
 
-<https://www.sympy.org/en/index.html>
+https://www.sympy.org/en/index.html
 
-<https://wordsandbuttons.online/sympy_makes_math_fun_again.html>
+https://wordsandbuttons.online/sympy_makes_math_fun_again.html
 
 ## NetworkX
 
@@ -140,7 +140,7 @@ NetworkX is a Python package for the creation, manipulation, and study of the st
 - igraph
 - SNAP
 
-<https://www.toptal.com/data-science/graph-data-science-python-networkx>
+https://www.toptal.com/data-science/graph-data-science-python-networkx
 
 ## Graph-tool
 
@@ -162,9 +162,9 @@ Additionally the package aims for simple usability and extensibility: The object
 
 Vaex is a high performance Python library for lazy **Out-of-Core DataFrames** (similar to Pandas), to visualize and explore big tabular datasets. It calculates _statistics_ such as mean, sum, count, standard deviation etc, on an _N-dimensional grid_ for more than **a billion** (`10^9`) samples/rows **per second**. Visualization is done using **histograms**, **density plots** and **3d volume rendering**, allowing interactive exploration of big data. Vaex uses memory mapping, zero memory copy policy and lazy computations for best performance (no memory wasted).
 
-<https://github.com/vaexio/vaex>
+https://github.com/vaexio/vaex
 
-<https://towardsdatascience.com/how-to-analyse-100s-of-gbs-of-data-on-your-laptop-with-python-f83363dda94>
+https://towardsdatascience.com/how-to-analyse-100s-of-gbs-of-data-on-your-laptop-with-python-f83363dda94
 
 ## Polars
 
@@ -187,11 +187,11 @@ Self service solution for Big Data Discovery
 
 All-in-one analytics from easy data preparation to fast visualization
 
-<https://metatron.app>
+https://metatron.app
 
 ## Lyft Amundsen Data Discovery Metadata Engine
 
-<https://eng.lyft.com/amundsen-lyfts-data-discovery-metadata-engine-62d27254fbb9>
+https://eng.lyft.com/amundsen-lyfts-data-discovery-metadata-engine-62d27254fbb9
 
 ## Metacat
 
@@ -201,22 +201,22 @@ Making Big Data Discoverable and Meaningful atNetflix
 
 Genie is a completely open source distributed job orchestration engine developed by Netflix. Genie provides REST-ful APIs to run a variety of big data jobs like Hadoop, Pig, Hive, Spark, Presto, Sqoop and more. It also provides APIs for managing the metadata of many distributed processing clusters and the commands and applications which run on them.
 
-<https://netflix.github.io/genie>
+https://netflix.github.io/genie
 
 1. Stochastic Gradient Descent
 2. Backpropogation
 
 ## Monotonic AI Models
 
-<https://www.toptal.com/machine-learning/monotonic-ai-models>
+https://www.toptal.com/machine-learning/monotonic-ai-models
 
 ## Pre-Trained Models
 
-<https://www.toptal.com/deep-learning/exploring-pre-trained-models>
+https://www.toptal.com/deep-learning/exploring-pre-trained-models
 
 ## ResNet
 
-<https://towardsdatascience.com/an-overview-of-resnet-and-its-variants-5281e2f56035>
+https://towardsdatascience.com/an-overview-of-resnet-and-its-variants-5281e2f56035
 
 ## MELTANO - Model, Extract, Load, Transform, Analyze, Notebook, Orchestrate
 
@@ -226,13 +226,13 @@ Genie is a completely open source distributed job orchestration engine developed
 
 ## Generative Art
 
-<https://tylerxhobbs.com/essays/2020/flow-fields>
+https://tylerxhobbs.com/essays/2020/flow-fields
 
 ## Kyso
 
 Kyso is a central knowledge hub to manage, share and collaborate on technical reports - weconvertdata-science tools like Jupyter Notebooks to Medium-styleblog posts published to the web.We're fully integratedwithGithub, meaning when you push your commits, the changes are reflected immediately onKyso.It's very easy to get started - profiles, comments, etc. work right out of the box.
 
-<https://kyso.io>
+https://kyso.io
 
 ## Jina
 
@@ -245,6 +245,6 @@ Jinaallows you to build search-as-a-service powered by deep learning in just min
 - **Save time-** The design pattern of neural search systems, from zero to a production-ready system in minutes.
 - **Own your stack-** Keep end-to-end stack ownership of your solution, avoid integration pitfalls you get with fragmented, multi-vendor, generic legacy tools.
 
-<https://jina.ai>
+https://jina.ai
 
-<https://github.com/jina-ai/jina>
+https://github.com/jina-ai/jina

@@ -40,7 +40,7 @@ for(var i = 0; i < videos.length; i++){
 
 ## Other browsers
 
-<https://sigmaos.com>
+https://sigmaos.com
 
 ## Google Search
 
@@ -79,7 +79,7 @@ for(var i = 0; i < videos.length; i++){
 
 Press `t` in any repository to access it and start typing the name of the file you want to find.
 
-<https://github.blog/2020-04-09-github-protips-tips-tricks-hacks-and-secrets-from-lee-reilly>
+https://github.blog/2020-04-09-github-protips-tips-tricks-hacks-and-secrets-from-lee-reilly
 
 ## Gmail
 
@@ -120,7 +120,7 @@ Example:is:read is:starred |
 
 Note: When using numbers as part of your query, a space or a dash (-) will separate a number while a dot (.) will be a decimal. For example,01.2047-100is considered 2 numbers: 01.2047 and 100.
 
-<https://support.google.com/mail/answer/7190?hl=en>
+https://support.google.com/mail/answer/7190?hl=en
 
 ## GSuite
 
@@ -132,15 +132,15 @@ You can manually transfer ownership of individual files by using Share, and sele
 
 ## Windows
 
-<https://www.freecodecamp.org/news/keyboard-shortcuts-improve-productivity>
+https://www.freecodecamp.org/news/keyboard-shortcuts-improve-productivity
 
 ## Discord
 
-<https://www.notboring.co/p/discord-imagine-a-place>
+https://www.notboring.co/p/discord-imagine-a-place
 
-<https://mee6.xyz>
+https://mee6.xyz
 
-<https://idlerpg.xyz>
+https://idlerpg.xyz
 
 ## Intellij Shortcuts
 

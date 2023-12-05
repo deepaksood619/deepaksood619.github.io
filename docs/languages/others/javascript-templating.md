@@ -1,6 +1,6 @@
 # JavaScript Templating
 
-<https://medium.com/@BuildMySite1/javascript-templating-what-is-templating-7ff49d97db6b>
+https://medium.com/@BuildMySite1/javascript-templating-what-is-templating-7ff49d97db6b
 
 JavaScript templating refers to the client side data binding method implemented with the JavaScript language.
 
@@ -24,7 +24,7 @@ Templating becomes useful when the information distributed may change, is too la
 
 ## Other Resources
 
-<https://medium.com/@daveford/80-of-my-coding-is-doing-this-or-why-templates-are-dead-b640fc149e22>
+https://medium.com/@daveford/80-of-my-coding-is-doing-this-or-why-templates-are-dead-b640fc149e22
 
 ## Handlebars
 
@@ -42,4 +42,4 @@ Handlebars is largely compatible with Mustache templates. In most cases it is po
 
 Handlebars compiles templates into JavaScript functions. This makes the template execution faster than most other template engines.
 
-<https://handlebarsjs.com/guide/#what-is-handlebars>
+https://handlebarsjs.com/guide/#what-is-handlebars

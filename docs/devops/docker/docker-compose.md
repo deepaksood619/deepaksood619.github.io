@@ -143,8 +143,8 @@ However when you define **env_file** option to your service, the service will ge
 
 ## References
 
-<https://docs.docker.com/compose/compose-file>
+https://docs.docker.com/compose/compose-file
 
-<https://docs.docker.com/compose/reference/up>
+https://docs.docker.com/compose/reference/up
 
-<https://docs.docker.com/compose/compose-file/compose-versioning>
+https://docs.docker.com/compose/compose-file/compose-versioning

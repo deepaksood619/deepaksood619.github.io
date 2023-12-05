@@ -36,7 +36,7 @@ Brain is made to be efficient and not accurate
 - Learn a new language or instrument
 - Exercise, exercise, exercise
 
-<https://deepstash.com/article/2794/easy-memory-exercises-you-can-do-almost-everywhere>
+https://deepstash.com/article/2794/easy-memory-exercises-you-can-do-almost-everywhere
 
 - Do mental math
 
@@ -131,7 +131,7 @@ Object Permanence is the understanding that objectscontinue to exist even when t
 
 ## Meditation / Mental Exercises
 
-<https://blog.trello.com/sophrology-for-better-work-life-harmony>
+https://blog.trello.com/sophrology-for-better-work-life-harmony
 
 ## Links
 

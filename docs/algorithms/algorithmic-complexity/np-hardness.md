@@ -59,7 +59,7 @@ Decision problems that are both NP-hard and NP-easy, but not necessarily in NP.
 
 If P and NP are different, then there exist decision problems in the region of NP that fall between P and the NP-complete problems. (If P and NP are the same class, then NP-intermediate problems do not exist because in this case every NP-complete problem would fall in P, and by definition, every problem in NP can be reduced to an NP-complete problem.)
 
-<https://en.wikipedia.org/wiki/NP-hardness>
+https://en.wikipedia.org/wiki/NP-hardness
 
 ![image](../../media/NP-Hardness-image2.jpg)
 
@@ -75,7 +75,7 @@ A PTAS is an algorithm which takes an instance of an optimization problem and a 
 
 The running time of a PTAS is required to be polynomial in *n* for every fixed ε but can be different for different ε. Thus an algorithm running in time [*O*](https://en.wikipedia.org/wiki/Big_O_notation)(*n*^1/ε^) or even*O*(*n*^exp(1/ε)^) counts as a PTAS.
 
-<https://en.wikipedia.org/wiki/Polynomial-time_approximation_scheme>
+https://en.wikipedia.org/wiki/Polynomial-time_approximation_scheme
 
 ## PTAS Reduction
 
@@ -83,4 +83,4 @@ In [computational complexity theory](https://en.wikipedia.org/wiki/Computational
 
 With ordinary [polynomial-time many-one reductions](https://en.wikipedia.org/wiki/Polynomial-time_many-one_reduction), if we can describe a [reduction](https://en.wikipedia.org/wiki/Reduction_(complexity)) from a problem A to a problem B, then any polynomial-time solution for B can be composed with that reduction to obtain a polynomial-time solution for the problem A. Similarly, our goal in defining PTAS reductions is so that given a PTAS reduction from an optimization problem A to a problem B, a PTAS for B can be composed with the reduction to obtain a PTAS for the problem A.
 
-<https://en.wikipedia.org/wiki/PTAS_reduction>
+https://en.wikipedia.org/wiki/PTAS_reduction

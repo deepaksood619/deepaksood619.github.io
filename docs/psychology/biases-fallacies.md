@@ -6,7 +6,7 @@ There are two major types of **logical fallacies**
 
 2. **Informal fallacies**, there's a problem withwhatyou're saying, and the information might be incorrect or misleading.
 
-<https://www.freecodecamp.org/news/logical-fallacies-definition-fallacy-examples>
+https://www.freecodecamp.org/news/logical-fallacies-definition-fallacy-examples
 
 We have a habit of distorting the facts until they become bearable for our own views -- Charlie Munger
 
@@ -24,15 +24,15 @@ Many software developers tend to undervalue technologies they have worked with f
 
 We tend to see what is present, and overlook what isn't there. This can wreak havoc when working in concert with the "Mere newness bias", since not only are you inherently putting more value on the new technology, but you're also overlooking the gaps of the new tech.
 
-<https://upload.wikimedia.org/wikipedia/commons/c/ce/Cognitive_Bias_Codex_With_Definitions%2C_an_Extension_of_the_work_of_John_Manoogian_by_Brian_Morrissette.jpg>
+https://upload.wikimedia.org/wikipedia/commons/c/ce/Cognitive_Bias_Codex_With_Definitions%2C_an_Extension_of_the_work_of_John_Manoogian_by_Brian_Morrissette.jpg
 
-<https://www.teachthought.com/critical-thinking/the-cognitive-bias-codex-a-visual-of-180-cognitive-biases>
+https://www.teachthought.com/critical-thinking/the-cognitive-bias-codex-a-visual-of-180-cognitive-biases
 
-<https://en.wikipedia.org/wiki/List_of_cognitive_biases>
+https://en.wikipedia.org/wiki/List_of_cognitive_biases
 
-<https://en.wikipedia.org/wiki/Cognitive_bias>
+https://en.wikipedia.org/wiki/Cognitive_bias
 
-<https://en.wikipedia.org/wiki/Cognitive_bias_mitigation>
+https://en.wikipedia.org/wiki/Cognitive_bias_mitigation
 
 ## Dunning-Kruger Effect
 
@@ -88,7 +88,7 @@ Survivorship bias can lead to overly optimistic beliefs because failures are ign
 
 During World War II, the statistician [Abraham Wald](https://en.wikipedia.org/wiki/Abraham_Wald) took survivorship bias into his calculations when considering how to minimize bomber losses to enemy fire. Researchers from the Center for Naval Analyses had conducted a study of the damage done to aircraft that had returned from missions, and had recommended that armor be added to the areas that showed the most damage. Wald noted that the study only considered the aircraft that had survived their missions - the bombers that had been shot down were not present for the damage assessment. The holes in the returning aircraft, then, represented areas where a bomber could take damage and still return home safely. Wald proposed that the Navy reinforce areas where the returning aircraft were unscathed, since those were the areas that, if hit, would cause the plane to be lost. His work is considered seminal in the then-nascent discipline of [operational research](https://en.wikipedia.org/wiki/Operational_research).
 
-<https://en.wikipedia.org/wiki/Survivorship_bias>
+https://en.wikipedia.org/wiki/Survivorship_bias
 
 ## Loss Aversion
 
@@ -96,7 +96,7 @@ Loss aversion refers to our tendency to strongly prefer avoiding losses over acq
 
 Humans may be hardwired to be loss averse due to asymmetric evolutionary pressure on losses and gains: for an organism operating close to the edge of survival, the loss of a day's food could cause death, whereas the gain of an extra day's food would not cause an extra day of life (unless the food could be easily and effectively stored).
 
-<https://en.wikipedia.org/wiki/Loss_aversion>
+https://en.wikipedia.org/wiki/Loss_aversion
 
 ## Prospect Theory
 
@@ -114,9 +114,9 @@ Money 2 - 20% chance of winning $1000
 
 Money 2 - 80% change of losing $1000 (people choose this)
 
-<https://www.investopedia.com/terms/p/prospecttheory.asp>
+https://www.investopedia.com/terms/p/prospecttheory.asp
 
-<https://en.wikipedia.org/wiki/Prospect_theory>
+https://en.wikipedia.org/wiki/Prospect_theory
 
 ## Availability Heuristic
 
@@ -142,7 +142,7 @@ The availability of consequences associated with an action is positively related
 
 Ex - If you are researching on terrorism, then you will read a lot about terrorism and think that terrorism is more common that it actually is, simply because you are exposed to it a lot.
 
-<https://en.wikipedia.org/wiki/Availability_heuristic>
+https://en.wikipedia.org/wiki/Availability_heuristic
 
 ## Anchoring
 
@@ -172,7 +172,7 @@ There are two dominant theories behind anchoring bias
 
 2. The **selective accessibility theory**, says that anchoring bias happens because we are primed to recall and notice anchor-consistent information
 
-<https://thedecisionlab.com/biases/anchoring-bias>
+https://thedecisionlab.com/biases/anchoring-bias
 
 ## Confirmation Bias
 
@@ -184,15 +184,15 @@ Finding evidence to confirm our existing belief
 
 Echo-Chamber - an environment where a person only encounters information or opinions that reflect and reinforce their own.
 
-<https://en.wikipedia.org/wiki/Echo_chamber_(media)>
+https://en.wikipedia.org/wiki/Echo_chamber_(media)
 
-<https://jamesclear.com/common-mental-errors>
+https://jamesclear.com/common-mental-errors
 
 ## Consensus bias
 
 In [psychology](https://en.wikipedia.org/wiki/Psychology), the **false consensus effect**, also known as **consensus bias**, is a pervasive [cognitive bias](https://en.wikipedia.org/wiki/Cognitive_bias) that causes people to "see their own behavioral choices and judgments as relatively common and appropriate to existing circumstances".In other words, they assume that their personal qualities, characteristics, beliefs, and actions are relatively widespread through the general population.
 
-<https://en.wikipedia.org/wiki/False_consensus_effect>
+https://en.wikipedia.org/wiki/False_consensus_effect
 
 ## Status quo bias
 
@@ -200,7 +200,7 @@ Status quo biasis an [emotional bias](https://en.wikipedia.org/wiki/Emotional_bi
 
 Status quo bias should also be distinguished from [psychological inertia](https://en.wikipedia.org/wiki/Psychological_inertia), which refers to a lack of intervention in the current course of affairs. For example, consider a pristine lake where an industrial firm is planning to dump toxic chemicals. Status quo bias would involve avoiding change, and therefore intervening to prevent the firm from dumping toxic chemicals in the lake. Conversely, inertia would involve not intervening in the course of events that will change the lake.
 
-<https://en.wikipedia.org/wiki/Status_quo_bias>
+https://en.wikipedia.org/wiki/Status_quo_bias
 
 ## Recency Bias
 
@@ -222,7 +222,7 @@ The negativity bias, also known as the negativity effect, is the notion that, ev
 - Our brains are more notice, response to, and be influenced by negative things
 - Maybe a survival mechanism - Negative stimuli can be life threatning, so we evolved to focus on bad stuff
 
-<https://en.wikipedia.org/wiki/Negativity_bias>
+https://en.wikipedia.org/wiki/Negativity_bias
 
 ## Ostrich Effect
 
@@ -230,7 +230,7 @@ The negativity bias, also known as the negativity effect, is the notion that, ev
 
 Theostrich effect, also known as the ostrich problem, is a cognitive bias that describes how people often avoid negative information, including feedback that could help them monitor their goal progress. Instead of dealing with the situation, we bury our heads in the sand, like ostriches. This avoidance can often make things worse, incurring costs that we might not have had to pay if we had faced things head-on.
 
-<https://thedecisionlab.com/biases/ostrich-effect>
+https://thedecisionlab.com/biases/ostrich-effect
 
 ## Choice Bias
 
@@ -258,7 +258,7 @@ For example:No one argues that it's better to send an email than a fax. But the 
 
 Gamblers experiencing the near miss of an almost winning hand, spin, or lottery ticket take it as a sign that they should keep playing.
 
-<https://www.psychologyofgames.com/2016/09/the-near-miss-effect-and-game-rewards>
+https://www.psychologyofgames.com/2016/09/the-near-miss-effect-and-game-rewards
 
 ## Normalcy Bias
 
@@ -270,7 +270,7 @@ A slippery slope argument (SSA), in [logic](https://en.wikipedia.org/wiki/Logic)
 
 The fallacious sense of "slippery slope" is often used synonymously with [continuum fallacy](https://en.wikipedia.org/wiki/Continuum_fallacy), in that it ignores the possibility of middle ground and assumes a discrete transition from category A to category B. In this sense it constitutes an [informal fallacy](https://en.wikipedia.org/wiki/Informal_fallacy). In a non-fallacious sense, including use as a legal principle, a middle-ground possibility is acknowledged, and reasoning is provided for the likelihood of the predicted outcome. Other idioms for the slippery slope argument are thethin end/edge of the wedge, the [camel's nose](https://en.wikipedia.org/wiki/Camel%27s_nose) in the tent, or [If You Give a Mouse a Cookie](https://en.wikipedia.org/wiki/If_You_Give_a_Mouse_a_Cookie).
 
-<https://en.wikipedia.org/wiki/Slippery_slope>
+https://en.wikipedia.org/wiki/Slippery_slope
 
 [Can you outsmart the slippery slope fallacy? - Elizabeth Cox](https://www.youtube.com/watch?v=Qt4f7QrfRRc&ab_channel=TED-Ed)
 
@@ -294,7 +294,7 @@ The phenomenon of "no one believes, but everyone thinks that everyone believes"
 
 In [marketing](https://en.wikipedia.org/wiki/Marketing), thedecoy effect is the phenomenon whereby consumers will tend to have a specific change in preference between two options when also presented with a third option that isasymmetrically dominated. An option is asymmetrically dominated when it is inferior in all respects to one option; but, in comparison to the other option, it is inferior in some respects and superior in others.
 
-<https://en.wikipedia.org/wiki/Decoy_effect>
+https://en.wikipedia.org/wiki/Decoy_effect
 
 ## Hot hand fallacy
 

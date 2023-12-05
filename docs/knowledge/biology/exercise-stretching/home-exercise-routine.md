@@ -4,7 +4,7 @@ Youtube - Athlean X
 
 ![image](../../../media/Exercise-Stretching_Home-Exercise-Routine-image1.jpg)
 
-<https://in.pinterest.com/pin/thin-body-workout--801077852487590084>
+https://in.pinterest.com/pin/thin-body-workout--801077852487590084
 
 1. Shoulder rolls - from back, start small movements to large movements
 

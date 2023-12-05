@@ -67,9 +67,9 @@ Liquid staking service providers solve this liquidity problem by minting a new t
 - [Public Wallet Liquid Staking: Diving Into LSD-Fi](https://milkroad.com/invest/lsd-fi/)
 - [What Is Liquid Staking? | Chainlink](https://blog.chain.link/liquid-staking/)
 - [Best Liquid Staking Platforms For Crypto May 2023](https://milkroad.com/staking/liquid)
-- <https://www.coindesk.com/learn/crypto-staking-101-what-is-staking>
-- <https://www.forbes.com/advisor/in/investing/cryptocurrency/what-is-staking-in-crypto>
-- <https://www.youtube.com/playlist?list=PLAXQ4YtxCRUGVUXRJ-uSzyvNxZQq74uLY>
+- https://www.coindesk.com/learn/crypto-staking-101-what-is-staking
+- https://www.forbes.com/advisor/in/investing/cryptocurrency/what-is-staking-in-crypto
+- https://www.youtube.com/playlist?list=PLAXQ4YtxCRUGVUXRJ-uSzyvNxZQq74uLY
 - [Best Liquid Staking Platforms For Crypto May 2023](https://milkroad.com/staking/liquid)
 - [What Liquid Staking Tokens Mean For Ethereum (LSDs) - YouTube](https://www.youtube.com/watch?v=5vl1DT9kxck)
 - [Why RocketPool has Everyone TRIPPING on LSD (Liquid Staking Derivatives EXPLAINED) - YouTube](https://www.youtube.com/watch?v=V4W2h5LwJBA)

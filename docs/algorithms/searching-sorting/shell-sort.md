@@ -32,4 +32,4 @@ Increment sequences (Gap sequences):
 
 ![image](../../media/Shell-Sort-image5.jpg)
 
-<https://www.codingeek.com/algorithms/shell-sort-algorithm-explanation-implementation-and-complexity>
+https://www.codingeek.com/algorithms/shell-sort-algorithm-explanation-implementation-and-complexity

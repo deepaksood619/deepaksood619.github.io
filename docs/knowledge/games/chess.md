@@ -4,7 +4,7 @@
 
 ### Algebraic Notation
 
-<https://en.wikipedia.org/wiki/Algebraic_notation_(chess)>
+https://en.wikipedia.org/wiki/Algebraic_notation_(chess)
 
 - K for [king](https://en.wikipedia.org/wiki/King_(chess))
 - Q for [queen](https://en.wikipedia.org/wiki/Queen_(chess))
@@ -158,7 +158,7 @@ Making a threatening move towards your opponent even though you know it's bad, a
 
 **Fast chess** is a type of chess in which each player is given less time to consider their moves than normal tournament [time controls](https://en.wikipedia.org/wiki/Time_control) allow. Fast chess is further subdivided, by decreasing time controls, into [rapid chess](https://en.wikipedia.org/wiki/Fast_chess#Rapid), [blitz chess](https://en.wikipedia.org/wiki/Fast_chess#Blitz), and [bullet chess](https://en.wikipedia.org/wiki/Fast_chess#Bullet).[Armageddon chess](https://en.wikipedia.org/wiki/Fast_chess#Armageddon) is a particular variation in which different rules apply for each of the two players.
 
-<https://en.wikipedia.org/wiki/Fast_chess>
+https://en.wikipedia.org/wiki/Fast_chess
 
 **FIDE - World Chess Federation**
 
@@ -174,7 +174,7 @@ A player's Elo rating is represented by a number which may change depending on t
 
 An Elo rating is a comparative rating only, and is valid only within the rating pool where it was established.
 
-<https://en.wikipedia.org/wiki/Elo_rating_system>
+https://en.wikipedia.org/wiki/Elo_rating_system
 
 ## Learning
 

@@ -1,6 +1,6 @@
 # Libaries
 
-<https://dev.to/sm0ke/django-framework-popular-extensions-a-short-list-130>
+https://dev.to/sm0ke/django-framework-popular-extensions-a-short-list-130
 
 ## Django Channels
 
@@ -8,13 +8,13 @@ Channels is a project that takes Django and extends its abilities beyond HTTP - 
 
 It does this by taking the core of Django and layering a fully asynchronous layer underneath, running Django itself in a synchronous mode but handling connections and sockets asynchronously, and giving you the choice to write in either style.
 
-<https://realpython.com/getting-started-with-django-channels>
+https://realpython.com/getting-started-with-django-channels
 
-<https://channels.readthedocs.io/en/latest>
+https://channels.readthedocs.io/en/latest
 
-<https://www.sourcelair.com/blog/articles/115/django-channels-chat>
+https://www.sourcelair.com/blog/articles/115/django-channels-chat
 
-<https://medium.com/@ksarthak4ever/django-websockets-and-channels-85b7d5e59dda>
+https://medium.com/@ksarthak4ever/django-websockets-and-channels-85b7d5e59dda
 
 [valberg.dk - Writing a chat application in Django 4.2 using async StreamingHttpResponse, Server-Sent Events and PostgreSQL LISTEN/NOTIFY](https://valberg.dk/django-sse-postgresql-listen-notify.html)
 
@@ -31,7 +31,7 @@ Pinax provides:
 - Reusable appsproviding both back-end functionality and user-facing components
 - Default templatesto enable quick prototyping
 
-<https://pinaxproject.com/pinax/what_is_pinax>
+https://pinaxproject.com/pinax/what_is_pinax
 
 ## Daphne
 
@@ -39,17 +39,17 @@ Daphne is a HTTP, HTTP2 and WebSocket protocol server for [ASGI](https://github.
 
 It supports automatic negotiation of protocols; there's no need for URL prefixing to determine WebSocket endpoints versus HTTP endpoints.
 
-<https://github.com/django/daphne>
+https://github.com/django/daphne
 
 ## Django Keycloak
 
-<https://django-keycloak.readthedocs.io/en/latest/index.html>
+https://django-keycloak.readthedocs.io/en/latest/index.html
 
 ## Django Cookiecutter
 
 Cookiecutter Django is a framework for jumpstarting production-ready Django projects quickly.
 
-<https://github.com/pydanny/cookiecutter-django>
+https://github.com/pydanny/cookiecutter-django
 
 ## django-taggit
 
@@ -70,7 +70,7 @@ Comma seperate values
 
 Django workflow library that supports on the fly changes
 
-<https://djangopackages.org/grids/g/workflow>
+https://djangopackages.org/grids/g/workflow
 
 [**https://github.com/viewflow/viewflow**](https://github.com/viewflow/viewflow)
 
@@ -84,13 +84,13 @@ django-reversion is an extension to the Django web framework that provides versi
 
 ## Django Crispy Forms
 
-<https://django-crispy-forms.readthedocs.io/en/latest>
+https://django-crispy-forms.readthedocs.io/en/latest
 
 django-crispy-forms provides you with a|crispyfilter and{%crispy%}tag that will let you control the rendering behavior of your [Django](https://djangoproject.com/) forms in a very elegant and DRY way. Have full control without writing custom form templates. All this without breaking the standard way of doing things in [Django](https://djangoproject.com/), so it plays nice with any other form application.
 
 ## Django haystack
 
-<https://django-haystack.readthedocs.io/en/v2.4.1/index.html>
+https://django-haystack.readthedocs.io/en/v2.4.1/index.html
 
 Haystack provides modular search for Django. It features a unified, familiar API that allows you to plug in different search backends (such as [Solr](http://lucene.apache.org/solr/), [Elasticsearch](http://elasticsearch.org/), [Whoosh](https://bitbucket.org/mchaput/whoosh/), [Xapian](http://xapian.org/), etc.) without having to modify your code.
 
@@ -130,11 +130,11 @@ graphene-django==2.3.2
 pyinotify==0.9.6
 ```
 
-<https://djangopackages.org/grids/g/bulk_update>
+https://djangopackages.org/grids/g/bulk_update
 
-<https://github.com/burke-software/django-mass-edit>
+https://github.com/burke-software/django-mass-edit
 
-<http://whitenoise.evans.io/en/stable>
+http://whitenoise.evans.io/en/stable
 
 ## Tools
 
@@ -149,20 +149,20 @@ pyinotify==0.9.6
 
 Django model mixins and utilities
 
-<https://github.com/jazzband/django-model-utils>
+https://github.com/jazzband/django-model-utils
 
-<https://django-model-utils.readthedocs.io/en/latest/fields.html>
+https://django-model-utils.readthedocs.io/en/latest/fields.html
 
 - **django-storages**
 
-<https://django-storages.readthedocs.io/en/latest/backends/amazon-S3.html>
+https://django-storages.readthedocs.io/en/latest/backends/amazon-S3.html
 
-<https://simpleisbetterthancomplex.com/tutorial/2017/08/01/how-to-setup-amazon-s3-in-a-django-project.html>
+https://simpleisbetterthancomplex.com/tutorial/2017/08/01/how-to-setup-amazon-s3-in-a-django-project.html
 
 - Django-compressor
 - Celery
 - drf-api-logger
 
-<https://pypi.org/project/drf-api-logger>
+https://pypi.org/project/drf-api-logger
 
-<https://viewflow.medium.com/top-102-most-downloaded-django-packages-in-2020-108f0cd372e7>
+https://viewflow.medium.com/top-102-most-downloaded-django-packages-in-2020-108f0cd372e7

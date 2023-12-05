@@ -55,16 +55,16 @@ Data wrangling, sometimes referred to as data munging, is the process of transfo
 
 This may include further [munging](https://en.wikipedia.org/wiki/Mung_(computer_term)), [data visualization](https://en.wikipedia.org/wiki/Data_visualization), data aggregation, training a [statistical model](https://en.wikipedia.org/wiki/Statistical_model), as well as many other potential uses. Data munging as a process typically follows a set of general steps which begin with extracting the data in a raw form from the data source, "munging" the raw data using algorithms (e.g. sorting) or parsing the data into predefined data structures, and finally depositing the resulting content into a data sink for storage and future use.
 
-<https://en.wikipedia.org/wiki/Data_wrangling>
+https://en.wikipedia.org/wiki/Data_wrangling
 
 ## Links
 
-- <http://xyz.insightdataengineering.com/blog/pipeline_map>
+- http://xyz.insightdataengineering.com/blog/pipeline_map
 - [Big data - Wikipedia](https://en.wikipedia.org/wiki/Big_data)
-- <https://www.semantikoz.com/blog/getting-started-with-hadoop-and-big-data-with-text-and-hive>
-- <https://zerowithdot.com/splitting-to-batches>
-- <https://www.fast.ai/2020/01/07/data-questionnaire>
-- <https://www.digitalocean.com/community/tutorials/an-introduction-to-big-data-concepts-and-terminology>
+- https://www.semantikoz.com/blog/getting-started-with-hadoop-and-big-data-with-text-and-hive
+- https://zerowithdot.com/splitting-to-batches
+- https://www.fast.ai/2020/01/07/data-questionnaire
+- https://www.digitalocean.com/community/tutorials/an-introduction-to-big-data-concepts-and-terminology
 
 ### [MotherDuck: Big Data is Dead](https://motherduck.com/blog/big-data-is-dead/)
 

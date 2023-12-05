@@ -74,7 +74,7 @@ A special type of container that runs temporarily in an existing [Pod](https://k
 
 Ephemeral containers differ from other containers in that they lack guarantees for resources or execution, and they will never be automatically restarted, so they are not appropriate for building applications. Ephemeral containers are described using the sameContainerSpecas regular containers, but many fields are incompatible and disallowed for ephemeral containers.
 
-<https://kubernetes.io/docs/concepts/workloads/pods/ephemeral-containers>
+https://kubernetes.io/docs/concepts/workloads/pods/ephemeral-containers
 
 1. **Which deployment method would allow the most flexibility, multiple applications per pod or one per Pod? -** One per pod
 2. **Which deployment method allows for the most granular scalability? -** One per pod

@@ -21,4 +21,4 @@ By default, mantypically uses a [terminal pager](https://en.wikipedia.org/wiki/T
 
 brew install tldr
 
-<https://github.com/tldr-pages/tldr>
+https://github.com/tldr-pages/tldr

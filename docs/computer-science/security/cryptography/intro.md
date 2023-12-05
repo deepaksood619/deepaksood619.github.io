@@ -97,7 +97,7 @@ An attacker can choose any plaintext and obtain the ciphertext in return (but th
 
 This is the opposite of the last attack, where the attacker can choose any ciphertext and obtain the plaintext in return (but they can't see the key itself).
 
-<https://www.freecodecamp.org/news/what-is-a-block-cipher>
+https://www.freecodecamp.org/news/what-is-a-block-cipher
 
 ## Padding
 
@@ -110,10 +110,10 @@ Padding standards are mechanisms for appending some predefined values to message
 - ANSI X9.23 Padding
 - Zero Byte Padding
 
-<http://www.crypto-it.net/eng/theory/padding.html>
+http://www.crypto-it.net/eng/theory/padding.html
 
 ## Courses
 
-<https://www.youtube.com/playlist?list=PLAwxTw4SYaPnCeih6BPvJ5GdqqThGcWlX>
+https://www.youtube.com/playlist?list=PLAwxTw4SYaPnCeih6BPvJ5GdqqThGcWlX
 
-<https://www.youtube.com/playlist?list=PLE4V3KXzxPRQYUil17HB6XcIu-JMebD7n>
+https://www.youtube.com/playlist?list=PLE4V3KXzxPRQYUil17HB6XcIu-JMebD7n

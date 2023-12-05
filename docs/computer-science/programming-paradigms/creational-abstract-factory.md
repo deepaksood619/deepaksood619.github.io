@@ -15,4 +15,4 @@ Cons:
 
 ## References
 
-<https://py.checkio.org/blog/design-patterns-part-1>
+https://py.checkio.org/blog/design-patterns-part-1

@@ -1,6 +1,6 @@
 # Models
 
-<https://docs.sqlalchemy.org/en/14/orm/quickstart.html>
+https://docs.sqlalchemy.org/en/14/orm/quickstart.html
 
 Here, we define module-level constructs that will form the structures which we will be querying from the database. This structure, known as a Declarative Mapping, defines at once both a Python object model, as well as database metadata that describes real SQL tables that exist, or will exist, in a particular database
 

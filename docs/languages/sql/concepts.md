@@ -29,7 +29,7 @@ The Transact-SQL language supports the following predicates:
 - All and any Operator
 - Like
 
-<https://www.quora.com/What-is-a-predicate-in-SQL>
+https://www.quora.com/What-is-a-predicate-in-SQL
 
 ## Comparisons
 
@@ -55,4 +55,4 @@ A regular JOIN can be used to find matching values in a subquery. Like EXISTS, J
 
 ### NULL
 
-<http://www-cs-students.stanford.edu/~wlam/compsci/sqlnulls>
+http://www-cs-students.stanford.edu/~wlam/compsci/sqlnulls

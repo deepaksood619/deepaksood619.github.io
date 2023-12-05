@@ -18,7 +18,7 @@ Bit arrays, or bitmaps, are used to significantly speed up set operations in sev
 
 Because of their property of leveraging bit-level parallelism, computations over bitmaps often outperform computations over many other data structures such as self-balancing binary searchtrees, hash tables, or simple arrays. We demonstrated, throughexperiment on synthetic datasets, that bitmaps can be very effi-cient when data are dense.However, when data become sparse, uncompressed bitmapsperform poorly due to the waste of memory. In this paper we in-troduced a new compression scheme for bitmaps, referred to as CONCISE, that is a good trade-offbetween the speed of uncom-pressed bitmaps and the required memory. Indeed, CONCISE outperformed all analyzed data structures in terms of memory occupation, as well as WAH, the best known compression algo-rithm that allows for set operations directly on the compressedform. As for computation time, CONCISEalso outperformedclassical data structures for set operations.However, accessing individual elements can be expensivefor both CONCISE and WAH. If random access is more commonthan sequential access, and the integer set is relatively small, classical data structures may be preferable
 
-<https://arxiv.org/pdf/1004.0403.pdf>
+https://arxiv.org/pdf/1004.0403.pdf
 
 Most word-aligned run-length encoding algorithms represent long sequences of ones and zeros in a single word. The word contains the length of the sequence and some information about whether it is a one fill or a zero fill. Sequences that contain a mixture of 0 and 1 bits are stored in 32 bit blocks known as literals. An example of word-aligned hybrid compression is shown below:
 
@@ -45,10 +45,10 @@ There are three separate 32 bit sequences in the bitstream.
 
 Concisesets share a very important property with other bitmap compression schemes: they can be operated on in their compressed form.
 
-<https://druid.apache.org/blog/2012/09/21/druid-bitmap-compression.html>
+https://druid.apache.org/blog/2012/09/21/druid-bitmap-compression.html
 
 ## Roaring BitMap
 
 Compressed bitmap indexes are used in databases and search engines. Many bitmap compression techniques have been proposed, almost all relying primarily on run-length encoding (RLE). However, on unsorted data, we can get superior performance with a hybrid compression technique that uses both uncompressed bitmaps and packed arrays inside a two-level tree. An instance of this technique, Roaring, has recently been proposed.Due to its good performance, it has been adopted by several production platforms (e.g., Apache Lucene, Apache Spark, Apache Kylin and Druid).Yet there are cases where run-length encoded bitmaps are smaller than the original Roaring bitmaps - typically when the data is sorted so that the bitmaps containlong compressible runs. To better handlethese cases, we build a new Roaring hybrid that combines uncompressed bitmaps, packed arrays and RLEcompressed segments. The result is a new Roaring format thatcompresses better.Overall, our new implementation of Roaring can be several times faster (up to two orders of magnitude)than the implementations of traditional RLE-based alternatives (WAH, Concise, EWAH) while compressing better. We review the design choices and optimizations thatmake these good results possible.
 
-<https://arxiv.org/pdf/1603.06549.pdf>
+https://arxiv.org/pdf/1603.06549.pdf

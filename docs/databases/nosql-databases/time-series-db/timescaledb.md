@@ -4,8 +4,8 @@ TimescaleDB is an open-source database designed to make SQL scalable for time-se
 
 ## References
 
-<https://www.timescale.com>
+https://www.timescale.com
 
-<https://docs.timescale.com/v1.1/using-timescaledb>
+https://docs.timescale.com/v1.1/using-timescaledb
 
-<https://github.com/timescale/timescaledb>
+https://github.com/timescale/timescaledb

@@ -225,4 +225,4 @@ Is that good? Well, not really. In fact, it's pretty bad. This is because we're 
 
 What matters is that we learned from this model. Still, if you're feeling a bit down about these results, check out [the next tutorial](https://www.tensorflow.org/get_started/mnist/pros) where we do a lot better, and learn how to build more sophisticated models using TensorFlow!
 
-<https://www.tensorflow.org/get_started/mnist/beginners>
+https://www.tensorflow.org/get_started/mnist/beginners

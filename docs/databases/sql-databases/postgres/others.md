@@ -4,13 +4,13 @@
 
 PostGIS - used for geospatial data manipulation and running location queries in SQL
 
- <https://medium.com/@tjukanov/why-should-you-care-about-postgis-a-gentle-introduction-to-spatial-databases-9eccd26bc42b>
+ https://medium.com/@tjukanov/why-should-you-care-about-postgis-a-gentle-introduction-to-spatial-databases-9eccd26bc42b
 
 1. **Key-Value data type (hstore)**
 2. **Semi-structured data types**
 3. **pg_timetable - Advanced postgres job scheduling**
 
-<https://www.cybertec-postgresql.com/en/pg_timetable-advanced-postgresql-job-scheduling>
+https://www.cybertec-postgresql.com/en/pg_timetable-advanced-postgresql-job-scheduling
 
 `SELECT * FROM pg_available_extensions;`
 
@@ -77,13 +77,13 @@ pgagroalis a high-performance protocol-native connection pool for [PostgreSQL](h
 - Daemon mode
 - User vault
 
-<https://github.com/agroal/pgagroal>
+https://github.com/agroal/pgagroal
 
 ## PgBouncer
 
 PgBouncer is a lightweight connection pooler for PostgreSQL
 
-<https://github.com/pgbouncer/pgbouncer/blob/master/etc/pgbouncer.ini>
+https://github.com/pgbouncer/pgbouncer/blob/master/etc/pgbouncer.ini
 
 ```python
 DATABASES_HOST:"zpg-postgresql-headless.example"
@@ -105,18 +105,18 @@ PGBOUNCER_CLIENT_IDLE_TIMEOUT:"600"
 
 Advanced multi-threaded PostgreSQL connection pooler and request router.
 
-<https://github.com/yandex/odyssey>
+https://github.com/yandex/odyssey
 
 ## Postgres on Kubernetes
 
-<https://github.com/zalando/patroni>
+https://github.com/zalando/patroni
 
 ## pgbackrest
 
 pgBackRest is a reliable and simple to configure backup and restore solution for PostgreSQL, which provides a powerful solution for any PostgreSQL database; be it a small project, or scaled up to enterprise-level use cases.
 Many powerful features are included in pgBackRest, including parallel backup and restore, local or remote operation, full, incremental, and differential backup types, backup rotation, archive expiration, backup integrity, page checksums, backup resume, streaming compression and checksums, delta restore, and much more.
 
-<https://info.crunchydata.com/blog/how-to-get-started-with-pgbackrest-and-postgresql-12>
+https://info.crunchydata.com/blog/how-to-get-started-with-pgbackrest-and-postgresql-12
 
 [https://www.kubegres.io/](https://www.kubegres.io/)
 

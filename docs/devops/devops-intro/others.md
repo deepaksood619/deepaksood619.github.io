@@ -8,7 +8,7 @@ Afederated identityin [information technology](https://en.wikipedia.org/wiki/Inf
 
 Federated identity is related to [single sign-on](https://en.wikipedia.org/wiki/Single_sign-on)(SSO), in which a user's single [authentication](https://en.wikipedia.org/wiki/Authentication) ticket, or [token](https://en.wikipedia.org/wiki/Security_token), is trusted across multiple IT systems or even organizations. SSO is a subset of [federated identity management](https://en.wikipedia.org/wiki/Federated_identity_management), as it relates only to [authentication](https://en.wikipedia.org/wiki/Authentication) and is understood on the level of technical interoperability and it would not be possible without some sort of federation.
 
-<https://en.wikipedia.org/wiki/Federated_identity>
+https://en.wikipedia.org/wiki/Federated_identity
 
 ## Workflow Management System (WMS)
 
@@ -48,7 +48,7 @@ doxygen
 
 2. Process documentation
 
-<https://www.altexsoft.com/blog/business/technical-documentation-in-software-development-types-best-practices-and-tools>
+https://www.altexsoft.com/blog/business/technical-documentation-in-software-development-types-best-practices-and-tools
 
 ## AWS Cost Optimisation
 

@@ -1,13 +1,13 @@
 # Good Profiles
 
-- <https://www.linkedin.com/in/hirenchandaria>
-- <https://www.linkedin.com/in/maheshvc>
-- <https://www.linkedin.com/in/raghuram-rajan>
-- <http://www.pranavmistry.com/files/pranav_cv.pdf>
-- <https://www.linkedin.com/in/jessicatai>
-- Andreas Klinger - <https://klinger.io>
+- https://www.linkedin.com/in/hirenchandaria
+- https://www.linkedin.com/in/maheshvc
+- https://www.linkedin.com/in/raghuram-rajan
+- http://www.pranavmistry.com/files/pranav_cv.pdf
+- https://www.linkedin.com/in/jessicatai
+- Andreas Klinger - https://klinger.io
 - [Jeroen Bouma | Financial Risk Analyst](https://www.jeroenbouma.com/)
-- **Software Developer Good -** <https://drive.google.com/drive/folders/1zMuTUjsifK9QVvrwF56oE8EJcgw9YBhJ?usp=sharing>
+- **Software Developer Good -** https://drive.google.com/drive/folders/1zMuTUjsifK9QVvrwF56oE8EJcgw9YBhJ?usp=sharing
 - **Pradeep Parameswaran**
 
 ![image](../../media/Personality-Profiles-image1.png)

@@ -10,6 +10,6 @@ Dash apps are rendered in the web browser. You can deploy your apps to servers a
 
 ## References
 
-<https://dash.plot.ly/introduction>
+https://dash.plot.ly/introduction
 
-<https://towardsdatascience.com/dash-a-beginners-guide-d118bd620b5d>
+https://towardsdatascience.com/dash-a-beginners-guide-d118bd620b5d

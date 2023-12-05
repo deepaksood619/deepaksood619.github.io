@@ -12,7 +12,7 @@ If any of the controllers in either phase reject the request, the entire request
 
 Finally, in addition to sometimes mutating the object in question, admission controllers may sometimes have side effects, that is, mutate related resources as part of request processing. Incrementing quota usage is the canonical example of why this is necessary. Any such side-effect needs a corresponding reclamation or reconciliation process, as a given admission controller does not know for sure that a given request will pass all of the other admission controllers.
 
-<https://kubernetes.io/docs/reference/access-authn-authz/admission-controllers>
+https://kubernetes.io/docs/reference/access-authn-authz/admission-controllers
 
 ## Dynamic Admission Control
 
@@ -20,7 +20,7 @@ Finally, in addition to sometimes mutating the object in question, admission con
 
 Admission webhooks are HTTP callbacks that receive admission requests and do something with them. You can define two types of admission webhooks, [validating admission Webhook](https://kubernetes.io/docs/reference/access-authn-authz/admission-controllers/#validatingadmissionwebhook) and [mutating admission webhook](https://kubernetes.io/docs/reference/access-authn-authz/admission-controllers/#mutatingadmissionwebhook). Mutating admission Webhooks are invoked first, and can modify objects sent to the API server to enforce custom defaults. After all object modifications are complete, and after the incoming object is validated by the API server, validating admission webhooks are invoked and can reject requests to enforce custom policies.
 
-<https://kubernetes.io/docs/reference/access-authn-authz/extensible-admission-controllers>
+https://kubernetes.io/docs/reference/access-authn-authz/extensible-admission-controllers
 
 ## Quality of Service
 
@@ -65,8 +65,8 @@ You can useephemeral-storagefor managing local ephemeral storage. Each Container
 - spec.containers[].resources.limits.ephemeral-storage
 - spec.containers[].resources.requests.ephemeral-storage
 
-<https://kubernetes.io/docs/tasks/configure-pod-container/quality-service-pod>
+https://kubernetes.io/docs/tasks/configure-pod-container/quality-service-pod
 
-<https://kubernetes.io/docs/concepts/configuration/manage-resources-containers>
+https://kubernetes.io/docs/concepts/configuration/manage-resources-containers
 
-<https://www.replex.io/blog/everything-you-need-to-know-about-kubernetes-quality-of-service-qos-classes>
+https://www.replex.io/blog/everything-you-need-to-know-about-kubernetes-quality-of-service-qos-classes

@@ -34,7 +34,7 @@ mkdir /var/druid/tmp
 
 Historical
 
-<http://localhost:8083/druid/historical/v1/readiness>
+http://localhost:8083/druid/historical/v1/readiness
 
 [http://localhost:8083/druid/historical/v1/loadstatus](http://localhost:8083/druid/historical/v1/loadstatus)
 
@@ -58,9 +58,9 @@ remove last 20 days of segments
 curl -X 'POST' -H 'Content-Type:application/json' -d @wikipedia-top-pages.json [http://localhost:8082/druid/v2?pretty](http://localhost:8082/druid/v2/?pretty)
 
 #submit supervisor spec to kafka-indexing-service
-curl -XPOST -H'Content-Type: application/json' -d @wikipedia-kafka-supervisor.json <http://localhost:8090/druid/indexer/v1/supervisor>
+curl -XPOST -H'Content-Type: application/json' -d @wikipedia-kafka-supervisor.json http://localhost:8090/druid/indexer/v1/supervisor
 
-curl -XPOST -H'Content-Type: application/json' -d @smap-kafka-supervisor-spec.json <http://localhost:8090/druid/indexer/v1/supervisor>
+curl -XPOST -H'Content-Type: application/json' -d @smap-kafka-supervisor-spec.json http://localhost:8090/druid/indexer/v1/supervisor
 ```
 
 ### Dashboards
@@ -106,7 +106,7 @@ ORDER BY __time DESC
 
 ## Dashboard
 
-<http://10.9.1.21:8888/unified-console.html>
+http://10.9.1.21:8888/unified-console.html
 
 ## Ingestion Spec
 

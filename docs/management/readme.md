@@ -197,8 +197,8 @@
 
 ## Courses
 
-<https://www.managementstudyguide.com/all-subjects.htm>
+https://www.managementstudyguide.com/all-subjects.htm
 
-<https://www.class-central.com/report/mooc-mba-top-b-schools>
+https://www.class-central.com/report/mooc-mba-top-b-schools
 
 Management development program (Executive programme in Business and Data Analysis)

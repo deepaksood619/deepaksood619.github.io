@@ -11,9 +11,9 @@ Done/recipient - Register using Aadhaar card, basic salary with close connection
 
 Donor - finds a person and donate the required item or buy for him/her
 
-- Donate only to <https://www.guidestar.org> platinum seal of transparency
+- Donate only to https://www.guidestar.org platinum seal of transparency
 - KhanAcademy, Khan Academy
-  - <https://khanacademyannualreport.org/financial-information>
+  - https://khanacademyannualreport.org/financial-information
 - Freecodecamp
   - [Free Code Camp Inc - GuideStar Profile](https://www.guidestar.org/profile/82-0779546)
 - givewell.org
@@ -46,7 +46,7 @@ At its core, EA looked at 3 key things.
 
 The key problem is funding cannibalism. That $3 million in donations doesn’t appear out of a vacuum. Because people on average are limited in how much they’re willing to donate to good causes, if someone donates $100 to the ALS Association, he or she will likely donate less to other charities."
 
-<https://en.wikipedia.org/wiki/Effective_altruism>
+https://en.wikipedia.org/wiki/Effective_altruism
 
 [What is effective altruism? Philosopher Peter Singer explains. - YouTube](https://youtu.be/TdXKak-k6zw?si=0hkt0vT381d84_MK)
 

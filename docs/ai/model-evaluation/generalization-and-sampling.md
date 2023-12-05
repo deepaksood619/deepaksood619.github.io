@@ -56,7 +56,7 @@
   - RMSE for regression problems
   - Cross entropy for classification
 
-<https://machinelearningmastery.com/cross-entropy-for-machine-learning>
+https://machinelearningmastery.com/cross-entropy-for-machine-learning
 
 - Perfectly accurate model with an RMSE of zero, can perform badly against a set of new data that it had not seen before
 - Generalization

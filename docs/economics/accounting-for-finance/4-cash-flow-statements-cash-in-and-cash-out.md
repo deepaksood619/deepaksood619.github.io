@@ -59,13 +59,13 @@
 - The FCFE metric is often used by analysts in an attempt to determine the value of a company.
 - FCFE, as a method of valuation, gained popularity as an alternative to the **dividend discount model (DDM)**, especially for cases in which a company does not pay a dividend.
 
-<https://www.investopedia.com/terms/f/freecashflowtoequity.asp>
+https://www.investopedia.com/terms/f/freecashflowtoequity.asp
 
 ## Dividend Discount Model (DDM)
 
 The dividend discount model (DDM) is a quantitative method used for predicting the price of a company's stock based on the theory that its present-day price is worth the sum of all of its future [dividend](https://www.investopedia.com/terms/d/dividend.asp) payments when [discounted](https://www.investopedia.com/terms/d/discounting.asp) back to their present value. It attempts to calculate the fair value of a stock irrespective of the prevailing market conditions and takes into consideration the dividend payout factors and the market expected returns. If the value obtained from the DDM is higher than the current trading price of shares, then the stock is undervalued and qualifies for a buy, and vice versa.
 
-<https://www.investopedia.com/terms/d/ddm.asp>
+https://www.investopedia.com/terms/d/ddm.asp
 
 ## Time Value of Money (TVM)
 
@@ -75,7 +75,7 @@ The dividend discount model (DDM) is a quantitative method used for predicting t
 - The formula for computing the time value of money considers the amount of money, its future value, the amount it can earn, and the time frame
 - For savings accounts, the number of compounding periods is an important determinant as well
 
-<https://www.investopedia.com/terms/t/timevalueofmoney.asp>
+https://www.investopedia.com/terms/t/timevalueofmoney.asp
 
 ## Potential Dividends (FCFE)
 

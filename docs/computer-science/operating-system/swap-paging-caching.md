@@ -56,9 +56,9 @@ Effective access time = m(for page table) + m(for particular page in page table)
 
 ![image](../../media/Swap-Paging-Caching-image3.jpg)
 
-<https://www.geeksforgeeks.org/operating-system-paging>
+https://www.geeksforgeeks.org/operating-system-paging
 
-<https://en.wikipedia.org/wiki/Page_table>
+https://en.wikipedia.org/wiki/Page_table
 
 ## Translation Lookaside Buffer (TLB)
 
@@ -66,7 +66,7 @@ Atranslation lookaside buffer(TLB) is a memory [cache](https://en.wikipedia.org/
 
 The TLB is sometimes implemented as [content-addressable memory](https://en.wikipedia.org/wiki/Content-addressable_memory)(CAM). The CAM search key is the virtual address, and the search result is a [physical address](https://en.wikipedia.org/wiki/Physical_address). If the requested address is present in the TLB, the CAM search yields a match quickly and the retrieved physical address can be used to access memory. This is called a TLB hit. If the requested address is not in the TLB, it is a miss, and the translation proceeds by looking up the [page table](https://en.wikipedia.org/wiki/Page_table) in a process called apage walk. The page walk is time-consuming when compared to the processor speed, as it involves reading the contents of multiple memory locations and using them to compute the physical address. After the physical address is determined by the page walk, the virtual address to physical address mapping is entered into the TLB. The [PowerPC 604](https://en.wikipedia.org/wiki/PowerPC_604), for example, has a two-way [set-associative](https://en.wikipedia.org/wiki/Set-associative) TLB for data loads and stores.Some processors have different instruction and data address TLBs.
 
-<https://en.wikipedia.org/wiki/Translation_lookaside_buffer>
+https://en.wikipedia.org/wiki/Translation_lookaside_buffer
 
 ## Page Table Entries
 
@@ -89,7 +89,7 @@ Page table entry has the following information
 
 6. **Modified bit --** Modified bit says whether the page has been modified or not. Modified means sometimes you might try to write something on to the page. If a page is modified, then whenever you should replace that page with some other page, then the modified information should be kept on the hard disk or it has to be written back or it has to be saved back. It is set to 1 by hardware on write-access to page which is used to avoid writing when swapped out. Sometimes this modified bit is also called as theDirty bit.
 
-<https://www.geeksforgeeks.org/operating-system-page-table-entries>
+https://www.geeksforgeeks.org/operating-system-page-table-entries
 
 ## Swap
 
@@ -104,13 +104,13 @@ Well Known Deterministic online paging algorithms -
 
 1. FIFO (First-In First-Out) - Evict the page that has been in fast memory longest.
 2. LRU (Least Recently Used) - On a fault, evict the page in fast memory that was requested least recently.
-3. LFU (Least Frequently Used) - Evict the page that has been requested least frequently - <https://arpitbhayani.me/blogs/lfu>
+3. LFU (Least Frequently Used) - Evict the page that has been requested least frequently - https://arpitbhayani.me/blogs/lfu
 4. MIN - On a fault, evict the page whose next request occurs furthest in the future.
 5. ARC (Adaptive Replacement Cache)
 
     Adaptive Replacement Cache(ARC) is a [page replacement algorithm](https://en.wikipedia.org/wiki/Page_replacement_algorithm) with better performance than [LRU](https://en.wikipedia.org/wiki/Cache_algorithms) (least recently used). This is accomplished by keeping track of both frequently used and recently used pages plus a recent eviction history for both.
 
-<https://en.wikipedia.org/wiki/Adaptive_replacement_cache>
+https://en.wikipedia.org/wiki/Adaptive_replacement_cache
 
 ## EC2 instances and Linux doesn't have swap
 
@@ -132,18 +132,18 @@ But the scope of operation for TLB and CPU Cache is different. TLB is about 'spe
 
 ![image](../../media/Swap-Paging-Caching-image5.jpg)
 
-<https://www.geeksforgeeks.org/whats-difference-between-cpu-cache-and-tlb>
+https://www.geeksforgeeks.org/whats-difference-between-cpu-cache-and-tlb
 
 ## References
 
-<http://searchwindowsserver.techtarget.com/definition/swap-file-swap-space-or-pagefile>
+http://searchwindowsserver.techtarget.com/definition/swap-file-swap-space-or-pagefile
 
-<https://www.redhat.com/en/blog/do-we-really-need-swap-modern-systems>
+https://www.redhat.com/en/blog/do-we-really-need-swap-modern-systems
 
-<https://www.kernel.org/doc/gorman/html/understand/understand016.html>
+https://www.kernel.org/doc/gorman/html/understand/understand016.html
 
-<https://www.kernel.org/doc/gorman/html/understand/understand014.html>
+https://www.kernel.org/doc/gorman/html/understand/understand014.html
 
-<https://chrisdown.name/2018/01/02/in-defence-of-swap.html>
+https://chrisdown.name/2018/01/02/in-defence-of-swap.html
 
 [Your SSD lies but that's ok .. I think | Postgres fsync - YouTube](https://www.youtube.com/watch?v=JK2ZIx8jRu4)

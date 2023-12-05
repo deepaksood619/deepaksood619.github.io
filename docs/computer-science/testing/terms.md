@@ -128,9 +128,9 @@ Fuzz testing is a software testing technique using which a random data is given 
 - Protocol Fuzzing
 - File Format Fuzzing
 
-<https://github.com/minimaxir/big-list-of-naughty-strings>
+https://github.com/minimaxir/big-list-of-naughty-strings
 
-<https://www.freecodecamp.org/news/whats-fuzzing-fuzz-testing-explained>
+https://www.freecodecamp.org/news/whats-fuzzing-fuzz-testing-explained
 
 ## G
 
@@ -186,7 +186,7 @@ Fuzz testing is a software testing technique using which a random data is given 
 - [Monkey Testing](https://www.tutorialspoint.com/software_testing_dictionary/monkey_testing.htm)
 - [**Mutation Testing**](https://www.tutorialspoint.com/software_testing_dictionary/mutation_testing.htm)
 
-<https://medium.com/analytics-vidhya/unit-testing-in-python-mutation-testing-7a70143180d8>
+https://medium.com/analytics-vidhya/unit-testing-in-python-mutation-testing-7a70143180d8
 
 ## N
 
@@ -225,7 +225,7 @@ In order to keep a system secure, it is advisable to conduct a pentest on a regu
 ## Q
 
 - [Quality Assurance](https://www.tutorialspoint.com/software_testing_dictionary/quality_assurance.htm)
-  - How to hire a Great QA Engineer - <https://www.toptal.com/qa>
+  - How to hire a Great QA Engineer - https://www.toptal.com/qa
 - [Quality Control](https://www.tutorialspoint.com/software_testing_dictionary/quality_control.htm)
 - [Quality Management](https://www.tutorialspoint.com/software_testing_dictionary/quality_management.htm)
 
@@ -329,9 +329,9 @@ In order to keep a system secure, it is advisable to conduct a pentest on a regu
 - [White box Testing](https://www.tutorialspoint.com/software_testing_dictionary/white_box_testing.htm)
 - [Workflow Testing](https://www.tutorialspoint.com/software_testing_dictionary/workflow_testing.htm)
 
-<https://dev.to/maxwell_dev/the-testing-introduction-i-wish-i-had-2dn>
+https://dev.to/maxwell_dev/the-testing-introduction-i-wish-i-had-2dn
 
-<https://dev.to/conw_y/towards-zero-bugs-1bop>
+https://dev.to/conw_y/towards-zero-bugs-1bop
 
 ## Testing terms
 
@@ -352,4 +352,4 @@ In order to keep a system secure, it is advisable to conduct a pentest on a regu
 - Control Flow Path
 - Conversion Testing
 
-<https://www.tutorialspoint.com/software_testing_dictionary/index.htm>
+https://www.tutorialspoint.com/software_testing_dictionary/index.htm

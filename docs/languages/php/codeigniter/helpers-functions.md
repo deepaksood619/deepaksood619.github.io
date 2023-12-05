@@ -14,7 +14,7 @@ Where name is the name of the helper. For example, if you want to load the URL H
 
 `$this->load->helper('url');`
 
-<https://www.tutorialspoint.com/codeigniter/codeigniter_basic_concepts.htm>
+https://www.tutorialspoint.com/codeigniter/codeigniter_basic_concepts.htm
 
 ## Global Functions and Constants
 
@@ -93,4 +93,4 @@ return redirect()->back()->withHeaders();
   - constant YEAR
   - constant DECADE
 
-<https://codeigniter.com/user_guide/general/common_functions.html>
+https://codeigniter.com/user_guide/general/common_functions.html

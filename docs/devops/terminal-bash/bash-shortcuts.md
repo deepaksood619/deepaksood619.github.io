@@ -57,4 +57,4 @@ Bash also has a special "recall" mode you can use to search for commands you've 
 
 ### References
 
-<https://github.com/LeCoupa/awesome-cheatsheets/blob/master/languages/bash.sh>
+https://github.com/LeCoupa/awesome-cheatsheets/blob/master/languages/bash.sh

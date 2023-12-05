@@ -8,7 +8,7 @@ Qt is a cross-platform application development framework for desktop, embedded a
 
 Qt isnota programming language on its own. It is a framework written in C++. A preprocessor, the [MOC (Meta-Object Compiler)](http://doc.qt.io/qt-5/moc.html), is used to extend the C++ language with features like [signals and slots](http://doc.qt.io/qt-5/signalsandslots.html). Before the compilation step, the MOC parses the source files written in Qt-extended C++ and generates standard compliant C++ sources from them. Thus the framework itself and applications/libraries using it can be compiled by any standard compliant C++ compiler like Clang, GCC, ICC, MinGW and MSVC.
 
-<https://wiki.qt.io/About_Qt>
+https://wiki.qt.io/About_Qt
 
 ## Qt concepts
 
@@ -30,4 +30,4 @@ The [metaobject](https://en.wikipedia.org/wiki/Metaobject) compiler, termedmoc, 
 
 Qt can be used in several other [programming languages](https://en.wikipedia.org/wiki/Programming_language) like Python, Javascript, C# or Rustvia [language bindings](https://en.wikipedia.org/wiki/Language_binding),
 
-<https://doc.qt.io/qt-5/signalsandslots.html>
+https://doc.qt.io/qt-5/signalsandslots.html

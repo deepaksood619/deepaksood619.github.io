@@ -65,7 +65,7 @@ tmux ls     #list all tmux sessions
 
 ### Shell integration
 
-<https://iterm2.com/documentation-shell-integration.html>
+https://iterm2.com/documentation-shell-integration.html
 
 ## Others
 
@@ -73,4 +73,4 @@ tmux ls     #list all tmux sessions
 
 Byobu is a [GPLv3](http://www.google.com/url?q=http%3A%2F%2Fwww.gnu.org%2Flicenses%2Fgpl-3.0.txt&sa=D&sntz=1&usg=AFQjCNGtxPHRl3Ss1GlWgGTuANClXqyvWw) open source text-based window manager and terminal multiplexer. It was originally designed to provide elegant enhancements to the otherwise functional, plain, practical [GNU Screen](http://www.google.com/url?q=http%3A%2F%2Fwww.gnu.org%2Fsoftware%2Fscreen%2F&sa=D&sntz=1&usg=AFQjCNF9f6NJD8H_5mupvdrrTmFMeeFThA), for the [Ubuntu](http://www.google.com/url?q=http%3A%2F%2Fwww.ubuntu.com%2F&sa=D&sntz=1&usg=AFQjCNHHTmFHYKsnZbVKD3XP7-6c8QSVtg) server distribution. Byobu now includes an enhanced profiles, convenient keybindings, configuration utilities, and toggle-able system status notifications for both the GNU Screen window manager and the more modern [Tmux](https://www.google.com/url?q=https%3A%2F%2Fgithub.com%2Ftmux%2Ftmux&sa=D&sntz=1&usg=AFQjCNH7yW6_x1Pj0Af4b-QzktPYakb9Ug) terminal multiplexer, and works on most Linux, BSD, and Mac distributions.
 
-<https://www.byobu.org>
+https://www.byobu.org

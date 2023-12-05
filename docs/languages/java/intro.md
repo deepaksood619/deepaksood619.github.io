@@ -11,7 +11,7 @@ Java Memory Model is a set of rules all JVMs have to follow to ensure correct wo
 - Out of order execution
 - Field Visibility
 
-<https://www.youtube.com/watch?v=Z4hMFBvCDV4>
+https://www.youtube.com/watch?v=Z4hMFBvCDV4
 
 ## Jakarta EE
 
@@ -21,6 +21,6 @@ Jakarta EE is defined by its [specification](https://en.wikipedia.org/wiki/Progr
 
 Examples of contexts in which Jakarta EE referencing runtimes are used are:[e-commerce](https://en.wikipedia.org/wiki/E-commerce), accounting, banking information systems.
 
-<https://en.wikipedia.org/wiki/Jakarta_EE>
+https://en.wikipedia.org/wiki/Jakarta_EE
 
-<https://jakarta.ee>
+https://jakarta.ee

@@ -26,7 +26,7 @@ However, the session management and rate limiting algorithm usually must be buil
 
 Datacenters widely use rate-limiting to control the share of resources given to different tenants and applications according to their service level agreement.A variety of rate-limiting techniques are applied in datacenters using software and hardware. Virtualized datacenters may also apply rate-limiting at the hypervisor layer. Two important performance metrics of rate-limiters in datacenters are resource footprint (memory and CPU usage) which determines scalability, and precision. There usually exists a trade-off, that is, higher precision can be achieved by dedicating more resources to the rate-limiters. A considerable body of research exists with focus on improving performance of rate-limiting in datacenters.
 
-<https://en.wikipedia.org/wiki/Rate_limiting>
+https://en.wikipedia.org/wiki/Rate_limiting
 
 ## Uses
 
@@ -80,7 +80,7 @@ In HTB, rate means the guaranteed bandwidth available for a given class and ceil
 
 Hierarchical Token Bucket implements a classful queuing mechanism for the linux traffic control system, and provides rate and ceil to allow the user to control the absolute bandwidth to particular classes of traffic as well as indicate the ratio of distribution of bandwidth when extra bandwidth become available(up to ceil).
 
-<https://en.wikipedia.org/wiki/Token_bucket>
+https://en.wikipedia.org/wiki/Token_bucket
 
 ## Leaky Bucket
 
@@ -92,7 +92,7 @@ The advantage of this algorithm is that it smooths out bursts of requests and pr
 
 However, a burst of traffic can fill up the queue with old requests and starve more recent requests from being processed. It also provides no guarantee that requests get processed in a fixed amount of time. Additionally, if you load balance servers for fault tolerance or increased throughput, you must use a policy to coordinate and enforce the limit between them.
 
-<https://en.wikipedia.org/wiki/Leaky_bucket>
+https://en.wikipedia.org/wiki/Leaky_bucket
 
 ## Fixed Window
 
@@ -124,10 +124,10 @@ It is used to identify elements in a data stream whose frequency count exceeds a
 
 **Use Case:** Frequency count over the data streams.
 
-<https://konghq.com/blog/how-to-design-a-scalable-rate-limiting-algorithm>
+https://konghq.com/blog/how-to-design-a-scalable-rate-limiting-algorithm
 
-<https://blog.cloudflare.com/counting-things-a-lot-of-different-things>
+https://blog.cloudflare.com/counting-things-a-lot-of-different-things
 
-<https://www.figma.com/blog/an-alternative-approach-to-rate-limiting>
+https://www.figma.com/blog/an-alternative-approach-to-rate-limiting
 
 Youtube - [Rate Limiting system design | TOKEN BUCKET, Leaky Bucket, Sliding Logs](https://www.youtube.com/watch?v=mhUQe4BKZXs)

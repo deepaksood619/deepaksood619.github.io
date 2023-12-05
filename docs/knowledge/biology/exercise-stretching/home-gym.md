@@ -125,11 +125,11 @@
 
 - Plank
 
-<https://www.coachmag.co.uk/workouts/abs-workouts>
+https://www.coachmag.co.uk/workouts/abs-workouts
 
-<https://www.coachmag.co.uk/fitness/workouts/dumbbell-workouts>
+https://www.coachmag.co.uk/fitness/workouts/dumbbell-workouts
 
-<https://www.myprotein.co.in/blog/training/chest-day-101-top-5-dumbbell-exercises>
+https://www.myprotein.co.in/blog/training/chest-day-101-top-5-dumbbell-exercises
 
 - Dumbbell Flyes
 

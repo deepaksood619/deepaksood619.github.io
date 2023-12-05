@@ -121,4 +121,4 @@ Exploring tf.transform
 
 tf.transform
 
-<https://heartbeat.fritz.ai/a-practical-guide-to-feature-engineering-in-python-8326e40747c8>
+https://heartbeat.fritz.ai/a-practical-guide-to-feature-engineering-in-python-8326e40747c8

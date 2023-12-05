@@ -13,33 +13,33 @@
 ## Products
 
 - Opensource
-  - **<https://tiledesk.com> - chatbot, helpdesk, everything, APIs**
+  - **https://tiledesk.com - chatbot, helpdesk, everything, APIs**
 
-- <https://github.com/polonel/trudesk>
-- <https://github.com/osTicket/osTicket>
+- https://github.com/polonel/trudesk
+- https://github.com/osTicket/osTicket
 
 docker run --name osticket_mysql -d -e MYSQL_ROOT_PASSWORD=secret
 -e MYSQL_USER=osticket -e MYSQL_PASSWORD=secret -e MYSQL_DATABASE=osticket mariadb
 
-- <https://docs.trudesk.io>
-- <https://github.com/django-helpdesk/django-helpdesk>
+- https://docs.trudesk.io
+- https://github.com/django-helpdesk/django-helpdesk
 
-<https://django-helpdesk.readthedocs.io/en/0.2.x>
+https://django-helpdesk.readthedocs.io/en/0.2.x
 
-<http://django-helpdesk-demo.herokuapp.com>
+http://django-helpdesk-demo.herokuapp.com
 
-- <https://github.com/salesagility/SuiteCRM>
+- https://github.com/salesagility/SuiteCRM
 - **ngdesk**
-- <https://freescout.net>
+- https://freescout.net
 - faveo
-- <https://www.hesk.com>
+- https://www.hesk.com
 
 - HelpScout
 - **Intercom**
 - zoho
 - zendesk
 
-<https://www.zendesk.com/lp/startups>
+https://www.zendesk.com/lp/startups
 
 - **odoo**
 
@@ -51,11 +51,11 @@ integrated apps, kept simple, and loved by millions of happy users.
 - netsuite
 - hubspot
 
-<https://blog.hubspot.com/service/free-help-desk-software>
+https://blog.hubspot.com/service/free-help-desk-software
 
-<https://www.msp360.com/resources/blog/top-7-free-and-open-source-ticketing-systems-for-msps>
+https://www.msp360.com/resources/blog/top-7-free-and-open-source-ticketing-systems-for-msps
 
-<https://learnwoo.com/best-open-source-help-desk-support-ticketing-system>
+https://learnwoo.com/best-open-source-help-desk-support-ticketing-system
 
 [Help desk automation: 3 simple ways to assign support tickets better.](https://www.youtube.com/watch?v=cvgIZ92KOEQ)
 
@@ -74,49 +74,49 @@ The best thing you can do is make the process of self service easy and fast. Mak
 
 The only disadvantages of customer self service software come from how you use it. If you lean too much on customer self service and pull back from person-to-person support, you risk frustrating those customers who appreciate a more personal touch.
 
-<https://www.zendesk.com/service/help-center/customer-self-service>
+https://www.zendesk.com/service/help-center/customer-self-service
 
-<https://www.hubspot.com/knowledge-base>
+https://www.hubspot.com/knowledge-base
 
 ## OpenSource - uvdesk
 
-<https://www.uvdesk.com/en/blog/an-open-source-alternative-to-freshdesk>
+https://www.uvdesk.com/en/blog/an-open-source-alternative-to-freshdesk
 
-<https://www.uvdesk.com/en/api-doc>
+https://www.uvdesk.com/en/api-doc
 
-<https://github.com/uvdesk/community-skeleton>
+https://github.com/uvdesk/community-skeleton
 
-<https://ease.ghost.io>
+https://ease.ghost.io
 
-<https://gatbsy-theme-help-center.netlify.app>
+https://gatbsy-theme-help-center.netlify.app
 
-<https://helpjuice.com/knowledge-base-examples>
+https://helpjuice.com/knowledge-base-examples
 
-<https://help.msg91.com>
+https://help.msg91.com
 
-<https://help.sliceit.com/support/home>
+https://help.sliceit.com/support/home
 
 ## tawk.to
 
-<https://tawk.to/deepaksood619>
+https://tawk.to/deepaksood619
 
-<https://goldenpi.com>
+https://goldenpi.com
 
-<https://developer.tawk.to/jsapi>
+https://developer.tawk.to/jsapi
 
-<https://help.tawk.to/article/how-to-use-messaging-and-ticketing>
+https://help.tawk.to/article/how-to-use-messaging-and-ticketing
 
 [Tutorials / KB / ENG](https://www.youtube.com/playlist?list=PLTxV5K5lUotCZE_dt6Hc_Iw62GJYIy-AX)
 
-## bookstackapp - <https://www.bookstackapp.com>
+## bookstackapp - https://www.bookstackapp.com
 
 BookStack is a simple, self-hosted, easy-to-use platform for organising and storing information.
 
-<https://rasa.com/docs/action-server/knowledge-bases>
+https://rasa.com/docs/action-server/knowledge-bases
 
 ## Paid
 
-<https://www.helpdocs.io>
+https://www.helpdocs.io
 
 ACPT - Agent, Customer, Process, Technology
 
@@ -177,9 +177,9 @@ The "Spam" status is reserved for malicious or other unnecessary messages you do
 2. Supervisor assignment
 3. Automated assignment
 
-<https://www.liveagent.com/academy/ticketing-system-best-practices>
+https://www.liveagent.com/academy/ticketing-system-best-practices
 
-<https://www.helpdesk.com/learn/customer-support-essentials/customer-ticket-assignment-strategies>
+https://www.helpdesk.com/learn/customer-support-essentials/customer-ticket-assignment-strategies
 
 ## L1, L2, & L3 Technical Support
 
@@ -220,4 +220,4 @@ Additional services include:
 - Root cause analysis
 - Performance tuning and capacity planning
 
-<https://www.infogain.com/blog/a-quick-guide-to-l1-l2-and-l3-technical-support>
+https://www.infogain.com/blog/a-quick-guide-to-l1-l2-and-l3-technical-support

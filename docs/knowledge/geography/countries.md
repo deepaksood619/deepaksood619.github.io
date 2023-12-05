@@ -4,7 +4,7 @@
 
 - StudyGe
 
-<https://docs.google.com/spreadsheets/d/1zl7adSoCYuWpuBnRPbkkhwT2RZ5hk3lUO4ud0NE7VWQ/edit#gid=1020178203>
+https://docs.google.com/spreadsheets/d/1zl7adSoCYuWpuBnRPbkkhwT2RZ5hk3lUO4ud0NE7VWQ/edit#gid=1020178203
 
 ## UN / Groups
 
@@ -94,7 +94,7 @@
 
 ## Geography through Maps
 
-<https://www.youtube.com/playlist?list=PLkJ-kjtioPGqUr8sSaF7x04mrLcXFJYMO>
+https://www.youtube.com/playlist?list=PLkJ-kjtioPGqUr8sSaF7x04mrLcXFJYMO
 
 [Famous International disputed border lines and Boundaries | Static GK - YouTube](https://www.youtube.com/watch?v=sPszPGQErpE)
 

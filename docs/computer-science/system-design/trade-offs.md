@@ -74,4 +74,4 @@ Compute is cheap. Storage is cheap. Engineering time is expensive.
 - Are there any dashboards / high level visualisations?
 - Are the dashboards internal to the TSDB or can they be shared on a website?
 
-<https://medium.com/kudos-engineering/choosing-the-elastic-stack-as-a-time-series-database-9fac202c53ba>
+https://medium.com/kudos-engineering/choosing-the-elastic-stack-as-a-time-series-database-9fac202c53ba

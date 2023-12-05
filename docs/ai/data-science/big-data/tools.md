@@ -28,9 +28,9 @@ Some transformations in IICS include:
 
 Data Discovery and Lineage for Big Data Ecosystem
 
-<https://github.com/linkedin/WhereHows/tree/datahub>
+https://github.com/linkedin/WhereHows/tree/datahub
 
-<https://engineering.linkedin.com/blog/2019/data-hub>
+https://engineering.linkedin.com/blog/2019/data-hub
 
 ## Dagster
 
@@ -50,11 +50,11 @@ Data applications built with Dagster will have the following properties:
 - A typed configuration system, which enables high-quality error messages and tooling support, such as the config editor provided within Dagit.
 - Targets existing computational infrastructure - e.g. Kubernetes, Airflow, Dask, FaaS platforms, etc - for scheduling and execution in a pluggable fashion. Airflow and Dask initially supported.
 
-<https://dagster.readthedocs.io/en/0.6.6>
+https://dagster.readthedocs.io/en/0.6.6
 
-<https://medium.com/dagster-io/introducing-dagster-dbd28442b2b7>
+https://medium.com/dagster-io/introducing-dagster-dbd28442b2b7
 
-<https://dagster.readthedocs.io/en/stable/sections/learn/tutorial/index.html>
+https://dagster.readthedocs.io/en/stable/sections/learn/tutorial/index.html
 
 [Dagster: A New Programming Model for Data Processing | Elementl](https://www.youtube.com/watch?v=D_1VJapCscc)
 
@@ -62,21 +62,21 @@ Data applications built with Dagster will have the following properties:
 
 Dremel is a scalable, interactive ad-hoc query system for analysis of read-only nested data. By combining multi-level execution trees and columnar data layout, it is capable of running aggregation queries over trillion-row tables in seconds. The system scales to thousands of CPUs and petabytes of data, and has thousands of users at Google.
 
-<https://ai.google/research/pubs/pub36632>
+https://ai.google/research/pubs/pub36632
 
 ## Dremio - The missing link in data lakes
 
 ## Talend
 
-<https://www.talend.com>
+https://www.talend.com
 
-<https://www.youtube.com/watch?v=bqa0kB59SUc>
+https://www.youtube.com/watch?v=bqa0kB59SUc
 
 ## DVC
 
 [DVC](https://dvc.org/) stands for "data version control". This project invites data scientists and engineers to a Git-inspired world, where all workflow versions are tracked, along with all the data artifacts and models, as well as associated metrics.
 
-<https://dvc.org>
+https://dvc.org
 
 ## DBT
 
@@ -90,7 +90,7 @@ dbt is a SQL-first transformation workflow that lets teams quickly and collabora
 
 ![](../../../media/Pasted%20image%2020230308224127.png)
 
-<https://www.getdbt.com>
+https://www.getdbt.com
 
 [What is dbt?](https://www.getdbt.com/product/what-is-dbt/)
 

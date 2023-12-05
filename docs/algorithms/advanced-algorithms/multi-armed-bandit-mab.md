@@ -9,4 +9,4 @@ Bandit algorithms or samplers, are a means of testing and optimising variant all
 - Thompson sampling (TS)
 - epsilon-greedy algorithm
 
-<https://towardsdatascience.com/solving-multiarmed-bandits-a-comparison-of-epsilon-greedy-and-thompson-sampling-d97167ca9a50>
+https://towardsdatascience.com/solving-multiarmed-bandits-a-comparison-of-epsilon-greedy-and-thompson-sampling-d97167ca9a50

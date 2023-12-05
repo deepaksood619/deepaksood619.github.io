@@ -10,21 +10,21 @@ By encapsulating shard-routing logic, Vitess allows application code and databas
 
 ![image](../../media/Technologies-Tools-image1.jpg)
 
-<https://github.com/vitessio/vitess>
+https://github.com/vitessio/vitess
 
-<https://vitess.io>
+https://vitess.io
 
-<https://www.planetscale.com/blog/videos-intro-to-vitess-its-powerful-capabilities-and-how-to-get-started>
+https://www.planetscale.com/blog/videos-intro-to-vitess-its-powerful-capabilities-and-how-to-get-started
 
 [PlanetScale: The world’s most advanced database platform](https://planetscale.com/)
 
 ## MySQL Workbench / MySQLWorkbench
 
-<https://dev.mysql.com/doc/workbench/en/wb-performance-explain.html>
+https://dev.mysql.com/doc/workbench/en/wb-performance-explain.html
 
-<https://www.mysql.com/products/workbench>
+https://www.mysql.com/products/workbench
 
-<https://dev.to/realtrevorfaux/8-new-sql-tools-that-will-change-how-you-work-in-2020-n63>
+https://dev.to/realtrevorfaux/8-new-sql-tools-that-will-change-how-you-work-in-2020-n63
 
 - Preferences > SQL Editor > DBMS connection read timeout interval (in seconds) > 3000
 - Edit>Format>Beautify Query - Shortcut - `CMD+B`
@@ -37,7 +37,7 @@ By encapsulating shard-routing logic, Vitess allows application code and databas
 
 ## NoSQL Workbench
 
-<https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/workbench.html>
+https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/workbench.html
 
 ## DBeaver - Universal Database Tool
 
@@ -58,9 +58,9 @@ Having usability as its main goal, DBeaver offers:
 - Great number of features
 - Multiplatform support
 
-<https://dbeaver.io>
+https://dbeaver.io
 
-<https://github.com/dbeaver/dbeaver>
+https://github.com/dbeaver/dbeaver
 
 ### Shortcuts
 
@@ -88,7 +88,7 @@ Analytics, Data Lakes and Data Warehouses Unified in the Cloud
 
 Datastage is an ETL tool which extracts data, transform and load data from source to the target. The data sources might include sequential files, indexed files, relational databases, external data sources, archives, enterprise applications, etc. DataStage facilitates business analysis by providing quality data to help in gaining business intelligence.
 
-<https://www.guru99.com/datastage-tutorial.html>
+https://www.guru99.com/datastage-tutorial.html
 
 ## Liquibase
 
@@ -113,7 +113,7 @@ Track which changes have or have not been deployed
 
 - commands - liquibase update
 
-<https://www.liquibase.org>
+https://www.liquibase.org
 
 #### Fixing Forward
 
@@ -129,7 +129,7 @@ Teams can become more agile with their development for database code, making it 
 
 The fix forward method works best when changes are broken into small chunks that are deployed independently and automatically. If you're starting from a software development environment where you have one years' worth of work about to deploy, this may not be the approach you adopt right now. However, there are tools that can help you break up your database scripts and schema changes into small, trackable chunks that make this approach much more accessible to companies that are ready to try this out.
 
-<https://www.liquibase.com/blog/roll-back-database-fix-forward>
+https://www.liquibase.com/blog/roll-back-database-fix-forward
 
 ## Jepsen
 

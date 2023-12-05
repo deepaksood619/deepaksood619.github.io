@@ -81,11 +81,11 @@ The number we multiply with itself is called the **base**.The number of times we
 - Square and Multiply algorithm
 - Binary Exponentiation
 
-<https://www.youtube.com/watch?v=BfNlzdFa_a4&ab_channel=mCoding>
+https://www.youtube.com/watch?v=BfNlzdFa_a4&ab_channel=mCoding
 
 ## References
 
-<https://medium.com/i-math/understanding-logarithms-and-roots-2fee92c3317f># Logarithms
+https://medium.com/i-math/understanding-logarithms-and-roots-2fee92c3317f# Logarithms
 
 thelogarithmis the [inverse operation](https://en.wikipedia.org/wiki/Inverse_operation) to [exponentiation](https://en.wikipedia.org/wiki/Exponentiation), just as division is the inverse of multiplication. That means the logarithm of a number is the [exponent](https://en.wikipedia.org/wiki/Exponent) to which another fixed number, the [base](https://en.wikipedia.org/wiki/Base_(exponentiation)), must be raised to produce that number.
 What if we wanted to solve for the exponent in an exponential equation? In other words, we want to reverse the exponentiation. For example, what is the solution to this problem?
@@ -167,4 +167,4 @@ To avoid the need for separate tables to convert positive and negative logarithm
 
 ![image](../../media/2.7.-Exponential-&-logarithms-image8.jpg)
 
-<https://en.wikipedia.org/wiki/Common_logarithm>
+https://en.wikipedia.org/wiki/Common_logarithm

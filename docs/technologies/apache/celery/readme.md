@@ -85,13 +85,13 @@ This is because the deployment engineer/Devops engineer should be the only perso
 
 In the Django world, you can use celerybeat to configure your crons using celery workers.
 
-<https://docs.celeryproject.org/en/latest/userguide/periodic-tasks.html>
+https://docs.celeryproject.org/en/latest/userguide/periodic-tasks.html
 
-<https://django-celery-beat.readthedocs.io/en/latest>
+https://django-celery-beat.readthedocs.io/en/latest
 
-<https://markgituma.medium.com/kubernetes-local-to-production-with-django-4-celery-with-redis-and-flower-df48ab9896b7>
+https://markgituma.medium.com/kubernetes-local-to-production-with-django-4-celery-with-redis-and-flower-df48ab9896b7
 
-<https://testdriven.io/blog/django-celery-periodic-tasks>
+https://testdriven.io/blog/django-celery-periodic-tasks
 
 ## User Guide
 
@@ -131,14 +131,14 @@ Full journey for a single request is:
 
 ## References
 
-<http://www.celeryproject.org>
+http://www.celeryproject.org
 
-<http://eventlet.net>
+http://eventlet.net
 
-<https://django-celery.readthedocs.io/en/2.4/introduction.html>
+https://django-celery.readthedocs.io/en/2.4/introduction.html
 
-<https://medium.com/squad-engineering/two-years-with-celery-in-production-bug-fix-edition-22238669601d>
+https://medium.com/squad-engineering/two-years-with-celery-in-production-bug-fix-edition-22238669601d
 
-<https://docs.celeryproject.org/projects/celery-enhancement-proposals/en/latest/draft/high-level-architecture.html>
+https://docs.celeryproject.org/projects/celery-enhancement-proposals/en/latest/draft/high-level-architecture.html
 
 [The Many Problems with Celery | Log Blog Kebab](https://steve.dignam.xyz/2023/05/20/many-problems-with-celery/)

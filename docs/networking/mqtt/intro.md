@@ -52,7 +52,7 @@ The MQTT protocol was invented in 1999 by Andy Stanford-Clark (IBM) and Arlen Ni
 ## References
 
 - [MQTT Essentials - All Core Concepts Explained](https://www.hivemq.com/mqtt/)
-- <https://www.hivemq.com/blog/mqtt-essentials-part-1-introducing-mqtt>
+- https://www.hivemq.com/blog/mqtt-essentials-part-1-introducing-mqtt
 - [Message Oriented Architecture (MOM)](computer-science/system-design/message-oriented-architecture-mom.md)
 - Getting started with MQTT by DZone Refcardz
-- <https://www.hivemq.com/blog/6-facts-why-its-worth-upgrading-to-mqtt-3-1-1>
+- https://www.hivemq.com/blog/6-facts-why-its-worth-upgrading-to-mqtt-3-1-1

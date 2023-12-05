@@ -8,7 +8,7 @@ aligning identity with management and governance frameworks
 
 Non people identities
 
-<https://pages.awscloud.com/awsmp-h2-sec-digital-workspace-iam-ty.html>
+https://pages.awscloud.com/awsmp-h2-sec-digital-workspace-iam-ty.html
 
 ## Gotchas
 
@@ -119,7 +119,7 @@ A great way to create a customer managed policy is to start by copying an existi
 
 An inline policy is a policy that's embedded in an IAM identity (a user, group, or role). That is, the policy is an inherent part of the identity. You can create a policy and embed it in a identity, either when you create the identity or later.
 
-<https://docs.aws.amazon.com/IAM/latest/UserGuide/access_policies_managed-vs-inline.html>
+https://docs.aws.amazon.com/IAM/latest/UserGuide/access_policies_managed-vs-inline.html
 
 ## IAM Roles
 
@@ -127,7 +127,7 @@ An IAMroleis an IAM identity that you can create in your account that has specif
 
 You can use roles to delegate access to users, applications, or services that don't normally have access to your AWS resources. For example, you might want to grant users in your AWS account access to resources they don't usually have, or grant users in one AWS account access to resources in another account. Or you might want to allow a mobile app to use AWS resources, but not want to embed AWS keys within the app (where they can be difficult to rotate and where users can potentially extract them). Sometimes you want to give AWS access to users who already have identities defined outside of AWS, such as in your corporate directory. Or, you might want to grant access to your account to third parties so that they can perform an audit on your resources.
 
-<https://docs.aws.amazon.com/IAM/latest/UserGuide/id_roles.html>
+https://docs.aws.amazon.com/IAM/latest/UserGuide/id_roles.html
 
 ## Job functions
 
@@ -142,7 +142,7 @@ You can use roles to delegate access to users, applications, or services that do
 - [System Administrator](https://docs.aws.amazon.com/IAM/latest/UserGuide/access_policies_job-functions.html#jf_system-administrator)
 - [View-Only User](https://docs.aws.amazon.com/IAM/latest/UserGuide/access_policies_job-functions.html#jf_view-only-user)
 
-<https://docs.aws.amazon.com/IAM/latest/UserGuide/access_policies_job-functions.html>
+https://docs.aws.amazon.com/IAM/latest/UserGuide/access_policies_job-functions.html
 
 ## ManagedPolicies
 
@@ -154,11 +154,11 @@ As a service that is accessed through computers in data centers around the world
 
 You must design your global applications to account for these potential delays. Ensure that they work as expected, even when a change made in one location is not instantly visible at another. Such changes include creating or updating users, groups, roles, or policies. We recommend that you do not include such IAM changes in the critical, high-availability code paths of your application. Instead, make IAM changes in a separate initialization or setup routine that you run less frequently. Also, be sure to verify that the changes have been propagated before production workflows depend on them.
 
-<https://docs.aws.amazon.com/IAM/latest/UserGuide/troubleshoot_general.html>
+https://docs.aws.amazon.com/IAM/latest/UserGuide/troubleshoot_general.html
 
 ## Web Identity Federation
 
-<https://docs.aws.amazon.com/IAM/latest/UserGuide/id_roles_providers_oidc.html>
+https://docs.aws.amazon.com/IAM/latest/UserGuide/id_roles_providers_oidc.html
 
 ## Notes
 
@@ -171,7 +171,7 @@ You must design your global applications to account for these potential delays. 
 - Resiliency built in for multi part upload
 - Amazon s3 transfer acceleration
 
-<https://www.freecodecamp.org/news/aws-iam-explained>
+https://www.freecodecamp.org/news/aws-iam-explained
 
 ## IAM > Roles > Identity Providers and Federation
 
@@ -181,7 +181,7 @@ When you use an IAM identity provider, you don't have to create custom sign-in c
 
 To use an IdP, you create an IAM identity provider entity to establish a trust relationship between your AWS account and the IdP. IAM supports IdPs that are compatible with [OpenID Connect (OIDC)](http://openid.net/connect/) or [SAML 2.0 (Security Assertion Markup Language 2.0)](https://wiki.oasis-open.org/security)
 
-<https://docs.aws.amazon.com/IAM/latest/UserGuide/id_roles_providers.html>
+https://docs.aws.amazon.com/IAM/latest/UserGuide/id_roles_providers.html
 
 ## Others
 

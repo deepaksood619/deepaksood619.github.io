@@ -55,7 +55,7 @@ Up to 10 BFILES can be opened simultaneously in one session.
 
 ## References
 
-- <https://www.geeksforgeeks.org/types-of-large-objectslobs>
-- <https://www.geeksforgeeks.org/introducing-lob-locators>
-- <https://www.geeksforgeeks.org/basic-operations-and-working-of-lob>
-- <https://www.geeksforgeeks.org/large-objectslobs-for-semi-structured-and-unstructured-data>
+- https://www.geeksforgeeks.org/types-of-large-objectslobs
+- https://www.geeksforgeeks.org/introducing-lob-locators
+- https://www.geeksforgeeks.org/basic-operations-and-working-of-lob
+- https://www.geeksforgeeks.org/large-objectslobs-for-semi-structured-and-unstructured-data

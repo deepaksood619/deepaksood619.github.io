@@ -73,4 +73,4 @@ Sodium is a necessary mineral. But health organizations typically recommend that
 | Protein | About 15% of total calories |
 | Fiber | The Institute of Medicine recommends: men 50 years and younger get 38 grams per day, women 50 and younger get 25 grams per day, men over 50 get 30 grams per day, women over 50 get 21 grams per day |
 
-<https://en.wikipedia.org/wiki/Dietary_Reference_Intake>
+https://en.wikipedia.org/wiki/Dietary_Reference_Intake

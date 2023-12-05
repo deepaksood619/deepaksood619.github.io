@@ -256,6 +256,6 @@ Poll.objects.get(
 
 ### References
 
-<https://docs.djangoproject.com/en/2.0/ref/models/querysets>
+https://docs.djangoproject.com/en/2.0/ref/models/querysets
 
-<https://docs.djangoproject.com/en/2.0/topics/db/queries>
+https://docs.djangoproject.com/en/2.0/topics/db/queries

@@ -52,4 +52,4 @@
 
 11. Conic sections
 
-<https://www.freecodecamp.org/news/learn-algebra-to-improve-your-programming-skills>
+https://www.freecodecamp.org/news/learn-algebra-to-improve-your-programming-skills

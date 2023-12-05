@@ -26,9 +26,9 @@ However, if the data is already in wire format, we can bypass user space entirel
 
 ## Other Optimizations - Messages batching & Compression
 
-<https://en.wikipedia.org/wiki/Zero-copy>
+https://en.wikipedia.org/wiki/Zero-copy
 
-<https://bravenewgeek.com/building-a-distributed-log-from-scratch-part-1-storage-mechanics>
+https://bravenewgeek.com/building-a-distributed-log-from-scratch-part-1-storage-mechanics
 
 ## Concepts
 
@@ -118,9 +118,9 @@ The basic storage unit of Kafka is a partition replica.
     - **Incrementalbecause the final desired state of rebalancing is reached in stages. A globally balanced final state does not have to be reached at the end of each round of rebalancing. A small number of consecutive rebalancing rounds can be used in order for the group of Kafka clients to converge to the desired state of balanced resources. In addition, you can configure a grace period to allow a departing member to return and regain its previously assigned resources.**
     - **Cooperativebecause each process in the group is asked to voluntarily release resources that need to be redistributed. These resources are then made available for rescheduling given that the client that was asked to release them does so on time**
 
-<https://www.confluent.io/blog/incremental-cooperative-rebalancing-in-kafka>
+https://www.confluent.io/blog/incremental-cooperative-rebalancing-in-kafka
 
-<https://medium.com/streamthoughts/apache-kafka-rebalance-protocol-or-the-magic-behind-your-streams-applications-e94baf68e4f2>
+https://medium.com/streamthoughts/apache-kafka-rebalance-protocol-or-the-magic-behind-your-streams-applications-e94baf68e4f2
 
 ## Compression
 
@@ -136,7 +136,7 @@ In Kafka compression, multiple messages are bundled and compressed. Then the com
 
 There are tradeoffs with enabling compression that should be considered. Compression, of course, saves space needed for data storage. On the other hand, it consumes extra computing resources, namely CPU cycles and memory, to perform compression. The use of compression should be therefore decided with consideration of the balance of cost and benefit. To make the compression applicable to wider usages of Kafka, we set out to improve Kafka compression support by reducing the cost.
 
-<https://www.confluent.io/blog/compression-in-apache-kafka-is-now-34-percent-faster>
+https://www.confluent.io/blog/compression-in-apache-kafka-is-now-34-percent-faster
 
 ## Others
 
@@ -149,6 +149,6 @@ Another caveat with Kafka is unclean leader elections. That is, if all replicas 
 
 ## References
 
-<http://cloudurable.com/blog/what-is-kafka/index.html>
+http://cloudurable.com/blog/what-is-kafka/index.html
 
-<https://medium.com/swlh/why-kafka-is-so-fast-bde0d987cd03>
+https://medium.com/swlh/why-kafka-is-so-fast-bde0d987cd03

@@ -19,7 +19,7 @@ A [multicast address](https://en.wikipedia.org/wiki/Multicast_address) is associ
 
 Like broadcast and multicast, [anycast](https://en.wikipedia.org/wiki/Anycast) is a one-to-many routing topology. However, the data stream is not transmitted to all receivers, just the one which the router decides is closest in the network. Anycast addressing is an built-in feature of IPv6.In IPv4, anycast addressing is implemented with [Border Gateway Protocol](https://en.wikipedia.org/wiki/Border_Gateway_Protocol) using the shortest-path [metric](https://en.wikipedia.org/wiki/Metrics_(networking)) to choose destinations. Anycast methods are useful for global load balancing and are commonly used in distributed [DNS](https://en.wikipedia.org/wiki/Domain_name_system) systems.
 
-<https://en.wikipedia.org/wiki/IP_address>
+https://en.wikipedia.org/wiki/IP_address
 
 ## Routing Table
 
@@ -39,7 +39,7 @@ Depending on the application and implementation, it can also contain additional 
 
 Routing tables are also a key aspect of certain security operations, such as [unicast reverse path forwarding](https://en.wikipedia.org/wiki/Unicast_reverse_path_forwarding) (uRPF). In this technique, which has several variants, the router also looks up, in the routing table, thesource addressof the packet. If there exists no route back to the source address, the packet is assumed to be malformed or involved in a network attack, and is dropped.
 
-<https://en.wikipedia.org/wiki/Routing_table>
+https://en.wikipedia.org/wiki/Routing_table
 
 ## Forwarding Table
 
@@ -81,7 +81,7 @@ The Quagga architecture consists of a core daemon, zebra, which acts as an abstr
 
 Quagga daemons are each configurable via a network accessible CLI (called a 'vty'). The CLI follows a style similar to that of other routing software. There is an additional tool included with Quagga called 'vtysh', which acts as a single cohesive front-end to all the daemons, allowing one to administer nearly all aspects of the various Quagga daemons in one place.
 
-<https://www.quagga.net>
+https://www.quagga.net
 
 ## Administrative Distance
 
@@ -89,10 +89,10 @@ Administrative distance (AD)orroute preferenceis a number of [arbitrary unit](ht
 
 Router vendors typically design their routers to assign a default administrative distance to each kind of route. For example Cisco routers, routes issued by [OSPF](https://en.wikipedia.org/wiki/OSPF) have a lower default administrative distance than routes issued by the [Routing Information Protocol](https://en.wikipedia.org/wiki/Routing_Information_Protocol). By default, OSPF has a default administrative distance of 110 and RIP has a default administrative distance of 120. Administrative distance values can, however, usually be adjusted manually by a [network administrator](https://en.wikipedia.org/wiki/Network_administrator).
 
-<https://en.wikipedia.org/wiki/Administrative_distance>
+https://en.wikipedia.org/wiki/Administrative_distance
 
 ## Virtual Routing and Forwarding (VRF)
 
 In [IP-based](https://en.wikipedia.org/wiki/Internet_Protocol)[computer networks](https://en.wikipedia.org/wiki/Computer_network), virtual routing and forwarding(VRF) is a technology that allows multiple instances of a [routing table](https://en.wikipedia.org/wiki/Routing_table) to co-exist within the same router at the same time. One or more logical or physical interfaces may have a VRF and these VRFs do not share routes therefore the packets are only forwarded between interfaces on the same VRF. VRFs are the [TCP/IP](https://en.wikipedia.org/wiki/Internet_Protocol) layer 3 equivalent of a [VLAN](https://en.wikipedia.org/wiki/VLAN). Because the routing instances are independent, the same or overlapping [IP addresses](https://en.wikipedia.org/wiki/IP_address) can be used without conflicting with each other. Network functionality is improved because network paths can be segmented without requiring multiple routers.
 
-<https://en.wikipedia.org/wiki/Virtual_routing_and_forwarding>
+https://en.wikipedia.org/wiki/Virtual_routing_and_forwarding

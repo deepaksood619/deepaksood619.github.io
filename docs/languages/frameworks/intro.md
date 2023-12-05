@@ -38,4 +38,4 @@ Web Application Framework or simply Web Framework represents a collection of lib
 - Imperative declaration
 - Language integrated declaration
 
-<https://blog.startifact.com/posts/framework-patterns.html>
+https://blog.startifact.com/posts/framework-patterns.html

@@ -23,7 +23,7 @@ Royal Institution - [Is Obesity a Choice? - with Giles Yeo](https://www.youtube.
   - Sedentary life = Lower TEE
   - Active life = higher TEE
 
-<https://www.bbc.com/future/article/20170601-the-secret-to-a-long-and-healthy-life-eat-less>
+https://www.bbc.com/future/article/20170601-the-secret-to-a-long-and-healthy-life-eat-less
 
 - Carolie Restriction - 30% less
 

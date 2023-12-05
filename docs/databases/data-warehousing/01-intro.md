@@ -6,7 +6,7 @@ The data stored in the warehouse is [uploaded](https://en.wikipedia.org/wiki/Upl
 
 [Extract, transform, load](https://en.wikipedia.org/wiki/Extract,_transform,_load) (ETL) and [Extract, load, transform](https://en.wikipedia.org/wiki/Extract,_load,_transform) (E-LT) are the two main approaches used to build a data warehouse system.
 
-<https://en.wikipedia.org/wiki/Data_warehouse>
+https://en.wikipedia.org/wiki/Data_warehouse
 
 ## Data Warehouse vs Database
 
@@ -81,18 +81,18 @@ Data warehouse functions as a repository. It helps organizations avoid the cost 
 
 ## Reference
 
-<https://dzone.com/refcardz/data-warehousing>
+https://dzone.com/refcardz/data-warehousing
 
-<http://www.oracle.com/webfolder/technetwork/tutorials/obe/db/10g/r2/owb/owb10gr2_gs/owb/lesson3/slowlychangingdimensions.htm>
+http://www.oracle.com/webfolder/technetwork/tutorials/obe/db/10g/r2/owb/owb10gr2_gs/owb/lesson3/slowlychangingdimensions.htm
 
-<https://medium.com/@rchang/a-beginners-guide-to-data-engineering-part-ii-47c4e7cbda71>
+https://medium.com/@rchang/a-beginners-guide-to-data-engineering-part-ii-47c4e7cbda71
 
-<https://medium.com/@rchang/a-beginners-guide-to-data-engineering-the-series-finale-2cc92ff14b0>
+https://medium.com/@rchang/a-beginners-guide-to-data-engineering-the-series-finale-2cc92ff14b0
 
-<https://www.tutorialspoint.com/dwh/index.htm>
+https://www.tutorialspoint.com/dwh/index.htm
 
-<https://www.guru99.com/data-warehouse-architecture.html>
+https://www.guru99.com/data-warehouse-architecture.html
 
-<https://aws.amazon.com/data-warehouse>
+https://aws.amazon.com/data-warehouse
 
 [Data Warehouse Concepts: Kimball vs. Inmon Approach | Astera](https://www.astera.com/type/blog/data-warehouse-concepts/)

@@ -10,7 +10,7 @@
 2. dataclasses
 3. **ordered dictionaries by default** (OrderedDict**preserves the order**in which the keys are inserted. A regular dict doesn't track the insertion order, and iterating it gives the values in an arbitrary order. By contrast, the order the items are inserted is remembered by OrderedDict.)
 
-<https://docs.python.org/3/whatsnew/3.7.html>
+https://docs.python.org/3/whatsnew/3.7.html
 
 ## Why to move to Python3.7
 
@@ -47,7 +47,7 @@
 7. Data Classes (3.7+)
 8. Implicit namespace packages (3.3+)
 
-<https://datawhatnow.com/things-you-are-probably-not-using-in-python-3-but-should>
+https://datawhatnow.com/things-you-are-probably-not-using-in-python-3-but-should
 
 ## Python 3.8
 
@@ -91,7 +91,7 @@ func(a='foobar') # This raises
 
 ## Runtime Audit Hooks
 
-<https://docs.python.org/3/whatsnew/3.8.html>
+https://docs.python.org/3/whatsnew/3.8.html
 
 ## Python 3.9
 

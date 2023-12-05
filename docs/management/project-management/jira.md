@@ -36,7 +36,7 @@ Confluence is a knowledge base, or wiki, that stores and organizes all of your i
 - Issue Statistics
 - Issues Calendar
 
-<https://confluence.atlassian.com/jiracore/blog/2015/08/5-steps-to-a-killer-jira-dashboard>
+https://confluence.atlassian.com/jiracore/blog/2015/08/5-steps-to-a-killer-jira-dashboard
 
 ## JIRA Reports
 
@@ -65,4 +65,4 @@ Confluence is a knowledge base, or wiki, that stores and organizes all of your i
 - Only available on the Cloudplatform.By default, any licensed user can create these projects. You can change that if you need (see below).
 - Come with a new roadmap that improves your ability to plan long-term and share your plans with stakeholders
 
-<https://www.atlassian.com/software/jira/guides/getting-started/best-practices>
+https://www.atlassian.com/software/jira/guides/getting-started/best-practices

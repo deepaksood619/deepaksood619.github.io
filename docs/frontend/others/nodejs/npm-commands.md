@@ -2,7 +2,7 @@
 
 npx - npm package runner
 
-<https://www.freecodecamp.org/news/npm-vs-npx-whats-the-difference>
+https://www.freecodecamp.org/news/npm-vs-npx-whats-the-difference
 
 ## To install all dependencies
 
@@ -71,7 +71,7 @@ Nodemon is a utility that will monitor for any changes in your source and automa
 - jsonwebtoken
 - cors
 - express-jwt
-- <https://www.npmjs.com/package/redis>
+- https://www.npmjs.com/package/redis
 - npm install gray-matter
 
 ## nvm (Node Version Manager)
@@ -82,9 +82,9 @@ nvm allows you to quickly install and use different versions of node via the com
 
 Install using zsh instead of homebrew on macos
 
-<https://github.com/nvm-sh/nvm#troubleshooting-on-macos>
+https://github.com/nvm-sh/nvm#troubleshooting-on-macos
 
-<https://github.com/nvm-sh/nvm>
+https://github.com/nvm-sh/nvm
 
 ### Commands
 
@@ -128,13 +128,13 @@ yarn outdated
 
 Fast, disk space efficient package manager
 
-<https://pnpm.io>
+https://pnpm.io
 
-<https://github.com/pnpm/pnpm>
+https://github.com/pnpm/pnpm
 
 ### pnpx (npx for pnpm)
 
-<https://pnpm.io/pnpx-cli>
+https://pnpm.io/pnpx-cli
 
 ## index.js
 
@@ -163,4 +163,4 @@ app.listen(PORT, () => {
 // npm install body-parser
 ```
 
-<https://blog.bitsrc.io/understanding-json-web-token-authentication-a1febf0e15>
+https://blog.bitsrc.io/understanding-json-web-token-authentication-a1febf0e15

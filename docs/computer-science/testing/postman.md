@@ -2,14 +2,14 @@
 
 ## Fake API REST Mocks Server Tests
 
-- <https://reqres.in>
-- <http://example.com>
+- https://reqres.in
+- http://example.com
 - [**https://jsonplaceholder.typicode.com/**](https://jsonplaceholder.typicode.com/)
-- <https://fakerapi.it/api/v1/persons?_quantity=1>
-- <https://github.com/n0shake/Public-APIs>
+- https://fakerapi.it/api/v1/persons?_quantity=1
+- https://github.com/n0shake/Public-APIs
 - [http://slowwly.robertomurray.co.uk/delay/3000/url/http://www.google.co.uk](http://slowwly.robertomurray.co.uk/delay/3000/url/http:/www.google.co.uk)
 - [**https://fakestoreapi.com/**](https://fakestoreapi.com/)
-- <https://anapioficeandfire.com>
+- https://anapioficeandfire.com
 
 ## Local Infra Mock
 
@@ -29,25 +29,25 @@ Use this endpoint for testing : http://localhost:9000
 
 ## Public APIs
 
-<https://github.com/public-apis/public-apis>
+https://github.com/public-apis/public-apis
 
-<https://anapioficeandfire.com>
+https://anapioficeandfire.com
 
 [**https://httpdump.io/**](https://httpdump.io/)
 
-<https://github.com/typicode/json-server>
+https://github.com/typicode/json-server
 
-<https://my-json-server.typicode.com>
+https://my-json-server.typicode.com
 
 ## API Marketplace
 
-<https://www.programmableweb.com>
+https://www.programmableweb.com
 
-<https://rapidapi.com>
+https://rapidapi.com
 
 ## Postman VScode
 
-- Thunder Client - <https://www.thunderclient.com>
+- Thunder Client - https://www.thunderclient.com
 
 ## Variables
 
@@ -60,7 +60,7 @@ Postman supports the following variable scopes:
 - Data
 - Local
 
-<https://learning.postman.com/docs/postman/variables-and-environments/variables>
+https://learning.postman.com/docs/postman/variables-and-environments/variables
 
 ## Environments
 
@@ -76,28 +76,28 @@ Examples of dynamic variables are as follows:
 - {{$timestamp}}: The current timestamp (Unix timestamp in seconds)
 - {{$randomInt}}: A random integer between 0 and 1000
 - {{$randomPhoneNumber}}
-<https://learning.postman.com/docs/postman/variables-and-environments/variables/#using-dynamic-variables>
+https://learning.postman.com/docs/postman/variables-and-environments/variables/#using-dynamic-variables
 
 ## Runner
 
 The Collection Runner allows you to run sets of requests in a specified sequence. The Collection Runner will log your request test results, and your scripts can pass data between requests as well as altering the request workflow.
 You can run collections against specific environments, and can pass data files into a run. Collection runs allow you to automate your API testing, and you can schedule runs using monitors. You can integrate collection runs to your CI/CD pipeline using Postman's CLI Newman.
 
-<https://learning.postman.com/docs/running-collections/intro-to-collection-runs>
+https://learning.postman.com/docs/running-collections/intro-to-collection-runs
 
 ## Mock Server
 
 ## Monitoring
 
-<https://medium.com/aubergine-solutions/api-testing-using-postman-323670c89f6d>
+https://medium.com/aubergine-solutions/api-testing-using-postman-323670c89f6d
 
-<https://www.guru99.com/api-testing.html>
+https://www.guru99.com/api-testing.html
 
 ## Newman
 
 Newman is a command line Collection Runner for Postman. It allows you to run and test a Postman Collection directly from the command line. It is built with extensibility in mind so that you can easily integrate it with your continuous integration servers and build systems.
 
-<https://learning.postman.com/docs/running-collections/using-newman-cli/command-line-integration-with-newman>
+https://learning.postman.com/docs/running-collections/using-newman-cli/command-line-integration-with-newman
 
 ## Pre-Request Script
 
@@ -130,13 +130,13 @@ pm.variables.get("variable_key");
 
 ## Alternatives
 
-Hoppscotch - <https://github.com/hoppscotch/hoppscotch>
+Hoppscotch - https://github.com/hoppscotch/hoppscotch
 
-<https://hypertest.co>
+https://hypertest.co
 
 ## Others
 
-<https://www.freecodecamp.org/news/what-is-an-api-and-how-to-test-it>
+https://www.freecodecamp.org/news/what-is-an-api-and-how-to-test-it
 
 [Testing your APIs with Postman and Newman](https://www.youtube.com/watch?v=fTtA9qXkNAk)
 

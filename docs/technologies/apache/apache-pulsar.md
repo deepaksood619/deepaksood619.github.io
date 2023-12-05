@@ -26,12 +26,12 @@ Pulsar generalizes these two messaging concepts through one unified messaging AP
 
 ## References
 
-<http://pulsar.apache.org>
+http://pulsar.apache.org
 
-<https://streaml.io/blog/pulsar-streaming-queuing>
+https://streaml.io/blog/pulsar-streaming-queuing
 
-<https://streaml.io/blog/why-apache-pulsar>
+https://streaml.io/blog/why-apache-pulsar
 
-<https://medium.com/swlh/performance-comparison-between-apache-pulsar-and-kafka-latency-79fb0367f407>
+https://medium.com/swlh/performance-comparison-between-apache-pulsar-and-kafka-latency-79fb0367f407
 
 [Apache Pulsar: The Next Gen Messaging & Queuing System • Karthik Ramasamy • YOW! 2020 - YouTube](https://www.youtube.com/watch?v=_SSFM7FTI8A)

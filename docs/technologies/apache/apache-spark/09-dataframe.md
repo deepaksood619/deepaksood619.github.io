@@ -89,7 +89,7 @@ df = df.withColumn("col_name", col("col_name").cast(IntegerType())) \
 
 [Difference Between Spark DataFrame and Pandas DataFrame - GeeksforGeeks](https://www.geeksforgeeks.org/difference-between-spark-dataframe-and-pandas-dataframe/)
 
-[Pandas vs PySpark DataFrame With Examples - Spark By {Examples}](https://sparkbyexamples.com/pyspark/pandas-vs-pyspark-dataframe-with-examples/)
+[Pandas vs PySpark DataFrame With Examples - Spark By Examples](https://sparkbyexamples.com/pyspark/pandas-vs-pyspark-dataframe-with-examples/)
 
 ## Spark collect
 
@@ -103,4 +103,4 @@ Usually, collect() is used to retrieve the action output when you have very smal
 
 `select()` is a transformation that returns a new DataFrame and holds the columns that are selected whereas collect() is an action that returns the entire data set in an Array to the driver.
 
-[PySpark Collect() - Retrieve data from DataFrame - Spark By {Examples}](https://sparkbyexamples.com/pyspark/pyspark-collect/)
+[PySpark Collect() - Retrieve data from DataFrame - Spark By Examples](https://sparkbyexamples.com/pyspark/pyspark-collect/)

@@ -16,7 +16,7 @@ if x <= y <= z:
 
 ### Use the falsy and truthy concept
 
-<https://www.freecodecamp.org/news/truthy-and-falsy-values-in-python>
+https://www.freecodecamp.org/news/truthy-and-falsy-values-in-python
 
 ### Ternary Operator replacement
 
@@ -131,4 +131,4 @@ if __name__ == '__main__':
 print('\n'.join([a for a,b in sorted(marksheet) if b == second_highest]))
 ```
 
-<https://www.codementor.io/johnpaulseremba/idiomatic-python-coding-the-smart-way-fmc4fmtm5?utm_swu=3470>
+https://www.codementor.io/johnpaulseremba/idiomatic-python-coding-the-smart-way-fmc4fmtm5?utm_swu=3470

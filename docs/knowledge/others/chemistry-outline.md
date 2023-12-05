@@ -50,7 +50,7 @@
 - [Theoretical chemistry](https://en.wikipedia.org/wiki/Theoretical_chemistry)
 - [Thermochemistry](https://en.wikipedia.org/wiki/Thermochemistry)
 
-<https://www.youtube.com/watch?v=P3RXtoYCW4M&ab_channel=DoS-DomainofScience>
+https://www.youtube.com/watch?v=P3RXtoYCW4M&ab_channel=DoS-DomainofScience
 
 [Hydrogen to Oganesson | Every Single Element! | SCIENCE](https://youtu.be/i6jc3f5tseI)
 

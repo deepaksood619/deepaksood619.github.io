@@ -72,7 +72,7 @@ Then, looking after your soul. No one can possibly treat your soul but you yours
 
 How we judge others is how we judge overselves
 
-<https://getpocket.com/explore/item/how-we-judge-others-is-how-we-judge-ourselves>
+https://getpocket.com/explore/item/how-we-judge-others-is-how-we-judge-ourselves
 
 Sisyphus: a legendary king of Corinth condemned eternally to repeatedly roll a heavy rock up a hill in Hades only to have it roll down again as it nears the top
 

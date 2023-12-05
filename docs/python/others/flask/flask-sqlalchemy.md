@@ -1,8 +1,8 @@
 # Flask-sqlalchemy
 
-<https://github.com/pallets/flask-sqlalchemy>
+https://github.com/pallets/flask-sqlalchemy
 
-<https://courses.prettyprinted.com/courses/1016334/lectures/21156810>
+https://courses.prettyprinted.com/courses/1016334/lectures/21156810
 
 [**https://towardsdatascience.com/use-flask-and-sqlalchemy-not-flask-sqlalchemy-5a64fafe22a4**](https://towardsdatascience.com/use-flask-and-sqlalchemy-not-flask-sqlalchemy-5a64fafe22a4)
 

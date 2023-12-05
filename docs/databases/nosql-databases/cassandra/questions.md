@@ -1,6 +1,6 @@
 # Questions
 
-<https://www.edureka.co/blog/interview-questions/cassandra-interview-questions>
+https://www.edureka.co/blog/interview-questions/cassandra-interview-questions
 Which of the following is *not* a feature of Cassandra?
 
 - No single point of failure

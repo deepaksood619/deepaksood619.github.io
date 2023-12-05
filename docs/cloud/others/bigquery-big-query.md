@@ -22,9 +22,9 @@
 - Keeping less state in processing nodes makes workloads more resilient to individual node issues.
 - The service can utilize available resources much more efficiently across compute as well as shuffle.
 
-<https://cloud.google.com/blog/products/gcp/separation-of-compute-and-state-in-google-bigquery-and-cloud-dataflow-and-why-it-matters>
+https://cloud.google.com/blog/products/gcp/separation-of-compute-and-state-in-google-bigquery-and-cloud-dataflow-and-why-it-matters
 
-<https://cloud.google.com/blog/products/gcp/bigquery-under-the-hood>
+https://cloud.google.com/blog/products/gcp/bigquery-under-the-hood
 
 ## Commands
 
@@ -74,6 +74,6 @@ ORDER BY
 
 ## References
 
-<https://github.com/GoogleCloudPlatform/training-data-analyst/blob/master/courses/machine_learning/deepdive/02_generalization/repeatable_splitting.ipynb>
+https://github.com/GoogleCloudPlatform/training-data-analyst/blob/master/courses/machine_learning/deepdive/02_generalization/repeatable_splitting.ipynb
 
-<https://github.com/GoogleCloudPlatform/training-data-analyst>
+https://github.com/GoogleCloudPlatform/training-data-analyst

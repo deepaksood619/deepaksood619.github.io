@@ -4,9 +4,9 @@
 
 Exchangeable image file format(officiallyExif, according to JEIDA/JEITA/CIPA specifications) is a standard that specifies the [formats](https://en.wikipedia.org/wiki/File_format) for [images](https://en.wikipedia.org/wiki/Image), [sound](https://en.wikipedia.org/wiki/Sound), and ancillary tags used by [digital cameras](https://en.wikipedia.org/wiki/Digital_camera) (including [smartphones](https://en.wikipedia.org/wiki/Smartphone)), [scanners](https://en.wikipedia.org/wiki/Image_scanner) and other systems handling image and sound files recorded by digital cameras.
 
-<https://en.wikipedia.org/wiki/Exif>
+https://en.wikipedia.org/wiki/Exif
 
-<https://www.exifdata.com>
+https://www.exifdata.com
 
 ## JPG
 
@@ -46,7 +46,7 @@ Lossless WebP compression uses already seen image fragments in order to exactly 
 
 `brew install webp`
 
-<https://developers.google.com/speed/webp>
+https://developers.google.com/speed/webp
 
 ## Image Recognition
 
@@ -55,7 +55,7 @@ Lossless WebP compression uses already seen image fragments in order to exactly 
 
 ## Tools
 
-<http://www.libpng.org/pub/png/apps/pngcheck.html>
+http://www.libpng.org/pub/png/apps/pngcheck.html
 
 ### pngcheck
 

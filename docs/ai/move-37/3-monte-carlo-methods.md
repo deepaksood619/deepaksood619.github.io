@@ -29,7 +29,7 @@ In [probability theory](https://en.wikipedia.org/wiki/Probability_theory), the**
 
 The name comes from imagining a [gambler](https://en.wikipedia.org/wiki/Gambler) at a row of [slot machines](https://en.wikipedia.org/wiki/Slot_machines)(sometimes known as "one-armed bandits"), who has to decide which machines to play, how many times to play each machine and in which order to play them, and whether to continue with the current machine or try a different machine.The multi-armed bandit problem also falls into the broad category of [stochastic scheduling](https://en.wikipedia.org/wiki/Stochastic_scheduling).
 
-<https://en.wikipedia.org/wiki/Multi-armed_bandit>
+https://en.wikipedia.org/wiki/Multi-armed_bandit
 
 - We must strike a balance between explore/exploit
 - Epsilon Greedy - epsilon (a hyperparameter) is the probability that our agent will choose a random action instead of following policy

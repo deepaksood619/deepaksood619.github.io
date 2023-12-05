@@ -55,12 +55,12 @@ Tables in ETS are created and owned by individual processes. When an owner proce
 
 Tables are divided into four different types, set, ordered_set, bag, andduplicate_bag. Asetorordered_settable can only have one object associated with each key. Abagorduplicate_bagtable can have many objects associated with each key.
 
-<https://elixirschool.com/en/lessons/specifics/ets>
+https://elixirschool.com/en/lessons/specifics/ets
 
-<http://erlang.org/doc/man/ets.html>
+http://erlang.org/doc/man/ets.html
 
 ## References
 
-<https://www.erlang.org>
+https://www.erlang.org
 
-<https://www.erlang.org/course>
+https://www.erlang.org/course

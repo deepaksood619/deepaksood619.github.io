@@ -4,7 +4,7 @@
 
 - Timeline View
 
-<https://support.google.com/docs/answer/12935277><https://www.youtube.com/watch?v=Vl0H-qTclOg&feature=youtu.be&ab_channel=freeCodeCamp.org>
+https://support.google.com/docs/answer/12935277><https://www.youtube.com/watch?v=Vl0H-qTclOg&feature=youtu.be&ab_channel=freeCodeCamp.org
 
 - enter data
 - navigate through a spreadsheet
@@ -199,7 +199,7 @@ Rows - 1,048,576- Text to column
 - Combining Slicers and GetPivotData: The key to our success
 - Getting fancy with Excel slicers
 - This is how the report can be used in practice by high-level executives
-- <https://365datascience.teachable.com/courses/enrolled/526364>
+- https://365datascience.teachable.com/courses/enrolled/526364
 
 ## Advanced Microsoft Excel
 
@@ -249,7 +249,7 @@ Rows - 1,048,576- Text to column
 - Excel tips & tricks Part 3
 - Excel tips & tricks Part 4
 
-<https://365datascience.teachable.com/courses/enrolled/233558>
+https://365datascience.teachable.com/courses/enrolled/233558
 
 ![image](../../media/Intro-to-Microsoft-Excel-Google-Sheets-image2.jpg)
 

@@ -35,27 +35,27 @@ May is fun but June bores me.
 
 Does it refer to months or to people?
 
-<https://www.toptal.com/machine-learning/google-nlp-tutorial>
+https://www.toptal.com/machine-learning/google-nlp-tutorial
 
 [Natural Language Processing with TensorFlow 2 - Beginner's Course](https://www.youtube.com/watch?v=B2q5cRJvqI8)
 
-<https://www.freecodecamp.org/news/google-bert-nlp-machine-learning-tutorial>
+https://www.freecodecamp.org/news/google-bert-nlp-machine-learning-tutorial
 
 ## Spacy
 
 Industrial-Strength Natural Language Processing
 
-<https://spacy.io/usage/models>
+https://spacy.io/usage/models
 
 ## Gensim (Topic Modeling for Humans)
 
 Gensim is a Python library fortopic modeling, document indexingandsimilarity retrievalwith large corpora. Target audience is thenatural language processing(NLP) andinformation retrieval(IR) community.
 
-<https://github.com/parulsethi/gensim>
+https://github.com/parulsethi/gensim
 
-<https://radimrehurek.com/gensim>
+https://radimrehurek.com/gensim
 
-<https://www.toptal.com/python/topic-modeling-python>
+https://www.toptal.com/python/topic-modeling-python
 
 ## Text Similarity Methods
 
@@ -79,13 +79,13 @@ Gensim is a Python library fortopic modeling, document indexingandsimilarity ret
 - Sorensen-Dice coefficient
 - Overlap coefficient (i.e., Szymkiewicz-Simpson)
 
-<https://github.com/luozhouyang/python-string-similarity#python-string-similarity>
+https://github.com/luozhouyang/python-string-similarity#python-string-similarity
 
 ## FlashText
 
 Replace keywords in sentences or extract keywords from sentences
 
-<https://pypi.org/project/flashtext>
+https://pypi.org/project/flashtext
 
 ## ML Kit Natural Language APIs
 
@@ -94,7 +94,7 @@ Replace keywords in sentences or extract keywords from sentences
 - Smart reply
 - Entity extraction
 
-<https://developers.google.com/ml-kit>
+https://developers.google.com/ml-kit
 
 ## Haystack
 
@@ -106,9 +106,9 @@ Haystack is the open source Python framework by deepset for building custom apps
 
 ## References
 
-The Association for Computational Linguistics is the international organization that represents the field of NLP. The ACL website (<http://www.aclweb.org>) hosts many useful resources, including: information about international and regional conferences and workshops; the *ACL Wiki* with links to hundreds of useful resources; and the *ACL Anthology*, which contains most of the NLP research literature from the past 50+ years, fully indexed and freely downloadable.
+The Association for Computational Linguistics is the international organization that represents the field of NLP. The ACL website (http://www.aclweb.org) hosts many useful resources, including: information about international and regional conferences and workshops; the *ACL Wiki* with links to hundreds of useful resources; and the *ACL Anthology*, which contains most of the NLP research literature from the past 50+ years, fully indexed and freely downloadable.
 
-<https://www.freecodecamp.org/news/natural-language-processing-with-spacy-python-full-course>
+https://www.freecodecamp.org/news/natural-language-processing-with-spacy-python-full-course
 
 ## Links
 

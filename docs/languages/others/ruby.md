@@ -14,7 +14,7 @@ A gem is code you can include in Ruby projects. It allows you to package up func
 A Gemfile is a list of gems required for your site. For a simple Jekyll site it might look something like this:
 
 ```bash
-source "<https://rubygems.org>"
+source "https://rubygems.org"
 
 gem "jekyll"
 
@@ -49,7 +49,7 @@ bundle exec jekyll serve --host 0.0.0.0 --port 8000 --incremental
 
 ```
 
-<https://jekyllrb.com/docs/ruby-101>
+https://jekyllrb.com/docs/ruby-101
 
 ## Quickstart
 
@@ -122,21 +122,21 @@ end
 # Run - ruby test.rb
 ```
 
-<https://www.ruby-lang.org/en/documentation/quickstart>
+https://www.ruby-lang.org/en/documentation/quickstart
 
 ## Frameworks
 
-<https://www.toptal.com/ruby/ruby-pattern-matching-tutorial>
+https://www.toptal.com/ruby/ruby-pattern-matching-tutorial
 
 ### Ruby on rails
 
-<https://www.toptal.com/ruby-on-rails/ruby-on-rails-ecommerce-tutorial>
+https://www.toptal.com/ruby-on-rails/ruby-on-rails-ecommerce-tutorial
 
 ### Sinatra
 
 Sinatra is a DSL for quickly creating web applications in Ruby with minimal effort
 
-<http://sinatrarb.com>
+http://sinatrarb.com
 
 ### RefineryCMS
 
@@ -147,7 +147,7 @@ An open source content management system for Rails 5.1+
 
 A free, open-source ecommerce platform that gives you complete control over your store.
 [https://solidus.io](https://solidus.io/)
-<https://github.com/solidusio/solidus>
+https://github.com/solidusio/solidus
 
 ## Links
 

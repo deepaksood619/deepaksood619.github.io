@@ -36,7 +36,7 @@ In multicasting, one/more senders and one/more recipients participate in data tr
 
 Anycast is a network [addressing](https://en.wikipedia.org/wiki/Addressing) and [routing](https://en.wikipedia.org/wiki/Routing) methodology in which a single destination address has multiple routing paths to two or more endpoint destinations. Routers will select the desired path on the basis of number of hops, distance, lowest cost, latency measurements or based on the least congested route. Anycast networks are widely used for [content delivery network](https://en.wikipedia.org/wiki/Content_delivery_network)(CDN) products to bring their content closer to the end user.
 
-<https://en.wikipedia.org/wiki/Anycast>
+https://en.wikipedia.org/wiki/Anycast
 
 ## Geocast
 
@@ -50,8 +50,8 @@ Automatic repeat request(ARQ), also known asautomatic repeat query, is an [error
 
 The types of ARQ protocols include **[Stop-and-wait ARQ](https://en.wikipedia.org/wiki/Stop-and-wait_ARQ), [Go-Back-N ARQ](https://en.wikipedia.org/wiki/Go-Back-N_ARQ), and [Selective Repeat ARQ/Selective Reject ARQ](https://en.wikipedia.org/wiki/Selective_Repeat_ARQ).** All three protocols usually use some form of [sliding window protocol](https://en.wikipedia.org/wiki/Sliding_window_protocol) to tell the transmitter to determine which (if any) packets need to be retransmitted. These protocols reside in the [data link](https://en.wikipedia.org/wiki/Data_link_layer) or [transport layers](https://en.wikipedia.org/wiki/Transport_layer)(layers 2 and 4) of the [OSI model](https://en.wikipedia.org/wiki/OSI_model).
 
-<https://en.wikipedia.org/wiki/Automatic_repeat_request>
+https://en.wikipedia.org/wiki/Automatic_repeat_request
 
 ## References
 
-<https://www.geeksforgeeks.org/computer-network-difference-unicast-broadcast-multicast>
+https://www.geeksforgeeks.org/computer-network-difference-unicast-broadcast-multicast

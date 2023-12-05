@@ -54,7 +54,7 @@ This is a tool that analyzes the token’s smart contract, tokenomics, holders, 
 
 - [Introduction - Web3.py 5.31.4 documentation](https://web3py.readthedocs.io/en/v5/)
 - [GitHub - ethereum/web3.py: A python interface for interacting with the Ethereum blockchain and ecosystem.](https://github.com/ethereum/web3.py)
-- [GitHub - web3/web3.js: Ethereum JavaScript API](<https://github.com/web3/web3.js>
+- [GitHub - web3/web3.js: Ethereum JavaScript API](https://github.com/web3/web3.js
 
 ### Uniswap Build Tools
 

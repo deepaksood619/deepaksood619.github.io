@@ -28,4 +28,4 @@ for i in sample_array:
 # must be b, B, u, h, H, i, I, l, L, q, Q, f or d
 ```
 
-<https://docs.python.org/3/library/array.html>
+https://docs.python.org/3/library/array.html

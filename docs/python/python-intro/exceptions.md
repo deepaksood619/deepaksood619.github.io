@@ -116,7 +116,7 @@ Errors can be of various types:
 - Recursion Error
 - Exceptions
 
-<https://www.datacamp.com/community/tutorials/exception-handling-python>
+https://www.datacamp.com/community/tutorials/exception-handling-python
 
 ## Built-in Exceptions
 
@@ -187,4 +187,4 @@ BaseException
 
 ## References
 
-<http://www.pythonforbeginners.com/error-handling/exception-handling-in-python>
+http://www.pythonforbeginners.com/error-handling/exception-handling-in-python

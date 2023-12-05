@@ -23,8 +23,8 @@ ReactDOM is a package that provides DOM specific methods that can be used at the
 - ReactDOM uses observables thus provides an efficient way of DOM handling.
 - ReactDOM can be used on both the client-side and server-side.
 
-<https://www.geeksforgeeks.org/reactjs-reactdom>
+https://www.geeksforgeeks.org/reactjs-reactdom
 
-<https://reactjs.org/docs/react-dom.html>
+https://reactjs.org/docs/react-dom.html
 
-<https://www.npmjs.com/package/react-dom>
+https://www.npmjs.com/package/react-dom

@@ -88,6 +88,6 @@ p and q are the attribute values for two data objects
 
 ## Tidy Data
 
-<https://vita.had.co.nz/papers/tidy-data.pdf>
+https://vita.had.co.nz/papers/tidy-data.pdf
 
-<https://cran.r-project.org/web/packages/tidyr/vignettes/tidy-data.html>
+https://cran.r-project.org/web/packages/tidyr/vignettes/tidy-data.html

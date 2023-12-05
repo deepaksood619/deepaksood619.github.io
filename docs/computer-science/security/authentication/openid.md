@@ -12,7 +12,7 @@ To identify the user, the authenticator uses theid_token(not theaccess_token) fr
 
 ![image](../../../media/Authentication_OpenID-image1.jpg)
 
-<https://openid.net/specs/openid-connect-core-1_0.html>
+https://openid.net/specs/openid-connect-core-1_0.html
 
 ![image](../../../media/Authentication_OpenID-image2.jpg)
 
@@ -52,4 +52,4 @@ So, it was a complete additional system.
 
 It is not very popular or used nowadays.
 
-<https://fastapi.tiangolo.com/tutorial/security>
+https://fastapi.tiangolo.com/tutorial/security

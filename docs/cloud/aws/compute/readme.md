@@ -37,7 +37,7 @@ Store and Retrieve Docker Images
 
 Launch and Manage Virtual Private Servers
 
-<https://aws.amazon.com/lightsail/resources>
+https://aws.amazon.com/lightsail/resources
 
 ## AWS Batch
 
@@ -135,13 +135,13 @@ AnElastic IP addressis a static IPv4 address designed for dynamic cloud computin
 
 An Elastic IP address is a public IPv4 address, which is reachable from the internet. If your instance does not have a public IPv4 address, you can associate an Elastic IP address with your instance to enable communication with the internet; for example, to connect to your instance from your local computer.
 
-<https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/elastic-ip-addresses-eip.html>
+https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/elastic-ip-addresses-eip.html
 
 ## EC2 > Networking > ENI
 
 An elastic network interface (referred to as a*network interface*in this documentation) is a logical networking component in a VPC that represents a virtual network card.
 
-<https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/using-eni.html>
+https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/using-eni.html
 
 ## Others
 

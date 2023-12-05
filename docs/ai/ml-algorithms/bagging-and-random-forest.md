@@ -14,7 +14,7 @@ The models created for each sample of the data are therefore more different than
 
 If you get good results with an algorithm with high variance (like decision trees), you can often get better results by bagging that algorithm.
 
-<https://victorzhou.com/blog/intro-to-random-forests>
+https://victorzhou.com/blog/intro-to-random-forests
 
 ## What is a Random Forest?
 

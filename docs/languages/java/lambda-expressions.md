@@ -27,4 +27,4 @@ return max;
 
 ## References
 
-<http://www.java2s.com/Tutorials/Java/Java_Lambda/index.htm>
+http://www.java2s.com/Tutorials/Java/Java_Lambda/index.htm

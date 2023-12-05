@@ -39,4 +39,4 @@
 
 ## Resources
 
-<https://www.youtube.com/c/PhysicsWallah>
+https://www.youtube.com/c/PhysicsWallah

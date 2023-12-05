@@ -34,7 +34,7 @@ python manage.py collectstatic -c
 ## Creating admin
 python manage.py createsuperuser
 
-<http://localhost:8000/admin>
+http://localhost:8000/admin
 
 ## Running tests
 python manage.py test <app_name>

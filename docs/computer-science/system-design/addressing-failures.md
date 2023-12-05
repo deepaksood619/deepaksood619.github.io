@@ -122,4 +122,4 @@ The idea is to ignore some requests rather than crashing a system and making it 
 
 ## Reference
 
-<http://highscalability.com/blog/2018/4/25/google-addressing-cascading-failures.html>
+http://highscalability.com/blog/2018/4/25/google-addressing-cascading-failures.html

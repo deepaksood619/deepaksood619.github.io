@@ -1,15 +1,15 @@
 # Component Libraries
 
-<https://lwc.dev>
+https://lwc.dev
 
 ## CSS in JS
 
-1. <https://github.com/vercel/styled-jsx>
-2. <https://github.com/emotion-js/emotion>
+1. https://github.com/vercel/styled-jsx
+2. https://github.com/emotion-js/emotion
 
     Emotion is a performant and flexible CSS-in-JS library. Building on many other CSS-in-JS libraries, it allows you to style apps quickly with string or object styles. It has predictable composition to avoid specificity issues with CSS. With source maps and labels, Emotion has a great developer experience and great performance with heavy caching in production.
 
-    <https://blog.logrocket.com/emotion-in-react>
+    https://blog.logrocket.com/emotion-in-react
 
 3. styled-components
 4. Treat
@@ -25,52 +25,52 @@
 14. Glamorous
 15. Glamor
 
-<https://css-tricks.com/a-thorough-analysis-of-css-in-js>
+https://css-tricks.com/a-thorough-analysis-of-css-in-js
 
-<https://blog.bitsrc.io/9-css-in-js-libraries-you-should-know-in-2018-25afb4025b9b>
+https://blog.bitsrc.io/9-css-in-js-libraries-you-should-know-in-2018-25afb4025b9b
 
 ## Component Libraries
 
 1. Material UI / MaterialUI
-2. <https://github.com/ant-design/ant-design>
+2. https://github.com/ant-design/ant-design
 3. Styled Components
-4. React bootstrap - <https://react-bootstrap.github.io>
+4. React bootstrap - https://react-bootstrap.github.io
 
-    <https://www.toptal.com/bootstrap/react-bootstrap-components>
+    https://www.toptal.com/bootstrap/react-bootstrap-components
 
-5. ReactStrap - <https://reactstrap.github.io> <https://github.com/reactstrap/reactstrap>
-6. <https://github.com/bvaughn/react-virtualized>
-7. <https://github.com/gabrielbull/react-desktop>
-8. <https://github.com/rebassjs/rebass>
-9. **<https://github.com/grommet/grommet> (for mobile UIs) - <https://v2.grommet.io>**
-10. <https://github.com/Semantic-Org/Semantic-UI-React>
-11. <https://github.com/palantir/blueprint>
-12. <https://github.com/microsoft/fluentui>
-13. <https://tailwindui.com>
-14. <https://chakra-ui.com>
+5. ReactStrap - https://reactstrap.github.io> <https://github.com/reactstrap/reactstrap
+6. https://github.com/bvaughn/react-virtualized
+7. https://github.com/gabrielbull/react-desktop
+8. https://github.com/rebassjs/rebass
+9. **https://github.com/grommet/grommet> (for mobile UIs) - <https://v2.grommet.io**
+10. https://github.com/Semantic-Org/Semantic-UI-React
+11. https://github.com/palantir/blueprint
+12. https://github.com/microsoft/fluentui
+13. https://tailwindui.com
+14. https://chakra-ui.com
 15. [Mantine](https://mantine.dev/)
 
-<https://technostacks.com/blog/react-component-libraries>
+https://technostacks.com/blog/react-component-libraries
 
-<https://www.onestopdevshop.io/best-react-component-library-in-2021>
+https://www.onestopdevshop.io/best-react-component-library-in-2021
 
-<https://github.com/brillout/awesome-react-components>
+https://github.com/brillout/awesome-react-components
 
 ## VueJS
 
-<https://element.eleme.io/#/en-US>
+https://element.eleme.io/#/en-US
 
-<https://madewithvuejs.com/element-ui>
+https://madewithvuejs.com/element-ui
 
-## Icons - <https://iconscout.com/blog/best-react-icons-library>
+## Icons - https://iconscout.com/blog/best-react-icons-library
 
-<https://www.npmjs.com/package/react-feather>
+https://www.npmjs.com/package/react-feather
 
 [google.com/fonts](http://google.com/fonts)
 
 [**https://mui.com/components/icons/**](https://mui.com/components/icons/)
 
-<https://www.npmjs.com/package/@material-ui/icons>
+https://www.npmjs.com/package/@material-ui/icons
 
 yarn add @mui/icons-material
 
@@ -94,7 +94,7 @@ placehold.it / placekitten.com / placepuppy.it
 
 ## CSS Frameworks
 
-- Bulma (<https://bulma.io>) - CSS Framework
+- Bulma (https://bulma.io) - CSS Framework
 - **Twitter bootstrap**
 - **tailwindcss**
   - Atomic CSS
@@ -149,7 +149,7 @@ module.exports = {
 }
 ```
 
-<https://tailwindcss.com>
+https://tailwindcss.com
 
 - YAML by Derk Jesse
 - 960 framework
@@ -160,11 +160,11 @@ module.exports = {
 - Prime NG
 - Foundation4 by Zurb
 
-<https://www.tutorialspoint.com/css/what_is_css.htm>
+https://www.tutorialspoint.com/css/what_is_css.htm
 
-<https://css-tricks.com>
+https://css-tricks.com
 
-<https://www.freecodecamp.org/news/learn-css-flexbox>
+https://www.freecodecamp.org/news/learn-css-flexbox
 
 [Learn CSS in 20 Minutes](https://www.youtube.com/watch?v=1PnVor36_40)
 

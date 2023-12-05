@@ -2,37 +2,37 @@
 
 [**https://medium.com/dubizzletechblog/setting-up-prettier-and-eslint-for-js-and-react-apps-bbc779d29062**](https://medium.com/dubizzletechblog/setting-up-prettier-and-eslint-for-js-and-react-apps-bbc779d29062)
 
-<https://prettier.io>
+https://prettier.io
 
-<https://github.com/jaredpalmer/tsdx>
+https://github.com/jaredpalmer/tsdx
 
 Despite all the recent hype, setting up a new TypeScript (x React) library can be tough. Between [Rollup](https://github.com/rollup/rollup), [Jest](https://github.com/facebook/jest), tsconfig, [Yarn resolutions](https://yarnpkg.com/en/docs/selective-version-resolutions), ESLint, and getting VSCode to play nicely....there is just a whole lot of stuff to do (and things to screw up). TSDX is a zero-config CLI that helps you develop, test, and publish modern TypeScript packages with ease--so you can focus on your awesome new library and not waste another afternoon on the configuration.
 
 ## npx tsdx create mylib
 
-<https://github.com/rollup/rollup>
+https://github.com/rollup/rollup
 
 Rollup is a module bundler for JavaScript which compiles small pieces of code into something larger and more complex, such as a library or application. It uses the standardized ES module format for code, instead of previous idiosyncratic solutions such as CommonJS and AMD. ES modules let you freely and seamlessly combine the most useful individual functions from your favorite libraries. Rollup can optimize ES modules for faster native loading in modern browsers, or output a legacy module format allowing ES module workflows today.
 
-<https://stackblitz.com>
+https://stackblitz.com
 
-<https://lisperator.net/uglifyjs>
+https://lisperator.net/uglifyjs
 
-<https://github.com/reactjs/react-codemod>
+https://github.com/reactjs/react-codemod
 
 ## React Developer Tools
 
-<https://www.toptal.com/react/debugging-react-developer-tools>
+https://www.toptal.com/react/debugging-react-developer-tools
 
-<https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi/related?hl=en>
+https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi/related?hl=en
 
 ## Build tools
 
-<https://github.com/facebook/create-react-app>
+https://github.com/facebook/create-react-app
 
 [**https://github.com/vitejs/vite**](https://github.com/vitejs/vite)
 
-<https://vitejs.dev>
+https://vitejs.dev
 
 Next Generation Frontend Tooling
 
@@ -55,11 +55,11 @@ Install npm packages on the frontend
 
 Webpack also provides features like a local server with hot reload (they call it hot module replacement) to make your development experience better.
 
-<https://www.toptal.com/react/webpack-react-tutorial-pt-1>
+https://www.toptal.com/react/webpack-react-tutorial-pt-1
 
-<https://webpack.js.org>
+https://webpack.js.org
 
-<https://github.com/webpack/webpack>
+https://github.com/webpack/webpack
 
 [Turbopack - The successor to webpack](https://turbo.build/pack)
 
@@ -168,9 +168,9 @@ ESLint helps you get used to best practices, but that's not its only benefit. ES
 
 ## Automated Deployment
 
-<https://github.com/thedaviddias/Front-End-Checklist>
+https://github.com/thedaviddias/Front-End-Checklist
 
-<https://frontendchecklist.io>
+https://frontendchecklist.io
 
 ## JavaScript ToolChain
 

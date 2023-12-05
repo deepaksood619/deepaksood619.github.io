@@ -31,13 +31,13 @@ The default argument for sleeping 7-9 hours a night is that this is the amount o
 4. A brain surgery can decrease the amount of sleep required by 3 hours, with no negative-side effects.
 5. Sleep is not required for memory consolidation.
 
-<https://guzey.com/theses-on-sleep>
+https://guzey.com/theses-on-sleep
 
 I'm gaining 33 days of life every year. 1 more year of life every 11 years. 5 more years of life every 55 years
 
-28 hour day - <https://xkcd.com/320>
+28 hour day - https://xkcd.com/320
 
-<https://www.polyphasic.net>
+https://www.polyphasic.net
 
 Polyphasic sleep is the practice of sleeping in numerous smaller blocks during the day as opposed to sleeping once as is common in many countries. The Siesta (popular in Spain), and Segmented (which was widespread before the advent of artificial lighting) sleep schedules are some of the earlier forms that polyphasic sleep has taken. In recent years, there has been an increased interest in this practice, and many other schedules have been developed with increasing research and experimentation. Sleeping polyphasically can:
 

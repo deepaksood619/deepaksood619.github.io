@@ -25,10 +25,10 @@ The chain-of-responsibility pattern is structurally nearly identical to the [dec
 - The performance of the system will be affected, but also in the code debugging is not easy may cause cycle call.
 - It may not be easy to observe the characteristics of operation, due to debug.
 
-<https://en.wikipedia.org/wiki/Chain-of-responsibility_pattern>
+https://en.wikipedia.org/wiki/Chain-of-responsibility_pattern
 
-<https://refactoring.guru/design-patterns/chain-of-responsibility>
+https://refactoring.guru/design-patterns/chain-of-responsibility
 
-<https://www.geeksforgeeks.org/chain-responsibility-design-pattern>
+https://www.geeksforgeeks.org/chain-responsibility-design-pattern
 
-<https://www.tutorialspoint.com/design_pattern/chain_of_responsibility_pattern.htm>
+https://www.tutorialspoint.com/design_pattern/chain_of_responsibility_pattern.htm

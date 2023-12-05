@@ -1,6 +1,6 @@
 # Chatbot / chatops
 
-<https://www.freecodecamp.org/news/how-to-build-an-ai-chatbot-with-redis-python-and-gpt>
+https://www.freecodecamp.org/news/how-to-build-an-ai-chatbot-with-redis-python-and-gpt
 
 ## Rasa
 
@@ -31,7 +31,7 @@ E-Commerce Bots
    3. Billing Bots
    4. Order Management Bots
 
-<https://www.freshworks.com/live-chat-software/chatbots/chatbot-ideas-blog>
+https://www.freshworks.com/live-chat-software/chatbots/chatbot-ideas-blog
 
 ## Task Oriented Dialogue System
 
@@ -250,9 +250,9 @@ OR during entity extraction
 
 ## Others
 
-<https://rasa.com/docs/action-server/knowledge-bases>
+https://rasa.com/docs/action-server/knowledge-bases
 
-<https://github.com/RasaHQ/tutorial-knowledge-base>
+https://github.com/RasaHQ/tutorial-knowledge-base
 
 NER - Rasa NLU for Entity Extraction
 
@@ -264,7 +264,7 @@ NER - Rasa NLU for Entity Extraction
 
 [Rasa 3.x Tutorials](https://www.youtube.com/playlist?list=PL75e0qA87dlHogEVKnBJLhqyaZKDg2f0W)
 
-<https://rasa.com/docs>
+https://rasa.com/docs
 
 [Algorithm Whiteboard](https://www.youtube.com/playlist?list=PL75e0qA87dlG-za8eLI6t0_Pbxafk-cxb)
 
@@ -272,59 +272,59 @@ NER - Rasa NLU for Entity Extraction
 
 ## Demo
 
-<http://financial-demo.rasa.com/guest/conversations/production/d379406177e14dcfa67ed47ebfdd9106>
+http://financial-demo.rasa.com/guest/conversations/production/d379406177e14dcfa67ed47ebfdd9106
 
-<https://rasa.com/showcase/albert-heijn>
+https://rasa.com/showcase/albert-heijn
 
 ## Responses
 
-<https://rasa.com/docs/rasa/responses>
+https://rasa.com/docs/rasa/responses
 
-<https://rasa.com/blog/response-retrieval-models>
+https://rasa.com/blog/response-retrieval-models
 
-<https://rasa.com/docs/rasa/chitchat-faqs>
+https://rasa.com/docs/rasa/chitchat-faqs
 
 ## Rasa 3.0
 
-<https://rasa.com/blog/updated-learning-resources-for-rasa-open-source-3-0>
+https://rasa.com/blog/updated-learning-resources-for-rasa-open-source-3-0
 
-<https://rasa.com/blog/slots-in-rasa-open-source-3-0>
+https://rasa.com/blog/slots-in-rasa-open-source-3-0
 
-<https://rasa.com/blog/markers-in-rasa-open-source-3-0>
+https://rasa.com/blog/markers-in-rasa-open-source-3-0
 
-<https://rasa.com/blog/bending-the-ml-pipeline-in-rasa-3-0>
+https://rasa.com/blog/bending-the-ml-pipeline-in-rasa-3-0
 
-<https://rasa.com>
+https://rasa.com
 
 [**https://github.com/rasaHQ/**](https://github.com/rasaHQ/)
 
-<https://blog.rasa.com>
+https://blog.rasa.com
 
-<https://github.com/RasaHQ/helpdesk-assistant>
+https://github.com/RasaHQ/helpdesk-assistant
 
 [Building Your First Chatbot in Python || Rachael Tatman](https://www.youtube.com/watch?v=VpvmLxO3Ys0)
 
-<https://enterprisebot.ai/case-studies>
+https://enterprisebot.ai/case-studies
 
-<https://www.freecodecamp.org/news/python-project-how-to-build-your-own-jarvis-using-python>
+https://www.freecodecamp.org/news/python-project-how-to-build-your-own-jarvis-using-python
 
 [Conversational AI with Rasa: Integration with a Website](https://www.youtube.com/watch?v=ZhRo3gfLk90)
 
 [**Webinar: New Chatbot Starter Packs for Banking and IT Support**](https://www.youtube.com/watch?v=nHqriTMRvPI)
 
-<https://github.com/RasaHQ/financial-demo>
+https://github.com/RasaHQ/financial-demo
 
-<https://github.com/RasaHQ/helpdesk-assistant>
+https://github.com/RasaHQ/helpdesk-assistant
 
-<https://rasa.com/blog/rasa-example-helpdesk>
+https://rasa.com/blog/rasa-example-helpdesk
 
 ## Solutions
 
-<https://rasa.com/solutions/lead-generation-sales>
+https://rasa.com/solutions/lead-generation-sales
 
-<https://rasa.com/solutions/customer-service-automation>
+https://rasa.com/solutions/customer-service-automation
 
-<https://info.rasa.com/poc-to-production-whitepaper>
+https://info.rasa.com/poc-to-production-whitepaper
 
 ## Resources
 
@@ -343,17 +343,17 @@ NER - Rasa NLU for Entity Extraction
 
 Monitor and chat with the visitors on your website, respond to support tickets and create a help center to empower customers to help themselves -- all 100% Free
 
-<https://www.tawk.to>
+https://www.tawk.to
 
-- <https://www.chatify.com/tawkto-alternative>
-- <https://www.tidio.com>
+- https://www.chatify.com/tawkto-alternative
+- https://www.tidio.com
 
 - Dialogflow
 - rasa
 
 ## Intercom
 
-<https://www.intercom.com/help/en/articles/3568632-how-task-bots-custom-bots-and-resolution-bot-work>
+https://www.intercom.com/help/en/articles/3568632-how-task-bots-custom-bots-and-resolution-bot-work
 
 Operator is the automation technology that powers all of Intercom's bots. Depending on which bot you're using, Operator will step in to help automate a simple task, answer a question, route customers to the correct inbox, and more.
 
@@ -365,13 +365,13 @@ Task bots are triggered by actions that customers take on your website or app.
 
 ## Others
 
-<https://www.tidio.com/blog/chatbot-framework>
+https://www.tidio.com/blog/chatbot-framework
 
 ## Conversation design workflow
 
-<https://medium.com/voice-tech-podcast/conversation-design-workflow-how-to-design-your-chatbot-in-10-basic-steps-721652b056d>
+https://medium.com/voice-tech-podcast/conversation-design-workflow-how-to-design-your-chatbot-in-10-basic-steps-721652b056d
 
-<https://ai.facebook.com/blog/state-of-the-art-open-source-chatbot>
+https://ai.facebook.com/blog/state-of-the-art-open-source-chatbot
 
 [**https://github.com/botpress/botpress**](https://github.com/botpress/botpress)
 
@@ -379,11 +379,11 @@ docker run -d --name=botpress -p 3000:3000 botpress/server
 
 [Building a Cool Bot with Botpress](https://www.youtube.com/playlist?list=PLlJHGGklthGmFnbXHI6--kgJO3ZyFS9mD)
 
-<https://github.com/howdyai/botkit>
+https://github.com/howdyai/botkit
 
-<https://github.com/botman/botman>
+https://github.com/botman/botman
 
-<https://github.com/wit-ai>
+https://github.com/wit-ai
 
 ## SAAS
 
@@ -398,27 +398,27 @@ docker run -d --name=botpress -p 3000:3000 botpress/server
 - Fulfillment
 
 - Amazon Lex
-- yellowmessenger chatbot (Ex - <https://www.gripinvest.in>)
+- yellowmessenger chatbot (Ex - https://www.gripinvest.in)
 - Kuba from LiveChat
-- <https://getstream.io/chat>
-- <https://sendbird.com>
-- Sales - <https://www.heyday.ai>
-- <https://netcorecloud.com>
-- <https://getcogno.ai>
+- https://getstream.io/chat
+- https://sendbird.com
+- Sales - https://www.heyday.ai
+- https://netcorecloud.com
+- https://getcogno.ai
 
-<https://tiledesk.com>
+https://tiledesk.com
 
-<https://www.dashbot.io>
+https://www.dashbot.io
 
 Turn your unstructured chatbot data into immediate action. Identify unhandled and mishandled intents. Improve escalation and failure rates by more than 30%.
 
-<https://simplify360.com/>
+https://simplify360.com/
 
 ## Examples
 
-<https://goldenpi.com>
+https://goldenpi.com
 
-<https://www.wintwealth.com> (WhatsApp Strategy)
+https://www.wintwealth.com (WhatsApp Strategy)
 
 ## Use Cases
 

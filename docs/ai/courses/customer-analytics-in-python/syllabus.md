@@ -1,6 +1,6 @@
 # Customer Analytics in Python
 
-<https://365datascience.teachable.com/p/customer-analytics-in-python>
+https://365datascience.teachable.com/p/customer-analytics-in-python
 
 ## A Brief Marketing Introduction
 
@@ -101,7 +101,7 @@
 - Start Saving the Model and Preparing for Deployment
 - Start Predicting on New Data
 
-<https://www.toptal.com/r/social-network-analysis-in-r-gephi-tutorial>
+https://www.toptal.com/r/social-network-analysis-in-r-gephi-tutorial
 
 ## What are sociograms?
 
@@ -139,8 +139,8 @@ A useful segmentation should include these six characteristics:
 
     You have to be able to provide products or services to your segments. One U.S. insurance company, for example, spent a lot of time and money identifying a segment, only to discover that it couldn't find any customers for its insurance product in that segment, nor was the organization able to design any actions to target them.
 
-<https://towardsdatascience.com/market-mix-modeling-mmm-101-3d094df976f9>
+https://towardsdatascience.com/market-mix-modeling-mmm-101-3d094df976f9
 
-<https://www.toptal.com/r/social-network-analysis-in-r-gephi-2>
+https://www.toptal.com/r/social-network-analysis-in-r-gephi-2
 
 [Intro](ai/courses/customer-analytics-in-python/intro.md)

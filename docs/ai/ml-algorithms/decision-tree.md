@@ -49,21 +49,16 @@ Machine learning makes use of decision trees to predict the direction of the inp
 ## ID3 Algorithm
 
 - In decision tree learning, ID3 (Iterative Dichotomiser 3) is an algorithm invented by Ross Quinlan used to generate a decision tree from a dataset. ID3 is the precursor to the C4.5 algorithm, and is typically used in the machine learning and natural language processing domains
-- Split (node, {examples}):
+- Split (node, examples):
 
-    1. A <- the best attribute for splitting the {examples}
-
+    1. A <- the best attribute for splitting the examples
     2. Decision attribute for this node <- A
-
     3. For each value of A, create new child node
-
-    4. Split training {examples} to child nodes
-
+    4. Split training examples to child nodes
     5. For each child node/subset:
-
        - if subset is pure: STOP
-
        - else: Split (child_node, {subset})
+
 - Ross Quinlan (ID3: 1986), (C4.5: 1993)
 - Breimanetal (CaRT: 1984) from statistics
 
@@ -73,7 +68,7 @@ Machine learning makes use of decision trees to predict the direction of the inp
 
 ![image](../../media/Decision-Tree-image14.jpg)
 
-<https://towardsdatascience.com/entropy-and-information-gain-in-decision-trees-c7db67a3a293>
+https://towardsdatascience.com/entropy-and-information-gain-in-decision-trees-c7db67a3a293
 
 ## Decision Trees for Regression
 
@@ -243,7 +238,7 @@ CART Algorithm - Classification and Regression Tree
 - C4.5
 - Weka
 
-<https://medium.com/@rishabhjain_22692/decision-trees-it-begins-here-93ff54ef134>
+https://medium.com/@rishabhjain_22692/decision-trees-it-begins-here-93ff54ef134
 
 ## Decision Trees
 
@@ -255,7 +250,7 @@ Decision tree for titanic dataset for who lived and who died
 
 ![image](../../media/Decision-Tree-image58.jpg)
 
-<https://towardsdatascience.com/decision-tree-ba64f977f7c3>
+https://towardsdatascience.com/decision-tree-ba64f977f7c3
 
 [**Intro to XGBoost Models (decision-tree-based ensemble ML algorithms)**](https://www.youtube.com/watch?v=0ikyjpaUDFQ&ab_channel=CodingTech)
 

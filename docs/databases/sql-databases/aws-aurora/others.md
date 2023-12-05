@@ -2,9 +2,9 @@
 
 ## Auditing
 
-<https://aws.amazon.com/premiumsupport/knowledge-center/advanced-audit-aurora-mysql-cloudwatch>
+https://aws.amazon.com/premiumsupport/knowledge-center/advanced-audit-aurora-mysql-cloudwatch
 
-<https://docs.aws.amazon.com/AmazonRDS/latest/AuroraUserGuide/AuroraMySQL.Auditing.html>
+https://docs.aws.amazon.com/AmazonRDS/latest/AuroraUserGuide/AuroraMySQL.Auditing.html
 
 ## Autoscaling
 
@@ -13,17 +13,17 @@ You define and apply a scaling policy to an Aurora DB cluster. Thescaling policy
 
 ## Monitoring and Event Notifications
 
-<https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/USER_Events.html>
+https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/USER_Events.html
 
-<https://docs.aws.amazon.com/AmazonRDS/latest/AuroraUserGuide/MonitoringOverview.html>
+https://docs.aws.amazon.com/AmazonRDS/latest/AuroraUserGuide/MonitoringOverview.html
 
-<https://docs.aws.amazon.com/AmazonRDS/latest/AuroraUserGuide/Aurora.Monitoring.html>
+https://docs.aws.amazon.com/AmazonRDS/latest/AuroraUserGuide/Aurora.Monitoring.html
 
-<https://docs.newrelic.com/docs/integrations/amazon-integrations/aws-integrations-list/aws-rds-monitoring-integration>
+https://docs.newrelic.com/docs/integrations/amazon-integrations/aws-integrations-list/aws-rds-monitoring-integration
 
-<https://docs.newrelic.com/docs/integrations/amazon-integrations/aws-integrations-list/aws-rds-enhanced-monitoring-integration>
+https://docs.newrelic.com/docs/integrations/amazon-integrations/aws-integrations-list/aws-rds-enhanced-monitoring-integration
 
-<https://docs.aws.amazon.com/AmazonRDS/latest/AuroraUserGuide/USER_PerfInsights.UsingDashboard.html>
+https://docs.aws.amazon.com/AmazonRDS/latest/AuroraUserGuide/USER_PerfInsights.UsingDashboard.html
 
 ## Performance Monitoring
 
@@ -48,7 +48,7 @@ An important visual cue in the load chart is theMax CPUline. This line represent
 
 In the preceding examples, there are two vCPU cores, so only two sessions can concurrently run on the CPU without queueing. If three sessions run on the CPU concurrently, then, at any given point in time, at least one of them is waiting in the run queue and therefore not getting work done.
 
-<https://aws.amazon.com/blogs/database/analyzing-amazon-rds-database-workload-with-performance-insights>
+https://aws.amazon.com/blogs/database/analyzing-amazon-rds-database-workload-with-performance-insights
 
 ## Metrics
 

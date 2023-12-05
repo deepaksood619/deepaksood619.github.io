@@ -81,7 +81,7 @@ print(f'{now=:Y-%m-%d}')
 'Hello {}'.format('Deepak')
 ```
 
-<https://pyformat.info>
+https://pyformat.info
 
 ### Positional Formating (Positional Arguments)
 
@@ -465,18 +465,18 @@ text = u'_'.join(text.split())
 
 ## return text
 
-<https://www.peterbe.com/plog/fastest-python-function-to-slugify-a-string>
+https://www.peterbe.com/plog/fastest-python-function-to-slugify-a-string
 
 ## References
 
 Python format specification mini language are used to format strings
 
-<https://docs.python.org/3.6/library/string.html#format-specification-mini-language>
+https://docs.python.org/3.6/library/string.html#format-specification-mini-language
 
 Python string formatters
 
-<https://www.digitalocean.com/community/tutorials/how-to-use-string-formatters-in-python-3>
+https://www.digitalocean.com/community/tutorials/how-to-use-string-formatters-in-python-3
 
-<https://pyformat.info>
+https://pyformat.info
 
-<https://realpython.com/python-encodings-guide>
+https://realpython.com/python-encodings-guide

@@ -12,7 +12,7 @@ Applications of LFSRs include generating [pseudo-random numbers](https://en.wiki
 
 The mathematics of a [cyclic redundancy check](https://en.wikipedia.org/wiki/Cyclic_redundancy_check), used to provide a quick check against transmission errors, are closely related to those of an LFSR.In general, the arithmetics behind LFSRs makes them very elegant as an object to study and implement. One can produce relatively complex logics with simple building blocks. However, other methods, that are less elegant but perform better, should be considered as well.
 
-<https://en.wikipedia.org/wiki/Linear-feedback_shift_register>
+https://en.wikipedia.org/wiki/Linear-feedback_shift_register
 
 ## Network Processors
 
@@ -43,13 +43,13 @@ In order to deal with high data-rates, several architectural paradigms are commo
 
 Additionally, traffic management, which is a critical element in [L2](https://en.wikipedia.org/wiki/OSI_model#Layer_2:_data_link_layer)-[L3](https://en.wikipedia.org/wiki/OSI_model#Layer_3:_network_layer) network processing and used to be executed by a variety of co-processors, has become an integral part of the network processor architecture, and a substantial part of its silicon area ("real estate") is devoted to the integrated traffic manager.Modern network processors are also equipped with low-latency high-throughput on-chip interconnection networks optimized for the exchange of small messages among cores (few data words). Such networks can be used as an alternative facility for the efficient inter-core communication aside of the standard use of shared memory.
 
-<https://en.wikipedia.org/wiki/Network_processor>
+https://en.wikipedia.org/wiki/Network_processor
 
 ## Coprocessor
 
 A coprocessor is a computer processor used to supplement the functions of the primary processor (the [CPU](https://en.wikipedia.org/wiki/Central_processing_unit)). Operations performed by the coprocessor may be [floating point](https://en.wikipedia.org/wiki/Floating_point) arithmetic, [graphics](https://en.wikipedia.org/wiki/Graphics), [signal processing](https://en.wikipedia.org/wiki/Signal_processing), [string processing](https://en.wikipedia.org/wiki/String_processing), [cryptography](https://en.wikipedia.org/wiki/Cryptographic_accelerator) or [I/O interfacing](https://en.wikipedia.org/wiki/Input/output#Interface) with peripheral devices. By offloading processor-intensive tasks from the [main processor](https://en.wikipedia.org/wiki/Central_processing_unit#main_processor), coprocessors can accelerate system performance. Coprocessors allow a line of computers to be customized, so that customers who do not need the extra performance do not need to pay for it.
 
-<https://en.wikipedia.org/wiki/Coprocessor>
+https://en.wikipedia.org/wiki/Coprocessor
 
 ## Interview Questions
 
@@ -123,7 +123,7 @@ Interrupt handlers almost always need to finish their execution quickly - the de
 
 The usual way to mitigate this is to have the interrupt controller set a special variable which is observed by non-interrupt code, and which can then perform arbitrary actions
 
-<https://www.toptal.com/embedded/interview-questions>
+https://www.toptal.com/embedded/interview-questions
 
 ## Courses
 
@@ -141,7 +141,7 @@ IGBTs were developed to combine high efficiency with fast switching. They are u
 
 ## Others
 
-- <https://en.wikipedia.org/wiki/MISRA_C>
+- https://en.wikipedia.org/wiki/MISRA_C
 - [Design for testing (DFT) - Wikipedia](https://en.wikipedia.org/wiki/Design_for_testing)
 - [Using DFT Architecture for Superior SoC Testing](https://medium.com/@einfochips/using-dft-architecture-for-superior-soc-testing-9f2c1b290252)
 - [Basic Electronics Part 1 - YouTube](https://www.youtube.com/watch?v=nb4ovfwqup8)

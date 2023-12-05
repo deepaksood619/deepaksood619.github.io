@@ -78,7 +78,7 @@ Change is here. It's faster than ever. It's more pronounced than ever. And it's 
 
 To live one's life in the best way: the power to do this resides within our soul, if we are capable of being indifferent to indifferent things. I'm indifferent
 
-<https://dariusforoux.com/mental-toughness>
+https://dariusforoux.com/mental-toughness
 
 Don't always think of the future, do path corrections in regular intervals and use exponential-backoff algorithm if everything is right
 
@@ -940,7 +940,7 @@ The power of accurate observation is commonly called cynicism by those who have 
 
 "I didn't sleep much last night and I haven't exercised in a week" has a very straightforward answer."
 
-<https://www.nitinpai.in/gyan>
+https://www.nitinpai.in/gyan
 
 Be like electricity, no one knows the importance of it until it goes away
 

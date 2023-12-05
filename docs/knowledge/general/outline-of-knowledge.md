@@ -36,4 +36,4 @@ Wisdom is making the right choice without all the information.
 
 ## References
 
-<https://en.wikipedia.org/wiki/Outline_of_knowledge>
+https://en.wikipedia.org/wiki/Outline_of_knowledge

@@ -105,7 +105,7 @@ TheProfilermeasures how often a React application renders and what the "cost" of
 
 The term ["render prop"](https://cdb.reacttraining.com/use-a-render-prop-50de598f11ce) refers to a technique for sharing code between React components using a prop whose value is a function.
 
-<https://medium.com/@mjackson/use-a-render-prop-50de598f11ce>
+https://medium.com/@mjackson/use-a-render-prop-50de598f11ce
 
 - [Static Type Checking](https://reactjs.org/docs/static-type-checking.html)
 - [Strict Mode](https://reactjs.org/docs/strict-mode.html)
@@ -132,14 +132,14 @@ The term ["render prop"](https://cdb.reacttraining.com/use-a-render-prop-50de598
 - [Testing Recipes](https://reactjs.org/docs/testing-recipes.html)
 - [Testing Environments](https://reactjs.org/docs/testing-environments.html)
 
-<https://reactjs.org/docs/concurrent-mode-suspense.html>
+https://reactjs.org/docs/concurrent-mode-suspense.html
 
 React 16.6 added a `<Suspense>` component that lets you "wait" for some code to load and declaratively specify a loading state (like a spinner) while we're waiting
 
-<https://reactjs.org/docs/concurrent-mode-patterns.html>
+https://reactjs.org/docs/concurrent-mode-patterns.html
 
-<https://reactjs.org/docs/concurrent-mode-adoption.html>
+https://reactjs.org/docs/concurrent-mode-adoption.html
 
-<https://reactjs.org/docs/getting-started.html>
+https://reactjs.org/docs/getting-started.html
 
-<https://reactjs.org/tutorial/tutorial.html>
+https://reactjs.org/tutorial/tutorial.html

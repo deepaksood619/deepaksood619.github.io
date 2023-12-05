@@ -29,4 +29,4 @@ Using coroutines for state machines or concurrency is similar to using [mutual r
 
 ## References
 
-<https://en.wikipedia.org/wiki/Coroutine>
+https://en.wikipedia.org/wiki/Coroutine

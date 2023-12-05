@@ -22,7 +22,7 @@
 18. The valuation of the company increases as and when the business , revenues and profitability increases
 19. An IPO is a process by means of which a company can raise fund. The funds raised can be for any valid reason -- for CAPEX, restructuring debt, rewarding shareholders, etc
 
-<https://zerodha.com/varsity/chapter/the-ipo-markets-part-2>
+https://zerodha.com/varsity/chapter/the-ipo-markets-part-2
 
 ### IPO sequence of events
 
@@ -74,6 +74,6 @@ OFS - Offer For Sale
 
 FPO - Follow-on Public Offer (Further Public Offer)
 
-<https://zerodha.com/varsity/chapter/supplementary-note-ipo-ofs-fpo>
+https://zerodha.com/varsity/chapter/supplementary-note-ipo-ofs-fpo
 
 [How are IPOs Pumped and Dumped in India | Mamaearth Profit 22Cr, Valuation 24,000 Cr - YouTube](https://www.youtube.com/watch?v=4CMnfEdnLj4)

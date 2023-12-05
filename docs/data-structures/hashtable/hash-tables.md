@@ -139,6 +139,6 @@ User-defined types - Include all method variables in the hash code evaluation. U
 ・If field is a reference type, use hashCode().
 ・If field is an array, apply to each entry. or use Arrays.deepHashCode()
 
-<http://blog.chapagain.com.np/hash-table-implementation-in-python-data-structures-algorithms>
+http://blog.chapagain.com.np/hash-table-implementation-in-python-data-structures-algorithms
 
 [Faster than Rust and C++ : the PERFECT Hash Table - YouTube](https://www.youtube.com/watch?v=kuxBOGB_FlM)

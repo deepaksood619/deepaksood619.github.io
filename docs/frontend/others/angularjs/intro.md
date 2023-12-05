@@ -1,16 +1,16 @@
 # AngularJS
 
-<https://www.toptal.com/angular/angular-9-tutorial-angular-ivy>
+https://www.toptal.com/angular/angular-9-tutorial-angular-ivy
 
-<https://medium.freecodecamp.org/want-to-learn-angular-heres-our-free-33-part-course-by-dan-wahlin-fc2ff27ab451>
+https://medium.freecodecamp.org/want-to-learn-angular-heres-our-free-33-part-course-by-dan-wahlin-fc2ff27ab451
 
-<https://www.freecodecamp.org/news/learn-angular-full-course>
+https://www.freecodecamp.org/news/learn-angular-full-course
 
-<https://www.toptal.com/angular-js/interview-questions>
+https://www.toptal.com/angular-js/interview-questions
 
-<https://www.toptal.com/angular/hire-angular-developer>
+https://www.toptal.com/angular/hire-angular-developer
 
-<https://angular.io/guide/architecture>
+https://angular.io/guide/architecture
 
 ## Architecture
 

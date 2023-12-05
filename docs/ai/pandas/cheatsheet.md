@@ -1,6 +1,6 @@
 # CheatSheet
 
-<https://www.kaggle.com/grroverpr/pandas-cheatsheet>
+https://www.kaggle.com/grroverpr/pandas-cheatsheet
 
 ```python
 df # A pandas DataFrame object

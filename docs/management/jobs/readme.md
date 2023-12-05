@@ -27,26 +27,26 @@ Where you apply to a lot of jobs
 ## Platform
 
 - Hirist
-- <https://tophire.co/home?>
+- https://tophire.co/home?
 - LinkedIn
   - [linkedin.com/company/call-for-referral/](https://www.linkedin.com/company/call-for-referral/)
 - [https://www.instahyre.com](https://www.instahyre.com/)
-- <https://welcome.turing.com>
+- https://welcome.turing.com
 
 - Job board - [The Pragmatic Engineer Test: 12 Questions on Engineering Culture - The Pragmatic Engineer](https://blog.pragmaticengineer.com/pragmatic-engineer-test/)
 - [Build for everyone — Google Careers](https://www.google.com/about/careers/applications/)
-- <https://cutshort.io/>
+- https://cutshort.io/
 - [Jobs in Crypto & Web3 Companies | Crypto Jobs List](https://cryptojobslist.com/)
 - **IIITD AlmaIIITD Alma MaterConnect**
 - AllRemote - skuad - allremote.jobs
-- <https://eazyhire.in>
-- <https://www.bigshyft.com/jobs>
+- https://eazyhire.in
+- https://www.bigshyft.com/jobs
 - Naukri
-- <https://www.geektrust.in>
+- https://www.geektrust.in
 - Stackoverflow
 - stanton chase - executive search
 - Vettery
-- <https://edwisor.com>
+- https://edwisor.com
 - humanforte
 - [www.computer.org/jobs](http://www.computer.org/jobs)
 - Triplebyte
@@ -66,7 +66,7 @@ Where you apply to a lot of jobs
 - [https://japan-dev.com/](https://japan-dev.com/)
 - [Platform for Showcasing Work](https://athenasquare.org/)
 - [Austin Belcak on LinkedIn: 7 Offer-Winning Job Search Tools: | 70 comments](https://www.linkedin.com/posts/abelcak_7-offer-winning-job-search-tools-activity-7039234808589250561--U2q)
-- <https://www.pallet.com>
+- https://www.pallet.com
 - [The Biggest Web3, Crypto & Blockchain Recruitment Agency | Plexus](https://www.plexusrs.com/)
 
 ### Remote Job Sites
@@ -154,8 +154,8 @@ Where you apply to a lot of jobs
 
 ### Tools
 
-- <https://www.cvtemplatemaster.com>
-- <https://relevel.com>
+- https://www.cvtemplatemaster.com
+- https://relevel.com
 - <jain.arunabh@nirvanaerecycling.com>
 - **Salaries -** [https://www.levels.fyi/#](https://www.levels.fyi/)
 

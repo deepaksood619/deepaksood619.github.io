@@ -10,4 +10,4 @@ Commit - command + k
 
 alt twice and hold + Up/Down arrow
 
-<https://www.jetbrains.com/help/pycharm/multicursor.html>
+https://www.jetbrains.com/help/pycharm/multicursor.html

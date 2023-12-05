@@ -16,7 +16,7 @@ Unified Modelling Language (UML) is a modeling language in the field of software
 
   ![image](../../media/Software-Coding-Development-Engineering-image3.jpg)
 
-  <https://www.geeksforgeeks.org/unified-modeling-language-uml-sequence-diagrams>
+  https://www.geeksforgeeks.org/unified-modeling-language-uml-sequence-diagrams
 
 - Flowchart
 - Usecase diagram
@@ -38,15 +38,15 @@ Unified Modelling Language (UML) is a modeling language in the field of software
 
 - Wireframe graphical interface
 
-<https://www.freecodecamp.org/news/what-is-a-wireframe-ux-design-tutorial-website>- Archimate diagram
+https://www.freecodecamp.org/news/what-is-a-wireframe-ux-design-tutorial-website- Archimate diagram
 
 - Specification and Description Language (SDL)
 - Ditaa diagram
 - Gantt diagram
 
-<http://plantuml.com>
+http://plantuml.com
 
-<https://mermaidjs.github.io> (Can be rendered using markdown in gitlab)
+https://mermaidjs.github.io (Can be rendered using markdown in gitlab)
 
 ## OCL (Object Constraint Language)
 
@@ -56,11 +56,11 @@ Business Process Model and Notation(BPMN) is a [graphical representation](https:
 
 Originally developed by the [Business Process Management Initiative](https://en.wikipedia.org/wiki/Business_Process_Management_Initiative)(BPMI), BPMN has been maintained by the [Object Management Group](https://en.wikipedia.org/wiki/Object_Management_Group)(OMG) since the two organizations merged in 2005. Version 2.0 of BPMN was released in January 2011, at which point the name was amended toBusiness Process ModelandNotationto reflect the introduction of execution semantics, which were introduced alongside the existing notational and diagramming elements. Though it is an OMG specification, BPMN is also ratified as [ISO](https://en.wikipedia.org/wiki/International_Organization_for_Standardization) 19510. The latest version is BPMN 2.0.2, published in January 2014.
 
-<https://en.wikipedia.org/wiki/Business_Process_Model_and_Notation>
+https://en.wikipedia.org/wiki/Business_Process_Model_and_Notation
 
-<http://www.bpmn.org>
+http://www.bpmn.org
 
-<https://camunda.com>
+https://camunda.com
 
 ## Workflow
 
@@ -72,4 +72,4 @@ A swimlane (or swimlane diagram) is used in [process flow diagrams](https://en.w
 
 ![image](../../media/Software-Coding-Development-Engineering-image4.jpg)
 
-<https://en.wikipedia.org/wiki/Swim_lane>
+https://en.wikipedia.org/wiki/Swim_lane

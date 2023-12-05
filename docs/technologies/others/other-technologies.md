@@ -2,7 +2,7 @@
 
 ## Opensource Free Stuff
 
-<https://free-for.dev>
+https://free-for.dev
 
 [GitHub - awesome-selfhosted/awesome-selfhosted: A list of Free Software network services and web applications which can be hosted on your own servers](https://github.com/awesome-selfhosted/awesome-selfhosted)
 
@@ -36,9 +36,9 @@ Find: TextAnalysisTool.NET also provides a flexible "find" function that allows 
 
 Summary: TextAnalysisTool.NET was written with speed and ease of use in mind throughout. It saves you time by allowing you to save and load filter sets; it lets you import text by opening a file, dragging-and-dropping a file or text from another application, or by pasting text from the clipboard; and it allow
 
-<https://textanalysistool.github.io>
+https://textanalysistool.github.io
 
-<https://github.com/textanalysistool>
+https://github.com/textanalysistool
 
 ## GraalVM
 
@@ -46,13 +46,13 @@ GraalVM is a universal virtual machine for running applications written in JavaS
 
 GraalVM removes the isolation between programming languages and enables interoperability in a shared runtime. It can run either standalone or in the context of OpenJDK, Node.js or Oracle Database.
 
-<https://www.graalvm.org>
+https://www.graalvm.org
 
 ## Amazon Mechanical Turk
 
 Amazon Mechanical Turk(MTurk) is a [crowdsourcing](https://en.wikipedia.org/wiki/Crowdsourcing) website for businesses (known as Requesters) to hire remotely located "crowdworkers" to perform discrete on-demand tasks that computers are currently unable to do. It is operated under [Amazon Web Services](https://en.wikipedia.org/wiki/Amazon_Web_Services), and is owned by [Amazon](https://en.wikipedia.org/wiki/Amazon.com).Employers post jobs known asHuman Intelligence Tasks(HITs), such as identifying specific content in an image or video, writing product descriptions, or answering questions, among others. Workers, colloquially known asTurkersorcrowdworkers, browse among existing jobs and complete them in exchange for a rate set by the employer. To place jobs, the requesting programs use an open [application programming interface](https://en.wikipedia.org/wiki/Application_programming_interface)(API), or the more limited MTurk Requester site.As of April 2019, Requesters could register from only 49 approved countries.
 
-<https://en.wikipedia.org/wiki/Amazon_Mechanical_Turk>
+https://en.wikipedia.org/wiki/Amazon_Mechanical_Turk
 
 ## WSO2
 
@@ -82,15 +82,15 @@ WSO2 Identity Server helps you do single sign-on and identity federation backed 
 
 Leverage the power of open-source IAM in your enterprise to innovate fast and build secure Customer IAM (CIAM) solutions to provide an experience your users will love.
 
-<https://wso2.com>
+https://wso2.com
 
 ## Hypertrack
 
 HyperTrack is live [location](https://en.wikipedia.org/wiki/Location_(geography)) platform in the cloud offering [developer](https://en.wikipedia.org/wiki/Software_developer) tools for mobile application developers in companies of all sizes worldwide. Its toolset contains [iOS](https://en.wikipedia.org/wiki/IOS), and [Android](https://en.wikipedia.org/wiki/Android_(operating_system))[SDKs](https://en.wikipedia.org/wiki/Software_development_kit) which generate live location data, that is then consumed through webhooks, APIs or visual experiences on the web, iOS and Android. Developers have used HyperTrack to build applications like sales-force automation, service fleet efficiency, vehicle asset tracking, delivery tracking, gig economy, live location sharing, automated mileage tracking and expensing
 
-<https://www.hypertrack.com>
+https://www.hypertrack.com
 
-<https://github.com/hypertrack>
+https://github.com/hypertrack
 
 ## Predictive Dialer
 
@@ -102,19 +102,19 @@ Dialing one number at a time, only when an agent is available, typically keeps a
 
 Predictive dialers may be standalone hardware devices, cloud-based, or they may be integrated in software with call center or contact center platforms. A cloud-based predictive dialer provides the functionalities of a traditional predictive dialer without requiring installation on the local device and reduces the dependency on the hardware.The dialer can often also perform less aggressive dialing modes such as, power, progressive, or preview dialing.
 
-<https://en.wikipedia.org/wiki/Predictive_dialer>
+https://en.wikipedia.org/wiki/Predictive_dialer
 
 ## VOIP
 
 Asterisk is a free and open source framework for building communications applications.
 
-<https://www.asterisk.org>
+https://www.asterisk.org
 
 ## Watchman
 
 Watchman exists to watch files and record when they change. It can also trigger actions (such as rebuilding assets) when matching files change.
 
-<https://facebook.github.io/watchman>
+https://facebook.github.io/watchman
 
 ## Retool
 
@@ -122,9 +122,9 @@ Build internal tools, remarkably fast
 
 Stop wrestling with UI libraries, hacking together data sources, and figuring out access controls. Start shipping apps that move your business forward.
 
-<https://retool.com>
+https://retool.com
 
-<https://www.freecodecamp.org/news/build-a-crm>
+https://www.freecodecamp.org/news/build-a-crm
 
 ## Others
 

@@ -6,9 +6,9 @@
 
 Better try then cry
 
-<https://dariusforoux.com/inspirational-quotes>
+https://dariusforoux.com/inspirational-quotes
 
-<https://www.scotthyoung.com/blog/2020/11/02/motivation>
+https://www.scotthyoung.com/blog/2020/11/02/motivation
 
 [Principles For Success in 8 Episodes](https://www.youtube.com/playlist?list=PLykIL_1_MFWkWDDgvdZ6L7rsvKCKl-39j)
 
@@ -126,7 +126,7 @@ Crying is all right in its way while it lasts. But you have to stop sooner or la
 
 Genius - to have a disinterested obsession with something that matters
 
-<http://paulgraham.com/genius.html>
+http://paulgraham.com/genius.html
 
 When making plans, think big, When making progress, think small.
 
@@ -156,7 +156,7 @@ Optimism isn't a belief that everything will go well all the time. It's a belief
 
 ### Blogs
 
-<https://theascent.pub/how-to-be-so-disciplined-itll-look-like-you-have-superpowers-e35d695f49d5>
+https://theascent.pub/how-to-be-so-disciplined-itll-look-like-you-have-superpowers-e35d695f49d5
 
 ### Motivation
 
@@ -248,7 +248,7 @@ People tend to overestimate what can be done in one year and to underestimate wh
 
 **Law of serendipity -** Lady luck favours the one who tries
 
-<https://www.dwarkeshpatel.com/p/annus-mirabilis>
+https://www.dwarkeshpatel.com/p/annus-mirabilis
 
 Luck favors the prepared Mind -- Pasteur
 
@@ -379,7 +379,7 @@ Your ability to perform physical tasks.
 
 Your ability to show compassion to yourself and to others.
 
-<https://dariusforoux.com/manage-personal-energy>
+https://dariusforoux.com/manage-personal-energy
 
 Success will come easy once you function at your full potential. -- Sadhguru
 
@@ -623,7 +623,7 @@ Three simple steps to stop drifting and start living
 - Achieving success is all about keeping your eyes on the prize and taking things one step at a time
 - Reconnect to the old enthusiasm when you started the project, when the project gets difficult. That will help you to push through
 
-<https://www.scotthyoung.com/blog/2020/06/15/narrow-success>
+https://www.scotthyoung.com/blog/2020/06/15/narrow-success
 
 ## Blinkist - Shoot for the Moon by Richard Wiseman (19 May 2019)
 

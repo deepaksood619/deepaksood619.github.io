@@ -168,7 +168,7 @@ for p in Person.objects.raw('SELECT * FROM myapp_person')
   - [Comments](https://docs.djangoproject.com/en/2.0/topics/external-packages/#comments)
   - [Formtools](https://docs.djangoproject.com/en/2.0/topics/external-packages/#formtools)
 
-<https://docs.djangoproject.com/en/2.0/topics>
+https://docs.djangoproject.com/en/2.0/topics
 
 ## How to Guides
 
@@ -192,7 +192,7 @@ for p in Person.objects.raw('SELECT * FROM myapp_person')
 - [How to install Django on Windows](https://docs.djangoproject.com/en/2.0/howto/windows/)
 - [Writing database migrations](https://docs.djangoproject.com/en/2.0/howto/writing-migrations/)
 
-<https://docs.djangoproject.com/en/2.0/howto>
+https://docs.djangoproject.com/en/2.0/howto
 
 ## API Reference
 
@@ -225,7 +225,7 @@ for p in Person.objects.raw('SELECT * FROM myapp_person')
 - [Validators](https://docs.djangoproject.com/en/2.0/ref/validators/)
 - [Built-in Views](https://docs.djangoproject.com/en/2.0/ref/views/)
 
-<https://docs.djangoproject.com/en/2.0/ref>
+https://docs.djangoproject.com/en/2.0/ref
 
 ## Management Command
 

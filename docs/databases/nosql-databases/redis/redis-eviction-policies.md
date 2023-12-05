@@ -46,6 +46,6 @@ To configure the LFU mode, the following policies are available:
 
 LFU is approximated like LRU: it uses a probabilistic counter, called a [Morris counter](https://en.wikipedia.org/wiki/Approximate_counting_algorithm) in order to estimate the object access frequency using just a few bits per object, combined with a decay period so that the counter is reduced over time: at some point we no longer want to consider keys as frequently accessed, even if they were in the past, so that the algorithm can adapt to a shift in the access pattern.
 
-<https://redis.io/topics/lru-cache>
+https://redis.io/topics/lru-cache
 
-<https://tokers.github.io/posts/lru-and-lfu-in-redis-memory-eviction>
+https://tokers.github.io/posts/lru-and-lfu-in-redis-memory-eviction

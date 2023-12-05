@@ -1,18 +1,18 @@
 # Other Languages
 
-<https://dev.to/raygun/top-43-programming-languages-when-and-how-to-use-them-515n>
+https://dev.to/raygun/top-43-programming-languages-when-and-how-to-use-them-515n
 
 ## Assembly Language
 
-<https://www.freecodecamp.org/news/learn-assembly-language-programming-with-arm>
+https://www.freecodecamp.org/news/learn-assembly-language-programming-with-arm
 
 ## Elixir
 
 Elixir's relationship to the Erlang virtual machine (BEAM); the advantages of the Erlang ecosystem; the "sweet spot" for Elixir programs; why a new language was needed for the Erlang VM; compatibility between Elixir and Erlang code; how to get some of the benefits of static typing in a dynamic, strongly typed language using type annotations and dialyzer; the difference between imports, requires, and aliases; how metaprogramming and macros are used to build libraries and the Elixir language itself; when to use metaprogramming; situations where Elixir is not the ideal choice; using Elixir for orchestration; techniques for integrating native code and external services; the dual nature of Elixir as a functional and concurrent language; breaking down programming problems into their concurrent and functional aspects; how Elixir can radically simplify a program's architecture; the relationship between scalability and fault tolerance.
 
-<https://schneider.dev/blog/elixir-phoenix-absinthe-graphql-react-apollo-absurdly-deep-dive>
+https://schneider.dev/blog/elixir-phoenix-absinthe-graphql-react-apollo-absurdly-deep-dive
 
-<https://foxbox.com/blog/elixir-vs-ruby>
+https://foxbox.com/blog/elixir-vs-ruby
 
 CUDA - Compute Unified Device Architecture
 
@@ -31,7 +31,7 @@ The Dart programming language is important for a few reasons
 - It runs on everything, and [compiles to native mobile apps](https://www.toptal.com/flutter/flutter-tutorial), so you can use it for nearly anything.
 - [Dart](https://www.toptal.com/dart) is similar to [C#](https://www.toptal.com/c-sharp) and [Java](https://www.toptal.com/java) in syntax, so it's quick to learn.
 
-<https://www.toptal.com/dart/dartlang-guide-for-csharp-java-devs>
+https://www.toptal.com/dart/dartlang-guide-for-csharp-java-devs
 
 ## dhall-lang
 
@@ -41,7 +41,7 @@ You can think of Dhall as: JSON + functions + types + imports
 
 Note that while Dhall is programmable, Dhall is not Turing-complete. Many of Dhall's features take advantage of this restriction to provide stronger safety guarantees and more powerful tooling.
 
-<https://github.com/dhall-lang/dhall-lang>
+https://github.com/dhall-lang/dhall-lang
 
 ## Apache Groovy
 
@@ -49,9 +49,9 @@ Apache Groovyis a [Java](https://en.wikipedia.org/wiki/Java_(programming_languag
 
 [Apache](http://www.apache.org/) Groovy is apowerful, optionally typedanddynamiclanguage, withstatic-typing and static compilationcapabilities, for the Java platform aimed at improving developer productivity thanks to a concise, familiar and easy to learn syntax. It integrates smoothly with any Java program, and immediately delivers to your application powerful features, including scripting capabilities, Domain-Specific Languageauthoring, runtime and compile-timemeta-programmingandfunctionalprogramming.
 
-<https://en.wikipedia.org/wiki/Apache_Groovy>
+https://en.wikipedia.org/wiki/Apache_Groovy
 
-<http://groovy-lang.org>
+http://groovy-lang.org
 
 ## darklang
 
@@ -59,15 +59,15 @@ A language built for deployless backends.
 
 Dark is a holistic programming language, editor, and infrastructure for building backends without accidental complexity.
 
-<https://darklang.com>
+https://darklang.com
 
-<https://darklang.com/a/deepaksood619>
+https://darklang.com/a/deepaksood619
 
-<https://darklang.github.io/docs/docs/getting-started>
+https://darklang.github.io/docs/docs/getting-started
 
-<https://darklang.github.io/docs/docs/react-spa-tutorial>
+https://darklang.github.io/docs/docs/react-spa-tutorial
 
-<https://darklang.github.io/docs/docs/slack-app-tutorial>
+https://darklang.github.io/docs/docs/slack-app-tutorial
 
 ## Gremlin
 
@@ -75,17 +75,17 @@ Gremlin is a [graph traversal](https://en.wikipedia.org/wiki/Graph_traversal) la
 
 As an explanatory analogy, Apache TinkerPop and Gremlin are to [graph databases](https://en.wikipedia.org/wiki/Graph_databases) what the [JDBC](https://en.wikipedia.org/wiki/Java_Database_Connectivity) and [SQL](https://en.wikipedia.org/wiki/SQL) are to [relational databases](https://en.wikipedia.org/wiki/RDBMS). Likewise, the Gremlin traversal machine is to graph computing as what the [Java virtual machine](https://en.wikipedia.org/wiki/Java_virtual_machine) is to general purpose computing.
 
-<http://tinkerpop.apache.org>
+http://tinkerpop.apache.org
 
-<https://tinkerpop.apache.org/gremlin.html>
+https://tinkerpop.apache.org/gremlin.html
 
-<http://sql2gremlin.com>
+http://sql2gremlin.com
 
-<https://github.com/tinkerpop/gremlin/wiki>
+https://github.com/tinkerpop/gremlin/wiki
 
 ## Kotlin
 
-<https://www.toptal.com/kotlin/kotlin-server-side-development>
+https://www.toptal.com/kotlin/kotlin-server-side-development
 
 ## Closure
 
@@ -115,13 +115,13 @@ Why Clojure sucks
 - It's has a slow startup time
 - It's has a steep learning curve
 
-<https://medium.com/swlh/what-i-learned-after-writing-clojure-for-424-days-straight-8884ec471f8e>
+https://medium.com/swlh/what-i-learned-after-writing-clojure-for-424-days-straight-8884ec471f8e
 
-Reading - <https://www.braveclojure.com>
+Reading - https://www.braveclojure.com
 
-<https://clojure.org>
+https://clojure.org
 
-<https://clojure.org/about/rationale>
+https://clojure.org/about/rationale
 
 ## datalog
 
@@ -142,15 +142,15 @@ Datalog is a deductive query system combining a database of facts (the Datomic d
 - Recursion is much more straightforward than in SQL
 - Datalog rules subsume SQL views, but have more of a logic feel, allowing a closer alignment to business rules
 
-<https://en.wikipedia.org/wiki/Datalog>
+https://en.wikipedia.org/wiki/Datalog
 
-<https://docs.racket-lang.org/datalog>
+https://docs.racket-lang.org/datalog
 
 ## Racket
 
 Racket is a [general-purpose programming language](https://docs.racket-lang.org/quick/index.html) as well as the [world's first ecosystem](http://felleisen.org/matthias/manifesto/) for language-oriented programming.
 
-<https://racket-lang.org>
+https://racket-lang.org
 
 ## DPC++ / oneAPI
 
@@ -158,7 +158,7 @@ Data Parallel C++, or DPC++ for short, is a C-based open-source alternative to p
 
 Intel oneAPI is a single, unified programming model that aims to simplify development across different hardware architectures: CPUs, GPUs, FPGAs, AI accelerators, and more.
 
-<https://www.toptal.com/c-plus-plus/intel-oneapi-dpc-plus-plus>
+https://www.toptal.com/c-plus-plus/intel-oneapi-dpc-plus-plus
 
 ## Halide
 
@@ -172,7 +172,7 @@ Halide is a programming language designed to make it easier to write high-perfor
 
 Rather than being a standalone programming language, Halide is embedded in C++. This means you write C++ code that builds an in-memory representation of a Halide pipeline using Halide's C++ API. You can then compile this representation to an object file, or JIT-compile it and run it in the same process.
 
-<http://halide-lang.org>
+http://halide-lang.org
 
 ## Julia
 
@@ -182,9 +182,9 @@ Distinctive aspects of Julia's design include a type system with [parametric pol
 
 Julia is [garbage-collected](https://en.wikipedia.org/wiki/Garbage_collection_(computer_science)), uses [eager evaluation](https://en.wikipedia.org/wiki/Eager_evaluation) and includes efficient libraries for [floating-point](https://en.wikipedia.org/wiki/Floating-point) calculations, [linear algebra](https://en.wikipedia.org/wiki/Linear_algebra), [random number generation](https://en.wikipedia.org/wiki/Random_number_generation), and [regular expression](https://en.wikipedia.org/wiki/Regular_expression) matching. Many libraries are available, and some of them (e.g. for [fast Fourier transforms](https://en.wikipedia.org/wiki/Fast_Fourier_transform)) were previously bundled with Julia.
 
-<https://en.wikipedia.org/wiki/Julia_(programming_language)>
+https://en.wikipedia.org/wiki/Julia_(programming_language)
 
-<https://towardsdatascience.com/bye-bye-python-hello-julia-9230bff0df62>
+https://towardsdatascience.com/bye-bye-python-hello-julia-9230bff0df62
 
 ## Flux
 
@@ -200,13 +200,13 @@ Flux is a lightweight scripting language for querying databases (like InfluxDB) 
 8. Anonymous function
 9. Predicate function
 
-<https://www.influxdata.com/blog/why-were-building-flux-a-new-data-scripting-and-query-language>
+https://www.influxdata.com/blog/why-were-building-flux-a-new-data-scripting-and-query-language
 
-<https://github.com/influxdata/flux>
+https://github.com/influxdata/flux
 
-<https://docs.influxdata.com/flux/v0.7>
+https://docs.influxdata.com/flux/v0.7
 
-<https://github.com/fluxcd/flux2>
+https://github.com/fluxcd/flux2
 
 [Flux and InfluxDB 2.0](https://www.slideshare.net/influxdata/flux-and-influxdb-20)
 
@@ -227,9 +227,9 @@ Simple, fast, safe, compiled language for developing maintainable software. Supp
 - Easy cross compilation
 - REPL
 
-<https://github.com/vlang/v>
+https://github.com/vlang/v
 
-<https://vlang.io>
+https://vlang.io
 
 ## ziglang
 

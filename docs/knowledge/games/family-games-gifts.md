@@ -6,7 +6,7 @@
 - Jigsaw
 - Adding word one by one
 - Raja mantri chor sipahi
-- <https://www.herzindagi.com/society-culture/fun-entertaining-indoor-games-to-play-with-family-article-154895>
+- https://www.herzindagi.com/society-culture/fun-entertaining-indoor-games-to-play-with-family-article-154895
 - Ludo
 - Snakes and ladders
 
@@ -37,7 +37,7 @@
 - Running
 - Jizsaw puzzle
 
-<https://www.jigsawplanet.com>
+https://www.jigsawplanet.com
 
 ## Riddle (Missing Dollar Riddle)
 
@@ -57,6 +57,6 @@ As each guest got $1 back, each guest only paid $9, bringing the total paid to $
 
 ## Gifts
 
-<https://establishedtitles.com/products/lordship-title-pack-new>
+https://establishedtitles.com/products/lordship-title-pack-new
 
 - Photoframe with photo

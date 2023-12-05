@@ -53,9 +53,9 @@ To complement the self-assessment of the stress continuum, McGladrey recently pi
 
 [Debbie Lovich: 3 tips for leaders to get the future of work right | TED](https://youtu.be/kTS1jJgXsfw)
 
-<https://blog.trello.com/boundaries-to-start-setting-with-your-team>
+https://blog.trello.com/boundaries-to-start-setting-with-your-team
 
-<https://blog.trello.com/conflict-management-strategies-for-hybrid-teams>
+https://blog.trello.com/conflict-management-strategies-for-hybrid-teams
 
 [The Future of Remote Work | Stay SaaSy](https://staysaasy.com/management/2023/08/06/the-future-of-remote-work.html)
 

@@ -28,8 +28,8 @@ A MemSQL cluster can be configured in "High Availability" mode, where every data
 
 Effortlessly set up streaming ingest feeds from [Apache Kafka](http://docs.memsql.com/docs/kafka-extractor), [Amazon S3](http://docs.memsql.com/docs/s3-pipelines-overview), and [HDFS](https://docs.memsql.com/docs/hdfs-pipelines-overview/) using a single [CREATE PIPELINE](http://docs.memsql.com/docs/create-pipeline) command
 
-<https://www.memsql.com>
+https://www.memsql.com
 
-<https://en.wikipedia.org/wiki/MemSQL>
+https://en.wikipedia.org/wiki/MemSQL
 
-<https://www.memsql.com/blog/a-technical-introduction-to-memsql>
+https://www.memsql.com/blog/a-technical-introduction-to-memsql

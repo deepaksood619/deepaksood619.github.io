@@ -105,7 +105,7 @@ Tasks that perform Input/Output operations should run in a greenlet-based execut
 
 What can you do if you have a mix of CPU and I/O bound tasks? Set up two queues with one worker processing each queue. One queue/worker with a prefork execution pool for CPU heavy tasks. And another queue/worker with a gevent or eventlet execution pool for I/O tasks. And don't forget to route your tasks to the correct queue.
 
-<https://www.distributedpython.com/2018/10/26/celery-execution-pool>
+https://www.distributedpython.com/2018/10/26/celery-execution-pool
 
 ## Eventlet
 

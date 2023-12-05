@@ -7,12 +7,12 @@
 
 ## AI (Artificial Intelligence) + DL (Deep Learning) + ML (Machine Learning)
 
-- <https://www.freecodecamp.org/learn/machine-learning-with-python>
-- OpenCV - <https://www.youtube.com/watch?v=P4Z8_qe2Cu0>
+- https://www.freecodecamp.org/learn/machine-learning-with-python
+- OpenCV - https://www.youtube.com/watch?v=P4Z8_qe2Cu0
 - D2l.ai + coursera + fast.ai
 - Kaggle
 - AI - Model serving framework
-- <https://www.kaggle.com/learn>
+- https://www.kaggle.com/learn
 - Data modelling
 - [FinGPT: Open-Source Financial Large Language Models](https://arxiv.org/abs/2306.06031)
 - [Learn Machine Learning in 3 Months (PyTorch Curriculum) - YouTube](https://www.youtube.com/watch?v=dS2HYPY7T-4)
@@ -31,10 +31,10 @@
 - DS - Pandas and Numpy + Scipy + scikit-learn
 - Data Analytics Certification (powerbi / tableau)
 - Credit Risk Modeling (Data Science)
-- <https://www.analyticsvidhya.com/blog/2019/12/30-challenging-open-source-data-science-projects-2020>
+- https://www.analyticsvidhya.com/blog/2019/12/30-challenging-open-source-data-science-projects-2020
 - scipy documentation
 - Python for DS - Freecodecamp certification
-- <https://www.startdataengineering.com/post/data-engineering-project-to-impress-hiring-managers>
+- https://www.startdataengineering.com/post/data-engineering-project-to-impress-hiring-managers
 - [Data Engineering Study Guide](https://docs.google.com/spreadsheets/d/1atzJSnV86J1ylnpOGVO8VaBVmx8TEAhw_DzHr25-ql4/edit?usp=sharing)
 - [Learn Pandas & Python for Data Analysis - Full Course](https://www.freecodecamp.org/news/learn-pandas-for-data-science/)
 - [SQL Interview Prep With Zach Wilson - YouTube](https://www.youtube.com/watch?v=ycQ-wqlaEX8)

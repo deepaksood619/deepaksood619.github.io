@@ -8,7 +8,7 @@ Athena is easy to use. Simply point to your data in Amazon S3, define the schema
 
 Athena is out-of-the-box integrated with [AWS Glue](https://aws.amazon.com/glue/) Data Catalog, allowing you to create a unified metadata repository across various services, crawl data sources to discover schemas and populate your Catalog with new and modified table and partition definitions, and maintain schema versioning.
 
-<https://aws.amazon.com/athena>
+https://aws.amazon.com/athena
 
 ## When should I use Athena
 
@@ -18,7 +18,7 @@ Athena integrates with Amazon QuickSight for easy data visualization. You can us
 
 Athena integrates with the AWS Glue Data Catalog, which offers a persistent metadata store for your data in Amazon S3. This allows you to create tables and query data in Athena based on a central metadata store available throughout your AWS account and integrated with the ETL and data discovery features of AWS Glue. For more information, see [Integration with AWS Glue](https://docs.aws.amazon.com/athena/latest/ug/glue-athena.html) and [What is AWS Glue](https://docs.aws.amazon.com/glue/latest/dg/what-is-glue.html) in theAWS Glue Developer Guide.
 
-<https://docs.aws.amazon.com/athena/latest/ug/when-should-i-use-ate.html>
+https://docs.aws.amazon.com/athena/latest/ug/when-should-i-use-ate.html
 
 ## Partitioning Data
 
@@ -36,7 +36,7 @@ To create a table with partitions, you must define it during theCREATE TABLEstat
 
 2. Data is not partitioned.
 
-<https://docs.aws.amazon.com/athena/latest/ug/partitions.html>
+https://docs.aws.amazon.com/athena/latest/ug/partitions.html
 
 When you create a table from CSV data in Athena, determine what types of values it contains:
 
@@ -48,7 +48,7 @@ When you create a table from CSV data in Athena, determine what types of values 
 - Does not support embedded line breaks in CSV files.
 - Does not support empty fields in columns defined as a numeric data type.
 
-ACID - <https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-athena-acid-transactions-powered-apache-iceberg>
+ACID - https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-athena-acid-transactions-powered-apache-iceberg
 
 ## Athena iceberg
 
@@ -56,13 +56,13 @@ Athena supports read, time travel, write, and DDL queries for Apache Iceberg tab
 
 [Apache Iceberg](https://iceberg.apache.org/) is an open table format for very large analytic datasets. Iceberg manages large collections of files as tables, and it supports modern analytical data lake operations such as record-level insert, update, delete, and time travel queries. The Iceberg specification allows seamless table evolution such as schema and partition evolution, and its design is optimized for usage on Amazon S3. Iceberg also helps guarantee data correctness under concurrent write scenarios.
 
-<https://docs.aws.amazon.com/athena/latest/ug/querying-iceberg.html>
+https://docs.aws.amazon.com/athena/latest/ug/querying-iceberg.html
 
 [Build a serverless transactional data lake with Apache Iceberg, Amazon EMR Serverless, and Amazon Athena | AWS Big Data Blog](https://aws.amazon.com/blogs/big-data/build-a-serverless-transactional-data-lake-with-apache-iceberg-amazon-emr-serverless-and-amazon-athena/)
 
 ## Query
 
-<https://docs.aws.amazon.com/athena/latest/ug/functions-operators-reference-section.html>
+https://docs.aws.amazon.com/athena/latest/ug/functions-operators-reference-section.html
 
 Use **approx distinct count** whenever you don't have to have an exact count. so replace your distinct count(distinct x) with approx_distinct(x). This is a big one (exact distinct count causes your query to run on a single Presto node. This function has a standard error of 2.3% (you can actually customize this with approx_distinct(x, e))
 
@@ -537,7 +537,7 @@ FROM bank_data.meta_data where cast(substring(create_date,1,19) as timestamp) be
 
     It can happen that partition schema is different from table's schema leading to 'HIVE_PARTITION_SCHEMA_MISMATCH' error. At the beginning of query execution, Athena verifies the table's schema by checking that each column data type is compatible between the table and the partition. If you create a table in CSV, JSON, and AVRO in Athena with AWS Glue Crawler, after the Crawler finishes processing, the schemas for the table and its partitions may be different. If there is a mismatch between the table's schema and the partition schemas, your queries fail in Athena due to the schema verification error.
 
-    A typical workaround for such errors is to drop the partition that is causing the error and recreate it. Suggest to use ALTER TABLE DROP PARTITION and ALTER TABLE ADD PARTITION to drop and add partition manually. It is recommended to go thru documentation link provided below for more information on updates in tables with partitions. <https://docs.aws.amazon.com/athena/latest/ug/updates-and-partitions.html>
+    A typical workaround for such errors is to drop the partition that is causing the error and recreate it. Suggest to use ALTER TABLE DROP PARTITION and ALTER TABLE ADD PARTITION to drop and add partition manually. It is recommended to go thru documentation link provided below for more information on updates in tables with partitions. https://docs.aws.amazon.com/athena/latest/ug/updates-and-partitions.html
 
 ## Performance tuning guides
 
@@ -553,7 +553,7 @@ FROM bank_data.meta_data where cast(substring(create_date,1,19) as timestamp) be
 10. Use approximate functions
 11. Only include the columns that you need
 
-<https://aws.amazon.com/blogs/big-data/top-10-performance-tuning-tips-for-amazon-athena>
+https://aws.amazon.com/blogs/big-data/top-10-performance-tuning-tips-for-amazon-athena
 
 ## Connectors
 
@@ -561,17 +561,17 @@ FROM bank_data.meta_data where cast(substring(create_date,1,19) as timestamp) be
 
 The Amazon Athena DynamoDB connector enables Amazon Athena to communicate with DynamoDB so that you can query your tables with SQL.
 
-<https://docs.aws.amazon.com/athena/latest/ug/athena-prebuilt-data-connectors-dynamodb.html>
+https://docs.aws.amazon.com/athena/latest/ug/athena-prebuilt-data-connectors-dynamodb.html
 
 ## Others
 
-<https://aws.amazon.com/athena/faqs>
+https://aws.amazon.com/athena/faqs
 
-<https://www.linkedin.com/pulse/my-top-5-gotchas-working-aws-glue-tanveer-uddin>
+https://www.linkedin.com/pulse/my-top-5-gotchas-working-aws-glue-tanveer-uddin
 
-<https://aws.amazon.com/blogs/big-data/create-tables-in-amazon-athena-from-nested-json-and-mappings-using-jsonserde>
+https://aws.amazon.com/blogs/big-data/create-tables-in-amazon-athena-from-nested-json-and-mappings-using-jsonserde
 
-<https://github.com/quux00/hive-json-schema>
+https://github.com/quux00/hive-json-schema
 
 `java -jar target/json-hive-schema-1.0-jar-with-dependencies.jar in.json TopQuark`
 
@@ -584,14 +584,14 @@ wobble array<struct<entry:int, entrydetails:struct<details1:string, details2:int
 ROW FORMAT SERDE 'org.openx.data.jsonserde.JsonSerDe';
 ```
 
-<http://thornydev.blogspot.com/2013/07/querying-json-records-via-hive.html>
+http://thornydev.blogspot.com/2013/07/querying-json-records-via-hive.html
 
-<https://docs.aws.amazon.com/athena/latest/ug/engine-versions-reference.html>
+https://docs.aws.amazon.com/athena/latest/ug/engine-versions-reference.html
 
 ## CSV to bulk import
 
-<https://mbejda.github.io/CSV-to-Athena-Bulk-Import>
+https://mbejda.github.io/CSV-to-Athena-Bulk-Import
 
 ## Debugging
 
-<https://aws.amazon.com/premiumsupport/knowledge-center/error-json-athena>
+https://aws.amazon.com/premiumsupport/knowledge-center/error-json-athena

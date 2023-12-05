@@ -44,4 +44,4 @@ Constraint - Not enough memory to store N items
 
 - Heap Sort
 
-<https://engineering.fb.com/2021/02/22/production-engineering/foqs-scaling-a-distributed-priority-queue>
+https://engineering.fb.com/2021/02/22/production-engineering/foqs-scaling-a-distributed-priority-queue

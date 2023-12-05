@@ -56,7 +56,7 @@ There are a few drivers for the Law of Shitty Clickthroughs, and here's a summar
 - First-to-market never lasts
 - More scale means less qualified customers
 
-<https://andrewchen.com/the-law-of-shitty-clickthroughs>
+https://andrewchen.com/the-law-of-shitty-clickthroughs
 
 ## Social Media Interaction
 
@@ -100,13 +100,13 @@ CSAT measures customer satisfaction with regards to a product or service, wherea
 
 So, whereas CSAT usually describes how your customer feels about a recent purchase, NPS can track their feelings about you as a brand, over a longer term.
 
-<https://www.qualtrics.com/au/experience-management/customer/csat-vs-nps>
+https://www.qualtrics.com/au/experience-management/customer/csat-vs-nps
 
 ## CES - Customer Effort Score
 
 ## CLV - Customer Lifetime Value
 
-<https://lumoa.me/blog/customer-experience-metrics-and-kpis>
+https://lumoa.me/blog/customer-experience-metrics-and-kpis
 
 ## DAU, WAU, MAU, the DAU/MAU Ratio
 
@@ -235,11 +235,11 @@ A customer engagement platform can help you automate the following:
 - Drilling down granular insights for various customer relationship to better shape customer-facing teams' communication
 - Defining key metrics and measure the outcomes of your customer engagement campaigns
 
-<https://vwo.com/customer-engagement>
+https://vwo.com/customer-engagement
 
-<https://acquire.io/blog/customer-engagement-strategies>
+https://acquire.io/blog/customer-engagement-strategies
 
-<https://www.searchenginejournal.com/content-marketing-kpis/user-engagement-metrics>
+https://www.searchenginejournal.com/content-marketing-kpis/user-engagement-metrics
 
 ## User Engagement
 
@@ -288,7 +288,7 @@ Tracking
 
 - Spam reports
 
-<https://clarity.microsoft.com>
+https://clarity.microsoft.com
 
 Clarity is a free, easy-to-use tool that captures how real people actually use your site. Setup is easy and you'll start getting data in minutes.
 
@@ -302,21 +302,21 @@ Power users drive some of the most successful companies - people who love their 
 
 ![image](../media/Customer-Engagement-CX-image3.jpg)
 
-<https://andrewchen.com/power-user-curve>
+https://andrewchen.com/power-user-curve
 
-<https://www.quicksprout.com/user-retention>
+https://www.quicksprout.com/user-retention
 
-<https://www.appcues.com/blog/user-engagement-tools>
+https://www.appcues.com/blog/user-engagement-tools
 
-<https://blog.getsocial.im/user-acquisition-engagement-tools-for-your-mobile-app>
+https://blog.getsocial.im/user-acquisition-engagement-tools-for-your-mobile-app
 
-<https://userpilot.com/blog/user-engagement-tools-and-software>
+https://userpilot.com/blog/user-engagement-tools-and-software
 
 ## Tools
 
-<https://www.moengage.com>
+https://www.moengage.com
 
-<https://www.kissmetrics.io>
+https://www.kissmetrics.io
 
 ## Freshworks / Zoho
 
@@ -342,7 +342,7 @@ Omnichannel customer support Helpdesk, ITSM solution, Chat solutions, Bot functi
   - Acquire
 - Calendar
   - Calendly
-  - <https://youcanbook.me>
+  - https://youcanbook.me
   - Acuity
   - Schedule One
 - Surveys
@@ -383,7 +383,7 @@ A CRM API lets you connect functionality with another system such as newsletter 
 
 Connecting a CRM to a different software platform like accounting or newsletter tools is referred to as a CRM integration.
 
-<https://www.toptal.com/crm/crm-api-integration-guide>
+https://www.toptal.com/crm/crm-api-integration-guide
 
 [What is CRM? | A guide to CRM software by Zoho CRM](https://www.youtube.com/watch?v=hnEQq7kNFWo)
 
@@ -397,17 +397,17 @@ Acustomer data platform(CDP) is a type of packaged software which creates a pers
 
 Example - Apache Unomi
 
-<https://blog.hubspot.com/service/customer-data-platform-guide>
+https://blog.hubspot.com/service/customer-data-platform-guide
 
-<https://en.wikipedia.org/wiki/Customer_data_platform>
+https://en.wikipedia.org/wiki/Customer_data_platform
 
-<https://www.rudderstack.com>
+https://www.rudderstack.com
 
 ## CRM vs CDP
 
 The difference between a CRM and a CDP comes down to this: CRMs help manage customer relationships, while CDPs help manage customer data.
 
-<https://segment.com/blog/CRM-vs-CDP>
+https://segment.com/blog/CRM-vs-CDP
 
 ## ERP
 

@@ -34,4 +34,4 @@ These parallel actions ultimately shift the [trade balance](https://www.investop
 
 ## Links
 
-<https://www.investopedia.com/terms/j/jcurve.asp>
+https://www.investopedia.com/terms/j/jcurve.asp

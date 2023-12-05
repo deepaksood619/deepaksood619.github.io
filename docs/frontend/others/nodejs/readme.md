@@ -26,7 +26,7 @@ Advanced, production process manager for Node.js
 
 PM2 is daemon process manager that will help you manage and keep your application online.
 
-<http://pm2.keymetrics.io>
+http://pm2.keymetrics.io
 
 ## Difference between Node.js and PHP
 
@@ -71,23 +71,23 @@ Subtle dns queries are done all the time to resolve domains through the blocking
 
 ## References
 
-<https://en.wikipedia.org/wiki/Node.js>
+https://en.wikipedia.org/wiki/Node.js
 
-<https://medium.freecodecamp.org/what-exactly-is-node-js-ae36e97449f5>
+https://medium.freecodecamp.org/what-exactly-is-node-js-ae36e97449f5
 
-<https://dev.to/jorge_rockr/everything-you-need-to-know-about-node-js-lnc>
+https://dev.to/jorge_rockr/everything-you-need-to-know-about-node-js-lnc
 
-<https://dev.to/khaosdoctor/node-js-under-the-hood-1-getting-to-know-our-tools-1465>
+https://dev.to/khaosdoctor/node-js-under-the-hood-1-getting-to-know-our-tools-1465
 
-<https://dev.to/santypk4/bulletproof-node-js-project-architecture-4epf>
+https://dev.to/santypk4/bulletproof-node-js-project-architecture-4epf
 
-<https://www.toptal.com/nodejs>
+https://www.toptal.com/nodejs
 
-<https://www.freecodecamp.org/news/async-local-storage-nodejs>
+https://www.freecodecamp.org/news/async-local-storage-nodejs
 
-<https://www.toptal.com/nodejs/interview-questions>
+https://www.toptal.com/nodejs/interview-questions
 
-<https://www.toptal.com/nodejs/node-js-error-handling>
+https://www.toptal.com/nodejs/node-js-error-handling
 
 [**https://www.toptal.com/express-js/nodejs-typescript-rest-api-pt-1**](https://www.toptal.com/express-js/nodejs-typescript-rest-api-pt-1)
 
@@ -95,9 +95,9 @@ Subtle dns queries are done all the time to resolve domains through the blocking
 
 [**https://www.toptal.com/express-js/nodejs-typescript-rest-api-pt-3**](https://www.toptal.com/express-js/nodejs-typescript-rest-api-pt-3)
 
-<https://www.freecodecamp.org/news/free-8-hour-node-express-course>
+https://www.freecodecamp.org/news/free-8-hour-node-express-course
 
-<https://www.freecodecamp.org/news/build-six-node-js-and-express-js>
+https://www.freecodecamp.org/news/build-six-node-js-and-express-js
 
 [Creating a Secure Node.js REST API | Toptal®](https://www.toptal.com/nodejs/secure-rest-api-in-nodejs)
 

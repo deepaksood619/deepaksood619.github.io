@@ -147,6 +147,6 @@ v1.x = 4 # uses the setter, printing the value
 - Abstract Base Classes
 - Metaclasses
 
-<https://www.datacamp.com/community/tutorials/python-metaclasses>
+https://www.datacamp.com/community/tutorials/python-metaclasses
 
 [Python OOP Tutorials - Working with Classes](https://www.youtube.com/playlist?list=PL-osiE80TeTsqhIuOqKhwlXsIBIdSeYtc)

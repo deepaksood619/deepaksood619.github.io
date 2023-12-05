@@ -142,7 +142,7 @@ BC
 - 1946:British Cabinet Mission visits India; Interim government formed at the Centre. The Muslim league decides on "Direct Action" for winning Pakistan.
 - 1947:Division of India; India and Pakistan form separate independent dominions.
 
-<https://iasexamportal.com/general-knowledge/indian-history-important-dates>
+https://iasexamportal.com/general-knowledge/indian-history-important-dates
 
 [Crash Course Modern History | British East India Company from 1600 - 1857](https://youtu.be/kUWEYLVooxU)
 
@@ -169,7 +169,7 @@ BC
 | 15    | Protein Revolution                  | Agriculture (Higher Production)    |                                             | 2014 -- 2020             |
 | 16    | Grey Revolution                     | Fertilizers                        |                                             | The 1960s-1970s          |
 
-<https://entri.app/blog/important-revolutions-and-fathers>
+https://entri.app/blog/important-revolutions-and-fathers
 
 ## Others
 

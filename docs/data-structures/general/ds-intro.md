@@ -14,7 +14,7 @@ Formally, an implicit data structure is one with constant*O*(1)space overhead
 
 A **succinct data structure** is a [data structure](https://en.wikipedia.org/wiki/Data_structure) which uses an amount of space that is "close" to the [information-theoretic](https://en.wikipedia.org/wiki/Information-theoretic) lower bound, but (unlike other compressed representations) still allows for efficient query operations.
 
-<https://en.wikipedia.org/wiki/Succinct_data_structure>
+https://en.wikipedia.org/wiki/Succinct_data_structure
 
 ## Linear Data Structure (they all have a logical start and a logical end)
 
@@ -47,8 +47,8 @@ A **succinct data structure** is a [data structure](https://en.wikipedia.org/wik
    - Directed graph
 6. Rope (Efficient for String concatenation)
 
-<https://www.wisdomjobs.com/e-university/data-structures-tutorial-290.html>
+https://www.wisdomjobs.com/e-university/data-structures-tutorial-290.html
 
-<https://medium.freecodecamp.org/all-you-need-to-know-about-tree-data-structures-bceacb85490c>
+https://medium.freecodecamp.org/all-you-need-to-know-about-tree-data-structures-bceacb85490c
 
-<https://www.freecodecamp.org/news/learn-all-about-data-structures-used-in-computer-science>
+https://www.freecodecamp.org/news/learn-all-about-data-structures-used-in-computer-science

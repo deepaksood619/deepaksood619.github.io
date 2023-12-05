@@ -12,4 +12,4 @@ CIDR encompasses several concepts. It is based on the **variable-length subnet m
 
 ## Resources
 
-<https://en.wikipedia.org/wiki/Classless_Inter-Domain_Routing>
+https://en.wikipedia.org/wiki/Classless_Inter-Domain_Routing

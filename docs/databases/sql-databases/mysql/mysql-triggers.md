@@ -43,7 +43,7 @@ The SQL standard defines two types of triggers: row-level triggers and statement
 - A statement-level trigger is executed once for each transaction regardless of how many rows are inserted, updated, or deleted.
 MySQL supports only row-level triggers. It doesn't support statement-level triggers.
 
-<https://www.mysqltutorial.org/mysql-triggers.aspx>
+https://www.mysqltutorial.org/mysql-triggers.aspx
 
 ### When to use and not to use Triggers
 
@@ -81,12 +81,12 @@ There are 6 different types of triggers in MySQL:
 5. Before Delete Trigger
 6. After Delete Trigger
 
-<https://www.geeksforgeeks.org/different-types-of-mysql-triggers-with-examples>
+https://www.geeksforgeeks.org/different-types-of-mysql-triggers-with-examples
 
 ## 23.4 Using the Event Scheduler
 
 MySQL Events are tasks that run according to a schedule. Therefore, we sometimes refer to them as *scheduled* events. When you create an event, you are creating a named database object containing one or more SQL statements to be executed at one or more regular intervals, beginning and ending at a specific date and time. Conceptually, this is similar to the idea of the Unix crontab(also known as a "cron job") or the Windows Task Scheduler.
 
-<https://www.mysqltutorial.org/mysql-triggers/working-mysql-scheduled-event>
+https://www.mysqltutorial.org/mysql-triggers/working-mysql-scheduled-event
 
-<https://dev.mysql.com/doc/refman/8.0/en/events-overview.html>
+https://dev.mysql.com/doc/refman/8.0/en/events-overview.html

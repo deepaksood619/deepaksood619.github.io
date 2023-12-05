@@ -4,7 +4,7 @@ Class is permanent and form is temporary
 
 MBTI - Myers-Briggs Type Indicator for personality test
 
-<https://www.16personalities.com/free-personality-test>
+https://www.16personalities.com/free-personality-test
 
 ![image](../media/Personality-image1.jpg)
 
@@ -111,7 +111,7 @@ Knowing what you can and can't, will make your life a lot easier. Too often, [we
 
 Give effective people a challenge, and they'll think about a solution. Give them a bleak outlook, and they'll find things to be grateful for. In contrast, being pessimistic is the easiest thing in the world. Everyone can complain and say "we can't do that." But it takes strength to say "let's figure out a way to make it happen."
 
-<https://dariusforoux.com/positive-personality-traits>
+https://dariusforoux.com/positive-personality-traits
 
 ## How can you become a 10xer?
 
@@ -137,9 +137,9 @@ Give effective people a challenge, and they'll think about a solution. Give them
 - A star employee today is not necessarily a star employee tomorrow.
 - Conversely, an average employee today could be a 10xer tomorrow.
 
-<https://summation.net/2020/05/14/how-can-you-become-a-10xer>
+https://summation.net/2020/05/14/how-can-you-become-a-10xer
 
-<https://blog.codegiant.io/how-to-become-a-10x-engineer-492fa3f57101>
+https://blog.codegiant.io/how-to-become-a-10x-engineer-492fa3f57101
 
 ## Links
 

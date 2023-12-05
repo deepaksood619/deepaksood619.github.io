@@ -12,7 +12,7 @@ go get github.com/golang/protobuf/protoc-gen-go
 export PATH="$PATH:$(go env GOPATH)/bin"
 protoc --proto_path=proto proto/*.proto --go_out=plugins=grpc:pb
 
-<https://grpc.io/docs/quickstart/go>
+https://grpc.io/docs/quickstart/go
 ```
 
 ```python
@@ -34,7 +34,7 @@ MessageToJson(m)
 
 ### Tools
 
-<https://github.com/fullstorydev/grpcurl>
+https://github.com/fullstorydev/grpcurl
 
 ### python2to3.py
 

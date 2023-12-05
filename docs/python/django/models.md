@@ -28,7 +28,7 @@ Each field in your model should be an instance of the appropriate [**Field**](ht
 
 ## Common field arguments
 
-<https://docs.djangoproject.com/en/2.0/ref/models/fields/#field-options>
+https://docs.djangoproject.com/en/2.0/ref/models/fields/#field-options
 
 - null
 - blank
@@ -50,7 +50,7 @@ Each field in your model should be an instance of the appropriate [**Field**](ht
 
 ## Common field types
 
-<https://docs.djangoproject.com/en/2.0/ref/models/fields/#field-types>
+https://docs.djangoproject.com/en/2.0/ref/models/fields/#field-types
 
 - Char field
 - Text field
@@ -62,7 +62,7 @@ Each field in your model should be an instance of the appropriate [**Field**](ht
 
 ## Relationship fields
 
-<https://docs.djangoproject.com/en/2.0/ref/models/fields/#module-django.db.models.fields.related>
+https://docs.djangoproject.com/en/2.0/ref/models/fields/#module-django.db.models.fields.related
 
 - ForeignKey
 - ManyToManyField

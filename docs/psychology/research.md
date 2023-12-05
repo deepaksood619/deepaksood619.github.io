@@ -10,7 +10,7 @@ Typically information is defined in terms of data, knowledge in terms of informa
 
 ## References
 
-<https://en.wikipedia.org/wiki/DIKW_pyramid>
+https://en.wikipedia.org/wiki/DIKW_pyramid
 
 ## Fact Checking
 
@@ -20,9 +20,9 @@ Typically information is defined in terms of data, knowledge in terms of informa
 
 3. What do other sources say about the organization and its claims?
 
-<https://www.freecodecamp.org/news/building-a-habit-of-reading-research-papers>
+https://www.freecodecamp.org/news/building-a-habit-of-reading-research-papers
 
-<https://www.userinterviews.com>
+https://www.userinterviews.com
 
 ## Cross-sectional study
 

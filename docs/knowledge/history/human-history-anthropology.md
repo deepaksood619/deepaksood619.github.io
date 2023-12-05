@@ -26,7 +26,7 @@
 
 ## Earth History
 
-<http://timelineofearth.com>
+http://timelineofearth.com
 
 [To Scale: TIME - YouTube](https://www.youtube.com/watch?v=nOVvEbH2GC0)
 

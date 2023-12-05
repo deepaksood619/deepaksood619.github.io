@@ -43,4 +43,4 @@ aleph - א
 
 ## References
 
-<https://en.wikipedia.org/wiki/Greek_letters_used_in_mathematics,_science,_and_engineering>
+https://en.wikipedia.org/wiki/Greek_letters_used_in_mathematics,_science,_and_engineering

@@ -2,7 +2,7 @@
 
 Code reviews are fundamental to the software development process, even when there's only one engineer.
 
-<https://www.chakshunyu.com/blog/this-is-my-10-questions-react-code-reviewing-routine>
+https://www.chakshunyu.com/blog/this-is-my-10-questions-react-code-reviewing-routine
 
 "I first look for security, functionality, and readability. Is the code simple, or cluttered, bloated, and inefficient? How many lines of unnecessary code will I need to re-write or remove? I check for any weaknesses that could cause vulnerabilities and confirm that regulatory requirements have been met."
 
@@ -27,7 +27,7 @@ Write deterministic code - Given an input, code always produces the same output
 - Code shouldn't be unnecessarily complex
 - Code shouldn't be un-performant (don't write intentionally slow code)
 
-<https://www.freecodecamp.org/news/clean-coding-for-beginners>
+https://www.freecodecamp.org/news/clean-coding-for-beginners
 
 ### [https://www.toptal.com/software/six-commandments-of-good-code](https://www.toptal.com/software/six-commandments-of-good-code)
 
@@ -50,7 +50,7 @@ Write deterministic code - Given an input, code always produces the same output
 
 In programming, it is also common to refer to the "NIH syndrome" as the tendency towards [reinventing the wheel](https://en.wikipedia.org/wiki/Reinventing_the_wheel)(reimplementing something that is already available) based on the belief that in-house developments are inherently better suited, more secure, more controlled, quicker to develop, and incur lower overall cost (including maintenance cost) than using existing implementations.
 
-<https://en.wikipedia.org/wiki/Not_invented_here>
+https://en.wikipedia.org/wiki/Not_invented_here
 
 ## [Enterprise Programming Tricks for clean code](https://www.youtube.com/watch?v=dC9vdQkU-xI)
 
@@ -76,9 +76,9 @@ In programming, it is also common to refer to the "NIH syndrome" as the tendency
 
 ## Others
 
-<https://www.fluentcpp.com/2019/08/27/extract-function-should-i-extract-the-condition-too>
+https://www.fluentcpp.com/2019/08/27/extract-function-should-i-extract-the-condition-too
 
-<https://www.fluentcpp.com/2016/12/15/respect-levels-of-abstraction>
+https://www.fluentcpp.com/2016/12/15/respect-levels-of-abstraction
 
 [Reasons & Ways to Improve Code Quality - Venkat Subramaniam - GOTO 2021](https://www.youtube.com/watch?v=znZlF4uQBN0)
 

@@ -38,7 +38,7 @@ If you are building for web, mobile or IoT (Internet of Things) you will likely 
 
 ## Kong DB Less Declarative Config
 
-<https://docs.konghq.com/1.3.x/db-less-and-declarative-config>
+https://docs.konghq.com/1.3.x/db-less-and-declarative-config
 
 ## Kong Helm Charts
 
@@ -75,7 +75,7 @@ kubectl port-forward --namespace kong $POD_NAME 8444:8444
             PORT=$(kubectl get svc --namespace kong kg-kong-proxy -o jsonpath='{.spec.ports[0].nodePort}')
 ```
 
-<https://github.com/helm/charts/tree/master/stable/kong>
+https://github.com/helm/charts/tree/master/stable/kong
 
 ## Commands
 
@@ -123,16 +123,16 @@ curl -X POST \
 http://localhost:8000/fake-api/users
 ```
 
-<http://localhost:8000/fake-api/users>
+http://localhost:8000/fake-api/users
 
 ## Konga
 
 More than just another GUI to Kong Admin API
 
-<https://github.com/pantsel/konga>
+https://github.com/pantsel/konga
 
 ## References
 
-<https://github.com/Kong/kong>
+https://github.com/Kong/kong
 
-<https://medium.com/@tselentispanagis/managing-microservices-and-apis-with-kong-and-konga-7d14568bb59d>
+https://medium.com/@tselentispanagis/managing-microservices-and-apis-with-kong-and-konga-7d14568bb59d

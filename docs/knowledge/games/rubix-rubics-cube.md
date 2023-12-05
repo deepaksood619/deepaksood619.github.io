@@ -84,7 +84,7 @@ FL'RU'FF
 
 **Solve the Top Face -**
 
-<https://www.rubiks.com/blog/how-to-solve-the-rubiks-cube-stage-5>
+https://www.rubiks.com/blog/how-to-solve-the-rubiks-cube-stage-5
 
 1. **Make a yellow cross**
 
@@ -108,7 +108,7 @@ If any two corner Cubes are yellow don't worry about their position. You MUST ma
 
 ![image](../../media/Games-Rubix-Rubics-Cube-image9.jpg)
 
-<https://www.rubiks.com/blog/how-to-solve-the-rubiks-cube-stage-6>
+https://www.rubiks.com/blog/how-to-solve-the-rubiks-cube-stage-6
 
 **Final Layer**
 

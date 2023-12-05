@@ -20,7 +20,7 @@ This project is currently in incubation as part of Kubernetes. It uses the Kuber
 
 While newer than Docker or rkt, this project has gained major vendor support due to its flexibility and compatibility.
 
-<https://cri-o.io>
+https://cri-o.io
 
 ## Containerd
 
@@ -48,7 +48,7 @@ A tool that focuses on creating Open Container Initiative (OCI) images. It allow
 
 runcis a CLI tool for spawning and running containers according to the OCI specification.
 
-<https://github.com/opencontainers/runc>
+https://github.com/opencontainers/runc
 
 ## RED HAT APPROACH TO CLOUD-NATIVE CONTAINERS
 
@@ -109,7 +109,7 @@ Some containerized applications require the container to be synchronized with th
 
 - Mirroring and Caching to optmize container registry
 
-<https://www.youtube.com/watch?v=Bm7g0saAC9k>
+https://www.youtube.com/watch?v=Bm7g0saAC9k
 
 Is a container a type of virtual machine?
 
@@ -130,10 +130,10 @@ Containers are implemented with Linux-specific system calls. So why can you run 
 
 ## RHEL base image
 
-<https://www.redhat.com/en/blog/introducing-red-hat-universal-base-image>
+https://www.redhat.com/en/blog/introducing-red-hat-universal-base-image
 
 ## Moby
 
-<https://mobyproject.org>
+https://mobyproject.org
 
-<https://github.com/moby/moby>
+https://github.com/moby/moby

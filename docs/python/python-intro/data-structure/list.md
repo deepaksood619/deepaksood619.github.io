@@ -173,7 +173,7 @@ So, when should you use a list and when should you use an array?
 - If you have a very long sequence of items, consider using anarray. This structure offers more efficient data storage.
 - If you plan to do any numerical operations with your combination of items, use anarray.
 
-<https://www.geeksforgeeks.org/difference-between-list-and-array-in-python>
+https://www.geeksforgeeks.org/difference-between-list-and-array-in-python
 
 ## Slice Notation in Lists
 
@@ -226,4 +226,4 @@ tup.sort() # sort a list of tuples by 1st key, if 1st keys are same then 2nd key
 
 ## References
 
-- <https://www.datacamp.com/community/tutorials/18-most-common-python-list-questions-learn-python>
+- https://www.datacamp.com/community/tutorials/18-most-common-python-list-questions-learn-python

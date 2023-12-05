@@ -21,15 +21,15 @@ Chaos Engineering is the discipline of experimenting on a system in order to bui
 - Chaos Monkey
 - Istio
 - gremlin
-- Powerfulseal - <https://github.com/powerfulseal/powerfulseal>
-- Litmus Chaos - <https://litmuschaos.io>
+- Powerfulseal - https://github.com/powerfulseal/powerfulseal
+- Litmus Chaos - https://litmuschaos.io
 
 ## References
 
-<http://principlesofchaos.org>
+http://principlesofchaos.org
 
-<https://www.gremlin.com/community/tutorials/chaos-engineering-the-history-principles-and-practice>
+https://www.gremlin.com/community/tutorials/chaos-engineering-the-history-principles-and-practice
 
-<https://github.com/linki/chaoskube>
+https://github.com/linki/chaoskube
 
-<https://blog.flant.com/chaos-engineering-in-kubernetes-open-source-tools>
+https://blog.flant.com/chaos-engineering-in-kubernetes-open-source-tools

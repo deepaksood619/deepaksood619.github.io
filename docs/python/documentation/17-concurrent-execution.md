@@ -99,25 +99,25 @@ print q.get(),
 print(q.queue)
 ```
 
-<https://docs.python.org/3/library/queue.html>
+https://docs.python.org/3/library/queue.html
 
 ## Python Parallel Processing
 
-<https://www.machinelearningplus.com/python/parallel-processing-python>
+https://www.machinelearningplus.com/python/parallel-processing-python
 
-<https://blog.floydhub.com/multiprocessing-vs-threading-in-python-what-every-data-scientist-needs-to-know>
+https://blog.floydhub.com/multiprocessing-vs-threading-in-python-what-every-data-scientist-needs-to-know
 
 ## Ray
 
 A fast and simple framework for building and running distributed applications. Ray is packaged with RLlib, a scalable reinforcement learning library, and Tune, a scalable hyperparameter tuning library.
 
-<https://ray.io>
+https://ray.io
 
-<https://github.com/ray-project/ray>
+https://github.com/ray-project/ray
 
-<https://towardsdatascience.com/10x-faster-parallel-python-without-python-multiprocessing-e5017c93cce1>
+https://towardsdatascience.com/10x-faster-parallel-python-without-python-multiprocessing-e5017c93cce1
 
-<https://towardsdatascience.com/modern-parallel-and-distributed-python-a-quick-tutorial-on-ray-99f8d70369b8>
+https://towardsdatascience.com/modern-parallel-and-distributed-python-a-quick-tutorial-on-ray-99f8d70369b8
 
 ## Subprocess
 
@@ -134,10 +134,10 @@ subprocess.call(['./helloscript.go'])
 | IO             | Network connection, file operation | Multithreading    |
 | CPU            | Complex math problem, search       | Multiprocessing   |
 
-<https://zacs.site/blog/linear-python.html>
+https://zacs.site/blog/linear-python.html
 
 ## sched
 
 The [sched](https://docs.python.org/3/library/sched.html#module-sched) module defines a class which implements a general purpose event scheduler
 
-<https://docs.python.org/3/library/sched.html>
+https://docs.python.org/3/library/sched.html

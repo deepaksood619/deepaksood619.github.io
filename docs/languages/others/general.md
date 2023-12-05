@@ -4,7 +4,7 @@
 
 A domain-specific language (DSL) is a computer language specialised to a particular application domain. This is in contrast to a general-purpose language (GPL), which is broadly applicable across domains. There are a wide variety of DSLs, ranging from widely used languages for common domains, such as HTML for web pages, down to languages used by only one or a few pieces of software, such as MUSH soft code. DSLs can be further subdivided by the kind of language, and include domain-specific markup languages, domain-specific modeling languages (more generally, specification languages), and domain-specific programming languages. Special-purpose computer languages have always existed in the computer age, but the term "domain-specific language" has become more popular due to the rise of domain-specific modeling. Simpler DSLs, particularly ones used by a single application, are sometimes informally called mini-languages.
 
-<https://en.wikipedia.org/wiki/Domain-specific_language>
+https://en.wikipedia.org/wiki/Domain-specific_language
 
 ## Channels
 
@@ -24,12 +24,12 @@ The difference between them is that buffered channels can be pulled with the dat
 
 ## Python vs C++
 
-<https://realpython.com/python-vs-cpp>
+https://realpython.com/python-vs-cpp
 
 ## Performance node php java go
 
-<https://www.toptal.com/back-end/server-side-io-performance-node-php-java-go>
+https://www.toptal.com/back-end/server-side-io-performance-node-php-java-go
 
 ## Benchmarks
 
-<https://benchmarksgame-team.pages.debian.net/benchmarksgame/index.html>
+https://benchmarksgame-team.pages.debian.net/benchmarksgame/index.html

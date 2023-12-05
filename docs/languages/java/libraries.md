@@ -10,7 +10,7 @@ Already bundled with jdk
 
 A modern, JVM-based, full-stack framework for building modular, easily testable microservice and serverless applications.
 
-<https://micronaut.io>
+https://micronaut.io
 
 ## Quarkus (Supersonic Subatomic Java)
 
@@ -25,17 +25,17 @@ Quarkus is a Cloud Native, (Linux) Container First framework for writing Java ap
 - Microservice First: Brings lightning fast startup time and code turn around to Java apps
 - Developer Joy: Development centric experience without compromise to bring your amazing apps to life in no time
 
-<https://quarkus.io>
+https://quarkus.io
 
 ## Picocli
 
 Picocli aims to be the easiest way to create rich command line applications that can run on and off the JVM.
 
-<https://picocli.info>
+https://picocli.info
 
 ## Relience4j
 
-<https://github.com/resilience4j/resilience4j>
+https://github.com/resilience4j/resilience4j
 
 ## vert.x
 
@@ -45,6 +45,6 @@ Vert.x core contains fairly low-level functionality, including support for HTTP,
 
 Eclipse Vert.x isevent drivenandnon blocking. This means your app can handle a lot of concurrency using a small number of kernel threads. Vert.x lets your app scale with minimal hardware.
 
-<https://vertx.io>
+https://vertx.io
 
-<https://vertx.io/docs/vertx-core/java>
+https://vertx.io/docs/vertx-core/java

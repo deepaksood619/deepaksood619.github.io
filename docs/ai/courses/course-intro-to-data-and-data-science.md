@@ -1,10 +1,10 @@
 # Course - Intro to Data and Data Science
 
-<https://365datascience.com>
+https://365datascience.com
 
-<https://365datascience.teachable.com/courses/enrolled/361452>
+https://365datascience.teachable.com/courses/enrolled/361452
 
-<https://github.com/deepaksood619/Data-Modeling>
+https://github.com/deepaksood619/Data-Modeling
 
 - Data
 - Data team

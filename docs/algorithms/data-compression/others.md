@@ -6,9 +6,9 @@
 
 Zstandard, orzstdas short version, is a fast lossless compression algorithm, targeting real-time compression scenarios at zlib-level and better compression ratios. It's backed by a very fast entropy stage, provided by [Huff0 and FSE library](https://github.com/Cyan4973/FiniteStateEntropy).
 
-<https://github.com/facebook/zstd>
+https://github.com/facebook/zstd
 
-<https://facebook.github.io/zstd>
+https://facebook.github.io/zstd
 
 ## WebP (for images)
 
@@ -22,7 +22,7 @@ See > Image Formats
 
 Brotli is a generic-purpose lossless compression algorithm that compresses data using a combination of a modern variant of the LZ77 algorithm, Huffman coding and 2nd order context modeling, with a compression ratio comparable to the best currently available general-purpose compression methods. It is similar in speed with deflate but offers more dense compression.
 
-<https://github.com/google/brotli>
+https://github.com/google/brotli
 
 ## Snappy Compression
 
@@ -47,7 +47,7 @@ Although Snappy should be fairly portable, it is primarily optimized for 64-bit 
 - Snappy assumes unaligned 32 and 64-bit loads and stores are cheap. On some platforms, these must be emulated with single-byte loads and stores, which is much slower.
 - Snappy assumes little-endian throughout, and needs to byte-swap data in several places if running on a big-endian platform.
 
-<https://github.com/andrix/python-snappy>
+https://github.com/andrix/python-snappy
 
 ```python
 python -m snappy -c uncompressed_file compressed_file.snappy
@@ -86,14 +86,14 @@ Bitsets, also called bitmaps, are commonly used as fast data structures. Unfortu
 
 Roaring bitmaps are compressed bitmaps which tend to outperform conventional compressed bitmaps such as WAH, EWAH or Concise. In some instances, roaring bitmaps can be hundreds of times faster and they often offer significantly better compression. They can even be faster than uncompressed bitmaps.
 
-<https://roaringbitmap.org>
+https://roaringbitmap.org
 
 ## Message Pack
 
 MessagePack is an efficient binary serialization format. It lets you exchange data among multiple languages like JSON. But it's faster and smaller. Small integers are encoded into a single byte, and typical short strings require only one extra byte in addition to the strings themselves.
 
-<https://msgpack.org/index.html>
+https://msgpack.org/index.html
 
 ## Digital Video
 
-<https://github.com/leandromoreira/digital_video_introduction>
+https://github.com/leandromoreira/digital_video_introduction

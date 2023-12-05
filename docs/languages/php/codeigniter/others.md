@@ -2,9 +2,9 @@
 
 ## Logging
 
-<https://codeigniter.com/user_guide/general/logging.html>
+https://codeigniter.com/user_guide/general/logging.html
 
-<https://www.loggly.com/ultimate-guide/php-logging-basics>
+https://www.loggly.com/ultimate-guide/php-logging-basics
 
 log_message('error', 'Some variable did not contain a value.');
 
@@ -23,4 +23,4 @@ log_message('error', 'Some variable did not contain a value.');
 
 [Swagger Update In Codeigniter With Rest API || By Unknown Tech](https://www.youtube.com/watch?v=xta65r12mg8&ab_channel=UnknownTech)
 
-<https://www.youtube.com/watch?v=JnjlQBWvDAE&ab_channel=DevDrawer>
+https://www.youtube.com/watch?v=JnjlQBWvDAE&ab_channel=DevDrawer

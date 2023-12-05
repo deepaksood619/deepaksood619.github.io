@@ -1,6 +1,6 @@
 # Generative Adversarial Networks (GANs)
 
-<https://www.toptal.com/machine-learning/generative-adversarial-networks>
+https://www.toptal.com/machine-learning/generative-adversarial-networks
 
 A GAN is a type of neural network that is able to generate new data from scratch.
 

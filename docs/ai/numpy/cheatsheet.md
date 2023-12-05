@@ -139,4 +139,4 @@ np.isinf(a[2]) # True
 
 ## References
 
-<https://towardsdatascience.com/the-ultimate-beginners-guide-to-numpy-f5a2f99aef54>
+https://towardsdatascience.com/the-ultimate-beginners-guide-to-numpy-f5a2f99aef54

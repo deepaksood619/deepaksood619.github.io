@@ -13,7 +13,7 @@
 - Increase model generalization
 - Cluster observations
 
-<https://www.toptal.com/machine-learning/embeddings-in-machine-learning>
+https://www.toptal.com/machine-learning/embeddings-in-machine-learning
 
 ## Summary of Embeddings
 
@@ -39,7 +39,7 @@
 
 ![image](../../media/Embeddings-&-Estimators-image10.jpg)
 
-<https://www.learndatasci.com/tutorials/building-recommendation-engine-locality-sensitive-hashing-lsh-python>
+https://www.learndatasci.com/tutorials/building-recommendation-engine-locality-sensitive-hashing-lsh-python
 
 ## Data Driven Embeddings
 

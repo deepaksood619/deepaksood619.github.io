@@ -1,6 +1,6 @@
 # Overview
 
-<https://www.djangoproject.com/start/overview>
+https://www.djangoproject.com/start/overview
 
 Django is a powerful web development framework built on top of Python
 
@@ -98,17 +98,17 @@ $ django-admin.py startproject samplesite .
 - Redis or RabbitMQ: Queue for Celery
 - uWSGI: Python WSGI server
 
-<https://simpleisbetterthancomplex.com/article/2021/07/08/what-you-should-know-about-the-django-user-model.html>
+https://simpleisbetterthancomplex.com/article/2021/07/08/what-you-should-know-about-the-django-user-model.html
 
-<https://simpleisbetterthancomplex.com/tutorial/2021/06/27/how-to-start-a-production-ready-django-project.html>
+https://simpleisbetterthancomplex.com/tutorial/2021/06/27/how-to-start-a-production-ready-django-project.html
 
-<https://www.youtube.com/watch?v=Z5WQMSdcYv8>
+https://www.youtube.com/watch?v=Z5WQMSdcYv8
 
-<https://www.freecodecamp.org/news/django-for-everybody-learn-the-popular-python-framework-from-dr-chuck>
+https://www.freecodecamp.org/news/django-for-everybody-learn-the-popular-python-framework-from-dr-chuck
 
 [Django (3.0) Crash Course Tutorials | Customer Management App](https://www.youtube.com/playlist?list=PL-51WBLyFTg2vW-_6XBoUpE7vpmoR3ztO)
 
 - CRUD with model forms
 - Inline formsets
 
-<https://www.freecodecamp.org/news/create-a-social-media-app-with-django>
+https://www.freecodecamp.org/news/create-a-social-media-app-with-django

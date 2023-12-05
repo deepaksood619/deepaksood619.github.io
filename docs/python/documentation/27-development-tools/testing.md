@@ -162,7 +162,7 @@ Many people choose to use the [pytest-cov](https://pytest-cov.readthedocs.io/) p
 
 Some test runners provide coverage integration to make it easy to use coverage.py while running tests. For example, [pytest](http://doc.pytest.org/) has the [pytest-cov](https://pytest-cov.readthedocs.io/) plugin.
 
-<https://coverage.readthedocs.io/en/latest>
+https://coverage.readthedocs.io/en/latest
 
 - pytest-cov
 
@@ -179,7 +179,7 @@ This plugin produces coverage reports. Compared to just usingcoveragerunthis plu
 - Xdist support: you can use all of pytest-xdist's features and still get coverage.
 - Consistent pytest behavior. If you runcoveragerun-mpytestyou will have slightly differentsys.path(CWD will be in it, unlike when runningpytest).
 
-<https://pytest-cov.readthedocs.io/en/latest/readme.html>
+https://pytest-cov.readthedocs.io/en/latest/readme.html
 
 #### Hypothesis
 
@@ -193,13 +193,13 @@ tox is a tool for automating test environment management and testing against mul
 
 [Robot Framework](http://robotframework.org/) is a generic open source automation framework for acceptance testing, acceptance test driven development (ATDD), and robotic process automation (RPA). It has simple plain text syntax and it can be extended easily with libraries implemented using Python or Java.
 
-<https://github.com/robotframework/robotframework>
+https://github.com/robotframework/robotframework
 
-<https://robotframework.org>
+https://robotframework.org
 
-<https://realpython.com/python-testing>
+https://realpython.com/python-testing
 
-<https://medium.com/swlh/unit-testing-in-python-basics-21a9a57418a0>
+https://medium.com/swlh/unit-testing-in-python-basics-21a9a57418a0
 
 ## Assert can be used to test the code
 
@@ -271,4 +271,4 @@ fake.name()
 fake.past_datetime(start_date='-10y').strftime('%Y-%m-%d %H:%M:%S')
 ```
 
-<https://github.com/joke2k/faker>
+https://github.com/joke2k/faker

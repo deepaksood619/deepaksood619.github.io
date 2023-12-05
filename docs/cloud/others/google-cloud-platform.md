@@ -31,7 +31,7 @@ Cloud Functions are written in Javascript and execute in a Node.js v6.11.5 envir
 
 Fully managed cron job service
 
-<https://cloud.google.com/scheduler/docs/quickstart>
+https://cloud.google.com/scheduler/docs/quickstart
 
 ## Big Data
 
@@ -101,13 +101,13 @@ Cloud Spanner is the only enterprise-grade, globally-distributed, and strongly c
 
 Its basically a CP system (Consistency - Partition tolerance)
 
-<https://cloud.google.com/blog/products/gcp/inside-cloud-spanner-and-the-cap-theorem>
+https://cloud.google.com/blog/products/gcp/inside-cloud-spanner-and-the-cap-theorem
 
-<https://cloud.google.com/spanner/docs/true-time-external-consistency>
+https://cloud.google.com/spanner/docs/true-time-external-consistency
 
-<https://ai.google/research/pubs/pub45855>
+https://ai.google/research/pubs/pub45855
 
-<https://thedataguy.in/internals-of-google-cloud-spanner>
+https://thedataguy.in/internals-of-google-cloud-spanner
 
 A Spanner cluster [contains](https://cloud.google.com/spanner/docs/replication#replica_types) multiple read-write, may contain some read-only and some witness replicas.
 
@@ -319,11 +319,11 @@ gcloud compute ssh --project deepak-project-619 --zone us-east1-b root@instance-
 
 ## References
 
-**Google BigTable** - <https://cloudplatform.googleblog.com/2018/04/what-we-learned-doing-serverless-the-Smart-Parking-story.html>
+**Google BigTable** - https://cloudplatform.googleblog.com/2018/04/what-we-learned-doing-serverless-the-Smart-Parking-story.html
 
-<https://github.com/gregsramblings/google-cloud-4-words>
+https://github.com/gregsramblings/google-cloud-4-words
 
-<https://medium.com/google-cloud/13-most-common-google-cloud-reference-architectures-23630b46326d>
+https://medium.com/google-cloud/13-most-common-google-cloud-reference-architectures-23630b46326d
 
 ![image](../../media/Cloud-Others-Google-Cloud-Platform-Managed-Services-image4.jpg)
 

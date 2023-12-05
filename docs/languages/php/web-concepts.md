@@ -34,7 +34,7 @@ Spaces are removed and replaced with the+character and any other nonalphanumeric
 
 The GET method sends the encoded user information appended to the page request. The page and the encoded information are separated by the?character.
 
-<http://www.test.com/index.htm?name1=value1&name2=value2>
+http://www.test.com/index.htm?name1=value1&name2=value2
 
 - The GET method produces a long string that appears in your server logs, in the browser's Location: box.
 - The GET method is restricted to send upto 1024 characters only.
@@ -135,7 +135,7 @@ Here $_PHP_SELF variable contains the name of self script in which it is being c
 
 ![image](../../media/Web-Concepts-image1.jpg)
 
-<https://www.tutorialspoint.com/php/php_get_post.htm>
+https://www.tutorialspoint.com/php/php_get_post.htm
 
 ## File Inclusion
 
@@ -153,7 +153,7 @@ So there is no difference in require() and include() except they handle error co
 
 This is a strong point of PHP which helps in creating functions, headers, footers, or elements that can be reused on multiple pages. This will help developers to make it easy to change the layout of complete website with minimal effort. If there is any change required then instead of changing thousand of files just change included file.
 
-<https://www.tutorialspoint.com/php/php_file_inclusion.htm>
+https://www.tutorialspoint.com/php/php_file_inclusion.htm
 
 ## Cookies
 
@@ -165,7 +165,7 @@ There are three steps involved in identifying returning users −
 - Browser stores this information on local machine for future use.
 - When next time browser sends any request to web server then it sends those cookies information to the server and server uses that information to identify the user.
 
-<https://www.tutorialspoint.com/php/php_cookies.htm>
+https://www.tutorialspoint.com/php/php_cookies.htm
 
 ## Sessions
 
@@ -185,13 +185,13 @@ When a PHP script wants to retrieve the value from a session variable, PHP autom
 
 A session ends when the user loses the browser or after leaving the site, the server will terminate the session after a predetermined period of time, commonly 30 minutes duration.
 
-<https://www.tutorialspoint.com/php/php_sessions.htm>
+https://www.tutorialspoint.com/php/php_sessions.htm
 
 ## Sending emails
 
 PHP must be configured correctly in thephp.inifile with the details of how your system sends email. Open php.ini file available in/etc/directory and find the section headed [mail function].
 
-<https://www.tutorialspoint.com/php/php_sending_emails.htm>
+https://www.tutorialspoint.com/php/php_sending_emails.htm
 
 ## Uploading files
 
@@ -212,4 +212,4 @@ As usual when writing files it is necessary for both temporary and final locatio
 
 An uploaded file could be a text file or image file or any document.
 
-<https://www.tutorialspoint.com/php/php_file_uploading.htm>
+https://www.tutorialspoint.com/php/php_file_uploading.htm

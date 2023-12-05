@@ -17,10 +17,10 @@ SE Radio > Distributed Tracing
 
 ## References
 
-<https://opentracing.io/docs/overview/what-is-tracing>
+https://opentracing.io/docs/overview/what-is-tracing
 
-<https://github.com/opentracing/opentracing-python>
+https://github.com/opentracing/opentracing-python
 
-<https://medium.com/opentracing/distributed-tracing-in-10-minutes-51b378ee40f1>
+https://medium.com/opentracing/distributed-tracing-in-10-minutes-51b378ee40f1
 
-<https://ai.google/research/pubs/pub36356>
+https://ai.google/research/pubs/pub36356

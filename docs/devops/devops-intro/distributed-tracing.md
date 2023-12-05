@@ -16,16 +16,16 @@ A significant challenge of microservices is to understand the flow of events acr
 
 The first service that receives a client request should generate the correlation ID. If the service makes an HTTP call to another service, it puts the correlation ID in a request header. If the service sends an asynchronous message, it puts the correlation ID into the message. Downstream services continue to propagate the correlation ID, so that it flows through the entire system. In addition, all code that writes application metrics or log events should include the correlation ID.
 
-<https://docs.microsoft.com/en-us/azure/architecture/microservices/logging-monitoring#distributed-tracing>
+https://docs.microsoft.com/en-us/azure/architecture/microservices/logging-monitoring#distributed-tracing
 
 ## Tools
 
-1. Grafana Tempo - <https://grafana.com/oss/tempo>
+1. Grafana Tempo - https://grafana.com/oss/tempo
 2. Twitter zipkin
-3. Google Dapper - <https://ai.google/research/pubs/pub36356>
+3. Google Dapper - https://ai.google/research/pubs/pub36356
 4. Jaeger
 
-<https://medium.com/@masroor.hasan/tracing-infrastructure-with-jaeger-on-kubernetes-6800132a677>
+https://medium.com/@masroor.hasan/tracing-infrastructure-with-jaeger-on-kubernetes-6800132a677
 
 ## SE Radio - 337: Distributed Tracing
 
@@ -50,7 +50,7 @@ Distributed tracing, a form of event-driven observability useful in debugging di
 
 ## References
 
-<https://opentracing.io/docs/overview/what-is-tracing>
+https://opentracing.io/docs/overview/what-is-tracing
 
 ## Zipkin
 
@@ -60,6 +60,6 @@ Zipkin is a distributed tracing system. It helps gather timing data needed to tr
 
 Applications are instrumented to report timing data to Zipkin. The Zipkin UI also presents a Dependency diagram showing how many traced requests went through each application. If you are troubleshooting latency problems or errors, you can filter or sort all traces based on the application, length of trace, annotation, or timestamp. Once you select a trace, you can see the percentage of the total trace time each span takes which allows you to identify the problem application.
 
-<https://github.com/openzipkin/zipkin>
+https://github.com/openzipkin/zipkin
 
-<https://zipkin.apache.org>
+https://zipkin.apache.org

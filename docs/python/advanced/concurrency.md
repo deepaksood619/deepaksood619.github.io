@@ -12,17 +12,17 @@ Solution -
 
 ## References
 
-<https://wiki.python.org/moin/GlobalInterpreterLock>
+https://wiki.python.org/moin/GlobalInterpreterLock
 
-<https://pybay.com/site_media/slides/raymond2017-keynote/index.html>
+https://pybay.com/site_media/slides/raymond2017-keynote/index.html
 
 [Raymond Hettinger, Keynote on Concurrency, PyBay 2017](https://www.youtube.com/watch?v=9zinZmE3Ogk&index=2&list=WL&t=0s)
 
-<https://realpython.com/python-concurrency>
+https://realpython.com/python-concurrency
 
-<https://www.toptal.com/python/beginners-guide-to-concurrency-and-parallelism-in-python>
+https://www.toptal.com/python/beginners-guide-to-concurrency-and-parallelism-in-python
 
-<https://www.tutorialspoint.com/concurrency_in_python/index.htm>
+https://www.tutorialspoint.com/concurrency_in_python/index.htm
 
 [**Tutorial: Santiago Basulto - Python Concurrency: from beginner to pro**](https://www.youtube.com/watch?v=18B1pznaU1o)
 
@@ -62,4 +62,4 @@ thread = threading.Thread(target=attack)
 thread.start()
 ```
 
-<https://bovage.hashnode.dev/what-exactly-is-multithreading>
+https://bovage.hashnode.dev/what-exactly-is-multithreading

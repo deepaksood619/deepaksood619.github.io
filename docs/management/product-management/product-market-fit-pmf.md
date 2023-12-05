@@ -9,9 +9,9 @@ Finding product/market fit is the main objective of all new products. However, i
 5. Growth strategy
 6. Business model
 
-<https://www.lennysnewsletter.com/p/how-to-know-if-youve-got-productmarket>
+https://www.lennysnewsletter.com/p/how-to-know-if-youve-got-productmarket
 
-<https://www.lennysnewsletter.com/p/how-to-kickstart-and-scale-a-marketplace>
+https://www.lennysnewsletter.com/p/how-to-kickstart-and-scale-a-marketplace
 
 ## GTM - Go To Market
 
@@ -26,7 +26,7 @@ A go-to-market (GTM) strategy is a step-by-step plan for launching a new product
 
 ![go-to-market-strategy](../../media/Pasted%20image%2020230801121928.png)
 
-<https://asana.com/resources/go-to-market-gtm-strategy>
+https://asana.com/resources/go-to-market-gtm-strategy
 
 ## Product Strategy + GTM (Go To Market)
 

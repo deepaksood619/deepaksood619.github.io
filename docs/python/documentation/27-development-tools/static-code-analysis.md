@@ -2,7 +2,7 @@
 
 ## black / autopep8 / yapf (Auto formatters)
 
- <https://www.kevinpeters.net/auto-formatters-for-python>
+ https://www.kevinpeters.net/auto-formatters-for-python
 
 ## isort
 
@@ -52,13 +52,13 @@ Mypy is an optional static type checker for Python. You can add type hints ([PEP
 
 You can mix dynamic and static typing in your programs. You can always fall back to dynamic typing when static typing is not convenient, such as for legacy code.
 
-<https://github.com/python/mypy>
+https://github.com/python/mypy
 
-<http://mypy-lang.org>
+http://mypy-lang.org
 
-<https://medium.com/analytics-vidhya/type-annotations-in-python-3-8-3b401384403d>
+https://medium.com/analytics-vidhya/type-annotations-in-python-3-8-3b401384403d
 
-<https://sourcery.ai/blog/python-best-practices>
+https://sourcery.ai/blog/python-best-practices
 
 ## Black
 
@@ -74,7 +74,7 @@ black <file_path>
 black .
 ```
 
-<https://github.com/psf/black>
+https://github.com/psf/black
 
 ## Pyre type-checker
 
@@ -84,7 +84,7 @@ Pyre ships withPysa, a security focused static analysis tool we've built on top 
 
 [https://pyre-check.org](https://pyre-check.org/)
 
-<https://github.com/facebook/pyre-check>
+https://github.com/facebook/pyre-check
 
 ## pre-commit / precommit
 
@@ -201,7 +201,7 @@ autoflake -r --in-place --remove-unused-variables --remove-all-unused-imports **
 black .
 ```
 
-<https://medium.com/staqu-dev-logs/keeping-python-code-clean-with-pre-commit-hooks-black-flake8-and-isort-cac8b01e0ea1>
+https://medium.com/staqu-dev-logs/keeping-python-code-clean-with-pre-commit-hooks-black-flake8-and-isort-cac8b01e0ea1
 
 [https://pre-commit.com/hooks.html](https://pre-commit.com/hooks.html)
  [GitHub - igorshubovych/markdownlint-cli: MarkdownLint Command Line Interface](https://github.com/igorshubovych/markdownlint-cli)
@@ -286,7 +286,7 @@ vulture myscript.py
 vulture . --exclude .history
 ```
 
-<https://github.com/jendrikseipp/vulture>
+https://github.com/jendrikseipp/vulture
 
 ### Flake8: Nudging Yourself to use Good Style
 
@@ -322,13 +322,13 @@ vulture . --exclude .history
 
 Bandit is a tool designed to find common security issues in Python code. To do this Bandit processes each file, builds an AST from it, and runs appropriate plugins against the AST nodes. Once Bandit has finished scanning all the files it generates a report.
 
-<https://pypi.org/project/bandit>
+https://pypi.org/project/bandit
 
 ## mypy
 
 Mypy is an optional static type checker for Python that aims to combine the benefits of dynamic (or "duck") typing and static typing. Mypy combines the expressive power and convenience of Python with a powerful type system and compile-time type checking. Mypy type checks standard Python programs; run them using any Python VM with basically no runtime overhead.
 
-<http://mypy-lang.org>
+http://mypy-lang.org
 
 ## Code Complexity
 
@@ -358,9 +358,9 @@ Besides radon, there are various other packages and Flake8 plugins:
 - [wily](https://pypi.org/project/wily/): A command-line application for tracking, reporting on the complexity of Python tests and applications.
 - [xenon](https://pypi.org/project/xenon/): Relies on radon
 
-<https://towardsdatascience.com/static-code-analysis-for-python-bdce10b8d287>
+https://towardsdatascience.com/static-code-analysis-for-python-bdce10b8d287
 
-Linting & formatting - <https://realpython.com/python-pep8>
+Linting & formatting - https://realpython.com/python-pep8
 
 ## Pep8 Naming Convention for files
 
@@ -368,7 +368,7 @@ Linting & formatting - <https://realpython.com/python-pep8>
 - packages (directories) should have*short, all-lowercase names*, preferably without underscores;
 - classes should use the CapWords convention.
 
-<https://www.youtube.com/watch?v=4klj8UYPZxY&ab_channel=freeCodeCampTalks>
+https://www.youtube.com/watch?v=4klj8UYPZxY&ab_channel=freeCodeCampTalks
 
 ## Others
 

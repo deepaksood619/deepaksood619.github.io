@@ -103,10 +103,10 @@ Use Case
 
 ![image](../../media/Server-Driven-Mobile-UIs-image7.jpg)
 
-<https://tech.affirm.com/solving-spaghetti-code-with-a-state-machine-aaec159f6659>
+https://tech.affirm.com/solving-spaghetti-code-with-a-state-machine-aaec159f6659
 
-<https://medium.com/rocket-fuel/server-driven-ui-for-android-with-jetpack-compose-6763ec60f33e>
+https://medium.com/rocket-fuel/server-driven-ui-for-android-with-jetpack-compose-6763ec60f33e
 
-<https://medium.com/android-dev-hacks/jetpack-compose-with-server-driven-ui-396a19f0a661>
+https://medium.com/android-dev-hacks/jetpack-compose-with-server-driven-ui-396a19f0a661
 
-<https://medium.com/okcredit/oklayoutinflater-3c5cd93c6ebc>
+https://medium.com/okcredit/oklayoutinflater-3c5cd93c6ebc

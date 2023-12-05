@@ -1,6 +1,6 @@
 # Page Rank
 
-<https://towardsdatascience.com/pagerank-algorithm-fully-explained-dc794184b4af>
+https://towardsdatascience.com/pagerank-algorithm-fully-explained-dc794184b4af
 
 ## PageRank Algorithm in Big Data
 

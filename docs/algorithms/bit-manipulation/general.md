@@ -62,7 +62,7 @@ XOR - Bitwise XOR of N numbers can be calculated as follows : For each bit posit
 4. If rem = 2, then xor will be n+1.
 5. If rem = 3 , then xor will be 0.
 
-<https://www.geeksforgeeks.org/calculate-xor-1-n>
+https://www.geeksforgeeks.org/calculate-xor-1-n
 
 OR - Bitwise OR of N numbers can be calculated as follows : Unlike Xor, if any of the N Number has a 1 in that position (lets say p), then the result at p is 1 else 0. Bitwise OR of (3, 4, 5) is (011, 100, 101) => (111) = 7. All bit positions have atleast 1 number with a 1. In most programming languages [|] operator can be used to find Or
 

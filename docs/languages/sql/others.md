@@ -12,7 +12,7 @@ Likewise if you are only needing to enforce uniqueness as a business rule rather
 
 Note that if you use both a unique constraint and a unique index on the same field the database will not be bright enough to see the duplication, so you will end up with two indexes which will consume extra space and slow down row inserts/updates.
 
-<https://dba.stackexchange.com/questions/144/when-should-i-use-a-unique-constraint-instead-of-a-unique-index>
+https://dba.stackexchange.com/questions/144/when-should-i-use-a-unique-constraint-instead-of-a-unique-index
 
 ## Performance
 
@@ -39,13 +39,13 @@ From this it should be obvious, that sending one large statement will save you a
 
 If you are inserting many rows from the same client at the same time, use INSERT statements with multiple VALUES lists to insert several rows at a time. This is considerably faster (many times faster in some cases) than using separate single-row INSERT statements.
 
-<https://dev.mysql.com/doc/refman/5.7/en/insert-optimization.html>
+https://dev.mysql.com/doc/refman/5.7/en/insert-optimization.html
 
 ## Enable incremental ETL
 
 By enabling data engineers to identify new & updated records by accessing simple fields likecreated_timestampandupdated_timestamp. Make sure that both these fields are populated by the database and not the application. You should have a separate datetime or timestamp field if you want to populate it from the application.
 
-<https://towardsdatascience.com/table-design-best-practices-for-etl-200accee9cc9>
+https://towardsdatascience.com/table-design-best-practices-for-etl-200accee9cc9
 
 ## System Tables
 
@@ -67,4 +67,4 @@ Examples of catalog objects:
 
 ## Others
 
-<https://towardsdatascience.com/6-sql-tricks-every-data-scientist-should-know-f84be499aea5>
+https://towardsdatascience.com/6-sql-tricks-every-data-scientist-should-know-f84be499aea5

@@ -34,7 +34,7 @@ Step 5. The scheduler updates the states of all active DagRuns ("running", "fail
 
 Step 6. Repeat Steps 1-5
 
-<https://medium.com/@dustinstansbury/how-quizlet-uses-apache-airflow-in-practice-a903cbb5626d>
+https://medium.com/@dustinstansbury/how-quizlet-uses-apache-airflow-in-practice-a903cbb5626d
 
 ### Executor
 
@@ -61,7 +61,7 @@ The Worker(s) are separate processes which also interact with the other componen
 - airflow.cfg is the Airflow configuration file which is accessed by the Web Server, Scheduler, and Workers.
 - DAGs refers to the DAG files containing Python code, representing the data pipelines to be run by Airflow. The location of these files is specified in the Airflow configuration file, but they need to be accessible by the Web Server, Scheduler, and Workers.
 
-<https://airflow.apache.org/docs/apache-airflow/stable/concepts.html>
+https://airflow.apache.org/docs/apache-airflow/stable/concepts.html
 
 ## Single-node architecture
 
@@ -85,10 +85,10 @@ In this mode, a Celery backend has to be set (Redis in our case). Celery is an a
 - **Dedicated workers for specific tasks:** we have a workflow where some of our DAGs are CPU intensive. As we have several workers we can dedicate some of them to these kinds of DAGs.
 - **Scaling horizontally:** Indeed since workers don't need to register with any central authority to start processing tasks, we can scale our cluster by easily adding new workers. Nodes can be turned on and off without any downtime on the cluster.
 
-<https://drivy.engineering/airflow-architecture>
+https://drivy.engineering/airflow-architecture
 
 ## Others
 
 ### Clockwork: Distributed, Scalable Job Scheduler
 
-<https://cynic.dev/posts/clockwork-scalable-job-scheduler>
+https://cynic.dev/posts/clockwork-scalable-job-scheduler

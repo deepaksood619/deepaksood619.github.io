@@ -28,7 +28,7 @@ except ClientError as e:
 # ['Error']['Type'] e.g. 'Sender'
 ```
 
-<https://stackoverflow.com/questions/33068055/how-to-handle-errors-with-boto3>
+https://stackoverflow.com/questions/33068055/how-to-handle-errors-with-boto3
 
 ## Client - RDS
 
@@ -167,7 +167,7 @@ url = s3_client.generate_presigned_url(
 
 ## Boto3 Error handling
 
-<https://boto3.amazonaws.com/v1/documentation/api/latest/guide/error-handling.html>
+https://boto3.amazonaws.com/v1/documentation/api/latest/guide/error-handling.html
 
 ## AWS
 
@@ -228,28 +228,28 @@ You can see that theResourceversion of the code is much simpler, more compact, a
 - allows you to create service clients and resources
 - boto3 creates a default session for you when needed
 
-<https://stackoverflow.com/questions/42809096/difference-in-boto3-between-resource-client-and-session>
+https://stackoverflow.com/questions/42809096/difference-in-boto3-between-resource-client-and-session
 
 ## Retries
 
 Your AWS client might see calls to AWS services fail due to unexpected issues on the client side. Or calls might fail due to rate limiting from the AWS service you're attempting to call. In either case, these kinds of failures often don't require special handling and the call should be made again, often after a brief waiting period. Boto3 provides many features to assist in retrying client calls to AWS services when these kinds of errors or exceptions are experienced.
 
-<https://boto3.amazonaws.com/v1/documentation/api/latest/guide/retries.html>
+https://boto3.amazonaws.com/v1/documentation/api/latest/guide/retries.html
 
-<https://docs.aws.amazon.com/general/latest/gr/api-retries.html>
+https://docs.aws.amazon.com/general/latest/gr/api-retries.html
 
 ## References
 
-<https://github.com/boto/boto3>
+https://github.com/boto/boto3
 
-<https://boto3.amazonaws.com/v1/documentation/api/latest/guide/migrations3.html#creating-the-connection>
+https://boto3.amazonaws.com/v1/documentation/api/latest/guide/migrations3.html#creating-the-connection
 
-<https://boto3.amazonaws.com/v1/documentation/api/latest/guide/configuration.html>
+https://boto3.amazonaws.com/v1/documentation/api/latest/guide/configuration.html
 
-Example for sending email - <https://docs.aws.amazon.com/ses/latest/DeveloperGuide/send-using-sdk-python.html>
+Example for sending email - https://docs.aws.amazon.com/ses/latest/DeveloperGuide/send-using-sdk-python.html
 
-<https://boto3.amazonaws.com/v1/documentation/api/latest/reference/services/rds.html>
+https://boto3.amazonaws.com/v1/documentation/api/latest/reference/services/rds.html
 
-<https://www.youtube.com/watch?v=Cb2czfCV4Dg>
+https://www.youtube.com/watch?v=Cb2czfCV4Dg
 
-<https://medium.com/tysonworks/concurrency-with-boto3-41cfa300aab4>
+https://medium.com/tysonworks/concurrency-with-boto3-41cfa300aab4

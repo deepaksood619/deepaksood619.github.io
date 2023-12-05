@@ -24,4 +24,4 @@ A retained message makes sense when you want newly-connected subscribers to rece
 
 ### References
 
-<https://www.hivemq.com/blog/mqtt-essentials-part-8-retained-messages>
+https://www.hivemq.com/blog/mqtt-essentials-part-8-retained-messages

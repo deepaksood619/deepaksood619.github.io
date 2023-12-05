@@ -80,13 +80,13 @@ helm delete --purge elasticsearch
 ./deploy.sh -n elk -v example-kubernetes-vault
 ```
 
-<https://github.com/Azure/helm-elasticstack>
+https://github.com/Azure/helm-elasticstack
 
-<https://github.com/Azure/acs-engine/blob/master/docs/kubernetes/monitoring#monitoring-kubernetes-clusters>
+https://github.com/Azure/acs-engine/blob/master/docs/kubernetes/monitoring#monitoring-kubernetes-clusters
 
-<https://docs.microsoft.com/en-us/cli/azure/network/public-ip?view=azure-cli-latest>
+https://docs.microsoft.com/en-us/cli/azure/network/public-ip?view=azure-cli-latest
 
-<https://docs.microsoft.com/en-us/azure/aks/cluster-autoscaler>
+https://docs.microsoft.com/en-us/azure/aks/cluster-autoscaler
 
 ## Create secret to pull from private registry
 
@@ -116,8 +116,8 @@ Azure Container Instances (ACI) provide a hosted environment for running contain
 
 `az aks remove-connector --resource-group Technology --name dev-kubernetes-cluster --connector-name virtual-kubelet --os-type Linux`
 
-<https://docs.microsoft.com/en-us/azure/aks/virtual-kubelet#installation>
+https://docs.microsoft.com/en-us/azure/aks/virtual-kubelet#installation
 
 ## Node Pools
 
-<https://docs.microsoft.com/en-us/azure/aks/use-multiple-node-pools>
+https://docs.microsoft.com/en-us/azure/aks/use-multiple-node-pools

@@ -8,7 +8,7 @@ Anevent streamin Kafka is a topic with a schema. Keys and values of events are n
 
 ![image](../../media/Technologies-Kafka-Kafka-Streams-image2.jpg)
 
-<https://www.confluent.io/blog/kafka-streams-tables-part-3-event-processing-fundamentals>
+https://www.confluent.io/blog/kafka-streams-tables-part-3-event-processing-fundamentals
 
 Kafka Streams is a client library for processing and analyzing data stored in Kafka. It builds upon important stream processing concepts such as properly distinguishing between event time and processing time, windowing support, exactly-once processing semantics and simple yet efficient management of application state.
 
@@ -62,10 +62,10 @@ a developer.
 
 ## References
 
-<https://kafka.apache.org/documentation/streams>
+https://kafka.apache.org/documentation/streams
 
 Apache Kafka by DZone Refcardz
 
 ## Others
 
-<https://github.com/robinhood/faust>
+https://github.com/robinhood/faust

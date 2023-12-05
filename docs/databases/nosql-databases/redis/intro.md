@@ -75,33 +75,33 @@ This command will return the address of the current master, which can be accesse
 
 In case the current master crashes, the Sentinel containers will elect a new master node.
 
-<https://redis.io/topics/sentinel>
+https://redis.io/topics/sentinel
 
 ### Redis Cluster
 
-<https://redis.io/topics/cluster-tutorial>
+https://redis.io/topics/cluster-tutorial
 
-<https://redis.io/topics/cluster-spec>
+https://redis.io/topics/cluster-spec
 
 Replication - One leader many followers model
 
 Clustering - Shard data across multiple nodes
 
-<https://redis.io/topics/cluster-tutorial>
+https://redis.io/topics/cluster-tutorial
 
 Hybrid - Replication + Clustering
 
-Sentinel - <https://redis.io/topics/sentinel>
+Sentinel - https://redis.io/topics/sentinel
 
 keydb - Multithreaded fork of redis
 
-<https://docs.keydb.dev/blog/2019/10/07/blog-post>
+https://docs.keydb.dev/blog/2019/10/07/blog-post
 
 ## twenproxy (by twitter)
 
 twemproxy(pronounced "two-em-proxy"), akanutcrackeris a fast and lightweight proxy for [memcached](http://www.memcached.org/) and [redis](http://redis.io/) protocol. It was built primarily to reduce the number of connections to the caching servers on the backend. This, together with protocol pipelining and sharding enables you to horizontally scale your distributed caching architecture.
 
-<https://github.com/twitter/twemproxy>
+https://github.com/twitter/twemproxy
 
 ## codis
 
@@ -109,7 +109,7 @@ Proxy based Redis cluster solution supporting pipeline and scaling dynamically
 
 ![image](../../../media/Redis-image1.jpg)
 
-<https://github.com/CodisLabs/codis>
+https://github.com/CodisLabs/codis
 
 | | **Codis** | **Twemproxy** | **Redis Cluster** |
 |---|---|---|---|
@@ -145,11 +145,11 @@ Both Redis and MemCached are in-memory, open-source data stores. Memcached, a hi
 | [Lua scripting](https://aws.amazon.com/elasticache/redis-vs-memcached/#Lua_scripting) | - | Yes |
 | [Geospatial support](https://aws.amazon.com/elasticache/redis-vs-memcached/#Geospatial_support) | - | Yes |
 
-<https://aws.amazon.com/elasticache/redis-vs-memcached>
+https://aws.amazon.com/elasticache/redis-vs-memcached
 
 ## Books
 
-<https://redislabs.com/redis-in-action>
+https://redislabs.com/redis-in-action
 
 ## Redis 6
 
@@ -173,29 +173,29 @@ Redis Enterprise 6.0
 - 1 Million small Keys -> String Value pairs use ~ 85MB of memory
 - 1 Million Keys -> Hash value, representing an object with 5 fields, use ~ 160 MB of memory
 
-<https://redis.io/topics/faq>
+https://redis.io/topics/faq
 
 ## References
 
 [https://redis.io/](https://redis.io/commands)
 
-<https://redis.io/commands>
+https://redis.io/commands
 
-<https://www.tutorialspoint.com/redis>
+https://www.tutorialspoint.com/redis
 
-<https://redis.io/topics/rediscli>
+https://redis.io/topics/rediscli
 
-<https://dzone.com/articles/introduction-to-redis-data-structures-bitmaps>
+https://dzone.com/articles/introduction-to-redis-data-structures-bitmaps
 
 [Redis Crash Course](https://www.youtube.com/watch?v=sVCZo5B8ghE)
 
-<https://www.youtube.com/channel/UCybK6TMZFQeSN74jzTiDWfg>
+https://www.youtube.com/channel/UCybK6TMZFQeSN74jzTiDWfg
 
-<https://university.redislabs.com/courses/course-v1:redislabs+RU202+2020_03/about>
+https://university.redislabs.com/courses/course-v1:redislabs+RU202+2020_03/about
 
-<https://university.redislabs.com/courses/course-v1:redislabs+RU201+2020_03/about>
+https://university.redislabs.com/courses/course-v1:redislabs+RU201+2020_03/about
 
-<https://github.com/antirez/redis>
+https://github.com/antirez/redis
 
 [The Bucket Pattern: NoSQL Data Modeling with Redis Stack](https://www.youtube.com/watch?v=5m4YgClPKCg)
 

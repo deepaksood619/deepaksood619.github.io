@@ -13,7 +13,7 @@ The modules described in this chapter deal with disk files and directories. For 
     - [11.1.3.1. Methods](https://docs.python.org/3/library/pathlib.html#methods)
   - [11.1.4. Correspondence to tools in theosmodule](https://docs.python.org/3/library/pathlib.html#correspondence-to-tools-in-the-os-module)
 
-<https://rednafi.github.io/digressions/python/2020/04/13/python-pathlib.html>
+https://rednafi.github.io/digressions/python/2020/04/13/python-pathlib.html
 
 - [11.2.os.path - Common pathname manipulations](https://docs.python.org/3/library/os.path.html)
 - [11.3.fileinput - Iterate over lines from multiple input streams](https://docs.python.org/3/library/fileinput.html)

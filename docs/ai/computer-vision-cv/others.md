@@ -32,9 +32,9 @@ EnhanceNet-PAT does not attempt pixel-perfect reconstruction, but rather aims fo
 
 By detecting and generating patterns in a low-resolution image and applying these patterns in the upsampling process, EnhanceNet-PAT adds extra pixels to the low-resolution image
 
-<https://webdav.tue.mpg.de/pixel/enhancenet>
+https://webdav.tue.mpg.de/pixel/enhancenet
 
-<https://github.com/msmsajjadi/EnhanceNet-Code>
+https://github.com/msmsajjadi/EnhanceNet-Code
 
 ## Waifu2
 
@@ -42,19 +42,19 @@ waifu2xis an [image scaling](https://en.wikipedia.org/wiki/Image_scaling) and [n
 
 waifu2x was inspired by [Super-Resolution](https://en.wikipedia.org/wiki/Super-resolution_imaging)[Convolutional Neural Network](https://en.wikipedia.org/wiki/Convolutional_Neural_Network)(SRCNN).It uses [Nvidia](https://en.wikipedia.org/wiki/Nvidia)[CUDA](https://en.wikipedia.org/wiki/CUDA) for computing, although alternative implementations that allow for [OpenCL](https://en.wikipedia.org/wiki/OpenCL) and [Vulkan](https://en.wikipedia.org/wiki/Vulkan_(API)) have been created.
 
-<https://github.com/nagadomi/waifu2x>
+https://github.com/nagadomi/waifu2x
 
-<https://en.wikipedia.org/wiki/Comparison_gallery_of_image_scaling_algorithms>
+https://en.wikipedia.org/wiki/Comparison_gallery_of_image_scaling_algorithms
 
-<https://analyticsindiamag.com/extraction-of-aadhar-ids-using-opencv-tensorflow-sushil-ostwal-head-data-science-at-motilal-oswal-financial-services>
+https://analyticsindiamag.com/extraction-of-aadhar-ids-using-opencv-tensorflow-sushil-ostwal-head-data-science-at-motilal-oswal-financial-services
 
-<https://towardsdatascience.com/deep-learning-based-super-resolution-with-opencv-4fd736678066>
+https://towardsdatascience.com/deep-learning-based-super-resolution-with-opencv-4fd736678066
 
 ## Rasterization
 
 Rasterisation (or rasterization) is the task of taking an image described in a vector graphics format (shapes) and converting it into a raster image (pixels or dots) for output on a video display or printer, or for storage in a bitmap file format. It refers to both rasterisation of models and 2D rendering primitives such as polygons, line segments, etc.
 
-<https://en.wikipedia.org/wiki/Rasterisation>
+https://en.wikipedia.org/wiki/Rasterisation
 
 ## Dithering
 
@@ -68,17 +68,17 @@ Video Multimethod Assessment Fusion (VMAF)is an objective full-reference [video 
 
 - **ImageNet**
 
-<https://image-net.org>
+https://image-net.org
 
 ## Vertex AI Matching Engine
 
 Vertex AI Matching Engine provides the industry's leading high scale, low latency, vector-similarity matching (also known asapproximate nearest neighbor) service, and industry-leading algorithms to train semantic embeddings for similarity-matching use cases.
 
-<https://cloud.google.com/vertex-ai/docs/matching-engine/overview>
+https://cloud.google.com/vertex-ai/docs/matching-engine/overview
 
 ## Liveness detection
 
-<https://towardsdatascience.com/implementing-liveness-detection-with-google-ml-kit-5e8c9f6dba45>
+https://towardsdatascience.com/implementing-liveness-detection-with-google-ml-kit-5e8c9f6dba45
 
 ## Border Detection / Segementation
 
@@ -86,4 +86,4 @@ Vertex AI Matching Engine provides the industry's leading high scale, low latenc
 
 ## Others
 
-<https://github.com/imazen/imageflow>
+https://github.com/imazen/imageflow

@@ -51,7 +51,7 @@ The benefits of this approach are:
 - Robin Hood Hashing
 - Hopscotch Hashing
 
-<https://programming.guide/hash-tables-open-addressing.html>
+https://programming.guide/hash-tables-open-addressing.html
 
 ### Coalesced Hashing
 
@@ -75,7 +75,7 @@ Example:A coalescing hash table array with *M* = 10 and *N* = 3
 
 ![image](../../media/Hashing-Techniques-image5.jpg)
 
-<https://programming.guide/coalesced-hashing.html>
+https://programming.guide/coalesced-hashing.html
 
 ### Robin hood hashing
 
@@ -107,7 +107,7 @@ Even with a stash of just three or four cells, rehashing can be postponed signif
 
 Cuckoo hashing can be generalized to use an arbitrary but fixed number of internal hash tables.
 
-<https://programming.guide/cuckoo-hashing.html>
+https://programming.guide/cuckoo-hashing.html
 
 ## Separate chaining vs. linear probing
 

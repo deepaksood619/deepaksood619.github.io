@@ -24,7 +24,7 @@ Or, equivalently (using [logical transposition](https://en.wikipedia.org/wiki/Tr
 
 An injective function need not be surjective (not all elements of the codomain may be associated with arguments), and a surjective function need not be injective (some images may be associated with more than one argument). The four possible combinations of injective and surjective features are illustrated in the adjacent diagrams.
 
-<https://en.wikipedia.org/wiki/Bijection,_injection_and_surjection>
+https://en.wikipedia.org/wiki/Bijection,_injection_and_surjection
 
 ## Cartesian product
 

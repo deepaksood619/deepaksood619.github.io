@@ -18,14 +18,14 @@ Traits are used to define object types by specifying the signature of the suppor
 
 A trait definition looks just like a class definition except that it uses the keywordtrait. The following is the basic example syntax of trait.
 
-<https://www.tutorialspoint.com/scala/scala_traits.htm>
+https://www.tutorialspoint.com/scala/scala_traits.htm
 
 ## References
 
-<https://en.wikipedia.org/wiki/Scala_(programming_language)>
+https://en.wikipedia.org/wiki/Scala_(programming_language)
 
-<https://www.tutorialspoint.com/scala/scala_overview.htm>
+https://www.tutorialspoint.com/scala/scala_overview.htm
 
-<https://www.scala-lang.org>
+https://www.scala-lang.org
 
-<https://www.toptal.com/scala/macros-quasiquotes-reduce-boilerplate>
+https://www.toptal.com/scala/macros-quasiquotes-reduce-boilerplate

@@ -863,4 +863,4 @@ When an exception is thrown within the body of a try statement, the catch clause
 
 If the array is an array of primitive types, then all the elements of the array will be initialized to the default value corresponding to that primitive type.
 
-<https://www.toptal.com/core-java/interview-questions>
+https://www.toptal.com/core-java/interview-questions

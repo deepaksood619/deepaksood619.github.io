@@ -2,7 +2,7 @@
 
 "Design is not just what it looks like and feels like. Design is how it works."---[Steve Jobs, 2003](https://www.lukew.com/quotes/)
 
-<https://www.freecodecamp.org/news/ui-ux-design-guide>
+https://www.freecodecamp.org/news/ui-ux-design-guide
 
 ## UX
 
@@ -31,11 +31,11 @@
 - Forgiveness: The interface will make actions recoverable
 - Responsiveness: The interface will inform users about the results of their actions and the interface's status
 
-<https://www.toptal.com/designers/ui/design-for-developers>
+https://www.toptal.com/designers/ui/design-for-developers
 
-<https://uxplanet.org/9-ui-ux-must-tools-for-designers-df60745d990e>
+https://uxplanet.org/9-ui-ux-must-tools-for-designers-df60745d990e
 
-<https://www.toptal.com/designers/gui/portfolios>
+https://www.toptal.com/designers/gui/portfolios
 
 ## Dark Pattern Design
 
@@ -49,11 +49,11 @@ Adark patternis "a [user interface](https://en.wikipedia.org/wiki/User_interface
 
 [**https://www.darkpatterns.org/types-of-dark-pattern**](https://www.darkpatterns.org/types-of-dark-pattern)
 
-<https://uxdesign.cc/dark-patterns-in-ux-design-7009a83b233c>
+https://uxdesign.cc/dark-patterns-in-ux-design-7009a83b233c
 
-<https://medium.com/beautiful-code-smart-design-by-10clouds/5-common-ux-dark-patterns-interfaces-designed-to-trick-you-61fdede9718c>
+https://medium.com/beautiful-code-smart-design-by-10clouds/5-common-ux-dark-patterns-interfaces-designed-to-trick-you-61fdede9718c
 
-<https://techcrunch.com/2018/07/01/wtf-is-dark-pattern-design>
+https://techcrunch.com/2018/07/01/wtf-is-dark-pattern-design
 
 [How to Encourage Clicks Without the Shady Tricks | UX Consultant | Paul Boag](https://www.youtube.com/watch?v=6tvR1rz_Nb8)
 
@@ -69,7 +69,7 @@ Adark patternis "a [user interface](https://en.wikipedia.org/wiki/User_interface
 - Typography
 - Visual Hierarchy
 
-<https://www.freecodecamp.org/news/learn-ui-design-fundamentals-with-this-free-one-hour-course>
+https://www.freecodecamp.org/news/learn-ui-design-fundamentals-with-this-free-one-hour-course
 
 ## UX
 
@@ -95,11 +95,11 @@ However, flat design is limiting at times and may make designs too minimal and l
 
 While neumorphic design looks aesthetically pleasing, it certainly has a lot of limitations. The subtle differences in the color value make it look minimal and aesthetically pleasing. However, having a low contrast ratio presents an accessibility issue. While it is possible to achieve different states of buttons such as active, pressed, and hovered with the use of different types of shadows, it might only be considering the users with clear eyesight. Moreover, it is complex to achieve a visual hierarchy by visually differentiating elements based on their levels of importance without compromising accessibility. Neumorphism might compromise UX for aesthetically pleasing UI if not done correctly.
 
-<https://www.justinmind.com/blog/neumorphism-ui>
+https://www.justinmind.com/blog/neumorphism-ui
 
-<https://medium.com/@artofofiare/neumorphism-the-right-way-a-2020-design-trend-386e6a09040a>
+https://medium.com/@artofofiare/neumorphism-the-right-way-a-2020-design-trend-386e6a09040a
 
-<https://css-tricks.com/neumorphism-and-css>
+https://css-tricks.com/neumorphism-and-css
 
 ![image](../../media/UI-UX-IxD-Design-Frontend-image2.jpg)
 
@@ -107,9 +107,9 @@ While neumorphic design looks aesthetically pleasing, it certainly has a lot of 
 
 The main aspect of this trend is a semi-transparent background, with a sublime shadow and border.
 
-<https://ui.glass>
+https://ui.glass
 
-<https://www.freecodecamp.org/news/glassmorphism-design-effect-with-html-css>
+https://www.freecodecamp.org/news/glassmorphism-design-effect-with-html-css
 
 ### Others
 
@@ -119,25 +119,25 @@ The main aspect of this trend is a semi-transparent background, with a sublime s
 
 Icons - Free figma icons
 
-Templates - <https://www.templatefreebies.com>
+Templates - https://www.templatefreebies.com
 
-<https://www.youtube.com/watch?v=FTFaQWZBqQ8&ab_channel=AJ%26Smart>
+https://www.youtube.com/watch?v=FTFaQWZBqQ8&ab_channel=AJ%26Smart
 
-<https://www.freecodecamp.org/news/ui-ux-design-tutorial-from-zero-to-hero-with-wireframe-prototype-figma>
+https://www.freecodecamp.org/news/ui-ux-design-tutorial-from-zero-to-hero-with-wireframe-prototype-figma
 
-<https://www.toptal.com/designers/ui/figma-design-tool>
+https://www.toptal.com/designers/ui/figma-design-tool
 
-<https://www.freecodecamp.org/news/learn-how-to-create-a-design-system-in-figma/lo>
+https://www.freecodecamp.org/news/learn-how-to-create-a-design-system-in-figma/lo
 
-<https://www.freecodecamp.org/news/ui-design-with-figma-tutorial>
+https://www.freecodecamp.org/news/ui-design-with-figma-tutorial
 
-<https://www.freecodecamp.org/news/use-user-reseach-to-create-the-perfect-ui-design>
+https://www.freecodecamp.org/news/use-user-reseach-to-create-the-perfect-ui-design
 
-Figma Variants - <https://www.freecodecamp.org/news/design-a-scalable-mobile-app-with-figma-variants>
+Figma Variants - https://www.freecodecamp.org/news/design-a-scalable-mobile-app-with-figma-variants
 
 ## Accessibility
 
-<https://www.freecodecamp.org/news/designing-keyboard-accessibility-for-complex-react-experiences>
+https://www.freecodecamp.org/news/designing-keyboard-accessibility-for-complex-react-experiences
 
 ## IxD (Interaction Designers)
 
@@ -169,7 +169,7 @@ The time during which the user interacts with the interface. An example of this 
 
 Behavior defines how users respond to the interface. Users may have different reactions in this interface.
 
-<https://xd.adobe.com/ideas/principles/human-computer-interaction/what-is-interaction-design>
+https://xd.adobe.com/ideas/principles/human-computer-interaction/what-is-interaction-design
 
 ## How do you utilize Hierarchy of Control in your design projects?
 
@@ -203,7 +203,7 @@ Information architecture (IA) involves the way a website/app is structured and h
 
 [UX / UI Inspiration for 2019](https://www.youtube.com/watch?v=7wlM_uOhKH4)
 
-- **producthunt -** <https://www.producthunt.com>
+- **producthunt -** https://www.producthunt.com
 - mobbin.design
 - dribble
 - evernote.design
@@ -213,7 +213,7 @@ Information architecture (IA) involves the way a website/app is structured and h
 
 [Designing for Speed | Google Senior UX Designer | Mustafa Kurtuldu](https://www.youtube.com/watch?v=Drf5ZKd4aVY)
 
-<https://bit.ly/speedebook>
+https://bit.ly/speedebook
 
 ## Occupied vs Unoccupied time
 
@@ -244,7 +244,7 @@ The five phases of the Design Thinking Process are:
 - Prototype
 - Test
 
-<https://www.freecodecamp.org/news/the-design-thinking-process-explained>
+https://www.freecodecamp.org/news/the-design-thinking-process-explained
 
 ![visual-hierarchy-size-of-words](../../media/Pasted%20image%2020230726123953.png)
 
@@ -257,40 +257,40 @@ The five phases of the Design Thinking Process are:
 - Lucid Charts (lucidchart) - 60 objects contraint
 - coggle.it
 - moqups (Online Mockup, Wireframe, UI prototyping tool)
-- figma - <https://www.figma.com>
-- <https://balsamiq.com>
+- figma - https://www.figma.com
+- https://balsamiq.com
 - Mural
 
-<https://www.mural.co>
+https://www.mural.co
 
-<https://www.mural.co/templates?template-categories=all-templates>
+https://www.mural.co/templates?template-categories=all-templates
 
 - Adobe XD vs Sketch vs Figma vs InVision studio
-- <http://illustrated.dev/resources>
+- http://illustrated.dev/resources
 
 ## Others
 
-<https://dev.to/fullstack_to/units-in-css-em-rem-pt-px-vw-vh-vmin-vmax-ex-ch-53l0>
+https://dev.to/fullstack_to/units-in-css-em-rem-pt-px-vw-vh-vmin-vmax-ex-ch-53l0
 
-<https://dev.to/simonholdorf/9-projects-you-can-do-to-become-a-frontend-master-in-2020-n2h>
+https://dev.to/simonholdorf/9-projects-you-can-do-to-become-a-frontend-master-in-2020-n2h
 
-<https://www.toptal.com/web/website-performance-critical-rendering-path>
+https://www.toptal.com/web/website-performance-critical-rendering-path
 
-<https://www.smashingmagazine.com/2020/01/front-end-performance-checklist-2020-pdf-pages>
+https://www.smashingmagazine.com/2020/01/front-end-performance-checklist-2020-pdf-pages
 
-<https://www.freecodecamp.org/news/how-hex-code-colors-work-how-to-choose-colors-without-a-color-picker>
+https://www.freecodecamp.org/news/how-hex-code-colors-work-how-to-choose-colors-without-a-color-picker
 
-<https://www.toptal.com/designers/web/interview-questions>
+https://www.toptal.com/designers/web/interview-questions
 
-<https://www.toptal.com/designers/interactive/interview-questions>
+https://www.toptal.com/designers/interactive/interview-questions
 
-<https://github.com/bradtraversy/design-resources-for-developers>
+https://github.com/bradtraversy/design-resources-for-developers
 
-## Courses - <https://www.interaction-design.org>
+## Courses - https://www.interaction-design.org
 
-<https://wittysparks.com/professional-design-process-explained>
+https://wittysparks.com/professional-design-process-explained
 
-<https://www.freecodecamp.org/news/ux-vs-ui-whats-the-difference-definition-and-meaning>
+https://www.freecodecamp.org/news/ux-vs-ui-whats-the-difference-definition-and-meaning
 
 ## Links
 

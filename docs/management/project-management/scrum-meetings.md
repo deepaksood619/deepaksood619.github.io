@@ -38,7 +38,7 @@ Scrum: The Art of Doing Twice the Work in Half the Time by J. J. Sutherland
 - Soapboxhq
 - Taskade
 - Meetly
-- <https://witful.com>
+- https://witful.com
 
 ## Skip-level meetings
 
@@ -49,7 +49,7 @@ The goal of a skip-level meeting is twofold:
 - For employeesto gain insight into company goals, objectives, and strategies.
 - For senior leadersto create a shared space for employees to discuss career progression, professional goals and give feedback.
 
-<https://soapboxhq.com/blog/meetings/skip-level-meeting-questions>
+https://soapboxhq.com/blog/meetings/skip-level-meeting-questions
 
 ## Meetings
 
@@ -87,7 +87,7 @@ Proactively solicit ideas that might've come to mind after the meeting. To produ
 
 Keep tabs on action items.Assign someone to check in at appropriate intervals after the meeting to ensurethe commitments are being kept, or re-evaluated if something unexpected came up.
 
-<https://www.atlassian.com/team-playbook/plays/inclusive-meetings>
+https://www.atlassian.com/team-playbook/plays/inclusive-meetings
 
 - [Overview](https://www.atlassian.com/agile/scrum)
 - [Sprints](https://www.atlassian.com/agile/scrum/sprints)
@@ -246,7 +246,7 @@ Scrum is a framework often used in Agile methodology. Scrum provides meetings, 
 
 ## Souding Board Meeting
 
-<https://smallbusiness.chron.com/adobe-creative-cloud-grow-business-13771091.html>
+https://smallbusiness.chron.com/adobe-creative-cloud-grow-business-13771091.html
 
 Sounding board meetings are typically group forums designed to elicit opinions about a particular matter. Some small business owners use these types of meetings to troubleshoot new product or marketing ideas, while others use them as problem-resolution platforms. Sounding board meetings can be very advantageous, as they can help a small business owner discover breakthrough ideas or solutions to ongoing problems, as well as move forward on new projects quickly. If you are planning to launch a new product or service, or you simply want to clear up misunderstandings that are plaguing the office, plan an effective, efficient sounding board meeting.
 

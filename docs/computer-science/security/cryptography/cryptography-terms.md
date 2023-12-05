@@ -30,7 +30,7 @@ CSPRNGs (Cryptographically Secure Pseudo-Random Number Generators), also known a
 
 In [cryptography](https://en.wikipedia.org/wiki/Cryptography), asemantically secure [cryptosystem](https://en.wikipedia.org/wiki/Cryptosystem) is one where only negligible information about the [plaintext](https://en.wikipedia.org/wiki/Plaintext) can be feasibly extracted from the [ciphertext](https://en.wikipedia.org/wiki/Ciphertext). Specifically, any [probabilistic, polynomial-time algorithm](https://en.wikipedia.org/wiki/PP_(complexity))(PPTA) that is given the ciphertext of a certain messagem (taken from any distribution of messages), and the message's length, cannot determine any partial information on the message with probability [non-negligibly](https://en.wikipedia.org/wiki/Negligible_function) higher than all other PPTA's that only have access to the message length (and not the ciphertext).This concept is the computational complexity analogue to [Shannon's](https://en.wikipedia.org/wiki/Claude_Shannon) concept of [perfect secrecy](https://en.wikipedia.org/wiki/Perfect_secrecy). Perfect secrecy means that the ciphertext reveals no information at all about the plaintext, whereas semantic security implies that any information revealed cannot be feasibly extracted.
 
-<https://en.wikipedia.org/wiki/Semantic_security>
+https://en.wikipedia.org/wiki/Semantic_security
 
 ## Forward Secrecy
 
@@ -40,7 +40,7 @@ Forward secrecy further protects data on the transport layer of a network that u
 
 The value of forward secrecy depends on the assumed capabilities of an adversary. Forward secrecy has value if an adversary is assumed to be able to obtain secret keys from a device (READ access) but not modify the way keys are generated in a device (WRITE access). In some cases an adversary who can read keys from a device may also be able to modify the functioning of the session key generator. In these cases forward secrecy has no value.
 
-<https://en.wikipedia.org/wiki/Forward_secrecy>
+https://en.wikipedia.org/wiki/Forward_secrecy
 
 ## Envelope Encryption
 
@@ -66,11 +66,11 @@ Using this approach if one wants to decrypt data, they need be authenticated wit
 
 ![image](../../../media/Cryptography-Intro_Cryptography-Terms-image1.jpg)
 
-<https://devender.me/2016/07/13/envelope-encryption>
+https://devender.me/2016/07/13/envelope-encryption
 
 ![image](../../../media/Cryptography-Intro_Cryptography-Terms-image2.jpg)
 
-<https://www.druva.com/blog/druva-tech-moments-digital-envelope-encryption><https://crypto.stackexchange.com/questions/3965/what-is-the-main-difference-between-a-key-an-iv-and-a-nonce>
+https://www.druva.com/blog/druva-tech-moments-digital-envelope-encryption><https://crypto.stackexchange.com/questions/3965/what-is-the-main-difference-between-a-key-an-iv-and-a-nonce
 
 A [key](https://en.wikipedia.org/wiki/Key_(cryptography)), in the context of [symmetric cryptography](https://en.wikipedia.org/wiki/Symmetric-key_algorithm), is something you keep secret. Anyone who knows your key (or can guess it) can decrypt any data you've encrypted with it (or forge any authentication codes you've calculated with it, etc.)
 
@@ -103,9 +103,9 @@ A random IV is not a secret. It is no more sensitive than the ciphertext itself.
 
 The only secret in a properly designed crypto system is the key (and obviously the plaintext). Everything else (IVs, salts, algorithms, padding, everything) is assumed be be known by attackers.
 
-<https://stackoverflow.com/questions/38059749/handling-transfer-of-iv-initialization-vectors>
+https://stackoverflow.com/questions/38059749/handling-transfer-of-iv-initialization-vectors
 
-<https://en.wikipedia.org/wiki/Initialization_vector>
+https://en.wikipedia.org/wiki/Initialization_vector
 
 ## MAC (Message Authentication Code)
 
@@ -115,7 +115,7 @@ Informally, a message authentication code consists of three algorithms:
 - A key generation algorithm selects a key from the key space uniformly at random.
 - A signing algorithm efficiently returns a tag given the key and the message.
 - A verifying algorithm efficiently verifies the authenticity of the message given the key and the tag. That is, return *accepted*when the message and tag are not tampered with or forged, and otherwise return *rejected*
-<https://en.wikipedia.org/wiki/Message_authentication_code>
+https://en.wikipedia.org/wiki/Message_authentication_code
 
 ## Message Integrity Codes (MIC) / MACs (Message Authentication Code)
 
@@ -134,4 +134,4 @@ In [cryptography](https://en.wikipedia.org/wiki/Cryptography), anHMAC(sometimes 
 
 HMAC uses two passes of hash computation. The secret key is first used to derive two keys -- inner and outer. The first pass of the algorithm produces an internal hash derived from the message and the inner key. The second pass produces the final HMAC code derived from the inner hash result and the outer key. Thus the algorithm provides better immunity against [length extension attacks](https://en.wikipedia.org/wiki/Length_extension_attack).
 
-<https://en.wikipedia.org/wiki/HMAC>
+https://en.wikipedia.org/wiki/HMAC

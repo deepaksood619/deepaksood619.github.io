@@ -122,17 +122,17 @@ EKS - Amazon Elastic Container Service
 
 GKE - Google Kubernetes Engine
 
-PKS - <https://pivotal.io/platform/pivotal-container-service>
+PKS - https://pivotal.io/platform/pivotal-container-service
 
 ## Advanced
 
 - Hot standby containers for improving recovery-time of Stateful jobs
 
-<https://issues.apache.org/jira/browse/SAMZA-1992>
+https://issues.apache.org/jira/browse/SAMZA-1992
 
 - Use of ipvs can be enabled, with the expectation it will become the default, replacing iptables.
 
-<https://www.objectif-libre.com/en/blog/2018/03/19/kubernetes-ipvs>
+https://www.objectif-libre.com/en/blog/2018/03/19/kubernetes-ipvs
 
 ## Important points
 
@@ -142,42 +142,42 @@ PKS - <https://pivotal.io/platform/pivotal-container-service>
 
 ## Kubernetes 1.19
 
-<https://kubernetes.io/docs/concepts/workloads/pods/pod-topology-spread-constraints>
+https://kubernetes.io/docs/concepts/workloads/pods/pod-topology-spread-constraints
 
-<https://kubernetes.io/docs/concepts/services-networking/ingress>
+https://kubernetes.io/docs/concepts/services-networking/ingress
 
 ## References
 
-<https://en.wikipedia.org/wiki/Kubernetes>
+https://en.wikipedia.org/wiki/Kubernetes
 
-<https://turbonomic.com/blog/on-technology/forget-k9-its-time-for-k8-k8s-that-is-a-kubernetes-primer-part-i>
+https://turbonomic.com/blog/on-technology/forget-k9-its-time-for-k8-k8s-that-is-a-kubernetes-primer-part-i
 
-<https://blog.freshtracks.io/a-deep-dive-into-kubernetes-metrics-b190cc97f0f6>
+https://blog.freshtracks.io/a-deep-dive-into-kubernetes-metrics-b190cc97f0f6
 
 Youtube - Kubernets Webinar Series - Kubenetes Architecture 101 by Janakiram & Associates
 
-<https://training.play-with-kubernetes.com/kubernetes-workshop>
+https://training.play-with-kubernetes.com/kubernetes-workshop
 
 [Kubernetes in 5 mins](https://www.youtube.com/watch?v=PH-2FfFD2PU)
 
-<https://www.toptal.com/kubernetes/what-is-kubernetes>
+https://www.toptal.com/kubernetes/what-is-kubernetes
 
-<https://www.toptal.com/devops/interview-questions>
+https://www.toptal.com/devops/interview-questions
 
-<https://github.com/kelseyhightower/kubernetes-the-hard-way>
+https://github.com/kelseyhightower/kubernetes-the-hard-way
 
 Book - Kubernetes: Up and Running, Kelsey Hightower Book
 
-<https://www.simplilearn.com/tutorials/kubernetes-tutorial/kubernetes-interview-questions>
+https://www.simplilearn.com/tutorials/kubernetes-tutorial/kubernetes-interview-questions
 
-<https://medium.com/containers-101/kubernetes-deployment-antipatterns-part-1-9e7b54a08b9>
+https://medium.com/containers-101/kubernetes-deployment-antipatterns-part-1-9e7b54a08b9
 
 ## Learning (Container.training)
 
-<https://container.training/kube-selfpaced.yml.html>
+https://container.training/kube-selfpaced.yml.html
 
-<https://github.com/jpetazzo/container.training>
+https://github.com/jpetazzo/container.training
 
-<https://collabnix.github.io/kubelabs>
+https://collabnix.github.io/kubelabs
 
-<https://www.infracloud.io/kubernetes-school>
+https://www.infracloud.io/kubernetes-school

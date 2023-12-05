@@ -19,7 +19,7 @@
 8. Data infra - kafka and all
 9. Setting up staging, QA and prod
 
-<https://www.freecodecamp.org/news/how-to-start-a-blog-book>
+https://www.freecodecamp.org/news/how-to-start-a-blog-book
 
 Question-Based vs Statement-Based Headline
 
@@ -73,11 +73,11 @@ Level up - As a Developer, series
 2. Failcon
 3. Pycon
 
-<https://dev.to/stephsmithio/writing-is-thinking-learning-to-write-with-confidence-1ijh>
+https://dev.to/stephsmithio/writing-is-thinking-learning-to-write-with-confidence-1ijh
 
 ## Course maker
 
-<https://teachable.com>
+https://teachable.com
 
 ## Projects
 
@@ -85,7 +85,7 @@ Level up - As a Developer, series
 
 ## Presentations / Content Creation Tools
 
-<https://www.slideshare.net/billkarwin/extensible-data-modeling>
+https://www.slideshare.net/billkarwin/extensible-data-modeling
 
 [Piggy | Mobile Content Creator 🐷](https://piggy.to/)
 
@@ -101,7 +101,7 @@ Level up - As a Developer, series
 - 1 GB Sort
 - Scavenger/Treasure Hunt
 - PythonChallenge
-- <http://flaws.cloud>
+- http://flaws.cloud
 - **Game Days**
   - Killing something in production
 - Blue/Green teams
@@ -110,67 +110,67 @@ Level up - As a Developer, series
 - Gully Cricket - Parking lot
 - Git
 
-<https://github.com/git-game/git-game>
+https://github.com/git-game/git-game
 
-<https://github.com/deepaksood619/GitGames>
+https://github.com/deepaksood619/GitGames
 
 ## SQL Games
 
-<https://mystery.knightlab.com>
+https://mystery.knightlab.com
 
-<https://selectstarsql.com>
+https://selectstarsql.com
 
-<https://www.hackerrank.com/domains/sql>
+https://www.hackerrank.com/domains/sql
 
-<https://www.w3schools.com/sql/trysql.asp?filename=trysql_asc>
+https://www.w3schools.com/sql/trysql.asp?filename=trysql_asc
 
-<https://www.w3schools.com/mysql/trymysql.asp?filename=trysql_select_where_and_or>
+https://www.w3schools.com/mysql/trymysql.asp?filename=trysql_select_where_and_or
 
-<https://use-the-index-luke.com/3-minute-test/mysql>
+https://use-the-index-luke.com/3-minute-test/mysql
 Terraria
 
 ## Assessments
 
-<https://www.bigshyft.com/assessments/rd9pl>
+https://www.bigshyft.com/assessments/rd9pl
 
-<https://www.bigshyft.com/assessments/x9q4g>
+https://www.bigshyft.com/assessments/x9q4g
 
 ## System Design
 
-- Airbnb: <https://lnkd.in/dAPjjaA3>
-- Amazon: <https://lnkd.in/dyp43Yqp>
-- Asana: <https://lnkd.in/dWqZxf6Y>
-- Atlassian: <https://lnkd.in/d-i34bUQ>
-- Bittorrent: <https://lnkd.in/dfZPa6Ma>
-- Cloudera: <https://blog.cloudera.com>
-- Docker: <https://blog.docker.com>
-- Dropbox: <https://lnkd.in/dUQJTxac>
-- eBay: <https://lnkd.in/dnmca2uT>
-- Facebook: <https://lnkd.in/dbwkUDjN>
-- GitHub: <https://lnkd.in/dSC9StzD>
-- Google: <https://lnkd.in/ddPVy6Zj>
-- Groupon: <https://lnkd.in/dsyGvUWF>
-- Highscalability: <http://highscalability.com>
-- Instacart: <https://tech.instacart.com>
-- Instagram: <https://lnkd.in/dEs6FyGn>
-- Linkedin: <https://lnkd.in/d_yQe9g6>
-- Mixpanel: <https://mixpanel.com/blog>
-- Netflix: <https://lnkd.in/dKhbQqxd>
-- Nextdoor: <https://lnkd.in/dDdGPQgR>
-- PayPal: <https://lnkd.in/d9YkeE_h>
-- Pinterest: <https://lnkd.in/duz8a8vq>
-- Quora: <https://lnkd.in/d-iuzYZq>
-- Reddit: <https://redditblog.com>
-- Salesforce: <https://lnkd.in/dV9unb47>
-- Shopify: <https://lnkd.in/dQtK4TME>
-- Slack: <https://slack.engineering>
-- Soundcloud: <https://lnkd.in/dgWK_v4h>
-- Spotify: <https://labs.spotify.com>
-- Stripe: <https://lnkd.in/dm-WBTgr>
-- System design primer: <https://lnkd.in/dnUnsQE9>
-- Twitter: <https://lnkd.in/d9tmm5wj>
-- Thumbtack: <https://lnkd.in/d6QTWF_p>
-- Uber: <http://eng.uber.com>
-- Yahoo: <https://lnkd.in/dKgyhbNE>
-- Yelp: <https://lnkd.in/d_6hhMS4>
-- Zoom: <https://lnkd.in/dquH3cKY>
+- Airbnb: https://lnkd.in/dAPjjaA3
+- Amazon: https://lnkd.in/dyp43Yqp
+- Asana: https://lnkd.in/dWqZxf6Y
+- Atlassian: https://lnkd.in/d-i34bUQ
+- Bittorrent: https://lnkd.in/dfZPa6Ma
+- Cloudera: https://blog.cloudera.com
+- Docker: https://blog.docker.com
+- Dropbox: https://lnkd.in/dUQJTxac
+- eBay: https://lnkd.in/dnmca2uT
+- Facebook: https://lnkd.in/dbwkUDjN
+- GitHub: https://lnkd.in/dSC9StzD
+- Google: https://lnkd.in/ddPVy6Zj
+- Groupon: https://lnkd.in/dsyGvUWF
+- Highscalability: http://highscalability.com
+- Instacart: https://tech.instacart.com
+- Instagram: https://lnkd.in/dEs6FyGn
+- Linkedin: https://lnkd.in/d_yQe9g6
+- Mixpanel: https://mixpanel.com/blog
+- Netflix: https://lnkd.in/dKhbQqxd
+- Nextdoor: https://lnkd.in/dDdGPQgR
+- PayPal: https://lnkd.in/d9YkeE_h
+- Pinterest: https://lnkd.in/duz8a8vq
+- Quora: https://lnkd.in/d-iuzYZq
+- Reddit: https://redditblog.com
+- Salesforce: https://lnkd.in/dV9unb47
+- Shopify: https://lnkd.in/dQtK4TME
+- Slack: https://slack.engineering
+- Soundcloud: https://lnkd.in/dgWK_v4h
+- Spotify: https://labs.spotify.com
+- Stripe: https://lnkd.in/dm-WBTgr
+- System design primer: https://lnkd.in/dnUnsQE9
+- Twitter: https://lnkd.in/d9tmm5wj
+- Thumbtack: https://lnkd.in/d6QTWF_p
+- Uber: http://eng.uber.com
+- Yahoo: https://lnkd.in/dKgyhbNE
+- Yelp: https://lnkd.in/d_6hhMS4
+- Zoom: https://lnkd.in/dquH3cKY

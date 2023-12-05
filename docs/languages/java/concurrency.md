@@ -32,4 +32,4 @@ Two issues associated with Fail Safe Iterator are :
 
 ## References
 
-<http://javahungry.blogspot.com/2014/04/fail-fast-iterator-vs-fail-safe-iterator-difference-with-example-in-java.html>
+http://javahungry.blogspot.com/2014/04/fail-fast-iterator-vs-fail-safe-iterator-difference-with-example-in-java.html

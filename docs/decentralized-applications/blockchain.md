@@ -62,7 +62,7 @@ Permissioned blockchains, on the other hand, require invitations to join. Theyâ€
 
 ![image](../media/Blockchain-image6.jpg)
 
-<https://blog.chain.link/what-is-the-blockchain-oracle-problem>
+https://blog.chain.link/what-is-the-blockchain-oracle-problem
 
 [SchellingCoin: A Minimal-Trust Universal Data Feed | Ethereum Foundation Blog](https://blog.ethereum.org/2014/03/28/schellingcoin-a-minimal-trust-universal-data-feed)
 
@@ -130,7 +130,7 @@ The process of node discovery and connection is often repeated several times unt
 
 These are just a few examples, and the specific nodes used by different wallet software may vary. Additionally, some wallet software may allow users to configure their own set of preferred nodes to connect to.
 
-Ex - <http://203.184.52.247:8333/>
+Ex - http://203.184.52.247:8333/
 
 ### UTXO (Unspent Transaction Output)
 

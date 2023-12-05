@@ -509,7 +509,7 @@ By taking a shape, by having a visible plan, you open yourself to attack. Instea
 - Finally, learning to adapt to each new circumstance means seeing events through your own eyes, and often ignoring the advice that people constantly peddle your way. It means that ultimately you must throw out the laws that others preach, and the books they write to tell you what to do, and the sage advice of the elder.
 - Note: when you do finally engage an enemy, hit them with a powerful, concentrated blow.
 
-<https://www.grahammann.net/book-notes/48-laws-of-power-robert-greene>
+https://www.grahammann.net/book-notes/48-laws-of-power-robert-greene
 
 [THE 48 LAWS OF POWER by Robert Greene | Core Message](https://youtu.be/cTzU5Yhm-I0)
 

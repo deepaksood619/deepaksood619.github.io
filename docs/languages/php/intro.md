@@ -8,7 +8,7 @@ The standard PHP interpreter, powered by the [Zend Engine](https://en.wikipedia.
 
 The PHP language evolved without a written [formal specification](https://en.wikipedia.org/wiki/Formal_specification) or standard until 2014, with the original implementation acting as the [de facto](https://en.wikipedia.org/wiki/De_facto) standard which other implementations aimed to follow. Since 2014, work has gone on to create a formal PHP specification.
 
-<https://en.wikipedia.org/wiki/PHP>
+https://en.wikipedia.org/wiki/PHP
 
 The**PHP Hypertext Preprocessor (PHP)**is a programming language that allows web developers to create dynamic content that interacts with databases. PHP is basically used for developing web based software applications.
 
@@ -49,12 +49,12 @@ PHP has useful [text processing](https://www.php.net/manual/en/refs.basic.text.p
 
 ## PHAR - PHP Archive
 
-<https://en.wikipedia.org/wiki/PHAR_(file_format)>
+https://en.wikipedia.org/wiki/PHAR_(file_format)
 
 ## References
 
-<https://www.youtube.com/channel/UCcr8eSk5xCfn3AbYy8WOWzg>
+https://www.youtube.com/channel/UCcr8eSk5xCfn3AbYy8WOWzg
 
-<https://www.toptal.com/php/objects-references-php-memory>
+https://www.toptal.com/php/objects-references-php-memory
 
-<https://www.toptal.com/php/interview-questions>
+https://www.toptal.com/php/interview-questions

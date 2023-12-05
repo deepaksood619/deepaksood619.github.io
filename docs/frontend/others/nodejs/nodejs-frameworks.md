@@ -32,9 +32,9 @@
 - Mojito.Js
 - FoalTS (A Node.js and TypeScript framework)
 - ActionHero
-- Deno - <https://github.com/denoland/deno>
+- Deno - https://github.com/denoland/deno
 
-<https://scotch.io/bar-talk/10-node-frameworks-to-use-in-2019>
+https://scotch.io/bar-talk/10-node-frameworks-to-use-in-2019
 
 ### AdonisJS
 
@@ -58,7 +58,7 @@ Some of the numerous advantages of Express.js includes:
 
 [Using Express.js Routes for Promise-based Error Handling | Toptal®](https://www.toptal.com/express-js/routes-js-promises-error-handling)
 
-<https://www.freecodecamp.org/news/the-express-handbook>
+https://www.freecodecamp.org/news/the-express-handbook
 
 ### Meteorjs
 
@@ -187,15 +187,15 @@ Moleculer is a fault tolerant framework. It has built-in load balancer, circuit 
 - built-in health monitoring & metrics
 - official [API gateway module](https://github.com/moleculerjs/moleculer-web) and many other modules...
 
-<https://moleculer.services>
+https://moleculer.services
 
-<https://github.com/moleculerjs/moleculer>
+https://github.com/moleculerjs/moleculer
 
 ### The Apollo Data Graph Platform
 
 Simplify app development by combining APIs, databases, and microservices into a single data graph that you can query with GraphQL
 
-<https://www.apollographql.com>
+https://www.apollographql.com
 
 ### Ghost (CMS)
 
@@ -219,4 +219,4 @@ Strapi.io is the most advanced Node.js content management framework. It comprise
 
 ActionHero is a multi-transport API Server with integrated cluster capabilities and delayed tasks. The goal of actionhero is to create an easy-to-use toolkit for makingreusable&scalableAPIs for HTTP, WebSockets, and more. Clients connected to an actionhero server can [consume the api](https://www.actionherojs.com/tutorials/actions), [consume static content](https://www.actionherojs.com/tutorials/file-server), and [communicate with each other](https://www.actionherojs.com/tutorials/chat). ActionHero is cluster-ready, with built in support for background tasks, 0-downtime deploys, and more. ActionHero provides a simple Async/Await API for managing every type of connection and background task.
 
-<https://github.com/actionhero/actionhero>
+https://github.com/actionhero/actionhero

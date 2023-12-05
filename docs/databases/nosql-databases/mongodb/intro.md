@@ -33,9 +33,9 @@ The [storage engine](https://docs.mongodb.com/manual/reference/glossary/#term-st
 
 [WiredTiger](https://docs.mongodb.com/manual/core/wiredtiger/) is the default storage engine starting in MongoDB 3.2. It is well-suited for most workloads and is recommended for new deployments. WiredTiger provides a document-level concurrency model, checkpointing, and compression, among other features.
 
-<https://docs.mongodb.com/manual/faq/storage>
+https://docs.mongodb.com/manual/faq/storage
 
-<https://docs.mongodb.com/manual/core/storage-engines>
+https://docs.mongodb.com/manual/core/storage-engines
 
 ## ODM (Object Document Mapper)
 
@@ -100,9 +100,9 @@ mongo admin --username root --password YOURPASSWORD
 - Highly transactional systems or where the data model is designed up front.
 - Tightly coupled systems- MongoDB is not magically faster. If you store the same data, organised in basically the same fashion, and access it exactly the same way, then you really shouldn't expect your results to be wildly different. After all, MySQL and MongoDB are both GPL, so if Mongo had some magically better IO code in it, then the MySQL team could just incorporate it into their codebase.
 
-<https://stackoverflow.com/questions/9702643/mysql-vs-mongodb-1000-reads>
+https://stackoverflow.com/questions/9702643/mysql-vs-mongodb-1000-reads
 
-Performance metrics - <https://stackoverflow.com/a/37654411/5424888>
+Performance metrics - https://stackoverflow.com/a/37654411/5424888
 
 - MongoDB doesn't write the data to the disk straight away which is why it "looks" faster, but if your computer crashes, the data is lost.
 
@@ -118,21 +118,21 @@ Performance metrics - <https://stackoverflow.com/a/37654411/5424888>
 
 [GridFS](https://docs.mongodb.com/manual/reference/glossary/#term-gridfs) is a specification for storing and retrieving files that exceed the [BSON](https://docs.mongodb.com/manual/reference/glossary/#term-bson)-document [size limit](https://docs.mongodb.com/manual/reference/limits/#limit-bson-document-size) of 16 MB.
 
-<https://docs.mongodb.com/manual/core/gridfs>
+https://docs.mongodb.com/manual/core/gridfs
 
 ## Others
 
-<https://www.ferretdb.io> - A truly Open Source MongoDB alternative
+https://www.ferretdb.io - A truly Open Source MongoDB alternative
 
 ## References
 
-<https://www.tutorialspoint.com/mongodb>
+https://www.tutorialspoint.com/mongodb
 
-<https://github.com/mongodb/mongo>
+https://github.com/mongodb/mongo
 
-<https://www.toptal.com/mongodb/interview-questions>
+https://www.toptal.com/mongodb/interview-questions
 
-<https://github.com/ramnes/awesome-mongodb>
+https://github.com/ramnes/awesome-mongodb
 
 [**https://university.mongodb.com/**](https://university.mongodb.com/)
 

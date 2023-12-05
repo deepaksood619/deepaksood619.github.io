@@ -106,13 +106,13 @@ class redis.Redis(host=u'localhost',port=6379,db=0, password=None, socket_timeou
 
 redis-py can be used together with [Redis Sentinel](https://redis.io/topics/sentinel) to discover Redis nodes. You need to have at least one Sentinel daemon running in order to use redis-py's Sentinel support.
 
-<https://redis-py.readthedocs.io/en/latest>
+https://redis-py.readthedocs.io/en/latest
 
-<https://realpython.com/python-redis>
+https://realpython.com/python-redis
 
-<https://pypi.org/project/redis>
+https://pypi.org/project/redis
 
-<https://github.com/andymccurdy/redis-py>
+https://github.com/andymccurdy/redis-py
 
 ### purge queue
 
@@ -131,6 +131,6 @@ for i in z:
 
 ### Redis-OM
 
-<https://github.com/redis/redis-om-python>
+https://github.com/redis/redis-om-python
 
-<https://redis.com/blog/introducing-redis-om-client-libraries>
+https://redis.com/blog/introducing-redis-om-client-libraries

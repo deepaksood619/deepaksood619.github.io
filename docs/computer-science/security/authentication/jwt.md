@@ -87,17 +87,17 @@ Do note that for signed tokens this information, though protected against tamper
 - JWK - JSON Web Key
 - JWA - JSON Web Algorithms
 
-<https://jwt.io>
+https://jwt.io
 
-<https://jwt.io/introduction>
+https://jwt.io/introduction
 
-<https://medium.com/@rahulgolwalkar/pros-and-cons-in-using-jwt-json-web-tokens-196ac6d41fb4>
+https://medium.com/@rahulgolwalkar/pros-and-cons-in-using-jwt-json-web-tokens-196ac6d41fb4
 
-<https://gist.github.com/deepaksood619/4cc5656a42158927ca6006a1ec7d5eea>
+https://gist.github.com/deepaksood619/4cc5656a42158927ca6006a1ec7d5eea
 
-<https://www.pingidentity.com/en/company/blog/posts/2019/jwt-security-nobody-talks-about.html>
+https://www.pingidentity.com/en/company/blog/posts/2019/jwt-security-nobody-talks-about.html
 
-<https://auth0.com/learn/json-web-tokens>
+https://auth0.com/learn/json-web-tokens
 
 [OAuth Vs JWT | What is the difference? | Tech Primers](https://www.youtube.com/watch?v=a9R3Gq1BKxI)
 
@@ -132,9 +132,9 @@ All this communication must happen over https, so secure encrypted Http in order
 The signing algorithm takes the header, the payload, and the secret to create a unique signature. So only this data plus the secret can create this signature, all right? Then together with the header and the payload, these signature forms the JWT, which then gets sent to the client.
 Store your JWT in cookies for web applications, because of the additional security they provide, and the simplicity of protecting against CSRF with modern web frameworks. HTML5 Web Storage is vulnerable to XSS, has a larger attack surface area, and can impact all application users on a successful attack.
 
-<https://stormpath.com/blog/where-to-store-your-jwts-cookies-vs-html5-web-storage>
+https://stormpath.com/blog/where-to-store-your-jwts-cookies-vs-html5-web-storage
 
-<https://stackoverflow.com/questions/27301557/if-you-can-decode-jwt-how-are-they-secure>
+https://stackoverflow.com/questions/27301557/if-you-can-decode-jwt-how-are-they-secure
 
 ## pyjwt
 
@@ -199,4 +199,4 @@ app = web.Application(middlewares=[auth_middleware])
 app.router.add_route('GET', '/get-user', get_user)
 ```
 
-<https://steelkiwi.com/blog/jwt-authorization-python-part-1-practise>
+https://steelkiwi.com/blog/jwt-authorization-python-part-1-practise

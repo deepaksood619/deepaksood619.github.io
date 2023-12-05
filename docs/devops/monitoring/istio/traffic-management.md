@@ -127,7 +127,7 @@ loadBalancer:
 consistentHash:
 httpHeaderName: x-user
 
-<https://dev.to/peterj/what-are-sticky-sessions-and-how-to-configure-them-with-istio-1e1a>
+https://dev.to/peterj/what-are-sticky-sessions-and-how-to-configure-them-with-istio-1e1a
 
 ## Gateways
 
@@ -252,7 +252,7 @@ egress:
 - **Circuit breakers**
 - **Fault injection**
 
-<https://istio.io/docs/concepts/traffic-management>
+https://istio.io/docs/concepts/traffic-management
 
 ## Ingress
 
@@ -261,7 +261,7 @@ egress:
 - **Secure Gateways**
 - **Ingress Gateway without TLS Termination**
 
-<https://istio.io/docs/tasks/traffic-management/ingress>
+https://istio.io/docs/tasks/traffic-management/ingress
 
 ## External and internal services
 
@@ -344,4 +344,4 @@ Similar to the BlackHoleCluster, for every port/protocol based listener the virt
 
 Prior to Istio 1.3, there were no metrics reported or if metrics were reported there were no explicit labels set when traffic hit these clusters, resulting in lack of visibility in traffic flowing through the mesh.
 
-<https://istio.io/latest/blog/2019/monitoring-external-service-traffic>
+https://istio.io/latest/blog/2019/monitoring-external-service-traffic

@@ -82,11 +82,11 @@ Systems design is the process of defining the [architecture](https://en.wikipedi
 - Replication
 - Tradeoffs
 
-<https://www.freecodecamp.org/news/systems-design-for-interviews>
+https://www.freecodecamp.org/news/systems-design-for-interviews
 
-<https://hackernoon.com/anatomy-of-a-system-design-interview-4cb57d75a53f>
+https://hackernoon.com/anatomy-of-a-system-design-interview-4cb57d75a53f
 
-<https://towardsdatascience.com/the-complete-guide-to-the-system-design-interview-ba118f48bdfc>
+https://towardsdatascience.com/the-complete-guide-to-the-system-design-interview-ba118f48bdfc
 
 [System Design Introduction For Interview. - YouTube](https://www.youtube.com/watch?v=UzLMhqg3_Wc)
 
@@ -140,9 +140,9 @@ Architects are often writing the ADRs ([Architecture Decision Record](https://gi
 - An **architecturally-significant requirement(ASR)** is a requirement that has a measurable effect on a software system's architecture.
 - All these are within the topic of **architecture knowledge management(AKM).**
 
-<https://github.com/joelparkerhenderson/architecture-decision-record>
+https://github.com/joelparkerhenderson/architecture-decision-record
 
-<https://cognitect.com/blog/2011/11/15/documenting-architecture-decisions>
+https://cognitect.com/blog/2011/11/15/documenting-architecture-decisions
 
 ## Scale Cube
 
@@ -152,15 +152,15 @@ Thescale cubeis a technology model that indicates three methods (or approaches) 
 
 ![image](../../media/system-design-Intro-image1.jpg)
 
-<https://en.wikipedia.org/wiki/Scale_cube>
+https://en.wikipedia.org/wiki/Scale_cube
 
-<https://microservices.io/articles/scalecube.html>
+https://microservices.io/articles/scalecube.html
 
 ![image](../../media/Intro-sd-image2.jpg)
 
 ### LLD (Low Level Design)
 
-<https://www.youtube.com/playlist?list=PLAC2AM9O1C5KioUMeH9qIjbAV_RMmX8rd>
+https://www.youtube.com/playlist?list=PLAC2AM9O1C5KioUMeH9qIjbAV_RMmX8rd
 
 ## When building a full-stack feature, start where the data is
 

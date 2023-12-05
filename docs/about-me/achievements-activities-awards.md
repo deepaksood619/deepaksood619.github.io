@@ -15,26 +15,26 @@ I was responsible of creating a product and infrastructure around it to help sav
 - Total - 100
 - Attempted - 93
 - Correct - 54
-- <https://drive.google.com/file/d/0B1jHFoEHN0zfRWpUTC1zbG0tWnM/view?usp=sharing>
+- https://drive.google.com/file/d/0B1jHFoEHN0zfRWpUTC1zbG0tWnM/view?usp=sharing
 
 ### Regex Crossword (Oct'17 - Nov'17)
 
 - Regular Expressions Game
-- <https://github.com/deepaksood619/RegexCrossword/blob/master/README>
-- Profile - <https://regexcrossword.com/profile/38485>
-- Stats - <https://regexcrossword.com/stats>
+- https://github.com/deepaksood619/RegexCrossword/blob/master/README
+- Profile - https://regexcrossword.com/profile/38485
+- Stats - https://regexcrossword.com/stats
 
 ## Activities
 
 ### AWS Presentation with Stashfin (16 July 2020)
 
-<https://yourstory.com/session/how-to-empower-a-platform-with-a-data-pipeline-at->
+https://yourstory.com/session/how-to-empower-a-platform-with-a-data-pipeline-at-
 
-<https://www.slideshare.net/deepaksood566/how-to-empower-a-platform-with-a-data-pipeline-at-a-scale>
+https://www.slideshare.net/deepaksood566/how-to-empower-a-platform-with-a-data-pipeline-at-a-scale
 
 ### Webinar on Career Guidance at SSTC (27 June 2020)
 
-<https://www.slideshare.net/deepaksood566/computer-science-career-guidance>
+https://www.slideshare.net/deepaksood566/computer-science-career-guidance
 
 ### Running / Marathon
 
@@ -42,7 +42,7 @@ I was responsible of creating a product and infrastructure around it to help sav
 
 Bib number - 19054
 
-<https://runizen.com/p/53a716bacf82409f1b35>
+https://runizen.com/p/53a716bacf82409f1b35
 
 #### Kangra Xcountry Run - 32K in 3:23:36 (Trail Run) (28 Apr 2019)
 
@@ -52,7 +52,7 @@ Bib number - 3213
 
 Bib number - 28097
 
-<https://runizen.com/p/82693459b905be317633>
+https://runizen.com/p/82693459b905be317633
 
 #### ADHM Half Marathon - 21.097 KM in 01:59:42 (21 Oct 2018)
 
@@ -60,13 +60,13 @@ Unofficial timing - 01:52:14
 
 Bib number - 13736
 
-<https://www.sportstimingsolutions.in/share/94E40E2576505E227757.html>
+https://www.sportstimingsolutions.in/share/94E40E2576505E227757.html
 
 #### New Delhi 10K Timed Run Challenge - 10.56 KM in 1:06:23 (1 Sep 2018)
 
 Bib number - 1090
 
-<https://runizen.com/p/eedbd792ed8144d8e71b>
+https://runizen.com/p/eedbd792ed8144d8e71b
 
 ### Google Developers Group Delhi member
 
@@ -76,9 +76,9 @@ Bib number - 1090
 
 ### We the people discussion - Question Faith, Invite Death Rational vs Radical
 
-<https://youtu.be/VqanFpi-4f8?t=688>
+https://youtu.be/VqanFpi-4f8?t=688
 
-<https://www.ndtv.com/video/news/we-the-people/question-faith-invite-death-rational-vs-radical-382771>
+https://www.ndtv.com/video/news/we-the-people/question-faith-invite-death-rational-vs-radical-382771
 
 ## Awards
 

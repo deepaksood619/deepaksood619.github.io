@@ -27,4 +27,4 @@ A service broker, as defined by the [Open service broker API spec](https://githu
 
 Using Service Catalog, a [cluster operator](https://kubernetes.io/docs/reference/glossary/?all=true#term-cluster-operator) can browse the list of managed services offered by a service broker, provision an instance of a managed service, and bind with it to make it available to an application in the Kubernetes cluster.
 
-<https://kubernetes.io/docs/concepts/extend-kubernetes/service-catalog>
+https://kubernetes.io/docs/concepts/extend-kubernetes/service-catalog

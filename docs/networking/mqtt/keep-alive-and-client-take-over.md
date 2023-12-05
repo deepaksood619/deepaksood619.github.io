@@ -48,4 +48,4 @@ Usually, a disconnected client tries to reconnect. Sometimes, the broker still h
 
 ## References
 
-<https://www.hivemq.com/blog/mqtt-essentials-part-10-alive-client-take-over>
+https://www.hivemq.com/blog/mqtt-essentials-part-10-alive-client-take-over

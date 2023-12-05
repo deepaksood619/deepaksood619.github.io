@@ -65,7 +65,7 @@ An instance of an image is called a container. You have an image, which is a set
 4. -alpine - Alpine images are based on the Alpine Linux Project, which is an operating system that was built specifically for use inside of containers.
 5. -windowsservercore
 
-<https://medium.com/swlh/alpine-slim-stretch-buster-jessie-bullseye-bookworm-what-are-the-differences-in-docker-62171ed4531d>
+https://medium.com/swlh/alpine-slim-stretch-buster-jessie-bullseye-bookworm-what-are-the-differences-in-docker-62171ed4531d
 
 ## Docker-compose
 
@@ -79,8 +79,8 @@ Adocker-compose.ymlfile is a YAML file that defines how Docker containers should
 - Running docker in read only mode, i.e. removing write access to the filesystems from containers
   - Logs can be written to some other endpoint to a append only file, so adversary cannot change the history
 
-<https://www.toptal.com/docker/interview-questions>
+https://www.toptal.com/docker/interview-questions
 
-<https://codefresh.io/containers/docker-anti-patterns>
+https://codefresh.io/containers/docker-anti-patterns
 
 [Docker Image Pipelines and Patterns](https://www.youtube.com/watch?v=ODXSPVZA4c8)

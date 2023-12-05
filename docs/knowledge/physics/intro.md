@@ -16,7 +16,7 @@ Advanced formulations of classical mechanics, [Lagrangian](https://en.wikipedia.
 
 In continuous systems such as electromagnetic fields, fluids and deformable bodies, a momentum density can be defined, and a continuum version of the conservation of momentum leads to equations such as the [Navier--Stokes equations](https://en.wikipedia.org/wiki/Navier%E2%80%93Stokes_equations) for fluids or the [Cauchy momentum equation](https://en.wikipedia.org/wiki/Cauchy_momentum_equation) for deformable solids or fluids.
 
-<https://en.wikipedia.org/wiki/Momentum>
+https://en.wikipedia.org/wiki/Momentum
 
 ## Types of Collision
 
@@ -42,7 +42,7 @@ Neutron - 1 up quark and 2 down quarks
 
 ![image](../../media/physics-Intro-image3.jpg)
 
-<https://en.wikipedia.org/wiki/Standard_Model>
+https://en.wikipedia.org/wiki/Standard_Model
 
 [The Standard Model of Particle Physics: A Triumph of Science - YouTube](https://www.youtube.com/watch?v=Unl1jXFnzgo)
 

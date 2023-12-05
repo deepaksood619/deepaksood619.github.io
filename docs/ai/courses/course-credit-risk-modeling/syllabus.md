@@ -1,10 +1,10 @@
 # Course - Credit Risk Modeling
 
-<https://365datascience.teachable.com/p/credit-risk-modeling-in-python>
+https://365datascience.teachable.com/p/credit-risk-modeling-in-python
 
-<https://365datascience.teachable.com/courses/629877>
+https://365datascience.teachable.com/courses/629877
 
-<https://www.dropbox.com/sh/7oslws1xhsm1zbf/AABkdWDKqpdcGmY1NbXAnkrBa?dl=0&lst=>
+https://www.dropbox.com/sh/7oslws1xhsm1zbf/AABkdWDKqpdcGmY1NbXAnkrBa?dl=0&lst=
 
 ## Introduction
 
@@ -107,9 +107,9 @@
 - Calculating expected loss
 - Homework: calculate expected loss on more recent data
 
-<https://www.openriskmanual.org/wiki/Main_Page>
+https://www.openriskmanual.org/wiki/Main_Page
 
-<https://www.openriskmanual.org/wiki/Category:Credit_Portfolio_Management>
+https://www.openriskmanual.org/wiki/Category:Credit_Portfolio_Management
 
 ## Analytics
 
@@ -150,7 +150,7 @@ Monitoring or KPIs & flag anything > 5% deviation
 - Monthly → BB Collections
 - Monthly → 90+ Recovery
 
-<https://www.youtube.com/playlist?list=PLhViQpMavSBgxcLV34bRrJY-rwHqeml2i>
+https://www.youtube.com/playlist?list=PLhViQpMavSBgxcLV34bRrJY-rwHqeml2i
 
 ## Links
 

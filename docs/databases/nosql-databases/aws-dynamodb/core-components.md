@@ -55,7 +55,7 @@ An index with a partition key and sort key that can be different from those on t
 An index that has the same partition key as the table, but a different sort key.
 Each table in DynamoDB has a limit of 20 global secondary indexes (default limit) and 5 local secondary indexes per table.
 
-<https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/SecondaryIndexes.html>
+https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/SecondaryIndexes.html
 
 ## DynamoDB Streams
 
@@ -71,9 +71,9 @@ Each stream record also contains the name of the table, the event timestamp, and
 
 You can use DynamoDB Streams together with AWS Lambda to create a trigger - code that executes automatically whenever an event of interest appears in a stream. For example, consider a Customers table that contains customer information for a company. Suppose that you want to send a "welcome" email to each new customer. You could enable a stream on that table, and then associate the stream with a Lambda function. The Lambda function would execute whenever a new stream record appears, but only process new items added to the Customers table. For any item that has an EmailAddress attribute, the Lambda function would invoke Amazon Simple Email Service (Amazon SES) to send an email to that address.
 
-<https://aws.amazon.com/blogs/database/dynamodb-streams-use-cases-and-design-patterns>
+https://aws.amazon.com/blogs/database/dynamodb-streams-use-cases-and-design-patterns
 
-<https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/HowItWorks.CoreComponents.html>
+https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/HowItWorks.CoreComponents.html
 
 ## Global Secondary Indexes Usage patterns
 
@@ -82,4 +82,4 @@ You can use DynamoDB Streams together with AWS Lambda to create a trigger - code
 - Reduce read capacity unit (RCU) consumption for large items
 - Isolating read workloads
 
-<https://aws.amazon.com/blogs/database/how-to-use-dynamodb-global-secondary-indexes-to-improve-query-performance-and-reduce-costs>
+https://aws.amazon.com/blogs/database/how-to-use-dynamodb-global-secondary-indexes-to-improve-query-performance-and-reduce-costs

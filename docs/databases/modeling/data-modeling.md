@@ -6,7 +6,7 @@ Data modeling in [software engineering](https://en.wikipedia.org/wiki/Software_e
 
 The data modeling process. The figure illustrates the way data models are developed and used today . A [conceptual data model](https://en.wikipedia.org/wiki/Conceptual_schema) is developed based on the data [requirements](https://en.wikipedia.org/wiki/Requirement) for the application that is being developed, perhaps in the context of an [activity model](https://en.wikipedia.org/wiki/Activity_diagram). The data model will normally consist of entity types, attributes, relationships, integrity rules, and the definitions of those objects. This is then used as the start point for interface or database design.
 
-<https://en.wikipedia.org/wiki/Data_modeling>
+https://en.wikipedia.org/wiki/Data_modeling
 
 Data modeling (data modelling) is the process of creating a data model for the data to be stored in a Database. This data model is a conceptual representation of Data objects, the associations between different data objects and the rules. Data modeling helps in the visual representation of data and enforces business rules, regulatory compliances, and government policies on the data. Data Models ensure consistency in naming conventions, default values, semantics, security while ensuring quality of the data.
 
@@ -39,7 +39,7 @@ There are mainly three different types of data models:
 
 ![image](../../media/Data-Modeling-image2.jpg)
 
-<https://www.guru99.com/data-modelling-conceptual-logical.html>
+https://www.guru99.com/data-modelling-conceptual-logical.html
 
 ## Tenets of NoSQL Data Modeling
 
@@ -66,7 +66,7 @@ There are mainly three different types of data models:
     - Define indexes for secondary access patterns
 - Review -> Repeat -> Review
 
-<https://www.toptal.com/data-modeling/interview-questions>
+https://www.toptal.com/data-modeling/interview-questions
 
 ## Schema
 

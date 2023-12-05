@@ -2,14 +2,14 @@
 
 ## Resources
 
-- <https://www.freecodecamp.org/news/free-textbooks-math-science-and-more-online-pdf-for-college-and-high-school>
+- https://www.freecodecamp.org/news/free-textbooks-math-science-and-more-online-pdf-for-college-and-high-school
 - [Home | Bookdown](https://bookdown.org/)
 
 ### Book Summaries
 
 - Productivitygame.com
-- <https://jamesclear.com/book-summaries>
-- <https://medium.com/the-mission/131-actionable-ideas-from-ten-books-i-wish-i-had-read-ages-ago-d751c17402de>
+- https://jamesclear.com/book-summaries
+- https://medium.com/the-mission/131-actionable-ideas-from-ten-books-i-wish-i-had-read-ages-ago-d751c17402de
 
 ## Books Types
 
@@ -158,7 +158,7 @@
 - How To Raise Successful People: Simple Lessons for Radical Results
 - By the People: Rebuilding Liberty Without Permission
 
-<https://www.irisreading.com/warren-buffetts-10-favorite-books>
+https://www.irisreading.com/warren-buffetts-10-favorite-books
 
 Book recommendation by Shashi Tharoor
 
@@ -209,7 +209,7 @@ Numerous commentaries have been written on theBhagavad Gitawith widely differing
 
 TheBhagavad Gitais the best known and most famous of Hindu texts, with a unique pan-Hindu influence. The Gita's call for selfless action inspired many leaders of the [Indian independence movement](https://en.wikipedia.org/wiki/Indian_independence_movement) including [Bal Gangadhar Tilak](https://en.wikipedia.org/wiki/Bal_Gangadhar_Tilak) and [Mahatma Gandhi](https://en.wikipedia.org/wiki/Mahatma_Gandhi); the latter referred to it as his "spiritual dictionary".
 
-<https://en.wikipedia.org/wiki/Bhagavad_Gita>
+https://en.wikipedia.org/wiki/Bhagavad_Gita
 
 Now, I am become death, destroyer of worlds. -- Bhagavad Gita
 

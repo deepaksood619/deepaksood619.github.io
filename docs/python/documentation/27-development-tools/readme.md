@@ -120,11 +120,11 @@
 - 27.9. test.support - Utilities for the Python test suite
 - 27.10. test.support.script_helper - Utilities for the Python execution tests
 
-<https://docs.python.org/3/library/development.html>
+https://docs.python.org/3/library/development.html
 
 ## typing
 
-<https://github.com/samuelcolvin/pydantic>
+https://github.com/samuelcolvin/pydantic
 
 Data validation and settings management using Python type hinting.
 
@@ -132,15 +132,15 @@ pydanticenforces type hints at runtime, and provides user friendly errors when d
 
 Define how data should be in pure, canonical python; validate it withpydantic.
 
-<https://www.youtube.com/watch?v=Vj-iU-8_xLs>
+https://www.youtube.com/watch?v=Vj-iU-8_xLs
 
 ## PEP 484 - Type Hints
 
 ## PEP 526 - Syntax for Variable Annotations (Python 3.6)
 
-<https://www.toptal.com/python/streamline-your-django-settings-with-type-hints-pydantic-tutorial>
+https://www.toptal.com/python/streamline-your-django-settings-with-type-hints-pydantic-tutorial
 
-<https://www.youtube.com/watch?v=ST33zDM9vOE>
+https://www.youtube.com/watch?v=ST33zDM9vOE
 
 Is Python dynamically or statically typed?
 

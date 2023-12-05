@@ -5,16 +5,16 @@
 ```bash
 pip install awscli
 
-Graphical installer - <https://docs.aws.amazon.com/cli/latest/userguide/install-cliv2-mac.html>
+Graphical installer - https://docs.aws.amazon.com/cli/latest/userguide/install-cliv2-mac.html
 
 # Linux
-curl "<https://awscli.amazonaws.com/awscli-exe-linux-x86_64.zip>" -o "awscliv2.zip"
+curl "https://awscli.amazonaws.com/awscli-exe-linux-x86_64.zip" -o "awscliv2.zip"
 
 unzip awscliv2.zip
 
 sudo ./aws/install
 
-<https://docs.aws.amazon.com/cli/latest/userguide/install-cliv2-linux.html>
+https://docs.aws.amazon.com/cli/latest/userguide/install-cliv2-linux.html
 
 aws configure list-profiles
 aws configure list
@@ -44,7 +44,7 @@ aws s3 mb s3://bigbet90 --region us-west-2
 
 aws s3 presign s3://bigbet90/index.html --expires-in 90 # in seconds max 36 hours
 
-aws s3 cp aws.jpg s3://bigbet90 --region us-west-2 --endpoint-url <https://bigbet90.s3-accelerate.amazonaws.com>
+aws s3 cp aws.jpg s3://bigbet90 --region us-west-2 --endpoint-url https://bigbet90.s3-accelerate.amazonaws.com
 ```
 
 ## Download folder / bucket from s3
@@ -88,7 +88,7 @@ aws s3 cp abc.zip s3://deep-personal-bucket/photos/abc.zip --storage-class DEEP_
 
 awslogsis a simple command line tool for querying groups, streams and events from [Amazon CloudWatch](http://aws.amazon.com/cloudwatch/) logs.
 
-<https://github.com/jorgebastida/awslogs>
+https://github.com/jorgebastida/awslogs
 
 - Set credentials at your env vars;
 - Logs in production: `awslogs get production-zf-backend ALL --aws-region sa-east-1`;

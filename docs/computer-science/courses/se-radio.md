@@ -41,7 +41,7 @@ Classifiers
 
 Using classifiers and clusterization, find different problems in logs and also solutions to those using stackoverflow and other discussion forums.
 
-<http://www.se-radio.net>
+http://www.se-radio.net
 
 ## Cloud Search with Liam Cavanagh, 17 Oct 2018
 
@@ -64,4 +64,4 @@ Kafka, Spark, and Flink are great general purpose tools, but there is also room 
 
 Druid's feature set allows for new types of analytics applications to be built on top of it, including search applications, dashboards, and ad-hoc analytics.
 
-<https://softwareengineeringdaily.com/category/data>
+https://softwareengineeringdaily.com/category/data

@@ -6,7 +6,7 @@ Continuous release and [continuous deployment](https://en.wikipedia.org/wiki/Con
 
 The technique allows developers to release a [version](https://en.wikipedia.org/wiki/Software_versioning) of a product that has unfinished features. These unfinished features are hidden (toggled) so they do not appear in the [user interface](https://en.wikipedia.org/wiki/User_interface). This allows many small incremental versions of [software](https://en.wikipedia.org/wiki/Software) to be delivered without the cost of constant branching and merging. Feature toggles may allow shorter software integration cycles.A team working on a project can use feature toggle to speed up the process of development, that can include the incomplete code as well.
 
-<https://en.wikipedia.org/wiki/Feature_toggle>
+https://en.wikipedia.org/wiki/Feature_toggle
 
 Feature Toggles (often also refered to as Feature Flags) are a powerful technique, allowing teams to modify system behavior without changing code. They fall into various usage categories, and it's important to take that categorization into account when implementing and managing toggles. Toggles introduce complexity. We can keep that complexity in check by using smart toggle implementation practices and appropriate tools to manage our toggle configuration, but we should also aim to constrain the number of toggles in our system.
 
@@ -53,4 +53,4 @@ Feature Toggles are also refered to as Feature Flags, Feature Bits, or Feature F
 
 - Per-request overrides
 
-<https://martinfowler.com/articles/feature-toggles.html>
+https://martinfowler.com/articles/feature-toggles.html

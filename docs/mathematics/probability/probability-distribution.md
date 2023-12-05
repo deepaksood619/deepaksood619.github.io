@@ -22,6 +22,6 @@ A probability distribution whose sample space is the set of real numbers is call
 6. Binomial distribution
 7. Bernoulli distribution
 
-<https://en.wikipedia.org/wiki/Probability_distribution>
+https://en.wikipedia.org/wiki/Probability_distribution
 
-<https://www.datacamp.com/community/tutorials/probability-distributions-python>
+https://www.datacamp.com/community/tutorials/probability-distributions-python

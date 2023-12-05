@@ -109,10 +109,10 @@ p.flush()
 
 ## Resources
 
-<https://github.com/confluentinc/confluent-kafka-python>
+https://github.com/confluentinc/confluent-kafka-python
 
-<https://docs.confluent.io/current/clients/confluent-kafka-python>
+https://docs.confluent.io/current/clients/confluent-kafka-python
 
-<https://github.com/edenhill/librdkafka/blob/master/CONFIGURATION>
+https://github.com/edenhill/librdkafka/blob/master/CONFIGURATION
 
-<https://towardsdatascience.com/3-libraries-you-should-know-to-master-apache-kafka-in-python-c95fdf8700f2>
+https://towardsdatascience.com/3-libraries-you-should-know-to-master-apache-kafka-in-python-c95fdf8700f2

@@ -18,7 +18,7 @@ Message DB supports:
 - Administration tools
 - Reports
 
-<http://docs.eventide-project.org/user-guide/message-db>
+http://docs.eventide-project.org/user-guide/message-db
 
 Others
 

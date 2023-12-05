@@ -85,7 +85,7 @@ As part of a design thinking exercise, there are some question starters that wil
 - How could we...?
 - What help do we need in order to...?
 
-<https://www.toptal.com/designers/product-design/design-thinking-great-questions>
+https://www.toptal.com/designers/product-design/design-thinking-great-questions
 
 ## Leading with Questions: How Leaders Find the Right Solutions by Knowing What to Ask by Michael J. Marquardt
 
@@ -154,7 +154,7 @@ As part of a design thinking exercise, there are some question starters that wil
 | Enable Change | What will you need from us in the future? |
 | Develop Vision and Values | Are we being honest with ourselves? |
 
-<http://webbyclare.com/book-review-leading-with-questions>
+http://webbyclare.com/book-review-leading-with-questions
 
 ## Questions to ask if someone asks questions?
 

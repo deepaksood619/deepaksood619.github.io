@@ -1,6 +1,6 @@
 # Templates
 
-<http://www.geeksforgeeks.org/templates-cpp>
+http://www.geeksforgeeks.org/templates-cpp
 
 Template is simple and yet very powerful tool in C++. **The simple idea is to pass data type as a parameter so that we don't need to write same code for different data types.**
 
@@ -14,4 +14,4 @@ Template specialization allows us to have different code for a particular data t
 
 Template MetaProgramming in C++
 
-<http://www.geeksforgeeks.org/template-metaprogramming-in-c>
+http://www.geeksforgeeks.org/template-metaprogramming-in-c

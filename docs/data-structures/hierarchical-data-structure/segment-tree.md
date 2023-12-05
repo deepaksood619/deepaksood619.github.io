@@ -14,6 +14,6 @@ One important property of Segment Trees is, that they require only a linear amou
 
 Applications of the segment tree are in the areas of [computational geometry](https://en.wikipedia.org/wiki/Computational_geometry), and [geographic information systems](https://en.wikipedia.org/wiki/Geographic_information_systems).
 
-<https://cp-algorithms.com/data_structures/segment_tree.html>
+https://cp-algorithms.com/data_structures/segment_tree.html
 
-<https://en.wikipedia.org/wiki/Segment_tree>
+https://en.wikipedia.org/wiki/Segment_tree

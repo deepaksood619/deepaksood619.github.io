@@ -1,6 +1,6 @@
 # Business
 
-<https://hbr.org>
+https://hbr.org
 
 Financial times
 
@@ -18,7 +18,7 @@ Inventory model
 
 Tangible value and perceived value
 
-Ecommerce - <https://drive.google.com/drive/folders/1tsdmHgdMJCPQP3Wy2zU86DQRGXkS00lX>
+Ecommerce - https://drive.google.com/drive/folders/1tsdmHgdMJCPQP3Wy2zU86DQRGXkS00lX
 
 Cut through the clutter and do it fast: An e-retail visitor spends fewer than 10 minutes per visit on a platform. Shoppers browse 10 product pages, on average, in electronics, and more than 15 in mobiles before adding any to their cart. Brands and sellers have limited time to tell their story and make an impression in the minds of the consumers. Images are key - 1 in 2 visitors browse image galleries, whereas only 1 in 22 read product descriptions
 
@@ -65,7 +65,7 @@ Unknown unknown and known unknown
 
 Conceptualized and named by [Warren Buffett](https://www.investopedia.com/articles/01/071801.asp), an economic moat is a distinct advantage a company has over its competitors which allows it to protect its market share and profitability. It is often an advantage that is difficult to mimic or duplicate (brand identity, patents) and thus creates an effective barrier against competition from other firms.
 
-<https://www.investopedia.com/terms/e/economicmoat.aspc>
+https://www.investopedia.com/terms/e/economicmoat.aspc
 
 [Economic Moats | Which companies have competitive advantages? | ETMONEY](https://youtu.be/dDnKxU_irq4)
 
@@ -79,7 +79,7 @@ Conceptualized and named by [Warren Buffett](https://www.investopedia.com/articl
 - CULTURAL MOAT
 - DIGITAL & DATA MOAT
 
-<https://acquirersmultiple.com/2022/01/bruce-greenwald-moats-are-not-that-hard-to-calculate>
+https://acquirersmultiple.com/2022/01/bruce-greenwald-moats-are-not-that-hard-to-calculate
 
 - So the first element in this is what's the minimum viable share somebody has to get to. For very big markets that's going to be low. For small niche markets in geography or in product space that's going to be large, and secondly what does customer captivity look like? And because the current technologies tend to be user oriented you have to learn how to use it so you have a lot of customer captivity.
 - And in services it's face to face with high purchase frequency so again you've got a lot of customer connectivity but really what you're looking for is minimum viable scale divided by annual market share change in a contested environment."
@@ -88,7 +88,7 @@ Conceptualized and named by [Warren Buffett](https://www.investopedia.com/articl
 
 ![image](../../media/Business-image1.jpg)
 
-<https://marcellus.in/blogs/a-sixty-year-old-tool-to-assess-capital-allocation-decisions>
+https://marcellus.in/blogs/a-sixty-year-old-tool-to-assess-capital-allocation-decisions
 
 ## Why Competitive Advantages Die
 
@@ -106,7 +106,7 @@ Secondly, as a company gets bigger, the HR challenges of managing and motivating
 
 And thirdly, as a company makes money, as its executives enjoy the good life, naturally they become complacent and tend to lose their edge:"The decline of paranoia that made you successful to begin with. I like the idea that systems are better than goals, because once you reach a goal you tend to stop doing the thing that made achieving the goal possible. "I'm going to work out every day" is better than "I'm going to lose 10 pounds" because once you lose 10 pounds you'll probably stop working out. Same thing happens when a successful business or career hits a big goal. Paranoia is a trait newcomers use to combat how deeply the odds are stacked against them. But it tends to die once a goal is hit. Few things sap the paranoiac drive to do better than stable cash flow and high profit margins. Michael Moritz of Sequoia was once asked why his firm had thrived for 40 years. "We've always been afraid of going out of business," was his answer."
 
-<https://www.collaborativefund.com/blog/why-competitive-advantages-die>
+https://www.collaborativefund.com/blog/why-competitive-advantages-die
 
 ## Loss Leader Pricing Model
 
@@ -122,10 +122,10 @@ To bait/expose customers to high cost - high margin products
 
 ## Others
 
-<https://marcellus.in/blogs/staying-on-the-top-of-everest-is-harder-than-getting-there>
+https://marcellus.in/blogs/staying-on-the-top-of-everest-is-harder-than-getting-there
 
-<https://marcellus.in/blogs/why-india-beats-china-hollow-on-consistent-compounding>
+https://marcellus.in/blogs/why-india-beats-china-hollow-on-consistent-compounding
 
 [Geopolitical Series](https://www.youtube.com/playlist?list=PLGwmAEmjn4fkd3IgCnFZSbocpTnka87Pn)
 
-<https://www.freecodecamp.org/news/important-lessons-they-dont-teach-you-in-business-school>
+https://www.freecodecamp.org/news/important-lessons-they-dont-teach-you-in-business-school

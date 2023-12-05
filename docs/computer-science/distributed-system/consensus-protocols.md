@@ -30,11 +30,11 @@ Multi-paxos - models the log as a series of consensus problems, one for each slo
 
 [Paxos](https://lamport.azurewebsites.net/pubs/paxos-simple.pdf) is the original distributed consensus algorithm, with modified versions used by [Chubby](https://static.googleusercontent.com/media/research.google.com/en/archive/chubby-osdi06.pdf) and many others. (Zookeeper's [ZAB](https://cwiki.apache.org/confluence/display/ZOOKEEPER/Zab+vs.+Paxos) is similar to Paxos as well.)
 
-<https://lamport.azurewebsites.net/tla/paxos-algorithm.html>
+https://lamport.azurewebsites.net/tla/paxos-algorithm.html
 
 [Paxos lecture (Raft user study)](https://www.youtube.com/watch?v=JEpsBg0AO6o)
 
-<https://engineering.fb.com/2022/03/07/core-data/augmenting-flexible-paxos-logdevice>
+https://engineering.fb.com/2022/03/07/core-data/augmenting-flexible-paxos-logdevice
 
 ## Raft - Consensus Algorithm
 
@@ -45,9 +45,9 @@ Multi-paxos - models the log as a series of consensus problems, one for each slo
 - Consul
 - Used by etcd (distributed key value store)
 
-<https://raft.github.io>
+https://raft.github.io
 
-<http://thesecretlivesofdata.com/raft>
+http://thesecretlivesofdata.com/raft
 
 ## SWIM
 
@@ -68,7 +68,7 @@ In a "normal execution" of any single [distributed transaction](https://en.wikip
 
 Two-phase commit is a blocking protocol. The coordinator blocks waiting for votes from its cohorts, and cohorts block waiting for a commit/rollback message from the coordinator. Unfortunately, this means 2PC can, in some circumstances, result in a deadlock, e.g. the coordinator dies while cohorts wait or a cohort dies while the coordinator waits. Another problematic scenario is when a coordinator and cohort simultaneously fail. Even if another coordinator takes its place, it won't be able to determine whether to commit or rollback.
 
-<https://en.wikipedia.org/wiki/Two-phase_commit_protocol>
+https://en.wikipedia.org/wiki/Two-phase_commit_protocol
 
 [**https://bravenewgeek.com/understanding-consensus/**](https://bravenewgeek.com/understanding-consensus/)
 
@@ -82,7 +82,7 @@ Three-phase commit (3PC) is designed to solve the problems identified in two-pha
 
 Unlike 2PC, cohorts do not execute a transaction during the voting phase. Rather, they simply indicate if they are prepared to perform the transaction. If cohorts timeout during this phase or there is one or more "no" vote, the transaction is aborted. If the vote is unanimously "yes," the coordinator moves on to the "prepare" phase, sending a message to its cohorts to acknowledge the transaction will be committed. Again, if an ack times out, the transaction is aborted. Once all cohorts have acknowledged the commit, we are guaranteed to be in a state where *all* cohorts have agreed to commit. At this point, if the commit message from the coordinator is not received in the third phase, the cohort will go ahead and commit anyway. This solves the deadlocking problems described earlier. However, 3PC is still susceptible to network partitions. If a partition occurs, the coordinator will timeout and progress will not be made.
 
-<https://bravenewgeek.com/understanding-consensus>
+https://bravenewgeek.com/understanding-consensus
 
 ## State Replication
 
@@ -96,7 +96,7 @@ The use of quorums provide partition tolerance by fencing minority partitions wh
 
 Google relies on Paxos for its high-replication datastore in App Engine as well as its [Chubby lock service](http://static.googleusercontent.com/media/research.google.com/en/us/archive/chubby-osdi06.pdf). The distributed key-value store [etcd](https://github.com/coreos/etcd) uses Raft to manage highly available replicated logs. Zab, which differentiates itself from the former by implementing a primary-backup protocol, was designed for the [ZooKeeper](http://zookeeper.apache.org/) coordination service. In general, there are several different implementations of these protocols, such as the [Go implementation](https://github.com/goraft/raft) of Raft.
 
-<https://bravenewgeek.com/understanding-consensus>
+https://bravenewgeek.com/understanding-consensus
 
 ## SAGA (Asynchronous Distributed Transactions)
 
@@ -126,7 +126,7 @@ Youtube - [SAGA | Microservices Architecture Patterns | Tech Primers](https://ww
 
 Youtube - [Do you know Distributed transactions?](https://www.youtube.com/watch?v=S4FnmSeRpAY)
 
-<https://microservices.io/patterns/data/saga.html>
+https://microservices.io/patterns/data/saga.html
 
 ## Gossip / Gossiping
 
@@ -134,7 +134,7 @@ A gossip protocol is a procedure or process of computer peer-to-peer communicati
 
 The term epidemic protocol is sometimes used as a synonym for a gossip protocol, because gossip spreads information in a manner similar to the spread of a [virus](https://en.wikipedia.org/wiki/Virus) in a biological community.
 
-<https://en.wikipedia.org/wiki/Gossip_protocol>
+https://en.wikipedia.org/wiki/Gossip_protocol
 
 ## FLP Impossibility
 
@@ -152,4 +152,4 @@ Paper concludes that in an asynchronous system, no consensus protocol can be tot
 
 However, FLP proof does not mean we have to pack our things and go home, as reaching consensus is not possible. It only means that it can't always be reached in bounded time. In practice, systems exhibit partial synchronicity, which puts partially synchronous system between the cases of asynchronous and synchronous ones. Nancy Lynch, one of the FLP proof authors, has later authored [Consensus in the Presence of Partial Synchrony](http://groups.csail.mit.edu/tds/papers/Lynch/jacm88.pdf) paper, where several partially synchronous models are discussed, one of them holding timing assumptions that are not known in advance and the other one, where timing assumptions are known, but start holding up at an unknown time.
 
-<https://medium.com/databasss/on-ways-to-agree-part-1-links-and-flp-impossibility-f6bd8a6a0980>
+https://medium.com/databasss/on-ways-to-agree-part-1-links-and-flp-impossibility-f6bd8a6a0980

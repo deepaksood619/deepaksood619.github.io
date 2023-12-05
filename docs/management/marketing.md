@@ -44,7 +44,7 @@ Sales funnels allow for a numbers-based approach to improvement. Without them, e
 
 ![image](../media/Marketing-Sales-image4.jpg)
 
-<https://www.toptal.com/app/profit-from-mobile-funnel>
+https://www.toptal.com/app/profit-from-mobile-funnel
 
 ## Halo effect
 
@@ -58,9 +58,9 @@ The opposite of the halo effect is the horn effect, named for the horns of the d
 - The halo effect can be a double-edged sword: if a brand has an extremely positive perception, this can extend into its new products and boost customer retention and loyalty. If not, a poor brand image can also be passed onto new products.
 - The opposite of the halo effect is called the horn effect, which is when a company releases a bad product that destroys loyalty and positive market perception.
 
-<https://www.investopedia.com/terms/h/halo-effect.asp>
+https://www.investopedia.com/terms/h/halo-effect.asp
 
-<https://answerthepublic.com>
+https://answerthepublic.com
 
 [Why we make bad decisions | Dan Gilbert](https://www.youtube.com/watch?v=c-4flnuxNV4)
 
@@ -177,7 +177,7 @@ I see email being used, by and large, exactly the way I envisioned. In particula
 - How to Write Effective Subject Lines
 - Copywriting Hacks for Email Marketing
 
-  <https://neilpatel.com/blog/ultimate-guide-to-copywriting/>
+  https://neilpatel.com/blog/ultimate-guide-to-copywriting/
 
 ## Lesson 2 - Testing and Tweaking
 
@@ -216,9 +216,9 @@ I see email being used, by and large, exactly the way I envisioned. In particula
 - How to Create Urgency and Scarcity
 - Limited Offers: Countdown Timer
 
-<https://sendgrid.com/resource/complete-email-metrics-guide>
+https://sendgrid.com/resource/complete-email-metrics-guide
 
-<https://blog.hubspot.com/blog/tabid/6307/bid/30684/the-ultimate-list-of-email-spam-trigger-words.aspx>
+https://blog.hubspot.com/blog/tabid/6307/bid/30684/the-ultimate-list-of-email-spam-trigger-words.aspx
 
 ## Acquiring Leads
 
@@ -301,7 +301,7 @@ I see email being used, by and large, exactly the way I envisioned. In particula
 
 ## Digital Marketing
 
-<https://neilpatel.com/blog/social-media-shortcuts>
+https://neilpatel.com/blog/social-media-shortcuts
 
 - Analytics
   - What was the ROI of the billboard in Times Square?
@@ -347,7 +347,7 @@ ABM also takes a more holistic view of marketing, beyond just [lead generation](
 
 ![image](../media/Marketing-Sales-image11.jpg)
 
-<https://blog.hubspot.com/marketing/account-based-marketing-guide>
+https://blog.hubspot.com/marketing/account-based-marketing-guide
 
 ## Acquiring your first 1000 users
 
@@ -359,19 +359,19 @@ ABM also takes a more holistic view of marketing, beyond just [lead generation](
 6. Get press
 7. Build a community
 
-<https://www.lennysnewsletter.com/p/how-the-biggest-consumer-apps-got>
+https://www.lennysnewsletter.com/p/how-the-biggest-consumer-apps-got
 
 ## Snake Oil
 
 Snake oilis a term used to describe [deceptive marketing](https://en.wikipedia.org/wiki/False_advertising), [health care fraud](https://en.wikipedia.org/wiki/Health_care_fraud), or a scam. Similarly, "snake oil salesman" is a common expression used to describe someone who sells, promotes, or is a general proponent of some valueless or fraudulent cure, remedy, or solution. The term comes from the "snake oil" that used to be sold as a cure-all elixir for many kinds of physiological problems. Many 19th-century United States and 18th-century European entrepreneurs advertised and sold [mineral oil](https://en.wikipedia.org/wiki/Mineral_oil)(often mixed with various [active](https://en.wikipedia.org/wiki/Active_ingredient) and [inactive](https://en.wikipedia.org/wiki/Inactive_ingredient) household herbs, spices, drugs, and compounds, but containing no snake-derived substances whatsoever) as "snake oil [liniment](https://en.wikipedia.org/wiki/Liniment)", making claims about its efficacy as a [panacea](https://en.wikipedia.org/wiki/Panacea_(medicine)).[Patent medicines](https://en.wikipedia.org/wiki/Patent_medicine) that claimed to be a panacea were extremely common from the 18th century until the 20th, particularly among vendors masking addictive drugs such as [cocaine](https://en.wikipedia.org/wiki/Cocaine), [amphetamine](https://en.wikipedia.org/wiki/Amphetamine), alcohol and [opium](https://en.wikipedia.org/wiki/Opium)-based concoctions or [elixirs](https://en.wikipedia.org/wiki/Elixir), to be sold at [medicine shows](https://en.wikipedia.org/wiki/Medicine_show) as medication or products promoting health.
 
-<https://en.wikipedia.org/wiki/Snake_oil>
+https://en.wikipedia.org/wiki/Snake_oil
 
 ## Interstitial Ads
 
 Interstitial ads are full-screen ads that cover the interface of their host app. They're typically displayed at natural transition points in the flow of an app, such as between activities or during the pause between levels in a game. When an app shows an interstitial ad, the user has the choice to either tap on the ad and continue to its destination or close it and return to the app
 
-<https://developers.google.com/admob/android/interstitial>
+https://developers.google.com/admob/android/interstitial
 
 [20 Years Of Marketing - 7 Most Important Lessons Learned](https://www.youtube.com/watch?v=VS4ECrG_0uM)
 
@@ -389,11 +389,11 @@ Interstitial ads are full-screen ads that cover the interface of their host app.
 
 ## SMS Marketing
 
-<https://yourstory.com/2018/03/5-point-guide-sms-marketing>
+https://yourstory.com/2018/03/5-point-guide-sms-marketing
 
 ## Cloud Services
 
-<https://www.gigsmedia.in>
+https://www.gigsmedia.in
 
 ![image](../media/Marketing-Sales-image12.jpg)
 
@@ -425,8 +425,8 @@ Interstitial ads are full-screen ads that cover the interface of their host app.
 
 6. **App Inbox / Notification Center**
 
-    <https://docs.clevertap.com/docs/app-inbox>
-    <https://docs.leanplum.com/docs/app-inbox-messages>
+    https://docs.clevertap.com/docs/app-inbox
+    https://docs.leanplum.com/docs/app-inbox-messages
 
 7. MSG91
 8. FCM
@@ -474,35 +474,35 @@ Tools / Cloud vendors / Agencies
 - msg91
 - Yellowmessenger
 - Pinpoint
-- <https://convertkit.com>
+- https://convertkit.com
 - Gmass
 
 - Digital marketing
-  - <https://hootsuite.com>
-  - <https://www.radaar.io>
-  - <https://ads.google.com>
+  - https://hootsuite.com
+  - https://www.radaar.io
+  - https://ads.google.com
     - DV360 (Display & Video 360)
 - Content Creation
 
-<https://www.peppercontent.io>
+https://www.peppercontent.io
 
-<https://www.peppertype.ai>
+https://www.peppertype.ai
 
-- <https://clevertap.com>
-- <https://developers.google.com/business-communications/rcs-business-messaging>
+- https://clevertap.com
+- https://developers.google.com/business-communications/rcs-business-messaging
 - Google postmaster tools
-- <https://www.sinch.com>
+- https://www.sinch.com
 - Agencies
 
-<https://www.havas.com>
+https://www.havas.com
 
-<https://initiative.com>
+https://initiative.com
 
 - Frontend
   - neuronimbus
 - Sales Tools
 
-<https://www.pipedrive.com>
+https://www.pipedrive.com
 
 - Localization
   - Words Lead - Voice Over and Dubbing services
@@ -511,15 +511,15 @@ Tools / Cloud vendors / Agencies
 
 ## Others
 
-<https://www.lennysnewsletter.com/p/what-is-good-retention-issue-29>
+https://www.lennysnewsletter.com/p/what-is-good-retention-issue-29
 
-<https://neilpatel.com/blog/ai-tools-media>
+https://neilpatel.com/blog/ai-tools-media
 
 [**https://medium.datadriveninvestor.com/how-nestl%C3%A9-conquered-japan-with-the-greatest-tactic-12ed4d3c87eb**](https://medium.datadriveninvestor.com/how-nestl%C3%A9-conquered-japan-with-the-greatest-tactic-12ed4d3c87eb)
 
 [How to get your ideas to spread | Seth Godin](https://www.youtube.com/watch?v=xBIVlM435Zg)
 
-<https://www.smartinsights.com/marketing-planning/marketing-models/use-bcg-matrix>
+https://www.smartinsights.com/marketing-planning/marketing-models/use-bcg-matrix
 
 ![image](../media/Marketing-Sales-image13.jpg)
 

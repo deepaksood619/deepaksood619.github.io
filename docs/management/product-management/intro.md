@@ -89,9 +89,9 @@ This is the best-case scenario out of a worst-case scenario.
 
 ## Frameworks
 
-<https://www.scaledagileframework.com>
+https://www.scaledagileframework.com
 
-<https://basecamp.com/shapeup>
+https://basecamp.com/shapeup
 
 ## What is Product Management
 
@@ -114,7 +114,7 @@ This is the best-case scenario out of a worst-case scenario.
 
 The tricky part is to figure outwhich1% problems to solve and which ones to ignore. You might decide that the wrong cab problem, even though it's a 1% problem, is worth solving. And so every rider must announce a four-digit pin to the driver to start a trip. To solve a 1% problem, you decide to inconvenience the 99%.
 
-<https://blackboxofpm.com/product-management-mental-models-for-everyone-31e7828cb50b>
+https://blackboxofpm.com/product-management-mental-models-for-everyone-31e7828cb50b
 
 ## Abbreviations
 
@@ -125,7 +125,7 @@ The tricky part is to figure outwhich1% problems to solve and which ones to igno
 - PRD - Product Requirement Document
 - FRD - Functional Requirement Document
 - COCA - Cost of customer acquisation
-- CAC - Customer Acquisition Cost - <https://neilpatel.com/blog/customer-acquisition-cost>
+- CAC - Customer Acquisition Cost - https://neilpatel.com/blog/customer-acquisition-cost
 
 ## User Stories / User Story
 
@@ -133,11 +133,11 @@ In [software development](https://en.wikipedia.org/wiki/Software_development) an
 
 User stories are a type of [boundary object](https://en.wikipedia.org/wiki/Boundary_object). They facilitate [sensemaking](https://en.wikipedia.org/wiki/Sensemaking) and communication; and may help software teams document their understanding of the system and its context.
 
-<https://en.wikipedia.org/wiki/User_story>
+https://en.wikipedia.org/wiki/User_story
 
 ## Checklist
 
-<https://getting-started-in-product.mailerpage.com/posts/s7e5o0-product-management-checklists-how>
+https://getting-started-in-product.mailerpage.com/posts/s7e5o0-product-management-checklists-how
 
 ## Design X for Y (X = Product, Y = Customer)
 
@@ -188,7 +188,7 @@ Articulate your objectives using absolutely no jargon
 6. Sell something that makes people feel great buying
 7. Focus on a niche underserved market
 
-<https://www.lennysnewsletter.com/p/how-to-differentiate>
+https://www.lennysnewsletter.com/p/how-to-differentiate
 
 ## Organizational skills
 
@@ -244,22 +244,22 @@ Product sense relies on
 1. Learn from great product thinkers
 2. Be curious about changes in technology and your domain
 
-<https://www.lennysnewsletter.com/p/product-sense>
+https://www.lennysnewsletter.com/p/product-sense
 
 ## Others
 
-<https://www.freecodecamp.org/news/why-understanding-software-requirements-matter-to-you-as-a-software-engineer>
+https://www.freecodecamp.org/news/why-understanding-software-requirements-matter-to-you-as-a-software-engineer
 
-<https://rohankatyal.com/How-I-prepared-for-Facebook-PM-execution-metrics-interviews-24a8aff4830645389d4895bbe33ac801>
+https://rohankatyal.com/How-I-prepared-for-Facebook-PM-execution-metrics-interviews-24a8aff4830645389d4895bbe33ac801
 
 [What It Takes To Become A Great Product Manager](https://www.youtube.com/watch?v=SrAraT1q94c&ab_channel=CodingTech)
 
-<https://www.lennysnewsletter.com/p/a-product-managers-guide-to-web3>
+https://www.lennysnewsletter.com/p/a-product-managers-guide-to-web3
 
 ## Resources
 
-<https://www.lennysnewsletter.com>
+https://www.lennysnewsletter.com
 
-<https://noidea.dog/glue>
+https://noidea.dog/glue
 
 [Inside The Product](https://www.youtube.com/c/InsideTheProduct)

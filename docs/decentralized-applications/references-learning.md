@@ -5,7 +5,7 @@
 - [Blockchain Developer Roadmap: Learn to become a blockchain developer](https://roadmap.sh/blockchain)
 - [Layer3](https://layer3.xyz/)
 - [Quests | RabbitHole](https://rabbithole.gg/quests)
-- <https://www.toptal.com/blockchain/interview-questions>
+- https://www.toptal.com/blockchain/interview-questions
 - [Learn All About Blockchain & Cryptocurrency | Binance Academy](https://academy.binance.com/en)
 - [Dapp University](https://www.youtube.com/channel/UCY0xL8V6NzzFcwzHCgB8orQ)
 - [Video 2](https://go.dappuniversity.com/bootcamp-2c61ccca)

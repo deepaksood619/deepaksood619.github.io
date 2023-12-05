@@ -72,7 +72,7 @@ SELECT * FROM trip WHERE price < ANY (
 );
 ```
 
-<https://www.w3schools.com/sql/sql_operators.asp>
+https://www.w3schools.com/sql/sql_operators.asp
 
 ## Wildcard Characters in MS Access
 
@@ -95,4 +95,4 @@ SELECT * FROM trip WHERE price < ANY (
 | ^ | Represents any character not in the brackets | `h[^oa]t` finds hit, but not hot and hat |
 | - | Represents a range of characters | `c[a-b]t` finds cat and cbt |
 
-<https://www.w3schools.com/sql/sql_wildcards.asp>
+https://www.w3schools.com/sql/sql_wildcards.asp

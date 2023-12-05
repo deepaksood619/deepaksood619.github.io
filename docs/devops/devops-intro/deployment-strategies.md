@@ -24,7 +24,7 @@ Using the visual above as an example, we could randomly split our customer base 
 
 Getting more technical, A/B testing is a form of statistical and two-sample hypothesis testing. **Statistical hypothesis testing** is a method in which a sample dataset is compared against the population data.**Two-sample hypothesis testing**is a method in determining whether the differences between the two samples are statistically significant or not.
 
-<https://towardsdatascience.com/a-simple-guide-to-a-b-testing-for-data-science-73d08bdd0076>
+https://towardsdatascience.com/a-simple-guide-to-a-b-testing-for-data-science-73d08bdd0076
 
 ## References
 

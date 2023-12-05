@@ -64,7 +64,7 @@ A keyspace in Cassandra is a namespace that defines data replication on nodes. A
 
 #### SuperColumn
 
-<https://www.tutorialspoint.com/cassandra/cassandra_data_model.htm>
+https://www.tutorialspoint.com/cassandra/cassandra_data_model.htm
 
 Cassandra is fundamentally a key-value store and distributes data around the cluster by a **PARTITION KEY**, then sorts the data on that partition (or row) by the **CLUSTERING key**. Adding new data to that row is almost free, and updates are handled by marking the previous cell value with a **tombstone** and adding the new value to the row. Eventually, you will need to **compact** these partitions as data becomes fragmented over multiple files, but remember that you are amortizing your INSERTs and UPDATEs over time with almost instantaneous commits. This makes scanning a single partition or row very fast as the disk head only performs a single seek operation. However, if you want more than a single Cassandra partition, performance goes south fairly quickly as **scatter/gather** queries are an **anti-pattern**, and [secondary indexes](https://www.datastax.com/dev/blog/cassandra-native-secondary-index-deep-dive) are only useful in extremely rare and specific occasions. Therefore, when you know what partition you want to scan, and you don't want to do any aggregations, GROUPBYs, or any other more analytical operations, then you are in good shape. The result is that Cassandra is great for small, tightly constrained, well-known queries and high-volume inserts and updates.
 
@@ -93,13 +93,13 @@ In the image above, circles are Cassandra nodes and lines between the circles sh
 
 [**https://academy.datastax.com/**](https://academy.datastax.com/)
 
-<https://en.wikipedia.org/wiki/Apache_Cassandra>
+https://en.wikipedia.org/wiki/Apache_Cassandra
 
-<http://cassandra.apache.org>
+http://cassandra.apache.org
 
-<https://www.tutorialspoint.com/cassandra/index.htm>
+https://www.tutorialspoint.com/cassandra/index.htm
 
-<https://www.freecodecamp.org/news/the-apache-cassandra-beginner-tutorial>
+https://www.freecodecamp.org/news/the-apache-cassandra-beginner-tutorial
 
 [Introduction to Apache Cassandra™ + What's New in 4.0 by Patrick McFadin | DataStax Presents](https://www.youtube.com/watch?v=d7o6a75sfY0)
 

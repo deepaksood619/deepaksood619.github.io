@@ -1,6 +1,6 @@
 # Frameworks
 
-<https://kinsta.com/blog/php-frameworks>
+https://kinsta.com/blog/php-frameworks
 
 - **Laravel**
 - Symfony
@@ -25,6 +25,6 @@ According to the charts of 2019, Laravel is at the top of the list as the most p
 
 Eloquent ORM, fluent query builder, great documentation, and always up-to-date Laracasts are definitely making the framework stand out. Laravel embraces automation and rapid development with providing tools like **Artisan**.
 
-<https://laravel.com/docs/7.x/artisan>
+https://laravel.com/docs/7.x/artisan
 
-<https://www.tutorialspoint.com/php/php_frame_works.htm>
+https://www.tutorialspoint.com/php/php_frame_works.htm

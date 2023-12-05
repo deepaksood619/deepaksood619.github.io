@@ -51,4 +51,4 @@ Main characteristics of not only SQL databases. Non-structured and semi-structur
 
 7. Interpretation
 
-<https://www.edx.org/course/data-storage-and-processing>
+https://www.edx.org/course/data-storage-and-processing

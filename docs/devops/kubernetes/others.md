@@ -10,9 +10,9 @@ Pricing table for a 8 node (1 core, 3.5gb) cluster:
 | AKS | 60$                             | 150$                                  |
 | EKS | 50$+20$ (master)               | 150$ + 144$ (master)                 |
 
-<https://blog.hasura.io/gke-vs-aks-vs-eks-411f080640dc>
+https://blog.hasura.io/gke-vs-aks-vs-eks-411f080640dc
 
-<https://www.toptal.com/kubernetes/k8s-aws-vs-gcp-vs-azure-aks-eks-gke>
+https://www.toptal.com/kubernetes/k8s-aws-vs-gcp-vs-azure-aks-eks-gke
 
 ## Kaniko
 
@@ -26,33 +26,33 @@ Rook is an open sourcecloud-native storage orchestratorfor Kubernetes, providing
 
 Rook turns storage software into self-managing, self-scaling, and self-healing storage services. It does this by automating deployment, bootstrapping, configuration, provisioning, scaling, upgrading, migration, disaster recovery, monitoring, and resource management. Rook uses the facilities provided by the underlying cloud-native container management, scheduling and orchestration platform to perform its duties.
 
-<https://github.com/rook/rook>
+https://github.com/rook/rook
 
-<https://rook.io>
+https://rook.io
 
 ## Ceph
 
 [Ceph](https://ceph.com/) is a distributed storage system that provides file, block and object storage and is deployed in large scale production clusters.
 
-<https://ceph.com/community/rook-automating-ceph-kubernetes>
+https://ceph.com/community/rook-automating-ceph-kubernetes
 
 ## knative
 
 Kubernetes-based platform to build, deploy, and manage modern serverless workloads
 
-<https://cloud.google.com/knative>
+https://cloud.google.com/knative
 
-<https://github.com/knative/serving>
+https://github.com/knative/serving
 
-<https://medium.com/@pczarkowski/introduction-to-knative-b93a0b9aeeef>
+https://medium.com/@pczarkowski/introduction-to-knative-b93a0b9aeeef
 
-<https://github.com/knative/docs>
+https://github.com/knative/docs
 
 ## CloudEvents
 
 CloudEvents is a specification for describing event data in common formats to provide interoperability across services, platforms and systems.
 
-<https://github.com/cloudevents/spec>
+https://github.com/cloudevents/spec
 
 ## Fission
 
@@ -99,25 +99,25 @@ When you create a Package with a Source Archive, Fission automatically builds it
 
 Specifications (specs for short) are simply YAML config files containing the objects we've spoken about so far - Functions, Environments, Triggers, Packages, and Archives.
 
-<https://fission.io>
+https://fission.io
 
-<https://github.com/fission/fission>
+https://github.com/fission/fission
 
 ## KubeFlow
 
 Kubeflow is a Cloud Native platform for machine learning based on Google's internal machine learning pipelines.
 
-<https://www.kubeflow.org>
+https://www.kubeflow.org
 
-<https://github.com/kubeflow/kubeflow>
+https://github.com/kubeflow/kubeflow
 
 ## Seldon Core
 
 An open source platform to deploy your machine learning models on Kubernetes at massive scale.
 
-<https://docs.seldon.io/projects/seldon-core/en/v1.1.0>
+https://docs.seldon.io/projects/seldon-core/en/v1.1.0
 
-<https://www.seldon.io>
+https://www.seldon.io
 
 ## Ship
 
@@ -127,9 +127,9 @@ Replicated Ship is a Kubernetes app deployment and automation tool that can:
 2. Quickly develop app [kustomizations](https://www.kustomize.io/) using Ship's easy-to-use import & migration tools.
 3. Enable application developers to package and deliver a canonical version of their application configuration while encouraging last-mile customizations through overlays instead of forking or upstream requests.
 
-<https://github.com/replicatedhq/ship>
+https://github.com/replicatedhq/ship
 
-<https://www.replicated.com/ship>
+https://www.replicated.com/ship
 
 ## Virtual Kubelet
 
@@ -139,7 +139,7 @@ Virtual Kubeletis a program that uses the same API as Kubelet. It connects to th
 
 So Virtual Kubelet looks like a regular cluster node (it shows up in the output ofkubectl get nodes) except that it doesn't correspond to an actual node. Anything scheduled on Virtual Kubelet will run on its configured provider.
 
-<https://jpetazzo.github.io/2019/02/13/running-kubernetes-without-nodes-with-kiyot>
+https://jpetazzo.github.io/2019/02/13/running-kubernetes-without-nodes-with-kiyot
 
 Virtual Kubelet is an open source [Kubernetes kubelet](https://kubernetes.io/docs/reference/generated/kubelet/) implementation that masquerades as a kubelet for the purposes of connecting Kubernetes to other APIs. This allows the nodes to be backed by other services like ACI, AWS Fargate, [IoT Edge](https://github.com/Azure/iot-edge-virtual-kubelet-provider) etc. The primary scenario for VK is enabling the extension of the Kubernetes API into serverless container platforms like ACI and Fargate, though we are open to others. However, it should be noted that VK is explicitly not intended to be an alternative to Kubernetes federation.
 
@@ -149,13 +149,13 @@ Virtual Kubelet features a pluggable architecture and direct use of Kubernetes p
 
 [https://virtual-kubelet.io](https://virtual-kubelet.io/)
 
-<https://github.com/virtual-kubelet/virtual-kubelet>
+https://github.com/virtual-kubelet/virtual-kubelet
 
-<https://docs.microsoft.com/en-us/azure/aks/virtual-kubelet#installation>
+https://docs.microsoft.com/en-us/azure/aks/virtual-kubelet#installation
 
 Others - Kiyot
 
-<https://static.elotl.co/docs/latest/kiyot/kiyot.html>
+https://static.elotl.co/docs/latest/kiyot/kiyot.html
 
 ## KubeVirt
 
@@ -169,13 +169,13 @@ Benefits are broad and significant. Teams with a reliance on existing virtual ma
 
 ## Kubernetes migrations & Disaster Management
 
-<https://github.com/kubemove/kubemove>
+https://github.com/kubemove/kubemove
 
 [**https://github.com/heptio/velero**](https://github.com/heptio/velero)
 
-<https://heptio.github.io/velero/master/migration-case.html>
+https://heptio.github.io/velero/master/migration-case.html
 
-<https://akomljen.com/kubernetes-backup-and-restore-with-velero>
+https://akomljen.com/kubernetes-backup-and-restore-with-velero
 
 ## ExternalDNS
 
@@ -185,7 +185,7 @@ Inspired by [Kubernetes DNS](https://github.com/kubernetes/dns), Kubernetes' clu
 
 In a broader sense, ExternalDNS allows you to control DNS records dynamically via Kubernetes resources in a DNS provider-agnostic way.
 
-<https://github.com/kubernetes-sigs/external-dns>
+https://github.com/kubernetes-sigs/external-dns
 
 ## Brigade: Event-based Scripting for Kubernetes
 
@@ -216,41 +216,41 @@ BKPR is open source under the Apache 2 License and is available for Google Kuber
 - cert-manager
 - OAuth2 Proxy
 
-<https://kubeprod.io>
+https://kubeprod.io
 
 ## Kubernetes Autoscaler
 
 [Cluster Autoscaler](https://github.com/kubernetes/autoscaler/tree/master/cluster-autoscaler)- a component that automatically adjusts the size of a Kubernetes Cluster so that all pods have a place to run and there are no unneeded nodes. Works with GCP, AWS and Azure. Version 1.0 (GA) was released with kubernetes 1.8.
 
-<https://github.com/kubernetes/autoscaler/tree/master/cluster-autoscaler>
+https://github.com/kubernetes/autoscaler/tree/master/cluster-autoscaler
 
-<https://github.com/helm/charts/tree/master/stable/cluster-autoscaler>
+https://github.com/helm/charts/tree/master/stable/cluster-autoscaler
 
 ## [Vertical Pod Autoscaler](https://github.com/kubernetes/autoscaler/tree/master/vertical-pod-autoscaler) / VPA
 
 A set of components that automatically adjust the amount of CPU and memory requested by pods running in the Kubernetes Cluster. Current state - beta
 
-<https://github.com/kubernetes/autoscaler/tree/master/vertical-pod-autoscaler>
+https://github.com/kubernetes/autoscaler/tree/master/vertical-pod-autoscaler
 
-<https://medium.com/infrastructure-adventures/vertical-pod-autoscaler-deep-dive-limitations-and-real-world-examples-9195f8422724>
+https://medium.com/infrastructure-adventures/vertical-pod-autoscaler-deep-dive-limitations-and-real-world-examples-9195f8422724
 
 [https://povilasv.me/vertical-pod-autoscaling-the-definitive-guide/#](https://povilasv.me/vertical-pod-autoscaling-the-definitive-guide/)
 
 ## Goldilocks
 
-<https://github.com/FairwindsOps/goldilocks>
+https://github.com/FairwindsOps/goldilocks
 
 [Addon Resizer](https://github.com/kubernetes/autoscaler/tree/master/addon-resizer)- a simplified version of vertical pod autoscaler that modifies resource requests of a deployment based on the number of nodes in the Kubernetes Cluster. Current state - beta.
 
-<https://github.com/kubernetes/autoscaler>
+https://github.com/kubernetes/autoscaler
 
 ## Forge
 
 Forge is an open source tool that lets you deploy source straight into Kubernetes, whether it's for development, testing, or production. Forge supports dependency management, fast parallel builds, and more. Forge is self-contained, and designed to run anywhere from your laptop to your CI system.
 
-<https://github.com/datawire/forge>
+https://github.com/datawire/forge
 
-<https://forge.sh>
+https://forge.sh
 
 ## Sonobuoy
 
@@ -266,24 +266,24 @@ Service providers
 - Does my service work in this cluster?
 - Does cluster with my service still pass conformance?
 
-<https://sonobuoy.io>
+https://sonobuoy.io
 
-<https://github.com/vmware-tanzu/sonobuoy>
+https://github.com/vmware-tanzu/sonobuoy
 
 ## Others
 
-<https://medium.com/free-code-camp/how-to-set-up-a-serious-kubernetes-terminal-dd07cab51cd4>
+https://medium.com/free-code-camp/how-to-set-up-a-serious-kubernetes-terminal-dd07cab51cd4
 
-<https://www.weave.works/blog/application-checklist-kubernetes>
+https://www.weave.works/blog/application-checklist-kubernetes
 
-<https://www.weave.works/blog/production-ready-checklist-kubernetes>
+https://www.weave.works/blog/production-ready-checklist-kubernetes
 
-<https://www.stackrox.com/post/2019/09/12-kubernetes-configuration-best-practices>
+https://www.stackrox.com/post/2019/09/12-kubernetes-configuration-best-practices
 
-API Versions - <https://matthewpalmer.net/kubernetes-app-developer/articles/kubernetes-apiversion-definition-guide.html>
+API Versions - https://matthewpalmer.net/kubernetes-app-developer/articles/kubernetes-apiversion-definition-guide.html
 
-Using private container registry - <https://container-solutions.com/using-google-container-registry-with-kubernetes>
+Using private container registry - https://container-solutions.com/using-google-container-registry-with-kubernetes
 
-Centralized monitoring on Kubernetes - <https://github.com/coreos/prometheus-operator/tree/master/contrib/kube-prometheus>
+Centralized monitoring on Kubernetes - https://github.com/coreos/prometheus-operator/tree/master/contrib/kube-prometheus
 
-Questions - <https://ymmt2005.hatenablog.com/entry/k8s-things>
+Questions - https://ymmt2005.hatenablog.com/entry/k8s-things

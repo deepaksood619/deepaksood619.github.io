@@ -1,10 +1,10 @@
 # Course - Time Series Analysis
 
-<https://365datascience.teachable.com/p/time-series-analysis-in-python>
+https://365datascience.teachable.com/p/time-series-analysis-in-python
 
-<https://365datascience.teachable.com/courses/enrolled/666338>
+https://365datascience.teachable.com/courses/enrolled/666338
 
-<https://www.toptal.com/artificial-intelligence/retail-sales-forecasting-ai>
+https://www.toptal.com/artificial-intelligence/retail-sales-forecasting-ai
 
 ## Introduction to Time Series in Python
 

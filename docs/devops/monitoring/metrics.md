@@ -74,7 +74,7 @@ If you're building a web application or web service, here are some more specific
 - **Unhealthy host count.** This is a common metric reported by web load balancers. It tells you how many hosts your load balancer currently considers healthy.
 - **Number of connections open** to each web server, database host, queue server, and any other service you have.
 
-<https://medium.com/@djsmith42/how-to-metric-edafaf959fc7>
+https://medium.com/@djsmith42/how-to-metric-edafaf959fc7
 
 ## Latency
 
@@ -149,7 +149,7 @@ a latency heatmap is a way of visualizing histograms over time.
 
 it visualises the full distribution by plotting time in the x-axis and latency buckets in the y-axis. the color of the bucket indicates how many values fell into that bucket. this conveys much more information than a single percentile would.
 
-<https://igor.io/latency>
+https://igor.io/latency
 
 ### What is Latency
 
@@ -159,13 +159,13 @@ Latency tends to be heavily multi-modal, and part of this is attributed to "hicc
 
 The number one indicator you should never get rid of is the maximum value. That is not noise, that is the signal. The rest of it is noise.
 
-<https://bravenewgeek.com/everything-you-know-about-latency-is-wrong>
+https://bravenewgeek.com/everything-you-know-about-latency-is-wrong
 
 ## Long Tail Latency
 
 Network latencies between machines within a data center can be low. Generally, all communication takes a few microseconds, but every once in a while, some packets take a few milliseconds. The packets that take a few milliseconds generally belong to the 90th percentile or higher of latencies. Longtail latencies occur when these high percentiles begin to have values that go well beyond the average and can be magnitudes greater than the average.
 
-<https://engineering.linkedin.com/performance/who-moved-my-99th-percentile-latency>
+https://engineering.linkedin.com/performance/who-moved-my-99th-percentile-latency
 
 ## Instrumentation
 
@@ -180,9 +180,9 @@ In programming, instrumentation means the ability of an application to incorpora
 - **Performance counters -** components that allow the tracking of the performance of the application.
 - **[Computer data logging](https://en.wikipedia.org/wiki/Computer_data_logging) -** components that allow the logging and tracking of major events in the execution of the application.
 
-<https://en.wikipedia.org/wiki/Instrumentation_(computer_programming)>
+https://en.wikipedia.org/wiki/Instrumentation_(computer_programming)
 
-<https://labs.meanpug.com/custom-application-metrics-with-django-prometheus-and-kubernetes>
+https://labs.meanpug.com/custom-application-metrics-with-django-prometheus-and-kubernetes
 
 ## Metrics (Kubernetes)
 
@@ -289,7 +289,7 @@ RED for Kubernetes API Server
   - Intra-cluster gRPC stats
     - etcd_network_member_round_trip_time_seconds_bucket
 
-<https://www.youtube.com/watch?v=1oJXMdVi0mM>
+https://www.youtube.com/watch?v=1oJXMdVi0mM
 
 ## Types of Metrics
 
@@ -344,16 +344,16 @@ A summary with a base metric name of `<basename>` exposes multiple time series d
 1. If you need to aggregate, choose histograms.
 2. Otherwise, choose a histogram if you have an idea of the range and distribution of values that will be observed. Choose a summary if you need an accurate quantile, no matter what the range and distribution of the values is.
 
-<https://prometheus.io/docs/concepts/metric_types>
+https://prometheus.io/docs/concepts/metric_types
 
-<https://prometheus.io/docs/practices/histograms>
+https://prometheus.io/docs/practices/histograms
 
 ## Apdex (Application Performance Index)
 
 Apdex is an [open standard](https://en.wikipedia.org/wiki/Open_standard) for measuring performance of [software applications](https://en.wikipedia.org/wiki/Software_applications) in [computing](https://en.wikipedia.org/wiki/Computing). Its purpose is to convert measurements into insights about user satisfaction, by specifying a uniform way to analyze and report on the degree to which measured performance meets [user expectations](https://en.wikipedia.org/wiki/User_expectations). It was developed by an alliance of companies
 
-<https://en.wikipedia.org/wiki/Apdex>
+https://en.wikipedia.org/wiki/Apdex
 
 ## Common types of Alert
 
-<https://www.freecodecamp.org/news/metrics-driven-development>
+https://www.freecodecamp.org/news/metrics-driven-development

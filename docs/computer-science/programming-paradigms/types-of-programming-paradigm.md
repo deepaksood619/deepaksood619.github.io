@@ -48,4 +48,4 @@ Tools that enable you to program declaratively evolve into better and faster way
 
 ## References
 
-<https://medium.freecodecamp.org/hard-coding-concepts-explained-with-simple-real-life-analogies-280635e98e37>
+https://medium.freecodecamp.org/hard-coding-concepts-explained-with-simple-real-life-analogies-280635e98e37

@@ -50,7 +50,7 @@ Neural networks combine layers of perceptrons, making them more powerful but als
 
 ![image](../../media/Neural-Networks-image17.jpg)
 
-<https://www.youtube.com/watch?v=dPWYUELwIdM>
+https://www.youtube.com/watch?v=dPWYUELwIdM
 
 [Neural Networks Demystified](https://www.youtube.com/playlist?list=PLiaHhY2iBX9hdHaRr6b7XevZtgZRa1PoU)
 

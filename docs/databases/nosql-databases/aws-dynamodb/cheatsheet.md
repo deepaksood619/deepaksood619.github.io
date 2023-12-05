@@ -246,4 +246,4 @@ aws dynamodbquery finds items based on primary key values. You can query table o
 
 aws dynamodbscan returns one or more items and item attributes by accessing every item in a table or a secondary index.
 
-<https://www.freecodecamp.org/news/ultimate-dynamodb-2020-cheatsheet>
+https://www.freecodecamp.org/news/ultimate-dynamodb-2020-cheatsheet

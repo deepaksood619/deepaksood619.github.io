@@ -34,7 +34,7 @@ Option C. Take hourly DB backups to EC2 instance store volumes with transaction 
 
 ![image](../../media/DevOps-DevOps-Disaster-Recovery-image1.jpg)
 
-<https://aws.amazon.com/blogs/architecture/disaster-recovery-dr-architecture-on-aws-part-iii-pilot-light-and-warm-standby>
+https://aws.amazon.com/blogs/architecture/disaster-recovery-dr-architecture-on-aws-part-iii-pilot-light-and-warm-standby
 
 ### Solution
 
@@ -91,7 +91,7 @@ Velero consists of:
 - A server that runs on your cluster
 - A command-line client that runs locally
 
-<https://github.com/vmware-tanzu/velero>
+https://github.com/vmware-tanzu/velero
 
 ### Kanister
 
@@ -108,8 +108,8 @@ A framework for data management in Kubernetes. It allows domain experts to defin
 - Secured by RBAC: Prevent unauthorized access to your workflows using RBAC.
 - Reporting:Watching, logging and eventing let you know the impact of your workflows.
 
-<https://github.com/kanisterio/kanister>
+https://github.com/kanisterio/kanister
 
 ## Others
 
-<https://d1.awsstatic.com/whitepapers/architecture/AWS-Reliability-Pillar.pdf>
+https://d1.awsstatic.com/whitepapers/architecture/AWS-Reliability-Pillar.pdf

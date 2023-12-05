@@ -23,7 +23,7 @@ Without going into too much detail, hackers commonly use [rainbow table attacks]
 
 A salt makes it much more difficult for hackers to perform these types of attacks. Depending on the hash function, salted hashes take nearly exponentially more time to crack than unsalted ones. They also make rainbow table attacks nearly impossible. It's therefore important to always use salts in your hashes.
 
-<https://dev.to/kmistele/how-to-securely-hash-and-store-passwords-in-your-next-application-4e2f>
+https://dev.to/kmistele/how-to-securely-hash-and-store-passwords-in-your-next-application-4e2f
 
 ## Key derivation function
 

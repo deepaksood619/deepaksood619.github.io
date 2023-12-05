@@ -10,9 +10,9 @@ Getting past procrastination - Vermeer Chart
 
 ![image](../media/Habits-image3.jpg)
 
-<https://alexvermeer.com/wp-content/uploads/howtogetmotivated-1920x1080.jpg>
+https://alexvermeer.com/wp-content/uploads/howtogetmotivated-1920x1080.jpg
 
-<https://alexvermeer.com/wp-content/uploads/howtogetmotivated-2560x1440.jpg>
+https://alexvermeer.com/wp-content/uploads/howtogetmotivated-2560x1440.jpg
 
 ## Akrasia
 
@@ -30,7 +30,7 @@ A commitment device is a choice you make in the present that controls your actio
 
 ### 3. Utilize implementation intentions
 
-<https://jamesclear.com/akrasia>
+https://jamesclear.com/akrasia
 
 [When Procrastination Isn't So Bad](https://www.youtube.com/watch?v=8p_9wccG2NY)
 

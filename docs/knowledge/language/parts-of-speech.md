@@ -36,7 +36,7 @@ A word or phrase that modifies or qualifies an adjective, verb, or other adverb 
 
 An adverb is a word that is used to change, modify or qualify several types of words including an [adjective](http://www.gingersoftware.com/content/grammar-rules/adjectives/), a [verb](http://www.gingersoftware.com/content/grammar-rules/verbs/), a [clause](http://www.gingersoftware.com/content/grammar-rules/adverb/adverb-clauses/), another [adverb](http://www.gingersoftware.com/content/grammar-rules/adverb/), or any other type of word or phrase, with the exception of determiners and adjectives, that directly modify nouns. A good way to understand adverbs is to think about them as the words that provide context. Specifically, adverbs provide a description of how, where, when, in what manner and to what extent something is done or happens. Normally, we can spot an adverb by the fact that it often ends in --ly, but there are lots of adverbs that don't end in this way. Moreover, adverbs can be used in many combinations with each other.
 
-<https://www.gingersoftware.com/content/grammar-rules/adverb>
+https://www.gingersoftware.com/content/grammar-rules/adverb
 
 ## Preposition
 
@@ -55,7 +55,7 @@ Conjunctions are used to link words or parts of sentences together. There are fo
 
 An interjection is a word added to a sentence to convey emotion and is not grammatically related to any other part of the sentence. Interjections can also serve as a single word sentence (ex: Wow!). Interjections are rarely used in academic writing and their use should be avoided in most essays.
 
-<https://www.aims.edu/student/online-writing-lab/grammar/parts-of-speech.php>
+https://www.aims.edu/student/online-writing-lab/grammar/parts-of-speech.php
 
 ## Gerund
 

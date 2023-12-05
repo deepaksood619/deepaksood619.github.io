@@ -10,7 +10,7 @@ The benefits of the micro-frontend pattern include
 
 3. They can provide a means for migrating from an "old" app by having a "new" app running side by side with it.
 
-<https://www.toptal.com/front-end/micro-frontends-strengths-benefits>
+https://www.toptal.com/front-end/micro-frontends-strengths-benefits
 
 Micro-frontends let you build a website or web app as a composition of features that you can create and work on separately.
 
@@ -36,14 +36,14 @@ Micro-frontends let you build a website or web app as a composition of features 
 - Unit Testing
 - End-To-End Testing
 
-<https://www.freecodecamp.org/news/learn-all-about-micro-frontends>
+https://www.freecodecamp.org/news/learn-all-about-micro-frontends
 
-<https://micro-frontends.org>
+https://micro-frontends.org
 
-<https://medium.com/@lucamezzalira/i-dont-understand-micro-frontends-88f7304799a9>
+https://medium.com/@lucamezzalira/i-dont-understand-micro-frontends-88f7304799a9
 
-<https://martinfowler.com/articles/micro-frontends.html>
+https://martinfowler.com/articles/micro-frontends.html
 
-<https://single-spa.js.org>
+https://single-spa.js.org
 
-<https://bit.dev>
+https://bit.dev

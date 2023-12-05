@@ -15,15 +15,15 @@ Signaling explains most of our everyday actions: what clothes we wear, which uni
 - Signal Distribution
 - Signal Amplification
 
-<https://www.psychologytoday.com/us/blog/radically-open/201707/social-signaling>
+https://www.psychologytoday.com/us/blog/radically-open/201707/social-signaling
 
 [**https://julian.digital/2020/03/28/signaling-as-a-service/**](https://julian.digital/2020/03/28/signaling-as-a-service/)
 
-<https://julianlehr.substack.com/p/banking-on-status>
+https://julianlehr.substack.com/p/banking-on-status
 
-<https://en.wikipedia.org/wiki/Signalling_(economics)>
+https://en.wikipedia.org/wiki/Signalling_(economics)
 
-<https://en.wikipedia.org/wiki/Signalling_theory>
+https://en.wikipedia.org/wiki/Signalling_theory
 
 ### Virtue Signaling
 

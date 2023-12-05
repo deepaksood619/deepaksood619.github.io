@@ -28,4 +28,4 @@
 
 ## References
 
-<https://cs.nyu.edu/courses/fall17/CSCI-UA.0480-009>
+https://cs.nyu.edu/courses/fall17/CSCI-UA.0480-009

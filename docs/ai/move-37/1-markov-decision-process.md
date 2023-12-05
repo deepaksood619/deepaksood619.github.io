@@ -134,4 +134,4 @@ hidden states. It is a hidden Markov model with actions.
 
 Dopamine is a research framework for fast prototyping of reinforcement learning algorithms.
 
-<https://medium.com/@m.alzantot/deep-reinforcement-learning-demysitifed-episode-2-policy-iteration-value-iteration-and-q-978f9e89ddaa>
+https://medium.com/@m.alzantot/deep-reinforcement-learning-demysitifed-episode-2-policy-iteration-value-iteration-and-q-978f9e89ddaa

@@ -8,7 +8,7 @@ The term "fixed" in "fixed income" refers to both the schedule of obligatory pay
 
 The term fixed income is also applied to a person's income that does not vary materially over time. This can include income derived from fixed-income investments such as bonds and [preferred stocks](https://en.wikipedia.org/wiki/Preferred_stock) or [pensions](https://en.wikipedia.org/wiki/Pension) that guarantee a fixed income. When pensioners or retirees are dependent on their pension as their dominant source of income, the term "fixed income" can also carry the implication that they have relatively limited [discretionary income](https://en.wikipedia.org/wiki/Discretionary_income) or have little financial freedom to make large or discretionary expenditures.
 
-<https://en.wikipedia.org/wiki/Fixed_income>
+https://en.wikipedia.org/wiki/Fixed_income
 
 [The best way to maximise your real, post-tax fixed income gains](https://economictimes.indiatimes.com/wealth/invest/the-best-way-to-maximise-your-real-post-tax-fixed-income-gains/articleshow/97818650.cms)
 
@@ -25,7 +25,7 @@ The term fixed income is also applied to a person's income that does not vary ma
 - short to medium-term bond funds
 - Bonds
 - Debentures (good option)
-- <https://www.thefixedincome.com>
+- https://www.thefixedincome.com
 
 ## PPF (Public Provident Fund)
 
@@ -61,7 +61,7 @@ This is where you save for large-scale emergencies like a major natural disaster
 
 This is the fund you rush to in cases of emergencies. Such a fund should offer little in terms of interest but allow immediate accessibility, which in case of extreme situations can suffice till you gain access to your long-term emergency funds.
 
-<https://www.paytmmoney.com/blog/emergency-funds>
+https://www.paytmmoney.com/blog/emergency-funds
 
 ## Retirement
 
@@ -69,7 +69,7 @@ This is the fund you rush to in cases of emergencies. Such a fund should offer l
 
 - Last date - March 31, 2023
 - 10K per month
-- <https://groww.in/p/savings-schemes/pradhan-mantri-vaya-vandana-yojana>
+- https://groww.in/p/savings-schemes/pradhan-mantri-vaya-vandana-yojana
 
 ### SCSS - senior citizens saving scheme - 30 lakh (8 years) - 8%
 

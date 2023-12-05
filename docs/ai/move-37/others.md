@@ -2,7 +2,7 @@
 
 MCMC - Markov Chain Monte Carlo
 
-<https://skymind.ai/wiki/markov-chain-monte-carlo>
+https://skymind.ai/wiki/markov-chain-monte-carlo
 
 Bayesian approach
 
@@ -12,7 +12,7 @@ Bayesian Model
 
 A Bayesian model is a statistical model where you use probability to represent all uncertainty within the model.
 
-<https://www.toptal.com/algorithms/metropolis-hastings-bayesian-inference>
+https://www.toptal.com/algorithms/metropolis-hastings-bayesian-inference
 
 ## AlphaGO
 
@@ -30,4 +30,4 @@ A Neural Network that takes a state and approximates Q-values for each action ba
 
 ## Asynchronous Actor-Critic Agent
 
-<https://medium.com/emergent-future/simple-reinforcement-learning-with-tensorflow-part-8-asynchronous-actor-critic-agents-a3c-c88f72a5e9f2>
+https://medium.com/emergent-future/simple-reinforcement-learning-with-tensorflow-part-8-asynchronous-actor-critic-agents-a3c-c88f72a5e9f2

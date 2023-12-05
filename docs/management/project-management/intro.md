@@ -1,6 +1,6 @@
 # Project Management
 
-<https://blog.trello.com/project-management-methodologies>
+https://blog.trello.com/project-management-methodologies
 
 ## Project Factors
 
@@ -55,9 +55,9 @@ Known as the three M's, Lean methodology defines three types of project waste: m
 - **Incremental, even when it hurts -** Reduce risk by breaking the migration into as many small parts as possible, even when that increases dev time.
 - **Sprint to 100% -** In this program, the payoff was when we could completely stop deploying to the old infrastructure. Don't slow down or lose focus until you are done.
 
-<https://www.atlassian.com/blog/technology/software-engineering-principles-massive-projects>
+https://www.atlassian.com/blog/technology/software-engineering-principles-massive-projects
 
-<https://www.atlassian.com/blog/inside-atlassian/stopping-team-dysfunction-before-it-starts>
+https://www.atlassian.com/blog/inside-atlassian/stopping-team-dysfunction-before-it-starts
 
 ## Daily Standup
 
@@ -72,13 +72,13 @@ Known as the three M's, Lean methodology defines three types of project waste: m
 
 - **Automated, asynchronous meetings.**
 
-<https://docs.google.com/spreadsheets/d/1VEVFGPTAJO0hIR_dhXNVdoH9LKEyfC1TZDZHRMqbgGk/edit#gid=0>
+https://docs.google.com/spreadsheets/d/1VEVFGPTAJO0hIR_dhXNVdoH9LKEyfC1TZDZHRMqbgGk/edit#gid=0
 
 ## Startup Engineering Team
 
-<https://increment.com/teams/how-to-build-a-startup-engineering-team>
+https://increment.com/teams/how-to-build-a-startup-engineering-team
 
-<https://codingsans.com/blog/engineering-productivity>
+https://codingsans.com/blog/engineering-productivity
 
 - [Defining engineering productivity](https://codingsans.com/blog/engineering-productivity#Definition)
 - [How to measure engineering productivity](https://codingsans.com/blog/engineering-productivity#Measuring)
@@ -125,7 +125,7 @@ The [business fable](https://en.wikipedia.org/wiki/Business_fable) of The Chicke
 
 The Chicken is involved, but the Pig commits!
 
-<https://en.wikipedia.org/wiki/The_Chicken_and_the_Pig>
+https://en.wikipedia.org/wiki/The_Chicken_and_the_Pig
 
 ## Process groups
 
@@ -135,13 +135,13 @@ The Chicken is involved, but the Pig commits!
 - Monitoring and controlling
 - Closing
 
-<https://en.wikipedia.org/wiki/Project_management>
+https://en.wikipedia.org/wiki/Project_management
 
 ## RACI Matrix
 
 A responsibility assignment matrix (RAM), also known as RACI matrix or linear responsibility chart (LRC), describes the participation by various [roles](https://en.wikipedia.org/wiki/Role) in completing [tasks](https://en.wikipedia.org/wiki/Task_(project_management)) or [deliverables](https://en.wikipedia.org/wiki/Deliverable) for a [project](https://en.wikipedia.org/wiki/Project) or [business process](https://en.wikipedia.org/wiki/Business_process). RACI is an [acronym](https://en.wikipedia.org/wiki/Acronym) derived from the four key responsibilities most typically used: **responsible, accountable, consulted, and informed**. It is used for clarifying and defining roles and responsibilities in cross-functional or departmental projects and processes
 
-<https://en.wikipedia.org/wiki/Responsibility_assignment_matrix>
+https://en.wikipedia.org/wiki/Responsibility_assignment_matrix
 
 ## Projects
 
@@ -205,8 +205,8 @@ A responsibility assignment matrix (RAM), also known as RACI matrix or linear re
 
 ## Questions
 
-- <https://www.toptal.com/project-managers/program-manager/interview-questions>
-- <https://www.toptal.com/project-managers/project-management-consultant/interview-questions>
-- <https://www.toptal.com/project-managers/scrum-master/interview-questions>
-- <https://blog.trello.com/50-project-management-terms-you-should-know>
-- <https://blog.trello.com/most-common-project-blockers>
+- https://www.toptal.com/project-managers/program-manager/interview-questions
+- https://www.toptal.com/project-managers/project-management-consultant/interview-questions
+- https://www.toptal.com/project-managers/scrum-master/interview-questions
+- https://blog.trello.com/50-project-management-terms-you-should-know
+- https://blog.trello.com/most-common-project-blockers

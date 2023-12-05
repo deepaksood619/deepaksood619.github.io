@@ -325,6 +325,6 @@ searches for the last possible location to insert an element into an ordered ran
 
 ## References
 
-<https://www.cppreference.com/Cpp_STL_ReferenceManual.pdf>
+https://www.cppreference.com/Cpp_STL_ReferenceManual.pdf
 
-<https://www.youtube.com/watch?v=bFSnXNIsK4A>
+https://www.youtube.com/watch?v=bFSnXNIsK4A

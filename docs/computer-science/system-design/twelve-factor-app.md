@@ -25,4 +25,4 @@ These best practices are designed to enable applications to be built with portab
 | XII    | **Admin Processes**     | Any needed admin tasks should be kept in source control and packaged with the application.                          |
 References
 
-<https://12factor.net>
+https://12factor.net

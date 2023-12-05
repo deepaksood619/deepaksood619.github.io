@@ -231,7 +231,7 @@ inter.broker.listener.name=INTERNAL
 
 ## Exploring listeners with Docker
 
-Take a look at <https://github.com/rmoff/kafka-listeners>. This includes a docker-compose to bring up a Zookeeper instance along with Kafka broker configured with several listeners.
+Take a look at https://github.com/rmoff/kafka-listeners. This includes a docker-compose to bring up a Zookeeper instance along with Kafka broker configured with several listeners.
 
 - Listener BOB (port 29092) for internal traffic on the Docker network
 
@@ -266,4 +266,4 @@ broker 0 at never-gonna-give-you-up:29094
 
 ## References
 
-<https://rmoff.net/2018/08/02/kafka-listeners-explained>
+https://rmoff.net/2018/08/02/kafka-listeners-explained

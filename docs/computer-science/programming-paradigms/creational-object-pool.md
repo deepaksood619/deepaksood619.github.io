@@ -14,4 +14,4 @@ It is desirable to keep all Reusable objects that are not currently in use in th
 The Object Pool lets others "check out" objects from its pool, when those objects are no longer needed by their processes, they are returned to the pool in order to be reused.
 However, we don't want a process to have to wait for a particular object to be released, so the Object Pool also instantiates new objects as they are required, but must also implement a facility to clean up unused objects periodically.
 
-<https://sourcemaking.com/design_patterns/object_pool>
+https://sourcemaking.com/design_patterns/object_pool

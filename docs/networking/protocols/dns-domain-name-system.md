@@ -1,6 +1,6 @@
 # DNS Domain Name System
 
-<https://dnschecker.org>
+https://dnschecker.org
 
 DNS stands for domain name system. It is an application layer protocol used to provide a human-friendly naming mechanism for internet resources. It is what ties a domain name to an IP address and allows you to access sites by name in your browser.
 
@@ -18,7 +18,7 @@ On the other side of the DNS system are resolvers. Every device that connects to
 
 Cloudfare DNS = 1.1.1.1
 
-<https://blog.cloudflare.com/announcing-1111>
+https://blog.cloudflare.com/announcing-1111
 
 ![image](../../media/DNS-Domain-Name-System-image1.jpg)
 
@@ -34,7 +34,7 @@ The root nameserver reads the top-level domain (the end of the request), in this
 
 The GTLD nameserver will read the next part of your request, reading from right to left (in this case the 'google' of [www.google.com](http://www.google.com)) and will send back a message with the authoritative nameserver to contact. An authoritative nameserver is a nameserver that is responsible for the domain (and is the primary source of information).
 
-<https://www.freecodecamp.org/news/what-is-dns-anyway>
+https://www.freecodecamp.org/news/what-is-dns-anyway
 
 ## Fully Qualified Domain Name
 
@@ -98,7 +98,7 @@ Setup custom email for your domain Ex: @ => ASPMX.L.GOOGLE.COM. 1
 
 A **Start of Authority record** (abbreviated as **SOA record**) is a type of [resource record](https://en.wikipedia.org/wiki/Resource_record) in the [Domain Name System](https://en.wikipedia.org/wiki/Domain_Name_System)(DNS) containing administrative information about the zone, especially regarding [zone transfers](https://en.wikipedia.org/wiki/DNS_zone_transfer). The SOA record format is specified in [RFC 1035](https://tools.ietf.org/html/rfc1035)
 
-<https://en.wikipedia.org/wiki/SOA_record>
+https://en.wikipedia.org/wiki/SOA_record
 
 ### SRV
 
@@ -117,7 +117,7 @@ A **Service record** (**SRV record**) is a specification of data in the [Domain 
 | SRV                            | Location of service         | host -t srv server1.cyberciti.biz   |
 | TXT                            | Descriptive text            | host -t txt nixcraft.com            |
 
-<https://dev.to/chrisachard/dns-record-crash-course-for-web-developers-35hn>
+https://dev.to/chrisachard/dns-record-crash-course-for-web-developers-35hn
 
 ## Dissecting a domain name (URL - Uniform Resource Locator)
 
@@ -147,7 +147,7 @@ Punycode is a representation of [Unicode](https://en.wikipedia.org/wiki/Unicode)
 
 While the [Domain Name System](https://en.wikipedia.org/wiki/Domain_Name_System)(DNS) technically supports arbitrary sequences of octets in domain name labels, the DNS standards recommend the use of the LDH subset of ASCII conventionally used for host names, and require that string comparisons between DNS domain names should be case-insensitive. The Punycode syntax is a method of encoding strings containing Unicode characters, such as [internationalized domain names](https://en.wikipedia.org/wiki/Internationalized_domain_name)(IDNA), into the LDH subset of ASCII favored by DNS. It is specified in [IETF](https://en.wikipedia.org/wiki/IETF)[Request for Comments](https://en.wikipedia.org/wiki/Request_for_Comments) 3492.
 
-<https://en.wikipedia.org/wiki/Punycode>
+https://en.wikipedia.org/wiki/Punycode
 
 ## mDNS (multicast DNS)
 
@@ -157,7 +157,7 @@ The mDNS protocol is published as [RFC](https://en.wikipedia.org/wiki/Request_fo
 
 mDNS can work in conjunction with [DNS Service Discovery](https://en.wikipedia.org/wiki/DNS_Service_Discovery)(DNS-SD), a companion zero-configuration technique specified separately in [RFC 6763](https://tools.ietf.org/html/rfc6763).
 
-<https://en.wikipedia.org/wiki/Multicast_DNS>
+https://en.wikipedia.org/wiki/Multicast_DNS
 
 ## What is DNS encryption?
 
@@ -169,7 +169,7 @@ Cloudflare DNS, available at 1.1.1.1, is a free public DNS service run by the CD
 
 ## DoT (DNS over TLS) and DoH (DNS over HTTPS)
 
-<https://blog.cloudflare.com/dns-encryption-explained>
+https://blog.cloudflare.com/dns-encryption-explained
 
 ## Which services can use SNI?
 
@@ -179,7 +179,7 @@ SNI is an extension to TLS that provides support for multiple hostnames on a sin
 
 The TLS extension SNI works by requiring the client to transmit the hostname of the service it wishes to securely communicate with before the encryption is established. An updated version of SNI called ESNI allows this hostname to be encrypted, which protects privacy and helps to avoid censorship.
 
-<https://www.toptal.com/web/encrypted-safe-with-esni-doh-dot>
+https://www.toptal.com/web/encrypted-safe-with-esni-doh-dot
 
 ## Global Traffic Management
 
@@ -190,7 +190,7 @@ The TLS extension SNI works by requiring the client to transmit the hostname of 
 
 ![image](../../media/DNS-Domain-Name-System-image7.jpg)
 
-<https://aws.amazon.com/blogs/aws/latency-based-multi-region-routing-now-available-for-aws>
+https://aws.amazon.com/blogs/aws/latency-based-multi-region-routing-now-available-for-aws
 
 [AWS re:Invent 2017: DNS Demystified: Global Traffic Management with Amazon Route 53 (NET302)](https://www.youtube.com/watch?v=PVBC1gb78r8)
 

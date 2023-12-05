@@ -197,4 +197,4 @@ To create a transition, you overwrite a property in a class (or psuedo class), a
 
 Remember to change your transition-timing-function so your animation looks more real!
 
-<https://zellwk.com/blog/css-transitions>
+https://zellwk.com/blog/css-transitions

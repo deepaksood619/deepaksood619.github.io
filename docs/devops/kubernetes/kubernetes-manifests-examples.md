@@ -264,7 +264,7 @@ spec:
         restartPolicy: Always
 ```
 
-<https://kubernetes.io/docs/tasks/access-application-cluster/communicate-containers-same-pod-shared-volume/>
+https://kubernetes.io/docs/tasks/access-application-cluster/communicate-containers-same-pod-shared-volume/
 
 ### PVC
 

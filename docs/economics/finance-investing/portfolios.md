@@ -32,9 +32,9 @@
 
 ## Modern Portfolio Theory
 
-<https://www.investopedia.com/terms/m/modernportfoliotheory.asp>
+https://www.investopedia.com/terms/m/modernportfoliotheory.asp
 
-<https://en.wikipedia.org/wiki/Modern_portfolio_theory>
+https://en.wikipedia.org/wiki/Modern_portfolio_theory
 
 ## Permanent Portfolio
 
@@ -91,7 +91,7 @@ How to choose a financial product?
 
 - Freefincal Basics of Porfolio management
 
-<https://freefincal.com/can-i-use-these-two-index-funds-for-retirement-instead-of-nifty-nifty-next-50>
+https://freefincal.com/can-i-use-these-two-index-funds-for-retirement-instead-of-nifty-nifty-next-50
 
 - Nifty next 50 (Nifty Blend 40:60 / 30:70) Mid cap - S&P 400 Mid Cap and maybe SENSEX also (Nifty50/NiftyNext50 - 70:30)
   - Nifty 100 equal weight (better returns, low risk)
@@ -166,9 +166,9 @@ The balance 40% of the amount, which is Rs.200,000/- can be utilized for active 
 - Build wealth more than the insurance
 - Don't buy single pay policy
 
-<https://freefincal.com/re-assemble-step-3-buy-term-life-insurance>
+https://freefincal.com/re-assemble-step-3-buy-term-life-insurance
 
-- <https://freefincal.com/what-you-need-to-know-before-buying-term-insurance>
+- https://freefincal.com/what-you-need-to-know-before-buying-term-insurance
 - PNB met Life
   - Sum insured without tax detection
   - HLV (Human Life Value) - 9 crore
@@ -189,7 +189,7 @@ The balance 40% of the amount, which is Rs.200,000/- can be utilized for active 
 
 2. Health Insurance - ICICI Lombard Family Floater: Rs 3 lakh
 
-<https://joinditto.in>
+https://joinditto.in
 
 ## Portfolios
 

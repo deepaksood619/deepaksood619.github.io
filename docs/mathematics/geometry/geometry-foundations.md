@@ -46,4 +46,4 @@ public double **distanceTo**(Point2D that) {
 
 ### Hyperbolic functions
 
-<https://betterexplained.com/articles/hyperbolic-functions>
+https://betterexplained.com/articles/hyperbolic-functions

@@ -57,7 +57,7 @@ I would recognize you in total darkness, were you mute and I deaf. I would recog
 5. **Money:** What you do with the money youhave.
 6. **Play:** How well you're able to entertain yourself.
 
-<https://dariusforoux.com/six-spokes-theory>
+https://dariusforoux.com/six-spokes-theory
 
 ### Date nights (Questions to wife) - Blinkist - Eight Dates by John Gottman
 
@@ -164,7 +164,7 @@ Usually, when you're upset you tell them that moment. That gets naggy 321 times 
 
 - Always make the first move
 - In marriages, there are divergent expectations. The woman expects the man to change. The man expects the woman to never change.
-- Early concepts of intimacy: Young humans use saliva sharing to infer close relationships - <https://www.science.org/doi/10.1126/science.abh1054>
+- Early concepts of intimacy: Young humans use saliva sharing to infer close relationships - https://www.science.org/doi/10.1126/science.abh1054
 
 ## Party / Host / Hosting / Ceremony / Anchor / Commentator
 
@@ -175,11 +175,11 @@ MC is short for **Master of Ceremonies** and may often be written as **emcee**. 
 - Setting the tone
 - Setting the place
 
-<https://pdfslide.net/documents/emcee-academic-debate-script.html>
+https://pdfslide.net/documents/emcee-academic-debate-script.html
 
-<https://www.ehow.com/info_8146690_mcs-duties-birthday-party.html>
+https://www.ehow.com/info_8146690_mcs-duties-birthday-party.html
 
-<https://www.ehow.com/info_8201232_duties-emcee.html>
+https://www.ehow.com/info_8201232_duties-emcee.html
 
 1. **Arrive to the party venue well before the guests** so you can become familiar with the sound system and test the microphone. Showing up early will also allow you to see how the party site is set up, so you know where to make eye contact to keep the audience engaged.
 
@@ -211,7 +211,7 @@ You have a boundary issue if...
 - you tell people how much you hate drama but seem to always be stuck in the middle of it.
 - you spend a lot of time defending yourself for things you believe aren't your fault
 
-<https://deepstash.com/article/3412/the-guide-to-strong-boundaries>
+https://deepstash.com/article/3412/the-guide-to-strong-boundaries
 
 ## The Courage to be Happy by Ichiro Kishimi
 
@@ -247,7 +247,7 @@ Being honest may not get you a lot of friends but it'll always get you the right
 
 Cognitive trust can be earned by Competence, Intent and Integrity.
 
-<https://ideas.ted.com/there-are-three-sides-to-every-argument>
+https://ideas.ted.com/there-are-three-sides-to-every-argument
 
 ## Types of people
 
@@ -310,7 +310,7 @@ The TM technique involves the use of a silently-used sound called a mantra, and 
 
 High-quality studies that demonstrate positive health outcomes that can be attributed to the specific practice of TM as compared to other forms of stress reduction do not exist.
 
-<https://en.wikipedia.org/wiki/Transcendental_Meditation>
+https://en.wikipedia.org/wiki/Transcendental_Meditation
 
 ## Healthy social interactions
 
@@ -326,7 +326,7 @@ The**implicit-association test(IAT)** is a [measure](https://en.wikipedia.org/wi
 
 The IAT was introduced in the scientific literature in 1998 by [Anthony Greenwald](https://en.wikipedia.org/wiki/Anthony_Greenwald), Debbie McGhee, and Jordan Schwartz.The IAT is now widely used in social psychology research and, to some extent, in [clinical](https://en.wikipedia.org/wiki/Clinical_psychology), [cognitive](https://en.wikipedia.org/wiki/Cognitive_psychology), and [developmental psychology](https://en.wikipedia.org/wiki/Developmental_psychology) research. The IAT is the subject of much controversy regarding validity, reliability, and whether test results are an accurate representation of [implicit bias](https://en.wikipedia.org/wiki/Implicit_bias).
 
-<https://en.wikipedia.org/wiki/Implicit-association_test>
+https://en.wikipedia.org/wiki/Implicit-association_test
 
 ## Ethnography - Study of people and culture
 
@@ -348,7 +348,7 @@ Developmental psychology has shown that kids come into the world, already knowin
 
 ![image](../media/Life-Relationship-People-image5.jpg)
 
-<https://www.youtube.com/watch?v=8SOQduoLgRw>
+https://www.youtube.com/watch?v=8SOQduoLgRw
 
 ## Blinkist - Didn't see it coming by Carey Nieuwhof
 
@@ -366,7 +366,7 @@ Overcoming the 7 greatest challenges that no one expects and everyone experience
     - Humility
 6. Burnout
 
-    <https://www.lennysnewsletter.com/p/how-to-know-when-to-stop>
+    https://www.lennysnewsletter.com/p/how-to-know-when-to-stop
 
     ![image](../media/Life-Relationship-People-image6.jpg)
 
@@ -434,9 +434,9 @@ Overcoming the 7 greatest challenges that no one expects and everyone experience
 9. Live in the moment
 10. Follow your ikigai
 
-<https://medium.com/thrive-global/ikigai-the-japanese-secret-to-a-long-and-happy-life-might-just-help-you-live-a-more-fulfilling-9871d01992b7>
+https://medium.com/thrive-global/ikigai-the-japanese-secret-to-a-long-and-happy-life-might-just-help-you-live-a-more-fulfilling-9871d01992b7
 
-<https://www.sloww.co/ikigai-book>
+https://www.sloww.co/ikigai-book
 
 [IKIGAI](https://www.linkedin.com/posts/thewokesalaryman_the-woke-salaryman-ikigai-activity-7012618347548745728--XQE/)
 
@@ -457,7 +457,7 @@ Overcoming the 7 greatest challenges that no one expects and everyone experience
 
 People have positive attitude towards ageing live 7.2 years longer than people who don't
 
-<https://www.youtube.com/watch?v=o7w5r5PfBKo>
+https://www.youtube.com/watch?v=o7w5r5PfBKo
 
 ## Weak link vs Strong link
 
@@ -467,7 +467,7 @@ People have positive attitude towards ageing live 7.2 years longer than people w
 - Investment group - strong link
 - Donation to Schools should be weak link
 
-<https://www.youtube.com/watch?v=UAqZMgBtECQ>
+https://www.youtube.com/watch?v=UAqZMgBtECQ
 
 ## 7 reasons smart, hardworking people don't become successful
 
@@ -573,7 +573,7 @@ Lasting Happiness in a changing world
 
 Ubuntu is an ancient African word meaning '**humanity to others**'. It is often described as reminding us that 'I am what I am because of who we all are'.
 
-<https://en.wikipedia.org/wiki/Ubuntu_philosophy>
+https://en.wikipedia.org/wiki/Ubuntu_philosophy
 
 [Michael Burry: 5 Life Lessons That Made Him Rich (UCLA Speech)](https://www.youtube.com/watch?v=b53QBOu_Tos)
 
@@ -589,7 +589,7 @@ Ubuntu is an ancient African word meaning '**humanity to others**'. It is often 
 
 Parasocial interaction(PSI) refers to a kind of [psychological relationship](https://en.wikipedia.org/wiki/Social_relation) experienced by an audience in their mediated encounters with performers in the [mass media](https://en.wikipedia.org/wiki/Mass_media), particularly on [television](https://en.wikipedia.org/wiki/Television) and on [online platforms](https://en.wikipedia.org/wiki/Internet#Social_impact).Viewers or listeners come to consider media personalities as friends, despite having no or limited interactions with them. PSI is described as an [illusionary](https://en.wikipedia.org/wiki/Illusion)[experience](https://en.wikipedia.org/wiki/Experience), such that media audiences interact with [personas](https://en.wikipedia.org/wiki/Persona)(e.g., [talk show](https://en.wikipedia.org/wiki/Talk_show) hosts, [celebrities](https://en.wikipedia.org/wiki/Celebrities), [fictional characters](https://en.wikipedia.org/wiki/Fictional_character), [social media influencers](https://en.wikipedia.org/wiki/Influencer_marketing)) as if they are engaged in a [reciprocal relationship](https://en.wikipedia.org/wiki/Reciprocity_(social_psychology)) with them. The term was coined by Donald Horton and [Richard Wohl](https://en.wikipedia.org/wiki/Richard_Wohl) in 1956.
 
-<https://en.wikipedia.org/wiki/Parasocial_interaction>
+https://en.wikipedia.org/wiki/Parasocial_interaction
 
 ## Classes
 

@@ -23,9 +23,9 @@ GraphQL is typically used in scenarios where related data needs to be queried or
 1. Resource Exhaustion Attacks (DOS) using overly complex queries
 2. N+1 queries
 
-Solution - <https://github.com/facebook/dataloader>
+Solution - https://github.com/facebook/dataloader
 
-<https://xuorig.medium.com/the-graphql-dataloader-pattern-visualized-3064a00f319f>
+https://xuorig.medium.com/the-graphql-dataloader-pattern-visualized-3064a00f319f
 
 ## GraphQL Core Concepts
 
@@ -67,7 +67,7 @@ Tutorial
 - Filtering
 - Pagination
 
-<https://hasura.io/blog/cursor-offset-pagination-with-hasura-graphql>
+https://hasura.io/blog/cursor-offset-pagination-with-hasura-graphql
 
 - Relay
 
@@ -76,7 +76,7 @@ Tutorial
 ```json
 mutation {
   createLink(
-    url: "<https://www.google.com>"
+    url: "https://www.google.com"
 
     description: "Google"
   ) {
@@ -123,52 +123,52 @@ One of the main benefits of GraphQL is that we can query all of our data as part
 
 In both cases, we usemergeSchemasto combine multiple GraphQL schemas together and produce a merged schema that knows how to delegate parts of the query to the relevant subschemas. These subschemas can be either local to the server, or running on a remote server. They can even be services offered by 3rd parties, allowing us to connect to external data and create mashups.
 
-<https://www.apollographql.com/docs/graphql-tools/schema-stitching>
+https://www.apollographql.com/docs/graphql-tools/schema-stitching
 
 ## Apollo Federation
 
 Apollo Federation is an architecture for composing multiple GraphQL services into a single graph that addresses this need. Unlike other approaches such as schema stitching, it is based on a declarative composition programming model that allowsproper separation of concerns. This design allows teams to implement an enterprise-scale shared data graph as a set of loosely coupled, separately maintained GraphQL services.
 
-<https://principledgraphql.com/integrity#1-one-graph>
+https://principledgraphql.com/integrity#1-one-graph
 
-<https://www.apollographql.com/docs/apollo-server/federation/introduction>
+https://www.apollographql.com/docs/apollo-server/federation/introduction
 
-<https://blog.apollographql.com/apollo-federation-f260cf525d21>
+https://blog.apollographql.com/apollo-federation-f260cf525d21
 
-<https://github.com/apollographql/federation-demo>
+https://github.com/apollographql/federation-demo
 
 ## Tools
 
-### Hasura - <https://hasura.io>
+### Hasura - https://hasura.io
 
-<https://github.com/hasura/graphql-engine>
+https://github.com/hasura/graphql-engine
 
-Quiver - <https://medium.com/@syrusakbary/quiver-graphql-on-steroids-13612ea1ea77>
+Quiver - https://medium.com/@syrusakbary/quiver-graphql-on-steroids-13612ea1ea77
 
-### GraphQL Voyager - <https://github.com/APIs-guru/graphql-voyager>
+### GraphQL Voyager - https://github.com/APIs-guru/graphql-voyager
 
 ### GraphQL Mesh
 
-<https://the-guild.dev/blog/graphql-mesh>
+https://the-guild.dev/blog/graphql-mesh
 
-<https://www.youtube.com/watch?v=T0zpPO7Ub_s&ab_channel=GOTOConferences>
+https://www.youtube.com/watch?v=T0zpPO7Ub_s&ab_channel=GOTOConferences
 
 ### Monitoring GraphQL APIs
 
-<https://www.moesif.com/blog/technical/monitoring/How-to-Best-Monitor-GraphQL-APIs>
+https://www.moesif.com/blog/technical/monitoring/How-to-Best-Monitor-GraphQL-APIs
 
-<https://xuorig.medium.com/why-graphql-performance-monitoring-is-hard-41381bc7c44d>
+https://xuorig.medium.com/why-graphql-performance-monitoring-is-hard-41381bc7c44d
 
 ### Persisted Queries
 
-<https://www.apollographql.com/blog/apollo-client/persisted-graphql-queries>
+https://www.apollographql.com/blog/apollo-client/persisted-graphql-queries
 
 ## References
 
-- <https://medium.freecodecamp.org/rest-apis-are-rest-in-peace-apis-long-live-graphql-d412e559d8e4>
-- <https://www.quora.com/Is-GraphQL-a-REST-killer>
-- <http://docs.graphene-python.org/projects/django/en/latest>
-- <https://www.howtographql.com>
-- <https://building.buildkite.com/tutorial-getting-started-with-graphql-queries-and-mutations-11211dfe5d64>
-- <https://www.toptal.com/graphql/creating-your-first-graphql-api>
+- https://medium.freecodecamp.org/rest-apis-are-rest-in-peace-apis-long-live-graphql-d412e559d8e4
+- https://www.quora.com/Is-GraphQL-a-REST-killer
+- http://docs.graphene-python.org/projects/django/en/latest
+- https://www.howtographql.com
+- https://building.buildkite.com/tutorial-getting-started-with-graphql-queries-and-mutations-11211dfe5d64
+- https://www.toptal.com/graphql/creating-your-first-graphql-api
 - [GraphQL Course for Beginners - YouTube](https://www.youtube.com/watch?v=5199E50O7SI)

@@ -34,9 +34,9 @@ The best argument against democracy is a five-minute conversation with the avera
 
 Some [Marxist schools of thought](https://en.wikipedia.org/wiki/Marxist_schools_of_thought) place greater emphasis on certain aspects of [classical Marxism](https://en.wikipedia.org/wiki/Classical_Marxism) while rejecting or modifying other aspects. Some schools have sought to combine Marxian concepts and non-Marxian concepts which has then led to contradictory conclusions.It has been argued that there is a movement toward the recognition of [historical](https://en.wikipedia.org/wiki/Historical_materialism) and [dialectical materialism](https://en.wikipedia.org/wiki/Dialectical_materialism) as the fundamental conceptions of all Marxist schools of thought.This view is rejected by some [post-Marxists](https://en.wikipedia.org/wiki/Post-Marxism) such as [Ernesto Laclau](https://en.wikipedia.org/wiki/Ernesto_Laclau) and [Chantal Mouffe](https://en.wikipedia.org/wiki/Chantal_Mouffe), who claim that history is not only determined by the [mode of production](https://en.wikipedia.org/wiki/Mode_of_production) but also by consciousness and will.
 
-<https://en.wikipedia.org/wiki/Marxism>
+https://en.wikipedia.org/wiki/Marxism
 
-<https://www.e-ir.info/2018/02/25/introducing-marxism-in-international-relations-theory>
+https://www.e-ir.info/2018/02/25/introducing-marxism-in-international-relations-theory
 
 ## ASEAN (Association of Southeast Asian Nations)
 
@@ -53,7 +53,7 @@ Some [Marxist schools of thought](https://en.wikipedia.org/wiki/Marxist_schools_
 
 ![image](../../../media/Politics-image5.jpg)
 
-<https://en.wikipedia.org/wiki/Prime_Minister_of_India>
+https://en.wikipedia.org/wiki/Prime_Minister_of_India
 
 ## Western Culture
 

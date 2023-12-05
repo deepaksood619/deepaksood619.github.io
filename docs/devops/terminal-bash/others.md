@@ -10,9 +10,9 @@ The init system thenmuststart all the necessary daemons, background processes an
 
 Often these processes continue to run in the background after they start, and are calleddaemons.These daemonsmanage many parts of your system, such as logging information, watching for devices you insert or remove, and managing user login.
 
-<https://fedoramagazine.org/what-is-an-init-system>
+https://fedoramagazine.org/what-is-an-init-system
 
-<https://www.digitalocean.com/community/tutorials/how-to-use-systemctl-to-manage-systemd-services-and-units>
+https://www.digitalocean.com/community/tutorials/how-to-use-systemctl-to-manage-systemd-services-and-units
 
 ## systemctl
 
@@ -67,7 +67,7 @@ brew install jq
 jq '.accounts[] | select(.userID == "77925937-d719-4ff6-9125-a9199ab6a9b6")' merkle_2023-04-01_2.json
 ```
 
-<https://stedolan.github.io/jq>
+https://stedolan.github.io/jq
 
 ## fq
 
@@ -79,13 +79,13 @@ jq for binary formats - tool, language and decoders for working with binary and 
 
 socat is a command line based utility that establishes two bidirectional byte streams and transfers data between them. Because the streams can be constructed from a large set of different types of data sinks and sources (see [address types](http://www.dest-unreach.org/socat/doc/socat.html#ADDRESS_TYPES)), and because lots of [address options](http://www.dest-unreach.org/socat/doc/socat.html#ADDRESS_OPTIONS) may be applied to the streams, socat can be used for many different purposes
 
-<http://www.dest-unreach.org/socat/doc/socat.html>
+http://www.dest-unreach.org/socat/doc/socat.html
 
 ## Networking - tshark
 
 Dump and analyze network traffic
 
-<https://www.wireshark.org/docs/man-pages/tshark.html>
+https://www.wireshark.org/docs/man-pages/tshark.html
 
 ## Logrotate
 
@@ -140,7 +140,7 @@ However, because inotify is specific to filesystems, you can receive notificatio
 
 In fact, inotify returns a file descriptor - which means you can use epoll to determine which inotify FD's you should call read on. So the two go hand in hand to some extent.
 
-<http://en.wikipedia.org/wiki/Inotify>
+http://en.wikipedia.org/wiki/Inotify
 
 ## htop
 
@@ -152,7 +152,7 @@ It shows a frequently updated list of the processes running on a computer, norma
 
 ![image](../../media/DevOps-Terminal-Bash-Others-image2.jpg)
 
-<https://peteris.rocks/blog/htop>
+https://peteris.rocks/blog/htop
 
 [How CPU Efficient is your App? - YouTube](https://www.youtube.com/watch?v=BTD5I1BMx2Q)
 
@@ -166,7 +166,7 @@ pip install 'glances [action, browser, cloud, cpuinfo, docker, export, folders, 
 
 glances -w
 
-<https://github.com/nicolargo/glances>
+https://github.com/nicolargo/glances
 
 ## Interactive Filter
 
@@ -180,4 +180,4 @@ Plus, you can make your interactive filter available inside your programmable te
 
 ## Others
 
-<https://github.com/google/zx>
+https://github.com/google/zx

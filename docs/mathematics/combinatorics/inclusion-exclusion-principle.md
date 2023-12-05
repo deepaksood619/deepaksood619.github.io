@@ -16,4 +16,4 @@ The principle is more clearly seen in the case of three sets, which for the sets
 
 ## References
 
-- <https://en.wikipedia.org/wiki/Inclusion%E2%80%93exclusion_principle>
+- https://en.wikipedia.org/wiki/Inclusion%E2%80%93exclusion_principle

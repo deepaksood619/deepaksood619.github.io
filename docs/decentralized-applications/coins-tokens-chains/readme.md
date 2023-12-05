@@ -41,7 +41,7 @@
 - Solana (SOL) - [What is Solana? SOL Explained with Animations - YouTube](https://www.youtube.com/watch?v=1jzROE6EhxM)
   - Scalable - 50,000 TPS
   - Low transaction fees
-  - <https://solana.com>
+  - https://solana.com
   - [The Solana Reading List - by mert - Rotating Words](https://www.mertimus.com/p/the-solana-reading-list?)
   - [Visa Crypto Thought Leadership – A deep dive on Solana | Visa](https://usa.visa.com/solutions/crypto/deep-dive-on-solana.html)
 - Polkadot

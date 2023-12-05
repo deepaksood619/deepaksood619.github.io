@@ -18,4 +18,4 @@
 
 ## References
 
-<https://www.udemy.com/python-for-data-structures-algorithms-and-interviews>
+https://www.udemy.com/python-for-data-structures-algorithms-and-interviews

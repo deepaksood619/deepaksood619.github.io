@@ -14,7 +14,7 @@ Typically, you need to extract, transform, and load data into your RDBMS before 
 
 ![image](../../media/sql-Intro-image1.jpg)
 
-<https://jvns.ca/blog/2019/10/03/sql-queries-don-t-start-with-select>
+https://jvns.ca/blog/2019/10/03/sql-queries-don-t-start-with-select
 
 ## How to describe tables
 
@@ -39,16 +39,16 @@ SQL's shortcomings can be grouped into these categories:
 
 ### SQL Naming Conventions
 
-<https://launchbylunch.com/posts/2014/Feb/16/sql-naming-conventions>
+https://launchbylunch.com/posts/2014/Feb/16/sql-naming-conventions
 
 ## References
 
 ### Games
 
-- <https://mystery.knightlab.com>
-- <https://selectstarsql.com>
-- <https://littlekendra.com/course-category/sqlchallenges>
-- <https://github.com/WebDevSimplified/Learn-SQL>
+- https://mystery.knightlab.com
+- https://selectstarsql.com
+- https://littlekendra.com/course-category/sqlchallenges
+- https://github.com/WebDevSimplified/Learn-SQL
 
 ### Others
 
@@ -79,10 +79,10 @@ SQL's shortcomings can be grouped into these categories:
   - [XML](https://www.helenanderson.co.nz/sql-concepts-from-a-to-z/#chapter-24)
   - [Year](https://www.helenanderson.co.nz/sql-concepts-from-a-to-z/#chapter-25)
   - [Zero](https://www.helenanderson.co.nz/sql-concepts-from-a-to-z/#chapter-26)
-- <https://dev.to/helenanders26/sql-201-10-ways-to-tweak-slow-running-queries-3pkb>
-- <https://sql-steps.wizardzines.com>
-- <https://hakibenita.com/sql-dos-and-donts>
-- <http://bytepawn.com/how-i-write-sql-code.html#how-i-write-sql-code>
-- <https://www.codecademy.com/courses/learn-sql/lessons/manipulation/exercises/sql>
-- <https://www.codecademy.com/articles/what-is-rdbms-sql>
-- <https://www.codecademy.com/articles/sql-commands?r=master>
+- https://dev.to/helenanders26/sql-201-10-ways-to-tweak-slow-running-queries-3pkb
+- https://sql-steps.wizardzines.com
+- https://hakibenita.com/sql-dos-and-donts
+- http://bytepawn.com/how-i-write-sql-code.html#how-i-write-sql-code
+- https://www.codecademy.com/courses/learn-sql/lessons/manipulation/exercises/sql
+- https://www.codecademy.com/articles/what-is-rdbms-sql
+- https://www.codecademy.com/articles/sql-commands?r=master

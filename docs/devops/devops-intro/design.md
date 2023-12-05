@@ -46,4 +46,4 @@ This methodology is conceptually similar to physical infrastructure.
 
 ## References
 
-<https://www.toptal.com/devops/interview-questions>
+https://www.toptal.com/devops/interview-questions

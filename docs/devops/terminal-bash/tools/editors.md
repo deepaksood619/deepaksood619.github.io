@@ -211,7 +211,7 @@ e.g.:vimgrep /foo/ **/*
 - Ctrl+wj- move cursor to the window below (horizontal split)
 - Ctrl+wk- move cursor to the window above (horizontal split)
 
-<https://www.freecodecamp.org/news/learn-vim-beginners-tutorial>
+https://www.freecodecamp.org/news/learn-vim-beginners-tutorial
 
 ## Nano
 

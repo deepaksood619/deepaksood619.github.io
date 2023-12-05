@@ -30,7 +30,7 @@ Just the idea that you can enter in a query and then you could turn that query i
 
 ## References
 
-<https://en.wikipedia.org/wiki/Tf%E2%80%93idf>
+https://en.wikipedia.org/wiki/Tf%E2%80%93idf
 
 ## Okapi BM25
 
@@ -104,4 +104,4 @@ Many neural search-powered applications do not have a search box:
 
 Neural search creates a new way to comprehend the world. It is creating new doors that lead to new businesses.
 
-<https://github.com/jina-ai/jina/blob/master/.github/2.0/neural-search>
+https://github.com/jina-ai/jina/blob/master/.github/2.0/neural-search

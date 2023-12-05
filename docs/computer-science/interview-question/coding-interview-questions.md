@@ -6,7 +6,7 @@ Platforms
 
 [https://codeshare.io](https://codeshare.io/)
 
-<https://foobar.withgoogle.com>- print - given `n*m` print incrementally in clockwise direction
+https://foobar.withgoogle.com- print - given `n*m` print incrementally in clockwise direction
 
 ```bash
 1 2 3
@@ -75,31 +75,31 @@ len(list(permutations('abcde', 5)))
 
 ## Others
 
-- <https://www.geeksforgeeks.org/split-the-given-array-into-k-sub-arrays-such-that-maximum-sum-of-all-sub-arrays-is-minimum>
-- <https://practice.geeksforgeeks.org/problems/lru-cache/1>- **Interview (medium difficulty) - <https://practice.geeksforgeeks.org/problems/largest-even-number3821/1#_=_>**
+- https://www.geeksforgeeks.org/split-the-given-array-into-k-sub-arrays-such-that-maximum-sum-of-all-sub-arrays-is-minimum
+- https://practice.geeksforgeeks.org/problems/lru-cache/1>- **Interview (medium difficulty) - <https://practice.geeksforgeeks.org/problems/largest-even-number3821/1#_=_**
 - **Easy (5-10 mins max) - [https://practice.geeksforgeeks.org/problems/leaders-in-an-array-1587115620/1#](https://practice.geeksforgeeks.org/problems/leaders-in-an-array-1587115620/1)**
-- **Easy (5-10 mins max) - <https://practice.geeksforgeeks.org/problems/non-repeating-element3958/1>**
+- **Easy (5-10 mins max) - https://practice.geeksforgeeks.org/problems/non-repeating-element3958/1**
 - [**https://practice.geeksforgeeks.org/problems/trapping-rain-water-1587115621/1**](https://practice.geeksforgeeks.org/problems/trapping-rain-water-1587115621/1)
-- [**https://practice.geeksforgeeks.org/problems/sort-an-array-of-0s-1s-and-2s4231/1**](https://practice.geeksforgeeks.org/problems/sort-an-array-of-0s-1s-and-2s4231/1)- <https://www.geeksforgeeks.org/find-a-tour-that-visits-all-stations>
-- <https://www.geeksforgeeks.org/find-local-minima-array>
-- <https://www.geeksforgeeks.org/equilibrium-index-of-an-array>
+- [**https://practice.geeksforgeeks.org/problems/sort-an-array-of-0s-1s-and-2s4231/1**](https://practice.geeksforgeeks.org/problems/sort-an-array-of-0s-1s-and-2s4231/1)- https://www.geeksforgeeks.org/find-a-tour-that-visits-all-stations
+- https://www.geeksforgeeks.org/find-local-minima-array
+- https://www.geeksforgeeks.org/equilibrium-index-of-an-array
 - Given k sorted arrays of size n each, merge them and print the sorted output.
-- <https://www.hackerrank.com/challenges/qheap1/problem>
+- https://www.hackerrank.com/challenges/qheap1/problem
 - [Circular Array Rotation](https://www.hackerrank.com/challenges/circular-array-rotation/problem)
-- <https://practice.geeksforgeeks.org/problems/sort-in-specific-order2422/1>
-- <https://www.geeksforgeeks.org/print-nodes-at-k-distance-from-root>
-- <https://www.geeksforgeeks.org/tree-isomorphism-problem>
-- <https://practice.geeksforgeeks.org/problems/determine-if-two-trees-are-identical/1>
-- <https://practice.geeksforgeeks.org/problems/check-for-balanced-tree/1>- **Medium (O(n)/O(nlogn) - 10 mins, corner cases) - <https://www.hackerrank.com/challenges/flatland-space-stations/problem>**
-- **Medium - <https://www.hackerrank.com/challenges/bigger-is-greater/problem>**
-- **Medium - <https://www.hackerrank.com/challenges/beautiful-triplets/problem>**
-- **Medium - <https://www.hackerrank.com/challenges/kaprekar-numbers/problem>** - <https://practice.geeksforgeeks.org/problems/coin-change2448/1>
+- https://practice.geeksforgeeks.org/problems/sort-in-specific-order2422/1
+- https://www.geeksforgeeks.org/print-nodes-at-k-distance-from-root
+- https://www.geeksforgeeks.org/tree-isomorphism-problem
+- https://practice.geeksforgeeks.org/problems/determine-if-two-trees-are-identical/1
+- https://practice.geeksforgeeks.org/problems/check-for-balanced-tree/1>- **Medium (O(n)/O(nlogn) - 10 mins, corner cases) - <https://www.hackerrank.com/challenges/flatland-space-stations/problem**
+- **Medium - https://www.hackerrank.com/challenges/bigger-is-greater/problem**
+- **Medium - https://www.hackerrank.com/challenges/beautiful-triplets/problem**
+- **Medium - https://www.hackerrank.com/challenges/kaprekar-numbers/problem>** - <https://practice.geeksforgeeks.org/problems/coin-change2448/1
 - Medium - [Climbing the Leaderboard | HackerRank](https://www.hackerrank.com/challenges/climbing-the-leaderboard/problem?isFullScreen=true)
 
 ## Sources
 
-- <https://www.geeksforgeeks.org/must-coding-questions-company-wise>
-- <https://www.geeksforgeeks.org/practice-for-cracking-any-coding-interview>
+- https://www.geeksforgeeks.org/must-coding-questions-company-wise
+- https://www.geeksforgeeks.org/practice-for-cracking-any-coding-interview
 - [hackerrank-solutions: A collection of solutions to competitive programming exercises on HackerRank.](https://github.com/kilian-hu/hackerrank-solutions/)
 
 ## Interview
@@ -217,9 +217,9 @@ This solution results in a complexity of O(log k).
 - Find a sum in a subset
 - Python | Get all substrings of given string
 
-- <https://www.geeksforgeeks.org/python-get-all-substrings-of-given-string>
+- https://www.geeksforgeeks.org/python-get-all-substrings-of-given-string
 
-- Egg drop - <https://www.geeksforgeeks.org/egg-dropping-puzzle-dp-11>
+- Egg drop - https://www.geeksforgeeks.org/egg-dropping-puzzle-dp-11
 
 - Find number of duplets in a positive integer array without using space in O(n) time complexity (save the information in the same array using index)
 
@@ -237,7 +237,7 @@ This solution results in a complexity of O(log k).
 - Implementing stack using two queue
 - Find the subsequence with largest sum of elements in an array
 
-- <https://stackoverflow.com/questions/3733251/find-the-subsequence-with-largest-sum-of-elements-in-an-array>
+- https://stackoverflow.com/questions/3733251/find-the-subsequence-with-largest-sum-of-elements-in-an-array
 
 - Maximum product subarray
 - Balanced parenthesis problem
@@ -303,9 +303,9 @@ assert best_profit_from_stock([-1]) == 0
 assert best_profit_from_stock([-1,-2]) == 0
 ```
 
-<https://www.interviewcake.com/question/java/stock-price>
+https://www.interviewcake.com/question/java/stock-price
 
-<https://www.freecodecamp.org/news/10-common-coding-interview-problems-solved>
+https://www.freecodecamp.org/news/10-common-coding-interview-problems-solved
 
 ## Questions - OOPs
 

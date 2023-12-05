@@ -17,6 +17,6 @@ Pandas is an open-source, BSD-licensed Python library providing high-performance
 
 ## Reference
 
-<https://www.dataquest.io/blog/pandas-concatenation-tutorial>
+https://www.dataquest.io/blog/pandas-concatenation-tutorial
 
-<https://pandas.pydata.org/docs/getting_started/10min.html>
+https://pandas.pydata.org/docs/getting_started/10min.html

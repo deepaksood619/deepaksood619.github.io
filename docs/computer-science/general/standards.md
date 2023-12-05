@@ -13,7 +13,7 @@ Common to all binary-to-text encoding schemes, Base64 is designed to carry data 
 
 The difference between Base64 and hex is really just how bytes are represented. Hex is another way of saying "Base16". **Hex will take two characters for each byte - Base64 takes 4 characters for every 3 bytes, so it's more efficient than hex.** Assuming you're using UTF-8 to encode the XML document, a 100K file will take 200K to encode in hex, or 133K in Base64.
 
-<https://en.wikipedia.org/wiki/Base64>
+https://en.wikipedia.org/wiki/Base64
 
 ## Base64 vs UTF-8/UTF-16
 
@@ -28,7 +28,7 @@ Things to keep in mind:
 - Not every byte sequence represents an Unicode string encoded in UTF-8 or UTF-16.
 - Not every Unicode string represents a byte sequence encoded in Base64.
 
-<https://stackoverflow.com/questions/3866316/whats-the-difference-between-utf8-utf16-and-base64-in-terms-of-encoding>
+https://stackoverflow.com/questions/3866316/whats-the-difference-between-utf8-utf16-and-base64-in-terms-of-encoding
 
 ## Unicode
 
@@ -61,7 +61,7 @@ The following table shows code point values for several characters:
 
 As previously described, characters that are in the range U+10000 to U+10FFFF are called supplementary characters. The set of characters from U+0000 to U+FFFF are sometimes referred to as theBasic Multilingual Plane (BMP).
 
-<https://www.asciitohex.com>
+https://www.asciitohex.com
 
 ## Control Characters
 
@@ -99,4 +99,4 @@ It does not make sense to have a string without knowing what encoding it uses.
 - CDDL Common Development and Distribution License
 - Apache License (APL)
 
-<https://choosealicense.com/appendix>
+https://choosealicense.com/appendix

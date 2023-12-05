@@ -15,13 +15,13 @@ Knowledge acquisition involves complex [cognitive](https://en.wikipedia.org/wiki
 
 **STEM - Science, Technology, Engineering and Mathematics**
 
-<https://en.wikipedia.org/wiki/Knowledge>
+https://en.wikipedia.org/wiki/Knowledge
 
 ## Home Economics
 
 Home economics, domestic science or home science is a field of studythat deals with the relationship between individuals, families, communities, and the environment in which they live.
 
-<https://en.wikipedia.org/wiki/Home_economics>
+https://en.wikipedia.org/wiki/Home_economics
 
 ## UPSC
 

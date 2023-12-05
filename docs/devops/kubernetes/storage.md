@@ -136,7 +136,7 @@ A **VolumeSnapshot** is a request for snapshot of a volume by a user. It is simi
 
 WhileVolumeSnapshotsallow a user to consume abstract storage resources, cluster administrators need to be able to offer a variety ofVolumeSnapshotContentswithout exposing users to the details of how those volume snapshots should be provisioned. For these needs there is theVolumeSnapshotClassresource.
 
-<https://kubernetes.io/docs/concepts/storage/volume-snapshots>
+https://kubernetes.io/docs/concepts/storage/volume-snapshots
 
 ## Storage Classes
 
@@ -146,7 +146,7 @@ Each **StorageClass** contains the fields **provisioner**, **parameters**, and *
 
 The name of a **StorageClass** object is significant, and is how users can request a particular class. Administrators set the name and other parameters of a class when first creating **StorageClass** objects, and the objects cannot be updated once they are created.
 
-<https://kubernetes.io/docs/concepts/storage/storage-classes>
+https://kubernetes.io/docs/concepts/storage/storage-classes
 
 ## Dynamic Volume Provisioning
 
@@ -154,7 +154,7 @@ Dynamic volume provisioning allows storage volumes to be created on-demand. With
 
 ## Share files/folders between containers in a pod
 
-<https://kubernetes.io/docs/tasks/access-application-cluster/communicate-containers-same-pod-shared-volume>
+https://kubernetes.io/docs/tasks/access-application-cluster/communicate-containers-same-pod-shared-volume
 
 ## Local Persistent Volume
 
@@ -162,9 +162,9 @@ A local persistent volume represents a local disk directly-attached to a single 
 
 Kubernetes provides a powerful volume plugin system that enables Kubernetes workloads to use a [wide variety](https://kubernetes.io/docs/concepts/storage/volumes/#types-of-volumes) of block and file storage to persist data. Most of these plugins enable remote storage -- these remote storage systems persist data independent of the Kubernetes node where the data originated. Remote storage usually can not offer the consistent high performance guarantees of local directly-attached storage. With the Local Persistent Volume plugin, Kubernetes workloads can now consume high performance local storage using the same volume APIs that app developers have become accustomed to.
 
-<https://kubernetes.io/blog/2019/04/04/kubernetes-1.14-local-persistent-volumes-ga>
+https://kubernetes.io/blog/2019/04/04/kubernetes-1.14-local-persistent-volumes-ga
 
-<https://kubernetes.io/docs/concepts/storage/volumes/#local>
+https://kubernetes.io/docs/concepts/storage/volumes/#local
 
 ## Volume Types
 
@@ -187,10 +187,10 @@ Besides the volume types we just mentioned, there are many other possible, with 
 
 ## PVC Autoresizer
 
-<https://blog.kintone.io/entry/pvc-autoresizer>
+https://blog.kintone.io/entry/pvc-autoresizer
 
-<https://www.openshift.com/blog/automating-volume-expansion-management-an-operator-based-approach>
+https://www.openshift.com/blog/automating-volume-expansion-management-an-operator-based-approach
 
 ## References
 
-<https://kubernetes.io/docs/concepts/storage/volumes>
+https://kubernetes.io/docs/concepts/storage/volumes

@@ -8,8 +8,8 @@
 - Index order is very VERY important
 - Avoid performing file sorts
 - In a B-Tree the index is sorted first by the leftmost column, then by the next column, and so on
-- <https://dev.mysql.com/doc/refman/5.7/en/table-scan-avoidance.html>
-- <https://dev.mysql.com/doc/refman/5.7/en/where-optimization.html>
+- https://dev.mysql.com/doc/refman/5.7/en/table-scan-avoidance.html
+- https://dev.mysql.com/doc/refman/5.7/en/where-optimization.html
 - use index hints
 
 ## You should never make these mistakes again
@@ -110,9 +110,9 @@ With very few rows in a table, it is common to hit this 50% limit often (ie. if 
 
 There are two modes for MySQL Fulltext searching: natural language mode and Boolean mode. A restriction of natural language mode is " ... words that are present in 50% or more of the rows are considered common and do not match. Full-text searches are natural language searches if no modifier is given." And natural language is the default mode.
 
-<https://stackoverflow.com/questions/1125678/mysql-fulltext-not-working>
+https://stackoverflow.com/questions/1125678/mysql-fulltext-not-working
 
-<https://dev.mysql.com/doc/refman/5.7/en/innodb-index-types.html>
+https://dev.mysql.com/doc/refman/5.7/en/innodb-index-types.html
 
 ## Primary Key Indexes - MySQL
 
@@ -376,11 +376,11 @@ SHOW INDEXES FROM table_name;
 
 [**https://medium.com/@stormanning/mysql-indexing-101-660f3193dde1**](https://medium.com/@stormanning/mysql-indexing-101-660f3193dde1)
 
-<https://dev.mysql.com/doc/refman/8.0/en/mysql-indexes.html>
+https://dev.mysql.com/doc/refman/8.0/en/mysql-indexes.html
 
-<https://dev.mysql.com/doc/refman/8.0/en/optimization-indexes.html>
+https://dev.mysql.com/doc/refman/8.0/en/optimization-indexes.html
 
-<https://www.freecodecamp.org/news/database-indexing-at-a-glance-bb50809d48bd>
+https://www.freecodecamp.org/news/database-indexing-at-a-glance-bb50809d48bd
 
 [**https://dev.mysql.com/doc/refman/8.0/en/optimization-indexes.html**](https://dev.mysql.com/doc/refman/8.0/en/optimization-indexes.html)
 
@@ -388,7 +388,7 @@ SHOW INDEXES FROM table_name;
 
 `select count(*) from sys.schema_unused_indexes;`
 
-<https://www.eversql.com/how-to-find-unused-indexes-in-a-mysql-database>
+https://www.eversql.com/how-to-find-unused-indexes-in-a-mysql-database
 
 ## Rebuilding or Repairing Tables or Indexes
 
@@ -398,10 +398,10 @@ Methods for rebuilding a table include
 - [ALTER TABLE Method](https://dev.mysql.com/doc/refman/8.0/en/rebuilding-tables.html#rebuilding-tables-alter-table)
 - [REPAIR TABLE Method](https://dev.mysql.com/doc/refman/8.0/en/rebuilding-tables.html#rebuilding-tables-repair-table)
 
-<https://dev.mysql.com/doc/refman/8.0/en/rebuilding-tables.html>
+https://dev.mysql.com/doc/refman/8.0/en/rebuilding-tables.html
 
 ## MySQL 8.0 - Invisible Index
 
 Invisible indexes make it possible to test the effect of removing an index on query performance, without making a destructive change that must be undone should the index turn out to be required. Dropping and re-adding an index can be expensive for a large table, whereas making it invisible and visible are fast, in-place operations.
 
-<https://dev.mysql.com/doc/refman/8.0/en/invisible-indexes.html>
+https://dev.mysql.com/doc/refman/8.0/en/invisible-indexes.html

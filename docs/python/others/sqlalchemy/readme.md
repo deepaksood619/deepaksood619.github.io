@@ -16,7 +16,7 @@ The ORM builds upon Core to provide a means of working with a domain object mode
 
 Whereas working with Core and the SQL Expression language presents a schema-centric view of the database, along with a programming paradigm that is oriented around immutability, the ORM builds on top of this a domain-centric view of the database with a programming paradigm that is more explcitly object-oriented and reliant upon mutability. Since a relational database is itself a mutable service, the difference is that Core/SQL Expression language is command oriented whereas the ORM is state oriented.
 
-<https://docs.sqlalchemy.org/en/14/intro.html>
+https://docs.sqlalchemy.org/en/14/intro.html
 
 ## Documentation
 
@@ -28,13 +28,13 @@ Whereas working with Core and the SQL Expression language presents a schema-cent
 - [**Working with Related Objects**](https://docs.sqlalchemy.org/en/14/tutorial/orm_related_objects.html#tutorial-orm-related-objects) introduces the concept of the [relationship()](https://docs.sqlalchemy.org/en/14/orm/relationship_api.html#sqlalchemy.orm.relationship) construct and provides a brief overview of how it's used, with links to deeper documentation.
 - [**Further Reading**](https://docs.sqlalchemy.org/en/14/tutorial/further_reading.html#tutorial-further-reading) lists a series of major top-level documentation sections which fully document the concepts introduced in this tutorial.
 
-<https://docs.sqlalchemy.org/en/14/tutorial/index.html>
+https://docs.sqlalchemy.org/en/14/tutorial/index.html
 
 ## Python DBAPI
 
 This API has been defined to encourage similarity between the Python modules that are used to access databases. By doing this, we hope to achieve a consistency leading to more easily understood modules, code that is generally more portable across databases, and a broader reach of database connectivity from Python.
 
-<https://www.python.org/dev/peps/pep-0249>
+https://www.python.org/dev/peps/pep-0249
 
 ## State Management
 
@@ -44,7 +44,7 @@ This API has been defined to encourage similarity between the Python modules tha
 - **Deleted-** An instance which has been deleted within a flush, but the transaction has not yet completed. Objects in this state are essentially in the opposite of "pending" state; when the session's transaction is committed, the object will move to the detached state. Alternatively, when the session's transaction is rolled back, a deleted object movesbackto the persistent state.
 - **Detached-** an instance which corresponds, or previously corresponded, to a record in the database, but is not currently in any session. The detached object will contain a database identity marker, however because it is not associated with a session, it is unknown whether or not this database identity actually exists in a target database. Detached objects are safe to use normally, except that they have no ability to load unloaded attributes or attributes that were previously marked as "expired".
 
-<https://docs.sqlalchemy.org/en/14/orm/session_state_management.html>
+https://docs.sqlalchemy.org/en/14/orm/session_state_management.html
 
 ## Flush vs commit
 
@@ -66,11 +66,11 @@ When you use a Session object to query the database, the query will return resul
 
 Commits should reduce memory usage, although presumably there is a trade-off between memory and performance here. In other words, you probably don't want to commit every single database change, one at a time (for performance reasons), but waiting too long will increase memory usage.
 
-<https://michaelcho.me/article/sqlalchemy-commit-flush-expire-refresh-merge-whats-the-difference>
+https://michaelcho.me/article/sqlalchemy-commit-flush-expire-refresh-merge-whats-the-difference
 
 ## Two Phase Commits
 
-<https://docs.sqlalchemy.org/en/13/orm/session_transaction.html#enabling-two-phase-commit>
+https://docs.sqlalchemy.org/en/13/orm/session_transaction.html#enabling-two-phase-commit
 
 ## CodeGen
 
@@ -80,14 +80,14 @@ flask-sqlacodegen
 sqlacodegen mysql+pymysql://user:pass@host.com:3306/sttash_website_LIVE --table "table_name"
 ```
 
-<https://github.com/ksindi/flask-sqlacodegen>
+https://github.com/ksindi/flask-sqlacodegen
 
 ## Others
 
-<https://docs.sqlalchemy.org/en/13/faq/sessions.html#i-m-re-loading-data-with-my-session-but-it-isn-t-seeing-changes-that-i-committed-elsewhere>
+https://docs.sqlalchemy.org/en/13/faq/sessions.html#i-m-re-loading-data-with-my-session-but-it-isn-t-seeing-changes-that-i-committed-elsewhere
 
-<https://stackoverflow.com/questions/19143345/about-refreshing-objects-in-sqlalchemy-session>
+https://stackoverflow.com/questions/19143345/about-refreshing-objects-in-sqlalchemy-session
 
-<https://sqlmodel.tiangolo.com>
+https://sqlmodel.tiangolo.com
 
 SQL databases in Python, designed for simplicity, compatibility, and robustness.

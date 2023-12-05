@@ -33,8 +33,8 @@ This strategy has a primary benefit of being useful for archiving and quickly dr
 
 The second technique uses multiple partitions at any given time to fan out inserts to the entire cluster. The nice part about this strategy is we can use a single partition for low volume, and many partitions for high volume.
 
-<https://thelastpickle.com/blog/2017/08/02/time-series-data-modeling-massive-scale.html>
+https://thelastpickle.com/blog/2017/08/02/time-series-data-modeling-massive-scale.html
 
 ## Others
 
-<https://shermandigital.com/blog/designing-a-cassandra-data-model>
+https://shermandigital.com/blog/designing-a-cassandra-data-model

@@ -21,18 +21,18 @@ In addition to static type analysis, TypeScript also adds the following features
 - [Null checking](https://www.typescriptlang.org/docs/handbook/release-notes/typescript-2-0.html)
 - [Access Modifiers](https://www.typescriptlang.org/docs/handbook/classes.html)
 
-<https://www.freecodecamp.org/news/learn-typescript-with-this-crash-course>
+https://www.freecodecamp.org/news/learn-typescript-with-this-crash-course
 
-<https://www.typescriptlang.org/docs/handbook/intro.html>
+https://www.typescriptlang.org/docs/handbook/intro.html
 
-<https://github.com/type-challenges/type-challenges>
+https://github.com/type-challenges/type-challenges
 
 [Why Program in TypeScript](https://youtu.be/x6Gtxb4PoUw)
 
-<https://www.freecodecamp.org/news/how-to-code-your-react-app-with-typescript>
+https://www.freecodecamp.org/news/how-to-code-your-react-app-with-typescript
 
-<https://www.toptal.com/typescript/typescript-vs-javascript-guide>
+https://www.toptal.com/typescript/typescript-vs-javascript-guide
 
-<https://www.freecodecamp.org/news/build-strongly-typed-polymorphic-components-with-react-and-typescript>
+https://www.freecodecamp.org/news/build-strongly-typed-polymorphic-components-with-react-and-typescript
 
 [TypeScript 5.2's New Keyword: 'using' | Total TypeScript](https://www.totaltypescript.com/typescript-5-2-new-keyword-using)

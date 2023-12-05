@@ -6,7 +6,7 @@ WebSocket is distinct from HTTP. Both protocols are located at layer 7 in the [O
 
 The WebSocket protocol enables interaction between a [web browser](https://en.wikipedia.org/wiki/Web_browser)(or other client application) and a [web server](https://en.wikipedia.org/wiki/Web_server) with lower overhead than half-duplex alternatives such as HTTP polling, facilitating real-time data transfer from and to the server. This is made possible by providing a standardized way for the server to send content to the client without being first requested by the client, and allowing messages to be passed back and forth while keeping the connection open. In this way, a two-way ongoing conversation can take place between the client and the server. The communications are done over TCP [port](https://en.wikipedia.org/wiki/Port_(computer_networking)) number 80 (or 443 in the case of [TLS](https://en.wikipedia.org/wiki/Transport_Layer_Security)-encrypted connections), which is of benefit for those environments which block non-web Internet connections using a [firewall](https://en.wikipedia.org/wiki/Firewall_(computing)). Similar two-way browser-server communications have been achieved in non-standardized ways using stopgap technologies such as [Comet](https://en.wikipedia.org/wiki/Comet_(programming)).
 
-<https://en.wikipedia.org/wiki/WebSocket>
+https://en.wikipedia.org/wiki/WebSocket
 
 Websockets are full bidirectional connection between hosts (once user is connected to the server, both client and server can initiate the request) (Also have sticky session, i.e. if one request from user gets to a server than all the further messages will be transfered via same server)
 
@@ -56,27 +56,27 @@ If you consider a use case like displaying real-time market news, market data, c
 
 WebSocket will probably remain used but SSE and its EventSource API combined with the power of HTTP/2 will provide the same result in most use cases, just simpler.
 
-<https://www.infoq.com/articles/websocket-and-http2-coexist>
+https://www.infoq.com/articles/websocket-and-http2-coexist
 
-<https://sookocheff.com/post/networking/how-do-websockets-work>
+https://sookocheff.com/post/networking/how-do-websockets-work
 
-<https://ably.com/topic/websockets>
+https://ably.com/topic/websockets
 
 ## socketio / socket.io
 
 Bidirectional and low-latency communication for every platform
 
-<https://github.com/socketio/socket.io>
+https://github.com/socketio/socket.io
 
-<https://socket.io>
+https://socket.io
 
 ## Websocket vs socketio
 
 Socketio advantages are that it simplifies the usage of WebSockets, and probably more importantly it provides fail-overs to other protocols in the event that WebSockets are not supported on the browser or server.
 
-<https://stackoverflow.com/questions/10112178/differences-between-socket-io-and-websockets>
+https://stackoverflow.com/questions/10112178/differences-between-socket-io-and-websockets
 
-<https://davidwalsh.name/websocket>
+https://davidwalsh.name/websocket
 
 ## Links
 

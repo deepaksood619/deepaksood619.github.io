@@ -143,10 +143,10 @@ When services are created in a Docker swarm cluster, they are automatically assi
 
 A toolkit for orchestrating distributed systems at any scale. It includes primitives for node discovery, raft-based consensus, task scheduling and more.
 
-<https://github.com/docker/swarmkit>
+https://github.com/docker/swarmkit
 
 ## References
 
-<https://docs.docker.com/v17.09/engine/swarm/networking>
+https://docs.docker.com/v17.09/engine/swarm/networking
 
-<https://success.docker.com/article/ucp-service-discovery>
+https://success.docker.com/article/ucp-service-discovery

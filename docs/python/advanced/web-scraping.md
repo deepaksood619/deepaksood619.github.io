@@ -33,9 +33,9 @@ print(i, soup.body.div.div)
 
 ## Links
 
-<https://www.toptal.com/python/web-scraping-with-python>
+https://www.toptal.com/python/web-scraping-with-python
 
-<https://www.freecodecamp.org/news/how-to-scrape-websites-with-python>
+https://www.freecodecamp.org/news/how-to-scrape-websites-with-python
 
 ## AI Tools
 

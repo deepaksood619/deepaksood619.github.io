@@ -20,4 +20,4 @@ Your event handlers will be passed instances ofSyntheticEvent, a cross-browser w
 - [Transition Events](https://reactjs.org/docs/events.html#transition-events)
 - [Other Events](https://reactjs.org/docs/events.html#other-events)
 
-<https://reactjs.org/docs/events.html>
+https://reactjs.org/docs/events.html

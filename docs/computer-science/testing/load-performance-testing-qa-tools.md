@@ -2,12 +2,12 @@
 
 ## Website Performance Testing Tools
 
-- <https://gtmetrix.com>
+- https://gtmetrix.com
 - LightHouse
   - [Lighthouse CI Action · Actions · GitHub Marketplace · GitHub](https://github.com/marketplace/actions/lighthouse-ci-action)
-- <https://www.browserstack.com>
-- <https://www.sitespeed.io>
-- <https://estimator.dev>
+- https://www.browserstack.com
+- https://www.sitespeed.io
+- https://estimator.dev
 - [Free web performance analyser tool for images - Website Analyzer | ImageKit.io](https://imagekit.io/website-analyzer)
 
 ## Bash - add artificial load to the CPU
@@ -46,7 +46,7 @@ The dd utility copies the standard input to the standard output. Input data is r
 
 TheApache JMeter application is open source software. It is a pure Java application designed to load test an application and measure its performance.
 
-<https://towardsdatascience.com/load-testing-of-a-real-time-pipeline-d32475163285>
+https://towardsdatascience.com/load-testing-of-a-real-time-pipeline-d32475163285
 
 ## Gatling
 
@@ -54,7 +54,7 @@ Gatling is a highly capable load testing tool. It is designed for ease of use, m
 
 Gatling is an open-source load and performance testing framework based on [Scala](https://en.wikipedia.org/wiki/Scala_(programming_language)), [Akka](https://en.wikipedia.org/wiki/Akka_(toolkit)) and [Netty](https://en.wikipedia.org/wiki/Netty_(software)). The first stable release was published on January 13, 2012. In 2015, Gatling's founder, Stéphane Landelle, created a company (named "Gatling Corp"), dedicated to the development of the open-source project. According to Gatling Corp's official blog, Gatling was downloaded more than 800,000 times (August 2017). In June 2016, Gatling officially presented Gatling FrontLine, Gatling's Enterprise Version with additional features
 
-<https://en.wikipedia.org/wiki/Gatling_(software)>
+https://en.wikipedia.org/wiki/Gatling_(software)
 
 [https://gatling.io](https://gatling.io/)
 
@@ -93,9 +93,9 @@ abis a tool for benchmarking your Apache Hypertext Transfer Protocol (HTTP) serv
 ```bash
 wrk --duration 20s --threads 10 --connections 200 [URL]
 
-wrk -c 5 -t 5 -d 99999 -H "Connection: Close" <http://application-cpu>
+wrk -c 5 -t 5 -d 99999 -H "Connection: Close" http://application-cpu
 
-wrk -c 5 -t 5 -d 99999 -H "Connection: Close" <https://facebook.com>
+wrk -c 5 -t 5 -d 99999 -H "Connection: Close" https://facebook.com
 ```
 
 ### - Apache Bench - [Apache HTTP Server Benchmarking Tool](https://httpd.apache.org/docs/2.4/programs/ab.html) (for percentiles)
@@ -103,21 +103,21 @@ wrk -c 5 -t 5 -d 99999 -H "Connection: Close" <https://facebook.com>
 ```bash
 apt install apache2
 brew install apache2
-ab -c 50 -n 500 -s 90 <http://www.example.com>
+ab -c 50 -n 500 -s 90 http://www.example.com
 
-ab -c 50 -n 500 -s 90 <http://example-website.staging>
+ab -c 50 -n 500 -s 90 http://example-website.staging
 
-ab -c 100 -n 500 -s 90 <http://example-website.staging> (Success)
+ab -c 100 -n 500 -s 90 http://example-website.staging (Success)
 
-ab -c 500 -n 5000 -s 90 <http://example-website.staging> (Fail)
+ab -c 500 -n 5000 -s 90 http://example-website.staging (Fail)
 
-ab -c 500 -n 5000 -s 90 <http://bigbet-nlb-7ac1185001d91c31.elb.us-west-2.amazonaws.com>
+ab -c 500 -n 5000 -s 90 http://bigbet-nlb-7ac1185001d91c31.elb.us-west-2.amazonaws.com
 
 ## ab -c 500 -n 5000 -s 90 [URL]
 
 ## ab -c 500 -n 500 -s 90
 
-ab -c 50 -n 5000 -s 90 -p data.json -T application/json -rk <https://staff.lendenclub.com/core/lender_app/prospect/verify>
+ab -c 50 -n 5000 -s 90 -p data.json -T application/json -rk https://staff.lendenclub.com/core/lender_app/prospect/verify
 
 -r Don't exit on socket receive errors.
 
@@ -136,12 +136,12 @@ siege -c2 -t2m [URL]
 ### - hey / boom
 
 ```bash
-hey <https://dev.example.com>
+hey https://dev.example.com
 
-<https://github.com/rakyll/hey>
+https://github.com/rakyll/hey
 ```
 
-### - <https://k6.io>
+### - https://k6.io
 
 Open source load testing tool and SaaS for engineering teams
 
@@ -162,7 +162,7 @@ Fortio runs at a specified query per second (qps) and records an histogram of ex
 
 ## Test application
 
-<https://github.com/blueperf>
+https://github.com/blueperf
 
 ## Locust
 
@@ -201,11 +201,11 @@ locust -f mqttClient.py --no-web -c 2 -r 1
 
 localhost:8089
 
-<https://locust.io>
+https://locust.io
 
-<https://docs.locust.io/en/stable/quickstart.html>
+https://docs.locust.io/en/stable/quickstart.html
 
-<https://docs.locust.io/en/stable/running-locust-distributed.html>
+https://docs.locust.io/en/stable/running-locust-distributed.html
 
 ## MQTT Stresser
 
@@ -263,7 +263,7 @@ Subscribe
 
 ./emqtt_bench_pub -h mqtt.example.com -u example_mqtt_client -P xitanez123 -c 10000 -I 30000 -t bench/%i -s 10000 -q 1
 
-<https://github.com/emqtt/emqtt_benchmark>
+https://github.com/emqtt/emqtt_benchmark
 ```
 
 ## QA Companies
@@ -274,6 +274,6 @@ Subscribe
 
 ## Others
 
-<https://aws.amazon.com/about-aws/whats-new/2021/05/introducing-distributed-load-testing-v1-3>
+https://aws.amazon.com/about-aws/whats-new/2021/05/introducing-distributed-load-testing-v1-3
 
-<https://www.testingexcellence.com/top-10-open-source-performance-testing-tools>
+https://www.testingexcellence.com/top-10-open-source-performance-testing-tools

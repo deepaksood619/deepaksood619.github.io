@@ -193,7 +193,7 @@ Basically what we are doing is trying to have multiple data nodes, and multiple 
   - Dfs.datanode.handler.count (10): Sets the number of server threds on each datanode
   - Dfs.namenode.fs-limits.max-blocks-per-file: Maximum number of blocks per file
 - **Full List:**
-  - <http://hadoop.apache.org/docs/current/hadoop-project-dist/hadoop-hdfs/hdfs-default.xml>
+  - http://hadoop.apache.org/docs/current/hadoop-project-dist/hadoop-hdfs/hdfs-default.xml
 
 ## HDFS Performance and Robustness
 
@@ -237,8 +237,8 @@ Basically what we are doing is trying to have multiple data nodes, and multiple 
 
 ## References
 
-<https://www.aosabook.org/en/hdfs.html>
+https://www.aosabook.org/en/hdfs.html
 
-<https://www.tutorialspoint.com/hadoop/hadoop_hdfs_overview.htm>
+https://www.tutorialspoint.com/hadoop/hadoop_hdfs_overview.htm
 
-<https://hadoop.apache.org/docs/r1.2.1/hdfs_design.html>
+https://hadoop.apache.org/docs/r1.2.1/hdfs_design.html

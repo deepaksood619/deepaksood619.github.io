@@ -60,4 +60,4 @@ systemctl restart systemd-sysctl.service
 
 `kubectl -n kube-system scale --replicas=5 deployment/kube-dns`
 
-<https://kubedex.com/90-days-of-aws-eks-in-production>
+https://kubedex.com/90-days-of-aws-eks-in-production

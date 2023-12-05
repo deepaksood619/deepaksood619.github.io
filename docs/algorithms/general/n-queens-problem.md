@@ -55,6 +55,6 @@ Space Complexity - n*n
 
 ## References
 
-<https://en.wikipedia.org/wiki/Eight_queens_puzzle>
+https://en.wikipedia.org/wiki/Eight_queens_puzzle
 
 [N Queen Problem Using Backtracking Algorithm](https://www.youtube.com/watch?v=xouin83ebxE)

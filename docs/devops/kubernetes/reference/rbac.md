@@ -18,11 +18,11 @@
 
 ## Authorization
 
-<https://kubernetes.io/docs/reference/access-authn-authz/authorization>
+https://kubernetes.io/docs/reference/access-authn-authz/authorization
 
-<https://kubernetes.io/docs/reference/access-authn-authz/rbac>
+https://kubernetes.io/docs/reference/access-authn-authz/rbac
 
-<https://www.cncf.io/blog/2018/08/01/demystifying-rbac-in-kubernetes>
+https://www.cncf.io/blog/2018/08/01/demystifying-rbac-in-kubernetes
 
 ## Commands
 
@@ -30,4 +30,4 @@
 
 kubectl create clusterrolebinding kubernetes-dashboard -n kube-system --clusterrole=cluster-admin --serviceaccount=kube-system:kubernetes-dashboard
 
-<https://www.youtube.com/watch?v=mvvCf3eQ1cc>
+https://www.youtube.com/watch?v=mvvCf3eQ1cc

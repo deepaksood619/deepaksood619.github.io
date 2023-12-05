@@ -12,7 +12,7 @@ The following are the key concepts for VPCs:
 - An**internet gateway** is a horizontally scaled, redundant, and highly available VPC component that allows communication between instances in your VPC and the internet. It therefore imposes no availability risks or bandwidth constraints on your network traffic.
 - A **VPC endpoint** enables you to privately connect your VPC to supported AWS services and VPC endpoint services powered by PrivateLink without requiring an internet gateway, NAT device, VPN connection, or AWS Direct Connect connection. Instances in your VPC do not require public IP addresses to communicate with resources in the service. Traffic between your VPC and the other service does not leave the Amazon network.
 
-<https://docs.aws.amazon.com/vpc/latest/userguide/what-is-amazon-vpc.html>
+https://docs.aws.amazon.com/vpc/latest/userguide/what-is-amazon-vpc.html
 
 ## Route Tables
 
@@ -28,7 +28,7 @@ The following are the key concepts for VPCs:
 - **Target**The target through which to send the destination traffic; for example, an internet gateway.
 - **Local route**A default route for communication within the VPC.
 
-<https://docs.aws.amazon.com/vpc/latest/userguide/VPC_Route_Tables.html>
+https://docs.aws.amazon.com/vpc/latest/userguide/VPC_Route_Tables.html
 
 ![image](../../../media/Cloud-AWS-Amazon-VPC-image1.jpg)
 
@@ -40,7 +40,7 @@ An internet gateway serves two purposes: to provide a target in your VPC route t
 
 An internet gateway supports IPv4 and IPv6 traffic.
 
-<https://docs.aws.amazon.com/vpc/latest/userguide/VPC_Internet_Gateway.html>
+https://docs.aws.amazon.com/vpc/latest/userguide/VPC_Internet_Gateway.html
 
 ## Security Groups
 
@@ -67,7 +67,7 @@ Amazon Virtual Private Cloud provides features that you can use to increase and 
 | We evaluate all rules before deciding whether to allow traffic | We process rules in number order when deciding whether to allow traffic |
 | Applies to an instance only if someone specifies the security group when launching the instance, or associates the security group with the instance later on | Automatically applies to all instances in the subnets that it's associated with (therefore, it provides an additional layer of defense if the security group rules are too permissive) |
 
-<https://docs.aws.amazon.com/vpc/latest/userguide/VPC_Security.html#VPC_Security_Comparison>
+https://docs.aws.amazon.com/vpc/latest/userguide/VPC_Security.html#VPC_Security_Comparison
 
 ## VPC Endpoints
 
@@ -88,7 +88,7 @@ A [gateway endpoint](https://docs.aws.amazon.com/vpc/latest/userguide/vpce-gatew
 - Amazon S3
 - DynamoDB
 
-<https://docs.aws.amazon.com/vpc/latest/userguide/vpc-endpoints.html>
+https://docs.aws.amazon.com/vpc/latest/userguide/vpc-endpoints.html
 
 NACL - Network Access Control List
 
@@ -98,4 +98,4 @@ SG - Security Groups
 
 - Limited to five Elastic IP addresses per account
 
-<https://docs.aws.amazon.com/vpc/latest/userguide/vpc-eips.html>
+https://docs.aws.amazon.com/vpc/latest/userguide/vpc-eips.html

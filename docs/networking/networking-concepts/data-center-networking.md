@@ -20,16 +20,16 @@ DCell is a server-centric hybrid DCN architecture where one server is directly c
 
 Some of the other well-known DCNs include BCube, Camcube, FiConn, Jelly fishand Scafida. A qualitative discussion of different DCNs along with benefits and drawbacks associated with each one has been made available.
 
-<https://en.wikipedia.org/wiki/Data_center_network_architectures>
+https://en.wikipedia.org/wiki/Data_center_network_architectures
 
 ## Torus Interconnect
 
 A **[torus](https://en.wikipedia.org/wiki/Torus) interconnect**is a switch-less [network topology](https://en.wikipedia.org/wiki/Network_topology) for connecting processing nodes in a [parallel computer](https://en.wikipedia.org/wiki/Parallel_computer) system.
 
-<https://en.wikipedia.org/wiki/Torus_interconnect>
+https://en.wikipedia.org/wiki/Torus_interconnect
 
 ## InfiniBand
 
 InfiniBand(IB) is a computer networking communications standard used in [high-performance computing](https://en.wikipedia.org/wiki/High-performance_computing) that features very high [throughput](https://en.wikipedia.org/wiki/Throughput) and very low [latency](https://en.wikipedia.org/wiki/Latency_(engineering)). It is used for data interconnect both among and within computers. InfiniBand is also used as either a direct or switched interconnect between servers and storage systems, as well as an interconnect between storage systems
 
-<https://en.wikipedia.org/wiki/InfiniBand>
+https://en.wikipedia.org/wiki/InfiniBand

@@ -38,7 +38,7 @@ Given a version number MAJOR.MINOR.PATCH, increment the:
 
 - PATCH version when you make backwards-compatible bug fixes.
 
-<https://semver.org>
+https://semver.org
 
 ## Calendar Versioning (CalVer)
 
@@ -46,9 +46,9 @@ CalVer is a versioning convention based on your project's release calendar, inst
 
 ## YYYY.MINOR.MICRO - 2020.1.1
 
-<https://calver.org>
+https://calver.org
 
-<https://en.wikipedia.org/wiki/Software_versioning>
+https://en.wikipedia.org/wiki/Software_versioning
 
 ## What is Dynamic Binding (late binding)?
 
@@ -56,7 +56,7 @@ Binding refers to the linking of a procedure call to the code to be executed in 
 Late binding, dynamic binding, ordynamic linkageis a computer programming mechanism in which the method being called upon an object or the function being called with arguments is looked up by name at [runtime](https://en.wikipedia.org/wiki/Run_time_(program_lifecycle_phase)).
 With [early binding](https://en.wikipedia.org/wiki/Early_binding), or [static binding](https://en.wikipedia.org/wiki/Static_binding), in an [object-oriented language](https://en.wikipedia.org/wiki/Object-oriented_programming), the compilation phase fixes all types of variables and expressions. This is usually stored in the compiled program as an offset in a [virtual method table](https://en.wikipedia.org/wiki/Virtual_method_table)("v-table") and is very efficient. With late binding the compiler does not read enough information to verify the method exists or bind its slot on the v-table. Instead the method is looked up by name at runtime.
 The primary advantage of using late binding in [Component Object Model](https://en.wikipedia.org/wiki/Component_Object_Model)(COM) programming is that it does not require the compiler to reference the libraries that contain the object at [compile time](https://en.wikipedia.org/wiki/Compile_time). This makes the compilation process more resistant to version conflicts, in which the class's v-table may be accidentally modified. (This is not a concern in [JIT](https://en.wikipedia.org/wiki/Just-in-time_compilation)-compiled platforms such as .NET or Java, because the v-table is created at runtime by the [virtual machine](https://en.wikipedia.org/wiki/Virtual_machine) against the libraries as they are being loaded into the running application.)
-<https://en.wikipedia.org/wiki/Late_binding>
+https://en.wikipedia.org/wiki/Late_binding
 
 ## Virtual Method Table
 
@@ -65,7 +65,7 @@ Whenever a class defines a [virtual function](https://en.wikipedia.org/wiki/Virt
 There are many different ways to implement such dynamic dispatch, but use of virtual method tables is especially common among [C++](https://en.wikipedia.org/wiki/C%2B%2B) and related languages (such as [D](https://en.wikipedia.org/wiki/D_(programming_language)) and [C#](https://en.wikipedia.org/wiki/C_Sharp_(programming_language))). Languages that separate the programmatic interface of objects from the implementation, like [Visual Basic](https://en.wikipedia.org/wiki/Visual_Basic) and [Delphi](https://en.wikipedia.org/wiki/Object_Pascal), also tend to use this approach, because it allows objects to use a different implementation simply by using a different set of method pointers.
 Suppose a program contains three [classes](https://en.wikipedia.org/wiki/Class_(computer_programming)) in an [inheritance](https://en.wikipedia.org/wiki/Inheritance_(object-oriented_programming)) hierarchy: a [superclass](https://en.wikipedia.org/wiki/Superclass_(computer_science)), Cat, and two [subclasses](https://en.wikipedia.org/wiki/Subclass_(computer_science)), HouseCatandLion. ClassCatdefines a [virtual function](https://en.wikipedia.org/wiki/Virtual_function) namedspeak, so its subclasses may provide an appropriate implementation (e.g. eithermeoworroar). When the program calls thespeakfunction on aCatreference (which can refer to an instance ofCat, or an instance ofHouseCatorLion), the code must be able to determine which implementation of the function the call should bedispatchedto. This depends on the actual class of the object, not the class of the reference to it (Cat). The class cannot generally be determinedstatically(that is, at [compile time](https://en.wikipedia.org/wiki/Compile_time)), so neither can the compiler decide which function to call at that time. The call must be dispatched to the right functiondynamically(that is, at [run time](https://en.wikipedia.org/wiki/Run_time_(program_lifecycle_phase))) instead.
 
-<https://en.wikipedia.org/wiki/Virtual_method_table>
+https://en.wikipedia.org/wiki/Virtual_method_table
 
 ## Dynamic Dispatch
 
@@ -74,7 +74,7 @@ Object-oriented systems model a problem as a set of interacting objects that ena
 Dynamic dispatch contrasts withstatic dispatch, in which the implementation of a polymorphic operation is selected at [compile time](https://en.wikipedia.org/wiki/Compile_time). The purpose of dynamic dispatch is to defer the selection of an appropriate implementation until the run time type of a parameter (or multiple parameters) is known.
 Dynamic dispatch is different from [late binding](https://en.wikipedia.org/wiki/Late_binding)(also known as dynamic binding).[Name binding](https://en.wikipedia.org/wiki/Name_binding) associates a name with an operation. A polymorphic operation has several implementations, all associated with the same name. Bindings can be made at compile time or (with late binding) at run time. With dynamic dispatch, one particular implementation of an operation is chosen at run time. While dynamic dispatch does not imply late binding, late binding does imply dynamic dispatch, since the implementation of a late-bound operation is not known until run time.
 
-<https://en.wikipedia.org/wiki/Dynamic_dispatch>
+https://en.wikipedia.org/wiki/Dynamic_dispatch
 
 ## Guard Clauses Technique
 

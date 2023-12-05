@@ -10,19 +10,19 @@ You can use Plywood in the browser and/or in node.js to easily create your own v
 
 Plywood also acts as a very advanced query planner for Druid, and Plywood will determine the most optimal way to execute Druid queries.
 
-<https://github.com/implydata/plywood>
+https://github.com/implydata/plywood
 
 ## Turnilo
 
 Business intelligence, data exploration and visualization web application for Druid
 
-<https://github.com/allegro/turnilo>
+https://github.com/allegro/turnilo
 
 ## Tranquility
 
 Tranquility helps you send real-time event streams to Druid and handles partitioning, replication, service discovery, and schema rollover, seamlessly and without downtime.
 
-<https://github.com/druid-io/tranquility>
+https://github.com/druid-io/tranquility
 
 ## Imply Pivot
 

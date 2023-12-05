@@ -104,6 +104,6 @@ def gcdExtended(a, b, x, y):
 
 ## References
 
-<https://en.wikipedia.org/wiki/Euclidean_algorithm>
+https://en.wikipedia.org/wiki/Euclidean_algorithm
 
-<https://www.geeksforgeeks.org/euclidean-algorithms-basic-and-extended>
+https://www.geeksforgeeks.org/euclidean-algorithms-basic-and-extended

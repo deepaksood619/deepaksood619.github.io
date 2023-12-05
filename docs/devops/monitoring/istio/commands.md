@@ -24,4 +24,4 @@ annotations:
 
 ![image](../../../media/DevOps-Monitoring-Commands-image1.jpg)
 
-<https://istio.io/latest/docs/reference/commands/istioctl>
+https://istio.io/latest/docs/reference/commands/istioctl

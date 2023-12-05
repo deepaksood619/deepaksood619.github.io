@@ -70,11 +70,11 @@ ssh config (man ssh_config - OpenSSH SSH client configuration files)
 
 It allows you to use your local SSH keys instead of leaving keys (without passphrases!) sitting on your server.
 
-<https://dev.to/levivm/how-to-use-ssh-and-ssh-agent-forwarding-more-secure-ssh-2c32>
+https://dev.to/levivm/how-to-use-ssh-and-ssh-agent-forwarding-more-secure-ssh-2c32
 
-<https://www.ssh.com/ssh/config>
+https://www.ssh.com/ssh/config
 
-<https://nerderati.com/2011/03/17/simplify-your-life-with-an-ssh-config-file>
+https://nerderati.com/2011/03/17/simplify-your-life-with-an-ssh-config-file
 
 ### SCP from server (Copy a file from server to local, from local machine)
 
@@ -188,7 +188,7 @@ grep -i -C 10 "my_regex" /var/log/syslog
 | & tee | yes | yes | yes | yes | overwrite |
 | & tee -a | yes | yes | yes | yes | append |
 
-<http://www.tldp.org/LDP/abs/html/io-redirection.html>
+http://www.tldp.org/LDP/abs/html/io-redirection.html
 
 **Example**
 
@@ -335,7 +335,7 @@ Here 68 is 'h' in ASCII and 69 is 'i' in ASCII
 
 BitBakeis a [make](https://en.wikipedia.org/wiki/Make_(software))-like [build tool](https://en.wikipedia.org/wiki/Build_tool) with the special focus of [distributions](https://en.wikipedia.org/wiki/Linux_distributions) and packages for [embedded Linux](https://en.wikipedia.org/wiki/Embedded_Linux)[cross compilation](https://en.wikipedia.org/wiki/Cross_compilation), although it is not limited to that. It is inspired by [Portage](https://en.wikipedia.org/wiki/Portage_(software)), which is the [package management system](https://en.wikipedia.org/wiki/Package_management_system) used by the [Gentoo Linux](https://en.wikipedia.org/wiki/Gentoo_Linux) distribution. BitBake existed for some time in the [OpenEmbedded](https://en.wikipedia.org/wiki/OpenEmbedded) project until it was separated out into a standalone, maintained, distribution-independent tool. BitBake is co-maintained by the [Yocto Project](https://en.wikipedia.org/wiki/Yocto_Project) and the [OpenEmbedded](https://en.wikipedia.org/wiki/OpenEmbedded) project
 
-<https://en.wikipedia.org/wiki/BitBake>
+https://en.wikipedia.org/wiki/BitBake
 
 ### Add new user
 
@@ -512,7 +512,7 @@ cat domains.txt | tr [:lower:] [:upper:]
 cat linux.txt | tr [a-z] [A-Z]
 ```
 
-<https://www.tecmint.com/tr-command-examples-in-linux>
+https://www.tecmint.com/tr-command-examples-in-linux
 
 ### tcpdump (wireshark)
 
@@ -661,7 +661,7 @@ ps $$
 Output the shell that is running
 ```
 
-<https://linuxize.com/post/ps-command-in-linux>
+https://linuxize.com/post/ps-command-in-linux
 
 ### tree
 
@@ -757,9 +757,9 @@ straceis a useful diagnostic, instructional, and debugging tool. System administ
 
 MacOS - dtrace
 
-<https://linux.die.net/man/1/strace>
+https://linux.die.net/man/1/strace
 
-<https://8thlight.com/blog/colin-jones/2015/11/06/dtrace-even-better-than-strace-for-osx.html>
+https://8thlight.com/blog/colin-jones/2015/11/06/dtrace-even-better-than-strace-for-osx.html
 
 ## nice/renice
 
@@ -777,7 +777,7 @@ Run COMMAND with an adjusted niceness, which affects process scheduling. With no
 
 Renice alters the scheduling priority of one or more running processes. The following who parameters are interpreted as process ID's, process group ID's, or user names. Renice'ing a process group causes all processes in the process group to have their scheduling priority altered. Renice'ing a user causes all processes owned by the user to have their scheduling priority altered. By default, the processes to be affected are specified by their process ID's.
 
-<https://www.howtoforge.com/linux-nice-command>
+https://www.howtoforge.com/linux-nice-command
 
 [how greedy are your processes? | Linux niceness - YouTube](https://www.youtube.com/watch?v=GsF8R6DBxSg)
 
@@ -818,12 +818,12 @@ tasksetis used to set or retrieve the CPU affinity of a running process given it
 
 The CPU affinity is represented as a bitmask, with the lowest order bit corresponding to the first logical CPU and the highest order bit corresponding to the last logical CPU. Not all CPUs may exist on a given system but a mask may specify more CPUs than are present. A retrieved mask will reflect only the bits that correspond to CPUs physically on the system. If an invalid mask is given (i.e., one that corresponds to no valid CPUs on the current system) an error is returned. The masks are typically given in hexadecimal. For example,
 
-<https://linux.die.net/man/1/taskset>
+https://linux.die.net/man/1/taskset
 
 ## References
 
-<https://dev.to/awwsmm/101-bash-commands-and-tips-for-beginners-to-experts-30je>
+https://dev.to/awwsmm/101-bash-commands-and-tips-for-beginners-to-experts-30je
 
-<https://www.toptal.com/linux/tips-and-practices>
+https://www.toptal.com/linux/tips-and-practices
 
-<https://www.freecodecamp.org/news/the-linux-commands-handbook>
+https://www.freecodecamp.org/news/the-linux-commands-handbook

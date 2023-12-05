@@ -146,9 +146,9 @@ ramesh@dev-db$ crontab -l
 
 Visualize your cron schedules in crontab
 
-<https://github.com/takumakanari/cronv>
+https://github.com/takumakanari/cronv
 
-<https://crontab.guru>
+https://crontab.guru
 
 ## Quartz Cron Syntax
 

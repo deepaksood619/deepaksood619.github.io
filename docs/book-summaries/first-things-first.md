@@ -10,4 +10,4 @@ Important items are identified by focusing on a few key priorities and roles whi
 
 - Effective strategic delegation
 
-<https://en.wikipedia.org/wiki/First_Things_First_(book)>
+https://en.wikipedia.org/wiki/First_Things_First_(book)

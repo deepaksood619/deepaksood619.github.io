@@ -12,7 +12,7 @@
 
 Search engine marketing is the practice of marketing a business using paid advertisements that appear on search engine results pages (or [SERPs](https://www.wordstream.com/serp)). Advertisers bid on keywords that users of services such as Google and Bing might enter when looking for certain products or services, which gives the advertiser the opportunity for their ads to appear alongside results for those search queries.
 
-<https://blog.hubspot.com/marketing/search-engine-marketing>
+https://blog.hubspot.com/marketing/search-engine-marketing
 
 ## Tools
 
@@ -20,15 +20,15 @@ Search engine marketing is the practice of marketing a business using paid adver
 
 - [Semrush - Online Marketing Can Be Easy](https://semrush.com/)
 - [SerpApi: Google Search API](https://serpapi.com/)
-- <https://developers.google.com/speed/pagespeed/insights>
-- <https://sitechecker.pro>
-- <https://seositecheckup.com/seo-audit/www.example.com>
-- <https://www.seoptimer.com/www.example.com>
-- <https://app.neilpatel.com/en/seo_analyzer/site_audit>
-- <https://answerthepublic.com>
-- <https://stories.google>
-- <https://purifycss.online>
-- <https://moz.com>
+- https://developers.google.com/speed/pagespeed/insights
+- https://sitechecker.pro
+- https://seositecheckup.com/seo-audit/www.example.com
+- https://www.seoptimer.com/www.example.com
+- https://app.neilpatel.com/en/seo_analyzer/site_audit
+- https://answerthepublic.com
+- https://stories.google
+- https://purifycss.online
+- https://moz.com
 - [Rich Results Test - Google Search Console](https://search.google.com/test/rich-results)
 
 ## Black Hat SEO
@@ -54,27 +54,27 @@ It's crucial to realize that implementing Black Hat SEO tactics and strategies c
 - Creating pages, subdomains, or domains with [duplicate content](https://www.wordstream.com/duplicate-content)
 - Pages with malicious behavior, such as phishing, viruses, trojans, and other malware
 
-<https://www.wordstream.com/black-hat-seo>
+https://www.wordstream.com/black-hat-seo
 
-<https://unamo.com/blog/seo/8-risky-black-hat-seo-techniques-used-today>
+https://unamo.com/blog/seo/8-risky-black-hat-seo-techniques-used-today
 
-<https://blog.hubspot.com/marketing/black-hat-seo>
+https://blog.hubspot.com/marketing/black-hat-seo
 
-<https://www.searchenginejournal.com/11-black-hat-techniques-can-kill-seo-campaign/180601/#close>
+https://www.searchenginejournal.com/11-black-hat-techniques-can-kill-seo-campaign/180601/#close
 
 ## White Hat SEO
 
 Generally, white hat SEO refers to any practice that improves your search rankings on a search engine results page ([SERP](https://www.wordstream.com/serp)) while maintaining the integrity of your website and staying within the search engines' terms of service. These tactics stay within the bounds as [defined](http://googlewebmastercentral.blogspot.com/2008/11/googles-seo-starter-guide.html) by Google.
 
-<https://www.wordstream.com/white-hat-seo>
+https://www.wordstream.com/white-hat-seo
 
-<https://www.searchenginejournal.com/7-white-hat-seo-techniques-to-double-traffic/182243>
+https://www.searchenginejournal.com/7-white-hat-seo-techniques-to-double-traffic/182243
 
 cloudinary.com for fast image CDN
 
 ## Search Engine Results Page (SERP)
 
-<https://www.wordstream.com/serp>
+https://www.wordstream.com/serp
 
 ## Rich Results
 
@@ -146,7 +146,7 @@ Optimizing websites is an art that few are familiar with. The more the engineer 
 
 Urchin Tracking Module(UTM)parametersare five variants of [URL parameters](https://en.wikipedia.org/wiki/Query_string) used by marketers to track the effectiveness of online [marketing campaigns](https://en.wikipedia.org/wiki/Marketing_campaign) across traffic sources and publishing media. They were introduced by [Google Analytics](https://en.wikipedia.org/wiki/Google_Analytics)' predecessor [Urchin](https://en.wikipedia.org/wiki/Urchin_(software)) and, consequently, are supported [out-of-the-box](https://en.wikipedia.org/wiki/Out_of_the_box_(feature)) by Google Analytics. The UTM parameters in a URL identify the campaign that refers traffic to a specific website, and attributes the browser's [website session](https://en.wikipedia.org/wiki/Hypertext_Transfer_Protocol#HTTP_session) and the sessions after that until the campaign attribution window expires to it. The parameters can be parsed by analytics tools and used to populate reports.Example URL, UTM parameters highlighted, after the question mark `(?)`:
 
-<https://www.example.com/page?utm_content=buffercf3b2&utm_medium=social&utm_source=facebook.com&utm_campaign=buffer>
+https://www.example.com/page?utm_content=buffercf3b2&utm_medium=social&utm_source=facebook.com&utm_campaign=buffer
 
 | **Parameter** | **Purpose** | **Example** |
 |---|---|---|
@@ -160,9 +160,9 @@ Urchin Tracking Module(UTM)parametersare five variants of [URL parameters](https
 
 - `?utm_campaign=shanghaiupgrade_12apr23&utm_medium=social&utm_source=twitter`
 
-<https://en.wikipedia.org/wiki/UTM_parameters>
+https://en.wikipedia.org/wiki/UTM_parameters
 
-<https://neilpatel.com/blog/the-ultimate-guide-to-using-utm-parameters>
+https://neilpatel.com/blog/the-ultimate-guide-to-using-utm-parameters
 
 ## SiteMap
 
@@ -226,13 +226,13 @@ A deep link is a mobile message that takes a user who has the client’s app to 
 
 ## PDP SEO
 
-<https://ecommercetuners.com/seo-for-ecommerce-product-detail-pages>
+https://ecommercetuners.com/seo-for-ecommerce-product-detail-pages
 
 ## Subdomain vs subdirectory
 
 Use subdirectory wherever possible
 
-<https://www.semrush.com/blog/subdomain-vs-subdirectory>
+https://www.semrush.com/blog/subdomain-vs-subdirectory
 
 ### Trailing Slash
 
@@ -250,16 +250,16 @@ Different content on slash and non-slash URLs is okay for Google, but often is l
 
 ## References
 
-<https://www.toptal.com/full-stack/interview-questions>
+https://www.toptal.com/full-stack/interview-questions
 
-<https://neilpatel.com/blog/10-advanced-seo-techniques-thatll-double-your-search-traffic>
+https://neilpatel.com/blog/10-advanced-seo-techniques-thatll-double-your-search-traffic
 
-<https://neilpatel.com/blog/google-ranking>
+https://neilpatel.com/blog/google-ranking
 
-<https://neilpatel.com/blog/get-your-mba-in-seo-with-these-10-guides-and-5-courses>
+https://neilpatel.com/blog/get-your-mba-in-seo-with-these-10-guides-and-5-courses
 
-<https://neilpatel.com/blog/seo-for-ecommerce-websites>
+https://neilpatel.com/blog/seo-for-ecommerce-websites
 
-<https://neilpatel.com/blog/seo-templates>
+https://neilpatel.com/blog/seo-templates
 
 [React SEO Best Practices and Strategies | Toptal](https://www.toptal.com/react/react-seo-best-practices)

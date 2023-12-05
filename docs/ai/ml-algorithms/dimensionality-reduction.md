@@ -59,7 +59,7 @@
 
 ![image](../../media/Dimensionality-Reduction-image15.jpg)
 
-<https://www.datacamp.com/community/tutorials/principal-component-analysis-in-python>
+https://www.datacamp.com/community/tutorials/principal-component-analysis-in-python
 
 ## Feature Subset Selection
 

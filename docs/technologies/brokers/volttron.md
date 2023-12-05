@@ -71,8 +71,8 @@ volttron -l log1& (start the volttron instance with logging)
 
 ## URLs
 
-- <http://localhost:8080/vc/index.html>
-- <http://localhost:8080/discovery>
+- http://localhost:8080/vc/index.html
+- http://localhost:8080/discovery
 
 ## Mongod
 
@@ -92,9 +92,9 @@ volttron-ctl auth add --credentials "/.*/"
 
 ### References
 
-<https://github.com/VOLTTRON/volttron>
+https://github.com/VOLTTRON/volttron
 
-<https://github.com/so3500/volttron-kafka>
+https://github.com/so3500/volttron-kafka
 
 ## Problems
 

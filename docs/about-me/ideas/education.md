@@ -57,6 +57,6 @@ Free Open Source Education for all fields and all classes from nursery to colleg
     - Develop growth mindset
     - Create life long learners
 
-<https://www.notboring.co/p/primer-the-ambitious-home-for-ambitious>
+https://www.notboring.co/p/primer-the-ambitious-home-for-ambitious
 
 [How to Make Learning as Addictive as Social Media | Luis Von Ahn | TED - YouTube](https://www.youtube.com/watch?v=P6FORpg0KVo)

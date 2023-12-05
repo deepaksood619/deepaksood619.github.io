@@ -2,15 +2,15 @@
 
 ## Configuration
 
-<https://github.com/edenhill/librdkafka/blob/master/CONFIGURATION>
+https://github.com/edenhill/librdkafka/blob/master/CONFIGURATION
 
 ## CloudFormation template
 
-<https://aws-quickstart.s3.amazonaws.com/quickstart-confluent-kafka/templates/confluent-kafka.template>
+https://aws-quickstart.s3.amazonaws.com/quickstart-confluent-kafka/templates/confluent-kafka.template
 
 ## Kafka confluent single node client setup
 
-<https://docs.confluent.io/current/installation/docker/docs/installation/single-node-client.html>
+https://docs.confluent.io/current/installation/docker/docs/installation/single-node-client.html
 
 ```bash
 ## Create docker network
@@ -88,7 +88,7 @@ docker run -d
 -e CONTROL_CENTER_MONITORING_INTERCEPTOR_TOPIC_PARTITIONS=1
 -e CONTROL_CENTER_INTERNAL_TOPICS_PARTITIONS=1
 -e CONTROL_CENTER_STREAMS_NUM_STREAM_THREADS=2
--e CONTROL_CENTER_CONNECT_CLUSTER=<http://kafka-connect:8082>
+-e CONTROL_CENTER_CONNECT_CLUSTER=http://kafka-connect:8082
 confluentinc/cp-enterprise-control-center:5.1.0
 
 ## Create data
@@ -189,7 +189,7 @@ sh /usr/local/Cellar/kafka/2.0.0/bin/kafka-console-consumer --bootstrap-server l
 bin/kafka-console-consumer.sh --bootstrap-server localhost:9092 --topic test --from-beginning
 
 ## RPI
-wget <http://mirrordirector.raspbian.org/raspbian/pool/main/libr/librdkafka/librdkafka-dev_0.9.3-1_armhf.deb>
+wget http://mirrordirector.raspbian.org/raspbian/pool/main/libr/librdkafka/librdkafka-dev_0.9.3-1_armhf.deb
 
 sudo dpkg -i librdkafka-dev_0.9.3-1_armhf.deb
 
@@ -312,6 +312,6 @@ cd /usr/bin
 /var/lib/kafka/data-0/kafka-log0/
 ```
 
-<https://kafka.apache.org/quickstart>
+https://kafka.apache.org/quickstart
 
-<https://gist.github.com/sam95/d7aed31770883bd272728ad0483629d4>
+https://gist.github.com/sam95/d7aed31770883bd272728ad0483629d4

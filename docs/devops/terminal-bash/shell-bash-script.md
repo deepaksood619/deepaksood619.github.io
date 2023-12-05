@@ -31,7 +31,7 @@ $? - Most recent exit code
 $@ and $* - All the args
 ```
 
-<https://dev.to/rpalo/handling-arguments-in-bash-scripts-3o5m>
+https://dev.to/rpalo/handling-arguments-in-bash-scripts-3o5m
 
 ### Loops
 
@@ -112,8 +112,8 @@ find . -type f | grep -v "media" | sed 's|\(.*/\)[^A-Z]*\([A-Z].*\)|mv \"&\" \"\
 
 ## References
 
-<https://en.wikipedia.org/wiki/Shell_script>
+https://en.wikipedia.org/wiki/Shell_script
 
-<https://www.shellscript.sh>
+https://www.shellscript.sh
 
-<https://www.shellscript.sh/loops.html>
+https://www.shellscript.sh/loops.html

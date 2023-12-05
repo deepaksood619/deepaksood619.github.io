@@ -61,10 +61,10 @@ The core idea of GitOps is having a Git repository that always contains declarat
 
 Git is the single source of truth for the desired state of a system
 
-<https://devops.com/an-inside-look-at-gitops>
+https://devops.com/an-inside-look-at-gitops
 
 [https://www.gitops.tech](https://www.gitops.tech/)
 
 ## References
 
-<https://www.toptal.com/devops/bridging-gaps-devops-communication>
+https://www.toptal.com/devops/bridging-gaps-devops-communication

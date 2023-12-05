@@ -138,9 +138,9 @@ Tables cannot have multi-valued dependencies on a Primary Key.
 
 A composite key shouldn't have any cyclic dependencies.
 
-<https://www.w3schools.in/dbms/database-normalization>
+https://www.w3schools.in/dbms/database-normalization
 
-<http://www.bkent.net/Doc/simple5.htm>
+http://www.bkent.net/Doc/simple5.htm
 
 ## Denormalization
 
@@ -157,4 +157,4 @@ The main purpose of denormalization is to **significantly speed up data retrieva
 - Repeating a single detail with its master
 - Adding short-circuit keys
 
-<https://rubygarage.org/blog/database-denormalization-with-examples>
+https://rubygarage.org/blog/database-denormalization-with-examples

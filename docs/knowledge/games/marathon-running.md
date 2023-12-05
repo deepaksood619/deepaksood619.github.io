@@ -1,6 +1,6 @@
 # Marathon / Running
 
-<https://www.youtube.com/watch?v=b-iGZPtWXzE>
+https://www.youtube.com/watch?v=b-iGZPtWXzE
 
 - India Running
 - Coach Ravinder
@@ -26,7 +26,7 @@ VO2 max is measured in milliliters of oxygen used in one minute per kilogram of 
 
 VO2 max should not be confused with the[lactate threshold (LT)](https://www.verywellfit.com/lactate-threshold-training-3120092)testing, which refers to the point during high-intensity exercise where[lactate](https://www.verywellfit.com/lactic-acid-and-performance-3119185)builds up in the muscles faster than it can be removed.
 
-<https://en.wikipedia.org/wiki/VO2_max>
+https://en.wikipedia.org/wiki/VO2_max
 
 ### Techniques
 

@@ -8,7 +8,7 @@ Searching
 
 - Ternary Search
 
-<https://www.hackerearth.com/practice/algorithms/searching/ternary-search/tutorial>
+https://www.hackerearth.com/practice/algorithms/searching/ternary-search/tutorial
 
 - Hash Table
 

@@ -1,6 +1,6 @@
 # Operators
 
-<https://operatorhub.io>
+https://operatorhub.io
 
 ## Operators
 
@@ -50,11 +50,11 @@ The Operator's ecosystem is growing quickly; for instance, it lets you deploy so
 
 Finally, Kubernetes provides a cloud-agnostic application deployment and management. It is so powerful that might lead us to treat cloud providers almost like a commodity, as you will be able to migrate freely between them.
 
-<https://dzone.com/articles/why-kubernetes-operators-are-a-game-changer>
+https://dzone.com/articles/why-kubernetes-operators-are-a-game-changer
 
 ## Custom Resource Definition (CRDs)
 
-Custom Resources/Controllers - <https://kubernetes.io/docs/concepts/extend-kubernetes/api-extension/custom-resources>
+Custom Resources/Controllers - https://kubernetes.io/docs/concepts/extend-kubernetes/api-extension/custom-resources
 
 ## Capabilities
 
@@ -109,28 +109,28 @@ Enable cluster admins to manage Operators on any Kubernetes cluster (dependency 
     - End-to-end data completeness SLA monitoring with Control Center
     - Exposes Prometheus metrics for additional alerting and monitoring
 
-<https://www.confluent.io/blog/introducing-the-confluent-operator-apache-kafka-on-kubernetes>
+https://www.confluent.io/blog/introducing-the-confluent-operator-apache-kafka-on-kubernetes
 
-<https://github.com/krallistic/kafka-operator>
+https://github.com/krallistic/kafka-operator
 
 ## Prometheus Operator
 
-<https://github.com/coreos/prometheus-operator/tree/master/contrib/kube-prometheus>
+https://github.com/coreos/prometheus-operator/tree/master/contrib/kube-prometheus
 
 ## References
 
-<https://github.com/operator-framework>
+https://github.com/operator-framework
 
-<https://coreos.com/operators>
+https://coreos.com/operators
 
-<https://github.com/operator-framework/awesome-operators>
+https://github.com/operator-framework/awesome-operators
 
-<https://cloud.google.com/blog/products/containers-kubernetes/best-practices-for-building-kubernetes-operators-and-stateful-apps>
+https://cloud.google.com/blog/products/containers-kubernetes/best-practices-for-building-kubernetes-operators-and-stateful-apps
 
-<https://github.com/kubernetes-sigs/kubebuilder>
+https://github.com/kubernetes-sigs/kubebuilder
 
-<https://book.kubebuilder.io>
+https://book.kubebuilder.io
 
-<https://codeengineered.com/blog/2018/kubernetes-helm-related-tools>
+https://codeengineered.com/blog/2018/kubernetes-helm-related-tools
 
-<https://medium.com/@cloudark/kubernetes-operators-and-helm-it-takes-two-to-tango-3ff6dcf65619>
+https://medium.com/@cloudark/kubernetes-operators-and-helm-it-takes-two-to-tango-3ff6dcf65619

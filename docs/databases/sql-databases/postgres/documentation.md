@@ -36,7 +36,7 @@
 
 PREPARE TRANSACTION - prepare the current transaction for two-phase commit
 
-<https://www.highgo.ca/2020/01/28/understanding-prepared-transactions-and-handling-the-orphans>
+https://www.highgo.ca/2020/01/28/understanding-prepared-transactions-and-handling-the-orphans
 
 [10. Type Conversion](https://www.postgresql.org/docs/12/typeconv.html)
 
@@ -68,7 +68,7 @@ PREPARE TRANSACTION - prepare the current transaction for two-phase commit
 
 [**13.3.5. Advisory Locks**](https://www.postgresql.org/docs/current/explicit-locking.html#ADVISORY-LOCKS)
 
-<https://www.postgresql.org/docs/current/explicit-locking.html>
+https://www.postgresql.org/docs/current/explicit-locking.html
 
 [Postgres Lock Conflicts](https://postgres-locks.husseinnasser.com/?pgcommand=REFRESH%20MATERIALIZED%20VIEW)
 
@@ -240,4 +240,4 @@ PREPARE TRANSACTION - prepare the current transaction for two-phase commit
 
 [L. Acronyms](https://www.postgresql.org/docs/12/acronyms.html)
 
-<https://www.postgresql.org/docs/current/index.html>
+https://www.postgresql.org/docs/current/index.html

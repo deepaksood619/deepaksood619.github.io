@@ -22,7 +22,7 @@ In [cryptography](https://en.wikipedia.org/wiki/Cryptography), **PBKDF1andPBKDF2
 
 PBKDF2 applies a [pseudorandom function](https://en.wikipedia.org/wiki/Pseudorandom_function), such as [hash-based message authentication code](https://en.wikipedia.org/wiki/Hash-based_message_authentication_code) (HMAC), to the input [password](https://en.wikipedia.org/wiki/Password) or [passphrase](https://en.wikipedia.org/wiki/Passphrase) along with a [salt](https://en.wikipedia.org/wiki/Salt_(cryptography)) value and repeats the process many times to produce aderived key, which can then be used as a [cryptographic key](https://en.wikipedia.org/wiki/Key_(cryptography)) in subsequent operations. The added computational work makes [password cracking](https://en.wikipedia.org/wiki/Password_cracking) much more difficult, and is known as **[key stretching](https://en.wikipedia.org/wiki/Key_stretching).**
 
-<https://en.wikipedia.org/wiki/PBKDF2>
+https://en.wikipedia.org/wiki/PBKDF2
 
 ### Scrypt
 
@@ -46,9 +46,9 @@ Warning - ConcatKDFHash should not be used for password storage.- KBKDF
 
 ### X963KDF
 
-<https://en.wikipedia.org/wiki/Key_derivation_function>
+https://en.wikipedia.org/wiki/Key_derivation_function
 
-<https://cryptography.io/en/latest/hazmat/primitives/key-derivation-functions>
+https://cryptography.io/en/latest/hazmat/primitives/key-derivation-functions
 
 ## Cryptographic Hash Functions
 
@@ -80,7 +80,7 @@ db.session.add(user)
 db.session.commit()
 ```
 
-<https://auth0.com/blog/hashing-in-action-understanding-bcrypt>
+https://auth0.com/blog/hashing-in-action-understanding-bcrypt
 
 - Whirlpool
 - SHA-2
@@ -119,12 +119,12 @@ All three modes allow specification by three parameters that control:
 - memory required
 - degree of parallelism
 
-<https://en.wikipedia.org/wiki/Argon2>
+https://en.wikipedia.org/wiki/Argon2
 
 Performance-wise, a SHA-256 hash is about 20-30% slower to calculate than either MD5 or SHA-1 hashes.
 
 ## References
 
-<https://en.wikipedia.org/wiki/Cryptographic_hash_function>
+https://en.wikipedia.org/wiki/Cryptographic_hash_function
 
-<https://medium.com/analytics-vidhya/password-hashing-pbkdf2-scrypt-bcrypt-and-argon2-e25aaf41598e>
+https://medium.com/analytics-vidhya/password-hashing-pbkdf2-scrypt-bcrypt-and-argon2-e25aaf41598e

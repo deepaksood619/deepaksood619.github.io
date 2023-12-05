@@ -15,9 +15,9 @@ High-level neural network library for deep learning
 
 Can be used to visualize TensorFlow graph, plot quantitative metrics about the execution of the graph, and show additional data like images that pass through it.
 
-<http://projector.tensorflow.org>
+http://projector.tensorflow.org
 
-<https://www.i-programmer.info/news/105/13559.html>
+https://www.i-programmer.info/news/105/13559.html
 
 ## MNIST Architecture
 
@@ -25,11 +25,11 @@ Can be used to visualize TensorFlow graph, plot quantitative metrics about the e
 
 ## Installation
 
-<https://www.tensorflow.org/install/install_mac>
+https://www.tensorflow.org/install/install_mac
 
 ## Getting Started
 
-<https://www.tensorflow.org/get_started/get_started>
+https://www.tensorflow.org/get_started/get_started
 
 ## API
 
@@ -68,13 +68,13 @@ A **computational graph** is a series of TensorFlow operations arranged into a g
   - Non-TensorFlow-based models
 - Is capable of canarying and A/B testing
 
-<https://dzone.com/articles/machine-learning-and-real-time-analytics-in-apache>
+https://dzone.com/articles/machine-learning-and-real-time-analytics-in-apache
 
 ## Tensorflow Extended
 
 TensorFlow Extended (TFX) is an end-to-end platform for deploying production ML pipelines
 
-<https://www.tensorflow.org/tfx>
+https://www.tensorflow.org/tfx
 
 ## Commands
 
@@ -82,12 +82,12 @@ tensorboard --logdir=path/to/log-directory
 
 ## Others
 
-<https://www.toptal.com/python/gradient-descent-in-tensorflow>
+https://www.toptal.com/python/gradient-descent-in-tensorflow
 
-<https://www.youtube.com/watch?v=6g4O5UOH304>
+https://www.youtube.com/watch?v=6g4O5UOH304
 
-<https://www.freecodecamp.org/news/how-to-use-tensorflow-for-computer-vision>
+https://www.freecodecamp.org/news/how-to-use-tensorflow-for-computer-vision
 
 [Intro to Tensorflow](https://www.youtube.com/playlist?list=PL2-dafEMk2A7EEME489DsI468AB0wQsMV)
 
-<https://github.com/tensorflow/models>
+https://github.com/tensorflow/models

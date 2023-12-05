@@ -23,8 +23,8 @@ In many digital circuits and practical problems we need to find expression with 
 
 6. From the groups made in step 5 find the product terms and sum them up for SOP form.
 
-<https://www.geeksforgeeks.org/k-mapkarnaugh-map>
+https://www.geeksforgeeks.org/k-mapkarnaugh-map
 
-<https://en.wikipedia.org/wiki/Karnaugh_map>
+https://en.wikipedia.org/wiki/Karnaugh_map
 
-<https://www.tutorialspoint.com/digital_circuits/digital_circuits_k_map_method.htm>
+https://www.tutorialspoint.com/digital_circuits/digital_circuits_k_map_method.htm

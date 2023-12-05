@@ -12,11 +12,11 @@ You can install Netdata on most Linux distributions (Ubuntu, Debian, CentOS, and
 
 Netdata is designed by system administrators, DevOps engineers, and developers to collect everything, help you visualize metrics, troubleshoot complex performance problems, and make data interoperable with the rest of your monitoring stack.
 
-<https://github.com/netdata/netdata>
+https://github.com/netdata/netdata
 
-<https://www.netdata.cloud>
+https://www.netdata.cloud
 
-<https://my-netdata.io/infographic.html>
+https://my-netdata.io/infographic.html
 
 ## Kube-state-metrics
 
@@ -26,7 +26,7 @@ kube-state-metrics is about generating metrics from Kubernetes API objects witho
 
 The metrics are exported on the HTTP endpoint/metricson the listening port (default 80). They are served as plaintext. They are designed to be consumed either by Prometheus itself or by a scraper that is compatible with scraping a Prometheus client endpoint. You can also open/metricsin a browser to see the raw metrics.
 
-<https://github.com/kubernetes/kube-state-metrics>
+https://github.com/kubernetes/kube-state-metrics
 
 ## cAdvisor (Container Advisor)
 
@@ -36,7 +36,7 @@ cAdvisor (Container Advisor) provides container users an understanding of the re
 
 cAdvisor has native support for [Docker](https://github.com/docker/docker) containers and should support just about any other container type out of the box. We strive for support across the board so feel free to open an issue if that is not the case. cAdvisor's container abstraction is based on [lmctfy](https://github.com/google/lmctfy)'s so containers are inherently nested hierarchically.
 
-<https://github.com/google/cadvisor>
+https://github.com/google/cadvisor
 
 ## Zabbix
 
@@ -46,9 +46,9 @@ Zabbix is an open source monitoring software tool for diverse IT components, inc
 - A Zabbix [agent](https://en.wikipedia.org/wiki/Software_agent) can also be installed on UNIX and Windows hosts to monitor statistics such as CPU load, network utilization, disk space, etc.
 - As an alternative to installing an agent on hosts, Zabbix includes support for monitoring via [SNMP](https://en.wikipedia.org/wiki/Simple_Network_Management_Protocol), [TCP](https://en.wikipedia.org/wiki/Transmission_Control_Protocol) and [ICMP](https://en.wikipedia.org/wiki/Internet_Control_Message_Protocol) checks, as well as over [IPMI](https://en.wikipedia.org/wiki/Intelligent_Platform_Management_Interface), [JMX](https://en.wikipedia.org/wiki/Java_Management_Extensions), [SSH](https://en.wikipedia.org/wiki/Secure_Shell), [Telnet](https://en.wikipedia.org/wiki/Telnet) and using custom parameters. Zabbix supports a variety of near-real-time notification mechanisms, including [XMPP](https://en.wikipedia.org/wiki/Extensible_Messaging_and_Presence_Protocol).
 
-<https://en.wikipedia.org/wiki/Zabbix>
+https://en.wikipedia.org/wiki/Zabbix
 
-<https://www.zabbix.com>
+https://www.zabbix.com
 
 ## Nagios
 
@@ -74,7 +74,7 @@ Nagios [/ˈnɑːɡiːoʊs/](https://en.wikipedia.org/wiki/Help:IPA/English), now
 - Support for database backend (such as [NDOUtils](https://exchange.nagios.org/directory/Addons/Database-Backends/NDOUtils/details))
 - A web-interface for viewing current network status, notifications, problem history, log files, etc.
 
-<https://en.wikipedia.org/wiki/Nagios>
+https://en.wikipedia.org/wiki/Nagios
 
 ## Monit
 
@@ -84,7 +84,7 @@ Monit is a small Open Source utility for managing and monitoring Unix systems. M
 
 M/Monit can monitor and manage distributed computer systems, conduct automatic maintenance and repair and execute meaningful causal actions in error situations.
 
-<https://mmonit.com/monit>
+https://mmonit.com/monit
 
 ## Sentry
 
@@ -122,27 +122,27 @@ VACUUM FULL;
 sentry run cron
 ```
 
-<https://github.com/getsentry/sentry/blob/master/src/sentry/conf/server.py>
+https://github.com/getsentry/sentry/blob/master/src/sentry/conf/server.py
 
-<https://github.com/getsentry/sentry>
+https://github.com/getsentry/sentry
 
-<https://sentry.io/welcome>
+https://sentry.io/welcome
 
-<https://blog.hlab.tech/a-step-by-step-tutorial-on-how-to-monitor-software-errors-in-real-time-using-sentry-in-django-web-applications>
+https://blog.hlab.tech/a-step-by-step-tutorial-on-how-to-monitor-software-errors-in-real-time-using-sentry-in-django-web-applications
 
 [**https://getsentry.github.io/sentry-python/api.html**](https://getsentry.github.io/sentry-python/api.html)
 
-<https://docs.sentry.io/platforms/python>
+https://docs.sentry.io/platforms/python
 
-Android - <https://sentry.io/for/android>
+Android - https://sentry.io/for/android
 
-<https://docs.sentry.io/platforms/javascript/guides/react>
+https://docs.sentry.io/platforms/javascript/guides/react
 
-<https://docs.sentry.io/platforms/android>
+https://docs.sentry.io/platforms/android
 
 ## Others
 
-<https://airbrake.io>
+https://airbrake.io
 
 ## NewRelic
 
@@ -160,7 +160,7 @@ else:
     newrelic.agent.initialize('newrelic.ini', 'production')
 ```
 
-<https://one.nr/0w0ZZO5j>
+https://one.nr/0w0ZZO5j
 
 Query Builder in NewRelic One along with Data Explorer
 
@@ -176,13 +176,13 @@ SELECT count(*) FROM Transaction WHERE httpResponseCode LIKE '5%' SINCE 1 week a
 SELECT count(*) FROM Transaction FACET appName, httpResponseCode, request.uri WHERE httpResponseCode LIKE '5%' SINCE 30 MINUTES AGO LIMIT MAX
 ```
 
-<https://pypi.org/project/newrelic>
+https://pypi.org/project/newrelic
 
-Send error logs (record exception) - <https://docs.newrelic.com/docs/agents/python-agent/python-agent-api/record_exception>
+Send error logs (record exception) - https://docs.newrelic.com/docs/agents/python-agent/python-agent-api/record_exception
 
-<https://discuss.newrelic.com/c/customer-on-boarding/proven-practices-best-practices-guide>
+https://discuss.newrelic.com/c/customer-on-boarding/proven-practices-best-practices-guide
 
-<https://docs.newrelic.com/docs/integrations/kubernetes-integration/kubernetes-events/kubernetes-integration-predefined-alert-policy>
+https://docs.newrelic.com/docs/integrations/kubernetes-integration/kubernetes-events/kubernetes-integration-predefined-alert-policy
 
 ### Data Tables
 
@@ -197,8 +197,8 @@ Send error logs (record exception) - <https://docs.newrelic.com/docs/agents/pyth
 
 ## syslog
 
-<https://docs.docker.com/config/containers/logging/syslog>
+https://docs.docker.com/config/containers/logging/syslog
 
 ## Others
 
-<https://victoriametrics.com/products/open-source>
+https://victoriametrics.com/products/open-source

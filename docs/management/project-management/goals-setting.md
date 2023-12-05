@@ -63,7 +63,7 @@ There are five main reasons why you should plan your days, months, and years
 
 Create a 5-year, 1-year, monthly, and daily plan - in that order
 
-<https://dariusforoux.com/the-life-plan>
+https://dariusforoux.com/the-life-plan
 
 Before you ask, "What should I do today?"
 

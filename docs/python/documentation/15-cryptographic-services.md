@@ -31,21 +31,21 @@ secrets.token_hex(16)
 secrets.token_urlsafe(16)
 ```
 
-<https://docs.python.org/3/library/secrets.html>
+https://docs.python.org/3/library/secrets.html
 
 ## Libraries
 
-<https://github.com/Legrandin/pycryptodome>
+https://github.com/Legrandin/pycryptodome
 
-AES - <https://qvault.io/cryptography/aes-256-cipher-python-cryptography-examples>
+AES - https://qvault.io/cryptography/aes-256-cipher-python-cryptography-examples
 
-<https://github.com/chrissimpkins/crypto>
+https://github.com/chrissimpkins/crypto
 
 ## Fernet
 
-<https://github.com/pyca/cryptography>
+https://github.com/pyca/cryptography
 
-<https://cryptography.io/en/latest>
+https://cryptography.io/en/latest
 
 cryptographyincludes both high level recipes and low level interfaces to common cryptographic algorithms such as symmetric ciphers, message digests, and key derivation functions. For example, to encrypt something withcryptography's high level symmetric encryption recipe:
 
@@ -101,4 +101,4 @@ class IrctcEncryptDecrypt:
         return ct
 ```
 
-<https://medium.com/coinmonks/if-youre-struggling-picking-a-crypto-suite-fernet-may-be-the-answer-95196c0fec4b>
+https://medium.com/coinmonks/if-youre-struggling-picking-a-crypto-suite-fernet-may-be-the-answer-95196c0fec4b

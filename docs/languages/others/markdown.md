@@ -228,22 +228,22 @@ You write markdown with embedded components through JSX. It gets compiled to Jav
 
 MDX allows you to use JSX in your markdown content. You can import components, such as interactive charts or alerts, and embed them within your content. This makes writing long-form content with components a blast.
 
-<https://mdxjs.com>
+https://mdxjs.com
 
 ## Markdown here
 
-<https://github.com/adam-p/markdown-here>
+https://github.com/adam-p/markdown-here
 
 Google Chrome, Firefox, and Thunderbird extension that lets you write email in Markdown and render it before sending.
 
-<https://markdown-here.com>
+https://markdown-here.com
 
 ## Others
 
 [Markdown vs. HTML – What Makes the Most Powerful Notes Editor?](https://www.thebrain.com/blog/markdown-vs-html)
 
-<https://www.markdownguide.org/basic-syntax>
+https://www.markdownguide.org/basic-syntax
 
-<https://markdown-it.github.io>
+https://markdown-it.github.io
 
 [GitHub - igorshubovych/markdownlint-cli: MarkdownLint Command Line Interface](https://github.com/igorshubovych/markdownlint-cli)

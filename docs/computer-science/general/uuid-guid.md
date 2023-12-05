@@ -27,7 +27,7 @@ The canonical 8-4-4-4-12 format string is based on the "record layout" for the 1
 | node                               | 6                  | 12                      | the 48-bit node id                                                                           |
 ![image](../../media/ds-Others-image1.jpg)
 
-<https://tools.ietf.org/html/rfc4122.html>
+https://tools.ietf.org/html/rfc4122.html
 
 ### UUID V1 : Uniqueness
 
@@ -88,7 +88,7 @@ If you actually want your UUID to give some indication of the date and computer 
 
 UUID v5 is normally used only for very specific use cases, when you want to derive a UUID from another piece of information on the fly.
 
-<https://www.sohamkamani.com/uuid-versions-explained>
+https://www.sohamkamani.com/uuid-versions-explained
 
 ### Universally Unique Lexicographically Sortable Identifier (ULID)
 

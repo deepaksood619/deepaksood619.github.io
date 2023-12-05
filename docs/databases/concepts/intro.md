@@ -87,11 +87,11 @@ Example
 
 ## Others
 
-<https://docs.oracle.com/cd/B19306_01/server.102/b14220/toc.htm>
+https://docs.oracle.com/cd/B19306_01/server.102/b14220/toc.htm
 
-<https://medium.com/@rakyll/things-i-wished-more-developers-knew-about-databases-2d0178464f78>
+https://medium.com/@rakyll/things-i-wished-more-developers-knew-about-databases-2d0178464f78
 
-<https://littlekendra.com>
+https://littlekendra.com
 
 [**https://www.freecodecamp.org/news/watch-a-cornell-university-database-course-for-free/**](https://www.freecodecamp.org/news/watch-a-cornell-university-database-course-for-free/)
 

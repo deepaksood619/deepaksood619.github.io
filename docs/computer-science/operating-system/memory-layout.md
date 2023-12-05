@@ -56,4 +56,4 @@ Heap is the segment where dynamic memory allocation usually takes place.
 
 The heap area begins at the end of the BSS segment and grows to larger addresses from there.The Heap area is managed by malloc, realloc, and free, which may use the brk and sbrk system calls to adjust its size (note that the use of brk/sbrk and a single "heap area" is not required to fulfill the contract of malloc/realloc/free; they may also be implemented using mmap to reserve potentially non-contiguous regions of virtual memory into the process' virtual address space). The Heap area is shared by all shared libraries and dynamically loaded modules in a process.
 
-<https://www.geeksforgeeks.org/memory-layout-of-c-program>
+https://www.geeksforgeeks.org/memory-layout-of-c-program

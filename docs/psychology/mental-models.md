@@ -48,9 +48,9 @@ The priming effect occurs when an individual's exposure to a certain stimulus su
 - [1.10 Cultural priming](https://en.wikipedia.org/wiki/Priming_(psychology)#Cultural_priming)
 - [1.11 Anti-priming](https://en.wikipedia.org/wiki/Priming_(psychology)#Anti-priming)
 
-<https://thedecisionlab.com/biases/priming>
+https://thedecisionlab.com/biases/priming
 
-<https://en.wikipedia.org/wiki/Priming_(psychology)>
+https://en.wikipedia.org/wiki/Priming_(psychology)
 
 ## Normalization of deviance
 

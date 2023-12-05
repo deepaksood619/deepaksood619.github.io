@@ -1,6 +1,6 @@
 # Tips
 
-<https://en.wikipedia.org/wiki/List_of_mnemonics>
+https://en.wikipedia.org/wiki/List_of_mnemonics
 
 [Why Flashcards Beat Mnemonics for Studying - Scott H Young](https://www.scotthyoung.com/blog/2023/06/06/flashcards-vs-mnemonics/)
 
@@ -84,7 +84,7 @@ Teaching someone the concept is the best way to learn, since you will make mista
 2. **Do the most important things first**
 3. **Reduce the scope, but stick to the schedule.**
 
-<https://jamesclear.com/time-management-tips>
+https://jamesclear.com/time-management-tips
 
 ## Techniques that can help learning
 
@@ -102,7 +102,7 @@ Teaching someone the concept is the best way to learn, since you will make mista
   - Index cards
   - Meaningful groups
 
-<https://kwiklearning.com/kwik-tips/5-leisure-activities-that-are-great-for-your-brain>
+https://kwiklearning.com/kwik-tips/5-leisure-activities-that-are-great-for-your-brain
 
 ## Breathing Exercises
 
@@ -157,7 +157,7 @@ These two perspectives suggest two different approaches you should take:
 12. parlor
 13. parent's room
 
-<https://en.wikipedia.org/wiki/Mnemonic_major_system>
+https://en.wikipedia.org/wiki/Mnemonic_major_system
 
 ## WFH (Work From Home)
 

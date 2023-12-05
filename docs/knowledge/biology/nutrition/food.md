@@ -35,7 +35,7 @@ Recommended Calorie intake - 2800
 
       - Egg Yolk - Vitamin D
 
-     <https://blog.bigbasket.com/2021/06/26/eggs-the-best-superfoods-for-everyone>
+     https://blog.bigbasket.com/2021/06/26/eggs-the-best-superfoods-for-everyone
 
 3. Bananas (Brain)
 4. Walnuts / pistachios / Almonds (Brain)
@@ -123,7 +123,7 @@ Keep 10 almonds soaked in water over-night and eat them as soon as you wake up t
 - In dinner, have 2-3 chappatis along with 1 bowl vegetable, 1 bowl dal, 1 bowl curd or sweet dish
 - Before going off to sleep, have 1 glass of milk with a pinch of turmeric and 1 tablespoon honey in it
 
-<https://www.onlymyhealth.com/how-gain-weight-in-days-1326451658>
+https://www.onlymyhealth.com/how-gain-weight-in-days-1326451658
 
 ## Eating patterns
 
@@ -163,7 +163,7 @@ Keep 10 almonds soaked in water over-night and eat them as soon as you wake up t
 
 - Daikon, White Radish - Mooli
 
-<https://www.healthline.com/nutrition/list-of-vegetables>
+https://www.healthline.com/nutrition/list-of-vegetables
 
 ## Eight principles of low-glycemic eating
 
@@ -183,7 +183,7 @@ Keep 10 almonds soaked in water over-night and eat them as soon as you wake up t
 
 8. Eat slowly and stop when full
 
-<http://hrccatalog.hrrh.on.ca/InmagicGenie/DocumentFolder/healthy%20eating.pdf>
+http://hrccatalog.hrrh.on.ca/InmagicGenie/DocumentFolder/healthy%20eating.pdf
 
 [Fed Up 2014](https://www.youtube.com/watch?v=Y647tNm8nTI)
 

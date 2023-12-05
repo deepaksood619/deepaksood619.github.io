@@ -60,7 +60,7 @@ In this syntax, theUSE INDEXinstructs the queryoptimizer to use one of the named
 
 Notice that when you recommend the indexes to use, the queryoptimizer may either decide to use them or not depending on the query plan that it comes up with.
 
-<https://www.mysqltutorial.org/mysql-index/mysql-use-index>
+https://www.mysqltutorial.org/mysql-index/mysql-use-index
 
 ## Transpose
 

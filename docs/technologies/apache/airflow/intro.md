@@ -48,25 +48,25 @@ The kubernetes executor is introduced in Apache Airflow 1.10.0. The Kubernetes e
   - By storing logs onto a persistent disk, the files are accessible by workers and the webserver. If you don't configure this, the logs will be lost after the worker pods shuts down
   - Another option is to use S3/GCS/etc to store logs
 
-<https://airflow.apache.org/kubernetes.html>
+https://airflow.apache.org/kubernetes.html
 
-<https://medium.com/datareply/airflow-lesser-known-tips-tricks-and-best-practises-cf4d4a90f8f>
+https://medium.com/datareply/airflow-lesser-known-tips-tricks-and-best-practises-cf4d4a90f8f
 
-<https://www.youtube.com/watch?v=VrsVbuo4ENE>
+https://www.youtube.com/watch?v=VrsVbuo4ENE
 
 ## Airflow vs Luigi
 
 ![image](../../../media/Technologies-Apache-Airflow-image1.jpg)
 
-<https://towardsdatascience.com/why-quizlet-chose-apache-airflow-for-executing-data-workflows-3f97d40e9571>
+https://towardsdatascience.com/why-quizlet-chose-apache-airflow-for-executing-data-workflows-3f97d40e9571
 
-<https://github.com/apache/airflow/blob/master/airflow/config_templates/default_airflow.cfg>
+https://github.com/apache/airflow/blob/master/airflow/config_templates/default_airflow.cfg
 
-### Maintainance Task Dags - <https://github.com/teamclairvoyant/airflow-maintenance-dags>
+### Maintainance Task Dags - https://github.com/teamclairvoyant/airflow-maintenance-dags
 
-### Testing - <https://godatadriven.com/blog/testing-and-debugging-apache-airflow>
+### Testing - https://godatadriven.com/blog/testing-and-debugging-apache-airflow
 
-<https://github.com/mumoshu/kube-airflow>
+https://github.com/mumoshu/kube-airflow
 
 ## Airflow 2.0
 
@@ -81,15 +81,15 @@ The kubernetes executor is introduced in Apache Airflow 1.10.0. The Kubernetes e
 - SmartSensor
 - Scheduler HA (Fast follow)
 
-<https://devclass.com/2020/12/21/apache-airflow-2>
+https://devclass.com/2020/12/21/apache-airflow-2
 
-<https://airflow.apache.org/blog/airflow-two-point-oh-is-here>
+https://airflow.apache.org/blog/airflow-two-point-oh-is-here
 
-<https://github.com/apache/airflow/releases?after=upgrade-check%2F1.1.0>
+https://github.com/apache/airflow/releases?after=upgrade-check%2F1.1.0
 
-<https://www.astronomer.io/blog/taskflow-api-in-airflow-2-0>
+https://www.astronomer.io/blog/taskflow-api-in-airflow-2-0
 
-<https://www.youtube.com/playlist?list=PLCi-q9vYo4x-PESoBcXN0tXCMgzh5c_Pj>
+https://www.youtube.com/playlist?list=PLCi-q9vYo4x-PESoBcXN0tXCMgzh5c_Pj
 
 - We have airflow in production, what if the Scheduler goes down?
 - We have many variables used in many DAGs, can we build a tool to manage them?
@@ -100,4 +100,4 @@ The kubernetes executor is introduced in Apache Airflow 1.10.0. The Kubernetes e
 
 ## Debugging
 
-<https://www.astronomer.io/blog/7-common-errors-to-check-when-debugging-airflow-dag>
+https://www.astronomer.io/blog/7-common-errors-to-check-when-debugging-airflow-dag

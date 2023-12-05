@@ -4,9 +4,9 @@
 
 Tornado is a Python web framework and asynchronous networking library. By using non-blocking network I/O, Tornado can scale to tens of thousands of open connections, making it ideal for long polling, WebSockets, and other applications that require a long-lived connection to each user.
 
-<https://github.com/tornadoweb/tornado>
+https://github.com/tornadoweb/tornado
 
-<https://www.tornadoweb.org/en/stable>
+https://www.tornadoweb.org/en/stable
 
 ## Pyramid
 
@@ -14,9 +14,9 @@ The Start Small, Finish Big Stay Finished Framework
 
 Pyramid makes it easy to write web applications. You can **start small** with this "hello world" minimal request/response web app. This may take you far, especially while learning. As your application grows, Pyramid offers many features that make writing complex software take less effort.
 
-<https://trypyramid.com>
+https://trypyramid.com
 
-<https://github.com/Pylons/pyramid>
+https://github.com/Pylons/pyramid
 
 ## Falcon
 
@@ -30,9 +30,9 @@ When it comes to building HTTP APIs, other frameworks weigh you down with tons o
 | Flask (1.0.2)           | 3x          | 5,404       | 185.06     |
 | Django (2.2.1)          | 1x          | 1,790       | 558.60     |
 
-<https://falcon.readthedocs.io/en/stable>
+https://falcon.readthedocs.io/en/stable
 
-<https://github.com/falconry/falcon>
+https://github.com/falconry/falcon
 
 ## Typer
 
@@ -75,7 +75,7 @@ python test.py goodbye Deepak
 python test.py goodbye --formal Deepak
 ```
 
-<https://typer.tiangolo.com>
+https://typer.tiangolo.com
 
 ## Sanic
 
@@ -97,9 +97,9 @@ if __name__ == "__main__":
 
 Sanic is arguably the most popular and most loved async framework in the Python world. It has almost all features that you'd want for your projects - routing, middleware, cookies, versioning, blueprints, class-based views, static files, streaming, sockets, etc. - and what it doesn't offer out of the box - templating, database support, file I/O, queues - can be added as there are just enough async libraries for these as of today.
 
-<https://github.com/huge-success/sanic>
+https://github.com/huge-success/sanic
 
-<https://sanic.readthedocs.io/en/latest>
+https://sanic.readthedocs.io/en/latest
 
 ## Vibora
 

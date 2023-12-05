@@ -44,21 +44,21 @@ brew install go
 
 ## References
 
-<https://www.tutorialspoint.com/go>
+https://www.tutorialspoint.com/go
 
-<https://learnxinyminutes.com/docs/go>
+https://learnxinyminutes.com/docs/go
 
-<https://golang.org/doc/code.html>
+https://golang.org/doc/code.html
 
-<https://productcoalition.com/reasons-why-golang-is-better-than-other-programming-languages-4714082bb1b1>
+https://productcoalition.com/reasons-why-golang-is-better-than-other-programming-languages-4714082bb1b1
 
-<https://www.toptal.com/go/golang-oop-tutorial>
+https://www.toptal.com/go/golang-oop-tutorial
 
-<https://youtu.be/MKkokYpGyTU>
+https://youtu.be/MKkokYpGyTU
 
 [Introduction to Go Programming for beginners](https://www.youtube.com/watch?v=jpKysZwllVw&ab_channel=ThatDevOpsGuy)
 
-<https://www.freecodecamp.org/news/learn-go-by-building-11-projects>
+https://www.freecodecamp.org/news/learn-go-by-building-11-projects
 
 [Writing our own Concurrent Thread safe Queue - YouTube](https://www.youtube.com/watch?v=oYoVx8ZuvTw)
 

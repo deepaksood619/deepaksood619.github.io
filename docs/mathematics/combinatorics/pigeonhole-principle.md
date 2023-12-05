@@ -46,5 +46,5 @@ Therefore the minimum number of students required to ensure department club to b
 
 ### References
 
-- <https://en.wikipedia.org/wiki/Pigeonhole_principle>
-- <https://www.geeksforgeeks.org/discrete-mathematics-the-pigeonhole-principle>
+- https://en.wikipedia.org/wiki/Pigeonhole_principle
+- https://www.geeksforgeeks.org/discrete-mathematics-the-pigeonhole-principle

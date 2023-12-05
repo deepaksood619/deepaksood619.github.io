@@ -232,4 +232,4 @@ Flask uses a concept of *blueprints*for making application components and suppor
   - [Docstrings](https://flask.palletsprojects.com/en/1.1.x/styleguide/#docstrings)
   - [Comments](https://flask.palletsprojects.com/en/1.1.x/styleguide/#comments)
 
-<https://flask.palletsprojects.com/en/1.1.x>
+https://flask.palletsprojects.com/en/1.1.x

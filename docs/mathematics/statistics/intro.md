@@ -49,7 +49,7 @@ The data that you are trying to study can be a phenomenon that you observe over 
 
 In [statistics](https://en.wikipedia.org/wiki/Statistics), regression toward the mean(also calledregression to the mean, reversion to the mean, andreversion to mediocrity) is the phenomenon that arises if a [sample point](https://en.wikipedia.org/wiki/Sample_point) of a [random variable](https://en.wikipedia.org/wiki/Random_variable) is [extreme](https://en.wikipedia.org/wiki/Extreme_value_theory) (nearly an [outlier](https://en.wikipedia.org/wiki/Outlier)), a future point is likely to be closer to the [mean](https://en.wikipedia.org/wiki/Mean) or [average](https://en.wikipedia.org/wiki/Average).To avoid making incorrect [inferences](https://en.wikipedia.org/wiki/Statistical_inference), regression toward the mean must be considered when designing scientific experiments and interpreting data.
 
-<https://en.wikipedia.org/wiki/Regression_toward_the_mean>
+https://en.wikipedia.org/wiki/Regression_toward_the_mean
 
 ## Controlled Experiments
 
@@ -75,23 +75,23 @@ In [statistics](https://en.wikipedia.org/wiki/Statistics), regression toward the
 
 ## Outliers
 
-<https://www.freecodecamp.org/news/what-is-an-outlier-definition-and-how-to-find-outliers-in-statistics>
+https://www.freecodecamp.org/news/what-is-an-outlier-definition-and-how-to-find-outliers-in-statistics
 
 ## Courses
 
-<https://www.youtube.com/watch?v=VPZD_aij8H0>
+https://www.youtube.com/watch?v=VPZD_aij8H0
 
-<https://www.youtube.com/watch?v=xxpc-HPKN28>
+https://www.youtube.com/watch?v=xxpc-HPKN28
 
-<https://www.youtube.com/watch?v=Vfo5le26IhY>
+https://www.youtube.com/watch?v=Vfo5le26IhY
 
 [Statistics 101](https://www.youtube.com/playlist?list=PLUkh9m2BorqmXcRzWFbzcjMd7fYErVexF)
 
-<http://people.stern.nyu.edu/adamodar/New_Home_Page/webcaststatistics.htm>
+http://people.stern.nyu.edu/adamodar/New_Home_Page/webcaststatistics.htm
 
-<https://365datascience.teachable.com/courses/enrolled/233979>
+https://365datascience.teachable.com/courses/enrolled/233979
 
-<https://www.khanacademy.org/math/ap-statistics>
+https://www.khanacademy.org/math/ap-statistics
 
 ## Outline
 
@@ -102,6 +102,6 @@ In [statistics](https://en.wikipedia.org/wiki/Statistics), regression toward the
 
 Abraham Wald and the Missing Bullet Holes
 
-<https://medium.com/@penguinpress/an-excerpt-from-how-not-to-be-wrong-by-jordan-ellenberg-664e708cfc3d>
+https://medium.com/@penguinpress/an-excerpt-from-how-not-to-be-wrong-by-jordan-ellenberg-664e708cfc3d
 
-<https://datascienceprep.com/blog/stat-guide-for-data-science-interviews>
+https://datascienceprep.com/blog/stat-guide-for-data-science-interviews

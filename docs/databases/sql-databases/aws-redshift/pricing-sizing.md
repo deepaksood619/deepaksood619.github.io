@@ -13,7 +13,7 @@ Redshift managed storage uses large, high-performance SSDs in each RA3 node for 
 
 The new managed storage is equally exciting. There's a cache of large-capacity, high-performance SSD-based storage on each instance, backed by [S3](https://aws.amazon.com/s3/), for scale, performance, and durability. The storage system uses multiple cues, including data block temperature, data blockage, and workload patterns, to manage the cache for high performance. Data is automatically placed into the appropriate tier, and you need not do anything special to benefit from the caching or the other optimizations. You pay the same low price for SSD and S3 storage, and you can scale the storage capacity of your data warehouse without adding and paying for additional instances.
 
-<https://docs.aws.amazon.com/redshift/latest/mgmt/working-with-clusters.html#rs-ra3-node-types>
+https://docs.aws.amazon.com/redshift/latest/mgmt/working-with-clusters.html#rs-ra3-node-types
 
 ## DC2 nodes
 
@@ -23,7 +23,7 @@ allow you to have compute-intensive data warehouses with local SSD storage inclu
 
 enable you to create large data warehouses using hard disk drives (HDDs), and we recommend using RA3 nodes instead. If you are using DS2 nodes, see [Overview of RA3 Node Types](https://docs.aws.amazon.com/redshift/latest/mgmt/working-with-clusters.html#rs-ra3-node-types) in the Cluster Management Guide for upgrade guidelines. Customers using eight or more nodes of DS2.xlarge, or any number of DS2.8xlarge nodes, can now upgrade to RA3 and get 2x more storage and better performance for the same on-demand cost.
 
-<https://aws.amazon.com/redshift/pricing>
+https://aws.amazon.com/redshift/pricing
 
 | **vCPU** | **Memory** | **Slices** | **Addressable storage capacity** | **I/O** | **Price** |
 |---|---|---|---|---|---|
@@ -42,7 +42,7 @@ enable you to create large data warehouses using hard disk drives (HDDs), and we
 
 - **50% cheaper**
 - **2x query time**
-<https://medium.com/tensult/how-to-migrate-aws-redshift-dc2-to-ds2-node-cluster-73f320dc57f6>
+https://medium.com/tensult/how-to-migrate-aws-redshift-dc2-to-ds2-node-cluster-73f320dc57f6
 ![image](../../../media/AWS-Redshift_Pricing-Sizing-image1.jpg)
 
 ## Resizing Amazon Redshift

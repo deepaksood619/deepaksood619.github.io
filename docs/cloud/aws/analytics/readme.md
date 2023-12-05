@@ -28,7 +28,7 @@ Work with Real-time Streaming Data
 
 Amazon Kinesis Data Firehose is the easiest way to reliably load streaming data into data lakes, data stores and analytics tools. It can capture, transform, and load streaming data into Amazon S3, Amazon Redshift, Amazon Elasticsearch Service, and [Splunk](https://aws.amazon.com/kinesis/data-firehose/splunk/), enabling near real-time analytics with existing business intelligence tools and dashboards you're already using today. It is a fully managed service that automatically scales to match the throughput of your data and requires no ongoing administration. It can also batch, compress, transform, and encrypt the data before loading it, minimizing the amount of storage used at the destination and increasing security.
 
-<https://aws.amazon.com/kinesis/data-firehose>
+https://aws.amazon.com/kinesis/data-firehose
 
 ### Amazon Redshift
 
@@ -50,7 +50,7 @@ Perpare and Load Data
 
 ## AWS Glue DataBrew
 
-<https://aws.amazon.com/blogs/big-data/enrich-datasets-for-descriptive-analytics-with-aws-glue-databrew>
+https://aws.amazon.com/blogs/big-data/enrich-datasets-for-descriptive-analytics-with-aws-glue-databrew
 
 ### AWS Managed Streaming for Apache Kafka
 
@@ -70,4 +70,4 @@ However, setting up and managing data lakes today involves a lot of manual, comp
 
 Creating a data lake with Lake Formation is as simple as defining data sources and what data access and security policies you want to apply. Lake Formation then helps you collect and catalog data from databases and object storage, move the data into your new [Amazon S3](https://aws.amazon.com/s3/) data lake, clean and classify your data using machine learning algorithms, and secure access to your sensitive data. Your users can access a centralized [data catalog](https://aws.amazon.com/glue/faqs/#AWS_Glue_Data_Catalog/) which describes available data sets and their appropriate usage. Your users then leverage these data sets with their choice of analytics and machine learning services, like [Amazon Redshift](https://aws.amazon.com/redshift/), [Amazon Athena](https://aws.amazon.com/athena/), and (in beta)[Amazon EMR](https://aws.amazon.com/emr/) for Apache Spark. Lake Formation builds on the capabilities available in [AWS Glue](https://aws.amazon.com/glue/).
 
-<https://aws.amazon.com/lake-formation>
+https://aws.amazon.com/lake-formation

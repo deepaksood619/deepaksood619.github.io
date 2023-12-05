@@ -1,8 +1,8 @@
 # Components
 
-<https://material.io/components>
+https://material.io/components
 
-<https://mui.com/getting-started/supported-components>
+https://mui.com/getting-started/supported-components
 
 - Accordion (Legacy Material v1)
 - App bars

@@ -42,7 +42,7 @@ So what happens when we don't get this right? This can occur when you start tell
 
 One footnote worth calling out is that while less experienced team members need more guidance on the solution required, there isalwaysvalue in describing the WHY toeveryone(regardless of tenure or experience). By doing this, you're providing the support that will help that person develop autonomy in the future, as well as generate longer-term buy-in.
 
-<https://medium.com/@ripsher/managing-through-the-why-what-and-how-a5dd657a49b0>
+https://medium.com/@ripsher/managing-through-the-why-what-and-how-a5dd657a49b0
 
 ## Deciding
 

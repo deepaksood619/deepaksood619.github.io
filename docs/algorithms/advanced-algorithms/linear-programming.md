@@ -98,4 +98,4 @@ The quintessential problem-solving model is known as linear programming, and the
 
 ## Others
 
-<https://opensourc.es/blog/simplex>
+https://opensourc.es/blog/simplex

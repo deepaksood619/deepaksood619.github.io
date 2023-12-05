@@ -17,7 +17,7 @@ So in this case the Mixin2class is the base class, extended byMixin1and finally 
 
 ## Ensembles
 
-<https://www.dataquest.io/blog/introduction-to-ensembles>
+https://www.dataquest.io/blog/introduction-to-ensembles
 
 ## Closures
 
@@ -96,7 +96,7 @@ with open('file.txt') as f:
     contents = f.read()
 ```
 
-<https://rednafi.github.io/digressions/python/2020/03/26/python-contextmanager.html>
+https://rednafi.github.io/digressions/python/2020/03/26/python-contextmanager.html
 
 ## tkinter
 
@@ -133,7 +133,7 @@ True + 5
 
 ## Inner Classes
 
-<https://www.datacamp.com/community/tutorials/inner-classes-python>
+https://www.datacamp.com/community/tutorials/inner-classes-python
 
 ## contextvars
 
@@ -141,11 +141,11 @@ This module provides APIs to manage, store, and access context-local state. The 
 
 Context managers that have state should use Context Variables instead of [threading.local()](https://docs.python.org/3/library/threading.html#threading.local) to prevent their state from bleeding to other code unexpectedly, when used in concurrent code.
 
-<https://docs.python.org/3/library/contextvars.html#module-contextvars>
+https://docs.python.org/3/library/contextvars.html#module-contextvars
 
 ## MicroPython
 
-<https://realpython.com/micropython>
+https://realpython.com/micropython
 
 ## Descriptors
 
@@ -160,7 +160,7 @@ __set_name__(self, owner, name)
 
 If your descriptor implements just.**get**(), then it's said to be anon-data descriptor. If it implements.**set**()or.**delete**(), then it's said to be adata descriptor. Note that this difference is not just about the name, but it's also a difference in behavior. That's because data descriptors have precedence during the lookup process
 
-<https://realpython.com/python-descriptors>
+https://realpython.com/python-descriptors
 
 ## ipython
 
@@ -172,7 +172,7 @@ IPython(Interactive Python) is a [command shell](https://en.wikipedia.org/wiki/S
 - Flexible, embeddable interpreters to load into one's own projects.
 - Tools for [parallel computing](https://en.wikipedia.org/wiki/Parallel_computing).
 
-<https://en.wikipedia.org/wiki/IPython>
+https://en.wikipedia.org/wiki/IPython
 
 ## Debugging using IPython.core.debugger set_trace() function
 
@@ -202,16 +202,16 @@ The easiest way to do so is to useimport my_modulesyntax, rather thanfrom my_mod
 
 ## Others
 
-<https://dev.libreneitor.com/expert-python-topics-you-should-know>
+https://dev.libreneitor.com/expert-python-topics-you-should-know
 
-<https://realpython.com/run-python-scripts>
+https://realpython.com/run-python-scripts
 
-<https://realpython.com/storing-images-in-python>
+https://realpython.com/storing-images-in-python
 
-<https://realpython.com/python-coding-interview-tips>
+https://realpython.com/python-coding-interview-tips
 
-<https://www.codementor.io/@arpitbhayani/how-python-implements-super-long-integers-12icwon5vk>
+https://www.codementor.io/@arpitbhayani/how-python-implements-super-long-integers-12icwon5vk
 
-<https://www.toptal.com/python/interview-questions>
+https://www.toptal.com/python/interview-questions
 
 [The Power Of The Plugin Architecture In Python](https://youtu.be/iCE1bDoit9Q)

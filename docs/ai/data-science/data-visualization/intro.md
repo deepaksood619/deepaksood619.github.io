@@ -74,16 +74,16 @@ Comparison of a variable across a map or layout, such as the unemployment rate b
 
 ## Data Visualization Libraries
 
-- Bokeh - <https://docs.bokeh.org/en/latest>
-- <http://kepler.gl>
-- <https://deck.gl>
-- <https://github.com/emeeks/semiotic>
-- Echarts - <https://echarts.baidu.com>
+- Bokeh - https://docs.bokeh.org/en/latest
+- http://kepler.gl
+- https://deck.gl
+- https://github.com/emeeks/semiotic
+- Echarts - https://echarts.baidu.com
 - ggplot2
 
 ggplot2 is a system for declaratively creating graphics, based on [The Grammar of Graphics](http://amzn.to/2ef1eWp). You provide the data, tell ggplot2 how to map variables to aesthetics, what graphical primitives to use, and it takes care of the details.
 
-<https://ggplot2.tidyverse.org>
+https://ggplot2.tidyverse.org
 
 ## When you should request a dashboard
 
@@ -93,14 +93,14 @@ ggplot2 is a system for declaratively creating graphics, based on [The Grammar o
 
 ## References
 
-<https://en.wikipedia.org/wiki/Data_visualization>
+https://en.wikipedia.org/wiki/Data_visualization
 
-<https://pandas.pydata.org/pandas-docs/stable/user_guide/visualization.html>
+https://pandas.pydata.org/pandas-docs/stable/user_guide/visualization.html
 
-Time Series analysis - <https://www.dataquest.io/blog/tutorial-time-series-analysis-pandas>
+Time Series analysis - https://www.dataquest.io/blog/tutorial-time-series-analysis-pandas
 
-<https://www.toptal.com/designers/data-visualization/data-visualization-tools>
+https://www.toptal.com/designers/data-visualization/data-visualization-tools
 
-<https://towardsdatascience.com/8-free-tools-to-make-interactive-data-visualizations-in-2021-no-coding-required-2b2c6c564b5b>
+https://towardsdatascience.com/8-free-tools-to-make-interactive-data-visualizations-in-2021-no-coding-required-2b2c6c564b5b
 
-<https://www.freecodecamp.org/news/learn-data-visualization-in-this-free-17-hour-course>
+https://www.freecodecamp.org/news/learn-data-visualization-in-this-free-17-hour-course

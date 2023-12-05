@@ -1,10 +1,10 @@
 # Returns / Tax / Taxes / ITR
 
-<https://taxbuddy.com>
+https://taxbuddy.com
 
 Tax evasion (punishable) vs tax avoidance (your legitimate right) of saving tax
 
-Tax Consulation - <https://www.charteredclub.com/tax-consultation-with-ca-karan-batra>
+Tax Consulation - https://www.charteredclub.com/tax-consultation-with-ca-karan-batra
 
 Input tax credit
 
@@ -61,7 +61,7 @@ This exercise can be replicated even when you are investing via SIPs in mutual f
 
 if you are not able to set off your entire capital loss in the same year, you can carry forward these losses for up to 8 assessment years.
 
-<https://economictimes.indiatimes.com/wealth/tax/heres-a-trick-to-lower-your-tax-on-capital-gains-from-equity/articleshow/73095582.cms>
+https://economictimes.indiatimes.com/wealth/tax/heres-a-trick-to-lower-your-tax-on-capital-gains-from-equity/articleshow/73095582.cms
 
 [Tax on Stocks, Mutual Funds, Gold and Real Estate | STCG and LTCG | ETMONEY](https://www.youtube.com/watch?v=sYtnOVgdH_I)
 
@@ -74,7 +74,7 @@ if you are not able to set off your entire capital loss in the same year, you ca
 
 [Tax on Equity Mutual Funds in India | Income Taxation on Capital Gains & Dividends](https://www.youtube.com/watch?v=G-DFuEi7NcA)
 
-<https://cleartax.in/s/marginal-relief-surcharge>
+https://cleartax.in/s/marginal-relief-surcharge
 
 10% surcharge for people earning more than 50 lakh (get marginal relief surcharge)
 
@@ -90,11 +90,11 @@ Indexation is a technique to adjust income payments by means of a price index, i
 
 [Cost Inflation Index For FY 2023-24, Index Table, Meaning, Calculation](https://cleartax.in/s/cost-inflation-index)
 
-<https://cleartax.in/s/indexation-helps-reduce-tax-debt-fund-gains>
+https://cleartax.in/s/indexation-helps-reduce-tax-debt-fund-gains
 
-<https://groww.in/blog/indexation-in-mutual-funds-meaningbenefits-and-more>
+https://groww.in/blog/indexation-in-mutual-funds-meaningbenefits-and-more
 
-<https://www.youtube.com/watch?v=KKlsYoSaKAs>
+https://www.youtube.com/watch?v=KKlsYoSaKAs
 
 ### Unrealized Gains / Unrealized Loss / "paper" profits or losses
 
@@ -106,7 +106,7 @@ An unrealized gain is a potential profit that exists on paper, resulting from an
 - Unrealized gains are recorded on the financial statements differently depending on the type of security.
 - Gains do not affect taxes until the investment is sold and a realized gain is recognized.
 
-<https://www.investopedia.com/terms/u/unrealizedgain.asp>
+https://www.investopedia.com/terms/u/unrealizedgain.asp
 
 ## Income Tax
 
@@ -169,7 +169,7 @@ LUT (Letter of Undertaking) - [GST: How to file an LUT?](https://www.thegalactic
 - If they are more than 60 years old, they will also enjoy a higher minimum income exemption limit (Rs.3 lakh for those who have aged above 60 years old and Rs.5 lakh for those who are aged above 80 years old).
 - Individuals paying rent but not receiving house rent allowance can claim a deduction under Section 80GG. Also, the individual, spouse or children should not own a house property in the place of employment, business or location where the individual ordinarily resides for claiming this deduction.
 
-- <https://freefincal.com/tax-benefits-hra-home-loans>
+- https://freefincal.com/tax-benefits-hra-home-loans
 - [Can I pay rent to my parents to save tax?](https://cleartax.in/s/can-i-pay-rent-to-my-parents-to-save-tax)
 - [House Rent Allowance (HRA) - What is House Rent Allowance, HRA Exemption And Tax Deduction](https://cleartax.in/s/hra-house-rent-allowance)
 
@@ -244,7 +244,7 @@ Interest if the loan is taken before 01/04/99 on fully constructed accomodation 
 
 - 13739
 
-<https://economictimes.indiatimes.com/wealth/tax/how-to-claim-lta-from-your-employer/articleshow/66246473.cms?from=mdr>
+https://economictimes.indiatimes.com/wealth/tax/how-to-claim-lta-from-your-employer/articleshow/66246473.cms?from=mdr
 
 Loss from business and profession cannot be set off against income chargeable to tax under the head "Salaries". 8) Loss under the head "house property" shall be allowed to be set-off against any other head of income only to the extent of Rs. 2,00,000 for any assessment year.
 
@@ -266,7 +266,7 @@ Loss from business and profession cannot be set off against income chargeable to
 
 [17 Best Income Tax Saving Schemes & Plans in 2023](https://scripbox.com/tax/tax-saving-options/)
 
-<https://www.etmoney.com/blog/beyond-section-80c-10-ways-to-save-taxes>
+https://www.etmoney.com/blog/beyond-section-80c-10-ways-to-save-taxes
 
 ## ITR
 
@@ -275,11 +275,11 @@ Loss from business and profession cannot be set off against income chargeable to
 3. If in addition to the above, you (or HUF) have income from a business or proprietorship, ITR3
 4. For people having a presumptive business it is ITR4 (no capital gains allowed). This form is for Individuals, HUFs and Firms having income up to Rs 50 lakh and having business income from Business or profession which is computed under the presumptive taxation schemes (sections 44AD, 44ADA or 44AE). Income from Salary, one house property and bank deposits can also be filled in ITR 4.
 
-<https://freefincal.com/which-itr-form-should-i-use>
+https://freefincal.com/which-itr-form-should-i-use
 
 ## Stocks Tax
 
-<https://www.youtube.com/watch?v=nfX-esge_3o>
+https://www.youtube.com/watch?v=nfX-esge_3o
 
 ## Foreign Stocks
 

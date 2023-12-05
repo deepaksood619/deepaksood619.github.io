@@ -75,7 +75,7 @@ Many configurations other than the basic numbered RAID levels are possible, and 
 4. Atomicity: including parity inconsistency due to system crashes
 5. Write-cache reliability
 
-<https://en.wikipedia.org/wiki/RAID>
+https://en.wikipedia.org/wiki/RAID
 
 ## Striping
 
@@ -107,4 +107,4 @@ The parity bits are used to re-create the data at the time of failure. Parity in
 
 The first three disks, labeled D, contain the data. The fourth disk, labeled P, stores the parity information, which in this case is the sum of the elements in each row. Now, if one of the Disks (D) fails, the missing value can be calculated by subtracting the sum of the rest of the elements from the parity value.
 
-<https://www.storagetutorials.com/understanding-concept-striping-mirroring-parity>
+https://www.storagetutorials.com/understanding-concept-striping-mirroring-parity

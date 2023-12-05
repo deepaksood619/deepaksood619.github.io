@@ -129,13 +129,13 @@ Cohen's standard may be used to evaluate the correlation coefficient to determin
 
 In an ordinal scale, the levels of a variable are ordered such that one level can be considered higher/lower than another. However, the magnitude of the difference between levels is not necessarily known. An example would be rank ordering levels of education. A graduate degree is higher than a bachelor's degree, and a bachelor's degree is higher than a high school diploma. However, we cannot quantify how much higher a graduate degree is compared to a bachelor's degree. We also cannot say that the difference in education between a graduate degree and a bachelor's degree is the same as the difference between a bachelor's degree and a high school diploma.
 
-<http://www.statisticssolutions.com/correlation-pearson-kendall-spearman>
+http://www.statisticssolutions.com/correlation-pearson-kendall-spearman
 
-<https://machinelearningmastery.com/how-to-calculate-nonparametric-rank-correlation-in-python>
+https://machinelearningmastery.com/how-to-calculate-nonparametric-rank-correlation-in-python
 
-<https://towardsdatascience.com/clearly-explained-pearson-v-s-spearman-correlation-coefficient-ada2f473b8>
+https://towardsdatascience.com/clearly-explained-pearson-v-s-spearman-correlation-coefficient-ada2f473b8
 
-<https://www.freecodecamp.org/news/what-is-a-correlation-coefficient-r-value-in-statistics-explains>
+https://www.freecodecamp.org/news/what-is-a-correlation-coefficient-r-value-in-statistics-explains
 
 ## Covariance
 

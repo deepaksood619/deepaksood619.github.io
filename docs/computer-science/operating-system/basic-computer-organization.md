@@ -78,7 +78,7 @@
 
 An **ISA** is an abstract model of a [computer](https://en.wikipedia.org/wiki/Computer). It is also referred to as **architecture** or **computer architecture**. A realization of an ISA, such as a [central processing unit](https://en.wikipedia.org/wiki/Central_processing_unit)(CPU), is called an *implementation*.
 
-<https://en.wikipedia.org/wiki/Instruction_set_architecture>
+https://en.wikipedia.org/wiki/Instruction_set_architecture
 Based on where opcode and operand are
 
 - Stack architecture
@@ -105,7 +105,7 @@ MOV EAX,04
 
 - **Register Indirect Addressing**
 - **Indexed Addressing**
-<https://www.i-programmer.info/babbages-bag/150.html>
+https://www.i-programmer.info/babbages-bag/150.html
 
 ## Branch Predictor
 
@@ -140,7 +140,7 @@ Branch prediction is not the same as [branch target prediction](https://en.wikip
 - [1.15 Overriding branch prediction](https://en.wikipedia.org/wiki/Branch_predictor#Overriding_branch_prediction)
 - [1.16 Neural branch prediction](https://en.wikipedia.org/wiki/Branch_predictor#Neural_branch_prediction)
 
-<https://en.wikipedia.org/wiki/Branch_predictor>
+https://en.wikipedia.org/wiki/Branch_predictor
 
 ## Application Binary Interface (ABI)
 
@@ -148,7 +148,7 @@ In [computer software](https://en.wikipedia.org/wiki/Computer_software), anappli
 AnABIdefines how data structures or computational routines are accessed in [machine code](https://en.wikipedia.org/wiki/Machine_code), which is a low-level, hardware-dependent format; in contrast, an [API](https://en.wikipedia.org/wiki/Application_programming_interface) defines this access in [source code](https://en.wikipedia.org/wiki/Source_code), which is a relatively high-level, hardware-independent, often [human-readable](https://en.wikipedia.org/wiki/Human-readable) format. A common aspect of an ABI is the [calling convention](https://en.wikipedia.org/wiki/Calling_convention), which determines how data is provided as input to or read as output from computational routines; examples are the [x86 calling conventions](https://en.wikipedia.org/wiki/X86_calling_conventions).
 Adhering to an ABI (which may or may not be officially standardized) is usually the job of a [compiler](https://en.wikipedia.org/wiki/Compiler), operating system, or library author; however, an application programmer may have to deal with an ABI directly when writing a program in a mix of programming languages, which can be achieved by using [foreign function calls](https://en.wikipedia.org/wiki/Foreign_function_call).
 
-<https://en.wikipedia.org/wiki/Application_binary_interface>
+https://en.wikipedia.org/wiki/Application_binary_interface
 
 ## ELF (Executable and Linkable Format)
 
@@ -174,9 +174,9 @@ Each ELF file is made up of one ELF header, followed by file data. The data can 
 
 ![image](../../media/Basic-Computer-Organization-image11.jpg)
 
-<https://en.wikipedia.org/wiki/Executable_and_Linkable_Format>
+https://en.wikipedia.org/wiki/Executable_and_Linkable_Format
 
-<https://www.thegeekstuff.com/2012/07/elf-object-file-format>
+https://www.thegeekstuff.com/2012/07/elf-object-file-format
 
 ## Von Neumann Architecture
 
@@ -194,7 +194,7 @@ The term "von Neumann architecture" has evolved to mean any [stored-program comp
 
 The design of a von Neumann architecture machine is simpler than a [Harvard architecture](https://en.wikipedia.org/wiki/Harvard_architecture) machine - which is also a stored-program system but has one dedicated set of address and data buses for reading and writing to memory, and another set of address and [data buses](https://en.wikipedia.org/wiki/Memory_bus) to fetch [instructions](https://en.wikipedia.org/wiki/Instruction_fetch).
 
-A stored-program digital computer keeps both [program instructions](https://en.wikipedia.org/wiki/Computer_program) and data in [read--write](https://en.wikipedia.org/wiki/Read%E2%80%93write_memory), [random-access memory](https://en.wikipedia.org/wiki/Random-access_memory)(RAM). Stored-program computers were an advancement over the program-controlled computers of the 1940s, such as the [Colossus](https://en.wikipedia.org/wiki/Colossus_computer) and the [ENIAC](https://en.wikipedia.org/wiki/ENIAC). Those were programmed by setting switches and inserting patch cables to route data and control signals between various functional units. The vast majority of modern computers use the same memory for both data and program instructions, but have [caches](https://en.wikipedia.org/wiki/CPU_cache) between the CPU and memory, and, for the caches closest to the CPU, have separate caches for instructions and data, so that most instruction and data fetches use separate buses ([split cache architecture](<https://en.wikipedia.org/wiki/Modified_Harvard_architecture#Split-cache_(or_almost-von-Neumann>) _architecture)).
+A stored-program digital computer keeps both [program instructions](https://en.wikipedia.org/wiki/Computer_program) and data in [read--write](https://en.wikipedia.org/wiki/Read%E2%80%93write_memory), [random-access memory](https://en.wikipedia.org/wiki/Random-access_memory)(RAM). Stored-program computers were an advancement over the program-controlled computers of the 1940s, such as the [Colossus](https://en.wikipedia.org/wiki/Colossus_computer) and the [ENIAC](https://en.wikipedia.org/wiki/ENIAC). Those were programmed by setting switches and inserting patch cables to route data and control signals between various functional units. The vast majority of modern computers use the same memory for both data and program instructions, but have [caches](https://en.wikipedia.org/wiki/CPU_cache) between the CPU and memory, and, for the caches closest to the CPU, have separate caches for instructions and data, so that most instruction and data fetches use separate buses ([split cache architecture](https://en.wikipedia.org/wiki/Modified_Harvard_architecture#Split-cache_(or_almost-von-Neumann) _architecture)).
 
 Historically there have been 2 types of Computers:
 
@@ -216,6 +216,6 @@ Historically there have been 2 types of Computers:
 
 6. **Instruction Buffer Register (IBR):**The instruction that is not to be executed immediately is placed in the instruction buffer register IBR
 
-<https://en.wikipedia.org/wiki/Von_Neumann_architecture>
+https://en.wikipedia.org/wiki/Von_Neumann_architecture
 
-<https://www.geeksforgeeks.org/computer-organization-von-neumann-architecture>
+https://www.geeksforgeeks.org/computer-organization-von-neumann-architecture

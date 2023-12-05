@@ -46,12 +46,12 @@ Ubuntu/Alpine
 
 Alpine Linux is a security-oriented, lightweight Linux distribution based on musl libc and busybox.
 
-<https://hub.docker.com/_/alpine>
+https://hub.docker.com/_/alpine
 
 [Why I Will Never Use Alpine Linux Ever Again | Martin Heinz | Personal Website & Blog](https://martinheinz.dev/blog/92)
 
 ## References
 
-<https://docs.docker.com/engine/docker-overview/#the-underlying-technology>
+https://docs.docker.com/engine/docker-overview/#the-underlying-technology
 
-<https://dev.to/frosnerd/docker-demystified-27kl>
+https://dev.to/frosnerd/docker-demystified-27kl

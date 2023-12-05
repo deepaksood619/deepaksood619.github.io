@@ -20,11 +20,11 @@ Resource quotas work like this:
 
 kubectl create quota myrq --hard=cpu=1, memory=1G, pods=2 --dry-run -o yaml
 
-<https://kubernetes.io/docs/concepts/policy/resource-quotas>
+https://kubernetes.io/docs/concepts/policy/resource-quotas
 
-<https://kubernetes.io/docs/tasks/administer-cluster/manage-resources/quota-memory-cpu-namespace>
+https://kubernetes.io/docs/tasks/administer-cluster/manage-resources/quota-memory-cpu-namespace
 
-<https://kubernetes.io/docs/tasks/administer-cluster/manage-resources/memory-default-namespace>
+https://kubernetes.io/docs/tasks/administer-cluster/manage-resources/memory-default-namespace
 
 ## apiVersion: v1
 
@@ -56,7 +56,7 @@ kubectl create quota myrq --hard=cpu=1, memory=1G, pods=2 --dry-run -o yaml
 
 ![image](../../../media/DevOps-Kubernetes-Policies-image1.jpg)
 
-<https://kubernetes.io/docs/reference/access-authn-authz/controlling-access>
+https://kubernetes.io/docs/reference/access-authn-authz/controlling-access
 
 1. **Authentication**
 
@@ -80,7 +80,7 @@ The type of authentication used is defined in thekube-apiserverstartup options. 
 
 One or more Authenticator Modules are used: x509 Client Certs;static token, bearer or bootstrap token; static password file; service account and OpenID connect tokens. Each is tried until successful, and the order is not guaranteed.Anonymous access can also be enabled, otherwise you will get a 401 response. Users are not created by the API, and should be managed by an external system.
 
-<https://kubernetes.io/docs/reference/access-authn-authz/authentication>
+https://kubernetes.io/docs/reference/access-authn-authz/authentication
 
 2. **Authorization**
 
@@ -201,7 +201,7 @@ NAME READY STATUS RESTARTS AGE
 
 nginx 0/1 container has runAsNonRoot and image will run as root 0 10s
 
-<https://kubernetes.io/docs/tasks/configure-pod-container/security-context>
+https://kubernetes.io/docs/tasks/configure-pod-container/security-context
 
 ## Pod Security Policies (PSP)
 
@@ -211,7 +211,7 @@ APod Security Policyis a cluster-level resource that controls security sensitive
 
 To automate the enforcement of security contexts, you can define [PodSecurityPolicies](https://kubernetes.io/docs/concepts/policy/pod-security-policy/)(PSP). A PSP is defined via a standard Kubernetes manifest following the PSP API schema. An example is presented below.
 
-<https://kubernetes.io/docs/concepts/policy/pod-security-policy>
+https://kubernetes.io/docs/concepts/policy/pod-security-policy
 
 A policy to limit the ability of pods to elevate permissions or modify the node upon which they are scheduled. This wide-ranging limitation may prevent a pod from operating properly. The use of PSPs may be replaced by**Open Policy Agent(OPA)** in the future.
 
@@ -253,9 +253,9 @@ fsGroup:
 
 For Pod Security Policies to be enabled, you need to configure the admission controller of the controller-manager to containPodSecurityPolicy. These policies make even more sense when coupled with theRBAC configuration in your cluster. This will allow you to finely tunewhat your users are allowed to run and what capabilities and low level privileges their containers will have.
 
-<https://www.openpolicyagent.org>
+https://www.openpolicyagent.org
 
-<https://github.com/open-policy-agent/opa>
+https://github.com/open-policy-agent/opa
 
 ## Network Policies
 
@@ -364,4 +364,4 @@ policyTypes:
 
 - Ingress
 
-<https://kubernetes.io/docs/concepts/services-networking/network-policies>
+https://kubernetes.io/docs/concepts/services-networking/network-policies

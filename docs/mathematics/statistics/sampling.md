@@ -97,4 +97,4 @@ Stratified sampling is divided into two categories, which are:
 
 - **Proportionate stratified random sampling**
 - **Disproportionate stratified random sampling**
-<https://www.freecodecamp.org/news/what-is-stratified-random-sampling-definition-and-python-example>
+https://www.freecodecamp.org/news/what-is-stratified-random-sampling-definition-and-python-example

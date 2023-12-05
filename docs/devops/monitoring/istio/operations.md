@@ -16,7 +16,7 @@ Make sure your load balancer configuration forwards to all your worker nodes. Th
 - Mount the secret volumes in theingressgateway.
 - Configure theGatewayto use the newly created secrets.
 
-<https://blog.jayway.com/2018/10/22/understanding-istio-ingress-gateway-in-kubernetes>
+https://blog.jayway.com/2018/10/22/understanding-istio-ingress-gateway-in-kubernetes
 
 ## Deployment
 
@@ -70,7 +70,7 @@ All combinations are possible, although some are more common than others and som
 - Namespace tenancy
 - Cluster tenancy
 
-<https://istio.io/docs/ops/deployment/deployment-models>
+https://istio.io/docs/ops/deployment/deployment-models
 
 ## Integrations
 
@@ -79,7 +79,7 @@ All combinations are possible, although some are more common than others and som
 
 [cert-manager](https://cert-manager.io/) is a tool that automates certificate management. This can be integrated with Istio gateways to manage TLS certificates.
 
-<https://istio.io/docs/ops/integrations/certmanager>
+https://istio.io/docs/ops/integrations/certmanager
 
 - Grafana
   - [Mesh Dashboard](https://grafana.com/grafana/dashboards/7639) provides an overview of all services in the mesh.
@@ -97,4 +97,4 @@ Provides metrics about requests and responses for each individual workload withi
 - [Performance Dashboard](https://grafana.com/grafana/dashboards/11829) monitors the resource usage of the mesh.
 - [Control Plane Dashboard](https://grafana.com/grafana/dashboards/7645) monitors the health and performance of the control plane.
 
-<https://istio.io/docs/ops/integrations/grafana>
+https://istio.io/docs/ops/integrations/grafana

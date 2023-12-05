@@ -13,7 +13,7 @@
 - Low Power Wide Area Network (LPWAN)
 - LoRa Network Protocol (Long Range)
 
-<https://www.postscapes.com/long-range-wireless-iot-protocol-lora>
+https://www.postscapes.com/long-range-wireless-iot-protocol-lora
 
 ## P2PLoc for Group-Motion Applications
 
@@ -32,14 +32,14 @@ Managing Energy Consumption as an Architectural Quality Attribute -- Computing E
 
 ## IoT with Kafka
 
-<https://dzone.com/articles/iot-live-demo-100000-connected-cars-with-kubernete>
+https://dzone.com/articles/iot-live-demo-100000-connected-cars-with-kubernete
 
 ## Others
 
-<https://github.com/home-assistant/core>
+https://github.com/home-assistant/core
 
-<https://www.home-assistant.io>
+https://www.home-assistant.io
 
-<https://developers.home.google.com/matter>
+https://developers.home.google.com/matter
 
 [Search Engine for the Internet of Everything](https://www.shodan.io/)

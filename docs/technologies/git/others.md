@@ -18,7 +18,7 @@ git add file.psd
 git commit -m "Add design file"
 git push origin master
 
-<https://git-lfs.github.com>
+https://git-lfs.github.com
 
 ## Git Hooks
 
@@ -63,33 +63,33 @@ Here's a full list of hooks you can attach scripts to:
 
 OpenGrok is a fast and usable source code search and cross reference engine. It helps you search, cross-reference and navigate your source tree. It understands various program file formats and history from many Source Code Management systems. In other words it lets you *grok*(profoundly understand) source code and is developed in the open, hence the name OpenGrok. It is written in Java.
 
-<https://oracle.github.io/opengrok>
+https://oracle.github.io/opengrok
 
 ## Multi-Repo / MonoRepo
 
 A monorepo is a unified codebase containing code for multiple projects that share underlying dependencies, data models, functionality, tooling and processes
 
-<https://www.freecodecamp.org/news/monorepo-essentials>
+https://www.freecodecamp.org/news/monorepo-essentials
 
 [Python Monorepos: What, Why and How](https://www.youtube.com/watch?v=1qurVKSYVqY)
 
 ## Games
 
-<https://github.com/git-game/git-game>
+https://github.com/git-game/git-game
 
-<https://github.com/git-game/git-game-v2>
+https://github.com/git-game/git-game-v2
 
-<https://github.com/Gazler/githug>
+https://github.com/Gazler/githug
 
-<https://github.com/deepaksood619/GitGames>
+https://github.com/deepaksood619/GitGames
 
 ## .gitignore
 
-<https://github.com/github/gitignore>
+https://github.com/github/gitignore
 
 ## Git Repo
 
-<https://code.google.com/archive/p/git-repo>
+https://code.google.com/archive/p/git-repo
 
 ## Gerrit
 
@@ -99,11 +99,11 @@ Gerrit provides web based code review and repository management for the [Git](ht
 
 A command-line tool that makes git easier to use with GitHub.
 
-<https://hub.github.com>
+https://hub.github.com
 
 ## Perforce
 
-<https://www.perforce.com>
+https://www.perforce.com
 
 ## GUI Clients
 
@@ -114,15 +114,15 @@ A command-line tool that makes git easier to use with GitHub.
 
 ## Github Marketplace
 
-- <https://github.com/marketplace>
+- https://github.com/marketplace
 
 ## Language Clients
 
-- Python - <https://github.com/gitpython-developers/GitPython>
+- Python - https://github.com/gitpython-developers/GitPython
 
 ## Gitlab
 
-<https://docs.gitlab.com/ee/user/markdown.html#wiki-specific-markdown>
+https://docs.gitlab.com/ee/user/markdown.html#wiki-specific-markdown
 
 ## Others
 

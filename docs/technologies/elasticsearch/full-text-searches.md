@@ -24,11 +24,11 @@ Facets correspond to properties of the information elements. They are often deri
 
 ![image](../../media/Technologies-Elasticsearch-Full-Text-Searches-image1.jpg)
 
-<https://en.wikipedia.org/wiki/Faceted_search>
+https://en.wikipedia.org/wiki/Faceted_search
 
-<https://www.enterprisedb.com/postgres-tutorials/how-implement-faceted-search-django-and-postgresql>
+https://www.enterprisedb.com/postgres-tutorials/how-implement-faceted-search-django-and-postgresql
 
-<https://django-haystack.readthedocs.io/en/v2.4.1/faceting.html>
+https://django-haystack.readthedocs.io/en/v2.4.1/faceting.html
 
 ## Omni Search
 
@@ -94,7 +94,7 @@ Here's when the fun starts! Results can be shown in 3 basic formats:
 - result summary - a full page showing the main results for each entity
 - all results - all of the results of a specific entity
 
-<https://uxdesign.cc/designing-an-omni-search-29c6cb6ec3f7>
+https://uxdesign.cc/designing-an-omni-search-29c6cb6ec3f7
 
 ## Zero Click Search
 
@@ -108,8 +108,8 @@ Here's when the fun starts! Results can be shown in 3 basic formats:
 
 ![image](../../media/Technologies-Elasticsearch-Full-Text-Searches-image4.jpg)
 
-<https://github.com/deepset-ai/haystack>
+https://github.com/deepset-ai/haystack
 
 ## Tools
 
-<https://www.algolia.com>
+https://www.algolia.com

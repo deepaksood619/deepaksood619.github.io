@@ -1,6 +1,6 @@
 # Intro
 
-<https://www.tutorialspoint.com/numpy/index.htm>
+https://www.tutorialspoint.com/numpy/index.htm
 
 NumPy, which stands for Numerical Python, is a library consisting of multidimensional array objects and a collection of routines for processing those arrays. Using NumPy, mathematical and logical operations on arrays can be performed.
 
@@ -53,7 +53,7 @@ print numpy.prod(my_array) #Output : 24
 
 ## Speeding up your code
 
-<https://m.youtube.com/watch?v=EEUXKG97YRw>
+https://m.youtube.com/watch?v=EEUXKG97YRw
 
 1. Use NumPy's ufuncs
 2. Use NumPy's aggregations
@@ -72,6 +72,6 @@ axis = 0 is meant for reading rows, axis = 1 is meant for reading columns
 
 ## References
 
-<https://www.tutorialspoint.com/numpy/index.htm>
+https://www.tutorialspoint.com/numpy/index.htm
 
-<https://www.freecodecamp.org/news/numpy-python-tutorial>
+https://www.freecodecamp.org/news/numpy-python-tutorial

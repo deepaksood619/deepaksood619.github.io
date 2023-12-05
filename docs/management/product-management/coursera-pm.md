@@ -1,6 +1,6 @@
 # Coursera - PM
 
-<https://www.coursera.org/specializations/real-world-product-management>
+https://www.coursera.org/specializations/real-world-product-management
 
 ## Applied Learning Project
 
@@ -39,7 +39,7 @@ Bring your own product or idea as we:
 
 ![image](../../media/Product-Management_Coursera-PM-image1.jpg)
 
-<http://growth.eladgil.com/book/introduction/welcome-to-the-high-growth-handbook>
+http://growth.eladgil.com/book/introduction/welcome-to-the-high-growth-handbook
 
 ## What Do Product Managers Do?
 
@@ -122,11 +122,11 @@ Associate product managers (APMs) / Rotational Product Managers (RPMs)
 
 [Acing the Product Management Interview](https://www.coursera.org/learn/acing-product-management-interviews)
 
-<https://www.coursera.org/professional-certificates/google-project-management>
+https://www.coursera.org/professional-certificates/google-project-management
 
-<https://www.coursera.org/specializations/uva-darden-digital-product-management>
+https://www.coursera.org/specializations/uva-darden-digital-product-management
 
-<https://www.coursera.org/specializations/product-management>
+https://www.coursera.org/specializations/product-management
 
 ## 6 Month Product MBA
 

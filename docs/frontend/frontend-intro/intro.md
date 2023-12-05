@@ -6,7 +6,7 @@ The HTTP protocol is one of the most important protocols for smooth communicatio
 
 This read-only interface property provides access to the Document's local storage object, the stored data is stored across browser sessions. Similar to sessionStorage, except that localStorage data gets cleared when the page session ends -- that is when the page is closed. It is cleared when the last "private" tab of a browser is closed (localStorage data for a document loaded in a private browsing or incognito session).
 
-DOMStrings are storage formats that use UTF-16 to encode data, which uses two bytes per character. Strings are automatically generated from integer keys just as they are for objects. The data stored in LocalStorage is specific to a protocol in the document. If the site is loaded over HTTP (e.g., <http://example.com>), localStorage returns a different object than if it is loaded over HTTPS (e.g., <https://abc.com>).
+DOMStrings are storage formats that use UTF-16 to encode data, which uses two bytes per character. Strings are automatically generated from integer keys just as they are for objects. The data stored in LocalStorage is specific to a protocol in the document. If the site is loaded over HTTP (e.g., http://example.com), localStorage returns a different object than if it is loaded over HTTPS (e.g., https://abc.com).
 
 If a document is loaded from a file: URL (that is, directly from the user's local file system instead of being loaded from the server) the requirements for behavior are undefined and may vary among different browsers. Each file appears to be returned a different object by localStorage in all current browsers: URL. Essentially, it seems to be a case of each URL: file having its own unique local storage area.
 
@@ -36,7 +36,7 @@ Session Storage objects can be accessed using the sessionStorage read-only prope
 
 A unique page session gets created once a document is loaded in a browser tab. Page sessions are valid for only one tab at a time. Pages are only saved for the amount of time that the tab or the browser is open; they do not persist after the page reloads and restores. A new session is created each time a tab or window is opened; this is different from session cookies. Each tab/window that is opened with the same URL creates its own sessionStorage.When you duplicate a tab, the sessionStorage from the original tab is copied to the duplicated tab. Closing a window/tab ends the session and clears sessionStorage objects.
 
-A page's protocol determines what data is stored in sessionStorage. Particularly, data stored by scripts accessed through HTTP (for example, <http://abc.com>) is stored in a separate object from the same site accessed through HTTPS (for instance, <https://abc.com>). A DOMString number is two bytes per character in UTF-16 DOMString format. Strings are automatically generated from integer keys just as they are for objects.
+A page's protocol determines what data is stored in sessionStorage. Particularly, data stored by scripts accessed through HTTP (for example, http://abc.com) is stored in a separate object from the same site accessed through HTTPS (for instance, https://abc.com). A DOMString number is two bytes per character in UTF-16 DOMString format. Strings are automatically generated from integer keys just as they are for objects.
 
 Session Storage has 4 methods
 
@@ -72,7 +72,7 @@ When cookies were first developed, they were used to better the developer's expe
 
 ![image](../../media/frontend-Intro-image1.jpg)
 
-<https://www.geeksforgeeks.org/difference-between-local-storage-session-storage-and-cookies>
+https://www.geeksforgeeks.org/difference-between-local-storage-session-storage-and-cookies
 
 ## localStorage vs sessionStorage
 

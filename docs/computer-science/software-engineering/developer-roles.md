@@ -48,7 +48,7 @@
 
 ## Non Functional Requirements
 
-<https://en.wikipedia.org/wiki/Non-functional_requirement>
+https://en.wikipedia.org/wiki/Non-functional_requirement
 
 ![image](../../media/Software-Coding-Development-Engineering-image5.jpg)
 

@@ -1,6 +1,6 @@
 # Basic
 
-<https://medium.freecodecamp.org/the-definitive-javascript-handbook-for-a-developer-interview-44ffc6aeb54e>
+https://medium.freecodecamp.org/the-definitive-javascript-handbook-for-a-developer-interview-44ffc6aeb54e
 
 ## Datatypes
 
@@ -661,17 +661,17 @@ console.log(rest);
 // expected output: Array [30,40,50]
 ```
 
-<https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Destructuring_assignment>
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Destructuring_assignment
 
-<https://www.freecodecamp.org/news/array-vs-object-destructuring-in-javascript>
+https://www.freecodecamp.org/news/array-vs-object-destructuring-in-javascript
 
 ## Spread Syntax
 
 Spread syntax(...) allows an iterable such as an array expression or string to be expanded in places where zero or more arguments (for function calls) or elements (for array literals) are expected, or an object expression to be expanded in places where zero or more key-value pairs (for object literals) are expected.
 
-<https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Spread_syntax>
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Spread_syntax
 
-<https://www.freecodecamp.org/news/javascript-object-destructuring-spread-operator-rest-parameter>
+https://www.freecodecamp.org/news/javascript-object-destructuring-spread-operator-rest-parameter
 
 - Object destructuring is new syntax introduced in ES6. It helps create variables by extracting the object's properties in a much simpler way.
 - If you are working with (or planning to use) a framework/library likeangular, react, orvue, you will be using a lot of object destructuring syntax.
@@ -681,4 +681,4 @@ Spread syntax(...) allows an iterable such as an array expression or string to b
 
 ## Others
 
-<https://stackoverflow.com/questions/500504/why-is-using-for-in-with-array-iteration-a-bad-idea>
+https://stackoverflow.com/questions/500504/why-is-using-for-in-with-array-iteration-a-bad-idea

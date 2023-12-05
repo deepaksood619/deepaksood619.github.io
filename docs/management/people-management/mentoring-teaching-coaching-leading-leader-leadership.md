@@ -30,7 +30,7 @@ The best way to encourage radical candor is to be open to it youself - demonstra
 - Responsibility - We have a problem. Can I help solve it?
 - Initiative - We have a problem. Here's how I'm solving it
 
-## Principles - <https://www.amazon.jobs/en/principles>
+## Principles - https://www.amazon.jobs/en/principles
 
 - [What is mentoring?](https://blog-pragmaticengineer-com.cdn.ampproject.org/v/s/blog.pragmaticengineer.com/developers-mentoring-other-developers/amp/?amp_js_v=0.1#what-is-mentoring)
 
@@ -48,7 +48,7 @@ Mentorship is a learning relationship between an experienced person and someone 
 - [The best engineers are great mentors](https://blog-pragmaticengineer-com.cdn.ampproject.org/v/s/blog.pragmaticengineer.com/developers-mentoring-other-developers/amp/?amp_js_v=0.1#the-best-engineers-are-great-mentors)
 - [Closing quotes from mentors who are engineers](https://blog-pragmaticengineer-com.cdn.ampproject.org/v/s/blog.pragmaticengineer.com/developers-mentoring-other-developers/amp/?amp_js_v=0.1#closing-quotes-from-mentors-who-are-engineers)
 
-<https://blog.pragmaticengineer.com/developers-mentoring-other-developers>
+https://blog.pragmaticengineer.com/developers-mentoring-other-developers
 
 To inspire better conversations with your manager, direct reports, and team next year, here are the most asked meeting questions from Soapbox communities in 2020:
 
@@ -86,7 +86,7 @@ Good business leaders create a vision, articulate the vision, passionately own t
 - Strong Communicators
 - Lead by example
 
-<https://deepstash.com/article/3226/7-leadership-qualities-and-characteristics-of-good-leaders--brian-tracy>
+https://deepstash.com/article/3226/7-leadership-qualities-and-characteristics-of-good-leaders--brian-tracy
 
 - No Heroes
 - Live as a team and die as a team
@@ -117,7 +117,7 @@ Good business leaders create a vision, articulate the vision, passionately own t
 - The small changes can involve quality control, just-in-time delivery, standardized work, the use of efficient equipment, and the elimination of waste.
 - Changes can come from any employee anytime and don't have to happen slowly, where kaizen merely recognizes that small changes now can have big future impacts.
 
-<https://www.investopedia.com/terms/k/kaizen.asp>
+https://www.investopedia.com/terms/k/kaizen.asp
 
 ## A brief guide to leadership
 
@@ -159,7 +159,7 @@ Trillion dollar coach - Bill Campbell
 
 ## STAR Method
 
-<https://theinterviewguys.com/star-method>
+https://theinterviewguys.com/star-method
 
 ## Situation
 
@@ -177,7 +177,7 @@ Result:
 
 This is where you get to be introspective. Share what the **outcome of the situation was** and how you specifically **contributed to that outcome.** What did you accomplish? What did you learn? What were the results of your actions?
 
-<https://theinterviewguys.com/tailoring-method>
+https://theinterviewguys.com/tailoring-method
 
 Trust - [The advice that changed my life!](https://www.youtube.com/watch?v=ggVrFEzCfZI&ab_channel=warikoo)
 
@@ -190,7 +190,7 @@ Trust - [The advice that changed my life!](https://www.youtube.com/watch?v=ggVrF
 
 ## Tools
 
-<https://seekwise.org>
+https://seekwise.org
 
 ## Others
 

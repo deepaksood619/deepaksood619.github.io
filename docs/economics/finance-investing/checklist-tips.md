@@ -330,7 +330,7 @@ Example - is the stock good invert to why is this stock not good
 - Mind your emotions
 - Long term works best
 
-<https://freefincal.com/10-financial-lessons-from-10-years-of-blogging>
+https://freefincal.com/10-financial-lessons-from-10-years-of-blogging
 
 [10 financial lessons from 10 years of blogging](https://youtu.be/1EB6DIHZWWw)
 

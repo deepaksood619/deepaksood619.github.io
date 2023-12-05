@@ -1,6 +1,6 @@
 # RPC
 
-<https://sbdevel.wordpress.com/2009/12/17/the-case-rpc-vs-messaging>
+https://sbdevel.wordpress.com/2009/12/17/the-case-rpc-vs-messaging
 
 RPC stands for Remote Procedure Call
 
@@ -61,11 +61,11 @@ Finagle provides a robust implementation of:
 - load-balancers, including "least-connections" and other strategies; and
 - back-pressure techniques, to defend servers against abusive clients and dogpiling.
 
-<https://github.com/twitter/finagle>
+https://github.com/twitter/finagle
 
-<https://blog.twitter.com/engineering/en_us/a/2011/finagle-a-protocol-agnostic-rpc-system.html>
+https://blog.twitter.com/engineering/en_us/a/2011/finagle-a-protocol-agnostic-rpc-system.html
 
-<https://twitter.github.io/finagle>
+https://twitter.github.io/finagle
 
 ## Tools
 
@@ -86,4 +86,4 @@ BloomRPC aim to give the simplest and efficient developer experience for explori
 
 `brew cask install bloomrpc`
 
-<https://github.com/uw-labs/bloomrpc>
+https://github.com/uw-labs/bloomrpc

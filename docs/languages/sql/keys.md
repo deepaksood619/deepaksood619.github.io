@@ -171,6 +171,6 @@ Surrogate keys are allowed when
 | Primary key is a clustered index and data in the DBMS table are physically organized in the sequence of the clustered index. | A foreign key cannot automatically create an index, clustered or non-clustered. However, you can manually create an index on the foreign key. |
 | You can have the single Primary key in a table. | You can have multiple foreign keys in a table. |
 
-<https://www.freecodecamp.org/news/primary-key-sql-tutorial-how-to-define-a-primary-key-in-a-database>
+https://www.freecodecamp.org/news/primary-key-sql-tutorial-how-to-define-a-primary-key-in-a-database
 
 Whenever you're choosing a Primary Key, think of an identity crisis.

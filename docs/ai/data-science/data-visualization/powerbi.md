@@ -12,11 +12,11 @@ Power BI is a Data Visualization and Business Intelligence tool that converts da
 
 DAX (Data Analysis Expressions) is a formula expression language and can be used in different BI and visualization tools. DAX is also known as function language, where the full code is kept inside a function. DAX programming formula contains two data types: Numeric and Other. Numeric includes - integers, currency and decimals, while Other includes: string and binary object.
 
-<https://docs.microsoft.com/en-us/power-bi/guided-learning/introductiontodax>
+https://docs.microsoft.com/en-us/power-bi/guided-learning/introductiontodax
 
-<https://www.tutorialspoint.com/power_bi/dax_basics_in_power_bi.htm>
+https://www.tutorialspoint.com/power_bi/dax_basics_in_power_bi.htm
 
-<https://www.edureka.co/blog/interview-questions/power-bi-interview-questions>
+https://www.edureka.co/blog/interview-questions/power-bi-interview-questions
 
 [**https://towardsdatascience.com/the-top-youtube-channels-for-you-to-learn-powerbi-and-data-analytics-for-free-8f8eb434b48d**](https://towardsdatascience.com/the-top-youtube-channels-for-you-to-learn-powerbi-and-data-analytics-for-free-8f8eb434b48d)
 
@@ -50,7 +50,7 @@ is a type of chart built by Power BI designers. The visuals display the data fro
 
 [Interact with Visuals in reports, dashboards, and apps](https://docs.microsoft.com/en-us/power-bi/consumer/end-user-visualizations)
 
-<https://docs.microsoft.com/en-us/power-bi/visuals/power-bi-visualization-types-for-reports-and-q-and-a>
+https://docs.microsoft.com/en-us/power-bi/visuals/power-bi-visualization-types-for-reports-and-q-and-a
 
 ### Dataset
 
@@ -72,7 +72,7 @@ is one or more pages of interactive visuals, text, and graphics that together ma
 
 is a way fordesignersto bundle and share related dashboards and reports together.Business usersreceive some apps automatically but can go search for other apps created by colleagues or by the community. For example, out-of-the-box apps are available for external services you may already use, like Google Analytics and Microsoft Dynamics CRM
 
-<https://docs.microsoft.com/en-us/power-bi/consumer/end-user-basic-concepts>
+https://docs.microsoft.com/en-us/power-bi/consumer/end-user-basic-concepts
 
 ## Terminology
 
@@ -84,13 +84,13 @@ is a way fordesignersto bundle and share related dashboards and reports together
 
 ## PowerBI Embeds
 
-<https://www.youtube.com/watch?v=0y2oJikC6Xc&ab_channel=GuyinaCube>
+https://www.youtube.com/watch?v=0y2oJikC6Xc&ab_channel=GuyinaCube
 
-<https://docs.microsoft.com/en-us/power-bi/consumer/end-user-apps>
+https://docs.microsoft.com/en-us/power-bi/consumer/end-user-apps
 
-<https://www.youtube.com/watch?v=KpZPUdzNXeE&ab_channel=GuyinaCube>
+https://www.youtube.com/watch?v=KpZPUdzNXeE&ab_channel=GuyinaCube
 
-<https://github.com/microsoft/PowerBI-Developer-Samples>
+https://github.com/microsoft/PowerBI-Developer-Samples
 
 ## PowerBI slow - Guy In A Cube Youtube
 
@@ -108,9 +108,9 @@ The **Vertipaq Engine** is the in-memory columnar database that stores and hosts
 - Organization
 - Segment Elimination
 
-<https://docs.microsoft.com/en-us/power-bi/guidance/star-schema>
+https://docs.microsoft.com/en-us/power-bi/guidance/star-schema
 
-<https://www.youtube.com/watch?v=S7Fh2l-4jlc>
+https://www.youtube.com/watch?v=S7Fh2l-4jlc
 
 ## Data import
 
@@ -120,7 +120,7 @@ The **Vertipaq Engine** is the in-memory columnar database that stores and hosts
 
 ## Incremental Refresh
 
-<https://docs.microsoft.com/en-us/power-bi/connect-data/incremental-refresh-overview>
+https://docs.microsoft.com/en-us/power-bi/connect-data/incremental-refresh-overview
 
 [Learn all about Power BI Aggregations](https://www.youtube.com/playlist?list=PLv2BtOtLblH0cQ7rWV2SVLGoplKdy0LtD)
 
@@ -134,7 +134,7 @@ The **Vertipaq Engine** is the in-memory columnar database that stores and hosts
 
 ![image](../../../media/Data-Visualization_PowerBI-image1.jpg)
 
-<https://docs.microsoft.com/en-us/power-bi/transform-model/desktop-aggregations>
+https://docs.microsoft.com/en-us/power-bi/transform-model/desktop-aggregations
 
 ## AI
 
@@ -153,19 +153,19 @@ The **Vertipaq Engine** is the in-memory columnar database that stores and hosts
     - Steady share
     - Time series outliers
 
-<https://docs.microsoft.com/en-us/power-bi/consumer/end-user-insight-types>
+https://docs.microsoft.com/en-us/power-bi/consumer/end-user-insight-types
 
-<https://docs.microsoft.com/en-us/power-bi/consumer/end-user-insights>
+https://docs.microsoft.com/en-us/power-bi/consumer/end-user-insights
 
 ## Mobile View
 
-<https://docs.microsoft.com/en-us/power-bi/create-reports/desktop-create-phone-report>
+https://docs.microsoft.com/en-us/power-bi/create-reports/desktop-create-phone-report
 
 ## Features
 
 ### Report usage metrics
 
-<https://docs.microsoft.com/en-us/power-bi/collaborate-share/service-usage-metrics>
+https://docs.microsoft.com/en-us/power-bi/collaborate-share/service-usage-metrics
 
 ## Optimization
 

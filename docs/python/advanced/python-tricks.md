@@ -35,7 +35,7 @@
     - Most commonly it is used to manage the safe acquisition and release of system resources. Resources are acquired by the *with* statement and released automatically when execution leaves the *with* context
     - Using *with* effectively can help you avoid resource leaks and make your code easier to read
 
-<https://rednafi.github.io/digressions/python/2020/03/26/python-contextmanager.html>
+https://rednafi.github.io/digressions/python/2020/03/26/python-contextmanager.html
 
 1. **String formatting**
 
@@ -105,7 +105,7 @@ t.substitute(name=name)
 
 [Python: How Decorators Function](https://www.youtube.com/watch?v=vtoXyxcfmUo&t=2s&ab_channel=CodingTech)
 
-<https://realpython.com/primer-on-python-decorators>
+https://realpython.com/primer-on-python-decorators
 
 5. **Function argument unpacking**
     - The * and ** operators can be used to "unpack" function arguments from sequences and dictionaries.
@@ -283,9 +283,9 @@ b.g()
 1# Printed a second time, this one is our call to 'g'
 ```
 
-<https://www.toptal.com/python/top-10-mistakes-that-python-programmers-make>
+https://www.toptal.com/python/top-10-mistakes-that-python-programmers-make
 
-<https://towardsdatascience.com/ten-python-development-skills-998a52f8f7c0>
+https://towardsdatascience.com/ten-python-development-skills-998a52f8f7c0
 
 - We can useinspectto view source code in the running state
 - itertools.productcan be used in case of nested loops

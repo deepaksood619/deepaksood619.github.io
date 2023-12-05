@@ -98,7 +98,7 @@ Codebase - [GitHub - ethereum/go-ethereum: Official Go implementation of the Eth
 
 Protocol for blockchain based notifications that are chain agnostic, platform independent and incentivized!
 
-<https://epns.io>
+https://epns.io
 
 ## Crypto-enabled financial trickery
 

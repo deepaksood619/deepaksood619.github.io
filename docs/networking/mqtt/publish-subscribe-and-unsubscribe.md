@@ -93,4 +93,4 @@ After receiving the UNSUBACK from the broker, the client can assume that the sub
 
 ## References
 
-<https://www.hivemq.com/blog/mqtt-essentials-part-4-mqtt-publish-subscribe-unsubscribe>
+https://www.hivemq.com/blog/mqtt-essentials-part-4-mqtt-publish-subscribe-unsubscribe

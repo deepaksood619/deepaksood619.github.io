@@ -13,26 +13,26 @@ The world's fastest framework for building websites.
 
 Hugo is a static HTML and CSS website generator written in [Go](https://golang.org/). It is optimized for speed, ease of use, and configurability. Hugo takes a directory with content and templates and renders them into a full HTML website.
 
-<https://github.com/gohugoio/hugo>
+https://github.com/gohugoio/hugo
 
 ## jekyll
 
 Transform your plain text into static websites and blogs
 
-<https://jekyllrb.com>
+https://jekyllrb.com
 
-<https://jamstackthemes.dev/ssg/jekyll>
+https://jamstackthemes.dev/ssg/jekyll
 
-<https://jekyllthemes.io>
+https://jekyllthemes.io
 
-<https://github.com/topics/jekyll-theme>
+https://github.com/topics/jekyll-theme
 
 ## Other Static Site Generators / Documentation Generators
 
-- <https://www.mkdocs.org>
-- <https://docsify.js.org>
-- <https://docusaurus.io>
-- <https://github.com/doczjs/docz>
-  - <https://www.docz.site>
+- https://www.mkdocs.org
+- https://docsify.js.org
+- https://docusaurus.io
+- https://github.com/doczjs/docz
+  - https://www.docz.site
 - [Mintlify - Beautiful documentation that converts users](https://mintlify.com/)
 - [GitHub - requarks/wiki: Wiki.js | A modern and powerful wiki app built on Node.js](https://github.com/Requarks/wiki)

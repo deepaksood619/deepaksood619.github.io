@@ -44,7 +44,7 @@ Whenever we call a javascript variable inside JSX we wrap the variable around br
 
 ## Loops
 
-<https://www.telerik.com/blogs/beginners-guide-loops-in-react-jsx>
+https://www.telerik.com/blogs/beginners-guide-loops-in-react-jsx
 
 ```js
 const getAnimalsContent = animals => animals.map(item => (

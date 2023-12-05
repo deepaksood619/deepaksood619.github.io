@@ -2,7 +2,7 @@
 
 ## Frontends
 
-<https://github.com/SoftwareBrothers/adminjs>
+https://github.com/SoftwareBrothers/adminjs
 
 ## Lodash
 
@@ -14,21 +14,21 @@ Lodash makes JavaScript easier by taking the hassle out of working with arrays, 
 - Manipulating & testing values
 - Creating composite functions
 
-<https://github.com/lodash/lodash>
+https://github.com/lodash/lodash
 
-<https://lodash.com>
+https://lodash.com
 
 ## PassportJS
 
 Passport is authentication middleware for [Node.js](https://nodejs.org/). Extremely flexible and modular, Passport can be unobtrusively dropped in to any [Express](https://expressjs.com/)-based web application. A comprehensive set of strategies support authentication using a [username and password](http://www.passportjs.org/docs/username-password/), [Facebook](http://www.passportjs.org/docs/facebook/), [Twitter](http://www.passportjs.org/docs/twitter/), and [more](http://www.passportjs.org/packages/).
 
-<https://github.com/jaredhanson/passport>
+https://github.com/jaredhanson/passport
 
-<http://www.passportjs.org>
+http://www.passportjs.org
 
-<https://www.freecodecamp.org/news/learn-to-implement-user-authentication-in-node-apps-using-passport-js>
+https://www.freecodecamp.org/news/learn-to-implement-user-authentication-in-node-apps-using-passport-js
 
-Nodejs passport login system - <https://www.youtube.com/watch?v=-RCnNyD0L-s>
+Nodejs passport login system - https://www.youtube.com/watch?v=-RCnNyD0L-s
 
 Node + Passport User Authentication
 
@@ -65,17 +65,17 @@ document.cookie = "custom1=value; expires=" + date.toUTCString() + ";"
 
 Set a cookie for 2 weeks and after it expire, user has to re-login
 
-Fetch API - <https://www.youtube.com/watch?v=cuEtnrL9-H0>
+Fetch API - https://www.youtube.com/watch?v=cuEtnrL9-H0
 
-JWT Authentication - <https://www.youtube.com/watch?v=mbsmsi7l3r4>
+JWT Authentication - https://www.youtube.com/watch?v=mbsmsi7l3r4
 
 ## Fingerprintjs
 
 FingerprintJS is a browser fingerprinting library that queries browser attributes and computes a hashed visitor identifier from them. Unlike cookies and local storage, a fingerprint stays the same in incognito/private mode and even when browser data is purged.
 
-<https://github.com/fingerprintjs/fingerprintjs>
+https://github.com/fingerprintjs/fingerprintjs
 
-## Request - <https://github.com/request/request>
+## Request - https://github.com/request/request
 
 ## [Sequelize | Feature-rich ORM for modern TypeScript & JavaScript](https://sequelize.org/)
 

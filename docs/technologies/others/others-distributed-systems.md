@@ -6,31 +6,31 @@ Orbit - Virtual actor framework for building distributed systems
 
 Orbit is a framework to write distributed systems using virtual actors on the JVM. It allows developers to write highly distributed and scalable applications while greatly simplifying clustering, discovery, networking, state management, actor lifetime and more.
 
-<https://github.com/orbit/orbit>
+https://github.com/orbit/orbit
 
 ## Netflix Eureka
 
 AWS Service registry for resilient mid-tier load balancing and failover.
 
-<https://github.com/Netflix/eureka>
+https://github.com/Netflix/eureka
 
 ## Netflix Ribbon
 
 Ribbon is a Inter Process Communication (remote procedure calls) library with built in software load balancers. The primary usage model involves REST calls with various serialization scheme support.
 
-<https://github.com/Netflix/ribbon>
+https://github.com/Netflix/ribbon
 
 ## Neflix Hysterix
 
 Hystrix is a latency and fault tolerance library designed to isolate points of access to remote systems, services and 3rd party libraries, stop cascading failure and enable resilience in complex distributed systems where failure is inevitable.
 
-<https://github.com/Netflix/Hystrix>
+https://github.com/Netflix/Hystrix
 
 ## Hydra
 
 A framework for elegantly configuring complex applications.
 
-<https://github.com/facebookresearch/hydra>
+https://github.com/facebookresearch/hydra
 
 [https://cli.dev](https://cli.dev/)
 
@@ -42,4 +42,4 @@ Dapr codifies thebest practicesfor building microservice applications into open,
 
 ![image](../../media/Technologies-Others-Others-Distributed-Systems-image1.jpg)
 
-<https://github.com/dapr/dapr>
+https://github.com/dapr/dapr

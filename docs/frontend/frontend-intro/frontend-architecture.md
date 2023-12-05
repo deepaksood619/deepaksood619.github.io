@@ -17,11 +17,11 @@ Beyond targeting the fundamental goals and standards of PWAs, PRPL strives to op
 - Maximum caching efficiency, especially over time as updates are released
 - Simplicity of development and deployment
 
-<https://developers.google.com/web/fundamentals/performance/prpl-pattern>
+https://developers.google.com/web/fundamentals/performance/prpl-pattern
 
-<https://www.toptal.com/ui-ux-frontend-developer/interview-questions>
+https://www.toptal.com/ui-ux-frontend-developer/interview-questions
 
-<https://www.youtube.com/watch?v=TcTSqhpm80Y>
+https://www.youtube.com/watch?v=TcTSqhpm80Y
 
 ## Single Page Applications (SPAs) / Multiple Page Applications (MPAs)
 
@@ -71,9 +71,9 @@ Pre-rendering is a tradeoff between client-side and server-side rendering. Every
 
 In an optimistic update the UI behaves as though a change was successfully completed before receiving confirmation from the server that it actually was - it is being optimistic that it will eventually get the confirmation rather than an error. This allows for a more responsive user experience.
 
-<https://www.apollographql.com/docs/react/v2/performance/optimistic-ui>
+https://www.apollographql.com/docs/react/v2/performance/optimistic-ui
 
-<https://medium.com/guidesmiths-dev/anatomy-of-a-react-application-optimistic-updates-e4a3318665c7>
+https://medium.com/guidesmiths-dev/anatomy-of-a-react-application-optimistic-updates-e4a3318665c7
 
 [Skeleton Screens](http://www.lukew.com/ff/entry.asp?1797)
 
@@ -81,7 +81,7 @@ In an optimistic update the UI behaves as though a change was successfully compl
 
 A universal app sends to the browser a page populated with data. Then the app loads its JavaScript and rehydrates the page to get a fully client-side rendered app. This approach combines the advantages of the latest techniques available today.
 
-<https://www.toptal.com/front-end/client-side-vs-server-side-pre-rendering>
+https://www.toptal.com/front-end/client-side-vs-server-side-pre-rendering
 
 ## Server-Side Frameworks
 
@@ -97,7 +97,7 @@ A universal app sends to the browser a page populated with data. Then the app lo
 
 - **Flutter** - SDK from Google to build native mobile apps. Uses **Dart**
 - React Native - Build native mobile apps using the React framework
-- **NativeScript** - Build native mobile apps with JS, TS, Angular or Vue - <https://nativescript.org>
+- **NativeScript** - Build native mobile apps with JS, TS, Angular or Vue - https://nativescript.org
 - Ionic - Build hybird mobile apps with JavaScript
 - Xamarin - Build native mobile apps with C#
 - [Dioxus | An elegant GUI library for Rust](https://dioxuslabs.com/)
@@ -111,7 +111,7 @@ A universal app sends to the browser a page populated with data. Then the app lo
 - Must be HTTPS
 - Reliable, fast and engaging
 
-<https://www.pwabuilder.com>
+https://www.pwabuilder.com
 
 ## Desktop Apps with Electron
 
@@ -130,15 +130,15 @@ Electron allows us to cross-platform desktop applications with Javascript
 
 [Web Development In 2020 - A Practical Guide](https://www.youtube.com/watch?v=0pThnRneDjw)
 
-<https://dev.to/mmcshinsky/why-frontend-architecture-matters-1ldj>
+https://dev.to/mmcshinsky/why-frontend-architecture-matters-1ldj
 
-<https://github.com/h5bp/Front-end-Developer-Interview-Questions>
+https://github.com/h5bp/Front-end-Developer-Interview-Questions
 
 ## Links
 
-<https://dev.to/kevtiq/how-to-create-a-scalable-and-maintainable-front-end-architecture-4f47>
+https://dev.to/kevtiq/how-to-create-a-scalable-and-maintainable-front-end-architecture-4f47
 
-<https://www.toptal.com/front-end/client-side-vs-server-side-pre-rendering>
+https://www.toptal.com/front-end/client-side-vs-server-side-pre-rendering
 
 [**https://www.freecodecamp.org/news/how-to-build-your-first-saas/**](https://www.freecodecamp.org/news/how-to-build-your-first-saas/)
 

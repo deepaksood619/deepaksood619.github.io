@@ -96,7 +96,7 @@ The GRANT command has two basic variants: one that grants privileges on a databa
 - GRANT on Database Objects
 - GRANT on Roles
 
-<https://www.postgresql.org/docs/current/sql-grant.html>
+https://www.postgresql.org/docs/current/sql-grant.html
 
 ## Processes
 

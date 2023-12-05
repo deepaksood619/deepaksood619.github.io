@@ -13,17 +13,17 @@ FastAPI is a modern, fast (high-performance), web framework for building APIs wi
 - Robust: Get production-ready code. With automatic interactive documentation.
 - Standards-based: Based on (and fully compatible with) the open standards for APIs:[OpenAPI](https://github.com/OAI/OpenAPI-Specification)(previously known as Swagger) and [JSON Schema](https://json-schema.org/).
 
-<https://towardsdatascience.com/why-we-switched-from-flask-to-fastapi-for-production-machine-learning-765aab9b3679>
+https://towardsdatascience.com/why-we-switched-from-flask-to-fastapi-for-production-machine-learning-765aab9b3679
 
-<https://towardsdatascience.com/fastapi-cloud-database-loading-with-python-1f531f1d438a>
+https://towardsdatascience.com/fastapi-cloud-database-loading-with-python-1f531f1d438a
 
 [**https://fastapi.tiangolo.com/alternatives/**](https://fastapi.tiangolo.com/alternatives/)
 
-<https://github.com/tiangolo/fastapi>
+https://github.com/tiangolo/fastapi
 
-<https://github.com/long2ice/fastapi-admin>
+https://github.com/long2ice/fastapi-admin
 
-<https://www.freecodecamp.org/news/fastapi-helps-you-develop-apis-quickly>
+https://www.freecodecamp.org/news/fastapi-helps-you-develop-apis-quickly
 
 [**https://www.freecodecamp.org/news/how-to-create-microservices-with-fastapi/**](https://www.freecodecamp.org/news/how-to-create-microservices-with-fastapi/)
 
@@ -53,7 +53,7 @@ In that case, it would mean the JSON attributes, and data types they have, etc.
 
 OpenAPI defines an API schema for your API. And that schema includes definitions (or "schemas") of the data sent and received by your API usingJSON Schema, the standard for JSON data schemas.
 
-<http://127.0.0.1:8000/openapi.json>
+http://127.0.0.1:8000/openapi.json
 
 ## What is OpenAPI for
 
@@ -79,7 +79,7 @@ When you declare other function parameters that are not part of the path paramet
 
 The query is the set of key-value pairs that go after the?in a URL, separated by&characters.
 
-<http://127.0.0.1:8000/items/?skip=0&limit=10>
+http://127.0.0.1:8000/items/?skip=0&limit=10
 
 ## Request Body
 
@@ -148,11 +148,11 @@ class ModelName(str, Enum):
 
 [http://127.0.0.1:8000](http://127.0.0.1:8000/)
 
-<http://127.0.0.1:8000/docs>
+http://127.0.0.1:8000/docs
 
-<http://127.0.0.1:8000/redoc>
+http://127.0.0.1:8000/redoc
 
-<http://127.0.0.1:8000/openapi.json>
+http://127.0.0.1:8000/openapi.json
 
 ## Others
 

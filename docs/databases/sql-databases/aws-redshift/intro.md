@@ -193,11 +193,11 @@ To ensure data availability during disk or node failure, Redshift utilizes synch
 
 Redshift supports virtual views. The contents of the view are not directly materialized and the query defining the view is rerun every time the view is being used in another query. DELETE or UPDATE statements cannot be used against the view.
 
-<https://docs.aws.amazon.com/redshift/latest/dg/c_high_level_system_architecture.html>
+https://docs.aws.amazon.com/redshift/latest/dg/c_high_level_system_architecture.html
 
-<https://docs.aws.amazon.com/redshift/latest/dg/c_challenges_achieving_high_performance_queries.html>
+https://docs.aws.amazon.com/redshift/latest/dg/c_challenges_achieving_high_performance_queries.html
 
-<https://dbdb.io/db/redshift>
+https://dbdb.io/db/redshift
 
 ## Table Locks
 
@@ -211,11 +211,11 @@ Amazon Redshift has three lock modes:
 
 When a query or transaction acquires a lock on a table, the lock remains for the duration of the query or transaction. Other queries or transactions that are waiting to acquire the same lock are blocked.
 
-<https://aws.amazon.com/premiumsupport/knowledge-center/prevent-locks-blocking-queries-redshift>
+https://aws.amazon.com/premiumsupport/knowledge-center/prevent-locks-blocking-queries-redshift
 
 It is worth mentioning that [Merge join](https://docs.aws.amazon.com/redshift/latest/dg/c-the-query-plan.html)(typically the fastest join ; for inner joins and outer joins) is used when joining tables where the join columns are both distribution keysandsort keys, and when less than 20 percent of the joining tables are unsorted.The merge join is not used for full joins.
 
-<https://aws.amazon.com/blogs/big-data/whats-new-in-amazon-redshift-2021-a-year-in-review>
+https://aws.amazon.com/blogs/big-data/whats-new-in-amazon-redshift-2021-a-year-in-review
 
 - Query Editor V2 with charts and jupyter notebooks
 

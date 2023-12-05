@@ -76,7 +76,7 @@
 
    - Spring cloud gateway
 
-   - <https://apisix.apache.org>
+   - https://apisix.apache.org
 
 ## API Gateways
 
@@ -85,7 +85,7 @@
 The Hybrid Application Gateway built on top of Envoy
 Gloo is a feature-rich, Kubernetes-native ingress controller, and next-generation API gateway. Gloo is exceptional in its function-level routing; its support for legacy apps, microservices and serverless; its discovery capabilities; its numerous features; and its tight integration with leading open-source projects. Gloo is uniquely designed to support hybrid applications, in which multiple technologies, architectures, protocols, and clouds can coexist
 
-<https://github.com/solo-io/gloo>
+https://github.com/solo-io/gloo
 
 ## Ambassador
 
@@ -99,19 +99,19 @@ Key features include:
 - [Authentication](https://www.getambassador.io/reference/services/auth-service)
 - Robust TLS support, including TLS client-certificate authentication
 
-<https://github.com/datawire/ambassador>
+https://github.com/datawire/ambassador
 ![image](../../media/API-Gateway-image1.jpg)
 
-<https://microservices.io/patterns/apigateway.html>
+https://microservices.io/patterns/apigateway.html
 
 Rate Limiting Service
 
 [What is an API Gateway?](https://www.youtube.com/watch?v=vHQqQBYJtLI)
 
-<https://blog.christianposta.com/microservices/do-i-need-an-api-gateway-if-i-have-a-service-mesh>
+https://blog.christianposta.com/microservices/do-i-need-an-api-gateway-if-i-have-a-service-mesh
 
-<https://developer.ibm.com/apiconnect/2018/11/13/service-mesh-vs-api-management>
+https://developer.ibm.com/apiconnect/2018/11/13/service-mesh-vs-api-management
 
-<https://blog.christianposta.com/microservices/api-gateways-are-going-through-an-identity-crisis>
+https://blog.christianposta.com/microservices/api-gateways-are-going-through-an-identity-crisis
 
-<https://konghq.com/blog/the-difference-between-api-gateways-and-service-mesh>
+https://konghq.com/blog/the-difference-between-api-gateways-and-service-mesh

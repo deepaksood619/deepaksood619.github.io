@@ -234,7 +234,7 @@ Unordered List (Sequential Search)
 
 2. Coursera - Algorithms Part 2
 
-<https://www.toptal.com/algorithms/interview-questions>
+https://www.toptal.com/algorithms/interview-questions
 
 ## Most Important Algos / DS / Programming Concepts
 
@@ -264,7 +264,7 @@ Unordered List (Sequential Search)
 - Unnecessary work
 - Duplicated work
 
-<https://4tee-learn.blogspot.com/2017/12/optimisation-technique-15-bud.html>
+https://4tee-learn.blogspot.com/2017/12/optimisation-technique-15-bud.html
 
 ## Questions to asking when solving a coding interview questions
 
@@ -280,8 +280,8 @@ Unordered List (Sequential Search)
 
 5. Can we use additional data structures?
 
-<https://www.freecodecamp.org/news/learn-algorithms-and-data-structures-in-python>
+https://www.freecodecamp.org/news/learn-algorithms-and-data-structures-in-python
 
 [MIT 6.006 Introduction to Algorithms, Fall 2011](https://www.youtube.com/playlist?list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb)
 
-<https://github.com/MisterBooo/LeetCodeAnimation>
+https://github.com/MisterBooo/LeetCodeAnimation

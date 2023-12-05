@@ -38,4 +38,4 @@ Binomial mean and standard deviation formulas
 3. Mixture of discrete and continuous random variable
 Two random variables with the same probability distribution can still differ in terms of their associations with, or [independence](https://en.wikipedia.org/wiki/Independence_(probability_theory)) from, other random variables. The realizations of a random variable, that is, the results of randomly choosing values according to the variable's probability distribution function, are called [random variates](https://en.wikipedia.org/wiki/Random_variate).
 
-<https://en.wikipedia.org/wiki/Random_variable>
+https://en.wikipedia.org/wiki/Random_variable

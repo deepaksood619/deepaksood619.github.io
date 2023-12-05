@@ -79,9 +79,9 @@ Combined two important systems thinking models - the Iceberg Model and Pace Laye
 - [Scenario Analysis](https://en.wikipedia.org/wiki/Scenario_analysis) - "A process of analyzing possible future events by considering alternative possible outcomes." (related: "Skate to where the puck is going.";[black swan theory](https://en.wikipedia.org/wiki/Black_swan_theory) - "a metaphor that describes an event that comes as a surprise, has a major effect, and is often inappropriately rationalized after the fact with the benefit of hindsight.")
 - [Power-law](https://en.wikipedia.org/wiki/Power_law) - "A functional relationship between two quantities, where a relative change in one quantity results in a proportional relative change in the other quantity, independent of the initial size of those quantities: one quantity varies as a power of another." (related:[Pareto distribution](https://en.wikipedia.org/wiki/Pareto_distribution);[Pareto principle](https://en.wikipedia.org/wiki/Pareto_principle) - "for many events, roughly 80% of the effects come from 20% of the causes.", [diminishing returns](https://en.wikipedia.org/wiki/Diminishing_returns), [premature optimization](https://en.wikipedia.org/wiki/Program_optimization#When_to_optimize), [heavy-tailed distribution](https://en.wikipedia.org/wiki/Heavy-tailed_distribution#Relationship_to_fat-tailed_distributions), [fat-tailed distribution](https://en.wikipedia.org/wiki/Fat-tailed_distribution);[long tail](https://en.wikipedia.org/wiki/Long_tail) - "the portion of the distribution having a large number of occurrences far from the "head" or central part of the distribution.";[black swan theory](https://en.wikipedia.org/wiki/Black_swan_theory) - "a metaphor that describes an event that comes as a surprise, has a major effect, and is often inappropriately rationalized after the fact with the benefit of hindsight.")
 
-<https://en.wikipedia.org/wiki/Power_law>
+https://en.wikipedia.org/wiki/Power_law
 
-<https://www.scotthyoung.com/blog/2021/02/22/productivity-frontier>
+https://www.scotthyoung.com/blog/2021/02/22/productivity-frontier
 
 [Long Tail: Definition as a Business Strategy and How It Works](https://www.investopedia.com/terms/l/long-tail.asp)
 
@@ -91,9 +91,9 @@ Combined two important systems thinking models - the Iceberg Model and Pace Laye
 
 A systematic approach to estimating the strengths and weaknesses of alternatives that satisfy transactions, activities or functional requirements for a business." (related:[net present value](https://en.wikipedia.org/wiki/Net_present_value) - "a measurement of the profitability of an undertaking that is calculated by subtracting the present values of cash outflows (including initial cost) from the present values of cash inflows over a period of time.", [discount rate](https://en.wikipedia.org/wiki/Discount_rate))
 
-<https://en.wikipedia.org/wiki/Cost%E2%80%93benefit_analysis>
+https://en.wikipedia.org/wiki/Cost%E2%80%93benefit_analysis
 
-<https://www.investopedia.com/terms/c/cost-benefitanalysis.asp>
+https://www.investopedia.com/terms/c/cost-benefitanalysis.asp
 
 - [Simulation](https://en.wikipedia.org/wiki/Simulation) - "The imitation of the operation of a real-world process or system over time." (related:[Queuing theory](https://en.wikipedia.org/wiki/Queueing_theory) - "the mathematical study of waiting lines, or queues.")
 - [Pareto Efficiency](https://en.wikipedia.org/wiki/Pareto_efficiency) - "A state of allocation of resources in which it is impossible to make any one individual better off without making at least one individual worse off...A Pareto improvement is defined to be a change to a different allocation that makes at least one individual better off without making any other individual worse off, given a certain initial allocation of goods among a set of individuals."
@@ -162,7 +162,7 @@ Just because a prediction turns out to be true, does not prove that the theory t
 
 Reason: False hypotheses can make true predictions
 
-<https://www.youtube.com/watch?v=t7PwqiiQmVM>
+https://www.youtube.com/watch?v=t7PwqiiQmVM
 
 ## Counterfactual thinking
 
@@ -178,7 +178,7 @@ Upward counterfactuals are **thoughts about how the situation could have been be
 
 ## Links
 
-<https://system.com>
+https://system.com
 
 [The Art of Logic](../book-summaries/the-art-of-logic)
 

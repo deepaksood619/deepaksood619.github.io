@@ -38,7 +38,7 @@ Ans - The capital of France is Paris.
 
 ##### ChatGPT prompt to write error free
 
-{paste your writing}
+`{paste your writing}`
 
 Prompt: "Proofread my writing above. Fix grammar and spelling mistakes. And make suggestions that will improve the clarity of my writing"
 

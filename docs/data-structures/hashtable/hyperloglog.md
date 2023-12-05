@@ -4,6 +4,6 @@ HyperLogLog is a streaming algorithm used for estimating the number of distinct 
 
 HyperLogLog, it's a statistical data structure that derives approximations- in O(1) time complexity and O(log(log(n)) space complexity. The catch is that you get about 1.5% accuracy, configurable of course by taking up more space. As an example, 1.3KB can estimate the cardinality of tens of billions of unique values with an accuracy of a few percent.
 
-<https://dzone.com/articles/introduction-probabilistic-0>
+https://dzone.com/articles/introduction-probabilistic-0
 
 [A problem so hard even Google relies on Random Chance - YouTube](https://www.youtube.com/watch?v=lJYufx0bfpw)

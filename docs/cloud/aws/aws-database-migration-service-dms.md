@@ -22,9 +22,9 @@ A task can consist of three major phases
 - Full load + CDC (Migrate existing data and replicate ongoing changes) -- This option performs a full data load while capturing changes on the source. After the full load is complete, captured changes are applied to the target. Eventually, the application of changes reaches a steady state. At this point, you can shut down your applications, let the remaining changes flow through to the target, and then restart your applications pointing at the target.
 - CDC only (Replicate data changes only) -- In some situations, it might be more efficient to copy existing data using a method other than AWS DMS. For example, in a homogeneous migration, using native export and import tools might be more efficient at loading bulk data. In this situation, you can use AWS DMS to replicate changes starting when you start your bulk load to bring and keep your source and target databases in sync.
 
-<https://docs.aws.amazon.com/dms/latest/userguide/CHAP_Introduction.HighLevelView.html>
+https://docs.aws.amazon.com/dms/latest/userguide/CHAP_Introduction.HighLevelView.html
 
-<https://docs.aws.amazon.com/dms/latest/userguide/CHAP_Introduction.Components.html>
+https://docs.aws.amazon.com/dms/latest/userguide/CHAP_Introduction.Components.html
 
 [**https://docs.aws.amazon.com/dms/latest/userguide/CHAP_BestPractices.html**](https://docs.aws.amazon.com/dms/latest/userguide/CHAP_BestPractices.html)
 
@@ -32,11 +32,11 @@ A task can consist of three major phases
 
 By default, AWS DMS loads eight tables at a time. You might see some performance improvement by increasing this slightly when using a very large replication server, such as a dms.c4.xlarge or larger instance.
 
-<https://docs.aws.amazon.com/dms/latest/userguide/CHAP_Troubleshooting.html>
+https://docs.aws.amazon.com/dms/latest/userguide/CHAP_Troubleshooting.html
 
 [**https://aws.amazon.com/premiumsupport/knowledge-center/dms-batch-apply-cdc-replication/**](https://aws.amazon.com/premiumsupport/knowledge-center/dms-batch-apply-cdc-replication/)
 
-<https://docs.aws.amazon.com/dms/latest/userguide/CHAP_Target.Redshift.html>
+https://docs.aws.amazon.com/dms/latest/userguide/CHAP_Target.Redshift.html
 
 [**https://docs.aws.amazon.com/dms/latest/userguide/CHAP_Tasks.CustomizingTasks.TaskSettings.ChangeProcessingTuning.html**](https://docs.aws.amazon.com/dms/latest/userguide/CHAP_Tasks.CustomizingTasks.TaskSettings.ChangeProcessingTuning.html)
 
@@ -65,7 +65,7 @@ By default, AWS DMS loads eight tables at a time. You might see some performance
 
 ### Schema Conversion Tool
 
-<https://docs.aws.amazon.com/SchemaConversionTool/latest/userguide/CHAP_Welcome.html>
+https://docs.aws.amazon.com/SchemaConversionTool/latest/userguide/CHAP_Welcome.html
 
 ### Pricing
 
@@ -76,7 +76,7 @@ All data transfer into AWS Database Migration Service is free, and data transfer
 | c4.large | $0.154 |
 | c5.large | $0.154 |
 
-<https://hevodata.com/blog/aurora-to-redshift-data-migration-using-aws-dms>
+https://hevodata.com/blog/aurora-to-redshift-data-migration-using-aws-dms
 
 ## Links
 

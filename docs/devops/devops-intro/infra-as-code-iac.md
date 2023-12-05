@@ -60,14 +60,14 @@ Digital Rebar (aka DRP) is a self-managed hardware-neutral data center automatio
 - Cloud-like pooling capabilities
 - Classification engine for automated workflow
 
-<https://rackn.com/rebar>
+https://rackn.com/rebar
 
 - Foreman
 
 Manage Procfile-based applications
 
-<https://github.com/ddollar/foreman>
+https://github.com/ddollar/foreman
 
 ## References
 
-<https://www.toptal.com/devops/interview-questions>
+https://www.toptal.com/devops/interview-questions

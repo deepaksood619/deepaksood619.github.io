@@ -10,7 +10,7 @@ It's important to understand that this is not the same as *Congestion Control*. 
 
 Congestion Window (cwnd) is a TCP state variable that limits the amount of data the [TCP](https://en.wikipedia.org/wiki/Transmission_Control_Protocol) can send into the network before receiving an [ACK](https://en.wikipedia.org/wiki/Acknowledgement_(data_networks)). The Receiver Window (rwnd) is a variable that advertises the amount of data that the destination side can receive. Together, the two variables are used to regulate data flow in TCP connections, minimize congestion, and improve network performance.
 
-<https://blog.stackpath.com/glossary-cwnd-and-rwnd>
+https://blog.stackpath.com/glossary-cwnd-and-rwnd
 
 ## How it works
 
@@ -141,7 +141,7 @@ When there's some spare space in the receiver's buffer again it can advertise a 
 - It will then periodically send a smallWindowProbemessage to the receiver to check if it can start receiving data again;
 - When it receives a non-zero window size, it resumes the transmission.
 
-<https://www.brianstorti.com/tcp-flow-control>
+https://www.brianstorti.com/tcp-flow-control
 
 ## TCP Slow Start
 
@@ -154,7 +154,7 @@ Not only when the sender starts to transmit at the first time, but also after co
 
 ![image](../../../media/TCP-Connection-Oriented-Protocol_Flow-Control-image7.jpg)
 
-<https://www.isi.edu/nsnam/DIRECTED_RESEARCH/DR_HYUNAH/D-Research/slow-start-tcp.html>
+https://www.isi.edu/nsnam/DIRECTED_RESEARCH/DR_HYUNAH/D-Research/slow-start-tcp.html
 
 ## Flow Control vs Congestion Control
 
@@ -170,7 +170,7 @@ A backlog length of 1 means the queue will be full while just a single connectio
 
 Why would setting the backlog length to 1 occasionally result in HTTP 502s? Most of the time, there are already established connections between the ALB and our API service, so the backlog length does not matter. However, when our service is unusually idle or is about to be upgraded, these connections are closed. A burst of API requests from just a single client at this point could cause the ALB to attempt to establish new TCP connections concurrently. Contention for the single slot in the TCP backlog would cause some of these connections to eventually report failure. The ALB responds to this failure by returning HTTP 502.
 
-<http://veithen.io/2014/01/01/how-tcp-backlog-works-in-linux.html>
+http://veithen.io/2014/01/01/how-tcp-backlog-works-in-linux.html
 
 When an application puts a socket into LISTEN state using the [listen](http://linux.die.net/man/2/listen) syscall, it needs to specify a backlog for that socket. The backlog is usually described as the limit for the queue of incoming connections.
 

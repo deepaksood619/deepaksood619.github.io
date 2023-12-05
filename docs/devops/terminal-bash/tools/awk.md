@@ -100,10 +100,10 @@ k delete pv $(k get pv | grep Released | awk '{print $1}')
 
 ## References
 
-<https://en.wikipedia.org/wiki/AWK>
+https://en.wikipedia.org/wiki/AWK
 
-<https://www.bignerdranch.com/blog/a-crash-course-in-awk>
+https://www.bignerdranch.com/blog/a-crash-course-in-awk
 
-<http://www.grymoire.com/Unix/Awk.html>
+http://www.grymoire.com/Unix/Awk.html
 
-<https://www.tutorialspoint.com/awk>
+https://www.tutorialspoint.com/awk

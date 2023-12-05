@@ -50,7 +50,7 @@ rclone --config s3.conf copy --no-traverse remote:zenatix-postgres-backup/`date 
 rclone copy --no-traverse . remote:ubuntu@52.220.109.7:/home/ubuntu/sources/zenalytix/media/images/deployment_photos
 ```
 
-<https://rclone.org>
+https://rclone.org
 
 ## BackBlaze
 
@@ -60,4 +60,4 @@ b2 list-buckets
 b2 upload-file TimeMachineBackupDeepak Documents.zip Documents.zip
 ```
 
-<https://www.backblaze.com/b2/docs/quick_command_line.html>
+https://www.backblaze.com/b2/docs/quick_command_line.html

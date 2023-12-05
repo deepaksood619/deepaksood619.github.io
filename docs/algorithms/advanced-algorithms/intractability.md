@@ -38,9 +38,9 @@ Integer programming is [NP-complete](https://en.wikipedia.org/wiki/NP-complete).
 
 If some decision variables are not discrete the problem is known as amixed-integer programmingproblem.
 
-<https://en.wikipedia.org/wiki/Integer_programming>
+https://en.wikipedia.org/wiki/Integer_programming
 
-<https://www.toptal.com/algorithms/mixed-integer-programming>
+https://www.toptal.com/algorithms/mixed-integer-programming
 
 ![image](../../media/Intractability-image11.jpg)
 
@@ -94,7 +94,7 @@ NP - Non Deterministic Polynomial Time (The complexity class NPcontains all of t
 
 ![image](../../media/Intractability-image33.jpg)
 
-<https://sahandsaba.com/understanding-sat-by-implementing-a-simple-sat-solver-in-python.html>
+https://sahandsaba.com/understanding-sat-by-implementing-a-simple-sat-solver-in-python.html
 
 ## NP-completeness
 

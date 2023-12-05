@@ -39,4 +39,4 @@ print(x)
 
 ## References
 
-<https://medium.freecodecamp.org/how-and-why-you-should-use-python-generators-f6fb56650888>
+https://medium.freecodecamp.org/how-and-why-you-should-use-python-generators-f6fb56650888

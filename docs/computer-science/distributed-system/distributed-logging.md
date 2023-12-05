@@ -51,7 +51,7 @@ A "-" in a field indicates missing data.- 127.0.0.1is the IP address of the clie
 - 10/Oct/2000:13:55:36 -0700 is the date, time, and time zone that the request was received, by default in [strftime](https://en.wikipedia.org/wiki/Strftime) format%d/%b/%Y:%H:%M:%S %z.
 - "GET /apache_pb.gif HTTP/1.0" is the request line from the client. The methodGET,/apache_pb.gifthe resource requested, andHTTP/1.0the [HTTP protocol](https://en.wikipedia.org/wiki/Hypertext_Transfer_Protocol).
 - 200 is the [HTTP status code](https://en.wikipedia.org/wiki/HTTP_status_code) returned to the client. 2xx is a successful response, 3xx a redirection, 4xx a client error, and 5xx a server error.
-- 2326 is the size of the object returned to the client, measured in [bytes](https://en.wikipedia.org/wiki/Byte).<https://en.wikipedia.org/wiki/Common_Log_Format>
+- 2326 is the size of the object returned to the client, measured in [bytes](https://en.wikipedia.org/wiki/Byte).https://en.wikipedia.org/wiki/Common_Log_Format
 
 ## Tools
 
@@ -59,13 +59,13 @@ A "-" in a field indicates missing data.- 127.0.0.1is the IP address of the clie
 
 ## References
 
-<https://engineering.linkedin.com/distributed-systems/log-what-every-software-engineer-should-know-about-real-time-datas-unifying>
+https://engineering.linkedin.com/distributed-systems/log-what-every-software-engineer-should-know-about-real-time-datas-unifying
 
-<https://github.com/magnhaug/blogposts/blob/master/distributed-logging>
+https://github.com/magnhaug/blogposts/blob/master/distributed-logging
 
-<https://blog.treasuredata.com/blog/2016/08/03/distributed-logging-architecture-in-the-container-era>
+https://blog.treasuredata.com/blog/2016/08/03/distributed-logging-architecture-in-the-container-era
 
-<https://devops.stackexchange.com/questions/422/how-to-have-multiple-log-streams-in-docker>
+https://devops.stackexchange.com/questions/422/how-to-have-multiple-log-streams-in-docker
 
 [Logging at Zerodha - Zerodha Tech Blog](https://zerodha.tech/blog/logging-at-zerodha/)
 

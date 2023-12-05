@@ -94,10 +94,10 @@ An MTD can only operate as an End Device (Child).
 
 ![image](../../media/OpenThread-image2.jpg)**References**
 
-<https://openthread.io>
+https://openthread.io
 
-<https://openthread.io/guides/thread-primer>
+https://openthread.io/guides/thread-primer
 
-<https://openthread.io/guides/thread-primer/node-roles-and-types>
+https://openthread.io/guides/thread-primer/node-roles-and-types
 
-<https://openthread.io/guides/ncp>
+https://openthread.io/guides/ncp

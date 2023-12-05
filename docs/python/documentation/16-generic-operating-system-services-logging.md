@@ -49,7 +49,7 @@ os.getloadavg() # Return the number of processes in the system run queue average
 
 **run-queue:** Number of active ( running ) and queued processes
 
-<https://www.thegeekdiary.com/understanding-os-load-average-and-run-queue-blocked-queue-in-terms-of-cpu-utilization-in-linux>
+https://www.thegeekdiary.com/understanding-os-load-average-and-run-queue-blocked-queue-in-terms-of-cpu-utilization-in-linux
 
 ## Python logging
 
@@ -74,9 +74,9 @@ The logging library takes a modular approach and offers several categories of co
 
 Log event information is passed between loggers, handlers, filters and formatters in a [LogRecord](https://docs.python.org/3/library/logging.html#logging.LogRecord) instance.
 
-<https://docs.python.org/3/howto/logging.html>
+https://docs.python.org/3/howto/logging.html
 
-<https://docs.python.org/3/howto/logging-cookbook.html>
+https://docs.python.org/3/howto/logging-cookbook.html
 
 1. Logger
 
@@ -105,7 +105,7 @@ Log event information is passed between loggers, handlers, filters and formatter
 - QueueHandler
 - QueueListener
 
-<https://docs.python.org/3/library/logging.handlers.html>
+https://docs.python.org/3/library/logging.handlers.html
 
 3. Formatter
 
@@ -218,9 +218,9 @@ True
 False
 ```
 
-<https://docs.python.org/3.3/library/argparse.html>
+https://docs.python.org/3.3/library/argparse.html
 
-<https://docs.python.org/3/howto/argparse.html>
+https://docs.python.org/3/howto/argparse.html
 
 ### getopt
 
@@ -257,6 +257,6 @@ elif opt in ("-v", "--verbose"):
 verbose = True
 ```
 
-<https://docs.python.org/3/library/getopt.html>
+https://docs.python.org/3/library/getopt.html
 
-<https://github.com/eclipse/paho.mqtt.python/blob/master/examples/client_mqtt_clear_retain.py>
+https://github.com/eclipse/paho.mqtt.python/blob/master/examples/client_mqtt_clear_retain.py

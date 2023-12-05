@@ -22,11 +22,11 @@ Nest is inspired by Angular
 | app.module.ts     | The root module of the application                                                                               |
 | main.ts           | The entry file of the application which uses the core functionNestFactoryto create a Nest application instance |
 
-<https://docs.nestjs.com/first-steps>
+https://docs.nestjs.com/first-steps
 
-<https://www.merixstudio.com/blog/nestjs-how-and-why-use-it>
+https://www.merixstudio.com/blog/nestjs-how-and-why-use-it
 
-<https://www.freecodecamp.org/news/learn-nestjs-by-building-a-crud-api>
+https://www.freecodecamp.org/news/learn-nestjs-by-building-a-crud-api
 
 ## Commands
 
@@ -38,6 +38,6 @@ select package manager - npm
 
 cd project-world
 
-npm run start (<http://localhost:3000>)
+npm run start (http://localhost:3000)
 
 npm run start:dev # watch mode

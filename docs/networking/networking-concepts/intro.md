@@ -55,7 +55,7 @@ DNAT - Destination Network Address Translation
 
 SNAT - Source Network Address Translation
 
-<https://en.wikipedia.org/wiki/Network_address_translation>
+https://en.wikipedia.org/wiki/Network_address_translation
 
 ## VPN
 
@@ -71,20 +71,20 @@ There are four pieces to the DMVPN puzzle:
 - Routing (RIP, EIGRP, OSPF, BGP, etc.)
 - IPsec (not required but recommended)
 
-<https://networklessons.com/cisco/ccie-routing-switching/introduction-to-dmvpn>
+https://networklessons.com/cisco/ccie-routing-switching/introduction-to-dmvpn
 
 ## Bridge
 
 A **network bridge** is a [computer networking device](https://en.wikipedia.org/wiki/Networking_hardware) that creates a single aggregate network from multiple [communication networks](https://en.wikipedia.org/wiki/Communication_network) or [network segments](https://en.wikipedia.org/wiki/Network_segment). This function is called**network bridging.**Bridging is distinct from [routing](https://en.wikipedia.org/wiki/Routing). Routing allows multiple networks to communicate independently and yet remain separate, whereas bridging connects two separate networks as if they were a single network.In the [OSI model](https://en.wikipedia.org/wiki/OSI_model), bridging is performed in the [data link layer](https://en.wikipedia.org/wiki/Data_link_layer)(layer 2). If one or more segments of the bridged network are [wireless](https://en.wikipedia.org/wiki/Wireless_network), the device is known as a**wireless bridge.**
 There are four main types of network bridging technologies: simple bridging, multiport bridging, learning or transparent bridging, and [source route bridging](https://en.wikipedia.org/wiki/Source_route_bridging).
 
-<https://en.wikipedia.org/wiki/Bridging_(networking)>
+https://en.wikipedia.org/wiki/Bridging_(networking)
 
 ## References
 
-<https://www.digitalocean.com/community/tutorials/an-introduction-to-networking-terminology-interfaces-and-protocols>
+https://www.digitalocean.com/community/tutorials/an-introduction-to-networking-terminology-interfaces-and-protocols
 
-<https://www.freecodecamp.org/news/free-computer-networking-course>
+https://www.freecodecamp.org/news/free-computer-networking-course
 
 - Intro to Network Devices
 - Networking Services and Applications
@@ -141,4 +141,4 @@ There are four main types of network bridging technologies: simple bridging, mul
 - Basics of Change Management
 - Common Networking Protocols
 
-<https://www.freecodecamp.org/news/how-does-the-internet-work>
+https://www.freecodecamp.org/news/how-does-the-internet-work

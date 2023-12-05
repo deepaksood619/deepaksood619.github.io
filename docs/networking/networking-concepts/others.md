@@ -16,7 +16,7 @@ All spine switches can handle Layer 3 (L3) with high port density, which allows 
 
 ![image](../../media/net-Others-image2.jpg)
 
-<https://www.sdxcentral.com/data-center/definitions/what-are-spine-switches>
+https://www.sdxcentral.com/data-center/definitions/what-are-spine-switches
 
 ## NAS
 
@@ -24,11 +24,11 @@ Network-attached storage(NAS) is a file-level (as opposed to [block-level](https
 
 The hard disk drives with "NAS" in their name are functionally similar to other drives but may have different firmware, vibration tolerance, or power dissipation to make them more suitable for use in RAID arrays, which are often used in NAS implementations.For example, some NAS versions of drives support a command extension to allow extended error recovery to be disabled. In a non-RAID application, it may be important for a disk drive to go to great lengths to successfully read a problematic storage block, even if it takes several seconds. In an appropriately configured RAID array, a single bad block on a single drive can be recovered completely via the redundancy encoded across the RAID set. If a drive spends several seconds executing extensive retries it might cause the RAID controller to flag the drive as "down" whereas if it simply replied promptly that the block of data had a checksum error, the RAID controller would use the redundant data on the other drives to correct the error and continue without any problem. Such a "NAS" SATA hard disk drive can be used as an internal PC hard drive, without any problems or adjustments needed, as it simply supports additional options and may possibly be built to a higher quality standard (particularly if accompanied by a higher quoted [MTBF](https://en.wikipedia.org/wiki/MTBF) figure and higher price) than a regular consumer drive.
 
-<https://en.wikipedia.org/wiki/Network-attached_storage>
+https://en.wikipedia.org/wiki/Network-attached_storage
 
 ## Peer to Peer Networks
 
-<https://skerritt.blog/designing-effective-peer-to-peer-networks>
+https://skerritt.blog/designing-effective-peer-to-peer-networks
 
 ## VPC / RDP
 
@@ -37,13 +37,13 @@ mac - cmd+space
 
 vnc://13.233.36.211:5901
 
-<https://ubuntu.com/tutorials/tutorial-ubuntu-desktop-aws#1-overview>
+https://ubuntu.com/tutorials/tutorial-ubuntu-desktop-aws#1-overview
 
-<https://datawookie.netlify.app/blog/2017/08/remote-desktop-on-an-ubuntu-ec2-instance>
+https://datawookie.netlify.app/blog/2017/08/remote-desktop-on-an-ubuntu-ec2-instance
 
 ## NoMachine
 
-<https://www.nomachine.com>
+https://www.nomachine.com
 
 ## Windows remote desktop (RDP)
 
@@ -58,13 +58,13 @@ From here, first set the Restrict Remote Desktop Services user to a single Remot
 
 Next, double-click onLimit number of connectionsand then set theRD Maximum Connections allowedto 999999.
 
-<https://www.serverwatch.com/server-tutorials/multiple-remote-desktop-connections-on-windows-server-2016-and-windows-server-2012.html>
+https://www.serverwatch.com/server-tutorials/multiple-remote-desktop-connections-on-windows-server-2016-and-windows-server-2012.html
 
 ## ONAP
 
 ONAP is a comprehensive platform for orchestration, management, and automation of network and edge computing services for network operators, cloud providers, and enterprises. Real-time, policy-driven orchestration and automation of physical and virtual network functions enables rapid automation of new services and complete lifecycle management critical for 5G and next-generation networks.
 
-<https://www.onap.org>
+https://www.onap.org
 
 ## IPVS
 
@@ -76,11 +76,11 @@ IPVS is merged into versions 2.4.x and newer of the Linux kernel mainline.
 
 In a nutshell, IPVS is used to expose an entrypoint service with a unique virtual IP. All TCP/UPD traffic going through thisendpoint is load-balanced between physical servers.
 
-<https://en.wikipedia.org/wiki/IP_Virtual_Server>
+https://en.wikipedia.org/wiki/IP_Virtual_Server
 
 ## REST GraphQL Grpc
 
-<https://www.redhat.com/architect/apis-rest-graphql-grpc>
+https://www.redhat.com/architect/apis-rest-graphql-grpc
 
 ## RFID vs NFC
 
@@ -94,11 +94,11 @@ contain their own power source giving them the ability to broadcast with a read 
 
 ### Passive RFID tags
 
-<https://www.atlasrfidstore.com/rfid-tags/>
+https://www.atlasrfidstore.com/rfid-tags/
 
 do not have their own power source. Instead, they are powered by the electromagnetic energy transmitted from the RFID reader. Because the radio waves must be strong enough to power the tags, passive RFID tags have a read range from near contact and up to 25 meters.
 
-<https://www.atlasrfidstore.com/rfid-insider/rfid-vs-nfc>
+https://www.atlasrfidstore.com/rfid-insider/rfid-vs-nfc
 
 ## Mobile Cell Service
 

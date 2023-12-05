@@ -48,13 +48,13 @@ In our world things change, anddescribing how they changeoften ends up as a Diff
 
 ## References
 
-<https://www.khanacademy.org/math/calculus-1>
+https://www.khanacademy.org/math/calculus-1
 
-Precalculus - <https://www.youtube.com/watch?v=eI4an8aSsgw>
+Precalculus - https://www.youtube.com/watch?v=eI4an8aSsgw
 
 [What is Calculus? (Mathematics)](https://www.youtube.com/watch?v=w3GV9pumczQ)
 
-<https://www.freecodecamp.org/news/learn-calculus-2-in-this-free-7-hour-course>
+https://www.freecodecamp.org/news/learn-calculus-2-in-this-free-7-hour-course
 
 - Area Between Curves
 - Volumes of Solids of Revolution

@@ -20,7 +20,7 @@ docker run --rm --name=grafana -p 3000:3000 grafana/grafana
 
 ## Dashboards
 
-- Telegraf System dashboard - <https://grafana.com/dashboards/928>
+- Telegraf System dashboard - https://grafana.com/dashboards/928
 - Docker Overview - 5763
 - Telegraf sysstats - 4823
 - Kafka Overview - 721 prometheus
@@ -28,18 +28,18 @@ docker run --rm --name=grafana -p 3000:3000 grafana/grafana
 - Prometheus 2.0 Overview - 3662
 - Grafana Dashboard Exporter/Importer - 5837
 
-<https://grafana.com/grafana/dashboards/5837>
+https://grafana.com/grafana/dashboards/5837
 
 - Blackbox Exporter status page dashboard - 5345
-- HTTP - <https://grafana.com/grafana/dashboards/10138>
-  - HTTP Metrics - <https://grafana.com/grafana/dashboards/73>
-- Redis - <https://grafana.com/grafana/dashboards/763>
+- HTTP - https://grafana.com/grafana/dashboards/10138
+  - HTTP Metrics - https://grafana.com/grafana/dashboards/73
+- Redis - https://grafana.com/grafana/dashboards/763
 
-- **AWS Dashboards - <https://github.com/monitoringartist/grafana-aws-cloudwatch-dashboards>**
+- **AWS Dashboards - https://github.com/monitoringartist/grafana-aws-cloudwatch-dashboards**
 
-<https://grafana.com/docs/grafana/latest/datasources/cloudwatch>
+https://grafana.com/docs/grafana/latest/datasources/cloudwatch
 
-- <https://grafana.com/blog/2021/11/09/announcing-grafana-oncall>
+- https://grafana.com/blog/2021/11/09/announcing-grafana-oncall
 
 ## Env
 
@@ -168,8 +168,8 @@ grafana-cli plugins install <plugin-id> <version>
 grafana-cli plugins ls
 ```
 
-<http://docs.grafana.org/guides/basic_concepts>
+http://docs.grafana.org/guides/basic_concepts
 
-<https://play.grafana.org/d/ZvPm55mWk/new-features-in-v6-2?orgId=1>
+https://play.grafana.org/d/ZvPm55mWk/new-features-in-v6-2?orgId=1
 
-<https://github.com/grafana/grafana>
+https://github.com/grafana/grafana

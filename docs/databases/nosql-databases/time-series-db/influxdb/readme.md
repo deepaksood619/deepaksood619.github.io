@@ -92,7 +92,7 @@ A series is the most important concept of Influxdb. A series is a combination of
 
 ![image](../../../../media/InfluxDB-image1.jpg)
 
-TICK Stack (<https://www.influxdata.com/time-series-platform>)
+TICK Stack (https://www.influxdata.com/time-series-platform)
 
 - Telegraf
 - InfluxDB

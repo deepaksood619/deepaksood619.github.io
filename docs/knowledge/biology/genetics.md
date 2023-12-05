@@ -8,7 +8,7 @@ The [genotype-phenotype distinction](https://en.wikipedia.org/wiki/Genotype-phen
 
 The genotype-phenotype distinction should not be confused with [Francis Crick](https://en.wikipedia.org/wiki/Francis_Crick)'s [central dogma of molecular biology](https://en.wikipedia.org/wiki/Central_dogma_of_molecular_biology), which is a statement about the directionality of molecular sequential information flowing from DNA to protein, and not the reverse.
 
-<https://en.wikipedia.org/wiki/Phenotype>
+https://en.wikipedia.org/wiki/Phenotype
 
 ## Allele
 
@@ -16,9 +16,9 @@ An allele is a variant form of a gene. Some genes have a variety of different fo
 
 Some alleles are dominant or recessive. When an organism is heterozygous at a specific locus and carries one dominant and one recessive allele, the organism will express the dominant phenotype. Alleles can also refer to minor DNA sequence variations between alleles that do not necessarily influence the gene's phenotype.
 
-<https://www.nature.com/scitable/definition/allele-48>
+https://www.nature.com/scitable/definition/allele-48
 
-<https://en.wikipedia.org/wiki/Allele>
+https://en.wikipedia.org/wiki/Allele
 
 ## Epigenetics
 
@@ -30,7 +30,7 @@ One example of an epigenetic change in [eukaryotic](https://en.wikipedia.org/wik
 
 Historically, some phenomena not necessarily heritable have also been described as epigenetic. For example, the term epigenetic has been used to describe any modification of chromosomal regions, especially histone modifications, whether or not these changes are heritable or associated with a phenotype. The consensus definition now requires a trait to be heritable for it to be considered epigenetic.
 
-<https://en.wikipedia.org/wiki/Epigenetics>
+https://en.wikipedia.org/wiki/Epigenetics
 
 ## Links
 

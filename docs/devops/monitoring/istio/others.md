@@ -8,7 +8,7 @@
 
 ![image](../../../media/DevOps-Monitoring-Others-image2.jpg)
 
-<https://software.danielwatrous.com/istio-ingress-vs-kubernetes-ingress>
+https://software.danielwatrous.com/istio-ingress-vs-kubernetes-ingress
 
 [**https://medium.com/@zhaohuabing/which-one-is-the-right-choice-for-the-ingress-gateway-of-your-service-mesh-21a280d4a29c**](https://medium.com/@zhaohuabing/which-one-is-the-right-choice-for-the-ingress-gateway-of-your-service-mesh-21a280d4a29c)
 
@@ -16,7 +16,7 @@
 
 ## Shared Control Plane
 
-<https://istio.io/docs/setup/install/multicluster/shared>
+https://istio.io/docs/setup/install/multicluster/shared
 
 ## Access Log
 

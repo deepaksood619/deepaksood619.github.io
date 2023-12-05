@@ -52,7 +52,7 @@ The best exercise for gaining strength is not missing workouts
 4. Don't go too fast
 5. Breathe in while going down through nose, breathe out while going up (pushing up) through mouth
 
-<https://www.youtube.com/watch?v=A_7foakUeHw>
+https://www.youtube.com/watch?v=A_7foakUeHw
 
 ## Gym routine (60 mins)
 

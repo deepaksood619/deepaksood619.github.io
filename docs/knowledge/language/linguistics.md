@@ -12,7 +12,7 @@ The word grapheme, coined in analogy with phoneme, is derived from Ancient Greek
 
 The concept of graphemes is an abstract one and similar to the notion in [computing](https://en.wikipedia.org/wiki/Computing) of a [character](https://en.wikipedia.org/wiki/Character_(computing)). By comparison, a specific shape that represents any particular grapheme in a specific [typeface](https://en.wikipedia.org/wiki/Typeface) is called a [glyph](https://en.wikipedia.org/wiki/Glyph). For example, the grapheme corresponding to the abstract concept of "the Arabic numeral one" has two distinct glyphs ([allographs](https://en.wikipedia.org/wiki/Allograph)) in the fonts [Times New Roman](https://en.wikipedia.org/wiki/Times_New_Roman) and [Helvetica](https://en.wikipedia.org/wiki/Helvetica).
 
-<https://en.wikipedia.org/wiki/Grapheme>
+https://en.wikipedia.org/wiki/Grapheme
 
 ## Phoneme
 
@@ -82,7 +82,7 @@ The IPA was created by the [International Phonetic Association](https://www.inte
 | 43      | ɪəʳ        | ear, eer, ere, ier                                 | ear, steer, here, tier                                                         |
 | 44      | ʊəʳ        | ure, our                                           | cure, tourist                                                                  |
 
-<https://www.dyslexia-reading-well.com/44-phonemes-in-english.html>
+https://www.dyslexia-reading-well.com/44-phonemes-in-english.html
 
 ## Diacritic
 
@@ -148,6 +148,6 @@ A **diacritic** -- also **diacritical mark**, **diacritical point**, **diacritic
 - Syriac diacritics
 - Thai diacritics
 
-<https://en.wikipedia.org/wiki/Diacritic>
+https://en.wikipedia.org/wiki/Diacritic
 
-<https://en.wikipedia.org/wiki/Circumflex>
+https://en.wikipedia.org/wiki/Circumflex

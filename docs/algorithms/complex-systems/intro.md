@@ -4,4 +4,4 @@
 
 ![image](../../media/Complex-Systems-image2.jpg)
 
-<https://en.wikipedia.org/wiki/Complex_system>
+https://en.wikipedia.org/wiki/Complex_system

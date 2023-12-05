@@ -1120,4 +1120,4 @@ Add real-time web functionalities easily
 
 A fully managed Spring Cloud service, built and operated with Pivotal
 
-<https://azure.microsoft.com/en-in/services>
+https://azure.microsoft.com/en-in/services

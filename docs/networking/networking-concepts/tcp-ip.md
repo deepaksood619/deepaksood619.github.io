@@ -57,4 +57,4 @@ This layer performs the functions of top three layers of the OSI model: Applicat
 
 UDP and TCP both support the same port numbers (1-65535) but they're different protocols. You can run 2 different servers on UDP port 80 and TCP port 80 at the same time.
 
-<https://blog.cloudflare.com/unimog-cloudflares-edge-load-balancer>
+https://blog.cloudflare.com/unimog-cloudflares-edge-load-balancer

@@ -36,7 +36,7 @@ Federalism is the mixed or compound mode of [government](https://en.wikipedia.or
 
 Federalism can thus be defined as a form of government in which there is a division of powers between two levels of government of equal status.
 
-<https://en.wikipedia.org/wiki/Federalism>
+https://en.wikipedia.org/wiki/Federalism
 
 ### Egalitarian
 
@@ -70,7 +70,7 @@ The principle of separation of the state from religious institutions.
 
 ### Communism
 
-Communism (from [Latin](https://en.wikipedia.org/wiki/Latin) communis, 'common, universal') is a [philosophical](https://en.wikipedia.org/wiki/Political_philosophy), [social](https://en.wikipedia.org/wiki/Social_philosophy), [political](https://en.wikipedia.org/wiki/Political_movement), [economic](https://en.wikipedia.org/wiki/Economic_ideology) ideology and [movement](https://en.wikipedia.org/wiki/Political_movement) whose ultimate goal is the establishment of a [communist society](https://en.wikipedia.org/wiki/Communist_society), namely a [socioeconomic](https://en.wikipedia.org/wiki/Socioeconomics) order structured upon the ideas of [common ownership](https://en.wikipedia.org/wiki/Common_ownership) of the [means of production](https://en.wikipedia.org/wiki/Means_of_production) and the absence of [social classes](https://en.wikipedia.org/wiki/Social_class), [money](https://en.wikipedia.org/wiki/Money) and the [state](https://en.wikipedia.org/wiki/State_(polity)). - <https://en.wikipedia.org/wiki/Communism>
+Communism (from [Latin](https://en.wikipedia.org/wiki/Latin) communis, 'common, universal') is a [philosophical](https://en.wikipedia.org/wiki/Political_philosophy), [social](https://en.wikipedia.org/wiki/Social_philosophy), [political](https://en.wikipedia.org/wiki/Political_movement), [economic](https://en.wikipedia.org/wiki/Economic_ideology) ideology and [movement](https://en.wikipedia.org/wiki/Political_movement) whose ultimate goal is the establishment of a [communist society](https://en.wikipedia.org/wiki/Communist_society), namely a [socioeconomic](https://en.wikipedia.org/wiki/Socioeconomics) order structured upon the ideas of [common ownership](https://en.wikipedia.org/wiki/Common_ownership) of the [means of production](https://en.wikipedia.org/wiki/Means_of_production) and the absence of [social classes](https://en.wikipedia.org/wiki/Social_class), [money](https://en.wikipedia.org/wiki/Money) and the [state](https://en.wikipedia.org/wiki/State_(polity)). - https://en.wikipedia.org/wiki/Communism
 
 [Communism - Wikipedia](https://en.wikipedia.org/wiki/Communism)
 
@@ -78,9 +78,9 @@ Communism (from [Latin](https://en.wikipedia.org/wiki/Latin) communis, 'common, 
 
 "Orwellian" is an [adjective](https://en.wikipedia.org/wiki/Adjective) describing a situation, idea, or societal condition that [George Orwell](https://en.wikipedia.org/wiki/George_Orwell) identified as being destructive to the welfare of a free and [open society](https://en.wikipedia.org/wiki/Open_society). It denotes an attitude and a brutal policy of draconian control by [propaganda](https://en.wikipedia.org/wiki/Propaganda), [surveillance](https://en.wikipedia.org/wiki/Surveillance), [disinformation](https://en.wikipedia.org/wiki/Disinformation), [denial of truth](https://en.wikipedia.org/wiki/Denialism) ([doublethink](https://en.wikipedia.org/wiki/Doublethink)), and manipulation of the past, including the "[unperson](https://en.wikipedia.org/wiki/Unperson)" - a person whose past existence is expunged from the public record and memory, practiced by modern repressive governments. Often, this includes the circumstances depicted in his novels, particularly [Nineteen Eighty-Four](https://en.wikipedia.org/wiki/Nineteen_Eighty-Four) but political [doublespeak](https://en.wikipedia.org/wiki/Doublespeak) is criticized throughout his work, such as in [Politics and the English Language](https://en.wikipedia.org/wiki/Politics_and_the_English_Language).
 
-<https://en.wikipedia.org/wiki/Orwellian>
+https://en.wikipedia.org/wiki/Orwellian
 
-<https://en.wikipedia.org/wiki/Nineteen_Eighty-Four>
+https://en.wikipedia.org/wiki/Nineteen_Eighty-Four
 
 ### Gerontocracy
 
@@ -110,7 +110,7 @@ In [philosophy](https://en.wikipedia.org/wiki/Philosophy "Philosophy"), [politic
 
 ![image](../../../media/Politics-image1.jpg)
 
-<https://en.wikipedia.org/wiki/Government>
+https://en.wikipedia.org/wiki/Government
 
 - Full presidential republics
 - Semi-presidential republics
@@ -123,7 +123,7 @@ In [philosophy](https://en.wikipedia.org/wiki/Philosophy "Philosophy"), [politic
 - Countries where constitutional provisions for government have been suspended (e.g. military dictatorships)
 - Countries which do not fit any of the above systems (e.g. provisional governments/unclear political situations)
 
-<https://en.wikipedia.org/wiki/Parliamentary_system>
+https://en.wikipedia.org/wiki/Parliamentary_system
 
 ## Permanent Revolution
 
@@ -158,7 +158,7 @@ The idea of fairness for all humans
 
 ![image](../../../media/Politics-image4.jpg)
 
-<https://www.youtube.com/watch?v=8SOQduoLgRw>
+https://www.youtube.com/watch?v=8SOQduoLgRw
 
 ### Bipartisan
 

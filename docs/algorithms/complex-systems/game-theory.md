@@ -97,12 +97,12 @@ Move the toss from a two-step formula -- toss thecoin, winning captain chooses -
 
 It is inspired by a rule called **divide and choose** which has been used throughout history to make a very different kind of allocation decision about dividing a divisible resource. Steven Brams and Alan Taylor have written an excellent book on it called Fair Division. Here we don't have a divisible resource but we do have runs, which are almost a divisible resource, and which we can use to balance things out."
 
-<https://en.wikipedia.org/wiki/Fair_division>
+https://en.wikipedia.org/wiki/Fair_division
 
-<https://brilliant.org/wiki/fair-division>
+https://brilliant.org/wiki/fair-division
 
-<https://en.wikipedia.org/wiki/Game_theory>
+https://en.wikipedia.org/wiki/Game_theory
 
 [Game Theory: The Science of Decision-Making](https://www.youtube.com/watch?v=MHS-htjGgSY)
 
-<https://www.freecodecamp.org/news/introduction-to-evolutionary-game-theory>
+https://www.freecodecamp.org/news/introduction-to-evolutionary-game-theory

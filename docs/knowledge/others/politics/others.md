@@ -2,7 +2,7 @@
 
 ## Free Speech
 
-<https://www.youtube.com/watch?v=OYHhPmmNUEs>
+https://www.youtube.com/watch?v=OYHhPmmNUEs
 
 **brinkmanship** - the art or practice of pursuing a dangerous policy to the limits of safety before stopping, especially in politics.
 

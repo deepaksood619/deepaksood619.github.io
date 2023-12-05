@@ -38,16 +38,16 @@ Unlike TCP, the service mesh has a significant goal beyond "just make it work": 
 
 ## Kuma
 
-<https://kuma.io/docs/0.1.2/#why-kuma>
+https://kuma.io/docs/0.1.2/#why-kuma
 
 ## References
 
-<https://dzone.com/articles/whats-a-service-mesh-and-why-do-i-need-one>
+https://dzone.com/articles/whats-a-service-mesh-and-why-do-i-need-one
 
 [**https://blog.envoyproxy.io/service-mesh-data-plane-vs-control-plane-2774e720f7fc**](https://blog.envoyproxy.io/service-mesh-data-plane-vs-control-plane-2774e720f7fc)
 
-<https://www.weave.works/blog/introduction-to-service-meshes-on-kubernetes-and-progressive-delivery>
+https://www.weave.works/blog/introduction-to-service-meshes-on-kubernetes-and-progressive-delivery
 
 [**https://layer5.io/landscape**](https://layer5.io/landscape)
 
-<https://www.toptal.com/kubernetes/service-mesh-comparison>
+https://www.toptal.com/kubernetes/service-mesh-comparison

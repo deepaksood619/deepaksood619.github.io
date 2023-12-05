@@ -40,13 +40,13 @@ For example, a multi-asset fund might invest in equity, debt, as well as gold.
 
 ## Funds
 
-<https://www.moneycontrol.com/mutual-funds/nav/icici-prudential-nifty-index-fund/MPI031>
+https://www.moneycontrol.com/mutual-funds/nav/icici-prudential-nifty-index-fund/MPI031
 
-<https://www.moneycontrol.com/mutual-funds/nav/parag-parikh-flexi-cap-fund-direct-plan-growth/MPP002>
+https://www.moneycontrol.com/mutual-funds/nav/parag-parikh-flexi-cap-fund-direct-plan-growth/MPP002
 
-<https://www.moneycontrol.com/mutual-funds/nav/hdfc-mid-cap-opportunities-fund-direct-plan-growth/MHD1161>
+https://www.moneycontrol.com/mutual-funds/nav/hdfc-mid-cap-opportunities-fund-direct-plan-growth/MHD1161
 
-SBI smallcap mutual fund - <https://twitter.com/etmoney/status/1590690695408676865>
+SBI smallcap mutual fund - https://twitter.com/etmoney/status/1590690695408676865
 
 ## Categories of actively managed equity mutual fund schemes
 
@@ -75,13 +75,13 @@ In the multicap category, the allocation decision is left to the fund manager wh
 1. Windmill Capital - Straight Flush
 2. Windmill Capital - Value and Momentum
 3. Windmill Capital - Brand Value
-4. Low risk smart beta: <https://www.smallcase.com/smallcase/low-risk-smart-beta-SCSB_0003>
+4. Low risk smart beta: https://www.smallcase.com/smallcase/low-risk-smart-beta-SCSB_0003
 5. Weekend Investing - Smallcase Weekend Investing - Mi_NNF10
 6. Smallcase Capitalmind Momentum
 7. Dividend Aristocrat
 8. Dividend stars
 9. SmartNifty index
-10. Gulaq - <https://www.gulaq.com>
+10. Gulaq - https://www.gulaq.com
 
 ## Analysis
 

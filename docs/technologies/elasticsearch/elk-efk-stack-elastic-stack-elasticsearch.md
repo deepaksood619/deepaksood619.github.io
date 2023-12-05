@@ -32,7 +32,7 @@ Logstash is a log pipeline tool that accepts inputs from various sources, execut
 
 ## S3 output plugin
 
-<https://www.elastic.co/guide/en/logstash/current/plugins-outputs-s3.html>
+https://www.elastic.co/guide/en/logstash/current/plugins-outputs-s3.html
 
 ## Kibana
 
@@ -46,10 +46,10 @@ Together, these three different open source products are most commonly used in l
 
 ## Lumberjack Protocol
 
-<https://logz.io/blog/filebeat-vs-logstash>
+https://logz.io/blog/filebeat-vs-logstash
 
 ## References
 
-<https://www.elastic.co/elk-stack>
+https://www.elastic.co/elk-stack
 
-<https://qbox.io/blog/elasticsearch-logstash-kibana-apache-logs>
+https://qbox.io/blog/elasticsearch-logstash-kibana-apache-logs

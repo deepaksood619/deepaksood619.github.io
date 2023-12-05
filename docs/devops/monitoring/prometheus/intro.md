@@ -38,8 +38,8 @@ A CNCF (Cloud Native Computing Foundation) project, is a systems and service mon
 
 ## Dashboards
 
-- <http://localhost:9090/metrics> # for seeing all metrics that are currently scraped
-- <http://localhost:9090/graph> # for visualizing graphs for the metrics
+- http://localhost:9090/metrics # for seeing all metrics that are currently scraped
+- http://localhost:9090/graph # for visualizing graphs for the metrics
 
 ## Metrics
 
@@ -59,7 +59,7 @@ A CNCF (Cloud Native Computing Foundation) project, is a systems and service mon
     - async writes can cause deferred "charges"
     - some page-ins are also shared between containers
 
-<http://jpetazzo.github.io/2013/10/08/docker-containers-metrics>
+http://jpetazzo.github.io/2013/10/08/docker-containers-metrics
 
 - Application Metrics
   - Arbitrary metrics related to your application and business
@@ -108,26 +108,26 @@ Distributed TSDB, Aggregator and Query Engine, Prometheus Sidecar, Metrics Platf
 
 The fully open source metrics platform built on M3DB, a distributed timeseries database
 
-<https://github.com/m3db/m3>
+https://github.com/m3db/m3
 
-<https://m3db.io>
+https://m3db.io
 
 - PushGateway
 
 The Prometheus Pushgateway exists to allow ephemeral and batch jobs to expose their metrics to Prometheus. Since these kinds of jobs may not exist long enough to be scraped, they can instead push their metrics to a Pushgateway. The Pushgateway then exposes these metrics to Prometheus.
 
-<https://github.com/prometheus/pushgateway>
+https://github.com/prometheus/pushgateway
 
 ## References
 
-<https://github.com/prometheus/prometheus>
+https://github.com/prometheus/prometheus
 
-<https://prometheus.io>
+https://prometheus.io
 
-<https://prometheus.io/docs/introduction/overview>
+https://prometheus.io/docs/introduction/overview
 
-TSDB - <https://fabxc.org/tsdb>
+TSDB - https://fabxc.org/tsdb
 
-On Kubernetes - <https://github.com/coreos/prometheus-operator/tree/master/contrib/kube-prometheus>
+On Kubernetes - https://github.com/coreos/prometheus-operator/tree/master/contrib/kube-prometheus
 
-<https://github.com/prometheus-community/helm-charts/tree/main/charts/kube-prometheus-stack>
+https://github.com/prometheus-community/helm-charts/tree/main/charts/kube-prometheus-stack
