@@ -29,7 +29,7 @@
 - Instagram - https://instagram.com/deepaksood619/
 - Facebook - https://www.facebook.com/deepaksood619
 - Twitter - https://twitter.com/deepaksood619
-- Skype Username - <deepaksood619@gmail.com>
+- Skype Username - deepaksood619@gmail.com
 - Github Personal - https://github.com/deepaksood619
 - Github College - https://github.com/deepak15013
 - Codepen - https://codepen.io/deepaksood619

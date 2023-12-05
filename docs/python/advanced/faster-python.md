@@ -39,7 +39,7 @@
 
     https://www.kdnuggets.com/2020/04/dask-big-data.html
 
-7. https://rapids.ai> <https://github.com/rapidsai
+7. https://rapids.ai  https://github.com/rapidsai
 8. [Vaex: A Fast DataFrame for Python 🚀](https://vaex.io/)
 9. [GitHub - pola-rs/polars: Fast multi-threaded, hybrid-out-of-core DataFrame library in Rust | Python | Node.js](https://github.com/pola-rs/polars)
 

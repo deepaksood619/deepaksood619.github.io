@@ -177,7 +177,7 @@ ON student.city = record.city;
 
 ### Non Equi Join / non-equi join
 
-NON EQUI JOIN performs a JOIN using comparison operator other than equal(=) sign like >, <, >=, <= with conditions.
+NON EQUI JOIN performs a JOIN using comparison operator other than equal(=) sign like `>, <, >=, <=` with conditions.
 
 ```sql
 SELECT student.name, record.id, record.city

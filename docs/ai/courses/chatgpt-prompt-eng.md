@@ -44,7 +44,7 @@ Prompt: "Proofread my writing above. Fix grammar and spelling mistakes. And make
 
 ##### Learn-fast prompt using the 80/20 principle to knowledge
 
-Prompt: "I want to learn about {insert topic}. Identify and share the most important 20% of learnings from this topic that will help me understand 80% of it."
+Prompt: "I want to learn about `{insert topic}`. Identify and share the most important 20% of learnings from this topic that will help me understand 80% of it."
 
 #### Principle 1: Write clear and specific instructions
 
@@ -117,7 +117,7 @@ _Chain-of-thought_ (CoT) prompting is a technique that allows [large language 
 
 ![ChatGPT Prompts Commands](../../media/chatgpt-prompts.png)
 
-Share the most important leadership lessons and insights from the book {insert book} by {insert author}. For each insight suggest an actionable way I can embody it.
+Share the most important leadership lessons and insights from the book `{insert book}` by `{insert author}`. For each insight suggest an actionable way I can embody it.
 
 ## Parameters
 

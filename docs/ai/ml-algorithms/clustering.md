@@ -72,47 +72,46 @@ The distance between two objects, defining the distance between an object and a 
 ## k-means
 
 1. Decide on a value for k
-
 2. Initialize the k cluster centers (randomly, if necessary)
-
 3. Decide the class memberships of the N objects by assigning them to the nearest cluster center
-
 4. Re-estimate the k cluster centers, by assuming the membership found above are correct
-
 5. If none of the N objects changed membership in the last iteration, exit. Otherwise goto 3
 
 ## K-means clustering
 
-## Step 1
+### Step 1
 
 ![image](../../media/Clustering-image5.jpg)
 
-## Step 2
+### Step 2
 
 ![image](../../media/Clustering-image6.jpg)
 
-## Step 3
+### Step 3
 
 ![image](../../media/Clustering-image7.jpg)
 
-## Step 4
+### Step 4
 
 ![image](../../media/Clustering-image8.jpg)
 
-## Step 5
+### Step 5
 
 ![image](../../media/Clustering-image9.jpg)
 
 ## Evaluation of K-means
 
-- **Strength**
-  - Relatively efficient: O(tkn), where. n is # objects, k is # clusters, and t is # iterations. Normally, k, t << n
-  - Often terminates at a *local optimum*. The *global optimum* may be found using techniques such as: *deterministic annealing and genetic algorithms.*
-- **Weakness**
-  - Applicable only when mean is defined, then what about categorical data?
-  - Need to specify k, the number of clusters, in advance
-  - Unable to handle noisy data and outliers
-  - Not suitable for clusters with *non-convex shapes*
+### Strength
+
+- Relatively efficient: O(tkn), where. n is # objects, k is # clusters, and t is # iterations. Normally, `k, t << n`
+- Often terminates at a *local optimum*. The *global optimum* may be found using techniques such as: *deterministic annealing and genetic algorithms.*
+
+### Weakness
+
+- Applicable only when mean is defined, then what about categorical data?
+- Need to specify k, the number of clusters, in advance
+- Unable to handle noisy data and outliers
+- Not suitable for clusters with *non-convex shapes*
 
 ## DBSCAN
 
@@ -154,14 +153,10 @@ The distance between two objects, defining the distance between an object and a 
 ## Different Aspects of Cluster Validation
 
 1. Detemining the **clustering tendency** of a set of data, i.e., distinguishing whether non-random structure actually exists in the data
-
 2. Comparing the results of a cluster analysis to externally known results, e.g., to externally given class labels
-
 3. Evaluating how well the results of a cluster analysis fit the data without reference to external information
     - Use only the data
-
 4. Comparing the results of two different sets of cluster analysis to determine which is better
-
 5. Determining the "correct" number of clusters
 
 ## Measures of Cluster Validity
@@ -210,7 +205,7 @@ The distance between two objects, defining the distance between an object and a 
   - Calculate b = min (average distance of i to points in another cluster)
   - The silhouette coefficient for a point is then given by
 
-s = 1 - a/b if a < b, (or s = b/a -1, if a >= b, not the usual case)
+`s = 1 - a/b if a < b, (or s = b/a -1, if a >= b, not the usual case)`
 
 - Typically between 0 and 1
 - The closer to 1 the better

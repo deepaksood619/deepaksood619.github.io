@@ -131,13 +131,10 @@ Three main quantifier metacharacters
 
 6. ?? - lazy question mark
 
-7. **{n} -** The preceding item is matched exactly *n* times.
-
-8. **{min,} -** The preceding item is matched *min*or more times.
-
-9. **{min, max} -** The preceding item is matched at least *min*times, but not more than *max*times.
-
-10. **{min, max}? -** Lazy quantifier
+7. `{n}` - The preceding item is matched exactly *n* times.
+8. `{min,}` - The preceding item is matched *min*or more times.
+9. `{min, max}` - The preceding item is matched at least *min*times, but not more than *max*times.
+10. `{min, max}?` - Lazy quantifier
 
 ## Greediness
 

@@ -86,7 +86,7 @@ django-reversion is an extension to the Django web framework that provides versi
 
 https://django-crispy-forms.readthedocs.io/en/latest
 
-django-crispy-forms provides you with a|crispyfilter and{%crispy%}tag that will let you control the rendering behavior of your [Django](https://djangoproject.com/) forms in a very elegant and DRY way. Have full control without writing custom form templates. All this without breaking the standard way of doing things in [Django](https://djangoproject.com/), so it plays nice with any other form application.
+django-crispy-forms provides you with `a|crispyfilter` and `{%crispy%}` tag that will let you control the rendering behavior of your [Django](https://djangoproject.com/) forms in a very elegant and DRY way. Have full control without writing custom form templates. All this without breaking the standard way of doing things in [Django](https://djangoproject.com/), so it plays nice with any other form application.
 
 ## Django haystack
 

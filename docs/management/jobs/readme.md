@@ -156,7 +156,7 @@ Where you apply to a lot of jobs
 
 - https://www.cvtemplatemaster.com
 - https://relevel.com
-- <jain.arunabh@nirvanaerecycling.com>
+- jain.arunabh@nirvanaerecycling.com
 - **Salaries -** [https://www.levels.fyi/#](https://www.levels.fyi/)
 
 ### How to apply

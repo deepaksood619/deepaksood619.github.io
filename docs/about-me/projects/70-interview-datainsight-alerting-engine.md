@@ -88,14 +88,14 @@ The machine learning models are not performing as expected, leading to inaccurat
 ##### Questions
 
 1. How much data (10 years, 1 years)
- 1. Roll ups
+1. Roll ups
 2. Accuracy of old data
 3. Data tiering
 4. Query speed
- 1. Batch Reporting - for downloading large datasets, export
-  1. Add queueing and do asynchronous processing
-  2. Wait for data, either in mail, or downloads page
- 2. **Real time analytics**
+1. Batch Reporting - for downloading large datasets, export
+1. Add queueing and do asynchronous processing
+2. Wait for data, either in mail, or downloads page
+2. **Real time analytics**
 
 ## Low Latency Alerting System
 

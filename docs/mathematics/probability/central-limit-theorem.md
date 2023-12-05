@@ -17,7 +17,7 @@ https://www.khanacademy.org/math/statistics-probability/sampling-distributions-l
 ## What is the fundamental difference between the Law of large numbers & the Central limit theorom?
 
 The Law of Large Numbers basically tells us that if we take a sample (n) observations of our random variable & avg the observation (mean)-- it will approach the expected value E(x) of the random variable.
-The Central Limit Theorem, tells us that if we take the mean of the samples (n) and plot the frequencies of their mean, we get a normal distribution! And as the sample size (n) increases --> approaches infinity, we find a normal distribution.
+The Central Limit Theorem, tells us that if we take the mean of the samples (n) and plot the frequencies of their mean, we get a normal distribution! And as the sample size `(n) increases -->` approaches infinity, we find a normal distribution.
 
 ## Sampling distribution of the sample mean
 

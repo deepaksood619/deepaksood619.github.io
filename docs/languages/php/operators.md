@@ -32,10 +32,10 @@ Assume variable A holds 10 and variable B holds 20 then −
 |----------|--------------------------------------------------|-------------|
 | ==       | Checks if the value of two operands are equal or not, if yes then condition becomes true.                                       | (A == B) is not true.  |
 | !=       | Checks if the value of two operands are equal or not, if values are not equal then condition becomes true.                      | (A != B) is true.      |
-| >       | Checks if the value of left operand is greater than the value of right operand, if yes then condition becomes true.             | (A > B) is not true.  |
-| <       | Checks if the value of left operand is less than the value of right operand, if yes then condition becomes true.                | (A < B) is true.      |
-| >=      | Checks if the value of left operand is greater than or equal to the value of right operand, if yes then condition becomes true. | (A >= B) is not true. |
-| <=      | Checks if the value of left operand is less than or equal to the value of right operand, if yes then condition becomes true.    | (A <= B) is true.     |
+| `>`       | Checks if the value of left operand is greater than the value of right operand, if yes then condition becomes true.             | `(A > B)` is not true.  |
+| `<`       | Checks if the value of left operand is less than the value of right operand, if yes then condition becomes true.                | `(A < B)` is true.      |
+| `>=`      | Checks if the value of left operand is greater than or equal to the value of right operand, if yes then condition becomes true. | `(A >= B)` is not true. |
+| `<=`      | Checks if the value of left operand is less than or equal to the value of right operand, if yes then condition becomes true.    | `(A <= B)` is true.     |
 
 ## Logical Operators
 
@@ -94,7 +94,7 @@ Here operators with the highest precedence appear at the top of the table, those
 | Unary          | ! ++ --    | Right to left |
 | Multiplicative | * / %            | Left to right |
 | Additive       | + -        | Left to right |
-| Relational     | < <= > >=     | Left to right |
+| Relational     | `< <= > >=`     | Left to right |
 | Equality       | == !=             | Left to right |
 | Logical AND    | &&                | Left to right |
 | Logical OR     | ||              | Left to right |

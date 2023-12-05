@@ -8,34 +8,38 @@ Why Django - With Django, you can take Web applications from concept to launch i
 
 ## Django Features
 
-1. Components
-    - a lightweight and standalone web server for development and testing
-    - a form serialization and validation system that can translate between [HTML](https://en.wikipedia.org/wiki/HTML) forms and values suitable for storage in the database
-    - a template system that utilizes the concept of [inheritance](https://en.wikipedia.org/wiki/Inheritance_(object-oriented_programming)) borrowed from object-oriented programming
-    - a [caching](https://en.wikipedia.org/wiki/Web_cache) framework that can use any of several cache methods
-    - support for [middleware](https://en.wikipedia.org/wiki/Middleware) classes that can intervene at various stages of request processing and carry out custom functions
-    - an internal dispatcher system that allows components of an application to communicate events to each other via pre-defined signals
-    - an [internationalization](https://en.wikipedia.org/wiki/Internationalization_and_localization) system, including translations of Django's own components into a variety of languages
-    - a [serialization](https://en.wikipedia.org/wiki/Serialization) system that can produce and read [XML](https://en.wikipedia.org/wiki/XML) and/or [JSON](https://en.wikipedia.org/wiki/JSON) representations of Django model instances
-    - a system for extending the capabilities of the template engine
-    - an interface to Python's built-in [unit test](https://en.wikipedia.org/wiki/Unit_test) framework
+### 1. Components
 
-2. Bundled Applications
-    - an extensible authentication system
-    - the dynamic administrative interface
-    - tools for generating [RSS](https://en.wikipedia.org/wiki/RSS_(file_format)) and [Atom](https://en.wikipedia.org/wiki/Atom_(standard)) syndication feeds
-    - a site's framework that allows one Django installation to run multiple websites, each with their own content and applications
-    - tools for generating [Google Sitemaps](https://en.wikipedia.org/wiki/Google_Sitemaps)
-    - built-in mitigation for [cross-site request forgery](https://en.wikipedia.org/wiki/Cross-site_request_forgery), [cross-site scripting](https://en.wikipedia.org/wiki/Cross-site_scripting), [SQL injection](https://en.wikipedia.org/wiki/SQL_injection), [password cracking](https://en.wikipedia.org/wiki/Password_cracking) and other typical web attacks, most of them turned on by default
-    - a framework for creating [GIS](https://en.wikipedia.org/wiki/Geographic_information_system) applications
+- a lightweight and standalone web server for development and testing
+- a form serialization and validation system that can translate between [HTML](https://en.wikipedia.org/wiki/HTML) forms and values suitable for storage in the database
+- a template system that utilizes the concept of [inheritance](https://en.wikipedia.org/wiki/Inheritance_(object-oriented_programming)) borrowed from object-oriented programming
+- a [caching](https://en.wikipedia.org/wiki/Web_cache) framework that can use any of several cache methods
+- support for [middleware](https://en.wikipedia.org/wiki/Middleware) classes that can intervene at various stages of request processing and carry out custom functions
+- an internal dispatcher system that allows components of an application to communicate events to each other via pre-defined signals
+- an [internationalization](https://en.wikipedia.org/wiki/Internationalization_and_localization) system, including translations of Django's own components into a variety of languages
+- a [serialization](https://en.wikipedia.org/wiki/Serialization) system that can produce and read [XML](https://en.wikipedia.org/wiki/XML) and/or [JSON](https://en.wikipedia.org/wiki/JSON) representations of Django model instances
+- a system for extending the capabilities of the template engine
+- an interface to Python's built-in [unit test](https://en.wikipedia.org/wiki/Unit_test) framework
+
+### 2. Bundled Applications
+
+- an extensible authentication system
+- the dynamic administrative interface
+- tools for generating [RSS](https://en.wikipedia.org/wiki/RSS_(file_format)) and [Atom](https://en.wikipedia.org/wiki/Atom_(standard)) syndication feeds
+- a site's framework that allows one Django installation to run multiple websites, each with their own content and applications
+- tools for generating [Google Sitemaps](https://en.wikipedia.org/wiki/Google_Sitemaps)
+- built-in mitigation for [cross-site request forgery](https://en.wikipedia.org/wiki/Cross-site_request_forgery), [cross-site scripting](https://en.wikipedia.org/wiki/Cross-site_scripting), [SQL injection](https://en.wikipedia.org/wiki/SQL_injection), [password cracking](https://en.wikipedia.org/wiki/Password_cracking) and other typical web attacks, most of them turned on by default
+- a framework for creating [GIS](https://en.wikipedia.org/wiki/Geographic_information_system) applications
 
 Template namespacing
 
+```python
 Path - polls/templates/polls/index.html
 
 Render()
 
 Get_object_or_404()
+```
 
 Namespacing URL names
 
@@ -51,26 +55,27 @@ migrations
 
 ## Customizing the admin form
 
-## from django.contrib import admin
+```python
+from django.contrib import admin
 
-## from .models import Question
+from .models import Question
 
-## class QuestionAdmin(admin.ModelAdmin)
-
-fieldsets = [
-(**None**, {'fields': ['question_text']}),
-('Date information', {'fields': ['pub_date']}),
-]
+class QuestionAdmin(admin.ModelAdmin):
+ fieldsets = [
+  (**None**, {'fields': ['question_text']}),
+  ('Date information', {'fields': ['pub_date']}),
+ ]
 
 admin.site.register(Question, QuestionAdmin)
 
-## ChoiceInline(admin.StackedInline)
+ChoiceInline(admin.StackedInline)
 
 Model = Choice
 
 Extra = 3
 
-StackedInline can be replaced with TabularInline for table view
+# StackedInline can be replaced with TabularInline for table view
+```
 
 ## Anatomy of a Dynamic Site
 
@@ -84,10 +89,10 @@ $ django-admin.py startproject samplesite .
 
 ## Django User Model
 
-- **The username field is case-sensitive:**john.doe and John.Doe are two different usernames
-- **The username field validates against unicode letters:**joao, joão, Джон, or 約翰 are all valid username options
-- **The email field is not unique:**More than one user can have the same email address
-- **A user without password cannot initiate a password reset:**If you accept user creation without defining an initial random password, your user might be unable to reset and get the first password
+- **The username field is case-sensitive:** john.doe and John.Doe are two different usernames
+- **The username field validates against unicode letters:** joao, joão, Джон, or 約翰 are all valid username options
+- **The email field is not unique:** More than one user can have the same email address
+- **A user without password cannot initiate a password reset:** If you accept user creation without defining an initial random password, your user might be unable to reset and get the first password
 - **Swapping the default user model is very difficult after you created the initial migrations:** Replacing the user model has many benefits, but you need to do it at the beginning of the project
 
 ## Common Python web project's deployment stack

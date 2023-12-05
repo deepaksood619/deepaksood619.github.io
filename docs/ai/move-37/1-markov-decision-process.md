@@ -71,7 +71,7 @@ A Reward is a real-valued response to an action. R(s) indicates the reward for s
 
 - **Policy**
 
-A policy is a solution to the Markov Decision Process. A policy is a set of actions that are taken by the agent to reach a goal. It indicates the action 'a' to be taken while in state S. A policy is denoted as 'Pi' π(s) -->∞
+A policy is a solution to the Markov Decision Process. A policy is a set of actions that are taken by the agent to reach a goal. It indicates the action 'a' to be taken while in state S. A policy is denoted as `'Pi' π(s) -->∞`
 
 π*is called the optimal policy, which maximizes the expected reward. Among all the policies taken, the optimal policy is the one that optimizes to maximize the amount of reward received or expected to receive over a lifetime. For an MDP, there's no end of the lifetime and you have to decide the end time
 
