@@ -106,7 +106,7 @@ Stack: MQTT, PostgreSQL, Redis, readingdb, Python, Django, Java, Android, REST
 
 #### Wattman Lite
 
-Working on android as frontend and django as backend. Stack includes MQTT and rest api's for communication to server and rpi devices. 
+Working on android as frontend and django as backend. Stack includes MQTT and rest api's for communication to server and rpi devices.
 
 https://play.google.com/store/apps/details?id=com.zenatix.smartaccontrol&hl=en
 

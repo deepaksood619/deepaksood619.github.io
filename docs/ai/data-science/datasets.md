@@ -30,9 +30,9 @@ https://github.com/brianfrankcooper/YCSB/wiki/Core-Workloads
 
 ## TPC (Transaction Processing Performance Council)
 
-TPC stands for Transaction Processing Performance Council. It is a non-profit organization that was founded in 1988. The TPC's goal is to define benchmarks for transaction processing and databases. They also distribute objective and verifiable performance data to the industry. 
+TPC stands for Transaction Processing Performance Council. It is a non-profit organization that was founded in 1988. The TPC's goal is to define benchmarks for transaction processing and databases. They also distribute objective and verifiable performance data to the industry.
 
-Here are some TPC benchmarks: 
+Here are some TPC benchmarks:
 
 - TPC-C: Compares the performance of online transaction processing
 - TPC-E: Measures the performance of online transaction processing systems

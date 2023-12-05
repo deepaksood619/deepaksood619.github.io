@@ -11,5 +11,5 @@
 - [YugabyteDB](databases/nosql-databases/yugabytedb.md)
 - [Clickhouse](databases/nosql-databases/clickhouse.md)
 - [Snowflake](databases/nosql-databases/snowflake.md)
-	- [Snowflake Architecture](databases/nosql-databases/snowflake-architecture.md)
+  - [Snowflake Architecture](databases/nosql-databases/snowflake-architecture.md)
 - [Comparisions](databases/nosql-databases/comparisions.md)
