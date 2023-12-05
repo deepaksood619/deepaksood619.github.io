@@ -31,6 +31,13 @@
 27. [What Is A Backend For A Frontend (BFF) Architecture Pattern](https://youtu.be/SSo-z16wEnc?si=Mhvmiw2V-E11gm-4)
 28. [Mastering how web works ? | Frontend For Everyone](https://youtu.be/s7fa2s8Ry4M?si=57a7i--t3uqTu0Ou)
 29. [Resource Lists for Senior Engineers: WhitePapers, Blogs and Videos](https://www.youtube.com/live/dbc6kC8lWvk?si=hUwanVhbr4SvwHp4)
+30. [CodeSandbox Frontend System Design | Mock Interview | 💪Chakde System Design Ep. 12.2 - YouTube](https://www.youtube.com/watch?v=o5aoJlcS8Rc)
+31. [Choosing between SSR, SSG, and dynamic rendering in Astro - YouTube](https://www.youtube.com/watch?v=aIHRjloFASU)
+32. [This React UI Library is GAME CHANGER! - YouTube](https://www.youtube.com/watch?v=7MKEOfSP2s4)
+33. [Profiling Psychologically Motivated Cyber Criminals - YouTube](https://www.youtube.com/watch?v=qg5BwWGCDF0)
+34. [Different types of modern websites - Explained! - YouTube](https://www.youtube.com/watch?v=3Z_vR7WASwM)
+35. [Don’t Do E2E Testing • Dave Farley • GOTO 2023 - YouTube](https://www.youtube.com/watch?v=P_570bqxDYo)
+36. [Server Driven UI on Mobile • JJ Qi • GOTO 2020 - YouTube](https://www.youtube.com/watch?v=CtSfG8tYRdg)
 
 ## Podcasts
 

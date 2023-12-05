@@ -94,13 +94,9 @@ COD and online can be used also paytm.
 Application
 
 1. Android
-
 2. IOS
-
 3. Web
-
 4. Native
-
 5. **PWA (not supported in ios)**
 
 Vendor

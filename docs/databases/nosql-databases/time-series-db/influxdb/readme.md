@@ -36,7 +36,7 @@ InfluxDB is a time series database. Optimizing for this use case entails some tr
 - Pro: Writing and querying the database can be done by multiple clients and at high loads.
 - Con: Query returns may not include the most recent points if database is under heavy load.
 
-7. Many time [series](<https://docs.influxdata.com/influxdb/v1.7/-> Concepts/glossary/#series) are ephemeral. There are often time series that appear only for a few hours and then go away, e.g. a new host that gets started and reports for a while and then gets shut down.
+7. Many timeseries are ephemeral. There are often time series that appear only for a few hours and then go away, e.g. a new host that gets started and reports for a while and then gets shut down.
 
 - Pro: InfluxDB is good at managing dis-Continuous data.
 - Con: Schema-less design means that some database functions are not supported e.g. there are no cross table joins.
@@ -46,18 +46,14 @@ InfluxDB is a time series database. Optimizing for this use case entails some tr
 - Pro: InfluxDB has very powerful tools to deal with aggregate data and large data sets.
 - Con: Points don't have IDs in the traditional sense, they are differentiated by timestamp and series.
 
-<<https://docs.influxdata.com/influxdb/v1.7/-> Concepts/insights_tradeoffs>
-
 ## InfluxDB schema design and data layouts
 
-Every InfluxDB use case is special and your [schema](<https://docs.influxdata.com/influxdb/v1.7/-> Concepts/glossary/#schema) will reflect that uniqueness. There are, however, general guidelines to follow and pitfalls to avoid when designing your schema.
+Every InfluxDB use case is special and your schema will reflect that uniqueness. There are, however, general guidelines to follow and pitfalls to avoid when designing your schema.
 
 1. General Recommendations
 2. Encouraged Schema Design
 3. Discouraged Schema Design
 4. Shard Group Duration Management
-
-<<https://docs.influxdata.com/influxdb/v1.7/-> Concepts/schema_and_data_layout>
 
 ## Basic - Concepts
 
@@ -81,8 +77,6 @@ Fields are the columns on which mathematical operations such as sum, mean, non-n
 
 A series is the most important concept of Influxdb. A series is a combination of tags, measurement, and retention policy (default of Influxdb). An Influxdb database performance is highly dependent on the number of unique series it contains, which in turn is the cardinality of tags *no. of measurement* retention policy
 
-[Key - Concepts](<https://docs.influxdata.com/influxdb/v1.7/-> Concepts/key_- Concepts/)
-
 ## Glossary of Terms
 
 1. Replication factor
@@ -98,8 +92,6 @@ A series is the most important concept of Influxdb. A series is a combination of
 
 ![image](../../../../media/InfluxDB-image1.jpg)
 
-[Glossary of terms](<https://docs.influxdata.com/influxdb/v1.7/-> Concepts/glossary/)
-
 TICK Stack (<https://www.influxdata.com/time-series-platform>)
 
 - Telegraf
@@ -108,17 +100,3 @@ TICK Stack (<https://www.influxdata.com/time-series-platform>)
 - Kapacitor
 
 ![image](../../../../media/InfluxDB-image2.jpg)
-
-## Links
-
-[Comparing InfluxDB to SQL databases](<https://docs.influxdata.com/influxdb/v1.7/-> Concepts/crosswalk/)
-
-[InfluxDB design insights and tradeoffs](<https://docs.influxdata.com/influxdb/v1.7/-> Concepts/insights_tradeoffs/)
-
-[Schema design and data layout](<https://docs.influxdata.com/influxdb/v1.7/-> Concepts/schema_and_data_layout/)
-
-[In-memory indexing with TSM](<https://docs.influxdata.com/influxdb/v1.7/-> Concepts/storage_engine/)
-
-[Time Series Index (TSI) overview](<https://docs.influxdata.com/influxdb/v1.7/-> Concepts/time-series-index/)
-
-[Time Series Index (TSI) details](<https://docs.influxdata.com/influxdb/v1.7/-> Concepts/tsi-details/)

@@ -25,7 +25,7 @@
 #### Others
 
 - Added Hindi language support
-- CSAT of agents 
+- CSAT of agents
 - Moved from fixed pricing for CS agents to dynamic pricing where based on CSAT, payments will be done
 - Canned responses for CS agents for increased productivity
 

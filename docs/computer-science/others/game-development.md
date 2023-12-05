@@ -33,3 +33,7 @@ In the competitive world of gaming, developers strive to offer an entertaining u
 AI trends have shifted to behavioral trees, but FSMs remain relevant. They're incorporated - in one capacity or another - into virtually every electronic game.
 
 <https://www.toptal.com/unity-unity3d/unity-ai-development-finite-state-machine-tutorial>
+
+## Links
+
+[Building a Multi-player Game with WebSockets - YouTube](https://www.youtube.com/watch?v=cXxEiWudIUY)

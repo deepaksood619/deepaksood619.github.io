@@ -133,3 +133,14 @@ Give tech talk - Learning + Note taking + Zettlekasten - Obsidian / Onenote + Do
 - [Talk to Books](https://books.google.com/talktobooks/)
 - ChatGPT
 - [Consensus - Evidence-Based Answers, Faster](https://consensus.app/)
+
+## Computer science + Coding for Kids / Teens
+
+- [Hour of Code | Learn](https://hourofcode.com/in/en/learn)
+- Khan academy computer science
+- Brilliant computer science
+- Hackerank
+- Geeks for geeks
+- Code chef
+- [Learn | Coding for kids and teens | Raspberry Pi Foundation – Raspberry Pi](https://www.raspberrypi.org/learn)
+- [Teach Computer Science & Coding to Kids - CS First](https://csfirst.withgoogle.com/s/en/home)

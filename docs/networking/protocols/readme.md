@@ -21,3 +21,5 @@
 - [Weave](weave)
 - [Video / Live Streaming](video-live-streaming)
 - [Others](networking/protocols/others.md)
+
+![Different API Protocols](../../media/api-protocols_page-0001.jpg)
