@@ -69,6 +69,6 @@ In the [mathematical](https://en.wikipedia.org/wiki/Mathematics) discipline of [
 
 [Algorithms Course - Graph Theory Tutorial from a Google Engineer - YouTube](https://www.youtube.com/watch?v=09_LlHjoEiY)
 
-<https://www.freecodecamp.org/news/graph-algorithms-for-technical-interviews>
+https://www.freecodecamp.org/news/graph-algorithms-for-technical-interviews
 
-<https://www.freecodecamp.org/news/learn-how-graph-algorithms-work>
+https://www.freecodecamp.org/news/learn-how-graph-algorithms-work

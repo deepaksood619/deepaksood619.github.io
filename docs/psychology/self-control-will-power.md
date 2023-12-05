@@ -48,7 +48,7 @@ Surround yourself with believers. Go to leadership conferences, engage with peop
 
 ![image](../media/Self-Control-Will-Power-image2.jpg)
 
-<https://www.thefivecoatconsultinggroup.com/the-coronavirus-crisis/transition>
+https://www.thefivecoatconsultinggroup.com/the-coronavirus-crisis/transition
 
 ## Tips for increasing mental stamina
 
@@ -84,13 +84,13 @@ Our actions don't match our intentions.
 
 3. You need to follow the same pattern every single time.
 
-<https://www.scotthyoung.com/blog/2019/06/05/7-habit-approaches>
+https://www.scotthyoung.com/blog/2019/06/05/7-habit-approaches
 
 [How a "Hi Level" Mindset Helps You Realize Your Potential | Cordae | TED](https://www.youtube.com/watch?v=x9Ezzxy0frA)
 
 ## Mental Toughness is important
 
-<https://jamesclear.com/mental-toughness>
+https://jamesclear.com/mental-toughness
 
 ## Will power
 
@@ -150,9 +150,9 @@ If something feels far from us, we view it abstractly. This is calledhigh-levelc
 
 When something feels close, we view it more concretely. This is calledlow-levelconstrual.
 
-<https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3152826>
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3152826
 
-<https://en.wikipedia.org/wiki/Construal_level_theory>
+https://en.wikipedia.org/wiki/Construal_level_theory
 
 ## Hyperopia
 
@@ -178,7 +178,7 @@ when people persistently sacrifice their immediate desires for their long term g
 
 ## How to use the power of movies to have same dedication for study
 
-<https://www.scotthyoung.com/blog/2021/05/03/effort-opportunity-cost>
+https://www.scotthyoung.com/blog/2021/05/03/effort-opportunity-cost
 
 1. Effort Depends on Alternatives
 2. Willpower Depends on Reward

@@ -52,7 +52,7 @@ Vector operators
     size
     swap
 
-<http://www.cplusplus.com/reference/vector/vector>
+http://www.cplusplus.com/reference/vector/vector
 
 ## C++ Lists
 
@@ -163,7 +163,7 @@ Finding an element
 Ex: set<int>::iterator itr=s.find(100); //If 100 is not present then it==s.end()
 ```
 
-<https://www.geeksforgeeks.org/set-in-cpp-stl>
+https://www.geeksforgeeks.org/set-in-cpp-stl
 
 Set constructors & destructors
 
@@ -285,7 +285,7 @@ if (find_itr == students.end()) {
 }
 ```
 
-<https://www.geeksforgeeks.org/map-associative-containers-the-c-standard-template-library-stl>
+https://www.geeksforgeeks.org/map-associative-containers-the-c-standard-template-library-stl
 
 Map Constructors & Destructors
 
@@ -395,4 +395,4 @@ to_string
 
 to_ulong
 
-<https://www.cppreference.com/Cpp_STL_ReferenceManual.pdf>
+https://www.cppreference.com/Cpp_STL_ReferenceManual.pdf

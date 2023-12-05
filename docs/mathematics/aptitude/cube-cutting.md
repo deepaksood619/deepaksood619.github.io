@@ -23,4 +23,4 @@ If unit cubes than number of unit cubes formed after cutting a cube of size x = 
 
 ## References
 
-<https://www.hitbullseye.com/mba/reasoning/Painted-Cube-Problem-Formula.php>
+https://www.hitbullseye.com/mba/reasoning/Painted-Cube-Problem-Formula.php

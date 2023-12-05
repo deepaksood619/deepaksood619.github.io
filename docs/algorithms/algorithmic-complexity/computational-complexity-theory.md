@@ -6,7 +6,7 @@ A problem is regarded as inherently difficult if its solution requires significa
 
 Closely related fields in theoretical computer science are [analysis of algorithms](https://en.wikipedia.org/wiki/Analysis_of_algorithms) and [computability theory](https://en.wikipedia.org/wiki/Computability_theory). A key distinction between analysis of algorithms and computational complexity theory is that the former is devoted to analyzing the amount of resources needed by a particular algorithm to solve a problem, whereas the latter asks a more general question about all possible algorithms that could be used to solve the same problem. More precisely, computational complexity theory tries to classify problems that can or cannot be solved with appropriately restricted resources. In turn, imposing restrictions on the available resources is what distinguishes computational complexity from computability theory: the latter theory asks what kind of problems can, in principle, be solved algorithmically.
 
-<https://en.wikipedia.org/wiki/Computational_complexity_theory>
+https://en.wikipedia.org/wiki/Computational_complexity_theory
 
 Our proof claims that the set of possible programs are countably infinite while the set of languages over an alphabet is uncountably infinite.
 
@@ -66,4 +66,4 @@ To computer science novices, the difference between the matching and clique prob
 1. There are some problems that simply cannot be computed, like the halting problem.
 2. There are some things that cannot be computed efficiently, like the problems in NPC.
 
-<https://www.toptal.com/algorithms/computability-theory-complexity>
+https://www.toptal.com/algorithms/computability-theory-complexity

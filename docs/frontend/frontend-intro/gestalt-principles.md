@@ -26,7 +26,7 @@
 
 ![image](../../media/Gestalt-Principles-image5.jpg)
 
-<https://www.khanacademy.org/science/health-and-medicine/nervous-system-and-sensory-infor/sensory-perception-topic/v/gestalt-principles>
+https://www.khanacademy.org/science/health-and-medicine/nervous-system-and-sensory-infor/sensory-perception-topic/v/gestalt-principles
 
 ## Stages of human visual processing
 

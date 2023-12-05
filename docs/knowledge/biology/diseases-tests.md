@@ -9,11 +9,11 @@ Listening to your own body over a lifetime can tell you far more than any doctor
 
 We've discovered that there are more than 70,000 ways the human body can fail. 70,000 different diagnoses for our 13 organ systems. We've developed 6,000 drugs, 4,000 medical and surgical procedures
 
-## Celiac Disease - <https://www.medicalnewstoday.com/articles/38085.php>
+## Celiac Disease - https://www.medicalnewstoday.com/articles/38085.php
 
 Celiac disease is a chronic digestive disorder resulting from an immune reaction to gliadin, a gluten protein found in wheat, barley, rye, and sometimes oats.
 
-[Celiac disease](https://en.wikipedia.org/wiki/Celiac_disease)(CD) is a chronic, multiple-organ [autoimmune disorder](https://en.wikipedia.org/wiki/Autoimmune_disorder) primarily affecting the [small intestine](https://en.wikipedia.org/wiki/Small_intestine) caused by the ingestion of wheat, barley, rye, oats, and derivatives, that appears in [genetically predisposed](https://en.wikipedia.org/wiki/Genetic_predisposition) people of all ages.CD is not only a gastrointestinal disease, because it may involve several organs and cause an extensive variety of non-gastrointestinal symptoms, and most importantly, it may be apparently asymptomatic.Many asymptomatic people actually are not, but have become accustomed to living with a chronic bad health status as if it were normal, and they are able to recognize that they actually had symptoms related to celiac disease after starting the gluten-free diet and improvement is evident, in contrast to the situation prior to the diet.Added difficulties for diagnosis are the fact that serological markers [anti-tissue transglutaminase](<https://en.wikipedia.org/wiki/Anti-transglutaminase_antibodies#Anti-tissue_transglutaminase>](TG2) are not always present and many people may have minor mucosal lesions, without atrophy of the [intestinal villi](https://en.wikipedia.org/wiki/Intestinal_villi).
+[Celiac disease](https://en.wikipedia.org/wiki/Celiac_disease)(CD) is a chronic, multiple-organ [autoimmune disorder](https://en.wikipedia.org/wiki/Autoimmune_disorder) primarily affecting the [small intestine](https://en.wikipedia.org/wiki/Small_intestine) caused by the ingestion of wheat, barley, rye, oats, and derivatives, that appears in [genetically predisposed](https://en.wikipedia.org/wiki/Genetic_predisposition) people of all ages.CD is not only a gastrointestinal disease, because it may involve several organs and cause an extensive variety of non-gastrointestinal symptoms, and most importantly, it may be apparently asymptomatic.Many asymptomatic people actually are not, but have become accustomed to living with a chronic bad health status as if it were normal, and they are able to recognize that they actually had symptoms related to celiac disease after starting the gluten-free diet and improvement is evident, in contrast to the situation prior to the diet.Added difficulties for diagnosis are the fact that serological markers [anti-tissue transglutaminase](https://en.wikipedia.org/wiki/Anti-transglutaminase_antibodies#Anti-tissue_transglutaminase](TG2) are not always present and many people may have minor mucosal lesions, without atrophy of the [intestinal villi](https://en.wikipedia.org/wiki/Intestinal_villi).
 
 CD affects approximately 1--2% of the general population, but most cases remain unrecognized, undiagnosed and untreated, and at risk for serious long-term health complications.People may suffer severe disease symptoms and be subjected to extensive investigations for many years, before a proper diagnosis is achieved.Untreated CD may cause [malabsorption](https://en.wikipedia.org/wiki/Malabsorption), reduced quality of life, [iron deficiency](https://en.wikipedia.org/wiki/Iron_deficiency), [osteoporosis](https://en.wikipedia.org/wiki/Osteoporosis), an increased risk of intestinal [lymphomas](https://en.wikipedia.org/wiki/Lymphoma), and greater mortality. CD is associated with some other autoimmune diseases, such as [diabetes mellitus type 1](https://en.wikipedia.org/wiki/Diabetes_mellitus_type_1), [thyroiditis](https://en.wikipedia.org/wiki/Thyroiditis), [gluten ataxia](https://en.wikipedia.org/wiki/Ataxia), [psoriasis](https://en.wikipedia.org/wiki/Psoriasis), [vitiligo](https://en.wikipedia.org/wiki/Vitiligo), [autoimmune hepatitis](https://en.wikipedia.org/wiki/Autoimmune_hepatitis), [dermatitis herpetiformis](https://en.wikipedia.org/wiki/Dermatitis_herpetiformis), [primary sclerosing cholangitis](https://en.wikipedia.org/wiki/Primary_sclerosing_cholangitis), and more.
 
@@ -21,7 +21,7 @@ CD with "classic symptoms", which include gastrointestinal manifestations such a
 
 CD with "non-classic symptoms" is the most common clinical typeand occurs in older children (over 2 years old), adolescents, and adults.It is characterized by milder or even absent gastrointestinal symptoms and a wide spectrum of non-intestinal manifestations that can involve any organ of the body, and very frequently may be completely asymptomaticboth in children (at least in 43% of the cases) and adults.
 
-<https://en.wikipedia.org/wiki/Coeliac_disease>
+https://en.wikipedia.org/wiki/Coeliac_disease
 
 ## Non-celiac gluten sensitivity
 
@@ -33,21 +33,21 @@ People with NCGS may develop gastrointestinal symptoms, which resemble those of 
 
 Besides gluten, additional components present in wheat, rye, barley, oats, and their derivatives, including other proteins called amylase-trypsin inhibitors (ATIs) and short-chain [carbohydrates](https://en.wikipedia.org/wiki/Carbohydrates) known as [FODMAPs](https://en.wikipedia.org/wiki/FODMAP), may cause NCGS symptoms. As of 2019, reviews conclude that although FODMAPs present in wheat and related grains may play a role in non-celiac gluten sensitivity, they only explain certain gastrointestinal symptoms, such as [bloating](https://en.wikipedia.org/wiki/Bloating), but not the [extra-digestive symptoms](https://en.wikipedia.org/wiki/Non-celiac_gluten_sensitivity#Extraintestinal) that people with non-celiac gluten sensitivity may develop, such as [neurological disorders](https://en.wikipedia.org/wiki/Neurological_disorder), [fibromyalgia](https://en.wikipedia.org/wiki/Fibromyalgia), psychological disturbances, and [dermatitis](https://en.wikipedia.org/wiki/Dermatitis).ATIs may cause toll-like receptor 4 ([TLR4](https://en.wikipedia.org/wiki/TLR4))-mediated intestinal [inflammation](https://en.wikipedia.org/wiki/Inflammation) in humans.
 
-<https://en.wikipedia.org/wiki/Non-celiac_gluten_sensitivity>
+https://en.wikipedia.org/wiki/Non-celiac_gluten_sensitivity
 
-<https://en.wikipedia.org/wiki/Gluten>
+https://en.wikipedia.org/wiki/Gluten
 
 ## Lactose Intolerance
 
 People with lactose intolerance cannot metabolize lactose properly, because their digestive system produces too little of an enzyme known as lactase. If they consume foods containing lactose, they may experience bloating, flatulence, and diarrhea.
 
-<https://www.medicalnewstoday.com/articles/180120.php>
+https://www.medicalnewstoday.com/articles/180120.php
 
 ## Hyperthyroidism
 
 Hyperthyroidism, or overactive thyroid, happens when the thyroid gland produces too much thyroid hormone. This has an impact throughout the body.
 
-<https://www.medicalnewstoday.com/articles/9153.php>
+https://www.medicalnewstoday.com/articles/9153.php
 
 ## Injury
 
@@ -118,13 +118,13 @@ It can be prevented in babies before birth
 
 Hemorrhoids, also calledpiles, are [vascular](https://en.wikipedia.org/wiki/Sinusoid_(blood_vessel)) structures in the [anal canal](https://en.wikipedia.org/wiki/Anal_canal).In their normal state, they are cushions that help with [stool](https://en.wikipedia.org/wiki/Human_feces) control.They become a disease when [swollen](https://en.wikipedia.org/wiki/Swelling_(medical)) or [inflamed](https://en.wikipedia.org/wiki/Inflammation); the unqualified term "hemorrhoid" is often used to refer to the disease.The signs and symptoms of hemorrhoids depend on the type present.Internal hemorrhoids often result in painless, bright red [rectal bleeding](https://en.wikipedia.org/wiki/Hematochezia) when [defecating](https://en.wikipedia.org/wiki/Defecation). [External hemorrhoids](https://en.wikipedia.org/wiki/External_hemorrhoids) often result in pain and swelling in the area of the [anus](https://en.wikipedia.org/wiki/Anus).If bleeding occurs it is usually darker.Symptoms frequently get better after a few days.A [skin tag](https://en.wikipedia.org/wiki/Skin_tag) may remain after the healing of an external hemorrhoid.
 
-<https://en.wikipedia.org/wiki/Hemorrhoid>
+https://en.wikipedia.org/wiki/Hemorrhoid
 
 ## Hernia
 
 Aherniais the abnormal exit of tissue or an [organ](https://en.wikipedia.org/wiki/Organ_(anatomy)), such as the [bowel](https://en.wikipedia.org/wiki/Bowel), through the wall of the cavity in which it normally resides.Hernias come in a number of types.Most commonly they involve the [abdomen](https://en.wikipedia.org/wiki/Abdomen), specifically the groin.[Groin hernias](https://en.wikipedia.org/wiki/Groin_hernia_(disambiguation)) are most common of the [inguinal](https://en.wikipedia.org/wiki/Inguinal_hernia) type but may also be [femoral](https://en.wikipedia.org/wiki/Femoral_hernia).Other hernias include [hiatus](https://en.wikipedia.org/wiki/Hiatus_hernia), [incisional](https://en.wikipedia.org/wiki/Incisional_hernia), and [umbilical hernias](https://en.wikipedia.org/wiki/Umbilical_hernia). Symptoms are present in about 66% of people with groin hernias.This may include pain or discomfort especially with coughing, exercise, or going to the bathroom. Often it gets worse throughout the day and improves when lying down.A bulging area may occur that becomes larger when bearing down.Groin hernias occur more often on the right than left side.The main concern is [strangulation](https://en.wikipedia.org/wiki/Strangulation_(bowel)), where the blood supply to part of the bowel is blocked. This usually produces severe pain and tenderness of the area.Hiatus or hiatal hernias often result in [heartburn](https://en.wikipedia.org/wiki/Heartburn) but may also cause chest pain or pain with eating.
 
-<https://en.wikipedia.org/wiki/Hernia>
+https://en.wikipedia.org/wiki/Hernia
 
 ## Anorexia
 

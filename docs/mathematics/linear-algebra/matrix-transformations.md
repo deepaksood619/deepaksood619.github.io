@@ -16,4 +16,4 @@
 
 ## References
 
-<https://www.khanacademy.org/math/linear-algebra/matrix-transformations>
+https://www.khanacademy.org/math/linear-algebra/matrix-transformations

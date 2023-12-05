@@ -115,20 +115,20 @@ spark-submit --master local --class GvaWeather target/scala-2.10/gva-weather_2.1
 - Matei Zaharia, Mosharaf Chowdhury - Spark: Cluster Computing with Working Sets
 - Matei Zaharia - Resilient Distributed Datasets: A fault-tolerant abstraction for in-memory cluster computing
 
-<https://www.toptal.com/spark/interview-questions>
+https://www.toptal.com/spark/interview-questions
 
-<https://databricks.com> - Free Spark Cluster
+https://databricks.com - Free Spark Cluster
 
-<https://medium.freecodecamp.org/how-to-use-spark-clusters-for-parallel-processing-big-data-86a22e7f8b50>
+https://medium.freecodecamp.org/how-to-use-spark-clusters-for-parallel-processing-big-data-86a22e7f8b50
 
-<https://www.toptal.com/spark/introduction-to-apache-spark>
+https://www.toptal.com/spark/introduction-to-apache-spark
 
-<https://github.com/jaceklaskowski/mastering-spark-sql-book>
+https://github.com/jaceklaskowski/mastering-spark-sql-book
 
-<https://towardsdatascience.com/a-neanderthals-guide-to-apache-spark-in-python-9ef1f156d427>
+https://towardsdatascience.com/a-neanderthals-guide-to-apache-spark-in-python-9ef1f156d427
 
-<https://www.freecodecamp.org/news/use-pyspark-for-data-processing-and-machine-learning>
+https://www.freecodecamp.org/news/use-pyspark-for-data-processing-and-machine-learning
 
-[Apache Spark Tutorial with Examples - Spark By {Examples}](https://sparkbyexamples.com/)
+[Apache Spark Tutorial with Examples - Spark By Examples](https://sparkbyexamples.com/)
 
 [Errors - PySpark 3.4.0 documentation](https://spark.apache.org/docs/latest/api/python/reference/pyspark.errors.html)

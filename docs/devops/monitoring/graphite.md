@@ -29,14 +29,14 @@ Graphite's web platform offers a variety of output styles and formats, including
 
 ## Points
 
-<https://graphite.readthedocs.io/en/latest/faq.html>
+https://graphite.readthedocs.io/en/latest/faq.html
 
-<https://grafana.com/oss/metrictank>
+https://grafana.com/oss/metrictank
 
 Metrictank is a multi-tenant timeseries platform for Graphite
 
 ## References
 
-<https://graphiteapp.org>
+https://graphiteapp.org
 
-<https://graphite.readthedocs.io/en/latest>
+https://graphite.readthedocs.io/en/latest

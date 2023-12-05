@@ -7,8 +7,8 @@ On-chain metrics turn blockchain-based transaction data into actionable crypto m
 - [Fees - DefiLlama](https://defillama.com/fees)
 - [Cake DeFi - DefiLlama](https://defillama.com/cex/cake-defi)
 - [Nansen - Crypto, DeFi & NFT Analytics](https://www.nansen.ai/)
-- <https://studio.glassnode.com/metrics> (Analytics)
-- <https://messari.io> (Analytics)- **Technical Analysis**
+- https://studio.glassnode.com/metrics (Analytics)
+- https://messari.io (Analytics)- **Technical Analysis**
 - [Dune | Crypto data dashboards](https://dune.com/home)
 - Total Market Cap
 - 24 hours volume

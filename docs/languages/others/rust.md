@@ -24,9 +24,9 @@ When you install Rustup you'll also get the latest stable version of the Rust bu
 
 [Tour of Rust - Let's go on an adventure!](https://tourofrust.com/)
 
-<https://en.wikipedia.org/wiki/Rust_(programming_language)>
+https://en.wikipedia.org/wiki/Rust_(programming_language)
 
-<https://www.rust-lang.org>
+https://www.rust-lang.org
 
 [The Rust Programming Language - The Rust Programming Language](https://doc.rust-lang.org/book/)
 
@@ -34,11 +34,11 @@ When you install Rustup you'll also get the latest stable version of the Rust bu
 
 [Rust at speed - building a fast concurrent database - YouTube](https://www.youtube.com/watch?v=s19G6n0UjsM&ab_channel=JonGjengset)
 
-<https://www.rust-lang.org/learn>
+https://www.rust-lang.org/learn
 
-<https://stackoverflow.blog/2020/01/20/what-is-rust-and-why-is-it-so-popular>
+https://stackoverflow.blog/2020/01/20/what-is-rust-and-why-is-it-so-popular
 
-<https://www.freecodecamp.org/news/rust-in-replit>
+https://www.freecodecamp.org/news/rust-in-replit
 
 [10 Videos on Rust that accelerate my learning](https://www.linkedin.com/pulse/10-videos-rust-accelerate-my-learning-chun-yin-vincent-lau/)
 

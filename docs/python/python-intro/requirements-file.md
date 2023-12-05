@@ -38,10 +38,10 @@ poetrywill also detect if you are inside a virtualenv and install the packages a
 
 poetryalso comes with a full fledged dependency resolution library.
 
-<https://github.com/python-poetry/poetry>
+https://github.com/python-poetry/poetry
 
-<https://python-poetry.org/docs>
+https://python-poetry.org/docs
 
 ## setup.py and mainfest.ini
 
-<https://flask.palletsprojects.com/en/0.12.x/tutorial/packaging/#tutorial-packaging>
+https://flask.palletsprojects.com/en/0.12.x/tutorial/packaging/#tutorial-packaging

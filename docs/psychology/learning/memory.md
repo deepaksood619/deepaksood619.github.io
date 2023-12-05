@@ -103,8 +103,8 @@ Working memory is essentially your mental bandwidth.If you have a good working m
 
 ## References
 
-<https://www.scotthyoung.com/blog/2019/04/24/working-memory>
+https://www.scotthyoung.com/blog/2019/04/24/working-memory
 
-<https://en.wikipedia.org/wiki/Mnemonic_major_system>
+https://en.wikipedia.org/wiki/Mnemonic_major_system
 
 [How To ABSORB TEXTBOOKS Like A Sponge - YouTube](https://www.youtube.com/watch?v=nqYmmZKY4sA)

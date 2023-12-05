@@ -13,4 +13,4 @@ B-Trees are more "general purpose," which results in lower "total cost" for very
 
 And also range queries are better in B-Trees than in Hash Tables
 
-<https://www.evanjones.ca/ordered-vs-unordered-indexes.html>
+https://www.evanjones.ca/ordered-vs-unordered-indexes.html

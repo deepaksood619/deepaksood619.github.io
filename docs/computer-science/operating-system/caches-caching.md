@@ -99,11 +99,11 @@ It is halfway between the spatial locality and the branch locality. Consider a l
 
 In order to benefit from the very frequently occurring temporal and spatial locality, most of the information storage systems are [hierarchical](https://en.wikipedia.org/wiki/Computer_data_storage#Hierarchy_of_storage). The equidistant locality is usually supported by the diverse nontrivial increment instructions of the processors. For branch locality, the contemporary processors have sophisticated branch predictors, and on the basis of this prediction the memory manager of the processor tries to collect and preprocess the data of the plausible alternatives.
 
-<https://en.wikipedia.org/wiki/Locality_of_reference>
+https://en.wikipedia.org/wiki/Locality_of_reference
 
-<https://www.geeksforgeeks.org/locality-of-reference-and-cache-operation-in-cache-memory>
+https://www.geeksforgeeks.org/locality-of-reference-and-cache-operation-in-cache-memory
 
-<https://www.geeksforgeeks.org/computer-organization-locality-and-cache-friendly-code>
+https://www.geeksforgeeks.org/computer-organization-locality-and-cache-friendly-code
 
 ## Cache-oblivious algorithm
 
@@ -113,7 +113,7 @@ Optimal cache-oblivious algorithms are known for [matrix multiplication](https:/
 
 Typically, a cache-oblivious algorithm works by a [recursive](https://en.wikipedia.org/wiki/Recursion)[divide and conquer algorithm](https://en.wikipedia.org/wiki/Divide_and_conquer_algorithm), where the problem is divided into smaller and smaller subproblems. Eventually, one reaches a subproblem size that fits into cache, regardless of the cache size. For example, an optimal cache-oblivious matrix multiplication is obtained by recursively dividing each matrix into four sub-matrices to be multiplied, multiplying the submatrices in a [depth-first](https://en.wikipedia.org/wiki/Depth-first) fashion. In tuning for a specific machine, one may use a [hybrid algorithm](https://en.wikipedia.org/wiki/Hybrid_algorithm) which uses blocking tuned for the specific cache sizes at the bottom level, but otherwise uses the cache-oblivious algorithm.
 
-<https://en.wikipedia.org/wiki/Cache-oblivious_algorithm>
+https://en.wikipedia.org/wiki/Cache-oblivious_algorithm
 
 ## HTTP ETag (Entity tag)
 
@@ -121,18 +121,18 @@ The **ETag** or **entity tag** is part of [HTTP](https://en.wikipedia.org/wiki/H
 
 An ETag is an opaque identifier assigned by a Web server to a specific version of a resource found at a [URL](https://en.wikipedia.org/wiki/Uniform_Resource_Locator). If the resource representation at that URL ever changes, a new and different ETag is assigned. Used in this manner, ETags are similar to [fingerprints](https://en.wikipedia.org/wiki/Fingerprint_(computing)) and can quickly be compared to determine whether two representations of a resource are the same.
 
-<https://en.wikipedia.org/wiki/HTTP_ETag>
+https://en.wikipedia.org/wiki/HTTP_ETag
 
 ## Others
 
 - set-associative (SA) caches
 - log-structured (LS) caches
-- Kangaroo - <https://engineering.fb.com/2021/10/26/core-data/kangaroo>
+- Kangaroo - https://engineering.fb.com/2021/10/26/core-data/kangaroo
 
 ## References
 
 [https://en.wikipedia.org/wiki/Cache_(computing)](https://en.wikipedia.org/wiki/Cache_(computing)#WRITE-BACK)
 
-<https://www.freecodecamp.org/news/what-is-cached-data>
+https://www.freecodecamp.org/news/what-is-cached-data
 
-<https://engineering.fb.com/2021/09/02/open-source/cachelib>
+https://engineering.fb.com/2021/09/02/open-source/cachelib

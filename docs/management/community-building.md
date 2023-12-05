@@ -74,18 +74,18 @@ Each objective comes with a different set of metrics that you'll likely want to 
 6. Promotion: How members will learn about the program
 7. Performance: What success looks like
 
-<https://www.lennysnewsletter.com/p/building-community>
+https://www.lennysnewsletter.com/p/building-community
 
 ## Community Building Tools
 
 - **Giscus -** [A comment system powered by GitHub Discussions](https://giscus.app/)
-- **Disqus -** <https://disqus.com>
-- **Discourse -** <https://www.discourse.org>
-- **Discord -** <https://discord.com>
+- **Disqus -** https://disqus.com
+- **Discourse -** https://www.discourse.org
+- **Discord -** https://discord.com
 - [docsly - Get actionable user feedback for your documentation.](https://www.docsly.dev/)
-- <https://uservoice.com>
-- <https://www.instamojo.com/blog/community-building-platforms-build-your-business-organically>
-- Luma - <https://lu.ma>
+- https://uservoice.com
+- https://www.instamojo.com/blog/community-building-platforms-build-your-business-organically
+- Luma - https://lu.ma
 - [Circle: The all-in-one community platform for creators and brands](https://circle.so/)
 - [Maven: Expert-led. Peer-driven. Hello, live learning.](https://maven.com/)
 

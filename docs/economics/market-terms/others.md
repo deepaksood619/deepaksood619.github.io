@@ -21,7 +21,7 @@ The India Volatility Index in short is termed India VIX. It indicates the degree
 - Determining an equity risk premium is theoretical because there's no way to tell how well equities or the equity market will perform in the future
 - Calculating an equity risk premium requires using historical rates of return
 
-<https://www.investopedia.com/terms/e/equityriskpremium.asp>
+https://www.investopedia.com/terms/e/equityriskpremium.asp
 
 [The Price of Risk: With Equity Risk Premiums, Caveat Emptor! - YouTube](https://www.youtube.com/watch?v=uJN3CUcgF8A)
 
@@ -31,4 +31,4 @@ The Capital Asset Pricing Model (CAPM) describes the relationship between system
 
 ![image](../../media/Mutual-Funds-image1.jpg)
 
-<https://www.investopedia.com/terms/c/capm.asp>
+https://www.investopedia.com/terms/c/capm.asp

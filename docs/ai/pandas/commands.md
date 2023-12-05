@@ -29,7 +29,7 @@ df = pd.DataFrame.from_dict({'one':out1,'two':out2})
 df=df.assign(three=df.one-df.two)
 ```
 
-<https://pandas.pydata.org/pandas-docs/stable/generated/pandas.DataFrame.describe.html>
+https://pandas.pydata.org/pandas-docs/stable/generated/pandas.DataFrame.describe.html
 
 ```python
 DataFrame.groupby(*self***, ***by=None***, ***axis=0***, ***level=None***, ***as_index: bool = True***, ***sort: bool = True***, ***group_keys: bool = True***, ***squeeze: bool = False***, ***observed: bool = False*)→ 'groupby_generic.DataFrameGroupBy'
@@ -38,10 +38,10 @@ DataFrame.groupby(*self***, ***by=None***, ***axis=0***, ***level=None***, ***as
     df.groupby(['A','B']).c.unique().reset_index()
 ```
 
-<https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.groupby.html>
+https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.groupby.html
 
 ## pandas.crosstab
 
-<https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.crosstab.html>
+https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.crosstab.html
 
-<https://pbpython.com/pandas-crosstab.html>
+https://pbpython.com/pandas-crosstab.html

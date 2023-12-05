@@ -17,7 +17,7 @@
 
 ## Outline
 
-Anatomy and Physiology - <https://www.youtube.com/playlist?list=PL8dPuuaLjXtOAKed_MxxWBNaPno5h3Zs8>
+Anatomy and Physiology - https://www.youtube.com/playlist?list=PL8dPuuaLjXtOAKed_MxxWBNaPno5h3Zs8
 
 - [Aerobiology](https://en.wikipedia.org/wiki/Aerobiology)
 - [Anatomy](https://en.wikipedia.org/wiki/Anatomy)

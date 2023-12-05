@@ -29,13 +29,13 @@ There are two categories of failures that are considered. One is **fail-stop** (
 - Respond with a deliberately misleading result
 - Respond with a different result to different parts of the system
 
-<https://medium.com/all-things-ledger/the-byzantine-generals-problem-168553f31480>
+https://medium.com/all-things-ledger/the-byzantine-generals-problem-168553f31480
 
 [Byzantine fault - Wikipedia](https://en.wikipedia.org/wiki/Byzantine_fault)
 
-<https://en.wikipedia.org/wiki/Quantum_Byzantine_agreement>
+https://en.wikipedia.org/wiki/Quantum_Byzantine_agreement
 
-<https://en.wikipedia.org/wiki/Two_Generals%27_Problem>
+https://en.wikipedia.org/wiki/Two_Generals%27_Problem
 
 [**https://bravenewgeek.com/understanding-consensus/**](https://bravenewgeek.com/understanding-consensus/)
 

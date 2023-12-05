@@ -43,7 +43,7 @@ Introducing errors in a controlled manner in production to see if your system ca
 
 Another interesting variation of this kind of testing is multivariate testing, where you're not really testing your new service against defects, instead, you are A/B testing new release features behind A/B testing toggles. The purpose of this type of testing is to see how well these features are received. You can decide roll it out to your entire set of users or make fixes where necessary.
 
-<https://martinfowler.com/articles/practical-test-pyramid.html>
+https://martinfowler.com/articles/practical-test-pyramid.html
 
 ## Automated vs. Manual Testing
 
@@ -104,4 +104,4 @@ Examples of compatibility testing include:
 - mobile testing (making sure your application is compatible with iOS and Android)
 - or software testing (if you're going to be creating multiple software applications that need to be interacting with one another, you'll need to conduct compatibility testing to ensure that they actually do so).
 
-<https://www.freecodecamp.org/news/types-of-software-testing>
+https://www.freecodecamp.org/news/types-of-software-testing

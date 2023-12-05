@@ -8,11 +8,11 @@
 4. Kinesis
 5. Lambda
 
-<https://medium.com/teamzerolabs/5-aws-services-you-should-avoid-f45111cc10cd>
+https://medium.com/teamzerolabs/5-aws-services-you-should-avoid-f45111cc10cd
 
-<https://www.toptal.com/aws/interview-questions>
+https://www.toptal.com/aws/interview-questions
 
-<https://aws.amazon.com/solutions>
+https://aws.amazon.com/solutions
 
 ## Regions, Availability Zones, and Local Zones
 
@@ -22,7 +22,7 @@ Each Region is completely independent. Each Availability Zone is isolated, but t
 
 ![image](../../media/Cloud-AWS-Intro-image1.jpg)
 
-<https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/using-regions-availability-zones.html>
+https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/using-regions-availability-zones.html
 
 ![image](../../media/Cloud-AWS-Intro-image2.jpg)
 
@@ -42,15 +42,15 @@ Structure101 - Architecture Development Environment
 
 ## Resources
 
-<https://dev.to/helenanders26/aws-series-aws-from-a-to-z-45b1>
+https://dev.to/helenanders26/aws-series-aws-from-a-to-z-45b1
 
-<https://www.toptal.com/aws/interview-questions>
+https://www.toptal.com/aws/interview-questions
 
-<https://www.youtube.com/watch?v=3hLmDS179YE>
+https://www.youtube.com/watch?v=3hLmDS179YE
 
 ## Whitepapers
 
-- <https://d1.awsstatic.com/whitepapers/architecture/AWS-Performance-Efficiency-Pillar.pdf>
-- <https://d1.awsstatic.com/whitepapers/architecture/AWS-Reliability-Pillar.pdf>
-- <https://d1.awsstatic.com/whitepapers/architecture/AWS-Cost-Optimization-Pillar.pdf>
-- <https://d1.awsstatic.com/whitepapers/architecture/AWS-Operational-Excellence-Pillar.pdf>
+- https://d1.awsstatic.com/whitepapers/architecture/AWS-Performance-Efficiency-Pillar.pdf
+- https://d1.awsstatic.com/whitepapers/architecture/AWS-Reliability-Pillar.pdf
+- https://d1.awsstatic.com/whitepapers/architecture/AWS-Cost-Optimization-Pillar.pdf
+- https://d1.awsstatic.com/whitepapers/architecture/AWS-Operational-Excellence-Pillar.pdf

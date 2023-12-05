@@ -2,7 +2,7 @@
 
 ## Python vs Nodejs
 
-<https://towardsdatascience.com/python-vs-node-js-which-one-is-best-for-your-project-e98f2c63f020>
+https://towardsdatascience.com/python-vs-node-js-which-one-is-best-for-your-project-e98f2c63f020
 
 - NodeJS provides easy scalability as compared to Python.
 - NodeJS wins over Python for developing data and memory-intensive applications.
@@ -16,7 +16,7 @@
     2. It has an event-based model.
     3. It has a non-blocking I/O.
 
-- <https://benchmarksgame-team.pages.debian.net/benchmarksgame/fastest/python.html>
+- https://benchmarksgame-team.pages.debian.net/benchmarksgame/fastest/python.html
 
 - Apps it is best suitable for
 

@@ -8,9 +8,9 @@ The practice uses [sensors](https://en.wikipedia.org/wiki/Sensors) and detectors
 
 Modern day control engineering is a relatively new field of study that gained significant attention during the 20th century with the advancement of technology. It can be broadly defined or classified as practical application of [control theory](https://en.wikipedia.org/wiki/Control_theory). Control engineering has an essential role in a wide range of control systems, from simple household washing machines to high-performance [F-16](https://en.wikipedia.org/wiki/F-16) fighter aircraft. It seeks to understand physical systems, using mathematical modelling, in terms of inputs, outputs and various components with different behaviors; use control systems design tools to develop [controllers](https://en.wikipedia.org/wiki/Controller_(control_theory)) for those systems; and implement controllers in physical systems employing available technology. A [system](https://en.wikipedia.org/wiki/Control_system) can be [mechanical](https://en.wikipedia.org/wiki/Mechanical_engineering), [electrical](https://en.wikipedia.org/wiki/Electrical_engineering), [fluid](https://en.wikipedia.org/wiki/Fluid), [chemical](https://en.wikipedia.org/wiki/Chemical), [financial](https://en.wikipedia.org/wiki/Finance) or [biological](https://en.wikipedia.org/wiki/Biology), and the mathematical modelling, analysis and controller design uses [control theory](https://en.wikipedia.org/wiki/Control_theory) in one or many of the [time](https://en.wikipedia.org/wiki/Time_domain), [frequency](https://en.wikipedia.org/wiki/Frequency_domain) and [complex-s](https://en.wikipedia.org/wiki/S_domain) domains, depending on the nature of the design problem.
 
-<https://en.wikipedia.org/wiki/Control_engineering>
+https://en.wikipedia.org/wiki/Control_engineering
 
-<https://en.wikipedia.org/wiki/Control_system>
+https://en.wikipedia.org/wiki/Control_system
 
 ## Control Theory
 
@@ -56,7 +56,7 @@ A simple governor does not maintain an exact speed but a speed range, since unde
 
 ![image](../../media/Control-Engineering-image1.jpg)
 
-<https://en.wikipedia.org/wiki/Centrifugal_governor>
+https://en.wikipedia.org/wiki/Centrifugal_governor
 
 ## PID Controller
 
@@ -66,7 +66,7 @@ In practical terms it automatically applies accurate and responsive correction t
 
 The first theoretical analysis and practical application was in the field of automatic steering systems for ships, developed from the early 1920s onwards. It was then used for automatic process control in the manufacturing industry, where it was widely implemented in pneumatic, and then electronic, [controllers](https://en.wikipedia.org/wiki/Controller_(control_theory)). Today there is universal use of the PID concept in applications requiring accurate and optimised automatic control.
 
-<https://en.wikipedia.org/wiki/PID_controller>
+https://en.wikipedia.org/wiki/PID_controller
 
 ## PID ControllerWorking Principle
 
@@ -78,7 +78,7 @@ The working principle behind a PID controller is that the proportional, integral
 
 - Derivative tuningattempts to minimize this overshoot by slowing the correction factor applied as the target is approached.
 
-<https://www.omega.co.uk/prodinfo/how-does-a-pid-controller-work.html>
+https://www.omega.co.uk/prodinfo/how-does-a-pid-controller-work.html
 
 ## Controllers
 
@@ -89,6 +89,6 @@ The working principle behind a PID controller is that the proportional, integral
 - Proportional Integral (PI) Controller
 - Proportional Integral Derivative (PID) Controller
 
-<https://www.tutorialspoint.com/control_systems/index.htm>
+https://www.tutorialspoint.com/control_systems/index.htm
 
 [Control System](https://www.youtube.com/playlist?list=PLWPirh4EWFpGpH_Rb6Q4iQ6vGGRA6MORZ)

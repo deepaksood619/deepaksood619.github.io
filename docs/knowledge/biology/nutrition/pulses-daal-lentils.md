@@ -125,9 +125,9 @@ Just 1 cup of cooked daal can give you as much as 62 percent of your daily dieta
 
 - Peanuts / Moong falli / groundnuts / earth nuts / goobers / not nut, legume family
 
-<https://www.thespruceeats.com/a-photo-gallery-of-indian-daals-and-beans-4121903>
+https://www.thespruceeats.com/a-photo-gallery-of-indian-daals-and-beans-4121903
 
-<https://myheartbeets.com/different-types-of-indian-dals-legumes-lentils-beans-pulses>
+https://myheartbeets.com/different-types-of-indian-dals-legumes-lentils-beans-pulses
 
 ## Sproutes / Seeds / Sprouted grains
 
@@ -144,7 +144,7 @@ Just 1 cup of cooked daal can give you as much as 62 percent of your daily dieta
 
 ![image](../../../media/Nutrition_Pulses-Daal-Lentils-image19.jpg)
 
-<https://wholefully.com/sprouting-101>
+https://wholefully.com/sprouting-101
 
 ## Grains
 
@@ -154,7 +154,7 @@ Semolina is the coarse, purified [wheat middlings](https://en.wikipedia.org/wiki
 
 ![image](../../../media/Nutrition_Pulses-Daal-Lentils-image20.jpg)
 
-<https://en.wikipedia.org/wiki/Semolina>
+https://en.wikipedia.org/wiki/Semolina
 
 ### Durum Wheat
 
@@ -164,7 +164,7 @@ Durumin [Latin](https://en.wikipedia.org/wiki/Latin) means "hard", and the speci
 
 ![image](../../../media/Nutrition_Pulses-Daal-Lentils-image21.jpg)
 
-<https://en.wikipedia.org/wiki/Durum>
+https://en.wikipedia.org/wiki/Durum
 
 ### Buckwheat / kuttu ka atta
 
@@ -172,7 +172,7 @@ Buck wheat (Fagopyrum esculentum), or common buckwheat,  is a plant cultivated f
 
 ![image](../../../media/Nutrition_Pulses-Daal-Lentils-image22.jpg)
 
-<https://en.wikipedia.org/wiki/Buckwheat>
+https://en.wikipedia.org/wiki/Buckwheat
 
 ### Millet
 
@@ -201,11 +201,11 @@ Millets may have been consumed by humans for about 7,000 years and potentially h
 
 ![image](../../../media/Nutrition_Pulses-Daal-Lentils-image24.jpg)
 
-<https://en.wikipedia.org/wiki/Millet>
+https://en.wikipedia.org/wiki/Millet
 
-<https://www.wellcurve.in/blog/different-types-of-millets>
+https://www.wellcurve.in/blog/different-types-of-millets
 
-<https://pristineorganics.com/millet-ancient-grains-for-a-healthier-future>
+https://pristineorganics.com/millet-ancient-grains-for-a-healthier-future
 
 ## Other Grains (Gluten Free)
 
@@ -231,7 +231,7 @@ The later one you asked, is makai ka ata which we get from whole kernel. Often k
 
 Cornflour is starch which gets from endosperm portion of kernel and used as binding or thickening agent.
 
-<https://www.quora.com/Is-corn-flour-same-as-makke-maize-ka-ata>
+https://www.quora.com/Is-corn-flour-same-as-makke-maize-ka-ata
 
 ## Gluten Free Flours
 

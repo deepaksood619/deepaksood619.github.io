@@ -22,10 +22,10 @@ mmCIF, macromolecular CIF, which is intended as an alternative to the [Protein D
 
 ## Links
 
-<https://en.wikipedia.org/wiki/Protein_Data_Bank>
+https://en.wikipedia.org/wiki/Protein_Data_Bank
 
-<https://www.youtube.com/watch?v=jBlTQjcKuaY>
+https://www.youtube.com/watch?v=jBlTQjcKuaY
 
-<https://www.freecodecamp.org/news/python-for-bioinformatics-use-machine-learning-and-data-analysis-for-drug-discovery>
+https://www.freecodecamp.org/news/python-for-bioinformatics-use-machine-learning-and-data-analysis-for-drug-discovery
 
 [This Machine Grows Living Flesh 🥩 - YouTube](https://www.youtube.com/watch?v=Z_ZGq8Tah0k)

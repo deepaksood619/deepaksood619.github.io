@@ -20,7 +20,7 @@ draw_square(turtle, 100)
 
 This has a fancy name - dependency injection. It just means that if a function needs some kind of object to do its work, likedraw_squareneeds aTurtle, the caller is responsible for passing that object in as a parameter. No, really, if you were ever curious about Python dependency injection, this is it.
 
-<https://www.toptal.com/python/python-parameterized-design-patterns>
+https://www.toptal.com/python/python-parameterized-design-patterns
 
 ### Like I'm Five
 
@@ -34,6 +34,6 @@ Dependency injectionisa fancy kind of Inversion of Control, but also has a barte
 
 ## Others
 
-<https://github.com/google/guice>
+https://github.com/google/guice
 
 Guice is a lightweight dependency injection framework for Java 6 and above.

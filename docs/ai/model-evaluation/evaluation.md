@@ -208,4 +208,4 @@ This can be used to determine when to stop training. Where validation error star
 
 ![image](../../media/Evaluation-image17.jpg)
 
-<https://en.wikipedia.org/wiki/F-score>
+https://en.wikipedia.org/wiki/F-score

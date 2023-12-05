@@ -36,7 +36,7 @@ is characterized by relatively low volume of transactions. Queries are often ver
 2. Druid
 3. Pinot
 
-<https://medium.com/@leventov/comparison-of-the-open-source-olap-systems-for-big-data-clickhouse-druid-and-pinot-8e042a5ed1c7>
+https://medium.com/@leventov/comparison-of-the-open-source-olap-systems-for-big-data-clickhouse-druid-and-pinot-8e042a5ed1c7
 
 ## RTAP - Real Time Analytic Processing
 

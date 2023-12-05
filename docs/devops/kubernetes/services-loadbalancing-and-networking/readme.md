@@ -90,7 +90,7 @@ This is summarised in the image below.
 
 Last but not least... all Pods are on the same flat overlay network and routes exist to this network and the rest is simple.
 
-<https://nigelpoulton.com/blog/f/demystifying-kubernetes-service-discovery>
+https://nigelpoulton.com/blog/f/demystifying-kubernetes-service-discovery
 
 ## Others
 
@@ -100,7 +100,7 @@ Last but not least... all Pods are on the same flat overlay network and routes e
 
 `kubectl patch svc flask-republisher -n testing -p '{"spec":{"externalTrafficPolicy":"Local"}}'`
 
-<https://kubernetes.io/docs/tutorials/services/source-ip>
+https://kubernetes.io/docs/tutorials/services/source-ip
 
 ## Kube-proxy
 
@@ -128,14 +128,14 @@ This model is similar to iptables because both ipvs and iptables are base on net
 
 ## ip tables
 
-<https://docs.google.com/drawings/d/1MtWL8qRTs6PlnJrW4dh8135_S9e2SaawT410bJuoBPk/edit>
+https://docs.google.com/drawings/d/1MtWL8qRTs6PlnJrW4dh8135_S9e2SaawT410bJuoBPk/edit
 
 ## References
 
-- <https://medium.com/google-cloud/understanding-kubernetes-networking-pods-7117dd28727>
-- <https://medium.com/google-cloud/understanding-kubernetes-networking-services-f0cb48e4cc82>
-- <https://medium.com/google-cloud/understanding-kubernetes-networking-ingress-1bc341c84078>
-- <https://sookocheff.com/post/kubernetes/understanding-kubernetes-networking-model>
+- https://medium.com/google-cloud/understanding-kubernetes-networking-pods-7117dd28727
+- https://medium.com/google-cloud/understanding-kubernetes-networking-services-f0cb48e4cc82
+- https://medium.com/google-cloud/understanding-kubernetes-networking-ingress-1bc341c84078
+- https://sookocheff.com/post/kubernetes/understanding-kubernetes-networking-model
 - [Life of a Packet [I] - Michael Rubin, Google - YouTube](https://www.youtube.com/watch?v=0Omvgd7Hg1I)
 
 ## CNI
@@ -154,19 +154,19 @@ Calico is an open source networking and network security solution for containers
 
 Calico combines flexible networking capabilities with run-anywhere security enforcement to provide a solution with native Linux kernel performance and true cloud-native scalability. Calico provides developers and cluster operators with a consistent experience and set of capabilities whether running in public cloud or on-prem, on a single node or across a multi-thousand node cluster.
 
-- <https://docs.projectcalico.org/v3.11/introduction>
-- <https://github.com/projectcalico/calico>
-- <https://www.projectcalico.org>
-- <https://eksworkshop.com/beginner/120_network-policies/calico>
+- https://docs.projectcalico.org/v3.11/introduction
+- https://github.com/projectcalico/calico
+- https://www.projectcalico.org
+- https://eksworkshop.com/beginner/120_network-policies/calico
 
 ### Others
 
-- Calico with Canal - <https://docs.projectcalico.org/v3.0/getting-started/kubernetes/installation/hosted/canal>
-- Weave Works - <https://www.weave.works/docs/net/latest/kubernetes/kube-addon>
-- Flannel - <https://github.com/coreos/flannel>
-- Romana - <http://romana.io/how/romana_basics>
-- Kube Router - <https://www.kube-router.io>
-- Kopeio - <https://github.com/kopeio/networking>
+- Calico with Canal - https://docs.projectcalico.org/v3.0/getting-started/kubernetes/installation/hosted/canal
+- Weave Works - https://www.weave.works/docs/net/latest/kubernetes/kube-addon
+- Flannel - https://github.com/coreos/flannel
+- Romana - http://romana.io/how/romana_basics
+- Kube Router - https://www.kube-router.io
+- Kopeio - https://github.com/kopeio/networking
 
 ### Questions
 
@@ -176,4 +176,4 @@ Calico combines flexible networking capabilities with run-anywhere security enfo
 - Which allow network policies? - Project Calico, Canal, Kube Router, Romana Weave Net
 - Which can encrypt all TCP and UDP traffic? - Project Calico, Kopeio, Weave Net
 
-<https://github.com/containernetworking/cni>
+https://github.com/containernetworking/cni

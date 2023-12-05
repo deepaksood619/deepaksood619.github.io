@@ -35,13 +35,13 @@ New Backoff algorithm for handling network congestion. Great for clients working
 
 Only needed to set a flag on server, Client doesn't need to be updated
 
-<https://medium.com/google-cloud/tcp-bbr-magic-dust-for-network-performance-57a5f1ccf437>
+https://medium.com/google-cloud/tcp-bbr-magic-dust-for-network-performance-57a5f1ccf437
 
 ### Additive increase/multiplicative decrease (AIMD)
 
 The additive-increase/multiplicative-decrease(AIMD) algorithm is a feedback control algorithm best known for its use in [TCP congestion control](https://en.wikipedia.org/wiki/TCP_congestion_control). AIMD combines linear growth of the congestion window with an exponential reduction when congestion is detected. Multiple flows using AIMD congestion control will eventually converge to use equal amounts of a shared link.The related schemes of multiplicative-increase/multiplicative-decrease (MIMD) and additive-increase/additive-decrease (AIAD) do not reach [stability](https://en.wikipedia.org/wiki/Stability_theory).
 
-<https://en.wikipedia.org/wiki/Additive_increase/multiplicative_decrease>
+https://en.wikipedia.org/wiki/Additive_increase/multiplicative_decrease
 
 TCP is a reliable stream delivery service which guarantees that all bytes received will be identical and in the same order as those sent. Since packet transfer by many networks is not reliable, TCP achieves this using a technique known as *positive acknowledgement with re-transmission*. This requires the receiver to respond with an acknowledgement message as it receives the data. The sender keeps a record of each packet it sends and maintains a timer from when the packet was sent. The sender re-transmits a packet if the timer expires before receiving the acknowledgement. The timer is needed in case a packet gets lost or corrupted.
 
@@ -57,7 +57,7 @@ Maximum transmission unit is the maximum size of a packet or frame that can flow
 
 Path MTU Discovery(PMTUD) is a standardized technique in [computer networking](https://en.wikipedia.org/wiki/Computer_networking) for determining the [maximum transmission unit (MTU)](https://en.wikipedia.org/wiki/Maximum_transmission_unit) size on the network path between two Internet Protocol (IP) hosts, usually with the goal of avoiding [IP fragmentation](https://en.wikipedia.org/wiki/IP_fragmentation). PMTUD was originally intended for routers in [Internet Protocol Version 4](https://en.wikipedia.org/wiki/IPv4)(IPv4).However, all modern operating systems use it on endpoints. In [IPv6](https://en.wikipedia.org/wiki/IPv6), this function has been explicitly delegated to the end points of a communications session.
 
-<https://en.wikipedia.org/wiki/Path_MTU_Discovery>
+https://en.wikipedia.org/wiki/Path_MTU_Discovery
 
 ## MSS (Maximum Segment Size)
 
@@ -124,9 +124,9 @@ Contains 9 1-bit flags
 - SYN (1 bit): Synchronize sequence numbers. Only the first packet sent from each end should have this flag set. Some other flags and fields change meaning based on this flag, and some are only valid when it is set, and others when it is clear.
 - FIN (1 bit): Last packet from sender.
 
-<https://en.wikipedia.org/wiki/Transmission_Control_Protocol>
+https://en.wikipedia.org/wiki/Transmission_Control_Protocol
 
-<https://medium.com/walmartlabs/how-tcp-segment-size-can-affect-application-traffic-flow-7bbceed5816e>
+https://medium.com/walmartlabs/how-tcp-segment-size-can-affect-application-traffic-flow-7bbceed5816e
 
 ## TCP Handshake (3-way handshake) (Positive Acknowledgement with Re-transmission / PAR)
 
@@ -144,7 +144,7 @@ The steps 1, 2 establish the connection parameter (sequence number) for one dire
 
 Initial sequence numbers are randomly selected while establishing connections between client and server.
 
-<https://www.geeksforgeeks.org/tcp-3-way-handshake-process>
+https://www.geeksforgeeks.org/tcp-3-way-handshake-process
 
 ## TCP Connection Termination
 
@@ -168,7 +168,7 @@ TCP states visited by ServerSide --
 
 ![image](../../../media/TCP-Connection-Oriented-Protocol-image8.jpg)
 
-<https://www.geeksforgeeks.org/tcp-connection-termination>
+https://www.geeksforgeeks.org/tcp-connection-termination
 
 ## Problems
 
@@ -195,7 +195,7 @@ Available PEP implementations use different methods to enhance performance.
 - Snoop
 - D-proxy
 
-<https://en.wikipedia.org/wiki/Performance-enhancing_proxy>
+https://en.wikipedia.org/wiki/Performance-enhancing_proxy
 
 ## TCP Split
 
@@ -205,6 +205,6 @@ But performance issues can arise due to the interaction among path segments and 
 
 One of the well known problems of TCP splitting is that by breaking the end-to-end connection, a split TCP connection is no longer reliable or secure, and a server failure may cause the client to believe that data has been successfully received when it has not. From theApplication Server TCP Splittingpane, you can access the TCP Splitting for the Application Server.
 
-<https://webhelp.radware.com/AppDirector/v214/214Advanced%20Capabilities.07.04.htm>
+https://webhelp.radware.com/AppDirector/v214/214Advanced%20Capabilities.07.04.htm
 
 [split tcp protocol | Adhoc N/W | lec-34 | Bhanu Priya](https://www.youtube.com/watch?v=U1ryk2zIAjc)

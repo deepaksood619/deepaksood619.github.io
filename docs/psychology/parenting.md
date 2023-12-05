@@ -2,7 +2,7 @@
 
 - **Homeschooling / Home School / Homeschool**
   - Khan academy
-  - <https://primer.com>
+  - https://primer.com
   - day wise curriculum for kids for 0 - 18 years
 - **Thoughts**
   - I want to raise my children in UK or US (good child care programs, that develops childs brain) or parents live with me

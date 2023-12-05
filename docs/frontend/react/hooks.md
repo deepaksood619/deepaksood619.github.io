@@ -72,7 +72,7 @@ useEffect(() => {
 
 The useMemo is a hook used in the functional component of react that returns a memoized value.
 
-<https://www.geeksforgeeks.org/react-js-usememo-hook>
+https://www.geeksforgeeks.org/react-js-usememo-hook
 
 ## Lifecycle components and Hooks Equivalent
 
@@ -143,7 +143,7 @@ const rootElement = document.getElementById("root");
 ReactDOM.render(<SearchResults />, rootElement);
 ```
 
-<https://medium.com/programming-essentials/how-to-create-a-digital-clock-with-react-hooks-aa30f76cfe3f>
+https://medium.com/programming-essentials/how-to-create-a-digital-clock-with-react-hooks-aa30f76cfe3f
 
 `useState()`
 
@@ -186,8 +186,8 @@ const rootElement = document.getElementById("root");
 ReactDOM.render(<SearchResults />, rootElement);
 ```
 
-<https://www.toptal.com/react-hooks/stale-while-revalidate>
+https://www.toptal.com/react-hooks/stale-while-revalidate
 
-<https://www.toptal.com/react/react-hooks-typescript-example>
+https://www.toptal.com/react/react-hooks-typescript-example
 
-<https://hackernoon.com/whats-the-right-way-to-fetch-data-in-react-hooks-a-deep-dive-2jc13230>
+https://hackernoon.com/whats-the-right-way-to-fetch-data-in-react-hooks-a-deep-dive-2jc13230

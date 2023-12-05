@@ -8,4 +8,4 @@ OpenStack is a cloud operating system that controls large pools of compute, stor
 
 Neutron is an OpenStack project to provide "network connectivity as a service" between interface devices (e.g., vNICs) managed by other OpenStack services (e.g., Nova).
 
-<https://github.com/openstack/neutron>
+https://github.com/openstack/neutron

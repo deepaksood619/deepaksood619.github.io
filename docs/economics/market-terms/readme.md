@@ -45,8 +45,8 @@ Bulls make money, bears make money, but pigs get slaughtered.
 - indmoney (US stocks) / Vested / Winvesta
 - **Frontpage**
 - **Tickertape**
-- <https://in.tradingview.com>
-- <https://learnapp.com/home>
+- https://in.tradingview.com
+- https://learnapp.com/home
 
 ### Trading tools
 
@@ -143,7 +143,7 @@ Some of the really successful traders the world has seen are -- George Soros, Ed
 - Scalpers are often high-energy individuals who thrive during times of stress and have the means and temperament to handle the high trading volume.
 - Most often, because scalping requires considerable time, money, and skill, scalpers are professional traders.
 
-<https://www.investopedia.com/articles/trading/02/081902.asp>
+https://www.investopedia.com/articles/trading/02/081902.asp
 
 ## Investor
 
@@ -155,9 +155,9 @@ An investor is a person who buys a stock expecting a significant appreciation in
 
 ## 20 - Market Depth
 
-<https://zerodha.com/z-connect/featured/introducing-20-depth-or-level-3-data-beta-on-kite>
+https://zerodha.com/z-connect/featured/introducing-20-depth-or-level-3-data-beta-on-kite
 
-<https://zerodha.com/varsity/chapter/supplementary-note-the-20-market-depth>
+https://zerodha.com/varsity/chapter/supplementary-note-the-20-market-depth
 
 ## Types of Markets
 
@@ -262,7 +262,7 @@ Short covering refers to buying back borrowed securities in order to close out a
 - Short covering can result in either a profit (if the asset is repurchased lower than where it was sold) or for a loss (if it is higher).
 - Short covering may be forced if there is a short squeeze and sellers become subject to margin calls. Measures of short interest can help predict the chances of a squeeze.
 
-<https://www.investopedia.com/terms/s/shortcovering.asp>
+https://www.investopedia.com/terms/s/shortcovering.asp
 
 ## Short Squeeze
 
@@ -272,9 +272,9 @@ A short squeeze is an unusual condition that triggers rapidly rising prices in a
 - Contrarian investors try to anticipate a short squeeze and buy stocks that demonstrate a strong short interest.
 - Both short sellers and contrarians make risky moves. A wise investor has additional reasons for shorting or buying that stock.
 
-<https://www.investopedia.com/terms/s/shortsqueeze.asp>
+https://www.investopedia.com/terms/s/shortsqueeze.asp
 
-<https://www.investopedia.com/ask/answers/050715/what-difference-between-short-squeeze-and-short-covering.asp>
+https://www.investopedia.com/ask/answers/050715/what-difference-between-short-squeeze-and-short-covering.asp
 
 "Short covering" and "short squeeze" are different terms to describe a situation involving short positions. A short squeeze is a situation in which a security's price increases significantly, causing short sellers to close their short positions. Conversely, short covering involves buying back a security to close out an open short position.
 
@@ -292,7 +292,7 @@ A market segment is a division within which a certain type of financial instrume
 
 3. **Wholesale Debt Market --** The wholesale debt market deals with fixed income securities. Debt instruments include government securities, treasury bills, bonds issued by a public sector undertaking, corporate bonds, corporate debentures, etc.
 
-<https://zerodha.com/varsity/chapter/commonly-used-jargons>
+https://zerodha.com/varsity/chapter/commonly-used-jargons
 
 - MIS - Margin Intraday Settlement
 - CNC - Cash and Carry
@@ -368,7 +368,7 @@ Prices of global depositary receipt are based on the values of related shares, b
 
 Several international banks issue GDRs, such as [JPMorgan Chase](https://en.wikipedia.org/wiki/JPMorgan_Chase), [Citigroup](https://en.wikipedia.org/wiki/Citigroup), [Deutsche Bank](https://en.wikipedia.org/wiki/Deutsche_Bank), [The Bank of New York Mellon](https://en.wikipedia.org/wiki/The_Bank_of_New_York_Mellon). GDRs are often listed in the [Frankfurt Stock Exchange](https://en.wikipedia.org/wiki/Frankfurt_Stock_Exchange), [Luxembourg Stock Exchange](https://en.wikipedia.org/wiki/Luxembourg_Stock_Exchange), and the [London Stock Exchange](https://en.wikipedia.org/wiki/London_Stock_Exchange), where they are traded on the International Order Book (IOB).
 
-<https://en.wikipedia.org/wiki/Global_depository_receipt>
+https://en.wikipedia.org/wiki/Global_depository_receipt
 
 ## Orders
 
@@ -390,7 +390,7 @@ Several international banks issue GDRs, such as [JPMorgan Chase](https://en.wiki
   - Cover order with limit entry
   - AMO (After market orders)
 
-<https://kite.trade/docs/kite/orders>
+https://kite.trade/docs/kite/orders
 
 ## Demat Account
 
@@ -453,14 +453,14 @@ A binary option is a financial product where the buyer receives a payout or lose
 | **out of the money** | a stock option is "out of the money" or "under water" when its grant price is above the current market price |
 | **positions** | refers to the stock you hold in your account for a particular company; for example, if you hold stock in 2 different companies within your account, you have "2 positions" |
 | **restricted stock award (RSA)** | a grant of company stock in which your rights to the stocks are restricted until the award vests, also known as a lapse in restrictions; once the shares vest, they are deposited into your Fidelity Account®and are yours to hold, sell, or transfer |
-| **restricted stock unit (RSU)** | a grant valued in terms of company stock that is restricted until the award vests; after the vesting requirement is satisfied, your company distributes shares or the cash equivalent <https://www.investopedia.com/terms/r/restricted-stock-unit.asp> |
+| **restricted stock unit (RSU)** | a grant valued in terms of company stock that is restricted until the award vests; after the vesting requirement is satisfied, your company distributes shares or the cash equivalent https://www.investopedia.com/terms/r/restricted-stock-unit.asp |
 | **stock appreciation right (SAR)** | an award that provides the holder with the ability to profit from the appreciation in value of a set number of shares of company stock over a set period of time |
 | **stock swap** | a form of stock option exercise in which you exercise your option to acquire shares of your company stock by exchanging shares of a stock you currently own instead of cash to pay the exercise cost |
 | **stop order** | stop orders are generally used to protect a profit or to prevent further loss if the price of a security moves against you; they can also be used to establish a position in a security if it reaches a certain price threshold or to close a short position; not all securities or trading sessions (pre- and post-market) are eligible for stop orders |
 | **vesting** | this refers to when the participant has earned the right of ownership and the options or restricted stock becomes available to sell; vesting occurs after your company-designated time frame is met (also known as a vesting schedule) |
 | **vesting schedule** | the schedule of when, and to what extent, awards become available based on periods of time (options and restricted stock) |
 
-<https://www.fidelity.com/glossary/stock-plan-services-glossary>
+https://www.fidelity.com/glossary/stock-plan-services-glossary
 
 - Last traded price (LTP)
 - Pre opening market session: 9 to 9:15
@@ -531,7 +531,7 @@ A New Fund Offer (NFO) refers to the introductory offer of a scheme by an [asset
 - [Open-ended funds](https://www.paisabazaar.com/mutual-funds/open-ended-funds/): This fund is officially launched after the NFO ends. Investors can enter and exit the fund at any time after the launch.
 - Close-ended funds: A [close-ended fund](https://www.paisabazaar.com/mutual-funds/closed-end-funds/) does not allow the entry and/or exit of investors after the NFO period, until its maturity. This time period is typically 3-4 years from the launch date. However, the investors may buy and sell the units of such a fund on the stock market in theory, but the liquidity of such funds on the market tends to be low.
 
-<https://www.paisabazaar.com/mutual-funds/all-about-nfo>
+https://www.paisabazaar.com/mutual-funds/all-about-nfo
 
 ## SAFE Note - Simple Aggrement for Future Equity
 
@@ -539,7 +539,7 @@ SAFE (simple agreement for future equity) notes are a simpler alternative to [co
 
 A SAFE note is a convertible security that, like an option or warrant, allows the investor to buy shares in a future priced round. It addresses many of the drawbacks and challenges posed by convertible notes and can be an equitable option for investors and [founders](https://www.upcounsel.com/blog/the-one-thing-that-every-new-entrepreneur-should-know). Startups may prefer SAFE notes because, unlike convertible notes, they are not debt and therefore do not accrue interest.
 
-<https://www.upcounsel.com/safe-notes>
+https://www.upcounsel.com/safe-notes
 
 ## Term sheet
 
@@ -547,4 +547,4 @@ A SAFE note is a convertible security that, like an option or warrant, allows th
 - Term sheets are most often associated with startups. Entrepreneurs find that this document is crucial to attracting investors, such as venture capitalists (VC) with capital to fund enterprises.
 - The company valuation, investment amount, percentage stake, voting rights, liquidation preference, anti-dilutive provisions, and investor commitment are some items that should be spelled out in the term sheet.
 
-<https://www.investopedia.com/terms/t/termsheet.asp>
+https://www.investopedia.com/terms/t/termsheet.asp

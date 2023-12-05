@@ -31,13 +31,13 @@ Telegraf contains many general purpose plugins that support parsing input data u
 - [Value](https://github.com/influxdata/telegraf/blob/master/plugins/parsers/value), ie: 45 or "booyah"
 - [Wavefront](https://github.com/influxdata/telegraf/blob/master/plugins/parsers/wavefront)
 
-<https://github.com/influxdata/telegraf/blob/master/docs/DATA_FORMATS_INPUT>
+https://github.com/influxdata/telegraf/blob/master/docs/DATA_FORMATS_INPUT
 
 ## Plugins
 
 Plugins that are used to access data and populate the data
 
-<https://github.com/influxdata/telegraf/tree/master/plugins>
+https://github.com/influxdata/telegraf/tree/master/plugins
 
 ## Inputs plugins
 
@@ -71,9 +71,9 @@ Line - 3042
 "%{CLIENT:client_ip}" %{NOTSPACE:ident} %{NOTSPACE:auth} [%{HTTPDATE:ts:ts-httpd}] "(?:%{WORD:verb:tag} %{NOTSPACE:request}(?: HTTP/%{NUMBER:http_version:float})?|%{DATA})" %{NUMBER:resp_code:tag} (?:%{NUMBER:resp_bytes:int}|-) "%{DATA:referrer}" "%{DATA:agent}"
 ```
 
-<https://github.com/vjeantet/grok/blob/master/patterns/grok-patterns>
+https://github.com/vjeantet/grok/blob/master/patterns/grok-patterns
 
-Telegraf grok patterns - <https://github.com/influxdata/telegraf/blob/master/plugins/parsers/grok/influx_patterns.go>
+Telegraf grok patterns - https://github.com/influxdata/telegraf/blob/master/plugins/parsers/grok/influx_patterns.go
 
 Access logs - /var/log/apache2/access.log
 
@@ -139,7 +139,7 @@ Processor plugins transform, decorate, and/or filter metrics collected by input 
 
 Service input plugins are input plugins that run in a passive collection mode while the Telegraf agent is running. They listen on a socket for known protocol inputs, or apply their own logic to ingested metrics before delivering them to the Telegraf agent.
 
-<https://docs.influxdata.com/telegraf/v1.10/concepts/glossary>
+https://docs.influxdata.com/telegraf/v1.10/concepts/glossary
 
 ## Metric Filtering
 
@@ -163,4 +163,4 @@ Modifier filters remove tags and fields from a metric. If all fields are removed
 
 Metrics can be routed to different outputs using the metric name and tags
 
-<https://github.com/influxdata/telegraf/blob/master/docs/CONFIGURATION#metric-filtering>
+https://github.com/influxdata/telegraf/blob/master/docs/CONFIGURATION#metric-filtering

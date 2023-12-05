@@ -1,6 +1,6 @@
 # Learning - Intro
 
-<https://guides.lib.uoguelph.ca/c.php?g=697430&p=4949569>
+https://guides.lib.uoguelph.ca/c.php?g=697430&p=4949569
 
 Autodidactic Learning (Self Learn)
 
@@ -53,7 +53,7 @@ Everytime you get deep into topic, there comes a point where you are satisfied, 
 - Overload training
 - Underload training
 
-<https://360learning.com/blog/learning-theories>
+https://360learning.com/blog/learning-theories
 
 1. Cognitive Learning Theory
 2. Behavioral Learning Theory
@@ -235,7 +235,7 @@ Practice test: The most powerful technique for boosting memory
   - Get immediate or delayed feedback on your answers Revise with
         practice tests / questions to achieve the best results in your tests and exams
 
-<https://www.scotthyoung.com/blog/2019/02/15/memory>
+https://www.scotthyoung.com/blog/2019/02/15/memory
 
 ## Hebbian Theory - Neurons that fire together, wire together
 
@@ -309,7 +309,7 @@ The speaker learns more than the attendee.
 
 The way to learn is by doing.
 
-<https://deepstash.com/article/3352/quotes-to-inspire-you-to-never-stop-learning>
+https://deepstash.com/article/3352/quotes-to-inspire-you-to-never-stop-learning
 
 ## Need For Cognition (NFC)
 
@@ -317,7 +317,7 @@ NFC is a personality trait used in psychology to describe how inclined an indivi
 
 "A personality trait reflecting a person's tendency to enjoy engaging in extensive cognitive activity. This trait primarily reflects a person's motivation to engage in cognitive activity rather than his or her actual ability to do so. Individuals high in need for cognition tend to develop attitudes or take action based on thoughtful evaluation of information."
 
-<https://centerofinquiry.org/uncategorized/need-for-cognition-scale-wabash-national-study>
+https://centerofinquiry.org/uncategorized/need-for-cognition-scale-wabash-national-study
 
 ## Curiosity
 
@@ -337,7 +337,7 @@ This is the ideal type of curiosity according to Leslie, and the one we should a
 
 Dr. Litman further splintered epistemic curiosity into two additional types:[Intellectual Interest curiosity (type I) and Informational Deprivation curiosity (type D)](http://drjlitman.net/wp-content/uploads/2013/11/Litman-2007-invited-chapter.pdf). The former refers to curiosity that drives one 'to learn something that may be entertaining or amusing,' while the latter 'is activated in situations when individuals feel they are lacking information that is considered essential to improving their understanding.'
 
-<https://360learning.com/blog/need-for-cognition>
+https://360learning.com/blog/need-for-cognition
 
 ## Learning Styles (VARK) - It doesn't work
 
@@ -376,7 +376,7 @@ Adult Learning Theory in practice
 - Decentralize course creation
 - Embrace self-directed learning
 
-<https://360learning.com/blog/adult-learning-theory>
+https://360learning.com/blog/adult-learning-theory
 
 ![image](../../media/Learning-Intro-image1.jpg)
 
@@ -446,9 +446,9 @@ Due to the internet, our recall memory has become less necessary, because now we
 - Do a thorough review of lecture and text notes weekly, and briefly before each class.
 - Make weekly review periods effective by starting from the beginning of the course in each review session. Though the volume of review material increases as the semester progresses, the amount of time needed to review older material decreases. After you've reviewed the first week's material a few times, it will take only minutes to skim over it and recall the key points.
 
-<https://guides.lib.uoguelph.ca/c.php?g=697430&p=5011752>
+https://guides.lib.uoguelph.ca/c.php?g=697430&p=5011752
 
-<https://perell.com/essay/how-philosophers-think>
+https://perell.com/essay/how-philosophers-think
 
 ## Chauffeur Knowledge
 

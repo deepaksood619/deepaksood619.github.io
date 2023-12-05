@@ -36,7 +36,7 @@ These patterns deal with object relationships. They ensure that if one part of a
 - Bridge
 - Composite
 
-    <https://dev.to/coly010/the-composite-pattern-design-patterns-meet-the-frontend-445e>- Decorator
+    https://dev.to/coly010/the-composite-pattern-design-patterns-meet-the-frontend-445e- Decorator
 
 - Facade
 - Flyweight
@@ -45,7 +45,7 @@ These patterns deal with object relationships. They ensure that if one part of a
 
     In other contexts, the idea of sharing data structures is called [hash consing](https://en.wikipedia.org/wiki/Hash_consing).
 
-    <https://en.wikipedia.org/wiki/Flyweight_pattern>
+    https://en.wikipedia.org/wiki/Flyweight_pattern
 
 - Proxy
 
@@ -85,7 +85,7 @@ Design patterns which are used for architectural purposes. Some of the most famo
 - MVVP
 - Clean Architecture (Uncle Bob Android)
 
-    <https://www.youtube.com/watch?v=BrT3AO8bVQY>
+    https://www.youtube.com/watch?v=BrT3AO8bVQY
 
 ## Others
 
@@ -95,7 +95,7 @@ Design patterns which are used for architectural purposes. Some of the most famo
 
 In a parameterized function, one or more of the details of what the function does are defined as parameters instead of being defined in the function; they have to be passed in by the calling code.
 
-<https://www.toptal.com/python/python-parameterized-design-patterns>
+https://www.toptal.com/python/python-parameterized-design-patterns
 
 ## The Scope
 
@@ -119,20 +119,20 @@ A common example would be the [electronic health record](https://en.wikipedia.or
 
 ### Repository Pattern
 
-<https://medium.com/swlh/repository-pattern-in-android-c31d0268118c>
+https://medium.com/swlh/repository-pattern-in-android-c31d0268118c
 
 ## References
 
-<https://www.toptal.com/python/python-design-patterns>
+https://www.toptal.com/python/python-design-patterns
 
-<https://www.toptal.com/javascript/comprehensive-guide-javascript-design-patterns>
+https://www.toptal.com/javascript/comprehensive-guide-javascript-design-patterns
 
-<https://github.com/faif/python-patterns>
+https://github.com/faif/python-patterns
 
-<https://stackabuse.com/design-patterns-in-python>
+https://stackabuse.com/design-patterns-in-python
 
-<https://www.freecodecamp.org/news/4-design-patterns-to-use-in-web-development>
+https://www.freecodecamp.org/news/4-design-patterns-to-use-in-web-development
 
 ![image](../../media/Design-Patterns-image1.jpg)
 
-<https://en.wikipedia.org/wiki/Software_design_pattern>
+https://en.wikipedia.org/wiki/Software_design_pattern

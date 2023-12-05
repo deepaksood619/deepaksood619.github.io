@@ -75,4 +75,4 @@ The most interesting application I would like to share is zero-shot learning (ZS
 
 More practical applications of GNN include *human behavior detection, traffic control, molecular structure study, recommender system, program verification, logical reasoning, social influence prediction, and adversarial attack prevention.* Below shows a graph that models the relationships of people in a social network. GNN can be applied to cluster people into different community groups.
 
-<https://towardsdatascience.com/an-introduction-to-graph-neural-network-gnn-for-analysing-structured-data-afce79f4cfdc>
+https://towardsdatascience.com/an-introduction-to-graph-neural-network-gnn-for-analysing-structured-data-afce79f4cfdc

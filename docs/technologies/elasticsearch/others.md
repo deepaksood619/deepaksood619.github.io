@@ -4,7 +4,7 @@
 
 Heartbeat is a lightweight daemon that you install on a remote server to periodically check the status of your services and determine whether they are available. Unlike [Metricbeat](https://www.elastic.co/guide/en/beats/metricbeat/7.1/index.html), which only tells you if your servers are up or down, Heartbeat tells you whether your services are reachable.
 
-<https://www.elastic.co/guide/en/beats/heartbeat/current/heartbeat-overview.html>
+https://www.elastic.co/guide/en/beats/heartbeat/current/heartbeat-overview.html
 
 ## FluentBit
 
@@ -12,9 +12,9 @@ Fluent Bit is an open source and multi-platformLog Processor and Forwarderwhich 
 
 Fluent Bit is written inC, have a pluggable architecture supporting around 30 extensions. It's fast and lightweight and provide the required security for network operations through TLS.
 
-<https://fluentbit.io>
+https://fluentbit.io
 
-<https://github.com/fluent/fluent-bit>
+https://github.com/fluent/fluent-bit
 
 ## Fluentd
 
@@ -40,17 +40,17 @@ Fluentd supports memory- and file-based buffering to prevent inter-node data los
 
 An event consists of *tag*, *time* and*record*. Tag is a string separated with '.' (e.g. myapp.access). It is used to categorize events. Time is a UNIX time recorded at occurrence of an event. Record is a JSON object.
 
-<https://www.fluentd.org>
+https://www.fluentd.org
 
-<https://github.com/fluent/fluentd>
+https://github.com/fluent/fluentd
 
-<https://www.youtube.com/watch?v=Gp0-7oVOtPw&ab_channel=ThatDevOpsGuy>
+https://www.youtube.com/watch?v=Gp0-7oVOtPw&ab_channel=ThatDevOpsGuy
 
 ## Splunk
 
 Splunk is a software technology which is used for monitoring, searching, analyzing and visualizing the machine generated data in real time. It can monitor and read different type of log files and stores data as events in indexers. This tool allows you to visualize data in various forms of dashboards.
 
-<https://www.guru99.com/splunk-tutorial.html>
+https://www.guru99.com/splunk-tutorial.html
 
 ## Eland
 
@@ -58,9 +58,9 @@ Eland is a Python Elasticsearch client for exploring and analyzing data residing
 
 Where possible the package uses existing Python APIs and data structures to make it easy to switch between numpy, pandas, scikit-learn to their Elasticsearch powered equivalents. In general, the data resides in Elasticsearch and not in memory, which allows Eland to access large datasets stored in Elasticsearch.
 
-<https://towardsdatascience.com/elasticsearch-for-data-science-just-got-way-easier-95912d724636>
+https://towardsdatascience.com/elasticsearch-for-data-science-just-got-way-easier-95912d724636
 
-<https://github.com/elastic/eland>
+https://github.com/elastic/eland
 
 ## APM
 
@@ -70,10 +70,10 @@ Application Performance Monitoring (APM) collects in-depth performance metrics a
 
 Please note that errors and transactions will only be sent to the APM Server if your app isnotin [debug mode](http://flask.pocoo.org/docs/0.12/quickstart/#debug-mode).
 
-<https://www.elastic.co/guide/en/apm/agent/python/current/flask-support.html>
+https://www.elastic.co/guide/en/apm/agent/python/current/flask-support.html
 
-<https://toptechtips.github.io/2019-07-08-add_python_code_to_apm>
+https://toptechtips.github.io/2019-07-08-add_python_code_to_apm
 
 ## Opensearch
 
-<https://github.com/opensearch-project/OpenSearch>
+https://github.com/opensearch-project/OpenSearch

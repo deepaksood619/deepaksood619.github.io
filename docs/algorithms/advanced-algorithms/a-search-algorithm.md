@@ -42,10 +42,10 @@ return D * (dx + dy)
 
 ## References
 
-<https://en.wikipedia.org/wiki/A*_search_algorithm>
+https://en.wikipedia.org/wiki/A*_search_algorithm
 
-<http://theory.stanford.edu/~amitp/GameProgramming/AStarComparison.html>
+http://theory.stanford.edu/~amitp/GameProgramming/AStarComparison.html
 
-<https://www.redblobgames.com/pathfinding/a-star/introduction.html>
+https://www.redblobgames.com/pathfinding/a-star/introduction.html
 
-<https://www.redblobgames.com/pathfinding/a-star/implementation.html>
+https://www.redblobgames.com/pathfinding/a-star/implementation.html

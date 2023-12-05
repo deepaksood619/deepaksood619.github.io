@@ -93,4 +93,4 @@ final Target target = new Adapter();
     }
 ```
 
-<https://talkoverflow.com/adapter>
+https://talkoverflow.com/adapter

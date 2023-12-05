@@ -48,6 +48,6 @@ Most modern compilers are smarter than you at picking which variables should be 
 
 ## References
 
-<https://stackoverflow.com/questions/8385322/difference-between-static-memory-allocation-and-dynamic-memory-allocation>
+https://stackoverflow.com/questions/8385322/difference-between-static-memory-allocation-and-dynamic-memory-allocation
 
-<https://www.memorymanagement.org/index.html>
+https://www.memorymanagement.org/index.html

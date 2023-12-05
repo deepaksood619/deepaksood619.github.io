@@ -45,8 +45,8 @@ This is better than pre-emptive scheduling which uses timely system interrupts (
 
 Another advantage is that, since it is invoked implicitly in the code e.g. during sleep or channel wait, the compile only needs to safe/restore the registers which are alive at these points. In Go, this meansonly 3 registers i.e. PC, SP and DX (Data Registers) being updated during context switchrather than all registers (e.g. AVX, Floating Point, MMX).
 
-<https://codeburst.io/why-goroutines-are-not-lightweight-threads-7c460c1f155f>
+https://codeburst.io/why-goroutines-are-not-lightweight-threads-7c460c1f155f
 
 ## Pointers in Go
 
-<https://www.digitalocean.com/community/conceptual_articles/understanding-pointers-in-go>
+https://www.digitalocean.com/community/conceptual_articles/understanding-pointers-in-go

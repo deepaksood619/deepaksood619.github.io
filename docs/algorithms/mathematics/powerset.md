@@ -58,4 +58,4 @@ def all_subsets(s):
 return chain(*map(lambda x: combinations(s, x), range(0, len(s)+1)))
 ```
 
-<https://en.wikipedia.org/wiki/Power_set>
+https://en.wikipedia.org/wiki/Power_set

@@ -9,4 +9,4 @@ SSTable is a persistent ordered immutable data structures. It usually consist of
 Since SSTable is immutable, insert, update or delete operations would require rewriting the whole file, since it's optimised for reads, written sequentially and has no reserved empty space that would allow any in-place modifications.
 Many databases use SSTables:[RocksDB](https://github.com/facebook/rocksdb/wiki/Terminology) and [Cassandra](https://docs.datastax.com/en/cassandra/3.0/cassandra/dml/dmlManageOndisk.html), just to name a few, but there are plenty other examples. Cassandra, starting with version 3.4, incorporated [SSTable Attached Secondary Indexes](https://github.com/apache/cassandra/blob/trunk/doc/SASI), a concept built on top SSTables and LSM Trees, that simplifies the secondary index maintenance by coupling the index building to memory-resident table flush and SSTable merge process.
 
-<https://medium.com/databasss/on-disk-io-part-3-lsm-trees-8b2da218496f>
+https://medium.com/databasss/on-disk-io-part-3-lsm-trees-8b2da218496f

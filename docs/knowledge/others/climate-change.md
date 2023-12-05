@@ -26,4 +26,4 @@ Earth overshoot day - 27 July
 
 ## Environmental Sciences
 
-<https://www.pmfias.com/carbon-nitrogen-phosphorus-sulphur-cycle>
+https://www.pmfias.com/carbon-nitrogen-phosphorus-sulphur-cycle

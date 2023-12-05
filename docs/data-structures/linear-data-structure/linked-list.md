@@ -44,7 +44,7 @@ With non-intrusive linked lists, creating a new object and adding it to a list r
 
 Intrusive linked lists also suffer less from cache thrashing. Iterating through a non-intrusive list node requires dereferencing a list node, and then dereferencing the list data. Intrusive linked lists only require dereferencing the next list node.
 
-<https://www.data-structures-in-practice.com/intrusive-linked-lists>
+https://www.data-structures-in-practice.com/intrusive-linked-lists
 In a Linked List the first node is called the **head** and the last node is called the **tail**.
 
 ## Pros

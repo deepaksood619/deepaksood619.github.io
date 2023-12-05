@@ -8,4 +8,4 @@ Like the derivative, the gradient represents the [slope](https://en.wikipedia.or
 
 In the above two images, the values of the function are represented in black and white, black representing higher values, and its corresponding gradient is represented by blue arrows.
 
-<https://en.wikipedia.org/wiki/Gradient>
+https://en.wikipedia.org/wiki/Gradient

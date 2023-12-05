@@ -25,4 +25,4 @@ LWT is a great way to notify other subscribed clients about the unexpected loss 
 
 ## References
 
-<https://www.hivemq.com/blog/mqtt-essentials-part-9-last-will-and-testament>
+https://www.hivemq.com/blog/mqtt-essentials-part-9-last-will-and-testament

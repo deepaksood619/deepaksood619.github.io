@@ -148,7 +148,7 @@ Exabyte-scale Data Transport
 
 Amazon Elastic Container Registry (ECR) is a fully-managed [Docker](https://aws.amazon.com/docker/) container registry that makes it easy for developers to store, manage, and deploy Docker container images. Amazon ECR is integrated with [Amazon Elastic Container Service (ECS)](https://aws.amazon.com/ecs/), simplifying your development to production workflow. Amazon ECR eliminates the need to operate your own container repositories or worry about scaling the underlying infrastructure. Amazon ECR hosts your images in a highly available and scalable architecture, allowing you to reliably deploy containers for your applications. Integration with AWS Identity and Access Management (IAM) provides resource-level control of each repository. With Amazon ECR, there are no upfront fees or commitments. You pay only for the amount of data you store in your repositories and data transferred to the Internet.
 
-<https://docs.aws.amazon.com/AmazonECR/latest/userguide/pull-through-cache.html>
+https://docs.aws.amazon.com/AmazonECR/latest/userguide/pull-through-cache.html
 
 ## Amazon CloudFront
 
@@ -174,7 +174,7 @@ Since CloudFront is anedge cache, Amazon CloudFront does not provide durable sto
 
 CloudFront is a highly secure CDN that provides both network and application level protection. CloudFront customers benefit from the automatic protection of AWS Shield (DDoS protection service) Standard, at no additional charge. CloudFront is also seamlessly integrated with AWS WAF (Web Application Firewall) and AWS Shield Advanced to help protect your applications from more sophisticated threats and DDoS attacks.
 
-<https://www.mitrai.com/tech-guide/eight-types-of-aws-storage-services-explained>
+https://www.mitrai.com/tech-guide/eight-types-of-aws-storage-services-explained
 
 ## Links
 

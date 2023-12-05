@@ -16,7 +16,7 @@ Cyclomatic complexity is computed using the [control flow graph](https://en.wiki
 
 One [testing](https://en.wikipedia.org/wiki/Software_testing) strategy, called [basis path testing](https://en.wikipedia.org/wiki/Basis_path_testing) by McCabe who first proposed it, is to test each linearly independent path through the program; in this case, the number of test cases will equal the cyclomatic complexity of the program.
 
-<https://en.wikipedia.org/wiki/Cyclomatic_complexity>
+https://en.wikipedia.org/wiki/Cyclomatic_complexity
 
 ## Test & Code Coverage
 
@@ -40,7 +40,7 @@ Code coverage is collected by using a specialized tool to instrument the binarie
 
 Knowing the percentage of code that is covered by tests, can help developers assess the quality of their test cases and help them add missing tests and thereby find and remove software faults
 
-<https://codecov.io>
+https://codecov.io
 
 ## Lint / Linting / Linter
 
@@ -56,7 +56,7 @@ Lint (In computer programming, lint is a Unix utility that flags some suspicious
 - Keeping track of TODO's and FIXME's
 - Keeping a consistent code style
 
-<https://www.freecodecamp.org/news/dont-just-lint-your-code-fix-it-with-prettier>
+https://www.freecodecamp.org/news/dont-just-lint-your-code-fix-it-with-prettier
 
 Code Validator / Linter / Analysis - [https://deepsource.io](https://deepsource.io/)
 
@@ -67,7 +67,7 @@ Application Inspector is different from traditional static analysis tools in tha
 
 The tool supports scanning various programming languages including C, C++, C#, Java, JavaScript, HTML, Python, Objective-C, Go, Ruby, PowerShell and [more](https://github.com/microsoft/ApplicationInspector/wiki/2.1-Field:-applies_to-(languages-support)) and can scan projects with mixed langauge files. It also includes HTML, JSON and text output formats with the default being an HTML report similar to the one shown here.
 
-<https://github.com/Microsoft/ApplicationInspector>
+https://github.com/Microsoft/ApplicationInspector
 
 ## SonarQube (Continuous Code Quality Inspector)
 
@@ -75,22 +75,22 @@ SonarQube (formerlySonar) is an [open-source](https://en.wikipedia.org/wiki/Open
 
 SonarQube can record metrics history and provides evolution graphs. SonarQube provides fully automated analysis and integration with [Maven](https://en.wikipedia.org/wiki/Apache_Maven), [Ant](https://en.wikipedia.org/wiki/Apache_Ant), [Gradle](https://en.wikipedia.org/wiki/Gradle), [MSBuild](https://en.wikipedia.org/wiki/MSBuild) and [continuous integration](https://en.wikipedia.org/wiki/Continuous_integration) tools ([Atlassian Bamboo](https://en.wikipedia.org/wiki/Bamboo_(software)), [Jenkins](https://en.wikipedia.org/wiki/Jenkins_(software)), [Hudson](https://en.wikipedia.org/wiki/Hudson_(software)), etc.).
 
-<https://en.wikipedia.org/wiki/SonarQube>
+https://en.wikipedia.org/wiki/SonarQube
 
-<https://www.sonarqube.org>
+https://www.sonarqube.org
 
 ## AI Autocomplete & Assistant
 
 - Kite
-- <https://www.tabnine.com>
+- https://www.tabnine.com
 
 ## Other Tools
 
 - CodeScene
-- <https://github.com/adamtornhill/code-maat>
-- [Software Engineering Intelligence | Code Climate](https://codeclimate.com) - <https://github.com/codeclimate/codeclimate>
-- Sourcegraph - <https://about.sourcegraph.com>
-- <https://www.jetbrains.com/qodana>
+- https://github.com/adamtornhill/code-maat
+- [Software Engineering Intelligence | Code Climate](https://codeclimate.com) - https://github.com/codeclimate/codeclimate
+- Sourcegraph - https://about.sourcegraph.com
+- https://www.jetbrains.com/qodana
 
 ## Links
 

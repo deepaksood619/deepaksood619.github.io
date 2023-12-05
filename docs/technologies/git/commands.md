@@ -8,7 +8,7 @@ ggpush
 gst
 ```
 
-<https://github.com/ohmyzsh/ohmyzsh/blob/master/plugins/git/git.plugin.zsh>
+https://github.com/ohmyzsh/ohmyzsh/blob/master/plugins/git/git.plugin.zsh
 
 ## git clone without history
 
@@ -16,14 +16,14 @@ gst
 git clone --depth 1 reponame.git
 git clone --depth=1 --branch=master git://someserver/somerepo dirformynewrepo
 
-<https://stackoverflow.com/questions/30001304/clone-git-repository-without-history/30001366>
-Clone all repo in organization - <https://gist.github.com/potter0815/42dda83fa1709693be36>
+https://stackoverflow.com/questions/30001304/clone-git-repository-without-history/30001366
+Clone all repo in organization - https://gist.github.com/potter0815/42dda83fa1709693be36
 ```
 
 ## Git add origin
 
 ```bash
-git remote add origin <https://github.com/deepaksood619/DjangoDemoApplication.git>
+git remote add origin https://github.com/deepaksood619/DjangoDemoApplication.git
 git push -u origin master
 git remote set-url origin git@gitlab.com:example-datascience/decision-engine.git (change remote repository origin)
 git remote rm destination
@@ -169,7 +169,7 @@ if you used `git rm --cached` on a new file that is staged, it would basically l
 4. git push -f origin master
 ```
 
-<https://dev.to/neshaz/when-to-use-git-reset-git-revert--git-checkout-18je>
+https://dev.to/neshaz/when-to-use-git-reset-git-revert--git-checkout-18je
 
 ## Revert
 
@@ -179,7 +179,7 @@ if you used `git rm --cached` on a new file that is staged, it would basically l
 
 `git revert HEAD~1`
 
-<https://git-scm.com/docs/git-revert>
+https://git-scm.com/docs/git-revert
 
 ## Reset
 
@@ -210,9 +210,9 @@ git reset HEAD~ --hard (Revert a last commit with all changes removed)
 
 ![image](../../media/Technologies-Git-Commands-image1.jpg)
 
-<https://stackoverflow.com/questions/2221658/whats-the-difference-between-head-and-head-in-git>
+https://stackoverflow.com/questions/2221658/whats-the-difference-between-head-and-head-in-git
 
-<http://www.paulboxley.com/blog/2011/06/git-caret-and-tilde>
+http://www.paulboxley.com/blog/2011/06/git-caret-and-tilde
 
 **Move to forward commit**
 
@@ -393,7 +393,7 @@ git switch -
 
 `git branch -r --merged | egrep -v "(^*|master|dev)" | sed 's/origin///' | xargs -n 1 git push origin --delete`
 
-<https://nickymeuleman.netlify.app/blog/delete-git-branches>
+https://nickymeuleman.netlify.app/blog/delete-git-branches
 
 ## Cleaning git history, commits, branches
 
@@ -417,7 +417,7 @@ git rev-list --objects --all \
 | $(command -v gnumfmt || echo numfmt) --field=2 --to=iec-i --suffix=B --padding=7 --round=nearest
 ```
 
-<https://passingcuriosity.com/2017/truncating-git-history>
+https://passingcuriosity.com/2017/truncating-git-history
 
 [**https://github.com/newren/git-filter-repo**](https://github.com/newren/git-filter-repo)
 
@@ -440,7 +440,7 @@ git push --force
 
 This will remove the filesecrets.txt from every branch and tag. It will also remove any commits that would be empty as a result of the above operation. Keep in mind that this will rewrite your project's entire history, which can be very disruptive in a distributed workflow. Also while the file in question has now been removed, the credentials it contained should still be considered compromised!
 
-<https://github.com/newren/git-filter-repo> (filter-branch replacement)
+https://github.com/newren/git-filter-repo (filter-branch replacement)
 
 ## git cherry-pick
 

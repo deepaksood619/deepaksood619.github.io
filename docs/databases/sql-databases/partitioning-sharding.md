@@ -24,7 +24,7 @@ So it is important to recognize that sharding and partitioning keys are not nece
 
 For data warehouse design, integrity constraints are of little concerns (since consistency should be maintained in the operational database). So in that case the only thing to consider is the analyst's query bias. For example, Facebook's data warehouse may decide to shard on Advertiser ID and partition on Advertiser ID + date.
 
-<https://www.quora.com/Whats-the-difference-between-sharding-DB-tables-and-partitioning-them>
+https://www.quora.com/Whats-the-difference-between-sharding-DB-tables-and-partitioning-them
 
 Sharding is a database architecture pattern related to **horizontal partitioning - the practice of separating one table's rows into multiple different tables, known as partitions.** Each partition has the same schema and columns, but also entirely different rows. Likewise, the data held in each is unique and independent of the data held in other partitions.
 
@@ -89,7 +89,7 @@ The concept of entity groups is very simple. Store related entities in the same 
 1. Queries within a single physical shard are efficient.
 2. Stronger consistency semantics can be achieved within a shard.
 
-<https://medium.com/@jeeyoungk/how-sharding-works-b4dec46b3f6>
+https://medium.com/@jeeyoungk/how-sharding-works-b4dec46b3f6
 
 ### Key / Hash based sharding
 
@@ -152,7 +152,7 @@ While directory based sharding is the most flexible of the sharding methods disc
 - DynamoDB and Cassandra -- Consistent Hash Sharding
 - Google Spanner and HBase -- Range Sharding
 
-<https://blog.yugabyte.com/four-data-sharding-strategies-we-analyzed-in-building-a-distributed-sql-database>
+https://blog.yugabyte.com/four-data-sharding-strategies-we-analyzed-in-building-a-distributed-sql-database
 
 ## Should I Shard?
 
@@ -171,15 +171,15 @@ Before sharding, you should exhaust all other options for optimizing your databa
 - Creating one or more read replicas. Another strategy that can help to improve read performance, this involves copying the data from one database server (theprimary server) over to one or moresecondary servers. Following this, every new write goes to the primary before being copied over to the secondaries, while reads are made exclusively to the secondary servers. Distributing reads and writes like this keeps any one machine from taking on too much of the load, helping to prevent slowdowns and crashes. Note that creating read replicas involves more computing resources and thus costs more money, which could be a significant constraint for some.
 - Upgrading to a larger server. In most cases, scaling up one's database server to a machine with more resources requires less effort than sharding. As with creating read replicas, an upgraded server with more resources will likely cost more money. Accordingly, you should only go through with resizing if it truly ends up being your best option.
 
-<https://www.digitalocean.com/community/tutorials/understanding-database-sharding>
+https://www.digitalocean.com/community/tutorials/understanding-database-sharding
 
-High Scalability - <http://highscalability.com/unorthodox-approach-database-design-coming-shard>
+High Scalability - http://highscalability.com/unorthodox-approach-database-design-coming-shard
 
-<https://docs.oracle.com/cd/B19306_01/server.102/b14220/partconc.htm>
+https://docs.oracle.com/cd/B19306_01/server.102/b14220/partconc.htm
 
-<https://dev.mysql.com/doc/refman/5.7/en/partitioning-overview.html>
+https://dev.mysql.com/doc/refman/5.7/en/partitioning-overview.html
 
-<https://www.vertabelo.com/blog/everything-you-need-to-know-about-mysql-partitions>
+https://www.vertabelo.com/blog/everything-you-need-to-know-about-mysql-partitions
 
 MySQL partitioning is about altering -- ideally, optimizing -- the way the database engine physically stores data. It allows you to distribute portions of table data (a.k.a. partitions) across the file system based on a set of user-defined rules (a.k.a. the "partitioning function"). In this way, if the queries you perform access only a fraction of table data and the partitioning function is properly set, there will be less to scan and queries will be faster.
 

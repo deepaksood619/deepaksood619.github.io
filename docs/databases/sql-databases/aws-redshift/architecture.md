@@ -49,6 +49,6 @@ Data compression is one of the important factors in ensuring query performance. 
 
 Redshift's Query Optimizer generate query plans that are MPP-aware and takes advantage of Columnar Data Storage. Query Optimizer uses analyzed information about tables to generate efficient query plans for execution. Read more about [Analyze](https://hevodata.com/blog/redshift-vacuum-and-analyze/) to know how to make the best of Query Optimizer.
 
-<https://hevodata.com/blog/redshift-architecture>
+https://hevodata.com/blog/redshift-architecture
 
-<https://docs.aws.amazon.com/redshift/latest/dg/c_high_level_system_architecture.html>
+https://docs.aws.amazon.com/redshift/latest/dg/c_high_level_system_architecture.html

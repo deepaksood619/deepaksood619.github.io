@@ -1,6 +1,6 @@
 # Data Analysis
 
-<https://www.freecodecamp.org/learn/data-analysis-with-python>
+https://www.freecodecamp.org/learn/data-analysis-with-python
 
 "All models are wrong, some are useful" - George Box
 
@@ -22,7 +22,7 @@ In [statistics](https://en.wikipedia.org/wiki/Statistics), exploratory data anal
 
 Anscombe's quartetcomprises four [data sets](https://en.wikipedia.org/wiki/Data_set) that have nearly identical simple [descriptive statistics](https://en.wikipedia.org/wiki/Descriptive_statistics), yet have very different [distributions](https://en.wikipedia.org/wiki/Probability_distribution) and appear very different when [graphed](https://en.wikipedia.org/wiki/Plot_(graphics)). Each dataset consists of eleven [(x, y) points](https://en.wikipedia.org/wiki/Cartesian_coordinate_system). They were constructed in 1973 by the [statistician](https://en.wikipedia.org/wiki/Statistician)[Francis Anscombe](https://en.wikipedia.org/wiki/Francis_Anscombe) to demonstrate both the importance of graphing data before analyzing it and the effect of [outliers](https://en.wikipedia.org/wiki/Outlier) and other [influential observations](https://en.wikipedia.org/wiki/Influential_observations) on statistical properties. He described the article as being intended to counter the impression among statisticians that "numerical calculations are exact, but graphs are rough."
 
-<https://en.wikipedia.org/wiki/Anscombe%27s_quartet>
+https://en.wikipedia.org/wiki/Anscombe%27s_quartet
 
 - ggplot2, The Gramer of Graphics
 - We have to remove outliers, so it does not skew out classifiers.
@@ -33,4 +33,4 @@ Anscombe's quartetcomprises four [data sets](https://en.wikipedia.org/wiki/Data_
 - Detection of deviations and anomalies
 - Testing of basic hypotheses
 
-<https://towardsdatascience.com/5-advanced-visualisation-for-exploratory-data-analysis-eda-c8eafeb0b8cb>
+https://towardsdatascience.com/5-advanced-visualisation-for-exploratory-data-analysis-eda-c8eafeb0b8cb

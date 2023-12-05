@@ -30,4 +30,4 @@ Data Mining by Pabitra Mitra, CSE, IIT Kharagpur
 
 8. Regression Case studies
 
-<https://onlinecourses.nptel.ac.in/noc19_cs15/course>
+https://onlinecourses.nptel.ac.in/noc19_cs15/course

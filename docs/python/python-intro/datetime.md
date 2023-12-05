@@ -44,7 +44,7 @@ time.time()
 - [time()](https://docs.python.org/3/library/time.html#time.time)
 - thread_time()
 
-<https://realpython.com/python-timer>
+https://realpython.com/python-timer
 
 ### DateTime
 
@@ -126,4 +126,4 @@ Several additional directives not required by the C89 standard are included for 
 | %u            | ISO 8601 weekday as a decimal number where 1 is Monday.                                                           | 1, 2, ..., 7                                 |
 | %V            | ISO 8601 week as a decimal number with Monday as the first day of the week. Week 01 is the week containing Jan 4. | 01, 02, ..., 53                              |
 
-<https://docs.python.org/3/library/datetime.html>
+https://docs.python.org/3/library/datetime.html

@@ -76,7 +76,7 @@ When a company announces a buyback, it signals the company's confidence about it
 - Issuing new shares can lead to a stock selloff, particularly if the company is struggling financially.
 - Equity financing can be seen as favorable, such as when the funds are used to pay off debt or improve the company.
 
-<https://www.investopedia.com/ask/answers/042315/how-does-additional-equity-financing-affect-existing-shareholders.asp>
+https://www.investopedia.com/ask/answers/042315/how-does-additional-equity-financing-affect-existing-shareholders.asp
 
 ## Right Of First Refusal (ROFR)
 

@@ -52,7 +52,7 @@ In a system as relevant as a cancer detection model, accuracy can not de‑ne pe
 
 A vector is**a tuple of one or more values called scalars.** Vectors are built from components, which are ordinary numbers. You can think of a vector as a list of numbers, and vector algebra as operations performed on the numbers in the list.
 
-<https://machinelearningmastery.com/gentle-introduction-vectors-machine-learning>
+https://machinelearningmastery.com/gentle-introduction-vectors-machine-learning
 
 ## What are the feature vectors?
 

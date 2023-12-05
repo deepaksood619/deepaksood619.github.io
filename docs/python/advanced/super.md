@@ -14,7 +14,7 @@ Solution - C3 linearization algorithm (C Cubed Linearization Algorithm)
 
 It is an Algorithm used primarily to obtain the order in which methods should be inherited in the presence of multiple Inheritance, and is termed Method Resolution Order (MRO)
 
-<https://makina-corpus.com/blog/metier/2014/python-tutorial-understanding-python-mro-class-search-path>
+https://makina-corpus.com/blog/metier/2014/python-tutorial-understanding-python-mro-class-search-path
 
 The name c3 refers to the three important properties of the resulting linearization-
 

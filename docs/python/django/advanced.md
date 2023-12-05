@@ -11,7 +11,7 @@
 
 ![image](../../media/Advanced-image1.jpg)
 
-## Signals - <https://anonbadger.wordpress.com/2018/12/15/python-signal-handlers-and-exceptions>
+## Signals - https://anonbadger.wordpress.com/2018/12/15/python-signal-handlers-and-exceptions
 
 [Introduction to Django Signals | Django (3.0) Crash Course Tutorials (pt 18)](https://www.youtube.com/watch?v=Kc1Q_ayAeQk&list=PL-51WBLyFTg2vW-_6XBoUpE7vpmoR3ztO&index=18)
 
@@ -19,13 +19,13 @@
 
 A context processor has a very simple interface: It's just a Python function that takes one argument, anHttpRequestobject, and returns a dictionary that gets added to the template context.
 
-<https://djangobook.com/writing-context-processors>
+https://djangobook.com/writing-context-processors
 
-<https://docs.djangoproject.com/en/2.2/ref/templates/api/#using-requestcontext>
+https://docs.djangoproject.com/en/2.2/ref/templates/api/#using-requestcontext
 
 ## Middlewares
 
-<http://www.gustavwengel.dk/django-middleware-walkthrough>
+http://www.gustavwengel.dk/django-middleware-walkthrough
 
 ## Problems
 
@@ -53,12 +53,12 @@ Alternatively, one could get all wheels and perform the lookups in memory:
 
 This reduces the number of round-trips to the database from N+1 to 2. Most ORM tools give you several ways to prevent N+1 selects.
 
-<https://theorangeone.net/posts/django-orm-performance>
+https://theorangeone.net/posts/django-orm-performance
 
 ## Django 3.0
 
 ASGI Support
 
-<https://docs.djangoproject.com/en/3.0/releases/3.0>
+https://docs.djangoproject.com/en/3.0/releases/3.0
 
-<https://arunrocks.com/a-guide-to-asgi-in-django-30-and-its-performance>
+https://arunrocks.com/a-guide-to-asgi-in-django-30-and-its-performance

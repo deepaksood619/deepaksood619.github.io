@@ -185,9 +185,9 @@ if item > heap[0]:
 item = heapreplace(heap, item)
 ```
 
-<https://www.techbeamers.com/python-heapq>
+https://www.techbeamers.com/python-heapq
 
-<https://docs.python.org/3/library/heapq.html>
+https://docs.python.org/3/library/heapq.html
 
 ## 8.8 Weak References
 
@@ -197,7 +197,7 @@ A weak reference to an object is not enough to keep the object alive: when the o
 
 A primary use for weak references is to implement caches or mappings holding large objects, where it's desired that a large object not be kept alive solely because it appears in a cache or mapping.
 
-<https://docs.python.org/3/library/weakref.html>
+https://docs.python.org/3/library/weakref.html
 
 ## 8.13 Enumerations
 

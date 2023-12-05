@@ -332,7 +332,7 @@ This pair is delightfully confusing. The first is a [conditional expression](htt
 
 For instance `(?:Bob|Chloe)` matches *Bob* or *Chloe* - but the name is not captured.
 
-<http://www.rexegg.com/regex-disambiguation.html#lookarounds>
+http://www.rexegg.com/regex-disambiguation.html#lookarounds
 
 ## Points to remember
 
@@ -418,15 +418,15 @@ For instance `(?:Bob|Chloe)` matches *Bob* or *Chloe* - but the name is not capt
 
 `\z` - Anchor asserts that the current position is the end of the string
 
-<https://dzone.com/refcardz/regular-expressions>
+https://dzone.com/refcardz/regular-expressions
 
-<http://www.rexegg.com/regex-quickstart.html>
+http://www.rexegg.com/regex-quickstart.html
 
 ## Glob patterns
 
 In [computer programming](https://en.wikipedia.org/wiki/Computer_programming), **glob** patterns specify sets of filenames with [wildcard characters](https://en.wikipedia.org/wiki/Wildcard_characters). For example, the Unix [Bash shell](https://en.wikipedia.org/wiki/Bash_(Unix_shell)) commandmv*.txt textfiles/moves (mv) all files with names ending in.txtfrom the current directory to the directorytextfiles. Here,*is a wildcard standing for "any [string](https://en.wikipedia.org/wiki/String_(computer_science)) of characters" and*.txtis a glob pattern. The other common wildcard is the question mark (?), which stands for one character.
 
-<https://en.wikipedia.org/wiki/Glob_(programming)>
+https://en.wikipedia.org/wiki/Glob_(programming)
 
 ## Search and Replace using Variables
 
@@ -439,34 +439,34 @@ $1$2/>
 
 ## Learn
 
-<https://en.wikipedia.org/wiki/Regular_expression>
+https://en.wikipedia.org/wiki/Regular_expression
 
-<https://carlalexander.ca/beginners-guide-regular-expressions>
+https://carlalexander.ca/beginners-guide-regular-expressions
 
-<http://www.regular-expressions.info/tutorial.html>
+http://www.regular-expressions.info/tutorial.html
 
 ## Tools
 
-<https://regex101.com>
+https://regex101.com
 
-<https://regexr.com>
+https://regexr.com
 
 ## Challenges
 
-<https://www.hackerrank.com/domains/regex/re-introduction>
+https://www.hackerrank.com/domains/regex/re-introduction
 
-<https://regex.sketchengine.co.uk>
+https://regex.sketchengine.co.uk
 
-<https://regexcrossword.com> (Rank - <https://regexcrossword.com/profile/38485>)
+https://regexcrossword.com> (Rank - <https://regexcrossword.com/profile/38485)
 
-<https://regexone.com>
+https://regexone.com
 
-<http://play.inginf.units.it>
+http://play.inginf.units.it
 
 ## Others
 
-<https://github.com/google/re2/wiki/Syntax>
+https://github.com/google/re2/wiki/Syntax
 
 ## View non-printable unicode characters
 
-<https://www.soscisurvey.de/tools/view-chars.php>
+https://www.soscisurvey.de/tools/view-chars.php

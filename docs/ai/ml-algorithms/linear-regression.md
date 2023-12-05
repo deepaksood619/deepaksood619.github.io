@@ -20,9 +20,9 @@ This is a method for fitting a smooth curve between two variables, or fitting a 
 
 This is a nonparametric method because the linearity assumptions of conventional regression methods have been relaxed. Instead of estimating parameters like m and c in y = mx +c, a nonparametric regression focuses on the fitted curve. The fitted points and their standard errors represent are estimated with respect to the whole curve rather than a particular estimate. So, the overall uncertainty is measured as how well the estimated curve fits the population curve.
 
-<https://www.statsdirect.com/help/nonparametric_methods/loess.htm>
+https://www.statsdirect.com/help/nonparametric_methods/loess.htm
 
-<https://towardsdatascience.com/loess-373d43b03564?gi=dca24c6898e1>
+https://towardsdatascience.com/loess-373d43b03564?gi=dca24c6898e1
 
 ## Assumptions of Linear Regression
 
@@ -38,13 +38,13 @@ There is a linear relationship between the dependent variables and the regressor
 
 This means the variance around the regression line is the same for all values of the predictor variable
 
-<https://en.wikipedia.org/wiki/Homoscedasticity>
+https://en.wikipedia.org/wiki/Homoscedasticity
 
-<http://r-statistics.co/Assumptions-of-Linear-Regression.html>
+http://r-statistics.co/Assumptions-of-Linear-Regression.html
 
-<https://towardsdatascience.com/an-introduction-to-linear-regression-for-data-science-9056bbcdf675>
+https://towardsdatascience.com/an-introduction-to-linear-regression-for-data-science-9056bbcdf675
 
-<https://blog.minitab.com/en/adventures-in-statistics-2/how-to-interpret-regression-analysis-results-p-values-and-coefficients>
+https://blog.minitab.com/en/adventures-in-statistics-2/how-to-interpret-regression-analysis-results-p-values-and-coefficients
 
 ## Linear Regression
 

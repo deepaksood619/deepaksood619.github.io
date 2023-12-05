@@ -21,7 +21,7 @@ Their functions are usually categorized as being either sensory or motor. Sensor
 - [XI. Accessory nerve](https://www.healthline.com/health/12-cranial-nerves#xi-accessory-nerve)
 - [XII. Hypoglossal nerve](https://www.healthline.com/health/12-cranial-nerves#xii-hypoglossal-nerve)
 
-<https://www.healthline.com/health/12-cranial-nerves>
+https://www.healthline.com/health/12-cranial-nerves
 
 ## Others
 

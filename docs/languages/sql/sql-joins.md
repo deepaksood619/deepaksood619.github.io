@@ -207,8 +207,8 @@ WHERE Student.id < Record.id ;
 
 [Spark Joins](technologies/apache/apache-spark/07-joins.md)
 
-<http://www.sql-join.com/sql-join-types>
+http://www.sql-join.com/sql-join-types
 
-<https://www.freecodecamp.org/news/sql-joins-tutorial>
+https://www.freecodecamp.org/news/sql-joins-tutorial
 
 [JOIN | Databricks on AWS](https://docs.databricks.com/sql/language-manual/sql-ref-syntax-qry-select-join.html#examples)

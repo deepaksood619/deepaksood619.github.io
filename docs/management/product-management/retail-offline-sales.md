@@ -8,4 +8,4 @@ The cherry on top? They also don’t return products as much. The sale is done a
 
 All this leads to one thing-the cash register rings ka-ching at physical stores! And this is what the researchers called the **supercharged consumer.**
 
-<https://finshots.in/archive/digital-is-dying-brick-and-mortar-is-alive>
+https://finshots.in/archive/digital-is-dying-brick-and-mortar-is-alive

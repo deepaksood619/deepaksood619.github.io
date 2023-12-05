@@ -20,7 +20,7 @@ M - prebuild Markup
 - Cheaper and easy to scale
 - Easy to deploy (Netlify)
 
-<https://www.freecodecamp.org/news/jamstack-full-course>
+https://www.freecodecamp.org/news/jamstack-full-course
 
 ## Digital Experience Platform (DXP)
 
@@ -37,11 +37,11 @@ A CMS is used to add content to your website/application. It is great for client
 - Tradional CMS - Wordpress, Drupal, Keystone, Enduro
 - Headless CMS - Contentful, Prismic.io, Sanity, Strapi
 
-<https://www.wpbeginner.com/showcase/best-cms-platforms-compared>
+https://www.wpbeginner.com/showcase/best-cms-platforms-compared
 
 ## Headless CMS
 
-<https://strapi.io>
+https://strapi.io
 
 DesignAPIs fast, manage content easily
 
@@ -66,47 +66,47 @@ Strapi is a free and open-source headless CMS delivering your content anywhere y
 
 ## Strapi v4 - [Announcing Strapi v4](https://www.youtube.com/watch?v=qWKdF8N8LQU&list=PL7Q0DQYATmvjJyxrLw0xCOKwjv8Bh7yLx)
 
-<https://design-system.strapi.io>
+https://design-system.strapi.io
 
-<https://design-system-alpha.vercel.app>
+https://design-system-alpha.vercel.app
 
-<https://github.com/strapi/strapi>
+https://github.com/strapi/strapi
 
-<https://github.com/strapi/strapi-starter-next-corporate>
+https://github.com/strapi/strapi-starter-next-corporate
 
-<https://strapi.io/starters>
+https://strapi.io/starters
 
-<https://strapi.io/blog/user-authentication-in-next-js-with-strapi>
+https://strapi.io/blog/user-authentication-in-next-js-with-strapi
 
-<https://strapi.io/blog/how-the-strapi-marketing-team-uses-strapi>
+https://strapi.io/blog/how-the-strapi-marketing-team-uses-strapi
 
-<https://strapi.io/showcases>
+https://strapi.io/showcases
 
-<https://itnext.io/5-things-i-love-about-strapi-a-node-js-headless-cms-700b4fec544b>
+https://itnext.io/5-things-i-love-about-strapi-a-node-js-headless-cms-700b4fec544b
 
 [Strapi.js Crash Course | Headless CMS](https://www.youtube.com/watch?v=6FnwAbd2SDY)
 
 [Strapi CMS for content managers](https://www.youtube.com/watch?v=tbFmke56_UA&list=PL7Q0DQYATmvhRKC5UPPKHr9pFrdiGGgME)
 
-<https://strapi.io/blog/virtual-event-starter-template-vercel-strapiconf>
+https://strapi.io/blog/virtual-event-starter-template-vercel-strapiconf
 
-<https://strapi.io/blog/how-to-build-a-crud-app-with-react-and-a-headless-cms>
+https://strapi.io/blog/how-to-build-a-crud-app-with-react-and-a-headless-cms
 
-<https://marmelab.com/blog/2020/06/18/build-an-application-in-fiften-minutes-using-strapijs.html>
+https://marmelab.com/blog/2020/06/18/build-an-application-in-fiften-minutes-using-strapijs.html
 
-react-admin strapi - <https://github.com/nazirov91/ra-strapi-rest>
+react-admin strapi - https://github.com/nazirov91/ra-strapi-rest
 
-<https://github.com/strapi/foodadvisor>
+https://github.com/strapi/foodadvisor
 
 - strapi admin panel
 - strapi automatic frontend
-- <https://strapi.io/demo>
+- https://strapi.io/demo
 
-<https://jamstack.org/headless-cms>
+https://jamstack.org/headless-cms
 
-<https://www.contentful.com/r/knowledgebase/what-is-headless-cms>
+https://www.contentful.com/r/knowledgebase/what-is-headless-cms
 
-<https://www.storyblok.com/tp/headless-cms-explained>
+https://www.storyblok.com/tp/headless-cms-explained
 
 [**https://www.gatsbyjs.com/docs/how-to/sourcing-data/headless-cms/**](https://www.gatsbyjs.com/docs/how-to/sourcing-data/headless-cms/)
 
@@ -127,7 +127,7 @@ The following CMSs have high popularity among Gatsby users and support key funct
 | [Prismic](https://www.prismic.io/) | [guide](https://www.gatsbyjs.com/docs/how-to/sourcing-data/sourcing-from-prismic/) | [docs](https://www.gatsbyjs.com/plugins/gatsby-source-prismic) | [starter](https://github.com/prismicio/gatsby-blog) |
 | [NetlifyCMS](https://www.netlifycms.org/) | [guide](https://www.gatsbyjs.com/docs/how-to/sourcing-data/sourcing-from-netlify-cms/) | [docs](https://www.gatsbyjs.com/plugins/gatsby-plugin-netlify-cms) | [starter](https://www.gatsbyjs.com/starters/netlify-templates/gatsby-starter-netlify-cms/) |
 | Plone (Open Source Enterprise CMS) |  |  |  |
-| **Wagtail (Open Source Django CMS) <https://wagtail.io>** |  |  |  |
+| **Wagtail (Open Source Django CMS) https://wagtail.io** |  |  |  |
 
 ## Other CMSs
 
@@ -150,11 +150,11 @@ The following CMSs have high popularity among Gatsby users and support key funct
 | [Builder.io](https://www.builder.io/) | [guide](https://www.gatsbyjs.com/docs/sourcing-from-builder-io/) | [docs](https://www.gatsbyjs.com/plugins/@builder.io/gatsby/) | |
 |[Flotiq](https://flotiq.com/) | [guide](https://www.gatsbyjs.com/docs/sourcing-from-flotiq/) | [docs](https://www.gatsbyjs.com/plugins/gatsby-source-flotiq) | |
 
-<https://github.com/outline/outline>
+https://github.com/outline/outline
 
 ## sites.google.com - Great UI and functionalities
 
-<https://sites.google.com/view/deepak-sood>
+https://sites.google.com/view/deepak-sood
 
 ## Frontmatter
 
@@ -162,10 +162,10 @@ Front Matter is an essential Visual Studio Code extension that simplifies workin
 
 The extension brings Content Management System (CMS) capabilities straight within Visual Studio Code. For example, you can keep a list of the used tags, categories, create content, and so much more.
 
-<https://frontmatter.codes>
+https://frontmatter.codes
 
-<https://github.com/estruyf/vscode-front-matter>
+https://github.com/estruyf/vscode-front-matter
 
-<https://pages.cloudflare.com>
+https://pages.cloudflare.com
 
 Cloudflare Pages is a JAMstack platform for frontend developers to collaborate and deploy websites.

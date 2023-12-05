@@ -59,7 +59,7 @@
   - The process of compaction merges SSTables, i.e., by merging updates for a key
   - Run periodically and locally at each server- TimeWindowCompactionStrategy
 
-<https://thelastpickle.com/blog/2016/12/08/TWCS-part1.html>
+https://thelastpickle.com/blog/2016/12/08/TWCS-part1.html
 
 ## Deletes: don't delete item right away
 

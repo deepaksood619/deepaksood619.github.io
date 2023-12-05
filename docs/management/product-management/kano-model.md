@@ -34,4 +34,4 @@ These attributes refer to a high degree of achievement resulting in dissatisfact
 
 Examples: In a callcenter, using a lot of jargon, using excessive pleasantries, or using excessive scripts while talking to customers might be off-putting for them. In a hotel, producing elaborate photographs of the facilities that set high expectations which are then not satisfied upon visiting can dissatisfy the customers.
 
-<https://en.wikipedia.org/wiki/Kano_model>
+https://en.wikipedia.org/wiki/Kano_model

@@ -2,12 +2,12 @@
 
 1. Spectre
 2. Meltdown
-3. MDS (Microarchitectural Data Sampling) - <https://www.redhat.com/en/blog/understanding-mds-vulnerability-what-it-why-it-works-and-how-mitigate-it>
+3. MDS (Microarchitectural Data Sampling) - https://www.redhat.com/en/blog/understanding-mds-vulnerability-what-it-why-it-works-and-how-mitigate-it
 4. HeartBleed (2014)
 
 Heartbleed allows hackers to steal private keys from what should be secure servers. Infected servers were left wide open to let anyone on the Internet read the memory in systems being protected by a vulnerable version of OpenSSL. The breach let threat actors steal data from servers or listen in on conversations or even spoof services and other users.
 
-<https://access.redhat.com/security/vulnerabilities>
+https://access.redhat.com/security/vulnerabilities
 
 ## Open Web Application Security Project (OWASP)
 
@@ -59,15 +59,15 @@ Prevention - Sanitize user inputs
 
 Cross-site request forgery, also known as one-click attack or session riding and abbreviated as CSRF or XSRF, is a type of malicious [exploit](https://en.wikipedia.org/wiki/Exploit_(computer_security)) of a [website](https://en.wikipedia.org/wiki/Website) where unauthorized commands are transmitted from a [user](https://en.wikipedia.org/wiki/User_(computing)) that the web application trusts. There are many ways in which a malicious website can transmit such commands; specially-crafted image tags, hidden forms, and [JavaScript](https://en.wikipedia.org/wiki/JavaScript) XMLHttpRequests, for example, can all work without the user's interaction or even knowledge. Unlike [cross-site scripting](https://en.wikipedia.org/wiki/Cross-site_scripting)(XSS), which exploits the trust a user has for a particular site, CSRF exploits the trust that a site has in a user's browser
 
-<https://en.wikipedia.org/wiki/Cross-site_request_forgery>
+https://en.wikipedia.org/wiki/Cross-site_request_forgery
 
-<https://victorzhou.com/blog/csrf>
+https://victorzhou.com/blog/csrf
 
-<https://cheatsheetseries.owasp.org/cheatsheets/Cross-Site_Request_Forgery_Prevention_Cheat_Sheet.html>
+https://cheatsheetseries.owasp.org/cheatsheets/Cross-Site_Request_Forgery_Prevention_Cheat_Sheet.html
 
-<https://www.freecodecamp.org/news/what-is-cross-site-request-forgery>
+https://www.freecodecamp.org/news/what-is-cross-site-request-forgery
 
-<https://victorzhou.com/blog/xss>
+https://victorzhou.com/blog/xss
 
 ### [Insecure Deserialization](https://owasp.org/www-project-top-ten/OWASP_Top_Ten_2017/Top_10-2017_A8-Insecure_Deserialization)
 
@@ -81,11 +81,11 @@ Components, such as libraries, frameworks, and other software modules, run with 
 
 Insufficient logging and monitoring, coupled with missing or ineffective integration with incident response, allows attackers to further attack systems, maintain persistence, pivot to more systems, and tamper, extract, or destroy data. Most breach studies show time to detect a breach is over 200 days, typically detected by external parties rather than internal processes or monitoring.
 
-<https://owasp.org/www-project-top-ten>
+https://owasp.org/www-project-top-ten
 
-<https://www.cloudflare.com/learning/security/threats/owasp-top-10>
+https://www.cloudflare.com/learning/security/threats/owasp-top-10
 
-<https://www.toptal.com/security/owasp-top-10-changelog-2017-revision>
+https://www.toptal.com/security/owasp-top-10-changelog-2017-revision
 
 ## OWASP Cheat Sheet
 
@@ -162,7 +162,7 @@ The threats are:
 - [Denial of service](https://en.wikipedia.org/wiki/Denial-of-service_attack)
 - [Elevation of privilege](https://en.wikipedia.org/wiki/Privilege_escalation)
 
-<https://en.wikipedia.org/wiki/STRIDE_(security)>
+https://en.wikipedia.org/wiki/STRIDE_(security)
 
 #### PASTA
 
@@ -170,7 +170,7 @@ Process for Attack Simulation and Threat Analysis (PASTA) is a seven-step, risk-
 
 #### Trike
 
-<https://en.wikipedia.org/wiki/Threat_model>- [Transaction Authorization](https://cheatsheetseries.owasp.org/cheatsheets/Transaction_Authorization_Cheat_Sheet.html)
+https://en.wikipedia.org/wiki/Threat_model- [Transaction Authorization](https://cheatsheetseries.owasp.org/cheatsheets/Transaction_Authorization_Cheat_Sheet.html)
 
 - [Transport Layer Protection](https://cheatsheetseries.owasp.org/cheatsheets/Transport_Layer_Protection_Cheat_Sheet.html)
 - [Unvalidated Redirects and Forwards](https://cheatsheetseries.owasp.org/cheatsheets/Unvalidated_Redirects_and_Forwards_Cheat_Sheet.html)
@@ -182,7 +182,7 @@ Process for Attack Simulation and Threat Analysis (PASTA) is a seven-step, risk-
 - [XML External Entity Prevention](https://cheatsheetseries.owasp.org/cheatsheets/XML_External_Entity_Prevention_Cheat_Sheet.html)
 - [XML Security](https://cheatsheetseries.owasp.org/cheatsheets/XML_Security_Cheat_Sheet.html)
 
-<https://cheatsheetseries.owasp.org>
+https://cheatsheetseries.owasp.org
 
 ## Social Engineering
 
@@ -207,13 +207,13 @@ Smishing (SMS phishing) is similar to standard phishing emails, but over SMS ins
 
 Vishing ("voice" and "phishing") involves phishing through phone calls. Of course, this isn't a big deal to us, because what kind of developer seriously answers the phone nowadays? Just send me a text, FFS.
 
-<https://dev.to/kathyra_/protect-yourself-from-social-engineering-3ihk>
+https://dev.to/kathyra_/protect-yourself-from-social-engineering-3ihk
 
 ## Kill Chain
 
 The term kill chain was originally used as a [military](https://en.wikipedia.org/wiki/Military) concept related to the structure of an [attack](https://en.wikipedia.org/wiki/Offensive_(military)); consisting of target identification, force dispatch to target, decision and order to attack the target, and finally the destruction of the target.Conversely, the idea of "breaking" an opponent's kill chain is a method of [defense](https://en.wikipedia.org/wiki/Defense_(military)) or preemptive action.More recently, [Lockheed Martin](https://en.wikipedia.org/wiki/Lockheed_Martin) adapted this concept to [information security](https://en.wikipedia.org/wiki/Information_security), using it as a method for modeling intrusions on a [computer network](https://en.wikipedia.org/wiki/Computer_network).The cyber kill chain model has seen some adoption in the information security community.However, acceptance is not universal, with critics pointing to what they believe are fundamental flaws in the model.
 
-<https://en.wikipedia.org/wiki/Kill_chain>
+https://en.wikipedia.org/wiki/Kill_chain
 
 ## Tab Nabbing
 
@@ -224,4 +224,4 @@ Tabnabbing is a computer exploit which persuades users to submit their login det
 An air gapped machine is simply one that cannot connect to any outside agents. From the highest level being the internet, to the lowest being an intranet or even bluetooth.
 Air gapped machines are isolated from other computers, and are important for storing sensitive data or carrying out critical tasks that should be immune from outside interference. For example, a nuclear power plant should be operated from computers that are behind a full air gap. For the most part, real world air gapped computers are usually connected to some form of intranet in order to make data transfer and process execution easier. However, every connection increases the risk that outside actors will be able to penetrate the system.
 
-<https://www.toptal.com/security/interview-questions>
+https://www.toptal.com/security/interview-questions

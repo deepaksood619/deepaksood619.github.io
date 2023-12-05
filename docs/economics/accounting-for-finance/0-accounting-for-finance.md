@@ -21,7 +21,7 @@ This is a course of short webcasts (about 12-20 minutes apiece), designed to int
 
 ## Courses
 
-- Accounting - <https://www.accountingcoach.com/accounting-basics/outline>
+- Accounting - https://www.accountingcoach.com/accounting-basics/outline
 - **Aswath Damodaran - Foundations of Finance**
 
 ## References

@@ -85,6 +85,6 @@ SET query_group TO 'superuser'
 - Use QMR to log long running queries
 - Save the superuser queue for administration tasks and cenceling queries
 
-<https://github.com/awslabs/amazon-redshift-utils>
+https://github.com/awslabs/amazon-redshift-utils
 
 [AWS re:Invent 2018: [REPEAT 1] Deep Dive and Best Practices for Amazon Redshift (ANT401-R1)](https://www.youtube.com/watch?v=TJDtQom7SAA)

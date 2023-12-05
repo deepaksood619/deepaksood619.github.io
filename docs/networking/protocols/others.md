@@ -16,7 +16,7 @@ Most [block storage](https://en.wikipedia.org/wiki/Block_(data_storage)) runs ov
 
 The goal of Fibre Channel is to create a [storage area network](https://en.wikipedia.org/wiki/Storage_area_network)(SAN) to connect servers to storage.
 
-<https://en.wikipedia.org/wiki/Fibre_Channel>
+https://en.wikipedia.org/wiki/Fibre_Channel
 
 ## Storage Area Network (SAN)
 
@@ -26,7 +26,7 @@ SANs are often designed with dual fabrics to increase fault tolerance. Two compl
 
 A **storage area network(SAN) orstorage network**is a [Computer network](https://en.wikipedia.org/wiki/Computer_network) which provides access to consolidated, [block-level data storage](https://en.wikipedia.org/wiki/Block_device). SANs are primarily used to enhance accessibility of storage devices, such as [disk arrays](https://en.wikipedia.org/wiki/Disk_array) and [tape libraries](https://en.wikipedia.org/wiki/Tape_library), to [servers](https://en.wikipedia.org/wiki/Server_(computing)) so that the devices appear to the [operating system](https://en.wikipedia.org/wiki/Operating_system) as [locally-attached devices](https://en.wikipedia.org/wiki/Direct-attached_storage). A SAN typically is a dedicated network of storage devices not accessible through the [local area network](https://en.wikipedia.org/wiki/Local_area_network)(LAN) by other devices, thereby preventing interference of LAN traffic in data transfer.
 
-<https://en.wikipedia.org/wiki/Storage_area_network>
+https://en.wikipedia.org/wiki/Storage_area_network
 
 ## DHCP
 
@@ -38,13 +38,13 @@ DHCP can be implemented on networks ranging in size from [home networks](https:/
 
 The DHCP employs a [connectionless](https://en.wikipedia.org/wiki/Connectionless_communication) service model, using the [User Datagram Protocol](https://en.wikipedia.org/wiki/User_Datagram_Protocol)(UDP). It is implemented with two UDP port numbers for its operations which are the same as for the bootstrap protocol ([BOOTP](https://en.wikipedia.org/wiki/BOOTP)). UDP port number 67 is the destination port of a server, and UDP port number 68 is used by the client.
 
-<https://en.wikipedia.org/wiki/Dynamic_Host_Configuration_Protocol>
+https://en.wikipedia.org/wiki/Dynamic_Host_Configuration_Protocol
 
 ## Server Message Block (SMB)
 
 In [computer networking](https://en.wikipedia.org/wiki/Computer_network), **Server Message Block(SMB**), one version of which was also known as **Common Internet File System(CIFS**) operates as an [application-layer](https://en.wikipedia.org/wiki/Application_layer) or [presentation-layer](https://en.wikipedia.org/wiki/Presentation_layer)(network protocol) mainly used for providing [shared access](https://en.wikipedia.org/wiki/Shared_access) to [files](https://en.wikipedia.org/wiki/Computer_file), [printers](https://en.wikipedia.org/wiki/Computer_printer), and [serial ports](https://en.wikipedia.org/wiki/Serial_port) and miscellaneous communications between nodes on a network. It also provides an authenticated [inter-process communication](https://en.wikipedia.org/wiki/Inter-process_communication) mechanism. Most usage of SMB involves computers running [Microsoft Windows](https://en.wikipedia.org/wiki/Microsoft_Windows), where it was known as "Microsoft Windows Network" before the introduction of [Active Directory](https://en.wikipedia.org/wiki/Active_Directory). Corresponding [Windows services](https://en.wikipedia.org/wiki/Windows_service) are LAN Manager Server (for the server component) and LAN Manager Workstation (for the client component).
 
-<https://en.wikipedia.org/wiki/Server_Message_Block>
+https://en.wikipedia.org/wiki/Server_Message_Block
 
 ## Reactive Streams
 
@@ -56,7 +56,7 @@ Reactive Streams is an initiative to provide a standard for asynchronous stream 
 
 The Web Proxy Auto-Discovery (WPAD) Protocol is a method used by clients to locate the URL of a configuration file using [DHCP](https://en.wikipedia.org/wiki/Dynamic_Host_Configuration_Protocol) and/or [DNS](https://en.wikipedia.org/wiki/Domain_Name_System) discovery methods. Once detection and download of the configuration file is complete, it can be executed to determine the proxy for a specified URL.
 
-<https://en.wikipedia.org/wiki/Web_Proxy_Auto-Discovery_Protocol>
+https://en.wikipedia.org/wiki/Web_Proxy_Auto-Discovery_Protocol
 
 ## Contrained Application Protocol (CoAP)
 
@@ -64,13 +64,13 @@ Constrained Application Protocol (CoAP) is a specialized Internet Application Pr
 
 CoAP is a [service layer](https://en.wikipedia.org/wiki/Service_layer) protocol that is intended for use in resource-constrained internet devices, such as [wireless sensor network](https://en.wikipedia.org/wiki/Wireless_sensor_network) nodes. CoAP is designed to easily translate to [HTTP](https://en.wikipedia.org/wiki/HTTP) for simplified integration with the web, while also meeting specialized requirements such as [multicast](https://en.wikipedia.org/wiki/Multicast) support, very low overhead, and simplicity.Multicast, low overhead, and simplicity are extremely important for [Internet of Things](https://en.wikipedia.org/wiki/Internet_of_Things)(IoT) and [Machine-to-Machine](https://en.wikipedia.org/wiki/Machine-to-Machine)(M2M) devices, which tend to be deeply [embedded](https://en.wikipedia.org/wiki/Embedded_system) and have much less memory and power supply than traditional internet devices have. Therefore, efficiency is very important. CoAP can run on most devices that support [UDP](https://en.wikipedia.org/wiki/User_Datagram_Protocol) or a UDP analogue.
 
-<https://www.eclipse.org/californium>
+https://www.eclipse.org/californium
 
 ## Lightweight Directory Access Protocol (LDAP)
 
 LDAP is an open, vendor-neutral, industry standard [application protocol](https://en.wikipedia.org/wiki/Application_protocol) for accessing and maintaining distributed [directory information services](https://en.wikipedia.org/wiki/Directory_service) over an [Internet Protocol](https://en.wikipedia.org/wiki/Internet_Protocol)(IP) network.[Directory services](https://en.wikipedia.org/wiki/Directory_service) play an important role in developing [intranet](https://en.wikipedia.org/wiki/Intranet) and Internet applications by allowing the sharing of information about users, systems, networks, services, and applications throughout the network.As examples, directory services may provide any organized set of records, often with a hierarchical structure, such as a corporate [email](https://en.wikipedia.org/wiki/Email) directory. Similarly, a [telephone directory](https://en.wikipedia.org/wiki/Telephone_directory) is a list of subscribers with an address and a phone number.
 
-<https://en.wikipedia.org/wiki/Lightweight_Directory_Access_Protocol>
+https://en.wikipedia.org/wiki/Lightweight_Directory_Access_Protocol
 
 ## ModBus
 
@@ -91,7 +91,7 @@ BACnet Protocol (Building Automation and Control networks)
 
 ## Libraries
 
-<https://github.com/ljean/modbus-tk>
+https://github.com/ljean/modbus-tk
 
 ## Zenoh
 
@@ -99,7 +99,7 @@ Zero Overhead Pub/sub, Store/Query and Compute
 
 zenoh unifies data in motion, data in-use, data at rest and computations. It carefully blends traditional pub/sub with geo-distributed storages, queries and computations, while retaining a level of time and space efficiency that is well beyond any of the mainstream stacks.
 
-<http://zenoh.io>
+http://zenoh.io
 
 ## OPC Unified Architecture (OPC UA)
 
@@ -132,14 +132,14 @@ The OPC UA specification is a multi-part specification and consists of the follo
 13. Aggregates
 14. PubSub
 
-<https://en.wikipedia.org/wiki/OPC_Unified_Architecture>
+https://en.wikipedia.org/wiki/OPC_Unified_Architecture
 
-<https://opcfoundation.org/about/opc-technologies/opc-ua>
+https://opcfoundation.org/about/opc-technologies/opc-ua
 
 ## Dedicated short-range communications (DSRC)
 
 Dedicated short-range communications(DSRC) are one-way or two-way short-range to medium-range [wireless](https://en.wikipedia.org/wiki/Wireless) communication channels specifically designed for automotive use  and a corresponding set of protocols and standards.
 
-<https://en.wikipedia.org/wiki/Dedicated_short-range_communications>
+https://en.wikipedia.org/wiki/Dedicated_short-range_communications
 
-<https://web.dev/webtransport>
+https://web.dev/webtransport

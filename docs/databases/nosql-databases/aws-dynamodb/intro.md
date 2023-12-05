@@ -96,7 +96,7 @@ For example, users can have Lambda functions process incoming DynamoDB stream da
 
 The DynamoDB system architecture is tailored for high availability and scalability. The system is distributed across multiple nodes for availability, and it employs [consistent hashing](https://en.wikipedia.org/wiki/Consistent_hashing) to partition data across these nodes.
 
-For membership and failure detection, DynamoDB utilizes a [gossip-based protocol](<https://dbdb.io/db/(https:/en.wikipedia.org/wiki/Gossip_protocol>). This allows DynamoDB to be decentralized and require minimal manual administration. To handle temporary failures, DynamoDB uses a Sloppy Quorum with hinted hand-off. This technique allows DynamoDB to be available and durable despite network partitions and server failures.
+For membership and failure detection, DynamoDB utilizes a [gossip-based protocol](https://dbdb.io/db/(https:/en.wikipedia.org/wiki/Gossip_protocol). This allows DynamoDB to be decentralized and require minimal manual administration. To handle temporary failures, DynamoDB uses a Sloppy Quorum with hinted hand-off. This technique allows DynamoDB to be available and durable despite network partitions and server failures.
 
 ## Views
 
@@ -106,8 +106,8 @@ DynamoDB does not natively support materialized or virtual views. However, custo
 
 Furthermore, AWS encourages the use of DynamoDB as a materialized view for relational systems.
 
-<https://dbdb.io/db/dynamodb>
+https://dbdb.io/db/dynamodb
 
-<https://medium.com/expedia-group-tech/dynamodb-data-modeling-c4b02729ac08>
+https://medium.com/expedia-group-tech/dynamodb-data-modeling-c4b02729ac08
 
-<https://aws.amazon.com/about-aws/whats-new/2021/05/learn-how-to-develop-applications-with-amazon-dynamodb>
+https://aws.amazon.com/about-aws/whats-new/2021/05/learn-how-to-develop-applications-with-amazon-dynamodb

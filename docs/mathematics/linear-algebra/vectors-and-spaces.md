@@ -69,4 +69,4 @@ C1 and C2 must be equal to 0 for R2
 
 ## References
 
-<https://www.khanacademy.org/math/linear-algebra/vectors-and-spaces>
+https://www.khanacademy.org/math/linear-algebra/vectors-and-spaces

@@ -13,7 +13,7 @@
 9. [Circuit Breaker](https://www.edureka.co/blog/microservices-design-patterns#CircuitBreaker)
 10. [Decomposition](https://www.edureka.co/blog/microservices-design-patterns#Decomposition)
 
-<https://www.edureka.co/blog/microservices-design-patterns>
+https://www.edureka.co/blog/microservices-design-patterns
 
 ![image](../../../media/Microservice-Architecture_Design-Patterns-image1.jpg)
 
@@ -25,7 +25,7 @@
 
 Functional decomposition is a term that engineers use to describea set of steps in which they break down the overall function of a device, system, or process into its smaller parts. A function is simply a task that is performed by a device, system, or process. Decomposition is a process of breaking down.
 
-<https://en.wikipedia.org/wiki/Functional_decomposition>- The [Database per Service pattern](https://microservices.io/patterns/data/database-per-service.html) describes how each service has its own database in order to ensure loose coupling.
+https://en.wikipedia.org/wiki/Functional_decomposition- The [Database per Service pattern](https://microservices.io/patterns/data/database-per-service.html) describes how each service has its own database in order to ensure loose coupling.
 
 - The [API Gateway pattern](https://microservices.io/patterns/apigateway.html) defines how clients access the services in a microservice architecture.
 - The [Client-side Discovery](https://microservices.io/patterns/client-side-discovery.html) and [Server-side Discovery](https://microservices.io/patterns/server-side-discovery.html) patterns are used to route requests for a client to an available service instance in a microservice architecture.
@@ -47,7 +47,7 @@ Functional decomposition is a term that engineers use to describea set of steps 
   - [Server-side page fragment composition](https://microservices.io/patterns/ui/server-side-page-fragment-composition.html)
   - [Client-side UI composition](https://microservices.io/patterns/ui/client-side-ui-composition.html)
 
-<https://microservices.io/patterns/microservices.html>
+https://microservices.io/patterns/microservices.html
 
 ## Catalog of patterns
 
@@ -93,7 +93,7 @@ Functional decomposition is a term that engineers use to describea set of steps 
 | [Throttling](https://learn.microsoft.com//throttling) | Control the consumption of resources used by an instance of an application, an individual tenant, or an entire service. | [Reliability](https://learn.microsoft.com//en-us/azure/architecture/framework/resiliency/reliability-patterns), [Performance Efficiency](https://learn.microsoft.com//en-us/azure/architecture/framework/scalability/performance-efficiency-patterns) |
 | [Valet Key](https://learn.microsoft.com//valet-key) | Use a token or key that provides clients with restricted direct access to a specific resource or service. | [Data Management](https://learn.microsoft.com//category/data-management), [Security](https://learn.microsoft.com//en-us/azure/architecture/framework/security/security-patterns) |
 
-<https://docs.microsoft.com/en-us/azure/architecture/patterns>
+https://docs.microsoft.com/en-us/azure/architecture/patterns
 
 ## Enterprise Application Architecture
 
@@ -108,10 +108,10 @@ Functional decomposition is a term that engineers use to describea set of steps 
 - **Session State Patterns:** Client Session State, Server Session State, Database Session State.
 - **Base Patterns:** Gateway, Mapper, Layer Supertype, Separated Interface, Registry, Value Object, Money, Special Case, Plugin, Service Stub, Record Set
 
-<https://martinfowler.com/eaaCatalog/index.html>
+https://martinfowler.com/eaaCatalog/index.html
 
 ## Self Contained System (SCS)
 
 The Self-contained System (SCS) approach is an architecture that focuses on a separation of the functionality into many independent systems, making the complete logical system a collaboration of many smaller software systems. This avoids the problem of large monoliths that grow constantly and eventually become unmaintainable.
 
-<https://scs-architecture.org>
+https://scs-architecture.org

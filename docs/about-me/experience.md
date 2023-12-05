@@ -84,7 +84,7 @@ I am a highly skilled and experienced engineer with 7+ years of experience with 
 
 ### Zenatix Solution Pvt. Ltd., Associate Technology (Aug 17 - Jan 2020)
 
-**Core Infrastructure**
+#### Core Infrastructure
 
 - Centralized logging infrastructure using Elasticsearch, Kibana, Fluentbit
 - Centralized metrics monitoring infrastructure using Prometheus, Influx, Grafana, Telegraf, Alertmanager
@@ -92,7 +92,7 @@ I am a highly skilled and experienced engineer with 7+ years of experience with 
 - Moved cronjobs to Airflow Job Orchestrator
 - Containerised all applications and ported to Kubernetes
 
-**Business Logic**
+#### Business Logic
 
 - Added MQTT Broker, Kafka Broker and Druid for data pipeline
 - Implemented GraphQL as the default communication protocol between microservices
@@ -104,9 +104,13 @@ Work includes extending functionalities in android application, working with rea
 
 Stack: MQTT, PostgreSQL, Redis, readingdb, Python, Django, Java, Android, REST
 
-**Wattman Lite**
+#### Wattman Lite
 
-Working on android as frontend and django as backend. Stack includes MQTT and rest api's for communication to server and rpi devices. <https://play.google.com/store/apps/details?id=com.zenatix.smartaccontrol&hl=en> <https://zenatix.com/products>
+Working on android as frontend and django as backend. Stack includes MQTT and rest api's for communication to server and rpi devices. 
+
+https://play.google.com/store/apps/details?id=com.zenatix.smartaccontrol&hl=en
+
+https://zenatix.com/products
 
 ### CISO Cybersecurity, Software Developer (Dec 16 - July 17)
 
@@ -117,15 +121,15 @@ Worked on core product development team, as a java developer and find novel solu
 
 Worked on core and advance java, face detection using Viola-Jones Algorithm, corner detection using fixed points, Live Video Streaming using ffmpeg.
 
-<http://cisocybersecurity.com/>
+http://cisocybersecurity.com/
 
-<https://demo.digiproctor.com>
+https://demo.digiproctor.com
 
 ## Internships
 
 ### Indraprastha Institute of Information Technology, Teaching Assistant (Aug 15 - Dec 16)
 
-- Published paper on project Sangoshthi: <https://doi.org/10.1145/3038912.3052624>
+- Published paper on project Sangoshthi: https://doi.org/10.1145/3038912.3052624
 - Courses: Network Security, Computer Networks, Mobile Computing
 
 - Distributed Computing, Network Security, Computer Networks, Mobile Computing

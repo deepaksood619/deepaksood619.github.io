@@ -91,7 +91,7 @@ The simplest best-effort scheduling algorithms are [round-robin](https://en.wiki
 1. First come, first served
 2. Priority scheduling
 
-    - Earliest Deadline First (EDF) / least time to go - <https://en.wikipedia.org/wiki/Earliest_deadline_first_scheduling>
+    - Earliest Deadline First (EDF) / least time to go - https://en.wikipedia.org/wiki/Earliest_deadline_first_scheduling
     - Deadline-monotonic scheduling
 
 3. Shortest remaining time first
@@ -123,9 +123,9 @@ There are several scheduling problems in which the goal is to decide which job g
 
 is a CPU [scheduler](https://en.wikipedia.org/wiki/Scheduling_(computing)) available in the [Linux kernel](https://en.wikipedia.org/wiki/Linux_kernel) since version 3.14, based on the [Earliest Deadline First (EDF)](https://en.wikipedia.org/wiki/Earliest_deadline_first_scheduling) and Constant Bandwidth Server (CBS) algorithms, supporting resource reservations: each task scheduled under such policy is associated with a *budget* Q (aka *runtime*), and a *period* P, corresponding to a declaration to the kernel that Q time units are required by that task every P time units, on any processor. This makes SCHED_DEADLINE particularly suitable for [real-time](https://en.wikipedia.org/wiki/Real-time_computing) applications, like multimedia or industrial control, where P corresponds to the minimum time elapsing between subsequent activations of the task, and Q corresponds to the worst-case execution time needed by each activation of the task
 
-<https://en.wikipedia.org/wiki/SCHED_DEADLINE>
+https://en.wikipedia.org/wiki/SCHED_DEADLINE
 
-<https://en.wikipedia.org/wiki/Scheduling_(computing)>
+https://en.wikipedia.org/wiki/Scheduling_(computing)
 
 ## Generic Cell Rate Algorithm
 
@@ -133,4 +133,4 @@ The generic cell rate algorithm (GCRA) is a [leaky bucket](https://en.wikipedia.
 
 The GCRA is given as the reference for checking the traffic on connections in the network, i.e.[usage/network parameter control](https://en.wikipedia.org/wiki/UPC_and_NPC)(UPC/NPC) at [user--network interfaces](https://en.wikipedia.org/wiki/User%E2%80%93network_interface)(UNI) or [inter-network interfaces or network-network interfaces](https://en.wikipedia.org/wiki/Network-to-network_interface)(INI/NNI).It is also given as the reference for the timing of cells transmitted (ATM PDU Data_Requests) onto an ATM network by a [network interface card](https://en.wikipedia.org/wiki/Network_interface_card)(NIC) in a host, i.e. on the user side of the UNI.This ensures that cells are not then discarded by UPC/NCP in the network, i.e. on the network side of the UNI. However, as the GCRA is only given as a reference, the network providers and users may use any other algorithm that gives the same result.
 
-<https://en.wikipedia.org/wiki/Generic_cell_rate_algorithm>
+https://en.wikipedia.org/wiki/Generic_cell_rate_algorithm

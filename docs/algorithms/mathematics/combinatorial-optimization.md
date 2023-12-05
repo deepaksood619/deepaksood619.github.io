@@ -6,11 +6,11 @@ Combinatorial optimization is a subset of [mathematical optimization](https://en
 
 Some research literatureconsiders [discrete optimization](https://en.wikipedia.org/wiki/Discrete_optimization) to consist of [integer programming](https://en.wikipedia.org/wiki/Integer_programming) together with combinatorial optimization (which in turn is composed of [optimization problems](https://en.wikipedia.org/wiki/Optimization_problem) dealing with [graph structures](https://en.wikipedia.org/wiki/Graph_(discrete_mathematics))) although all of these topics have closely intertwined research literature. It often involves determining the way to efficiently allocate resources used to find solutions to mathematical problems.
 
-<https://en.wikipedia.org/wiki/Combinatorial_optimization>
+https://en.wikipedia.org/wiki/Combinatorial_optimization
 
-<https://www.toptal.com/algorithms/horuslp-python-optimization-library>
+https://www.toptal.com/algorithms/horuslp-python-optimization-library
 
-<https://www.toptal.com/python/horuslp-gurobi-optimization>
+https://www.toptal.com/python/horuslp-gurobi-optimization
 
 ## Solvers
 
@@ -41,4 +41,4 @@ General solvers typically use an architecture similar to the GPS to decouple a p
 
 For problems of a particular class (e.g., systems of [non-linear equations](https://en.wikipedia.org/wiki/Non-linear_equation)) there are usually a wide range of different algorithms available; sometimes a solver implements multiple algorithms, but sometimes just one.
 
-<https://en.wikipedia.org/wiki/Solver>
+https://en.wikipedia.org/wiki/Solver

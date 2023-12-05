@@ -26,9 +26,9 @@ Linear regression is a statistical model that, given a set of input features, at
 
 Logistic regression, on the other hand, outputs a probability, which by definition is a bounded value between zero and one, due to the sigmoid activation function. Therefore, it is most appropriate to solve classification problems (e.g. to predict whether a given transaction is fraudulent or not).
 
-<https://techdifferences.com/difference-between-linear-and-logistic-regression.html>
+https://techdifferences.com/difference-between-linear-and-logistic-regression.html
 
-<https://medium.com/@dhiraj8899/top-5-difference-between-linear-regression-and-logistic-regression-893f6470d7e0>
+https://medium.com/@dhiraj8899/top-5-difference-between-linear-regression-and-logistic-regression-893f6470d7e0
 
 ## Regression
 

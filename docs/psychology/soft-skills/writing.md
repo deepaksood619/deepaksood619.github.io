@@ -4,7 +4,7 @@
 
 If you're useful over a long time period, you will end up looking smart anyway."
 
-<https://neilpatel.com/blog/the-step-by-step-guide-to-writing-powerful-headlines>
+https://neilpatel.com/blog/the-step-by-step-guide-to-writing-powerful-headlines
 
 ## Writing Tips
 
@@ -16,11 +16,11 @@ If you're useful over a long time period, you will end up looking smart anyway."
 6. **Keep in mind that your reader is likely to be a busy person.** The harder you make it for her to understand the thousands of words you have scribbled on the page, the less likely she will be to take to your writing.
 7. **If you care about writing well then train yourself to write well.** Vonnegut recommends reading "The Elements of Style"by William Strunk Jr and EB White.
 
-<https://substack.com>
+https://substack.com
 
 Substack makes it simple for a writer to start an email newsletter that makes money from subscriptions.
 
-- <https://www.dotdash.com>
+- https://www.dotdash.com
 - [beehiiv.com](https://www.beehiiv.com/)
 
 ## LinkedIn growth playbook

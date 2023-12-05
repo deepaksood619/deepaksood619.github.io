@@ -23,7 +23,7 @@ In a logical multilayered architecture for an information system with an [object
 - [Business layer](https://en.wikipedia.org/wiki/Business_layer)(a.k.a.[business logic layer](https://en.wikipedia.org/wiki/Business_logic_layer)(BLL), domain layer)
 - [Data access layer](https://en.wikipedia.org/wiki/Data_access_layer)(a.k.a.[persistence layer](https://en.wikipedia.org/wiki/Persistence_layer), logging, networking, and other services which are required to support a particular business layer)
 
-<https://en.wikipedia.org/wiki/Multitier_architecture>
+https://en.wikipedia.org/wiki/Multitier_architecture
 
 An N-tier application can have a closed layer architecture or an open layer architecture:
 
@@ -91,4 +91,4 @@ Network security groups restrict access to each tier. For example, the database 
 - If your organization uses Active Directory to manage identity, you may want to extend your Active Directory environment to the Azure VNet. For more information, see [Identity management reference architecture](https://docs.microsoft.com/en-us/azure/architecture/reference-architectures/identity/).
 - If you need higher availability than the Azure SLA for VMs provides, replicate the application across two regions and use Azure Traffic Manager for failover. For more information, see [Run Windows VMs in multiple regions](https://docs.microsoft.com/en-us/azure/architecture/reference-architectures/n-tier/multi-region-sql-server) or [Run Linux VMs in multiple regions](https://docs.microsoft.com/en-us/azure/architecture/reference-architectures/n-tier/n-tier-cassandra).
 
-<https://docs.microsoft.com/en-us/azure/architecture/guide/architecture-styles/n-tier>
+https://docs.microsoft.com/en-us/azure/architecture/guide/architecture-styles/n-tier

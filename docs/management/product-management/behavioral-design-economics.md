@@ -1,8 +1,8 @@
 # Behavioral Design / Economics
 
-<https://www.lennysnewsletter.com/p/how-to-use-behavioral-science-to>
+https://www.lennysnewsletter.com/p/how-to-use-behavioral-science-to
 
-<https://en.wikipedia.org/wiki/Behavioral_economics>
+https://en.wikipedia.org/wiki/Behavioral_economics
 
 ### Increase the immediate benefit to taking any action:forced choice and present bias
 
@@ -18,7 +18,7 @@ The immediate benefit to the user of taking the action should be higher than the
 
 ![image](../../media/Product-Management_Behavioral-Design-Economics-image2.jpg)
 
-<https://irrationallabs.com/blog/its-not-always-about-making-things-easier-when-to-make-your-sign-up-flow-harder>
+https://irrationallabs.com/blog/its-not-always-about-making-things-easier-when-to-make-your-sign-up-flow-harder
 
 ### Make people feel like they already own it:the endowment effect
 
@@ -54,11 +54,11 @@ Humans tend to follow the path of least resistance and respond to immediate ince
 
 ![image](../../media/Product-Management_Behavioral-Design-Economics-image5.jpg)
 
-<https://irrationallabs.com/learn>
+https://irrationallabs.com/learn
 
-<https://irrationallabs.com/content/uploads/2020/09/3B-Framework.pdf>
+https://irrationallabs.com/content/uploads/2020/09/3B-Framework.pdf
 
-<https://en.wikipedia.org/wiki/Behavioural_design>
+https://en.wikipedia.org/wiki/Behavioural_design
 
 ## Amplying benefits
 
@@ -103,7 +103,7 @@ Variable reward system
 
 Hooked Workbook - to understand customers
 
-<https://www.nirandfar.com/download/hooked-workbook.pdf>
+https://www.nirandfar.com/download/hooked-workbook.pdf
 
 ## Habituation
 

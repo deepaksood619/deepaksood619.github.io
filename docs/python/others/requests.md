@@ -31,12 +31,12 @@ response = requests.post(url, headers=headers, json=json_obj)
 print(response.text)
 ```
 
-<https://julien.danjou.info/python-and-fast-http-clients>
+https://julien.danjou.info/python-and-fast-http-clients
 
 ## httpx
 
 HTTPX is a fully featured HTTP client for Python 3, which provides sync and async APIs, and support for both HTTP/1.1 and HTTP/2.
 
-<https://github.com/encode/httpx>
+https://github.com/encode/httpx
 
-<https://www.youtube.com/watch?v=m_a0fN48Alw>
+https://www.youtube.com/watch?v=m_a0fN48Alw

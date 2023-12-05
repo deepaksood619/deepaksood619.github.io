@@ -10,7 +10,7 @@ A json file maintained on the cloud where all the updates are performed. These i
 
 ## Digital Twin
 
-<https://dzone.com/articles/apache-kafka-as-digital-twin-in-industrial-iot-iio>
+https://dzone.com/articles/apache-kafka-as-digital-twin-in-industrial-iot-iio
 
 ## TPM - Trusted Platform Module
 
@@ -125,18 +125,18 @@ Information flows in one direction from other systems to a device (or a group of
 7. Semantic(ex: JSON-LD, Web Thing Model)
 8. Multi-layer Frameworks(ex: Alljoyn, IoTivity, Weave, Homekit)
 
-<https://www.postscapes.com/internet-of-things-protocols>
+https://www.postscapes.com/internet-of-things-protocols
 
 ## References
 
-<https://cloudplatform.googleblog.com/2018/04/implementing-an-event-driven-architecture-on-serverless-the-Smart-Parking-story.html?m=1>
+https://cloudplatform.googleblog.com/2018/04/implementing-an-event-driven-architecture-on-serverless-the-Smart-Parking-story.html?m=1
 
 IoT Applications, Protocols, and Best Practices - DZone Research Guides
 
-<https://www.home-assistant.io/blog/2016/02/12/classifying-the-internet-of-things>
+https://www.home-assistant.io/blog/2016/02/12/classifying-the-internet-of-things
 
-End to end overview - <https://cloud.google.com/solutions/iot-overview>
+End to end overview - https://cloud.google.com/solutions/iot-overview
 
-<https://www.edx.org/course/iot-system-architecture-design-and-evaluation>
+https://www.edx.org/course/iot-system-architecture-design-and-evaluation
 
-<https://www.edx.org/microsoft-professional-program-certificate-in-iot>
+https://www.edx.org/microsoft-professional-program-certificate-in-iot

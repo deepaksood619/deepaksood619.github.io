@@ -47,12 +47,12 @@ LSM-Trees cause some write amplification: data has to be written to the write-ah
 
 As you can see all write operations in LSM Trees are sequential: Write-Ahead Log appends, Memtable flushes, Compactions. Using [per-SSTable indexes](https://github.com/apache/cassandra/blob/trunk/doc/SASI) or pre-sorting data can also help to make at least some read operations sequential. It can only be done to a certain extend as reads have to be performed against multiple files and then merged together.
 
-<https://medium.com/databasss/on-disk-io-part-3-lsm-trees-8b2da218496f>
+https://medium.com/databasss/on-disk-io-part-3-lsm-trees-8b2da218496f
 
-<https://medium.com/databasss/on-disk-io-access-patterns-in-lsm-trees-2ba8dffc05f9>
+https://medium.com/databasss/on-disk-io-access-patterns-in-lsm-trees-2ba8dffc05f9
 
 ## LMS Trees (Copy on Write B-Trees)
 
 - Take B-Tree, let's make the pages immutable (every page is a new instance appended to old instance)
 
-<https://blog.acolyer.org/2014/11/26/the-log-structured-merge-tree-lsm-tree>
+https://blog.acolyer.org/2014/11/26/the-log-structured-merge-tree-lsm-tree

@@ -30,7 +30,7 @@ The experiments showed how normal, intelligent people were willing to give an ob
 
 [The Milgram Experiment | THE HEIST | Derren Brown](https://www.youtube.com/watch?v=Xxq4QtK3j0Y)
 
-<https://www.collaborativefund.com/blog/think>
+https://www.collaborativefund.com/blog/think
 
 1. Everyone belongs to a tribe and underestimates how influential that tribe is on their thinking
 2. What people present to the world is a tiny fraction of what's going on inside their head

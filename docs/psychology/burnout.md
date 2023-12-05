@@ -2,7 +2,7 @@
 
 ## Programmers Burnout
 
-<https://medium.com/hackernoon/why-theres-so-much-burnout-in-software-and-what-to-do-about-it-4ef0297ca7cc>
+https://medium.com/hackernoon/why-theres-so-much-burnout-in-software-and-what-to-do-about-it-4ef0297ca7cc
 
 ## Blinkist - The Burnout Fix
 
@@ -39,9 +39,9 @@ The second kind of feeling might be something you encourage yourself to do for s
 
 Make a distinction between a lack of inertia and persistent exhaustion from an activity being more hassle than help. If you push yourself to the gym, but feel good after you went, that's good. On the other hand, if you constantly feel exhausted by everything, you might be pushing yourself towards burnout
 
-<https://www.scotthyoung.com/blog/2020/01/13/too-tired>
+https://www.scotthyoung.com/blog/2020/01/13/too-tired
 
-<https://dariusforoux.com/work-hard-without-burning-out>
+https://dariusforoux.com/work-hard-without-burning-out
 
 ## 7 Types of Rest
 

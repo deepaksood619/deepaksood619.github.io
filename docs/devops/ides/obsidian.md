@@ -120,98 +120,98 @@ Extensions that helps make obsidian better
 
 ## LYT - Linking Your Thinking
 
-<https://obsidian>
+https://obsidian
 
 [My 2020 Comprehensive Obsidian Workflow For Zettelkasten and Evergreen Notes](https://www.youtube.com/watch?v=Ewhfok91AdE)
 
 [Obsidian Plugins (0.9.10) - My top plugins in the Obsidian app](https://www.youtube.com/watch?v=X61wRmfZU8Y)
 
-<https://github.com/obsidianmd>
+https://github.com/obsidianmd
 
-<https://github.com/ransurf/obsidian-resources>
+https://github.com/ransurf/obsidian-resources
 
-<https://forum.obsidian/t/example-workflows-in-obsidian/1093>
+https://forum.obsidian/t/example-workflows-in-obsidian/1093
 
-<https://forum.obsidian/t/plugin-for-flashcards-note-level-spaced-repetition-all-inside-obsidian/16498>
+https://forum.obsidian/t/plugin-for-flashcards-note-level-spaced-repetition-all-inside-obsidian/16498
 
-<https://github.com/st3v3nmw/obsidian-spaced-repetition>
+https://github.com/st3v3nmw/obsidian-spaced-repetition
 
-<https://github.com/theohbrothers/ConvertOneNote2MarkDown>
+https://github.com/theohbrothers/ConvertOneNote2MarkDown
 
-<https://www.linkingyourthinking.com/lyt-kit-v5-overview>
+https://www.linkingyourthinking.com/lyt-kit-v5-overview
 
 ## Publish Free
 
-<https://docusaurus.io>
+https://docusaurus.io
 
 [10 Obsidian Publish Alternatives to Publish Your Notes Online for Free](https://beingpax.medium.com/7-obsidian-publish-alternatives-to-publish-your-notes-online-for-free-33db4fb06f5)
 
-<https://github.com/jackyzha0/quartz> - 1.4k
+https://github.com/jackyzha0/quartz - 1.4k
 
-<https://github.com/mathieudutour/gatsby-digital-garden> - 575
+https://github.com/mathieudutour/gatsby-digital-garden - 575
 
-<https://github.com/maximevaillancourt/digital-garden-jekyll-template> - 566
+https://github.com/maximevaillancourt/digital-garden-jekyll-template - 566
 
-<https://github.com/secure-77/Perlite> - 328
+https://github.com/secure-77/Perlite - 328
 
-<https://github.com/TuanManhCao/digital-garden> - 281
+https://github.com/TuanManhCao/digital-garden - 281
 
-<https://github.com/jobindjohn/obsidian-publish-mkdocs> - 207
+https://github.com/jobindjohn/obsidian-publish-mkdocs - 207
 
-<https://github.com/yoursamlan/pubsidian> - 204
+https://github.com/yoursamlan/pubsidian - 204
 
-<https://github.com/Jekyll-Garden/jekyll-garden.github.io> - 191
+https://github.com/Jekyll-Garden/jekyll-garden.github.io - 191
 
-**<https://github.com/codebushi/gatsby-theme-document> - 124**
+**https://github.com/codebushi/gatsby-theme-document - 124**
 
-<https://github.com/theowenyoung/gatsby-theme-primer-wiki> - 73
+https://github.com/theowenyoung/gatsby-theme-primer-wiki - 73
 
-**<https://github.com/theowenyoung/obsidian-template-gatsby-theme-primer-wiki>**
-    - <https://thomassajot.github.io/brain-dam>
-    - <https://demo-gatsby-starter-primer-wiki.owenyoung.com>
-    - <https://demo-obsidian.owenyoung.com/>
+**https://github.com/theowenyoung/obsidian-template-gatsby-theme-primer-wiki**
+    - https://thomassajot.github.io/brain-dam
+    - https://demo-gatsby-starter-primer-wiki.owenyoung.com
+    - https://demo-obsidian.owenyoung.com/
 
-<https://github.com/flowershow/flowershow> - 156
+https://github.com/flowershow/flowershow - 156
 
-<https://forum.obsidian/t/obsidian-mkdocs-a-free-publish-alternative-workflow/29540>
+https://forum.obsidian/t/obsidian-mkdocs-a-free-publish-alternative-workflow/29540
 
-<https://forum.obsidian/t/pubsidian-free-and-elegant-obsidian-publish-alternative/21825>
+https://forum.obsidian/t/pubsidian-free-and-elegant-obsidian-publish-alternative/21825
 
 ## Publish / Examples / Showcases / Codex
 
 - [Second Brain Showcases Awesome](https://github.com/KasperZutterman/Second-Brain)
-- <https://publish.obsidian/chromatically/publish+homepage>
-- <https://notes.nitinpai.in/Start+Here>
-- <https://publish.obsidian/alexisrondeau/Welcome+to+my+digital+garden>
-- <https://publish.obsidian/myquantumwell/Welcome+to+The+Quantum+Well>
-- <https://publish.obsidian/planet>
-- <https://publish.obsidian/christopher/%2BWelcome+to+Chris's+note-in-use>
-- <https://quartz.jzhao.xyz/notes/showcase/>
-- <https://scalingsynthesis.com>
-- <https://publish.obsidian/andymatuschak/Andy+Matuschak/Evergreen+notes>
-- <https://filipedonadio.com/a-curated-list-of-obsidian-public-vaults>
-- <https://forum.obsidian/t/the-all-obsidian-publish-s-collection-by-leo-latest-update-20210324/7248>
-- <https://hiran.in/notes>
-- <https://vinzent03.github.io/obsidian-advanced-uri>
-- <https://wiki.nikiv.dev/>
+- https://publish.obsidian/chromatically/publish+homepage
+- https://notes.nitinpai.in/Start+Here
+- https://publish.obsidian/alexisrondeau/Welcome+to+my+digital+garden
+- https://publish.obsidian/myquantumwell/Welcome+to+The+Quantum+Well
+- https://publish.obsidian/planet
+- https://publish.obsidian/christopher/%2BWelcome+to+Chris's+note-in-use
+- https://quartz.jzhao.xyz/notes/showcase/
+- https://scalingsynthesis.com
+- https://publish.obsidian/andymatuschak/Andy+Matuschak/Evergreen+notes
+- https://filipedonadio.com/a-curated-list-of-obsidian-public-vaults
+- https://forum.obsidian/t/the-all-obsidian-publish-s-collection-by-leo-latest-update-20210324/7248
+- https://hiran.in/notes
+- https://vinzent03.github.io/obsidian-advanced-uri
+- https://wiki.nikiv.dev/
 - [arboretum.link](https://www.arboretum.link/)
 - [Slate Star Codex](https://slatestarcodex.com/)
 
 ### Blogs example templates
 
-<https://mathieudutour.github.io/gatsby-digital-garden>
+https://mathieudutour.github.io/gatsby-digital-garden
 
-<https://jackiexiao.github.io/foam/backlinking>
+https://jackiexiao.github.io/foam/backlinking
 
-<https://hikerpig.github.io/foam-jekyll-template>
+https://hikerpig.github.io/foam-jekyll-template
 
 ## Company Knowledge Base
 
 - **Confluence**
 - **Outline** - [GitHub - outline/outline: The fastest knowledge base for growing teams. Beautiful, realtime collaborative, feature packed, and markdown compatible.](https://github.com/outline/outline)
 - [GitBook - Where technical teams document](https://www.gitbook.com/)
-- <https://orgmode.org>
-- <https://www.orgroam.com>
+- https://orgmode.org
+- https://www.orgroam.com
 
 ## Others
 
@@ -221,14 +221,14 @@ Extensions that helps make obsidian better
 
 - [**https://github.com/foambubble/foam**](https://github.com/foambubble/foam)
 
-- <https://wiki.dendron.so>
-- <https://github.com/standardnotes/app>
+- https://wiki.dendron.so
+- https://github.com/standardnotes/app
 - Roam Research
-- <https://www.producthunt.com/posts/heyday-4>
+- https://www.producthunt.com/posts/heyday-4
 
     Automatically organize content - without learning a new app
 
-- <https://www.producthunt.com/posts/reflect-notes>
+- https://www.producthunt.com/posts/reflect-notes
 
     Fast networked note-taking
 
@@ -237,10 +237,10 @@ Extensions that helps make obsidian better
     [The ULTIMATE Second Brain Setup in Notion](https://www.youtube.com/watch?v=vs8WQh2k-Ow)
 
 - AppFlowy - Open-source alternative to Notion
-- <https://anytype.io/en>
+- https://anytype.io/en
 - [Dendron](https://www.dendron.so/)
 
-<https://www.slant.co/topics/4962/~knowledge-base-systems-for-personal-use>
+https://www.slant.co/topics/4962/~knowledge-base-systems-for-personal-use
 
 ### Sync
 
@@ -248,5 +248,5 @@ Extensions that helps make obsidian better
 
 ## Others
 
-- <https://dev.to/joeholmes/creating-a-diy-digital-garden-with-obsidian-and-gatsby-378e>
-- <https://foambubble.github.io/foam/user/recipes/recipes>
+- https://dev.to/joeholmes/creating-a-diy-digital-garden-with-obsidian-and-gatsby-378e
+- https://foambubble.github.io/foam/user/recipes/recipes

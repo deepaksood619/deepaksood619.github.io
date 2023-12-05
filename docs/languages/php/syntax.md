@@ -14,7 +14,7 @@
 | **NAMESPACE** | The name of the current namespace.                                                                                                                                                                                                              |
 | **ClassName::class**  | The fully qualified class name. See also [::class](https://www.php.net/manual/en/language.oop5.basic.php#language.oop5.basic.class.class).                                                                                                      |
 
-<https://www.php.net/manual/en/language.constants.predefined.php>
+https://www.php.net/manual/en/language.constants.predefined.php
 
 All PHP code must be included inside one of the three special markup tags ATE are recognised by the PHP Parser.
 
@@ -50,7 +50,7 @@ The main way to store information in the middle of a PHP program is by using a v
 
 $_SERVER is an array containing information such as headers, paths, and script locations. The entries in this array are created by the web server. There is no guarantee that every web server will provide any of these.
 
-<https://www.tutorialspoint.com/php/php_predefined_variables.htm>
+https://www.tutorialspoint.com/php/php_predefined_variables.htm
 
 ## Data Types
 
@@ -128,7 +128,7 @@ $salaries = array("mohammad" => 2000, "qadir" => 1000, "zara" => 500);
 
 - **Multidimensional array−** An array containing one or more arrays and values are accessed using multiple indices
 
-<https://www.tutorialspoint.com/php/php_arrays.htm>
+https://www.tutorialspoint.com/php/php_arrays.htm
 
 - **Objects**
 
@@ -195,7 +195,7 @@ PHP supports following three decision making statements
 - **elseif statement−** is used with the if...else statement to execute a set of code ifoneof the several condition is true
 - **switch statement−** is used if you want to select one of many blocks of code to be executed, use the Switch statement. The switch statement is used to avoid long blocks of if..elseif..else code.
 
-<https://www.tutorialspoint.com/php/php_decision_making.htm>
+https://www.tutorialspoint.com/php/php_decision_making.htm
 
 ## Loops
 
@@ -287,9 +287,9 @@ You can return more than one value from a function usingreturn array(1,2,3,4).
 ?>
 ```
 
-<https://www.tutorialspoint.com/php/php_functions.htm>
+https://www.tutorialspoint.com/php/php_functions.htm
 
-<https://www.tutorialspoint.com/php/php_function_reference.htm>
+https://www.tutorialspoint.com/php/php_function_reference.htm
 
 ## PHP Regular Expressions
 
@@ -298,7 +298,7 @@ PHP offers functions specific to two sets of regular expression functions, each 
 - POSIX Regular Expressions
 - PERL Style Regular Expressions
 
-<https://www.tutorialspoint.com/php/php_regular_expression.htm>
+https://www.tutorialspoint.com/php/php_regular_expression.htm
 
 ## Files IO
 
@@ -323,4 +323,4 @@ So here are the steps required to read a file with PHP.
 
 A new file can be written or text can be appended to an existing file using the PHPfwrite()function. This function requires two arguments specifying afile pointerand the string of data that is to be written. Optionally a third integer argument can be included to specify the length of the data to write. If the third argument is included, writing would will stop after the specified length has been reached.
 
-<https://www.tutorialspoint.com/php/php_files.htm>
+https://www.tutorialspoint.com/php/php_files.htm

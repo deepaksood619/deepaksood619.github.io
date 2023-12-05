@@ -85,7 +85,7 @@ Jenkins is, fundamentally, an automation engine which supports a number of autom
 
 ![image](../../media/DevOps-Others-Jenkins-image1.jpg)
 
-<https://jenkins.io/doc/book/pipeline>
+https://jenkins.io/doc/book/pipeline
 
 ## Jenkinsfile
 
@@ -175,9 +175,9 @@ pipeline {
 }
 ```
 
-<https://www.youtube.com/watch?v=7KCS70sCoK0&list=PLy7NrYWoggjw_LIiDK1LXdNN82uYuuuiC&index=6&ab_channel=TechWorldwithNana>
+https://www.youtube.com/watch?v=7KCS70sCoK0&list=PLy7NrYWoggjw_LIiDK1LXdNN82uYuuuiC&index=6&ab_channel=TechWorldwithNana
 
-<https://www.jenkins.io/doc/book/pipeline/jenkinsfile>
+https://www.jenkins.io/doc/book/pipeline/jenkinsfile
 
 ## Jenkins
 
@@ -194,7 +194,7 @@ A Jenkinsfile is nothing but a pipeline script that defines your CI/CD pipeline
 
 ## Plugins
 
-<https://jenkins.io/doc/pipeline/steps/slack>
+https://jenkins.io/doc/pipeline/steps/slack
 folder plugin
 Credentials
 Credentials Binding
@@ -208,13 +208,13 @@ Clear build queue, Manage Jenkins > Script Console:
 
 Full CI/CD on kubernetes
 
-<https://kublr.com/blog/cicd-pipeline-with-jenkins-nexus-kubernetes>
+https://kublr.com/blog/cicd-pipeline-with-jenkins-nexus-kubernetes
 
 ## Jenkins Operator
 
 The Jenkins Operator is a [Kubernetes Native Operator](https://kubernetes.io/docs/concepts/extend-kubernetes/operator/) which manages operations for Jenkins on Kubernetes. It has been built with Immutability and declarative Configuration as Code in mind.
 
-<https://github.com/jenkinsci/kubernetes-operator>
+https://github.com/jenkinsci/kubernetes-operator
 
 ## 338: Jenkins 2 Build Server - Robert Bluemen with Brent Laster
 
@@ -230,11 +230,11 @@ docker tag azure-vote-front gcr.io/example-data-archiver/azure-vote-front:v1
 
 docker push gcr.io/example-data-archiver/azure-vote-front:v1
 
-<https://docs.microsoft.com/en-us/azure/aks/jenkins-continuous-deployment>
+https://docs.microsoft.com/en-us/azure/aks/jenkins-continuous-deployment
 
 ## Optimizations
 
-<https://engineering.taboola.com/5-simple-tips-boosting-jenkins-performance>
+https://engineering.taboola.com/5-simple-tips-boosting-jenkins-performance
 
 1. Minimize the amount of builds on the master node
 2. Do not keep too much build history - Discard old builds
@@ -243,7 +243,7 @@ docker push gcr.io/example-data-archiver/azure-vote-front:v1
 5. Tune the garbage collector
     - Enable G1GC -- this is the most modern GC implementation (default on JDK9)
     - Enable GC logging -- this will help you monitor and tune later
-    - Monitor GC behavior -- I use <http://gceasy.io>
+    - Monitor GC behavior -- I use http://gceasy.io
 
 ## Views
 
@@ -295,12 +295,12 @@ import java.util.ArrayList
 
 ## Resources
 
-<https://koudingspawn.de/the-complete-ci-cd-part-1>
+https://koudingspawn.de/the-complete-ci-cd-part-1
 
 [**https://www.jenkins.io/projects/blueocean/**](https://www.jenkins.io/projects/blueocean/)
 
 [How to deploy Jenkins on Kubernetes for CI/CD (DevOps)](https://www.youtube.com/watch?v=eRWIJGF3Y2g)
 
-<https://www.youtube.com/watch?v=eqOCdNO2Nmk>
+https://www.youtube.com/watch?v=eqOCdNO2Nmk
 
-<https://www.infracloud.io/blogs/jenkins-freestyle-pipeline-migration>
+https://www.infracloud.io/blogs/jenkins-freestyle-pipeline-migration

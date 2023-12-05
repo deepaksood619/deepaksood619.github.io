@@ -115,40 +115,40 @@ Custom admin actions can be created for bulk operations in change list page
 
 [**https://djangopackages.org/grids/g/admin-interface/**](https://djangopackages.org/grids/g/admin-interface/)
 
-<https://github.com/mirumee/saleor> (14.1k stars)
+https://github.com/mirumee/saleor (14.1k stars)
 
 Customer-centric e-commerce on a modern stack
 
 A headless, GraphQL commerce platform delivering ultra-fast, dynamic, personalized shopping experiences. Beautiful online stores, anywhere, on any device.
 
-<https://github.com/sehmaschine/django-grappelli>
+https://github.com/sehmaschine/django-grappelli
 
-<https://github.com/darklow/django-suit>
+https://github.com/darklow/django-suit
 
-<https://github.com/geex-arts/django-jet>
+https://github.com/geex-arts/django-jet
 
-<https://github.com/jet-admin/jet-bridge>
+https://github.com/jet-admin/jet-bridge
 
-<https://github.com/jet-admin/jet-bridge>
+https://github.com/jet-admin/jet-bridge
 
-<https://github.com/sshwsfc/xadmin>
+https://github.com/sshwsfc/xadmin
 
-<https://dev.to/sm0ke/django-boilerplate-code-open-source-and-free-2aa5>
+https://dev.to/sm0ke/django-boilerplate-code-open-source-and-free-2aa5
 
-<https://appseed.us/admin-dashboards/django-datta-able>
+https://appseed.us/admin-dashboards/django-datta-able
 
-React admin - <https://github.com/marmelab/react-admin>
+React admin - https://github.com/marmelab/react-admin
 
 ## Django Open Source projects
 
-<https://www.upgrad.com/blog/django-open-source-projects>
+https://www.upgrad.com/blog/django-open-source-projects
 
 - Wagtail (Open Source CMS)
 - Ownphotos (Open Source Google Photos)
-- PostHog - <https://github.com/PostHog/posthog> (Open Source Event Tracking)
+- PostHog - https://github.com/PostHog/posthog (Open Source Event Tracking)
 - Cabot (Open Source Nagios)
 - Saleor Commerce (Open Source E-Commerce)
 
 ## Others
 
-<https://realpython.com/manage-users-in-django-admin>
+https://realpython.com/manage-users-in-django-admin

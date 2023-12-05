@@ -138,7 +138,7 @@ Query cache is generally considered with low connections, similar type of querie
 
 ### Removed in MySQL 8.0
 
-<http://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/Aurora.Monitoring.html>
+http://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/Aurora.Monitoring.html
 
 ### query_cache_size
 
@@ -175,11 +175,11 @@ Impact:This setting also indirectly contributes to Performance Schema memory usa
 Recommended settings: Default (16,777,216 bytes). Together withmax_heap_table_size, this parameter limits the size for in-memory tables used for query processing. When the temporary table size limit is exceeded, tables are then swapped to disk.
 Impact:Very large values (hundreds of megabytes or more) are notorious for causing memory issues and out-of-memory errors. This parameter doesn't affect tables created with the MEMORY engine.
 
-<https://aws.amazon.com/blogs/database/best-practices-for-amazon-aurora-mysql-database-configuration>
+https://aws.amazon.com/blogs/database/best-practices-for-amazon-aurora-mysql-database-configuration
 
-<https://docs.aws.amazon.com/AmazonRDS/latest/AuroraUserGuide/USER_WorkingWithParamGroups.html>
+https://docs.aws.amazon.com/AmazonRDS/latest/AuroraUserGuide/USER_WorkingWithParamGroups.html
 
-<https://docs.aws.amazon.com/AmazonRDS/latest/AuroraUserGuide/AuroraMySQL.Reference.html>
+https://docs.aws.amazon.com/AmazonRDS/latest/AuroraUserGuide/AuroraMySQL.Reference.html
 
 ### Instance Types
 
@@ -196,32 +196,32 @@ A non-Serverless DB cluster for Aurora is called aprovisioned DB cluster. Aurora
 Amazon Aurora Serverless v2, currently in preview, scales instantly from hundreds to hundreds-of-thousands of transactions in a fraction of a second. As it scales, it adjusts capacity in fine-grained increments to provide just the right amount of database resources that the application needs. There is no database capacity for you to manage, you pay only for the capacity your application consumes, and you can save up to 90% of your database cost compared to the cost of provisioning capacity for peak load.
 Aurora Serverless v2 (Preview) supports all manner of database workloads, from development and test environments, websites, and applications that have infrequent, intermittent, or unpredictable workloads to the most demanding, business critical applications that require high scale and high availability. It supports the full breadth of Aurora features, including Global Database, Multi-AZ deployments, and read replicas. Aurora Serverless v2 (Preview) is currently available in preview for Aurora with MySQL compatibility only.
 
-<https://docs.aws.amazon.com/AmazonRDS/latest/AuroraUserGuide/aurora-serverless.html>
+https://docs.aws.amazon.com/AmazonRDS/latest/AuroraUserGuide/aurora-serverless.html
 
 ## Important points
 
 - You can't give an Aurora Serverless DB cluster a public IP address. You can access an Aurora Serverless DB cluster only from within a virtual private cloud (VPC) based on the Amazon VPC service.
 
-<https://docs.aws.amazon.com/AmazonRDS/latest/AuroraUserGuide/aurora-serverless.how-it-works.html>
+https://docs.aws.amazon.com/AmazonRDS/latest/AuroraUserGuide/aurora-serverless.how-it-works.html
 
 ## Optimizations
 
-<https://aws.amazon.com/blogs/database/planning-and-optimizing-amazon-aurora-with-mysql-compatibility-for-consolidated-workloads>
+https://aws.amazon.com/blogs/database/planning-and-optimizing-amazon-aurora-with-mysql-compatibility-for-consolidated-workloads
 
 ## DB instance RAM recommendations
 
 An Amazon RDS performance best practice is to allocate enough RAM so that yourworking setresides almost completely in memory. The working set is the data and indexes that are frequently in use on your instance. The more you use the DB instance, the more the working set will grow.
 To tell if your working set is almost all in memory, check the ReadIOPS metric (using Amazon CloudWatch) while the DB instance is under load. The value of ReadIOPS should be small and stable. If scaling up the DB instance class - to a class with more RAM - results in a dramatic drop in ReadIOPS, your working set was not almost completely in memory. Continue to scale up until ReadIOPS no longer drops dramatically after a scaling operation, or ReadIOPS is reduced to a very small amount. For information on monitoring a DB instance's metrics, see [Viewing DB instance metrics](https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/MonitoringOverview.html#USER_Monitoring).
 
-<https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/CHAP_BestPractices.html>
+https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/CHAP_BestPractices.html
 
-<https://aws.amazon.com/premiumsupport/knowledge-center/rds-instance-high-cpu>
+https://aws.amazon.com/premiumsupport/knowledge-center/rds-instance-high-cpu
 
 ## Wait Events
 
-<https://docs.aws.amazon.com/AmazonRDS/latest/AuroraUserGuide/AuroraMySQL.Managing.Tuning.wait-events.html>
+https://docs.aws.amazon.com/AmazonRDS/latest/AuroraUserGuide/AuroraMySQL.Managing.Tuning.wait-events.html
 
-<https://aws.amazon.com/premiumsupport/knowledge-center/aurora-mysql-synch-wait-events>
+https://aws.amazon.com/premiumsupport/knowledge-center/aurora-mysql-synch-wait-events
 
 ## Aurora IO Costs/Optimization
 
@@ -237,4 +237,4 @@ innodb_flush_log_at_timeout
 
 ### RDS Proxy
 
-<https://aws.amazon.com/rds/proxy>
+https://aws.amazon.com/rds/proxy

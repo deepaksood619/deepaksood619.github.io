@@ -31,7 +31,7 @@ For these reasons, multi-factor authentication offers the most protection, as yo
 
 The downside to this method of authentication, and the reason it's not utilized in many average systems, is it can be cumbersome to setup and maintain. So the data / system you're protecting really has to justify the need for such security.
 
-<https://auth0.com/learn/multifactor-authentication>
+https://auth0.com/learn/multifactor-authentication
 
 ## Types of Authentication
 
@@ -53,7 +53,7 @@ Because the BA field has to be sent in the header of each HTTP request, the web 
 
 This is the simplest to implement and for some implementations can work well, however it requires transport level encryption as the user name and password are presented with ever request.
 
-<https://en.wikipedia.org/wiki/Basic_access_authentication>
+https://en.wikipedia.org/wiki/Basic_access_authentication
 
 ### Digest Access Authentication
 
@@ -61,7 +61,7 @@ Digest access authenticationis one of the agreed-upon methods a [web server](htt
 
 Technically, digest authentication is an application of [MD5](https://en.wikipedia.org/wiki/MD5)[cryptographic hashing](https://en.wikipedia.org/wiki/Cryptographic_hash) with usage of [nonce](https://en.wikipedia.org/wiki/Cryptographic_nonce) values to prevent [replay attacks](https://en.wikipedia.org/wiki/Replay_attack). It uses the [HTTP](https://en.wikipedia.org/wiki/Hypertext_Transfer_Protocol) protocol.
 
-<https://en.wikipedia.org/wiki/Digest_access_authentication>
+https://en.wikipedia.org/wiki/Digest_access_authentication
 
 ### Cookie-Based Authentication (Stateful)
 
@@ -125,7 +125,7 @@ Service Provider - Trusts the identity provider and authorizes the given user to
 - Loose Coupling of Directories:SAML doesn't require user information to be maintained and synchronized between directories.
 - Reduced Costs for Service Providers:With SAML, you don't have to maintain account information across multiple services. The identity provider bears this burden.
 
-<https://duo.com/blog/the-beer-drinkers-guide-to-saml>
+https://duo.com/blog/the-beer-drinkers-guide-to-saml
 
 #### Tricks
 
@@ -145,15 +145,15 @@ For example, Google implements Single Sign On in its services. Google's central 
 ## IAM - Identity and Access Management
 
 - IdP - Identity Provider
-- [ORY Hydra](https://www.ory.sh/) - <https://github.com/ory/hydra>
+- [ORY Hydra](https://www.ory.sh/) - https://github.com/ory/hydra
 - [Keycloak](https://www.keycloak.org/)
 - Okta
 - Auth0
-- Supertokens - <https://supertokens.io>
-- **jumpcloud (Oyster)** - <https://jumpcloud.com/daas-glossary/identity-management>
-- <https://magic.link>
+- Supertokens - https://supertokens.io
+- **jumpcloud (Oyster)** - https://jumpcloud.com/daas-glossary/identity-management
+- https://magic.link
 
-<https://withblue.ink/2020/04/08/stop-writing-your-own-user-authentication-code.html>
+https://withblue.ink/2020/04/08/stop-writing-your-own-user-authentication-code.html
 
 ## Signed Request
 
@@ -195,8 +195,8 @@ Passkeys are safer:
 
 ## Links
 
-<https://medium.com/@vivekmadurai/different-ways-to-authenticate-a-web-application-e8f3875c254a>
+https://medium.com/@vivekmadurai/different-ways-to-authenticate-a-web-application-e8f3875c254a
 
-<https://blog.risingstack.com/web-authentication-methods-explained>
+https://blog.risingstack.com/web-authentication-methods-explained
 
 [Identity and Access Management: Technical Overview](https://www.youtube.com/watch?v=Tcvsefz5DmA)

@@ -72,10 +72,10 @@ VALUES ('2322675', 'test', 'test', '0.0.0', '0',
 ```
 
 - Insert ingore consumes autoincrement id and can put holes in between rows
-  - <https://stackoverflow.com/questions/5655396/why-insert-ignore-increments-the-auto-increment-primary-key>
+  - https://stackoverflow.com/questions/5655396/why-insert-ignore-increments-the-auto-increment-primary-key
   - [**https://www.percona.com/blog/2011/11/29/avoiding-auto-increment-holes-on-innodb-with-insert-ignore/**](https://www.percona.com/blog/2011/11/29/avoiding-auto-increment-holes-on-innodb-with-insert-ignore/)
   - innodb_autoinc_lock_mode = 0
-  - <https://dev.mysql.com/doc/refman/8.0/en/innodb-auto-increment-handling.html>
+  - https://dev.mysql.com/doc/refman/8.0/en/innodb-auto-increment-handling.html
 
 - Alternatives
 
@@ -93,7 +93,7 @@ WHERE NOT EXISTS(
 LIMIT 1;
 ```
 
-<https://ypereirareis.github.io/blog/2016/03/22/mysql-insert-ignore-alternatives>
+https://ypereirareis.github.io/blog/2016/03/22/mysql-insert-ignore-alternatives
 
 ### Load
 
@@ -146,9 +146,9 @@ We can imitate MySQL UPSERT in one of these three ways:
 
   It is non-destructive, means it doesn't have to drop the duplicate row. Instead, it issues an UPDATE whenever it finds a matching record having the same UNIQUE or PRIMARY KEY value.
 
-<https://www.techbeamers.com/mysql-upsert>
+https://www.techbeamers.com/mysql-upsert
 
-<https://www.javatpoint.com/mysql-upsert>
+https://www.javatpoint.com/mysql-upsert
 
 ## Explain
 
@@ -185,7 +185,7 @@ EXPLAIN EXTENDED
   - Using join buffer - tables processed in large batches of rows, instead of index lookups
   - Using where - after fetching rows from storage engine, extra filtering needs to happen for each row. However it's OK if a very small number of rows were returned.
 
-  <https://www.sitepoint.com/using-explain-to-write-better-mysql-queries>
+  https://www.sitepoint.com/using-explain-to-write-better-mysql-queries
 
 ## Lock Tables
 

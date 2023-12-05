@@ -26,4 +26,4 @@ This is in contrast to the functions that FastAPI calls for you:path operation f
 
 If your utility function is a normal function withdef, it will be called directly (as you write it in your code), not in a threadpool, if the function is created withasync defthen you shouldawaitfor that function when you call it in your code.
 
-<https://fastapi.tiangolo.com/async/#very-technical-details>
+https://fastapi.tiangolo.com/async/#very-technical-details

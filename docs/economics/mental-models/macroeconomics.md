@@ -8,7 +8,7 @@ While macroeconomics is a broad field of study, there are two areas of research 
 - How will we produce it?
 - Who gets it?
 
-<https://en.wikipedia.org/wiki/Macroeconomics>
+https://en.wikipedia.org/wiki/Macroeconomics
 
 ## Money Supply / Money Stock
 
@@ -37,11 +37,11 @@ The Working Group recommended compilation of four monetary aggregates on the bas
 - **NM2**
 - **NM3 (broad money)**
 
-<https://www.clearias.com/monetary-aggregates>
+https://www.clearias.com/monetary-aggregates
 
-<https://en.wikipedia.org/wiki/Money_supply>
+https://en.wikipedia.org/wiki/Money_supply
 
-<https://www.investopedia.com/terms/m/moneysupply.asp>
+https://www.investopedia.com/terms/m/moneysupply.asp
 
 ## Inflation
 
@@ -59,7 +59,7 @@ Demand-pull inflation is the upward pressure on prices that follows a shortage i
 - A low unemployment rate is unquestionably good in general, but it can cause inflation because more people have more disposable income.
 - Increased government spending is good for the economy, too, but it can lead to scarcity in some goods and inflation will follow.
 
-<https://www.investopedia.com/terms/d/demandpullinflation.asp>
+https://www.investopedia.com/terms/d/demandpullinflation.asp
 
 ## Cost push inflation
 
@@ -69,7 +69,7 @@ Demand-pull inflation is the upward pressure on prices that follows a shortage i
 
 The [wage-price spiral](https://www.investopedia.com/terms/w/wage-price-spiral.asp) is a take on cost-push inflation argues that as wages rise, it creates more demand, which leads to higher prices. These higher prices thus incentivize workers to demand even higher wages, and so the cycle repeats.
 
-<https://www.investopedia.com/terms/c/costpushinflation.asp>
+https://www.investopedia.com/terms/c/costpushinflation.asp
 
 ![image](../../media/Mental-Models_Macroeconomics-image2.jpg)
 

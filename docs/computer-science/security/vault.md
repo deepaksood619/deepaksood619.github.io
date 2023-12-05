@@ -220,11 +220,11 @@ This reduces the manual tasks performed by the database administrator and makes 
 
 ![image](../../media/Vault-image7.jpg)
 
-<https://learn.hashicorp.com/tutorials/vault/database-root-rotation>
+https://learn.hashicorp.com/tutorials/vault/database-root-rotation
 
-<https://learn.hashicorp.com/tutorials/vault/database-secrets>
+https://learn.hashicorp.com/tutorials/vault/database-secrets
 
-<https://www.vaultproject.io/docs/secrets/databases>
+https://www.vaultproject.io/docs/secrets/databases
 
 ## Audit Devices
 
@@ -256,20 +256,20 @@ path "prod*" {
 
 3. Create role
 
-<https://www.vaultproject.io/docs/what-is-vault>
+https://www.vaultproject.io/docs/what-is-vault
 
-<https://github.com/hashicorp/vault>
+https://github.com/hashicorp/vault
 
-<https://www.vaultproject.io/docs/internals/architecture>
+https://www.vaultproject.io/docs/internals/architecture
 
-<https://learn.hashicorp.com/vault>
+https://learn.hashicorp.com/vault
 
-<https://blog.container-solutions.com/secret-sprawl-and-the-challenges-of-modern-enterprise-security>
+https://blog.container-solutions.com/secret-sprawl-and-the-challenges-of-modern-enterprise-security
 
-<https://www.hashicorp.com/blog/dynamic-database-credentials-with-vault-and-kubernetes>
+https://www.hashicorp.com/blog/dynamic-database-credentials-with-vault-and-kubernetes
 
 [Kubernetes Secret Management guide beginners using Vault](https://www.youtube.com/playlist?list=PLHq1uqvAteVtq-NRX3yd1ziA_wJSBu3Oj)
 
 ## Comparison
 
-<https://www.cncf.io/announcements/2021/02/23/cncf-provides-insights-into-secrets-management-tools-with-latest-end-user-technology-radar>
+https://www.cncf.io/announcements/2021/02/23/cncf-provides-insights-into-secrets-management-tools-with-latest-end-user-technology-radar

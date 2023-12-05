@@ -4,7 +4,7 @@
 
 ![image](../../media/Digestive-System-image1.jpg)
 
-<https://en.wikipedia.org/wiki/Human_feces>
+https://en.wikipedia.org/wiki/Human_feces
 
 ## Bristol stool chart
 
@@ -18,7 +18,7 @@ The Bristol Stool Chart shows seven categories of stool. Every person will have 
 - [Type 3--4 are ideal stools](https://www.continence.org.au/pages/about-your-bowel.html) as they are easier to pass
 - [Type 5--7 may indicate diarrhoea and urgency.](https://www.continence.org.au/pages/diarrhoea.html)
 
-<https://www.continence.org.au/pages/bristol-stool-chart.html>
+https://www.continence.org.au/pages/bristol-stool-chart.html
 
 [Steps of Diagnostic Upper GI Endoscopy - Dr S Easwaramoorthy - YouTube](https://www.youtube.com/watch?v=1sbDbe4F6cc&ab_channel=IAGESChannel)
 

@@ -53,6 +53,6 @@ Obligate the parties to transact an asset at a predetermined future date and pri
 - Cash based settlement
 - Delivery based settlement
 
-<https://zerodha.com/varsity>
+https://zerodha.com/varsity
 
-<https://risk.learnapp.co/quiz>
+https://risk.learnapp.co/quiz

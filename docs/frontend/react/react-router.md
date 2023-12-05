@@ -4,23 +4,23 @@ This is of high significance as it's anentry point of your application. There ca
 
 react-router **contains all the common components between** react-router-dom and **react-router-native**. When should you use one over the other? If you're on the web then**react-router-dom**should have everything you need as it also exports the common components you'll need. If you're using React Native, **react-router-native** should have everything you need for the same reason. So you'll probably never have to import anything directly from react-router
 
-<https://www.freecodecamp.org/news/a-complete-beginners-guide-to-react-router-include-router-hooks>
+https://www.freecodecamp.org/news/a-complete-beginners-guide-to-react-router-include-router-hooks
 
 [**https://www.freecodecamp.org/news/learn-react-router-6/**](https://www.freecodecamp.org/news/learn-react-router-6/)
 
 A Complete Guide to React Router: Everything You Need to Know
 
-<https://ui.dev/react-router-tutorial>
+https://ui.dev/react-router-tutorial
 
-<https://reactrouter.com/docs/en/v6/getting-started/tutorial>
+https://reactrouter.com/docs/en/v6/getting-started/tutorial
 
-<https://reactrouter.com>
+https://reactrouter.com
 
 React Router is a lightweight, fully-featured routing library for the [React](https://reactjs.org/) JavaScript library. React Router runs everywhere that React runs; on the web, on the server (using node.js), and on React Native.
 
-<https://github.com/remix-run/react-router/blob/main/docs/getting-started/installation>
+https://github.com/remix-run/react-router/blob/main/docs/getting-started/installation
 
-<https://github.com/remix-run/react-router/blob/main/docs/getting-started/tutorial>
+https://github.com/remix-run/react-router/blob/main/docs/getting-started/tutorial
 
 - Configuring Routes
 - Navigating with Link
@@ -50,7 +50,7 @@ Link component is used to create links to different routes and implement navigat
 
 Switch component is used to render only the first route that matches the location rather than rendering all matching routes. Although there is no defying functionality of SWITCH tag in our application because none of the LINK paths are ever going to coincide. But let's say we have a route(Note that there is no EXACT in here), then all the Route tags are going to be processed which start with '/' (all Routes start with /). This is where we need SWITCH statement to process only one of the statements.
 
-<https://www.geeksforgeeks.org/reactjs-router>
+https://www.geeksforgeeks.org/reactjs-router
 
 ## React-Router
 

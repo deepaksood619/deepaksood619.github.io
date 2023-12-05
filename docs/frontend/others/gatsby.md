@@ -34,9 +34,9 @@ gatsby build
 gatsby build --prefix-paths
 ```
 
-<https://www.gatsbyjs.org>
+https://www.gatsbyjs.org
 
-<https://github.com/gatsbyjs/gatsby>
+https://github.com/gatsbyjs/gatsby
 
 ### Plugins
 
@@ -80,7 +80,7 @@ src="https://pbs.twimg.com/media/E1oMV3QVgAIr1NT?format=jpg&name=large"
 
 gatsby-plugin-mdx is a transformer plugin that lets you use MDX in your site. With MDX, you can create text content with Markdown formatting and embedded React components.
 
-<https://www.gatsbyjs.com/plugins>
+https://www.gatsbyjs.com/plugins
 
 ### Querying data
 
@@ -88,13 +88,13 @@ Gatsby has a powerful feature called the data layer that you can use to pull dat
 
 Gatsby’s data layer is powered by a technology called GraphQL. GraphQL is a query language with a special syntax that lets you ask for the data you need inside a component.
 
-<https://www.gatsbyjs.com/docs/tutorial/part-4>
+https://www.gatsbyjs.com/docs/tutorial/part-4
 
 ### Themes
 
-<https://gatsby-theme-document.netlify.app>
+https://gatsby-theme-document.netlify.app
 
-<https://github.com/codebushi/gatsby-theme-document>
+https://github.com/codebushi/gatsby-theme-document
 
 ```bash
 npm install gatsby-theme-primer-wiki
@@ -105,8 +105,8 @@ npm install --force
 gatsby develop
 ```
 
-<https://rocketdocs.gatsbyjs.io/usage/using-yaml-files>
+https://rocketdocs.gatsbyjs.io/usage/using-yaml-files
 
 ## Optimizations
 
-<https://www.gatsbyjs.com/docs/how-to/performance/improving-build-performance/#query-only-needed-fields-in-createpages>
+https://www.gatsbyjs.com/docs/how-to/performance/improving-build-performance/#query-only-needed-fields-in-createpages

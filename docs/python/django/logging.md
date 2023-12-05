@@ -142,6 +142,6 @@ l.addHandler(logging.StreamHandler())
 
 ## References
 
-<https://docs.djangoproject.com/en/2.0/topics/logging>
+https://docs.djangoproject.com/en/2.0/topics/logging
 
-<https://djangodeconstructed.com/2018/12/18/django-and-python-logging-in-plain-english>
+https://djangodeconstructed.com/2018/12/18/django-and-python-logging-in-plain-english

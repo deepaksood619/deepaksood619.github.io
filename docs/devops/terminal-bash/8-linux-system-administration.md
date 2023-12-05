@@ -80,9 +80,9 @@ stderr_logfile_maxbytes=0
 
 `/bin/bash -c /usr/bin/supervisord`
 
-<http://supervisord.org>
+http://supervisord.org
 
-<https://www.digitalocean.com/community/tutorials/how-to-install-and-manage-supervisor-on-ubuntu-and-debian-vps>
+https://www.digitalocean.com/community/tutorials/how-to-install-and-manage-supervisor-on-ubuntu-and-debian-vps
 
 ## fsck
 
@@ -90,12 +90,12 @@ filesystem consistency check and interactive repair
 
 The first form of fsck preens a standard set of filesystems or the specified filesystems. It is normally used in the script /etc/rc during automatic reboot. Here fsck reads the filesystem descriptor table (using getfsent(3)) to determine which filesystems to check. Only partitions that have ``rw,''``rq'' or ``ro'' as options, and that have non-zero pass number are checked. Filesystems with pass number 1 (normally just the root filesystem) are checked one at a time. When pass 1 completes, all remaining filesystems are checked, running one process per disk drive. The disk drive containing each filesystem is inferred from the shortest prefix of the device name that ends in one or more digits; the remaining characters are assumed to be the partition designator. In preening mode, filesystems that are marked clean are skipped. Filesystems are marked clean when they are unmounted, when they have been mounted read-only, or when fsck runs on them successfully.
 
-<https://en.wikipedia.org/wiki/Fsck>
+https://en.wikipedia.org/wiki/Fsck
 
 ## swapon / swapoff
 
 enable/disable devices and files for paging and swapping
 
-<https://linux.die.net/man/8/swapoff>
+https://linux.die.net/man/8/swapoff
 
-<https://linux.die.net/man/2/swapoff>
+https://linux.die.net/man/2/swapoff

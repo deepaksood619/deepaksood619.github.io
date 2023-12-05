@@ -6,7 +6,7 @@ MySQL has hard limit of **4096 columns per table**, but the effective maximum ma
 
 - CREATE SCHEMA is a synonym for CREATE DATABASE as of MySQL 5.0.2
 
-<https://dev.mysql.com/doc/refman/5.7/en/innodb-limits.html>
+https://dev.mysql.com/doc/refman/5.7/en/innodb-limits.html
 
 A table can contain a maximum of 64 [secondary indexes](https://dev.mysql.com/doc/refman/5.7/en/glossary.html#glos_secondary_index)
 
@@ -50,7 +50,7 @@ Cobar is a proxy for sharding databases and tables, compatible with MySQL protoc
 - **High availability:** Both Cobar server and underlying MySQL is clustered, business will not suffer with single node fail.
 - **Compatible with MySQL protocol:** Use Cobar as MySQL. You can replace MySQL with Cobar to power your application.
 
-<https://github.com/alibaba/cobar>
+https://github.com/alibaba/cobar
 
 ## InnoDB
 
@@ -64,9 +64,9 @@ Its lead developer/CTO is [Michael "Monty" Widenius](https://en.wikipedia.org/wi
 
 ## MySQL 5 vs MySQL 8
 
-<https://mysqlserverteam.com/whats-new-in-mysql-8-0-generally-available>
+https://mysqlserverteam.com/whats-new-in-mysql-8-0-generally-available
 
-Upgrade Checker - <https://mysqlserverteam.com/upgrading-to-mysql-8-0-here-is-what-you-need-to-know>
+Upgrade Checker - https://mysqlserverteam.com/upgrading-to-mysql-8-0-here-is-what-you-need-to-know
 
 MySQL 8.0 brought enormous changes and modifications that were pushed by the Oracle MySQL Team.
 
@@ -75,10 +75,10 @@ MySQL 8.0 brought enormous changes and modifications that were pushed by the Ora
 - Data dictionary has also changed. It's now incorporated with a transactional data dictionary that stores information about database objects. Unlike previous versions, dictionary data was stored in metadata files and non-transactional tables.
 - Security has been improved with the new addition ofcaching_sha2_passwordwhich is now the default authentication replacingmysql_native_passwordand offers more flexibility but tightened security which must use either a secure connection or an unencrypted connection that supports password exchange using an RSA key pair.
 - **The benchmark results reveals that there has been an impressive improvement, not only on managing read workloads, but also on a high read/write workload comparing to MySQL 5.7.**
-- <https://dev.mysql.com/doc/refman/8.0/en/create-index.html#create-index-functional-key-parts>
+- https://dev.mysql.com/doc/refman/8.0/en/create-index.html#create-index-functional-key-parts
 - Resource Groups
-  - <https://dev.mysql.com/doc/refman/5.7/en/user-resources.html>
-  - <https://dzone.com/articles/mysql-8-load-fine-tuning-with-resource-groups>
+  - https://dev.mysql.com/doc/refman/5.7/en/user-resources.html
+  - https://dzone.com/articles/mysql-8-load-fine-tuning-with-resource-groups
 
 ## Important
 
@@ -87,6 +87,6 @@ MySQL 8.0 brought enormous changes and modifications that were pushed by the Ora
 
 ## Resources
 
-<https://dev.mysql.com/doc/refman/5.7/en/glossary.html>
+https://dev.mysql.com/doc/refman/5.7/en/glossary.html
 
-<https://github.com/shlomi-noach/awesome-mysql>
+https://github.com/shlomi-noach/awesome-mysql

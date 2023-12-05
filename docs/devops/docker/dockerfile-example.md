@@ -75,11 +75,11 @@ ADD . /root/example/
 EXPOSE 5555 8070 8071 8080 8888 9104
 ```
 
-<https://docs.docker.com/develop/develop-images/dockerfile_best-practices>
+https://docs.docker.com/develop/develop-images/dockerfile_best-practices
 
 ### Python - Multistage builds
 
-<https://blog.realkinetic.com/building-minimal-docker-containers-for-python-applications-37d0272c52f3>
+https://blog.realkinetic.com/building-minimal-docker-containers-for-python-applications-37d0272c52f3
 
 ### NODE JS Dockerfile
 

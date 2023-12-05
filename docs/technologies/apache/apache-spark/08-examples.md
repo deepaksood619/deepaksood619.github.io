@@ -130,7 +130,7 @@ spark.catalog.tableExists("schema.dev.table_name")
 
 ```
 
-<https://towardsdatascience.com/a-brief-introduction-to-pyspark-ff4284701873>
+https://towardsdatascience.com/a-brief-introduction-to-pyspark-ff4284701873
 
 ### Queries
 

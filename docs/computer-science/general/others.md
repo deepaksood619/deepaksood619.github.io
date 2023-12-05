@@ -8,7 +8,7 @@ Pairwise distinct - All elements are unique
 
 In [computer programming](https://en.wikipedia.org/wiki/Computer_programming), **indirection** (also called **dereferencing**) is the ability to reference something using a name, reference, or container instead of the value itself. The most common form of indirection is the act of manipulating a value through its [memory address](https://en.wikipedia.org/wiki/Memory_address). For example, accessing a [variable](https://en.wikipedia.org/wiki/Variable_(programming)) through the use of a [pointer](https://en.wikipedia.org/wiki/Pointer_(computer_programming)). A stored pointer that exists to provide a reference to an object by double indirection is called an *indirection node*. In some older computer architectures, indirect words supported a variety of more-or-less complicated [addressing modes](https://en.wikipedia.org/wiki/Addressing_mode).
 
-<https://en.wikipedia.org/wiki/Indirection>
+https://en.wikipedia.org/wiki/Indirection
 
 ## Frequency Cap
 
@@ -20,7 +20,7 @@ Redis has a [HyperLogLog data type](https://redis.io/commands/pfcount) that is p
 
 In [mathematics](https://en.wikipedia.org/wiki/Mathematics) and in [computer programming](https://en.wikipedia.org/wiki/Computer_programming), a **variadic function** is a [function](https://en.wikipedia.org/wiki/Function_(programming)) of indefinite [arity](https://en.wikipedia.org/wiki/Arity), i.e., one which accepts a variable number of [arguments](https://en.wikipedia.org/wiki/Argument_(computer_science)). Support for variadic functions differs widely among [programming languages](https://en.wikipedia.org/wiki/Programming_language).
 
-<https://en.wikipedia.org/wiki/Variadic_function>
+https://en.wikipedia.org/wiki/Variadic_function
 
 ## GILT
 
@@ -76,7 +76,7 @@ However, translation alone is not sufficient due to its word-for-word approach, 
 | Hardware virtualization reboot | 40 s            | 4000 years            |
 | Physical system reboot         | 5 m             | 32 millenia           |
 
-<https://blog.codinghorror.com/the-infinite-space-between-words>
+https://blog.codinghorror.com/the-infinite-space-between-words
 
 [Technology Size Comparison 🤯🤯 3D Animation - YouTube](https://www.youtube.com/watch?v=gfOD-Qpl6eg)
 
@@ -88,4 +88,4 @@ However, translation alone is not sufficient due to its word-for-word approach, 
 
 ![image](../../media/Others-image2-general.jpg)
 
-RAIL Model - <https://web.dev/rail>
+RAIL Model - https://web.dev/rail

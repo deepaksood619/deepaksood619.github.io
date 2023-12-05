@@ -11,7 +11,7 @@
 9. Model Presentation
 10. Model Predictions
 
-<https://machinelearningmastery.com/statistical-methods-in-an-applied-machine-learning-project>
+https://machinelearningmastery.com/statistical-methods-in-an-applied-machine-learning-project
 
 ![image](../../media/Intro-ds-hierarchy-image1.jpg)
 
@@ -78,11 +78,11 @@ Value interpretation - dates and times, units of measurement, missing values
 
 Data handling - querying, slicing, joining
 
-<https://brohrer.github.io/data_science_archetypes.html>
+https://brohrer.github.io/data_science_archetypes.html
 
 ## Interview Questions
 
-<https://www.toptal.com/data-science#hiring-guide>
+https://www.toptal.com/data-science#hiring-guide
 
 ## Questions for any new data science project
 
@@ -136,13 +136,13 @@ Ethical Principles around Data
 
 ODPi creates open source standards to help you use and understand data across all platforms.
 
-<https://www.odpi.org>
+https://www.odpi.org
 
-<https://searchdatamanagement.techtarget.com/definition/data-governance>
+https://searchdatamanagement.techtarget.com/definition/data-governance
 
-<https://en.wikipedia.org/wiki/Data_governance>
+https://en.wikipedia.org/wiki/Data_governance
 
-<https://www.oreilly.com/content/data-governance-and-the-death-of-schema-on-read>
+https://www.oreilly.com/content/data-governance-and-the-death-of-schema-on-read
 
 ## Topic Models
 
@@ -205,7 +205,7 @@ These are the folks who maintain the Hadoop cluster / big data infrastructure. A
 
 [Machine Learning Engineer vs Data Scientist vs Data Engineer](https://youtu.be/1xKzPBwBdn8)
 
-<https://www.analyticsvidhya.com/blog/2021/04/top-30-mcqs-to-ace-your-data-science-questions-interviews>
+https://www.analyticsvidhya.com/blog/2021/04/top-30-mcqs-to-ace-your-data-science-questions-interviews
 
 [Learn Python for Data Science](https://www.youtube.com/playlist?list=PL2-dafEMk2A6QKz1mrk1uIGfHkC1zZ6UU)
 

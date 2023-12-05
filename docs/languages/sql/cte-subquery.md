@@ -7,7 +7,7 @@
 - Subqueries can return individual values or a list of records
 - Subqueries must be enclosed with parenthesis
 
-<https://www.dofactory.com/sql/subquery>
+https://www.dofactory.com/sql/subquery
 
 ### Scalar Subquery
 
@@ -75,10 +75,10 @@ xyz as (
 select * from abc join xyz on abc.id = xyz.id;
 ```
 
-<https://dev.to/helenanders26/why-you-should-use-sql-ctes-25lk>
+https://dev.to/helenanders26/why-you-should-use-sql-ctes-25lk
 
-<https://www.geeksforgeeks.org/cte-in-sql>
+https://www.geeksforgeeks.org/cte-in-sql
 
-<https://www.essentialsql.com/introduction-common-table-expressions-ctes>
+https://www.essentialsql.com/introduction-common-table-expressions-ctes
 
 [Learn to Use a Recursive CTE in SQL Query - StrataScratch](https://www.stratascratch.com/blog/learn-to-use-a-recursive-cte-in-sql-query)

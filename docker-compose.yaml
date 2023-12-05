@@ -14,6 +14,7 @@ services:
             - DEBUG=True
         ports:
             - 8000:8000
+            - 3000:3000
         entrypoint:
             - /bin/bash
             - -c
@@ -40,5 +41,9 @@ services:
                 # git subtree push --prefix .layouts/public origin gh-pages
                 # git subtree push --prefix .layouts/public https://deepaksood619:xxx@github.com/deepaksood619/deepaksood619.github.io.git gh-pages
 
-        # volumes:
-        #     - .:/app/
+                # running docusaurus locally
+                # npm ci
+                # npm start
+
+        volumes:
+            - .:/app/

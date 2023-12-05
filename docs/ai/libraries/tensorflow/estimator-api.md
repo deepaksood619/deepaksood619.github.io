@@ -134,4 +134,4 @@
 
 ![image](../../../media/TensorFlow_Estimator-API-image57.jpg)
 
-<http://onlinetutorials.today/tensorflow/tensorflow-interview-questions-and-answers>
+http://onlinetutorials.today/tensorflow/tensorflow-interview-questions-and-answers

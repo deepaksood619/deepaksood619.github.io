@@ -14,39 +14,39 @@ IPFS is a peer-to-peer distributed file system that seeks to connect all computi
 - When looking up files, you're asking the network to find nodes storing the content behind a unique hash.
 - Every file can be found by human-readable names using a decentralized naming system called IPNS.
 
-<https://ipfs.io>
+https://ipfs.io
 
-<https://en.wikipedia.org/wiki/InterPlanetary_File_System>
+https://en.wikipedia.org/wiki/InterPlanetary_File_System
 
 ## Orbit Chat
 
 A distributed, serverless, peer-to-peer chat application on IPFS
 
-<https://github.com/orbitdb/orbit>
+https://github.com/orbitdb/orbit
 
 ## OrbitDB
 
 Peer-to-Peer Databases for the Decentralized Web
 
-<https://github.com/orbitdb>
+https://github.com/orbitdb
 
 ## OpenBazaar
 
 OpenBazaar is an open source project developing a protocol for [e-commerce](https://en.wikipedia.org/wiki/E-commerce) transactions in a fully [decentralized](https://en.wikipedia.org/wiki/Decentralization) marketplace. It uses [cryptocurrencies](https://en.wikipedia.org/wiki/Cryptocurrency) as medium of exchange and was inspired by a [hackathon](https://en.wikipedia.org/wiki/Hackathon) project called - DarkMarket
 
-<https://en.wikipedia.org/wiki/OpenBazaar>
+https://en.wikipedia.org/wiki/OpenBazaar
 
-<https://openbazaar.org>
+https://openbazaar.org
 
 ## EOS Storage
 
 EOS.IO Storage is a proposed decentralized file system designed to give everyone the ability to permanently store and host files accessible by any web browser.
 
-<https://medium.com/eosio/start-an-eos-meetup-in-your-community-761be355fce>
+https://medium.com/eosio/start-an-eos-meetup-in-your-community-761be355fce
 
-Earth Observation System - <https://eos.com/eos-storage>
+Earth Observation System - https://eos.com/eos-storage
 
-<https://github.com/cern-eos/eos>
+https://github.com/cern-eos/eos
 
 ## XRootD
 
@@ -54,7 +54,7 @@ The XROOTD project aims at giving high performance, scalable fault tolerant acce
 
 XRootD software framework is a fully generic suite for fast, low latency and scalable data access, which can serve natively any kind of data, organized as a hierarchical filesystem-like namespace, based on the concept of directory. As a general rule, particular emphasis has been put in the quality of the core software parts.
 
-<http://xrootd.org>
+http://xrootd.org
 
 ## Bittorrent
 
@@ -75,13 +75,13 @@ XRootD software framework is a fully generic suite for fast, low latency and sca
 - 📌 Routing Table
 - 🤺 Attacks on BitTorrent
 
-<https://dev.to/brandonskerritt/how-does-bittorrent-work-a-plain-english-guide-16a2>
+https://dev.to/brandonskerritt/how-does-bittorrent-work-a-plain-english-guide-16a2
 
-<https://skerritt.blog/bit-torrent>
+https://skerritt.blog/bit-torrent
 
 ### WebTorrent
 
-<https://github.com/webtorrent/webtorrent>
+https://github.com/webtorrent/webtorrent
 
 ## DApps
 
@@ -97,7 +97,7 @@ XRootD software framework is a fully generic suite for fast, low latency and sca
 
 ### Decentralized database
 
-<https://gun.eco>
+https://gun.eco
 
 [GUN Decentralized Graph DB in 100 Seconds](https://www.youtube.com/watch?v=oTQXzhm8w_8)
 
@@ -116,7 +116,7 @@ XRootD software framework is a fully generic suite for fast, low latency and sca
 ![image](../media/decentral-Intro-image2.jpg)
 
 - Darkness as a feature
-    <https://github.com/llSourcell/Decentralized_Chat/blob/master/Decentralized%20Chat.ipynb>
+    https://github.com/llSourcell/Decentralized_Chat/blob/master/Decentralized%20Chat.ipynb
 - Decentralized News
 - Decentralized Games
 - Decentralized Rides

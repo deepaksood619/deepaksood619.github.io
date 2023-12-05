@@ -12,7 +12,7 @@
 
    - ex- graph colouring (To color a map with no more than four colors)
 
-<https://www.freecodecamp.org/news/solve-coding-interview-backtracking-problem>
+https://www.freecodecamp.org/news/solve-coding-interview-backtracking-problem
 
 3. Divide and conquer algorithms
 

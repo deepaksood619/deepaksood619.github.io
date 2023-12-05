@@ -36,12 +36,12 @@ Processing all queries takes**O(n * √n)**+**O(m * √n)**=**O((m+n) * √n)**t
 
 ## More
 
-<https://www.geeksforgeeks.org/range-minimum-query-for-static-array>
+https://www.geeksforgeeks.org/range-minimum-query-for-static-array
 
-<https://www.geeksforgeeks.org/segment-tree-set-1-range-minimum-query>
+https://www.geeksforgeeks.org/segment-tree-set-1-range-minimum-query
 
-<https://www.geeksforgeeks.org/mos-algorithm-query-square-root-decomposition-set-1-introduction>
+https://www.geeksforgeeks.org/mos-algorithm-query-square-root-decomposition-set-1-introduction
 
-<https://cp-algorithms.com/data_structures/sqrt_decomposition.html>
+https://cp-algorithms.com/data_structures/sqrt_decomposition.html
 
-<https://www.geeksforgeeks.org/sqrt-square-root-decomposition-technique-set-1-introduction>
+https://www.geeksforgeeks.org/sqrt-square-root-decomposition-technique-set-1-introduction

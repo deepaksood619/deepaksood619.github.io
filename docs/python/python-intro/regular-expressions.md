@@ -262,6 +262,6 @@ When using a regular expression inside a loop, always use compile and then check
 
 ## References
 
-<https://docs.python.org/3/howto/regex.html>
+https://docs.python.org/3/howto/regex.html
 
-<https://www.tutorialspoint.com/python3/python_reg_expressions.htm>
+https://www.tutorialspoint.com/python3/python_reg_expressions.htm

@@ -134,8 +134,8 @@ We use this term informally to refer to any consumer of a service, be that a hum
 
 ## References
 
-<https://www.reactivemanifesto.org>
+https://www.reactivemanifesto.org
 
-<https://www.reactivemanifesto.org/glossary>
+https://www.reactivemanifesto.org/glossary
 
 [The Reactive Revolution • Josh Long • YOW! 2019 - YouTube](https://www.youtube.com/watch?v=eIcrMh79Jq8)

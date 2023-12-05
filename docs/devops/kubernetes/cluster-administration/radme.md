@@ -36,4 +36,4 @@ The federated clusters can achieve this by doing the following two things
 
 ![image](../../../media/DevOps-Kubernetes-Cluster-Administration-image1.jpg)
 
-<https://github.com/kubernetes-sigs/kubefed>
+https://github.com/kubernetes-sigs/kubefed

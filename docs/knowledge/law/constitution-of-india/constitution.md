@@ -1194,9 +1194,9 @@ Distribution of Revenues between the Union and the States
 
 395 Repeals.
 
-<https://www.clearias.com/constitution-of-india>
+https://www.clearias.com/constitution-of-india
 
-<https://en.wikipedia.org/wiki/Constitution_of_India>
+https://en.wikipedia.org/wiki/Constitution_of_India
 
 ## Basic Structure of the Constitution
 

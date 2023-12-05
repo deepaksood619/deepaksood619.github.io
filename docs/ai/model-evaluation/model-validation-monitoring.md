@@ -36,4 +36,4 @@ Once the model is deployed, the model monitoring processes ensure the relevance 
 
 This is the most important distinction between the two stages. In the model validation stage, we focus majorly on the statistical metrics that can decode the model performance and response for us. Whereas in the model monitoring stage, we focus both on the statistical as well the business metrics to derive our conclusion of being confident in the relevance and the reliability of a particular model.
 
-<https://towardsdatascience.com/why-is-model-validation-so-darn-important-and-how-is-it-different-from-model-monitoring-61dc7565b0c>
+https://towardsdatascience.com/why-is-model-validation-so-darn-important-and-how-is-it-different-from-model-monitoring-61dc7565b0c

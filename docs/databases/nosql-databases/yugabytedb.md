@@ -20,10 +20,10 @@ The core features of YugabyteDB include:
 - Deployable in public clouds, natively with Kubernetes, or on its own managed services.
 - 100% open source with powerful enterprise features such as distributed backups, encryption of data at rest, in-flight TLS encryption, change data capture, and read replicas.
 
-<https://github.com/yugabyte/yugabyte-db>
+https://github.com/yugabyte/yugabyte-db
 
-<https://docs.yugabyte.com/latest/comparisons>
+https://docs.yugabyte.com/latest/comparisons
 
-<https://docs.yugabyte.com/latest/architecture/design-goals>
+https://docs.yugabyte.com/latest/architecture/design-goals
 
 [YugabyteDB supports read committed isolation - YouTube](https://www.youtube.com/watch?v=4ZiFKWOPvoc&ab_channel=HusseinNasser)

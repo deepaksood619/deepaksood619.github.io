@@ -42,7 +42,7 @@ dog = Dog()
 dog.my_method() # Prints "I am a Dog"
 ```
 
-<https://realpython.com/python-coding-interview-tips>
+https://realpython.com/python-coding-interview-tips
 
 ```python
 a = 1, b = 2, c = 1, Will the id of object a and c be same?

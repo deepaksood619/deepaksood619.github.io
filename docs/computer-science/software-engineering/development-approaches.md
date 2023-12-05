@@ -100,6 +100,6 @@ I Was an Expert Once Syndrome (IWEOS) - senior-level people "contributing" becau
 
 Angst Ridden Development (ARD) - being alone on a mountaintop fighting back the animals, the invalids, the fear mongerers, the savants and the tired old hags with a single trusty sword made of quality and rationality.
 
-<https://scottberkun.com/2007/asshole-driven-development>
+https://scottberkun.com/2007/asshole-driven-development
 
-<https://gist.github.com/cobyism/b4d66138589a897f001c1f0841bf8511>
+https://gist.github.com/cobyism/b4d66138589a897f001c1f0841bf8511

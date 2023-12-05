@@ -107,7 +107,7 @@ In order to program for data integrity, it is crucial to have an understanding o
 
 At the top is the running application which has data that it needs to save to stable storage. That data starts out as one or more blocks of memory, or buffers, in the application itself. Those buffers can also be handed to a library, which may perform its own buffering. Regardless of whether data is buffered in application buffers or by a library, the data lives in the application's address space. The next layer that the data goes through is the kernel, which keeps its own version of a write-back cache called the page cache. Dirty pages can live in the page cache for an indeterminate amount of time, depending on overall system load and I/O patterns. When dirty data is finally evicted from the kernel's page cache, it is written to a storage device (such as a hard disk). The storage device may further buffer the data in a volatile write-back cache. If power is lost while data is in this cache, the data will be lost. Finally, at the very bottom of the stack is the non-volatile storage. When the data hits this layer, it is considered to be "safe."
 
-<https://lwn.net/Articles/457667>
+https://lwn.net/Articles/457667
 
 ## Access Patterns
 
@@ -139,19 +139,19 @@ A key goal of log-structured systems is sequentialising writes. However, if the 
 
 We've discussed multiple things one has to take into consideration when working with SSDs.Writing complete pages is better than writing data smaller than the page size, since the smallest SSD unit storage is a page. Because updating page will effectively allocate a new page and invalidate the previous one, updates may result into Garbage Collection. It's better to keep the write operations page-aligned in order to avoid additional write multiplication. And last, keeping the data with similar lifecycle together(e.g. the data that would be both written and discarded at the same time) will be beneficial for performance. Most of these points are points speak favour of immutable LSM-like Storage, rather than systems that allows in-place updates: writes are batched and SSTables are written sequentially, files are immutable and, when deleted, the whole file is invalidated at once.
 
-<https://medium.com/databasss/on-disk-io-part-1-flavours-of-io-8e1ace1de017>
+https://medium.com/databasss/on-disk-io-part-1-flavours-of-io-8e1ace1de017
 
-<https://medium.com/databasss/on-disk-io-part-3-lsm-trees-8b2da218496f>
+https://medium.com/databasss/on-disk-io-part-3-lsm-trees-8b2da218496f
 
-<https://medium.com/databasss/on-disk-storage-part-4-b-trees-30791060741>
+https://medium.com/databasss/on-disk-storage-part-4-b-trees-30791060741
 
-<https://medium.com/databasss/on-disk-io-access-patterns-in-lsm-trees-2ba8dffc05f9>
+https://medium.com/databasss/on-disk-io-access-patterns-in-lsm-trees-2ba8dffc05f9
 
 ## IOPS
 
 Input/output operations per second(IOPS, pronouncedeye-ops) is an [input/output](https://en.wikipedia.org/wiki/Input/output) performance measurement used to characterize [computer storage](https://en.wikipedia.org/wiki/Data_storage_device) devices like [hard disk drives](https://en.wikipedia.org/wiki/Hard_disk_drive)(HDD), [solid state drives](https://en.wikipedia.org/wiki/Solid_state_drives)(SSD), and [storage area networks](https://en.wikipedia.org/wiki/Storage_area_network)(SAN). Like [benchmarks](https://en.wikipedia.org/wiki/Benchmark), IOPS numbers published by storage device manufacturers do not directly relate to real-world application performance.
 
-<https://en.wikipedia.org/wiki/IOPS>
+https://en.wikipedia.org/wiki/IOPS
 
 ## Wear Leveling
 
@@ -172,19 +172,19 @@ A solid-state-storage program-erase cycle is a sequence of events in which data 
 
 Some disagreement exists in the literature as to the maximum number of PE cycles that each type of technology can execute while maintaining satisfactory performance. For MLC, typical maximum PE-cycle-per-[block](https://searchsqlserver.techtarget.com/definition/block) numbers range from 1500 to 10,000. For E-MLC, numbers range up to approximately 30,000 PE cycles per block. For SLC, devices can execute up to roughly 100,000 PE cycles per block.
 
-<https://www.mydigitaldiscount.com/everything-you-need-to-know-about-slc-mlc-and-tlc-nand-flash.html>
+https://www.mydigitaldiscount.com/everything-you-need-to-know-about-slc-mlc-and-tlc-nand-flash.html
 
 ## Distributed Asynchronous Object Storage (DAOS)
 
 The Distributed Asynchronous Object Storage (DAOS) is an open-source software-defined object store designed from the ground up for massively distributed Non Volatile Memory (NVM). DAOS takes advantage of next generation NVM technology like Storage Class Memory (SCM) and NVM express (NVMe) while presenting a key-value storage interface and providing features such as transactional non-blocking I/O, advanced data protection with self healing on top of commodity hardware, end-to-end data integrity, fine grained data control and elastic storage to optimize performance and cost.
 
-<https://github.com/daos-stack/daos>
+https://github.com/daos-stack/daos
 
-<https://www.sigarch.org/from-flops-to-iops-the-new-bottlenecks-of-scientific-computing>
+https://www.sigarch.org/from-flops-to-iops-the-new-bottlenecks-of-scientific-computing
 
 ## Anatomy of SSD / HDD
 
-<https://www.techspot.com/amp/article/1985-anatomy-ssd>
+https://www.techspot.com/amp/article/1985-anatomy-ssd
 
 [How does this SSD store 8TB of Data? || Inside the Engineering of Solid-State Drive Architecture - YouTube](https://www.youtube.com/watch?v=r-SivgEpA1Q)
 

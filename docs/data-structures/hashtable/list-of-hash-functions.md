@@ -70,7 +70,7 @@ Main article:[Universal hashing](https://en.wikipedia.org/wiki/Universal_hashing
 
 ## Keyed cryptographic hash functions
 
-<https://en.wikipedia.org/wiki/Message_authentication_code>
+https://en.wikipedia.org/wiki/Message_authentication_code
 
 | **Name** | **Tag Length** | **hideType** |
 |---|---|---|
@@ -87,9 +87,9 @@ Main article:[Universal hashing](https://en.wikipedia.org/wiki/Universal_hashing
 
 ## Unkeyed cryptographic hash functions
 
-<https://en.wikipedia.org/wiki/Cryptographic_hash_function>
+https://en.wikipedia.org/wiki/Cryptographic_hash_function
 
-<https://en.wikipedia.org/wiki/Comparison_of_cryptographic_hash_functions>
+https://en.wikipedia.org/wiki/Comparison_of_cryptographic_hash_functions
 
 | **Name** | **Length** | **hideType** |
 |---|---|---|

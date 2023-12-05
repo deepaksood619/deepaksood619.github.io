@@ -30,7 +30,7 @@ Once the application instances are created, a Kubernetes Deployment Controller c
 
 ![image](../../../media/DevOps-Kubernetes-Controllers-image1.jpg)
 
-<https://learnk8s.io/kubernetes-rollbacks>
+https://learnk8s.io/kubernetes-rollbacks
 
 ## StatefulSet
 
@@ -49,9 +49,9 @@ StatefulSets are valuable for applications that require one or more of the follo
 - The StatefulSet, named web, has a Spec that indicates that 3 replicas of the nginx container will be launched in unique Pods.
 - The volumeClaimTemplates will provide stable storage using [PersistentVolumes](https://kubernetes.io/docs/concepts/storage/persistent-volumes/) provisioned by a PersistentVolume Provisioner.
 
-<https://kubernetes.io/docs/tutorials/stateful-application/basic-stateful-set>
+https://kubernetes.io/docs/tutorials/stateful-application/basic-stateful-set
 
-<https://kubernetes.io/docs/tasks/run-application/run-single-instance-stateful-application>
+https://kubernetes.io/docs/tasks/run-application/run-single-instance-stateful-application
 
 Kubernetes StatefulSets gives you a set of resources to deal with stateful containers, such as volumes, stable network IDs, ordinal indexes from 0 to N, etc. Volumes are one of the key features that allow us to run stateful applications on top of Kubernetes.
 
@@ -77,7 +77,7 @@ Some typical uses of a DaemonSet are:
 
 The role of the Kubernetes garbage collector is to delete certain objects that once had an owner, but no longer have an owner.
 
-<https://kubernetes.io/docs/concepts/workloads/controllers/garbage-collection>
+https://kubernetes.io/docs/concepts/workloads/controllers/garbage-collection
 
 ## TTL Controller
 
@@ -136,4 +136,4 @@ One CronJob object is like one line of acrontab(cron table) file. It runs a job 
 
 A CronJob is basically a Kubernetes Job with time-based scheduling and some specific parameters to handle failure. Each Kubernetes Job creates 1 to n pod. Those pods run a program defined for the task and exit when the task is over.
 
-<https://kubernetes.io/docs/concepts/architecture/controller>
+https://kubernetes.io/docs/concepts/architecture/controller

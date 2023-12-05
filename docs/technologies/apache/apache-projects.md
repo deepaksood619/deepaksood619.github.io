@@ -45,9 +45,9 @@ Arrow Flight provides a high-performance wire protocol for large-volume data tra
 - Pluggable command execution layer, authentication
 - Low-level gRPC optimizations to avoid unnecessay serialization
 
-<https://www.dremio.com/understanding-apache-arrow-flight>
+https://www.dremio.com/understanding-apache-arrow-flight
 
-<https://www.dremio.com/apache-arrow-explained>
+https://www.dremio.com/apache-arrow-explained
 
 - [AsterixDB](http://asterixdb.apache.org/)
 - [Atlas](http://atlas.apache.org/)
@@ -71,7 +71,7 @@ Programming model for batch and streaming data processing
 
 A scalable, fault-tolerant, and low-latency storage service optimized for real-time workloads
 
-<https://streaml.io/blog/why-apache-bookkeeper>
+https://streaml.io/blog/why-apache-bookkeeper
 
 - [Brooklyn](http://brooklyn.apache.org/)
 - [Buildr](http://buildr.apache.org/)
@@ -90,7 +90,7 @@ A scalable, fault-tolerant, and low-latency storage service optimized for real-t
 
 Apache Chukwa is an open source data collection system for monitoring large distributed systems. Apache Chukwa is built on top of the Hadoop Distributed File System (HDFS) and Map/Reduce framework and inherits Hadoop's scalability and robustness. Apache Chukwa also includes a ﬂexible and powerful toolkit for displaying, monitoring and analyzing results to make the best use of the collected data.
 
-<https://chukwa.apache.org>
+https://chukwa.apache.org
 
 - [Clerezza](http://clerezza.apache.org/)
 - [CloudStack](http://cloudstack.apache.org/)
@@ -106,7 +106,7 @@ Store your datasafely, on your own servers, or with any leading cloud provider. 
 
 [The Couch Replication Protocol](http://docs.couchdb.org/en/stable/replication/protocol.html) lets your data flow seamlessly between server clusters to mobile phones and web browsers, enabling a compelling [offline-first](http://offlinefirst.org/) user-experience while maintaining high performance and strong reliability. CouchDB comes with adeveloper-friendlyquery language, and optionally MapReduce for simple, efficient, and comprehensive data retrieval.
 
-<https://docs.couchdb.org/en/stable/intro/index.html>
+https://docs.couchdb.org/en/stable/intro/index.html
 
 - [Creadur](http://creadur.apache.org/)
 - [Crunch](http://crunch.apache.org/)
@@ -156,7 +156,7 @@ Data governance engine for Hadoop clusters
 
 Streaming dataflow engine for Java
 
-<https://dzone.com/articles/introduction-to-streaming-etl-with-apache-flink>
+https://dzone.com/articles/introduction-to-streaming-etl-with-apache-flink
 
 - [Flume](http://flume.apache.org/)
 
@@ -220,7 +220,7 @@ Streaming data ingestion for Hadoop
 
   Apache Hudi ingests & manages storage of large analytical datasets over DFS (hdfs or cloud stores).
 
-<https://hudi.apache.org>
+https://hudi.apache.org
 
 ## I
 
@@ -243,7 +243,7 @@ Streaming data ingestion for Hadoop
   - Time Travel and Rollback
   - Data Compaction
 
-  <https://iceberg.apache.org>
+  https://iceberg.apache.org
 
 ## J
 
@@ -272,7 +272,7 @@ Streaming data ingestion for Hadoop
 
   A Kudu cluster stores tables that look just like tables you're used to from relational (SQL) databases. A table can be as simple as a binarykey andvalue, or as complex as a few hundred different strongly-typed attributes.
 
-  <https://kudu.apache.org>
+  https://kudu.apache.org
 
 - [Kylin](http://kylin.apache.org/)
 
@@ -373,7 +373,7 @@ Streaming data ingestion for Hadoop
   - Integrated compression, indexes, and stats
   - Support for predicate pushdown
 
-  <https://orc.apache.org>
+  https://orc.apache.org
 
 ## P
 
@@ -389,9 +389,9 @@ Streaming data ingestion for Hadoop
 
   Apache Phoenixis an [open source](https://en.wikipedia.org/wiki/Open-source_software), [massively parallel](https://en.wikipedia.org/wiki/Massively_parallel_(computing)), [relational database](https://en.wikipedia.org/wiki/Relational_database) engine supporting [OLTP](https://en.wikipedia.org/wiki/OLTP) for Hadoop using [Apache HBase](https://en.wikipedia.org/wiki/Apache_HBase) as its backing store. Phoenix provides a [JDBC](https://en.wikipedia.org/wiki/Java_Database_Connectivity) driver that hides the intricacies of the noSQL store enabling users to create, delete, and alter SQL tables, views, indexes, and sequences; insert and delete rows singly and in bulk; and query data through [SQL](https://en.wikipedia.org/wiki/SQL).Phoenix compiles queries and other statements into native noSQL store APIs rather than using [MapReduce](https://en.wikipedia.org/wiki/MapReduce) enabling the building of low latency applications on top of noSQL stores.
 
-  <https://phoenix.apache.org>
+  https://phoenix.apache.org
 
-  <https://en.wikipedia.org/wiki/Apache_Phoenix>
+  https://en.wikipedia.org/wiki/Apache_Phoenix
 
 - [Pig](http://pig.apache.org/)
 
@@ -411,13 +411,13 @@ Streaming data ingestion for Hadoop
 - Support for multivalued fields
 - Horizontally scalable and fault tolerant
 
-<https://github.com/apache/incubator-pinot>
+https://github.com/apache/incubator-pinot
 
-<https://engineering.linkedin.com/blog/2019/03/pinot-joins-apache-incubator>
+https://engineering.linkedin.com/blog/2019/03/pinot-joins-apache-incubator
 
 ## User Facing Analytics / Site Facing Analytics
 
-<https://www.youtube.com/watch?v=JV0WxBwJqKE>
+https://www.youtube.com/watch?v=JV0WxBwJqKE
 
 - [Pivot](http://pivot.apache.org/)
 - [POI](http://poi.apache.org/)
@@ -436,7 +436,7 @@ Streaming data ingestion for Hadoop
 
   Apache Ranger™ is a framework to enable, monitor and manage comprehensive data security across the Hadoop platform.
 
-  <https://ranger.apache.org>
+  https://ranger.apache.org
 
 - [REEF](http://reef.apache.org/)
 - [River](http://river.apache.org/)
@@ -450,7 +450,7 @@ Streaming data ingestion for Hadoop
 
   Distributed stream processing framework
 
-  <https://engineering.linkedin.com/blog/2018/11/samza-1-0--stream-processing-at-massive-scale>
+  https://engineering.linkedin.com/blog/2018/11/samza-1-0--stream-processing-at-massive-scale
 
 - [Santuario](http://santuario.apache.org/)
 - [Sentry](http://sentry.apache.org/)
@@ -476,7 +476,7 @@ Streaming data ingestion for Hadoop
 
   Sqoop is a [command-line interface](https://en.wikipedia.org/wiki/Command-line_interface) application for transferring data between [relational databases](https://en.wikipedia.org/wiki/Relational_database) and [Hadoop](https://en.wikipedia.org/wiki/Hadoop)
 
-  <https://sqoop.apache.org>
+  https://sqoop.apache.org
 
 - [Stanbol](http://stanbol.apache.org/)
 - [STeVe](http://steve.apache.org/)
@@ -521,7 +521,7 @@ The popular combination of Tcl with the [Tk](https://en.wikipedia.org/wiki/Tk_(s
 
   Apache TinkerPop™ is an open source, vendor-agnostic, graph computing framework distributed under the commercial friendly [Apache2 license](https://www.apache.org/licenses/LICENSE-2.0). When a data system is [TinkerPop-enabled](http://tinkerpop.apache.org/providers.html), its users are able to model their domain as a graph and analyze that graph using the [Gremlin graph traversal language](http://tinkerpop.apache.org/gremlin.html). Furthermore, all TinkerPop-enabled systems integrate with one another allowing them to easily expand their offerings as well as allowing users to choose the appropriate graph technology for their application. Sometimes an application is best served by an in-memory, transactional graph database. Sometimes a multi-machine distributed graph database will do the job. Or perhaps the application requires both a distributed graph database for real-time queries and, in parallel, a Big(Graph) Data processor for batch analytics. Whatever the application's requirements, there exists a TinkerPop-enabled graph system out there to meet its needs.
 
-  <http://tinkerpop.apache.org>
+  http://tinkerpop.apache.org
 
 - [Tomcat](http://tomcat.apache.org/)
 - [TomEE](http://tomee.apache.org/)
@@ -539,7 +539,7 @@ The popular combination of Tcl with the [Tk](https://en.wikipedia.org/wiki/Tk_(s
 
   Apache Unomi is a Java Open Source **customer data platform**, a Java server designed to manage customers, leads and visitors data and help personalize customers experiences while also offering features to respect visitor privacy rules (such as GDPR)
 
-<https://unomi.apache.org>
+https://unomi.apache.org
 
 ## V
 
@@ -572,7 +572,7 @@ The popular combination of Tcl with the [Tk](https://en.wikipedia.org/wiki/Tk_(s
 
   Web-based notebook that enables data-driven, interactive data analytics and collaborative documents with SQL, Scala and more.
 
-  <https://zeppelin.apache.org>
+  https://zeppelin.apache.org
 
 - [ZooKeeper](http://zookeeper.apache.org/)
 
@@ -582,4 +582,4 @@ The popular combination of Tcl with the [Tk](https://en.wikipedia.org/wiki/Tk_(s
 
 A realtime, distributed, fault-tolerant stream processing engine from Twitter
 
-<https://apache.github.io/incubator-heron>
+https://apache.github.io/incubator-heron

@@ -18,21 +18,21 @@ This load balancer operates at Layer 4 or Layer 7 of the OSI model. It is now mo
 
 Provides SSL Termination for MQTT messages over ssl, and all the further communication happen over TCP inside the VPC network.
 
-<https://docs.aws.amazon.com/elasticloadbalancing/latest/userguide/what-is-load-balancing.html>
+https://docs.aws.amazon.com/elasticloadbalancing/latest/userguide/what-is-load-balancing.html
 
 ## Product comparisons
 
 If you need flexible application management, we recommend that you use an Application Load Balancer. If extreme performance and static IP is needed for your application, we recommend that you use a Network Load Balancer. If you have an existing application that was built within the EC2-Classic network, then you should use a Classic Load Balancer.
 
-<https://aws.amazon.com/elasticloadbalancing/features>
+https://aws.amazon.com/elasticloadbalancing/features
 
 ## Authentication in ALB
 
-<https://aws.amazon.com/blogs/aws/built-in-authentication-in-alb>
+https://aws.amazon.com/blogs/aws/built-in-authentication-in-alb
 
 When you create a load balancer, you must choose whether to make it an internal load balancer or an internet-facing load balancer.
 
-<https://docs.aws.amazon.com/elasticloadbalancing/latest/userguide/how-elastic-load-balancing-works.html>
+https://docs.aws.amazon.com/elasticloadbalancing/latest/userguide/how-elastic-load-balancing-works.html
 
 ## ALB Logs
 
@@ -66,4 +66,4 @@ target_status_code
 
 The status code of the response from the target. This value is recorded only if a connection was established to the target and the target sent a response. Otherwise, it is set to -.
 
-<https://docs.aws.amazon.com/elasticloadbalancing/latest/application/load-balancer-access-logs.html>
+https://docs.aws.amazon.com/elasticloadbalancing/latest/application/load-balancer-access-logs.html

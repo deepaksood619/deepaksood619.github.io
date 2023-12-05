@@ -55,4 +55,4 @@ Druid has its own query language and accepts queries as POST requests. Broker, h
 
 ## References
 
-<http://static.druid.io/docs/druid.pdf>
+http://static.druid.io/docs/druid.pdf

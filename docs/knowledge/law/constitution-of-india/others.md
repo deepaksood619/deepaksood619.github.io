@@ -101,4 +101,4 @@ There are some basic differences between the Indian and the British models, even
 - At the start of the first session after each general election to the Lok Sabha and at the commencement of the first session each year, the President addresses both the chambers which is known as the special address.
 - Article 123 also gives the president the power to promulgate ordinances. (Read about [President](https://byjus.com/free-ias-prep/president/) in the linked article.)
 
-<https://byjus.com/free-ias-prep/constitution-of-india-an-overview>
+https://byjus.com/free-ias-prep/constitution-of-india-an-overview

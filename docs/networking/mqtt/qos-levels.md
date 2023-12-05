@@ -85,4 +85,4 @@ All messages sent with QoS 1 and 2 are queued for offline clients until the clie
 
 ## References
 
-<https://www.hivemq.com/blog/mqtt-essentials-part-6-mqtt-quality-of-service-levels>
+https://www.hivemq.com/blog/mqtt-essentials-part-6-mqtt-quality-of-service-levels

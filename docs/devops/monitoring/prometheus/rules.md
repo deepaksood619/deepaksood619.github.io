@@ -8,10 +8,10 @@ Recording rules allow you to precompute frequently needed or computationally exp
 
 Recording and alerting rules exist in a rule group. Rules within a group are run sequentially at a regular interval.
 
-<https://prometheus.io/docs/prometheus/latest/configuration/recording_rules>
+https://prometheus.io/docs/prometheus/latest/configuration/recording_rules
 
 ## Alerting Rules
 
 Alerting rules allow you to define alert conditions based on Prometheus expression language expressions and to send notifications about firing alerts to an external service. Whenever the alert expression results in one or more vector elements at a given point in time, the alert counts as active for these elements' label sets.
 
-<https://prometheus.io/docs/prometheus/latest/configuration/alerting_rules>
+https://prometheus.io/docs/prometheus/latest/configuration/alerting_rules

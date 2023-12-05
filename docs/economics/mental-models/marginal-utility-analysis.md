@@ -32,7 +32,7 @@ Ex - For instance, you like eating pizza, the second piece of pizza brings you m
 
 Diminishing Marginal Utility (DMU)
 
-<https://www.investopedia.com/terms/m/marginalutility.asp>
+https://www.investopedia.com/terms/m/marginalutility.asp
 
 ## Diamond water paradox / Paradox of Value
 

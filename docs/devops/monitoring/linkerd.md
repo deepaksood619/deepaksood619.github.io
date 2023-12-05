@@ -22,8 +22,8 @@ For example, when a request is made to a service through Linkerd, a very simplif
 
 ## References
 
-<https://linkerd.io>
+https://linkerd.io
 
-<https://github.com/linkerd/linkerd2>
+https://github.com/linkerd/linkerd2
 
-<https://linkerd.io/2020/12/03/why-linkerd-doesnt-use-envoy>
+https://linkerd.io/2020/12/03/why-linkerd-doesnt-use-envoy

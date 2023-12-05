@@ -93,7 +93,7 @@ In fact, a table is fully defined by its underlying change stream. If you have e
 
 ![image](../../media/Event-driven-architecture-image3.jpg)
 
-<https://www.confluent.io/blog/kafka-streams-tables-part-1-event-streaming>
+https://www.confluent.io/blog/kafka-streams-tables-part-1-event-streaming
 
 ![image](../../media/Event-driven-architecture-image4.jpg)
 
@@ -131,7 +131,7 @@ This pattern shows how services can use messaging to control the workflow of a b
 
 This pattern shows how to split a large message into a claim check and a payload.
 
-<https://docs.microsoft.com/en-us/azure/architecture/guide/technology-choices/messaging>
+https://docs.microsoft.com/en-us/azure/architecture/guide/technology-choices/messaging
 
 [Kafka in the Wild - Laura Schornack & Maureen Penzenik - GOTO 2021](https://www.youtube.com/watch?v=iMx8otu3rFg&ab_channel=GOTOConferences)
 
@@ -147,7 +147,7 @@ Choreography - event-driven communication
 
 ![image](../../media/Event-driven-architecture-image8.jpg)
 
-<https://www.youtube.com/watch?v=zt9DFMkjkEA&ab_channel=GOTOConferences>
+https://www.youtube.com/watch?v=zt9DFMkjkEA&ab_channel=GOTOConferences
 
 1. Microservices - also known as the microservice architecture - is an architectural style that structures an application as a collection of services that are: 1) Highly maintainable and testable 2) Loosely coupled 3) Independently deployable.
 
@@ -163,18 +163,18 @@ Choreography - event-driven communication
 
 7. Major advantages of choreography over orchestration:1) Orchestration suffers from tight coupling, whereas choreography offers loose coupling. 2) Orchestration depends on RESTful APIs and hence requires more maintenance due to failures whereas choreography requires less maintenance and is fault-tolerant because it is mostly stateless and messages can be retried.
 
-<https://www.youtube.com/watch?v=ePHpAPacOdI>
+https://www.youtube.com/watch?v=ePHpAPacOdI
 
-<https://segment.com/blog/exactly-once-delivery>
+https://segment.com/blog/exactly-once-delivery
 
 [GOTO 2017 - The Many Meanings of Event-Driven Architecture - Martin Fowler](https://www.youtube.com/watch?v=STKCRSUsyP0)
 
 LMAX Architecture
 
-- <https://martinfowler.com/articles/lmax.html>
-- <https://lmax-exchange.github.io/disruptor>
+- https://martinfowler.com/articles/lmax.html
+- https://lmax-exchange.github.io/disruptor
 
-<https://cloudplatform.googleblog.com/2018/04/Cloud-native-architecture-with-serverless-microservices-the-Smart-Parking-story.html>
+https://cloudplatform.googleblog.com/2018/04/Cloud-native-architecture-with-serverless-microservices-the-Smart-Parking-story.html
 
 [Design Patterns: Why Event Sourcing?](https://www.youtube.com/watch?v=rUDN40rdly8)
 
@@ -196,4 +196,4 @@ Other types of jobs for task queues include
 - aggregating collected data values on a fixed interval, such as every 15 minutes
 - scheduling periodic jobs such as batch processes
 
-<https://www.fullstackpython.com/task-queues.html>
+https://www.fullstackpython.com/task-queues.html

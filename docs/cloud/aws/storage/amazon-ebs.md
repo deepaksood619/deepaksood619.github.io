@@ -4,7 +4,7 @@
 
 You can back up the data on your Amazon EBS volumes to Amazon S3 by taking point-in-time snapshots. Snapshots are *incremental* backups, which means that only the blocks on the device that have changed after your most recent snapshot are saved. This minimizes the time required to create the snapshot and saves on storage costs by not duplicating data. When you delete a snapshot, only the data unique to that snapshot is removed. Each snapshot contains all of the information that is needed to restore your data (from the moment when the snapshot was taken) to a new EBS volume.
 
-<https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/EBSSnapshots.html>
+https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/EBSSnapshots.html
 
 EBS volumes provide durable block-level storage for use with EC2 instances in the AWS cloud. Volumes are automatically replicated withinAvailability Zonesfor high availability and durability.
 
@@ -45,10 +45,10 @@ S3 Glacier** - For long-term backups and archives with retrieval option from 1 m
 
 S3 Glacier Deep Archive** - For long-term data archiving that is accessed once or twice in a year and can be restored within 12 hours - $0.002per GB
 
-<https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/ebs-volume-types.html>
+https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/ebs-volume-types.html
 
 Multi-Attach is now available on [Amazon EBS](https://aws.amazon.com/ebs/) Provisioned IOPS volume type, io2. Launched in August 2020, io2 is the newest generation of our Provisioned IOPS volume type designed for 99.999% durability (100x io1) and 500:1 IOPS:GiB (10x io1). Multi-Attach lets you share access to an EBS data volume between up to 16 Nitro-based EC2 instances within the same Availability Zone (AZ). Each attached instance has full read and write permission to the shared volume. Multi-Attach is intended to make it easier to achieve higher application availability for customers that want to deploy applications that manage storage consistency from multiple writers in shared storage infrastructure.
 
-<https://aws.amazon.com/about-aws/whats-new/2020/12/multi-attach-support-now-available-on-amazon-ebs-provisioned-iops-volume-type-io2>
+https://aws.amazon.com/about-aws/whats-new/2020/12/multi-attach-support-now-available-on-amazon-ebs-provisioned-iops-volume-type-io2
 
 [What You Need to Know About IOPS](https://cloudcasts.io/article/what-you-need-to-know-about-iops)

@@ -13,4 +13,4 @@
 5. Finite geometric series
 6. Finite geometric series applications **References**
 
-<https://www.khanacademy.org/math/calculus-home/series-calc>
+https://www.khanacademy.org/math/calculus-home/series-calc

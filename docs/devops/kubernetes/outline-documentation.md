@@ -236,7 +236,7 @@ Lower-level detail relevant to creating or administering a Kubernetes cluster.
 
 Different ways to change the behavior of your Kubernetes cluster.
 
-<https://kubernetes.io/docs/concepts>
+https://kubernetes.io/docs/concepts
 
 ## Tasks
 
@@ -308,6 +308,6 @@ Configure and manage huge pages as a schedulable resource in a cluster.
 
 Configure and schedule GPUs for use as a resource by nodes in a cluster.
 
-<https://kubernetes.io/docs/tasks>
+https://kubernetes.io/docs/tasks
 
-<https://kubernetes.io/docs/home>
+https://kubernetes.io/docs/home

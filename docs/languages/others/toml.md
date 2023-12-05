@@ -55,6 +55,6 @@ hosts = [
 
 ## References
 
-<https://github.com/toml-lang/toml>
+https://github.com/toml-lang/toml
 
-<https://learnxinyminutes.com/docs/toml>
+https://learnxinyminutes.com/docs/toml

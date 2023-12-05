@@ -47,7 +47,7 @@ This makes it decoupled and isolated from the services you want to expose. It al
 - Nginx Ingress Controller
 - Ambassador
 
-<https://www.nginx.com/blog/testing-performance-nginx-ingress-controller-kubernetes>
+https://www.nginx.com/blog/testing-performance-nginx-ingress-controller-kubernetes
 
 - Voyager
 - Contour
@@ -56,11 +56,11 @@ This makes it decoupled and isolated from the services you want to expose. It al
 
 ![image](../../../media/DevOps-Kubernetes-Ingress-image2.jpg)
 
-<https://medium.com/flant-com/comparing-ingress-controllers-for-kubernetes-9b397483b46b>
+https://medium.com/flant-com/comparing-ingress-controllers-for-kubernetes-9b397483b46b
 
-<https://itnext.io/kubernetes-ingress-controllers-how-to-choose-the-right-one-part-1-41d3554978d2>
+https://itnext.io/kubernetes-ingress-controllers-how-to-choose-the-right-one-part-1-41d3554978d2
 
-<https://medium.com/flant-com/comparing-ingress-controllers-for-kubernetes-9b397483b46b>
+https://medium.com/flant-com/comparing-ingress-controllers-for-kubernetes-9b397483b46b
 
 ## AWS ALB
 
@@ -69,18 +69,18 @@ AWS ALB Ingress controller supports two traffic modes:instance modeandip mode. U
 - **instance mode:**Ingress traffic starts from the ALB and reaches the [NodePort](https://kubernetes.io/docs/concepts/services-networking/service/#nodeport) opened for your service. Traffic is then routed to the pods within the cluster. The number of hops for the packet to reach its destination in this mode is always two.
 - **ip mode:**Ingress traffic starts from the ALB and reaches the pods within the cluster directly. To use this mode, the networking plugin for the Kubernetes cluster must use a secondary IP address on ENI as pod IP, also known as the [AWS CNI plugin for Kubernetes](https://github.com/aws/amazon-vpc-cni-k8s). The number of hops for the packet to reach its destination in this mode is always one.
 
-<https://github.com/kubernetes-sigs/aws-alb-ingress-controller>
+https://github.com/kubernetes-sigs/aws-alb-ingress-controller
 
-<https://docs.aws.amazon.com/eks/latest/userguide/alb-ingress.html>
+https://docs.aws.amazon.com/eks/latest/userguide/alb-ingress.html
 
-<https://aws.amazon.com/blogs/opensource/kubernetes-ingress-aws-alb-ingress-controller>
+https://aws.amazon.com/blogs/opensource/kubernetes-ingress-aws-alb-ingress-controller
 
 ## Ingress tls with self-signed cert
 
-<https://www.youtube.com/watch?v=7K0gAYmWWho>
+https://www.youtube.com/watch?v=7K0gAYmWWho
 
 ## References
 
-<https://matthewpalmer.net/kubernetes-app-developer/articles/kubernetes-ingress-guide-nginx-example.html>
+https://matthewpalmer.net/kubernetes-app-developer/articles/kubernetes-ingress-guide-nginx-example.html
 
-<https://kubernetes.io/docs/concepts/services-networking/ingress>
+https://kubernetes.io/docs/concepts/services-networking/ingress

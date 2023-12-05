@@ -8,7 +8,7 @@
 
 **Redis Lists and Redis Sorted Sets** are the basis for implementing message queues. They can be used both directly to build bespoke solutions, or via a framework that makes message processing more idiomatic for your programming language of choice
 
-<https://redislabs.com/solutions/use-cases/messaging>
+https://redislabs.com/solutions/use-cases/messaging
 
 The Stream is a new data type introduced with Redis 5.0, which models alog data structurein a more abstract way, however the essence of the log is still intact: like a log file, often implemented as a file open in append only mode, Redis streams are primarily an append only data structure. At least conceptually, because being Redis Streams an abstract data type represented in memory, they implement more powerful operations, to overcome the limits of the log file itself.
 
@@ -166,7 +166,7 @@ Fetching data from a stream via a consumer group, and not acknowledging such dat
 
 The [XPENDING](https://redis.io/commands/xpending) command is the interface to inspect the list of pending messages, and is as thus a very important command in order to observe and understand what is happening with a streams consumer groups: what clients are active, what messages are pending to be consumed, or to see if there are idle messages
 
-<https://redis.io/commands/xpending>
+https://redis.io/commands/xpending
 
 ## Differences with Kafka partitions
 
@@ -207,9 +207,9 @@ A Stream, like any other Redis data structure, is asynchronously replicated to s
 
 ### Latency tests results
 
-<https://redis.io/topics/streams-intro>
+https://redis.io/topics/streams-intro
 
-<https://events.redislabs.com/sessions/build-message-bus-redis-streams-fastapi>
+https://events.redislabs.com/sessions/build-message-bus-redis-streams-fastapi
 
 [Delayed Message Processing with Redis Streams - RedisConf 2020](https://www.youtube.com/watch?v=hkGYRYe5NE8)
 
@@ -217,7 +217,7 @@ A Stream, like any other Redis data structure, is asynchronously replicated to s
 
 [SUBSCRIBE](https://redis.io/commands/subscribe), [UNSUBSCRIBE](https://redis.io/commands/unsubscribe) and [PUBLISH](https://redis.io/commands/publish) implement the [Publish/Subscribe messaging paradigm](http://en.wikipedia.org/wiki/Publish/subscribe) where (citing Wikipedia) senders (publishers) are not programmed to send their messages to specific receivers (subscribers). Rather, published messages are characterized into channels, without knowledge of what (if any) subscribers there may be. Subscribers express interest in one or more channels, and only receive messages that are of interest, without knowledge of what (if any) publishers there are. This decoupling of publishers and subscribers can allow for greater scalability and a more dynamic network topology.
 
-<https://redis.io/topics/pubsub>
+https://redis.io/topics/pubsub
 
 ### PUBSUB vs Streams
 

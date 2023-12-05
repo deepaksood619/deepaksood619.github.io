@@ -133,7 +133,7 @@ Investors can benefit from downward price movements by either selling calls or b
 
 ![image](../../media/Market-Terms_Futures-Options-Trading-image5.jpg)
 
-<https://corporatefinanceinstitute.com/resources/knowledge/trading-investing/options-calls-and-puts>
+https://corporatefinanceinstitute.com/resources/knowledge/trading-investing/options-calls-and-puts
 
 ## Summary
 
@@ -194,7 +194,7 @@ are charged over and above SPAN margins to cover for risks that the SPAN margin 
 
 Short Option Minimum (SOM) is a minimum margin for all strikes of short option contracts that fall beyond the PSR. For instance, if the Nifty spot is at 16000, and if Nifty has a PSR of ~1000 points (covering a 7% movement), all contracts beyond 17000 CE or 15000 PE would be considered risk free under SPAN and no SPAN margin was required. While exposure margin was still charged, that wasn't considered enough. So, to cover this, an additional minimum short option margin (SOM) of 3% was collected
 
-<https://zerodha.com/z-connect/queries/stock-and-fo-queries/history-of-fo-margin-requirements-in-india>
+https://zerodha.com/z-connect/queries/stock-and-fo-queries/history-of-fo-margin-requirements-in-india
 
 ## p/c ratio - Put/Call ratio
 
@@ -214,7 +214,7 @@ An options holder may exercise his or her right to buy or sell the contract's un
 - Exercising a [put option](https://www.investopedia.com/terms/p/putoption.asp) allows you tosellthe underlying security at a stated price within a specific timeframe.
 - Exercising a [call option](https://www.investopedia.com/terms/c/calloption.asp) allows you tobuythe underlying security at a stated price within a specific timeframe.
 
-<https://www.upcounsel.com/exercise-stock-options>
+https://www.upcounsel.com/exercise-stock-options
 
 ## Option Chain
 
@@ -226,7 +226,7 @@ An options chain provides detailed quote and price information and should not be
 - The options chain matrix is updated in real-time showing the last price, trading volume, and best bid and offer for the calls and puts of an options series, typically segmented by expiration date.
 - An option's strike price is also listed, which is the stock price at which the investor buys the stock if the option is exercised.
 
-<https://www.investopedia.com/terms/o/optionchain.asp>
+https://www.investopedia.com/terms/o/optionchain.asp
 
 ## Open Interest and Trading Volume
 
@@ -238,9 +238,9 @@ An options chain provides detailed quote and price information and should not be
 
 [Open interest](https://www.investopedia.com/articles/technical/02/112002.asp) is the number of active contracts. It's one of the data fields on most option quote displays, along with [bid price](https://www.investopedia.com/terms/b/bidprice.asp), [ask price](https://www.investopedia.com/terms/a/ask.asp), volume, and [implied volatility](https://www.investopedia.com/terms/i/iv.asp). Yet, many options traders ignore active contracts, which can lead to unforeseen consequences.
 
-<https://www.investopedia.com/trading/options-trading-volume-and-open-interest>
+https://www.investopedia.com/trading/options-trading-volume-and-open-interest
 
-<https://www.exegy.com/2019/08/what-can-high-open-interest-indicate-about-options>
+https://www.exegy.com/2019/08/what-can-high-open-interest-indicate-about-options
 
 ## Drawdown
 
@@ -250,7 +250,7 @@ An options chain provides detailed quote and price information and should not be
 - The time it takes to recover a drawdown should also be considered when assessing drawdowns
 - A drawdown and loss aren't necessarily the same thing. Most traders view a drawdown as a peak-to-trough metric, while losses typically refer to the purchase price relative to the current or exit price
 
-<https://www.investopedia.com/terms/d/drawdown.asp>
+https://www.investopedia.com/terms/d/drawdown.asp
 
 ## Quantatitive Trading / Quant Trader
 
@@ -266,9 +266,9 @@ An options chain provides detailed quote and price information and should not be
 
 ## Algorithmic trading / Trading bot
 
-<https://www.indiratrade.com/algo-trading>
+https://www.indiratrade.com/algo-trading
 
-<https://www.trality.com>
+https://www.trality.com
 
 [GitHub - JerBouma/AlgorithmicTrading: This repository contains three ways to obtain arbitrage which are Dual Listing, Options and Statistical Arbitrage. These are projects in collaboration with Optiver and have been peer-reviewed by staff members of Optiver.](https://github.com/JerBouma/AlgorithmicTrading)
 
@@ -302,7 +302,7 @@ In a combination strategy, you'll need to establish whether you want to go long 
 
 You can configure a combination strategy according to the market, the time frame, the size of the trade and the different indicators that the algorithm is designed to use.
 
-<https://www.ig.com/en/trading-platforms/algorithmic-trading>
+https://www.ig.com/en/trading-platforms/algorithmic-trading
 
 - [Strategies](https://en.wikipedia.org/wiki/Algorithmic_trading#Strategies)
   - [3.1Trading ahead of index fund rebalancing](https://en.wikipedia.org/wiki/Algorithmic_trading#Trading_ahead_of_index_fund_rebalancing)
@@ -321,11 +321,11 @@ You can configure a combination strategy according to the market, the time frame
   - [4.3Event arbitrage](https://en.wikipedia.org/wiki/Algorithmic_trading#Event_arbitrage)
   - [4.4Spoofing](https://en.wikipedia.org/wiki/Algorithmic_trading#Spoofing)
 
-<https://en.wikipedia.org/wiki/Algorithmic_trading>
+https://en.wikipedia.org/wiki/Algorithmic_trading
 
-<https://www.investopedia.com/articles/active-trading/101014/basics-algorithmic-trading-concepts-and-examples.asp>
+https://www.investopedia.com/articles/active-trading/101014/basics-algorithmic-trading-concepts-and-examples.asp
 
-<https://www.investopedia.com/articles/trading/11/automated-trading-systems.asp>
+https://www.investopedia.com/articles/trading/11/automated-trading-systems.asp
 
 [Day Trading Strategies for Beginners: Class 1 of 12 by Ross Cameron](https://youtu.be/txWaMpSzHhM)
 

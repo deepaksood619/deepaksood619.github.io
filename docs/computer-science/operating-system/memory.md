@@ -135,7 +135,7 @@ Application-level memory management is generally categorized as either automatic
 
 [https://en.wikipedia.org/wiki/Memory_management](https://en.wikipedia.org/wiki/Memory_management#HEAP)
 
-<https://gceasy.io>
+https://gceasy.io
 
 ## Memory Hierarchy
 
@@ -158,9 +158,9 @@ The lower levels of the hierarchy -- from disks downwards -- are also known as [
 - Nearline storage is not immediately available, but can be made online quickly without human intervention
 - Offline storage is not immediately available, and requires some human intervention to bring online.
 
-<https://en.wikipedia.org/wiki/Memory_hierarchy>
+https://en.wikipedia.org/wiki/Memory_hierarchy
 
-<https://www.thegeekstuff.com/2012/02/linux-memory-swap-cache-shared-vm>
+https://www.thegeekstuff.com/2012/02/linux-memory-swap-cache-shared-vm
 
 ## Transparent Huge Pages (THP)
 

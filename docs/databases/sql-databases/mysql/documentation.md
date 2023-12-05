@@ -472,7 +472,7 @@ Repository
 
 6.2.11 Password Management
 
-<https://dev.mysql.com/doc/refman/5.7/en/password-management.html>
+https://dev.mysql.com/doc/refman/5.7/en/password-management.html
 
 MySQL supports these password-management capabilities:
 
@@ -484,7 +484,7 @@ MySQL supports these password-management capabilities:
 - Random password generation, as an alternative to requiring explicit administrator-specified literal passwords.
 - Password failure tracking, to enable temporary account locking after too many consecutive incorrect-password login failures.
 
-<https://dev.mysql.com/doc/mysql-security-excerpt/8.0/en/password-management.html>
+https://dev.mysql.com/doc/mysql-security-excerpt/8.0/en/password-management.html
 
 6.2.12 Server Handling of Expired Passwords
 
@@ -504,7 +504,7 @@ To address such concerns, MySQL permits limits for individual accounts on use of
 - The number of times an account can connect to the server per hour
 - The number of simultaneous connections to the server by an account
 
-<https://dev.mysql.com/doc/refman/8.0/en/user-resources.html>
+https://dev.mysql.com/doc/refman/8.0/en/user-resources.html
 6.2.17 Troubleshooting Problems Connecting to MySQL
 
 6.2.18 SQL-Based Account Activity Auditing
@@ -643,7 +643,7 @@ To address such concerns, MySQL permits limits for individual accounts on use of
 - [InnoDB](https://dev.mysql.com/doc/refman/8.0/en/innodb-storage-engine.html) has a limit of 1017 columns per table.
 - The internal representation of a MySQL table has a maximum row size limit of 65,535 bytes
 
-<https://dev.mysql.com/doc/refman/8.0/en/column-count-limit.html>
+https://dev.mysql.com/doc/refman/8.0/en/column-count-limit.html
 
 8.5 Optimizing for InnoDB Tables
 
@@ -703,7 +703,7 @@ To address such concerns, MySQL permits limits for individual accounts on use of
 
 To generate execution plans, the optimizer uses a cost model that is based on estimates of the cost of various operations that occur during query execution. The optimizer has a set of compiled-in default"cost constants" available to it to make decisions regarding execution plans.
 
-<https://dev.mysql.com/doc/refman/5.7/en/cost-model.html>
+https://dev.mysql.com/doc/refman/5.7/en/cost-model.html
 
 8.10 Buffering and Caching
 
@@ -1299,9 +1299,9 @@ SQLServer collation refers to a set of character and character encoding rules, a
 
 ## 14.9.1 InnoDB Table Compression
 
-<https://dev.mysql.com/doc/refman/8.0/en/innodb-compression-usage.html>
+https://dev.mysql.com/doc/refman/8.0/en/innodb-compression-usage.html
 
-<https://dev.mysql.com/doc/refman/8.0/en/innodb-compression-internals.html>
+https://dev.mysql.com/doc/refman/8.0/en/innodb-compression-internals.html
 
 14.9.2 InnoDB Page Compression
 
@@ -2365,4 +2365,4 @@ CONNECTION_CONTROL_FAILED_LOGIN_ATTEMPTS Table
 - B.4.6 Table Definition-Related Issues
 - B.4.7 Known Issues in MySQL
 
-<https://dev.mysql.com/doc/refman/8.0/en>
+https://dev.mysql.com/doc/refman/8.0/en

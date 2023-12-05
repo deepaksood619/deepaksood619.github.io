@@ -4,7 +4,7 @@ In computing, load balancing improves the distribution of workloads across multi
 
 The above definition applies to all aspects of computing, not just networks. Operating systems use load balancing to schedule tasks across physical processors, container orchestrators such as Kubernetes use load balancing to schedule tasks across a compute cluster, and network load balancers use load balancing to schedule network tasks across available backends.
 
-<https://www.loggly.com/blog/benchmarking-5-popular-load-balancers-nginx-haproxy-envoy-traefik-and-alb>
+https://www.loggly.com/blog/benchmarking-5-popular-load-balancers-nginx-haproxy-envoy-traefik-and-alb
 
 Load balancing is a way of distributing traffic between multiple hosts within a single upstream cluster in order to effectively make use of available resources. There are many different ways of accomplishing this, so Envoy provides several different load balancing strategies. At a high level, we can break these strategies into two categories: global load balancing and distributed load balancing.
 
@@ -30,7 +30,7 @@ A more complicated setup could have resource usage being reported to the control
 
 Most sophisticated deployments will make use of features from both categories. For instance, global load balancing could be used to define the high level routing priorities and weights, while distributed load balancing could be used to react to changes in the system (e.g. using active health checking). By combining these you can get the best of both worlds: a globally aware authority that can control the flow of traffic on the macro level while still having the individual proxies be able to react to changes on the micro level.
 
-<https://www.envoyproxy.io/docs/envoy/latest/intro/arch_overview/upstream/load_balancing/overview>
+https://www.envoyproxy.io/docs/envoy/latest/intro/arch_overview/upstream/load_balancing/overview
 
 Sit infront of a service and delegate the client request to one of the nodes behind the service. This delegation can be based on
 
@@ -88,7 +88,7 @@ This application load balancer method measures traffic in megabits (Mbps) per se
 - Random
 - Original destination
 
-<https://www.envoyproxy.io/docs/envoy/latest/intro/arch_overview/upstream/load_balancing/load_balancers>
+https://www.envoyproxy.io/docs/envoy/latest/intro/arch_overview/upstream/load_balancing/load_balancers
 
 ![image](../../media/load-balancing-algorithms.jpg)
 
@@ -117,7 +117,7 @@ Disaster recovery is the primary reason that many companies deploy server resour
 
 A major reason to choose an active‑passive scheme is that there is no need to synchronize data across sites in real time; changes at the active site can be distributed to the passive sites using a simpler batch method and cheaper out‑of‑band connections. If you maintain multiple active sites serving the same content--and some of the benefits of GSLB in the following list emerge only if you do--then synchronizing the sites in real time becomes important.
 
-<https://www.nginx.com/resources/glossary/global-server-load-balancing>
+https://www.nginx.com/resources/glossary/global-server-load-balancing
 
 DNS load balancing - route data to closest data center possible
 
@@ -188,7 +188,7 @@ Quite often, popular web servers use reverse-proxying functionality, shielding a
 - Reverse proxies can perform [A/B testing](https://en.wikipedia.org/wiki/A/B_testing) and [multivariate testing](https://en.wikipedia.org/wiki/Multivariate_testing_in_marketing) without placing JavaScript tags or code into pages.
 - A reverse proxy can add basic HTTP access authentication to a web server that does not have any authentication.
 
-<https://en.wikipedia.org/wiki/Reverse_proxy>
+https://en.wikipedia.org/wiki/Reverse_proxy
 
 ## Anonymous proxy
 
@@ -256,7 +256,7 @@ These proxies follow the same protocol as HTTPS requests. The 'S' in HTTPS means
 
 That means you get even more security because all of your requests through the proxy are encrypted. Most proxies should be using this by default, but there is still a chance you'll run into some that use HTTP.
 
-<https://www.freecodecamp.org/news/what-is-a-proxy-server-in-english-please>
+https://www.freecodecamp.org/news/what-is-a-proxy-server-in-english-please
 
 ## Reverse Proxy vs Load Balancers
 
@@ -285,9 +285,9 @@ Service discovery is the process by which a load balancer determines the set of 
   - third-party registration pattern
 - DNS based Service Discovery (DNS-SD)
 
-<https://www.nginx.com/blog/service-discovery-in-a-microservices-architecture>
+https://www.nginx.com/blog/service-discovery-in-a-microservices-architecture
 
-<https://iximiuz.com/en/posts/service-discovery-in-kubernetes>
+https://iximiuz.com/en/posts/service-discovery-in-kubernetes
 
 ## Health checking
 
@@ -398,7 +398,7 @@ The picture below illustrates this approach. The client gets at least one addres
 | Microservices - N clients, M servers in the data center, Very high performance requirements (low latency, high traffic), Client can be untrusted | Look-aside Load Balancing, Client-side LB using gRPC-LB protocol. Roll your own implementation (Q2’17), hosted gRPC-LB in the works. |
 | Existing Service-mesh like setup using Linkerd or Istio | Service Mesh, Use built-in LB with [Istio](https://istio.io/), or [Envoy](https://github.com/lyft/envoy). |
 
-<https://grpc.io/blog/loadbalancing>
+https://grpc.io/blog/loadbalancing
 
 - Sidecar proxy
 
@@ -420,7 +420,7 @@ DSR is an optimization in which only**ingress/request**packets traverse the load
 
 ## High Availability Clusters / HA Clusters / Fail-over clusters
 
-<https://en.wikipedia.org/wiki/High-availability_cluster>
+https://en.wikipedia.org/wiki/High-availability_cluster
 
 ## References
 
@@ -430,8 +430,8 @@ DSR is an optimization in which only**ingress/request**packets traverse the load
 
 [**https://blog.envoyproxy.io/introduction-to-modern-network-load-balancing-and-proxying-a57f6ff80236**](https://blog.envoyproxy.io/introduction-to-modern-network-load-balancing-and-proxying-a57f6ff80236)
 
-<https://dzone.com/articles/load-balancers-and-high-volume-traffic-management-1>
+https://dzone.com/articles/load-balancers-and-high-volume-traffic-management-1
 
-<https://medium.com/future-vision/what-is-a-load-balancer-fc786f4b04e6>
+https://medium.com/future-vision/what-is-a-load-balancer-fc786f4b04e6
 
-<https://www.loggly.com/blog/benchmarking-5-popular-load-balancers-nginx-haproxy-envoy-traefik-and-alb>
+https://www.loggly.com/blog/benchmarking-5-popular-load-balancers-nginx-haproxy-envoy-traefik-and-alb

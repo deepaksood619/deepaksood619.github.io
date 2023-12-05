@@ -126,11 +126,11 @@ Index records comprise search-key values and data pointers. Multilevel index is 
 
 Multi-level Index helps in breaking down the index into several smaller indices in order to make the outermost level so small that it can be saved in a single disk block, which can easily be accommodated anywhere in the main memory.
 
-<https://www.geeksforgeeks.org/indexing-in-databases-set-1>
+https://www.geeksforgeeks.org/indexing-in-databases-set-1
 
-<https://www.tutorialspoint.com/dbms/dbms_indexing.htm>
+https://www.tutorialspoint.com/dbms/dbms_indexing.htm
 
-<https://www.toptal.com/database/sql-indexes-explained-pt-1>
+https://www.toptal.com/database/sql-indexes-explained-pt-1
 
 ### Difference
 
@@ -142,13 +142,13 @@ It is generally faster to read from a clustered index if you want to get back al
 
 Writing to a table with a clustered index can be slower, if there is a need to rearrange the data.
 
-<https://stackoverflow.com/questions/1251636/what-do-clustered-and-non-clustered-index-actually-mean>
+https://stackoverflow.com/questions/1251636/what-do-clustered-and-non-clustered-index-actually-mean
 
 KEY is the synonym for INDEX . You use the KEY when you want to create an index for a column or a set of columns that is not the part of a primary key or unique key. A UNIQUE index ensures that values in a column must beunique. Unlike the PRIMARY index, MySQL allows NULL values in the UNIQUE index
 
 Key is synonymous to an index. If you want to create an index for a column, then use 'Key'.
 
-<https://www.mysqltutorial.org/mysql-primary-key>
+https://www.mysqltutorial.org/mysql-primary-key
 
 ## Cardinality
 
@@ -173,7 +173,7 @@ ALTER TABLE tbl DROP INDEX state;
 ALTER TABLE tbl ADD INDEX state_source_index (state, source);
 ```
 
-<https://dba.stackexchange.com/questions/63047/why-is-mysql-not-using-the-index-with-the-higher-cardinality>
+https://dba.stackexchange.com/questions/63047/why-is-mysql-not-using-the-index-with-the-higher-cardinality
 
 Index selectivity is the ratio of the number of distinct indexed values (the ​cardinality) to the total number of rows in the table (#T).
 
@@ -182,4 +182,4 @@ Index selectivity is the ratio of the number of distinct indexed values (the ​
 
 **Why low cardinality indexes negatively impact performance**
 
-<https://www.ibm.com/developerworks/data/library/techarticle/dm-1309cardinal>
+https://www.ibm.com/developerworks/data/library/techarticle/dm-1309cardinal

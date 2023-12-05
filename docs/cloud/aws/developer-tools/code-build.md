@@ -68,14 +68,14 @@ commands:
 ]
 }
 
-<https://dev.to/raphael_jambalos/automate-docker-build-with-aws-codebuild-9om>
+https://dev.to/raphael_jambalos/automate-docker-build-with-aws-codebuild-9om
 
-<https://docs.aws.amazon.com/codebuild/latest/userguide/sample-docker.html>
+https://docs.aws.amazon.com/codebuild/latest/userguide/sample-docker.html
 
-<https://dev.to/kylegalbraith/how-to-build-your-docker-images-in-aws-with-ease-3174>
+https://dev.to/kylegalbraith/how-to-build-your-docker-images-in-aws-with-ease-3174
 
 ## Caching docker builds
 
-<https://aws.amazon.com/blogs/devops/improve-build-performance-and-save-time-using-local-caching-in-aws-codebuild>
+https://aws.amazon.com/blogs/devops/improve-build-performance-and-save-time-using-local-caching-in-aws-codebuild
 
-<https://docs.aws.amazon.com/codebuild/latest/userguide/build-caching.html>
+https://docs.aws.amazon.com/codebuild/latest/userguide/build-caching.html

@@ -56,4 +56,4 @@
 
 21.28. ipaddress
 
-<https://docs.python.org/3/library/smtplib.html>
+https://docs.python.org/3/library/smtplib.html

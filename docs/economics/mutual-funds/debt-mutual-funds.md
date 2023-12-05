@@ -22,8 +22,8 @@ The bank evaluates the borrower's credit rating at the time of giving out the lo
 
 In case the borrower defaults, the bank has the right to sell the hypothecated property. What if the property itself loses its value? This is a double whammy situation for the lender or the bank. The bank loses both the principal and the asset.
 
-- <https://www.thefixedincome.com>
-- <https://www.bharatbond.in>
+- https://www.thefixedincome.com
+- https://www.bharatbond.in
 
 ## Debt Funds / Income Funds / Bond Funds
 
@@ -82,7 +82,7 @@ There are three options with debt funds:
 
 It is important for investors to understand that there is no escape from risk whatever choice they make. It is only a question of **familiar risk vs unfamiliar risk**. **Comfortable risk vs uncomfortable risk**. Sadly, when it comes to returns, we study the past and take it seriously. When it comes to risk, we ignore the past and assume what did not cause a loss is not risky.
 
-<https://freefincal.com/fixed-income-investment-retirement>
+https://freefincal.com/fixed-income-investment-retirement
 
 1. Do not use debt funds if you do not have an idea of how volatile they can be.
     - Youcan use the [Multi-index Mutual Fund Rolling Returns Calculator](https://freefincal.com/multi-index-mutual-fund-rolling-returns-calculator/) to get the above graphs for the fund that hold or aim to invest in.
@@ -96,7 +96,7 @@ It is important for investors to understand that there is no escape from risk wh
 
 3. A fixed deposit is a wonderful product for investment durations less than 3 years. After all, [there is more to investing than obtaining real returns](https://freefincal.com/there-is-more-to-investing-than-obtaining-real-returns/)
 
-<https://freefincal.com/are-debt-mutual-funds-an-alternative-to-fixed-deposits>
+https://freefincal.com/are-debt-mutual-funds-an-alternative-to-fixed-deposits
 
 ## Gilt funds
 
@@ -111,20 +111,20 @@ Investors should keep in mind that since these schemes invest in government secu
 
 Finally, invest in gilt funds only if you can keep track of the interest rate movements and time your entry and exit in these schemes. Always remember that their extreme sensitivity to interest rate movements in the economy. This means gilt schemes may start going up or down, depending on the interest rate outlook. The RBI action might come later.
 
-<https://economictimes.indiatimes.com/mf/analysis/what-are-gilt-funds/articleshow/76425288.cms>
+https://economictimes.indiatimes.com/mf/analysis/what-are-gilt-funds/articleshow/76425288.cms
 
 An arbitrage fund held for several years might be an underutilization of funds. I wanted the possibility of a bit more return than arbitrage -- meaning more volatility but not as much equity.
 
 There two categories here: the 10-year gilts and the normal gilts. The 10-year gilt is the closest we have to a debt index fund but is the most volatile among the lot.
 
-<https://freefincal.com/why-i-partially-switched-from-icici-multi-asset-fund-to-icici-gilt-fund>
+https://freefincal.com/why-i-partially-switched-from-icici-multi-asset-fund-to-icici-gilt-fund
 
 [What are Gilt Funds, when to use them, how to select them](https://www.youtube.com/watch?v=rzVPsRGZeBY)
 
 ## Links
 
-- <https://zerodha.com/varsity/chapter/the-debt-funds-part-1>
-- <https://zerodha.com/varsity/chapter/government-securities>
-- <https://www.thefixedincome.com>
+- https://zerodha.com/varsity/chapter/the-debt-funds-part-1
+- https://zerodha.com/varsity/chapter/government-securities
+- https://www.thefixedincome.com
 - [Getting started with debt mutual funds - YouTube](https://www.youtube.com/watch?v=7jLip-C8SQs)
 - [Important debt fund jargon - YouTube](https://www.youtube.com/watch?v=A3eDo9O5K4w)

@@ -13,7 +13,7 @@
 | Synchronize all notebooks | Shift + cmd + S |
 | Move keyboard focus to the page list. | Control + cmd + G |
 | Move keyboard focus to the section list. | Control + Shift + G |
-| Switch between sections in a notebook. | cmd + Shift +Opening brace ( { ) or Closing brace ( } ) |
+| Switch between sections in a notebook. | cmd + Shift +Opening brace ( `{` ) or Closing brace ( `}` ) |
 | View the list of your open notebooks. | Control + G |
 | Open a new window | ^ M (Ctrl + M) |
 | Close the selected window | cmd + W (Command + W) |

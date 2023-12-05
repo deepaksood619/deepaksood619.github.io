@@ -159,8 +159,8 @@ def connect_db(dbname):
 connect_db('company')
 ```
 
-<https://hackernoon.com/4-ways-to-manage-the-configuration-in-python-4623049e841b>
+https://hackernoon.com/4-ways-to-manage-the-configuration-in-python-4623049e841b
 
-<https://docs.python.org/3/library/configparser.html>
+https://docs.python.org/3/library/configparser.html
 
-<https://hackersandslackers.com/simplify-your-python-projects-configuration>
+https://hackersandslackers.com/simplify-your-python-projects-configuration

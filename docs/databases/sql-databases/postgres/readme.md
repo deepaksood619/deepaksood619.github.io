@@ -58,7 +58,7 @@ $$ LANGUAGE plpythonu;
 ## Advanced Features
 
 - in-memory caching
-- full text search - <https://rob.conery.io/2019/10/29/fine-tuning-full-text-search-with-postgresql-12>
+- full text search - https://rob.conery.io/2019/10/29/fine-tuning-full-text-search-with-postgresql-12
 - specialized indexing
 - key-value storage
 - Partial indexes
@@ -69,9 +69,9 @@ PostgreSQL offers two types for storing JSON data - json and jsonb.
 
 The json and jsonb data types accept *almost* identical sets of values as input. The major practical difference is one of efficiency. The json data type stores an exact copy of the input text, which processing functions must reparse on each execution; while jsonb data is stored in a decomposed binary format that makes it slightly slower to input due to added conversion overhead, but significantly faster to process, since no reparsing is needed. jsonb also supports indexing, which can be a significant advantage.
 
-<https://www.postgresql.org/docs/current/datatype-json.html>
+https://www.postgresql.org/docs/current/datatype-json.html
 
-<https://severalnines.com/database-blog/overview-json-capabilities-within-postgresql>
+https://severalnines.com/database-blog/overview-json-capabilities-within-postgresql
 
 [What are the differences between JSON or JSONB in PostgreSQL®?](https://ftisiot.net/postgresqljson/what-are-the-differences-json-jsonb-postgresql/)
 
@@ -97,11 +97,11 @@ A bloom index is perfect for multi-column queries on big tables where you only n
 
 Use a GIN or GiST index for efficient indexes based on composite values like text, arrays, and JSON.
 
-<https://habr.com/en/company/postgrespro/blog/448746>
+https://habr.com/en/company/postgrespro/blog/448746
 
 ## Streaming replication asynchronous and synchronous
 
-<https://severalnines.com/database-blog/converting-asynchronous-synchronous-replication-postgresql>
+https://severalnines.com/database-blog/converting-asynchronous-synchronous-replication-postgresql
 
 ## pg_trgm
 
@@ -111,21 +111,21 @@ A trigram is a group of three consecutive characters taken from a string. We can
 
 Note: pg_trgm ignores non-word characters (non-alphanumerics) when extracting trigrams from a string. Each word is considered to have two spaces prefixed and one space suffixed when determining the set of trigrams contained in the string. For example, the set of trigrams in the string "cat" is "c", "ca" , "cat", and "at". The set of trigrams in the string "foo|bar" is "f", "fo", "foo", "oo", "b", "ba", "bar", and "ar"
 
-<https://www.postgresql.org/docs/9.6/pgtrgm.html>
+https://www.postgresql.org/docs/9.6/pgtrgm.html
 
 ## Caching
 
-<https://madusudanan.com/blog/understanding-postgres-caching-in-depth>
+https://madusudanan.com/blog/understanding-postgres-caching-in-depth
 
 ## Database Physical Storage
 
-<https://www.postgresql.org/docs/current/storage.html>
+https://www.postgresql.org/docs/current/storage.html
 
 ## Advanced
 
-Low level working - <https://erthalion.info/2019/12/06/postgresql-stay-curious>
+Low level working - https://erthalion.info/2019/12/06/postgresql-stay-curious
 
-Locking Tuples internals - <https://github.com/postgres/postgres/blob/master/src/backend/access/heap/README.tuplock>
+Locking Tuples internals - https://github.com/postgres/postgres/blob/master/src/backend/access/heap/README.tuplock
 
 Youtube - [Breaking PostgreSQL at Scale - Christophe Pettus](https://www.youtube.com/watch?v=XUkTUMZRBE8)
 
@@ -133,16 +133,16 @@ Tools - pgadmin
 
 ## References
 
-- <http://www.postgresqltutorial.com>
-- <https://dev.to/digitalocean/-an-introduction-to-queries-in-postgresql-44la>
-- <https://postgrescheatsheet.com/#/databases>
+- http://www.postgresqltutorial.com
+- https://dev.to/digitalocean/-an-introduction-to-queries-in-postgresql-44la
+- https://postgrescheatsheet.com/#/databases
 - SE Radio - 328: Postgres Query Planner (Robert Blumen with Bruce Momjian)
-- <https://dev.to/heroku/postgres-is-underrated-it-handles-more-than-you-think-4ff3>
-- <https://sql-performance-explained.com>
-- <https://wiki.postgresql.org/wiki/Don%27t_Do_This>
+- https://dev.to/heroku/postgres-is-underrated-it-handles-more-than-you-think-4ff3
+- https://sql-performance-explained.com
+- https://wiki.postgresql.org/wiki/Don%27t_Do_This
 - [Scaling Postgres Episodes](https://www.youtube.com/playlist?list=PLdTaEgcmPg9Kl539gyIFtWL0-cqk3m7v9)
 - [PostgreSQL Tutorials](https://www.youtube.com/playlist?list=PLdTaEgcmPg9KiTCPWh-K961tiZrvhgfFu)
-- <https://zerodha.tech/blog/working-with-postgresql>
+- https://zerodha.tech/blog/working-with-postgresql
 - [Postgres Architecture Explained - YouTube](https://www.youtube.com/watch?v=Q56kljmIN14)
 - [Herding elephants: Lessons learned from sharding Postgres at Notion](https://www.notion.so/blog/sharding-postgres-at-notion)
 - [Postgres Copy](https://www.postgresql.org/docs/current/sql-copy.html)

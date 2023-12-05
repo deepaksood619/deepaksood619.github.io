@@ -14,7 +14,7 @@ Unlike memory management by [paging](https://en.wikipedia.org/wiki/Paging), data
 
 Copy-on-write(CoWorCOW), sometimes referred to asimplicit sharingorshadowing, is a resource-management technique used in [computer programming](https://en.wikipedia.org/wiki/Computer_programming) to efficiently implement a "duplicate" or "copy" operation on modifiable resources.If a resource is duplicated but not modified, it is not necessary to create a new resource; the resource can be shared between the copy and the original. Modifications must still create a copy, hence the technique: the copy operation is deferred to the first write. By sharing resources in this way, it is possible to significantly reduce the resource consumption of unmodified copies, while adding a small overhead to resource-modifying operations.
 
-<https://en.wikipedia.org/wiki/Copy-on-write>
+https://en.wikipedia.org/wiki/Copy-on-write
 
 ## Virtual Hard Drive
 
@@ -33,7 +33,7 @@ Part of the Wayland project is also the Weston reference implementation of a Way
 
 Weston is the reference implementation of a Wayland compositor also developed by the Wayland project. It is written in [C](https://en.wikipedia.org/wiki/C_(programming_language)) and published under the [MIT License](https://en.wikipedia.org/wiki/MIT_License). Weston has official support for only the [Linux](https://en.wikipedia.org/wiki/Linux) operating system due to Weston's dependence on certain features of the [Linux kernel](https://en.wikipedia.org/wiki/Linux_kernel), such as [kernel mode-setting](https://en.wikipedia.org/wiki/KMS_driver), [Graphics Execution Manager](https://en.wikipedia.org/wiki/Graphics_Execution_Manager)(GEM), and [udev](https://en.wikipedia.org/wiki/Udev), which have not been implemented in other Unix-like operating systems. When running on Linux, handling of the input hardware relies on [evdev](https://en.wikipedia.org/wiki/Evdev), while the handling of buffers relies on [Generic Buffer Management](https://en.wikipedia.org/wiki/Generic_Buffer_Management)(GBM). However, in 2013 a prototype port of Weston to [FreeBSD](https://en.wikipedia.org/wiki/FreeBSD) was announced.
 
-<https://en.wikipedia.org/wiki/Wayland_(display_server_protocol)#Weston>
+https://en.wikipedia.org/wiki/Wayland_(display_server_protocol)#Weston
 
 ## Handle
 
@@ -41,4 +41,4 @@ In [computer programming](https://en.wikipedia.org/wiki/Computer_programming), a
 
 Common resource handles are [file descriptors](https://en.wikipedia.org/wiki/File_descriptor), [network sockets](https://en.wikipedia.org/wiki/Network_socket), [database connections](https://en.wikipedia.org/wiki/Database_connection), [process identifiers](https://en.wikipedia.org/wiki/Process_identifier)(PIDs), and [job IDs](https://en.wikipedia.org/wiki/Job_ID). Process IDs and job IDs are explicitly visible integers, while file descriptors and sockets (which are often implemented as a form of file descriptor) are represented as integers, but are typically considered opaque. In traditional implementations, file descriptors are indices into a (per-process)[file descriptor table](https://en.wikipedia.org/wiki/File_descriptor_table), thence a (system-wide)[file table](https://en.wikipedia.org/wiki/File_table).
 
-<https://en.wikipedia.org/wiki/Handle_(computing)>
+https://en.wikipedia.org/wiki/Handle_(computing)

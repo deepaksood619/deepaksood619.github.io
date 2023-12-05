@@ -37,7 +37,7 @@ Description Problem
 
 - Unsupervised learning
 
-<https://www.coursera.org/learn/launching-machine-learning>
+https://www.coursera.org/learn/launching-machine-learning
 
 ## Practical ML
 
@@ -97,4 +97,4 @@ In this module we will walk you through how to optimize your ML models.
 
 Now it's time to answer a rather weird question: when is the most accurate ML model not the right one to pick? As we hinted at in the last module on Optimization -- simply because a model has a loss metric of 0 for your training dataset does not mean it will perform well on new data in the real world.
 
-<https://github.com/GoogleCloudPlatform/training-data-analyst>
+https://github.com/GoogleCloudPlatform/training-data-analyst

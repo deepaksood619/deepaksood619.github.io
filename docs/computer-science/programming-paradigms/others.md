@@ -6,13 +6,13 @@ In [software engineering](https://en.wikipedia.org/wiki/Software_engineering), b
 Although BDD is principally an idea about how software development should be managed by both business interests and technical insight, the practice of BDD does assume the use of specialized software tools to support the development process.Although these tools are often developed specifically for use in BDD projects, they can be seen as specialized forms of the tooling that supports test-driven development. The tools serve to add automation to the [ubiquitous language](https://en.wikipedia.org/wiki/Domain-driven_design#Building_blocks) that is a central theme of BDD.
 BDD is largely facilitated through the use of a simple [domain-specific language](https://en.wikipedia.org/wiki/Domain-specific_language)(DSL) using natural-language constructs (e.g., English-like sentences) that can express the behaviour and the expected outcomes. Test scripts have long been a popular application of DSLs with varying degrees of sophistication. BDD is considered an effective technical practice especially when the "problem space" of the business problem to solve is complex.
 
-<https://en.wikipedia.org/wiki/Behavior-driven_development>
+https://en.wikipedia.org/wiki/Behavior-driven_development
 
 ## Frameworks
 
 - Radish
 
-<http://radish-bdd.io>
+http://radish-bdd.io
 
 ## REPL Driven Development
 

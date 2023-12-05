@@ -21,6 +21,6 @@
 
 ## References
 
-<https://github.com/colinskow/move37/tree/master/ars>
+https://github.com/colinskow/move37/tree/master/ars
 
-<https://github.com/modestyachts/ARS>
+https://github.com/modestyachts/ARS

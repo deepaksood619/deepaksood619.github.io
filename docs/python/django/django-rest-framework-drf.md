@@ -47,7 +47,7 @@ django-admin.py startapp quickstart
 
 4. **Authentication & Permissions**
 
-    <https://nezhar.com/blog/django-rest-framework-permissions-in-depth>
+    https://nezhar.com/blog/django-rest-framework-permissions-in-depth
 
 5. **Relationships & hyperlinked APIs**
 
@@ -55,4 +55,4 @@ django-admin.py startapp quickstart
 
 7. **Schemas & client libraries**
 
-<https://www.youtube.com/playlist?list=PLLxk3TkuAYnrO32ABtQyw2hLRWt1BUrhj>
+https://www.youtube.com/playlist?list=PLLxk3TkuAYnrO32ABtQyw2hLRWt1BUrhj

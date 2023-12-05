@@ -35,11 +35,11 @@ iperf3 -V -d -s -p 5002 -P 10
 iperf3 -V -d -s -p 5002 -P 10 -R
 ```
 
-<https://en.wikipedia.org/wiki/Iperf>
+https://en.wikipedia.org/wiki/Iperf
 
-<https://github.com/esnet/iperf>
+https://github.com/esnet/iperf
 
-<https://iperf.fr/iperf-doc.php>
+https://iperf.fr/iperf-doc.php
 
 ## Retr
 

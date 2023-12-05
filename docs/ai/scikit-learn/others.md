@@ -17,14 +17,14 @@ Depending on the classification task at hand, you will want to use different cla
 
 As you gain more experience with classifiers you will develop a better sense for when to use which classifier. However, a common practice is to instantiate multiple classifiers and compare their performance against one another, then select the classifier which performs the best.
 
-<https://stackabuse.com/overview-of-classification-methods-in-python-with-scikit-learn>
+https://stackabuse.com/overview-of-classification-methods-in-python-with-scikit-learn
 
-<https://scikit-learn.org/stable/auto_examples/classification/plot_classifier_comparison.html>
+https://scikit-learn.org/stable/auto_examples/classification/plot_classifier_comparison.html
 
 ## Resources
 
-<https://www.dataquest.io/blog/sci-kit-learn-tutorial>
+https://www.dataquest.io/blog/sci-kit-learn-tutorial
 
-<https://www.freecodecamp.org/news/machine-learning-with-scikit-learn-full-course>
+https://www.freecodecamp.org/news/machine-learning-with-scikit-learn-full-course
 
-<https://www.freecodecamp.org/news/learn-scikit-learn>
+https://www.freecodecamp.org/news/learn-scikit-learn

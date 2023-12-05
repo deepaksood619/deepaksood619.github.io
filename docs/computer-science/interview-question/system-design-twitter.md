@@ -62,6 +62,6 @@ Problem with this structure is that to get a tweet corresponding to user, if wou
 
 ## TwitterBot / Twitter Bot
 
-<https://www.labnol.org/twitter-bots-tutorial-4796>
+https://www.labnol.org/twitter-bots-tutorial-4796
 
-<https://www.labnol.org/twitter-search-examples-203>
+https://www.labnol.org/twitter-search-examples-203

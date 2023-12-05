@@ -1,16 +1,16 @@
 # Ethical Hacking
 
-- <https://www.shodan.io/host/182.71.91.174>
-- <https://github.com/arthaud/git-dumper/blob/master/git-dumper.py>
-- <https://securitytrails.com/domain/example.com/history/a>
-- <https://www.youtube.com/watch?v=3Kq1MIfTWCE>
+- https://www.shodan.io/host/182.71.91.174
+- https://github.com/arthaud/git-dumper/blob/master/git-dumper.py
+- https://securitytrails.com/domain/example.com/history/a
+- https://www.youtube.com/watch?v=3Kq1MIfTWCE
 - [GitHub - Hack-with-Github/Awesome-Hacking: A collection of various awesome lists for hackers, pentesters and security researchers](https://github.com/Hack-with-Github/Awesome-Hacking)
 
 ## CISSP
 
 CISSP is a popular cyber security certification. Risk Management, Security Architecture, Network Security, Identity & Access Management, SecOps, and more
 
-<https://www.freecodecamp.org/news/get-ready-to-pass-cissp-exam>
+https://www.freecodecamp.org/news/get-ready-to-pass-cissp-exam
 
 ## White Hat hackers
 
@@ -26,18 +26,18 @@ A black hat hacker has no qualms about selling vulnerabilities and exploits to t
 
 ## Websites
 
-- <https://www.quora.com/Are-there-any-website-that-I-can-hack-legally-for-practice>
+- https://www.quora.com/Are-there-any-website-that-I-can-hack-legally-for-practice
 - [**https://hack.me/**](https://hack.me/)
-- <https://hackthissite.org>
-- <https://w3challs.com>
-- <https://dst.com.ng/15-vulnerable-sites-legally-practice-hacking-skills>
+- https://hackthissite.org
+- https://w3challs.com
+- https://dst.com.ng/15-vulnerable-sites-legally-practice-hacking-skills
 - [**https://tryhackme.com/**](https://tryhackme.com/)
-- <https://haveibeenpwned.com>
-- Damn Vulnerable Web Application (DVWA) - <http://www.dvwa.co.uk>
+- https://haveibeenpwned.com
+- Damn Vulnerable Web Application (DVWA) - http://www.dvwa.co.uk
 
 ## Tools
 
-- Festin - FestIn is a tool for discovering open S3 Buckets starting from a domains. - <https://github.com/cr0hn/festin>
+- Festin - FestIn is a tool for discovering open S3 Buckets starting from a domains. - https://github.com/cr0hn/festin
 - [GitHub - swisskyrepo/PayloadsAllTheThings: A list of useful payloads and bypass for Web Application Security and Pentest/CTF](https://github.com/swisskyrepo/PayloadsAllTheThings)
 
 ## Digital Forensics

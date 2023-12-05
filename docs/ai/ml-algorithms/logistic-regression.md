@@ -8,7 +8,7 @@ Unlike linear regression, the prediction for the output is transformed using a n
 
 The logistic function looks like a big S and will transform any value into the range 0 to 1. This is useful because we can apply a rule to the output of the logistic function to snap values to 0 and 1 (e.g. IF less than 0.5 then output 1) and predict a class value.
 
-<https://en.wikipedia.org/wiki/Logistic_function>
+https://en.wikipedia.org/wiki/Logistic_function
 
 Because of the way that the model is learned, the predictions made by logistic regression can also be used as the probability of a given data instance belonging to class 0 or class 1. This can be useful for problems where you need to give more rationale for a prediction.
 

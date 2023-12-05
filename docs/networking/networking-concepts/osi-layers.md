@@ -175,10 +175,10 @@ OSI model acts as a reference model and is not implemented in Internet because o
 
 ## References
 
-<https://www.digitalocean.com/community/tutorials/an-introduction-to-networking-terminology-interfaces-and-protocols>
+https://www.digitalocean.com/community/tutorials/an-introduction-to-networking-terminology-interfaces-and-protocols
 
-<https://www.freecodecamp.org/news/osi-model-networking-layers-explained-in-plain-english>
+https://www.freecodecamp.org/news/osi-model-networking-layers-explained-in-plain-english
 
-<https://www.freecodecamp.org/news/osi-model-computer-networking-for-beginners>
+https://www.freecodecamp.org/news/osi-model-computer-networking-for-beginners
 
-<https://www.freecodecamp.org/news/the-five-layers-model-explained>
+https://www.freecodecamp.org/news/the-five-layers-model-explained

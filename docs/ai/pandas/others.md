@@ -1,6 +1,6 @@
 # Others
 
-<https://en.wikipedia.org/wiki/Math_Kernel_Library>
+https://en.wikipedia.org/wiki/Math_Kernel_Library
 
 ## pandas_profiling
 
@@ -9,10 +9,10 @@ import pandas as pd
 
 import pandas_profiling
 
-pd.read_csv('<https://raw.githubusercontent.com/mwaskom/seaborn-data/master/planets.csv').profile_report()>
+pd.read_csv('https://raw.githubusercontent.com/mwaskom/seaborn-data/master/planets.csv').profile_report()
 ```
 
-<https://towardsdatascience.com/exploring-your-data-with-just-1-line-of-python-4b35ce21a82d>
+https://towardsdatascience.com/exploring-your-data-with-just-1-line-of-python-4b35ce21a82d
 
 ## Reading sql
 
@@ -38,7 +38,7 @@ mydb1.close()
 
 ## bamboolib
 
-<https://towardsdatascience.com/introducing-bamboolib-a-gui-for-pandas-4f6c091089e3>
+https://towardsdatascience.com/introducing-bamboolib-a-gui-for-pandas-4f6c091089e3
 
 ## Python Version
 

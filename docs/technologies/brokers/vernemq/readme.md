@@ -67,14 +67,14 @@ The routing score consists of two percentages similar to 75 / 25 indicating that
 
 ## Dashboards
 
-<http://localhost:8888/status>
+http://localhost:8888/status
 
-<http://localhost:8888/metrics>
+http://localhost:8888/metrics
 
 ## References
 
-<https://vernemq.com/intro>
+https://vernemq.com/intro
 
-<https://docs.vernemq.com/configuring-vernemq/storage>
+https://docs.vernemq.com/configuring-vernemq/storage
 
-<https://github.com/vernemq/vernemq>
+https://github.com/vernemq/vernemq

@@ -4,17 +4,17 @@
 
 ## Debugging Python
 
-- <https://github.com/microsoft/ptvsd>
-- <https://www.youtube.com/watch?v=b78Tg-YmJZI>
+- https://github.com/microsoft/ptvsd
+- https://www.youtube.com/watch?v=b78Tg-YmJZI
 
 ## CodeServer / Online Machine Environments
 
 - VS Code in the browser
-- <https://github.com/cdr/code-server>
-- <https://coder.com>
-- <https://vscode.dev>
-- <https://github.com/conwnet/github1s>
-- Gitpod - <https://www.freecodecamp.org/news/exampro-cloud-developer-environment-certification-gitpod-course>
+- https://github.com/cdr/code-server
+- https://coder.com
+- https://vscode.dev
+- https://github.com/conwnet/github1s
+- Gitpod - https://www.freecodecamp.org/news/exampro-cloud-developer-environment-certification-gitpod-course
 
 codeanywhere
 
@@ -46,8 +46,8 @@ codeanywhere
 - Reverse Search
 - Thunder client - postman for vscode
 - draw.io extension (test.dio file)
-- <https://marketplace.visualstudio.com/items?itemName=softwaredotcom.swdc-vscode>
-- <https://marketplace.visualstudio.com/items?itemName=alefragnani.project-manager>
+- https://marketplace.visualstudio.com/items?itemName=softwaredotcom.swdc-vscode
+- https://marketplace.visualstudio.com/items?itemName=alefragnani.project-manager
 
 ## Shortcuts
 
@@ -93,11 +93,11 @@ codeanywhere
 
 ![image](../../media/DevOps-IDEs-VSCode-VS-Code-image1.jpg)
 
-<https://dev.to/selrond/tips-to-use-vscode-more-efficiently-3h6p>
+https://dev.to/selrond/tips-to-use-vscode-more-efficiently-3h6p
 
-<https://www.youtube.com/watch?v=WPqXP_kLzpo>
+https://www.youtube.com/watch?v=WPqXP_kLzpo
 
-<https://www.youtube.com/watch?v=ifTF3ags0XI>
+https://www.youtube.com/watch?v=ifTF3ags0XI
 
 ## Settings.json (command + <)
 

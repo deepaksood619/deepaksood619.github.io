@@ -14,11 +14,11 @@
 | **emqtt** | [Opensource, enterprise] Erlang MQTT Broker is a distributed, massively scalable, highly extensible MQTT message broker written in Erlang/OTP. |
 | **VerneMQ** | [Opensource] VerneMQ is a high-performance, distributed MQTT broker. It scales horizontally and vertically on commodity hardware to support a high number of concurrent publishers and consumers while maintaining low latency and fault tolerance. VerneMQ is the reliable message hub for your IoT platform or smart products. |
 
-<https://blog.autsoft.hu/choosing-an-mqtt-broker-for-your-iot-project>
+https://blog.autsoft.hu/choosing-an-mqtt-broker-for-your-iot-project
 
-<https://en.wikipedia.org/wiki/Comparison_of_MQTT_Implementations>
+https://en.wikipedia.org/wiki/Comparison_of_MQTT_Implementations
 
-Public mqtt brokers for testing - <https://github.com/mqtt/mqtt.github.io/wiki/public_brokers>
+Public mqtt brokers for testing - https://github.com/mqtt/mqtt.github.io/wiki/public_brokers
 
 ## MQTT Client Libraries
 

@@ -9,7 +9,7 @@ sudo apt-get -y install docker.io
 
 ~~--add-host="" : Add a line to /etc/hosts (host:IP)~~
 
-<https://docs.docker.com/engine/install/ubuntu>
+https://docs.docker.com/engine/install/ubuntu
 
 sudo service docker start
 
@@ -108,9 +108,9 @@ docker logs smap-archiver > stdout.log 2>stderr.log
 
 Images are just [templates for docker containers](https://docs.docker.com/engine/understanding-docker/#how-does-a-docker-image-work).
 
-<https://hub.docker.com/r/ealen/echo-server>
+https://hub.docker.com/r/ealen/echo-server
 
-<https://hub.docker.com/_/hello-world>
+https://hub.docker.com/_/hello-world
 
 ### Lifecycle
 
@@ -201,7 +201,7 @@ cd /var/lib/docker/volumes/druid-volume/_data/segment-cache
 - docker image prune -a
 ```
 
-<https://github.com/onfido/k8s-cleanup>
+https://github.com/onfido/k8s-cleanup
 
 ## Base Commands
 

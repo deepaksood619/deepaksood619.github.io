@@ -36,7 +36,7 @@ Able to search ~5cr entries in 7 mins of average time with 4-5 where conditions
   - No definition of anInnoDBtable employing user-defined partitioning may contain foreign key references; noInnoDBtable whose definition contains foreign key references may be partitioned.
   - NoInnoDBtable definition may contain a foreign key reference to a user-partitioned table; noInnoDBtable with user-defined partitioning may contain columns referenced by foreign keys.
 
-<https://dev.mysql.com/doc/mysql-partitioning-excerpt/5.7/en/partitioning-limitations.html>
+https://dev.mysql.com/doc/mysql-partitioning-excerpt/5.7/en/partitioning-limitations.html
 
 ## Performance Tuning
 
@@ -48,13 +48,13 @@ Able to search ~5cr entries in 7 mins of average time with 4-5 where conditions
   - A mostly sequential PRIMARY KEY is generally recommended to avoid inserting rows between existing rows
 - `max_execution_time` limit for long running SQL Queries
 
-<https://dev.mysql.com/doc/refman/5.7/en/server-system-variables.html>
+https://dev.mysql.com/doc/refman/5.7/en/server-system-variables.html
 
 ## Optimizations
 
 ### Always do bulk inserts/updates wherever possible
 
-<https://blog.jooq.org/2018/04/19/the-performance-difference-between-sql-row-by-row-updating-batch-updating-and-bulk-updating>
+https://blog.jooq.org/2018/04/19/the-performance-difference-between-sql-row-by-row-updating-batch-updating-and-bulk-updating
 
 if autoincrement is used, then for every query there is roundtrip to database to check the autoincrement value, so use bulk insert if possible
 
@@ -99,7 +99,7 @@ CHECK TABLE table_name;
 REPAIR TABLE table_name;
 ```
 
-<https://www.mysqltutorial.org/mysql-database-table-maintenance-statements.aspx>
+https://www.mysqltutorial.org/mysql-database-table-maintenance-statements.aspx
 
 ### Defragmentation
 
@@ -111,9 +111,9 @@ You can use [OPTIMIZE TABLE](https://dev.mysql.com/doc/refman/8.0/en/optimize-ta
 
 This statement requires [SELECT](https://dev.mysql.com/doc/refman/8.0/en/privileges-provided.html#priv_select) and [INSERT](https://dev.mysql.com/doc/refman/8.0/en/privileges-provided.html#priv_insert) privileges for the table.
 
-<https://www.thegeekstuff.com/2016/04/mysql-optimize-table>
+https://www.thegeekstuff.com/2016/04/mysql-optimize-table
 
-<https://dev.mysql.com/doc/refman/8.0/en/optimize-table.html>
+https://dev.mysql.com/doc/refman/8.0/en/optimize-table.html
 
 ## Optimizing data size
 
@@ -141,7 +141,7 @@ This statement requires [SELECT](https://dev.mysql.com/doc/refman/8.0/en/privile
 - Normally, try to keep all data nonredundant (observing what is referred to in database theory asthird normal form). Instead of repeating lengthy values such as names and addresses, assign them unique IDs, repeat these IDs as needed across multiple smaller tables, and join the tables in queries by referencing the IDs in the join clause.
 - If speed is more important than disk space and the maintenance costs of keeping multiple copies of data, for example in a business intelligence scenario where you analyze all the data from large tables, you can relax the normalization rules, duplicating information or creating summary tables to gain more speed.
 
-<https://dev.mysql.com/doc/refman/8.0/en/data-size.html>
+https://dev.mysql.com/doc/refman/8.0/en/data-size.html
 
 [SQL Server Performance Essentials -- Full Course](https://www.youtube.com/watch?v=HvxmF0FUwrM)
 

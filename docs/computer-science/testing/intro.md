@@ -26,11 +26,11 @@ In contrast, an **unhappy execution path** is dealing with unwanted inputs. This
 
 Property testing is pretty cool. There you don't test for single values, but you check if a property is still held. For example, the output of a factorization function can be multiplied and should equal the input
 
-<https://medium.com/swlh/unit-testing-in-python-basics-21a9a57418a0>
+https://medium.com/swlh/unit-testing-in-python-basics-21a9a57418a0
 
 ## Property Based Testing
 
-<https://levelup.gitconnected.com/unit-testing-in-python-property-based-testing-892a741fc119>
+https://levelup.gitconnected.com/unit-testing-in-python-property-based-testing-892a741fc119
 
 [Code Checking Automation - Computerphile](https://www.youtube.com/watch?v=AfaNEebCDos)
 
@@ -41,11 +41,11 @@ The root cause is the actual cause of a specific problem or set of problems, and
 
 RCA is a reactive method, as opposed to preventive, since it will be employed only after a problem has occurred in order to find its cause and prevent it from happening again.
 
-<https://www.techopedia.com/definition/30361/root-cause-analysis-rca>
+https://www.techopedia.com/definition/30361/root-cause-analysis-rca
 
-<https://www.freecodecamp.org/news/what-is-a-software-post-mortem>
+https://www.freecodecamp.org/news/what-is-a-software-post-mortem
 
-<https://about.gitlab.com/handbook/customer-success/professional-services-engineering/workflows/internal/root-cause-analysis.html>
+https://about.gitlab.com/handbook/customer-success/professional-services-engineering/workflows/internal/root-cause-analysis.html
 
 ## Pre Production Testing
 
@@ -60,7 +60,7 @@ RCA is a reactive method, as opposed to preventive, since it will be employed on
 - Load tests
 - Smoke tests
 - Coverage tests
-- Regression tests - <https://www.toptal.com/web-qa/ui-visual-regression-testing>
+- Regression tests - https://www.toptal.com/web-qa/ui-visual-regression-testing
 - Acceptance tests
 - Property based tests
 - Usability tests
@@ -81,7 +81,7 @@ RCA is a reactive method, as opposed to preventive, since it will be employed on
 - Real user monitoring
 - User engagement tests
 - **A/B testing**
-  - <https://www.optimizely.com>
+  - https://www.optimizely.com
 
 ## Multivariate Testing
 
@@ -89,10 +89,10 @@ Multivariate testing(or A/B testing)is when you make product changes that are on
 
 When running A/B tests it is important to remember that sample size matters. If option A and B are only shown to a few hundred visitors then it doesn't really matter what the results say. You don't have enough participants in the test to make the statistics meaningful. Here is an anecdote to illuminate this point. If you run an A/B test for 1 day, and on that day you have 2,000 visitors, and option A gave you the results you wanted 70% of the time, then you'd think this experiment is a success. Later you find out that this was the same day that a new blog linked to your product and the traffic from this blog accounted for 90% of your traffic that day. At best, your A/B test has uncovered something about the audience of this blog, not about the users of your product as a whole.- Traffic shifting
 
-<https://copyconstruct.medium.com/testing-in-production-the-safe-way-18ca102d0ef1>
+https://copyconstruct.medium.com/testing-in-production-the-safe-way-18ca102d0ef1
 
 [Why Good Developers Write Bad Tests](https://www.youtube.com/watch?v=oO-FMAdjY68)
 
-<https://www.toptal.com/test-automation-engineer/automated-testing-best-practices>
+https://www.toptal.com/test-automation-engineer/automated-testing-best-practices
 
 [Investing in Unit Testing: Benefits and Approaches | Toptal](https://www.toptal.com/unit-testing/unit-testing-benefits)

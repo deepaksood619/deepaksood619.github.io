@@ -2,9 +2,9 @@
 
 ## Pregnancy
 
-<https://www.youtube.com/watch?v=F_ssj7-8rYg>
+https://www.youtube.com/watch?v=F_ssj7-8rYg
 
-<https://www.parents.com/pregnancy/giving-birth/labor-and-delivery/checklist-how-to-write-a-birth-plan>
+https://www.parents.com/pregnancy/giving-birth/labor-and-delivery/checklist-how-to-write-a-birth-plan
 
 15 percent of pregnancies end in miscarriage
 

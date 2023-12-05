@@ -47,7 +47,7 @@ for name in Song.objects.filter(artist=a).values_list("name", flat=True):
     names.append(name)
 ```
 
-<https://www.peterbe.com/plog/django-orm-optimization-story-on-selecting-the-least-possible>
+https://www.peterbe.com/plog/django-orm-optimization-story-on-selecting-the-least-possible
 
 ## Messages Framework
 
@@ -80,7 +80,7 @@ Generic views abstract common patterns to the point where you don't even need to
 
 ## Custom Authentication Backend / Authorization
 
-<https://docs.djangoproject.com/en/1.11/topics/auth/customizing>
+https://docs.djangoproject.com/en/1.11/topics/auth/customizing
 
 [Authentication backends](https://docs.djangoproject.com/en/1.11/topics/auth/customizing/#authentication-backends) provide an extensible system for when a username and password stored with the user model need to be authenticated against a different service than Django's default.
 
@@ -102,7 +102,7 @@ Django maintains a list of "authentication backend" that is checks for authentic
 
 ### Libraries
 
-<https://github.com/James1345/django-rest-knox>
+https://github.com/James1345/django-rest-knox
 
 Django-allauth
 
@@ -186,13 +186,13 @@ author.copies_sold
 11
 ```
 
-<https://docs.djangoproject.com/en/2.2/topics/db/managers>
+https://docs.djangoproject.com/en/2.2/topics/db/managers
 
 ## reStructured Text (reST)
 
 Markup language for Sphinx Documentation in Django.
 
-<https://pythonhosted.org/an_example_pypi_project/sphinx.html>
+https://pythonhosted.org/an_example_pypi_project/sphinx.html
 
 Bold and italics are done like this:
 
@@ -200,32 +200,32 @@ Bold and italics are done like this:
 
 ## Django Resources
 
-<https://www.reddit.com/r/django/comments/rrcj0m/any_enterprise_level_open_source_django_project>
+https://www.reddit.com/r/django/comments/rrcj0m/any_enterprise_level_open_source_django_project
 
-<https://github.com/getsentry/sentry>
+https://github.com/getsentry/sentry
 
-<https://github.com/taigaio>
+https://github.com/taigaio
 
-<https://github.com/edx/edx-platform>
+https://github.com/edx/edx-platform
 
 ## Others
 
-<https://medium.com/@DoorDash/tips-for-building-high-quality-django-apps-at-scale-a5a25917b2b5>
+https://medium.com/@DoorDash/tips-for-building-high-quality-django-apps-at-scale-a5a25917b2b5
 
-<https://medium.com/@hakibenita/things-you-must-know-about-django-admin-as-your-app-gets-bigger-6be0b0ee9614>
+https://medium.com/@hakibenita/things-you-must-know-about-django-admin-as-your-app-gets-bigger-6be0b0ee9614
 
-<https://data-flair.training/blogs/django-file-upload>
+https://data-flair.training/blogs/django-file-upload
 
-<https://docs.djangoproject.com/en/2.0/topics/class-based-views/intro/#decorating-the-class>
+https://docs.djangoproject.com/en/2.0/topics/class-based-views/intro/#decorating-the-class
 
-<https://simpleisbetterthancomplex.com/tutorial/2018/01/18/how-to-implement-multiple-user-types-with-django.html>
+https://simpleisbetterthancomplex.com/tutorial/2018/01/18/how-to-implement-multiple-user-types-with-django.html
 
 [Python Django and Google APIs - Project Tutorial](https://www.youtube.com/watch?v=_vCT42vDfgw&ab_channel=freeCodeCamp.org)
 
-<https://www.freecodecamp.org/news/django-project-create-a-digital-resume-using-django-and-python>
+https://www.freecodecamp.org/news/django-project-create-a-digital-resume-using-django-and-python
 
-<https://www.freecodecamp.org/news/create-a-netflix-clone-with-django-and-tailwind-css>
+https://www.freecodecamp.org/news/create-a-netflix-clone-with-django-and-tailwind-css
 
-<https://www.toptal.com/django/django-top-10-mistakes>
+https://www.toptal.com/django/django-top-10-mistakes
 
 [Django App Security: A Pydantic Tutorial, Part 4 | Toptal®](https://www.toptal.com/django/secure-django-heroku-pydantic-tutorial-part-4)

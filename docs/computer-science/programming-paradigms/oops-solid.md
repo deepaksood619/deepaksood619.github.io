@@ -34,7 +34,7 @@ In java, we use abstract class and interface to achieve abstraction.
 
 ### Leaky Abstraction
 
-<https://www.joelonsoftware.com/2002/11/11/the-law-of-leaky-abstractions>
+https://www.joelonsoftware.com/2002/11/11/the-law-of-leaky-abstractions
 
 Abstractions fail. Sometimes a little, sometimes a lot. There's leakage. Things go wrong. It happens all over the place when you have abstractions.
 
@@ -121,7 +121,7 @@ class Printer {
 4. Linearity Polymorphism
 5. Levity Polymorphism
 
-<https://dev.to/jvanbruegge/what-the-heck-is-polymorphism-nmh>
+https://dev.to/jvanbruegge/what-the-heck-is-polymorphism-nmh
 
 ## Inheritance, Encapsulation and Polymorphism are 3 pillars of OOPs
 
@@ -196,7 +196,7 @@ Delegation can be implemented with two different mechanisms: composition and inh
 
 Composition over inheritance(orcomposite reuse principle) in [object-oriented programming](https://en.wikipedia.org/wiki/Object-oriented_programming)(OOP) is the principle that classes should achieve [polymorphic](https://en.wikipedia.org/wiki/Polymorphism_(computer_science)) behavior and [code reuse](https://en.wikipedia.org/wiki/Code_reuse) by their [composition](https://en.wikipedia.org/wiki/Object_composition)(by containing instances of other classes that implement the desired functionality) rather than [inheritance](https://en.wikipedia.org/wiki/Inheritance_(computer_science)) from a base or parent class.This is an often-stated principle of OOP, such as in the influential book [Design Patterns](https://en.wikipedia.org/wiki/Design_Patterns).
 
-<https://en.wikipedia.org/wiki/Composition_over_inheritance>
+https://en.wikipedia.org/wiki/Composition_over_inheritance
 
 [The Flaws of Inheritance](https://www.youtube.com/watch?v=hxGOiiR9ZKg)
 
@@ -217,14 +217,14 @@ def speak(self):
 SomeClass.speak = speak
 ```
 
-<https://thecodebits.com/monkey-patching-in-python-explained-with-examples>
+https://thecodebits.com/monkey-patching-in-python-explained-with-examples
 
 ## OOAD (Object Oriented Analysis and Design)
 
 Object-oriented analysis and design(OOAD) is a popular technical approach for analyzing and designing an application, system, or business by applying [object-oriented programming](https://en.wikipedia.org/wiki/Object-oriented_programming), as well as using visual modeling throughout the [development life cycles](https://en.wikipedia.org/wiki/Software_development_process) to foster better stakeholder communication and product quality.
 According to the popular guide [Unified Process](https://en.wikipedia.org/wiki/Unified_Process), OOAD in modern software engineering is best conducted in an iterative and incremental way. Iteration by iteration, the outputs of OOAD activities, analysis models for OOA and design models for OOD respectively, will be refined and evolve continuously driven by key factors like risks and business value.
 
-<https://en.wikipedia.org/wiki/Object-oriented_analysis_and_design>
+https://en.wikipedia.org/wiki/Object-oriented_analysis_and_design
 
 ## Important Points
 
@@ -238,11 +238,11 @@ According to the popular guide [Unified Process](https://en.wikipedia.org/wiki/U
 - superclass or base class
 - subclass or derived class
 
-<https://medium.com/@cscalfani/goodbye-object-oriented-programming-a59cda4c0e53>
+https://medium.com/@cscalfani/goodbye-object-oriented-programming-a59cda4c0e53
 
-<https://en.wikipedia.org/wiki/Mixin>
+https://en.wikipedia.org/wiki/Mixin
 
-<http://blog.thedigitalcatonline.com/blog/2014/08/20/python-3-oop-part-3-delegation-composition-and-inheritance>
+http://blog.thedigitalcatonline.com/blog/2014/08/20/python-3-oop-part-3-delegation-composition-and-inheritance
 
 ## SOLID principles
 
@@ -276,9 +276,9 @@ It states that the high level module must not depend on the low level module, bu
 
 The dependency inversion principle tells us that we should always try to have dependencies on interfaces (or Abstract Classes), not classes.
 
-<https://javapapers.com/oops/association-aggregation-composition-abstraction-generalization-realization-dependency>
+https://javapapers.com/oops/association-aggregation-composition-abstraction-generalization-realization-dependency
 
-<https://scotch.io/bar-talk/s-o-l-i-d-the-first-five-principles-of-object-oriented-design>
+https://scotch.io/bar-talk/s-o-l-i-d-the-first-five-principles-of-object-oriented-design
 
 ## STUPID
 

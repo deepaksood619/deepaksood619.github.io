@@ -12,4 +12,4 @@
 
 ## References
 
-<https://www.khanacademy.org/math/linear-algebra/alternate-bases>
+https://www.khanacademy.org/math/linear-algebra/alternate-bases

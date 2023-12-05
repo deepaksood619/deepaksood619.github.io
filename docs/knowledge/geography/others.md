@@ -20,7 +20,7 @@ The term **hermit kingdom** is used to refer to any country, organization or soc
 
 ![image](../../media/Others-image4.jpg)
 
-<https://lotusarise.com/koppen-climate-classification-system-upsc>
+https://lotusarise.com/koppen-climate-classification-system-upsc
 
 ## Climatology: [Climatology](https://www.youtube.com/playlist?list=PL1vNLZF5gfwdEws_cLSiMQfXDC6ev3knK)
 

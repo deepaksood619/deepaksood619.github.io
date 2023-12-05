@@ -83,7 +83,7 @@
 
 ## Competitive programming coding patterns
 
-<https://levelup.gitconnected.com/dont-just-leetcode-follow-the-coding-patterns-instead-4beb6a197fdb>
+https://levelup.gitconnected.com/dont-just-leetcode-follow-the-coding-patterns-instead-4beb6a197fdb
 
 ## 10 golden rules for solving a coding question in an interview
 

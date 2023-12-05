@@ -1,80 +1,80 @@
 # Course
 
-Roadmap - <https://www.youtube.com/watch?v=Ip_jOSpThSg>
+Roadmap - https://www.youtube.com/watch?v=Ip_jOSpThSg
 
-<https://roadmap.sh/react>
+https://roadmap.sh/react
 
-<https://github.com/adam-golab/react-developer-roadmap>
+https://github.com/adam-golab/react-developer-roadmap
 
 ## Coding Questions
 
-<https://www.testdome.com/d/react-js-interview-questions/304>
+https://www.testdome.com/d/react-js-interview-questions/304
 
-<https://www.testdome.com/questions/57704?generatorId=104&questionIds=57704,45258,56768&type=FromTest>
+https://www.testdome.com/questions/57704?generatorId=104&questionIds=57704,45258,56768&type=FromTest
 
-<https://www.toptal.com/react/interview-questions>
+https://www.toptal.com/react/interview-questions
 
 ## Course
 
-<https://www.freecodecamp.org/news/getting-started-with-react-a-modern-project-based-guide-for-beginners-including-hooks-2>
+https://www.freecodecamp.org/news/getting-started-with-react-a-modern-project-based-guide-for-beginners-including-hooks-2
 
-<https://www.freecodecamp.org/news/best-react-javascript-tutorial>
+https://www.freecodecamp.org/news/best-react-javascript-tutorial
 
-<https://www.freecodecamp.org/news/react-10-hour-course>
+https://www.freecodecamp.org/news/react-10-hour-course
 
-<https://www.freecodecamp.org/news/build-a-shopping-cart-with-react-and-typescript>
+https://www.freecodecamp.org/news/build-a-shopping-cart-with-react-and-typescript
 
-<https://www.freecodecamp.org/news/learn-all-about-micro-frontends>
+https://www.freecodecamp.org/news/learn-all-about-micro-frontends
 
 ## Completed
 
-<https://www.youtube.com/watch?v=sfmL6bGbiN8&ab_channel=freeCodeCamp.org>
+https://www.youtube.com/watch?v=sfmL6bGbiN8&ab_channel=freeCodeCamp.org
 
-<https://github.com/deepaksood619/react-shopping-cart>
+https://github.com/deepaksood619/react-shopping-cart
 
-## Advanced - <https://www.youtube.com/watch?v=m_u6P5k0vP0>
+## Advanced - https://www.youtube.com/watch?v=m_u6P5k0vP0
 
-## Other - <https://www.youtube.com/watch?v=8GXXGJRDMdQ>
+## Other - https://www.youtube.com/watch?v=8GXXGJRDMdQ
 
-<https://www.youtube.com/playlist?list=PLZlA0Gpn_vH_NT5zPVp18nGe_W9LqBDQK>
+https://www.youtube.com/playlist?list=PLZlA0Gpn_vH_NT5zPVp18nGe_W9LqBDQK
 
-## Project - <https://www.freecodecamp.org/news/how-to-build-a-quiz-app-using-react-and-typescript>
+## Project - https://www.freecodecamp.org/news/how-to-build-a-quiz-app-using-react-and-typescript
 
-<https://www.freecodecamp.org/news/solidify-your-react-skills-by-building-15-projects>
+https://www.freecodecamp.org/news/solidify-your-react-skills-by-building-15-projects
 
-<https://www.freecodecamp.org/news/react-beginner-handbook>
+https://www.freecodecamp.org/news/react-beginner-handbook
 
-<https://www.freecodecamp.org/news/learn-react-js-in-this-free-7-hour-course>
+https://www.freecodecamp.org/news/learn-react-js-in-this-free-7-hour-course
 
-<https://www.freecodecamp.org/news/code-a-dictionary-with-react-and-material-ui>
+https://www.freecodecamp.org/news/code-a-dictionary-with-react-and-material-ui
 
-<https://www.freecodecamp.org/news/learn-react-by-building-an-ecommerce-site>
+https://www.freecodecamp.org/news/learn-react-by-building-an-ecommerce-site
 
-Export html to pdf - <https://www.telerik.com/blogs/generating-pdf-react-easy-as-1-2-3>
+Export html to pdf - https://www.telerik.com/blogs/generating-pdf-react-easy-as-1-2-3
 
-<https://www.robinwieruch.de/react-hooks-fetch-data>
+https://www.robinwieruch.de/react-hooks-fetch-data
 
 TODO project - [Learn React In 30 Minutes](https://www.youtube.com/watch?v=hQAHSlTtcmY)
 
-<https://github.com/enaqx/awesome-react>
+https://github.com/enaqx/awesome-react
 
-<https://www.freecodecamp.org/news/free-react-course-2022>
+https://www.freecodecamp.org/news/free-react-course-2022
 
-<https://www.freecodecamp.org/news/create-a-portfolio-with-react-featuring-cool-animations>
+https://www.freecodecamp.org/news/create-a-portfolio-with-react-featuring-cool-animations
 
-<https://www.freecodecamp.org/news/build-a-google-docs-clone-with-react-and-firebase>
+https://www.freecodecamp.org/news/build-a-google-docs-clone-with-react-and-firebase
 
 ## Reference Projects
 
-<https://github.com/taniarascia/takenote>
+https://github.com/taniarascia/takenote
 
-<https://codewithnico.com/production-ready-react-apps>
+https://codewithnico.com/production-ready-react-apps
 
-<https://madewithreact.com>
+https://madewithreact.com
 
-<https://scrimba.com/g/glearnreact>
+https://scrimba.com/g/glearnreact
 
-<https://www.youtube.com/watch?v=DLX62G4lc44>
+https://www.youtube.com/watch?v=DLX62G4lc44
 
 - Components
 - JSX

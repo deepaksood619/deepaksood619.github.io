@@ -126,7 +126,7 @@ We will have administration capabilities via Apache Ambari.
 
 Real-time free stock data is available from IEX with no license key. The data streams in very fast, thankfully that's no issue for Apache NiFi and Kafka.
 
-<https://dzone.com/articles/real-time-stock-processing-with-apache-nifi-and-ap>
+https://dzone.com/articles/real-time-stock-processing-with-apache-nifi-and-ap
 
 ## example Streaming Architecture
 
@@ -144,18 +144,18 @@ There are API implications with this decision too, particularly from an ergonomi
 
 Circling back on consumer scalability, the fact that NATS Streaming uses a push-based model means we can't simply setup read replicas and balance consumers among them. Instead, we would need to partition consumers among the replicas so that each server is responsible for pushing data to a subset of consumers. The increased complexity over pull becomes immediately apparent here.
 
-<https://bravenewgeek.com/building-a-distributed-log-from-scratch-part-3-scaling-message-delivery>
+https://bravenewgeek.com/building-a-distributed-log-from-scratch-part-3-scaling-message-delivery
 
 ## Reference
 
-<https://dzone.com/articles/apache-kafka-mqtt-end-to-end-iot-integration-githu>
+https://dzone.com/articles/apache-kafka-mqtt-end-to-end-iot-integration-githu
 
-<https://www.confluent.io/kafka-summit-sf18/processing-iot-data-from-end-to-end>
+https://www.confluent.io/kafka-summit-sf18/processing-iot-data-from-end-to-end
 
-<http://cloudurable.com/blog/what-is-kafka/index.html>
+http://cloudurable.com/blog/what-is-kafka/index.html
 
 ## Projects
 
-- <https://github.com/kaiwaehner/ksql-udf-deep-learning-mqtt-iot>
-- <https://github.com/kaiwaehner/kafka-connect-iot-mqtt-connector-example>
-- <https://github.com/kaiwaehner/ksql-fork-with-deep-learning-functionp>
+- https://github.com/kaiwaehner/ksql-udf-deep-learning-mqtt-iot
+- https://github.com/kaiwaehner/kafka-connect-iot-mqtt-connector-example
+- https://github.com/kaiwaehner/ksql-fork-with-deep-learning-functionp

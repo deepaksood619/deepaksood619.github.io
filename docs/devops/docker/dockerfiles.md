@@ -62,16 +62,16 @@ Dockerfile defines what goes on in the environment inside your container. Access
 
 - Shell & Exec form
 
-<http://goinbigdata.com/docker-run-vs-cmd-vs-entrypoint>
+http://goinbigdata.com/docker-run-vs-cmd-vs-entrypoint
 
-<https://docs.docker.com/develop/develop-images/dockerfile_best-practices>
+https://docs.docker.com/develop/develop-images/dockerfile_best-practices
 
-<https://www.docker.com/blog/intro-guide-to-dockerfile-best-practices>
+https://www.docker.com/blog/intro-guide-to-dockerfile-best-practices
 
 ## Advanced
 
-<https://www.docker.com/blog/advanced-dockerfiles-faster-builds-and-smaller-images-using-buildkit-and-multistage-builds>
+https://www.docker.com/blog/advanced-dockerfiles-faster-builds-and-smaller-images-using-buildkit-and-multistage-builds
 
-<https://sysdig.com/blog/dockerfile-best-practices>
+https://sysdig.com/blog/dockerfile-best-practices
 
 [Building Small Containers (Kubernetes Best Practices)](https://www.youtube.com/watch?v=wGz_cbtCiEA)

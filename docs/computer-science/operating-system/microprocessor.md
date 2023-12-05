@@ -31,4 +31,4 @@
 
 ## References
 
-<https://www.edgefxkits.com/blog/what-is-risc-and-cisc-architecture>
+https://www.edgefxkits.com/blog/what-is-risc-and-cisc-architecture

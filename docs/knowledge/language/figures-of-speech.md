@@ -134,11 +134,11 @@ Analogy is a [cognitive](https://en.wikipedia.org/wiki/Cognition) process of tra
 - Rhetoric can be used for malicious purposes, to influence and manipulate
 - Actionable advice: Analyse the information you receive
 
-<https://www.thoughtco.com/top-figures-of-speech-1691818>
+https://www.thoughtco.com/top-figures-of-speech-1691818
 
-<https://www.quora.com/What-is-the-difference-between-a-rhetorical-and-non-rhetorical-question>
+https://www.quora.com/What-is-the-difference-between-a-rhetorical-and-non-rhetorical-question
 
-<https://en.wikipedia.org/wiki/Rhetoric>
+https://en.wikipedia.org/wiki/Rhetoric
 
 ## Word Play
 
@@ -188,4 +188,4 @@ I fear no more."
 - [Tongue Twisters](https://www.thoughtco.com/tongue-twister-1692473)
     "Chester chooses chestnuts, cheddar cheese with chewy chives. He chews them and he chooses them. He chooses them and he chews them. . . . those chestnuts, cheddar cheese and chives in cheery, charming chunks."- repetition of the "ch" sound.
 
-<https://www.thoughtco.com/word-play-definition-1692504>
+https://www.thoughtco.com/word-play-definition-1692504

@@ -4,9 +4,9 @@ PEP-0 - Python Enhancement Proposals
 
 PEP-20 - Zen of Python (import this)
 
-<https://www.python.org/dev/peps/pep-0001/#what-is-a-pep>
+https://www.python.org/dev/peps/pep-0001/#what-is-a-pep
 
-<https://www.python.org/dev/peps/pep-0020> (The Zen of Python)
+https://www.python.org/dev/peps/pep-0020 (The Zen of Python)
 
 ## PEP-8 - Python Style Guide
 

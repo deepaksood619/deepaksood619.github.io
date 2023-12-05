@@ -11,11 +11,11 @@
 
 HAProxy is a free, veryfast and reliable solution offering [high availability](http://en.wikipedia.org/wiki/High_availability), [load balancing](http://en.wikipedia.org/wiki/Load_balancer), and proxying for TCP and HTTP-based applications. It is particularly suited for very high traffic web sites and powers quite a number of the world's most visited ones.
 
-<https://www.haproxy.com/solutions/load-balancing>
+https://www.haproxy.com/solutions/load-balancing
 
-<https://www.haproxy.com/blog/the-history-of-haproxy>
+https://www.haproxy.com/blog/the-history-of-haproxy
 
-<https://blog.opstree.com/2020/08/18/haproxy-hurdles-walkthrough>
+https://blog.opstree.com/2020/08/18/haproxy-hurdles-walkthrough
 
 ## Keepalived
 
@@ -29,10 +29,10 @@ Envoy is an open source edge and service proxy, designed for cloud-native applic
 
 Originally built atLyft, Envoy is a high performance C++ distributed proxy designed for single services and applications, as well as a communication bus and "universal data plane" designed for large microservice "service mesh" architectures. Built on the learnings of solutions such as NGINX, HAProxy, hardware load balancers, and cloud load balancers, Envoy runs alongside every application and abstracts the network by providing common features in a platform-agnostic manner. When all service traffic in an infrastructure flows via an Envoy mesh, it becomes easy to visualize problem areas via consistent observability, tune overall performance, and add substrate features in a single place.
 
-<https://github.com/envoyproxy/envoy>
+https://github.com/envoyproxy/envoy
 
-<https://www.envoyproxy.io/docs/envoy/latest/intro/intro>
+https://www.envoyproxy.io/docs/envoy/latest/intro/intro
 
 ## Secret discovery service (SDS)
 
-<https://www.envoyproxy.io/docs/envoy/latest/configuration/security/secret>
+https://www.envoyproxy.io/docs/envoy/latest/configuration/security/secret

@@ -60,7 +60,7 @@ In summary, **Bitcoin is a cryptocurrency built on a blockchain, while Ethereum 
 
 ## Web3
 
-<https://www.notboring.co/p/braintrust-fighting-capitalism-with>
+https://www.notboring.co/p/braintrust-fighting-capitalism-with
 
 ## Cryptocurrency Terms
 
@@ -70,7 +70,7 @@ In summary, **Bitcoin is a cryptocurrency built on a blockchain, while Ethereum 
 - WAGMI - We are all gonna make it
 - DYOR - Do Your Own Research
 
-<https://hackernoon.com/crypto-baby-talk-first-50-terms-that-you-should-know-about-30a829320b4b>
+https://hackernoon.com/crypto-baby-talk-first-50-terms-that-you-should-know-about-30a829320b4b
 
 [Crypto Glossary of Terms And Jargon | CoinMarketCap](https://coinmarketcap.com/alexandria/glossary)
 

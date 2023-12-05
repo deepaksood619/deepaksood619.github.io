@@ -7,7 +7,7 @@
 - Consumers posing higher credit risks usually end up paying higher interest rates on loans.
 - If it has a low rating (B or C), the issuer has a high risk of default. Conversely, if it has a high rating (AAA, AA, or A), it's considered to be a safe investment.
 
-<https://www.investopedia.com/terms/c/creditrisk.asp>
+https://www.investopedia.com/terms/c/creditrisk.asp
 
 ## Default Risk
 
@@ -16,7 +16,7 @@ Default risk is the chance that a company or individual will be unable to make t
 - A free cash flow figure that is near zero or negative indicates that the company may be having trouble generating the cash necessary to deliver on promised payments, and this could indicate higher default risk.
 - Default risk can be gauged using standard measurement tools, including FICO scores for consumer credit, and credit ratings by the likes of S&P and Moody's for corporate and government debt issues
 
-<https://www.investopedia.com/terms/d/defaultrisk.asp>
+https://www.investopedia.com/terms/d/defaultrisk.asp
 
 ## Default Rate
 
@@ -47,25 +47,25 @@ After 270 days of late payments, the code of federal regulations considers any t
 
 To calculate a delinquency rate, divide the number of loans that are delinquent by the total number of loans that an institution holds. For example, if there are 1,000 loans in a bank's loan portfolio, and 100 of those loans have delinquent payments of 60 days or more, then the delinquency rate would be 10% (100divided by1,000equals10%).
 
-<https://www.investopedia.com/terms/d/delinquency-rate.asp>
+https://www.investopedia.com/terms/d/delinquency-rate.asp
 
 ## Credit Utilization Ratio
 
 The credit utilization ratio is the percentage of a borrower's total available credit that is currently being utilized. The credit utilization ratio is a component used by credit reporting agencies in calculating a borrower's [credit score](https://www.investopedia.com/terms/c/credit_score.asp). Lowering the credit utilization ratio can help a borrower to improve their credit score.
 
-<https://www.investopedia.com/terms/c/credit-utilization-rate.asp>
+https://www.investopedia.com/terms/c/credit-utilization-rate.asp
 
 ## Triggering Term
 
 A triggering term is a word or phrase that when used in advertising literature requires the presentation of the terms of a credit agreement. Triggering terms are intended to help consumers compare credit and lease offers on a fair and equal basis. Triggering terms are set and monitored by the U.S.[Federal Trade Commission (FTC)](https://www.investopedia.com/terms/f/ftc.asp).
 
-<https://www.investopedia.com/terms/t/triggering-term.asp>
+https://www.investopedia.com/terms/t/triggering-term.asp
 
 ## Notching
 
 Notching is the practice by rating agencies to give different [credit ratings](https://www.investopedia.com/terms/c/creditrating.asp) to obligations of a single entity or closely related entities. Rating distinctions among obligations are made based on differences on their security or priority of claim. With varying degrees of losses in the event of [default](https://www.investopedia.com/terms/d/default2.asp), obligations are subject to being notched higher or lower.
 
-<https://www.investopedia.com/terms/n/notching.asp>
+https://www.investopedia.com/terms/n/notching.asp
 
 ## Credit Rating Agencies
 
@@ -97,7 +97,7 @@ A [line of credit](https://www.investopedia.com/terms/l/lineofcredit.asp) is a t
 - Both revolving credit and credit lines come in unsecured and secured versions.
 - Revolving credit or a line of credit both have many of the same risks as credit cards.
 
-<https://www.investopedia.com/ask/answers/110614/what-are-differences-between-revolving-credit-and-line-credit.asp>
+https://www.investopedia.com/ask/answers/110614/what-are-differences-between-revolving-credit-and-line-credit.asp
 
 ## Charge-off
 
@@ -109,7 +109,7 @@ A charge-off usually occurs when the creditor has deemed anoutstanding debt isun
 - After a lender has charged off a debt, it could sell the debt to a third-party collections agency that would attempt to collect on the delinquent account.
 - Basically, a consumer owes the debt until it is paid off, settled, discharged in a bankruptcy proceeding, or in case of legal proceedings, becomes too old due to the statute of limitations.
 
-<https://www.investopedia.com/terms/c/chargeoff.asp>
+https://www.investopedia.com/terms/c/chargeoff.asp
 
 ## Roll Rate
 
@@ -121,7 +121,7 @@ For example, if 20 out of 100 credit card users who were delinquent after 60 day
 
 Once roll rates are determined, they are applied to the outstanding [receivables](https://www.investopedia.com/terms/r/receivables.asp) within each bucket, and the results are aggregated to estimate the required allowance level for credit losses. Financial institutions typically update credit loss provisions in their financial statements quarterly. Credit loss provisions are generally an expense or liability that a bank writes off. Banks have differing methodologies for determining credit loss provisions with typically only a portion of delinquent balances written off in early delinquencies. Banks closely monitor roll rates and credit loss provisions to gauge the risks of borrowers. Roll rates can also help credit issuers to set underwriting standards based on repayment trends for various types of products and different types of borrowers.
 
-<https://www.investopedia.com/terms/r/roll-rate.asp>
+https://www.investopedia.com/terms/r/roll-rate.asp
 
 ## Cure Rate
 
@@ -134,7 +134,7 @@ Cure of arrears on facilities presenting arrears could take place either
 - through forbearance measures of the credit facility (forborne cure) or
 - naturally without modification of the original terms of the credit facility (natural cure).
 
-<https://www.openriskmanual.org/wiki/Cure_Rate>
+https://www.openriskmanual.org/wiki/Cure_Rate
 
 ## Loan to value
 
@@ -144,9 +144,9 @@ The [valuation](https://en.wikipedia.org/wiki/Real_estate_appraisal) of a proper
 
 ## CLTV - Combined Loan To Value - ratio of all secured loans on a property to the value of a property
 
-<https://en.wikipedia.org/wiki/Loan-to-value_ratio>
+https://en.wikipedia.org/wiki/Loan-to-value_ratio
 
-<https://www.investopedia.com/terms/l/loantovalue.asp>
+https://www.investopedia.com/terms/l/loantovalue.asp
 
 ## Cross collateralization
 
@@ -156,13 +156,13 @@ Cross-collateralizationis a term used when the [collateral](https://en.wikipedia
 
 In the movie industry, cross-collateralize clauses in production deals allow the funding studio to recoup a part of its losses for money losing films from hit films produced.
 
-<https://en.wikipedia.org/wiki/Cross-collateralization>
+https://en.wikipedia.org/wiki/Cross-collateralization
 
 ## Haircut
 
 In [finance](https://en.wikipedia.org/wiki/Finance), ahaircutis the difference between the current [market value](https://en.wikipedia.org/wiki/Market_value) of an asset and the value ascribed to that asset for purposes of calculating [regulatory capital](https://en.wikipedia.org/wiki/Regulatory_capital) or [loan collateral](https://en.wikipedia.org/wiki/Collateral_(finance)). The amount of the haircut reflects the perceived risk of the asset falling in value in an immediate cash sale or liquidation. The larger the risk or volatility of the asset price, the larger the haircut.
 
-<https://en.wikipedia.org/wiki/Haircut_(finance)>
+https://en.wikipedia.org/wiki/Haircut_(finance)
 
 ## Arm's Length Principle
 
@@ -172,7 +172,7 @@ It is used specifically in [contract law](https://en.wikipedia.org/wiki/Contract
 
 An arm's length relationship is distinguished from a [fiduciary](https://en.wikipedia.org/wiki/Fiduciary) relationship, where the parties are not on an equal footing, but rather, power and [information asymmetries](https://en.wikipedia.org/wiki/Information_asymmetry) exist.
 
-<https://en.wikipedia.org/wiki/Arm%27s_length_principle>
+https://en.wikipedia.org/wiki/Arm%27s_length_principle
 
 ## Trade Line
 
@@ -180,7 +180,7 @@ A trade line is a record of activity for any type of credit extended to a borrow
 
 Comprehensively, trade lines are used by credit reporting agencies to calculate a borrower's credit score. Different credit reporting agencies give differing weights to the activities of trade lines when establishing a credit score for borrowers.
 
-<https://www.investopedia.com/terms/t/trade-line.asp>
+https://www.investopedia.com/terms/t/trade-line.asp
 
 ## Vintage
 
@@ -191,4 +191,4 @@ Vintage is a slang term used by [mortgage-backed security](https://www.investope
 - Vintage is the age of an item as it relates to the year it was created. It's a way to assess the inherent risk of an MBS.
 - Two MBS with the same vintage may have different levels of assumed risk, however, and as a result, different perceived values.
 
-<https://www.investopedia.com/terms/v/vintage.asp>
+https://www.investopedia.com/terms/v/vintage.asp

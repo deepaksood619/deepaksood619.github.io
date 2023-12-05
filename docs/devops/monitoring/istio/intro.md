@@ -58,34 +58,34 @@ Kialilets you monitor, visualize, and configure the Istio Service Mesh from with
     - [More Wizard examples](https://kiali.io/documentation/features/#_more_wizard_examples)
 - [Multi-cluster support](https://kiali.io/documentation/features/#_multi_cluster_support)
 
-<https://kiali.io/documentation/features>
+https://kiali.io/documentation/features
 
-<https://dzone.com/articles/visualizing-the-istio-service-mesh-using-kiali>
+https://dzone.com/articles/visualizing-the-istio-service-mesh-using-kiali
 
 ## Metrics
 
-<https://www.datadoghq.com/blog/istio-metrics>
+https://www.datadoghq.com/blog/istio-metrics
 
 ## References
 
-<https://github.com/istio/istio>
+https://github.com/istio/istio
 
-<https://developers.redhat.com/topics/service-mesh>
+https://developers.redhat.com/topics/service-mesh
 
-<https://buoyant.io/2017/04/25/whats-a-service-mesh-and-why-do-i-need-one>
+https://buoyant.io/2017/04/25/whats-a-service-mesh-and-why-do-i-need-one
 
-<https://github.com/redhat-developer-demos/istio-tutorial>
+https://github.com/redhat-developer-demos/istio-tutorial
 
-<https://medium.freecodecamp.org/how-to-get-istio-up-and-running-1935dc7cfb90>
+https://medium.freecodecamp.org/how-to-get-istio-up-and-running-1935dc7cfb90
 
 Hello Istio with Kubernetes Engine
 
-<https://google.qwiklabs.com/games/505/labs/1608>
+https://google.qwiklabs.com/games/505/labs/1608
 
 App Modernization with Istio Using Mixer to Apply Policies
 
-<https://google.qwiklabs.com/games/505/labs/1609>
+https://google.qwiklabs.com/games/505/labs/1609
 
-<https://blog.christianposta.com/microservices/istio-as-an-example-of-when-not-to-do-microservices>
+https://blog.christianposta.com/microservices/istio-as-an-example-of-when-not-to-do-microservices
 
-<https://engineering.hellofresh.com/everything-we-learned-running-istio-in-production-part-2-ff4c26844bfb>
+https://engineering.hellofresh.com/everything-we-learned-running-istio-in-production-part-2-ff4c26844bfb

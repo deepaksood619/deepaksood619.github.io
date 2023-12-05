@@ -1,6 +1,6 @@
 # Web Assembly
 
-<https://medium.com/javascript-scene/what-is-webassembly-the-dawn-of-a-new-era-61256ec5a8f6>
+https://medium.com/javascript-scene/what-is-webassembly-the-dawn-of-a-new-era-61256ec5a8f6
 
 WebAssembly gives us access to a set of low level building blocks that we can use to construct just about anything you can imagine
 

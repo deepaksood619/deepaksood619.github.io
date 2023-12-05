@@ -4,7 +4,7 @@
 
 OpenCL (Open Computing Language) is a [framework](https://en.wikipedia.org/wiki/Software_framework) for writing programs that execute across [heterogeneous](https://en.wikipedia.org/wiki/Heterogeneous_computing) platforms consisting of [central processing units](https://en.wikipedia.org/wiki/Central_processing_unit)(CPUs), [graphics processing units](https://en.wikipedia.org/wiki/Graphics_processing_unit)(GPUs), [digital signal processors](https://en.wikipedia.org/wiki/Digital_signal_processor)(DSPs), [field-programmable gate arrays](https://en.wikipedia.org/wiki/Field-programmable_gate_array)(FPGAs) and other processors or [hardware accelerators](https://en.wikipedia.org/wiki/Hardware_accelerator). OpenCL specifies [programming languages](https://en.wikipedia.org/wiki/Programming_language)(based on [C99](https://en.wikipedia.org/wiki/C99) and [C++11](https://en.wikipedia.org/wiki/C%2B%2B11)) for programming these [devices](https://en.wikipedia.org/wiki/Personal_computer_hardware) and [application programming interfaces](https://en.wikipedia.org/wiki/Application_programming_interface)(APIs) to control the platform and execute programs on the [compute devices](https://en.wikipedia.org/wiki/OpenCL_compute_devices). OpenCL provides a standard interface for [parallel computing](https://en.wikipedia.org/wiki/Parallel_computing) using [task-](https://en.wikipedia.org/wiki/Task_parallelism) and [data-based parallelism](https://en.wikipedia.org/wiki/Data_parallelism)
 
-<https://en.wikipedia.org/wiki/OpenCL>
+https://en.wikipedia.org/wiki/OpenCL
 
 ## JHipster
 
@@ -67,6 +67,6 @@ Microservices are optional, and fully supported:
 - Full Docker and Docker Compose support
 - Support for all major cloud providers: AWS, Cloud Foundry, Heroku, Kubernetes, OpenShift, Azure, Docker...
 
-<https://github.com/jhipster/generator-jhipster>
+https://github.com/jhipster/generator-jhipster
 
-<https://www.jhipster.tech>
+https://www.jhipster.tech

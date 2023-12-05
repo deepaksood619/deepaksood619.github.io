@@ -35,7 +35,7 @@ Sigmoid is a slow learner
 
 ReLU (a) = max(0,a)
 
-<https://machinelearningmastery.com/rectified-linear-activation-function-for-deep-learning-neural-networks>
+https://machinelearningmastery.com/rectified-linear-activation-function-for-deep-learning-neural-networks
 
 ![image](../../media/Neural-Networks-3B1B-image5.jpg)
 

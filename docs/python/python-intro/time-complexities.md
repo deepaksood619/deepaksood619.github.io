@@ -73,4 +73,4 @@ Note that there is a fast-path for dicts that (in practice) only deal with str k
 | Delete Item    | O(1)         | O(n)                 |
 | Iteration[2] | O(n)         | O(n)                 |
 
-<https://wiki.python.org/moin/TimeComplexity>
+https://wiki.python.org/moin/TimeComplexity

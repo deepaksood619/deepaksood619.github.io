@@ -114,16 +114,16 @@ Flower is a web based tool for monitoring and administrating [Celery](http://cel
 
 Monitor Celery Tasks with Prometheus and celery-exporter
 
-<https://github.com/OvalMoney/celery-exporter>
+https://github.com/OvalMoney/celery-exporter
 
-<https://grafana.com/grafana/dashboards/10026>
+https://grafana.com/grafana/dashboards/10026
 
-<https://github.com/mher/flower>
+https://github.com/mher/flower
 
-<https://flower.readthedocs.io/en/latest>
+https://flower.readthedocs.io/en/latest
 
 ### Jobtastic
 
 Jobtastic is a python library that adds useful features to your Celery tasks. Specifically, these are features you probably want if the results of your jobs are expensive or if your users need to wait while they compute their results.
 
-<http://policystat.github.io/jobtastic>
+http://policystat.github.io/jobtastic

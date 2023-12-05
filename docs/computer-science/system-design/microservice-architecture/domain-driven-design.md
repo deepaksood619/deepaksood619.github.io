@@ -17,7 +17,7 @@ Two synergic properties in software design
 
 DDD is an approach to software development that tackles complex systems by mapping activities, tasks, events, and data from a business domain to software artifacts. One of the most important concepts of DDD is the *bounded context*, which is a cohesive and well-defined unit within the business model in which you define the boundaries of your software artifacts
 
-<https://en.wikipedia.org/wiki/Domain-driven_design>
+https://en.wikipedia.org/wiki/Domain-driven_design
 
 ## Financial System
 
@@ -39,8 +39,8 @@ Notice that each microservice has its own dedicated database for **isolation**. 
 
 ![image](../../../media/Microservice-Architecture_Domain-Driven-Design-image3.jpg)
 
-<https://www.domainlanguage.com/ddd/reference/attachment/pattern-language-overview-med>
+https://www.domainlanguage.com/ddd/reference/attachment/pattern-language-overview-med
 
-<https://www.youtube.com/watch?v=hv-LiKQgN90>
+https://www.youtube.com/watch?v=hv-LiKQgN90
 
 [Domain Driven Design Patterns in Python](https://youtu.be/v0wBmQq8qcA)

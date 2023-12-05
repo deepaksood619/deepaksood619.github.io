@@ -212,7 +212,7 @@ The performance requirements are as follows:
 2. **Counting inversions**
     An *inversion* in an arraya[] is a pair of entries a[i] and a[j] such that i < j but a[i] > a[j]. Given an array, design a linearithmic algorithm to count the number of inversions.
 
-    <https://www.geeksforgeeks.org/counting-inversions>
+    https://www.geeksforgeeks.org/counting-inversions
 
 3. **Shuffling a linked list.**
     Given a singly-linked list containingnitems, rearrange the items uniformly at random. Your algorithm should consume a logarithmic (or constant) amount of extra memory and run in time proportional tonlognin the worst case.

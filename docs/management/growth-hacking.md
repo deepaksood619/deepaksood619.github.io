@@ -9,14 +9,14 @@ This absolute focus on growth has given rise to a number of methods, tools, and 
 Introduce a little anarchy, Upset the established order, And everything becomes chaos. I'm an agent of chaos. And you know the thing about chaos? It's fair. -- Joker
 
 - [**https://www.quicksprout.com/growth-hacking/**](https://www.quicksprout.com/growth-hacking/)
-- <https://www.simplilearn.com/master-growth-hacking-in-30-days-article>
-- <https://neilpatel.com/blog/the-6-best-growth-hacks>
-- <https://neilpatel.com/blog/growth-hacking-framework>
-- <https://neilpatel.com/training/growth-hacking-unlocked/untold-laws-of-growth>
-- <https://www.quicksprout.com/viral-hacking>
-- <https://www.quicksprout.com/user-activation>
+- https://www.simplilearn.com/master-growth-hacking-in-30-days-article
+- https://neilpatel.com/blog/the-6-best-growth-hacks
+- https://neilpatel.com/blog/growth-hacking-framework
+- https://neilpatel.com/training/growth-hacking-unlocked/untold-laws-of-growth
+- https://www.quicksprout.com/viral-hacking
+- https://www.quicksprout.com/user-activation
 
-<https://www.youtube.com/watch?v=raIUQP71SBU&ab_channel=GaganBiyani>
+https://www.youtube.com/watch?v=raIUQP71SBU&ab_channel=GaganBiyani
 
 - Emotionally detached
 - No ego
@@ -38,13 +38,13 @@ Pull is analogous to Hansel and Gretel. The sweets lure the children into the ho
 - Since money is involved with push tactics you must understand the lifetime value of your customers (LTV), so that you don't spend more money on a customer then you'll make from them.
 - We covered 4 push tactics: purchase ads, promo swap, affiliates, and direct sales.
 
-<https://www.quicksprout.com/push-strategy>
+https://www.quicksprout.com/push-strategy
 
-<https://www.quicksprout.com/pull-strategy>
+https://www.quicksprout.com/pull-strategy
 
 ## Conversion Rate Optimization (CRO)
 
-<https://neilpatel.com/training/cro-unlocked>
+https://neilpatel.com/training/cro-unlocked
 
 - CRO Best Practices
 - Crazy Egg
@@ -118,9 +118,9 @@ Marketing engages customers in the actions that will result in the growth lever 
 4. Respect for scientific method
 5. Hunger for learning
 
-<https://www.lennysnewsletter.com/p/hiring-growth>
+https://www.lennysnewsletter.com/p/hiring-growth
 
-<https://andrewchen.com/how-to-build-a-growth-team>
+https://andrewchen.com/how-to-build-a-growth-team
 
 ## The Cold Start Problem: How to Start and Scale Network Effects by Andrew Chen
 
@@ -151,7 +151,7 @@ Why would churn be highly correlated with price? Two reasons:
 
 2. **Unit economics:** If it's costing you thousands of dollars to close a deal, you won't survive if too many of those customers churn. And so companies with a high price point don't last long if churn is too high.
 
-<https://www.lennysnewsletter.com/p/monthly-churn-benchmarks>
+https://www.lennysnewsletter.com/p/monthly-churn-benchmarks
 
 ## Marketing models
 
@@ -172,7 +172,7 @@ Social+Gaming --Social+ games like [Fortnite](https://www.fastcompany.com/903152
 
 Social+Fitness --Fitness app [Strava](https://www.strava.com/) is more than an app to track your runs. As Strava CEO James Quarles told [Outside](https://www.outsideonline.com/2395489/strava-james-quarles), "Strava wants to be the dashboard for tracking your fitness, a calendar for inviting friends to work out, a feed for you to follow others' activities, a blog for your race reports and photos, and a message board to ask for recommendations on a new pair of trail-running shoes."
 
-[Peloton](<https://www.google.com/search?q=peloton&oq=peloton&aqs=chrome.0.69i59l3j0i271l3j69i60l2.1871j0j9&sourceid=chrome&ie=UTF-8#:~:text=Peloton%C2%AE%20%7C%20Workouts>, onepeloton.com)'s stationary bikes and treadmills and digital subscription let users combine group fitness classes with home workouts. The motivation, friendly competition, and supportive relationships arising from the Peloton community are an integral part of its product.
+[Peloton](https://www.google.com/search?q=peloton&oq=peloton&aqs=chrome.0.69i59l3j0i271l3j69i60l2.1871j0j9&sourceid=chrome&ie=UTF-8#:~:text=Peloton%C2%AE%20%7C%20Workouts, onepeloton.com)'s stationary bikes and treadmills and digital subscription let users combine group fitness classes with home workouts. The motivation, friendly competition, and supportive relationships arising from the Peloton community are an integral part of its product.
 
 Social+Commerce --Chinese marketplace [Pinduoduo](https://en.pinduoduo.com/) allows buyers to purchase heavily discounted goods when they rope in their friends
 
@@ -195,7 +195,7 @@ When building a social+ product, the key thing to remember is that it's "social+
 
 Simply slapping a social gimmick onto your product as a marketing ploy won't do the trick. Social needs to be wired into its DNA. To achieve this, it's vital that your platform provides users with the tools for authentic peer-to-peer social engagement -- features like in-app publishing, following capabilities, [activity feeds](https://sendbird.com/stream-comparison), forums, 1-to-1 and group chat, voice calling, video calling, leaderboards, and network-driven rewardsalongsidetransactional functionality.
 
-<https://sendbird.com/blog/payments-fintechs-social-features>
+https://sendbird.com/blog/payments-fintechs-social-features
 
 ## PLG (Product Led Growth)
 

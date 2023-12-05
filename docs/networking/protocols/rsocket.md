@@ -11,8 +11,8 @@ It supports session resumption, to allow resuming long-lived streams across diff
 RSocketis an application protocol initially developed by [Netflix](https://en.wikipedia.org/wiki/Netflix), that supports [Reactive Streams](https://en.wikipedia.org/wiki/Reactive_Streams). The motivation behind its development was to replace hypertext transfer protocol [(HTTP](https://en.wikipedia.org/wiki/HTTP)), which is inefficient for many tasks such as [microservices](https://en.wikipedia.org/wiki/Microservice) communication, with a protocol that has less overhead.
 Alternative - grpc
 
-<http://rsocket.io>
+http://rsocket.io
 
-<https://en.wikipedia.org/wiki/Rsocket>
+https://en.wikipedia.org/wiki/Rsocket
 
-<https://github.com/rsocket/rsocket>
+https://github.com/rsocket/rsocket

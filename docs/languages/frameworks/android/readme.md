@@ -2,9 +2,9 @@
 
 ## Nocode
 
-<https://flutterflow.io>
+https://flutterflow.io
 
-<https://www.judo.app>
+https://www.judo.app
 
 Judo brings server-driven UI to your iOS and Android apps. Build user interfaces visually in a fraction of time and publish them instantly without submitting to the app store.
 
@@ -15,7 +15,7 @@ Judo brings server-driven UI to your iOS and Android apps. Build user interfaces
 
 ## Contexts (Application Context)
 
-<https://blog.mindorks.com/understanding-context-in-android-application-330913e32514>
+https://blog.mindorks.com/understanding-context-in-android-application-330913e32514
 
 [Memory Leak - Part 1, Curious Case of Memory Leak](https://www.youtube.com/watch?v=OqalhCheKXQ)
 
@@ -40,7 +40,7 @@ ORM greenbot
 
 ### SQLite Database
 
-How to corrupt - <https://sqlite.org/howtocorrupt.html>
+How to corrupt - https://sqlite.org/howtocorrupt.html
 
 RxJava
 GCM
@@ -48,7 +48,7 @@ Mosquitto MQTT Broker
 
 ## Serializable vs Parcelable
 
-<http://www.developerphil.com/parcelable-vs-serializable>
+http://www.developerphil.com/parcelable-vs-serializable
 
 ## Service
 
@@ -70,7 +70,7 @@ A background service performs an operation that isn't directly noticed by the us
 
 A service is *bound* when an application component binds to it by calling [bindService()](https://developer.android.com/reference/android/content/Context#bindService(android.content.Intent,%20android.content.ServiceConnection,%20int)). A bound service offers a client-server interface that allows components to interact with the service, send requests, receive results, and even do so across processes with interprocess communication (IPC). A bound service runs only as long as another application component is bound to it. Multiple components can bind to the service at once, but when all of them unbind, the service is destroyed.
 
-<https://developer.android.com/guide/components/services>
+https://developer.android.com/guide/components/services
 
 ## Android Interface Description Language (AIDL)
 
@@ -87,15 +87,15 @@ AIDL (Android Interface Definition Language) allows you to define the programmin
 
 ### Clean Architecture
 
-<https://www.toptal.com/android/benefits-of-clean-architecture-android>
+https://www.toptal.com/android/benefits-of-clean-architecture-android
 
 ### Repository Pattern
 
-<https://medium.com/swlh/repository-pattern-in-android-c31d0268118c>
+https://medium.com/swlh/repository-pattern-in-android-c31d0268118c
 
-<https://developer.android.com/codelabs/kotlin-android-training-repository#0>
+https://developer.android.com/codelabs/kotlin-android-training-repository#0
 
-<https://medium.com/corebuild-software/android-repository-pattern-using-rx-room-bac6c65d7385>
+https://medium.com/corebuild-software/android-repository-pattern-using-rx-room-bac6c65d7385
 
 #### Why the Repository Pattern ?
 
@@ -108,11 +108,11 @@ AIDL (Android Interface Definition Language) allows you to define the programmin
 
 ### MVI Pattern in Android without RxJava
 
-<https://proandroiddev.com/android-unidirectional-state-flow-without-rx-596f2f7637bb>
+https://proandroiddev.com/android-unidirectional-state-flow-without-rx-596f2f7637bb
 
 ## HAL (Hardware Abstraction Layer)
 
-<https://source.android.com/devices/architecture/hal-types>
+https://source.android.com/devices/architecture/hal-types
 
 ## HILT
 
@@ -124,9 +124,9 @@ The goals of Hilt are:
 - To create a standard set of components and scopes to ease setup, readability/understanding, and code sharing between apps.
 - To provide an easy way to provision different bindings to various build types (e.g. testing, debug, or release).
 
-<https://dagger.dev/hilt>
+https://dagger.dev/hilt
 
-<https://developer.android.com/codelabs/android-hilt>
+https://developer.android.com/codelabs/android-hilt
 
 ## Tools
 
@@ -153,7 +153,7 @@ The goals of Hilt are:
 - Jenkins (Continuous Integration Tool)
 - BuddyBuild (Continuous Integration Tool & Crash Reporting)
 - Crashlytics (Crash Reporting) - Crashlytics.log(int priority, String tag, String msg);
-- <https://firebase.google.com/docs/crashlytics/customize-crash-reports?platform=android>
+- https://firebase.google.com/docs/crashlytics/customize-crash-reports?platform=android
 - InstaBug (Crash Reporting)
 - Hudson (Continuous Integration Tool)
 - TestNG/JMock (Automated Testing)
@@ -162,7 +162,7 @@ The goals of Hilt are:
 - [MediaPlayer](https://developer.android.com/guide/topics/media/mediaplayer.html)
 - [ExoPlayer](https://developer.android.com/guide/topics/media/exoplayer.html)
 - NDK (Native Development Kit)
-  - <http://www.packtpub.com/sites/default/files/downloads/Developing_Multimedia_Applications_with_NDK.pdf>
+  - http://www.packtpub.com/sites/default/files/downloads/Developing_Multimedia_Applications_with_NDK.pdf
 - CMake
 - Toolchain (Cross compilers)
 - Gradle (Build System)
@@ -180,10 +180,10 @@ The goals of Hilt are:
   - Android Testing Support Library
   - **Test Lab runs [Espresso](https://developer.android.com/training/testing/ui-testing/espresso-testing.html) and [UI Automator 2.0](http://developer.android.com/tools/testing-support-library/index.html#UIAutomator) tests on Android apps, and [XCTest](https://developer.apple.com/documentation/xctest) tests on iOS apps.**
   - **RoboTest (easiest)**
-    - <https://firebase.google.com/docs/test-lab/android/robo-ux-test>
-    - <https://developer.android.com/training/testing>
-    - <https://developer.android.com/training/testing/fundamentals>
-- Parceler (<http://parceler.org>)
+    - https://firebase.google.com/docs/test-lab/android/robo-ux-test
+    - https://developer.android.com/training/testing
+    - https://developer.android.com/training/testing/fundamentals
+- Parceler (http://parceler.org)
 
 ## Features
 
@@ -234,7 +234,7 @@ The goals of Hilt are:
 
 ![image](../../../media/Android-image2.jpg)
 
-<https://developer.android.com/guide/components/activities/activity-lifecycle>
+https://developer.android.com/guide/components/activities/activity-lifecycle
 
 ### What is a ContentProvider and what is it typically used for?
 
@@ -314,7 +314,7 @@ Yes, an activity can be created without any user interface. These activities are
 
 The broadcast receiver communicates with the operation system messages such as "check whether an internet connection is available," what the battery label should be, etc.
 
-<https://www.toptal.com/app/interview-questions>
+https://www.toptal.com/app/interview-questions
 
 ## Android Code analysis tools
 
@@ -335,13 +335,13 @@ The broadcast receiver communicates with the operation system messages such as "
 2. It needs compiled code to work around and will eventually be fast since it works on byte code level.
 3. The major categories in this tool are: Correctness, Bad practice, Dodgy code, Multithreaded Correctness, Performance Malicious, Code Vulnerability, Security Experimental and Internationalization
 
-<https://medium.com/achieve-high-quality-android-code-with-static-code/static-code-analysis-tools-80558d9cb6cb>
+https://medium.com/achieve-high-quality-android-code-with-static-code/static-code-analysis-tools-80558d9cb6cb
 
 ## Testing
 
 ![image](../../../media/Android-image3.jpg)
 
-<https://proandroiddev.com/a-guide-to-test-pyramid-in-android-end-to-end-and-manual-tests-part-4-3a16af96b78c>
+https://proandroiddev.com/a-guide-to-test-pyramid-in-android-end-to-end-and-manual-tests-part-4-3a16af96b78c
 
 ## RoboElectric
 
@@ -380,9 +380,9 @@ verify(mockedList).add("one");
 verify(mockedList).clear();
 ```
 
-<https://github.com/mockito/mockito>
+https://github.com/mockito/mockito
 
-<https://www.toptal.com/android/testing-like-a-true-green-droid>
+https://www.toptal.com/android/testing-like-a-true-green-droid
 
 ## Other Tools
 
@@ -390,20 +390,20 @@ verify(mockedList).clear();
 
 Smartlook records users on websites and in mobile apps.With features that allow you to find useful information even in thousands of recordings in no time.
 
-<https://www.smartlook.com>
+https://www.smartlook.com
 
-<https://smartlook.github.io/docs/sdk/android>
+https://smartlook.github.io/docs/sdk/android
 
-- <https://github.com/CameraKit/camerakit-android>
-- <https://ui.perfetto.dev>
+- https://github.com/CameraKit/camerakit-android
+- https://ui.perfetto.dev
 - Bluestacks
 - Nox Player
-- <https://github.com/Genymobile/scrcpy>
+- https://github.com/Genymobile/scrcpy
 
 ## Others
 
-<https://medium.com/snapp-mobile/android-keeping-release-and-debug-installed-all-the-time-43f5812d6637>
+https://medium.com/snapp-mobile/android-keeping-release-and-debug-installed-all-the-time-43f5812d6637
 
-<https://www.toptal.com/android/functional-reactive-programming-part-2>
+https://www.toptal.com/android/functional-reactive-programming-part-2
 
 [GitHub - Genymobile/scrcpy: Display and control your Android device](https://github.com/Genymobile/scrcpy)

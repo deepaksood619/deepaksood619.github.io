@@ -16,8 +16,8 @@ Weave was designed with the following goals in mind:
 
 ## References
 
-<https://openweave.io>
+https://openweave.io
 
-<https://openweave.io/guides/weave-primer>
+https://openweave.io/guides/weave-primer
 
-<https://codelabs.developers.google.com/codelabs/happy-weave-getting-started/#0>
+https://codelabs.developers.google.com/codelabs/happy-weave-getting-started/#0

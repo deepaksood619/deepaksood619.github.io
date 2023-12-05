@@ -11,9 +11,9 @@ Always don't say yes to any offer at that time, always sleep over it
 
 ![image](../../media/Personality-Questions-to-company-image1.png)
 
-<https://www.lennysnewsletter.com/p/negotiating-comp>
+https://www.lennysnewsletter.com/p/negotiating-comp
 
-<https://auren.substack.com/p/lets-talk-about-founder-compensation>
+https://auren.substack.com/p/lets-talk-about-founder-compensation
 
 ## What is your current day-to-day like in last company?
 
@@ -68,7 +68,7 @@ Always don't say yes to any offer at that time, always sleep over it
 - Gratuity (The sum of money paid by an employer to an employee for his/her rendered services to the organisation for the tenure of his/her services)
 - Work from home (WFH)
 
-<https://neilpatel.com/training/growth-hacking-unlocked/raise-money>
+https://neilpatel.com/training/growth-hacking-unlocked/raise-money
 
 ## Job Questions
 
@@ -92,7 +92,7 @@ Always don't say yes to any offer at that time, always sleep over it
 - Decision making process
 - How are raises calculated and awarded?
 - Functional and Non functional requirements?
-- **Career Path / Engineering Competency Matrix** - <https://drive.google.com/open?id=131XZCEb8LoXqy79WWrhCX4sBnGhCM1nAIz4feFZJsEo>
+- **Career Path / Engineering Competency Matrix** - https://drive.google.com/open?id=131XZCEb8LoXqy79WWrhCX4sBnGhCM1nAIz4feFZJsEo
 
 1. What do the day-to-day responsibilities of the role look like?
 2. What are the company's values? What characteristics do you look for in employees in order to represent those values?
@@ -175,9 +175,9 @@ These bonuses equate to the value of a particular number of shares.Stock appreci
 - Once an ESOP scheme is approved, aLetter of Grantshould be issued to the employee informing him how many options are being granted to him, what the vesting period would be and how the exercise price will be determined, should he choose to exercise the vested options.
 - In the event an employee wishes to exercise any of his vested options, he should make anExercise Applicationto his employer company pursuant to which his options would be converted into equity.
 
-<https://yourstory.com/2015/09/esop/amp>
+https://yourstory.com/2015/09/esop/amp
 
-<https://www.investopedia.com/terms/e/esop.asp>
+https://www.investopedia.com/terms/e/esop.asp
 
 ## Equity offer questions
 
@@ -185,15 +185,15 @@ These bonuses equate to the value of a particular number of shares.Stock appreci
 - What is your total preference stack? - The more owed in liquidation perference, the less your equity is likely worth
 - What's the minimum price you would exit for? - Gives reference point for valuing your potential payout
 
-<https://angel.co/blog/30-questions-to-ask-before-joining-a-startup>
+https://angel.co/blog/30-questions-to-ask-before-joining-a-startup
 
-<https://dev.to/flippedcoding/10-questions-you-should-ask-in-a-web-dev-interview-1c2d>
+https://dev.to/flippedcoding/10-questions-you-should-ask-in-a-web-dev-interview-1c2d
 
 The important thing is to have **realistic expectations** about how much money my equity could turn into.
 
-<https://www.trica.co/equity/blog/evaluating-esops-questions-that-cxos-should-ask>
+https://www.trica.co/equity/blog/evaluating-esops-questions-that-cxos-should-ask
 
-<https://superops.ai/startup/esops-101-blog>
+https://superops.ai/startup/esops-101-blog
 
 1. What percent of the company do these shares represent?
 

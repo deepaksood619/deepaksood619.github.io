@@ -12,15 +12,15 @@
 
 - Most used computer vision library. Highly efficient. Facilitates real-time image processing.
 
-<https://www.youtube.com/watch?v=P4Z8_qe2Cu0>
+https://www.youtube.com/watch?v=P4Z8_qe2Cu0
 
-<https://www.freecodecamp.org/news/opencv-full-course>
+https://www.freecodecamp.org/news/opencv-full-course
 
-<https://www.freecodecamp.org/news/how-to-use-opencv-and-python-for-computer-vision-and-ai>
+https://www.freecodecamp.org/news/how-to-use-opencv-and-python-for-computer-vision-and-ai
 
-<https://learnopencv.com>
+https://learnopencv.com
 
-<https://opencv.org>
+https://opencv.org
 
 pip install opencv-python
 
@@ -61,13 +61,13 @@ With face detection, you can get the information you need to perform tasks like 
 - Track faces across video frames Get an identifier for each unique detected face. The identifier is consistent across invocations, so you can perform image manipulation on a particular person in a video stream.
 - Process video frames in real time Face detection is performed on the device, and is fast enough to be used in real-time applications, such as video manipulation.
 
-<https://developers.google.com/ml-kit/vision/face-detection>
+https://developers.google.com/ml-kit/vision/face-detection
 
-<https://github.com/ipazc/mtcnn>
+https://github.com/ipazc/mtcnn
 
 [**GitHub - ageitgey/face_recognition**: The world's simplest facial recognition api for Python and the command line](https://github.com/ageitgey/face_recognition)
 
-<https://www.pyimagesearch.com/2019/03/11/liveness-detection-with-opencv>
+https://www.pyimagesearch.com/2019/03/11/liveness-detection-with-opencv
 
 - Image labeling
 - Object detection and tracking
@@ -77,7 +77,7 @@ With face detection, you can get the information you need to perform tasks like 
 
 ## Image Similarity API
 
-<https://deepai.org/machine-learning-model/image-similarity>
+https://deepai.org/machine-learning-model/image-similarity
 
 ## Darknet
 
@@ -85,10 +85,8 @@ Convolutional Neural Networks
 
 YOLOv4 / Scaled-YOLOv4 / YOLO - Neural Networks for Object Detection (Windows and Linux version of Darknet)
 
-<https://github.com/pjreddie/darknet>
-
-<https://github.com/AlexeyAB/darknet>
+https://github.com/pjreddie/darknet
 
 Pillow - images/Python Imaging Library
 
-<https://python-pillow.org>
+https://python-pillow.org

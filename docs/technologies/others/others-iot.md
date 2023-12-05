@@ -43,11 +43,11 @@ The MQTT protocol adapter exposes an MQTT topic hierarchy for publishing telemet
 
 ![image](../../media/Technologies-Others-Others-IoT-image2.jpg)
 
-<https://github.com/eclipse/hono>
+https://github.com/eclipse/hono
 
-<http://www.eclipse.org/hono>
+http://www.eclipse.org/hono
 
-<https://blog.bosch-si.com/developer/eclipse-hono-connecting-large-numbers-of-iot-devices>
+https://blog.bosch-si.com/developer/eclipse-hono-connecting-large-numbers-of-iot-devices
 
 ## Flogo
 
@@ -68,9 +68,9 @@ The notion of triggers and actions are leveraged to process incoming events. An 
   - process events in a manner suitable with the implementation
   - have a common interface enabling opinionated event processing capabilities
 
-<https://github.com/tibcosoftware/flogo>
+https://github.com/tibcosoftware/flogo
 
-<https://www.flogo.io>
+https://www.flogo.io
 
 ## Node-RED
 
@@ -80,25 +80,25 @@ Node-RED is a programming tool for wiring together hardware devices, APIs and on
 
 It provides a browser-based editor that makes it easy to wire together flows using the wide range of nodes in the palette that can be deployed to its runtime in a single-click.
 
-See Also - <https://thingsboard.io>
+See Also - https://thingsboard.io
 
 ## Eclipse Ditto
 
 - For digital twins
 
-<https://www.eclipse.org/ditto>
+https://www.eclipse.org/ditto
 
-<https://projects.eclipse.org/proposals/eclipse-ditto>
+https://projects.eclipse.org/proposals/eclipse-ditto
 
 ## Digital Twins - Bosch IoT - not free (free till some limit)
 
-<https://www.bosch-iot-suite.com/things>
+https://www.bosch-iot-suite.com/things
 
 ## Silo
 
 Silo is an open source tool to archive MQTT messages. It supports MySQL, Postgres and Mongodb. Silo is compatible with emqtt and verneMQ.
 
-<https://github.com/mtsoleimani/Silo>
+https://github.com/mtsoleimani/Silo
 
 ## Hawkbit
 
@@ -126,4 +126,4 @@ Features at a glance
   - for device management federation (i.e. indirect device control)
   - and a user interface to operators to manage and run the roll outs.
 
-<https://github.com/eclipse/hawkbit>
+https://github.com/eclipse/hawkbit

@@ -45,7 +45,7 @@ Fool me once, shame on you. Fool me twice, shame on me. Fool me three times, sha
 4. **Create** space for new ideas (even wild ones)
 5. **Embrace** productive conflict
 
-<https://hbr.org/2017/08/high-performing-teams-need-psychological-safety-heres-how-to-create-it>
+https://hbr.org/2017/08/high-performing-teams-need-psychological-safety-heres-how-to-create-it
 
 1. Approach conflict as a collaborator, not an adversary
 2. Speak human to human
@@ -105,11 +105,11 @@ Recruiting - What types of qualities does the firm prioritize when hiring? How m
 
 Accountability - How has the firm handled disruptive colleagues? Are the most talented colleagues given exceptions or are they held to the same standard? How are good team players acknowledged and rewarded?
 
-<https://blog.trello.com/hold-team-accountable-without-micromanaging>
+https://blog.trello.com/hold-team-accountable-without-micromanaging
 
 The fundamental principle of the situational leadership model is that there is **no single "best" style of leadership**. Effective leadership is task-relevant, and the most successful leaders are those who adapt their leadership style to the performance readiness (ability and willingness) of the individual or group they are attempting to lead or influence. Effective leadership varies, not only with the person or group that is being influenced, but it also depends on the task, job, or function that needs to be accomplished.
 
-<https://en.wikipedia.org/wiki/Situational_leadership_theory>
+https://en.wikipedia.org/wiki/Situational_leadership_theory
 
 - Depends on
   - Skill
@@ -152,7 +152,7 @@ The fundamental principle of the situational leadership model is that there is *
 
 ![image](../../media/People-Team-Management-Culture-image9.jpg)
 
-<https://blog.trello.com/flexibility-secret-of-great-leaders-everywhere>
+https://blog.trello.com/flexibility-secret-of-great-leaders-everywhere
 
 ## Strengths Finder
 
@@ -225,7 +225,7 @@ Move from Maker to Multiplier mode
 - Any public doc created
 - Innovative ideas shared and worked
 
-<https://lastviking.eu/key_result_areas_for_developers.html>
+https://lastviking.eu/key_result_areas_for_developers.html
 
 Logically segment the business into micro-subdomains, so that each can be supported by a small **empowered autonomous team**.
 
@@ -242,11 +242,11 @@ Logically segment the business into micro-subdomains, so that each can be suppor
 
 ## Performance reviews (Engineering reviews)
 
-<https://blog.pragmaticengineer.com/performance-reviews-for-software-engineers>
+https://blog.pragmaticengineer.com/performance-reviews-for-software-engineers
 
-<https://docs.google.com/spreadsheets/d/1tyt8juaRrbHJGglg8z0WS_tYfdMgKS9AHc1l3jpcg6k/edit?usp=sharing>
+https://docs.google.com/spreadsheets/d/1tyt8juaRrbHJGglg8z0WS_tYfdMgKS9AHc1l3jpcg6k/edit?usp=sharing
 
-<https://about.gitlab.com/blog/2020/08/27/measuring-engineering-productivity-at-gitlab>
+https://about.gitlab.com/blog/2020/08/27/measuring-engineering-productivity-at-gitlab
 
 ![image](../../media/People-Team-Management-Culture-image11.jpg)
 
@@ -254,7 +254,7 @@ Logically segment the business into micro-subdomains, so that each can be suppor
 
 A project's bus factor (or truck factor) is a number equal to the number of team members who, if run over by a bus, would put the project in jeopardy. The smallest bus factor is 1. Larger numbers are preferable. Essentially, a low bus factor represents a single point of failure within the team.
 
-<https://deviq.com/bus-factor>
+https://deviq.com/bus-factor
 
 Escalation matrix
 
@@ -319,13 +319,13 @@ This is a question that I love asking my manager and peers because I experience 
 
 ## Deadlines
 
-<https://irrationallabs.com/blog/papers-were-reading-week-17>
+https://irrationallabs.com/blog/papers-were-reading-week-17
 
 ## Learning and Development Officer (CLO - Chief Learning Officer)
 
-<https://360learning.com/blog/6-key-skills-chief-learning-officer>
+https://360learning.com/blog/6-key-skills-chief-learning-officer
 
-<https://360learning.com/blog/lifelong-learning>
+https://360learning.com/blog/lifelong-learning
 
 ## TEAM MANAGEMENT (Collaboration, Motivation, Solving Problems, Conflict Resolution, Likeability)
 
@@ -355,11 +355,11 @@ This is a question that I love asking my manager and peers because I experience 
 - Criticize them in front of their team. You should be looking for opportunities to bolster their credibility.
 - Wait until the annual review cycle to ask for input. Regularly seek feedback on how you're doing as their manager.
 
-<https://hbr.org/2016/08/how-to-manage-managers>
+https://hbr.org/2016/08/how-to-manage-managers
 
-<https://www.shrm.org/resourcesandtools/hr-topics/people-managers/pages/managing-managers.aspx>
+https://www.shrm.org/resourcesandtools/hr-topics/people-managers/pages/managing-managers.aspx
 
-<https://www.managementcenter.org/resources/tips-managing-managers>
+https://www.managementcenter.org/resources/tips-managing-managers
 
 1. Cultivate and affirm ownership
 2. Understand their management and leadership style
@@ -368,7 +368,7 @@ This is a question that I love asking my manager and peers because I experience 
 5. See the work in action, too
 6. Build relationships with your managers' teams
 
-<https://www.entrepreneur.com/article/378072>
+https://www.entrepreneur.com/article/378072
 
 1. Help them go from manager to leader
 2. Give managers a budget
@@ -408,7 +408,7 @@ Please note that we can't take threats of legal action lightly so hopefully you 
 
 ### Motivating people at work
 
-<https://ideas.ted.com/3-things-that-keep-people-feeling-motivated-at-work>
+https://ideas.ted.com/3-things-that-keep-people-feeling-motivated-at-work
 
 - Self-determination theory essentially argued that people are motivated when they can determine for themselves what to work on and how to work on it.
 - Indeed they posit that incentives can drive down motivation --"because incentives take away a sense of power to determine the work for oneself."

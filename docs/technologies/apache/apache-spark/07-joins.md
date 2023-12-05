@@ -119,7 +119,7 @@ Look at the join hints in the following order:
 
 ![spark-join-summary](../../../media/Pasted%20image%2020230327110541.png)
 
-<https://towardsdatascience.com/the-art-of-joining-in-spark-dcbd33d693c>
+https://towardsdatascience.com/the-art-of-joining-in-spark-dcbd33d693c
 
 [Join Strategies in Apache Spark— Deep Dive | by Siddharth Ghosh | Medium](https://medium.com/@ghoshsiddharth25/apache-spark-join-strategies-deep-dive-26bf7e85db28)
 

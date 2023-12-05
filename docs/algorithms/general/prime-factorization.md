@@ -116,8 +116,8 @@ Time Complexity : O(sqrt(n))
 
 Auxiliary Space : O(1)
 
-<https://www.geeksforgeeks.org/find-divisors-natural-number-set-1>
+https://www.geeksforgeeks.org/find-divisors-natural-number-set-1
 
 ## Others
 
-<https://en.wikipedia.org/wiki/Shor%27s_algorithm>
+https://en.wikipedia.org/wiki/Shor%27s_algorithm

@@ -4,9 +4,9 @@ Window functions can be simply explained as calculation functions similar to agg
 
 ![image](../../../media/sql-Concepts-image1.jpg)
 
-<https://www.toptal.com/sql/intro-to-sql-windows-functions>
+https://www.toptal.com/sql/intro-to-sql-windows-functions
 
-<https://mjk.space/advances-sql-window-frames>
+https://mjk.space/advances-sql-window-frames
 
 #### What does a window function in SQL do?
 
@@ -212,10 +212,10 @@ The clause "ROWS BETWEEN UNBOUNDED PRECEDING AND CURRENT ROW" in the given query
 - [Introducing Window Functions in Spark SQL - The Databricks Blog](https://www.databricks.com/blog/2015/07/15/introducing-window-functions-in-spark-sql.html)
 - [Window functions | Databricks on AWS](https://docs.databricks.com/sql/language-manual/sql-ref-window-functions.html)
 - [Window Functions - Spark 3.4.0 Documentation](https://spark.apache.org/docs/latest/sql-ref-syntax-qry-select-window.html)
-- [Spark Window Functions with Examples - Spark By {Examples}](https://sparkbyexamples.com/spark/spark-sql-window-functions/)
+- [Spark Window Functions with Examples - Spark By Examples](https://sparkbyexamples.com/spark/spark-sql-window-functions/)
 - [8 Best SQL Window Function Articles | LearnSQL.com](https://learnsql.com/blog/best-window-functions-articles/)
 - [5 Practical Examples of Using ROWS BETWEEN in SQL | LearnSQL.com](https://learnsql.com/blog/sql-window-functions-rows-clause/)
 - [Introducing Window Functions in Spark SQL - The Databricks Blog](https://www.databricks.com/blog/2015/07/15/introducing-window-functions-in-spark-sql.html)
-- [Spark Window Functions with Examples - Spark By {Examples}](https://sparkbyexamples.com/spark/spark-sql-window-functions/)
+- [Spark Window Functions with Examples - Spark By Examples](https://sparkbyexamples.com/spark/spark-sql-window-functions/)
 - [Calculate SQL Percentile using the PERCENT\_RANK function in SQL Server](https://www.sqlshack.com/calculate-sql-percentile-using-the-sql-server-percent_rank-function/)
 - [motifanalytics.com/blog/a-beginners-guide-to-sequence-analytics-in-sql](https://www.motifanalytics.com/blog/a-beginners-guide-to-sequence-analytics-in-sql)

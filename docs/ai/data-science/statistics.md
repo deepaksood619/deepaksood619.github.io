@@ -32,7 +32,7 @@ Cross-validation is a statistical method used to estimate the skill of machine l
 
 It is commonly used in applied machine learning to compare and select a model for a given predictive modeling problem because it is easy to understand, easy to implement, and results in skill estimates that generally have a lower bias than other methods.
 
-<https://machinelearningmastery.com/k-fold-cross-validation>
+https://machinelearningmastery.com/k-fold-cross-validation
 
 ## Statistics in Model Selection
 

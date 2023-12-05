@@ -68,25 +68,25 @@ A realm in Keycloak is the equivalent of a tenant. It allows creating isolated g
 
 ![image](../../media/DevOps-Others-KeyCloak-image5.jpg)
 
-Python - <https://github.com/marcospereirampj/python-keycloak>
+Python - https://github.com/marcospereirampj/python-keycloak
 
-<https://github.com/chunky-monkeys/keycloak-client>
+https://github.com/chunky-monkeys/keycloak-client
 
-Django integration - <https://medium.com/@sairamkrish/keycloak-integration-part-3-integration-with-python-django-backend-5dac3b4a8e4e>
+Django integration - https://medium.com/@sairamkrish/keycloak-integration-part-3-integration-with-python-django-backend-5dac3b4a8e4e
 
-<https://github.com/keycloak/keycloak>
+https://github.com/keycloak/keycloak
 
-<https://github.com/keycloak/keycloak-quickstarts>
+https://github.com/keycloak/keycloak-quickstarts
 
-<https://github.com/thomasdarimont/keycloak-extension-playground>
+https://github.com/thomasdarimont/keycloak-extension-playground
 
-<https://www.keycloak.org/docs/latest/getting_started>
+https://www.keycloak.org/docs/latest/getting_started
 
-<https://www.keycloak.org/docs/latest/authorization_services>
+https://www.keycloak.org/docs/latest/authorization_services
 
-<https://www.openshift.com/blog/adding-authentication-to-your-kubernetes-web-applications-with-keycloak>
+https://www.openshift.com/blog/adding-authentication-to-your-kubernetes-web-applications-with-keycloak
 
-<https://stackoverflow.com/questions/42186537/resources-scopes-permissions-and-policies-in-keycloak>
+https://stackoverflow.com/questions/42186537/resources-scopes-permissions-and-policies-in-keycloak
 
 [How to secure your Microservices with Keycloak - Thomas Darimont](https://www.youtube.com/watch?v=FyVHNJNriUQ)
 

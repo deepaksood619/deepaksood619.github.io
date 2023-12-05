@@ -28,7 +28,7 @@ Create best software companies with Indian labour, since labour is cheap in Indi
 
 **Economics of Data Business**
 
-<https://pivotal.substack.com/p/economics-of-data-biz>
+https://pivotal.substack.com/p/economics-of-data-biz
 
 ![image](../../media/Ideas-Startups-Ideas-SAAS-image1.jpg)
 
@@ -121,7 +121,7 @@ That idea came from Charles Eisenstein's Sacred Economics: if you back money wit
 
 Celo is based on a belief that programmable money will unlock new economic models, and that changing the features of money (which is possible because money's just a technology) can lead to a more beautiful world. And it's a bet that mission-aligned builders will care as much about a Layer 1's community as they do its tech specs. When everything is open, liquidity has no loyalty, and each blockchain's technology continues to improve, standing for something, and building a community around it, might be a key competitive advantage in a multi-chain world
 
-<https://www.notboring.co/p/celo-building-a-regenerative-economy>
+https://www.notboring.co/p/celo-building-a-regenerative-economy
 
 Redis for notification
 
@@ -237,7 +237,7 @@ Hyperspectral imaging
   - AI generated models, CS representatives
 - Hyper-Casual games
 - Zero-Profit Distributed stores
-- <https://hate2wait.io>
+- https://hate2wait.io
 
 ## WIKI / PKM / Website
 

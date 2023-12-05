@@ -16,11 +16,11 @@ Explaining the predictions of any machine learning classifier
 
 LIME is model-agnostic, meaning that it can be applied to any machine learning model. The technique attempts to understand the model by perturbing the input of data samples and understanding how the predictions change.
 
-<https://github.com/marcotcr/lime>
+https://github.com/marcotcr/lime
 
 ## LSTM (Long Short Term Memory)
 
-<https://blog.floydhub.com/long-short-term-memory-from-zero-to-hero-with-pytorch>
+https://blog.floydhub.com/long-short-term-memory-from-zero-to-hero-with-pytorch
 
 ## Facets
 
@@ -34,47 +34,47 @@ Facets Overview automatically gives users a quick understanding of the distribut
 
 Facets Dive provides an easy-to-customize, intuitive interface for exploring the relationship between the data points across the different features of a dataset. With Facets Dive, you control the position, color and visual representation of each data point based on its feature values. If the data points have images associated with them, the images can be used as the visual representations.
 
-<https://ai.googleblog.com/2017/07/facets-open-source-visualization-tool.html>
+https://ai.googleblog.com/2017/07/facets-open-source-visualization-tool.html
 
-<https://pair-code.github.io/facets>
+https://pair-code.github.io/facets
 
 ## HOPS
 
 Hops(HadoopOpenPlatform-as-a-Service) is a next generation distribution of [Apache Hadoop](http://hadoop.apache.org/core/) with scalable, highly available, customizable metadata. Hops consists internally of two main sub projects, HopsFs and HopsYarn.HopsFSis a new implementation of the Hadoop Filesystem (HDFS), that supports multiple stateless NameNodes, where the metadata is stored in [MySQL Cluster](https://www.mysql.com/products/cluster/), an in-memory distributed database. HopsFS enables more scalable clusters than Apache HDFS (up to ten times larger clusters), and enables NameNode metadata to be both customized and analyzed, because it can now be easily accessed via a SQL API.HopsYARNintroduces a distributed stateless Resource Manager, whose state is migrated to MySQL Cluster. This enables our YARN architecture to have no down-time, with failover of a ResourceManager happening in a few seconds. Together, HopsFS and HopsYARN enable Hadoop clusters to scale to larger volumes and higher throughput.
 
-<https://github.com/hopshadoop/hops>
+https://github.com/hopshadoop/hops
 
 ## Horovod
 
 Distributed training framework for TensorFlow, Keras, PyTorch, and Apache MXNet. The goal of Horovod is to make distributed Deep Learning fast and easy to use.
 
-<https://eng.uber.com/horovod>
+https://eng.uber.com/horovod
 
-<https://github.com/horovod/horovod>
+https://github.com/horovod/horovod
 
 ## Streamlit
 
 The fastest way to build custom ML tools
 
-<https://towardsdatascience.com/coding-ml-tools-like-you-code-ml-models-ddba3357eace>
+https://towardsdatascience.com/coding-ml-tools-like-you-code-ml-models-ddba3357eace
 
-<https://github.com/streamlit/streamlit>
+https://github.com/streamlit/streamlit
 
-<https://www.freecodecamp.org/news/build-12-data-science-apps-with-python-and-streamlit>
+https://www.freecodecamp.org/news/build-12-data-science-apps-with-python-and-streamlit
 
 ## Metaflow
 
 Metaflow is a human-friendly Python library that helps scientists and engineers build and manage real-life data science projects. Metaflow was originally developed at Netflix to boost productivity of data scientists who work on a wide variety of projects from classical statistics to state-of-the-art deep learning
 
-<https://github.com/Netflix/metaflow>
+https://github.com/Netflix/metaflow
 
-<https://medium.com/netflix-techblog/open-sourcing-metaflow-a-human-centric-framework-for-data-science-fa72e04a5d9>
+https://medium.com/netflix-techblog/open-sourcing-metaflow-a-human-centric-framework-for-data-science-fa72e04a5d9
 
 ## Trains
 
 Auto-Magical Experiment Manager & Version Control for AI
 
-<https://github.com/allegroai/trains>
+https://github.com/allegroai/trains
 
 ## TVM
 
@@ -85,9 +85,9 @@ TVM provides the following main features:
 - Compilation of deep learning models in Keras, MXNet, PyTorch, Tensorflow, CoreML, DarkNet into minimum deployable modules on diverse hardware backends.
 - Infrastructure to automatic generate and optimize tensor operators on more backend with better performance.
 
-<https://tvm.ai>
+https://tvm.ai
 
-<https://github.com/dmlc/tvm>
+https://github.com/dmlc/tvm
 
 ## Polyaxon
 
@@ -97,15 +97,15 @@ Polyaxon deploys into any data center, cloud provider, or can be hosted and mana
 
 Polyaxon makes it faster, easier, and more efficient to develop deep learning applications by managing workloads with smart container and node management. And it turns GPU servers into shared, self-service resources for your team or organization.
 
-<https://polyaxon.com>
+https://polyaxon.com
 
 ## Cortex
 
 Cortex is an open source platform for deploying machine learning models as production web services.
 
-<https://github.com/cortexlabs/cortex>
+https://github.com/cortexlabs/cortex
 
-<https://www.cortex.dev>
+https://www.cortex.dev
 
 ## Others
 
@@ -117,9 +117,9 @@ Lua (Programming languague)
 
 Magenta
 
-<https://explosion.ai/software>
+https://explosion.ai/software
 
-<https://web.superquery.io>
+https://web.superquery.io
 
 [Announcing New Tools for Building with Generative AI on AWS | AWS Machine Learning Blog](https://aws.amazon.com/blogs/machine-learning/announcing-new-tools-for-building-with-generative-ai-on-aws/)
 
@@ -137,19 +137,19 @@ Build real-time predictive intelligence in to your business
 
 #### matrixds
 
-<https://cloud.google.com/notebooks>
+https://cloud.google.com/notebooks
 
-<https://mybinder.org>
+https://mybinder.org
 
-<https://aws.amazon.com/sagemaker>
+https://aws.amazon.com/sagemaker
 
-<https://deepbluegpu.com>
+https://deepbluegpu.com
 
 #### Free notebooks
 
-- <https://freenotebooks.io>
-- Google Colab - <https://colab.research.google.com>
+- https://freenotebooks.io
+- Google Colab - https://colab.research.google.com
 - Kaggle
-- <https://notebooks.ai>
+- https://notebooks.ai
 - [**https://teachablemachine.withgoogle.com/**](https://teachablemachine.withgoogle.com/)
-- <https://www.mage.ai>
+- https://www.mage.ai

@@ -5,4 +5,4 @@ Chord is one of the four original [distributed hash table](https://en.wikipedia.
 
 ## References
 
-<https://en.wikipedia.org/wiki/Chord_(peer-to-peer)>
+https://en.wikipedia.org/wiki/Chord_(peer-to-peer)

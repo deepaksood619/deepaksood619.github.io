@@ -1,8 +1,8 @@
 # EC2 Instance types
 
-<https://aws.amazon.com/blogs/compute/it-just-got-easier-to-discover-and-compare-ec2-instance-types>
+https://aws.amazon.com/blogs/compute/it-just-got-easier-to-discover-and-compare-ec2-instance-types
 
-<https://github.com/aws/amazon-ec2-instance-selector>
+https://github.com/aws/amazon-ec2-instance-selector
 
 ## AMI
 
@@ -29,9 +29,9 @@ a - AMD CPUs
 - **M5a instances** offers up to 10% savings for customers who are looking to further cost optimize their Amazon EC2 compute environments.
 - [Kernel Live Patching for Amazon Linux 2 is now generally available](https://aws.amazon.com/about-aws/whats-new/2020/06/announcing-general-availability-kernel-live-patching-amazon-linux-2/)
 
-<https://aws.amazon.com/ec2/pricing/on-demand>
+https://aws.amazon.com/ec2/pricing/on-demand
 
-<https://aws.amazon.com/ec2/instance-types>
+https://aws.amazon.com/ec2/instance-types
 
 - **Spot instances (discount upto 90%)**
   - **No bidding**
@@ -41,15 +41,15 @@ a - AMD CPUs
     - Lossely coupled
     - Stateless workloads
 
-<https://aws.amazon.com/ec2/spot/instance-advisor>
+https://aws.amazon.com/ec2/spot/instance-advisor
 
-<https://ec2spotworkshops.com/using_ec2_spot_instances_with_eks.html>
+https://ec2spotworkshops.com/using_ec2_spot_instances_with_eks.html
 
-<https://aws.amazon.com/blogs/compute/cost-optimization-and-resilience-eks-with-spot-instances>
+https://aws.amazon.com/blogs/compute/cost-optimization-and-resilience-eks-with-spot-instances
 
-<https://aws.amazon.com/blogs/containers/amazon-eks-now-supports-provisioning-and-managing-ec2-spot-instances-in-managed-node-groups>
+https://aws.amazon.com/blogs/containers/amazon-eks-now-supports-provisioning-and-managing-ec2-spot-instances-in-managed-node-groups
 
-<https://spot.io>
+https://spot.io
 
 - On-demand instances
 - Reserved instances (discount upto 75%)
@@ -59,7 +59,7 @@ a - AMD CPUs
 
 ![image](../../../media/Cloud-AWS-EC2-Instance-types-image2.jpg)
 
-<https://aws.amazon.com/ec2/pricing/reserved-instances/pricing>
+https://aws.amazon.com/ec2/pricing/reserved-instances/pricing
 
 - Savings plans (discount upto 66%)
 - Dedicated hosts
@@ -87,12 +87,12 @@ a - AMD CPUs
 
 Bottlerocket is a Linux-based open-source operating system that is purpose-built by Amazon Web Services for running containers on virtual machines or bare metal hosts. Most customers today run containerized applications on general-purpose operating systems that are updated package-by-package, which makes OS updates difficult to automate. Updates to Bottlerocket are applied in a single step rather than package-by-package. This single-step update process helps reduce management overhead by making OS updates easy to automate using container orchestration services such as Amazon EKS. The single-step updates also improve uptime for container applications by minimizing update failures and enabling easy update rollbacks. Additionally, Bottlerocket includes only the essential software to run containers, which improves resource usage and reduces the attack surface.
 
-<https://aws.amazon.com/bottlerocket>
+https://aws.amazon.com/bottlerocket
 
-<https://github.com/bottlerocket-os/bottlerocket>
+https://github.com/bottlerocket-os/bottlerocket
 
 EC2 Image Builder
 
 ## GPU
 
-<https://aws.amazon.com/ec2/instance-types/g4>
+https://aws.amazon.com/ec2/instance-types/g4

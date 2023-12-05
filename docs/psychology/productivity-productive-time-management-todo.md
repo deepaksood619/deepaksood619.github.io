@@ -4,7 +4,7 @@ Productivity isn't everything, but, in the long run, it is almost everything -- 
 
 The most invisible form of wasted time is doing a good job on an unimportant task.
 
-<https://www.scotthyoung.com/blog/2020/10/26/foundation-practices>
+https://www.scotthyoung.com/blog/2020/10/26/foundation-practices
 
 1. Establish an Airtight Productivity System
 2. Exercise Every Weekday
@@ -17,7 +17,7 @@ The most invisible form of wasted time is doing a good job on an unimportant tas
 9. Always Have a Major Project
 10. One New Experience Each Week
 
-<https://www.scotthyoung.com/blog/2020/09/07/beyond-self-improvement>
+https://www.scotthyoung.com/blog/2020/09/07/beyond-self-improvement
 
 Focus on being productive instead of being busy. -- Tim Ferriss
 
@@ -97,7 +97,7 @@ Plan around a 12-week period, execute tasks and radically improve results
 6. Always measure against your baseline (not somebody else's).
 7. A system cannot give your work meaning or motivation.
 
-<https://www.scotthyoung.com/blog/2020/04/27/productivity-rules>
+https://www.scotthyoung.com/blog/2020/04/27/productivity-rules
 
 ## Productivity
 
@@ -127,7 +127,7 @@ Informally, I like to follow the 10% Rule, which says that you should spend, rou
 
 At first this seems crazy large. And, admittedly, this rule can be reduced for longer projects (especially those that might need intermediate planning as you learn more). Yet, for new project types where you lack experience, the time spent planning is often the most valuable.
 
-<https://www.scotthyoung.com/blog/2020/12/07/planning>
+https://www.scotthyoung.com/blog/2020/12/07/planning
 
 ## Blinkist - Get your shit together by Sarah Knight (2 Jan 2019)
 
@@ -204,7 +204,7 @@ Embrace what matters, ditch what doesn't, and get stuff done
 3. Relate it to your purpose
 4. Take action
 
-<https://www.tonyrobbins.com/productivity-performance/power-of-chunking>
+https://www.tonyrobbins.com/productivity-performance/power-of-chunking
 
 ## Multitasking
 
@@ -222,17 +222,17 @@ Liner is a browser extension that lets you highlight anything you see online. Be
 
 ## Resources
 
-<https://www.freecodecamp.org/news/how-to-get-things-done-lessons-in-productivity>
+https://www.freecodecamp.org/news/how-to-get-things-done-lessons-in-productivity
 
-<https://deepstash.com/article/1700/23-time-management-techniques-of-insanely-busy-people>
+https://deepstash.com/article/1700/23-time-management-techniques-of-insanely-busy-people
 
-<https://www.youtube.com/watch?v=fBr8BKPW5tc>
+https://www.youtube.com/watch?v=fBr8BKPW5tc
 
-<https://medium.com/swlh/the-5-most-productive-things-to-do-when-youre-too-tired-to-work-4157efe9091b>
+https://medium.com/swlh/the-5-most-productive-things-to-do-when-youre-too-tired-to-work-4157efe9091b
 
-<https://hellonehha.hashnode.dev/how-to-protect-your-time-at-work-cksoxjhtq079dvks125jhewf3>
+https://hellonehha.hashnode.dev/how-to-protect-your-time-at-work-cksoxjhtq079dvks125jhewf3
 
-<https://www.productivitygame.com>
+https://www.productivitygame.com
 
 - [Personal Productivity](https://www.youtube.com/watch?v=-f3dNkkFBvM)
 

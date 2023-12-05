@@ -110,4 +110,4 @@ When you name topics, don't use them in the same way as in a queue. Be as specif
 
 ## References
 
-<https://www.hivemq.com/blog/mqtt-essentials-part-5-mqtt-topics-best-practices>
+https://www.hivemq.com/blog/mqtt-essentials-part-5-mqtt-topics-best-practices

@@ -2,7 +2,7 @@
 
 The stock market is a device for transferring money from the impatient to the patient - Warren Buffet
 
-<https://marcellus.in/newsletter/consistent-compounders/studying-the-holiday-schedule-of-consistent-compounders>
+https://marcellus.in/newsletter/consistent-compounders/studying-the-holiday-schedule-of-consistent-compounders
 
 Selling stock is as important as buying stock
 
@@ -20,13 +20,13 @@ You can claim exemption against any long-term capital gains tax liability if you
 
 ## Screener
 
-- <https://www.screener.in/explore>
-- <https://www.screener.in/screens/103296/52-week-lows>
-- <https://www.screener.in/screens/343087/fii-buying>
-- <https://www.tickertape.in/screener/equity/prebuilt/SCR0001>
-- <https://www.screener.in/screens/218753/marcellus-little-champs>
-- <https://www.screener.in/screens/395078/consistent-compounders-marcellus>
-- <https://www.screener.in/screens/523311/rising-giants-marcellus>
+- https://www.screener.in/explore
+- https://www.screener.in/screens/103296/52-week-lows
+- https://www.screener.in/screens/343087/fii-buying
+- https://www.tickertape.in/screener/equity/prebuilt/SCR0001
+- https://www.screener.in/screens/218753/marcellus-little-champs
+- https://www.screener.in/screens/395078/consistent-compounders-marcellus
+- https://www.screener.in/screens/523311/rising-giants-marcellus
 
 ## NiftyETF
 
@@ -91,7 +91,7 @@ You can claim exemption against any long-term capital gains tax liability if you
 - GMM Pfaudler
 - Amrutanjan
 
-<https://marcellus.in/blogs/three-distinct-layers-of-polarization-in-the-indian-stock-market>
+https://marcellus.in/blogs/three-distinct-layers-of-polarization-in-the-indian-stock-market
 
 ## Top retail investors
 
@@ -102,7 +102,7 @@ You can claim exemption against any long-term capital gains tax liability if you
 5. Mukul Mahavir Prasad Agarwal
 6. Rajeev Thakkar - PPFAS - PPFCF
 
-<https://www.moneycontrol.com/india-investors-portfolio>
+https://www.moneycontrol.com/india-investors-portfolio
 
 ## Links
 

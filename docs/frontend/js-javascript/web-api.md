@@ -38,7 +38,7 @@ Client-side JavaScript, in particular, has many APIs available to it - these are
 
 - [DOM](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model)
 
-    <https://www.freecodecamp.org/news/what-is-the-dom-document-object-model-meaning-in-javascript>
+    https://www.freecodecamp.org/news/what-is-the-dom-document-object-model-meaning-in-javascript
 
 ## E
 
@@ -139,6 +139,6 @@ Client-side JavaScript, in particular, has many APIs available to it - these are
 - [WebXR Device API](https://developer.mozilla.org/en-US/docs/Web/API/WebXR_Device_API)
 - [Websockets API](https://developer.mozilla.org/en-US/docs/Web/API/Websockets_API)
 
-<https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/Introduction>
+https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/Introduction
 
-<https://developer.mozilla.org/en-US/docs/Web/API>
+https://developer.mozilla.org/en-US/docs/Web/API

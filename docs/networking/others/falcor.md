@@ -16,10 +16,10 @@ A JavaScript library for efficient data fetching
 
 ## References
 
-<https://netflix.github.io/falcor>
+https://netflix.github.io/falcor
 
-<https://netflix.github.io/falcor/starter/what-is-falcor.html>
+https://netflix.github.io/falcor/starter/what-is-falcor.html
 
-<https://github.com/netflix/falcor-express-demo>
+https://github.com/netflix/falcor-express-demo
 
-<https://blog.apollographql.com/graphql-vs-falcor-4f1e9cbf7504>
+https://blog.apollographql.com/graphql-vs-falcor-4f1e9cbf7504

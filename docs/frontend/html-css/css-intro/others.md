@@ -14,11 +14,11 @@ To get your HTML content styled by CSS the browser uses the following method. Up
 
 ## Media Queries
 
-<https://www.freecodecamp.org/news/how-to-use-css-media-queries-to-create-responsive-websites>
+https://www.freecodecamp.org/news/how-to-use-css-media-queries-to-create-responsive-websites
 
 ## SCSS
 
-<https://www.toptal.com/front-end/frontend-clean-code-guide>
+https://www.toptal.com/front-end/frontend-clean-code-guide
 
 Use scss (sassy sass) or sass (indented sass)
 
@@ -26,11 +26,11 @@ Use scss (sassy sass) or sass (indented sass)
 
 2. Use rem units (stand for root em) instead of pixels in CSS
 
-<https://snook.ca/archives/html_and_css/font-size-with-rem>
+https://snook.ca/archives/html_and_css/font-size-with-rem
 
 3. Use hr instead of border-bottom in CSS
 
-<https://www.toptal.com/sass/theming-scss-tutorial>
+https://www.toptal.com/sass/theming-scss-tutorial
 
 Sass (Syntactically Awesome Style Sheets) is a CSS supersets that gives us programming type features and pre-compiles into CSS.
 
@@ -52,7 +52,7 @@ A preprocessor scripting language that is interpreted or compiled into Cascading
 
 A CSS writing methodology that allows us to modularize CSS code, and make it more readable and maintainable
 
-<https://www.toptal.com/css/smacss-scalable-modular-architecture-css>
+https://www.toptal.com/css/smacss-scalable-modular-architecture-css
 
 ## Scoped CSS
 
@@ -66,8 +66,8 @@ This feature is invaluable for component-based development.
 
 Web Content Accessibility Guidelines (WCAG) 2.0 covers a wide range of recommendations for making Web content more accessible. Following these guidelines will make content accessible to a wider range of people with disabilities, including blindness and low vision, deafness and hearing loss, learning disabilities, cognitive limitations, limited movement, speech disabilities, photosensitivity and combinations of these. Following these guidelines will also often make your Web content more usable to users in general.
 
-<https://www.w3.org/TR/WCAG20>
+https://www.w3.org/TR/WCAG20
 
 ## Resources
 
-<https://www.freecodecamp.org/news/how-to-make-a-landing-page-using-html-scss-and-javascript>
+https://www.freecodecamp.org/news/how-to-make-a-landing-page-using-html-scss-and-javascript

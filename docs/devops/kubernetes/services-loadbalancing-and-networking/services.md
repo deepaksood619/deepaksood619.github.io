@@ -41,7 +41,7 @@ For headless services that do not define selectors, the endpoints controller doe
 - CNAME records for [ExternalName](https://kubernetes.io/docs/concepts/services-networking/service/#externalname) - type services.
 - A records for any Endpoints that share a name with the service, for all other types.
 
-<https://kubernetes.io/docs/concepts/services-networking/service>
+https://kubernetes.io/docs/concepts/services-networking/service
 
 ## Anatomy of a Kubernetes Service
 
@@ -61,4 +61,4 @@ Load-balancing in this situation is simple L4 round-robin load-balancing. This w
 - Multiple requests from the same browser will always hit the samePod. This is because browsers send all requests over a single connection that is kept open using keep alives. Requests via tools like curl open a new connection for each request and will therefore hit different Pods.
 - Load-balancing is not aware of application layer(L7) concepts such as HTTP headers and cookie-based session affinity.
 
-<https://nigelpoulton.com/blog/f/demystifying-kubernetes-service-discovery>
+https://nigelpoulton.com/blog/f/demystifying-kubernetes-service-discovery

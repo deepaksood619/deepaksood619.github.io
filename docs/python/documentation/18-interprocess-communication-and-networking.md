@@ -31,33 +31,33 @@ This module provides infrastructure for writing single-threaded concurrent code 
 
 ## References
 
-<https://geekflare.com/python-asynchronous-web-frameworks>
+https://geekflare.com/python-asynchronous-web-frameworks
 
-<https://blog.miguelgrinberg.com/post/sync-vs-async-python-what-is-the-difference>
+https://blog.miguelgrinberg.com/post/sync-vs-async-python-what-is-the-difference
 
 [**https://github.com/timofurrer/awesome-asyncio**](https://github.com/timofurrer/awesome-asyncio)
 
-<https://yeray.dev/python/asyncio/asyncio-for-the-working-python-developer>
+https://yeray.dev/python/asyncio/asyncio-for-the-working-python-developer
 
-<https://www.asyncapi.com>
+https://www.asyncapi.com
 
-<https://docs.python.org/3/library/asyncio.html>
+https://docs.python.org/3/library/asyncio.html
 
-<https://docs.python.org/3/library/asyncio-task.html>
+https://docs.python.org/3/library/asyncio-task.html
 
-Getting started with examples - <https://hackernoon.com/asyncio-for-the-working-python-developer-5c468e6e2e8e>
+Getting started with examples - https://hackernoon.com/asyncio-for-the-working-python-developer-5c468e6e2e8e
 
-<https://medium.freecodecamp.org/a-guide-to-asynchronous-programming-in-python-with-asyncio-232e2afa44f6>
+https://medium.freecodecamp.org/a-guide-to-asynchronous-programming-in-python-with-asyncio-232e2afa44f6
 
-All terms explained - <http://lucumr.pocoo.org/2016/10/30/i-dont-understand-asyncio>
+All terms explained - http://lucumr.pocoo.org/2016/10/30/i-dont-understand-asyncio
 
-Python Socket Programming - <http://krondo.com/slow-poetry-and-the-apocalypse>
+Python Socket Programming - http://krondo.com/slow-poetry-and-the-apocalypse
 
-<https://redislabs.com/blog/async-await-programming-basics-python-examples>
+https://redislabs.com/blog/async-await-programming-basics-python-examples
 
 [How To Easily Do Asynchronous Programming With Asyncio In Python](https://www.youtube.com/watch?v=2IW-ZEui4h4)
 
-<https://github.com/hzlmn/diy-async-web-framework>
+https://github.com/hzlmn/diy-async-web-framework
 
 Learn how modern async web frameworks work, by writing simple clone from scratch
 
@@ -97,8 +97,8 @@ await asyncio.gather(*tasks, return_exceptions=True)
 if **name** == "**main**":
 
 sites = [
-"<https://www.jython.org>",
-"<http://olympus.realpython.org/dice>",
+"https://www.jython.org",
+"http://olympus.realpython.org/dice",
 ] * 80
 
 start_time = time.time()
@@ -112,11 +112,11 @@ print(f"Downloaded {len(sites)} sites in {duration} seconds")
 async with aiohttp.ClientSession(connector=aiohttp.TCPConnector(limit=10)) as session:
 ```
 
-- <https://realpython.com/python-concurrency>
-- <https://realpython.com/async-io-python>
-- <https://docs.aiohttp.org/en/stable>
-- <https://aiohttp-demos.readthedocs.io/en/latest/index.html>
-- <https://www.roguelynn.com/words/asyncio-we-did-it-wrong>
+- https://realpython.com/python-concurrency
+- https://realpython.com/async-io-python
+- https://docs.aiohttp.org/en/stable
+- https://aiohttp-demos.readthedocs.io/en/latest/index.html
+- https://www.roguelynn.com/words/asyncio-we-did-it-wrong
 - [Use These Methods to Make Your Python Concurrent Tasks Perform Better | by Peng Qian | Apr, 2023 | Towards Data Science](https://towardsdatascience.com/use-these-methods-to-make-your-python-concurrent-tasks-perform-better-b693b7a633e1)
 
 ## Questions

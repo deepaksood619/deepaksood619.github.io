@@ -8,7 +8,7 @@ Gaussian noise is statistical noise having a probability density function (PDF) 
 
 A special case is *white Gaussian noise*, in which the values at any pair of times are identically distributed and statistically independent (and hence uncorrelated). In communication channel testing and modelling, Gaussian noise is used as additive white noise to generate additive white Gaussian noise.
 
-<https://en.wikipedia.org/wiki/Gaussian_noise>
+https://en.wikipedia.org/wiki/Gaussian_noise
 
 ## Monotonic Function
 
@@ -28,7 +28,7 @@ Figure 3. A function that is not monotonic
 
 In mathematics, a **monotonic function** (or **monotone function**) is a function between ordered sets that preserves or reverses the given order.
 
-<https://en.wikipedia.org/wiki/Monotonic_function>
+https://en.wikipedia.org/wiki/Monotonic_function
 
 ## Null Hypothesis
 
@@ -64,13 +64,13 @@ A moving average is commonly used with [time series](https://en.wikipedia.org/wi
 - Exponential Moving Average
 - Centered Moving Average
 
-<https://en.wikipedia.org/wiki/Moving_average>
+https://en.wikipedia.org/wiki/Moving_average
 
 ## Parameter Space
 
 In [statistics](https://en.wikipedia.org/wiki/Statistics), a**parameter space** is the [space](https://en.wikipedia.org/wiki/Space_(mathematics)) of all possible combinations of values for all the different [parameters](https://en.wikipedia.org/wiki/Parameter) contained in a particular [mathematical model](https://en.wikipedia.org/wiki/Mathematical_model). The ranges of values of the parameters may form the axes of a [plot](https://en.wikipedia.org/wiki/Plot_(graphics)), and particular outcomes of the model may be plotted against these axes to illustrate how different regions of the parameter space produce different types of behaviour in the model.
 
-<https://en.wikipedia.org/wiki/Parameter_space>
+https://en.wikipedia.org/wiki/Parameter_space
 
 ## Ziph's Law
 
@@ -78,7 +78,7 @@ Zipf's law([/zɪf/](https://en.wikipedia.org/wiki/Help:IPA/English)) is an [empi
 
 For example, Zipf's law states that given some [corpus](https://en.wikipedia.org/wiki/Text_corpus) of [natural language](https://en.wikipedia.org/wiki/Natural_language) utterances, the frequency of any word is [inversely proportional](https://en.wikipedia.org/wiki/Inversely_proportional) to its rank in the [frequency table](https://en.wikipedia.org/wiki/Frequency_table). Thus the most frequent word will occur approximately twice as often as the second most frequent word, three times as often as the third most frequent word, etc.: the [rank-frequency distribution](https://en.wikipedia.org/wiki/Rank-frequency_distribution) is an inverse relation. For example, in the [Brown Corpus](https://en.wikipedia.org/wiki/Brown_Corpus) of American English text, the word [the](https://en.wikipedia.org/wiki/English_articles#Definite_article) is the most frequently occurring word, and by itself accounts for nearly 7% of all word occurrences (69,971 out of slightly over 1 million). True to Zipf's Law, the second-place wordofaccounts for slightly over 3.5% of words (36,411 occurrences), followed byand(28,852). Only 135 vocabulary items are needed to account for half the [Brown Corpus](https://en.wikipedia.org/wiki/Brown_Corpus).
 
-<https://en.wikipedia.org/wiki/Zipf%27s_law>
+https://en.wikipedia.org/wiki/Zipf%27s_law
 
 ## Power Law Distribution
 
@@ -88,7 +88,7 @@ In [statistics](https://en.wikipedia.org/wiki/Statistics), a**power law** is a f
 
 An example power-law graph, being used to demonstrate ranking of popularity. To the right is the [long tail](https://en.wikipedia.org/wiki/Long_tail), and to the left are the few that dominate (also known as the [80--20 rule](https://en.wikipedia.org/wiki/Pareto_principle)).
 
-<https://en.wikipedia.org/wiki/Power_law>
+https://en.wikipedia.org/wiki/Power_law
 
 ## Pivot Table
 
@@ -96,7 +96,7 @@ A **pivot table** is a [table](https://en.wikipedia.org/wiki/Table_(information)
 
 Pivot tables are a technique in [data processing](https://en.wikipedia.org/wiki/Data_processing). They enable a person to arrange and rearrange (or "pivot") statistics in order to draw attention to useful information.
 
-<https://en.wikipedia.org/wiki/Pivot_table>
+https://en.wikipedia.org/wiki/Pivot_table
 
 ## Empirical Cumulative Distribution Function
 
@@ -111,8 +111,8 @@ Rank order items are analyzed using [Spearman](http://changingminds.org/explanat
 
 ## Statistical Power
 
-<https://machinelearningmastery.com/statistical-power-and-power-analysis-in-python>
+https://machinelearningmastery.com/statistical-power-and-power-analysis-in-python
 
 ## Effect Size
 
-<https://machinelearningmastery.com/effect-size-measures-in-python>
+https://machinelearningmastery.com/effect-size-measures-in-python

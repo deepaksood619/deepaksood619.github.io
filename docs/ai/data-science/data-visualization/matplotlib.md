@@ -4,11 +4,11 @@ Matplotlib
 
 2-dimensional graphs and plots
 
-<https://matplotlib.org>
+https://matplotlib.org
 
-<https://www.dataquest.io/blog/matplotlib-tutorial>
+https://www.dataquest.io/blog/matplotlib-tutorial
 
-<https://www.machinelearningplus.com/plots/top-50-matplotlib-visualizations-the-master-plots-python>
+https://www.machinelearningplus.com/plots/top-50-matplotlib-visualizations-the-master-plots-python
 
 ```python
 import matplotlib.pyplot as plt
@@ -57,8 +57,8 @@ plt.show()
 
 ### seaborn
 
-<https://stackabuse.com/seaborn-library-for-data-visualization-in-python-part-1>
+https://stackabuse.com/seaborn-library-for-data-visualization-in-python-part-1
 
 ### bokeh
 
-<https://docs.bokeh.org/en/latest/index.html>
+https://docs.bokeh.org/en/latest/index.html

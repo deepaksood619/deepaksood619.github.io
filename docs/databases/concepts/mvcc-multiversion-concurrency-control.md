@@ -17,7 +17,7 @@ When an MVCC database needs to update a piece of data, it will not overwrite the
 
 MVCC provides [point-in-time consistent](https://en.wikipedia.org/wiki/Data_consistency#Point-in-time_consistency) views. Read transactions under MVCC typically use a timestamp or transaction ID to determine what state of the DB to read, and read these versions of the data. Read and write transactions are thus [isolated](https://en.wikipedia.org/wiki/Isolation_(database_systems)) from each other without any need for locking. However, despite locks being unnecessary, they are used by some MVCC databases such as Oracle. Writes create a newer version, while concurrent reads access an older version.
 
-<https://en.wikipedia.org/wiki/Multiversion_concurrency_control>
+https://en.wikipedia.org/wiki/Multiversion_concurrency_control
 
 ## Lock Contention
 

@@ -171,9 +171,9 @@ Applications
   - Image recognition
   - Optical Character Recognition (OCR)
 
-<https://opensource.google/projects/tesseract>
+https://opensource.google/projects/tesseract
 
-<https://github.com/tesseract-ocr/tesseract>
+https://github.com/tesseract-ocr/tesseract
 
 Algorithms
 
@@ -230,7 +230,7 @@ Algorithms
 
 - Principal Component Analysis (PCA)
 
-<http://www.oranlooney.com/post/ml-from-scratch-part-6-pca>
+http://www.oranlooney.com/post/ml-from-scratch-part-6-pca
 
 - Feature selection
 - Non-negative matrix factorization

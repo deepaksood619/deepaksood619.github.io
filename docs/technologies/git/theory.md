@@ -37,11 +37,11 @@ git subtree push --prefix .layouts/public origin pages
 - You can’t, at least not simply, list the subtrees’ remote repositories.
 - When you change the main repository with subtree commits, then submit the subtree to its main server, and then pull the subtree, the logs can be a little misleading.
 
-<https://www.geeksforgeeks.org/git-subtree>
+https://www.geeksforgeeks.org/git-subtree
 
-<https://www.atlassian.com/git/tutorials/git-subtree>
+https://www.atlassian.com/git/tutorials/git-subtree
 
-<https://medium.com/@porteneuve/mastering-git-subtrees-943d29a798ec>
+https://medium.com/@porteneuve/mastering-git-subtrees-943d29a798ec
 
 ## Git Bisect
 
@@ -59,7 +59,7 @@ This command directly fetch and merge the changes from origin to ECBC-master and
 
 ## Rebase
 
-<https://dev.to/gonedark/a-closer-look-at-git-rebase>
+https://dev.to/gonedark/a-closer-look-at-git-rebase
 
 Rebasing is the process of modifying the base commit from which series of commits stem
 
@@ -119,7 +119,7 @@ Just remember to always git branch backupbefore you rebase. Then, after the reba
     |-- tags
 ```
 
-<https://git-scm.com/docs/gitrepository-layout>
+https://git-scm.com/docs/gitrepository-layout
 
 ## Git Merge Commit
 
@@ -157,11 +157,11 @@ One of these attributes is the eol (end of line) and is used to configure the li
 
 ## References
 
-<https://kolosek.com/git-merge/#fastforwardmerge>
+https://kolosek.com/git-merge/#fastforwardmerge
 
-<https://dev.to/neshaz/git-merge-vs-git-rebase-5134>
+https://dev.to/neshaz/git-merge-vs-git-rebase-5134
 
-<https://chris.beams.io/posts/git-commit/#seven-rules>
+https://chris.beams.io/posts/git-commit/#seven-rules
 
 ## Git Branches
 
@@ -184,7 +184,7 @@ git branch -f <branch_name> <where_to_move>
 The first method to combine work that we will examine isgit merge. Merging in Git creates a special commit that has two unique parents. A commit with two parents essentially means "I want to include all the work from this parent over here and this one over here,andthe set of all their parents."
 
 1. **Checkout the branch where you want the commits to merge.**
-2. **Use command git merge <branch_name> from where you want commits to merge to the branch**
+2. **Use command `git merge <branch_name>` from where you want commits to merge to the branch**
 
 ```bash
 git checkout -b bugFix
@@ -426,6 +426,6 @@ will set the foo branch to track o/master. Iffoois currently checked out you can
 
 `git push origin <source>:<destination>`
 
-<https://learngitbranching.js.org>
+https://learngitbranching.js.org
 
-<https://www.freecodecamp.org/news/git-for-professionals>
+https://www.freecodecamp.org/news/git-for-professionals

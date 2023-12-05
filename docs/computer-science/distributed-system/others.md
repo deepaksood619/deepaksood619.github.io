@@ -33,11 +33,11 @@ While CmRDTs place more requirements on the protocol for transmitting operations
 
 Some lower bounds on the storage complexity of state-based CRDTs are known.
 
-<https://arxiv.org/abs/1805.06358>
+https://arxiv.org/abs/1805.06358
 
-<https://en.wikipedia.org/wiki/Conflict-free_replicated_data_type>
+https://en.wikipedia.org/wiki/Conflict-free_replicated_data_type
 
-<http://christophermeiklejohn.com/crdt/2014/07/22/readings-in-crdts.html>
+http://christophermeiklejohn.com/crdt/2014/07/22/readings-in-crdts.html
 
 [Ep 2 - Introduction to CRDTs - Conflict-free Replicated Data Types - with @VipulVaibhaw - YouTube](https://www.youtube.com/watch?v=Paau_t0aZKw&ab_channel=AsliEngineeringbyArpitBhayani)
 
@@ -57,9 +57,9 @@ If an actor receive a message it can do 3 things
 2. Send messages to actors it knows
 3. Designate what to do with the next message
 
-<https://www.brianstorti.com/the-actor-model>
+https://www.brianstorti.com/the-actor-model
 
-<https://www.youtube.com/watch?v=7erJ1DV_Tlo>
+https://www.youtube.com/watch?v=7erJ1DV_Tlo
 
 [Actor Model Explained - YouTube](https://www.youtube.com/watch?v=ELwEdb_pD0k&ab_channel=Finematics)
 
@@ -71,9 +71,9 @@ Multi-tenancy can be economical because software development and maintenance cos
 
 In [cloud computing](http://searchcloudcomputing.techtarget.com/definition/cloud-computing), the meaning of multi-tenancy architecture has broadened because of new service models that take advantage of [virtualization](http://searchservervirtualization.techtarget.com/definition/virtualization) and [remote access](http://searchmidmarketsecurity.techtarget.com/definition/remote-access). A software-as-a-service ([SaaS](http://whatis.techtarget.com/definition/SaaS)) provider, for example, can run one instance of its application on one instance of a database and provide web access to multiple customers. In such a scenario, each tenant's data is isolated and remains invisible to other tenants.
 
-<https://whatis.techtarget.com/definition/multi-tenancy>
+https://whatis.techtarget.com/definition/multi-tenancy
 
-<https://www.computerworld.com/article/2517005/data-center/multi-tenancy-in-the-cloud--why-it-matters.html>
+https://www.computerworld.com/article/2517005/data-center/multi-tenancy-in-the-cloud--why-it-matters.html
 
 ## Failure Modes
 
@@ -89,7 +89,7 @@ Another type of failure is Omission Fault. This failure model assumes that the p
 
 The hardest failures to overcome are Arbitrary or Byzantine Failures, where the process continues executing algorithm steps, but in a way that contradicts the algorithm in some way (for example, by deciding on a value that was never proposed).
 
-<https://medium.com/databasss/on-ways-to-agree-part-1-links-and-flp-impossibility-f6bd8a6a0980>
+https://medium.com/databasss/on-ways-to-agree-part-1-links-and-flp-impossibility-f6bd8a6a0980
 
 ## Shared-Nothing architecture (SN)
 
@@ -99,7 +99,7 @@ SN eliminates [single points of failure](https://en.wikipedia.org/wiki/Single_po
 
 A SN system can scale simply by adding nodes, since no central resource bottlenecks the system.Another term for SN is [sharding](https://en.wikipedia.org/wiki/Sharding). A SN system typically partitions its data among many nodes. A refinement is to replicate commonly used but infrequently modified data across many nodes, allowing more requests to be resolved on a single node.
 
-<https://en.wikipedia.org/wiki/Shared-nothing_architecture>
+https://en.wikipedia.org/wiki/Shared-nothing_architecture
 
 ## Redundancy, Replication, Transparency
 
@@ -107,7 +107,7 @@ Replication takes a redundant node one step further; it ensures that the redunda
 
 [Transparency](https://medium.com/baseds/transparency-illusions-of-a-single-system-part-1-b01c25f7dddd) in [a system](https://medium.com/baseds/transparency-illusions-of-a-single-system-part-2-2b21c5047774) means that all the replicas and the original node must behave similarly, which means that a consumer of the system (like an end user or another node) could potentially write to one replica, while another consumer of the system could read from another replica!
 
-<https://medium.com/baseds/redundancy-and-replication-duplicating-in-a-distributed-system-7ab4322d7378>
+https://medium.com/baseds/redundancy-and-replication-duplicating-in-a-distributed-system-7ab4322d7378
 
 ## Designing Distributed Systems
 

@@ -115,9 +115,9 @@ If the first character of the administrator's hashed password is an 'a', wait fo
 
 [**https://www.netsparker.com/blog/web-security/sql-injection-cheat-sheet/**](https://www.netsparker.com/blog/web-security/sql-injection-cheat-sheet/)
 
-<https://dotweak.com/2019/08/16/sql-injection-tutorial-for-beginners-Zm5NSWw3MjJCUVMrT2hmWUdNeTZiQT09>
+https://dotweak.com/2019/08/16/sql-injection-tutorial-for-beginners-Zm5NSWw3MjJCUVMrT2hmWUdNeTZiQT09
 
-<https://www.freecodecamp.org/news/what-is-sql-injection-how-to-prevent-it>
+https://www.freecodecamp.org/news/what-is-sql-injection-how-to-prevent-it
 
 ## Row Hammer Attack
 
@@ -127,13 +127,13 @@ The row hammer effect has been used in some [privilege escalation](https://en.wi
 
 Different hardware-based techniques exist to prevent the row hammer effect from occurring, including required support in some [processors](https://en.wikipedia.org/wiki/Central_processing_unit) and types of DRAM [memory modules](https://en.wikipedia.org/wiki/Memory_module). Row hammer rarely or never affects [DDR](https://en.wikipedia.org/wiki/DDR_SDRAM) and [DDR2](https://en.wikipedia.org/wiki/DDR2_SDRAM) SDRAM modules. It affects many [DDR3](https://en.wikipedia.org/wiki/DDR3_SDRAM) and [DDR4](https://en.wikipedia.org/wiki/DDR4_SDRAM) SDRAM modules.
 
-<https://en.wikipedia.org/wiki/Row_hammer>
+https://en.wikipedia.org/wiki/Row_hammer
 
 ## HTTP Desync
 
 Application Load Balancer (ALB) and Classic Load Balancer (CLB) now support HTTP Desync Mitigation Mode, a new feature that protects your application from issues due to HTTP Desync. Modern day web applications are typically built with a chain of proxies that ensure fast and reliable communication between clients and servers. While these proxies follow a standard mechanism to parse RFC 7230 compliant HTTP/1.1 requests, they may have differences in interpretation while parsing non-compliant requests. These differences in interpretation can cause Desync where different proxies in the chain may disagree on request boundaries and therefore may not process the same request. This could leave behind arbitrary messages that may be prepended to the next request in the queue and smuggled to the backend. Ultimately, request smuggling can make applications vulnerable to request queue or cache poisoning, which could lead to credential hijacking or execution of unauthorized commands.
 
-<https://portswigger.net/research/http-desync-attacks-request-smuggling-reborn>
+https://portswigger.net/research/http-desync-attacks-request-smuggling-reborn
 
 ## Man-in-the-Middle attack (MITM)
 

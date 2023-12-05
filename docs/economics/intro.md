@@ -71,7 +71,7 @@ Solving deleveraging
 - Packaged Inflation / Shrinkflation / Shadow Inflation
 - Stagflation
 
-<https://finshots.in/archive/secret-inflation>
+https://finshots.in/archive/secret-inflation
 
 Why Constant Inflation is Bad
 
@@ -98,7 +98,7 @@ It's a vicious cycle.
 
 ### 17. Lost decade
 
-Book - <https://www.principles.com/big-debt-crises> Free pdf
+Book - https://www.principles.com/big-debt-crises Free pdf
 
 [Money’s Mostly Digital, So Why Is Moving It So Hard? - YouTube](https://www.youtube.com/watch?v=8xzINLykprA&ab_channel=WendoverProductions)
 
@@ -127,7 +127,7 @@ Book - <https://www.principles.com/big-debt-crises> Free pdf
 
 ## Others
 
-<https://finshots.in/archive/finshots-special-how-to-be-a-rational-investor>
+https://finshots.in/archive/finshots-special-how-to-be-a-rational-investor
 
 [William Ackman: Everything You Need to Know About Finance and Investing in Under an Hour | Big Think - YouTube](https://www.youtube.com/watch?v=WEDIj9JBTC8)
 

@@ -1,6 +1,6 @@
 # Storage classes
 
-<https://www.tutorialspoint.com/cplusplus/cpp_storage_classes.htm>
+https://www.tutorialspoint.com/cplusplus/cpp_storage_classes.htm
 
 Storage classes defines the scope(visibility) and life-time of the variables and/or functions within a c++ program. These specifiers precede the type that they modify.
 
@@ -31,7 +31,7 @@ Static is a keyword in C++ used to give special characteristics to an element. S
 - Static member Variable in class
 - Static Methods in class
 
-<https://www.studytonight.com/cpp/static-keyword.php>
+https://www.studytonight.com/cpp/static-keyword.php
 
 ## Extern
 
@@ -40,7 +40,7 @@ Static is a keyword in C++ used to give special characteristics to an element. S
 - Extern is used to define a global variable or function in another file
 - The extern modifier is most used when there are two or more files that share the same global variables or functions.
 
-## Mutable (<http://www.geeksforgeeks.org/c-mutable-keyword>)
+## Mutable (http://www.geeksforgeeks.org/c-mutable-keyword)
 
 - Applies only to class objects.
 - It allows a member of an object to override const member function. That is, a mutable member can be modified by a const member function.

@@ -25,7 +25,7 @@ It is an index of keywords that stores records of documents that contain keyword
 
 Use Case - Create a complete Tweet index.
 
-<https://en.wikipedia.org/wiki/Database_index>
+https://en.wikipedia.org/wiki/Database_index
 
 [Why this query is fast](https://youtu.be/HinCxBt6mNY)
 
@@ -43,7 +43,7 @@ ON orders (user_id)
 WHERE completed IS TRUE;
 ```
 
-<https://www.postgresql.org/docs/12/indexes-partial.html>
+https://www.postgresql.org/docs/12/indexes-partial.html
 
 [How Instagram efficiently serves HashTags ordered by count - YouTube](https://www.youtube.com/watch?v=CA2_0ZhVW2g&ab_channel=AsliEngineeringbyArpitBhayani)
 
@@ -82,11 +82,11 @@ Allows us to maintain pre-aggregated values for some combination of dimensions e
 
 ![image](../../media/Indexing_Database-Index-image1.jpg)
 
-<https://engineering.linkedin.com/blog/2019/06/star-tree-index--powering-fast-aggregations-on-pinot>
+https://engineering.linkedin.com/blog/2019/06/star-tree-index--powering-fast-aggregations-on-pinot
 
-<https://docs.pinot.apache.org/basics/indexing/star-tree-index>
+https://docs.pinot.apache.org/basics/indexing/star-tree-index
 
-<https://en.wikipedia.org/wiki/Search_engine_indexing>
+https://en.wikipedia.org/wiki/Search_engine_indexing
 
 ## Others
 

@@ -96,4 +96,4 @@ MemSQL has a two-tier, clustered architecture. The nodes in upper tier areaggreg
 
 Views in MemSQL is not materialzed and cannot be written into.
 
-<https://dbdb.io/db/memsql>
+https://dbdb.io/db/memsql

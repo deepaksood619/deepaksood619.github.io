@@ -16,7 +16,7 @@ Context Manager
 
 DAGs can be used as context managers to automatically assign new operators to that DAG.
 
-<https://medium.com/datareply/airflow-lesser-known-tips-tricks-and-best-practises-cf4d4a90f8f>
+https://medium.com/datareply/airflow-lesser-known-tips-tricks-and-best-practises-cf4d4a90f8f
 
 ## Operators
 
@@ -39,13 +39,15 @@ Operators do not have to be assigned to DAGs immediately (previouslydagwas a req
 
 ## Bitshift Composition
 
-Traditionally, operator relationships are set with theset_upstream()andset_downstream()methods. In Airflow 1.8, this can be done with the Python bitshift operators>>and<<. The following four statements are all functionally equivalent:
+Traditionally, operator relationships are set with theset_upstream()andset_downstream()methods. In Airflow 1.8, this can be done with the Python bitshift operators `>> and <<`. The following four statements are all functionally equivalent:
 
+```bash
 op1 >> op2
 op1.set_downstream(op2)
 
 op2 << op1
 op2.set_upstream(op1)
+```
 
 ## Tasks
 
@@ -62,7 +64,7 @@ A task instance represents a specific run of a task and is characterized as the 
 - **Task:** a parameterized instance of an operator
 - **Task Instance:** a task that 1) has been assigned to a DAG and 2) has a state associated with a specific run of the DAG
 
-By combiningDAGsandOperatorsto createTaskInstances, you can build complex workflows.
+By combining DAGs and Operators to createTaskInstances, you can build complex workflows.
 
 ## Additional Functionality
 

@@ -1,6 +1,6 @@
 # Examples
 
-<https://github.com/marcel-dempers/docker-development-youtube-series/blob/master/messaging/rabbitmq/applications/publisher/publisher.go>
+https://github.com/marcel-dempers/docker-development-youtube-series/blob/master/messaging/rabbitmq/applications/publisher/publisher.go
 
 ## publisher.go
 

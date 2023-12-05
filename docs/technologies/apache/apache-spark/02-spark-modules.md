@@ -116,16 +116,16 @@ MLlib provides high-level algorithms that are commonly used in general data anal
 
 `docker run -p 8888:8888 jupyter/pyspark-notebook`
 
-<https://realpython.com/pyspark-intro>
+https://realpython.com/pyspark-intro
 
-<https://www.datacamp.com/community/blog/big-data-with-pyspark>
+https://www.datacamp.com/community/blog/big-data-with-pyspark
 
-<http://spark.apache.org/docs/2.1.0/api/python/pyspark.sql.html>
+http://spark.apache.org/docs/2.1.0/api/python/pyspark.sql.html
 
-<https://towardsdatascience.com/natural-language-processing-with-spark-9efef3564270>
+https://towardsdatascience.com/natural-language-processing-with-spark-9efef3564270
 
 [Koalas: pandas API on Apache Spark - Koalas 1.8.2 documentation](https://koalas.readthedocs.io/en/latest/)
 
 ## Spark UI
 
-<https://spark.apache.org/docs/3.0.0-preview/web-ui.html>
+https://spark.apache.org/docs/3.0.0-preview/web-ui.html

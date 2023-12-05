@@ -39,4 +39,4 @@ The only requirement that NoSQL databases have regarding consistency is to requi
 
 ## References
 
-BASE - <https://queue.acm.org/detail.cfm?id=1394128>
+BASE - https://queue.acm.org/detail.cfm?id=1394128

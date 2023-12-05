@@ -26,7 +26,7 @@ Unstructured data is a data which is not organized in a predefined manner or doe
 | **Robustness** | Very robust | New technology, not very spread | - |
 | **Query performance** | Structured query allow complex joining | Queries over anonymous nodes are possible | Only textual queries are possible |
 
-<https://www.geeksforgeeks.org/difference-between-structured-semi-structured-and-unstructured-data>
+https://www.geeksforgeeks.org/difference-between-structured-semi-structured-and-unstructured-data
 
 ## Types of Data by data type
 

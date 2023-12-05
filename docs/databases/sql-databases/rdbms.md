@@ -49,17 +49,17 @@ SSIS is a platform for [data integration](https://en.wikipedia.org/wiki/Data_int
 
 First released with Microsoft SQL Server 2005, SSIS replaced [Data Transformation Services](https://en.wikipedia.org/wiki/Data_Transformation_Services), which had been a feature of SQL Server since Version 7.0. Unlike DTS, which was included in all versions, SSIS is only available in the "Standard", "Business Intelligence" and "Enterprise" editions.With Microsoft "Visual Studio Dev Essentials" it is now possible to use SSIS with Visual Studio 2017 free of cost so long as it is for development and learning purposes only.
 
-<https://en.wikipedia.org/wiki/SQL_Server_Integration_Services>
+https://en.wikipedia.org/wiki/SQL_Server_Integration_Services
 
 ## SQL Server Reporting Service (SSRS)
 
 SQL Server Reporting Services (SSRS) provides a set of on-premises tools and services that create, deploy, and manage mobile and paginated reports.
 
-<https://www.toptal.com/sql/oracle-sql-server-differences>
+https://www.toptal.com/sql/oracle-sql-server-differences
 
-<https://www.toptal.com/sql/oracle-sql-server-migrations-pt-2>
+https://www.toptal.com/sql/oracle-sql-server-migrations-pt-2
 
-<https://www.toptal.com/sql/oracle-sql-server-migrations-pt-3>
+https://www.toptal.com/sql/oracle-sql-server-migrations-pt-3
 
 ## Codd's 12 rules
 
@@ -79,4 +79,4 @@ Codd's twelve rulesare a set of thirteen rules ([numbered zero to twelve](https:
 - Rule 11: Distribution independence
 - Rule 12: The nonsubversion rule
 
-<https://en.wikipedia.org/wiki/Codd%27s_12_rules>
+https://en.wikipedia.org/wiki/Codd%27s_12_rules

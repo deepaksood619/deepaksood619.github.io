@@ -1,6 +1,6 @@
 # Intro
 
-<https://quixdb.github.io/squash-benchmark>
+https://quixdb.github.io/squash-benchmark
 
 ## Entropy Encoding
 
@@ -34,7 +34,7 @@ Types
     - Archivers: PKZIP
     - File systems: NTFS, HFS+, ZFS, exFAT
 
-        <https://www.quora.com/Is-HFS-better-than-exFAT>
+        https://www.quora.com/Is-HFS-better-than-exFAT
 
 2. Multimedia
     - Images: GIF, JPEG
@@ -134,7 +134,7 @@ Predicate pushdown is actually a simple concept:
 
 "Predicate pushdown" gets its name from the fact that portions of SQL statements, specifically ones that filter data, are properly referred to as predicates. They earn that name because predicates in mathematical logic and clauses in SQL are the same kind of thing - statements that, upon evaluation, can be TRUE or FALSE for different values of variables or data.
 
-<https://docs.cloudera.com/documentation/enterprise/6/6.3/topics/cdh_ig_predicate_pushdown_parquet.html>
+https://docs.cloudera.com/documentation/enterprise/6/6.3/topics/cdh_ig_predicate_pushdown_parquet.html
 
 ![image](../../media/Intro-image8.jpg)
 
@@ -142,7 +142,7 @@ Predicate pushdown is actually a simple concept:
 
 A **dictionary coder**, also sometimes known as a**substitution coder**, is a class of [lossless data compression](https://en.wikipedia.org/wiki/Lossless_data_compression) algorithms which operate by searching for matches between the text to be compressed and a set of [strings](https://en.wikipedia.org/wiki/String_(computer_science)) contained in a [data structure](https://en.wikipedia.org/wiki/Data_structure)(called the 'dictionary') maintained by the encoder. When the encoder finds such a match, it substitutes a reference to the string's position in the data structure.
 
-<https://en.wikipedia.org/wiki/Dictionary_coder>
+https://en.wikipedia.org/wiki/Dictionary_coder
 
 ## Dictionary Encoding
 

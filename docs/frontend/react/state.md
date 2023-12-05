@@ -13,7 +13,7 @@ propsare a way of passing data from parent to child. If you're familiar with the
 
 Only the most parent component in application must be responsible to fetch data be it from an API or Flux framework or Redux
 
-<https://overreacted.io/react-as-a-ui-runtime>
+https://overreacted.io/react-as-a-ui-runtime
 
 For each piece of state in your application:
 
@@ -56,7 +56,7 @@ Only inside our constructor function we update our state
 this.state = { term : '' };
 ```
 
-<https://reactjs.org/docs/lifting-state-up.html>
+https://reactjs.org/docs/lifting-state-up.html
 
 Often, several components need to reflect the same changing data. We recommend lifting the shared state up to their closest common ancestor.
 

@@ -52,7 +52,7 @@ Distributed mode provides scalability and automatic fault tolerance for Kafka Co
 
 ## Connect REST API
 
-<https://docs.confluent.io/current/connect/references/restapi.html>
+https://docs.confluent.io/current/connect/references/restapi.html
 
 Connect typically runs in distributed mode and can be managed through REST APIs. The following table shows the common APIs.
 
@@ -60,11 +60,12 @@ Connect typically runs in distributed mode and can be managed through REST APIs.
 |--------------------------|----------------------------------------------|
 | GET /connectors               | Return a list of active connectors                       |
 | POST /connectors              | Create a new connector                                   |
-| GET /connectors/{name}        | Get the information of a specific connector              |
-| GET /connectors/{name}/config | Get configuration parameters for a specific connector    |
-| PUT /connectors/{name}/config | Update configuration parameters for a specific connector |
-| GET /connectors/{name}/status | Get the current status of the connector                  |
+| `GET /connectors/{name}`      | Get the information of a specific connector              |
+| `GET /connectors/{name}/config` | Get configuration parameters for a specific connector    |
+| `PUT /connectors/{name}/config` | Update configuration parameters for a specific connector |
+| `GET /connectors/{name}/status` | Get the current status of the connector                  |
 
+```bash
 - GET /connectors- return a list of active connectors
 - POST /connectors- create a new connector; the request body should be a JSON object containing a stringnamefield and an objectconfigfield with the connector configuration parameters
 - GET /connectors/{name}- get information about a specific connector
@@ -78,6 +79,7 @@ Connect typically runs in distributed mode and can be managed through REST APIs.
 - POST /connectors/{name}/restart- restart a connector (typically because it has failed)
 - POST /connectors/{name}/tasks/{taskId}/restart- restart an individual task (typically because it has failed)
 - DELETE /connectors/{name}- delete a connector, halting all tasks and deleting its configuration
+```
 
 ## Connectors
 
@@ -88,11 +90,11 @@ The connector requires a [Confluent enterprise license](https://www.confluent.io
 
 - Evokly open source mqtt connector
 
-<https://github.com/evokly/kafka-connect-mqtt>
+https://github.com/evokly/kafka-connect-mqtt
 
 ## Kafka Connect Query Language (KCQL)
 
-<https://github.com/Landoop/kafka-connect-query-language>
+https://github.com/Landoop/kafka-connect-query-language
 
 ## Commands
 
@@ -174,9 +176,9 @@ curl -s -X PUT -H "Content-Type:application/json" --data '{"connector.class": "c
 curl -s -X POST -H "Content-Type: application/json" --data '{"name": "bench-test", "config": {"connector.class": "com.datamountaineer.streamreactor.connect.mqtt.source.MqttSourceConnector", "tasks.max":"1", "connect.mqtt.hosts":"tcp://mqtt.vernemq:1883", "connect.mqtt.username":"example_mqtt_client", "connect.mqtt.password":"xitanez123", "connect.mqtt.client.id":"bench-test-client-id", "connect.mqtt.service.quality":"1", "connect.mqtt.clean":"false", "connect.mqtt.kcql":"INSERT INTO bench_data SELECT * FROM bench/+ WITHCONVERTER=`com.datamountaineer.streamreactor.connect.converters.source.BytesConverter`"}}'
 ```
 
-<http://ke-cp-kafka-connect.kafka:8083/connectors>
+http://ke-cp-kafka-connect.kafka:8083/connectors
 
-<https://docs.lenses.io/connectors/source/mqtt.html>
+https://docs.lenses.io/connectors/source/mqtt.html
 
 ## Simple Message Transformations SMT
 
@@ -200,12 +202,12 @@ These single message transforms (SMTs) are available for use with Kafka Connect:
 
 ## References
 
-<https://docs.confluent.io/current/connect/userguide.html>
+https://docs.confluent.io/current/connect/userguide.html
 
-<https://kafka.apache.org/documentation.html#connect>
+https://kafka.apache.org/documentation.html#connect
 
-<https://kafka.apache.org/documentation/#connectapi>
+https://kafka.apache.org/documentation/#connectapi
 
-<https://docs.confluent.io/current/installation/docker/docs/installation/single-node-client.html#step-7-start-kafka-connect>
+https://docs.confluent.io/current/installation/docker/docs/installation/single-node-client.html#step-7-start-kafka-connect
 
-<https://docs.confluent.io/current/connect/transforms/index.html>
+https://docs.confluent.io/current/connect/transforms/index.html

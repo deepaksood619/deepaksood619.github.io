@@ -10,7 +10,7 @@ GridFTP also addresses the problem of incompatibility between storage and access
 
 Globus Toolkit - GSIFTP
 
-<https://en.wikipedia.org/wiki/GridFTP>
+https://en.wikipedia.org/wiki/GridFTP
 
 ## Real-Time Analytics
 
@@ -48,7 +48,7 @@ The ALT architecture enables the app developer or data scientist to run low-late
 
 The most significant difference is that the Lambda architecture performs data transformations up front so that results are pre-materialized, while the ALT architecture allows for query on demand with on-the-fly transformations.
 
-<https://rockset.com/blog/aggregator-leaf-tailer-an-architecture-for-live-analytics-on-event-streams>
+https://rockset.com/blog/aggregator-leaf-tailer-an-architecture-for-live-analytics-on-event-streams
 
 ## Dead Letter Queues
 
@@ -64,24 +64,24 @@ Dead letter queue storing of these messages allows developers to look for common
 
 Queueing systems that incorporate dead letter queues include [Amazon Simple Queue Service](https://en.wikipedia.org/wiki/Amazon_Simple_Queue_Service), [Apache ActiveMQ](https://en.wikipedia.org/wiki/Apache_ActiveMQ), [HornetQ](https://en.wikipedia.org/wiki/HornetQ), [Microsoft Message Queuing](https://en.wikipedia.org/wiki/Microsoft_Message_Queuing), [WebSphere MQ](https://en.wikipedia.org/wiki/WebSphere_MQ), [Rabbit MQ](https://en.wikipedia.org/wiki/Rabbit_MQ) and Apache Pulsar
 
-<https://en.wikipedia.org/wiki/Dead_letter_queue>
+https://en.wikipedia.org/wiki/Dead_letter_queue
 
 Amazon SQS supports *dead-letter queues*, which other queues (*source queues*) can target for messages that can't be processed (consumed) successfully. Dead-letter queues are useful for debugging your application or messaging system because they let you isolate problematic messages to determine why their processing doesn't succeed.
 
 Do use dead-letter queues to decrease the number of messages and to reduce the possibility of exposing your system to *poison-pill messages* (messages that can be received but can't be processed).
 
-<https://docs.aws.amazon.com/AWSSimpleQueueService/latest/SQSDeveloperGuide/sqs-dead-letter-queues.html>
+https://docs.aws.amazon.com/AWSSimpleQueueService/latest/SQSDeveloperGuide/sqs-dead-letter-queues.html
 
-<https://aws.amazon.com/blogs/compute/designing-durable-serverless-apps-with-dlqs-for-amazon-sns-amazon-sqs-aws-lambda>
+https://aws.amazon.com/blogs/compute/designing-durable-serverless-apps-with-dlqs-for-amazon-sns-amazon-sqs-aws-lambda
 
 ## Systemantics
 
 General Systemantics(retitled toSystemanticsin its second edition andThe Systems Biblein its third) is a [systems engineering](https://en.wikipedia.org/wiki/Systems_engineering) treatise by [John Gall](https://en.wikipedia.org/wiki/John_Gall_(author)) in which he offers practical principles of systems design based on experience and anecdotes.
 It is offered from the perspective of hownotto design systems, based on system engineering failures. The primary precept of treatise is that large [complex systems](https://en.wikipedia.org/wiki/Complex_system) are extremely difficult to design correctly despite best intentions, so care must be taken to design smaller, less-complex systems and to do so with incremental functionality based on close and continual touch with user needs and measures of effectiveness.
 
-<https://en.wikipedia.org/wiki/Systemantics>
+https://en.wikipedia.org/wiki/Systemantics
 
-<https://www.freecodecamp.org/news/have-an-idea-want-to-build-a-product-from-scratch-heres-a-checklist-of-things-you-should-go-through-in-your-backend-software-architecture>
+https://www.freecodecamp.org/news/have-an-idea-want-to-build-a-product-from-scratch-heres-a-checklist-of-things-you-should-go-through-in-your-backend-software-architecture
 
 ## Notification System
 

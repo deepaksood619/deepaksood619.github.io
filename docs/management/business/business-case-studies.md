@@ -1,6 +1,6 @@
 # Business Case Studies
 
-<https://www.youtube.com/c/AdityaSaini1505/videos>
+https://www.youtube.com/c/AdityaSaini1505/videos
 
 [Business Case Studies](https://www.youtube.com/playlist?list=PLGwmAEmjn4fmL_kCTOR-N4fXOlXvLa8dG)
 
@@ -140,7 +140,7 @@ So if you want the magic of the IKEA effect to work you need 3 things
 
 [How Dmart's BUSINESS STRATEGY made Radhakishan Damani the Retail King of India?: Business Case study](https://www.youtube.com/watch?v=B5txS_lC1yY)
 
-<https://drive.google.com/file/d/1mu_J8AzEfaee5CHOs6Ks_0LwsCtdKRFi/view>
+https://drive.google.com/file/d/1mu_J8AzEfaee5CHOs6Ks_0LwsCtdKRFi/view
 
 [Why is Mukesh Ambani's Reliance Partnering with 7-Eleven Store chain? : Business strategy case study](https://www.youtube.com/watch?v=3KkHTHZckEY)
 
@@ -230,7 +230,7 @@ Ohno placed a cord above every work station in the production facility and encou
 Jidoka places responsibility down to the assembly workers to ensure that they are mindful of the quality of each part produced.
 
 - Henry Ford: "If I had asked people what they wanted, they would have said faster horses." Customers can easily describe a problem they're having - in this case, wanting to get somewhere faster - but not the best solution.
-- <https://drive.google.com/file/d/15pU5j7nTfe17iiLCh55eoGJzgph83Id8/view>
+- https://drive.google.com/file/d/15pU5j7nTfe17iiLCh55eoGJzgph83Id8/view
 
 - [How Cadbury Destroyed Its Competitors 🔥 | Cadbury GENIUS Marketing Strategy | Business Case Study](https://youtu.be/xKEtVu_k9jQ)
   - Authoritative marketing
@@ -270,7 +270,7 @@ Collective impact is based on the idea that social problems arise from and persi
 4. constant communication, which builds trust and ensures mutual objectives
 5. dedicated "backbone" support, delivered by a separate, independently funded staff, which builds public will, advances policy, and mobilizes resources.
 
-<https://hbr.org/2016/10/the-ecosystem-of-shared-value>
+https://hbr.org/2016/10/the-ecosystem-of-shared-value
 
 - Ideas
   - Everybody in the world can see but very few has the ability to observe
@@ -285,9 +285,9 @@ Collective impact is based on the idea that social problems arise from and persi
 
     A Vickrey auction is a sealed-bid auction where bidders submit bids without knowing the bids of other people. However, as opposed to other sealed-bid auctions, the price paid is the second-highest bid price and not the winning bid price. The Vickrey auction was named after William Vickrey, a Canadian who won the 1996 Nobel Prize in Economics for his research on [asymmetric information](https://corporatefinanceinstitute.com/resources/knowledge/finance/asymmetric-information/) in economics.
 
-    <https://corporatefinanceinstitute.com/resources/knowledge/other/vickrey-auction>
+    https://corporatefinanceinstitute.com/resources/knowledge/other/vickrey-auction
 
-    <https://en.wikipedia.org/wiki/Vickrey_auction>
+    https://en.wikipedia.org/wiki/Vickrey_auction
 
 3. Sealed Bid (First-Price) Auction
 
@@ -296,9 +296,9 @@ Collective impact is based on the idea that social problems arise from and persi
 
 4. Revenue Equivalence
 
-<https://web.stanford.edu/~jdlevin/Econ%20286/Auctions.pdf>
+https://web.stanford.edu/~jdlevin/Econ%20286/Auctions.pdf
 
-<https://drive.google.com/file/d/13jkSTqNUtDqF7QU1nlEQv4LSv2eZTx-9/view>
+https://drive.google.com/file/d/13jkSTqNUtDqF7QU1nlEQv4LSv2eZTx-9/view
 
 Chapter 9: Auctions - From the book Networks, Crowds, and Markets: Reasoning about a Highly Connected World. By David Easley and Jon Kleinberg. Cambridge University Press, 2010.
 
@@ -334,7 +334,7 @@ Marketing tactic used, light the agarbatti in-front of store and left for 2 days
 
 - [Why Elon Musk is WRONG about TWITTER and FREE speech Business Case Study](https://www.youtube.com/watch?v=nPrVYCtJfgQ)
 - [Hindenburg has Killed Adani Group?: Decoding Adani’s response to Hindenburg (Business case study)](https://www.youtube.com/watch?v=4WSAeT_XDaI)
-- [How TATA’s GENIUS strategy is turning TATA Tech into a LEGEND? : Tata technologies case study - YouTube](<https://www.youtube.com/watch?v=BlDYS_2X5wI&-> ab_channel=ThinkSchool)
+- [How TATA’s GENIUS strategy is turning TATA Tech into a LEGEND? : Tata technologies case study - YouTube](https://www.youtube.com/watch?v=BlDYS_2X5wI&- ab_channel=ThinkSchool)
 - [The Extravagant Business of Cruises - YouTube](https://www.youtube.com/watch?v=QqQtV7wHSV0)
 - [The INSANE Story of Domino's Pizza - YouTube](https://www.youtube.com/watch?v=QJh1LkOM4KY)
 - [How Domino's Became The World's Biggest Pizza Chain | Big Business | Insider - YouTube](https://www.youtube.com/watch?v=yEnDZcX3xc8)
@@ -354,7 +354,7 @@ Marketing tactic used, light the agarbatti in-front of store and left for 2 days
 - [How Frooti Made A 4200 Crore COMEBACK | GrowthX Wireframe - YouTube](https://www.youtube.com/watch?v=D1p8VibEguY)
 - [How JAINS built the DIAMOND Industry of India? : Business Case Study - YouTube](https://www.youtube.com/watch?v=Vx4hyGpzVyI)
 - [How I DOUBLED Neeman’s Business In 9 Months | GrowthX Insider - YouTube](https://www.youtube.com/watch?v=FBdlJRUMUR0)
-- [Dream, determination, defeat – six lessons in analysing startup failure from a candid entrepreneur story](<https://yourstory.com/2022/02/-> entrepreneur-failure-lessons-prashant-desai)
+- [Dream, determination, defeat – six lessons in analysing startup failure from a candid entrepreneur story](https://yourstory.com/2022/02/- entrepreneur-failure-lessons-prashant-desai)
 - [This SECRET Brand is KILLING Nike and Adidas in India? | Business Case Study - YouTube](https://www.youtube.com/watch?v=qQPRWA9JNNQ)
 - [The Invincible Business of Diners - YouTube](https://www.youtube.com/watch?v=3mLEZaqUdE0)
 - [How EMIRATES is WINNING when Other AIRLINES are going BANKRUPT - YouTube](https://www.youtube.com/watch?v=cftToIr9sAo)

@@ -24,7 +24,7 @@ Alice, Bob and Trudy (Adversary)
 10. Custom Secrets Management
 11. **Faith-based security (FBS)**, a cousin of Security Through Obscurity (STO)
 
-<https://blog.envkey.com/managing-passwords-and-secrets-common-anti-patterns-2d5d2ab8e8ca>
+https://blog.envkey.com/managing-passwords-and-secrets-common-anti-patterns-2d5d2ab8e8ca
 
 ## Access control models
 
@@ -60,7 +60,7 @@ OrBAC model allows the policy designer to define a security policy independently
 
 RBAC allows access based on the job title. RBAC largely eliminates discretion when providing access to objects. For example, a human resources specialist should not have permissions to create network accounts; this should be a role reserved for network administrators.
 
-<https://en.wikipedia.org/wiki/Role-based_access_control>
+https://en.wikipedia.org/wiki/Role-based_access_control
 
 ### [Rule-Based Access Control](https://en.wikipedia.org/w/index.php?title=Rule-based_access_control&action=edit&redlink=1)(RAC)
 
@@ -70,7 +70,7 @@ RAC method is largely context based. Example of this would be only allowing stud
 
 Information is accessed based on the responsibilities assigned to an actor or a business role
 
-<https://en.wikipedia.org/wiki/Access_control>
+https://en.wikipedia.org/wiki/Access_control
 
 ![image](../../media/Concepts-security-image1.jpg)
 
@@ -106,7 +106,7 @@ AAA refers to [Authentication](https://en.wikipedia.org/wiki/Authentication), [A
 - From where was it initiated?
 - To where was it going?
 
-<https://en.wikipedia.org/wiki/AAA_(computer_security)>
+https://en.wikipedia.org/wiki/AAA_(computer_security)
 
 ## Certificate Authority
 
@@ -140,7 +140,7 @@ How do certificates get validated?
 - The entire certificate chain is trusted, and thus the site certificate is trusted as well.
 - In the event that the last certificate is not a root certificate, and there are no more certificates to download, the chain is untrusted.
 
-<https://howhttps.works/certificate-authorities>
+https://howhttps.works/certificate-authorities
 
 ## CSR (Certificate Signing Request)
 
@@ -148,7 +148,7 @@ A CSR or Certificate Signing request is a block of encoded text that is given to
 
 A [certificate authority](https://www.sslshopper.com/certificate-authority-reviews.html) will use a CSR to create your SSL certificate, but it does not need your private key. You need to keep your private key secret. The certificate created with a particular CSR will only work with the private key that was generated with it. So if you lose the private key, the certificate will no longer work.
 
-<https://www.sslshopper.com/what-is-a-csr-certificate-signing-request.html>
+https://www.sslshopper.com/what-is-a-csr-certificate-signing-request.html
 
 ## Server Name Indication(SNI)
 
@@ -156,7 +156,7 @@ Server Name Indication(SNI) is an extension to the [Transport Layer Security](ht
 
 Server Name Indication (SNI) is an extension to the TLS protocol by which a client indicates the hostname to connect to at the start of the TLS handshake. The load balancer can present multiple certificates through the same secure listener, which enables it to support multiple secure websites using a single secure listener. Application Load Balancers also support a smart certificate selection algorithm with SNI. If the hostname indicated by a client matches multiple certificates, the load balancer determines the best certificate to use based on multiple factors including the capabilities of the client.
 
-<https://en.wikipedia.org/wiki/Server_Name_Indication>
+https://en.wikipedia.org/wiki/Server_Name_Indication
 
 ## What is ESNI (Encrypted Server Name Indication)?
 
@@ -170,9 +170,9 @@ Encrypted Server Name Indication (ESNI) is an extension to TLS 1.3 which prevent
 4. .pkcs12 .pfx .p12 (contain both private and public certificate pair)
 5. .cert (recognized by windows explorer)
 
-<https://serverfault.com/questions/9708/what-is-a-pem-file-and-how-does-it-differ-from-other-openssl-generated-key-file/9717#9717>
+https://serverfault.com/questions/9708/what-is-a-pem-file-and-how-does-it-differ-from-other-openssl-generated-key-file/9717#9717
 
-<https://cryptopals.com/sets/1>
+https://cryptopals.com/sets/1
 
 ## PEM file
 
@@ -182,7 +182,7 @@ PEM data is commonly stored in files with a ".pem" suffix, a ".cer" or ".crt" su
 
 A PEM file may contain multiple instances. For instance, an operating system might provide a file containing a list of trusted [CA certificates](https://en.wikipedia.org/wiki/CA_certificate), or a web server might be configured with a "chain" file containing an end-entity certificate plus a list of intermediate certificates.
 
-<https://en.wikipedia.org/wiki/Privacy-Enhanced_Mail>
+https://en.wikipedia.org/wiki/Privacy-Enhanced_Mail
 
 ## IAM
 
@@ -196,7 +196,7 @@ Cloud IAM typically includes the following features:
 - Enhanced Security. You can define increased security for critical applications.
 - Resource-level Access Control. You can define roles and grant permissions to users to access resources at different granularity levels.
 
-<https://auth0.com/learn/cloud-identity-access-management>
+https://auth0.com/learn/cloud-identity-access-management
 
 ## Privacy
 
@@ -206,7 +206,7 @@ Privacy-enhancing technologies (PETs)
 
 The problem of matching records using an identifier while preserving privacy has been well studied as a class of algorithms called private set intersection.
 
-<https://engineering.fb.com/open-source/private-matching>
+https://engineering.fb.com/open-source/private-matching
 
 Secret Introduction Problem
 
@@ -223,7 +223,7 @@ Differential privacy aims to maximize the accuracy of queries from statistical d
 - Public Client
   - SPA / JS apps running in browsers / Mobile apps / Embedded devices
 
-<https://www.youtube.com/watch?v=5cQNwifDq1U>
+https://www.youtube.com/watch?v=5cQNwifDq1U
 
 ## pwned
 

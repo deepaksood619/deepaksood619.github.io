@@ -56,14 +56,14 @@ Majority of the Dynamic Programming problems can be categorized into two types:
 
 ## References
 
-<https://www.geeksforgeeks.org/dynamic-programming>
+https://www.geeksforgeeks.org/dynamic-programming
 
-<https://www.geeksforgeeks.org/introduction-to-dynamic-programming-data-structures-and-algorithm-tutorials>
+https://www.geeksforgeeks.org/introduction-to-dynamic-programming-data-structures-and-algorithm-tutorials
 
-<https://www.geeksforgeeks.org/dynamic-programming-set-1>
+https://www.geeksforgeeks.org/dynamic-programming-set-1
 
-<https://www.geeksforgeeks.org/dynamic-programming-set-2-optimal-substructure-property>
+https://www.geeksforgeeks.org/dynamic-programming-set-2-optimal-substructure-property
 
-<https://www.freecodecamp.org/news/learn-dynamic-programing-to-solve-coding-challenges>
+https://www.freecodecamp.org/news/learn-dynamic-programing-to-solve-coding-challenges
 
 [Dynamic Programming](https://www.youtube.com/playlist?list=PLrmLmBdmIlpsHaNTPP_jHHDx_os9ItYXr)

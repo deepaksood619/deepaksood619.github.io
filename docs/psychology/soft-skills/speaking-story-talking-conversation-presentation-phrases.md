@@ -59,24 +59,24 @@ Always tell stories, most visual stories are the best, and simple
 
 - [online recording studio](https://riverside.fm/)
 - Zoom it
-- <https://www.mentimeter.com>
-- <https://github.com/hakimel/reveal.js>
+- https://www.mentimeter.com
+- https://github.com/hakimel/reveal.js
 
 The HTML Presentation Framework
 
-<https://slides.com/news/developers>
+https://slides.com/news/developers
 
 [**https://revealjs.com/**](https://revealjs.com/)
 
-- <https://sli.dev>
-- <https://www.canva.com>
-- <https://www.slido.com>
+- https://sli.dev
+- https://www.canva.com
+- https://www.slido.com
 
 ## Courses
 
-<https://nebula.app/persuasive-communication> - Wendover production
+https://nebula.app/persuasive-communication - Wendover production
 
-Shadé Zahrai (Linkedin) - <https://wikifamouspeople.com/shade-zahrai>
+Shadé Zahrai (Linkedin) - https://wikifamouspeople.com/shade-zahrai
 
 ## Diplomatic interruption / Diplomacy
 
@@ -91,7 +91,7 @@ Shadé Zahrai (Linkedin) - <https://wikifamouspeople.com/shade-zahrai>
 - Anything you decided to binge watch recently?
 - What's your earliest memory?
 
-<https://getpocket.com/explore/item/6-things-great-speakers-always-do-a-tedx-organizer-shares-the-secrets-of-becoming-a-tedx-speaker>
+https://getpocket.com/explore/item/6-things-great-speakers-always-do-a-tedx-organizer-shares-the-secrets-of-becoming-a-tedx-speaker
 
 [Master the art of public speaking with TED Masterclass](https://www.youtube.com/watch?v=b7id4rzgKIM)
 
@@ -123,7 +123,7 @@ It's hard to compute, but it's how the world works.
 
 [STORYWORTHY by Matthew Dicks | Core Message](https://www.youtube.com/watch?v=rjOMCrbFVGM)
 
-<https://firstround.com/review/good-leaders-are-great-storytellers-our-6-tips-for-telling-stories-that-resonate>
+https://firstround.com/review/good-leaders-are-great-storytellers-our-6-tips-for-telling-stories-that-resonate
 
 ### 7 Deadly Sins of Speaking (Why Nobody Wants to Listen to You)
 

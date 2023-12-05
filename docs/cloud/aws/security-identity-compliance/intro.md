@@ -32,7 +32,7 @@
 
     AWS Key Management Service (KMS) makes it easy for you to create and manage cryptographic keys and control their use across a wide range of AWS services and in your applications. AWS KMS is a secure and resilient service that uses hardware security modules that have been validated under FIPS 140-2, or are in the process of being validated, to protect your keys. AWS KMS is integrated with AWS CloudTrail to provide you with logs of all key usage to help meet your regulatory and compliance needs.
 
-    <https://aws.amazon.com/kms>
+    https://aws.amazon.com/kms
 
  [Use Key Management Service (AWS KMS) to securely manage Ethereum accounts: Part 1 | AWS Database Blog](https://aws.amazon.com/blogs/database/part1-use-aws-kms-to-securely-manage-ethereum-accounts/)
 
@@ -54,19 +54,19 @@ The following cloud providers are currently supported/planned:
 - Alibaba Cloud (alpha)
 - Oracle Cloud Infrastructure (alpha)
 
-<https://github.com/nccgroup/ScoutSuite>
+https://github.com/nccgroup/ScoutSuite
 
 ## Running scoutsuite (Download scoutsuite repo)
 
 `python scout.py aws --profile zen`
 
-<https://github.com/tensult/cloud-reports>
+https://github.com/tensult/cloud-reports
 
 [**https://www.verygoodsecurity.com/control**](https://www.verygoodsecurity.com/control)
 
-<https://github.com/toniblyx/my-arsenal-of-aws-security-tools>
+https://github.com/toniblyx/my-arsenal-of-aws-security-tools
 
-<https://cloudcustodian.io>
+https://cloudcustodian.io
 
 ## Compliances
 

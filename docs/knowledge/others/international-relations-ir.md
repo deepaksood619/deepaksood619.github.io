@@ -17,7 +17,7 @@ It's all about what narratives you believe in
   - Earn more than we spend
   - Treat each other well
 
-<https://economicprinciples.org>
+https://economicprinciples.org
 
 [Why Leaders Lie: The Truth About Lying in International Politics with John Mearsheimer](https://www.youtube.com/watch?v=VPe5f5dcrGE)
 

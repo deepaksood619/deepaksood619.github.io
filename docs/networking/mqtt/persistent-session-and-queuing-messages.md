@@ -53,4 +53,4 @@ People often ask how long the broker stores the session. The easy answer is: The
 
 ## References
 
-<https://www.hivemq.com/blog/mqtt-essentials-part-7-persistent-session-queuing-messages>
+https://www.hivemq.com/blog/mqtt-essentials-part-7-persistent-session-queuing-messages

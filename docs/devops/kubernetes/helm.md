@@ -152,7 +152,7 @@ helm upgrade efk -f efk/values.yaml --namespace logging akomljen-charts/efk
 
 ## Charts
 
-<https://github.com/confluentinc/cp-helm-charts>
+https://github.com/confluentinc/cp-helm-charts
 
 ## Helm3
 
@@ -180,8 +180,8 @@ helm plugin remove whatup
 This is a Helm plugin to help users determine if there's an update available for their installed charts. It works by reading your locally cached index files from the chart repositories (viahelm repo update) and checking the version against the latest deployed version of your charts in the Kubernetes cluster.
 
 ```bash
-helm plugin install <https://github.com/bacongobbler/helm-whatup>
+helm plugin install https://github.com/bacongobbler/helm-whatup
 helm whatup
 ```
 
-DevOps Guy - <https://www.youtube.com/watch?v=5_J7RWLLVeQ>
+DevOps Guy - https://www.youtube.com/watch?v=5_J7RWLLVeQ

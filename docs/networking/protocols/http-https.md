@@ -75,21 +75,21 @@ Introduced the concept of HTTP "streams": an abstraction that allows HTTP implem
 - SSE (Server Sent Events / EventSource)
 - HTTP/2 Server Push
 
-<https://medium.com/platform-engineer/web-api-design-35df8167460>
+https://medium.com/platform-engineer/web-api-design-35df8167460
 
 ## HTTPS
 
 Privacy, Integrity and Identification
 
-<https://howhttps.works/why-do-we-need-https>
+https://howhttps.works/why-do-we-need-https
 
-<https://howhttps.works/the-handshake>
+https://howhttps.works/the-handshake
 
 ## Https vs TLS (Transport Layer Security) vs SSL (Secure Sockets Layer)
 
 HTTP is the protocol used by your browser and web servers to communicate and exchange information. When that exchange of data is encrypted with SSL/TLS, then we call it HTTPS. The "S" stands for "Secure". SSL is the predecessor to TLS.
 
-<https://howhttps.works/https-ssl-tls-differences>
+https://howhttps.works/https-ssl-tls-differences
 
 ## TLS (Tranport Layer Security)
 
@@ -101,7 +101,7 @@ The TLS protocol aims primarily to provide [privacy](https://en.wikipedia.org/wi
 - The identity of the communicating parties can beauthenticatedusing [public-key cryptography](https://en.wikipedia.org/wiki/Public-key_cryptography). This authentication can be made optional, but is generally required for at least one of the parties (typically the server).
 - The connection isreliablebecause each message transmitted includes a message integrity check using a [message authentication code](https://en.wikipedia.org/wiki/Message_authentication_code) to prevent undetected loss or alteration of the data during [transmission](https://en.wikipedia.org/wiki/Data_transmission).
 
-<https://en.wikipedia.org/wiki/Transport_Layer_Security>
+https://en.wikipedia.org/wiki/Transport_Layer_Security
 
 ## ALPN (Application Layer Protocol Negotiation)
 
@@ -109,13 +109,13 @@ The TLS protocol aims primarily to provide [privacy](https://en.wikipedia.org/wi
 
 ![image](../../media/HTTP-HTTPS-image1.jpg)
 
-<https://en.wikipedia.org/wiki/Application-Layer_Protocol_Negotiation>
+https://en.wikipedia.org/wiki/Application-Layer_Protocol_Negotiation
 
 ## SOP - Same Origin Policy
 
 Thesame-origin policyis a critical security mechanism that restricts how a document or script loaded from one [origin](https://developer.mozilla.org/en-US/docs/Glossary/origin) can interact with a resource from another origin.It helps isolate potentially malicious documents, reducing possible attack vectors.
 
-<https://developer.mozilla.org/en-US/docs/Web/Security/Same-origin_policy>
+https://developer.mozilla.org/en-US/docs/Web/Security/Same-origin_policy
 
 ## CORS - Cross-Origin Resource Sharing
 
@@ -123,7 +123,7 @@ Cross-Origin Resource Sharing (CORS) is a mechanism that uses additional HTTP he
 
 A mechanism that allows restricted resources (e.g. fonts) on a web page to be requested from another domain outside the domain from which the first resource was served.
 
-<https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS>
+https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS
 
 [Cross Origin Resource Sharing (Explained by Example)](https://www.youtube.com/watch?v=Ka8vG5miErk)
 
@@ -131,7 +131,7 @@ A mechanism that allows restricted resources (e.g. fonts) on a web page to be re
 
 An HTTP cookie (also called web cookie, Internet cookie, browser cookie, or simply cookie) is a small piece of data sent from a [website](https://en.wikipedia.org/wiki/Website) and stored on the user's computer by the user's [web browser](https://en.wikipedia.org/wiki/Web_browser) while the user is browsing. Cookies were designed to be a reliable mechanism for websites to remember [stateful](https://en.wikipedia.org/wiki/Program_state) information (such as items added in the shopping cart in an online store) or to record the user's browsing activity (including clicking particular buttons, [logging in](https://en.wikipedia.org/wiki/Access_control), or recording which pages were visited in the past). They can also be used to remember pieces of information that the user previously entered into form fields, such as names, addresses, passwords, and credit-card numbers.
 
-<https://en.wikipedia.org/wiki/HTTP_cookie>
+https://en.wikipedia.org/wiki/HTTP_cookie
 
 [HTTP Cookies Crash Course](https://www.youtube.com/watch?v=sovAIX4doOE)
 
@@ -143,7 +143,7 @@ An HTTP cookie (also called web cookie, Internet cookie, browser cookie, or simp
 
 XMLHttpRequest(XHR) is an [API](https://en.wikipedia.org/wiki/Application_programming_interface) in the form of an [object](https://en.wikipedia.org/wiki/Object-oriented_programming) whose [methods](https://en.wikipedia.org/wiki/Method_(computer_programming)) transfer data between a [web browser](https://en.wikipedia.org/wiki/Web_browser) and a [web server](https://en.wikipedia.org/wiki/Web_server). The object is provided by the browser's [JavaScript](https://en.wikipedia.org/wiki/JavaScript) environment. Particularly, retrieval of data from XHR for the purpose of continually modifying a loaded [web page](https://en.wikipedia.org/wiki/Web_page) is the underlying concept of [Ajax](https://en.wikipedia.org/wiki/Ajax_(programming)) design. Despite the name, XHR can be used with protocols other than [HTTP](https://en.wikipedia.org/wiki/HTTP) and data can be in the form of not only [XML](https://en.wikipedia.org/wiki/XML), but also [JSON](https://en.wikipedia.org/wiki/JSON), [HTML](https://en.wikipedia.org/wiki/HTML) or [plain text](https://en.wikipedia.org/wiki/Plain_text)
 
-<https://en.wikipedia.org/wiki/XMLHttpRequest>
+https://en.wikipedia.org/wiki/XMLHttpRequest
 
 Which part of the HTTP response determines whether the browser should redirect to another page?
 
@@ -161,9 +161,9 @@ When you submit a form, what request method does your browser use?
 
 ## Links
 
-HTTP2.0 Demo - <http://www.http2demo.io>
+HTTP2.0 Demo - http://www.http2demo.io
 
-<https://www.code-maze.com/http-series-part-1>
+https://www.code-maze.com/http-series-part-1
 
 [The Journey of an HTTP request to the Backend | Backend Engineering Show](https://youtu.be/K2qV6VpfR7I)
 

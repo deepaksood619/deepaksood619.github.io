@@ -6,11 +6,11 @@
 
 The blockchain trilemma is a concept coined by [Vitalik Buterin](https://coinmarketcap.com/alexandria/glossary/vitalik-buterin) that proposes a set of three main issues - decentralization, security and scalability - that developers encounter when building blockchains, forcing them to ultimately sacrifice one "aspect" for as a trade-off to accommodate the other two
 
-<https://medium.com/logos-network/everything-you-know-about-the-scalability-trilemma-is-probably-wrong-bc4f4b7a7ef>
+https://medium.com/logos-network/everything-you-know-about-the-scalability-trilemma-is-probably-wrong-bc4f4b7a7ef
 
-<https://www.toptal.com/bitcoin/intro-to-bitcoin-lightning-network>
+https://www.toptal.com/bitcoin/intro-to-bitcoin-lightning-network
 
-<https://www.freecodecamp.org/news/create-cryptocurrency-using-python>
+https://www.freecodecamp.org/news/create-cryptocurrency-using-python
 
 ## Interoperability Trilemma
 

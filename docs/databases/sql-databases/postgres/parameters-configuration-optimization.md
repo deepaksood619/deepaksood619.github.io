@@ -36,10 +36,10 @@ The checkpoint_timeout parameter is used to set time between WAL checkpoints. Se
 
 These are a helpful set of parameters to tune if your partitions are getting aggregated whenever you query data. For us, having a server with more cores for our DB made sense, as then we can have a `max max_parallel_workers` = number of cores, and then `max_parallel_workers_per_gather` to be half of that count. This count changes based upon how many processes parallelly run and need workers to be spawned. For instance, if you have set up parallel workers to do replication, then you need additional workers for that. Thus, when a user queries data across different months (logical partitions), the parallel workers for gathering run parallelly over multiple partitions and then aggregate the data, thus improving the speeds of `SELECT` queries. `EXPLAIN ANALYZE` would be your friend here to figure out how many workers you need for your workload.
 
-<https://www.percona.com/blog/2018/08/31/tuning-postgresql-database-parameters-to-optimize-performance>
+https://www.percona.com/blog/2018/08/31/tuning-postgresql-database-parameters-to-optimize-performance
 
-<https://postgresqlco.nf/en/doc/param>
+https://postgresqlco.nf/en/doc/param
 
 **[Working with PostgreSQL - Zerodha Tech Blog](https://zerodha.tech/blog/working-with-postgresql/)**
 
-<https://tightlycoupled.io/my-goto-postgres-configuration-for-web-services>
+https://tightlycoupled.io/my-goto-postgres-configuration-for-web-services

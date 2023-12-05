@@ -14,9 +14,9 @@
 - B1M
 - Discovery
 - Discovery+
-  - <https://www.discoveryplus.in/show/the-birth-of-empire-the-east-india-company>
-  - <https://www.discoveryplus.in/genre/science>
-  - <https://www.discoveryplus.in/show/history-of-the-world>
+  - https://www.discoveryplus.in/show/the-birth-of-empire-the-east-india-company
+  - https://www.discoveryplus.in/genre/science
+  - https://www.discoveryplus.in/show/history-of-the-world
 - Nat Geo
 - History - World History
 - PBS
@@ -24,10 +24,10 @@
 - ASAPScience
 - Documentaries
 - BBC Earth
-  - <https://youtube.com/c/BBCReel>
+  - https://youtube.com/c/BBCReel
   - BBC Earth Lab
 - NPTEL lecture series
-- NPTEL - <https://www.youtube.com/channel/UCYa1WtI-vb_bx-anHdmpNfA/playlists>
+- NPTEL - https://www.youtube.com/channel/UCYa1WtI-vb_bx-anHdmpNfA/playlists
 - Research
   - Microsoft research
   - Talks at google
@@ -181,7 +181,7 @@
 ## Magazine
 
 - Discover
-- <https://time.com/collection/time100-companies-2022>
+- https://time.com/collection/time100-companies-2022
 - Computing Edge by IEEE, monthly magazine
 - ACM Queue
 
@@ -334,16 +334,16 @@
 - The Science of Change [https://podcastaddict.com/podcast/the-science-of-change/4496415](https://podcastaddict.com/podcast/the-science-of-change/4496415)
 - Business Breakdowns [https://podcastaddict.com/podcast/business-breakdowns/4400688](https://podcastaddict.com/podcast/business-breakdowns/4400688)
 
-<https://www.freecodecamp.org/news/best-tech-podcasts-for-software-developers>
+https://www.freecodecamp.org/news/best-tech-podcasts-for-software-developers
 
-<https://blog.trello.com/podcasts-every-leader-should-listen-to>
+https://blog.trello.com/podcasts-every-leader-should-listen-to
 
-Indian History - <https://www.anirudhkanisetti.com/podcasts>
+Indian History - https://www.anirudhkanisetti.com/podcasts
 
 ## Newsletter
 
 - Finshots
-- Not Boring by Packy McCormick - <https://www.notboring.co>
+- Not Boring by Packy McCormick - https://www.notboring.co
 - economic times
 - [Budget Tiger | RCG | Substack](https://www.budgetiger.in/)
 - Sadguru daily quotes
@@ -400,24 +400,24 @@ Youtube Original's Mind Field
 - [GitHub - iptv-org/iptv: Collection of publicly available IPTV channels from all over the world](https://github.com/iptv-org/iptv)
 - [84+ Working 1337x Proxy (October 2023) Mirror Sites To Unblock](https://technoxyz.com/1337x-proxy-unblock/)
   - [Torrent Search Engine | 1337x.to](https://1337x-to.pages.dev/)
-  - <https://waytohunt.org/1337x-proxy-mirror-sites>
-  - <https://www.1377x.to>
+  - https://waytohunt.org/1337x-proxy-mirror-sites
+  - https://www.1377x.to
   - 1377x.to
-  - <https://1337xto.to/>
+  - https://1337xto.to/
   - [1337x | Free Movies, TV Series, Music, Games and Software](https://www.1337x.tw/)
-  - <https://www1.thepiratebay3.to/>
+  - https://www1.thepiratebay3.to/
   - **1337xxx.to**
   - 1337xx.to
-  - <https://1337x.unblockit.onl/home>
-- <https://pirate-proxy.top/>
+  - https://1337x.unblockit.onl/home
+- https://pirate-proxy.top/
 - [Download music, movies, games, software! The Pirate Bay - The galaxy's most resilient BitTorrent site](https://pirate-proxy.click/)
 - [https://fmovies.pub](https://fmovies.pub/)
 - popcorn times
-- <https://yifytorrent.cc>
-- <https://yts.mx>
-- <https://pirate-proxy.me>
-- <https://pirate-proxy.pw>
-- <https://zoro.to>
+- https://yifytorrent.cc
+- https://yts.mx
+- https://pirate-proxy.me
+- https://pirate-proxy.pw
+- https://zoro.to
 - Pikashow
 - pdf drive
 - [Youtube Multi Downloader Online Free](https://youtubemultidownloader.net/playlists.html)

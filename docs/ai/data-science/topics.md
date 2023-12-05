@@ -4,7 +4,7 @@
 
 Density-based spatial clustering of applications with noise (DBSCAN) is a data clustering algorithm proposed by Martin Ester, [Hans-Peter Kriegel](https://en.wikipedia.org/wiki/Hans-Peter_Kriegel), Jörg Sander and Xiaowei Xu in 1996.It is a [density-based clustering](https://en.wikipedia.org/wiki/Cluster_analysis#Density-based_clustering) algorithm: given a set of points in some space, it groups together points that are closely packed together (points with many [nearby neighbors](https://en.wikipedia.org/wiki/Fixed-radius_near_neighbors)), marking as outliers points that lie alone in low-density regions (whose nearest neighbors are too far away). DBSCAN is one of the most common clustering algorithms and also most cited in scientific literature
 
-<https://en.wikipedia.org/wiki/DBSCAN>
+https://en.wikipedia.org/wiki/DBSCAN
 
 ## Constraint Satisfaction
 
@@ -14,6 +14,6 @@ The techniques used in constraint satisfaction depend on the kind of constraints
 
 Constraint satisfaction originated in the field of [artificial intelligence](https://en.wikipedia.org/wiki/Artificial_intelligence) in the 1970s. During the 1980s and 1990s, embedding of constraints into a [programming language](https://en.wikipedia.org/wiki/Programming_language) were developed. Languages often used for [constraint programming](https://en.wikipedia.org/wiki/Constraint_programming) are [Prolog](https://en.wikipedia.org/wiki/Prolog) and [C++](https://en.wikipedia.org/wiki/C%2B%2B).
 
-<https://en.wikipedia.org/wiki/Constraint_satisfaction>
+https://en.wikipedia.org/wiki/Constraint_satisfaction
 
-<https://www.freecodecamp.org/news/how-to-play-and-win-sudoku-using-math-and-machine-learning-to-solve-every-sudoku-puzzle>
+https://www.freecodecamp.org/news/how-to-play-and-win-sudoku-using-math-and-machine-learning-to-solve-every-sudoku-puzzle

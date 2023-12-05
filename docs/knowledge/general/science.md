@@ -16,9 +16,9 @@ The branches of science, also referred to as [sciences](https://en.wikipedia.org
 
 ## References
 
-<https://en.wikipedia.org/wiki/Science>
+https://en.wikipedia.org/wiki/Science
 
-<https://en.wikipedia.org/wiki/Branches_of_science>
+https://en.wikipedia.org/wiki/Branches_of_science
 
 [The Map of Engineering](https://youtu.be/pQgxiQAMTTo)
 

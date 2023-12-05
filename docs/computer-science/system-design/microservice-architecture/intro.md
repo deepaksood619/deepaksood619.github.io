@@ -192,11 +192,11 @@ Logic is divided into various services, to promote reuse of code.
 
 Many services which were not initially planned under SOA, may get encapsulated or become a part of SOA.
 
-<https://en.wikipedia.org/wiki/Service-oriented_architecture>
+https://en.wikipedia.org/wiki/Service-oriented_architecture
 
-<https://www.toptal.com/aws/service-oriented-architecture-aws-lambda>
+https://www.toptal.com/aws/service-oriented-architecture-aws-lambda
 
-<https://www.youtube.com/watch?v=j6ow-UemzBc&ab_channel=InfoQ>
+https://www.youtube.com/watch?v=j6ow-UemzBc&ab_channel=InfoQ
 
 ## Great Architecture
 
@@ -226,9 +226,9 @@ Critical decisions
 
 ## Links
 
-<https://martinfowler.com/articles/break-monolith-into-microservices.html>
+https://martinfowler.com/articles/break-monolith-into-microservices.html
 
-<https://martinfowler.com/articles/data-monolith-to-mesh.html>
+https://martinfowler.com/articles/data-monolith-to-mesh.html
 Migrating to Microservices Databases, Chapter 5, Integration Strategies
 
 [https://www.toptal.com/devops/scaling-microservices-applications](https://www.toptal.com/devops/scaling-microservices-applications?)

@@ -6,4 +6,4 @@
 
 ## References
 
-<https://www.toptal.com/android/android-apps-mvvm-with-clean-architecture>
+https://www.toptal.com/android/android-apps-mvvm-with-clean-architecture

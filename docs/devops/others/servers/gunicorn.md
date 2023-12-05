@@ -12,9 +12,9 @@ $ pip install gunicorn [eventlet] # Or, using extra
 $ pip install gevent # For gevent workers
 $ pip install gunicorn [gevent] # Or, using extra
 
-<https://medium.com/@genchilu/brief-introduction-about-the-types-of-worker-in-gunicorn-and-respective-suitable-scenario-67b0c0e7bd62>
+https://medium.com/@genchilu/brief-introduction-about-the-types-of-worker-in-gunicorn-and-respective-suitable-scenario-67b0c0e7bd62
 
-<http://docs.gunicorn.org/en/stable/design.html>
+http://docs.gunicorn.org/en/stable/design.html
 
 ## Configuration
 
@@ -36,9 +36,9 @@ gunicorn app:app -b 0.0.0.0:5000 --workers 3 -k gevent --timeout 300 --worker-co
 
 gunicorn app:app -b 0.0.0.0:5000 --workers 16 -k gevent --timeout 300 --worker-connections 1000 --graceful-timeout 30 --keep-alive 2 --max-requests 1000000 --max-requests-jitter 100 --limit-request-line 0 --access-logfile '-' --error-logfile '-' --log-level 'info' --access-logformat '%(h)s %(l)s %(u)s %(t)s "%(r)s" %(s)s %(b)s "%(f)s" "%(a)s"'
 
-<https://docs.gunicorn.org/en/stable/settings.html>
+https://docs.gunicorn.org/en/stable/settings.html
 
-<https://github.com/benoitc/gunicorn/blob/master/examples/example_config.py>
+https://github.com/benoitc/gunicorn/blob/master/examples/example_config.py
 
 ## Enhancements
 
@@ -68,7 +68,7 @@ Gunicorn's main process starts one or more worker processes, and restarts them i
 - Thepreinpre-forkedmeans that the master process creates the workers before handling any HTTP request.
 - The OS kernel handles load balancing between worker processes.
 
-<https://pythonspeed.com/articles/gunicorn-in-docker>
+https://pythonspeed.com/articles/gunicorn-in-docker
 
 ## Setting up workers
 
@@ -80,4 +80,4 @@ Gunicorn's main process starts one or more worker processes, and restarts them i
 
 4. If you don't know you are doing, start with the simplest configuration, which is only settingworkersto(2*CPU)+1and don't worry aboutthreads. From that point, it's all trial and error with benchmarking. If the bottleneck is memory, start introducing threads. If the bottleneck is I/O, consider a different python programming paradigm. If the bottleneck is CPU, consider using more cores and adjusting theworkersvalue.
 
-<https://medium.com/building-the-system/gunicorn-3-means-of-concurrency-efbb547674b7>
+https://medium.com/building-the-system/gunicorn-3-means-of-concurrency-efbb547674b7

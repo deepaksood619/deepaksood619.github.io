@@ -20,7 +20,7 @@ Role: Diplomat
 
 Strategy: Confident Individualism
 
-<https://www.16personalities.com/profiles/f66cfd172becd>
+https://www.16personalities.com/profiles/f66cfd172becd
 
 Advocates are quiet visionaries, often serving as inspiring and tireless idealists.
 

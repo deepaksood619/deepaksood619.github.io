@@ -12,10 +12,10 @@ The Entscheidungs problem is a challenge posed by [David Hilbert](https://en.wik
 
 In 1936, [Alonzo Church](https://en.wikipedia.org/wiki/Alonzo_Church) and [Alan Turing](https://en.wikipedia.org/wiki/Alan_Turing) published independent papersshowing that a general solution to theEntscheidungsproblemis impossible, assuming that the intuitive notion of "[effectively calculable](https://en.wikipedia.org/wiki/Effectively_calculable)" is captured by the functions computable by a [Turing machine](https://en.wikipedia.org/wiki/Turing_machine)(or equivalently, by those expressible in the [lambda calculus](https://en.wikipedia.org/wiki/Lambda_calculus)). This assumption is now known as the [Church--Turing thesis](https://en.wikipedia.org/wiki/Church%E2%80%93Turing_thesis).
 
-<https://en.wikipedia.org/wiki/Entscheidungsproblem>
+https://en.wikipedia.org/wiki/Entscheidungsproblem
 
 ## References
 
-<https://en.wikipedia.org/wiki/G%C3%B6del%27s_incompleteness_theorems>
+https://en.wikipedia.org/wiki/G%C3%B6del%27s_incompleteness_theorems
 
 [Gödel's Incompleteness Theorem - Numberphile](https://www.youtube.com/watch?v=O4ndIDcDSGc)

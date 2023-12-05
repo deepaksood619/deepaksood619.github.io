@@ -101,4 +101,4 @@ Here operators with the highest precedence appear at the top of the table, those
 | Conditional    | ?:                | Right to left |
 | Assignment     | = += -= *= /= %= | Right to left |
 
-<https://www.tutorialspoint.com/php/php_operator_types.htm>
+https://www.tutorialspoint.com/php/php_operator_types.htm

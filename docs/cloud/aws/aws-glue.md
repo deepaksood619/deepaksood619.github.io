@@ -10,11 +10,11 @@ You can use the AWS Glue console to discover data, transform it, and make it ava
 
 ![image](../../media/Cloud-AWS-AWS-Glue-image1.jpg)
 
-<https://aws.amazon.com/glue>
+https://aws.amazon.com/glue
 
-<https://docs.aws.amazon.com/glue/latest/dg/what-is-glue.html>
+https://docs.aws.amazon.com/glue/latest/dg/what-is-glue.html
 
-<https://docs.aws.amazon.com/glue/latest/dg/how-it-works.html>
+https://docs.aws.amazon.com/glue/latest/dg/how-it-works.html
 
 ## Processing only new data (AWS Glue Bookmarks)
 
@@ -100,7 +100,7 @@ The code logic that is used to manipulate your data into a different format.
 
 Initiates an ETL job. Triggers can be defined based on a scheduled time or an event.
 
-<https://docs.aws.amazon.com/glue/latest/dg/components-key-concepts.html>
+https://docs.aws.amazon.com/glue/latest/dg/components-key-concepts.html
 
 ## Populating the AWS Glue Data Catalog
 
@@ -121,13 +121,13 @@ The following is the general workflow for how a crawler populates the AWS Glue D
 
 - The crawler writes metadata to the Data Catalog. A table definition contains metadata about the data in your data store. The table is written to a database, which is a container of tables in the Data Catalog. Attributes of a table include classification, which is a label created by the classifier that inferred the table schema.
 
-<https://docs.aws.amazon.com/glue/latest/dg/populate-data-catalog.html>
+https://docs.aws.amazon.com/glue/latest/dg/populate-data-catalog.html
 
 ## Crawlers
 
 You can use a crawler to populate the AWS Glue Data Catalog with tables. This is the primary method used by most AWS Glue users. A crawler can crawl multiple data stores in a single run. Upon completion, the crawler creates or updates one or more tables in your Data Catalog. Extract, transform, and load (ETL) jobs that you define in AWS Glue use these Data Catalog tables as sources and targets. The ETL job reads from and writes to the data stores that are specified in the source and target Data Catalog tables.
 
-<https://docs.aws.amazon.com/glue/latest/dg/add-crawler.html>
+https://docs.aws.amazon.com/glue/latest/dg/add-crawler.html
 
 ## What Happens When a Crawler Runs?
 
@@ -155,9 +155,9 @@ Using the metadata in the Data Catalog, AWS Glue can autogenerate Scala or PySpa
 
 The AWS Glue Jobs system provides managed infrastructure to orchestrate your ETL workflow. You can create jobs in AWS Glue that automate the scripts you use to extract, transform, and transfer data to different locations. Jobs can be scheduled and chained, or they can be triggered by events such as the arrival of new data.
 
-<https://docs.aws.amazon.com/glue/latest/dg/add-job.html>
+https://docs.aws.amazon.com/glue/latest/dg/add-job.html
 
-<https://docs.aws.amazon.com/glue/latest/dg/aws-glue-api-jobs-job.html>
+https://docs.aws.amazon.com/glue/latest/dg/aws-glue-api-jobs-job.html
 
 ## Worker type
 
@@ -187,27 +187,27 @@ For JDBC sources, the following rules apply:
 - You can specify the columns to use as bookmark keys. If you don't specify bookmark keys, AWS Glue by default uses the primary key as the bookmark key, provided that it is sequentially increasing or decreasing (with no gaps).
 - If user-defined bookmarks keys are used, they must be strictly monotonically increasing or decreasing. Gaps are permitted.
 
-<https://docs.aws.amazon.com/glue/latest/dg/monitor-continuations.html>
+https://docs.aws.amazon.com/glue/latest/dg/monitor-continuations.html
 
-<https://docs.aws.amazon.com/glue/latest/dg/monitoring-awsglue-with-cloudwatch-metrics.html>
+https://docs.aws.amazon.com/glue/latest/dg/monitoring-awsglue-with-cloudwatch-metrics.html
 
 ## Reading from JDBC Tables in Parallel
 
-<https://docs.aws.amazon.com/glue/latest/dg/run-jdbc-parallel-read-job.html>
+https://docs.aws.amazon.com/glue/latest/dg/run-jdbc-parallel-read-job.html
 
-<https://aws.amazon.com/premiumsupport/knowledge-center/glue-lost-nodes-rds-s3-migration>
+https://aws.amazon.com/premiumsupport/knowledge-center/glue-lost-nodes-rds-s3-migration
 
 ## Tutorial
 
-<https://medium.com/p/7ad88053fd0e/edit>
+https://medium.com/p/7ad88053fd0e/edit
 
-<https://github.com/aws-samples/aws-glue-samples/tree/master/utilities/Spark_UI>
+https://github.com/aws-samples/aws-glue-samples/tree/master/utilities/Spark_UI
 
 ## Examples
 
-<https://aws.amazon.com/blogs/database/how-to-extract-transform-and-load-data-for-analytic-processing-using-aws-glue-part-2>
+https://aws.amazon.com/blogs/database/how-to-extract-transform-and-load-data-for-analytic-processing-using-aws-glue-part-2
 
-<https://aws.amazon.com/blogs/big-data/load-data-incrementally-and-optimized-parquet-writer-with-aws-glue>
+https://aws.amazon.com/blogs/big-data/load-data-incrementally-and-optimized-parquet-writer-with-aws-glue
 
 ## SparkUI using docker
 
@@ -232,11 +232,11 @@ docker run -it -e SPARK_HISTORY_OPTS="$SPARK_HISTORY_OPTS -Dspark.history.fs.log
 
 ## Optimization
 
-<https://docs.aws.amazon.com/glue/latest/dg/aws-glue-programming-etl-partitions.html#aws-glue-programming-etl-partitions-writing>
+https://docs.aws.amazon.com/glue/latest/dg/aws-glue-programming-etl-partitions.html#aws-glue-programming-etl-partitions-writing
 
-<https://github.com/aws-samples/aws-glue-samples/blob/master/examples/join_and_relationalize>
+https://github.com/aws-samples/aws-glue-samples/blob/master/examples/join_and_relationalize
 
-<https://thedataguy.in/aws-glue-custom-output-file-size-and-fixed-number-of-files>
+https://thedataguy.in/aws-glue-custom-output-file-size-and-fixed-number-of-files
 
 - Option 1: groupFiles
 - Option 2: groupFiles while reading from S3

@@ -16,10 +16,10 @@ Using 'GenericForeignKey':
 
 ## References
 
-## Generic Relations - <https://simpleisbetterthancomplex.com/tutorial/2016/10/13/how-to-use-generic-relations.html>
+## Generic Relations - https://simpleisbetterthancomplex.com/tutorial/2016/10/13/how-to-use-generic-relations.html
 
-<https://micropyramid.com/blog/understanding-genericforeignkey-in-django>
+https://micropyramid.com/blog/understanding-genericforeignkey-in-django
 
-<https://axiacore.com/blog/how-use-genericforeignkey-django>
+https://axiacore.com/blog/how-use-genericforeignkey-django
 
-## Avoid GenericForeignKey - <https://lukeplant.me.uk/blog/posts/avoid-django-genericforeignkey>
+## Avoid GenericForeignKey - https://lukeplant.me.uk/blog/posts/avoid-django-genericforeignkey

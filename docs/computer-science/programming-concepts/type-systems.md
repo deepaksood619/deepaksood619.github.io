@@ -83,7 +83,7 @@ Most scripting languages have this feature as there is no compiler to do static 
 
 ![image](../../media/Type-Systems-image1.jpg)
 
-<https://www.sitepoint.com/typing-versus-dynamic-typing>
+https://www.sitepoint.com/typing-versus-dynamic-typing
 
 ## Strong Typed vs Weak Typed language
 

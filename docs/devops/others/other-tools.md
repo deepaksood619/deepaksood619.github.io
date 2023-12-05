@@ -12,7 +12,7 @@ ExecStart=/usr/bin/dockerd -H fd:// -H tcp://0.0.0.0:4243
 
 sudo systemctl restart docker.service
 
-<https://portainer.io>
+https://portainer.io
 
 ## Openshift
 
@@ -20,7 +20,7 @@ Is a comprehensive enterprise-grade application platform, built for containers w
 
 ![image](../../media/DevOps-Others-Others-image1.jpg)
 
-<https://www.openshift.com/learn/what-is-openshift>
+https://www.openshift.com/learn/what-is-openshift
 
 Tools -
 
@@ -28,7 +28,7 @@ Tools -
 
 Self-service messaging on Kubernetes and OpenShift
 
-<https://github.com/EnMasseProject/enmasse>
+https://github.com/EnMasseProject/enmasse
 
 ## Jolokia
 
@@ -40,9 +40,9 @@ The cloud native edge router
 
 A reverse proxy / load balancer that's easy, dynamic, automatic, fast, full-featured, open source, production proven, provides metrics, and integrates with every major cluster technology.
 
-<https://traefik.io>
+https://traefik.io
 
-<https://github.com/containous/traefik>
+https://github.com/containous/traefik
 
 ## Consul
 
@@ -54,9 +54,9 @@ Consul is a distributed, highly available, and data center aware solution to con
 - **Multi-Datacenter-** Consul is built to be datacenter aware, and can support any number of regions without complex configuration.
 - **Service Segmentation-** Consul Connect enables secure service-to-service communication with automatic TLS encryption and identity-based authorization.
 
-<https://www.consul.io>
+https://www.consul.io
 
-<https://github.com/hashicorp/consul>
+https://github.com/hashicorp/consul
 
 ## fabio
 
@@ -64,7 +64,7 @@ fabio is a fast, modern, zero-conf load balancing HTTP(S) and TCP router for dep
 
 Register your services in consul, provide a health check and fabio will start routing traffic to them. No configuration required. Deployment, upgrading and refactoring has never been easier.
 
-<https://github.com/fabiolb/fabio>
+https://github.com/fabiolb/fabio
 
 ## Balena
 
@@ -72,19 +72,19 @@ Balena is a complete set of tools for building, deploying, and managing fleets o
 
 Our tools are designed to work well together as a platform, but you can also pick and choose the components you need for your project, and adapt them to your particular use case. We know that no two IoT projects are the same and there is no one-size-fits-all solution.
 
-<https://www.balena.io/what-is-balena>
+https://www.balena.io/what-is-balena
 
 ## Nebula
 
 [Nebula](https://nebula-orchestrator.github.io/) is a open source project created for Docker orchestration and designed to manage massive clusters at scale, it achieves this by scaling each project component out as far as required. The project's aim is to act as Docker orchestrator for IoT devices as well as for distributed services such as CDN or edge computing. Nebula is capable of simultaneously updating tens of thousands of IoT devices worldwide with a single API call in an effort to help devs and ops treat IoT devices just like distributed Dockerized apps.
 
-<https://nebula.readthedocs.io/en/latest>
+https://nebula.readthedocs.io/en/latest
 
-<https://github.com/nebula-orchestrator>
+https://github.com/nebula-orchestrator
 
-<https://nebula-orchestrator.github.io>
+https://nebula-orchestrator.github.io
 
-<https://dzone.com/articles/nebula-container-orchestratorcontainer-orchestrati-1>
+https://dzone.com/articles/nebula-container-orchestratorcontainer-orchestrati-1
 
 ## Resin.io
 
@@ -92,7 +92,7 @@ Resin.iois a startup aiming to bring the benefits of Linux containers to the wor
 
 ## Eliot - Container platform for IoT devices
 
-<https://medium.com/devopslinks/announcing-eliot-container-platform-for-iot-devices-ad071e1917fd>
+https://medium.com/devopslinks/announcing-eliot-container-platform-for-iot-devices-ad071e1917fd
 
 ## Caddy
 
@@ -102,9 +102,9 @@ Resin.iois a startup aiming to bring the benefits of Linux containers to the wor
 - Its modular architecture means you can do more with a single, static binary that compiles for any platform.
 - Caddy runs great in containers because it has no dependencies - not even libc. Run Caddy practically anywhere.
 
-<https://caddyserver.com>
+https://caddyserver.com
 
-<https://github.com/mholt/caddy>
+https://github.com/mholt/caddy
 
 ## Chaos Monkey
 
@@ -114,7 +114,7 @@ Chaos Monkey randomly terminates virtual machine instances and containers that r
 
 Chaos Monkey is an example of a tool that follows the [Principles of Chaos Engineering](http://principlesofchaos.org/).
 
-<https://github.com/Netflix/chaosmonkey>
+https://github.com/Netflix/chaosmonkey
 
 ## Salt Stack
 
@@ -126,21 +126,21 @@ Salt is a new approach to infrastructure management built on a dynamic communica
 
 ![image](../../media/DevOps-Others-Others-image2.jpg)
 
-<https://docs.saltstack.com/en/latest/topics/tutorials/walkthrough.html>
+https://docs.saltstack.com/en/latest/topics/tutorials/walkthrough.html
 
-<https://en.wikipedia.org/wiki/Salt_(software)>
+https://en.wikipedia.org/wiki/Salt_(software)
 
 [https://www.saltstack.com](https://www.saltstack.com/)
 
-<https://github.com/saltstack/salt>
+https://github.com/saltstack/salt
 
-<https://docs.saltstack.com/en/getstarted>
+https://docs.saltstack.com/en/getstarted
 
 ## CloudState
 
 CloudState is an initiative to define what is "Serverless 2.0"- or what's the next generation of serverless is all about- by adding a concept, model, and implementation around managing state. Anyone who has built a cloud application, a distributed system, knows that state is actually the hardest thing to deal with, while serverless up to this point more or less ignores that. So we're trying to add that to the mix with essentially two things. First is a standardization effort defining a specification, a protocol and a TCK for implementing these things. Second is a reference implementation, implementing the spec.
 
-<https://github.com/cloudstateio/cloudstate/blob/master/README>
+https://github.com/cloudstateio/cloudstate/blob/master/README
 
 ## Nexus
 
@@ -152,13 +152,13 @@ Packer is a tool which makes it easy to build machine images for different platf
 
 Packer is a tool for creating identical machine images for multiple platforms from a single source configuration. It supports many different configuration sources including Shell, Chef, Puppet, Ansible, and Salt, and can output images for Compute Engine, Docker, and others. Packer is used by Jenkins agents to build images from configuration in Git repositories.
 
-<https://packer.io>
+https://packer.io
 
 ## HuBot
 
 Hubot is your friendly robot sidekick.Install him in your company to dramatically improve employee efficiency.
 
-<https://hubot.github.com>
+https://hubot.github.com
 
 ## Firecracker
 
@@ -170,11 +170,11 @@ The main component of Firecracker is a virtual machine monitor (VMM) that uses t
 
 Firecracker was developed at Amazon Web Services to accelerate the speed and efficiency of services like [AWS Lambda](https://aws.amazon.com/lambda/) and [AWS Fargate](https://aws.amazon.com/fargate/). Firecracker is open sourced under [Apache version 2.0](https://github.com/firecracker-microvm/firecracker/blob/master/LICENSE).
 
-<https://github.com/firecracker-microvm/firecracker>
+https://github.com/firecracker-microvm/firecracker
 
-<https://firecracker-microvm.github.io>
+https://firecracker-microvm.github.io
 
-<https://aws.amazon.com/blogs/aws/firecracker-lightweight-virtualization-for-serverless-computing>
+https://aws.amazon.com/blogs/aws/firecracker-lightweight-virtualization-for-serverless-computing
 
 ## Nomad
 
@@ -182,21 +182,21 @@ Nomad is an easy-to-use, flexible, and performant workload orchestrator that can
 
 Nomad is a cluster manager, designed for both long lived services and short lived batch processing workloads. Developers use a declarative job specification to submit work, and Nomad ensures constraints are satisfied and resource utilization is optimized by efficient task packing. Nomad supports all major operating systems and virtualized, containerized, or standalone applications.
 
-<https://www.nomadproject.io>
+https://www.nomadproject.io
 
-<https://github.com/hashicorp/nomad>
+https://github.com/hashicorp/nomad
 
 ## Ciao
 
-<https://www.brotandgames.com/ciao>
+https://www.brotandgames.com/ciao
 
 ## FastLane
 
 Tool for iOS and Android developers to automate tedious tasks like generating screenshots, dealing with provisioning profiles, and releasing your application.
 
-<https://fastlane.tools>
+https://fastlane.tools
 
-<https://github.com/fastlane/fastlane>
+https://github.com/fastlane/fastlane
 
 ## Artifactory
 
@@ -217,8 +217,8 @@ This list is far from complete, just gives an idea of what's out there.
 
 The binary repository can allow to host all of these under one roof, making their management much simpler for teams. Note that you do not need a very large team to start reaping benefits from binary package management. The initial investment is not very large and the benefits are felt immediately. Especially now that more and more platforms, frameworks and languages are integrating this dependency management directly in them. Their biggest advantage I have found however was to create an environment that your programmers will find natural and comfortable making it essential. It helps you as a devops creating a solid tool-chain and it helps them making the overall experience fit naturally in their stack of choice.
 
-<https://jfrog.com/artifactory>
+https://jfrog.com/artifactory
 
 ## Opendev
 
-<https://opendev.org>
+https://opendev.org

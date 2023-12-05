@@ -62,7 +62,7 @@ Jetpack is a set of libraries, tools and architectural guidance to help make it 
 
     8. Wear OS by Google - Components to help develop apps for Wear
 
-<https://developer.android.com/jetpack>
+https://developer.android.com/jetpack
 
 ## Navigation Components (NavGraph)
 
@@ -94,10 +94,10 @@ Generates classes based off of your navigation graph to ensure type-safe access 
 
 Youtube - [Android Jetpack: Introducing Navigation Component](https://www.youtube.com/watch?v=Y0Cs2MQxyIs)
 
-<https://developer.android.com/guide/navigation>
+https://developer.android.com/guide/navigation
 
 ## Compose
 
 Jetpack Compose is Android's modern toolkit for building native UI. It simplifies and accelerates UI development on Android. Quickly bring your app to life with less code, powerful tools, and intuitive Kotlin APIs.
 
-<https://developer.android.com/jetpack/compose>
+https://developer.android.com/jetpack/compose

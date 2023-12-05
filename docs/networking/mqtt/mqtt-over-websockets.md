@@ -38,4 +38,4 @@ You can leverage Transport Layer Security (TLS) to use secure WebSockets with en
 
 ## References
 
-<https://www.hivemq.com/blog/mqtt-essentials-special-mqtt-over-websockets>
+https://www.hivemq.com/blog/mqtt-essentials-special-mqtt-over-websockets

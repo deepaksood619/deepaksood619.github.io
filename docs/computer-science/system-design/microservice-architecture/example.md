@@ -1,6 +1,6 @@
 # Example
 
-<https://thenewstack.io/how-redis-simplifies-microservices-design-patterns>
+https://thenewstack.io/how-redis-simplifies-microservices-design-patterns
 
 ## Financial System
 
@@ -54,7 +54,7 @@ Code-complexity can be added to each microservice to handle various failure and 
 
 To avoid the risks and costs of various application-level implementations, the recommended patterns are [transactional outbox and message replay](https://microservices.io/patterns/data/transactional-outbox.html). Redis simplifies and supports the combined implementation of both patterns, known as [write-behind](https://github.com/RedisGears/rgsync), by using [Redis Streams](https://university.redislabs.com/courses/ru202/) as the transactional outbox and [RedisGears](https://redislabs.com/modules/redis-gears/) as the message relay. Within Redis a secondary thread can listen for changed-data events, durably store them in time order, and publish them to the message broker - whenever it's available. This can be uniformly enabled or upgraded on each Redis database at the same time withinfrastructure automation.
 
-<https://microservices.io/patterns/data/transactional-outbox.html>
+https://microservices.io/patterns/data/transactional-outbox.html
 
 ## Design Pattern: Command Query Responsibility Segregation (CQRS) -> Performance
 

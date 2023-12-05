@@ -3,7 +3,7 @@
 - [Introduction](https://redislabs.com/redis-best-practices/introduction/)
 - [Indexing Patterns](https://redislabs.com/redis-best-practices/indexing-patterns/)
 
-<https://redis.io/topics/indexes>- [Sorted Sets as Indexes](https://redislabs.com/redis-best-practices/indexing-patterns/sorted-sets-indexes/)
+https://redis.io/topics/indexes- [Sorted Sets as Indexes](https://redislabs.com/redis-best-practices/indexing-patterns/sorted-sets-indexes/)
 
 - [Lexicographical Encoding](https://redislabs.com/redis-best-practices/indexing-patterns/lexicographical-encoding/)
 - [Geospatial](https://redislabs.com/redis-best-practices/indexing-patterns/geospatial/)
@@ -32,7 +32,7 @@ Redis is a good option locking since has a simple key-based data model, each sha
   - [Bit Counting Pattern](https://redislabs.com/redis-best-practices/counting/bit-counting-pattern/)
   - [HyperLogLog](https://redislabs.com/redis-best-practices/counting/hyperloglog/)
 - [Lua Helpers](https://redislabs.com/redis-best-practices/lua-helpers/)
-<https://redislabs.com/redis-best-practices>
+https://redislabs.com/redis-best-practices
 
 ## Best practices and performance tuning
 
@@ -45,14 +45,14 @@ Keepalive is a method to allow the same TCP connection for HTTP conversation ins
 Pipelining facilitates a client to send multiple requests to the server without waiting for the replies at all and finally reads the reply in a single step.
 Pipelines are a subclass of the base Redis class that provide support for buffering multiple commands to the server in a single request. They can be used to dramatically increase the performance of groups of commands by reducing the number of back-and-forth TCP packets between the client and server.
 
-<https://github.com/andymccurdy/redis-py#pipelines>
+https://github.com/andymccurdy/redis-py#pipelines
 Pipelining isn't a silver bullet - you need to understand what it does before you use it. What pipelining does is batch several operations that are sent as bulk, as is their response from the server. What you gain is that the network round trip time for each operation is replaced by that of the batch. But infinitely-sized batches are a real drain on resource - you need to keep their size small enough to be effective. As a rule of thumb I usually try to aim to 60KB per pipeline and since every data is different, so does the number of actual operations in a pipeline. Assuming that your key and its value are ~1KB, you need to callpipeline.execute()every 60 operations or so.
 
-<https://stackoverflow.com/questions/32149626/how-to-insert-billion-of-data-to-redis-efficiently>
+https://stackoverflow.com/questions/32149626/how-to-insert-billion-of-data-to-redis-efficiently
 
 ## Mass Insertion / Bulk Inserts
 
-<https://redis.io/topics/mass-insert>
+https://redis.io/topics/mass-insert
 
 ## Max-Connection
 
@@ -133,13 +133,13 @@ List is just a link list of arrays, where none of the arrays are compressed. By 
 
 When you set an expiry on a key, redis does not expire it at that instant. Instead, it uses a randomized algorithm to find out keys that should be expired. Since this algorithm is random, there are chances that the keys are not expired. This means that redis consumes memory to hold keys that have already expired. The moment the key is accessed, it is deleted. If there are only a few keys that have expired and redis hasn't deleted them - it is fine.
 
-<https://docs.redislabs.com/latest/ri/memory-optimizations>
+https://docs.redislabs.com/latest/ri/memory-optimizations
 
-<https://redis.io/topics/memory-optimization>
+https://redis.io/topics/memory-optimization
 
-<https://cloud.google.com/memorystore/docs/redis/memory-management-best-practices>
+https://cloud.google.com/memorystore/docs/redis/memory-management-best-practices
 
-<https://www.datadoghq.com/pdf/Understanding-the-Top-5-Redis-Performance-Metrics.pdf>
+https://www.datadoghq.com/pdf/Understanding-the-Top-5-Redis-Performance-Metrics.pdf
 
 ## Performance Metrics
 

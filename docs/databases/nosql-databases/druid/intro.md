@@ -148,13 +148,13 @@ Druid is fundamentally a column store, and is designed for analytical queries (G
 
 ## Druid kafka ingestion
 
-<http://druid.io/docs/latest/development/extensions-core/kafka-ingestion.html>
+http://druid.io/docs/latest/development/extensions-core/kafka-ingestion.html
 
-<http://druid.io/docs/latest/tutorials/tutorial-kafka.html>
+http://druid.io/docs/latest/tutorials/tutorial-kafka.html
 
 ## Kafka Indexing Service - Exactly once ingestion
 
-<https://imply.io/post/exactly-once-streaming-ingestion>
+https://imply.io/post/exactly-once-streaming-ingestion
 
 ![image](../../../media/Druid-image9.jpg)
 
@@ -164,15 +164,15 @@ Druid is fundamentally a column store, and is designed for analytical queries (G
 
 ## References
 
-<http://druid.io/docs/latest/design/index.html>
+http://druid.io/docs/latest/design/index.html
 
-<https://medium.com/@leventov/the-problems-with-druid-at-large-scale-and-high-load-part-1-714d475e84c9>
+https://medium.com/@leventov/the-problems-with-druid-at-large-scale-and-high-load-part-1-714d475e84c9
 
-<https://medium.com/@leventov/the-challenges-of-running-druid-at-large-scale-and-future-directions-part-2-ef594ce298f2>
+https://medium.com/@leventov/the-challenges-of-running-druid-at-large-scale-and-future-directions-part-2-ef594ce298f2
 
-<https://druid.apache.org/docs/latest/ingestion/data-management.html>
+https://druid.apache.org/docs/latest/ingestion/data-management.html
 
-<https://imply.io/druid-university/intro-to-druid-university>
+https://imply.io/druid-university/intro-to-druid-university
 
 ## Imply Druid
 
@@ -199,7 +199,7 @@ Druid is fundamentally a column store, and is designed for analytical queries (G
   - 0.5 GB/s/HT for data sitting in disk
 - Druid is not good for computing moving averages
 - No ML library in Druid
-- Duplicate data removal using HyperLogLog- <https://cleanprogrammer.net/getting-unique-counts-from-druid-using-hyperloglog>
+- Duplicate data removal using HyperLogLog- https://cleanprogrammer.net/getting-unique-counts-from-druid-using-hyperloglog
 - Druid not build for historical storage
 - MiddleManager creates segments, and then put it in deep storage, Historical pulls data from deep storage, create segment cache and serves it. Local Cache is there until the retention policy.
 - Middle manager will skip the data if it's not in the right format. There's no way to know which data was skipped.

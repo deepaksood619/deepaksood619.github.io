@@ -37,7 +37,7 @@ In the table, poly(*x*)=*x^O^*^(1)^, i.e., polynomial in*x*.
 
 ![image](../../media/Time-Complexities-image1.jpg)
 
-<https://en.wikipedia.org/wiki/Time_complexity>
+https://en.wikipedia.org/wiki/Time_complexity
 
 ## Pseudo-polynomial time
 
@@ -45,4 +45,4 @@ In [computational complexity theory](https://en.wikipedia.org/wiki/Computational
 
 In general, the numeric value of the input is exponential in the input length, which is why a pseudo-polynomial time algorithm does not necessarily run in polynomial time with respect to the input length.
 
-<https://en.wikipedia.org/wiki/Pseudo-polynomial_time>
+https://en.wikipedia.org/wiki/Pseudo-polynomial_time

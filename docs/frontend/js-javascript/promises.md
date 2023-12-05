@@ -12,7 +12,7 @@
 4. Chaining (Promises can be chained together to execute one after other)
 5. Parallelism and sequencing
 
-<https://developers.google.com/web/fundamentals/primers/promises#whats-all-the-fuss-about>
+https://developers.google.com/web/fundamentals/primers/promises#whats-all-the-fuss-about
 
 ## What are async and await?
 
@@ -28,7 +28,7 @@ A promise in JavaScript is like a placeholder value that is expected to eventual
 
 ## What is Node.js promise?
 
-A promise may at first glance look like syntactic sugar for a callback but actually, it isn't. A promise may serve the same purpose of a callback in a different way but underneath it is so much different. <https://www.promisejs.org>
+A promise may at first glance look like syntactic sugar for a callback but actually, it isn't. A promise may serve the same purpose of a callback in a different way but underneath it is so much different. https://www.promisejs.org
 
 ## What is a promise in JavaScript?
 
@@ -42,6 +42,6 @@ JavaScript is a single-threaded language. And since it can't spawn more threads,
 
 An async function is a function that returns a promise. The special thing about this type of function is that you can use the word await which allows you to pause the execution of a function when a promise is called without having to use the then function to retrieve the value from the promise.
 
-<https://www.toptal.com/nodejs/benchmark-nodejs-promise>
+https://www.toptal.com/nodejs/benchmark-nodejs-promise
 
 [JavaScript Promises In 10 Minutes](https://www.youtube.com/watch?v=DHvZLI7Db8E)

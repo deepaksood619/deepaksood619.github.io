@@ -41,7 +41,7 @@ The Jensen's measure, or Jensen's alpha, is a risk-adjusted performance measure 
 - Jensen's measure is commonly referred to as alpha. When a manager outperforms the market concurrent to risk, they have "delivered alpha" to their clients.
 - The measure accounts for the risk-free rate of return for the time period.
 
-<https://www.investopedia.com/terms/j/jensensmeasure.asp>
+https://www.investopedia.com/terms/j/jensensmeasure.asp
 
 [Picking Stocks for Long term Investing in 2021 | Investment Strategy for Beginners | Ankur Warikoo](https://www.youtube.com/watch?v=krwSDbuHWd4)
 

@@ -18,19 +18,19 @@ DecimalType() stores two operands (Precision and Scale), this way avoids storing
 
 ## Optimization
 
-<https://docs.aws.amazon.com/glue/latest/dg/aws-glue-programming-etl-partitions.html#aws-glue-programming-etl-partitions-writing>
+https://docs.aws.amazon.com/glue/latest/dg/aws-glue-programming-etl-partitions.html#aws-glue-programming-etl-partitions-writing
 
-<https://towardsdatascience.com/apache-spark-optimization-toolkit-17cf3e491992>
+https://towardsdatascience.com/apache-spark-optimization-toolkit-17cf3e491992
 
-<https://github.com/aws-samples/aws-glue-samples/blob/master/examples/join_and_relationalize>
+https://github.com/aws-samples/aws-glue-samples/blob/master/examples/join_and_relationalize
 
-<https://thedataguy.in/aws-glue-custom-output-file-size-and-fixed-number-of-files>
+https://thedataguy.in/aws-glue-custom-output-file-size-and-fixed-number-of-files
 
 - Option 1: groupFiles
 - Option 2: groupFiles while reading from S3
 - Option 3: Repartition
 
-<https://medium.com/enigma-engineering/things-i-wish-id-known-about-spark-when-i-started-one-year-later-edition-d767430181ed>
+https://medium.com/enigma-engineering/things-i-wish-id-known-about-spark-when-i-started-one-year-later-edition-d767430181ed
 
 [Performance Tuning - Spark 3.3.2 Documentation](https://spark.apache.org/docs/latest/sql-performance-tuning.html)
 
@@ -54,7 +54,7 @@ This technique is useful for dimension tables, which are frequently used tables 
 
 [Spark Basics | Shuffling - YouTube](https://www.youtube.com/watch?v=ffHboqNoW_A)
 
-[Spark SQL Shuffle Partitions - Spark By {Examples}](https://sparkbyexamples.com/spark/spark-shuffle-partitions/?expand_article=1)
+[Spark SQL Shuffle Partitions - Spark By Examples](https://sparkbyexamples.com/spark/spark-shuffle-partitions/?expand_article=1)
 
 [Apache Spark : The Shuffle](https://www.linkedin.com/pulse/apache-spark-shuffle-akhil-pathirippilly-mana/)
 
@@ -62,6 +62,6 @@ This technique is useful for dimension tables, which are frequently used tables 
 
 ## SparkML
 
-<https://spark.apache.org/docs/latest/ml-pipeline.html>
+https://spark.apache.org/docs/latest/ml-pipeline.html
 
-<https://towardsdatascience.com/a-neanderthals-guide-to-apache-spark-in-python-9ef1f156d427>
+https://towardsdatascience.com/a-neanderthals-guide-to-apache-spark-in-python-9ef1f156d427

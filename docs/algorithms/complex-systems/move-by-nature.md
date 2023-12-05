@@ -1,6 +1,6 @@
 # Move by nature
 
-<https://en.wikipedia.org/wiki/Move_by_nature>
+https://en.wikipedia.org/wiki/Move_by_nature
 
 Used in Minimax algorithm where the second player can be Nature.
 

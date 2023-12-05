@@ -23,4 +23,4 @@ This kind of incremental improvement is called "aggregation of marginal gains" -
 - Intense training and training for worst situations
 - Having **grit** allows to push through limitations and achieve competitive excellence
 
-<https://www.scotthyoung.com/blog/2020/08/10/excellence>
+https://www.scotthyoung.com/blog/2020/08/10/excellence

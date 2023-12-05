@@ -1,10 +1,10 @@
 # Loops
 
-<http://www.geeksforgeeks.org/any-all-in-python>
+http://www.geeksforgeeks.org/any-all-in-python
 
-<http://treyhunner.com/2016/04/how-to-loop-with-indexes-in-python>
+http://treyhunner.com/2016/04/how-to-loop-with-indexes-in-python
 
-<https://www.youtube.com/watch?v=Qgevy75co8c>
+https://www.youtube.com/watch?v=Qgevy75co8c
 
 The fastest way to loop in python is don't loop
 
@@ -93,7 +93,7 @@ print ( str('.|.')*i ).center(M, '-')
 
 ## Enumerate
 
-<http://book.pythontips.com/en/latest/enumerate.html>
+http://book.pythontips.com/en/latest/enumerate.html
 
 Enumerate is a built-in function of Python.
 
@@ -125,7 +125,7 @@ for color in colors:
 
 Unlike traditional C-styleforloops, Python'sforloops don't have index variables. There's no index initializing, bounds checking, or index incrementing. Python's for loops do *all the work* of looping over our numbers list for us.
 
-<https://treyhunner.com/2019/06/loop-better-a-deeper-look-at-iteration-in-python>
+https://treyhunner.com/2019/06/loop-better-a-deeper-look-at-iteration-in-python
 
 ## for and while loop can have else branch
 

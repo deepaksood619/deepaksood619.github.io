@@ -14,7 +14,7 @@ In practice, the most expensive part of performing a sort-merge join is arrangin
 
 Used to join two data sets that are already sorted using the same key. A row from each source is obtained. If the rows match they are joined. If the rows do not match the lower vaue row is discarded and a new row is obtained from that source
 
-<https://en.wikipedia.org/wiki/Sort-merge_join>
+https://en.wikipedia.org/wiki/Sort-merge_join
 
 #### Interesting order
 
@@ -51,7 +51,7 @@ Hash joins require an [equijoin](https://en.wikipedia.org/wiki/Equijoin) predica
 
 A hashtable of the smaller data set is created, then SQL Server loops through the larger data set probing the hashtable for matching values. Used when two large data sets must be joined
 
-<https://en.wikipedia.org/wiki/Hash_join>
+https://en.wikipedia.org/wiki/Hash_join
 
 ### Hash Join vs Merge Join
 

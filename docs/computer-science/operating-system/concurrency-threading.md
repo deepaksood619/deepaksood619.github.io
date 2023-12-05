@@ -101,7 +101,7 @@ The Kernel maintains context information for the process as a whole and for indi
 | IO             | Network connection, file operation | Multithreading    |
 | CPU            | Complex math problem, search       | Multiprocessing   |
 
-<https://zacs.site/blog/linear-python.html>
+https://zacs.site/blog/linear-python.html
 
 ## Are Threads Lighter than Processes
 
@@ -221,7 +221,7 @@ In [parallel computing](https://en.wikipedia.org/wiki/Parallel_computing), abarr
 
 Many collective routines and directive-based parallel languages impose implicit barriers. For example, a paralleldoloop in [Fortran](https://en.wikipedia.org/wiki/Fortran) with [OpenMP](https://en.wikipedia.org/wiki/OpenMP) will not be allowed to continue on any thread until the last iteration is completed. This is in case the program relies on the result of the loop immediately after its completion. In [message passing](https://en.wikipedia.org/wiki/Message_passing), any global communication (such as reduction or scatter) may imply a barrier.
 
-<https://en.wikipedia.org/wiki/Barrier_(computer_science)>
+https://en.wikipedia.org/wiki/Barrier_(computer_science)
 
 ### Semaphores
 
@@ -229,7 +229,7 @@ Semaphores are signalling mechanisms which can allow one or more threads/process
 
 Some semaphores would allow only one thread or process in the code section. Such Semaphores are called binary semaphore and are very similar to Mutex. Here, if the value of semaphore is 1, the thread is allowed to access and if the value is 0, the access is denied.
 
-<https://en.wikipedia.org/wiki/Synchronization_(computer_science)>
+https://en.wikipedia.org/wiki/Synchronization_(computer_science)
 
 ## Hyper - Threading Technology (HTT)
 
@@ -239,7 +239,7 @@ For each [processor core](https://en.wikipedia.org/wiki/Processor_core) that is 
 
 In addition to requiring simultaneous multithreading (SMT) support in the operating system, hyper-threading can be properly utilized only with an operating system specifically optimized for it.Furthermore, Intel recommends HTT to be disabled when using operating systems unaware of this hardware feature.
 
-<https://en.wikipedia.org/wiki/Hyper-threading>
+https://en.wikipedia.org/wiki/Hyper-threading
 
 Multithreading, concurrency, locks, synchronization
 
@@ -256,7 +256,7 @@ Atomic instruction that compares contents of a memory location M to a given valu
 
 `__sync_bool_compare_and_swap(Address, Compare Value, New Value)`
 
-<https://en.wikipedia.org/wiki/Compare-and-swap>
+https://en.wikipedia.org/wiki/Compare-and-swap
 
 ## References
 
@@ -264,7 +264,7 @@ Atomic instruction that compares contents of a memory location M to a given valu
 
 [https://schneems.com/2017/10/23/wtf-is-a-thread/#](https://schneems.com/2017/10/23/wtf-is-a-thread/)
 
-Dijkstra's Guarded Commands - <https://en.wikipedia.org/wiki/Guarded_Command_Language>
+Dijkstra's Guarded Commands - https://en.wikipedia.org/wiki/Guarded_Command_Language
 
 [Communicating Sequential Processes, by C. A. R. Hoare (PDF Version)](http://www.usingcsp.com/)
 

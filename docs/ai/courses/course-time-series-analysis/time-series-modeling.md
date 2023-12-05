@@ -354,7 +354,7 @@ It means that low volatility is followed by low volatility and high is followed 
 
 ## The ARCH Model (Autoregressive Conditional Heteroskedasticity Model)
 
-<https://github.com/bashtage/arch>
+https://github.com/bashtage/arch
 
 Heteroskedasticity - different dispersion
 
@@ -420,7 +420,7 @@ Yield non-significant coefficients
 
 ![image](../../../media/Course-Time-Series-Analysis_Time-Series-Modeling-image28.jpg)
 
-<http://alkaline-ml.com/pmdarima/modules/generated/pmdarima.arima.auto_arima.html#pmdarima.arima.auto_arima>
+http://alkaline-ml.com/pmdarima/modules/generated/pmdarima.arima.auto_arima.html#pmdarima.arima.auto_arima
 
 ## Forecasting
 

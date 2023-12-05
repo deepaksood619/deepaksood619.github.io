@@ -42,7 +42,7 @@ If events keep occurring within the specified timeout, the session window will k
 
 When a partition key is provided, the events are grouped together by the key and session window is applied to each group independently. This partitioning is useful for cases where you need different session windows for different users or devices.
 
-<https://docs.microsoft.com/en-us/azure/stream-analytics/stream-analytics-window-functions>
+https://docs.microsoft.com/en-us/azure/stream-analytics/stream-analytics-window-functions
 
 ## Other Window Functions
 
@@ -51,6 +51,6 @@ When a partition key is provided, the events are grouped together by the key and
 - Calendar window
 - Stagger window
 
-<https://dev.to/frosnerd/window-functions-in-stream-analytics-1m6c>
+https://dev.to/frosnerd/window-functions-in-stream-analytics-1m6c
 
 [Introducing Native Support for Session Windows in Spark Structured Streaming - The Databricks Blog](https://www.databricks.com/blog/2021/10/12/native-support-of-session-window-in-spark-structured-streaming.html)

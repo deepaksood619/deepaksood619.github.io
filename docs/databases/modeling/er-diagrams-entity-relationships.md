@@ -8,7 +8,7 @@ An entity--relationship diagram for a [MMORPG](https://en.wikipedia.org/wiki/MMO
 In [software engineering](https://en.wikipedia.org/wiki/Software_engineering), an ER model is commonly formed to represent things a business needs to remember in order to perform business processes. Consequently, the ER model becomes an abstract [data model](https://en.wikipedia.org/wiki/Data_modeling), that defines a data or information structure which can be implemented in a [database](https://en.wikipedia.org/wiki/Database), typically a [relational database](https://en.wikipedia.org/wiki/Relational_database).
 Entity--relationship modeling was developed for database and design by [Peter Chen](https://en.wikipedia.org/wiki/Peter_Chen) and published in a 1976 paper.However, variants of the idea existed previously.Some ER models show super and subtype entities connected by generalization-specialization relationships, and an ER model can be used also in the specification of domain-specific [ontologies](https://en.wikipedia.org/wiki/Ontology_(computer_science)).
 
-<https://en.wikipedia.org/wiki/Entity%E2%80%93relationship_model>
+https://en.wikipedia.org/wiki/Entity%E2%80%93relationship_model
 The ER model defines the conceptual view of a database. It works around real-world entities and the associations among them. At view level, the ER model is considered a good option for designing databases.
 
 ## Entity
@@ -83,6 +83,6 @@ Cardinalitydefines the number of entities in one entity set, which can be associ
 
 ![image](../../media/ER-Diagrams-(Entity-Relationships)-image6.jpg)
 
-<https://www.tutorialspoint.com/dbms/er_model_basic_concepts.htm>
+https://www.tutorialspoint.com/dbms/er_model_basic_concepts.htm
 
-<https://www.geeksforgeeks.org/introduction-of-er-model>
+https://www.geeksforgeeks.org/introduction-of-er-model

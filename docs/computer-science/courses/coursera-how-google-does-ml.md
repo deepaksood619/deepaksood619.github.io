@@ -84,4 +84,4 @@ Prediction / Inference Phase
 
 ## Resources
 
-<https://www.coursera.org/learn/google-machine-learning>
+https://www.coursera.org/learn/google-machine-learning

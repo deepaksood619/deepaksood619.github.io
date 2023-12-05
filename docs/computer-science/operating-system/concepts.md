@@ -124,7 +124,7 @@ Simply put, virtualization creates the environments and resources you need from 
 4. **Operating System Virtualization:** Operating system virtualization happens at the kernel - the central task managers of operating systems. It's a useful way to run Linux and Windows environments side-by-side. Enterprises can also push virtual operating systems to computers, which: (1) Reduces bulk hardware costs, since the computers don't require such high out-of-the-box capabilities, (2) Increases security, since all virtual instances can be monitored and isolated, and (3) Limits time spent on IT services like software updates.
 5. **Network Functions Virtualization:** Network functions virtualization (NFV) separates a network's key functions (like directory services, file sharing, and IP configuration) so they can be distributed among environments. Once software functions are independent of the physical machines they once lived on, specific functions can be packaged together into a new network and assigned to an environment. Virtualizing networks reduces the number of physical components - like switches, routers, servers, cables, and hubs - that are needed to create multiple, independent networks, and it's particularly popular in the telecommunications industry.
 
-<https://www.redhat.com/en/topics/virtualization/what-is-nfv>
+https://www.redhat.com/en/topics/virtualization/what-is-nfv
 
 ## Distributed File Systems
 
@@ -158,4 +158,4 @@ In DSM, data is accessed from a shared space similar to the way that virtual mem
 
 There are two different ways that nodes can be informed of who owns what page: invalidation and broadcast. Invalidation is a method that invalidates a page when some process asks for write access to that page and becomes its new owner. This way the next time some other process tries to read or write to a copy of the page it thought it had, the page will not be available and the process will have to re-request access to that page. Broadcasting will automatically update all copies of a memory page when a process writes to it. This is also called write-update. This method is a lot less efficient more difficult to implement because a new value has to sent instead of an invalidation message.
 
-<https://medium.com/cracking-the-data-science-interview/how-operating-systems-work-10-concepts-you-should-know-as-a-developer-8d63bb38331f>
+https://medium.com/cracking-the-data-science-interview/how-operating-systems-work-10-concepts-you-should-know-as-a-developer-8d63bb38331f

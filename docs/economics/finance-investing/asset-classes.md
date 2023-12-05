@@ -1,25 +1,25 @@
 # Asset Classes
 
-<https://freefincal.com/hdfc-corporate-bond-fund>
+https://freefincal.com/hdfc-corporate-bond-fund
 
 Parag Parikh Flexi Cap
 
-VPF - <https://cleartax.in/s/pf-vs-vpf>
+VPF - https://cleartax.in/s/pf-vs-vpf
 
-<https://www.youtube.com/watch?v=lBagn--KERk>
+https://www.youtube.com/watch?v=lBagn--KERk
 
 - 1 lakh LTCG
 - Top 10 focused stocks - Marcellus PMS
 
 ## Tools
 
-<https://www.tikr.com>
+https://www.tikr.com
 
 [AI Chat for Financial Analyst](https://finchat.io/) - FinChat.io is powered by ChatGPT. Using AI, FinChat generates answers to questions about public companies and investors. To generate accurate answers, FinChat provides reasoning, sources and data.
 
 ## Buying
 
-<https://www.joinhoney.com>
+https://www.joinhoney.com
 
 ## Two types of income
 
@@ -29,7 +29,7 @@ VPF - <https://cleartax.in/s/pf-vs-vpf>
 ## Fixed Income / Debt
 
 - Wintwealth (Wint Wealth)
-- <https://altifi.ai>
+- https://altifi.ai
 
 Sequence of Returns - [what sequence of returns risk](https://www.youtube.com/watch?v=GruEpZFBvQg&ab_channel=freefincal-PrudentDIYInvesting)
 
@@ -63,7 +63,7 @@ Traditionally, investing in real estate requires capital ranging from a few lakh
 
 #### REIT (Real Estate Investment Trusts) / Real Estate Mutual Funds
 
-<https://cleartax.in/s/reit-funds>
+https://cleartax.in/s/reit-funds
 
 ### HIGH YIELDING FIXED INCOME INVESTMENTS
 
@@ -81,7 +81,7 @@ Is a method of financing used by small businesses to fulfil their working capita
 
 Masterworks is the first platform for buying and selling shares representing an investment in iconic artworks.
 
-<https://www.masterworks.com>
+https://www.masterworks.com
 
 ### Others
 
@@ -90,8 +90,8 @@ Masterworks is the first platform for buying and selling shares representing an 
 
 ## Strategies
 
-- **Value Investing** - <https://www.youtube.com/watch?v=CZA3rVOfti8>
-- **Growth Investing** - <https://www.youtube.com/watch?v=TLGalocqj00>
+- **Value Investing** - https://www.youtube.com/watch?v=CZA3rVOfti8
+- **Growth Investing** - https://www.youtube.com/watch?v=TLGalocqj00
 
 ## 5 Warren Buffet Tips
 
@@ -106,7 +106,7 @@ Masterworks is the first platform for buying and selling shares representing an 
 - "Be fearful when others are greedy and greedy only when others are fearful." ([2004](http://www.berkshirehathaway.com/letters/2004ltr.pdf))
 - "You only find out who is swimming naked when the tide goes out." ([2001](http://www.berkshirehathaway.com/letters/2001.html))
 
-<https://www.cbinsights.com/research/buffett-berkshire-hathaway-shareholder-letters>
+https://www.cbinsights.com/research/buffett-berkshire-hathaway-shareholder-letters
 
 [9 Important Lessons from Warren Buffett's Letters to Shareholders | ET Money](https://youtu.be/GSBtCxVLRqA)
 
@@ -114,7 +114,7 @@ Masterworks is the first platform for buying and selling shares representing an 
 - Don't have income rise faster than productivity
 - Do all that you can to raise your productivity
 
-<https://www.youtube.com/watch?v=PHe0bXAIuk0>
+https://www.youtube.com/watch?v=PHe0bXAIuk0
 
 ## Steps
 
@@ -126,28 +126,28 @@ Masterworks is the first platform for buying and selling shares representing an 
 - You can consider some exposure to equity mutual funds only for goals more than 15 years away.
 - Start slowly. Make a small investment in an equity fund. Say 10% of what you park in FD or RD each month. observe the volatility and then gradually increase exposure
 
-<https://freefincal.com/download-re-assemble-e-book-on-our-6th-birthday>
+https://freefincal.com/download-re-assemble-e-book-on-our-6th-birthday
 
-<https://www.financialexpress.com/money/exhausted-your-ppf-investment-limit-here-are-some-other-fixed-investment-options-for-risk-averse-investors/1594500/lite>
+https://www.financialexpress.com/money/exhausted-your-ppf-investment-limit-here-are-some-other-fixed-investment-options-for-risk-averse-investors/1594500/lite
 
-<https://freefincal.com/mutual-fund-faq-new-investors>
+https://freefincal.com/mutual-fund-faq-new-investors
 
 [**https://freefincal.com/how-rohits-early-struggles-defined-his-investment-journey/**](https://freefincal.com/how-rohits-early-struggles-defined-his-investment-journey/)
 [**https://freefincal.com/how-abhisek-funded-his-marriage-is-on-track-to-financial-freedom/**](https://freefincal.com/how-abhisek-funded-his-marriage-is-on-track-to-financial-freedom/)
 
 ## Financial planning
 
-- <https://www.businesstoday.in/magazine/money-today/investment/as-good-as-it-gets/story/256057.html>
+- https://www.businesstoday.in/magazine/money-today/investment/as-good-as-it-gets/story/256057.html
 - [Build Your Own Stock Portfolio Tracker On Google Sheets](https://youtu.be/qtY1NOVQ6iE)
 - [The best stock tracker templates for Google Sheets](https://www.spreadsheetclass.com/google-sheets-stock-tracker-templates/)
 - [Stock Portfolio Tracking Spreadsheet - Google Sheets](https://docs.google.com/spreadsheets/d/1Ajox_mGj_prTqfIWSSF1xcaDEBm6ZuZZDInZ1Es-_bM/edit#gid=4)
-- Finshots Money Financial Planning Calculator - <https://docs.google.com/spreadsheets/d/13LUIThaOS_QLXAtQz4gxEA7v5UaZQsp3/edit#gid=262879150>
+- Finshots Money Financial Planning Calculator - https://docs.google.com/spreadsheets/d/13LUIThaOS_QLXAtQz4gxEA7v5UaZQsp3/edit#gid=262879150
 
 ## Courses
 
 Finance for Everyone
 
-<https://www.edx.org/course/finance-everyone-smart-tools-decision-michiganx-fin101x-1>
+https://www.edx.org/course/finance-everyone-smart-tools-decision-michiganx-fin101x-1
 
 ## Soverign Gold Bond (SGB)
 
@@ -198,7 +198,7 @@ Finance for Everyone
 - DAX 30 (Germany)
 - NIKKEI 225 (Japan)
 
-<https://www.youtube.com/watch?v=qRT917PvEns>
+https://www.youtube.com/watch?v=qRT917PvEns
 
 ## Indian
 
@@ -208,7 +208,7 @@ Finance for Everyone
 - Motilal Oswal Nasdaq 100 Fund (Foreign index available in india)
 - Nippon BANKBEES ETF
 
-<https://www.moneycontrol.com/mutual-funds/amc-details/RC>
+https://www.moneycontrol.com/mutual-funds/amc-details/RC
 
 Since Nifty50 companies form over 75% of the free-float market capitalisation of Nifty100, the allocation of Nifty50 and Nifty Next50 could be 75:25 in the portfolio
 
@@ -218,7 +218,7 @@ For foreign equity allocation, the ideal option would a fund like Vanguard Globa
 
 A better approach, therefore, is to take the middle path. Invest half the Indian equity investment in index funds (Nifty50 and Nifty Next50 with 75:25 allocation) and the remaining equally in 3 to 4 multicap funds managed by fund managers with a proven track record of over ten years. Up to 20% of the equity portfolio can be kept in foreign equity index funds
 
-<https://freefincal.com/build-equity-mutual-fund-portfolio>
+https://freefincal.com/build-equity-mutual-fund-portfolio
 
 ## Tips
 
@@ -228,13 +228,13 @@ A better approach, therefore, is to take the middle path. Invest half the Indian
 
 ## Resources
 
-<https://freefincal.com/best-mutual-funds-2019-quarter-three>
+https://freefincal.com/best-mutual-funds-2019-quarter-three
 
-<https://freefincal.com/my-stock-portfolio-vs-nifty-jan-2021>
+https://freefincal.com/my-stock-portfolio-vs-nifty-jan-2021
 
-<https://youtu.be/xiiAn0lShj8>
+https://youtu.be/xiiAn0lShj8
 
-<https://www.youtube.com/c/SUBRAMONEYPVSUBRAMANYAM/videos>
+https://www.youtube.com/c/SUBRAMONEYPVSUBRAMANYAM/videos
 
 ![image](../../media/TODO-Financial-Finance-Investing-image1.jpg)
 

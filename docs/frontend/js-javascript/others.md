@@ -20,13 +20,13 @@ Another application of debouncing is in content-loading webpages like Facebook a
 | [Lodash](https://lodash.com/docs/4.17.15#debounce) | `_.debounce(saveInput, 300);`   |
 | [Underscore](https://underscorejs.org/#debounce) | `_.debounce(saveInput, 300);` |
 
-<https://www.geeksforgeeks.org/debouncing-in-javascript>
+https://www.geeksforgeeks.org/debouncing-in-javascript
 
-<https://css-tricks.com/debouncing-throttling-explained-examples>
+https://css-tricks.com/debouncing-throttling-explained-examples
 
 ## Currying
 
-<https://www.freecodecamp.org/news/how-to-use-currying-and-composition-in-javascript>
+https://www.freecodecamp.org/news/how-to-use-currying-and-composition-in-javascript
 
 ## Learning
 

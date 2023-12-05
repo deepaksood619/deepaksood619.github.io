@@ -32,7 +32,7 @@
    - Determine access control and authentication mechanisms
    - Recognize potential security vulnerabilities within database solutions
 
-<https://www.aws.training/Details/eLearning?id=47245>
+https://www.aws.training/Details/eLearning?id=47245
 
 ## Purpose Built Databases: Match your workload to the right database
 

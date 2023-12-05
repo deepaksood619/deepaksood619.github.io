@@ -22,7 +22,7 @@ Split tunneling is a computer networking concept which allows a mobile user to a
 
 A variant of this split tunneling is called "inverse" split tunneling. By default all datagrams enter the tunnel except those destination IPs explicitly allowed by VPN gateway. The criteria for allowing datagrams to exit the local network interface (outside the tunnel) may vary from vendor to vendor (i.e.: port, service, etc.) This keeps control of network gateways to a centralized policy device such as the VPN terminator. This can be augmented by endpoint policy enforcement technologies such as an interface firewall on the endpoint device's network interface driver, [group policy](https://en.wikipedia.org/wiki/Group_policy) object or anti-malware agent. This is related in many ways to [network access control](https://en.wikipedia.org/wiki/Network_access_control)(NAC).
 
-<https://en.wikipedia.org/wiki/Split_tunneling>
+https://en.wikipedia.org/wiki/Split_tunneling
 
 ## IPSec VPN vs SSL VPN
 
@@ -40,7 +40,7 @@ The initial [IPv4](https://en.wikipedia.org/wiki/IPv4) suite was developed with 
 
 The IPsec protocols AH and ESP can be implemented in a host-to-host transport mode, as well as in a network tunneling mode.
 
-<https://en.wikipedia.org/wiki/IPsec>
+https://en.wikipedia.org/wiki/IPsec
 
 ## Openvpn
 
@@ -48,31 +48,31 @@ OpenVPN is a [free and open-source](https://en.wikipedia.org/wiki/Free_and_open-
 
 OpenVPN allows [peers](https://en.wikipedia.org/wiki/Peer-to-peer) to [authenticate](https://en.wikipedia.org/wiki/Authentication) each other using [pre-shared secret keys](https://en.wikipedia.org/wiki/Pre-shared_key), [certificates](https://en.wikipedia.org/wiki/Public_key_certificate) or [username](https://en.wikipedia.org/wiki/User_(computing))/[password](https://en.wikipedia.org/wiki/Password). When used in a multiclient-server configuration, it allows the server to release an [authentication certificate](https://en.wikipedia.org/wiki/Public_key_certificate) for every client, using [signatures](https://en.wikipedia.org/wiki/Digital_signature) and [certificate authority](https://en.wikipedia.org/wiki/Certificate_authority). It uses the [OpenSSL](https://en.wikipedia.org/wiki/OpenSSL) encryption [library](https://en.wikipedia.org/wiki/Library_(computing)) extensively, as well as the [TLS](https://en.wikipedia.org/wiki/Transport_Layer_Security) protocol, and contains many security and control features.
 
-<https://en.wikipedia.org/wiki/OpenVPN>
+https://en.wikipedia.org/wiki/OpenVPN
 
-<https://openvpn.net>
+https://openvpn.net
 
-<https://medium.com/swlh/creating-a-vpn-with-2-factor-authentication-using-openvpn-and-docker-9569e609151a>
+https://medium.com/swlh/creating-a-vpn-with-2-factor-authentication-using-openvpn-and-docker-9569e609151a
 
 ## WireGuard
 
 WireGuard is a novel VPN that runs inside the Linux Kernel and utilizesstate-of-the-art cryptography. It aims to be faster, simpler, leaner, and more useful than IPsec, while avoiding the massive headache. It intends to be considerably more performant than OpenVPN. WireGuard is designed as a general purpose VPN for running on embedded interfaces and super computers alike, fit for many different circumstances. It runs over UDP.
 
-<https://www.wireguard.com>
+https://www.wireguard.com
 
-<https://www.freecodecamp.org/news/how-to-set-up-a-vpn-server-at-home>
+https://www.freecodecamp.org/news/how-to-set-up-a-vpn-server-at-home
 
 ## NGrok
 
 ngrok is a reverse proxy that creates a secure tunnel from a public endpoint to a locally running web service. ngrok captures and analyzes all traffic over the tunnel for later inspection and replay.
 
-<https://ngrok.com>
+https://ngrok.com
 
-<https://github.com/inconshreveable/ngrok>
+https://github.com/inconshreveable/ngrok
 
 ## Secure access service edge (SASE) model
 
-<https://pages.awscloud.com/AWSMP-SEC-NetworkSecurity-Edge-SASE-en.html>
+https://pages.awscloud.com/AWSMP-SEC-NetworkSecurity-Edge-SASE-en.html
 
 ## Cloudflare Zero Trust
 

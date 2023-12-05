@@ -89,6 +89,6 @@ Dividing the cases that reach a certain node in the tree
 
        - the number of cases reaching a node is below a specified limit
 
-<http://www.statsoft.com/textbook/chaid-analysis>
+http://www.statsoft.com/textbook/chaid-analysis
 
-<http://www.public.iastate.edu/~kkoehler/stat557/tree14p.pdf>
+http://www.public.iastate.edu/~kkoehler/stat557/tree14p.pdf

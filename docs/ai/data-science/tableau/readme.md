@@ -12,9 +12,9 @@ Visualization from relational databases and data cubes, OLAP cubes, cloud databa
 
 ## Public Dashboards
 
-<https://www.datacamp.com/community/tutorials/tableau-visualizations-with-measure-names-and-measure-values>
+https://www.datacamp.com/community/tutorials/tableau-visualizations-with-measure-names-and-measure-values
 
-<https://public.tableau.com/en-us/gallery/travel-planner-emissions-calculator>
+https://public.tableau.com/en-us/gallery/travel-planner-emissions-calculator
 
 [https://public.tableau.com/app/discover](https://public.tableau.com/app/discover)
 

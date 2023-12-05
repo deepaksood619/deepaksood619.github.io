@@ -1,6 +1,6 @@
 # kafkacat
 
-<https://github.com/edenhill/kafkacat>
+https://github.com/edenhill/kafkacat
 
 kafkacat is a generic non-JVM producer and consumer for Apache Kafka >=0.8, think of it as a netcat for Kafka.
 
@@ -53,11 +53,11 @@ Output consumed messages in JSON envelope:
 
 Decode Avro key (-s key=avro), value (-s value=avro) or both (-s avro) to JSON using schema from the Schema-Registry:
 
-```kafkacat -b mybroker -t ledger -s avro -r <http://schema-registry-url:8080>```
+```kafkacat -b mybroker -t ledger -s avro -r http://schema-registry-url:8080```
 
 Decode Avro message value and extract Avro record's "age" field:
 
-```kafkacat -b mybroker -t ledger -s value=avro -r <http://schema-registry-url:8080> | jq .payload.age```
+```kafkacat -b mybroker -t ledger -s value=avro -r http://schema-registry-url:8080 | jq .payload.age```
 
 Decode key as 32-bit signed integer and value as 16-bit signed integer followed by an unsigned byte followed by string:
 
@@ -155,7 +155,7 @@ Produce with headers:
 
 `kafkacat - Apache Kafka producer and consumer tool`
 
-<https://github.com/edenhill/kafkacat>
+https://github.com/edenhill/kafkacat
 
 ```bash
 -C | -P | -L | -Q  Mode: Consume, Produce, Metadata List, Query mode

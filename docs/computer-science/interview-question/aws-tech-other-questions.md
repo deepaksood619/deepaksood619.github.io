@@ -43,12 +43,12 @@ how to decide that should I keep value in each row or normalize further database
   - **HPA takes into account both pods requests together in CPU and not on a single pod**
   - **Grafana workload dashboard shows wrong CPU Limits for a pod**
 - right way to pass config and env variables in python application with all checks
-  - <https://hackersandslackers.com/simplify-your-python-projects-configuration>
+  - https://hackersandslackers.com/simplify-your-python-projects-configuration
 - Kafka Compression (using snappy, how to do it?)
   - Set topic level compression as snappy but topic log shows data as plaintext
   - Set producer level compression but log shows data as plaintext
   - Consumer with kafkacat shows plain text packets sizes
-  - <https://github.com/confluentinc/confluent-kafka-python/issues/881>
+  - https://github.com/confluentinc/confluent-kafka-python/issues/881
 - how does grpc server side streaming work
   - How much clients can grpc handle
   - Do we have to add nginx proxy infront
@@ -63,17 +63,17 @@ how to decide that should I keep value in each row or normalize further database
 
 You can't pull data from AWS RDS to S3 using Athena. Athena is a query engine over S3 data. To be able to extract data from RDS to S3, you can run a Glue job to read from a particular RDS table and create S3 dump in parquet format which will create another external table pointing to S3 data. Then you can query that S3 data using Athena.
 
-<https://stackoverflow.com/questions/53717151/pipeline-from-aws-rds-to-s3-using-glue>
+https://stackoverflow.com/questions/53717151/pipeline-from-aws-rds-to-s3-using-glue
 
-<https://blog.panoply.io/an-amazonian-battle-comparing-athena-and-redshift>
+https://blog.panoply.io/an-amazonian-battle-comparing-athena-and-redshift
 
-<https://blog.openbridge.com/the-definitive-setup-guide-for-aws-athena-analytics-343c507d8449>
+https://blog.openbridge.com/the-definitive-setup-guide-for-aws-athena-analytics-343c507d8449
 
 We have our data source in Amazon Aurora, We run an ETL that sends this data to Amazon Redshift for analytics. We are looking for a data warehousing solution so ETL can be streamlined. We are currently looking at Amazon Athena, Glue, Redshift Spectrum.
 
 **Direct RDS to Redshift Sync (row based logging)**
 
-<https://aws.amazon.com/blogs/aws/fast-easy-free-sync-rds-to-redshift>
+https://aws.amazon.com/blogs/aws/fast-easy-free-sync-rds-to-redshift
 
 ### Personal Questions
 

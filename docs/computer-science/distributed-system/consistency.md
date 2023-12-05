@@ -63,7 +63,7 @@ Strong consistency is a model that is most familiar to database developers, give
 
 Under external consistency, the system behaves as if all transactions were executed sequentially, even though Cloud Spanner actually runs them across multiple servers (and possibly in multiple datacenters) for higher performance and availability.
 
-<https://cloud.google.com/spanner/docs/true-time-external-consistency>
+https://cloud.google.com/spanner/docs/true-time-external-consistency
 
 ![image](../../media/Consistency-image1.jpg)
 
@@ -99,4 +99,4 @@ Conclusion
 
 ## References
 
-<https://www.dotconferences.com/2015/06/dan-brown-convergent-replicated-data-types>
+https://www.dotconferences.com/2015/06/dan-brown-convergent-replicated-data-types

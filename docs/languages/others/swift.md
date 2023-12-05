@@ -60,8 +60,8 @@ print("Value of (varA) is more than (varB) millions")
 
 ## Resources
 
-<https://github.com/raywenderlich/swift-algorithm-club>
+https://github.com/raywenderlich/swift-algorithm-club
 
-<https://developer.apple.com/library/content/documentation/Swift/Conceptual/Swift_Programming_Language/TheBasics.html#//apple_ref/doc/uid/TP40014097-CH5-ID309>
+https://developer.apple.com/library/content/documentation/Swift/Conceptual/Swift_Programming_Language/TheBasics.html#//apple_ref/doc/uid/TP40014097-CH5-ID309
 
-<https://www.tutorialspoint.com/swift>
+https://www.tutorialspoint.com/swift

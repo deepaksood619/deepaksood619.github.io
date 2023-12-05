@@ -65,4 +65,4 @@ con.commit()
 
 This method commits the current transaction. If you don't call this method, anything you did since the last call tocommit()is not visible from other database connections.
 
-<https://docs.python.org/3/library/sqlite3.html>
+https://docs.python.org/3/library/sqlite3.html

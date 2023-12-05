@@ -156,4 +156,4 @@ Not supported for docker stack deploy
 
 ## References
 
-<https://docs.docker.com/compose/compose-file>
+https://docs.docker.com/compose/compose-file

@@ -2,7 +2,7 @@
 
 ## To read
 
-- <http://beyondthetechrevolution.com/technological-revolutions-and-financial-capital>
+- http://beyondthetechrevolution.com/technological-revolutions-and-financial-capital
 
 University of Berkshire Hathaway
 
@@ -20,7 +20,7 @@ Incentive Bias
 
 - Right incentive can ensure right behavior
 
-<https://fs.blog/bias-incentives-reinforcement>
+https://fs.blog/bias-incentives-reinforcement
 
 When people say they don't want to change what they really mean is they don't have an incentive to change.
 
@@ -34,9 +34,9 @@ Thelaworprinciple of comparative advantageholds that under [free trade](https://
 
 [Comparative Advantage](https://en.wikipedia.org/wiki/Comparative_advantage#More_recent_evidence) - "An agent has a comparative advantage over another in producing a particular good if they can produce that good at a lower relative opportunity cost or autarky price, i.e. at a lower relative marginal cost prior to trade."
 
-<https://en.wikipedia.org/wiki/Comparative_advantage>
+https://en.wikipedia.org/wiki/Comparative_advantage
 
-<https://dariusforoux.com/opportunity-cost>
+https://dariusforoux.com/opportunity-cost
 
 ## Diversification
 
@@ -44,13 +44,13 @@ In finance, diversificationis the process of allocating capital in a way that re
 
 Diversification is one of two general techniques for reducing investment risk. The other is [hedging](https://en.wikipedia.org/wiki/Hedge_(finance))
 
-<https://en.wikipedia.org/wiki/Diversification_(finance)>
+https://en.wikipedia.org/wiki/Diversification_(finance)
 
 ## Hedge
 
 Ahedgeis an investment position intended to offset potential losses or gains that may be incurred by a companion investment. In simple language, a hedge is a [risk management](https://en.wikipedia.org/wiki/Risk_management) technique used to reduce any substantial losses or gains suffered by an individual or an organization.
 
-<https://en.wikipedia.org/wiki/Hedge_(finance)>
+https://en.wikipedia.org/wiki/Hedge_(finance)
 
 ## Economies of scale
 
@@ -60,7 +60,7 @@ Economies of scale apply to a variety of organizational and business situations 
 
 Another source of scale economies is the possibility of purchasing inputs at a lower per-unit cost when they are purchased in large quantities.
 
-<https://en.wikipedia.org/wiki/Economies_of_scale>
+https://en.wikipedia.org/wiki/Economies_of_scale
 
 ## Efficient market hypothesis (EMH)
 
@@ -72,7 +72,7 @@ There are three variants of the hypothesis: "weak", "semi-strong", and "strong" 
 
 There is no quantitative measure of market efficiency and testing the idea is difficult. So-called "effect studies" provide some of the best evidence, but they are open to other interpretations. Critics have blamed the belief in [rational markets](https://en.wikipedia.org/wiki/Rational_expectations) for much of the [late-2000s financial crisis](https://en.wikipedia.org/wiki/Late-2000s_financial_crisis).In response, proponents of the hypothesis have stated that market efficiency does not mean not having any uncertainty about the future; that market efficiency is a simplification of the world which may not always hold true; and that the market is practically efficient for investment purposes for most individuals.
 
-<https://en.wikipedia.org/wiki/Efficient-market_hypothesis>
+https://en.wikipedia.org/wiki/Efficient-market_hypothesis
 
 ## Game Theory
 
@@ -85,7 +85,7 @@ Game theory is the study of [mathematical models](https://en.wikipedia.org/wiki/
 - Competitive Game Theory
 - Cooperative Game Theory (for friends)
 
-<https://en.wikipedia.org/wiki/Game_theory>
+https://en.wikipedia.org/wiki/Game_theory
 
 ## Scarcity
 
@@ -101,7 +101,7 @@ In [microeconomics](https://en.wikipedia.org/wiki/Microeconomics), supply and de
 
 In [finance](https://en.wikipedia.org/wiki/Finance) and [economics](https://en.wikipedia.org/wiki/Economics), thegreater fool theory states that the [price](https://en.wikipedia.org/wiki/Price) of an object is determined not by its [intrinsic value](https://en.wikipedia.org/wiki/Intrinsic_value_(finance)), but rather by the local and relative demand of a specific consumer. In an inflated market, a consumer, despite having broader market knowledge might pay an inflated price because of their needs and the local related-market value. Another consumer relative to their needs and assessment of market value may deem the price excessive. Thus to one consumer the commodity has a greater value than to another making the former look like a fool to the latter.
 
-<https://en.wikipedia.org/wiki/Greater_fool_theory>
+https://en.wikipedia.org/wiki/Greater_fool_theory
 
 ## The Reward to Risk Ratio (RRR)
 
@@ -119,7 +119,7 @@ Nobel Laureate Thomas Schelling, a game theorist, coined the term **"value of a 
 
 The paradox of thrift, or paradox of savings, is an economic theorywhich posits that personal savings are a net drag on the economy during a recession. This theory relies on the assumption that prices do not clear or that producers fail to adjust to changing conditions, contrary to the expectations of classical microeconomics. The paradox of thrift was popularized by British economist John Maynard Keynes.
 
-<https://www.investopedia.com/terms/p/paradox-of-thrift.asp>
+https://www.investopedia.com/terms/p/paradox-of-thrift.asp
 
 ## Rule of three (Bruce Henderson of the Boston Consulting Group)
 
@@ -160,7 +160,7 @@ Cantillon effect explains how changes in the supply of money in an economy can a
 
 - [Minimum Viable Product](https://en.wikipedia.org/wiki/Minimum_viable_product)(MVP) - "A product with just enough features to gather validated learning about the product and its continued development." (related:[perfect is the enemy of good](https://en.wikipedia.org/wiki/Perfect_is_the_enemy_of_good);[de-risking](https://codingvc.com/how-to-de-risk-a-startup);[Customer Development](https://en.wikipedia.org/wiki/Customer_Development), "Get out of the building.")
 
-<https://www.freecodecamp.org/news/minimum-viable-product-between-an-idea-and-the-product>
+https://www.freecodecamp.org/news/minimum-viable-product-between-an-idea-and-the-product
 
 - [Product/Market Fit](https://en.wikipedia.org/wiki/Product/market_fit) - "the degree to which a product satisfies a strong market demand." (related:[pivot](https://en.wikipedia.org/wiki/Lean_startup#Pivot) - "structured course correction designed to test a new fundamental hypothesis about the product, strategy, and engine of growth.", "rebuilding year")
 - [Reversible vs Irreversible Decisions](https://steveblank.com/2009/04/10/good-enough-decision-making/) - For reversible decisions: "If the decision was a bad call you can unwind it in a reasonable period of time. An irreversible decision is firing an employee, launching your product, a five-year lease for an expensive new building, etc. These are usually difficult or impossible to reverse." (related: Jeff Bezos on [Type 1, Type 2 decisions](http://www.businessinsider.com/jeff-bezos-on-type-1-and-type-2-decisions-2016-4))
@@ -245,9 +245,9 @@ While someone may be improving on an absolute basis, they are often getting wors
   - The growth-share matrix aids the company in deciding which products or units to either keep, sell, or invest more in.
   - The BCG growth-share matrix contains four distinct categories: "dogs," "cash cows," "stars," and "question marks."
 
-<https://www.bcg.com/about/overview/our-history/growth-share-matrix>
+https://www.bcg.com/about/overview/our-history/growth-share-matrix
 
-<https://www.investopedia.com/terms/b/bcg.asp>
+https://www.investopedia.com/terms/b/bcg.asp
 
 - Risk-Reward Equation should be positive. You should know the BAONW (Best Alternative of Not Winning). Do not take insensible risk at the start of your career.
 - Risk taking comes from practice. Start experimenting with 10% of your time and 10% of your money.

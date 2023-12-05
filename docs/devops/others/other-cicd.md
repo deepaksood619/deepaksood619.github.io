@@ -5,25 +5,25 @@
 - CD - Continuous Deployment (deploying those artifacts / images)
 - CV - Continuous Verification
 
-<https://github.com/theonedev/onedev>
+https://github.com/theonedev/onedev
 
 ## Github Actions - Workflow automation
 
-<https://github.com/marketplace>
+https://github.com/marketplace
 
-<https://github.blog/2019-08-08-github-actions-now-supports-ci-cd>
+https://github.blog/2019-08-08-github-actions-now-supports-ci-cd
 
-Sign up for beta - <https://github.com/features/actions>
+Sign up for beta - https://github.com/features/actions
 
-<https://dev.to/bnb/an-unintentionally-comprehensive-introduction-to-github-actions-ci-blm>
+https://dev.to/bnb/an-unintentionally-comprehensive-introduction-to-github-actions-ci-blm
 
-<https://blog.kontena.io/deploying-to-kubernetes-from-github-actions>
+https://blog.kontena.io/deploying-to-kubernetes-from-github-actions
 
-<https://help.github.com/en/categories/automating-your-workflow-with-github-actions>
+https://help.github.com/en/categories/automating-your-workflow-with-github-actions
 
-<https://github.com/Azure/k8s-actions>
+https://github.com/Azure/k8s-actions
 
-<https://dev.to/bnb/an-unintentionally-comprehensive-introduction-to-github-actions-ci-blm>
+https://dev.to/bnb/an-unintentionally-comprehensive-introduction-to-github-actions-ci-blm
 
 [Continuous Delivery: GitHub Actions (Developer Workflow Automation with GitHub Actions CICD)](https://www.youtube.com/watch?v=cKMO0aeh8GI&ab_channel=CodingTech)
 
@@ -42,21 +42,21 @@ Sign up for beta - <https://github.com/features/actions>
 brew install act
 ```
 
-<https://github.com/nektos/act>
+https://github.com/nektos/act
 
 **Run github actions on K8s cluster**
 
-<https://medium.com/nerd-for-tech/github-actions-self-hosted-runner-on-kubernetes-55d077520a31>
+https://medium.com/nerd-for-tech/github-actions-self-hosted-runner-on-kubernetes-55d077520a31
 
 ## Spinnaker
 
-<https://www.spinnaker.io/concepts>
+https://www.spinnaker.io/concepts
 
 ![image](../../media/DevOps-Others-Other-CICD-image1.jpg)
 
 ## Jenkins Operator
 
-<https://jenkinsci.github.io/kubernetes-operator>
+https://jenkinsci.github.io/kubernetes-operator
 
 ## Weave Flux
 
@@ -80,7 +80,7 @@ The benefits are: you don't need to grant your CI access to the cluster, every c
 
 ![image](../../media/DevOps-Others-Other-CICD-image3.jpg)
 
-<https://github.com/fluxcd/flux>
+https://github.com/fluxcd/flux
 
 ## Tekton (+1)
 
@@ -96,13 +96,13 @@ Tekton is a powerful and flexibleopen-source framework for creating CI/CD system
 - TaskRun
 - PipelineRun
 
-<https://cloud.google.com/tekton>
+https://cloud.google.com/tekton
 
-<https://github.com/tektoncd/pipeline>
+https://github.com/tektoncd/pipeline
 
-<https://tekton.dev>
+https://tekton.dev
 
-<https://github.com/tektoncd/dashboard>
+https://github.com/tektoncd/dashboard
 
 [How to Build Cloud-Native CI/CD Pipelines With Tekton on Kubernetes- Speakers: Nikhil Thomas](https://www.youtube.com/watch?v=-ji5Z0qJmJs)
 
@@ -112,7 +112,7 @@ Kubernetes Operator to automate Helm, DaemonSet, StatefulSet & Deployment update
 
 [https://keel.sh](https://keel.sh/)
 
-<https://github.com/keel-hq/keel>
+https://github.com/keel-hq/keel
 
 ## DroneCI
 
@@ -122,21 +122,21 @@ Drone is a Container-Native, Continuous Delivery Platform
 
 Drone is a Continuous Delivery system built on container technology. Drone uses a simple YAML configuration file, a superset of docker-compose, to define and execute Pipelines inside Docker containers.
 
-<https://drone.io>
+https://drone.io
 
-<https://github.com/drone/drone>
+https://github.com/drone/drone
 
-<https://www.youtube.com/watch?v=myCcJJ_Fk10>
+https://www.youtube.com/watch?v=myCcJJ_Fk10
 
 ## Concourse
 
-<https://github.com/concourse/concourse>
+https://github.com/concourse/concourse
 
-<https://concourse-ci.org>
+https://concourse-ci.org
 
 ## CicleCI
 
-<https://www.youtube.com/watch?v=kDWHPlrEgEY>
+https://www.youtube.com/watch?v=kDWHPlrEgEY
 
 ## Argo
 
@@ -167,19 +167,19 @@ Event based dependency manager for Kubernetes
 
 What Argo does differently is how they manage the actual CI/CD. It is specifically developed for Kubernetes and integrates with it through CRD's (Custom Resource Definitions). It defines a new CRD which is the 'Workflow'. In this workflow you define what needs to happen by laying out steps in a yaml format. Each step runs inits own Docker containeron your own Kubernetes cluster.
 
-<https://github.com/argoproj/argo>
+https://github.com/argoproj/argo
 
-<https://argoproj.github.io>
+https://argoproj.github.io
 
 ### Others
 
-<https://argoproj.github.io/argo-rollouts>
+https://argoproj.github.io/argo-rollouts
 
-<https://argoproj.github.io/argo-events/setup/kafka>
+https://argoproj.github.io/argo-events/setup/kafka
 
 ## CI/CD
 
-<https://medium.com/axons/ci-cd-with-argo-on-kubernetes-28c1a99616a9>
+https://medium.com/axons/ci-cd-with-argo-on-kubernetes-28c1a99616a9
 
 [**https://medium.com/@andrew.kaczynski/gitops-in-kubernetes-argo-cd-and-gitlab-ci-cd-5828c8eb34d6**](https://medium.com/@andrew.kaczynski/gitops-in-kubernetes-argo-cd-and-gitlab-ci-cd-5828c8eb34d6)
 
@@ -187,17 +187,17 @@ What Argo does differently is how they manage the actual CI/CD. It is specifical
 
 [**https://docs.gitlab.com/ee/ci/yaml/index.html**](https://docs.gitlab.com/ee/ci/yaml/index.html)
 
-<https://www.youtube.com/watch?v=LSdZj9X4MCM>
+https://www.youtube.com/watch?v=LSdZj9X4MCM
 
-<https://www.freecodecamp.org/news/devops-with-gitlab-ci-course>
+https://www.freecodecamp.org/news/devops-with-gitlab-ci-course
 
 [**https://dev.to/codicacom/how-to-deploy-a-static-website-to-aws-with-gitlab-ci-4g32**](https://dev.to/codicacom/how-to-deploy-a-static-website-to-aws-with-gitlab-ci-4g32)
 
-<https://about.gitlab.com/blog/2021/02/05/ci-deployment-and-environments>
+https://about.gitlab.com/blog/2021/02/05/ci-deployment-and-environments
 
 [**https://docs.gitlab.com/ee/ci/cloud_deployment/index.html#aws**](https://docs.gitlab.com/ee/ci/cloud_deployment/index.html#aws)
 
-<https://docs.gitlab.com/ee/ci/variables>
+https://docs.gitlab.com/ee/ci/variables
 
 [**https://docs.gitlab.com/ee/ci/variables/predefined_variables.html**](https://docs.gitlab.com/ee/ci/variables/predefined_variables.html)
 

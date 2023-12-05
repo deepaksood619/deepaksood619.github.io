@@ -29,13 +29,13 @@ Stream-processing technologies typically used in this layer include [Apache Stor
 Output from the batch and speed layers are stored in the serving layer, which responds to ad-hoc queries by returning precomputed views or building views from the processed data.
 Examples of technologies used in the serving layer include [Druid](https://en.wikipedia.org/wiki/Druid_(open-source_data_store)), which provides a single cluster to handle output from both layers.Dedicated stores used in the serving layer include [Apache Cassandra](https://en.wikipedia.org/wiki/Apache_Cassandra), [Apache HBase](https://en.wikipedia.org/wiki/Apache_HBase), [MongoDB](https://en.wikipedia.org/wiki/MongoDB), [VoltDB](https://en.wikipedia.org/wiki/VoltDB) or [Elasticsearch](https://en.wikipedia.org/wiki/Elasticsearch) for speed-layer output, and [Elephant DB](https://github.com/nathanmarz/elephantdb), [Apache Impala](https://en.wikipedia.org/wiki/Apache_Impala), [SAP HANA](https://en.wikipedia.org/wiki/SAP_HANA) or [Apache Hive](https://en.wikipedia.org/wiki/Apache_Hive) for batch-layer output.
 
-<https://en.wikipedia.org/wiki/Lambda_architecture>
+https://en.wikipedia.org/wiki/Lambda_architecture
 
 ## Common Lambda Architectures: Kafka, Spark, and MongoDB/Elasticsearch
 
 If you are a data practitioner, you would probably have either implemented or used a data processing platform that incorporates the Lambda architecture. A common implementation would have large batch jobs in Hadoop complemented by an update stream stored in Apache Kafka. Apache Spark is often used to read this data stream from Kafka, perform transformations, and then write the result to another Kafka log. In most cases, this would not be a single Spark job but a pipeline of Spark jobs. Each Spark job in the pipeline would read data produced by the previous job, do its own transformations, and feed it to the next job in the pipeline. The final output would be written to a serving system like Apache Cassandra, Elasticsearch or MongoDB.
 
-[What Is Lambda Architecture?](<https://www.databricks.com/glossary/lambda-architecture>
+[What Is Lambda Architecture?](https://www.databricks.com/glossary/lambda-architecture
 
 ## Shortcomings of Lambda Architecture
 
@@ -45,6 +45,6 @@ If you are a data practitioner, you would probably have either implemented or us
 
 3. Most of the data transformation happens as new data enters the system at write time, whereas the serving layer is a simpler key-value lookup that does not handle complex transformations. This complicates the job of the application developer because she/he cannot easily apply new transformations retroactively on pre-existing data.
 
-<https://rockset.com/blog/aggregator-leaf-tailer-an-architecture-for-live-analytics-on-event-streams>
+https://rockset.com/blog/aggregator-leaf-tailer-an-architecture-for-live-analytics-on-event-streams
 
 ## Others - ALT (Aggregator Leaf Tailer)

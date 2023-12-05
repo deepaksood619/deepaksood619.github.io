@@ -19,10 +19,10 @@
 
 #### MERN - MongoDB, Expressjs, React, Nodejs
 
-<https://www.geeksforgeeks.org/mern-stack>
+https://www.geeksforgeeks.org/mern-stack
 
 [MERN Stack Tutorial - Book Store Project - YouTube](https://www.youtube.com/watch?v=-42K44A1oMA)
 
 #### PERN - Postgres, Express, React, Node
 
-<https://www.freecodecamp.org/news/learn-the-pern-stack-full-course>
+https://www.freecodecamp.org/news/learn-the-pern-stack-full-course

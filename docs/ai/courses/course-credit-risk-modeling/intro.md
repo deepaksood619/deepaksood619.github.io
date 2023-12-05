@@ -74,7 +74,7 @@ A dummy [independent variable](https://en.wikipedia.org/wiki/Dependent_and_indep
 
 Dummy variables are used frequently in [time series analysis](https://en.wikipedia.org/wiki/Time_series_analysis) with regime switching, seasonal analysis and qualitative data applications.
 
-<https://en.wikipedia.org/wiki/Dummy_variable_(statistics)>
+https://en.wikipedia.org/wiki/Dummy_variable_(statistics)
 
 We need only k-1 dummy variables to represent the information about k categories.
 
@@ -82,7 +82,7 @@ We need only k-1 dummy variables to represent the information about k categories
 
 To what extent an independent variable would predict a dependent variable
 
-<https://www.listendata.com/2015/03/weight-of-evidence-woe-and-information.html>
+https://www.listendata.com/2015/03/weight-of-evidence-woe-and-information.html
 
 ## Fine classing
 
@@ -199,9 +199,9 @@ A change in the population distribution can be due to:
 - Issues in data integration which might result in erroneous data
 - Issues while programming/coding, such as model implementation or missing some crucial steps of the scoring code
 
-<https://www.listendata.com/2015/05/population-stability-index.html>
+https://www.listendata.com/2015/05/population-stability-index.html
 
-<https://towardsdatascience.com/psi-and-csi-top-2-model-monitoring-metrics-924a2540bed8>
+https://towardsdatascience.com/psi-and-csi-top-2-model-monitoring-metrics-924a2540bed8
 
 ### Population Stability Index (PSI)
 
@@ -231,7 +231,7 @@ It answers which variable is causing a shift in population distribution. It comp
 
 It helps to determine which changing variable is responsible majorly for causing the model score shift.
 
-When a model deteriorates in performance, checking distributional changes in the model variables can help with identifying possible causes. This is a step that is taken generally after one has checked PSI and it's not in the green zone (<0.1 in general) to check that the overall population distribution can be attributed majorly to which variables.
+When a model deteriorates in performance, checking distributional changes in the model variables can help with identifying possible causes. This is a step that is taken generally after one has checked PSI and it's not in the green zone (< 0.1 in general) to check that the overall population distribution can be attributed majorly to which variables.
 
 At least one variable that has changed significantly or if several variables have moved to some extent, it might be time to recalibrate or to rebuild the model.
 

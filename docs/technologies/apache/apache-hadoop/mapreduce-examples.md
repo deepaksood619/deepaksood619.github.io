@@ -50,4 +50,4 @@
 
 ## MapReduce: Simplified Data Processing on Large Clusters
 
-<https://ai.google/research/pubs/pub62>
+https://ai.google/research/pubs/pub62

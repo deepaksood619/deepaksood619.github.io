@@ -8,7 +8,7 @@ As [Albert Einstein](https://en.wikipedia.org/wiki/Albert_Einstein) wrote
 
 It seems as though we must use sometimes the one theory and sometimes the other, while at times we may use either. We are faced with a new kind of difficulty. We have two contradictory pictures of reality; separately neither of them fully explains the phenomena of light, but together they do.
 
-<https://en.wikipedia.org/wiki/Wave%E2%80%93particle_duality>
+https://en.wikipedia.org/wiki/Wave%E2%80%93particle_duality
 
 ## Hysteresis
 
@@ -16,7 +16,7 @@ the phenomenon in which the value of a physical property lags behind changes in 
 
 ## Quantum Mechanics
 
-<https://publish.obsidian/myquantumwell/Welcome+to+The+Quantum+Well>
+https://publish.obsidian/myquantumwell/Welcome+to+The+Quantum+Well
 
 [A future with quantum biology - with Alexandra Olaya-Castro](https://www.youtube.com/watch?v=rYYHQYx_QvY)
 

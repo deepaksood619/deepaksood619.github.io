@@ -46,9 +46,9 @@ An ROC curve is a graph showing the performance of a classification model at all
 - True Positive Rate
 - False Positive Rate
 
-<https://developers.google.com/machine-learning/crash-course/classification/roc-and-auc>
+https://developers.google.com/machine-learning/crash-course/classification/roc-and-auc
 
-<https://towardsdatascience.com/understanding-auc-roc-curve-68b2303cc9c5>
+https://towardsdatascience.com/understanding-auc-roc-curve-68b2303cc9c5
 
 ![image](../../media/Confusion-Matrix-image3.jpg)
 
@@ -71,10 +71,10 @@ recall = TPR = TP / (TP+FN)
 
 Since precision-recall curves do not consider true negatives, they should only be used [when specificity is of no concern for the classifier](https://www.datascienceblog.net/post/machine-learning/specificity-vs-precision/).
 
-<https://www.datascienceblog.net/post/machine-learning/interpreting-roc-curves-auc>
+https://www.datascienceblog.net/post/machine-learning/interpreting-roc-curves-auc
 
-<https://www.datascienceblog.net/post/machine-learning/specificity-vs-precision>
+https://www.datascienceblog.net/post/machine-learning/specificity-vs-precision
 
-<https://machinelearningmastery.com/roc-curves-and-precision-recall-curves-for-imbalanced-classification>
+https://machinelearningmastery.com/roc-curves-and-precision-recall-curves-for-imbalanced-classification
 
-<https://machinelearningmastery.com/roc-curves-and-precision-recall-curves-for-classification-in-python>
+https://machinelearningmastery.com/roc-curves-and-precision-recall-curves-for-classification-in-python

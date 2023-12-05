@@ -69,7 +69,7 @@ Domain-Driven-Design for the N-Tier Architecture
 
 Daisy Architecture
 
-<http://www.codeproject.com/Articles/1182588/Application-Architecture-First-Know-Dependency-Bef>
+http://www.codeproject.com/Articles/1182588/Application-Architecture-First-Know-Dependency-Bef
 
 Visible Dependencies
 

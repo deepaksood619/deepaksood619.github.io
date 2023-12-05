@@ -54,7 +54,7 @@ Open two instance of same application - **open -n MQTT.fx.app**
 ## Setting up MAC
 
 - **Add iterm2** - download from web, details below
-- Install brew - command on official website (/bin/bash -c "$(curl -fsSL <https://raw.githubusercontent.com/Homebrew/install/master/install.sh>)")
+- Install brew - command on official website (/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)")
 - Add zsh - details below
 - **Add docker**
 - ~~Add Anaconda~~
@@ -107,7 +107,7 @@ Open two instance of same application - **open -n MQTT.fx.app**
 | Open the JavaScript Console | ⌘ + Option + j |
 | Search the web | ⌘ + Option + f |
 
-<https://www.google.com/inputtools>
+https://www.google.com/inputtools
 
 [Chrome keyboard shortcuts - Computer - Google Chrome Help](https://support.google.com/chrome/answer/157179)
 
@@ -190,10 +190,10 @@ brew services cleanup
 - tree (directory tree structure)
 - mysql-client / mysql@5.7
 - bat
-- ~~neovim~~ - <https://github.com/neovim/neovim>
-- ~~fzf (A command-line fuzzy finder) - ~~<https://github.com/junegunn/fzf>
+- ~~neovim~~ - https://github.com/neovim/neovim
+- ~~fzf (A command-line fuzzy finder) - ~~https://github.com/junegunn/fzf
 - [GitHub - ellie/atuin: 🐢 Magical shell history](https://github.com/ellie/atuin)
-- ~~the_silver_searcher (command ag "services") - ~~<https://github.com/ggreer/the_silver_searcher>
+- ~~the_silver_searcher (command ag "services") - ~~https://github.com/ggreer/the_silver_searcher
 - **hstr**
 
    ```bash
@@ -202,21 +202,21 @@ brew services cleanup
    export HSTR_CONFIG=hicolor, raw-history-view
 
    ## ctrl+r
-   <https://github.com/dvorka/hstr>
+   https://github.com/dvorka/hstr
    ```
 
 - **awscli**
 - **python3**
 - moreutils
-- thefuck - <https://github.com/nvbn/thefuck>
-- **tldr -** <https://tldr.sh> <https://github.com/tldr-pages/tldr>
+- thefuck - https://github.com/nvbn/thefuck
+- **tldr -** https://tldr.sh> <https://github.com/tldr-pages/tldr
 - brew install pre-commit
 - rename
-- <https://fig.io>
+- https://fig.io
 
 ```bash
 brew install --cask fig
-# <https://github.com/withfig/autocomplete>
+# https://github.com/withfig/autocomplete
 
 fig doctor       check if Fig is properly configured
 fig settings     update preferences (keybindings, UI, and more)
@@ -248,7 +248,7 @@ Unchecking the "User interface sounds" doesn't disable all sound. But sliding th
 
 - Theme powerlevel10k
 
-   <https://gist.github.com/kevin-smets/8568070>
+   https://gist.github.com/kevin-smets/8568070
 
    Command - `git clone https://github.com/romkatv/powerlevel10k.git $ZSH_CUSTOM/themes/powerlevel10k`
 
@@ -258,7 +258,7 @@ Unchecking the "User interface sounds" doesn't disable all sound. But sliding th
 
    `git clone https://github.com/zsh-users/zsh-autosuggestions ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-autosuggestions`
 
-   <https://github.com/zsh-users/zsh-autosuggestions/blob/master/INSTALL>
+   https://github.com/zsh-users/zsh-autosuggestions/blob/master/INSTALL
 
  add plugin to plugins in zshrc
 
@@ -363,15 +363,15 @@ alias file_decrypt='openssl enc -d -aes-256-cbc -salt -pbkdf2 -in enc_file.md.en
 - Suffix Alias (-s)
 - Global Alias (-g)
 
-<https://thorsten-hans.com/5-types-of-zsh-aliases>
+https://thorsten-hans.com/5-types-of-zsh-aliases
 
 ### References
 
-<https://medium.com/better-programming/6-must-have-tools-for-developers-430fd56933dd>
+https://medium.com/better-programming/6-must-have-tools-for-developers-430fd56933dd
 
-<https://github.com/trimstray/the-book-of-secret-knowledge>
+https://github.com/trimstray/the-book-of-secret-knowledge
 
-<https://github.com/jaywcjlove/awesome-mac>
+https://github.com/jaywcjlove/awesome-mac
 
 ### Cleanup
 
@@ -397,7 +397,7 @@ do
 done
 ```
 
-<https://about.gitlab.com/blog/2020/01/30/simple-trick-for-smaller-screenshots>
+https://about.gitlab.com/blog/2020/01/30/simple-trick-for-smaller-screenshots
 
 ### ipv6 disable
 
@@ -415,6 +415,6 @@ sudo sysctl -w net.ipv6.conf.default.disable_ipv6=1
 
 **windows**
 
-<https://networking.grok.lsu.edu/article.aspx?articleid=17573>
+https://networking.grok.lsu.edu/article.aspx?articleid=17573
 
 settings (google search - how to disable ipv6 in windows)

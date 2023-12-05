@@ -10,7 +10,7 @@
 - Kullback-Leibler Divergence
 - Gradient Descent
 
-<https://www.datacamp.com/community/tutorials/demystifying-mathematics-concepts-deep-learning>
+https://www.datacamp.com/community/tutorials/demystifying-mathematics-concepts-deep-learning
 
 ## Norm
 
@@ -18,7 +18,7 @@ In [mathematics](https://en.wikipedia.org/wiki/Mathematics), anormis a [function
 
 A pseudo norm or seminorm satisfies the first two properties of a norm, but may be zero for other vectors than the origin.A vector space with a specified norm is called a [normed vector space](https://en.wikipedia.org/wiki/Normed_vector_space). In a similar manner, a vector space with a seminorm is called aseminormed vector space.
 
-<https://en.wikipedia.org/wiki/Norm_(mathematics)>
+https://en.wikipedia.org/wiki/Norm_(mathematics)
 
 ## Vector Norm
 
@@ -31,4 +31,4 @@ The length of a vector is a nonnegative number that describes the extent of the 
 - The L2 norm that is calculated as the square root of the sum of the squared vector values.
 - The max norm that is calculated as the maximum vector values.
 
-<https://machinelearningmastery.com/vector-norms-machine-learning>
+https://machinelearningmastery.com/vector-norms-machine-learning

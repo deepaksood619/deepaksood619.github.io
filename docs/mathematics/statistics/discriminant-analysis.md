@@ -21,4 +21,4 @@ The steps involved in conducting discriminant analysis are as follows:
 - One must interpret the results obtained.
 - The last and the most important step is to assess the validity.
 
-<http://www.statisticssolutions.com/discriminant-analysis>
+http://www.statisticssolutions.com/discriminant-analysis

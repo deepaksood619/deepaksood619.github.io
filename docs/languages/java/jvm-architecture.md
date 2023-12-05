@@ -74,7 +74,7 @@ The bytecode which is assigned to theRuntime Data Areawill be executed by the Ex
 
 - Garbage Collector: Garbage Collector is a part of Execution Engine, it collects/removes the unreferenced objects. Garbage Collection can be triggered by calling"System.gc()", but the execution is not guaranteed.Garbage collector of JVM collects only those objects that are created bynewkeyword. So if you have created any object withoutnew, you can usefinalize methodto perform cleanup.
 
-<https://www.javainterviewpoint.com/java-virtual-machine-architecture-in-java>
+https://www.javainterviewpoint.com/java-virtual-machine-architecture-in-java
 
 ## Java Native Interface (JNI)
 
@@ -101,4 +101,4 @@ At a glance, ZGC is:
 
 At its core, ZGC is a concurrent garbage collector, meaning all heavy lifting work is done whileJava threads continue to execute. This greatly limits the impact garbage collection will have on your application's response time.
 
-<https://wiki.openjdk.java.net/display/zgc/Main>
+https://wiki.openjdk.java.net/display/zgc/Main

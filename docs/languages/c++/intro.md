@@ -28,7 +28,7 @@ The . (dot) operator and the -> (arrow) operator are used to reference individua
 
 The dot operator is applied to the actual object. The arrow operator is used with a pointer to an object.
 
-<https://www.tutorialspoint.com/cplusplus/cpp_member_operators>
+https://www.tutorialspoint.com/cplusplus/cpp_member_operators
 
 ## Constants
 
@@ -67,8 +67,8 @@ Every object in C++ has access to its own address through an important pointer c
 
 ## C
 
-<https://www.freecodecamp.org/news/the-c-beginners-handbook>
+https://www.freecodecamp.org/news/the-c-beginners-handbook
 
 ## Pointers in C
 
-<https://www.freecodecamp.org/news/pointers-in-c-are-not-as-difficult-as-you-think>
+https://www.freecodecamp.org/news/pointers-in-c-are-not-as-difficult-as-you-think

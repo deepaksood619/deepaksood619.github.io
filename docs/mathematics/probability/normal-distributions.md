@@ -55,4 +55,4 @@ The normal distribution is useful because of the [central limit theorem](https:/
 
 5. Asymptotic
 
-<https://en.wikipedia.org/wiki/Normal_distribution>
+https://en.wikipedia.org/wiki/Normal_distribution

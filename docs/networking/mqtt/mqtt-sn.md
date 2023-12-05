@@ -71,12 +71,12 @@ There are two types of Gateways depending on how a Gateway performs the protocol
 
 ## References
 
-<http://www.steves-internet-guide.com/mqtt-sn>
+http://www.steves-internet-guide.com/mqtt-sn
 
-<https://www.bevywise.com/blog/benefits-of-mqtt-sn-over-mqtt>
+https://www.bevywise.com/blog/benefits-of-mqtt-sn-over-mqtt
 
 ### Clients
 
-<https://github.com/eclipse/paho.mqtt-sn.embedded-c>
+https://github.com/eclipse/paho.mqtt-sn.embedded-c
 
-<https://www.eclipse.org/paho/clients/c/embedded-sn>
+https://www.eclipse.org/paho/clients/c/embedded-sn

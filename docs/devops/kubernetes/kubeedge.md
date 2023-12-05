@@ -38,6 +38,6 @@ KubeEdge is composed of the following components:
 
 ## References
 
-<https://kubeedge.io/en>
+https://kubeedge.io/en
 
-<https://github.com/kubeedge/kubeedge>
+https://github.com/kubeedge/kubeedge

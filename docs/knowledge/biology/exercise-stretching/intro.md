@@ -24,7 +24,7 @@ Strength training using resistance or weights is the primary anaerobic activity 
 
 Stretching is a type of flexibility exercise that keeps your muscles relaxed and able to move freely. Without stretching either before or after a workout, you're more prone to injuries like tears and pulls. [Yoga](https://www.sleepadvisor.org/yoga-for-sleep/) is also a fantastic activity for flexibility.
 
-<https://www.sleepadvisor.org/sleep-after-workout>
+https://www.sleepadvisor.org/sleep-after-workout
 
 ## Types of Stretches
 
@@ -113,9 +113,9 @@ So, just what happens when you deliberately try to stretch a muscle? Sarcomeres 
 8. Standing quad stretch
 9. Light jog / Hip flexor warm up / Bike kick
 
-<https://www.healthline.com/health/fitness-exercise/essential-runner-stretches>
+https://www.healthline.com/health/fitness-exercise/essential-runner-stretches
 
-<https://www.runnersworld.com/health-injuries/a20809473/five-exercises-to-do-before-every-run>
+https://www.runnersworld.com/health-injuries/a20809473/five-exercises-to-do-before-every-run
 
 ## Post workout cooldown
 

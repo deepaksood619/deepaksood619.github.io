@@ -29,7 +29,7 @@ int upper_bound(int start,int end,int item)
 }
 ```
 
-<https://www.hackerearth.com/practice/algorithms/searching/binary-search/practice-problems/algorithm/monk-and-search-2/editorial>
+https://www.hackerearth.com/practice/algorithms/searching/binary-search/practice-problems/algorithm/monk-and-search-2/editorial
 
 ## get count of all elements that are smaller or equal to given key
 
@@ -63,4 +63,4 @@ def binarySearchCount(arr, left, n, key):
     return mid + 1
 ```
 
-<https://www.geeksforgeeks.org/count-smaller-equal-elements-sorted-array>
+https://www.geeksforgeeks.org/count-smaller-equal-elements-sorted-array

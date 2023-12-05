@@ -52,7 +52,7 @@
 | CEILING | Returns the smallest integer value that is `>`= to a number |
 | COS | Returns the cosine of a number |
 | COT | Returns the cotangent of a number |
-| COUNT | Returns the number of records returned by a select query. For MyISAM the total row count is stored for each table so `SELECT COUNT(*) FROM yourtable` is an operation `O(1)`. It just needs to read this value. For InnoDB the total row count is not stored so a full scan is required. This is an O(n) operation. InnoDBdoes not keep an internal count of rows in a table. (In practice, this would be somewhat complicated due to multi-versioning.) To process a `SELECT COUNT(*) FROM tstatement`, InnoDB must scan an index of the table, which takes some time if the index is not entirely in the buffer pool. If your table does not change often, using the MySQL query cache is a good solution. To get a fast count, you have to use a counter table you create yourself and let your application update it according to the inserts and deletes it does. `SHOW TABLE STATUS` also can be used if an approximate row count is sufficient. <https://stackoverflow.com/questions/5257973/mysql-complexity-of-select-count-from-mytable> |
+| COUNT | Returns the number of records returned by a select query. For MyISAM the total row count is stored for each table so `SELECT COUNT(*) FROM yourtable` is an operation `O(1)`. It just needs to read this value. For InnoDB the total row count is not stored so a full scan is required. This is an O(n) operation. InnoDBdoes not keep an internal count of rows in a table. (In practice, this would be somewhat complicated due to multi-versioning.) To process a `SELECT COUNT(*) FROM tstatement`, InnoDB must scan an index of the table, which takes some time if the index is not entirely in the buffer pool. If your table does not change often, using the MySQL query cache is a good solution. To get a fast count, you have to use a counter table you create yourself and let your application update it according to the inserts and deletes it does. `SHOW TABLE STATUS` also can be used if an approximate row count is sufficient. https://stackoverflow.com/questions/5257973/mysql-complexity-of-select-count-from-mytable |
 | DEGREES | Converts a value in radians to degrees |
 | DIV | Used for integer division |
 | EXP | Returns e raised to the power of a specified number |
@@ -162,7 +162,7 @@
 | USER | Returns the current MySQL user name and host name |
 | VERSION | Returns the current version of the MySQL database |
 
-<https://database.guide/4-ways-to-replace-null-with-a-different-value-in-mysql>
+https://database.guide/4-ways-to-replace-null-with-a-different-value-in-mysql
 
 - The IFNULL() function
 - The COALESCE() function

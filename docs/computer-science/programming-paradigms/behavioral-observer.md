@@ -18,7 +18,7 @@ Real world example - After you've subscribed to a newspaper or magazine, you no 
 
 ## References
 
-<https://py.checkio.org/blog/design-patterns-part-2>
+https://py.checkio.org/blog/design-patterns-part-2
 
 [Observer Pattern Tutorial: I NEVER Knew Events Were THIS Powerful 🚀 - YouTube](https://www.youtube.com/watch?v=oNalXg67XEE)
 

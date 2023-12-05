@@ -78,7 +78,7 @@ Web-queue-worker is suitable for relatively simple domains with some resource-in
 
 The Bulkhead pattern is a type of application design that is tolerant of failure. In a bulkhead architecture, elements of an application are isolated into pools so that if one fails, the others will continue to function. It's named after the sectioned partitions (bulkheads) of a ship's hull. If the hull of a ship is compromised, only the damaged section fills with water, which prevents the ship from sinking.
 
-<https://www.youtube.com/watch?v=R2FT5edyKOg>
+https://www.youtube.com/watch?v=R2FT5edyKOg
 
 - [Cache-Aside](https://docs.microsoft.com/en-us/azure/architecture/patterns/cache-aside)
 - [Choreography](https://docs.microsoft.com/en-us/azure/architecture/patterns/choreography)
@@ -144,8 +144,8 @@ The Bulkhead pattern is a type of application design that is tolerant of failure
 
 ## Cloud Adoption Framework
 
-- <https://docs.microsoft.com/en-us/azure/architecture/guide>
-- <https://github.com/MicrosoftDocs/architecture-center>
-- <https://thenewstack.io/primer-understanding-software-and-system-architecture>
-- <https://www.freecodecamp.org/news/systems-design-for-interviews>
+- https://docs.microsoft.com/en-us/azure/architecture/guide
+- https://github.com/MicrosoftDocs/architecture-center
+- https://thenewstack.io/primer-understanding-software-and-system-architecture
+- https://www.freecodecamp.org/news/systems-design-for-interviews
 - [Cloud Architecture Guidance and Topologies &nbsp;|&nbsp; Cloud Architecture Center | Google Cloud](https://cloud.google.com/architecture)

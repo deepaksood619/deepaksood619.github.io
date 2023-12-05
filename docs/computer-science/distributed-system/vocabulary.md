@@ -27,13 +27,13 @@ A program has a consistent, coordination-free distributed implementation if any 
 - **Replication** is streaming changes from one process to another
 - **Synchronous replication** is commiting change on a replica at same time as committing on the primary (e.g. MySQL's [semisynchronous replication](https://dev.mysql.com/doc/refman/5.5/en/replication-semisync.html). Typically very, very slow
 
-<https://lethain.com/distributed-systems-vocabulary>
+https://lethain.com/distributed-systems-vocabulary
 
 ## State Machine Replication
 
 In [computer science](https://en.wikipedia.org/wiki/Computer_science), **state machine replication** or **state machine approach** is a general method for implementing a fault-tolerant service by replicating servers and coordinating client interactions with server replicas. The approach also provides a framework for understanding and designing replication management protocols.
 
-<https://en.wikipedia.org/wiki/State_machine_replication>
+https://en.wikipedia.org/wiki/State_machine_replication
 
 ## Highy Available and Fault Tolerant
 
@@ -49,7 +49,7 @@ In [computer science](https://en.wikipedia.org/wiki/Computer_science), **state m
 - zero downtime
 - expensive to implement
 
-<https://medium.com/baseds/ready-and-available-distributed-systems-161023aca378>
+https://medium.com/baseds/ready-and-available-distributed-systems-161023aca378
 
 ## Fault
 
@@ -105,10 +105,10 @@ Errors are manifestations of faults within our system, and when an error occurs 
 
 ![image](../../media/Vocabulary-image4.jpg)
 
-<https://medium.com/baseds/fantastic-faults-and-what-to-call-them-56d91a1b198c>
+https://medium.com/baseds/fantastic-faults-and-what-to-call-them-56d91a1b198c
 
-<https://medium.com/baseds/modes-of-failure-part-1-6687504bfed6>
+https://medium.com/baseds/modes-of-failure-part-1-6687504bfed6
 
-<https://medium.com/baseds/modes-of-failure-part-2-4d050794be2f>
+https://medium.com/baseds/modes-of-failure-part-2-4d050794be2f
 
-<https://medium.com/baseds/weeding-out-distributed-system-bugs-28a01e37f70c>
+https://medium.com/baseds/weeding-out-distributed-system-bugs-28a01e37f70c

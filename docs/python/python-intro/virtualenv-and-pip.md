@@ -32,7 +32,7 @@ deactivate
 
 ## Managing packages with pip
 
-We can install, upgrade, and remove packages using a program called pip. By default pip will install packages from the Python Package Index, <https://pypi.python.org/pypi>>
+We can install, upgrade, and remove packages using a program called pip. By default pip will install packages from the Python Package Index, https://pypi.python.org/pypi>
 
 [**https://prepml.com/blog/making-python-package-scratch/**](https://prepml.com/blog/making-python-package-scratch/)
 
@@ -139,4 +139,4 @@ pipx completions
 
 ## References
 
-<https://stackoverflow.com/questions/41573587/what-is-the-difference-between-venv-pyvenv-pyenv-virtualenv-virtualenvwrappe>
+https://stackoverflow.com/questions/41573587/what-is-the-difference-between-venv-pyvenv-pyenv-virtualenv-virtualenvwrappe

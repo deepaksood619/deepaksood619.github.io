@@ -315,7 +315,7 @@ Katta serves large, replicated, indices as shards to serve high loads and very l
 - Plays well with Hadoop clusters
 - Apache Version 2 License
 
-<http://katta.sourceforge.net>
+http://katta.sourceforge.net
 
 ![image](../../../media/Big-Data_Design-of-Zookeeper-image31.jpg)
 

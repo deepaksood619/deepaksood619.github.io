@@ -12,7 +12,7 @@ The total size of an item is the sum of the lengths of its attribute names and v
 - The size of a null attribute or a Boolean attribute is(length of attribute name) + (1 byte).
 - An attribute of typeListorMaprequires 3 bytes of overhead, regardless of its contents. The size of aListorMapis(length of attribute name) + sum (size of nested elements) + (3 bytes). The size of an emptyListorMapis(length of attribute name) + (3 bytes).
 
-<https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/CapacityUnitCalculations.html>
+https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/CapacityUnitCalculations.html
 
 ## Scan vs Query
 
@@ -24,9 +24,9 @@ A scan operation scans the entire table. You can specify filters to apply to the
 whilescanquery you have to scan whole table then apply filter on every singlerowto find the right result. The performance isO(n). Its much slower if your table is big.
 Also, think about the global secondary index to support a different kind of queries on different keys to gain performance objective
 
-<https://stackoverflow.com/questions/43452219/what-is-the-difference-between-scan-and-query-in-dynamodb-when-use-scan-query>
+https://stackoverflow.com/questions/43452219/what-is-the-difference-between-scan-and-query-in-dynamodb-when-use-scan-query
 
-<https://medium.com/@amos.shahar/dynamodb-query-vs-scan-sql-syntax-and-join-tables-part-1-371288a7cb8f>
+https://medium.com/@amos.shahar/dynamodb-query-vs-scan-sql-syntax-and-join-tables-part-1-371288a7cb8f
 
 ## Working
 
@@ -44,7 +44,7 @@ Replicated write capacity unit (rWCU)- One **read capacity unit** represents one
   - Local secondary indexes
   - Global secondary indexes (asynchronous)
 
-<https://aws.amazon.com/dynamodb/pricing/provisioned>
+https://aws.amazon.com/dynamodb/pricing/provisioned
 
 ## NoSQL Data Modeling
 

@@ -62,7 +62,7 @@ CSI empowers users to support different storage systems through a driver model.
 
 [Container Storage Interface](https://github.com/container-storage-interface/spec/blob/master/spec)(CSI) defines a standard interface for container orchestration systems (like Kubernetes) to expose arbitrary storage systems to their container workloads.
 
-<https://github.com/container-storage-interface/spec/blob/master/spec>
+https://github.com/container-storage-interface/spec/blob/master/spec
 
 ### Resource Types
 

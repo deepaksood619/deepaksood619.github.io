@@ -20,7 +20,7 @@ It has the academic standing of a [masters degree](https://en.wikipedia.org/wiki
 
 The program teaches a wide range of subjects relating to [advanced investment analysis](https://en.wikipedia.org/wiki/Investment_management), including [security analysis](https://en.wikipedia.org/wiki/Security_analysis), [statistics](https://en.wikipedia.org/wiki/Statistics), [probability theory](https://en.wikipedia.org/wiki/Probability_theory), [fixed income](https://en.wikipedia.org/wiki/Bond_(finance)), [derivatives](https://en.wikipedia.org/wiki/Derivative_(finance)), [economics](https://en.wikipedia.org/wiki/Economics), [financial analysis](https://en.wikipedia.org/wiki/Financial_analysis), [corporate finance](https://en.wikipedia.org/wiki/Corporate_finance), [alternative investments](https://en.wikipedia.org/wiki/Alternative_investment), [portfolio management](https://en.wikipedia.org/wiki/Investment_management), and provides a generalist knowledge of [other areas of finance](https://en.wikipedia.org/wiki/List_of_finance_topics). A candidate who successfully completes the program and meets other professional requirements is awarded the "CFA charter" and becomes a "CFA charterholder". As of April 2021, at least 170,000 people are charterholders globally, growing 7% annually since 2012.Successful candidates take an average of four years to earn their CFA charter.
 
-<https://en.wikipedia.org/wiki/Chartered_Financial_Analyst>
+https://en.wikipedia.org/wiki/Chartered_Financial_Analyst
 
 ## Accrual
 
@@ -55,7 +55,7 @@ The debt-to-income (DTI) ratio is a personal finance measure that compares an in
 
 ![image](../media/Finance-Terms-image1.jpg)
 
-<https://www.investopedia.com/terms/d/dti.asp>
+https://www.investopedia.com/terms/d/dti.asp
 
 ## Rolling Returns
 
@@ -68,7 +68,7 @@ Looking at a portfolio or fund's rolling returns will give performance results t
 - These can also be used to smooth past performance to account for several periods instead of a single instance.
 - Trailing twelve months is one commonly used rolling return measure.
 
-<https://www.investopedia.com/terms/r/rollingreturns.asp>
+https://www.investopedia.com/terms/r/rollingreturns.asp
 
 Variable cost positive
 
@@ -92,9 +92,9 @@ Net interest margin or NIM denotes the difference between the interest income ea
 
 Net interest margin = (Investment returns -- interest expenses) / average earning on assets
 
-<https://economictimes.indiatimes.com/definition/NIM>
+https://economictimes.indiatimes.com/definition/NIM
 
-<https://www.investopedia.com/terms/n/netinterestmargin.asp>
+https://www.investopedia.com/terms/n/netinterestmargin.asp
 
 ## ROCE (Return on Capital Employed)
 
@@ -102,7 +102,7 @@ Net interest margin = (Investment returns -- interest expenses) / average earnin
 - Return on capital employed is similar to return on invested capital (ROIC).
 - Many companies may calculate the following key return ratios in their performance analysis: return on equity (ROE), return on assets (ROA), return on invested capital (ROIC), and return on capital employed.
 
-<https://www.investopedia.com/terms/r/roce.asp>
+https://www.investopedia.com/terms/r/roce.asp
 
 ## EMI - Equated Monthly Installments
 
@@ -127,7 +127,7 @@ This is perhaps one of the important events to which the stocks react. The liste
 
 In [finance](https://en.wikipedia.org/wiki/Finance), assets under management(AUM), sometimes calledfunds under management(FUM), measures the total [market value](https://en.wikipedia.org/wiki/Market_value) of all the [financial assets](https://en.wikipedia.org/wiki/Financial_asset) which a [financial institution](https://en.wikipedia.org/wiki/Financial_institution) such as a [mutual fund](https://en.wikipedia.org/wiki/Mutual_fund), [venture capital firm](https://en.wikipedia.org/wiki/Venture_capital_firm), or [broker](https://en.wikipedia.org/wiki/Broker) manages on behalf of its clients and themselves.
 
-<https://en.wikipedia.org/wiki/Assets_under_management>
+https://en.wikipedia.org/wiki/Assets_under_management
 
 ## CAS (Consolidated Account Statement)
 
@@ -156,11 +156,11 @@ Dollar-cost averaging (DCA) is an investment strategy in which an investor divid
 
 ## Questions
 
-<https://www.toptal.com/finance/finance-managers/interview-questions>
+https://www.toptal.com/finance/finance-managers/interview-questions
 
-<https://www.toptal.com/finance/financial-controllers/interview-questions>
+https://www.toptal.com/finance/financial-controllers/interview-questions
 
-<https://www.toptal.com/finance/finance-directors/interview-questions>
+https://www.toptal.com/finance/finance-directors/interview-questions
 
 [Glossary of Financial Management Terms | Springer Publishing](https://connect.springerpub.com/content/book/978-0-8261-6199-4/back-matter/bmatter2)
 

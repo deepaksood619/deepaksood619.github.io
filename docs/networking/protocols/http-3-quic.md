@@ -30,20 +30,20 @@ When NASA's Deep Space Network talks to the Voyager 2 spacecraft (which recently
 1. connection migration
 2. zero round trip time resumption
 
-<https://blog.cloudflare.com/http3-the-past-present-and-future>
+https://blog.cloudflare.com/http3-the-past-present-and-future
 
 [https://www.cloudflare.com/learning/performance/what-is-http3/](https://www.cloudflare.com/learning/performance/what-is-http3/)
 
-<https://blog.cloudflare.com/the-road-to-quic>
+https://blog.cloudflare.com/the-road-to-quic
 
-<https://www.mnot.net/blog/2018/11/27/header_compression>
+https://www.mnot.net/blog/2018/11/27/header_compression
 
-<https://www.mnot.net/blog/2019/10/13/h2_api_multiplexing>
+https://www.mnot.net/blog/2019/10/13/h2_api_multiplexing
 
-HTTP Version 2 - <https://httpwg.org/specs/rfc7540.html>
+HTTP Version 2 - https://httpwg.org/specs/rfc7540.html
 
-HPACK: Header Compression for HTTP/2 - <https://httpwg.org/specs/rfc7541.html>
+HPACK: Header Compression for HTTP/2 - https://httpwg.org/specs/rfc7541.html
 
-<https://www.toptal.com/web/performance-working-with-http-3>
+https://www.toptal.com/web/performance-working-with-http-3
 
 [How Alt-Svc switches HTTP/2 clients to use HTTP/3 - YouTube](https://www.youtube.com/watch?v=2eXbf8-br0Q&ab_channel=HusseinNasser)

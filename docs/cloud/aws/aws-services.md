@@ -18,7 +18,7 @@
 
    Monitor Resources and Applications
 
-   <https://github.com/monitoringartist/grafana-aws-cloudwatch-dashboards>
+   https://github.com/monitoringartist/grafana-aws-cloudwatch-dashboards
 
    **Cloudwatch search queries**
 
@@ -80,7 +80,7 @@
 10. AWS Deep Learning AMIs - Quickly Start Deep Learning on EC2
 11. Apache MXNet on AWS - Scalable, High-performance Deep Learning
 12. TensorFlow on AWS - Open-source Machine Intelligence Library
-13. Amazon Textract - Easily extract printed text, handwriting, and data from virtually any document - <https://github.com/aws-samples/amazon-textract-code-samples/tree/master/python>
+13. Amazon Textract - Easily extract printed text, handwriting, and data from virtually any document - https://github.com/aws-samples/amazon-textract-code-samples/tree/master/python
 14. Amazon Kendra
 
 Highly accurate intelligent search service powered by machine learning
@@ -94,9 +94,9 @@ Highly accurate intelligent search service powered by machine learning
 
 1. AWS Amplify
 
-   <https://ui.docs.amplify.aws/?platform=react>
+   https://ui.docs.amplify.aws/?platform=react
 
-   <https://docs.amplify.aws>
+   https://docs.amplify.aws
 
 2. AWS Mobile Hub - Build, Test, and Monitor Apps
 3. Amazon API Gateway - Build, Deploy, and Manage APIs
@@ -137,7 +137,7 @@ Amazon EventBridge is a serverless event bus that makes it easy to connect appli
 
 Schema Registry - Now in Preview:As your applications become more interconnected through events, you need to spend more effort in finding events and understanding their structure in order to write code to react to those events. The Amazon EventBridge schema registry stores event structure - or schema - in a shared central location and maps those schemas to code for Java, Python, and Typescript so it's easy to use events as objects in your code. Schema from your event bus can be automatically added to the registry through the schema discovery feature. You can connect to and interact with the schema registry from the AWS Management Console, APIs, or the SDK Toolkits for Jetbrains (Intellij, PyCharm, Webstorm, Rider) and VS Code.
 
-<https://aws.amazon.com/eventbridge>
+https://aws.amazon.com/eventbridge
 
 ## Customer Engagement
 
@@ -157,7 +157,7 @@ Amazon Chime is a communications service that lets you meet, chat, and place bus
 
 Amazon Chime Voice Connector is a service that enables enterprises to migrate their telephony workloads to AWS. IT professionals can use Voice Connector for low-cost SIP trunking from on-premises or cloud-based phone systems. Voice Connector supports inbound calling, outbound calling, or both. Developers can also use Voice Connector to build PSTN calling in their own applications using the Amazon Chime SDK or stream audio for phone call analytics and machine learning.
 
-<https://aws.amazon.com/chime>
+https://aws.amazon.com/chime
 
 ### 3. Amazon WorkDocs - Enterprise Storage and Sharing Service
 
@@ -190,9 +190,9 @@ Amazon Chime Voice Connector is a service that enables enterprises to migrate th
 
 Amazon Web Services (AWS) offers customers a scalable, distributed, and serverless architecture to deliver a load testing tool for web application performance testing. The Distributed Load Testing on AWS solution automatically launches and configures containers running on AWS Fargate to help you easily create and simulate thousands of connected users generating a select number of transactions per second without having to provision servers. This solution delivers application performance monitoring, which will help you understand how your application will perform at scale and at expected load, identifying bottlenecks before you release your application.
 
-<https://aws.amazon.com/solutions/implementations/distributed-load-testing-on-aws>
+https://aws.amazon.com/solutions/implementations/distributed-load-testing-on-aws
 
-<https://aws.amazon.com/about-aws/whats-new/2020/10/introducing-distributed-load-testing-v1-1>
+https://aws.amazon.com/about-aws/whats-new/2020/10/introducing-distributed-load-testing-v1-1
 
 ### AWS Backup
 
@@ -204,6 +204,6 @@ AWS Backup is a fully-managed service that makes it easy to centralize and autom
 
 ### FinSpace
 
-<https://aws.amazon.com/about-aws/whats-new/2021/05/introducing-amazon-finspace-a-fully-managed-service-to-store-prepare-and-analyze-data-for-the-financial-services-industry-fsi>
+https://aws.amazon.com/about-aws/whats-new/2021/05/introducing-amazon-finspace-a-fully-managed-service-to-store-prepare-and-analyze-data-for-the-financial-services-industry-fsi
 
-<https://aws.amazon.com/blogs/big-data/analyzing-petabytes-of-trade-and-quote-data-with-amazon-finspace>
+https://aws.amazon.com/blogs/big-data/analyzing-petabytes-of-trade-and-quote-data-with-amazon-finspace

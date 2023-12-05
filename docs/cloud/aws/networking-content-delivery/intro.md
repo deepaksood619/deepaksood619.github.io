@@ -33,4 +33,4 @@ Eachtarget grouproutes requests to one or more registered targets, such as EC2 i
 
 A Network Load Balancer functions at the fourth layer of the Open Systems Interconnection (OSI) model. It can handle millions of requests per second. After the load balancer receives a connection request, it selects a target from the target group for the default rule. It attempts to open a TCP connection to the selected target on the port specified in the listener configuration.
 
-<https://docs.aws.amazon.com/elasticloadbalancing/latest/network/introduction.html>
+https://docs.aws.amazon.com/elasticloadbalancing/latest/network/introduction.html

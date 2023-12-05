@@ -58,7 +58,7 @@ Fat has an [energy](https://en.wikipedia.org/wiki/Energy) content of 9 [kcal](ht
 - Natural trans fat (Meat)
 - Artificial trans fat (Industrial, Partially hyderogenerated fats)
 
-<https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2769584>
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2769584
 
 ##### Visceral body fat
 
@@ -83,6 +83,6 @@ Gluten is a protein naturally found in some [grains](https://www.hsph.harvard.ed
 
 Wheat products, such as bread, baked goods, crackers, cereals, and pasta, commonly contain gluten. It is also an ingredient in barley-based products, including malt, food coloring, malt vinegar, and beer.
 
-<https://www.hsph.harvard.edu/nutritionsource/gluten>
+https://www.hsph.harvard.edu/nutritionsource/gluten
 
-<https://www.medicalnewstoday.com/articles/308449.php>
+https://www.medicalnewstoday.com/articles/308449.php

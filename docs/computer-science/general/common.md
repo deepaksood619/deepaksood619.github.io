@@ -65,11 +65,11 @@ Unix time(also known asEpoch time, POSIX time, seconds since the Epoch, orUNIX E
 
 It should also be pointed out that this point in time technically does not change no matter where you are located on the globe. This is very useful to computer systems for tracking and sorting dated information in dynamic and distributed applications both online and client side. The reason why Unix timestamps are used by many webmasters is because they can represent all time zones at once.
 
-<https://en.wikipedia.org/wiki/Unix_time>
+https://en.wikipedia.org/wiki/Unix_time
 
-<https://www.epochconverter.com>
+https://www.epochconverter.com
 
-<https://everytimezone.com>
+https://everytimezone.com
 
 ## Time - ISO 8601
 
@@ -83,7 +83,7 @@ ISO 8601 Data elements and interchange formats -- Information interchange -- Rep
 - For reduced precision, any number of values may be dropped from any of the date and time representations, but in the order from the least to the most significant. For example, "2004-05" is a valid ISO 8601 date, which indicates May (the fifth month) 2004. This format will never represent the 5th day of an unspecified month in 2004, nor will it represent a time-span extending from 2004 into 2005.
 - If necessary for a particular application, the standard supports the addition of a [decimal fraction](https://en.wikipedia.org/wiki/Decimal_fractions) to the smallest time value in the representation.
 
-<https://en.wikipedia.org/wiki/ISO_8601>
+https://en.wikipedia.org/wiki/ISO_8601
 
 ## IEC Prefixes
 
@@ -96,7 +96,7 @@ ISO 8601 Data elements and interchange formats -- Information interchange -- Rep
 | 2^50^      | pebi      | Pi          | petabinary: (2^10^)^5^  | peta: (10^3^)^5^ |
 | 2^60^      | exbi      | Ei          | exabinary: (2^10^)^6^   | exa: (10^3^)^6^  |
 
-<https://physics.nist.gov/cuu/Units/binary.html>
+https://physics.nist.gov/cuu/Units/binary.html
 
 ## shim in computing means application compatibility workaround
 
@@ -104,33 +104,33 @@ ISO 8601 Data elements and interchange formats -- Information interchange -- Rep
 
 Sweep Line Algorithm (Find intersection of two lines) - Using 1d range search - [smarty](http://www.pythonchallenge.com/pc/def/oxygen.html)
 
-Parameterization - <https://www.toptal.com/python/python-parameterized-design-patterns>
+Parameterization - https://www.toptal.com/python/python-parameterized-design-patterns
 
-<https://slate.com/technology/2019/10/consequential-computer-code-software-history.html>
+https://slate.com/technology/2019/10/consequential-computer-code-software-history.html
 
-<https://medium.com/the-atlantic/the-coming-software-apocalypse-4ffb43f3b288>$1
+https://medium.com/the-atlantic/the-coming-software-apocalypse-4ffb43f3b288$1
 
-<https://github.com/RockstarLang/rockstar>
+https://github.com/RockstarLang/rockstar
 
 [The Art of Code - Dylan Beattie](https://www.youtube.com/watch?v=6avJHaC3C2U)
 
 [MongoDB Database Skills (Sia Cheap Thrills Parody) - YouTube](https://www.youtube.com/watch?v=0vPt7GI-2kc)
 
-<https://blog.codinghorror.com/new-programming-jargon>
+https://blog.codinghorror.com/new-programming-jargon
 
 ## Typosquatting
 
-<https://medium.com/@williambengtson/python-typosquatting-for-fun-not-profit-99869579c35d>
+https://medium.com/@williambengtson/python-typosquatting-for-fun-not-profit-99869579c35d
 
 ## Three-way comparison Operator (SpaceShip Operator < = >)
 
 In [computer science](https://en.wikipedia.org/wiki/Computer_science), a three-way comparison takes two values A and B belonging to a type with a [total order](https://en.wikipedia.org/wiki/Total_order) and determines whether A < B, A = B, or A > B in a single operation, in accordance with the mathematical [law of trichotomy](https://en.wikipedia.org/wiki/Trichotomy_(mathematics)).
 
-<https://en.wikipedia.org/wiki/Three-way_comparison>
+https://en.wikipedia.org/wiki/Three-way_comparison
 
 ## FP64, FP32, FP16, BFloat16, TF32 (Floating Points)
 
-<https://medium.com/@moocaholic/fp64-fp32-fp16-bfloat16-tf32-and-other-members-of-the-zoo-a1ca7897d407>
+https://medium.com/@moocaholic/fp64-fp32-fp16-bfloat16-tf32-and-other-members-of-the-zoo-a1ca7897d407
 
 ## Valid Emails
 

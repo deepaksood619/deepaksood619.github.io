@@ -8,7 +8,7 @@
 - Priority Classes
 - NonPreemptingPriority
 
-<https://kubernetes.io/docs/concepts/configuration/pod-priority-preemption>
+https://kubernetes.io/docs/concepts/configuration/pod-priority-preemption
 
 ## Secrets
 
@@ -22,11 +22,11 @@ Solution: Encrypt your Secret into a SealedSecret, whichissafe to store - even t
 
 `$ kubectl get secret -n kube-system -l sealedsecrets.bitnami.com/sealed-secrets-key -o yaml > master.key`
 
-<https://github.com/bitnami-labs/sealed-secrets>
+https://github.com/bitnami-labs/sealed-secrets
 
-<https://medium.com/better-programming/encrypting-kubernetes-secrets-with-sealed-secrets-fe363149a211>
+https://medium.com/better-programming/encrypting-kubernetes-secrets-with-sealed-secrets-fe363149a211
 
 - Helm Secrets
 - Kamus
 
-<https://learnk8s.io/kubernetes-secrets-in-git>
+https://learnk8s.io/kubernetes-secrets-in-git

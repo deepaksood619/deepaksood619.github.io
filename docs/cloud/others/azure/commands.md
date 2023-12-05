@@ -84,7 +84,7 @@ products and documentation.
 
 functionapp : Manage function apps. To install the Azure Functions Core tools see
 
-<https://github.com/Azure/azure-functions-core-tools>.
+https://github.com/Azure/azure-functions-core-tools.
 
 group : Manage resource groups and template deployments.
 

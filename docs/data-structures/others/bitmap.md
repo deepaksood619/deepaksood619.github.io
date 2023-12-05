@@ -30,10 +30,10 @@ The sparse scenario is another use case where compressed bitmaps should not be u
 
 ## References
 
-<https://en.wikipedia.org/wiki/Bitmap>
+https://en.wikipedia.org/wiki/Bitmap
 
-<https://en.wikipedia.org/wiki/Bit_array>
+https://en.wikipedia.org/wiki/Bit_array
 
-<https://github.com/RoaringBitmap/RoaringBitmap>
+https://github.com/RoaringBitmap/RoaringBitmap
 
-<http://paulbourke.net/dataformats/bitmaps>
+http://paulbourke.net/dataformats/bitmaps

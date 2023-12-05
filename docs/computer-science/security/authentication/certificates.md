@@ -15,4 +15,4 @@ In [cryptography](https://en.wikipedia.org/wiki/Cryptography),X.509is a standard
 X.509 also defines [certificate revocation lists](https://en.wikipedia.org/wiki/Certificate_revocation_list), which are a means to distribute information about certificates that have been deemed invalid by a signing authority, as well as a [certification path validation algorithm](https://en.wikipedia.org/wiki/Certification_path_validation_algorithm), which allows for certificates to be signed by intermediate CA certificates, which are, in turn, signed by other certificates, eventually reaching a [trust anchor](https://en.wikipedia.org/wiki/Trust_anchor).
 X.509 is defined by the [International Telecommunications Union's](https://en.wikipedia.org/wiki/International_Telecommunication_Union) Standardization sector ([ITU-T](https://en.wikipedia.org/wiki/ITU-T)), and is based on [ASN.1](https://en.wikipedia.org/wiki/Abstract_Syntax_Notation_One), another ITU-T standard.
 
-<https://en.wikipedia.org/wiki/X.509>
+https://en.wikipedia.org/wiki/X.509

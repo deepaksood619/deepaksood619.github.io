@@ -174,8 +174,8 @@ For example,
 
 ## References
 
-<http://coursera.cs.princeton.edu/algs4/assignments/wordnet.html>
+http://coursera.cs.princeton.edu/algs4/assignments/wordnet.html
 
-<http://coursera.cs.princeton.edu/algs4/checklists/wordnet.html>
+http://coursera.cs.princeton.edu/algs4/checklists/wordnet.html
 
-<https://github.com/CtheSky/Coursera-Algorithms/tree/master/Assignment6_WordNet>
+https://github.com/CtheSky/Coursera-Algorithms/tree/master/Assignment6_WordNet

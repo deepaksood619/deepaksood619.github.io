@@ -64,7 +64,7 @@ So, amortized analysis is used to average out the costly operations in the worst
 
 There are three main types of amortized analysis:aggregate analysis, theaccounting method, and thepotential method.
 
-<https://brilliant.org/wiki/amortized-analysis>
+https://brilliant.org/wiki/amortized-analysis
 
 ## Memory
 
@@ -94,7 +94,7 @@ Aspace--timeortime--memory trade-offin [computer science](https://en.wikipedia.o
 
 The utility of a given space--time tradeoff is affected by related [fixed](https://en.wikipedia.org/wiki/Fixed_cost) and [variable costs](https://en.wikipedia.org/wiki/Variable_costs)(of, e.g., [CPU](https://en.wikipedia.org/wiki/CPU) speed, storage space), and is subject to [diminishing returns](https://en.wikipedia.org/wiki/Diminishing_returns).
 
-<https://en.wikipedia.org/wiki/Space%E2%80%93time_tradeoff>
+https://en.wikipedia.org/wiki/Space%E2%80%93time_tradeoff
 
 ## Types of tradeoff
 
@@ -118,4 +118,4 @@ Larger code size can be traded for higher program speed when applying [loop unro
 
 Atime/memory/data tradeoff attackis a type of [cryptographic attack](https://en.wikipedia.org/wiki/Cryptanalysis) where an attacker tries to achieve a situation similar to the [space--time tradeoff](https://en.wikipedia.org/wiki/Space%E2%80%93time_tradeoff) but with the additional parameter ofdata, representing the amount of data available to the attacker. An attacker balances or reduces one or two of those parameters in favor of the other one or two. This type of attack is very difficult, so most of the ciphers and encryption schemes in use were not designed to resist it.
 
-<https://en.wikipedia.org/wiki/Time/memory/data_tradeoff_attack>
+https://en.wikipedia.org/wiki/Time/memory/data_tradeoff_attack

@@ -10,7 +10,7 @@ The Cadence server brokers and persists tasks and events generated during workfl
 
 Cadence fault-oblivious stateful code platform preserves complete multithreaded application state including thread stacks with local variables across hardware and software failures. It greatly simplifies coding of complex stateful distributed applications.
 
-<https://github.com/uber/cadence>
+https://github.com/uber/cadence
 
 [https://cadenceworkflow.io](https://cadenceworkflow.io/)
 
@@ -30,17 +30,17 @@ Dynein takes a more elaborate approach to delayed jobs. Delayed jobs, to Dynein,
 
 Dynein service then picks up the job from the inbound queue with a consistent ingestion rate, and stores a trigger for the job into the scheduler. At the scheduled time, Dynein service selects the jobs from the scheduler, and then enqueues the jobs into SQS. The Dynein service is completely stateless, and runs as a simple Deployment on Kubernetes platform.
 
-<https://github.com/airbnb/dynein>
+https://github.com/airbnb/dynein
 
-<https://medium.com/airbnb-engineering/dynein-building-a-distributed-delayed-job-queueing-system-93ab10f05f99>
+https://medium.com/airbnb-engineering/dynein-building-a-distributed-delayed-job-queueing-system-93ab10f05f99
 
 ## Quartz
 
 Quartz is a [richly featured](http://www.quartz-scheduler.org/documentation/2.4.0-SNAPSHOT/introduction.html#features), open source job scheduling library that can be integrated within virtually any Java application - from the smallest stand-alone application to the largest e-commerce system. Quartz can be used to create simple or complex schedules for executing tens, hundreds, or even tens-of-thousands of jobs; jobs whose tasks are defined as standard Java components that may execute virtually anything you may program them to do. The Quartz Scheduler includes many enterprise-class features, such as support for JTA transactions and clustering.
 
-<http://www.quartz-scheduler.org>
+http://www.quartz-scheduler.org
 
-<https://github.com/quartz-scheduler/quartz>
+https://github.com/quartz-scheduler/quartz
 
 ## Dkron
 
@@ -54,23 +54,23 @@ Dkron is written in Go and leverage the power of distributed key-value stores an
 
 Dkron is inspired by the google whitepaper [Reliable Cron across the Planet](https://queue.acm.org/detail.cfm?id=2745840) and by Airbnb Chronos borrowing the same features from it.
 
-<https://github.com/victorcoder/dkron>
+https://github.com/victorcoder/dkron
 
-<https://dkron.io>
+https://dkron.io
 
 ## Airflow + Genie on AWS Platform
 
 ![image](../../../media/Technologies-Apache-Others-image1.jpg)
 
-<https://aws.amazon.com/blogs/big-data/orchestrate-big-data-workflows-with-apache-airflow-genie-and-amazon-emr-part-1>
+https://aws.amazon.com/blogs/big-data/orchestrate-big-data-workflows-with-apache-airflow-genie-and-amazon-emr-part-1
 
 ## Prefect
 
 Prefect is a new workflow management system, designed for modern infrastructure and powered by the open-source Prefect Core workflow engine. Users organize Tasks into Flows, and Prefect takes care of the rest.
 
-<https://github.com/prefecthq/prefect>
+https://github.com/prefecthq/prefect
 
-<https://www.prefect.io>
+https://www.prefect.io
 
 ## Netflix Conductor
 
@@ -93,9 +93,9 @@ We built Conductor to help us orchestrate microservices based process flows at N
 - Client implementations in Java, Python and other languages.
 - Various configurable properties with sensible defaults to fine tune workflow and task executions like rate limiting, concurrent execution limits etc.
 
-<https://github.com/Netflix/conductor>
+https://github.com/Netflix/conductor
 
-<https://netflix.github.io/conductor>
+https://netflix.github.io/conductor
 
 ## Others
 

@@ -8,4 +8,4 @@ Informally, for any program *f* that might determine if programs halt, a "pathol
 
 ## References
 
-<https://en.wikipedia.org/wiki/Halting_problem>
+https://en.wikipedia.org/wiki/Halting_problem

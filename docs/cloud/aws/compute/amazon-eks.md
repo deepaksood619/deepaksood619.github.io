@@ -19,7 +19,7 @@ This control plane consists of at least two API server nodes and threeetcdnodes 
 
 Amazon EKS uses Amazon VPC network policies to restrict traffic between control plane components to within a single cluster. Control plane components for a cluster cannot view or receive communication from other clusters or other AWS accounts, except as authorized with Kubernetes RBAC policies.
 
-<https://docs.aws.amazon.com/eks/latest/userguide/what-is-eks.html>
+https://docs.aws.amazon.com/eks/latest/userguide/what-is-eks.html
 
 ## EKS > Managed Node Groups
 
@@ -38,7 +38,7 @@ kubectl -n kube-system describe secret $(kubectl -n kube-system get secret | gre
 
 kubectl proxy
 
-<http://localhost:8001/api/v1/namespaces/kubernetes-dashboard/services/https:kubernetes-dashboard:/proxy/#!/login>
+http://localhost:8001/api/v1/namespaces/kubernetes-dashboard/services/https:kubernetes-dashboard:/proxy/#!/login
 ```
 
 ## AWS EKS
@@ -127,11 +127,11 @@ eksctl utils describe-addon-configuration --name vpc-cni --version v1.12.0-eksbu
 eksctl get addon --cluster stashfin-prod-eks --output yaml
 ```
 
-<https://eksctl.io>
+https://eksctl.io
 
 ## Using Fargate with EKS
 
-<https://eksctl.io/usage/fargate>
+https://eksctl.io/usage/fargate
 
 ## Reserve some memory for the kubelet and the system namespaces (for Kubelet OOM)
 
@@ -151,7 +151,7 @@ Can be modified once in 6 hours
 
 ## Optimizations
 
-<https://kubedex.com/90-days-of-aws-eks-in-production>
+https://kubedex.com/90-days-of-aws-eks-in-production
 
 ## Tools
 
@@ -161,7 +161,7 @@ kube2iam provides different AWS IAM roles for pods running on Kubernetes
 
 ## IAM Roles for Service Accounts (IRSA)
 
-<https://aws.amazon.com/blogs/opensource/introducing-fine-grained-iam-roles-service-accounts>
+https://aws.amazon.com/blogs/opensource/introducing-fine-grained-iam-roles-service-accounts
 
 ## Max number of pods
 
@@ -169,10 +169,10 @@ kube2iam provides different AWS IAM roles for pods running on Kubernetes
 
 ## Pod Density and Cost EKS (WeaveWorks)
 
-<https://docs.google.com/spreadsheets/d/1MCdsmN7fWbebscGizcK6dAaPGS-8T_dYxWp0IdwkMKI/edit#gid=1549051942>
+https://docs.google.com/spreadsheets/d/1MCdsmN7fWbebscGizcK6dAaPGS-8T_dYxWp0IdwkMKI/edit#gid=1549051942
 
 ## CNI Metrics Helper
 
 The CNI metrics helper is a tool that you can use to scrape network interface and IP address information, aggregate metrics at the cluster level, and publish the metrics to Amazon CloudWatch.
 
-<https://docs.aws.amazon.com/eks/latest/userguide/cni-metrics-helper.html>
+https://docs.aws.amazon.com/eks/latest/userguide/cni-metrics-helper.html

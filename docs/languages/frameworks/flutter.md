@@ -69,17 +69,17 @@ Hamiltion app
 
 [**https://www.youtube.com/watch?v=wUSkeTaBonA&ab_channel=Firebase**](https://www.youtube.com/watch?v=wUSkeTaBonA&ab_channel=Firebase)
 
-<https://flutter.dev/web>
+https://flutter.dev/web
 
-<https://www.toptal.com/flutter/flutter-tutorial>
+https://www.toptal.com/flutter/flutter-tutorial
 
-<https://www.freecodecamp.org/news/flutter-app-course-mobile-web-desktop>
+https://www.freecodecamp.org/news/flutter-app-course-mobile-web-desktop
 
 [In Record Time: How we Quickly Built a Serverless app with Firebase and Flutter (GDD Europe '17)](https://www.youtube.com/watch?v=prlK_QL_qOA)
 
-<https://www.freecodecamp.org/news/code-a-full-stack-instagram-clone-with-flutter-and-firebase>
+https://www.freecodecamp.org/news/code-a-full-stack-instagram-clone-with-flutter-and-firebase
 
-<https://www.freecodecamp.org/news/learn-flutter-full-course>
+https://www.freecodecamp.org/news/learn-flutter-full-course
 
 [What’s next for Flutter](https://medium.com/flutter/whats-next-for-flutter-b94ce089f49c)
 

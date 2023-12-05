@@ -130,6 +130,6 @@
 }
 ```
 
-<http://www.tipue.com/blog/center-a-div>
+http://www.tipue.com/blog/center-a-div
 
-<https://www.freecodecamp.org/news/how-to-center-a-div-with-css-10-different-ways>
+https://www.freecodecamp.org/news/how-to-center-a-div-with-css-10-different-ways

@@ -2,7 +2,7 @@
 
 ![image](../../media/AWS-Sagemaker-image1.jpg)
 
-<https://www.youtube.com/playlist?list=PLhr1KZpdzukcOr_6j_zmSrvYnLUtgqsZz>
+https://www.youtube.com/playlist?list=PLhr1KZpdzukcOr_6j_zmSrvYnLUtgqsZz
 
 Amazon SageMaker is a fully managed service that provides every developer and data scientist with the ability to build, train, and deploy machine learning (ML) models quickly. SageMaker removes the heavy lifting from each step of the machine learning process to make it easier to develop high quality models.
 
@@ -174,34 +174,34 @@ p - gpu
 
 ## Sagemaker SDK and examples
 
-<https://pypi.org/project/sagemaker>
+https://pypi.org/project/sagemaker
 
 [**https://sagemaker.readthedocs.io/en/stable/**](https://sagemaker.readthedocs.io/en/stable/)
 
-<https://github.com/aws/sagemaker-python-sdk>
+https://github.com/aws/sagemaker-python-sdk
 
-<https://github.com/aws/amazon-sagemaker-examples>
+https://github.com/aws/amazon-sagemaker-examples
 
-<https://github.com/aruncs2005/fraud-detection-workshop.git>
+https://github.com/aruncs2005/fraud-detection-workshop.git
 
 ## Sagemaker Lifecycle configurations (Auto shutdown)
 
-<https://aws.amazon.com/blogs/machine-learning/save-costs-by-automatically-shutting-down-idle-resources-within-amazon-sagemaker-studio>
+https://aws.amazon.com/blogs/machine-learning/save-costs-by-automatically-shutting-down-idle-resources-within-amazon-sagemaker-studio
 
 [**https://github.com/aws-samples/sagemaker-studio-auto-shutdown-extension**](https://github.com/aws-samples/sagemaker-studio-auto-shutdown-extension)
 
-<https://github.com/aws-samples/amazon-sagemaker-notebook-instance-lifecycle-config-samples>
+https://github.com/aws-samples/amazon-sagemaker-notebook-instance-lifecycle-config-samples
 
-<https://github.com/aws-samples/sagemaker-studio-auto-shutdown-extension/tree/main/auto-installer>
+https://github.com/aws-samples/sagemaker-studio-auto-shutdown-extension/tree/main/auto-installer
 
 ## Managed Spot Training
 
-<https://towardsdatascience.com/a-quick-guide-to-using-spot-instances-with-amazon-sagemaker-b9cfb3a44a68>
+https://towardsdatascience.com/a-quick-guide-to-using-spot-instances-with-amazon-sagemaker-b9cfb3a44a68
 
-<https://aws.amazon.com/blogs/aws/managed-spot-training-save-up-to-90-on-your-amazon-sagemaker-training-jobs>
+https://aws.amazon.com/blogs/aws/managed-spot-training-save-up-to-90-on-your-amazon-sagemaker-training-jobs
 
 ## Others
 
 ![image](../../media/AWS-Sagemaker-image7.jpg)
 
-<https://aws.amazon.com/blogs/machine-learning/understanding-amazon-sagemaker-notebook-instance-networking-configurations-and-advanced-routing-options>
+https://aws.amazon.com/blogs/machine-learning/understanding-amazon-sagemaker-notebook-instance-networking-configurations-and-advanced-routing-options

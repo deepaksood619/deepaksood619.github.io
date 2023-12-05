@@ -1,26 +1,26 @@
 # ER - Tools
 
-<https://drawsql.app> (Great)
+https://drawsql.app (Great)
 
-<https://drawsql.app/templates>
+https://drawsql.app/templates
 
-<https://dbdiagram.io>
+https://dbdiagram.io
 
-<https://dbdiagram.io/d/60354600fcdcb6230b212562>
+https://dbdiagram.io/d/60354600fcdcb6230b212562
 
-<https://dataedo.com>
+https://dataedo.com
 
 [~~https://drawerd.com/~~](https://drawerd.com/)
 
-<https://dbdocs.io>
+https://dbdocs.io
 
-<https://erdplus.com>
+https://erdplus.com
 
-<https://dbschema.com> (local, no web)
+https://dbschema.com (local, no web)
 
-<https://sqldbm.com> (Best but too costly)
+https://sqldbm.com (Best but too costly)
 
-<https://www.quickdatabasediagrams.com>
+https://www.quickdatabasediagrams.com
 
 ## Oracle EBS docs (Oracle E-Business Suite)
 
@@ -32,6 +32,6 @@ Low level design section includes a list of tables with a description of their p
 
 Data warehouse included many tables from multiple modules (accounts payable, accounts receivable, general ledger, projects, purchasing, inventory and a few more) and this documentation can save weeks or months of figuring out where the data was, the purpose of columns, how to join tables, or which views to use.
 
-<https://www.dbml.org>
+https://www.dbml.org
 
 DBML (Database Markup Language)is an open-source DSL language designed to define and document database schemas and structures. It is designed to be simple, consistent and highly-readable.

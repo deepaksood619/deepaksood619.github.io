@@ -31,8 +31,8 @@ The services in the cluster are replicated and stored on a set of servers (calle
 
 ## References
 
-<https://en.wikipedia.org/wiki/Apache_ZooKeeper>
+https://en.wikipedia.org/wiki/Apache_ZooKeeper
 
 [https://www.quora.com/What-is-the-actual-role-of-Zookeeper-in-Kafka-What-benefits-will-I-miss-out-on-if-I-don%E2%80%99t-use-Zookeeper-and-Kafka-together#](https://www.quora.com/What-is-the-actual-role-of-Zookeeper-in-Kafka-What-benefits-will-I-miss-out-on-if-I-don%E2%80%99t-use-Zookeeper-and-Kafka-together)
 
-<https://zookeeper.apache.org/doc/r3.3.4/zookeeperInternals.html#ch_Introduction>
+https://zookeeper.apache.org/doc/r3.3.4/zookeeperInternals.html#ch_Introduction

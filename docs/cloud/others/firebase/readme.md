@@ -14,11 +14,11 @@ Tag Manager is an easy and efficient tagging system made for businesses of all s
 
 Chrome Extension - Tag Assistant (by Google)
 
-<https://support.google.com/tagmanager/answer/6102821?hl=en>
+https://support.google.com/tagmanager/answer/6102821?hl=en
 
-<https://en.wikipedia.org/wiki/Tag_management_system>
+https://en.wikipedia.org/wiki/Tag_management_system
 
-<https://www.freecodecamp.org/news/how-to-use-google-tag-manager-to-maintain-google-analytics-and-other-marketing-tags>
+https://www.freecodecamp.org/news/how-to-use-google-tag-manager-to-maintain-google-analytics-and-other-marketing-tags
 
 ## Firebase Dynamic Links
 
@@ -28,17 +28,17 @@ With Dynamic Links, your users get the best available experience for the platfor
 
 In addition, Dynamic Links work across app installs: if a user opens a Dynamic Link on iOS or Android and doesn't have your app installed, the user can be prompted to install it; then, after installation, your app starts and can access the link.
 
-Dynamic links - <https://stash.page.link/.well-known/assetlinks.json>
+Dynamic links - https://stash.page.link/.well-known/assetlinks.json
 
-<https://firebase.google.com/docs/dynamic-links>
+https://firebase.google.com/docs/dynamic-links
 
-<https://www.youtube.com/watch?v=zra2DCd0DnY&ab_channel=Firebase>
+https://www.youtube.com/watch?v=zra2DCd0DnY&ab_channel=Firebase
 
 ## Debugging
 
 DebugView enables you to see the raw event data logged by your app on development devices in near real-time. This is very useful for validation purposes during the instrumentation phase of development and can help you discover errors and mistakes in your analytics implementation and confirm that all events and user properties are being logged correctly.
 
-<https://firebase.google.com/docs/analytics/debugview>
+https://firebase.google.com/docs/analytics/debugview
 
 ## FCM
 
@@ -65,11 +65,11 @@ A built-in Notifications funnel analysis shows you how your users respond to par
 - **Notifications opened -** The number of notifications opened. Reported only for notifications received when the app is in the background.
 - The **number of unique users** who have triggered a conversion event, if one is defined.
 
-<https://firebase.google.com/docs/cloud-messaging/understand-delivery>
+https://firebase.google.com/docs/cloud-messaging/understand-delivery
 
-<https://firebase.google.com/docs/cloud-messaging>
+https://firebase.google.com/docs/cloud-messaging
 
-<https://firebase.googleblog.com/2019/02/life-of-a-message.html>
+https://firebase.googleblog.com/2019/02/life-of-a-message.html
 
 ## Test Lab
 
@@ -79,7 +79,7 @@ Test Lab runs [Espresso](https://developer.android.com/training/testing/ui-testi
 
 RoboTest
 
-<https://firebase.google.com/docs/test-lab>
+https://firebase.google.com/docs/test-lab
 
 ## Firebase Remote Config
 
@@ -87,7 +87,7 @@ Change the behavior and appearance of your app without publishing an app update
 
 Firebase Remote Config is a cloud service that lets you change the behavior and appearance of your app without requiring users to download an app update. When using Remote Config, you create in-app default values that control the behavior and appearance of your app. Then, you can later use the Firebase console or the Remote Config backend APIs to override in-app default values for all app users or for segments of your user base. Your app controls when updates are applied, and it can frequently check for updates and apply them with a negligible impact on performance.
 
-<https://firebase.google.com/docs/remote-config>
+https://firebase.google.com/docs/remote-config
 
 [**https://firebase.google.com/docs/remote-config/personalization**](https://firebase.google.com/docs/remote-config/personalization)
 
@@ -96,10 +96,10 @@ With Remote Config personalization, you can automatically select Remote Config p
 ## Others
 
 - Firebase **AppCheck**
-- <https://neilpatel.com/blog/google-analytics-4>
-- <https://github.com/supabase/supabase>
+- https://neilpatel.com/blog/google-analytics-4
+- https://github.com/supabase/supabase
 - [Learn Supabase, an Open-Source Firebase Alternative](https://www.freecodecamp.org/news/learn-supabase-open-source-firebase-alternative/)
 
 Firebase Open Source Alternative
 
-- <https://counter.dev>
+- https://counter.dev

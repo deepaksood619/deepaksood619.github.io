@@ -52,7 +52,7 @@ Cortex provides horizontally scalable, highly available, multi-tenant, long term
 - Multi-tenant:Cortex can isolate data and queries from multiple different independent Prometheus sources in a single cluster, allowing untrusted parties to share the same cluster.
 - Long term storage:Cortex supports Amazon DynamoDB, Google Bigtable, Cassandra, S3 and GCS for long term storage of metric data. This allows you to durably store data for longer than the lifetime of any single machine, and use this data for long term capacity planning.
 
-<https://github.com/cortexproject/cortex>
+https://github.com/cortexproject/cortex
 
 ## Architecture
 
@@ -69,7 +69,7 @@ Each of these components can be managed independently, which is key to Cortex's 
 
 As the diagram shows, Cortex "completes" the Prometheus Monitoring System. To adapt it to existing Prometheus installations, you just need to re-configure your Prometheus instances to remote write to your Cortex cluster and Cortex handles the rest.
 
-<https://www.cncf.io/blog/2018/12/18/cortex-a-multi-tenant-horizontally-scalable-prometheus-as-a-service>
+https://www.cncf.io/blog/2018/12/18/cortex-a-multi-tenant-horizontally-scalable-prometheus-as-a-service
 
 ## Thanos
 

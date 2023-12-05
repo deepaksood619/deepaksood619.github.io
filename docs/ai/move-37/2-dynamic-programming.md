@@ -55,6 +55,6 @@ The idea of using discount factor is to prevent the total reward from going to i
 
 ![image](../../media/2.-Dynamic-Programming-image5.jpg)
 
-<https://github.com/dennybritz/reinforcement-learning/tree/master/DP>
+https://github.com/dennybritz/reinforcement-learning/tree/master/DP
 
-<https://towardsdatascience.com/reinforcement-learning-demystified-solving-mdps-with-dynamic-programming-b52c8093c919>
+https://towardsdatascience.com/reinforcement-learning-demystified-solving-mdps-with-dynamic-programming-b52c8093c919

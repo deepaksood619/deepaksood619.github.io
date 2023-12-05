@@ -2,23 +2,23 @@
 
 ## Insert performance
 
-<https://stackoverflow.com/questions/16485425/aws-redshift-jdbc-insert-performance>
+https://stackoverflow.com/questions/16485425/aws-redshift-jdbc-insert-performance
 
 ## Optimizations / Best practices
 
-<https://aws.amazon.com/about-aws/whats-new/2020/12/amazon-redshift-announces-automatic-table-optimization>
+https://aws.amazon.com/about-aws/whats-new/2020/12/amazon-redshift-announces-automatic-table-optimization
 
 [**https://docs.aws.amazon.com/redshift/latest/dg/c_designing-tables-best-practices.html**](https://docs.aws.amazon.com/redshift/latest/dg/c_designing-tables-best-practices.html)
 
 [**https://docs.aws.amazon.com/redshift/latest/dg/c_designing-queries-best-practices.html**](https://docs.aws.amazon.com/redshift/latest/dg/c_designing-queries-best-practices.html)
 
-<https://www.youtube.com/watch?v=TJDtQom7SAA>
+https://www.youtube.com/watch?v=TJDtQom7SAA
 
-<https://aws.amazon.com/blogs/big-data/top-8-best-practices-for-high-performance-etl-processing-using-amazon-redshift>
+https://aws.amazon.com/blogs/big-data/top-8-best-practices-for-high-performance-etl-processing-using-amazon-redshift
 
-<https://aws.amazon.com/blogs/big-data/top-10-performance-tuning-techniques-for-amazon-redshift>
+https://aws.amazon.com/blogs/big-data/top-10-performance-tuning-techniques-for-amazon-redshift
 
-<https://aws.amazon.com/blogs/big-data/amazon-redshift-engineerings-advanced-table-design-playbook-preamble-prerequisites-and-prioritization>
+https://aws.amazon.com/blogs/big-data/amazon-redshift-engineerings-advanced-table-design-playbook-preamble-prerequisites-and-prioritization
 
 ## Data storage, ingestion and ELT
 

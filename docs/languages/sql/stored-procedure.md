@@ -37,7 +37,7 @@ EXEC *procedure_name*;
 - **User-definedstored procedures** are usually stored in a user database and are typically designed to complete the tasks in the user database. While coding these proceduresdon't usethesp_prefix because if we use thesp_prefix first, it will check the master database, and then it comes to user defined database.
 - **Extendedstored procedures** are the procedures that call functions from DLL files. Nowadays, extended stored procedures are deprecated for the reason it would be better to avoid using extended stored procedures.
 
-<https://en.wikipedia.org/wiki/Stored_procedure>
+https://en.wikipedia.org/wiki/Stored_procedure
 
 ## Stored Procedures
 
@@ -72,7 +72,7 @@ EXEC *procedure_name*;
 - Print command cant't use.
 - It can't execute dynamic sql.
 
-<https://www.mysqltutorial.org/mysql-error-handling-in-stored-procedures>
+https://www.mysqltutorial.org/mysql-error-handling-in-stored-procedures
 
 ## Access
 

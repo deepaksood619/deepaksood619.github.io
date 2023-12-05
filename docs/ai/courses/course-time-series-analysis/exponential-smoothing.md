@@ -14,9 +14,9 @@ s~t~=αx~t~+(1−α)s~t-1~
 
 3. Triple exponential smoothing
 
-<https://en.wikipedia.org/wiki/Exponential_smoothing>
+https://en.wikipedia.org/wiki/Exponential_smoothing
 
-<https://www.vividcortex.com/blog/exponential-smoothing-for-time-series-forecasting>
+https://www.vividcortex.com/blog/exponential-smoothing-for-time-series-forecasting
 
 ## Holt Winters (basic forecasting) / Triple exponential smoothing
 
@@ -24,6 +24,6 @@ Holt-Winters forecasting is a way to model and predict the behavior of a sequenc
 
 Holt-Winters is a model of time series behavior. Forecasting always requires a model, and Holt-Winters is a way to model three aspects of the time series: **a typical value (average), a slope (trend) over time, and a cyclical repeating pattern (seasonality)**. Holt-Winters uses exponential smoothing to encode lots of values from the past and use them to predict "typical" values for the present and future.
 
-<https://www.vividcortex.com/blog/holt-winters-forecasting-simplified>
+https://www.vividcortex.com/blog/holt-winters-forecasting-simplified
 
-<https://grisha.org/blog/2016/01/29/triple-exponential-smoothing-forecasting>
+https://grisha.org/blog/2016/01/29/triple-exponential-smoothing-forecasting

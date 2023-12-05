@@ -18,7 +18,7 @@ You can also use Control Center to manage and monitor Kafka Connect: the open so
 
 ## References
 
-<https://docs.confluent.io/current/tutorials/cp-demo/docs/index.html#cp-demo>
+https://docs.confluent.io/current/tutorials/cp-demo/docs/index.html#cp-demo
 
 ## Tips
 
@@ -45,7 +45,7 @@ You can also use Control Center to manage and monitor Kafka Connect: the open so
   - Quotas
 - Lag Monitoring
 - End-to-End Monitoring
-  - Kakfa-monitor <https://github.com/linkedin/kafka-monitor>
+  - Kakfa-monitor https://github.com/linkedin/kafka-monitor
 
 ## Tools
 
@@ -54,6 +54,6 @@ You can also use Control Center to manage and monitor Kafka Connect: the open so
 
 ## Metrics
 
-<https://docs.google.com/spreadsheets/d/1qZW7xBiuGkiiEqf0rhCHGVRYGIISLYmJQMTNz9HkonU/edit#gid=1068940419>
+https://docs.google.com/spreadsheets/d/1qZW7xBiuGkiiEqf0rhCHGVRYGIISLYmJQMTNz9HkonU/edit#gid=1068940419
 
-<https://medium.com/quantyca/how-to-monitor-your-kafka-cluster-efficiently-d45ce37c02f1>
+https://medium.com/quantyca/how-to-monitor-your-kafka-cluster-efficiently-d45ce37c02f1

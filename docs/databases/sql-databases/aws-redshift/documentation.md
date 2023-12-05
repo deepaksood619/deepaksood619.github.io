@@ -21,7 +21,7 @@ If no compression is specified in a CREATE TABLE or ALTER TABLE statement, Amazo
 - Columns that are defined as SMALLINT, INTEGER, BIGINT, DECIMAL, DATE, TIMESTAMP, or TIMESTAMPTZ data types are assigned AZ64 compression.
 - Columns that are defined as CHAR or VARCHAR data types are assigned LZO compression.
 
-<https://docs.aws.amazon.com/redshift/latest/dg/c_Compression_encodings.html>
+https://docs.aws.amazon.com/redshift/latest/dg/c_Compression_encodings.html
 
 ## Concepts
 
@@ -93,7 +93,7 @@ Interleaved sort gives equal weight to each column in the Redshift sort keys. As
 - UseCompound Sort Key, when you have more that one column as Sort Key, when your query includes JOINS, GROUP BY, ORDER BY and PARTITION BY when your table size is small.
 - Don't use aninterleaved sort keyon columns with monotonically increasing attributes, like an identity column, dates or timestamps.
 
-<https://hevodata.com/blog/redshift-sort-keys-choosing-best-sort-style>
+https://hevodata.com/blog/redshift-sort-keys-choosing-best-sort-style
 
 ### Data sorting
 
@@ -109,7 +109,7 @@ Interleaved sort gives equal weight to each column in the Redshift sort keys. As
   - Define four or less sort key columns - more will result in marginal gains and increased ingestion overhead
 - Less then 10000 rows, don't sort, since all will be in a single zone map
 
-<https://docs.aws.amazon.com/redshift/latest/dg/c_best-practices-sort-key.html>
+https://docs.aws.amazon.com/redshift/latest/dg/c_best-practices-sort-key.html
 
 - To have Amazon Redshift choose the appropriate sort order, specifyAUTOfor the sort key.
 - If recent data is queried most frequently, specify the timestamp column as the leading column for the sort key.
@@ -122,7 +122,7 @@ Interleaved sort gives equal weight to each column in the Redshift sort keys. As
   - On most fact tables, the first sort key columns should be a temporal column
   - Columns added to a sort key after a high-cardinality column are not effective
 
-<https://github.com/awsdocs/amazon-redshift-developer-guide/blob/master/doc_source/c_best-practices-sort-key>
+https://github.com/awsdocs/amazon-redshift-developer-guide/blob/master/doc_source/c_best-practices-sort-key
 
 ## Redshift Distribution Key (DIST Keys)
 
@@ -158,7 +158,7 @@ Choose columns used in the query that leads to least skewness as the DISTKEY. Th
 - It is beneficial to select a KEY distribution if a table is used in JOINS. Also, consider the other joining tables and their distribution style.
 - If one particular node contains the skew data, the processing on this node will be slower. This results in much longer total query processing time. This query under skewed configuration may take even longer than the query made against the table without a DISTKEY
 
-<https://hevodata.com/blog/redshift-distribution-keys>
+https://hevodata.com/blog/redshift-distribution-keys
 
 ## Data Distribution
 
@@ -190,6 +190,6 @@ Summary
 - AUTO
   - Default Distribution - Combines DISTSTYLE ALL and EVEN
 
-<https://docs.aws.amazon.com/redshift/latest/dg/c_best-practices-best-dist-key.html>
+https://docs.aws.amazon.com/redshift/latest/dg/c_best-practices-best-dist-key.html
 
-<https://docs.aws.amazon.com/redshift/latest/dg/t_Distributing_data.html>
+https://docs.aws.amazon.com/redshift/latest/dg/t_Distributing_data.html

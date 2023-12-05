@@ -22,4 +22,4 @@
 | `;` | Allows you to list multiple commands on a single line, separated by this character. Example: `date;john passwd; date` # Print the date, crack the passwords and print the date again afterwards - cheap benchmarking |
 | `=` | Assignment. Set the variable named on the left to the value presented on the right. Example: my_variable="Hello World!" # Note that there is NO SPACE between the variable name and the string. |
 
-<http://www.angelfire.com/mi/genastorhotz/reality/computers/linux/bashmetachars.html>
+http://www.angelfire.com/mi/genastorhotz/reality/computers/linux/bashmetachars.html

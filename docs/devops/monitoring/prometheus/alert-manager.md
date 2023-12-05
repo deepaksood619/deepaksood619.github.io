@@ -44,8 +44,8 @@ receivers:
 
 ## References
 
-<https://prometheus.io/docs/alerting/alertmanager>
+https://prometheus.io/docs/alerting/alertmanager
 
-<https://prometheus.io/docs/alerting/configuration>
+https://prometheus.io/docs/alerting/configuration
 
 [*https://github.com/prometheus/alertmanager/blob/master/doc/examples/simple.yml*](https://github.com/prometheus/alertmanager/blob/master/doc/examples/simple.yml)

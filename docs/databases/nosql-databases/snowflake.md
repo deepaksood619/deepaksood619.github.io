@@ -26,6 +26,8 @@ Snowflake is relational as it supports ANSI SQL and ACID transactions. It offers
 
 Snowflake supports defining and maintaining constraints, but does not enforce them, except for NOT NULL constraints, which are always enforced including foreign key constraint.
 
+Snowflake, cannot handle referential integrity because, even though it supports integrity and other constraints, they are not enforced except the NOT NULL constraint that is always enforced. Other constraints than NOT NULL are created as disabled constraints.
+
 #### Indexes
 
 [Not Supported](https://dbdb.io/browse?indexes=not-supported)
@@ -86,9 +88,33 @@ It uses Amazon S3 for its underlying data storage. It performs query execution w
 
 A Snowflake stage is a location in cloud storage that you use to load and unload data from a table. Snowflake supports:
 
-- **Internal stages**—Used to store data files internally within Snowflake. Each user and table in Snowflake gets an internal stage by default for staging data files.
+### Internal stages
 
-- **External stages**—Used to store data files externally in Amazon S3, Google Cloud Storage, or Microsoft Azure. If your data is already stored in these cloud storage services, you can use an external stage to load data in Snowflake tables.
+Used to store data files internally within Snowflake. Each user and table in Snowflake gets an internal stage by default for staging data files.
+
+Internal stages can be further categorized as follows:
+
+- **User stages:** Each of these stages pertains to a specific user, so they'll be assigned to every user by default for storing files.
+- **Table stages:** Each of these stages pertains to a specific database table, so they'll be assigned to every table by default.
+- **Internal named stages:** Compared to the user or table stages, these stages offer a greater degree of flexibility. As these are some of the Snowflake objects, all operations that can be performed on objects can also be performed on internally named stages. These stages must be created manually and we can specify file formats when creating these stages.
+
+### External stages
+
+Used to store data files externally in Amazon S3, Google Cloud Storage, or Microsoft Azure. If your data is already stored in these cloud storage services, you can use an external stage to load data in Snowflake tables.
+
+## Snowpipe
+
+In simple terms, Snowpipe is a continuous data ingestion service provided by Snowflake that loads files within minutes as soon as they are added to a stage and submitted for ingestion. Therefore, you can load data from files in micro-batches (organizing data into small groups/matches), allowing users to access the data within minutes (very less response time), rather than manually running COPY statements on a schedule to load large batches. By loading the data into micro-batches, Snowpipe makes it easier to analyze it. Snowpipe uses a combination of filenames and file checksums to ensure that only new data is processed.  
+
+### Advantages of Snowpipe
+
+- By eliminating roadblocks, Snowpipe facilitates real-time analytics.
+- It is cost-effective.
+- It is simple to use.
+- There is no management required.
+- It provides flexibility, resilience, and so on.
+
+[Snowpipe | Snowflake Documentation](https://docs.snowflake.com/en/user-guide/data-load-snowpipe-intro)
 
 ## SnowSQL (CLI Client)
 
@@ -168,3 +194,5 @@ DROP WAREHOUSE IF EXISTS sf_tuts_wh;
 [Snowflake Explained In 9 Mins | What Is Snowflake Database | Careers In Snowflake | MindMajix - YouTube](https://www.youtube.com/watch?v=hJHWmYcdDn8)
 
 [Snowflake Documentation](https://docs.snowflake.com/)
+
+[Top Snowflake Interview Questions and Answers (2023) - InterviewBit](https://www.interviewbit.com/snowflake-interview-questions/)

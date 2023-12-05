@@ -4,7 +4,7 @@
 
 OpenConnect is an [open-source software](https://en.wikipedia.org/wiki/Open-source_software) application for connecting to [virtual private networks](https://en.wikipedia.org/wiki/Virtual_private_network)(VPN), which implement secure [point-to-point](https://en.wikipedia.org/wiki/Point-to-point_(telecommunications)) connections
 
-<https://en.wikipedia.org/wiki/OpenConnect>
+https://en.wikipedia.org/wiki/OpenConnect
 
 ## OpenSSH
 
@@ -14,7 +14,7 @@ OpenSSH started as a [fork](https://en.wikipedia.org/wiki/Fork_(software_develop
 
 OpenSSH is not a single computer program, but rather a suite of programs that serve as alternatives to unencrypted protocols like [Telnet](https://en.wikipedia.org/wiki/Telnet) and [FTP](https://en.wikipedia.org/wiki/FTP). OpenSSH is integrated into several operating systems, while the [portable](https://en.wikipedia.org/wiki/Porting) version is available as a package in other systems.
 
-<https://en.wikipedia.org/wiki/OpenSSH>
+https://en.wikipedia.org/wiki/OpenSSH
 
 ## GStreamer
 
@@ -22,15 +22,15 @@ GStreamer is a [pipeline](https://en.wikipedia.org/wiki/Pipeline_(computing))-ba
 
 GStreamer supports a wide variety of media-handling components, including simple [audio](https://en.wikipedia.org/wiki/Audio_frequency) playback, audio and video playback, [recording](https://en.wikipedia.org/wiki/Sound_recording_and_reproduction), [streaming](https://en.wikipedia.org/wiki/Streaming_media) and editing. The pipeline design serves as a base to create many types of [multimedia](https://en.wikipedia.org/wiki/Multimedia) applications such as [video editors](https://en.wikipedia.org/wiki/Video_editing), [transcoders](https://en.wikipedia.org/wiki/Transcoding), streaming media broadcasters and [media players](https://en.wikipedia.org/wiki/Media_player_(application_software)).
 
-<https://en.wikipedia.org/wiki/GStreamer>
+https://en.wikipedia.org/wiki/GStreamer
 
-<https://gstreamer.freedesktop.org>
+https://gstreamer.freedesktop.org
 
 **Others**
 
 NNStreamer - Neural Network (NN) Streamer, Stream Processing Paradigm for Neural Network Apps/Devices.
 
-<https://github.com/nnsuite/nnstreamer>
+https://github.com/nnsuite/nnstreamer
 
 ## Zeroconf
 
@@ -38,7 +38,7 @@ Zero-configuration networking (zeroconf) is a set of technologies that automatic
 
 Zeroconf is built on three core technologies: automatic assignment of numeric [network addresses](https://en.wikipedia.org/wiki/Network_address) for networked devices, automatic distribution and resolution of computer [hostnames](https://en.wikipedia.org/wiki/Hostname), and automatic [location of network services](https://en.wikipedia.org/wiki/Service_discovery), such as printing devices.
 
-<https://en.wikipedia.org/wiki/Zero-configuration_networking>
+https://en.wikipedia.org/wiki/Zero-configuration_networking
 
 ## pmacct
 
@@ -80,9 +80,9 @@ pmacct is a small set of multi-purpose passive network monitoring tools. It can 
 - Careful SQL support: data pre-processing, triggers, dynamic table naming
 - It's free, open-source, developed and supported with passion and open mind for more than 10 years
 
-<https://brooks.sh/2019/11/17/network-flow-analysis-with-prometheus>
+https://brooks.sh/2019/11/17/network-flow-analysis-with-prometheus
 
-<https://github.com/pmacct/pmacct>
+https://github.com/pmacct/pmacct
 
 ## Ribbon
 
@@ -94,13 +94,13 @@ Ribbon is a client side IPC library that is battle-tested in cloud. It provides 
 - Multiple protocol (HTTP, TCP, UDP) support in an asynchronous and reactive model
 - Caching and batching
 
-<https://github.com/Netflix/ribbon>
+https://github.com/Netflix/ribbon
 
 ## mininet
 
 Emulator for rapid prototyping of Software Defined Networks (SDN)
 
-<https://github.com/mininet/mininet>
+https://github.com/mininet/mininet
 
 ## RSS
 

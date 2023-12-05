@@ -34,7 +34,7 @@ There are a number of credit scoring techniques such as: hazard rate modeling, r
 
 A typical mistaken belief about [credit scoring](https://en.wikipedia.org/wiki/Credit_score) is that the only trait that matters is whether you have actually made payments on time as well as satisfied your monetary obligations in a prompt way. While payment background is essential, however it still just composes just over one-third of the credit rating score. Furthermore, the repayment background is only shown in your credit history.
 
-<https://en.wikipedia.org/wiki/Credit_scorecards>
+https://en.wikipedia.org/wiki/Credit_scorecards
 
 ## [Credit bureaus](https://en.wikipedia.org/wiki/Credit_bureau)
 
@@ -72,7 +72,7 @@ Technically, to determine the credit scorecard points, start out by selecting a 
 3. Deployment phase
     Deployment entails integrating a credit scorecard model into an IT production environment and keeping tracking logs, performance reports, and so on.
 
-<https://www.mathworks.com/help/finance/about-credit-scorecards.html>
+https://www.mathworks.com/help/finance/about-credit-scorecards.html
 
 ## Gains Chart
 

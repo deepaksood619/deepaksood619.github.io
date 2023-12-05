@@ -30,7 +30,7 @@ There are lots of versions of this, and you've got to be very careful about how 
 
 The [parable](https://en.wikipedia.org/wiki/Parable) of theblind men and an elephantoriginated in the ancient [Indian subcontinent](https://en.wikipedia.org/wiki/Indian_subcontinent), from where it has been widely diffused. It is a story of a group of blind men who have never come across an [elephant](https://en.wikipedia.org/wiki/Elephant) before and who learn and conceptualize what the elephant is like by touching it. Each blind man feels a different part of the elephant's body, but only one part, such as the side or the tusk. They then describe the elephant based on their limited experience and their descriptions of the elephant are different from each other. In some versions, they come to suspect that the other person is dishonest and they come to blows. The moral of the parable is that humans have a tendency to claim absolute truth based on their limited, subjective experience as they ignore other people's limited, subjective experiences which may be equally true.
 
-<https://en.wikipedia.org/wiki/Blind_men_and_an_elephant>
+https://en.wikipedia.org/wiki/Blind_men_and_an_elephant
 
 A parable from priest and therapistAnthony de Melloon the stories we tell ourselves:
 

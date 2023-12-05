@@ -20,7 +20,7 @@ sendmultiple commandsto the server without waiting for the replies at all, and f
 - [Redis keyspace notifications](https://redis.io/topics/notifications): Get notifications of keyspace events via Pub/Sub (Redis 2.8 or greater).
 - [Creating secondary indexes with Redis](https://redis.io/topics/indexes): Use Redis data structures to create secondary indexes, composed indexes and traverse graphs.
 
-<https://redis.io/topics/indexes>
+https://redis.io/topics/indexes
 
 ## Redis modules API
 

@@ -288,7 +288,7 @@ kubectl attach -it kafka-manager-5f54d74d89-mdxh4 -n kafka
 kubectl exec monolith --stdin --tty -c monolith /bin/sh
 kubectl exec -it druid-republisher-fd8bb77bd-zgjf7 -- /bin/bash
 kubectl exec -n kafka -it my-kafka-connect-cp-kafka-connect-5ff6d9758d-gjk22 -c cp-kafka-connect-server -- /bin/bash
-kubectl exec example-0 cfurl <http://10.8.0.1:9101>
+kubectl exec example-0 cfurl http://10.8.0.1:9101
 
 ## port-forward Forward one or more local ports to a pod
 
@@ -496,11 +496,11 @@ kubectl edit svc/kubernetes-dashboard -n kube-system
 Add - loadBalancerIP: 52.172.40.253
 Change - type: LoadBalancer
 
-kubectl apply -f <https://raw.githubusercontent.com/kubernetes/dashboard/v1.10.1/src/deploy/recommended/kubernetes-dashboard.yaml>
+kubectl apply -f https://raw.githubusercontent.com/kubernetes/dashboard/v1.10.1/src/deploy/recommended/kubernetes-dashboard.yaml
 
 kubectl proxy
 
-<https://github.com/kubernetes/dashboard>
+https://github.com/kubernetes/dashboard
 
 # Get bearer token
 kubectl -n kube-system describe secret $(kubectl -n kube-system get secret | grep admin-user | awk '{print $1}')
@@ -510,7 +510,7 @@ eyJhbGciOiJSUzI1NiIsImtpZCI6IiJ9.eyJpc3MiOiJrdWJlcm5ldGVzL3NlcnZpY2VhY2NvdW50Iiw
 
 ### Kubernetes dashboard
 
-<http://localhost:8001/api/v1/namespaces/kube-system/services/https:kubernetes-dashboard:/proxy>
+http://localhost:8001/api/v1/namespaces/kube-system/services/https:kubernetes-dashboard:/proxy
 
 ### Decoding a Secret
 
@@ -519,7 +519,7 @@ kubectl get secret mysecret -o yaml
 echo 'MWYyZDFlMmU2N2Rm' | base64 --decode
 ```
 
-<https://kubernetes.io/docs/concepts/configuration/secret/#decoding-a-secret>
+https://kubernetes.io/docs/concepts/configuration/secret/#decoding-a-secret
 
 ## Example - Counter every 1 sec
 
@@ -663,10 +663,10 @@ print(f'requested_cpu: {total_cpu} nrequested_ram: {total_ram}')
 
 ## References
 
-<https://rominirani.com/tutorial-getting-started-with-kubernetes-with-docker-on-mac-7f58467203fd>
+https://rominirani.com/tutorial-getting-started-with-kubernetes-with-docker-on-mac-7f58467203fd
 
-<https://kubernetes.io/docs/reference/kubectl/cheatsheet>
+https://kubernetes.io/docs/reference/kubectl/cheatsheet
 
-<https://kubernetes.io/docs/reference/kubectl/overview>
+https://kubernetes.io/docs/reference/kubectl/overview
 
-<https://github.com/dgkanatsios/CKAD-exercises>
+https://github.com/dgkanatsios/CKAD-exercises

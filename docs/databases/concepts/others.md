@@ -4,7 +4,7 @@
 
 Java Database Connectivity (JDBC) is an [application programming interface](https://en.wikipedia.org/wiki/Application_programming_interface)(API) for the programming language [Java](https://en.wikipedia.org/wiki/Java_(programming_language)), which defines how a client may access a [database](https://en.wikipedia.org/wiki/Database). It is a Java-based data access technology used for Java database connectivity. It is part of the [Java Standard Edition](https://en.wikipedia.org/wiki/Java_Standard_Edition) platform, from [Oracle Corporation](https://en.wikipedia.org/wiki/Oracle_Corporation). It provides methods to query and update data in a database, and is oriented towards [relational databases](https://en.wikipedia.org/wiki/Relational_database). A JDBC-to-[ODBC](https://en.wikipedia.org/wiki/ODBC) bridge enables connections to any ODBC-accessible data source in the [Java virtual machine](https://en.wikipedia.org/wiki/Java_virtual_machine)(JVM) host environment
 
-<https://en.wikipedia.org/wiki/Java_Database_Connectivity>
+https://en.wikipedia.org/wiki/Java_Database_Connectivity
 
 ## ODBC - Opensource Database Connectivity
 
@@ -14,7 +14,7 @@ ODBC accomplishes DBMS independence by using anODBC driveras a translation layer
 
 ODBC was originally developed by [Microsoft](https://en.wikipedia.org/wiki/Microsoft) and [Simba Technologies](https://en.wikipedia.org/wiki/Simba_Technologies) during the early 1990s, and became the basis for the [Call Level Interface](https://en.wikipedia.org/wiki/Call_Level_Interface)(CLI) standardized by [SQL Access Group](https://en.wikipedia.org/wiki/SQL_Access_Group) in the [Unix](https://en.wikipedia.org/wiki/Unix) and [mainframe](https://en.wikipedia.org/wiki/Mainframe_computer) field. ODBC retained several features that were removed as part of the CLI effort. Full ODBC was later ported back to those platforms, and became a [de facto standard](https://en.wikipedia.org/wiki/De_facto_standard) considerably better known than CLI. The CLI remains similar to ODBC, and applications can be ported from one platform to the other with few changes.
 
-<https://en.wikipedia.org/wiki/Open_Database_Connectivity>
+https://en.wikipedia.org/wiki/Open_Database_Connectivity
 
 ## Data Integrity
 
@@ -41,9 +41,9 @@ Today, you usually head about deduplication in the contest of storage devices or
 
 Deduplication is a way of storing this redundant data only once.
 
-<https://en.wikipedia.org/wiki/Data_deduplication>
+https://en.wikipedia.org/wiki/Data_deduplication
 
-<https://searchstorage.techtarget.com/definition/data-deduplication>
+https://searchstorage.techtarget.com/definition/data-deduplication
 
 ## General Data Types
 
@@ -71,11 +71,11 @@ There are a few reasons why generating primary keys via auto-incrementing may no
 
 Please consider the impacts of auto-incremented IDs vs UUIDs on indexing, partitioning and sharding before you decide on what works better for you.
 
-<https://medium.com/@rakyll/things-i-wished-more-developers-knew-about-databases-2d0178464f78>
+https://medium.com/@rakyll/things-i-wished-more-developers-knew-about-databases-2d0178464f78
 
 ## Database Storage Engines
 
-<https://medium.com/yugabyte/a-busy-developers-guide-to-database-storage-engines-the-basics-6ce0a3841e59>
+https://medium.com/yugabyte/a-busy-developers-guide-to-database-storage-engines-the-basics-6ce0a3841e59
 
 ![image](../../media/data-Others-image1.jpg)
 
@@ -87,4 +87,4 @@ When you make a lot of inserts or updates do it one statement or disable autocom
 
 ![image](../../media/database-others-Others-image2.jpg)
 
-<https://github.com/harryho/db-samples>
+https://github.com/harryho/db-samples

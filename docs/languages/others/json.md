@@ -69,7 +69,7 @@ JSONP([JSON](https://en.wikipedia.org/wiki/JSON) with Paddingor JSON-P) is a jav
 
 ## jsonnet
 
-<https://jsonnet.org>
+https://jsonnet.org
 
 ## qp (query-pipe)
 
@@ -80,7 +80,7 @@ A tool for filtering and transforming JSON from the command-line. Automatically 
 - a familiar and approachable SQL-like query language
 - ~600kbbinary, withzeroruntime dependencies (compiled with [QuickJS](https://bellard.org/quickjs/))
 
-<https://github.com/paybase/qp>
+https://github.com/paybase/qp
 
 ## JMESPath
 
@@ -90,14 +90,14 @@ JMESPath is a query language for JSON.
 
 az network public-ip list --resource-group MC_Technology_dev-kubernetes-cluster_southindia -o json --query "[*].name"
 
-<http://jmespath.org>
+http://jmespath.org
 
-<http://jmespath.org/tutorial.html>
+http://jmespath.org/tutorial.html
 
 ## References
 
-<http://json.org>
+http://json.org
 
-JSON Schema Definition - <http://json-schema.org/draft-04/json-schema-core.html>
+JSON Schema Definition - http://json-schema.org/draft-04/json-schema-core.html
 
-<https://www.jsonschema.net>
+https://www.jsonschema.net

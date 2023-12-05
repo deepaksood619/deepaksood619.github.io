@@ -15,13 +15,13 @@ The architecture is a standard [transformer network](https://en.wikipedia.org/wi
 Moving from information to knowledge age
 
 - [Meet Bard](https://bard.google.com/)
-- <https://openai.com/blog/chatgpt>
+- https://openai.com/blog/chatgpt
 - [Godmode](https://godmode.space/)
 - [OpenAI Platform](https://platform.openai.com/)
 - [GPT-4](https://openai.com/research/gpt-4)
 - [It’s Time to Pay Attention to A.I. (ChatGPT and Beyond)](https://www.youtube.com/watch?v=0uQqMxXoNVs)
-- <https://en.wikipedia.org/wiki/GPT-3>
-- <https://www.gwern.net/GPT-3>
+- https://en.wikipedia.org/wiki/GPT-3
+- https://www.gwern.net/GPT-3
 - [Galileo AI · Copilot for interface design](https://www.usegalileo.ai/)
 - [How Does ChatGPT Work - YouTube](https://www.youtube.com/watch?v=WlbPnZ_SOX4)
 - [ChatGPT - Explained! - YouTube](https://www.youtube.com/watch?v=NpmnWgQgcsA)
@@ -38,7 +38,7 @@ Moving from information to knowledge age
 - AI21 labs - Jurassic-2 - Multilingual LLMs for text generation in Spanish, French, German, Portuguese, Italian, and Dutch
 - Antropic - Claude - LLM for conversations, question answering, and workflow automation based on research into training honest and responsible AI systems
 - [GitHub - AUTOMATIC1111/stable-diffusion-webui: Stable Diffusion web UI](https://github.com/AUTOMATIC1111/stable-diffusion-webui)
-- Dall E - <https://openai.com/dall-e-2>
+- Dall E - https://openai.com/dall-e-2
 - [ClipDrop](https://clipdrop.co/)
 - Deep Nostalgia
 - [AI Voice Generator: Versatile Text to Speech Software | Murf AI](https://murf.ai/)

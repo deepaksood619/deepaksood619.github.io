@@ -469,9 +469,9 @@ If you don't know already, then TradingView is now available on Kite. Here is th
 - The theory identifies impulse waves that establish a pattern and corrective waves that oppose the larger trend.
 - Each set of waves is within another set of waves that adhere to the same impulse or corrective pattern, described as a fractal approach to investing.
 
-<https://www.investopedia.com/terms/e/elliottwavetheory.asp>
+https://www.investopedia.com/terms/e/elliottwavetheory.asp
 
-<https://en.wikipedia.org/wiki/Elliott_wave_principle>
+https://en.wikipedia.org/wiki/Elliott_wave_principle
 
 ## Others
 

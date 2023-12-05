@@ -27,7 +27,7 @@ The STR model is a mathematical model which views the "triangle model" as a grap
 
 Scope refers to complexity (which can also mean quality). Resources includes humans (workers), financial, and physical. Note that these values are not considered unbounded. For instance, if one baker can make a loaf of bread in an hour in an oven, that doesn't mean ten bakers could make ten loaves in one hour in the same oven (Due to the oven capacity).
 
-<https://en.wikipedia.org/wiki/Project_management_triangle>
+https://en.wikipedia.org/wiki/Project_management_triangle
 
 ## Project management triangle topic
 
@@ -115,4 +115,4 @@ Requirements specified to achieve the end result. The overall definition of what
 
 Together, these three constraints have given rise to the phrase "On Time, On Spec, On Budget." In this case, the term "scope" is substituted with "spec(ification)."
 
-<https://en.wikipedia.org/wiki/Project_management_triangle>
+https://en.wikipedia.org/wiki/Project_management_triangle

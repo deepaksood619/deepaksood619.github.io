@@ -22,10 +22,10 @@ Reverse Repo rate is the rate at which RBI borrows money from banks. When banks 
 
 Every bank is mandatorily required to maintain funds with RBI. The amount that they maintain is dependent on the CRR. If CRR increases then more money is removed from the system, which is again not good for the economy
 
-<https://en.wikipedia.org/wiki/Monetary_policy>
+https://en.wikipedia.org/wiki/Monetary_policy
 
-<https://www.civilsdaily.com/national-income-accounting>
+https://www.civilsdaily.com/national-income-accounting
 
-<https://byjus.com/free-ias-prep/non-tax-revenue>
+https://byjus.com/free-ias-prep/non-tax-revenue
 
 [**https://www.clearias.com/balance-of-payments/**](https://www.clearias.com/balance-of-payments/)

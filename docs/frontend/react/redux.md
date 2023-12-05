@@ -11,7 +11,7 @@ Redux makes state management really easy.
 
 ## Redux expects that all state updates are done immutably
 
-<https://redux.js.org/tutorials/essentials/part-1-overview-concepts>
+https://redux.js.org/tutorials/essentials/part-1-overview-concepts
 
 Redux is a pattern and library for managing and updating application state, using events called "actions".It serves as a centralized store for state that needs to be used across your entire application, with rules ensuring that the state can only be updated in a predictable fashion.
 
@@ -163,9 +163,9 @@ return state;
 export default rootReducer;
 ```
 
-<https://dev.to/nrabhiram/react-redux-1622>
+https://dev.to/nrabhiram/react-redux-1622
 
-<https://www.toptal.com/react/react-state-management-tools-enterprise>
+https://www.toptal.com/react/react-state-management-tools-enterprise
 
 ## Which state management is best in React?
 
@@ -179,7 +179,7 @@ Context API's functionality is tiny out of the box. It was not built and optimiz
 
 [React Redux Tutorial](https://www.youtube.com/playlist?list=PLC3y8-rFHvwheJHvseC3I0HuYI2f46oAK)
 
-<https://www.toptal.com/react-native/react-redux-rxjs-tutorial>
+https://www.toptal.com/react-native/react-redux-rxjs-tutorial
 
 Redux Thunk - [React Redux Tutorials - 29 - Redux Thunk Get Request](https://www.youtube.com/watch?v=tcCS4mGAq7Q)
 
@@ -189,11 +189,11 @@ Redux Saga
 
 The official, opinionated, batteries-included toolset for efficient Redux development
 
-<https://github.com/reduxjs/redux-toolkit>
+https://github.com/reduxjs/redux-toolkit
 
-<https://redux-toolkit.js.org>
+https://redux-toolkit.js.org
 
-<https://www.freecodecamp.org/news/learn-redux-toolkit-the-recommended-way-to-use-redux>
+https://www.freecodecamp.org/news/learn-redux-toolkit-the-recommended-way-to-use-redux
 
 Redux Toolkit allows us to write shorter logic that's easier to read, while still following the same Redux behavior and data flow.
 
@@ -265,15 +265,15 @@ store.dispatch(decremented())
 
 ## References
 
-<https://daveceddia.com/react-redux-immutability-guide>
+https://daveceddia.com/react-redux-immutability-guide
 
-<https://www.freecodecamp.org/news/what-is-redux-store-actions-reducers-explained>
+https://www.freecodecamp.org/news/what-is-redux-store-actions-reducers-explained
 
 ## Others
 
-<https://github.com/mobxjs/mobx>
+https://github.com/mobxjs/mobx
 
-<https://github.com/pmndrs/zustand>
+https://github.com/pmndrs/zustand
 
 [Akita](https://datorama.github.io/akita/)
 

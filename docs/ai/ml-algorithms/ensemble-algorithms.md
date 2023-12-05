@@ -10,8 +10,8 @@ In statistics and machine learning, ensemble methods use multiple learning algor
 
 ## References
 
-<https://en.wikipedia.org/wiki/Ensemble_learning>
+https://en.wikipedia.org/wiki/Ensemble_learning
 
-<https://www.toptal.com/machine-learning/ensemble-methods-machine-learning>
+https://www.toptal.com/machine-learning/ensemble-methods-machine-learning
 
-<https://www.toptal.com/machine-learning/ensemble-methods-kaggle-machine-learn>
+https://www.toptal.com/machine-learning/ensemble-methods-kaggle-machine-learn

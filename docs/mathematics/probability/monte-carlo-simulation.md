@@ -26,6 +26,6 @@ Monte Carlo simulation provides a number of advantages over deterministic, or "s
 - **Correlation of Inputs:** In Monte Carlo simulation, it's possible to model interdependent relationships between input variables. It's important for accuracy to represent how, in reality, when some factors goes up, others go up or down accordingly.
 An enhancement to Monte Carlo simulation is the use of Latin Hypercube sampling, which samples more accurately from the entire range of distribution functions.
 
-<http://www.palisade.com/risk/monte_carlo_simulation.asp>
+http://www.palisade.com/risk/monte_carlo_simulation.asp
 
-<https://en.wikipedia.org/wiki/Monte_Carlo_method>
+https://en.wikipedia.org/wiki/Monte_Carlo_method

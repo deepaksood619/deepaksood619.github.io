@@ -104,6 +104,6 @@ What are rendering options forJSONSerialization? (not)
 2. MutableLeaves: Leaf strings in the JSON object graph are created as instances of variable strings.
 3. allowFragments: The parser should allow top-level objects that are not an instance of arrays or dictionaries.
 
-<https://www.toptal.com/ios/interview-questions>
+https://www.toptal.com/ios/interview-questions
 
-Swift - <https://www.toptal.com/swift/interview-questions>
+Swift - https://www.toptal.com/swift/interview-questions

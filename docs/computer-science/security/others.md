@@ -10,25 +10,25 @@ Tor is [free and open-source software](https://en.wikipedia.org/wiki/Free_and_op
 
 [Onion routing](https://en.wikipedia.org/wiki/Onion_routing) is implemented by [encryption](https://en.wikipedia.org/wiki/Encryption) in the [application layer](https://en.wikipedia.org/wiki/Application_layer) of a [communication protocol](https://en.wikipedia.org/wiki/Communication_protocol) stack, nested like the layers of an [onion](https://en.wikipedia.org/wiki/Onion). Tor encrypts the data, including the next node destination [IP address](https://en.wikipedia.org/wiki/IP_address), multiple times and sends it through a [virtual circuit](https://en.wikipedia.org/wiki/Virtual_circuit) comprising successive, random-selection Tor relays. Each relay decrypts a layer of [encryption](https://en.wikipedia.org/wiki/Encryption) to reveal the next relay in the circuit to pass the remaining encrypted data on to it. The final relay decrypts the innermost layer of encryption and sends the original data to its destination without revealing or knowing the source IP address. Because the routing of the communication was partly concealed at every hop in the Tor circuit, this method eliminates any single point at which the communicating peers can be determined through [network surveillance](https://en.wikipedia.org/wiki/Computer_and_network_surveillance) that relies upon knowing its source and destination.
 
-duckduckgo - <http://3g2upl4pq6kufc4m.onion>
+duckduckgo - http://3g2upl4pq6kufc4m.onion
 
-Facebook - <https://www.facebookcorewwwi.onion>
+Facebook - https://www.facebookcorewwwi.onion
 
-Hidden Wiki - <http://zqktlwi4fecvo6ri.onion/wiki/index.php/Main_Page>
+Hidden Wiki - http://zqktlwi4fecvo6ri.onion/wiki/index.php/Main_Page
 
-<https://en.wikipedia.org/wiki/Tor_(anonymity_network)>
+https://en.wikipedia.org/wiki/Tor_(anonymity_network)
 
-<https://skerritt.blog/designing-effective-peer-to-peer-networks>
+https://skerritt.blog/designing-effective-peer-to-peer-networks
 
 ## steganography
 
 Steganography is the practice of concealing a file, message, image, or video within another file, message, image, or video. The word steganography combines the Greek words steganos, meaning "covered, concealed, or protected", and graphein meaning "writing".
 
-<https://en.wikipedia.org/wiki/Steganography>
+https://en.wikipedia.org/wiki/Steganography
 
-<https://www.boxentriq.com/code-breaking>
+https://www.boxentriq.com/code-breaking
 
-<https://29a.ch/photo-forensics>
+https://29a.ch/photo-forensics
 
 [What is Steganography? How to Hide Data Inside Data](https://www.freecodecamp.org/news/what-is-steganography-hide-data-inside-data/)
 
@@ -44,11 +44,11 @@ DMARC (Domain-based Message Authentication, Reporting and Conformance)
 
 ## Capture the Flag (CTF)
 
-<https://0x00sec.org/c/ctf>
+https://0x00sec.org/c/ctf
 
-<https://picoctf.org>
+https://picoctf.org
 
-CMDCTRL - <https://cmdnctrl.net>
+CMDCTRL - https://cmdnctrl.net
 
 ## NT (New Technology) LAN Manager(NTLM)
 
@@ -60,10 +60,10 @@ What if the average developer could benefit from proofs of computational integri
 
 CI proofs, of which zero-knowledge proofs (ZKPs) are a subset, are a cryptographic technology that let you do seemingly impossible things. For example, you can run a computation and get some result. You can then use a CI proof to convince anyone that you did the computation correctly without their having to rerun the computation themselves.And they can verify this correctness in just a few milliseconds, regardless of how complex or long-running the original computation was
 
-<https://engineering.fb.com/2021/08/04/open-source/winterfell>
+https://engineering.fb.com/2021/08/04/open-source/winterfell
 
 ## Others
 
-<https://www.freecodecamp.org/news/what-is-devsecops>
+https://www.freecodecamp.org/news/what-is-devsecops
 
 [What is a zero day attack? - YouTube](https://www.youtube.com/watch?v=aBuERMIJhZk)

@@ -12,4 +12,4 @@ The data lake is schemaless
 
 ## References
 
-<https://martinfowler.com/bliki/DataLake.html>
+https://martinfowler.com/bliki/DataLake.html

@@ -120,7 +120,7 @@ The generator is considered empty once the function runs but does not hityieldan
 
 ## Lambda (single expression functions)
 
-<https://dbader.org/blog/python-lambda-functions>
+https://dbader.org/blog/python-lambda-functions
 
 The lambda keyword in Python provides a shortcut for declaring small anonymous functions. Lambda functions behave just like regular functions declared with thedefkeyword. They can be used whenever function objects are required.
 

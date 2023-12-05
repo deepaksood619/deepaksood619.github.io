@@ -82,4 +82,4 @@ Key Chunks discussed in the course from which you can recall whole course
 
 Learning How to Learn: Powerful mental tools to help you master tough subjects by University of California, San Diego on Coursera taught by Terrence Sejnowski and Barbara Oakley
 
-<https://www.coursera.org/learn/learning-how-to-learn>
+https://www.coursera.org/learn/learning-how-to-learn

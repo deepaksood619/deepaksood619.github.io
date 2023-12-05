@@ -5,10 +5,10 @@ Once an idea has taken hold of the brain it's almost impossible to eradicate. An
 ## Inspirations
 
 - [Product Hunt – The best new products in tech.](https://www.producthunt.com/)
-- <https://startup.google.com>
-- <https://redislabs.com/blog/build-on-redis-hackathon-winners>
-- <https://www.freecodecamp.org/news/learn-how-to-build-apps-from-a-business-perspective>
-- <https://github.com/florinpop17/app-ideas>
+- https://startup.google.com
+- https://redislabs.com/blog/build-on-redis-hackathon-winners
+- https://www.freecodecamp.org/news/learn-how-to-build-apps-from-a-business-perspective
+- https://github.com/florinpop17/app-ideas
 - [Portfolio - 100X.VC | Top Startups in India 2022](https://www.100x.vc/portfolio)
 - **Watch SharkTank for inspiration**
 
@@ -22,7 +22,7 @@ Startup time management in three simple steps:
 
 - Misjudging the market size, establishing unreasonable expectations, and chasing valuations.
 
-<https://dev.to/kennedyrose/validating-your-saas-idea-gee>
+https://dev.to/kennedyrose/validating-your-saas-idea-gee
 
 - 35% of startups fail because there was [no market need for their product](https://www.cbinsights.com/research/startup-failure-reasons-top/).
 - Product validation is the process of finding customers who are willing to pay for your product, usually before you start building, or in the early stages of building
@@ -53,7 +53,7 @@ Impact - technological innovation
 
 Most important thing in Goverment and Companies - **Transparency**
 
-<https://julian.digital/2020/04/19/airpods-as-a-platform>
+https://julian.digital/2020/04/19/airpods-as-a-platform
 
 I was at the right place at the right time, if someone asks how you became successful
 
@@ -110,7 +110,7 @@ Hiring those people who can write well, if someone can write well, he can think 
 - Bhawani
 - Luv
 
-<https://www.lennysnewsletter.com/p/validating-your-startup-idea>
+https://www.lennysnewsletter.com/p/validating-your-startup-idea
 
 Committing to a startup idea is possibly the most consequential decision you'll ever make. It'll impact everything they do for the next 1 to 50 years, and either lead you to fame and fortune or a brick wall to endlessly bang your head against. No pressure.
 

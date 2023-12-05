@@ -28,9 +28,9 @@ php spark serve
 
 php -m
 
-<https://developers.ibexa.co/blog/performance-composer-2.0-php-8.0-jit>
+https://developers.ibexa.co/blog/performance-composer-2.0-php-8.0-jit
 
-<https://packagist.org>
+https://packagist.org
 
 Packagist is the main [Composer](https://getcomposer.org/) repository. It aggregates public PHP packages installable with Composer.
 
@@ -46,7 +46,7 @@ The**PHP Extension and Application Repository**, or**PEAR,** is a repository of 
 
 pecl
 
-<https://pecl.php.net>
+https://pecl.php.net
 
 ## PHP-8
 
@@ -70,7 +70,7 @@ These features include:
 - basic SAPI status info (similar to Apache mod_status);
 - php.ini-based config file.
 
-<https://www.php.net/manual/en/install.fpm.php>
+https://www.php.net/manual/en/install.fpm.php
 
 - Adaptive process spawning (NEW!)
 - Basic statistics (ala Apache's mod_status) (NEW!)
@@ -92,15 +92,15 @@ nginx + php-fpm is also an excellent way to run php applications. nginx has nati
 
 sudo apt-get install libapache2-mod-fastcgi php7.0-fpm
 
-<https://blog.layershift.com/which-php-mode-apache-vs-cgi-vs-fastcgi>
+https://blog.layershift.com/which-php-mode-apache-vs-cgi-vs-fastcgi
 
-<https://php-fpm.org>
+https://php-fpm.org
 
 ## Optimization
 
-<https://www.cloudways.com/blog/php-performance>
+https://www.cloudways.com/blog/php-performance
 
-<https://geekflare.com/php-fpm-optimization>
+https://geekflare.com/php-fpm-optimization
 
 ## OpCache
 
@@ -112,7 +112,7 @@ OPcache offers several settings that you can adjust to improve the performance a
 
 Adminer (formerly phpMinAdmin) is a full-featured database management tool written in PHP. Conversely to [phpMyAdmin](https://www.phpmyadmin.net/), it consist of a single file ready to deploy to the target server. Adminer is available for MySQL, MariaDB, PostgreSQL,SQLite,MS SQL,Oracle,Firebird,SimpleDB,ElasticsearchandMongoDB.
 
-<https://www.adminer.org>
+https://www.adminer.org
 
 ## Static Code Analysis
 
@@ -150,15 +150,15 @@ cd /var/www/html
 
 /root/.composer/vendor/bin/phplint ./ --exclude=vendor
 
-<https://github.com/overtrue/phplint>
+https://github.com/overtrue/phplint
 
-<http://www.program-transformation.org/PHP/PhpSat#Static_Project_Info>
+http://www.program-transformation.org/PHP/PhpSat#Static_Project_Info
 
-<https://pear.php.net/package/PHP_CodeSniffer/download>
+https://pear.php.net/package/PHP_CodeSniffer/download
 
-<http://phpmd.org/download/index.html>
+http://phpmd.org/download/index.html
 
-<https://scrutinizer-ci.com/docs/tools/php/php-analyzer>
+https://scrutinizer-ci.com/docs/tools/php/php-analyzer
 
 [**https://modess.io/jenkins-php/**](https://modess.io/jenkins-php/)
 
@@ -180,18 +180,18 @@ PHPStan is a static analysis tool for PHP code. It parses your code and tries to
 
 ## php-cs-fixer
 
-<https://github.com/FriendsOfPHP/PHP-CS-Fixer>
+https://github.com/FriendsOfPHP/PHP-CS-Fixer
 
 ## PHP Call Graph
 
 ## PSR-1, PSR-2, PSR-12: Coding Style Guide
 
-<https://www.php-fig.org/psr/psr-2>
+https://www.php-fig.org/psr/psr-2
 
-<https://www.php-fig.org/psr/psr-12>
+https://www.php-fig.org/psr/psr-12
 
 ## phpdcd
 
 phpdcd .
 
-<https://github.com/sebastianbergmann/phpdcd>
+https://github.com/sebastianbergmann/phpdcd

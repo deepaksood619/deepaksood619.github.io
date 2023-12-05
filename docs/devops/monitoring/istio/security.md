@@ -73,4 +73,4 @@ Istio's authorization feature provides mesh-level, namespace-level, and workload
 - Authenticated and unauthenticated identity
 - Using istio authorization on plain TCP protocols
 
-<https://istio.io/docs/concepts/security>
+https://istio.io/docs/concepts/security

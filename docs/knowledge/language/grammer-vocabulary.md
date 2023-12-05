@@ -93,7 +93,7 @@ Whataboutism, also known as whataboutery, is a variant of the [tu quoque](https:
 ## Others
 
 - Literature review / Research
-  - <https://www.youtube.com/watch?v=t7PwqiiQmVM>
+  - https://www.youtube.com/watch?v=t7PwqiiQmVM
 - omnipotent and omnipresent
 - interobang (‽) (often represented by**?!**, **!?**, **?!?**or**!?!**)
 - Intellectual dishonesty
@@ -106,7 +106,7 @@ Whataboutism, also known as whataboutery, is a variant of the [tu quoque](https:
 
 As a general rule, "has" is used in the third person singular ("he", "she", "it") and singular nouns.
 
-<https://myenglishmatters.com/2018/06/28/whats-the-difference-between-has-been-have-been-and-had-been>
+https://myenglishmatters.com/2018/06/28/whats-the-difference-between-has-been-have-been-and-had-been
 
 - Languishing
 - Unconditional Love

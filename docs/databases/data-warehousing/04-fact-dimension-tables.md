@@ -48,6 +48,6 @@ Dimensions will be something used in a GROUP BY in analytics, whereas facts will
 | The number of fact table is less than dimension table in a schema. | While the number of dimension is more than fact table in a schema. |
 | It is used for analysis purpose and decision making. | While the main task of dimension table is to store the information about a business and its process. |
 
-<https://www.geeksforgeeks.org/difference-between-fact-table-and-dimension-table>
+https://www.geeksforgeeks.org/difference-between-fact-table-and-dimension-table
 
 [databricks-lakehouse/E2E-Dimensional-Modeling-DLT.sql at main · dbsys21/databricks-lakehouse · GitHub](https://github.com/dbsys21/databricks-lakehouse/blob/main/lakehouse-buildout/dimensional-modeling/E2E-Dimensional-Modeling-DLT.sql)

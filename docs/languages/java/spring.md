@@ -14,4 +14,4 @@ mvn package && java -jar target/UserSmsTracker-1.0.jar
 
 spring jpa tutorial
 
-<https://github.com/spring-projects/spring-petclinic>
+https://github.com/spring-projects/spring-petclinic

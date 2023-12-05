@@ -87,18 +87,18 @@ As an aside - I still almost always recommend still using a columnar file format
 
 ## Tools
 
-<https://github.com/apache/parquet-mr/tree/master/parquet-tools>
+https://github.com/apache/parquet-mr/tree/master/parquet-tools
 
 ## References
 
-<https://en.wikipedia.org/wiki/Apache_Parquet>
+https://en.wikipedia.org/wiki/Apache_Parquet
 
-<https://parquet.apache.org/documentation/latest>
+https://parquet.apache.org/documentation/latest
 
-<https://blog.matthewrathbone.com/2019/12/20/parquet-or-bust.html>
+https://blog.matthewrathbone.com/2019/12/20/parquet-or-bust.html
 
-<https://github.com/julienledem/redelm/wiki/The-striping-and-assembly-algorithms-from-the-Dremel-paper>
+https://github.com/julienledem/redelm/wiki/The-striping-and-assembly-algorithms-from-the-Dremel-paper
 
-<https://blog.twitter.com/engineering/en_us/a/2013/dremel-made-simple-with-parquet.html>
+https://blog.twitter.com/engineering/en_us/a/2013/dremel-made-simple-with-parquet.html
 
 [Apache Parquet: Parquet file internals and inspecting Parquet file structure - YouTube](https://www.youtube.com/watch?v=rVC9F1y38oU)

@@ -16,4 +16,4 @@ Waiting time between eruptions and the duration of the eruption for the [Old Fai
 ## Questions
 
 Suppose we have two random variables, X and Y, which are bivariate normal. The correlation between them is -0.2. Let A = cX + Y and B = X + cY. For what values of c are A and B independent?
-<https://en.wikipedia.org/wiki/Bivariate_analysis>
+https://en.wikipedia.org/wiki/Bivariate_analysis

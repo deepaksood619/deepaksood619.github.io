@@ -32,4 +32,4 @@ In this tutorial, we are going to cover most of the Shell concepts based on Born
 
 apt - Advance Package Tool
 
-<http://tldp.org/LDP/Bash-Beginners-Guide/html/index.html>
+http://tldp.org/LDP/Bash-Beginners-Guide/html/index.html

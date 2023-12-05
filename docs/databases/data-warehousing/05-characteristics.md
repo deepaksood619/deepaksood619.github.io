@@ -52,4 +52,4 @@ Here, are some major differences between Application and Data Warehouse
 | Complex program must be coded to make sure that data upgrade processes maintain high integrity of the final product.           | This kind of issues does not happen because data update is not performed. |
 | Data is placed in a normalized form to ensure minimal redundancy.                                                              | Data is not stored in normalized form.                                    |
 | Technology needed to support issues of transactions, data recovery, rollback, and resolution as its deadlock is quite complex. | It offers relative simplicity in technology.                              |
-<https://www.guru99.com/data-warehouse-architecture.html>
+https://www.guru99.com/data-warehouse-architecture.html

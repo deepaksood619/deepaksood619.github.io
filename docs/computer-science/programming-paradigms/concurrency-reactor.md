@@ -8,4 +8,4 @@ The reactor [design pattern](https://en.wikipedia.org/wiki/Design_pattern_(compu
 
 ## References
 
-<https://en.wikipedia.org/wiki/Reactor_pattern>
+https://en.wikipedia.org/wiki/Reactor_pattern

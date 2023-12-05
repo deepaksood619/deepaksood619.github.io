@@ -86,7 +86,7 @@ The PATCH method is used to apply partial modifications to a resource.
 
 EX - If we wanted to view all customers, the request would look like this:
 
-GET <http://fashionboutique.com/customers>
+GET http://fashionboutique.com/customers
 
 Accept: application/json
 
@@ -116,7 +116,7 @@ Safe methods are HTTP methods that do not modify resources
 | DELETE          | Yes            | No       |
 | PATCH           | No             | No       |
 
-<https://www.codecademy.com/articles/what-is-rest>
+https://www.codecademy.com/articles/what-is-rest
 
 ## Form content types
 
@@ -156,7 +156,7 @@ A raw request can contain anything. Postman doesn't touch the string entered in 
 
 binary data allows you to send things which you can not enter in Postman. For example, image, audio or video files. You can send text files as well. As mentioned earlier in the form-data section, you would have to reattach a file if you are loading a request through the history or the collection.
 
-<http://restcookbook.com>
+http://restcookbook.com
 
 ## Six Contraints
 
@@ -246,7 +246,7 @@ binary data allows you to send things which you can not enter in Postman. For ex
   - Portability
   - Reliability
 
-<https://www.restapitutorial.com/lessons/whatisrest.html>
+https://www.restapitutorial.com/lessons/whatisrest.html
 
 ## Best Practices
 
@@ -267,25 +267,25 @@ Here are some quick-hit rules for URL path (resource name) design:
 - Use lower-case in URL segments, separating words with underscores ('_') or hyphens ('-'). Some servers ignore case so it's best to be clear.
 - Keep URLs as short as possible, with as few segments as makes sense.
 
-<https://www.restapitutorial.com/lessons/restquicktips.html>
+https://www.restapitutorial.com/lessons/restquicktips.html
 
-<https://www.restapitutorial.com/lessons/restfulresourcenaming.html>
+https://www.restapitutorial.com/lessons/restfulresourcenaming.html
 
 ## API Authentication
 
-<https://medium.com/data-rebels/fastapi-authentication-revisited-enabling-api-key-authentication-122dc5975680>
+https://medium.com/data-rebels/fastapi-authentication-revisited-enabling-api-key-authentication-122dc5975680
 
 ## Others
 
 HATEOAS (Hypermedia As The Engine Of Application State, is a constraint of the REST application architecture that distinguishes it from most other network application architectures. The principle is that a client interacts with a network application entirely through hypermedia provided dynamically by application servers)
 
-<http://restcookbook.com/Basics/hateoas>
+http://restcookbook.com/Basics/hateoas
 
 ## References
 
-<https://medium.com/@liran.tal/a-comprehensive-guide-to-contract-testing-apis-in-a-service-oriented-architecture-5695ccf9ac5a>
+https://medium.com/@liran.tal/a-comprehensive-guide-to-contract-testing-apis-in-a-service-oriented-architecture-5695ccf9ac5a
 
-<https://blog.feathersjs.com/design-patterns-for-modern-web-apis-1f046635215>
+https://blog.feathersjs.com/design-patterns-for-modern-web-apis-1f046635215
 
 - **Service layer:** A protocol independent interface to our application logic
 - **REST:** An architectural design principle for creating web APIs

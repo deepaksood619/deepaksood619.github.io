@@ -16,8 +16,8 @@ Masonite works hard to be fast and easy from install to deployment so developers
 
 ## References
 
-<https://github.com/masoniteframework/masonite>
+https://github.com/masoniteframework/masonite
 
-<https://docs.masoniteproject.com>
+https://docs.masoniteproject.com
 
-<https://dev.to/masonite/5-reasons-why-people-are-choosing-masonite-over-django-ic3>
+https://dev.to/masonite/5-reasons-why-people-are-choosing-masonite-over-django-ic3

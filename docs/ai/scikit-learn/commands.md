@@ -8,4 +8,4 @@ df_inputs_train,df_trains_test,df_targets_train,df_targets_test = train_test_spl
 
 ![image](../../media/sci-Commands-image1.jpg)
 
-<https://medium.com/analytics-vidhya/your-ultimate-data-mining-machine-learning-cheat-sheet-9fce3fa16>
+https://medium.com/analytics-vidhya/your-ultimate-data-mining-machine-learning-cheat-sheet-9fce3fa16

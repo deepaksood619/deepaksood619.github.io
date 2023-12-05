@@ -2,25 +2,25 @@
 
 ## Monitoring / Management Tools
 
-1. Kafka Manager - <https://github.com/yahoo/CMAK>
+1. Kafka Manager - https://github.com/yahoo/CMAK
 
-   <https://hub.docker.com/r/kafkamanager/kafka-manager>
+   https://hub.docker.com/r/kafkamanager/kafka-manager
 
-2. Kafka Center - <https://github.com/xaecbd/KafkaCenter>
+2. Kafka Center - https://github.com/xaecbd/KafkaCenter
 3. Kafka lag exporter
 
-    <https://github.com/lightbend/kafka-lag-exporter>
+    https://github.com/lightbend/kafka-lag-exporter
 
-    <https://www.lightbend.com/blog/monitor-kafka-consumer-group-latency-with-kafka-lag-exporter>
+    https://www.lightbend.com/blog/monitor-kafka-consumer-group-latency-with-kafka-lag-exporter
 
 4. Burrow
 5. Kafdrop
 6. Kafka Tool
 7. Kafka Cruise Control
 
-<https://engineering.linkedin.com/blog/2019/02/introducing-kafka-cruise-control-frontend>
+https://engineering.linkedin.com/blog/2019/02/introducing-kafka-cruise-control-frontend
 
-<https://dzone.com/articles/kafka-administration-and-monitoring-ui-tools>
+https://dzone.com/articles/kafka-administration-and-monitoring-ui-tools
 
 ## Message Processing Guarantees
 
@@ -37,7 +37,7 @@ Events areserializedwhen they are written to a topic anddeserializedwhen they ar
 
 Kafka brokers, on the other hand, are agnostic to the serialization format or "type" of a stored event. All they see is a pair of raw bytes for event key and event value coming in when being written, and going out when being read. Brokers thus have no idea what's in the data they serve - it's a black box to them. Being this "dumb" is actually pretty smart, because this design decision allows brokers to scale much better than traditional messaging systems.
 
-<https://www.confluent.io/blog/avro-kafka-data>
+https://www.confluent.io/blog/avro-kafka-data
 
 ## Data contracts, schema on read, and schema on write
 
@@ -60,19 +60,19 @@ Redpanda is the real-time engine for modern apps. Kafka API Compatible; 10x fast
 
 [Co-Designing Raft + Thread-per-Core Execution Model for the Kafka-API](https://youtu.be/kz7R1mGrN9Q)
 
-<https://redpanda.com>
+https://redpanda.com
 
-<https://github.com/vectorizedio/redpanda>
+https://github.com/vectorizedio/redpanda
 
-<https://bravenewgeek.com/benchmarking-message-queue-latency>
+https://bravenewgeek.com/benchmarking-message-queue-latency
 
 ## Kafka Connect Dead Letter Queues
 
-<https://www.confluent.io/blog/kafka-connect-deep-dive-error-handling-dead-letter-queues>
+https://www.confluent.io/blog/kafka-connect-deep-dive-error-handling-dead-letter-queues
 
 ## Kafka Edge Computing
 
-<https://www.kai-waehner.de/blog/2020/01/01/apache-kafka-edge-computing-industrial-iot-retailing-logistics>
+https://www.kai-waehner.de/blog/2020/01/01/apache-kafka-edge-computing-industrial-iot-retailing-logistics
 
 ## Kafka Gotchas
 
@@ -86,11 +86,11 @@ Redpanda is the real-time engine for modern apps. Kafka API Compatible; 10x fast
 - Lack of true multitenancy
 - Lack of geo-awareness
 
-<https://itnext.io/kafka-gotchas-24b51cc8d44e>
+https://itnext.io/kafka-gotchas-24b51cc8d44e
 
 ## Compression
 
-<https://cwiki.apache.org/confluence/display/KAFKA/Compression#app-switcher>
+https://cwiki.apache.org/confluence/display/KAFKA/Compression#app-switcher
 
 When the broker receives a compressed batch of messages from a producer:
 
@@ -101,18 +101,18 @@ When the broker receives a compressed batch of messages from a producer:
 
 Decompression and re-compression can also happen if producers are running a version prior to 0.10 because offsets need to be overwritten, or if any other message format conversion is required.
 
-<https://stackoverflow.com/questions/59902385/if-i-set-compression-type-at-topic-level-and-producer-level-which-takes-prece>
+https://stackoverflow.com/questions/59902385/if-i-set-compression-type-at-topic-level-and-producer-level-which-takes-prece
 
-<https://stackoverflow.com/questions/48670584/kafka-set-compression-type-at-producer-vs-topic>
+https://stackoverflow.com/questions/48670584/kafka-set-compression-type-at-producer-vs-topic
 
 ## Secor
 
 Secor is a service persisting [Kafka](http://kafka.apache.org/) logs to [Amazon S3](http://aws.amazon.com/s3/), [Google Cloud Storage](https://cloud.google.com/storage/), [Microsoft Azure Blob Storage](https://azure.microsoft.com/en-us/services/storage/blobs/) and [Openstack Swift](http://swift.openstack.org/).
 
-<https://github.com/pinterest/secor>
+https://github.com/pinterest/secor
 
 ## Others
 
-<https://kafka-tutorials.confluent.io>
+https://kafka-tutorials.confluent.io
 
-<https://www.confluent.io/blog/kafka-streams-tables-part-4-elasticity-fault-tolerance-advanced-concepts>
+https://www.confluent.io/blog/kafka-streams-tables-part-4-elasticity-fault-tolerance-advanced-concepts

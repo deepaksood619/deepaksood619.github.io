@@ -10,6 +10,6 @@ TLA+is also used to write [machine-checked proofs of correctness](https://en.wik
 
 TLA+was introduced in 1999, following several decades of research into a verification method for concurrent systems. A toolchain has since developed, including an [IDE](https://en.wikipedia.org/wiki/Interactive_development_environment) and distributed model checker. The pseudocode-like language [PlusCal](https://en.wikipedia.org/wiki/PlusCal) was created in 2009; it [transpiles](https://en.wikipedia.org/wiki/Source-to-source_compiler) to TLA+and is useful for specifying sequential algorithms. TLA+2was announced in 2014, expanding language support for proof constructs. The current TLA+reference is [The TLA+Hyperbook](http://research.microsoft.com/en-us/um/people/lamport/tla/hyperbook.html) by Leslie Lamport.
 
-<https://en.wikipedia.org/wiki/TLA%2B>
+https://en.wikipedia.org/wiki/TLA%2B
 
-<https://www.youtube.com/playlist?list=PLWAv2Etpa7AOAwkreYImYt0gIpOdWQevD>
+https://www.youtube.com/playlist?list=PLWAv2Etpa7AOAwkreYImYt0gIpOdWQevD

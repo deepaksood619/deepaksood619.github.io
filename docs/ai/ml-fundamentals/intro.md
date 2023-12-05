@@ -58,9 +58,9 @@ When trying to predict numerical values, the most common loss function is**squar
 
 Once we have got some data source and representation, a model, and a well-defined objective function, we need an algorithm capable of searching for the best possible parameters for minimizing the loss function. Popular optimization algorithms for deep learning are based on an approach called**gradient descent**. In short, at each step, this method checks to see, for each parameter, which way the training set loss would move if you perturbed that parameter just a small amount. It then updates the parameter in the direction that may reduce the loss.
 
-<https://d2l.ai/chapter_introduction/index.html>
+https://d2l.ai/chapter_introduction/index.html
 
-<https://developers.google.com/machine-learning/guides/rules-of-ml>
+https://developers.google.com/machine-learning/guides/rules-of-ml
 
 ## Terminology
 
@@ -138,20 +138,20 @@ Although MSE is commonly-used in machine learning, it is neither the only practi
 
 ## Convolution
 
-<https://betterexplained.com/articles/intuitive-convolution>
+https://betterexplained.com/articles/intuitive-convolution
 
 ## References
 
-<https://en.wikipedia.org/wiki/Machine_learning>
+https://en.wikipedia.org/wiki/Machine_learning
 
-<https://en.wikipedia.org/wiki/Outline_of_machine_learning>
+https://en.wikipedia.org/wiki/Outline_of_machine_learning
 
-<https://towardsdatascience.com/the-mathematics-of-machine-learning-894f046c568>
+https://towardsdatascience.com/the-mathematics-of-machine-learning-894f046c568
 
-<https://github.com/benedekrozemberczki/awesome-graph-classification>
+https://github.com/benedekrozemberczki/awesome-graph-classification
 
-<https://www.toptal.com/machine-learning/interview-questions>
+https://www.toptal.com/machine-learning/interview-questions
 
 [Mathematics of Machine Learning](https://www.youtube.com/watch?v=8onB7rPG4Pk)
 
-<https://www.youtube.com/watch?v=LlKAna21fLE>
+https://www.youtube.com/watch?v=LlKAna21fLE

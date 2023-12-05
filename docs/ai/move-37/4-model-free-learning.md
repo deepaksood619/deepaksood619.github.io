@@ -94,6 +94,6 @@ In RL problems we have two different tasks in nature
 
 ## References
 
-- <https://medium.com/deep-math-machine-learning-ai/ch-12-1-model-free-reinforcement-learning-algorithms-monte-carlo-sarsa-q-learning-65267cb8d1b4>
+- https://medium.com/deep-math-machine-learning-ai/ch-12-1-model-free-reinforcement-learning-algorithms-monte-carlo-sarsa-q-learning-65267cb8d1b4
 - Reinforcement Learning: An Introduction, by [Richard S. Sutton](http://incompleteideas.net/index.html) and [Andrew G. Barto](http://www-anw.cs.umass.edu/~barto/)
-- <https://bair.berkeley.edu/blog/2018/04/26/tdm>
+- https://bair.berkeley.edu/blog/2018/04/26/tdm

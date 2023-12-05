@@ -78,8 +78,8 @@ b = 0000 1101
 | `| Binary OR` | It copies a bit if it exists in either operand. | `(a|b)` = 61 (means 0011 1101) |
 | ^ Binary XOR | It copies the bit if it is set in one operand but not both. | (a ^ b) = 49 (means 0011 0001) |
 | ~ Binary Ones Complement | It is unary and has the effect of 'flipping' bits. | (~a ) = -61 (means 1100 0011 in 2's complement form due to a signed binary number. |
-| << Binary Left Shift | The left operands value is moved left by the number of bits specified by the right operand. | a << 2 = 240 (means 1111 0000) |
-| >> Binary Right Shift | The left operands value is moved right by the number of bits specified by the right operand. | a >> 2 = 15 (means 0000 1111) |
+| `<< Binary Left Shift` | The left operands value is moved left by the number of bits specified by the right operand. | `a << 2 = 240 (means 1111 0000)` |
+| `>> Binary Right Shift` | The left operands value is moved right by the number of bits specified by the right operand. | `a >> 2 = 15 (means 0000 1111)` |
 
 ## Membership Operators
 

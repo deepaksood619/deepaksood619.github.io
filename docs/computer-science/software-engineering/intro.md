@@ -18,7 +18,7 @@ Safety-critical elements are systems or components that are designed to prevent,
 - Aviation
 - Communications
 
-<https://www.toptal.com/software/life-critical-systems>
+https://www.toptal.com/software/life-critical-systems
 
 ## Concurrent Engineering
 
@@ -31,7 +31,7 @@ Concurrent engineering (CE) is a work methodology emphasizing the parallelisatio
 - Constant learning and skills improvement
 - Design of replaceable, disposable software
 
-<https://toolshed.com/2019/01/FourKeys.html>
+https://toolshed.com/2019/01/FourKeys.html
 
 ## Lean Software Development
 
@@ -43,13 +43,13 @@ Concurrent engineering (CE) is a work methodology emphasizing the parallelisatio
 - [Build integrity in](https://en.wikipedia.org/wiki/Lean_software_development#Build_integrity_in)
 - [See the whole](https://en.wikipedia.org/wiki/Lean_software_development#See_the_whole)
 
-<https://en.wikipedia.org/wiki/Lean_software_development>
+https://en.wikipedia.org/wiki/Lean_software_development
 
 ## Unified Process
 
 The Unified Software Development Process or Unified Process is an [iterative and incremental](https://en.wikipedia.org/wiki/Iterative_and_incremental_development) [software development process](https://en.wikipedia.org/wiki/Software_development_process) framework. The best-known and extensively documented refinement of the Unified Process is the [Rational Unified Process](https://en.wikipedia.org/wiki/Rational_Unified_Process)(RUP). Other examples are [OpenUP](https://en.wikipedia.org/wiki/OpenUP) and [Agile Unified Process](https://en.wikipedia.org/wiki/Agile_Unified_Process).
 
-<https://en.wikipedia.org/wiki/Unified_Process>
+https://en.wikipedia.org/wiki/Unified_Process
 
 ## STAR method (Situation-Task-Action-Result)
 
@@ -64,7 +64,7 @@ Here, the applicant clearly describes what they did (launch Facebook Messenger),
 
 ## Best Practices
 
-<https://blog.usejournal.com/10-signs-you-will-suck-at-programming-5497a6a52c5c>
+https://blog.usejournal.com/10-signs-you-will-suck-at-programming-5497a6a52c5c
 
 [Software Is Details - Kevlin Henney - GOTO 2020](https://www.youtube.com/watch?v=kX0prJklhUE)
 
@@ -113,9 +113,9 @@ How to estimate
 - Do new candidates write code during their interview?
 - Do you do hallway usability testing?
 
-<https://www.joelonsoftware.com/2000/08/09/the-joel-test-12-steps-to-better-code>
+https://www.joelonsoftware.com/2000/08/09/the-joel-test-12-steps-to-better-code
 
-<https://medium.com/squad-engineering/squad-takes-the-joel-test-9189709a6235>
+https://medium.com/squad-engineering/squad-takes-the-joel-test-9189709a6235
 
 ## Resources
 

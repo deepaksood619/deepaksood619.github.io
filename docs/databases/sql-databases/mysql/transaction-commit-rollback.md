@@ -20,4 +20,4 @@ Some statements implicitly end a transaction, as if you had done a [COMMIT](http
 
 A [COMMIT](https://dev.mysql.com/doc/refman/8.0/en/commit.html) means that the changes made in the current transaction are made permanent and become visible to other sessions. A [ROLLBACK](https://dev.mysql.com/doc/refman/8.0/en/commit.html) statement, on the other hand, cancels all modifications made by the current transaction. Both [COMMIT](https://dev.mysql.com/doc/refman/8.0/en/commit.html) and [ROLLBACK](https://dev.mysql.com/doc/refman/8.0/en/commit.html) release allInnoDBlocks that were set during the current transaction.
 
-<https://dev.mysql.com/doc/refman/8.0/en/innodb-autocommit-commit-rollback.html>
+https://dev.mysql.com/doc/refman/8.0/en/innodb-autocommit-commit-rollback.html

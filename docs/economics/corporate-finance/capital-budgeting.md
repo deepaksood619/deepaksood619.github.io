@@ -19,7 +19,7 @@ Capital budgeting usually involves the following calculations for each project:
 - The number of years it takes for a project's cash flow to pay back the initial cash investment
 - An assessment of risk along with the urgency of the project
 
-<https://www.accountingcoach.com/blog/what-is-capital-budgeting>
+https://www.accountingcoach.com/blog/what-is-capital-budgeting
 
 ## Hurdle Rate / Minimum Acceptable Rate of Return (MARR)
 
@@ -38,11 +38,11 @@ The absolute minimum hurdle rate should be the company's [cost of capital](https
 - Investors use a hurdle rate in a discounted cash flow analysis to arrive at the net present value of an investment to deem its worth.
 - Companies often use their weighted average cost of capital (WACC) as the hurdle rate.
 
-<https://www.accountingcoach.com/blog/what-is-hurdle-rate>
+https://www.accountingcoach.com/blog/what-is-hurdle-rate
 
-<https://en.wikipedia.org/wiki/Minimum_acceptable_rate_of_return>
+https://en.wikipedia.org/wiki/Minimum_acceptable_rate_of_return
 
-<https://www.investopedia.com/terms/h/hurdlerate.asp>
+https://www.investopedia.com/terms/h/hurdlerate.asp
 
 ### Negative working capital cycle
 

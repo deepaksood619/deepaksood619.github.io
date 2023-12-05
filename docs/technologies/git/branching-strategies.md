@@ -15,9 +15,9 @@ Everything in dev can be merged to master (if it can't it's a good candidate to 
 
 ## Git Flow and Trunk Based development
 
-<https://www.toptal.com/software/trunk-based-development-git-flow>
+https://www.toptal.com/software/trunk-based-development-git-flow
 
-<https://martinfowler.com/articles/branching-patterns.html>
+https://martinfowler.com/articles/branching-patterns.html
 
 ## Trunk based development
 
@@ -81,7 +81,7 @@ But even with projects well-suited to the classic Git flow model, I've suffered 
 - Release and hotfix branches require "double merging"-once into main, then into develop. At times you can forget to do both. You can make Git flow branching easier with scripts or VCS GUI client plugins, but you have to set them up first for every machine of every developer involved in a given project.
 - In CI/CD workflows, you usually end up with two final builds for a release - one from the latest commit of the release branch itself and another one from the merge commit to main. Strictly speaking, you should use the one from the main, but the two are usually identical, creating the potential for confusion.
 
-<https://www.toptal.com/gitflow/enhanced-git-flow-explained>
+https://www.toptal.com/gitflow/enhanced-git-flow-explained
 
 ## The Forking WorkFlow
 
@@ -101,15 +101,15 @@ When developers want to publish a local commit, they push the commit to their ow
 
 ## References
 
-<https://nvie.com/posts/a-successful-git-branching-model>
+https://nvie.com/posts/a-successful-git-branching-model
 
-<https://jeffkreeftmeijer.com/git-flow>
+https://jeffkreeftmeijer.com/git-flow
 
-<https://github.com/nvie/gitflow>
+https://github.com/nvie/gitflow
 
-<https://github.com/danielkummer/git-flow-cheatsheet>
+https://github.com/danielkummer/git-flow-cheatsheet
 
-<https://danielkummer.github.io/git-flow-cheatsheet>
+https://danielkummer.github.io/git-flow-cheatsheet
 
 [**https://rollout.io/blog/branching-strategy/**](https://rollout.io/blog/branching-strategy/)
 

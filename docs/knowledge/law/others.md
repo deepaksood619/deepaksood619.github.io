@@ -53,11 +53,11 @@ Ignorance of law is no excuse
 4. Minerva Mills Ltd. vs Union of India - 1980
 5. S.R. Bommai's Union of India Case - 1994
 
-<https://www.youtube.com/watch?v=Cra79uJ2ZP4>
+https://www.youtube.com/watch?v=Cra79uJ2ZP4
 
 ## Courses
 
-<https://learn.finology.in/courses/legal/indian-penal-code>
+https://learn.finology.in/courses/legal/indian-penal-code
 
 ## Others
 

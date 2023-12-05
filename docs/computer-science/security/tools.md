@@ -6,7 +6,7 @@ Dex is an identity service that uses [OpenID Connect](https://openid.net/connect
 
 Dex acts as a portal to other identity providers through ["connectors."](https://github.com/dexidp/dex#connectors) This lets dex defer authentication to LDAP servers, SAML providers, or established identity providers like GitHub, Google, and Active Directory. Clients write their authentication logic once to talk to dex, then dex handles the protocols for a given backend.
 
-<https://github.com/dexidp/dex>
+https://github.com/dexidp/dex
 
 ## SPIFFE (Secure Production Identity Framework for Everyone)
 
@@ -50,7 +50,7 @@ spire-agent
 
 ![image](../../media/Tools-image4.jpg)
 
-<https://spiffe.io/spiffe>
+https://spiffe.io/spiffe
 
 [Zero Trust Service Mesh with Calico, SPIRE, and Envoy - Shaun Crampton & Evan Gilman](https://www.youtube.com/watch?v=rKOEYoINdOE)
 
@@ -60,33 +60,33 @@ spire-agent
 
 An authorization library that supports access control models like ACL, RBAC, ABAC in Golang
 
-<https://casbin.org>
+https://casbin.org
 
-<https://github.com/casbin/casbin>
+https://github.com/casbin/casbin
 
 ## Lavabit
 
 Secure emailfor the world
 
-<https://lavabit.com>
+https://lavabit.com
 
 ## Android
 
-<https://github.com/google/nogotofail>
+https://github.com/google/nogotofail
 
 ## Cryptographic tools
 
-<https://www.devglan.com/online-tools/aes-encryption-decryption>
+https://www.devglan.com/online-tools/aes-encryption-decryption
 
 ## NaCl
 
-<http://nacl.cr.yp.to>
+http://nacl.cr.yp.to
 
 ## libsodium
 
 Sodium is a new, easy-to-use software library for encryption, decryption, signatures, password hashing and more.
 
-<https://github.com/jedisct1/libsodium>
+https://github.com/jedisct1/libsodium
 
 ## cert-manager
 
@@ -109,23 +109,23 @@ cert-manager builds on top of Kubernetes, introducing certificate authorities an
 - Webhook
 - CA Injector
 
-<https://cert-manager.io>
+https://cert-manager.io
 
-<https://cert-manager.io/docs/concepts>
+https://cert-manager.io/docs/concepts
 
-<https://cert-manager.io/docs/installation/kubernetes>
+https://cert-manager.io/docs/installation/kubernetes
 
-<https://www.youtube.com/watch?v=JJTJfl-V_UM>
+https://www.youtube.com/watch?v=JJTJfl-V_UM
 
 [Use cert-manager with Let's Encrypt® Certificates Tutorial: Automatic Browser-Trusted HTTPS](https://www.youtube.com/watch?v=etC5d0vpLZE)
 
 ## LetsEncrypt
 
-<https://letsencrypt.org/getting-started>
+https://letsencrypt.org/getting-started
 
 ## certbot
 
-<https://certbot.eff.org>
+https://certbot.eff.org
 
 ## zxcvbn
 
@@ -137,6 +137,6 @@ cert-manager builds on top of Kubernetes, introducing certificate authorities an
 
 ## SASS
 
-<https://www.crowdstrike.com>
+https://www.crowdstrike.com
 
-<https://snyk.io>
+https://snyk.io

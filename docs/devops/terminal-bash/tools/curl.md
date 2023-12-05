@@ -55,7 +55,7 @@ curl -c cookiejar.txt https://www.facebook.com
 curl -b cookiejar.txt https://www.facebook.com
 ```
 
-<https://tools.keycdn.com/http2-test>
+https://tools.keycdn.com/http2-test
 
 ## Examples
 
@@ -115,18 +115,18 @@ Maximum time in seconds that you allow the whole operation to take. This is usef
 
 ## HealthChecks
 
-`curl -f -s -m 2 -o /dev/null -I <http://localhost:8070>`
+`curl -f -s -m 2 -o /dev/null -I http://localhost:8070`
 
-<https://jvns.ca/blog/2019/08/27/curl-exercises>
+https://jvns.ca/blog/2019/08/27/curl-exercises
 
-<https://curl.haxx.se/book.html>
+https://curl.haxx.se/book.html
 
 [**https://www.youtube.com/watch?v=I6id1Y0YuNk&ab_channel=freeCodeCampTalks**](https://www.youtube.com/watch?v=I6id1Y0YuNk&ab_channel=freeCodeCampTalks)
 
 ## Alternative
 
-<https://github.com/httpie/httpie>
+https://github.com/httpie/httpie
 
 HTTPie is a command-line HTTP client. Its goal is to make CLI interaction with web services as human-friendly as possible. HTTPie is designed for testing, debugging, and generally interacting with APIs & HTTP servers. Thehttp&httpscommands allow for creating and sending arbitrary HTTP requests. They use simple and natural syntax and provide formatted and colorized output.
 
-<https://httpie.io>
+https://httpie.io

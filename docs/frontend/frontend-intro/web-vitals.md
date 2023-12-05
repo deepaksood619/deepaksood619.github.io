@@ -1,6 +1,6 @@
 # Web Vitals
 
-<https://web.dev/vitals>
+https://web.dev/vitals
 
 Web Vitals is an initiative by Google to provide unified guidance for quality signals that are essential to delivering a great user experience on the web.
 
@@ -18,7 +18,7 @@ Measures**visual stability**. To provide a good user experience, pages should ma
 
 Cumulative Layout Shift (CLS) is an important, user-centric metric for measuring [visual stability](https://web.dev/user-centric-performance-metrics/#types-of-metrics) because it helps quantify how often users experience unexpected layout shifts - a low CLS helps ensure that the page is [delightful](https://web.dev/user-centric-performance-metrics/#questions).
 
-<https://web.dev/cls>
+https://web.dev/cls
 
 ## Paints
 
@@ -38,7 +38,7 @@ Time to first byte(TTFB) is a measurement used as an indication of the responsiv
 
 TTFB measures the duration from the user or client making an HTTP request to the first byte of the page being received by the client's browser. This time is made up of the socket connection time, the time taken to send the HTTP request, and the time taken to get the first byte of the page. Although sometimes misunderstood as a post-DNS calculation, the original calculation of TTFB in networking always includes [network latency](https://en.wikipedia.org/wiki/Network_latency) in measuring the time it takes for a resource to begin loading. Often, a smaller (faster) TTFB size is seen as a benchmark of a well-configured server application. For example, a lower time to first byte could point to fewer dynamic calculations being performed by the [webserver](https://en.wikipedia.org/wiki/Dynamic_web_page), although this is often due to caching at either the DNS, server, or application level. More commonly, a very low TTFB is observed with statically served [web pages](https://en.wikipedia.org/wiki/Web_page), while larger TTFB is often seen with larger, dynamic data requests being pulled from a [database](https://en.wikipedia.org/wiki/Database).
 
-<https://en.wikipedia.org/wiki/Time_to_first_byte>
+https://en.wikipedia.org/wiki/Time_to_first_byte
 
 ## Timing breakdown phases explained (Timing Tab Chrome Dev Tools)
 
@@ -57,7 +57,7 @@ TTFB measures the duration from the user or client making an HTTP request to the
 - **Receiving Push:** The browser is receiving data for this response via HTTP/2 Server Push.
 - **Reading Push:** The browser is reading the local data previously received.
 
-<https://developers.google.com/web/tools/chrome-devtools/network/reference#timing-explanation>
+https://developers.google.com/web/tools/chrome-devtools/network/reference#timing-explanation
 
 ## Chrome Dev Tools
 
@@ -73,8 +73,8 @@ screenshot - For capture of screen
 >: Disable Javascript
 ```
 
-<https://developer.chrome.com/docs/devtools/javascript/disable>
+https://developer.chrome.com/docs/devtools/javascript/disable
 
-<https://dev.to/yashints/chrome-devtools-can-do-that-4a8l>
+https://dev.to/yashints/chrome-devtools-can-do-that-4a8l
 
-<https://www.freecodecamp.org/news/learn-how-to-use-the-chrome-devtools-to-troubleshoot-websites>
+https://www.freecodecamp.org/news/learn-how-to-use-the-chrome-devtools-to-troubleshoot-websites

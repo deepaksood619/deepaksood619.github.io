@@ -149,4 +149,4 @@ We will study techniques for how to bring back disk-resident data without slowin
 - **Dali:** Multi-process shared memory storage manager using memory mapped files [? ].
 - **`P*TIME`:** Korean in-memory DBMS from the 2000s. Lots of interesting features (e.g., hybrid storage layouts, support for larger-than-memory databases). Sold to SAP in 2005 and is now part of HANA.
 
-<https://www.youtube.com/watch?v=m72mt4VN9ik>
+https://www.youtube.com/watch?v=m72mt4VN9ik

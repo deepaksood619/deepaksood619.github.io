@@ -4,11 +4,11 @@
 
 Promise based HTTP client for the browser and node.js
 
-<https://github.com/axios/axios>
+https://github.com/axios/axios
 
-<https://www.freecodecamp.org/news/how-to-use-axios-with-react>
+https://www.freecodecamp.org/news/how-to-use-axios-with-react
 
-<https://axios-http.com/docs/intro>
+https://axios-http.com/docs/intro
 
 ## SWR
 
@@ -29,11 +29,11 @@ With SWR, components will get a stream of data updates constantly and automatica
 
 And the UI will be always fast and reactive.
 
-<https://swr.vercel.app>
+https://swr.vercel.app
 
 ## JavaScript 3D library
 
-<https://github.com/mrdoob/three.js>
+https://github.com/mrdoob/three.js
 
 ## Others
 

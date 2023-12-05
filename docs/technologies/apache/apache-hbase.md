@@ -32,6 +32,6 @@ Features
 
 ## References
 
-<https://en.wikipedia.org/wiki/Apache_HBase>
+https://en.wikipedia.org/wiki/Apache_HBase
 
-<https://hbase.apache.org>
+https://hbase.apache.org

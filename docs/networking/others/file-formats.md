@@ -31,7 +31,7 @@ There are three types of sequence files:
 - If you want to perform analytics on your data and you want to store your data efficiently for that then you can use RCFILE format.
 - If you want to store your data in an optimized way which lessens your storage and increases your performance then you can use ORCFILE format.
 
-<https://acadgild.com/blog/apache-hive-file-formats>
+https://acadgild.com/blog/apache-hive-file-formats
 
 ## Amazon Ion
 
@@ -41,9 +41,9 @@ Ion was built to address rapid development, decoupling, and efficiency challenge
 
 The Ion text format is a superset of JSON; thus, any valid JSON document is also a valid Ion document.
 
-<http://amzn.github.io/ion-docs>
+http://amzn.github.io/ion-docs
 
-<http://amzn.github.io/ion-docs/docs/spec.html>
+http://amzn.github.io/ion-docs/docs/spec.html
 
 ## File Format Benchmarks - Avro, JSON, ORC, Parquet
 
@@ -204,7 +204,7 @@ Parquet
 - For complex tables with common strings - Avro with Snappy is a good fit (w/o projection)
 - For other tables - ORC with Zlib or Snappy is a good fit
 
-## Key conclusions - <https://eng.uber.com/trip-data-squeeze-json-encoding-compression>
+## Key conclusions - https://eng.uber.com/trip-data-squeeze-json-encoding-compression
 
 1. Simply compressing JSON with zlib would yield a reasonable tradeoff in size and speed. The result would be just a little bigger, but execution was much faster than using BZ2 on JSON.
 
@@ -212,7 +212,7 @@ Parquet
 
 ![image](../../media/File-Formats-image10.jpg)
 
-<https://www.slideshare.net/oom65/file-format-benchmarks-avro-json-orc-parquet>
+https://www.slideshare.net/oom65/file-format-benchmarks-avro-json-orc-parquet
 
 ## Compression (zlib)
 
@@ -294,15 +294,15 @@ There is no limit on the number or size of data objects in the collection, givin
 
 HDF5 allows you to keep the metadata with the data, streamlining data lifecycles and pipelines.
 
-<https://en.wikipedia.org/wiki/Hierarchical_Data_Format>
+https://en.wikipedia.org/wiki/Hierarchical_Data_Format
 
-<https://github.com/h5py/h5py>
+https://github.com/h5py/h5py
 
 [**https://docs.h5py.org/en/stable/**](https://docs.h5py.org/en/stable/)
 
-<https://www.hdfgroup.org>
+https://www.hdfgroup.org
 
-<https://www.geeksforgeeks.org/hdf5-files-in-python>
+https://www.geeksforgeeks.org/hdf5-files-in-python
 
 [**https://realpython.com/storing-images-in-python/**](https://realpython.com/storing-images-in-python/)
 

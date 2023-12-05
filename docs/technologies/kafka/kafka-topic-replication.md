@@ -18,7 +18,7 @@ The primary goal of partitioning is the *ordering*of events: producers should se
 
 My tip: if in doubt, use 30 partitions per topic. This is a good number because (a) it is high enough to cover some really high-throughput requirements, (b) it is low enough that you will not hit the limit anytime soon of how many partitions a single broker can handle, even if you create many topics in your Kafka cluster, and (c) it is a highly composite number as it is evenly divisible by 1, 2, 3, 5, 6, 10, 15, and 30. This benefits the processing layer because it results in a more even workload distribution across application instances when horizontally scaling out (adding app instances) and scaling in (removing instances). Since [Kafka supports hundreds of thousands of partitions](https://www.confluent.io/blog/apache-kafka-supports-200k-partitions-per-cluster) in a cluster, this over-partitioning strategy is a safe approach for most users.
 
-<https://www.confluent.io/blog/how-choose-number-topics-partitions-kafka-cluster>
+https://www.confluent.io/blog/how-choose-number-topics-partitions-kafka-cluster
 
 ## Kafka Replication
 
@@ -79,4 +79,4 @@ When the partition heals,b3continues reading from the leader and catching up. On
 
 We can generalize this to the crash-recovery model. For example, instead of a network partition, the follower could crash and be restarted later. When the failed replica is restarted, it recovers the HW from disk and truncates its log up to the HW. This preserves the invariant that messages after the HW are not guaranteed to be committed. At this point, it can begin catching up from the leader and will end up with a log consistent with the leader's once fully caught up.
 
-<https://bravenewgeek.com/building-a-distributed-log-from-scratch-part-2-data-replication>
+https://bravenewgeek.com/building-a-distributed-log-from-scratch-part-2-data-replication

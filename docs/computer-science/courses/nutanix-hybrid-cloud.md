@@ -2,7 +2,7 @@
 
 Udacity - Hybrid Cloud Scholarship Foundation Course Nanodegree Program (23 June 2020)
 
-<https://www.udacity.com/scholarships/nutanix-hybrid-cloud-scholarship-program>
+https://www.udacity.com/scholarships/nutanix-hybrid-cloud-scholarship-program
 
 ## Hyper-converged infrastructure(HCI)
 
@@ -10,9 +10,9 @@ Hyper-converged infrastructure(HCI) is a [software-defined](https://en.wikipedia
 
 The primary difference between [converged infrastructure (CI)](https://en.wikipedia.org/wiki/Converged_infrastructure) and hyper-converged infrastructure is that in HCI, both the storage area network and the underlying storage abstractions are implemented virtually in software (at or via the hypervisor) rather than physically, in hardware. Because all of the software-defined elements are implemented within the context of the hypervisor, management of all resources can be [federated](https://en.wikipedia.org/wiki/Federation_(information_technology))(shared) across all instances of a hyper-converged infrastructure.
 
-<https://en.wikipedia.org/wiki/Hyper-converged_infrastructure>
+https://en.wikipedia.org/wiki/Hyper-converged_infrastructure
 
-<https://github.com/rancher/harvester>
+https://github.com/rancher/harvester
 
 1. The Journey to the Modern Hybrid Cloud
 

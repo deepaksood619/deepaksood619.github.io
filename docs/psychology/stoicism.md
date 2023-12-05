@@ -17,11 +17,11 @@ Avoiding stupidity is easier than trying to be brilliant. Instead of asking, "Ho
 
 Reframing is not about finding the real problem. Its about finding a better problem to solve.
 
-<https://feelinspired.medium.com/a-very-powerful-tool-for-problem-solving-reframing-9141863a40b1>
+https://feelinspired.medium.com/a-very-powerful-tool-for-problem-solving-reframing-9141863a40b1
 
-<https://jamesclear.com/inversion>
+https://jamesclear.com/inversion
 
-<https://fs.blog/inversion>
+https://fs.blog/inversion
 
 ## Others
 

@@ -225,11 +225,11 @@
 - Microsoft
 - Microsoft Research
 - xteam
-- Zerodha - <https://zerodha.tech/blog/being-future-ready-with-common-sense>
+- Zerodha - https://zerodha.tech/blog/being-future-ready-with-common-sense
 - OpenAI - $9,000,000 Salary - L5 - 10 years total experience
 - graviton research
 - pixxel - earth monitoring and observation using satellites
-- Rivigo - <https://eng.rivigo.com>
+- Rivigo - https://eng.rivigo.com
 - Hasura
 - **CrossOver**
 - **TopTal**
@@ -238,23 +238,23 @@
 - Razorpay
 - **Hotstar**
 - topcoder.com
-- <https://www.gojek.io/careers>
+- https://www.gojek.io/careers
 - pusher.com/careers
-- <https://www.zynga.com/jobs/job-openings>
-- <https://www.notion.so/Building-the-Future-of-Ecommerce-www-BlueReceipt-com-3ec3b394b65a4ea5b76c6ef20198bea6>
-- <https://stackoverflow.com/jobs/301664/software-architect-remote-numbrs>
-- Microsoft - <https://www.linkedin.com/jobs/view/1974048562>
-- EM - <https://www.squadstack.com/job-description/?id=54efd9a9f205>
-- EM - <https://www.squadstack.com/job-description/?id=eef739e17da4>
-- <https://www.affirm.com/careers#openings>
+- https://www.zynga.com/jobs/job-openings
+- https://www.notion.so/Building-the-Future-of-Ecommerce-www-BlueReceipt-com-3ec3b394b65a4ea5b76c6ef20198bea6
+- https://stackoverflow.com/jobs/301664/software-architect-remote-numbrs
+- Microsoft - https://www.linkedin.com/jobs/view/1974048562
+- EM - https://www.squadstack.com/job-description/?id=54efd9a9f205
+- EM - https://www.squadstack.com/job-description/?id=eef739e17da4
+- https://www.affirm.com/careers#openings
 - Grafana
-- <https://www.dice.com/jobs/detail/dc789cd4cdb43863ad17ba8725c0ff3d?src=32&CMPID=AG_ZR_PD_JS_US_OG_APPC>
-- <https://tech.bharatpe.com>
+- https://www.dice.com/jobs/detail/dc789cd4cdb43863ad17ba8725c0ff3d?src=32&CMPID=AG_ZR_PD_JS_US_OG_APPC
+- https://tech.bharatpe.com
 - Ramp is the fastest-growing SaaS or fintech company of all time by revenue.
-- <https://www.notboring.co/p/the-not-boring-liquid-super-team>
-- <https://www.ashbyhq.com/careers>
+- https://www.notboring.co/p/the-not-boring-liquid-super-team
+- https://www.ashbyhq.com/careers
 - Product hunt jobs page
-- <https://careers.quantiphi.com/#!/job-view/data-engineer--mumbai-bangalore-2021081908160351>
+- https://careers.quantiphi.com/#!/job-view/data-engineer--mumbai-bangalore-2021081908160351
 - Coursera
 - Gitlab
 - github - [GitHub Careers - GitHub](https://github.com/about/careers)

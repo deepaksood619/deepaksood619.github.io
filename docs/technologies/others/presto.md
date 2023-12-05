@@ -45,12 +45,12 @@ Presto was designed to handle data warehousing and analytics: data analysis, agg
 - Operator
 - Exchange
 
-<https://prestodb.io/docs/current/overview/concepts.html>
+https://prestodb.io/docs/current/overview/concepts.html
 
-<https://prestodb.io>
+https://prestodb.io
 
-<https://eng.lyft.com/presto-infrastructure-at-lyft-b10adb9db01>
+https://eng.lyft.com/presto-infrastructure-at-lyft-b10adb9db01
 
-<https://prestodb.io/docs/current/index.html>
+https://prestodb.io/docs/current/index.html
 
-<https://aws.amazon.com/big-data/what-is-presto>
+https://aws.amazon.com/big-data/what-is-presto

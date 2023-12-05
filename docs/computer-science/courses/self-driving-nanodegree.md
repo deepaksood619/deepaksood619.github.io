@@ -66,7 +66,7 @@ We will use equation of a line to model the line and then find lines using this 
 
 ## For edge detection - HED - Holistically Nested Edge Detection
 
-<https://www.pyimagesearch.com/2019/03/04/holistically-nested-edge-detection-with-opencv-and-deep-learning>
+https://www.pyimagesearch.com/2019/03/04/holistically-nested-edge-detection-with-opencv-and-deep-learning
 
 ## Project
 
@@ -84,6 +84,6 @@ Tools
 - Project:[Behavioral Cloning](https://classroom.udacity.com/nanodegrees/nd013/parts/edf28735-efc1-4b99-8fbb-ba9c432239c8/modules/6b6c37bc-13a5-47c7-88ed-eb1fce9789a0/lessons/3fc8dd70-23b3-4f49-86eb-a8707f71f8dd/project)
 - Project:[Extended Kalman Filters](https://classroom.udacity.com/nanodegrees/nd013/parts/edf28735-efc1-4b99-8fbb-ba9c432239c8/modules/49d8fda9-69c7-4f10-aa18-dc3a2d790cbe/lessons/3feb3671-6252-4c25-adf0-e963af4d9d4a/project)
 
-<https://www.freecodecamp.org/news/perception-for-self-driving-cars-deep-learning-course>
+https://www.freecodecamp.org/news/perception-for-self-driving-cars-deep-learning-course
 
 [Comic book panel segmentation • Max Halford](https://maxhalford.github.io/blog/comic-book-panel-segmentation/)

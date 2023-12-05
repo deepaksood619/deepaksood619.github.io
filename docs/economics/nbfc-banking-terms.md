@@ -51,9 +51,9 @@ NNPA: NNPA stands for net non-performing assets. NNPA subtracts the provisions m
 
 [A Brief History of Credit Cards (or What Happens When You Swipe)](https://www.youtube.com/watch?v=vR-uvPPdI_M&ab_channel=a16z)
 
-<https://twitter.com/arampell/status/1435692945387048964>
+https://twitter.com/arampell/status/1435692945387048964
 
-<https://productcoalition.com/lets-talk-about-card-payment-processing-df25c37614bd>
+https://productcoalition.com/lets-talk-about-card-payment-processing-df25c37614bd
 
 Renauld Leplanche is known as the father of the fintech industry and is an investor in Stashfin
 
@@ -91,13 +91,13 @@ A checker can help spot a variety of mistakes, from breaches of internal procedu
 
 While all businesses want to be able to trust their staff, the reality is that a significant number of companies have been defrauded by an employee. External pressures and/or unexpected opportunities can lead a previously trusted staff member into making a poor ethical decision. Dual Approval helps mitigate this risk by acting as an effective deterrent and also providing an opportunity for any wrong doing to be identified early in the process.
 
-<https://en.wikipedia.org/wiki/Maker-checker>
+https://en.wikipedia.org/wiki/Maker-checker
 
 ## Breakage
 
 Breakage is a term used to describe revenue gained by retailers through unredeemed gift cards or other prepaid services that are never claimed. In these cases, the company pockets the money paid for these items, without actually providing the service or item for which the customer initially paid. Although nearly all of this money is considered to be a profit to the company, accounting uncertainty due to breakage has been a recurring problem throughout the years.
 
-<https://www.investopedia.com/terms/b/breakage.asp>
+https://www.investopedia.com/terms/b/breakage.asp
 
 ## Negative Interest Rate
 
@@ -150,7 +150,7 @@ In the Fixed-Rate method, the interest is calculated on the entire loan amount. 
 ## Fintech players
 
 1. Stashfin
-2. <https://www.sliceit.com>
+2. https://www.sliceit.com
 3. Dhani 50m+
 4. Red carpet (RedCarpetUp)
 5. Ok credit
@@ -158,7 +158,7 @@ In the Fixed-Rate method, the interest is calculated on the entire loan amount. 
 7. Moneytap
 8. CashTap
 9. Earlysalary
-10. <https://www.truebalance.io>
+10. https://www.truebalance.io
 11. Navi
 12. KreditBee
 13. Cashbean
@@ -181,7 +181,7 @@ In the Fixed-Rate method, the interest is calculated on the entire loan amount. 
 30. Niyo (goniyo)
 31. Khatabook
 32. Bajaj finance
-33. Bajaj finserv - <https://www.youtube.com/watch?v=odiaekxLY0g>
+33. Bajaj finserv - https://www.youtube.com/watch?v=odiaekxLY0g
 34. Chola
 35. Mutooth Finance
 36. Paisa bazaar
@@ -198,11 +198,11 @@ In the Fixed-Rate method, the interest is calculated on the entire loan amount. 
 47. Piramal Finance, one of India's largest non-banking lenders
 48. Affirm (US - fintech)
 
-<https://tracxn.com/d/soonicorn-awards/top-startups-in-india-fintech-2021>
+https://tracxn.com/d/soonicorn-awards/top-startups-in-india-fintech-2021
 
-<http://www.startuplanes.com/top-50-fintech-startups-in-india>
+http://www.startuplanes.com/top-50-fintech-startups-in-india
 
-<https://fintechnews.sg/62502/fintech-india/updated-top-30-open-banking-influencers-list-for-india-2022>
+https://fintechnews.sg/62502/fintech-india/updated-top-30-open-banking-influencers-list-for-india-2022
 
 ### P2P
 
@@ -217,8 +217,8 @@ In the Fixed-Rate method, the interest is calculated on the entire loan amount. 
 
 ## SASS Tools
 
-- Finbox - <https://finbox.in>
-- <https://sahamati.org.in>
+- Finbox - https://finbox.in
+- https://sahamati.org.in
 
 ## Links
 

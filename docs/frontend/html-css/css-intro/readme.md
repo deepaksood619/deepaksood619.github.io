@@ -86,7 +86,7 @@ CSS is easy to learn and understand but it provides powerful control over the pr
 
 - Viewport = the browser window size. If the viewport is 50cm wide, 1vw = 0.5cm.
 
-<https://www.w3schools.com/cssref/css_units.asp>
+https://www.w3schools.com/cssref/css_units.asp
 
 ## CSS3 Modules
 

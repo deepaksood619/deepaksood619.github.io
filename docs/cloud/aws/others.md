@@ -7,16 +7,16 @@
 3. Create account alias
 4. Transfer billing account to admin group users
 
-    <https://docs.aws.amazon.com/IAM/latest/UserGuide/tutorial_billing.html>
+    https://docs.aws.amazon.com/IAM/latest/UserGuide/tutorial_billing.html
 
 5. Never use your root credentials again
 6. Create billing alarms
 
-<https://medium.com/@harrietty/setting-up-your-aws-account-the-right-way-dfa9a6b5cfbb>
+https://medium.com/@harrietty/setting-up-your-aws-account-the-right-way-dfa9a6b5cfbb
 
-<https://docs.aws.amazon.com/IAM/latest/UserGuide/tutorial_billing.html>
+https://docs.aws.amazon.com/IAM/latest/UserGuide/tutorial_billing.html
 
-<https://docs.aws.amazon.com/AmazonCloudWatch/latest/monitoring/monitor_estimated_charges_with_cloudwatch.html>
+https://docs.aws.amazon.com/AmazonCloudWatch/latest/monitoring/monitor_estimated_charges_with_cloudwatch.html
 
 ## AWS CDK
 

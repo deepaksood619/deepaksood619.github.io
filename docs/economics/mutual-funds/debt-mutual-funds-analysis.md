@@ -20,7 +20,7 @@ Yield to maturity (YTM) is the total return anticipated on a bond if the bond is
 - Calculating the yield to maturity can be a complicated process, and it assumes all coupon or interest, payments can be reinvested at the same rate of return as the bond.
 - If the YTM is higher than the coupon rate, this suggests that the bond is being sold at a discount to its par value. If, on the other hand, the YTM is lower than the coupon rate, then the bond is being sold at a premium.
 
-<https://www.investopedia.com/terms/y/yieldtomaturity.asp>
+https://www.investopedia.com/terms/y/yieldtomaturity.asp
 
 [What is Yield to Maturity? | How to Calculate YTM? | CA Rachana Ranade](https://www.youtube.com/watch?v=xifvYllUGso)
 

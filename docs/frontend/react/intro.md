@@ -4,7 +4,7 @@
 
 ## A Javascript library for building user interfaces
 
-<https://www.youtube.com/watch?v=N3AkSS5hXMA>
+https://www.youtube.com/watch?v=N3AkSS5hXMA
 
 ## Features
 
@@ -22,7 +22,7 @@ Changes made to the VDOM are batched together to avoid unnecessary frequent chan
 
 This abstraction layer for the DOM provides a simple interface for developers while allowing React to update the DOM in an efficient and performant manner.
 
-<https://www.freecodecamp.org/news/how-to-manipulate-the-dom-beginners-guide>
+https://www.freecodecamp.org/news/how-to-manipulate-the-dom-beginners-guide
 
 - **Declarative**
 
@@ -80,7 +80,7 @@ We have React and ReactDOM as two different libraries because there are use case
 
 ## New Features
 
-1. **Suspense** - <https://reactjs.org/docs/concurrent-mode-suspense.html>
+1. **Suspense** - https://reactjs.org/docs/concurrent-mode-suspense.html
 2. Time Slicing
 3. Profiler
 
@@ -94,7 +94,7 @@ Javascript Modules
 
 Encapsulates the idea that all the code that we write in separate files is siloed or seperated from other code that we write and other libraries that we install in our project. (we can not make reference to other variables from different files)
 
-<https://reactjs.org/docs/thinking-in-react.html>
+https://reactjs.org/docs/thinking-in-react.html
 
 ## Break The UI Into A Component Hierarchy
 
@@ -128,8 +128,8 @@ Building a static version requires a lot of typing and no thinking, and adding i
 - Presentation / Container Components (Seperation of concerns)
 - Render Props
 
-<https://www.toptal.com/react/interview-questions>
+https://www.toptal.com/react/interview-questions
 
-<https://www.toptal.com/react/react-memoization>
+https://www.toptal.com/react/react-memoization
 
 [Things you forgot (or never knew) because of React - Josh Collinsworth blog](https://joshcollinsworth.com/blog/antiquated-react)

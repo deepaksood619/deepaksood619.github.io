@@ -88,9 +88,9 @@ The value of dw in the code is cumulative.
 
 ## Derivation of dL/dz
 
-<https://www.coursera.org/learn/neural-networks-deep-learning/discussions/weeks/2/threads/ysF-gYfISSGBfoGHyLkhYg>
+https://www.coursera.org/learn/neural-networks-deep-learning/discussions/weeks/2/threads/ysF-gYfISSGBfoGHyLkhYg
 
-<https://towardsdatascience.com/derivative-of-the-sigmoid-function-536880cf918e>
+https://towardsdatascience.com/derivative-of-the-sigmoid-function-536880cf918e
 
 ## Vectorization
 

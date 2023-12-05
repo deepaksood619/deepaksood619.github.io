@@ -29,4 +29,4 @@
   - [encodings.mbcs - Windows ANSI codepage](https://docs.python.org/3/library/codecs.html#module-encodings.mbcs)
   - [encodings.utf_8_sig - UTF-8 codec with BOM signature](https://docs.python.org/3/library/codecs.html#module-encodings.utf_8_sig)
 
-<https://docs.python.org/3/library/binary.html>
+https://docs.python.org/3/library/binary.html

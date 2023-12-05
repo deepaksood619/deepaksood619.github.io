@@ -41,21 +41,21 @@ LOAD DATA INPATH 'hdfs:/data/2012.txt' INTO TABLE weatherext PARTITION (year=201
 
 This creates the partitioned table and makes different folder for each partition which helps in querying data.
 
-<https://www.dezyre.com/hadoop-tutorial/apache-hive-tutorial-tables>
+https://www.dezyre.com/hadoop-tutorial/apache-hive-tutorial-tables
 
 Hive organizes tables into partitions. It is a way of dividing a table into related parts based on the values of partitioned columns such as date, city, and department. Using partition, it is easy to query a portion of the data.
 
 Tables or partitions are sub-divided into buckets, to provide extra structure to the data that may be used for more efficient querying. Bucketing works based on the value of hash function of some column of a table.
 
-<https://www.tutorialspoint.com/hive/hive_partitioning.htm>
+https://www.tutorialspoint.com/hive/hive_partitioning.htm
 
 ## Built-in Operators
 
-<https://www.tutorialspoint.com/hive/hive_built_in_operators.htm>
+https://www.tutorialspoint.com/hive/hive_built_in_operators.htm
 
 ## Built-in Functions
 
-<https://www.tutorialspoint.com/hive/hive_built_in_functions.htm>
+https://www.tutorialspoint.com/hive/hive_built_in_functions.htm
 
 ## Hive LLAP
 
@@ -65,7 +65,7 @@ It consists of daemons that runs hive queries so worker tasks are being run insi
 
 And all small queries run by these daemons rather than YARN container. It helps in pre fetching and caching of columns before query runs.
 
-<https://cwiki.apache.org/confluence/display/Hive/LLAP>
+https://cwiki.apache.org/confluence/display/Hive/LLAP
 
 ## Architecture
 
@@ -103,12 +103,12 @@ The following table defines how Hive interacts with Hadoop framework:
 
 ## Others - Presto
 
-<https://blog.treasuredata.com/blog/2015/03/20/presto-versus-hive>
+https://blog.treasuredata.com/blog/2015/03/20/presto-versus-hive
 
 ## References
 
-<https://en.wikipedia.org/wiki/Apache_Hive>
+https://en.wikipedia.org/wiki/Apache_Hive
 
-<https://www.tutorialspoint.com/hive/hive_introduction.htm>
+https://www.tutorialspoint.com/hive/hive_introduction.htm
 
 [Difference between COLLECT_SET and COLLECT_LIST in Hive](https://analyticshut.com/hive-collect-set-vs-collect-list/)

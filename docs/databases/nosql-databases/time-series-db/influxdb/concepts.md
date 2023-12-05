@@ -53,7 +53,7 @@ Some advantages of using a TLV representation data system solution are:
 - TLV elements can be placed in any order inside the message body;
 - TLV elements are typically used in a binary format which makes parsing faster and the data smaller than in comparable text based protocols.
 
-<https://en.wikipedia.org/wiki/Type-length-value>
+https://en.wikipedia.org/wiki/Type-length-value
 
 ## Internals
 
@@ -231,4 +231,4 @@ However, our experience building the first WAL implementation in front of Bolt g
 
 Thus was born the **Time Structured Merge Tree.**
 
-<https://docs.influxdata.com/influxdb/v1.7/concepts/storage_engine/#the-new-influxdb-storage-engine-and-lsm-refined>
+https://docs.influxdata.com/influxdb/v1.7/concepts/storage_engine/#the-new-influxdb-storage-engine-and-lsm-refined

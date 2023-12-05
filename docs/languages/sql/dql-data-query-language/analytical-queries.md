@@ -31,7 +31,7 @@ SELECT time, buy,
   avg(buy) OVER (ORDER BY time rows between 2 preceding and current row) as average_3
 FROM my_table;
 
--- <https://stackoverflow.com/questions/56063397/how-to-understand-the-results-of-rows-between-2-preceding-and-current-row>
+-- https://stackoverflow.com/questions/56063397/how-to-understand-the-results-of-rows-between-2-preceding-and-current-row
 
 SELECT sale_day, sale_time, branch, article, quantity, revenue,
 SUM(quantity) OVER (PARTITION BY article) AS total_units_sold

@@ -22,7 +22,7 @@ What identity are you embodying today? Who are your habits helping you become?
 6. Values and Meaning
 7. Thoughts and Beliefs
 
-<https://www.scotthyoung.com/blog/2020/03/23/core-self-improvement-ideas>
+https://www.scotthyoung.com/blog/2020/03/23/core-self-improvement-ideas
 
 ### Identity-Based habits
 
@@ -31,7 +31,7 @@ Changing your beliefs isn't nearly as hard as you might think. There are two ste
 1. Decide the type of person you want to be.
 2. Prove it to yourself with small wins.
 
-<https://jamesclear.com/identity-based-habits>
+https://jamesclear.com/identity-based-habits
 
 ## Ask Questions
 
@@ -170,7 +170,7 @@ I will [BEHAVIOR] at [TIME] in [LOCATION].
 
 Give your habits a time and a space to live in the world. The goal is to make the time and location so obvious that, with enough repetition, you get an urge to do the right thing at the right time, even if you can't say why.
 
-<https://jamesclear.com/implementation-intentions>
+https://jamesclear.com/implementation-intentions
 
 ## Habit Graduation
 
@@ -182,7 +182,7 @@ Examples
 - If your average speed is exercising twice per month, can you "graduate" that to once per week?
 - If your job is crazy and you only talk to your old friends on the phone once every three months, can you schedule those calls into your calendar and "graduate" that habit to once per month?
 
-<https://jamesclear.com/average-speed>
+https://jamesclear.com/average-speed
 
 ## COMFY
 
@@ -194,7 +194,7 @@ Examples
 
 ## Practice Loop
 
-<https://www.scotthyoung.com/blog/2020/04/03/practice-loop>
+https://www.scotthyoung.com/blog/2020/04/03/practice-loop
 
 ## Limits to Habits
 
@@ -238,9 +238,9 @@ The person starting a business may only have a few months to reach profitability
 
 Habits are an important tool, but they're just a tool. Like a hammer or a saw, they work really well for some things (banging nails, cutting wood) and really bad for other things (painting a picture, petting a kitten).
 
-<https://www.scotthyoung.com/blog/2020/09/21/habit-limits>
+https://www.scotthyoung.com/blog/2020/09/21/habit-limits
 
-<https://www.scotthyoung.com/blog/2020/10/26/foundation-practices>
+https://www.scotthyoung.com/blog/2020/10/26/foundation-practices
 
 [How to become 37.78 times better at anything | Atomic Habits summary (by James Clear)](https://youtu.be/PZ7lDrwYdZc)
 

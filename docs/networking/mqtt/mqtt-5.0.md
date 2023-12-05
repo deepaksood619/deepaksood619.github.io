@@ -27,8 +27,8 @@
 
 ## References
 
-<https://github.com/mqtt/mqtt.github.io/wiki/Differences-between-3.1.1-and-5.0>
+https://github.com/mqtt/mqtt.github.io/wiki/Differences-between-3.1.1-and-5.0
 
-<https://blog.codecentric.de/en/2017/11/hello-mqtt-version-5-0>
+https://blog.codecentric.de/en/2017/11/hello-mqtt-version-5-0
 
 [MQTT 5 Essentials | Advanced MQTT for IoT Communication | HiveMQ](https://www.hivemq.com/mqtt/mqtt-5/)

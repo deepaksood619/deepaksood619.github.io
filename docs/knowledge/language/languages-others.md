@@ -57,6 +57,6 @@ Salut (Hello/Goodbye)
 
 ![image](../../media/Languages-Others-image11.jpg)
 
-<https://www.youtube.com/watch?v=T5FNvW19GbA>
+https://www.youtube.com/watch?v=T5FNvW19GbA
 
 [Learn to read Chinese ... with ease! | ShaoLan](https://www.youtube.com/watch?v=troxvPRmZm8&ab_channel=TED)

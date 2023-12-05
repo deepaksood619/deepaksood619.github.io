@@ -20,4 +20,4 @@ RUM Conjecture: Setting an upper bound on two tunables also sets a lower bound o
 
 That said, using the best data structures is just a half of job: there are enough parts in database systems where performance may still be a bottleneck. But we assume that database developers always aspire to eliminate problems and make their product perform best under the workloads it's designed for and well enough for all other use cases.
 
-<https://medium.com/databasss/on-disk-storage-part-4-b-trees-30791060741>
+https://medium.com/databasss/on-disk-storage-part-4-b-trees-30791060741

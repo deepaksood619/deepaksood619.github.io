@@ -16,7 +16,7 @@ Selector {
 }
 ```
 
-<https://www.freecodecamp.org/news/use-css-selectors-to-style-webpage>
+https://www.freecodecamp.org/news/use-css-selectors-to-style-webpage
 
 ## Three types of style sheets
 
@@ -49,7 +49,7 @@ Inline Elements sit next to each other, they only take up size only as much as t
 
 Used to eliminate browser inconsistencies with default browser styling and really eliminate all browser defaults in general.
 
-Load css reset - eric meyer's reset <http://meyerweb.com/eric/tools/css/reset>
+Load css reset - eric meyer's reset http://meyerweb.com/eric/tools/css/reset
 
 ## CSS Grids
 
@@ -65,9 +65,9 @@ We want our grid to vary the amount of columns with the width of the container.
 
 This is a more powerful way of specifying your columns and rows. Let's take our original grid and change it to using repeat():
 
-<https://medium.freecodecamp.org/learn-css-grid-in-5-minutes-f582e87b1228>
+https://medium.freecodecamp.org/learn-css-grid-in-5-minutes-f582e87b1228
 
-<https://scrimba.com/c/c2gd3T2>
+https://scrimba.com/c/c2gd3T2
 
 ## Responsive Web Design
 
@@ -78,7 +78,7 @@ This is a more powerful way of specifying your columns and rows. Let's take our 
 - Attributes
 - Span
 - browser specific prefixes (for all browser supports)
-- <https://www.udacity.com/course/responsive-web-design-fundamentals--ud893>
+- https://www.udacity.com/course/responsive-web-design-fundamentals--ud893
 - Patterns
   - Grid Fluid System
 - Category -

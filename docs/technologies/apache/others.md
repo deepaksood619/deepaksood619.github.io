@@ -17,7 +17,7 @@ The 2 main design themes for Tez are:
   - Plan reconfiguration at runtime
   - Dynamic physical data flow decisions
 
-<http://tez.apache.org>
+http://tez.apache.org
 
 ## Apache Spark
 
@@ -31,7 +31,7 @@ Apache Sparkis an [open-source](https://en.wikipedia.org/wiki/Open-source_softwa
 - Storage agnostic
 - Faster version of MapReduce(does all the mapreduce in-memory)
 
-<https://en.wikipedia.org/wiki/Apache_Spark>
+https://en.wikipedia.org/wiki/Apache_Spark
 
 ## Apache Superset
 
@@ -48,7 +48,7 @@ Modern, enterprise-ready business intelligence web application
 - Integration with most SQL-speaking RDBMS through SQLAlchemy
 - Deep integration with Druid.io
 
-<https://superset.incubator.apache.org/index.html>
+https://superset.incubator.apache.org/index.html
 
 ## Apache Beam
 
@@ -76,7 +76,7 @@ Storm has many use cases: realtime analytics, online machine learning, continuou
 
 Storm integrates with the queueing and database technologies you already use. A Storm topology consumes streams of data and processes those streams in arbitrarily complex ways, repartitioning the streams between each stage of the computation however needed.
 
-<http://storm.apache.org>
+http://storm.apache.org
 
 ## Apache Flink- Stateful Computations over Data Streams
 
@@ -84,7 +84,7 @@ Storm integrates with the queueing and database technologies you already use. A 
 
 Apache Flink is a framework and distributed processing engine for stateful computations over*unbounded and bounded*data streams. Flink has been designed to run in*all common cluster environments*, perform computations at*in-memory speed*and at*any scale*.
 
-<https://flink.apache.org/flink-architecture.html>
+https://flink.apache.org/flink-architecture.html
 
 ## Apache OpenWhisk (Incubating)
 
@@ -96,4 +96,4 @@ The OpenWhisk platform supports a programming model in which developers write fu
 
 ![image](../../media/Technologies-Apache-Others-image2.jpg)
 
-<https://openwhisk.apache.org>
+https://openwhisk.apache.org

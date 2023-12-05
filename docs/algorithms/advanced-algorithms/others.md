@@ -10,9 +10,9 @@ Given data and a function f, compress the data into a sketch to allow computatio
 
 Maintain sketch on the fly, as the data is updated
 
-<https://www.sketchingbigdata.org>
+https://www.sketchingbigdata.org
 
-<https://www.youtube.com/watch?v=xbTM3t26xLk>
+https://www.youtube.com/watch?v=xbTM3t26xLk
 
 ## Streaming Algorithms
 
@@ -39,11 +39,11 @@ random_element = e
 return random_element
 ```
 
-<https://en.wikipedia.org/wiki/Reservoir_sampling>
+https://en.wikipedia.org/wiki/Reservoir_sampling
 
 ## Evolutionary Algorithm
 
-<https://en.wikipedia.org/wiki/Evolutionary_algorithm>
+https://en.wikipedia.org/wiki/Evolutionary_algorithm
 
 - [Artificial development](https://en.wikipedia.org/wiki/Artificial_development)
 - [Cellular evolutionary algorithm](https://en.wikipedia.org/wiki/Cellular_evolutionary_algorithm)
@@ -58,7 +58,7 @@ return random_element
 
 In [computational science](https://en.wikipedia.org/wiki/Computational_science), **particle swarm optimization (PSO**) is a computational method that [optimizes](https://en.wikipedia.org/wiki/Mathematical_optimization) a problem by [iteratively](https://en.wikipedia.org/wiki/Iterative_method) trying to improve a[candidate solution](https://en.wikipedia.org/wiki/Candidate_solution) with regard to a given measure of quality. It solves a problem by having a population of candidate solutions, here dubbed [particles](https://en.wikipedia.org/wiki/Point_particle), and moving these particles around in the [search-space](https://en.wikipedia.org/wiki/Optimization_(mathematics)#Concepts_and_notation) according to simple [mathematical formulae](https://en.wikipedia.org/wiki/Formula) over the particle's[position](https://en.wikipedia.org/wiki/Position_(vector)) and [velocity](https://en.wikipedia.org/wiki/Velocity). Each particle's movement is influenced by its local best known position, but is also guided toward the best known positions in the search-space, which are updated as better positions are found by other particles. This is expected to move the swarm toward the best solutions.
 
-<https://en.wikipedia.org/wiki/Particle_swarm_optimization>
+https://en.wikipedia.org/wiki/Particle_swarm_optimization
 
 - [Memetic algorithm](https://en.wikipedia.org/wiki/Memetic_algorithm)
 - [Natural evolution strategy](https://en.wikipedia.org/wiki/Natural_evolution_strategy)
@@ -93,10 +93,10 @@ It is an algorithm for transforming a regular expression into an equivalent non-
 
 Theapproximate counting algorithmallows the counting of a large number of events using a small amount of memory. Invented in 1977 by [Robert Morris (cryptographer)](https://en.wikipedia.org/wiki/Robert_Morris_(cryptographer)) of [Bell Labs](https://en.wikipedia.org/wiki/Bell_Labs), it uses [probabilistic techniques](https://en.wikipedia.org/wiki/Randomized_algorithm) to increment the [counter](https://en.wikipedia.org/wiki/Counter_(digital)). It was fully analyzed in the early 1980s by [Philippe Flajolet](https://en.wikipedia.org/wiki/Philippe_Flajolet) of [INRIA](https://en.wikipedia.org/wiki/INRIA) Rocquencourt, who coined the nameapproximate counting, and strongly contributed to its recognition among the research community. The algorithm is considered one of the precursors of streaming algorithms, and the more general problem of determining the frequency moments of a data stream has been central to the field.
 
-<https://en.wikipedia.org/wiki/Approximate_counting_algorithm>
+https://en.wikipedia.org/wiki/Approximate_counting_algorithm
 
 ## Joining point cloud scans (ICP - Iterative Closest Point)
 
 [Joining Point Cloud Scans (ICP) - Computerphile](https://youtu.be/4uWSo8v3iQA)
 
-<https://en.wikipedia.org/wiki/Iterative_closest_point>
+https://en.wikipedia.org/wiki/Iterative_closest_point

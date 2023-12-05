@@ -10,7 +10,7 @@ The Common European Framework of Reference for Languages: Learning, Teaching, As
 
 ![image](../../media/General-image2.jpg)
 
-<https://en.wikipedia.org/wiki/Common_European_Framework_of_Reference_for_Languages>
+https://en.wikipedia.org/wiki/Common_European_Framework_of_Reference_for_Languages
 
 ## Bibliography
 
@@ -22,7 +22,7 @@ A bibliography is a list of all of the sources you have used (whether referenced
 
 In an annotated bibliography, the bibliographic information is followed by a brief description of the content, quality, and usefulness of the source.
 
-<https://en.wikipedia.org/wiki/Bibliography>
+https://en.wikipedia.org/wiki/Bibliography
 
 ## Tautology
 
@@ -36,4 +36,4 @@ It is the continuation of meaning. It basically indicates that we're gonna say t
 
 ## Games
 
-<https://languageguesser.com>
+https://languageguesser.com

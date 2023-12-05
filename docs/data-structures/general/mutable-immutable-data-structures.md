@@ -12,7 +12,7 @@ Both mutable and immutable data structures require some housekeeping in order to
 
 Using immutable data structures can often simplify the work of programmer. When using immutable on-disk structures, you trade the need to occasionally merge your tables for better space management (by avoiding overflow pages and boosting space occupancy to 100%), concurrency (because readers and writers are never compete over the same file, therefore requiring no mutual exclusion) and potentially simpler implementations.
 
-<https://medium.com/databasss/on-disk-io-part-3-lsm-trees-8b2da218496f>
+https://medium.com/databasss/on-disk-io-part-3-lsm-trees-8b2da218496f
 
 ## Mutable Data Structure
 
@@ -21,4 +21,4 @@ Example
 
 - B-Tree
 
-<https://medium.com/databasss/on-disk-storage-part-4-b-trees-30791060741>
+https://medium.com/databasss/on-disk-storage-part-4-b-trees-30791060741

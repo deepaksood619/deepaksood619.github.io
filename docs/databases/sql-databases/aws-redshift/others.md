@@ -2,10 +2,10 @@
 
 ## Column level access controls
 
-<https://aws.amazon.com/about-aws/whats-new/2020/03/announcing-column-level-access-control-for-amazon-redshift>
+https://aws.amazon.com/about-aws/whats-new/2020/03/announcing-column-level-access-control-for-amazon-redshift
 ![image](../../../media/AWS-Redshift_Others-image1.jpg)
 
-<https://aws.amazon.com/blogs/aws/new-aqua-advanced-query-accelerator-for-amazon-redshift>
+https://aws.amazon.com/blogs/aws/new-aqua-advanced-query-accelerator-for-amazon-redshift
 ![image](../../../media/AWS-Redshift_Others-image2.jpg)
 
 ![image](../../../media/AWS-Redshift_Others-image3.jpg)
@@ -18,18 +18,18 @@ Amazon Redshift spatial provides location-based analytics for rich insights into
 
 ## Vacuum and Analyze commands
 
-<https://hevodata.com/blog/redshift-vacuum-and-analyze>
+https://hevodata.com/blog/redshift-vacuum-and-analyze
 
-<https://docs.aws.amazon.com/redshift/latest/dg/t_Reclaiming_storage_space202.html>
+https://docs.aws.amazon.com/redshift/latest/dg/t_Reclaiming_storage_space202.html
 
-<https://docs.aws.amazon.com/redshift/latest/dg/r_VACUUM_command.html>
+https://docs.aws.amazon.com/redshift/latest/dg/r_VACUUM_command.html
 
 ## Auto WLM with queue priority
 
-<https://docs.aws.amazon.com/redshift/latest/dg/automatic-wlm.html>
+https://docs.aws.amazon.com/redshift/latest/dg/automatic-wlm.html
 
 ## Others
 
-STL Load Errors - <https://docs.aws.amazon.com/redshift/latest/dg/r_STL_LOAD_ERRORS.html>
+STL Load Errors - https://docs.aws.amazon.com/redshift/latest/dg/r_STL_LOAD_ERRORS.html
 
-<https://docs.aws.amazon.com/redshift/latest/dg/c_serial_isolation.html>
+https://docs.aws.amazon.com/redshift/latest/dg/c_serial_isolation.html

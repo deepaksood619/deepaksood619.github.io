@@ -103,12 +103,12 @@ To query the document on the basis of some condition, you can use following oper
 
 | **Operation** | **Syntax** | **Example** | **RDBMS Equivalent** |
 |:---:|:---:|:---:|:---:|
-| Equality | {key:value} | db.mycol.find({"by":"tutorials point"}).pretty() | where by = 'tutorials point' |
-| Less Than | {key:{$lt:value}} | db.mycol.find({"likes":{$lt:50}}).pretty() | where likes < 50 |
-| Less Than Equals | {key:{$lte:value}} | db.mycol.find({"likes":{$lte:50}}).pretty() | where likes <= 50 |
-| Greater Than | {key:{$gt:value}} | db.mycol.find({"likes":{$gt:50}}).pretty() | where likes > 50 |
-| Greater Than Equals | {key:{$gte:value}} | db.mycol.find({"likes":{$gte:50}}).pretty() | where likes >= 50 |
-| Not Equals | {key:{$ne:value}} | db.mycol.find({"likes":{$ne:50}}).pretty() | where likes != 50 |
+| Equality | `{key:value}` | `db.mycol.find({"by":"tutorials point"}).pretty()` | `where by = 'tutorials point'` |
+| Less Than | `{key:{$lt:value}}` | `db.mycol.find({"likes":{$lt:50}}).pretty()` | `where likes < 50` |
+| Less Than Equals | `{key:{$lte:value}}` | `db.mycol.find({"likes":{$lte:50}}).pretty()` | `where likes <= 50` |
+| Greater Than | `{key:{$gt:value}}` | `db.mycol.find({"likes":{$gt:50}}).pretty()` | `where likes > 50` |
+| Greater Than Equals | `{key:{$gte:value}}` | `db.mycol.find({"likes":{$gte:50}}).pretty()` | `where likes >= 50` |
+| Not Equals | `{key:{$ne:value}}` | `db.mycol.find({"likes":{$ne:50}}).pretty()` | `where likes != 50` |
 
 ## Others
 

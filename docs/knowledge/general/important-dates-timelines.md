@@ -210,4 +210,4 @@ Motto - Only one Earth |
 - December 24:National Consumers Day
 - December 25: Christmas Day
 
-<https://byjus.com/free-ias-prep/important-national-international-days-dates-for-upsc-prelims>
+https://byjus.com/free-ias-prep/important-national-international-days-dates-for-upsc-prelims

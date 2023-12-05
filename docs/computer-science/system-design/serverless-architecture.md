@@ -29,18 +29,18 @@ Serverless computing simply means using existing, auto-scaling cloud services to
 
 Durable Functionsis an extension of [Azure Functions](https://docs.microsoft.com/en-us/azure/azure-functions/functions-overview) that lets you write stateful functions in a serverless compute environment. The extension lets you define stateful workflows by writing [orchestrator functions](https://docs.microsoft.com/en-us/azure/azure-functions/durable/durable-functions-orchestrations) and stateful entities by writing [entity functions](https://docs.microsoft.com/en-us/azure/azure-functions/durable/durable-functions-entities) using the Azure Functions programming model. Behind the scenes, the extension manages state, checkpoints, and restarts for you, allowing you to focus on your business logic.
 
-<https://docs.microsoft.com/en-us/azure/azure-functions/durable/durable-functions-overview>
+https://docs.microsoft.com/en-us/azure/azure-functions/durable/durable-functions-overview
 
 ## AWS SAM (Serverless Application Model)
 
 The AWS Serverless Application Model (SAM) is an open-source AWS framework that allows developers to more efficiently build serverless applications. It includes SAM CLI options for local testing and integrates with various AWS serverless tools.
 
-<https://www.toptal.com/aws/typescript-jest-aws-sam-tutorial>
+https://www.toptal.com/aws/typescript-jest-aws-sam-tutorial
 
 ## References
 
-<https://cloudplatform.googleblog.com/2018/04/Cloud-native-architecture-with-serverless-microservices-the-Smart-Parking-story.html>
+https://cloudplatform.googleblog.com/2018/04/Cloud-native-architecture-with-serverless-microservices-the-Smart-Parking-story.html
 
 SE Radio - 320: Serverless Applications - Kishore Bhatia with Nate Taggart
 
-<https://www.freecodecamp.org/news/complete-back-end-system-with-serverless>
+https://www.freecodecamp.org/news/complete-back-end-system-with-serverless

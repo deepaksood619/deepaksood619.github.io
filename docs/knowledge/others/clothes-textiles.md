@@ -5,8 +5,8 @@
 3. Hemp
 4. Polyester
 
-    - Fleece - <https://en.wikipedia.org/wiki/Polar_fleece>
-    - Microfiber - <https://en.wikipedia.org/wiki/Microfiber>
+    - Fleece - https://en.wikipedia.org/wiki/Polar_fleece
+    - Microfiber - https://en.wikipedia.org/wiki/Microfiber
 
 5. Wool
 6. Acrylic
@@ -19,9 +19,9 @@
 
 [Pros & Cons of Common Fabrics | Fibres & Fabrics Part 1](https://www.youtube.com/watch?v=9QmTnHNb8ro)
 
-<https://www.youtube.com/watch?v=-B4tfduOQ7w>
+https://www.youtube.com/watch?v=-B4tfduOQ7w
 
-Zoe Hong - <https://www.youtube.com/channel/UCMQ_mPIBPi4IMpYEmuyOMqQ>
+Zoe Hong - https://www.youtube.com/channel/UCMQ_mPIBPi4IMpYEmuyOMqQ
 
 ### Pill
 
@@ -31,11 +31,11 @@ Pilling is a surface defect of textiles caused by wear, and is generally conside
 
 Pilling normally happens on the parts of clothing that receive the most abrasion in day-to-day wear, such as the [collar](https://en.wikipedia.org/wiki/Collar_(clothing)), [cuffs](https://en.wikipedia.org/wiki/Cuff), and around the [thighs](https://en.wikipedia.org/wiki/Thighs) and [rear](https://en.wikipedia.org/wiki/Buttocks) on [trousers](https://en.wikipedia.org/wiki/Trousers).
 
-<https://en.wikipedia.org/wiki/Pill_(textile)>
+https://en.wikipedia.org/wiki/Pill_(textile)
 
-<https://en.wikipedia.org/wiki/Nap_(fabric)>
+https://en.wikipedia.org/wiki/Nap_(fabric)
 
-<https://en.wikipedia.org/wiki/Pile_(textile)>
+https://en.wikipedia.org/wiki/Pile_(textile)
 
 ### Knit vs Woven Fabric
 
@@ -43,7 +43,7 @@ Pilling normally happens on the parts of clothing that receive the most abrasion
 
 Woven fabrics are created on weaving looms. These looms can be 54 inches wide and above. The main difference between knit vs woven fabrics is how they are constructed. Woven fabrics are created using several warps, or longitudinal yarns, and wefts, or latitudinal yarns. Knitting involves interloping or interlacing a single yarn or thread.
 
-<https://www.dutchlabelshop.com/en_us/blog/difference-knit-woven-fabric>
+https://www.dutchlabelshop.com/en_us/blog/difference-knit-woven-fabric
 
 [Knitted Vs. Woven Fabrics - What's The Difference???](https://www.youtube.com/watch?v=Zg2aJpd_KJg)
 

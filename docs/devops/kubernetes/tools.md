@@ -1,38 +1,38 @@
 # Tools
 
-<https://devops-stack.io>
+https://devops-stack.io
 
 An all-in-one Kubernetesstack using ArgoCDand Terraform as base components
 
-<https://github.com/camptocamp/devops-stack>
+https://github.com/camptocamp/devops-stack
 
 ## Tanka
 
 Grafana Tanka is the robust configuration utility for your [Kubernetes](https://kubernetes.io/) cluster, powered by the unique [Jsonnet](https://jsonnet.org/) language
 
-<https://tanka.dev>
+https://tanka.dev
 
-<https://github.com/grafana/tanka>
+https://github.com/grafana/tanka
 
-<https://grafana.com/oss/tanka>
+https://grafana.com/oss/tanka
 
 ## Plugins
 
 ### kubectl tree
 
-<https://ahmet.im/blog/kubectl-tree>
+https://ahmet.im/blog/kubectl-tree
 
 ### kubectl access-matrix
 
 ### krew
 
-<https://github.com/kubernetes-sigs/krew>
+https://github.com/kubernetes-sigs/krew
 
 ### ketall
 
-<https://github.com/corneliusweig/ketall>
+https://github.com/corneliusweig/ketall
 
-<https://github.com/ishantanu/awesome-kubectl-plugins>
+https://github.com/ishantanu/awesome-kubectl-plugins
 
 ## Minikube
 
@@ -58,7 +58,7 @@ minikube ip
 minikube status
 ```
 
-<https://kubernetes.io/docs/tutorials/hello-minikube>
+https://kubernetes.io/docs/tutorials/hello-minikube
 
 ## Kops (Kubernetes Operations)
 
@@ -72,13 +72,13 @@ We like to think of it askubectlfor clusters.
 
 kopshelps you create, destroy, upgrade and maintain production-grade, highly available, Kubernetes clusters from the command line. AWS (Amazon Web Services) is currently officially supported, with GCE in beta support , and VMware vSphere in alpha, and other platforms planned.
 
-<https://github.com/kubernetes/kops>
+https://github.com/kubernetes/kops
 
 ## kubeadm
 
 kubeadm helps you bootstrap a minimum viable Kubernetes cluster that conforms to best practices.
 
-<https://kubernetes.io/docs/setup/independent/create-cluster-kubeadm>
+https://kubernetes.io/docs/setup/independent/create-cluster-kubeadm
 
 ## Stern
 
@@ -102,7 +102,7 @@ View pods from another namespace
 stern --namespace kube-system kubernetes-dashboard
 ```
 
-<https://github.com/wercker/stern>
+https://github.com/wercker/stern
 
 ## Kubetail
 
@@ -113,19 +113,19 @@ kubetail alertdriver -n example
 kubetail "cp-kafka-connect-*" --regex -c cp-kafka-connect-server -n kafka
 ```
 
-<https://github.com/johanhaleby/kubetail>
+https://github.com/johanhaleby/kubetail
 
 ## Kubectl aliases
 
-<https://github.com/ahmetb/kubectl-aliases>
+https://github.com/ahmetb/kubectl-aliases
 
-<https://ahmet.im/blog/kubectl-aliases>
+https://ahmet.im/blog/kubectl-aliases
 
 ## Kubedirector
 
 KubeDirectoruses standard Kubernetes (K8s) facilities of custom resources and API extensions to implement stateful scaleout application clusters. This approach enables transparent integration with K8s user/resource management and existing K8s clients and tools.
 
-<https://github.com/bluek8s/kubedirector>
+https://github.com/bluek8s/kubedirector
 
 ## kustomize
 
@@ -140,11 +140,11 @@ kubectl apply --kustomize
 /overlays
 ```
 
-<https://github.com/kubernetes-sigs/kustomize>
+https://github.com/kubernetes-sigs/kustomize
 
-<https://blog.scottlowe.org/2019/09/13/an-introduction-to-kustomize>
+https://blog.scottlowe.org/2019/09/13/an-introduction-to-kustomize
 
-<https://www.youtube.com/watch?v=5gsHYdiD6v8>
+https://www.youtube.com/watch?v=5gsHYdiD6v8
 
 ## k9s
 
@@ -165,25 +165,25 @@ ctrl + a - show all resources
     :h - help
 ```
 
-<https://github.com/derailed/k9s>
+https://github.com/derailed/k9s
 
 ## Kubenav
 
-<https://github.com/kubenav/kubenav>
+https://github.com/kubenav/kubenav
 
 ## kubens / kubectx
 
 Switch faster between clusters and namespaces in kubectl
 
-<https://github.com/ahmetb/kubectx>
+https://github.com/ahmetb/kubectx
 
 ## Kubernetes-clients
 
-<https://github.com/kubernetes-client/python>
+https://github.com/kubernetes-client/python
 
-<https://github.com/hjacobs/pykube>
+https://github.com/hjacobs/pykube
 
-<https://srcco.de/posts/kubernetes-and-python.html>
+https://srcco.de/posts/kubernetes-and-python.html
 
 ## Sloop
 
@@ -195,13 +195,13 @@ Key features:
 4. Allows you to see changes over time in a Kubernetes application.
 5. Is a self-contained service with no dependencies on distributed storage.
 
-<https://github.com/salesforce/sloop>
+https://github.com/salesforce/sloop
 
 ## Skaffold
 
 Skaffold is a command line tool that facilitates continuous development for Kubernetes applications. You can iterate on your application source code locally then deploy to local or remote Kubernetes clusters. Skaffold handles the workflow for building, pushing and deploying your application. It also provides building blocks and describe customizations for a CI/CD pipeline.
 
-<https://github.com/GoogleContainerTools/skaffold>
+https://github.com/GoogleContainerTools/skaffold
 
 ## telepresence
 
@@ -215,27 +215,27 @@ Telepresence allows you to run your code locally while still:
 
 telepresence --swap-deployment api-v3 --namespace staging --expose 8000
 
-<https://github.com/telepresenceio/telepresence>
+https://github.com/telepresenceio/telepresence
 
 ## kubefwd
 
 kubefwd is a command line utility built to port forward multiple [services](https://kubernetes.io/docs/concepts/services-networking/service/) within one or more [namespaces](https://kubernetes.io/docs/concepts/overview/working-with-objects/namespaces/) on one or more Kubernetes clusters.kubefwduses the same port exposed by the service and forwards it from a loopback IP address on your local workstation.kubefwdtemporally adds domain entries to your/etc/hostsfile with the service names it forwards.
 
-<https://github.com/txn2/kubefwd>
+https://github.com/txn2/kubefwd
 
 ## Kubernetes Event Exporter
 
 This tool allows exporting the often missed Kubernetes events to various outputs so that they can be used for observability or alerting purposes.
 
-<https://github.com/opsgenie/kubernetes-event-exporter>
+https://github.com/opsgenie/kubernetes-event-exporter
 
-<https://engineering.opsgenie.com/how-to-export-kubernetes-events-for-observability-and-alerting-a9b4a953363d>
+https://engineering.opsgenie.com/how-to-export-kubernetes-events-for-observability-and-alerting-a9b4a953363d
 
 ## Cloud Code
 
 Cloud Code comes with tools to help you write, deploy, and debug cloud-native applications quickly and easily. Extensions to IDEs such as Visual Studio Code and IntelliJ are provided to let you rapidly iterate, debug, and deploy code to Kubernetes.
 
-<https://cloud.google.com/code>
+https://cloud.google.com/code
 
 ## ksync
 
@@ -261,27 +261,27 @@ ksync watch
     watch       Watch configured specs and start syncing files when required
 ```
 
-<https://github.com/ksync/ksync>
+https://github.com/ksync/ksync
 
 ## cdk8s
 
 cdk8sis an open-source software development framework for defining Kubernetes applications and reusable abstractions using familiar programming languages and rich object-oriented APIs.cdk8sapps synthesize into standard Kubernetes manifests which can be applied to any Kubernetes cluster.
 
-<https://cdk8s.io>
+https://cdk8s.io
 
-<https://www.youtube.com/watch?v=QcF_6ZSEd5k>
+https://www.youtube.com/watch?v=QcF_6ZSEd5k
 
-<https://github.com/awslabs/cdk8s>
+https://github.com/awslabs/cdk8s
 
-<https://medium.com/flant-com/kubernetes-apps-developers-tools-97cd6ccae7dd>
+https://medium.com/flant-com/kubernetes-apps-developers-tools-97cd6ccae7dd
 
 ## KubeWatch
 
 kubewatch is a Kubernetes watcher that currently publishes notification to available collaboration hubs/notification channels. Run it in your k8s cluster, and you will get event notifications through webhooks.
 
-<https://github.com/bitnami-labs/kubewatch>
+https://github.com/bitnami-labs/kubewatch
 
-<https://github.com/helm/charts/tree/master/stable/kubewatch>
+https://github.com/helm/charts/tree/master/stable/kubewatch
 
 ## BotKube
 
@@ -289,19 +289,19 @@ BotKube integration with Slack or Mattermost helps you monitor your Kubernetes c
 
 [https://www.botkube.io](https://www.botkube.io/)
 
-<https://www.botkube.io/installation/slack>
+https://www.botkube.io/installation/slack
 
-<https://github.com/infracloudio/botkube>
+https://github.com/infracloudio/botkube
 
 ## Zulip - Chat for distributed system
 
-<https://zulip.com>
+https://zulip.com
 
 ## KubeSlack
 
 kube-slack is a monitoring service for Kubernetes. When a pod has failed, it will publish a message in Slack channel.
 
-<https://github.com/wongnai/kube-slack>
+https://github.com/wongnai/kube-slack
 
 ## k3s
 
@@ -315,17 +315,17 @@ Great for
 - ARM
 - Situations where a PhD in k8s clusterology is infeasible
 
-<https://github.com/rancher/k3s>
+https://github.com/rancher/k3s
 
-<https://containerjournal.com/2019/08/01/powering-edge-with-kubernetes-a-primer>
+https://containerjournal.com/2019/08/01/powering-edge-with-kubernetes-a-primer
 
 ## Lens
 
 Lens is the only IDE you'll ever need to take control of your Kubernetes clusters. It is a standalone application for MacOS, Windows and Linux operating systems. It is open source and free.
 
-<https://k8slens.dev>
+https://k8slens.dev
 
-<https://github.com/lensapp/lens>
+https://github.com/lensapp/lens
 
 ## Kind
 
@@ -340,43 +340,43 @@ kubectl cluster-info --context kind-kind
 kind delete cluster
 ```
 
-<https://kind.sigs.k8s.io>
+https://kind.sigs.k8s.io
 
-<https://www.youtube.com/watch?v=m-IlbCgSzkc>
+https://www.youtube.com/watch?v=m-IlbCgSzkc
 
 ## Node Problem Detector
 
 node-problem-detector aims to make various node problems visible to the upstream layers in cluster management stack. It is a daemon which runs on each node, detects node problems and reports them to apiserver. node-problem-detector can either run as a [DaemonSet](http://kubernetes.io/docs/admin/daemons/) or run standalone.
 
-<https://github.com/kubernetes/node-problem-detector>
+https://github.com/kubernetes/node-problem-detector
 
 ## Kube linter / kubelinter
 
-<https://github.com/stackrox/kube-linter>
+https://github.com/stackrox/kube-linter
 
-<https://opensource.com/article/21/1/kubelinter>
+https://opensource.com/article/21/1/kubelinter
 
-<https://github.com/instrumenta/kubeval>
+https://github.com/instrumenta/kubeval
 
 kubevalis a tool for validating a Kubernetes YAML or JSON configuration file. It does so using schemas generated from the Kubernetes OpenAPI specification, and therefore can validate schemas for multiple versions of Kubernetes.
 
-<https://learnk8s.io/validating-kubernetes-yaml>
+https://learnk8s.io/validating-kubernetes-yaml
 
 ## Headlamp
 
-<https://kinvolk.io/blog/2020/11/shining-a-light-on-the-kubernetes-user-experience-with-headlamp>
+https://kinvolk.io/blog/2020/11/shining-a-light-on-the-kubernetes-user-experience-with-headlamp
 
 ## Shipa
 
 Cloud native application management framework built to manage the full application lifecycle in an application-centric fashion.
 
-<https://www.shipa.io>
+https://www.shipa.io
 
-<https://www.youtube.com/watch?v=PW44JaAlI_8>
+https://www.youtube.com/watch?v=PW44JaAlI_8
 
 ## Kubecost
 
-<https://www.infracloud.io/blogs/kubernetes-cost-reporting-using-kubecost>
+https://www.infracloud.io/blogs/kubernetes-cost-reporting-using-kubecost
 
 ## KEDA
 
@@ -384,12 +384,12 @@ Kubernetes Event-driven Autoscaling
 
 KEDAis a single-purpose and lightweight component that can be added into any Kubernetes cluster. KEDA works alongside standard Kubernetes components like the [Horizontal Pod Autoscaler](https://kubernetes.io/docs/tasks/run-application/horizontal-pod-autoscale/) and can extend functionality without overwriting or duplication. With KEDA you can explicitly map the apps you want to use event-driven scale, with other apps continuing to function. This makes KEDA a flexible and safe option to run alongside any number of any other Kubernetes applications or frameworks.
 
-<https://learnk8s.io/scaling-celery-rabbitmq-kubernetes>
+https://learnk8s.io/scaling-celery-rabbitmq-kubernetes
 
-<https://keda.sh>
+https://keda.sh
 
 ## Others
 
-<https://www.getporter.dev>
+https://www.getporter.dev
 
-<https://spot.io/products/ocean>
+https://spot.io/products/ocean

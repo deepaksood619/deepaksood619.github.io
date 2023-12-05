@@ -11,7 +11,7 @@ The terms corporate finance andcorporate financierare also associated with [inve
 
 Financial management overlaps with the financial function of the [accounting profession](https://en.wikipedia.org/wiki/Accounting_profession). However, [financial accounting](https://en.wikipedia.org/wiki/Financial_accounting) is the reporting of historical financial information, while financial management is concerned with the allocation of capital resources to increase a firm's value to the shareholders.
 
-<https://en.wikipedia.org/wiki/Corporate_finance>
+https://en.wikipedia.org/wiki/Corporate_finance
 
 ## Vendor Due Diligence
 
@@ -36,7 +36,7 @@ In the mergers and acquisitions (M&A) world, there is a delineation between "har
 
 'Hard' due diligence is concerned with the numbers. 'Soft' due diligence is concerned with the people, within the company and in its customer base
 
-<https://www.investopedia.com/terms/d/duediligence.asp>
+https://www.investopedia.com/terms/d/duediligence.asp
 
 ## Scenario Analysis
 
@@ -55,9 +55,9 @@ In the mergers and acquisitions (M&A) world, there is a delineation between "har
 
 ## Aswath Damodaran (NYU)
 
-Corporate Finance - <https://www.youtube.com/playlist?list=PLUkh9m2BorqnDenjSLZ2DHIXrdxoN4Bn_>
+Corporate Finance - https://www.youtube.com/playlist?list=PLUkh9m2BorqnDenjSLZ2DHIXrdxoN4Bn_
 
-Investment Philosophies - <https://www.youtube.com/playlist?list=PLUkh9m2BorqlDJlnBXUaJaMRNE7UDckn6>
+Investment Philosophies - https://www.youtube.com/playlist?list=PLUkh9m2BorqlDJlnBXUaJaMRNE7UDckn6
 
 ### Company Structures
 

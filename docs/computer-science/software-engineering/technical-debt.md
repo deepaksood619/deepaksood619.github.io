@@ -25,13 +25,13 @@ As a system evolves, it's complexity increases unless work is done to maintan or
 - **Primitive obsession,** missing a domain language
 - **Excess function arguments,** missing abstractions
 
-<https://alexkreilein.medium.com/death-by-tech-debt-f5146836d2be>
+https://alexkreilein.medium.com/death-by-tech-debt-f5146836d2be
 
-<https://news.ycombinator.com/item?id=13416935>
+https://news.ycombinator.com/item?id=13416935
 
 [Prioritizing Technical Debt as if Time and Money Matters - Adam Tornhill - GOTO 2020](https://www.youtube.com/watch?v=FnmYGqZAAuI)
 
-<https://zerodha.tech/blog/being-future-ready-with-common-sense>
+https://zerodha.tech/blog/being-future-ready-with-common-sense
 
 - Slow down to speed up
 - Organisations often overestimate the importance of the features they continuously ship (and underestimate the importance of features they don't ship)

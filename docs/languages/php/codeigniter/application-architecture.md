@@ -96,9 +96,9 @@ This directory is set up to hold your test files. The_supportdirectory holds var
 
 Beside these three folders, there is one more important file named "index.php". In this file, we can set the application environment and error level and we can define system and application folder name. It is recommended, not to edit these settings if you do not have enough knowledge about what you are going to do.
 
-<https://codeigniter.com/user_guide/concepts/structure.html>
+https://codeigniter.com/user_guide/concepts/structure.html
 
-<https://www.tutorialspoint.com/codeigniter/codeigniter_application_architecture.htm>
+https://www.tutorialspoint.com/codeigniter/codeigniter_application_architecture.htm
 
 ## Architecture
 
@@ -110,4 +110,4 @@ CodeIgniter is based on theModel-View-Controller (MVC) development pattern. MVC 
 - TheViewis information that is being presented to a user. A View will normally be a web page, but in CodeIgniter, a view can also be a page fragment like a header or footer. It can also be an RSS page, or any other type of "page".
 - TheControllerserves as an intermediary between the Model, the View, and any other resources needed to process the HTTP request and generate a web page.
 
-<https://www.tutorialspoint.com/codeigniter/codeigniter_mvc_framework.htm>
+https://www.tutorialspoint.com/codeigniter/codeigniter_mvc_framework.htm

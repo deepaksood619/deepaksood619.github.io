@@ -24,7 +24,7 @@ You will have either of the 4 problems while building a startup
 - Step by step instructions on using app on [UserGuiding](https://www.linkedin.com/company/userguiding/)- 2 hours
 - Payment collection on [Stripe](https://www.linkedin.com/company/stripe/) or [Bolt](https://www.linkedin.com/company/bolt-com/)- 2 hours
 - shopify
-- <https://gumroad.com>
+- https://gumroad.com
 - App distribution on ProductHunt - 5 hours
 - Newsletter plan on [Substack](https://www.linkedin.com/company/substack/)- 7 days
 - SEO on [Ahrefs](https://www.linkedin.com/company/ahrefs/)- 5 hours
@@ -106,7 +106,7 @@ Startups are built by generalists and scaled by specialists.
 
     - Presentation & communication skill
 
-<https://youtu.be/Ndp_NnztS8U>
+https://youtu.be/Ndp_NnztS8U
 
 ## Startup / Company Culture
 
@@ -141,7 +141,7 @@ Startups are built by generalists and scaled by specialists.
 
 [Masterclass with Saurabh Mukherjea: EDGE Institute](https://www.youtube.com/watch?v=8uCxFTghxtc)
 
-<https://marcellus.in/newsletter/little-champs/introducing-little-champs-our-small-cap-pms>
+https://marcellus.in/newsletter/little-champs/introducing-little-champs-our-small-cap-pms
 
 ![image](../../media/Ideas-Creating-a-Business-Startup-image3.jpg)
 
@@ -187,9 +187,9 @@ Startups are built by generalists and scaled by specialists.
 
 An oligopoly is a [market form](https://en.wikipedia.org/wiki/Market_structure) where in a [market](https://en.wikipedia.org/wiki/Market_(economics)) or [industry](https://en.wikipedia.org/wiki/Industry_(economics)) is dominated by a small group of large sellers (oligopolists). For example, it has been found out that insulin and the electrical industry are highly oligopolist in the US.
 
-<https://en.wikipedia.org/wiki/Oligopoly>
+https://en.wikipedia.org/wiki/Oligopoly
 
-<https://www.lennysnewsletter.com/p/wedge>
+https://www.lennysnewsletter.com/p/wedge
 
 combine digital and physical
 
@@ -218,7 +218,7 @@ The intensity of the signal each problem sends at any given time is determined b
 - Sexiness
 - How Solved the Problem Already Is
 
-<https://www.lennysnewsletter.com/p/what-is-a-good-growth-rate>
+https://www.lennysnewsletter.com/p/what-is-a-good-growth-rate
 
 ![image](../../media/Ideas-Creating-a-Business-Startup-image9.jpg)
 
@@ -226,7 +226,7 @@ The intensity of the signal each problem sends at any given time is determined b
 - Instead,for early-stage B2B businesses, investors focus on how quickly they ramp to $1m ARR after going live
 - Along those same lines, for early-stage consumer businesses, it's all about intensity of engagement, virality, and retention - not revenue
 
-<https://www.lennysnewsletter.com/p/winning-at-consumer-subscription>
+https://www.lennysnewsletter.com/p/winning-at-consumer-subscription
 
 1. An obsession with efficiency
 2. Alignment between product strategy and acquisition strategy
@@ -256,7 +256,7 @@ The intensity of the signal each problem sends at any given time is determined b
 20. Profitability Charts
 21. Share Holding pattern
 
-<https://www.linkedin.com/posts/meet-jain-596636214_financialmodeling-finance-financialmodelling-activity-7008822429506514944-blUv>
+https://www.linkedin.com/posts/meet-jain-596636214_financialmodeling-finance-financialmodelling-activity-7008822429506514944-blUv
 
 ## Product Intro Examples
 

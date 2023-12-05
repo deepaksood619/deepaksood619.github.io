@@ -9,13 +9,13 @@
 - Scholarship - By The Linux Foundation
 - Certificate - Certified Kubernetes Application Developer (CKAD) - LF-05dwcmacjq
 - Course - Kubernetes for Developers (LFD259) - LF-evesgvlbl2
-- <https://training.linuxfoundation.org/certification/verify>
+- https://training.linuxfoundation.org/certification/verify
 
 ### Architecting on AWS (Hands on training) (12-14 Aug 2020)
 
 ### Udacity - Hybrid Cloud Scholarship Foundation Course Nanodegree Program (23 June 2020)
 
-<https://www.udacity.com/scholarships/nutanix-hybrid-cloud-scholarship-program>
+https://www.udacity.com/scholarships/nutanix-hybrid-cloud-scholarship-program
 
 ### 365 Data Science Courses (19 Mar 2020 - 14 Apr 2020)
 
@@ -29,15 +29,15 @@
 
 ### Udacity - Scalable Microservices with Kubernetes by Google (5 Jan'2018)
 
-<https://in.udacity.com/course/scalable-microservices-with-kubernetes--ud615>
+https://in.udacity.com/course/scalable-microservices-with-kubernetes--ud615
 
 ### Coursera - Mindshift
 
 Mindshift: Break Through Obstacles to Learning and Discover Your Hidden Potential by McMaster University on Coursera By - Barbara Oakley, Terrence Sejnowski and M.S. Orlando Trejo (16 Oct'2018 - 20 Oct'2018)
 
-<https://www.coursera.org/learn/mindshift>
+https://www.coursera.org/learn/mindshift
 
-<https://www.coursera.org/account/accomplishments/verify/ZT58TT77JZQ6>
+https://www.coursera.org/account/accomplishments/verify/ZT58TT77JZQ6
 
 ### TheSchoolOfAI - Decentralized Applications (10 Sept'2018 - 16 Oct'2018)
 
@@ -55,7 +55,7 @@ Mindshift: Break Through Obstacles to Learning and Discover Your Hidden Potentia
 
 ### Introduction to Probability - The Science of Uncertainty by MITx on edX (June'2018)
 
-<https://www.edx.org/course/introduction-probability-science-mitx-6-041x-2>
+https://www.edx.org/course/introduction-probability-science-mitx-6-041x-2
 
 ### Youtube (1 May'2018 - 31 May'2018)
 
@@ -72,53 +72,53 @@ Mindshift: Break Through Obstacles to Learning and Discover Your Hidden Potentia
 
 ### Udemy - Python for Data Structures, Algorithms, and Interviews! (20 Apr'18)
 
-<https://www.udemy.com/python-for-data-structures-algorithms-and-interviews>
+https://www.udemy.com/python-for-data-structures-algorithms-and-interviews
 
 ### Udemy - Modern React with Redux by Stephen Grider (24 Mar'18)
 
-<https://www.udemy.com/react-redux>
+https://www.udemy.com/react-redux
 
 ### Coursera - Learning How to Learn
 
 Learning How to Learn: Powerful mental tools to help you master tough subjects by University of California, San Diego. (23 Mar'18 - 14th Apr'18)
 
-<https://www.coursera.org/learn/learning-how-to-learn>
+https://www.coursera.org/learn/learning-how-to-learn
 
 ### Coursera - Algorithms, Part - 2, by Princeton University (14 Feb'18 - 02 Apr'18 - 22 Apr'18)
 
-<https://www.coursera.org/learn/algorithms-part2>
+https://www.coursera.org/learn/algorithms-part2
 
-<https://github.com/deepaksood619/Coursera-Algorithms-Part-2>
+https://github.com/deepaksood619/Coursera-Algorithms-Part-2
 
 ### Coursera - Algorithms, Part - 1, by Princeton University (25 Dec'17 - 26 Jan'18)
 
-<https://www.coursera.org/learn/algorithms-part1>
+https://www.coursera.org/learn/algorithms-part1
 
 Final Grade - 97.8%
 
-<https://github.com/deepaksood619/Coursera-Algorithms-Part-1>
+https://github.com/deepaksood619/Coursera-Algorithms-Part-1
 
-### TypingClub - <https://www.typingclub.com> (Dec'17 - Present)
+### TypingClub - https://www.typingclub.com (Dec'17 - Present)
 
 ### FreeCodeCamp (Dec'17 - Present)
 
-<https://www.freecodecamp.org>
+https://www.freecodecamp.org
 
-<https://www.freecodecamp.org/deepaksood619>
+https://www.freecodecamp.org/deepaksood619
 
 ### Git Game v1 & v2 (Nov'17)
 
-<https://www.git-game.com>
+https://www.git-game.com
 
 ### Git Branching (Nov'17)
 
-<https://learngitbranching.js.org>
+https://learngitbranching.js.org
 
-<https://www.udacity.com/course/responsive-web-design-fundamentals--ud893>
+https://www.udacity.com/course/responsive-web-design-fundamentals--ud893
 
-<https://www.udacity.com/course/responsive-images--ud882>
+https://www.udacity.com/course/responsive-images--ud882
 
-<https://www.udacity.com/course/intro-to-html-and-css--ud304>
+https://www.udacity.com/course/intro-to-html-and-css--ud304
 
 ### Coursera - Machine Learning by Andrew Ng (29.06.2016)
 
@@ -244,15 +244,15 @@ By Tata Trust and Google for Udacity Android Nanodegree Course. (Jan, 16)
 
 - GraphQL
 
-    <https://www.howtographql.com>
+    https://www.howtographql.com
 
 - DRF
 
-    <http://www.django-rest-framework.org/tutorial/1-serialization>
+    http://www.django-rest-framework.org/tutorial/1-serialization
 
 - Django
 
-    <https://docs.djangoproject.com/en/2.0/intro/tutorial01>
+    https://docs.djangoproject.com/en/2.0/intro/tutorial01
 
 ## Books
 

@@ -90,7 +90,7 @@ Note there is never an "Invalid Syntax" error on an HTML page. Browsers fix any 
 - Calculate the actual width of each node top-down by allocating each node's available width to its children.
 - Calculate the height of each node bottom-up by applying text wrapping and summing the child node heights and the node's margins, borders, and padding.
 - Calculate the coordinates of each node using the information calculated above.
-- More complicated steps are taken when elements are floated, positioned absolutely or relatively, or other complex features are used. See <http://dev.w3.org/csswg/css2> and <http://www.w3.org/Style/CSS/current-work> for more details.
+- More complicated steps are taken when elements are floated, positioned absolutely or relatively, or other complex features are used. See http://dev.w3.org/csswg/css2> and <http://www.w3.org/Style/CSS/current-work for more details.
 - Create layers to describe which parts of the page can be animated as a group without being re-rasterized. Each frame/render object is assigned to a layer.
 - Textures are allocated for each layer of the page.
 - The frame/render objects for each layer are traversed and drawing commands are executed for their respective layer. This may be rasterized by the CPU or drawn on the GPU directly using D2D/SkiaGL.
@@ -107,7 +107,7 @@ Note there is never an "Invalid Syntax" error on an HTML page. Browsers fix any 
 
 After rendering has completed, the browser executes JavaScript code as a result of some timing mechanism (such as a Google Doodle animation) or user interaction (typing a query into the search box and receiving suggestions). Plugins such as Flash or Java may execute as well, although not at this time on the Google homepage. Scripts can cause additional network requests to be performed, as well as modify the page or its layout, causing another round of page rendering and painting.
 
-<https://github.com/alex/what-happens-when>
+https://github.com/alex/what-happens-when
 
 ## Problems
 

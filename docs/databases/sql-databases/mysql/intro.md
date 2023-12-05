@@ -52,7 +52,7 @@ The default InnoDB indexes are B+Tree data structures. MySQL also supports spati
 
 Most MySQL indexes (PRIMARY KEY,UNIQUE,INDEX, andFULLTEXT) are stored in [B-trees](https://dev.mysql.com/doc/refman/8.0/en/glossary.html#glos_b_tree). Exceptions: Indexes on spatial data types use R-trees;MEMORYtables also support [hash indexes](https://dev.mysql.com/doc/refman/8.0/en/glossary.html#glos_hash_index);InnoDBuses inverted lists forFULLTEXTindexes.
 
-<https://dev.mysql.com/doc/refman/8.0/en/mysql-indexes.html>
+https://dev.mysql.com/doc/refman/8.0/en/mysql-indexes.html
 
 ## Isolation Levels
 
@@ -130,7 +130,7 @@ The third and final layer is responsible for storing and retrieving all of the d
 
 MySQL supports views, including updatable and insertable views. It does not natively support materialized views
 
-<https://dbdb.io/db/mysql>
+https://dbdb.io/db/mysql
 
 ## Architecture
 
@@ -151,7 +151,7 @@ Clients connect to MySQL and issues queries (which may or may not already be cac
 - log_bin - dual functionality: enable binary logging and set path/file name prefix
 - log_error
 
-<https://www.mysqltutorial.org/advanced-mysql>
+https://www.mysqltutorial.org/advanced-mysql
 
 ## InnoDB internals
 

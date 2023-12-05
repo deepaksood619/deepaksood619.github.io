@@ -150,7 +150,7 @@ Edward De Bono developed a tool called the 6 Thinking Hats to help you look at a
 - When you wear the blue hat, listen to the other hats, think about the big picture, and make your final decision.
 - To remember the blue hat as the manager, think about the sky.
 
-<https://jimkwik.com/kwik-brain-042>
+https://jimkwik.com/kwik-brain-042
 
 ## Using Decision Trees
 
@@ -162,7 +162,7 @@ Edward De Bono developed a tool called the 6 Thinking Hats to help you look at a
 - Add up and subtract all of the expected returns and losses
 - To get started you don't need to know the exact probabilities. Just following the process will give you unique insights you wouldn't have had otherwise.
 
-<https://deepstash.com/article/2581/7-things-that-self-made-billionaires-do-differently>
+https://deepstash.com/article/2581/7-things-that-self-made-billionaires-do-differently
 
 [DACI](https://click.e.atlassian.com/?qs=607064f1d0c41ff4b86df4cb78fc54b5a68b3dfdbdf2f07f8609ed35d035333eb903a1e047d2ebe2668cb2968910f114afe01a9999daa0cf1ab3939d1867e790)(Driver, Approver, Contributor, Informed) framework. It outlines who's responsible for what and when, and helps eliminate the confusion that can sometimes come along with group decision making.
 
@@ -173,9 +173,9 @@ Edward De Bono developed a tool called the 6 Thinking Hats to help you look at a
 
 Having definedandproperly documented roles and responsibilities at the start of a decision will leave you feeling more confident coming out on the other side.
 
-<https://www.atlassian.com/blog/inside-atlassian/make-team-decisions-without-killing-momentum>
+https://www.atlassian.com/blog/inside-atlassian/make-team-decisions-without-killing-momentum
 
-<https://www.atlassian.com/team-playbook/plays/daci>
+https://www.atlassian.com/team-playbook/plays/daci
 
 ## Fear Settings
 
@@ -209,7 +209,7 @@ If you are nervous about making the jump or simply putting it off out of fear of
 
 7. **What are you waiting for?** If you cannot answer this without resorting to the previously rejected concept of good timing, the answer is simple: You're afraid, just like the rest of the world. Measure the cost of inaction, realize the unlikelihood and repairability of most missteps, and develop the most important habit of those who excel and enjoy doing so: action.
 
-<https://tim.blog/2017/05/15/fear-setting>
+https://tim.blog/2017/05/15/fear-setting
 
 [Why you should define your fears instead of your goals | Tim Ferriss](https://www.youtube.com/watch?v=5J6jAC6XxAI)
 
@@ -221,7 +221,7 @@ It all starts with a question: **In X years, will I regret not doing this?**
 
 The idea is to project yourself into the future and look back on your decision from that perspective. For Bezos, he thought of when he would be 80 and if he would regret not trying to start this company. Yes or no. His answer was quite clear.
 
-<https://alyjuma.medium.com/the-regret-minimization-framework-how-jeff-bezos-made-decisions-4d5a86deaf24>
+https://alyjuma.medium.com/the-regret-minimization-framework-how-jeff-bezos-made-decisions-4d5a86deaf24
 
 ## Links
 

@@ -126,15 +126,15 @@ When a partition gets reassigned to another consumer in the group, the initial p
 
 The diagram also shows two other significant positions in the log. The log end offset is the offset of the last message written to the log. The high watermark is the offset of the last message that was successfully copied to all of the log's replicas. From the perspective of the consumer, the main thing to know is that you can only read up to the high watermark. This prevents the consumer from reading unreplicated data which could later be lost.
 
-<https://www.confluent.io/blog/tutorial-getting-started-with-the-new-apache-kafka-0-9-consumer-client>
+https://www.confluent.io/blog/tutorial-getting-started-with-the-new-apache-kafka-0-9-consumer-client
 
 ## References
 
-<https://www.oreilly.com/library/view/kafka-the-definitive/9781491936153/ch04.html>
+https://www.oreilly.com/library/view/kafka-the-definitive/9781491936153/ch04.html
 
-<https://medium.com/@andy.bryant/processing-guarantees-in-kafka-12dd2e30be0e>
+https://medium.com/@andy.bryant/processing-guarantees-in-kafka-12dd2e30be0e
 
-<https://streaml.io/blog/exactly-once>
+https://streaml.io/blog/exactly-once
 
 ## Kafka Partition Assignment Strategies
 
@@ -156,8 +156,8 @@ Kafka Clients provides three built-in strategies
 
 3. StickyAssignor
 
-<https://medium.com/streamthoughts/understanding-kafka-partition-assignment-strategies-and-how-to-write-your-own-custom-assignor-ebeda1fc06f3>
+https://medium.com/streamthoughts/understanding-kafka-partition-assignment-strategies-and-how-to-write-your-own-custom-assignor-ebeda1fc06f3
 
 ## Advanced
 
-<https://www.confluent.io/blog/kafka-python-asyncio-integration>
+https://www.confluent.io/blog/kafka-python-asyncio-integration

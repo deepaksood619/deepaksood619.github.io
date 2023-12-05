@@ -54,7 +54,7 @@ Is a specification that has selected the Rijndael cipher as its symmetric key ci
 - nonce-based enryption
 - CBC (Cipher Block Chain) with random IV (Intialization Vector)
 
-<https://hackernoon.com/very-basic-intro-to-aes-256-cipher-qxr32yk>
+https://hackernoon.com/very-basic-intro-to-aes-256-cipher-qxr32yk
 
 [**https://www.devglan.com/online-tools/aes-encryption-decryption**](https://www.devglan.com/online-tools/aes-encryption-decryption)
 
@@ -68,13 +68,13 @@ Fernet guarantees that a message encrypted using it cannot be manipulated or rea
 
 Fernet is a symmetric encryption method which makes sure that the message encrypted cannot be manipulated/read without the key. It uses URL safe encoding for the keys. Fernet also uses 128-bit AES in CBC mode and PKCS7 padding, with HMAC using SHA256 for authentication. The IV is created from os.random().
 
-<https://medium.com/coinmonks/if-youre-struggling-picking-a-crypto-suite-fernet-may-be-the-answer-95196c0fec4b>
+https://medium.com/coinmonks/if-youre-struggling-picking-a-crypto-suite-fernet-may-be-the-answer-95196c0fec4b
 
 ```bash
 python -c "from cryptography.fernet import Fernet; print(Fernet.generate_key().decode())"
 ```
 
-<https://cryptography.io/en/latest/fernet>
+https://cryptography.io/en/latest/fernet
 
 ### Galois/Counter Mode (GCM)
 
@@ -82,11 +82,11 @@ In [cryptography](https://en.wikipedia.org/wiki/Cryptography), Galois/Counter Mo
 
 Different block cipher modes of operation can have significantly different performance and efficiency characteristics, even when used with the same block cipher. GCM can take full advantage of parallel processing and implementing GCM can make efficient use of an [instruction pipeline](https://en.wikipedia.org/wiki/Instruction_pipeline) or a hardware pipeline. By contrast, the [cipher block chaining](https://en.wikipedia.org/wiki/Cipher_block_chaining)(CBC) mode of operation incurs [pipeline stalls](https://en.wikipedia.org/wiki/Pipeline_stall) that hamper its efficiency and performance.
 
-<https://en.wikipedia.org/wiki/Galois/Counter_Mode>
+https://en.wikipedia.org/wiki/Galois/Counter_Mode
 
 AES-GCM-SIVis a [mode of operation](https://en.wikipedia.org/wiki/Block_cipher_mode_of_operation) for the [Advanced Encryption Standard](https://en.wikipedia.org/wiki/Advanced_Encryption_Standard) which provides similar performance to [Galois/Counter Mode](https://en.wikipedia.org/wiki/Galois/Counter_Mode) as well as misuse resistance in the event of the reuse of a [cryptographic nonce](https://en.wikipedia.org/wiki/Cryptographic_nonce). The construction is defined in RFC 8452.
 
-<https://en.wikipedia.org/wiki/AES-GCM-SIV>
+https://en.wikipedia.org/wiki/AES-GCM-SIV
 
 ## Kerberos
 
@@ -115,7 +115,7 @@ Elliptic-curve cryptography (ECC) is an approach to [public-key cryptography](ht
 
 Elliptic curves are applicable for [key agreement](https://en.wikipedia.org/wiki/Key_agreement), [digital signatures](https://en.wikipedia.org/wiki/Digital_signature), [pseudo-random generators](https://en.wikipedia.org/wiki/CPRNG) and other tasks. Indirectly, they can be used for [encryption](https://en.wikipedia.org/wiki/Encryption) by combining the key agreement with a symmetric encryption scheme. They are also used in several [integer factorization](https://en.wikipedia.org/wiki/Integer_factorization)[algorithms](https://en.wikipedia.org/wiki/Algorithm) based on elliptic curves that have applications in cryptography, such as [Lenstra elliptic-curve factorization](https://en.wikipedia.org/wiki/Lenstra_elliptic-curve_factorization).
 
-<https://en.wikipedia.org/wiki/Elliptic-curve_cryptography>
+https://en.wikipedia.org/wiki/Elliptic-curve_cryptography
 
 [Elliptic Curves - Computerphile - YouTube](https://www.youtube.com/watch?v=NF1pwjL9-DE)
 
@@ -125,7 +125,7 @@ In [cryptography](https://en.wikipedia.org/wiki/Cryptography), the ECDSA offers 
 
 As with elliptic-curve cryptography in general, the bit [size](https://en.wikipedia.org/wiki/Key_size) of the [public key](https://en.wikipedia.org/wiki/Public_key) believed to be needed for ECDSA is about twice the size of the [security level](https://en.wikipedia.org/wiki/Security_level), in bits. For example, at a security level of 80 bits (meaning an attacker requires a maximum of about280operations to find the private key) the size of an ECDSA public key would be 160 bits, whereas the size of a DSA public key is at least 1024 bits. On the other hand, the signature size is the same for both DSA and ECDSA: approximately 4 t bits, where t is the security level measured in bits, that is, about 320 bits for a security level of 80 bits.
 
-<https://en.wikipedia.org/wiki/Elliptic_Curve_Digital_Signature_Algorithm>
+https://en.wikipedia.org/wiki/Elliptic_Curve_Digital_Signature_Algorithm
 
 ## RSA
 
@@ -135,9 +135,9 @@ A user of RSA creates and then publishes a public key based on two large [prime 
 
 RSA is a relatively slow algorithm, and because of this, it is less commonly used to directly encrypt user data. More often, RSA passes encrypted shared keys for [symmetric key](https://en.wikipedia.org/wiki/Symmetric-key_algorithm) cryptography which in turn can perform bulk encryption-decryption operations at much higher speed.
 
-<https://en.wikipedia.org/wiki/RSA_(cryptosystem)>
+https://en.wikipedia.org/wiki/RSA_(cryptosystem)
 
-<https://en.wikipedia.org/wiki/RSA_(cryptosystem)#Operation>
+https://en.wikipedia.org/wiki/RSA_(cryptosystem)#Operation
 
 ## Shamir's Secret Sharing
 
@@ -145,4 +145,4 @@ Shamir's Secret Sharing is an [algorithm](https://en.wikipedia.org/wiki/Algorith
 
 To reconstruct the original secret, a minimum number of parts is required. In the threshold scheme this number is less than the total number of parts. Otherwise all participants are needed to reconstruct the original secret.
 
-<https://en.wikipedia.org/wiki/Shamir%27s_Secret_Sharing>
+https://en.wikipedia.org/wiki/Shamir%27s_Secret_Sharing

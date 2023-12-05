@@ -121,7 +121,7 @@ The elastic net is just a linear combination of the L1 and L2 regularizing penal
 
 ![image](../../media/Regularization-image27.jpg)
 
-<https://goo.gl/281mPF>
+https://goo.gl/281mPF
 
 ![image](../../media/Regularization-image28.jpg)
 

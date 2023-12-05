@@ -14,15 +14,15 @@ aws s3 presign s3://bigbet90/index.html --expires-in 90
 
 Generating presigned URLs is actually done locally, without requiring a call to AWS. This is because all necessary information (Bucket, Key, Secret Key) is known locally and can generate the signature.
 
-<https://docs.aws.amazon.com/AmazonS3/latest/userguide/ShareObjectPreSignedURL.html>
+https://docs.aws.amazon.com/AmazonS3/latest/userguide/ShareObjectPreSignedURL.html
 
-<https://boto3.amazonaws.com/v1/documentation/api/latest/guide/s3-presigned-urls.html>
+https://boto3.amazonaws.com/v1/documentation/api/latest/guide/s3-presigned-urls.html
 
 - 6 Copies of 1 object are maintained in >=3 Az's
 - You can send [3,500 PUT/COPY/POST/DELETE and 5,500 GET/HEAD requests per second per partitioned prefix](https://docs.aws.amazon.com/AmazonS3/latest/dev/optimizing-performance.html) in an S3 bucket. When you have an increased request rate to your bucket, Amazon S3 might return **503 Slow Down errors** while it scales to support the request rate. This scaling process is called **partitioning**.
 - Pass through uploads
 
-<https://docs.aws.amazon.com/AmazonS3/latest/userguide/PresignedUrlUploadObject.html>
+https://docs.aws.amazon.com/AmazonS3/latest/userguide/PresignedUrlUploadObject.html
 
 Amazon S3 is an object storage model that is built to store and retrieve any amount of data from any place such as websites, mobile apps, corporate applications, and data from IoT sensors or devices. Amazon S3 is the most supported storage platform available, with the largest ecosystem.
 
@@ -46,7 +46,7 @@ However, suppose we tried retrieving an object and received a "Not Found" respon
 
 ## Strong read after write
 
-<https://aws.amazon.com/about-aws/whats-new/2020/12/amazon-s3-now-delivers-strong-read-after-write-consistency-automatically-for-all-applications>
+https://aws.amazon.com/about-aws/whats-new/2020/12/amazon-s3-now-delivers-strong-read-after-write-consistency-automatically-for-all-applications
 
 ## Peformance
 
@@ -60,37 +60,37 @@ Other AWS services can also help accelerate performance for different applicatio
 
 Additionally, if you want fast data transport over long distances between a client and an S3 bucket, use [Amazon S3 Transfer Acceleration](https://docs.aws.amazon.com/AmazonS3/latest/dev/transfer-acceleration.html). Transfer Acceleration uses the globally distributed edge locations in CloudFront to accelerate data transport over geographical distances. If your Amazon S3 workload uses server-side encryption with AWS Key Management Service (SSE-KMS), see [AWS KMS Limits](https://docs.aws.amazon.com/kms/latest/developerguide/limits.html) in the AWS Key Management Service Developer Guide for information about the request rates supported for your use case.
 
-<https://docs.aws.amazon.com/AmazonS3/latest/userguide/optimizing-performance.html>
+https://docs.aws.amazon.com/AmazonS3/latest/userguide/optimizing-performance.html
 
-<https://docs.aws.amazon.com/AmazonS3/latest/dev/optimizing-performance-design-patterns.html>
+https://docs.aws.amazon.com/AmazonS3/latest/dev/optimizing-performance-design-patterns.html
 
 ## Virtual hosting of buckets
 
-Virtual hosting is the practice of serving multiple websites from a single web server. One way to differentiate sites is by using the apparent hostname of the request instead of just the path name part of the URI. An ordinary Amazon S3 REST request specifies a bucket by using the first slash-delimited component of the Request-URI path. Or, you can use Amazon S3 virtual hosting to address a bucket in a REST API call by using the HTTPHostheader. In practice, Amazon S3 interpretsHostas meaning that most buckets are automatically accessible for limited types of requests at<https://bucketname.s3.Region.amazonaws.com>. For a complete list of Amazon S3 Regions and endpoints, see [Amazon S3 Regions and Endpoints](https://docs.aws.amazon.com/general/latest/gr/s3.html) in theAWS General Reference.
+Virtual hosting is the practice of serving multiple websites from a single web server. One way to differentiate sites is by using the apparent hostname of the request instead of just the path name part of the URI. An ordinary Amazon S3 REST request specifies a bucket by using the first slash-delimited component of the Request-URI path. Or, you can use Amazon S3 virtual hosting to address a bucket in a REST API call by using the HTTPHostheader. In practice, Amazon S3 interpretsHostas meaning that most buckets are automatically accessible for limited types of requests athttps://bucketname.s3.Region.amazonaws.com. For a complete list of Amazon S3 Regions and endpoints, see [Amazon S3 Regions and Endpoints](https://docs.aws.amazon.com/general/latest/gr/s3.html) in theAWS General Reference.
 
-Virtual hosting also has other benefits. By naming your bucket after your registered domain name and by making that name a DNS alias for Amazon S3, you can completely customize the URL of your Amazon S3 resources, for example,<http://my.bucketname.com>. You can also publish to the "root directory" of your bucket's virtual server. This ability can be important because many existing applications search for files in this standard location. For example, favicon.ico, robots.txt, crossdomain.xmlare all expected to be found at the root.
+Virtual hosting also has other benefits. By naming your bucket after your registered domain name and by making that name a DNS alias for Amazon S3, you can completely customize the URL of your Amazon S3 resources, for example,http://my.bucketname.com. You can also publish to the "root directory" of your bucket's virtual server. This ability can be important because many existing applications search for files in this standard location. For example, favicon.ico, robots.txt, crossdomain.xmlare all expected to be found at the root.
 
 ## Path-Style Requests (deprecated 30 sep 2020)
 
-<https://s3.Region.amazonaws.com/bucket-name/key_name>
+https://s3.Region.amazonaws.com/bucket-name/key_name
 
 ## Virtual Hosted-Style Requests
 
-<https://bucket-name.s3.Region.amazonaws.com/key_name>
+https://bucket-name.s3.Region.amazonaws.com/key_name
 
-<https://docs.aws.amazon.com/AmazonS3/latest/dev/VirtualHosting.html>
+https://docs.aws.amazon.com/AmazonS3/latest/dev/VirtualHosting.html
 
-<https://aws.amazon.com/blogs/aws/amazon-s3-path-deprecation-plan-the-rest-of-the-story>
+https://aws.amazon.com/blogs/aws/amazon-s3-path-deprecation-plan-the-rest-of-the-story
 
 ## S3 Select and Glacier Select
 
 Amazon S3 Select does not support whole-object compression for Parquet objects.
 
-<https://aws.amazon.com/blogs/aws/s3-glacier-select>
+https://aws.amazon.com/blogs/aws/s3-glacier-select
 
-<https://docs.aws.amazon.com/AmazonS3/latest/dev/selecting-content-from-objects.html>
+https://docs.aws.amazon.com/AmazonS3/latest/dev/selecting-content-from-objects.html
 
-<https://docs.aws.amazon.com/AmazonS3/latest/API/API_SelectObjectContent.html>
+https://docs.aws.amazon.com/AmazonS3/latest/API/API_SelectObjectContent.html
 
 [Amazon S3 Select improves query performance by up to 9x when using Trino](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-s3-select-improves-query-performance-trino/)
 
@@ -135,11 +135,11 @@ There are two types of actions:
 
 Amazon S3 runs lifecycle rules once every day. After the first time Amazon S3 runs the rules, all objects eligible for expiration are marked for deletion. You're no longer charged for objects that are marked for deletion. It can take a few days for the rules to run until the bucket is empty. This is because expiring object versions and cleaning up delete markers are asynchronous steps.
 
-<https://aws.amazon.com/premiumsupport/knowledge-center/s3-empty-bucket-lifecycle-rule>
+https://aws.amazon.com/premiumsupport/knowledge-center/s3-empty-bucket-lifecycle-rule
 
-<https://docs.aws.amazon.com/AmazonS3/latest/dev/object-lifecycle-mgmt.html>
+https://docs.aws.amazon.com/AmazonS3/latest/dev/object-lifecycle-mgmt.html
 
-<https://docs.aws.amazon.com/AmazonS3/latest/userguide/how-to-set-lifecycle-configuration-intro.html>
+https://docs.aws.amazon.com/AmazonS3/latest/userguide/how-to-set-lifecycle-configuration-intro.html
 
 ## S3 Storage Classes
 
@@ -155,9 +155,9 @@ Monitoring and Automation, All Storage / Month (Objects > 128 KB) - $0.0025per 1
 - Amazon S3 Glacier Instant Retrieval
 - S3 Outposts
 
-<https://aws.amazon.com/s3/storage-classes>
+https://aws.amazon.com/s3/storage-classes
 
-<https://aws.amazon.com/s3/storage-classes/intelligent-tiering>
+https://aws.amazon.com/s3/storage-classes/intelligent-tiering
 
 S3 Intelligent-Tiering is the only cloud storage class that delivers automatic storage cost savings when data access patterns change, without performance impact or operational overhead. The Amazon S3 Intelligent-Tiering storage class is designed to optimize storage costs by automatically moving data to the most cost-effective access tier when access patterns change. For a small monthly object monitoring and automation charge, S3 Intelligent-Tiering monitors access patterns and automatically moves objects that have not been accessed to lower-cost access tiers.
 
@@ -208,7 +208,7 @@ There are per-request ingest fees when using PUT, COPY, or lifecycle rules to mo
 
 ## S3 Storage Lens
 
-<https://aws.amazon.com/s3/storage-analytics-insights>
+https://aws.amazon.com/s3/storage-analytics-insights
 
 | S3 Storage Lens free metrics | $0.00 |
 |-|-|
@@ -234,15 +234,15 @@ After you version-enable a bucket, it can never return to an unversioned state. 
 
 If you have an object expiration lifecycle policy in your unversioned bucket and you want to maintain the same permanent delete behavior when you enable versioning, you must add a noncurrent expiration policy. The noncurrent expiration lifecycle policy manages the deletes of the noncurrent object versions in the version-enabled bucket. (A version-enabled bucket maintains one current, and zero or more noncurrent, object versions.)
 
-<https://www.aws.training/Details/eLearning?id=71251>
+https://www.aws.training/Details/eLearning?id=71251
 
-<https://aws.amazon.com/blogs/compute/build-a-serverless-private-url-shortener>
+https://aws.amazon.com/blogs/compute/build-a-serverless-private-url-shortener
 
 ## TransactionManager (Speeds up s3 transfers)
 
-<https://docs.aws.amazon.com/sdk-for-java/v1/developer-guide/examples-s3-transfermanager.html>
+https://docs.aws.amazon.com/sdk-for-java/v1/developer-guide/examples-s3-transfermanager.html
 
-<https://docs.aws.amazon.com/code-samples/latest/catalog/python-s3-file_transfer-demo_file_transfer.py.html>
+https://docs.aws.amazon.com/code-samples/latest/catalog/python-s3-file_transfer-demo_file_transfer.py.html
 
 ## Glacier Deep Archieve
 

@@ -12,7 +12,7 @@ In a distributed system, we mostly deal with partially ordered events, simply be
 So how do we reconcile this lack of knowledge throughout our system? Well, it involves some reframing of how we think about time...and whether we even need it at all (?!).
 The answer to this mystery is**causal ordering**, which helps us order events not based on thetimethat they occurred, but rather, based on cause and effect. Causal ordering reframes how we think about events. If we can just figure out which events causeotherevents, we can come up with a loose ordering of how those events occurred.
 
-<https://medium.com/baseds/ordering-distributed-events-29c1dd9d1eff>
+https://medium.com/baseds/ordering-distributed-events-29c1dd9d1eff
 
 ## Lamport Timestamps
 
@@ -23,9 +23,9 @@ Lamport's logical clocks allow us to shift from happened **when** to happened **
 we need to shift from thinking about **when** an event happened to what the event happened **before**
 The idea of one event happening before another is central to Lamport's paper. He uses the→shorthand notation to indicate the**happens before** relationship, or the fact that one event happened before another. For example, if we know that one event, a, happened before another event, b, then we can say thata→b, orahappened beforeb.
 
-<https://en.wikipedia.org/wiki/Lamport_timestamps>
+https://en.wikipedia.org/wiki/Lamport_timestamps
 
-<https://medium.com/baseds/logical-time-and-lamport-clocks-part-1-d0317e407112>
+https://medium.com/baseds/logical-time-and-lamport-clocks-part-1-d0317e407112
 
 ## Logical Clock
 
@@ -39,15 +39,15 @@ By using basic counters instead of physical clocks, Lamport simplifies clocks in
 
 ![image](../../media/Clocks-image1.jpg)
 
-<https://en.wikipedia.org/wiki/Logical_clock>
+https://en.wikipedia.org/wiki/Logical_clock
 
-<https://medium.com/baseds/ticking-clocks-in-a-distributed-system-ef2aa4df07a3>
+https://medium.com/baseds/ticking-clocks-in-a-distributed-system-ef2aa4df07a3
 
-<https://medium.com/baseds/logical-time-and-lamport-clocks-part-2-272c097dcdda>
+https://medium.com/baseds/logical-time-and-lamport-clocks-part-2-272c097dcdda
 
 ## Interval Tree Clocks: A Logical Clock for Dynamic Systems
 
-<https://github.com/catwell/itc.lua>
+https://github.com/catwell/itc.lua
 
 ## Leap Second
 

@@ -80,7 +80,7 @@ AE= advanced economy;EMDE= emerging market and developing economy, low income (L
 
 Government asks financial institutions to provide loans to farmers at below market rates.
 
-<https://freefincal.com/government-spending-2019-20>
+https://freefincal.com/government-spending-2019-20
 
 ## DRT and NCLT
 
@@ -110,7 +110,7 @@ Since the act was primarily for the management of the governments' behaviour, it
 
 The Act further required the government to develop measures to promotefiscal transparency and reduce secrecyin the preparation of the Government financial documents including the Union Budget.
 
-<https://en.wikipedia.org/wiki/Fiscal_Responsibility_and_Budget_Management_Act,_2003>
+https://en.wikipedia.org/wiki/Fiscal_Responsibility_and_Budget_Management_Act,_2003
 
 ## Economic Advisory Council
 
@@ -127,13 +127,13 @@ Terms of reference as defined by the PMEAC are as follows:
 
 The primary role of the PMEAC is to give a neutral viewpoint on economic policy matters that are referred to it by the Prime Minister.Additionally it prepares a monthly report of economic developments that need to be highlighted to the PM. For this purpose it closely monitors national and international economic developments and trends and develops appropriate policy responses for the PM. It publishes reports on the annualEconomic OutlookandReview of the Economyof India.
 
-<https://en.wikipedia.org/wiki/Economic_Advisory_Council>
+https://en.wikipedia.org/wiki/Economic_Advisory_Council
 
 ## OECD
 
 The Organisation for Economic Co-operation and Development (OECD) is an [intergovernmental economic organisation](https://en.wikipedia.org/wiki/Intergovernmental_organization) with 36 member countries, founded in 1961 to stimulate economic progress and world trade. It is a forum of countries describing themselves as committed to [democracy](https://en.wikipedia.org/wiki/Democracy) and the [market economy](https://en.wikipedia.org/wiki/Market_economy), providing a platform to compare policy experiences, seek answers to common problems, identify good practices and coordinate domestic and international policies of its members. Most OECD members are [high-income economies](https://en.wikipedia.org/wiki/High_income_economy) with a very high [Human Development Index](https://en.wikipedia.org/wiki/Human_Development_Index)(HDI) and are regarded as [developed countries](https://en.wikipedia.org/wiki/Developed_country). As of 2017, the OECD member states collectively comprised 62.2% of [global nominal GDP](https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(nominal))([US$](https://en.wikipedia.org/wiki/United_States_dollar) 49.6 trillion) and 42.8% of global GDP ([Int$](https://en.wikipedia.org/wiki/Geary%E2%80%93Khamis_dollar) 54.2 trillion) at [purchasing power parity](https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(PPP)).OECD is an official [United Nations observer](https://en.wikipedia.org/wiki/United_Nations_General_Assembly_observers).
 
-<https://en.wikipedia.org/wiki/OECD>
+https://en.wikipedia.org/wiki/OECD
 
 ## Fiscal
 
@@ -151,23 +151,23 @@ Changes in the level and composition of taxation and government spending can aff
 
 Fiscal policy can be distinguished from [monetary policy](https://en.wikipedia.org/wiki/Monetary_policy), in that fiscal policy deals with taxation and government spending and is often administered by an executive under laws of a legislature, whereas monetary policy deals with the money supply and interest rates and is often administered by a [central bank](https://en.wikipedia.org/wiki/Central_bank).
 
-<https://en.wikipedia.org/wiki/Fiscal_policy>
+https://en.wikipedia.org/wiki/Fiscal_policy
 
 ## Fiscal Deficit
 
 A fiscal deficit occurs when a government's total expenditures exceed the revenue that it generates, excluding money from borrowings. [Deficit](https://www.investopedia.com/terms/d/deficit.asp) differs from debt, which is an accumulation of yearly deficits.
 
-<https://en.wikipedia.org/wiki/Government_budget_balance>
+https://en.wikipedia.org/wiki/Government_budget_balance
 
 ## NBFC (Non-Banking Financial Company) & MFI (Micro Finance Institutions)
 
 A Non Banking Financial Company (NBFC) isa company registered under the Companies Act, 2013 of [India](https://en.wikipedia.org/wiki/India), engaged in the business of loans and advances, acquisition of shares, stock, bonds, hire-purchase insurance business or chit-fund business, but does not include any institution whose principal business is that of agriculture, industrial activity, purchase or sale of any goods (other than securities) or providing any services and sale/purchase/construction of immovable property.
 
-<https://en.wikipedia.org/wiki/NBFC_%26_MFI_in_India>
+https://en.wikipedia.org/wiki/NBFC_%26_MFI_in_India
 
 ## India's Socio-Economic Classification
 
-<https://trak.in/tags/business/2011/05/30/new-sec-socio-economic-classification>
+https://trak.in/tags/business/2011/05/30/new-sec-socio-economic-classification
 
 ## Budget
 

@@ -46,15 +46,15 @@ The solution is we can't support Remove operation in this simple bloom filters. 
 
 ## References
 
-<https://www.geeksforgeeks.org/bloom-filters-introduction-and-python-implementation>
+https://www.geeksforgeeks.org/bloom-filters-introduction-and-python-implementation
 
-<https://en.wikipedia.org/wiki/Bloom_filter>
+https://en.wikipedia.org/wiki/Bloom_filter
 
-<https://blog.medium.com/what-are-bloom-filters-1ec2a50c68ff>
+https://blog.medium.com/what-are-bloom-filters-1ec2a50c68ff
 
-<https://www.quora.com/What-are-the-best-applications-of-Bloom-filters>
+https://www.quora.com/What-are-the-best-applications-of-Bloom-filters
 
-Python Implentation - <https://diogodanielsoaresferreira.github.io/bloom-filter>
+Python Implentation - https://diogodanielsoaresferreira.github.io/bloom-filter
 
 **Research papers**
 

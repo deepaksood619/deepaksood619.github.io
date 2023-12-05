@@ -6,8 +6,8 @@
 
 [https://www.ratatype.com](https://www.ratatype.com/)
 
-<https://thetypingcat.com/user/34963>
+https://thetypingcat.com/user/34963
 
-<https://www.typingclub.com>
+https://www.typingclub.com
 
-<https://www.typing.academy>
+https://www.typing.academy

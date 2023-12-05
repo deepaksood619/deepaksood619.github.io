@@ -10,7 +10,7 @@ KNN can require a lot of memory or space to store all of the data, but only perf
 
 The idea of distance or closeness can break down in very high dimensions (lots of input variables) which can negatively affect the performance of the algorithm on your problem. This is called the curse of dimensionality. It suggests you only use those input variables that are most relevant to predicting the output variable.
 
-<https://machinelearningmastery.com/k-nearest-neighbors-for-machine-learning>
+https://machinelearningmastery.com/k-nearest-neighbors-for-machine-learning
 
 ![image](../../media/K-Nearest-Neighbor-(KNN)-image1.jpg)
 

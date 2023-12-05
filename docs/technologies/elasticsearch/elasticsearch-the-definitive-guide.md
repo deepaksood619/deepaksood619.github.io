@@ -171,6 +171,6 @@ A distributed real-time document store whereevery fieldis indexed and searchable
 
 ## References
 
-<https://www.elastic.co/guide/en/elasticsearch/guide/current/index.html>
+https://www.elastic.co/guide/en/elasticsearch/guide/current/index.html
 
-<https://dev.to/full_stackgeek/the-architecture-of-elasticsearch-basic-overview-3c84>
+https://dev.to/full_stackgeek/the-architecture-of-elasticsearch-basic-overview-3c84

@@ -142,11 +142,11 @@ $( document ).ready(code_toggle);
 
 ## References
 
-- <https://www.datacamp.com/community/tutorials/tutorial-jupyter-notebook>
-- <https://www.dataquest.io/blog/advanced-jupyter-notebooks-tutorial>
-- <https://towardsdatascience.com/speed-up-jupyter-notebooks-20716cbe2025>
-- <https://towardsdatascience.com/how-to-effortlessly-optimize-jupyter-notebooks-e864162a06ee>
-- <https://blog.dominodatalab.com/lesser-known-ways-of-using-notebooks>
+- https://www.datacamp.com/community/tutorials/tutorial-jupyter-notebook
+- https://www.dataquest.io/blog/advanced-jupyter-notebooks-tutorial
+- https://towardsdatascience.com/speed-up-jupyter-notebooks-20716cbe2025
+- https://towardsdatascience.com/how-to-effortlessly-optimize-jupyter-notebooks-e864162a06ee
+- https://blog.dominodatalab.com/lesser-known-ways-of-using-notebooks
 
 ## Jupyter Extensions
 
@@ -162,11 +162,11 @@ The interact function (ipywidgets.interact) automatically creates user interface
 
 `interact(f, x=['apples','oranges']);`
 
-<https://ipywidgets.readthedocs.io/en/stable/index.html>
+https://ipywidgets.readthedocs.io/en/stable/index.html
 
-<https://ipywidgets.readthedocs.io/en/stable/examples/Using%20Interact.html>
+https://ipywidgets.readthedocs.io/en/stable/examples/Using%20Interact.html
 
-<https://github.com/jupyterlab/jupyterlab/issues/4930>
+https://github.com/jupyterlab/jupyterlab/issues/4930
 
 ## Jupyter Lab
 
@@ -192,23 +192,23 @@ jupyter labextension list
 
 ### Extensions
 
-- <https://github.com/lckr/jupyterlab-variableInspector>
-- <https://github.com/jupyterlab/jupyterlab-git>
-- <https://github.com/jupyterlab/jupyterlab-toc>
+- https://github.com/lckr/jupyterlab-variableInspector
+- https://github.com/jupyterlab/jupyterlab-git
+- https://github.com/jupyterlab/jupyterlab-toc
 
 ### References
 
-<https://towardsdatascience.com/jupyter-lab-evolution-of-the-jupyter-notebook-5297cacde6b>
+https://towardsdatascience.com/jupyter-lab-evolution-of-the-jupyter-notebook-5297cacde6b
 
-<https://jupyterlab.readthedocs.io/en/stable/getting_started/overview.html>
+https://jupyterlab.readthedocs.io/en/stable/getting_started/overview.html
 
 ### Ready to use jupyter notebooks
 
 `docker run -p 8888:8888 -e JUPYTER_ENABLE_LAB=yes -v "$PWD":/home/jovyan/work jupyter/datascience-notebook:latest`
 
-<https://hub.docker.com/r/jupyter/datascience-notebook>
+https://hub.docker.com/r/jupyter/datascience-notebook
 
-<https://github.com/jupyter/docker-stacks>
+https://github.com/jupyter/docker-stacks
 
 ## JupyterHub
 
@@ -216,9 +216,9 @@ JupyterHub brings the power of notebooks to groups of users. It gives users acce
 
 JupyterHub runs in the cloud or on your own hardware, and makes it possible to serve a pre-configured data science environment to any user in the world. It is customizable and scalable, and is suitable for small and large teams, academic courses, and large-scale infrastructure.
 
-<https://jupyter.org/hub>
+https://jupyter.org/hub
 
-JupyterHub on Kubernetes - <https://z2jh.jupyter.org/en/latest/setup-jupyterhub.html>
+JupyterHub on Kubernetes - https://z2jh.jupyter.org/en/latest/setup-jupyterhub.html
 
 JupyterHub will automatically delete any user pods that have no activity for a period of time. This helps free up computational resources and keeps costs down if you are using an autoscaling cluster. When these users navigate back to your JupyterHub, they will have to start their server again, and the state of their previous session (variables they've created, any in-memory data, etc) will be lost. This is known as *culling*.
 
@@ -254,12 +254,12 @@ services:
 
 ### Others
 
-<https://www.querybook.org>
+https://www.querybook.org
 
-<https://github.com/pinterest/querybook>
+https://github.com/pinterest/querybook
 
 Querybook is a Big Data Querying UI, combining collocated table metadata and a simple notebook interface.
 
 ## SQL Notebooks
 
-<https://engineering.fb.com/2022/04/26/developer-tools/sql-notebooks>
+https://engineering.fb.com/2022/04/26/developer-tools/sql-notebooks

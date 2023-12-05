@@ -1,6 +1,6 @@
 # Recursion
 
-<https://www.topcoder.com/community/data-science/data-science-tutorials/an-introduction-to-recursion-part-2>
+https://www.topcoder.com/community/data-science/data-science-tutorials/an-introduction-to-recursion-part-2
 
 Starter Function -
 
@@ -104,8 +104,8 @@ Changing the recursion limit is dangerous, the standard limit for python is a li
 
 Python isn't a functional language and tail recursion is not a particularly efficient technique. Rewriting the algorithm iteratively, if possible, is generally a better idea. Since Guido prefers to be able to have proper tracebacks Python will never optimize tail recursions
 
-<https://en.wikipedia.org/wiki/Tail_call>
+https://en.wikipedia.org/wiki/Tail_call
 
-<https://towardsdatascience.com/advanced-concepts-in-recursion-every-effective-programmer-should-know-de233a092dbf>
+https://towardsdatascience.com/advanced-concepts-in-recursion-every-effective-programmer-should-know-de233a092dbf
 
-<https://blog.moertel.com/posts/2013-06-12-recursion-to-iteration-4-trampolines.html>
+https://blog.moertel.com/posts/2013-06-12-recursion-to-iteration-4-trampolines.html

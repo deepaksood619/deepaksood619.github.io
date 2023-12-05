@@ -16,7 +16,7 @@ Classical conditioning (also known as **Pavlovian** or **respondent conditioning
 
 Pavlov was conducting research on the digestion of dogs when he noticed that the dogs' physical reactions to food subtly changed over time. At first, the dogs would only salivate when the food was placed in front of them. However, later they salivated slightly before their food arrived.
 
-<https://en.wikipedia.org/wiki/Classical_conditioning>
+https://en.wikipedia.org/wiki/Classical_conditioning
 
 ## Operant Conditioning / Instrument Conditioning
 
@@ -28,7 +28,7 @@ Although operant and [classical conditioning](https://en.wikipedia.org/wiki/Clas
 
 [B.F. Skinner](https://en.wikipedia.org/wiki/B.F._Skinner)(1904--1990) is referred to as the father of operant conditioning, and his work is frequently cited in connection with this topic. To implement his empirical approach, Skinner invented the [operant conditioning chamber](https://en.wikipedia.org/wiki/Operant_conditioning_chamber), or "**Skinner Box**", in which subjects such as pigeons and rats were isolated and could be exposed to carefully controlled stimuli.
 
-<https://en.wikipedia.org/wiki/Operant_conditioning>
+https://en.wikipedia.org/wiki/Operant_conditioning
 
 ## Hyperbolic discounting
 
@@ -56,7 +56,7 @@ The standard experiment used to reveal a test subject's hyperbolic discounting c
 
 The most important consequence of hyperbolic discounting is that it creates temporary preferences for small rewards that occur sooner over larger, later ones. Individuals using hyperbolic discounting reveal a strong tendency to make choices that are inconsistent over time -- they make choices today that their future self would prefer not to have made, despite knowing the same information. This [dynamic inconsistency](https://en.wikipedia.org/wiki/Dynamic_inconsistency) happens because hyperbolas distort the relative value of options with a fixed difference in delays in proportion to how far the choice-maker is from those options.
 
-<https://en.wikipedia.org/wiki/Hyperbolic_discounting>
+https://en.wikipedia.org/wiki/Hyperbolic_discounting
 
 [Hyperbolic Discounting: Why You Make Terrible Life Choices](https://www.nirandfar.com/hyperbolic-discounting-why-you-make-terrible-life-choices/)
 
@@ -70,13 +70,13 @@ Psychological theorists have consistently emphasized the importance of perceptio
 
 The illusion is more common in familiar situations, and in situations where the person knows the desired outcome.Feedback that emphasizes success rather than failure can increase the effect, while feedback that emphasizes failure can decrease or reverse the effect.The illusion is weaker for [depressed](https://en.wikipedia.org/wiki/Depression_(mood)) individuals and is stronger when individuals have an emotional need to control the outcome.The illusion is strengthened by stressful and competitive situations, including [financial trading](https://en.wikipedia.org/wiki/Trader_(finance)).Although people are likely to overestimate their control when the situations are heavily chance-determined, they also tend to underestimate their control when they actually have it, which runs contrary to some theories of the illusion and its adaptiveness.People also showed a higher illusion of control when they were allowed to become familiar with a task through practice trials, make their choice before the event happens like with throwing dice, and when they can make their choice rather than have it made for them with the same odds. People are more likely to show control when they have more answers right at the beginning than at the end, even when the people had the same number of correct answers.
 
-<https://en.wikipedia.org/wiki/Illusion_of_control>
+https://en.wikipedia.org/wiki/Illusion_of_control
 
 ## Mere exposure effect
 
 The mere-exposure effect is a [psychological](https://en.wikipedia.org/wiki/Psychological) phenomenon by which people tend to develop a preference for things merely because they are familiar with them. In [social psychology](https://en.wikipedia.org/wiki/Social_psychology), this effect is sometimes called the familiarity principle. The effect has been demonstrated with many kinds of things, including words, [Chinese characters](https://en.wikipedia.org/wiki/Chinese_character), paintings, pictures of faces, [geometric figures](https://en.wikipedia.org/wiki/Polygon), and sounds. In studies of interpersonal attraction, the more often someone sees a person, the more pleasing and likeable they find that person.
 
-<https://en.wikipedia.org/wiki/Mere-exposure_effect>
+https://en.wikipedia.org/wiki/Mere-exposure_effect
 
 ## Norm of reciprocity
 
@@ -90,19 +90,19 @@ Listening to wise scriptures, austerity, sacrifice, respectful faith, social wel
 
 -*Mahābhārata Shānti-Parva* 167:9
 
-<https://en.wikipedia.org/wiki/Golden_Rule>
+https://en.wikipedia.org/wiki/Golden_Rule
 
-<https://en.wikipedia.org/wiki/Norm_of_reciprocity>
+https://en.wikipedia.org/wiki/Norm_of_reciprocity
 
 ## Tribalism
 
 Tribalismis the state of being organized by, or advocating for, [tribes](https://en.wikipedia.org/wiki/Tribe) or tribal lifestyles. Human evolution has primarily occurred in small groups, as opposed to [mass societies](https://en.wikipedia.org/wiki/Mass_society), and humans naturally maintain a [social network](https://en.wikipedia.org/wiki/Social_network). In [popular culture](https://en.wikipedia.org/wiki/Popular_culture), tribalism may also refer to a way of thinking or behaving in which people are loyal to their social group above all else, or, [derogatorily](https://en.wikipedia.org/wiki/Pejorative), a type of [discrimination](https://en.wikipedia.org/wiki/Discrimination) or animosity based upon group differences.
 
-<https://en.wikipedia.org/wiki/Tribalism>
+https://en.wikipedia.org/wiki/Tribalism
 
 ## Thinkers vs Doers
 
-<https://www.scotthyoung.com/blog/2019/09/23/thinkers-vs-doers>
+https://www.scotthyoung.com/blog/2019/09/23/thinkers-vs-doers
 
 ## Others
 

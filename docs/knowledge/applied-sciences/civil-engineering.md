@@ -38,7 +38,7 @@ Thermal insulation refers to the provisions or constructions employed to reduce 
 
 ![image](../../media/Civil-Engineering-image1.jpg)
 
-<https://happho.com/insulate-house-thermally>
+https://happho.com/insulate-house-thermally
 
 ## Hyperobject
 

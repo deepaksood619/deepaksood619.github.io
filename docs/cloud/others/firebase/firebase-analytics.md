@@ -2,7 +2,7 @@
 
 Google Analytics for Firebase, formerly Firebase Analytics, is now known as Google Analytics. It works great for your mobile apps! Oh, but Google Analytics for Mobile has been deprecated; they recommend you use Firebase Analytics, which, as you'll recall, is now Google Analytics. In recent news, you'll be excited to hear that Google Analytics now supports web apps, but don't confuse that with Google Analytics for the web!
 
-<https://medium.com/firebase-developers/google-analytics-vs-firebase-analytics-vs-google-analytics-97ca645a8aff>
+https://medium.com/firebase-developers/google-analytics-vs-firebase-analytics-vs-google-analytics-97ca645a8aff
 
 ## Google Analytics / GA4
 
@@ -15,7 +15,7 @@ Google Analytics for Firebase, formerly Firebase Analytics, is now known as Goog
   - Segment Overlap Analysis
   - Funnel Analysis Technique
 
-<https://firebase.google.com/docs/analytics>
+https://firebase.google.com/docs/analytics
 
 - **In-app behavioral analytics**
   - who your users are
@@ -32,7 +32,7 @@ YouTube - [The Firebase developer's guide to Google Analytics](https://www.youtu
 
 An Event is an important occurrence in your app that you want to measure. You can report up to 500 different types of Events per app and you can associate up to 25 unique parameters with each Event type. Some common events are suggested below, but you may also choose to specify custom Event types that are associated with your specific app. Each event type is identified by a unique name. Event names can be up to 40 characters long, may only contain alphanumeric characters and underscores ("_"), and must start with an alphabetic character. The "firebase_", "google_", and "ga_" prefixes are reserved and should not be used.
 
-<https://firebase.google.com/docs/reference/cpp/group/event-names>
+https://firebase.google.com/docs/reference/cpp/group/event-names
 
 Events provide insight on what is happening in your app, such as user actions, system events, or errors.
 
@@ -46,7 +46,7 @@ For example, you have a login page (with authentication methods of using Faceboo
 
 Params supply information that contextualize Events. You can associate up to 25 unique Params with each Event type. Some Params are suggested below for certain common Events, but you are not limited to these. You may supply extra Params for suggested Events or custom Params for Custom events. Param names can be up to 40 characters long, may only contain alphanumeric characters and underscores ("_"), and must start with an alphabetic character. Param values can be up to 100 characters long. The "firebase_", "google_", and "ga_" prefixes are reserved and should not be used.
 
-<https://firebase.google.com/docs/reference/cpp/group/parameter-names>
+https://firebase.google.com/docs/reference/cpp/group/parameter-names
 
 Custom-parameter reporting Define custom parameters for your events.
 
@@ -62,13 +62,13 @@ A UserProperty is an attribute that describes the app-user. By supplying UserPro
 
 Attributes you define to describe segments of your user base, such as **language preference or geographic location.**
 
-<https://firebase.google.com/docs/analytics/events?platform=android>
+https://firebase.google.com/docs/analytics/events?platform=android
 
-<https://firebase.google.com/docs/analytics/errors>
+https://firebase.google.com/docs/analytics/errors
 
-<https://stackoverflow.com/questions/50383729/what-would-happen-if-of-events-exceeds-500-on-firebase-analytics#_=_>
+https://stackoverflow.com/questions/50383729/what-would-happen-if-of-events-exceeds-500-on-firebase-analytics#_=_
 
-<https://stackoverflow.com/questions/37604275/how-to-view-event-parameters-from-firebase-console>
+https://stackoverflow.com/questions/37604275/how-to-view-event-parameters-from-firebase-console
 
 ## Terms
 
@@ -134,7 +134,7 @@ Configuration limits
 
 You cannot increase these limits by upgrading to the [Flame or Blaze pricing plans](https://firebase.google.com/pricing/). The limits are the same for all Firebase projects.
 
-<https://support.google.com/firebase/answer/9237506?hl=en>
+https://support.google.com/firebase/answer/9237506?hl=en
 
 ## Attribution
 
@@ -161,9 +161,9 @@ Well, suddenly, that second ad campaign seems like a much better deal, doesn't i
 
 ## Others
 
-<https://github.com/PostHog/posthog>
+https://github.com/PostHog/posthog
 
-<https://www.adjust.com>
+https://www.adjust.com
 
 [Heap - Better Insights. Faster. | Heap](https://www.heap.io/)
 

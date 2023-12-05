@@ -20,7 +20,7 @@ Other variations include:
 - [LOOK](https://en.wikipedia.org/wiki/LOOK_algorithm)(andC-LOOK)
 - [N-Step-SCAN](https://en.wikipedia.org/wiki/N-Step-SCAN)
 
-<https://en.wikipedia.org/wiki/Elevator_algorithm>
+https://en.wikipedia.org/wiki/Elevator_algorithm
 
 ### FSCAN
 
@@ -30,7 +30,7 @@ FScan is a disk [scheduling](https://en.wikipedia.org/wiki/I/O_scheduling) algor
 
 FSCAN along with [N-Step-SCAN](https://en.wikipedia.org/wiki/N-Step-SCAN) prevents "arm stickiness" unlike [SSTF](https://en.wikipedia.org/wiki/Shortest_seek_first), [SCAN](https://en.wikipedia.org/wiki/Elevator_algorithm), and [C-SCAN](https://en.wikipedia.org/wiki/C-SCAN). Arm stickiness in those other algorithms occurs when a stream of requests for the same track causes the disk arm to stop progressing at that track, preferring to satisfy the no-seek requests for the track it is on. Because FSCAN separates requests into two queues, with new requests going into a waiting queue, the arm continues its sweep to the outer track and is therefore not "sticky." There is an obvious trade-off in that the requests in the waiting queue must wait longer to be fulfilled, but in exchange FSCAN is more fair to all requests.
 
-<https://en.wikipedia.org/wiki/FSCAN>
+https://en.wikipedia.org/wiki/FSCAN
 
 ### LOOK
 
@@ -60,7 +60,7 @@ The Shortest LOOK (S-LOOK) algorithm is an extension of the LOOK algorithm to ha
 
 LOOK has slightly better average seek times than SCAN. C-LOOK has a slightly lower variance in seek time than LOOK since the worst case seek time is nearly cut in half.
 
-<https://en.wikipedia.org/wiki/LOOK_algorithm>
+https://en.wikipedia.org/wiki/LOOK_algorithm
 
 ### Shortest seek first
 

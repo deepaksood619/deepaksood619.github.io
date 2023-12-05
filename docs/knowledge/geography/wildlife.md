@@ -67,7 +67,7 @@ A biosphere reserve is an area of land or water that is protected by law in orde
 
 ![image](../../media/Wildlife-image3.jpg)
 
-<http://www.amit-sengupta.com/types-of-forests-in-india-evergreen-deciduous-thorny-montane-littoral-swamp-upsc-ias-cds-nda>
+http://www.amit-sengupta.com/types-of-forests-in-india-evergreen-deciduous-thorny-montane-littoral-swamp-upsc-ias-cds-nda
 
 Indian forests can be broadly divided into 5 types
 

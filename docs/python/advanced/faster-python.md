@@ -31,23 +31,23 @@
 4. CPython
 5. Numba
 
-    <https://www.youtube.com/watch?v=x58W9A2lnQc>
+    https://www.youtube.com/watch?v=x58W9A2lnQc
 
 6. Dask
     - Parallel Computation
     - Task Graph
 
-    <https://www.kdnuggets.com/2020/04/dask-big-data.html>
+    https://www.kdnuggets.com/2020/04/dask-big-data.html
 
-7. <https://rapids.ai> <https://github.com/rapidsai>
+7. https://rapids.ai> <https://github.com/rapidsai
 8. [Vaex: A Fast DataFrame for Python 🚀](https://vaex.io/)
 9. [GitHub - pola-rs/polars: Fast multi-threaded, hybrid-out-of-core DataFrame library in Rust | Python | Node.js](https://github.com/pola-rs/polars)
 
 ## Optimizing Python Memory Objects
 
-<https://habr.com/en/post/458518>
+https://habr.com/en/post/458518
 
-<https://towardsdatascience.com/memory-management-in-python-6bea0c8aecc9>
+https://towardsdatascience.com/memory-management-in-python-6bea0c8aecc9
 
 ## Performant Python (reducing memory usage)
 
@@ -58,6 +58,6 @@
 - Namedtuples are better than classes but worse than slotted classes
 - Map and filter are sometimes faster than comprehensions
 
-<https://strangemachines.io/articles/performant-python>
+https://strangemachines.io/articles/performant-python
 
-<https://blog.esciencecenter.nl/parallel-programming-in-python-7fd62c90217d>
+https://blog.esciencecenter.nl/parallel-programming-in-python-7fd62c90217d

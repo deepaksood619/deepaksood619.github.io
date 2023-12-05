@@ -38,9 +38,9 @@ redis:
 
 ## Kubernetes
 
-<https://github.com/bitnami/charts/tree/master/bitnami/redis>
+https://github.com/bitnami/charts/tree/master/bitnami/redis
 
-<https://raw.githubusercontent.com/bitnami/charts/master/bitnami/redis/values-production.yaml>
+https://raw.githubusercontent.com/bitnami/charts/master/bitnami/redis/values-production.yaml
 
 `helm upgrade --install redis --values k8s/infra/redis-values-production.yaml --namespace apps bitnami/redis`
 

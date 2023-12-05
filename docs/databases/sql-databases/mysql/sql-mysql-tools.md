@@ -2,11 +2,11 @@
 
 ## Monitoring
 
-<https://www.percona.com/doc/percona-monitoring-and-management/index.html>
+https://www.percona.com/doc/percona-monitoring-and-management/index.html
 
-## MySQL Diagnostic Manager (Monyog) - <https://www.webyog.com/product/monyog>
+## MySQL Diagnostic Manager (Monyog) - https://www.webyog.com/product/monyog
 
-<https://www.eversql.com/top-5-mysql-monitoring-tools>
+https://www.eversql.com/top-5-mysql-monitoring-tools
 
 ## Testing
 
@@ -15,15 +15,15 @@
 It's a benchmarking tool that can help DBAs and developers load test their database servers.
 mysqlslap can emulate a large number of client connections hitting the database server at the same time. The load testing parameters are fully configurable and the results from different test runs can be used to fine-tune database design or hardware resources.
 
-<https://www.digitalocean.com/community/tutorials/how-to-measure-mysql-query-performance-with-mysqlslap>
+https://www.digitalocean.com/community/tutorials/how-to-measure-mysql-query-performance-with-mysqlslap
 
 ## Optimizations
 
 ## MySQLTuner
 
-<https://github.com/major/MySQLTuner-perl>
+https://github.com/major/MySQLTuner-perl
 
-<https://github.com/pdufault/mysqlfragfinder/blob/master/mysqlfragfinder.sh>
+https://github.com/pdufault/mysqlfragfinder/blob/master/mysqlfragfinder.sh
 
 ## Mysqlreport
 
@@ -90,9 +90,9 @@ pt-online-schema-change --host dailydb.snapshot.example.com --user deepak_sood -
 
 Works by creating an empty copy of the table to alter, modifying it as desired, and then copying rows from the original table into the new table. When the copy is complete, it moves away the original table and replaces it with the new one. By default, it also drops the original table.
 
-<https://dev.mysql.com/doc/refman/5.7/en/innodb-online-ddl-operations.html>
+https://dev.mysql.com/doc/refman/5.7/en/innodb-online-ddl-operations.html
 
-<https://www.percona.com/doc/percona-toolkit/3.0/pt-online-schema-change.html>- [pt-pmp](https://www.percona.com/doc/percona-toolkit/LATEST/pt-pmp.html)
+https://www.percona.com/doc/percona-toolkit/3.0/pt-online-schema-change.html- [pt-pmp](https://www.percona.com/doc/percona-toolkit/LATEST/pt-pmp.html)
 
 - [pt-query-digest](https://www.percona.com/doc/percona-toolkit/LATEST/pt-query-digest.html)
 - [pt-secure-collect](https://www.percona.com/doc/percona-toolkit/LATEST/pt-secure-collect.html)
@@ -120,13 +120,13 @@ Works by creating an empty copy of the table to alter, modifying it as desired, 
 - [pt-variable-advisor](https://www.percona.com/doc/percona-toolkit/LATEST/pt-variable-advisor.html)
 - [pt-visual-explain](https://www.percona.com/doc/percona-toolkit/LATEST/pt-visual-explain.html)
 
-<https://www.percona.com/software/database-tools/percona-toolkit>
+https://www.percona.com/software/database-tools/percona-toolkit
 
 ## Event Reduce
 
 An algorithm to optimize database queries that run multiple times
 
-<https://github.com/pubkey/event-reduce>
+https://github.com/pubkey/event-reduce
 
 ## SQLCheck
 
@@ -141,7 +141,7 @@ Four categories of anti-pattern:
 
 Sqlcheck can be targeted at varying risk levels, categorized as low, medium, or high risk. This is helpful if your list of anti-patterns is large, since you can prioritize the queries with the greatest performance impact.All you need to do to get started is gather a list of your distinct queries into a file and then pass them as an argument to the tool.
 
-<https://github.com/jarulraj/sqlcheck>
+https://github.com/jarulraj/sqlcheck
 
 ## Gh-ost (Ghost)
 
@@ -168,15 +168,15 @@ A final option is available to run the migration only on the replica without imp
 
 Note that if your schema has foreign keys then Gh-ost may not operate cleanly, as this configuration is not supported.
 
-<https://github.com/github/gh-ost>
+https://github.com/github/gh-ost
 
-<https://www.infoworld.com/article/3241730/top-5-open-source-tools-for-mysql-administrators.html>
+https://www.infoworld.com/article/3241730/top-5-open-source-tools-for-mysql-administrators.html
 
 ## Maintenance Scripts
 
-<https://jonlabelle.com/snippets/view/shell/mysql-database-maintenance-script>
+https://jonlabelle.com/snippets/view/shell/mysql-database-maintenance-script
 
-Backup + Optimize - <https://github.com/mmerian/MySQL-Maint/blob/master/mysql_maint.sh>
+Backup + Optimize - https://github.com/mmerian/MySQL-Maint/blob/master/mysql_maint.sh
 InnoDB stores data using a page-allocation method and does not suffer from fragmentation in the same way that legacy storage engines (such as MyISAM) will. When considering whether or not to run optimize, consider the workload of transactions that your server will process:
 
 - Some level of fragmentation is expected. InnoDB only fills pages 93% full, to leave room for updates without having to split pages.
@@ -188,12 +188,12 @@ InnoDB stores data using a page-allocation method and does not suffer from fragm
 
 orchestratoris a MySQL high availability and replication management tool, runs as a service and provides command line access, HTTP API and Web interface.
 
-<https://github.com/openark/orchestrator>
+https://github.com/openark/orchestrator
 
 ## CueObserve
 
 Anomaly detection on SQL data warehouses and databases
 
-<https://github.com/cuebook/cueobserve>
+https://github.com/cuebook/cueobserve
 
-<https://cueobserve.cuebook.ai>
+https://cueobserve.cuebook.ai

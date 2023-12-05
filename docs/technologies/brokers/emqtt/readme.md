@@ -72,16 +72,16 @@ The 1.0 release of the*EMQ X*broker has scaled to 1.3 million concurrent MQTT co
 
 ## Mqtt Messages Persistence
 
-<https://developer.emqx.io/docs/tutorial/en/backend/whats_backend.html>
+https://developer.emqx.io/docs/tutorial/en/backend/whats_backend.html
 
 ## References
 
-<https://github.com/emqx/emqx>
+https://github.com/emqx/emqx
 
-<https://github.com/emqx/emqx-docker>
+https://github.com/emqx/emqx-docker
 
-<http://emqtt.io/docs/v2/getstarted.html>
+http://emqtt.io/docs/v2/getstarted.html
 
-MQTT-SN: <http://emqtt.io/docs/v3/mqtt-sn.html>
+MQTT-SN: http://emqtt.io/docs/v3/mqtt-sn.html
 
-Enterpise: <https://www.emqx.io/products/enterprise>
+Enterpise: https://www.emqx.io/products/enterprise

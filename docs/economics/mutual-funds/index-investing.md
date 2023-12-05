@@ -105,7 +105,7 @@ Another big reason most actively managed funds underperform index funds is their
 
 ![nifty-50-companies](../../media/Screenshot%202023-05-28%20at%209.57.42%20AM.png)
 
-<https://freefincal.com/build-equity-mutual-fund-portfolio>
+https://freefincal.com/build-equity-mutual-fund-portfolio
 
 ## Should I switch to Index Funds?
 

@@ -40,13 +40,13 @@ round(1.2-1.0, 1)
 
 3.3000000000000003
 
-<https://medium.com/code-85/how-to-stop-floating-point-arithmetic-errors-in-python-a98d3a63ccc8>
+https://medium.com/code-85/how-to-stop-floating-point-arithmetic-errors-in-python-a98d3a63ccc8
 
-<https://www.geeksforgeeks.org/floating-point-error-in-python>
+https://www.geeksforgeeks.org/floating-point-error-in-python
 
-<https://betterprogramming.pub/floating-point-numbers-are-weird-in-python-heres-how-to-fix-them-51336e4ad51a>
+https://betterprogramming.pub/floating-point-numbers-are-weird-in-python-heres-how-to-fix-them-51336e4ad51a
 
-<https://docs.python.org/3/tutorial/floatingpoint.html>
+https://docs.python.org/3/tutorial/floatingpoint.html
 
 ## Bytes / bytearray
 

@@ -4,9 +4,9 @@ Microeconomics (from Greek prefixmikro-meaning "small" +economics) is a branch o
 
 One goal of microeconomics is to analyze the [market mechanisms](https://en.wikipedia.org/wiki/Market_mechanism) that establish [relative prices](https://en.wikipedia.org/wiki/Relative_price) among goods and services and allocate limited resources among alternative uses. Microeconomics shows conditions under which free markets lead to desirable allocations. It also analyzes [market failure](https://en.wikipedia.org/wiki/Market_failure), where markets fail to produce [efficient](https://en.wikipedia.org/wiki/Financial_market_efficiency) results.
 
-<https://en.wikipedia.org/wiki/Microeconomics>
+https://en.wikipedia.org/wiki/Microeconomics
 
-<https://www.edx.org/course/microeconomics>
+https://www.edx.org/course/microeconomics
 
 14.100x Microeconomics coversthe fundamentals of microeconomicsat an advanced undergraduate level. Topics include supply and demand, market equilibrium, consumer theory, production and the behavior of firms, monopoly, oligopoly, welfare economics, public goods, and externalities.
 
@@ -99,10 +99,10 @@ A discretionary [expense](https://www.investopedia.com/terms/e/expense.asp) is a
 
 Meals at restaurants and entertainment costs are examples of discretionary expenses.
 
-<https://www.investopedia.com/terms/d/discretionary-expense.asp>
+https://www.investopedia.com/terms/d/discretionary-expense.asp
 
-<https://www.khanacademy.org/economics-finance-domain/microeconomics>
+https://www.khanacademy.org/economics-finance-domain/microeconomics
 
-<https://mru.org/courses/principles-economics-microeconomics>
+https://mru.org/courses/principles-economics-microeconomics
 
 [Principles of Economics: Microeconomics](https://www.youtube.com/playlist?list=PL-uRhZ_p-BM4XnKSe3BJa23-XKJs_k4KY)

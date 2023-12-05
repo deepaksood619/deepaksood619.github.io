@@ -21,9 +21,9 @@
 
 ## Data analyst
 
-<https://www.toptal.com/product-managers/business-analyst/interview-questions>
+https://www.toptal.com/product-managers/business-analyst/interview-questions
 
-<https://www.toptal.com/machine-learning/interview-questions>
+https://www.toptal.com/machine-learning/interview-questions
 
 [**https://www.toptal.com/data-analysis/interview-questions**](https://www.toptal.com/data-analysis/interview-questions)
 

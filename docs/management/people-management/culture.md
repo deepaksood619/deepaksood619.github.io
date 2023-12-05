@@ -35,7 +35,7 @@ Learn it, Love it, Live it
 
 ## Netflix Culture
 
-<https://jobs.netflix.com/culture>
+https://jobs.netflix.com/culture
 
 #### Judgment
 

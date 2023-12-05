@@ -64,13 +64,13 @@ In [log-structured file systems](https://en.wikipedia.org/wiki/Log-structured_fi
 
 Full [copy-on-write](https://en.wikipedia.org/wiki/Copy-on-write) file systems (such as [ZFS](https://en.wikipedia.org/wiki/ZFS) and [Btrfs](https://en.wikipedia.org/wiki/Btrfs)) avoid in-place changes to file data by writing out the data in newly allocated blocks, followed by updated metadata that would point to the new data and disown the old, followed by metadata pointing to that, and so on up to the superblock, or the root of the file system hierarchy. This has the same correctness-preserving properties as a journal, without the write-twice overhead.
 
-<https://en.wikipedia.org/wiki/Journaling_file_system>
+https://en.wikipedia.org/wiki/Journaling_file_system
 
 ## ZFS
 
 ZFS is a combined [file system](https://en.wikipedia.org/wiki/File_system) and [logical volume manager](https://en.wikipedia.org/wiki/Logical_volume_management) designed by [Sun Microsystems](https://en.wikipedia.org/wiki/Sun_Microsystems). ZFS is scalable, and includes extensive protection against [data corruption](https://en.wikipedia.org/wiki/Data_corruption), support for high storage capacities, efficient data compression, integration of the concepts of filesystem and [volume management](https://en.wikipedia.org/wiki/Volume_(computing)), [snapshots](https://en.wikipedia.org/wiki/Snapshot_(computer_storage)) and [copy-on-write](https://en.wikipedia.org/wiki/Copy-on-write) clones, continuous integrity checking and automatic repair, [RAID-Z](https://en.wikipedia.org/wiki/ZFS#RAID-Z), native [NFSv4](https://en.wikipedia.org/wiki/NFSv4)[ACLs](https://en.wikipedia.org/wiki/Access_control_lists), and can be very precisely configured. The two main implementations, by [Oracle](https://en.wikipedia.org/wiki/Oracle_Corporation) and by the [OpenZFS](https://en.wikipedia.org/wiki/OpenZFS) project, are extremely similar, making ZFS widely available within [Unix-like](https://en.wikipedia.org/wiki/Unix-like) systems
 
-<https://en.wikipedia.org/wiki/ZFS>
+https://en.wikipedia.org/wiki/ZFS
 
 ## Btrfs
 
@@ -78,7 +78,7 @@ Btrfs, an abbreviation for [b-tree](https://en.wikipedia.org/wiki/B-tree)[file s
 
 Btrfs is intended to address the lack of [pooling](https://en.wikipedia.org/wiki/Pool_(computer_science)), [snapshots](https://en.wikipedia.org/wiki/Snapshot_(computer_storage)), [checksums](https://en.wikipedia.org/wiki/Checksum), and integral multi-device spanning in [Linux file systems](https://en.wikipedia.org/wiki/Linux_file_systems).Chris Mason, the principal Btrfs author, has stated that its goal was "to let Linux scale for the storage that will be available. Scaling is not just about addressing the storage but also means being able to administer and to manage it with a clean interface that lets people see what's being used and makes it more reliable".
 
-<https://en.wikipedia.org/wiki/Btrfs>
+https://en.wikipedia.org/wiki/Btrfs
 
 ## ext4
 

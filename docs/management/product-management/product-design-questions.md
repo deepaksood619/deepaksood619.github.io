@@ -1,8 +1,8 @@
 # Product Design / Questions
 
-<https://www.toptal.com/designers/product-design/interview-questions>
+https://www.toptal.com/designers/product-design/interview-questions
 
-<https://www.toptal.com/designers/interactive/interview-questions>
+https://www.toptal.com/designers/interactive/interview-questions
 
 ## What analytics tools and key performance indicators (KPIs) do you use to evaluate product designs?
 
@@ -196,8 +196,8 @@ To get context, we highly recommend you go through the insurance buying journey 
 
 ### Useful links
 
-- Aegon Life website link for buying Term Insurance. Reference purpose only: <https://www.aegonlife.com/online-plans/saral-jeevan-bima>
-- Required fields: <https://bit.ly/3r92Y93>
+- Aegon Life website link for buying Term Insurance. Reference purpose only: https://www.aegonlife.com/online-plans/saral-jeevan-bima
+- Required fields: https://bit.ly/3r92Y93
 
 Please include your LinkedIn Profile Link and Email Address in your Submission :)
 
@@ -207,7 +207,7 @@ Feel free to reach out to Shahid Hussain or Srinidhi Shama Rao on LinkedIn if yo
 
 [PM School - How to Solve Guesstimates | Estimation Based Question in a Product Management Interview](https://www.youtube.com/watch?v=7C0L_XdlE50)
 
-<https://drive.google.com/file/d/1iCqWYJa7G2MIi293mEt-zcpcFyEpqO3e/view>
+https://drive.google.com/file/d/1iCqWYJa7G2MIi293mEt-zcpcFyEpqO3e/view
 
 - Top Down
 - Bottom Up
@@ -236,9 +236,9 @@ Feel free to reach out to Shahid Hussain or Srinidhi Shama Rao on LinkedIn if yo
 
 [PM School - How to Solve RCA questions | Problem Solving based questions in PM Interviews](https://www.youtube.com/watch?v=PA-Z__0G8Cs)
 
-<https://drive.google.com/file/d/1LKfS2shRZqSYiI7tnoD92UmruezPJG9Z/view>
+https://drive.google.com/file/d/1LKfS2shRZqSYiI7tnoD92UmruezPJG9Z/view
 
-<https://drive.google.com/file/d/10J9ZUt16a9wBAkz8fQt9u6is8drbK0H5/view>
+https://drive.google.com/file/d/10J9ZUt16a9wBAkz8fQt9u6is8drbK0H5/view
 
 - Orders on swiggy are down by 40%
 - Rides on uber are down by 30%
@@ -264,6 +264,6 @@ Feel free to reach out to Shahid Hussain or Srinidhi Shama Rao on LinkedIn if yo
     - Protests / Strikes
     - Negative press / sentiment
 
-<https://pmschool.io/ChallengeDetails/live/61f50bddb6f56bff58b9692e>
+https://pmschool.io/ChallengeDetails/live/61f50bddb6f56bff58b9692e
 
-<https://pmschool.io/ChallengesListing>
+https://pmschool.io/ChallengesListing

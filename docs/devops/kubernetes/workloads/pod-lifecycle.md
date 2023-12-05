@@ -84,6 +84,6 @@ It is recommended to use both probes!!
 - **successThreshold:** Minimum consecutive successes for the probe to be considered successful after having failed. Defaults to 1. Must be 1 for liveness. Minimum value is 1.
 - **failureThreshold:** When a Pod starts and the probe fails, Kubernetes will tryfailureThresholdtimes before giving up. Giving up in case of liveness probe means restarting the container. In case of readiness probe the Pod will be marked Unready. Defaults to 3. Minimum value is 1.
 
-<https://kubernetes.io/docs/concepts/workloads/pods/pod-lifecycle>
+https://kubernetes.io/docs/concepts/workloads/pods/pod-lifecycle
 
-<https://kubernetes.io/docs/tasks/configure-pod-container/configure-liveness-readiness-probes>
+https://kubernetes.io/docs/tasks/configure-pod-container/configure-liveness-readiness-probes

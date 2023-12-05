@@ -173,20 +173,20 @@ Thetennis racket theoremorintermediate axis theoremis a result in [classical mec
 
 The theorem describes the following effect: rotation of an object around its first and third [principal axes](https://en.wikipedia.org/wiki/Moment_of_inertia#Principal_axes) is stable, while rotation around its second principal axis (or intermediate axis) is not.
 
-<https://en.wikipedia.org/wiki/Tennis_racket_theorem>
+https://en.wikipedia.org/wiki/Tennis_racket_theorem
 
 ## Takt Time
 
 Takt time is the average time between the start of production of one unit and the start of production of the next unit, when these production starts are set to match the rate of customer demand. For example, if a customer wants 10 units per week, then, given a 40-hour work week and steady flow through the production line, the average time between production starts should be 4 hours (actually less than that in order to account for things like machine downtime and scheduled paid employee breaks), yielding 10 units produced per week. In fact, takt time simply reflects the rate of production needed to match the demand. In the previous example, whether it takes 4 minutes or 4 years to produce the product, the takt time is based on customer demand. If a process or a production line are unable to produce at takt time, either demand leveling, additional resources, or process re-engineering is needed to correct the issue
 
-<https://en.wikipedia.org/wiki/Takt_time>
+https://en.wikipedia.org/wiki/Takt_time
 
 [The interesting engineering behind your Car Window!](https://youtu.be/Yl40Uj8kCWU)
 
 - Crank gear mechanism
 - Worm gear arrangement (Worm drive)
 
-<https://www.machinerylubrication.com/Read/1080/worm-gears>
+https://www.machinerylubrication.com/Read/1080/worm-gears
 
 - Vertical guides
 
@@ -194,7 +194,7 @@ Takt time is the average time between the start of production of one unit and th
 
 TheVenturi effectis the reduction in [fluid pressure](https://en.wikipedia.org/wiki/Fluid_pressure) that results when a fluid flows through a constricted section (or choke) of a pipe. The Venturi effect is named after its discoverer, the 18th century Italian [physicist](https://en.wikipedia.org/wiki/Physicist), [Giovanni Battista Venturi](https://en.wikipedia.org/wiki/Giovanni_Battista_Venturi).
 
-<https://en.wikipedia.org/wiki/Venturi_effect>
+https://en.wikipedia.org/wiki/Venturi_effect
 
 ## Isotropic vs anisotropic
 

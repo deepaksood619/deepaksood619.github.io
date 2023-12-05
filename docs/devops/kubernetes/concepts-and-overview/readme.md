@@ -67,7 +67,7 @@ This concept of ownership enables two additional types of behaviours:
 - **Policy inheritance:** if one namespace is a child of another, policy objects such as RBAC RoleBindings are [copied from the parent to the child](https://github.com/kubernetes-sigs/multi-tenancy/blob/master/incubator/hnc/docs/user-guide/concepts#basic-propagation).
 - **Delegated creation:** you usually need cluster-level privileges to create a namespace, but hierarchical namespaces adds an alternative: [subnamespaces](https://github.com/kubernetes-sigs/multi-tenancy/blob/master/incubator/hnc/docs/user-guide/concepts#basic-subns), which can be manipulated using only limited permissions in the parent namespace.
 
-<https://kubernetes.io/blog/2020/08/14/introducing-hierarchical-namespaces>
+https://kubernetes.io/blog/2020/08/14/introducing-hierarchical-namespaces
 
 **Labels** - Labelsare key/value pairs that are attached to objects, such as pods. Labels are intended to be used to specify identifying attributes of objects that are meaningful and relevant to users, but do not directly imply semantics to the core system. Labels can be used to organize and to select subsets of objects. Labels can be attached to objects at creation time and subsequently added and modified at any time. Each object can have a set of key/value labels defined. Each Key must be unique for a given object
 
@@ -103,7 +103,7 @@ You can use Kubernetes annotations to attach arbitrary **non-identifying metadat
 
 `kubectl annotate po nginx1 nginx2 nginx3 description='my description'`
 
-<https://kubernetes.io/docs/concepts/overview/working-with-objects/annotations>
+https://kubernetes.io/docs/concepts/overview/working-with-objects/annotations
 
 ### Field Selectors
 
@@ -219,7 +219,7 @@ The Kubelet is responsible for a few things:
 3. Watching the API server and ensuring that pods which were scheduled to that node are running and reporting their runtime status back to the Kubernetes API server
 4. Provide access to pods for API's likekubectl logsandkubectl exec(these requests get forwarded from the Kubernetes API server)
 
-**Monitoring Kubelet** - <https://sysdig.com/blog/how-to-monitor-kubelet>
+**Monitoring Kubelet** - https://sysdig.com/blog/how-to-monitor-kubelet
 
 ### [kube-proxy](https://kubernetes.io/docs/admin/kube-proxy/)
 
@@ -251,10 +251,10 @@ Addons are pods and services that implement cluster features. The pods may be ma
 
 ## References
 
-<https://kubernetes.io/docs/concepts>
+https://kubernetes.io/docs/concepts
 
-<https://kubernetes.io/docs/concepts/overview/components>
+https://kubernetes.io/docs/concepts/overview/components
 
-<https://kubernetes.io/docs/concepts/overview/working-with-objects/kubernetes-objects>
+https://kubernetes.io/docs/concepts/overview/working-with-objects/kubernetes-objects
 
-<https://kubernetes.io/docs/concepts/overview/object-management-kubectl/overview>
+https://kubernetes.io/docs/concepts/overview/object-management-kubectl/overview

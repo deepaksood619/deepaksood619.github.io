@@ -2,7 +2,7 @@
 
 ## man syscalls
 
-<http://man7.org/linux/man-pages/man2/syscalls.2.html>
+http://man7.org/linux/man-pages/man2/syscalls.2.html
 
 ## msync
 
@@ -10,7 +10,7 @@
 
 msync() flushes changes made to the in-core copy of a file that was mapped into memory using [mmap(2)](http://man7.org/linux/man-pages/man2/mmap.2.html) back to the filesystem. Without use of this call, there is no guarantee that changes are written back before [munmap(2)](http://man7.org/linux/man-pages/man2/munmap.2.html) is called.
 
-<http://man7.org/linux/man-pages/man2/msync.2.html>
+http://man7.org/linux/man-pages/man2/msync.2.html
 
 ## bpf (berkeley packet filter) / eBPF (extended berkeley filter)
 
@@ -22,6 +22,6 @@ BPF supports filtering packets, allowing a [userspace](https://en.wikipedia.org/
 
 BPF is sometimes used to refer just to the filtering mechanism, rather than to the entire interface. Some systems, such as [Linux](https://en.wikipedia.org/wiki/Linux) and [Tru64 UNIX](https://en.wikipedia.org/wiki/Tru64_UNIX), provide a raw interface to the data link layer other than the BPF raw interface but use the BPF filtering mechanisms for that raw interface
 
-<https://en.wikipedia.org/wiki/Berkeley_Packet_Filter>
+https://en.wikipedia.org/wiki/Berkeley_Packet_Filter
 
-<https://blog.cloudflare.com/cloudflare-architecture-and-how-bpf-eats-the-world>
+https://blog.cloudflare.com/cloudflare-architecture-and-how-bpf-eats-the-world

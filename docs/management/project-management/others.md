@@ -16,7 +16,7 @@ Command + / - Show shortcuts
 ## Bots
 
 - **Standup**
-  - Dixiapp - <https://dixiapp.com>
+  - Dixiapp - https://dixiapp.com
   - Geekbot
   - Standuply
   - Google Meet Attendance List - Chrome extension
@@ -36,9 +36,9 @@ Command + / - Show shortcuts
 - **Others**
   - Poly/Polly (Pulse Survey)
 
-<https://forms.gle/ZhbT6fPhZefMkBpMA>
-<https://www.polly.ai/template/team-happiness-pulse-survey>
-<https://www.polly.ai/template/remote-pulse-check-in>
+https://forms.gle/ZhbT6fPhZefMkBpMA
+https://www.polly.ai/template/team-happiness-pulse-survey
+https://www.polly.ai/template/remote-pulse-check-in
 
 ## Company Pulse
 
@@ -57,7 +57,7 @@ Command + / - Show shortcuts
 13. I would recommend this company to friends & family as a great place to work.
 14. Do you have any general feedback for the company?
 
-- Thinking Time - <https://thinkingtime.org>
+- Thinking Time - https://thinkingtime.org
 
 - [Arc](https://zapier.com/blog/best-free-slack-apps/#arc): Google Analytics summaries in Slack
 - [Meekan](https://zapier.com/blog/best-free-slack-apps/#meekan): Schedule meetings with teammates effortlessly from Slack
@@ -71,11 +71,11 @@ The workflows you create in Zapier are called Zaps, and they can automate many c
 
 [https://workstreams.ai/](https://workstreams.ai/)
 
-<https://snacknation.com/blog/best-slack-apps>
+https://snacknation.com/blog/best-slack-apps
 
-<https://github.com/maxchehab/phelia>
+https://github.com/maxchehab/phelia
 
-<https://www.paymoapp.com/blog/best-slack-apps>
+https://www.paymoapp.com/blog/best-slack-apps
 
 ## 5 Most Common Questions for Project Managers (Interview Questions)
 
@@ -95,7 +95,7 @@ The workflows you create in Zapier are called Zaps, and they can automate many c
 
 5. Decision Making / Change Management (CR - Change Request) / Risk Management
 
-<https://blog.capterra.com/how-to-answer-project-management-interview-questions>
+https://blog.capterra.com/how-to-answer-project-management-interview-questions
 
 ## Certification
 
@@ -115,9 +115,9 @@ If all estimators selected the same value, that becomes the estimate. If not, th
 
 The poker planning process is repeated until consensus is achieved or until the estimators decide that agile estimating and planning of a particular item needs to be deferred until additional information can be acquired.
 
-<https://www.mountaingoatsoftware.com/agile/planning-poker>
+https://www.mountaingoatsoftware.com/agile/planning-poker
 
-<https://en.wikipedia.org/wiki/Planning_poker>
+https://en.wikipedia.org/wiki/Planning_poker
 
 ## Story Points
 
@@ -133,7 +133,7 @@ Because story points represent the effort to develop a story, a team's estimate 
 
 A story point estimate must include everything involved in getting a product backlog item all the way to done. If a team's definition of done includes creating automated tests to validate the story (and that would be a good idea), the effort to create those tests should be included in the story point estimate.
 
-<https://www.mountaingoatsoftware.com/blog/what-are-story-points>
+https://www.mountaingoatsoftware.com/blog/what-are-story-points
 
 ## Story points vs. hours
 

@@ -34,10 +34,10 @@ Dijkstra allows assigning distances other than 1 for each step. For example, in 
 
 Meanwhile BFS basically just expands the search by one "step" (link, edge, whatever you want to call it in your application) on every iteration, which happens to have the effect of finding the smallestnumber of stepsit takes to get to any given node from your source ("root").
 
-<https://stackoverflow.com/questions/3818079/why-use-dijkstras-algorithm-if-breadth-first-search-bfs-can-do-the-same-thing>
+https://stackoverflow.com/questions/3818079/why-use-dijkstras-algorithm-if-breadth-first-search-bfs-can-do-the-same-thing
 
-<https://deployeveryday.com/2019/10/16/dijkstra-algorithm-golang.html>
+https://deployeveryday.com/2019/10/16/dijkstra-algorithm-golang.html
 
-<https://medium.com/cantors-paradise/dijkstras-shortest-path-algorithm-in-python-d955744c7064>
+https://medium.com/cantors-paradise/dijkstras-shortest-path-algorithm-in-python-d955744c7064
 
-<https://medium.com/basecs/finding-the-shortest-path-with-a-little-help-from-dijkstra-613149fbdc8e>
+https://medium.com/basecs/finding-the-shortest-path-with-a-little-help-from-dijkstra-613149fbdc8e

@@ -2,6 +2,7 @@
 
 - [Intro](devops/devops-intro/intro.md)
 - [Concepts](devops/devops-intro/concepts.md)
+- [SRE (Site Reliability Engineering)](devops/devops-intro/sre-site-reliability-engineering.md)
 - [Design](devops/devops-intro/design.md)
 - [Deployment Strategies](deployment-strategies)
 - [Infra as Code IaC](infra-as-code-iac)

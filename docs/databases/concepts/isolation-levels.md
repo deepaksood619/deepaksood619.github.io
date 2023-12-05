@@ -99,11 +99,11 @@ There are two additional isolation levels:
 
 ![image](../../media/Isolation-Levels-image1.jpg)
 
-<https://en.wikipedia.org/wiki/Isolation_(database_systems)>
+https://en.wikipedia.org/wiki/Isolation_(database_systems)
 
-<http://highscalability.com/blog/2011/2/10/database-isolation-levels-and-their-effects-on-performance-a.html>
+http://highscalability.com/blog/2011/2/10/database-isolation-levels-and-their-effects-on-performance-a.html
 
-<https://fauna.com/blog/introduction-to-transaction-isolation-levels>
+https://fauna.com/blog/introduction-to-transaction-isolation-levels
 
 ## Demystifying Database Systems: Correctness Anomalies Under Serializable Isolation
 
@@ -124,7 +124,7 @@ We defined "serializable isolation" above as a guarantee that even though a data
 | PARTITIONED SERIALIZABLE | Not Possible | Not Possible | Possible |
 | STRICT SERIALIZABLE | Not Possible | Not Possible | Not Possible |
 
-<https://fauna.com/blog/demystifying-database-systems-correctness-anomalies-under-serializable-isolation>
+https://fauna.com/blog/demystifying-database-systems-correctness-anomalies-under-serializable-isolation
 
 ## Isolation Table with Anomalies
 
@@ -144,7 +144,7 @@ We defined "serializable isolation" above as a guarantee that even though a data
 - **Efficiency:** Taking a lock saves you from unnecessarily doing the same work twice (e.g. some expensive computation). If the lock fails and two nodes end up doing the same piece of work, the result is a minor increase in cost (you end up paying 5 cents more to AWS than you otherwise would have) or a minor inconvenience (e.g. a user ends up getting the same email notification twice)
 - **Correctness:** Taking a lock prevents concurrent processes from stepping on each others' toes and messing up the state of your system. If the lock fails and two nodes concurrently work on the same piece of data, the result is a corrupted file, data loss, permanent inconsistency, the wrong dose of a drug administered to a patient, or some other serious problem
 
-<https://martin.kleppmann.com/2016/02/08/how-to-do-distributed-locking.html>
+https://martin.kleppmann.com/2016/02/08/how-to-do-distributed-locking.html
 
 SLOG - Serializable, Low-Latency, Geo-Replicated transactions
 
@@ -154,14 +154,14 @@ You can enforce a high degree of consistency with the default [REPEATABLE READ](
 
 ### MySQL Lost Update problem
 
-<https://stackoverflow.com/questions/53562850/mysql-repeatable-read-isolation-level-and-lost-update-phenomena>
+https://stackoverflow.com/questions/53562850/mysql-repeatable-read-isolation-level-and-lost-update-phenomena
 
-<https://forums.mysql.com/read.php?22,56420,57733>
+https://forums.mysql.com/read.php?22,56420,57733
 
-<https://dev.mysql.com/doc/refman/5.7/en/innodb-transaction-isolation-levels.html>
+https://dev.mysql.com/doc/refman/5.7/en/innodb-transaction-isolation-levels.html
 
 ## References
 
-<https://dbmsmusings.blogspot.com/2019/08/an-explanation-of-difference-between.html>
+https://dbmsmusings.blogspot.com/2019/08/an-explanation-of-difference-between.html
 
-<http://dbmsmusings.blogspot.com/2019/10/introducing-slog-cheating-low-latency.html>
+http://dbmsmusings.blogspot.com/2019/10/introducing-slog-cheating-low-latency.html

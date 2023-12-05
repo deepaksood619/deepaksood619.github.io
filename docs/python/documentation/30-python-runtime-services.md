@@ -158,6 +158,6 @@ gc.collect()
 
 ## References
 
-<https://pythonhosted.org/Pympler/muppy.html>
+https://pythonhosted.org/Pympler/muppy.html
 
-<https://rushter.com/blog/python-garbage-collector>
+https://rushter.com/blog/python-garbage-collector

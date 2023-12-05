@@ -14,7 +14,7 @@
 
 ## Industry Groups
 
-<https://en.wikipedia.org/wiki/Global_Industry_Classification_Standard>
+https://en.wikipedia.org/wiki/Global_Industry_Classification_Standard
 
 ## Five Fusty Sectors
 

@@ -2,7 +2,7 @@
 
 [Simplify Online Analytical Processing (OLAP) queries in Amazon Redshift using new SQL constructs such as ROLLUP, CUBE, and GROUPING SETS | AWS Big Data Blog](https://aws.amazon.com/blogs/big-data/simplify-online-analytical-processing-olap-queries-in-amazon-redshift-using-new-sql-constructs-such-as-rollup-cube-and-grouping-sets/)
 
-<https://docs.aws.amazon.com/redshift/latest/dg/c_designing-queries-best-practices.html>
+https://docs.aws.amazon.com/redshift/latest/dg/c_designing-queries-best-practices.html
 
 ```sql
 copy public.perfios_parsed
@@ -123,7 +123,7 @@ limit 1;
 SELECT pg_terminate_backend(4887);
 ```
 
-<https://aws.amazon.com/premiumsupport/knowledge-center/redshift-high-cpu-usage>
+https://aws.amazon.com/premiumsupport/knowledge-center/redshift-high-cpu-usage
 
 While the queries are running, [retrieve locking information](https://aws.amazon.com/premiumsupport/knowledge-center/prevent-locks-blocking-queries-redshift/). To identify long-running sessions, use the following SQL query:
 
@@ -156,7 +156,7 @@ select query, segment, step, label ,is_rrscan as rrS, is_diskbased as disk, is_d
 
 ## UNLOAD
 
-<https://docs.aws.amazon.com/redshift/latest/dg/r_UNLOAD.html>
+https://docs.aws.amazon.com/redshift/latest/dg/r_UNLOAD.html
 
 ## Redshift Spectrum
 

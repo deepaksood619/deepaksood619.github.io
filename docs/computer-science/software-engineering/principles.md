@@ -20,11 +20,11 @@ Used for setting, communicating and monitoring quarterly goals and results in or
 
 [What Matters: How to grade OKRs like John Doerr and Google](https://www.whatmatters.com/faqs/how-to-grade-okrs)
 
-<https://soapboxhq.com/goal-examples/engineering>
+https://soapboxhq.com/goal-examples/engineering
 
-<https://okrexamples.co/technology-engineering-rnd-okr-examples>
+https://okrexamples.co/technology-engineering-rnd-okr-examples
 
-<https://hackernoon.com/the-mvp-is-dead-long-live-the-rat-233d5d16ab02>
+https://hackernoon.com/the-mvp-is-dead-long-live-the-rat-233d5d16ab02
 
 - TPM - Total Productive Maintenance
 - MVP - Minimum Viable Products

@@ -93,7 +93,7 @@ Kafka can serve as a kind of external commit-log for a distributed system. The l
 - Real time fraud detection -Detecting anomalies in real time to identify potential fraudulent activities and meet regulatory requirements
 - Operational agility- Accelerating business agility by increasing the flexibility of strategic applications
 
-<https://kafka.apache.org/uses>
+https://kafka.apache.org/uses
 
 ## ISR
 
@@ -103,13 +103,13 @@ in-sync replicas is the subset of the replicas list that is currently alive and 
 
 K-Stream , K-Table
 
-<https://kafka.apache.org/documentation/streams>
+https://kafka.apache.org/documentation/streams
 
 ## Managed Services
 
-- Confluent Cloud - Apache Kafka as a service - <https://www.confluent.io/confluent-cloud>
-- AWS - Amazon Kinesis Streams - <https://aws.amazon.com/kafka> - <https://aws.amazon.com/kinesis>
-- Google Cloud - Confluent Cloud on GCP - <https://cloud.google.com/blog/products/gcp/google-cloud-platform-and-confluent-partner-to-deliver-a-managed-apache-kafka-service>
+- Confluent Cloud - Apache Kafka as a service - https://www.confluent.io/confluent-cloud
+- AWS - Amazon Kinesis Streams - https://aws.amazon.com/kafka - https://aws.amazon.com/kinesis
+- Google Cloud - Confluent Cloud on GCP - https://cloud.google.com/blog/products/gcp/google-cloud-platform-and-confluent-partner-to-deliver-a-managed-apache-kafka-service
 
 ## Meet Kafka (Definitive Guide)
 
@@ -135,7 +135,7 @@ Log compaction is a mechanism to give finer-grained per-record retention, rather
 
 ![image](../../media/Technologies-Kafka-Intro-image2.jpg)
 
-<https://towardsdatascience.com/log-compacted-topics-in-apache-kafka-b1aa1e4665a7>
+https://towardsdatascience.com/log-compacted-topics-in-apache-kafka-b1aa1e4665a7
 
 - Multiple clusters
   - The replication mechanisms within the Kafka clusters are designed only to work within a single cluster, not between multiple clusters
@@ -151,27 +151,27 @@ Log compaction is a mechanism to give finer-grained per-record retention, rather
   - Admin API for deleting consumers offset
 - MirrorMaker 2.0
 
-<https://www.confluent.io/blog/apache-kafka-2-4-latest-version-updates>
+https://www.confluent.io/blog/apache-kafka-2-4-latest-version-updates
 
 ## References
 
-- <https://en.wikipedia.org/wiki/Apache_Kafka>
-- <https://kafka.apache.org/intro>
-- <https://thehoard.blog/how-kafkas-storage-internals-work-3a29b02e026>
-- <https://scotch.io/tutorials/build-a-distributed-streaming-system-with-apache-kafka-and-python>
-- ISR (In-Sync Replica set) - <https://engineering.linkedin.com/kafka/intra-cluster-replication-apache-kafka>
-- <https://engineering.linkedin.com/kafka/benchmarking-apache-kafka-2-million-writes-second-three-cheap-machines>
-- <https://www.confluent.io/blog/okay-store-data-apache-kafka>
-- <https://engineering.linkedin.com/blog/2019/apache-kafka-trillion-messages>
-- <https://engineeringblog.yelp.com/2020/01/streams-and-monk-how-yelp-approaches-kafka-in-2020.html>
-- <https://www.waitingforcode.com/apache-kafka/apache-kafka-idempotent-producer/read>
+- https://en.wikipedia.org/wiki/Apache_Kafka
+- https://kafka.apache.org/intro
+- https://thehoard.blog/how-kafkas-storage-internals-work-3a29b02e026
+- https://scotch.io/tutorials/build-a-distributed-streaming-system-with-apache-kafka-and-python
+- ISR (In-Sync Replica set) - https://engineering.linkedin.com/kafka/intra-cluster-replication-apache-kafka
+- https://engineering.linkedin.com/kafka/benchmarking-apache-kafka-2-million-writes-second-three-cheap-machines
+- https://www.confluent.io/blog/okay-store-data-apache-kafka
+- https://engineering.linkedin.com/blog/2019/apache-kafka-trillion-messages
+- https://engineeringblog.yelp.com/2020/01/streams-and-monk-how-yelp-approaches-kafka-in-2020.html
+- https://www.waitingforcode.com/apache-kafka/apache-kafka-idempotent-producer/read
 - [**https://kafkasummit.io/session-library/**](https://kafkasummit.io/session-library/)
 - [Streamline Event-driven Microservices With Kafka and Python | Toptal®](https://www.toptal.com/microservices/event-driven-microservices-kafka-python)
 - [Apache Kafka Explained (Comprehensive Overview) - YouTube](https://www.youtube.com/watch?v=JalUUBKdcA0&ab_channel=Finematics)
 
 ## Best Practices
 
-- <https://www.infoq.com/articles/apache-kafka-best-practices-to-optimize-your-deployment>
-- <https://dzone.com/articles/20-best-practices-for-working-with-apache-kafka-at>
-- <https://engineering.linkedin.com/kafka/benchmarking-apache-kafka-2-million-writes-second-three-cheap-machines>
-- <https://www.datadoghq.com/blog/kafka-at-datadog>
+- https://www.infoq.com/articles/apache-kafka-best-practices-to-optimize-your-deployment
+- https://dzone.com/articles/20-best-practices-for-working-with-apache-kafka-at
+- https://engineering.linkedin.com/kafka/benchmarking-apache-kafka-2-million-writes-second-three-cheap-machines
+- https://www.datadoghq.com/blog/kafka-at-datadog

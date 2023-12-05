@@ -324,7 +324,7 @@ A complex system that works is invariably found to have evolved from a simple sy
 
 A very simple but particularly useful technique for finding the cause of a problem is simply to explain it to someone else. The other person should look over your shoulder at the screen, and nod his or her head constantly (like a rubber duck bobbing up and down in a bathtub)." -- Andrew Hunt and David Thomas, authors of the 1999 book The Pragmatic Programmer
 
-<https://www.freecodecamp.org/news/rubber-duck-debugging>
+https://www.freecodecamp.org/news/rubber-duck-debugging
 
 Composability is to software as compounding interest is to finance
 

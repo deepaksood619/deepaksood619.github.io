@@ -6,7 +6,7 @@ An amazing tool for inspecting Docker images.
 
 A tool for exploring a docker image, layer contents, and discovering ways to shrink your Docker image size.
 
-<https://github.com/wagoodman/dive>
+https://github.com/wagoodman/dive
 
 ## Logging / aws logs / driver
 
@@ -62,7 +62,7 @@ logging:
         tag: "{{.Name}} {{.ImageName}}"
 ```
 
-<https://docs.docker.com/config/containers/logging/awslogs>
+https://docs.docker.com/config/containers/logging/awslogs
 
 ## GELF
 
@@ -75,13 +75,13 @@ The Graylog Extended Log Format (GELF) is a log format that avoids the shortcomi
 - The RFCs are strict enough but there are so many syslog dialects out there that you cannot possibly parse all of them.
 - No compression
 
-<http://docs.graylog.org/en/3.0/pages/gelf.html>
+http://docs.graylog.org/en/3.0/pages/gelf.html
 
-<https://docs.docker.com/config/containers/logging/gelf>
+https://docs.docker.com/config/containers/logging/gelf
 
 ## Security
 
-<https://www.stackrox.com/post/2019/09/docker-security-101>
+https://www.stackrox.com/post/2019/09/docker-security-101
 
 ## overlayfs
 
@@ -98,7 +98,7 @@ When a process writes a file, overlayfs will just write it to the upper director
 
 ![image](../../media/DevOps-Docker-Others-image1.jpg)
 
-<https://jvns.ca/blog/2019/11/18/how-containers-work--overlayfs>
+https://jvns.ca/blog/2019/11/18/how-containers-work--overlayfs
 
 ## Swap / Memory / Resources
 
@@ -110,6 +110,6 @@ This warning does not occur on RPM-based systems, which enable these capabilitie
 
 If you don't need these capabilities, you can ignore the warning. You can enable these capabilities on Ubuntu or Debian by following these instructions. Memory and swap accounting incur an overhead of about 1% of the total available memory and a 10% overall performance degradation, even if Docker is not running.
 
-<https://docs.docker.com/engine/install/linux-postinstall/#your-kernel-does-not-support-cgroup-swap-limit-capabilities>
+https://docs.docker.com/engine/install/linux-postinstall/#your-kernel-does-not-support-cgroup-swap-limit-capabilities
 
-<https://docs.docker.com/config/containers/resource_constraints>
+https://docs.docker.com/config/containers/resource_constraints

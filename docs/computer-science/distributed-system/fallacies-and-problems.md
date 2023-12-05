@@ -26,8 +26,8 @@ The [fallacies](https://en.wikipedia.org/wiki/Fallacy) are:
 7. The "hidden" costs of building and maintaining a network or subnet are non-negligible and must consequently be noted in budgets to avoid vast shortfalls.
 8. If a system assumes a homogeneous network, then it can lead to the same problems that result from the first three fallacies.
 
-<https://en.wikipedia.org/wiki/Fallacies_of_distributed_computing>
+https://en.wikipedia.org/wiki/Fallacies_of_distributed_computing
 
-<https://medium.com/baseds/foraging-for-the-fallacies-of-distributed-computing-part-1-1b35c3b85b53>
+https://medium.com/baseds/foraging-for-the-fallacies-of-distributed-computing-part-1-1b35c3b85b53
 
-<https://medium.com/baseds/foraging-for-the-fallacies-of-distributed-computing-part-2-b8ff29beed56>
+https://medium.com/baseds/foraging-for-the-fallacies-of-distributed-computing-part-2-b8ff29beed56

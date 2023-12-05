@@ -29,7 +29,7 @@ PL/SQL is a combination of SQL along with the procedural features of programming
 - It supports object-oriented programming.
 - It supports the development of web applications and server pages.
 
-<https://www.tutorialspoint.com/plsql/plsql_overview.htm>
+https://www.tutorialspoint.com/plsql/plsql_overview.htm
 
 ## T-SQL (Transact SQL)
 
@@ -60,4 +60,4 @@ There are three distinct differences between the two.
 - T-SQL contains procedural programming and local variable, while SQL does not.
 - T-SQL is proprietary, while SQL is an open format.
 
-<https://searchsqlserver.techtarget.com/definition/T-SQL>
+https://searchsqlserver.techtarget.com/definition/T-SQL

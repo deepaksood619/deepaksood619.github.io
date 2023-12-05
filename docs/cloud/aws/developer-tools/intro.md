@@ -36,19 +36,19 @@ git clone ssh://odf/v1/repos/cred-workspace
 git remote add origin ssh://example/v1/repos/decision-engine
 ```
 
-<https://forums.aws.amazon.com/thread.jspa?threadID=228206>
+https://forums.aws.amazon.com/thread.jspa?threadID=228206
 
 ### Git remote codecommit
 
-<https://aws.amazon.com/about-aws/whats-new/2020/03/aws-codecommit-introduces-open-source-remote-helper>
+https://aws.amazon.com/about-aws/whats-new/2020/03/aws-codecommit-introduces-open-source-remote-helper
 
-<https://docs.aws.amazon.com/codecommit/latest/userguide/temporary-access.html>
+https://docs.aws.amazon.com/codecommit/latest/userguide/temporary-access.html
 
-<https://docs.aws.amazon.com/codecommit/latest/userguide/setting-up-git-remote-codecommit.html>
+https://docs.aws.amazon.com/codecommit/latest/userguide/setting-up-git-remote-codecommit.html
 
-<https://docs.aws.amazon.com/codecommit/latest/userguide/setting-up-ssh-unixes.html>
+https://docs.aws.amazon.com/codecommit/latest/userguide/setting-up-ssh-unixes.html
 
-<https://aws.amazon.com/blogs/devops/using-git-with-aws-codecommit-across-multiple-aws-accounts>
+https://aws.amazon.com/blogs/devops/using-git-with-aws-codecommit-across-multiple-aws-accounts
 
 ## AWS CodeBuild
 
@@ -80,10 +80,10 @@ Unified Tool to Manage AWS Services
 
 Amazon CodeGuru is a machine learning service for automated code reviews and application performance recommendations. It helps you find the most expensive lines of code that hurt application performance and keep you up all night troubleshooting, then gives you specific recommendations to fix or improve your code. CodeGuru is powered by machine learning, best practices, and hard-learned lessons across millions of code reviews and thousands of applications profiled on open source projects and internally at Amazon. With CodeGuru, you can find and fix code issues such as resource leaks, potential concurrency race conditions, and wasted CPU cycles. And with low, on-demand pricing, it is inexpensive enough to use for every code review and application you run. CodeGuru supports Java applications today, with support for more languages coming soon. CodeGuru helps you catch problems faster and earlier, so you can build and run better software.
 
-<https://aws.amazon.com/codeguru>
+https://aws.amazon.com/codeguru
 
 ## Chatbot
 
 AWS Chatbot is an interactive agent that makes it easy to monitor and interact with your AWS resources in your [Slack](https://slack.com/) channels and [Amazon Chime](https://aws.amazon.com/chime/) chat rooms. With AWS Chatbot you can receive alerts and run commands to return diagnostic information, invoke AWS Lambda functions, and create AWS support cases so that your team can collaborate and respond to events faster.
 
-<https://aws.amazon.com/chatbot>
+https://aws.amazon.com/chatbot

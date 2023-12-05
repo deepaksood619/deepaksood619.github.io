@@ -14,8 +14,8 @@ CDC solutions occur most often in [data-warehouse](https://en.wikipedia.org/wiki
 
 Debezium is an open source distributed platform for change data capture. Start it up, point it at your databases, and your apps can start responding to all of the inserts, updates, and deletes that other apps commit to your databases. Debezium is durable and fast, so your apps can respond quickly and never miss an event, even when things go wrong.
 
-<https://debezium.io>
+https://debezium.io
 
 #### AWS DMS (Data Migration Service)
 
-<https://en.wikipedia.org/wiki/Change_data_capture>
+https://en.wikipedia.org/wiki/Change_data_capture

@@ -38,9 +38,9 @@ An Internist is a physician specialising in internal medicine, treating complex 
 
 ## Surgery
 
-<https://www.youtube.com/playlist?list=PLM7R3YrvpbZxonFtQtRhAEP4hNcCGP7fD>
+https://www.youtube.com/playlist?list=PLM7R3YrvpbZxonFtQtRhAEP4hNcCGP7fD
 
-<https://www.youtube.com/playlist?list=PLM7R3YrvpbZxURPwjgfi8C7PGi3FYWcI6>
+https://www.youtube.com/playlist?list=PLM7R3YrvpbZxURPwjgfi8C7PGi3FYWcI6
 
 ## Health
 
@@ -147,9 +147,9 @@ An Internist is a physician specialising in internal medicine, treating complex 
 - [Young blood transfusion](https://en.wikipedia.org/wiki/Young_blood_transfusion)
 - [Zero balancing](https://en.wikipedia.org/wiki/Zero_balancing)
 
-<https://en.wikipedia.org/wiki/Alternative_medicine>
+https://en.wikipedia.org/wiki/Alternative_medicine
 
-<https://en.wikipedia.org/wiki/Urine_therapy>
+https://en.wikipedia.org/wiki/Urine_therapy
 
 [Geomancy - Wikipedia](https://en.wikipedia.org/wiki/Geomancy)
 

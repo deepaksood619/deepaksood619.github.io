@@ -86,9 +86,9 @@ class Test extends CI_Controller {
 ?>
 ```
 
-<https://codeigniter.com/user_guide/concepts/mvc.html>
+https://codeigniter.com/user_guide/concepts/mvc.html
 
-<https://www.tutorialspoint.com/codeigniter/codeigniter_basic_concepts.htm>
+https://www.tutorialspoint.com/codeigniter/codeigniter_basic_concepts.htm
 
 ## Hierarchical model--view--controller (HMVC)
 
@@ -96,6 +96,6 @@ Hierarchical model--view--controller(HMVC) is a software [architectural pattern]
 
 The controller has some oversight in that it selects first the model and then the view, realizing an approval mechanism by the controller. The model prevents the view from accessing the data source directly.
 
-<https://en.wikipedia.org/wiki/Hierarchical_model%E2%80%93view%E2%80%93controller>
+https://en.wikipedia.org/wiki/Hierarchical_model%E2%80%93view%E2%80%93controller
 
-<https://code.tutsplus.com/tutorials/hmvc-an-introduction-and-application--net-11850>
+https://code.tutsplus.com/tutorials/hmvc-an-introduction-and-application--net-11850

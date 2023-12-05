@@ -47,7 +47,7 @@ In [mathematics](https://en.wikipedia.org/wiki/Mathematics), thesoftmax function
 
 ![image](../../media/probability-Others-image2.jpg)
 
-<https://en.wikipedia.org/wiki/Softmax_function>
+https://en.wikipedia.org/wiki/Softmax_function
 
 ## Probabilistic Tools
 

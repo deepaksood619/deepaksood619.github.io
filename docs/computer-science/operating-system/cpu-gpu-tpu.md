@@ -67,7 +67,7 @@ TPUs:
 
 ## CPU Time
 
-<https://dzone.com/articles/nice-cpu-time-ni-time-in-top>
+https://dzone.com/articles/nice-cpu-time-ni-time-in-top
 
 ## Links
 

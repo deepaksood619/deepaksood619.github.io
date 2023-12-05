@@ -6,4 +6,4 @@ Count-Min sketch is a probabilistic sub-linear space streaming algorithm. It is 
 
 ![image](../../media/Count-min-Sketch-image1.jpg)
 
-<https://youtu.be/ibxXO-b14j4>
+https://youtu.be/ibxXO-b14j4
