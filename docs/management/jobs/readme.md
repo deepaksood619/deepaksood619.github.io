@@ -67,6 +67,7 @@ Where you apply to a lot of jobs
 - [Platform for Showcasing Work](https://athenasquare.org/)
 - [Austin Belcak on LinkedIn: 7 Offer-Winning Job Search Tools: | 70 comments](https://www.linkedin.com/posts/abelcak_7-offer-winning-job-search-tools-activity-7039234808589250561--U2q)
 - <https://www.pallet.com>
+- [The Biggest Web3, Crypto & Blockchain Recruitment Agency | Plexus](https://www.plexusrs.com/)
 
 ### Remote Job Sites
 

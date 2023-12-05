@@ -8,4 +8,6 @@ Important items are identified by focusing on a few key priorities and roles whi
 
 [Delegation](https://en.wikipedia.org/wiki/Delegation) is presented as an important part of time management. Successful delegation, according to Covey, focuses on results and benchmarks that are to be agreed in advance, rather than on prescribing detailed work plans.
 
+- Effective strategic delegation
+
 <https://en.wikipedia.org/wiki/First_Things_First_(book)>

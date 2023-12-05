@@ -22,16 +22,40 @@ In [mathematics](https://en.wikipedia.org/wiki/Mathematics) and in [computer pro
 
 <https://en.wikipedia.org/wiki/Variadic_function>
 
-## Internationalization ("i18n")
+## GILT
+
+### Globalization (G11N) -> T9N + L10N + I18N
+
+### Internationalization ("i18n")
 
 Internationalization ("i18n") is the process of adapting app code to other languages. For example, an app might need to display data in a different format, prices, or numbers with the correct decimal or thousands separators, or even handling whether text is written right-to-left or left-to-right. It also requires taking into account the user's timezone.
 
-## Localization ("l10n")
+### Localization ("l10n")
 
 Localization ("l10n"), is the process of preparing the content of the app to be available in different languages. This includes translating most of the app's resources, like texts, images, and sounds. Resources for different languages are usually kept in different files or directories, and the OS chooses the right one based on user settings.
 Translation (T9N)
 
-## Globalization (G11N) -> T9N + L10N + I18N
+### Translation
+
+The terms ‘Translation’ and ‘Localization’ are often mistakenly interchanged and misused when referring to the cross-linguistic interpretation and rendition of content. However, even though they share the same purpose, at their cores, their meaning and approach towards its achievement are different.
+
+Translation can be defined as the literal word-for-word transformation of a source text into the target language, the first stepping stone on any content’s road towards a new audience, as it provides this new audience with the ability to understand the source text in their native language.
+
+A typical application scenario for translation is exact texts. Examples include technical and medical documentation, where the focus is on specific terminology that has to be converted from language A to language B.
+
+However, translation alone is not sufficient due to its word-for-word approach, in cases where the main focus is to deliver a message from language A to language B, hence the inextricable correlation with Localization.
+
+### Difference
+
+|   |   |
+|---|---|
+|**Term**|**Definition**|
+|Globalization (G11N)|The process by which businesses or other organizations develop international influence or start operating on a global scale.|
+|Internationalization (I18N)|The design and development of a product, application or document content that enables easy Localization for target audiences that vary in culture, region, or language.|
+|Localization (L10N)|The linguistic adaptation of content for the target region, its languages, and cultural particularities in order to make it appropriate, easily understandable, and comfortable to use for local native language speakers.|
+|Translation (T9N)|The literal word-for-word transformation of a source text into the target language.|
+
+[GILT: Globalization, Internationalization, Localization, Translation – and the Difference Between them - AD VERBUM](https://www.adverbum.com/en/blog/globalization-internationalization-localization-translation)
 
 ## Time in human terms (Real cost)
 

@@ -198,6 +198,19 @@ Consumer choice
 
 Public goods are rarely cared for.
 
+An externality is the cost or benefit that affects a party who did not choose to incur that cost or benefit." (related: **[tragedy of the commons](https://en.wikipedia.org/wiki/Tragedy_of_the_commons)**--- "A situation within a shared-resource system where individual users acting independently according to their own self-interest behave contrary to the common good of all users by depleting that resource through their collective action"; [free rider problem](https://en.wikipedia.org/wiki/Free_rider_problem) - "when those who benefit from resources, goods, or services do not pay for them, which results in an under-provision of those goods or services."; [Coase theorem](https://en.wikipedia.org/wiki/Coase_theorem) - "if trade in an externality is possible and there are sufficiently low transaction costs, bargaining will lead to a Pareto efficient outcome regardless of the initial allocation of property."; [NIMBY](https://en.wikipedia.org/wiki/NIMBY) - "Not In My Back Yard")
+
+The economic problem of overconsumption and depletion of shared resources
+
+[Externalities](https://en.wikipedia.org/wiki/Externality)
+
+[Tragedy of the Uncommon](https://www.drorpoleg.com/tragedy-of-the-uncommon/)
+
+## Market Failure
+
+- [Social vs Market Norms](https://en.wikipedia.org/wiki/Predictably_Irrational#Being_Paid_vs._A_Friendly_Favor) - "People are happy to do things occasionally when they are not paid for them. In fact there are some situations in which work output is negatively affected by payment of small amounts of money."
+- [Information Asymmetry](https://en.wikipedia.org/wiki/Information_asymmetry) - "The study of decisions in transactions where one party has more or better information than the other." (related: **[adverse selection](https://en.wikipedia.org/wiki/Adverse_selection)**--- "when traders with better private information about the quality of a product will selectively participate in trades which benefit them the most."; [moral hazard](https://en.wikipedia.org/wiki/Moral_hazard) - "when one person takes more risks because someone else bears the cost of those risks.")
+
 ## Rebound effect
 
 The rebound effect says that the benefits of energy efficiency might be reduced as people change their behavior
@@ -259,6 +272,8 @@ Gifting can be quite inefficient.
 It’s the value (or price) that’s destroyed when the gift changes hands. Or put more simplistically, it’s the gap between how much the gift giver spent and how much the receiver values the gift.
 
 [The economics of wasteful spending: The deadweight loss of Christmas](https://www.pbs.org/newshour/economy/the-economics-of-wasteful-spending-the-dead-weight-loss-of-christmas)
+
+[Deadweight Loss](https://en.wikipedia.org/wiki/Deadweight_loss) - "A loss of economic efficiency that can occur when equilibrium for a good or service is not achieved or is not achievable."
 
 ## Baumol Effect
 

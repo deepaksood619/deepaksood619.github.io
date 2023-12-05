@@ -22,7 +22,7 @@
 
 It's OK to let your baby cry if the baby doesn't seem sick and you've tried everything to soothe your baby. You can try to leave your baby alone in a safe place, such as a crib, for about 10 to 15 minutes. Many babies need to cry before they can fall asleep. And they'll nod off faster if you leave them to cry.
 
-[Fetching Title#3zvs](https://www.mayoclinic.org/healthy-lifestyle/infant-and-toddler-health/in-depth/healthy-baby/art-20043859)
+[Crying baby: What to do when your newborn cries](https://www.mayoclinic.org/healthy-lifestyle/infant-and-toddler-health/in-depth/healthy-baby/art-20043859)
 
 ## Pregnancy
 

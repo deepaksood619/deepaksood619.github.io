@@ -129,31 +129,32 @@ class Printer {
 
 ### Inheritance
 
-1. Banana Monkey Jungle Problem
+### Banana Monkey Jungle Problem
 
-    The problem with object-oriented languages is they've got all this implicit environment that they carry around with them. You wanted a banana but what you got was a gorilla holding the banana and the entire jungle.
+The problem with object-oriented languages is they've got all this implicit environment that they carry around with them. You wanted a banana but what you got was a gorilla holding the banana and the entire jungle.
 
-    Solution
-    - Contain
-    - Delegate
+Solution
 
-2. Diamond Problem
+- Contain
+- Delegate
 
-    ![image](../../media/OOPS-SOLID-image2.jpg)
+### Diamond Problem
 
-    Both Scanner and Printer has the same function, so Copier will inherit which function? (Most OO language doesn't let you do that)
+![image](../../media/OOPS-SOLID-image2.jpg)
 
-3. Fragile Base Class Problem
+Both Scanner and Printer has the same function, so Copier will inherit which function? (Most OO language doesn't let you do that)
 
-    If a parent class is changed, than child class can stop working
+### Fragile Base Class Problem
 
-4. The Hierarchy Problem (Categorical Hierarchies)
+If a parent class is changed, than child class can stop working
 
-    Every time I start at a new company, I struggle with the problem when I'm creating a place to put my Company Documents, e.g. the Employee Handbook. Do I create a folder called Documents and then create a folder called Company in that. Or do I create a folder called Company and then create a folder called Documents in that?
+### The Hierarchy Problem (Categorical Hierarchies)
 
-    Using tags we can solve this problem. A company document can be labelled as document and also company. So it's both. **Tags have no order or hierarchy.**
+Every time I start at a new company, I struggle with the problem when I'm creating a place to put my Company Documents, e.g. the Employee Handbook. Do I create a folder called Documents and then create a folder called Company in that. Or do I create a folder called Company and then create a folder called Documents in that?
 
-    Don't use categorical hierarchies (Use containment hierarchies insted)
+Using tags we can solve this problem. A company document can be labelled as document and also company. So it's both. **Tags have no order or hierarchy.**
+
+Don't use categorical hierarchies (Use containment hierarchies insted)
 
 ### Encapsulation - The Reference Problem
 
@@ -177,18 +178,21 @@ A mixin class acts as the parent class, containing the desired functionality. A 
 ## Delegation
 
 Delegation means that an object shall perform only what it knows best, and leave the rest to other objects.
-Delegation can be implemented with two different mechanisms: composition and inheritance. Sadly, very often only inheritance is listed among the pillars of OOP techniques, forgetting that it is an implementation of the more generic and fundamental mechanism of delegation; perhaps a better nomenclature for the two techniques could beexplicit delegation(composition) andimplicit delegation (inheritance).
 
-- **Inheritance**
-  - Python does not implicitly call the parent implementation when you override a method.
-  - overriding is a way to block implicit delegation.
+Delegation can be implemented with two different mechanisms: composition and inheritance. Sadly, very often only inheritance is listed among the pillars of OOP techniques, forgetting that it is an implementation of the more generic and fundamental mechanism of delegation; perhaps a better nomenclature for the two techniques could be explicit delegation(composition) and implicit delegation (inheritance).
 
-- **Composition**
-  - Composition means that an object knows another object, and explicitly delegates some tasks to it.
-  - Composition provides a superior way to manage delegation since it can selectively delegate the access, even mask some attributes or methods, while inheritance cannot.
-  - In Python you also avoid the memory problems that might arise when you put many objects inside another; Python handles everything through its reference, i.e. through a pointer to the memory position of the thing, so the size of an attribute is constant and very limited.
+### Inheritance
 
-- **Composition over Inheritance**
+- Python does not implicitly call the parent implementation when you override a method.
+- overriding is a way to block implicit delegation.
+
+### Composition
+
+- Composition means that an object knows another object, and explicitly delegates some tasks to it.
+- Composition provides a superior way to manage delegation since it can selectively delegate the access, even mask some attributes or methods, while inheritance cannot.
+- In Python you also avoid the memory problems that might arise when you put many objects inside another; Python handles everything through its reference, i.e. through a pointer to the memory position of the thing, so the size of an attribute is constant and very limited.
+
+### Composition over Inheritance
 
 Composition over inheritance(orcomposite reuse principle) in [object-oriented programming](https://en.wikipedia.org/wiki/Object-oriented_programming)(OOP) is the principle that classes should achieve [polymorphic](https://en.wikipedia.org/wiki/Polymorphism_(computer_science)) behavior and [code reuse](https://en.wikipedia.org/wiki/Code_reuse) by their [composition](https://en.wikipedia.org/wiki/Object_composition)(by containing instances of other classes that implement the desired functionality) rather than [inheritance](https://en.wikipedia.org/wiki/Inheritance_(computer_science)) from a base or parent class.This is an often-stated principle of OOP, such as in the influential book [Design Patterns](https://en.wikipedia.org/wiki/Design_Patterns).
 

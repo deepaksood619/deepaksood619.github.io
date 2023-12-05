@@ -87,7 +87,7 @@ The implementation of [EIP-1559](https://eips.ethereum.org/EIPS/eip-1559) in the
 
 This video explains EIP-1559 and the benefits it brings:
 
-<iframe src="https://www.youtube.com/embed/MGemhK9t44Q" frameborder="0" title="YouTube" allow=" accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+[Can ETH Become DEFLATIONARY? EIP 1559 Explained - YouTube](https://www.youtube.com/watch?v=MGemhK9t44Q)
 
 If you are interested, you can read [EIP-1559](https://eips.ethereum.org/EIPS/eip-1559) and [EIP-1559 Resources](https://hackmd.io/@timbeiko/1559-resources)
 

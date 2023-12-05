@@ -6,6 +6,10 @@
 
 [GitHub - awesome-selfhosted/awesome-selfhosted: A list of Free Software network services and web applications which can be hosted on your own servers](https://github.com/awesome-selfhosted/awesome-selfhosted)
 
+[Google Open Source](https://opensource.google/)
+
+[Apple Open Source](https://opensource.apple.com/projects/)
+
 ## Knowledge Graph
 
 The **Knowledge Graph** is a knowledge base used by [Google](https://en.wikipedia.org/wiki/Google) and its services to enhance its [search engine](https://en.wikipedia.org/wiki/Google_Search)'s results with information gathered from a variety of sources. This information is presented to users in a box to the right of search results. Knowledge Graph boxes were added to Google's search engine in May 2012, starting in the United States, with international expansion by the end of the year. The Knowledge Graph was powered in part by [Freebase](https://en.wikipedia.org/wiki/Freebase). The information covered by the Knowledge Graph grew significantly after launch, tripling its original size within seven months, and being able to answer "roughly one-third" of the 100 billion monthly searches Google processed in May 2016. The information is often used as a spoken answer in [Google Assistant](https://en.wikipedia.org/wiki/Google_Assistant) and [Google Home](https://en.wikipedia.org/wiki/Google_Home) searches. The Knowledge Graph has been criticized for providing answers without source attribution.

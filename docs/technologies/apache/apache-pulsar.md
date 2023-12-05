@@ -22,8 +22,7 @@ Pulsar generalizes these two messaging concepts through one unified messaging AP
 ## Pulsar advantages over Kafka
 
 1. If you prefer a message queue system, one designed for big data loads, Pulsar is actually implemented as a queue system that also supports the log model.
-
-2. In Kafka, each partition is explicitly tied to one file on one physical disk, which means that the maximum possible partition size is bounded by the hard drive that stores it. This explicit map‐ ping also complicates scaling a Kafka topic by splitting it into more partitions, because of the data movement to new files and possibly new disks that is required. It also makes scaling down, by consolidating partitions, sufficiently hard that it is almost never done. Because Pulsar treats a partition as an abstraction, decoupled from how the partition is actually stored, the Pulsar implementation is able to store partitions of unlimited size. Scaling up and down is much easier, too.
+2. In Kafka, each partition is explicitly tied to one file on one physical disk, which means that the maximum possible partition size is bounded by the hard drive that stores it. This explicit mapping also complicates scaling a Kafka topic by splitting it into more partitions, because of the data movement to new files and possibly new disks that is required. It also makes scaling down, by consolidating partitions, sufficiently hard that it is almost never done. Because Pulsar treats a partition as an abstraction, decoupled from how the partition is actually stored, the Pulsar implementation is able to store partitions of unlimited size. Scaling up and down is much easier, too.
 
 ## References
 
@@ -34,3 +33,5 @@ Pulsar generalizes these two messaging concepts through one unified messaging AP
 <https://streaml.io/blog/why-apache-pulsar>
 
 <https://medium.com/swlh/performance-comparison-between-apache-pulsar-and-kafka-latency-79fb0367f407>
+
+[Apache Pulsar: The Next Gen Messaging & Queuing System • Karthik Ramasamy • YOW! 2020 - YouTube](https://www.youtube.com/watch?v=_SSFM7FTI8A)

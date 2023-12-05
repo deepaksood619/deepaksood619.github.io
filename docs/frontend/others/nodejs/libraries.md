@@ -81,6 +81,12 @@ FingerprintJS is a browser fingerprinting library that queries browser attribute
 
 Sequelize is a modern TypeScript and Node.js ORM for Oracle, Postgres, MySQL, MariaDB, SQLite and SQL Server, and more. Featuring solid transaction support, relations, eager and lazy loading, read replication and more.
 
+## Code editor libraries
+
+- Monaco by Microsoft
+- React devtools inline
+- Console feed
+
 ## Others
 
 [responsive-images-generator - npm](https://www.npmjs.com/package/responsive-images-generator)

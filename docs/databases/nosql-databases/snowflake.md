@@ -82,6 +82,83 @@ It uses Amazon S3 for its underlying data storage. It performs query execution w
 
 [Virtual Views](https://dbdb.io/browse?views=virtual-views)
 
+## Stage data files
+
+A Snowflake stage is a location in cloud storage that you use to load and unload data from a table. Snowflake supports:
+
+- **Internal stages**—Used to store data files internally within Snowflake. Each user and table in Snowflake gets an internal stage by default for staging data files.
+
+- **External stages**—Used to store data files externally in Amazon S3, Google Cloud Storage, or Microsoft Azure. If your data is already stored in these cloud storage services, you can use an external stage to load data in Snowflake tables.
+
+## SnowSQL (CLI Client)
+
+SnowSQL is the command line client for connecting to Snowflake to execute SQL queries and perform all DDL and DML operations, including loading data into and unloading data out of database tables.
+
+```bash
+snowsql -a <account_identifier> -u <user_name>
+
+# Execute PUT in SnowSQL to upload local data files to the table stage provided for the `emp_basic` table you created.
+
+PUT file://<file-path>[/\]employees0*.csv @sf_tuts.public.%emp_basic;
+
+!exit
+```
+
+[SnowSQL (CLI Client) | Snowflake Documentation](https://docs.snowflake.com/user-guide/snowsql)
+
+## Snowflake Objects / SQL
+
+```sql
+CREATE OR REPLACE DATABASE sf_tuts;
+
+SELECT CURRENT_DATABASE(), CURRENT_SCHEMA();
+
+CREATE OR REPLACE TABLE emp_basic (
+   first_name STRING ,
+   last_name STRING ,
+   email STRING ,
+   streetaddress STRING ,
+   city STRING ,
+   start_date DATE
+   );
+
+CREATE OR REPLACE WAREHOUSE sf_tuts_wh WITH
+   WAREHOUSE_SIZE='X-SMALL'
+   AUTO_SUSPEND = 180
+   AUTO_RESUME = TRUE
+   INITIALLY_SUSPENDED=TRUE;
+
+SELECT CURRENT_WAREHOUSE();
+
+LIST @sf_tuts.public.%emp_basic;
+
+COPY INTO emp_basic
+  FROM @%emp_basic
+  FILE_FORMAT = (type = csv field_optionally_enclosed_by='"')
+  PATTERN = '.*employees0[1-5].csv.gz'
+  ON_ERROR = 'skip_file';
+
+SELECT * FROM emp_basic;
+
+INSERT INTO emp_basic VALUES
+   ('Clementine','Adamou','cadamou@sf_tuts.com','10510 Sachs Road','Klenak','2017-9-22') ,
+   ('Marlowe','De Anesy','madamouc@sf_tuts.co.uk','36768 Northfield Plaza','Fangshan','2017-1-26');
+
+SELECT email FROM emp_basic WHERE email LIKE '%.uk';
+
+SELECT first_name, last_name, DATEADD('day',90,start_date) FROM emp_basic WHERE start_date <= '2017-01-01';
+
+DROP DATABASE IF EXISTS sf_tuts;
+
+DROP WAREHOUSE IF EXISTS sf_tuts_wh;
+```
+
+[Snowflake in 20 Minutes | Snowflake Documentation](https://docs.snowflake.com/user-guide/tutorials/snowflake-in-20minutes)
+
+### Lifecycle Diagram
+
+![snowflake-sql-lifecycle-diagram](../../media/Pasted%20image%2020231205120527.png)
+
 ## Links
 
 [The Snowflake Data Cloud - Mobilize Data, Apps, and AI](https://www.snowflake.com/en/)
@@ -89,3 +166,5 @@ It uses Amazon S3 for its underlying data storage. It performs query execution w
 [What is Snowflake? 8 Minute Demo - YouTube](https://www.youtube.com/watch?v=9PBvVeCQi0w)
 
 [Snowflake Explained In 9 Mins | What Is Snowflake Database | Careers In Snowflake | MindMajix - YouTube](https://www.youtube.com/watch?v=hJHWmYcdDn8)
+
+[Snowflake Documentation](https://docs.snowflake.com/)

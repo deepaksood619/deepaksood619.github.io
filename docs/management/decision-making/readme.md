@@ -14,6 +14,8 @@ No HIPPOs (Highest Paid Person's Opinion)
 
 Let’s dream big. Plan diligently. Execute relentlessly.
 
+**Sleep on it** - Always sleep on your decisions for a night atleast before taking decisions. Don't be emotional and immature.
+
 ## The ABCDs of categorizing decisions
 
 - **Ad hoc decisions** - Infrequent, low-stakes
@@ -215,7 +217,7 @@ If you are nervous about making the jump or simply putting it off out of fear of
 
 ## Regret Minimisation Framework
 
-It all starts with a question:**In X years, will I regret not doing this?**
+It all starts with a question: **In X years, will I regret not doing this?**
 
 The idea is to project yourself into the future and look back on your decision from that perspective. For Bezos, he thought of when he would be 80 and if he would regret not trying to start this company. Yes or no. His answer was quite clear.
 

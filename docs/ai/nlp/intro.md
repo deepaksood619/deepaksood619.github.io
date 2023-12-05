@@ -96,13 +96,19 @@ Replace keywords in sentences or extract keywords from sentences
 
 <https://developers.google.com/ml-kit>
 
+## Haystack
+
+Haystack is the open source Python framework by deepset for building custom apps with large language models (LLMs). It lets you quickly try out the latest models in natural language processing (NLP) while being flexible and easy to use. Our inspiring community of users and builders has helped shape Haystack into what it is today: a complete framework for building production-ready NLP apps.
+
+[GitHub - deepset-ai/haystack](https://github.com/deepset-ai/haystack)
+
+[What is Haystack? | Haystack](https://haystack.deepset.ai/overview/intro)
+
 ## References
 
 The Association for Computational Linguistics is the international organization that represents the field of NLP. The ACL website (<http://www.aclweb.org>) hosts many useful resources, including: information about international and regional conferences and workshops; the *ACL Wiki* with links to hundreds of useful resources; and the *ACL Anthology*, which contains most of the NLP research literature from the past 50+ years, fully indexed and freely downloadable.
 
 <https://www.freecodecamp.org/news/natural-language-processing-with-spacy-python-full-course>
-
-<https://github.com/deepset-ai/haystack>
 
 ## Links
 

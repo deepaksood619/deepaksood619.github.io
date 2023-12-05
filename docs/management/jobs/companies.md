@@ -1,5 +1,7 @@
 # Companies
 
+- Equal Experts
+
 ### Mobility Companies
 
 - Ola
