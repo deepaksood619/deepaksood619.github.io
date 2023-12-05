@@ -16,9 +16,6 @@
   - Pull: query parts of the model
   - Push: update parts of the model
 - Machine learning update equation
-
-W~i~ <- W~i~ + Δ
-
 - (Stochastic) gradient descent
 - Collapsed Gibbs sampling for topic modeling
 - Aggregate push updates via addition (+)

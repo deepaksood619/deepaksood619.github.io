@@ -49,9 +49,10 @@ Seeing that, TCPknows it can send the first 30 packets (1500 * 30 = 45000) befor
 Example of a sliding window. As soon as packet 3 is acked, we can slide the window to the right and send the packet 8.
 
 Now, if for some reason the application reading these packets in node B slows down, TCP will still ack the packets that were correctly received, but as these packets need to be stored in the receive buffer until the application decides to read them, the receive window will be smaller, so even if TCP receives the acknowledgment for the next 10 packets (meaning there are currently 20 packets, or 30000 bytes, in flight), but the receive window value received in this ack is now 30000 (instead of 45000), it will not send more packets, as the number of bytes in flight is already equal to the latest receive window advertised.
+
 The sender will always keep this invariant:
 
-LastByteSent - LastByteAcked <= ReceiveWindowAdvertised
+`LastByteSent - LastByteAcked <= ReceiveWindowAdvertised`
 
 ## Visualizing the Receive Window
 

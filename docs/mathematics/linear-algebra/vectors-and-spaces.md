@@ -22,7 +22,7 @@ Ex - 5mph East is a vector quantity (and we will not call this as speed, we will
 
 ## [Linear combinations and spans](https://www.khanacademy.org/math/linear-algebra/vectors-and-spaces#linear-combinations)
 
-span(v1 + v2 + v3 + ... + vn) = {c1v1 + c2v2 + c3v3 + ... + cnvn | ci belongs to set of Real numbers and 1 <= i <= n}
+`span(v1 + v2 + v3 + ... + vn) = {c1v1 + c2v2 + c3v3 + ... + cnvn | ci belongs to set of Real numbers and 1 <= i <= n}`
 
 ## [Linear dependence and independence](https://www.khanacademy.org/math/linear-algebra/vectors-and-spaces#linear-independence)
 
@@ -41,7 +41,7 @@ C1 and C2 must be equal to 0 for R2
 - **S is a basis of V**, if something is a basis for a set, that means that, if you take the span of those vectors, you can get to any of the vectors in that subspace and that those vectors are linearly independent.
   - Span (s) = R2
   - Must be Linearly Independent
-  - Standard Basis = T = {[1 0] , [0 1]}
+  - Standard Basis = `T = {[1 0] , [0 1]}`
 
 ## [Vector dot and cross products](https://www.khanacademy.org/math/linear-algebra/vectors-and-spaces#dot-cross-products)
 

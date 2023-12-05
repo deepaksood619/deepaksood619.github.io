@@ -14,7 +14,7 @@
 ## Types of Attributes
 
 - Nominal - Examples: ID numbers, eye color, zip colors
-- Ordinal - Examples: rankings (e.g., taste of potato chips on a scale from 1-10), grades, height in {tall, medium, short}
+- Ordinal - Examples: rankings (e.g., taste of potato chips on a scale from 1-10), grades, height in `{tall, medium, short}`
 - Interval - Examples: calendar dates, temperatures in Celsius or Fahrenheit
 - Ratio - Examples: temperature in Kelvin, length, time, counts
 
@@ -23,7 +23,7 @@
 The type of an attribute depends on which of the following properties it possesses:
 
 - Distinctness: equal to, not equal to
-- Order: < >
+- Order: `< >`
 - Addition/Subtraction: + -
 - Multiplication/Division: * /
 

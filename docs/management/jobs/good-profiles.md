@@ -69,4 +69,4 @@ In short:
 
 ## Others
 
-- Yiwen Gong - <gyw@google.com>
+- Yiwen Gong - gyw@google.com

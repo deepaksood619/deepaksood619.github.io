@@ -7,7 +7,6 @@ Naive Bayes is a simple but surprisingly powerful algorithm for predictive model
 The model is comprised of two types of probabilities that can be calculated directly from your training data:
 
 1. The probability of each class.
-
 2. The conditional probability for each class given each x value.
 
 Once calculated, the probability model can be used to make predictions for new data using Bayes Theorem.
@@ -25,7 +24,7 @@ A simple species classification problem
 ![image](../../media/Bayes-Classification-image1.jpg)
 
 - Decision Rule
-  - If length L <= B
+  - If length `L <= B`
     - Hilsa
   - Else
     - Tuna

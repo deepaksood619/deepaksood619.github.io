@@ -14,27 +14,27 @@
 
 | **Iterator** | **Arguments** | **Results** | **Example** |
 |---|---|---|---|
-| [**count()**](https://docs.python.org/2/library/itertools.html#itertools.count) | start, [step] | `start, start+step, start+2*step, ...` | count(10)-->1011121314... |
-| [**cycle()**](https://docs.python.org/2/library/itertools.html#itertools.cycle) | p | p0, p1, ... plast, p0, p1, ... | cycle('ABCD')-->ABCDABCD... |
-| [**repeat()**](https://docs.python.org/2/library/itertools.html#itertools.repeat) | elem [,n] | elem, elem, elem, ... endlessly or up to n times | repeat(10,3)-->101010 |
+| [**count()**](https://docs.python.org/2/library/itertools.html#itertools.count) | start, [step] | `start, start+step, start+2*step, ...` | `count(10)-->1011121314...` |
+| [**cycle()**](https://docs.python.org/2/library/itertools.html#itertools.cycle) | p | `p0, p1, ... plast, p0, p1, ...` | `cycle('ABCD')-->ABCDABCD...` |
+| [**repeat()**](https://docs.python.org/2/library/itertools.html#itertools.repeat) | elem [,n] | elem, elem, elem, ... endlessly or up to n times | `repeat(10,3)-->101010` |
 
 ### 2. Iterators terminating on the shortest input sequence
 
 | **Iterator** | **Arguments** | **Results** | **Example** |
 |---|---|---|---|
-| [**chain()**](https://docs.python.org/2/library/itertools.html#itertools.chain) | p, q, ... | p0, p1, ... plast, q0, q1, ... | chain('ABC','DEF')-->ABCDEF |
-| [**compress()**](https://docs.python.org/2/library/itertools.html#itertools.compress) | data, selectors | (d[0] if s[0]), (d[1] if s[1]), ... | compress('ABCDEF', [1,0,1,0,1,1])-->ACEF |
-| [**dropwhile()**](https://docs.python.org/2/library/itertools.html#itertools.dropwhile) | pred, seq | seq[n], seq[n+1], starting when pred fails | dropwhile(lambdax:x<5, [1,4,6,4,1])-->641 |
+| [**chain()**](https://docs.python.org/2/library/itertools.html#itertools.chain) | p, q, ... | p0, p1, ... plast, q0, q1, ... | `chain('ABC','DEF')-->ABCDEF` |
+| [**compress()**](https://docs.python.org/2/library/itertools.html#itertools.compress) | data, selectors | (d[0] if s[0]), (d[1] if s[1]), ... | `compress('ABCDEF', [1,0,1,0,1,1])-->ACEF` |
+| [**dropwhile()**](https://docs.python.org/2/library/itertools.html#itertools.dropwhile) | pred, seq | seq[n], seq[n+1], starting when pred fails | `dropwhile(lambdax:x<5, [1,4,6,4,1])-->641` |
 | [**groupby()**](https://docs.python.org/2/library/itertools.html#itertools.groupby) | iterable[, keyfunc] | sub-iterators grouped by value of keyfunc(v) |  |
-| [**ifilter()**](https://docs.python.org/2/library/itertools.html#itertools.ifilter) | pred, seq | elements of seq where pred(elem) is true | ifilter(lambdax:x%2,range(10))-->13579 |
-| [**ifilterfalse()**](https://docs.python.org/2/library/itertools.html#itertools.ifilterfalse) | pred, seq | elements of seq where pred(elem) is false | ifilterfalse(lambdax:x%2,range(10))-->02468 |
+| [**ifilter()**](https://docs.python.org/2/library/itertools.html#itertools.ifilter) | pred, seq | elements of seq where pred(elem) is true | `ifilter(lambdax:x%2,range(10))-->13579` |
+| [**ifilterfalse()**](https://docs.python.org/2/library/itertools.html#itertools.ifilterfalse) | pred, seq | elements of seq where pred(elem) is false | `ifilterfalse(lambdax:x%2,range(10))-->02468` |
 | [**islice()**](https://docs.python.org/2/library/itertools.html#itertools.islice) | seq, [start,] stop [, step] | elements from seq[start:stop:step] | islice('ABCDEFG',2,None)-->CDEFG |
-| [**imap()**](https://docs.python.org/2/library/itertools.html#itertools.imap) | func, p, q, ... | func(p0, q0), func(p1, q1), ... | imap(pow,(2,3,10),(5,2,3))-->3291000 |
+| [**imap()**](https://docs.python.org/2/library/itertools.html#itertools.imap) | func, p, q, ... | func(p0, q0), func(p1, q1), ... | `imap(pow,(2,3,10),(5,2,3))-->3291000` |
 | [**starmap()**](https://docs.python.org/2/library/itertools.html#itertools.starmap) | func, seq | `func(*seq[0]), func(*seq[1]), ...` | `starmap(pow, [(2,5),(3,2),(10,3)])-->3291000` |
 | [tee()](https://docs.python.org/2/library/itertools.html#itertools.tee) | it, n | it1, it2, ... itn splits one iterator into n |  |
-| [**takewhile()**](https://docs.python.org/2/library/itertools.html#itertools.takewhile) | pred, seq | seq[0], seq[1], until pred fails | takewhile(lambdax:x<5, [1,4,6,4,1])-->14 |
-| [**izip()**](https://docs.python.org/2/library/itertools.html#itertools.izip) | p, q, ... | (p[0], q[0]), (p[1], q[1]), ... | izip('ABCD','xy')-->AxBy |
-| [**izip_longest()**](https://docs.python.org/2/library/itertools.html#itertools.izip_longest) | p, q, ... | (p[0], q[0]), (p[1], q[1]), ... | izip_longest('ABCD','xy',fillvalue='-')-->AxByC-D- |
+| [**takewhile()**](https://docs.python.org/2/library/itertools.html#itertools.takewhile) | pred, seq | seq[0], seq[1], until pred fails | `takewhile(lambdax:x<5, [1,4,6,4,1])-->14` |
+| [**izip()**](https://docs.python.org/2/library/itertools.html#itertools.izip) | p, q, ... | (p[0], q[0]), (p[1], q[1]), ... | `izip('ABCD','xy')-->AxBy` |
+| [**izip_longest()**](https://docs.python.org/2/library/itertools.html#itertools.izip_longest) | p, q, ... | (p[0], q[0]), (p[1], q[1]), ... | `izip_longest('ABCD','xy',fillvalue='-')-->AxByC-D-` |
 
 ### 3. Combinatoric generators
 

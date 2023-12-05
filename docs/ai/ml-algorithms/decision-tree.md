@@ -51,13 +51,13 @@ Machine learning makes use of decision trees to predict the direction of the inp
 - In decision tree learning, ID3 (Iterative Dichotomiser 3) is an algorithm invented by Ross Quinlan used to generate a decision tree from a dataset. ID3 is the precursor to the C4.5 algorithm, and is typically used in the machine learning and natural language processing domains
 - Split (node, examples):
 
-    1. A <- the best attribute for splitting the examples
-    2. Decision attribute for this node <- A
+    1. A - the best attribute for splitting the examples
+    2. Decision attribute for this `node <- A`
     3. For each value of A, create new child node
     4. Split training examples to child nodes
     5. For each child node/subset:
        - if subset is pure: STOP
-       - else: Split (child_node, {subset})
+       - else: Split `(child_node, {subset})`
 
 - Ross Quinlan (ID3: 1986), (C4.5: 1993)
 - Breimanetal (CaRT: 1984) from statistics
@@ -79,7 +79,7 @@ https://towardsdatascience.com/entropy-and-information-gain-in-decision-trees-c7
 
 ![image](../../media/Decision-Tree-image15.jpg)
 
-- Given a training set: Z= {(X1, Y1),...., (Xn, Yn)}
+- Given a training set: `Z = {(X1, Y1),...., (Xn, Yn)}`
 
 yi-real values
 
@@ -101,7 +101,7 @@ yi-real values
 
 - The node depth is equal to the maxDepth training parameter
 - No split candidate leads to an information gain greater than mininfoGain
-- No split candidate produces child nodes which have at least minInstancesPerNode training instances (|ZL|, |ZR| < minInstancesPerNode) each
+- No split candidate produces child nodes which have at least minInstancesPerNode training instances `(|ZL|, |ZR| < minInstancesPerNode)` each
 
 ## Summary: Decision Trees
 

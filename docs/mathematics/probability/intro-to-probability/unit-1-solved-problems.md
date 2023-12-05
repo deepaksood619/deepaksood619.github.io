@@ -14,4 +14,4 @@ Uniform probabilities on a square.Romeo and Juliet have a date at a given time, 
 
 ## Bonferroni's inequality
 
-Using union bound for P(A1^c^ U A2^c^) <= P(A1^c^) + P(A2^c^)
+Using union bound for `P(A1^c^ U A2^c^) <= P(A1^c^) + P(A2^c^)`
