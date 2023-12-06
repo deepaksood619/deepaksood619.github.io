@@ -4,6 +4,7 @@
 
 - [**AI Canon** | Andreessen Horowitz](https://a16z.com/2023/05/25/ai-canon/)
 - LLM - [dbdemos Build your Chat Bot with Dolly - Databricks demos](https://www.dbdemos.ai/demo.html?demoName=llm-dolly-chatbot)
+- [CS 886: Recent Advances on Foundation Models](https://cs.uwaterloo.ca/~wenhuche/teaching/cs886/)
 
 ## AI (Artificial Intelligence) + DL (Deep Learning) + ML (Machine Learning)
 

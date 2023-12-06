@@ -96,9 +96,7 @@ We believe that you should always use the best industry standard linters. Some o
 
 We built pre-commit to solve our hook issues. It is a multi-language package manager for pre-commit hooks. You specify a list of hooks you want and pre-commit manages the installation and execution of any hook written in any language before every commit. pre-commit is specifically designed to not require root access. If one of your developers doesn't have node installed but modifies a JavaScript file, pre-commit automatically handles downloading and building node to run eslint without root.
 
-```yaml
-# filename - .pre-commit-config.yaml
-
+```yaml title=".pre-commit-config.yaml"
 exclude: '^$'
 fail_fast: false
 exclude: '^(?!tests/)$' #run only test folder files
@@ -158,21 +156,43 @@ files: ^API/
          - id: black
            language_version: python3.8
     - repo: https://github.com/igorshubovych/markdownlint-cli
-  rev: v0.32.2
-  hooks:
-   - id: markdownlint
-   - id: markdownlint-fix
- - repo: https://github.com/asottile/pyupgrade
- rev: v2.7.2
- hooks:
- - id: pyupgrade
- args: [--py36-plus]
- - repo: https://github.com/asottile/blacken-docs
- rev: v1.8.0
- hooks:
- - id: blacken-docs
-additional_dependencies: [black==20.8b1]>)
+      rev: v0.32.2
+      hooks:
+      - id: markdownlint
+      - id: markdownlint-fix
+    - repo: https://github.com/asottile/pyupgrade
+    rev: v2.7.2
+    hooks:
+    - id: pyupgrade
+    args: [--py36-plus]
+    - repo: https://github.com/asottile/blacken-docs
+    rev: v1.8.0
+    hooks:
+    - id: blacken-docs
+    additional_dependencies: [black==20.8b1]>)
 ```
+
+#### Running custom shell command
+
+```yaml title=".pre-commit-config.yaml"
+- repo: local
+hooks:
+  - id: docusaurus-mdx-checker
+ name: docusaurus-mdx-checker
+ entry: docusaurus-mdx-checker.sh
+ language: script
+ pass_filenames: false
+```
+
+```bash title="docusaurus-mdx-checker.md"
+#!/bin/bash
+echo "Running docusaurus-mdx-checker"
+npx docusaurus-mdx-checker
+
+# chmod +x docusaurus-mdx-checker.md
+```
+
+[Custom Python/Shell Script for pre-commit | by shimo | Medium](https://medium.com/@shimo164/custom-python-shell-script-for-pre-commit-700f464bfd63)
 
 ### Running pre-commit
 

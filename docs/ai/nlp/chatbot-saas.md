@@ -125,65 +125,65 @@ Business motivation for implementing virtual assistants in companies
 IVS - Interactive
 
 - Pricing?
-    - number of chats/conversation?
-    - number of agents
+  - number of chats/conversation?
+  - number of agents
 - Users / Customers - ex zomato,swiggy, etc
 - Live Demo bots / examples?
 - Scale - ?
 - Testing - ? (Bulk input testing via API/uploads)
 - Project managers / Customer support / customer success team / account manager ?
 - Rule based chatbot / workflow based chatbot (Quick reply)
-    - Ex - Blinkit/Zomato, Paytm
+  - Ex - Blinkit/Zomato, Paytm
 - Analytics
-    - API analytics
-    - Agent analytics
-    - Data export - API webhook in our system
+  - API analytics
+  - Agent analytics
+  - Data export - API webhook in our system
 - Chat builder (Flow)
-    - Conversation builder
-    - Bot authoring
+  - Conversation builder
+  - Bot authoring
 - Multiple bots
-    - P0 - Customer support bot
-    - Sales Bot
-        - User Journey
-    - Bot for Loan assistance
-    - Bot for loan collections/recovery
+  - P0 - Customer support bot
+  - Sales Bot
+    - User Journey
+  - Bot for Loan assistance
+  - Bot for loan collections/recovery
 - Customizable
-    - Types of responses by bot
-    - Forms
-    - Documents sharing
+  - Types of responses by bot
+  - Forms
+  - Documents sharing
 - CSAT on closing chat
 - Agent handover
-    - Ticketing management system
-        - Creating tickets by API
-            - Add back tickets update back to bot page
-    - Voice
-    - Chat
-    - Agent and customer notifications
-    - Canned responses
-    - Escalation
-    - Routing
+  - Ticketing management system
+    - Creating tickets by API
+      - Add back tickets update back to bot page
+  - Voice
+  - Chat
+  - Agent and customer notifications
+  - Canned responses
+  - Escalation
+  - Routing
 - Customer dashboard
-    - Show previous chats / Ticket history
-    - Personalization
+  - Show previous chats / Ticket history
+  - Personalization
 - Messaging
-    - Notifications
-    - Emails
-    - SMS
+  - Notifications
+  - Emails
+  - SMS
 - Automatic user login
 - API based
 - Channels (Omnichannel)
-    - P0 - Android/iOS - Direct integration web UI including auto login
-        - SDK?
-    - P1 - Web
-    - P2 - Whatsapp
+  - P0 - Android/iOS - Direct integration web UI including auto login
+    - SDK?
+  - P1 - Web
+  - P2 - Whatsapp
 - Dynamic NLP
 - Agent & Customer Knowledgebase (web page too)
 - Bots
-    - Customer support bot
-    - Sales bot / Lead generation bot
-        - Cobrowse, replicating screen
-    - Journey bot
-    - FAQ bot
+  - Customer support bot
+  - Sales bot / Lead generation bot
+    - Cobrowse, replicating screen
+  - Journey bot
+  - FAQ bot
 - Advanced
-    - A/B Test
-    - Multilingual - Hindi
+  - A/B Test
+  - Multilingual - Hindi
