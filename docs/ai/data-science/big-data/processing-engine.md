@@ -1,6 +1,6 @@
 # Processing Engine
 
-A processing engine, sometimes called a processing framework, is responsible for performing data processing tasks (an illuminating explanation, I know). A comparison is probably the best way to understand this. Apache Hadoop is an open source software platform that also deals with "Big Data" and distributed computing. Hadoop has a processing engine, distinct from Spark, called MapReduce. MapReduce has its own particular way of optimizing tasks to be processed on multiple nodes and Spark has a different way. One of Sparks strengths is that it is a processing engine that can be used on its own, or used in place of Hadoop MapReduce, taking advantage of the other features of Hadoop.
+A processing engine, sometimes called a processing framework, is responsible for performing data processing tasks. A comparison is probably the best way to understand this. Apache Hadoop is an open source software platform that also deals with "Big Data" and distributed computing. Hadoop has a processing engine, distinct from Spark, called MapReduce. MapReduce has its own particular way of optimizing tasks to be processed on multiple nodes and Spark has a different way. One of Sparks strengths is that it is a processing engine that can be used on its own, or used in place of Hadoop MapReduce, taking advantage of the other features of Hadoop.
 
 Processing frameworks compute over the data in the system, either by reading from non-volatile storage or as it is ingested into the system. Computing over data is the process of extracting information and insight from large quantities of individual data points.
 
@@ -9,6 +9,7 @@ Processing frameworks compute over the data in the system, either by reading fro
 - Stream-only frameworks:
   - [Apache Storm](https://www.digitalocean.com/community/tutorials/hadoop-storm-samza-spark-and-flink-big-data-frameworks-compared#apache-storm)
   - [Apache Samza](https://www.digitalocean.com/community/tutorials/hadoop-storm-samza-spark-and-flink-big-data-frameworks-compared#apache-samza)
+  - [Keystone Real-time Stream Processing Platform | by Netflix Technology Blog | Netflix TechBlog](https://netflixtechblog.com/keystone-real-time-stream-processing-platform-a3ee651812a)
 - Hybrid frameworks:
   - [Apache Spark](https://www.digitalocean.com/community/tutorials/hadoop-storm-samza-spark-and-flink-big-data-frameworks-compared#apache-spark)
   - [Apache Flink](https://www.digitalocean.com/community/tutorials/hadoop-storm-samza-spark-and-flink-big-data-frameworks-compared#apache-flink)

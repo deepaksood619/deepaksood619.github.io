@@ -3,21 +3,15 @@
 ## Commenting multiple using the terminal
 
 1. First, pressESC
-
 2. Go to the line from which you want to start commenting. Then, pressctrl + v, this will enable the visual block mode.
-
 3. use thedown arrowto select multiple lines that you want to comment.
-
 4. Now, pressSHIFT + Ito enable insert mode.
-
 5. Press#and it will add a comment to the first line. Then pressECSand wait for a second,#will be added to all the lines.
 
 ## Uncommenting Multiple Lines
 
 1. PressCTRL + Vto enable visual block mode.
-
 2. Move down and select the lines till you want to uncomment.
-
 3. pressxand it will uncomment all the selected lines at once.
 
 ## VIM
@@ -44,7 +38,7 @@
 - E- jump forwards to the end of a word (words can contain punctuation)
 - b- jump backwards to the start of a word
 - B- jump backwards to the start of a word (words can contain punctuation)
-- %- move to matching character (default supported pairs: '()', '{}', '[]' - use:h matchpairsin vim for more info)
+- %- move to matching character (default supported pairs: `'()', '{}', '[]'` - use:h matchpairsin vim for more info)
 - 0- jump to the start of the line
 - ^- jump to the first non-blank character of the line
 - $- jump to the end of the line
@@ -60,8 +54,8 @@
 - Tx- jump to after previous occurence of character x
 - ;- repeat previous f, t, F or T movement
 - ,- repeat previous f, t, F or T movement, backwards
-- }- jump to next paragraph (or function/block, when editing code)
-- {- jump to previous paragraph (or function/block, when editing code)
+- `}` - jump to next paragraph (or function/block, when editing code)
+- `{` - jump to previous paragraph (or function/block, when editing code)
 - zz- center cursor on screen
 - Ctrl+e- move screen down one line (without moving cursor)
 - Ctrl+y- move screen up one line (without moving cursor)
@@ -108,20 +102,19 @@ TipPrefix a cursor movement command with a number to repeat it. For example,4jmo
 - Ctrl+v- start visual block mode
 - O- move to other corner of block
 - aw- mark a word
-- ab- a block with ()
-- aB- a block with {}
-- ib- inner block with ()
-- iB- inner block with {}
+- ab- a block with `()`
+- aB- a block with `{}`
+- ib- inner block with `()`
+- iB- inner block with `{}`
 - Esc- exit visual mode
 
 ## Visual commands
 
-- >- shift text right
-
-- <- shift text left
-- y- yank (copy) marked text
-- d- delete marked text
-- ~- switch case
+- `>` - shift text right
+- `<` - shift text left
+- `y` - yank (copy) marked text
+- `d` - delete marked text
+- `~` - switch case
 
 ## Registers
 
@@ -185,7 +178,7 @@ TipRegister 0 contains always the value of the last yank command.
 
 ## Search in multiple files
 
-- :vimgrep /pattern/ {file}- search for pattern in multiple files
+- `:vimgrep /pattern/ {file}` - search for pattern in multiple files
 
 e.g.:vimgrep /foo/ **/*
 

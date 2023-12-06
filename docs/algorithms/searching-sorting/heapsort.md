@@ -4,8 +4,8 @@ Heapsortstarts by building a max heap. A binary max heap is a nearly complete bi
 
 - Create max-heap with all N keys
 - Repeatedly remove the maximum key
-- Heap construction uses <= 2 N compares and exchanges
-- Heapsort uses <= 2 N lg N compares and exchanges
+- Heap construction uses `<= 2 N` compares and exchanges
+- Heapsort uses `<= 2 N lg N` compares and exchanges
 
 Significance - In-place sorting algorithm with N log N wost-case
 

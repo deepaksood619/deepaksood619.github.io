@@ -196,3 +196,5 @@ DROP WAREHOUSE IF EXISTS sf_tuts_wh;
 [Snowflake Documentation](https://docs.snowflake.com/)
 
 [Top Snowflake Interview Questions and Answers (2023) - InterviewBit](https://www.interviewbit.com/snowflake-interview-questions/)
+
+[Top 50 Snowflake Interview Questions And Answers 2023](https://mindmajix.com/snowflake-interview-questions)

@@ -46,8 +46,11 @@ https://www.akamai.com/es/es/multimedia/documents/technical-publication/consiste
 ## alpha = # of objects in hash table / # of buckets of hash table
 
 Question - which hash table implementation strategy is feasible for load factors larger than 1 (Answer - Only chaining, because # of objects are greater than # of buckets, so only using linked list for collision can be used)
-Therefore load factor for a hash table must be << 1, for constant time operations, since if chaining is used, than we have to use exhaustive search for getting values whose key hash to same place
+
+Therefore load factor for a hash table must be `<< 1`, for constant time operations, since if chaining is used, than we have to use exhaustive search for getting values whose key hash to same place
+
 So if load factor increases, we increase the number of buckets.
+
 A super hash function, that can handle all types of data **does not exists** (for every hash function there exists a pathological data set)
 
 ## Solution to pathological data set
@@ -95,6 +98,7 @@ A hash function that maps each item into a unique slot is referred to as a perfe
 Explain the 2-choice hashing algorithm for exact-match hash tables.
 
 In the 2-choice hashing algorithm, we use two independent hash functions to compute two separate indices into the hash table. Then, we look at both indices and find whichever one has lower occupancy.We insert a new element at this index. To lookup an element, we again hash the element using both hash functons to find 2 indices, and compare the element against the elements stored at each of the 2 indices.
+
 On what metric is the 2-choice algorithm better than the standard hashing algorithm? Why?
 
 The 2-choice algorithm is better on the metric of likelihood of overflowing the hash tables given a certain number of inserts into the hash table (equivalently, given a certain occupancy ratio). This is because the 2-choice algorithm explicitly favors the hash table location that has lower occupancy, which means that it is less likely to overflow an already full location in the hash table. The standard hashing algorithm, on the other hand, pays no attention to how occupied a location is.
@@ -113,6 +117,7 @@ A [dictionary](https://xlinux.nist.gov/dads/HTML/dictionary.html) implemented wi
 ## Locality Sensitive Hashing (LSH)
 
 In computer science, locality-sensitive hashing(LSH) is an algorithmic technique that hashes similar input items into the same "buckets" with high probability.(The number of buckets are much smaller than the universe of possible input items.)Since similar items end up in the same buckets, this technique can be used for [data clustering](https://en.wikipedia.org/wiki/Cluster_analysis) and [nearest neighbor search](https://en.wikipedia.org/wiki/Nearest_neighbor_search). It differs from [conventional hashing techniques](https://en.wikipedia.org/wiki/Hash_function) in that hash collisions are maximized, not minimized. Alternatively, the technique can be seen as a way to [reduce the dimensionality](https://en.wikipedia.org/wiki/Dimension_reduction) of high-dimensional data; high-dimensional input items can be reduced to low-dimensional versions while preserving relative distances between items.
+
 Hashing-based approximate [nearest neighbor search](https://en.wikipedia.org/wiki/Nearest_neighbor_search) algorithms generally use one of two main categories of hashing methods: either data-independent methods, such as locality-sensitive hashing (LSH); or data-dependent methods, such as [Locality-preserving hashing](https://en.wikipedia.org/wiki/Locality-preserving_hashing)(LPH).
 
 https://en.wikipedia.org/wiki/Locality-sensitive_hashing

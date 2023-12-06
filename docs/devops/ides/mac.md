@@ -209,7 +209,7 @@ brew services cleanup
 - **python3**
 - moreutils
 - thefuck - https://github.com/nvbn/thefuck
-- **tldr -** https://tldr.sh> <https://github.com/tldr-pages/tldr
+- **tldr -** https://tldr.sh https://github.com/tldr-pages/tldr
 - brew install pre-commit
 - rename
 - https://fig.io

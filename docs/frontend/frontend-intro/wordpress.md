@@ -19,7 +19,7 @@ Pages - That are not part of blog, and are standalone pages like about us, conta
 ## Themes
 
 - https://generatepress.com
-- Divi Theme - https://www.elegantthemes.com> <https://www.elegantthemesdemo.com
+- Divi Theme - https://www.elegantthemes.com https://www.elegantthemesdemo.com
 - Astra
 - https://www.isitwp.com/top-wordpress-themes
 - https://rishitheme.com

@@ -38,11 +38,11 @@ https://blog.bitsrc.io/9-css-in-js-libraries-you-should-know-in-2018-25afb4025b9
 
     https://www.toptal.com/bootstrap/react-bootstrap-components
 
-5. ReactStrap - https://reactstrap.github.io> <https://github.com/reactstrap/reactstrap
+5. ReactStrap - https://reactstrap.github.io https://github.com/reactstrap/reactstrap
 6. https://github.com/bvaughn/react-virtualized
 7. https://github.com/gabrielbull/react-desktop
 8. https://github.com/rebassjs/rebass
-9. **https://github.com/grommet/grommet> (for mobile UIs) - <https://v2.grommet.io**
+9. **https://github.com/grommet/grommet (for mobile UIs) - https://v2.grommet.io**
 10. https://github.com/Semantic-Org/Semantic-UI-React
 11. https://github.com/palantir/blueprint
 12. https://github.com/microsoft/fluentui

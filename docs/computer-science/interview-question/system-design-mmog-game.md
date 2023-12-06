@@ -6,15 +6,13 @@
 
 ![image](../../media/System-Design-MMOG-Game-image1.jpg)
 
+```java
 while (true) {
-
 check_input()
-
 update_game_state()
-
 render_screen()
-
 }
+```
 
 ## Physics Engines
 
@@ -24,9 +22,7 @@ render_screen()
 ![image](../../media/System-Design-MMOG-Game-image2.jpg)
 
 1. Strategic games
-
 2. Slow turn games
-
 3. First person games
 
 ## Authoritative Server
@@ -96,11 +92,8 @@ render_screen()
 ## Game State Backup
 
 1. Important bits
-
 2. Only if changed
-
 3. Individual
-
 4. Async
 
 ## CDN

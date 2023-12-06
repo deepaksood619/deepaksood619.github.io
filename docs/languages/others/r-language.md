@@ -59,7 +59,7 @@ names(chocolateData) <- gsub("[[:space:]+]", "_", names(chocolateData)) # remove
    - lists
    - trees
    - Vectors
-   - tibble (data_frame data structure <- tidyverse package
+   - tibble (data_frame data structure - tidyverse package
       `tibble()` is a nice way to create data frames.
       - Printing
       - Subsetting

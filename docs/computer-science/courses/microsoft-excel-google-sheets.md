@@ -4,7 +4,7 @@
 
 - Timeline View
 
-https://support.google.com/docs/answer/12935277><https://www.youtube.com/watch?v=Vl0H-qTclOg&feature=youtu.be&ab_channel=freeCodeCamp.org
+https://support.google.com/docs/answer/12935277 https://www.youtube.com/watch?v=Vl0H-qTclOg&feature=youtu.be&ab_channel=freeCodeCamp.org
 
 - enter data
 - navigate through a spreadsheet
@@ -46,15 +46,15 @@ Rows - 1,048,576- Text to column
 
 [Google Sheets function list](https://support.google.com/docs/table/25273)
 
-- =IF(A4>$B$1,B4,C4)
-  - =IF(A4>$B$1,IF(B4>$C$2,B4,C4),C4)
-  - =IF(OR(A4<$B$1,B4<$C$2),C4,B4)
-  - =IF(AND(A4<$B$1,B4<$C$2),C4,B4)
-  - =IF(D7>=96,"A",IF(D7>=86,"B",IF(D7>=76,"C",IF(D7>=61,"D",IF(D7>=51,"E", "F")))))
-- =SUMIF(C6:C15,D19,D6:D15)
-- =AVERAGEIF(B5:B11,"<"&300000,C5:C11)
-- =SUMPRODUCT(B5:B7,C5:C7)/SUM(B5:B7)
-- =MID(B4,1,10)
+- `=IF(A4>$B$1,B4,C4)`
+  - `=IF(A4>$B$1,IF(B4>$C$2,B4,C4),C4)`
+  - `=IF(OR(A4<$B$1,B4<$C$2),C4,B4)`
+  - `=IF(AND(A4<$B$1,B4<$C$2),C4,B4)`
+  - `=IF(D7>=96,"A",IF(D7>=86,"B",IF(D7>=76,"C",IF(D7>=61,"D",IF(D7>=51,"E", "F")))))`
+- `=SUMIF(C6:C15,D19,D6:D15)`
+- `=AVERAGEIF(B5:B11,"<"&300000,C5:C11)`
+- `=SUMPRODUCT(B5:B7,C5:C7)/SUM(B5:B7)`
+- `=MID(B4,1,10)`
 - =IRR(B4:B8)
 - =XIRR(B5:B9,C5:C9)
 - =YEAR(B4)

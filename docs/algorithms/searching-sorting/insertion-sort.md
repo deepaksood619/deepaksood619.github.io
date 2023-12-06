@@ -18,7 +18,7 @@ Worst case - If the array is in descending order (and no duplicates), insertion 
 
 ![image](../../media/Insertion-Sort-image2.jpg)
 
-Def. An array is partially sorted if the number of inversions is <= c N.
+Def. An array is partially sorted if the number of inversions is `<=` c N.
 
 - Ex 1. A subarray of size 10 appended to a sorted subarray of size N
 - Ex 2. An array of size N with only 10 entries out of place

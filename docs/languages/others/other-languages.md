@@ -212,7 +212,7 @@ https://github.com/fluxcd/flux2
 
 ## V / Vlang
 
-Simple, fast, safe, compiled language for developing maintainable software. Supports translation from C and (soon) C++. Compiles itself in <1s.
+Simple, fast, safe, compiled language for developing maintainable software. Supports translation from C and (soon) C++. Compiles itself in `< 1s`.
 
 ### Key Features of V
 

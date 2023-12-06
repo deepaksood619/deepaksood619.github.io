@@ -453,11 +453,13 @@ Print the client and server version information
 
 ### Usage
 
+```bash
 kubectl [flags] [options]
 
 - kubectl apply -f service.yaml
 - kubectl edit deployment <container_name>
 - kubectl history deployment <container_name>
+```
 
 ## Commands
 

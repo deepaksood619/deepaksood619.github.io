@@ -1,15 +1,10 @@
 # Maximum Flow and Minimum Cut
 
 1. Introduction to Maxflow
-
 2. Ford-Fulkerson Algorithm using the shortest augmenting path rule
-
 3. Maxflow-Mincut Theorem (bipartite matching & baseball elimination)
-
 4. Running Time Analysis
-
 5. Java Implementation
-
 6. Maxflow Applications
 
 ## Mincut problem
@@ -36,7 +31,7 @@ Input: An edge-weighted digraph, source vertex s, and target vertext t
 
 Def. An st-flow (flow) is an assignment of values to the edges such that:
 
-- Capacity constraint: 0 <= edge's flow <= edge's capacity
+- Capacity constraint: `0 <= edge's flow <= edge's capacity`
 - Local equilibrium: inflow = outflow at every vertex (except s and t)
 
 ![image](../../media/Maximum-Flow-and-Minimum-Cut-image6.jpg)

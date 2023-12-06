@@ -37,7 +37,7 @@ A data type object describes interpretation of fixed block of memory correspondi
 - In case of structured type, the names of fields, data type of each field and part of the memory block taken by each field.
 - If data type is a subarray, its shape and data type
 
-The byte order is decided by prefixing '<' or '>' to data type. '<' means that encoding is little-endian (least significant is stored in smallest address). '>' means that encoding is big-endian (most significant byte is stored in smallest address).
+The byte order is decided by prefixing `<` or `>` to data type. `<` means that encoding is little-endian (least significant is stored in smallest address). `>` means that encoding is big-endian (most significant byte is stored in smallest address).
 
 A dtype object is constructed using the following syntax
 

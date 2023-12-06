@@ -94,25 +94,18 @@ Policies are defined in a JSON file and referenced to by akube-apiserverstartup 
 
 For example, the policy file shown belowauthorizes user Bob to read pods in the namespacefoobar:
 
+```json
 {
-
  "apiVersion": "abac.authorization.kubernetes.io/v1beta1",
-
   "kind": "Policy",
-
  "spec": {
-
     "user": "bob",
-
     "namespace": "foobar",
-
     "resource": "pods",
-
     "readonly": true
-
  }
-
 }
+```
 
 - RBAC (Role Based Access Control)
 
@@ -120,7 +113,7 @@ All resources are modeled API objects in Kubernetes, from Pods to Namespaces. Th
 
 Rules are operations which can act upon an API group. Roles are a group of rules which affect, or scope, a single namespace, whereas **ClusterRoles** have a scope of the entire cluster.
 
-Each operation can act upon one of three subjects, which are**User Accounts** which don't exist as API objects, **Service Accounts**, and **Groups** which are known as **clusterrolebinding** when using kubectl.
+Each operation can act upon one of three subjects, which are **User Accounts** which don't exist as API objects, **Service Accounts**, and **Groups** which are known as **clusterrolebinding** when using kubectl.
 
 RBAC is then writing rules to allow or deny operations by users, roles or groups upon resources.
 
@@ -173,29 +166,22 @@ This security limitation is called a security context. It can be defined for the
 
 For example, if you want to enforce a policy that containers cannot run their process as the root user, you can add a pod security context like the one below:
 
+```yaml
 apiVersion: v1
-
 kind: Pod
-
 metadata:
-
 name: nginx
-
 spec:
-
 securityContext:
-
   runAsNonRoot: true
-
 containers:
-
 - image: nginx
-
   name: nginx
+```
 
 Then, when you create this Pod, you will see a warning that the container is trying to run as root and that it is not allowed. Hence, the Pod will never run:
 
-$ kubectl get pods
+`$ kubectl get pods`
 
 NAME READY STATUS RESTARTS AGE
 
@@ -207,7 +193,7 @@ https://kubernetes.io/docs/tasks/configure-pod-container/security-context
 
 Pod Security Policies enable fine-grained authorization of pod creation and updates.
 
-APod Security Policyis a cluster-level resource that controls security sensitive aspects of the pod specification. ThePodSecurityPolicyobjects define a set of conditions that a pod must run with in order to be accepted into the system, as well as defaults for the related fields.
+APod Security Policy is a cluster-level resource that controls security sensitive aspects of the pod specification. ThePodSecurityPolicyobjects define a set of conditions that a pod must run with in order to be accepted into the system, as well as defaults for the related fields.
 
 To automate the enforcement of security contexts, you can define [PodSecurityPolicies](https://kubernetes.io/docs/concepts/policy/pod-security-policy/)(PSP). A PSP is defined via a standard Kubernetes manifest following the PSP API schema. An example is presented below.
 
@@ -225,31 +211,21 @@ OPA can be deployed as an admission controller inside of Kubernetes, which allow
 
 You can see an example of a PSP below:
 
+```yaml
 apiVersion: policy/v1beta1
-
 kind: PodSecurityPolicy
-
 metadata:
-
 name: restricted
-
 spec:
-
 seLinux:
-
   rule: RunAsAny
-
 supplementalGroups:
-
  rule: RunAsAny
-
 runAsUser:
-
   rule: MustRunAsNonRoot
-
 fsGroup:
-
  rule: RunAsAny
+```
 
 For Pod Security Policies to be enabled, you need to configure the admission controller of the controller-manager to containPodSecurityPolicy. These policies make even more sense when coupled with theRBAC configuration in your cluster. This will allow you to finely tunewhat your users are allowed to run and what capabilities and low level privileges their containers will have.
 
@@ -275,68 +251,42 @@ Only Pods with the label ofrole: dbwill be affected by this policy, and the poli
 
 Theingresssetting includes a172.17network, with a smaller range of172.17.1.0IPs being excluded from this traffic.
 
+```yaml
 apiVersion: networking.k8s.io/v1
-
 kind: NetworkPolicy
-
 metadata:
-
 name: ingress-egress-policy
-
 namespace: default
-
 spec:
-
 podSelector:
-
  matchLabels:
-
   role: db
-
  policyTypes:
-
 - Ingress
 - Egress
-
 ingress:
-
 - from:
 - ipBlock:
-
    cidr: 172.17.0.0/16
-
    except:
   - 172.17.1.0/24
 - namespaceSelector:
-
   matchLabels:
-
    project: myproject
-
 - podSelector:
-
   matchLabels:
-
    role: frontend
-
  ports:
-
 - protocol: TCP
-
  port: 6379
-
 egress:
-
 - to:
 - ipBlock:
-
   cidr: 10.0.0.0/24
-
 ports:
-
 - protocol: TCP
-
  port: 5978
+```
 
 These rules change the namespace for the following settings to be labeledproject: myproject. The affected Pods also would need to match the labelrole: frontend. Finally, TCP traffic on port 6379 would be allowed from these Pods.
 
@@ -348,20 +298,15 @@ The use of empty ingress or egress rules denies all type of traffic for the incl
 
 The empty braces will match all Pods not selected by otherNetworkPolicyand will not allow ingress traffic. Egress traffic would be unaffected by this policy.
 
+```yaml
 apiVersion: networking.k8s.io/v1
-
 kind: NetworkPolicy
-
 metadata:
-
 name: default-deny
-
 spec:
-
 podSelector: {}
-
 policyTypes:
-
 - Ingress
+```
 
 https://kubernetes.io/docs/concepts/services-networking/network-policies

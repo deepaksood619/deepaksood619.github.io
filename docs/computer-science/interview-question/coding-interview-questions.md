@@ -76,7 +76,7 @@ len(list(permutations('abcde', 5)))
 ## Others
 
 - https://www.geeksforgeeks.org/split-the-given-array-into-k-sub-arrays-such-that-maximum-sum-of-all-sub-arrays-is-minimum
-- https://practice.geeksforgeeks.org/problems/lru-cache/1>- **Interview (medium difficulty) - <https://practice.geeksforgeeks.org/problems/largest-even-number3821/1#_=_**
+- https://practice.geeksforgeeks.org/problems/lru-cache/1- **Interview (medium difficulty) - https://practice.geeksforgeeks.org/problems/largest-even-number3821/1#_=_**
 - **Easy (5-10 mins max) - [https://practice.geeksforgeeks.org/problems/leaders-in-an-array-1587115620/1#](https://practice.geeksforgeeks.org/problems/leaders-in-an-array-1587115620/1)**
 - **Easy (5-10 mins max) - https://practice.geeksforgeeks.org/problems/non-repeating-element3958/1**
 - [**https://practice.geeksforgeeks.org/problems/trapping-rain-water-1587115621/1**](https://practice.geeksforgeeks.org/problems/trapping-rain-water-1587115621/1)
@@ -90,10 +90,10 @@ len(list(permutations('abcde', 5)))
 - https://www.geeksforgeeks.org/print-nodes-at-k-distance-from-root
 - https://www.geeksforgeeks.org/tree-isomorphism-problem
 - https://practice.geeksforgeeks.org/problems/determine-if-two-trees-are-identical/1
-- https://practice.geeksforgeeks.org/problems/check-for-balanced-tree/1>- **Medium (O(n)/O(nlogn) - 10 mins, corner cases) - <https://www.hackerrank.com/challenges/flatland-space-stations/problem**
+- https://practice.geeksforgeeks.org/problems/check-for-balanced-tree/1- **Medium (O(n)/O(nlogn) - 10 mins, corner cases) - https://www.hackerrank.com/challenges/flatland-space-stations/problem**
 - **Medium - https://www.hackerrank.com/challenges/bigger-is-greater/problem**
 - **Medium - https://www.hackerrank.com/challenges/beautiful-triplets/problem**
-- **Medium - https://www.hackerrank.com/challenges/kaprekar-numbers/problem>** - <https://practice.geeksforgeeks.org/problems/coin-change2448/1
+- **Medium - https://www.hackerrank.com/challenges/kaprekar-numbers/problem** - https://practice.geeksforgeeks.org/problems/coin-change2448/1
 - Medium - [Climbing the Leaderboard | HackerRank](https://www.hackerrank.com/challenges/climbing-the-leaderboard/problem?isFullScreen=true)
 
 ## Sources

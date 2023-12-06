@@ -10,7 +10,7 @@
 ## Bootstrap
 
 - Bootstrapping is an algorithm which produces replicas of a data set by doing random sampling with replacement. This idea is essential for the random forest algorithm
-- Consider a dataset Z={(x1, y1),...,(xn,yn)}
+- Consider a dataset `Z={(x1, y1),...,(xn,yn)}`
 - Bootstrapped dataset Z* - It is a modification of the original dataset Z, produced by random sampling with replacement.
 
 ## Sampling with Replacement
@@ -55,7 +55,7 @@
 
 ## Why does bagging work?
 
-- Model f(x) has higher predictive power than any single f^xb^(x), b=1,...,B
+- Model f(x) has higher predictive power than any single `f^xb^(x), b=1,...,B`
 - Most of situations with any machine learning method in the core, the quality of such aggregated predictions will be better than of any single prediction
 - The phenomenon is based on a very general principle which is called the bias variance trade off. You can consider the training data set to be random by itself.
 
@@ -85,12 +85,12 @@
 ## How to grow a random forest decision tree
 
 - The tree is built **greedily** from top to bottom
-- Select m <= p of the input variables at random as candidates for splitting
+- Select `m <= p` of the input variables at random as candidates for splitting
 - Each split is selected to maximize information gain (IG)
 
 ![image](../../media/Predictive-Analytics-1-image10.jpg)
 
-- Select m <= p of the input variables at random as candidates for splitting
+- Select `m <= p` of the input variables at random as candidates for splitting
 - Recommendations from inventors of Random Forests
 - m = sqroot(p) for classification, minInstance PerNode = 1
 - m = p/3 for regression, minInstancePerNode = 5

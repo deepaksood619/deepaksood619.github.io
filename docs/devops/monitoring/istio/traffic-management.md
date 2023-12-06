@@ -21,45 +21,28 @@ Using this service registry, the Envoy proxies can then direct traffic to the re
 - A virtual service lets you configure how requests are routed to a service within an Istio service mesh, building on the basic connectivity and discovery provided by Istio and your platform. Each virtual service consists of a set of routing rules that are evaluated in order, letting Istio match each given request to the virtual service to a specific real destination within the mesh. Your mesh can require multiple virtual services or none depending on your use case.
 - Service subsets
 
+```yaml
 apiVersion: networking.istio.io/v1alpha3
-
 kind: VirtualService
-
 metadata:
-
 name: reviews
-
 spec:
-
 hosts:
-
 - reviews
-
 http:
-
 - match:
-
 - headers:
-
 end-user:
-
 exact: jason
-
 route:
-
 - destination:
-
 host: reviews
-
 subset: v2
-
 - route:
-
 - destination:
-
 host: reviews
-
 subset: v3
+```
 
 ## Destination Rules
 
@@ -76,56 +59,43 @@ Destination rules also let you customize Envoy's traffic policies when calling t
 - Weighted
 - Least requests
 
+```yaml
 apiVersion: networking.istio.io/v1alpha3
-
 kind: DestinationRule
-
 metadata:
-
 name: my-destination-rule
-
 spec:
-
 host: my-svc
-
 trafficPolicy:
-
 loadBalancer:
-
 simple: RANDOM
-
 subsets:
-
 - name: v1
-
 labels:
-
 version: v1
-
 - name: v2
-
 labels:
-
 version: v2
+```
 
 ## trafficPolicy
 
+```yaml
 loadBalancer:
-
 simple: ROUND_ROBIN
-
 - name: v3
-
 labels:
-
 version: v3
+```
 
 ## Sticky session
 
+```yaml
 trafficPolicy:
 loadBalancer:
 consistentHash:
 httpHeaderName: x-user
+```
 
 https://dev.to/peterj/what-are-sticky-sessions-and-how-to-configure-them-with-istio-1e1a
 
@@ -139,41 +109,26 @@ Unlike other mechanisms for controlling traffic entering your systems, such as t
 
 Gateways are primarily used to manage ingress traffic, but you can also configure egress gateways. An egress gateway lets you configure a dedicated exit node for the traffic leaving the mesh, letting you limit which services can or should access external networks, or to enable [secure control of egress traffic](https://istio.io/blog/2019/egress-traffic-control-in-istio-part-1/) to add security to your mesh, for example. You can also use a gateway to configure a purely internal proxy.
 
+```yaml
 apiVersion: networking.istio.io/v1alpha3
-
 kind: Gateway
-
 metadata:
-
 name: ext-host-gwy
-
 spec:
-
 selector:
-
 app: my-gateway-controller
-
 servers:
-
 - port:
-
 number: 443
-
 name: https
-
 protocol: HTTPS
-
 hosts:
-
 - ext-host.example.com
-
 tls:
-
 mode: SIMPLE
-
 serverCertificate: /tmp/tls.crt
-
 privateKey: /tmp/tls.key
+```
 
 ## Service Entries
 
@@ -188,31 +143,21 @@ You don't need to add a service entry for every external service that you want y
 
 You can configure virtual services and destination rules to control traffic to a service entry in a more granular way, in the same way you configure traffic for any other service in the mesh.
 
+```yaml
 apiVersion: networking.istio.io/v1alpha3
-
 kind: ServiceEntry
-
 metadata:
-
 name: svc-entry
-
 spec:
-
 hosts:
-
 - ext-svc.example.com
-
 ports:
-
 - number: 443
-
 name: https
-
 protocol: HTTPS
-
 location: MESH_EXTERNAL
-
 resolution: DNS
+```
 
 ## Sidecars
 
@@ -275,14 +220,17 @@ This is where the BlackHole and Passthrough clusters are used.
 
 The BlackHoleCluster is a virtual cluster created in the Envoy configuration whenglobal.outboundTrafficPolicy.modeis set toREGISTRY_ONLY. In this mode, all traffic to external service is blocked unless [service entries](https://istio.io/latest/docs/reference/config/networking/service-entry) are explicitly added for each service. To implement this, the default virtual outbound listener at0.0.0.0:15001which uses [original destination](https://www.envoyproxy.io/docs/envoy/latest/intro/arch_overview/upstream/service_discovery#original-destination) is setup as a TCP Proxy with the BlackHoleCluster as the static cluster. The configuration for the BlackHoleCluster looks like this:
 
+```json
 {
 "name": "BlackHoleCluster",
 "type": "STATIC",
 "connectTimeout": "10s"
 }
+```
 
 As you can see, this cluster is static with no endpoints so all the traffic will be dropped. Additionally, Istio creates unique listeners for every port/protocol combination of platform services which gets hit instead of the virtual listener if the request is made to an external service on the same port. In that case, the route configuration of every virtual route in Envoy is augmented to add the BlackHoleCluster like this:
 
+```json
 {
 "name": "block_all",
 "domains": [
@@ -299,6 +247,7 @@ As you can see, this cluster is static with no endpoints so all the traffic will
 }
 ]
 }
+```
 
 The route is setup as [direct response](https://www.envoyproxy.io/docs/envoy/latest/api-v2/api/v2/route/route_components.proto#envoy-api-field-route-route-direct-response) with502response code which means if no other routes match the Envoy proxy will directly return a502HTTP status code.
 
@@ -306,6 +255,7 @@ The route is setup as [direct response](https://www.envoyproxy.io/docs/envoy/lat
 
 The PassthroughCluster is a virtual cluster created in the Envoy configuration whenglobal.outboundTrafficPolicy.modeis set toALLOW_ANY. In this mode, all traffic to any external service external is allowed. To implement this, the default virtual outbound listener at0.0.0.0:15001which usesSO_ORIGINAL_DST, is setup as a TCP Proxy with the PassthroughCluster as the static cluster. The configuration for the PassthroughCluster looks like this:
 
+```json
 {
 "name": "PassthroughCluster",
 "type": "ORIGINAL_DST",
@@ -320,11 +270,13 @@ The PassthroughCluster is a virtual cluster created in the Envoy configuration w
 ]
 }
 }
+```
 
 This cluster uses the [original destination load balancing](https://www.envoyproxy.io/docs/envoy/latest/intro/arch_overview/upstream/service_discovery#original-destination) policy which configures Envoy to send the traffic to the original destination i.e. passthrough.
 
 Similar to the BlackHoleCluster, for every port/protocol based listener the virtual route configuration is augmented to add the PassthroughCluster as the default route:
 
+```json
 {
 "name": "allow_any",
 "domains": [
@@ -341,6 +293,7 @@ Similar to the BlackHoleCluster, for every port/protocol based listener the virt
 }
 ]
 }
+```
 
 Prior to Istio 1.3, there were no metrics reported or if metrics were reported there were no explicit labels set when traffic hit these clusters, resulting in lack of visibility in traffic flowing through the mesh.
 
