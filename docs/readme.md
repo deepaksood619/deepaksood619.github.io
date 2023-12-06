@@ -38,13 +38,13 @@ If this is your first time visiting this wiki, start from the outline below and 
 
 ## Size of Wiki
 
-Below are my 1900+ notes & their relations visualized using Obsidian.
+Below are my 2100+ notes & their relations visualized using Obsidian.
 
 ![All Notes Visualized in an Obsidian Graph](media/notes-visualized.jpg)
 
 ![All Notes Visualized Zoomed in an Obsidian Graph](media/notes-visualized-zoom.jpg)
 
-This wiki is large. 130,000+ lines of markdown (calculated with [loc](https://github.com/cgag/loc))
+This wiki is large. 137,000+ lines of markdown (calculated with [loc](https://github.com/cgag/loc))
 
 ```bash
 loc
@@ -52,14 +52,14 @@ loc
 --------------------------------------------------------------------------------
  Language             Files        Lines        Blank      Comment         Code
 --------------------------------------------------------------------------------
- Markdown              2008       198771        67986            0       130785
- JSON                     3        14516            0            0        14516
- JavaScript               3          203           18           66          119
+ Markdown              2100       208530        70539            0       137991
+ JSON                     3        16782            0            0        16782
+ JavaScript               3          212           18           69          125
  CSS                      1           30            2            7           21
- YAML                     1           44            4           20           20
- Plain Text               1            2            0            0            2
+ YAML                     1           49            5           23           21
+ Plain Text               2            3            0            0            3
 --------------------------------------------------------------------------------
- Total                 2017       213566        68010           93       145463
+ Total                 2110       225606        70564           99       154943
 --------------------------------------------------------------------------------
 ```
 
@@ -97,11 +97,11 @@ If you found this helpful, please consider making a donation to support my work.
 
 Eth: Ethereum MainNet - 0xC629700c063c9848c2D09e79248d39b997fAD48E
 
-BTC - bc1qfpm3x5qcr6su8ndq8afmw6u5hzdwpyauwkdcdf
+BTC: bc1qfpm3x5qcr6su8ndq8afmw6u5hzdwpyauwkdcdf
 
 DFI: DFI Chain - df1qtzjm8z8vp05klug8jvhyjnjpg48jqevel9v43r
 
-Paypal - [deepaksood619](https://paypal.me/deepaksood619?country.x=IN&locale.x=en_GB)
+Paypal: [deepaksood619](https://paypal.me/deepaksood619?country.x=IN&locale.x=en_GB)
 
 ## Contact
 
