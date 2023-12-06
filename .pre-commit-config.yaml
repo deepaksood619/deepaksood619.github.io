@@ -19,3 +19,10 @@ repos:
       hooks:
         - id: markdownlint
         - id: markdownlint-fix
+    - repo: local
+      hooks:
+        - id: docusaurus-mdx-checker
+          name: docusaurus-mdx-checker
+          entry: docusaurus-mdx-checker.sh
+          language: script
+          pass_filenames: false

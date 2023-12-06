@@ -23,12 +23,12 @@
 - Migrate all APIs - Type Hint
 - LMS main search and page migrate using Django Admin
 - Migrate everything to Python (Django + Flask)
-  - Cron jobs + APIs (Every <10 mins cron must be removed)
+  - Cron jobs + APIs (Every `<10 mins` cron must be removed)
   - UserDevice data
   - Authentication & authorization system
   - Logging / Monitoring / Scalability
 - Redis Queue for event based system
-  - Every <10 mins cron must be removed
+  - Every `<10 mins` cron must be removed
 - DB Break into multiple components (start moving schema to multiple schemas)
   - DB data consistency (column contraints)
   - Data Models ER Diagram with Foreign Key Contraints
