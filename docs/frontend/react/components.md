@@ -117,13 +117,9 @@ render() {
 ## Converting a Function to a Class
 
 1. Create an [ES6 class](https://developer.mozilla.org/en/docs/Web/JavaScript/Reference/Classes), with the same name, that extendsReact.Component.
-
 2. Add a single empty method to it calledrender().
-
 3. Move the body of the function into therender()method.
-
-4. Replacepropswiththis.propsin therender()body.
-
+4. Replace props with `this.props` in therender()body.
 5. Delete the remaining empty function declaration.
 
 ```js
@@ -157,7 +153,7 @@ Returning null from a component's render method does not affect the firing of th
     onChange={event => this.setState({ term: event.target.value })} />
 ```
 
-When we set the attribute value to {this.state.term}, this makes the component a controller form element. In this configuration, value is updated when state is updated and not the other way around. this.setState causes the element to re-render and when the component re-render its value is updated to this.state.term.
+When we set the attribute value to `{this.state.term}`, this makes the component a controller form element. In this configuration, value is updated when state is updated and not the other way around. this.setState causes the element to re-render and when the component re-render its value is updated to `this.state.term`.
 
 Whenever we have a key and value same for a json
 
@@ -191,6 +187,6 @@ const VideoList = (props) => {
 
 ## Controlled Input Null Value
 
-Specifying thevalueprop on a [controlled component](https://reactjs.org/docs/forms.html#controlled-components) prevents the user from changing the input unless you desire so. If you've specified avaluebut the input is still editable, you may have accidentally setvaluetoundefinedornull.
+Specifying thevalueprop on a [controlled component](https://reactjs.org/docs/forms.html#controlled-components) prevents the user from changing the input unless you desire so. If you've specified avaluebut the input is still editable, you may have accidentally set value to undefined or null.
 
 https://reactjs.org/docs/forms.html
