@@ -59,6 +59,10 @@ swizzling permits to **swap a theme component with your own implementation**, a
 
 ### Upgrading from v2 to v3
 
+[Announcing Docusaurus 3.0 | Docusaurus](https://docusaurus.io/blog/releases/3.0)
+
+[Upgrading to Docusaurus v3 | Docusaurus](https://docusaurus.io/docs/migration/v3)
+
 ```bash
 # check if all files compile successfully
 npx docusaurus-mdx-checker

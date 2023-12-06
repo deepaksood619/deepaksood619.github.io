@@ -11,4 +11,7 @@
 - [Chemistry Outline](chemistry-outline)
 - [News](knowledge/others/news-problems.md)
 - [Clothes / Textiles](knowledge/others/clothes-textiles.md)
-- [Others](knowledge/others/others.md)
+
+## Art
+
+[Artemisia Gentileschi: The woman behind the paintings - Allison Leigh - YouTube](https://www.youtube.com/watch?v=v7Xl6a4J7Wk)
