@@ -62,7 +62,7 @@ https://towardsdatascience.com/why-quizlet-chose-apache-airflow-for-executing-da
 
 https://github.com/apache/airflow/blob/master/airflow/config_templates/default_airflow.cfg
 
-### Maintainance Task Dags - https://github.com/teamclairvoyant/airflow-maintenance-dags
+### Maintenance Task Dags - https://github.com/teamclairvoyant/airflow-maintenance-dags
 
 ### Testing - https://godatadriven.com/blog/testing-and-debugging-apache-airflow
 

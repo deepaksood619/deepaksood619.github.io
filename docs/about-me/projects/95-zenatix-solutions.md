@@ -130,8 +130,9 @@ Demo, presentation and meetings with Director General (Shri Abhay Bakre) and Dir
 - Data pipeline created using paho, emqtt, kafka-connect source, kafka, kafka consumer, smap
 - Dashboards - Kafka-manager, topics-ui, schema-registry-ui, emqx dashboard, confluent control-center
 - Deployed airflow, moved all cronjobs to airflow (Airflow Kubernetes Executor / Celery workers)
+- Load testing using Locust with 100s of distributed workers
 
-### Code Maintainance
+### Code Maintenance
 
 - Moved from Django 1.9 to Django 1.11 with other supporting libraries and tools
 - Setup standards for following good coding practices
@@ -142,7 +143,7 @@ Demo, presentation and meetings with Director General (Shri Abhay Bakre) and Dir
   - Dashboard
 - Moved from Python 2.7 to Python 3.7
 
-### Mangement
+### Management
 
 - Documentation reviews
 - New joinees onboarding and training
@@ -150,7 +151,7 @@ Demo, presentation and meetings with Director General (Shri Abhay Bakre) and Dir
 - Engagement with third party vendors (OpsTree), reviewing their work and guiding them througout.
 - Code Review
 
-### Core Infrastructure Team/Platform Engineering
+### Core Infrastructure Team / Platform Engineering
 
 ### Database Administrator
 

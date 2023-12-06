@@ -18,13 +18,13 @@ Open source machine learning tools for developers to build, improve, and deploy 
 
 ## Types of product chatbots
 
-Customer Service Bots
+### Customer Service Bots
 
    1. Welcome Bots
    2. Resolution Bots
    3. Navigation Bots
 
-E-Commerce Bots
+### E-Commerce Bots
 
    1. Sales Bots
    2. Product Recommendation Bots
@@ -333,108 +333,3 @@ https://info.rasa.com/poc-to-production-whitepaper
 ## Chatbot strategy
 
 ![image](../../media/NLP_Chatbot-chatops-image10.jpg)
-
-## Chats: Human and Bots
-
-- IT helpdesk chatbot
-- Intercom
-
-- **tawk (Free)**
-
-Monitor and chat with the visitors on your website, respond to support tickets and create a help center to empower customers to help themselves -- all 100% Free
-
-https://www.tawk.to
-
-- https://www.chatify.com/tawkto-alternative
-- https://www.tidio.com
-
-- Dialogflow
-- rasa
-
-## Intercom
-
-https://www.intercom.com/help/en/articles/3568632-how-task-bots-custom-bots-and-resolution-bot-work
-
-Operator is the automation technology that powers all of Intercom's bots. Depending on which bot you're using, Operator will step in to help automate a simple task, answer a question, route customers to the correct inbox, and more.
-
-Resolution Bot answers common customer questions using automation and machine learning.
-
-Custom Bots are used to both proactively and reactively qualify leads, route customers to the correct team, and engage users and visitors on your website.
-
-Task bots are triggered by actions that customers take on your website or app.
-
-## Others
-
-https://www.tidio.com/blog/chatbot-framework
-
-## Conversation design workflow
-
-https://medium.com/voice-tech-podcast/conversation-design-workflow-how-to-design-your-chatbot-in-10-basic-steps-721652b056d
-
-https://ai.facebook.com/blog/state-of-the-art-open-source-chatbot
-
-[**https://github.com/botpress/botpress**](https://github.com/botpress/botpress)
-
-docker run -d --name=botpress -p 3000:3000 botpress/server
-
-[Building a Cool Bot with Botpress](https://www.youtube.com/playlist?list=PLlJHGGklthGmFnbXHI6--kgJO3ZyFS9mD)
-
-https://github.com/howdyai/botkit
-
-https://github.com/botman/botman
-
-https://github.com/wit-ai
-
-## SAAS
-
-- **Dialogflow**
-
-[Dialogflow](https://dialogflow.com/docs/getting-started/basics) is a conversation building tool. It takes the human language and cleverly splits it into intents and arguments.
-
-- Agents
-- Intents
-- Entities
-- Contexts
-- Fulfillment
-
-- Amazon Lex
-- yellowmessenger chatbot (Ex - https://www.gripinvest.in)
-- Kuba from LiveChat
-- https://getstream.io/chat
-- https://sendbird.com
-- Sales - https://www.heyday.ai
-- https://netcorecloud.com
-- https://getcogno.ai
-
-https://tiledesk.com
-
-https://www.dashbot.io
-
-Turn your unstructured chatbot data into immediate action. Identify unhandled and mishandled intents. Improve escalation and failure rates by more than 30%.
-
-https://simplify360.com/
-
-## Examples
-
-https://goldenpi.com
-
-https://www.wintwealth.com (WhatsApp Strategy)
-
-## Use Cases
-
-- Customer service
-- Customer routing
-- Customer intake
-- Retain & product selection
-- Surveys
-- Booking services
-- Delivery services
-- Location-based search
-
-Business motivation for implementing virtual assistants in companies
-
-- End users need 24 hour support
-- Cost savings
-- Employee productivity
-- High or fluctuating contact center volume
-- Brand loyalty

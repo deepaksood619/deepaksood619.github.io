@@ -43,7 +43,13 @@
 - Play Store Rating
 - Quality Audit Score
 - RBI Escalation
+- Number of Tickets resolved/pending
 
 ### Creating and maintaining product roadmaps
 
 ![product-roadmap-example](../../media/Pasted%20image%2020231201183958.png)
+
+## Links
+
+- [Chatbot / Chatops](ai/nlp/chatbot-chatops.md)
+- [Chatbot SAAS](ai/nlp/chatbot-saas.md)

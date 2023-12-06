@@ -1,9 +1,11 @@
-# Readme
+# Projects
 
 ## Office Projects
 
 - [Bake.io Data Engineering](about-me/projects/75-bake-io-data-engineering.md) (Mar'23 - Nov'23)
 - [Stashfin](about-me/projects/80-stashfin.md) (Feb'20 - Feb'23)
+- [Stashfin Terms](about-me/projects/81-stashfin-terms.md) (Feb'20 - Feb'23)
+- [Stashfin Metrics](about-me/projects/82-stashfin-metrics.md)  (Feb'20 - Feb'23)
 - [Stashfin Customer Support](about-me/projects/86-stashfin-customer-support.md) (Nov'22 - Feb'23)
 - [Stashfin Team Management / Culture](about-me/projects/87-stashfin-team-management-culture.md) (Sep'21 - Feb'23)
 - [Stashfin Security IAM APIs](about-me/projects/88-stashfin-security-iam-apis.md) (Feb'20 - Feb'23)
