@@ -7,21 +7,21 @@
 3. [Special right triangles](https://www.khanacademy.org/math/geometry/hs-geo-trig#hs-geo-special-right-triangles)
     - 30-60-90 triangle rule
 
-![image](../../media/Right-Triangles-and-Geometry-image1.jpg)
+    ![image](../../media/Right-Triangles-and-Geometry-image1.jpg)
 
 4. [Introduction to the trigonometric ratios](https://www.khanacademy.org/math/geometry/hs-geo-trig#hs-geo-trig-ratios-intro)
 
-![image](../../media/Right-Triangles-and-Geometry-image2.jpg)
+    ![image](../../media/Right-Triangles-and-Geometry-image2.jpg)
 
-Mnemonic - SOH CAH TOA
+    Mnemonic - SOH CAH TOA
 
-Sine - Opposite / Hypotenuse
+    Sine - Opposite / Hypotenuse
 
-Cosine - Adjacent / Hypotenuse
+    Cosine - Adjacent / Hypotenuse
 
-Tangent - Opposite / Adjacent
+    Tangent - Opposite / Adjacent
 
-![image](../../media/Right-Triangles-and-Geometry-image3.jpg)
+    ![image](../../media/Right-Triangles-and-Geometry-image3.jpg)
 
 5. [Solving for a side in a right triangle using the trigonometric ratios:](https://www.khanacademy.org/math/geometry/hs-geo-trig#hs-geo-solve-for-a-side)
 
@@ -35,8 +35,6 @@ Tangent - Opposite / Adjacent
 
 10. [Law of sines](https://www.khanacademy.org/math/geometry/hs-geo-trig#hs-geo-law-of-sines)
 
-11. [Law of cosines](https://www.khanacademy.org/math/geometry/hs-geo-trig#hs-geo-law-of-cosines)
-
-C^2^ = A^2^ + B^2^ - 2.A.B.cos **Θ**
+11. [Law of cosines](https://www.khanacademy.org/math/geometry/hs-geo-trig#hs-geo-law-of-cosines) `C^2^ = A^2^ + B^2^ - 2.A.B.cos **Θ**`
 
 12. [Solving general triangles](https://www.khanacademy.org/math/geometry/hs-geo-trig#hs-geo-solving-general-triangles)

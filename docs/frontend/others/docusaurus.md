@@ -7,7 +7,7 @@ cd my-website
 
 npm start
 
-npx docusaurus start
+# npx docusaurus start
 
 # http://localhost:3000
 
@@ -56,3 +56,10 @@ swizzling permits to **swap a theme component with your own implementation**, a
 [📦 plugin-google-gtag | Docusaurus](https://docusaurus.io/docs/api/plugins/@docusaurus/plugin-google-gtag)
 
 [📦 plugin-content-docs | Docusaurus](https://docusaurus.io/docs/api/plugins/@docusaurus/plugin-content-docs)
+
+### Upgrading from v2 to v3
+
+```bash
+# check if all files compile successfully
+npx docusaurus-mdx-checker
+```

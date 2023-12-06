@@ -70,6 +70,7 @@ Open two instance of same application - **open -n MQTT.fx.app**
   - Auto Save - afterDelay
   - enablePreview - off
   - terminal.integrated.scrollback - 100000
+  - Window: Open Folders In New Window - On
 
 - **Google Drive for mac**
 - ~~bittorrent web~~
