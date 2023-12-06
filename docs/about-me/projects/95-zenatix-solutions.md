@@ -162,3 +162,11 @@ Demo, presentation and meetings with Director General (Shri Abhay Bakre) and Dir
 - Kafka
 - VoltDB/LevelDB (VerneMQ)
 - MongoDB
+
+### Wattman and Wattman Lite: IOT based Energy Monitoring
+
+Wattman is an IOT based energy monitoring solution which captures data from various sources and provide real time monitoring and control for HVAC systems.
+
+https://play.google.com/store/apps/details?id=com.zenatix.smartaccontrol&hl=en
+
+https://zenatix.com/products

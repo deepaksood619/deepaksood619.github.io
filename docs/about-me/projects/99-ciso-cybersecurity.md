@@ -1,4 +1,4 @@
-## CISO Cybersecurity
+# CISO Cybersecurity
 
 - Implemented face detection using Viola-Jones Algorithm, corner detection using fixed points, Live Video Streaming using ffmpeg with scripting in python and product development using Java, Spring and Java-FX
 - Stack: MySQL, Redis, Java, Spring, Python, REST
@@ -9,7 +9,19 @@ Worked on core and advance java, face detection using Viola-Jones Algorithm, cor
 
 Products - Testpad, Proctor and Test Engine (nodejs, MSS and MS)
 
-## Other Projects
+### Digiproctor / DigiInABox / Testpad / Proctor / MSS(Media Streaming Server) / MS (Media Web Server)
+
+Digiproctor: Test Management Platform with Live Proctoring
+
+CISO Cybersecurity Pvt. Ltd.
+
+Used ffmpeg to stream live video capture of both screen and webcam over UDP for remote proctoring with all the streams recorded and archived.
+
+http://cisocybersecurity.com
+
+https://demo.digiproctor.com
+
+[CISO Cybersecurity](about-me/projects/99-ciso-cybersecurity.md)
 
 ### FFMPEG live streaming of videos from candidates to proctor
 

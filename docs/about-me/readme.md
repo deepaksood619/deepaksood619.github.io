@@ -2,9 +2,7 @@
 
 - [Resume](https://bit.ly/deepak_sood_resume)
 - [Experience](experience)
-- [Projects](projects)
-  - [Interview - Datainsight / Alerting Engine](about-me/projects/70-interview-datainsight-alerting-engine.md)
-  - [All projects outline](about-me/projects/readme.md)
+- [Projects](about-me/projects/readme.md)
 - [Paper / Publications / References](paper-publications-references)
 - [Courses / Certifications](courses-certificates)
 - [Achievements / Activities / Awards](achievements-activities-awards)
