@@ -97,7 +97,7 @@ failing.set_upstream(start)
 
 ```
 
-## Maintainance Dags
+## Maintenance Dags
 
 - clear-missing-dags
   - A maintenance workflow that you can deploy into Airflow to periodically clean out entries in the DAG table of which there is no longer a corresponding Python File for it. This ensures that the DAG table doesn't have needless items in it and that the Airflow Web Server displays only those available DAGs.

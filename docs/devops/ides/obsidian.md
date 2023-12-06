@@ -215,27 +215,14 @@ https://hikerpig.github.io/foam-jekyll-template
 
 ## Others
 
-- [**https://github.com/logseq/logseq**](https://github.com/logseq/logseq)
-
-    A privacy-first, open-source platform for knowledge management and collaboration
-
+- [**https://github.com/logseq/logseq**](https://github.com/logseq/logseq) - A privacy-first, open-source platform for knowledge management and collaboration
 - [**https://github.com/foambubble/foam**](https://github.com/foambubble/foam)
-
 - https://wiki.dendron.so
 - https://github.com/standardnotes/app
 - Roam Research
-- https://www.producthunt.com/posts/heyday-4
-
-    Automatically organize content - without learning a new app
-
-- https://www.producthunt.com/posts/reflect-notes
-
-    Fast networked note-taking
-
-- Notion
-
-    [The ULTIMATE Second Brain Setup in Notion](https://www.youtube.com/watch?v=vs8WQh2k-Ow)
-
+- https://www.producthunt.com/posts/heyday-4 - Automatically organize content - without learning a new app
+- https://www.producthunt.com/posts/reflect-notes - Fast networked note-taking
+- Notion - [The ULTIMATE Second Brain Setup in Notion](https://www.youtube.com/watch?v=vs8WQh2k-Ow)
 - AppFlowy - Open-source alternative to Notion
 - https://anytype.io/en
 - [Dendron](https://www.dendron.so/)
