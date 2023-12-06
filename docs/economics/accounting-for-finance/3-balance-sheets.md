@@ -51,7 +51,7 @@
 
 - Current liabilities can be broadly broken into three groups:
   - Non-interest-bearing liabilities, such as accounts payable an supplier credit, which represent part of normal operations.
-  - Interest-bearing short-term borrowings such as commercial paper, short term debt and the short term portion (<1 year) of long term debt.
+  - Interest-bearing short-term borrowings such as commercial paper, short term debt and the short term portion (`<1 year`) of long term debt.
   - Deferred salaries, taxes and other amounts due in the short term.
 - When computing non-cash working capital, we do not include interest-bearing short term debt in the calculation, moving it instead into the debt column
 

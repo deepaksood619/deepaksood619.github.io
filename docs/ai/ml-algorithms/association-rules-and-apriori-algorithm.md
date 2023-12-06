@@ -10,21 +10,21 @@
 
 - **Itemset**
   - A collection of one or more items
-    - Example: {Milk, Bread, Diaper}
+    - Example: `{Milk, Bread, Diaper}`
   - k-itemset
     - An itemset that contains k items
 - **Support count (σ)**
   - Frequency of occurrence of an itemset
-  - E.g. σ({Milk, Break, Diaper}) = 2
+  - E.g. `σ({Milk, Break, Diaper}) = 2`
 - **Support**
   - Fraction of transactions that contain an itemset
-  - E.g. s({Milk, Bread, Diaper}) = 2/5
+  - E.g. `s({Milk, Bread, Diaper}) = 2/5`
 - **Frequent Itemset**
   - An itemset whose support is greater than or equal to a *minsup* threshold
 - **Association Rule**
-  - An implication expression of the form X->Y, where X and Y are itemsets
+  - An implication expression of the form `X->Y`, where X and Y are itemsets
   - Example
-    - {Milk, Diaper} -> {Beer}
+    - `{Milk, Diaper} -> {Beer}`
 - **Rule Evaluation Metrics**
   - Support (s)
     - Fraction of transactions that contain both X and Y

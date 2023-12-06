@@ -6,11 +6,13 @@
 
 You may also want to install [Eventlet](http://eventlet.net/) or [Gevent](http://www.gevent.org/) if you expect that your application code may need to pause for extended periods of time during request processing. Check out the [design docs](http://docs.gunicorn.org/en/stable/design.html) for more information on when you'll want to consider one of the alternate worker types.
 
-$ pip install greenlet # Required for both
-$ pip install eventlet # For eventlet workers
-$ pip install gunicorn [eventlet] # Or, using extra
-$ pip install gevent # For gevent workers
-$ pip install gunicorn [gevent] # Or, using extra
+```bash
+pip install greenlet # Required for both
+pip install eventlet # For eventlet workers
+pip install gunicorn [eventlet] # Or, using extra
+pip install gevent # For gevent workers
+pip install gunicorn [gevent] # Or, using extra
+```
 
 https://medium.com/@genchilu/brief-introduction-about-the-types-of-worker-in-gunicorn-and-respective-suitable-scenario-67b0c0e7bd62
 
@@ -21,13 +23,12 @@ http://docs.gunicorn.org/en/stable/design.html
 in order of least to most authoritative:
 
 1. Framework Settings
-
 2. Configuration File
-
 3. Command Line
 
 ## Commands
 
+```bash
 pip install gunicorn [gevent]
 
 gunicorn <app_file>:app -b 0.0.0.0:5000 --workers 3 -k gevent --timeout 300 --worker-connections 1000 --max-requests 1000000 --limit-request-line 8190 --access-logfile /var/log/gunicorn/access.log
@@ -35,6 +36,7 @@ gunicorn <app_file>:app -b 0.0.0.0:5000 --workers 3 -k gevent --timeout 300 --wo
 gunicorn app:app -b 0.0.0.0:5000 --workers 3 -k gevent --timeout 300 --worker-connections 1000 --max-requests 1000000 --limit-request-line 8190 --access-logfile '-'
 
 gunicorn app:app -b 0.0.0.0:5000 --workers 16 -k gevent --timeout 300 --worker-connections 1000 --graceful-timeout 30 --keep-alive 2 --max-requests 1000000 --max-requests-jitter 100 --limit-request-line 0 --access-logfile '-' --error-logfile '-' --log-level 'info' --access-logformat '%(h)s %(l)s %(u)s %(t)s "%(r)s" %(s)s %(b)s "%(f)s" "%(a)s"'
+```
 
 https://docs.gunicorn.org/en/stable/settings.html
 

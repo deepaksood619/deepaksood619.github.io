@@ -52,6 +52,7 @@ https://rapidapi.com
 ## Variables
 
 Variables allow you to store and reuse values in your requests and scripts. By storing a value in a variable, you can reference it throughout your collections, environments, and requests - and if you need to update the value, you only have to change it in one place.
+
 Postman supports the following variable scopes:
 
 - Global
@@ -72,15 +73,17 @@ Postman provides dynamic variables that you can use in your requests.
 
 Examples of dynamic variables are as follows:
 
-- {{$guid}}: Av4 style guid
-- {{$timestamp}}: The current timestamp (Unix timestamp in seconds)
-- {{$randomInt}}: A random integer between 0 and 1000
-- {{$randomPhoneNumber}}
+- `{{$guid}}`: Av4 style guid
+- `{{$timestamp}}`: The current timestamp (Unix timestamp in seconds)
+- `{{$randomInt}}`: A random integer between 0 and 1000
+- `{{$randomPhoneNumber}}`
+
 https://learning.postman.com/docs/postman/variables-and-environments/variables/#using-dynamic-variables
 
 ## Runner
 
 The Collection Runner allows you to run sets of requests in a specified sequence. The Collection Runner will log your request test results, and your scripts can pass data between requests as well as altering the request workflow.
+
 You can run collections against specific environments, and can pass data files into a run. Collection runs allow you to automate your API testing, and you can schedule runs using monitors. You can integrate collection runs to your CI/CD pipeline using Postman's CLI Newman.
 
 https://learning.postman.com/docs/running-collections/intro-to-collection-runs

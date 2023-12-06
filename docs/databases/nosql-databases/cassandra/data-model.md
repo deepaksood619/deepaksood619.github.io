@@ -7,7 +7,7 @@
 
 - You must first provide a partition key
 - Clustering columns can follow thereafter
-- You can perform either equality = or range queries <, > on clustering columns
+- You can perform either equality = or range queries `<, >` on clustering columns
 - All equality comparisons must come before inequality comparisons
 - Since data is sorted on disk, range searches are a binary search followed by a linear read
 

@@ -1,6 +1,6 @@
 # Merge Sort
 
-Merge sortrecursively halves the given array. Once the subarrays reach trivial length, merging begins. Merging takes the smallest element between two adjacent subarrays and repeats that step until all elements are taken, resulting in a sorted subarray. The process is repeated on pairs of adjacent subarrays until we arrive at the starting array, but sorted.
+Merge sort recursively halves the given array. Once the subarrays reach trivial length, merging begins. Merging takes the smallest element between two adjacent subarrays and repeats that step until all elements are taken, resulting in a sorted subarray. The process is repeated on pairs of adjacent subarrays until we arrive at the starting array, but sorted.
 
 ## Properties
 
@@ -33,7 +33,7 @@ Merge sortrecursively halves the given array. Once the subarrays reach trivial l
   - Mergesort has too much overhead for tiny subarrays
   - Cutoff to insertion sort for ~ 7 items
 - Stop if already sorted
-  - Is biggest item in first half <= smallest item in second half
+  - Is biggest item in first half `<=` smallest item in second half
   - Helps for partially-ordered arrays
   - ![image](../../media/Merge-Sort-image3.jpg)
 - Eliminate the copy to the auxiliary array

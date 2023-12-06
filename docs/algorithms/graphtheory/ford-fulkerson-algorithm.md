@@ -40,9 +40,9 @@ For each edge (u,v) in E, the flow f(u,v) is a real valued function
 
 that must satisfy following 3 conditions :
 
-- Capacity Constraint :**∀**u,v **∈**V, f(u,v) **≤**c(u,v)
-- Skew Symmetry : **∀**u,v **∈**V, f(u,v)= -f(v,u)
-- Flow Conservation: **∀**u **∈**V -- {s,t} Σ f(s,v)=0
+- Capacity Constraint : `**∀**u,v **∈**V, f(u,v) **≤**c(u,v)`
+- Skew Symmetry : `**∀**u,v **∈**V, f(u,v)= -f(v,u)`
+- Flow Conservation: `**∀**u **∈**V -- {s,t} Σ f(s,v)=0`
 
 ## v∈V
 

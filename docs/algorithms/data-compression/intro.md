@@ -62,13 +62,13 @@ Ex. 50-75% or better compression ratio for natural language
 
 ## Data representation: genomic code
 
-Genome: String over the alphabet { A, C, T, G }
+Genome: String over the alphabet `{ A, C, T, G }`
 
 Goal: Encode an N-character genome: A T A G A T G C A T A G . . .
 
 ![image](../../media/Intro-dc-image2.jpg)
 
-Fixed-length code - k-bit code supports alphabet of size 2^k^
+Fixed-length code - k-bit code supports alphabet of size `2^k^`
 
 Amazing but true - Initial genomic databases in 1990s used ASCII
 
@@ -97,17 +97,17 @@ Proposition: No algorithm can compress every bitstring
 Proof 1 - by contradiction
 
 - Suppose you have a universal data compression algorithm U that can compress every bitstream
-- Given bitstring B~0~, compress it to get smaller bistring B1.
-- Compress B~1~ to get a smaller bistring B~2~.
+- Given bitstring `B~0~`, compress it to get smaller bistring B1.
+- Compress `B~1~` to get a smaller bistring `B~2~`.
 - Continue until reaching bitstring of size 0
 - Implication: all bitstrings can be compressed to 0 bits
 
 Proof 2 - by counting
 
 - Suppose your algorithm that can compress all 1000-bit strings
-- 2^1000^ possible bitstrings with 1000 bits
-- Only 1+2+4+ ... + 2^998^ + 2^999^ can be encoded with <= 999 bits
-- Similarly, only 1 in 2^499^ bitstrings can be encoded with <= 500 bits
+- `2^1000^` possible bitstrings with 1000 bits
+- `Only 1+2+4+ ... + 2^998^ + 2^999^ can be encoded with <= 999 bits`
+- `Similarly, only 1 in 2^499^ bitstrings can be encoded with <= 500 bits`
 
 ## Lossless data compression benchmarks (using Calgary corpus)
 

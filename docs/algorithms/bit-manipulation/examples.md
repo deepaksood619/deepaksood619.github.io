@@ -58,7 +58,7 @@
 
 6. Given a number N. Flip all bits in its binary representation.
 
-    Solution 1:N^((1<<32)-1), considering N is a 32 bit integer
+    Solution `1:N^((1<<32)-1)`, considering N is a 32 bit integer
     Explanation - Since XORing with 1 works as a toggle switch.
 
 7. Given two numbersAandB. Swapandwithout using arithmetic operator and without using third variable.

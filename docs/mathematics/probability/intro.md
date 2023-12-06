@@ -87,7 +87,7 @@ In the subjectivist view, probability is the value that a rational agent would a
 
 ## Probability Rules
 
-- It is **bounded**: For any event X, 0 <= P(X) <= 1
+- It is **bounded**: For any event X, `0 <= P(X) <= 1`
 - It **covers the universe of outcomes**: The sum of the probabilities of all possible outcomes is one
 - The **Complement Rule** states that P(not X) = 1 - P(X)
 - The **General Addition Rule** states that for any two events, P(X or Y) = P(X) + P(Y) - P(X and Y) is the probability of both X and Y occuring at the same time. If they are mutually exclusive, the rule simplifies to P(X or Y) = P(X) + P(Y)

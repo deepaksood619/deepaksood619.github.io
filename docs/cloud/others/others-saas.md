@@ -67,7 +67,7 @@ Components
   - test4geeks
 - Concerto - https://github.com/campsych/concerto-platform
 - Savsoft - https://github.com/savsofts/savsoftquiz_v5
-- TCExam - https://tcexam.org/docs/installation> - <https://github.com/tecnickcom/tcexam
+- TCExam - https://tcexam.org/docs/installation - https://github.com/tecnickcom/tcexam
 - Papershala - https://papershala.com
 - Edbase - http://www.edbase.net
 - **Speedexam** - https://www.speedexam.net - 50 exams per month free

@@ -47,9 +47,9 @@ Just after computing the root of p, set the id of each examined node to point to
 
 Without any optimizations, Union and Find will take O(n)
 
-With both optimizations i.e. Union by Rank and Path Compression, the time complexity is `O(α(V))` where α is inverse Ackermann function. This value is < 5 for any value of n that can be written in this physical universe, so disjoint set operations take place in essentially constant time
+With both optimizations i.e. Union by Rank and Path Compression, the time complexity is `O(α(V))` where α is inverse Ackermann function. This value is `< 5` for any value of n that can be written in this physical universe, so disjoint set operations take place in essentially constant time
 
-Any sequence of M union-find ops on N objects makes <= c(N+M lg* N) array acccesses.
+Any sequence of M union-find ops on N objects makes `<= c(N+M lg* N)` array acccesses.
 
 | N        | lg* N |
 |----------|--------|

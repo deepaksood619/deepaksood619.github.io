@@ -90,7 +90,7 @@ https://github.blog/2020-04-09-github-protips-tips-tricks-hacks-and-secrets-from
 | Specify a recipient | to:Example:to:david |
 | Specify a recipient who received a copy | cc:bcc:Example:cc:david |
 | Words in the subject line | subject:Example:subject:dinner |
-| Messages that match multiple terms | OR or { } Example:from:amy OR from:david Example:{from:amy from:david} |
+| Messages that match multiple terms | `OR or { }` Example:from:amy OR from:david Example: `{from:amy from:david}` |
 | Remove messages from your results | -Example:dinner -movie |
 | Find messages with words near each other. Use the number to say how many words apart the words can be. Add quotes to find messages in which the word you put first stays first. | AROUND Example:holiday AROUND 10 vacation. Example:"secret AROUND 25 birthday" |
 | Messages that have a certain label | label: Example:label:friends |

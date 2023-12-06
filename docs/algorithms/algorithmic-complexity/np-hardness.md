@@ -1,7 +1,8 @@
 # NP Hardness
 
-| [**P**](https://en.wikipedia.org/wiki/P_(complexity))     | The [complexity class](https://en.wikipedia.org/wiki/Complexity_class) of [decision problems](https://en.wikipedia.org/wiki/Decision_problem) that can be solved on a [deterministic Turing machine](https://en.wikipedia.org/wiki/Deterministic_Turing_machine) in polynomial time |
+|  |  |
 |---------|---------------------------------------------------------------|
+| [**P**](https://en.wikipedia.org/wiki/P_(complexity))     | The [complexity class](https://en.wikipedia.org/wiki/Complexity_class) of [decision problems](https://en.wikipedia.org/wiki/Decision_problem) that can be solved on a [deterministic Turing machine](https://en.wikipedia.org/wiki/Deterministic_Turing_machine) in polynomial time |
 | [**NP**](https://en.wikipedia.org/wiki/NP_(complexity))   | The complexity class of decision problems that can be solved on a [non-deterministic Turing machine](https://en.wikipedia.org/wiki/Non-deterministic_Turing_machine) in polynomial time                                                                                             |
 | [**ZPP**](https://en.wikipedia.org/wiki/ZPP_(complexity)) | The complexity class of decision problems that can be solved with zero error on a [probabilistic Turing machine](https://en.wikipedia.org/wiki/Probabilistic_Turing_machine) in polynomial time                                                                                     |
 | [**RP**](https://en.wikipedia.org/wiki/RP_(complexity))   | The complexity class of decision problems that can be solved with 1-sided error on a probabilistic Turing machine in polynomial time.                                                                                                                                               |
@@ -10,11 +11,9 @@
 
 NP-hardness([non-deterministic polynomial-time](https://en.wikipedia.org/wiki/NP_(complexity)) hardness), in [computational complexity theory](https://en.wikipedia.org/wiki/Computational_complexity_theory), is the defining property of a class of problems that are informally "at least as hard as the hardest problems in NP". A simple example of an NP-hard problem is the [subset sum problem](https://en.wikipedia.org/wiki/Subset_sum_problem).
 
-A more precise specification is: a problemHis NP-hard when every problemLin NP can be [reduced](https://en.wikipedia.org/wiki/Reduction_(complexity)) in [polynomial time](https://en.wikipedia.org/wiki/Polynomial_time) toH; that is, assuming a solution forHtakes 1 unit time, H‎'s solution can be used to solveLin polynomial time.As a consequence, finding a polynomial algorithm to solve any NP-hard problem would give polynomial algorithms for all the problems in NP, which is unlikely as many of them are considered difficult.
+A more precise specification is: a problemHis NP-hard when every problemLin NP can be [reduced](https://en.wikipedia.org/wiki/Reduction_(complexity)) in [polynomial time](https://en.wikipedia.org/wiki/Polynomial_time) toH; that is, assuming a solution for H takes 1 unit time, H‎'s solution can be used to solveLin polynomial time.As a consequence, finding a polynomial algorithm to solve any NP-hard problem would give polynomial algorithms for all the problems in NP, which is unlikely as many of them are considered difficult.
 
-A common misconception is that theNPin "NP-hard" stands for "non-polynomial" when in fact it stands for "[non-deterministic](https://en.wikipedia.org/wiki/Non-deterministic_Turing_machine) polynomial acceptable problems".It is suspected that there are no polynomial-time algorithms for NP-hard problems, but that has not been proven. Moreover, the class [P](https://en.wikipedia.org/wiki/P_(complexity)), in which all problems can be solved in polynomial time, is contained in the [NP](https://en.wikipedia.org/wiki/NP_(complexity)) class.
-
-![image](../../media/NP-Hardness-image1.jpg)
+A common misconception is that the NP in "NP-hard" stands for "non-polynomial" when in fact it stands for "[non-deterministic](https://en.wikipedia.org/wiki/Non-deterministic_Turing_machine) polynomial acceptable problems".It is suspected that there are no polynomial-time algorithms for NP-hard problems, but that has not been proven. Moreover, the class [P](https://en.wikipedia.org/wiki/P_(complexity)), in which all problems can be solved in polynomial time, is contained in the [NP](https://en.wikipedia.org/wiki/NP_(complexity)) class.
 
 ## NP Naming Convention
 
@@ -24,9 +23,9 @@ NP-hard problems do not have to be elements of the complexity class NP. As NP pl
 
 Problems that computer can solve quickly and efficiently (P is a set of problems that are solvable in polynomial time. That is, the number of computational steps is bounded by polynomial function with respect to the problem size. Ex- Bipartite Matching)
 
-[**NP**](https://en.wikipedia.org/wiki/NP_(complexity))
+## [NP](https://en.wikipedia.org/wiki/NP_(complexity))
 
-Class of computational decision problems for which a givenyes-solution can be verified as a solution in polynomial time by a deterministic Turing machine (orsolvableby anon-deterministicTuring machine in polynomial time).
+Class of computational decision problems for which a given yes - solution can be verified as a solution in polynomial time by a deterministic Turing machine (or solvable by a non-deterministicTuring machine in polynomial time).
 
 Problems whose solutions can be verified quickly but cannot be obtained quickly
 
@@ -36,7 +35,7 @@ Problems whose solutions can be verified quickly but cannot be obtained quickly
 
 Class of problems which are at least as hard as the hardest problems in NP. Problems that are NP-hard do not have to be elements of NP; indeed, they may not even be decidable.
 
-[**NP-complete**](https://en.wikipedia.org/wiki/NP-complete)
+## [NP-complete](https://en.wikipedia.org/wiki/NP-complete)
 
 Class of decision problems which contains the hardest problems in NP. Each NP-complete problem has to be in NP.
 
@@ -47,15 +46,15 @@ NP-Complete is the set of problems that are the hardest problems in NP. They are
 
 An [NP-complete](https://en.wikipedia.org/wiki/NP-complete) problem with known pseudo-polynomial time algorithms is called [weakly NP-complete](https://en.wikipedia.org/wiki/Weakly_NP-complete). An [NP-complete](https://en.wikipedia.org/wiki/NP-complete) problem is called [strongly NP-complete](https://en.wikipedia.org/wiki/Strongly_NP-complete) if it is proven that it cannot be solved by a pseudo-polynomial time algorithm unless [P=NP](https://en.wikipedia.org/wiki/P%3DNP). The strong/weak kinds of [NP-hardness](https://en.wikipedia.org/wiki/NP-hard) are defined analogously.
 
-[**NP-easy**](https://en.wikipedia.org/wiki/NP-easy)
+## [NP-easy](https://en.wikipedia.org/wiki/NP-easy)
 
 At most as hard as NP, but not necessarily in NP.
 
-[**NP-equivalent**](https://en.wikipedia.org/wiki/NP-equivalent)
+## [NP-equivalent](https://en.wikipedia.org/wiki/NP-equivalent)
 
 Decision problems that are both NP-hard and NP-easy, but not necessarily in NP.
 
-[**NP-intermediate**](https://en.wikipedia.org/wiki/NP-intermediate)
+## [NP-intermediate](https://en.wikipedia.org/wiki/NP-intermediate)
 
 If P and NP are different, then there exist decision problems in the region of NP that fall between P and the NP-complete problems. (If P and NP are the same class, then NP-intermediate problems do not exist because in this case every NP-complete problem would fall in P, and by definition, every problem in NP can be reduced to an NP-complete problem.)
 
@@ -79,7 +78,7 @@ https://en.wikipedia.org/wiki/Polynomial-time_approximation_scheme
 
 ## PTAS Reduction
 
-In [computational complexity theory](https://en.wikipedia.org/wiki/Computational_complexity_theory), a**PTAS reduction** is an [approximation-preserving reduction](https://en.wikipedia.org/wiki/Approximation-preserving_reduction) that is often used to perform [reductions](https://en.wikipedia.org/wiki/Reduction_(complexity)) between solutions to [optimization problems](https://en.wikipedia.org/wiki/Optimization_problem). It preserves the property that a problem has a [polynomial time approximation scheme](https://en.wikipedia.org/wiki/Polynomial_time_approximation_scheme)(PTAS) and is used to define [completeness](https://en.wikipedia.org/wiki/Complete_(complexity)) for certain classes of optimization problems such as [APX](https://en.wikipedia.org/wiki/APX). Notationally, if there is a PTAS reduction from a problem A to a problem B, we writeA <=~PTAS~ B
+In [computational complexity theory](https://en.wikipedia.org/wiki/Computational_complexity_theory), a **PTAS reduction** is an [approximation-preserving reduction](https://en.wikipedia.org/wiki/Approximation-preserving_reduction) that is often used to perform [reductions](https://en.wikipedia.org/wiki/Reduction_(complexity)) between solutions to [optimization problems](https://en.wikipedia.org/wiki/Optimization_problem). It preserves the property that a problem has a [polynomial time approximation scheme](https://en.wikipedia.org/wiki/Polynomial_time_approximation_scheme)(PTAS) and is used to define [completeness](https://en.wikipedia.org/wiki/Complete_(complexity)) for certain classes of optimization problems such as [APX](https://en.wikipedia.org/wiki/APX). Notationally, if there is a PTAS reduction from a problem A to a problem B, we write `A <=~PTAS~ B`
 
 With ordinary [polynomial-time many-one reductions](https://en.wikipedia.org/wiki/Polynomial-time_many-one_reduction), if we can describe a [reduction](https://en.wikipedia.org/wiki/Reduction_(complexity)) from a problem A to a problem B, then any polynomial-time solution for B can be composed with that reduction to obtain a polynomial-time solution for the problem A. Similarly, our goal in defining PTAS reductions is so that given a PTAS reduction from an optimization problem A to a problem B, a PTAS for B can be composed with the reduction to obtain a PTAS for the problem A.
 

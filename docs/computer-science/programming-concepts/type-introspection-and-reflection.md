@@ -8,13 +8,12 @@ Some languages even allow us to traverse the inheritance hierarchy to see if our
 
 Ex - Java
 
+```java
 if(obj instanceof Person){
-
 Person p = (Person)obj;
-
 p.walk();
-
 }
+```
 
 ## Reflection
 

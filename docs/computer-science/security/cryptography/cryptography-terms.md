@@ -70,7 +70,7 @@ https://devender.me/2016/07/13/envelope-encryption
 
 ![image](../../../media/Cryptography-Intro_Cryptography-Terms-image2.jpg)
 
-https://www.druva.com/blog/druva-tech-moments-digital-envelope-encryption><https://crypto.stackexchange.com/questions/3965/what-is-the-main-difference-between-a-key-an-iv-and-a-nonce
+https://www.druva.com/blog/druva-tech-moments-digital-envelope-encryption https://crypto.stackexchange.com/questions/3965/what-is-the-main-difference-between-a-key-an-iv-and-a-nonce
 
 A [key](https://en.wikipedia.org/wiki/Key_(cryptography)), in the context of [symmetric cryptography](https://en.wikipedia.org/wiki/Symmetric-key_algorithm), is something you keep secret. Anyone who knows your key (or can guess it) can decrypt any data you've encrypted with it (or forge any authentication codes you've calculated with it, etc.)
 

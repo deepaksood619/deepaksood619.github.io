@@ -18,9 +18,9 @@ https://medium.freecodecamp.org/the-definitive-javascript-handbook-for-a-develop
 6. Object (composite) (Non-primitive)
 7. Symbol (ES6)
 
-**Falsy values:** "",0, null, undefined, NaN, false
+**Falsy values:** `"",0, null, undefined, NaN, false`
 
-**Truthy values:** 'hello', '0', ' ', ([]), (function() {})
+**Truthy values:** `'hello', '0', ' ', ([]), (function() {})`
 
 ## Comments
 
@@ -108,10 +108,10 @@ A constant cannot share its name with a function or a variable in the same scope
  2. 3 != 3 // false
  3. 3 != "3" // true
 
-- Greater than ( > )
-- Less than ( < )
-- Greater than or Equal to ( >= )
-- Less than or Equal to ( <= )
+- Greater than ( `>` )
+- Less than ( `<` )
+- Greater than or Equal to ( `>=` )
+- Less than or Equal to ( `<=` )
 - ===
 - !== (Strict inequality operator)
 

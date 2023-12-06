@@ -49,7 +49,7 @@ In my experience,*policy iteration*is faster than*value iteration*, as a policy 
 
 Why Discount Factor?
 
-The idea of using discount factor is to prevent the total reward from going to infinity (because 0 <= γ <= 1). It also models the agent behavior when the agent prefers immediate rewards than rewards that are potentially received later in the future.
+The idea of using discount factor is to prevent the total reward from going to infinity (because `0 <= γ <= 1`). It also models the agent behavior when the agent prefers immediate rewards than rewards that are potentially received later in the future.
 
 ![image](../../media/2.-Dynamic-Programming-image4.jpg)
 

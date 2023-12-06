@@ -152,6 +152,8 @@ The following CMSs have high popularity among Gatsby users and support key funct
 
 https://github.com/outline/outline
 
+[KeystoneJS: The superpowered Node.js Headless CMS for developers - Keystone 6](https://keystonejs.com/)
+
 ## sites.google.com - Great UI and functionalities
 
 https://sites.google.com/view/deepak-sood

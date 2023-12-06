@@ -45,5 +45,5 @@ services:
                 # npm ci
                 # npm start
 
-        volumes:
-            - .:/app/
+        # volumes:
+        #     - .:/app/

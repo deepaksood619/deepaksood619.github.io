@@ -160,13 +160,13 @@ Kd-Trees
 
 1. **Social network connectivity.** Given a social network containingnmembers and a log file containingmtimestamps at which times pairs of members formed friendships, design an algorithm to determine the earliest time at which all members are connected (i.e., every member is a friend of a friend of a friend ... of a friend). Assume that the log file is sorted by timestamp and that friendship is an equivalence relation. The running time of your algorithm should bemlognor better and use extra space proportional ton.
 
-2. **Union-find with specific canonical element.** Add a method𝚏𝚒𝚗𝚍()to the union-find data type so that𝚏𝚒𝚗𝚍(𝚒)returns the largest element in the connected component containingi. The operations,𝚞𝚗𝚒𝚘𝚗(),𝚌𝚘𝚗𝚗𝚎𝚌𝚝𝚎𝚍(), and𝚏𝚒𝚗𝚍()should all take logarithmic time or better. For example, if one of the connected components is{1,2,6,9}, then the𝚏𝚒𝚗𝚍()method should return9for each of the four elements in the connected components.
+2. **Union-find with specific canonical element.** Add a method𝚏𝚒𝚗𝚍()to the union-find data type so that𝚏𝚒𝚗𝚍(𝚒)returns the largest element in the connected component containingi. The operations,𝚞𝚗𝚒𝚘𝚗(),𝚌𝚘𝚗𝚗𝚎𝚌𝚝𝚎𝚍(), and𝚏𝚒𝚗𝚍()should all take logarithmic time or better. For example, if one of the connected components is `{1,2,6,9}`, then the𝚏𝚒𝚗𝚍()method should return9for each of the four elements in the connected components.
 
-3. **Successor with delete.** Given a set ofnintegersS={0,1,...,n−1}and a sequence of requests of the following form:
+3. **Successor with delete.** Given a set of n integers `S={0,1,...,n−1}` and a sequence of requests of the following form:
 
-RemovexfromS
+`Remove x from S`
 
-Find thesuccessorofx: the smallestyinSsuch thaty≥x.
+`Find the successor of x: the smallest y in S such that y≥x .`
 
 design a data type so that all operations (except construction) take logarithmic time or better in the worst case.
 
@@ -223,13 +223,15 @@ The performance requirements are as follows:
 
 Solution -
 
-Suppose we choose a nut and partition all bolts in {1...n}, by comparing with this nut, into three intervals : {1...i-1}, {i}, {i+1, n} such that each bolt in {1, i-1} is smaller, bolt i matches and each bolt in {i+1, n} is larger than the chosen nut. This procedure is similar to the partition procedure used in quicksort and can be implemented in O(n). Now, we can use the matching bolt to partition all nuts in three intervals in a similar manner so that the nut i and bolt i match. We have reduced the problem of finding matchings in the interval {1...n} into two smaller subproblems: finding matchings in the intervals {1...i-1} and {i+1...n}.
+Suppose we choose a nut and partition all bolts in `{1...n}`, by comparing with this nut, into three intervals : `{1...i-1}`, `{i}`, `{i+1, n}` such that each bolt in `{1, i-1}` is smaller, bolt i matches and each bolt in `{i+1, n}` is larger than the chosen nut. This procedure is similar to the partition procedure used in quicksort and can be implemented in `O(n)`. Now, we can use the matching bolt to partition all nuts in three intervals in a similar manner so that the nut i and bolt i match. We have reduced the problem of finding matchings in the interval `{1...n}` into two smaller subproblems: finding matchings in the intervals `{1...i-1}` and `{i+1...n}`.
 
 If at each step, we choose the nut (to partition the bolts) randomly, we will get similar performance guarantees as quicksort i.e., randomized**O(n log n)**time.
+
 2. **Selection in two sorted arrays.** Given two sorted arraysa[]andb[], of sizesn1andn2, respectively, design an algorithm to find thekthlargest key. The order of growth of the worst case running time of your algorithm should belogn, wheren=n1+n2.
     - **Version 1: n1=n2 and k=n/2**
     - **Version 2: k=n/2**
     - **Version 3: no restrictions**
+
 3. **Decimal dominants.** Given an array withnkeys, design an algorithm to find all values that occur more thann/10times. The expected running time of your algorithm should be linear.
 
 ## 4.1. Priority Queues

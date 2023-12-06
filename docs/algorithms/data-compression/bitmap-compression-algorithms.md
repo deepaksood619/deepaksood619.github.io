@@ -1,11 +1,8 @@
 # Bitmap Compression Algorithms
 
 1. Byte-aligned Bitmap Code
-
 2. Word-Aligned Hybrid (WAH) code
-
 3. Partitioned Word-Aligned Hybrid (PWAH) compression.
-
 4. Enhanced Word-Aligned Hybrid (EWAH)
 
 ## Concise Bitmap Compression Algorithm
@@ -32,7 +29,7 @@ There are three separate 32 bit sequences in the bitstream.
 3. [01]0...011- 31 x 3 ones (a sequences of ones)
 ```
 
-[Concise](http://ricerca.mat.uniroma3.it/users/colanton/docs/concise.pdf) bitmap compression introduces the concept of a mixed fill, where fills and literals can be represented in a single word. The author of the original Concise paper claims that Concise outperforms WAH by reducing the size of the compressed bitmaps by up to 50%. For mixed fill sequences, the first 2 bits indicate the type of fill (0 or 1). The next 5 bits can be used to indicate the position where bits flip from 0 to 1 or vice versa. An example of the Concise representation for the integer set {3, 5, 31-93, 1,024, 1,028, 1,040,187,422} is shown below:
+[Concise](http://ricerca.mat.uniroma3.it/users/colanton/docs/concise.pdf) bitmap compression introduces the concept of a mixed fill, where fills and literals can be represented in a single word. The author of the original Concise paper claims that Concise outperforms WAH by reducing the size of the compressed bitmaps by up to 50%. For mixed fill sequences, the first 2 bits indicate the type of fill (0 or 1). The next 5 bits can be used to indicate the position where bits flip from 0 to 1 or vice versa. An example of the Concise representation for the integer set `{3, 5, 31-93, 1,024, 1,028, 1,040,187,422}` is shown below:
 
 ```python
 1. [1]0...101000

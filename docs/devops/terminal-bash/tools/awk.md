@@ -14,13 +14,15 @@ AWK was created at [Bell Labs](https://en.wikipedia.org/wiki/Bell_Labs) in the 1
 
 An AWK program is a series of pattern action pairs, written as:
 
+```bash
 condition { action }
 condition { action }
 ...
+```
 
-where *condition*is typically an expression and *action*is a series of commands. The input is split into records, where by default records are separated by newline characters so that the input is split into lines. The program tests each record against each of the conditions in turn, and executes the *action*for each expression that is true. Either the *condition*or the *action*may be omitted. The *condition*defaults to matching every record. The default *action*is to print the record. This is the same pattern-action structure as sed.
+where *condition* is typically an expression and *action* is a series of commands. The input is split into records, where by default records are separated by newline characters so that the input is split into lines. The program tests each record against each of the conditions in turn, and executes the *action* for each expression that is true. Either the *condition* or the *action* may be omitted. The *condition* defaults to matching every record. The default *action* is to print the record. This is the same pattern-action structure as sed.
 
-In addition to a simple AWK expression, such asfoo == 1or/^foo/, the *condition*can beBEGINorENDcausing the *action*to be executed before or after all records have been read, or*pattern1, pattern2*which matches the range of records starting with a record that matches *pattern1*up to and including the record that matches *pattern2*before again trying to match against *pattern1*on future lines.
+In addition to a simple AWK expression, such as `foo == 1or/^foo/`, the *condition* can be BEGIN or END causing the *action* to be executed before or after all records have been read, or*pattern1, pattern2*which matches the range of records starting with a record that matches *pattern1* up to and including the record that matches *pattern2* before again trying to match against *pattern1* on future lines.
 
 ## Idea behind AWK Programming
 
@@ -66,19 +68,19 @@ Let us now understand the program structure of AWK.
 
 ## BEGIN block
 
-BEGIN {awk-commands}
+`BEGIN {awk-commands}`
 
 The BEGIN block gets executed at program start-up. It executes only once. This is good place to initialize variables. BEGIN is an AWK keyword and hence it must be in upper-case. Please note that this block is optional.
 
 ## Body Block
 
-/pattern/ {awk-commands}
+`/pattern/ {awk-commands}`
 
 The body block applies AWK commands on every input line. By default, AWK executes commands on every line. We can restrict this by providing patterns. Note that there are no keywords for the Body block.
 
 ## END Block
 
-END {awk-commands}
+`END {awk-commands}`
 
 The END block executes at the end of the program. END is an AWK keyword and hence it must be in upper-case. Please note that this block is optional.
 

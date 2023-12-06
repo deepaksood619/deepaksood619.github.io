@@ -50,10 +50,14 @@ C1 and C2 must be equal to 0 for R2
 - Vector dot product is distributive, (V + W).X = (V.X + W.X)
 - Vector dot product is associative ( (c.V).W = c.(V.W) )
 - Length of vector X = ||X||
-- ||X||^2^ = X.X
+- `||X||^2^ = X.X`
 - Cauchy -Schwarz inequality
+
+```bash
   - |X.Y|<= ||X||.||Y||
   - |X.Y| = ||X||.||Y|| only when X and Y are colinear i.e. X = c.Y
+```
+
 - Vector Triangle Inequality
 - Angles between Vectors
   - (A.B) = ||A||*||B||*cos **Θ**

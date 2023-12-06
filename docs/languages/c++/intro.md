@@ -6,25 +6,25 @@ C++ is a **statically typed language**. That is, the type of every entity (e.g.,
 
 ## Operators
 
-## << - put to
+## `<<` - put to
 
-The operator << (''put to'') writes its second argument onto its first.
+The operator `<<` (''put to'') writes its second argument onto its first.
 
-std::cout << "Hello, World!n";
+`std::cout << "Hello, World!n";`
 
 In this case, the string literal "Hello, World!n" is written onto the standard output stream std::cout.
 
-## >> - get from
+## `>>` - get from
 
-The type of the right-hand operand of >> determines what input is accepted, and its right-hand operand is the target of the input operation.
+The type of the right-hand operand of `>>` determines what input is accepted, and its right-hand operand is the target of the input operation.
 
-&, *, [] - When used in declarations, operators (such as &, ∗, and []) are called declarator operators
+`&, *, []` - When used in declarations, operators (such as `&, ∗, and []`) are called declarator operators
 
 When we don't have an object to point to or if we need to represent the notion of "no object available" (e.g., for an end of a list), we give the pointer the value nullptr (''the null pointer''). There is only one nullptr shared by all pointer types
 
 ## C++ Member (dot `[.]` and arrow `[->]`) operator
 
-The . (dot) operator and the -> (arrow) operator are used to reference individual members of classes, structures, and unions.
+The `.` (dot) operator and the `->` (arrow) operator are used to reference individual members of classes, structures, and unions.
 
 The dot operator is applied to the actual object. The arrow operator is used with a pointer to an object.
 
@@ -39,6 +39,7 @@ C++ supports two notions of immutability
 
 ## Example
 
+```c++
 const int dmv = 17; // dmv is a named constant
 
 int var = 17; // var is not a constant
@@ -48,6 +49,7 @@ constexpr double max1 = 1.4∗square(dmv); // OK if square(17) is a constant exp
 constexpr double max2 = 1.4∗square(var); // error : var is not a constant expression
 
 const double max3 = 1.4∗square(var); // OK, may be evaluated at run time
+```
 
 ## Data Types
 

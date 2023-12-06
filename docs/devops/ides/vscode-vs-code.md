@@ -99,7 +99,7 @@ https://www.youtube.com/watch?v=WPqXP_kLzpo
 
 https://www.youtube.com/watch?v=ifTF3ags0XI
 
-## Settings.json (command + <)
+## Settings.json (`command + <`)
 
 - User Settings- Settings that apply globally to any instance of VS Code you open.
 - Workspace Settings- Settings stored inside your workspace and only apply when the workspace is opened.

@@ -358,9 +358,9 @@ http://www.rexegg.com/regex-disambiguation.html#lookarounds
 |--------|-------------|
 | n+     | 1 or moren |
 | n?     | 0 or 1n    |
-| n{2}   | Exactly 2n |
-| n{2,}  | 2 or moren |
-| n{2,4} | 2, 3 or 4n |
+| `n{2}`   | Exactly 2n |
+| `n{2,}`  | 2 or moren |
+| `n{2,4}` | 2, 3 or 4n |
 
 `.*` means "match whatever"
 
@@ -454,7 +454,7 @@ https://www.hackerrank.com/domains/regex/re-introduction
 
 https://regex.sketchengine.co.uk
 
-https://regexcrossword.com> (Rank - <https://regexcrossword.com/profile/38485)
+https://regexcrossword.com (Rank - https://regexcrossword.com/profile/38485)
 
 https://regexone.com
 

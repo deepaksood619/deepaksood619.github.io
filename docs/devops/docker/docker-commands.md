@@ -96,9 +96,9 @@ docker logs smap-archiver > stdout.log 2>stderr.log
 
 - **[docker inspect](https://docs.docker.com/engine/reference/commandline/inspect) looks at all the info on a container (including IP address).**
 - [docker events](https://docs.docker.com/engine/reference/commandline/events) gets events from container.
-- [docker port](https://docs.docker.com/engine/reference/commandline/port) <container_name>shows public facing port of container.
+- [docker port](https://docs.docker.com/engine/reference/commandline/port) `<container_name>` shows public facing port of container.
 - **[docker top](https://docs.docker.com/engine/reference/commandline/top) shows running processes in container.**
-  - docker top <container_name>
+  `- docker top <container_name>`
 - **[docker stats](https://docs.docker.com/engine/reference/commandline/stats) shows containers' resource usage statistics.**
 - [docker diff](https://docs.docker.com/engine/reference/commandline/diff) shows changed files in the container's FS.
 - **docker secret** - Manage docker secrets

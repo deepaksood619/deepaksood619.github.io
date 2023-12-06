@@ -1,6 +1,6 @@
 # JSON
 
-JSON(JavaScript Object Notation) is a lightweight data-interchange format. It is easy for humans to read and write. It is easy for machines to parse and generate. It is based on a subset of the [JavaScript Programming Language](http://javascript.crockford.com/), [Standard ECMA-262 3rd Edition - December 1999](http://www.ecma-international.org/publications/files/ecma-st/ECMA-262.pdf). JSON is a text format that is completely language independent but uses conventions that are familiar to programmers of the C-family of languages, including C, C++, C#, Java, JavaScript, Perl, Python, and many others. These properties make JSON an ideal data-interchange language.
+JSON (JavaScript Object Notation) is a lightweight data-interchange format. It is easy for humans to read and write. It is easy for machines to parse and generate. It is based on a subset of the [JavaScript Programming Language](http://javascript.crockford.com/), [Standard ECMA-262 3rd Edition - December 1999](http://www.ecma-international.org/publications/files/ecma-st/ECMA-262.pdf). JSON is a text format that is completely language independent but uses conventions that are familiar to programmers of the C-family of languages, including C, C++, C#, Java, JavaScript, Perl, Python, and many others. These properties make JSON an ideal data-interchange language.
 
 JSON is built on two structures:
 
@@ -15,19 +15,19 @@ In JSON, they take on these forms:
 
 1. **Object**
 
-    An object is an unordered set of name/value pairs. An object begins with{(left brace)and ends with}(right brace). Each name is followed by:(colon)and the name/value pairs are separated by,(comma).
+    An object is an unordered set of name/value pairs. An object begins with `{` (left brace)and ends with `}` (right brace). Each name is followed by `:` (colon)and the name/value pairs are separated by,(comma).
 
     ![image](../../media/JSON-image1.gif)
 
 2. **Array**
 
-    An array is an ordered collection of values. An array begins with [(left bracket)and ends with](right bracket). Values are separated by,(comma).
+    An array is an ordered collection of values. An array begins with `[` (left bracket)and ends with `]` (right bracket). Values are separated by `,` (comma).
 
     ![image](../../media/JSON-image2.gif)
 
 3. **Value**
 
-    A value can be astringin double quotes, or a number, or true or false or null, or an object or an array. These structures can be nested.
+    A value can be a string in double quotes, or a number, or true or false or null, or an object or an array. These structures can be nested.
 
 4. **String**
 
@@ -41,13 +41,13 @@ In JSON, they take on these forms:
 
     true/false
 
-    {"sale":true}
+    `{"sale":true}`
 
 7. **Null**
 
     null
 
-    {"middlename":null}
+    `{"middlename":null}`
 
     Whitespace can be inserted between any pair of tokens. Excepting a few encoding details, that completely describes the language.
 
@@ -55,13 +55,13 @@ In JSON, they take on these forms:
 
 The following characters are reserved in JSON and must be properly escaped to be used in strings:
 
-- Backspaceis replaced withb
-- Form feedis replaced withf
-- Newlineis replaced withn
-- Carriage returnis replaced withr
-- Tabis replaced witht
-- Double quoteis replaced with"
-- Backslashis replaced with
+- Backspace is replaced withb
+- Form feed is replaced withf
+- Newline is replaced withn
+- Carriage return is replaced withr
+- Tab is replaced witht
+- Double quote is replaced with"
+- Backslash is replaced with
 
 ## JSONP
 

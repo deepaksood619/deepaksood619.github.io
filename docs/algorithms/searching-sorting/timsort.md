@@ -21,7 +21,7 @@ In above example, Binary insertion sort requires 2 iteration to find location to
 
 N : Number of elements inside input array.
 
-## If N <= 64 then Tim sort uses binary insertion sort to sort the elements
+If `N <= 64` then Tim sort uses binary insertion sort to sort the elements
 
 ## What if N is large
 
@@ -55,9 +55,8 @@ Timsort tries to delay merging as long as possible in order to exploit patterns 
 
 If we consider three sub-arrays A, B and C from left to right then Tim sort complies with below 2 variants to call merge_collapse() function to decide whether current run should be merged with preceding runs or not.
 
-1. A > B + C
-
-2. B > C
+1.`A > B + C`
+2. `B > C`
 
 ![image](../../media/TimSort-image4.jpg)
 
