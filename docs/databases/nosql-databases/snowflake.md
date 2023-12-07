@@ -185,6 +185,10 @@ DROP WAREHOUSE IF EXISTS sf_tuts_wh;
 
 ![snowflake-sql-lifecycle-diagram](../../media/Pasted%20image%2020231205120527.png)
 
+## Others
+
+- Streamlit
+
 ## Links
 
 [The Snowflake Data Cloud - Mobilize Data, Apps, and AI](https://www.snowflake.com/en/)

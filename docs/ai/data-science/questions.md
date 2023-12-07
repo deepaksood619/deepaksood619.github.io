@@ -129,16 +129,39 @@ The F1-score balances both precision and recall, so it's a good measure of class
 
 ## SQL
 
-- Write a SQL query to **Find the name of the student getting second highest marks in his class**
+#### Write a SQL query to Find the name of the student getting second highest marks in his class
 
+```sql
+-- with max(marks), cannot use name
 SELECT name, MAX(marks) AS max_marks
 FROM student
 WHERE marks < (SELECT MAX(marks)
 FROM student) LIMIT 1;
+-- Error - You tried to execute a query that does not include the specified expression 'name' as part of an aggregate function.
 
-SELECT marksFROM (SELECT marksFROM student ORDER BYmarksDESC LIMIT 2) AS Std ORDER BYmarksLIMIT 1;
+-- names not selected
+SELECT marks FROM (SELECT marks FROM student ORDER BY marks DESC LIMIT 2) AS Std ORDER BY marks LIMIT 1;
 
-select max(marks) from student where marks < select max(marks) from student;
+SELECT max(marks) FROM student WHERE marks < SELECT max(marks) FROM student;
+
+-- working
+select name,sal from emp where sal = (select max(sal) from emp where sal < (select max(sal) from emp));
+
+-- using window function
+with cte (
+select ROW_NUMBER() over(order by sal desc)rnum ,name,sal from emp )
+select * from cte where rnum = 2
+
+select * from
+  ( select sal
+  , rank() over (order by sal desc) as rnk
+  from
+   ( select distinct sal from emp )
+  )
+  where rnk = 2
+```
+
+#### Other Questions
 
 - Difference between procedures and functions in mysql
 - What are different types of indexes in relational database

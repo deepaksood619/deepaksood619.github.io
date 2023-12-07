@@ -4,6 +4,8 @@
 - [Design Patterns](ai/llm/design-patterns.md)
 - [ChatGPT Prompt Engineering](ai/courses/chatgpt-prompt-eng.md)
 
+MMLU - Massive Multitask Language Understanding
+
 ## GPT-3
 
 Generative Pre-trained Transformer 3 (GPT-3; stylized GPT·3) is an autoregressive language model that uses deep learning to produce human-like text. Given an initial text as prompt, it will produce text that continues the prompt.
@@ -32,6 +34,7 @@ Moving from information to knowledge age
 
 #### AI Generators
 
+- [**Gemini** - Google DeepMind](https://deepmind.google/technologies/gemini)
 - [Stable Diffusion Online](https://stablediffusionweb.com/) - [Stability AI](https://stability.ai/) - Generation of unique, realistic, high-quality images, art, logos, and designs
 - Amazon Bedrock
 - Amazon Titan - Amazon Titan FMs are a family of models built by Amazon that are pretrained on large datasets, which makes them powerful, general-purpose models
