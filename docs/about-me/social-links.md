@@ -31,6 +31,7 @@
 - Twitter - https://twitter.com/deepaksood619
 - Skype Username - deepaksood619@gmail.com
 - Github Personal - https://github.com/deepaksood619
+- Gitlab Personal - [Deepak Sood · GitLab](https://gitlab.com/deepaksood619)
 - Github College - https://github.com/deepak15013
 - Codepen - https://codepen.io/deepaksood619
 - Project collection list - https://codepen.io/collection/AWRYzb

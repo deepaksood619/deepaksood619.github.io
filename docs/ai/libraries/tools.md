@@ -62,6 +62,8 @@ https://github.com/streamlit/streamlit
 
 https://www.freecodecamp.org/news/build-12-data-science-apps-with-python-and-streamlit
 
+[Generative AI and Streamlit: A perfect match](https://blog.streamlit.io/generative-ai-and-streamlit-a-perfect-match/)
+
 ## Metaflow
 
 Metaflow is a human-friendly Python library that helps scientists and engineers build and manage real-life data science projects. Metaflow was originally developed at Netflix to boost productivity of data scientists who work on a wide variety of projects from classical statistics to state-of-the-art deep learning

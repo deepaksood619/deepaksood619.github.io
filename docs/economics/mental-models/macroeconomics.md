@@ -165,3 +165,5 @@ The **impossible trinity** (also known as **the impossible [trilemma](https://en
 - [How The UN Destroyed Iraq For Oil | Epic Economics - YouTube](https://www.youtube.com/watch?v=PM3ZMWtbBag)
 - [Watch Out! They’re LYING To You About Inflation & The Economy!! - YouTube](https://www.youtube.com/watch?v=SUE1mNNjcZc)
 - [The Thinking Behind Why Cash Is Now Good (and not Trash)](https://www.linkedin.com/pulse/thinking-behind-why-cash-now-good-trash-ray-dalio)
+- [**Post Labor Economics**: How will the economy work after AGI? Recent thoughts and conversations - YouTube](https://www.youtube.com/watch?v=eD5GlCIS0sA) - Status game, Status economy
+-

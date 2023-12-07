@@ -1173,5 +1173,6 @@
 1163. [This Country Doesn't Care About Being Rich, They Are Measuring Happiness - YouTube](https://www.youtube.com/watch?v=a88l92ntAOM)
 1164. [The Bhopal Gas Leak | Who were Railway Men? | Dhruv Rathee - YouTube](https://www.youtube.com/watch?v=DOApK2Yf5j4)
 1165. [Citigroup and the 'financial supermarket' experiment | FT Film - YouTube](https://www.youtube.com/watch?v=3njfN0IOz38)
+1166. [You probably won’t survive 2024... Top 10 Tech Trends - YouTube](https://www.youtube.com/watch?v=vyQv563Y-fk)
 
 ## End

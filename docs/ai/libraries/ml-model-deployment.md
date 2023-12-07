@@ -16,7 +16,9 @@ The model is deployed to an online prediction service cluster (generally contain
 
 ## MLOps
 
-## ML Lifecycle
+MLOps is an engineering discipline that aims to unify ML systems development (dev) and ML systems deployment (ops) in order to standardize and streamline the continuous delivery of high-performing models in production.
+
+### ML Lifecycle
 
 - Framing ML problems from business goals
 - Access, prepare and process data for the model
@@ -27,3 +29,5 @@ The model is deployed to an online prediction service cluster (generally contain
 https://www.freecodecamp.org/news/what-is-mlops-machine-learning-operations-explained
 
 [MLOps guide](https://huyenchip.com/mlops/)
+
+[MLOps Course – Build Machine Learning Production Grade Projects - YouTube](https://www.youtube.com/watch?v=-dJPoLm_gtE)

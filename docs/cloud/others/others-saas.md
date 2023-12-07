@@ -56,6 +56,7 @@ Components
 ## Test Taking / Online assessment
 
 - ThinkExam
+- **Speedexam** - https://www.speedexam.net - 50 exams per month free
 - **Coding**
   - Codility (good but high price)
   - Evalground (150 per test, 100 min no of tests, 15000)
@@ -70,7 +71,6 @@ Components
 - TCExam - https://tcexam.org/docs/installation - https://github.com/tecnickcom/tcexam
 - Papershala - https://papershala.com
 - Edbase - http://www.edbase.net
-- **Speedexam** - https://www.speedexam.net - 50 exams per month free
 - https://belong.co
 
 ## Supply Chain Management

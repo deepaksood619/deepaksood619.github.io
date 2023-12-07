@@ -23,6 +23,45 @@ RAG is an AI framework for retrieving facts from an external knowledge base to g
 
 [What is retrieval-augmented generation? | IBM Research Blog](https://research.ibm.com/blog/retrieval-augmented-generation-RAG)
 
+## Others
+
+![LLM Working](../../media/llm-working.jpg)
+
+### How to train your ChatGPT
+
+#### Stage 1: Pretraining
+
+1. Download ~10TB of text
+2. Get a cluster of ~6,000 GPUs
+3. Compress the text into a neural network, pay ~$2M, wait ~12 days
+4. Obtain base model
+
+#### Stage 2: Finetuning
+
+1. Write labeling instructions
+2. Hire people (or use scale.ai!), collect 100K high quality ideal Q&A responses, and/or comparisons
+3. Finetune base model on this data, wait ~1 day
+4. Obtain assistant model
+5. Run a lot of evaluations
+6. Deploy
+7. Monitor, collect misbehaviors, go to step 1
+
+### LLM Security
+
+- Jailbreaking
+- Prompt injection
+- Backdoors & data poisoning
+- Adversarial inputs
+- Insecure output handling
+- Data extraction & privacy
+- Data reconstruction
+- Denial of service
+- Escalation
+- Watermarking & evasion
+- Model theft
+
+[[1hr Talk] Intro to Large Language Models - YouTube](https://www.youtube.com/watch?v=zjkBMFhNj_g)
+
 ## Dev Tools
 
 - [Welcome to LangChain - 🦜🔗 LangChain 0.0.180](https://python.langchain.com/en/latest/index.html)
