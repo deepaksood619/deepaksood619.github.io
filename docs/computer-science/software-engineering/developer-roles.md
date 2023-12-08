@@ -67,3 +67,35 @@ https://en.wikipedia.org/wiki/Non-functional_requirement
 Developer - A developer executes. Their talents often focused to a single area. Without need for the "big picture".
 
 Engineer - An engineer designs and plans. Always aware of the "big picture". With talents in many areas. An engineer can assume the developer role. But an engineer's core focus lies with architecture.
+
+### Engineers Salary Comparision
+
+There is a simple reason some engineers are worth +$1,000,000 per year:
+
+Leverage.
+
+There are the three main ways top engineers have leverage:
+
+#### 1. They write impactful software no one else can
+
+Software at large companies is already high leverage. A single change can have a ton of impact (`$$$`) at scale.
+
+This impact makes it worth it to pay a lot for their specialized skills.
+
+#### 2. They influence large groups of engineers
+
+Imagine a tech lead among tech leads. They might lead the planning, design, and delivery of initiatives that involve 30+ engineers.
+
+This influence gives them leverage and amplifies their impact.
+
+#### 3. They help engineers move faster at scale
+
+Their work often has compounding effects by making improvements to tooling or underlying infrastructure everyone uses.
+
+Imagine making 1000 engineers 3% faster. That "creates" 30 more engineers worth of bandwidth out of thin air.
+
+Most engineers will not get to these levels, but there's something we can still learn from them.
+
+The best way to have more impact is not to invest more time but to think about how to get more out of it through leverage.
+
+[Facebook Software Engineer Salary | $2.5M-$185K+ | Levels.fyi](https://www.levels.fyi/companies/facebook/salaries/software-engineer)
