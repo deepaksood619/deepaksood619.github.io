@@ -44,3 +44,7 @@ Data Lab has three offerings - the Build Lab, the Design Lab, and Resident Archi
 ## Amazon Managed Blockchain (AMB)
 
 [AWS expands Amazon Managed Blockchain with Access and Query | AWS Database Blog](https://aws.amazon.com/blogs/database/aws-expands-amazon-managed-blockchain-with-access-and-query/)
+
+## Others
+
+[What is myApplications on AWS - AWS Management Console](https://docs.aws.amazon.com/awsconsolehelpdocs/latest/gsg/aws-myApplications.html)

@@ -108,8 +108,8 @@ Companies are subject to many regulations regarding security and data-handling -
 
 - **GDPR:** TheGeneral Data Protection Regulation (GDPR)protects EU citizens from data breaches and misuse. It applies to all companies with data for EU citizens, even if those companies are not located in the EU.
 - **HIPAA:** TheHealth Insurance Portability and Accountability Act (HIPAA)regulates the data security of healthcare patients. Companies that handle healthcare data (e.g., hospitals, clinics and insurance companies) are required to comply with HIPAA regulations.
-- **Sarbanes-Oxley Act (SOX):** TheSarbanes-Oxley Act (SOX)requires U.S. company boards, management, and accounting firms to follow best practices and maintain financial records for seven years. The intent is to prevent incidents like the Enron scandal.
-- **FISMA:**The Federal Information Security Management Act of 2002 (FISMA)treats information security as a matter of national security. All federal agencies are required to develop compliant data protection methods.
+- **Sarbanes-Oxley Act (SOX):** The Sarbanes-Oxley Act (SOX)requires U.S. company boards, management, and accounting firms to follow best practices and maintain financial records for seven years. The intent is to prevent incidents like the Enron scandal.
+- **FISMA:** The Federal Information Security Management Act of 2002 (FISMA)treats information security as a matter of national security. All federal agencies are required to develop compliant data protection methods.
 - **PCI-DSS:** ThePayment Card Industry Data Security Standard (PCI-DSS)regulations reduce fraud by protecting customer credit card information. PCI-DSS compliance is required for all companies handling credit card information.
 - **GPG13:** TheProtective Monitoring for HMG ICT Systems regulation (GPG13)is a U.K. general data-protection regulation for business processes. It is compulsory for businesses managing high-impact data.
 
@@ -117,28 +117,26 @@ Companies are subject to many regulations regarding security and data-handling -
 
 Nutanix provides the public cloud benefits that organizations want with the control that they need on-prem. There aresixmajor benefits to Nutanix HCI specifically:
 
-- **Full-cloud:**It's a full-cloud stack that integrates all compute, storage, virtualization, and networking resources to run any application.
+- **Full-cloud:** It's a full-cloud stack that integrates all compute, storage, virtualization, and networking resources to run any application.
 
-- **One-click simplicity:**This entire stack is managed via a single pane of glass that streamlines IT lifecycle management and makes hybrid and multi-cloud management easy .
+- **One-click simplicity:** This entire stack is managed via a single pane of glass that streamlines IT lifecycle management and makes hybrid and multi-cloud management easy .
 
-- **Deployed in minutes:**The applications themselves can be deployed in minutes, instead of weeks or months. This is true for new infrastructure as well.
+- **Deployed in minutes:** The applications themselves can be deployed in minutes, instead of weeks or months. This is true for new infrastructure as well.
 
-- **Automation application management:**Application management can also be automated, along with other common IT tasks. Application owners and developers can also be given on-demand IT services.
+- **Automation application management:** Application management can also be automated, along with other common IT tasks. Application owners and developers can also be given on-demand IT services.
 
-- **Lower cloud costs:**You can also reduce your datacenter TCO by up to 60%. This will help optimize your public cloud spend with lower cloud costs.
+- **Lower cloud costs:** You can also reduce your datacenter TCO by up to 60%. This will help optimize your public cloud spend with lower cloud costs.
 
-- **True hybrid cloud:**This refers to the ability for you to combine both public and private cloud operations with unified management.
+- **True hybrid cloud:** This refers to the ability for you to combine both public and private cloud operations with unified management.
 
 ![image](../../media/Nutanix-Hybrid-Cloud-image6.jpg)
 
-1. Acropolis:The data plane
+1. Acropolis: The data plane
+2. Prism: The management plane
 
-2. Prism:The management plane
+### Others
 
-## Hybrid Cloud Security
-
-## Networking
-
-## Managing Virtual Machines in the Hybrid Cloud
-
-## Data Protection
+- Hybrid Cloud Security
+- Networking
+- Managing Virtual Machines in the Hybrid Cloud
+- Data Protection
