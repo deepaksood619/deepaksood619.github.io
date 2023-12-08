@@ -40,9 +40,47 @@
 - [AWS Certificate Manager](https://docs.aws.amazon.com/acm/?id=docs_gateway)
 - [AWS Certificate Manager Private Certificate Authority](https://docs.aws.amazon.com/acm/?id=docs_gateway)
 
+### AWS Shared Responsibility Model
+
+![aws-shared-responsibility-model](../../../media/Screenshot%202023-12-08%20at%206.30.28PM.jpg)
+
 ## Tools
 
-## ScoutSuite
+### AWS Audit Manager
+
+![aws-audit-manager](../../../media/Screenshot%202023-12-08%20at%206.33.06PM.jpg)
+
+[AWS Audit Manager Demo 2021 | Amazon Web Services - YouTube](https://www.youtube.com/watch?v=v2o1d76ZSf8&ab_channel=AmazonWebServices)
+
+### AWS Security Hub
+
+Automate AWS security checks and centralize security alerts
+
+#### Features
+
+1. Simple multi-account setup via AWS Organizations
+2. Cross-region and cross-account aggregation of findings
+3. Automated security checks (standards and controls)
+4. Integrations with AWS services and partner products for finding aggregation
+5. Automated response and remediation
+
+#### Key use cases
+
+- CSPM - Cloud Security Posture Management
+- SIEM - Security Information and Event Management
+- SOAR - Security Orchestration, Automation, and Response
+
+[AWS Security Hub](https://aws.amazon.com/security-hub/)
+
+[An Overview of AWS Security Hub | Amazon Web Services - YouTube](https://www.youtube.com/watch?v=oBac-GAoZJ8&ab_channel=AmazonWebServices)
+
+### Security Hub vs Audit Manager
+
+For small organizations with not a lot of assets and findings that Security Hub on its own is probably sufficient. For larger organizations or those that have lots of assets and finding, Audit Manager can be extremely helpful on cutting down the noise of everything else and helping your or your external auditors focus on their task at hand.
+
+[AWS Audit Manager vs Security Hub : r/aws](https://www.reddit.com/r/aws/comments/w55i9m/aws_audit_manager_vs_security_hub/)
+
+### ScoutSuite
 
 Scout Suite is an open source multi-cloud security-auditing tool, which enables security posture assessment of cloud environments. Using the APIs exposed by cloud providers, Scout Suite gathers configuration data for manual inspection and highlights risk areas. Rather than going through dozens of pages on the web consoles, Scout Suite presents a clear view of the attack surface automatically.
 
@@ -56,7 +94,7 @@ The following cloud providers are currently supported/planned:
 
 https://github.com/nccgroup/ScoutSuite
 
-## Running scoutsuite (Download scoutsuite repo)
+#### Running scoutsuite (Download scoutsuite repo)
 
 `python scout.py aws --profile zen`
 
@@ -70,6 +108,21 @@ https://cloudcustodian.io
 
 ## Compliances
 
-## PCI COMPLIANCE
+### PCI Compliance
 
-The Payment Card Industry Data Security Standard (PCIDSS) is a set of requirements intended to ensure that all companies that process, store, or transmit credit card information maintain a secure environment.
+The Payment Card Industry Data Security Standard (PCI-DSS) is a set of requirements intended to ensure that all companies that process, store, or transmit credit card information maintain a secure environment.
+
+- Payment Card Industry-Data Security Standard (PCI-DSS)
+- Payment Application-Data Security Standard (PA-DSS)
+
+[GitHub - jivoi/offsec\_pdfs: :heavy\_check\_mark: your offsec knowledge](https://github.com/jivoi/offsec_pdfs)
+
+### SOC Compliance (Service Organization Control)
+
+SOC compliance is a certification that shows a service organization has completed a third-party audit and has certain controls in place. The most common types of SOC compliance are SOC 1, SOC 2, and SOC 3. There are also SOC for Cybersecurity and SOC for Supply Chain certifications.
+
+SOC 2 compliance is a voluntary certification that shows an organization's commitment to information security. It covers five pillars, called Trust Services Criteria (TSC): Security, Availability, Processing integrity, Confidentiality, Privacy.
+
+SOC 2 compliance may help organizations avoid data breaches and the financial and reputational damage that can result. It can also increase an organization's brand reputation and give it a competitive advantage.
+
+SOC 2, aka **Service Organization Control Type 2**, is a cybersecurity compliance framework developed by the American Institute of Certified Public Accountants (AICPA). The primary purpose of SOC 2 is to ensure that third-party service providers store and process client data in a secure manner.

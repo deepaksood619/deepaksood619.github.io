@@ -117,7 +117,7 @@ Committing to a startup idea is possibly the most consequential decision you'll 
 There are three common ways to come up with an idea:
 
 1. **Market first:** Start with a market or space that interests you, then look for a specific problem
-2. **Experience ripe for improvement:**Look for areas where you believe there should be a better consumer experience than what currently exists, and iterate from there
+2. **Experience ripe for improvement:** Look for areas where you believe there should be a better consumer experience than what currently exists, and iterate from there
 3. **Problem first:** Start with a problem you've experienced firsthand and figure out if enough other people have the same problem
 
 ![image](../../media/Ideas-Intro-image2.jpg)
