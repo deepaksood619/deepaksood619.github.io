@@ -7,35 +7,20 @@
 ## Features
 
 1. Authentication
-
 2. Authorization
-
 3. Security
-
 4. SSL termination
-
 5. DDOS protection / Throttling
-
 6. Adaptor (that will consolidate all information from all services and return as one response)
-
 7. Serve static content
-
 8. Cache responses
-
 9. Request routing
-
 10. Router & Load Balancer
-
 11. A/B Testing
-
 12. Canary Testing
-
 13. Protocol Adapter
-
 14. Monitoring all api's performance
-
 15. Rate Limiting
-
 16. Expose as API service
 
 ## Using an API gateway has the following benefits
@@ -57,37 +42,29 @@
 1. **Cloud**
 
    - Apigee
-
    - AWS API Gateway
-
    - Azure API Gateway
-
    - Google cloud endpoints
-
    - WSO2 API Manager
 
 2. **Self Managed**
 
    - Apache
-
    - HAProxy
-
    - Nginx
-
    - Spring cloud gateway
-
    - https://apisix.apache.org
 
 ## API Gateways
 
-## Gloo
+### Gloo
 
 The Hybrid Application Gateway built on top of Envoy
 Gloo is a feature-rich, Kubernetes-native ingress controller, and next-generation API gateway. Gloo is exceptional in its function-level routing; its support for legacy apps, microservices and serverless; its discovery capabilities; its numerous features; and its tight integration with leading open-source projects. Gloo is uniquely designed to support hybrid applications, in which multiple technologies, architectures, protocols, and clouds can coexist
 
 https://github.com/solo-io/gloo
 
-## Ambassador
+### Ambassador
 
 [Ambassador](https://www.getambassador.io/) is an open source Kubernetes-native API Gateway built on [Envoy](https://www.envoyproxy.io/), designed for microservices. Ambassador essentially serves as an Envoy ingress controller, but with many more features.
 Key features include:
@@ -100,6 +77,7 @@ Key features include:
 - Robust TLS support, including TLS client-certificate authentication
 
 https://github.com/datawire/ambassador
+
 ![image](../../media/API-Gateway-image1.jpg)
 
 https://microservices.io/patterns/apigateway.html
@@ -115,3 +93,11 @@ https://developer.ibm.com/apiconnect/2018/11/13/service-mesh-vs-api-management
 https://blog.christianposta.com/microservices/api-gateways-are-going-through-an-identity-crisis
 
 https://konghq.com/blog/the-difference-between-api-gateways-and-service-mesh
+
+### [API Platform | Tailcall](https://tailcall.run/)
+
+A cloud native solution to streamline API management across **edge**, **middle**, and **service**
+
+[Problem Statement | Tailcall](https://tailcall.run/docs/)
+
+[GitHub - tailcallhq/tailcall: A high-performance no-code GraphQL backend](https://github.com/tailcallhq/tailcall)
