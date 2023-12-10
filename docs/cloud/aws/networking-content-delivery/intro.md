@@ -7,7 +7,7 @@
 
     AWS PrivateLink simplifies the security of data shared with cloud-based applications by eliminating the exposure of data to the public Internet. AWS PrivateLink provides private connectivity between VPCs, AWS services, and on-premises applications, securely on the Amazon network. AWS PrivateLink makes it easy to connect services across different accounts and VPCs to significantly simplify the network architecture.
 
-3. Amazon CloudFront - Global Content Delivery Network - [Guide to AWS Lambda@Edge A/B Testing](https://www.toptal.com/aws/ab-testing-with-aws-lambda-at-edge)
+3. Amazon CloudFront - Global Content Delivery Network
 
 4. Amazon Route 53
 
