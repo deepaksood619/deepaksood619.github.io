@@ -58,6 +58,7 @@
 - [Convex](https://www.convexfinance.com/)
 - [OpenEden](https://openeden.com/)
 - [token.com | Invest with Intent](https://www.token.com/)
+- [The On-Chain Firewall | Harpie](https://harpie.io/)
 
 ## Games
 

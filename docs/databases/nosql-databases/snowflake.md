@@ -189,6 +189,12 @@ DROP WAREHOUSE IF EXISTS sf_tuts_wh;
 
 - Streamlit
 
+### Terraform
+
+[Terraform Registry](https://registry.terraform.io/providers/Snowflake-Labs/snowflake/latest/docs)
+
+[Terraforming Snowflake](https://quickstarts.snowflake.com/guide/terraforming_snowflake/index.html#0)
+
 ## Links
 
 [The Snowflake Data Cloud - Mobilize Data, Apps, and AI](https://www.snowflake.com/en/)

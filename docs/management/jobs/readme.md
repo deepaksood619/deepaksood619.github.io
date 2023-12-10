@@ -4,6 +4,8 @@
 - [Companies](management/jobs/companies.md)
 - [Questions to Company](management/jobs/questions-to-company.md)
 - [Good Profiles](management/jobs/good-profiles.md)
+- [Resume Keywords Pointers](management/jobs/resume-keywords-pointers.md)
+- [Hiring Plan / HR / Recruiting](management/jobs/hiring-plan-hr-recruiting.md)
 
 ### Shotgun approach
 
@@ -74,6 +76,7 @@ Where you apply to a lot of jobs
 - **Andela**
 - **Uplers**
 - **Toptal**
+- [Algora](https://console.algora.io/)
 - FlexJobs
 - We Work Remotely
 - Remote Okay
