@@ -36,13 +36,15 @@ https://docusaurus.io/docs
 
 https://wiki.nikiv.dev/
 
+[Docusaurus authentication with Firebase | by Thomasdevshare | Medium](https://medium.com/@thomasdevshare/docusaurus-authentication-with-firebase-c824da24bc51)
+
 ### Extensions
 
 [Swizzling | Docusaurus](https://docusaurus.io/docs/swizzling)
 
 **swizzling** - allows **deeper site customizations**
 
-swizzling permits to **swap a theme component with your own implementation**, and it comes in 2 patterns:
+swizzling permits to **swap a theme component with your own implementation**, and it comes in 2 patterns
 
 - [**Ejecting**](https://docusaurus.io/docs/swizzling#ejecting): creates a **copy** of the original theme component, which you can fully **customize**
 - [**Wrapping**](https://docusaurus.io/docs/swizzling#wrapping): creates a **wrapper** around the original theme component, which you can **enhance**

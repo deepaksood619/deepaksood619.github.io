@@ -58,7 +58,11 @@ Moving from information to knowledge age
 - Merlin Chrome Extension
 - [ElevenLabs - Prime AI Text to Speech | Voice Cloning](https://beta.elevenlabs.io/)
 - [Create Video](https://studio.d-id.com/editor)
-- [Gamma App](https://gamma.app/) - AI generated presentation
+- AI generated presentation
+  - [Gamma App](https://gamma.app/)
+  - [Presentation Software | Basic to Beautiful in Minutes with Beautiful.ai](https://www.beautiful.ai/)
+  - [Decktopus | Create Better Presentations | AI Presentation Assistant](https://app.decktopus.com/dashboard/decks)
+  - [Plus AI for Google Slides™ - Google Workspace Marketplace](https://workspace.google.com/u/0/marketplace/app/plus_ai_for_google_slides/214277172452)
 - [AudioPen - The easiest way to convert messy thoughts into clear text.](https://audiopen.ai/)
 - [Instantly.ai - Cold Email Software](https://instantly.ai/)
 - [Text-to-meme | Supermeme.ai](https://app.supermeme.ai/text-to-meme)

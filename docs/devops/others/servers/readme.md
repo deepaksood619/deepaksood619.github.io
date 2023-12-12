@@ -2,11 +2,11 @@
 
 ## HTTPD (HTTP Daemon)
 
-The HTTPD (HTTP Daemon) server is the one handling the requests/responses on the server side. The most common HTTPD servers are Apache or nginx for Linux and IIS for Windows
+The HTTPD (HTTP Daemon) server is the one handling the requests / responses on the server side. The most common HTTPD servers are Apache or nginx for Linux and IIS for Windows
 
 ## Web Server
 
-A request comes in and arrives at the first component - a dedicatedweb server. It is great at reading static files from disk (your css files for example) and handling multiple requests. When a request is not a static file, but meant for your all it gets passed on down the stack.
+A request comes in and arrives at the first component - a dedicated web server. It is great at reading static files from disk (your css files for example) and handling multiple requests. When a request is not a static file, but meant for your all it gets passed on down the stack.
 
 Examples
 
@@ -18,9 +18,9 @@ Examples
 
 ## Application Server
 
-Theapplication servergets those fancy requests and converts the information from them into Python objects which are usable by frameworks. How this is supposed to happen is described by a specification people agreed on -[WSGI](https://en.wikipedia.org/wiki/Web_Server_Gateway_Interface). (*whiskey*)
+The application server gets those fancy requests and converts the information from them into Python objects which are usable by frameworks. How this is supposed to happen is described by a specification people agreed on -[WSGI](https://en.wikipedia.org/wiki/Web_Server_Gateway_Interface). (*whiskey*)
 
-Examples
+### Examples
 
 1. Gunicorn
 2. **uWSGI**
@@ -29,12 +29,13 @@ Examples
 5. Meinheld
 6. mod_WSGI
 7. WildFly (JBoss) written in Java
+8. Microsoft IIS (Internet Information Services)
 
 ![image](../../../media/DevOps-Others-Servers-image1.jpg)
 
 ## Proxy Server
 
-In computer networks, a**proxy server** is a [server](https://en.wikipedia.org/wiki/Server_(computing))(a computer system or an application) that acts as an [intermediary](https://en.wikipedia.org/wiki/Intermediary) for requests from [clients](https://en.wikipedia.org/wiki/Client_(computing)) seeking resources from other servers.A client connects to the proxy server, requesting some service, such as a file, connection, [web page](https://en.wikipedia.org/wiki/Web_page), or other resource available from a different server and the proxy server evaluates the request as a way to simplify and control its complexity.Proxies were invented to add structure and [encapsulation](https://en.wikipedia.org/wiki/Encapsulation_(networking)) to [distributed systems](https://en.wikipedia.org/wiki/Distributed_computing).
+In computer networks, a **proxy server** is a [server](https://en.wikipedia.org/wiki/Server_(computing))(a computer system or an application) that acts as an [intermediary](https://en.wikipedia.org/wiki/Intermediary) for requests from [clients](https://en.wikipedia.org/wiki/Client_(computing)) seeking resources from other servers.A client connects to the proxy server, requesting some service, such as a file, connection, [web page](https://en.wikipedia.org/wiki/Web_page), or other resource available from a different server and the proxy server evaluates the request as a way to simplify and control its complexity.Proxies were invented to add structure and [encapsulation](https://en.wikipedia.org/wiki/Encapsulation_(networking)) to [distributed systems](https://en.wikipedia.org/wiki/Distributed_computing).
 
 https://en.wikipedia.org/wiki/Proxy_server
 
@@ -45,8 +46,6 @@ A **web accelerator** is a [proxy server](https://en.wikipedia.org/wiki/Proxy_se
 Web accelerators may be installed on the client computer or mobile device, on ISP servers, on the server computer/network, or a combination. Accelerating delivery through compression requires some type of host-based server to collect, compress and then deliver content to a client computer.
 
 https://en.wikipedia.org/wiki/Web_accelerator
-
-## Microsoft IIS (Internet Information Services)
 
 ## Python Application Servers
 
@@ -59,7 +58,7 @@ https://en.wikipedia.org/wiki/Web_accelerator
 
 ## uWSGI
 
-uWSGIis a [software application](https://en.wikipedia.org/wiki/Software_application) that "aims at developing a full stack for building [hosting services](https://en.wikipedia.org/wiki/Hosting_services)".It is named after the [Web Server Gateway Interface](https://en.wikipedia.org/wiki/Web_Server_Gateway_Interface)(WSGI), which was the first plugin supported by the project.
+uWSGI is a [software application](https://en.wikipedia.org/wiki/Software_application) that "aims at developing a full stack for building [hosting services](https://en.wikipedia.org/wiki/Hosting_services)".It is named after the [Web Server Gateway Interface](https://en.wikipedia.org/wiki/Web_Server_Gateway_Interface)(WSGI), which was the first plugin supported by the project.
 
 uWSGI is often used for serving [Python](https://en.wikipedia.org/wiki/Python_(programming_language))[web applications](https://en.wikipedia.org/wiki/Web_applications) in conjunction with [web servers](https://en.wikipedia.org/wiki/Web_server) such as [Cherokee](https://en.wikipedia.org/wiki/Cherokee_(web_server)) and [Nginx](https://en.wikipedia.org/wiki/Nginx), which offer direct support for uWSGI's native uwsgi protocol.
 
@@ -120,14 +119,14 @@ Its primary goal is to provide a way to write HTTP/2 and WebSocket code alongsid
 
 ASGI consists of two different components:
 
-- **Aprotocol server**, which terminates sockets and translates them into connections and per-connection event messages.
-- **Anapplication**, which lives inside aprotocol server, is instantiated once per connection, and handles event messages as they happen.
+- **A protocol server**, which terminates sockets and translates them into connections and per-connection event messages.
+- **An application**, which lives inside a protocol server, is instantiated once per connection, and handles event messages as they happen.
 
-Like WSGI, the server hosts the application inside it, and dispatches incoming requests to it in a standardized format. Unlike WSGI, however, applications are instantiated objects that are fed events rather than simple callables, and must run asasyncio-compatible coroutines (on the main thread; they are free to use threading or other processes if they need synchronous code).
+Like WSGI, the server hosts the application inside it, and dispatches incoming requests to it in a standardized format. Unlike WSGI, however, applications are instantiated objects that are fed events rather than simple callables, and must run as asyncio-compatible coroutines (on the main thread; they are free to use threading or other processes if they need synchronous code).
 
 Unlike WSGI, there are two separate parts to an ASGI connection:
 
-- Aconnection scope, which represents a protocol connection to a user and survives until the connection closes.
+- A connection scope, which represents a protocol connection to a user and survives until the connection closes.
 - Events, which are sent to the application as things happen on the connection.
 
 Applications are instantiated with a connection scope, and then run in an event loop where they are expected to handle events and send data back to the client.

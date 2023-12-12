@@ -53,6 +53,7 @@
 - Better Angels of Our Nature
 - Capitalism and Freedom by Milton Friedman
 - Catcher in the rye
+- Coup D'État: A Practical Handbook by Edward Luttwak
 - Daily rituals by Mason Currey
 - Don Quichotte
 - Dotcom secrets by Russel Brunson

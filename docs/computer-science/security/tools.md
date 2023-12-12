@@ -78,7 +78,7 @@ https://github.com/google/nogotofail
 
 https://www.devglan.com/online-tools/aes-encryption-decryption
 
-## NaCl
+## NaCl (Networking and Cryptography library)
 
 http://nacl.cr.yp.to
 
@@ -140,3 +140,9 @@ https://certbot.eff.org
 https://www.crowdstrike.com
 
 https://snyk.io
+
+[Application Security Testing Company | Software Security Testing Solutions | Checkmarx](https://checkmarx.com/)
+
+## Others
+
+[Security / Identity / Compliance](cloud/aws/security-identity-compliance/intro.md)

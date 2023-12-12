@@ -95,3 +95,5 @@ In the multicap category, the allocation decision is left to the fund manager wh
 
 - Momentum
 - Value fund
+
+[List of worst equity mutual funds (Jan 2013 to Dec 2023)](https://freefincal.com/list-of-worst-equity-mutual-funds-jan-2013-to-dec-2023/)

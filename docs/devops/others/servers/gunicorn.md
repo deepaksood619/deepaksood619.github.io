@@ -46,17 +46,17 @@ https://github.com/benoitc/gunicorn/blob/master/examples/example_config.py
 
 - use/dev/shminstead of/tmp
 - start at least two workers, and probably also start a number of threads using
-- thegthreadworker backend when running in a container
+- the gthread worker backend when running in a container
 - gunicorn --log-file=- ...
 - you don't always need nginx or another proxy in front Gunicorn
 
 Gunicorn should only need 4-12 worker processes to handle hundreds or thousands of requests per second.
 
-Gunicorn relies on the operating system to provide all of the load balancing when handling requests. Generally we recommend(2x$num_cores)+1as the number of workers to start off with. While not overly scientific, the formula is based on the assumption that for a given core, one worker will be reading or writing from the socket while the other worker is processing a request.
+Gunicorn relies on the operating system to provide all of the load balancing when handling requests. Generally we recommend (2x$num_cores)+1 as the number of workers to start off with. While not overly scientific, the formula is based on the assumption that for a given core, one worker will be reading or writing from the socket while the other worker is processing a request.
 
 ## Timeout
 
-The gunicorn documentation is not entierly clear to me on this point. For --timeout it says that Workers silent for more than this many seconds are killed and restarted. But it seems that workers are killed after 30sec even though they still produce data?
+The gunicorn documentation is not entirely clear to me on this point. For --timeout it says that Workers silent for more than this many seconds are killed and restarted. But it seems that workers are killed after 30sec even though they still produce data?
 
 By silent, we mean silent from the perspective of the arbiter process, which communicates with the workers through a temporary file. If the worker is busy sending data, it does not update that file. From the perspective of the arbiter, the worker is missing heartbeats.
 
@@ -67,16 +67,16 @@ Gunicorn's main process starts one or more worker processes, and restarts them i
 - Gunicorn starts a single master process that gets forked, and the resulting child processes are the workers.
 - The role of the master process is to make sure that the number of workers is the same as the ones defined in the settings. So if any of the workers die, the master process starts another one, by forking itself again.
 - The role of the workers is to handle HTTP requests.
-- Thepreinpre-forkedmeans that the master process creates the workers before handling any HTTP request.
+- The pre in pre-forked means that the master process creates the workers before handling any HTTP request.
 - The OS kernel handles load balancing between worker processes.
 
 https://pythonspeed.com/articles/gunicorn-in-docker
 
 ## Setting up workers
 
-1. If the application is [I/O bounded](https://en.wikipedia.org/wiki/I/O_bound), the best performance usually comes from using "pseudo-threads" (gevent or asyncio). As we have seen, Gunicorn supports this programming paradigm by setting the appropriateworker classand adjusting the value ofworkersto(2*CPU)+1.
+1. If the application is [I/O bounded](https://en.wikipedia.org/wiki/I/O_bound), the best performance usually comes from using "pseudo-threads" (gevent or asyncio). As we have seen, Gunicorn supports this programming paradigm by setting the appropriate worker class and adjusting the value of workers to `(2*CPU)+1`.
 
-2. If the application is [CPU bounded](https://en.wikipedia.org/wiki/CPU-bound), it doesn't matter how many concurrent requests are handled by the application. The only thing that matters is the number of parallel requests. Due to [Python's GIL](https://wiki.python.org/moin/GlobalInterpreterLock), threads and "pseudo-threads" cannot run in parallel. The only way to achieve parallelism is to increaseworkersto the suggested(2*CPU)+1, understanding that the maximum number of parallel requests is the number of cores.
+2. If the application is [CPU bounded](https://en.wikipedia.org/wiki/CPU-bound), it doesn't matter how many concurrent requests are handled by the application. The only thing that matters is the number of parallel requests. Due to [Python's GIL](https://wiki.python.org/moin/GlobalInterpreterLock), threads and "pseudo-threads" cannot run in parallel. The only way to achieve parallelism is to increase workers to the suggested `(2*CPU)+1`, understanding that the maximum number of parallel requests is the number of cores.
 
 3. If there is a concern about the application [memory footprint](https://en.wikipedia.org/wiki/Memory_footprint), usingthreadsand its correspondinggthread worker classin favor ofworkersyields better performance because the application is loaded once per worker and every thread running on the worker shares some memory, this comes to the expense of some additional CPU consumption.
 
