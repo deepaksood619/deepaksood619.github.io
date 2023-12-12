@@ -215,23 +215,23 @@ print(dict2)
 
 ## Architecture
 
-- Python dictionaries are implemented ashash tables.
-- Hash tables must allow forhash collisionsi.e. even if two distinct keys have the same hash value, the table's implementation must have a strategy to insert and retrieve the key and value pairs unambiguously.
-- Pythondictusesopen addressingto resolve hash collisions
+- Python dictionaries are implemented as hash tables.
+- Hash tables must allow for hash collisions i.e. even if two distinct keys have the same hash value, the table's implementation must have a strategy to insert and retrieve the key and value pairs unambiguously.
+- Python dict uses open addressing to resolve hash collisions
 - Python hash table is just a contiguous block of memory (sort of like an array, so you can do anO(1)lookup by index).
 - Each slot in the table can store one and only one entry.
-- Eachentryin the table actually a combination of the three values:< hash, key, value >. This is implemented as a C struct
-- The figure below is a logical representation of a Python hash table. In the figure below,0, 1, ..., i, ...on the left are indices of theslotsin the hash table (they are just for illustrative purposes and are not stored along with the table obviously!).
+- Each entry in the table actually a combination of the three values: `<` hash, key, value `>`. This is implemented as a C struct
+- The figure below is a logical representation of a Python hash table. In the figure below, `0, 1, ..., i, ...` on the left are indices of the slots in the hash table (they are just for illustrative purposes and are not stored along with the table obviously!).
 
 ![image](../../../media/Data-Structure_Dictionary-image1.jpg)
 
 - When a new dict is initialized it starts with 8slots.
 - When adding entries to the table, we start with some slot,i, that is based on the hash of the key. CPython initially usesi = hash(key) & mask(wheremask = PyDictMINSIZE - 1, but that's not really important). Just note that the initial slot,i, that is checked depends on thehashof the key.
 - If that slot is empty, the entry is added to the slot (by entry, I mean, `<hash|key|value>`). But what if that slot is occupied!? Most likely because another entry has the same hash (hash collision!)
-- If the slot is occupied, CPython (and even PyPy) comparesthe hash AND the key(by compare I mean==comparison not theiscomparison) of the entry in the slot against the hash and key of the current entry to be inserted respectively. Ifbothmatch, then it thinks the entry already exists, gives up and moves on to the next entry to be inserted. If either hash or the key don't match, it startsprobing.
-- Probing just means it searches the slots by slot to find an empty slot. Technically we could just go one by one,i+1, i+2, ...and use the first available one (that's linear probing). But for reasons explained beautifully in the comments, CPython usesrandom probing. In random probing, the next slot is picked in a pseudo random order. The entry is added to the first empty slot. For this discussion, the actual algorithm used to pick the next slot is not really important. What is important is that the slots are probed until first empty slot is found.
+- If the slot is occupied, CPython (and even PyPy) compares the hash AND the key (by compare I mean (double equal to) comparison not the is comparison) of the entry in the slot against the hash and key of the current entry to be inserted respectively. If both match, then it thinks the entry already exists, gives up and moves on to the next entry to be inserted. If either hash or the key don't match, it starts probing.
+- Probing just means it searches the slots by slot to find an empty slot. Technically we could just go one by one, i+1, i+2, ...and use the first available one (that's linear probing). But for reasons explained beautifully in the comments, CPython uses random probing. In random probing, the next slot is picked in a pseudo random order. The entry is added to the first empty slot. For this discussion, the actual algorithm used to pick the next slot is not really important. What is important is that the slots are probed until first empty slot is found.
 - The same thing happens for lookups, just starts with the initial slot i (where i depends on the hash of the key). If the hash and the key both don't match the entry in the slot, it starts probing, until it finds a slot with a match. If all slots are exhausted, it reports a fail.
-- BTW, thedictwill be resized if it is two-thirds full. This avoids slowing down lookups.
+- BTW, the dict will be resized if it is two-thirds full. This avoids slowing down lookups.
 
 https://stackoverflow.com/questions/327311/how-are-pythons-built-in-dictionaries-implemented
 
@@ -270,8 +270,6 @@ Python optimizes hash tables into combined tables and split tables (which are op
 In a combined table, the hash table has two important arrays. One is the entries array. Theentries arraystores entry objects that contain the key and value stored in the hash table. The order of entries doesn't change as the table is resized.
 
 The other array is the indices array that acts as the hash table. Theindices arrayelements contain the index of their corresponding entry in the entries array.
-
-![image](../../../media/Data-Structure_Dictionary-image2.jpg)
 
 CPython uses a few different structs to represent a dictionary and these arrays.
 
@@ -356,16 +354,14 @@ while(1) {
 
 Linear probing can be inefficient in CPython, because some of the CPython hash functions result in many keys mapping to the same index. If there are many collisions at the same index, linear probing results in clusters of active slots causing the linear probe to go through many iterations before finding a match.
 
-![image](../../../media/Data-Structure_Dictionary-image3.jpg)
-
-One solution would be to use improved hash functions at the price of slower hashing. Instead, CPython makes the probing more random. It uses the rest of the hash to generate a new index. This is done by storing the hash in a variable namedperturband shiftingperturbdown 5 bits (PERTURB_SHIFT) each iteration. This is combined with the following calculation:
+One solution would be to use improved hash functions at the price of slower hashing. Instead, CPython makes the probing more random. It uses the rest of the hash to generate a new index. This is done by storing the hash in a variable named perturb and shifting perturb down 5 bits (PERTURB_SHIFT) each iteration. This is combined with the following calculation:
 
 ```python
 perturb >>= PERTURB_SHIFT;
 i = mask & (i*5 + perturb + 1);
 ```
 
-After a few shifts, perturb becomes 0, meaning justi*5 + 1is used. This is fine becausemask & (i*5 + 1)produces every integer in range 0-maskexactly once.
+After a few shifts, perturb becomes 0, meaning just `i*5 + 1` is used. This is fine because mask `& (i*5 + 1)` produces every integer in range 0-mask exactly once.
 
 https://www.data-structures-in-practice.com/hash-tables
 

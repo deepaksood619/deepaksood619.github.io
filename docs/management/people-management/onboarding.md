@@ -35,10 +35,10 @@
 - Code quality and writing test cases
 - Share Tech Documents folder Google Drive
 - Credentials
-	- Keycloak
-	- Databases
-	- AWS
-	- VPN
+  - Keycloak
+  - Databases
+  - AWS
+  - VPN
 
 #### 2nd Week Start
 
@@ -127,13 +127,14 @@ Notes - Kubernetes EKS Infra
 - What's the best process for you to learn a new skill?
 
 ## [How To Win The First 90 Days At A New Job](https://www.linkedin.com/posts/abelcak_how-to-win-the-first-90-days-at-a-new-job-activity-7057701490240450560-wlgm/)
+
 1. The new person card
 2. Make your vip list
 3. Send one request per day
 4. The 3 magic questions
-	1. What are you and your team working on?
-	2. If you could wave a magic wand and have our team do one thing to make your life easier, what would it be?
-	3. What's your best piece of advice for someone new here?
+ 1. What are you and your team working on?
+ 2. If you could wave a magic wand and have our team do one thing to make your life easier, what would it be?
+ 3. What's your best piece of advice for someone new here?
 5. Document their answers
 6. Identify "Double Dip" Wins
 7. Take action & report back

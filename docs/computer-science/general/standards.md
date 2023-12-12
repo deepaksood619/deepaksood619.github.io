@@ -9,6 +9,7 @@
 ## base64
 
 In [computer science](https://en.wikipedia.org/wiki/Computer_science),Base64 is a group of [binary-to-text encoding](https://en.wikipedia.org/wiki/Binary-to-text_encoding) schemes that represent [binary data](https://en.wikipedia.org/wiki/Binary_data) in an [ASCII](https://en.wikipedia.org/wiki/ASCII) string format by translating it into a [radix](https://en.wikipedia.org/wiki/Radix)-64 representation. The term Base64 originates from a specific [MIME content transfer encoding](https://en.wikipedia.org/wiki/MIME#Content-Transfer-Encoding). Each Base64 digit represents exactly 6 bits of data. Three 8-bit bytes (i.e., a total of 24 bits) can therefore be represented by four 6-bit Base64 digits.
+
 Common to all binary-to-text encoding schemes, Base64 is designed to carry data stored in binary formats across channels that only reliably support text content. Base64 is particularly prevalent on the World Wide Web its uses include the ability to embed [image files](https://en.wikipedia.org/wiki/Image_files) or other binary assets inside textual assets such as [HTML](https://en.wikipedia.org/wiki/HTML) and [CSS](https://en.wikipedia.org/wiki/CSS) files.
 
 The difference between Base64 and hex is really just how bytes are represented. Hex is another way of saying "Base16". **Hex will take two characters for each byte - Base64 takes 4 characters for every 3 bytes, so it's more efficient than hex.** Assuming you're using UTF-8 to encode the XML document, a 100K file will take 200K to encode in hex, or 133K in Base64.
@@ -25,8 +26,8 @@ Base64 is a way to encode binary data, while UTF8 and UTF16 are ways to encode U
 
 Things to keep in mind:
 
-- Not every byte sequence represents an Unicode string encoded in UTF-8 or UTF-16.
-- Not every Unicode string represents a byte sequence encoded in Base64.
+- Not every byte sequence represents an Unicode string encoded in UTF-8 or UTF-16
+- Not every Unicode string represents a byte sequence encoded in Base64
 
 https://stackoverflow.com/questions/3866316/whats-the-difference-between-utf8-utf16-and-base64-in-terms-of-encoding
 

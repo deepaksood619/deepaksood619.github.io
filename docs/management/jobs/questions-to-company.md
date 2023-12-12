@@ -252,6 +252,73 @@ Gives reference point for valuing your potential payout
 
 At the time of a funding round, the investors will buy a small portion of the vested common shares from founders and early employees. This is done to give them a partial exit and keep them motivated to scale the organization. The recent stories of secondaries in Razorpay, Zerodha, Paytm, and Ola are encouraging signs for employees.
 
+### ESOPs
+
+Wealth creation through ESOPs is a major reason why people join startups. But most people struggle to correctly evaluate job offers that also includes ESOPs
+
+Here is a framework that should help:
+
+For an employee to make meaningful money through ESOPs, 2 things must happen:
+
+- Growth in company value
+- Employee friendly ESOP policies that ensures employees make money when company grows
+
+#### a) Growth in Company Value
+
+This is where employees need to think like investors
+
+Just like investors are particularly wary of what valuation they are coming in, entry valuations should matter for employees too
+
+ESOPs are allotted basis the current valuation
+
+The likelihood of a 10x growth in your ESOPs if you are joining a startup valued at 100 million $ is much higher compared to joining a startup already valued at 5 billion $
+
+If you happen to join a startup just after the company raised a round which you think was overvalued, the chances of your ESOPs growing reduces
+
+One mistake that people often make is comparing the allotted ESOPs from 2 companies at different stages. A 75 lakh ESOP allotment in a 1000 cr valued org with chances of a 10x growth could be a better offer than 2 cr ESOP allotment at a 20000 cr valued org with lower chances of future growth
+
+The second thing to judge is the business model and the likelihood of the business to grow( very important for Seed/Series A/B startups)
+
+Access to data is a challenge, but basic secondary research and asking the right questions and metrics in the interviews should help here
+
+#### b) ESOP Policies
+
+The startup ecosystem is full of stories where employees didn’t make money despite the company growing and having multiple liquidity events.
+
+Here are the things that should matter most while evaluating policies:
+
+##### 1. Vesting Schedule
+
+The standard is 25% vesting after every year. Any schedule which has higher vesting towards the later years is a red flag
+
+Vesting should never be performance linked
+
+If performance is bad, it is management’s responsibility to fire
+
+##### 2. Vesting on Leaving/Startups Exit
+
+If you exit, you should retain all options that has vested
+
+If a startup gets acquired before all your options vest, there should be accelerated vesting
+
+##### 3. ESOP Communication
+
+There should always be written communication( preferably through ESOP portal)
+
+Verbal communication for ESOPs is a huge red flag
+
+##### 4. Strike Price
+
+Strike Price should be as low as possible( Re 1 ideally). This maximizes the value creation for the employee
+
+##### 5. Holding/Exercise Period
+
+Converting options to shares is a major tax liability exercise. With limited exercise period, it becomes impossible for employees to exercise as it means paying up to 40% real taxes on notional capital gains in an asset class that is not liquid
+
+Ideally, holding period should be infinite for vested options, even after exit
+
+This enables employees to wait for liquidity events without incurring upfront taxation to be paid out of own pocket
+
 ## How to ask for raise / Salary negotiation
 
 - Problem - I want a 20% raise, I did my research and my average salary should be 20% more. The positioning of the question, leaves the employer with a yes or no choice

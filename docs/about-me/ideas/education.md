@@ -4,6 +4,11 @@ Education's purpose is to replace an empty mind with an open one.
 
 Equal access to quality education for everyone
 
+Highly personalized education for each person
+
+1. Tab + earphone for everyone
+2. Everyone will be quizzed and taught about something+ practical hands on learning
+
 ### Education for all (KhanAcademy does it all, contribute to it)
 
 - Cultfit type you can attend from any city
