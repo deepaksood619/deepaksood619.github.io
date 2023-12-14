@@ -3,7 +3,7 @@
 - [Metrics](metrics)
 - [Prometheus](prometheus/readme.md)
 - [Telegraf](telegraf/readme.md)
-- [Telegraf](telegraf/commands-and-configs)
+  - [Telegraf Commands and Configs](telegraf/commands-and-configs)
 - [Grafana](grafana)
 - [Grafana Loki](grafana-loki)
 - [Graphite](graphite)

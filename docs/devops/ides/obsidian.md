@@ -177,6 +177,8 @@ https://forum.obsidian/t/obsidian-mkdocs-a-free-publish-alternative-workflow/295
 
 https://forum.obsidian/t/pubsidian-free-and-elegant-obsidian-publish-alternative/21825
 
+[GitHub - nikitavoloboev/knowledge: Everything I know](https://github.com/nikitavoloboev/knowledge)
+
 ## Publish / Examples / Showcases / Codex
 
 - [Second Brain Showcases Awesome](https://github.com/KasperZutterman/Second-Brain)

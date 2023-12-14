@@ -132,9 +132,9 @@ Notes - Kubernetes EKS Infra
 2. Make your vip list
 3. Send one request per day
 4. The 3 magic questions
- 1. What are you and your team working on?
- 2. If you could wave a magic wand and have our team do one thing to make your life easier, what would it be?
- 3. What's your best piece of advice for someone new here?
+1. What are you and your team working on?
+2. If you could wave a magic wand and have our team do one thing to make your life easier, what would it be?
+3. What's your best piece of advice for someone new here?
 5. Document their answers
 6. Identify "Double Dip" Wins
 7. Take action & report back

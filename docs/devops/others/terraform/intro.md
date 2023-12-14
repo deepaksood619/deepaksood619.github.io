@@ -49,12 +49,11 @@ https://github.com/hashicorp/hcl
 
 ## Workflows
 
-A simple workflow for deployment will follow closely to the steps below. We will go over each of these steps and concepts more in-depth throughout this track, so don't panic if you don't understand the concepts immediately.
-
 - **Scope -** Confirm what resources need to be created for a given project.
 - **Author -** Create the configuration file in HCL based on the scoped parameters
 - **Initialize -** Run `terraform init` in the project directory with the configuration files. This will download the correct provider plug-ins for the project.
-- **Plan & Apply -** Run `terraform plan` to verify creation process and thenterraform applyto create real resources as well as state file that compares future changes in your configuration files to what actually exists in your deployment environment.
+- **Plan -** Run `terraform plan` to verify creation process
+- **Apply** - Run `terraform apply` to create real resources as well as state file that compares future changes in your configuration files to what actually exists in your deployment environment.
 
 ## Configuration
 
@@ -83,7 +82,6 @@ Your entire infrastructure. Defined as code. In about a day
 For your IaC project on AWS, choose CloudFormation, because:
 
 1. CloudFormation makes a distinction between code (i.e., templates) and instantiations of the code (i.e., stacks). In Terraform, there is no such distinction.
-
 2. Terraform doesn't handle basic dependency management very well.
 
 https://www.toptal.com/terraform/terraform-vs-cloudformation
