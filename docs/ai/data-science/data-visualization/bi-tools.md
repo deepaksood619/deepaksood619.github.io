@@ -75,3 +75,4 @@ https://aws.amazon.com/blogs/big-data/add-comparative-and-cumulative-date-time-c
 https://www.talend.com/
 
 [GitHub - finos/perspective: A data visualization and analytics component, especially well-suited for large and/or streaming datasets.](https://github.com/finos/perspective)
+[ThoughtSpot | The AI-Powered Analytics Platform](https://www.thoughtspot.com/)

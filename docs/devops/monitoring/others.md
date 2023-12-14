@@ -140,10 +140,6 @@ https://docs.sentry.io/platforms/javascript/guides/react
 
 https://docs.sentry.io/platforms/android
 
-## Others
-
-https://airbrake.io
-
 ## NewRelic
 
 ```python
@@ -202,3 +198,7 @@ https://docs.docker.com/config/containers/logging/syslog
 ## Others
 
 https://victoriametrics.com/products/open-source
+
+[Airbrake](https://airbrake.io)
+
+[Home - ThoughtData](https://thoughtdata.com/)

@@ -32,26 +32,26 @@
   - OpsTree
   - Xebia (Cloud engineering)
 - Frontend
-   - https://www.neuronimbus.com
-   - https://www.ibrandox.com
-   - https://acodez.in
+  - https://www.neuronimbus.com
+  - https://www.ibrandox.com
+  - https://acodez.in
 - Product
   - MBA - IIM
 - **Resource Augementation**
-   - https://tvsnext.io
-   - https://www.doodleblue.com
+  - https://tvsnext.io
+  - https://www.doodleblue.com
 - **Assessment Platform**
-   - SpeedExam
-   - Rounds
-      - MCQ test (20 question 30 mins)
-      - Coding test (2 question 30 mins)
-   - LinkedIn
-   - https://www.hackerrank.com/products/developer-skills-platform/interview-free
+  - SpeedExam
+  - Rounds
+    - MCQ test (20 question 30 mins)
+    - Coding test (2 question 30 mins)
+  - LinkedIn
+  - https://www.hackerrank.com/products/developer-skills-platform/interview-free
 - **Applicant tracking software/platforms** - https://www.greenhouse.com
   - freshteam from freshworks
   - http://www.careerist.in/contact-us.html
 - IIITD Alma Connect
-   - https://iiitdelhi.almaconnect.com/contributions/sneak_peek?frm=main_menu
+  - https://iiitdelhi.almaconnect.com/contributions/sneak_peek?frm=main_menu
 - IIITD Facebook group
 - MTech Group
 

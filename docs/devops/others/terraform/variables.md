@@ -10,7 +10,7 @@ There are multiple ways to assign variables. Below is also the order in which va
 
 ## Command-line flags
 
-You can set variables directly on the command-line with the-varflag. Any command in Terraform that inspects the configuration accepts this flag, such asapply, plan, andrefresh:
+You can set variables directly on the command-line with the varflag. Any command in Terraform that inspects the configuration accepts this flag, such as apply, plan, and refresh:
 
 `$ terraform apply -var 'region=us-east-2'`
 
@@ -18,31 +18,31 @@ Once again, setting variables this way will not save them, and they'll have to b
 
 ## From a file
 
-To persist variable values, create a file and assign variables within this file. Create a file namedterraform.tfvarswith the following contents:
+To persist variable values, create a file and assign variables within this file. Create a file named terraform.tf vars with the following contents:
 
 `region = "us-east-2"`
 
-For all files which matchterraform.tfvarsor*.auto.tfvarspresent in the current directory, Terraform automatically loads them to populate variables. If the file is named something else, you can use the-var-fileflag directly to specify a file. These files are the same syntax as Terraform configuration files. And like Terraform configuration files, these files can also be JSON.
+For all files which match terraform.tfvars or `*.auto.tfvars` present in the current directory, Terraform automatically loads them to populate variables. If the file is named something else, you can use the var-file flag directly to specify a file. These files are the same syntax as Terraform configuration files. And like Terraform configuration files, these files can also be JSON.
 
-We don't recommend saving usernames and password to version control, but you can create a local secret variables file and use-var-fileto load it.
+We don't recommend saving usernames and password to version control, but you can create a local secret variables file and use-var-file to load it.
 
-You can use multiple-var-filearguments in a single command, with some checked in to version control and others not checked in. For example:
+You can use multiple-var-file arguments in a single command, with some checked in to version control and others not checked in. For example:
 
 `terraform apply -var-file="secret.tfvars" -var-file="production.tfvars"`
 
 ## From environment variables
 
-Terraform will read environment variables in the form of TF_VAR_name to find the value for a variable. For example, theTF_VAR_regionvariable can be set to set theregionvariable.
+Terraform will read environment variables in the form of TF_VAR_name to find the value for a variable. For example, the TF_VAR_region variable can be set to set the region variable.
 
 Note: Environment variables can only populate string-type variables. List and map type variables must be populated via one of the other mechanisms.
 
 ## UI Input
 
-If you executeterraform applywith certain variables unspecified, Terraform will ask you to input their values interactively. These values are not saved, but this provides a convenient workflow when getting started with Terraform. UI input is not recommended for everyday use of Terraform.
+If you execute `terraform apply` with certain variables unspecified, Terraform will ask you to input their values interactively. These values are not saved, but this provides a convenient workflow when getting started with Terraform. UI input is not recommended for everyday use of Terraform.
 
 ## Variable Defaults
 
-If no value is assigned to a variable via any of these methods and the variable has adefaultkey in its declaration, that value will be used for the variable.
+If no value is assigned to a variable via any of these methods and the variable has a default key in its declaration, that value will be used for the variable.
 
 ## Data Types
 
@@ -63,7 +63,7 @@ You can specify lists in a terraform.tfvars file:
 
 ### Maps
 
-We've replaced our sensitive strings with variables, but we still are hard-coding AMIs. Unfortunately, AMIs are specific to the region that is in use. One option is to just ask the user to input the proper AMI for the region, but Terraform can do better than that withmaps.
+We've replaced our sensitive strings with variables, but we still are hard-coding AMIs. Unfortunately, AMIs are specific to the region that is in use. One option is to just ask the user to input the proper AMI for the region, but Terraform can do better than that with maps.
 
 Maps are a way to create variables that are lookup tables. An example will show this best. Let's extract our AMIs into a map and add support for the us-west-2 region as well:
 
@@ -77,7 +77,7 @@ variable "amis" {
 }
 ```
 
-A variable can have amaptype assigned explicitly, or it can be implicitly declared as a map by specifying a default value that is a map. The above demonstrates both.
+A variable can have a map type assigned explicitly, or it can be implicitly declared as a map by specifying a default value that is a map. The above demonstrates both.
 
 Then, replace the aws_instance with the following:
 
@@ -88,13 +88,13 @@ resource "aws_instance" "example" {
 }
 ```
 
-The square-bracket index notation used here is an example of how themaptype expression is accessed as a variable, with `[var.region]` referencing thevar.amisdeclaration for dynamic lookup.
+The square-bracket index notation used here is an example of how themaptype expression is accessed as a variable, with `[var.region]` referencing the var.amis declaration for dynamic lookup.
 
-Although it is not used in this example, themaptype expression can also use a static value lookup directly with `var.amis["us-east-1"]`
+Although it is not used in this example, the map type expression can also use a static value lookup directly with `var.amis["us-east-1"]`
 
 #### Assigning Maps
 
-We set defaults above, but maps can also be set using the-varand-var-filevalues. For example:
+We set defaults above, but maps can also be set using the var and var-file values. For example:
 
 `$ terraform apply -var 'amis={ us-east-1 = "foo", us-west-2 = "bar" }'`
 
@@ -133,7 +133,7 @@ Like so:
 
 ## Output Variables
 
-Outputs are a way to tell Terraform what data is important. This data is outputted whenapplyis called, and can be queried using theterraform outputcommand.
+Outputs are a way to tell Terraform what data is important. This data is outputted when apply is called, and can be queried using the terraform output command.
 
 ```json
 output "ip" {
@@ -141,6 +141,6 @@ output "ip" {
 }
 ```
 
-This defines an output variable named "ip". The name of the variable must conform to Terraform variable naming conventions if it is to be used as an input to other modules. Thevaluefield specifies what the value will be, and almost always contains one or more interpolations, since the output data is typically dynamic. In this case, we're outputting the public_ip attribute of the elastic IP address.
+This defines an output variable named "ip". The name of the variable must conform to Terraform variable naming conventions if it is to be used as an input to other modules. The value field specifies what the value will be, and almost always contains one or more interpolations, since the output data is typically dynamic. In this case, we're outputting the public_ip attribute of the elastic IP address.
 
 Multiple output blocks can be defined to specify multiple output variables.
