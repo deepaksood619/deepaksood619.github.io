@@ -76,7 +76,7 @@ Online coding tool + Environment
 
 Free Coding test taking platform (Think exam but free)
 
-**Ecommerce for small businesses**
+### Ecommerce for small businesses
 
 - Mobile product scanner
 - Any business can be online just by capturing photos of product
@@ -103,15 +103,17 @@ Diet chart + what should I eat today along with recipe
 - Opensource
 - Bigger limits for collaboration using gitlab or something
 
+## Finance / Economics
+
 **Programmable currency, you can program the currency in a way that it can only be used for a certain thing like buying fertilizer by a farmer**
 
-**Smart Credit**
+### Smart Credit
 
 - Health Insurance money is paid by insurer directly to hospital (smart/programmable currency)
 - Whatever credit you take is directly transfered to merchant to that purpose, it doesn't go to you, so that can give credit at lesser interest rate, like car loan, home loan
 - Food Coupons, other coupons
 
-**Regenerative Finance (ReFi)**
+### Regenerative Finance (ReFi)
 
 ReFi is a beautiful idea -- a re-imagining of the financial system using the tools humanity now has at its disposal to better account for the needs of all stakeholders, current and future. It puts a price on externalities, charging those who create negative externalities (like the Once-ler) and rewarding those who create positive externalities (like the Lorax, who speaks for the trees)
 
@@ -147,13 +149,15 @@ Anchors - What is the lowest price of the product. Using Google assistant and Si
 
 Making an app that will make an online portal for any institution. Accept online payment through people and deposit to the institution bank account.
 
-**Youtube**
+### Youtube
 
 Subscribe all the youtube channel and make a channel where any people online in the youtube can see who is online. To talk to share or to discuss.
 
 Adding science videos randomly to users suggestion to increase their curiosity and also increase their IQ and brain neurons
 
-**Google**
+Audio and video quality improvement using ai in YouTube
+
+### Google
 
 Should have case sensitive google search. NCL or SMIL documents.
 
@@ -167,17 +171,17 @@ CodePen type site for java and other scripts
 
 Reading for websites and blog, where one can highlight directly in browser all the pages will be stored in there account. It will be like a notebook and everything is recorded in notebook. Can be sorted using tags for automatic distribution of pages and blogs accordingly
 
-**Personal Location Sharing Service**
+### Personal Location Sharing Service
 
 Ask to get there location notification. Where default is 1 hour. I can request anyone's location and they can allow or reject.
 
 **credit card based upi**
 
-**Online maid services**
+### Online maid services
 
 Uber like service for maids and families. 0 day leave for families. If some maid is unavailable other will take her place.
 
-**Recharge Guru**
+### Recharge Guru
 
 The single portal to recharge, no need of wallet, cashback, promo-codes.
 
@@ -193,9 +197,9 @@ Business model -
 
 When everyone is onboard with the concept to not go to first every site for offers and then recharge, we can get a cut from the recharges. And exclusive codes also.
 
-**Tech**
+## Tech
 
-**Simplify git and docker environment management**
+### Simplify git and docker environment management
 
 - It's too complex
 - If you had to teach someone (like data science guys), it's too complex for them to pull, add keys, create images, commit, push, use requirements.txt, etc.
@@ -214,7 +218,7 @@ Single Tier Architecture which automatically generates 3/4 tier architecture
   - Automatically creates api for frontend to access only that specific data and nothing else with all rate limits and all.
   - Automatically handles token / auth for frontend to access database
 
-**Study Projects**
+### Study Projects
 
 1. Create a camera that follows its subject (in case of teaching a course settings or a conference setting).
     - It should take in focus the moving person
@@ -231,7 +235,7 @@ pixxel - earth monitoring and observation using satellites
 
 Hyperspectral imaging
 
-**Others**
+### Others
 
 - Standalone chat bot for android
   - AI generated models, CS representatives

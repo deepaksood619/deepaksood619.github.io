@@ -8,6 +8,45 @@ Important items are identified by focusing on a few key priorities and roles whi
 
 [Delegation](https://en.wikipedia.org/wiki/Delegation) is presented as an important part of time management. Successful delegation, according to Covey, focuses on results and benchmarks that are to be agreed in advance, rather than on prescribing detailed work plans.
 
+https://en.wikipedia.org/wiki/First_Things_First_(book)
+
+### How to delegate
+
 - Effective strategic delegation
 
-https://en.wikipedia.org/wiki/First_Things_First_(book)
+#### Why Delegate?
+
+- D - Develop skills and confidence in your team
+- E - Enhance efficiency by assigning the right tasks
+- L - Lighten your workload to focus on big-picture strategies
+- E - Empower team members to take initiative and grow
+- G - Generate new ideas through collaboration
+- A - Avoid burnout by sharing responsibilities
+- T - Trust your team's abilities and judgement
+- E - Elevate overall team performance and morale
+
+#### Time Value Rule
+
+1. Determine what your time is worth
+2. Delegate all tasks of a lower value
+3. Focus only on high-value activities
+
+#### 80/20 Rule
+
+- 80% of results come from 20% of efforts
+- Figure out your 20% of tasks with impact
+- Delegate the less impactful 80%
+
+#### 70% Rule
+
+If someone can do a task at least 70% as well as you, delegate it. It'll free up your time and help them grow
+
+#### The delegation wheel
+
+1. Choose wisely - decide what to delegate & pick the right person for the job
+2. Explain & train - Say why you're delegating & give clear instructions
+3. Set expectations - Clearly state their authority level & your expectations
+4. Monitor progress - Check in regularly, but don't micromanage
+5. Provide feedback - Give constructive feedback & recognize good work
+
+![delegation-wheel](../media/Screenshot%202023-12-16%20at%209.56.57.AM.jpg)

@@ -8,6 +8,15 @@ Stock Photos - https://unsplash.com
 
 https://nimbletext.com/Live
 
+## Clouds
+
+- AWS
+- Azure
+- GCP
+- Akamai - Linode - [Cloud Computing Services | VMs, Kubernetes, Storage | Akamai](https://www.linode.com/)
+- Digital Ocean
+- [India's Top Provider of Advanced Cloud GPUs](https://www.e2enetworks.com/)
+
 ## Alexa
 
 1. Skill interface

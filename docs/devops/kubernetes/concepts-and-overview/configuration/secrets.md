@@ -18,26 +18,26 @@ The automatic creation and use of API credentials can be disabled or overridden 
 
 ## Creating a Secret Usingkubectl
 
-kubectl create secret generic db-user-pass --from-file=./username.txt --from-file=./password.txt
+`kubectl create secret generic db-user-pass --from-file=./username.txt --from-file=./password.txt`
 
 ## Mounted Secrets are updated automatically
 
 When a secret currently consumed in a volume is updated, projected keys are eventually updated as well. The kubelet checks whether the mounted secret is fresh on every periodic sync. However, the kubelet uses its local cache for getting the current value of the Secret. The type of the cache is configurable using the ConfigMap And SecretChangeDetectionStrategy field in the [KubeletConfiguration struct](https://github.com/kubernetes/kubernetes/blob/master/staging/src/k8s.io/kubelet/config/v1beta1/types.go). A Secret can be either propagated by watch (default), ttl-based, or simply redirecting all requests directly to the API server. As a result, the total delay from the moment when the Secret is updated to the moment when new keys are projected to the Pod can be as long as the kubelet sync period + cache propagation delay, where the cache propagation delay depends on the chosen cache type (it equals to watch propagation delay, ttl of cache, or zero correspondingly).
 
-Note:A container using a Secret as a [subPath](https://kubernetes.io/docs/concepts/storage/volumes#using-subpath) volume mount will not receive Secret updates.
+Note: A container using a Secret as a [subPath](https://kubernetes.io/docs/concepts/storage/volumes#using-subpath) volume mount will not receive Secret updates.
 
 ## Immutable Secrets and ConfigMaps
 
-The Kubernetes alpha featureImmutable Secrets and ConfigMapsprovides an option to set individual Secrets and ConfigMaps as immutable. For clusters that extensively use Secrets (at least tens of thousands of unique Secret to Pod mounts), preventing changes to their data has the following advantages:
+The Kubernetes alpha featureImmutable Secrets and ConfigMaps provides an option to set individual Secrets and ConfigMaps as immutable. For clusters that extensively use Secrets (at least tens of thousands of unique Secret to Pod mounts), preventing changes to their data has the following advantages:
 
 - protects you from accidental (or unwanted) updates that could cause applications outages
 - improves performance of your cluster by significantly reducing load on kube-apiserver, by closing watches for secrets marked as immutable.
 
-Note:Once a Secret or ConfigMap is marked as immutable, it isnotpossible to revert this change nor to mutate the contents of thedatafield. You can only delete and recreate the Secret. Existing Pods maintain a mount point to the deleted Secret - it is recommended to recreate these pods.
+Note:Once a Secret or ConfigMap is marked as immutable, it is not possible to revert this change nor to mutate the contents of the data field. You can only delete and recreate the Secret. Existing Pods maintain a mount point to the deleted Secret - it is recommended to recreate these pods.
 
 ## Security properties
 
-## Protections
+### Protections
 
 Because secrets can be created independently of the Pods that use them, there is less risk of the secret being exposed during the workflow of creating, viewing, and editing Pods. The system can also take additional precautions with Secrets, such as avoiding writing them to disk where possible.
 
@@ -51,7 +51,7 @@ On most Kubernetes distributions, communication between users and the API server
 
 You can enable [encryption at rest](https://kubernetes.io/docs/tasks/administer-cluster/encrypt-data/) for secret data, so that the secrets are not stored in the clear into [etcd](https://kubernetes.io/docs/tasks/administer-cluster/configure-upgrade-etcd/).
 
-## Risks
+### Risks
 
 - In the API server, secret data is stored in [etcd](https://kubernetes.io/docs/tasks/administer-cluster/configure-upgrade-etcd/); therefore:
   - Administrators should enable encryption at rest for cluster data (requires v1.13 or later).
@@ -61,7 +61,7 @@ You can enable [encryption at rest](https://kubernetes.io/docs/tasks/administer-
 - If you configure the secret through a manifest (JSON or YAML) file which has the secret data encoded as base64, sharing this file or checking it in to a source repository means the secret is compromised. Base64 encoding isnotan encryption method and is considered the same as plain text.
 - Applications still need to protect the value of secret after reading it from the volume, such as not accidentally logging it or transmitting it to an untrusted party.
 - A user who can create a Pod that uses a secret can also see the value of that secret. Even if the API server policy does not allow that user to read the Secret, the user could run a Pod which exposes the secret.
-- Currently, anyone with root permission on any node can readanysecret from the API server, by impersonating the kubelet. It is a planned feature to only send secrets to nodes that actually require them, to restrict the impact of a root exploit on a single node.
+- Currently, anyone with root permission on any node can read any secret from the API server, by impersonating the kubelet. It is a planned feature to only send secrets to nodes that actually require them, to restrict the impact of a root exploit on a single node.
 
 https://kubernetes.io/docs/concepts/configuration/secret
 
@@ -79,6 +79,6 @@ https://www.youtube.com/watch?v=DQtbC88ArRI
 
 ## EncryptionConfiguration
 
-In order to encrypt secrets, you must create an **EncryptionConfiguration** object with a key and proper identity. Then, the kube-apiserver needs the **--encryption-provider-config** flag set to a previously configured provider, such as aescbc or ksm. Once this is enabled, you need to recreate every secret, as they are encrypted upon write. Multiple keys are possible.Each key for a provider is tried during decryption. The first key of the first provider is used for encryption. To rotate keys, first create a new key, restart (all) kube-apiserver processes, then recreate every secret.
+In order to encrypt secrets, you must create an **EncryptionConfiguration** object with a key and proper identity. Then, the kube-apiserver needs the **--encryption-provider-config** flag set to a previously configured provider, such as aes cbc or ksm. Once this is enabled, you need to recreate every secret, as they are encrypted upon write. Multiple keys are possible.Each key for a provider is tried during decryption. The first key of the first provider is used for encryption. To rotate keys, first create a new key, restart (all) kube-apiserver processes, then recreate every secret.
 
 https://kubernetes.io/docs/tasks/administer-cluster/encrypt-data

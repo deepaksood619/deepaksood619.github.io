@@ -23,3 +23,7 @@
 ## Links
 
 [Why you feel what you feel | Alan Watkins | TEDxOxford - YouTube](https://www.youtube.com/watch?v=h-rRgpPbR5w&ab_channel=TEDxTalks)
+
+[How We Became the Loneliest Generation - YouTube](https://youtu.be/I19btmIBhx0?si=0ketcMZ3fk3H-cDz)
+
+- Disappearance of Third places

@@ -56,3 +56,5 @@ Feature Toggles are also refered to as Feature Flags, Feature Bits, or Feature F
 https://martinfowler.com/articles/feature-toggles.html
 
 [LaunchDarkly: Feature Flags, Feature Management, and Experimentation](https://launchdarkly.com/)
+
+[Open Source LaunchDarkly Alternative](https://www.growthbook.io/compare/growthbook-vs-launchdarkly)

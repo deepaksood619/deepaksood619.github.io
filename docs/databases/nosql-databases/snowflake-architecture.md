@@ -54,6 +54,25 @@ Services managed in this layer include:
 
 In Snowflake, clustering is a type of data partitioning, where unique cluster keys are specified for each table. Cluster keys are subsets of a table's columns that are used to co-locate data within the table. These keys are appropriate for comprehensive tables. The process of managing clustered data in a table is known as re-clustering.
 
+## Snowflake Caching
+
+1. Metadata Cache
+ - Object Definition
+ - Statistics
+2. Result Cache
+ - Exact results from exact queries
+ - Last 24hrs
+ - Underlying data cannot have changed
+ - Functions like current time causes expiration
+ - User can be different but role must be same
+3. Warehouse Cache
+ - Sometime called "Local", or "SSD", or "Data Cache"
+ - Contain Raw data from the table, not aggregated
+ - When warehouse is suspended, data is dropped/purged
+ - Can use partial data and go deeper for remaining
+4. Centralized Storage
+ - Long term storage, Database and tables, remote
+
 ## Links
 
 [Key Concepts & Architecture | Snowflake Documentation](https://docs.snowflake.com/en/user-guide/intro-key-concepts)

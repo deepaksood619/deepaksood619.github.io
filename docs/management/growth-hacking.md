@@ -214,3 +214,7 @@ That said, PLG can be used in tandem with sales and marketing motions. Companies
 - Use product to drive all net new revenue; only use sales and customer success teams to drive expansion revenue.
 
 [The Anatomy of PLG SaaS](https://clearbit.com/resources/reports/product-led-growth-companies)
+
+## Links
+
+[What to ask before accepting a growth role?](https://shorts.growthx.club/p/what-to-ask-before-accepting-a-growth)

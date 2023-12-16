@@ -1050,4 +1050,6 @@ If you kill a killer the number of killers in the world remains the same.
 
 I have never said most of the things I said -- Yogi berra
 
+Ignoring the little harsh things in life can make your life easier
+
 ## End

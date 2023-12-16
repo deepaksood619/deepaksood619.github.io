@@ -87,6 +87,7 @@ Moving from information to knowledge age
 - [Harvey | Generative AI for Elite Law Firms](https://www.harvey.ai/)
 - [GitHub - mukulpatnaik/researchgpt: A LLM based research assistant that allows you to have a conversation with a research paper](https://github.com/mukulpatnaik/researchgpt)
 - [Kombai](https://kombai.com/)
+- [GitHub - RamiKrispin/lang2sql: A tutorial for setting an SQL code generator with the OpenAI API](https://github.com/RamiKrispin/lang2sql)
 
 ## Purpose-built accelerators for generative AI
 
