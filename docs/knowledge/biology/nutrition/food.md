@@ -328,6 +328,8 @@ Try to get 10–20 minutes of sunlight ideally before noon, 3-4 times a week. Da
 
 ## Farming
 
+- Sustenance farming
+
 [Soya Chunks : How it's Made ? Good or Bad ?? || Explained by Farming Engineer - YouTube](https://www.youtube.com/watch?v=Jkq36eV0Fsc)
 
 [मक्खन फल ने बनाया 26 साल का लड़का करोड़पति // एवोकाडो खेती Israel butter fruit nursery India Avocado - YouTube](https://www.youtube.com/watch?v=vqTOZEQq5zM)

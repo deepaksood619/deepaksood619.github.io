@@ -38,6 +38,7 @@
 34. [Different types of modern websites - Explained! - YouTube](https://www.youtube.com/watch?v=3Z_vR7WASwM)
 35. [Don’t Do E2E Testing • Dave Farley • GOTO 2023 - YouTube](https://www.youtube.com/watch?v=P_570bqxDYo)
 36. [Server Driven UI on Mobile • JJ Qi • GOTO 2020 - YouTube](https://www.youtube.com/watch?v=CtSfG8tYRdg)
+37. [From 100 Pipelines to 1 • Bhavik Gudka • GOTO 2023 - YouTube](https://www.youtube.com/watch?v=QqfIFSGl-Cg&ab_channel=GOTOConferences) - Agile and YBYO (You Build You Own)
 
 ## Podcasts
 

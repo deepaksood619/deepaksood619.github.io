@@ -65,6 +65,8 @@ Traditionally, investing in real estate requires capital ranging from a few lakh
 
 https://cleartax.in/s/reit-funds
 
+[What are REITs? 5 Steps to analyse and invest in REITs? REIT investing for beginners - YouTube](https://youtu.be/XhCeX98vY28?si=rI5kfNdiq2R9UgiW)
+
 ### HIGH YIELDING FIXED INCOME INVESTMENTS
 
 For the last two years, fixed deposit investors have been a grieving lot with FD returns struggling to match the inflation rate. But now, we are seeing a boom in start-ups offering bonds, structured debt and other high yielding fixed income instruments to retail investors as they look to make a dent in the 1.5 trillion dollar fixed deposit market. One of these weapons of FD destruction are high yielding debt instruments which in addition to offering higher interest rates also allows investors to put in amounts as low as 10,000 rupees. Platforms like Wint Wealth, BondsKart, AltiFi etc. offer products like government bonds, AAA rated papers from lending institutions, high yielding BBB rated corporate bonds, private bond placements and also structured debt.

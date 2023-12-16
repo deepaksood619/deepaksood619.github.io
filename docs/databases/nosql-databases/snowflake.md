@@ -102,6 +102,20 @@ Internal stages can be further categorized as follows:
 
 Used to store data files externally in Amazon S3, Google Cloud Storage, or Microsoft Azure. If your data is already stored in these cloud storage services, you can use an external stage to load data in Snowflake tables.
 
+## Zero-copy cloning
+
+Snowflake’s Zero Copy Cloning is a feature which provides a quick and easy way to create a copy of any table, schema, or an entire database without incurring any additional costs as the derived copy shares the underlying storage with the original object.
+
+1. Almost no additional storage costs for cloning data
+2. No waiting time for cloning data from one environment to another
+3. No need for administrative efforts, as cloning is as simple as a Select
+4. Since data exists only in one place, it’s easy to maintain
+5. Instantly promotes corrected/fixed data to production
+
+[Snowflake Zero Copy Cloning - A Comprehensive Guide | Encora](https://www.encora.com/insights/zero-copy-cloning-in-snowflake)
+
+[Snowflake Zero Copy Cloning - ThinkETL](https://thinketl.com/snowflake-zero-copy-cloning/)
+
 ## Snowpipe
 
 In simple terms, Snowpipe is a continuous data ingestion service provided by Snowflake that loads files within minutes as soon as they are added to a stage and submitted for ingestion. Therefore, you can load data from files in micro-batches (organizing data into small groups/matches), allowing users to access the data within minutes (very less response time), rather than manually running COPY statements on a schedule to load large batches. By loading the data into micro-batches, Snowpipe makes it easier to analyze it. Snowpipe uses a combination of filenames and file checksums to ensure that only new data is processed.  
@@ -196,6 +210,10 @@ DROP WAREHOUSE IF EXISTS sf_tuts_wh;
 [Terraforming Snowflake](https://quickstarts.snowflake.com/guide/terraforming_snowflake/index.html#0)
 
 ## Links
+
+[**Snowflake SnowPro Certification - Tutorial - YouTube**](https://www.youtube.com/playlist?list=PLba2xJ7yxHB71_GEKbQDBk0EKMq6b6S-k)
+
+[**Snowflake Tutorial - YouTube**](https://www.youtube.com/playlist?list=PLba2xJ7yxHB7SWc4Sm-Sp3uGN74ulI4pS)
 
 [The Snowflake Data Cloud - Mobilize Data, Apps, and AI](https://www.snowflake.com/en/)
 

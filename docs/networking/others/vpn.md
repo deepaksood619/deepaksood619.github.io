@@ -18,7 +18,7 @@ Split tunneling is a computer networking concept which allows a mobile user to a
 - A disadvantage is that when split tunneling is enabled, users bypass gateway level security that might be in place within the company infrastructure. For example, if web or [content filtering](https://en.wikipedia.org/wiki/Content_filtering) is in place, this is something usually controlled at a gateway level, not the client PC.
 - ISPs that implement [DNS hijacking](https://en.wikipedia.org/wiki/DNS_hijacking) break name resolution of private addresses with a split tunnel.
 
-## Variant - Inverse Split Tunneling
+### Variant - Inverse Split Tunneling
 
 A variant of this split tunneling is called "inverse" split tunneling. By default all datagrams enter the tunnel except those destination IPs explicitly allowed by VPN gateway. The criteria for allowing datagrams to exit the local network interface (outside the tunnel) may vary from vendor to vendor (i.e.: port, service, etc.) This keeps control of network gateways to a centralized policy device such as the VPN terminator. This can be augmented by endpoint policy enforcement technologies such as an interface firewall on the endpoint device's network interface driver, [group policy](https://en.wikipedia.org/wiki/Group_policy) object or anti-malware agent. This is related in many ways to [network access control](https://en.wikipedia.org/wiki/Network_access_control)(NAC).
 
@@ -26,7 +26,7 @@ https://en.wikipedia.org/wiki/Split_tunneling
 
 ## IPSec VPN vs SSL VPN
 
-The major difference between anIPsec VPNand an SSLVPNcomes down to the network layers at which encryption and authentication are performed.IPsecoperates at the network layer and can be used to encrypt data being sent between any systems that can be identified by IP addresses.
+The major difference between an IPsec VPN and an SSL VPN comes down to the network layers at which encryption and authentication are performed. IPsec operates at the network layer and can be used to encrypt data being sent between any systems that can be identified by IP addresses.
 
 ## IPSec
 
@@ -56,7 +56,7 @@ https://medium.com/swlh/creating-a-vpn-with-2-factor-authentication-using-openvp
 
 ## WireGuard
 
-WireGuard is a novel VPN that runs inside the Linux Kernel and utilizesstate-of-the-art cryptography. It aims to be faster, simpler, leaner, and more useful than IPsec, while avoiding the massive headache. It intends to be considerably more performant than OpenVPN. WireGuard is designed as a general purpose VPN for running on embedded interfaces and super computers alike, fit for many different circumstances. It runs over UDP.
+WireGuard is a novel VPN that runs inside the Linux Kernel and utilizes state-of-the-art cryptography. It aims to be faster, simpler, leaner, and more useful than IPsec, while avoiding the massive headache. It intends to be considerably more performant than OpenVPN. WireGuard is designed as a general purpose VPN for running on embedded interfaces and super computers alike, fit for many different circumstances. It runs over UDP.
 
 https://www.wireguard.com
 
@@ -111,3 +111,19 @@ Cloudflare Zero Trust replaces legacy security perimeters with our global networ
 [Cloudflare Zero Trust · Cloudflare Zero Trust docs](https://developers.cloudflare.com/cloudflare-one/)
 
 [WARP | 1.1.1.1 — The free app that makes your Internet faster.](https://1.1.1.1/)
+
+## Pritunl
+
+Enterprise Distributed OpenVPN, IPsec and WireGuard Server
+
+Virtualize your private networks across datacenters and provide simple remote access in minutes
+
+Create a cloud vpn with complex site-to-site links, gateway links and provide local network access to remote users. Protect your network traffic and remote users connecting over public connections with secure encryption. All from a simple web interface
+
+### The Most Secure VPN Server
+
+Pritunl provides innovative security features not available from any other provider. Including TPM and Apple Secure Enclave device authentication, a dynamic firewall, SELinux policies, dual web server design and self shutdown notification system
+
+[GitHub - pritunl/pritunl: Enterprise VPN server](https://github.com/pritunl/pritunl)
+
+[Pritunl - Open Source Enterprise Distributed OpenVPN, IPsec and WireGuard Server](https://pritunl.com/)

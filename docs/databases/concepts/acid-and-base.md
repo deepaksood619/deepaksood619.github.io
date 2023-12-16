@@ -3,7 +3,7 @@
 ## ACID (SQL)
 
 - A - Atomic, Everything in a transaction succeeds or the entire transaction is rolled back
-- C - Consistent - A transtion cannot leave the database in an inconsistent state.
+- C - Consistent - A transaction cannot leave the database in an inconsistent state. (MVCC - Locking)
 - I - Isolated - Transaction cannot interfere with each other
 - D - Durable - Completed Transaction persist, even when the server restarts.
 

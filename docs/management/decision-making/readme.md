@@ -19,11 +19,8 @@ Let’s dream big. Plan diligently. Execute relentlessly.
 ## The ABCDs of categorizing decisions
 
 - **Ad hoc decisions** - Infrequent, low-stakes
-
 - **Big-bet decisions** - Infrequent and high-risk - from major acquisitions to game-changing capital investments
-
 - **Cross-cutting decisions** - Frequent and high-risk - think pricing, sales, and operations planning processes or new-product launches
-
 - **Delegated decisions** - Frequent and low-risk - routine elements of day-to-day management, typically in areas such as hiring, marketing, and purchasing
 
 ![image](../../media/Decision-Making-image1.jpg)

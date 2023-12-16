@@ -23,6 +23,15 @@ RAG is an AI framework for retrieving facts from an external knowledge base to g
 
 [What is retrieval-augmented generation? | IBM Research Blog](https://research.ibm.com/blog/retrieval-augmented-generation-RAG)
 
+[What is Retrieval-Augmented Generation (RAG)? - YouTube](https://youtu.be/T-D1OfcDW1M?si=KoUb-NXATK50d3i7)
+
+[Transformers, explained: Understand the model behind GPT, BERT, and T5 - YouTube](https://youtu.be/SZorAJ4I-sA?si=-GMfzGThDO20aGkB)
+
+- Positional encodings
+- Attention
+- Self attention
+- GPT3 - 45tb of text data
+
 ## Others
 
 ![LLM Working](../../media/llm-working.jpg)

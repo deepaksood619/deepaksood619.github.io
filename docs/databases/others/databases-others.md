@@ -311,17 +311,15 @@ https://www.confluent.io/blog/intro-to-ksqldb-sql-database-streaming
   - Memory usage is evenly balanced between the servers.
   - A minimum number of keys are relocated when the pool of servers is reduced or expanded.
 
-## Minio
+## MinIO
 
-Minio is a high performance distributed object storage server, designed for
-
-large-scale private cloud infrastructure.
+MinIO is a high performance distributed object storage server, designed for large-scale private cloud infrastructure.
 
 https://minio.io
 
-**Others**
+[GitHub - minio/minio: High Performance Object Storage for AI](https://github.com/minio/minio)
 
-- **GlusterFS**
+- Others - GlusterFS
 
 ## Ehcache
 
