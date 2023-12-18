@@ -52,6 +52,15 @@ p and q are the attribute values for two data objects
 
 ![image](../../../media/Data-Preprocessing-image2.jpg)
 
+### Types
+
+1. Euclidean Distance
+2. Mahalanobis Distance
+3. Manhattan Distance
+4. Jaccard Similarity
+5. Minkowski Distance
+6. Cosine Similarity
+
 ### Euclidean Distance
 
 ![image](../../../media/Data-Preprocessing-image3.jpg)
@@ -68,6 +77,10 @@ p and q are the attribute values for two data objects
 ### Cosine Similarity
 
 ![image](../../../media/Data-Preprocessing-image5.jpg)
+
+[Cosine Similarity - GeeksforGeeks](https://www.geeksforgeeks.org/cosine-similarity/)
+
+[Cosine similarity: How does it measure the similarity, Maths behind and usage in Python | by Varun | Towards Data Science](https://towardsdatascience.com/cosine-similarity-how-does-it-measure-the-similarity-maths-behind-and-usage-in-python-50ad30aad7db)
 
 ### Similarity Between Binary Vectors
 

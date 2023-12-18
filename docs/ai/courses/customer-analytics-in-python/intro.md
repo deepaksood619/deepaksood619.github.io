@@ -96,7 +96,7 @@ It is expected that: units sold from a brand would increase if the unit price of
 
 - Linear dependency between variables
 
-df_segmentation.corr()
+ `df_segmentation.corr()`
 
 - Ranges from -1 to 1
 

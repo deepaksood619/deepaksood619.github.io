@@ -29,7 +29,7 @@ install_compass - Installs MongoDB Compass for your platform.
 A storage engine is the part of a database that is responsible for managing how data is stored, both in memory and on disk. Many databases support multiple storage engines, where different engines perform better for specific workloads. For example, one storage engine might offer better performance for read-heavy workloads, and another might support a higher throughput for write operations.
 The [storage engine](https://docs.mongodb.com/manual/reference/glossary/#term-storage-engine) is the component of the database that is responsible for managing how data is stored, both in memory and on disk. MongoDB supports multiple storage engines, as different engines perform better for specific workloads. Choosing the appropriate storage engine for your use case can significantly impact the performance of your applications.
 
-- WiredTiger Storage Engine (Default)
+### WiredTiger Storage Engine (Default)
 
 [WiredTiger](https://docs.mongodb.com/manual/core/wiredtiger/) is the default storage engine starting in MongoDB 3.2. It is well-suited for most workloads and is recommended for new deployments. WiredTiger provides a document-level concurrency model, checkpointing, and compression, among other features.
 
@@ -59,7 +59,7 @@ mongo admin --username root --password YOURPASSWORD
 
 ## Mongo vs SQL
 
-## Pros
+### Pros
 
 - Document oriented
 - High performance
@@ -76,7 +76,7 @@ mongo admin --username root --password YOURPASSWORD
 - Document-based query language that's nearly as powerful as SQL
 - Cloud distributions such as AWS, Microsoft, RedHat,dotCloud and SoftLayer etc:-. In fact, MongoDB is built for the cloud. Its native scale-out architecture, enabled by 'sharding,' aligns well with the horizontal scaling and agility afforded by cloud computing.
 
-## Cons
+### Cons
 
 - A downside of NoSQL is that most solutions are not as strongly ACID-compliant (Atomic, Consistency, Isolation, Durability) as the more well-established RDBMS systems.
 - Complex transaction

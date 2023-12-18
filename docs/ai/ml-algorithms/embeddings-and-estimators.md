@@ -5,7 +5,7 @@
 
 ## Embeddings
 
-## An embedding of a vector is another vector in a smaller dimensional space
+An embedding of a vector is another vector in a smaller dimensional space
 
 - Manage sparse data
 - Make machine learning models that use sparse data consume less memory and train faster
@@ -14,6 +14,8 @@
 - Cluster observations
 
 https://www.toptal.com/machine-learning/embeddings-in-machine-learning
+
+[Embeddings  |  Machine Learning  |  Google for Developers](https://developers.google.com/machine-learning/crash-course/embeddings/video-lecture)
 
 ## Summary of Embeddings
 

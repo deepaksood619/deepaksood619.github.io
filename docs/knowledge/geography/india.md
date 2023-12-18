@@ -1,5 +1,41 @@
 # India
 
+### Population Distribution
+
+- Total Population - 1.428 billion
+- Male population of 51.6% and a current female population of 48.4%
+- Country - 944 Females out of 1000 Males
+- Lakshadweep - 1051 females out of 1000 males
+- Tripura - 1028 females out of 1000 males
+- Haryana - 893 females out of 1000 males
+- Chhattisgarh - 960 females out of 1000 males
+
+[List of states and union territories of India by sex ratio - Wikipedia](https://en.wikipedia.org/wiki/List_of_states_and_union_territories_of_India_by_sex_ratio)
+
+### Education
+
+- India’s total literacy rate is 77.70%
+- Kerala - 96.2%
+  - Female literacy - 95.2%
+  - Male literacy - 97.4%.
+- Chhattisgarh - 70.3%
+- Haryana - 75.6%
+
+[State Wise Literacy Rate in India 2023 - Dare to Miss The Top 10](https://onlineschoolsindia.in/school-guide/state-wise-literacy-rate-in-india/)
+
+### Religion Distribution
+
+- Hinduism: 79.8%
+- Islam: 14.2%
+- Christianity: 2.3%
+- Sikhism: 1.7%
+- Buddhism: 0.7%
+- Adivasi: 0.5%
+- Jainism: 0.4%
+- No religion: 0.25%
+
+### Food Distribution
+
 ![image](../../media/India-image1.jpg)
 
 [Superlatives of India and World | Largest, deepest, tallest , smallest | Static GK](https://www.youtube.com/watch?v=3_w5x_N5xks)

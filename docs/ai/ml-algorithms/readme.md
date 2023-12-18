@@ -28,5 +28,6 @@
 - [Feature Engineering](feature-engineering)
 - [Regularization](regularization)
 - [Embedding and Estimators](embeddings-and-estimators)
+- [Vector Embeddings](ai/ml-algorithms/vector-embeddings.md)
 - [Dimensionality Reduction](dimensionality-reduction)
 - [Others](ai/ml-algorithms/others.md)
