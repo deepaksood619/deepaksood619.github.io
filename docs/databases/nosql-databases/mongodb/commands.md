@@ -93,6 +93,9 @@ db.collection.createIndex( { name: -1 } )
 db.sms_collection.getIndexes()
 
 db.COLLECTION_NAME.aggregate(AGGREGATE_OPERATION)
+
+# using full text search index
+{$text: { $search: "action adventure", $caseSensitive: false } }
 ```
 
 [Window Functions & Time Series Collections | MongoDB](https://www.mongodb.com/developer/products/mongodb/window-functions-and-time-series/)

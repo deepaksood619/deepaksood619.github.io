@@ -1,7 +1,5 @@
 # Data Types
 
-MongoDB supports many datatypes. Some of them are −
-
 - **String−** This is the most commonly used datatype to store the data. String in MongoDB must be UTF-8 valid.
 - **Integer−** This type is used to store a numerical value. Integer can be 32 bit or 64 bit depending upon your server.
 - **Boolean−** This type is used to store a boolean (true/ false) value.

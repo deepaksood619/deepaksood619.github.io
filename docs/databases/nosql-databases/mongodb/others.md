@@ -1,9 +1,5 @@
 # Others
 
-https://docs.mongodb.com/manual/core/index-ttl
-
-TTL indexes are special single-field indexes that MongoDB can use to automatically remove documents from a collection after a certain amount of time or at a specific clock time. Data expiration is useful for certain types of information like machine generated event data, logs, and session information that only need to persist in a database for a finite amount of time.
-
 ## UI / Tools
 
 - https://studio3t.com

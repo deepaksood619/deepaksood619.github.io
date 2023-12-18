@@ -18,6 +18,16 @@ The ARC Corpus contains 14M unordered, science-related sentences including knowl
 
 [WikiText-103 Dataset | Papers With Code](https://paperswithcode.com/dataset/wikitext-103)
 
+### BBH - [OpenCompass](https://opencompass.org.cn/dataset-detail/BBH)
+
+A suite of 23 challenging BIG-Bench tasks which we call BIG-Bench Hard (BBH). These are the task for which prior language model evaluations did not outperform the average human-rater.
+
+### BIG-Bench
+
+The Beyond the Imitation Game Benchmark (BIG-bench) is a _collaborative_ benchmark intended to probe large language models and extrapolate their future capabilities.
+
+[GitHub - google/BIG-bench: Beyond the Imitation Game collaborative benchmark for measuring and extrapolating the capabilities of language models](https://github.com/google/BIG-bench)
+
 ## YCSB Workloads
 
 YCSB includes a set of core workloads that define a basic benchmark for cloud systems.

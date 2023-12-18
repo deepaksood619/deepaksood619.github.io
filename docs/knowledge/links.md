@@ -1242,5 +1242,6 @@
 1232. [Organ & Body Donations: Last Week Tonight with John Oliver (HBO)](https://youtu.be/Tn7egDQ9lPg?si=pSvWEA7UA6cMNW4R)
 1233. [Lasting Lessons from Charlie Munger.](https://youtu.be/3lcRdAmHgKc?si=DWlltEQn9noAwDFk)
 1234. [Why India is a Rising Power](https://youtu.be/s2X_nAOYbYY?si=g68v9KN0G68oh9rv)
+1235. [Why Greece Is Suddenly Doing Really Well - YouTube](https://youtu.be/aPnu-VPvgb4?si=eofaNvdskJ97-1QJ)
 
 ## End

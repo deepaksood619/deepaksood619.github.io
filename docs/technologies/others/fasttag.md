@@ -13,3 +13,8 @@
 [FASTags to be made available from petrol stations - IndBiz | Economic Diplomacy Division | IndBiz | Economic Diplomacy Division](https://indbiz.gov.in/fastags-to-be-made-available-from-petrol-stations/)
 
 [Fastag Fuel Payments - ICICI Bank](https://www.icicibank.com/personal-banking/cards/prepaid-card/fastag/fuel-payments)
+
+### Others
+
+- Payment Gateway Integration
+- FastTag reseller

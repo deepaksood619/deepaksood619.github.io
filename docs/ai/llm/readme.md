@@ -2,6 +2,7 @@
 
 - [LLM Building](ai/llm/llm-building.md)
 - [Design Patterns](ai/llm/design-patterns.md)
+- [RAG Retrieval Augmented Generation](ai/llm/rag-retrieval-augmented-generation.md)
 - [ChatGPT Prompt Engineering](ai/courses/chatgpt-prompt-eng.md)
 
 MMLU - Massive Multitask Language Understanding
@@ -19,7 +20,8 @@ Moving from information to knowledge age
 - [Meet Bard](https://bard.google.com/)
 - https://openai.com/blog/chatgpt
 - [Godmode](https://godmode.space/)
-- [OpenAI Platform](https://platform.openai.com/)
+- [**OpenAI Platform**](https://platform.openai.com/)
+  - [Embeddings - OpenAI API](https://platform.openai.com/docs/guides/embeddings/what-are-embeddings)
 - [GPT-4](https://openai.com/research/gpt-4)
 - [It’s Time to Pay Attention to A.I. (ChatGPT and Beyond)](https://www.youtube.com/watch?v=0uQqMxXoNVs)
 - https://en.wikipedia.org/wiki/GPT-3
@@ -97,6 +99,13 @@ Moving from information to knowledge age
 - Amazon EC2 P5 instances - Powered by NVIDIA H100 Tensor Core GPUs
 - Amazon EC2 P4d/P4de instances - Powered by NVIDIA A100 Tensor Core GPUs
 - Amazon EC2 G5 instances - Powered by NVIDIA A10G Tensor Core GPUs
+
+## Models
+
+- [openai/whisper-large-v3 · Hugging Face](https://huggingface.co/openai/whisper-large-v3)
+  - Whisper is a general-purpose speech recognition model. It is trained on a large dataset of diverse audio and is also a multitasking model that can perform multilingual speech recognition, speech translation, and language identification.
+  - [GitHub - openai/whisper: Robust Speech Recognition via Large-Scale Weak Supervision](https://github.com/openai/whisper)
+- [sentence-transformers/all-MiniLM-L6-v2 · Hugging Face](https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2)
 
 ## Links
 

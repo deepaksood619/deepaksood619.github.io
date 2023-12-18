@@ -10,3 +10,4 @@
 - [Goal Setting](management/project-management/goals-setting.md)
 - [PM Template](management/project-management/template.md)
 - [Others](management/project-management/others.md)
+- [Program Management](management/project-management/program-management.md)

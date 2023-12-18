@@ -6,9 +6,13 @@ Spring Boot is a Java-based framework that makes it easier to implement standalo
 
 ## Running application
 
+```bash
 mvn spring-boot:run
 
 mvn package && java -jar target/UserSmsTracker-1.0.jar
+```
+
+Hibernate DAO - Data Access Objects
 
 ## References
 

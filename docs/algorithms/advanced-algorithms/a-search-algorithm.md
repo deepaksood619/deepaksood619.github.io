@@ -37,8 +37,8 @@ dy = abs(node.y - goal.y)
 return D * (dx + dy)
 ```
 
-- **Diagonal Distance**
-- **Euclidean Distance**
+- Diagonal Distance
+- Euclidean Distance
 
 ## References
 

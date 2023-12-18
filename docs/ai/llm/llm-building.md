@@ -15,16 +15,6 @@
 
 [Emerging Architectures for LLM Applications | Andreessen Horowitz](https://a16z.com/2023/06/20/emerging-architectures-for-llm-applications/)
 
-### RAG - retrieval-augmented generation
-
-RAG is an AI framework for retrieving facts from an external knowledge base to ground large language models (LLMs) on the most accurate, up-to-date information and to give users insight into LLMs' generative process.
-
-[Using ChatGPT to Search Enterprise Data with Pamela Fox - YouTube](https://www.youtube.com/watch?v=lj5NjKHuFlo)
-
-[What is retrieval-augmented generation? | IBM Research Blog](https://research.ibm.com/blog/retrieval-augmented-generation-RAG)
-
-[What is Retrieval-Augmented Generation (RAG)? - YouTube](https://youtu.be/T-D1OfcDW1M?si=KoUb-NXATK50d3i7)
-
 [Transformers, explained: Understand the model behind GPT, BERT, and T5 - YouTube](https://youtu.be/SZorAJ4I-sA?si=-GMfzGThDO20aGkB)
 
 - Positional encodings
@@ -69,7 +59,7 @@ RAG is an AI framework for retrieving facts from an external knowledge base to g
 - Watermarking & evasion
 - Model theft
 
-[[1hr Talk] Intro to Large Language Models - YouTube](https://www.youtube.com/watch?v=zjkBMFhNj_g)
+[1hr Talk Intro to Large Language Models - YouTube](https://www.youtube.com/watch?v=zjkBMFhNj_g)
 
 ## Dev Tools
 
@@ -107,6 +97,16 @@ chainlit run document_qa.py
 ```
 
 ### HuggingFace
+
+#### About
+
+[How to choose a Sentence Transformer from Hugging Face | Weaviate - Vector Database](https://weaviate.io/blog/how-to-choose-a-sentence-transformer-from-hugging-face)
+
+- Blue - the **dataset** it was trained on
+- Green - the **language** of the dataset
+- White or Purple - **additional details** about the model
+
+#### Models
 
 - [GitHub - huggingface/transformers: 🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.](https://github.com/huggingface/transformers)
 - [Hugging Face – The AI community building the future.](https://huggingface.co/)
