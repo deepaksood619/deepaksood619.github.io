@@ -18,19 +18,15 @@ Continuous integration and continuous deployment is a practice wherein you integ
 
 Depending on your product and how's your technical implementation, you can choose to do a rolling strategy, recreate strategy, blue-green, A/B testing, canary deployment, or shadow strategy.
 
-## A definition proposed by Bass, Weber, and Zhu, is
-
-DevOps is a set of practices intended to reduce the time between committing a change to a system and the change being placed into normal production, while ensuring high quality.
-
-![image](../../media/DevOps-DevOps-Intro-image1.jpg)
+A definition proposed by Bass, Weber, and Zhu, is DevOps is a set of practices intended to reduce the time between committing a change to a system and the change being placed into normal production, while ensuring high quality.
 
 1. Plan / Code - code development and review, [source code management](https://en.wikipedia.org/wiki/Version_control) tools, code merging
-2. Create / Build ---[continuous integration](https://en.wikipedia.org/wiki/Continuous_integration) tools, build status
-3. Verify / Test ---[continuous testing](https://en.wikipedia.org/wiki/Continuous_testing) tools that provide feedback on business risks
-4. Package ---[artifact repository](https://en.wikipedia.org/wiki/Binary_repository_manager), application pre-deployment staging
+2. Create / Build - [continuous integration](https://en.wikipedia.org/wiki/Continuous_integration) tools, build status
+3. Verify / Test - [continuous testing](https://en.wikipedia.org/wiki/Continuous_testing) tools that provide feedback on business risks
+4. Package - [artifact repository](https://en.wikipedia.org/wiki/Binary_repository_manager), application pre-deployment staging
 5. Release - change management, release approvals, [release automation](https://en.wikipedia.org/wiki/Application_release_automation)
 6. Configure - infrastructure configuration and management, [Infrastructure as Code](https://en.wikipedia.org/wiki/Infrastructure_as_Code) tools
-7. Monitor ---[applications performance monitoring](https://en.wikipedia.org/wiki/Application_performance_management), end--user experience
+7. Monitor - [applications performance monitoring](https://en.wikipedia.org/wiki/Application_performance_management), end-user experience
 
 The term "**deployment**" refers to the act of deploying a change to application components or infrastructure, and the term "**release**" refers to the act of enabling or exposing a feature to end-users (with a corresponding business impact)
 

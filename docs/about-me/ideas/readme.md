@@ -9,5 +9,6 @@
 - [Startup Ideas - Physical](startup-ideas-physical)
 - [Improvements / Feedbacks](improvements-feedbacks)
 - [Thoughts / Future / Ideas / Vision / Prediction](thoughts-future-ideas-vision-prediction)
+- [Society](about-me/ideas/society.md)
 - [Startup Quotes](startup-quotes)
 - [Others](about-me/ideas/others.md)

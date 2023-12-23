@@ -256,8 +256,6 @@ In order to keep a system secure, it is advisable to conduct a pentest on a regu
 - [Script](https://www.tutorialspoint.com/software_testing_dictionary/script.htm)
 - [Security Testing](https://www.tutorialspoint.com/software_testing_dictionary/security_testing.htm)
 - [Simulation](https://www.tutorialspoint.com/software_testing_dictionary/simulation.htm)
-- [Smoke Testing](https://www.tutorialspoint.com/software_testing_dictionary/smoke_testing.htm)
-  - They're used as a sanity check that your site's core functionality isn't wrecked
 - [Soak Testing](https://www.tutorialspoint.com/software_testing_dictionary/soak_testing.htm)
 - [Software Requirement Specification](https://www.tutorialspoint.com/software_testing_dictionary/software_requirement_specification.htm)
 - [Stability Testing](https://www.tutorialspoint.com/software_testing_dictionary/stability_testing.htm)
@@ -274,6 +272,26 @@ In order to keep a system secure, it is advisable to conduct a pentest on a regu
 - [System Integration Testing](https://www.tutorialspoint.com/software_testing_dictionary/system_Integration_testing.htm)
 - [System Testing](https://www.tutorialspoint.com/software_testing_dictionary/system_testing.htm)
 - [System Under Test](https://www.tutorialspoint.com/software_testing_dictionary/system_under_test.htm)
+
+### [Smoke Testing](https://www.tutorialspoint.com/software_testing_dictionary/smoke_testing.htm)
+
+Also called as Build Verification Testing or Confidence Testing or Build Acceptance Testing
+
+They're used as a sanity check that your site's core functionality isn't wrecked.
+
+Smoke Testing is a testing technique that is inspired from hardware testing, which checks for the smoke from the hardware components once the hardware's power is switched on. Similarly in Software testing context, smoke testing refers to testing the basic functionality of the build.
+
+If the Test fails, build is declared as unstable and it is NOT tested anymore until the smoke test of the build passes.
+
+#### Smoke Testing - Features
+
+- Identifying the business critical functionalities that a product must satisfy.
+- Designing and executing the basic functionalities of the application.
+- Ensuring that the smoke test passes each and every build in order to proceed with the testing.
+- Smoke Tests enables uncovering obvious errors which saves time and effort of test team.
+- Smoke Tests can be manual or automated.
+
+[Smoke Testing - Software Testing - GeeksforGeeks](https://www.geeksforgeeks.org/smoke-testing-software-testing/)
 
 ## T
 

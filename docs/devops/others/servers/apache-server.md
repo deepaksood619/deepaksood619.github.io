@@ -158,23 +158,23 @@ https://www.liquidweb.com/kb/apache-performance-tuning-apache-mpm-modules
 
 ### Remove the Burden of Processing Code From Apache
 
-Apache modules provide a quick and easy solution to process the code needed to operate your website. Some of the most popular modules aremod_phpfor PHP, mod_railsfor Ruby on Rails, andmod_pythonfor Python.
+Apache modules provide a quick and easy solution to process the code needed to operate your website. Some of the most popular modules are mod_php for PHP, mod_rails for Ruby on Rails, and mod_python for Python.
 
 However, these modules come with a price: they put the burden of code processing on Apache, which can slow down website response times across the board.
 
 To improve Apache's performance, consider migrating to these alternative solutions instead:
 
-- PHP:[php-fpm](https://php-fpm.org/)
-- Ruby:[Unicorn](https://bogomips.org/unicorn/)
-- Python:[uWSGI](https://uwsgi-docs.readthedocs.io/en/latest/) or [gnunicorn](http://gunicorn.org/)
+- PHP: [php-fpm](https://php-fpm.org/)
+- Ruby: [Unicorn](https://bogomips.org/unicorn/)
+- Python: [uWSGI](https://uwsgi-docs.readthedocs.io/en/latest/) or [gnunicorn](http://gunicorn.org/)
 
 ### Change Apache's MaxKeepAliveRequests, KeepAlive, and KeepAliveTimeout Settings
 
-- MaxKeepAliveRequestssets the maximum number of requests to accept per connection. The higher this number, the better the performance of the server, up to a point. The recommended value is 500.
-- KeepAliveTimeoutsets the number of seconds Apache will wait for a new request from a connection before it closes the connection. This number should be kept low. The recommended value is between 1 and 5.
-- MaxKeepAliveRequests 500
- KeepAlive On
- KeepAliveTimeout 3
+- `MaxKeepAliveRequests` sets the maximum number of requests to accept per connection. The higher this number, the better the performance of the server, up to a point. The recommended value is 500.
+- `KeepAliveTimeout` sets the number of seconds Apache will wait for a new request from a connection before it closes the connection. This number should be kept low. The recommended value is between 1 and 5.
+- `MaxKeepAliveRequests` 500
+- `KeepAlive` On
+- `KeepAliveTimeout` 3
 
 ### Workers
 
@@ -322,7 +322,7 @@ If you see CPU usage continually rising on your Apache servers, this can indicat
 
 ### Open file descriptors
 
-Apache opens a file descriptor for each connection, as well as every log file. If your server has a large number of virtual hosts, you may run into a problem with your system-imposed limit, because Apache generates separate log files for each virtual host.[The documentation](https://httpd.apache.org/docs/2.4/vhosts/fd-limits.html) has some useful guidelines about how you can either raise the limit on your system, or [reduce the total number of logs created](http://httpd.apache.org/docs/current/logs.html#virtualhost), by writing all virtual host logs to the same file, and using a script like [split-logfile](http://httpd.apache.org/docs/current/programs/split-logfile.html) for downstream categorization
+Apache opens a file descriptor for each connection, as well as every log file. If your server has a large number of virtual hosts, you may run into a problem with your system-imposed limit, because Apache generates separate log files for each virtual host. [The documentation](https://httpd.apache.org/docs/2.4/vhosts/fd-limits.html) has some useful guidelines about how you can either raise the limit on your system, or [reduce the total number of logs created](http://httpd.apache.org/docs/current/logs.html#virtualhost), by writing all virtual host logs to the same file, and using a script like [split-logfile](http://httpd.apache.org/docs/current/programs/split-logfile.html) for downstream categorization
 
 [**Errors**](https://www.datadoghq.com/blog/monitoring-apache-web-server-performance/#errors)
 
@@ -333,8 +333,8 @@ Apache opens a file descriptor for each connection, as well as every log file. I
 
 Apache will typically generate a 503 Service Unavailable status code when it is overloaded.
 
-- **Apache 2.2**can generate one processes per second.
-- **Apache 2.4**can generate up to 32 processes in on second. When minimum idle spare processes are less than MinSpareServers value, Apache start 1 process and wait for one second, If it's still less, Apache start 2 processes and wait a second, If it's still less Apache starts 4 processes and wait for a second, similarly Apache can start-up to 32 spare child processes per second and it repeated until minimum spare process exceeded MinSpareServers value.
+- **Apache 2.2** can generate one processes per second.
+- **Apache 2.4** can generate up to 32 processes in on second. When minimum idle spare processes are less than MinSpareServers value, Apache start 1 process and wait for one second, If it's still less, Apache start 2 processes and wait a second, If it's still less Apache starts 4 processes and wait for a second, similarly Apache can start-up to 32 spare child processes per second and it repeated until minimum spare process exceeded MinSpareServers value.
 
 [**https://www.datadoghq.com/blog/monitoring-apache-web-server-performance/**](https://www.datadoghq.com/blog/monitoring-apache-web-server-performance/)
 
@@ -352,9 +352,11 @@ https://www.liquidweb.com/kb/apache-performance-tuning-mpm-directives/#prefork
 
 Apache Tomcat (or simply Tomcat) is an open source web server and servlet container developed by the Apache Software Foundation (ASF). Tomcat implements the Java Servlet and the JavaServer Pages (JSP) specifications from Oracle, and provides a "pure Java" HTTP web server environment for Java code to run in. In the simplest config Tomcat runs in a single operating system process. The process runs a Java virtual machine (JVM). Every single HTTP request from a browser to Tomcat is processed in the Tomcat process in a separate thread.
 
-## Difference betwee Apache HTTP Server and Apache Tomcat
+[Running Multiple Tomcats with Single Server Installation](https://howtodoinjava.com/tomcat/running-multiple-instances-of-tomcat-with-single-server-installation/)
 
-The Apache "http" server is often refered to as Apache and is a server that handles http requests. Its job is to listen for requests and pass it on to the appropriate module to process. There are modules to process C, Java, PERL, PHP, Python, Ruby etc.
+## Difference between Apache HTTP Server and Apache Tomcat
+
+The Apache "http" server is often referred to as Apache and is a server that handles http requests. Its job is to listen for requests and pass it on to the appropriate module to process. There are modules to process C, Java, PERL, PHP, Python, Ruby etc.
 
 Apache Tomcat is a Java Servlet container. It runs as an Apache http server module. It constructs the HTML pages by executing Java Servlets and Java Server Pages and returns them to the http server.
 

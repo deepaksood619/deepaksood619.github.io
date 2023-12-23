@@ -70,19 +70,44 @@ You have just seen two types of tests:
 Security testing helps you identify application vulnerabilities that could be exploited by hackers and correct them before you release your product or app.
 There are a [range of application security tests](https://securityboulevard.com/2020/03/application-security-testing-trends-in-2020/) available to you with different tests that are applicable at different parts of the software development life cycle.
 
-## Static Application Security Testing (SAST)
+## Static Application Security Testing (SAST) (White-box)
 
 SAST analyzes the code itself rather than the final application, and you can run it without actually executing the code.
 
 ![image](../../media/Test-Pyramid-image2.jpg)
 
-## Dynamic Application Security Testing (DAST)
+## Dynamic Application Security Testing (DAST) (Black-box)
 
 Runs on fully compiled application. You design and run these tests without any knowledge of the underlying structures or code.
 
 Because DAST applies the hacker's perspective, it is known as black box, or outside in, testing.
 
 DAST operates by attacking the running code and seeking to exploit potential vulnerabilities. DAST may employ such common attack techniques as cross-site scripting and SQL injection.
+
+### What are SAST and DAST?
+
+SAST and DAST are application security testing methodologies used to find security vulnerabilities that can make an application susceptible to attack. Static application security testing (SAST) is a white box method of testing. It examines the code to find software flaws and weaknesses such as SQL injection and others listed in the [OWASP Top 10](https://www.synopsys.com/glossary/what-is-owasp-top-10.html). Dynamic application security testing (DAST) is a black box testing method that examines an application as it’s running to find vulnerabilities that an attacker could exploit.
+
+|S.NO.|Static Application Security Testing|Dynamic Application Security Testing|
+|---|---|---|
+|1.|SAST is a type of [White Box security testing.](https://www.geeksforgeeks.org/software-engineering-white-box-testing/)|DAST is type of [Black Box security testing](https://www.geeksforgeeks.org/software-engineering-black-box-testing/).|
+|2.|In SAST, application is tested from inside out.|In DAST, application is tested from outside in.|
+|3.|This type testing is a developers approach of testing.|This type testing is a hackers approach of testing.|
+|4.|No deployed application is required for Static Application Security Testing.|A running application is required for Dynamic Application Security Testing.|
+|5.|Finding vulnerabilities, identifying and fixing bugs is easier in SAST.|Finding vulnerabilities towards end of SDLC.|
+|6.|Fixing vulnerabilities is possible with little cost assistance.|It finds vulnerabilities towards end of SDLC, hence it is expensive to do so.|
+|7.|SAST can not discover issues related run time and environment.|DAST can discover issues related to run time and environment.|
+|8.|Typically it supports all types of software like web applications, web services, thick client.|Typically it only scans apps like web applications, web services but not other types of software.|
+|9.|In this testing, developer has knowledge about design, application framework and implementation.|In this testing, tester has no knowledge about application, design, frameworks and implementation that application is built on.|
+|10.|SAST testing requires source code to perform testing operation.|DAST testing does not require source code to perform testing operation.|
+|11.|As it scans static code and performs its testing operation that is why it is called Static Application Security Testing (SAST).|As it scans dynamic code and performs its testing operation that is why it is called Dynamic Application Security Testing (DAST).|
+|12.|This testing is performed in early stages of Software Development Life Cycle (SDLC).|This testing is performed at end of Software Development Life Cycle (SDLC).|
+|13.|In SAST, there is costly long duration dependent on experience of tester.|In DAST, tester is unable to perform comprehensive application analysis since this is carried our externally.|
+|14.|In SAST, tester is able to perform comprehensive application analysis.|DAST can be done faster as compared to other types of testing due to restricted scope.|
+
+[SAST vs. DAST: What’s the Difference? | Synopsys Blog](https://www.synopsys.com/blogs/software-security/sast-vs-dast-difference.html)
+
+[Difference between SAST and DAST - GeeksforGeeks](https://www.geeksforgeeks.org/difference-between-sast-and-dast/)
 
 ## Interactive Application Security Testing
 

@@ -19,9 +19,7 @@ In contrast, event-based logging might cover events such as application exceptio
 A commonly used open-source logging solution is the Elasticsearch-Kibana-Logstash (ELK) stack. Stacks like this generally consist of three components:
 
 1. A storage component, e.g. Elasticsearch.
-
 2. A log or metric ingestion daemon such as Logstash or Fluentd. It is responsible for ingesting large amounts of data and adding or processing metadata while doing so. For example, it might add geolocation information for IP addresses.
-
 3. A visualization solution such as Kibana to show important visual representations of system state at any given time.
 
 Most cloud solutions either have their own centralized logging solutions that contain one or more of the aforementioned products or tie them into their existing infrastructure. AWS CloudWatch, for example, contains all parts described above and is heavily integrated into every component of AWS, while also allowing parallel exports of data to AWS S3 for cheap long-term storage.
@@ -43,7 +41,5 @@ The components needed to create a VPC on AWS are described below:
 - A security group then controls which inbound and outbound traffic is allowed.
 
 This methodology is conceptually similar to physical infrastructure.
-
-## References
 
 https://www.toptal.com/devops/interview-questions

@@ -53,3 +53,15 @@ Web-based MongoDB admin interface written with Node.js, Express and Bootstrap3
 - Supports replica sets
 
 https://github.com/mongo-express/mongo-express
+
+### MongoSync
+
+```bash
+./mongosync --cluster0 mongodb://admin:hNpd7utg6aeMgXdeZ2xqRxg5FDd96MnNr4V@3.108.70.26:27018/ --cluster1 mongodb+srv://deepaksood619:xXGzRa0mqGyT2Roi@cluster0.wendrum.mongodb.net/
+
+deepaksood619
+xXGzRa0mqGyT2Roi
+
+```
+
+[mongosync — MongoDB Cluster-to-Cluster Sync](https://www.mongodb.com/docs/cluster-to-cluster-sync/current/reference/mongosync/)

@@ -12,7 +12,7 @@ Load balancing is a way of distributing traffic between multiple hosts within a 
 
 Distributed load balancing refers to having Envoy itself determine how load should be distributed to the endpoints based on knowing the location of the upstream hosts.
 
-## Examples
+### Examples
 
 - [Active health checking](https://www.envoyproxy.io/docs/envoy/latest/intro/arch_overview/upstream/health_checking#arch-overview-health-checking): by health checking upstream hosts, Envoy can adjust the weights of priorities and localities to account for unavailable hosts.
 - [Zone aware routing](https://www.envoyproxy.io/docs/envoy/latest/intro/arch_overview/upstream/load_balancing/zone_aware#arch-overview-load-balancing-zone-aware-routing): this can be used to make Envoy prefer closer endpoints without having to explicitly configure priorities in the control plane.
@@ -109,7 +109,9 @@ https://www.envoyproxy.io/docs/envoy/latest/intro/arch_overview/upstream/load_ba
 | Minimizing resource utilization in proxy is more important than features | Use L3/L4 LB |
 | Latency is paramount | Use L3/L4 LB |
 
-## GSLB - Global Server Load Balancing extends L4 and L7 capabilities to servers in different geographic locations
+## GSLB - Global Server Load Balancing
+
+GSLB extends L4 and L7 capabilities to servers in different geographic locations
 
 Global server load balancing(GSLB) refers to the intelligent distribution of traffic across server resources located in multiple geographies. The servers can be on premises in a company's own data centers, or hosted in a private cloud or the public cloud.
 
@@ -175,7 +177,7 @@ In [computer networks](https://en.wikipedia.org/wiki/Computer_network), areverse
 
 Quite often, popular web servers use reverse-proxying functionality, shielding application frameworks of weaker HTTP capabilities. In this context, "weaker" means limitations in ability to handle excessive load, and limitation in handling the entire variety of request formats that can adhere to HTTP(S) 1.x, HTTP(S) 2.x, or requests which may be hard to detect. A reverse proxy in such cases could transform HTTPS requests into HTTP requests, buffer incoming requests based on the load of the "shielded" server(s), handle cookies/session data, or transform one request into multiple requests and then synthesize the responses, among other possibilities.
 
-## Uses of reverse proxies
+### Uses of reverse proxies
 
 - Reverse proxies can hide the existence and characteristics of an [origin server](https://en.wikipedia.org/wiki/Origin_server) or servers.
 - [Application firewall](https://en.wikipedia.org/wiki/Application_firewall) features can protect against common web-based attacks, like a [denial-of-service attack (DoS)](https://en.wikipedia.org/wiki/Denial-of-service_attack) or distributed denial-of-service attacks (DDoS). Without a reverse proxy, removing malware or initiating [takedowns](https://en.wikipedia.org/wiki/Notice_and_take_down), for example, can become difficult.
@@ -265,7 +267,7 @@ https://www.freecodecamp.org/news/what-is-a-proxy-server-in-english-please
 
 ## Features
 
-## Service discovery
+### Service discovery
 
 Service discovery is the process by which a load balancer determines the set of available backends. The methods are quite varied and some examples include:
 
@@ -273,7 +275,6 @@ Service discovery is the process by which a load balancer determines the set of 
 - DNS.
 - [Zookeeper](https://zookeeper.apache.org/), [Etcd](https://coreos.com/etcd/), [Consul](https://www.consul.io/), etc.
 - Envoy's [universal data plane API](https://medium.com/@mattklein123/the-universal-data-plane-api-d15cec7a).
-
 - Client-side discovery pattern
 - Server-side discovery pattern
 - Service Registry
@@ -293,43 +294,52 @@ https://iximiuz.com/en/posts/service-discovery-in-kubernetes
 
 Health checking is the process by which the load balancer determines if the backend is available to serve traffic. Health checking generally falls into two categories:
 
-### Active: The load balancer sends a ping on a regular interval (e.g., an HTTP request to a/healthcheckendpoint) to the backend and uses this to gauge health
+### Active
 
-### Passive: The load balancer detects health status from the primary data flow. e.g., an L4 load balancer might decide a backend is unhealthy if there have been three connection errors in a row. An L7 load balancer might decide a backend is unhealthy if there have been three HTTP 503 response codes in a row
+The load balancer sends a ping on a regular interval (e.g., an HTTP request to a `/healthcheck` endpoint) to the backend and uses this to gauge health
+
+### Passive
+
+The load balancer detects health status from the primary data flow. e.g., an L4 load balancer might decide a backend is unhealthy if there have been three connection errors in a row. An L7 load balancer might decide a backend is unhealthy if there have been three HTTP 503 response codes in a row
+
+### Others
+
+- Deep Health Checks
+- Shallow Health Checks
 
 ## Load balancing
 
 Yes, load balancers have to actually balance load! Given a set of healthy backends, how is the backend selected that will serve a connection or request? Load balancing algorithms are an active area of research and range from simplistic ones such as random selection and round robin, to more complicated algorithms that take into account variable latency and backend load. One of the most popular load balancing algorithms given its performance and simplicity is known as [power of 2 least request load balancing](https://brooker.co.za/blog/2012/01/17/two-random.html).
 
-## Content-based Routing
+### Content-based Routing
 
 If your application is composed of several individual services, an Application Load Balancer can route a request to a service based on the content of the request.
 
-## Host-based Routing
+### Host-based Routing
 
 You can route a client request based on the Host field of the HTTP header allowing you to route to multiple domains from the same load balancer.
 
-## Path-based Routing
+### Path-based Routing
 
 You can route a client request based on the URL path of the HTTP header.
 
-## HTTP header-based routing
+### HTTP header-based routing
 
 You can route a client request based on the value of any standard or custom HTTP header.
 
-## HTTP method-based routing
+### HTTP method-based routing
 
 You can route a client request based on any standard or custom HTTP method.
 
-## Query string parameter-based routing
+### Query string parameter-based routing
 
 You can route a client request based on query string or query parameters.
 
-## Source IP address CIDR-based routing
+### Source IP address CIDR-based routing
 
 You can route a client request based on source IP address CIDR from where the request originates.
 
-## Sticky sessions
+### Sticky sessions
 
 In certain applications, it is important that requests for the samesessionreach the same backend. This might have to do with caching, temporary complex constructed state, etc. The definition of a session varies and might include HTTP cookies, properties of the client connection, or some other attribute. Many L7 load balancers have some support for sticky sessions. As an aside, I will note that session stickiness is inherently fragile (the backend hosting the session can die), so caution is advised when designing a system that relies on them.
 
@@ -351,17 +361,17 @@ Load balancers need to be configured. In large deployments, this can become a su
 
 ## Types of LoadBalancer topologies
 
-- Middle proxy
+### Middle proxy
 
 ![image](../../media/DevOps-DevOps-Load-Balancer-Proxy-image1.jpg)
 
 In Proxy load balancing, the client issues RPCs to the a Load Balancer (LB) proxy. The LB distributes the RPC call to one of the available backend servers that implement the actual logic for serving the call. The LB keeps track of load on each backend and implements algorithms for distributing load fairly. The clients themselves do not know about the backend servers. Clients can be untrusted. This architecture is typically used for user facing services where clients from open internet can connect to servers in a data cente
 
-- Edge proxy
+### Edge proxy
 
 ![image](../../media/DevOps-DevOps-Load-Balancer-Proxy-image2.jpg)
 
-- Embedded client library / Client-side load balancing
+### Embedded client library / Client-side load balancing
 
 ![image](../../media/DevOps-DevOps-Load-Balancer-Proxy-image3.jpg)
 
@@ -369,17 +379,17 @@ In Client side load balancing, the client is aware of multiple backend servers a
 
 ## Client Side LB Options
 
-## Thick client
+### Thick client
 
 A thick client approach means the load balancing smarts are implemented in the client. The client is responsible for keeping track of available servers, their workload, and the algorithms used for choosing servers. The client typically integrates libraries that communicate with other infrastructures such as service discovery, name resolution, quota management, etc.
 
-## Tools
+### Tools
 
-### Netflix Ribbon
+#### Netflix Ribbon
 
 [Client Side Load Balancing | Microservices Architecture Pattern | Tech Primers](https://www.youtube.com/watch?v=-PbnWGddmcM)
 
-## Lookaside Load Balancing
+### Lookaside Load Balancing
 
 Note: A lookaside load balancer is also known as an external load balancer or one-arm load balancer
 

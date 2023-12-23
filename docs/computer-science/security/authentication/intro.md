@@ -43,7 +43,7 @@ https://auth0.com/learn/multifactor-authentication
 
 ### Basic Access Authentication (BA)
 
-In the context of an [HTTP](https://en.wikipedia.org/wiki/HTTP) transaction, basic access authenticationis a method for an [HTTP user agent](https://en.wikipedia.org/wiki/User_agent)(e.g. a [web browser](https://en.wikipedia.org/wiki/Web_browser)) to provide a [user name](https://en.wikipedia.org/wiki/User_name) and [password](https://en.wikipedia.org/wiki/Password) when making a request. In basic HTTP authentication, a request contains a header field in the form ofAuthorization: Basic < credentials >, where credentials is the [Base64](https://en.wikipedia.org/wiki/Base64) encoding of ID and password joined by a single colon
+In the context of an [HTTP](https://en.wikipedia.org/wiki/HTTP) transaction, basic access authentication is a method for an [HTTP user agent](https://en.wikipedia.org/wiki/User_agent)(e.g. a [web browser](https://en.wikipedia.org/wiki/Web_browser)) to provide a [user name](https://en.wikipedia.org/wiki/User_name) and [password](https://en.wikipedia.org/wiki/Password) when making a request. In basic HTTP authentication, a request contains a header field in the form of `Authorization: Basic <credentials>`, where credentials is the [Base64](https://en.wikipedia.org/wiki/Base64) encoding of ID and password joined by a single colon
 
 HTTP Basic authentication (BA) implementation is the simplest technique for enforcing [access controls](https://en.wikipedia.org/wiki/Access_controls) to web resources because it does not require [cookies](https://en.wikipedia.org/wiki/HTTP_cookie), session identifiers, or login pages; rather, HTTP Basic authentication uses standard fields in the [HTTP header](https://en.wikipedia.org/wiki/HTTP_header).
 

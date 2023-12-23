@@ -4,14 +4,15 @@ Create best software companies with Indian labour, since labour is cheap in Indi
 
 **Developer tools - pure software play**
 
-**Weekend Jobs**
+### Weekend Jobs
 
-- **List jobs only for weekends**
-- **Full hiring platform**
+- List jobs only for weekends
+- Full hiring platform
 
 ### Others
 
 - riverside.fm saas opensource alternative
+- Multimodal transportation cost explorer
 
 ## AI/ChatGPT
 

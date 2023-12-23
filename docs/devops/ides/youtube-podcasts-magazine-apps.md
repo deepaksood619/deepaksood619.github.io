@@ -236,6 +236,7 @@
 - [The Engineering Mindset - YouTube](https://www.youtube.com/@EngineeringMindset)
 - [Factory Monster - YouTube](https://www.youtube.com/@Factory_Monster)
 - [The Infographics Show - YouTube](https://www.youtube.com/@TheInfographicsShow)
+- [AlphaPhoenix - YouTube](https://www.youtube.com/@AlphaPhoenixChannel)
 
 ## Video creation, 3D Animation and Youtubing Strategy
 

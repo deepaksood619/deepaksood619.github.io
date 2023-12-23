@@ -4,9 +4,9 @@ Data centeris a pool of resources (computational, storage, network) interconnect
 
 ## Types of Data center network
 
-## Three-tier DCN
+### Three-tier DCN
 
-The [legacy](https://en.wikipedia.org/wiki/Legacy_system) three-tier DCN architecture follows a multi-rooted [tree based network topology](https://en.wikipedia.org/wiki/Tree_network) composed of three layers of network switches, namely access, aggregate, and core layers.The [servers](https://en.wikipedia.org/wiki/Server_(computing)) in the lowest layers are connected directly to one of the edge layer switches. The aggregate layer switches interconnect together multiple access layer switches. All of the aggregate layer switches are connected to each other by core layer switches. Core layer switches are also responsible for connecting the data center to the [Internet](https://en.wikipedia.org/wiki/Internet). The three-tier is the common network architecture used in data centers.However, three-tier architecture is unable to handle the growing demand of cloud computing.The higher layers of the three-tier DCN are highly oversubscribed.Moreover, scalability is another major issue in three-tier DCN. Major problems faced by the three-tier architecture include, scalability, fault tolerance, energy efficiency, and cross-sectional bandwidth. The three-tier architecture uses enterprise-level network devices at the higher layers of topology that are very expensive and power hungry.
+The [legacy](https://en.wikipedia.org/wiki/Legacy_system) three-tier DCN architecture follows a multi-rooted [tree based network topology](https://en.wikipedia.org/wiki/Tree_network) composed of three layers of network switches, namely access, aggregate, and core layers.The [servers](https://en.wikipedia.org/wiki/Server_(computing)) in the lowest layers are connected directly to one of the edge layer switches. The aggregate layer switches interconnect together multiple access layer switches. All of the aggregate layer switches are connected to each other by core layer switches. Core layer switches are also responsible for connecting the data center to the [Internet](https://en.wikipedia.org/wiki/Internet). The three-tier is the common network architecture used in data centers. However, three-tier architecture is unable to handle the growing demand of cloud computing.The higher layers of the three-tier DCN are highly oversubscribed.Moreover, scalability is another major issue in three-tier DCN. Major problems faced by the three-tier architecture include, scalability, fault tolerance, energy efficiency, and cross-sectional bandwidth. The three-tier architecture uses enterprise-level network devices at the higher layers of topology that are very expensive and power hungry.
 
 ## Fat tree DCN
 
@@ -14,7 +14,7 @@ Fat tree DCN architecture handles the oversubscription and cross section bandwid
 
 ## DCell
 
-DCell is a server-centric hybrid DCN architecture where one server is directly connected to many other servers.A server in the DCell architecture is equipped with multiple [Network Interface Cards](https://en.wikipedia.org/wiki/Network_Interface_Card)(NICs). The DCell follows a recursively built hierarchy of cells. A cell0is the basic unit and building block of DCell topology arranged in multiple levels, where a higher level cell contains multiple lower layer cells. The cell0is building block of DCell topology, which containsnservers and one commodity network switch. The network switch is only used to connect the server within a cell0. A cell1containk=n+1cell0cells, and similarly a cell2contains k * n + 1 dcell1. The DCell is a highly scalable architecture where a four level DCell with only six servers in cell0can accommodate around 3.26 million servers. Besides very high scalability, the DCell architecture depicts very high structural robustness.However, cross section bandwidth and network latency is a major issue in DCell DCN architecture.
+DCell is a server-centric hybrid DCN architecture where one server is directly connected to many other servers.A server in the DCell architecture is equipped with multiple [Network Interface Cards](https://en.wikipedia.org/wiki/Network_Interface_Card)(NICs). The DCell follows a recursively built hierarchy of cells. A cell0is the basic unit and building block of DCell topology arranged in multiple levels, where a higher level cell contains multiple lower layer cells. The cell0is building block of DCell topology, which containsnservers and one commodity network switch. The network switch is only used to connect the server within a cell0. A cell1 contain k=n+1 cell 0 cells, and similarly a cell 2 contains k * n + 1 dcell1. The DCell is a highly scalable architecture where a four level DCell with only six servers in cell0can accommodate around 3.26 million servers. Besides very high scalability, the DCell architecture depicts very high structural robustness.However, cross section bandwidth and network latency is a major issue in DCell DCN architecture.
 
 ## Others
 
@@ -24,12 +24,16 @@ https://en.wikipedia.org/wiki/Data_center_network_architectures
 
 ## Torus Interconnect
 
-A **[torus](https://en.wikipedia.org/wiki/Torus) interconnect**is a switch-less [network topology](https://en.wikipedia.org/wiki/Network_topology) for connecting processing nodes in a [parallel computer](https://en.wikipedia.org/wiki/Parallel_computer) system.
+A **[torus](https://en.wikipedia.org/wiki/Torus) interconnect** is a switch-less [network topology](https://en.wikipedia.org/wiki/Network_topology) for connecting processing nodes in a [parallel computer](https://en.wikipedia.org/wiki/Parallel_computer) system.
 
 https://en.wikipedia.org/wiki/Torus_interconnect
 
 ## InfiniBand
 
-InfiniBand(IB) is a computer networking communications standard used in [high-performance computing](https://en.wikipedia.org/wiki/High-performance_computing) that features very high [throughput](https://en.wikipedia.org/wiki/Throughput) and very low [latency](https://en.wikipedia.org/wiki/Latency_(engineering)). It is used for data interconnect both among and within computers. InfiniBand is also used as either a direct or switched interconnect between servers and storage systems, as well as an interconnect between storage systems
+InfiniBand (IB) is a computer networking communications standard used in [high-performance computing](https://en.wikipedia.org/wiki/High-performance_computing) that features very high [throughput](https://en.wikipedia.org/wiki/Throughput) and very low [latency](https://en.wikipedia.org/wiki/Latency_(engineering)). It is used for data interconnect both among and within computers. InfiniBand is also used as either a direct or switched interconnect between servers and storage systems, as well as an interconnect between storage systems
 
 https://en.wikipedia.org/wiki/InfiniBand
+
+## Links
+
+[nutanix-hybrid-cloud](computer-science/courses/nutanix-hybrid-cloud.md)
