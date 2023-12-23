@@ -31,7 +31,7 @@ It's designed to workaround the shortcomings of procfs, sysfs and cgroupfs by ex
 
 ## ITIL
 
-ITIL, formerlyan acronym for**Information Technology Infrastructure Library**, is a set of detailed practices for [IT service management](https://en.wikipedia.org/wiki/IT_service_management)(ITSM) that focuses on aligning IT services with the needs of business.
+ITIL, formerlyan acronym for **Information Technology Infrastructure Library**, is a set of detailed practices for [IT service management](https://en.wikipedia.org/wiki/IT_service_management)(ITSM) that focuses on aligning IT services with the needs of business.
 
 ![image](../../media/DevOps-DevOps-Concepts-image1.jpg)
 

@@ -13,6 +13,7 @@
   - [Notifications](firebase/notifications)
   - [Web Push Notifications](cloud/others/firebase/web-push-notifications.md)
 - [Openstack](openstack)
+- [VMware](cloud/others/vmware.md)
 - [Content Delivery Network (CDN)](cloud/others/cdn-content-delivery-network.md)
 - [Ticketing / TMS](ticketing-tms)
 - [Business Rule Engine / Decision Rule Engine](business-rule-engine)

@@ -12,6 +12,18 @@
 
 ### Compute Engine
 
+If predefined VMs don't meet your needs, you can create a VM instance with custom virtualized hardware settings. You can create VM instances with as little as 1 vCPU and up to 96 vCPUs, or any even number of vCPUs in between. You can also configure up to 8 GB of memory per vCPU.
+
+When you create a custom VM, you're deploying a custom VM from the E2, N2, N2D, or N1 machine family.
+
+The on-demand prices for custom machine types include a 5% premium over the on-demand prices for standard machine types.
+
+ex - n2d-custom-8-12288
+
+[Create a VM with a custom machine type  |  Compute Engine Documentation  |  Google Cloud](https://cloud.google.com/compute/docs/instances/creating-instance-with-custom-machine-type)
+
+[Machine families resource and comparison guide  |  Compute Engine Documentation  |  Google Cloud](https://cloud.google.com/compute/docs/machine-resource)
+
 ### App Engine
 
 Serverless application that completely abstracts away infrastructure so you focus only on code

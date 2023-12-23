@@ -42,7 +42,7 @@ IN OUR CONSTITUENT ASSEMBLY this twenty-sixth day of November 1949, do HEREBY AD
 
 2 Admission or establishment of new States.
 
-2A [Repealed.]
+2A Repealed
 
 3 Formation of new States and alteration of areas, boundaries or names of existing States.
 
@@ -86,6 +86,8 @@ IN OUR CONSTITUENT ASSEMBLY this twenty-sixth day of November 1949, do HEREBY AD
 
 19 Protection of certain rights regarding freedom of speech, etc.
 
+- Article 19(1)(a) According to Article 19(1)(a): All citizens shall have the right to freedom of speech and expression. This implies that all citizens have the right to express their views and opinions freely. This includes not only words of mouth, but also a speech by way of writings, pictures, movies, banners, etc.
+
 20 Protection in respect of conviction for offences.
 
 21 Protection of life and personal liberty.
@@ -118,7 +120,7 @@ IN OUR CONSTITUENT ASSEMBLY this twenty-sixth day of November 1949, do HEREBY AD
 
 30 Right of minorities to establish and administer educational institutions.
 
-31 [Repealed.]
+31 Repealed
 
 ## Saving of Certain Laws
 
@@ -128,13 +130,13 @@ IN OUR CONSTITUENT ASSEMBLY this twenty-sixth day of November 1949, do HEREBY AD
 
 31C Saving of laws giving effect to certain directive principles.
 
-31D [Repealed.]
+31D Repealed
 
 ## Right to Constitutional Remedies
 
 32 Remedies for enforcement of rights conferred by this Part.
 
-32A [Repealed.]
+32A Repealed
 
 33 Power of Parliament to modify the rights conferred by this Part in their application to Forces, etc.
 
@@ -390,7 +392,7 @@ Procedure Generally
 
 131 Original jurisdiction of the Supreme Court.
 
-131A [Repealed.]
+131A Repealed
 
 132 Appellate jurisdiction of Supreme Court in appeals from High Courts in certain cases.
 
@@ -422,7 +424,7 @@ Procedure Generally
 
 144 Civil and judicial authorities to act in aid of the Supreme Court.
 
-144A [Repealed.]
+144A Repealed
 
 145 Rules of Court, etc.
 
@@ -634,7 +636,7 @@ Powers, privileges and immunities of State Legislatures and their Members
 
 228 Transfer of certain cases to High Court.
 
-228A [Repealed.]
+228A Repealed
 
 229 Officers and servants and the expenses of High Courts.
 
@@ -658,7 +660,7 @@ Powers, privileges and immunities of State Legislatures and their Members
 
 ## PART VII: THE STATES IN PART B OF THE FIRST SCHEDULE
 
-238 [Repealed.]
+238 Repealed
 
 ## PART VIII: THE UNION TERRITORIES
 
@@ -676,7 +678,7 @@ Powers, privileges and immunities of State Legislatures and their Members
 
 241 High Courts for Union territories.
 
-242 [Repealed.]
+242 Repealed
 
 ## PART IX: THE PANCHAYATS
 
@@ -822,13 +824,13 @@ Powers, privileges and immunities of State Legislatures and their Members
 
 257 Control of the Union over States in certain cases.
 
-257A [Repealed.]
+257A Repealed
 
 258 Power of the Union to confer powers, etc., on States in certain cases.
 
 258A Power of the States to entrust functions to the Union.
 
-259 [Repealed.]
+259 Repealed
 
 260 Jurisdiction of the Union in relation to territories outside India.
 
@@ -860,7 +862,7 @@ Distribution of Revenues between the Union and the States
 
 268 Duties levied by the Union but collected and appropriated by the State.
 
-268A [Repealed.]
+268A Repealed
 
 269 Taxes levied and collected by the Union but assigned to the States.
 
@@ -870,7 +872,7 @@ Distribution of Revenues between the Union and the States
 
 271 Surcharge on certain duties and taxes for purposes of the Union.
 
-272 [Repealed.]
+272 Repealed
 
 273 Grants in lieu of export duty on jute and jute products.
 
@@ -882,7 +884,7 @@ Distribution of Revenues between the Union and the States
 
 277 Savings.
 
-278 [Repealed.]
+278 Repealed
 
 279 Calculation of "net proceeds", etc.
 
@@ -914,7 +916,7 @@ Distribution of Revenues between the Union and the States
 
 290A Annual payment to certain Devaswom Funds.
 
-291 [Repealed.]
+291 Repealed
 
 ## CHAPTER II: BORROWING
 
@@ -954,7 +956,7 @@ Distribution of Revenues between the Union and the States
 
 305 Saving of existing laws and laws providing for State monopolies.
 
-306 [Repealed.]
+306 Repealed
 
 307 Appointment of authority for carrying out the purposes of articles 301 to 304.
 
@@ -1018,7 +1020,7 @@ Distribution of Revenues between the Union and the States
 
 329 Bar to interference by courts in electoral matters.
 
-329A [Repealed.]
+329A Repealed
 
 ## PART XVI:SPECIAL PROVISIONS RELATING TO CERTAIN CLASSES
 
@@ -1104,7 +1106,7 @@ Distribution of Revenues between the Union and the States
 
 359 Suspension of the enforcement of the rights conferred by Part III during emergencies.
 
-359A [Repealed.]
+359A Repealed
 
 360 Provisions as to financial emergency.
 
@@ -1116,7 +1118,7 @@ Distribution of Revenues between the Union and the States
 
 361B Disqualification for appointment on remunerative political post.
 
-362 [Repealed.]
+362 Repealed
 
 363 Bar to interference by courts in disputes arising out of certain treaties, agreements, etc.
 
@@ -1180,7 +1182,7 @@ Distribution of Revenues between the Union and the States
 
 378A Special provision as to the duration of Andhra Pradesh Legislative Assembly.
 
-379-391 [Repealed.]
+379-391 Repealed
 
 392 Power of the President to remove difficulties.
 

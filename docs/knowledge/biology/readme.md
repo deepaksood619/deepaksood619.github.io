@@ -4,6 +4,7 @@
 - [Nutrition](nutrition/readme.md)
 - [Biology](knowledge/biology/intro.md)
 - [Genetics](genetics)
+- [Omics](knowledge/biology/omics.md)
 - [Organ Systems](organ-systems)
 - [Muscles](muscles)
 - [Human Skeleton](human-skeleton)

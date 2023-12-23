@@ -21,4 +21,4 @@
 - [Maximum Flow and Minimum Cut](maximum-flow-and-minimum-cut)
 - [Other Graph Algorithms](other-graph-algorithms)
 - [Problems](problems)
-- [Resources](resources)
+- [Resources](algorithms/graphtheory/resources.md)

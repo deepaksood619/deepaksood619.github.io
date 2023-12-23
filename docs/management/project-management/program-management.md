@@ -4,13 +4,13 @@ Program management is the management of multiple related projects at the same ti
 
 Program managers also help to drive organizational change by helping with [agile](https://www.atlassian.com/agile) transformations, including helping to implement [DevOps](https://www.atlassian.com/devops/what-is-devops) practices and principles. Program managers may align program management practices and processes with agile values such as collaboration, team autonomy and empowerment, delivering value to customers, and adapting to change in the moment. A program manager can bring agile and DevOps to life for teams across large programs or individual projects by tailoring programs to the specific requirements and opportunities of the business.
 
-### A successful program manager will also:
+### A successful program manager will also
 
 - Gain executive buy-in for the program
 - Manage expectations above and below them
 - Bring cohesive decision-making to the program
 - Build a [resource management plan](https://asana.com/resources/resource-management-plan) across the program
-- Mitigate risks and act on opportunities by creating a [risk register](https://asana.com/resources/risk-register). 
+- Mitigate risks and act on opportunities by creating a [risk register](https://asana.com/resources/risk-register).
 - Manage resources throughout the program, including [cost management](https://asana.com/resources/cost-management-steps) and [resource allocation](https://asana.com/resources/resource-allocation).
 
 ### What is Effective Program Management?
@@ -27,11 +27,11 @@ There are three distinct types of communication: status reporting, direction set
 
 ![program-vs-project-management](../../media/Pasted%20image%2020231218173534.png)
 
-Program management is sometimes confused with project management. Project management is the process of leading a project performed by a team to achieve certain goals, such as building a new product. 
+Program management is sometimes confused with project management. Project management is the process of leading a project performed by a team to achieve certain goals, such as building a new product.
 
-A project represents a single, focused piece of work with a specific scope and defined output. Projects can run for several years, but their main focus remains the same. A project’s success can be measured by the delivery of artifacts and deliverables that roll up to a program’s larger goals. 
+A project represents a single, focused piece of work with a specific scope and defined output. Projects can run for several years, but their main focus remains the same. A project’s success can be measured by the delivery of artifacts and deliverables that roll up to a program’s larger goals.
 
-Project management is the process of delivering value that incrementally moves a program forward. Despite the emphasis on artifacts and deliverables, project management still involves strategy and planning, since a project manager must determine how to meet the goals laid out at the beginning of the project. Once a project is underway, a project manager tracks progress, allocates resources, manages risks, communicates, and more. 
+Project management is the process of delivering value that incrementally moves a program forward. Despite the emphasis on artifacts and deliverables, project management still involves strategy and planning, since a project manager must determine how to meet the goals laid out at the beginning of the project. Once a project is underway, a project manager tracks progress, allocates resources, manages risks, communicates, and more.
 
 Program management entails managing a program with multiple, related projects. Since programs are linked to strategic initiatives, they are often long-running and possibly permanent. Programs continue through organizational change, contribute to multiple goals, and contain many projects that deliver specific components of the larger strategic initiative.
 

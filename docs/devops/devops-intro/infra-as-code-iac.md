@@ -43,7 +43,7 @@ Digital Rebar (aka DRP) is a self-managed hardware-neutral data center automatio
 
 ## Key Features
 
-## Platform Capabilities
+### Platform Capabilities
 
 - API-driven infrastructure-as-code automation
 - Multi-boot workflows using composable and reusable building blocks
@@ -54,19 +54,13 @@ Digital Rebar (aka DRP) is a self-managed hardware-neutral data center automatio
 - Integrated Secure Boot, SSO and Highly Available options.
 - Supports ALL orchestration tools including Chef, Puppet, Ansible, SaltStack, Bosh, Terraform, etc
 
-## Open Ecosystem Plugins
+### Open Ecosystem Plugins
 
 - RAID, IPMI, Redfish, and BIOS Configuration
 - Cloud-like pooling capabilities
 - Classification engine for automated workflow
-
-https://rackn.com/rebar
-
-- Foreman
-
-Manage Procfile-based applications
-
-https://github.com/ddollar/foreman
+- https://rackn.com/rebar
+- Foreman - Manage Proc file-based applications - https://github.com/ddollar/foreman
 
 ## References
 

@@ -5,7 +5,7 @@
 It is probably easier to start with what OpenTracing is NOT.
 
 - OpenTracing is not a download or a program. Distributed tracing requires that software developers add instrumentation to the code of an application, or to the frameworks used in the application.
-- OpenTracing is not a standard. The Cloud Native Computing Foundation (CNCF) is not an officialstandardsbody. The OpenTracing API project is working towards creating more standardized APIs and instrumentation for distributed tracing.
+- OpenTracing is not a standard. The Cloud Native Computing Foundation (CNCF) is not an official standards body. The OpenTracing API project is working towards creating more standardized APIs and instrumentation for distributed tracing.
 
 OpenTracing is comprised of an API specification, frameworks and libraries that have implemented the specification, and documentation for the project. OpenTracing allows developers to add instrumentation to their application code using APIs that do not lock them into any one particular product or vendor.
 

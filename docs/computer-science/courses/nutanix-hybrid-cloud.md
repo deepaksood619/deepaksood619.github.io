@@ -15,17 +15,14 @@ https://en.wikipedia.org/wiki/Hyper-converged_infrastructure
 https://github.com/rancher/harvester
 
 1. The Journey to the Modern Hybrid Cloud
-
 2. Introduce you to the Nutanix HCI
-
 3. Hybrid Cloud Security
-
 4. Networking
-
 5. Managing Virtual Machines in the Hybrid Cloud
-
 6. Data Protection
+
 NIST defines cloud computing as "a model for enabling ubiquitous, convenient, on-demand network access to a shared pool of configurable computing resources. For instance: networks, servers, storage, applications, and services that can be rapidly provisioned and released with minimal management effort or service provider interaction."
+
 [According to NIST](https://classroom.udacity.com/nanodegrees/nd321-1/parts/cd9ca74f-cbf3-40f8-9726-289a03b5560a/modules/c1b1466d-dba6-4e06-9014-b1cca87f5ca4/lessons/81e12a4b-5f16-4a67-8da0-8fe5eea1f483/concepts/The%20cloud%20is%20an%20experience%20and%20a%20mindset%20%5bshow:%20https:/csrc.nist.gov/publications/detail/sp/800-145/final%5d), the cloud model has 5 essential characteristics, 3 service models, and 4 deployment models.
 
 ![image](../../media/Nutanix-Hybrid-Cloud-image1.jpg)
@@ -44,8 +41,10 @@ There are first two major aspects of cloud consumption that organizations need t
 
 ![image](../../media/Nutanix-Hybrid-Cloud-image5.jpg)
 
-Virtualizationuses an abstraction layer and resource scheduler called a hypervisor to run virtual machines on shared hardware resources. Virtual machines, or VMs, can be run at 80% or higher resource utilization without contention, solving one of the major problems of distributed and 3-tier architecture.
+Virtualization uses an abstraction layer and resource scheduler called a hypervisor to run virtual machines on shared hardware resources. Virtual machines, or VMs, can be run at 80% or higher resource utilization without contention, solving one of the major problems of distributed and 3-tier architecture.
+
 In addition to resource utilization efficiency, VMs offer other advantages as well. They can be moved between hosts without downtime. And cloning, backup, and recovery of both servers and applications are simpler.
+
 x86 hardwareis a good fit for virtualization because, since the mid 2000s, each generation of the x86 processor has added features to improve virtualization performance. The latest generation supports virtualized network, storage, and server infrastructure, with performance that matches dedicated Application Specific Integrated Circuit, or ASIC-based hardware.
 
 ## Advantages
@@ -59,19 +58,19 @@ x86 virtualization dramatically changed infrastructure resource utilization for 
 ## Disadvantages
 
 - VM sprawl and the need for high availability resulted in high demands on storage and network resources.
-
 - If VM sprawl goes unmanaged, it can result in more complexity and increased costs.
-
 - Mixed environments -- which include both virtualized and non-virtualized workloads -- can result in even more management complexity.
 
 ## Software Defined Datacenter (SDDC)
 
-anSDDCis an integrated abstraction layer that defines a complete datacenter by means of a layer of software that presents the resources of the datacenter as pools of virtual and physical resources and allows their composition into arbitrary user-defined services. A modern SDDC deployment is defined by virtualized, software-defined resources that can be scaled up or down as required and can be deployed as needed in a number of distinct ways.
+An SDDC is an integrated abstraction layer that defines a complete datacenter by means of a layer of software that presents the resources of the datacenter as pools of virtual and physical resources and allows their composition into arbitrary user-defined services. A modern SDDC deployment is defined by virtualized, software-defined resources that can be scaled up or down as required and can be deployed as needed in a number of distinct ways.
+
 There are three key components to the SDDC:
 
 - Software defined computing
 - Software defined networking
 - Software defined storage
+
 There's also often a fourth layer known as the orchestration management layer. Gartner's John Morency describes it as "The intelligence that enables the operations team to do the initial configuration in terms of defining the virtual machines, the storage, the network interconnections, and if they need to, support a specific application or set of applications."
 
 ## Hyperconverged Infrastructure (HCI)
@@ -118,15 +117,10 @@ Companies are subject to many regulations regarding security and data-handling -
 Nutanix provides the public cloud benefits that organizations want with the control that they need on-prem. There aresixmajor benefits to Nutanix HCI specifically:
 
 - **Full-cloud:** It's a full-cloud stack that integrates all compute, storage, virtualization, and networking resources to run any application.
-
 - **One-click simplicity:** This entire stack is managed via a single pane of glass that streamlines IT lifecycle management and makes hybrid and multi-cloud management easy .
-
 - **Deployed in minutes:** The applications themselves can be deployed in minutes, instead of weeks or months. This is true for new infrastructure as well.
-
 - **Automation application management:** Application management can also be automated, along with other common IT tasks. Application owners and developers can also be given on-demand IT services.
-
 - **Lower cloud costs:** You can also reduce your datacenter TCO by up to 60%. This will help optimize your public cloud spend with lower cloud costs.
-
 - **True hybrid cloud:** This refers to the ability for you to combine both public and private cloud operations with unified management.
 
 ![image](../../media/Nutanix-Hybrid-Cloud-image6.jpg)
@@ -140,3 +134,7 @@ Nutanix provides the public cloud benefits that organizations want with the cont
 - Networking
 - Managing Virtual Machines in the Hybrid Cloud
 - Data Protection
+
+## Links
+
+[data-center-networking](networking/networking-concepts/data-center-networking.md)

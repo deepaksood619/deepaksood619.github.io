@@ -6,13 +6,13 @@ A category of tools and practices that allow developers to analyze the behavior 
 
 ## Who Uses Distributed Tracing?
 
-IT and DevOps teams can use distributed tracing to monitor applications. Distributed tracing is particularly well-suited to debugging and monitoring modern distributed software architectures, such asmicroservices.
+IT and DevOps teams can use distributed tracing to monitor applications. Distributed tracing is particularly well-suited to debugging and monitoring modern distributed software architectures, such as microservices.
 
 Developers can use distributed tracing to help debug and optimize their code.
 
 Tracing brings the benefits of visibility into an application as it grows to 10+ processes, starts seeing increased concurrency, or non-trivial interactions between mobile/web clients and servers.
 
-A significant challenge of microservices is to understand the flow of events across services. A single transaction may involve calls to multiple services. To reconstruct the entire sequence of steps, each service should propagate acorrelation IDthat acts as a unique identifier for that operation. The correlation ID enables [distributed tracing](https://microservices.io/patterns/observability/distributed-tracing.html) across services.
+A significant challenge of microservices is to understand the flow of events across services. A single transaction may involve calls to multiple services. To reconstruct the entire sequence of steps, each service should propagate a correlation ID that acts as a unique identifier for that operation. The correlation ID enables [distributed tracing](https://microservices.io/patterns/observability/distributed-tracing.html) across services.
 
 The first service that receives a client request should generate the correlation ID. If the service makes an HTTP call to another service, it puts the correlation ID in a request header. If the service sends an asynchronous message, it puts the correlation ID into the message. Downstream services continue to propagate the correlation ID, so that it flows through the entire system. In addition, all code that writes application metrics or log events should include the correlation ID.
 
@@ -47,8 +47,6 @@ Distributed tracing, a form of event-driven observability useful in debugging di
 - integration with monitoring and alerting
 - distributed tracing as a source of analytics for business insights
 - adoption of distributed tracing in a software organization
-
-## References
 
 https://opentracing.io/docs/overview/what-is-tracing
 

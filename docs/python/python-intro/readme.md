@@ -23,7 +23,7 @@
 - [Time Complexities](time-complexities)
 - [Questions](python/python-intro/questions.md)
 - [Requirements file](requirements-file)
-- [Resources](resources)
+- [Resources](python/python-intro/resources.md)
 - [Data Structure](data-structure/readme.md)
   - [List](data-structure/list)
   - [Tuples](data-structure/tuples)
