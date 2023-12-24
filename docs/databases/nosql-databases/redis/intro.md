@@ -200,3 +200,7 @@ https://github.com/antirez/redis
 [The Bucket Pattern: NoSQL Data Modeling with Redis Stack](https://www.youtube.com/watch?v=5m4YgClPKCg)
 
 [The Revision Pattern: NoSQL Data Modeling](https://www.youtube.com/watch?v=AtPcQ-jpP6M)
+
+[Redis Can Do More Than Caching - ByteByteGo Newsletter](https://blog.bytebytego.com/p/redis-can-do-more-than-caching)
+
+[The 6 Most Impactful Ways Redis is Used in Production Systems](https://blog.bytebytego.com/p/the-6-most-impactful-ways-redis-is)

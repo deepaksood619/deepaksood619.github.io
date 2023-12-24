@@ -10,7 +10,7 @@ The acceptable amount of data loss measured in time. For example, if a disaster 
 
 ## PITR - Point In Time Recovery
 
-Point-in-time recovery** (PITR) in the context of [computers](https://en.wikipedia.org/wiki/Computer) involves systems whereby an administrator can restore or recover a set of data or a particular setting from a time in the past
+Point-in-time recovery (PITR) in the context of [computers](https://en.wikipedia.org/wiki/Computer) involves systems whereby an administrator can restore or recover a set of data or a particular setting from a time in the past
 
 ## Recovery
 

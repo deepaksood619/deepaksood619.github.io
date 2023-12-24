@@ -40,8 +40,8 @@ In the context of vector embeddings, yes, embeddings and vectors are the same th
 
 1. Recommendation systems (i.e. Netflix-style if-you-like-these-movies-you’ll-like-this-one-too)
 2. All kinds of search
- 1. Text search (like Google Search)
- 2. Image search (like Google Reverse Image Search)
+1. Text search (like Google Search)
+2. Image search (like Google Reverse Image Search)
 3. Chatbots and question-answering systems
 4. Data preprocessing (preparing data to be fed into a machine learning model)
 5. One-shot/zero-shot learning (i.e. machine learning models that learn from almost no training data)

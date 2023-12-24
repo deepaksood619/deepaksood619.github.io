@@ -6,6 +6,8 @@ In is the only way out.
 
 It's just an idea. It's not me.
 
+What a time to be alive.
+
 I can think, I can wait, I can fast
 
 Injustice anywhere is a threat to justice everywhere - Martin Luther King
@@ -1051,5 +1053,11 @@ If you kill a killer the number of killers in the world remains the same.
 I have never said most of the things I said -- Yogi berra
 
 Ignoring the little harsh things in life can make your life easier
+
+People stop laughing as they grow old. How to laugh?
+
+Never do for others what they can do for themselves
+
+Don't do unto others what you don't want them to do unto you
 
 ## End

@@ -87,6 +87,14 @@ Sequelize is a modern TypeScript and Node.js ORM for Oracle, Postgres, MySQL, Ma
 - React devtools inline
 - Console feed
 
+## BullMQ
+
+Message Queue and Batch processing for NodeJS and Python based on Redis
+
+[BullMQ - Background Jobs processing and message queue for NodeJS | BullMQ](https://bullmq.io/)
+
+[GitHub - taskforcesh/bullmq: BullMQ - Message Queue and Batch processing for NodeJS and Python based on Redis](https://github.com/taskforcesh/bullmq)
+
 ## Others
 
 [responsive-images-generator - npm](https://www.npmjs.com/package/responsive-images-generator)

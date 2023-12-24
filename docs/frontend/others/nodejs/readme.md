@@ -31,11 +31,8 @@ http://pm2.keymetrics.io
 ## Difference between Node.js and PHP
 
 1. PHP is powered by Zend engine whereas Node.js is powered by Google's V8 JavaScript engine.
-
 2. PHP is synchronous while Node.js is asynchronous.
-
 3. PHP is slower while Node.js is quicker.
-
 4. PHP has a ready to install feature to use it on the server side whereas Node.js is a runtime environment for JavaScript on the server side.
 
 ## NPM

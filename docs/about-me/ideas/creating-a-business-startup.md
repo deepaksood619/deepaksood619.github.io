@@ -108,6 +108,10 @@ Startups are built by generalists and scaled by specialists.
 
 https://youtu.be/Ndp_NnztS8U
 
+[The single biggest reason why start-ups succeed | Bill Gross | TED - YouTube](https://www.youtube.com/watch?v=bNpx7gpSqbY&ab_channel=TED)
+
+![why-start-up-succeed](../../media/Screenshot%202023-12-24%20at%202.47.43.PM.jpg)
+
 ## Startup / Company Culture
 
 - Open office, no different rooms for managers/boss

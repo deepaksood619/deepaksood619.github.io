@@ -35,6 +35,8 @@ https://auth0.com/learn/multifactor-authentication
 
 ## Types of Authentication
 
+![rest-api-authentication-methods](../../../media/Pasted%20image%2020231224135903.png)
+
 - Cookie-Based authentication
 - Token-Based authentication
 - Third party access(OAuth, API-token)
@@ -138,9 +140,11 @@ https://duo.com/blog/the-beer-drinkers-guide-to-saml
 
 [Single Sign On Authentication](https://auth0.com/blog/what-is-and-how-does-single-sign-on-work/) provides your users with a seamless authentication experience when they navigate either through the applications you have built and/or third party apps. That is once you log into one of these applications, you won't have to enter your credentials again when entering another one, as you will be automatically logged in all of them, regardless of the platform, technology, or domain. Don't make your internal employees nor your external users go through the hassle of maintaining and remembering yet another credential.
 
-Single Sign On works by having acentral server, which all the applications trust. When you login for the first time a cookie gets created on this central server. Then, whenever you try to access a second application, you get redirected to the central server, if you already have a cookie there, you will get redirected directly to the app with a token, without login prompts, which means you're already logged in.
+Single Sign On works by having a central server, which all the applications trust. When you login for the first time a cookie gets created on this central server. Then, whenever you try to access a second application, you get redirected to the central server, if you already have a cookie there, you will get redirected directly to the app with a token, without login prompts, which means you're already logged in.
 
-For example, Google implements Single Sign On in its services. Google's central server is [https://accounts.google.com](https://accounts.google.com/). Once you are logged in this server, you will be able to accessGmail, Youtube, andGoogle Docswithout entering your credentials again.
+For example, Google implements Single Sign On in its services. Google's central server is [https://accounts.google.com](https://accounts.google.com/). Once you are logged in this server, you will be able to access Gmail, Youtube, and Google Docs without entering your credentials again.
+
+![how-does-sso-work](../../../media/Pasted%20image%2020231224144602.png)
 
 ## IAM - Identity and Access Management
 

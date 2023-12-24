@@ -24,6 +24,7 @@ https://github.com/google/googletest
 - REST Assured (REST Test Tool)
 - Mockito (Mocking)
 - JUnit
+- [Getting Started with FitNesse - DZone Refcardz](https://dzone.com/refcardz/getting-started-fitnesse)
 
 ## REST Assured
 

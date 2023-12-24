@@ -183,6 +183,30 @@ To use an IdP, you create an IAM identity provider entity to establish a trust r
 
 https://docs.aws.amazon.com/IAM/latest/UserGuide/id_roles_providers.html
 
+## PIM / PAM
+
+- PIM - Privileged Identity Management
+- PAM - Privileged Access Management
+
+Almost every organization uses [identity and access management (IAM)](https://www.strongdm.com/iam) strategies or tools as part of its security practices. IAM is the overarching term to describe how companies manage user identities, authenticate users, and control access to company resources. Privileged identity management (PIM) and privileged access management (PAM) are [subsets of IAM](https://www.strongdm.com/blog/iam-vs-pam-difference).
+
+PIM and PAM address how companies manage who can access a company’s most critical resources, like servers, databases, applications, and Kubernetes clusters. They operate under the [principle of least privilege](https://www.strongdm.com/blog/principle-of-least-privilege) to limit who and how many users can access secure systems and the sensitive data stored within.
+
+### PIM
+
+- Emphasizes resource management
+- Focuses on which user identities receive which access rights
+- Determine the parameters of what access is necessary for each user identity based on certain roles or attributes
+- May focus on distributing access to prevent superusers or admins from having too much power
+
+### PAM
+
+- Emphasizes securing resources by ensuring only certain validated identities can access those resources
+- Focuses on monitoring capabilities to prevent unauthorized access
+- Determines how to validate user identities, provide secure access to resources, and provision just-in-time escalated access for users that would not normally have access
+
+[PIM vs. PAM Security: Understanding the Difference | StrongDM](https://www.strongdm.com/blog/pim-vs-pam)
+
 ## Others
 
 [The Next Evolution in AWS Single Sign-On | AWS News Blog](https://aws.amazon.com/blogs/aws/the-next-evolution-in-aws-single-sign-on/)

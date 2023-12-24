@@ -108,19 +108,21 @@ https://redis.io/commands/scan
 - If you wish, you can disable persistence completely, if you want your data to just exist as long as the server is running.
 - It is possible to combine both AOF and RDB in the same instance. Notice that, in this case, when Redis restarts the AOF file will be used to reconstruct the original dataset since it is guaranteed to be the most complete.
 
-## AOF - Append Only File
+![redis-persistance](../../../media/Pasted%20image%2020231224140113.png)
+
+### AOF - Append Only File
 
 It's the change-log style persistent format.
 
 AOF is actually a persistence technique in which an RDB file is generated once and all the data is appended to it as it comes
 
-## RDB - Redis Database Backup
+### RDB - Redis Database Backup
 
 It's the snapshot style persistence format.
 
 RDB file is a dump of all user data stored in an internal, compressed serialization format at a particular timestamp which is used for point-in-time recovery (recovery from a timestamp).
 
-## Compress AOF
+### Compress AOF
 
 BGREWRITEAOF
 
