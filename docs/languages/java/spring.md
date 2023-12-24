@@ -14,6 +14,12 @@ mvn package && java -jar target/UserSmsTracker-1.0.jar
 
 Hibernate DAO - Data Access Objects
 
+## Runners
+
+[Getting Started | Creating Asynchronous Methods](https://spring.io/guides/gs/async-method/)
+
+[Background Jobs in Spring with JobRunr | Baeldung](https://www.baeldung.com/java-jobrunr-spring)
+
 ## References
 
 spring jpa tutorial

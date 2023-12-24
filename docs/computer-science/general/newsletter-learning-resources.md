@@ -84,6 +84,15 @@ Give tech talk - Learning + Note taking + Zettlekasten - Obsidian / Onenote + Do
 - https://about.gitlab.com/2019/08/27/tyranny-of-the-clock
 - https://fremtidensuddannelser.dk/en
 - [Stack Overflow Blog - Essays, opinions, and advice on the act of computer programming from Stack Overflow.](https://stackoverflow.blog/)
+- Netflix TechBlog
+- Uber Blog
+- Cloudflare Blog
+- Engineering at Meta
+- LinkedIn Engineering
+- Discord Blog
+- AWS Architecture
+- Slack Engineering
+- Stripe Blog
 
 ## Repositories
 

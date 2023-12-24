@@ -143,6 +143,10 @@ https://snyk.io
 
 [Application Security Testing Company | Software Security Testing Solutions | Checkmarx](https://checkmarx.com/)
 
+[Cloud Security Platform | GCP | AWS | Cloudanix](https://www.cloudanix.com/)
+
+[WALLIX | Cybersecurity Simplified | Access Security Solutions](https://www.wallix.com/)
+
 ## Others
 
 [Security / Identity / Compliance](cloud/aws/security-identity-compliance/intro.md)

@@ -251,6 +251,7 @@ https://www.restapitutorial.com/lessons/whatisrest.html
 ## Best Practices
 
 Producing a great API is 80% art and 20% science. Creating a URL hierarchy representing sensible resources is the art part. Having sensible resource names (which are just URL paths, such as /customers/12345/orders) improves the clarity of what a given request does.
+
 Appropriate resource names provide context for a service request, increasing understandability of the API. Resources are viewed hierarchically via their URI names, offering consumers a friendly, easily-understood hierarchy of resources to leverage in their applications.
 Here are some quick-hit rules for URL path (resource name) design:
 
@@ -292,3 +293,5 @@ https://blog.feathersjs.com/design-patterns-for-modern-web-apis-1f046635215
 - **RESTful services:** A service layer that follows the REST architecture and HTTP protocol methods
 - **Middleware:** Reusable functions that can control the flow of data and trigger additional functionality when interacting with REST services
 - **Real-time:** A set of events that can be sent automatically when following the REST architecture
+
+![improve-api-performance](../../media/Pasted%20image%2020231224140824.png)

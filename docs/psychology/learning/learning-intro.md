@@ -40,6 +40,12 @@ The longer you're in a field, the harder it is to perceive new truths. Your mind
 
 Take your expertise and apply it to something new.
 
+## Learning Pyramid
+
+![learning-pyramid](../../media/Pasted%20image%2020231223204149.png)
+
+![image](../../media/Learning-Intro-image1.jpg)
+
 ## Collateral Knowledge
 
 When one [searches](https://www.urbandictionary.com/define.php?term=searches) for answers regarding a [specific](https://www.urbandictionary.com/define.php?term=specific) subject, but ends up [learning](https://www.urbandictionary.com/define.php?term=learning) about several others in the process.
@@ -377,8 +383,6 @@ Adult Learning Theory in practice
 - Embrace self-directed learning
 
 https://360learning.com/blog/adult-learning-theory
-
-![image](../../media/Learning-Intro-image1.jpg)
 
 ## Forgetting Curve
 

@@ -62,9 +62,15 @@ https://towardsdatascience.com/elasticsearch-for-data-science-just-got-way-easie
 
 https://github.com/elastic/eland
 
-## APM
+## Application Performance Monitoring (APM)
 
 Application Performance Monitoring (APM) collects in-depth performance metrics and errors from inside your application. It allows you to monitor the performance of thousands of applications in real time.
+
+### Others
+
+- Dynatrace
+- Newrelic
+- Elasticsearch APM
 
 ## Flask
 

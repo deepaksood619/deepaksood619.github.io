@@ -19,12 +19,10 @@ Systems design is the process of defining the [architecture](https://en.wikipedi
 
 1. Features
 2. Define APIs
-3. Availability (CAP Theorem)
-
-- Consistency
-- Availability, and
-- Partition Tolerance
-
+3. CAP Theorem
+ - Consistency
+ - Availability, and
+ - Partition Tolerance
 4. Latency Performance (If customer facing application, then latency matters)
 5. Scalability (Add more users and requests)
 6. Durability (Data is not lost or compromised)
@@ -128,6 +126,18 @@ Containers - is a way of running your applications and its dependencies in an is
 ### Thin clients, Thick clients, Dumb clients, Smart client
 
 Kafka clients tend to be "thick" and have a lot of complexity. That is, they do a lot because the broker is designed to be simple. That's my guess as to why there are so few native client libraries up to par with the Java client. NATS Streaming clients, on the other hand, are relatively "thin" because the server does more. We end up just pushing the complexity around based on our design decisions, but one can argue that the [smart client and dumb server](https://bravenewgeek.com/smart-endpoints-dumb-pipes/) is a more scalable approach.
+
+### Availability
+
+|**Nines**|**Percent**|**Downtime/Year**|**σ Level**|
+|---|---|---|---|
+|4|99.99%|52.596 minutes|4σ|
+|5|99.999%|5.2596 minutes|-|
+|6|99.9999%|31.5576 seconds|5σ|
+|7|99.99999%|3.15576 seconds|-|
+|8|99.999999%|315.6 milliseconds|6σ|
+
+[5 9s (99.999%) or higher scenario with a recovery time under one minute - Reliability Pillar](https://docs.aws.amazon.com/wellarchitected/latest/reliability-pillar/s-99.999-or-higher-scenario-with-a-recovery-time-under-1-minute.html)
 
 [System Design](https://www.youtube.com/playlist?list=PLkQkbY7JNJuBoTemzQfjym0sqbOHt5fnV)
 

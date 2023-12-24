@@ -53,7 +53,7 @@ The VMware ESXi architecture mainly consists of VMkernel and the processes that 
 
 #### VMkernel
 
-VMkernel is technically an operating system. Like other operating systems, VMkernel creates and controls processes, controls hardware devices on the server, uses a file system, manages application resources, and so on. Its main function, however, is to support virtual machines.  
+VMkernel is technically an operating system. Like other operating systems, VMkernel creates and controls processes, controls hardware devices on the server, uses a file system, manages application resources, and so on. Its main function, however, is to support virtual machines.
 
 The main processes that run on VMkernel include the following.
 

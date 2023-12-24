@@ -6,10 +6,10 @@ The branches of [science](https://en.wikipedia.org/wiki/Science "Science") kno
 
 ## multiomic sequencing
 
-Multiomic sequencing is a biological analysis approach that combines data sets from different omic groups. These omic groups include the genome, proteome, transcriptome, epigenome, and microbiome. 
+Multiomic sequencing is a biological analysis approach that combines data sets from different omic groups. These omic groups include the genome, proteome, transcriptome, epigenome, and microbiome.
 
-Multiomics is also known as integrative omics, "panomics", or "pan-omics". It provides a more complete understanding of how genetic variants contribute to biology and disease. 
+Multiomics is also known as integrative omics, "panomics", or "pan-omics". It provides a more complete understanding of how genetic variants contribute to biology and disease.
 
-Single-cell multi-omics technologies and methods can characterize cell states and activities by integrating various single-modality omics methods. These methods profile the transcriptome, genome, epigenome, epitranscriptome, proteome, metabolome, and other omics. 
+Single-cell multi-omics technologies and methods can characterize cell states and activities by integrating various single-modality omics methods. These methods profile the transcriptome, genome, epigenome, epitranscriptome, proteome, metabolome, and other omics.
 
 Multi-omic single cell sequencing has helped create high-resolution cellular and molecular maps in the context of kidney disease.

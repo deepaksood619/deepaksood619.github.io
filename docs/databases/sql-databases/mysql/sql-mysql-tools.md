@@ -4,13 +4,15 @@
 
 https://www.percona.com/doc/percona-monitoring-and-management/index.html
 
-## MySQL Diagnostic Manager (Monyog) - https://www.webyog.com/product/monyog
+## MySQL Diagnostic Manager (Monyog)
 
-https://www.eversql.com/top-5-mysql-monitoring-tools
+[Top 5 MySQL Monitoring tools 2021](https://www.eversql.com/top-5-mysql-monitoring-tools)
+
+[Monyog | Monitor MySQL Databases Configuration in Real-Time | Webyog](https://www.webyog.com/product/monyog)
 
 ## Testing
 
-## mysqlslap
+### mysqlslap
 
 It's a benchmarking tool that can help DBAs and developers load test their database servers.
 mysqlslap can emulate a large number of client connections hitting the database server at the same time. The load testing parameters are fully configurable and the results from different test runs can be used to fine-tune database design or hardware resources.
@@ -19,17 +21,17 @@ https://www.digitalocean.com/community/tutorials/how-to-measure-mysql-query-perf
 
 ## Optimizations
 
-## MySQLTuner
+### MySQLTuner
 
 https://github.com/major/MySQLTuner-perl
 
 https://github.com/pdufault/mysqlfragfinder/blob/master/mysqlfragfinder.sh
 
-## Mysqlreport
+### Mysqlreport
 
 Mysqlreport transforms the values from SHOW STATUS into an easy-to-read report that provides an in-depth understanding of how well MySQL is running. mysqlreport is a better alternative (and practically the only alternative) to manually interpreting SHOW STATUS.
 
-## percona-toolkit
+### percona-toolkit
 
 - Verify MySQL replication integrity by checking source and replica data consistency
 - Efficiently archive rows
@@ -122,13 +124,13 @@ https://www.percona.com/doc/percona-toolkit/3.0/pt-online-schema-change.html- [p
 
 https://www.percona.com/software/database-tools/percona-toolkit
 
-## Event Reduce
+### Event Reduce
 
 An algorithm to optimize database queries that run multiple times
 
 https://github.com/pubkey/event-reduce
 
-## SQLCheck
+### SQLCheck
 
 SQL anti-patterns can slow down queries, but often it takes experienced DBAs and developers poring over code to identify and resolve them.
 
@@ -177,6 +179,7 @@ https://www.infoworld.com/article/3241730/top-5-open-source-tools-for-mysql-admi
 https://jonlabelle.com/snippets/view/shell/mysql-database-maintenance-script
 
 Backup + Optimize - https://github.com/mmerian/MySQL-Maint/blob/master/mysql_maint.sh
+
 InnoDB stores data using a page-allocation method and does not suffer from fragmentation in the same way that legacy storage engines (such as MyISAM) will. When considering whether or not to run optimize, consider the workload of transactions that your server will process:
 
 - Some level of fragmentation is expected. InnoDB only fills pages 93% full, to leave room for updates without having to split pages.
@@ -186,7 +189,7 @@ InnoDB stores data using a page-allocation method and does not suffer from fragm
 
 ## Orchestrator
 
-orchestratoris a MySQL high availability and replication management tool, runs as a service and provides command line access, HTTP API and Web interface.
+orchestrator is a MySQL high availability and replication management tool, runs as a service and provides command line access, HTTP API and Web interface.
 
 https://github.com/openark/orchestrator
 
