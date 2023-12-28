@@ -18,7 +18,7 @@ Drive, or motivation, nudges us toward action. But what creates drive in the fir
 
 But drive doesn't consist of just one thing. There are various drivers, like fear, curiosity, and passion. All of these provide psychological fuel --⁠ and you can harness them to achieve the impossible.
 
-All psychological drivers are divided into one of two categories:**extrinsicorintrinsic**. Extrinsic drivers are things like **money, fame, food, and sex.** They're external to ourselves, and we chase them to win the evolutionary survival game. Intrinsic drivers, on the other hand, are within us. They're psychological and emotional concepts like curiosity, passion, meaning, and purpose.
+All psychological drivers are divided into one of two categories:**extrinsic or intrinsic**. Extrinsic drivers are things like **money, fame, food, and sex.** They're external to ourselves, and we chase them to win the evolutionary survival game. Intrinsic drivers, on the other hand, are within us. They're psychological and emotional concepts like curiosity, passion, meaning, and purpose.
 
 Psychological research tells us that extrinsic drivers only motivate us to a certain extent. They get weaker once we have enough money to pay for food, clothing, and shelter. After we've met these basic needs, it's the intrinsic motivators that take over. It's those intrinsic drivers we'll be focusing on in these blinks.
 
@@ -46,7 +46,7 @@ As you complete goals, your brain rewards your persistence with dopamine. Grit w
 
 ## Growth mindset
 
-## Use the five-step process to learn almost anything
+### Use the five-step process to learn almost anything
 
 - Reading
 - Notes
@@ -92,6 +92,6 @@ It's no wonder that flow makes us feel like we can achieve the impossible. So ho
 
 ## Final summary
 
-## Follow the 80/20 rule
+### Follow the 80/20 rule
 
 When you're trying to master a skill, try the 80/20 approach popularized by the author and investor Tim Ferriss. The idea is that 80 percent of your results stem from 20 percent of your actions. Say you want to learn to play a new musical instrument. Most pop songs consist of just four or five chords, so mastering those chords alone can take you a long way. When you're trying to master a skill, be sure to focus on the 20 percent that really matters.

@@ -107,12 +107,9 @@ https://en.wikipedia.org/wiki/Loss_aversion
 - The certainty effect says individuals prefer certain outcomes over probable ones, while the isolation effect says individuals cancel out similar information when making a decision.
 
 - Money 1 - 100% chance of winning $200 (people choose this)
-
-Money 2 - 20% chance of winning $1000
-
+- Money 2 - 20% chance of winning $1000
 - Money 1 - 100% chance of losing $800
-
-Money 2 - 80% change of losing $1000 (people choose this)
+- Money 2 - 80% change of losing $1000 (people choose this)
 
 https://www.investopedia.com/terms/p/prospecttheory.asp
 
@@ -396,6 +393,80 @@ And that misconception is called the broken window fallacy.
 - Authority Bias
 - Lollapalooza effect
   - When multiple bias are used to sway someone's decision
+
+## Fallacies
+
+- Ad Hominem
+- Hasty Generalization
+- Red Herring
+- Tu QuoQue
+- Slippery Slope
+- Special Pleading
+- Loaded Question
+- False Dilemma
+- Strawman
+- Circular Reasoning
+- Appeal to Authority
+- Appeal to Nature
+- Composition Fallacy
+- Division Fallacy
+- Affirming the Consequent
+- Anecdotal Fallacy
+- Appeal to Emotion
+- Burden of Proof Fallacy
+- No True Scotsman
+- Texas Sharpshooter
+- Suppressed Correlative
+- Personal Incredulity
+- Ambiguity Fallacy
+- Genetic Fallacy
+- Middle-Ground Fallacy
+- Affirming the Disjunct
+- Appeal to Tradition
+- Sunk Cost Fallacy
+- Appeal to Ignorance
+- Continuum Fallacy
+- Equivocation
+- Faulty Analogy
+- Denying the Antecedent
+- False Cause
+- Definist Fallacy
+- Ecological Fallacy
+- Etymological Fallacy
+- Quoting out of Context
+- False Equivalence
+- Historian's Fallacy
+- Inflation of Conflict
+- Incomplete Comparison
+- Ludic Fallacy
+- Moralistic Fallacy
+- Nirvana Fallacy
+- Proof by Assertion
+- Cherry Picking
+- Psychologist's Fallacy
+- Reification Fallacy
+- Retrospective Determinism
+- Thought Terminating Cliché
+- Fallacy of the single cause
+- Appeal to the Stone
+- Ignoratio Elenchi
+- Circumnstantial ad Hominem
+- Tone Policing
+- Association Fallacy
+- Appeal to Accomplishment
+- Courtier's Reply
+- Appeal to Consequences
+- Appeal to Novelty
+- Bulverism
+- Chronological Snobbery
+- Entitled to my Opinion Fallacy
+- Two wrongs make a right
+- Vacuous Truth
+- Fallacy Fallacy
+
+[Every Logical Fallacy Explained in 11 Minutes - YouTube](https://www.youtube.com/watch?v=pCg-SNOteQQ&ab_channel=ThePaintExplainer)
+
+[Every Logical Fallacy Explained in 4 Minutes - YouTube](https://www.youtube.com/watch?v=VZbYecAkGo0&ab_channel=Explainem)
 
 ## Links
 

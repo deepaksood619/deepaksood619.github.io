@@ -297,6 +297,12 @@ Baumol helps us understand not only today’s economy but also a likely path for
 
 The concept refers to the attempts to gain economic benefits without producing new wealth. Rather than creating a better product or offering a more efficient service, the actors in this scenario extracted vast wealth through manipulative practices.
 
+## Jevons paradox
+
+In economics, the **Jevons paradox** (sometimes **Jevons effect**) occurs when [technological progress](https://en.wikipedia.org/wiki/Technological_change "Technological change") or government policy increases the [efficiency](https://en.wikipedia.org/wiki/Efficiency "Efficiency") with which a [resource](https://en.wikipedia.org/wiki/Resource_(economics) "Resource (economics)") is used (reducing the amount necessary for any one use), but the falling cost of use [induces increases in demand](https://en.wikipedia.org/wiki/Induced_demand) enough that resource use is increased, rather than reduced. Governments typically assume that efficiency gains will lower [resource consumption](https://en.wikipedia.org/wiki/Resource_consumption "Resource consumption"), ignoring the possibility of the paradox arising.
+
+[Jevons paradox - Wikipedia](https://en.wikipedia.org/wiki/Jevons_paradox)
+
 ## Links
 
 - [Marginal Utility / Analysis](marginal-utility-analysis)

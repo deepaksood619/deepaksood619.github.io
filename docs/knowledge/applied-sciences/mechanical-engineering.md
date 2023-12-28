@@ -228,3 +228,4 @@ Isotropic refers to the properties of a material which is independent of the dir
 - [How do Mechanical Pencils Work? #shorts - YouTube](https://www.youtube.com/watch?v=vpR8piWPdKo)
 - [How do Soap Bottle Pumps Work? || Inside Animation of a Soap Pump Dispenser - YouTube](https://www.youtube.com/watch?v=9kzC4CpPxSQ)
 - [Photoelectric light controls are weirder than they seem - YouTube](https://www.youtube.com/watch?v=Khp3wb0QMpQ)
+- [Autoclave - Wikipedia](https://en.m.wikipedia.org/wiki/Autoclave)

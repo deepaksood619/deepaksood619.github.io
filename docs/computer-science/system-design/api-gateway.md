@@ -23,6 +23,8 @@
 15. Rate Limiting
 16. Expose as API service
 
+![api-gateway](../../media/Pasted%20image%2020231224193859.png)
+
 ## Using an API gateway has the following benefits
 
 - Insulates the clients from how the application is partitioned into microservices

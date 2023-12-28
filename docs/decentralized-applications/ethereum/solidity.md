@@ -87,3 +87,5 @@ You will hack custom smart contracts we deploy to the main net (and get a little
 ## Others
 
 [Slither – a Solidity static analysis framework | Trail of Bits Blog](https://blog.trailofbits.com/2018/10/19/slither-a-solidity-static-analysis-framework/)
+
+[Introduction - The Move Book](https://move-language.github.io/move/)

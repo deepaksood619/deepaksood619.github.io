@@ -82,9 +82,23 @@ Remember, feedback is not a one-size-fits-all approach. Trust your own judgement
 
 ![hierarchy-of-disagreement](../../media/Pasted%20image%2020230628225903.png)
 
+What is your sample size?
+
 [How To Argue - The Hierarchy of Disagreement - Adioma](https://blog.adioma.com/how-to-argue-pg-hierarchy-of-disagreement/)
 
 [Hierarchy of disagreement - RationalWiki](https://rationalwiki.org/wiki/Hierarchy_of_disagreement)
+
+#### Reductio ad absurdum
+
+- Reductio ad absurdum - reduction to absurdity
+- argumentum ad absurdum - argument to absurdity
+- apagogical arguments
+
+Is the form of argument that attempts to establish a claim by showing that the opposite scenario would lead to absurdity or contradiction.
+
+A form of the reductio ad absurdum [argument](https://www.britannica.com/topic/argument-logic), known as [indirect proof](https://www.britannica.com/topic/indirect-proof) or reductio ad impossibile, is one that proves a proposition by showing that its denial conjoined with other propositions previously proved or accepted leads to a contradiction. In common speech the term reductio ad absurdum refers to anything pushed to **absurd extremes**.
+
+[Reductio ad absurdum - Wikipedia](https://en.wikipedia.org/wiki/Reductio_ad_absurdum)
 
 ## Why You Believe The Things You Do
 

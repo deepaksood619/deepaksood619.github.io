@@ -93,6 +93,7 @@ Give tech talk - Learning + Note taking + Zettlekasten - Obsidian / Onenote + Do
 - AWS Architecture
 - Slack Engineering
 - Stripe Blog
+- [White papers that are worth your time | Interview Ready](https://interviewready.io/blog/white-papers-worth-reading-for-software-engineers)
 
 ## Repositories
 

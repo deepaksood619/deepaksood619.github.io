@@ -225,25 +225,24 @@ https://hudi.apache.org
 ## I
 
 - [Isis](http://isis.apache.org/)
-- [Ignite](http://ignite.apache.org/)
+- [Ignite](http://ignite.apache.org/) - In-memory data fabric
+- [Impala](http://impala.apache.org/) - Distributed SQL on YARN
 
-  In-memory data fabric
-
-- [Impala](http://impala.apache.org/)
-
-  Distributed SQL on YARN
-
-- **Iceberg**
+### Iceberg
 
   Iceberg is a high-performance format for huge analytic tables. Iceberg brings the reliability and simplicity of SQL tables to big data, while making it possible for engines like Spark, Trino, Flink, Presto, and Hive to safely work with the same tables, at the same time.
 
-  - Expressive SQL
-  - Full Schema Evolution
-  - Hidden Partitioning
-  - Time Travel and Rollback
-  - Data Compaction
+- Expressive SQL
+- Full Schema Evolution
+- Hidden Partitioning
+- Time Travel and Rollback
+- Data Compaction
 
-  https://iceberg.apache.org
+![apache-iceberg](../../media/Screenshot%202023-12-26%20at%2012.39.39.PM.jpg)
+
+https://iceberg.apache.org
+
+[Streaming from Apache Iceberg - Building Low-Latency and Cost-Effective Data Pipelines - YouTube](https://youtu.be/x6WX_JE96bU?si=hvcH0LIdafH6ZNBU)
 
 ## J
 

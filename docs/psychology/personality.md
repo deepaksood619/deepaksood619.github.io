@@ -2,7 +2,9 @@
 
 Class is permanent and form is temporary
 
-MBTI - Myers-Briggs Type Indicator for personality test
+## MBTI
+
+Myers-Briggs Type Indicator for personality test
 
 https://www.16personalities.com/free-personality-test
 
@@ -13,6 +15,12 @@ https://www.16personalities.com/free-personality-test
 ![image](../media/Personality-image3.jpg)
 
 [Is There An Atheist Personality Type? (Psychology of Atheism Part 2)](https://www.youtube.com/watch?v=xejfuTNov7Y)
+
+## Four temperaments
+
+The **four temperament theory** is a proto-psychological theory which suggests that there are four fundamental personality types: **sanguine**, **choleric**, **[melancholic](https://en.wikipedia.org/wiki/Melancholic "Melancholic")**, and **phlegmatic**.
+
+[Four temperaments - Wikipedia](https://en.wikipedia.org/wiki/Four_temperaments)
 
 ## Big 5 Theories of Personality
 

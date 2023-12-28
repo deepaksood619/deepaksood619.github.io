@@ -8,3 +8,5 @@
 - Polymerization
 - It's important to think of processes as a whole, but it will be just as important to break down our chemical plant into unit operations when we get to the manufacturing phase
 - Biomass: renewable orgainic material that comes from plants and animals. This range from wood and leftover crops, to garbage and manure
+
+[Strychnine - Wikipedia](https://en.wikipedia.org/wiki/Strychnine)

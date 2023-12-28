@@ -32,3 +32,4 @@ https://en.wikipedia.org/wiki/Pseudocereal
 ## Botany
 
 - [How We ALL Get Our Energy (Plants & Ecosystems): Crash Course Botany #13 - YouTube](https://www.youtube.com/watch?v=oZtUFJAJ3lU)
+- [Pome - Wikipedia](https://en.wikipedia.org/wiki/Pome)

@@ -46,6 +46,10 @@ Humans design buildings according to conditions they themselves have created but
 
 Habitat - 67 - [How a 23-Year-Old Solved Urban Sprawl - YouTube](https://www.youtube.com/watch?v=Qwbp9T-WS-I)
 
+## Places
+
+[Doge's Palace - Wikipedia](https://en.wikipedia.org/wiki/Doge%27s_Palace)
+
 ## Links
 
 - [Does Rebar Rust? - YouTube](https://www.youtube.com/watch?v=PLF18H9JGHs)
@@ -56,3 +60,4 @@ Habitat - 67 - [How a 23-Year-Old Solved Urban Sprawl - YouTube](https://www.you
 - [Every Construction Machine Explained in 15 Minutes - YouTube](https://www.youtube.com/watch?v=6CmX4ZmhwPM)
 - [How to Control a Crowd - YouTube](https://www.youtube.com/watch?v=C_B09FZwSbA)
 - [Rare earths crunch? Why we need them and who has them | Business Beyond - YouTube](https://www.youtube.com/watch?v=cL4YXCKrJJ4)
+- [Jackhammer - Wikipedia](https://en.wikipedia.org/wiki/Jackhammer)

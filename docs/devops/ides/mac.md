@@ -92,21 +92,22 @@ Open two instance of same application - **open -n MQTT.fx.app**
 
 #### Shortcuts
 
-| Action | Shortcuts |
-|---|---|
-| to cycle between tabs | Cmd + Shift + A + Enter |
-| Jump to the next open tab | ⌘ + Option + Right arrow or ctrl + tab |
-| Jump to the previous open tab | ⌘ + Option + Left arrow or ctrl + shift + tab |
-| Open the previous page in your browsing history for the current tab | `⌘ + [ or ⌘ + Left arrow` |
-| Open the next page in your browsing history for the current tab | `⌘ + ] or ⌘ + Right arrow` |
-| Open the History page in a new tab | ⌘ + y |
-| Open the Downloads page in a new tab | ⌘ + Shift + j |
-| Open the Find Bar to search the current page | ⌘ + f |
-| Jump to the next match to your Find Bar search | ⌘ + g |
-| Jump to the previous match to your Find Bar search | ⌘ + Shift + g |
-| When Find Bar is open, search for selected text | ⌘ + e |
-| Open the JavaScript Console | ⌘ + Option + j |
-| Search the web | ⌘ + Option + f |
+| Action                                                              | Shortcuts                                     |
+| ------------------------------------------------------------------- | --------------------------------------------- |
+| switch profiles                                                     | cmd + shift + m - enter                |
+| to cycle between tabs                                               | Cmd + Shift + A + Enter                       |
+| Jump to the next open tab                                           | ⌘ + Option + Right arrow or ctrl + tab        |
+| Jump to the previous open tab                                       | ⌘ + Option + Left arrow or ctrl + shift + tab |
+| Open the previous page in your browsing history for the current tab | `⌘ + [ or ⌘ + Left arrow`                     |
+| Open the next page in your browsing history for the current tab     | `⌘ + ] or ⌘ + Right arrow`                    |
+| Open the History page in a new tab                                  | ⌘ + y                                         |
+| Open the Downloads page in a new tab                                | ⌘ + Shift + j                                 |
+| Open the Find Bar to search the current page                        | ⌘ + f                                         |
+| Jump to the next match to your Find Bar search                      | ⌘ + g                                         |
+| Jump to the previous match to your Find Bar search                  | ⌘ + Shift + g                                 |
+| When Find Bar is open, search for selected text                     | ⌘ + e                                         |
+| Open the JavaScript Console                                         | ⌘ + Option + j                                |
+| Search the web                                                      | ⌘ + Option + f                                |
 
 https://www.google.com/inputtools
 

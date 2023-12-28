@@ -161,6 +161,10 @@ Airline can be transporter of fuels if passenger occupancy is lower, i.e. based 
 - Transport
 - Food
 
+## Autonomous Vehicles / Driverless Cars
+
+[New data shows Waymo crashes a lot less than human drivers](https://www.understandingai.org/p/new-data-shows-waymo-crashes-a-lot)
+
 ## Others
 
 - Beekeeping

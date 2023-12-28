@@ -25,6 +25,14 @@ Highly personalized education for each person
 
 **DigiProctor** with a 360 degree camera with all AI
 
+#### Competitors
+
+[linkedin.com/in/qudduspat/](https://www.linkedin.com/in/qudduspat/)- qp@asi.tech
+
+[How a High Schooler in Dubai Built ASI, One of the Most Promising AI Edtech Startups](https://www.businessinsider.com/edtech-asi-ai-dubai-chatbot-tutoring-assistant-2023-9?IR=T)
+
+[ASI | Home](https://www.asi.tech/)
+
 ### Free Education with Boarding (Coaching)
 
 - Job Guarantee and skill focused

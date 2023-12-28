@@ -3,7 +3,9 @@
 - [LLM Building](ai/llm/llm-building.md)
 - [Design Patterns](ai/llm/design-patterns.md)
 - [RAG Retrieval Augmented Generation](ai/llm/rag-retrieval-augmented-generation.md)
+- [Models](ai/llm/models.md)
 - [ChatGPT Prompt Engineering](ai/courses/chatgpt-prompt-eng.md)
+- [Interview Questions](ai/llm/interview-questions.md)
 
 MMLU - Massive Multitask Language Understanding
 
@@ -76,6 +78,7 @@ Moving from information to knowledge age
 - [Generative AI in Jupyter. Jupyter AI, a new open source project… | by Jason Weill | Aug, 2023 | Jupyter Blog](https://blog.jupyter.org/generative-ai-in-jupyter-3f7174824862)
 - [Mem: Your AI knowledge assistant](https://get.mem.ai/)
 - [GitHub - Nutlope/aicommits: A CLI that writes your git commit messages for you with AI](https://github.com/Nutlope/aicommits)
+- [ShareGPT: Share your wildest ChatGPT conversations with one click.](https://sharegpt.com/)
 
 ![ai-tools](../../media/image.png)
 
@@ -100,13 +103,6 @@ Moving from information to knowledge age
 - Amazon EC2 P4d/P4de instances - Powered by NVIDIA A100 Tensor Core GPUs
 - Amazon EC2 G5 instances - Powered by NVIDIA A10G Tensor Core GPUs
 
-## Models
-
-- [openai/whisper-large-v3 · Hugging Face](https://huggingface.co/openai/whisper-large-v3)
-  - Whisper is a general-purpose speech recognition model. It is trained on a large dataset of diverse audio and is also a multitasking model that can perform multilingual speech recognition, speech translation, and language identification.
-  - [GitHub - openai/whisper: Robust Speech Recognition via Large-Scale Weak Supervision](https://github.com/openai/whisper)
-- [sentence-transformers/all-MiniLM-L6-v2 · Hugging Face](https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2)
-
 ## Links
 
 - [ChatGPT Prompt Engineering for Developers](ai/courses/chatgpt-prompt-eng.md)
@@ -121,3 +117,6 @@ Moving from information to knowledge age
 - [The True Cost of Compute - YouTube](https://www.youtube.com/watch?v=MNFeJNUu074)
 - [Welcome to State of AI Report 2023](https://www.stateof.ai/)
 - [State of AI Report 2023 - ONLINE - Google Slides](https://docs.google.com/presentation/d/156WpBF_rGvf4Ecg19oM1fyR51g4FAmHV3Zs0WLukrLQ/edit)
+- [[#29] AI Evolution: From AlexNet to Generative AI – Redefining the Paradigm of Software Development](https://bizit.substack.com/p/29-ai-evolution-from-alexnet-to-generative)
+- [Google "We Have No Moat, And Neither Does OpenAI"](https://www.semianalysis.com/p/google-we-have-no-moat-and-neither)
+- [AGI-Proof Jobs: Navigating the Impending Obsolescence of Human Labor in the Age of AGI - YouTube](https://www.youtube.com/watch?v=Ahh92qtRwos&ab_channel=DavidShapiro)

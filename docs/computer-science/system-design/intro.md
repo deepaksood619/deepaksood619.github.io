@@ -20,9 +20,11 @@ Systems design is the process of defining the [architecture](https://en.wikipedi
 1. Features
 2. Define APIs
 3. CAP Theorem
- - Consistency
- - Availability, and
- - Partition Tolerance
+
+- Consistency
+- Availability, and
+- Partition Tolerance
+
 4. Latency Performance (If customer facing application, then latency matters)
 5. Scalability (Add more users and requests)
 6. Durability (Data is not lost or compromised)

@@ -38,3 +38,19 @@ https://developers.cloudflare.com/firewall/cf-firewall-rules/actions
 DDoS blackhole routing/filtering (sometimes called blackholing), is a countermeasure to mitigate a [DDoS attack](https://www.cloudflare.com/learning/ddos/what-is-a-ddos-attack/) in which network traffic is routed into a "black hole," and is lost. When blackhole filtering is implemented without specific restriction criteria, both legitimate and malicious network traffic is routed to a null route or black hole and dropped from the network. When using protocols that are connectionless such as [UDP](https://www.cloudflare.com/learning/ddos/glossary/user-datagram-protocol-udp/), no notification of the dropped data will be returned to the source. With connection oriented protocols like [TCP](https://www.cloudflare.com/learning/ddos/glossary/tcp-ip/), which require a handshake to connect with the target system, a notification will be returned if the data is dropped.
 
 https://www.freecodecamp.org/news/protect-against-ddos-attacks
+
+## Intrusion Detection System
+
+### OSSEC
+
+**OSSEC (Open Source HIDS SECurity)** is a [free](https://en.wikipedia.org/wiki/Free_software "Free software"), [open-source](https://en.wikipedia.org/wiki/Open-source_software "Open-source software") [host-based intrusion detection system](https://en.wikipedia.org/wiki/Host-based_intrusion_detection_system) (HIDS). It performs [log analysis](https://en.wikipedia.org/wiki/Log_analysis "Log analysis"), integrity checking, [Windows registry](https://en.wikipedia.org/wiki/Windows_registry "Windows registry") monitoring, [rootkit](https://en.wikipedia.org/wiki/Rootkit "Rootkit") detection, time-based alerting, and active response. It provides intrusion detection for most operating systems, including [Linux](https://en.wikipedia.org/wiki/Linux "Linux"), [OpenBSD](https://en.wikipedia.org/wiki/OpenBSD "OpenBSD"), [FreeBSD](https://en.wikipedia.org/wiki/FreeBSD "FreeBSD"), [OS X](https://en.wikipedia.org/wiki/OS_X "OS X"), [Solaris](https://en.wikipedia.org/wiki/Solaris_(operating_system) "Solaris (operating system)") and [Windows](https://en.wikipedia.org/wiki/Microsoft_Windows "Microsoft Windows"). OSSEC has a centralized, cross-platform architecture allowing multiple systems to be easily monitored and managed. OSSEC has a log analysis engine that is able to correlate and analyze logs from multiple devices and formats.
+
+[OSSEC - Wikipedia](https://en.wikipedia.org/wiki/OSSEC)
+
+### Wazuh
+
+Wazuh is a free and open source security platform that unifies XDR and SIEM capabilities. It protects workloads across on-premises, virtualized, containerized, and cloud-based environments.
+
+[Wazuh - Open Source XDR. Open Source SIEM.](https://wazuh.com/)
+
+[Getting started with Wazuh · Wazuh documentation](https://documentation.wazuh.com/current/getting-started/index.html)

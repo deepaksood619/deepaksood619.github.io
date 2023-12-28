@@ -124,6 +124,7 @@ A wrapped token is a tokenized version of another cryptocurrency which is pegged
 - [What is Terra? UST and LUNA explained with Animations - YouTube](https://www.youtube.com/watch?v=U9lrH0loAns)
 - [How To Get Started With Constellation Network](https://milkroad.com/invest/constellation-network/)
 - [Aptos Labs - Opening the gateway to the Aptos Network](https://aptoslabs.com/)
+  - [Aptos Blockchain Deep Dive | Aptos Docs](https://aptos.dev/concepts/blockchain/)
 
 #### Chainlink (Oracle) - LINK
 

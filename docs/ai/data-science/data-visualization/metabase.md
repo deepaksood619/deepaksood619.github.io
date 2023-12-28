@@ -51,6 +51,23 @@ Parameters can be signed or unsigned.
 
 [Parameters for signed embeds](https://www.metabase.com/docs/latest/embedding/signed-embedding-parameters)
 
+## Plugins
+
+```bash
+# clickhouse
+
+export METABASE_DOCKER_VERSION=v0.47.2
+export METABASE_CLICKHOUSE_DRIVER_VERSION=1.2.2
+
+mkdir -p mb/plugins && cd mb
+
+curl -L -o plugins/ch.jar https://github.com/ClickHouse/metabase-clickhouse-driver/releases/download/$METABASE_CLICKHOUSE_DRIVER_VERSION/clickhouse.metabase-driver.jar
+
+docker run -d -p 3000:3000 \
+  --mount type=bind,source=$PWD/plugins/ch.jar,destination=/plugins/clickhouse.jar --network="host" \
+  metabase/metabase:$METABASE_DOCKER_VERSION
+```
+
 ## Dashboards
 
 ### Filters
