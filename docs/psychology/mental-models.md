@@ -66,6 +66,14 @@ The dark forest hypothesis is the conjecture that many alien civilizations exist
 
 [Dark forest hypothesis - Wikipedia](https://en.wikipedia.org/wiki/Dark_forest_hypothesis)
 
+## as-judged-by-themselves
+
+The “as-judged-by-themselves” principle is a standard that focuses on people's preferences and the importance of informed choice. It can justify a nudge-based intervention if the nudge aligns people's choices with what they already prefer.
+
+According to Thaler and Sunstein, nudges should be used to enrich people's lives “as judged by themselves”. They also establish that nudges should be transparent and come with the option to opt out.
+
+A nudge is a mechanism that influences the behavior of a group of individuals through providing indirect suggestions. The purpose of nudging is to subtly direct people towards positive behavioral choices.
+
 ## Links
 
 - [Law of Triviality](soft-skills/prioritization-leverage#law-of-triviality)

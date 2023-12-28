@@ -1243,5 +1243,17 @@
 1233. [Lasting Lessons from Charlie Munger.](https://youtu.be/3lcRdAmHgKc?si=DWlltEQn9noAwDFk)
 1234. [Why India is a Rising Power](https://youtu.be/s2X_nAOYbYY?si=g68v9KN0G68oh9rv)
 1235. [Why Greece Is Suddenly Doing Really Well - YouTube](https://youtu.be/aPnu-VPvgb4?si=eofaNvdskJ97-1QJ)
+1236. [Why Nigeria Is Suddenly Betting on Solar - YouTube](https://www.youtube.com/watch?v=NDxsgA50OYk&ab_channel=BloombergOriginals)
+1237. [Inside The White House With President Joe Biden - YouTube](https://www.youtube.com/watch?v=Jzqu48uup54&ab_channel=ArchitecturalDigest)
+1238. [I'VE BEEN ROBBED - YouTube](https://www.youtube.com/watch?v=byfWscC87Vg&ab_channel=JerryRigEverything)
+1239. [Seductive AI has no rules. It will change your life (or end it). - YouTube](https://www.youtube.com/watch?v=lgwrRn1uHkg&ab_channel=DigitalEngine)
+1240. [Visiting the Closest Town to Space (Life with 50% less oxygen) - YouTube](https://www.youtube.com/watch?v=KqaGdcQh5jA)
+1241. [I Flew Into US Navy's Largest Stealth Ship - YouTube](https://www.youtube.com/watch?v=8MlM6B2OMlE)
+1242. [2023, in 7 minutes - YouTube](https://www.youtube.com/watch?v=sJs_64OUpEs&ab_channel=Vox)
+1243. [Why visas don’t apply to Elon Musk & other billionaires | On the Money | CRED - YouTube](https://www.youtube.com/watch?v=BT6uULSRGpk&ab_channel=CRED)
+1244. [5 years after IIT in 5 minutes - YouTube](https://www.youtube.com/watch?v=fZGnOPnvBp8&ab_channel=HarkiratSingh)
+1245. [Huge Bank of England Update - What Happens Next? - YouTube](https://www.youtube.com/watch?v=2I1z6Ok0DUo&ab_channel=KatyWilsonProperty)
+1246. [India's unbelievable speed in 2023 - YouTube](https://www.youtube.com/watch?v=eEkaB77pp8k&ab_channel=Johnny%27sDesk)
+1247. [Why Apple’s iPhone Maker Is Turning to Cars - YouTube](https://www.youtube.com/watch?v=8RlRLHFiVWI&ab_channel=BloombergOriginals)
 
 ## End

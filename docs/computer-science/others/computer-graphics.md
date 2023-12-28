@@ -1,37 +1,31 @@
 # Computer Graphics
 
-1. Rasterization
+1. Vertex Shading
+2. Rasterization
+3. Fragment Shading
+4. Ray Tracing
+5. Shader program
+6. Subsurface scattering
+7. BVH Tree Traversals
+8. Ray triangle intersection
+9. Binning
+10. Bounding Voluming Hierarchy
 
-2. Ray Tracing
-
-3. Shader program
-
-4. Subsurface scattering
-
-5. BVH Tree Traversals
-
-6. Ray triangle intersection
-
-7. Binning
-
-8. Bounding Voluming Hierarchy
 [TU Wien Rendering / Ray Tracing Course](https://www.youtube.com/playlist?list=PLujxSBD-JXgnGmsn7gEyN28P1DnRZG7qi) (2 Minute Papers)
-Pipeline
+
+[How do Video Game Graphics Work? - YouTube](https://youtu.be/C8YtdC8mxTU?si=QHa-SGSlaXNevkSB)
+
+![video-game-graphics](../../media/Screenshot%202023-12-26%20at%2012.43.35.PM.jpg)
+
+### Pipeline
 
 1. Deferred shading
-
 2. Direct shadows
-
 3. Lighting
-
 4. Reflections
-
 5. Global Illuminations
-
 6. Ambient Occlusion
-
 7. Transparency and Transluency
-
 8. Post processing
 
 ## OpenGL

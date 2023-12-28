@@ -171,6 +171,7 @@
 - RM Transit
 - The School of life
 - [Medlife Crisis - YouTube](https://youtube.com/@MedlifeCrisis?si=vmOmOUXV_TZoBNyW)
+- [Architectural Digest - YouTube](https://www.youtube.com/@Archdigest)
 
 ## Yearly
 
@@ -211,6 +212,7 @@
 - Curiosity Stream
 - Discovery+
 - NatGeo
+- Nebula - The logistics of x
 
 ## General Science
 
@@ -336,6 +338,8 @@
 - The Science of Change [https://podcastaddict.com/podcast/the-science-of-change/4496415](https://podcastaddict.com/podcast/the-science-of-change/4496415)
 - Business Breakdowns [https://podcastaddict.com/podcast/business-breakdowns/4400688](https://podcastaddict.com/podcast/business-breakdowns/4400688)
 - The rational reminder podcast
+- Aquired
+- Empire
 
 https://www.freecodecamp.org/news/best-tech-podcasts-for-software-developers
 

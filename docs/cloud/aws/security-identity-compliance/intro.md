@@ -96,7 +96,18 @@ https://github.com/nccgroup/ScoutSuite
 
 #### Running scoutsuite (Download scoutsuite repo)
 
-`python scout.py aws --profile zen`
+```bash
+python scout.py aws --profile zen
+
+# View a summary of image vulnerabilities and recommendations
+docker scout quickview clickhouse/clickhouse-server
+
+# View vulnerabilities
+docker scout cves clickhouse/clickhouse-server
+
+# View base image update recommendations
+docker scout recommendations clickhouse/clickhouse-server
+```
 
 https://github.com/tensult/cloud-reports
 
@@ -132,6 +143,22 @@ SOC 2 compliance is a voluntary certification that shows an organization's commi
 SOC 2 compliance may help organizations avoid data breaches and the financial and reputational damage that can result. It can also increase an organization's brand reputation and give it a competitive advantage.
 
 SOC 2, aka **Service Organization Control Type 2**, is a cybersecurity compliance framework developed by the American Institute of Certified Public Accountants (AICPA). The primary purpose of SOC 2 is to ensure that third-party service providers store and process client data in a secure manner.
+
+#### SOC 2 Type 1 vs Type 2
+
+There are two main types of SOC 2 compliance: _Type 1_ and _Type 2_.
+
+Type 1 attests an organization’s use of compliant systems and processes at a _specific point in time._ Conversely, Type 2 is an attestation of compliance over a period (usually 12 months).
+
+A Type 1 report describes the controls in use by an organization, and confirms that the controls are properly designed and enforced. A Type 2 report includes everything that’s part of a Type 1 report, along with the attestation that the controls are _operationally effective_.
+
+#### SOC 1 vs SOC 2 vs SOC 3
+
+There are three main types of SOC reports – SOC 1, SOC 2, and SOC 3. The first two are the most prevalent, with the second being most relevant to technology companies.
+
+SOC 1 revolves around financial reporting, whereas SOC 2 focuses more on compliance and business operations. SOC 3 is an adaptation of SOC 2, which reports SOC 2 results in a format that is understandable for the general public.
+
+[What is SOC 2: Principles, Types, Benefits | OneLogin](https://www.onelogin.com/learn/what-is-soc-2)
 
 ## Others
 

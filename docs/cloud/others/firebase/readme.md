@@ -98,8 +98,6 @@ With Remote Config personalization, you can automatically select Remote Config p
 - Firebase **AppCheck**
 - https://neilpatel.com/blog/google-analytics-4
 - https://github.com/supabase/supabase
-- [Learn Supabase, an Open-Source Firebase Alternative](https://www.freecodecamp.org/news/learn-supabase-open-source-firebase-alternative/)
-
-Firebase Open Source Alternative
-
+  - Firebase Open Source Alternative
+  - [Learn Supabase, an Open-Source Firebase Alternative](https://www.freecodecamp.org/news/learn-supabase-open-source-firebase-alternative/)
 - https://counter.dev

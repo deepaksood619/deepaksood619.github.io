@@ -7,9 +7,9 @@ sudo apt-get update
 
 sudo apt-get -y install docker.io
 
-~~--add-host="" : Add a line to /etc/hosts (host:IP)~~
+--add-host="" : Add a line to /etc/hosts (host:IP)
 
-https://docs.docker.com/engine/install/ubuntu
+# https://docs.docker.com/engine/install/ubuntu
 
 sudo service docker start
 
@@ -59,6 +59,10 @@ docker run --rm -it -p=8080:8080 inventree/inventree
 - [docker wait](https://docs.docker.com/engine/reference/commandline/wait) blocks until running container stops
 - [docker kill](https://docs.docker.com/engine/reference/commandline/kill) sends a SIGKILL to a running container
 - [docker attach](https://docs.docker.com/engine/reference/commandline/attach) will connect to a running container
+
+```bash
+docker start **CONTAINER ID**
+```
 
 ## Info
 
@@ -144,30 +148,31 @@ docker tag azure-vote-front gcr.io/example-data-archiver/azure-vote-front:v1
 ## Network
 
 ```bash
-- docker network connect - Connect a container to a network
-- docker network create - Create a network
+docker network connect - Connect a container to a network
+docker network create - Create a network
 
 docker network create --subset=172.18.0.0/16 example-docker
 
-- docker network disconnect - Disconnect a container from a network
-- docker network inspect - Display detailed information on one or more networks
-- docker network ls - List networks
-- docker network prune - Remove all unused networks
-- docker network rm - Remove one or more networks
+docker network disconnect - Disconnect a container from a network
+docker network inspect - Display detailed information on one or more networks
+docker network ls - List networks
+docker network prune - Remove all unused networks
+docker network rm - Remove one or more networks
 ```
 
 ## Volumes
 
 ```bash
 cd /var/lib/docker/volumes/druid-volume/_data/segment-cache
+```
 
-| [docker volume create](https://docs.docker.com/engine/reference/commandline/volume_create/)   | Create a volume                                     |
+|   |  |
 |------------------------|------------------------------------------------|
+| [docker volume create](https://docs.docker.com/engine/reference/commandline/volume_create/)   | Create a volume                                     |
 | [docker volume inspect](https://docs.docker.com/engine/reference/commandline/volume_inspect/) | Display detailed information on one or more volumes |
 | [docker volume ls](https://docs.docker.com/engine/reference/commandline/volume_ls/)           | List volumes                                        |
 | [docker volume prune](https://docs.docker.com/engine/reference/commandline/volume_prune/)     | Remove all unused local volumes                     |
 | [docker volume rm](https://docs.docker.com/engine/reference/commandline/volume_rm/)           | Remove one or more volumes                          |
-```
 
 ## Docker CLI
 
@@ -176,29 +181,31 @@ cd /var/lib/docker/volumes/druid-volume/_data/segment-cache
 ## Cleanup Commands
 
 ```bash
-- docker stop $(docker ps -aq) #stop all running containers
-- docker rmi $(docker images -q) #Delete all images
-- docker rm -f $(docker ps -a -q) #Delete all containers
-- docker-compose config #Check if environment variables are loaded in source
-- docker ps -aq -f status=exited #Show all stopped containers
+docker stop $(docker ps -aq) #stop all running containers
+docker rmi $(docker images -q) #Delete all images
+docker rm -f $(docker ps -a -q) #Delete all containers
+docker-compose config #Check if environment variables are loaded in source
+docker ps -aq -f status=exited #Show all stopped containers
 
-- **docker rm $(docker ps -a -f status=exited -q) #docker-remove-exited-containers**
+docker rm $(docker ps -a -f status=exited -q) #docker-remove-exited-containers
 
-- docker volume prune #remove docker volumes
-- docker volume rm $(docker volume ls -f dangling=true -q) #docker-remove-dangling-volumes
-- docker images -qf dangling=true | xargs docker rmi #remove all dangling images
+docker volume prune #remove docker volumes
+docker volume rm $(docker volume ls -f dangling=true -q) #docker-remove-dangling-volumes
 
-- **docker images -q | xargs docker rmi #remove all unused images**
-- **docker builder prune -f**
+docker images -qf dangling=true | xargs docker rmi #remove all dangling images
 
-- docker system prune -a #clean all, Can kill container in kubernetes cluster
+docker images -q | xargs docker rmi #remove all unused images
+
+docker builder prune -f
+
+docker system prune -a #clean all, Can kill container in kubernetes cluster
 
 ## Kubernetes Cleanup Commands
 
-- **docker system df #check volume status (docker sizes)**
+docker system df #check volume status (docker sizes)**
 
-- docker container prune
-- docker image prune -a
+docker container prune
+docker image prune -a
 ```
 
 https://github.com/onfido/k8s-cleanup
@@ -206,22 +213,24 @@ https://github.com/onfido/k8s-cleanup
 ## Base Commands
 
 ```bash
-- docker run --rm -it -v $PWD:/build ubuntu:18.04 #create a docker image of ubuntu:18.04
-- docker run --rm -it ubuntu:18.04 #create a docker image of ubuntu:18.04
-- docker run --rm -it exampletech/react-awscli:1.0.0 /bin/sh
-- docker run --rm -it -p=8080:8080 volttron_docker_image /bin/bash
-- docker commit suspicious_wescoff volttron_docker_image
-- docker run -i -t volttron_docker_image /bin/bash
-- Exit a container - CTRL + D
-- docker run -it --network="host" --name mynodered nodered/node-red-docker #for binding docker to localhost, published ports doesn't work when --network="host" is used
+docker run --rm -it -v $PWD:/build ubuntu:18.04 #create a docker image of ubuntu:18.04
+docker run --rm -it ubuntu:18.04 #create a docker image of ubuntu:18.04
+docker run --rm -it exampletech/react-awscli:1.0.0 /bin/sh
+docker run --rm -it -p=8080:8080 volttron_docker_image /bin/bash
+docker commit suspicious_wescoff volttron_docker_image
+docker run -i -t volttron_docker_image /bin/bash
+
+Exit a container - CTRL + D
+
+docker run -it --network="host" --name mynodered nodered/node-red-docker #for binding docker to localhost, published ports doesn't work when --network="host" is used
 ```
 
 ## Other Commands
 
 ```bash
-- docker exec -it --user root temp-emqx /bin/sh #get inside docker container as user root
-- whoami #get logged in user inside docker container
-- sudo systemctl restart docker (When docker gets hanged)
+docker exec -it --user root temp-emqx /bin/sh #get inside docker container as user root
+whoami #get logged in user inside docker container
+sudo systemctl restart docker (When docker gets hanged)
 ```
 
 ## Scaling

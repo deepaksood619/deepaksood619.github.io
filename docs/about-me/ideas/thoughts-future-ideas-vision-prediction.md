@@ -19,10 +19,6 @@ Blockchain reinvents trust.
 
 Humans cannot be trusted, they trust software more than other humans - Haven't you studied true history as to what humans have done to other humans.
 
-## Arguments
-
-What is your sample size?
-
 ## Technologies
 
 [Can Rice last forever?](https://finshots.in/archive/can-rice-last-forever/)
@@ -61,3 +57,16 @@ What is your sample size?
 ## Links
 
 [Ask HN: What are the big/important problems to work on? | Hacker News](https://news.ycombinator.com/item?id=37033312)
+
+[Why AI Will Spark Exponential Economic Growth | Cathie Wood | TED - YouTube](https://www.youtube.com/watch?v=rQEh7d-qa38&ab_channel=TED)
+
+- Old
+  - Telephone
+  - Electricity
+  - Automobile
+- New
+  - Artificial Intelligence
+  - Public Blockchains
+  - Energy Storage
+  - Robotics (Autonomous Vehicles)
+  - Multinomic Sequencing

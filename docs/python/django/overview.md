@@ -117,3 +117,26 @@ https://www.freecodecamp.org/news/django-for-everybody-learn-the-popular-python-
 - Inline formsets
 
 https://www.freecodecamp.org/news/create-a-social-media-app-with-django
+
+## Interview Questions
+
+1. Explain Django’s architecture - MVT
+2. What is Jinja templating?
+3. What is serialization in Django?
+4. What is context in Django?
+5. Explain user authentication in Django
+ 1. Users
+ 2. Permissions
+ 3. Groups
+ 4. Password Hashing System
+ 5. Forms Validation
+ 6. A pluggable backend system
+6. What is the difference between CharField and TextField in Django?
+7. What is Django Rest Framework
+8. Explain the use of Middlewares in Django
+9. What are signals?
+10. Explain the Django Response lifecycle
+
+[Top 50 Django Interview Questions and Answers - GeeksforGeeks](https://www.geeksforgeeks.org/django-interview-questions/#adv)
+
+[30+ Django Interview Questions (2023) - InterviewBit](https://www.interviewbit.com/django-interview-questions/)

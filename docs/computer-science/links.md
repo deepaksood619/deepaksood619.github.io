@@ -98,6 +98,8 @@
 94. [Designing A Data-Intensive Future: Expert Talk • Martin Kleppmann & Jess...](https://youtu.be/P-9FwZxO1zE?si=WyoFSrXD_IR6faH6)
 95. [How Does Linux Boot Process Work?](https://youtu.be/XpFsMB6FoOs?si=BMNajLZbSLdmU7Iz)
 96. [It's a Noisy World Out There • Linda Rising • GOTO 2023](https://youtu.be/k8LxUKx85X0?si=nCXx1UvtJr7zWPwL)
+97. [AI’s Hottest New Job Pays Up to $250K a Year. So I Applied. | WSJ - YouTube](https://www.youtube.com/watch?v=whkge1rEamU&ab_channel=TheWallStreetJournal)
+98. [Technologies I'm learning to Make More Money in 2024 - YouTube](https://www.youtube.com/watch?v=C_qhRtuxZzU&ab_channel=HarkiratSingh)
 
 ## Podcasts
 

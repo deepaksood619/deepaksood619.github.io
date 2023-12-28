@@ -5,7 +5,7 @@
 - [Django Template Language](django-template-language)
 - [Commands](commands)
 - [Unicode](unicode)
-- [Models](models)
+- [Models](python/django/models.md)
 - [QuerySet and Query Expressions](queryset-and-query-expressions)
 - [Content Types](content-types)
 - [Admin site](admin-site)

@@ -9,5 +9,4 @@
   - [Commands](vernemq/commands)
 - [sMAP](smap)
 - [Volttron](volttron)
-- [Other Brokers](others-brokers)
-- [Others](technologies/brokers/others.md)
+- [Other](technologies/brokers/others.md)

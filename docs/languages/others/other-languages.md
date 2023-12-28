@@ -236,3 +236,9 @@ https://vlang.io
 [Home ⚡ Zig Programming Language](https://ziglang.org/)
 
 [GitHub - zigzap/zap: blazingly fast backends in zig](https://github.com/zigzap/zap)
+
+## Others
+
+- [Solidity](decentralized-applications/ethereum/solidity.md)
+- [GitHub - move-language/move](https://github.com/move-language/move)
+  - [Introduction - The Move Book](https://move-language.github.io/move/)

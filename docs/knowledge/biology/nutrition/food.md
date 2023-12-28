@@ -165,6 +165,8 @@ https://www.onlymyhealth.com/how-gain-weight-in-days-1326451658
 
 https://www.healthline.com/nutrition/list-of-vegetables
 
+Mushroom - White Truffle [Tuber magnatum - Wikipedia](https://en.wikipedia.org/wiki/Tuber_magnatum)
+
 ## Eight principles of low-glycemic eating
 
 1. Eat a lot of non-starchy vegetables, beans, and fruits such as apples, pears, peaches, and berries. Even tropi- cal fruits like bananas, mangoes, and papayas tend to have a lower glycemic index than typical desserts
@@ -325,6 +327,18 @@ Unlike the others, vitamin D can be produced by our bodies, provided our skin is
 **Make Vit D while the sun shines**
 
 Try to get 10–20 minutes of sunlight ideally before noon, 3-4 times a week. Darker skin needs more sun than lighter skin; so adjust your sun exposure based on your need.
+
+## Infused Water
+
+**Tooth Enamel Erosion** - Many infused water recipes include citrus fruits, which are known to wear away tooth enamel due to their acidic content. Frequently drinking citrus-infused water could lead to tooth sensitivity or cavities, so be sure to infuse your water with other fruits from time to time.
+
+**Shelf Life** - Over time, fruit-infused water will go bad, but it will last longer when stored in the refrigerator. If you leave it out at room temperature, it’s best to consume it within four hours. But, if you’re storing it in the refrigerator, it will stay fresh for about three days.
+
+[Are There Health Benefits to Drinking Infused Water? Pros and Cons, Nutrition, and More](https://www.webmd.com/diet/health-benefits-infused-water)
+
+[To Infuse or Not to Infuse? | BestFoodFacts.org](https://www.bestfoodfacts.org/vitamins-infused-water/)
+
+[Health benefits of infused water (and common myths debunked) - Fad Free Nutrition Blog](https://fadfreenutrition.nutricionalgrano.com/health-benefits-of-infused-water/)
 
 ## Farming
 

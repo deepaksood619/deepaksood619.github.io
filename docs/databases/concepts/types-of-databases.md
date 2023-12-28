@@ -180,6 +180,8 @@ Vector databases are designed to handle critical query and algorithmic styles se
 
 [A Comprehensive Guide to Vector Databases - KDB.AI](https://kdb.ai/blog/a-comprehensive-guide-to-vector-databases/)
 
+- pinecone
+
 ## Others
 
 ### Chroma

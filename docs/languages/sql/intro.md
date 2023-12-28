@@ -86,3 +86,4 @@ https://launchbylunch.com/posts/2014/Feb/16/sql-naming-conventions
 - https://www.codecademy.com/courses/learn-sql/lessons/manipulation/exercises/sql
 - https://www.codecademy.com/articles/what-is-rdbms-sql
 - https://www.codecademy.com/articles/sql-commands?r=master
+- [SQL 50 - Study Plan - LeetCode](https://leetcode.com/studyplan/top-sql-50/)

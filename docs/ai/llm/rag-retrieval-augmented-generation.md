@@ -9,3 +9,5 @@ RAG is an AI framework for retrieving facts from an external knowledge base to g
 [What is Retrieval-Augmented Generation (RAG)? - YouTube](https://youtu.be/T-D1OfcDW1M?si=KoUb-NXATK50d3i7)
 
 [**Vector Search RAG Tutorial – Combine Your Data with LLMs with Advanced Search - YouTube**](https://www.youtube.com/watch?v=JEBDfGqrAUA)
+
+[GitHub - beaucarnes/vector-search-tutorial](https://github.com/beaucarnes/vector-search-tutorial)

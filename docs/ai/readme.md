@@ -18,6 +18,8 @@
 
 ## AGI (Artificial General Intelligence)
 
+AGI will be intellectually, morally, ethically and creatively superior to humans in every conceivable way
+
 [Ben Goertzel: Singularity, Sparks of AGI in GPT - YouTube](https://www.youtube.com/watch?v=27zHyw_oHSI)
 
 [Ben Goertzel - Open Ended vs Closed Minded Conceptions of Superintelligence - YouTube](https://www.youtube.com/watch?v=4mEsJ3z6T_E)

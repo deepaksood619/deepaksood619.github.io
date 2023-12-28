@@ -96,28 +96,30 @@ chainlit hello
 chainlit run document_qa.py
 ```
 
-### HuggingFace
+### Ollama
 
-#### About
+The easiest way to get up and running with large language models locally.
 
-[How to choose a Sentence Transformer from Hugging Face | Weaviate - Vector Database](https://weaviate.io/blog/how-to-choose-a-sentence-transformer-from-hugging-face)
+```bash
+docker run -d -v ollama:/root/.ollama -p 11434:11434 --name ollama ollama/ollama
 
-- Blue - the **dataset** it was trained on
-- Green - the **language** of the dataset
-- White or Purple - **additional details** about the model
+docker exec -it ollama ollama run llama2
 
-#### Models
+docker exec -it ollama ollama run llama2-uncensored
 
-- [GitHub - huggingface/transformers: 🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.](https://github.com/huggingface/transformers)
-- [Hugging Face – The AI community building the future.](https://huggingface.co/)
+docker exec -it ollama ollama run mistral
 
-## Evaluation
+>>> /? # for help
+```
 
-- [Alpaca Eval Leaderboard](https://tatsu-lab.github.io/alpaca_eval/)
-- [GitHub - tatsu-lab/alpaca\_eval: An automatic evaluator for instruction-following language models. Human-validated, high-quality, cheap, and fast.](https://github.com/tatsu-lab/alpaca_eval)
+[Docker](https://hub.docker.com/r/ollama/ollama)
 
 ## Resources
 
+[Development with Large Language Models Tutorial – OpenAI, Langchain, Agents, Chroma - YouTube](https://www.youtube.com/watch?v=xZDB1naRUlk&t=1032s)
+
+![document-based-question-answering-system](../../media/Screenshot%202023-12-28%20at%208.00.43.PM.jpg)
+
 - [GitHub - openai/openai-cookbook: Examples and guides for using the OpenAI API](https://github.com/openai/openai-cookbook)
-- [Development with Large Language Models Tutorial – OpenAI, Langchain, Agents, Chroma - YouTube](https://www.youtube.com/watch?v=xZDB1naRUlk&t=1032s)
 - [Vector Embeddings Tutorial – Create an AI Assistant with GPT-4 & Natural Language Processing - YouTube](https://www.youtube.com/watch?v=yfHHvmaMkcA)
+- [This new AI is powerful and uncensored… Let’s run it - YouTube](https://www.youtube.com/watch?v=GyllRd2E6fg&ab_channel=Fireship)
