@@ -290,7 +290,7 @@ Researchers often use the term "parameters" instead of "weights" to emphasize th
 
 - A **_Word embedding_** is a learned lookup map i.e. _every word_ is given a _one hot encoding_ which then functions as an _index_, and the corresponding to this index is a `n` _dimensional vector_ where the coefficients are learned when training the model.
 - A **Positional embedding** is similar to a **_word embedding_**. Except it is the _position_ in the _sentence_ is used as the index, rather than the one hot encoding. Those positions then correspond to a `n`\-vector whose coefficients come from the trained model.
-- On the other hand, the **Positional encoding** is a **_static function_** that maps an integer input to real-valued vectors in a way that captures the inherent relationships among the positions. That is, it captures the fact that position `4` in input is more closely related to position `5` than it is to position `17`. In other words, **positional encoding** is not learned but a chosen mathematical function, $\mathbb{N}\rightarrow\mathbb{R}^n$.
+- On the other hand, the **Positional encoding** is a **_static function_** that maps an integer input to real-valued vectors in a way that captures the inherent relationships among the positions. That is, it captures the fact that position `4` in input is more closely related to position `5` than it is to position `17`. In other words, **positional encoding** is not learned but a chosen mathematical function, `N -> R^n`.
 
 ## What’s the difference between _Feature-based Transfer Learning_ vs. _Fine Tuning_ in LLMs?
 
