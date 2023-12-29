@@ -125,12 +125,12 @@ https://www.freecodecamp.org/news/create-a-social-media-app-with-django
 3. What is serialization in Django?
 4. What is context in Django?
 5. Explain user authentication in Django
- 1. Users
- 2. Permissions
- 3. Groups
- 4. Password Hashing System
- 5. Forms Validation
- 6. A pluggable backend system
+    1. Users
+    2. Permissions
+    3. Groups
+    4. Password Hashing System
+    5. Forms Validation
+    6. A pluggable backend system
 6. What is the difference between CharField and TextField in Django?
 7. What is Django Rest Framework
 8. Explain the use of Middlewares in Django
