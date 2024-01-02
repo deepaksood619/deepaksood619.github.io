@@ -102,3 +102,5 @@ Schooling isn't just about education, it is also a form a childcare
 [The Single Most Important Parenting Strategy - Repair | Becky Kennedy | TED - YouTube](https://www.youtube.com/watch?v=PHpPtdk9rco)
 
 [Toddlers Fears](https://www.whattoexpect.com/toddler-development/toddler-fears.aspx)
+
+[How to talk to babies](https://www.whattoexpect.com/first-year/milestones/how-to-talk-to-babies)

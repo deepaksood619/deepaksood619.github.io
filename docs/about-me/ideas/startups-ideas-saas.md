@@ -4,6 +4,8 @@ Create best software companies with Indian labour, since labour is cheap in Indi
 
 **Developer tools - pure software play**
 
+Microproducts - [How I Sold My App For $30,000 In 4 Days | GrowthX Insider - YouTube](https://www.youtube.com/watch?v=lAUc1Gr_uDo&ab_channel=GrowthX)
+
 ### Weekend Jobs
 
 - List jobs only for weekends
