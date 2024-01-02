@@ -45,3 +45,5 @@ def lambda_handler(event, context):
 ```
 
 [AWS Serverless Lambda Supports Response Streaming - YouTube](https://www.youtube.com/watch?v=iwX9dYrcL1k&ab_channel=HusseinNasser)
+
+[Unlocking Faster & Efficient Data Processing w/ Serverless • Uma Ramadoss & Adam Wagner • GOTO 2023 - YouTube](https://www.youtube.com/watch?v=Mbt78pAfuOs&ab_channel=GOTOConferences)

@@ -90,51 +90,6 @@ Datastage is an ETL tool which extracts data, transform and load data from sourc
 
 https://www.guru99.com/datastage-tutorial.html
 
-## Liquibase
-
-Liquibase helps millions of teams track, version, and deploy database schema changes.
-
-Liquibase Hub
-
-- Visualize all changes
-- Changelogs
-  - **Formats**
-    - XML
-    - YAML
-    - JSON
-    - SQL
-
-- Tracking Tables
-  - DATABASECHANGELOG
-
-Track which changes have or have not been deployed
-
-- DATABASECHANGELOGLOCK
-
-- commands - liquibase update
-
-https://www.liquibase.org
-
-#### Fixing Forward
-
-Since rolling back database changes is complicated, time-consuming, and error-prone, the fixing forward approach is very quickly getting very popular.
-
-#### Fixing forward is lower-risk
-
-DBAs aren't trying to get the database back to the old state. Instead, the focus is on getting to a good working state (with all that updated data).
-
-#### Fixing forward eliminates overhead
-
-Teams can become more agile with their development for database code, making it very popular with the DevOps, CI/CD, and Agile development communities.
-
-The fix forward method works best when changes are broken into small chunks that are deployed independently and automatically. If you're starting from a software development environment where you have one years' worth of work about to deploy, this may not be the approach you adopt right now. However, there are tools that can help you break up your database scripts and schema changes into small, trackable chunks that make this approach much more accessible to companies that are ready to try this out.
-
-https://www.liquibase.com/blog/roll-back-database-fix-forward
-
-### Others
-
-[MySQL Database Migration Tool | Version Control | Flyway](https://flywaydb.org/mysql)
-
 ## Jepsen
 
 Jepsen is an effort to improve the safety of distributed databases, queues, consensus systems, etc.

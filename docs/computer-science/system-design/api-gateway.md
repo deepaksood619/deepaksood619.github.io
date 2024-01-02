@@ -103,3 +103,34 @@ A cloud native solution to streamline API management across **edge**, **middle
 [Problem Statement | Tailcall](https://tailcall.run/docs/)
 
 [GitHub - tailcallhq/tailcall: A high-performance no-code GraphQL backend](https://github.com/tailcallhq/tailcall)
+
+## API Security
+
+- Use HTTPS
+- Use OAuth2
+- Use WebAuthn
+- Use Leveled API Keys
+- Authorization
+- Rate Limiting
+- API Versioning
+- Whitelisting
+- Check OWASP API Security Risks
+- Use API Gateway
+- Error Handling
+- Input Validation
+
+![api-security](../../media/Pasted%20image%2020231230003843.png)
+
+## API Testing
+
+- **Smoke Testing** - This is done after API development is complete. Simply validate if the APIs are working and nothing breaks.
+- **Functional Testing** - This creates a test plan based on the functional requirements and compares the results with the expected results.
+- **Integration Testing** - This test combines several API calls to perform end-to-end tests. The intra-service communications and data transmissions are tested.
+- **Regression Testing** - This test ensures that bug fixes or new features shouldn’t break the existing behaviors of APIs.
+- **Load Testing** - This tests applications’ performance by simulating different loads. Then we can calculate the capacity of the application.
+- **Stress Testing** - We deliberately create high loads to the APIs and test if the APIs are able to function normally.
+- **Security Testing** - This tests the APIs against all possible external threats.
+- **UI Testing** - This tests the UI interactions with the APIs to make sure the data can be displayed properly.
+- **Fuzz Testing** - This injects invalid or unexpected input data into the API and tries to crash the API. In this way, it identifies the API vulnerabilities.
+
+![api-testing](../../media/Pasted%20image%2020231230004011.png)

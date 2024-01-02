@@ -11,6 +11,7 @@
 5. AWS Snowball - Petabyte-scale Data Transport
 6. AWS Snowball Edge - Petabyte-scale Data Transport with On-board Compute
 7. AWS Snowmobile - Exabyte-scale Data Transport
+8. [AWS Application Migration Service](https://aws.amazon.com/application-migration-service/)
 
 ## Management Tools
 

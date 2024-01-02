@@ -9,5 +9,5 @@
 - [Coursera - PM](coursera-pm)
 - [Product Design Questions](product-design-questions)
 - [Behavioral Design / Economics](behavioral-design-economics)
-- [Product - Terms](product-terms-tools-saas)
+- [Product - Terms](management/product-management/product-terms-saas.md)
 - [Retail / Offline / Sales](management/product-management/retail-offline-sales.md)

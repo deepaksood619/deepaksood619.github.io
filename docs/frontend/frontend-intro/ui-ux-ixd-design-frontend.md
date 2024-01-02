@@ -251,6 +251,8 @@ https://www.freecodecamp.org/news/the-design-thinking-process-explained
 ## Tools
 
 - draw.io / drawio
+- [Excalidraw | Hand-drawn look & feel • Collaborative • Secure](https://excalidraw.com/)
+  - [GitHub - excalidraw/excalidraw: Virtual whiteboard for sketching hand-drawn like diagrams](https://github.com/excalidraw/excalidraw)
 - Gliffy
 - Mermaid
 - PlantUML
@@ -259,32 +261,20 @@ https://www.freecodecamp.org/news/the-design-thinking-process-explained
 - moqups (Online Mockup, Wireframe, UI prototyping tool)
 - figma - https://www.figma.com
 - https://balsamiq.com
-- Mural
-
-https://www.mural.co
-
-https://www.mural.co/templates?template-categories=all-templates
-
+- Mural - https://www.mural.co - https://www.mural.co/templates?template-categories=all-templates
 - Adobe XD vs Sketch vs Figma vs InVision studio
 - http://illustrated.dev/resources
 
 ## Others
 
-https://dev.to/fullstack_to/units-in-css-em-rem-pt-px-vw-vh-vmin-vmax-ex-ch-53l0
-
-https://dev.to/simonholdorf/9-projects-you-can-do-to-become-a-frontend-master-in-2020-n2h
-
-https://www.toptal.com/web/website-performance-critical-rendering-path
-
-https://www.smashingmagazine.com/2020/01/front-end-performance-checklist-2020-pdf-pages
-
-https://www.freecodecamp.org/news/how-hex-code-colors-work-how-to-choose-colors-without-a-color-picker
-
-https://www.toptal.com/designers/web/interview-questions
-
-https://www.toptal.com/designers/interactive/interview-questions
-
-https://github.com/bradtraversy/design-resources-for-developers
+- https://dev.to/fullstack_to/units-in-css-em-rem-pt-px-vw-vh-vmin-vmax-ex-ch-53l0
+- https://dev.to/simonholdorf/9-projects-you-can-do-to-become-a-frontend-master-in-2020-n2h
+- https://www.toptal.com/web/website-performance-critical-rendering-path
+- https://www.smashingmagazine.com/2020/01/front-end-performance-checklist-2020-pdf-pages
+- https://www.freecodecamp.org/news/how-hex-code-colors-work-how-to-choose-colors-without-a-color-picker
+- https://www.toptal.com/designers/web/interview-questions
+- https://www.toptal.com/designers/interactive/interview-questions
+- https://github.com/bradtraversy/design-resources-for-developers
 
 ## Courses - https://www.interaction-design.org
 

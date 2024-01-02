@@ -1,4 +1,4 @@
-# Product - Terms - Tools - SAAS
+# Product - Terms - SAAS
 
 ## Ecommerce
 
@@ -11,12 +11,6 @@ https://blog.crobox.com/article/product-detail-page-examples
 ## Take up rate
 
 The take-up rate measures the percentage of eligible people who accept a particular good/service or benefit
-
-## Tools / SAAS
-
-- [Sendbird - A Complete Chat Platform, Messaging and Chat API and SDK | Sendbird](https://sendbird.com/)
-- [Translate.Video](https://www.translate.video/)
-- [Video Maker | Make Videos and Animations Online | Powtoon](https://www.powtoon.com/)
 
 ## Others
 
