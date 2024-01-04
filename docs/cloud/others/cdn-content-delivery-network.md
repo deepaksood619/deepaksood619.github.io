@@ -7,14 +7,6 @@
 - Cloudfront - [Amazon Cloudfront Locations](https://aws.amazon.com/cloudfront/features/)
 - Akamai
 
-### [Use image CDNs to optimize images](https://web.dev/image-cdns/)
-
-- Imagekit
-- https://imagekit.io
-- Image crop with Focus mode
-- https://docs.imagekit.io/features/image-transformations/resize-crop-and-other-transformations#focus-fo
-- [Serverless Image Handler | AWS Solutions](https://aws.amazon.com/solutions/implementations/serverless-image-handler/)
-
 ### Why Do We Need a CDN for Your Application?
 
 A Content Delivery Network (CDN) can significantly improve the performance, scalability, and security of your website or application.

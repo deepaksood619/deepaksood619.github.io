@@ -6,7 +6,7 @@
 - [Architecture](technologies/elasticsearch/architecture.md)
 - [Internal Working](internal-working)
 - [Analysis and Analyzers](analysis-and-analyzers)
-- [Commands](commands)
+- [Commands](technologies/elasticsearch/commands.md)
 - [ElastAlert](elastalert)
 - [Information Retrieval](information-retrieval)
 - [Full Text Searches](full-text-searches)

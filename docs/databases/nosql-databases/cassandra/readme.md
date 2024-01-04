@@ -6,6 +6,6 @@
 - [Data Model](databases/nosql-databases/cassandra/data-model.md)
 - [Consistency](consistency)
 - [CQL (Cassandra Query Language)](cql-cassandra-query-language)
-- [Commands](commands)
+- [Commands](databases/nosql-databases/cassandra/commands.md)
 - [Drivers / Clients](drivers-clients)
 - [Questions](databases/nosql-databases/cassandra/questions.md)

@@ -36,11 +36,12 @@ Rows - 1,048,576- Text to column
 - cmd + fn + up/down - move between sheets
 - fn + f4 - locking the cell
 - fn + f2 - edit the cell
-- ctrl + ; - paste today's date in cell
+- **`ctrl + ;` - paste today's date in cell**
 - ctrl + 1 - open format box
 - ctrl + cmd + v - open paste special dialog box
   - t - paste format
 - ctrl + shift + l = add filter to data tables
+- cmd + delete = scroll to active cell
 
 ## Examples / Functions
 

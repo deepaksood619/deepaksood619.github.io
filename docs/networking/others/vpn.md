@@ -66,6 +66,10 @@ https://www.freecodecamp.org/news/how-to-set-up-a-vpn-server-at-home
 
 ngrok is a reverse proxy that creates a secure tunnel from a public endpoint to a locally running web service. ngrok captures and analyzes all traffic over the tunnel for later inspection and replay.
 
+Unified Ingress Platform  for developers
+
+ngrok combines your reverse proxy, firewall, API gateway, and global load balancing to deliver apps and APIs.
+
 https://ngrok.com
 
 https://github.com/inconshreveable/ngrok

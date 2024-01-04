@@ -120,6 +120,7 @@ https://www.google.com/inputtools
 - darkreader
 - Session Buddy
 - Nimbus Screenshot & Screen Video
+  - [Screen Recorder](https://chromewebstore.google.com/detail/screen-recorder/hniebljpgcogalllopnjokppmgbhaden)
 - adblock
 - Google meet attendance list
 - JSON formatter

@@ -93,6 +93,7 @@ Moving from information to knowledge age
 - [GitHub - mukulpatnaik/researchgpt: A LLM based research assistant that allows you to have a conversation with a research paper](https://github.com/mukulpatnaik/researchgpt)
 - [Kombai](https://kombai.com/)
 - [GitHub - RamiKrispin/lang2sql: A tutorial for setting an SQL code generator with the OpenAI API](https://github.com/RamiKrispin/lang2sql)
+- [fal.ai/camera](https://www.fal.ai/camera)
 
 ## Purpose-built accelerators for generative AI
 

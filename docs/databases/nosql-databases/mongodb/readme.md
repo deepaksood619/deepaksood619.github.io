@@ -4,7 +4,7 @@
 - [Overview](overview)
 - [Indexes](indexes)
 - [Data Types](databases/nosql-databases/mongodb/data-types.md)
-- [Commands](commands)
+- [Commands](databases/nosql-databases/mongodb/commands.md)
 - [pymongo](pymongo)
 - [Vector Search](databases/nosql-databases/mongodb/vector-search.md)
 - [Others](databases/nosql-databases/mongodb/others.md)
