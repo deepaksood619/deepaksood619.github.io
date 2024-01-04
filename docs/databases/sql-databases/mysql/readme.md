@@ -1,7 +1,7 @@
 # MySQL
 
 - [MySQL](databases/sql-databases/mysql/intro.md)
-- [Documentation](documentation)
+- [Documentation](databases/sql-databases/mysql/documentation.md)
 - [MySQL Data Types](mysql-data-types)
 - [Connection Handling](connection-handling)
 - [MySQL Triggers](mysql-triggers)

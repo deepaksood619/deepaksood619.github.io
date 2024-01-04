@@ -3,6 +3,7 @@
 ## Platform / Services / Vendor
 
 - TopHire
+- Optimhire
 - BigShyft
 - Randstad
 - NewEra

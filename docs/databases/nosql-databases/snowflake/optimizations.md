@@ -4,7 +4,7 @@
 
 In Snowflake, clustering is a type of data partitioning, where unique cluster keys are specified for each table. Cluster keys are subsets of a table's columns that are used to co-locate data within the table. These keys are appropriate for comprehensive tables. The process of managing clustered data in a table is known as re-clustering.
 
-Clustering keys are used to enhance query performance by physically organizing data within a table based on the values in one or more columns. Clustering helps to group similar data together, which can significantly improve the efficiency of certain types of queries. 
+Clustering keys are used to enhance query performance by physically organizing data within a table based on the values in one or more columns. Clustering helps to group similar data together, which can significantly improve the efficiency of certain types of queries.
 
 ### Benefits
 
@@ -37,7 +37,7 @@ CREATE TABLE your_table (
     column1 INT,
     column2 STRING,
     ...
-    CLUSTER BY (column1, column2) 
+    CLUSTER BY (column1, column2)
 );
 ```
 

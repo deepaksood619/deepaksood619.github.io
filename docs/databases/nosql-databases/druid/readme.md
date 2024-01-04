@@ -2,7 +2,7 @@
 
 - [Druid Intro](databases/nosql-databases/druid/intro.md)
 - [Architecture](databases/nosql-databases/druid/architecture.md)
-- [Documentation](documentation)
+- [Documentation](databases/nosql-databases/druid/documentation.md)
 - [Paper](paper)
 - [Commands](databases/nosql-databases/druid/commands.md)
 - [Cheatsheet](cheatsheet)

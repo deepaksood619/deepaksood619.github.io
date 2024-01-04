@@ -1,7 +1,7 @@
 # PHP
 
 - [Intro](languages/php/intro.md)
-- [Documentation](documentation)
+- [Documentation](languages/php/documentation.md)
 - [Syntax](syntax)
 - [Operators](operators)
 - [Web Concepts](web-concepts)
