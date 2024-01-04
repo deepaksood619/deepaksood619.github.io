@@ -8,6 +8,6 @@
 - [Redis Streams / PUBSUB](redis-streams-pubsub)
 - [Redis Queues](redis-queues)
 - [redis-py](redis-py)
-- [Commands](commands)
+- [Commands](databases/nosql-databases/redis/commands.md)
 - [Best Practices](best-practices)
 - [Others](databases/nosql-databases/redis/others.md)

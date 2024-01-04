@@ -18,7 +18,7 @@ Microproducts - [How I Sold My App For $30,000 In 4 Days | GrowthX Insider - You
 
 ## AI/ChatGPT
 
-- New questions everytime
+- New questions every time during interview/tests
 - Startup for creating advert from given text input
 - Give whole schema and model to the LLM, and directly ask questions in plain english for analysis and dashboards
   - Automate data analytics and data engineering tasks
@@ -28,6 +28,7 @@ Microproducts - [How I Sold My App For $30,000 In 4 Days | GrowthX Insider - You
   - Webtoons / Blocktoons / MangaPlus but by AI artists
 - Subjective Paper scoring using chatgpt
   - Coding using chatgpt and not only coding for functions but full repositories. Having context of whole repository and tell which file and what line to change
+- During interviews, automatic captions can be sent to chatgpt for giving answers directly
 
 **Economics of Data Business**
 

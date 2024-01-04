@@ -46,6 +46,10 @@ Prompt: "Proofread my writing above. Fix grammar and spelling mistakes. And make
 
 Prompt: "I want to learn about `{insert topic}`. Identify and share the most important 20% of learnings from this topic that will help me understand 80% of it."
 
+##### Learning / Q&A / Test / Interview
+
+I'm currently learning about snowflake. Ask me a series of 50 questions, one at a time, that will test my knowledge. Wait for my response before proceeding to the next question, ask the next question after your explanation of the answers. Identify knowledge gaps in my answers and give me better answers to fill those gaps. When finish show me the quantity of correct answers and the quantity of failed answers
+
 #### Principle 1: Write clear and specific instructions
 
 ##### Tactic 1: Use delimiters to clearly indicate distinct parts of the input

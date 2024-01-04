@@ -70,7 +70,7 @@ https://www.wordstream.com/white-hat-seo
 
 https://www.searchenginejournal.com/7-white-hat-seo-techniques-to-double-traffic/182243
 
-cloudinary.com for fast image CDN
+cloudinary.com / imagekit with cloudfront for fast image CDN
 
 ## Search Engine Results Page (SERP)
 

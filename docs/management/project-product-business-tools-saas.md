@@ -3,16 +3,16 @@
 [PM Templates - by Paweł Huryn](https://www.productcompass.pm/p/templates)
 
 1. notion.so
- 1. https://www.appflowy.io - AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust.
- 2. https://github.com/AppFlowy-IO/appflowy
- 3. https://www.focalboard.com - Alternative to Asana / Trello / Notion
+1. https://www.appflowy.io - AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust.
+2. https://github.com/AppFlowy-IO/appflowy
+3. https://www.focalboard.com - Alternative to Asana / Trello / Notion
 2. Free Open Source / Self hosted - https://www.taiga.io
 3. Atlassian JIRA
 4. Asana
 5. Orangescrum - https://github.com/Orangescrum/orangescrum
 6. https://kitemaker.co
 7. AirTable
- 1. https://www.nocodb.com (Airtable Alternative) - [GitHub - nocodb/nocodb: 🔥 🔥 🔥 Open Source Airtable Alternative](https://github.com/nocodb/nocodb)
+1. https://www.nocodb.com (Airtable Alternative) - [GitHub - nocodb/nocodb: 🔥 🔥 🔥 Open Source Airtable Alternative](https://github.com/nocodb/nocodb)
 8. Trello - https://blog.trello.com/trello-team-playbooks
 9. BaseCamp / workday
 10. firmbee
@@ -28,8 +28,8 @@
 14. Gitlab issues
 15. https://fireflies.ai - AI assistant for your meetings
 16. Calendly
- 1. https://topmate.io
- 2. [The scheduling tool that speaks your language - YouCanBookMe](https://youcanbook.me/)
+1. https://topmate.io
+2. [The scheduling tool that speaks your language - YouCanBookMe](https://youcanbook.me/)
 17. https://github.com/opf/openproject
 18. https://freedcamp.com
 19. Google sheets - https://www.goskills.com/Project-Management/Resources/Project-management-template-Google-Sheets
@@ -41,7 +41,7 @@
 25. https://www.cymath.com - Solve maths question
 26. https://attentioninsight.com
 27. [Mind Map & Brainstorm Ideas - MindNode](https://www.mindnode.com/)
- 1. [Canva: Visual Suite for Everyone](https://www.canva.com)
+1. [Canva: Visual Suite for Everyone](https://www.canva.com)
 
 The tools of a successful product manager
 

@@ -3,7 +3,7 @@
 - [Overview](overview)
 - [Architecture](python/django/architecture.md)
 - [Django Template Language](django-template-language)
-- [Commands](commands)
+- [Commands](python/django/commands.md)
 - [Unicode](unicode)
 - [Models](python/django/models.md)
 - [QuerySet and Query Expressions](queryset-and-query-expressions)

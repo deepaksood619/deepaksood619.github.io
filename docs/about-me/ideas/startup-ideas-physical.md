@@ -1,5 +1,16 @@
 # Startup Ideas - Physical
 
+#### Consolidated Gig Marketplace
+
+Consolidated marketplace for all services (Single platform for all delivery both for customers and delivery agents - gig workers)
+
+- Zomato + Swiggy - Food delivery
+- DTDC + Amazon + ecommerce - Parcel delivery
+- Uber + Ola - Transportation
+- Dunzo + Porter - Adhoc delivery
+
+Dynamic pricing and price surge like in Uber/Ola
+
 #### Affordable tiffin service (p2p tiffin service)
 
 #### Personalized gym trainers with equipments at home

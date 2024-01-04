@@ -15,6 +15,7 @@
 - [Openstack](openstack)
 - [VMware](cloud/others/vmware.md)
 - [Content Delivery Network (CDN)](cloud/others/cdn-content-delivery-network.md)
+- [Imagekit](cloud/others/imagekit.md)
 - [Ticketing / TMS](ticketing-tms)
 - [Business Rule Engine / Decision Rule Engine](business-rule-engine)
 - [Others - SAAS](others-saas)

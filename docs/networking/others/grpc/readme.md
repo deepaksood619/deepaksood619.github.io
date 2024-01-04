@@ -5,4 +5,4 @@
 - [Guides](guides)
 - [Comparision](networking/others/grpc/comparison.md)
 - [Others](networking/others/grpc/others.md)
-- [Commands](commands)
+- [Commands](networking/others/grpc/commands.md)

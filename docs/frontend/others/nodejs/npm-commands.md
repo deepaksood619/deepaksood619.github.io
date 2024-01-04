@@ -58,21 +58,16 @@ ncu --interactive --format group
 
 ## Packages
 
-- youtube-api-search
-
-It takes a youtube data api key and a search query and gets all the data from youtube.
-
+- youtube-api-search - It takes a youtube data api key and a search query and gets all the data from youtube.
 - express
 - body-parser
-- npm install -g nodemon
-
-Nodemon is a utility that will monitor for any changes in your source and automatically restart your server. Perfect for development.
-
+- `npm install -g nodemon` - Nodemon is a utility that will monitor for any changes in your source and automatically restart your server. Perfect for development.
 - jsonwebtoken
 - cors
 - express-jwt
 - https://www.npmjs.com/package/redis
 - npm install gray-matter
+- [browser-image-compression - npm](https://www.npmjs.com/package/browser-image-compression)
 
 ## nvm (Node Version Manager)
 

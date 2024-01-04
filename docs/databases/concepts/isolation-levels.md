@@ -47,32 +47,32 @@ While one transaction takes a summary over the values of all the instances of a 
 ## Isolation Levels (SRRR)
 
 Of the four [ACID](https://en.wikipedia.org/wiki/ACID) properties in a [DBMS](https://en.wikipedia.org/wiki/Database_management_system)(Database Management System), the isolation property is the one most often relaxed. When attempting to maintain the highest level of isolation, a DBMS usually acquires [locks](https://en.wikipedia.org/wiki/Lock_(database)) on data which may result in a loss of [concurrency](https://en.wikipedia.org/wiki/Concurrency_(computer_science)) or implements [multiversion concurrency](https://en.wikipedia.org/wiki/Multiversion_concurrency_control) control. This requires adding logic for the [application](https://en.wikipedia.org/wiki/Software_application) to function correctly.
-Most DBMSs offer a number oftransaction isolation levels, which control the degree of locking that occurs when selecting data. For many database applications, the majority of database transactions can be constructed to avoid requiring high isolation levels (e.g. SERIALIZABLE level), thus reducing the locking overhead for the system. The programmer must carefully analyze database access code to ensure that any relaxation of isolation does not cause software bugs that are difficult to find. Conversely, if higher isolation levels are used, the possibility of [deadlock](https://en.wikipedia.org/wiki/Deadlock) is increased, which also requires careful analysis and programming techniques to avoid.
-The isolation levels defined by the [ANSI](https://en.wikipedia.org/wiki/American_National_Standards_Institute)/[ISO](https://en.wikipedia.org/wiki/International_Organization_for_Standardization)[SQL](https://en.wikipedia.org/wiki/SQL) standard are listed as follows.
+
+Most DBMSs offer a number of transaction isolation levels, which control the degree of locking that occurs when selecting data. For many database applications, the majority of database transactions can be constructed to avoid requiring high isolation levels (e.g. SERIALIZABLE level), thus reducing the locking overhead for the system. The programmer must carefully analyze database access code to ensure that any relaxation of isolation does not cause software bugs that are difficult to find. Conversely, if higher isolation levels are used, the possibility of [deadlock](https://en.wikipedia.org/wiki/Deadlock) is increased, which also requires careful analysis and programming techniques to avoid.
 
 ### Serializable
 
-This is the *highest*isolation level.
+This is the *highest* isolation level.
 
-With a lock-based [concurrency control](https://en.wikipedia.org/wiki/Concurrency_control) DBMS implementation, [serializability](https://en.wikipedia.org/wiki/Serializability) requires read and write locks (acquired on selected data) to be released at the end of the transaction. Alsorange-locks must be acquired when a [SELECT](https://en.wikipedia.org/wiki/Select_(SQL)) query uses a rangedWHEREclause, especially to avoid the [phantom reads](https://en.wikipedia.org/wiki/Isolation_(database_systems)#Phantom_reads) phenomenon.
+With a lock-based [concurrency control](https://en.wikipedia.org/wiki/Concurrency_control) DBMS implementation, [serializability](https://en.wikipedia.org/wiki/Serializability) requires read and write locks (acquired on selected data) to be released at the end of the transaction. Alsorange-locks must be acquired when a [SELECT](https://en.wikipedia.org/wiki/Select_(SQL)) query uses a ranged WHERE clause, especially to avoid the [phantom reads](https://en.wikipedia.org/wiki/Isolation_(database_systems)#Phantom_reads) phenomenon.
 
 When using non-lock based concurrency control, no locks are acquired; however, if the system detects awrite collisionamong several concurrent transactions, only one of them is allowed to commit. See [snapshot isolation](https://en.wikipedia.org/wiki/Snapshot_isolation) for more details on this topic.
 
 ### Repeatable reads
 
-In this isolation level, a lock-based [concurrency control](https://en.wikipedia.org/wiki/Concurrency_control) DBMS implementation keeps read and write locks (acquired on selected data) until the end of the transaction. However, range-locksare not managed, so [phantom reads](https://en.wikipedia.org/wiki/Isolation_(database_systems)#Phantom_reads) can occur.
+In this isolation level, a lock-based [concurrency control](https://en.wikipedia.org/wiki/Concurrency_control) DBMS implementation keeps read and write locks (acquired on selected data) until the end of the transaction. However, range-locks are not managed, so [phantom reads](https://en.wikipedia.org/wiki/Isolation_(database_systems)#Phantom_reads) can occur.
 
 Write skew is possible at this isolation level, a phenomenon where two writes are allowed to the same column(s) in a table by two different writers (who have previously read the columns they are updating), resulting in the column having data that is a mix of the two transactions
 
 ### Read committed
 
-In this isolation level, a lock-based [concurrency control](https://en.wikipedia.org/wiki/Concurrency_control) DBMS implementation keeps write locks (acquired on selected data) until the end of the transaction, but read locks are released as soon as the [SELECT](https://en.wikipedia.org/wiki/Select_(SQL)) operation is performed (so the [non-repeatable reads phenomenon](https://en.wikipedia.org/wiki/Isolation_(database_systems)#Non-repeatable_reads) can occur in this isolation level). As in the previous level, range-locksare not managed.
+In this isolation level, a lock-based [concurrency control](https://en.wikipedia.org/wiki/Concurrency_control) DBMS implementation keeps write locks (acquired on selected data) until the end of the transaction, but read locks are released as soon as the [SELECT](https://en.wikipedia.org/wiki/Select_(SQL)) operation is performed (so the [non-repeatable reads phenomenon](https://en.wikipedia.org/wiki/Isolation_(database_systems)#Non-repeatable_reads) can occur in this isolation level). As in the previous level, range-locks are not managed.
 
 Putting it in simpler words, **read committed is an isolation level that guarantees that any data read is committed at the moment it is read**. It simply restricts the reader from seeing any intermediate, uncommitted, 'dirty' read. It makes no promise whatsoever that if the transaction re-issues the read, it will find the same data; data is free to change after it is read.
 
 ### Read uncommitted
 
-This is the *lowest* isolation level. In this level, [dirty reads](https://en.wikipedia.org/wiki/Isolation_(database_systems)#Dirty_reads) are allowed, so one transaction may see*not-yet-committed*changes made by other transactions.
+This is the *lowest* isolation level. In this level, dirty reads are allowed, so one transaction may see *not-yet-committed* changes made by other transactions.
 
 | **Isolation level** | **Dirty reads** | **Lost updates** | **Non-repeatable reads** | **Phantoms** |
 |------------------|------------|-------------|--------------------|-----------|
@@ -87,15 +87,23 @@ The isolation levels defined as part of SQL-92 standard only focused on anomalie
 
 There are two additional isolation levels:
 
-1. CURSOR STABILITY
-    - Between repeatable reads and read committed
-    - Prevents "Lost Update" Anomaly.
-    - Default isolation level in IBM DB2.
+### 1. Cursor Stability
 
-2. SNAPSHOT ISOLATION
-    - Guarantees that all reads made in a transaction see a consistent snapshot of the database that existed at the time the transaction started.
-    - A transaction will commit only if its writes do not conflict with any concurrent updates made since that snapshot.
-    - Susceptible to write skew anomaly.
+- Between repeatable reads and read committed
+- Prevents "Lost Update" Anomaly
+- Default isolation level in IBM DB2
+
+### 2. Snapshot Isolation
+
+- Guarantees that all reads made in a transaction see a consistent snapshot of the database that existed at the time the transaction started.
+- A transaction will commit only if its writes do not conflict with any concurrent updates made since that snapshot.
+- Susceptible to write skew anomaly.
+
+#### Write Skew Anomaly
+
+In a *write skew* anomaly, two transactions (T1 and T2) concurrently read an overlapping data set (e.g. values V1 and V2), concurrently make disjoint updates (e.g. T1 updates V1, T2 updates V2), and finally concurrently commit, neither having seen the update performed by the other. Were the system serializable, such an anomaly would be impossible, as either T1 or T2 would have to occur "first", and be visible to the other. In contrast, snapshot isolation permits write skew anomalies.
+
+[Snapshot isolation - Wikipedia](https://en.wikipedia.org/wiki/Snapshot_isolation)
 
 ![image](../../media/Isolation-Levels-image1.jpg)
 
@@ -167,3 +175,5 @@ https://dbmsmusings.blogspot.com/2019/08/an-explanation-of-difference-between.ht
 http://dbmsmusings.blogspot.com/2019/10/introducing-slog-cheating-low-latency.html
 
 [Transaction Isolation in Postgres, explained](https://www.thenile.dev/blog/transaction-isolation-postgres)
+
+[What write skew looks like](https://www.cockroachlabs.com/blog/what-write-skew-looks-like/)

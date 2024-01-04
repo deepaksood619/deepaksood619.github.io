@@ -178,6 +178,8 @@ cd /var/lib/docker/volumes/druid-volume/_data/segment-cache
 
 `docker cp <containerId>:/file/path/within/container /host/path/target`
 
+`docker cp from_local_system_path to_docker_container_path`
+
 ## Cleanup Commands
 
 ```bash

@@ -7,5 +7,5 @@
 - [HTTP](http)
 - [Helpers / Functions](helpers-functions)
 - [Configurations](configurations)
-- [Commands](commands)
+- [Commands](languages/php/codeigniter/commands.md)
 - [Others](languages/php/codeigniter/others.md)

@@ -150,6 +150,12 @@ Eroom's law is the observation that drug discovery is becoming slower and more e
 
 Software also getting slower with improved processors because developers are writing inefficient code.
 
+## Dennard scaling
+
+In [semiconductor electronics](https://en.wikipedia.org/wiki/Semiconductor_electronics "Semiconductor electronics"), **Dennard scaling**, also known as **MOSFET scaling**, is a [scaling law](https://en.wikipedia.org/wiki/Scaling_law "Scaling law") which states roughly that, as [transistors](https://en.wikipedia.org/wiki/Transistor "Transistor") get smaller, their [power density](https://en.wikipedia.org/wiki/Power_density "Power density") stays constant, so that the power use stays in proportion with area; both [voltage](https://en.wikipedia.org/wiki/Voltage "Voltage") and [current](https://en.wikipedia.org/wiki/Electric_current "Electric current") scale (downward) with length. The law, originally formulated for [MOSFETs](https://en.wikipedia.org/wiki/MOSFET "MOSFET"), is based on a 1974 paper co-authored by [Robert H. Dennard](https://en.wikipedia.org/wiki/Robert_H._Dennard "Robert H. Dennard"), after whom it is named.
+
+[Dennard scaling - Wikipedia](https://en.wikipedia.org/wiki/Dennard_scaling)
+
 ## [Metcalfe's Law](https://en.wikipedia.org/wiki/Metcalfe%27s_law#Limitations)
 
 The value of a telecommunications network is proportional to the square of the number of connected users of the system...Within the context of social networks, many, including Metcalfe himself, have proposed modified models using (n× logn) proportionality rather than n^2 proportionality.

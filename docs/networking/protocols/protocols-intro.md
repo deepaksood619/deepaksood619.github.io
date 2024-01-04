@@ -29,7 +29,12 @@ Because it is a simple transaction, it is useful for simple communications like 
 ## FTP
 
 FTP stands for file transfer protocol. It is also in the application layer and provides a way of transferring complete files from one host to another.
+
 It is inherently insecure, so it is not recommended for any externally facing network unless it is implemented as a public, download-only resource.
+
+Standard FTP does not come with built-in encryption. Without encryption, your data is exposed during transmission, making it susceptible to unauthorized access. Secondly, FTP relies on username and password authentication, and these credentials are transmitted in clear text. If intercepted, hackers can easily obtain login information, potentially leading to unauthorized access to your files. If you are dealing with sensitive data, using FTP to share large files might not be a great choice.
+
+FTP is also susceptible to connectivity issues. In scenarios where time is of the essence, the potential disruptions to file transfers due to internet downtime can pose significant challenges. Finally, the setup process of FTP demands a level of technical proficiency and time investment, making it unsuitable for some businesses.
 
 ## SSH
 

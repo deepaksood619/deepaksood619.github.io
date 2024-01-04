@@ -98,9 +98,9 @@ exit code=137 means that either (1) something killed the container that hosted t
 ### `kubectl [command] [TYPE] [NAME] [flags]`
 
 - **command**: Specifies the operation that you want to perform on one or more resources, for example **create**, **get**, **describe**, **delete**.
-- **TYPE**: Specifies the[resource type](https://kubernetes.io/docs/reference/kubectl/overview/#resource-types). Resource types are case-insensitive and you can specify the singular, plural, or abbreviated forms.
+- **TYPE**: Specifies the [resource type](https://kubernetes.io/docs/reference/kubectl/overview/#resource-types). Resource types are case-insensitive and you can specify the singular, plural, or abbreviated forms.
 
-- **NAME**: Specifies the name of the resource. Names are case-sensitive. If the name is omitted, details for all resources are displayed, for example**$ kubectl get pods**.
+- **NAME**: Specifies the name of the resource. Names are case-sensitive. If the name is omitted, details for all resources are displayed, for example `$ kubectl get pods`
 
 - **flags**: Specifies optional flags. For example, you can use the **-s** or **--server** flags to specify the address and port of the Kubernetes API server.
 

@@ -114,6 +114,6 @@ http://www.crypto-it.net/eng/theory/padding.html
 
 ## Courses
 
-https://www.youtube.com/playlist?list=PLAwxTw4SYaPnCeih6BPvJ5GdqqThGcWlX
+[Applied Cryptography - YouTube](https://www.youtube.com/playlist?list=PLAwxTw4SYaPnCeih6BPvJ5GdqqThGcWlX)
 
-https://www.youtube.com/playlist?list=PLE4V3KXzxPRQYUil17HB6XcIu-JMebD7n
+[Cryptography Course - YouTube](https://www.youtube.com/playlist?list=PLE4V3KXzxPRQYUil17HB6XcIu-JMebD7n)
