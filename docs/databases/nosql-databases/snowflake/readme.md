@@ -10,3 +10,4 @@
 - [Commands](databases/nosql-databases/snowflake/commands.md)
 - [Recovery](databases/nosql-databases/snowflake/recovery.md)
 - [Documentation](databases/nosql-databases/snowflake/documentation.md)
+- [Terms](databases/nosql-databases/snowflake/terms.md)

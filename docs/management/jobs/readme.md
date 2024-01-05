@@ -164,6 +164,8 @@ Where you apply to a lot of jobs
 
 ### How to apply
 
+[IndiaTechSalaries | Explore & Compare Tech Salaries in India](https://indiatechsalaries.com/)
+
 #### 1. Make a list of target companies
 
 - Not just companies you'll submit an app to, but companies you'd be psyched to work for!

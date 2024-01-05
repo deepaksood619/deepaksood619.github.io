@@ -1,5 +1,17 @@
 # Optimizations
 
+## Micro-partitions
+
+All data in Snowflake tables is automatically divided into micro-partitions, which are contiguous units of storage. Each micro-partition contains between 50 MB and 500 MB of uncompressed data (note that the actual size in Snowflake is smaller because data is always stored compressed). Groups of rows in tables are mapped into individual micro-partitions, organized in a columnar fashion. This size and structure allows for extremely granular pruning of very large tables, which can be comprised of millions, or even hundreds of millions, of micro-partitions.
+
+Snowflake stores metadata about all rows stored in a micro-partition, including:
+
+- The range of values for each of the columns in the micro-partition.
+- The number of distinct values.
+- Additional properties used for both optimization and efficient query processing.
+
+Used for fine-grained pruning for faster queries
+
 ## Snowflake Clustering
 
 In Snowflake, clustering is a type of data partitioning, where unique cluster keys are specified for each table. Cluster keys are subsets of a table's columns that are used to co-locate data within the table. These keys are appropriate for comprehensive tables. The process of managing clustered data in a table is known as re-clustering.
@@ -46,6 +58,8 @@ It's worth noting that while clustering can significantly improve performance fo
 #### Maintenance Considerations
 
 Clustering is not a one-time operation. It's an ongoing process, and the system will automatically reorganize data based on the clustering key during certain operations, such as data loading.
+
+[Micro-partitions & Data Clustering | Snowflake Documentation](https://docs.snowflake.com/en/user-guide/tables-clustering-micropartitions)
 
 ## Data compression and metadata storage
 

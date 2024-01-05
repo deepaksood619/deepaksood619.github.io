@@ -8,6 +8,8 @@ https://www.toptal.com/sql/intro-to-sql-windows-functions
 
 https://mjk.space/advances-sql-window-frames
 
+### Questions
+
 #### What does a window function in SQL do?
 
 A window function performs calculations over a set of rows, and uses information within the individual rows when required.

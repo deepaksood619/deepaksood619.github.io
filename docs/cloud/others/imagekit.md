@@ -30,6 +30,7 @@
 - [Perfectly Optimize Images Using ImageKit’s Tools And Analytics](https://imagekit.io/blog/how-to-use-imagekits-tools-and-analytics-to-perfectly-optimize-your-images/)
 - [React Image Optimization: A Guide for Web Developers](https://imagekit.io/blog/react-image-optimization/)
 - [6 Best Ways To Share Large Files For Seamless Collaboration](https://imagekit.io/blog/how-to-share-large-files-over-internet/)
+- [How can I retrieve my original image with ImageKit? | ImageKit Help Center](https://help.imagekit.io/en/articles/3129423-how-can-i-retrieve-my-original-image-with-imagekit)
 
 ### Settings
 
