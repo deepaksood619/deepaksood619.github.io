@@ -102,6 +102,30 @@ Snowflake actually uses a multi-cluster, shared data architecture. The storage a
 
 [Virtual Views](https://dbdb.io/browse?views=virtual-views)
 
+### Features
+
+- Multiple Cloud Provider Support
+- Unlimited Storage & Compute
+- Data Platform as Service
+- Unique 3 Layer Architecture
+- Virtual Warehouse (compute)
+- Support for semi structure data
+- Snowflake Time Travel
+- Snowflake Zero Copy Clone
+- Continuous Data Loading (Snowpipe)
+- Support for ANSI SQL + Extended SQL
+- Snowflake Micropartition / Clustering
+- Snowflake Data Security & Encryption
+- Snowflake RBAC & DAC
+- Data Sharing & Reader's Account
+- Data Replication & Failover
+- Snowflake Connectors & Drivers
+- Tasks / Task Scheduling / DAGs
+- Streams (CDC - any changes in the table)
+- Sequences
+  - Sequences are used to generate unique numbers across sessions and statements, including concurrent statements. They can be used to generate values for a primary key or any column that requires a unique value.
+- Snowpark for Python, Java ans Scala - Runtimes and libraries that securely deploy and process non-SQL code in Snowflake.
+
 ## Others
 
 - Streamlit
@@ -110,7 +134,7 @@ Snowflake actually uses a multi-cluster, shared data architecture. The storage a
 
 [**Snowflake SnowPro Certification - Tutorial - YouTube**](https://www.youtube.com/playlist?list=PLba2xJ7yxHB71_GEKbQDBk0EKMq6b6S-k)
 
-[**Snowflake Tutorial - YouTube**](https://www.youtube.com/playlist?list=PLba2xJ7yxHB7SWc4Sm-Sp3uGN74ulI4pS)
+[Snowflake Tutorial - YouTube](https://www.youtube.com/playlist?list=PLba2xJ7yxHB7SWc4Sm-Sp3uGN74ulI4pS)
 
 [The Snowflake Data Cloud - Mobilize Data, Apps, and AI](https://www.snowflake.com/en/)
 
