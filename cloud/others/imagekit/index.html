@@ -18,8 +18,8 @@
 
 
 <script src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5616865131274062" async crossorigin="anonymous"></script><link rel="stylesheet" href="/assets/css/styles.ddece09e.css">
-<script src="/assets/js/runtime~main.74699295.js" defer="defer"></script>
-<script src="/assets/js/main.b6c2c1a6.js" defer="defer"></script>
+<script src="/assets/js/runtime~main.b5e3b20b.js" defer="defer"></script>
+<script src="/assets/js/main.bde5e074.js" defer="defer"></script>
 </head>
 <body class="navigation-with-keyboard">
 <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TN3KBF4" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
@@ -63,6 +63,39 @@
 <li><a href="https://imagekit.io/blog/how-to-share-large-files-over-internet/" target="_blank" rel="noopener noreferrer">6 Best Ways To Share Large Files For Seamless Collaboration</a></li>
 <li><a href="https://help.imagekit.io/en/articles/3129423-how-can-i-retrieve-my-original-image-with-imagekit" target="_blank" rel="noopener noreferrer">How can I retrieve my original image with ImageKit? | ImageKit Help Center</a></li>
 </ul>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="caching">Caching<a href="#caching" class="hash-link" aria-label="Direct link to Caching" title="Direct link to Caching">​</a></h3>
+<p>Age on &quot;Embedded URL&quot; is 178571 seconds, i.e. approx 50 hours.
+Age on the &quot;Individual URL is 12951 sectors i.e. approx 3.5 hours.
+​
+If I try to skip the cache on the embedded URL by adding a versioning parameter v1, it does give the updated dimensions.
+​
+Purging the cache for this URL or adding a versioning parameter should help you fix this.</p>
+<hr>
+<p>ImageKit follows a recommended setting of a 365-day cache time, by default. If you&#x27;d like this cache time to be customised, there are two ways to resolve this for you -</p>
+<ol>
+<li><strong>Versioning of your image URLs</strong>
+Since caches are based on the image URL, adding a simple parameter like the last updated timestamp to the URL is the most effective way of automatically clearing cache, when it is actually needed.
+For eg, If there are two images 1.jpg and 2.jpg both of them get updated at timestamp 156237123. There URLs would look like - 1.jpg?t=156237123 and 2.jpg?t=156237123
+Now, if image 2.jpg is updated, you can use the last updated timestamp from your database to change the value of the parameter 1.jpg?t=156237123 (this URL continues to remain cached as long as possible) 2.jpg?t=158268232 (this URL is now automatically purged from cache)It requires a small change to your code, but this would work the best regardless of what service you use.
+​</li>
+<li><strong>Using a custom cache-control time with ImageKit</strong>
+This option allows caching based on the cache control headers being passed from your <a href="https://app.intercom.com/integration/configure-origin" target="_blank" rel="noopener noreferrer">origin</a> attached to ImageKit.io. For example, if your origin <a href="https://storage.googleapis.com/" target="_blank" rel="noopener noreferrer">https://storage.googleapis.com/</a> sends a cache-control header to cache a file for 1 hour (which it does on your website), ImageKit.io applies the cache-control header across all its internal caches, generated transformations, and CDN.This ensures that the cache control set by you is obeyed at all times.
+Please note: We will have to enable this option for you at our end. And this can only be enabled on a paid plan.</li>
+</ol>
+<p>I would personally recommend that if cache clear can be resolved with option 1, then please prefer that. It maximises the benefit of caching on the CDN while purging it for only images that actually get updated, instead of a periodic cache clear for all images.
+​
+In case there is a specific URL that you would like to purge cache for, as an exception, you can always do so from the dashboard here: <a href="https://imagekit.io/dashboard/purge-cache" target="_blank" rel="noopener noreferrer">https://imagekit.io/dashboard/purge-cache</a>. More details on how to use this method of cache purge here: <a href="https://docs.imagekit.io/features/cache-purging" target="_blank" rel="noopener noreferrer">https://docs.imagekit.io/features/cache-purging</a></p>
+<hr>
+<p>The cache purging methodology would essentially remain the same even if images are stored on ImageKit&#x27;s media library.</p>
+<p>However, it does simplify the process for you.
+If you make any edits to the image, you can save it as a new version or as a new file on the media library.</p>
+<p>If a new version of an image is created on ImageKit&#x27;s media library, we update the time stamp on the newer version&#x27;s URL.
+If you save the image as a new file, we added a random string to the image&#x27;s name, thus also updating the URL.
+If you replace the old URL with the new URL on the front end, it would have an effect of skipping the cached response of the older version.</p>
+<p>For example: If this is the older image: <a href="https://ik.imagekit.io/uf5ueu4sr6/sakura%20tree%20in%20bloom.jpg?updatedAt=1704462165134" target="_blank" rel="noopener noreferrer">https://ik.imagekit.io/uf5ueu4sr6/sakura%20tree%20in%20bloom.jpg?updatedAt=1704462165134</a>
+I make edits and create this newer version: <a href="https://ik.imagekit.io/uf5ueu4sr6/sakura%20tree%20in%20bloom.jpg?updatedAt=1704462541504" target="_blank" rel="noopener noreferrer">https://ik.imagekit.io/uf5ueu4sr6/sakura%20tree%20in%20bloom.jpg?updatedAt=1704462541504</a>
+If you update the time stamp on your URL to the one on newer version, you skip the cached response, without having to purge the cache.</p>
+<p><a href="https://docs.imagekit.io/api-reference/media-api/purge-cache" target="_blank" rel="noopener noreferrer">Purge cache - ImageKit.io Docs</a></p>
 <h3 class="anchor anchorWithStickyNavbar_LWe7" id="settings">Settings<a href="#settings" class="hash-link" aria-label="Direct link to Settings" title="Direct link to Settings">​</a></h3>
 <ul>
 <li>Use best format for Image Delivery - Turned on</li>
@@ -88,6 +121,6 @@
 <li><a href="https://aws.amazon.com/solutions/implementations/serverless-image-handler/" target="_blank" rel="noopener noreferrer">Serverless Image Handler | AWS Solutions</a></li>
 <li><a href="https://web.dev/image-cdns/" target="_blank" rel="noopener noreferrer">Use image CDNs to optimize images</a></li>
 <li>Cloudinary</li>
-</ul></div><footer class="theme-doc-footer docusaurus-mt-lg"><div class="theme-doc-footer-edit-meta-row row"><div class="col"><a href="https://github.com/deepaksood619/deepaksood619.github.io/tree/master/docs/cloud/others/imagekit.md" target="_blank" rel="noopener noreferrer" class="theme-edit-this-page"><svg fill="currentColor" height="20" width="20" viewBox="0 0 40 40" class="iconEdit_Z9Sw" aria-hidden="true"><g><path d="m34.5 11.7l-3 3.1-6.3-6.3 3.1-3q0.5-0.5 1.2-0.5t1.1 0.5l3.9 3.9q0.5 0.4 0.5 1.1t-0.5 1.2z m-29.5 17.1l18.4-18.5 6.3 6.3-18.4 18.4h-6.3v-6.2z"></path></g></svg>Edit this page</a></div><div class="col lastUpdated_vwxv"><span class="theme-last-updated">Last updated<!-- --> on <b><time datetime="2024-01-05T08:09:37.000Z">Jan 5, 2024</time></b></span></div></div></footer></article><nav class="pagination-nav docusaurus-mt-lg" aria-label="Docs pages"><a class="pagination-nav__link pagination-nav__link--prev" href="/cloud/others/google-cloud-platform"><div class="pagination-nav__sublabel">Previous</div><div class="pagination-nav__label">Google Cloud Platform</div></a><a class="pagination-nav__link pagination-nav__link--next" href="/cloud/others/openstack"><div class="pagination-nav__sublabel">Next</div><div class="pagination-nav__label">Openstack</div></a></nav></div></div><div class="col col--3"><div class="tableOfContents_bqdL thin-scrollbar theme-doc-toc-desktop"><ul class="table-of-contents table-of-contents__left-border"><li><a href="#intro" class="table-of-contents__link toc-highlight">Intro</a></li><li><a href="#features" class="table-of-contents__link toc-highlight">Features</a></li><li><a href="#optimizations" class="table-of-contents__link toc-highlight">Optimizations</a></li><li><a href="#settings" class="table-of-contents__link toc-highlight">Settings</a></li><li><a href="#libraries--sdks" class="table-of-contents__link toc-highlight">Libraries / SDKs</a></li><li><a href="#others" class="table-of-contents__link toc-highlight">Others</a></li></ul></div></div></div></div></main></div></div></div><footer class="footer footer--dark"><div class="container container-fluid"><div class="footer__bottom text--center"><div class="footer__copyright">Copyright © 2024 Deep Notes, Built with ❤️</div></div></div></footer></div>
+</ul></div><footer class="theme-doc-footer docusaurus-mt-lg"><div class="theme-doc-footer-edit-meta-row row"><div class="col"><a href="https://github.com/deepaksood619/deepaksood619.github.io/tree/master/docs/cloud/others/imagekit.md" target="_blank" rel="noopener noreferrer" class="theme-edit-this-page"><svg fill="currentColor" height="20" width="20" viewBox="0 0 40 40" class="iconEdit_Z9Sw" aria-hidden="true"><g><path d="m34.5 11.7l-3 3.1-6.3-6.3 3.1-3q0.5-0.5 1.2-0.5t1.1 0.5l3.9 3.9q0.5 0.4 0.5 1.1t-0.5 1.2z m-29.5 17.1l18.4-18.5 6.3 6.3-18.4 18.4h-6.3v-6.2z"></path></g></svg>Edit this page</a></div><div class="col lastUpdated_vwxv"><span class="theme-last-updated">Last updated<!-- --> on <b><time datetime="2024-01-06T08:43:52.000Z">Jan 6, 2024</time></b></span></div></div></footer></article><nav class="pagination-nav docusaurus-mt-lg" aria-label="Docs pages"><a class="pagination-nav__link pagination-nav__link--prev" href="/cloud/others/google-cloud-platform"><div class="pagination-nav__sublabel">Previous</div><div class="pagination-nav__label">Google Cloud Platform</div></a><a class="pagination-nav__link pagination-nav__link--next" href="/cloud/others/openstack"><div class="pagination-nav__sublabel">Next</div><div class="pagination-nav__label">Openstack</div></a></nav></div></div><div class="col col--3"><div class="tableOfContents_bqdL thin-scrollbar theme-doc-toc-desktop"><ul class="table-of-contents table-of-contents__left-border"><li><a href="#intro" class="table-of-contents__link toc-highlight">Intro</a></li><li><a href="#features" class="table-of-contents__link toc-highlight">Features</a></li><li><a href="#optimizations" class="table-of-contents__link toc-highlight">Optimizations</a></li><li><a href="#caching" class="table-of-contents__link toc-highlight">Caching</a></li><li><a href="#settings" class="table-of-contents__link toc-highlight">Settings</a></li><li><a href="#libraries--sdks" class="table-of-contents__link toc-highlight">Libraries / SDKs</a></li><li><a href="#others" class="table-of-contents__link toc-highlight">Others</a></li></ul></div></div></div></div></main></div></div></div><footer class="footer footer--dark"><div class="container container-fluid"><div class="footer__bottom text--center"><div class="footer__copyright">Copyright © 2024 Deep Notes, Built with ❤️</div></div></div></footer></div>
 </body>
 </html>
