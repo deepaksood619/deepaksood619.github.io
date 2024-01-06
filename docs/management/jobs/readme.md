@@ -11,6 +11,8 @@
 
 Where you apply to a lot of jobs
 
+In early career, taking bets vs random job hopping is critical
+
 ### Tests + Outsourcing
 
 - Crossover test

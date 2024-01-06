@@ -38,23 +38,35 @@
   - https://acodez.in
 - Product
   - MBA - IIM
-- **Resource Augementation**
-  - https://tvsnext.io
-  - https://www.doodleblue.com
-- **Assessment Platform**
-  - SpeedExam
-  - Rounds
-    - MCQ test (20 question 30 mins)
-    - Coding test (2 question 30 mins)
-  - LinkedIn
-  - https://www.hackerrank.com/products/developer-skills-platform/interview-free
-- **Applicant tracking software/platforms** - https://www.greenhouse.com
-  - freshteam from freshworks
-  - http://www.careerist.in/contact-us.html
 - IIITD Alma Connect
   - https://iiitdelhi.almaconnect.com/contributions/sneak_peek?frm=main_menu
 - IIITD Facebook group
 - MTech Group
+
+### Resource Augmentation
+
+- https://tvsnext.io
+- https://www.doodleblue.com
+- [Custom Software Development Services | IT Solutions | Benthon Labs](https://www.benthonlabs.com/)
+
+### Assessment Platform
+
+- SpeedExam
+- Rounds
+  - MCQ test (20 question 30 mins)
+  - Coding test (2 question 30 mins)
+- LinkedIn
+- https://www.hackerrank.com/products/developer-skills-platform/interview-free
+
+### Applicant tracking software/platforms
+
+- https://www.greenhouse.com
+- freshteam from freshworks
+- http://www.careerist.in/contact-us.html
+
+### Others
+
+Background verification tool - [verifydirectintl.com/index.aspx](https://verifydirectintl.com/)
 
 https://auren.substack.com/p/moneyballing-for-talent
 

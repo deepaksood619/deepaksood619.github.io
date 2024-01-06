@@ -109,6 +109,7 @@ Give tech talk - Learning + Note taking + Zettlekasten - Obsidian / Onenote + Do
 - [GitHub - awesome-selfhosted/awesome-selfhosted: A list of Free Software network services and web applications which can be hosted on your own servers](https://github.com/awesome-selfhosted/awesome-selfhosted)
 - [GitHub - trimstray/the-book-of-secret-knowledge: A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.](https://github.com/trimstray/the-book-of-secret-knowledge)
 - [GitHub - chubin/cheat.sh: the only cheat sheet you need](https://github.com/chubin/cheat.sh)
+- [GitHub - papers-we-love/papers-we-love: Papers from the computer science community to read and discuss.](https://github.com/papers-we-love/papers-we-love)
 
 ## Fundamental Tech
 

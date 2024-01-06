@@ -24,6 +24,8 @@
 { "title": { "$regex": "(?i)The Village" } }
 
 {"user": ObjectId("64591b347266058256f16f43")}
+
+{"user": ObjectId("64591b347266058256f16f43"), "type": "DR"}
 ```
 
 [Query Your Data — MongoDB Compass](https://www.mongodb.com/docs/compass/current/query/filter/

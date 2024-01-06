@@ -106,10 +106,8 @@ https://www.moneycontrol.com/india-investors-portfolio
 
 ## Links
 
-[Contrarian Investing | Is Contrarian Investing Profitable? | ET Money](https://youtu.be/vnQRuNuJckE)
-
-[8 Contrarian Investing Strategies | 31% Return from "Portfolio of Losers" | Contra Mutual Funds - YouTube](https://www.youtube.com/watch?v=EtuJa-TnSc4)
-
-[Stock Market Investing Strategies - YouTube](https://www.youtube.com/playlist?list=PLJND7T5G_LHDgNeP6OgIrwlOC0h0LNAH6)
-
-[How should Traders & Investors, trade or invest in a Bear Market? - YouTube](https://www.youtube.com/watch?v=GIIs2Pp_COY)
+- [Contrarian Investing | Is Contrarian Investing Profitable? | ET Money](https://youtu.be/vnQRuNuJckE)
+- [8 Contrarian Investing Strategies | 31% Return from "Portfolio of Losers" | Contra Mutual Funds - YouTube](https://www.youtube.com/watch?v=EtuJa-TnSc4)
+- [Stock Market Investing Strategies - YouTube](https://www.youtube.com/playlist?list=PLJND7T5G_LHDgNeP6OgIrwlOC0h0LNAH6)
+- [How should Traders & Investors, trade or invest in a Bear Market? - YouTube](https://www.youtube.com/watch?v=GIIs2Pp_COY)
+- [Finshots is a stock-picking genius. But…](https://finshots.in/markets/finshots-is-a-stock-picking-genius-but/)

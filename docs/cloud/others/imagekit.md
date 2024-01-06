@@ -32,6 +32,49 @@
 - [6 Best Ways To Share Large Files For Seamless Collaboration](https://imagekit.io/blog/how-to-share-large-files-over-internet/)
 - [How can I retrieve my original image with ImageKit? | ImageKit Help Center](https://help.imagekit.io/en/articles/3129423-how-can-i-retrieve-my-original-image-with-imagekit)
 
+### Caching
+
+Age on "Embedded URL" is 178571 seconds, i.e. approx 50 hours.
+Age on the "Individual URL is 12951 sectors i.e. approx 3.5 hours.
+​
+If I try to skip the cache on the embedded URL by adding a versioning parameter v1, it does give the updated dimensions.
+​
+Purging the cache for this URL or adding a versioning parameter should help you fix this.
+
+---
+
+ImageKit follows a recommended setting of a 365-day cache time, by default. If you'd like this cache time to be customised, there are two ways to resolve this for you -
+
+1. **Versioning of your image URLs**
+    Since caches are based on the image URL, adding a simple parameter like the last updated timestamp to the URL is the most effective way of automatically clearing cache, when it is actually needed.
+    For eg, If there are two images 1.jpg and 2.jpg both of them get updated at timestamp 156237123. There URLs would look like - 1.jpg?t=156237123 and 2.jpg?t=156237123
+    Now, if image 2.jpg is updated, you can use the last updated timestamp from your database to change the value of the parameter 1.jpg?t=156237123 (this URL continues to remain cached as long as possible) 2.jpg?t=158268232 (this URL is now automatically purged from cache)It requires a small change to your code, but this would work the best regardless of what service you use.
+    ​
+2. **Using a custom cache-control time with ImageKit**
+    This option allows caching based on the cache control headers being passed from your [origin](https://app.intercom.com/integration/configure-origin) attached to ImageKit.io. For example, if your origin [https://storage.googleapis.com/](https://storage.googleapis.com/) sends a cache-control header to cache a file for 1 hour (which it does on your website), ImageKit.io applies the cache-control header across all its internal caches, generated transformations, and CDN.This ensures that the cache control set by you is obeyed at all times.
+    Please note: We will have to enable this option for you at our end. And this can only be enabled on a paid plan.
+
+I would personally recommend that if cache clear can be resolved with option 1, then please prefer that. It maximises the benefit of caching on the CDN while purging it for only images that actually get updated, instead of a periodic cache clear for all images.
+​
+In case there is a specific URL that you would like to purge cache for, as an exception, you can always do so from the dashboard here: [https://imagekit.io/dashboard/purge-cache](https://imagekit.io/dashboard/purge-cache). More details on how to use this method of cache purge here: [https://docs.imagekit.io/features/cache-purging](https://docs.imagekit.io/features/cache-purging)
+
+---
+
+The cache purging methodology would essentially remain the same even if images are stored on ImageKit's media library.
+
+However, it does simplify the process for you.
+If you make any edits to the image, you can save it as a new version or as a new file on the media library.
+
+If a new version of an image is created on ImageKit's media library, we update the time stamp on the newer version's URL.
+If you save the image as a new file, we added a random string to the image's name, thus also updating the URL.
+If you replace the old URL with the new URL on the front end, it would have an effect of skipping the cached response of the older version.
+
+For example: If this is the older image: [https://ik.imagekit.io/uf5ueu4sr6/sakura%20tree%20in%20bloom.jpg?updatedAt=1704462165134](https://ik.imagekit.io/uf5ueu4sr6/sakura%20tree%20in%20bloom.jpg?updatedAt=1704462165134)
+I make edits and create this newer version: [https://ik.imagekit.io/uf5ueu4sr6/sakura%20tree%20in%20bloom.jpg?updatedAt=1704462541504](https://ik.imagekit.io/uf5ueu4sr6/sakura%20tree%20in%20bloom.jpg?updatedAt=1704462541504)
+If you update the time stamp on your URL to the one on newer version, you skip the cached response, without having to purge the cache.
+
+[Purge cache - ImageKit.io Docs](https://docs.imagekit.io/api-reference/media-api/purge-cache)
+
 ### Settings
 
 - Use best format for Image Delivery - Turned on

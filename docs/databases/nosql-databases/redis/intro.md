@@ -177,30 +177,17 @@ https://redis.io/topics/faq
 
 ## References
 
-[https://redis.io/](https://redis.io/commands)
-
-https://redis.io/commands
-
-https://www.tutorialspoint.com/redis
-
-https://redis.io/topics/rediscli
-
-https://dzone.com/articles/introduction-to-redis-data-structures-bitmaps
-
-[Redis Crash Course](https://www.youtube.com/watch?v=sVCZo5B8ghE)
-
-https://www.youtube.com/channel/UCybK6TMZFQeSN74jzTiDWfg
-
-https://university.redislabs.com/courses/course-v1:redislabs+RU202+2020_03/about
-
-https://university.redislabs.com/courses/course-v1:redislabs+RU201+2020_03/about
-
-https://github.com/antirez/redis
-
-[The Bucket Pattern: NoSQL Data Modeling with Redis Stack](https://www.youtube.com/watch?v=5m4YgClPKCg)
-
-[The Revision Pattern: NoSQL Data Modeling](https://www.youtube.com/watch?v=AtPcQ-jpP6M)
-
-[Redis Can Do More Than Caching - ByteByteGo Newsletter](https://blog.bytebytego.com/p/redis-can-do-more-than-caching)
-
-[The 6 Most Impactful Ways Redis is Used in Production Systems](https://blog.bytebytego.com/p/the-6-most-impactful-ways-redis-is)
+- [https://redis.io/](https://redis.io/commands)
+- https://redis.io/commands
+- https://www.tutorialspoint.com/redis
+- https://redis.io/topics/rediscli
+- https://dzone.com/articles/introduction-to-redis-data-structures-bitmaps
+- [Redis Crash Course](https://www.youtube.com/watch?v=sVCZo5B8ghE)
+- https://www.youtube.com/channel/UCybK6TMZFQeSN74jzTiDWfg
+- https://university.redislabs.com/courses/course-v1:redislabs+RU202+2020_03/about
+- https://university.redislabs.com/courses/course-v1:redislabs+RU201+2020_03/about
+- https://github.com/antirez/redis
+- [The Bucket Pattern: NoSQL Data Modeling with Redis Stack](https://www.youtube.com/watch?v=5m4YgClPKCg)
+- [The Revision Pattern: NoSQL Data Modeling](https://www.youtube.com/watch?v=AtPcQ-jpP6M)
+- [Redis Can Do More Than Caching - ByteByteGo Newsletter](https://blog.bytebytego.com/p/redis-can-do-more-than-caching)
+- [The 6 Most Impactful Ways Redis is Used in Production Systems](https://blog.bytebytego.com/p/the-6-most-impactful-ways-redis-is)

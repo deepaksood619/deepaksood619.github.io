@@ -468,6 +468,8 @@ And that misconception is called the broken window fallacy.
 
 [Every Logical Fallacy Explained in 4 Minutes - YouTube](https://www.youtube.com/watch?v=VZbYecAkGo0&ab_channel=Explainem)
 
+[31 logical fallacies in 8 minutes - YouTube](https://www.youtube.com/watch?v=Qf03U04rqGQ&ab_channel=JillBearup)
+
 ## Links
 
 [LessWrong - Wikipedia](https://en.wikipedia.org/wiki/LessWrong)
