@@ -57,3 +57,4 @@ https://grow.google/grow-your-career
 - https://dev.to/amruthpillai/ever-dreamed-of-a-free-and-open-source-resume-builder-that-doesn-t-store-your-data-meet-reactive-resume-1dpl
 - https://www.freecodecamp.org/news/alternative-career-paths
 - [How to Succeed in Your New Job | The Way We Work, a TED series - YouTube](https://www.youtube.com/watch?v=WgR6mUSsEig)
+- [How to really build a compounding career?](https://shorts.growthx.club/p/how-to-really-build-a-compounding)

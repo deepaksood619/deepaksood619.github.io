@@ -165,6 +165,8 @@
 - [Soch by Mohak Mangal - YouTube](https://www.youtube.com/@sochbymm)
 - [BeerBiceps - YouTube](https://www.youtube.com/@BeerBiceps)
 - [Johnny Harris - YouTube](https://www.youtube.com/@johnnyharris)
+- [Nikita Thakur - YouTube](https://www.youtube.com/@nikitaksthakur)
+- [Varun Mayya - YouTube](https://www.youtube.com/@VarunMayya)
 
 ## Others
 
@@ -227,6 +229,7 @@
 - [Wendover Productions](https://www.youtube.com/user/Wendoverproductions)-- neat explanations of wide-ranging things, (including transportation logistics!)
 - [Veritasium - YouTube](https://www.youtube.com/@veritasium)
 - [Institute of Human Anatomy - YouTube](https://www.youtube.com/@TheAnatomyLab)
+- [NileRed - YouTube](https://www.youtube.com/@NileRed)
 
 ## Inventions and Building Stuff / Engineering
 
@@ -240,6 +243,7 @@
 - [Factory Monster - YouTube](https://www.youtube.com/@Factory_Monster)
 - [The Infographics Show - YouTube](https://www.youtube.com/@TheInfographicsShow)
 - [AlphaPhoenix - YouTube](https://www.youtube.com/@AlphaPhoenixChannel)
+- [Xprocess - YouTube](https://www.youtube.com/@Process-X/featured)
 
 ## Video creation, 3D Animation and Youtubing Strategy
 
@@ -406,14 +410,14 @@ Youtube Original's Mind Field
 
 - [GitHub - iptv-org/iptv: Collection of publicly available IPTV channels from all over the world](https://github.com/iptv-org/iptv)
 - [84+ Working 1337x Proxy (October 2023) Mirror Sites To Unblock](https://technoxyz.com/1337x-proxy-unblock/)
-  - [Torrent Search Engine | 1337x.to](https://1337x-to.pages.dev/)
+  - [**Torrent Search Engine** | 1337x.to](https://1337x-to.pages.dev/)
   - https://waytohunt.org/1337x-proxy-mirror-sites
   - https://www.1377x.to
   - 1377x.to
   - https://1337xto.to/
   - [1337x | Free Movies, TV Series, Music, Games and Software](https://www.1337x.tw/)
   - https://www1.thepiratebay3.to/
-  - **1337xxx.to**
+  - 1337xxx.to
   - 1337xx.to
   - https://1337x.unblockit.onl/home
 - https://pirate-proxy.top/

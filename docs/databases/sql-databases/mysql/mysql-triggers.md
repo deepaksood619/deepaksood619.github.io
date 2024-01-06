@@ -90,3 +90,13 @@ MySQL Events are tasks that run according to a schedule. Therefore, we sometimes
 https://www.mysqltutorial.org/mysql-triggers/working-mysql-scheduled-event
 
 https://dev.mysql.com/doc/refman/8.0/en/events-overview.html
+
+## Replication
+
+GTID - Global Transaction Identifier
+
+[How to configure GTID-based replication on MySQL servers | Enable Sysadmin](https://www.redhat.com/sysadmin/gtid-replication-mysql-servers)
+
+[MySQL GTIDs Replication Set Up: 8 Easy Steps](https://hevodata.com/learn/mysql-gtids-and-replication-set-up/)
+
+[MySQL Replication | 2.3.1 GTID Format and Storage](https://dev.mysql.com/doc/mysql-replication-excerpt/5.7/en/replication-gtids-concepts.html)

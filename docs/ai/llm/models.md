@@ -5,6 +5,7 @@
   - [GitHub - openai/whisper: Robust Speech Recognition via Large-Scale Weak Supervision](https://github.com/openai/whisper)
 - Vicuna
 - Bloom
+- Claude 2.1 from antropic with a context window of 200k tokens
 
 | Model              | Parameters | Size  |
 | ------------------ | ---------- | ----- |

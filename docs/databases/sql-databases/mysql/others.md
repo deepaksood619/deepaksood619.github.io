@@ -59,7 +59,9 @@ InnoDB is a [storage engine](https://en.wikipedia.org/wiki/Database_engine) for 
 ## mariadb
 
 MariaDB is a community-developed, commercially supported [fork](https://en.wikipedia.org/wiki/Fork_(software_development)) of the [MySQL](https://en.wikipedia.org/wiki/MySQL)[relational database management system](https://en.wikipedia.org/wiki/Relational_database_management_system)(RDBMS), intended to remain [free and open-source software](https://en.wikipedia.org/wiki/Free_and_open-source_software) under the [GNU General Public License](https://en.wikipedia.org/wiki/GNU_General_Public_License). Development is led by some of the original developers of MySQL, who forked it due to concerns over its [acquisition](https://en.wikipedia.org/wiki/Takeover) by [Oracle Corporation](https://en.wikipedia.org/wiki/Oracle_Corporation) in 2009.
+
 MariaDB intended to maintain high compatibility with MySQL, ensuring a drop-in replacement capability with library binary parity and exact matching with MySQL [APIs](https://en.wikipedia.org/wiki/Application_programming_interface) and commands. However, new features diverge more.It includes new [storage engines](https://en.wikipedia.org/wiki/Storage_engine) like [Aria](https://en.wikipedia.org/wiki/Aria_(storage_engine)), [ColumnStore](https://en.wikipedia.org/wiki/InfiniDB), and [MyRocks](https://en.wikipedia.org/wiki/MyRocks).
+
 Its lead developer/CTO is [Michael "Monty" Widenius](https://en.wikipedia.org/wiki/Michael_Widenius), one of the founders of [MySQL AB](https://en.wikipedia.org/wiki/MySQL_AB) and the founder of Monty Program AB. On 16 January 2008, MySQL AB announced that it had agreed to be acquired by [Sun Microsystems](https://en.wikipedia.org/wiki/Sun_Microsystems) for approximately $1 billion. The acquisition completed on 26 February 2008. Sun was then bought the following year by Oracle Corporation. MariaDB is named after Monty's younger daughter, Maria. (MySQL is named after his other daughter, My.)
 
 ## MySQL 5 vs MySQL 8
@@ -90,3 +92,5 @@ MySQL 8.0 brought enormous changes and modifications that were pushed by the Ora
 https://dev.mysql.com/doc/refman/5.7/en/glossary.html
 
 https://github.com/shlomi-noach/awesome-mysql
+
+[GitHub - MyCATApache/Mycat2: MySQL Proxy using Java NIO based on Sharding SQL,Calcite ,simple and fast](https://github.com/MyCATApache/Mycat2)

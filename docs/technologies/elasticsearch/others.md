@@ -71,6 +71,8 @@ Application Performance Monitoring (APM) collects in-depth performance metrics a
 - Dynatrace
 - Newrelic
 - Elasticsearch APM
+- Pingdom
+- Pagerduty
 
 ## Flask
 
