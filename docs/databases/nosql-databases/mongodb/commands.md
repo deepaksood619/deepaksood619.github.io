@@ -89,6 +89,12 @@ db.COLLECTION_NAME.find().sort({KEY:1}) #1 is used for ascending order while -1 
 
 db.customers.find().forEach(function(doc){print("Cust Name: "+doc.first_name)}); # looping through all data
 
+# count + search
+db.collection_name.count({ "created_at": {$gt: new ISODate('2024-01-06T17:00:00.000Z')}, "template": ObjectId('654e026678a908f1ce241df1') })
+
+# deleteMany
+db.collection_name.deleteMany({ "created_at": {$gt: new ISODate('2024-01-06T17:00:00.000Z')}, "template": ObjectId('654e026678a908f1ce241df1') })
+
 db.collection.createIndex( { name: -1 } )
 db.sms_collection.getIndexes()
 

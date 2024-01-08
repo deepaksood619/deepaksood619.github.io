@@ -14,5 +14,5 @@
 - [JVM Architecture](jvm-architecture)
 - [Questions](languages/java/questions.md)
 - [Spring](spring)
-- [Libraries](libraries)
+- [Libraries](languages/java/libraries.md)
 - [Others](languages/java/others.md)

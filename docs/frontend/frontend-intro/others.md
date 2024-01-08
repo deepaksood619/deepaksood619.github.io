@@ -62,6 +62,16 @@ mogrify -format jpg -quality 20% *.png
 mogrify -quality 20% /path/to/folder/*.jpg
 
 mogrify -quality 10% *.jpg
+
+# convert pdf to images
+convert input.pdf output.jpg
+
+# For good quality use these parameters
+convert -density 300 -quality 100 in.pdf out.jpg
+
+# [ImageMagick – Command-line Tools: Convert](https://www.imagemagick.org/script/convert.php)
 ```
+
+[imagemagick](ai/computer-vision-cv/imagemagick.md)
 
 [GitHub - kornelski/pngquant: Lossy PNG compressor - pngquant command based on libimagequant library](https://github.com/kornelski/pngquant)

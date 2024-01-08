@@ -10,7 +10,7 @@
 - [Content Types](content-types)
 - [Admin site](admin-site)
 - [Advanced](advanced)
-- [Libraries](libraries)
+- [Libraries](python/django/libraries.md)
 - [Others](python/django/others.md)
 - [Cheatsheet](cheatsheet)
 - [Logging](logging)

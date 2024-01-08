@@ -485,3 +485,4 @@ You understand an idea not when you've memorized it, but when you know why its s
 - [My New Learning Mindsets - YouTube](https://www.youtube.com/watch?v=tBL5X-6h7KY)
 - [Asking Questions - Level 1 - Observational Questions - YouTube](https://www.youtube.com/watch?v=J_TVEPxFWAg)
 - [Developing and Using Models - Level 1 - Models - YouTube](https://www.youtube.com/watch?v=p29JLoDVbgA)
+- [10 Things Software Developers Should Learn about Learning | January 2024 | Communications of the ACM](https://cacm.acm.org/magazines/2024/1/278891-10-things-software-developers-should-learn-about-learning/fulltext)

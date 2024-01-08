@@ -6,6 +6,7 @@
 - [Models](ai/llm/models.md)
 - [ChatGPT Prompt Engineering](ai/courses/chatgpt-prompt-eng.md)
 - [Interview Questions](ai/llm/interview-questions.md)
+- [Libraries](ai/llm/libraries.md)
 
 MMLU - Massive Multitask Language Understanding
 

@@ -73,6 +73,7 @@ codeanywhere
 - `Option + Command + Up/Down` - Multiline cursor
 - Select All > `Option + shift + i` - Every line multiline cursor
 - Search > `Command + Shift + L` - Cursor in every searched line
+- `Opt + up/down arrow` - Move line up/down
 
 ## Navigation
 
