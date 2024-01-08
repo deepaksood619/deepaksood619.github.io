@@ -15,7 +15,7 @@
 - [Scaling](scaling)
 - [Security](security)
 - [MQTT 5.0](mqtt-5.0)
-- [Libraries](libraries)
+- [Libraries](networking/mqtt/libraries.md)
 - [MQTT - SN](mqtt-sn)
 - [Paho Client](paho-client)
 - [MQTT vs HTTP](networking/mqtt/mqtt-vs-http.md)

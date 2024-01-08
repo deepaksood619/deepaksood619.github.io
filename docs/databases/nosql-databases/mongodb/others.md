@@ -12,6 +12,8 @@
 
 { "start_date": {$gt: new Date('2017-05-01')} }
 
+{ "created_at": {$gt: new ISODate('2024-01-06T17:00:00.000Z')}, "template": ObjectId('654e026678a908f1ce241df1') }
+
 { author : { $eq : "Joe Bloggs" } }
 
 { dateCreated: { $gt: Date('2000-06-22') } }

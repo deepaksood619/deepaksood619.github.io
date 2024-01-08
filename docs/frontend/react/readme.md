@@ -15,5 +15,5 @@
 - [React admin / Templates](react-admin-templates)
 - [Course](course)
 - [Code / Commands / Snippets](code-commands-snippets)
-- [Libraries](libraries)
+- [Libraries](frontend/react/libraries.md)
 - [Tools](frontend/react/tools.md)

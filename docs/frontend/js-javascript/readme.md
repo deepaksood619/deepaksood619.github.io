@@ -7,4 +7,4 @@
 - [Questions](frontend/js-javascript/questions.md)
 - [TypeScript](typescript)
 - [Web API](web-api)
-- [Libraries](libraries)
+- [Libraries](frontend/js-javascript/libraries.md)

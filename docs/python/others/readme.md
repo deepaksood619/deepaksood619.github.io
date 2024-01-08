@@ -8,7 +8,7 @@
 - [Twisted](twisted)
 - [boto and boto3](boto-and-boto3/readme.md)
   - [Slides](boto-and-boto3/slides)
-- [Libraries](libraries)
+- [Libraries](python/others/libraries.md)
 - [Frameworks](frameworks)
 - [FastAPI](fastapi/readme.md)
   - [Internal Working](fastapi/internal-working)
