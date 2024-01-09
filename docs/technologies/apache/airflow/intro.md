@@ -101,3 +101,10 @@ https://www.youtube.com/playlist?list=PLCi-q9vYo4x-PESoBcXN0tXCMgzh5c_Pj
 ## Debugging
 
 https://www.astronomer.io/blog/7-common-errors-to-check-when-debugging-airflow-dag
+
+## Others
+
+- Astronomer
+- Amazon Managed Apache Airflow [What Is Amazon Managed Workflows for Apache Airflow? - Amazon Managed Workflows for Apache Airflow](https://docs.aws.amazon.com/mwaa/latest/userguide/what-is-mwaa.html)
+
+![Amazon MWAA Architecture](../../../media/Pasted%20image%2020240109123958.png)

@@ -453,3 +453,5 @@ Working ON means taking a zoomed out approach and thinking: what systems could w
 If your business can't run without you - if you can't safely leave your business for a few weeks - you don't really have a business; you have a job.
 
 Tobacco lobby releasing a study on the health benefits of smoking
+
+![client-meme](../../media/Screenshot_20240106-223754.png)
