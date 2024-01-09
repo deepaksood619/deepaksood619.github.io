@@ -1,5 +1,11 @@
 # Postgres
 
+- [Postgres Documentation](postgres/documentation)
+- [Table Partitioning](databases/sql-databases/postgres/table-partitioning.md)
+- [Postgres Indexes](databases/sql-databases/postgres/indexes.md)
+- [parameters-configuration-optimization](databases/sql-databases/postgres/parameters-configuration-optimization.md)
+- [others](databases/sql-databases/postgres/others.md)
+
 ## Introduction
 
 Is a relational database management system with an object-oriented approach, meaning that information can be represented as objects or classes in PostgreSQL schemas.
@@ -79,26 +85,6 @@ https://severalnines.com/database-blog/overview-json-capabilities-within-postgre
 
 Containment tests whether one document (a set or an array) is contained within another.
 
-## Indexes in Postgres
-
-#### [B-tree indexes](https://www.postgresql.org/docs/current/btree-intro.html)
-
-B-tree indexes are binary trees that are used to sort data efficiently. They're the default if you use theINDEXcommand. Most of the time, a B-tree index suffices. As you scale, inconsistencies can be a larger problem, so use the [amcheck](https://www.postgresql.org/docs/11/amcheck.html) extension periodically.
-
-#### [BRIN indexes](https://www.postgresql.org/docs/11/brin-intro.html)
-
-A Block Range INdex (BRIN) can be used when your table is naturally already sorted by a column, and you need to sort by that column. For example, for a log table that was written sequentially, setting a BRIN index on the timestamp column lets the server know that the data is already sorted.
-
-#### [Bloom filter index](https://www.postgresql.org/docs/11/bloom.html)
-
-A bloom index is perfect for multi-column queries on big tables where you only need to test for equality. It uses a special mathematical structure called a bloom filter that's based on probability and uses significantly less space.
-
-#### [GIN and GiST indexes](https://www.postgresql.org/docs/11/textsearch-indexes.html)
-
-Use a GIN or GiST index for efficient indexes based on composite values like text, arrays, and JSON.
-
-https://habr.com/en/company/postgrespro/blog/448746
-
 ## Streaming replication asynchronous and synchronous
 
 https://severalnines.com/database-blog/converting-asynchronous-synchronous-replication-postgresql
@@ -130,6 +116,10 @@ Locking Tuples internals - https://github.com/postgres/postgres/blob/master/src/
 Youtube - [Breaking PostgreSQL at Scale - Christophe Pettus](https://www.youtube.com/watch?v=XUkTUMZRBE8)
 
 Tools - pgadmin
+
+## SAAS
+
+- [EDB: Open-Source, Enterprise Postgres Database Management](https://www.enterprisedb.com/)
 
 ## References
 

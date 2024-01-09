@@ -2,7 +2,7 @@
 
 - [MongoDB Intro](databases/nosql-databases/mongodb/intro.md)
 - [Overview](overview)
-- [Indexes](indexes)
+- [Indexes](databases/nosql-databases/mongodb/indexes.md)
 - [Data Types](databases/nosql-databases/mongodb/data-types.md)
 - [Commands](databases/nosql-databases/mongodb/commands.md)
 - [pymongo](pymongo)

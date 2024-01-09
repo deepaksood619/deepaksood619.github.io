@@ -95,12 +95,9 @@ Schooling isn't just about education, it is also a form a childcare
 
 ## Links
 
-[Colin Powell: Kids need structure | TED - YouTube](https://www.youtube.com/watch?v=NhYnouvrG_8&ab_channel=TED)
-
-[Indian Parents , Their Pravachan And An Important Parenting Tip - YouTube](https://www.youtube.com/watch?v=Sjttt-F2pXE)
-
-[The Single Most Important Parenting Strategy - Repair | Becky Kennedy | TED - YouTube](https://www.youtube.com/watch?v=PHpPtdk9rco)
-
-[Toddlers Fears](https://www.whattoexpect.com/toddler-development/toddler-fears.aspx)
-
-[How to talk to babies](https://www.whattoexpect.com/first-year/milestones/how-to-talk-to-babies)
+- [Colin Powell: Kids need structure | TED - YouTube](https://www.youtube.com/watch?v=NhYnouvrG_8&ab_channel=TED)
+- [Indian Parents , Their Pravachan And An Important Parenting Tip - YouTube](https://www.youtube.com/watch?v=Sjttt-F2pXE)
+- [The Single Most Important Parenting Strategy - Repair | Becky Kennedy | TED - YouTube](https://www.youtube.com/watch?v=PHpPtdk9rco)
+- [Toddlers Fears](https://www.whattoexpect.com/toddler-development/toddler-fears.aspx)
+- [How to talk to babies](https://www.whattoexpect.com/first-year/milestones/how-to-talk-to-babies)
+- [7 Signs that Witnessing Unhealthy Anger in Childhood Hurts You Today - YouTube](https://www.youtube.com/watch?v=yyTfxRUu8gc)
