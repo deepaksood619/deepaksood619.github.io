@@ -178,5 +178,13 @@
 174. [AI’s Single Point of Failure | Rob Toews | TED](https://youtu.be/AJGrdtKT3LM?si=Rk04KrvFeDxM3TOX)
 175. [Agility ≠ Speed • Kevlin Henney • YOW! 2019](https://youtu.be/JT67IEtJqQM?si=MP-cCYPZeQzjCLjq)
 176. [Software Engineering Daily • Building a State Machine Backend with Adam Berger • Podcast Addict](https://podcastaddict.com/software-engineering-daily/episode/166954380)
+177. [Functional Modelling of Contractual Workflows in DAML • Andrae Muys • YOW! 2019 - YouTube](https://www.youtube.com/watch?v=DskbKCvlX8M&ab_channel=GOTOConferences)
+178. [How To Be A Great Programmer • Dave Farley • GOTO 2023 - YouTube](https://www.youtube.com/watch?v=SUfdJghSyog&ab_channel=GOTOConferences)
+179. [Lessons Learned from Scaling @Birchbox • Liz Crawford • YOW! 2018 - YouTube](https://www.youtube.com/watch?v=Y6gEIreOQ3U&ab_channel=GOTOConferences)
+180. [Demystifying Kubernetes Platforms with Backstage - YouTube](https://www.youtube.com/watch?v=g453ioC64Bw&ab_channel=InfoQ)
+181. [Data Contracts: The Next Frontier | Data Council & Soda - YouTube](https://www.youtube.com/watch?v=DTPdhVdg3fc&ab_channel=DataCouncil)
+182. [InfoQ Cloud and DevOps Trends 2023 - YouTube](https://www.youtube.com/watch?v=oZmUerUj0u4&ab_channel=InfoQ)
+183. [Scaling Kubernetes-based Event-driven Workloads with Keda & Karpenter • Roland Barcia • GOTO 2023 - YouTube](https://www.youtube.com/watch?v=QaPbcayEicw&ab_channel=GOTOConferences)
+184. [Serverless & Event-driven Patterns for GenAI • Uma Ramadoss & Dhiraj Mahapatro • GOTO 2023 - YouTube](https://www.youtube.com/watch?v=dzW3-Mol1yo&ab_channel=GOTOConferences)
 
 ## End

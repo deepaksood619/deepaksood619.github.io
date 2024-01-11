@@ -14,4 +14,5 @@
 - [Professional Data Engineer (PDE)](ai/courses/google-professional-data-engineer-pde.md)
 - [google-professional-cloud-architect-pca](ai/courses/google-professional-cloud-architect-pca.md)
 - [ChatGPT Prompt Engineering for Developers](ai/courses/chatgpt-prompt-eng.md)
+- [AWS Certified Developer - Associate (Jan 2024)](ai/courses/aws-certified-developer-associate.md)
 - [Others / Resources / Interview](others-resources-interview)

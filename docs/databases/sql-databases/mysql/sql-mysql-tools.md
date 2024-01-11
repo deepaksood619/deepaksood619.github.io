@@ -200,3 +200,7 @@ Anomaly detection on SQL data warehouses and databases
 https://github.com/cuebook/cueobserve
 
 https://cueobserve.cuebook.ai
+
+## Others
+
+- [Best Oracle Developer and Administrator Database Tools | Free Trial](https://www.quest.com/products/toad-for-oracle/)

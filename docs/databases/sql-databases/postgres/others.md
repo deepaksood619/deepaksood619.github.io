@@ -120,6 +120,10 @@ https://info.crunchydata.com/blog/how-to-get-started-with-pgbackrest-and-postgre
 
 [https://www.kubegres.io/](https://www.kubegres.io/)
 
+## Foreign Data Wrappers (FDWs)
+
+Foreign data wrappers (FDWs) allow PostgreSQL to connect to and query data from external data sources. They provide a virtual table interface to remote data, enabling seamless integration. Examples include `postgres_fdw` for PostgreSQL-to-PostgreSQL integration or `file_fdw` for accessing data in flat files.
+
 ## Others
 
 - [GitHub - hydradatabase/hydra: Hydra: Column-oriented Postgres. Add scalable analytics to your project in minutes.](https://github.com/hydradatabase/hydra)

@@ -9,7 +9,7 @@ The following are the key concepts for VPCs:
 - A **virtual private cloud(VPC)** is a virtual network dedicated to your AWS account.
 - A **subnet** is a range of IP addresses in your VPC.
 - A **route table** contains a set of rules, calledroutes, that are used to determine where network traffic from your subnet or gateway is directed.
-- An**internet gateway** is a horizontally scaled, redundant, and highly available VPC component that allows communication between instances in your VPC and the internet. It therefore imposes no availability risks or bandwidth constraints on your network traffic.
+- An **internet gateway** is a horizontally scaled, redundant, and highly available VPC component that allows communication between instances in your VPC and the internet. It therefore imposes no availability risks or bandwidth constraints on your network traffic.
 - A **VPC endpoint** enables you to privately connect your VPC to supported AWS services and VPC endpoint services powered by PrivateLink without requiring an internet gateway, NAT device, VPN connection, or AWS Direct Connect connection. Instances in your VPC do not require public IP addresses to communicate with resources in the service. Traffic between your VPC and the other service does not leave the Amazon network.
 
 https://docs.aws.amazon.com/vpc/latest/userguide/what-is-amazon-vpc.html
@@ -18,15 +18,15 @@ https://docs.aws.amazon.com/vpc/latest/userguide/what-is-amazon-vpc.html
 
 - **Main route table** The route table that automatically comes with your VPC. It controls the routing for all subnets that are not explicitly associated with any other route table.
 - **Custom route table** A route table that you create for your VPC.
-- **Edge association-** A route table that you use to route inbound VPC traffic to an appliance. You associate a route table with the internet gateway or virtual private gateway, and specify the network interface of your appliance as the target for VPC traffic.
+- **Edge association** A route table that you use to route inbound VPC traffic to an appliance. You associate a route table with the internet gateway or virtual private gateway, and specify the network interface of your appliance as the target for VPC traffic.
 - **Route table association** The association between a route table and a subnet, internet gateway, or virtual private gateway.
 - **Subnet route table** A route table that's associated with a subnet.
 - **Gateway route table** A route table that's associated with an internet gateway or virtual private gateway.
 - **Local gateway route table** A route table that's associated with an Outposts local gateway. For information about local gateways, see [Local Gateways](https://docs.aws.amazon.com/outposts/latest/userguide/outposts-local-gateways.html) in the AWS Outposts User Guide.
-- **Destination**The destination CIDR where you want traffic to go. For example, an external corporate network with a 172.16.0.0/12 CIDR.
-- **Propagation**Route propagation allows a virtual private gateway to automatically propagate routes to the route tables. This means that you don't need to manually enter VPN routes to your route tables. For more information about VPN routing options, see [Site-to-Site VPN Routing Options](https://docs.aws.amazon.com/vpn/latest/s2svpn/VPNRoutingTypes.html) in the Site-to-Site VPN User Guide.
-- **Target**The target through which to send the destination traffic; for example, an internet gateway.
-- **Local route**A default route for communication within the VPC.
+- **Destination** The destination CIDR where you want traffic to go. For example, an external corporate network with a 172.16.0.0/12 CIDR.
+- **Propagation** Route propagation allows a virtual private gateway to automatically propagate routes to the route tables. This means that you don't need to manually enter VPN routes to your route tables. For more information about VPN routing options, see [Site-to-Site VPN Routing Options](https://docs.aws.amazon.com/vpn/latest/s2svpn/VPNRoutingTypes.html) in the Site-to-Site VPN User Guide.
+- **Target** The target through which to send the destination traffic; for example, an internet gateway.
+- **Local route** A default route for communication within the VPC.
 
 https://docs.aws.amazon.com/vpc/latest/userguide/VPC_Route_Tables.html
 
@@ -77,6 +77,22 @@ Endpoints are virtual devices. They are horizontally scaled, redundant, and high
 
 There are two types of VPC endpoints: **interface endpoints** and **gateway endpoints**. Create the type of VPC endpoint required by the supported service.
 
+### VPC Endpoint vs VPC Peering
+
+#### VPC Endpoint
+
+- **Purpose:** VPC endpoints allow you to privately connect your VPC to supported AWS services without traversing the public internet. This enhances security and can improve data transfer performance.
+- **Use Case:** Commonly used for accessing AWS services like Amazon S3, DynamoDB, and other AWS services that support VPC endpoints.
+- **Traffic Path:** Traffic between your VPC and the AWS service does not leave the Amazon network. It stays within the AWS network.
+
+#### VPC Peering
+
+- **Purpose:** VPC peering allows you to connect two VPCs privately, enabling communication between instances in different VPCs as if they were on the same network.
+- **Use Case:** Useful for scenarios where you have resources in separate VPCs that need to communicate with each other, such as connecting resources in a production VPC with those in a development VPC.
+- **Traffic Path:** Traffic between instances in different VPCs travels across the AWS network, and there is no need to go over the public internet.
+
+In summary, VPC endpoints are primarily used for connecting your VPC to AWS services, ensuring a private and direct connection. On the other hand, VPC peering is used to establish private connections between instances in different VPCs, allowing them to communicate with each other over the AWS network.
+
 ## Interface Endpoint
 
 An [interface endpoint](https://docs.aws.amazon.com/vpc/latest/userguide/vpce-interface.html) is an elastic network interface with a private IP address from the IP address range of your subnet that serves as an entry point for traffic destined to a supported service.
@@ -99,3 +115,11 @@ SG - Security Groups
 - Limited to five Elastic IP addresses per account
 
 https://docs.aws.amazon.com/vpc/latest/userguide/vpc-eips.html
+
+## Others
+
+[What is AWS Direct Connect? - AWS Direct Connect](https://docs.aws.amazon.com/directconnect/latest/UserGuide/Welcome.html)
+
+[AWS Transit Gateway](https://aws.amazon.com/transit-gateway/)
+
+[What is VPC peering? - Amazon Virtual Private Cloud](https://docs.aws.amazon.com/vpc/latest/peering/what-is-vpc-peering.html)

@@ -1,11 +1,9 @@
 # Terraform
 
-## TOC
-
-- [Documentation](devops/others/terraform/documentation.md)
-- [Variables](devops/others/terraform/variables.md)
-- [Examples](devops/others/terraform/examples.md)
-- [Commands](devops/others/terraform/commands.md)
+- [Documentation](devops/terraform/documentation.md)
+- [Variables](devops/terraform/variables.md)
+- [Examples](devops/terraform/examples.md)
+- [Commands](devops/terraform/commands.md)
 
 ## Intro
 

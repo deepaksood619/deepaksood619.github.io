@@ -8,11 +8,11 @@
 4. Kinesis
 5. Lambda
 
-https://medium.com/teamzerolabs/5-aws-services-you-should-avoid-f45111cc10cd
+[5 AWS Services You Should Avoid!. Get ready for some personal and… | by David Lin | TeamZeroLabs | Medium](https://medium.com/teamzerolabs/5-aws-services-you-should-avoid-f45111cc10cd)
 
-https://www.toptal.com/aws/interview-questions
+[14 Essential AWS Interview Questions and Answers [2024] | Toptal®](https://www.toptal.com/aws/interview-questions)
 
-https://aws.amazon.com/solutions
+[AWS Solutions Library](https://aws.amazon.com/solutions)
 
 ## Regions, Availability Zones, and Local Zones
 

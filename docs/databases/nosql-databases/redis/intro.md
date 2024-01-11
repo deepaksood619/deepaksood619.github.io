@@ -147,6 +147,8 @@ Both Redis and MemCached are in-memory, open-source data stores. Memcached, a hi
 
 https://aws.amazon.com/elasticache/redis-vs-memcached
 
+[Memcached Tutorial for Beginners - YouTube](https://www.youtube.com/watch?v=VhM2ByShhzE&ab_channel=freeCodeCamp.org)
+
 ## Books
 
 https://redislabs.com/redis-in-action

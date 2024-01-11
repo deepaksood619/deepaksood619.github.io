@@ -84,6 +84,8 @@
 - [GitHub - coqui-ai/TTS: 🐸💬 - a deep learning toolkit for Text-to-Speech, battle-tested in research and production](https://github.com/coqui-ai/TTS)
 - [GitHub - tensorchord/Awesome-LLMOps: An awesome & curated list of best LLMOps tools for developers](https://github.com/tensorchord/Awesome-LLMOps)
 - [AI Development Cloud Platform | Deploy & Manage AI Logic](https://mindsdb.com/)
+- [GitHub - comfyanonymous/ComfyUI: The most powerful and modular stable diffusion GUI, api and backend with a graph/nodes interface.](https://github.com/comfyanonymous/ComfyUI)
+  - [How to install and use ComfyUI - Stable Diffusion. - YouTube](https://www.youtube.com/watch?v=KTPLOqAMR0s)
 
 ```bash
 python -m pip install --upgrade langchain[llm]
@@ -96,7 +98,7 @@ chainlit hello
 chainlit run document_qa.py
 ```
 
-### Ollama
+### Ollama / LM Studio
 
 The easiest way to get up and running with large language models locally.
 
@@ -113,6 +115,10 @@ docker exec -it ollama ollama run mistral
 ```
 
 [Docker](https://hub.docker.com/r/ollama/ollama)
+
+[LM Studio - SUPER EASY Text AI - Windows, Mac & Linux / How To - YouTube](https://www.youtube.com/watch?v=opx8yHP-SV0)
+
+[LM Studio - Discover, download, and run local LLMs](https://lmstudio.ai/)
 
 ## Resources
 

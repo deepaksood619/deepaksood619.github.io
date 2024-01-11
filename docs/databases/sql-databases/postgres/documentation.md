@@ -110,15 +110,11 @@ https://www.postgresql.org/docs/current/explicit-locking.html
 
 [25. Backup and Restore](https://www.postgresql.org/docs/12/backup.html)
 
-[26. High Availability, Load Balancing, and Replication](https://www.postgresql.org/docs/12/high-availability.html)
-
 [27. Monitoring Database Activity](https://www.postgresql.org/docs/12/monitoring.html)
 
 [28. Monitoring Disk Usage](https://www.postgresql.org/docs/12/diskusage.html)
 
 [29. Reliability and the Write-Ahead Log](https://www.postgresql.org/docs/12/wal.html)
-
-[30. Logical Replication](https://www.postgresql.org/docs/12/logical-replication.html)
 
 [31. Just-in-Time Compilation (JIT)](https://www.postgresql.org/docs/12/jit.html)
 
@@ -138,7 +134,11 @@ https://www.postgresql.org/docs/current/explicit-locking.html
 
 [37. ExtendingSQL](https://www.postgresql.org/docs/12/extend.html)
 
-[38. Triggers](https://www.postgresql.org/docs/12/triggers.html)
+### [38. Triggers](https://www.postgresql.org/docs/12/triggers.html)
+
+A trigger is a specification that the database should automatically execute a particular function whenever a certain type of operation is performed. Triggers can be defined to execute either before or after any INSERT, UPDATE, or DELETE operation, either once per modified row, or once per SQL statement. If a trigger event occurs, the trigger's function is called at the appropriate time to handle the event.
+
+PostgreSQL offers both _per-row_ triggers and _per-statement_ triggers. With a per-row trigger, the trigger function is invoked once for each row that is affected by the statement that fired the trigger. In contrast, a per-statement trigger is invoked only once when an appropriate statement is executed, regardless of the number of rows affected by that statement. In particular, a statement that affects zero rows will still result in the execution of any applicable per-statement triggers. These two types of triggers are sometimes called _row-level_ triggers and _statement-level_ triggers, respectively.
 
 [39. Event Triggers](https://www.postgresql.org/docs/12/event-triggers.html)
 
@@ -159,8 +159,6 @@ https://www.postgresql.org/docs/current/explicit-locking.html
 [47. Background Worker Processes](https://www.postgresql.org/docs/12/bgworker.html)
 
 [48. Logical Decoding](https://www.postgresql.org/docs/12/logicaldecoding.html)
-
-[49. Replication Progress Tracking](https://www.postgresql.org/docs/12/replication-origins.html)
 
 [VI. Reference](https://www.postgresql.org/docs/12/reference.html)
 
