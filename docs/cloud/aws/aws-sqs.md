@@ -44,8 +44,6 @@ All customers can make 1 million Amazon SQS requests for free each month.
 
 https://aws.amazon.com/sqs
 
-## FAQs
-
 ## How is Amazon SQS different from Amazon SNS?
 
 Amazon SNS allows applications to send time-critical messages to multiple subscribers through a "push" mechanism, eliminating the need to periodically check or "poll" for updates. Amazon SQS is a message queue service used by distributed applications to exchange messages through a polling model, and can be used to decouple sending and receiving components.

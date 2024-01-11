@@ -12,6 +12,8 @@ The acceptable amount of data loss measured in time. For example, if a disaster 
 
 Point-in-time recovery (PITR) in the context of [computers](https://en.wikipedia.org/wiki/Computer) involves systems whereby an administrator can restore or recover a set of data or a particular setting from a time in the past
 
+PITR involves continuous archiving of WAL files and restoring the database to a specific point in time using the archived WAL files and a base backup.
+
 ## Recovery
 
 Disaster recovery in the database world relates to the backups, logs and replication instances that are maintained while everything is working fine. These can then be switched on, switched over and analysed when something does go wrong, like a hardware failure, natural disaster or even human error.

@@ -49,6 +49,7 @@ A GiST index is _lossy_, meaning that the index may produce false matches, and 
 GIN indexes are not lossy for standard queries, but their performance depends logarithmically on the number of unique words.
 
 Performance
+
 - GIN index lookups are about three times faster than GiST
 - GIN indexes take about three times longer to build than GiST
 - GIN indexes are moderately slower to update than GiST indexes, but about 10 times slower if fast-update support was disabled.
@@ -57,6 +58,7 @@ Performance
 https://habr.com/en/company/postgrespro/blog/448746
 
 [PostgreSQL: Documentation: 9.1: GiST and GIN Index Types](https://www.postgresql.org/docs/9.1/textsearch-indexes.html)
+
 ### SP-GiST
 
 SP-GiST indexes, like GiST indexes, offer an infrastructure that supports various kinds of searches. SP-GiST permits implementation of a wide range of different non-balanced disk-based data structures, such as quadtrees, k-d trees, and radix trees (tries).

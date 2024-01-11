@@ -58,6 +58,8 @@ Moving from information to knowledge age
 
 ![midjourney-cheatsheet](../../media/Screenshot%202023-05-26%20at%201.56.33%20PM.png)
 
+- [Civitai: The Home of Open-Source Generative AI](https://civitai.com/)
+
 #### Other AI / LLM Tools / Products
 
 - Merlin Chrome Extension
@@ -80,6 +82,7 @@ Moving from information to knowledge age
 - [Mem: Your AI knowledge assistant](https://get.mem.ai/)
 - [GitHub - Nutlope/aicommits: A CLI that writes your git commit messages for you with AI](https://github.com/Nutlope/aicommits)
 - [ShareGPT: Share your wildest ChatGPT conversations with one click.](https://sharegpt.com/)
+- [Digi, The New AI Girlfriend App is The Future of Romance - YouTube](https://www.youtube.com/watch?v=3487Y7QlFoo)
 
 ![ai-tools](../../media/image.png)
 

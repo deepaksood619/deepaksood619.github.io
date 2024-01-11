@@ -1,16 +1,8 @@
 # Other DevOps
 
-- [Ansible](ansible/readme.md)
-  - [Ansible Commands](ansible/commands)
-- [Terraform](terraform/intro)
 - [Jenkins](jenkins)
 - [Other - CICD](other-cicd)
 - [Kong](kong)
 - [KeyCloak](keycloak)
 - [CoreSync, Pacemaker](coresync-pacemaker)
-- [Servers](servers/readme.md)
-  - [Apache Server](servers/apache-server)
-  - [Gunicorn](servers/gunicorn)
-  - [NGINX](servers/nginx/readme.md)
-    - [NGINX Configs](servers/nginx/configs)
 - [Others](other-tools.md)

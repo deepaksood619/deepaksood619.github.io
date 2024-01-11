@@ -5,6 +5,7 @@
 - [CLI Commands](cli-commands)
 - [AWS Glue](aws-glue)
 - [AWS SQS](aws-sqs)
+- [AWS SNS](cloud/aws/aws-sns.md)
 - [Security, Identity and Compliance](security-identity-compliance/intro)
   - [IAM](security-identity-compliance/iam)
 - [Analytics](analytics/readme.md)

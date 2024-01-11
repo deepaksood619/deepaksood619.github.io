@@ -370,7 +370,7 @@ https://engineering.linkedin.com/blog/2019/03/pinot-joins-apache-incubator
 
 ## R
 
-- [Ranger](http://ranger.apache.org/) - Apache Ranger™ is a framework to enable, monitor and manage comprehensive data security across the Hadoop platform.
+- [Ranger](http://ranger.apache.org/) - Apache Ranger is a framework to enable, monitor and manage comprehensive data security across the Hadoop platform.
 - [REEF](http://reef.apache.org/)
 - [River](http://river.apache.org/)
 - [RocketMQ](http://rocketmq.apache.org/)

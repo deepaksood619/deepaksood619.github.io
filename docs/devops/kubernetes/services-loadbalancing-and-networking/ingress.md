@@ -64,10 +64,10 @@ https://medium.com/flant-com/comparing-ingress-controllers-for-kubernetes-9b3974
 
 ## AWS ALB
 
-AWS ALB Ingress controller supports two traffic modes:instance modeandip mode. Users can explicitly specify these traffic modes by declaring the**alb.ingress.kubernetes.io/target-type**annotation on the Ingress and the service definitions.
+AWS ALB Ingress controller supports two traffic modes: instance mode and ip mode. Users can explicitly specify these traffic modes by declaring the alb.ingress.kubernetes.io/target-type annotation on the Ingress and the service definitions.
 
-- **instance mode:**Ingress traffic starts from the ALB and reaches the [NodePort](https://kubernetes.io/docs/concepts/services-networking/service/#nodeport) opened for your service. Traffic is then routed to the pods within the cluster. The number of hops for the packet to reach its destination in this mode is always two.
-- **ip mode:**Ingress traffic starts from the ALB and reaches the pods within the cluster directly. To use this mode, the networking plugin for the Kubernetes cluster must use a secondary IP address on ENI as pod IP, also known as the [AWS CNI plugin for Kubernetes](https://github.com/aws/amazon-vpc-cni-k8s). The number of hops for the packet to reach its destination in this mode is always one.
+- **instance mode:** Ingress traffic starts from the ALB and reaches the [NodePort](https://kubernetes.io/docs/concepts/services-networking/service/#nodeport) opened for your service. Traffic is then routed to the pods within the cluster. The number of hops for the packet to reach its destination in this mode is always two.
+- **ip mode:** Ingress traffic starts from the ALB and reaches the pods within the cluster directly. To use this mode, the networking plugin for the Kubernetes cluster must use a secondary IP address on ENI as pod IP, also known as the [AWS CNI plugin for Kubernetes](https://github.com/aws/amazon-vpc-cni-k8s). The number of hops for the packet to reach its destination in this mode is always one.
 
 https://github.com/kubernetes-sigs/aws-alb-ingress-controller
 
@@ -77,7 +77,9 @@ https://aws.amazon.com/blogs/opensource/kubernetes-ingress-aws-alb-ingress-contr
 
 ## Ingress tls with self-signed cert
 
-https://www.youtube.com/watch?v=7K0gAYmWWho
+[Create a Kubernetes TLS Ingress from scratch in Minikube - YouTube](https://www.youtube.com/watch?v=7K0gAYmWWho)
+
+[Step 4: Enable HTTPS traffic and verify the certificate - AWS CloudHSM](https://docs.aws.amazon.com/cloudhsm/latest/userguide/ssl-offload-enable-traffic-and-verify-certificate.html)
 
 ## References
 

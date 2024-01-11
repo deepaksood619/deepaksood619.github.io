@@ -100,6 +100,10 @@ As opposed to `.fromhex()`, `.hex()` is an object method, not a class method. Th
 
 Neither the arguments are Pass by Value nor does Python supports Pass by reference. Instead, they are Pass by assignment. The parameter which you pass is originally a reference to the object not the reference to a fixed memory location. But the reference is passed by value. Additionally, some data types like strings and tuples are immutable whereas others are mutable.
 
+[How Pass by Value and Pass By Pointer work internally? Peeking into the assembly code to find out - YouTube](https://www.youtube.com/watch?v=-dVuyTMByBA&ab_channel=AsliEngineeringbyArpitBhayani)
+
+- Pass by reference is constant time and pass by reference is slow since there is a loop for copying data
+
 ## Integers between -5 to 256 are cached
 
 The current implementation keeps an array of integer objects for all integers between -5 and 256 when you create an int in that range you actually just get back a reference to the existing object.

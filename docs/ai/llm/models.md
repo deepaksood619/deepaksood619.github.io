@@ -1,8 +1,5 @@
 # Models
 
-- [openai/whisper-large-v3 · Hugging Face](https://huggingface.co/openai/whisper-large-v3)
-  - Whisper is a general-purpose speech recognition model. It is trained on a large dataset of diverse audio and is also a multitasking model that can perform multilingual speech recognition, speech translation, and language identification.
-  - [GitHub - openai/whisper: Robust Speech Recognition via Large-Scale Weak Supervision](https://github.com/openai/whisper)
 - Vicuna
 - Bloom
 - Claude 2.1 from antropic with a context window of 200k tokens
@@ -29,6 +26,18 @@ Note: You should have at least 8 GB of RAM available to run the 7B models, 16 GB
 - [Uncensored Models](https://erichartford.com/uncensored-models)
   - aligned by an alignment team
   - Remove refusals
+
+### Speech to text
+
+#### Whisper
+
+- [openai/whisper-large-v3 · Hugging Face](https://huggingface.co/openai/whisper-large-v3)
+- Whisper is a general-purpose speech recognition model. It is trained on a large dataset of diverse audio and is also a multitasking model that can perform multilingual speech recognition, speech translation, and language identification.
+- [GitHub - openai/whisper: Robust Speech Recognition via Large-Scale Weak Supervision](https://github.com/openai/whisper)
+
+#### Others
+
+[Introducing Nova-2: The Fastest, Most Accurate Speech-to-Text API | Deepgram](https://deepgram.com/learn/nova-2-speech-to-text-api)
 
 ### HuggingFace
 

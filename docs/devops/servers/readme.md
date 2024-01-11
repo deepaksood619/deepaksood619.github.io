@@ -1,5 +1,10 @@
 # Servers
 
+- [Apache Server](devops/servers/apache-server.md)
+- [Gunicorn](devops/servers/gunicorn.md)
+- [NGINX](devops/servers/nginx/readme.md)
+	- [NGINX Configs](devops/servers/nginx/configs.md)
+
 ## HTTPD (HTTP Daemon)
 
 The HTTPD (HTTP Daemon) server is the one handling the requests / responses on the server side. The most common HTTPD servers are Apache or nginx for Linux and IIS for Windows

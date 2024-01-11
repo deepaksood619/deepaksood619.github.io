@@ -40,13 +40,15 @@ Amazon S3 is a highly secure storage service. S3 is the only cloud storage platf
 
 ## AWS Consistency model
 
-The AWS S3 service provides **read-after-write** consistency for **PUTs** of new objects, meaning that as soon as an object is written to an S3 bucket, it can be retrieved.
+Amazon S3 delivers [strong read-after-write consistency](https://aws.amazon.com/blogs/aws/amazon-s3-update-strong-read-after-write-consistency/) automatically for all applications, without changes to performance or availability, without sacrificing regional isolation for applications, and at no additional cost. With strong consistency, S3 simplifies the migration of on-premises analytics workloads by removing the need to make changes to applications, and reduces costs by removing the need for extra infrastructure to provide strong consistency.
 
-However, suppose we tried retrieving an object and received a "Not Found" response. Because it's not found, we immediately add it. For a small period of time, we'll be unable to retrieve it because the Not Found response will be cached. Therefore, in this case, S3 is only **eventuallyconsistent**. Deleting or updating existing objects are also eventually consistent operations.
+After a successful write of a new object, or an overwrite or delete of an existing object, any subsequent read request immediately receives the latest version of the object. S3 also provides strong consistency for list operations, so after a write, you can immediately perform a listing of the objects in a bucket with any changes reflected.
 
-## Strong read after write
+[Site Unreachable](https://aws.amazon.com/s3/consistency/)
 
-https://aws.amazon.com/about-aws/whats-new/2020/12/amazon-s3-now-delivers-strong-read-after-write-consistency-automatically-for-all-applications
+[Amazon S3 now delivers strong read-after-write consistency automatically for all applications](https://aws.amazon.com/about-aws/whats-new/2020/12/amazon-s3-now-delivers-strong-read-after-write-consistency-automatically-for-all-applications)
+
+[Amazon S3 Update – Strong Read-After-Write Consistency | AWS News Blog](https://aws.amazon.com/blogs/aws/amazon-s3-update-strong-read-after-write-consistency/)
 
 ## Peformance
 

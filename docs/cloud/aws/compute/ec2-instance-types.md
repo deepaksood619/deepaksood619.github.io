@@ -1,5 +1,17 @@
 # EC2 Instance types
 
+## EC2 Instance metadata and user data
+
+_Instance metadata_ is data about your instance that you can use to configure or manage the running instance. Instance metadata is divided into [categories](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/instancedata-data-categories.html), for example, host name, events, and security groups.
+
+EC2 instance metadata is a service accessible from within EC2 instances, which allows querying or managing data about a given running instance.
+
+It is possible to retrieve an instance’s IAM access key by accessing the `iam/security-credentials/role-name` metadata category. This returns a temporary set of credentials that the EC2 instance automatically uses for communicating with AWS services.
+
+[Instance metadata and user data - Amazon Elastic Compute Cloud](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/ec2-instance-metadata.html)
+
+## EC2 Instance Types
+
 https://aws.amazon.com/blogs/compute/it-just-got-easier-to-discover-and-compare-ec2-instance-types
 
 https://github.com/aws/amazon-ec2-instance-selector

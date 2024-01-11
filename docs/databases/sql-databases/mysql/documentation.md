@@ -1247,7 +1247,9 @@ SQLServer collation refers to a set of character and character encoding rules, a
 
 14.6.2 Indexes
 
-14.6.3 Tablespaces
+### 14.6.3 Tablespaces
+
+Tablespaces are physical storage locations, while schemas are logical containers for database objects. Tablespaces are used for managing storage locations, while schemas help organize database objects and control access. Tablespaces are typically used at the database level, whereas schemas are used within a database.
 
 14.6.4 InnoDB Data Dictionary
 

@@ -1,9 +1,10 @@
 # Postgres
 
-- [Postgres Documentation](postgres/documentation)
+- [Postgres Documentation](databases/sql-databases/postgres/documentation.md)
 - [Table Partitioning](databases/sql-databases/postgres/table-partitioning.md)
 - [Postgres Indexes](databases/sql-databases/postgres/indexes.md)
 - [parameters-configuration-optimization](databases/sql-databases/postgres/parameters-configuration-optimization.md)
+- [Replication](databases/sql-databases/postgres/replication.md)
 - [others](databases/sql-databases/postgres/others.md)
 
 ## Introduction
@@ -85,10 +86,6 @@ https://severalnines.com/database-blog/overview-json-capabilities-within-postgre
 
 Containment tests whether one document (a set or an array) is contained within another.
 
-## Streaming replication asynchronous and synchronous
-
-https://severalnines.com/database-blog/converting-asynchronous-synchronous-replication-postgresql
-
 ## pg_trgm
 
 Trigram (Trigraph) concepts
@@ -115,11 +112,15 @@ Locking Tuples internals - https://github.com/postgres/postgres/blob/master/src/
 
 Youtube - [Breaking PostgreSQL at Scale - Christophe Pettus](https://www.youtube.com/watch?v=XUkTUMZRBE8)
 
-Tools - pgadmin
+#### Tools
+
+- [pgAdmin - PostgreSQL Tools](https://www.pgadmin.org/)
+- [PostgreSQL tools for database development and management](https://www.devart.com/dbforge/postgresql/)
 
 ## SAAS
 
 - [EDB: Open-Source, Enterprise Postgres Database Management](https://www.enterprisedb.com/)
+- [EDB Docs - Failover Manager v4 - EFM](https://www.enterprisedb.com/docs/efm/latest/)
 
 ## References
 

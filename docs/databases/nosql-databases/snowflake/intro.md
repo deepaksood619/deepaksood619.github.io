@@ -1,8 +1,8 @@
 # Intro
 
-Multi-cluster, shared data architecture
+Multi-cluster, shared storage architecture
 
-Snowflake is a cloud-based database and is currently offered as a pay-as-you-go service in the Amazon cloud. It is developed by Snowflake Computing.
+Snowflake is a cloud-based database and is currently offered as a pay-as-you-go service in AWS, Azure and GCP cloud. It is developed by Snowflake Computing.
 
 Snowflake adopts a shared-storage architecture. It uses Amazon S3 for its underlying data storage. It performs query execution within in elastic clusters of virtual machines, called virtual warehouse. The Cloud Service layer stores the collection of services that manage computation clusters, queries, transactions, and all the metadata like database catalogs and access control information in a key-value store (FoundationDB).
 

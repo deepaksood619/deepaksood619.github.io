@@ -136,7 +136,7 @@ set statement_timeout to 60000; commit;
 
     load table data into either the operating system cache or the Postgres buffer cache
 
-### Commands
+## Commands
 
 [ABORT](https://www.postgresql.org/docs/current/sql-abort.html) - abort the current transaction
 
@@ -504,7 +504,7 @@ set statement_timeout to 60000; commit;
 
 https://www.postgresql.org/docs/current/sql-commands.html
 
-## pg_dumpall
+### pg_dumpall
 
 pg_dumpall dumps all databases in given PostgreSQL installation (cluster), and does it to plain text file. Everything goes there. Additionally, it dumpsglobalthings -- roles and tablespaces, which cannot be dumped by pg_dump.
 
@@ -516,7 +516,7 @@ There is huge number of drawbacks though:
 - dumping is slow, because it's done sequentially, with single worker
 - it's hard to restore just parts of dump
 
-## pg_dump
+### pg_dump
 
 pg_dump, on the other hand, can't dump globals, and can dump only one database at a time. But it can use four dump formats:
 
@@ -528,6 +528,10 @@ pg_dump, on the other hand, can't dump globals, and can dump only one database a
 Plain is just plain text format, just like pg_dumpall dumps. You can load it with psql, and extracting parts can be complicated if dump is large.
 
 All other formats (custom, directory, and tar) are restored using pg_restore program.
+
+### pg_basebackup
+
+Used for physical backups
 
 ## Adding hstore in database
 
