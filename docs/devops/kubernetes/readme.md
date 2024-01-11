@@ -19,7 +19,7 @@
   - [Others](services-loadbalancing-and-networking/others)
 - [Storage](storage)
 - [Configuration](configuration)
-- [Cluster Administration](cluster-administration/radme.md)
+- [Cluster Administration](devops/kubernetes/cluster-administration/readme.md)
   - [Logging Architecture](cluster-administration/logging-architecture)
   - [Others](cluster-administration/others)
 - [kubectl commands](kubectl-commands)

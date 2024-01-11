@@ -13,7 +13,7 @@ Amazon Simple Notification Service (Amazon SNS) sends notifications two ways, A2
 
 ## Topic types
 
-### Standard Topics 
+### Standard Topics
 
 Standard topics can be used in many scenarios, as long as your application can process messages that arrive more than once and out of order, for example: fanning out messages to media encoding, fraud detection, tax calculation, search index, and critical alerting applications.
 
@@ -27,11 +27,11 @@ Standard topics can be used in many scenarios, as long as your application can p
 
 **Multiple subscription types**: Messages can be delivered to application-to-application (A2A) endpoints (Amazon SQS, Amazon Kinesis Data Firehose, AWS Lambda, HTTPS) as well as application-to-person (A2P) endpoints (SMS, mobile push, and email).
 
-**Message fanout**: Each account can support 100,000 Standard topics and each topic supports up to 12.5M subscriptions.  
+**Message fanout**: Each account can support 100,000 Standard topics and each topic supports up to 12.5M subscriptions.
 
 ### FIFO Topics
 
-FIFO topics are designed to enhance messaging between applications when the order of operations and events is critical, or where duplicates can't be tolerated, for example: fanning out messages to bank transaction logging, stock monitoring, flight tracking, inventory management, and price update applications.  
+FIFO topics are designed to enhance messaging between applications when the order of operations and events is critical, or where duplicates can't be tolerated, for example: fanning out messages to bank transaction logging, stock monitoring, flight tracking, inventory management, and price update applications.
 
 **High throughput**: FIFO topics support up to 300 messages per second or 10 MB per second per FIFO topic (whichever comes first).
 

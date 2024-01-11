@@ -73,7 +73,7 @@ https://www.nginx.com/blog/inside-nginx-how-we-designed-for-performance-scale
 
 https://www.aosabook.org/en/nginx.html
 
-![image](../../../../media/DevOps-Others-NGINX-image1.jpg)
+![image](../../../media/DevOps-Others-NGINX-image1.jpg)
 
 ## nginx 3rd party modules
 

@@ -17,6 +17,8 @@ Configuration files describe to Terraform the components needed to run a single 
 
 The infrastructure Terraform can manage includes low-level components such as compute instances, storage, and networking, as well as high-level components such as DNS entries, SaaS features, etc.
 
+Terraform is a tool which makes it easy to write version-controlled infrastructure code. You can use it to orchestrate the infrastructure on more than 100 different service providers like AWS, Alicloud, GCP, Azure, OpenStack and many more.
+
 ## Key Features
 
 ### Infrastructure as Code
@@ -35,10 +37,6 @@ Terraform builds a graph of all your resources, and parallelizes the creation an
 
 Complex changesets can be applied to your infrastructure with minimal human interaction. With the previously mentioned execution plan and resource graph, you know exactly what Terraform will change and in what order, avoiding many possible human errors.
 
-## What is Terraform?
-
-Terraform is a tool which makes it easy to write version-controlled infrastructure code. You can use it to orchestrate the infrastructure on more than 100 different service providers like AWS, Alicloud, GCP, Azure, OpenStack and many more.
-
 ## Is Terraform a language?
 
 No. Terraform is a tool, which in turn uses Hashicorp Configuration Language (HCL) to describe your infrastructure as a code. HCL is a declarative language, defining the desired state and not the steps needed to be there.
@@ -49,7 +47,7 @@ https://github.com/hashicorp/hcl
 
 - **Scope -** Confirm what resources need to be created for a given project.
 - **Author -** Create the configuration file in HCL based on the scoped parameters
-- **Initialize -** Run `terraform init` in the project directory with the configuration files. This will download the correct provider plug-ins for the project.
+- **Initialize -** Run `terraform init` in the project directory with the configuration files. This will download the correct provider plugins for the project.
 - **Plan -** Run `terraform plan` to verify creation process
 - **Apply** - Run `terraform apply` to create real resources as well as state file that compares future changes in your configuration files to what actually exists in your deployment environment.
 
@@ -73,7 +71,10 @@ Your entire infrastructure. Defined as code. In about a day
 
 [Gruntwork | DevOps as a Service](https://gruntwork.io/)
 
-## Others - Puppet / AWS CloudFormation
+## Others
+
+- Puppet
+- AWS CloudFormation
 
 ## Terraform vs CloudFormation
 

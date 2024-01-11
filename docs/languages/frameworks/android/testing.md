@@ -70,7 +70,7 @@ https://www.toptal.com/android/testing-like-a-true-green-droid
 
 ## Release
 
-### 1. Registration & Development (iOS & Android):
+### 1. Registration & Development (iOS & Android)
 
 - Enroll in Apple's Developer Program and Google Play Console as iOS and Android developer
 - Code using platform-specific tools: Swift/Obj-C for iOS, and Java/Kotlin for Android

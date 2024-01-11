@@ -85,4 +85,3 @@ Yes, an activity can be created without any user interface. These activities are
 The broadcast receiver communicates with the operation system messages such as "check whether an internet connection is available," what the battery label should be, etc.
 
 https://www.toptal.com/app/interview-questions
-

@@ -1,25 +1,15 @@
 # Cluster Administration
 
 1. Cluster Administration Overview
-
 2. Certificates
-
 3. Cloud Providers
-
 4. Managing Resources
-
 5. Cluster Networking
-
 6. Logging Architecture
-
 7. Configuring kubelet Garbage Collection
-
 8. Federation
-
 9. Proxies in Kubernetes
-
 10. Controller manager metrics
-
 11. Installing Addons
 
 ## Federation
@@ -31,7 +21,6 @@ Kubernetes Cluster Federation (KubeFed for short) allows you to coordinate the c
 The federated clusters can achieve this by doing the following two things
 
 1. Cross cluster discovery
-
 2. Sync resources across clusters
 
 ![image](../../../media/DevOps-Kubernetes-Cluster-Administration-image1.jpg)
