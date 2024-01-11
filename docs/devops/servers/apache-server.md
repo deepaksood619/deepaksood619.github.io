@@ -102,7 +102,7 @@ The self-regulating MPM Prefork derives its namesake from how it forks or copies
 
 Each idle child process joins a queue to listen for incoming requests. This MPM uses a method called [accept mutex](https://httpd.apache.org/docs/2.4/mod/core.html#mutex) to ensure that only one process listens for and accepts the next TCP request (mutex stands for MUTual EXclusion mechanism). The first idle worker process in the queue acquires the mutex and listens for the next incoming connection. After receiving a connection, it releases the accept mutex by passing it to the next idle process in the queue, and processes the request (during which time it is considered a busy worker). After it finishes processing the request, it joins the queue once again.
 
-![image](../../../media/DevOps-Others-Apache-Server-image1.jpg)
+![image](../../media/DevOps-Others-Apache-Server-image1.jpg)
 
 Because this MPM needs a higher number of processes to handle any given number of requests, it is generally more memory-hungry than multi-threaded MPMs like worker and event. For this reason, if you are using mod_php you should consider switching over to [PHP-FPM](https://wiki.apache.org/httpd/PHP-FPM) so that you can use the worker or event MPM instead.
 
@@ -122,7 +122,7 @@ Like the prefork MPM, the worker MPM usesaccept mutexto designate which thread w
 
 The listener thread that accepts the mutex will listen for the next incoming request, accept the connection, and release the accept mutex so that another listener thread can shepherd the next incoming request. The listener thread then passes the socket to an idle worker thread within its process.
 
-![image](../../../media/DevOps-Others-Apache-Server-image2.jpg)
+![image](../../media/DevOps-Others-Apache-Server-image2.jpg)
 
 Unlike the prefork MPM, the worker MPM enables each child process to serve more than one request at a time, by utilizing multiple threads. Because you only need one thread per connection, instead of forking one process per connection, this MPM tends to be more memory-efficient than the prefork MPM.
 
@@ -148,7 +148,7 @@ In the event MPM, a worker thread can write a request to the client, and then pa
 
 If the KeepAliveTimeout is reached before any activity occurs on the socket, the listener thread will close the connection. Also, if any listener thread detects that all worker threads within its process are busy, it will close keep-alive connections, forcing clients to create new connections that can be processed more quickly by other processes' worker threads (although, for the sake of simplicity, we do not show this in the example below). Because the dedicated listener thread helps monitor the lifetime of each keep-alive connection, worker threads that would otherwise have been blocked (waiting for further activity) are instead free to address other active requests.
 
-![image](../../../media/DevOps-Others-Apache-Server-image3.jpg)
+![image](../../media/DevOps-Others-Apache-Server-image3.jpg)
 
 There are a number of other experimental MPMs such as Threadpool, Perchild, and Leader.
 
@@ -196,8 +196,8 @@ MaxConnectionsPerChild 10000
 
 - **StartServers** is the number of child processes created upon starting Apache.
 - [**MaxRequestWorkers**](https://httpd.apache.org/docs/2.4/mod/mpm_common.html#maxrequestworkers)(orMaxClientsin versions prior to 2.4) is the maximum number of connections that can be open at one time. Once this limit has been reached, any additional incoming connections are queued. The maximum size of the queue is determined by theListenBacklogsetting (by default 511, though it can be smaller depending on your OS; on Linux, the queue length is limited bynet.core.somaxconn).
-- **MinSpareServers**/MinSpareThreadsandMaxSpareServers/MaxSpareThreadsrefer to the minimum and maximum number of child processes (in the prefork MPM) or worker threads (in the worker and event MPMs) that should be idle at any one time. If the number of idle processes/threads does not fall within these bounds, the parent process will kill or spawn new processes/threads accordingly.
-- **MaxConnectionsPerChild**(known asMaxRequestsPerChildprior to version 2.4) determines the total number of connections each child process can serve before it is restarted, which can be important for guarding against [memory leaks](https://www.datadoghq.com/blog/monitoring-apache-web-server-performance/#toc-host-level-resource-metrics) when using certain modules like mod_php.
+- **MinSpareServers** / MinSpareThreads and MaxSpareServers / MaxSpareThreads refer to the minimum and maximum number of child processes (in the prefork MPM) or worker threads (in the worker and event MPMs) that should be idle at any one time. If the number of idle processes/threads does not fall within these bounds, the parent process will kill or spawn new processes/threads accordingly.
+- **MaxConnectionsPerChild** (known as MaxRequestsPerChild prior to version 2.4) determines the total number of connections each child process can serve before it is restarted, which can be important for guarding against [memory leaks](https://www.datadoghq.com/blog/monitoring-apache-web-server-performance/#toc-host-level-resource-metrics) when using certain modules like mod_php.
 
 - **Backlog Queue**
   - Backlog Queue settingnet.core.somaxconnfrom128to32768

@@ -3,7 +3,7 @@
 - [Apache Server](devops/servers/apache-server.md)
 - [Gunicorn](devops/servers/gunicorn.md)
 - [NGINX](devops/servers/nginx/readme.md)
-	- [NGINX Configs](devops/servers/nginx/configs.md)
+  - [NGINX Configs](devops/servers/nginx/configs.md)
 
 ## HTTPD (HTTP Daemon)
 
@@ -36,7 +36,7 @@ The application server gets those fancy requests and converts the information fr
 7. WildFly (JBoss) written in Java
 8. Microsoft IIS (Internet Information Services)
 
-![image](../../../media/DevOps-Others-Servers-image1.jpg)
+![image](../../media/DevOps-Others-Servers-image1.jpg)
 
 ## Proxy Server
 
