@@ -2,14 +2,16 @@
 
 ```bash
 docker run --name cas1 -p 9042:9042 -e CASSANDRA_CLUSTER_NAME=MyCluster -e CASSANDRA_ENDPOINT_SNITCH=GossipingPropertyFileSnitch -e CASSANDRA_DC=datacenter1 -d cassandra
+
 docker run --name cas2 -e CASSANDRA_SEEDS="$(docker inspect --format='{{ .NetworkSettings.IPAddress }}' cas1)" -e CASSANDRA_CLUSTER_NAME=MyCluster -e CASSANDRA_ENDPOINT_SNITCH=GossipingPropertyFileSnitch -e CASSANDRA_DC=datacenter1 -d cassandra:latest
+
 docker exec -it cas1 nodetool status
 
 docker exec -it cas1 nodetool ring
 
 docker exec -it cas1 nodetool getendpoints killrvideo videos '1645ea59-14bd-11e5-a993-8138354b7e31'
-docker exec -it cas2 cqlsh
 
+docker exec -it cas2 cqlsh
 ```
 
 ## cqlsh - Cassandra cli tools

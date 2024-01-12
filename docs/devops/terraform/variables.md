@@ -56,10 +56,10 @@ variable "cidrs" { default = [] }
 
 # explicitly
 variable "cidrs" { type = list }
-```
 
-You can specify lists in a terraform.tfvars file:
-`cidrs = [ "10.0.0.0/16", "10.1.0.0/16" ]`
+# You can specify lists in a terraform.tfvars file:
+cidrs = [ "10.0.0.0/16", "10.1.0.0/16" ]
+```
 
 ### Maps
 

@@ -270,6 +270,8 @@ Here are some quick-hit rules for URL path (resource name) design:
 - Use lower-case in URL segments, separating words with underscores (`_`) or hyphens ('-'). Some servers ignore case so it's best to be clear.
 - Keep URLs as short as possible, with as few segments as makes sense.
 
+![Effective and Safe APIs](../../media/Pasted%20image%2020240111204509.png)
+
 https://www.restapitutorial.com/lessons/restquicktips.html
 
 https://www.restapitutorial.com/lessons/restfulresourcenaming.html

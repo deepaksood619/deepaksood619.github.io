@@ -21,6 +21,10 @@
 
 ![image](../../../media/Cassandra_Data-Model-image5.jpg)
 
+## Indexing
+
+[Indexing | CQL for Cassandra 3.0](https://docs.datastax.com/en/cql-oss/3.3/cql/cql_using/usePrimaryIndex.html)
+
 ## Bucketing
 
 Bucketing is a strategy that lets us control how much data is stored in each partition as well as spread writes out to the entire cluster.

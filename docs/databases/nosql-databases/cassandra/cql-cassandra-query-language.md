@@ -61,7 +61,11 @@ SELECT token(video_id), video_id FROM videos;
 
 ![image](../../../media/Cassandra_CQL-(Cassandra-Query-Language)-image1.jpg)
 
-![image](../../../media/Cassandra_CQL-(Cassandra-Query-Language)-image3.jpg)
+### Remember this
+
+- Cassandra finds rows fast
+- Cassandra scans columns fast
+- Cassandra does not scan rows
 
 ![image](../../../media/Cassandra_CQL-(Cassandra-Query-Language)-image4.jpg)
 

@@ -26,3 +26,7 @@ The JMX technology enables Java developers to encapsulate resources as Java obje
 [Basic Introduction to JMX | Baeldung](https://www.baeldung.com/java-management-extensions)
 
 [Java Management Extensions - Wikipedia](https://en.wikipedia.org/wiki/Java_Management_Extensions)
+
+[A Practical Guide to JMX Monitoring with Dynatrace - YouTube](https://www.youtube.com/watch?v=KaLQhLmjP1o&ab_channel=Dynatrace)
+
+[JMX: Much More Than Just Application Monitoring - YouTube](https://www.youtube.com/watch?v=aKGYa6Y9r60&ab_channel=OracleLearning)
