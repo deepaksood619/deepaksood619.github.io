@@ -2,6 +2,7 @@
 
 ## UI / Tools
 
+- [MongoDB Ops Manager | MongoDB](https://www.mongodb.com/products/self-managed/enterprise-advanced/ops-manager)
 - https://studio3t.com
 - Metabase
 

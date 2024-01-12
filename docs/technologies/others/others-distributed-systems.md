@@ -55,3 +55,7 @@ Dapr uses pluggable component state stores and message buses such as Redis as we
 [GitHub - dapr/dapr: Dapr is a portable, event-driven, runtime for building distributed applications across cloud and edge.](https://github.com/dapr/dapr)
 
 [Dapr - Distributed Application Runtime](https://dapr.io/)
+
+[Introducing Dapr: The Distributed Application Runtime - YouTube](https://www.youtube.com/watch?v=9o9iDAgYBA8&ab_channel=Dapr)
+
+[Dapr - The ultimate developer API for authoring microservices - YouTube](https://www.youtube.com/watch?v=mBgQBMhboyU)

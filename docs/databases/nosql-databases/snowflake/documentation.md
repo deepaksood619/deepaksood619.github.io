@@ -460,6 +460,18 @@
   - [Limiting Concurrent Queries](https://docs.snowflake.com/en/user-guide/performance-query-warehouse-max-concurrency "Limiting Concurrent Queries")
 - [Optimizing Storage for Performance](https://docs.snowflake.com/en/user-guide/performance-query-storage "Optimizing Storage for Performance")
 
+#### Memory Spillage
+
+Performance degrades drastically when a warehouse runs out of memory while executing a query because memory bytes must “spill” onto local disk storage. If the query requires even more memory, it spills onto remote cloud-provider storage, which results in even worse performance.
+
+##### Options for Resolving Memory Spillage
+
+When memory spillage is the issue, you can convert your existing warehouse to a Snowpark-optimized warehouse, which provides 16x more memory per node and 10x the local cache compared to a standard warehouse. Though a larger warehouse also has more memory available, a query might not require its expanded compute resources.
+
+If you want to try resolving the spillage of a query without adjusting the warehouse that runs it, use the [Query Profile](https://docs.snowflake.com/en/user-guide/ui-snowsight-activity.html#label-snowsight-query-profile) to identify which operation nodes are causing the spillage.
+
+[Article Detail](https://community.snowflake.com/s/article/Performance-impact-from-local-and-remote-disk-spilling)
+
 ### [Cost Management](https://docs.snowflake.com/en/guides-overview-cost "Cost Management")
 
 - [Understanding Cost](https://docs.snowflake.com/en/user-guide/cost-understanding-overall "Understanding Cost")

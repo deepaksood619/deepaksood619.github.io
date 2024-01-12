@@ -1,6 +1,6 @@
 # Cassandra
 
-Apache Cassandrais a [free and open-source](https://en.wikipedia.org/wiki/Free_and_open-source_software), [distributed](https://en.wikipedia.org/wiki/Distributed_database), [wide column store](https://en.wikipedia.org/wiki/Wide_column_store), [NoSQL](https://en.wikipedia.org/wiki/NoSQL)[database](https://en.wikipedia.org/wiki/Database) management system designed to handle large amounts of data across many [commodity servers](https://en.wikipedia.org/wiki/Commodity_computing), providing high availability with no [single point of failure](https://en.wikipedia.org/wiki/Single_point_of_failure). Cassandra offers robust support for [clusters](https://en.wikipedia.org/wiki/Computer_cluster) spanning multiple datacenters, with asynchronous masterless replication allowing low latency operations for all clients.
+Apache Cassandra is a [free and open-source](https://en.wikipedia.org/wiki/Free_and_open-source_software), [distributed](https://en.wikipedia.org/wiki/Distributed_database), [wide column store](https://en.wikipedia.org/wiki/Wide_column_store), [NoSQL](https://en.wikipedia.org/wiki/NoSQL)[database](https://en.wikipedia.org/wiki/Database) management system designed to handle large amounts of data across many [commodity servers](https://en.wikipedia.org/wiki/Commodity_computing), providing high availability with no [single point of failure](https://en.wikipedia.org/wiki/Single_point_of_failure). Cassandra offers robust support for [clusters](https://en.wikipedia.org/wiki/Computer_cluster) spanning multiple datacenters, with asynchronous masterless replication allowing low latency operations for all clients.
 
 - Intented to run in a datacenter (and also across DCs)
 - Originally designed at Facebook
@@ -8,6 +8,7 @@ Apache Cassandrais a [free and open-source](https://en.wikipedia.org/wiki/Free_a
 - Is a highly scalable, distributed and high-performance NoSQL database. Cassandra is designed to handle a huge amount of data
 - Cassandra handles the huge amount of data with its distributed architecture
 - Data is placed on different machines with more than one replication factor that provides high availability and no single point of failure
+
 Under hood cassandra uses **consistent hashing to shard your data** and also use **gossiping to keep all the nodes informed about the cluster.**
 
 ## Features
@@ -72,7 +73,9 @@ Cassandra is fundamentally a key-value store and distributes data around the clu
 
 - 6000 - 12000 transactions/second/core
 - 2 - 4 TB
-Cassandra vs RDBMS
+
+### Cassandra vs RDBMS
+
 - On > 50 GB data
 - MySQL
   - Writes 300 ms avg
@@ -91,16 +94,10 @@ In the image above, circles are Cassandra nodes and lines between the circles sh
 
 ## References
 
-[**https://academy.datastax.com/**](https://academy.datastax.com/)
-
-https://en.wikipedia.org/wiki/Apache_Cassandra
-
-http://cassandra.apache.org
-
-https://www.tutorialspoint.com/cassandra/index.htm
-
-https://www.freecodecamp.org/news/the-apache-cassandra-beginner-tutorial
-
-[Introduction to Apache Cassandra™ + What's New in 4.0 by Patrick McFadin | DataStax Presents](https://www.youtube.com/watch?v=d7o6a75sfY0)
-
-[Cassandra Tutorial Videos](https://www.youtube.com/playlist?list=PL9ooVrP1hQOGJ4Yz9vbytkRmLaD6weg8k)
+- [**https://academy.datastax.com/**](https://academy.datastax.com/)
+- https://en.wikipedia.org/wiki/Apache_Cassandra
+- http://cassandra.apache.org
+- https://www.tutorialspoint.com/cassandra/index.htm
+- https://www.freecodecamp.org/news/the-apache-cassandra-beginner-tutorial
+- [Introduction to Apache Cassandra™ + What's New in 4.0 by Patrick McFadin | DataStax Presents](https://www.youtube.com/watch?v=d7o6a75sfY0)
+- [Cassandra Tutorial Videos](https://www.youtube.com/playlist?list=PL9ooVrP1hQOGJ4Yz9vbytkRmLaD6weg8k)

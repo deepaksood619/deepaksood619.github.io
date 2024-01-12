@@ -8,9 +8,9 @@ We can depict the whole system as a set of hierarchical layers:
 
 ## Object allocation
 
-Methods and variables are created in**Stack memory**. A stack frame is created whenever methods and variables are created. These frames are destroyed automatically whenever methods are returned.
+Methods and variables are created in **Stack memory**. A stack frame is created whenever methods and variables are created. These frames are destroyed automatically whenever methods are returned.
 
-Objects and instance variables are created in**Heap memory**. As soon as the variables and functions are returned, dead objects will be garbage collected.
+Objects and instance variables are created in **Heap memory**. As soon as the variables and functions are returned, dead objects will be garbage collected.
 
 ## Small object allocation
 
@@ -24,7 +24,7 @@ Block is a chunk of memory of a certain size. Each block can keep only one Pytho
 
 A collection of blocks of the same size is called a pool. Normally, the size of the pool is equal to the size of a [memory page](https://en.wikipedia.org/wiki/Page_(computer_memory)), i.e., 4Kb. Limiting pool to the fixed size of blocks helps with fragmentation. If an object gets destroyed, the memory manager can fill this space with a new object of the same size.
 
-Pools of the same sized blocks are linked together using [doubly linked list](https://en.wikipedia.org/wiki/Doubly_linked_list)(thenextpoolandprevpoolfields). Theszidxfield keeps the size class index, whereasref.countkeeps the number of used blocks. Theare na indexstores the number of an arena in which Pool was created.
+Pools of the same sized blocks are linked together using [doubly linked list](https://en.wikipedia.org/wiki/Doubly_linked_list)(the nextpool and prevpool fields). The szidx field keeps the size class index, whereas ref.count keeps the number of used blocks. The are na index stores the number of an arena in which Pool was created.
 
 Therefore, If a block is empty instead of an object, it stores an address of the next empty block. This trick saves a lot of memory and computation.
 
@@ -34,7 +34,7 @@ Each pool has three states:
 - full - all the pool's blocks are currently allocated
 - empty - all the pool's blocks are currently available for allocation
 
-In order to efficiently manage pools Python uses an additional array calledusedpools. It stores pointers to the pools grouped by class. As we already know, all pools of the same block size are linked together. To iterate over them, we just need to know the start of the list. If there are no pools of such size, then a new pool will be created on the first memory request.
+In order to efficiently manage pools Python uses an additional array called used pools. It stores pointers to the pools grouped by class. As we already know, all pools of the same block size are linked together. To iterate over them, we just need to know the start of the list. If there are no pools of such size, then a new pool will be created on the first memory request.
 
 ## Arena
 

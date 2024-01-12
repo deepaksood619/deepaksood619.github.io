@@ -199,17 +199,6 @@ brew services cleanup
 - ~~fzf (A command-line fuzzy finder) - ~~https://github.com/junegunn/fzf
 - [GitHub - ellie/atuin: 🐢 Magical shell history](https://github.com/ellie/atuin)
 - ~~the_silver_searcher (command ag "services") - ~~https://github.com/ggreer/the_silver_searcher
-- **hstr**
-
-   ```bash
-   hstr --show-configuration >> ~/.zshrc
-   vim ~/.zshrc
-   export HSTR_CONFIG=hicolor, raw-history-view
-
-   ## ctrl+r
-   https://github.com/dvorka/hstr
-   ```
-
 - **awscli**
 - **python3**
 - moreutils
@@ -217,7 +206,23 @@ brew services cleanup
 - **tldr -** https://tldr.sh https://github.com/tldr-pages/tldr
 - brew install pre-commit
 - rename
-- https://fig.io
+
+#### hstr (reverse search)
+
+[GitHub - dvorka/hstr: bash and zsh shell history suggest box - easily view, navigate, search and manage your command history.](https://github.com/dvorka/hstr)
+
+   ```bash
+   brew install hstr
+
+   hstr --show-configuration >> ~/.zshrc
+   vim ~/.zshrc
+   export HSTR_CONFIG=hicolor,raw-history-view
+
+   ## ctrl+r
+   https://github.com/dvorka/hstr
+   ```
+
+#### https://fig.io
 
 ```bash
 brew install --cask fig

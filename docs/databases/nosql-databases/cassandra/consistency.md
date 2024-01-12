@@ -30,4 +30,6 @@
 
 ![image](../../../media/Cassandra_Consistency-image4.jpg)
 
-![image](../../../media/Cassandra_Consistency-image5.jpg)
+### Types of Consistency
+
+- Cassandra offers **Eventual Consistency**

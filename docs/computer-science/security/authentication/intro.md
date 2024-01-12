@@ -172,10 +172,10 @@ When an Credit Saison India service receives the request, it performs the same s
 3. Create a Canonical Request to generate the Signature. Arrange the contents of your request (host, action, headers, etc.) into a standard (canonical) format. A Canonical request is just the representation of the all parts of a request in a single string seperated using annew line character. We will call this canonical request as C1. Note: We would not be using the header as part of the canonical request. Note: All query parameters need to be URL Encoded. Query parameters needs to be in a sorted in an acending order while generating the canonical request
 4. Generate a hash of the canonical request. Similar to Step 1 here we create a SHA256 Hash of C1 by first converting it to UTF-8 encoded string and then hashing it. We will call this hash asH2.
 5. Generate a keyed Hash for the whole Request. The output of Step 4 (H2) is the final string that needs to be hashed using the client secret already shared with you.[HMAC](https://en.wikipedia.org/wiki/HMAC) requires a key and a hashing algorithm to create a signature. We are using the SHA256 algorithm and the client secret to create a signature here. We will call this signature asP1. P1 in turn needs to be BASE64 Encoded.
-6. Add the Signature to the HTTP Request After you calculate the signature, add it to an HTTP header of the request to Credit Saison India' Servers using the headersignature
-7. Add Authentication Headers As part of the of your request to the Credit Saison India Servers. You would also have to pass theAPIKeyandUsernameasx-api-keyandusernameHeaders respectively.
+6. Add the Signature to the HTTP Request After you calculate the signature, add it to an HTTP header of the request to Credit Saison India' Servers using the header signature
+7. Add Authentication Headers As part of the of your request to the Credit Saison India Servers. You would also have to pass the APIKey and Username as x-api-key and username Headers respectively.
 
-## Passkeys
+## Passkeys / Passkey
 
 [Passkeys](https://security.googleblog.com/2023/05/so-long-passwords-thanks-for-all-phish.html) are a new way to sign in to apps and websites. They’re both easier to use and more secure than passwords, so users no longer need to rely on the names of pets, birthdays or the infamous "password123." Instead, passkeys let users sign in to apps and sites the same way they unlock their devices: with a fingerprint, a face scan or a screen lock PIN. And, unlike passwords, passkeys are resistant to online attacks like phishing, making them more secure than things like SMS one-time codes.
 

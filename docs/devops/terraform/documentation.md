@@ -16,13 +16,17 @@ The resource block has two strings before opening the block: the resource type a
 
 By studying the resource attributes used in interpolation expressions, Terraform can automatically infer when one resource depends on another. In the example above, the reference to `aws_instance.example.id` creates an implicit dependency on the aws_instance named example.
 
-Terraform uses this dependency information to determine the correct order in which to create the different resources. In the example above, Terraform knows that the aws_instance must be created before the aws_eip.
+**Terraform uses this dependency information to determine the correct order in which to create the different resources.** In the example above, Terraform knows that the aws_instance must be created before the aws_eip.
 
 Implicit dependencies via interpolation expressions are the primary way to inform Terraform about these relationships, and should be used whenever possible.
 
 Sometimes there are dependencies between resources that are not visible to Terraform. The `depends_on` argument is accepted by any resource and accepts a list of resources to create explicit dependencies for.
 
 For example, perhaps an application we will run on our EC2 instance expects to use a specific Amazon S3 bucket, but that dependency is configured inside the application code and thus not visible to Terraform. In that case, we can use depends_on to explicitly declare the dependency.
+
+#### Difference between Explicit and Implicit Dependency
+
+In Terraform, explicit dependencies are declared using the `depends_on` attribute within resource blocks, providing a clear and intentional specification of relationships between resources. This allows for fine-grained control over the order of resource creation. In contrast, implicit dependencies are automatically inferred by Terraform based on the order of resource declarations in the configuration file, simplifying the configuration by letting the tool manage the order of resource operations without the need for explicit declarations. While explicit dependencies enhance clarity and control, implicit dependencies offer a more automated and concise approach to managing resource relationships in infrastructure as code.
 
 ## Non-dependent resources
 

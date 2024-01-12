@@ -44,22 +44,22 @@ https://docs.aws.amazon.com/vpc/latest/userguide/VPC_Internet_Gateway.html
 
 ## Security Groups
 
-Asecurity groupacts as a virtual firewall for your instance to control inbound and outbound traffic. When you launch an instance in a VPC, you can assign up to five security groups to the instance. Security groups act at the instance level, not the subnet level. Therefore, each instance in a subnet in your VPC can be assigned to a different set of security groups.
+A security group acts as a virtual firewall for your instance to control inbound and outbound traffic. When you launch an instance in a VPC, you can assign up to five security groups to the instance. Security groups act at the instance level, not the subnet level. Therefore, each instance in a subnet in your VPC can be assigned to a different set of security groups.
 
 If you launch an instance using the Amazon EC2 API or a command line tool and you don't specify a security group, the instance is automatically assigned to the default security group for the VPC. If you launch an instance using the Amazon EC2 console, you have an option to create a new security group for the instance.
 
-For each security group, you addrulesthat control the inbound traffic to instances, and a separate set of rules that control the outbound traffic.
+For each security group, you add rules that control the inbound traffic to instances, and a separate set of rules that control the outbound traffic.
 
 ## Security > Data Protection > Internetwork Traffic Privacy in Amazon VPC
 
 Amazon Virtual Private Cloud provides features that you can use to increase and monitor the security for your virtual private cloud (VPC):
 
 - **Security groups:** Security groups act as a firewall for associated Amazon EC2 instances, controlling both inbound and outbound traffic at the instance level. When you launch an instance, you can associate it with one or more security groups that you've created. Each instance in your VPC could belong to a different set of security groups. If you don't specify a security group when you launch an instance, the instance is automatically associated with the default security group for the VPC. For more information, see [Security Groups for Your VPC](https://docs.aws.amazon.com/vpc/latest/userguide/VPC_SecurityGroups.html).
-- **Network access control lists (ACLs):** Network ACLs act as a firewall for associated subnets, controlling both inbound and outbound traffic at the subnet level. For more information, see [Network ACLs](https://docs.aws.amazon.com/vpc/latest/userguide/vpc-network-acls.html).
+- **Network access control lists (NACLs):** Network ACLs act as a firewall for associated subnets, controlling both inbound and outbound traffic at the subnet level. For more information, see [Network ACLs](https://docs.aws.amazon.com/vpc/latest/userguide/vpc-network-acls.html).
 - **Flow logs:** Flow logs capture information about the IP traffic going to and from network interfaces in your VPC. You can create a flow log for a VPC, subnet, or individual network interface. Flow log data is published to CloudWatch Logs or Amazon S3, and it can help you diagnose overly restrictive or overly permissive security group and network ACL rules. For more information, see [VPC Flow Logs](https://docs.aws.amazon.com/vpc/latest/userguide/flow-logs.html).
 - **Traffic mirroring:** You can copy network traffic from an elastic network interface of an Amazon EC2 instance. You can then send the traffic to out-of-band security and monitoring appliances. For more information, see the [Traffic Mirroring Guide](https://docs.aws.amazon.com/vpc/latest/mirroring/).
 
-| **Security group** | **Network ACL** |
+| **Security group** | **Network ACL (NACL)** |
 |---|---|
 | Operates at the instance level | Operates at the subnet level |
 | Supports allow rules only | Supports allow rules and deny rules |
@@ -92,6 +92,35 @@ There are two types of VPC endpoints: **interface endpoints** and **gateway endp
 - **Traffic Path:** Traffic between instances in different VPCs travels across the AWS network, and there is no need to go over the public internet.
 
 In summary, VPC endpoints are primarily used for connecting your VPC to AWS services, ensuring a private and direct connection. On the other hand, VPC peering is used to establish private connections between instances in different VPCs, allowing them to communicate with each other over the AWS network.
+
+## AWS PrivateLink
+
+Establish connectivity between VPCs and AWS services without exposing data to the internet
+
+- Secure your traffic by using private IP addresses when exchanging data with your software as a service (SaaS) applications.
+- Connect with simplified network and firewall management rules and reduced data output and NAT costs.
+- Accelerate cloud migrations by combining PrivateLink with AWS Direct Connect or a VPN.
+
+AWS PrivateLink provides private connectivity between virtual private clouds (VPCs), supported AWS services, and your on-premises networks without exposing your traffic to the public internet. Interface VPC endpoints, powered by PrivateLink, connect you to services hosted by AWS Partners and supported solutions available in AWS Marketplace.
+
+### AWS Private link vs AWS VPC Endpoints
+
+#### Scope
+
+- VPC endpoints are specific to certain AWS services and can be Interface or Gateway endpoints.
+- AWS PrivateLink is a broader service that allows you to connect to multiple AWS services securely.
+
+#### Traffic Isolation
+
+- VPC endpoints keep the traffic within the AWS network but may involve traversing the public internet to reach certain services.
+- AWS PrivateLink ensures that traffic does not leave the AWS network at any point.
+
+#### Service Types
+
+- VPC endpoints are specific to certain AWS services that support them.
+- AWS PrivateLink is a framework for accessing various AWS and third-party services.
+
+In summary, VPC endpoints are specific to certain AWS services, while AWS PrivateLink is a broader solution that provides a consistent and private way to access various services over the AWS network. You might use VPC endpoints for specific services and AWS PrivateLink for a more comprehensive approach to secure, private connectivity.
 
 ## Interface Endpoint
 

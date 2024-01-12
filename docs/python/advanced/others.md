@@ -4,16 +4,18 @@
 
 ```python
 class Mixin1(object):
-def test(self):
-    print "Mixin1"
+ def test(self):
+     print "Mixin1"
+
 class Mixin2(object):
-def test(self):
-    print "Mixin2"
+ def test(self):
+     print "Mixin2"
+
 class MyClass(BaseClass, Mixin1, Mixin2):
-pass
+ pass
 ```
 
-So in this case the Mixin2class is the base class, extended byMixin1and finally byBaseClass. This is usually fine because many times the mixin classes don't override each other's, or the base class' methods. But if you do override methods or properties in your mixins this can lead to unexpected results because the priority of how methods are resolved is from left to right.
+So in this case the Mixin2 class is the base class, extended by Mixin1 and finally by BaseClass. This is usually fine because many times the mixin classes don't override each other's, or the base class' methods. But if you do override methods or properties in your mixins this can lead to unexpected results because the priority of how methods are resolved is from left to right.
 
 ## Ensembles
 
@@ -202,16 +204,10 @@ The easiest way to do so is to useimport my_modulesyntax, rather thanfrom my_mod
 
 ## Others
 
-https://dev.libreneitor.com/expert-python-topics-you-should-know
-
-https://realpython.com/run-python-scripts
-
-https://realpython.com/storing-images-in-python
-
-https://realpython.com/python-coding-interview-tips
-
-https://www.codementor.io/@arpitbhayani/how-python-implements-super-long-integers-12icwon5vk
-
-https://www.toptal.com/python/interview-questions
-
-[The Power Of The Plugin Architecture In Python](https://youtu.be/iCE1bDoit9Q)
+- https://dev.libreneitor.com/expert-python-topics-you-should-know
+- https://realpython.com/run-python-scripts
+- https://realpython.com/storing-images-in-python
+- https://realpython.com/python-coding-interview-tips
+- https://www.codementor.io/@arpitbhayani/how-python-implements-super-long-integers-12icwon5vk
+- https://www.toptal.com/python/interview-questions
+- [The Power Of The Plugin Architecture In Python](https://youtu.be/iCE1bDoit9Q)

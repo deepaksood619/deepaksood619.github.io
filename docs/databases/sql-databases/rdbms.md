@@ -35,6 +35,8 @@ All data stored in a relational database is of a certain data type. Some of the 
 - Oracle DB is for large applications, particularly in the banking industry. Most of the world's top banks run Oracle applications because Oracle offers a powerful combination of technology and comprehensive, pre-integrated business applications, including essential functionality built specifically for banks.
 - The main disadvantage of using Oracle is that it is not free to use like its open source competitors and can be quite expensive.
 
+[Bi-Directional Replication](https://docs.oracle.com/en/middleware/goldengate/core/21.3/coredoc/administer-configuring-bi-directional-replication.html)
+
 ### SQL Server
 
 - Microsoft owns SQL Server. Like Oracle DB, the code is also close sourced.

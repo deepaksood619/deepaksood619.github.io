@@ -16,6 +16,15 @@ apply         Create or update infrastructure
 destroy       Destroy previously-created infrastructure
 ```
 
+### Global options (use these before the subcommand, if any)
+
+```bash
+-chdir=DIR    Switch to a different working directory before executing the
+   given subcommand.
+-help         Show this help output, or the help for a specified subcommand.
+-version      An alias for the "version" subcommand.
+```
+
 ### All other commands
 
 ```bash
@@ -40,11 +49,6 @@ version       Show the current Terraform version
 workspace     Workspace management
 ```
 
-### Global options (use these before the subcommand, if any)
+#### Terraform refresh
 
-```bash
--chdir=DIR    Switch to a different working directory before executing the
-   given subcommand.
--help         Show this help output, or the help for a specified subcommand.
--version      An alias for the "version" subcommand.
-```
+The `terraform refresh` command reads the current settings from all managed remote objects and updates the Terraform state to match.
