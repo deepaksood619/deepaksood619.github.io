@@ -196,15 +196,16 @@ In our example, for the following record, a composite index key is formed by con
 
 ## Covering Index
 
-A covering index is a special kind of composite index where all the columns specified in the query somewhere exist in the index. So the query optimizer does not need to hit the database to get the data - rather it gets the result from the index itself. Example: we have already defined a composite index on(pan_no, name, age), so now consider the following query:
+A covering index is a special kind of composite index where all the columns specified in the query somewhere exist in the index. So the query optimizer does not need to hit the database to get the data - rather it gets the result from the index itself. Example: we have already defined a composite index on (pan_no, name, age), so now consider the following query:
 
 `SELECT age FROM index_demo WHERE pan_no = 'HJKXS9086W' AND name = 'kousik'`
 
-The columns mentioned in theSELECT&WHEREclauses are part of the composite index. So in this case, we can actually get the value of theagecolumn from the composite index itself. Let's see what theEXPLAINcommand shows for this query:
+The columns mentioned in the SELECT & WHERE clauses are part of the composite index. So in this case, we can actually get the value of the age column from the composite index itself. Let's see what the EXPLAIN command shows for this query:
 
 `EXPLAIN FORMAT=JSON SELECT age FROM index_demo WHERE pan_no = 'HJKXS9086W' AND name = '111kousik1';`
 
 In the response, note that there is a key -using_indexwhich is set totruewhich signifies that the covering index has been used to answer the query.
+
 If your secondary index holds all the data needed to satisfy your query (it 'covers' it) then you don't need to follow the Primary Key values to fetch any additional data!
 
 ## Partial Index

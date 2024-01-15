@@ -96,6 +96,8 @@ https://www.getdbt.com
 
 [What is Analytics Engineering?](https://www.getdbt.com/what-is-analytics-engineering/)
 
+[Getting Started with dbt (Data Build Tool): A Beginner’s Guide to Building Data Transformations | by Suffyan Asad | Medium](https://medium.com/@suffyan.asad1/getting-started-with-dbt-data-build-tool-a-beginners-guide-to-building-data-transformations-28e335be5f7e)
+
 ## SAAS
 
 [Atlan](https://atlan.com/)

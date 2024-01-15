@@ -4,7 +4,7 @@ Build intelligent applications powered by semantic search and generative AI over
 
 ### Vector search
 
-Vector search is a capability that allows you to do semantic search where you are searching data based on meaning. This technique employs machine learning models, often called encoders, to transform text, audio, images, or other types of data into high-dimensional vectors. These vectors capture the semantic meaning of the data, which can then be searched through to find similar content based on vectors being “near” one another in a high-dimensional space. This can be a great compliment to traditional keyword-based search techniques but is also seeing an explosion of excitement because of its relevance to augment the capabilities of large language models (LLMs) by providing ground truth outside of what the LLMs “know.” In search use cases, this allows you to find relevant results even when the exact wording isn't known. This technique can be useful in a variety of contexts, such as natural language processing and recommendation systems.
+Vector search is a capability that allows you to do semantic search where you are searching data based on meaning. This technique employs machine learning models, often called encoders, to transform text, audio, images, or other types of data into high-dimensional vectors. These vectors capture the semantic meaning of the data, which can then be searched through to find similar content based on vectors being "near" one another in a high-dimensional space. This can be a great compliment to traditional keyword-based search techniques but is also seeing an explosion of excitement because of its relevance to augment the capabilities of large language models (LLMs) by providing ground truth outside of what the LLMs "know." In search use cases, this allows you to find relevant results even when the exact wording isn't known. This technique can be useful in a variety of contexts, such as natural language processing and recommendation systems.
 
 ### What is Atlas Vector Search?
 
@@ -34,7 +34,7 @@ KNN stands for "K Nearest Neighbors," which is the algorithm frequently used to 
 
 ### What is $vector Search and how does it differ from the knn Beta operator in $search?
 
-`$vector` Search is a new aggregation stage in MongoDB Atlas that lets you execute an Approximate Nearest Neighbor query with MongoDB Query Language filtering `(e.g., “$eq” or “$gte”)`. This stage will be supported on Atlas clusters version 6.0 and higher. The knn Beta operator in $search will continue to be supported as well.
+`$vector` Search is a new aggregation stage in MongoDB Atlas that lets you execute an Approximate Nearest Neighbor query with MongoDB Query Language filtering `(e.g., "$eq" or "$gte")`. This stage will be supported on Atlas clusters version 6.0 and higher. The knn Beta operator in $search will continue to be supported as well.
 
 ### What is ANN?
 

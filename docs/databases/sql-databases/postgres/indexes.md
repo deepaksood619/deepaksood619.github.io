@@ -14,6 +14,19 @@ Hash indexes store a 32-bit hash code derived from the value of the indexed colu
 
 [PostgreSQL: Documentation: 16: 11.2. Index Types](https://www.postgresql.org/docs/current/indexes-types.html#INDEXES-TYPES-HASH)
 
+#### B-tree vs Hash Indexes
+
+A B-tree index can be used for column comparisons in expressions that use the =, `>`, `>=`, `<=`, `<`, or BETWEEN operators. The index also can be used for [`LIKE`](https://dev.mysql.com/doc/refman/8.0/en/string-comparison-functions.html#operator_like) comparisons if the argument to [`LIKE`](https://dev.mysql.com/doc/refman/8.0/en/string-comparison-functions.html#operator_like) is a constant string that does not start with a wildcard character.
+
+#### Hash Index Characteristics
+
+- They are used only for equality comparisons that use the = or `<=>` operators (but are _very_ fast). They are not used for comparison operators such as `<` that find a range of values. Systems that rely on this type of single-value lookup are known as "key-value stores"; to use MySQL for such applications, use hash indexes wherever possible.
+- The optimizer cannot use a hash index to speed up `ORDER BY` operations. (This type of index cannot be used to search for the next entry in order.)
+- MySQL cannot determine approximately how many rows there are between two values (this is used by the range optimizer to decide which index to use). This may affect some queries if you change a `MyISAM` or `InnoDB` table to a hash-indexed `MEMORY` table.
+- Only whole keys can be used to search for a row. (With a B-tree index, any leftmost prefix of the key can be used to find rows.)
+
+[8.3.9 Comparison of B-Tree and Hash Indexes](https://dev.mysql.com/doc/refman/8.0/en/index-btree-hash.html)
+
 ### [BRIN indexes](https://www.postgresql.org/docs/11/brin-intro.html)
 
 A Block Range INdex (BRIN) can be used when your table is naturally already sorted by a column, and you need to sort by that column. For example, for a log table that was written sequentially, setting a BRIN index on the timestamp column lets the server know that the data is already sorted.

@@ -31,6 +31,7 @@
 [Parents Commiting A Big Mistake Regarding Their Children Education - YouTube](https://www.youtube.com/watch?v=mlAR8dmMHf0)
 
 - Put children late in school
+- Homeschooling vs full day boarding
 
 ### Toys
 

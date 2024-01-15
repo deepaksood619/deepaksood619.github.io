@@ -40,7 +40,7 @@ An important operation defined on Redis lists is the ability topop elements. Pop
 
 ## Capped Lists
 
-Redis allows us to use lists as a capped collection, only remembering the latest N items and discarding all the oldest items using the [LTRIM](https://redis.io/commands/ltrim) command.
+Redis allows us to use lists as a capped collections, only remembering the latest N items and discarding all the oldest items using the [LTRIM](https://redis.io/commands/ltrim) command.
 The [LTRIM](https://redis.io/commands/ltrim) command is similar to [LRANGE](https://redis.io/commands/lrange), butinstead of displaying the specified range of elementsit sets this range as the new list value. All the elements outside the given range are removed.
 Note: while [LRANGE](https://redis.io/commands/lrange) is technically anO(N) command, accessing small ranges towards the head or the tail of the list is a constant time operation.
 

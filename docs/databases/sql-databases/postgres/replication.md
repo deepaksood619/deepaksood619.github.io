@@ -62,3 +62,4 @@ The publisher- and subscriber-based [logical replication feature](https://www.p
 - [30. Logical Replication](https://www.postgresql.org/docs/12/logical-replication.html)
 - [49. Replication Progress Tracking](https://www.postgresql.org/docs/12/replication-origins.html)
 - [EDB failover manager (EFM) for managing streaming replication - DBACLASS DBACLASS](https://dbaclass.com/article/edb-failover-managerefm-for-managing-streaming-replication/)
+- [Difference between PostgreSQL and MySQL: (1) Replication · Hironobu SUZUKI @ InterDB](https://www.interdb.jp/blog/pgsql/pg_vs_my_01/)

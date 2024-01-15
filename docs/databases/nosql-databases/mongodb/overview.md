@@ -82,7 +82,3 @@ Indexes are special data structures, that store a small portion of the data set 
 ## Aggregations
 
 Aggregations operations process data records and return computed results. Aggregation operations group values from multiple documents together, and can perform a variety of operations on the grouped data to return a single result. In `SQL count(*)` and with group by is an equivalent of mongodb aggregation.
-
-## Replication
-
-MongoDB achieves replication by the use of replica set. A replica set is a group of mongod instances that host the same data set. In a replica, one node is primary node that receives all write operations. All other instances, such as secondaries, apply operations from the primary so that they have the same data set. Replica set can have only one primary node.

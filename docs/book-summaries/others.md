@@ -12,6 +12,7 @@
 - [How to defeat your inner enemy: COMING ALIVE by Barry Michels & Phil Stutz | Core Message - YouTube](https://www.youtube.com/watch?v=AFFPoz8bPZ0)
 - [Infinite mindset = sustained performance | THE INFINITE GAME by Simon Sinek | Core Message - YouTube](https://www.youtube.com/watch?v=jQU36VGWV_o)
 - [THE PRODUCTIVITY PROJECT by Chris Bailey | Animated Core Message - YouTube](https://youtu.be/fUabJO4UAso?si=ne70pbwMiJ2FYTlW)
+- [Make work enjoyable: FEEL-GOOD PRODUCTIVITY by Ali Abdaal | Core Message - YouTube](https://www.youtube.com/watch?v=F-PnVe9RxrM&ab_channel=ProductivityGame)
 
 [Learn to lead: THE 21 IRREFUTABLE LAWS OF LEADERSHIP by John Maxwell | Core Message - YouTube](https://www.youtube.com/watch?v=QQhdiktL99w)
 

@@ -124,6 +124,8 @@ https://docs.mongodb.com/manual/core/gridfs
 
 https://www.ferretdb.io - A truly Open Source MongoDB alternative
 
+[MongoDB Limits and Thresholds — MongoDB Manual](https://www.mongodb.com/docs/manual/reference/limits/)
+
 ## References
 
 https://www.tutorialspoint.com/mongodb

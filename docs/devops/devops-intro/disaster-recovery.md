@@ -115,3 +115,5 @@ https://github.com/kanisterio/kanister
 ## Others
 
 https://d1.awsstatic.com/whitepapers/architecture/AWS-Reliability-Pillar.pdf
+
+[High availability is not disaster recovery - Disaster Recovery of Workloads on AWS: Recovery in the Cloud](https://docs.aws.amazon.com/whitepapers/latest/disaster-recovery-workloads-on-aws/high-availability-is-not-disaster-recovery.html)

@@ -263,8 +263,7 @@ Is a high-performance, full-featured text search engine library written entirely
 - [MADlib](http://madlib.apache.org/) - Big data machine learning in SQL
 - [ManifoldCF](http://manifoldcf.apache.org/)
 - [Marmotta](http://marmotta.apache.org/)
-- [Maven](http://maven.apache.org/)
-  - `apt install maven`
+- [Maven](http://maven.apache.org/) - `apt install maven` `brew install maven`
 - [Mesos](http://mesos.apache.org/) - Distributed systems kernel (all compute resources abstracted)
 - [MetaModel](http://metamodel.apache.org/)
 - [Metron](http://metron.apache.org/)

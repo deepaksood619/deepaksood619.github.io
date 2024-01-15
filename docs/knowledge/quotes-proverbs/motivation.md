@@ -22,6 +22,8 @@ Motivation comes after you start the work and not before
 
 One of the most important keys to achievement is having the drive and discipline to do what you know you should do, especially when you don't feel like doing it. Your ability and willingness to do the difficult thing makes life easier.
 
+Success doesn’t lead to feeling good. Feeling good leads to success. - Ali Abdaal
+
 Deliberate Practice
 
 Grit is passion and perseverance for long term goals

@@ -86,6 +86,7 @@ https://www.sonarqube.org
 
 ## Other Tools
 
+- [Checkov](computer-science/testing/checkov.md)
 - CodeScene
 - https://github.com/adamtornhill/code-maat
 - [Software Engineering Intelligence | Code Climate](https://codeclimate.com) - https://github.com/codeclimate/codeclimate
