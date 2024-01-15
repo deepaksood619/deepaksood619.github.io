@@ -12,6 +12,7 @@
 - [Lambda Architecture](databases/data-warehousing/10-lambda-architecture.md)
 - [Databases](databases/data-warehousing/11-dw-databases.md)
 - [Change Data Capture (CDC)](databases/data-warehousing/change-data-capture-cdc.md)
+- [Debezium](databases/data-warehousing/debezium.md)
 
 ### Others
 

@@ -8,3 +8,5 @@
 - [iperf3 Testing](iperf3-testing)
 - [Test Pyramid](test-pyramid)
 - [Postman](postman)
+- [Selenium](computer-science/testing/selenium.md)
+- [Checkov](computer-science/testing/checkov.md)

@@ -1480,5 +1480,6 @@
 1470. [Warren Buffett: This Is How Most People Should Invest Now To Get Rich Fr...](https://youtu.be/rO1nv1Ukm_8?si=GywOYKK4_KFidWs3)
 1471. [State of value investing in 2024](https://youtu.be/dLW0h8lPcG8?si=mq4JK0ZhA2vo8doJ)
 1472. [Cathie Wood "Mark My Words, Everyone Who Own These 3 Stocks Will Become ...](https://youtu.be/Ab-VwBpQYP0?si=Gep0a5oE-6-nONX9)
+1473. [8 Investing Hacks That Will Actually Improve Your Portfolio - YouTube](https://www.youtube.com/watch?v=AXNNdAyVdhk&ab_channel=NewMoney)
 
 ## End

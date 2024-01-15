@@ -8,23 +8,15 @@ CDC solutions occur most often in [data-warehouse](https://en.wikipedia.org/wiki
 
 [Change Data Capture for Microservices - YouTube](https://www.youtube.com/watch?v=M6Z-RpEdaN4&ab_channel=InfoQ)
 
-### Tools (Data Migration / CDC)
+### [Debezium](databases/data-warehousing/debezium.md)
 
-#### Debezium
-
-Debezium is an open source distributed platform for change data capture. Start it up, point it at your databases, and your apps can start responding to all of the inserts, updates, and deletes that other apps commit to your databases. Debezium is durable and fast, so your apps can respond quickly and never miss an event, even when things go wrong.
-
-[Debezium](https://debezium.io)
-
-[GitHub - ivangfr/springboot-kafka-connect-debezium-ksqldb: Experiment with Kafka, Debezium, and ksqlDB. research-service: Performs MySQL record manipulation. Source Connectors: Monitor MySQL changes, push messages to Kafka. Sink Connectors and kafka-research-consumer: Listen to Kafka, insert/update Elasticsearch. ksqlDB-Server: Listens to Kafka, performs joins, and pushes new messages to new Kafka topics.](https://github.com/ivangfr/springboot-kafka-connect-debezium-ksqldb)
-
-#### AWS DMS (Data Migration Service)
+### AWS DMS (Data Migration Service)
 
 [aws-database-migration-service-dms](cloud/aws/aws-database-migration-service-dms.md)
 
 https://en.wikipedia.org/wiki/Change_data_capture
 
-#### Others
+### Others
 
 - fivetran
 - Talend

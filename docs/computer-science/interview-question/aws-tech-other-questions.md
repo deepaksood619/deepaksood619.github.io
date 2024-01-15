@@ -97,3 +97,7 @@ https://aws.amazon.com/blogs/aws/fast-easy-free-sync-rds-to-redshift
 - Drinking sip sip water or glass of water
 - Eating 3 big meals vs 6 small meals
 - Drinking just after eating or not
+
+### Others
+
+- Which are the loudest / softest cultures in the world

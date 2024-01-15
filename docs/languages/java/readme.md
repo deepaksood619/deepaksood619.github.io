@@ -15,5 +15,6 @@
 - [JMX](languages/java/jmx.md)
 - [Questions](languages/java/questions.md)
 - [Spring](spring)
+- [Frameworks](languages/java/frameworks.md)
 - [Libraries](languages/java/libraries.md)
 - [Others](languages/java/others.md)
