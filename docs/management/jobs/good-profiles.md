@@ -1,5 +1,6 @@
 # Good Profiles
 
+- [linkedin.com/in/dr-vinod-ebinezer-44b2981/details/experience/](https://www.linkedin.com/in/dr-vinod-ebinezer-44b2981/details/experience/)
 - https://www.linkedin.com/in/hirenchandaria
 - https://www.linkedin.com/in/maheshvc
 - https://www.linkedin.com/in/raghuram-rajan

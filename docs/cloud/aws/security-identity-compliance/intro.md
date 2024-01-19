@@ -92,7 +92,9 @@ The following cloud providers are currently supported/planned:
 - Alibaba Cloud (alpha)
 - Oracle Cloud Infrastructure (alpha)
 
-https://github.com/nccgroup/ScoutSuite
+[GitHub - nccgroup/ScoutSuite: Multi-Cloud Security Auditing Tool](https://github.com/nccgroup/ScoutSuite)
+
+[Docker Image · nccgroup/ScoutSuite Wiki · GitHub](https://github.com/nccgroup/ScoutSuite/wiki/Docker-Image)
 
 #### Running scoutsuite (Download scoutsuite repo)
 

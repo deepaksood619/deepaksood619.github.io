@@ -145,6 +145,18 @@ SG - Security Groups
 
 https://docs.aws.amazon.com/vpc/latest/userguide/vpc-eips.html
 
+### Changes
+
+Effective February 1, 2024 there will be a charge of $0.005 per IP per hour for all public IPv4 addresses, whether attached to a service or not (there is already a charge for public IPv4 addresses you allocate in your account but don’t attach to an EC2 instance).
+
+This will cost around $4 month per IP per month
+
+[New – AWS Public IPv4 Address Charge + Public IP Insights | AWS News Blog](https://aws.amazon.com/blogs/aws/new-aws-public-ipv4-address-charge-public-ip-insights/)
+
+[Identify and optimize public IPv4 address usage on AWS | Networking & Content Delivery](https://aws.amazon.com/blogs/networking-and-content-delivery/identify-and-optimize-public-ipv4-address-usage-on-aws/)
+
+[ipv6](https://aws.amazon.com/vpc/ipv6/)
+
 ## Others
 
 [What is AWS Direct Connect? - AWS Direct Connect](https://docs.aws.amazon.com/directconnect/latest/UserGuide/Welcome.html)

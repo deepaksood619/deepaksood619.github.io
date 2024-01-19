@@ -44,3 +44,29 @@ There are mainly two ways of deploying an ML model:
 [ZenML - Seamless End-to-End MLOps](https://www.zenml.io/)
 
 [Starter guide - ZenML Documentation](https://docs.zenml.io/user-guide/starter-guide)
+
+#### KubeFlow
+
+Kubeflow is a Cloud Native platform for machine learning based on Google's internal machine learning pipelines.
+
+https://www.kubeflow.org
+
+https://github.com/kubeflow/kubeflow
+
+## Roadmap
+
+[sig-mlops/roadmap/2022/MLOpsRoadmap2022.md at main · cdfoundation/sig-mlops · GitHub](https://github.com/cdfoundation/sig-mlops/blob/main/roadmap/2022/MLOpsRoadmap2022.md)
+
+### Examples
+
+[GitHub - sayakpaul/ml-deployment-k8s-fastapi: This project shows how to serve an ONNX-optimized image classification model as a web service with FastAPI, Docker, and Kubernetes.](https://github.com/sayakpaul/ml-deployment-k8s-fastapi)
+
+[MLOps roadmap 2024. The MLOps engineer role is different… | by Vechtomova Maria | Marvelous MLOps | Dec, 2023 | Medium](https://medium.com/marvelous-mlops/mlops-roadmap-2024-ff4216b8bc62)
+
+[Roadmap To Become A Successful MLOps Engineer - The Workfall Blog](https://www.workfall.com/learning/blog/roadmap-to-become-a-successful-mlops-engineer/)
+
+### Courses
+
+[The Full Stack 7-Steps MLOps Framework — Paul Iusztin](https://www.pauliusztin.me/courses/the-full-stack-7-steps-mlops-framework)
+
+[MLOps Course - Made With ML](https://madewithml.com/courses/mlops/)

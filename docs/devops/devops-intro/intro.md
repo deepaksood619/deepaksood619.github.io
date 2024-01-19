@@ -49,18 +49,6 @@ Monitoring means knowing what's going on inside your system, how much traffic it
 
 **Remediation is a more thorough and long-term solution than repair**. Repair is for minor damage that doesn't have an underlying cause. Remediation is for major or recurring damage caused by an underlying issue.
 
-## GitOps
-
-GitOps is a way of implementing Continuous Deployment for cloud native applications. It focuses on a developer-centric experience when operating infrastructure, by using tools developers are already familiar with, including Git and Continuous Deployment tools.
-
-The core idea of GitOps is having a Git repository that always contains declarative descriptions of the infrastructure currently desired in the production environment and an automated process to make the production environment match the described state in the repository. If you want to deploy a new application or update an existing one, you only need to update the repository - the automated process handles everything else. It's like having cruise control for managing your applications in production
-
-Git is the single source of truth for the desired state of a system
-
-https://devops.com/an-inside-look-at-gitops
-
-[https://www.gitops.tech](https://www.gitops.tech/)
-
 ## References
 
 https://www.toptal.com/devops/bridging-gaps-devops-communication

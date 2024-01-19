@@ -112,6 +112,16 @@ A framework for data management in Kubernetes. It allows domain experts to defin
 
 https://github.com/kanisterio/kanister
 
+### AWS Elastic Disaster Recovery
+
+Can run drills and initiate recovery from console
+
+[AWS Elastic Disaster Recovery](https://aws.amazon.com/disaster-recovery/)
+
+[What is Elastic Disaster Recovery? - AWS Elastic Disaster Recovery](https://docs.aws.amazon.com/drs/latest/userguide/what-is-drs.html)
+
+[Get Started with AWS Elastic Disaster Recovery | Amazon Web Services - YouTube](https://www.youtube.com/watch?v=GAMUCIJR5as)
+
 ## Others
 
 https://d1.awsstatic.com/whitepapers/architecture/AWS-Reliability-Pillar.pdf

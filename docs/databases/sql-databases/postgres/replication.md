@@ -56,6 +56,14 @@ The publisher- and subscriber-based [logical replication feature](https://www.p
 
 [Converting from Asynchronous to Synchronous Replication in PostgreSQL | Severalnines](https://severalnines.com/database-blog/converting-asynchronous-synchronous-replication-postgresql)
 
+## Dump and Restore
+
+[PostgreSQL: improving pg\_dump, pg\_restore performance - Stack Overflow](https://stackoverflow.com/questions/2094963/postgresql-improving-pg-dump-pg-restore-performance)
+
+[pg dump - Postgresql 13 - Speed up pg\_dump to 5 minutes instead of 70 minutes - Server Fault](https://serverfault.com/questions/1081642/postgresql-13-speed-up-pg-dump-to-5-minutes-instead-of-70-minutes)
+
+[Speeding up Postgres Data Dumps](https://www.iseatz.com/blog/speeding-up-postgres-data-dumps)
+
 ## Links
 
 - [26. High Availability, Load Balancing, and Replication](https://www.postgresql.org/docs/12/high-availability.html)

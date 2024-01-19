@@ -197,10 +197,10 @@ for content in response['Contents']:
 
 ** you would have to use a [paginator](http://boto3.readthedocs.io/en/latest/guide/paginators.html), or implement your own loop, calling list_objects() repeatedly with a continuation marker if there were more than 1000.
 
-## Resource
+### Resource
 
 - higher-level, object-oriented API
-- generated fromresourcedescription
+- generated from resource description
 - uses identifiers and attributes
 - has actions (operations on resources)
 - exposes subresources and collections of AWS resources
@@ -218,11 +218,11 @@ for obj in bucket.objects.all():
     print(obj.key, obj.last_modified)
 ```
 
-Note that in this case you do not have to make a second API call to get the objects; they're available to you as a collection on the bucket. These collections of subresources are lazily-loaded.
+Note that in this case you do not have to make a second API call to get the objects; they're available to you as a collection on the bucket. These collections of sub-resources are lazily-loaded.
 
-You can see that theResourceversion of the code is much simpler, more compact, and has more capability (it does pagination for you). TheClientversion of the code would actually be more complicated than shown above if you wanted to include pagination.
+You can see that the Resource version of the code is much simpler, more compact, and has more capability (it does pagination for you). The Client version of the code would actually be more complicated than shown above if you wanted to include pagination.
 
-## Session
+### Session
 
 - stores configuration information (primarily credentials and selected region)
 - allows you to create service clients and resources
@@ -240,16 +240,10 @@ https://docs.aws.amazon.com/general/latest/gr/api-retries.html
 
 ## References
 
-https://github.com/boto/boto3
-
-https://boto3.amazonaws.com/v1/documentation/api/latest/guide/migrations3.html#creating-the-connection
-
-https://boto3.amazonaws.com/v1/documentation/api/latest/guide/configuration.html
-
-Example for sending email - https://docs.aws.amazon.com/ses/latest/DeveloperGuide/send-using-sdk-python.html
-
-https://boto3.amazonaws.com/v1/documentation/api/latest/reference/services/rds.html
-
-https://www.youtube.com/watch?v=Cb2czfCV4Dg
-
-https://medium.com/tysonworks/concurrency-with-boto3-41cfa300aab4
+- https://github.com/boto/boto3
+- https://boto3.amazonaws.com/v1/documentation/api/latest/guide/migrations3.html#creating-the-connection
+- https://boto3.amazonaws.com/v1/documentation/api/latest/guide/configuration.html
+- Example for sending email - https://docs.aws.amazon.com/ses/latest/DeveloperGuide/send-using-sdk-python.html
+- https://boto3.amazonaws.com/v1/documentation/api/latest/reference/services/rds.html
+- https://www.youtube.com/watch?v=Cb2czfCV4Dg
+- https://medium.com/tysonworks/concurrency-with-boto3-41cfa300aab4

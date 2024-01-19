@@ -3,45 +3,45 @@
 [PM Templates - by Paweł Huryn](https://www.productcompass.pm/p/templates)
 
 1. notion.so
-1. https://www.appflowy.io - AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust.
-2. https://github.com/AppFlowy-IO/appflowy
-3. https://www.focalboard.com - Alternative to Asana / Trello / Notion
-2. Free Open Source / Self hosted - https://www.taiga.io
-3. Atlassian JIRA
-4. Asana
-5. Orangescrum - https://github.com/Orangescrum/orangescrum
-6. https://kitemaker.co
-7. AirTable
-1. https://www.nocodb.com (Airtable Alternative) - [GitHub - nocodb/nocodb: 🔥 🔥 🔥 Open Source Airtable Alternative](https://github.com/nocodb/nocodb)
-8. Trello - https://blog.trello.com/trello-team-playbooks
-9. BaseCamp / workday
-10. firmbee
-11. Calendar
-12. Slack
+2. https://www.appflowy.io - AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust.
+3. https://github.com/AppFlowy-IO/appflowy
+4. https://www.focalboard.com - Alternative to Asana / Trello / Notion
+5. Free Open Source / Self hosted - https://www.taiga.io
+6. Atlassian JIRA
+7. Asana
+8. Orangescrum - https://github.com/Orangescrum/orangescrum
+9. https://kitemaker.co
+10. AirTable
+11. https://www.nocodb.com (Airtable Alternative) - [GitHub - nocodb/nocodb: 🔥 🔥 🔥 Open Source Airtable Alternative](https://github.com/nocodb/nocodb)
+12. Trello - https://blog.trello.com/trello-team-playbooks
+13. BaseCamp / workday
+14. firmbee
+15. Calendar
+16. Slack
     - Brief - https://www.gobrief.com
     - https://www.quora.com/What-Slack-to-do-list-app-do-you-recommend
     - https://about.gitlab.com/handbook/communication/chat
-13. Gmail
+17. Gmail
       1. Mailman (batches incoming email and keeps brain from getting distracted by the endless trickle of new email)
       2. Zoho
       3. https://360.yandex.ru/business
-14. Gitlab issues
-15. https://fireflies.ai - AI assistant for your meetings
-16. Calendly
-1. https://topmate.io
-2. [The scheduling tool that speaks your language - YouCanBookMe](https://youcanbook.me/)
-17. https://github.com/opf/openproject
-18. https://freedcamp.com
-19. Google sheets - https://www.goskills.com/Project-Management/Resources/Project-management-template-Google-Sheets
-20. Google Forms / https://www.jotform.com
-21. Screenbrush
-22. https://www.productboard.com
-23. Product - https://appsumo.com
-24. jenni.ai - AI content writing
-25. https://www.cymath.com - Solve maths question
-26. https://attentioninsight.com
-27. [Mind Map & Brainstorm Ideas - MindNode](https://www.mindnode.com/)
-1. [Canva: Visual Suite for Everyone](https://www.canva.com)
+18. Gitlab issues
+19. https://fireflies.ai - AI assistant for your meetings
+20. Calendly
+21. https://topmate.io
+22. [The scheduling tool that speaks your language - YouCanBookMe](https://youcanbook.me/)
+23. https://github.com/opf/openproject
+24. https://freedcamp.com
+25. Google sheets - https://www.goskills.com/Project-Management/Resources/Project-management-template-Google-Sheets
+26. Google Forms / https://www.jotform.com
+27. Screenbrush
+28. https://www.productboard.com
+29. Product - https://appsumo.com
+30. jenni.ai - AI content writing
+31. https://www.cymath.com - Solve maths question
+32. https://attentioninsight.com
+33. [Mind Map & Brainstorm Ideas - MindNode](https://www.mindnode.com/)
+34. [Canva: Visual Suite for Everyone](https://www.canva.com)
 
 The tools of a successful product manager
 

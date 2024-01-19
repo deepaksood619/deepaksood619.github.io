@@ -36,3 +36,7 @@ https://www.envoyproxy.io/docs/envoy/latest/intro/intro
 ## Secret discovery service (SDS)
 
 https://www.envoyproxy.io/docs/envoy/latest/configuration/security/secret
+
+## Netflix Ribbon
+
+[Client Side Load Balancing | Microservices Architecture Pattern | Tech Primers](https://www.youtube.com/watch?v=-PbnWGddmcM)

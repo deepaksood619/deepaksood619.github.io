@@ -4,19 +4,17 @@
 
 Confluent Control Center is a web-based tool for managing and monitoring Apache Kafka. Control Center provides the functionality for building and monitoring production data pipelines and streaming applications.
 
-## Data Streams
+### Data Streams
 
 You can use Control Center to monitor your data streams end to end, from producer to consumer. Use Control Center to verify that every message sent is received (and received only once), and to measure system performance end to end. Drill down to better understand cluster usage, and identify any problems.
 
-## System Health
+### System Health
 
 Control Center can monitor the health of your Kafka clusters. You can see trends for important broker and topic health metrics, as well as set alerts on important cluster KPIs.
 
-## Kafka Connect Configuration
+### Kafka Connect Configuration
 
 You can also use Control Center to manage and monitor Kafka Connect: the open source toolkit for connecting external systems to Kafka. You can easily add new sources to load data from external data systems and new sinks to write data into external data systems. Additionally, you can manage, monitor, and configure connectors with Confluent Control Center.
-
-## References
 
 https://docs.confluent.io/current/tutorials/cp-demo/docs/index.html#cp-demo
 
@@ -45,15 +43,12 @@ https://docs.confluent.io/current/tutorials/cp-demo/docs/index.html#cp-demo
   - Quotas
 - Lag Monitoring
 - End-to-End Monitoring
-  - Kakfa-monitor https://github.com/linkedin/kafka-monitor
+
+[How to monitor your Kafka cluster efficiently? | by Marco Catalano | Quantyca | Medium](https://medium.com/quantyca/how-to-monitor-your-kafka-cluster-efficiently-d45ce37c02f1)
 
 ## Tools
 
+- Kakfa-monitor https://github.com/linkedin/kafka-monitor
 - kafka manager
 - kafka-lag-exporter
-
-## Metrics
-
-https://docs.google.com/spreadsheets/d/1qZW7xBiuGkiiEqf0rhCHGVRYGIISLYmJQMTNz9HkonU/edit#gid=1068940419
-
-https://medium.com/quantyca/how-to-monitor-your-kafka-cluster-efficiently-d45ce37c02f1
+- [GitHub - obsidiandynamics/kafdrop: Kafka Web UI](https://github.com/obsidiandynamics/kafdrop)

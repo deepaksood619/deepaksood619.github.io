@@ -103,14 +103,6 @@ https://fission.io
 
 https://github.com/fission/fission
 
-## KubeFlow
-
-Kubeflow is a Cloud Native platform for machine learning based on Google's internal machine learning pipelines.
-
-https://www.kubeflow.org
-
-https://github.com/kubeflow/kubeflow
-
 ## Seldon Core
 
 An open source platform to deploy your machine learning models on Kubernetes at massive scale.
