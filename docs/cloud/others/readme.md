@@ -14,6 +14,7 @@
   - [Web Push Notifications](cloud/others/firebase/web-push-notifications.md)
 - [Openstack](openstack)
 - [VMware](cloud/others/vmware.md)
+- [SAP](cloud/others/sap.md)
 - [Content Delivery Network (CDN)](cloud/others/cdn-content-delivery-network.md)
 - [Imagekit](cloud/others/imagekit.md)
 - [Ticketing / TMS](ticketing-tms)
@@ -21,3 +22,10 @@
 - [Others - SAAS](others-saas)
 
 ![cloud-comparision](../../media/Pasted%20image%2020231216002914.png)
+
+- AWS
+- Azure
+- GCP
+- Akamai - Linode - [Cloud Computing Services | VMs, Kubernetes, Storage | Akamai](https://www.linode.com/)
+- Digital Ocean
+- [India's Top Provider of Advanced Cloud GPUs](https://www.e2enetworks.com/)

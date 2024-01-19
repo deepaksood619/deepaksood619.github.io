@@ -89,9 +89,13 @@ The [SCAN](https://redis.io/commands/scan) command and the closely related comma
 - [SSCAN](https://redis.io/commands/sscan) iterates elements of Sets types.
 - [HSCAN](https://redis.io/commands/hscan) iterates fields of Hash types and their associated values.
 - [ZSCAN](https://redis.io/commands/zscan) iterates elements of Sorted Set types and their associated scores.
+
 These commands allow for incremental iteration, returning only a small number of elements per call, they can be used in production without the downside of commands likeKEYSorSMEMBERSthat may block the server for a long time (even several seconds) when called against big collections of keys or elements.
+
 SCAN is a cursor based iterator. This means that at every call of the command, the server returns an updated cursor that the user needs to use as the cursor argument in the next call.
+
 An iteration starts when the cursor is set to 0, and terminates when the cursor returned by the server is 0.
+
 Starting an iteration with a cursor value of 0, and calling [SCAN](https://redis.io/commands/scan) until the returned cursor is 0 again is called afull iteration.
 
 ```bash
@@ -122,6 +126,11 @@ It's the snapshot style persistence format.
 
 RDB file is a dump of all user data stored in an internal, compressed serialization format at a particular timestamp which is used for point-in-time recovery (recovery from a timestamp).
 
+```bash
+# take backup locally
+redis-cli --rdb /tmp/dump.rdb
+```
+
 ### Compress AOF
 
 BGREWRITEAOF
@@ -134,6 +143,8 @@ https://stackoverflow.com/questions/39953542/aof-and-rdb-backups-in-redis
 
 https://redislabs.com/ebook/part-2-core-concepts/chapter-4-keeping-data-safe-and-ensuring-performance/4-1-persistence-options
 
+[The complete Redis backups guide (with examples)](https://simplebackups.com/blog/the-complete-redis-backup-guide-with-examples/)
+
 ## Redis Keyspace Notifications
 
 Keyspace notifications allow clients to subscribe to Pub/Sub channels in order to receive events affecting the Redis data set in some way.
@@ -142,8 +153,11 @@ Examples of events that can be received are:
 - All the commands affecting a given key.
 - All the keys receiving an LPUSH operation.
 - All the keys expiring in the database 0.
+
 Events are delivered using the normal Pub/Sub layer of Redis, so clients implementing Pub/Sub are able to use this feature without modifications.
-Because Redis Pub/Sub isfire and forgetcurrently there is no way to use this feature if your application demandsreliable notificationof events, that is, if your Pub/Sub client disconnects, and reconnects later, all the events delivered during the time the client was disconnected are lost.
+
+Because Redis Pub/Sub is fire and forget currently there is no way to use this feature if your application demands reliable notification of events, that is, if your Pub/Sub client disconnects, and reconnects later, all the events delivered during the time the client was disconnected are lost.
+
 In the future there are plans to allow for more reliable delivering of events, but probably this will be addressed at a more general level either bringing reliability to Pub/Sub itself, or allowing Lua scripts to intercept Pub/Sub messages to perform operations like pushing the events into a list.
 
 https://redis.io/topics/notifications

@@ -12,6 +12,8 @@
 - How would you handle a situation where a replica set member is consistently lagging behind the others?
 - How do you enable authentication in MongoDB?
 - How can you create an index in MongoDB, If we have 100 of mongodb servers?
+- How to do monitoring of all the databases the default interval to write updates to the disk?
+- RAM usage in mongodb db.stat() Monitoring tools and features
 - Mongodb TTL index
 - Mongodb Change streams
 - Mongodb write concern

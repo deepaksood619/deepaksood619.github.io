@@ -3,10 +3,7 @@
 ## Programming with Redis
 
 - [The full list of commands](https://redis.io/commands) implemented by Redis, along with thorough documentation for each of them.
-- [Pipelining](https://redis.io/topics/pipelining): Learn how to send multiple commands at once, saving on round trip time.
-
-sendmultiple commandsto the server without waiting for the replies at all, and finally read the replies in a single step.
-
+- [Pipelining](https://redis.io/topics/pipelining): Learn how to send multiple commands at once, saving on round trip time. send multiple commands to the server without waiting for the replies at all, and finally read the replies in a single step.
 - [Redis Pub/Sub](https://redis.io/topics/pubsub): Redis is a fast and stable Publish/Subscribe messaging system
 - [Redis Lua scripting](https://redis.io/commands/eval): Redis Lua scripting feature documentation.
 - [Debugging Lua scripts](https://redis.io/topics/ldb): Redis 3.2 introduces a native Lua debugger for Redis scripts.
