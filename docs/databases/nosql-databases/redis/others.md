@@ -3,6 +3,7 @@
 ## Redis Time Series
 
 Redis TimeSeries simplifies the use of Redis for time-series use cases like IoT, stock prices, and telemetry.
+
 With RedisTimeSeries, ingest and query millions of metrics and events per second using an optimal data structure. Advanced techniques such as downsampling and aggregation ensure a small memory footprint without impacting performance. Use a variety of queries for visualization and monitoring with built-in connectors to popular tools like Grafana, Prometheus, and Telegraf.
 
 - Downsampling and retention
@@ -72,3 +73,11 @@ https://docs.redislabs.com/latest/rs/concepts/memory-architecture/redis-flash
 https://redis.io/topics/security
 
 https://redis.io/topics/acl
+
+## Migration
+
+[How To Migrate Redis Data to a DigitalOcean Managed Database | DigitalOcean](https://www.digitalocean.com/community/tutorials/how-to-migrate-redis-data-to-a-digitalocean-managed-database)
+
+[MIGRATE | Redis](https://redis.io/commands/migrate/)
+
+[Migrate redis server data from one instance to another instance | by Premanandh | Medium](https://premanandh-s.medium.com/migrate-standalone-redis-server-data-from-one-instance-to-another-instance-c60d79eeca0f)

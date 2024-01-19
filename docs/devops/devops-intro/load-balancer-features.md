@@ -53,6 +53,7 @@ Load balancers enhance system availability by rerouting traffic away from failed
 ### SSL Termination
 
 Load balancers can offload SSL/TLS encryption and decryption tasks from backend servers, reducing their workload and improving overall performance.
+
 ### Session Persistence
 
 For applications that require maintaining a user's session on a specific server, load balancers can ensure that subsequent requests from a user are sent to the same server.

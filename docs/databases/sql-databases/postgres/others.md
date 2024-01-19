@@ -63,7 +63,7 @@ https://www.cybertec-postgresql.com/en/pg_timetable-advanced-postgresql-job-sche
 
 ## pgagroal
 
-pgagroalis a high-performance protocol-native connection pool for [PostgreSQL](https://www.postgresql.org/).
+pgagroal is a high-performance protocol-native connection pool for [PostgreSQL](https://www.postgresql.org/).
 
 ### Features
 
@@ -77,7 +77,9 @@ pgagroalis a high-performance protocol-native connection pool for [PostgreSQL](h
 - Daemon mode
 - User vault
 
-https://github.com/agroal/pgagroal
+[GitHub - agroal/pgagroal: High-performance connection pool for PostgreSQL](https://github.com/agroal/pgagroal)
+
+[pgagroal](https://agroal.github.io/pgagroal/)
 
 ## PgBouncer
 
@@ -101,6 +103,8 @@ PGBOUNCER_SERVER_IDLE_TIMEOUT:"600"
 PGBOUNCER_CLIENT_IDLE_TIMEOUT:"600"
 ```
 
+[Using PGBouncer with Consul for Postgresql high availability | by Sasha Aliashkevich | Digitalis.io Blog](https://blog.digitalis.io/using-pgbouncer-with-consul-for-postgresql-high-availability-686049c232fc)
+
 ## Odyssey
 
 Advanced multi-threaded PostgreSQL connection pooler and request router.
@@ -109,16 +113,29 @@ https://github.com/yandex/odyssey
 
 ## Postgres on Kubernetes
 
-https://github.com/zalando/patroni
+[GitHub - zalando/patroni: A template for PostgreSQL High Availability with Etcd, Consul, ZooKeeper, or Kubernetes](https://github.com/zalando/patroni)
+
+[Introduction — Patroni 3.2.2 documentation](https://patroni.readthedocs.io/en/latest/)
+
+[High Availability PostgreSQL Cluster using Patroni and HAProxy](https://jfrog.com/community/devops/highly-available-postgresql-cluster-using-patroni-and-haproxy/)
+
+[Article Detail](https://community.pivotal.io/s/article/How-to-setup-a-3-node-Patroni-cluster-using-etcd?language=en_US)
 
 ## pgbackrest
 
 pgBackRest is a reliable and simple to configure backup and restore solution for PostgreSQL, which provides a powerful solution for any PostgreSQL database; be it a small project, or scaled up to enterprise-level use cases.
+
 Many powerful features are included in pgBackRest, including parallel backup and restore, local or remote operation, full, incremental, and differential backup types, backup rotation, archive expiration, backup integrity, page checksums, backup resume, streaming compression and checksums, delta restore, and much more.
 
 https://info.crunchydata.com/blog/how-to-get-started-with-pgbackrest-and-postgresql-12
 
 [https://www.kubegres.io/](https://www.kubegres.io/)
+
+## Pgroll
+
+[GitHub - xataio/pgroll: PostgreSQL zero-downtime migrations made easy](https://github.com/xataio/pgroll)
+
+[Introducing pgroll: zero-downtime, reversible, schema migrations for Postgres](https://xata.io/blog/pgroll-schema-migrations-postgres)
 
 ## Foreign Data Wrappers (FDWs)
 
