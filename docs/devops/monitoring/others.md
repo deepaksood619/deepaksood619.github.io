@@ -202,3 +202,5 @@ https://victoriametrics.com/products/open-source
 [Airbrake](https://airbrake.io)
 
 [Home - ThoughtData](https://thoughtdata.com/)
+
+[No-code Enterprise Data Quality Monitoring Tool: Lightup](https://lightup.ai/)

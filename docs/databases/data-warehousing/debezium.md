@@ -18,7 +18,19 @@ docker run -it --rm --name debezium-ui -p 8080:8080 -e KAFKA_CONNECT_URIS=http:/
 
 ## Connectors
 
-[Debezium connector for MongoDB | Debezium Documentation](https://debezium.io/documentation/reference/stable/connectors/mongodb.html)
+[Connectors | Debezium Documentation](https://debezium.io/documentation/reference/stable/connectors/index.html)
+
+- [MongoDB](https://debezium.io/documentation/reference/stable/connectors/mongodb.html)
+- [MySQL](https://debezium.io/documentation/reference/stable/connectors/mysql.html)
+- [PostgreSQL](https://debezium.io/documentation/reference/stable/connectors/postgresql.html)
+- [SQL Server](https://debezium.io/documentation/reference/stable/connectors/sqlserver.html)
+- [Oracle](https://debezium.io/documentation/reference/stable/connectors/oracle.html)
+- [Db2](https://debezium.io/documentation/reference/stable/connectors/db2.html)
+- [Cassandra](https://debezium.io/documentation/reference/stable/connectors/cassandra.html)
+- [Vitess](https://debezium.io/documentation/reference/stable/connectors/vitess.html) (Incubating)
+- [Spanner](https://debezium.io/documentation/reference/stable/connectors/spanner.html) (Incubating)
+- [JDBC](https://debezium.io/documentation/reference/stable/connectors/jdbc.html) (Incubating)
+- [Informix](https://debezium.io/documentation/reference/stable/connectors/informix.html) (Incubating)
 
 ## Links
 
@@ -30,3 +42,5 @@ docker run -it --rm --name debezium-ui -p 8080:8080 -e KAFKA_CONNECT_URIS=http:/
 - [Incremental Snapshots in Debezium](https://debezium.io/blog/2021/10/07/incremental-snapshots/)
 - [A Quick Start Guide to Change Data Capture with Debezium | Hashmap, an NTT DATA Company](https://medium.com/hashmapinc/a-quick-start-guide-to-change-data-capture-with-debezium-aa1a2d0a9296)
 - [Streaming Data Changes from Your Database to Elasticsearch](https://debezium.io/blog/2018/01/17/streaming-to-elasticsearch/)
+- [Release Notes for Debezium 2.0](https://debezium.io/releases/2.0/release-notes)
+- [GitHub - bykvaadm/debezium-helm-chart](https://github.com/bykvaadm/debezium-helm-chart)

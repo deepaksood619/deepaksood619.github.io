@@ -58,6 +58,7 @@ Replica set members in MongoDB can handle read queries. MongoDB allows for diffe
 - The primary node in a MongoDB replica set is the node that receives all write operations. It is also the default node for read operations.
 - All write operations, as well as the default read operations, are directed to the primary node.
 - The primary node is the most up-to-date member in terms of data because it receives all writes first.
+
 #### Secondary Nodes
 
 - Secondary nodes in a replica set contain copies of the data from the primary node, and they replicate data asynchronously.

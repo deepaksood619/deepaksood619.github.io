@@ -2,7 +2,7 @@
 
 https://devops-stack.io
 
-An all-in-one Kubernetesstack using ArgoCDand Terraform as base components
+An all-in-one Kubernetes stack using ArgoCD and Terraform as base components
 
 https://github.com/camptocamp/devops-stack
 

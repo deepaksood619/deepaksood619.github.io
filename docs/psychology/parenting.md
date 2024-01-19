@@ -31,7 +31,16 @@
 [Parents Commiting A Big Mistake Regarding Their Children Education - YouTube](https://www.youtube.com/watch?v=mlAR8dmMHf0)
 
 - Put children late in school
-- Homeschooling vs full day boarding
+- Homeschooling vs full day boarding - Doon public school
+- Schooling isn't just about education, it is also a form a childcare
+
+[Molly Wright: How every child can thrive by five | TED](https://www.youtube.com/watch?v=aISXCw0Pi94&ab_channel=TED)
+
+[Why School Is Bad For You](https://www.youtube.com/watch?v=M4u6oOQ77mg)
+
+[Some Parents Live Out Dreams Through Their Children. Sudha Murthy addressing parents.](https://youtu.be/wPX_iQP-4Rc)
+
+[How to Raise Successful Kids -- Without Over-Parenting | Julie Lythcott-Haims | TED](https://www.youtube.com/watch?v=CyElHdaqkjo) - Checklist
 
 ### Toys
 
@@ -80,19 +89,9 @@ Attachment theory
 - Youtube - Seeker baby
 - [13 Things Mentally Strong Parents Don't Do](../book-summaries/13-things-mentally-strong-parents-dont-do)
 
-## Schooling
+## Parenting
 
-Schooling isn't just about education, it is also a form a childcare
-
-[Molly Wright: How every child can thrive by five | TED](https://www.youtube.com/watch?v=aISXCw0Pi94&ab_channel=TED)
-
-[Why School Is Bad For You](https://www.youtube.com/watch?v=M4u6oOQ77mg)
-
-[Some Parents Live Out Dreams Through Their Children. Sudha Murthy addressing parents.](https://youtu.be/wPX_iQP-4Rc)
-
-[How to Raise Successful Kids -- Without Over-Parenting | Julie Lythcott-Haims | TED](https://www.youtube.com/watch?v=CyElHdaqkjo)
-
-- Checklist
+Why kicking out children after 18 years is important, let's say you are very wealthy and have a good house and all house help, why would children move out and work since everything is set in their home. They will just stay and spend lavishly, they will not know the pain and effort it takes to create that wealth and blunder it away.
 
 ## Links
 

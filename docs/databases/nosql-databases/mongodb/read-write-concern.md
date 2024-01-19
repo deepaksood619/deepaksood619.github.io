@@ -67,10 +67,9 @@ Read concern [`"snapshot"`](https://www.mongodb.com/docs/manual/reference/read-
 
 - All read operations inside multi-document transactions with the read concern set at the transaction level.
 - The following methods outside of multi-document transactions:
-	- [`find`](https://www.mongodb.com/docs/manual/reference/command/find/#mongodb-dbcommand-dbcmd.find)
-	- [`aggregate`](https://www.mongodb.com/docs/manual/reference/command/aggregate/#mongodb-dbcommand-dbcmd.aggregate)
-	- [`distinct`](https://www.mongodb.com/docs/manual/reference/command/distinct/#mongodb-dbcommand-dbcmd.distinct) (on unsharded collections)
-
+  - [`find`](https://www.mongodb.com/docs/manual/reference/command/find/#mongodb-dbcommand-dbcmd.find)
+  - [`aggregate`](https://www.mongodb.com/docs/manual/reference/command/aggregate/#mongodb-dbcommand-dbcmd.aggregate)
+  - [`distinct`](https://www.mongodb.com/docs/manual/reference/command/distinct/#mongodb-dbcommand-dbcmd.distinct) (on unsharded collections)
 
 All other read operations prohibit [`"snapshot"`.](https://www.mongodb.com/docs/manual/reference/read-concern-snapshot/#mongodb-readconcern-readconcern.-snapshot-)
 

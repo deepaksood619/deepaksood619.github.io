@@ -7,3 +7,4 @@
 - [HTTP Authentication](http-authentication)
 - [2FA](computer-science/security/authentication/two-2fa.md)
 - [Certificates](certificates)
+- [SIEM](computer-science/security/authentication/siem.md)

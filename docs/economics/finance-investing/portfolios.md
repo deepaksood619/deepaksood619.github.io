@@ -191,6 +191,10 @@ https://freefincal.com/re-assemble-step-3-buy-term-life-insurance
 
 https://joinditto.in
 
+## Tools
+
+[Investment Frequency Calculator](https://investcalc.github.io/)
+
 ## Portfolios
 
 - [An insight on Motilal Oswal Hedged Equity Multi-factor Strategy - AIF - YouTube](https://www.youtube.com/watch?v=rOmibLlyH8Y)

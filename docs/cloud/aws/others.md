@@ -48,3 +48,5 @@ Data Lab has three offerings - the Build Lab, the Design Lab, and Resident Archi
 ## Others
 
 [What is myApplications on AWS - AWS Management Console](https://docs.aws.amazon.com/awsconsolehelpdocs/latest/gsg/aws-myApplications.html)
+
+[AWS Elastic Disaster Recovery](https://aws.amazon.com/disaster-recovery/)
