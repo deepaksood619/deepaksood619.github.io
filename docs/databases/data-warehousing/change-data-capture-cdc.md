@@ -89,6 +89,8 @@ https://en.wikipedia.org/wiki/Change_data_capture
 ### Others
 
 - airbyte
+- debezium
+- attunity (now Qlik replicate)
 - fivetran
 - Talend
 - Matillion
@@ -101,7 +103,13 @@ https://en.wikipedia.org/wiki/Change_data_capture
 - AWS Glue
 - Stitch
 - Hevo Data
+- upsolver
+- archion
 
 [12 best data migration tools of 2023](https://www.fivetran.com/learn/data-migration-tools)
 
 [11 Best Data Migration Tools for 2023](https://hevodata.com/learn/data-migration-tools/)
+
+[6 Popular CDC Tools, Compared (July 2023 Edition)](https://www.upsolver.com/blog/cdc-tools-comparison-guide)
+
+[The Missing Piece for Modern Data Stack Going Real-time](https://www.arcion.io/blog/the-missing-piece-for-modern-data-stack-going-real-time)
