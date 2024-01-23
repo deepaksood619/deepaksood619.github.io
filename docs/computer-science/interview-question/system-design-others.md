@@ -119,18 +119,12 @@ Non-functional requirements
 
 ## Others
 
-HTTP + json is not good (because contract is not upheld from developers while sending apis)
-
-[Overview of Discord's data platform that daily processes petabytes of data and trillion points - YouTube](https://www.youtube.com/watch?v=yGpEzO32lU4)
-
-[10 Tips for Building Resilient Payment Systems (2023)](https://shopify.engineering/building-resilient-payment-systems)
-
+- HTTP + json is not good (because contract is not upheld from developers while sending apis)
+- [Overview of Discord's data platform that daily processes petabytes of data and trillion points - YouTube](https://www.youtube.com/watch?v=yGpEzO32lU4)
+- [10 Tips for Building Resilient Payment Systems (2023)](https://shopify.engineering/building-resilient-payment-systems)
 - [How Shopify’s engineering improved database writes by 50% with ULID - YouTube](https://www.youtube.com/watch?v=f53-Iw_5ucA)
-
-[Ep 1 - @RazorpayEngineering's journey to microservices and ensuring data consistency - YouTube](https://www.youtube.com/watch?v=yqkyq8TPWbg)
-
-[How to NOT Fail a System Design Interview (By a Data Engineer) - YouTube](https://www.youtube.com/watch?v=WQBc2mY9Jng)
-
-[How Giphy uses CDN to serve 10 billion GIFs every day - YouTube](https://www.youtube.com/watch?v=-bo7oVejgRM)
-
-[What happens before the Backend gets the Request - YouTube](https://www.youtube.com/watch?v=gSQoA4SYhJY)
+- [Ep 1 - @RazorpayEngineering's journey to microservices and ensuring data consistency - YouTube](https://www.youtube.com/watch?v=yqkyq8TPWbg)
+- [How to NOT Fail a System Design Interview (By a Data Engineer) - YouTube](https://www.youtube.com/watch?v=WQBc2mY9Jng)
+- [How Giphy uses CDN to serve 10 billion GIFs every day - YouTube](https://www.youtube.com/watch?v=-bo7oVejgRM)
+- [What happens before the Backend gets the Request - YouTube](https://www.youtube.com/watch?v=gSQoA4SYhJY)
+- [How Discord Serves 15-Million Users on One Server](https://blog.bytebytego.com/p/how-discord-serves-15-million-users?)

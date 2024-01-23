@@ -72,7 +72,7 @@ https://image-net.org
 
 ## Vertex AI Matching Engine
 
-Vertex AI Matching Engine provides the industry's leading high scale, low latency, vector-similarity matching (also known asapproximate nearest neighbor) service, and industry-leading algorithms to train semantic embeddings for similarity-matching use cases.
+Vertex AI Matching Engine provides the industry's leading high scale, low latency, vector-similarity matching (also known as approximate nearest neighbor) service, and industry-leading algorithms to train semantic embeddings for similarity-matching use cases.
 
 https://cloud.google.com/vertex-ai/docs/matching-engine/overview
 

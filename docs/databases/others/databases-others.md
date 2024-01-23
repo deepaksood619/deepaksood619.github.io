@@ -260,37 +260,6 @@ https://en.wikipedia.org/wiki/Lightning_Memory-Mapped_Database
 
 http://www.lmdb.tech/doc
 
-## etcd
-
-etcd is a distributed key value store that provides a reliable way to store data across a cluster of machines. It's open-source and available on GitHub. etcd gracefully handles leader elections during network partitions and will tolerate machine failure, including the leader.
-
-Your applications can read and write data into etcd. A simple use-case is to store database connection details or feature flags in etcd as key value pairs. These values can be watched, allowing your app to reconfigure itself when they change.
-
-Advanced uses take advantage of the consistency guarantees to implement database leader elections or do distributed locking across a cluster of workers.
-
-- Used by kubernetes, emqx, openshift
-
-    etcd is a distributed key-value store. In fact,etcdis the primary datastore of **Kubernetes;** storing and replicating allKubernetescluster state. As a critical component of aKubernetescluster having a reliable automated approach to its configuration and management is imperative.
-
-- As a distributed consensus-based system, the cluster configuration of etcd can be complicated. Bootstrapping, maintaining quorum, reconfiguring cluster membership, creating backups, handling disaster recovery, and monitoring critical events are tedious work, and require etcd-specific expertise.
-
-- Uses Raft consensus algorithm
-  - https://raft.github.io
-
-- etcd is pronounced/ˈɛtsiːdiː/, and means distributedetcdirectory.
-
-- Operator
-
-    An Operator builds upon the basic Kubernetes resource and controller concepts but includes application domain knowledge to take care of common tasks. They reduce the complexity of running distributed systems and help you focus on the desired configuration, not the details of manual deployment and lifecycle management.
-
-    https://coreos.com/etcd
-
-    https://github.com/etcd-io/etcd
-
-    https://etcd.readthedocs.io/en/latest/faq.html#what-is-etcd
-
-    https://jepsen.io/analyses/etcd-3.4.3
-
 ## KsqlDB
 
 The event streaming database purpose-built for stream processing applications.

@@ -27,6 +27,8 @@ Humans cannot be trusted, they trust software more than other humans - Haven't y
 
 [It’s Millet Time!](https://finshots.in/archive/its-millet-time/)
 
+[Introducing r1 - YouTube](https://www.youtube.com/watch?v=22wlLy7hKP4)
+
 ## Top changes
 
 1. We will be capable of having (subject to no political barriers) Al-based near free doctors, lawyers and tutors for every citizen of the planet that will amplify our human professionals to improve accessibility and care.
