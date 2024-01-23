@@ -121,6 +121,14 @@ Give effective people a challenge, and they'll think about a solution. Give them
 
 https://dariusforoux.com/positive-personality-traits
 
+## 5 types of toxic people to avoid
+
+1. The Energy Drainer: You feel tense and uneasy after each interaction with them.
+2. The Pessimist: They have a negative outlook of the world. Always try to talk you out of your dreams.
+3. The Criticizer: They don't support you in your decisions. They criticise every move you make. They make you feel like you can't do anything right.
+4. The Manipulator: They try to control everything. Pretend to like you and other people. But they just want to make every decision for themselves and others.
+5. The Victim: They blame others for their misfortune. Constantly seek attention from others. Talk mostly about their excuse for failing.
+
 ## How can you become a 10xer?
 
 ### Here are the 4 things you can do to become a 10xer

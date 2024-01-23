@@ -36,11 +36,11 @@ Analytics engineering is the data transformation work that happens between loadi
 
 With dbt, data teams work directly within the warehouse to produce trusted datasets for reporting, ML modeling, and operational workflows.
 
-![DBT Platform](../../../media/Pasted%20image%2020230308224022.png)
+![DBT Platform](../../media/Pasted%20image%2020230308224022.png)
 
 dbt is a SQL-first transformation workflow that lets teams quickly and collaboratively deploy analytics code following software engineering best practices like modularity, portability, CI/CD, and documentation. Now anyone on the data team can safely contribute to production-grade data pipelines.
 
-![](../../../media/Pasted%20image%2020230308224127.png)
+![](../../media/Pasted%20image%2020230308224127.png)
 
 https://www.getdbt.com
 
@@ -52,13 +52,25 @@ https://www.getdbt.com
 
 ## Airbyte
 
+The leading data integration platform for ETL / ELT data pipelines from APIs, databases & files to data warehouses, data lakes & data lakehouses. Both self-hosted and Cloud-hosted.
+
+Ultimate vision is to help you move data from any source to any destination. Airbyte already provides the largest [catalog](https://docs.airbyte.com/integrations/) of 300+ connectors for APIs, databases, data warehouses, and data lakes.
+
+[GitHub - airbytehq/airbyte: The leading data integration platform for ETL / ELT data pipelines from APIs, databases & files to data warehouses, data lakes & data lakehouses. Both self-hosted and Cloud-hosted.](https://github.com/airbytehq/airbyte)
+
+[Airbyte | Open-Source Data Integration Platform | ELT tool](https://airbyte.com/)
+
+[Getting Started | Airbyte Documentation](https://docs.airbyte.com/using-airbyte/getting-started)
+
+### CDC
+
 To support CDC, Airbyte uses [Debezium](https://debezium.io/) internally.
 
-[Airbyte's incremental Change Data Capture (CDC) replication | Airbyte](https://airbyte.com/tutorials/incremental-change-data-capture-cdc-replication)
+[Airbyte's incremental Change Data Capture (CDC) replication](https://airbyte.com/tutorials/incremental-change-data-capture-cdc-replication)
 
 [How useful is Airbytes in production pipelines? : r/dataengineering](https://www.reddit.com/r/dataengineering/comments/13me0t9/how_useful_is_airbytes_in_production_pipelines/)
 
-### Airbyte’s replication modes
+#### Airbyte’s replication modes
 
 - What is Airbyte’s ELT approach to data integration? 
 - Why is ELT preferred over ETL? 
