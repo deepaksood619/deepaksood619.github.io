@@ -211,3 +211,4 @@ The easiest way to do so is to useimport my_modulesyntax, rather thanfrom my_mod
 - https://www.codementor.io/@arpitbhayani/how-python-implements-super-long-integers-12icwon5vk
 - https://www.toptal.com/python/interview-questions
 - [The Power Of The Plugin Architecture In Python](https://youtu.be/iCE1bDoit9Q)
+- [Fastest Way to Read Excel in Python | Haki Benita](https://hakibenita.com/fast-excel-python)

@@ -22,6 +22,7 @@
 - [Harvard CS50's Introduction to Artificial Intelligence with Python – Free University Course](https://www.freecodecamp.org/news/harvard-cs50s-ai-python-course)
 - Mathematics (probability, statistics, calculus)
 - [Machine Learning & Neural Networks without Libraries – No Black Box Course - YouTube](https://www.youtube.com/watch?v=3wwiOSxDAmg)
+- [udlbook](https://udlbook.github.io/udlbook/)
 
 ## DS (Data Science) + DA (Data Analytics) + DE (Data Engineering)
 

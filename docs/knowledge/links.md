@@ -1481,5 +1481,10 @@
 1471. [State of value investing in 2024](https://youtu.be/dLW0h8lPcG8?si=mq4JK0ZhA2vo8doJ)
 1472. [Cathie Wood "Mark My Words, Everyone Who Own These 3 Stocks Will Become ...](https://youtu.be/Ab-VwBpQYP0?si=Gep0a5oE-6-nONX9)
 1473. [8 Investing Hacks That Will Actually Improve Your Portfolio - YouTube](https://www.youtube.com/watch?v=AXNNdAyVdhk&ab_channel=NewMoney)
+1474. [I thought this rotating house was impossible. - YouTube](https://www.youtube.com/watch?v=gisdyTBMNyQ)
+1475. [Tata Projects, Transforming Lives by building MTHL - YouTube](https://www.youtube.com/watch?v=ReOKecV0ldw)
+1476. [Top 10 Announcements From Consumer Electronics Show! - YouTube](https://www.youtube.com/watch?v=wdPjcxGtQ6o)
+1477. [Why Rabbit R1 Won't Work! - YouTube](https://www.youtube.com/watch?v=B6lHomRD7C0)
+1478. [The Special Design That Makes Library Books Indestructible - YouTube](https://www.youtube.com/watch?v=06wObrv15fc)
 
 ## End

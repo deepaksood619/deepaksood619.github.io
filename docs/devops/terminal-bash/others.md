@@ -180,4 +180,6 @@ Plus, you can make your interactive filter available inside your programmable te
 
 ## Others
 
-https://github.com/google/zx
+[GitHub - google/zx: A tool for writing better scripts](https://github.com/google/zx)
+
+[GitHub - YS-L/csvlens: Command line csv viewer](https://github.com/YS-L/csvlens)

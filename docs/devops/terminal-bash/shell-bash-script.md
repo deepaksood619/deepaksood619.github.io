@@ -112,8 +112,8 @@ find . -type f | grep -v "media" | sed 's|\(.*/\)[^A-Z]*\([A-Z].*\)|mv \"&\" \"\
 
 ## References
 
-https://en.wikipedia.org/wiki/Shell_script
-
-https://www.shellscript.sh
-
-https://www.shellscript.sh/loops.html
+- https://en.wikipedia.org/wiki/Shell_script
+- https://www.shellscript.sh
+- https://www.shellscript.sh/loops.html
+- [Top Shell Scripting Interview Questions (2024) - InterviewBit](https://www.interviewbit.com/shell-scripting-interview-questions/)
+- [Top 30 Shell Scripting Interview Questions And Answers for 2023](https://www.simplilearn.com/shell-scripting-interview-questions-article)

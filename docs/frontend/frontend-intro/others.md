@@ -52,6 +52,8 @@ Birme - https://www.birme.net
 
 [AI Image Upscaler - Enlarge & Enhance Your Photos for Free - Upscale.media](https://www.upscale.media/)
 
+[Image Resizer - Crop & Resize Image Online | RedKetchup](https://redketchup.io/image-resizer)
+
 ```bash
 brew install imagemagick
 

@@ -125,3 +125,4 @@ Moving from information to knowledge age
 - [[#29] AI Evolution: From AlexNet to Generative AI – Redefining the Paradigm of Software Development](https://bizit.substack.com/p/29-ai-evolution-from-alexnet-to-generative)
 - [Google "We Have No Moat, And Neither Does OpenAI"](https://www.semianalysis.com/p/google-we-have-no-moat-and-neither)
 - [AGI-Proof Jobs: Navigating the Impending Obsolescence of Human Labor in the Age of AGI - YouTube](https://www.youtube.com/watch?v=Ahh92qtRwos&ab_channel=DavidShapiro)
+- [A DeepMind AI rivals the world's smartest high schoolers at geometry](https://www.understandingai.org/p/a-deepmind-ai-rivals-the-worlds-smartest)
