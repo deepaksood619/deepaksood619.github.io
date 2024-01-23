@@ -145,6 +145,10 @@ Sqlcheck can be targeted at varying risk levels, categorized as low, medium, or 
 
 https://github.com/jarulraj/sqlcheck
 
+### Others
+
+[AI-Powered Automatic PostgreSQL & MySQL Tuning | OtterTune](https://ottertune.com/)
+
 ## Gh-ost (Ghost)
 
 If like 99 percent of MySQL DBAs you have faced implementing a change to a MySQL table while fearing the impact on production, then you should consider [Gh-ost](https://github.com/github/gh-ost) (GitHub Online Schema Migration). Gh-ost provides MySQL schema changes without blocking writes, without using triggers, and with the ability to pause and resume the migration!

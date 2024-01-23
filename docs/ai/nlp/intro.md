@@ -47,6 +47,10 @@ Industrial-Strength Natural Language Processing
 
 https://spacy.io/usage/models
 
+[spaCy · Industrial-strength Natural Language Processing in Python](https://spacy.io/)
+
+[GitHub - explosion/spaCy: 💫 Industrial-strength Natural Language Processing (NLP) in Python](https://github.com/explosion/spaCy)
+
 ## Gensim (Topic Modeling for Humans)
 
 Gensim is a Python library fortopic modeling, document indexingandsimilarity retrievalwith large corpora. Target audience is thenatural language processing(NLP) andinformation retrieval(IR) community.

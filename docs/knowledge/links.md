@@ -1486,5 +1486,7 @@
 1476. [Top 10 Announcements From Consumer Electronics Show! - YouTube](https://www.youtube.com/watch?v=wdPjcxGtQ6o)
 1477. [Why Rabbit R1 Won't Work! - YouTube](https://www.youtube.com/watch?v=B6lHomRD7C0)
 1478. [The Special Design That Makes Library Books Indestructible - YouTube](https://www.youtube.com/watch?v=06wObrv15fc)
+1479. [Why Rich People (sorta) Don't Wear Luxury - YouTube](https://www.youtube.com/watch?v=g0UQgrFNExc&ab_channel=ALEXANDER)
+1480. [Major Expressways Of India in 2024 And Latest Update | Bharatmala Pariyojna - YouTube](https://www.youtube.com/watch?v=ShDulUKhmpI)
 
 ## End

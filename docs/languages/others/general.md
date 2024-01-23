@@ -33,3 +33,7 @@ https://www.toptal.com/back-end/server-side-io-performance-node-php-java-go
 ## Benchmarks
 
 https://benchmarksgame-team.pages.debian.net/benchmarksgame/index.html
+
+[Which Programming Languages Use the Least Electricity? - The New Stack](https://thenewstack.io/which-programming-languages-use-the-least-electricity/)
+
+![Which Programming Languages Use the Least Electricity](../../media/Pasted%20image%2020240123233508.png)

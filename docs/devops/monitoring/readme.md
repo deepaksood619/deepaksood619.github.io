@@ -11,6 +11,7 @@
 - [Istio](istio/readme.md)
 - [Linkerd](linkerd)
 - [Open Tracing](open-tracing)
+- [ML Monitoring](ai/libraries/ml-monitoring.md)
 - [Others](devops/monitoring/others.md)
 
 ![Monitoring Cheat Sheet](../../media/Pasted%20image%2020240115131943.png)

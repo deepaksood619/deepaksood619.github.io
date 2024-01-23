@@ -48,7 +48,7 @@ Minikube supports Kubernetes features such as
 - Enabling CNI (Container Network Interface)
 - Ingress
 
-## Commands
+### Commands
 
 ```bash
 minikube version
@@ -66,7 +66,7 @@ The easiest way to get a production grade Kubernetes cluster up and running.
 
 Production Grade K8s Installation, Upgrades, and Management
 
-## What is kops?
+### What is kops?
 
 We like to think of it askubectlfor clusters.
 
@@ -389,6 +389,12 @@ https://learnk8s.io/scaling-celery-rabbitmq-kubernetes
 https://keda.sh
 
 [GitHub - kedacore/keda: KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes](https://github.com/kedacore/keda)
+
+[Scaling Kubernetes-based Event-driven Workloads with Keda & Karpenter • Roland Barcia • GOTO 2023 - YouTube](https://www.youtube.com/watch?v=QaPbcayEicw&ab_channel=GOTOConferences)
+
+#### [Karpenter](https://karpenter.sh/)
+
+Just-in-time Nodes for Any Kubernetes Cluster
 
 ## Others
 

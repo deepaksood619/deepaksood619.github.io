@@ -90,39 +90,32 @@ It is about 10 times faster than the dict version with incrementing counts
 
 Standard Python dictionaries don't keep track of the order in which keys and values are added; they only preserve the association between each key and its value.
 
-## OrderedDict() preserve the order in which keys and values are added
+### OrderedDict() preserve the order in which keys and values are added
 
 ```python
 from collections import OrderedDict
 
 fav_languages = OrderedDict()
-
 fav_languages['jen'] = ['python', 'ruby']
-
 fav_languages['deepak'] = ['python']
 
-# display the results, in the same order
-
-# they were entered
+# display the results, in the same order they were entered
 
 for name, langs in fav_languages.items():
-
-print(name + ":")
-
-for lang in langs:
-
-print("- " + lang)
+ print(name + ":")
+ for lang in langs:
+  print("- " + lang)
 
 ## collections.defaultdict()
 ```
 
-Usually, a Python dictionary throws aKeyErrorif you try to get an item with a key that is not currently in the dictionary. Thedefaultdictin contrast will simply create any items that you try to access (provided of course they do not exist yet). To create such a "default" item, it calls the function object that you pass in the constructor (more precisely, it's an arbitrary "callable" object, which includes function and type objects). For the first example, default items are created usingint(), which will return the integer object0. For the second example, default items are created usinglist(), which returns a new empty list object.
+Usually, a Python dictionary throws a KeyError if you try to get an item with a key that is not currently in the dictionary. The defaultdict in contrast will simply create any items that you try to access (provided of course they do not exist yet). To create such a "default" item, it calls the function object that you pass in the constructor (more precisely, it's an arbitrary "callable" object, which includes function and type objects). For the first example, default items are created using int(), which will return the integer object0. For the second example, default items are created using list(), which returns a new empty list object.
 
 A **defaultdict** works exactly like a normal dict, but it is initialized with a function ("default factory") that takes no arguments and provides the default value for a nonexistent key.
 
 A **defaultdict** will never raise a **KeyError**. Any key that does not exist gets the value returned by the default factory.
 
-Returns a new dictionary-like object.[defaultdict](https://docs.python.org/3/library/collections.html#collections.defaultdict) is a subclass of the built-in[dict](https://docs.python.org/3/library/stdtypes.html#dict) class. It overrides one method and adds one writable instance variable. The remaining functionality is the same as for the[dict](https://docs.python.org/3/library/stdtypes.html#dict) class
+Returns a new dictionary-like object. [defaultdict](https://docs.python.org/3/library/collections.html#collections.defaultdict) is a subclass of the built-in [dict](https://docs.python.org/3/library/stdtypes.html#dict) class. It overrides one method and adds one writable instance variable. The remaining functionality is the same as for the [dict](https://docs.python.org/3/library/stdtypes.html#dict) class
 
 ```python
 dic = {}
@@ -207,16 +200,11 @@ An enumeration is a set of symbolic names (members) bound to unique, constant va
 from enum import Enum, auto
 
 class Monster(Enum):
+ ZOMBIE = auto()
+ WARRIOR = auto()
+ BEAR = auto()
+ print(Monster.ZOMBIE)
 
-ZOMBIE = auto()
-
-WARRIOR = auto()
-
-BEAR = auto()
-
-print(Monster.ZOMBIE)
-
-for monster in Monster:
-
-print(monster)
+ for monster in Monster:
+  print(monster)
 ```
