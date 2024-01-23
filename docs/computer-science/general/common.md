@@ -150,6 +150,14 @@ Eroom's law is the observation that drug discovery is becoming slower and more e
 
 Software also getting slower with improved processors because developers are writing inefficient code.
 
+## Haitz's law
+
+**Haitz's law** is an observation and forecast about the steady improvement, over many years, of [light-emitting diodes](https://en.wikipedia.org/wiki/Light-emitting_diode "Light-emitting diode") (LEDs).
+
+It claims that every decade, the cost per [lumen](https://en.wikipedia.org/wiki/Lumen_(unit) "Lumen (unit)") (unit of useful light emitted) falls by a factor of 10, and the amount of light generated per LED package increases by a factor of 20, for a given wavelength (color) of light. It is considered the LED counterpart to [Moore's law](https://en.wikipedia.org/wiki/Moore%27s_law "Moore's law"), which states that the number of transistors in a given integrated circuit doubles every 18 to 24 months. Both laws rely on the [process optimization](https://en.wikipedia.org/wiki/Process_optimization "Process optimization") of the production of [semiconductor devices](https://en.wikipedia.org/wiki/Semiconductor_device "Semiconductor device").
+
+[Haitz's law - Wikipedia](https://en.wikipedia.org/wiki/Haitz%27s_law)
+
 ## Dennard scaling
 
 In [semiconductor electronics](https://en.wikipedia.org/wiki/Semiconductor_electronics "Semiconductor electronics"), **Dennard scaling**, also known as **MOSFET scaling**, is a [scaling law](https://en.wikipedia.org/wiki/Scaling_law "Scaling law") which states roughly that, as [transistors](https://en.wikipedia.org/wiki/Transistor "Transistor") get smaller, their [power density](https://en.wikipedia.org/wiki/Power_density "Power density") stays constant, so that the power use stays in proportion with area; both [voltage](https://en.wikipedia.org/wiki/Voltage "Voltage") and [current](https://en.wikipedia.org/wiki/Electric_current "Electric current") scale (downward) with length. The law, originally formulated for [MOSFETs](https://en.wikipedia.org/wiki/MOSFET "MOSFET"), is based on a 1974 paper co-authored by [Robert H. Dennard](https://en.wikipedia.org/wiki/Robert_H._Dennard "Robert H. Dennard"), after whom it is named.

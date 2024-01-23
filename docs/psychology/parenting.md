@@ -26,6 +26,10 @@
 - [Japan's ancient secret to better cognitive memory - BBC REEL](https://youtu.be/s6OmqXCsYt8)
 - [How to expand your baby’s potential with education from birth | Zahra Kassam | TEDxManhattanBeach - YouTube](https://www.youtube.com/watch?v=oXYre2T3p_k&ab_channel=TEDxTalks)
 
+### Questions
+
+- should you let toddlers cry out tantrums
+
 ### Schooling
 
 [Parents Commiting A Big Mistake Regarding Their Children Education - YouTube](https://www.youtube.com/watch?v=mlAR8dmMHf0)
@@ -82,6 +86,8 @@ Attachment theory
 - No god (only power)
 - No racism
 - Aggression
+- Thakan
+- Jaadu tona
 
 ## Books
 

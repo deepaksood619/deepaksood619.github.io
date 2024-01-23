@@ -22,6 +22,8 @@
 - Self attention
 - GPT3 - 45tb of text data
 
+![chat-gpt-working](../../media/Pasted%20image%2020240123172317.png)
+
 ## Others
 
 ![LLM Working](../../media/llm-working.jpg)

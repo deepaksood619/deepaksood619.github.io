@@ -28,5 +28,6 @@
   - [List](data-structure/list)
   - [Tuples](data-structure/tuples)
   - [Dictionary](data-structure/dictionary)
+  - [Dictionary Architecture](python/python-intro/data-structure/dictionary-architecture.md)
   - [Dict Evolution](data-structure/dict-evolution)
   - [Set](data-structure/set)

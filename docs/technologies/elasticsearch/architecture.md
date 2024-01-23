@@ -22,6 +22,8 @@ A replica shard is just a copy of a primary shard.Replicas are used to provide r
 
 The number of primary shards in an index is fixed at the time that an index is created, but the number of replica shards can be changed at any time.
 
+[Implementing Hot-Warm-Cold in Elasticsearch with Index Lifecycle Management | Elastic Blog](https://www.elastic.co/blog/implementing-hot-warm-cold-in-elasticsearch-with-index-lifecycle-management)
+
 ## Document
 
 Most entities or objects in most applications can be serialized into a JSON object, with keys and values.Akeyis the name of a field or property, and avaluecanbe a string, a number, a Boolean, another object, an array of values, or some other specialized type such as a string representing a date or an object representing a geolocation.
@@ -30,10 +32,10 @@ Often, we use the terms object and document interchangeably. However, there is a
 
 ## Document Metadata
 
-_index - Where the document lives
+`_index` - Where the document lives
 
-_type - The class of object that the document represents
+`_type` - The class of object that the document represents
 
-_id - The unique identifier for the document
+`_id` - The unique identifier for the document
 
-_version - Every time a change is made to a document (including deleting it), the_versionnumber is incremented.
+`_version` - Every time a change is made to a document (including deleting it), the `_version` number is incremented.

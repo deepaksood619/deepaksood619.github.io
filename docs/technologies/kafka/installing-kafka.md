@@ -25,10 +25,10 @@
   - Active-Active architecture
   - Active-standby architecture
   - Stretch clusters
-- MirrorMaker
+- MirrorMaker1 and MirrorMaker2
 - Other cross-cluster mirroring solutions
   - Uber uReplicator
-  - Confluent's Replicator
+  - Confluent's Replicator - [Replicator Overview | Confluent Documentation](https://docs.confluent.io/platform/current/multi-dc-deployments/replicator/index.html)
 
 ## Administering Kafka
 

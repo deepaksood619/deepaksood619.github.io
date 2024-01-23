@@ -1,6 +1,6 @@
 # Parameters / Configurations / Optimizations
 
-### pg_hba.conf
+### pg_hba.conf (postgres host based authentication config)
 
 `pg_hba.conf` file controls client authentication and access to the database server. Configuring it involves specifying rules for different authentication methods, IP addresses, and users. To enhance security, you can restrict access based on IP addresses, require SSL, and use strong authentication methods.
 

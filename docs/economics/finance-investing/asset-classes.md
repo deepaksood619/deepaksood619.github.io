@@ -31,7 +31,7 @@ https://www.joinhoney.com
 - Wintwealth (Wint Wealth)
 - https://altifi.ai
 
-Sequence of Returns - [what sequence of returns risk](https://www.youtube.com/watch?v=GruEpZFBvQg&ab_channel=freefincal-PrudentDIYInvesting)
+Sequence of Returns - [what sequence of returns risk](https://www.youtube.com/watch?v=GruEpZFBvQg&ab_channel=freefincal-PrudentDIYInvesting) - [Why Understanding Sequence Risk is Crucial for Investing Success!](https://freefincal.com/sequence-returns-risk/)
 
 [Do not make these 15 investing mistakes!!](https://www.youtube.com/watch?v=BDDrd98WYL8)
 

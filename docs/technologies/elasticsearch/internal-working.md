@@ -1,12 +1,12 @@
 # Internal Working
 
-Here is the sequenceof steps necessary to successfully create, index, or delete a document on both the primary and any replica shards:
+Here is the sequence of steps necessary to successfully create, index, or delete a document on both the primary and any replica shards:
 
 1. The client sends a create, index, or delete request toNode 1.
 
-2. The node uses the document's_idto determine that the document belongs to shard0. It forwards the request toNode 3, where the primary copy of shard0is currently allocated.
+2. The node uses the document's `_id` to determine that the document belongs to shard0. It forwards the request to Node 3, where the primary copy of shard0is currently allocated.
 
-3. Node 3executes the request on the primary shard. If it is successful, it forwards the request in parallel to the replica shards onNode 1andNode 2. Once all of the replica shards report success, Node 3reports success to the coordinating node, which reports success to the client.
+3. Node 3 executes the request on the primary shard. If it is successful, it forwards the request in parallel to the replica shards onNode 1 and Node 2. Once all of the replica shards report success, Node 3 reports success to the coordinating node, which reports success to the client.
 
 By the time the client receives a successful response, the document change has been executed on the primary shard and on all replica shards. Your change is safe.
 

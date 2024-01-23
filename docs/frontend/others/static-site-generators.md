@@ -36,3 +36,17 @@ https://github.com/topics/jekyll-theme
   - https://www.docz.site
 - [Mintlify - Beautiful documentation that converts users](https://mintlify.com/)
 - [GitHub - requarks/wiki: Wiki.js | A modern and powerful wiki app built on Node.js](https://github.com/Requarks/wiki)
+- [Maintaining engineering documentation is injurious to mental health | Metz.sh](https://metz.sh/)
+- DocUtils
+- reStructuredText (rST)
+- Sphinx
+- doxygen
+
+## Software documentation
+
+1. Product documentation
+   - System documentation
+   - User documentation
+2. Process documentation
+
+https://www.altexsoft.com/blog/business/technical-documentation-in-software-development-types-best-practices-and-tools
