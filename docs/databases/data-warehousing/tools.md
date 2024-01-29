@@ -72,13 +72,13 @@ To support CDC, Airbyte uses [Debezium](https://debezium.io/) internally.
 
 #### Airbyte’s replication modes
 
-- What is Airbyte’s ELT approach to data integration? 
-- Why is ELT preferred over ETL? 
-- What is a cursor? 
-- What is a primary key used for? 
-- What is the difference between full refresh replication and incremental sync replication? 
-- What does it mean to append data rather than overwrite it in the destination? 
-- How is incremental sync with deduped history different from incremental sync with append? 
+- What is Airbyte’s ELT approach to data integration?
+- Why is ELT preferred over ETL?
+- What is a cursor?
+- What is a primary key used for?
+- What is the difference between full refresh replication and incremental sync replication?
+- What does it mean to append data rather than overwrite it in the destination?
+- How is incremental sync with deduped history different from incremental sync with append?
 - What are the advantages of log-based change data capture (CDC) replication versus standard replication?
 - Which replication mode should you choose?
 
@@ -87,4 +87,3 @@ To support CDC, Airbyte uses [Debezium](https://debezium.io/) internally.
 | The **entire data set** will be retrieved from the source and sent to the destination on each sync run. | Only records that have been **inserted or updated** in the source system since the previous sync run are sent to the destination. |
 
 [An overview of Airbyte’s replication modes | Airbyte](https://airbyte.com/blog/understanding-data-replication-modes)
-

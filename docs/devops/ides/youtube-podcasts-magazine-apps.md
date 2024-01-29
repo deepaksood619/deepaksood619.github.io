@@ -181,6 +181,7 @@
 - Webby Awardz
 - Stackoverflow developer survey
 - ProductHunt yearly
+- Finology legal yearly news and supreme court decision reviews
 
 ## Magazine
 
@@ -344,6 +345,7 @@
 - The rational reminder podcast
 - Aquired
 - Empire
+- [Choiceology | Charles Schwab](https://www.schwab.com/learn/choiceology)
 
 https://www.freecodecamp.org/news/best-tech-podcasts-for-software-developers
 

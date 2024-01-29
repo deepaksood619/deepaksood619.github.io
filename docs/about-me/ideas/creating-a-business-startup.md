@@ -35,6 +35,7 @@ You will have either of the 4 problems while building a startup
 
 - Techcrunch
 - ProductHunt - [Best rated products of November 2022. | Product Hunt](https://www.producthunt.com/products?order=best_rated&period=2022-11)
+- [Hall of Fame - Golden Kitty Awards Winners | Product Hunt](https://www.producthunt.com/golden-kitty-awards/hall-of-fame)
 - Demo Days
 
 ## How to start startup

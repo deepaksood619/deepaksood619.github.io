@@ -102,6 +102,12 @@ https://www.youtube.com/playlist?list=PLCi-q9vYo4x-PESoBcXN0tXCMgzh5c_Pj
 
 https://www.astronomer.io/blog/7-common-errors-to-check-when-debugging-airflow-dag
 
+## Changelog
+
+[Apache Airflow 2.0 is here! | Apache Airflow](https://airflow.apache.org/blog/airflow-two-point-oh-is-here/)
+
+[Introducing Airflow 2.8](https://www.astronomer.io/blog/introducing-airflow-2-8/)
+
 ## Others
 
 - Astronomer

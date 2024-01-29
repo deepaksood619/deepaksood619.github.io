@@ -5,6 +5,7 @@
 - [Project Constraints](project-contraints)
 - [PERT and CPM](management/project-management/pert-and-cpm.md)
 - [JIRA](jira)
+- [Atlas](management/project-management/atlas.md)
 - [Agile](agile)
 - [Scrum / Meetings](scrum-meetings)
 - [Goal Setting](management/project-management/goals-setting.md)

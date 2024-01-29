@@ -82,18 +82,11 @@ Metadata is pretty vague, but in this case, I'm referring specifically to Datavi
 
 ## Learning
 
-[https://demo-obsidian.owenyoung.com/](https://demo-obsidian.owenyoung.com/)
-
-[https://demo-wiki.owenyoung.com/#how-do-i-use-foam](https://demo-wiki.owenyoung.com/#how-do-i-use-foam)
-
-[LYT Kit](https://www.youtube.com/playlist?list=PL3NaIVgSlAVK6CQspGUYsbVF-EIGYuyth)
-
-[Making notes actually useful in Obsidian](https://www.youtube.com/watch?v=v7BbraqevMg)
-
-[The BASB Book](https://www.buildingasecondbrain.com/book)
-
-[BUILDING A SECOND BRAIN by Tiago Forte | Core Message - YouTube](https://www.youtube.com/watch?v=aEm72qlAtVc)
-
-[Organise Your Life - Building a Second Brain book summary - YouTube](https://www.youtube.com/watch?v=KTXshjVpEQ0)
-
-[Tiago Forte | Building a Second Brain | Talks at Google - YouTube](https://www.youtube.com/watch?v=Y86GOtc1KNo)
+- [https://demo-obsidian.owenyoung.com/](https://demo-obsidian.owenyoung.com/)
+- [https://demo-wiki.owenyoung.com/#how-do-i-use-foam](https://demo-wiki.owenyoung.com/#how-do-i-use-foam)
+- [LYT Kit](https://www.youtube.com/playlist?list=PL3NaIVgSlAVK6CQspGUYsbVF-EIGYuyth)
+- [Making notes actually useful in Obsidian](https://www.youtube.com/watch?v=v7BbraqevMg)
+- [The BASB Book](https://www.buildingasecondbrain.com/book)
+- [BUILDING A SECOND BRAIN by Tiago Forte | Core Message - YouTube](https://www.youtube.com/watch?v=aEm72qlAtVc)
+- [Organise Your Life - Building a Second Brain book summary - YouTube](https://www.youtube.com/watch?v=KTXshjVpEQ0)
+- [Tiago Forte | Building a Second Brain | Talks at Google - YouTube](https://www.youtube.com/watch?v=Y86GOtc1KNo)

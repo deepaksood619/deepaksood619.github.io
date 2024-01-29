@@ -32,3 +32,7 @@ An [arbitrage](https://www.investopedia.com/terms/a/arbitrage.asp) fund is a typ
 Arbitrage funds work by exploiting the price differential between assets that should theoretically have the same price. One of the most important types of arbitrage takes place between the cash and [futures markets](https://www.investopedia.com/terms/f/futuresmarket.asp). A typical fund purchases stocks with the hope of selling them later after the price has gone up. Instead, an arbitrage fund purchases stock in the cash market and simultaneously sells that interest in the futures market. The differences between stock prices and [futures contracts](https://www.investopedia.com/terms/f/futurescontract.asp) are usually very small. As a result, arbitrage funds must execute a large number of trades each year to make any substantial gains.
 
 https://www.investopedia.com/articles/investing/100515/what-exactly-are-arbitrage-mutual-funds.asp
+
+## CAT Bonds (Catastrophe Bonds)
+
+[The rise of CAT bonds](https://finshots.in/archive/the-rise-of-cat-bonds/)

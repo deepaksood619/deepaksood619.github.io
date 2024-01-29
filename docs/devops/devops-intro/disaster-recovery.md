@@ -22,6 +22,44 @@ Disaster recovery in the database world relates to the backups, logs and replica
 - **Mirroring** – maintaining two copies of the same database at different locations. One in offline mode so we know where things are at when we need to use it.
 - **Replication** – the secondary database is online and can be queried. This is not only good for Disaster Recovery but can be useful if you utilise one instance for reporting and one for live queries. If you are using AWS setting this up takes just a few clicks.
 
+![Disaster Recovery](../../media/Pasted%20image%2020240129201820.png)
+
+### 1. Backup and Restore Strategy
+
+This method involves regular backups of data and systems to facilitate post-disaster recovery.
+
+- Typical RTO: From several hours to a few days.
+- Typical RPO: From a few hours up to the time of the last successful backup.
+
+### 2. Pilot Light Approach
+
+Maintains crucial components in a ready-to-activate mode, enabling rapid scaling in response to a disaster.
+
+- Typical RTO: From a few minutes to several hours.
+- Typical RPO: Depends on how often data is synchronized.
+
+The term pilot light is often used to describe a DR scenario in which a minimal version of an environment is always running in the cloud. The idea of the pilot light is an analogy that comes from the gas heater. In a gas heater, a small flame that's always on can quickly ignite the entire furnace to heat up a house.
+
+### 3. Warm Standby Solution
+
+Establishes a semi-active environment with current data to reduce recovery time.
+
+- Typical RTO: Generally within a few minutes to hours.
+- Typical RPO: Up to the last few minutes or hours.
+
+The term warm standby is used to describe a DR scenario in which a scaled-down version of a fully functional environment is always running in the cloud. A warm standby solution extends the pilot light elements and preparation.It further decreases the recovery time because some services are always running. By identifying your business-critical systems, you can fully duplicate these systems on AWS and have them always on.
+
+These servers can be running on a minimum-sized fleet of Amazon EC2 instances on the smallest sizes possible. This solution is not scaled to take a full-production load, but it is fully functional. It can be used for non-production work, such as testing, quality assurance, and internal use.
+
+In a disaster, the system is scaled up quickly to handle the production load. In AWS, this can be done by adding more instances to the load balancer and by resizing the small capacity servers to run on larger Amazon EC2 instance typ es. As stated in the preceding section, horizontal scaling is preferred over vertical scaling.
+
+### 4. Hot Site / Multi-Site Configuration
+
+Ensures a fully operational, duplicate environment that runs parallel to the primary system, enabling uninterrupted functionality.
+
+- Typical RTO: Almost immediate, often just a few minutes.
+- Typical RPO: Extremely minimal, usually only a few seconds old.
+
 ## Question
 
 Scenario: An ERP application is deployed across multiple AZs in a single region. In the event of failure, the Recovery Time Objective (RTO) must be less than 3 hours, and the Recovery Point Objective (RPO) must be 15 minutes. The customer realizes that data corruption occurred roughly 1.5 hours ago. What DR strategy could be used to achieve this RTO and RPO in the event of this kind of failure?
@@ -54,18 +92,6 @@ For High Availability Option 2 can be used. A master-slave replication between t
 
 ![image](../../media/DevOps-DevOps-Disaster-Recovery-image2.jpg)
 
-## Pilot Light
-
-The term pilot light is often used to describe a DR scenario in which a minimal version of an environment is always running in the cloud. The idea of the pilot light is an analogy that comes from the gas heater. In a gas heater, a small flame that's always on can quickly ignite the entire furnace to heat up a house.
-
-## Warm Standby
-
-The term warm standby is used to describe a DR scenario in which a scaled-down version of a fully functional environment is always running in the cloud. A warm standby solution extends the pilot light elements and preparation.It further decreases the recovery time because some services are always running. By identifying your business-critical systems, you can fully duplicate these systems on AWS and have them always on.
-
-These servers can be running on a minimum-sized fleet of Amazon EC2 instances on the smallest sizes possible. This solutionisnotscaledtotake afull-productionload, butitisfullyfunctional.Itcanbe usedfornon-productionwork, such as testing, quality assurance, and internal use.
-
-In a disaster, the system is scaled up quickly to handle the production load. In AWS, this can be done by adding more instances to the load balancer and by resizing the small capacity servers to run on larger Amazon EC2 instance typ es. As stated in the preceding section, horizontal scaling is preferred over vertical scaling.
-
 ## Replication of Data
 
 When you replicate data to a remote location, you should consider these factors:
@@ -73,8 +99,7 @@ When you replicate data to a remote location, you should consider these factors:
 - Distance between the sites - Larger distances typically are subject to more latency or jitter.
 - Available bandwidth - The breadth and variability of the interconnections.
 - Data rate required by your application - The data rate should be lower than the available bandwidth.
-- Replication technology - The replication technology should be parallel (so that it can use the network
-    effectively).
+- Replication technology - The replication technology should be parallel (so that it can use the network effectively).
 
 There are two main approaches for replicating data: synchronous and asynchronous.
 

@@ -175,3 +175,9 @@ https://www.confluent.io/blog/apache-kafka-2-4-latest-version-updates
 - https://dzone.com/articles/20-best-practices-for-working-with-apache-kafka-at
 - https://engineering.linkedin.com/kafka/benchmarking-apache-kafka-2-million-writes-second-three-cheap-machines
 - https://www.datadoghq.com/blog/kafka-at-datadog
+
+## Changelog
+
+Kafka without Zookeeper
+
+[How to Deploy Kafka using Kubernetes Kafka Operator](https://kubedb.com/articles/how-to-deploy-kafka-using-kubernetes-kafka-operator/)

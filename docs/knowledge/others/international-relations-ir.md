@@ -8,6 +8,8 @@ War is a strange game, only way to win it, is to not play it
 
 It's all about what narratives you believe in
 
+Wolf warrior diplomacy / strategy
+
 [Principles for Dealing with the Changing World Order by Ray Dalio](https://www.youtube.com/watch?v=xguam0TKMw8)
 
 ![image](../../media/International-Relations-IR-image1.jpg)

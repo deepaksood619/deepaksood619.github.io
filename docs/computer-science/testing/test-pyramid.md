@@ -68,6 +68,7 @@ You have just seen two types of tests:
 ## Application Security Testing
 
 Security testing helps you identify application vulnerabilities that could be exploited by hackers and correct them before you release your product or app.
+
 There are a [range of application security tests](https://securityboulevard.com/2020/03/application-security-testing-trends-in-2020/) available to you with different tests that are applicable at different parts of the software development life cycle.
 
 ## Static Application Security Testing (SAST) (White-box)

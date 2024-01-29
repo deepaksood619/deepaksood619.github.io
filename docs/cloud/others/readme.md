@@ -1,11 +1,12 @@
 # Other Clouds
 
 - [Google Cloud Platform (GCP)](google-cloud-platform)
-- [Anthos](anthos)
+  - [Anthos](anthos)
+  - [Big Query / Big Query](bigquery-big-query)
 - [Azure](azure/readme.md)
   - [Azure Services](azure/services)
   - [Azure Commands](azure/commands)
-- [Big Query / Big Query](bigquery-big-query)
+- [Linode](cloud/others/linode.md)
 - [Oracle](oracle)
 - [Firebase](firebase/readme.md)
   - [Firebase Analytics](firebase/firebase-analytics)

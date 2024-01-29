@@ -20,6 +20,7 @@
 - LinkTree - https://linktr.ee/deepaksood
 - itsmy.fyi - [Deepak Kumar Sood](https://itsmy.fyi/me/deepak)
   - Issue Link - [itsmy.fyi - Deepak · Issue #109 · rishi-raj-jain/itsmy.fyi · GitHub](https://github.com/rishi-raj-jain/itsmy.fyi/issues/109)
+- Bento - [Bento - deepaksood](https://bento.me/deepaksood) [Bento - deepaksood619](https://bento.me/deepaksood619)
 
 ## Others
 

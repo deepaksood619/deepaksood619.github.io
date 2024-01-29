@@ -135,6 +135,8 @@ https://www.freecodecamp.org/news/use-user-reseach-to-create-the-perfect-ui-desi
 
 Figma Variants - https://www.freecodecamp.org/news/design-a-scalable-mobile-app-with-figma-variants
 
+[Jitter · Fast and simple motion design tool.](https://jitter.video/)
+
 ## Accessibility
 
 https://www.freecodecamp.org/news/designing-keyboard-accessibility-for-complex-react-experiences

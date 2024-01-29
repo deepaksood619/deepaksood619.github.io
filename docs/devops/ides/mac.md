@@ -144,6 +144,7 @@ https://www.google.com/inputtools
 
 - Keep Desktop app - Go to keep.google.com > go to chrome more tools > create shortcut > check open as new window
 - Youtube music
+- Meet - [Use Companion mode for hybrid learning & collaboration - Google Meet Help](https://support.google.com/meet/answer/11295507)
 
 ### brew
 

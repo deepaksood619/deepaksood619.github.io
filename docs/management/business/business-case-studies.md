@@ -373,3 +373,6 @@ Marketing tactic used, light the agarbatti in-front of store and left for 2 days
 - [Airtel will beat JIO? What no one is Telling you about the Jio vs Airtel vs Tata Telecom Wars! - YouTube](https://www.youtube.com/watch?v=XYOZ4RzrHW0)
 - [The Untold TRUTH Of Nintendo - YouTube](https://www.youtube.com/watch?v=DoQnniM4MSg)
 - [How LaPino'z DISRUPTED India’s 1,500 Crore Pizza Industry | GrowthX Wireframe - YouTube](https://www.youtube.com/watch?v=NM19ZCXaEIM)
+- [How A Poor Boy Built A 2000Cr Dairy Company And Beat Giants: Business Case Study - YouTube](https://www.youtube.com/watch?v=-98fnc4VAo8)
+
+## End
