@@ -20,6 +20,12 @@ This is arguably the most important, and the most overlooked, pillar. It encapsu
 
 [Personal Finance - Mutual Funds - YouTube](https://www.youtube.com/playlist?list=PLX2SHiKfualGsjgd7fKFC-JXRF6vO73hk)
 
+## Tools
+
+- Andromoney
+- axio
+- [Cashews](https://cashews.finance/)
+
 ## Links
 
 [Robert Kiyosaki From 'Rich Dad Poor Dad' Opens Up On Money, Personal Finance & More | TRS 337 - YouTube](https://www.youtube.com/watch?v=byJgRDFdUj0)

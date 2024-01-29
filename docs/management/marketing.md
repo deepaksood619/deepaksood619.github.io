@@ -399,39 +399,44 @@ https://www.gigsmedia.in
 
 ## Channels
 
-1. **SMS**
+### SMS
 
-   - msg91
+- msg91
+- pinpoint
 
-   - pinpoint
+### Email
 
-2. **Email**
+- pinpoint
+- sendgrid
+- [Resend](https://resend.com/home)
 
-   - pinpoint
+### Push notifications
 
-   - sendgrid
+- Firebase (FCM)
 
-3. **Push notifications**
+### IVR
 
-   - Firebase
+### In-app messaging
 
-4. **IVR**
+- in-app notification (banners)
+- native notification
+- in-app with deep linking notification
+- [https://developers.google.com/business-communications/rcs-business-messaging/guides/learn/what-can-rbm-do](https://developers.google.com/business-communications/rcs-business-messaging/guides/learn/what-can-rbm-do)
 
-5. **In-app messaging**
-    - in-app notification (banners)
-    - native notification
-    - in-app with deep linking notification
-    - [https://developers.google.com/business-communications/rcs-business-messaging/guides/learn/what-can-rbm-do](https://developers.google.com/business-communications/rcs-business-messaging/guides/learn/what-can-rbm-do)
+### App Inbox / Notification Center
 
-6. **App Inbox / Notification Center**
+https://docs.clevertap.com/docs/app-inbox
+https://docs.leanplum.com/docs/app-inbox-messages
 
-    https://docs.clevertap.com/docs/app-inbox
-    https://docs.leanplum.com/docs/app-inbox-messages
+### Others
 
-7. MSG91
-8. FCM
-9. Telegram
-10. Whatsapp
+- Telegram
+- Whatsapp
+  - YellowMessenger
+
+### Tools
+
+- [Novu - The open-source notification infrastructure](https://novu.co/)
 
 ## Metrics
 

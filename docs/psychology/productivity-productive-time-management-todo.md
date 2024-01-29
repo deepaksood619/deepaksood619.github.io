@@ -105,6 +105,7 @@ https://www.scotthyoung.com/blog/2020/04/27/productivity-rules
 2. Don't Multitask
 3. Have Themed Days
 4. Discipline Matters More Than Intelligence
+1. You might have all the knowledge, talent, or skill in the world, but because of a lack of discipline, you will never make it. – Daniel Walter
 5. Recharge and Refresh Mid-Day To Keep Up Your Mental Fitness
 6. Devote at Least 50% of Your Time to Building Great Products. Avoid Ego-Gratifying Activities.
 7. Write Notes Down on Paper
@@ -219,6 +220,10 @@ Cognitive neuro ergonomics
 Liner is a browser extension that lets you highlight anything you see online. Be it articles, images or even videos! The extension saves everything you highlight in a folder so that you can look at it later, all in one place.
 
 "You can also pinpoint time stamps of any YouTube video via it. It’s very handy and convenient and a great tool for research." she says.
+
+### Others
+
+- [AI-Powered Productivity. A Second Brain for Teams | Taskade](https://www.taskade.com/)
 
 ## Resources
 

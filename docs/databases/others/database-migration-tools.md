@@ -13,14 +13,12 @@ Liquibase Hub
     - YAML
     - JSON
     - SQL
-
 - Tracking Tables
   - DATABASECHANGELOG
 
 Track which changes have or have not been deployed
 
 - DATABASECHANGELOGLOCK
-
 - commands - liquibase update
 
 https://www.liquibase.org

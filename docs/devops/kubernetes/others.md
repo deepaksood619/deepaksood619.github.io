@@ -279,3 +279,5 @@ Using private container registry - https://container-solutions.com/using-google-
 Centralized monitoring on Kubernetes - https://github.com/coreos/prometheus-operator/tree/master/contrib/kube-prometheus
 
 Questions - https://ymmt2005.hatenablog.com/entry/k8s-things
+
+[Stakater · GitHub](https://github.com/stakater/)

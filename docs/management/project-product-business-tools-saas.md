@@ -12,36 +12,42 @@
 8. Orangescrum - https://github.com/Orangescrum/orangescrum
 9. https://kitemaker.co
 10. AirTable
-11. https://www.nocodb.com (Airtable Alternative) - [GitHub - nocodb/nocodb: 🔥 🔥 🔥 Open Source Airtable Alternative](https://github.com/nocodb/nocodb)
-12. Trello - https://blog.trello.com/trello-team-playbooks
-13. BaseCamp / workday
-14. firmbee
-15. Calendar
-16. Slack
+1. https://www.nocodb.com (Airtable Alternative) - [GitHub - nocodb/nocodb: 🔥 🔥 🔥 Open Source Airtable Alternative](https://github.com/nocodb/nocodb)
+2. [Equals | Dashboards and reports](https://equals.com/report/)
+11. Trello - https://blog.trello.com/trello-team-playbooks
+12. BaseCamp / workday
+13. firmbee
+14. Calendar
+15. Slack
     - Brief - https://www.gobrief.com
     - https://www.quora.com/What-Slack-to-do-list-app-do-you-recommend
     - https://about.gitlab.com/handbook/communication/chat
-17. Gmail
+16. Gmail
       1. Mailman (batches incoming email and keeps brain from getting distracted by the endless trickle of new email)
       2. Zoho
       3. https://360.yandex.ru/business
-18. Gitlab issues
-19. https://fireflies.ai - AI assistant for your meetings
-20. Calendly
-21. https://topmate.io
-22. [The scheduling tool that speaks your language - YouCanBookMe](https://youcanbook.me/)
-23. https://github.com/opf/openproject
-24. https://freedcamp.com
-25. Google sheets - https://www.goskills.com/Project-Management/Resources/Project-management-template-Google-Sheets
-26. Google Forms / https://www.jotform.com
-27. Screenbrush
-28. https://www.productboard.com
-29. Product - https://appsumo.com
-30. jenni.ai - AI content writing
-31. https://www.cymath.com - Solve maths question
-32. https://attentioninsight.com
-33. [Mind Map & Brainstorm Ideas - MindNode](https://www.mindnode.com/)
-34. [Canva: Visual Suite for Everyone](https://www.canva.com)
+17. Gitlab issues
+18. https://fireflies.ai - AI assistant for your meetings
+19. Calendly
+20. https://topmate.io
+21. [The scheduling tool that speaks your language - YouCanBookMe](https://youcanbook.me/)
+22. https://github.com/opf/openproject
+23. https://freedcamp.com
+24. Google sheets - https://www.goskills.com/Project-Management/Resources/Project-management-template-Google-Sheets
+25. Google Forms
+1. [Free Online Form Builder & Form Creator | Jotform](https://www.jotform.com)
+2. [Typeform: People-Friendly Forms and Surveys](https://www.typeform.com/)
+3. [SurveyMonkey: The World’s Most Popular Free Online Survey Tool](https://www.surveymonkey.com/)
+4. [Free Online Form Builder | Tally](https://tally.so/)
+26. Screenbrush
+27. https://www.productboard.com
+28. Product - https://appsumo.com
+29. jenni.ai - AI content writing
+30. https://www.cymath.com - Solve maths question
+31. https://attentioninsight.com
+32. [Mind Map & Brainstorm Ideas - MindNode](https://www.mindnode.com/)
+33. [Canva: Visual Suite for Everyone](https://www.canva.com)
+34. [FuseBase (Formerly Nimbus): Online Collaboration Tool for Business - Team Collaboration Software](https://nimbusweb.me/)
 
 The tools of a successful product manager
 

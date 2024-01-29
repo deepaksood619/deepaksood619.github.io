@@ -59,6 +59,7 @@
 - [OpenEden](https://openeden.com/)
 - [token.com | Invest with Intent](https://www.token.com/)
 - [The On-Chain Firewall | Harpie](https://harpie.io/)
+- [Clustr - The reality check for your crypto portfolio](https://www.clustr.io/)
 
 ## Games
 

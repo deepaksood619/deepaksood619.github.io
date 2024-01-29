@@ -1,6 +1,6 @@
 # Architecting on AWS
 
-12thAugust to 14thAugust 2020
+12th August to 14th August 2020
 
 http://online.vitalsource.com
 
@@ -48,19 +48,19 @@ We recommend that attendees of this course have:
 
 ## Day One
 
-## Module 1: Introduction
+### Module 1: Introduction
 
 - The Well-Architected Framework
 - AWS Global Infrastructure
 
-## Module 2: The simplest architectures
+### Module 2: The simplest architectures
 
 - Amazon Simple Storage Service (Amazon S3)
 - Amazon S3 Glacier
 - Choosing AWS Regions for your architectures
 - Hands-on lab: Hosting a Static Website
 
-## Module 3: Adding a compute layer
+### Module 3: Adding a compute layer
 
 - Amazon Elastic Compute Cloud (Amazon EC2)
 - Amazon Machine Images (AMIs)
@@ -68,7 +68,7 @@ We recommend that attendees of this course have:
 - Amazon Elastic File System (Amazon EFS)
 - Amazon FSx
 
-## Module 4: Adding a database layer
+### Module 4: Adding a database layer
 
 - Database layer considerations
 - Amazon Relational Database Service (Amazon RDS)
@@ -79,7 +79,7 @@ https://aws.amazon.com/premiumsupport/knowledge-center/transformations-aws-dms
 
 - Hands-on lab: Deploying a Web Application on AWS
 
-## Module 5: Networking in AWS -- Part 1
+### Module 5: Networking in AWS -- Part 1
 
 - Amazon Virtual Private Cloud (Amazon VPC)
 - Network security in the cloud
@@ -87,7 +87,7 @@ https://aws.amazon.com/premiumsupport/knowledge-center/transformations-aws-dms
 
 ## Day Two
 
-## Module 6: Networking in AWS -- Part 2
+### Module 6: Networking in AWS -- Part 2
 
 - AWS VPN connections
 - AWS Direct Connect (DX)
@@ -96,14 +96,14 @@ https://aws.amazon.com/premiumsupport/knowledge-center/transformations-aws-dms
 - Load balancing on AWS
 - Amazon Route 53
 
-## Module 7: AWS Identity and Access Management (IAM)
+### Module 7: AWS Identity and Access Management (IAM)
 
 - Account users and AWS IAM
 - Federating users
 - Amazon Cognito
 - AWS Organizations
 
-## Module 8: Elasticity, high availability, and monitoring
+### Module 8: Elasticity, high availability, and monitoring
 
 - Amazon CloudWatch
 - AWS CloudTrail
@@ -111,7 +111,7 @@ https://aws.amazon.com/premiumsupport/knowledge-center/transformations-aws-dms
 - Scaling your databases
 - Hands-on lab: Creating a highly available environment
 
-## Module 9: Automation
+### Module 9: Automation
 
 - AWS CloudFormation
 - **AWS Systems Manager**
@@ -124,19 +124,19 @@ Gain operational insights and take action on AWS resources
 
 ## Day Three
 
-## Module 10: Caching
+### Module 10: Caching
 
 - Caching on AWS with Amazon CloudFront
 - Session management
 - Amazon DynamoDB Accelerator (DAX)
 - Amazon ElastiCache
 
-## Module 11: Building decoupled architectures
+### Module 11: Building decoupled architectures
 
 - Amazon Simple Queue Service (Amazon SQS)
 - Amazon Simple Notification Service (Amazon SNS)
 
-## Module 12: Microservices and serverless architectures
+### Module 12: Microservices and serverless architectures
 
 - Amazon Elastic Container Service (Amazon ECS)
 - AWS Fargate
@@ -145,14 +145,14 @@ Gain operational insights and take action on AWS resources
 - AWS Step Functions
 - Hands-on lab: Implementing a serverless architecture with AWS Managed Services
 
-## Module 13: RTO/RPO and backup recovery setup
+### Module 13: RTO/RPO and backup recovery setup
 
 - Disaster planning
 - Data replication
 - Recovery strategies
 - AWS Storage Gateway
 
-## Module 14: Optimization and review
+### Module 14: Optimization and review
 
 - Best practices for optimization
 - Review questions
@@ -168,38 +168,37 @@ Gain operational insights and take action on AWS resources
 
 ## Well-Architected Framework (Five Pillars)
 
-1. Security
+### 1. Security
 
-   - Identity foundation
-   - Enabling traceability
-   - Security at all layers
-   - Risk assessment and mitigation strategies
+- Identity foundation
+- Enabling traceability
+- Security at all layers
+- Risk assessment and mitigation strategies
 
-2. Reliability
+### 2. Reliability
 
-   - Dynamically acquire computing resources to meet demand
-   - Recover quickly from infrastructure or service failures
-   - Mitigate disruptions such as:
+- Dynamically acquire computing resources to meet demand
+- Recover quickly from infrastructure or service failures
+- Mitigate disruptions such as:
+  - Misconfigurations
+  - Transient network issues
 
-       - Misconfigurations
-       - Transient network issues
+### 3. Cost Optimization
 
-3. Cost Optimization
+- Measure efficiency
+- Eliminate unneeded expense
+- Consider using managed services
 
-   - Measure efficiency
-   - Eliminate unneeded expense
-   - Consider using managed services
+### 4. Performance Efficiency
 
-4. Performance Efficiency
+- Choose efficient resources and maintain their efficiency as demand changes
+- Democratize advanced technologies
+- Mechanical sympathy
 
-   - Choose efficient resources and maintain their efficiency as demand changes
-   - Democratize advanced technologies
-   - Mechanical sympathy
+### 5. Operation Excellence
 
-5. Operation Excellence
-
-   - The ability to run and monitor systems
-   - To continually impove supporting process and procedures
+- The ability to run and monitor systems
+- To continually impove supporting process and procedures
 
 ## Edge Location - Point of Presence
 
@@ -239,3 +238,7 @@ Gain operational insights and take action on AWS resources
 ![data visualization reference architecture](../../media/Pasted%20image%2020230326221220.png)
 
 [Data Analytics Lens - Data Analytics Lens](https://docs.aws.amazon.com/wellarchitected/latest/analytics-lens/analytics-lens.html)
+
+## Others
+
+[Migration Lens - AWS Well-Architected Framework - Migration Lens](https://docs.aws.amazon.com/wellarchitected/latest/migration-lens/migration-lens.html)

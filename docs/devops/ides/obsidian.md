@@ -228,6 +228,7 @@ https://hikerpig.github.io/foam-jekyll-template
 - AppFlowy - Open-source alternative to Notion
 - https://anytype.io/en
 - [Dendron](https://www.dendron.so/)
+- [Heptabase](https://heptabase.com/)
 
 https://www.slant.co/topics/4962/~knowledge-base-systems-for-personal-use
 

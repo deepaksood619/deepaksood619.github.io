@@ -30,9 +30,7 @@
 ## Sets 4 Reps 10 Rest 60 sec Tempo 2010
 
 1. Monday (Focus Chest + Triceps)
-
    - Treadmill - 15 mins
-
    - Dumbbell Bench Press
 
    ![image](../../../media/Exercise-Stretching_Home-+-Gym-image1.jpg)
@@ -46,13 +44,9 @@
    ![image](../../../media/Exercise-Stretching_Home-+-Gym-image3.jpg)
 
    - Standing Triceps over head dumbbell
-
    - Pushups
-
 2. Tuesday (Focus Back + Biceps)
-
    - Treadmill - 15 mins
-
    - Hammer
 
    ![image](../../../media/Exercise-Stretching_Home-+-Gym-image4.jpg)
@@ -70,9 +64,7 @@
    ![image](../../../media/Exercise-Stretching_Home-+-Gym-image7.jpg)
 
 3. Wednesday (Focus Shoulders & Legs & Abs)
-
    - Treadmill - 15 mins
-
    - Overhead press
 
    ![image](../../../media/Exercise-Stretching_Home-+-Gym-image8.jpg)
@@ -98,27 +90,16 @@
    ![image](../../../media/Exercise-Stretching_Home-+-Gym-image13.jpg)
 
    - Abs
-
    - Plank
-
    - situps
-
 4. Thursday (Focus Triceps + Chest)
-
    - Treadmill - 15 mins
-
 5. Friday (Focus Biceps + Back)
-
    - Treadmill - 15 mins
-
 6. Saturday (Focus Legs + Shoulders)
-
    - Treadmill - 15 mins
-
 7. Sunday (Cardio + Abs)
-
    - Treadmill - 30-45 mins (Endurance)
-
    - Dumbbell Crunch
 
 ![image](../../../media/Exercise-Stretching_Home-+-Gym-image14.jpg)

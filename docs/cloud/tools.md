@@ -1,0 +1,138 @@
+# Tools
+
+### Infrastructure Tools
+
+1. Terraform and Ansible for IaC
+2. Kubernetes
+	1. Ingress Controller - Nginx
+3. Docker and docker-compose (for local development)
+4. Artifact Repositories
+	1. GAR
+	2. GCR
+	3. Azure Repo
+	4. ECR
+	5. Nexus
+	6. Artifactory
+5. Velero for DR
+6. Web Servers - Nginx
+7. LoadBalancers - HA proxy / Nginx
+8. Secrets Manager
+	1. Vault
+	2. AWS KMS
+	3. GCP
+	4. Azure Secrets
+9. Chaos Engineering - gremlin
+10. Documentation tool - Confluence
+11. Project Management tool - JIRA
+12. Communication tool - Slack / Google chats
+
+### VCS Tools
+
+1. Code Repository
+	1. GitHub
+	2. GitLab
+	3. BitBucket
+	4. AWS CodeCommit
+2. Code Standardization
+3. Pre-commit hooks
+	1. detect-aws-credentials
+	2. detect-private-key
+4. Formatter - black (for python), etc
+5. Static Code Analysis
+	1. SonarQube
+6. Linters (based on coding languages)
+7. Dependabot-gitlab
+
+### CI Tools
+
+1. Jenkins
+2. Secret Scanning - GitLeaks
+3. Creds Scanner - Trivy
+4. Security Vulnerability - Bandit
+5. SAST
+	1. Open Source
+		1. Bandit
+		2. Brakeman
+		3. Checkmarx CxSAST with Limited Functionalities
+		4. Flawfinder
+		5. SonarQube
+		6. pylint-secure-coding-standard
+		7. SpotBugs (Find Security Bug Plugin)
+	2. Enterprise
+		1. Checkmarx CxSAST
+		2. Kiuwan
+		3. Veracode
+		4. Fortify
+		5. Coverity
+		6. IBM Security AppScan
+		7. CAST
+		8. Qualys
+		9. RedHat Advanced Cluster Security For Kubernetes (only K8s)
+6. SCA
+	1. Open Source
+		1. OWSAP Dependency-Check
+		2. Retire.js
+		3. CycloneDX
+		4. OSS Review Toolkit (ORT)
+		5. Licenses Golang Package
+	2. Enterprise
+		1. Black Duck
+		2. WhiteSource
+		3. Aqua Trivy
+		4. JFrog Xray
+		5. FOSSA
+		6. Snyk
+		7. Sonatype Nexus Lifecycle
+		8. RedHat Advanced Cluster Security For Kubernetes (Only K8s)
+		9. Veracode Software Composition Analysis
+7. DAST
+	1. Open source - ZAP
+	2. Enterprise - Acunetix
+8. License Scanner - License Finder
+9. Web App Security - OSWAP
+10. Unit Tests
+11. Code Coverage
+
+### CD Tools
+
+1. Jenkins
+2. Deployment patterns
+	1. Canary releases
+	2. A/B testing
+3. Vulnerability scanning
+4. Rollbacks
+
+### Monitoring Tools
+
+1. Prometheus
+2. Grafana
+3. Alertmanager
+4. Service mesh - Istio + kiali
+5. APM - Elastalert (free) / newrelic / datadog
+6. Distributed tracing - Jaeger
+
+### Logging Tools
+
+1. Elasticsearch + Kibana or Grafana Loki
+2. Forwarders - Filebeat / Fluentd / Fluentbit / Logstash
+3. Sentry - Application exception management and error tracking tool
+
+### DB Tools
+
+1. New age DBs - MongoDB / Elasticsearch / Cassandra / Redis
+2. CDC Tool - Debezium
+3. Event driven system - Kafka
+4. Data Warehouses - BigQuery / Redshift / Clickhouse / Databricks
+5. Visualization tools - Metabase / Tableau / PowerBI
+6. DB migration tools - Liquibase / Flyway
+
+### Modernization Tools
+
+1. Airflow
+2. Identity management - Keycloak / Active Directory
+
+### Security Tools
+
+1. WAF and VPN
+2. SSO and JWT
+3. Security Audits - AWS Audit Manager / ScoutSuite

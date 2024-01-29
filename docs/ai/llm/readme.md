@@ -65,6 +65,7 @@ Moving from information to knowledge age
 - Merlin Chrome Extension
 - [ElevenLabs - Prime AI Text to Speech | Voice Cloning](https://beta.elevenlabs.io/)
 - [Create Video](https://studio.d-id.com/editor)
+  - [Chat D-ID](https://chat.d-id.com/)
 - AI generated presentation
   - [Gamma App](https://gamma.app/)
   - [Presentation Software | Basic to Beautiful in Minutes with Beautiful.ai](https://www.beautiful.ai/)
@@ -83,6 +84,12 @@ Moving from information to knowledge age
 - [GitHub - Nutlope/aicommits: A CLI that writes your git commit messages for you with AI](https://github.com/Nutlope/aicommits)
 - [ShareGPT: Share your wildest ChatGPT conversations with one click.](https://sharegpt.com/)
 - [Digi, The New AI Girlfriend App is The Future of Romance - YouTube](https://www.youtube.com/watch?v=3487Y7QlFoo)
+- [Warp AI - AI fully integrated with your terminal](https://www.warp.dev/warp-ai)
+- [Build AI apps and workflows faster with Retool AI](https://retool.com/products/ai)
+- [v0 by Vercel](https://v0.dev/)
+- [Pika](https://pika.art/)
+- [Langfuse](https://langfuse.com/)
+  - [Open source LLM observability, analytics, prompt management, evaluations, tests, monitoring, logging, tracing, LLMOps. Langfuse: the LLM engineering platform. Debug, analyze and iterate together](https://github.com/langfuse/langfuse)
 
 ![ai-tools](../../media/image.png)
 
@@ -126,3 +133,4 @@ Moving from information to knowledge age
 - [Google "We Have No Moat, And Neither Does OpenAI"](https://www.semianalysis.com/p/google-we-have-no-moat-and-neither)
 - [AGI-Proof Jobs: Navigating the Impending Obsolescence of Human Labor in the Age of AGI - YouTube](https://www.youtube.com/watch?v=Ahh92qtRwos&ab_channel=DavidShapiro)
 - [A DeepMind AI rivals the world's smartest high schoolers at geometry](https://www.understandingai.org/p/a-deepmind-ai-rivals-the-worlds-smartest)
+- [New Theory Suggests Chatbots Can Understand Text | Quanta Magazine](https://www.quantamagazine.org/new-theory-suggests-chatbots-can-understand-text-20240122/)

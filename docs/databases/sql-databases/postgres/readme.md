@@ -1,6 +1,7 @@
 # Postgres
 
 - [Postgres Documentation](databases/sql-databases/postgres/documentation.md)
+- [Architecture](databases/sql-databases/postgres/architecture.md)
 - [Table Partitioning](databases/sql-databases/postgres/table-partitioning.md)
 - [Postgres Indexes](databases/sql-databases/postgres/indexes.md)
 - [parameters-configuration-optimization](databases/sql-databases/postgres/parameters-configuration-optimization.md)

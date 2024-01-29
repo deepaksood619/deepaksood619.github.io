@@ -34,6 +34,8 @@ Systems design is the process of defining the [architecture](https://en.wikipedi
 
 ## Approaching a system design problem
 
+![System Design Cheat Sheet](../../media/Pasted%20image%2020240124154620.png)
+
 ### Gather requirements (Functional and non-functional requirements)
 
 - Functional

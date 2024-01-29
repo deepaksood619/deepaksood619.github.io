@@ -65,6 +65,11 @@
 
 ## Dev Tools
 
+- Langfuse
+- Eden AI
+- Langdock
+- LLM Spark
+
 - [Welcome to LangChain - 🦜🔗 LangChain 0.0.180](https://python.langchain.com/en/latest/index.html)
   - [Building LLM applications for production](https://huyenchip.com/2023/04/11/llm-engineering.html)
   - [Introduction to LangChain LLM: A Beginner’s Guide](https://www.makeuseof.com/langchain-llm-introduction/)

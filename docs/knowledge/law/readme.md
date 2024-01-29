@@ -1,6 +1,7 @@
 # Law
 
 - [Laws](laws)
+- [Judgements](knowledge/law/judgements-2023.md)
 - [LSAT](lsat)
 - [MCAT](mcat)
 - [Others](knowledge/law/others.md)

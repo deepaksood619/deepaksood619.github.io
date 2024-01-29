@@ -102,5 +102,7 @@ Mis (Monthly Income Scheme) - Limit 9 lakh
 
 ## Links
 
-[5 High Profit, Tax Free Government Investing Options! | Ankur Warikoo Hindi - YouTube](https://www.youtube.com/watch?v=3Fxuq0jeUkk)
-[Fixed Deposit Increase returns by 60% | Fixed deposits masterclass | - YouTube](https://www.youtube.com/watch?v=MhpJpPYp9Gc)
+- [5 High Profit, Tax Free Government Investing Options! | Ankur Warikoo Hindi - YouTube](https://www.youtube.com/watch?v=3Fxuq0jeUkk)
+- [Fixed Deposit Increase returns by 60% | Fixed deposits masterclass | - YouTube](https://www.youtube.com/watch?v=MhpJpPYp9Gc)
+- [How to book FD @9.5% with bank guarantee? with Excel calculator - YouTube](https://www.youtube.com/watch?v=SghE1NL49Ag)
+- [How to get upto 9% returns on FD? - YouTube](https://www.youtube.com/watch?v=UQcHYsCcPfY&ab_channel=pranjalkamra)
