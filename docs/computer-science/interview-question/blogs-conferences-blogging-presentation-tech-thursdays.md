@@ -72,6 +72,7 @@ Level up - As a Developer, series
 1. How to be a detective in Kubernetes (Debugging in kubernetes)
 2. Failcon
 3. Pycon
+4. [ComputerVisionFoundation Videos - YouTube](https://www.youtube.com/@ComputerVisionFoundation)
 
 https://dev.to/stephsmithio/writing-is-thinking-learning-to-write-with-confidence-1ijh
 

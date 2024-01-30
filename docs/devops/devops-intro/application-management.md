@@ -89,14 +89,17 @@ Thus, ALM encompasses the lifecycle of applications by considering the need for 
 #### Phases
 
 ##### Governance
+
 Beginning with business need, application governance includes the decision-making process on why applications are needed, what problems they solve, what resources will be required to make the application a reality, and what regulatory, security, and other considerations must be taken into account, for example if data must be kept in a certain geography.
 
 ##### Development
+
 Development and DevOps teams begin the creation of the application, increasingly utilizing agile tools and methods to achieve CI/CD, whether for containerized deployments or for traditional VM workloads. The development process includes acquiring or writing code, testing the application, and facilitating its deployment once initial development is completed.
 
 Waterfall development processes separate testing from development, with agile and DevOps teams testing is performed in conjunction with development as a single integrated process.
 
 ##### Maintenance
+
 After deployment, ALM focuses on maintenance for the remainder of the application’s useful life. Frequent releases address both bugs and feature additions, as well as integration with other new or legacy applications. Maintenance also addresses any rehosting necessary if applications are moved from on-premises to cloud and from cloud to containers.
 
 Enterprises often rely on one or more ALM tools to facilitate the ALM process, helping to keep track of version control, collaboration, and requests for bug fixes and new features.
@@ -129,8 +132,8 @@ Key functions of an application manager include:
 
 - Identifying business opportunities for new applications by analyzing workflows and determining where efficiencies can be gained
 - Determine whether new application capabilities should be purchased, subscribed to via SaaS, or developed in-house
-	- If software is purchased, application manager oversees acquisition of infrastructure, installation, configuration, and application lifecycle
-	- If developed in-house, application manager collaborates with development, DevSecOps, and business units to ensure application meets the defined needs and user interface requirements
+  - If software is purchased, application manager oversees acquisition of infrastructure, installation, configuration, and application lifecycle
+  - If developed in-house, application manager collaborates with development, DevSecOps, and business units to ensure application meets the defined needs and user interface requirements
 - In either case, application managers lead the roll-out to prevent any possible problems from becoming show-stoppers
 - Leads problem resolution by troubleshooting technical issues as they occur and develops a solution to solve root cause issues.
 - Determines when training is needed and oversees training for both IT and user teams

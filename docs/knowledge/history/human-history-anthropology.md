@@ -26,7 +26,7 @@
 
 ## Human Generations
 
-|**Generations**|**Born**|**Current Ages**|
+|**Generations**|**Born**|**Current Ages (as of 2024)** |
 |:--|:--|:--|
 |**Gen Z**|1997 – 2012|12 – 27|
 |**Millennials**|1981 – 1996|28 – 43|

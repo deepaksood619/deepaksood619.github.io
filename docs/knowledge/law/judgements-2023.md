@@ -7,7 +7,7 @@
 3. Why was the landmark case on Passive Euthanasia again before the SC?
 4. What did the SC hold for the release of prisoners after getting bail?
 5. Can the Bar Council of India conduct the All India Bar Examination (AIBE)?
-6. Who appoints the Chief Election Commissioner? 
+6. Who appoints the Chief Election Commissioner?
 7. Does being a member of an unlawful organisation attract UAPA?
 8. Can the SC waive the waiting period under the Hindu Marriage Act?
 9. Do sealed-cover documents violate the principles of natural justice?
@@ -20,10 +20,10 @@
 16. Does Coal India come under the Competition Commission of India?
 17. What are the new guidelines for support persons under the POCSO Act?
 18. What happens to maternity benefit claims if the contractual period is over?
-19. What are SC's directions on the safety of courts? 
+19. What are SC's directions on the safety of courts?
 20. What did the SC hold on the retrospective effect of the DSPE Act?
 21. What are the rights of children born out of invalid marriages in the Joint Hindu Family property?
-22. Do same-sex couples have the right to marry in India? 
+22. Do same-sex couples have the right to marry in India?
 23. What are the new guidelines on manual scavenging by SC?
 24. What did the SC decide on the special status of Jammu and Kashmir?
 25. What is the arbitration clause's validity in an unstamped agreement?
@@ -59,7 +59,7 @@
 21. Can criminals contest elections?
 22. Modi Defamation Case against Rahul Gandhi
 23. Bihar Government approves increased quota for reservation above 50%
-24. One Nation One Election i n National Interest: Former Prez Kovind Stated! 
+24. One Nation One Election i n National Interest: Former Prez Kovind Stated!
 25. Uttarakhand Committed to become the First State to implement UCC
 
 [Legal News of 2023.pdf - Google Drive](https://drive.google.com/file/d/1F4x0ht_ZhyvmR8LZUdtuDw8CZOxc-Jr9/view?usp=sharing)

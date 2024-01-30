@@ -25,7 +25,7 @@
 - [GitHub - deepaksood619/FCC-Random-Quote-Machine: A site that gives Random Quotes, an FreeCodeCamp project](https://github.com/deepaksood619/FCC-Random-Quote-Machine) [CodePen - FCC-RandomQuoteMachine](https://codepen.io/deepaksood619/full/KZNmBm) (Dec'17)
 - [GitHub - deepaksood619/FCC-Tribute-Linus-Torvalds: A basic HTML and bootstrap site for FreeCodeCamp Tribute Project](https://github.com/deepaksood619/FCC-Tribute-Linus-Torvalds) [FCC-Tribute Page for Linus Torvalds](https://codepen.io/deepaksood619/full/aEdojd) (Dec'17)
 - [GitHub - deepaksood619/RegexCrossword: Solution to RegexCrossword Puzzles](https://github.com/deepaksood619/RegexCrossword/tree/master) (Oct'17 - Nov'17)
-  - Profile - https://regexcrossword.com/profile/38485
+  - Profile - https://regexcrossword.com/players/38485
   - Stats - https://regexcrossword.com/stats
 - [GitHub - deepaksood619/JavaScriptTicTacToe: JavaScript TicTacToe using MiniMax Algorithm](https://github.com/deepaksood619/JavaScriptTicTacToe) [JS Tic Tac Toe - MiniMax](https://codepen.io/deepaksood619/full/VymOjG) (Oct'17)
 - [GitHub - deepaksood619/python-challenge: Solution to python challenge](https://github.com/deepaksood619/python-challenge) (Aug'17 - Dec'21)

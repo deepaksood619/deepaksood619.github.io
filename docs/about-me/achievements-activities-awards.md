@@ -21,7 +21,7 @@ I was responsible of creating a product and infrastructure around it to help sav
 
 - Regular Expressions Game
 - https://github.com/deepaksood619/RegexCrossword/blob/master/README
-- Profile - https://regexcrossword.com/profile/38485
+- Profile - https://regexcrossword.com/players/38485
 - Stats - https://regexcrossword.com/stats
 
 ## Activities

@@ -1063,4 +1063,6 @@ Don't do unto others what you don't want them to do unto you
 In theory, there is no difference between theory and practice. In practice, there is -- Yogi bera
 That's why you've gotta learn by doing.
 
+Broken clock is also right twice a day
+
 ## End

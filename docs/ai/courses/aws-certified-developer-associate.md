@@ -14,3 +14,7 @@ Date - Jan 2024
 [Ultimate AWS Certified Developer Associate 2024 NEW DVA-C02 | Udemy](https://www.udemy.com/course/aws-certified-developer-associate-dva-c01/)
 
 [AWS Certified Developer Associate [4 Practice Exam Tests] | Udemy](https://www.udemy.com/course/aws-certified-developer-associate-practice-tests-dva-c01/)
+
+## Links
+
+[Free exam retake | Amazon Web Services | Pearson VUE](https://home.pearsonvue.com/aws/freeretake)

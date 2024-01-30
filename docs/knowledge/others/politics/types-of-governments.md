@@ -131,6 +131,10 @@ https://en.wikipedia.org/wiki/Parliamentary_system
 
 [Permanent revolution - Wikipedia](https://en.wikipedia.org/wiki/Permanent_revolution)
 
+## Liberalism
+
+[Every Liberalism Term Explained in 5 Minutes - YouTube](https://www.youtube.com/watch?v=NAq-Qlm-qhA&ab_channel=TheWhiteboardExplainer)
+
 ## The Political Spectrums - Left wing vs right wing, centrism (Crap)
 
 ### Left (Liberal)

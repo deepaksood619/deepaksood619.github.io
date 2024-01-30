@@ -454,7 +454,7 @@ https://www.hackerrank.com/domains/regex/re-introduction
 
 https://regex.sketchengine.co.uk
 
-https://regexcrossword.com (Rank - https://regexcrossword.com/profile/38485)
+https://regexcrossword.com (Rank - https://regexcrossword.com/players/38485)
 
 https://regexone.com
 
