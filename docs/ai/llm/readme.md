@@ -8,7 +8,7 @@
 - [Interview Questions](ai/llm/interview-questions.md)
 - [Libraries](ai/llm/libraries.md)
 
-MMLU - Massive Multitask Language Understanding
+[MMLU Dataset | Papers With Code](https://paperswithcode.com/dataset/mmlu) - Massive Multitask Language Understanding
 
 ## GPT-3
 
@@ -134,3 +134,4 @@ Moving from information to knowledge age
 - [AGI-Proof Jobs: Navigating the Impending Obsolescence of Human Labor in the Age of AGI - YouTube](https://www.youtube.com/watch?v=Ahh92qtRwos&ab_channel=DavidShapiro)
 - [A DeepMind AI rivals the world's smartest high schoolers at geometry](https://www.understandingai.org/p/a-deepmind-ai-rivals-the-worlds-smartest)
 - [New Theory Suggests Chatbots Can Understand Text | Quanta Magazine](https://www.quantamagazine.org/new-theory-suggests-chatbots-can-understand-text-20240122/)
+- [The case for—and against—rapid AI-driven growth](https://www.understandingai.org/p/the-case-forand-againstrapid-ai-driven)

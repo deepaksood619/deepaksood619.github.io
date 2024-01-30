@@ -54,4 +54,4 @@
   - TheTypingCat - https://thetypingcat.com/user/34963
   - RataType - http://www.ratatype.com/c519043
   - 10FastFingers - https://10fastfingers.com/user/1090885
-- Regex Crossword - https://regexcrossword.com/profile/38485
+- Regex Crossword - https://regexcrossword.com/players/38485

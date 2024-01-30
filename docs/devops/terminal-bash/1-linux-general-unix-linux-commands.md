@@ -94,6 +94,20 @@ scp -i ../ec2_ssh_key.pem ubuntu@15.206.94.125:/home/ubuntu/workspace/cred-stuff
 
 `scp -r ubuntu@energy.example.com:/home/ubuntu/sources/example/media /home/ubuntu/sources/example/media`
 
+## Directory and user permissions
+
+```bash
+# Change current directory permissions for user
+chown -R test:test .
+
+# Change current file permission
+sudo chmod +r /var/log/electric_meter.log
+
+# Give sudo access to user
+sudo usermod -a -G adm telegraf
+sudo usermod -a -G root telegraf
+```
+
 ## Grep
 
 ```bash

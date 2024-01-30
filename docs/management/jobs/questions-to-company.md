@@ -85,6 +85,7 @@ https://neilpatel.com/training/growth-hacking-unlocked/raise-money
 
 ## Other Question to company (Culture)
 
+- Is this a new position being created or a existing position being filled
 - **Meet people in the company who are their for long term**
 - How do you ensure that people ideas are heard
 - How do you access performance of individuals

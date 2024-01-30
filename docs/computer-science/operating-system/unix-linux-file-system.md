@@ -152,11 +152,11 @@ This directory is used to contain data files for services provided by the comput
 
 This is a directory that is used to store temporary files on the system. It is writable by anyone on the computer and does not persist upon reboot. This means that any files that you need just for a little bit can be put here. They will be automatically deleted once the system shuts down.
 
-## /usr
+## /usr (Unix system resources)
 
-This directory is one of the largest directories on the system. It basically includes a set of folders that look similar to those in the root/directory, such as/usr/binand/usr/lib. This location is basically used to store all non-essential programs, their documentation, libraries, and other data that is not required for the most minimal usage of the system.
+This directory is one of the largest directories on the system. It basically includes a set of folders that look similar to those in the root / directory, such as `/usr/bin` and `/usr/lib`. This location is basically used to store all non-essential programs, their documentation, libraries, and other data that is not required for the most minimal usage of the system.
 
-This is where most of the files on the system will be stored. Some important subdirectories are/usr/local, which is an alternative to the/optdirectory for storing locally compiled programs. Another interesting thing to check out is the/usr/sharedirectory, which contains documentation, configuration files, and other useful files.
+This is where most of the files on the system will be stored. Some important subdirectories are `/usr/local`, which is an alternative to the `/opt` directory for storing locally compiled programs. Another interesting thing to check out is the `/usr/share` directory, which contains documentation, configuration files, and other useful files.
 
 ## /var
 
@@ -166,11 +166,12 @@ For example, system logs and backups are housed here. Another popular use of thi
 
 The utmp file allows one to discover information about who is currently using the system. There may be more users currently using the system, because not all programs use utmp logging.
 
-cat /var/run/utmp
+`cat /var/run/utmp`
 
 ## Xinetd
 
 xinetd, the eXtended InterNET Daemon, is an open-source daemon which runs on many Linux and Unix systems and manages Internet-based connectivity. It offers a more secure extension to or version of inetd, the Internet daemon.
+
 xinetd performs the same function as inetd: it starts programs that provide Internet services. Instead of having such servers started at system initialization time, and be dormant until a connection request arrives, xinetd is he only daemon process started and it listens on all service ports for the services listed in its configuration file. When a request comes in, xinetd starts the appropriate server. Because of the way it operates, xinetd (as well as inetd) is also referred to as a super-server.
 
 https://www.cyberciti.biz/faq/linux-how-do-i-configure-xinetd-service
@@ -178,6 +179,7 @@ https://www.cyberciti.biz/faq/linux-how-do-i-configure-xinetd-service
 ## File Descriptor
 
 In [Unix](https://en.wikipedia.org/wiki/Unix) and [related](https://en.wikipedia.org/wiki/Unix-like) computer operating systems, afile descriptor(FD, less frequently fildes) is an abstract indicator ([handle](https://en.wikipedia.org/wiki/Handle_(computing))) used to access a [file](https://en.wikipedia.org/wiki/File_(computing)) or other [input/output](https://en.wikipedia.org/wiki/Input/output) [resource](https://en.wikipedia.org/wiki/System_resource), such as a [pipe](https://en.wikipedia.org/wiki/Pipe_(Unix)) or [network socket](https://en.wikipedia.org/wiki/Network_socket). File descriptors form part of the [POSIX](https://en.wikipedia.org/wiki/POSIX) [application programming interface](https://en.wikipedia.org/wiki/Application_programming_interface). A file descriptor is a non-negative [integer](https://en.wikipedia.org/wiki/Integer), generally represented in the [C](https://en.wikipedia.org/wiki/C_(programming_language)) programming language as the typeint(negative values being reserved to indicate "no value" or an error condition).
+
 Each Unix [process](https://en.wikipedia.org/wiki/Process_(computing))(except perhaps a [daemon](https://en.wikipedia.org/wiki/Daemon_(computer_software))) should expect to have three standard POSIX file descriptors, corresponding to the three [standard streams](https://en.wikipedia.org/wiki/Standard_streams):
 
 | Integer value | Name                                                    | symbolic constant | file stream |
@@ -191,25 +193,29 @@ https://en.wikipedia.org/wiki/File_descriptor
 
 ## Ownership of Linux Files
 
-## User
+### User
 
 A user is the owner of the file. By default, the person who created a file becomes its owner. Hence, a user is also sometimes called an owner.
 
-## Group
+### Group
 
 A user-group can contain multiple users. All users belonging to a group will have the same access permissions to the file. Suppose you have a project where a number of people require access to a file. Instead of manually assigning permissions to each user, you could add all users to a group, and assign group permission to file such that only this group members and no one else can read or modify the files.
 
-## Other
+### Other
 
 Any other user who has access to a file. This person has neither created the file, nor he belongs to a usergroup who could own the file. Practically, it means everybody else. Hence, when you set the permission for others, it is also referred as set permissions for the world.
 
 ## Permissions of Linux Files
 
-- **Read**
+### Read
 
-This permission give you the authority to open and read a file. Read permission on a directory gives you the ability to lists its content.- **Write**
+This permission give you the authority to open and read a file. Read permission on a directory gives you the ability to lists its content.
 
-The write permission gives you the authority to modify the contents of a file. The write permission on a directory gives you the authority to add, remove and rename files stored in the directory. Consider a scenario where you have to write permission on file but do not have write permission on the directory where the file is stored. You will be able to modify the file contents. But you will not be able to rename, move or remove the file from the directory.- **Execute**
+### Write
+
+The write permission gives you the authority to modify the contents of a file. The write permission on a directory gives you the authority to add, remove and rename files stored in the directory. Consider a scenario where you have to write permission on file but do not have write permission on the directory where the file is stored. You will be able to modify the file contents. But you will not be able to rename, move or remove the file from the directory.
+
+### Execute
 
 In Windows, an executable program usually has an extension ".exe" and which you can easily run. In Unix/Linux, you cannot run a program unless the execute permission is set. If the execute permission is not set, you might still be able to see/modify the program code (provided read & write permissions are set), but not run it.
 
@@ -232,12 +238,12 @@ x= execute permission
 There are 2 ways to use the command
 
 1. Absolute mode
-
 2. Symbolic mode
 
-## Absolute(Numeric) Mode
+### Absolute(Numeric) Mode
 
-In this mode, filepermissions are not represented as characters but a three-digit octal number.
+In this mode, file permissions are not represented as characters but a three-digit octal number.
+
 The table below gives numbers for all for permissions types.
 
 | Number | Permission Type       | Symbol |
@@ -268,7 +274,7 @@ This is shown as '-rwxrw-r-
 
 This is how you can change the permissions on file by assigning an absolute number.
 
-## Symbolic Mode
+### Symbolic Mode
 
 In the Absolute mode, you change permissions for all 3 owners. In the symbolic mode, you can modify permissions of a specific owner. It makes use of mathematical symbols to modify the file permissions.
 
@@ -295,11 +301,11 @@ We will not be using permissions in numbers like 755 but characters like rwx. Le
 
 For changing the ownership of a file/directory, you can use the following command:
 
-## chown user
+### chown user
 
 In case you want to change the user as well as group for a file or directory use the command
 
-## chown user:group filename
+### chown user:group filename
 
 Let's see this in action
 
@@ -307,13 +313,13 @@ Let's see this in action
 
 In case you want to change group-owner only, use the command
 
-## chgrp group_name filename
+### chgrp group_name filename
 
 'chgrp'stands for change group.
 
 ![image](../../media/Unix-Linux-File-System-image8.jpg)
 
-## Tip
+### Tip
 
 - The file /etc/group contains all the groups defined in the system
 - You can use the command "groups" to find all the groups you are a member of
@@ -330,22 +336,10 @@ In case you want to change group-owner only, use the command
 - There are other permissions that you can set on Files and Directories which will be covered in a later advanced tutorial
 - What does x - eXecuting a directory mean? A: Being allowed to "enter" a dir and gain possible access to sub-dirs.
 
-## Commands
-
-## Change current directory permissions for user
-
-chown -R test:test .
-
-## Change current file permission
-
-sudo chmod +r /var/log/electric_meter.log
-
-## Give sudo access to user
-
-sudo usermod -a -G adm telegraf
-
-sudo usermod -a -G root telegraf
-
 https://www.guru99.com/file-permissions.html
 
+## Links
+
 https://www.freecodecamp.org/news/file-systems-architecture-explained
+
+[Linux File System Explained! - YouTube](https://www.youtube.com/watch?v=bbmWOjuFmgA&ab_channel=ByteByteGo)

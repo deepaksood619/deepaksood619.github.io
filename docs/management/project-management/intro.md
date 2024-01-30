@@ -210,3 +210,12 @@ https://en.wikipedia.org/wiki/Responsibility_assignment_matrix
 - https://www.toptal.com/project-managers/scrum-master/interview-questions
 - https://blog.trello.com/50-project-management-terms-you-should-know
 - https://blog.trello.com/most-common-project-blockers
+
+## Links
+
+[The Complete Project Management Body of Knowledge in One Video (PMBOK 7th Edition) - YouTube](https://www.youtube.com/watch?v=2gmCr40uT4U&ab_channel=DavidMcLachlan)
+
+Rolling wave planning
+
+- Far away - high level idea
+- Near term - detailed plan

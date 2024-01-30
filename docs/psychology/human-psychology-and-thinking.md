@@ -18,6 +18,8 @@ Everyone is an authority on everything these days. Take weight loss for instance
 
 New tech, like BRC-20, will always attract some of the most brilliant engineers & investors…and the most brilliant scammers & risk-takers too.
 
+I don't care how technically brilliant you are in your field; if you don't understand people, you're going to neutralize all your powers -- Robert Greene
+
 ## Group Behavior / Group Dynamism / Social conformity
 
 [The Asch Experiment](https://www.youtube.com/watch?v=iRh5qy09nNw)
@@ -115,3 +117,5 @@ psychological manipulation of a person for one’s advantage-causing the person 
 [The Science Of Catching Up In Life - YouTube](https://www.youtube.com/watch?v=IOWelVx5CUw)
 
 [Why People become Criminals? | The Problem of Liberty | Dhruv Rathee - YouTube](https://www.youtube.com/watch?v=d0KuhikVnVs)
+
+[THE LAWS OF HUMAN NATURE (understanding this will change your life) - Robert Greene//book summary - YouTube](https://www.youtube.com/watch?v=R-iIQ0kQni0&ab_channel=LITTLEBITBETTER)

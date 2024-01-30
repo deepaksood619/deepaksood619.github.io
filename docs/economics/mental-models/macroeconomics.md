@@ -168,5 +168,6 @@ The **impossible trinity** (also known as **the impossible [trilemma](https://en
 - [**Post Labor Economics**: How will the economy work after AGI? Recent thoughts and conversations - YouTube](https://www.youtube.com/watch?v=eD5GlCIS0sA) - Status game, Status economy
 - [Person of the Year 2023 by Navneet Munot](https://www.hdfcfund.com/insights/md-ceo-desk/person-year-2023)
 - [Something Terrible Is Happening in France | Economics Explained - YouTube](https://www.youtube.com/watch?v=oUVrVEviaHo)
+- [2024: A Pivotal Year on the Brink | Ray Dalio | LinkedIn](https://www.linkedin.com/pulse/2024-pivotal-year-brink-ray-dalio-fwgie/)
 
 ## End
