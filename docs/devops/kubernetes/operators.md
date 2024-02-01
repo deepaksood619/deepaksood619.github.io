@@ -10,9 +10,13 @@ To be able to make the most of Kubernetes, you need a set of cohesive APIs to ex
 
 It builds upon the basic Kubernetes **resource** and **controller** concepts but includes domain or application-specific **knowledge** to automate common tasks.
 
-## Resources - Pod, ConfigMap, Route
+## Resources
 
-## Controllers - ReplicaSet, DaemonSet, Deployment
+- Pod, ConfigMap, Route
+
+## Controllers
+
+- ReplicaSet, DaemonSet, Deployment
 
 ## Domain or Application Specific Knowledge
 
@@ -27,9 +31,7 @@ It builds upon the basic Kubernetes **resource** and **controller** concepts but
 ## Operator Framework
 
 1. Operator SDK
-
 2. Operator LifeCycle Manager
-
 3. Operator Metering
 
 ## Game Changer
@@ -58,25 +60,11 @@ Custom Resources/Controllers - https://kubernetes.io/docs/concepts/extend-kubern
 
 ## Capabilities
 
-1. Basic Install
-
-Automated application provisioning and configuration management
-
-2. Seamless Upgrades
-
-Patch and minor version upgrades supported
-
-3. Full Lifecycle
-
-App lifecycle, storage lifecycle (backup, failure recovery)
-
-4. Deep Insights
-
-Metrics, alerts, log processing and workload analysis
-
-5. Auto Pilot
-
-Horizontal/vertical scaling, auto config tuning, abnormal detection, scheduling tuning
+1. Basic Install - Automated application provisioning and configuration management
+2. Seamless Upgrades - Patch and minor version upgrades supported
+3. Full Lifecycle - App lifecycle, storage lifecycle (backup, failure recovery)
+4. Deep Insights - Metrics, alerts, log processing and workload analysis
+5. Auto Pilot - Horizontal/vertical scaling, auto config tuning, abnormal detection, scheduling tuning
 
 ## Creating
 
@@ -119,18 +107,11 @@ https://github.com/coreos/prometheus-operator/tree/master/contrib/kube-prometheu
 
 ## References
 
-https://github.com/operator-framework
-
-https://coreos.com/operators
-
-https://github.com/operator-framework/awesome-operators
-
-https://cloud.google.com/blog/products/containers-kubernetes/best-practices-for-building-kubernetes-operators-and-stateful-apps
-
-https://github.com/kubernetes-sigs/kubebuilder
-
-https://book.kubebuilder.io
-
-https://codeengineered.com/blog/2018/kubernetes-helm-related-tools
-
-https://medium.com/@cloudark/kubernetes-operators-and-helm-it-takes-two-to-tango-3ff6dcf65619
+- https://github.com/operator-framework
+- https://coreos.com/operators
+- https://github.com/operator-framework/awesome-operators
+- https://cloud.google.com/blog/products/containers-kubernetes/best-practices-for-building-kubernetes-operators-and-stateful-apps
+- https://github.com/kubernetes-sigs/kubebuilder
+- https://book.kubebuilder.io
+- https://codeengineered.com/blog/2018/kubernetes-helm-related-tools
+- https://medium.com/@cloudark/kubernetes-operators-and-helm-it-takes-two-to-tango-3ff6dcf65619

@@ -22,12 +22,9 @@ Go is fast! Go is extremely fast. The performance is similar to that of Java or 
 - Goroutines
 - Channels
   - Channel are typed values that allow goroutines to synchronize and exchange information.
-- Select
-
-The select statement is like a switch, but the decision is based on ability to communicate rather than equal values
-
-- Support for Interfaces and Type embedding.
-- Production of statically linked native binaries without external dependencies.
+- Select - The select statement is like a switch, but the decision is based on ability to communicate rather than equal values
+- Support for Interfaces and Type embedding
+- Production of statically linked native binaries without external dependencies
 
 ## Features excluded intentionally
 
@@ -40,26 +37,17 @@ The select statement is like a switch, but the decision is based on ability to c
 
 ## Installing
 
-brew install go
+`brew install go`
 
 ## References
 
-https://www.tutorialspoint.com/go
-
-https://learnxinyminutes.com/docs/go
-
-https://golang.org/doc/code.html
-
-https://productcoalition.com/reasons-why-golang-is-better-than-other-programming-languages-4714082bb1b1
-
-https://www.toptal.com/go/golang-oop-tutorial
-
-https://youtu.be/MKkokYpGyTU
-
-[Introduction to Go Programming for beginners](https://www.youtube.com/watch?v=jpKysZwllVw&ab_channel=ThatDevOpsGuy)
-
-https://www.freecodecamp.org/news/learn-go-by-building-11-projects
-
-[Writing our own Concurrent Thread safe Queue - YouTube](https://www.youtube.com/watch?v=oYoVx8ZuvTw)
-
-[Go Programming Tutorial – 3 Beginner Projects - YouTube](https://www.youtube.com/watch?v=k_V5VvYSlS4)
+- https://www.tutorialspoint.com/go
+- https://learnxinyminutes.com/docs/go
+- https://golang.org/doc/code.html
+- https://productcoalition.com/reasons-why-golang-is-better-than-other-programming-languages-4714082bb1b1
+- https://www.toptal.com/go/golang-oop-tutorial
+- https://youtu.be/MKkokYpGyTU
+- [Introduction to Go Programming for beginners](https://www.youtube.com/watch?v=jpKysZwllVw&ab_channel=ThatDevOpsGuy)
+- https://www.freecodecamp.org/news/learn-go-by-building-11-projects
+- [Writing our own Concurrent Thread safe Queue - YouTube](https://www.youtube.com/watch?v=oYoVx8ZuvTw)
+- [Go Programming Tutorial – 3 Beginner Projects - YouTube](https://www.youtube.com/watch?v=k_V5VvYSlS4)

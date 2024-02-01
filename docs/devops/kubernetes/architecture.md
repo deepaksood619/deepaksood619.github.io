@@ -2,26 +2,24 @@
 
 ## Kubernetes Architecture
 
-- **Kubernetes Master Node**
+### Kubernetes Master Node
 
-API Server
+- API Server
+- Scheduler
+- Controller (Coordinator of entire cluster) / watches the desired state it manages
+- Distributed key-value store - etcd (distributed key value database, single source of truth)
 
-Scheduler
+### Kubernetes Worker Nodes
 
-Controller (Coordinator of entire cluster) / watches the desired state it manages
-
-- **Kubernetes Worker Nodes**
-  - kube-proxy (ensure that communication is running between all the containers)
-  - kubelet (report health to etcd and the kubernetes master)
-  - Supervisord (Docker and kubelet are packaged into this layer. A process manager where you can run multiple processes, inside one parent process)
-  - fluentd (responsible for managing the logs and talking to the central logging service)
+- kube-proxy (ensure that communication is running between all the containers)
+- kubelet (report health to etcd and the kubernetes master)
+- Supervisord (Docker and kubelet are packaged into this layer. A process manager where you can run multiple processes, inside one parent process)
+- fluentd (responsible for managing the logs and talking to the central logging service)
 
 ### Registry
 
 - DockerHub
 - GoogleCloud / ECR
-
-- **Distributed key-value store (**etcd (distributed key value database, single source of truth))
 
 ![image](../../media/DevOps-Kubernetes-Architecture-image1.jpg)
 

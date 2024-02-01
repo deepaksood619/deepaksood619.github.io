@@ -194,7 +194,7 @@
 - https://i.am.ai/roadmap
 - https://github.com/MrMimic/data-scientist-roadmap
 
-![image](../../media/Others-Resources-Interview-image1.jpg)
+![image](../media/Others-Resources-Interview-image1.jpg)
 
 - https://github.com/tirthajyoti/Data-science-best-resources/blob/master/README
 - https://github.com/FavioVazquez/ds-cheatsheets
