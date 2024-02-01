@@ -51,15 +51,15 @@ A credit scorecard is a lookup table that maps specific characteristics of a bor
 
 For example, a credit scorecard can give individual borrowers points for their age and income according to the following table. Other characteristics such as residential status, employment status, might also be included, although, for brevity, they are not shown in this table.
 
-![image](../../../media/Course-Credit-Risk-Modeling_Decision-Areas-&-Credit-Scorecards-image1.jpg)
+![image](../../media/Course-Credit-Risk-Modeling_Decision-Areas-&-Credit-Scorecards-image1.jpg)
 
 Using the credit scorecard in this example, a particular customer who is 31 and has an income of $52,000 a year, is placed into the second age group (26--40) and receives 25 points for their age, and similarly, receives 28 points for their income. Other characteristics (not shown here) might contribute additional points to their score. The total score is the sum of all points, which in this example is assumed to give the customer a total of 238 points (this is a fictitious example on an arbitrary scoring scale).
 
-![image](../../../media/Course-Credit-Risk-Modeling_Decision-Areas-&-Credit-Scorecards-image2.jpg)
+![image](../../media/Course-Credit-Risk-Modeling_Decision-Areas-&-Credit-Scorecards-image2.jpg)
 
 Technically, to determine the credit scorecard points, start out by selecting a set of potential predictors (column 1 in the next figure). Then, bin data into groups (for example, ages 'Up to 25', '25 to 40' (column 2 in the figure). This grouping helps to distinguish between "good" and "bad" customers. The Weight of Evidence (WOE) is a way to measure how well the distribution of "good" and "bad" are separated across bins or groups for each individual predictor (column 3 in the figure). By fitting a logistic regression model, you can identify which predictors, when put together, do a better job distinguishing between "good" and "bad" customers. The model is summarized by its coefficients (column 4 in the figure). Finally, the combination of WOE's and model coefficients (commonly scaled, shifted, and rounded) make up the scorecard points (column 5 in the figure).
 
-![image](../../../media/Course-Credit-Risk-Modeling_Decision-Areas-&-Credit-Scorecards-image3.jpg)
+![image](../../media/Course-Credit-Risk-Modeling_Decision-Areas-&-Credit-Scorecards-image3.jpg)
 
 ## Credit Scorecard Development Process
 
@@ -76,7 +76,7 @@ https://www.mathworks.com/help/finance/about-credit-scorecards.html
 
 ## Gains Chart
 
-![image](../../../media/Course-Credit-Risk-Modeling_Decision-Areas-&-Credit-Scorecards-image4.jpg)
+![image](../../media/Course-Credit-Risk-Modeling_Decision-Areas-&-Credit-Scorecards-image4.jpg)
 
 - For the score range 245--250, the expected **marginal bad rate** is 1.2%. That is, 1.2% of applicants with a score between 245 and 250 will likely be "bad."
 - The **cumulative bad rate** - that is, the bad rate of all applicants above 245 - is 0.84%

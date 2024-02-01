@@ -36,4 +36,4 @@ https://en.wikipedia.org/wiki/InfiniBand
 
 ## Links
 
-[nutanix-hybrid-cloud](computer-science/courses/nutanix-hybrid-cloud.md)
+[nutanix-hybrid-cloud 1](courses/nutanix-hybrid-cloud.md)

@@ -1,5 +1,11 @@
 # Coursera - Algorithms Part - 1
 
+https://www.coursera.org/learn/algorithms-part1
+
+Final Grade - 97.8%
+
+https://github.com/deepaksood619/Coursera-Algorithms-Part-1
+
 ## Syllabus
 
 ## Week - 1
@@ -274,7 +280,7 @@ What data structure or data structures would you use?
 ## 6.1. Hash Tables
 
 1. **4-SUM.** Given an array `a[]` of integers, the 4-SUM problem is to determine if there exist distinct indices i, j, k, and l such that `a[i] + a[j] = a[k] + a[l]`. Design an algorithm for the 4-SUM problem that takes time proportional ton^2(under suitable technical assumptions).
-2. ![image](../../media/Coursera-Algorithms-Part-1-image1.jpg)
+2. ![image](../media/Coursera-Algorithms-Part-1-image1.jpg)
 
 ## Assignments
 

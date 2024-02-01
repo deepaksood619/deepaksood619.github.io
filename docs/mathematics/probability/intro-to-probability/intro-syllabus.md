@@ -267,6 +267,7 @@ L23: More on the Poisson process
 L24: Finite-state Markov chains
 L25: Steady-state behavior of Markov chains
 L26: Absorption probabilities and expected time to absorption
-Course - https://www.edx.org/course/introduction-probability-science-mitx-6-041x-2
+
+Course - [MITx: Probability - The Science of Uncertainty and Data | edX](https://www.edx.org/course/introduction-probability-science-mitx-6-041x-2)
 
 Syllabus - https://courses.edx.org/courses/course-v1:MITx+6.041x_4+1T2017/course

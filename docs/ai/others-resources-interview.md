@@ -108,8 +108,8 @@
 - Readings in applied data science - https://github.com/hadley/stats337
 - Fundamentals of data vizualization - https://serialmentor.com/dataviz
 - Spark - https://cognitiveclass.ai/learn/spark
-	- Spark, storm, flink
-	- Athena / Presto / Hive
+  - Spark, storm, flink
+  - Athena / Presto / Hive
 - HDFS Architecture - https://hadoop.apache.org/docs/r3.0.0/hadoop-project-dist/hadoop-hdfs/HdfsDesign.html
 - Computer Vision - https://in.udacity.com/course/introduction-to-computer-vision--ud810
 - NPTEL - Data Mining - https://onlinecourses.nptel.ac.in/noc19_cs15
@@ -200,11 +200,12 @@
 - https://github.com/FavioVazquez/ds-cheatsheets
 - https://github.com/jonathan-bower/DataScienceResources
 - https://towardsdatascience.com/5-professional-projects-every-data-scientist-should-know-e89bf4e7e8e1
-	1. Customer Segmentation
-	2. Text Classification
-	3. Sentiment Analysis
-	4. Time Series Forecasting
-	5. Recommendation Systems
+
+ 1. Customer Segmentation
+ 2. Text Classification
+ 3. Sentiment Analysis
+ 4. Time Series Forecasting
+ 5. Recommendation Systems
 
 ## Courses
 
