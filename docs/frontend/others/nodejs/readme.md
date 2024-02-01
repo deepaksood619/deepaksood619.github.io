@@ -96,6 +96,6 @@ https://www.freecodecamp.org/news/free-8-hour-node-express-course
 
 https://www.freecodecamp.org/news/build-six-node-js-and-express-js
 
-[Creating a Secure Node.js REST API | Toptal®](https://www.toptal.com/nodejs/secure-rest-api-in-nodejs)
+[Creating a Secure Node.js REST API | Toptal](https://www.toptal.com/nodejs/secure-rest-api-in-nodejs)
 
 [NodeJS Architecture - I/O - YouTube](https://www.youtube.com/watch?v=DaU1-XoANig)

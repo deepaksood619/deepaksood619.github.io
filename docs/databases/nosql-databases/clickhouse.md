@@ -194,7 +194,7 @@ ORDER BY passenger_count;
 
 [Fast Open-Source OLAP DBMS - ClickHouse](https://clickhouse.com/)
 
-[GitHub - ClickHouse/ClickHouse: ClickHouse® is a free analytics DBMS for big data](https://github.com/ClickHouse/ClickHouse)
+[GitHub - ClickHouse/ClickHouse: ClickHouse is a free analytics DBMS for big data](https://github.com/ClickHouse/ClickHouse)
 
 [ClickHouse - YouTube](https://www.youtube.com/c/ClickHouseDB)
 

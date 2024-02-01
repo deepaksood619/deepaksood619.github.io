@@ -2,7 +2,7 @@
 
 ## Apache Tez
 
-The Apache TEZ® project is aimed at building an application framework which allows for a complex directed-acyclic-graph of tasks for processing data. It is currently built atop [Apache Hadoop YARN](http://hadoop.apache.org/docs/current/hadoop-yarn/hadoop-yarn-site/YARN.html).
+The Apache TEZ project is aimed at building an application framework which allows for a complex directed-acyclic-graph of tasks for processing data. It is currently built atop [Apache Hadoop YARN](http://hadoop.apache.org/docs/current/hadoop-yarn/hadoop-yarn-site/YARN.html).
 
 The 2 main design themes for Tez are:
 
@@ -82,7 +82,7 @@ http://storm.apache.org
 
 ![image](../../media/Technologies-Apache-Others-image1.jpg)
 
-Apache Flink is a framework and distributed processing engine for stateful computations over*unbounded and bounded*data streams. Flink has been designed to run in*all common cluster environments*, perform computations at*in-memory speed*and at*any scale*.
+Apache Flink is a framework and distributed processing engine for stateful computations over *unbounded and bounded* data streams. Flink has been designed to run in *all common cluster environments*, perform computations at *in-memory speed* and at *any scale*.
 
 https://flink.apache.org/flink-architecture.html
 
@@ -92,7 +92,7 @@ Apache OpenWhisk (Incubating) is an open source, distributed [Serverless](https:
 
 The OpenWhisk platform supports a programming model in which developers write functional logic (called [Actions](https://github.com/apache/incubator-openwhisk/blob/master/docs/actions#openwhisk-actions)), in any supported programming language, that can be dynamically scheduled and run in response to associated events (via [Triggers](https://github.com/apache/incubator-openwhisk/blob/master/docs/triggers_rules#creating-triggers-and-rules)) from external sources ([Feeds](https://github.com/apache/incubator-openwhisk/blob/master/docs/feeds#implementing-feeds)) or from HTTP requests. The project includes a REST API-based Command Line Interface (CLI) along with other tooling to support packaging, catalog services and many popular container deployment options.
 
-## Architecture
+### Architecture
 
 ![image](../../media/Technologies-Apache-Others-image2.jpg)
 

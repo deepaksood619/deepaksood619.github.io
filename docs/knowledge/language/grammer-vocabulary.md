@@ -125,8 +125,8 @@ https://myenglishmatters.com/2018/06/28/whats-the-difference-between-has-been-ha
   - enabling someone to discover or learn something for themselves.
   - proceeding to a solution by trial and error or by rules that are only loosely defined.
 - Catnip - someone or something that is very attractive or appealing to a particular person or group.
+  - both men are aggressive self-promoters and catnip for the media
 - dire straits - in a very bad situation that is difficult to fix
-  - "both men are aggressive self-promoters and catnip for the media"
 - Volition - the faculty or power of using one's will.
 - one-upmanship - the technique or practice of gaining an advantage or feeling of superiority over another person.
   - "the one-upmanship of who can get the best presents"
@@ -144,15 +144,17 @@ https://myenglishmatters.com/2018/06/28/whats-the-difference-between-has-been-ha
 - Envy sometimes can be helpful
 - Altruistic / Altruism
 - You are in for a hell of a ride
-- To Insure Promptitude (TIP)
+- TIP - To Insure Promptitude
 - BTFB - buy the fucking dip
 - BTFB - bounce the fuck back
 - WGMI - We are Gonna Make It
+- WAGMI - We All are Gonna Make It
 - NGMI - not gonna make it
-- Shilling is _when a person or group of persons promotes a particular cryptocurrency to create excitement for it_.
+- Shilling is when a person or group of persons promotes a particular cryptocurrency to create excitement for it
 - Phenomenon (singular) vs Phenomena (plural)
 - Iconoclastic - criticizing or attacking cherished beliefs or institutions.
 - Plenitude - abundance
 - Gordian knot - an extremely difficult or involved problem
 - polemicist - a person who engages in controversial debate
-- Anachronism - a thing belonging or appropriate to a period other than that in which it exists, especially a thing that is [conspicuously](https://www.google.com/search?sca_esv=582945116&rlz=1C5CHFA_enIN1084IN1084&sxsrf=AM9HkKmHuO9Satum_3m3H9eH-yuBQzK5Lw:1700143719194&q=conspicuously&si=ALGXSlasDpH6wngX24yaJ23IzSpEB_Og_s68q9GRjyJqhbrak9EYSWoHRAvJ0G9T-MZp9isSA3jsWbzF7iAKj2vvZsviz17ymOjXozDU6luQCtE10rl2Axc%3D&expnd=1) [old-fashioned](https://www.google.com/search?sca_esv=582945116&rlz=1C5CHFA_enIN1084IN1084&sxsrf=AM9HkKmHuO9Satum_3m3H9eH-yuBQzK5Lw:1700143719194&q=old-fashioned&si=ALGXSlasDpH6wngX24yaJ23IzSpEZu_rrx9un0vm-cGTdM-tMHGaf9ip1CJgxe2qyf-ON7GycKmFHjffOWll9aqvY6k7TfUKH97TBgjd6tehSbxqkiXURfA%3D&expnd=1).
+- Anachronism - a thing belonging or appropriate to a period other than that in which it exists, especially a thing that is conspicuously old-fashioned.
+- compendium - a collection of concise but detailed information about a particular subject, especially in a book or other publication.

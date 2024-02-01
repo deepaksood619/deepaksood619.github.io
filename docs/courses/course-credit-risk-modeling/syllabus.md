@@ -154,7 +154,7 @@ https://www.youtube.com/playlist?list=PLhViQpMavSBgxcLV34bRrJY-rwHqeml2i
 
 ## Links
 
-- [Intro](ai/courses/course-credit-risk-modeling/intro.md)
-- [Credit and Debt](credit-and-debt)
-- [Decision Areas and Credit Scorecards](decision-areas-and-credit-scorecards)
-- [Fraud Features](fraud-features)
+- [Intro](courses/course-credit-risk-modeling/intro.md)
+- [Credit and Debt](courses/course-credit-risk-modeling/credit-and-debt.md)
+- [Decision Areas and Credit Scorecards](courses/course-credit-risk-modeling/decision-areas-and-credit-scorecards.md)
+- [Fraud Features](courses/course-credit-risk-modeling/fraud-features.md)

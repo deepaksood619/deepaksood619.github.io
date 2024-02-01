@@ -7,7 +7,7 @@ Weave was designed with the following goals in mind:
 
 - Low overhead - Lightweight solution for low-power devices
 - Pervasive - Scalable and unified protocol everywhere
-- Robust - Leverages Thread® and is self-healing to the cloud
+- Robust - Leverages Thread and is self-healing to the cloud
 - Secure - Interactions are secure, even when the network is not
 - Easy to use - Flexible setup and configuration
 - Versatile - Strongly-typed data for powerful interaction

@@ -134,7 +134,7 @@ The Payment Card Industry Data Security Standard (PCI-DSS) is a set of requireme
 - Payment Card Industry-Data Security Standard (PCI-DSS)
 - Payment Application-Data Security Standard (PA-DSS)
 
-[GitHub - jivoi/offsec\_pdfs: :heavy\_check\_mark: your offsec knowledge](https://github.com/jivoi/offsec_pdfs)
+[GitHub - jivoi/offsec | your offsec knowledge](https://github.com/jivoi/offsec_pdfs)
 
 ### SOC Compliance (Service Organization Control)
 
@@ -162,6 +162,10 @@ SOC 1 revolves around financial reporting, whereas SOC 2 focuses more on complia
 
 [What is SOC 2: Principles, Types, Benefits | OneLogin](https://www.onelogin.com/learn/what-is-soc-2)
 
+### Other Compliances
+
+- SOC 2 System Operations (CC7) - [SOC 2 CC7: Common Criteria related to System Operations - Design Compliance and Security, LLC](https://www.designcs.net/soc-2-cc7-common-criteria-related-to-system-operations/)
+
 ## Others
 
 Open-source SAST tools such as [**Semgrep**](https://www.jit.io/blog/semgrep-to-uncover-log4j-vulnerabilities), Bandit, or  KICS can help you find vulnerabilities and compliance issues in your code.
@@ -169,3 +173,7 @@ Open-source SAST tools such as [**Semgrep**](https://www.jit.io/blog/semgrep-to-
 [GitHub - ossf/scorecard: OpenSSF Scorecard - Security health metrics for Open Source](https://github.com/ossf/scorecard)
 
 [Security Checks Simplified: How to Implement Best Practices with Ease - YouTube](https://youtu.be/ldAeZtTKqgE?si=nuG2CHeYqmmO1uDz)
+
+CISA Certification - Certified Information Systems Auditor
+
+CISO - Chief Information Security Officer

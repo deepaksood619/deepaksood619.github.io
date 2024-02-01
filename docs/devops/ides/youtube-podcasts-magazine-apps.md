@@ -155,6 +155,7 @@
 - [MagnatesMedia - YouTube](https://www.youtube.com/@MagnatesMedia)
 - [Modern MBA - YouTube](https://www.youtube.com/@ModernMBA)
 - Think school
+- [Masters' Union - YouTube](https://www.youtube.com/@MastersUnion)
 
 ## People
 
@@ -411,7 +412,7 @@ Youtube Original's Mind Field
 ### Torrents
 
 - [GitHub - iptv-org/iptv: Collection of publicly available IPTV channels from all over the world](https://github.com/iptv-org/iptv)
-- [84+ Working 1337x Proxy (October 2023) Mirror Sites To Unblock](https://technoxyz.com/1337x-proxy-unblock/)
+  - [84+ Working 1337x Proxy (October 2023) Mirror Sites To Unblock](https://technoxyz.com/1337x-proxy-unblock/)
   - [**Torrent Search Engine** | 1337x.to](https://1337x-to.pages.dev/)
   - https://waytohunt.org/1337x-proxy-mirror-sites
   - https://www.1377x.to
@@ -434,7 +435,11 @@ Youtube Original's Mind Field
 - https://zoro.to
 - Pikashow
 - pdf drive
-- [Youtube Multi Downloader Online Free](https://youtubemultidownloader.net/playlists.html)
+- Youtube Downloader
+  - [Youtube Multi Downloader Online Free](https://youtubemultidownloader.net/playlists.html)
+  - [GitHub - ytdl-org/youtube-dl: Command-line program to download videos from YouTube.com and other video sites](https://github.com/ytdl-org/youtube-dl)
+  - `youtube-dl --cookies cookies.txt https://www.udemy.com/aws-certified-developer-associate-dva-c01/ --verbose`
+  - `youtube-dl -u user@domain.com -p P@ssw0rd https://www.udemy.com/the-ultimate-google-adwords-training-course/learn/lecture/12313178#content`
 - [Watch Movies Streaming Online Free | TV Show Online HD](https://theflixer.tv/)
 - Index of x
 - [Index of /Movies](http://mha.cs.umn.edu/Movies/)

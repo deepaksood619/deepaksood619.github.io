@@ -16,15 +16,15 @@ https://github.com/uber/cadence
 
 ## Dynein
 
-Dynein is Airbnb's Open-source Distributed Delayed Job QueueingSystem.
+Dynein is Airbnb's Open-source Distributed Delayed Job Queueing System.
 
 We can divide Dynein jobs into two categories: immediate jobs and delayed jobs.
 
-## Immediate Jobs
+### Immediate Jobs
 
 For immediate jobs, or jobs that are scheduled to run within 15 minutes, Dynein simply works as a wrapper of the SQS API - Jobs submitted to Dynein will be relayed to an SQS queue immediately, and the job will then be consumed by consumers with the SQS dequeue API. We opted to wrap the SQS API rather than have services directly enqueue to SQS because this approach offers us expansive metrics coverage, as well as tight integration with Airbnb's internal rate-limiting and backpressure systems. Additionally, our users can use the same API they use for delayed jobs.
 
-## Delayed Jobs
+### Delayed Jobs
 
 Dynein takes a more elaborate approach to delayed jobs. Delayed jobs, to Dynein, means deliver the right message to the right service queue at the right time. When a delayed job is submitted to Dynein, it is immediately put into an SQS queue - we call it inbound queue. This queue works as a write buffer for our scheduler, designed so that we can sustain small spikes in jobs submitted. Not only does the inbound queue protect our system from write spikes, but it also gives us clear indicating metrics that such issues are happening. SQS gives us enough time to figure out what the issue is, fix it, and then process the backlog.
 
@@ -72,7 +72,7 @@ https://github.com/prefecthq/prefect
 
 https://www.prefect.io
 
-## Netflix Conductor
+## Netflix Conductor (Archived)
 
 Conductor is a microservices orchestration engine
 

@@ -90,7 +90,7 @@
 86. [Can AI Catch What Doctors Miss? | Eric Topol | TED](https://youtu.be/ll5LY7wI_Xc?si=0-CFlu6s9W6a3iD1)
 87. [The Real Hidden Cost of a Request](https://youtu.be/MN2jIUonuQQ?si=jfWyoN6mqbF6F1EZ)
 88. [10 Lessons From Implementing The Actor Model • Vagif Abilov • GOTO 2023](https://youtu.be/PEbQ-s19wKo?si=TkA-BCk2NyWL_mBm)
-89. [Deep Learning with 4th Gen Xeon Processors and Intel® Accelerator Engine...](https://youtu.be/SbCoiH-nyqQ?si=WCso-_k9LJBYTkUO)
+89. [Deep Learning with 4th Gen Xeon Processors and Intel Accelerator Engine...](https://youtu.be/SbCoiH-nyqQ?si=WCso-_k9LJBYTkUO)
 90. [Next-Generation Cloud Native Apps with Spring Boot 3 in 4 Minutes • Thom...](https://youtu.be/ovAcrTn6-dg?si=DUAO7EpF1K1PXbe7)
 91. [AI Gave Me Free Time To Do THIS | Introducing OnePlus Open Conversations](https://youtu.be/6GPa1OP_374?si=R0RnJhp7c_9ZaH7S)
 92. [AI coding assistants just leveled up, again…](https://youtu.be/7h732qLxtAk?si=G7KvXTEuj3VBGIO5)

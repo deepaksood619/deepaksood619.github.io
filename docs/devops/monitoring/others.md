@@ -1,5 +1,13 @@
 # Others
 
+## Status pages
+
+- blackbox exporter
+- statuspage.io
+- [Status.io - Hosted Status Pages](https://status.io/) - Paid
+- [UptimeRobot: Free Website Monitoring Service](https://uptimerobot.com/) - Free
+- [Statuspage | Atlassian](https://www.atlassian.com/software/statuspage) - Paid
+
 ## netdata
 
 Netdata is high-fidelity infrastructure monitoring and troubleshooting.

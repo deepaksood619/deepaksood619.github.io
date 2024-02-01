@@ -73,14 +73,14 @@ https://github.com/kubeflow/kubeflow
 
 ### Profiles
 
-[Machine Learning Engineer Job Description Jan 2024 | Toptal®](https://www.toptal.com/machine-learning/job-description)
+[Machine Learning Engineer Job Description Jan 2024 | Toptal](https://www.toptal.com/machine-learning/job-description)
 
-[Meghana Bhange - Developer in Montreal, QC, Canada | Toptal®](https://www.toptal.com/resume/meghana-bhange)
+[Meghana Bhange - Developer in Montreal, QC, Canada | Toptal](https://www.toptal.com/resume/meghana-bhange)
 
-[Alessandro Pedori - Developer in Berlin, Germany | Toptal®](https://www.toptal.com/resume/alessandro-pedori)
+[Alessandro Pedori - Developer in Berlin, Germany | Toptal](https://www.toptal.com/resume/alessandro-pedori)
 
-[Ruggiero Dargenio - Developer in Zürich, Switzerland | Toptal®](https://www.toptal.com/resume/ruggiero-dargenio)
+[Ruggiero Dargenio - Developer in Zürich, Switzerland | Toptal](https://www.toptal.com/resume/ruggiero-dargenio)
 
-[Andrei Apostol - Developer in Iași, Romania | Toptal®](https://www.toptal.com/resume/andrei-apostol)
+[Andrei Apostol - Developer in Iași, Romania | Toptal](https://www.toptal.com/resume/andrei-apostol)
 
 [Artificial Intelligence Resume Sample and Writing guide - 2024](https://www.mygreatlearning.com/blog/artificial-intelligence-resume/)

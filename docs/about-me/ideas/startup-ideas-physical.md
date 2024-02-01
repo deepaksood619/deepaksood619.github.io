@@ -179,3 +179,4 @@ Airline can be transporter of fuels if passenger occupancy is lower, i.e. based 
 ## Others
 
 - Beekeeping
+- [The ₹150 Cr Indian diaper company 👶🏼](https://shorts.growthx.club/p/the-150-cr-indian-diaper-company)

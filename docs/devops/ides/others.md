@@ -4,7 +4,7 @@
 
 CMD + D - microphone mute/unmute (MAC)
 
-*6 - Phone Dial-in mute/unmute (Phone)
+6 - Phone Dial-in mute/unmute (Phone)
 
 ## Google Sheets / Docs
 
@@ -145,3 +145,7 @@ https://idlerpg.xyz
 ## Intellij Shortcuts
 
 Command + Option + L (For formatting line)
+
+## Others
+
+- [Zed - Code at the speed of thought](https://zed.dev/)

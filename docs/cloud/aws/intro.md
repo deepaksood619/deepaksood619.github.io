@@ -10,7 +10,7 @@
 
 [5 AWS Services You Should Avoid!. Get ready for some personal and… | by David Lin | TeamZeroLabs | Medium](https://medium.com/teamzerolabs/5-aws-services-you-should-avoid-f45111cc10cd)
 
-[14 Essential AWS Interview Questions and Answers [2024] | Toptal®](https://www.toptal.com/aws/interview-questions)
+[14 Essential AWS Interview Questions and Answers [2024] | Toptal](https://www.toptal.com/aws/interview-questions)
 
 [AWS Solutions Library](https://aws.amazon.com/solutions)
 

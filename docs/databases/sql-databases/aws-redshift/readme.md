@@ -1,6 +1,6 @@
 # Redshift
 
-- [AWS Redshift](databases/sql-databases/aws-redshift/intro.md)
+- [Amazon Redshift](databases/sql-databases/aws-redshift/intro.md)
 - [Architecture](databases/sql-databases/aws-redshift/architecture.md)
 - [Documentation](databases/sql-databases/aws-redshift/documentation.md)
 - [ETL in Redshift](databases/sql-databases/aws-redshift/etl-redshift.md)

@@ -1,6 +1,6 @@
 # Move37
 
-- [Syllabus](syllabus)
+- [Syllabus](ai/move-37/syllabus.md)
 - [Markov Decision Process](1-markov-decision-process)
 - [Dynamic Programming](2-dynamic-programming)
 - [Monte Carlo Methods](3-monte-carlo-methods)

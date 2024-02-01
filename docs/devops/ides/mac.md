@@ -119,8 +119,6 @@ https://www.google.com/inputtools
 
 - darkreader
 - Session Buddy
-- Nimbus Screenshot & Screen Video
-  - [Screen Recorder](https://chromewebstore.google.com/detail/screen-recorder/hniebljpgcogalllopnjokppmgbhaden)
 - adblock
 - Google meet attendance list
 - JSON formatter
@@ -133,6 +131,15 @@ https://www.google.com/inputtools
 - Duplicate Tab shortcut
   - Duplicate the current tab - ctrl + d
   - New tab to the right - cmd + t
+
+##### Screen recorders
+
+- Nimbus Screenshot & Screen Video
+- [Screen Recorder](https://chromewebstore.google.com/detail/screen-recorder/hniebljpgcogalllopnjokppmgbhaden)
+- [GitHub - alyssaxuu/screenity: The free and privacy-friendly screen recorder with no limits 🎥](https://github.com/alyssaxuu/screenity)
+- Loom
+- CloudApp
+- Cantamsia
 
 #### Others
 

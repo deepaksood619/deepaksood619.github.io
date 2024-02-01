@@ -3,12 +3,14 @@
 ## Tools
 
 - **Zoom**
-- https://meet.jit.si
-- https://jitsi.org
+- [Free Video Conferencing Software for Web & Mobile | Jitsi](https://jitsi.org)
+  - [Jitsi Meet](https://meet.jit.si)
+  - [Introduction | Jitsi Meet](https://jitsi.github.io/handbook/docs/intro)
 - Google Meet
 - Skype
 - https://goodmeetings.ai
 - [Video Meetings, Video Conferencing and Video Call API](https://whereby.com/)
+- [GitHub - 0x5eba/Video-Meeting: Google Meet / Zoom clone in a few lines of code](https://github.com/0x5eba/Video-Meeting)
 
 RTMP - Real-Time Messaging Protocol
 
@@ -56,6 +58,8 @@ Peer to peer live streaming protocol
 ![image](../../media/Video-Live-Streaming-image2.jpg)
 
 [WebRTC Crash Course](https://youtu.be/FExZvpVvYxA)
+
+[GitHub - Jaideep25/Videolify: Peer-peer calling, with screensharing, whiteboard, amazing themes, easy to read the code, etc !!](https://github.com/Jaideep25/Videolify)
 
 ## FFMPEG Streaming
 

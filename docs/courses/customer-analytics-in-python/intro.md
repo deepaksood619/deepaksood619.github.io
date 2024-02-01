@@ -253,4 +253,4 @@ The purchase probability of a client at $2.56 is 0.7, while their price elastici
 - **predict()**
 - **argmax -** Arguments of the maxima
 
-[Customer Analytics in Python](syllabus)
+[Customer Analytics in Python](courses/customer-analytics-in-python/syllabus.md)

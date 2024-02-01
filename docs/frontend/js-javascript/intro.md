@@ -33,7 +33,7 @@
 - Prototype Based - Supports objects but not classes
 - Event Loops
 - Callback Functions - A function sent as a parameter to other function (Since javascript supports first class functions)
-- Asynchronous - [Asynchronous JavaScript for Steady App Performance | Toptal®](https://www.toptal.com/javascript/asynchronous-javascript-programming)
+- Asynchronous - [Asynchronous JavaScript for Steady App Performance | Toptal](https://www.toptal.com/javascript/asynchronous-javascript-programming)
 
 ## Console Logs
 

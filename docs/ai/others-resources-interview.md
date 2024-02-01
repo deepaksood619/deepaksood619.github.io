@@ -1,12 +1,50 @@
 # Others / Resources / Interview
 
-[Intro to graph neural networks (ML Tech Talks)](https://www.youtube.com/watch?v=8owQBFAHw7E&ab_channel=TensorFlow)
+- [Intro to graph neural networks (ML Tech Talks)](https://www.youtube.com/watch?v=8owQBFAHw7E&ab_channel=TensorFlow)
+- [Machine Learning Course for Beginners](https://www.youtube.com/watch?v=NWONeJKn6kc)
+- https://github.com/josephmisiti/awesome-machine-learning
+- https://www.freecodecamp.org/news/best-machine-learning-courses
 
-[Machine Learning Course for Beginners](https://www.youtube.com/watch?v=NWONeJKn6kc)
+## LLM
 
-https://github.com/josephmisiti/awesome-machine-learning
+- [**AI Canon** | Andreessen Horowitz](https://a16z.com/2023/05/25/ai-canon/)
+- LLM - [dbdemos Build your Chat Bot with Dolly - Databricks demos](https://www.dbdemos.ai/demo.html?demoName=llm-dolly-chatbot)
+- [CS 886: Recent Advances on Foundation Models](https://cs.uwaterloo.ca/~wenhuche/teaching/cs886/)
 
-https://www.freecodecamp.org/news/best-machine-learning-courses
+## AI (Artificial Intelligence) + DL (Deep Learning) + ML (Machine Learning)
+
+- https://www.freecodecamp.org/learn/machine-learning-with-python
+- OpenCV - https://www.youtube.com/watch?v=P4Z8_qe2Cu0
+- D2l.ai + coursera + fast.ai
+- Kaggle
+- AI - Model serving framework
+- https://www.kaggle.com/learn
+- Data modelling
+- [FinGPT: Open-Source Financial Large Language Models](https://arxiv.org/abs/2306.06031)
+- [Learn Machine Learning in 3 Months (PyTorch Curriculum) - YouTube](https://www.youtube.com/watch?v=dS2HYPY7T-4)
+- [AI Jesus Made Me a Believer - YouTube](https://www.youtube.com/watch?v=kyY9PSQRH1Q)
+- [Master Coding for Data Science - StrataScratch](https://www.stratascratch.com/)
+- [Harvard CS50's Introduction to Artificial Intelligence with Python – Free University Course](https://www.freecodecamp.org/news/harvard-cs50s-ai-python-course)
+- Mathematics (probability, statistics, calculus)
+- [Machine Learning & Neural Networks without Libraries – No Black Box Course - YouTube](https://www.youtube.com/watch?v=3wwiOSxDAmg)
+- [udlbook](https://udlbook.github.io/udlbook/)
+
+## DS (Data Science) + DA (Data Analytics) + DE (Data Engineering)
+
+- Tool - dbt, fivetran, Informatica
+- [GitHub - DataEngineer-io/data-engineer-handbook: This is a repo with links to everything you'd ever want to learn about data engineering](https://github.com/DataEngineer-io/data-engineer-handbook)
+- [IOT & Predictive maintenance](https://www.dbdemos.ai/minisite/lakehouse-iot-platform/index.html)
+- [Data Analysis with Python Certification | freeCodeCamp.org](https://www.freecodecamp.org/learn/data-analysis-with-python)
+- DS - Pandas and Numpy + Scipy + scikit-learn
+- Data Analytics Certification (powerbi / tableau)
+- Credit Risk Modeling (Data Science)
+- https://www.analyticsvidhya.com/blog/2019/12/30-challenging-open-source-data-science-projects-2020
+- scipy documentation
+- Python for DS - Freecodecamp certification
+- https://www.startdataengineering.com/post/data-engineering-project-to-impress-hiring-managers
+- [Data Engineering Study Guide](https://docs.google.com/spreadsheets/d/1atzJSnV86J1ylnpOGVO8VaBVmx8TEAhw_DzHr25-ql4/edit?usp=sharing)
+- [Learn Pandas & Python for Data Analysis - Full Course](https://www.freecodecamp.org/news/learn-pandas-for-data-science/)
+- [SQL Interview Prep With Zach Wilson - YouTube](https://www.youtube.com/watch?v=ycQ-wqlaEX8)
 
 ## Courses ML & AI
 
@@ -70,13 +108,9 @@ https://www.freecodecamp.org/news/best-machine-learning-courses
 - Readings in applied data science - https://github.com/hadley/stats337
 - Fundamentals of data vizualization - https://serialmentor.com/dataviz
 - Spark - https://cognitiveclass.ai/learn/spark
-  - Spark, storm, flink
-  - Athena / Presto / Hive
-
-HDFS Architecture
-
-https://hadoop.apache.org/docs/r3.0.0/hadoop-project-dist/hadoop-hdfs/HdfsDesign.html
-
+	- Spark, storm, flink
+	- Athena / Presto / Hive
+- HDFS Architecture - https://hadoop.apache.org/docs/r3.0.0/hadoop-project-dist/hadoop-hdfs/HdfsDesign.html
 - Computer Vision - https://in.udacity.com/course/introduction-to-computer-vision--ud810
 - NPTEL - Data Mining - https://onlinecourses.nptel.ac.in/noc19_cs15
 - NPTEL - Big Data Computing - https://onlinecourses.nptel.ac.in/noc19_cs33/course
@@ -151,109 +185,70 @@ https://hadoop.apache.org/docs/r3.0.0/hadoop-project-dist/hadoop-hdfs/HdfsDesign
 
 ## Model resources
 
-[**https://paperswithcode.com/**](https://paperswithcode.com/)
-
-[**https://paperswithcode.com/sota**](https://paperswithcode.com/sota)
-
-[**https://github.com/tensorflow/models**](https://github.com/tensorflow/models)
-
-https://github.com/academic/awesome-datascience
-
-https://mlcourse.ai/roadmap
-
-https://whimsical.com/machine-learning-roadmap-2020-CA7f3ykvXpnJ9Az32vYXva
-
-https://i.am.ai/roadmap
-
-https://github.com/MrMimic/data-scientist-roadmap
+- [**https://paperswithcode.com/**](https://paperswithcode.com/)
+- [**https://paperswithcode.com/sota**](https://paperswithcode.com/sota)
+- [**https://github.com/tensorflow/models**](https://github.com/tensorflow/models)
+- https://github.com/academic/awesome-datascience
+- https://mlcourse.ai/roadmap
+- https://whimsical.com/machine-learning-roadmap-2020-CA7f3ykvXpnJ9Az32vYXva
+- https://i.am.ai/roadmap
+- https://github.com/MrMimic/data-scientist-roadmap
 
 ![image](../../media/Others-Resources-Interview-image1.jpg)
 
-https://github.com/tirthajyoti/Data-science-best-resources/blob/master/README
-
-https://github.com/FavioVazquez/ds-cheatsheets
-
-https://github.com/jonathan-bower/DataScienceResources
-
-https://towardsdatascience.com/5-professional-projects-every-data-scientist-should-know-e89bf4e7e8e1
-
-1. Customer Segmentation
-2. Text Classification
-3. Sentiment Analysis
-4. Time Series Forecasting
-5. Recommendation Systems
+- https://github.com/tirthajyoti/Data-science-best-resources/blob/master/README
+- https://github.com/FavioVazquez/ds-cheatsheets
+- https://github.com/jonathan-bower/DataScienceResources
+- https://towardsdatascience.com/5-professional-projects-every-data-scientist-should-know-e89bf4e7e8e1
+	1. Customer Segmentation
+	2. Text Classification
+	3. Sentiment Analysis
+	4. Time Series Forecasting
+	5. Recommendation Systems
 
 ## Courses
 
-https://www.freecodecamp.org/news/statistics-for-data-science
-
-https://www.freecodecamp.org/news/how-to-analyze-data-with-python-pandas
-
-https://www.coursera.org/learn/machine-learning
-
-Paid - https://www.coursera.org/specializations/deep-learning
-
-Free - (7 Weeks each)
-
-http://course.fast.ai
-
-http://course.fast.ai/part2.html
-
-https://github.com/josephmisiti/awesome-machine-learning/blob/master/books
-
-https://towardsdatascience.com/top-3-free-deep-learning-courses-in-2020-f2cd1c1b0f48
+- https://www.freecodecamp.org/news/statistics-for-data-science
+- https://www.freecodecamp.org/news/how-to-analyze-data-with-python-pandas
+- https://www.coursera.org/learn/machine-learning
+- Paid - https://www.coursera.org/specializations/deep-learning
+- Free - (7 Weeks each)
+- http://course.fast.ai
+- http://course.fast.ai/part2.html
+- https://github.com/josephmisiti/awesome-machine-learning/blob/master/books
+- https://towardsdatascience.com/top-3-free-deep-learning-courses-in-2020-f2cd1c1b0f48
 
 ## Machine Learning
 
-https://www.toptal.com/machine-learning/machine-learning-theory-an-introductory-primer
-
-https://www.toptal.com/machine-learning/an-introduction-to-deep-learning-from-perceptrons-to-deep-networks
-
-[**https://www.toptal.com/machine-learning/interview-questions**](https://www.toptal.com/machine-learning/interview-questions)
-
-[**https://semanti.ca/blog/?the-most-important-machine-learning-algorithms**](https://semanti.ca/blog/?the-most-important-machine-learning-algorithms)
-
-[**https://www.uruit.com/machine-learning-guide/**](https://www.uruit.com/machine-learning-guide/)
-
-How to approach ml problems - https://www.toptal.com/machine-learning/machine-learning-problems
-
-https://github.com/trekhleb/homemade-machine-learning
-
-Convoluational neural network - https://towardsdatascience.com/the-most-intuitive-and-easiest-guide-for-convolutional-neural-network-3607be47480
-
-https://ahmedbesbes.com/end-to-end-ml.html
-
-[**https://developers.google.com/machine-learning/crash-course/**](https://developers.google.com/machine-learning/crash-course/)
-
-https://madewithml.com
-
-https://madewithml.com/topics
-
-[**https://www.freecodecamp.org/news/a-no-code-intro-to-the-9-most-important-machine-learning-algorithms-today/**](https://www.freecodecamp.org/news/a-no-code-intro-to-the-9-most-important-machine-learning-algorithms-today/)
-
-https://aws.amazon.com/blogs/machine-learning/amazons-own-machine-learning-university-now-available-to-all-developers
-
-https://www.freecodecamp.org/news/free-machine-learning-course-10-hourse
+- https://www.toptal.com/machine-learning/machine-learning-theory-an-introductory-primer
+- https://www.toptal.com/machine-learning/an-introduction-to-deep-learning-from-perceptrons-to-deep-networks
+- [**https://www.toptal.com/machine-learning/interview-questions**](https://www.toptal.com/machine-learning/interview-questions)
+- [**https://semanti.ca/blog/?the-most-important-machine-learning-algorithms**](https://semanti.ca/blog/?the-most-important-machine-learning-algorithms)
+- [**https://www.uruit.com/machine-learning-guide/**](https://www.uruit.com/machine-learning-guide/)
+- How to approach ml problems - https://www.toptal.com/machine-learning/machine-learning-problems
+- https://github.com/trekhleb/homemade-machine-learning
+- Convoluational neural network - https://towardsdatascience.com/the-most-intuitive-and-easiest-guide-for-convolutional-neural-network-3607be47480
+- https://ahmedbesbes.com/end-to-end-ml.html
+- [**https://developers.google.com/machine-learning/crash-course/**](https://developers.google.com/machine-learning/crash-course/)
+- https://madewithml.com
+- https://madewithml.com/topics
+- [**https://www.freecodecamp.org/news/a-no-code-intro-to-the-9-most-important-machine-learning-algorithms-today/**](https://www.freecodecamp.org/news/a-no-code-intro-to-the-9-most-important-machine-learning-algorithms-today/)
+- https://aws.amazon.com/blogs/machine-learning/amazons-own-machine-learning-university-now-available-to-all-developers
+- https://www.freecodecamp.org/news/free-machine-learning-course-10-hourse
 
 ## Cheatsheet
 
-https://stanford.edu/~shervine/teaching/cs-229/cheatsheet-machine-learning-tips-and-tricks
-
-https://stanford.edu/~shervine/teaching/cs-229/cheatsheet-supervised-learning
-
-https://stanford.edu/~shervine/teaching/cs-229/cheatsheet-unsupervised-learning
-
-https://stanford.edu/~shervine/teaching/cs-229/cheatsheet-deep-learning
+- https://stanford.edu/~shervine/teaching/cs-229/cheatsheet-machine-learning-tips-and-tricks
+- https://stanford.edu/~shervine/teaching/cs-229/cheatsheet-supervised-learning
+- https://stanford.edu/~shervine/teaching/cs-229/cheatsheet-unsupervised-learning
+- https://stanford.edu/~shervine/teaching/cs-229/cheatsheet-deep-learning
 
 ## NewsLetter & Blogs
 
-https://blog.udacity.com/2018/03/5-must-read-ai-newsletters.html
-
-https://medium.com/@ageitgey
-
-https://distill.pub
-
-https://i.am.ai
+- https://blog.udacity.com/2018/03/5-must-read-ai-newsletters.html
+- https://medium.com/@ageitgey
+- https://distill.pub
+- https://i.am.ai
 
 ## Examples
 
@@ -281,6 +276,6 @@ https://towardsdatascience.com/how-to-build-a-real-time-fraud-detection-pipeline
 
 ## Links
 
-[Understand ANY Machine Learning Model - YouTube](https://www.youtube.com/watch?v=IqT551LjKHw)
-
-[9.5 Shapley Values | Interpretable Machine Learning](https://christophm.github.io/interpretable-ml-book/shapley.html#the-shapley-value-in-detail)
+- [Understand ANY Machine Learning Model - YouTube](https://www.youtube.com/watch?v=IqT551LjKHw)
+- [9.5 Shapley Values | Interpretable Machine Learning](https://christophm.github.io/interpretable-ml-book/shapley.html#the-shapley-value-in-detail)
+- [It's All About AI • Martin Förtsch, Thomas Endres & Jonas Mayer • YOW! 2022 - YouTube](https://www.youtube.com/watch?v=krihq4iSaO0)

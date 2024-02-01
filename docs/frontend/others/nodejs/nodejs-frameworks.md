@@ -56,7 +56,7 @@ Some of the numerous advantages of Express.js includes:
 - Low learning curve
 - Majorly focused on browsers, making templating and rendering an almost out of the box feature.
 
-[Using Express.js Routes for Promise-based Error Handling | Toptal®](https://www.toptal.com/express-js/routes-js-promises-error-handling)
+[Using Express.js Routes for Promise-based Error Handling | Toptal](https://www.toptal.com/express-js/routes-js-promises-error-handling)
 
 https://www.freecodecamp.org/news/the-express-handbook
 
