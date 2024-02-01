@@ -81,7 +81,7 @@ https://www.postgresql.org/docs/current/datatype-json.html
 
 https://severalnines.com/database-blog/overview-json-capabilities-within-postgresql
 
-[What are the differences between JSON or JSONB in PostgreSQL®?](https://ftisiot.net/postgresqljson/what-are-the-differences-json-jsonb-postgresql/)
+[What are the differences between JSON or JSONB in PostgreSQL?](https://ftisiot.net/postgresqljson/what-are-the-differences-json-jsonb-postgresql/)
 
 ## Containment
 

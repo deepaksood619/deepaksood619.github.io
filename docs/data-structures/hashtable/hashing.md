@@ -12,7 +12,7 @@ Consistent Hashing is a special kind of hashing such that when a hash table is r
 
 https://www.akamai.com/es/es/multimedia/documents/technical-publication/consistent-hashing-and-random-trees-distributed-caching-protocols-for-relieving-hot-spots-on-the-world-wide-web-technical-publication.pdf
 
-[The Ultimate Guide to Consistent Hashing | Toptal®](https://www.toptal.com/big-data/consistent-hashing)
+[The Ultimate Guide to Consistent Hashing | Toptal](https://www.toptal.com/big-data/consistent-hashing)
 
 ## Modular based hashing
 

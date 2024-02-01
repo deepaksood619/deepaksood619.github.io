@@ -60,7 +60,7 @@ In-built packages which are available for a sysadmin to use in Ansible Playbooks
 
 ## Ansible Tower
 
-Red Hat®Ansible®Tower helps you scale IT automation, manage complex deployments and speed productivity. Centralize and control your IT infrastructure with a visual dashboard, role-based access control, job scheduling, integrated notifications and graphical inventory management. And Ansible Tower's REST API and CLI make it easy to embed Ansible Tower into existing tools and processes.
+Red HatAnsibleTower helps you scale IT automation, manage complex deployments and speed productivity. Centralize and control your IT infrastructure with a visual dashboard, role-based access control, job scheduling, integrated notifications and graphical inventory management. And Ansible Tower's REST API and CLI make it easy to embed Ansible Tower into existing tools and processes.
 
 ## Ansible Galaxy
 

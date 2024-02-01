@@ -4,7 +4,7 @@
 - [Experience](experience)
 - [Projects](about-me/projects/readme.md)
 - [Paper / Publications / References](paper-publications-references)
-- [Courses / Certifications](courses-certificates)
+- [Courses / Certifications](courses/readme.md)
 - [Achievements / Activities / Awards](achievements-activities-awards)
 - [Social Links](social-links)
 - [FAQs](about-me/faqs.md)

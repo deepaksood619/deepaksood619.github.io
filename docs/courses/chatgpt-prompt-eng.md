@@ -129,6 +129,23 @@ Share the most important leadership lessons and insights from the book `{insert 
 
 Controls the randomness of the model's output. A higher temperature makes the output more random, while a lower temperature makes it more deterministic.
 
+## Assistant APIs
+
+The Assistants API allows you to build AI assistants within your own applications. An Assistant has instructions and can leverage models, tools, and knowledge to respond to user queries. The Assistants API currently supports three types of [tools](https://platform.openai.com/docs/assistants/tools): Code Interpreter, Retrieval, and Function calling.
+
+At a high level, a typical integration of the Assistants API has the following flow:
+
+1. Create an [Assistant](https://platform.openai.com/docs/api-reference/assistants/createAssistant) in the API by defining its custom instructions and picking a model. If helpful, enable tools like Code Interpreter, Retrieval, and Function calling.
+2. Create a [Thread](https://platform.openai.com/docs/api-reference/threads) when a user starts a conversation.
+3. Add [Messages](https://platform.openai.com/docs/api-reference/messages) to the Thread as the user ask questions.
+4. [Run](https://platform.openai.com/docs/api-reference/runs) the Assistant on the Thread to trigger responses. This automatically calls the relevant tools.
+
+[Create AI Assistants with OpenAI's Assistants API](https://www.freecodecamp.org/news/create-ai-assistants-with-openais-assistants-api/)
+
+Knowledge based retrieval tool - 
+
+[platform.openai.com/docs/assistants/overview](https://platform.openai.com/docs/assistants/overview)
+
 ## Learning
 
 - [Large Language Models and Cybersecurity – What You Should Know](https://www.freecodecamp.org/news/large-language-models-and-cybersecurity/)

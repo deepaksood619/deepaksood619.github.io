@@ -143,4 +143,4 @@ https://towardsdatascience.com/market-mix-modeling-mmm-101-3d094df976f9
 
 https://www.toptal.com/r/social-network-analysis-in-r-gephi-2
 
-[Intro](ai/courses/customer-analytics-in-python/intro.md)
+[Intro](courses/customer-analytics-in-python/intro.md)

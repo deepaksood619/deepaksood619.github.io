@@ -70,7 +70,7 @@ Project ManagementProfessional (PMP) is a certification administered by Project 
 
 ## Planning Poker
 
-Planning Poker® is a consensus-based estimating technique. Agile teams around the world use Planning Poker to estimate their product backlogs. Planning Poker can be used with story points, ideal days, or any other estimating unit.
+Planning Poker is a consensus-based estimating technique. Agile teams around the world use Planning Poker to estimate their product backlogs. Planning Poker can be used with story points, ideal days, or any other estimating unit.
 
 Planning Poker is an agile estimating and planning technique that is consensus based. To start a poker planning session, the product owner or customer reads anagile user story or describes a feature to the estimators.
 

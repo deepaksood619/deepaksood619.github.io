@@ -139,6 +139,6 @@ darts is a Python library for easy manipulation and forecasting of time series. 
 
 ## Links
 
-- [Intro Time Series](intro-time-series)
-- [Time Series Modeling](time-series-modeling)
-- [Exponential Smoothing](exponential-smoothing)
+- [Intro Time Series](courses/course-time-series-analysis/intro-time-series.md)
+- [Time Series Modeling](courses/course-time-series-analysis/time-series-modeling.md)
+- [Exponential Smoothing](courses/course-time-series-analysis/exponential-smoothing.md)

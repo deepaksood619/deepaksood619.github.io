@@ -1,6 +1,6 @@
 # FAQs
 
-[Frequently Asked Questions | Apache® Druid](https://druid.apache.org/faq/)
+[Frequently Asked Questions | Apache Druid](https://druid.apache.org/faq/)
 
 ### Is Druid a data warehouse? When should I use Druid over Redshift/BigQuery/Snowflake?[​](https://druid.apache.org/faq/#is-druid-a-data-warehouse-when-should-i-use-druid-over-redshiftbigquerysnowflake "Direct link to Is Druid a data warehouse? When should I use Druid over Redshift/BigQuery/Snowflake?")
 

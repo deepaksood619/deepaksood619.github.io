@@ -166,7 +166,7 @@ https://www.confluent.io/blog/apache-kafka-2-4-latest-version-updates
 - https://engineeringblog.yelp.com/2020/01/streams-and-monk-how-yelp-approaches-kafka-in-2020.html
 - https://www.waitingforcode.com/apache-kafka/apache-kafka-idempotent-producer/read
 - [**https://kafkasummit.io/session-library/**](https://kafkasummit.io/session-library/)
-- [Streamline Event-driven Microservices With Kafka and Python | Toptal®](https://www.toptal.com/microservices/event-driven-microservices-kafka-python)
+- [Streamline Event-driven Microservices With Kafka and Python | Toptal](https://www.toptal.com/microservices/event-driven-microservices-kafka-python)
 - [Apache Kafka Explained (Comprehensive Overview) - YouTube](https://www.youtube.com/watch?v=JalUUBKdcA0&ab_channel=Finematics)
 
 ## Best Practices

@@ -76,3 +76,15 @@
 - [Books / Blinkist - Management](../management/books-blinkist-management)
 - [Product Book Summaries](management/product-management/product-book-summaries.md)
 - [Books To Read](books-to-read)
+
+## Books Read
+
+- Primed to Perform by Neel Doshi & Lindsay McGregor (Oct'2018)
+- Elon Musk: How the Billionaire CEO of Spacex and Tesla is Shaping Our Future by Ashley Vancee (Aug'2018)
+- Python Tricks - Dan Bader
+- Getting Things Done by David Allen
+- The Power of Concentration by Thereon Q Dumont
+- Harry Potter and the Cursed Child by J.K.Rowling
+- Murder on the Orient Express by Agatha Cristie
+- And Then There Were None by Agatha Cristie
+- The monk who sold his ferrari by Robin Sharma

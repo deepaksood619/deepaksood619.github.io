@@ -353,13 +353,6 @@ Omnichannel customer support Helpdesk, ITSM solution, Chat solutions, Bot functi
   - ProfitWell
   - UserIQ
   - Customer Success Box
-- Screen Recording
-  - Loom
-  - CloudApp
-  - Cantamsia
-- Status Page
-  - Statuspage.io
-  - Status.io
 
 ## Customer Relationship Management (CRM)
 

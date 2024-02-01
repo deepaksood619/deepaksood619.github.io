@@ -43,19 +43,21 @@ Extensions that helps make obsidian better
 
 ## Obsidian Shortcuts
 
-| **Todo**                    | **Shortcut**                  |
-| --------------------------- | ----------------------------- |
-| Search in all files         | `Cmd+Shift+F`                 |
-| Toggle edit/preview mode    | `Ctrl/Cmd E`                  |
-| Insert External link        | `Ctrl/Cmd-K`                  |
-| Indent                      | `Ctrl/Cmd-]`                  |
-| Unindent                    | `Cmd-[`                       |
-| Jump into selected backlink | `Alt/Opt-Enter`               |
-| Navigate forward            | `cmd+ctrl + ->`               |
-| Naviagte back               | `cmd+ctrl + <-`               |
-| Add current date            | Insert current date (cmd + y) |
-| Add checkbox                | `cmd + L`                     |
-| Delete the line                            |    `cmd + D`                           |
+| **Todo** | **Shortcut** |
+| ---- | ---- |
+| Search in all files | `Cmd+Shift+F` |
+| Toggle edit/preview mode | `Ctrl/Cmd E` |
+| Insert External link | `Ctrl/Cmd-K` |
+| Indent | `Ctrl/Cmd-]` |
+| Unindent | `Cmd-[` |
+| Jump into selected backlink | `Alt/Opt-Enter` |
+| Navigate forward | `cmd+ctrl + ->` |
+| Naviagte back | `cmd+ctrl + <-` |
+| Add current date | Insert current date (cmd + y) |
+| Add checkbox | `cmd + L` |
+| Delete the line |  |
+| Insert Current Date | `cmd + D` |
+| Strikethrough | `cmd + shift + x` |
 
 ### Some basics
 
@@ -120,64 +122,39 @@ Extensions that helps make obsidian better
 
 ## LYT - Linking Your Thinking
 
-https://obsidian
-
-[My 2020 Comprehensive Obsidian Workflow For Zettelkasten and Evergreen Notes](https://www.youtube.com/watch?v=Ewhfok91AdE)
-
-[Obsidian Plugins (0.9.10) - My top plugins in the Obsidian app](https://www.youtube.com/watch?v=X61wRmfZU8Y)
-
-https://github.com/obsidianmd
-
-https://github.com/ransurf/obsidian-resources
-
-https://forum.obsidian/t/example-workflows-in-obsidian/1093
-
-https://forum.obsidian/t/plugin-for-flashcards-note-level-spaced-repetition-all-inside-obsidian/16498
-
-https://github.com/st3v3nmw/obsidian-spaced-repetition
-
-https://github.com/theohbrothers/ConvertOneNote2MarkDown
-
-https://www.linkingyourthinking.com/lyt-kit-v5-overview
+- https://obsidian
+- [My 2020 Comprehensive Obsidian Workflow For Zettelkasten and Evergreen Notes](https://www.youtube.com/watch?v=Ewhfok91AdE)
+- [Obsidian Plugins (0.9.10) - My top plugins in the Obsidian app](https://www.youtube.com/watch?v=X61wRmfZU8Y)
+- https://github.com/obsidianmd
+- https://github.com/ransurf/obsidian-resources
+- https://forum.obsidian/t/example-workflows-in-obsidian/1093
+- https://forum.obsidian/t/plugin-for-flashcards-note-level-spaced-repetition-all-inside-obsidian/16498
+- https://github.com/st3v3nmw/obsidian-spaced-repetition
+- https://github.com/theohbrothers/ConvertOneNote2MarkDown
+- https://www.linkingyourthinking.com/lyt-kit-v5-overview
 
 ## Publish Free
 
-https://docusaurus.io
-
-[10 Obsidian Publish Alternatives to Publish Your Notes Online for Free](https://beingpax.medium.com/7-obsidian-publish-alternatives-to-publish-your-notes-online-for-free-33db4fb06f5)
-
-https://github.com/jackyzha0/quartz - 1.4k
-
-https://github.com/mathieudutour/gatsby-digital-garden - 575
-
-https://github.com/maximevaillancourt/digital-garden-jekyll-template - 566
-
-https://github.com/secure-77/Perlite - 328
-
-https://github.com/TuanManhCao/digital-garden - 281
-
-https://github.com/jobindjohn/obsidian-publish-mkdocs - 207
-
-https://github.com/yoursamlan/pubsidian - 204
-
-https://github.com/Jekyll-Garden/jekyll-garden.github.io - 191
-
-**https://github.com/codebushi/gatsby-theme-document - 124**
-
-https://github.com/theowenyoung/gatsby-theme-primer-wiki - 73
-
-**https://github.com/theowenyoung/obsidian-template-gatsby-theme-primer-wiki**
-    - https://thomassajot.github.io/brain-dam
-    - https://demo-gatsby-starter-primer-wiki.owenyoung.com
-    - https://demo-obsidian.owenyoung.com/
-
-https://github.com/flowershow/flowershow - 156
-
-https://forum.obsidian/t/obsidian-mkdocs-a-free-publish-alternative-workflow/29540
-
-https://forum.obsidian/t/pubsidian-free-and-elegant-obsidian-publish-alternative/21825
-
-[GitHub - nikitavoloboev/knowledge: Everything I know](https://github.com/nikitavoloboev/knowledge)
+- **[Build optimized websites quickly, focus on your content | Docusaurus](https://docusaurus.io)**
+- [10 Obsidian Publish Alternatives to Publish Your Notes Online for Free](https://beingpax.medium.com/7-obsidian-publish-alternatives-to-publish-your-notes-online-for-free-33db4fb06f5)
+- https://github.com/jackyzha0/quartz - 1.4k
+- https://github.com/mathieudutour/gatsby-digital-garden - 575
+- https://github.com/maximevaillancourt/digital-garden-jekyll-template - 566
+- https://github.com/secure-77/Perlite - 328
+- https://github.com/TuanManhCao/digital-garden - 281
+- https://github.com/jobindjohn/obsidian-publish-mkdocs - 207
+- https://github.com/yoursamlan/pubsidian - 204
+- https://github.com/Jekyll-Garden/jekyll-garden.github.io - 191
+- **https://github.com/codebushi/gatsby-theme-document - 124**
+- https://github.com/theowenyoung/gatsby-theme-primer-wiki - 73
+- https://github.com/theowenyoung/obsidian-template-gatsby-theme-primer-wiki
+  - https://thomassajot.github.io/brain-dam
+  - https://demo-gatsby-starter-primer-wiki.owenyoung.com
+  - https://demo-obsidian.owenyoung.com/
+- https://github.com/flowershow/flowershow - 156
+- https://forum.obsidian/t/obsidian-mkdocs-a-free-publish-alternative-workflow/29540
+- https://forum.obsidian/t/pubsidian-free-and-elegant-obsidian-publish-alternative/21825
+- [GitHub - nikitavoloboev/knowledge: Everything I know](https://github.com/nikitavoloboev/knowledge)
 
 ## Publish / Examples / Showcases / Codex
 
@@ -201,11 +178,9 @@ https://forum.obsidian/t/pubsidian-free-and-elegant-obsidian-publish-alternative
 
 ### Blogs example templates
 
-https://mathieudutour.github.io/gatsby-digital-garden
-
-https://jackiexiao.github.io/foam/backlinking
-
-https://hikerpig.github.io/foam-jekyll-template
+- https://mathieudutour.github.io/gatsby-digital-garden
+- https://jackiexiao.github.io/foam/backlinking
+- https://hikerpig.github.io/foam-jekyll-template
 
 ## Company Knowledge Base
 
@@ -232,11 +207,8 @@ https://hikerpig.github.io/foam-jekyll-template
 
 https://www.slant.co/topics/4962/~knowledge-base-systems-for-personal-use
 
-### Sync
-
-- Use DriveSync to sync using Google Drive
-
 ## Others
 
+- Use DriveSync to sync using Google Drive
 - https://dev.to/joeholmes/creating-a-diy-digital-garden-with-obsidian-and-gatsby-378e
 - https://foambubble.github.io/foam/user/recipes/recipes

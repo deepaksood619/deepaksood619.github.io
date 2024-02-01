@@ -70,7 +70,7 @@ Drools is split into two main parts:AuthoringandRuntime.
 
 DMN - Decision Model and Notation
 
-The Decision Model and Notation (DMN™) is a Standard by OMG® providing a common and visual notation readily understandable by all users and personas. With DMN, business analysts can define the initial decision requirements and then formalize more detailed decision models; technical developers can automate the decisions in any process with a portable execution semantic, while business stakeholders can manage and monitor those decisions.
+The Decision Model and Notation (DMN™) is a Standard by OMG providing a common and visual notation readily understandable by all users and personas. With DMN, business analysts can define the initial decision requirements and then formalize more detailed decision models; technical developers can automate the decisions in any process with a portable execution semantic, while business stakeholders can manage and monitor those decisions.
 
 https://www.drools.org/learn/dmn.html
 

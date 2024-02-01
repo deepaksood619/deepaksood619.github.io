@@ -63,11 +63,15 @@ https://www.medicalnewstoday.com/articles/9153.php
 - Flossing
 - Use tongue cleaner
 - Don't use hard toothbrush (soft or extra soft)
-- Brush in circles
+- Minimal pressure
+- Brush in circles (no back and forth)
 - Brush in 45 degree angle to gums
+- Downwards (or upwards) towards your gums
 - Change routine
 - Don't brush more than 2 times a day
 - Wait 30 min after eating before brushing
+
+[Site Unreachable](https://edition.cnn.com/2021/11/19/health/teeth-brushing-health-wellness-partner/index.html)
 
 ## Cough
 

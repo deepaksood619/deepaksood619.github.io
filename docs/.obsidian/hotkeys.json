@@ -97,16 +97,7 @@
   "workspace:goto-tab-6": [],
   "workspace:goto-tab-7": [],
   "workspace:goto-tab-8": [],
-  "editor:toggle-strikethrough": [
-    {
-      "modifiers": [
-        "Mod"
-      ],
-      "key": "S"
-    }
-  ],
   "editor:save-file": [],
-  "insert-current-date": [],
   "nldates-obsidian:nlp-today": [
     {
       "modifiers": [
@@ -121,6 +112,24 @@
         "Mod"
       ],
       "key": "B"
+    }
+  ],
+  "editor:delete-paragraph": [],
+  "insert-current-date": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "D"
+    }
+  ],
+  "editor:toggle-strikethrough": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "X"
     }
   ]
 }

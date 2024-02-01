@@ -57,7 +57,7 @@ The set of files used to describe infrastructure in Terraform is simply known as
 
 ## Tools
 
-[Terraform Pull Request Automation | Atlantis](https://www.runatlantis.io/)
+Atlantis - [Terraform Pull Request Automation | Atlantis](https://www.runatlantis.io/)
 
 ### Terragrunt
 

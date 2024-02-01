@@ -228,4 +228,4 @@ https://www.freecodecamp.org/news/create-a-netflix-clone-with-django-and-tailwin
 
 https://www.toptal.com/django/django-top-10-mistakes
 
-[Django App Security: A Pydantic Tutorial, Part 4 | Toptal®](https://www.toptal.com/django/secure-django-heroku-pydantic-tutorial-part-4)
+[Django App Security: A Pydantic Tutorial, Part 4 | Toptal](https://www.toptal.com/django/secure-django-heroku-pydantic-tutorial-part-4)

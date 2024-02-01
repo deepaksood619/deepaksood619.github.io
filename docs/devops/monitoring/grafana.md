@@ -26,23 +26,18 @@ docker run --rm --name=grafana -p 3000:3000 grafana/grafana
 - Kafka Overview - 721 prometheus
 - Kafka Overview - 5484 kafka-exporter
 - Prometheus 2.0 Overview - 3662
-- Grafana Dashboard Exporter/Importer - 5837
-
-https://grafana.com/grafana/dashboards/5837
-
+- Grafana Dashboard Exporter/Importer - 5837 - https://grafana.com/grafana/dashboards/5837
 - Blackbox Exporter status page dashboard - 5345
 - HTTP - https://grafana.com/grafana/dashboards/10138
   - HTTP Metrics - https://grafana.com/grafana/dashboards/73
 - Redis - https://grafana.com/grafana/dashboards/763
-
-- **AWS Dashboards - https://github.com/monitoringartist/grafana-aws-cloudwatch-dashboards**
-
-https://grafana.com/docs/grafana/latest/datasources/cloudwatch
-
+- AWS Dashboards - https://github.com/monitoringartist/grafana-aws-cloudwatch-dashboards
+- https://grafana.com/docs/grafana/latest/datasources/cloudwatch
 - https://grafana.com/blog/2021/11/09/announcing-grafana-oncall
 
 ## Env
 
+```bash
 GF_AUTH_ANONYMOUS_ENABLED: true
 GF_AUTH_ANONYMOUS_ORG_ROLE: Editor
 GF_AUTH_BASIC_ENABLED: false
@@ -54,10 +49,11 @@ GF_EXTERNAL_IMAGE_STORAGE_S3_BUCKET: "bucket"
 GF_EXTERNAL_IMAGE_STORAGE_S3_REGION: "region"
 GF_EXTERNAL_IMAGE_STORAGE_S3_SECRET_KEY: "XXX"
 GF_PANELS_DISABLE_SANITIZE_HTML: true
+```
 
 ## Concepts
 
-- **Data Source**
+### Data Source
 
 Grafana supports many different storage backends for your time series data (Data Source). Each Data Source has a specific Query Editor that is customized for the features and capabilities that the particular Data Source exposes.
 
@@ -67,7 +63,8 @@ The query language and capabilities of each Data Source are obviously very diffe
 
 - **Organization**
 - **User**
-- **Row**
+
+### Row
 
 A Row is a logical divider within a Dashboard, and is used to group Panels together.
 
@@ -75,7 +72,7 @@ Utilize the [Repeating Rows functionality](http://docs.grafana.org/reference/tem
 
 Rows can be collapsed by clicking on the Row Title. If you save a Dashboard with a Row collapsed, it will save in that state and will not preload those graphs until the row is expanded.
 
-- **Panel**
+### Panel
 
 The Panel is the basic visualization building block in Grafana. Each Panel provides a Query Editor (dependent on the Data Source selected in the panel) that allows you to extract the perfect visualization to display on the Panel by utilizing the Query Editor
 
@@ -91,7 +88,7 @@ Types of Panel -
 
 Utilize the [Repeating Panel](http://docs.grafana.org/reference/templating/#repeating-panels) functionality to dynamically create or remove Panels based on the [Templating Variables](http://docs.grafana.org/reference/templating/#repeating-panels) selected.
 
-- **Query Editor**
+### Query Editor
 
 The Query Editor exposes capabilities of your Data Source and allows you to query the metrics that it contains.
 
@@ -101,7 +98,7 @@ You can utilize [Template variables](http://docs.grafana.org/reference/templatin
 
 Grafana allows you to reference queries in the Query Editor by the row that they're on. If you add a second query to graph, you can reference the first query simply by typing in `#A`. This provides an easy and convenient way to build compounded queries.
 
-- **Dashboard**
+### Dashboard
 
 The Dashboard is where it all comes together. Dashboards can be thought of as of a set of one or more Panels organized and arranged into one or more Rows.
 

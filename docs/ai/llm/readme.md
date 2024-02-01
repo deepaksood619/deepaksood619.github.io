@@ -4,9 +4,10 @@
 - [Design Patterns](ai/llm/design-patterns.md)
 - [RAG Retrieval Augmented Generation](ai/llm/rag-retrieval-augmented-generation.md)
 - [Models](ai/llm/models.md)
-- [ChatGPT Prompt Engineering](ai/courses/chatgpt-prompt-eng.md)
+- [ChatGPT Prompt Engineering](courses/chatgpt-prompt-eng.md)
 - [Interview Questions](ai/llm/interview-questions.md)
 - [Libraries](ai/llm/libraries.md)
+- [ChatGPT Prompt Eng](courses/chatgpt-prompt-eng.md)
 
 [MMLU Dataset | Papers With Code](https://paperswithcode.com/dataset/mmlu) - Massive Multitask Language Understanding
 
@@ -117,7 +118,7 @@ Moving from information to knowledge age
 
 ## Links
 
-- [ChatGPT Prompt Engineering for Developers](ai/courses/chatgpt-prompt-eng.md)
+- [ChatGPT Prompt Engineering for Developers](courses/chatgpt-prompt-eng.md)
 - [How to create a private ChatGPT with your own data | by Mick Vleeshouwer | Mar, 2023 | Medium](https://medium.com/@imicknl/how-to-create-a-private-chatgpt-with-your-own-data-15754e6378a1)
 - [I Built a Hedge Fund Run by AI Agents - YouTube](https://www.youtube.com/watch?v=vnzt4lwzbXU)
 - [State of GPT | BRK216HFS - YouTube](https://www.youtube.com/watch?v=bZQun8Y4L2A)

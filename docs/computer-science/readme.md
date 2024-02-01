@@ -11,7 +11,7 @@
 - [Security](security/readme.md)
 - [Interview Question](interview-question/readme.md)
 - [IoT](iot/readme.md)
-- [Courses](courses/readme.md)
+- [Courses](computer-science/courses/readme.md)
 - [Others](others/readme.md)
 - [Links](computer-science/links.md)
 
