@@ -36,9 +36,9 @@ Prediction / Inference Phase
 
 ## Applications
 
-![image](../../media/Coursera-How-Google-does-ML-image1.jpg)
+![image](../media/Coursera-How-Google-does-ML-image1.jpg)
 
-![image](../../media/Coursera-How-Google-does-ML-image2.jpg)
+![image](../media/Coursera-How-Google-does-ML-image2.jpg)
 
 ## Topics
 
@@ -72,15 +72,15 @@ Prediction / Inference Phase
 
 5. Machine Learning - Automated feedback loop that can outpace human scale
 
-![image](../../media/Coursera-How-Google-does-ML-image3.jpg)
+![image](../media/Coursera-How-Google-does-ML-image3.jpg)
 
-![image](../../media/Coursera-How-Google-does-ML-image4.jpg)
+![image](../media/Coursera-How-Google-does-ML-image4.jpg)
 
-![image](../../media/Coursera-How-Google-does-ML-image5.jpg)
+![image](../media/Coursera-How-Google-does-ML-image5.jpg)
 
-![image](../../media/Coursera-How-Google-does-ML-image6.jpg)
+![image](../media/Coursera-How-Google-does-ML-image6.jpg)
 
-![image](../../media/Coursera-How-Google-does-ML-image5.jpg)
+![image](../media/Coursera-How-Google-does-ML-image5.jpg)
 
 ## Resources
 

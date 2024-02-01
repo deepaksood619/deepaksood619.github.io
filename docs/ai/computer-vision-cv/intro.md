@@ -97,7 +97,7 @@ https://en.wikipedia.org/wiki/Peak_signal-to-noise_ratio
 
 ## References
 
-[Self Driving Nanodegree](../../computer-science/courses/self-driving-nanodegree)
+[Self Driving Nanodegree](courses/self-driving-nanodegree.md)
 
 https://towardsdatascience.com/understanding-ssd-multibox-real-time-object-detection-in-deep-learning-495ef744fab
 

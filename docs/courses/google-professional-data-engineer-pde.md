@@ -25,13 +25,13 @@
 - Anything related to unstructured data - Cloud Storage
 - Anything related to structured data / Transactional workload - Cloud SQL / Cloud Spanner
 
-![Different structured solution options](../../media/Screenshot%202023-03-17%20at%207.23.13%20PM.png)
+![Different structured solution options](../media/Screenshot%202023-03-17%20at%207.23.13%20PM.png)
 
-![](../../media/Screenshot%202023-03-17%20at%207.23.56%20PM.png)
+![](../media/Screenshot%202023-03-17%20at%207.23.56%20PM.png)
 
-![Google data warehouse solution architecture](../../media/Screenshot%202023-03-17%20at%207.36.20%20PM.png)
+![Google data warehouse solution architecture](../media/Screenshot%202023-03-17%20at%207.36.20%20PM.png)
 
-![](../../media/Screenshot%202023-03-17%20at%207.43.56%20PM.png)
+![](../media/Screenshot%202023-03-17%20at%207.43.56%20PM.png)
 
 ## Resources
 

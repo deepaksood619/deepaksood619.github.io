@@ -56,7 +56,7 @@ The total value that a lender is exposed to when a borrower defaults
   - PD - Binomial Logistic regression
   - LGD/EAD - Beta regression
 
-![image](../../../media/Course-Credit-Risk-Modeling_Intro-image1.jpg)
+![image](../../media/Course-Credit-Risk-Modeling_Intro-image1.jpg)
 
 - Risk based pricing
 
@@ -86,7 +86,7 @@ https://www.listendata.com/2015/03/weight-of-evidence-woe-and-information.html
 
 ## Fine classing
 
-![image](../../../media/Course-Credit-Risk-Modeling_Intro-image2.jpg)
+![image](../../media/Course-Credit-Risk-Modeling_Intro-image2.jpg)
 
 ## Coarse classing
 
@@ -98,9 +98,9 @@ How much information the original independent variable brings with respect to ex
 
 - Widely used in credit risk modeling
 
-![image](../../../media/Course-Credit-Risk-Modeling_Intro-image3.jpg)
+![image](../../media/Course-Credit-Risk-Modeling_Intro-image3.jpg)
 
-![image](../../../media/Course-Credit-Risk-Modeling_Intro-image4.jpg)
+![image](../../media/Course-Credit-Risk-Modeling_Intro-image4.jpg)
 
 ## Overfitting
 
@@ -125,7 +125,7 @@ logistic_regression_model.predit_proba
 
 AUC curve , RoC curve
 
-![image](../../../media/Course-Credit-Risk-Modeling_Intro-image5.jpg)
+![image](../../media/Course-Credit-Risk-Modeling_Intro-image5.jpg)
 
 ## Gini - Measure of the inequality between rich and poor individuals in an economy
 
@@ -133,13 +133,13 @@ AUC curve , RoC curve
 - the cumulative proportion of defaulted borrowers as a function of the cumulative proportion of all borrowers.
 - AUROC = (Gini -- 1) / 2.
 
-![image](../../../media/Course-Credit-Risk-Modeling_Intro-image6.jpg)
+![image](../../media/Course-Credit-Risk-Modeling_Intro-image6.jpg)
 
 ## Kolmogorov-Smirnov
 
 Shows to what extent the model seperate the actual good borrowers from the actual bad borrowers
 
-![image](../../../media/Course-Credit-Risk-Modeling_Intro-image7.jpg)
+![image](../../media/Course-Credit-Risk-Modeling_Intro-image7.jpg)
 
 ## K-S coefficient
 
@@ -215,9 +215,9 @@ Is the new data too different from the original one?
 
 Actual data vs Excepted data
 
-![image](../../../media/Course-Credit-Risk-Modeling_Intro-image8.jpg)
+![image](../../media/Course-Credit-Risk-Modeling_Intro-image8.jpg)
 
-![image](../../../media/Course-Credit-Risk-Modeling_Intro-image9.jpg)
+![image](../../media/Course-Credit-Risk-Modeling_Intro-image9.jpg)
 
 #### INTERPRETATION RULES
 
@@ -253,7 +253,7 @@ Recovery rate is the dependent variable for the LGD model
 
 Recovery rate is the proportion of the total exposure that can be recovered by the lender once a default has occurred.
 
-![image](../../../media/Course-Credit-Risk-Modeling_Intro-image10.jpg)
+![image](../../media/Course-Credit-Risk-Modeling_Intro-image10.jpg)
 
 CCF - Credit Conversion Factor
 
@@ -318,9 +318,9 @@ Combines physical and digital identities - including device, behavioral biometri
 
 ### AWS KYC
 
-![image](../../../media/Projects-AIML-Fraud-Risk-image1.jpg)
+![image](../../media/Projects-AIML-Fraud-Risk-image1.jpg)
 
-![image](../../../media/Projects-AIML-Fraud-Risk-image2.jpg)
+![image](../../media/Projects-AIML-Fraud-Risk-image2.jpg)
 
 ## Links
 

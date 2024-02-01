@@ -117,9 +117,9 @@ _Chain-of-thought_ (CoT) prompting is a technique that allows [large language 
 
 ## Prompt Examples
 
-![ChatGPT Ultimate Prompting Guide](../../media/chatgpt-promt-engineering.png)
+![ChatGPT Ultimate Prompting Guide](../media/chatgpt-promt-engineering.png)
 
-![ChatGPT Prompts Commands](../../media/chatgpt-prompts.png)
+![ChatGPT Prompts Commands](../media/chatgpt-prompts.png)
 
 Share the most important leadership lessons and insights from the book `{insert book}` by `{insert author}`. For each insight suggest an actionable way I can embody it.
 
@@ -142,7 +142,7 @@ At a high level, a typical integration of the Assistants API has the following f
 
 [Create AI Assistants with OpenAI's Assistants API](https://www.freecodecamp.org/news/create-ai-assistants-with-openais-assistants-api/)
 
-Knowledge based retrieval tool - 
+Knowledge based retrieval tool -
 
 [platform.openai.com/docs/assistants/overview](https://platform.openai.com/docs/assistants/overview)
 

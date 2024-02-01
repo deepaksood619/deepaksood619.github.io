@@ -80,13 +80,13 @@ Develop the **best** product or service and offer it at the **right price** thro
 
 ## Physical and Online Retailers
 
-![image](../../../media/Customer-Analytics-in-Python_Intro-image1.jpg)
+![image](../../media/Customer-Analytics-in-Python_Intro-image1.jpg)
 
 ## Price elasticity is: the percentage change in an economic outcome of interest with respect to one percent change in a respective price
 
 It is expected that: units sold from a brand would increase if the unit price of the brand decreases and would increase if the unit price of a competitor brand increases
 
-![image](../../../media/Customer-Analytics-in-Python_Intro-image2.jpg)
+![image](../../media/Customer-Analytics-in-Python_Intro-image2.jpg)
 
 - Price elasticity of purchase probability
 - Price elasticity of brand choice probability
@@ -134,7 +134,7 @@ segmentation_std = scaler.fit_transform(df_segmentation)
   - Manhattan distance
   - Maximum distance
 
-![image](../../../media/Customer-Analytics-in-Python_Intro-image3.jpg)
+![image](../../media/Customer-Analytics-in-Python_Intro-image3.jpg)
 
 - Segmentation between clusters
   - Ward method (|A-B|^2)/n~scale~
@@ -187,15 +187,15 @@ Problems
 
 ## Within Cluster Sum of Squares (WCSS) is used to determine best clustering solution
 
-![image](../../../media/Customer-Analytics-in-Python_Intro-image4.jpg)
+![image](../../media/Customer-Analytics-in-Python_Intro-image4.jpg)
 
 Choosing number of clusters - Elbow method
 
-![image](../../../media/Customer-Analytics-in-Python_Intro-image5.jpg)
+![image](../../media/Customer-Analytics-in-Python_Intro-image5.jpg)
 
-![image](../../../media/Customer-Analytics-in-Python_Intro-image6.jpg)
+![image](../../media/Customer-Analytics-in-Python_Intro-image6.jpg)
 
-![image](../../../media/Customer-Analytics-in-Python_Intro-image7.jpg)
+![image](../../media/Customer-Analytics-in-Python_Intro-image7.jpg)
 
 ## Purchase Analytics
 
@@ -203,11 +203,11 @@ Choosing number of clusters - Elbow method
 
 % change in purchase probability in response to a 1% change in price
 
-![image](../../../media/Customer-Analytics-in-Python_Intro-image8.jpg)
+![image](../../media/Customer-Analytics-in-Python_Intro-image8.jpg)
 
-![image](../../../media/Customer-Analytics-in-Python_Intro-image9.jpg)
+![image](../../media/Customer-Analytics-in-Python_Intro-image9.jpg)
 
-![image](../../../media/Customer-Analytics-in-Python_Intro-image10.jpg)
+![image](../../media/Customer-Analytics-in-Python_Intro-image10.jpg)
 
 We have a product, which costs $2.40-. We have obtained the price elasticity of purchase probability to be -0.79. The customer at this price point is: inelastic
 
@@ -223,11 +223,11 @@ The purchase probability of a client at $2.56 is 0.7, while their price elastici
 
 ## Multnomial Logistic Regression - For a multiclass scenario
 
-![image](../../../media/Customer-Analytics-in-Python_Intro-image11.jpg)
+![image](../../media/Customer-Analytics-in-Python_Intro-image11.jpg)
 
-![image](../../../media/Customer-Analytics-in-Python_Intro-image12.jpg)
+![image](../../media/Customer-Analytics-in-Python_Intro-image12.jpg)
 
-![image](../../../media/Customer-Analytics-in-Python_Intro-image13.jpg)
+![image](../../media/Customer-Analytics-in-Python_Intro-image13.jpg)
 
 ## Deep Learning
 

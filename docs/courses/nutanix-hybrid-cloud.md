@@ -25,13 +25,13 @@ NIST defines cloud computing as "a model for enabling ubiquitous, convenient, on
 
 [According to NIST](https://classroom.udacity.com/nanodegrees/nd321-1/parts/cd9ca74f-cbf3-40f8-9726-289a03b5560a/modules/c1b1466d-dba6-4e06-9014-b1cca87f5ca4/lessons/81e12a4b-5f16-4a67-8da0-8fe5eea1f483/concepts/The%20cloud%20is%20an%20experience%20and%20a%20mindset%20%5bshow:%20https:/csrc.nist.gov/publications/detail/sp/800-145/final%5d), the cloud model has 5 essential characteristics, 3 service models, and 4 deployment models.
 
-![image](../../media/Nutanix-Hybrid-Cloud-image1.jpg)
+![image](../media/Nutanix-Hybrid-Cloud-image1.jpg)
 
-![image](../../media/Nutanix-Hybrid-Cloud-image2.jpg)
+![image](../media/Nutanix-Hybrid-Cloud-image2.jpg)
 
-![image](../../media/Nutanix-Hybrid-Cloud-image3.jpg)
+![image](../media/Nutanix-Hybrid-Cloud-image3.jpg)
 
-![image](../../media/Nutanix-Hybrid-Cloud-image4.jpg)
+![image](../media/Nutanix-Hybrid-Cloud-image4.jpg)
 
 There are first two major aspects of cloud consumption that organizations need to take into consideration: fiscal consumption and workload predictability.
 
@@ -39,7 +39,7 @@ There are first two major aspects of cloud consumption that organizations need t
 
 ## Virtualization
 
-![image](../../media/Nutanix-Hybrid-Cloud-image5.jpg)
+![image](../media/Nutanix-Hybrid-Cloud-image5.jpg)
 
 Virtualization uses an abstraction layer and resource scheduler called a hypervisor to run virtual machines on shared hardware resources. Virtual machines, or VMs, can be run at 80% or higher resource utilization without contention, solving one of the major problems of distributed and 3-tier architecture.
 
@@ -123,7 +123,7 @@ Nutanix provides the public cloud benefits that organizations want with the cont
 - **Lower cloud costs:** You can also reduce your datacenter TCO by up to 60%. This will help optimize your public cloud spend with lower cloud costs.
 - **True hybrid cloud:** This refers to the ability for you to combine both public and private cloud operations with unified management.
 
-![image](../../media/Nutanix-Hybrid-Cloud-image6.jpg)
+![image](../media/Nutanix-Hybrid-Cloud-image6.jpg)
 
 1. Acropolis: The data plane
 2. Prism: The management plane

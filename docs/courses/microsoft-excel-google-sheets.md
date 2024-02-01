@@ -29,7 +29,7 @@ Rows - 1,048,576- Text to column
 - Conditional Formatting
 - Custom cell formatting
 
-![image](../../media/Intro-to-Microsoft-Excel-Google-Sheets-image1.jpg)
+![image](../media/Intro-to-Microsoft-Excel-Google-Sheets-image1.jpg)
 
 ## Shortcuts
 
@@ -254,7 +254,7 @@ Rows - 1,048,576- Text to column
 
 https://365datascience.teachable.com/courses/enrolled/233558
 
-![image](../../media/Intro-to-Microsoft-Excel-Google-Sheets-image2.jpg)
+![image](../media/Intro-to-Microsoft-Excel-Google-Sheets-image2.jpg)
 
 [Google Sheets - Full Course](https://www.youtube.com/watch?v=N2opj8XzYBY&ab_channel=freeCodeCamp.org)
 

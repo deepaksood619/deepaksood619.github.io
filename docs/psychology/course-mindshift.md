@@ -82,3 +82,5 @@ In this final week of the course, we'll be exploring how and why to keep yoursel
 Mindshift: Break Through Obstacles to Learning and Discover Your Hidden Potential by McMaster University on Coursera taughty by Barbara Oakley, Terrence Sejnowski and M.S. Orlando Trejo
 
 https://www.coursera.org/learn/mindshift
+
+https://www.coursera.org/account/accomplishments/verify/ZT58TT77JZQ6
