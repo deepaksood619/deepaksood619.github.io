@@ -39,9 +39,9 @@
 2. detect-private-key
 4. Formatter - black (for python), etc
 5. Static Code Analysis
-1. SonarQube
-6. Linters (based on coding languages)
-7. Dependabot-gitlab
+6. SonarQube
+7. Linters (based on coding languages)
+8. Dependabot-gitlab
 
 ### CI Tools
 

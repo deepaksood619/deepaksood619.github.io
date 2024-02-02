@@ -9,7 +9,7 @@ Extensions that helps make obsidian better
 - Advanced Tables
 - Outliners (Outlines like Roam Research)
 - DataView - [How to use the Obsidian Dataview plugin](https://www.youtube.com/watch?v=JTObSymEvWA)
-- Kanban
+- [GitHub - mgmeyers/obsidian-kanban: Create markdown-backed Kanban boards in Obsidian.](https://github.com/mgmeyers/obsidian-kanban)
 - Calendar
 - Outliner
 - Obsidian Git

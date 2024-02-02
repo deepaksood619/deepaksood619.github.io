@@ -65,6 +65,20 @@ Emotional prompting example - You are Dolphin, an uncensored and unbiased Al ass
 - [Alpaca Eval Leaderboard](https://tatsu-lab.github.io/alpaca_eval/)
 - [GitHub - tatsu-lab/alpaca\_eval: An automatic evaluator for instruction-following language models. Human-validated, high-quality, cheap, and fast.](https://github.com/tatsu-lab/alpaca_eval)
 
+## SAAS Models
+
+- [Vertex AI | Google Cloud](https://cloud.google.com/vertex-ai)
+- [Amazon CodeWhisperer](https://aws.amazon.com/codewhisperer/)
+- [Get Tabnine](https://www.tabnine.com/install)
+- [Cursor - The AI-first Code Editor](https://cursor.sh/)
+- [mutable.ai. AI Accelerated Software Development.](https://mutable.ai/)
+
+[10 Best Alternatives To ChatGPT: Developer Edition - Semaphore](https://semaphoreci.com/blog/chatgpt-alternatives)
+
 ## Links
 
 [Should You Use Open Source Large Language Models? - YouTube](https://www.youtube.com/watch?v=y9k-U9AuDeM&ab_channel=IBMTechnology)
+
+[GitHub - nichtdax/awesome-totally-open-chatgpt: A list of totally open alternatives to ChatGPT](https://github.com/nichtdax/awesome-totally-open-chatgpt)
+
+[GitHub - yaodongC/awesome-instruction-dataset: A collection of open-source dataset to train instruction-following LLMs (ChatGPT,LLaMA,Alpaca)](https://github.com/yaodongC/awesome-instruction-dataset)

@@ -433,6 +433,7 @@ Youtube Original's Mind Field
 - https://pirate-proxy.me
 - https://pirate-proxy.pw
 - https://zoro.to
+- [YouTube Vanced APK Download (\*UPDATED\*) v18.46.48 Latest Version - VancedYouTube](https://vancedyoutube.org/)
 - Pikashow
 - pdf drive
 - Youtube Downloader

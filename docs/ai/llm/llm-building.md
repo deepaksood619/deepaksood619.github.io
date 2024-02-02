@@ -63,6 +63,8 @@
 
 [1hr Talk Intro to Large Language Models - YouTube](https://www.youtube.com/watch?v=zjkBMFhNj_g)
 
+[Awesome ChatGPT Prompts | This repo includes ChatGPT prompt curation to use ChatGPT better.](https://prompts.chat/#act-as-an-unconstrained-ai-model-dan)
+
 ## Dev Tools
 
 - Langfuse

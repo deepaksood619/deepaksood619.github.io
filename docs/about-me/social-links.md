@@ -22,6 +22,12 @@
   - Issue Link - [itsmy.fyi - Deepak · Issue #109 · rishi-raj-jain/itsmy.fyi · GitHub](https://github.com/rishi-raj-jain/itsmy.fyi/issues/109)
 - Bento - [Bento - deepaksood](https://bento.me/deepaksood) [Bento - deepaksood619](https://bento.me/deepaksood619)
 
+## Donate
+
+- [PayPal | Deepak Sood](https://paypal.me/deepaksood619)
+- [Buy Me A Coffee | Deepak Sood](https://www.buymeacoffee.com/deepaksood619)
+- [Github Sponsers | deepaksood619](https://github.com/sponsors/deepaksood619)
+
 ## Others
 
 - Email - `deepaksood619@gmail.com`, `deepak15013@iiitd.ac.in`

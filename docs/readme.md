@@ -101,9 +101,11 @@ Eth: Ethereum MainNet - 0xC629700c063c9848c2D09e79248d39b997fAD48E
 
 BTC: bc1qfpm3x5qcr6su8ndq8afmw6u5hzdwpyauwkdcdf
 
-DFI: DFI Chain - df1qtzjm8z8vp05klug8jvhyjnjpg48jqevel9v43r
+Paypal - [Deepak Sood | deepaksood619](https://paypal.me/deepaksood619?country.x=IN&locale.x=en_GB)
 
-Paypal: [deepaksood619](https://paypal.me/deepaksood619?country.x=IN&locale.x=en_GB)
+Buy me a coffee - [Deepak Sood | deepaksood619](https://www.buymeacoffee.com/deepaksood619)
+
+Github Sponsers - [Deepak Sood | deepaksood619](https://github.com/sponsors/deepaksood619)
 
 ## Contact
 

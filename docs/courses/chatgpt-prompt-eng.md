@@ -34,7 +34,7 @@ Ans - The capital of France is Paris.
 
 [https://snackprompt.com](https://snackprompt.com/)
 
-[GitHub - f/awesome-chatgpt-prompts: This repo includes ChatGPT prompt curation to use ChatGPT better.](https://github.com/f/awesome-chatgpt-prompts)
+[GitHub - f/awesome-chatgpt-prompts: This repo includes ChatGPT prompt curation to use ChatGPT better.](https://github.com/f/awesome-chatgpt-prompts) - [Awesome ChatGPT Prompts | This repo includes ChatGPT prompt curation to use ChatGPT better.](https://prompts.chat/)
 
 ##### ChatGPT prompt to write error free
 

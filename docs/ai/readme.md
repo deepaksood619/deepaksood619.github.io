@@ -15,6 +15,7 @@
 - [Libraries](libraries/readme.md)
 - [Courses](courses/readme.md)
 - [Others / Resources / Interview](ai/others-resources-interview.md)
+- [Hackathons](ai/hackathons.md)
 
 ## AGI (Artificial General Intelligence)
 
