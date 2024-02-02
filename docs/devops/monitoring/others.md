@@ -116,7 +116,7 @@ if not DEBUG:
 debug=True,    )
 ```
 
-### commands
+### Commands
 
 ```bash
 sentry
@@ -130,23 +130,21 @@ VACUUM FULL;
 sentry run cron
 ```
 
-https://github.com/getsentry/sentry/blob/master/src/sentry/conf/server.py
+### Links
 
-https://github.com/getsentry/sentry
+- https://github.com/getsentry/sentry/blob/master/src/sentry/conf/server.py
+- https://github.com/getsentry/sentry
+- https://sentry.io/welcome
+- https://blog.hlab.tech/a-step-by-step-tutorial-on-how-to-monitor-software-errors-in-real-time-using-sentry-in-django-web-applications
+- [**https://getsentry.github.io/sentry-python/api.html**](https://getsentry.github.io/sentry-python/api.html)
+- https://docs.sentry.io/platforms/python
+- Android - https://sentry.io/for/android
+- https://docs.sentry.io/platforms/javascript/guides/react
+- https://docs.sentry.io/platforms/android
 
-https://sentry.io/welcome
+Others - [RunWhen Home](https://www.runwhen.com/) - Help every engineer troubleshoot any part of your tech stack
 
-https://blog.hlab.tech/a-step-by-step-tutorial-on-how-to-monitor-software-errors-in-real-time-using-sentry-in-django-web-applications
-
-[**https://getsentry.github.io/sentry-python/api.html**](https://getsentry.github.io/sentry-python/api.html)
-
-https://docs.sentry.io/platforms/python
-
-Android - https://sentry.io/for/android
-
-https://docs.sentry.io/platforms/javascript/guides/react
-
-https://docs.sentry.io/platforms/android
+- We combine a community writing troubleshooting scripts for apps, platform and infrastructure in the Kubernetes ecosystem with Digital Assistants to help any engineer find which to run, and when.
 
 ## NewRelic
 

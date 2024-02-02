@@ -384,8 +384,8 @@ Linting & formatting - https://realpython.com/python-pep8
 
 ## Pep8 Naming Convention for files
 
-- modules (filenames) should have*short, all-lowercase names*, and they can contain underscores;
-- packages (directories) should have*short, all-lowercase names*, preferably without underscores;
+- modules (filenames) should have *short, all-lowercase names*, and they can contain underscores;
+- packages (directories) should have *short, all-lowercase names*, preferably without underscores;
 - classes should use the CapWords convention.
 
 https://www.youtube.com/watch?v=4klj8UYPZxY&ab_channel=freeCodeCampTalks
