@@ -222,3 +222,37 @@ https://jfrog.com/artifactory
 ## Opendev
 
 https://opendev.org
+
+## registry / distribution
+
+The Registry is a stateless, highly scalable server side application that stores and lets you distribute container images and other content.
+
+Registry, the open source implementation for storing and distributing container images and other content, has been donated to the CNCF. Registry now goes under the name of Distribution, and the documentation has moved to [distribution/distribution](https://distribution.github.io/distribution/).
+
+### Why use it
+
+You should use the Registry if you want to:
+
+- tightly control where your images are being stored
+- fully own your images distribution pipeline
+- integrate image storage and distribution tightly into your in-house development workflow
+
+### Alternatives
+
+Users looking for a zero maintenance, ready-to-go solution are encouraged to use one of the existing registry services. Many of these provide support and security scanning, and are free for public repositories. For example:
+
+- [Docker Hub](https://hub.docker.com/)
+- [Quay.io](https://quay.io/)
+- [GitHub Packages](https://docs.github.com/en/packages/working-with-a-github-packages-registry/working-with-the-container-registry)
+
+[CNCF Distribution](https://distribution.github.io/distribution/)
+
+[Docker Hub](https://hub.docker.com/_/registry)
+
+[Registry | Docker Docs](https://docs.docker.com/registry/)
+
+```bash
+docker run -d -p 5000:5000 --restart always --name registry registry:2
+```
+
+[GitHub - distribution/distribution: The toolkit to pack, ship, store, and deliver container content](https://github.com/distribution/distribution)

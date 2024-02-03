@@ -19,18 +19,6 @@ https://en.wikipedia.org/wiki/SWOT_analysis
 
 PEST Analysis is a management method whereby an organization can assess major external factors that influence its operation in order to become more competitive in the market. As described by the acronym, those four areas are central to this model.
 
-## Kanban
-
-Kanban is a method for managing the creation of products with an emphasis on continual delivery while not overburdening the development team.
-
-## Kanban is based on 3 basic principles
-
-- **Visualize what you do today (workflow):**seeing all the items in context of each other can be very informative
-- **Limit the amount of work in progress (WIP):**this helps balance the flow-based approach so teams don't start and commit to too much work at once
-- **Enhance flow:**when something is finished, the next highest thing from the backlog is pulled into play
-
-https://resources.collab.net/agile-101/what-is-kanban
-
 ## Using Lanes to grow Teams
 
 https://medium.com/teads-engineering/growing-a-feature-team-using-lanes-2e50d5521006

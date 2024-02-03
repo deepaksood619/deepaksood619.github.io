@@ -170,3 +170,5 @@ Mobile device management (MDM) is a proven methodology and toolset used to provi
 ## Others
 
 [Security / Identity / Compliance](cloud/aws/security-identity-compliance/intro.md)
+
+[Security Tools](cloud/aws/security-identity-compliance/tools.md)

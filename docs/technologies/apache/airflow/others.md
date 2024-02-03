@@ -97,6 +97,38 @@ https://github.com/Netflix/conductor
 
 https://netflix.github.io/conductor
 
+## Temporal
+
+Durable Execution: a new abstraction for developers
+
+Durable Execution is a development abstraction that preserves complete application state so that upon host or software failure it can seamlessly migrate execution to another machine.
+
+Temporal is an open source implementation of Durable Execution created by the originators of the abstraction.
+
+The [Temporal Platform](https://docs.temporal.io/temporal) provides developers a suite of effective tools for building reliable applications at scale.
+
+The concepts, components, and features of the platform are described in detail across the concept guides.
+
+- [Temporal](https://docs.temporal.io/temporal)
+- [Workflows](https://docs.temporal.io/workflows)
+- [Activities](https://docs.temporal.io/activities)
+- [Workers](https://docs.temporal.io/workers)
+- [Retry Policies](https://docs.temporal.io/retry-policies)
+- [Clusters](https://docs.temporal.io/clusters)
+- [Visibility](https://docs.temporal.io/visibility)
+- [Namespaces](https://docs.temporal.io/namespaces)
+- [Data conversion](https://docs.temporal.io/dataconversion)
+
+### Links
+
+- [Open Source Durable Execution | Temporal Technologies](https://temporal.io/)
+- [GitHub - temporalio/temporal: Temporal service](https://github.com/temporalio/temporal)
+- [Getting to know Temporal - YouTube](https://www.youtube.com/watch?v=wIpz4ioK0gI)
+- [Documentation | Temporal Documentation](https://docs.temporal.io/)
+- [Temporal Web UI | Temporal Documentation](https://docs.temporal.io/web-ui)
+- [Building Resilient Microservice Workflows with Temporal: A Next-Gen Workflow Engine | by Dixon Deng | SafetyCulture Engineering | Medium](https://medium.com/safetycultureengineering/building-resilient-microservice-workflows-with-temporal-a-next-gen-workflow-engine-a9637a73572d)
+- [Maru: Load Testing Tool for Temporal Workflows | Mikhail Shilkov](https://mikhail.io/2021/03/maru-load-testing-tool-for-temporal-workflows/)
+
 ## Others
 
 [Give your data team magical powers | Mage](https://www.mage.ai/)
