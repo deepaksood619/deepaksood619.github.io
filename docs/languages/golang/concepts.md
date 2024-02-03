@@ -15,9 +15,7 @@ Hence, a Go Runtime scheduler is needed which manages their lifecycle.
 Go Runtime maintains three C structs for this purpose:
 
 1. **The G Struct:** This represents a single go routine with it's properties such as stack pointer, base of stack, it's ID, it's cache and it's status
-
 2. **The M Struct:** This represents an OS thread. It also contains a pointer to the global queue of runnable goroutines, the current running goroutine and the reference to the scheduler
-
 3. **The Sched Struct:** It is a global struct and contains the queues free and waiting goroutines as well as threads.
 
 So, on startup, go runtime starts a number of goroutines for GC, scheduler and user code. An OS Thread is created to handle these goroutines. These threads can be at most equal to GOMAXPROCS.
@@ -43,9 +41,17 @@ The go runtime scheduler does cooperative scheduling, which means another gorout
 
 This is better than pre-emptive scheduling which uses timely system interrupts (e.g. every 10 ms) to block and schedule a new thread which may lead a task to take longer than needed to finish when number of threads increases or when a higher priority tasks need to be scheduled while a lower priority task is running.
 
-Another advantage is that, since it is invoked implicitly in the code e.g. during sleep or channel wait, the compile only needs to safe/restore the registers which are alive at these points. In Go, this meansonly 3 registers i.e. PC, SP and DX (Data Registers) being updated during context switchrather than all registers (e.g. AVX, Floating Point, MMX).
+Another advantage is that, since it is invoked implicitly in the code e.g. during sleep or channel wait, the compile only needs to safe/restore the registers which are alive at these points. In Go, this means only 3 registers i.e. PC, SP and DX (Data Registers) being updated during context switch rather than all registers (e.g. AVX, Floating Point, MMX).
 
 https://codeburst.io/why-goroutines-are-not-lightweight-threads-7c460c1f155f
+
+## Channels
+
+Channels are communication primitives in Go for synchronizing and communicating between Goroutines. They provide a safe way for Goroutines to communicate by sending and receiving data. Channels help prevent race conditions and facilitate proper synchronization in concurrent programming.
+
+## Goroutine vs Thread
+
+Goroutines are lightweight, managed by the Go runtime, and use a smaller stack size compared to traditional threads. Goroutines are multiplexed onto a smaller number of OS threads, making them more efficient for concurrent programming.
 
 ## Pointers in Go
 

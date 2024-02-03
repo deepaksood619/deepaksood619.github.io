@@ -8,6 +8,7 @@
 - [AWS SNS](cloud/aws/aws-sns.md)
 - [Security, Identity and Compliance](security-identity-compliance/intro)
   - [IAM](security-identity-compliance/iam)
+  - [Tools](cloud/aws/security-identity-compliance/tools.md)
 - [Analytics](analytics/readme.md)
   - [Amazon Athena](analytics/amazon-athena)
 - [Developer Tools](developer-tools/intro)

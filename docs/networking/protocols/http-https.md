@@ -7,6 +7,7 @@
 Standing for Hypertext Transfer Protocol, HTTP is an application layer protocol that enables communication between two entities in a network.
 
 HTTP is considered the foundation of the modern web and it works on top of TCP/IP communication protocol. While other ports may be used, the reserved HTTP port is 80.
+
 Communication process is based on a **request/response or request/reply** flow:
 
 - The client initiates the communication by sending an HTTP request message to the host, over an already existing TCP connection.
@@ -15,6 +16,7 @@ Communication process is based on a **request/response or request/reply** flow:
 - The host sends back the appropriate response.
 
 One fundamental characteristic that made HTTP a powerful protocol is that both parties are aware of each other during the current request only and will forget about each other afterwards. This is the reason why HTTP is considered to be stateless.
+
 HTTP is a request/response architecture, where client sends a request and server sends the request back. Server cannot initiate the request to the client. So if user A has some data to send to user B, then user A will send data to server, but server cannot send data to user B, because server cannot initiate request to the client.
 
 The 4 Parts of a HTTP request
@@ -36,7 +38,7 @@ The 3 parts of a HTTP response
 
 ### 2. HTTP/1.0
 
-a new TCP connection is created for each request/response exchange between clients and servers, meaning that all requests incur a latency penalty as the TCP and TLS handshakes are completed before each request.
+A new TCP connection is created for each request/response exchange between clients and servers, meaning that all requests incur a latency penalty as the TCP and TLS handshakes are completed before each request.
 
 Worse still, rather than sending all outstanding data as fast as possible once the connection is established, TCP enforces a warm-up period called "slow start", which allows the TCP congestion control algorithm to determine the amount of data that can be in flight at any given moment before congestion on the network path occurs, and avoid flooding the network with packets it can't handle. But because new connections have to go through the slow start process, they can't use all of the network bandwidth available immediately.
 
@@ -158,6 +160,12 @@ When you submit a form, what request method does your browser use?
 - The default is POST, but you can use < form method = "GET" > to send a GET request
 - POST puts the form data in the request body
 - GET puts the data in the URL.
+
+## Preflight request
+
+A CORS preflight request is a [CORS](https://developer.mozilla.org/en-US/docs/Glossary/CORS) request that checks to see if the CORS protocol is understood and a server is aware using specific methods and headers.
+
+[Preflight request - MDN Web Docs Glossary: Definitions of Web-related terms | MDN](https://developer.mozilla.org/en-US/docs/Glossary/Preflight_request)
 
 ## Links
 

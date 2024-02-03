@@ -37,15 +37,6 @@ The key to doing agile right is [embracing a mindset of continuous improvement](
 - **Agile manifesto**
 - **Scrum**
 
-### Kanban
-
-- [Overview](https://www.atlassian.com/agile/kanban)
-- [Cards](https://www.atlassian.com/agile/kanban/cards)
-- [Boards](https://www.atlassian.com/agile/kanban/boards)
-- [WIP limits](https://www.atlassian.com/agile/kanban/wip-limits)
-- [Kanban vs Scrum](https://www.atlassian.com/agile/kanban/kanban-vs-scrum)
-- [Kanplan](https://www.atlassian.com/agile/kanban/kanplan)
-
 ### Agile project management
 
 - [Overview](https://www.atlassian.com/agile/project-management)
@@ -170,6 +161,30 @@ Sprint review and retrospective helps the team to inspect itself and plan to mak
 ### Kanban
 
 Kanban framework is used to implement agile software development and requires real-time communication. Work items are represented on a Kanban board, allowing team members to see the state of each work at any time
+
+Kanban is a method for managing the creation of products with an emphasis on continual delivery while not overburdening the development team.
+
+#### Kanban is based on 3 basic principles
+
+- **Visualize what you do today (workflow):** seeing all the items in context of each other can be very informative
+- **Limit the amount of work in progress (WIP):** this helps balance the flow-based approach so teams don't start and commit to too much work at once
+- **Enhance flow:** when something is finished, the next highest thing from the backlog is pulled into play
+
+#### Swimlanes
+
+Kanban Tool’s swimlanes are a fantastic way to manage several similar projects on one board, bringing an overview of them all to one place, while still leaving you the ability to concentrate on just one at a time, through [collapsing](https://kanbantool.com/support/kanban-board#how-to-collapse-a-column-or-a-swimlane-on-my-kanbanboard) the others.
+
+[What are swimlanes and how to use them? | Kanban Tool Support](https://kanbantool.com/support/kanban-board/what-are-swimlanes)
+
+#### Links
+
+- [Overview](https://www.atlassian.com/agile/kanban)
+- [Cards](https://www.atlassian.com/agile/kanban/cards)
+- [Boards](https://www.atlassian.com/agile/kanban/boards)
+- [WIP limits](https://www.atlassian.com/agile/kanban/wip-limits)
+- [Kanban vs Scrum](https://www.atlassian.com/agile/kanban/kanban-vs-scrum)
+- [Kanplan](https://www.atlassian.com/agile/kanban/kanplan)
+- [Kanban Methodology | Glossary | Digital.ai](https://resources.collab.net/agile-101/what-is-kanban)
 
 ### Scrum Framework
 

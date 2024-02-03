@@ -85,29 +85,29 @@ Problem Statement: Develop an automated root cause analysis system using machine
 
 Good to have - Give the steps to perform to fix the problem based on last problem fix, in next step run the scripts or call the api to fix
 
-### Optimizing Deployment Strategies with ML:
+### Optimizing Deployment Strategies with ML
 
 Problem Statement: Implement a machine learning model to optimize deployment strategies. Analyze past deployment data, including time, day, and code changes, to predict the optimal time for deploying updates with minimal impact. Use open-source tools for deployment orchestration and ML frameworks for model development.
 
 ## General Problem Statements
 
-### Sentiment Analysis for Social Media Posts:
+### Sentiment Analysis for Social Media Posts
 
 Problem Statement: Develop a sentiment analysis model to classify social media posts into positive, negative, or neutral sentiments. Use open-source tools like Python, scikit-learn, or TensorFlow. The dataset can be obtained from platforms like Twitter or Reddit.
 
-### Medical Image Classification:
+### Medical Image Classification
 
 Problem Statement: Build a machine learning model to classify medical images (X-rays, MRIs, CT scans) into different categories such as normal, benign, or malignant. Utilize open-source frameworks like TensorFlow or PyTorch and consider datasets available on platforms like Kaggle or NIH.
 
-### Predictive Maintenance for Equipment:
+### Predictive Maintenance for Equipment
 
 Problem Statement: Create a predictive maintenance model that forecasts equipment failures based on historical data. Use open-source tools such as Python, scikit-learn, or Apache Spark. You can find relevant datasets on platforms like NASA Prognostics Center or UCI Machine Learning Repository.
 
-### Fraud Detection in Financial Transactions:
+### Fraud Detection in Financial Transactions
 
 Problem Statement: Develop a machine learning model to detect fraudulent activities in financial transactions. Utilize open-source tools like Python, scikit-learn, or Apache Flink. Consider datasets from platforms like Kaggle or the IEEE-CIS Fraud Detection dataset.
 
-### Natural Language Processing (NLP) for Customer Support:
+### Natural Language Processing (NLP) for Customer Support
 
 Problem Statement: Build an NLP model to automate customer support ticket categorization and routing. Use open-source NLP libraries like spaCy or NLTK and consider datasets from platforms like Zendesk or Kaggle.
 

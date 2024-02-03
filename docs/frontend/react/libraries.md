@@ -13,70 +13,39 @@ Underscore.js is a utility-belt library for JavaScript that provides support for
 
 ## Libraries
 
-https://github.com/facebook/create-react-app
-
-https://www.npmjs.com/package/uuid
+- https://github.com/facebook/create-react-app
+- https://www.npmjs.com/package/uuid
 
 ## Editors
 
-https://www.sanity.io/guides/top-5-rich-text-react-components
-
-https://www.npmjs.com/package/easymde
-
-https://www.npmjs.com/package/react-simplemde-editor
-
-https://www.npmjs.com/package/react-quill
-
-https://www.npmjs.com/package/summernote
-
-https://www.npmjs.com/package/react-scripts
-
-https://www.npmjs.com/package/react-notifications
-
-[**https://www.npmjs.com/package/dotenv**](https://www.npmjs.com/package/dotenv)
-
-https://www.npmjs.com/package/codemirror
-CodeMirror is a code editor component for the web. It can be used in websites to implement a text input field with support for many editing features, and has a rich programming interface to allow further extension.
-
-https://codemirror.net
-
-https://www.npmjs.com/package/compression
-
-https://www.npmjs.com/package/cookie-parser
-
-https://www.npmjs.com/package/jszip
-
-https://www.npmjs.com/package/mousetrap
-
-https://www.npmjs.com/package/process
-
-https://www.npmjs.com/package/history
-
-https://www.npmjs.com/package/react-responsive
-
-https://introjs.com
-
-https://www.npmjs.com/package/react-virtualized (instead use react-window)
-
-https://www.npmjs.com/package/react-window
-
-[**https://www.npmjs.com/package/dayjs**](https://www.npmjs.com/package/dayjs)
-
-https://date-fns.org
-
-date-fns provides the most comprehensive, yet simple and consistent toolset for manipulatingJavaScript datesinabrowser&Node.js.
-
-https://github.com/date-fns/date-fns
-
-https://github.com/react-dnd/react-dnd (Drag and Drop)
-
-https://github.com/formatjs/formatjs
-
-https://github.com/davidhu2000/react-spinners
-
-https://www.npmjs.com/package/react-contentful
-
-https://www.npmjs.com/package/contentful
+- https://www.sanity.io/guides/top-5-rich-text-react-components
+- https://www.npmjs.com/package/easymde
+- https://www.npmjs.com/package/react-simplemde-editor
+- https://www.npmjs.com/package/react-quill
+- https://www.npmjs.com/package/summernote
+- https://www.npmjs.com/package/react-scripts
+- https://www.npmjs.com/package/react-notifications
+- [**https://www.npmjs.com/package/dotenv**](https://www.npmjs.com/package/dotenv)
+- https://www.npmjs.com/package/codemirror - CodeMirror is a code editor component for the web. It can be used in websites to implement a text input field with support for many editing features, and has a rich programming interface to allow further extension.
+- https://codemirror.net
+- https://www.npmjs.com/package/compression
+- https://www.npmjs.com/package/cookie-parser
+- https://www.npmjs.com/package/jszip
+- https://www.npmjs.com/package/mousetrap
+- https://www.npmjs.com/package/process
+- https://www.npmjs.com/package/history
+- https://www.npmjs.com/package/react-responsive
+- https://introjs.com
+- https://www.npmjs.com/package/react-virtualized (instead use react-window)
+- https://www.npmjs.com/package/react-window
+- [**https://www.npmjs.com/package/dayjs**](https://www.npmjs.com/package/dayjs)
+- https://date-fns.org - date-fns provides the most comprehensive, yet simple and consistent toolset for manipulatingJavaScript dates in a browser & Node.js.
+- https://github.com/date-fns/date-fns
+- https://github.com/react-dnd/react-dnd (Drag and Drop)
+- https://github.com/formatjs/formatjs
+- https://github.com/davidhu2000/react-spinners
+- https://www.npmjs.com/package/react-contentful
+- https://www.npmjs.com/package/contentful
 
 ## Select2
 
@@ -92,15 +61,11 @@ Modernizr(js library for feature detection)
 
 ## Forms
 
-[**https://github.com/formium/formik**](https://github.com/formium/formik)
-
-[**https://github.com/react-hook-form/react-hook-form**](https://github.com/react-hook-form/react-hook-form)
-
-https://github.com/final-form/react-final-form
-
-https://github.com/redux-form/redux-form
-
-https://engineering.udacity.com/mastering-the-art-of-forms-in-react-1bd65fb664d7
+- [**https://github.com/formium/formik**](https://github.com/formium/formik)
+- [**https://github.com/react-hook-form/react-hook-form**](https://github.com/react-hook-form/react-hook-form)
+- https://github.com/final-form/react-final-form
+- https://github.com/redux-form/redux-form
+- https://engineering.udacity.com/mastering-the-art-of-forms-in-react-1bd65fb664d7
 
 ## react-query
 
@@ -154,13 +119,10 @@ https://reactjs.org/docs/testing.html
 
 End-to-end testing
 
-https://www.cypress.io/how-it-works
-
-https://www.cypress.io
-
-https://github.com/enzymejs/enzyme
-
-[Learn End-to-End Testing with Cypress for JavaScript Applications](https://www.freecodecamp.org/news/mastering-end-to-end-testing-with-cypress-for-javascript-applications/)
+- https://www.cypress.io/how-it-works
+- https://www.cypress.io
+- https://github.com/enzymejs/enzyme
+- [Learn End-to-End Testing with Cypress for JavaScript Applications](https://www.freecodecamp.org/news/mastering-end-to-end-testing-with-cypress-for-javascript-applications/)
 
 ## classnames
 

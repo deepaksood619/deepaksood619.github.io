@@ -20,21 +20,21 @@ https://en.wikipedia.org/wiki/Fibre_Channel
 
 ## Storage Area Network (SAN)
 
-The SAN is a dedicated network that enables multiple servers to access data from one or more storage devices.[Enterprise storage](https://en.wikipedia.org/wiki/Enterprise_storage) uses the SAN to backup to secondary storage devices including disk arrays, tape libraries, and other backup while the storage is still accessible to the server. Servers may access storage from multiple storage devices over the network as well.
+The SAN is a dedicated network that enables multiple servers to access data from one or more storage devices. [Enterprise storage](https://en.wikipedia.org/wiki/Enterprise_storage) uses the SAN to backup to secondary storage devices including disk arrays, tape libraries, and other backup while the storage is still accessible to the server. Servers may access storage from multiple storage devices over the network as well.
 
 SANs are often designed with dual fabrics to increase fault tolerance. Two completely separate fabrics are operational and if the primary fabric fails, then the second fabric becomes the primary.
 
-A **storage area network(SAN) orstorage network**is a [Computer network](https://en.wikipedia.org/wiki/Computer_network) which provides access to consolidated, [block-level data storage](https://en.wikipedia.org/wiki/Block_device). SANs are primarily used to enhance accessibility of storage devices, such as [disk arrays](https://en.wikipedia.org/wiki/Disk_array) and [tape libraries](https://en.wikipedia.org/wiki/Tape_library), to [servers](https://en.wikipedia.org/wiki/Server_(computing)) so that the devices appear to the [operating system](https://en.wikipedia.org/wiki/Operating_system) as [locally-attached devices](https://en.wikipedia.org/wiki/Direct-attached_storage). A SAN typically is a dedicated network of storage devices not accessible through the [local area network](https://en.wikipedia.org/wiki/Local_area_network)(LAN) by other devices, thereby preventing interference of LAN traffic in data transfer.
+A **storage area network(SAN) or storage network** is a [Computer network](https://en.wikipedia.org/wiki/Computer_network) which provides access to consolidated, [block-level data storage](https://en.wikipedia.org/wiki/Block_device). SANs are primarily used to enhance accessibility of storage devices, such as [disk arrays](https://en.wikipedia.org/wiki/Disk_array) and [tape libraries](https://en.wikipedia.org/wiki/Tape_library), to [servers](https://en.wikipedia.org/wiki/Server_(computing)) so that the devices appear to the [operating system](https://en.wikipedia.org/wiki/Operating_system) as [locally-attached devices](https://en.wikipedia.org/wiki/Direct-attached_storage). A SAN typically is a dedicated network of storage devices not accessible through the [local area network](https://en.wikipedia.org/wiki/Local_area_network)(LAN) by other devices, thereby preventing interference of LAN traffic in data transfer.
 
 https://en.wikipedia.org/wiki/Storage_area_network
 
 ## DHCP
 
-The **Dynamic Host Configuration Protocol(DHCP)** is a [network management protocol](https://en.wikipedia.org/wiki/Network_protocol) used on [UDP/IP](https://en.wikipedia.org/wiki/UDP/IP) networks whereby a DHCP server dynamically assigns an [IP address](https://en.wikipedia.org/wiki/IP_address) and other network configuration parameters to each device on a network so they can communicate with other IP networks.A DHCP server enables computers to request IP addresses and networking parameters automatically from the [Internet service provider](https://en.wikipedia.org/wiki/Internet_service_provider)(ISP), reducing the need for a [network administrator](https://en.wikipedia.org/wiki/Network_administrator) or a user to manually assign IP addresses to all network devices.In the absence of a DHCP server, a computer or other device on the network needs to be manually assigned an IP address, or to assign itself an [APIPA](https://en.wikipedia.org/wiki/APIPA) address, which will not enable it to communicate outside its local subnet.
+The **Dynamic Host Configuration Protocol (DHCP)** is a [network management protocol](https://en.wikipedia.org/wiki/Network_protocol) used on [UDP/IP](https://en.wikipedia.org/wiki/UDP/IP) networks whereby a DHCP server dynamically assigns an [IP address](https://en.wikipedia.org/wiki/IP_address) and other network configuration parameters to each device on a network so they can communicate with other IP networks.A DHCP server enables computers to request IP addresses and networking parameters automatically from the [Internet service provider](https://en.wikipedia.org/wiki/Internet_service_provider)(ISP), reducing the need for a [network administrator](https://en.wikipedia.org/wiki/Network_administrator) or a user to manually assign IP addresses to all network devices.In the absence of a DHCP server, a computer or other device on the network needs to be manually assigned an IP address, or to assign itself an [APIPA](https://en.wikipedia.org/wiki/APIPA) address, which will not enable it to communicate outside its local subnet.
 
 DHCP can be implemented on networks ranging in size from [home networks](https://en.wikipedia.org/wiki/Home_network) to large [campus networks](https://en.wikipedia.org/wiki/Campus_network) and regional [Internet service provider](https://en.wikipedia.org/wiki/Internet_service_provider) networks.A [router](https://en.wikipedia.org/wiki/Router_(computing)) or a [residential gateway](https://en.wikipedia.org/wiki/Residential_gateway) can be enabled to act as a DHCP server. Most residential network routers receive a globally unique IP address within the ISP network. Within a local network, a DHCP server assigns a local IP address to each device connected to the network.
 
-## Operation
+### Operation
 
 The DHCP employs a [connectionless](https://en.wikipedia.org/wiki/Connectionless_communication) service model, using the [User Datagram Protocol](https://en.wikipedia.org/wiki/User_Datagram_Protocol)(UDP). It is implemented with two UDP port numbers for its operations which are the same as for the bootstrap protocol ([BOOTP](https://en.wikipedia.org/wiki/BOOTP)). UDP port number 67 is the destination port of a server, and UDP port number 68 is used by the client.
 
@@ -42,7 +42,7 @@ https://en.wikipedia.org/wiki/Dynamic_Host_Configuration_Protocol
 
 ## Server Message Block (SMB)
 
-In [computer networking](https://en.wikipedia.org/wiki/Computer_network), **Server Message Block(SMB**), one version of which was also known as **Common Internet File System(CIFS**) operates as an [application-layer](https://en.wikipedia.org/wiki/Application_layer) or [presentation-layer](https://en.wikipedia.org/wiki/Presentation_layer)(network protocol) mainly used for providing [shared access](https://en.wikipedia.org/wiki/Shared_access) to [files](https://en.wikipedia.org/wiki/Computer_file), [printers](https://en.wikipedia.org/wiki/Computer_printer), and [serial ports](https://en.wikipedia.org/wiki/Serial_port) and miscellaneous communications between nodes on a network. It also provides an authenticated [inter-process communication](https://en.wikipedia.org/wiki/Inter-process_communication) mechanism. Most usage of SMB involves computers running [Microsoft Windows](https://en.wikipedia.org/wiki/Microsoft_Windows), where it was known as "Microsoft Windows Network" before the introduction of [Active Directory](https://en.wikipedia.org/wiki/Active_Directory). Corresponding [Windows services](https://en.wikipedia.org/wiki/Windows_service) are LAN Manager Server (for the server component) and LAN Manager Workstation (for the client component).
+In [computer networking](https://en.wikipedia.org/wiki/Computer_network), **Server Message Block (SMB**), one version of which was also known as **Common Internet File System (CIFS**) operates as an [application-layer](https://en.wikipedia.org/wiki/Application_layer) or [presentation-layer](https://en.wikipedia.org/wiki/Presentation_layer)(network protocol) mainly used for providing [shared access](https://en.wikipedia.org/wiki/Shared_access) to [files](https://en.wikipedia.org/wiki/Computer_file), [printers](https://en.wikipedia.org/wiki/Computer_printer), and [serial ports](https://en.wikipedia.org/wiki/Serial_port) and miscellaneous communications between nodes on a network. It also provides an authenticated [inter-process communication](https://en.wikipedia.org/wiki/Inter-process_communication) mechanism. Most usage of SMB involves computers running [Microsoft Windows](https://en.wikipedia.org/wiki/Microsoft_Windows), where it was known as "Microsoft Windows Network" before the introduction of [Active Directory](https://en.wikipedia.org/wiki/Active_Directory). Corresponding [Windows services](https://en.wikipedia.org/wiki/Windows_service) are LAN Manager Server (for the server component) and LAN Manager Workstation (for the client component).
 
 https://en.wikipedia.org/wiki/Server_Message_Block
 
@@ -74,7 +74,7 @@ https://en.wikipedia.org/wiki/Lightweight_Directory_Access_Protocol
 
 ## ModBus
 
-- Serial Communication Protocol
+Serial Communication Protocol
 
 Modbus has become a [*de facto*](https://en.wikipedia.org/wiki/De_facto)[standard](https://en.wikipedia.org/wiki/Standardization) communication protocol and is now a commonly available means of connecting industrial [electronic](https://en.wikipedia.org/wiki/Electronics) devices.The main reasons for the use of Modbus in the industrial environment are:
 
@@ -89,7 +89,7 @@ Modbus enables communication among many devices connected to the same network, f
 
 BACnet Protocol (Building Automation and Control networks)
 
-## Libraries
+### Libraries
 
 https://github.com/ljean/modbus-tk
 
@@ -103,7 +103,7 @@ http://zenoh.io
 
 ## OPC Unified Architecture (OPC UA)
 
-OPC Unified Architecture(OPC UA) is a [machine to machine](https://en.wikipedia.org/wiki/Machine_to_machine)[communication protocol](https://en.wikipedia.org/wiki/Communication_protocol) for [industrial automation](https://en.wikipedia.org/wiki/Industrial_automation) developed by the [OPC Foundation](https://en.wikipedia.org/wiki/OPC_Foundation). Distinguishing characteristics are:
+OPC Unified Architecture (OPC UA) is a [machine to machine](https://en.wikipedia.org/wiki/Machine_to_machine)[communication protocol](https://en.wikipedia.org/wiki/Communication_protocol) for [industrial automation](https://en.wikipedia.org/wiki/Industrial_automation) developed by the [OPC Foundation](https://en.wikipedia.org/wiki/OPC_Foundation). Distinguishing characteristics are:
 
 - Focus on communicating with industrial equipment and systems for data collection and control
 - [Open](https://en.wikipedia.org/wiki/Open_standard)- freely available and implementable under GPL 2.0 license

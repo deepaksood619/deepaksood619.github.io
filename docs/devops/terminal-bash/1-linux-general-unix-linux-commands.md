@@ -26,8 +26,13 @@ chmod 400 devec2.pem
 ssh -i devec2.pem ec2-user@18.237.184.186
 
 ssh ubuntu@energy.zenatix.com (simple ssh)
+
 ssh -L 8889:localhost:8888 ubuntu@bepemis.zenatix.com (port forwarding from server to local)
+
+ssh -L 27017:localhost:27017 -i strawhat-core-key ubuntu@3.108.70.26
+
 ssh -i private.pem ubuntu@energy.zenatix.com (using key)
+
 ssh -i id_rsa ubuntu@openvpn.zenatix.com
 
 # Other

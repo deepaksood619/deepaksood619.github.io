@@ -17,15 +17,15 @@
 - Exploration vs Exploitation tradeoff
 - Epsilon Greedy
 
-epsilonis the fraction of times we sample a lever randomly and1- epsilonis the fraction of times we choose optimally.
+epsilon is the fraction of times we sample a lever randomly and1- epsilonis the fraction of times we choose optimally.
 
-- Thompson Sampling
+### Thompson Sampling
 
 The basic idea is toassume a simple prior distributionon the underlying parameters of the reward distribution of every lever, and at every time step, play a lever according to itsposterior probabilityof being the best arm.
 
-- **Multi-armed bandit problem**
+### Multi-armed bandit problem
 
-In [probability theory](https://en.wikipedia.org/wiki/Probability_theory), the**multi-armed bandit problem**(sometimes called the***K*-or*N*-armed bandit problem**) is a problem in which a fixed limited set of resources must be allocated between competing (alternative) choices in a way that maximizes their expected gain, when each choice's properties are only partially known at the time of allocation, and may become better understood as time passes or by allocating resources to the choice.
+In [probability theory](https://en.wikipedia.org/wiki/Probability_theory), the **multi-armed bandit problem**(sometimes called the ***K*- or *N*-armed bandit problem**) is a problem in which a fixed limited set of resources must be allocated between competing (alternative) choices in a way that maximizes their expected gain, when each choice's properties are only partially known at the time of allocation, and may become better understood as time passes or by allocating resources to the choice.
 
 The name comes from imagining a [gambler](https://en.wikipedia.org/wiki/Gambler) at a row of [slot machines](https://en.wikipedia.org/wiki/Slot_machines)(sometimes known as "one-armed bandits"), who has to decide which machines to play, how many times to play each machine and in which order to play them, and whether to continue with the current machine or try a different machine.The multi-armed bandit problem also falls into the broad category of [stochastic scheduling](https://en.wikipedia.org/wiki/Stochastic_scheduling).
 
@@ -84,26 +84,26 @@ Learn a problem when not all the components are available. In model free learnin
 
 There are two different types of MC.
 
-## First-visit MC:average returns only for first time s is visited in an episode
+### First-visit MC: average returns only for first time s is visited in an episode
 
 - Incremental Mean
 
-## Every-Visit MC:average returns for every time s is visited in an episode
+### Every-Visit MC: average returns for every time s is visited in an episode
 
 Both converge asymptotically.
 
 Monte Carlo methods for control task (Policy iteration is the base of control task)
 
-Inmodel-free RL, we need to interact with the environment to find out the best strategy so we need to explore the entire the state space while figuring out best actions.
+In model-free RL, we need to interact with the environment to find out the best strategy so we need to explore the entire the state space while figuring out best actions.
 
 - Exploration:is about finding more information about the environment. In other words exploring a lot of states and actions in the environment.
 - Exploitation:is about exploiting the known information to maximize the reward.
 
-Example for exploration vs exploitation (in context of Roomba, floor cleaning robot) - When the state is in charged up mode It needs to cover maximum area in a grid world for cleaning which falls under exploration. When the state of the machine changes to low batteryitneeds to find the charging dock as soon as possible to avoid getting stuck here the robot needs to exploit rather than explore to maximize the reward.So due to the exploration problem, we cannot expect Roomba to act greedily in MC to improve policy instead we use the epsilon-greedy policy.
+Example for exploration vs exploitation (in context of Roomba, floor cleaning robot) - When the state is in charged up mode It needs to cover maximum area in a grid world for cleaning which falls under exploration. When the state of the machine changes to low battery it needs to find the charging dock as soon as possible to avoid getting stuck here the robot needs to exploit rather than explore to maximize the reward.So due to the exploration problem, we cannot expect Roomba to act greedily in MC to improve policy instead we use the epsilon-greedy policy.
 
 ## Epsilon-greedy policy
 
-Thebest-knownaction based on our experience is selected with (1-epsilon) probability and the rest of the time i.e. with epsilon probability any action is selected randomly. Initially, epsilon is 1 so we can explore more but as we do many iterations we slowly decrease the epsilon to 0( whichis exploitation → choosing the best-known action) this get us to have the value of epsilonbetween 0 and 1.
+The best-known action based on our experience is selected with (1-epsilon) probability and the rest of the time i.e. with epsilon probability any action is selected randomly. Initially, epsilon is 1 so we can explore more but as we do many iterations we slowly decrease the epsilon to 0( which is exploitation → choosing the best-known action) this get us to have the value of epsilon between 0 and 1.
 
 ## GLIE Monte Carlo Method (Greedy in the Limit of Infinite Exploration)
 
@@ -115,9 +115,9 @@ For each episode, we can update our estimated value function using an incrementa
 
 Q(St,At) ← Q(St,At) + (1 / N(St,At)) (Gt--Q(St,At))
 
-Here,Gteither represents the return from timetwhen the agent first visited the state-action pair, or the sum of returns from each timetthat the agent visited the state-action pair, depending on whether you are using first-visit or every-visit Monte Carlo.
+Here, Gt either represents the return from time t when the agent first visited the state-action pair, or the sum of returns from each time t that the agent visited the state-action pair, depending on whether you are using first-visit or every-visit Monte Carlo.
 
-We'll adopt aϵ-greedy policy withϵ=1/kwherekrepresents the number of episodes our agent has learned from.
+We'll adopt a ϵ-greedy policy with ϵ=1/k where k represents the number of episodes our agent has learned from.
 
 ![image](../../media/3.-Monte-Carlo-Methods-image2.jpg)
 

@@ -93,20 +93,37 @@ Highly accurate intelligent search service powered by machine learning
 
 ## Mobile Services
 
-1. AWS Amplify
+1. AWS Mobile Hub - Build, Test, and Monitor Apps
+2. Amazon API Gateway - Build, Deploy, and Manage APIs
+3. Amazon Pinpoint - Push Notifications for Mobile Apps
+4. AWS AppSync - Real-time and Offline Mobile Data Apps
+5. AWS Device Farm - Test Android, FireOS, and iOS Apps on Real Devices in the Cloud
+6. AWS Mobile SDK - Mobile Software Development Kit
+7. AWS Location Service
+8. AR & VR - Amazon Sumerian - Build and Run VR and AR Applications
 
-   https://ui.docs.amplify.aws/?platform=react
+### AWS Amplify
 
-   https://docs.amplify.aws
+[Amplify UI - Build UI fast with Amplify on React](https://ui.docs.amplify.aws/?platform=react)
 
-2. AWS Mobile Hub - Build, Test, and Monitor Apps
-3. Amazon API Gateway - Build, Deploy, and Manage APIs
-4. Amazon Pinpoint - Push Notifications for Mobile Apps
-5. AWS AppSync - Real-time and Offline Mobile Data Apps
-6. AWS Device Farm - Test Android, FireOS, and iOS Apps on Real Devices in the Cloud
-7. AWS Mobile SDK - Mobile Software Development Kit
-8. AWS Location Service
-9. AR & VR - Amazon Sumerian - Build and Run VR and AR Applications
+[Amplify Documentation - AWS Amplify Documentation](https://docs.amplify.aws)
+
+To serve traffic, Amplify Hosting points to a CloudFront URL via a CNAME record. In the process of connecting an app to a custom domain, the Amplify console displays the CloudFront URL for the app. However, you cannot access your application directly using this CloudFront URL. It returns a 404 error. Your application resolves only using the Amplify app URL (for example, `https://main.d5udybEXAMPLE.amplifyapp.com`, or your custom domain (for example `www.example.com`).
+
+[Troubleshooting custom domains - AWS Amplify Hosting](https://docs.aws.amazon.com/amplify/latest/userguide/custom-domain-troubleshoot-guide.html)
+
+#### Build settings
+
+```bash
+frontend:
+  phases:
+    build:
+      commands:
+       - if [ "${AWS_BRANCH}" = "main" ]; then npm run build; fi
+    - if [ "${AWS_BRANCH}" = "dev" ]; then npm run dev; fi
+```
+
+[Configuring build settings - AWS Amplify Hosting](https://docs.aws.amazon.com/amplify/latest/userguide/build-settings.html)
 
 ## Application Integeration
 

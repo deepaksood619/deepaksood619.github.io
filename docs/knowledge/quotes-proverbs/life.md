@@ -4,6 +4,8 @@ It’s almost always about money.
 
 In is the only way out.
 
+Life is a sine curve.
+
 It's just an idea. It's not me.
 
 What a time to be alive.
