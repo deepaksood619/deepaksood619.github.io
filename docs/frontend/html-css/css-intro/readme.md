@@ -25,15 +25,15 @@ CSS is easy to learn and understand but it provides powerful control over the pr
 - Shadow DOM
 - **Cascading** (means you go down and down to rules until the most specific and then it gets applied)
 - **Specificity**
-  - Browser reads css rules from top to bottom, so if there are two equal css rules, the browser will apply which is last.
-  - 1st rule - More specific css rules apply over others
-  - Specificity - `<inline styles> <id> <class, attributes and pseudo-classes> <Elements and pseudo elements>`
+    - Browser reads css rules from top to bottom, so if there are two equal css rules, the browser will apply which is last.
+    - 1st rule - More specific css rules apply over others
+    - Specificity - `<inline styles> <id> <class, attributes and pseudo-classes> <Elements and pseudo elements>`
 - **CSS Modules -** Selectors, Box model, Backgrounds and Borders, Text Effects, Transformations
-  - **Imports -** merge all imports into one
-  - **Nesting -** Moduler code
-  - **Mixins -** reusable code, pass arguments, like js code
-  - **Functions -** Change color by passing arguments
-  - **Math -** like (color - 50)
+    - **Imports -** merge all imports into one
+    - **Nesting -** Moduler code
+    - **Mixins -** reusable code, pass arguments, like js code
+    - **Functions -** Change color by passing arguments
+    - **Math -** like (color - 50)
 - **CSS Flexbox** (it provides an efficient way to lay out, align and distribute space among items in a container or div)
 
 [**Learn Flexbox in 15 Minutes**](https://www.youtube.com/watch?v=fYq5PXgSsbE)

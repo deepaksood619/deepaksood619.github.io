@@ -24,12 +24,12 @@ A simple species classification problem
 ![image](../../media/Bayes-Classification-image1.jpg)
 
 - Decision Rule
-  - If length `L <= B`
-    - Hilsa
-  - Else
-    - Tuna
-  - What should be the value of B ("boundary" length)
-    - Based on population statistics
+    - If length `L <= B`
+        - Hilsa
+    - Else
+        - Tuna
+    - What should be the value of B ("boundary" length)
+        - Based on population statistics
 - Error of Decision Rule
 
 ![image](../../media/Bayes-Classification-image2.jpg)
@@ -45,17 +45,17 @@ Type 2: Actually Hilsa, Classified as Tuna (area under blue curve to the right o
 ![image](../../media/Bayes-Classification-image3.jpg)
 
 - Species Identification Problem
-  - Measure lengths of a (sizeable) population of Hilsa and Tuna fishes
-  - Estimate Class Conditional Distributions for Hilsa and Tuna classes respectively
-  - Find Optimal Decision Boundary B* from the distributions
-  - Apply Decision Rule to classify a newly caught (and measured) fish as either Hilsa or Tuna
-    - with minimum error probability
+    - Measure lengths of a (sizeable) population of Hilsa and Tuna fishes
+    - Estimate Class Conditional Distributions for Hilsa and Tuna classes respectively
+    - Find Optimal Decision Boundary B* from the distributions
+    - Apply Decision Rule to classify a newly caught (and measured) fish as either Hilsa or Tuna
+        - with minimum error probability
 - Location / Time of Experiment
-  - Calcutta in Monsoon
-    - More Hilsa few Tuna
-  - California in Winter
-    - More Tuna less Hilsa
-  - Even a 2ft fish is likely to be Hilsa in Calcutta a 1.5ft fish may be Tuna in California
+    - Calcutta in Monsoon
+        - More Hilsa few Tuna
+    - California in Winter
+        - More Tuna less Hilsa
+    - Even a 2ft fish is likely to be Hilsa in Calcutta a 1.5ft fish may be Tuna in California
 
 - If the distribution is biased, we can scale up the class conditional probability to make b* optimal.
 - We can do the scaling using Apriori Probability
@@ -63,14 +63,14 @@ Type 2: Actually Hilsa, Classified as Tuna (area under blue curve to the right o
 ## Apriori Probability
 
 - Without measuring lengh what can we guess about the class of a fish
-  - Depends on location / time of experiment
-    - Calcutta: Hilsa, California: Tuna
+    - Depends on location / time of experiment
+        - Calcutta: Hilsa, California: Tuna
 - Apriori probability: P(HILSA), P(TUNA)
-  - Property of the frequency of classes during experiment
-    - Not a property of length of the fish
-  - Calcutta: P(Hilsa) = 0.90, P(Tuna) = 0.10
-  - California: P(Tuna) = 0.95, P(Hilsa) = 0.05
-  - London: P(Tuna) = 0.50, P(Hilsa) = 0.50
+    - Property of the frequency of classes during experiment
+        - Not a property of length of the fish
+    - Calcutta: P(Hilsa) = 0.90, P(Tuna) = 0.10
+    - California: P(Tuna) = 0.95, P(Hilsa) = 0.05
+    - London: P(Tuna) = 0.50, P(Hilsa) = 0.50
 - Also a determining factor in class decision along with class conditional probability
 
 - We multiply the class conditional curve by the Apriori Probability
@@ -131,10 +131,10 @@ Type 2: Actually Hilsa, Classified as Tuna (area under blue curve to the right o
 ## Summary
 
 - **Advantages**
-  - Robust to isolated noise points
-  - Handle missing values by ignoring the instance during probability estimate calculations
-  - Robus to irrelevant attributes
+    - Robust to isolated noise points
+    - Handle missing values by ignoring the instance during probability estimate calculations
+    - Robus to irrelevant attributes
 - **Drawback**
-  - Independence assumption may not hold for some attributes
-    - Lenght and weight of a fish are not independent
-    - Conditional Independence
+    - Independence assumption may not hold for some attributes
+        - Lenght and weight of a fish are not independent
+        - Conditional Independence

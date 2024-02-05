@@ -46,10 +46,10 @@ BM25 and its newer variants, e.g. BM25F (a version of BM25 that can take documen
 
 - Inverted Index -> Term / Document
 - Embeddings
-  - Word / Phrase embeddings
-  - Sentence embeddings
-  - Paragraph embeddings
-  - Document embeddings
+    - Word / Phrase embeddings
+    - Sentence embeddings
+    - Paragraph embeddings
+    - Document embeddings
 
 ![image](../../media/Technologies-Elasticsearch-Information-Retrieval-image2.jpg)
 

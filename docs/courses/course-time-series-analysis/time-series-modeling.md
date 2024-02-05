@@ -343,9 +343,9 @@ s = Length of cycle
 - The magnitude of residuals
 - Low variance -> Stability -> Low risk -> Safety
 - Squaring values
-  - Solves the positive-negative conundrum
-  - Penalizes high differences between true values and predictions more
-  - Increases the importance of big unpredicted shocks
+    - Solves the positive-negative conundrum
+    - Penalizes high differences between true values and predictions more
+    - Increases the importance of big unpredicted shocks
 - Numeric measurements of uncertainity
 - For Volatility of returns we have models like **EGARCH**
 - What does volatility clustering mean?

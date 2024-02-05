@@ -97,7 +97,7 @@ The following three network concepts are important to swarm services:
 - **Overlay networks** manage communications among the Docker daemons participating in the swarm. You can create overlay networks, in the same way as user-defined networks for standalone containers. You can attach a service to one or more existing overlay networks as well, to enable service-to-service communication. Overlay networks are Docker networks that use theoverlaynetwork driver.
 - The**ingress network** is a special overlay network that facilitates load balancing among a service's nodes. When any swarm node receives a request on a published port, it hands that request off to a module calledIPVS.IPVSkeeps track of all the IP addresses participating in that service, selects one of them, and routes the request to it, over theingressnetwork.
     Theingressnetwork is created automatically when you initialize or join a swarm. Most users do not need to customize its configuration, but Docker 17.05 and higher allows you to do so.
-  - Only one ingress network is allowed
+    - Only one ingress network is allowed
 - The **docker_gwbridge** is a bridge network that connects the overlay networks (including theingressnetwork) to an individual Docker daemon's physical network. By default, each container a service is running is connected to its local Docker daemon host'sdocker_gwbridgenetwork.
     Thedocker_gwbridgenetwork is created automatically when you initialize or join a swarm. Most users do not need to customize its configuration, but Docker allows you to do so.
 

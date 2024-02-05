@@ -20,7 +20,7 @@ Highly personalized education for each person
 - Any number of students will be enrolled (no lottery / max cap in number of students)
 - You will be given a growth plan
 - Parents monitor children
-  - Get daily, weekly, monthly, yearly reports
+    - Get daily, weekly, monthly, yearly reports
 - AI chooses where the students interest lies and then advances him/her on that
 - Khan academy style where mix of video, questions, and implementation
 
@@ -78,9 +78,9 @@ https://www.notboring.co/p/primer-the-ambitious-home-for-ambitious
 ### Mandatory Subjects in School
 
 - Economics
-  - Taxes
-  - Insurance
-  - Personal finance
+    - Taxes
+    - Insurance
+    - Personal finance
 - Coding
 - Cooking
 - Basic home repair

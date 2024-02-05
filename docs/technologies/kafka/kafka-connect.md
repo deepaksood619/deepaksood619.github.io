@@ -3,12 +3,12 @@
 ## Kafka Connect (Definitive Guide)
 
 - Connectors and tasks
-  - Connectors
-    - Determining how many tasks will run for the connector
-    - Deciding how to split the data-copying work between the tasks
-    - Getting configurations for the tasks from the workers and passing it along
-  - Tasks
-    - Tasks are responsible for actually getting the data in and out of Kafka
+    - Connectors
+        - Determining how many tasks will run for the connector
+        - Deciding how to split the data-copying work between the tasks
+        - Getting configurations for the tasks from the workers and passing it along
+    - Tasks
+        - Tasks are responsible for actually getting the data in and out of Kafka
 - Workers
 
 Kafka Connect's worker processes are the "container' processes that execute the connectors and tasks
@@ -139,36 +139,36 @@ curl -s -X PUT -H "Content-Type:application/json" --data '{"connector.class": "c
 ### Configurations
 
 - Kafka Connect framework configurations
-  - name
-  - tasks.max (1)
+    - name
+    - tasks.max (1)
 
 - connector.class (com.datamountaineer.streamreactor.connect.mqtt.source.MqttSourceConnector)
 
 - Connector Configurations
-  - connect.mqtt.ksql
-  - connect.mqtt.hosts
+    - connect.mqtt.ksql
+    - connect.mqtt.hosts
 
 - Optional Configurations
 
-  - connect.mqtt.service.quality (default - 1)
+    - connect.mqtt.service.quality (default - 1)
 
-  - connect.mqtt.username
+    - connect.mqtt.username
 
-  - connect.mqtt.password
+    - connect.mqtt.password
 
-  - connect.mqtt.client.id
+    - connect.mqtt.client.id
 
-  - connect.mqtt.timeout (default - 3000ms)
+    - connect.mqtt.timeout (default - 3000ms)
 
-  - connect.mqtt.clean (default - true)
+    - connect.mqtt.clean (default - true)
 
-  - connect.mqtt.keep.alive (default - 5000)
+    - connect.mqtt.keep.alive (default - 5000)
 
-  - connect.mqtt.converter.throw.on.error (default - false)
+    - connect.mqtt.converter.throw.on.error (default - false)
 
-  - connect.converter.avro.schemas
+    - connect.converter.avro.schemas
 
-  - connect.progress.enabled
+    - connect.progress.enabled
 
 ### Commands
 

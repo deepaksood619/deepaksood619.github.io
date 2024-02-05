@@ -127,19 +127,19 @@ https://en.wikipedia.org/wiki/Mutual_authentication- We use TLS/SSL for two main
     2. Authentication
 
 - After you've established a TLS connection, what algorithm is used to encrypt the data?
-  - Symmetric cipher like AES
-  - RSA and ECDSA are slow, So instead the client and server pick a secret (and faster to use) symmetric key and use that to encrypt everything
+    - Symmetric cipher like AES
+    - RSA and ECDSA are slow, So instead the client and server pick a secret (and faster to use) symmetric key and use that to encrypt everything
 - Does every TLS server certificate have a hostname on it?
-  - Yes, the point of a certificate is to prove that a server is the "real" server for a hostname, so every certificate has a hostname on it
+    - Yes, the point of a certificate is to prove that a server is the "real" server for a hostname, so every certificate has a hostname on it
 - How does a browser check that your certificate is signed by someone it trusts?
-  - it has a hardcoded list
+    - it has a hardcoded list
 - Are TLS certificates secret?
-  - A TLS certificate contains
-    - A public key
-    - The hostname(s) it's valid for
-    - An expiration date
-    - Signature(s) for a CA
-  - The private key for the cert is Super Secret though
+    - A TLS certificate contains
+        - A public key
+        - The hostname(s) it's valid for
+        - An expiration date
+        - Signature(s) for a CA
+    - The private key for the cert is Super Secret though
 
 ## Two types of APIs
 

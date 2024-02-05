@@ -72,9 +72,9 @@ Publish device_hierarchy to consumers redis where druid_consumers get metadata f
 - publish_druid_metrics_csv - cronjob in notebook 0 */2* **
 - /home/ubuntu/sources/druid/get-data.sh 15 1-23/2 ** *
 - Kubernetes cron jobs (example namespace, example codebase)
-  - Livenotebook-commit - "15 20 ** *" + 5:30
-  - Upload-deployment-photos - "0 22 ** *" + 5:30
-  - Pgdump-postgres - "45 18 ** *" + 5:30
+    - Livenotebook-commit - "15 20 ** *" + 5:30
+    - Upload-deployment-photos - "0 22 ** *" + 5:30
+    - Pgdump-postgres - "45 18 ** *" + 5:30
 
 ### Time-Series Data
 

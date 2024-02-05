@@ -8,9 +8,9 @@
 - Designed for resource-contrained devices and low bandwidth, high latency networks such as dial up lines and satellite links (embedded systems)
 - publish-and-subscribe messaging (no queues)
 - 3 quality of services
-  - "at most once" - fire-and-forget / unreliable
-  - "at least once" to ensure it is sent a minimum of one time (but can be sent more than one time)
-  - "exactly once"
+    - "at most once" - fire-and-forget / unreliable
+    - "at least once" to ensure it is sent a minimum of one time (but can be sent more than one time)
+    - "exactly once"
 - ideal for machine-to-machine (M2M) or Internet of Things and for mobile applications
 - Persistent Sessions and Queuing messages
 - Retained Messages

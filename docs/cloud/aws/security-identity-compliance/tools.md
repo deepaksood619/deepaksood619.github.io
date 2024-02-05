@@ -103,3 +103,27 @@ Scanners (what Trivy can find there):
 [GitHub - aquasecurity/trivy: Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more](https://github.com/aquasecurity/trivy)
 
 [Trivy Home - Trivy](https://trivy.dev/)
+
+## Terrascan
+
+Detect compliance and security violations across Infrastructure as Code (IaC) to mitigate risk before provisioning cloud native infrastructure.
+
+Policy as Code for Secure Cloud Infrastructure
+
+As you embrace Infrastructure as Code (IaC) such as [Terraform](https://www.terraform.io/), [Kubernetes](https://kubernetes.io/), [Argo CD](https://argo-cd.readthedocs.io/en/stable/), [Atlantis](https://www.runatlantis.io/) and AWS CloudFormation, it is important to ensure that security best practices and compliance requirements are observed. Terrascan provides 500+ out-of-the-box policies so that you can scan IaC against common policy standards such as the CIS Benchmark. It leverages the [Open Policy Agent](https://www.openpolicyagent.org/) (OPA) engine so that you can easily create custom policies using the Rego query language.
+
+[runterrascan.io](https://runterrascan.io/)
+
+[GitHub - tenable/terrascan: Detect compliance and security violations across Infrastructure as Code to mitigate risk before provisioning cloud native infrastructure.](https://github.com/tenable/terrascan)
+
+[What is Terrascan: Benefits, Key Features, and Examples | env0](https://www.env0.com/blog/best-iac-scan-tools-what-is-terrascan)
+
+[What is Terrascan? Features, Use Cases & Custom Policies](https://spacelift.io/blog/what-is-terrascan)
+
+## Gitleaks
+
+Gitleaks is a SAST tool for **detecting** and **preventing** hardcoded secrets like passwords, api keys, and tokens in git repos. Gitleaks is an **easy-to-use, all-in-one solution** for detecting secrets, past or present, in your code.
+
+[Gitleaks](https://gitleaks.io/)
+
+[GitHub - gitleaks/gitleaks: Protect and discover secrets using Gitleaks 🔑](https://github.com/gitleaks/gitleaks)

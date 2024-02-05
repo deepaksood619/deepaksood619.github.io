@@ -12,14 +12,14 @@
   Used by convention to avoid naming conflicts with Python keywords
 
 - Double Leading Underscore: __var
-  - name mangling - the interpreter changes the name of the variable in a way that makes it harder to create collisions when the class is extended later
-  - Enforced by the Python interpreter
+    - name mangling - the interpreter changes the name of the variable in a way that makes it harder to create collisions when the class is extended later
+    - Enforced by the Python interpreter
 - Double Leading and Trailing Underscore: **var**
-  - Called as dunder
-  - Used internally by Python, not recommended to use for user-defined functions
+    - Called as dunder
+    - Used internally by Python, not recommended to use for user-defined functions
 - Single Underscore: _
-  - Temporary or insignificant
-  - The result of the last expression in a Python REPL
+    - Temporary or insignificant
+    - The result of the last expression in a Python REPL
 
 3. **Assertions**
      - Python's assert statement is a debugging aid that tests a condition as an internal self-check in your program.

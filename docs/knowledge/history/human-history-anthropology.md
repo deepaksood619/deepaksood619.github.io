@@ -7,12 +7,12 @@
 - 6-7 million years ago relationship with apes ended
 - 2.8 million years ago genus of Homo emerged
 - 2 million years ago fire discovered
-  - Fire started cooking; which turned food more nutritious; which helped develop our brains
+    - Fire started cooking; which turned food more nutritious; which helped develop our brains
 - 300,000 years ago, species lived in small hunters gatherers society; and spoke to each other
 - Homo sapiens sapiens 200,000 years ago (6 species of Homo was around that time)
-  - Homo erectus survived for 2 million years
-  - Last of other species disappeared around 10,000 years ago
-  - Modern human have some neaderthal's DNA, so there was some mixing
+    - Homo erectus survived for 2 million years
+    - Last of other species disappeared around 10,000 years ago
+    - Modern human have some neaderthal's DNA, so there was some mixing
 - 70,000 years ago only humans got some abstract thinking capabilities to survive in today's generation
 - **60,000 years ago first time humans moved out of Africa**
 - 50,000 years ago there was explosion in innovation; tools and weapons became more sophisticated and culture became more complex; communication improved and in turn cooperation improved in large groups
@@ -37,6 +37,17 @@
 |**WWII**|1922 – 1927|97 – 102|
 
 [Age Range by Generation - Beresford Research](https://www.beresfordresearch.com/age-range-by-generation/)
+
+[Every Birth Generation Explained in 9 Minutes - YouTube](https://www.youtube.com/watch?v=ruKJpwlRe_M&ab_channel=PaintGuy)
+
+- Lost Generation
+- Greatest Generation
+- Silent Generation
+- Baby Boomers
+- Generation X
+- Millennials
+- Zoomers
+- Generation Alpha
 
 ## Earth History
 

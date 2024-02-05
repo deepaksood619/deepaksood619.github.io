@@ -4,10 +4,10 @@
 
 - Collection of data objects and their attributes
 - An attribute is a property or characteristic of an object
-  - Examples: eye color of a person, temperature, etc
-  - Attribute is also known as variable, field, characteristic, or feature
+    - Examples: eye color of a person, temperature, etc
+    - Attribute is also known as variable, field, characteristic, or feature
 - A collection of attributes describe an object
-  - Object is also known as record, point, case, sample, entity, or instance
+    - Object is also known as record, point, case, sample, entity, or instance
 
 ![image](../../../media/Data-image1.jpg)
 

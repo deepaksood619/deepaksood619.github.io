@@ -8,9 +8,9 @@
 
 - Early Stopping
 - Parameter Norm Penalties
-  - L1 regularization
-  - L2 regularization
-  - Max-norm regularization
+    - L1 regularization
+    - L2 regularization
+    - Max-norm regularization
 - Dataset Augmentation
 - Noise Robustness
 - Sparse Representations

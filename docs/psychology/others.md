@@ -5,8 +5,8 @@
 Classical conditioning (also known as **Pavlovian** or **respondent conditioning**) refers to a [learning](https://en.wikipedia.org/wiki/Learning) procedure in which a biologically potent [stimulus](https://en.wikipedia.org/wiki/Stimulus_(physiology))(e.g. food) is paired with a previously neutral stimulus (e.g. a bell). It also refers to the learning process that results from this pairing, through which the neutral stimulus comes to elicit a response (e.g. salivation) that is usually similar to the one elicited by the potent stimulus
 
 - Forward conditioning
-  - Delay conditioning
-  - Trace conditioning
+    - Delay conditioning
+    - Trace conditioning
 - Simultaneous conditioning
 - Second-order and higher-order conditioning
 - Backward conditioning

@@ -35,10 +35,10 @@
 - Code quality and writing test cases
 - Share Tech Documents folder Google Drive
 - Credentials
-  - Keycloak
-  - Databases
-  - AWS
-  - VPN
+    - Keycloak
+    - Databases
+    - AWS
+    - VPN
 
 #### 2nd Week Start
 

@@ -10,9 +10,9 @@ Specifically for matrix operations
 
 - A CPU is a scalar machine, which means it processes instructions one step at a time.
 - A GPU is composed of hundreds of cores that can handle thousands of threads simultaneously.
-  - Thats because GPUs were designed for 3d game rendering, which often involves parallel operations -The ability of a GPU with 100+ cores to process thousands of threads can accelerate some software by 100x over a CPU alone.
-  - What's more, the GPU achieves this acceleration while being more power- and cost-efficient than a CPU.
-  - So when neural networks run on GPUs, they run much faster than on CPUs
+    - Thats because GPUs were designed for 3d game rendering, which often involves parallel operations -The ability of a GPU with 100+ cores to process thousands of threads can accelerate some software by 100x over a CPU alone.
+    - What's more, the GPU achieves this acceleration while being more power- and cost-efficient than a CPU.
+    - So when neural networks run on GPUs, they run much faster than on CPUs
 - ![image](../../media/CPU-GPU-TPU-image1.jpg)
 - A GPU is a vector machine. You can give it a long list of data - a 1D vector - and run computations on the entire list at the same time.
 - This way, we can perform more computations per second, but we have to perform the same computation on a vector of data in parallel.

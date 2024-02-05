@@ -3,14 +3,14 @@
 ## Dimensionality Reduction
 
 - Purpose
-  - Avoid curse of dimensionality
-  - Reduce amount of time and memory required by data mining algorithms
-  - Allow data to be more easily visualized
-  - May help to eliminate irrelevant features or reduce noise
+    - Avoid curse of dimensionality
+    - Reduce amount of time and memory required by data mining algorithms
+    - Allow data to be more easily visualized
+    - May help to eliminate irrelevant features or reduce noise
 - Techniques
-  - Principle Component Analysis
-  - Singular Value Decomposition
-  - Others: supervised and non-linear techniques
+    - Principle Component Analysis
+    - Singular Value Decomposition
+    - Others: supervised and non-linear techniques
 
 ## Data Dimensionaity
 
@@ -26,14 +26,14 @@
 ## Dimensionality Reduction
 
 - Purpose
-  - Avoid curse of dimensionality
-  - Reduce amount of time and memory required by data mining algorithms
-  - Allow data to be more easily visualized
-  - May help to eliminate irrelevant features or reduce noise
+    - Avoid curse of dimensionality
+    - Reduce amount of time and memory required by data mining algorithms
+    - Allow data to be more easily visualized
+    - May help to eliminate irrelevant features or reduce noise
 - Techniques
-  - Principle Component Analysis
-  - Single Value Decomposition
-  - Others: Supervised and non-linear techniques
+    - Principle Component Analysis
+    - Single Value Decomposition
+    - Others: Supervised and non-linear techniques
 
 ![image](../../media/Dimensionality-Reduction-image1.jpg)
 
@@ -65,11 +65,11 @@ https://www.datacamp.com/community/tutorials/principal-component-analysis-in-pyt
 
 - Another way to reduce dimensionality of data
 - Redundant features
-  - duplicate much or all of the information contained in one or more other attributes
-  - Example: purchase price of a product and the amount of sales tax paid
+    - duplicate much or all of the information contained in one or more other attributes
+    - Example: purchase price of a product and the amount of sales tax paid
 - Irrelevant features
-  - contain no information that is useful for the data mining task at hand
-  - Examples: students' ID is often irrelevant to the task of predicting students' GPA
+    - contain no information that is useful for the data mining task at hand
+    - Examples: students' ID is often irrelevant to the task of predicting students' GPA
 
 - Evaluate a subset of feature
 - Search for the best subset
@@ -96,9 +96,9 @@ Use the data mining algorithm as a black box to find best subset of attributes
 
 - Create new attributes that can capture the important information in a data set much more efficiently than the original attributes
 - Three general methodologies
-  - Feature Extraction - domain-specific
-  - Mapping data to new space
-  - Feature construction - combining features
+    - Feature Extraction - domain-specific
+    - Mapping data to new space
+    - Feature construction - combining features
 
 ## Links
 

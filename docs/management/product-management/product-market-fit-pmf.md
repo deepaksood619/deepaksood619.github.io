@@ -19,8 +19,8 @@ A go-to-market (GTM) strategy is a step-by-step plan for launching a new product
 
 - What product are you selling, and what unique problem does it solve?
 - Who is your ideal customer, and what pain points do they experience?
-  - **Ideal customer profile (ICP)**
-  - **Buyer personas**
+    - **Ideal customer profile (ICP)**
+    - **Buyer personas**
 - Where will you sell your product? What markets do you want to pursue, and what does the demand and competition look like in those markets?
 - How will you reach your target customers and create demand?
 
@@ -40,20 +40,20 @@ https://asana.com/resources/go-to-market-gtm-strategy
 ### 5C Framework
 
 - Competition
-  - How competitive is the industry?
-  - Too many/few players?
-  - Any unfair advantages others have that we don't
+    - How competitive is the industry?
+    - Too many/few players?
+    - Any unfair advantages others have that we don't
 - Customers (Synergies)
-  - Existing customers
-  - Future customers in new market
+    - Existing customers
+    - Future customers in new market
 - Company
-  - Do we have what it takes from a skillset standpoint?
-    - Strengths
-    - Weaknesses
+    - Do we have what it takes from a skillset standpoint?
+        - Strengths
+        - Weaknesses
 - Collaborators
-  - Do we need to partner with anyone to enter this market?
+    - Do we need to partner with anyone to enter this market?
 - Climate
-  - Political / Economic / Regulatory
+    - Political / Economic / Regulatory
 
 Where & How to enter?
 
@@ -66,28 +66,28 @@ Where & How to enter?
 
 - Pricing is not just a number (it can make or break your product)
 - Analysis
-  - What is the product?
-  - Who is the customer?
-  - What is the problem?
-  - What is the company?
+    - What is the product?
+    - Who is the customer?
+    - What is the problem?
+    - What is the company?
 - Business
-  - Goal
-  - Market (Competition)
-  - Brand
-  - Willingness to pay (alternatives)
-  - Cost (manufacturing)
+    - Goal
+    - Market (Competition)
+    - Brand
+    - Willingness to pay (alternatives)
+    - Cost (manufacturing)
 - Strategies
-  - Price Skimming
-    - Initially charge the highest price customers will pay and gradually reduce the price
-    - Works when technology is new
-    - There is little to no competition
-    - Goal: Gather as much revenue as possible until demand is high
-  - Market penetration
-    - Price really low at the start to beat competition, and then graudually increase price
-  - Premium pricing
-    - Price really high for aspirational products
-  - Bundled pricing
-    - Combine high & low value products & price the bundle lower than the combined price of each of the products taken individually
-  - Freemium
-    - Offer a basic version for free, and a paid upgraded version (ex - SAAS products)
+    - Price Skimming
+        - Initially charge the highest price customers will pay and gradually reduce the price
+        - Works when technology is new
+        - There is little to no competition
+        - Goal: Gather as much revenue as possible until demand is high
+    - Market penetration
+        - Price really low at the start to beat competition, and then graudually increase price
+    - Premium pricing
+        - Price really high for aspirational products
+    - Bundled pricing
+        - Combine high & low value products & price the bundle lower than the combined price of each of the products taken individually
+    - Freemium
+        - Offer a basic version for free, and a paid upgraded version (ex - SAAS products)
 - Frequency of payment (Annual / Monthly)

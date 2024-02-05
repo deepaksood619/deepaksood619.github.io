@@ -7,8 +7,8 @@ https://www.freecodecamp.org/news/how-to-build-an-ai-chatbot-with-redis-python-a
 Open source machine learning tools for developers to build, improve, and deploy text-and voice-based chatbots and assistants
 
 - The core of building a Rasa assistant is **providing examples that your system learns from**
-  - How do people say things?
-  - How do conversations go?
+    - How do people say things?
+    - How do conversations go?
 
 ## Types of chatbot
 
@@ -73,13 +73,13 @@ Both 1 and 2 is recommended to use in tandem
 How to make sure conversations work (and improve over time)
 
 - The Rasa approach is
-  - Flexible, every conversation might be unique
-  - Works better the more high-quality training data you have
+    - Flexible, every conversation might be unique
+    - Works better the more high-quality training data you have
 - How do you make sure conversations work?
-  - Manually reviewing and annotating conversations
+    - Manually reviewing and annotating conversations
 - How do you make sure conversations improve over time?
-  - Correct any errors your assistant made in a conversation, then add it to the training data, retrain and redeploy
-  - A Rasa conversational AI ystem itsn't static, It changes and adapts over time
+    - Correct any errors your assistant made in a conversation, then add it to the training data, retrain and redeploy
+    - A Rasa conversational AI ystem itsn't static, It changes and adapts over time
 - We call this process **"conversation-driven development"**
 
 ## Files
@@ -87,9 +87,9 @@ How to make sure conversations work (and improve over time)
 - domain.yml
 - config.yml
 - Data files
-  - nlu.yml
-  - stories.yml
-  - rules.yml
+    - nlu.yml
+    - stories.yml
+    - rules.yml
 
 ## Commands
 
@@ -108,16 +108,16 @@ The domain file is a directory of everything our assistant "knows"
 
 - Responses: These are the things the assistant can say to users
 - Intents: These are categories of things users say
-  - affirm
-  - deny
-  - greet
-  - thankyou
-  - goodbye
-  - search_concerts
-  - search_venues
-  - compare_reviews
-  - bot_challenge
-  - how_to_get_started
+    - affirm
+    - deny
+    - greet
+    - thankyou
+    - goodbye
+    - search_concerts
+    - search_venues
+    - compare_reviews
+    - bot_challenge
+    - how_to_get_started
 - Slots: These are variables remembered over the course of a conversation
 - Entities: These are pieces of information extracted from incoming text
 - Forms & actions: These add application logic and extend what your assistant can do
@@ -128,50 +128,50 @@ The domain file is a directory of everything our assistant "knows"
 - User-generated text
 - Patterns of conversations
 - Examples:
-  - Customer support logs
-  - **User conversations with your assistant**
+    - Customer support logs
+    - **User conversations with your assistant**
 - How should conversations with your chatbot go?
-  - Stories
-  - Rules
+    - Stories
+    - Rules
 - How do users say things?
-  - Intents
+    - Intents
 - **If you have data**
-  - Modified content analysis
-    - Go through data (or sample) by hand and assign each datapoint to a group
-    - If no existing group fits, add a new one
-    - At given intervals, go through your groups and combine or separate them as needed
-    - Start with 2-3 passes through your dataset
-  - Can't you just automate this i.e. intent discovery and classification
-    - It's easiest to use interactive learning to create stories
+    - Modified content analysis
+        - Go through data (or sample) by hand and assign each datapoint to a group
+        - If no existing group fits, add a new one
+        - At given intervals, go through your groups and combine or separate them as needed
+        - Start with 2-3 passes through your dataset
+    - Can't you just automate this i.e. intent discovery and classification
+        - It's easiest to use interactive learning to create stories
 - **If you don't have data**
-  - Start with the most common intent
-  - Start with the smallest possible number of intents (that conver your core use case)
-  - Everything else goes in and out of scope intent
-    - If your assistant can't handle something, give users an escape hatch right away
-  - Additional intents will come from user data
+    - Start with the most common intent
+    - Start with the smallest possible number of intents (that conver your core use case)
+    - Everything else goes in and out of scope intent
+        - If your assistant can't handle something, give users an escape hatch right away
+    - Additional intents will come from user data
 - **Have fewer intents**
-  - Rasa style CDD
-    - You only need to start with the most popular, important intents & a way to handle things outside them
-    - Continue to build from there if that's what users need
-  - Human reasons
-    - More intents = more training data, maintenance, documentation
-    - More intents = annotation more difficult
-  - ML reasons
-    - Transformer classifiers scale linearly with the # of classes
-    - Entity extraction (esp with very lightweight rule-baed system like Duckling) is often faster
+    - Rasa style CDD
+        - You only need to start with the most popular, important intents & a way to handle things outside them
+        - Continue to build from there if that's what users need
+    - Human reasons
+        - More intents = more training data, maintenance, documentation
+        - More intents = annotation more difficult
+    - ML reasons
+        - Transformer classifiers scale linearly with the # of classes
+        - Entity extraction (esp with very lightweight rule-baed system like Duckling) is often faster
 - **Paring down intents**
-  - Don't use intents as a way to store information (use slots instead)
-  - Consider to combine, if a lot of same tokens show up in training data for two intents
-  - **Example**
+    - Don't use intents as a way to store information (use slots instead)
+    - Consider to combine, if a lot of same tokens show up in training data for two intents
+    - **Example**
 
 ![image](../../media/NLP_Chatbot-chatops-image2.jpg)
 
 - Training data for an intent
-  - User-generated > synthetic
-  - Each utterance should unambigously match to a single intent
-    - You can verify this using human sorting & inter-rater reliability
-  - Is an utterance ambiguous?
-    - Use end-to-end instead (the raw text as training data w/out classifying it)
+    - User-generated > synthetic
+    - Each utterance should unambigously match to a single intent
+        - You can verify this using human sorting & inter-rater reliability
+    - Is an utterance ambiguous?
+        - Use end-to-end instead (the raw text as training data w/out classifying it)
 
 ## Stories
 
@@ -179,9 +179,9 @@ Training data to teach your assistant what it should do next
 
 - If you have conversational data, start with those patterns
 - Generate your own conversational patterns
-  - It's easiest to use interactive learning to create stories
-  - Start with common flows, happy paths
-  - Then add common errors/digressions
+    - It's easiest to use interactive learning to create stories
+    - Start with common flows, happy paths
+    - Then add common errors/digressions
 - Once your model is trained, add more data from user conversations
 
 ![image](../../media/NLP_Chatbot-chatops-image3.jpg)

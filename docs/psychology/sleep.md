@@ -66,13 +66,13 @@ Polyphasic sleep is the practice of sleeping in numerous smaller blocks during t
 - body clock dictates our sleep patterns
 - Sleep deprivation leads to high blood pressure and heart disease
 - Every animal needs sleep, but not same kind of sleep or the same amount of it
-  - Humans - 8 hours
+    - Humans - 8 hours
 - Driving drowsy is equally as dangerous as driving drunk
 - Sleepwalking kills - and it's not caused by dreaming
 - If you want to sleep better, get lots of sunlight and avoid certain substances
-  - Hot bath before sleep
-  - Receive sunlight
-  - Wake up to morning sunlight and not to alarm
+    - Hot bath before sleep
+    - Receive sunlight
+    - Wake up to morning sunlight and not to alarm
 
 ## Early Bird and Night Owl
 
@@ -83,3 +83,5 @@ I'm not an early bird or a night own. I'm some form of permanently exhausted pig
 [Brain](psychology/brain.md)
 
 [Can you change your sleep schedule? - YouTube](https://www.youtube.com/watch?v=Amkg1cdDCpM)
+
+[The Ultimate Guide to 10X Better Sleep | (Why We Sleep) - YouTube](https://www.youtube.com/watch?v=ZvS1KDT4ObM&ab_channel=EscapingOrdinary%28B.CMarx%29)

@@ -42,12 +42,12 @@ https://www.investopedia.com/terms/d/duediligence.asp
 
 - Scenario analysis is best employed when the outcomes of a project are a function of the macro economic environment and/or competitive responses
 - There are a couple of ways in which you can structure scenario analysis
-  - Best-case, Worst-case analysis, where you set all the inputs at their most optimistic and most pessimistic levels. In general, this leaves you with findings that are not of much practical use
-  - Plausible scenarios: Here, you define what you feel are the most plausible scenarios (allowing for the interaction across variables) and come up with estimates for each scenario
+    - Best-case, Worst-case analysis, where you set all the inputs at their most optimistic and most pessimistic levels. In general, this leaves you with findings that are not of much practical use
+    - Plausible scenarios: Here, you define what you feel are the most plausible scenarios (allowing for the interaction across variables) and come up with estimates for each scenario
 - For scenario analysis to be most useful, you have to be able to
-  - List scenarios to cover all possible outcomes
-  - Estimate probabilities for the scenarios
-  - Complete with an expected value
+    - List scenarios to cover all possible outcomes
+    - Estimate probabilities for the scenarios
+    - Complete with an expected value
 
 ## Simulation in Valuation
 

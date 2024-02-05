@@ -19,18 +19,18 @@
 - Salt / Namak - 1/2 tsp
 - Chicken masala - 1/2 tsp
 - Ginger garlic paste - 1tsp
-  - Ginger powder
-  - Garlic powder
+    - Ginger powder
+    - Garlic powder
 - Oregano
 - Chilli flakes
 - Olive Oil - 2 tbsp
 - Lemon Juice
 - Vegetables
-  - Paneer
-  - Onion
-  - Carrot
-  - Dhaniya
-  - Green Chilli (Mirch)
+    - Paneer
+    - Onion
+    - Carrot
+    - Dhaniya
+    - Green Chilli (Mirch)
 
 ## Arhar Dal / Pigeon pea
 

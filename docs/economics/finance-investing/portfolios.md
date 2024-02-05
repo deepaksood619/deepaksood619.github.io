@@ -3,30 +3,30 @@
 ## Portfolio
 
 - **Equity**
-  - **Domestic**
-    - Nifty50 (30%)
-    - Nifty Next 50 (70%)
-  - **International**
-    - Technology - NASDAQ
-    - S&P500
+    - **Domestic**
+        - Nifty50 (30%)
+        - Nifty Next 50 (70%)
+    - **International**
+        - Technology - NASDAQ
+        - S&P500
 - **Debt**
-  - FD
-  - RD
-  - PPF (1,50,000)
-  - NPS
-  - Liquid funds
-  - Long Term Bonds
-  - Cash (2,00,000)
+    - FD
+    - RD
+    - PPF (1,50,000)
+    - NPS
+    - Liquid funds
+    - Long Term Bonds
+    - Cash (2,00,000)
 - **Gold**
-  - Soverign Gold Bond - SGB
-  - Gold ETF
+    - Soverign Gold Bond - SGB
+    - Gold ETF
 - Property
-  - REITs
+    - REITs
 - P2P
 - Trading
-  - IPOs
-  - ESG (To borrow Winston Churchill's words, ESG is "a riddle, wrapped in a mystery, inside an enigma.")
-  - Day trader
+    - IPOs
+    - ESG (To borrow Winston Churchill's words, ESG is "a riddle, wrapped in a mystery, inside an enigma.")
+    - Day trader
 
 ![image](../../media/TODO-Financial-Finance-Investing_Portfolios-image1.jpg)
 
@@ -94,8 +94,8 @@ How to choose a financial product?
 https://freefincal.com/can-i-use-these-two-index-funds-for-retirement-instead-of-nifty-nifty-next-50
 
 - Nifty next 50 (Nifty Blend 40:60 / 30:70) Mid cap - S&P 400 Mid Cap and maybe SENSEX also (Nifty50/NiftyNext50 - 70:30)
-  - Nifty 100 equal weight (better returns, low risk)
-  - Nifty 100 Low Vol 30
+    - Nifty 100 equal weight (better returns, low risk)
+    - Nifty 100 Low Vol 30
 
 ## Good Portfolios
 
@@ -139,11 +139,11 @@ Always have 60-70% large cap regardless of age
 - Above that and only above that, a third fund can be added to reduce concentration and performance risk
 
 - For a one-fund equity portfolio
-  - Single aggressive hybrid fund or single large and midcap or single multi-cap fund with do
+    - Single aggressive hybrid fund or single large and midcap or single multi-cap fund with do
 - For a three-fund portfolio:
-  - Combo 1 - Large-cap, Aggressive hybrid, mid-cap
-  - Combo 2 - Large-cap, Mid-cap, Small-cap
-  - Combo 3 - Aggressive hybrid, balanced advantage, mid-cap
+    - Combo 1 - Large-cap, Aggressive hybrid, mid-cap
+    - Combo 2 - Large-cap, Mid-cap, Small-cap
+    - Combo 3 - Aggressive hybrid, balanced advantage, mid-cap
 
 ## The Core Satellite Strategy
 
@@ -157,9 +157,9 @@ The balance 40% of the amount, which is Rs.200,000/- can be utilized for active 
 
 - Annual Salary * 10
 - Only one exclusion
-  - Suicide in 1 year or 2 years
-  - honour death by accident
-  - exclude death due to natural calamity or death due to war
+    - Suicide in 1 year or 2 years
+    - honour death by accident
+    - exclude death due to natural calamity or death due to war
 - Simple term insurance which will give 100% money to nominee
 - No other features/riders
 - Till age 50/60
@@ -170,19 +170,19 @@ https://freefincal.com/re-assemble-step-3-buy-term-life-insurance
 
 - https://freefincal.com/what-you-need-to-know-before-buying-term-insurance
 - PNB met Life
-  - Sum insured without tax detection
-  - HLV (Human Life Value) - 9 crore
-  - 35 years (till 60 years)
-    - 5 crore - 46020
-      - 39000
-    - 3 crore - 27612 (incl tax)
-      - 23400
-    - 1 crore - 10974
-      - 9300
-  - 10 years
-    - 1 cr - 7906
-    - 3 cr - 19470
-  - One time pay option
+    - Sum insured without tax detection
+    - HLV (Human Life Value) - 9 crore
+    - 35 years (till 60 years)
+        - 5 crore - 46020
+            - 39000
+        - 3 crore - 27612 (incl tax)
+            - 23400
+        - 1 crore - 10974
+            - 9300
+    - 10 years
+        - 1 cr - 7906
+        - 3 cr - 19470
+    - One time pay option
 - What will happen if I don't pay premium after certain age
 
 1. Term plan - ICICI Prudential iProtect Smart: Rs 50 lakh

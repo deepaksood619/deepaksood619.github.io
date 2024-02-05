@@ -83,19 +83,19 @@ Strong Consistency Models
 
 - Linearizability: Each operation by a client is visible (or available) instantaneously to all other clients
 - Sequential Consistency [Lamport]:
-  - "... the result of any execution is the same as if the operations of all the processors were executed in some sequential order, and the operations of each individual processor appear in this sequence in the order specified by its program.
-  - After the fact, find a reasonable ordering of the operations (can reorder operations) that obeys sanity (consistency) at all clients, and across clients
+    - "... the result of any execution is the same as if the operations of all the processors were executed in some sequential order, and the operations of each individual processor appear in this sequence in the order specified by its program.
+    - After the fact, find a reasonable ordering of the operations (can reorder operations) that obeys sanity (consistency) at all clients, and across clients
 - Transaction ACID properties, example: newer key-value / NoSQL stores called as NewSQL (NoSQL + ACID)
-  - Hyperdex [Cornell]
-  - Spanner [Spanner]
-  - Transaction chains [Microsoft Reasearch]
+    - Hyperdex [Cornell]
+    - Spanner [Spanner]
+    - Transaction chains [Microsoft Reasearch]
 Conclusion
 - Traditional databases (RDMSs) work with strong consistency, and offer ACID
 - Modern workloads don't need such strong guarantees, but do need fast response times (availability)
 - Unfortunately, CAP theorem
 - Key-value ? NoSQL systems offer BASE
-  - Basically Available Soft-state Eventual Consistency
-  - Eventual consistency, and a variety of other consistency models striving towards strong consistency
+    - Basically Available Soft-state Eventual Consistency
+    - Eventual consistency, and a variety of other consistency models striving towards strong consistency
 
 ## References
 

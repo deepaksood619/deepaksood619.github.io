@@ -3,8 +3,8 @@
 ## Key points
 
 - Chunks
-  - Chunks are compact packages of information that our mind can easily access
-  - Use chunks to improve understanding and creativity with the material
+    - Chunks are compact packages of information that our mind can easily access
+    - Use chunks to improve understanding and creativity with the material
 - Illusions of competence in learning
 - Challenges of overlearning
 - Advantages of interleaving
@@ -58,10 +58,10 @@ The value of a library of chunks
 Immediately after every lecture, meeting, or any significant experience, take 30 seconds - no more, no less - to write down the most important points
 
 - Chunking
-  - Octopus analogy to chunk together groups of information
-    - Focused Attention
-    - Understand the concept
-    - Practice
+    - Octopus analogy to chunk together groups of information
+        - Focused Attention
+        - Understand the concept
+        - Practice
 - Recalling is most important to harden concepts
 - Transfer between different chunks
 - Delibrate Practice for hard to understand topics

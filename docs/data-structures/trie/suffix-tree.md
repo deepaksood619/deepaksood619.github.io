@@ -61,7 +61,7 @@ Use Case - Performing intensive queries on a big database, which is represented 
 ## Advanced
 
 - Ukkonen's Linear Time Algorithm
-  - Implicit's Suffix Tree
+    - Implicit's Suffix Tree
 
 An implicit suﬃx tree for a string S is a tree obtained from T(S$) by performing the following operations:
 

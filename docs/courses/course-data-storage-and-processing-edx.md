@@ -6,7 +6,7 @@ Master the culture of data representation, interpretation and outcomes evaluatio
 
 - Initial data processing (data cleaning and filling in the missing values)
 - Data smoothing and normalization
-  - Normalization of unipolar and bipolar indicators. Normalization features for ball scales.
+    - Normalization of unipolar and bipolar indicators. Normalization features for ball scales.
 - Data visualization
 - Time series analysis
 - Descriptive statistics

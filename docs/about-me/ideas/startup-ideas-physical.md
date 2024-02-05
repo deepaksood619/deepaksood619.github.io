@@ -17,14 +17,14 @@ Dynamic pricing and price surge like in Uber/Ola
 
 - The only thing left for people to go out is going to gym
 - Or some good experience at home
-  - Book candle light dinner experience at home
-    - Where a good chef will cook a great food
-    - Butlers will come to home with all equipment
-    - Maybe restaurant on wheels
+    - Book candle light dinner experience at home
+        - Where a good chef will cook a great food
+        - Butlers will come to home with all equipment
+        - Maybe restaurant on wheels
 - But why people don't want to go out or interact with other people
-  - Because they don't like seeing poor people
-  - They don't like seeing the city dirty
-  - They are depressed
+    - Because they don't like seeing poor people
+    - They don't like seeing the city dirty
+    - They are depressed
 
 #### Dantewada - Coding coaching classes (laptop/mobile training)
 
@@ -38,7 +38,7 @@ Dynamic pricing and price surge like in Uber/Ola
 - **Software industry (core expertise, easy)**
 - Agriculture industry
 - Hoticulture industry (self servicing indoor plantations for home)
-  - Greenery inside homes
+    - Greenery inside homes
 
 #### Self maintaining green cover on top of buildings
 
@@ -55,9 +55,9 @@ Dynamic pricing and price surge like in Uber/Ola
 
 - A socket that does not need switch
 - Smart appliance for Indian cooking - Ex - DelishUp
-  - smart connected appliance
-  - pre-sets for cooking tasks
-  - integrated weighing scale
+    - smart connected appliance
+    - pre-sets for cooking tasks
+    - integrated weighing scale
 - Live TV on phones without internet
 
 ## Mechanical
@@ -149,8 +149,8 @@ Get personal photographers by app
 - Scheduling capability
 - Multiple appliances can be grouped to start and stop together
 - Cost saving
-  - As no boards with switches
-  - Only sockets
+    - As no boards with switches
+    - Only sockets
 
 ## ATF Fuel Optimizer
 

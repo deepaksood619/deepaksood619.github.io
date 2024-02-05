@@ -48,9 +48,9 @@ Followed - AAA - Authentication, Authorization and Audit with best practices
 - Customer support
 - Payments
 - New products
-  - referral
-  - brand ambassador program
-  - stashearn
+    - referral
+    - brand ambassador program
+    - stashearn
 
 ![stasfin-screenshot](../../media/Pasted%20image%2020231201180310.png)
 

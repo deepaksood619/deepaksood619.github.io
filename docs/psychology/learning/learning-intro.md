@@ -85,7 +85,7 @@ https://360learning.com/blog/learning-theories
 ### Retrospective Memory - Remembering the past
 
 - By Content
-  - Implicit Memory / skill memory
+    - Implicit Memory / skill memory
 
 The ability to do a task (brushing teeth)
 
@@ -142,8 +142,8 @@ Notes - Negative reinforcement is like when something becomes less painful, so y
 Like you can read everything about cycling, but you cannot cycle until you practice cycling
 
 - In summary, if you are going to take a test of a particular format (such as an essay format), the best approach is to reap the benefits of multi- ple strategies. Whereas practicing with the final test format will teach you to processes the material in the way required by the test, recall will lead to most effective encoding. Therefore, ideally you should:
-  - Spend about 1/4 of your time practicing with the final test format (e.g. multiple choice)
-  - Spend the remaining 3/4 practicing with recall combined with deep-processing techniques
+    - Spend about 1/4 of your time practicing with the final test format (e.g. multiple choice)
+    - Spend the remaining 3/4 practicing with recall combined with deep-processing techniques
 
 ## State Dependence
 
@@ -156,8 +156,8 @@ Like you can read everything about cycling, but you cannot cycle until you pract
 - For 1/2 of your study time, simulate the environmental conditions of your test (a noisy/quiet environment, similar distractions, people around)
 - For the other 1/2, alternate rooms, places and conditions as you study
 - Test yourself with different kinds of practice questions - what-questions
-  - why-questions
-  - how-questions
+    - why-questions
+    - how-questions
 - Make use of minimal context for flashcards, or if possible, try differ- ent ways of asking yourself questions to maximize your flexibility.
 
 ## Retaining/Storage: Keeping Memories in the Brain
@@ -183,9 +183,9 @@ Forgetting can be caused by two different processes. The first is a **failure of
 
 - Research has found that the only way to overcome blocking interference is by making conscious effort to recover the correct memory trace (and have patience as this may take some time). Interference may, however, also cause a permanent loss of memory. Scientists who study memory call this the retrieval-induced forgetting effect (RIF).
 - Re-study concepts that you confuse
-  - Use comparing and contrasting to find differences between the
+    - Use comparing and contrasting to find differences between the
         concepts
-  - Integrate the concepts (find the relations between them)
+    - Integrate the concepts (find the relations between them)
 - Aim for mastery in a subject, do not pay attention to other people's performance
 
 ## Spacing effect
@@ -232,13 +232,13 @@ Practice test: The most powerful technique for boosting memory
 
 - Avoid learning strategies based on recognition (reviewing/re-reading of textbook chapters/notes, highlighting, summarizing)
 - Revise with practice tests / questions to achieve the best results in your tests and exams
-  - Use free recall (questions/tasks with no hints or options to
+    - Use free recall (questions/tasks with no hints or options to
         choose from)
-  - Practice with recognition questions (such as multiple-choice)
+    - Practice with recognition questions (such as multiple-choice)
         only if your test will also be multiple-choice (see transfer-appro-
         priate processing) and for 1/4 of your study time only
-  - Selectively re-read only the material that you cannot remember
-  - Get immediate or delayed feedback on your answers Revise with
+    - Selectively re-read only the material that you cannot remember
+    - Get immediate or delayed feedback on your answers Revise with
         practice tests / questions to achieve the best results in your tests and exams
 
 https://www.scotthyoung.com/blog/2019/02/15/memory
@@ -267,8 +267,8 @@ Sometimes the first solution found prevents you from seeing a wider range of pos
 ## Key Points
 
 - Should be able to switch back and forth between focused and diffused mode
-  - Pinball anology (tightly packed pinballs and loosely packed pinballs)
-  - Eisten and salvador both let there mind wander and have a ball bearing and keys respectively in their hands and when they go to sleep, it falls and due to noise they wake up and work again in focused mode.
+    - Pinball anology (tightly packed pinballs and loosely packed pinballs)
+    - Eisten and salvador both let there mind wander and have a ball bearing and keys respectively in their hands and when they go to sleep, it falls and due to noise they wake up and work again in focused mode.
 - Learning something difficult takes time (a little bit of it everyday)
 - Metaphors and analogies are a powerful technique to learn
 - Mind Maps (find on internet what mindmaps are available)
@@ -286,7 +286,7 @@ Two major memory system
 
 - Long term memory (like a storage warehouse)
 - Working memory (centered our of prefrontal cortex but have links to other parts of the brain to retrieve from Long term memory)
-  - Can only hold 4 chunks of information
+    - Can only hold 4 chunks of information
 
 ## Spaced repetition
 

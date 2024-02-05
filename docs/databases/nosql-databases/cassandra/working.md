@@ -4,8 +4,8 @@
 
 - Need to be lock-free and fast (no reads or disk seeks)
 - Client sends write to one coordinator node in Cassandra cluster
-  - Coordinator may be per-key, or per-client or per-query
-  - Per-key coordinator ensures writes for the key are serialized
+    - Coordinator may be per-key, or per-client or per-query
+    - Per-key coordinator ensures writes for the key are serialized
 - Coordinator uses Partitioner to send query to all replica nodes responsible for key
 - When X replicas respond, coordinator returns an acknowledgement to the client
 
@@ -30,10 +30,10 @@
 - Write-back as opposed to write-through
 
 - Later When memtable is full or old, flush to disk
-  - Data File: An SSTable (Sorted String Table) - list of key-value pairs, sorted by key
-  - SSTables are immutable (once created, they don't change)
-  - Index file: An SSTable of (key, position in data sstable) pairs
-  - And a Bloom Filter (for efficient search)
+    - Data File: An SSTable (Sorted String Table) - list of key-value pairs, sorted by key
+    - SSTables are immutable (once created, they don't change)
+    - Index file: An SSTable of (key, position in data sstable) pairs
+    - And a Bloom Filter (for efficient search)
 
 ## The Write Path
 
@@ -67,8 +67,8 @@
 ### Compaction
 
 - Data updates accumulate over time and SSTables and logs need to be compacted
-  - The process of compaction merges SSTables, i.e., by merging updates for a key
-  - Run periodically and locally at each server- TimeWindowCompactionStrategy
+    - The process of compaction merges SSTables, i.e., by merging updates for a key
+    - Run periodically and locally at each server- TimeWindowCompactionStrategy
 
 https://thelastpickle.com/blog/2016/12/08/TWCS-part1.html
 
@@ -80,10 +80,10 @@ https://thelastpickle.com/blog/2016/12/08/TWCS-part1.html
 ## Reads: Similar to writes, expect
 
 - Coordinator can contact X replicas (e.g., in same rack)
-  - Coordinator sends read to replicas that have responded quickest in past
-  - When X replicas respond, coordinator returns the latest timestamped value from among those X
+    - Coordinator sends read to replicas that have responded quickest in past
+    - When X replicas respond, coordinator returns the latest timestamped value from among those X
 - Coordinator also fetches value from other replicas
-  - Checks consistency in the background, initiating a read repair if any two values are different
-  - This mechanism seeks to eventually bring all replicas up to date
+    - Checks consistency in the background, initiating a read repair if any two values are different
+    - This mechanism seeks to eventually bring all replicas up to date
 - At a replica
-  - A row may be split across SSTables => reads need to touch multiple SSTables => reads slower than writes (but still fast)
+    - A row may be split across SSTables => reads need to touch multiple SSTables => reads slower than writes (but still fast)

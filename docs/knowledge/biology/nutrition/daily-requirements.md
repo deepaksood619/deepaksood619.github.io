@@ -3,42 +3,42 @@
 ## Macronutrients
 
 - **Providing energy (Carbs, Protein, Fats)**
-  - Carbohydrates (pasta, rice, cereals, breads, potatoes, milk, fruit, sugar)
-    - [Glucose](https://en.wikipedia.org/wiki/Glucose)
-    - [Sucrose](https://en.wikipedia.org/wiki/Sucrose)
-    - [Ribose](https://en.wikipedia.org/wiki/Ribose)
-    - [Amylose](https://en.wikipedia.org/wiki/Amylose) a major component of [starch](https://en.wikipedia.org/wiki/Starch)
-    - [Amylopectin](https://en.wikipedia.org/wiki/Amylopectin)
-    - [Maltose](https://en.wikipedia.org/wiki/Maltose)
-    - [Galactose](https://en.wikipedia.org/wiki/Galactose)
-    - [Fructose](https://en.wikipedia.org/wiki/Fructose)
-    - [Lactose](https://en.wikipedia.org/wiki/Lactose)
+    - Carbohydrates (pasta, rice, cereals, breads, potatoes, milk, fruit, sugar)
+        - [Glucose](https://en.wikipedia.org/wiki/Glucose)
+        - [Sucrose](https://en.wikipedia.org/wiki/Sucrose)
+        - [Ribose](https://en.wikipedia.org/wiki/Ribose)
+        - [Amylose](https://en.wikipedia.org/wiki/Amylose) a major component of [starch](https://en.wikipedia.org/wiki/Starch)
+        - [Amylopectin](https://en.wikipedia.org/wiki/Amylopectin)
+        - [Maltose](https://en.wikipedia.org/wiki/Maltose)
+        - [Galactose](https://en.wikipedia.org/wiki/Galactose)
+        - [Fructose](https://en.wikipedia.org/wiki/Fructose)
+        - [Lactose](https://en.wikipedia.org/wiki/Lactose)
 
 - Protein (meat, dairy, legumes, nuts, seafood and eggs)
 
 [**Amino acids**](https://en.wikipedia.org/wiki/Amino_acids)
 
 - Standard amino acids
-  - [Alanine](https://en.wikipedia.org/wiki/Alanine)
-  - [Arginine](https://en.wikipedia.org/wiki/Arginine)
-  - [Aspartic acid (aspartate)](https://en.wikipedia.org/wiki/Aspartic_acid)
-  - [Asparagine](https://en.wikipedia.org/wiki/Asparagine)
-  - [Cysteine](https://en.wikipedia.org/wiki/Cysteine)
-  - [Glutamic acid (glutamate)](https://en.wikipedia.org/wiki/Glutamic_acid)
-  - [Glutamine](https://en.wikipedia.org/wiki/Glutamine)
-  - [Glycine](https://en.wikipedia.org/wiki/Glycine)
-  - [Histidine](https://en.wikipedia.org/wiki/Histidine)
-  - [Isoleucine](https://en.wikipedia.org/wiki/Isoleucine)(branched chain amino acid)
-  - [Leucine](https://en.wikipedia.org/wiki/Leucine)(branched chain amino acid)
-  - [Lysine](https://en.wikipedia.org/wiki/Lysine)
-  - [Methionine](https://en.wikipedia.org/wiki/Methionine)
-  - [Phenylalanine](https://en.wikipedia.org/wiki/Phenylalanine)
-  - [Proline](https://en.wikipedia.org/wiki/Proline)
-  - [Serine](https://en.wikipedia.org/wiki/Serine)
-  - [Threonine](https://en.wikipedia.org/wiki/Threonine)
-  - [Tryptophan](https://en.wikipedia.org/wiki/Tryptophan)
-  - [Tyrosine](https://en.wikipedia.org/wiki/Tyrosine)
-  - [Valine](https://en.wikipedia.org/wiki/Valine)(branched chain amino acid)
+    - [Alanine](https://en.wikipedia.org/wiki/Alanine)
+    - [Arginine](https://en.wikipedia.org/wiki/Arginine)
+    - [Aspartic acid (aspartate)](https://en.wikipedia.org/wiki/Aspartic_acid)
+    - [Asparagine](https://en.wikipedia.org/wiki/Asparagine)
+    - [Cysteine](https://en.wikipedia.org/wiki/Cysteine)
+    - [Glutamic acid (glutamate)](https://en.wikipedia.org/wiki/Glutamic_acid)
+    - [Glutamine](https://en.wikipedia.org/wiki/Glutamine)
+    - [Glycine](https://en.wikipedia.org/wiki/Glycine)
+    - [Histidine](https://en.wikipedia.org/wiki/Histidine)
+    - [Isoleucine](https://en.wikipedia.org/wiki/Isoleucine)(branched chain amino acid)
+    - [Leucine](https://en.wikipedia.org/wiki/Leucine)(branched chain amino acid)
+    - [Lysine](https://en.wikipedia.org/wiki/Lysine)
+    - [Methionine](https://en.wikipedia.org/wiki/Methionine)
+    - [Phenylalanine](https://en.wikipedia.org/wiki/Phenylalanine)
+    - [Proline](https://en.wikipedia.org/wiki/Proline)
+    - [Serine](https://en.wikipedia.org/wiki/Serine)
+    - [Threonine](https://en.wikipedia.org/wiki/Threonine)
+    - [Tryptophan](https://en.wikipedia.org/wiki/Tryptophan)
+    - [Tyrosine](https://en.wikipedia.org/wiki/Tyrosine)
+    - [Valine](https://en.wikipedia.org/wiki/Valine)(branched chain amino acid)
 
 - Fats / lipids (oils, butter, margarine, nuts, seeds, avocados and olives, meat and seafood)
 
@@ -88,8 +88,8 @@ These 2 essential fatty acids are the starting point for other important omega-a
 - [Linoleic acid](https://en.wikipedia.org/wiki/Linoleic_acid) LA (18:2)[Omega-6 fatty acid](https://en.wikipedia.org/wiki/Omega-6_fatty_acid)
 
 - **Not providing energy**
-  - Water
-  - Fiber
+    - Water
+    - Fiber
 
 ## Dietary fiber or roughage is the portion of plant-derived food that cannot be completely broken down by [digestive enzymes](https://en.wikipedia.org/wiki/Digestive_enzyme).It has two main components
 
@@ -101,60 +101,60 @@ These 2 essential fatty acids are the starting point for other important omega-a
 ## Micronutrients
 
 - **Minerals**
-  - Calcium
-  - Chlorine
-  - Magnesium
-  - Phosphorus
-  - Potassium
-  - Sodium - 2300 mg, Salt - 6 gm/day - 1 teaspoon/day
+    - Calcium
+    - Chlorine
+    - Magnesium
+    - Phosphorus
+    - Potassium
+    - Sodium - 2300 mg, Salt - 6 gm/day - 1 teaspoon/day
 
 - Milk and dairy products are a good source of calcium and magnesium
 - Red meat is a good source of iron and zinc
 - Seafood and vegetables (depending on the soil in which they are produced) are generally good sources of iodine
 
 - **Trace minerals**
-  - [Boron](https://en.wikipedia.org/wiki/Boron)
-  - [Cobalt](https://en.wikipedia.org/wiki/Cobalt)
-  - [Chromium](https://en.wikipedia.org/wiki/Chromium)
-  - [Copper](https://en.wikipedia.org/wiki/Copper_in_health)
-  - [Iodine](https://en.wikipedia.org/wiki/Iodine)
-  - [Iron](https://en.wikipedia.org/wiki/Iron)
-  - [Manganese](https://en.wikipedia.org/wiki/Manganese)
-  - [Molybdenum](https://en.wikipedia.org/wiki/Molybdenum)
-  - [Selenium](https://en.wikipedia.org/wiki/Selenium)
-  - [Zinc](https://en.wikipedia.org/wiki/Zinc)
+    - [Boron](https://en.wikipedia.org/wiki/Boron)
+    - [Cobalt](https://en.wikipedia.org/wiki/Cobalt)
+    - [Chromium](https://en.wikipedia.org/wiki/Chromium)
+    - [Copper](https://en.wikipedia.org/wiki/Copper_in_health)
+    - [Iodine](https://en.wikipedia.org/wiki/Iodine)
+    - [Iron](https://en.wikipedia.org/wiki/Iron)
+    - [Manganese](https://en.wikipedia.org/wiki/Manganese)
+    - [Molybdenum](https://en.wikipedia.org/wiki/Molybdenum)
+    - [Selenium](https://en.wikipedia.org/wiki/Selenium)
+    - [Zinc](https://en.wikipedia.org/wiki/Zinc)
 
 - **Vitamins**
-  - [Vitamin B complex](https://en.wikipedia.org/wiki/Vitamin_B_complex)
-    - [Vitamin B1(thiamin)](https://en.wikipedia.org/wiki/Vitamin_B1)
-    - [Vitamin B2(riboflavin)](https://en.wikipedia.org/wiki/Vitamin_B2)
-    - [Vitamin B3(niacin)](https://en.wikipedia.org/wiki/Vitamin_B3)
-    - [Vitamin B5(pantothenic acid)](https://en.wikipedia.org/wiki/Vitamin_B5)
-    - [Vitamin B6group](https://en.wikipedia.org/wiki/Vitamin_B6):
-      - Pyridoxine
-      - Pyridoxal-5-Phosphate
-      - Pyridoxamine
-    - [Vitamin B7(biotin)](https://en.wikipedia.org/wiki/Biotin)
-    - [Vitamin B8(ergadenylic acid)](https://en.wikipedia.org/wiki/Ergadenylic_acid)
-    - [Vitamin B9(folic acid)](https://en.wikipedia.org/wiki/Folic_acid)
-    - [Vitamin B12(cyanocobalamin)](https://en.wikipedia.org/wiki/Vitamin_B12)
-    - [Choline](https://en.wikipedia.org/wiki/Choline)
-  - [Vitamin A (e.g. retinol (see also - provitamin A carotenoids))](https://en.wikipedia.org/wiki/Vitamin_A)
-  - [Vitamin C (Ascorbic acid)](https://en.wikipedia.org/wiki/Vitamin_C)
-  - [Vitamin D](https://en.wikipedia.org/wiki/Vitamin_D)
-    - [Ergocalciferol](https://en.wikipedia.org/wiki/Ergocalciferol)
-    - [Cholecalciferol](https://en.wikipedia.org/wiki/Cholecalciferol)
-  - [Vitamin E (tocopherol)](https://en.wikipedia.org/wiki/Vitamin_E)
-  - [Vitamin K](https://en.wikipedia.org/wiki/Vitamin_K)
-    - [Phylloquinone](https://en.wikipedia.org/wiki/Phylloquinone)
-    - [Menaquinone complices](https://en.wikipedia.org/w/index.php?title=Menaquinone_complices&action=edit&redlink=1)
-  - [Carotenoids](https://en.wikipedia.org/wiki/Carotenoid)
-    - [Alpha carotene](https://en.wikipedia.org/wiki/Alpha_carotene)
-    - [Beta carotene](https://en.wikipedia.org/wiki/Beta_carotene)
-    - [Cryptoxanthin](https://en.wikipedia.org/wiki/Cryptoxanthin)
-    - [Lutein](https://en.wikipedia.org/wiki/Lutein)
-    - [Lycopene](https://en.wikipedia.org/wiki/Lycopene)
-    - [Zeaxanthin](https://en.wikipedia.org/wiki/Zeaxanthin)
+    - [Vitamin B complex](https://en.wikipedia.org/wiki/Vitamin_B_complex)
+        - [Vitamin B1(thiamin)](https://en.wikipedia.org/wiki/Vitamin_B1)
+        - [Vitamin B2(riboflavin)](https://en.wikipedia.org/wiki/Vitamin_B2)
+        - [Vitamin B3(niacin)](https://en.wikipedia.org/wiki/Vitamin_B3)
+        - [Vitamin B5(pantothenic acid)](https://en.wikipedia.org/wiki/Vitamin_B5)
+        - [Vitamin B6group](https://en.wikipedia.org/wiki/Vitamin_B6):
+            - Pyridoxine
+            - Pyridoxal-5-Phosphate
+            - Pyridoxamine
+        - [Vitamin B7(biotin)](https://en.wikipedia.org/wiki/Biotin)
+        - [Vitamin B8(ergadenylic acid)](https://en.wikipedia.org/wiki/Ergadenylic_acid)
+        - [Vitamin B9(folic acid)](https://en.wikipedia.org/wiki/Folic_acid)
+        - [Vitamin B12(cyanocobalamin)](https://en.wikipedia.org/wiki/Vitamin_B12)
+        - [Choline](https://en.wikipedia.org/wiki/Choline)
+    - [Vitamin A (e.g. retinol (see also - provitamin A carotenoids))](https://en.wikipedia.org/wiki/Vitamin_A)
+    - [Vitamin C (Ascorbic acid)](https://en.wikipedia.org/wiki/Vitamin_C)
+    - [Vitamin D](https://en.wikipedia.org/wiki/Vitamin_D)
+        - [Ergocalciferol](https://en.wikipedia.org/wiki/Ergocalciferol)
+        - [Cholecalciferol](https://en.wikipedia.org/wiki/Cholecalciferol)
+    - [Vitamin E (tocopherol)](https://en.wikipedia.org/wiki/Vitamin_E)
+    - [Vitamin K](https://en.wikipedia.org/wiki/Vitamin_K)
+        - [Phylloquinone](https://en.wikipedia.org/wiki/Phylloquinone)
+        - [Menaquinone complices](https://en.wikipedia.org/w/index.php?title=Menaquinone_complices&action=edit&redlink=1)
+    - [Carotenoids](https://en.wikipedia.org/wiki/Carotenoid)
+        - [Alpha carotene](https://en.wikipedia.org/wiki/Alpha_carotene)
+        - [Beta carotene](https://en.wikipedia.org/wiki/Beta_carotene)
+        - [Cryptoxanthin](https://en.wikipedia.org/wiki/Cryptoxanthin)
+        - [Lutein](https://en.wikipedia.org/wiki/Lutein)
+        - [Lycopene](https://en.wikipedia.org/wiki/Lycopene)
+        - [Zeaxanthin](https://en.wikipedia.org/wiki/Zeaxanthin)
 
 - Fruits and vegetables are generally good sources of Vitamin C and A and folic acid (a B group vitamin)
 - Grains and cereals are generally good sources of the B group vitamins and fibre

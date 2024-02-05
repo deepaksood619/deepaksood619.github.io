@@ -8,15 +8,15 @@ Always tell stories, most visual stories are the best, and simple
 
 - Start with a Promise (At the end of this hour you will learn about x)
 - Samples
-  - Cycle (Say important thing atleast thrice over the course)
-  - Build Fence (How is your idea different from others)
-  - Verbal punctuation
-  - Asking questions (7 sec wait for answers)
+    - Cycle (Say important thing atleast thrice over the course)
+    - Build Fence (How is your idea different from others)
+    - Verbal punctuation
+    - Asking questions (7 sec wait for answers)
 - Time & Place
-  - 11 AM
-  - Well lit
-  - Cased
-  - Populated
+    - 11 AM
+    - Well lit
+    - Cased
+    - Populated
 - There's always too many words and too many slides in a presentation
 - 40 / 50 font size
 - We have only one language processor, so we can only use that to either read stuff or listen to speaker

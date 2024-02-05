@@ -4,12 +4,12 @@
 
 - Huge Upside
 - Future
-  - Decentralized
+    - Decentralized
 
 ## Cons
 
 - Currently looks like a pyramid scheme
-  - No one is accepting it for physical things
+    - No one is accepting it for physical things
 - Gambling
 - Highly volatile
 - Very new
@@ -20,7 +20,7 @@
 - Non productive asset - doesn't generate anything
 - Timing the market is very important
 - More cannot be generated (like printing currency for controlling markets)
-  - Cannot be taken from one person to give to other person
+    - Cannot be taken from one person to give to other person
 - Doesn't increase productivity of the world
 - Doesn't create value (invest in businesses that creates value)
 - Source code managed by Blockstream

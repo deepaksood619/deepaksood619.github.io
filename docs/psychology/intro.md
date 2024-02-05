@@ -101,8 +101,8 @@ There will never be a level where you will be done wanting things. There is alwa
 ## How to Say No, Resist Temptation, and Stick to Your Health Goals
 
 - **Instead of Saying I can't say I don't**
-  - I can't eat icecream/white rice vs **i don't eat icecream/white rice**
-  - I can't miss workout vs **I don't miss workouts**
+    - I can't eat icecream/white rice vs **i don't eat icecream/white rice**
+    - I can't miss workout vs **I don't miss workouts**
 - **Why this works**
 
 Your words help to frame your sense of empowerment and control. Furthermore, the words that you use create a feedback loop in your brain that impacts your future behaviors.

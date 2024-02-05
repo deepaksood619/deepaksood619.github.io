@@ -32,7 +32,15 @@ Pylint is a Python static code analysis tool which looks for programming errors,
 
 [pylint](https://pypi.org/project/pylint/) is one of the most wide-spread linters in Python. The features of pylint for sure overlaps with Flake8, but there is one feature I love: Checking for code duplication
 
-`pylint --disable=all --enable=duplicate-code .`
+```bash
+pip install pylint
+
+pylint --disable=all --enable=duplicate-code .
+
+pip install pylint-django
+
+pylint --disable=all --enable=duplicate-code --load-plugins pylint_django .
+```
 
 ## pyflakes
 

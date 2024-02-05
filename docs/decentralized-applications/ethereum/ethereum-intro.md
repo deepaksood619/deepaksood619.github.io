@@ -13,8 +13,8 @@ Ethereum's mechanism to choose the most valid chain is called the "GHOST protoco
 - Blockchains will be to finance what the Internet was to music and video
 - Follow the longest chain or heaviest chain
 - Problems
-  - Loss of data
-  - Confidentiality
+    - Loss of data
+    - Confidentiality
 - Ethereum is the blockchain of blockchains
 
 [ETHEREUM 2.0 - A GAME CHANGER? Proof Of Stake, The Beacon Chain, Sharding, Docking Explained](https://youtu.be/ctzGr58_jeI)
@@ -46,19 +46,19 @@ Ethereum's mechanism to choose the most valid chain is called the "GHOST protoco
 ### Accounts
 
 - Externally Owned Account
-  - Ether Balance
+    - Ether Balance
 - Smart Contract Account
-  - Ether Balance
-  - Contract Code
+    - Ether Balance
+    - Contract Code
 - Every account has a state
-  - nonce
-    - represents number of transactions sent from the address of the account
-  - balance
-    - amount of Ether owned by the address
-  - storageRoot
-    - root node of its Merkle tree
-  - codeHash
-    - hash of the Ethereum Virtual Machine code
+    - nonce
+        - represents number of transactions sent from the address of the account
+    - balance
+        - amount of Ether owned by the address
+    - storageRoot
+        - root node of its Merkle tree
+    - codeHash
+        - hash of the Ethereum Virtual Machine code
 - Merkle Tree
 
 ### Fees

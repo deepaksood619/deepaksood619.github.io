@@ -23,10 +23,10 @@
 ### Dashboards / Monitoring
 
 - [DefiLlama - DeFi Dashboard - TVL](https://defillama.com/?_sp=4a5917cc-9246-49fa-a008-41c519296ec8.1684908761328)
-  - [TVL Rankings - DefiLlama](https://defillama.com/top-protocols)
-  - [All Chains TVL - DefiLlama](https://defillama.com/chains)
-  - [DefiLlama - DeFi Dashboard - Protocol Rankings](https://defillama.com/?_sp=4a5917cc-9246-49fa-a008-41c519296ec8.1684908761328)
-  - [Dexs - DefiLlama](https://defillama.com/dexs)
+    - [TVL Rankings - DefiLlama](https://defillama.com/top-protocols)
+    - [All Chains TVL - DefiLlama](https://defillama.com/chains)
+    - [DefiLlama - DeFi Dashboard - Protocol Rankings](https://defillama.com/?_sp=4a5917cc-9246-49fa-a008-41c519296ec8.1684908761328)
+    - [Dexs - DefiLlama](https://defillama.com/dexs)
 - [Token unlocks](https://token.unlocks.app/)
 - [Crypto Prices and Portfolio Tracker App | CoinStats](https://coinstats.app/)
 - [Blockchair - Universal blockchain explorer and search engine](https://blockchair.com/)
@@ -47,8 +47,8 @@
 - Lending - [PeerHive | Revolutionizing Decentralized P2P Lending Experience](https://peerhive.app/)
 - Defi - [Ether Fi App](https://www.mainnet.ether.fi/)
 - [Aave - Open Source Liquidity Protocol](https://aave.com/)
-  - [AAVE: MOST Undervalued DeFi Token?! 2022 Update!! - YouTube](https://www.youtube.com/watch?v=fp4YzAgnIqk)
-  - [What is AAVE? (Animated) Crypto Borrowing and Lending Explained - YouTube](https://www.youtube.com/watch?v=dTCwssZ116A)
+    - [AAVE: MOST Undervalued DeFi Token?! 2022 Update!! - YouTube](https://www.youtube.com/watch?v=fp4YzAgnIqk)
+    - [What is AAVE? (Animated) Crypto Borrowing and Lending Explained - YouTube](https://www.youtube.com/watch?v=dTCwssZ116A)
 - [Buy Bitcoin & Ethereum | Cryptocurrency Exchange | Bittrex Global](https://global.bittrex.com/)
 - [Bitpanda Cash Plus](https://www.bitpanda.com/en/bitpanda-cash-plus)
 - [Roots - build wealth through real estate](https://www.investwithroots.com/)
@@ -74,7 +74,7 @@
 ## Spending
 
 - [Top Bitcoin and other Crypto Payment Processor | CoinGate](https://coingate.com/)
-  - Amazon Gift Cards
+    - Amazon Gift Cards
 - [250+ Stores That Accept Bitcoin | BitPay’s Curated Directory of Places to Spend Cryptocurrency](https://bitpay.com/directory/)
 - [Pay bills with crypto - Spritz Finance](https://www.spritz.finance/)
 - [Find merchants who accept cryptocurrencies | Bitcoin.com](https://www.bitcoin.com/find-crypto-merchants/)
@@ -84,10 +84,10 @@
 ### Getting Rekt (Wrecked)
 
 - The Rug Pull (removing a large amount of liquidity from a liquidity pool)
-  - [What is a Rug Pull in Crypto? (Meaning + 3 Examples) - YouTube](https://www.youtube.com/watch?v=YFaqng3YESE)
-  - Yanking Liquidity
+    - [What is a Rug Pull in Crypto? (Meaning + 3 Examples) - YouTube](https://www.youtube.com/watch?v=YFaqng3YESE)
+    - Yanking Liquidity
 - Economic Exploit - Flash Loans
-  - [What are Flash Loans? (Animated) Borrow MILLIONS Instantly in Crypto - YouTube](https://www.youtube.com/watch?v=YiF6x193fRk)
+    - [What are Flash Loans? (Animated) Borrow MILLIONS Instantly in Crypto - YouTube](https://www.youtube.com/watch?v=YiF6x193fRk)
 - Exploit vs Hack (Loop holes)
 - [How (Not) To Get REKT - DeFi Hacks Explained - YouTube](https://www.youtube.com/watch?v=EawgqVdUZCI)
 - [Avoid Crypto Scams - 7 Signs of a Rug Pull! - YouTube](https://www.youtube.com/watch?v=a3CZBBqIfn0)

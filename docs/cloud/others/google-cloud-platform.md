@@ -205,14 +205,14 @@ Highly-scalable NoSQL database. It automatically handles sharding and replicatio
 
   An API proxyis your interface to developers that want to use your backend services. Rather than having them consume those services directly, they access an Edge API proxy that you create. With a proxy, you can provide value-added features such as:
 
-  - Security
-  - Rate limiting
-  - Quotas
-  - Caching & persistence
-  - Analytics
-  - Transformations
-  - CORS
-  - Fault handling
+    - Security
+    - Rate limiting
+    - Quotas
+    - Caching & persistence
+    - Analytics
+    - Transformations
+    - CORS
+    - Fault handling
 
 - API Monetization
 - Developer Portal
@@ -234,7 +234,7 @@ API management apps built on Google Cloud
 - Cloud Deployment Manager
 - Cloud Console
 - Cloud Shell
-  - ephemeral vm
+    - ephemeral vm
 - Cloud Mobile App
 - Cloud Billing API
 - Cloud APIs

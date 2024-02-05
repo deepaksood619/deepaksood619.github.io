@@ -39,9 +39,9 @@ C1 and C2 must be equal to 0 for R2
 - **Closure under Addition -** If we add two vectors belonging to the same subspace, than the addition of both the vectors must also belong to the same subspace.
 - Span of n vectors is a valid subspace of Rn
 - **S is a basis of V**, if something is a basis for a set, that means that, if you take the span of those vectors, you can get to any of the vectors in that subspace and that those vectors are linearly independent.
-  - Span (s) = R2
-  - Must be Linearly Independent
-  - Standard Basis = `T = {[1 0] , [0 1]}`
+    - Span (s) = R2
+    - Must be Linearly Independent
+    - Standard Basis = `T = {[1 0] , [0 1]}`
 
 ## [Vector dot and cross products](https://www.khanacademy.org/math/linear-algebra/vectors-and-spaces#dot-cross-products)
 
@@ -60,12 +60,12 @@ C1 and C2 must be equal to 0 for R2
 
 - Vector Triangle Inequality
 - Angles between Vectors
-  - (A.B) = ||A||*||B||*cos **Θ**
-  - If A and B are perpendicular than there dot product is 0, since cos **90 = 0**
-  - If A.B = 0 (dot product of vector A and dot product of vector B is equal to 0) and A and B are non zero vectors than A and B are perpendicular to each other.
-  - But if only A.B = 0 satisfies, than A and B are orthogonal
-  - All perpendicular vectors are Orthogonal
-  - Zero vector is orthogonal to everything else, even to itself
+    - (A.B) = ||A||*||B||*cos **Θ**
+    - If A and B are perpendicular than there dot product is 0, since cos **90 = 0**
+    - If A.B = 0 (dot product of vector A and dot product of vector B is equal to 0) and A and B are non zero vectors than A and B are perpendicular to each other.
+    - But if only A.B = 0 satisfies, than A and B are orthogonal
+    - All perpendicular vectors are Orthogonal
+    - Zero vector is orthogonal to everything else, even to itself
 
 ## [Matrices for solving systems by elimination](https://www.khanacademy.org/math/linear-algebra/vectors-and-spaces#matrices-elimination)
 

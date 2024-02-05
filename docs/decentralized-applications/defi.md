@@ -5,20 +5,20 @@
 ## Decentralized Finance - DeFi
 
 - Allow most operations traditional financial instruments, but on The Blockchain
-  - Borrowing, Lending
-  - Price speculation
-  - Swapping once ERC-20 token for another
-    - F.e. Uniswap
+    - Borrowing, Lending
+    - Price speculation
+    - Swapping once ERC-20 token for another
+        - F.e. Uniswap
 
 ## Concepts
 
 - DeFi is eating Finance
-  - Operating Costs
-    - Deutsche Bank: $10B/yr general & administrative expenses
-    - Lending Club: $325M product, generall & administrative expenses
-  - Volume & Capital Efficiency
-    - Ethereum payments volume exceeds PayPal ($1.6T vs $0.9T) with 64 vs 26k employees
-  - Ecosystem Transparency
+    - Operating Costs
+        - Deutsche Bank: $10B/yr general & administrative expenses
+        - Lending Club: $325M product, generall & administrative expenses
+    - Volume & Capital Efficiency
+        - Ethereum payments volume exceeds PayPal ($1.6T vs $0.9T) with 64 vs 26k employees
+    - Ecosystem Transparency
 - **Native Decentralized Finance** or NativeDeFi means that the DeFi applications on DeFiChain are built directly on the blockchain, ensuring the highest level of security standards and a greater resistance to hacks.
 
 ### NativeDeFi vs. DeFi on Ethereum

@@ -4,9 +4,9 @@
 
 - The surface level objective of a statement of cash flows is to explain how much the cash balance of a business changed during a period and why it changed.
 - Embedded in the statement of cash flows, though, is other information including:
-  - How much cash earnings the company had during the period, as contrasted with accural earnings (in income statements)
-  - How much and where the company reinvested cash during the period to sustain and grow its business
-  - How much cash it raised from or returned to its debt and equity investors
+    - How much cash earnings the company had during the period, as contrasted with accural earnings (in income statements)
+    - How much and where the company reinvested cash during the period to sustain and grow its business
+    - How much cash it raised from or returned to its debt and equity investors
 - The statement of cash flows preserves the signs on cash flows, with negative cash flows shown as minuses and positive cash flows as pluses. It also looks at cash flows through the eyes of equity investors in the company
 
 ## Revisiting the Cash Flow Statement
@@ -20,8 +20,8 @@
 #### The working capital effect?
 
 - Embedded in the cash flow from operations is the change in working capital items, exclusing cash
-  - Non-cash working capital = non-cash current assets - non-debt current liabilities
-  - As increase in non-cash working capital will decrease cash flows, whereas a decrease in non-cash working capital will increase cash flows
+    - Non-cash working capital = non-cash current assets - non-debt current liabilities
+    - As increase in non-cash working capital will decrease cash flows, whereas a decrease in non-cash working capital will increase cash flows
 - To the extent that non-cash working capital ties up cash and capital, a firm with higher needs for the working capital will have lower cash flows from operations, for any given level of net income, than a firm with lower needs
 
 ### Cash flows from Investing
@@ -48,9 +48,9 @@
 
 - Until the 1980s, the only cash flow that was received by equity investors in publicly traded companies was dividends. The effect of paying dividends is simple: it reduces the cash balance at the company and increases the cash in the pockets of every shareholder who receives dividends.
 - Starting in the 1980s, US companies have returned increasing amounts to their shareholders in the form of buybacks.
-  - The effect of buying back stock is exactly the same as paying dividends, to the company, with cash leaving the company.
-  - Fore shareholders, though, the cash flow effect is disparate. Those shareholders who sell their shares back get cash form the company, and those that do not get no cash, but get a larger share of the equity left in the company.
-  - Both dividends and buybacks reduce shareholder equity on the balance sheet.
+    - The effect of buying back stock is exactly the same as paying dividends, to the company, with cash leaving the company.
+    - Fore shareholders, though, the cash flow effect is disparate. Those shareholders who sell their shares back get cash form the company, and those that do not get no cash, but get a larger share of the equity left in the company.
+    - Both dividends and buybacks reduce shareholder equity on the balance sheet.
 
 ## Free Cash Flow to Equity - FCFE
 

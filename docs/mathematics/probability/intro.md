@@ -81,9 +81,9 @@ In the subjectivist view, probability is the value that a rational agent would a
 ## Cumulative and Conditional Probabilities
 
 - When you have sequential events, the cumulative probability measures the likelihood of a specific series of outcomes. To compute cumulative probabilities, each event in the sequence has to be independent of the others in that sequence
-  - Thus you can estimate the probability that an investor will beat the market ten years in a row, even if he or she is picking stocks randomly
+    - Thus you can estimate the probability that an investor will beat the market ten years in a row, even if he or she is picking stocks randomly
 - A conditional probability measures the likelihood of an event or outcome, based upon the occurrence of a prior event or outcome
-  - For instance, you can estimate the probability that the market will be up tomorrow, given that it was up today
+    - For instance, you can estimate the probability that the market will be up tomorrow, given that it was up today
 
 ## Probability Rules
 

@@ -11,7 +11,7 @@ Oil is fungible, which means one barrel of crude is interchangeable with another
 ## Tools
 
 - [https://opensea.io/](https://opensea.io/)
-  - [https://testnets.opensea.io/](https://testnets.opensea.io/)
+    - [https://testnets.opensea.io/](https://testnets.opensea.io/)
 - [Blur: NFT Marketplace for Pro Traders](https://blur.io/)
 - [X2Y2 Marketplace - x2y2.io](https://x2y2.io/)
 - [Rarible - aggregated NFT marketplace with rewards](https://rarible.com/)

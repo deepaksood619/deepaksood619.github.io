@@ -108,9 +108,9 @@ How to be successful in tech, things that should have been taught but haven't. F
 - PythonChallenge
 - http://flaws.cloud
 - **Game Days**
-  - Killing something in production
+    - Killing something in production
 - Blue/Green teams
-  - Security testing
+    - Security testing
 - Bombsquad game - mac mini
 - Gully Cricket - Parking lot
 - Git

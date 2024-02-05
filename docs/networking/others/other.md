@@ -55,24 +55,24 @@ pmacct is a small set of multi-purpose passive network monitoring tools. It can 
 - Collects Streaming Telemetry data. Read more [here](https://github.com/pmacct/pmacct/blob/master/telemetry/README.telemetry).
 - Supports Cisco NEL for CGNAT scenarios and Cisco NSEL
 - Saves data to a number of backends including:
-  - Relational databases: MySQL, PostgreSQL and SQLite
-  - noSQL databases: MongoDB and BerkeleyDB
-  - AMQP message exchanges: RabbitMQ
-  - Kafka message brokers
-  - memory tables
-  - flat files
+    - Relational databases: MySQL, PostgreSQL and SQLite
+    - noSQL databases: MongoDB and BerkeleyDB
+    - AMQP message exchanges: RabbitMQ
+    - Kafka message brokers
+    - memory tables
+    - flat files
 - Exports data to remote collectors through IPFIX, NetFlow v5/v9 and sFlow v5
 - Replicates incoming IPFIX, NetFlow and sFlow packets to remote collectors
 - Flexible architecture to tag, filter, redirect, aggregate and split captured data
 - Comes with:
-  - a BGP daemon/thread for efficient visibility into the inter-domain routing plane. Read more [here](http://www.pmacct.net/lucente_pmacct_uknof14.pdf).
-  - Supports BGP/MPLS VPNs rfc4364, Label Unicast rfc3107
-  - Supports BGP ADD-PATHs (draft-ietf-idr-add-paths) for visibility of BGP multi-path routes
-  - Can log live BGP messaging and/or dump BGP tables per peer at regular time interval
-  - a BMP daemon/thread to gain insight in BGP data, events and statistics
-    - Supports draft-ietf-grow-bmp-loc-rib and draft-ietf-grow-bmp-adj-rib-out
-  - an IS-IS/IGP thread for visibility of internal routes
-  - a RPKI thread to associate Route Origin Validation (ROV) state to BGP data (from1.7.3)
+    - a BGP daemon/thread for efficient visibility into the inter-domain routing plane. Read more [here](http://www.pmacct.net/lucente_pmacct_uknof14.pdf).
+    - Supports BGP/MPLS VPNs rfc4364, Label Unicast rfc3107
+    - Supports BGP ADD-PATHs (draft-ietf-idr-add-paths) for visibility of BGP multi-path routes
+    - Can log live BGP messaging and/or dump BGP tables per peer at regular time interval
+    - a BMP daemon/thread to gain insight in BGP data, events and statistics
+        - Supports draft-ietf-grow-bmp-loc-rib and draft-ietf-grow-bmp-adj-rib-out
+    - an IS-IS/IGP thread for visibility of internal routes
+    - a RPKI thread to associate Route Origin Validation (ROV) state to BGP data (from1.7.3)
 - Packet classification via nDPI
 - Inspection of tunnelled traffic (ie. GTP)
 - GeoIP lookups leveraging Maxmind library

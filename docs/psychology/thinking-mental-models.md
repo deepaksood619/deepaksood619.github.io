@@ -40,19 +40,19 @@ Combined two important systems thinking models - the Iceberg Model and Pace Laye
 - Connection circles
 - Balancing feedback loop
 - Reinforcing feedback loop
-  - Ex - **Compound Interest** (The more money you have in the bank, the more you earn on interest. That money is added to your balance and so you earn on interest even more.)
+    - Ex - **Compound Interest** (The more money you have in the bank, the more you earn on interest. That money is added to your balance and so you earn on interest even more.)
 
 - **Decision Making**
-  - Confidence determines speed vs. quality
-    - Is your confidence in the problem importance low? Focus on speed.
-    - Is your confidence in the problem and the solution high? Focus on quality.
-    - Is your confidence in the problem importance high, but low in the solution? Balance both speed and quality.
-  - Second order thinking
-    - Ex - living an hour away from work → need to buy a car → spending two hours of each day in a car
-  - Hard choice model
-  - Decision matrix
+    - Confidence determines speed vs. quality
+        - Is your confidence in the problem importance low? Focus on speed.
+        - Is your confidence in the problem and the solution high? Focus on quality.
+        - Is your confidence in the problem importance high, but low in the solution? Balance both speed and quality.
+    - Second order thinking
+        - Ex - living an hour away from work → need to buy a car → spending two hours of each day in a car
+    - Hard choice model
+    - Decision matrix
 - **Problem Solving**
-  - Issue trees
+    - Issue trees
 
 ![image](../media/Thinking-Mental-Models-image2.jpg)
 

@@ -10,8 +10,8 @@ theXPath - language for XML queries
 
 - super short learning curve
 - two function api
-  - parse
-  - search (find_all)
+    - parse
+    - search (find_all)
 
 ```python
 from bs4 import BeautifulSoup

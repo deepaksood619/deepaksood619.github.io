@@ -147,7 +147,7 @@ Cantillon effect explains how changes in the supply of money in an economy can a
 - DWTCAFK - Don’t Want To Catch A Falling Knife
 - [Preferred Stock](https://en.wikipedia.org/wiki/Preferred_stock) vs [Common Stock](https://en.wikipedia.org/wiki/Common_stock) - "Preferred stock is a type of stock which may have any combination of features not possessed by common stock including properties of both an equity and a debt instrument, and is generally considered a hybrid instrument."
 - [Margin of Safety](https://en.wikipedia.org/wiki/Margin_of_safety_(financial)) - "The difference between the intrinsic value of a stock and its market price."
-  - [3 Unique Methods of Calculating Margin of Safety of a Business & Stock | The Intelligent Investor](https://www.youtube.com/watch?v=Bm3w9YmAF2E)
+    - [3 Unique Methods of Calculating Margin of Safety of a Business & Stock | The Intelligent Investor](https://www.youtube.com/watch?v=Bm3w9YmAF2E)
 - [Investing vs Speculation](http://www.investopedia.com/ask/answers/09/difference-between-investing-speculating.asp) - "Typically, high-risk trades that are almost akin to gambling fall under the umbrella of speculation, whereas lower-risk investments based on fundamentals and analysis fall into the category of investing."
 - [Compound Interest](https://en.wikipedia.org/wiki/Compound_interest) - "Interest on interest. It is the result of reinvesting interest, rather than paying it out, so that interest in the next period is then earned on the principal sum plus previously-accumulated interest."
 - [Inflation](https://en.wikipedia.org/wiki/Inflation) - "A sustained increase in the general price level of goods and services in an economy over a period of time." (related:[real vs nominal value](https://en.wikipedia.org/wiki/Real_versus_nominal_value_%28economics%29), [hyperinflation](https://en.wikipedia.org/wiki/Hyperinflation), [deflation](https://en.wikipedia.org/wiki/Deflation), [debasement](https://en.wikipedia.org/wiki/Debasement))
@@ -241,9 +241,9 @@ While someone may be improving on an absolute basis, they are often getting wors
 [How to make massive returns!](https://www.youtube.com/watch?v=2Ms2gG27wyA)
 
 - The BCG Growth-Share matrix (BCG - Boston Consulting Group)
-  - The BCG growth-share matrix is a tool used internally by management to assess the current state of value of a firm's units or product lines.
-  - The growth-share matrix aids the company in deciding which products or units to either keep, sell, or invest more in.
-  - The BCG growth-share matrix contains four distinct categories: "dogs," "cash cows," "stars," and "question marks."
+    - The BCG growth-share matrix is a tool used internally by management to assess the current state of value of a firm's units or product lines.
+    - The growth-share matrix aids the company in deciding which products or units to either keep, sell, or invest more in.
+    - The BCG growth-share matrix contains four distinct categories: "dogs," "cash cows," "stars," and "question marks."
 
 https://www.bcg.com/about/overview/our-history/growth-share-matrix
 

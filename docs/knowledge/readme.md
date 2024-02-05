@@ -11,4 +11,5 @@
 - [Quotes Proverbs](quotes-proverbs/business-management)
 - [Games](games/readme.md)
 - [Others](others/readme.md)
+- [Youtube / Podcasts / Magazine / Apps](knowledge/youtube-podcasts-magazine-apps.md)
 - [Links](knowledge/links.md)

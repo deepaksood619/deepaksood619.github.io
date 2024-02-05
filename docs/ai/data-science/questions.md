@@ -165,8 +165,8 @@ select * from
 
 - Difference between procedures and functions in mysql
 - What are different types of indexes in relational database
-  - Clustered
-  - Un clustered
+    - Clustered
+    - Un clustered
 - What is materialized view
 
 ## Big Data
@@ -174,21 +174,21 @@ select * from
 - How do you create data archival service (Data governance, data flow)
 - Difference between ORC and Parquet
 - Kafka
-  - Different components in Kafka
-  - How to add a new kafka broker in an existing cluster
-  - What is the role of Leader
-  - Topic log compaction
-  - What are the guarantees
+    - Different components in Kafka
+    - How to add a new kafka broker in an existing cluster
+    - What is the role of Leader
+    - Topic log compaction
+    - What are the guarantees
 - Database - Indexing
 - Row-based vs column based file formats (examples of each)
 - Data modeling - ML/AI (L1 & L2 regularization)
 - CAP Theorem
-  - Consistency levels
+    - Consistency levels
 - Storing 4 billion people newsletter preference (if they want it or not?)
-  - Amount of memory/space required
-  - Time complexity of getting the data for a specific customer
-  - Ans - BitMap
-  - Optimization - Compressed BitMap for sparse data
+    - Amount of memory/space required
+    - Time complexity of getting the data for a specific customer
+    - Ans - BitMap
+    - Optimization - Compressed BitMap for sparse data
 
 ## Other questions
 

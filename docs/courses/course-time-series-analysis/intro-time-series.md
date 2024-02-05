@@ -1,13 +1,13 @@
 # Intro - Time Series
 
 - QQ-Plot (Quantile-Quantile Plot)
-  - Used to determine whether a data set is distributed a certain way (To see if the values of a data set follow a given distribution?)
-  - Usually showcases how the data fits a Normal Distribution
-  - Takes all the values a variable can take, and arranges them in accending order
-  - ![image](../../media/Course-Time-Series-Analysis_Intro-Time-Series-image1.jpg)
-  - Y-axis expresses the price with highest one on top and lowest on bottom
-  - X-axis expresses theoretical quantiles of the dataset. How many standard deviations away from the mean these values are.
-  - Diagonal line shows what the data points should follow, if they are Normally Distributed
+    - Used to determine whether a data set is distributed a certain way (To see if the values of a data set follow a given distribution?)
+    - Usually showcases how the data fits a Normal Distribution
+    - Takes all the values a variable can take, and arranges them in accending order
+    - ![image](../../media/Course-Time-Series-Analysis_Intro-Time-Series-image1.jpg)
+    - Y-axis expresses the price with highest one on top and lowest on bottom
+    - X-axis expresses theoretical quantiles of the dataset. How many standard deviations away from the mean these values are.
+    - Diagonal line shows what the data points should follow, if they are Normally Distributed
 - ACF
 - PACF
 - Seasonal Decomposition Graph
@@ -52,7 +52,7 @@ Account for unexpected shocks in our data
 https://www.machinelearningplus.com/time-series/arima-model-time-series-forecasting-python
 
 - **Univariate Time Series**
-  - Simple Average
+    - Simple Average
 
 Sum all points divided by total number of points
 
@@ -68,8 +68,8 @@ Attach larger weights to more recent observations than to observations from the 
 - Holt's winter seasonal method
 
 - **Multivariate Time Series**
-  - Finds linear interdependencies between multiple variables
-  - Examples - ARIMA, ARIMAX
+    - Finds linear interdependencies between multiple variables
+    - Examples - ARIMA, ARIMAX
 
 ## Time-Series Data
 
@@ -104,8 +104,8 @@ roll up - Aggregating the data
 Increase frequency - Approximate missing values
 
 - Requires chronological order
-  - Choose a cut off time for train test data
-  - Cannot shuffle data so cannot apply some ML models
+    - Choose a cut off time for train test data
+    - Cannot shuffle data so cannot apply some ML models
 - Never satisfies Gauss-Markov assumptions
 
 Why do we decide to use the dates the values were recorded as indices, as opposed to any of the other columns?
@@ -150,9 +150,9 @@ b - business days / weekdays
 
 - A special type of time-series, where values tend to persist over time and the differences between periods are simply white noise
 - Characteristics
-  - The differences between periods are simply White Noise.
-  - The best estimator for today's values is yesterday's value
-  - The best estimator for tomorrow's value is today's value
+    - The differences between periods are simply White Noise.
+    - The best estimator for today's values is yesterday's value
+    - The best estimator for tomorrow's value is today's value
 
 Market efficiency - Measures the level of difficulty in forecasting correct future values
 
@@ -228,8 +228,8 @@ Split into 3 effects:
 The difference between true values and predictions for any period
 
 - Types of Decomposition
-  - Naive Decomposition
-    - Additive
+    - Naive Decomposition
+        - Additive
 
 observed = trend + seasonal + residual
 

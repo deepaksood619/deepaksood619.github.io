@@ -200,8 +200,8 @@ MaxConnectionsPerChild 10000
 - **MaxConnectionsPerChild** (known as MaxRequestsPerChild prior to version 2.4) determines the total number of connections each child process can serve before it is restarted, which can be important for guarding against [memory leaks](https://www.datadoghq.com/blog/monitoring-apache-web-server-performance/#toc-host-level-resource-metrics) when using certain modules like mod_php.
 
 - **Backlog Queue**
-  - Backlog Queue settingnet.core.somaxconnfrom128to32768
-  - Ephemeral Ports settingnet.ipv4.ip_local_port_rangefrom32768 60999to1024 65000
+    - Backlog Queue settingnet.core.somaxconnfrom128to32768
+    - Ephemeral Ports settingnet.ipv4.ip_local_port_rangefrom32768 60999to1024 65000
 
 ### Optimizations
 
@@ -249,11 +249,11 @@ AllowOverride All
 ## OS Specifics
 
 - Increase Swappiness
-  - Particularly on single site hosts this will increase performance. On linux systems increase /proc/sys/vm/swappiness to at least 60 if not greater. This will try to load as many files as possible into the memory cache for faster access.
+    - Particularly on single site hosts this will increase performance. On linux systems increase /proc/sys/vm/swappiness to at least 60 if not greater. This will try to load as many files as possible into the memory cache for faster access.
 - Increase Write Buffer Size
-  - Increase your write buffer size for tcp/ip buffers. On linux systems increase /proc/sys/net/core/wmem_max and /proc/sys/net/core/wmem_default. If your pages fit within this buffer, apache will complete a process in one call to the tcp/ip buffer.
+    - Increase your write buffer size for tcp/ip buffers. On linux systems increase /proc/sys/net/core/wmem_max and /proc/sys/net/core/wmem_default. If your pages fit within this buffer, apache will complete a process in one call to the tcp/ip buffer.
 - Increase Max Open Files
-  - If you are handling high loads increase the number of allowed open files. On linux, increase /proc/sys/fs/file-max and run ulimit -H -n 4096.
+    - If you are handling high loads increase the number of allowed open files. On linux, increase /proc/sys/fs/file-max and run ulimit -H -n 4096.
 
 - If you need to get more speed from dynamic pages, you have a few options: add a **Varnish** or **Memcached** caching layer, switch to a faster PHP runtime (e.g., **HHVM**), do load balancing, or invest in extra hardware.
 
@@ -270,8 +270,8 @@ Apache gathers only two distinct types of logs: Access Log and Error Logs.
 ### Metrics to monitor
 
 - Throughput and latency metrics
-  - Request Processing Time
-  - Rate of Requests
+    - Request Processing Time
+    - Rate of Requests
 - Resource Utilization and activity metrics
 - Host-level resource metrics
 - Errors

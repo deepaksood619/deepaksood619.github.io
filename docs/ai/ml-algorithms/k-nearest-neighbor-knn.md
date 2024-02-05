@@ -37,8 +37,8 @@ https://machinelearningmastery.com/k-nearest-neighbors-for-machine-learning
 - The value of k, the number of nearest neighbors to retrieve
 - Choice of distance metric to compute distance between records
 - Computational complexity
-  - Size of training set
-  - Dimension of data
+    - Size of training set
+    - Dimension of data
 
 ![image](../../media/K-Nearest-Neighbor-(KNN)-image8.jpg)
 
@@ -47,10 +47,10 @@ https://machinelearningmastery.com/k-nearest-neighbors-for-machine-learning
 ## Distance Measure: Scale Effects
 
 - Different features may have different measurement scales
-  - E.g., patient weight in kg (range [50,200]) vs blood protein values in ng/dL (range [-3,3])
+    - E.g., patient weight in kg (range [50,200]) vs blood protein values in ng/dL (range [-3,3])
 - Consequences
-  - Patient weight will have a much greater influence on the distance between samples
-  - May bias the performance of the classifier
+    - Patient weight will have a much greater influence on the distance between samples
+    - May bias the performance of the classifier
 
 ![image](../../media/K-Nearest-Neighbor-(KNN)-image10.jpg)
 
@@ -63,24 +63,24 @@ https://machinelearningmastery.com/k-nearest-neighbors-for-machine-learning
 ## Nearest Neighbour: Computational Complexity
 
 - Expensive
-  - To determine the nearest neighbour of a query point q, must compute the distance to all N training examples
-    - Pre-sort training examples into fast data structures (kd-trees)
-    - Compute only an approximate distance (LSH - Locality Sensitive Hashing)
-    - Remove redundant data (condensing)
+    - To determine the nearest neighbour of a query point q, must compute the distance to all N training examples
+        - Pre-sort training examples into fast data structures (kd-trees)
+        - Compute only an approximate distance (LSH - Locality Sensitive Hashing)
+        - Remove redundant data (condensing)
 - Storage requirements
-  - Must store all training data P
-    - Remove redundant data (condensing)
-    - Pre-sorting often increases the storage requirements
+    - Must store all training data P
+        - Remove redundant data (condensing)
+        - Pre-sorting often increases the storage requirements
 - High dimensional data
-  - Curse of Dimensionality
-    - Required amount of training data increases exponentially with dimension
-    - Computational cost also increases dramatically
-    - Partitioning techniques degrade to linear search in high dimension
+    - Curse of Dimensionality
+        - Required amount of training data increases exponentially with dimension
+        - Computational cost also increases dramatically
+        - Partitioning techniques degrade to linear search in high dimension
 
 ## Reduction in Computational Complexity
 
 - Reduce size of training set
-  - Condensation, editing
+    - Condensation, editing
 - Use geometric data structure for high dimensional search
 
 ## Condensation: Decision Regions
@@ -158,7 +158,7 @@ https://machinelearningmastery.com/k-nearest-neighbors-for-machine-learning
 ## Formalizing vector space proximity
 
 - First cut: distance between two points
-  - ( = distance between the end points of the two vectors)
+    - ( = distance between the end points of the two vectors)
 - Euclidean distance?
 - Euclidean distance is a bad idea...
 - ... because Euclidean distance is large for vectors of different lenghts
@@ -174,8 +174,8 @@ https://machinelearningmastery.com/k-nearest-neighbors-for-machine-learning
 ## From angles to cosines
 
 - The following two notions are equivalent
-  - Rank documents in decreasing order of the angle between query and document
-  - Rank documents in increasing order of cosine (query, document)
+    - Rank documents in decreasing order of the angle between query and document
+    - Rank documents in increasing order of cosine (query, document)
 - Cosine is a monotonically decreasing function for the interval [0, 180]
 
 ![image](../../media/K-Nearest-Neighbor-(KNN)-image18.jpg)
@@ -185,19 +185,19 @@ https://machinelearningmastery.com/k-nearest-neighbors-for-machine-learning
 ## Classifier Evaluation
 
 - Metrics for Performance Evaluation
-  - How to evaluate the performance of a model
+    - How to evaluate the performance of a model
 - Methods for Performance Evaluation
-  - How to obtain reliable estimates?
+    - How to obtain reliable estimates?
 - Methods for Model Comparison
-  - How to compare the relative performance among competing models?
+    - How to compare the relative performance among competing models?
 
 ## Limitation of Accuracy
 
 - Consider a 2-class problem
-  - Number of class 0 examples = 9990
-  - Number of class 1 examples = 10
+    - Number of class 0 examples = 9990
+    - Number of class 1 examples = 10
 - If model predicts everything to be class 0, accuracy is 9990/10000 = 99.9%
-  - Accuracy is misleading because model does not detect any class 1 example
+    - Accuracy is misleading because model does not detect any class 1 example
 
 ![image](../../media/K-Nearest-Neighbor-(KNN)-image19.jpg)
 
@@ -206,40 +206,40 @@ https://machinelearningmastery.com/k-nearest-neighbors-for-machine-learning
 ## Model Evaluation
 
 - Metrics for Performance Evaluation
-  - How to evaluate the performance of a model
+    - How to evaluate the performance of a model
 - Methods for Performance Evaluation
-  - How to obtain reliable estimates of performance?
-  - Performance of a model may depend on other factors besides the learning algorithm:
-    - Class distribution
-    - Cost of misclassification
-    - Size of training and test sets
+    - How to obtain reliable estimates of performance?
+    - Performance of a model may depend on other factors besides the learning algorithm:
+        - Class distribution
+        - Cost of misclassification
+        - Size of training and test sets
 - Methods for Model Comparison
-  - How to compare the relative performance among competing models?
+    - How to compare the relative performance among competing models?
 
 ![image](../../media/K-Nearest-Neighbor-(KNN)-image21.jpg)
 
 ## Methods of Estimation
 
 - Holdout
-  - Reserve 2/3 for training and 1/3 for testing
+    - Reserve 2/3 for training and 1/3 for testing
 - Random subsampling
-  - Repeated holdout
+    - Repeated holdout
 - Cross validation
-  - Partition data into k disjoint subsets
-  - k-fold: train on k-1 partitions, test on the remaining one
-  - Leave-one-out: k=n
+    - Partition data into k disjoint subsets
+    - k-fold: train on k-1 partitions, test on the remaining one
+    - Leave-one-out: k=n
 - Stratified sampling
-  - Oversampling vs undersampling
+    - Oversampling vs undersampling
 - Bootstrap
-  - Sampling with replacement
+    - Sampling with replacement
 
 ## ROC (Receiver Operating Characteristic)
 
 - Developed in 1950s for signal detection theory to analyze noisy signals
-  - Characterize the trade-off between positive hits and false alarms
+    - Characterize the trade-off between positive hits and false alarms
 - ROC Curve plots TP (on the y-axis) against FP (on the x-axis)
 - Performance of each classifier represented as a point on the ROC curve
-  - changing the threshold of algorithm, sample distribution or cost matrix changes the location of the point
+    - changing the threshold of algorithm, sample distribution or cost matrix changes the location of the point
 
 ![image](../../media/K-Nearest-Neighbor-(KNN)-image22.jpg)
 
@@ -250,11 +250,11 @@ https://machinelearningmastery.com/k-nearest-neighbors-for-machine-learning
 ## Test of Significance
 
 - Given two models:
-  - Model M1: accuracy = 85%, tested on 30 instances
-  - Model M2: accuracy = 75%, tested on 5000 instances
+    - Model M1: accuracy = 85%, tested on 30 instances
+    - Model M2: accuracy = 75%, tested on 5000 instances
 - Can we say M1 is better than M2?
-  - How much confidence can we place on accuracy of M1 and M2?
-  - Can the difference in performance measure be explained as a result of random fluctuations in the test set?
+    - How much confidence can we place on accuracy of M1 and M2?
+    - Can the difference in performance measure be explained as a result of random fluctuations in the test set?
 
 ![image](../../media/K-Nearest-Neighbor-(KNN)-image25.jpg)
 

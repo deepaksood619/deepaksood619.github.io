@@ -71,11 +71,11 @@ Hooked: How to Build Habit-Forming Products by Nir Eyal
 ### Trigger
 
 - Classical triggers
-  - Boredom - Instagram
-  - Hunger - Zomato
-  - Need to go out - Ola/Uber
+    - Boredom - Instagram
+    - Hunger - Zomato
+    - Need to go out - Ola/Uber
 - External triggers
-  - Notifications
+    - Notifications
 
 ### Action
 
@@ -85,21 +85,21 @@ Variable reward system
 - When a creature is rewarded in a random unpredictable pattern, that creature get addicted to carry out that action again and again
 - Increase and decrease difficulty, difficult to win 10 games in a row
 - Infinite loop phenomenon
-  - Bottomless bowl
-    - 73% more than normal bowl subjects
-    - If there isn't a visual cue to indicate the quantity of consumption and experience is left unhindered and by default it will lead to excessive consumption and most importantly, inspite of excessive consumption, the subject will still be unsatisfied, leading to more consumption
-  - Shower
-    - No idea how much water you are consuming
-    - Lose track of time
-    - Left with slight urge to shower more
+    - Bottomless bowl
+        - 73% more than normal bowl subjects
+        - If there isn't a visual cue to indicate the quantity of consumption and experience is left unhindered and by default it will lead to excessive consumption and most importantly, inspite of excessive consumption, the subject will still be unsatisfied, leading to more consumption
+    - Shower
+        - No idea how much water you are consuming
+        - Lose track of time
+        - Left with slight urge to shower more
 - Bottomless scroll
 
 ### Investment
 
 - In-app purchases
 - Delete facebook
-  - Might contact your friends later, but never
-  - Perceived value of facebook has increased because of the connections
+    - Might contact your friends later, but never
+    - Perceived value of facebook has increased because of the connections
 
 Hooked Workbook - to understand customers
 

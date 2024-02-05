@@ -9,13 +9,13 @@
 ## Others
 
 - Custom data types
-  - Enum
-  - Message
-  - Nested or not nested?
-  - Well-known types
+    - Enum
+    - Message
+    - Nested or not nested?
+    - Well-known types
 - Multiple proto files
-  - Package
-  - Import
+    - Package
+    - Import
 - Repeated fields
 - Oneof fields
 - Go package option

@@ -143,8 +143,8 @@ Clients connect to MySQL and issues queries (which may or may not already be cac
 ## Important Paths
 
 - datadir - where the data lives by default - default location for:
-  - Data and indexes for non-InnoDB tables
-  - InnoDB file-per-table, general, syste, and undo log tablespaces
+    - Data and indexes for non-InnoDB tables
+    - InnoDB file-per-table, general, syste, and undo log tablespaces
 - innodb_data_home_dir - default location for the InnoDB system tablespace
 - innodb_log_group_home_dir - path to the InnoDB redo log files
 - innodb_undo_directory - path to the InnoDB undo tablespaces

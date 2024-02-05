@@ -81,7 +81,7 @@ EQ can evolve and increase with our desire to learn and grow.
 - Reduce negative emotions
 - Stay cool and manage stress
 - Express difficult emotions
-  - One method to consider when needing to express difficult emotions is the XYZ technique -I feel X when you do Y in situation Z.
+    - One method to consider when needing to express difficult emotions is the XYZ technique -I feel X when you do Y in situation Z.
 
 Avoid using sentences that begin with "you" and followed by accusation or judgment, such as "you are...," "you should...," or "you need to... ."
 

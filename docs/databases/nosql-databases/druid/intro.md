@@ -61,15 +61,15 @@ Druid is fundamentally a column store, and is designed for analytical queries (G
 
 - Datasources are broken into files called segments
 - Segments are grouped into time chunks and potentially, further partitioned at creation time
-  - This allows Druid to parallelize ingestion and querying of data
+    - This allows Druid to parallelize ingestion and querying of data
 - Segments are immutable
-  - Each segment is versioned to allow new versions to replace old versions
-  - This can be done as a background task without blocking queries
+    - Each segment is versioned to allow new versions to replace old versions
+    - This can be done as a background task without blocking queries
 - Druid segments have their own file format
 - The file format is columnar
-  - Data is laid out into columns and each column is packed and compressed individually
-  - String columns are dictionary encoded instead of having the full string value in every row
-  - Numeric columns use various kinds of numeric compression based on the data
+    - Data is laid out into columns and each column is packed and compressed individually
+    - String columns are dictionary encoded instead of having the full string value in every row
+    - Numeric columns use various kinds of numeric compression based on the data
 - Columnar formats are the standard for analytical workloads due to superior scan performance
 - String columns in Druid are indexed with bitmap indexes
 - Columns are further compressed with general-purpose algorithms like LZ4 (Lossless compression)
@@ -77,9 +77,9 @@ Druid is fundamentally a column store, and is designed for analytical queries (G
 ![image](../../../media/Druid-image1.jpg)
 
 - This on-disk format has several benefits:
-  - Filtering if a domain exists require reading less data
-  - Compression of like data performs better than a row-oriented format
-  - Druid only needs to read the columns involved in a query, eliminating extraneous fetches from disk and memory
+    - Filtering if a domain exists require reading less data
+    - Compression of like data performs better than a row-oriented format
+    - Druid only needs to read the columns involved in a query, eliminating extraneous fetches from disk and memory
 
 ![image](../../../media/Druid-image2.jpg)
 
@@ -87,23 +87,23 @@ Druid is fundamentally a column store, and is designed for analytical queries (G
 
 - Designing a data model for Druid is different than a RDBMS
 - Most RDBMS design focuses on normalization
-  - Each piece of data should only appear once in the database
+    - Each piece of data should only appear once in the database
 - Databases like Druid favor some denormalization
-  - Each piece of data may appear many different times in the database
+    - Each piece of data may appear many different times in the database
 - Druid favors denormalized data because this is faster than doing a join with another large table
-  - Flat schemas increase performance by allowing Druid to operate directly on compressed dictionary-encoded data
+    - Flat schemas increase performance by allowing Druid to operate directly on compressed dictionary-encoded data
 - When designing a table, you must
-  - Choose the datasource name
-  - The source for the input data
-  - The columns you want to store
+    - Choose the datasource name
+    - The source for the input data
+    - The columns you want to store
 - Creating a data model is more than just copying the table structure of a RDBMS table
 - When transitioning from a RDBMS, you will need to choose
-  - Which columns should be included
-  - Which types to use for each column (Druid doesn't support all RDBMS types)
-  - Whether you will be totally flattening your tables, or using Druid's query-time lookups to partially normalize data
+    - Which columns should be included
+    - Which types to use for each column (Druid doesn't support all RDBMS types)
+    - Whether you will be totally flattening your tables, or using Druid's query-time lookups to partially normalize data
 - In Druid, columns will become
-  - Dimensions (stored as-is)
-  - Metrics (partially aggregated)
+    - Dimensions (stored as-is)
+    - Metrics (partially aggregated)
 
 ### Supported Types
 
@@ -127,13 +127,13 @@ Druid is fundamentally a column store, and is designed for analytical queries (G
 
 - Data stored in Druid can be queried with a SQL API
 - These calls go over a HTTP REST API
-  - The payload of the REST call is JSON
-  - The query results come back as JSON or CSV
+    - The payload of the REST call is JSON
+    - The query results come back as JSON or CSV
 - Not every SQL feature is supported
 - The query engine is implemented with Apache Calcite
 - The SQL queries are translated into Druid's native queries
 - There is a native JSON query API available too
-  - The SQL API is virtually at parity with the JSON and is easier to use
+    - The SQL API is virtually at parity with the JSON and is easier to use
 - Where clauses
 
 ![image](../../../media/Druid-image6.jpg)
@@ -178,8 +178,8 @@ https://imply.io/druid-university/intro-to-druid-university
 
 - tiered data
 - data volumes- Plywood
-  - queries
-  - expressions
+    - queries
+    - expressions
 - Pivot - alerts
 - Measures
 - Roll up
@@ -195,8 +195,8 @@ https://imply.io/druid-university/intro-to-druid-university
 - 2 threads in middlemanager can handle 25 GB/hour of ingestion (2 HyperThreads per task)
 - Per tasks per partition ingest from Kafka
 - Segment scan rate
-  - 4 GB/s/HT for data sitting in RAM
-  - 0.5 GB/s/HT for data sitting in disk
+    - 4 GB/s/HT for data sitting in RAM
+    - 0.5 GB/s/HT for data sitting in disk
 - Druid is not good for computing moving averages
 - No ML library in Druid
 - Duplicate data removal using HyperLogLog- https://cleanprogrammer.net/getting-unique-counts-from-druid-using-hyperloglog

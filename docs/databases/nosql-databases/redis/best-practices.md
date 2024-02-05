@@ -10,8 +10,8 @@ https://redis.io/topics/indexes- [Sorted Sets as Indexes](https://redislabs.com/
 - [IP Range Indexing](https://redislabs.com/redis-best-practices/indexing-patterns/ip-range-indexing/)
 - [Full Text Search](https://redislabs.com/redis-best-practices/indexing-patterns/full-text-search/)
 - [Partitioned Index](https://redislabs.com/redis-best-practices/indexing-patterns/partitioned-index/)- [Communication Patterns](https://redislabs.com/redis-best-practices/communication-patterns/)
-  - [Event Queue](https://redislabs.com/redis-best-practices/communication-patterns/event-queue/)
-  - [Redlock](https://redislabs.com/redis-best-practices/communication-patterns/redlock/)
+    - [Event Queue](https://redislabs.com/redis-best-practices/communication-patterns/event-queue/)
+    - [Redlock](https://redislabs.com/redis-best-practices/communication-patterns/redlock/)
 
 In a system, sometimes you must lock a resource. This might be to make critical modifications that cannot be resolved in any concurrent way. The goals for locks are:
 
@@ -20,17 +20,17 @@ In a system, sometimes you must lock a resource. This might be to make critical 
 - Not deadlock any resource meaning that a resource should be unlocked after a given time period.
 Redis is a good option locking since has a simple key-based data model, each shard is single-threaded, and is quite quick. There is a well-established, canonical implementations of locking using Redis called Redlock.- [Pub/Sub](https://redislabs.com/redis-best-practices/communication-patterns/pub-sub/)
 - [Distributed Events](https://redislabs.com/redis-best-practices/communication-patterns/distributed-events/)- [Data Storage Patterns](https://redislabs.com/redis-best-practices/data-storage-patterns/)
-  - [JSON Storage](https://redislabs.com/redis-best-practices/data-storage-patterns/json-storage/)
-  - [Object->Hash Storage](https://redislabs.com/redis-best-practices/data-storage-patterns/object-hash-storage/)
+    - [JSON Storage](https://redislabs.com/redis-best-practices/data-storage-patterns/json-storage/)
+    - [Object->Hash Storage](https://redislabs.com/redis-best-practices/data-storage-patterns/object-hash-storage/)
 - [Time Series Patterns](https://redislabs.com/redis-best-practices/time-series/)
-  - [Sorted Set Time Series](https://redislabs.com/redis-best-practices/time-series/sorted-set-time-series/)
-  - [Lexicographic Sorted Set Time Series](https://redislabs.com/redis-best-practices/time-series/lexicographic-sorted-set-time-series/)
-  - [Time Series with Bitfields](https://redislabs.com/redis-best-practices/time-series/time-series-bitfields/)
+    - [Sorted Set Time Series](https://redislabs.com/redis-best-practices/time-series/sorted-set-time-series/)
+    - [Lexicographic Sorted Set Time Series](https://redislabs.com/redis-best-practices/time-series/lexicographic-sorted-set-time-series/)
+    - [Time Series with Bitfields](https://redislabs.com/redis-best-practices/time-series/time-series-bitfields/)
 - [Basic Rate Limiting Pattern](https://redislabs.com/redis-best-practices/basic-rate-limiting/)
 - [Bloom Filter Pattern](https://redislabs.com/redis-best-practices/bloom-filter-pattern/)
 - [Counting](https://redislabs.com/redis-best-practices/counting/)
-  - [Bit Counting Pattern](https://redislabs.com/redis-best-practices/counting/bit-counting-pattern/)
-  - [HyperLogLog](https://redislabs.com/redis-best-practices/counting/hyperloglog/)
+    - [Bit Counting Pattern](https://redislabs.com/redis-best-practices/counting/bit-counting-pattern/)
+    - [HyperLogLog](https://redislabs.com/redis-best-practices/counting/hyperloglog/)
 - [Lua Helpers](https://redislabs.com/redis-best-practices/lua-helpers/)
 https://redislabs.com/redis-best-practices
 

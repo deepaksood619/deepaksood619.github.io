@@ -31,7 +31,7 @@ Languages that support symbolic programming include [homoiconic](https://en.wik
 ## Others
 
 - Contract-oriented programming language (for writing smart contracts)
-  - Solidity (used in Ethereum)
+    - Solidity (used in Ethereum)
 
 ## Imperative vs Declarative Programming
 

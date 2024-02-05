@@ -5,10 +5,10 @@ https://neptune.ml/blog/evaluation-metrics-binary-classification
 ## Classification
 
 - Given a collection of records **(training set)**
-  - Each record contains a set of **attributes**, one of the attributes is the **class**
+    - Each record contains a set of **attributes**, one of the attributes is the **class**
 - Find a **model** for class attribute as a function of the values of other attributes.
 - Goal: **Previously unseen** records should be assigned a class as accurately as possible
-  - A **test set** is used to determine the accuracy of the model. Usually, the given data set is divided into training and test sets, with training set used to build the model and test set used to validate it
+    - A **test set** is used to determine the accuracy of the model. Usually, the given data set is divided into training and test sets, with training set used to build the model and test set used to validate it
 
 ![image](../../media/Classification-image1.jpg)
 

@@ -45,11 +45,11 @@ Replaying all the events from the logs can give any state of the system at any t
     2. Accounting ledgers
 
 - Can be used for
-  - Audit
-  - Debugging
-  - Historic State
-  - Alternative State
-  - Memory Image
+    - Audit
+    - Debugging
+    - Historic State
+    - Alternative State
+    - Memory Image
 
 2. CQRS - Command and Query Responsibility Segregation
 

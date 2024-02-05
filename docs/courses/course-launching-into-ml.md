@@ -25,7 +25,7 @@
 ## Prediction Problem
 
 - **Supervised Learning**
-  - Classification problem
+    - Classification problem
 
 Classification models usually use cross entropy as their loss function (the penalty for cross entropy is almost linear and the predicted probability is close to actual label, but as it gets further away it becomes exponential, when it gets close to predicting the opposite class of the label)
 

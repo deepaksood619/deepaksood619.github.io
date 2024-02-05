@@ -89,14 +89,14 @@ In this approach, you push the data directly to the Kafka broker via the Conflue
 ## Building Data Pipelines
 
 - Considerations when building data pipelines
-  - Timeliness
-  - Reliability
-  - High and varying throughput
-  - Data formats
-  - Transformations
-  - Security
-  - Failure handling
-  - Coupling and agility
+    - Timeliness
+    - Reliability
+    - High and varying throughput
+    - Data formats
+    - Transformations
+    - Security
+    - Failure handling
+    - Coupling and agility
 
 ## IoT Data Processing
 

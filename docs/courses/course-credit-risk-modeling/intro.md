@@ -14,10 +14,10 @@ A borrower not being able to repay their debt
 - Increase the interest rate (Risk-based pricing)
 
 - Expected loss (EL) - PG, LGD, EAD
-  - UL - Unexpected losses - result of adverse economic circumstances
-  - SL - Exceptional (stress) losses - result of severe economic downturn
-  - There is certain amount of credit risk associated with every borrower
-  - Estimating expected loss (expected credit loss)
+    - UL - Unexpected losses - result of adverse economic circumstances
+    - SL - Exceptional (stress) losses - result of severe economic downturn
+    - There is certain amount of credit risk associated with every borrower
+    - Estimating expected loss (expected credit loss)
 
 The amount a lender might lose by lending to a borrower
 
@@ -38,23 +38,23 @@ The total value that a lender is exposed to when a borrower defaults
 - Loan to value
 
 - Capital Adequacy, Regulations and Basel II Accord
-  - Capital requirement/capital adequacy/regulatory capital
-  - Risk weighted assets
-  - The greater the risk a bank is exposed to, the greater the amount of capital it needs to hold
-  - Basel II accord
-    - Minimum capital requirements
-      - Credit risk
-        - Standardized Approach (SA) (% of the total exposure)
-        - Internal Ratings Based (IRB) Approaches
-          - Foundation Internal Ratings Based (F-IRB) Approach
-          - Advanced Internal Ratings Based (A-IRB) Approach
-      - Operational risk
-      - Market risk
-    - Supervisory review
-    - Market discipline
+    - Capital requirement/capital adequacy/regulatory capital
+    - Risk weighted assets
+    - The greater the risk a bank is exposed to, the greater the amount of capital it needs to hold
+    - Basel II accord
+        - Minimum capital requirements
+            - Credit risk
+                - Standardized Approach (SA) (% of the total exposure)
+                - Internal Ratings Based (IRB) Approaches
+                    - Foundation Internal Ratings Based (F-IRB) Approach
+                    - Advanced Internal Ratings Based (A-IRB) Approach
+            - Operational risk
+            - Market risk
+        - Supervisory review
+        - Market discipline
 - Different facility types (asset classes) and credit risk modeling approaches
-  - PD - Binomial Logistic regression
-  - LGD/EAD - Beta regression
+    - PD - Binomial Logistic regression
+    - LGD/EAD - Beta regression
 
 ![image](../../media/Course-Credit-Risk-Modeling_Intro-image1.jpg)
 
@@ -175,9 +175,9 @@ Setting a higher cut-off score for approval of credit applications will result i
     4. Where should we set the cut-off if we want our approval rate to be just below 14%? What credit score and what probability of being 'good'?
 
 - Model maintenance
-  - 6 months/1 year
-  - Number of applicants as a benchmark
-  - Example - Redevelop our model after 50,000/100,000 new data points
+    - 6 months/1 year
+    - Number of applicants as a benchmark
+    - Example - Redevelop our model after 50,000/100,000 new data points
 
 ## PSI (Population Stability Index) / CSI (Characteristics Stability Index)
 

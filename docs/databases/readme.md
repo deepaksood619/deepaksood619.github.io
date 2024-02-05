@@ -8,6 +8,6 @@
 - [Data Warehousing](data-warehousing/readme.md)
 - [Others](others/readme.md)
 - Cloud DBs
-  - [Amazon Aurora](databases/sql-databases/aws-aurora/readme.md)
-  - [Amazon DynamoDB](databases/nosql-databases/aws-dynamodb/readme.md)
-  - [Amazon Redshift](databases/sql-databases/aws-redshift/readme.md)
+    - [Amazon Aurora](databases/sql-databases/aws-aurora/readme.md)
+    - [Amazon DynamoDB](databases/nosql-databases/aws-dynamodb/readme.md)
+    - [Amazon Redshift](databases/sql-databases/aws-redshift/readme.md)

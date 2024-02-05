@@ -217,23 +217,23 @@ https://deepstash.com/article/3412/the-guide-to-strong-boundaries
 
 - The purpose of education is to teach self-reliance
 - Respect is seeing another person for who they are
-  - Give children respect, so they respect you
+    - Give children respect, so they respect you
 - Don't scold problem behavior... but don't praise good behavior, either
-  - Don't praise children for good behavior
-    - They need to do that behavior
-  - Don't scold them for bad behavior which they don't know is bad
-  - Children are attention seeking, so they will do same things again and again to get attention
-    - Ex - Manuj throws tantrum so he get the family's attention, Family gives attention to him and it's a vicious cycle
+    - Don't praise children for good behavior
+        - They need to do that behavior
+    - Don't scold them for bad behavior which they don't know is bad
+    - Children are attention seeking, so they will do same things again and again to get attention
+        - Ex - Manuj throws tantrum so he get the family's attention, Family gives attention to him and it's a vicious cycle
 - Praise inhibits growth and encourages unhealthy competition
-  - Giving praise says, "I respect you when you act in one way, but not in other ways."
-  - In marathon, surrounded by other runners, you feel no rivalry towards others. That's what competition without rivalry looks like
+    - Giving praise says, "I respect you when you act in one way, but not in other ways."
+    - In marathon, surrounded by other runners, you feel no rivalry towards others. That's what competition without rivalry looks like
 - Your friendship is the most powerful lesson you can give your students
 - Birth order influences children's behavior... and adults' too
-  - equal relationships with each children
+    - equal relationships with each children
 - Love supports the transition from dependence to self-reliance
 - Actionable advice: Don't dole out praise, cultivate empathy
-  - Don't say, "You are kind for sharing", instead say,
-  - When you shared your toy with that Kid, you made her feel very happy
+    - Don't say, "You are kind for sharing", instead say,
+    - When you shared your toy with that Kid, you made her feel very happy
 
 Trust does not mean that others have to do things the way you expect them to. Trust means to become vulnerable.
 
@@ -380,15 +380,15 @@ Overcoming the 7 greatest challenges that no one expects and everyone experience
 - Lifequakes force us to reevaluate what makes our lives meaningful.
 - Lifequakes are by their nature disorientating, and even scary. But they also present opportunities to reevaluate our lives and what makes them meaningful.
 - We can't always control disruptive events, but we do control our response to them.
-  - ABC stands for autonomy, belonging, and cause
+    - ABC stands for autonomy, belonging, and cause
 - Rituals help us to say goodbye to the lives we're leaving behind.
-  - We can turn destructive events into meaningful transitions, but this requires practice. Luckily, several key tools can help us become masters at dealing with transitions.
-  - The first tool we need to master is acceptance
-  - A very normal reaction to experiencing a lifequake is denial and resistance.
-  - Acceptance can strike in a sudden epiphany, or a series of slow realizations.
+    - We can turn destructive events into meaningful transitions, but this requires practice. Luckily, several key tools can help us become masters at dealing with transitions.
+    - The first tool we need to master is acceptance
+    - A very normal reaction to experiencing a lifequake is denial and resistance.
+    - Acceptance can strike in a sudden epiphany, or a series of slow realizations.
 - All major transitions involve a messy middle, where we feel very lost.
 - Our creativity can help us to create a new chapter in a transition.
-  - Every major religious narrative and fairy tale recognizes the value of being lost. Jesus was cast into the desert before he had a major epiphany, and Mohamed gained his wisdom on a mountaintop. The most formative experience of Red Riding Hood's life would never have been possible if she hadn't wandered into that forest.
+    - Every major religious narrative and fairy tale recognizes the value of being lost. Jesus was cast into the desert before he had a major epiphany, and Mohamed gained his wisdom on a mountaintop. The most formative experience of Red Riding Hood's life would never have been possible if she hadn't wandered into that forest.
 - We need to create new life stories that integrate our transitions.
 - Actionable advice: Pay attention to small wins.
 
@@ -398,16 +398,16 @@ Overcoming the 7 greatest challenges that no one expects and everyone experience
 
 - Power relationships come from great conversations and being unafraid to ask
 - Build a small network of people you like and trust before you need it, including people dissimilar to you
-  - 12 - 15 apostles
+    - 12 - 15 apostles
 - Strengthen your relationships by believing in people, and helping them accomplish their agendas
 - Serious relationships demand a strong foundation, integrity and empathy
-  - Each time you refuse to compromise your integrity, it gets stronger and more resilient
+    - Each time you refuse to compromise your integrity, it gets stronger and more resilient
 - Giving trust and changing environments can deepen relationships
 - Focus on the right questions rather than having all the answers, and remember that awkward beginnings can be overcome
 - Earn new clients by treating them like current clients, and keep clients by contributing to their profit and growth
 - Keep people curious in order to remain attractive, but remember to be vulnerable and enthusiastic
 - Remember to give truth, love and praise to show people that you value them, and to help them grow
-  - Every act of generosity creates a ripple
+    - Every act of generosity creates a ripple
 - **Actionable advice - Create a list of those you want in your network**
 
 ## Ikigai
@@ -482,12 +482,12 @@ https://www.youtube.com/watch?v=UAqZMgBtECQ
 ## Blinkist - How should we live? by Roman Krznaric
 
 - Love
-  - **Eros**, the fiery, passionate yet dangerous love
-  - **Philia**, the platonic love between friends and comrades
-  - **Ludus**, the playfulness that is found among new lovers and children
-  - **Pragma**, the deep understanding that grows over time between partners
-  - **Agape**, the selfless, charitable love for our fellow humans
-  - **Philautia**, the love of the self, which could be either a positive acceptance or a detrimental self-obsession
+    - **Eros**, the fiery, passionate yet dangerous love
+    - **Philia**, the platonic love between friends and comrades
+    - **Ludus**, the playfulness that is found among new lovers and children
+    - **Pragma**, the deep understanding that grows over time between partners
+    - **Agape**, the selfless, charitable love for our fellow humans
+    - **Philautia**, the love of the self, which could be either a positive acceptance or a detrimental self-obsession
 
 Rather than relying on one partner to satisfy all these needs, the ancient Greeks believed that each role could be fullfilled by different individuals.
 
@@ -503,7 +503,7 @@ Rather than relying on one partner to satisfy all these needs, the ancient Greek
 ## Blinkist - Solve for Happy - Engineer your path to joy by Mo Gawdat (26 June 2018)
 
 - Happiness is the absence of unhappiness, caused by the misrepresentation and misunderstanding of reality
-  - Your happiness is equal to or greater than your perception of events minus your expectations of life
+    - Your happiness is equal to or greater than your perception of events minus your expectations of life
 - You are not the voice in your head, but the observer of your life
 - It's important to understand that you really know nothing, and that time is, in fact, a human invention
 - You don't actually have much control over your life, and your fears are often unfounded
@@ -551,12 +551,12 @@ Lasting Happiness in a changing world
 - How to do better by doing less
 - We should be focusing on what we should do, thinking instead about what is essential to our happiness and well-being
 - 4 main points
-  - Do less, but do it better
-  - Reject the notion that we should accomplish everything
-  - Constantly question yourself and update plans accordingly
-  - Changes are put in place
+    - Do less, but do it better
+    - Reject the notion that we should accomplish everything
+    - Constantly question yourself and update plans accordingly
+    - Changes are put in place
 - **Learned helplessness,** that is, becoming so used to the feeling of being overwhelmed that we approach our lives with passivity. (Dogs with electric shock and a lever with no effect choose to stay in shock zone, because they have learned helplessness)
-  - Opposite - [learned industriousness](https://www.scotthyoung.com/blog/2020/11/02/motivation/#07-05)
+    - Opposite - [learned industriousness](https://www.scotthyoung.com/blog/2020/11/02/motivation/#07-05)
 - Take a few hours of blank time for thinking about yourself and always see the bigger picture on why you are doing what you do
 - Sleep and play are as important as work
 - Be ruthless in cutting away things that aren't essential
@@ -582,7 +582,7 @@ https://en.wikipedia.org/wiki/Ubuntu_philosophy
 - Be skeptical for most authoritative sources too
 - Don't stop learning
 - Use information abundance as an advantage
-  - We are privileged to have so much information at our finger tips
+    - We are privileged to have so much information at our finger tips
 - Do no harm
 
 ## Parasocial Relationship

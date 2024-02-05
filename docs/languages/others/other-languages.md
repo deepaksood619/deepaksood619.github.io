@@ -241,4 +241,4 @@ https://vlang.io
 
 - [Solidity](decentralized-applications/ethereum/solidity.md)
 - [GitHub - move-language/move](https://github.com/move-language/move)
-  - [Introduction - The Move Book](https://move-language.github.io/move/)
+    - [Introduction - The Move Book](https://move-language.github.io/move/)

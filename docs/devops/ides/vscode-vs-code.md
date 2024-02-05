@@ -41,8 +41,8 @@ codeanywhere
 - **Live Share**
 - **Settingssync**
 - CSV
-  - Excel Viewer
-  - RainbowCSV
+    - Excel Viewer
+    - RainbowCSV
 - Reverse Search
 - Thunder client - postman for vscode
 - draw.io extension (test.dio file)
@@ -84,13 +84,13 @@ codeanywhere
 - $ code .
 
 - **Fold** folds the innermost uncollapsed region at the cursor:
-  - ⌥+⌘+[on macOS
+    - ⌥+⌘+[on macOS
 - **Unfold** unfolds the collapsed region at the cursor:
-  - ⌥+⌘+]on macOS
+    - ⌥+⌘+]on macOS
 - **Fold All** folds all regions in the editor:
-  - ⌘+ (K=>0) (zero) on macOS
+    - ⌘+ (K=>0) (zero) on macOS
 - **Unfold All** unfolds all regions in the editor:
-  - ⌘+ (K=>J) on macOS
+    - ⌘+ (K=>J) on macOS
 
 ![image](../../media/DevOps-IDEs-VSCode-VS-Code-image1.jpg)
 

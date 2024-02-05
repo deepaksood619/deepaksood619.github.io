@@ -16,12 +16,12 @@
 
 - Combining two or more attributes (or objects) into a single attribute (or object)
 - Purpose
-  - Data reduction
-    - Reduce the number of attributes or objects
-  - Change of scale
-    - Cities aggregated into regions, states, countries, etc
-  - More stable data
-    - Aggregated data tends to have less variability
+    - Data reduction
+        - Reduce the number of attributes or objects
+    - Change of scale
+        - Cities aggregated into regions, states, countries, etc
+    - More stable data
+        - Aggregated data tends to have less variability
 
 ### Discretization
 
@@ -30,20 +30,20 @@
 ### Attribute Transformation
 
 - A function that maps the entire set of values of a given attribute to a new set of replacement values such that each old value can be identified with one of the new values
-  - Simple functions: x^k^, log(x), e^x^, |x|
-  - Standardization and Normalization
+    - Simple functions: x^k^, log(x), e^x^, |x|
+    - Standardization and Normalization
 
 ## Similarity and Dissimilarity
 
 - Similarity
-  - Numerical measure of how alike two data objects are
-  - Is higher when objects are more alike
-  - Often falls in the range [0,1]
+    - Numerical measure of how alike two data objects are
+    - Is higher when objects are more alike
+    - Often falls in the range [0,1]
 - Dissimilarity
-  - Numerical measure of how different are two data objects
-  - Lower when objects are more alike
-  - Minimum dissimilarity is often 0
-  - Upper limit varies
+    - Numerical measure of how different are two data objects
+    - Lower when objects are more alike
+    - Minimum dissimilarity is often 0
+    - Upper limit varies
 - Proximity refers to a similarity or dissimilarity
 
 ### Similarity/Dissimilarity for Simple Attributes

@@ -8,9 +8,9 @@
 - Business knowledge
 - Tooling
 - Remove or document prolific abstractions
-  - Dependencies
-  - Abstractions
-  - Patterns
+    - Dependencies
+    - Abstractions
+    - Patterns
 - Domain level documentation
 - Make the macro intent of small classes explicit
 - Screencasts as documentation

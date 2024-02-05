@@ -33,9 +33,9 @@ The idea is to place queens one by one in different columns, starting from the l
 - Start in the leftmost column
 - If all queens are placed return true
 - Try all rows in the current column. Do following for every tried row.
-  - If the queen can be placed safely in this row then mark this [row, column] as part of the solution and recursively check if placing queen here leads to a solution.
-  - If placing queen in [row, column] leads to a solution then return true.
-  - If placing queen doesn't lead to a solution then umark this [row, column] (Backtrack) and go to step (a) to try other rows.
+    - If the queen can be placed safely in this row then mark this [row, column] as part of the solution and recursively check if placing queen here leads to a solution.
+    - If placing queen in [row, column] leads to a solution then return true.
+    - If placing queen doesn't lead to a solution then umark this [row, column] (Backtrack) and go to step (a) to try other rows.
 - If all rows have been tried and nothing worked, return false to trigger backtracking.
 
 ### Recursion tree

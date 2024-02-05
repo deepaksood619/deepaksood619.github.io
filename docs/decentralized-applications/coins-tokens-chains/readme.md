@@ -39,14 +39,14 @@
 - Cardano (ADA)
 - XRP
 - Solana (SOL) - [What is Solana? SOL Explained with Animations - YouTube](https://www.youtube.com/watch?v=1jzROE6EhxM)
-  - Scalable - 50,000 TPS
-  - Low transaction fees
-  - https://solana.com
-  - [The Solana Reading List - by mert - Rotating Words](https://www.mertimus.com/p/the-solana-reading-list?)
-  - [Visa Crypto Thought Leadership – A deep dive on Solana | Visa](https://usa.visa.com/solutions/crypto/deep-dive-on-solana.html)
+    - Scalable - 50,000 TPS
+    - Low transaction fees
+    - https://solana.com
+    - [The Solana Reading List - by mert - Rotating Words](https://www.mertimus.com/p/the-solana-reading-list?)
+    - [Visa Crypto Thought Leadership – A deep dive on Solana | Visa](https://usa.visa.com/solutions/crypto/deep-dive-on-solana.html)
 - Polkadot
-  - [Polkadot: What's Up With DOT?! Potential in 2022!! - YouTube](https://www.youtube.com/watch?v=H7S5k5jWp48)
-  - [What is Polkadot? DOT Explained with Animations - YouTube](https://www.youtube.com/watch?v=YlAdEQp6ekM)
+    - [Polkadot: What's Up With DOT?! Potential in 2022!! - YouTube](https://www.youtube.com/watch?v=H7S5k5jWp48)
+    - [What is Polkadot? DOT Explained with Animations - YouTube](https://www.youtube.com/watch?v=YlAdEQp6ekM)
 - TRON - [Tron Review 2023: Beginners Guide to TRX](https://www.coinbureau.com/review/tron-trx-review/)
 - Cronos (CRO)
 - zcash which claims it uses advanced tech to make sure that detecting ownership is nearly impossible
@@ -106,12 +106,12 @@ A wrapped token is a tokenized version of another cryptocurrency which is pegged
 - [Zilliqa blockchain](https://www.zilliqa.com/what-is-zil)
 - [Venom Foundation - Secure by design, scalable by nature](https://venom.foundation/)
 - Avalanche
-  - [Avalanche: Create Without Limits | dApp Platform](https://www.avax.network/)
-  - [Avalanche: What’s Up With AVAX?! This Will Surprise You!! - YouTube](https://www.youtube.com/watch?v=kts3zcktuZ8)
-  - [Avalanche: Could AVAX CRUSH it in 2022?! Deep Dive!! - YouTube](https://www.youtube.com/watch?v=JKiB_4TPXDM)
+    - [Avalanche: Create Without Limits | dApp Platform](https://www.avax.network/)
+    - [Avalanche: What’s Up With AVAX?! This Will Surprise You!! - YouTube](https://www.youtube.com/watch?v=kts3zcktuZ8)
+    - [Avalanche: Could AVAX CRUSH it in 2022?! Deep Dive!! - YouTube](https://www.youtube.com/watch?v=JKiB_4TPXDM)
 - [Aeternity Blockchain Definition | CoinMarketCap](https://coinmarketcap.com/alexandria/glossary/aeternity-blockchain)
 - [Mina Protocol: A REALLY CRAZY Crypto Project!! 🤯 - YouTube](https://www.youtube.com/watch?v=Zj6rNewnbrw)
-  - [Mina Protocol 🛠️ Introduction to Mina Protocol and SnarkyJS - Angus Maidment - YouTube](https://www.youtube.com/watch?v=GcbkxGqT1P0)
+    - [Mina Protocol 🛠️ Introduction to Mina Protocol and SnarkyJS - Angus Maidment - YouTube](https://www.youtube.com/watch?v=GcbkxGqT1P0)
 - [What is Fantom? FTM Explained with Animations - YouTube](https://www.youtube.com/watch?v=oRoS7VVwe7w)
 - [What is Neo? N3 Explained with Animations - YouTube](https://www.youtube.com/watch?v=I_vCOzEbSMI)
 - [What is Tezos - XTZ Self-Amending Explained with Animations - YouTube](https://www.youtube.com/watch?v=Umy75ihttwo)
@@ -124,7 +124,7 @@ A wrapped token is a tokenized version of another cryptocurrency which is pegged
 - [What is Terra? UST and LUNA explained with Animations - YouTube](https://www.youtube.com/watch?v=U9lrH0loAns)
 - [How To Get Started With Constellation Network](https://milkroad.com/invest/constellation-network/)
 - [Aptos Labs - Opening the gateway to the Aptos Network](https://aptoslabs.com/)
-  - [Aptos Blockchain Deep Dive | Aptos Docs](https://aptos.dev/concepts/blockchain/)
+    - [Aptos Blockchain Deep Dive | Aptos Docs](https://aptos.dev/concepts/blockchain/)
 
 #### Chainlink (Oracle) - LINK
 
@@ -133,9 +133,9 @@ A wrapped token is a tokenized version of another cryptocurrency which is pegged
 - Node operator (Proof of stake)
 - Requesting Contract
 - ChainLink Service Level Agreement (SLA) contract
-  - Reputation Contract
-  - Order-Matching Contract
-  - Aggregating Contract
+    - Reputation Contract
+    - Order-Matching Contract
+    - Aggregating Contract
 
 ##### Links
 

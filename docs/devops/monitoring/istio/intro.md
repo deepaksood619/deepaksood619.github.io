@@ -14,12 +14,12 @@ Istio manages a group of proxies that tie together the components of a service m
 
 - Code Independent (Polyglot)
 - Intelligent Routing and Load-Balancing
-  - A/B Tests
-  - Smarter Canary Releases
+    - A/B Tests
+    - Smarter Canary Releases
 - Chaos: Fault Injection
 - Resilience
-  - Circuit Breakers
-  - Retries, Failovers
+    - Circuit Breakers
+    - Retries, Failovers
 - Observability: Metrics and Tracing
 - Fleet wide policy enforcement
 - A pluggable policy layer and configuration API supporting access controls, rate limits and quotas.
@@ -35,27 +35,27 @@ Kialilets you monitor, visualize, and configure the Istio Service Mesh from with
 ## Features
 
 - [Observability Features](https://kiali.io/documentation/features/#_observability_features)
-  - [Graph](https://kiali.io/documentation/features/#_graph)
-    - [Graph: Health](https://kiali.io/documentation/features/#_graph_health)
-    - [Graph: Drill-Down](https://kiali.io/documentation/features/#_graph_drill_down)
-    - [Graph: Side-Panel](https://kiali.io/documentation/features/#_graph_side_panel)
-    - [Graph: Traffic Animation](https://kiali.io/documentation/features/#_graph_traffic_animation)
-    - [Graph: Graph Types](https://kiali.io/documentation/features/#_graph_graph_types)
-  - [Detail Views](https://kiali.io/documentation/features/#_detail_views)
-    - [Detail: Metrics](https://kiali.io/documentation/features/#_detail_metrics)
-    - [Detail: Services](https://kiali.io/documentation/features/#_detail_services)
-    - [Detail: Workloads](https://kiali.io/documentation/features/#_detail_workloads)
-    - [Detail: Runtimes Monitoring Dashboards](https://kiali.io/documentation/features/#_detail_runtimes_monitoring_dashboards)
-  - [Distributed Tracing](https://kiali.io/documentation/features/#_distributed_tracing)
+    - [Graph](https://kiali.io/documentation/features/#_graph)
+        - [Graph: Health](https://kiali.io/documentation/features/#_graph_health)
+        - [Graph: Drill-Down](https://kiali.io/documentation/features/#_graph_drill_down)
+        - [Graph: Side-Panel](https://kiali.io/documentation/features/#_graph_side_panel)
+        - [Graph: Traffic Animation](https://kiali.io/documentation/features/#_graph_traffic_animation)
+        - [Graph: Graph Types](https://kiali.io/documentation/features/#_graph_graph_types)
+    - [Detail Views](https://kiali.io/documentation/features/#_detail_views)
+        - [Detail: Metrics](https://kiali.io/documentation/features/#_detail_metrics)
+        - [Detail: Services](https://kiali.io/documentation/features/#_detail_services)
+        - [Detail: Workloads](https://kiali.io/documentation/features/#_detail_workloads)
+        - [Detail: Runtimes Monitoring Dashboards](https://kiali.io/documentation/features/#_detail_runtimes_monitoring_dashboards)
+    - [Distributed Tracing](https://kiali.io/documentation/features/#_distributed_tracing)
 - [Configuration and Validation Features](https://kiali.io/documentation/features/#_configuration_and_validation_features)
-  - [Istio Configuration](https://kiali.io/documentation/features/#_istio_configuration)
-  - [Validations](https://kiali.io/documentation/features/#_validations)
-  - [Istio Wizards](https://kiali.io/documentation/features/#_istio_wizards)
-    - [Weighted Routing Wizard](https://kiali.io/documentation/features/#_weighted_routing_wizard)
-    - [Matching Routing Wizard](https://kiali.io/documentation/features/#_matching_routing_wizard)
-    - [Suspend Traffic Wizard](https://kiali.io/documentation/features/#_suspend_traffic_wizard)
-    - [Advanced Options](https://kiali.io/documentation/features/#_advanced_options)
-    - [More Wizard examples](https://kiali.io/documentation/features/#_more_wizard_examples)
+    - [Istio Configuration](https://kiali.io/documentation/features/#_istio_configuration)
+    - [Validations](https://kiali.io/documentation/features/#_validations)
+    - [Istio Wizards](https://kiali.io/documentation/features/#_istio_wizards)
+        - [Weighted Routing Wizard](https://kiali.io/documentation/features/#_weighted_routing_wizard)
+        - [Matching Routing Wizard](https://kiali.io/documentation/features/#_matching_routing_wizard)
+        - [Suspend Traffic Wizard](https://kiali.io/documentation/features/#_suspend_traffic_wizard)
+        - [Advanced Options](https://kiali.io/documentation/features/#_advanced_options)
+        - [More Wizard examples](https://kiali.io/documentation/features/#_more_wizard_examples)
 - [Multi-cluster support](https://kiali.io/documentation/features/#_multi_cluster_support)
 
 https://kiali.io/documentation/features

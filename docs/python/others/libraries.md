@@ -16,16 +16,16 @@ PyPy is a [fast](http://speed.pypy.org/), [compliant](https://pypy.org/compat.ht
 
 - Django model mixins and utilities.
 - Fields
-  - StatusField
-  - MonitorField
-  - SplitField
+    - StatusField
+    - MonitorField
+    - SplitField
 - Models
-  - TimeFramedModel
-  - TimeStampedModel
-  - StatusModel
-  - SoftDeletableModel
+    - TimeFramedModel
+    - TimeStampedModel
+    - StatusModel
+    - SoftDeletableModel
 - Model Managers
-  - InheritanceManager
+    - InheritanceManager
 
 This manager should be attached to a base model class in a model-inheritance tree. It allows queries on that base model to return heterogenous results of the actual proper subtypes, without any additional queries.
 
@@ -34,8 +34,8 @@ This manager should be attached to a base model class in a model-inheritance tre
 - Mixins
 
 - Miscellaneous Utilities
-  - Choices
-  - Field Tracker
+    - Choices
+    - Field Tracker
 - https://django-model-utils.readthedocs.io/en/latest/managers.html
 
 ## PyFlame

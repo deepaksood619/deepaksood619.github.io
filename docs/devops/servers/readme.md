@@ -3,7 +3,7 @@
 - [Apache Server](devops/servers/apache-server.md)
 - [Gunicorn](devops/servers/gunicorn.md)
 - [NGINX](devops/servers/nginx/readme.md)
-  - [NGINX Configs](devops/servers/nginx/configs.md)
+    - [NGINX Configs](devops/servers/nginx/configs.md)
 
 ## HTTPD (HTTP Daemon)
 

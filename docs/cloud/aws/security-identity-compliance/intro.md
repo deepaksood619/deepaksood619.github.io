@@ -44,47 +44,6 @@
 
 ![aws-shared-responsibility-model](../../../media/Screenshot%202023-12-08%20at%206.30.28PM.jpg)
 
-## Compliances
-
-### PCI Compliance
-
-The Payment Card Industry Data Security Standard (PCI-DSS) is a set of requirements intended to ensure that all companies that process, store, or transmit credit card information maintain a secure environment.
-
-- Payment Card Industry-Data Security Standard (PCI-DSS)
-- Payment Application-Data Security Standard (PA-DSS)
-
-[GitHub - jivoi/offsec | your offsec knowledge](https://github.com/jivoi/offsec_pdfs)
-
-### SOC Compliance (Service Organization Control)
-
-SOC compliance is a certification that shows a service organization has completed a third-party audit and has certain controls in place. The most common types of SOC compliance are SOC 1, SOC 2, and SOC 3. There are also SOC for Cybersecurity and SOC for Supply Chain certifications.
-
-SOC 2 compliance is a voluntary certification that shows an organization's commitment to information security. It covers five pillars, called Trust Services Criteria (TSC): Security, Availability, Processing integrity, Confidentiality, Privacy.
-
-SOC 2 compliance may help organizations avoid data breaches and the financial and reputational damage that can result. It can also increase an organization's brand reputation and give it a competitive advantage.
-
-SOC 2, aka **Service Organization Control Type 2**, is a cybersecurity compliance framework developed by the American Institute of Certified Public Accountants (AICPA). The primary purpose of SOC 2 is to ensure that third-party service providers store and process client data in a secure manner.
-
-#### SOC 2 Type 1 vs Type 2
-
-There are two main types of SOC 2 compliance: _Type 1_ and _Type 2_.
-
-Type 1 attests an organization’s use of compliant systems and processes at a _specific point in time._ Conversely, Type 2 is an attestation of compliance over a period (usually 12 months).
-
-A Type 1 report describes the controls in use by an organization, and confirms that the controls are properly designed and enforced. A Type 2 report includes everything that’s part of a Type 1 report, along with the attestation that the controls are _operationally effective_.
-
-#### SOC 1 vs SOC 2 vs SOC 3
-
-There are three main types of SOC reports – SOC 1, SOC 2, and SOC 3. The first two are the most prevalent, with the second being most relevant to technology companies.
-
-SOC 1 revolves around financial reporting, whereas SOC 2 focuses more on compliance and business operations. SOC 3 is an adaptation of SOC 2, which reports SOC 2 results in a format that is understandable for the general public.
-
-[What is SOC 2: Principles, Types, Benefits | OneLogin](https://www.onelogin.com/learn/what-is-soc-2)
-
-### Other Compliances
-
-- SOC 2 System Operations (CC7) - [SOC 2 CC7: Common Criteria related to System Operations - Design Compliance and Security, LLC](https://www.designcs.net/soc-2-cc7-common-criteria-related-to-system-operations/)
-
 ## Others
 
 Open-source SAST tools such as [**Semgrep**](https://www.jit.io/blog/semgrep-to-uncover-log4j-vulnerabilities), Bandit, or  KICS can help you find vulnerabilities and compliance issues in your code.
@@ -92,7 +51,3 @@ Open-source SAST tools such as [**Semgrep**](https://www.jit.io/blog/semgrep-to-
 [GitHub - ossf/scorecard: OpenSSF Scorecard - Security health metrics for Open Source](https://github.com/ossf/scorecard)
 
 [Security Checks Simplified: How to Implement Best Practices with Ease - YouTube](https://youtu.be/ldAeZtTKqgE?si=nuG2CHeYqmmO1uDz)
-
-CISA Certification - Certified Information Systems Auditor
-
-CISO - Chief Information Security Officer

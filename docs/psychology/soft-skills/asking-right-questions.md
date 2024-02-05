@@ -5,12 +5,12 @@ A good question is the one that lets you obtain the**type, quality,** and **quan
 Here are some basic but very effective types:
 
 - **Open-ended questions** encourage people to reflect and reveal what's important for them. They allow people to freely expand on what is comfortable for them, rather than justifying their thoughts. Open-ended questions tend to explore possibilities, feelings, and the reasons why. Michael J. Marquardt, author of [Leading with questions](https://www.amazon.com/Leading-Questions-Leaders-Solutions-Knowing/dp/1118658132), describes some types of open-ended questions:
-  - **Explorative** questions force expansion on new points of view and uncovered areas.Have you thought of...?
-  - **Affective** questions reveal people's feelings about something.How do you feel about...?
-  - **Reflective** questions encourage more elaboration.What do you think causes...?
-  - **Probing** questions invite a deeper examination.Can you describe how...?
-  - **Analytical** questions look for the roots of a problem.What are the causes of...?
-  - **Clarifying** questions help align and avoid misunderstandings.So, you mean that..?
+    - **Explorative** questions force expansion on new points of view and uncovered areas.Have you thought of...?
+    - **Affective** questions reveal people's feelings about something.How do you feel about...?
+    - **Reflective** questions encourage more elaboration.What do you think causes...?
+    - **Probing** questions invite a deeper examination.Can you describe how...?
+    - **Analytical** questions look for the roots of a problem.What are the causes of...?
+    - **Clarifying** questions help align and avoid misunderstandings.So, you mean that..?
 
 - **Closed questions** call for specific answers - usually yes or no - or they force the respondent to select an answer from a given set, or to agree or disagree with a statement. Closed questions tend to focus on facts - what, when, where - and are usually easy to answer. For example: "Where were you born? How many miles do you drive a month?"
 

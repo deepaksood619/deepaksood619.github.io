@@ -3,12 +3,12 @@
 The open platform for beautiful analytics and monitoring (open source software for time series analytics) (Expression browser)
 
 - 40 data sources
-  - Graphite
-  - Cloud watch
-  - Prometheus
-  - Elastic search
-  - InfluxDB (TICK Stack)
-  - Hosted Metrics
+    - Graphite
+    - Cloud watch
+    - Prometheus
+    - Elastic search
+    - InfluxDB (TICK Stack)
+    - Hosted Metrics
 - 28 panels
 - 17 apps
 - 776 dashboards
@@ -29,7 +29,7 @@ docker run --rm --name=grafana -p 3000:3000 grafana/grafana
 - Grafana Dashboard Exporter/Importer - 5837 - https://grafana.com/grafana/dashboards/5837
 - Blackbox Exporter status page dashboard - 5345
 - HTTP - https://grafana.com/grafana/dashboards/10138
-  - HTTP Metrics - https://grafana.com/grafana/dashboards/73
+    - HTTP Metrics - https://grafana.com/grafana/dashboards/73
 - Redis - https://grafana.com/grafana/dashboards/763
 - AWS Dashboards - https://github.com/monitoringartist/grafana-aws-cloudwatch-dashboards
 - https://grafana.com/docs/grafana/latest/datasources/cloudwatch

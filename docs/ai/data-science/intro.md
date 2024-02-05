@@ -151,13 +151,13 @@ The grouping of relevant words is highly suggestive of an abstract theme which i
 - A topic example - tobacco, farm, crops
 - Steps to perform topic modeling
 
-  - Remove stop words
+    - Remove stop words
 
-  - Stripping punctuation
+    - Stripping punctuation
 
-  - Bigram collocation detection
+    - Bigram collocation detection
 
-  - Lemmatization
+    - Lemmatization
 - Topic dendrograms (for hierarical clustering)
 - Topic graphs
 - Difference between graphs and dendrograms
@@ -167,21 +167,21 @@ The grouping of relevant words is highly suggestive of an abstract theme which i
 ## Building a Data Science Team
 
 - Data Engineer
-  - Store and maintain data
-  - SQL/Java/Scala/Python
-  - These are the folks who build pipelines that feed data scientists with data and take the ideas from the data scientists and implement them. Aka, "the doers".
+    - Store and maintain data
+    - SQL/Java/Scala/Python
+    - These are the folks who build pipelines that feed data scientists with data and take the ideas from the data scientists and implement them. Aka, "the doers".
 - Data Analyst
-  - Visualize and describe data
-  - SQL + BI Tools + Spreadsheets
+    - Visualize and describe data
+    - SQL + BI Tools + Spreadsheets
 - Machine Learning Engineer
-  - Write production-level code to predict with data
-  - Python/Java/R
-  - Are experts at building machine learning and deep learning models. They build models not only for Amazon but also for other large enterprises on the AWS. In addition to building models, machine learning engineers at Amazon are also responsible for implementing models and getting them ready for production.
+    - Write production-level code to predict with data
+    - Python/Java/R
+    - Are experts at building machine learning and deep learning models. They build models not only for Amazon but also for other large enterprises on the AWS. In addition to building models, machine learning engineers at Amazon are also responsible for implementing models and getting them ready for production.
 - Data Scientist
-  - Build custom models to drive business decisions
-  - Python/R/SQL
-  - The folks who are "better engineers than statisticians and better statisticians than engineers". Aka, "the thinkers".
-  - Have a focus on providing data-driven insights and are the link between the business and the technical side. They are responsible for analyzing large data sets and modeling them as well.
+    - Build custom models to drive business decisions
+    - Python/R/SQL
+    - The folks who are "better engineers than statisticians and better statisticians than engineers". Aka, "the thinkers".
+    - Have a focus on providing data-driven insights and are the link between the business and the technical side. They are responsible for analyzing large data sets and modeling them as well.
 - Research scientists
 
 Typically have a higher level of education, usually a Master's or a PhD. Research scientists are expected to push the envelope, meaning to extend the limits of what is possible. Research scientists will conduct research on old and new technologies to determine whether they're beneficial in practice.

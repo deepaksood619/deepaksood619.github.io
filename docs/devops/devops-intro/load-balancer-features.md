@@ -11,12 +11,12 @@ Service discovery is the process by which a load balancer determines the set of 
 - Client-side discovery pattern
 - Server-side discovery pattern
 - Service Registry
-  - etcd
-  - zookeeper
-  - consul
+    - etcd
+    - zookeeper
+    - consul
 - Service registry pattern
-  - self-registration pattern
-  - third-party registration pattern
+    - self-registration pattern
+    - third-party registration pattern
 - DNS based Service Discovery (DNS-SD)
 
 https://www.nginx.com/blog/service-discovery-in-a-microservices-architecture

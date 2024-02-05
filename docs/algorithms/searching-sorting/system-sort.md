@@ -12,9 +12,9 @@ Quicksort
 - Cutoff to insertion sort for small subarrays
 - Partitioning scheme: Bentley-Mcllroy 3-way partitioning
 - Partitioning item
-  - Small arrays: middle entry
-  - Medium arrays: median of 3
-  - Large arrays: Tukey's ninther (median of the median of 3 samples, each of 3 entries)
-    - Approximate the median of 9
-    - Uses at most 12 compares
-    - Better partitioning than random shuffle and less costly
+    - Small arrays: middle entry
+    - Medium arrays: median of 3
+    - Large arrays: Tukey's ninther (median of the median of 3 samples, each of 3 entries)
+        - Approximate the median of 9
+        - Uses at most 12 compares
+        - Better partitioning than random shuffle and less costly

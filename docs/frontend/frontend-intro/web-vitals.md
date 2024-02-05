@@ -43,9 +43,9 @@ https://en.wikipedia.org/wiki/Time_to_first_byte
 ## Timing breakdown phases explained (Timing Tab Chrome Dev Tools)
 
 - **Queueing:** The browser queues requests when:
-  - There are higher priority requests.
-  - There are already six TCP connections open for this origin, which is the limit. Applies to HTTP/1.0 and HTTP/1.1 only.
-  - The browser is briefly allocating space in the disk cache
+    - There are higher priority requests.
+    - There are already six TCP connections open for this origin, which is the limit. Applies to HTTP/1.0 and HTTP/1.1 only.
+    - The browser is briefly allocating space in the disk cache
 - **Stalled:** The request could be stalled for any of the reasons described inQueueing.
 - **DNS Lookup:** The browser is resolving the request's IP address.
 - **Proxy negotiation:** The browser is negotiating the request with a [proxy server](https://en.wikipedia.org/wiki/Proxy_server).

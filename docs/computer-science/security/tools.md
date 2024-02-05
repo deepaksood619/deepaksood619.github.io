@@ -160,9 +160,9 @@ Mobile device management (MDM) is a proven methodology and toolset used to provi
 ### Tools
 
 - [The Modern Apple MDM Built by Apple IT | Kandji](https://www.kandji.io/mdm/start/product/)
-  - [Apple MDM Solutions: MDM for Mac, iPhone, iPad | Kandji](https://www.kandji.io/)
+    - [Apple MDM Solutions: MDM for Mac, iPhone, iPad | Kandji](https://www.kandji.io/)
 - [Unified Endpoint Management solution | Cloud-based UEM from Hexnode](https://www.hexnode.com/unified-endpoint-management/)
-  - [Unified Device Management | Hexnode UEM](https://www.hexnode.com/)
+    - [Unified Device Management | Hexnode UEM](https://www.hexnode.com/)
 - [Jumpcloud](https://jumpcloud.com/lp/mdm-fava-bean)
 - [Jamf Apple Device Management. Mac iPad iPhone TV Apple MDM](https://www.jamf.com/)
 - [Zero Trust Network Access (ZTNA) | Zero Trust | Cloudflare](https://www.cloudflare.com/en-gb/lp/ppc/zero-trust-network-access-x/)

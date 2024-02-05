@@ -12,10 +12,10 @@ Apache Zookeeper is a distributed, open-source configuration, synchronization se
 - Highly reliable distributed coordination kernet, which can be used for distributed locking, configuration management, leadership election, work queues
 - Zookeeper is a replicated service that holds the metadata of distributed applications
 - Key attributed of such data
-  - Small size
-  - Performance sensitive
-  - Dynamic
-  - Critical
+    - Small size
+    - Performance sensitive
+    - Dynamic
+    - Critical
 - In very simple words, it is a central store of key-value using which distributed system can coordinate. Since it needs to be able to handle the load, Zookeeper itself runs on many machines.
 
 ## Architecture

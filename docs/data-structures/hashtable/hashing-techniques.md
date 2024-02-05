@@ -11,8 +11,8 @@ Chaining is where each item in the hash table array is a list. When an item is a
 ### Variants
 
 - Two-probe hashing
-  - Hash to two positions, insert key in shorter of the two chains
-  - Reduces expected length of the longest chain to log log N
+    - Hash to two positions, insert key in shorter of the two chains
+    - Reduces expected length of the longest chain to log log N
 
 ## Open Addressing (closed hashing)
 
@@ -33,10 +33,10 @@ The benefits of this approach are:
 - **Double Hashing -** Use two hash functions, if there is collision on first hash, use second hash function to get the bucket address.
 
 - **Quadratic probing -** Quadratic probing operates by taking the original hash index and adding successive values of an arbitrary [quadratic polynomial](https://en.wikipedia.org/wiki/Quadratic_polynomial) until an open slot is found.
-  - Use linear probing, but skip a variable amount, not just 1 each time.
-  - Effectively eliminates clustering
-  - Can allow table to become nearly full
-  - More difficult to implement delete
+    - Use linear probing, but skip a variable amount, not just 1 each time.
+    - Effectively eliminates clustering
+    - Can allow table to become nearly full
+    - More difficult to implement delete
 
 ![image](../../media/Hashing-Techniques-image3.jpg)
 

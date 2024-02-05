@@ -5,9 +5,9 @@
 Itaka - Enjoy the road and journey, never say once I get their I will be happy since it's a never ending process
 
 - **Inversion / premeditatio malorum - premeditation of evils**
-  - The goal of this exercise was to envision the negative things that could happen in life. For example, the Stoics would imagine what it would be like to lose their job and become homeless or to suffer an injury and become paralyzed or to have their reputation ruined and lose their status in society.
-  - The Stoics believed that by imagining the worst case scenario ahead of time, they could overcome their fears of negative experiences and make better plans to prevent them. While most people were focused on how they could achieve success, the Stoics also considered how they would manage failure. What would things look like if everything went wrong tomorrow? And what does this tell us about how we should prepare today?
-  - This way of thinking, in which you consider the opposite of what you want, is known as inversion.
+    - The goal of this exercise was to envision the negative things that could happen in life. For example, the Stoics would imagine what it would be like to lose their job and become homeless or to suffer an injury and become paralyzed or to have their reputation ruined and lose their status in society.
+    - The Stoics believed that by imagining the worst case scenario ahead of time, they could overcome their fears of negative experiences and make better plans to prevent them. While most people were focused on how they could achieve success, the Stoics also considered how they would manage failure. What would things look like if everything went wrong tomorrow? And what does this tell us about how we should prepare today?
+    - This way of thinking, in which you consider the opposite of what you want, is known as inversion.
 
 Avoiding stupidity is easier than trying to be brilliant. Instead of asking, "How can I help my company?" you should ask, "What's hurting my company the most and how can I avoid it?" Identify obvious failure points, and steer clear of them.
 

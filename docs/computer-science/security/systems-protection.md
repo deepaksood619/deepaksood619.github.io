@@ -33,8 +33,8 @@ Public/private cryptography
 Integrity protection
 
 - Cryptographic libraries
-  - OpenSSL
-  - GPG
+    - OpenSSL
+    - GPG
 
 ## GNU Privacy Guard (GnuPG or GPG)
 
@@ -50,10 +50,10 @@ https://www.digitalocean.com/community/tutorials/how-to-use-gpg-to-encrypt-and-s
 
 - Libcrypto - Encryption and Decryption
 - EVP - Envelope Functions
-  - Can be used for both symmetric and asymmetric cryptography
-  - Various Encryption / Decryption algorithms
-  - Various message digest (hash) algorithms
-  - HMAC - Signing
+    - Can be used for both symmetric and asymmetric cryptography
+    - Various Encryption / Decryption algorithms
+    - Various message digest (hash) algorithms
+    - HMAC - Signing
 
 ## PGP
 

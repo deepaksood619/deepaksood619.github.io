@@ -36,8 +36,8 @@ One CPU, in Kubernetes, is equivalent to:
 When Kubernetes creates a Pod it assigns one of these QoS classes to the Pod:
 
 - Guaranteed
-  - Every Container in the Pod must have a memory limit and a memory request, and they must be the same.
-  - Every Container in the Pod must have a CPU limit and a CPU request, and they must be the same.
+    - Every Container in the Pod must have a memory limit and a memory request, and they must be the same.
+    - Every Container in the Pod must have a CPU limit and a CPU request, and they must be the same.
 
 **resources:
 limits:
@@ -48,8 +48,8 @@ memory: "200Mi"
 cpu: "700m"**
 
 - Burstable
-  - The Pod does not meet the criteria for QoS class Guaranteed.
-  - At least one Container in the Pod has a memory or CPU request
+    - The Pod does not meet the criteria for QoS class Guaranteed.
+    - At least one Container in the Pod has a memory or CPU request
 
 **resources:
 limits:
@@ -58,7 +58,7 @@ requests:
 memory: "100Mi"**
 
 - BestEffort
-  - For a Pod to be given a QoS class of BestEffort, the Containers in the Pod must not have any memory or CPU limits or requests.
+    - For a Pod to be given a QoS class of BestEffort, the Containers in the Pod must not have any memory or CPU limits or requests.
 
 You can useephemeral-storagefor managing local ephemeral storage. Each Container of a Pod can specify one or more of the following:
 

@@ -175,36 +175,36 @@ http://restcookbook.com
 - Nouns vs verbs
 - Versus SOAP-RPC
 - Identified by URIs
-  - Multiple URIs may refer to same resource
+    - Multiple URIs may refer to same resource
 - Separate from their representation(s)
 
 ## Representations
 
 - How resources get manipulated
 - Part of the resource state
-  - Transferred between client and server
+    - Transferred between client and server
 - Typically JSON or XML
 - Example:
-  - Resource: person (Todd)
-  - Service: contact information (GET)
-  - Representation:
-    - name, address, phone number
-    - JSON or XML format
+    - Resource: person (Todd)
+    - Service: contact information (GET)
+    - Representation:
+        - name, address, phone number
+        - JSON or XML format
 
 ## Uniform Interface Contraint
 
 - Defines the interface between client and server
 - Simplifies and decouples the architecture
 - Fundamental to RESTful design
-  - HTTP verbs (GET, PUT, POST, DELETE)
-  - URIs (resource name)
-  - HTTP response (status, body)
+    - HTTP verbs (GET, PUT, POST, DELETE)
+    - URIs (resource name)
+    - HTTP response (status, body)
 
 ## Stateless
 
 - Server contains no client state
 - Each request contains enough context to process the message
-  - Self-descriptive messages
+    - Self-descriptive messages
 - Any session state is held on the client
 
 ## Client-Server
@@ -216,9 +216,9 @@ http://restcookbook.com
 ## Cacheable
 
 - Server responses (representations) are cacheable
-  - Implicitly
-  - Explicitly
-  - Negotiated
+    - Implicitly
+    - Explicitly
+    - Negotiated
 
 ## Layered System
 
@@ -232,21 +232,21 @@ http://restcookbook.com
 - Transfer logic to client
 - Client executes logic
 - For examples:
-  - Java applets
-  - JavaScript
+    - Java applets
+    - JavaScript
 - The only optional constraint
 
 ## Summary
 
 - Violating any constraint other than Code on Demand means service is not strictly RESTful
-  - Example: Three-legged OAUTH2
+    - Example: Three-legged OAUTH2
 - Compliance with REST constraints allow:
-  - Scalability
-  - Simplicity
-  - Modifiability
-  - Visibility
-  - Portability
-  - Reliability
+    - Scalability
+    - Simplicity
+    - Modifiability
+    - Visibility
+    - Portability
+    - Reliability
 
 https://www.restapitutorial.com/lessons/whatisrest.html
 
@@ -258,14 +258,14 @@ Appropriate resource names provide context for a service request, increasing und
 Here are some quick-hit rules for URL path (resource name) design:
 
 - Use identifiers in your URLs instead of in the query-string. Using URL query-string parameters is fantastic for filtering, but not for resource names.
-  - **Good:**/users/12345
-  - **Poor:**/api?type=user&id=23
+    - **Good:**/users/12345
+    - **Poor:**/api?type=user&id=23
 - Leverage the hierarchical nature of the URL to imply structure.
 - Design for your clients, not for your data.
 - Resource names should be nouns. Avoid verbs as resource names, to improve clarity. Use the HTTP methods to specify the verb portion of the request.
 - Use plurals in URL segments to keep your API URIs consistent across all HTTP methods, using the collection metaphor.
-  - **Recommended:** `/customers/33245/orders/8769/lineitems/1`
-  - **Not:** `/customer/33245/order/8769/lineitem/1`
+    - **Recommended:** `/customers/33245/orders/8769/lineitems/1`
+    - **Not:** `/customer/33245/order/8769/lineitem/1`
 - Avoid using collection verbiage in URLs. For example 'customer_list' as a resource. Use pluralization to indicate the collection metaphor (e.g. customers vs. customer_list).
 - Use lower-case in URL segments, separating words with underscores (`_`) or hyphens ('-'). Some servers ignore case so it's best to be clear.
 - Keep URLs as short as possible, with as few segments as makes sense.

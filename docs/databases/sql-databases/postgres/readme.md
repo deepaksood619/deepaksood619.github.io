@@ -23,21 +23,21 @@ PostgreSQL shares many of the same advantages of MySQL. It is easy to use, inexp
 - Optimizer
 
 - Two types of SQL Commands
-  - Full blown query (SELECT, INSERT, UPDATE, DELETE)
-  - Utility queries (GRANT, DROP table, REVOKE)
+    - Full blown query (SELECT, INSERT, UPDATE, DELETE)
+    - Utility queries (GRANT, DROP table, REVOKE)
 - JOIN
-  - Bring data back together from different tables
-  - Merge join
-  - Hash join
-  - Default Join - Inner Join
+    - Bring data back together from different tables
+    - Merge join
+    - Hash join
+    - Default Join - Inner Join
 - SQL is a declarative language, you tell the system what do you want, and system figures it out how to give it to you
 - Query Plan
-  - Optimal set of instructions to get your data from the database
-  - Output of optimizer
-  - Cost out different options using prunning process
+    - Optimal set of instructions to get your data from the database
+    - Output of optimizer
+    - Cost out different options using prunning process
 - Scan
-  - Sequential scan
-  - Index scan
+    - Sequential scan
+    - Index scan
 - Up to 12 tables, postgres tries all possible join operations and prunning for optimization query
 - Generic query optimizer
 

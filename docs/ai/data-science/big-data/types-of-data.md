@@ -64,16 +64,16 @@ Data that consists of a collection of records, each of which consists of a fixed
 #### Document Data
 
 - Each document becomes a 'term' vector
-  - Each term is a component (attribute) of the vector
-  - the value of each component is the number of times the corresponding term occurs in the document
+    - Each term is a component (attribute) of the vector
+    - the value of each component is the number of times the corresponding term occurs in the document
 
 ![image](../../../media/Data-image6.jpg)
 
 #### Transaction Data
 
 - A special type of record data, where
-  - each record (transaction) involves a set of items
-  - For example, consider a grocery store. The set of products purchased by a customer during one shopping trip consitute a transaction, while the individual products that were purchased are the items
+    - each record (transaction) involves a set of items
+    - For example, consider a grocery store. The set of products purchased by a customer during one shopping trip consitute a transaction, while the individual products that were purchased are the items
 
 ![image](../../../media/Data-image7.jpg)
 

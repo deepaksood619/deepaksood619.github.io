@@ -14,17 +14,17 @@ Zero Oil Cooking
 - Stack your meals so that three quarters (or more) of what you eat comes before 2 p.m., the rest between then and sundown
 - Eating dinner for breakfast and keeping your eating consistent add up to a better diet
 - Your gut wall can be strenghened by a pair of pheonomena called **hormesis and autophagy**
-  - Hormesis - beneficial ways in which your body responds to low amounts of stress, the source of which is known as a hormetic stressor
-  - Autophagy - self devouring
+    - Hormesis - beneficial ways in which your body responds to low amounts of stress, the source of which is known as a hormetic stressor
+    - Autophagy - self devouring
 - To benefit from hormesis and autophagy, seek out polyphenols and moderate amounts of alcohol and exercise (moderate)
 - To live a long and healthy life, make your bacteria hungry
-  - Partial intermittent fasting (5 consecutive days per month, limit to consuming fewer than 900 calories per day)
-  - mitogenesis - mitochondria reproduction
+    - Partial intermittent fasting (5 consecutive days per month, limit to consuming fewer than 900 calories per day)
+    - mitogenesis - mitochondria reproduction
 - Food Tips
-  - One carrot a day provides all the vitamin A for a day that body needs
-  - Folate (Vitamin B9) during pregnency
-  - Kidney - Drink a lot of water during the day; drink less water at night; empty your bladder before going to bed
-  - Pancreas - Avoid overfeeding
+    - One carrot a day provides all the vitamin A for a day that body needs
+    - Folate (Vitamin B9) during pregnency
+    - Kidney - Drink a lot of water during the day; drink less water at night; empty your bladder before going to bed
+    - Pancreas - Avoid overfeeding
 
 Recommended Calorie intake - 2800
 
@@ -194,12 +194,12 @@ Smooth, bright, seedless, conveniently wrapped; the banana is the original fast 
 ## Milk
 
 - Cow's Milk
-  - Raw Milk / Whole Milk
-  - Double toned milk
-  - Toned milk
-  - Skimmed milk
-  - Pasteurized Milk
-  - Homogenized Milk
+    - Raw Milk / Whole Milk
+    - Double toned milk
+    - Toned milk
+    - Skimmed milk
+    - Pasteurized Milk
+    - Homogenized Milk
 - Almond Milk
 - **Soy Milk (best for planet)**
 - **Oat Milk (best for planet)**
@@ -339,6 +339,24 @@ Try to get 10–20 minutes of sunlight ideally before noon, 3-4 times a week. Da
 [To Infuse or Not to Infuse? | BestFoodFacts.org](https://www.bestfoodfacts.org/vitamins-infused-water/)
 
 [Health benefits of infused water (and common myths debunked) - Fad Free Nutrition Blog](https://fadfreenutrition.nutricionalgrano.com/health-benefits-of-infused-water/)
+
+## Sugarcane Juice
+
+Despite providing some nutrients, sugarcane juice is still high in sugar and carbs. In 240 mL of sugarcane juice will contain the following ingredients:
+
+Calories: 183. Protein: 0 grams. Fat: 0 grams. Sugar: 50 grams - equivalent to 12 teaspoons. Fiber: 0-13 grams. The sugar content in 240mL of sugarcane juice is 50 grams - equivalent to 12 teaspoons, significantly more than the total daily sugar recommended by the American Heart Association respectively for men (9 teaspoons). and women (6 teaspoons).
+
+Although sugarcane juice is classified as a low glycemic index (GI) beverage, it is still high in glycemic index (GL) - meaning it has a definite impact on your blood sugar levels.
+
+### Sugarcane juice has a concise shelf life
+
+It can become toxic and inedible quickly; when stored for more than 20 minutes, sugarcane oxidises, this can be extremely harmful to your body. Oxidation acts like a poison and facilitates various stomach problems. Therefore, freshly made sugarcane juice is the safest to consume sugarcane!
+
+[Sugarcane juice good or bad for diabetes? | Vinmec](https://www.vinmec.com/en/news/health-news/nutrition/sugarcane-juice-good-or-bad-for-diabetes/)
+
+[15 Excellent Health Benefits Of Sugarcane Juice - PharmEasy Blog](https://pharmeasy.in/blog/15-excellent-health-benefits-of-sugarcane-juice/)
+
+[Site Unreachable](https://www.healthline.com/nutrition/sugarcane-juice-diabetes)
 
 ## Farming
 

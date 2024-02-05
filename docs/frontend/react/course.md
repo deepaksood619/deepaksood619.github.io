@@ -86,14 +86,14 @@ https://www.youtube.com/watch?v=DLX62G4lc44
 - HTTP
 - Forms
 - Advanced
-  - Fragments
-  - Children
-  - Higher-Order Components (HOCs)
-  - Render Props
-  - Context
-  - Optimizations (PureComponents, Dynamic Imports, React.lazy, React.Suspense, React.memo)
-  - Hooks
-  - React Router
+    - Fragments
+    - Children
+    - Higher-Order Components (HOCs)
+    - Render Props
+    - Context
+    - Optimizations (PureComponents, Dynamic Imports, React.lazy, React.Suspense, React.memo)
+    - Hooks
+    - React Router
 
 [Full React Course 2020 - Learn Fundamentals, Hooks, Context API, React Router, Custom Hooks](https://www.youtube.com/watch?v=4UZrsTqkcW4)
 

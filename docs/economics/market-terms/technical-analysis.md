@@ -289,17 +289,17 @@ Usually institutional money is referred to as the "smart money". It is perceived
 Moving average is a simple technical analysis indicator used to detect the price trend. Learn about the moving average and a how to set up a simple moving average trading system.
 
 - Zerodha Moving Average Type
-  - Simple
-  - Exponential
-  - Time Series
-  - Triangular
-  - Variable
-  - VIDYA
-  - Weighted
-  - Welles Wilder
-  - Hull
-  - Double Exponential
-  - Triple Exponential
+    - Simple
+    - Exponential
+    - Time Series
+    - Triangular
+    - Variable
+    - VIDYA
+    - Weighted
+    - Welles Wilder
+    - Hull
+    - Double Exponential
+    - Triple Exponential
 
 ### A simple application of moving average (trading system based on a 50 day exponential moving average)
 

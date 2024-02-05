@@ -11,7 +11,7 @@
 - [7. Conditional Rendering](https://reactjs.org/docs/conditional-rendering.html)
 - [8. Lists and Keys](https://reactjs.org/docs/lists-and-keys.html)
 - [9. Forms](https://reactjs.org/docs/forms.html)
-  - Controlled Components
+    - Controlled Components
 - [10. Lifting State Up](https://reactjs.org/docs/lifting-state-up.html)
 - [11. Composition vs Inheritance](https://reactjs.org/docs/composition-vs-inheritance.html)
 - [12. Thinking In React](https://reactjs.org/docs/thinking-in-react.html)
@@ -20,8 +20,8 @@
 
 - [Accessibility](https://reactjs.org/docs/accessibility.html)
 - [Code-Splitting](https://reactjs.org/docs/code-splitting.html)
-  - Bundling
-  - Code-splitting
+    - Bundling
+    - Code-splitting
 
 Instead of downloading the entire app before users can use it, code splitting allows you to split your code into small chunks which you can then load on demand.
 

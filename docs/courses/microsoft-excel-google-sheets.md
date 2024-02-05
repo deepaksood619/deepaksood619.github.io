@@ -43,7 +43,7 @@ Rows - 1,048,576- Text to column
 - **`ctrl + ;` - paste today's date in cell**
 - ctrl + 1 - open format box
 - ctrl + cmd + v - open paste special dialog box
-  - t - paste format
+    - t - paste format
 - ctrl + shift + l = add filter to data tables
 - cmd + delete = scroll to active cell
 
@@ -52,10 +52,10 @@ Rows - 1,048,576- Text to column
 [Google Sheets function list](https://support.google.com/docs/table/25273)
 
 - `IF(A4>$B$1,B4,C4)`
-  - `IF(A4>$B$1,IF(B4>$C$2,B4,C4),C4)`
-  - `IF(OR(A4<$B$1,B4<$C$2),C4,B4)`
-  - `IF(AND(A4<$B$1,B4<$C$2),C4,B4)`
-  - `IF(D7>=96,"A",IF(D7>=86,"B",IF(D7>=76,"C",IF(D7>=61,"D",IF(D7>=51,"E", "F")))))`
+    - `IF(A4>$B$1,IF(B4>$C$2,B4,C4),C4)`
+    - `IF(OR(A4<$B$1,B4<$C$2),C4,B4)`
+    - `IF(AND(A4<$B$1,B4<$C$2),C4,B4)`
+    - `IF(D7>=96,"A",IF(D7>=86,"B",IF(D7>=76,"C",IF(D7>=61,"D",IF(D7>=51,"E", "F")))))`
 - =SUMIF(C6:C15,D19,D6:D15)
 - `AVERAGEIF(B5:B11,"<"&300000,C5:C11)`
 - =SUMPRODUCT(B5:B7,C5:C7)/SUM(B5:B7)
@@ -78,14 +78,14 @@ Rows - 1,048,576- Text to column
 - =IFERROR(VLOOKUP(A2, Sheet12!A:B, 2, FALSE), F2)
 - =PMT(D5,D6,D4) - calculate emi amount for loan
 - What-if analysis
-  - GoalSeek
+    - GoalSeek
 - =PERCENTILE(A2:A20, 0.5) # to get 50th percentile value
 - =PERCENTILERANK(A2:A20, A2) # relative position of a particular data point within a dataset expressed as a percentage
 - PERCENTRANK.INC: Calculates the percentile rank of a value, including the smallest and largest values.
 - PERCENTRANK.EXC: Calculates the percentile rank of a value, excluding the smallest and largest values.
 
 - IF
-  - SUMIF, SUMIFS, COUNTIF, COUNTIFS
+    - SUMIF, SUMIFS, COUNTIF, COUNTIFS
 - =FILTER(I:I, ISNA(MATCH(I:I, C:C, 0))) - filter one column based on other column
 
 ## Others

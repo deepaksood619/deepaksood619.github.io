@@ -56,30 +56,30 @@ Learning and building new things and technologies
 ## Roles performed
 
 - Software Development
-  - Android developer
-  - Java developer
-  - Frontend developer
-  - Backend developer
-  - IoT engineer
+    - Android developer
+    - Java developer
+    - Frontend developer
+    - Backend developer
+    - IoT engineer
 - System Architect
 - Cloud architect (Azure, AWS, Google Cloud)
 - Platform/Infrastructure Engineer
-  - Devops / Systems Engineer
+    - Devops / Systems Engineer
 - Test Infrastructure
 - Researcher (R&D)
 - Data Engineer (Senior data engineer)
-  - Data Architect
-  - Database Administrator
+    - Data Architect
+    - Database Administrator
 - Data Analyst
-  - BI Analyst
+    - BI Analyst
 - ML Engineer
 - Manager
-  - Mentor
-  - Recruiter (Taking interviews)
-  - Project Manager
-  - Product Manager
-  - Strategy
-  - Leadership
+    - Mentor
+    - Recruiter (Taking interviews)
+    - Project Manager
+    - Product Manager
+    - Strategy
+    - Leadership
 
 ### Soft Skills
 

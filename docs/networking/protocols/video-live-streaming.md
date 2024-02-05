@@ -4,8 +4,8 @@
 
 - **Zoom**
 - [Free Video Conferencing Software for Web & Mobile | Jitsi](https://jitsi.org)
-  - [Jitsi Meet](https://meet.jit.si)
-  - [Introduction | Jitsi Meet](https://jitsi.github.io/handbook/docs/intro)
+    - [Jitsi Meet](https://meet.jit.si)
+    - [Introduction | Jitsi Meet](https://jitsi.github.io/handbook/docs/intro)
 - Google Meet
 - Skype
 - https://goodmeetings.ai

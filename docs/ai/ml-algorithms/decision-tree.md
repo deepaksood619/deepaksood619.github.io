@@ -215,20 +215,20 @@ CART Algorithm - Classification and Regression Tree
 ## When are Decision Trees useful?
 
 - Advantages
-  - Very fast: can handle very large datasets with many attributes
-  - Flexible: serveral attribute types, classification and regression problems, missing values
-  - Interpretability: provide rules and attribute importance
+    - Very fast: can handle very large datasets with many attributes
+    - Flexible: serveral attribute types, classification and regression problems, missing values
+    - Interpretability: provide rules and attribute importance
 - Disadvantages
-  - Instability of the trees (high variance)
-  - Not always competitive with other algorithms in terms of accuracy
+    - Instability of the trees (high variance)
+    - Not always competitive with other algorithms in terms of accuracy
 
 ## Summary
 
 - Decision trees are practical for concept learning
 - Basic information measure and gain function for best first search of space of DTs
 - ID3 procedure
-  - Search space is complete
-  - Preference for shorter trees
+    - Search space is complete
+    - Preference for shorter trees
 - Overfitting is an important issue with various solutions
 - Many variations and extensions possible
 
@@ -257,12 +257,12 @@ https://towardsdatascience.com/decision-tree-ba64f977f7c3
 ## XGBoost (eXtreme Gradient Boosted trees)
 
 - Boosting is an ensemble method
-  - Each tree boosts attributes that led to misclassifications of previous tree
+    - Each tree boosts attributes that led to misclassifications of previous tree
 - It is amazing
-  - Routinely wins Kaggle competitions
-  - Easy to use
-  - Fast
-  - A good choice for an algorithm to start with
+    - Routinely wins Kaggle competitions
+    - Easy to use
+    - Fast
+    - A good choice for an algorithm to start with
 
 ## Decision Trees
 

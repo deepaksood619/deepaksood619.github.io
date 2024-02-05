@@ -41,8 +41,8 @@ Replicated write capacity unit (rWCU)- One **read capacity unit** represents one
 ![image](../../../media/AWS-DynamoDB_Working-image1.jpg)
 
 - Secondary Indexes
-  - Local secondary indexes
-  - Global secondary indexes (asynchronous)
+    - Local secondary indexes
+    - Global secondary indexes (asynchronous)
 
 https://aws.amazon.com/dynamodb/pricing/provisioned
 
@@ -67,9 +67,9 @@ https://aws.amazon.com/dynamodb/pricing/provisioned
 ## Modeling Real Applications
 
 - Partitions are 3 way replicated
-  - Acknowledgement when 2 out of 3 replicas acknowledges
+    - Acknowledgement when 2 out of 3 replicas acknowledges
 - Local Secondary Indexes
-  - allows you to resort the data in the partition
+    - allows you to resort the data in the partition
 - Global Secondary Indexes
 
 ## Selecting a partition key
@@ -77,46 +77,46 @@ https://aws.amazon.com/dynamodb/pricing/provisioned
 - Large number of distinct values
 - Items are uniformly requested and randomly distributed
 - Examples
-  - Bad: Status, Gender
-  - Good: CustomerId, DeviceId
+    - Bad: Status, Gender
+    - Good: CustomerId, DeviceId
 
 ## Selecting a sort key
 
 - Model 1:n and n:n relationships
 - Efficient/selective patterns
-  - Query multiple entities
+    - Query multiple entities
 - Leverage range queries
 - Examples
-  - Orders and OrderItems- Composite Keys
+    - Orders and OrderItems- Composite Keys
 - Multi-value Sorts and Filters
 - DynamoDB Transactions API
-  - Transact WriteItems
-    - Synchronous update, put, delete, and check
-      - Atomic
-      - Automated Rollbacks
-    - Up to 10 items within a transaction
-    - Supports multiple tables
-    - Complex conditional checks
-  - Good use cases
-    - Commit changes across items
-    - Conditional batch inserts/updates
-  - Bad use case
-    - Maintaining normalized data
+    - Transact WriteItems
+        - Synchronous update, put, delete, and check
+            - Atomic
+            - Automated Rollbacks
+        - Up to 10 items within a transaction
+        - Supports multiple tables
+        - Complex conditional checks
+    - Good use cases
+        - Commit changes across items
+        - Conditional batch inserts/updates
+    - Bad use case
+        - Maintaining normalized data
 
 ## Advanced Data Modeling
 
 - How OLTP Apps use data
-  - Mostly hierarchical structures
-  - Entity driven workflows
-  - Data spread across tables
-  - Requires complex queries
-  - Primary driver for ACID
+    - Mostly hierarchical structures
+    - Entity driven workflows
+    - Data spread across tables
+    - Requires complex queries
+    - Primary driver for ACID
 [AWS re:Invent 2018: Amazon DynamoDB Deep Dive: Advanced Design Patterns for DynamoDB (DAT401)](https://www.youtube.com/watch?v=HaEPXoXVf2k)
 
 ## Write Sharding (Shard write-heavy partition keys)
 
 - If there are a lot of writes coming in, then create different partitions and randomly add data to partitions
-  - Insert "CandidateA_" + rand(0, 10)
+    - Insert "CandidateA_" + rand(0, 10)
 - Scatter gather pattern for shard aggregation
 - Increase throughput with concurrency
 - Consider RCU/WCU per key, item size and request rate
@@ -136,8 +136,8 @@ Processing the entire table efficiently
 - Define a default edge for every node type to describe the node itself
 - Use partitioned GSIs to query large nodes (dates, places, etc.)
 - Use DynamoDB Streams/Lambda/EMR for graph query projections
-  - Neighbor entity state
-  - Subtree aggregations
-  - Breadth first search
-  - Node ranking
+    - Neighbor entity state
+    - Subtree aggregations
+    - Breadth first search
+    - Node ranking
 [AWS re:Invent 2019: [REPEAT 1] Amazon DynamoDB deep dive: Advanced design patterns (DAT403-R1)](https://www.youtube.com/watch?v=6yqfmXiZTlM)

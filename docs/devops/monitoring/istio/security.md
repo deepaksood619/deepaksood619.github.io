@@ -20,9 +20,9 @@ Security in Istio involves multiple components:
 
 - A Certificate Authority (CA) for key and certificate management
 - The configuration API server distributes to the proxies:
-  - [authentication policies](https://istio.io/docs/concepts/security/#authentication-policies)
-  - [authorization policies](https://istio.io/docs/concepts/security/#authorization-policies)
-  - [secure naming information](https://istio.io/docs/concepts/security/#secure-naming)
+    - [authentication policies](https://istio.io/docs/concepts/security/#authentication-policies)
+    - [authorization policies](https://istio.io/docs/concepts/security/#authorization-policies)
+    - [secure naming information](https://istio.io/docs/concepts/security/#secure-naming)
 - Sidecar and perimeter proxies work as [Policy Enforcement Points](https://www.jerichosystems.com/technology/glossaryterms/policy_enforcement_point.html)(PEPs) to secure communication between clients and servers.
 - A set of Envoy proxy extensions to manage telemetry and auditing
 
@@ -33,9 +33,9 @@ Security in Istio involves multiple components:
 Istio provides two types of authentication:
 
 - **Transport authentication**, also known asservice-to-service authentication: verifies the direct client making the connection. Istio offers [mutual TLS](https://en.wikipedia.org/wiki/Mutual_authentication) as a full stack solution for transport authentication. You can easily turn on this feature without requiring service code changes. This solution:
-  - Provides each service with a strong identity representing its role to enable interoperability across clusters and clouds.
-  - Secures service-to-service communication and end-user-to-service communication.
-  - Provides a key management system to automate key and certificate generation, distribution, and rotation.
+    - Provides each service with a strong identity representing its role to enable interoperability across clusters and clouds.
+    - Secures service-to-service communication and end-user-to-service communication.
+    - Provides a key management system to automate key and certificate generation, distribution, and rotation.
 - **Origin authentication**, also known asend-user authentication: verifies the original client making the request as an end-user or device. Istio enables request-level authentication with JSON Web Token (JWT) validation and a streamlined developer experience for open source OpenID Connect provider [ORY Hydra](https://www.ory.sh/), [Keycloak](https://www.keycloak.org/), [Auth0](https://auth0.com/), [Firebase Auth](https://firebase.google.com/docs/auth/), [Google Auth](https://developers.google.com/identity/protocols/OpenIDConnect), and custom auth.
 
 In both cases, Istio stores the authentication policies in theIstio config storevia a custom Kubernetes API. Pilot keeps them up-to-date for each proxy, along with the keys where appropriate. Additionally, Istio supports authentication in permissive mode to help you understand how a policy change can affect your security posture before it becomes effective.

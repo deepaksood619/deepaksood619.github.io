@@ -17,16 +17,16 @@
 - **The Old Way:** If you are old enough to learned your accounting two or three decades ago, the way you were taught to value fixed and current assets was to show them at orignial cost, net of accounting depreciation.
 - **The New Way:** As accounting has increasingly adopted the fair value standard, there has been a move to mark assets to current market value.
 - **Divergent Effects:** The difference in values that you get for assets, using the two approaches, varies. It is
-  - Greater on older assets than on newer ones
-  - Greater on fixed assets than current assets
+    - Greater on older assets than on newer ones
+    - Greater on fixed assets than current assets
 
 ## Financial Assets
 
 - Financial assets can take the form of holdings of securities or part ownership of other companies, private or public.
 - With holdings of publicly traded securities, the movement to using current market prices to mark up their values is almost complete
 - With equity ownership in other companies, the rules can vary depending on
-  - Whether the stake is viewed as a majority stake (>50%) or a minority stake. The former will lead to full consolidation (where 100% of the susidiaries revenues and operating income will be included in the parent company's financials, with the portion that is not owned shown as minority or non-controlling interest on the liability side) and with the latter, the actual stake will be shown as an asset.
-  - With a minority stake, whether it is held for trading or as a long-term investment. With the former, the holding will be marked to market. With the latter, it will be shown at book value terms.
+    - Whether the stake is viewed as a majority stake (>50%) or a minority stake. The former will lead to full consolidation (where 100% of the susidiaries revenues and operating income will be included in the parent company's financials, with the portion that is not owned shown as minority or non-controlling interest on the liability side) and with the latter, the actual stake will be shown as an asset.
+    - With a minority stake, whether it is held for trading or as a long-term investment. With the former, the holding will be marked to market. With the latter, it will be shown at book value terms.
 
 ## Intangible Assets
 
@@ -37,9 +37,9 @@
 
 - After all the talk of intangibles in accounting, it is telling that the bulk of intangible assets on accounting balance sheets across the world take the form of one item: goodwill.
 - Goodwill may sound good, but it is a plug variable that signifies little.
-  - For goodwill to manifest itself on a balance sheet, a company has to do an acquisition.
-  - When that acquisition occurs, goodwill is measured as the difference between the price paid on the acquisition and the target company's asset value (dressed up book value).
-  - It shows up as an asset because without it in place, balance sheets would not balance.
+    - For goodwill to manifest itself on a balance sheet, a company has to do an acquisition.
+    - When that acquisition occurs, goodwill is measured as the difference between the price paid on the acquisition and the target company's asset value (dressed up book value).
+    - It shows up as an asset because without it in place, balance sheets would not balance.
 
 ## Goodwill impairment: Valuable information or make-work-for-accountants?
 
@@ -50,26 +50,26 @@
 ## Current Liabilities
 
 - Current liabilities can be broadly broken into three groups:
-  - Non-interest-bearing liabilities, such as accounts payable an supplier credit, which represent part of normal operations.
-  - Interest-bearing short-term borrowings such as commercial paper, short term debt and the short term portion (`<1 year`) of long term debt.
-  - Deferred salaries, taxes and other amounts due in the short term.
+    - Non-interest-bearing liabilities, such as accounts payable an supplier credit, which represent part of normal operations.
+    - Interest-bearing short-term borrowings such as commercial paper, short term debt and the short term portion (`<1 year`) of long term debt.
+    - Deferred salaries, taxes and other amounts due in the short term.
 - When computing non-cash working capital, we do not include interest-bearing short term debt in the calculation, moving it instead into the debt column
 
 ## Debt Due
 
 - When companies borrow money, it can take three forms:
-  - Corporate bonds, represent debt raised from public markets
-  - Bank lons, debt raised from banks and other lending institutions
-  - Lease debt, arising out of lease contacts requiring lease payments in future years. Until 2019, only leases classified as capital leases qualified, but since 2019, operating lease commitments are also debt.
+    - Corporate bonds, represent debt raised from public markets
+    - Bank lons, debt raised from banks and other lending institutions
+    - Lease debt, arising out of lease contacts requiring lease payments in future years. Until 2019, only leases classified as capital leases qualified, but since 2019, operating lease commitments are also debt.
 - The mark-to-market movement on the asset side of the balance sheet has been muted on the liability side of the balance sheet. Bank debt, for the most part, is recorded as originally borrowed, and corporte bonds due, are for the most part not marked to market.
 
 ## Debt details
 
 - While balance sheets are the repositories for total debt due, broken down into current and long term, there is additional information on debt in the footnotes, for most companies.
 - This additional information can be on two fronts:
-  - Individual debt due, with stated interest rates and maturities.
-  - Additional features on the debt, including floating/fixed and straight/convertible provisions.
-  - A consolidated table of when debt repayments come due, by year
+    - Individual debt due, with stated interest rates and maturities.
+    - Additional features on the debt, including floating/fixed and straight/convertible provisions.
+    - A consolidated table of when debt repayments come due, by year
 
 ## Shareholder's equity
 

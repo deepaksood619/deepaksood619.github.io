@@ -42,18 +42,18 @@ User Authentication Choices
 What is Passport JS
 
 - Welcome to Express middlewares!
-  - On each HTTP request, Passport will use a "Strategy" to determine whether the requestor has permission to view that resource
-  - If the user does not have permission, a 401 *Unauthorized* Error is thrown
+    - On each HTTP request, Passport will use a "Strategy" to determine whether the requestor has permission to view that resource
+    - If the user does not have permission, a 401 *Unauthorized* Error is thrown
 - Passport Strategies??
-  - Each strategy uses the Passport JS framework as a template
-  - The Passport Local Strategy utilizes, Cookies, Express Sessions and some authentication logic
+    - Each strategy uses the Passport JS framework as a template
+    - The Passport Local Strategy utilizes, Cookies, Express Sessions and some authentication logic
 
 Intro to HTTP Headers and Cookies
 
 - 3 types of headers
-  - General headers
-  - Request headers
-  - Response headers
+    - General headers
+    - Request headers
+    - Response headers
 
 Setting header with expiry
 

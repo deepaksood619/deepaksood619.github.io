@@ -11,4 +11,4 @@ By Matt Watkinson
 - Profitability is achieved by increasing revenue, preserving bargaining power, and cutting costs
 - If you're in it for the long haul, protect your customer base, keep your originality, and stay adaptable
 - Actionable advice: Don't base your price on your costs
-  - Remember, your customers don't care how much you have to pay to create a product - all they care about is how valuable it is to them
+    - Remember, your customers don't care how much you have to pay to create a product - all they care about is how valuable it is to them

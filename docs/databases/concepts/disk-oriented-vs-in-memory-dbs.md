@@ -25,13 +25,13 @@ For a disk oriented DBMS, the system architecture is predicated on the assumptio
 The DBMS organizes the database as a set of fixed-length blocks called **slotted pages**. The system uses an in-memory (volatile) buffer pool to cache the blocks cached from disk.
 
 - When a query accesses a page, the DBMS checks to see if that page is already in memory.
-  - If it's not, then the DBMS must retrieve it from disk and copy it into a **frame** in its buffer pool
-  - If there are no free frames, then find a page to evict
-  - If the page being evicted is dirty, then the DBMS must write it back to disk
+    - If it's not, then the DBMS must retrieve it from disk and copy it into a **frame** in its buffer pool
+    - If there are no free frames, then find a page to evict
+    - If the page being evicted is dirty, then the DBMS must write it back to disk
 - Once the page is in memory, the DBMS translates any on-disk addresses to their in-memory addresses.
 - Every tuple access has to go through the buffer pool manager regardless of whether that data will always be in memory.
-  - Always translate a tuple's record id to its memory location
-  - Worker thread must pin pages that it needs to make sure that they are not swapped to disk
+    - Always translate a tuple's record id to its memory location
+    - Worker thread must pin pages that it needs to make sure that they are not swapped to disk
 
 ## Concurrency Control
 
@@ -119,9 +119,9 @@ The DBMS still needs WAL on non-volatile storage since the system could halt at 
 - In many cases, however, it may be possible to use more lightweight logging schemes (e.g., only store redo information). For example, since there are no "dirty pages", the DBMS does not need to maintain LSNs throughout the systems.
 - In-memory DBMSs still takes checkpoints to reduce the amount of log that the system has to replay during recovery.
 - Different methods for checkpointing:
-  - Maintain a second copy of the database in memory that is updated by replaying the WAL.
-  - Switch to a special "copy-on-write" mode and then write a dump of the database to disk.
-  - Fork the DBMS process and then have the child process write its contents to disk.
+    - Maintain a second copy of the database in memory that is updated by replaying the WAL.
+    - Switch to a special "copy-on-write" mode and then write a dump of the database to disk.
+    - Fork the DBMS process and then have the child process write its contents to disk.
 
 ## Bottlenecks
 

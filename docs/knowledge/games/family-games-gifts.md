@@ -14,8 +14,8 @@
 
 - Polite
 - Host
-  - Generous authority
-  - Rules
+    - Generous authority
+    - Rules
 
 ## Family Games
 

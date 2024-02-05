@@ -129,18 +129,18 @@ The book asserts that desire, faith, and persistence can propel one to great hei
 - Quit social media
 - Drain the shallows
 
-  - Ex - attending meetings, making phone calls, answering emails, other activities of low value
+    - Ex - attending meetings, making phone calls, answering emails, other activities of low value
 - Routines
 
-  - Monastic philosophy - cutting off oneself from distractions completely
-  - Bimodal philosophy - alternates between living a normal engaged life and a monastic approach
-  - Rhythmic philosophy - setting a fixed time for deep work every day
-  - Journalistic philosophy - fitting deep work into your schedule anytime you can
+    - Monastic philosophy - cutting off oneself from distractions completely
+    - Bimodal philosophy - alternates between living a normal engaged life and a monastic approach
+    - Rhythmic philosophy - setting a fixed time for deep work every day
+    - Journalistic philosophy - fitting deep work into your schedule anytime you can
 - Value of systematic idleness
 
-  - Downtime aids insights
-  - During deep work, we use up a form of energy called directed attention. It is a limited resource, to recharge, we need to take a break
-  - Less mental clutter means more mental resources available for deep thinking
+    - Downtime aids insights
+    - During deep work, we use up a form of energy called directed attention. It is a limited resource, to recharge, we need to take a break
+    - Less mental clutter means more mental resources available for deep thinking
 - Productivity is not about committing more hours into work; instead it is making the most of the hours worked and getting optimal recovery from the hours you do not work
 
 ## Big Rock

@@ -226,10 +226,10 @@ https://drive.google.com/file/d/1iCqWYJa7G2MIi293mEt-zcpcFyEpqO3e/view
 - Average life expectancy = 80 years
 - Android:iPhones market share = 95:5
 - Estimates suggest that only 3% of Indians take home an annual salary of more than ₹5 lakhs
-  - i.e. 4.11 crore out of 137 crore
-  - i.e. 41667 per month
-  - in hand salary of 37313.33
-  - After expenses, savings of 20% i.e. Rs. 7400 per month of savings
+    - i.e. 4.11 crore out of 137 crore
+    - i.e. 41667 per month
+    - in hand salary of 37313.33
+    - After expenses, savings of 20% i.e. Rs. 7400 per month of savings
 - [Supercharged customers - Customers who visit a physical store spend more money. In fact, they spend 60% more on average per order](retail-offline-sales)
 
 ## RCA
@@ -242,27 +242,27 @@ https://drive.google.com/file/d/10J9ZUt16a9wBAkz8fQt9u6is8drbK0H5/view
 
 - Orders on swiggy are down by 40%
 - Rides on uber are down by 30%
-  - Hygiene questions
-    - BI Tool working fine?
-    - Metric calculation changed?
-  - Time duration
-    - Sudden / Gradual drop
-    - Seasonality? Relevance (see this very often)?
+    - Hygiene questions
+        - BI Tool working fine?
+        - Metric calculation changed?
     - Time duration
-  - Segmentation - Car type / Region (Country) / Platform (Android vs iOS) / etc
-  - Internal factors
-    - Tech
-      - Phase / Journey / Drop-off
-      - New releases - Open problem? - UI changes
-      - New feature - Cannibilization
-    - Pricing / Salary changes?
-  - **External factors**
-    - Govt regulation?
-    - Events - COVID
-    - Customer desire changes (travel / cheaper than own car / convinient than public transport)
-    - New competitors (public transport from govt)
-    - Protests / Strikes
-    - Negative press / sentiment
+        - Sudden / Gradual drop
+        - Seasonality? Relevance (see this very often)?
+        - Time duration
+    - Segmentation - Car type / Region (Country) / Platform (Android vs iOS) / etc
+    - Internal factors
+        - Tech
+            - Phase / Journey / Drop-off
+            - New releases - Open problem? - UI changes
+            - New feature - Cannibilization
+        - Pricing / Salary changes?
+    - **External factors**
+        - Govt regulation?
+        - Events - COVID
+        - Customer desire changes (travel / cheaper than own car / convinient than public transport)
+        - New competitors (public transport from govt)
+        - Protests / Strikes
+        - Negative press / sentiment
 
 https://pmschool.io/ChallengeDetails/live/61f50bddb6f56bff58b9692e
 

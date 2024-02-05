@@ -70,38 +70,38 @@ result.traceback
 Flower is a web based tool for monitoring and administrating [Celery](http://celeryproject.org/) clusters
 
 - Real-time monitoring using Celery Events
-  - Task progress and history
-  - Ability to show task details (arguments, start time, run-time, and more)
-  - Graphs and statistics
+    - Task progress and history
+    - Ability to show task details (arguments, start time, run-time, and more)
+    - Graphs and statistics
 - Remote Control
-  - View worker status and statistics
-  - Shutdown and restart worker instances
-  - Control worker pool size and autoscale settings
-  - View and modify the queues a worker instance consumes from
-  - View currently running tasks
-  - View scheduled tasks (ETA/countdown)
-  - View reserved and revoked tasks
-  - Apply time and rate limits
-  - Configuration viewer
-  - Revoke or terminate tasks
+    - View worker status and statistics
+    - Shutdown and restart worker instances
+    - Control worker pool size and autoscale settings
+    - View and modify the queues a worker instance consumes from
+    - View currently running tasks
+    - View scheduled tasks (ETA/countdown)
+    - View reserved and revoked tasks
+    - Apply time and rate limits
+    - Configuration viewer
+    - Revoke or terminate tasks
 - HTTP API
-  - List workers
-  - Shut down a worker
-  - Restart worker's pool
-  - Grow worker's pool
-  - Shrink worker's pool
-  - Autoscale worker pool
-  - Start consuming from a queue
-  - Stop consuming from a queue
-  - List tasks
-  - List (seen) task types
-  - Get a task info
-  - Execute a task
-  - Execute a task by name
-  - Get a task result
-  - Change soft and hard time limits for a task
-  - Change rate limit for a task
-  - Revoke a task
+    - List workers
+    - Shut down a worker
+    - Restart worker's pool
+    - Grow worker's pool
+    - Shrink worker's pool
+    - Autoscale worker pool
+    - Start consuming from a queue
+    - Stop consuming from a queue
+    - List tasks
+    - List (seen) task types
+    - Get a task info
+    - Execute a task
+    - Execute a task by name
+    - Get a task result
+    - Change soft and hard time limits for a task
+    - Change rate limit for a task
+    - Revoke a task
 - OpenID authentication
 
 ### Load Average

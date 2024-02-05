@@ -11,9 +11,9 @@ In data mining, what would be a monotonic function would be the support function
 ## Rule Generation
 
 - How to efficiently generate rules from frequent itemsets?
-  - In general, confidence does not have an anti-monotone property
-  - But confidence of rules generated from the same itemset has an anti-monotone property
-  - e.g., `L = {A,B,C,D}`
+    - In general, confidence does not have an anti-monotone property
+    - But confidence of rules generated from the same itemset has an anti-monotone property
+    - e.g., `L = {A,B,C,D}`
 
 `c (ABC -> D) >= c(AB -> CD) >= c(A -> BCD)`
 

@@ -37,5 +37,5 @@ https://zerodha.tech/blog/being-future-ready-with-common-sense
 - Organisations often overestimate the importance of the features they continuously ship (and underestimate the importance of features they don't ship)
 - Don't fix what is not broken, but fix what might soon break
 - Technical debt is a reality of life
-  - No business goals, vision, strategy, or competitive advantage changes the fact that technical debt is inevitable and that it needs to be handled.
+    - No business goals, vision, strategy, or competitive advantage changes the fact that technical debt is inevitable and that it needs to be handled.
 - A developer should know why something is being done to the software they write and maintain. That is when they can truly "own" it, maintain a current mental model without outright hating the codebase, and assimilate changes meaningfully rather than shoehorning them in.

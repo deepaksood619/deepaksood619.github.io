@@ -11,10 +11,10 @@ A distributed real-time document store whereevery fieldis indexed and searchable
 - Scalable search index
 - Database queries only store and retrieve
 - Indexing Preprocessing
-  - Remove formatting
-  - Remove stop words
-  - Stemming - reduces the word down to its root
-  - Add synonyms
+    - Remove formatting
+    - Remove stop words
+    - Stemming - reduces the word down to its root
+    - Add synonyms
 - Corpus of documents
 - Tokens
 - Inverted index
@@ -23,26 +23,26 @@ A distributed real-time document store whereevery fieldis indexed and searchable
 - First implementation was Compass 1 and Compass 2, and elasticsearch is the 3rd implementation
 
 - Distributed and Highly Available Search Engine.
-  - Each index is fully sharded with a configurable number of shards.
-  - Each shard can have one or more replicas.
-  - Read / Search operations performed on any of the replica shards.
+    - Each index is fully sharded with a configurable number of shards.
+    - Each shard can have one or more replicas.
+    - Read / Search operations performed on any of the replica shards.
 - Multi Tenant.
-  - Support for more than one index.
-  - Index level configuration (number of shards, index storage, ...).
+    - Support for more than one index.
+    - Index level configuration (number of shards, index storage, ...).
 - Various set of APIs
-  - HTTPRESTfulAPI
-  - Native JavaAPI.
-  - All APIs perform automatic node operation rerouting.
+    - HTTPRESTfulAPI
+    - Native JavaAPI.
+    - All APIs perform automatic node operation rerouting.
 - Document oriented
-  - No need for upfront schema definition.
-  - Schema can be defined for customization of the indexing process.
+    - No need for upfront schema definition.
+    - Schema can be defined for customization of the indexing process.
 - Reliable, Asynchronous Write Behind for long term persistency.
 - (Near) Real Time Search.
 - Built on top of Lucene
-  - Each shard is a fully functional Lucene index
-  - All the power of Lucene easily exposed through simple configuration / plugins.
+    - Each shard is a fully functional Lucene index
+    - All the power of Lucene easily exposed through simple configuration / plugins.
 - Per operation consistency
-  - Single document level operations are atomic, consistent, isolated and durable.
+    - Single document level operations are atomic, consistent, isolated and durable.
 
 ## Real world use cases
 

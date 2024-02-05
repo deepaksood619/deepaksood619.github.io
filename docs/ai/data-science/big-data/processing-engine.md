@@ -5,14 +5,14 @@ A processing engine, sometimes called a processing framework, is responsible for
 Processing frameworks compute over the data in the system, either by reading from non-volatile storage or as it is ingested into the system. Computing over data is the process of extracting information and insight from large quantities of individual data points.
 
 - Batch-only frameworks:
-  - [Apache Hadoop](https://www.digitalocean.com/community/tutorials/hadoop-storm-samza-spark-and-flink-big-data-frameworks-compared#apache-hadoop)
+    - [Apache Hadoop](https://www.digitalocean.com/community/tutorials/hadoop-storm-samza-spark-and-flink-big-data-frameworks-compared#apache-hadoop)
 - Stream-only frameworks:
-  - [Apache Storm](https://www.digitalocean.com/community/tutorials/hadoop-storm-samza-spark-and-flink-big-data-frameworks-compared#apache-storm)
-  - [Apache Samza](https://www.digitalocean.com/community/tutorials/hadoop-storm-samza-spark-and-flink-big-data-frameworks-compared#apache-samza)
-  - [Keystone Real-time Stream Processing Platform | by Netflix Technology Blog | Netflix TechBlog](https://netflixtechblog.com/keystone-real-time-stream-processing-platform-a3ee651812a)
+    - [Apache Storm](https://www.digitalocean.com/community/tutorials/hadoop-storm-samza-spark-and-flink-big-data-frameworks-compared#apache-storm)
+    - [Apache Samza](https://www.digitalocean.com/community/tutorials/hadoop-storm-samza-spark-and-flink-big-data-frameworks-compared#apache-samza)
+    - [Keystone Real-time Stream Processing Platform | by Netflix Technology Blog | Netflix TechBlog](https://netflixtechblog.com/keystone-real-time-stream-processing-platform-a3ee651812a)
 - Hybrid frameworks:
-  - [Apache Spark](https://www.digitalocean.com/community/tutorials/hadoop-storm-samza-spark-and-flink-big-data-frameworks-compared#apache-spark)
-  - [Apache Flink](https://www.digitalocean.com/community/tutorials/hadoop-storm-samza-spark-and-flink-big-data-frameworks-compared#apache-flink)
+    - [Apache Spark](https://www.digitalocean.com/community/tutorials/hadoop-storm-samza-spark-and-flink-big-data-frameworks-compared#apache-spark)
+    - [Apache Flink](https://www.digitalocean.com/community/tutorials/hadoop-storm-samza-spark-and-flink-big-data-frameworks-compared#apache-flink)
 
 Processing frameworks and processing engines are responsible for computing over data in a data system. While there is no authoritative definition setting apart "engines" from "frameworks", it is sometimes useful to define the former as the actual component responsible for operating on data and the latter as a set of components designed to do the same.
 

@@ -61,8 +61,8 @@ We will use equation of a line to model the line and then find lines using this 
 - Image Space (x vs y plot)
 - Parameter space called as Hough Space (m vs b)
 - Hough Transform is just a conversion from Image Space to Hough Space
-  - Characterization of a line in image space will be a single point at the position (m, b) in Hough space.
-  - A point in an image space will be a line in Hough Space
+    - Characterization of a line in image space will be a single point at the position (m, b) in Hough space.
+    - A point in an image space will be a line in Hough Space
 
 ## For edge detection - HED - Holistically Nested Edge Detection
 

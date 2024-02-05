@@ -48,14 +48,14 @@ Machine learning tasks are typically classified into two broad categories, depen
 The computer is presented with example inputs and their desired outputs, given by a "teacher", and the goal is to learn a general rule that [maps](https://en.wikipedia.org/wiki/Map_(mathematics)) inputs to outputs. As special cases, the input signal can be only partially available, or restricted to special feedback: (Discrete number of values / classes)
 
 - **Regression Problem**
-  - Predict continuous valued output (price)
-  - Right answer were given (ex- to sell the house at highest price) either use linear function or use quadratic function. Maximize the profit to the use by trying to learn by experimenting and learning.
+    - Predict continuous valued output (price)
+    - Right answer were given (ex- to sell the house at highest price) either use linear function or use quadratic function. Maximize the profit to the use by trying to learn by experimenting and learning.
 - **Classification Problem**
-  - Classify the problem, according to its category.
-  - Like cancer, benign or malignant using tumor size.
-  - Discrete valued output.
-  - Give the probability of what the subject is (either benign or malignant)
-  - Number of features (variables or attributes) can increase (tumor size + age)
+    - Classify the problem, according to its category.
+    - Like cancer, benign or malignant using tumor size.
+    - Discrete valued output.
+    - Give the probability of what the subject is (either benign or malignant)
+    - Number of features (variables or attributes) can increase (tumor size + age)
 - **Tagging**
 
 The problem of learning to predict classes that are not mutually exclusive is called**multi-label classification.** Auto-tagging problems are typically best described as multi-label classification problems. Think of the tags people might apply to posts on a technical blog, e.g., "machine learning", "technology", "gadgets", "programming languages", "Linux", "cloud computing", "AWS". A typical article might have 5--10 tags applied because these concepts are correlated. Posts about "cloud computing" are likely to mention "AWS" and posts about "machine learning" could also deal with "programming languages".
@@ -77,16 +77,16 @@ No labels are given to the learning algorithm, leaving it on its own to find str
 
 - Given the data set find some structure in the data.
 - **Clustering algorithm**
-  - Google news uses clustering algorithm to group in cohesive stories. Different news source with same news are group into one story.
-  - DNA are clustered according to genes (one type of gene are grouped together) (or group people according to the gene present)
-  - We are not giving answer to the algorithm so it's unsupervised learning.
-    - Organize computing clusters in data centers to group together servers together to increase performance.
-    - Social network analysis
-    - Market segmentation
-    - Astronomical data analysis
+    - Google news uses clustering algorithm to group in cohesive stories. Different news source with same news are group into one story.
+    - DNA are clustered according to genes (one type of gene are grouped together) (or group people according to the gene present)
+    - We are not giving answer to the algorithm so it's unsupervised learning.
+        - Organize computing clusters in data centers to group together servers together to increase performance.
+        - Social network analysis
+        - Market segmentation
+        - Astronomical data analysis
 - **Cocktail Party Problem**
-  - 2 speakers, 2 microphones different distance from each user, unsupervised learning algorithm will separate the two overlapping voices and remove the background voice.
-  - Use OCTAVE
+    - 2 speakers, 2 microphones different distance from each user, unsupervised learning algorithm will separate the two overlapping voices and remove the background voice.
+    - Use OCTAVE
 
 - [Semi-supervised learning](https://en.wikipedia.org/wiki/Semi-supervised_learning): the computer is given only an incomplete training signal: a training set with some (often many) of the target outputs missing.
 
@@ -168,8 +168,8 @@ Applications
 
 - Spam detection
 - Computer Vision
-  - Image recognition
-  - Optical Character Recognition (OCR)
+    - Image recognition
+    - Optical Character Recognition (OCR)
 
 https://opensource.google/projects/tesseract
 
@@ -354,8 +354,8 @@ Reinforcement learning is concerned with how an *agent*ought to take *actions*in
 ![image](../../media/ML-Classification-image4.jpg)
 
 - **Linear Discrimant Analysis (LDA)**
-  - Uses Bayes' theorem to predict the results
-  - Bayes' rule
+    - Uses Bayes' theorem to predict the results
+    - Bayes' rule
 
 ![image](../../media/ML-Classification-image5.jpg)
 
@@ -366,7 +366,7 @@ Reinforcement learning is concerned with how an *agent*ought to take *actions*in
 - Reducing the number of variables we have to deal with is called **Dimensionality Reduction**, and it's really important in the world of **Big Data**.
 
 - **K Nearest Neighbors (KNN)**
-  - Relies on the idea that **data points will be similar to other data points** that are near it.
+    - Relies on the idea that **data points will be similar to other data points** that are near it.
 
 ![image](../../media/ML-Classification-image7.jpg)
 

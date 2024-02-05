@@ -71,8 +71,8 @@ https://www.investopedia.com/terms/e/economicmoat.aspc
 
 - INTANGIBLE ASSETS MOAT
 - SWITCHING MOAT
-  - Moving from service A to service B
-  - Ex - Changing your bank account
+    - Moving from service A to service B
+    - Ex - Changing your bank account
 - LOW COST PROVIDER MOAT
 - TOLL MOAT
 - NETWORK EFFECTS MOAT

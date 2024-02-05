@@ -52,12 +52,12 @@ Thinking we know more than we do
 - You may have felt it when you learned new information about the world that contradicted something you'd believed for a long time or maybe you learned something about your behavior that conflicted with your sense of self
 - The state of having inconsistent thoughts, beliefs, or attitudes, especially as relating to behavioural decisions and attitude change
 - Resistance to change
-  - That trait depends on a few factors
-    - How much you identify with your belief
-    - How much satisfaction you get from your behavior
-    - How much pain or loss you'd have to endure to change those things
+    - That trait depends on a few factors
+        - How much you identify with your belief
+        - How much satisfaction you get from your behavior
+        - How much pain or loss you'd have to endure to change those things
 - Selective exposure
-  - Listens to people and media persons that agree with them and dismiss others that challenge their world views
+    - Listens to people and media persons that agree with them and dismiss others that challenge their world views
 - We'll go a long way to reduce the feeling that our thoughts or actions don't line up with the way we see ourselves or the world
 
 #### Example
@@ -383,16 +383,16 @@ And that misconception is called the broken window fallacy.
 ### [24 Biases That Come In Your Way While Making Money](https://www.youtube.com/watch?v=gRNqZzmmL-0)
 
 - Consistency & Commitment Bias
-  - Once an idea has taken hold of the brain it's almost impossible to eradicate
-  - Over the years, I began to realize that it was a bad idea to speak publicly about stocks that I own. The issue isn't that other investors might steal my best ideas. The real problem is that it messes with my head. Once we've made a public statement, it's psychologically difficult to back away from what we've said - even if we've come to regret that opinion
+    - Once an idea has taken hold of the brain it's almost impossible to eradicate
+    - Over the years, I began to realize that it was a bad idea to speak publicly about stocks that I own. The issue isn't that other investors might steal my best ideas. The real problem is that it messes with my head. Once we've made a public statement, it's psychologically difficult to back away from what we've said - even if we've come to regret that opinion
 - Contrast Bias
 - Social Proof Bias
 - Liking Bias
-  - Don't fall in love with a stock
+    - Don't fall in love with a stock
 - Excessive Self-regard Bias
 - Authority Bias
 - Lollapalooza effect
-  - When multiple bias are used to sway someone's decision
+    - When multiple bias are used to sway someone's decision
 
 ## Fallacies
 

@@ -52,15 +52,15 @@ Envelope Encryption is an approach/process used within many applications to encr
 
 - Typically there are manylong term keys or master keysthat isheld in a key management system (KMS).
 - When you need to encrypt some message :
-  - A request is sent to the KMS to generate a data keybased on one of the master keys.
-  - KMS returns a data key, which usually contains both the plain text version and the encrypted version of the data key.
-  - The message is encrypted using the plain text key.
-  - Then both the encrypted message and the encrypted data key are packaged into a structure (sometimes called envelope) and written.
-  - The plain text key is immediately removed from memory.
+    - A request is sent to the KMS to generate a data keybased on one of the master keys.
+    - KMS returns a data key, which usually contains both the plain text version and the encrypted version of the data key.
+    - The message is encrypted using the plain text key.
+    - Then both the encrypted message and the encrypted data key are packaged into a structure (sometimes called envelope) and written.
+    - The plain text key is immediately removed from memory.
 - When it comes time to decrypt the message:
-  - The encrypted data key is extracted from the envelope.
-  - KMS is requested to decrypt the data key using the same master key as that was used to generate it.
-  - Once the plain text version of the data key is obtained then the encrypted message itself is decrypted.
+    - The encrypted data key is extracted from the envelope.
+    - KMS is requested to decrypt the data key using the same master key as that was used to generate it.
+    - Once the plain text version of the data key is obtained then the encrypted message itself is decrypted.
 
 Using this approach if one wants to decrypt data, they need be authenticated with the KMS, since the master keys are only held there and never exported, and only the KMS can decrypt the data keys.
 
@@ -120,9 +120,9 @@ https://en.wikipedia.org/wiki/Message_authentication_code
 ## Message Integrity Codes (MIC) / MACs (Message Authentication Code)
 
 - Attacks
-  - Existential Forgery
-  - Selective Forgery
-  - Key recovery
+    - Existential Forgery
+    - Selective Forgery
+    - Key recovery
 - Merkle-Damgard Iterated Construction
 - HMAC (Hash-MAC)
 - Encrypted CBC-MAC (ECBC-MAC)s

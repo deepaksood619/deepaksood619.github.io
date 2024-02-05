@@ -27,11 +27,11 @@ RAII guarantees that the resource is available to any function that may access t
 RAII can be summarized as follows:
 
 - encapsulate each resource into a class, where
-  - the constructor acquires the resource and establishes all class invariants or throws an exception if that cannot be done,
-  - the destructor releases the resource and never throws exceptions;
+    - the constructor acquires the resource and establishes all class invariants or throws an exception if that cannot be done,
+    - the destructor releases the resource and never throws exceptions;
 - always use the resource via an instance of a RAII-class that either
-  - has automatic storage duration or temporary lifetime itself, or
-  - has lifetime that is bounded by the lifetime of an automatic or temporary object
+    - has automatic storage duration or temporary lifetime itself, or
+    - has lifetime that is bounded by the lifetime of an automatic or temporary object
 
 Move semantics make it possible to safely transfer resource ownership between objects, across scopes, and in and out of threads, while maintaining resource safety.
 

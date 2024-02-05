@@ -62,9 +62,9 @@
 - CSS / Bootstrap / SCSS
 - Web development
 - Good to have (backend)
-  - NodeJS / NestJS (Any JS frameworks)
-  - SQL
-  - API Integration / API creation
+    - NodeJS / NestJS (Any JS frameworks)
+    - SQL
+    - API Integration / API creation
 
 ### Full Stack
 
@@ -87,8 +87,8 @@
 
 - React / React Native / JSX
 - Good to have (backend)
-  - NodeJS / NestJS / NextJS (Any JS frameworks)
-  - SQL
+    - NodeJS / NestJS / NextJS (Any JS frameworks)
+    - SQL
 
 ### Data Engineer
 

@@ -3,15 +3,15 @@
 ## Resume
 
 - Full - https://docs.google.com/document/d/1g9yh9FJuJO_mCgJUXUxcWN9dw0GTFwS1N6DssRlqVHE/edit
-  - https://bit.ly/deepak_full
+    - https://bit.ly/deepak_full
 - Targeted - https://docs.google.com/document/d/1l4Mfb7gLDC6RGwhvHzdn9Am7bEzz4SyjavZnGJ01Sz0/edit
-  - https://bit.ly/deepak_sood_resume
+    - https://bit.ly/deepak_sood_resume
 
 ## Websites
 
 - https://deepaksood619.github.io
-  - http://bit.ly/deepaksite
-  - https://bit.ly/deepnotes
+    - http://bit.ly/deepaksite
+    - https://bit.ly/deepnotes
 - https://resume.github.io/?deepaksood619
 - [Experienced Software and Product Development Professional](https://deepaksood.framer.ai/)
 - https://projectshowcase.me/deepaksood
@@ -19,7 +19,7 @@
 - [https://sites.google.com/view/deepak-sood](https://sites.google.com/view/deepak-sood)
 - LinkTree - https://linktr.ee/deepaksood
 - itsmy.fyi - [Deepak Kumar Sood](https://itsmy.fyi/me/deepak)
-  - Issue Link - [itsmy.fyi - Deepak · Issue #109 · rishi-raj-jain/itsmy.fyi · GitHub](https://github.com/rishi-raj-jain/itsmy.fyi/issues/109)
+    - Issue Link - [itsmy.fyi - Deepak · Issue #109 · rishi-raj-jain/itsmy.fyi · GitHub](https://github.com/rishi-raj-jain/itsmy.fyi/issues/109)
 - Bento - [Bento - deepaksood](https://bento.me/deepaksood) [Bento - deepaksood619](https://bento.me/deepaksood619)
 
 ## Donate
@@ -57,7 +57,7 @@
 - Leet Code - https://leetcode.com/deepaksood619
 - AthenaSquare - https://athenasquare.org/deepaksood619
 - Touch Typing
-  - TheTypingCat - https://thetypingcat.com/user/34963
-  - RataType - http://www.ratatype.com/c519043
-  - 10FastFingers - https://10fastfingers.com/user/1090885
+    - TheTypingCat - https://thetypingcat.com/user/34963
+    - RataType - http://www.ratatype.com/c519043
+    - 10FastFingers - https://10fastfingers.com/user/1090885
 - Regex Crossword - https://regexcrossword.com/players/38485

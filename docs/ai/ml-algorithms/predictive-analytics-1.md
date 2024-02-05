@@ -60,9 +60,9 @@
 - The phenomenon is based on a very general principle which is called the bias variance trade off. You can consider the training data set to be random by itself.
 
 - What is the training data set?
-  - In the real situation, the training data set may be a user behavior in Internet, for example, web browsing, using search engine, doing clicks on advertisement, and so on.
-  - Other examples of training data sets are physical measurements. For example, temperature, locations, date, time and so on. And all these measurements are essentially stochastic.
-  - If you can repeat the same experiment in the same conditions, the measurements actually will be different because of the noise in measurements, and since user behavior is essentially stochastic and not exactly predictable. Now, you understand that the traning data set itself is random
+    - In the real situation, the training data set may be a user behavior in Internet, for example, web browsing, using search engine, doing clicks on advertisement, and so on.
+    - Other examples of training data sets are physical measurements. For example, temperature, locations, date, time and so on. And all these measurements are essentially stochastic.
+    - If you can repeat the same experiment in the same conditions, the measurements actually will be different because of the noise in measurements, and since user behavior is essentially stochastic and not exactly predictable. Now, you understand that the traning data set itself is random
 
 - Bagging: It is an averaging over a set of possible datasets, removing noisy and non-stable parts of models.
 - After averaging, the noisy parts of machine learning model will vanish out, whereas stable and reliable parts will remain. The quality of the average model will be better than any single model

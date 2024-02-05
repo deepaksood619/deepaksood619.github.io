@@ -16,47 +16,47 @@ https://webrtchacks.com/whats-up-with-whatsapp-and-webrtc
 ## Design a Messaging Service
 
 - **Messaging**
-  - One to one message
-  - Group message
-  - Broadcast message- Timeline
+    - One to one message
+    - Group message
+    - Broadcast message- Timeline
 - Sharing
-  - text / stickers
-  - image / gifs
-  - video
-  - status (text / image / video)- **Delivery**
-  - Sent notification
-  - Delivered notification
-  - Read notification (can be sent like a regular message [like an acknowledgement])
+    - text / stickers
+    - image / gifs
+    - video
+    - status (text / image / video)- **Delivery**
+    - Sent notification
+    - Delivered notification
+    - Read notification (can be sent like a regular message [like an acknowledgement])
 - **Push notifications**
-  - Only delivering, because there cannot be interaction with the message
-  - Uses GCM- Backup
-  - Local
-  - Cloud
+    - Only delivering, because there cannot be interaction with the message
+    - Uses GCM- Backup
+    - Local
+    - Cloud
 - Storage
-  - Store messages
-  - Store analytics
-  - Send and delete
+    - Store messages
+    - Store analytics
+    - Send and delete
 - Network
-  - **Ephermeral**
-  - TCP - Handshake
-  - Load balancing (layers of load balancing and caching)
+    - **Ephermeral**
+    - TCP - Handshake
+    - Load balancing (layers of load balancing and caching)
 - Scaling
-  - Horizontally
-  - Messages can be delivered out of order because different messages can be used to handle message requests.
+    - Horizontally
+    - Messages can be delivered out of order because different messages can be used to handle message requests.
 - Caching
 - Database
-  - storing logs
-  - analytics data
-  - history
+    - storing logs
+    - analytics data
+    - history
 - Database replication
 - Database sharding
 - Queuing
-  - Messages Queue
+    - Messages Queue
 - Security
-  - End to end encryption
+    - End to end encryption
 - How to monetize the application
-  - sell stickers, emojis
-  - permium services
+    - sell stickers, emojis
+    - permium services
 
 ## Two Types of Chatting
 

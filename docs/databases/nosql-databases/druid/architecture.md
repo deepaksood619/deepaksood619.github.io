@@ -26,9 +26,9 @@ Broker processes receive queries from external clients and forward those queries
 
 - Broker process is responsible for knowing the internal state of the cluster (from the ZooKeeper)
 - The broker finds out information from ZooKeeper about the Druid cluster
-  - Which Historical processes are serving which segments
-  - Which MiddleManager processes are serving which tasks' data
-  - When a query is run, the Broker will figure out which process to contact
+    - Which Historical processes are serving which segments
+    - Which MiddleManager processes are serving which tasks' data
+    - When a query is run, the Broker will figure out which process to contact
 
 ### [Coordinator](http://druid.io/docs/latest/design/coordinator.html)
 
@@ -36,8 +36,8 @@ Coordinator processes watch over the Historical processes. They are responsible 
 
 - Segment management and distribution
 - It communicates with the Historical nodes to:
-  - **Load -** Copy a segment from deep storage and start serving it
-  - **Drop -** Delete a segment from its local copy and stop serving it
+    - **Load -** Copy a segment from deep storage and start serving it
+    - **Drop -** Delete a segment from its local copy and stop serving it
 
 ### [Overlord](http://druid.io/docs/latest/design/overlord.html)
 

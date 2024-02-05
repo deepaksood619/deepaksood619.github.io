@@ -105,6 +105,84 @@ https://github.com/krallistic/kafka-operator
 
 https://github.com/coreos/prometheus-operator/tree/master/contrib/kube-prometheus
 
+## Questions
+
+### Why use Operators in Kubernetes?
+
+Operators automate the management of complex applications by encoding operational knowledge into software, ensuring consistency, repeatability, and scalability in application deployment and management.
+
+### Explain the role of a Custom Resource (CR) in the context of Kubernetes Operators
+
+A Custom Resource is an extension of the Kubernetes API that allows you to define custom objects and their behavior. Operators use Custom Resources to define and manage applications.
+
+### How does an Operator differ from a Controller in Kubernetes?
+
+While both Operators and Controllers extend the Kubernetes API, Operators go beyond basic control loops by automating the management of complex applications. Operators encapsulate domain-specific operational knowledge.
+
+### What is the purpose of the Operator SDK in Kubernetes?
+
+The Operator SDK is a toolkit that helps developers build, test, and package Kubernetes Operators. It provides tools and libraries to simplify the process of creating and maintaining Operators.
+
+### Can you explain the reconcile loop in the context of Kubernetes Operators?
+
+The reconcile loop is a continuous process within an Operator that observes the current state of the system, compares it with the desired state, and takes actions to make the actual state match the desired state.
+
+### How does an Operator handle upgrades or updates to applications?
+
+Operators can include logic to handle upgrades or updates by defining how the changes should be applied to the application instances. This can involve rolling updates, canary releases, etc.
+
+### What are Helm Charts, and how are they related to Kubernetes Operators?
+
+Helm Charts are a package manager for Kubernetes applications. While Helm is a popular tool for packaging, releasing, and managing Kubernetes applications, Operators provide a more sophisticated way to manage application lifecycle and state.
+
+### Explain the concept of Day 2 Operations in the context of Kubernetes Operators
+
+Day 2 Operations refer to the ongoing tasks required to maintain and manage an application in production. Kubernetes Operators automate many Day 2 Operations, such as scaling, backup, and monitoring.
+
+### How does an Operator handle application failures or crashes?
+
+Operators can be designed to handle application failures by implementing strategies like automatic restarts, rolling updates, or triggering alerts for human intervention.
+
+### What is the role of the Operand in the Operator pattern?
+
+The Operand is the instance of a workload created by the Operator. It represents the concrete application instance that the Operator manages.
+
+### Explain the concept of "reified intent" in the context of Operators
+
+Reified intent means capturing and encoding the operational knowledge and best practices of managing an application in the Operator. It allows the Operator to automate actions based on this encoded knowledge.
+
+### How do you scale an application managed by an Operator?
+
+Operators can implement scaling logic in their reconcile loop, monitoring the application's metrics and adjusting the number of replicas or resources accordingly.
+
+### What is the purpose of the Finalizer in Kubernetes Operators?
+
+Finalizers are used to implement pre-delete and post-delete hooks in Kubernetes resources. Operators use Finalizers to perform cleanup operations before deleting an instance of the application.
+
+### Explain the concept of CRD (Custom Resource Definition) in the context of Operators
+
+A CRD defines custom resources and their schema in Kubernetes. It allows Operators to introduce custom objects, extending the Kubernetes API to represent and manage application-specific resources.
+
+### How can you handle secrets or sensitive data in a Kubernetes Operator?
+
+Operators can use Kubernetes Secrets to handle sensitive data. They can be mounted as volumes or passed as environment variables to the application containers.
+
+### What is the purpose of the Event-driven model in Kubernetes Operators?
+
+The event-driven model allows Operators to react to changes in the cluster, triggering reconciliation loops in response to events like a new Custom Resource being created or a Pod crashing.
+
+### How does an Operator handle idempotency in its operations?
+
+Operators should be designed to be idempotent, meaning that applying the same operation multiple times has the same result as applying it once. This ensures consistency and reliability in the management of applications.
+
+### Explain the concept of Operator Composition in Kubernetes
+
+Operator Composition refers to the practice of combining multiple Operators to manage a more complex application stack. Each Operator focuses on a specific aspect of the application, promoting modular and reusable designs.
+
+### What are the challenges or considerations when developing a multi-cluster Kubernetes Operator?
+
+Challenges may include dealing with cluster heterogeneity, handling cross-cluster communication, ensuring consistent behavior across clusters, and addressing security concerns related to multi-cluster deployments.
+
 ## References
 
 - https://github.com/operator-framework

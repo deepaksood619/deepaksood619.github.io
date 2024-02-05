@@ -31,13 +31,13 @@ Bulls make money, bears make money, but pigs get slaughtered.
 
 - Screener.in
 - Zerodha
-  - kite.zerodha.com
-  - coin.zerodha.com
-  - console.zerodha.com
-  - streak.zerodha.com
-    - [Streak | Create, backtest and deploy trading strategies](https://www.streak.tech/SystematicTrading)
-    - [Time Series Forecast (TSF): All you need to Know - Streak Tech](https://blog.streak.tech/time-series-forecast-tsf-all-you-need-to-know/)
-  - [technicals.zerodha.com](https://technicals.zerodha.com/dashboard)
+    - kite.zerodha.com
+    - coin.zerodha.com
+    - console.zerodha.com
+    - streak.zerodha.com
+        - [Streak | Create, backtest and deploy trading strategies](https://www.streak.tech/SystematicTrading)
+        - [Time Series Forecast (TSF): All you need to Know - Streak Tech](https://blog.streak.tech/time-series-forecast-tsf-all-you-need-to-know/)
+    - [technicals.zerodha.com](https://technicals.zerodha.com/dashboard)
 
 - MoneyControl
 - iqoption
@@ -373,22 +373,22 @@ https://en.wikipedia.org/wiki/Global_depository_receipt
 ## Orders
 
 - **Product types**
-  - CNC (Cash n Carry)
-  - MIS (Margin Intraday Squareoff)
-  - NRML (Normal F&O trades)
+    - CNC (Cash n Carry)
+    - MIS (Margin Intraday Squareoff)
+    - NRML (Normal F&O trades)
 - **Order types**
-  - Limit (LMT) order
-  - Market (MKT) order
-  - Stoploss or trigger orders (SL and SL-M)
-  - Good till triggered (GTT)
-    - Single trigger
-    - OCO (One Cancels the Other) trigger
-  - Basket orders
+    - Limit (LMT) order
+    - Market (MKT) order
+    - Stoploss or trigger orders (SL and SL-M)
+    - Good till triggered (GTT)
+        - Single trigger
+        - OCO (One Cancels the Other) trigger
+    - Basket orders
 - **Advanced order types**
-  - Regular orders with time validity
-  - Cover orders
-  - Cover order with limit entry
-  - AMO (After market orders)
+    - Regular orders with time validity
+    - Cover orders
+    - Cover order with limit entry
+    - AMO (After market orders)
 
 https://kite.trade/docs/kite/orders
 

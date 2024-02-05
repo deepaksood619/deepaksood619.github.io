@@ -26,11 +26,11 @@ https://www.investopedia.com/terms/d/defaultrisk.asp
 - Default rates are an important statistical measure used by economists to assess the overall health of the economy.
 - A default record stays on the consumer's credit report for six years, even if the amount is eventually paid.
 - [Indexes from S&P/Experian](https://us.spindices.com/index-family/specialty/consumer-credit-default) include the following:
-  - The S&P/Experian Consumer Credit Default Composite Index
-  - The S&P/Experian First Mortgage Default Index
-  - The S&P/Experian Second Mortgage Default Index
-  - The S&P/Experian Auto Default Index
-  - The S&P/Experian Bankcard Default Index
+    - The S&P/Experian Consumer Credit Default Composite Index
+    - The S&P/Experian First Mortgage Default Index
+    - The S&P/Experian Second Mortgage Default Index
+    - The S&P/Experian Auto Default Index
+    - The S&P/Experian Bankcard Default Index
 - Bank credit cards tend to have the highest default rate
 
 ## Delinquency Rate

@@ -64,8 +64,8 @@ Hash joins are more efficient for large tables, while merge joins are better for
 - Generally perform better than sort merge joins
 - Use a hash table to join equi joins
 - Can cause an overflow condition in the hash table if:
-  - The hash index is greater than the main memory
-  - There are multiple tuples with the same join attribute values
+    - The hash index is greater than the main memory
+    - There are multiple tuples with the same join attribute values
 
 #### Merge joins
 

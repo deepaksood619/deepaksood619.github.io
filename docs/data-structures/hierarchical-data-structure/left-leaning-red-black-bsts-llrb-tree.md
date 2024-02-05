@@ -52,8 +52,8 @@
 ![image](../../media/Left-Leaning-Red-Black-BSTs-(LLRB-tree)-image11.jpg)
 
 - Insert into a 2-node at the bottom
-  - Do standard BST insert; color new link red
-  - If new red link is a right link, rotate left
+    - Do standard BST insert; color new link red
+    - If new red link is a right link, rotate left
 
 ![image](../../media/Left-Leaning-Red-Black-BSTs-(LLRB-tree)-image12.jpg)
 
@@ -62,11 +62,11 @@
 ![image](../../media/Left-Leaning-Red-Black-BSTs-(LLRB-tree)-image13.jpg)
 
 - Insert into a 3-node at the bottom
-  - Do standard BST insert; color new link red
-  - Rotate to balance the 4-node
-  - Flip colors to pass red link up one level
-  - Rotate to make lean left
-  - Repeat case 1 or case 2 up the tree
+    - Do standard BST insert; color new link red
+    - Rotate to balance the 4-node
+    - Flip colors to pass red link up one level
+    - Rotate to make lean left
+    - Repeat case 1 or case 2 up the tree
 
 ![image](../../media/Left-Leaning-Red-Black-BSTs-(LLRB-tree)-image14.jpg)
 

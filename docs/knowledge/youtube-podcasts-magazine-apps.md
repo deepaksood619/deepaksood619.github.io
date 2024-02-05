@@ -156,6 +156,7 @@
 - [Modern MBA - YouTube](https://www.youtube.com/@ModernMBA)
 - Think school
 - [Masters' Union - YouTube](https://www.youtube.com/@MastersUnion)
+- [The Art of Business - YouTube](https://www.youtube.com/@theartofbiz)
 
 ## People
 
@@ -217,6 +218,7 @@
 - Discovery+
 - NatGeo
 - Nebula - The logistics of x
+- [Banijay Science - YouTube](https://www.youtube.com/@banijayscience)
 
 ## General Science
 

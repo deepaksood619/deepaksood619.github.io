@@ -59,18 +59,18 @@ https://developers.google.com/protocol-buffers
 - Name of the message: UpperCamelCase
 - Name of the field: lower_snake_case
 - Some scalar-value data types:
-  - string, bool, bytes
-  - float, double
-  - int32, int64, uint32, uint64, sint32, sint64, etc.
+    - string, bool, bytes
+    - float, double
+    - int32, int64, uint32, uint64, sint32, sint64, etc.
 - Data types can be user-defined enums or other messages
 - Tags are more important than field names
-  - Is an arbitrary integer
-    - From 1 to 536,870,911 (or 2^29-1)
-    - Except from 19000 to 19999 (reserved)
-  - From 1 to 15 take 1 byte
-  - From 16 to 2047 take 2 bytes
-  - Don't need to be in-order or sequential
-  - Must be unique for same-level fields
+    - Is an arbitrary integer
+        - From 1 to 536,870,911 (or 2^29-1)
+        - Except from 19000 to 19999 (reserved)
+    - From 1 to 15 take 1 byte
+    - From 16 to 2047 take 2 bytes
+    - Don't need to be in-order or sequential
+    - Must be unique for same-level fields
 
 ## Others
 

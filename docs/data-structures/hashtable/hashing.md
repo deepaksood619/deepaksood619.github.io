@@ -24,14 +24,14 @@ https://www.akamai.com/es/es/multimedia/documents/technical-publication/consiste
 - **Object representation:** Several dynamic languages, such as Perl, Python, JavaScript, and Ruby use hash tables to implement objects.
 - Hash Functions are used in various algorithms to make their computing faster
 - De-Duplication
-  - Remove duplicates
-    - Report unique visitors to web site
-    - avoid duplicates in search results
-    - Do not crawl same page twice
+    - Remove duplicates
+        - Report unique visitors to web site
+        - avoid duplicates in search results
+        - Do not crawl same page twice
 - Symbol tables in compilers
 - Blocking network traffic
 - Search algorithms (e.g. game tree exploration)
-  - use hash table to avoid exploring any configuration (e.g. arrangement of chess pieces) more than once
+    - use hash table to avoid exploring any configuration (e.g. arrangement of chess pieces) more than once
 
 ## How to choose n = # of buckets (When using modulus to hash values to buckets)
 
@@ -74,11 +74,11 @@ A hash function that maps each item into a unique slot is referred to as a perfe
 - **Identity Hash Function**
 - **Trivial Hash Function**
 - **Folding Method**
-  - The folding method for constructing the hash functions begins by dividing the item into equal-size pieces (the last piece may not be of equal size)
-  - These pieces are then added together to give the resulting hash value.- **Mid-square method**
-  - We first square the item, and then extract some portion of the resulting digits.
-  - For example, if the item were 44, we would first compute 44^2^ = 1936
-  - By extracting the middle two digits, 93, and performing the remainder step, we get 93 % 11 = 5- **Division hashing**
+    - The folding method for constructing the hash functions begins by dividing the item into equal-size pieces (the last piece may not be of equal size)
+    - These pieces are then added together to give the resulting hash value.- **Mid-square method**
+    - We first square the item, and then extract some portion of the resulting digits.
+    - For example, if the item were 44, we would first compute 44^2^ = 1936
+    - By extracting the middle two digits, 93, and performing the remainder step, we get 93 % 11 = 5- **Division hashing**
 - **Algebraic coding**
 - **Unique permuatation hashing**
 - **Multiplicative hashing**

@@ -166,18 +166,18 @@ Dynamic typing - Arguments and return values of functions can be any type
 - When you should use static typing
 - When you shouldn't use static typing
 - Migrating
-  - Migrate to Python >= 3.6
-  - Install a typechecker locally
-  - Start optionally typing your codebase
-  - Run a typechecker with your linting
-  - Convince all your coworkers to join you
+    - Migrate to Python >= 3.6
+    - Install a typechecker locally
+    - Start optionally typing your codebase
+    - Run a typechecker with your linting
+    - Convince all your coworkers to join you
 
 Type Checkers
 
 - Static
-  - mypy (Dropbox)
-  - pytype (Google)
-  - pyre (Facebook)
-  - pyright (Microsoft)
+    - mypy (Dropbox)
+    - pytype (Google)
+    - pyre (Facebook)
+    - pyright (Microsoft)
 - Dynamic
-  - enforce, typeguard, typo, ducktype, strictconf, etc
+    - enforce, typeguard, typo, ducktype, strictconf, etc

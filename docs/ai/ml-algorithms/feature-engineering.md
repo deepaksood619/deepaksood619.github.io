@@ -2,20 +2,20 @@
 
 - Scale to large datasets
 - Find good features
-  - Synthetic features
+    - Synthetic features
 - Preprocess with Cloud MLE
 - Hyperparameter tuning
 
 ## Good vs Bad features
 
 - **Good Feature**
-  - Be related to objective
-  - Be known at prediction-time
-  - Be numeric with meaningful magnitude
-    - Numeric features
-    - Able to do mathematical operations
-  - Have enough examples
-  - Bring human insight to problem
+    - Be related to objective
+    - Be known at prediction-time
+    - Be numeric with meaningful magnitude
+        - Numeric features
+        - Able to do mathematical operations
+    - Have enough examples
+    - Bring human insight to problem
 
 ![image](../../media/Feature-Engineering-image1.jpg)
 

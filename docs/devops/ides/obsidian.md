@@ -10,9 +10,9 @@ Extensions that helps make obsidian better
 - Outliners (Outlines like Roam Research)
 - DataView - [How to use the Obsidian Dataview plugin](https://www.youtube.com/watch?v=JTObSymEvWA)
 - Kanban
-  - [GitHub - mgmeyers/obsidian-kanban: Create markdown-backed Kanban boards in Obsidian.](https://github.com/mgmeyers/obsidian-kanban)
-  - [Obsidian Kanban Plugin - Obsidian Kanban Plugin - Obsidian Publish](https://publish.obsidian.md/kanban)
-  - [Set a WIP Limit - Obsidian Kanban Plugin - Obsidian Publish](https://publish.obsidian.md/kanban/How+do+I/Set+a+WIP+Limit)
+    - [GitHub - mgmeyers/obsidian-kanban: Create markdown-backed Kanban boards in Obsidian.](https://github.com/mgmeyers/obsidian-kanban)
+    - [Obsidian Kanban Plugin - Obsidian Kanban Plugin - Obsidian Publish](https://publish.obsidian.md/kanban)
+    - [Set a WIP Limit - Obsidian Kanban Plugin - Obsidian Publish](https://publish.obsidian.md/kanban/How+do+I/Set+a+WIP+Limit)
 - Calendar
 - Outliner
 - Obsidian Git
@@ -151,9 +151,9 @@ Extensions that helps make obsidian better
 - **https://github.com/codebushi/gatsby-theme-document - 124**
 - https://github.com/theowenyoung/gatsby-theme-primer-wiki - 73
 - https://github.com/theowenyoung/obsidian-template-gatsby-theme-primer-wiki
-  - https://thomassajot.github.io/brain-dam
-  - https://demo-gatsby-starter-primer-wiki.owenyoung.com
-  - https://demo-obsidian.owenyoung.com/
+    - https://thomassajot.github.io/brain-dam
+    - https://demo-gatsby-starter-primer-wiki.owenyoung.com
+    - https://demo-obsidian.owenyoung.com/
 - https://github.com/flowershow/flowershow - 156
 - https://forum.obsidian/t/obsidian-mkdocs-a-free-publish-alternative-workflow/29540
 - https://forum.obsidian/t/pubsidian-free-and-elegant-obsidian-publish-alternative/21825

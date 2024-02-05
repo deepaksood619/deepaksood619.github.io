@@ -19,11 +19,11 @@ Many applications require that we process items having keys in order, but not ne
 ## Applications
 
 - Event-driven simulation (customers in a line)
-  - Simulate the motion of N moving particles that behave according to the laws of elastic collision.
-  - Collision prediction
-  - Resolution to calculate velocity
-  - Particle-wall collision
-  - Particle-particle collision
+    - Simulate the motion of N moving particles that behave according to the laws of elastic collision.
+    - Collision prediction
+    - Resolution to calculate velocity
+    - Particle-wall collision
+    - Particle-particle collision
 - Numerical computation (reducing roundoff error)
 - Data compression (Huffman codes)
 - Graph searching (Dijkstra's algorithm, Prim's algorithm)

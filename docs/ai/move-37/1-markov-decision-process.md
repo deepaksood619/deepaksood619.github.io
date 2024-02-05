@@ -97,7 +97,7 @@ In addition to the state value-function, for convenience RL algorithms introduce
 
 ![image](../../media/1.-Markov-Decision-Process-image5.jpg)
 
-The optimal Q-function**Q*(s, a)**means the expected total reward recieved by an agent starting in **s** and picks action **a**, then will behave optimally afterwards.There, **Q*(s, a)**is an indication for how good it is for an agent to pick action a while being in state s.
+The optimal Q-function**Q*(s, a)**means the expected total reward recieved by an agent starting in **s** and picks action **a**, then will behave optimally afterwards.There,**Q*(s, a)**is an indication for how good it is for an agent to pick action a while being in state s.
 
 ## Value-Iteration vs Policy-Iteration
 

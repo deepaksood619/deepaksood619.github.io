@@ -26,7 +26,7 @@ https://lotusarise.com/koppen-climate-classification-system-upsc
 
 - Indian Ocean Dipole
 - ENSO (El Nino, Southern Oscillation)
-  - Thermocline
+    - Thermocline
 - Subtropical high, Subpolar low, Easterlies, Westerlies
 - Hadley Cell
 

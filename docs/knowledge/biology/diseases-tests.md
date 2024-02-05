@@ -107,10 +107,10 @@ It can be prevented in babies before birth
 ![image](../../media/Diseases-Tests-image1.jpg)
 
 - fasting lipid profile test (full lipid profile or lipoprotein analysis) - every 5 years
-  - total cholestral
-  - LDL
-  - HDL
-  - Triglyceride
+    - total cholestral
+    - LDL
+    - HDL
+    - Triglyceride
 
 ![image](../../media/Diseases-Tests-image2.jpg)
 
@@ -143,15 +143,15 @@ An eating disorder characterized by markedly reduced appetite or total aversion 
 - You may also have a general feeling of ill health, fatigue, or a fever, which is reason to call a doctor.
 - Most boils are caused by **staph bacteria (Staphylococcus aureus)**. When a scrape, cut, or splinter breaks the skin, the bacteria can enter a hair follicle and start an infection.
 - Not exactly, but the germs that cause boils (staph) are easily spread through skin-to-skin contact and contaminated objects. These bacteria usually do no harm unless they find a break in the skin. To avoid spreading staph, don't share towels, bedding, clothes, or sports gear while you have a boil. Avoid touching the boil, and keep it covered. Frequent hand washing can also help prevent spreading the bacteria.
-  - Since bacteria are everywhere in our environments and on many people's skin, the best defense against boils includes:
-    - Hand washing or use of alcohol-based hand sanitizer
-    - Careful cleaning of cuts, scrapes, and other wounds
-    - Keeping wounds covered
-    - Not sharing towels, sheets, razors, etc.
-  - Wash towels, sheets, and anything else in contact with an infected area in very hot water. Throw away any wound dressings in a tightly sealed bag.
-  -
+    - Since bacteria are everywhere in our environments and on many people's skin, the best defense against boils includes:
+        - Hand washing or use of alcohol-based hand sanitizer
+        - Careful cleaning of cuts, scrapes, and other wounds
+        - Keeping wounds covered
+        - Not sharing towels, sheets, razors, etc.
+    - Wash towels, sheets, and anything else in contact with an infected area in very hot water. Throw away any wound dressings in a tightly sealed bag.
+    -
 - **Types of Boil**
-  - **Carbuncle**
+    - **Carbuncle**
 
 When several boils form close together and join beneath the skin, it's called a carbuncle. They are most commonly found on the back and the neck but can develop anywhere. Men are more likely to develop carbuncles than women. A carbuncle tends to lie deeper beneath the skin than a boil and can take longer to heal.
 
@@ -163,17 +163,17 @@ When several boils form close together and join beneath the skin, it's called a 
 - Stye
 
 - Anyone can develop a boil. The risk increases with:
-  - Close contact with an infected person
-  - Acne, eczema, or other causes of breaks in the skin
-  - Diabetes
-  - A weakened immune system
-  - Poor [nutrition](http://www.medicinenet.com/script/main/art.asp?articlekey=10192)
-  - Poor hygiene
-  - Exposure to harsh chemicals that irritate the skin
+    - Close contact with an infected person
+    - Acne, eczema, or other causes of breaks in the skin
+    - Diabetes
+    - A weakened immune system
+    - Poor [nutrition](http://www.medicinenet.com/script/main/art.asp?articlekey=10192)
+    - Poor hygiene
+    - Exposure to harsh chemicals that irritate the skin
 
 - **Treatment**
-  - Apply warm, moist compresses several times a day to help a boil open and drain. After it starts draining, keep it clean, and continue using warm compresses -- a clean one every time. Change the bandage often and wash hands well. Resist the urge to squeeze or pop the boil. This can make the infection worse.
-  - When the boil starts draining, wash it with an antibacterial soap until all the pus is gone and clean with rubbing alcohol. Apply a medicated ointment (topical antibiotic) and a bandage. Continue to wash the infected area two to three times a day and to use warm compresses until the wound heals.
+    - Apply warm, moist compresses several times a day to help a boil open and drain. After it starts draining, keep it clean, and continue using warm compresses -- a clean one every time. Change the bandage often and wash hands well. Resist the urge to squeeze or pop the boil. This can make the infection worse.
+    - When the boil starts draining, wash it with an antibacterial soap until all the pus is gone and clean with rubbing alcohol. Apply a medicated ointment (topical antibiotic) and a bandage. Continue to wash the infected area two to three times a day and to use warm compresses until the wound heals.
 
 - Warm compresses may promote the drainage and healing of carbuncles. Gently soak the carbuncle in warm water, or apply a clean, warm, moist washcloth for 20 minutes several times per day. Similar strategies include covering the carbuncle with a clean, dry cloth and gently applying a heating pad or hot water bottle for 20 minutes several times per day. After each use, washcloths or cloths should be washed in hot water and dried at a high temperature.
 - Washing the carbuncle and covering the area with a sterile bandage also may promote drainage and healing and help prevent the infection from spreading. Over-the-counter [medications](https://www.webmd.com/drugs/index-drugs.aspx) such as [acetaminophen](https://www.webmd.com/drugs/2/drug-362/acetaminophen+oral/details) or [ibuprofen](https://www.webmd.com/drugs/mono-9368-IBUPROFEN+-+ORAL.aspx?drugid=5166&drugname=ibuprofen+oral) can help relieve the pain of an inflamed carbuncle.
@@ -194,7 +194,7 @@ If a boil doesn't heal after a week of home care, call your doctor. Other reason
 - A second boil appears.
 
 - **Complications**
-  - Sometimes, carbuncles are caused by methicillin-resistantStaphylococcus aureus([MRSA](https://www.webmd.com/skin-problems-and-treatments/understanding-mrsa)) bacteria, and require treatment with potent prescription [antibiotics](https://www.webmd.com/cold-and-flu/rm-quiz-antibiotics-myths-facts) if the lesions are not drained properly.
+    - Sometimes, carbuncles are caused by methicillin-resistantStaphylococcus aureus([MRSA](https://www.webmd.com/skin-problems-and-treatments/understanding-mrsa)) bacteria, and require treatment with potent prescription [antibiotics](https://www.webmd.com/cold-and-flu/rm-quiz-antibiotics-myths-facts) if the lesions are not drained properly.
 
 ## Cold
 
@@ -240,7 +240,7 @@ Below are some ways you can feel better while your body fights off a cold:
 - Drink plenty of fluids.
 - Use a clean humidifier or cool mist vaporizer.
 - Use saline nasal spray or drops.
-  - For young children, use a rubber suction bulb to clear mucus.
+    - For young children, use a rubber suction bulb to clear mucus.
 - Breathe in steam from a bowl of hot water or shower.
 - Suck on lozenges. Do not give lozenges to children younger than 4 years of age.
 - Use honey to relieve cough for adults and children at least 1 year of age or older.

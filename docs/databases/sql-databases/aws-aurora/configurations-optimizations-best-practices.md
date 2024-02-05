@@ -152,11 +152,11 @@ Query cache is generally considered with low connections, similar type of querie
     - Guarded by a single mutext
 
 - Most workloads is best left with the Query Cache disabled:
-  - query_cache_type = 0
+    - query_cache_type = 0
 - If you think your workload benefits from the Query Cache, test it
-  - The more writes, the less benefit
-  - The more data fitting into the buffer pool, the less benefit
-  - The more complex queries and the larger scans, the more benefit
+    - The more writes, the less benefit
+    - The more data fitting into the buffer pool, the less benefit
+    - The more complex queries and the larger scans, the more benefit
 - Often other caching solutions are a better option
 
 ### Removed in MySQL 8.0

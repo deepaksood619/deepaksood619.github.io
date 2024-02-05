@@ -76,7 +76,7 @@ Android Studio 3.3 includes the Navigation Editor, which visuals your navigation
 - Deep linking, including proper backstack generation
 - Implementing common patterns like navigation drawers and bottom nav with little additional work using the Navigation UI library → [http://bit.ly/2EWYtoV](https://www.youtube.com/redirect?v=Y0Cs2MQxyIs&event=video_description&redir_token=QUFFLUhqblFuYS12eFFKQkxBYmhTSDQxbXpvZVdxWWlRd3xBQ3Jtc0ttd0VSRXpvRkV1YTh0S0VaNk1Xd1dRcC1CQktZeGlfaVZjWG9xRDFldGV5aThTMWU2TWJfcThhMTNyWVBRdm8zTjh0eVdvVlA3NnNoTmViWHlaS0VJaUxtWWJiNTM1Sk4xMjJvVnhzTjNDRV83UTREWQ%3D%3D&q=http%3A%2F%2Fbit.ly%2F2EWYtoV)
 - Type safety when passing information while navigating using the Safe Args plugin → [http://bit.ly/2VR7kPM](https://www.youtube.com/redirect?v=Y0Cs2MQxyIs&event=video_description&redir_token=QUFFLUhqblZWaDZaZjRYRTVDbk9yZElZSkFUb0RURmVld3xBQ3Jtc0ttdzJUNkZjUjZ6OXpyYWJkcmIwQ0JybVRpWXNUdWtUSDNKU1IxY1R1TlA4N1h5WTBjVm0wMklQYmM4VlB3TDgxenN0dVVNZDh2NTJlOTZaclVxWHptRWRQeXBlckVQejZTLTlCLW9oVkc0NDFLU1ctSQ%3D%3D&q=http%3A%2F%2Fbit.ly%2F2VR7kPM)
-  - Safe Args Plugin
+    - Safe Args Plugin
 
 Generates classes based off of your navigation graph to ensure type-safe access to arguments for destinations and actions
 

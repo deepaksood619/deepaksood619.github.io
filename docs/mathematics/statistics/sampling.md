@@ -1,12 +1,12 @@
 # Sampling
 
 - Sampling is the main technique employed for data selection
-  - It is often used for both the preliminary investigation of the data and the final data analysis
+    - It is often used for both the preliminary investigation of the data and the final data analysis
 - Statisticians samples because obtaining the entire set of data of interest is too expensive or time consuming
 - Sampling is used in data mining because processing the entire set of data of interest is too expensive or time consuming
 - The key principle for effective sampling is the following:
-  - Using a sample will work almost as well as using the entire data sets, if the sample is representative
-  - A sample is representative if it has approximately the same property (of interest) as the original set of data
+    - Using a sample will work almost as well as using the entire data sets, if the sample is representative
+    - A sample is representative if it has approximately the same property (of interest) as the original set of data
 
 ## Probability vs non-probability sampling
 
@@ -15,16 +15,16 @@ In a probability-based sample, the observations/subjects are picked at random. I
 ## Types of Sampling
 
 - **Simple random sampling**
-  - There is an equal probability of selecting any particular item
+    - There is an equal probability of selecting any particular item
 - **Samling without replacement**
-  - As each item is selected, it is removed from the population
+    - As each item is selected, it is removed from the population
 - **Sampling with replacement**
-  - Objects are not removed from the population as they are selected for the sample
-    - In sampling with replacement, the same objects can be picked up more than once
+    - Objects are not removed from the population as they are selected for the sample
+        - In sampling with replacement, the same objects can be picked up more than once
 - **Stratified sampling**
-  - Split the data into several partitions; then draw random samples from each paritition
+    - Split the data into several partitions; then draw random samples from each paritition
 - **Cluster Random**
-  - You break the population into groups, and then randomly select some of these groups and collect data on each group member
+    - You break the population into groups, and then randomly select some of these groups and collect data on each group member
 Data sampling is a [statistical analysis](https://whatis.techtarget.com/definition/statistical-analysis) technique used to select, manipulate and analyze a representative subset of data points to identify patterns and trends in the larger [data set](https://whatis.techtarget.com/definition/data-set) being examined. It enables [data scientists](https://searchenterpriseai.techtarget.com/definition/data-scientist), predictive modelers and other data analysts to work with a small, manageable amount of data about a statistical [population](https://whatis.techtarget.com/definition/population) to build and run analytical models more quickly, while still producing accurate findings.
 
 ## Advantages and challenges of data sampling
@@ -59,10 +59,10 @@ Once generated, a sample can be used for [predictive analytics](https://searchbu
 ## Sampling Sins
 
 - Bias: The sample has to be representative of the population. If the sampling method creates bias, the results from the sample cannot be extrapolated to the population
-  - Exclusion: Some parts of the population may not even make into the sampling universe
-  - Self-selection: Some parts of the population may be more easily accessible than other parts, given how you collect data
-  - Non-response: Some parts of the population may be less likely to respond to requests for data
-  - Survivorship: Success (of failure, sometimes) may make an observation more likely to be sampled
+    - Exclusion: Some parts of the population may not even make into the sampling universe
+    - Self-selection: Some parts of the population may be more easily accessible than other parts, given how you collect data
+    - Non-response: Some parts of the population may be less likely to respond to requests for data
+    - Survivorship: Success (of failure, sometimes) may make an observation more likely to be sampled
 - Noise: Even if the sample is representative, the results that you obtain will have statistical error or noise that can muddy your conclusions.
 
 ## Why do we need sampling?
@@ -76,12 +76,12 @@ Once generated, a sample can be used for [predictive analytics](https://searchbu
 ## Independence + Identical Distributions (ID) (IID)
 
 - In almost any discussion of sampling and statistics, the words independence and identical distributions thrown in as pre-requisites or at least good qualities in a sample
-  - Independence: Events are independent when whether an event occurs or not is not determined by other events occuring
-    - Coin tosses are a classic example of independence
-    - Are stock price changes independent
-  - Identical Distributions: Each event draws from the same probability distribution
-    - Coin tosses draw from the same distribution
-    - Do stock price changes draw from the same distribution
+    - Independence: Events are independent when whether an event occurs or not is not determined by other events occuring
+        - Coin tosses are a classic example of independence
+        - Are stock price changes independent
+    - Identical Distributions: Each event draws from the same probability distribution
+        - Coin tosses draw from the same distribution
+        - Do stock price changes draw from the same distribution
 - In finance, researchers often assume independence and identical distributions, in making assertions based upon samples, but the truth is that both characteristics are hard to find
 
 ## Stratified Random Sampling

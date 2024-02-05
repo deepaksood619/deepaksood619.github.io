@@ -43,7 +43,7 @@ https://netflixtechblog.com/netflixs-viewing-data-how-we-know-where-you-are-in-h
 
 - Consistent Hashing
 - **1 hit wonder (don't cache any request till a threshold)**
-  - Maybe the request is only once/twice for a day
+    - Maybe the request is only once/twice for a day
 
 ### Streaming layer (Stream Manager)
 
@@ -65,7 +65,7 @@ https://netflixtechblog.com/netflixs-viewing-data-how-we-know-where-you-are-in-h
 - Search engine
 - Copywrite violation detection
 - Keyword based finding
-  - New analysis (share market)
+    - New analysis (share market)
 - Web malware detection
 - Web analytics
 - Data science data crawlers
@@ -77,13 +77,13 @@ https://netflixtechblog.com/netflixs-viewing-data-how-we-know-where-you-are-in-h
 - Distributed crawling
 - Priority crawling
 - Duplicate detection
-  - Bruteforce
-  - Hashing (MD5-SHA1)
-  - MinHash
-  - SimHash (Google uses this)
-  - Fuzzy search
-  - Latent semantic indexing
-  - Standard boolean model
+    - Bruteforce
+    - Hashing (MD5-SHA1)
+    - MinHash
+    - SimHash (Google uses this)
+    - Fuzzy search
+    - Latent semantic indexing
+    - Standard boolean model
 [System Design distributed web crawler to crawl Billions of web pages | web crawler system design](https://www.youtube.com/watch?v=BKZxZwUgL3Y)
 
 ## Financial System

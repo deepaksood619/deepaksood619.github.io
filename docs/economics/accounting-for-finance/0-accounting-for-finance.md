@@ -52,78 +52,78 @@ This is a course of short webcasts (about 12-20 minutes apiece), designed to int
 All Accounts
 
 - Application of Funds (Assets)
-  - Current Assets
-    - Accounts Receivable
-      - Debtors
-    - Bank Accounts
-    - Cash In Hand
-      - Cash
-    - Loans and Advances (Assets)
-    - Securities and Deposits
-      - Earnest Money
-    - Stock Assets
-      - Stock In Hand
-    - Tax Assets
-  - Fixed Assets
-    - Capital Equipments
-    - Electronic Equipments
-    - Furnitures and Fixtures
-    - Office Equipments
-    - Plants and Machineries
-    - Buildings
-    - Accumulated Depreciations
-  - Investments
-  - Temporary Accounts
-    - Temporary Opening
+    - Current Assets
+        - Accounts Receivable
+            - Debtors
+        - Bank Accounts
+        - Cash In Hand
+            - Cash
+        - Loans and Advances (Assets)
+        - Securities and Deposits
+            - Earnest Money
+        - Stock Assets
+            - Stock In Hand
+        - Tax Assets
+    - Fixed Assets
+        - Capital Equipments
+        - Electronic Equipments
+        - Furnitures and Fixtures
+        - Office Equipments
+        - Plants and Machineries
+        - Buildings
+        - Accumulated Depreciations
+    - Investments
+    - Temporary Accounts
+        - Temporary Opening
 - Expenses
-  - Direct Expenses
-    - Stock Expenses
-      - Cost of Goods Sold
-      - Expenses Included In Valuation
-      - Stock Adjustment
-  - Indirect Expenses
-    - Administrative Expenses
-    - Commission on Sales
-    - Depreciation
-    - Entertainment Expenses
-    - Freight and Forwarding Charges
-    - Legal Expenses
-    - Marketing Expenses
-    - Miscellaneous Expenses
-    - Office Maintenance Expenses
-    - Office Rent
-    - Postal Expenses
-    - Print and Stationary
-    - Rounded Off
-    - Salary
-    - Sales Expenses
-    - Telephone Expenses
-    - Travel Expenses
-    - Utility Expenses
-    - Write Off
-    - Exchange Gain/Loss
-    - Gain/Loss on Asset Disposal
+    - Direct Expenses
+        - Stock Expenses
+            - Cost of Goods Sold
+            - Expenses Included In Valuation
+            - Stock Adjustment
+    - Indirect Expenses
+        - Administrative Expenses
+        - Commission on Sales
+        - Depreciation
+        - Entertainment Expenses
+        - Freight and Forwarding Charges
+        - Legal Expenses
+        - Marketing Expenses
+        - Miscellaneous Expenses
+        - Office Maintenance Expenses
+        - Office Rent
+        - Postal Expenses
+        - Print and Stationary
+        - Rounded Off
+        - Salary
+        - Sales Expenses
+        - Telephone Expenses
+        - Travel Expenses
+        - Utility Expenses
+        - Write Off
+        - Exchange Gain/Loss
+        - Gain/Loss on Asset Disposal
 - Income
-  - Direct Income
-    - Sales
-    - Service
-  - Indirect Income
+    - Direct Income
+        - Sales
+        - Service
+    - Indirect Income
 - Source of Funds (Liabilities)
-  - Capital Account
-    - Reserves and Surplus
-    - Shareholders Funds
-  - Current Liabilities
-    - Accounts Payable
-      - Creditors
-      - Payroll Payable
-    - Stock Liabilities
-      - Stock Received But Not Billed
-    - Duties and Taxes
-      - TDS
-    - Loans (Liabilities)
-      - Secured Loans
-      - Unsecured Loans
-      - Bank Overdraft Account
+    - Capital Account
+        - Reserves and Surplus
+        - Shareholders Funds
+    - Current Liabilities
+        - Accounts Payable
+            - Creditors
+            - Payroll Payable
+        - Stock Liabilities
+            - Stock Received But Not Billed
+        - Duties and Taxes
+            - TDS
+        - Loans (Liabilities)
+            - Secured Loans
+            - Unsecured Loans
+            - Bank Overdraft Account
 
 ## Cheatsheet
 

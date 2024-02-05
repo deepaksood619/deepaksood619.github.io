@@ -44,10 +44,10 @@ The Kafka data model consists of messages and topics
 ## Partitions
 
 - Topics are divided into partitions, which are the unit of parallelism in Kafka
-  - Partitions allow messages in a topic to be distributed to multiple servers
-  - A topic can have any number of partitions
-  - Each partition should fit in a single Kafka server
-  - The number of partitions decide the parallelism of the topic
+    - Partitions allow messages in a topic to be distributed to multiple servers
+    - A topic can have any number of partitions
+    - Each partition should fit in a single Kafka server
+    - The number of partitions decide the parallelism of the topic
 
 ## Partiton distribution
 
@@ -91,13 +91,13 @@ Kafka consists of brokers that take messages from the producers and add to a par
 
 - Kafka architecture supports the publish-subscribe and queue system
 - Publish-subscribe system
-  - Each message is received by all the subscribers
-  - Each subscriber receives all the messages
-  - Messages are received in the same order that they are produced
+    - Each message is received by all the subscribers
+    - Each subscriber receives all the messages
+    - Messages are received in the same order that they are produced
 - Queue system
-  - Each message has to be consumed by only one consumer
-  - Each message is consumed by any one of the available consumers
-  - Messages are consumed in the same order that they are received
+    - Each message has to be consumed by only one consumer
+    - Each message is consumed by any one of the available consumers
+    - Messages are consumed in the same order that they are received
 
 ![image](../../media/Technologies-Kafka-Intro-to-Kafka-image1.jpg)
 

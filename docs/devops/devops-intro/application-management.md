@@ -132,8 +132,8 @@ Key functions of an application manager include:
 
 - Identifying business opportunities for new applications by analyzing workflows and determining where efficiencies can be gained
 - Determine whether new application capabilities should be purchased, subscribed to via SaaS, or developed in-house
-  - If software is purchased, application manager oversees acquisition of infrastructure, installation, configuration, and application lifecycle
-  - If developed in-house, application manager collaborates with development, DevSecOps, and business units to ensure application meets the defined needs and user interface requirements
+    - If software is purchased, application manager oversees acquisition of infrastructure, installation, configuration, and application lifecycle
+    - If developed in-house, application manager collaborates with development, DevSecOps, and business units to ensure application meets the defined needs and user interface requirements
 - In either case, application managers lead the roll-out to prevent any possible problems from becoming show-stoppers
 - Leads problem resolution by troubleshooting technical issues as they occur and develops a solution to solve root cause issues.
 - Determines when training is needed and oversees training for both IT and user teams

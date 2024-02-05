@@ -223,7 +223,7 @@ python test_de_script.py de_run_final.csv 2>&1 | tee -a outfile.log
 - `man "command"` //read the online manual page for a command
 - `whatis "command"` //brief description of a command
 - `apropos "keyword"` //match commands with keyword in their man pages
-  - apropos compress
+    - apropos compress
 
 ### rm command
 

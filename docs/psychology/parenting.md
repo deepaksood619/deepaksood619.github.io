@@ -1,16 +1,16 @@
 # Parenting / children
 
 - **Homeschooling / Home School / Homeschool**
-  - Khan academy
-  - https://primer.com
-  - day wise curriculum for kids for 0 - 18 years
+    - Khan academy
+    - https://primer.com
+    - day wise curriculum for kids for 0 - 18 years
 - **Thoughts**
-  - I want to raise my children in UK or US (good child care programs, that develops childs brain) or parents live with me
-  - 1st 3 years of the child's brain development is most important
-  - Never ever fight before the children
-  - How to develop curiosity in a child (thirst and passion of knowledge)
-    - Hard working
-    - Balanced life
+    - I want to raise my children in UK or US (good child care programs, that develops childs brain) or parents live with me
+    - 1st 3 years of the child's brain development is most important
+    - Never ever fight before the children
+    - How to develop curiosity in a child (thirst and passion of knowledge)
+        - Hard working
+        - Balanced life
 - Have child early, so that phase is complete and then you can focus on ageing parents (so they both don't coincide)
 - Children do not cry if they fall down if no one is around, they will standup and find their parents, and seeing their parents, they will start crying
 - Have 3 serial marriages over the lifetime (Youthful passion, Parenthood, Companionship, and all 3 can be the same too) - there are 3 different demands
@@ -22,7 +22,7 @@
 - If you have children, first of all, you have to establish integrity. Your words and your actions should match. -- Sadhguru
 - Don't be a Helicoptor Parent
 - Eat candy and sweets only on Saturday
-  - [Lördagsgodis: Sweden's delicious Saturday tradition that prevents decay - BBC Reel](https://youtu.be/BQCbJOwA51k)
+    - [Lördagsgodis: Sweden's delicious Saturday tradition that prevents decay - BBC Reel](https://youtu.be/BQCbJOwA51k)
 - [Japan's ancient secret to better cognitive memory - BBC REEL](https://youtu.be/s6OmqXCsYt8)
 - [How to expand your baby’s potential with education from birth | Zahra Kassam | TEDxManhattanBeach - YouTube](https://www.youtube.com/watch?v=oXYre2T3p_k&ab_channel=TEDxTalks)
 

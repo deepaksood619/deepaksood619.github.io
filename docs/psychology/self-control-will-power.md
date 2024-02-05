@@ -73,8 +73,8 @@ Our actions don't match our intentions.
 ## Resistance vs Exhaution
 
 - There are various techniques to overcome resistance
-  - Divide the task into multiple subtasks
-  - All this must be as public as possible, because then it creates a sense of responsibility
+    - Divide the task into multiple subtasks
+    - All this must be as public as possible, because then it creates a sense of responsibility
 
 ## Motivation
 
@@ -112,8 +112,8 @@ Self-reliance is nothing more than being self-sufficient. It means notclingingto
 
 - when people receive information about the risks of their current lifestyle, they tend to avoid, downplay, or derogate such information (this is called defensive processing)
 - you can overcome your own defensive processing with self-affirma- tion
-  - one way to self-affirm is by reflecting on your most cherished personal values and strengths (see an online test)
-  - another way is to repeat positive statements about possible change in important areas in your life (e.g. "I'm capable of grad- ually improving my diet") -- these need to be grounded in reality
+    - one way to self-affirm is by reflecting on your most cherished personal values and strengths (see an online test)
+    - another way is to repeat positive statements about possible change in important areas in your life (e.g. "I'm capable of grad- ually improving my diet") -- these need to be grounded in reality
 - self-affirmation helps you realize that you're a competent and adequate person, even though you may not always have perfect self-control.
 
 ## Construal
@@ -127,20 +127,20 @@ A construal is a way that people perceive, comprehend, and interpret their world
 ### Construal and Reappraisal: Reframing Self-Control Conflict
 
 - Whenever making an important decision, get yourself into a high-level (=abstract) construal by asking yourself a series of '**why**' questions
-  - for instance, if you want to lose weight, ask yourself: Why do I
+    - for instance, if you want to lose weight, ask yourself: Why do I
         want to lose weight?
-  - if your answer is 'to be more attractive', turn it into another 'why'
+    - if your answer is 'to be more attractive', turn it into another 'why'
         question: Why do I want to be attractive?
-  - Do this until you've connected to your deepest values (because it
+    - Do this until you've connected to your deepest values (because it
         gives me great joy, because I deeply value my life, etc.)
 - Whenever you need to plan how to achieve your goals, you need to
     get into a low-level (=concrete) construal by asking yourself a series of '**how**' questions
 - If you have a tendency for harsh self-criticism, practice mindful construal
 
 - When deciding between a tempting option (watching TV, smoking a cigarette, eating a high-calorie dessert) and a healthy option (exercising, drinking herbal tea, eating fruit), you can use three re-appraisal strategies:
-  - You can stimulate disgust by imaging the possible negative consequences of choosing the tempting option (e.g. someone sneezing on food)
-  - You can think of the positive consequences of not choosing the tempting option (e.g. not putting on weight)
-  - The best approach is to focus on the positive aspects of selecting the healthy option (e.g. staying slim and healthy, feeling proud of yourself)
+    - You can stimulate disgust by imaging the possible negative consequences of choosing the tempting option (e.g. someone sneezing on food)
+    - You can think of the positive consequences of not choosing the tempting option (e.g. not putting on weight)
+    - The best approach is to focus on the positive aspects of selecting the healthy option (e.g. staying slim and healthy, feeling proud of yourself)
 
 ### Construal-Level Theory (CLT)
 
@@ -170,11 +170,11 @@ when people persistently sacrifice their immediate desires for their long term g
 - hyperopia is not the same thing as extremely strong self-control -- rather, it's an excessive focus on the distant goal of being productive at all cost
 - the result of hyperopia is a lack of life satisfaction and often poor health
 - you can overcome hyperopia by:
-  - pre-committing to indulgence (e.g. buying vouchers)
-  - anticipating that you'll regret your puritan decisions in the future (with high-level construal)
-  - indulging after you've made a lot of effort at work
-  - making use of discounts and promotions
-  - making up 'functional alibi' (=emphasizing utilitarian value of objects rather than their hedonic qualities)
+    - pre-committing to indulgence (e.g. buying vouchers)
+    - anticipating that you'll regret your puritan decisions in the future (with high-level construal)
+    - indulging after you've made a lot of effort at work
+    - making use of discounts and promotions
+    - making up 'functional alibi' (=emphasizing utilitarian value of objects rather than their hedonic qualities)
 
 ## How to use the power of movies to have same dedication for study
 

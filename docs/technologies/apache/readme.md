@@ -14,6 +14,6 @@
 - [CNCF](cncf)
 - [Airflow](airflow/readme.md)
 - [Celery](celery/readme.md)
-  - [Celery Workers](celery/workers)
-  - [Celery Commands / Tools](celery/commands-tools)
+    - [Celery Workers](celery/workers)
+    - [Celery Commands / Tools](celery/commands-tools)
 - [Others](technologies/apache/others.md)

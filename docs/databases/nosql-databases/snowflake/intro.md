@@ -123,7 +123,7 @@ Snowflake actually uses a multi-cluster, shared data architecture. The storage a
 - Tasks / Task Scheduling / DAGs
 - Streams (CDC - any changes in the table)
 - Sequences
-  - Sequences are used to generate unique numbers across sessions and statements, including concurrent statements. They can be used to generate values for a primary key or any column that requires a unique value.
+    - Sequences are used to generate unique numbers across sessions and statements, including concurrent statements. They can be used to generate values for a primary key or any column that requires a unique value.
 - Snowpark for Python, Java ans Scala - Runtimes and libraries that securely deploy and process non-SQL code in Snowflake.
 
 ## Others

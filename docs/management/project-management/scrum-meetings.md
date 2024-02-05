@@ -21,8 +21,8 @@ Scrum: The Art of Doing Twice the Work in Half the Time by J. J. Sutherland
 
 - Pre-meeting notes - prepare for the meeting along with agenda
 - Post-meeting
-  - Send the final notes of what to do, when to do, who will do that
-  - Share the next calendar invite for the next followup
+    - Send the final notes of what to do, when to do, who will do that
+    - Share the next calendar invite for the next followup
 - No presentation reading in meetings (share presentation before the meeting, or after)
 
 ## Meeting Agenda (goal-oriented)
@@ -97,7 +97,7 @@ https://www.atlassian.com/team-playbook/plays/inclusive-meetings
 ### Artifacts
 
 - Product Backlog
-  - Running todo list consisting of all the things that need to be done
+    - Running todo list consisting of all the things that need to be done
 - Sprint Backlog
 - Increment (definition of done)
 
@@ -108,33 +108,33 @@ https://www.atlassian.com/team-playbook/plays/inclusive-meetings
 - The sprint goal is an objective that can be met by implementing stories from the backlog
 - Velocity = The amount of work typically completed in a sprint
 - **Goals**
-  - Focus Execution
-  - Minimize surprises
-  - Higher quality code
+    - Focus Execution
+    - Minimize surprises
+    - Higher quality code
 - **Todo**
-  - Backlog grooming (A meeting before the meeting)
-  - Sprint planning meeting (Prioritization)
-    - Retrospective recap (action item from last retrospective)
-    - Product and market updates
-    - Planning conversation
-  - Creating action items
+    - Backlog grooming (A meeting before the meeting)
+    - Sprint planning meeting (Prioritization)
+        - Retrospective recap (action item from last retrospective)
+        - Product and market updates
+        - Planning conversation
+    - Creating action items
 - [Ceremonies](https://www.atlassian.com/agile/scrum/ceremonies)
-  - Sprint planning
-  - Daily scrum or standup
-  - Sprint review
-  - Sprint retrospective
+    - Sprint planning
+    - Daily scrum or standup
+    - Sprint review
+    - Sprint retrospective
 - [Backlogs](https://www.atlassian.com/agile/scrum/backlogs)
 - [Sprint reviews](https://www.atlassian.com/agile/scrum/sprint-reviews)
-  - What's done and not done
-  - Demo the work
-  - Review key metrics
-  - Review and revise the product backlog
+    - What's done and not done
+    - Demo the work
+    - Review key metrics
+    - Review and revise the product backlog
 - [Standups](https://www.atlassian.com/agile/scrum/standups)
-  - Standups are 15-minutes daily meetings to quickly plan for the next 24 hours
-  - What did I worked on yesterday?
-  - What am I working on today?
-  - What is blocking me?
-  - Relegate all side conversations/discussions to the 16th minute
+    - Standups are 15-minutes daily meetings to quickly plan for the next 24 hours
+    - What did I worked on yesterday?
+    - What am I working on today?
+    - What is blocking me?
+    - Relegate all side conversations/discussions to the 16th minute
 - [Scrum master](https://www.atlassian.com/agile/scrum/scrum-master)
 - [Retrospectives](https://www.atlassian.com/agile/scrum/retrospectives)
 
@@ -142,9 +142,9 @@ https://www.atlassian.com/team-playbook/plays/inclusive-meetings
 
 - [Distributed scrum](https://www.atlassian.com/agile/scrum/distributed-scrum)
 - [Roles](https://www.atlassian.com/agile/scrum/roles)
-  - Product Owners
-  - Scrum masters
-  - Development teams
+    - Product Owners
+    - Scrum masters
+    - Development teams
 - [Scrum of scrums](https://www.atlassian.com/agile/scrum/scrum-of-scrums)
 
 [The Agile Coach - What is Scrum](https://www.youtube.com/playlist?list=PLaD4FvsFdarT0B2yi9byhKWYX1YmrkrpC)

@@ -14,8 +14,8 @@ Significance - In-place sorting algorithm with N log N wost-case
 - Heapsort: Yes
 
 - Heapsort is optimal for both time and space, but:
-  - Inner loop longer than quicksort's
-  - Makes poor use of cache memory (since array item can be fetched far since parent's child can be far from parent)
-  - Not stable
+    - Inner loop longer than quicksort's
+    - Makes poor use of cache memory (since array item can be fetched far since parent's child can be far from parent)
+    - Not stable
 
 ![image](../../media/Heapsort-image1.jpg)

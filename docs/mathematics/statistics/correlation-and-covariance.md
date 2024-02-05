@@ -18,9 +18,9 @@ As an example, consider the linkage between stock prices and interest rates
 
 - When you have two or more data series, you can check for linkages between the data, i.e., whether the data move together (positive co-movement), move inversely (negative co-movement) or are unrelated (no co-movement)
 - If there is a linkage, you can explore further to see if
-  - **Time lags and leads:** Changes in one data variable lead changes in the other
-  - **Correlation vs Causation:** Changes in one data variable are causing changes in the other
-  - **Prediction:** You can predict one variable, using the other variable
+    - **Time lags and leads:** Changes in one data variable lead changes in the other
+    - **Correlation vs Causation:** Changes in one data variable are causing changes in the other
+    - **Prediction:** You can predict one variable, using the other variable
 
 ## Correlation
 

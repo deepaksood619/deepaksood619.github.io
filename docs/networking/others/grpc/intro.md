@@ -56,21 +56,21 @@ rpc BidiHello(stream HelloRequest) returns (stream HelloResponse){
 ## Specifications for RPCs
 
 - Language-agnostic Semantics
-  - Unary RPCs vs Streaming RPCs
-  - Metadata
-  - **Cancellation/Deadlines**
-  - Response messages and errors
+    - Unary RPCs vs Streaming RPCs
+    - Metadata
+    - **Cancellation/Deadlines**
+    - Response messages and errors
 - Spec for wire protocol
-  - Maps RPC semantics to HTTP/2 protocol
+    - Maps RPC semantics to HTTP/2 protocol
 
 ## Runtime Libraries
 
 - Implements Wire Protocol
 - Server support
-  - Expose service implementations via gRPC
+    - Expose service implementations via gRPC
 - Client support
-  - Machinery for connecting to servers, sending RPCs
-  - Service discovery, load balancing, connection management
+    - Machinery for connecting to servers, sending RPCs
+    - Service discovery, load balancing, connection management
 
 ## Benefits & Tradeoffs of gRPC
 
@@ -130,16 +130,16 @@ https://github.com/jtattermusch/grpc-loadbalancing-kubernetes-examples
 - Hit all backend
 - If you get response from one client, cancel all requests
 - Problem - Cascading Failures
-  - Retry throttling
-  - Pushback- Transports
+    - Retry throttling
+    - Pushback- Transports
 - Auth & Security
-  - Plugin auth mechanism for extensibility
+    - Plugin auth mechanism for extensibility
 - Stats, Monitoring and Tracing
-  - Prometheus, Zipkin, OpenCensus, Opentracing integrations
+    - Prometheus, Zipkin, OpenCensus, Opentracing integrations
 - Service Discovery
-  - Consul, Zookeeper, Eureka
+    - Consul, Zookeeper, Eureka
 - Supported with Proxies
-  - Envoy, Nginx, linkerd, nghttp2, haproxy
+    - Envoy, Nginx, linkerd, nghttp2, haproxy
 
 ### Opinionated
 
@@ -150,9 +150,9 @@ https://github.com/jtattermusch/grpc-loadbalancing-kubernetes-examples
 ### Ecosystem
 
 - grpc-gateway
-  - Exposes gRPC services as REST APIs
+    - Exposes gRPC services as REST APIs
 - grpc-web
-  - Adapts gRPC to work with browser clients
+    - Adapts gRPC to work with browser clients
 
 ## Limitations
 

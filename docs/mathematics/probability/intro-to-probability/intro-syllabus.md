@@ -29,12 +29,12 @@ An introduction to probabilistic models, including random processes and the basi
 L1: Probability models and axioms
 
 - **Sample Space**
-  - **Sample Space**
-  - **Probability Law**
+    - **Sample Space**
+    - **Probability Law**
 - **Probability Axioms**
-  - **Nonnegativity**
-  - **Normalization**
-  - **(Finite) Additivity**
+    - **Nonnegativity**
+    - **Normalization**
+    - **(Finite) Additivity**
 - Properties of Probability
 - Discrete example
 - Continuous example
@@ -62,9 +62,9 @@ Mathematical Background: Set, Sequences, Limits and Series, (un)countable sets
 L2: Conditioning and Bayes' rule
 
 - **Conditional Probability**
-  - **Multiplication Rule**
-  - **Total Probability Theorem**
-  - **Bayes' Rule**
+    - **Multiplication Rule**
+    - **Total Probability Theorem**
+    - **Bayes' Rule**
 - A die roll example
 - Conditional probabilities obey the same axioms
 - A radar example: models based on conditional probabilities and three basic tools
@@ -102,8 +102,8 @@ L4: Counting
 - Binomial Probabilities
 - A coin tossing examples
 - Partitions
-  - Multinomial Coefficient
-  - Binomial Coefficient
+    - Multinomial Coefficient
+    - Binomial Coefficient
 - Each person gets an ace
 
 ## Solved Problems

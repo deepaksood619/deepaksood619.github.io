@@ -294,10 +294,10 @@ What data structure or data structures would you use?
 - **Percolation phase transition**
 - **Monte Carlo simulation**
 - **Dynamic connectivity solution to estimate percolation threshold**
-  - Create an object for each site and name them 0 to N^2 - 1
-  - Sites are in same component if connected by open sites
-  - Trick - Introduce 2 virtual sites (and connections to top and bottom)
-    - Percolates iff virtual top site is connected to virtual bottom site
+    - Create an object for each site and name them 0 to N^2 - 1
+    - Sites are in same component if connected by open sites
+    - Trick - Introduce 2 virtual sites (and connections to top and bottom)
+        - Percolates iff virtual top site is connected to virtual bottom site
 
 ## 3.1 Merge Sort
 

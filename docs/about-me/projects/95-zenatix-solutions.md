@@ -94,11 +94,11 @@ Demo, presentation and meetings with Director General (Shri Abhay Bakre) and Dir
 ### R&D
 
 - Implemented GraphQL from scratch for a POC and then taken it to production.
-  - Moved to micorservices architecture and for communication used GraphQL over HTTP
-  - Framework used
-    - Graphene-Python
-    - Graphene-Django
-    - django-filter
+    - Moved to micorservices architecture and for communication used GraphQL over HTTP
+    - Framework used
+        - Graphene-Python
+        - Graphene-Django
+        - django-filter
 - Implementation of authentication using JWT (JSON Web Tokens) for stateless authentication
 - Volttron POC
 - Google Cloud - IoT Core, Pub/Sub, Dataflow, BigQuery, DataStudio, Datalab
@@ -107,13 +107,13 @@ Demo, presentation and meetings with Director General (Shri Abhay Bakre) and Dir
 ### DevOps
 
 - Moved from VMs to Kubernetes
-  - Kubernetes cluster deployment, dockerizing applications
+    - Kubernetes cluster deployment, dockerizing applications
 - Monitoring and alerting
-  - Prometheus, Alertmanager, Grafana
-  - Telegraf, Influx, Chronograf, Kapacitor (TICK stack)
+    - Prometheus, Alertmanager, Grafana
+    - Telegraf, Influx, Chronograf, Kapacitor (TICK stack)
 - Centralized logging in distributed systems - ELK (elastic search operator)
-  - Added Elastalert for Alerting on Elasticsearch metrics (created alerts too)
-  - LogTrail plugin for elasticsearch
+    - Added Elastalert for Alerting on Elasticsearch metrics (created alerts too)
+    - LogTrail plugin for elasticsearch
 - API gateway management Kong installed and configured in kubernetes (kong dbless)
 - Jenkins Pipeline (build, test, deploy)
 - Setting up ingress gateway for all north south traffic
@@ -125,7 +125,7 @@ Demo, presentation and meetings with Director General (Shri Abhay Bakre) and Dir
 ### Data Engineering
 
 - Kafka production deployment
-  - Multiple kafka consumers
+    - Multiple kafka consumers
 - Emqtt/VerneMQ production deployment
 - Data pipeline created using paho, emqtt, kafka-connect source, kafka, kafka consumer, smap
 - Dashboards - Kafka-manager, topics-ui, schema-registry-ui, emqx dashboard, confluent control-center
@@ -138,9 +138,9 @@ Demo, presentation and meetings with Director General (Shri Abhay Bakre) and Dir
 - Setup standards for following good coding practices
 - Code cleanups - removed lot of legacy code
 - Bug Fixes
-  - example
-  - Issues
-  - Dashboard
+    - example
+    - Issues
+    - Dashboard
 - Moved from Python 2.7 to Python 3.7
 
 ### Management

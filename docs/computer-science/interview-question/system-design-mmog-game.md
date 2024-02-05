@@ -51,24 +51,24 @@ render_screen()
 
 - Send previous inputs in all packets
 - Add timestamps for replay- **State Synchronization**
-  - Sync state of the environments object
-    - Object State
-      - Position
-      - Orientation
-      - Linear Velocity
-      - Angular Velocity
+    - Sync state of the environments object
+        - Object State
+            - Position
+            - Orientation
+            - Linear Velocity
+            - Angular Velocity
 - **Jitters and lagging**
-  - **Prediction**
-    - Linear Interpolation
-    - Polar Interpolation
-    - Hermite Interpolation
+    - **Prediction**
+        - Linear Interpolation
+        - Polar Interpolation
+        - Hermite Interpolation
 
 ## Handling states, corner cases, rules for objects
 
 - Via if-else statement
-  - Not maintainable
-  - Not scalable
-  - No design pattern
+    - Not maintainable
+    - Not scalable
+    - No design pattern
 
 ![image](../../media/System-Design-MMOG-Game-image4.jpg)
 

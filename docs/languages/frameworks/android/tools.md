@@ -32,27 +32,27 @@
 - [MediaPlayer](https://developer.android.com/guide/topics/media/mediaplayer.html)
 - [ExoPlayer](https://developer.android.com/guide/topics/media/exoplayer.html)
 - NDK (Native Development Kit)
-  - http://www.packtpub.com/sites/default/files/downloads/Developing_Multimedia_Applications_with_NDK.pdf
+    - http://www.packtpub.com/sites/default/files/downloads/Developing_Multimedia_Applications_with_NDK.pdf
 - CMake
 - Toolchain (Cross compilers)
 - Gradle (Build System)
 - Instrumented tests
 - **Testing Frameworks**
-  - Local Unit Tests (Mockito)
-  - Robotium
-  - Calabash
-  - Appium
-  - Android JUnit Runner
-  - Functional UI Testing (Espresso)
-  - Functional UI Testing (UIAutomator)
-  - Hamcrest is a framework for writing matcher objects allowing 'match' rules to be defined declaratively.
-  - Monkey / Monkey Runner
-  - Android Testing Support Library
-  - **Test Lab runs [Espresso](https://developer.android.com/training/testing/ui-testing/espresso-testing.html) and [UI Automator 2.0](http://developer.android.com/tools/testing-support-library/index.html#UIAutomator) tests on Android apps, and [XCTest](https://developer.apple.com/documentation/xctest) tests on iOS apps.**
-  - **RoboTest (easiest)**
-    - https://firebase.google.com/docs/test-lab/android/robo-ux-test
-    - https://developer.android.com/training/testing
-    - https://developer.android.com/training/testing/fundamentals
+    - Local Unit Tests (Mockito)
+    - Robotium
+    - Calabash
+    - Appium
+    - Android JUnit Runner
+    - Functional UI Testing (Espresso)
+    - Functional UI Testing (UIAutomator)
+    - Hamcrest is a framework for writing matcher objects allowing 'match' rules to be defined declaratively.
+    - Monkey / Monkey Runner
+    - Android Testing Support Library
+    - **Test Lab runs [Espresso](https://developer.android.com/training/testing/ui-testing/espresso-testing.html) and [UI Automator 2.0](http://developer.android.com/tools/testing-support-library/index.html#UIAutomator) tests on Android apps, and [XCTest](https://developer.apple.com/documentation/xctest) tests on iOS apps.**
+    - **RoboTest (easiest)**
+        - https://firebase.google.com/docs/test-lab/android/robo-ux-test
+        - https://developer.android.com/training/testing
+        - https://developer.android.com/training/testing/fundamentals
 - Parceler (http://parceler.org)
 
 ## Features
