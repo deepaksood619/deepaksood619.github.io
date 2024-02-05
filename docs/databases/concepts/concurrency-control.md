@@ -61,16 +61,16 @@ Many methods for concurrency control exist. Most of them can be implemented with
 - Controlling access to data by [locks](https://en.wikipedia.org/wiki/Lock_(computer_science)) assigned to the data. Access of a transaction to a data item (database object) locked by another transaction may be blocked (depending on lock type and access operation type) until lock release.
 - **Assume transactions will conflict so they must acquire locks on database objects before they are allowed to access them.**
 - There are two ways to deal with deadlocks in a two-phase locking (2PL) concurrency control protocol
-  - **Deadlock Detection**
-    - Each txn maintains a queue of the txns that hold the locks that it is waiting for
-    - A separate thread checks these queues for deadlocks
-    - If deadlock is found, use a heuristic to decide what transaction to kill in order to break deadlock.
-  - **Deadlock Prevention**
-    - Check whether another txn already holds a lock when another txn requests it
-    - If lock is not available, the txn will either
-      - wait
-      - commit suicide
-      - kill the other txn
+    - **Deadlock Detection**
+        - Each txn maintains a queue of the txns that hold the locks that it is waiting for
+        - A separate thread checks these queues for deadlocks
+        - If deadlock is found, use a heuristic to decide what transaction to kill in order to break deadlock.
+    - **Deadlock Prevention**
+        - Check whether another txn already holds a lock when another txn requests it
+        - If lock is not available, the txn will either
+            - wait
+            - commit suicide
+            - kill the other txn
 
 ![image](../../media/Concurrency-Control-image1.jpg)
 

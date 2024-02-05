@@ -8,13 +8,13 @@ Liquibase Hub
 
 - Visualize all changes
 - Changelogs
-  - **Formats**
-    - XML
-    - YAML
-    - JSON
-    - SQL
+    - **Formats**
+        - XML
+        - YAML
+        - JSON
+        - SQL
 - Tracking Tables
-  - DATABASECHANGELOG
+    - DATABASECHANGELOG
 
 Track which changes have or have not been deployed
 

@@ -32,9 +32,9 @@ Turning action words into identity words (verbs into nouns) is effective because
 - Let me know how I can be helpful
 - I don't think so you are in the right path, you can make some improvisations and try again
 - If manager asks you to do something
-  - Of course, could you help me prioritize my project list
-  - Then take them through everything on your plate, and ask
-  - Which of these would you like me to de-prioritize to fit in the new task?
+    - Of course, could you help me prioritize my project list
+    - Then take them through everything on your plate, and ask
+    - Which of these would you like me to de-prioritize to fit in the new task?
 - Replace "but" with "and" - [Change ONE WORD to Transform your Communication](https://www.youtube.com/shorts/tomgKAxMsq8)
 - Feel free to interrupt me in between to ask any questions and let me know if you want to dig deeper in any part.
 - What if you stopped trying to think your way through it and started to act your way through it?

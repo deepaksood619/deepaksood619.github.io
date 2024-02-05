@@ -3,8 +3,8 @@
 ## Learnings
 
 - git is not made for handling huge number of images, it can bloat up .git directory
-  - [How do I handle images in a Git repo?](https://stackoverflow.com/questions/5756324/how-do-i-handle-images-in-a-git-repo)
-  - Keep images seperately in cdn and use links in repository. CDN must have basic trash for recovering accidently deleted images
+    - [How do I handle images in a Git repo?](https://stackoverflow.com/questions/5756324/how-do-i-handle-images-in-a-git-repo)
+    - Keep images seperately in cdn and use links in repository. CDN must have basic trash for recovering accidently deleted images
 
 ## git submodule
 

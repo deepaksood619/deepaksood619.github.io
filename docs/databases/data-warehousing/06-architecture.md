@@ -50,6 +50,6 @@ It consists of the Top, Middle and Bottom Tier.
 - Facts
 - Dimension
 - Data Integration
-  - Extract Transform Load (ETL)
-  - Extract Load Transform (ELT)
-  - Change Data Capture (CDC)
+    - Extract Transform Load (ETL)
+    - Extract Load Transform (ELT)
+    - Change Data Capture (CDC)

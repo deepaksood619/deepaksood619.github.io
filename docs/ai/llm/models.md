@@ -24,8 +24,8 @@ Note: You should have at least 8 GB of RAM available to run the 7B models, 16 GB
 - [dolphin-mixtral-8x7b](https://erichartford.com/dolphin-25-mixtral-8x7b)
 - [Ollama Library](https://ollama.ai/library)
 - [Uncensored Models](https://erichartford.com/uncensored-models)
-  - aligned by an alignment team
-  - Remove refusals
+    - aligned by an alignment team
+    - Remove refusals
 
 #### Dolphin-2.5x-mixtral
 

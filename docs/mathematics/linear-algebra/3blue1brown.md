@@ -168,10 +168,10 @@ Cross product of two vectors is a vector that is the area of the parallelogram a
 - How do you translate between coordinate systems
 - Matrix multiplication by "Inverse change of basis matrix"
 - How to translate a matrix
-  - Start with any vectors written in Jennifer's language
-  - Translate it to our language using change of basis matrix
-  - Apply transformation matrix in our language, this tells us where that vector lands but still in our language
-  - Apply the inverse change of basis matrix to get the transformed vector but in Jennifer's language
+    - Start with any vectors written in Jennifer's language
+    - Translate it to our language using change of basis matrix
+    - Apply transformation matrix in our language, this tells us where that vector lands but still in our language
+    - Apply the inverse change of basis matrix to get the transformed vector but in Jennifer's language
 
 ![image](../../media/3Blue1Brown-image30.jpg)
 

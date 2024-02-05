@@ -35,20 +35,20 @@ Protected areas are those in which human occupation or at least the exploitation
 ![image](../../media/Wildlife-image1.jpg)
 
 - **National Park**
-  - A National park is an area with enough ecological, geo-morphological and natural significance with rich fauna and flora, which is designed to protect and to develop wildlife or its environment.
-  - National parks in India are IUCN category II protected areas.
-  - Activities like grazing, hunting, forestry or cultivation etc. are strictly prohibited. No human activity is permitted inside the national park except for the ones permitted by the Chief Wildlife Warden of the state.
-  - India's first national park was established in 1936 as Hailey National Park, now known as Jim Corbett National Park, Uttarakhand.
-  - There are 104 existing national parks in India covering an area of 40501.13 km2, which is 1.23% of the geographical area of the country (National Wildlife Database, May 2019).
+    - A National park is an area with enough ecological, geo-morphological and natural significance with rich fauna and flora, which is designed to protect and to develop wildlife or its environment.
+    - National parks in India are IUCN category II protected areas.
+    - Activities like grazing, hunting, forestry or cultivation etc. are strictly prohibited. No human activity is permitted inside the national park except for the ones permitted by the Chief Wildlife Warden of the state.
+    - India's first national park was established in 1936 as Hailey National Park, now known as Jim Corbett National Park, Uttarakhand.
+    - There are 104 existing national parks in India covering an area of 40501.13 km2, which is 1.23% of the geographical area of the country (National Wildlife Database, May 2019).
 - **Wildlife Sanctuary**
-  - Any area other than area comprised with any reserve forest or the territorial waters can be notified by the State Government to constitute as a sanctuary if such area is of adequate ecological, faunal, floral, geomorphological, natural. or zoological significance, for the purpose of protecting, propagating or developing wildlife or its environment.
-  - The difference between a Sanctuary and a National Park mainly lies in the vesting of rights of people living inside. Unlike a Sanctuary, where certain rights can be allowed, in a National Park, no rights are allowed. No grazing of any livestock is permitted inside a National Park while in a Sanctuary, the Chief Wildlife Warden may regulate, control or prohibit it.
-  - There are a total of 551 wildlife sanctuaries in India.
+    - Any area other than area comprised with any reserve forest or the territorial waters can be notified by the State Government to constitute as a sanctuary if such area is of adequate ecological, faunal, floral, geomorphological, natural. or zoological significance, for the purpose of protecting, propagating or developing wildlife or its environment.
+    - The difference between a Sanctuary and a National Park mainly lies in the vesting of rights of people living inside. Unlike a Sanctuary, where certain rights can be allowed, in a National Park, no rights are allowed. No grazing of any livestock is permitted inside a National Park while in a Sanctuary, the Chief Wildlife Warden may regulate, control or prohibit it.
+    - There are a total of 551 wildlife sanctuaries in India.
 - **Conservation reserves and community reservesin India**
-  - These terms denote the protected areas of India which typically act as buffer zones to or connectors and migration corridors between established national parks, wildlife sanctuaries and reserved and protected forests of India.
-  - Such areas are designated as Conservation Reserves if they are uninhabited and completely owned by the Government of India but used for subsistence by communities and Community Reserves if a part of the lands is privately owned.
-  - These protected area categories were first introduced in the Wildlife (Protection) Amendment Act of 2002 − the amendment to the Wildlife Protection Act of 1972.
-  - These categories were added because of reduced protection in and around existing or proposed protected areas due to private ownership of land, and land use.
+    - These terms denote the protected areas of India which typically act as buffer zones to or connectors and migration corridors between established national parks, wildlife sanctuaries and reserved and protected forests of India.
+    - Such areas are designated as Conservation Reserves if they are uninhabited and completely owned by the Government of India but used for subsistence by communities and Community Reserves if a part of the lands is privately owned.
+    - These protected area categories were first introduced in the Wildlife (Protection) Amendment Act of 2002 − the amendment to the Wildlife Protection Act of 1972.
+    - These categories were added because of reduced protection in and around existing or proposed protected areas due to private ownership of land, and land use.
 
 ## Biosphere Reserves
 
@@ -56,9 +56,9 @@ A biosphere reserve is an area of land or water that is protected by law in orde
 
 - Each reserve aims to help scientists and the environmental community figure out how to protect the world's plant and animal species while dealing with a growing population and its resource needs.
 - To carry out the complementary activities of biodiversity conservation and sustainable use of natural resources, biosphere reserves are traditionally organized into 3 interrelated zones, known as:
-  - the core area,
-  - the buffer zone, and
-  - a transition zone or 'area of cooperation / Marginal zone
+    - the core area,
+    - the buffer zone, and
+    - a transition zone or 'area of cooperation / Marginal zone
 
 ![image](../../media/Wildlife-image2.jpg)
 

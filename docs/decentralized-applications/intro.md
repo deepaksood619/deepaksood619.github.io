@@ -31,20 +31,20 @@
 
 - Open source
 - Use of cryptocurrency
-  - Allocate a scarce resource to monetize.
-  - Example - Steemit
+    - Allocate a scarce resource to monetize.
+    - Example - Steemit
 - Decentralised consensus
-  - Ability of a network to agree about on something
-  - Proof of work algorithm
-  - 51% of all the nodes must approve the work
-  - Big files are stored in a distributed hash table (DHT) (IPFS)
-  - Block chain helps the DHT reach consensus
-  - Smart contracts which are crypoeconomically secured code
-  - Etherium has a tiring complete block chain
+    - Ability of a network to agree about on something
+    - Proof of work algorithm
+    - 51% of all the nodes must approve the work
+    - Big files are stored in a distributed hash table (DHT) (IPFS)
+    - Block chain helps the DHT reach consensus
+    - Smart contracts which are crypoeconomically secured code
+    - Etherium has a tiring complete block chain
 - No central point of failure (IPFS Stack)
-  - Instead of IP addressing our content, we should content address it
-  - Merkle DAG
-  - Resiliency happening with bits and shards of data replicated across network (multiple nodes)
+    - Instead of IP addressing our content, we should content address it
+    - Merkle DAG
+    - Resiliency happening with bits and shards of data replicated across network (multiple nodes)
 
 ## Difference between Blockchain, Ethereum and Bitcoin
 

@@ -20,10 +20,10 @@ Apache Parquet is a self-describing data format which embeds the schema, or stru
 
 - Improved read performance at the cost of slower writes.
 - Apache Parquet is implemented using the **record-shredding and assembly algorithm**, which accommodates the complex [data structures](https://en.wikipedia.org/wiki/Data_structures) that can be used to store the data.The values in each column are physically stored in contiguous memory locations and this columnar storage provides the following benefits:
-  - Column-wise compression is efficient and saves storage space
-  - Compression techniques specific to a type can be applied as the column values tend to be of the same type
-  - Queries that fetch specific column values need not read the entire raw data thus improving performance
-  - Different encoding techniques can be applied to different columns
+    - Column-wise compression is efficient and saves storage space
+    - Compression techniques specific to a type can be applied as the column values tend to be of the same type
+    - Queries that fetch specific column values need not read the entire raw data thus improving performance
+    - Different encoding techniques can be applied to different columns
 
 ![image](../../media/Apache-Parquet-image1.jpg)
 

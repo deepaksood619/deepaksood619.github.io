@@ -11,8 +11,8 @@ https://www.toptal.com/clustering/clustering-metrics-for-comparison
 ## What is clustering?
 
 - Organizing data into classes such that there is
-  - high intra-class similarity
-  - low inter-class similarity
+    - high intra-class similarity
+    - low inter-class similarity
 - Finding the class labels and the number of classes directly from the data (in contrast to classification)
 - More informally, finding natural groupings among objects
 
@@ -116,11 +116,11 @@ The distance between two objects, defining the distance between an object and a 
 ## DBSCAN
 
 - DBSCAN is a density-based algorithm
-  - Density = number of points within a specified radius (Eps)
-  - A point is a **core point** if it has more than a specified number of points (MinPts) within. Eps
-    - These are points that are at the interior of a cluster
-  - A **border point** has fewer than MinPts within Eps, but is in the neighborhood of a core point
-  - A **noise point** is any point that is not a core point or a border point
+    - Density = number of points within a specified radius (Eps)
+    - A point is a **core point** if it has more than a specified number of points (MinPts) within. Eps
+        - These are points that are at the interior of a cluster
+    - A **border point** has fewer than MinPts within Eps, but is in the neighborhood of a core point
+    - A **noise point** is any point that is not a core point or a border point
 
 ![image](../../media/Clustering-image10.jpg)
 
@@ -141,14 +141,14 @@ The distance between two objects, defining the distance between an object and a 
 ## Cluster Validity
 
 - For supervised classification we have a variety of measures to evalute how good our model is
-  - Accuracy, precision, recall
+    - Accuracy, precision, recall
 - For cluster analysis, the analogous question is how to evaluate the "goodness" of the resulting clusters?
 - But "clusters are in the eye of the beholder"
 - Then why do we want to evaluate them?
-  - To avoid finding patterns in noise
-  - To compare clustering algorithms
-  - To compare two sets of clusters
-  - To compare two clusters
+    - To avoid finding patterns in noise
+    - To compare clustering algorithms
+    - To compare two sets of clusters
+    - To compare two clusters
 
 ## Different Aspects of Cluster Validation
 
@@ -162,12 +162,12 @@ The distance between two objects, defining the distance between an object and a 
 ## Measures of Cluster Validity
 
 - Numerical measures that are applied to judge various aspects of cluster validity, are classified into the following 3 types -
-  - **External Index:** Used to measure the extent to which cluster labels match externally supplied class labels.
-    - Entropy
-  - **Internal Index:** Used to measure the goodness of a clustering structure without respect to external information
-    - Sum of Squared Error (SSE)
-  - **Relative Index:** Used to compare two different clusterings or clusters
-    - Often an external or internal index is used for this function, e.g., SSE or entropy
+    - **External Index:** Used to measure the extent to which cluster labels match externally supplied class labels.
+        - Entropy
+    - **Internal Index:** Used to measure the goodness of a clustering structure without respect to external information
+        - Sum of Squared Error (SSE)
+    - **Relative Index:** Used to compare two different clusterings or clusters
+        - Often an external or internal index is used for this function, e.g., SSE or entropy
 
 ## Scatter Coefficient
 
@@ -178,7 +178,7 @@ The distance between two objects, defining the distance between an object and a 
 
 - **Cluster Cohesion:** Measures how closely related are objects in a cluster (Ex - SSE)
 - **Cluster Separation:** Measure how distinct or well-separated a cluster is from other clusters (Ex - Squared Error)
-  - Cohesion is measured by the within cluster sum of squares (SSE)
+    - Cohesion is measured by the within cluster sum of squares (SSE)
 
 ![image](../../media/Clustering-image12.jpg)
 
@@ -187,13 +187,13 @@ The distance between two objects, defining the distance between an object and a 
 ![image](../../media/Clustering-image13.jpg)
 
 - Example SSE
-  - BSS + WSS = constant
+    - BSS + WSS = constant
 
 ![image](../../media/Clustering-image14.jpg)
 
 - A proximity graph based approach can also be used for cohesion and separation
-  - Cluster cohesion is the sum of the weight of all links within a cluster
-  - Cluster separation is the sum of the weights between nodes in the cluster and nodes outside the cluster
+    - Cluster cohesion is the sum of the weight of all links within a cluster
+    - Cluster separation is the sum of the weights between nodes in the cluster and nodes outside the cluster
 
 ![image](../../media/Clustering-image15.jpg)
 
@@ -201,9 +201,9 @@ The distance between two objects, defining the distance between an object and a 
 
 - Silhouette Coefficient combine ideas of both cohesion and separation, but for individual points, as well as clusters and clusterings
 - For an individual point, i
-  - Calculate a = average distance of i to the points in its cluster
-  - Calculate b = min (average distance of i to points in another cluster)
-  - The silhouette coefficient for a point is then given by
+    - Calculate a = average distance of i to the points in its cluster
+    - Calculate b = min (average distance of i to points in another cluster)
+    - The silhouette coefficient for a point is then given by
 
 `s = 1 - a/b if a < b, (or s = b/a -1, if a >= b, not the usual case)`
 

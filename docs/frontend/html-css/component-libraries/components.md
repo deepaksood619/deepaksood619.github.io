@@ -6,100 +6,100 @@ https://mui.com/getting-started/supported-components
 
 - Accordion (Legacy Material v1)
 - App bars
-  - Top
-  - Bottom
+    - Top
+    - Bottom
 - Banners (Can be composed)
 - Bottom navigation
 - Buttons
-  - Text & contained buttons (formerly flat & raised)
-  - Toggle buttons ~ (Lab)
-  - Icon toggle buttons (Custom Checkbox)
+    - Text & contained buttons (formerly flat & raised)
+    - Toggle buttons ~ (Lab)
+    - Icon toggle buttons (Custom Checkbox)
 - Buttons: Floating Action Button
-  - Transitions:
-    - Speed dial ~ (Lab)
-    - Menu
-    - Morph
-    - Full screen
-  - Extended FAB
-    - Speed dial
+    - Transitions:
+        - Speed dial ~ (Lab)
+        - Menu
+        - Morph
+        - Full screen
+    - Extended FAB
+        - Speed dial
 - Cards
 - Chips
-  - Input
-  - Choice
-  - Filter
-  - Action
+    - Input
+    - Choice
+    - Filter
+    - Action
 - Data tables
-  - Sortable
-  - Selectable
-  - Pagination
+    - Sortable
+    - Selectable
+    - Pagination
 - Dialogs
-  - Alert dialog
-  - Simple dialogs (Can be composed with Dialog and List.)
-  - Confirmation dialogs
-  - Full screen dialogs
+    - Alert dialog
+    - Simple dialogs (Can be composed with Dialog and List.)
+    - Confirmation dialogs
+    - Full screen dialogs
 - Dividers
-  - Full bleed
-  - Inset
-  - Middle
-  - Subheader
+    - Full bleed
+    - Inset
+    - Middle
+    - Subheader
 - Image lists
 - Lists
-  - Types:
-    - Single line
-    - Two line
-    - Three line
-  - Avatar
-  - Icon
-  - Thumbnail
-  - Controls
-    - Checkbox
-    - Expand/collapse (AKA Nested)
-    - Switch
-    - Reorder
+    - Types:
+        - Single line
+        - Two line
+        - Three line
+    - Avatar
+    - Icon
+    - Thumbnail
+    - Controls
+        - Checkbox
+        - Expand/collapse (AKA Nested)
+        - Switch
+        - Reorder
 - Menus
-  - Dropdown menu (Can be composed)
-    - Cascade
-  - Exposed dropdown menus
-    - Text field dropdown menu (Select)
-    - Editable dropdown menu
-  - Contextual
+    - Dropdown menu (Can be composed)
+        - Cascade
+    - Exposed dropdown menus
+        - Text field dropdown menu (Select)
+        - Editable dropdown menu
+    - Contextual
 - Progress indicators / Progress bar - [30 Awesome CSS Progress Bars (Free Code and Demos)](https://devsnap.me/css-progress-bars)
-  - Linear
-  - Circular
-  - Loading (Legacy Material v1)
+    - Linear
+    - Circular
+    - Loading (Legacy Material v1)
 - Selection controls
-  - Checkbox
-  - Radio button
-  - Switch
+    - Checkbox
+    - Radio button
+    - Switch
 - Sliders
-  - Continuous
-  - Discrete
+    - Continuous
+    - Discrete
 - Snackbars (Legacy Material v1)
 - Subheaders (Legacy Material v1)
-  - List
-  - Grid
-  - Menu
+    - List
+    - Grid
+    - Menu
 - Steppers (Legacy Material v1)
-  - Horizontal
-  - Vertical
-  - Mobile steps
+    - Horizontal
+    - Vertical
+    - Mobile steps
 - Tabs
-  - Fixed tabs
-  - Scrollable tabs
+    - Fixed tabs
+    - Scrollable tabs
 - Text fields
-  - Standard (Legacy Material v1)
-  - Filled
-  - Outline
-  - Types:
-    - Single-line
-    - Multi-line
-    - Text-area
-    - Full-width
-  - Assistive elements:
-    - Helper text
-    - Error message
-    - Icons
-    - Character counter
+    - Standard (Legacy Material v1)
+    - Filled
+    - Outline
+    - Types:
+        - Single-line
+        - Multi-line
+        - Text-area
+        - Full-width
+    - Assistive elements:
+        - Helper text
+        - Error message
+        - Icons
+        - Character counter
 - Toolbars (Legacy Material v1)
 - Tooltips
 - Desktop

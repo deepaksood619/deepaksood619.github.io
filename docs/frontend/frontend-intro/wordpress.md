@@ -58,9 +58,9 @@ When things are running slowly and you're not sure what to blame, [Query Monitor
 
 - https://themeisle.com/blog/wordpress-version-control
 - https://kinsta.com/blog/wordpress-version-control
-  - [WP Pusher](https://wppusher.com/)-- lets you deploy themes and plugins from any Git repository. Note that this one focuses specifically on themes and plugins.
-  - [Revisr](https://wordpress.org/plugins/revisr/)-- offers a much more comprehensive approach to using Git with WordPress. You can track your entire site, including your database, in a Git repository. You can also commit changes from inside your WordPress dashboard, revert files, and push/pull changes to a remote repository (like Bitbucket or GitHub).
-  - [VersionPress](https://versionpress.com/) is an open source project that aims to "bring the full power of Git to WordPress" by version-controlling both your site's files and database. Though it also relies on Git, VersionPress gets its own section because it does things a little differently than the methods above.
+    - [WP Pusher](https://wppusher.com/)-- lets you deploy themes and plugins from any Git repository. Note that this one focuses specifically on themes and plugins.
+    - [Revisr](https://wordpress.org/plugins/revisr/)-- offers a much more comprehensive approach to using Git with WordPress. You can track your entire site, including your database, in a Git repository. You can also commit changes from inside your WordPress dashboard, revert files, and push/pull changes to a remote repository (like Bitbucket or GitHub).
+    - [VersionPress](https://versionpress.com/) is an open source project that aims to "bring the full power of Git to WordPress" by version-controlling both your site's files and database. Though it also relies on Git, VersionPress gets its own section because it does things a little differently than the methods above.
 
 ## Commands
 
@@ -118,16 +118,16 @@ https://wordpress.org/support/article/editing-wp-config-php
 
 - What is the latest version of wordpress?
 - Why WordPress Is So Popular?
-  - Simplicity and Flexibility
-  - In-corporate with publishing tools
-  - User Management
-  - Media Management
-  - Full Standards Compliance
-  - Ease Theme System
-  - Extend with Plugins
-  - Built-in Comments
-  - Search Engine Optimized & Multilingual
-  - Open Source
+    - Simplicity and Flexibility
+    - In-corporate with publishing tools
+    - User Management
+    - Media Management
+    - Full Standards Compliance
+    - Ease Theme System
+    - Extend with Plugins
+    - Built-in Comments
+    - Search Engine Optimized & Multilingual
+    - Open Source
 - What are WordPress hooks?
 
 It is provided by WordPress to allow your plugin to ' hook into' the whole WordPress; that is, to call functions in the plugin at particular times according to your need and thereby set your plugin in motion.

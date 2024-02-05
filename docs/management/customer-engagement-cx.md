@@ -52,7 +52,7 @@ Over time, all marketing strategies result in shitty clickthrough rates.
 There are a few drivers for the Law of Shitty Clickthroughs, and here's a summary of the top ones:
 
 - Customers respond to novelty, which inevitably fades
-  - Banner Blindness
+    - Banner Blindness
 - First-to-market never lasts
 - More scale means less qualified customers
 
@@ -151,11 +151,11 @@ While a universal approach to engage all customers might work in some scenarios,
 Purchase behavior (new vs. returning vs. loyalist), geo-location, device type, time of maximum interaction, etc. are just some of the many factors you can use to slice and dice your lists and divide them into suitable buckets for relevant targeting.
 
 - Create An Omnichannel, Definitive Roadmap To Improve Customer Engagement
-  - Your primary, secondary (and so on) buyer personas and their behavioral attributes and interests
-  - How you will engage these at various touchpoints throughout their purchase journey and beyond
-  - How you will tie together interaction across multiple channels to deliver a flawless, delightful experience
-  - The various opportunities you will be leveraging (such as product launches, topical events, retargeting, etc.) to encourage engagement
-  - An actionable plan you can immediately set in motion
+    - Your primary, secondary (and so on) buyer personas and their behavioral attributes and interests
+    - How you will engage these at various touchpoints throughout their purchase journey and beyond
+    - How you will tie together interaction across multiple channels to deliver a flawless, delightful experience
+    - The various opportunities you will be leveraging (such as product launches, topical events, retargeting, etc.) to encourage engagement
+    - An actionable plan you can immediately set in motion
 
 ## How To Drive Customer Engagement? A Guide On Various Channels
 
@@ -333,26 +333,26 @@ Omnichannel customer support Helpdesk, ITSM solution, Chat solutions, Bot functi
 ## Tools for Customer Success (CSM - Customer Success Manager)
 
 - Adoption Management
-  - Pendo
-  - Gainsight
-  - Tango
+    - Pendo
+    - Gainsight
+    - Tango
 - Co-Browsing
-  - Upscope
-  - Surfly
-  - Acquire
+    - Upscope
+    - Surfly
+    - Acquire
 - Calendar
-  - Calendly
-  - https://youcanbook.me
-  - Acuity
-  - Schedule One
+    - Calendly
+    - https://youcanbook.me
+    - Acuity
+    - Schedule One
 - Surveys
-  - Typeform
-  - AskNicely
-  - Delighted
+    - Typeform
+    - AskNicely
+    - Delighted
 - Metrics
-  - ProfitWell
-  - UserIQ
-  - Customer Success Box
+    - ProfitWell
+    - UserIQ
+    - Customer Success Box
 
 ## Customer Relationship Management (CRM)
 

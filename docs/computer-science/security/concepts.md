@@ -219,9 +219,9 @@ Differential privacy aims to maximize the accuracy of queries from statistical d
 ## Clients
 
 - Confidential Client
-  - Applications running on the server
+    - Applications running on the server
 - Public Client
-  - SPA / JS apps running in browsers / Mobile apps / Embedded devices
+    - SPA / JS apps running in browsers / Mobile apps / Embedded devices
 
 https://www.youtube.com/watch?v=5cQNwifDq1U
 

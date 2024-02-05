@@ -7,11 +7,11 @@
 - Coupon rate / Interest rate on bonds
 - Debt fund factsheet
 - Yield to maturity (YTM) / book yield / redemption yield
-  - Face value
-  - Market price / Par value / At par
-  - At discount (better yields)
-  - At premium (lower yields)
-  - Time value of money (Since the interest will get reinvested, interest at 1st year will be invested for 9 years, whereas interest received at 9th year, will be invested only for 1 year)
+    - Face value
+    - Market price / Par value / At par
+    - At discount (better yields)
+    - At premium (lower yields)
+    - Time value of money (Since the interest will get reinvested, interest at 1st year will be invested for 9 years, whereas interest received at 9th year, will be invested only for 1 year)
 
 Yield to maturity (YTM) is the total return anticipated on a bond if the bond is held until it matures. Yield to maturity is considered a long-term [bond yield](https://www.investopedia.com/terms/b/bond-yield.asp) but is expressed as an annual rate. In other words, it is the [internal rate of return](https://www.investopedia.com/terms/i/irr.asp)(IRR) of an investment in a bond if the investor holds the bond until maturity, with all payments made as scheduled and reinvested at the same rate.
 
@@ -57,10 +57,10 @@ The modified duration (measured in years) of a bond is essentially the sensitivi
 
 - While there are no easy pathways to making money, it seems clear that investors in companies that are targeted in acquisitions (especially hostile ones) earn high returns, but only if they invest before the event
 - There are probit models for predicting companies that will be targeted, and they involve:
-  - You start with all firms that publicly traded at the start of a period
-  - The dependent variable becomes the stand-in for whether a firm is targeted in a hostile acquisition
-  - The independent variables reflect what you believe are key drivers of hostile acquisitions, including poor stock price performance, lagging accounting returns and managers with little or no shareholdings
-  - You build a probit model that will yield as output an equation that resembles a regression, but will yield a probability of a hostile acquisition
+    - You start with all firms that publicly traded at the start of a period
+    - The dependent variable becomes the stand-in for whether a firm is targeted in a hostile acquisition
+    - The independent variables reflect what you believe are key drivers of hostile acquisitions, including poor stock price performance, lagging accounting returns and managers with little or no shareholdings
+    - You build a probit model that will yield as output an equation that resembles a regression, but will yield a probability of a hostile acquisition
 
 ## Links
 

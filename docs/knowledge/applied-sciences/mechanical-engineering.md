@@ -3,24 +3,24 @@
 ## Outline
 
 - [Aerospace engineering](https://en.wikipedia.org/wiki/Aerospace_engineering)
-  - Core
-    - Fluid mechanics
-    - Strength of materials
-    - Aerodynamics
-    - Gas dynamics
-    - Structures
-    - Flight mechanics
-    - Spacecraft dynamics
-    - Orbital mechanics
-    - Rockets and staging
-    - Aircraft design
-  - [Aeronautics](https://en.wikipedia.org/wiki/Aeronautics)
-  - [Astronautics](https://en.wikipedia.org/wiki/Astronautics)
+    - Core
+        - Fluid mechanics
+        - Strength of materials
+        - Aerodynamics
+        - Gas dynamics
+        - Structures
+        - Flight mechanics
+        - Spacecraft dynamics
+        - Orbital mechanics
+        - Rockets and staging
+        - Aircraft design
+    - [Aeronautics](https://en.wikipedia.org/wiki/Aeronautics)
+    - [Astronautics](https://en.wikipedia.org/wiki/Astronautics)
 - [Acoustical engineering](https://en.wikipedia.org/wiki/Acoustical_engineering)
 - [Automotive engineering](https://en.wikipedia.org/wiki/Automotive_engineering)
 - [Biomedical engineering](https://en.wikipedia.org/wiki/Biomedical_engineering)
-  - [Biomechanical engineering](https://en.wikipedia.org/wiki/Biomechanical_engineering)
-  - [Neural engineering](https://en.wikipedia.org/wiki/Neural_engineering)
+    - [Biomechanical engineering](https://en.wikipedia.org/wiki/Biomechanical_engineering)
+    - [Neural engineering](https://en.wikipedia.org/wiki/Neural_engineering)
 - [Continuum mechanics](https://en.wikipedia.org/wiki/Continuum_mechanics)
 - [Fluid mechanics](https://en.wikipedia.org/wiki/Fluid_mechanics)
 - [Heat transfer](https://en.wikipedia.org/wiki/Heat_transfer)
@@ -66,14 +66,14 @@ Frederick Winslow Taylor: Father of industrial engineering and scientific manage
 - The Principles of Scientific Management, 1911
 
 - Biomedical engineering
-  - Defibrillators
-  - Pacemakers
-  - MRI and CT scans
-  - Insulin pumps
-  - Biological modelling
-  - Drug delivery
-  - Cell encapsulation
-  - Synovial fluids
+    - Defibrillators
+    - Pacemakers
+    - MRI and CT scans
+    - Insulin pumps
+    - Biological modelling
+    - Drug delivery
+    - Cell encapsulation
+    - Synovial fluids
 
 ## Law of Conservation
 
@@ -98,36 +98,36 @@ Frederick Winslow Taylor: Father of industrial engineering and scientific manage
 
 - The Branch of Physics and Engineering that focuses on converting energy, often in the form of heat and work. It describes how thermal energy is converted to and from other forms of energy and also to work.
 - Zeroth law of thermodynamics (Thermal Equlibrium)
-  - An equlibrium is where certain properties like pressure, volume, or temperature, remain the same across the system
-  - The **zeroth law of thermodynamics** states that if two [thermodynamic systems](https://en.wikipedia.org/wiki/Thermodynamic_system) are each in [thermal equilibrium](https://en.wikipedia.org/wiki/Thermal_equilibrium) with a third one, then they are in thermal equilibrium with each other. Accordingly, thermal equilibrium between systems is a [transitive relation](https://en.wikipedia.org/wiki/Transitive_relation).
+    - An equlibrium is where certain properties like pressure, volume, or temperature, remain the same across the system
+    - The **zeroth law of thermodynamics** states that if two [thermodynamic systems](https://en.wikipedia.org/wiki/Thermodynamic_system) are each in [thermal equilibrium](https://en.wikipedia.org/wiki/Thermal_equilibrium) with a third one, then they are in thermal equilibrium with each other. Accordingly, thermal equilibrium between systems is a [transitive relation](https://en.wikipedia.org/wiki/Transitive_relation).
 - First Law of thermodynamics (Heat as Energy) (about quantity of energy)
-  - It can neither be created nor destroyed
+    - It can neither be created nor destroyed
 
 The **first law of thermodynamics** is a version of the law of [conservation of energy](https://en.wikipedia.org/wiki/Conservation_of_energy), adapted for [thermodynamic systems](https://en.wikipedia.org/wiki/Thermodynamic_system). The law of conservation of energy states that the total [energy](https://en.wikipedia.org/wiki/Energy) of an [isolated system](https://en.wikipedia.org/wiki/Isolated_system) is constant; energy can be transformed from one form to another, but can be neither created nor destroyed. The first law is often formulated
 
 ![image](../../media/Mechanical-Engineering-image1.jpg)
 
 - The energy inside a system
-  - Kinetic Energy (KE)
-    - The type of energy that's involved with movement
-    - Translational kinetic energy
-    - Rotational kinetic energy
-    - Vibrational kinetic energy
-  - Potential Energy (PE)
-    - Energy that can come from where something is, even if it's not moving
-    - gravitational potential energy
-    - Horizontal potential energy (bow and arrow using elasticity)
-  - Internal Energy
-    - Energy associated with the seemingly random movement of molecules
+    - Kinetic Energy (KE)
+        - The type of energy that's involved with movement
+        - Translational kinetic energy
+        - Rotational kinetic energy
+        - Vibrational kinetic energy
+    - Potential Energy (PE)
+        - Energy that can come from where something is, even if it's not moving
+        - gravitational potential energy
+        - Horizontal potential energy (bow and arrow using elasticity)
+    - Internal Energy
+        - Energy associated with the seemingly random movement of molecules
 - The energy that can move between boundaries
-  - Heat (Q): The flow of thermal energy
-  - Work (W): Essentially any type of energy other than heat
+    - Heat (Q): The flow of thermal energy
+    - Work (W): Essentially any type of energy other than heat
 
 ![image](../../media/Mechanical-Engineering-image2.jpg)
 
 - In closed systems
-  - In stationary system KE and PE is 0
-  - Adiabatic process: where there is no heat transfer
+    - In stationary system KE and PE is 0
+    - Adiabatic process: where there is no heat transfer
 
 ![image](../../media/Mechanical-Engineering-image3.jpg)
 
@@ -136,8 +136,8 @@ The **first law of thermodynamics** is a version of the law of [conservation of 
 ![image](../../media/Mechanical-Engineering-image4.jpg)
 
 - **In open systems**
-  - Enthalpy (H): includes internal energy, but also adds in the energy required to give a system its volume and pressure
-  - Shaft Work (WS): Any type of mechanical energy other than what's necessary for flow
+    - Enthalpy (H): includes internal energy, but also adds in the energy required to give a system its volume and pressure
+    - Shaft Work (WS): Any type of mechanical energy other than what's necessary for flow
 
 ![image](../../media/Mechanical-Engineering-image5.jpg)
 
@@ -150,8 +150,8 @@ A heat engine is a machine or system that converts heat into other forms of ener
 ![image](../../media/Mechanical-Engineering-image6.jpg)
 
 - Second Law of Thermodynamics (about Quality of energy)
-  - States that as energy is transferred or transformed, more and more of it, is wasted. It basically restricts the inter-conversion between heat and work.
-  - Carnot Engine
+    - States that as energy is transferred or transformed, more and more of it, is wasted. It basically restricts the inter-conversion between heat and work.
+    - Carnot Engine
 
 The Carnot cycle is actually a hypothetical process -- It's the most ideal cycle of changing pressures and temperatures in a fluid.
 

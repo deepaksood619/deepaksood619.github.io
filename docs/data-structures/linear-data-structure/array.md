@@ -34,9 +34,9 @@ An array is collection of items stored at continuous memory locations. The idea 
 **Copying Arrays**
 
 - Shallow copy
-  - Create a new list that has the references to the same elements as in first list.
+    - Create a new list that has the references to the same elements as in first list.
 - Deep copy
-  - If elements are mutable, then changing something in first list can change items from the copied list that is copied using shallow copy, to stop that deep copy should be used. Where every element in the list is copied and then new list references the copied elements. (Can use deepcopy function from the copy module)
+    - If elements are mutable, then changing something in first list can change items from the copied list that is copied using shallow copy, to stop that deep copy should be used. Where every element in the list is copied and then new list references the copied elements. (Can use deepcopy function from the copy module)
 
 counters = `[0]*8`
 

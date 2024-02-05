@@ -27,9 +27,9 @@ Hono specifically supports scalable and secure ingestion of large volumes of sen
 - Broker which supports multiple protocols (provided use a motivation to do the same easily)
 - Separates device components as following (on which business application interacts)
 
-  - Authentication
-  - Registry
-  - Messaging Network
+    - Authentication
+    - Registry
+    - Messaging Network
 
 ### Cons
 
@@ -59,14 +59,14 @@ The notion of triggers and actions are leveraged to process incoming events. An 
 
 - **App = Trigger(s) + Actions [&Activities]**
 - **Triggers**
-  - receive data from external sources
-  - are managed by a configurable threading model
-  - have a common interface enabling anyone to build a Flogo trigger
+    - receive data from external sources
+    - are managed by a configurable threading model
+    - have a common interface enabling anyone to build a Flogo trigger
 - **Handlers**
-  - dispatch events to actions
+    - dispatch events to actions
 - **Actions**
-  - process events in a manner suitable with the implementation
-  - have a common interface enabling opinionated event processing capabilities
+    - process events in a manner suitable with the implementation
+    - have a common interface enabling opinionated event processing capabilities
 
 https://github.com/tibcosoftware/flogo
 
@@ -121,9 +121,9 @@ Features at a glance
 - Software update and roll out management.
 - Reporting and monitoring.
 - Interfaces:
-  - for direct device control.
-  - for IoT solutions or applications to manage the repository and the roll outs.
-  - for device management federation (i.e. indirect device control)
-  - and a user interface to operators to manage and run the roll outs.
+    - for direct device control.
+    - for IoT solutions or applications to manage the repository and the roll outs.
+    - for device management federation (i.e. indirect device control)
+    - and a user interface to operators to manage and run the roll outs.
 
 https://github.com/eclipse/hawkbit

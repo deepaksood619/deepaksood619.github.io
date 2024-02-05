@@ -19,23 +19,31 @@ Microproducts - [How I Sold My App For $30,000 In 4 Days | GrowthX Insider - You
 ## AI/ChatGPT
 
 - Interview preparation platform from a live tutor/ai assistant
-  - It can check for communication skills, depth of knowledge, etc
-  - New questions every time during interview/tests
+    - It can check for communication skills, depth of knowledge, etc
+    - New questions every time during interview/tests
 - Startup for creating advert from given text input
 - Give whole schema and model to the LLM, and directly ask questions in plain english for analysis and dashboards
-  - Automate data analytics and data engineering tasks
-  - Automatically write the most efficient SQL query and give the answer
-  - No need to create powerbi reports / write sql queries / create visualization, will choose best graph/plots/visualization, add refresh intervals, etc
+    - Automate data analytics and data engineering tasks
+    - Automatically write the most efficient SQL query and give the answer
+    - No need to create powerbi reports / write sql queries / create visualization, will choose best graph/plots/visualization, add refresh intervals, etc
 - Generative AI Startups
-  - Webtoons / Blocktoons / MangaPlus but by AI artists
+    - Webtoons / Blocktoons / MangaPlus but by AI artists
 - Subjective Paper scoring using chatgpt
-  - Coding using chatgpt and not only coding for functions but full repositories. Having context of whole repository and tell which file and what line to change
+    - Coding using chatgpt and not only coding for functions but full repositories. Having context of whole repository and tell which file and what line to change
 - During interviews, automatic captions can be sent to chatgpt for giving answers directly
 - AI Manager (single person can manage large number of people using Tech)
 - Ai hiring - Hiring Portal
-  - Candidates agreement using ai
-  - Coding test taking platform end to end, free of cost, very cost competitive
-  - Something like Turing
+    - Candidates agreement using ai
+    - Coding test taking platform end to end, free of cost, very cost competitive
+    - Something like Turing
+
+#### One tool where you can do everything
+
+Chat, video call, tasks, documentation, share, email, status, follow-ups, no manger needed for review auto follow-ups, auto recognitions, auto reviews, auto hiring PIPs, etc, for all the teams powered by AI and LLM
+
+LLM HR and LLM manager, LLM payroll, LLM account manager, LLM sales, LLM marketing, LLM operations, LLM customer support, LLM counseler, LLM companion
+
+LLM that can finish your sentences, can read your minds, real time conversation
 
 ### Economics of Data Business
 
@@ -94,10 +102,10 @@ Free Coding test taking platform (Think exam but free)
 Money Investment Portal
 
 - Only 1 investment type
-  - Will be allocated and rebalanced automatically
-  - Savings + FD + RD + Mutual Fund + Gilt + Stocks according to goals you define
-  - Add Goals when you need money, and it automatically tells all allocations, and do it for you
-  - Will move from equity to debt automatically when the goal is near
+    - Will be allocated and rebalanced automatically
+    - Savings + FD + RD + Mutual Fund + Gilt + Stocks according to goals you define
+    - Add Goals when you need money, and it automatically tells all allocations, and do it for you
+    - Will move from equity to debt automatically when the goal is near
 
 Diet chart + what should I eat today along with recipe
 
@@ -218,8 +226,8 @@ Kubernetes
 Single Tier Architecture which automatically generates 3/4 tier architecture
 
 - We give root credentials to database
-  - Automatically creates api for frontend to access only that specific data and nothing else with all rate limits and all.
-  - Automatically handles token / auth for frontend to access database
+    - Automatically creates api for frontend to access only that specific data and nothing else with all rate limits and all.
+    - Automatically handles token / auth for frontend to access database
 
 ### Study Projects
 
@@ -241,7 +249,7 @@ Hyperspectral imaging
 ### Others
 
 - Standalone chat bot for android
-  - AI generated models, CS representatives
+    - AI generated models, CS representatives
 - Hyper-Casual games
 - Zero-Profit Distributed stores
 - https://hate2wait.io

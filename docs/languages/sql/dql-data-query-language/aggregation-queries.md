@@ -94,8 +94,8 @@ A shorthand notation to add all `SELECT`-list expressions not containing aggrega
 - GROUP BY clause does not support the use of column alias, but the actual names
 - GROUP BY clause can only be used with aggregate functions like SUM, AVG, COUNT, MAX, and MIN
 - Aggregate functions cannot be used in a GROUP BY clause
-  - Use Inner query for solving this
-  - Example -
+    - Use Inner query for solving this
+    - Example -
 
 ```sql
 SELECT

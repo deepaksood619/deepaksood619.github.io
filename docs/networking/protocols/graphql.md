@@ -32,16 +32,16 @@ https://xuorig.medium.com/the-graphql-dataloader-pattern-visualized-3064a00f319f
 - Schema Definition Language (Used to define the schema of an API)
 - Defining Types (Type system allows us to check if query is valid or not before resolving the query)
 - Sending Queries and Mutations
-  - Queries with Arguments (extra information sent with query and mutation)
+    - Queries with Arguments (extra information sent with query and mutation)
 - Mutations
-  - Creating new data
-  - Updating existing data
-  - Deleting existing data
+    - Creating new data
+    - Updating existing data
+    - Deleting existing data
 - Subscriptions
 - Resolvers
 - Variables
 - Inspection
-  - This allows us to know the schema using introspection and see documentation of all the endpoints with autocomplete in clients like Graphiql
+    - This allows us to know the schema using introspection and see documentation of all the endpoints with autocomplete in clients like Graphiql
 
 ## Security
 

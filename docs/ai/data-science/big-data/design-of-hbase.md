@@ -40,8 +40,8 @@
 - HMaster: Monitoring all RegionServer instances in the cluster
 - Regions: Basic element of availability and distribution for tables
 - RegionServer
-  - Serving and managing regions
-  - In a distributed cluster, a RegionServer runs on a DataNode
+    - Serving and managing regions
+    - In a distributed cluster, a RegionServer runs on a DataNode
 - Tables are divided into sequences of rows, by key range, called regions
 - These regions are then assigned to the data nodes in the cluster called "RegionServers"
 

@@ -158,8 +158,8 @@ https://marcellus.in/newsletter/little-champs/introducing-little-champs-our-smal
 - Free cash flow = Return on capital - Cost of capital
 - Government tries to control news media
 - Government will never let go of money (Money vs Modern State)
-  - Modern states cannot exist without controlling money
-  - State will never let go it's money
+    - Modern states cannot exist without controlling money
+    - State will never let go it's money
 - Junk science (doomscrolling)
 - Poor man is more independent than rich man since rich man has to worry about money
 

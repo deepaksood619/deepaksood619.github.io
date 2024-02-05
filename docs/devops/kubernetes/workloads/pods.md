@@ -7,10 +7,10 @@ A Pod encapsulates an application container (or, in some cases, multiple contain
 - Group of one or more containers that are always co-located, co-scheduled, and run in a shared context
 - Containers in the same pod have the same hostman
 - Each pod is isolated by
-  - Process ID (PID) namespace
-  - Network namespace
-  - Interprocess Communication (IPC) namespace
-  - Unix Time Sharing (UTS) namespace
+    - Process ID (PID) namespace
+    - Network namespace
+    - Interprocess Communication (IPC) namespace
+    - Unix Time Sharing (UTS) namespace
 - Alternative to a VM with multiple processes
 - A Pod does not provide self-healing functionality. It is **ephemeral**. When a Pod dies, it's gone.
 

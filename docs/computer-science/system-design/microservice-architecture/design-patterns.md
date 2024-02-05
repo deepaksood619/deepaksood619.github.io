@@ -18,8 +18,8 @@ https://www.edureka.co/blog/microservices-design-patterns
 ![image](../../../media/Microservice-Architecture_Design-Patterns-image1.jpg)
 
 - Decomposition patterns
-  - [Decompose by business capability](https://microservices.io/patterns/decomposition/decompose-by-business-capability.html)
-  - [Decompose by subdomain](https://microservices.io/patterns/decomposition/decompose-by-subdomain.html)
+    - [Decompose by business capability](https://microservices.io/patterns/decomposition/decompose-by-business-capability.html)
+    - [Decompose by subdomain](https://microservices.io/patterns/decomposition/decompose-by-subdomain.html)
 
 ## Functional Decomposition
 
@@ -36,16 +36,16 @@ https://en.wikipedia.org/wiki/Functional_decomposition- The [Database per Servic
 - [Circuit Breaker](https://microservices.io/patterns/reliability/circuit-breaker.html)
 - [Access Token](https://microservices.io/patterns/security/access-token.html)
 - Observability patterns:
-  - [Log aggregation](https://microservices.io/patterns/observability/application-logging.html)
-  - [Application metrics](https://microservices.io/patterns/observability/application-metrics.html)
-  - [Audit logging](https://microservices.io/patterns/observability/audit-logging.html)
-  - [Distributed tracing](https://microservices.io/patterns/observability/distributed-tracing.html)
-  - [Exception tracking](https://microservices.io/patterns/observability/exception-tracking.html)
-  - [Health check API](https://microservices.io/patterns/observability/health-check-api.html)
-  - [Log deployments and changes](https://microservices.io/patterns/observability/log-deployments-and-changes.html)
+    - [Log aggregation](https://microservices.io/patterns/observability/application-logging.html)
+    - [Application metrics](https://microservices.io/patterns/observability/application-metrics.html)
+    - [Audit logging](https://microservices.io/patterns/observability/audit-logging.html)
+    - [Distributed tracing](https://microservices.io/patterns/observability/distributed-tracing.html)
+    - [Exception tracking](https://microservices.io/patterns/observability/exception-tracking.html)
+    - [Health check API](https://microservices.io/patterns/observability/health-check-api.html)
+    - [Log deployments and changes](https://microservices.io/patterns/observability/log-deployments-and-changes.html)
 - UI patterns:
-  - [Server-side page fragment composition](https://microservices.io/patterns/ui/server-side-page-fragment-composition.html)
-  - [Client-side UI composition](https://microservices.io/patterns/ui/client-side-ui-composition.html)
+    - [Server-side page fragment composition](https://microservices.io/patterns/ui/server-side-page-fragment-composition.html)
+    - [Client-side UI composition](https://microservices.io/patterns/ui/client-side-ui-composition.html)
 
 https://microservices.io/patterns/microservices.html
 

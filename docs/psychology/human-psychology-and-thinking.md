@@ -62,34 +62,34 @@ https://www.collaborativefund.com/blog/think
 [The original ring of power - Alex Gendler](https://www.youtube.com/watch?v=TfVmW6sNux8)
 
 - Why people act justly
-  - Is it because it's what's right
-  - Or because it's a convention that's enforced through punishment and reward?
+    - Is it because it's what's right
+    - Or because it's a convention that's enforced through punishment and reward?
 - If presented an opportunity to get what they desired without consequence?
 - 3 Classes
-  - We desire things for their own sake, like the experience of harmless pleasure
-  - The second class of things we want only for the value they bring, though they may be onerous, like exercise or medicine
-  - The third class comprises things we desire for their own sake and the value they offer, like knowledge and health
+    - We desire things for their own sake, like the experience of harmless pleasure
+    - The second class of things we want only for the value they bring, though they may be onerous, like exercise or medicine
+    - The third class comprises things we desire for their own sake and the value they offer, like knowledge and health
 - Glaucon argues that justice belongs to the second class of good: it's a burden that nevertheless brings rewards. The only reason anyone conducts themselves virtuously, he reasons, is due to external influences. So it's appearing, not actually being, virtuous that matters
 - Socrates, as written by Plato, disagrees, countering that justice belongs to the third class of good, offering both extrinsic and intrinsic benefits.
 - Human soul has 3 parts: Reason, spirt, and appetite
-  - Reason guides an individual to truth and knowledge, and is influenced by either spirit or appetite
-  - Spirit is righteous, ambitious, and the source of bold action
-  - While appetite consists of baser (without moral principles), bodily desires
+    - Reason guides an individual to truth and knowledge, and is influenced by either spirit or appetite
+    - Spirit is righteous, ambitious, and the source of bold action
+    - While appetite consists of baser (without moral principles), bodily desires
 - To Socrates, the philosopher is led by reason, and their spirit keeps their appetite in check, making them the most just and the happiest. Even without consequences for self-serving wrongdoings, they wouldn't commit them
 - Meanwhile, the tyrant succumbs to appetite and acts unjustly
 
 [ATLAS OF THE HEART by Brené Brown | Core Message](https://www.youtube.com/watch?v=NNdN14bosbA)
 
 - Envy
-  - If I can't have that, I don't want you to have that
-  - Schadenfreude - taking please in someone else's misfortune
-  - Freudenfreude - taking pleasure in someone else's success
+    - If I can't have that, I don't want you to have that
+    - Schadenfreude - taking please in someone else's misfortune
+    - Freudenfreude - taking pleasure in someone else's success
 - Pity
-  - Pity - I'm glad that's not me. That couldn't happen to me
-  - Compassion - Me too. That could be me
-    - Ask what their experience is like?
-    - Accept
-    - Clarify
+    - Pity - I'm glad that's not me. That couldn't happen to me
+    - Compassion - Me too. That could be me
+        - Ask what their experience is like?
+        - Accept
+        - Clarify
 - Disappointment
 
 ## Mindwandering

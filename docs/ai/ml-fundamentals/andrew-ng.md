@@ -37,13 +37,13 @@ Every nxm matrix can be written as a product of three smaller matrices.
 ![image](../../media/Andrew-NG-image7.jpg)
 
 - SVD appreas in lots of places
-  - Statistics (PCA)
-  - Chemical physics
-  - Image processing
-  - Genomics
-  - Robotics
-  - Quantum physics (entanglement)
-  - Data embeddings / vector embeddings
+    - Statistics (PCA)
+    - Chemical physics
+    - Image processing
+    - Genomics
+    - Robotics
+    - Quantum physics (entanglement)
+    - Data embeddings / vector embeddings
 
 ## Gradient Descent for Linear regression with one variable
 

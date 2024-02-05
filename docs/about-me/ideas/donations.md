@@ -13,9 +13,9 @@ Donor - finds a person and donate the required item or buy for him/her
 
 - Donate only to https://www.guidestar.org platinum seal of transparency
 - KhanAcademy, Khan Academy
-  - https://khanacademyannualreport.org/financial-information
+    - https://khanacademyannualreport.org/financial-information
 - Freecodecamp
-  - [Free Code Camp Inc - GuideStar Profile](https://www.guidestar.org/profile/82-0779546)
+    - [Free Code Camp Inc - GuideStar Profile](https://www.guidestar.org/profile/82-0779546)
 - givewell.org
 - Charitable organization, where donates can be directly facilitate study of some kid, directly interact with him/her (Full transparency)
 - Wikipedia (Gave Rs. 1000 on 29 July 2020)

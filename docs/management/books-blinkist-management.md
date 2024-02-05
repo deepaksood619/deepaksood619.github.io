@@ -14,16 +14,16 @@
 - Good leaders understand the power of meaningful communication, so ban mobile phones from the meeting room
 - Great leaders share three attributes, but poor leaders tend to have one thing in common
 
-  - Self confidence - calm under pressure
+    - Self confidence - calm under pressure
 
-  - Proactive spirit
+    - Proactive spirit
 
-  - Deligent and reliable
+    - Deligent and reliable
 
-  - Inspire loyalty
+    - Inspire loyalty
 - Terrible leadership at work has terrible implications at home
 
-  - kick the dog behavior
+    - kick the dog behavior
 - The best leaders promote trust and make sure staff feel cared for and valued
 - Effective, stress-free leaders stay calm and confident under pressure and don't worry about what they can't control
 
@@ -65,16 +65,16 @@ Inovation is the key to success, and it comes from poking the box, seeing what t
 We fail to remember all the times the weather prediction was correct
 
 - Calibration training can improve probability estimation by reducing overconfidence
-  - Test for ranges
-  - Post-mortem analysis
+    - Test for ranges
+    - Post-mortem analysis
 - Estimate your risks with the most accuracy by using the Monte Carlo Simulation
 - Technique of deconstruction
 
 Calculate risk of all parts of a system individually and then between them.
 
 - Compare your model to real facts and determine what additional information is worth to you.
-  - Expected value of additional information
-  - Expected opportunity loss **(expected cost of being wrong)**
+    - Expected value of additional information
+    - Expected opportunity loss **(expected cost of being wrong)**
 - Build a **scenario library -** a collection of standard corporate risk scenarios replete with a set of variables and correlations.
 
 ## The five most important questions you will ever ask about your organization by Peter F. Drucker (9 July 2018)
@@ -141,7 +141,7 @@ Why the world needs more everyday leaders and why that leader is you
 How to communicate effectively with everyone you lead
 
 - **Nurturers** look out for others rather than themselves, and often go unheard
-  - values the input of others and emphasizes group harmony
+    - values the input of others and emphasizes group harmony
 - **Creatives** are the voices of innovation, but people often struggle to understand their ideas
 - **Guardians** seek to protect traditional values and are highly pragmatic
 - **Connectors** bring people together, forge new bonds and maintain existing relationships
@@ -207,10 +207,10 @@ How to master the most important skill for success
 - Reciprocity Ring (pay it forward)
 - Psychological safety in workplace
 - Types
-  - The overly generous givers
-  - The selfish takers
-  - The loan wolves
-  - The giver requester
+    - The overly generous givers
+    - The selfish takers
+    - The loan wolves
+    - The giver requester
 
 ## Blinkist - Think like an entrepreneur, act like a CEO by Beverly E. Jones (14 Jan 2019)
 

@@ -91,28 +91,28 @@ https://www.funretrospectives.com
 ### Bots
 
 - **Standup**
-  - Dixiapp - https://dixiapp.com
-  - Geekbot
-  - Standuply
-  - Google Meet Attendance List - Chrome extension
+    - Dixiapp - https://dixiapp.com
+    - Geekbot
+    - Standuply
+    - Google Meet Attendance List - Chrome extension
 - **Team building**
-  - [Donut](https://zapier.com/blog/best-free-slack-apps/#donut): Get to know your co-workers better
-  - [Icebreakers](https://zapier.com/blog/best-free-slack-apps/#icebreakers): Introduce new team members
-  - Greetbot
-  - [Lunch Train](https://zapier.com/blog/best-free-slack-apps/#lunchtrain): Plan team lunches with ease
-  - [Flexbot](https://zapier.com/blog/best-free-slack-apps/#flexbot): Encourage healthy habits, automatically
-  - [GoodRipple](https://zapier.com/blog/best-free-slack-apps/#goodripple): Spread happiness throughout your company
-  - [Stop, Breathe & Think](https://zapier.com/blog/best-free-slack-apps/#stopbreathethink): Practice mindfulness at work
-  - Birthday bot
+    - [Donut](https://zapier.com/blog/best-free-slack-apps/#donut): Get to know your co-workers better
+    - [Icebreakers](https://zapier.com/blog/best-free-slack-apps/#icebreakers): Introduce new team members
+    - Greetbot
+    - [Lunch Train](https://zapier.com/blog/best-free-slack-apps/#lunchtrain): Plan team lunches with ease
+    - [Flexbot](https://zapier.com/blog/best-free-slack-apps/#flexbot): Encourage healthy habits, automatically
+    - [GoodRipple](https://zapier.com/blog/best-free-slack-apps/#goodripple): Spread happiness throughout your company
+    - [Stop, Breathe & Think](https://zapier.com/blog/best-free-slack-apps/#stopbreathethink): Practice mindfulness at work
+    - Birthday bot
 - **PTO requests and shift management**
-  - [TimeBot](https://zapier.com/blog/best-free-slack-apps/#timebot): Manage vacation time, sick leave, and holidays
-  - AttendanceBot
-  - Doodle Bot
+    - [TimeBot](https://zapier.com/blog/best-free-slack-apps/#timebot): Manage vacation time, sick leave, and holidays
+    - AttendanceBot
+    - Doodle Bot
 - **Others**
-  - Poly/Polly (Pulse Survey)
-    - https://forms.gle/ZhbT6fPhZefMkBpMA
-    - https://www.polly.ai/template/team-happiness-pulse-survey
-    - https://www.polly.ai/template/remote-pulse-check-in
+    - Poly/Polly (Pulse Survey)
+        - https://forms.gle/ZhbT6fPhZefMkBpMA
+        - https://www.polly.ai/template/team-happiness-pulse-survey
+        - https://www.polly.ai/template/remote-pulse-check-in
 
 ## Tools / SAAS
 

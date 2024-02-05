@@ -63,12 +63,12 @@ Humans cannot be trusted, they trust software more than other humans - Haven't y
 [Why AI Will Spark Exponential Economic Growth | Cathie Wood | TED - YouTube](https://www.youtube.com/watch?v=rQEh7d-qa38&ab_channel=TED)
 
 - Old
-  - Telephone
-  - Electricity
-  - Automobile
+    - Telephone
+    - Electricity
+    - Automobile
 - New
-  - Artificial Intelligence
-  - Public Blockchains
-  - Energy Storage
-  - Robotics (Autonomous Vehicles)
-  - Multinomic Sequencing
+    - Artificial Intelligence
+    - Public Blockchains
+    - Energy Storage
+    - Robotics (Autonomous Vehicles)
+    - Multinomic Sequencing

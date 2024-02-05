@@ -32,9 +32,9 @@ Indus valley civilization
 - Traded cotton cloth with mesopotamia
 - No signs of warfare and no weapons
 - Around 1750 BCE declined
-  - conquest (by carcauses)
-  - Environmental disaster
-  - Earthquake
+    - conquest (by carcauses)
+    - Environmental disaster
+    - Earthquake
 
 ### 3. Mesopotamia
 
@@ -52,10 +52,10 @@ Indus valley civilization
 - All the egypt was located on the sides of nile river
 - It provided transport and twice a year flooding with rich nutrients for agriculture
 - **Dynasties**
-  - Old kingdom (2649 BCE - 2152 BCE)
-  - Middle kingdom (2040 BCE - 1640 BCE)
-  - New kingdom (1550 BCE - 1070 BCE)
-  - In between there were intermediate kingdoms
+    - Old kingdom (2649 BCE - 2152 BCE)
+    - Middle kingdom (2040 BCE - 1640 BCE)
+    - New kingdom (1550 BCE - 1070 BCE)
+    - In between there were intermediate kingdoms
 - Great pyramid for pharoah kufu
 - Heiroglyphics (sacred writing) and demotic script (recording contracts and agreements)
 - King Tut
@@ -110,22 +110,22 @@ Four noble truths
 - The source of suffering is desire
 - To stop suffering, you must get rid of desire
 - Follow the 8 folds paths
-  - Right view
-  - Right intention
-  - Right speech
-  - Right action
-  - Right livelihood
-  - Right effort
-  - Right mindfulness
-  - Right concentration
+    - Right view
+    - Right intention
+    - Right speech
+    - Right action
+    - Right livelihood
+    - Right effort
+    - Right mindfulness
+    - Right concentration
 
 Snakes & Ladders invented in India
 
 ### 7. Ashoka from Mauryan dynasty
 
 - United twice
-  - Mauryan Dynasty (321 - 185 BCE)
-  - Gupta Dyansty (320 - 550 CE)
+    - Mauryan Dynasty (321 - 185 BCE)
+    - Gupta Dyansty (320 - 550 CE)
 - Got into Buddhism after his army destroyed the Kingdom of Kalinga
 - Build stupas
 

@@ -159,17 +159,17 @@ https://www.edx.org/course/finance-everyone-smart-tools-decision-michiganx-fin10
 - Exit option at 5 years and maturity at 8 years
 - No tax on capital gain
 - SGB are tradable on stock exchange
-  - Capital gain is taxable
-  - LTCG with indexation available
+    - Capital gain is taxable
+    - LTCG with indexation available
 - No TDS (pay in returns)
 - 4KG per individual per year limit
 - [Best Ways to Invest in Gold | Sovereign Gold Bond vs ETFs vs Mutual Fund vs Digital & Physical Gold - YouTube](https://www.youtube.com/watch?v=sJR0ge1779w)
 - [How to Invest in Gold | Sovereign Gold Bonds (SGB) vs Digital Gold vs Gold ETF vs Gold Mutual Fund - YouTube](https://www.youtube.com/watch?v=9UWNdpryusM)
 - Sold before 3 years - Short Term Capital Gains
-  - Gains added to income
-  - Taxed as per income tax slab
+    - Gains added to income
+    - Taxed as per income tax slab
 - Sold after 3 years - Long term Capital Gains
-  - 20% tax after indexation
+    - 20% tax after indexation
 
 [Calculated the Returns | Gold vs Digital Gold vs SGB vs ETF | SHOCKING RESULTS | LLA - YouTube](https://www.youtube.com/watch?v=UcXeVBMbC_E)
 
@@ -225,7 +225,7 @@ https://freefincal.com/build-equity-mutual-fund-portfolio
 ## Tips
 
 - Invest less during bullish market (SIP 25%)
-  - importance of not getting caught up in bull markets - speculative investments during bull markets can lead to huge loss of principal investment.
+    - importance of not getting caught up in bull markets - speculative investments during bull markets can lead to huge loss of principal investment.
 - Invest more during bearish market (SIP 75%)
 
 ## Resources

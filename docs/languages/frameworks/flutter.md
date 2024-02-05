@@ -16,7 +16,7 @@ Hamiltion app
 
 - Ticket Lottery system
 - Ecommerce for buying merchandise
-  - with firebase functions and flutter
+    - with firebase functions and flutter
 - location based overlays
 - In 3 months time
 - Both for android + IOS
@@ -45,17 +45,17 @@ Hamiltion app
 ## Example app
 
 - **Dependencies**
-  - Only using firebase admin and firebase functions
-  - Use TypeScript + Webpack
+    - Only using firebase admin and firebase functions
+    - Use TypeScript + Webpack
 - **Features**
-  - No node
-  - No express
-  - No middleware
-  - No networking code to write or manage
-  - Authentication and error handling in Firebase SDK
-  - High scale, real-time performance
-  - No servers to provision or manage, automatic scaling
-  - No web servers, OS's or libraries to maintain and patch
+    - No node
+    - No express
+    - No middleware
+    - No networking code to write or manage
+    - Authentication and error handling in Firebase SDK
+    - High scale, real-time performance
+    - No servers to provision or manage, automatic scaling
+    - No web servers, OS's or libraries to maintain and patch
 
 ## Flutter
 

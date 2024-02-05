@@ -8,16 +8,16 @@ In today's digitally transformed world, it's more important than ever to have a 
 
 - A/B test campaign
 - Analytics
-  - Usage
-  - Revenue
-  - Events
-  - Funnels
-  - Demographics
-  - Campaigns
-  - Transactional Messages
+    - Usage
+    - Revenue
+    - Events
+    - Funnels
+    - Demographics
+    - Campaigns
+    - Transactional Messages
 - Journeys
-  - Create workflows / User journey
-  - What happens when user clicked, which next emails to send
+    - Create workflows / User journey
+    - What happens when user clicked, which next emails to send
 - Send all events to Kinesis, where we can send that to elasticsearch and then visualize using kibana
 
 ## 3 core components
@@ -96,17 +96,17 @@ In addition to these channels, you can also extend the capabilities to meet your
 ## Metrics
 
 - **Delivery count metrics--** This section provides information about the delivery of the messages that were sent from your campaign. It includes the following information:
-  - **Messages sent--** The number of messages that were sent.
-  - **Messages delivered--** The number of messages that were delivered to their recipients.
-  - **Links clicked--** The number of times that links in the messages were clicked by recipients. If a single recipient clicks a link more than once, each click is represented in this section.
-  - **Endpoint deliveries--** The average number of endpoints that the campaign was sent to, for each day in the chosen date range. The chart shows the number of endpoints that the campaign was delivered to, for each day in the chosen date range.
+    - **Messages sent--** The number of messages that were sent.
+    - **Messages delivered--** The number of messages that were delivered to their recipients.
+    - **Links clicked--** The number of times that links in the messages were clicked by recipients. If a single recipient clicks a link more than once, each click is represented in this section.
+    - **Endpoint deliveries--** The average number of endpoints that the campaign was sent to, for each day in the chosen date range. The chart shows the number of endpoints that the campaign was delivered to, for each day in the chosen date range.
 - **Delivery rate metrics--** This section shows the overall delivery and response rates for the messages that were sent from your campaign. It includes the following information:
-  - **Delivery rate--** The percentage of messages that were delivered to recipients, of the total number of endpoints that you targeted in the segment that you sent this campaign to.
-  - **Email open rate--** The percentage of messages that were opened by recipients, of the total number of messages that were delivered.
-  - **Bounce rate--** The percentage of messages that weren't delivered to recipients because they bounced. This value includes only hard bounces - that is, messages that bounced because of a permanent issue. For example, hard bounces could occur when the recipient's email address doesn't exist, or when the recipient permanently rejects email from your domain.
+    - **Delivery rate--** The percentage of messages that were delivered to recipients, of the total number of endpoints that you targeted in the segment that you sent this campaign to.
+    - **Email open rate--** The percentage of messages that were opened by recipients, of the total number of messages that were delivered.
+    - **Bounce rate--** The percentage of messages that weren't delivered to recipients because they bounced. This value includes only hard bounces - that is, messages that bounced because of a permanent issue. For example, hard bounces could occur when the recipient's email address doesn't exist, or when the recipient permanently rejects email from your domain.
 - **Campaign runs--** This section shows information that's specific to each time the campaign ran. Because you can use Amazon Pinpoint to create recurring campaigns, this section can show information for several campaign runs. However, if you completed the procedures in this tutorial, this section contains information for only one campaign run because you ran the campaign only once. This section contains the following metrics, in addition to the metrics that are defined in the preceding sections:
-  - **Endpoints targeted--** The number of endpoints that were targeted by the segment that was associated with the campaign run. This number includes endpoints that were part of the segment, but didn't receive the message.
-  - **Total email opened--** The total number of times that messages sent from the campaign run were opened. For example, if a message was opened two times by one recipient, both of those opens are counted.
+    - **Endpoints targeted--** The number of endpoints that were targeted by the segment that was associated with the campaign run. This number includes endpoints that were part of the segment, but didn't receive the message.
+    - **Total email opened--** The total number of times that messages sent from the campaign run were opened. For example, if a message was opened two times by one recipient, both of those opens are counted.
 
 ## Email
 

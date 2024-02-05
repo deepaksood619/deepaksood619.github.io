@@ -59,43 +59,43 @@ https://blog.minitab.com/en/adventures-in-statistics-2/how-to-interpret-regressi
 ## Solving for the θ's
 
 - Problem is equivalent to inverting X' X matrix
-  - Inverse does not exist if matrix is not of full rank
-    - E.g., if 1 column is a linear combination of another (collinearity)
-    - Note that X'X is closely related to the covariance of the X data
-      - So we are in trouble if 2 or more variables are perfectly correlated
-    - Numberical problems can also occur if variables are almost collinear
+    - Inverse does not exist if matrix is not of full rank
+        - E.g., if 1 column is a linear combination of another (collinearity)
+        - Note that X'X is closely related to the covariance of the X data
+            - So we are in trouble if 2 or more variables are perfectly correlated
+        - Numberical problems can also occur if variables are almost collinear
 - Equivalent to solving a system of p linear equations
-  - Many good numerical methods for doing this, e.g.,
-    - Gaussian elimination, LU decomposition, etc
-  - These are numerically more stable than direct inversion
+    - Many good numerical methods for doing this, e.g.,
+        - Gaussian elimination, LU decomposition, etc
+    - These are numerically more stable than direct inversion
 - Alternative: gradient descent
-  - Compute gradient and move downhill
+    - Compute gradient and move downhill
 
 ## Multivariate Linear Regression
 
 - Prediction model is a inear function of the parameters
 - Score function: quadratic in predictions and parameters
-  - Derivative of score is linear in the parameters
-  - Leads to a linear algebra optimization problem, i.e., C θ = b
+    - Derivative of score is linear in the parameters
+    - Leads to a linear algebra optimization problem, i.e., C θ = b
 
 - Model structure is simple
-  - p-1 dimensional hyperplane in p-dimensions
-  - Linear weights => Interpretability
+    - p-1 dimensional hyperplane in p-dimensions
+    - Linear weights => Interpretability
 - Often useful as a baseline model
-  - e.g., to compare more complex models to
+    - e.g., to compare more complex models to
 - Note: even if it's the wrong model for the data (e.g., a poor fit) it can still be useful for prediction
 
 ## Limitations of Linear Regression
 
 - True relationship of X and Y might be non-linear
-  - Suggests generalizations to non-linear models
+    - Suggests generalizations to non-linear models
 - Complexity
-  - O(N p^2^ + p^3^) - problematic for large p
+    - O(N p^2^ + p^3^) - problematic for large p
 - Correlation / Collinearity among the X variables
-  - Can cause numerical instability (C may be ill-conditioned)
-  - Problems in interpretability (indentifiability)
+    - Can cause numerical instability (C may be ill-conditioned)
+    - Problems in interpretability (indentifiability)
 - Includes all variables in the model
-  - But what if p=1000 and only 3 variables are actually related to Y?
+    - But what if p=1000 and only 3 variables are actually related to Y?
 
 ![image](../../media/Linear-regression-image5.jpg)
 
@@ -142,15 +142,15 @@ The residuals should be normally distributed
 ## Collinearity Diagnostics
 
 - Multicollinearity can cause coefficient estimates on the independent variables to become unreliable and volatile
-  - It reduces the precision of these coefficients and the statistical power of the regression
-  - It generally does not influent the predictions or precision of the predictions
+    - It reduces the precision of these coefficients and the statistical power of the regression
+    - It generally does not influent the predictions or precision of the predictions
 - The multicollinearity in a multiple regression can be measured with a **variance inflation factor (VIF)**
-  - A VIF greater than 5 indicates sever multicollinearity
-  - A VIF between 1 and 4 indicates moderate multicollinearity
+    - A VIF greater than 5 indicates sever multicollinearity
+    - A VIF between 1 and 4 indicates moderate multicollinearity
 - If there is multicollinearity, you can
-  - Try replacing or removing one of a pair of independent variables that are correlated
-  - Run individual simple regressions against the indepedent variables
-  - Do nothing, use the multiple regression for predictions, and don't over read the coefficients on variables
+    - Try replacing or removing one of a pair of independent variables that are correlated
+    - Run individual simple regressions against the indepedent variables
+    - Do nothing, use the multiple regression for predictions, and don't over read the coefficients on variables
 
 ## Prediction Errors from Regression: Homoskedasticity and Heteroskedasticity
 

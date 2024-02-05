@@ -3,9 +3,9 @@
 ## Internet of Things Optimization
 
 - Monte Carlo vs Dynamic Programming
-  - No need for a complete Markov Decision Process
-  - Computationally more efficient
-  - Can be used with stochastic simulations
+    - No need for a complete Markov Decision Process
+    - Computationally more efficient
+    - Can be used with stochastic simulations
 - In model-free reinforcement learning, as opposed to model based, we don't know the reward function and the transition function beforehand we have to learn them though experience.
 - A model-free learning technique called monte carlo uses repeated random sampling to obtain numerical results
 - In first visite monte carlo the state value function is defined as the average of the returns following the agents first visit to S in a set of episodes
@@ -41,10 +41,10 @@ https://en.wikipedia.org/wiki/Multi-armed_bandit
 
     3. Otherwise take a random action
 - First visit optimization
-  - What happens if we visit the same state more than once
-  - It's been proven the subsequent visits doesn't change the answer
-  - All we need is the first visit
-  - We throw rest of the data away
+    - What happens if we visit the same state more than once
+    - It's been proven the subsequent visits doesn't change the answer
+    - All we need is the first visit
+    - We throw rest of the data away
 - Monte Carlo Q Learning Algorithm
 
 ![image](../../media/3.-Monte-Carlo-Methods-image1.jpg)
@@ -70,11 +70,11 @@ Policy Iteration is a combination of prediction and control to find optimal poli
 There are two types of policy learning methods -
 
 - **On policy learning**
-  - This methodlearns on the job, it evaluates or improves the policy that used to make the decisions.
-  - We must act based on our current policy
+    - This methodlearns on the job, it evaluates or improves the policy that used to make the decisions.
+    - We must act based on our current policy
 - **Off policy learning**
-  - This method evaluates one policy while following another policy. The earlier is called target policy which may be deterministic and thelatterbehaviorpolicy is stochastic.
-  - Any action is okay
+    - This method evaluates one policy while following another policy. The earlier is called target policy which may be deterministic and thelatterbehaviorpolicy is stochastic.
+    - Any action is okay
 
 ### Model Free Learning
 

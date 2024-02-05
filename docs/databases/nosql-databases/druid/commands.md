@@ -68,10 +68,10 @@ curl -XPOST -H'Content-Type: application/json' -d @smap-kafka-supervisor-spec.js
 - 8081: coordinator (for seeing clusters and datasources
 - 8090: overlord (for managing supervisor spec and tasks)
 - Others
-  - 8082: broker
-  - 8083: historical
-  - 8091: middlemanager
-  - 2181: zookeeper
+    - 8082: broker
+    - 8083: historical
+    - 8091: middlemanager
+    - 2181: zookeeper
 
 ### Debugging
 
@@ -212,10 +212,10 @@ http://10.9.1.21:8888/unified-console.html
 - Compression - 1:10
 - Number of hyper threads
 - Concurrency of queries
-  - 4 gb/s per hyperthread - how much data you are consuming
+    - 4 gb/s per hyperthread - how much data you are consuming
 - Servers
-  - I3.extra large - 3 data server
-  - 1 middlemaanger
-  - 2 query server - m5 large
-  - Master - m5 large
-  - m4.xlarge
+    - I3.extra large - 3 data server
+    - 1 middlemaanger
+    - 2 query server - m5 large
+    - Master - m5 large
+    - m4.xlarge

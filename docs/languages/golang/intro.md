@@ -11,9 +11,9 @@ Go is fast! Go is extremely fast. The performance is similar to that of Java or 
 ## Features
 
 - Concurrent Language
-  - Execute concurrently
-  - Communicate between executing things concurrently
-  - Goroutines are much cheaper than threads
+    - Execute concurrently
+    - Communicate between executing things concurrently
+    - Goroutines are much cheaper than threads
 - Garbage collected
 - Strong and statically typed
 - Fast compile time
@@ -21,7 +21,7 @@ Go is fast! Go is extremely fast. The performance is similar to that of Java or 
 - Builds fast at scale
 - Goroutines
 - Channels
-  - Channel are typed values that allow goroutines to synchronize and exchange information.
+    - Channel are typed values that allow goroutines to synchronize and exchange information.
 - Select - The select statement is like a switch, but the decision is based on ability to communicate rather than equal values
 - Support for Interfaces and Type embedding
 - Production of statically linked native binaries without external dependencies

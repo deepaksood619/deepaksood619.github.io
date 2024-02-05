@@ -225,7 +225,7 @@ In order to keep a system secure, it is advisable to conduct a pentest on a regu
 ## Q
 
 - [Quality Assurance](https://www.tutorialspoint.com/software_testing_dictionary/quality_assurance.htm)
-  - How to hire a Great QA Engineer - https://www.toptal.com/qa
+    - How to hire a Great QA Engineer - https://www.toptal.com/qa
 - [Quality Control](https://www.tutorialspoint.com/software_testing_dictionary/quality_control.htm)
 - [Quality Management](https://www.tutorialspoint.com/software_testing_dictionary/quality_management.htm)
 

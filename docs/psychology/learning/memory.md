@@ -56,17 +56,17 @@ Working memory is essentially your mental bandwidth.If you have a good working m
 - The best way to down out noise is by using earplugs (or listening to white noise)
 - If you do have to listen to music (because it helps you calm down for instance), choose instrumental music with no lyrics
 - To boost your comprehension and memory, read aloud what you're studying
-  - Only apply this to a selection of the most important concepts / information
-  - If you read aloud everything, it won't work
+    - Only apply this to a selection of the most important concepts / information
+    - If you read aloud everything, it won't work
 
 ## Visuospatial Sketchpad
 
 - Don't worry if you have problems with visuospatial tasks -- it's mostly a matter of choosing the right strategy.
 - Use the analytical strategy (step-by-step) approach to solve visuospatial tasks.
-  - Break down complex tasks into small components.
-  - Offload the results of intermediate steps onto paper.
+    - Break down complex tasks into small components.
+    - Offload the results of intermediate steps onto paper.
 - Try the drawing-construction strategy to help you with reading comprehension.
-  - This strategy can make you process information more deeply.
+    - This strategy can make you process information more deeply.
 
 ## Central Executive
 
@@ -81,9 +81,9 @@ Working memory is essentially your mental bandwidth.If you have a good working m
 
 - Use chunking to compress information so that you can remember more.
 - You can chunk your study materials by grouping concepts into categories.
-  - For instance, you can group foreign language vocabulary by topics, similar meanings, or similar pronunciation.
+    - For instance, you can group foreign language vocabulary by topics, similar meanings, or similar pronunciation.
 - To gain expertise in any subject or skill, you need to build increasingly complex chunks of information
-  - You can do this with pre-training (pre-studying the definitions and meanings of concepts before your lecture or before you read a textbook)
+    - You can do this with pre-training (pre-studying the definitions and meanings of concepts before your lecture or before you read a textbook)
 - If you don't understand something, try to identify what exactly you're having a problem with and study this first
 - Firstly master the underlying sub-skills and then practice your target skill to save time and energy
 

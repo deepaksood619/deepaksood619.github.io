@@ -6,9 +6,9 @@ How to share only specific sheet/single tab in google spreadsheet? (AirTable)
 
 - DynamoDB with bigger document size > 400KB, like documents?
 - S3 too slow
-  - 370ms for 1kb
-  - 504ms for 10kb
-  - 880ms for 1MB
+    - 370ms for 1kb
+    - 504ms for 10kb
+    - 880ms for 1MB
 - S3 delete old files (lifecycle policy configured later)
 - Should we store files/binary blobs in mysql aurora for like smaller total storage of 1-2TB of data?
 - What is this strategy to separate both compute and storage in REDSHIFT?
@@ -23,7 +23,7 @@ gRPC
 - How does grpc scale vs gunicorn (gevent)
 - logging
 - api gateway?
-  - Authentication
+    - Authentication
 - Nginx proxy infront
 - Kafka compression
 
@@ -40,20 +40,20 @@ how to decide that should I keep value in each row or normalize further database
 ### Tech Questions
 
 - Why same code runs in local laptop having less memory and cpu, but in kubernetes with larger cpu and ram gets evicted. How to add backpressure in pods
-  - **HPA takes into account both pods requests together in CPU and not on a single pod**
-  - **Grafana workload dashboard shows wrong CPU Limits for a pod**
+    - **HPA takes into account both pods requests together in CPU and not on a single pod**
+    - **Grafana workload dashboard shows wrong CPU Limits for a pod**
 - right way to pass config and env variables in python application with all checks
-  - https://hackersandslackers.com/simplify-your-python-projects-configuration
+    - https://hackersandslackers.com/simplify-your-python-projects-configuration
 - Kafka Compression (using snappy, how to do it?)
-  - Set topic level compression as snappy but topic log shows data as plaintext
-  - Set producer level compression but log shows data as plaintext
-  - Consumer with kafkacat shows plain text packets sizes
-  - https://github.com/confluentinc/confluent-kafka-python/issues/881
+    - Set topic level compression as snappy but topic log shows data as plaintext
+    - Set producer level compression but log shows data as plaintext
+    - Consumer with kafkacat shows plain text packets sizes
+    - https://github.com/confluentinc/confluent-kafka-python/issues/881
 - how does grpc server side streaming work
-  - How much clients can grpc handle
-  - Do we have to add nginx proxy infront
+    - How much clients can grpc handle
+    - Do we have to add nginx proxy infront
 - **General**
-  - Why WhatsApp doesn't let you turn off online feature
+    - Why WhatsApp doesn't let you turn off online feature
 - Nginx as sidecar inside pod or as a standalone pod?
 - **Why AWS load balancer is showing requests, when nothing is passing through it?**
 - Cloud native web server (apache and nginx is not) When to increase threads and when to increase pods / When to add new instance vs optimizing application

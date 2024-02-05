@@ -71,12 +71,12 @@ When a consumer commits some offsets (for different partitions), it sends a mess
 ## Kafka Internals (Definitive Guide)
 
 - Cluster Membership
-  - Kafka uses Apache Zookeeper to maintain the list of brokers that are currently members of a cluster
+    - Kafka uses Apache Zookeeper to maintain the list of brokers that are currently members of a cluster
 - Controller
-  - The first broker that starts in the cluster becomes the controller by creating an ephemeral node in ZooKeeper called */controller.*
+    - The first broker that starts in the cluster becomes the controller by creating an ephemeral node in ZooKeeper called */controller.*
 - Replication
-  - **Two types of replicas**
-    - Leader replica
+    - **Two types of replicas**
+        - Leader replica
 
 Each partition has a single replica designated as the leader. All produce and consume requests go through the leader, in order to guarantee consistency.
 
@@ -87,10 +87,10 @@ All replicas for a partition that are not leaders are called followers. Follower
 - Replicas that are consistently asking for the latest messages, is called *in-sync replicas*. Only in-sync replicas are eligible to be elected as partition leaders in case the existing leader fails.
 
 - Request Processing
-  - Most of what a Kafka broker does is process requests sent to the partition leaders from clients, partition replicas, and the controller.
-  - For each port the broker listens on, the broker runs an *acceptor* thread that creates a connection and hands it over to a *processor* thread for handling. The number of processor threads (also called *network threads*) is configurable. The network threads are responsible for taking requests from client connections, placing them in a *request queue*, and picking up responses from a *response queue* and sending them back to clients.
-  - Once requests are placed on the request queue, *IO threads* are responsible for picking them up and processing them. The most common types of requests are:
-    - Produce requests
+    - Most of what a Kafka broker does is process requests sent to the partition leaders from clients, partition replicas, and the controller.
+    - For each port the broker listens on, the broker runs an *acceptor* thread that creates a connection and hands it over to a *processor* thread for handling. The number of processor threads (also called *network threads*) is configurable. The network threads are responsible for taking requests from client connections, placing them in a *request queue*, and picking up responses from a *response queue* and sending them back to clients.
+    - Once requests are placed on the request queue, *IO threads* are responsible for picking them up and processing them. The most common types of requests are:
+        - Produce requests
 
 Sent by producers and contain messages the clients write to Kafka brokers.
 
@@ -108,7 +108,7 @@ The basic storage unit of Kafka is a partition replica.
 - Indexes
 - Compaction
 - Deleted Events
-  - tombstone
+    - tombstone
 
 ## Kafka Rebalancing Protocol
 

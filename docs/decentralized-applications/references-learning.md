@@ -65,8 +65,8 @@
 - [https://coinswitch.co/blog/](https://coinswitch.co/blog/)
 - [CoinSwitch](https://www.youtube.com/channel/UCcut1207KRCj6McKa9AHA2g)
 - [What happens to blockchain transactions in case of network partition?](https://news.ycombinator.com/item?id=14594172)
-  - [transactions - What would happen if a portion of the Bitcoin network was separated from the rest of the network? - Bitcoin Stack Exchange](https://bitcoin.stackexchange.com/questions/1738/what-would-happen-if-a-portion-of-the-bitcoin-network-was-separated-from-the-res)
-  - [blockchain - Countrywide Internet isolation, inevitable fork - Bitcoin Stack Exchange](https://bitcoin.stackexchange.com/questions/12207/countrywide-internet-isolation-inevitable-fork)
+    - [transactions - What would happen if a portion of the Bitcoin network was separated from the rest of the network? - Bitcoin Stack Exchange](https://bitcoin.stackexchange.com/questions/1738/what-would-happen-if-a-portion-of-the-bitcoin-network-was-separated-from-the-res)
+    - [blockchain - Countrywide Internet isolation, inevitable fork - Bitcoin Stack Exchange](https://bitcoin.stackexchange.com/questions/12207/countrywide-internet-isolation-inevitable-fork)
 
 ## Presentations / Conference
 

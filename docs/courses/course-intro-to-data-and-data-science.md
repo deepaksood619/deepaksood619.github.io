@@ -19,17 +19,17 @@ https://github.com/deepaksood619/Data-Modeling
 Analysis - Past
 
 - Qualitative analysis
-  - How? Why? for past
+    - How? Why? for past
 - Quantitative analysis
-  - data + how sales decreased last summer
+    - data + how sales decreased last summer
 
 Analytics - Future (Explore potential future events)
 
 - Is the application of logical and computational reasoning to the component parts obtained in an analysis
 - Qualitative analytics
-  - intuition + analysis
+    - intuition + analysis
 - Quantitative analytics
-  - formulas + algorithms
+    - formulas + algorithms
 
 ![image](../media/Course-Intro-to-Data-and-Data-Science-image1.jpg)
 

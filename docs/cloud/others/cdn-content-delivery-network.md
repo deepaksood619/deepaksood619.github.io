@@ -80,9 +80,9 @@ Here's how it works:
 #### Edge Logic Computations
 
 - Some CDNs offer the ability to run custom logic on the edge servers. This allows you to perform tasks such as:
-  - Modifying content based on the user's location or device.
-  - Validating user requests.
-  - Blocking malicious traffic.
+    - Modifying content based on the user's location or device.
+    - Validating user requests.
+    - Blocking malicious traffic.
 
 ### How CDNs are Faster Despite Public Internet?
 

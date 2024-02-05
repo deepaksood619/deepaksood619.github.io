@@ -80,24 +80,24 @@ The different classifications for the kinds of failures we see in a distributed 
 ### Types of Failures
 
 - **timing failures**
-  - If a node in a system delivers a response correctly, but that response is outside the expected time interval.
-  - A node with a timing failure could deliver a response that is earlier or later than expected; these are also called Performance failures
+    - If a node in a system delivers a response correctly, but that response is outside the expected time interval.
+    - A node with a timing failure could deliver a response that is earlier or later than expected; these are also called Performance failures
 - **omission failures**
-  - It is a failure where the node's reponse never appears to be sent (or, in other words, is an "infinitely late" timing failure)
-  - Omission failures come in two forms, since a node can both send and receive responses
-    - Send Omission Failure - A node fails to send a response
-    - Receive Omission Failure - A node fails to receive an incoming message/another node's response
+    - It is a failure where the node's reponse never appears to be sent (or, in other words, is an "infinitely late" timing failure)
+    - Omission failures come in two forms, since a node can both send and receive responses
+        - Send Omission Failure - A node fails to send a response
+        - Receive Omission Failure - A node fails to receive an incoming message/another node's response
 - **crash failures**
-  - A crash failure occurs if a node experiences an omission failure once and stops responding completely, and becomes unresponsive (aka, crashes)
+    - A crash failure occurs if a node experiences an omission failure once and stops responding completely, and becomes unresponsive (aka, crashes)
 - **response failures**
-  - occurs when a node actually does respond, but its response is incorrect
-  - There are 2 forms of response failures; the node's response may be:
-    - incorrect in value (Value Failure)
-    - incorrect in state, indicating something went wrong with the flow control/logic of the system (state transition failure)
+    - occurs when a node actually does respond, but its response is incorrect
+    - There are 2 forms of response failures; the node's response may be:
+        - incorrect in value (Value Failure)
+        - incorrect in state, indicating something went wrong with the flow control/logic of the system (state transition failure)
 - arbitrary failures
-  - occurs when a node sends different responses through the system, and can produce arbitrary messages at arbitrary times also called a Byzantine failure
-  - In a Byzantine failure, a node can send differing responses to other nodes, and it can forge responses/messages from other nodes
-  - A subset of this failure is Authentication Detectable Byzantine Failures, where a node cannot forge a message on the behalf of another node
+    - occurs when a node sends different responses through the system, and can produce arbitrary messages at arbitrary times also called a Byzantine failure
+    - In a Byzantine failure, a node can send differing responses to other nodes, and it can forge responses/messages from other nodes
+    - A subset of this failure is Authentication Detectable Byzantine Failures, where a node cannot forge a message on the behalf of another node
 
 ### Error
 

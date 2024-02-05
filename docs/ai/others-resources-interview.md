@@ -108,8 +108,8 @@
 - Readings in applied data science - https://github.com/hadley/stats337
 - Fundamentals of data vizualization - https://serialmentor.com/dataviz
 - Spark - https://cognitiveclass.ai/learn/spark
-  - Spark, storm, flink
-  - Athena / Presto / Hive
+    - Spark, storm, flink
+    - Athena / Presto / Hive
 - HDFS Architecture - https://hadoop.apache.org/docs/r3.0.0/hadoop-project-dist/hadoop-hdfs/HdfsDesign.html
 - Computer Vision - https://in.udacity.com/course/introduction-to-computer-vision--ud810
 - NPTEL - Data Mining - https://onlinecourses.nptel.ac.in/noc19_cs15

@@ -55,8 +55,8 @@ https://auren.substack.com/p/lets-talk-about-founder-compensation
 - Yearly bonus or Stocks
 - EPF Contributions
 - Medical benefits
-  - Life Insurance
-  - Term Insurance
+    - Life Insurance
+    - Term Insurance
 - Renumeration for devices/hardwares
 - Travel grants for Conferences
 - Cloud access for ML/AI
@@ -111,36 +111,36 @@ https://neilpatel.com/training/growth-hacking-unlocked/raise-money
 - How you do peer reviews? (core reviews, branching strategies, methodologies they follow?)
 - What programs do you have for continuous education.
 - What's the software development process that you use?
-  - How many projects could I expect to work on in a month?
-  - What's the process for managing the code?
-  - How long are the typical sprints?
-  - How many developers are on the team?
-  - Do developers get time to learn on the job?
-  - Learning initiatives for growing people?
-  - What's the typical length of a project?
-  - How are vacation days handled?
-  - Are there any emergency processes in place? / Disaster Recovery
+    - How many projects could I expect to work on in a month?
+    - What's the process for managing the code?
+    - How long are the typical sprints?
+    - How many developers are on the team?
+    - Do developers get time to learn on the job?
+    - Learning initiatives for growing people?
+    - What's the typical length of a project?
+    - How are vacation days handled?
+    - Are there any emergency processes in place? / Disaster Recovery
 - How is project management handled?
-  - **Project Management and Task Management Tools**
+    - **Project Management and Task Management Tools**
 - Are there technical debts in the current architecture/code base?
 - How do you tackle technical debt?
 - What's your company culture like?
-  - How is working at this company different from working at others?
+    - How is working at this company different from working at others?
 - How much discretionary power will I have to take decisions?
 - How do you manage Documentation / Knowledge base?
 
 ## Question to Team
 
 - Tech Stack
-  - Python 3
-  - Latest codebase
-  - Codebase should be clean
-  - Technical Debt
-  - VCS - git / github (so that my contributions can be added to my profile)
-  - Containerization
-  - CI/CD pipelines
-  - Open source contributions/repositories
-  - Do you use chaos testing (resiliency tool / Fault injection)
+    - Python 3
+    - Latest codebase
+    - Codebase should be clean
+    - Technical Debt
+    - VCS - git / github (so that my contributions can be added to my profile)
+    - Containerization
+    - CI/CD pipelines
+    - Open source contributions/repositories
+    - Do you use chaos testing (resiliency tool / Fault injection)
 - Team Size
 - Data flow / data pipeline architecture
 - Architecture diagram
@@ -158,7 +158,7 @@ https://neilpatel.com/training/growth-hacking-unlocked/raise-money
 - What is your current growth rate?
 - What is your runway? - The longer the runway, the more financially stable the company is. "Cashrunway" refers to the length of time in which a company will remain solvent, assuming that they are unable to raise more money.
 - What's the company's/department's strategy for the next 6-18 months
-  - Keep the title & position of the interviewer in mind
+    - Keep the title & position of the interviewer in mind
 
 ## Check about company
 

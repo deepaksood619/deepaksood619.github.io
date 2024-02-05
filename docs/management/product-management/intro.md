@@ -214,15 +214,15 @@ https://www.lennysnewsletter.com/p/how-to-differentiate
 
 - Product / Customer Goal - Decide on the key customer goal
 - Funnel metrics
-  - Identify key actions to encourage
-    - Ex: Netflix (focusing on Acquisition/Adoption)
-  - Define metrics for a time frame
-  - Categorize metrics if needed
+    - Identify key actions to encourage
+        - Ex: Netflix (focusing on Acquisition/Adoption)
+    - Define metrics for a time frame
+    - Categorize metrics if needed
 - Prioritize
-  - **1 North Star Metric (NSM)**
-    - broad indicator of success, not complex or difficult to understand
-    - Should be actionable
-  - 4-5 L1 supporting metrics
+    - **1 North Star Metric (NSM)**
+        - broad indicator of success, not complex or difficult to understand
+        - Should be actionable
+    - 4-5 L1 supporting metrics
 - Critique your metrics
 
 ## Product Sense

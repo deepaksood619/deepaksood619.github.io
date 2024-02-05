@@ -44,26 +44,26 @@ https://www.guru99.com/data-modelling-conceptual-logical.html
 ## Tenets of NoSQL Data Modeling
 
 - Understand the use case
-  - Nature of the application
-    - OLTP/OLAP/DSS (Decision Support System)
-    - Define the Entity-Relationship Model
-    - Identify Data Life Cycle
-      - TTL, Backup/Archival, etc
+    - Nature of the application
+        - OLTP/OLAP/DSS (Decision Support System)
+        - Define the Entity-Relationship Model
+        - Identify Data Life Cycle
+            - TTL, Backup/Archival, etc
 - Define the access patterns
-  - Read/Write workloads
-    - Identify data sources
-    - Define query aggregations
-    - Document all workflows
+    - Read/Write workloads
+        - Identify data sources
+        - Define query aggregations
+        - Document all workflows
 - NoSQL Data Model is not flexible (it's efficient)
 - Data-modeling
-  - Avoid relational design patterns, use one table
-    - 1 application service = 1 table
-      - Reduce round trips
-      - Simplify access patterns
-    - Identify primary keys
-      - How will items be inserted and read?
-      - Overload items into partitions
-    - Define indexes for secondary access patterns
+    - Avoid relational design patterns, use one table
+        - 1 application service = 1 table
+            - Reduce round trips
+            - Simplify access patterns
+        - Identify primary keys
+            - How will items be inserted and read?
+            - Overload items into partitions
+        - Define indexes for secondary access patterns
 - Review -> Repeat -> Review
 
 https://www.toptal.com/data-modeling/interview-questions

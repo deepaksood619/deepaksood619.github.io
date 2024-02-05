@@ -33,11 +33,11 @@ After 15 years
 
 - Close account immediately after 15 years and withdraw the money (tax-free), can open a new account after that
 - Extend in a block of 5 years without any contributions (keep getting interest, default)
-  - Withdraw any amount
-  - One withdrawal per financial year
+    - Withdraw any amount
+    - One withdrawal per financial year
 - Extend in a block of 5 years with contributions (submit "Form H" within 1 year)
-  - Withdraw max of 60%
-  - One withdrawal per financial year any amount under 60% limit combined
+    - Withdraw max of 60%
+    - One withdrawal per financial year any amount under 60% limit combined
 
 ## EPF Employee Provident Fund
 
@@ -95,8 +95,8 @@ Mis (Monthly Income Scheme) - Limit 9 lakh
 - The account shall mature on completion of 21 years from the date of opening of the account, provided that where the marriage of the account holder takes place before completion of such period of 21 years, the operation of the account shall not be permitted beyond the date of her marriage
 - Passbook will be issued to customers
 - Withdrawal Facility
-  - To meet the financial requirements of the account holder for the purpose of higher education and marriage, account holder can avail partial withdrawal facility after attaining 18 years of age
-  - If the beneficiary is married before maturity of account, account has to be closed
+    - To meet the financial requirements of the account holder for the purpose of higher education and marriage, account holder can avail partial withdrawal facility after attaining 18 years of age
+    - If the beneficiary is married before maturity of account, account has to be closed
 
 [Sukanya Samriddhi Account - Know Scheme Details & Benefits for Your Girl Child | HDFC Bank](https://www.hdfcbank.com/personal/save/accounts/sukanya-samridhi-account)
 

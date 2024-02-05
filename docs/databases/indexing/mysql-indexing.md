@@ -3,7 +3,7 @@
 ## Important Points / Keep in mind / Gotchas
 
 - The primary key is already an index
-  - We can't have a Primary Key column with a NULL value.
+    - We can't have a Primary Key column with a NULL value.
 - Using composite indexes is vital if you're trying to speed up a particular query
 - Index order is very VERY important
 - Avoid performing file sorts

@@ -35,9 +35,9 @@ https://docs.aws.amazon.com/redshift/latest/dg/c_Compression_encodings.html
 
 - Goal: eliminates unnecessary I/O
 - In-memory block metadata
-  - Contains per-block min and max values
-  - All blocks automatically have zone maps
-  - Effectively prunes blocks that cannot contain data for a given query
+    - Contains per-block min and max values
+    - All blocks automatically have zone maps
+    - Effectively prunes blocks that cannot contain data for a given query
 
 ### 3. Materialize columns
 
@@ -51,12 +51,12 @@ Frequently filtered and unchanging dimension values should be materialized withi
 ### 4. Slices
 
 - A slice can be thought of like a virtual compute node
-  - Unit of data partitioning
-  - Parallel query processing
+    - Unit of data partitioning
+    - Parallel query processing
 - Facts about slices
-  - Each compute node has either 2 or 16 slices
-  - Table rows are distributed to slices
-  - A slice processes only its own data
+    - Each compute node has either 2 or 16 slices
+    - Table rows are distributed to slices
+    - A slice processes only its own data
 
 ### 5. Best Practices: Table design summary
 
@@ -67,7 +67,7 @@ Frequently filtered and unchanging dimension values should be materialized withi
 - Co-locate large tables using DISTSTYLE KEY if the columns do not cause skew
 - Avoid distribution keys on temporal columns
 - Keep data types as wide as necessay (but no longer than necessary)
-  - VARCHAR, CHAR, and NUMERIC
+    - VARCHAR, CHAR, and NUMERIC
 
 ## Redshift Sort Key
 
@@ -101,12 +101,12 @@ https://hevodata.com/blog/redshift-sort-keys-choosing-best-sort-style
 - Impact: enables range-restricted scans to prune blocks by leveraging zone maps
 - Achieved with the table property SORTKEY defined on one or more columns
 - Optimal sort key is dependent on:
-  - Query patterns
-  - Business requirements
-  - Data profile
+    - Query patterns
+    - Business requirements
+    - Data profile
 - Design considerations
-  - Sort keys are less beneficial on small tables
-  - Define four or less sort key columns - more will result in marginal gains and increased ingestion overhead
+    - Sort keys are less beneficial on small tables
+    - Define four or less sort key columns - more will result in marginal gains and increased ingestion overhead
 - Less then 10000 rows, don't sort, since all will be in a single zone map
 
 https://docs.aws.amazon.com/redshift/latest/dg/c_best-practices-sort-key.html
@@ -119,8 +119,8 @@ https://docs.aws.amazon.com/redshift/latest/dg/c_best-practices-sort-key.html
 - If you frequently join a table, specify the join column as both the sort key and the distribution key.
     Doing this enables the query optimizer to choose a sort merge join instead of a slower hash join. Because the data is already sorted on the join key, the query optimizer can bypass the sort phase of the sort merge join.
 - Place the sort key on columns that are frequently filtered on placing the low cardinality columns first
-  - On most fact tables, the first sort key columns should be a temporal column
-  - Columns added to a sort key after a high-cardinality column are not effective
+    - On most fact tables, the first sort key columns should be a temporal column
+    - Columns added to a sort key after a high-cardinality column are not effective
 
 https://github.com/awsdocs/amazon-redshift-developer-guide/blob/master/doc_source/c_best-practices-sort-key
 
@@ -175,20 +175,20 @@ Goals:
 - Minimize data movement during query processing
 Summary
 - KEY
-  - Goals
-    - Optimize JOIN performance between large tables by distributing on columns used in the ON clause
-    - Optimize INSERT INTO SELECT performance
-    - Optimize GROUP BY performance
-  - The column that is being distributed on should have a high cardinality and not cause row skew
+    - Goals
+        - Optimize JOIN performance between large tables by distributing on columns used in the ON clause
+        - Optimize INSERT INTO SELECT performance
+        - Optimize GROUP BY performance
+    - The column that is being distributed on should have a high cardinality and not cause row skew
 - ALL
-  - Goals
-    - Optimize Join performance with dimension tables
-    - Reduces disk usage on small tables
-    - Small and medium size dimension tables (< 3M rows)
+    - Goals
+        - Optimize Join performance with dimension tables
+        - Reduces disk usage on small tables
+        - Small and medium size dimension tables (< 3M rows)
 - EVEN
-  - If neither KEY or ALL apply
+    - If neither KEY or ALL apply
 - AUTO
-  - Default Distribution - Combines DISTSTYLE ALL and EVEN
+    - Default Distribution - Combines DISTSTYLE ALL and EVEN
 
 https://docs.aws.amazon.com/redshift/latest/dg/c_best-practices-best-dist-key.html
 

@@ -121,10 +121,10 @@ This can be used to determine when to stop training. Where validation error star
 ## Ways to create and use the validation set
 
 - There are several ways to create and use the validation set to avoid overfitting. The different methods are
-  - Holdout method
-  - Random subsampling
-  - K-fold cross-validation
-  - Leave-one-out cross-validation
+    - Holdout method
+    - Random subsampling
+    - K-fold cross-validation
+    - Leave-one-out cross-validation
 
 ## Holdout Method
 

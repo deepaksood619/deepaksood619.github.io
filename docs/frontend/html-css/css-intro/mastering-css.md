@@ -21,7 +21,7 @@ https://www.freecodecamp.org/news/use-css-selectors-to-style-webpage
 ## Three types of style sheets
 
 - Inline - written directly within of the html elements
-  - Ex- `<h2 style="font-size: 20px; color: deeppink;">`
+    - Ex- `<h2 style="font-size: 20px; color: deeppink;">`
 - Embedded - written directly inside head block using `<style>` tags.
 - External - written inside head with a `<link rel="stylesheet" href="css/style.css">`
 
@@ -80,7 +80,7 @@ https://scrimba.com/c/c2gd3T2
 - browser specific prefixes (for all browser supports)
 - https://www.udacity.com/course/responsive-web-design-fundamentals--ud893
 - Patterns
-  - Grid Fluid System
+    - Grid Fluid System
 - Category -
 - Mostly Fluid
 - Layout Shifter

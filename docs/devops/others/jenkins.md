@@ -7,13 +7,13 @@ Jenkins is a continuous integration tool which enables software teams to build t
 ## Types of Jenkins Projects
 
 - Freestyle
-  - Simple, single tasks
-  - e.g. run tests
+    - Simple, single tasks
+    - e.g. run tests
 - Pipeline
-  - Whole delivery cycle
-  - e.g. test | build | ... for a single branch
+    - Whole delivery cycle
+    - e.g. test | build | ... for a single branch
 - Multibranch Pipeline
-  - like pipeline for multiple branches
+    - like pipeline for multiple branches
 
 ## Credential Scopes
 
@@ -24,14 +24,14 @@ Jenkins is a continuous integration tool which enables software teams to build t
 ## Pipeline Syntax
 
 - **Scripted**
-  - First syntax
-  - Groovy engine
-  - Advanced scripting capabilities, high flexibility
-  - Difficult to start
+    - First syntax
+    - Groovy engine
+    - Advanced scripting capabilities, high flexibility
+    - Difficult to start
 - **Declarative**
-  - Recent addition
-  - Easier to get started but not that powerful
-  - pre-defined structure
+    - Recent addition
+    - Easier to get started but not that powerful
+    - pre-defined structure
 
 ## Regex (Java Style)
 

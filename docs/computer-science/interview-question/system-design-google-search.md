@@ -3,8 +3,8 @@
 [How does Google Search work?](https://www.youtube.com/watch?v=KyCYyoGusqs)- Can crawl according to page ranks (high reputation, links from other sites to yours)
 
 - 2002 - Update fretz
-  - Crawl top sites often
-  - Have supplemental index that are crawled after long periods of time
+    - Crawl top sites often
+    - Have supplemental index that are crawled after long periods of time
 - Indexing is done in words consisting of documents order
 - All the indexes are parallelized with each consisting some part of the web
 

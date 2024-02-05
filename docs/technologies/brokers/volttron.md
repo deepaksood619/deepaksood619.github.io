@@ -21,8 +21,8 @@ VOLTTRON is an open source platform for distributed sensing and control. The pla
 - Tree View
 - Charts/graphs
 - Extending
-  - Driver framework
-  - Historians
+    - Driver framework
+    - Historians
 
 ## Platform Agent
 

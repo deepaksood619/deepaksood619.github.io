@@ -6,8 +6,8 @@
 - **Point Update**
 
 - Divide the array in sqrt(n) blocks, maintain sum or prefix-sum of each block
-  - Any range query can be efficiently calculated by summing all sqrt(n) blocks or part of some blocks
-  - Any point update can be done by altering only the sum of that block only
+    - Any range query can be efficiently calculated by summing all sqrt(n) blocks or part of some blocks
+    - Any point update can be done by altering only the sum of that block only
 
 ![image](../../media/MO's-Algorithm-image1.jpg)
 

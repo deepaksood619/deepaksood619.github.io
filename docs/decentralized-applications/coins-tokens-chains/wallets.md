@@ -7,13 +7,13 @@ not your keys, not your crypto
 Not your keys not your coins
 
 - Hot wallets
-  - These types of bitcoin wallets are connected to the internet and are typically available online or on your smartphone.
-  - Custodial wallets
+    - These types of bitcoin wallets are connected to the internet and are typically available online or on your smartphone.
+    - Custodial wallets
 
 - Cold wallets / Hardware Wallets
-  - These types of bitcoin wallets cannot be accessed through the internet. They often involve physical devices (like a USB stick), where bitcoin and other cryptocurrencies can be stored securely offline.
-  - Authentication with hardware wallets like the Grid+ Lattice1, Keystone, Ledger, and Trezor.
-  - [Ledger Nano S Plus | Ledger](https://shop.ledger.com/products/ledger-nano-s-plus)
+    - These types of bitcoin wallets cannot be accessed through the internet. They often involve physical devices (like a USB stick), where bitcoin and other cryptocurrencies can be stored securely offline.
+    - Authentication with hardware wallets like the Grid+ Lattice1, Keystone, Ledger, and Trezor.
+    - [Ledger Nano S Plus | Ledger](https://shop.ledger.com/products/ledger-nano-s-plus)
 
 - Paper Wallets - [5 Steps to Creating an ULTRA Secure Bitcoin Paper Wallet (2023 Updated)](https://99bitcoins.com/bitcoin-wallet/paper/)
 
@@ -32,8 +32,8 @@ Not your keys not your coins
 ## Crypto Wallets
 
 - Metamask (A crypto wallet & gateway to blockchain apps)
-  - [MetaMask Portfolio dApp](https://portfolio.metamask.io/)
-  - [MetaMask under the hood-not just a crypto wallet - Chainstack](https://chainstack.com/metamask-behind-the-scenes-not-only-a-crypto-wallet/)
+    - [MetaMask Portfolio dApp](https://portfolio.metamask.io/)
+    - [MetaMask under the hood-not just a crypto wallet - Chainstack](https://chainstack.com/metamask-behind-the-scenes-not-only-a-crypto-wallet/)
 - Trustwallet (Multi Coin Wallet) - [GitHub - trustwallet/wallet-core: Cross-platform, cross-blockchain wallet library.](https://github.com/trustwallet/wallet-core)
 - [Best Crypto Wallet for Desktop & Mobile: Altcoin & Bitcoin | Exodus](https://www.exodus.com/) (Multi Coin Wallet)
 - [Leap Wallet](https://www.leapwallet.io/)

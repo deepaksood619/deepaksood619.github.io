@@ -33,12 +33,12 @@ A Kubernetes object is a "record of intent"--once you create the object, the Kub
 - Used to organize and select subsets of objects
 - Attached to objects at creation time but modified at any time
 - Labels are the essential glue to associate one API object with other
-  - **Replication Controller** -> Pods
+    - **Replication Controller** -> Pods
 
     Replication Controller means that I tell kubernetes that I want this container and I want 4 copies of it.
 
-  - Service -> Pods
-  - Pods -> Nodes
+    - Service -> Pods
+    - Pods -> Nodes
 
 - First metadata in deployment along with labels describes the deployment itself. It gives a labelfor that actual deployment
 - the second selector, is actually a selector for the deployment to apply to the pod that the deployment is describing. Therefore pod labels and selector must match each other

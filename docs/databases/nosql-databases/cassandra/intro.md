@@ -78,11 +78,11 @@ Cassandra is fundamentally a key-value store and distributes data around the clu
 
 - On > 50 GB data
 - MySQL
-  - Writes 300 ms avg
-  - Reads 350 ms avg
+    - Writes 300 ms avg
+    - Reads 350 ms avg
 - Cassandra
-  - Writes 0.12 ms avg
-  - Reads 15 ms avg
+    - Writes 0.12 ms avg
+    - Reads 15 ms avg
 
 ![image](../../../media/Cassandra-image1.jpg)
 

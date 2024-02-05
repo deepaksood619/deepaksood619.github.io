@@ -37,11 +37,11 @@ https://www.freecodecamp.org/news/what-is-statistical-significance-p-value-defin
 ## Playing with power - p-value part 3
 
 - Type 1 Error -
-  - rejecting the null, even if it's true. It can therefore only happen if the null is true
-  - Essentially false positives: we think we've detected an effect, but there isn't one
+    - rejecting the null, even if it's true. It can therefore only happen if the null is true
+    - Essentially false positives: we think we've detected an effect, but there isn't one
 
 - Type 2 Error -
-  - False negatives: There was an effect, but we didn't see it.
+    - False negatives: There was an effect, but we didn't see it.
 
 ## You know I am all about that Bayes
 
@@ -101,16 +101,16 @@ Test of Homogeneity - Looking at whether it's likely that different samples come
 ## Regression
 
 - General Linear Model (GLM)
-  - Data = Model + Error
-  - Model (Y = MX + B)
-  - Error (A deviation from our model)
-  - Inferences
-  - Types of GLM
-    - Regression model (Continuous variable)
-      - One reason we are concerned with outliers in regression is that values that are really far away from the rest of our data can have undue influence on the regression line
-      - The sum of all squared distances of each point to the line
-      - Residuals
-      - F-Test - Helps us quantify how well we think our data fit a distribution, like the null distribution
+    - Data = Model + Error
+    - Model (Y = MX + B)
+    - Error (A deviation from our model)
+    - Inferences
+    - Types of GLM
+        - Regression model (Continuous variable)
+            - One reason we are concerned with outliers in regression is that values that are really far away from the rest of our data can have undue influence on the regression line
+            - The sum of all squared distances of each point to the line
+            - Residuals
+            - F-Test - Helps us quantify how well we think our data fit a distribution, like the null distribution
 
 ![image](../../media/Crash-Course-Statistics-image5.jpg)
 
@@ -192,9 +192,9 @@ SSG tell us how much variation can be explained by coming from one of the four p
 
 - Bayesian search theory
 - For finding the number of tanks based on number of observations
-  - Max = M + (M/N) + 1
-  - M is max serial number observed
-  - N is number of observations
+    - Max = M + (M/N) + 1
+    - M is max serial number observed
+    - N is number of observations
 
 ## When predictions fail
 

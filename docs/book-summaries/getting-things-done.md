@@ -45,7 +45,7 @@ CPR - Capture Process Review
 - Daily to-do lists are inefficient because of their warped view of time.
 
 - **Including too many tasks**
-  - Ideally, create a 'top three' tasks at the beginning of your to-do list.
-  - Long lists are a problem because most people aren't aware that "we only have about three to six good hours of work in us each day."
-  - People also tend to underestimate how long a task takes.
+    - Ideally, create a 'top three' tasks at the beginning of your to-do list.
+    - Long lists are a problem because most people aren't aware that "we only have about three to six good hours of work in us each day."
+    - People also tend to underestimate how long a task takes.
 - **create a fresh list for each day**

@@ -22,8 +22,8 @@ Redis also supports trivial-to-setup [master-slave asynchronous replication](htt
 
 - [Transactions](https://redis.io/topics/transactions)
 - [Pub/Sub](https://redis.io/topics/pubsub)
-  - Channels
-  - PUSH model
+    - Channels
+    - PUSH model
 - [Lua scripting](https://redis.io/commands/eval)
 - [Keys with a limited time-to-live](https://redis.io/commands/expire)
 - [LRU eviction of keys](https://redis.io/topics/lru-cache)

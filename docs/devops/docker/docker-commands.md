@@ -106,7 +106,7 @@ docker logs smap-archiver > stdout.log 2>stderr.log
 - **[docker stats](https://docs.docker.com/engine/reference/commandline/stats) shows containers' resource usage statistics.**
 - [docker diff](https://docs.docker.com/engine/reference/commandline/diff) shows changed files in the container's FS.
 - **docker secret** - Manage docker secrets
-  - create, inspect, ls, rm
+    - create, inspect, ls, rm
 
 ## Images
 

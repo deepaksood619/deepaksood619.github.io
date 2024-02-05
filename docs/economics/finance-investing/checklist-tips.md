@@ -10,19 +10,19 @@
 
 - PE less than 15
 - Fundamental Analysis
-  - Annual report
-  - Management discussions
-  - Audit report
-  - Important ratio
-  - Industry analysis
+    - Annual report
+    - Management discussions
+    - Audit report
+    - Important ratio
+    - Industry analysis
 - Valuation (Undervalued vs Overvalued)
-  - Price to sales
-  - PE
-  - PV / EBITDA
+    - Price to sales
+    - PE
+    - PV / EBITDA
 - Technical Analysis
-  - MACD
-  - RSI
-  - Bollinger Bands
+    - MACD
+    - RSI
+    - Bollinger Bands
 
 ## Benjamin Graham's Stock Screener
 
@@ -86,33 +86,33 @@ If you are looking at a bullish pattern, the prior trend should be bearish and l
 ## What youngsters are doing
 
 - **Put money in experiences (strong)**
-  - Adventure activities / outdoor activities
-  - **Foreign trips (traveling)**
+    - Adventure activities / outdoor activities
+    - **Foreign trips (traveling)**
 - **Buy gadgets**
-  - **Apple (iphone), airpods (status symbol) (bigger status than houses)**
+    - **Apple (iphone), airpods (status symbol) (bigger status than houses)**
 - **Wifi internet is a must**
-  - Jio / Airtel
+    - Jio / Airtel
 - **FMCG**
-  - snacks / maggi / pasta (ready to eat) more than dal/rice/staples
+    - snacks / maggi / pasta (ready to eat) more than dal/rice/staples
 - Don't believe in buying flats/homes (strong)
 - Buy/rent car (strong)
-  - **uber/ola**
-  - Buy bikes (weak)
+    - **uber/ola**
+    - Buy bikes (weak)
 - Invest in education (go for abroad studies take education loan)
 - Don't buy gold/jewellry
 - Buy fashionable clothes
 - Netflix / tiktok / instagram / facebook / games (pubg)
-  - mobile gaming more than pc or xbox and other gaming
+    - mobile gaming more than pc or xbox and other gaming
 - Healthy foods / yoga / gym
 - **Don't cook a lot (order food from outside) (strong)**
-  - Zomato / swiggy / grofers / amazon / flipkart
+    - Zomato / swiggy / grofers / amazon / flipkart
 - Rent stuff more than buy (fridges/ac/washing machine)
 - coworking / coliving
 - Education for children
-  - **daycare**
-  - preschool
-  - nursery
-  - coaching
+    - **daycare**
+    - preschool
+    - nursery
+    - coaching
 
 Markets can remain irrational longer than you can remain solvent -- John Maynard Keynes
 
@@ -130,22 +130,22 @@ Two basic rules when trading: (1) if you don't bet, you can't win. (2) if you lo
 
 - The stock should form a recognizable candlestick pattern
 - S&R should confirm the trade. The stoploss price should be around S&R
-  - For a long trade, the low of the pattern should be around the support
-  - For a short trade, the high of the pattern should be around the resistance
+    - For a long trade, the low of the pattern should be around the support
+    - For a short trade, the high of the pattern should be around the resistance
 - Volumes should confirm to the trade
-  - Presence of above average volumes on both buy and sell day
-  - Low volumes are not encouraging and hence do feel free to hesitate taking a trade where the volumes are low
+    - Presence of above average volumes on both buy and sell day
+    - Low volumes are not encouraging and hence do feel free to hesitate taking a trade where the volumes are low
 - Look at the trade from the Dow Theory perspective.
-  - Primary, secondary trends
-  - Double, triple, range formations
-  - Recognisable Dow formation
+    - Primary, secondary trends
+    - Double, triple, range formations
+    - Recognisable Dow formation
 - Indicators should confirm
-  - Scale the size higher if the confirm
-  - If they don't confirm, go ahead with the original plan
+    - Scale the size higher if the confirm
+    - If they don't confirm, go ahead with the original plan
 - RRR should be satisfactory
-  - Think about your risk appetite and identify your RRR threshold
-  - For a complete beginner, I would suggest the RRR to be as high as possible as this provides a margin of safety
-  - For an active trader, I would suggest a RRR of at least 1.5
+    - Think about your risk appetite and identify your RRR threshold
+    - For a complete beginner, I would suggest the RRR to be as high as possible as this provides a margin of safety
+    - For an active trader, I would suggest a RRR of at least 1.5
 
 Now, hypothetically imagine a situation where you are looking at opportunity to buy shares of Karnataka Bank Limited. On a particular day, Karnataka Bank has formed a bullish hammer, assume everything ticks on the checklist:
 
@@ -302,11 +302,11 @@ Example - is the stock good invert to why is this stock not good
 - Read a lot!
 - Deep specialization in 1 thing
 - Don't panic if your portfolio is 50% down, it's natural
-  - Never panic sell
-  - Take the opportunities
-  - Understand what you're buying
-  - Buy good companies
-  - Focus on the long term
+    - Never panic sell
+    - Take the opportunities
+    - Understand what you're buying
+    - Buy good companies
+    - Focus on the long term
 - Know what are your limits
 
 [7 Hacks To Help You Make Better Financial Decisions | ET Money](https://www.youtube.com/watch?v=0g_vykxuuos)

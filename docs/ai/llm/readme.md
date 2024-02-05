@@ -11,6 +11,8 @@
 
 [MMLU Dataset | Papers With Code](https://paperswithcode.com/dataset/mmlu) - Massive Multitask Language Understanding
 
+LLM makes good programmers great, and not make bad programmers good
+
 ## GPT-3
 
 Generative Pre-trained Transformer 3 (GPT-3; stylized GPT·3) is an autoregressive language model that uses deep learning to produce human-like text. Given an initial text as prompt, it will produce text that continues the prompt.
@@ -25,7 +27,7 @@ Moving from information to knowledge age
 - https://openai.com/blog/chatgpt
 - [Godmode](https://godmode.space/)
 - [**OpenAI Platform**](https://platform.openai.com/)
-  - [Embeddings - OpenAI API](https://platform.openai.com/docs/guides/embeddings/what-are-embeddings)
+    - [Embeddings - OpenAI API](https://platform.openai.com/docs/guides/embeddings/what-are-embeddings)
 - [GPT-4](https://openai.com/research/gpt-4)
 - [It’s Time to Pay Attention to A.I. (ChatGPT and Beyond)](https://www.youtube.com/watch?v=0uQqMxXoNVs)
 - https://en.wikipedia.org/wiki/GPT-3
@@ -41,7 +43,7 @@ Moving from information to knowledge age
 #### AI Generators
 
 - [**Gemini** - Google DeepMind](https://deepmind.google/technologies/gemini)
-  - [Google Bard update: Image generation and Gemini Pro adds more languages](https://blog.google/products/bard/google-bard-gemini-pro-image-generation/)
+    - [Google Bard update: Image generation and Gemini Pro adds more languages](https://blog.google/products/bard/google-bard-gemini-pro-image-generation/)
 - [Stable Diffusion Online](https://stablediffusionweb.com/) - [Stability AI](https://stability.ai/) - Generation of unique, realistic, high-quality images, art, logos, and designs
 - Amazon Bedrock
 - Amazon Titan - Amazon Titan FMs are a family of models built by Amazon that are pretrained on large datasets, which makes them powerful, general-purpose models
@@ -67,12 +69,12 @@ Moving from information to knowledge age
 - Merlin Chrome Extension
 - [ElevenLabs - Prime AI Text to Speech | Voice Cloning](https://beta.elevenlabs.io/)
 - [Create Video](https://studio.d-id.com/editor)
-  - [Chat D-ID](https://chat.d-id.com/)
+    - [Chat D-ID](https://chat.d-id.com/)
 - AI generated presentation
-  - [Gamma App](https://gamma.app/)
-  - [Presentation Software | Basic to Beautiful in Minutes with Beautiful.ai](https://www.beautiful.ai/)
-  - [Decktopus | Create Better Presentations | AI Presentation Assistant](https://app.decktopus.com/dashboard/decks)
-  - [Plus AI for Google Slides™ - Google Workspace Marketplace](https://workspace.google.com/u/0/marketplace/app/plus_ai_for_google_slides/214277172452)
+    - [Gamma App](https://gamma.app/)
+    - [Presentation Software | Basic to Beautiful in Minutes with Beautiful.ai](https://www.beautiful.ai/)
+    - [Decktopus | Create Better Presentations | AI Presentation Assistant](https://app.decktopus.com/dashboard/decks)
+    - [Plus AI for Google Slides™ - Google Workspace Marketplace](https://workspace.google.com/u/0/marketplace/app/plus_ai_for_google_slides/214277172452)
 - [AudioPen - The easiest way to convert messy thoughts into clear text.](https://audiopen.ai/)
 - [Instantly.ai - Cold Email Software](https://instantly.ai/)
 - [Text-to-meme | Supermeme.ai](https://app.supermeme.ai/text-to-meme)
@@ -91,7 +93,7 @@ Moving from information to knowledge age
 - [v0 by Vercel](https://v0.dev/)
 - [Pika](https://pika.art/)
 - [Langfuse](https://langfuse.com/)
-  - [Open source LLM observability, analytics, prompt management, evaluations, tests, monitoring, logging, tracing, LLMOps. Langfuse: the LLM engineering platform. Debug, analyze and iterate together](https://github.com/langfuse/langfuse)
+    - [Open source LLM observability, analytics, prompt management, evaluations, tests, monitoring, logging, tracing, LLMOps. Langfuse: the LLM engineering platform. Debug, analyze and iterate together](https://github.com/langfuse/langfuse)
 
 ![ai-tools](../../media/image.png)
 

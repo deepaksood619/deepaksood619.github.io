@@ -34,8 +34,8 @@ The core object in sMAP is the timeseries, a single progression of(time, value)t
 - Query Language
 - Real-time data access
 - Manual data publication
-  - JSON Edition
-  - CSV Edition
+    - JSON Edition
+    - CSV Edition
 
 ## sMAP Toolbox
 

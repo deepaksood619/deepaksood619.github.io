@@ -17,11 +17,11 @@
 - Bitcoin has not been premined, meaning that no coins have been mined and/or distributed between the founders before it became available to the public.
 - Bitcoin is deflationary
 - Bitcoin addresses prevent confusion, it don't allow
-  - zero `0`
-  - Uppercase `O`
-  - Uppercase `I`
-  - Lowercase `l`
-  - Because it's created using base58 encoding
+    - zero `0`
+    - Uppercase `O`
+    - Uppercase `I`
+    - Lowercase `l`
+    - Because it's created using base58 encoding
 
 ### Wrapped Bitcoin
 

@@ -20,26 +20,26 @@
 - https://www.lever.co lever.co
 - Linkedin Post
 - Colleges
-  - IIITD
-  - NIT Delhi
-  - Thapar University
+    - IIITD
+    - NIT Delhi
+    - Thapar University
 - Communities
-  - Linkedin
-  - Linkedin Python Developer Community
-  - IIITD Alumni Portal
-  - JSLovers (Frontend)
-  - Android Developers (Android)
+    - Linkedin
+    - Linkedin Python Developer Community
+    - IIITD Alumni Portal
+    - JSLovers (Frontend)
+    - Android Developers (Android)
 - DevOps / AWS
-  - OpsTree
-  - Xebia (Cloud engineering)
+    - OpsTree
+    - Xebia (Cloud engineering)
 - Frontend
-  - https://www.neuronimbus.com
-  - https://www.ibrandox.com
-  - https://acodez.in
+    - https://www.neuronimbus.com
+    - https://www.ibrandox.com
+    - https://acodez.in
 - Product
-  - MBA - IIM
+    - MBA - IIM
 - IIITD Alma Connect
-  - https://iiitdelhi.almaconnect.com/contributions/sneak_peek?frm=main_menu
+    - https://iiitdelhi.almaconnect.com/contributions/sneak_peek?frm=main_menu
 - IIITD Facebook group
 - MTech Group
 
@@ -52,9 +52,11 @@
 ### Assessment Platform
 
 - SpeedExam
+    - Speedexam open-source alternative
+    - Fraud detection in speedexam
 - Rounds
-  - MCQ test (20 question 30 mins)
-  - Coding test (2 question 30 mins)
+    - MCQ test (20 question 30 mins)
+    - Coding test (2 question 30 mins)
 - LinkedIn
 - https://www.hackerrank.com/products/developer-skills-platform/interview-free
 

@@ -8,7 +8,7 @@ https://towardsdatascience.com/python-vs-node-js-which-one-is-best-for-your-proj
 - NodeJS wins over Python for developing data and memory-intensive applications.
 - Node.js is suitable for small projects whereas python can be used for large projects also. Python can be used to do a variety of operations like machine learning etc.
 - NodeJS is significantly faster than Python.
-  - if your idea revolves around chatting functionalities then NodeJS is a better choice than Python.
+    - if your idea revolves around chatting functionalities then NodeJS is a better choice than Python.
 
 - three main reasons that stand behind Node's scalability:
 

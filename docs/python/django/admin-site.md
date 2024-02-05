@@ -4,10 +4,10 @@
 
 - Enabled by default
 - Requirements
-  - django.contrib.auth
-  - django.contrib.contenttypes
-  - django.contrib.messages
-  - django.contrib.sessions
+    - django.contrib.auth
+    - django.contrib.contenttypes
+    - django.contrib.messages
+    - django.contrib.sessions
 
 ## ModelAdmin objects
 

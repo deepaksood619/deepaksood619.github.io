@@ -30,14 +30,14 @@ Merge sort recursively halves the given array. Once the subarrays reach trivial 
 ## Improvements
 
 - Use insertion sort for small subarrays
-  - Mergesort has too much overhead for tiny subarrays
-  - Cutoff to insertion sort for ~ 7 items
+    - Mergesort has too much overhead for tiny subarrays
+    - Cutoff to insertion sort for ~ 7 items
 - Stop if already sorted
-  - Is biggest item in first half `<=` smallest item in second half
-  - Helps for partially-ordered arrays
-  - ![image](../../media/Merge-Sort-image3.jpg)
+    - Is biggest item in first half `<=` smallest item in second half
+    - Helps for partially-ordered arrays
+    - ![image](../../media/Merge-Sort-image3.jpg)
 - Eliminate the copy to the auxiliary array
-  - Save time (but not space by switching the role of the input and auxiliary array in each recursive call)
+    - Save time (but not space by switching the role of the input and auxiliary array in each recursive call)
 
 ![image](../../media/Merge-Sort-image4.jpg)
 

@@ -148,20 +148,20 @@ https://www.scotthyoung.com/blog/2020/12/07/planning
 How top performers do less, work better, and achieve more
 
 - Mastering your own work
-  - Do less, then obsess
-    - Choosing a few priorities
-    - Dedicating your efforts toward excelling at them
-  - Redesign your work
-    - Start with a value not with a goal
-  - Don't just learn, loop
-    - Micro-behavior is a small, concrete action you take on a daily basis to improve a skill. The action shouldn't take more than fifteen minutes to perform and review, and it should have a clear impact on skill development.
-  - P-squared (Passion and Purpose)
+    - Do less, then obsess
+        - Choosing a few priorities
+        - Dedicating your efforts toward excelling at them
+    - Redesign your work
+        - Start with a value not with a goal
+    - Don't just learn, loop
+        - Micro-behavior is a small, concrete action you take on a daily basis to improve a skill. The action shouldn't take more than fifteen minutes to perform and review, and it should have a clear impact on skill development.
+    - P-squared (Passion and Purpose)
 - Mastering working with others
-  - Forceful champions
-  - Fight and unite
-    - Fight - On a meeting, maximize a team debate
-    - Unite - Commit to decision at the end of meeting, because best idea wins
-  - The two sins of collaboration
+    - Forceful champions
+    - Fight and unite
+        - Fight - On a meeting, maximize a team debate
+        - Unite - Commit to decision at the end of meeting, because best idea wins
+    - The two sins of collaboration
 - Master your work-life
 
 ## 168 Hours By Laura Vanderkam
@@ -169,20 +169,20 @@ How top performers do less, work better, and achieve more
 You Have More Time Than You Think
 
 - You're not too busy -- you're just not in control of your time.
-  - Instead of thinking, "I'm too busy," you should ask, "Is that a priority?" If it isn't, simply let it go.
+    - Instead of thinking, "I'm too busy," you should ask, "Is that a priority?" If it isn't, simply let it go.
 - To live a fulfilling life, focus on your core competencies.
 - Choosing a job that uses your core competencies energizes your entire life.
-  - "Any 'work' that is not advancing you towards the professional life you want should not count as work. It is wasted time."
+    - "Any 'work' that is not advancing you towards the professional life you want should not count as work. It is wasted time."
 - To become time-rich you must control your work calendar.
-  - Create habit of excusing yourself from meetings. If you realize a meeting isn't relevant to you, and it's a waste of your time, you should leave. And that time would be better spent pursuing activities that advance your career.
+    - Create habit of excusing yourself from meetings. If you realize a meeting isn't relevant to you, and it's a waste of your time, you should leave. And that time would be better spent pursuing activities that advance your career.
 - To achieve a career breakthrough, combine strategy with story.
-  - "There's a lot of randomness in the universe, but truly lucky people recognize that fairy godmothers are lazy."
+    - "There's a lot of randomness in the universe, but truly lucky people recognize that fairy godmothers are lazy."
 - You can improve your relationships with your children by focusing on your core competencies.
-  - If you both love swimming, schedule regular trips to the local pool. A love of music might mean singing together.
+    - If you both love swimming, schedule regular trips to the local pool. A love of music might mean singing together.
 - Outsource housework that doesn't align with your core competencies.
 - Plan your leisure time to increase its value.
 - Actionable advice: Win family time by creating a mini night shift.
-  - Working parents often find it difficult to spend time with their children during the week. Overcome this by blocking out 5:00 p.m. to 8:00 p.m. in your calendar every weeknight -- and view this as sacred family time. Counter your shorter day at the office by working from 8:00 p.m. to 10:00 p.m. a few nights a week. By doing this, you'll maximize your time together while the kids are still awake. Otherwise, you're more likely to waste your evening leisure time in front of the TV.
+    - Working parents often find it difficult to spend time with their children during the week. Overcome this by blocking out 5:00 p.m. to 8:00 p.m. in your calendar every weeknight -- and view this as sacred family time. Counter your shorter day at the office by working from 8:00 p.m. to 10:00 p.m. a few nights a week. By doing this, you'll maximize your time together while the kids are still awake. Otherwise, you're more likely to waste your evening leisure time in front of the TV.
 
 ## The Lazy Genius Way by Kendra Adachi
 

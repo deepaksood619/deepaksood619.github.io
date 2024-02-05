@@ -105,12 +105,12 @@ Users without machine learning knowledge can quickly build classification and re
 
 - Good for - classification, regression, some missing values, PCA is ok
 - Not good for - vision, text, sequence-based, data mostly missing
-  - You need feature interpretation upfront
-  - You need pretrained models
+    - You need feature interpretation upfront
+    - You need pretrained models
 - Remember
-  - Try to include as much domain knowledge as you can in the features
-  - You might have to wait upfront, but it's saving you time in the end
-  - You will get all the code generated for you
+    - Try to include as much domain knowledge as you can in the features
+    - You might have to wait upfront, but it's saving you time in the end
+    - You will get all the code generated for you
 
 [**SageMaker Model Monitor**](https://docs.aws.amazon.com/sagemaker/latest/dg/model-monitor.html)
 

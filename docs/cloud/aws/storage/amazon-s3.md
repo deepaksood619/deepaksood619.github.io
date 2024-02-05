@@ -5,7 +5,7 @@ S3: More than 235 distributed microservices
 - Scalable Storage in the Cloud
 - Storing big file / video
 - Eleven 9's of durability (99.999999999%) and four 9's of availability (99.99%)
-  - Markov-chain model for reliability evaluation
+    - Markov-chain model for reliability evaluation
 - $23/TB/month
 - 5 TB single object limit
 - Pre signed URL (max expiry 7 days)
@@ -168,14 +168,14 @@ S3 Intelligent-Tiering is the ideal storage class for data with unknown, changin
 ## When should you use amazon S3
 
 - **Good use cases**
-  - When you need to write once, read many times
-  - Spiky data access
-  - Large number of users and diverse amounts of content
-  - Growing data sets
+    - When you need to write once, read many times
+    - Spiky data access
+    - Large number of users and diverse amounts of content
+    - Growing data sets
 - **Not ideal use cases**
-  - Block storage requirements
-  - Frequently changing data
-  - Long-term archival storage
+    - Block storage requirements
+    - Frequently changing data
+    - Long-term archival storage
 
 ## Pricing
 

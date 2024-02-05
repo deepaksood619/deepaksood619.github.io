@@ -8,12 +8,12 @@ CHAID - Chi-Squared Automatic Interaction Detection
 
 - Disadvantages of ID3 algorithm
 - C4.5 algorithm
-  - Gain ratio
-  - Noisy data and overfitting
-  - Tree pruning
-  - Handling of missing values
-  - Error estimation
-  - Continuous data
+    - Gain ratio
+    - Noisy data and overfitting
+    - Tree pruning
+    - Handling of missing values
+    - Error estimation
+    - Continuous data
 - CHAID
 
 ## ID3 Algorithm
@@ -29,11 +29,11 @@ CHAID - Chi-Squared Automatic Interaction Detection
 
 - An Improvement over ID3 algorithm
 - Designed to handle
-  - Noisy data better
-  - Missing data
-  - Pre and post pruning of decision trees
-  - Attributes with continuous values
-  - Rule Derivation
+    - Noisy data better
+    - Missing data
+    - Pre and post pruning of decision trees
+    - Attributes with continuous values
+    - Rule Derivation
 
 ## Fix overfitting / overleaning problem
 

@@ -4,7 +4,7 @@
 
 - https://gtmetrix.com
 - LightHouse
-  - [Lighthouse CI Action · Actions · GitHub Marketplace · GitHub](https://github.com/marketplace/actions/lighthouse-ci-action)
+    - [Lighthouse CI Action · Actions · GitHub Marketplace · GitHub](https://github.com/marketplace/actions/lighthouse-ci-action)
 - https://www.browserstack.com
 - https://www.sitespeed.io
 - https://estimator.dev
@@ -155,10 +155,10 @@ Fortio runs at a specified query per second (qps) and records an histogram of ex
 
 - TPCC benchmark
 - Yahoo! Cloud Serving Benchmark (YCSB)
-  - Key value pair workload
-  - 20 million tuples
-  - Each tuple is 1KB (total database is ~20GB)
-  - Each transactions reads/modifies 16 tuples
+    - Key value pair workload
+    - 20 million tuples
+    - Each tuple is 1KB (total database is ~20GB)
+    - Each transactions reads/modifies 16 tuples
 
 ## Test application
 

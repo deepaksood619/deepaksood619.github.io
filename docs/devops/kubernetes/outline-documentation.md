@@ -172,15 +172,15 @@
 
 - Extending the Kubernetes API
 
-  - Extending the Kubernetes API with the aggregation layer
+    - Extending the Kubernetes API with the aggregation layer
 
-  - Custom Resources
+    - Custom Resources
 
 - Compute, Storage, and Networking Extensions
 
-  - Network Plugins
+    - Network Plugins
 
-  - Device Plugins
+    - Device Plugins
 
 - Service Catalog
 

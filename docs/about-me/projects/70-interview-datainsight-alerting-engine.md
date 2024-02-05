@@ -21,35 +21,35 @@ The platform struggles to integrate smoothly with a
 #### Assumption
 
 - We have standardized data at our end in Influxdb
-  - Clients (50-5000) -
-    - Branches / Locations - (less - 500-2,50,000)
-      - Sensors - measurement (500 sensors, millions)
-  - Table schema
-    - (row oriented, column oriented, non-normalized)
-    - Clients
-      - client_id pk
-    - Locations
-      - client fk
-      - location_id pk
-    - Raw Sensor Data
-      - location_id fk
-      - sensor_type_fk - fk
-      - values
-      - timestamp
-    - Sensor Type
-      - id
-      - sensor_id - 5
-      - parameter - 1 (temp)
-      - metadata - temp (5, 1), humidity (5, 2)
-      - pk - (sensor_id + parameter)
-    - Query
-      - Aggregate - last week average
-      - 15-16 values
-    - Device (not a table) - AC
-      - What temp i am set at
-      - What current and voltage i am consuming
+    - Clients (50-5000) -
+        - Branches / Locations - (less - 500-2,50,000)
+            - Sensors - measurement (500 sensors, millions)
+    - Table schema
+        - (row oriented, column oriented, non-normalized)
+        - Clients
+            - client_id pk
+        - Locations
+            - client fk
+            - location_id pk
+        - Raw Sensor Data
+            - location_id fk
+            - sensor_type_fk - fk
+            - values
+            - timestamp
+        - Sensor Type
+            - id
+            - sensor_id - 5
+            - parameter - 1 (temp)
+            - metadata - temp (5, 1), humidity (5, 2)
+            - pk - (sensor_id + parameter)
+        - Query
+            - Aggregate - last week average
+            - 15-16 values
+        - Device (not a table) - AC
+            - What temp i am set at
+            - What current and voltage i am consuming
 - Multi-tenant / single-tenant
-  - multi-tenant system
+    - multi-tenant system
 
 #### Problems
 
@@ -75,15 +75,15 @@ The machine learning models are not performing as expected, leading to inaccurat
 
 - Database
 - Backend service
-  - APIs for highcharts that will give the sensor data
-  - Batch reporting apis
+    - APIs for highcharts that will give the sensor data
+    - Batch reporting apis
 - Frontend service - show users the end data
-  - IAM
-  - React / Angular - Client side rendered
-  - Client side app
-    - Don't need to send containers all the time
-  - Responsive - Desktop / Mobile
-  - Visualization library - highcharts
+    - IAM
+    - React / Angular - Client side rendered
+    - Client side app
+        - Don't need to send containers all the time
+    - Responsive - Desktop / Mobile
+    - Visualization library - highcharts
 
 ##### Questions
 
@@ -111,10 +111,10 @@ The user wants different categories of alerts like critical, high, medium, and l
 Whenever an alerting condition is met, it should trigger an alert and send it to all subscribed users via their preferred mode in the given below template-
 
 - Alert Summary
-  - Timestamp
-  - Priority
+    - Timestamp
+    - Priority
 - Asset Name
-  - Suggested Action For e.g Most likely Automation commands are not working on the chiller, Please switch the chiller to JouleTrack mode, turn it on, and then return it to recipe mode.
+    - Suggested Action For e.g Most likely Automation commands are not working on the chiller, Please switch the chiller to JouleTrack mode, turn it on, and then return it to recipe mode.
 
 What all different system components can be brought together to send user alerts on different mediums (push notification, whatsapp, email, message)?
 
@@ -137,9 +137,9 @@ Instruction
 - Log to alerts too - rdms
 - Async processing
 - Better processing
-  - Kafka streams
-  - Apache Pulsar
-  - Druid
+    - Kafka streams
+    - Apache Pulsar
+    - Druid
 - Consumer Lag
 
 ## Architecture
@@ -147,28 +147,28 @@ Instruction
 ![mqtt-alerting-engine](../../media/MQTT%20Alerting%20Engine.drawio.png)
 
 - Alert mapping table - Main copy in RDBMS
-  - Pushed copy in redis
-  - Updates pushed to redis from RDMS whenever changed
+    - Pushed copy in redis
+    - Updates pushed to redis from RDMS whenever changed
 - Backend service - mqtt broker to redis streams conversion for creating consumer group
 - Redis streams (single topic)
 - Backend service - alert processing module
-  - Process the packet
-  - match it with alert mapping table
-  - push to redis streams communication channel
+    - Process the packet
+    - match it with alert mapping table
+    - push to redis streams communication channel
 - Backend service - alerting engine
-  - Log the incoming alert
-  - Call the communications api (based on alert mapping, or alert processing module can **send the channel too**)
-    - Whatsapp
-    - Email
-    - SMS
-    - Push
-    - Telegram, etc
-  - Can send multiple customers
-  - Webhook for delivery status
+    - Log the incoming alert
+    - Call the communications api (based on alert mapping, or alert processing module can **send the channel too**)
+        - Whatsapp
+        - Email
+        - SMS
+        - Push
+        - Telegram, etc
+    - Can send multiple customers
+    - Webhook for delivery status
 - Scaling ways
-  - Multithreading
-  - Asyncio
-  - Horizontal Scaling
+    - Multithreading
+    - Asyncio
+    - Horizontal Scaling
 
 ##### Followups
 

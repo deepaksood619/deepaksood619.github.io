@@ -133,10 +133,10 @@ Give tech talk - Learning + Note taking + Zettlekasten - Obsidian / Onenote + Do
 
 - [Low Level Design | The Code Mate - YouTube](https://www.youtube.com/playlist?list=PLAC2AM9O1C5KioUMeH9qIjbAV_RMmX8rd)
 - [Tech Dummies Narendra L - YouTube](https://www.youtube.com/channel/UCn1XnDWhsLS5URXTi5wtFTA)
-  - [System Design - YouTube](https://www.youtube.com/playlist?list=PLkQkbY7JNJuBoTemzQfjym0sqbOHt5fnV)
-  - [System design tutorial - YouTube](https://www.youtube.com/playlist?list=PLkQkbY7JNJuAhePp7E_WSpfFqjQp6RniV)
-  - [Grokking System design - YouTube](https://www.youtube.com/playlist?list=PLkQkbY7JNJuC99VDJcpQdww-4aT3QhdJv)
-  - [Microservices for system design interview preparation - YouTube](https://www.youtube.com/playlist?list=PLkQkbY7JNJuDqCFncFdTzGm6cRYCF-kZO)
+    - [System Design - YouTube](https://www.youtube.com/playlist?list=PLkQkbY7JNJuBoTemzQfjym0sqbOHt5fnV)
+    - [System design tutorial - YouTube](https://www.youtube.com/playlist?list=PLkQkbY7JNJuAhePp7E_WSpfFqjQp6RniV)
+    - [Grokking System design - YouTube](https://www.youtube.com/playlist?list=PLkQkbY7JNJuC99VDJcpQdww-4aT3QhdJv)
+    - [Microservices for system design interview preparation - YouTube](https://www.youtube.com/playlist?list=PLkQkbY7JNJuDqCFncFdTzGm6cRYCF-kZO)
 - [System Design for Beginners - YouTube](https://www.youtube.com/playlist?list=PLMCXHnjXnTnvo6alSjVkgxV-VH6EPyvoX)
 - [System Designs - YouTube](https://www.youtube.com/playlist?list=PLQnljOFTspQXSevtRqvMNycWfHM7cXc3d)
 

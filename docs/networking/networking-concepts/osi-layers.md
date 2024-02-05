@@ -106,9 +106,9 @@ The functions of the transport layer are :
 The services provided by transport layer :
 
 - Connection Oriented Service:It is a three phase process which include
-  - Connection Establishment
-  - Data Transfer
-  - Termination / disconnection
+    - Connection Establishment
+    - Data Transfer
+    - Termination / disconnection
 
      In this type of transmission the receiving device sends an acknowledgment, back to the source after a packet or group of packet is received. This type of transmission is reliable and secure.
 

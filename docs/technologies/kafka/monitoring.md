@@ -31,16 +31,16 @@ https://docs.confluent.io/current/tutorials/cp-demo/docs/index.html#cp-demo
 
 - Metrics Basics
 - Kafka Broker Metrics
-  - Under-replicated partitions
-  - Broker metrics
-  - Topic and partition metrics
-  - JVM monitoring
-  - OS monitoring
-  - Logging
+    - Under-replicated partitions
+    - Broker metrics
+    - Topic and partition metrics
+    - JVM monitoring
+    - OS monitoring
+    - Logging
 - Client Monitoring
-  - Producer metrics
-  - Consumer metrics
-  - Quotas
+    - Producer metrics
+    - Consumer metrics
+    - Quotas
 - Lag Monitoring
 - End-to-End Monitoring
 

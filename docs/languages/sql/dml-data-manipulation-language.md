@@ -72,10 +72,10 @@ VALUES ('2322675', 'test', 'test', '0.0.0', '0',
 ```
 
 - Insert ingore consumes autoincrement id and can put holes in between rows
-  - https://stackoverflow.com/questions/5655396/why-insert-ignore-increments-the-auto-increment-primary-key
-  - [**https://www.percona.com/blog/2011/11/29/avoiding-auto-increment-holes-on-innodb-with-insert-ignore/**](https://www.percona.com/blog/2011/11/29/avoiding-auto-increment-holes-on-innodb-with-insert-ignore/)
-  - innodb_autoinc_lock_mode = 0
-  - https://dev.mysql.com/doc/refman/8.0/en/innodb-auto-increment-handling.html
+    - https://stackoverflow.com/questions/5655396/why-insert-ignore-increments-the-auto-increment-primary-key
+    - [**https://www.percona.com/blog/2011/11/29/avoiding-auto-increment-holes-on-innodb-with-insert-ignore/**](https://www.percona.com/blog/2011/11/29/avoiding-auto-increment-holes-on-innodb-with-insert-ignore/)
+    - innodb_autoinc_lock_mode = 0
+    - https://dev.mysql.com/doc/refman/8.0/en/innodb-auto-increment-handling.html
 
 - Alternatives
 
@@ -139,8 +139,8 @@ We can imitate MySQL UPSERT in one of these three ways:
 
   However, if we opt to use REPLACE, then it could result in one of the following outcomes:
 
-  - If we don't face any error, then REPLACE would behave as regular INSERT command.
-  - If a duplicate record exists, then REPLACE would first delete it and perform the INSERT subsequently.
+    - If we don't face any error, then REPLACE would behave as regular INSERT command.
+    - If a duplicate record exists, then REPLACE would first delete it and perform the INSERT subsequently.
 
 - **[UPSERT using INSERT with ON DUPLICATE KEY UPDATE](https://www.techbeamers.com/mysql-upsert/#upsert-using-update) (UPSERT)**
 
@@ -174,16 +174,16 @@ EXPLAIN EXTENDED
 
   What you would like to see in Extra:
 
-  - Using index - MySQL was able to use a covering index
-  - Distinct - MySQL stops searching after it found the first matching row
-  - Using index condition
+    - Using index - MySQL was able to use a covering index
+    - Distinct - MySQL stops searching after it found the first matching row
+    - Using index condition
 
   What you don't want to see in Extra:
 
-  - Using file sort - as said extra sorting was required
-  - Using temporary - a temp table was needed
-  - Using join buffer - tables processed in large batches of rows, instead of index lookups
-  - Using where - after fetching rows from storage engine, extra filtering needs to happen for each row. However it's OK if a very small number of rows were returned.
+    - Using file sort - as said extra sorting was required
+    - Using temporary - a temp table was needed
+    - Using join buffer - tables processed in large batches of rows, instead of index lookups
+    - Using where - after fetching rows from storage engine, extra filtering needs to happen for each row. However it's OK if a very small number of rows were returned.
 
   https://www.sitepoint.com/using-explain-to-write-better-mysql-queries
 

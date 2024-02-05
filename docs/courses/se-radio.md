@@ -10,11 +10,11 @@
 
 - Correspondence between organizational design and software architecture.
 - Conway's Law
-  - If you have a 4 person team building a compiler, you will build a 4-pass compiler
-  - Organizations which design systems ... are constrained to produce designs which are copies of the communication [structures](https://en.wikipedia.org/wiki/Organizational_structure) of these organizations.
-  - The law is based on the reasoning that in order for a [software module](https://en.wikipedia.org/wiki/Modular_programming) to function, multiple authors must communicate frequently with each other. Therefore, the [software interface](https://en.wikipedia.org/wiki/Software_interface) structure of a system will reflect the social boundaries of the organization(s) that produced it, across which communication is more difficult.
+    - If you have a 4 person team building a compiler, you will build a 4-pass compiler
+    - Organizations which design systems ... are constrained to produce designs which are copies of the communication [structures](https://en.wikipedia.org/wiki/Organizational_structure) of these organizations.
+    - The law is based on the reasoning that in order for a [software module](https://en.wikipedia.org/wiki/Modular_programming) to function, multiple authors must communicate frequently with each other. Therefore, the [software interface](https://en.wikipedia.org/wiki/Software_interface) structure of a system will reflect the social boundaries of the organization(s) that produced it, across which communication is more difficult.
 - Inverse Conway Maneuver
-  - 'Inverse Conway Maneuver' recommends evolving your team and organizational structure to promote your desired architecture. Ideally your technology architecture will display isomorphism with your business architecture.
+    - 'Inverse Conway Maneuver' recommends evolving your team and organizational structure to promote your desired architecture. Ideally your technology architecture will display isomorphism with your business architecture.
 
 ## 330: Attack Surface Reduction
 

@@ -16,12 +16,12 @@ Royal Institution - [Is Obesity a Choice? - with Giles Yeo](https://www.youtube.
 [What can nutrition teach us about Investing ? I Mihir Patki (Co-Founder - Multipie.co)](https://www.youtube.com/watch?v=sKiCagykVW4&ab_channel=EDGECommunity)
 
 - Basal Metabolic Rate (BMR)
-  - Minimum calories your body needs
-  - Eating below this level will affect your immunity
+    - Minimum calories your body needs
+    - Eating below this level will affect your immunity
 - Total Energy Expenditure
-  - Calories burnt by our body
-  - Sedentary life = Lower TEE
-  - Active life = higher TEE
+    - Calories burnt by our body
+    - Sedentary life = Lower TEE
+    - Active life = higher TEE
 
 https://www.bbc.com/future/article/20170601-the-secret-to-a-long-and-healthy-life-eat-less
 

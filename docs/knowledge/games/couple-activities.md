@@ -17,8 +17,8 @@
 - Khan academy
 - Online tests
 - Daily Crossword
-  - [Crash Course Crossword](https://crosswordlabs.com/view/crash-course-crossword)
-  - [Play Free Online Daily Crossword Puzzle Games - NDTV](https://www.ndtv.com/crossword)
+    - [Crash Course Crossword](https://crosswordlabs.com/view/crash-course-crossword)
+    - [Play Free Online Daily Crossword Puzzle Games - NDTV](https://www.ndtv.com/crossword)
 - word-scramble
 - Video game nights (Sudoku)
 - Hackathon
@@ -36,10 +36,10 @@
 - UNO
 - Word Search
 - Quiz
-  - Superlatives of the world quizzes
-  - Trivia
-  - Quiz
-  - Geography quiz
+    - Superlatives of the world quizzes
+    - Trivia
+    - Quiz
+    - Geography quiz
 
 ### Music / Karoake
 

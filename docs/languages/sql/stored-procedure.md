@@ -26,9 +26,9 @@ EXEC *procedure_name*;
 - Stored procedures provide better security to your data
     Users can be granted permission to execute a stored procedure even if they do not have permission to execute the procedure's statements directly.
     In SQL Server we have different types of stored procedures:
-  - System stored procedures
-  - User-defined stored procedures
-  - Extended stored Procedures
+    - System stored procedures
+    - User-defined stored procedures
+    - Extended stored Procedures
 
 ## Types of stored procedures
 

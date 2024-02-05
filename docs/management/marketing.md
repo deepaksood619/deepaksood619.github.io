@@ -73,25 +73,25 @@ https://answerthepublic.com
 I see email being used, by and large, exactly the way I envisioned. In particular, it's not strictly a work tool or strictly a personal thing. Everybody uses it in different ways, but they use it in a way they find works for them. -- Ray Tomlinson (Inventor - Email)
 
 - Abandon Cart Campaign
-  - Email 1: 4 hours later
-  - Email 2: 16 hours later
-  - Email 3: 2 days later
+    - Email 1: 4 hours later
+    - Email 2: 16 hours later
+    - Email 3: 2 days later
 
 ![image](../media/Marketing-Sales-image6.jpg)
 
 - Flash sale: This is a simpe campaign with a few emails and a discount/promotion with a time-limit which persuades your customers to buy right now AKA Impulse Buying. [This campaign works well during holidays like Christmas, Halloween, Black Friday]
-  - Email 1: Day 1
-  - Email 2: Day 2
-  - Email 3: Day 4
-  - Email 4: Day 5
+    - Email 1: Day 1
+    - Email 2: Day 2
+    - Email 3: Day 4
+    - Email 4: Day 5
 
 ![image](../media/Marketing-Sales-image7.jpg)
 
 - Customer Nurturing: This is basically a flow to show your new customers that you care about them! It's a chance to educate them more about your brand
-  - Email 1: Immediately
-  - Email 2: 2 days later
-  - Email 3: 4 days later
-  - Note: Tell the customer how to use the product in the best way possible
+    - Email 1: Immediately
+    - Email 2: 2 days later
+    - Email 3: 4 days later
+    - Note: Tell the customer how to use the product in the best way possible
 
 ![image](../media/Marketing-Sales-image8.jpg)
 
@@ -160,8 +160,8 @@ I see email being used, by and large, exactly the way I envisioned. In particula
 - Copywriting Hacks for Email Marketing
 
 - Lead Nurturing
-  - You can follow-up with your leads for weeks, months and years to come
-  - You can give them value & build good will for years to come
+    - You can follow-up with your leads for weeks, months and years to come
+    - You can give them value & build good will for years to come
 
 - You don't need a fortune to be fortunate -- Neil Patel
 
@@ -229,59 +229,59 @@ https://blog.hubspot.com/blog/tabid/6307/bid/30684/the-ultimate-list-of-email-sp
 - Use Exit Intent
 
 - **Conduct market research**
-  - Learn about customer's buying habits through direct contact, such as:
-    - Surveys
-    - Interviews
-    - Focus groups
+    - Learn about customer's buying habits through direct contact, such as:
+        - Surveys
+        - Interviews
+        - Focus groups
 - **Create an irresistible offer**
 - **Use personalization to reel them in**
 - **Setting up Email Campaigns**
-  - Document your campaign's requirements
-  - Draft email copy
-  - Add copy to template
-  - Set up tracking
-  - Test your email
-  - Use data and make iterations
+    - Document your campaign's requirements
+    - Draft email copy
+    - Add copy to template
+    - Set up tracking
+    - Test your email
+    - Use data and make iterations
 - **Campaign Requirements**
-  - Know the goal of the campaign
-  - Utilize the right tone & voice in the copy that represents your brand
-  - A clear "from" address & name
-  - A segmented email list
-  - Compelling subject line
+    - Know the goal of the campaign
+    - Utilize the right tone & voice in the copy that represents your brand
+    - A clear "from" address & name
+    - A segmented email list
+    - Compelling subject line
 
 ## Workflows and sequences
 
 - **Welcome sequence**
-  - You should have a lead nurturing sequence - That warms up your leads with the best offers you company has
-  - Once the first 15-day lead nurturing sequence ends, you will have to take them from off the autoresponder list and put them into a brodcast list
+    - You should have a lead nurturing sequence - That warms up your leads with the best offers you company has
+    - Once the first 15-day lead nurturing sequence ends, you will have to take them from off the autoresponder list and put them into a brodcast list
 - **Autoresponder vs Broadcase**
-  - Autoresponder - One the subscriber signs up to a chosen list automatically emails will be delivered to their inbox as per your preset rules [Date, time, e-mails...]
-  - Broadcast - can be sent out right now or scheduled the email as per your requirement at any time or list you choose
+    - Autoresponder - One the subscriber signs up to a chosen list automatically emails will be delivered to their inbox as per your preset rules [Date, time, e-mails...]
+    - Broadcast - can be sent out right now or scheduled the email as per your requirement at any time or list you choose
 - **Campaign stacking**
-  - You can't build ONE email campaign or workflow to make your email marketing work
-  - It just isn't enough to provide value & build a relationship
-  - **The secret:** You campaign to stack them back-to-back to get the maximum sales from your contacts
+    - You can't build ONE email campaign or workflow to make your email marketing work
+    - It just isn't enough to provide value & build a relationship
+    - **The secret:** You campaign to stack them back-to-back to get the maximum sales from your contacts
 - **Segment Subscribers**
 - **Segmentation**
-  - Dividing your list into manageable segments of people that have something in common
-  - Used as a personalization to deliver more relevant email marketing to subsribers will increase conversions
+    - Dividing your list into manageable segments of people that have something in common
+    - Used as a personalization to deliver more relevant email marketing to subsribers will increase conversions
 
 ## Strategies for getting a higher open-rate
 
 - **The Double Opt-In Technique**
-  - Write one email and two subject lines. Send the email with subject line one.Then the next day, send the email with subject line two to the people who didn't open subject line one. This has been shown to increase open-rateby30%.
+    - Write one email and two subject lines. Send the email with subject line one.Then the next day, send the email with subject line two to the people who didn't open subject line one. This has been shown to increase open-rateby30%.
 - **Test Send Days & Times**
-  - Don't listen to the myths. Every email list is different when it comes to thebest day and time to send your email. In fact many are opened as far as 2 days after they are sent. Test to see what works for you.
+    - Don't listen to the myths. Every email list is different when it comes to thebest day and time to send your email. In fact many are opened as far as 2 days after they are sent. Test to see what works for you.
 - **Name From Company**
-  - Make sure that your readers know who is sending them messages. Make your send-from address "Name fromCompany". For example, Neil fromNeil Patel.
+    - Make sure that your readers know who is sending them messages. Make your send-from address "Name fromCompany". For example, Neil fromNeil Patel.
 - **Optimize Your Preheader**
-  - Most major email providers now have a"preheader"-an area next to the subject line displayed in your inbox that gives a preview of the email inside. Use this real estate wisely!
+    - Most major email providers now have a"preheader"-an area next to the subject line displayed in your inbox that gives a preview of the email inside. Use this real estate wisely!
 - **Optimize Your Subject Lines**
-  - Constantly test subject lines to see which gets you a better open-rate. This is almost always the biggest reasonwhy someone does or does not open an email.
+    - Constantly test subject lines to see which gets you a better open-rate. This is almost always the biggest reasonwhy someone does or does not open an email.
 - **Optimize for Mobile Readers**
-  - More than 50% of emails are read on a mobile device. Make sure that your email is optimized for mobile reading, so you don't miss out on getting an openfrom a mobile reader!
+    - More than 50% of emails are read on a mobile device. Make sure that your email is optimized for mobile reading, so you don't miss out on getting an openfrom a mobile reader!
 - **Segment Your Emails For Better Targeting**
-  - People want to feel like they'respending their precious time on something that was specially meant for them. Segment your emails as specifically as possible to better give them that thoughtful one-on-one experience with your emails.
+    - People want to feel like they'respending their precious time on something that was specially meant for them. Segment your emails as specifically as possible to better give them that thoughtful one-on-one experience with your emails.
 
 ## Conversion sequence brainstorm worksheet
 
@@ -304,9 +304,9 @@ https://blog.hubspot.com/blog/tabid/6307/bid/30684/the-ultimate-list-of-email-sp
 https://neilpatel.com/blog/social-media-shortcuts
 
 - Analytics
-  - What was the ROI of the billboard in Times Square?
-  - Do people who use feature X have a higher LTV?
-  - Do users in segment Y have higher engagement with feature Z?
+    - What was the ROI of the billboard in Times Square?
+    - Do people who use feature X have a higher LTV?
+    - Do users in segment Y have higher engagement with feature Z?
 
 [Home - Blockchain Ads](https://www.blockchain-ads.com/)
 
@@ -432,7 +432,7 @@ https://docs.leanplum.com/docs/app-inbox-messages
 
 - Telegram
 - Whatsapp
-  - YellowMessenger
+    - YellowMessenger
 
 ### Tools
 
@@ -483,10 +483,10 @@ Tools / Cloud vendors / Agencies
 - Gmass
 
 - Digital marketing
-  - https://hootsuite.com
-  - https://www.radaar.io
-  - https://ads.google.com
-    - DV360 (Display & Video 360)
+    - https://hootsuite.com
+    - https://www.radaar.io
+    - https://ads.google.com
+        - DV360 (Display & Video 360)
 - Content Creation
 
 https://www.peppercontent.io
@@ -504,15 +504,15 @@ https://www.havas.com
 https://initiative.com
 
 - Frontend
-  - neuronimbus
+    - neuronimbus
 - Sales Tools
 
 https://www.pipedrive.com
 
 - Localization
-  - Words Lead - Voice Over and Dubbing services
+    - Words Lead - Voice Over and Dubbing services
 - SAAS
-  - Josh Digital
+    - Josh Digital
 
 ## Others
 

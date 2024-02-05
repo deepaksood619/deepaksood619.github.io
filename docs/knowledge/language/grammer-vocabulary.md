@@ -93,16 +93,16 @@ Whataboutism, also known as whataboutery, is a variant of the [tu quoque](https:
 ## Others
 
 - Literature review / Research
-  - https://www.youtube.com/watch?v=t7PwqiiQmVM
+    - https://www.youtube.com/watch?v=t7PwqiiQmVM
 - omnipotent and omnipresent
 - interobang (‽) (often represented by**?!**, **!?**, **?!?**or**!?!**)
 - Intellectual dishonesty
 - Don't give me anecdotal evidence
 - **Nepotism**
-  - The practice among those with power or influence of favouring relatives or friends, especially by giving them jobs
+    - The practice among those with power or influence of favouring relatives or friends, especially by giving them jobs
 - has been / have been / had been
-  - "Had been" is used to mean that something happened in the past and has already ended.
-  - "Have been" and "has been" are used to mean that something began in the past and has lasted into the present time.
+    - "Had been" is used to mean that something happened in the past and has already ended.
+    - "Have been" and "has been" are used to mean that something began in the past and has lasted into the present time.
 
 As a general rule, "has" is used in the third person singular ("he", "she", "it") and singular nouns.
 
@@ -122,14 +122,14 @@ https://myenglishmatters.com/2018/06/28/whats-the-difference-between-has-been-ha
 - temperament - a person's or animal's nature, especially as it permanently affects their behaviour
 - hypocrisy - the practice of claiming to have higher standards or more noble beliefs than is the case
 - Heuristic
-  - enabling someone to discover or learn something for themselves.
-  - proceeding to a solution by trial and error or by rules that are only loosely defined.
+    - enabling someone to discover or learn something for themselves.
+    - proceeding to a solution by trial and error or by rules that are only loosely defined.
 - Catnip - someone or something that is very attractive or appealing to a particular person or group.
-  - both men are aggressive self-promoters and catnip for the media
+    - both men are aggressive self-promoters and catnip for the media
 - dire straits - in a very bad situation that is difficult to fix
 - Volition - the faculty or power of using one's will.
 - one-upmanship - the technique or practice of gaining an advantage or feeling of superiority over another person.
-  - "the one-upmanship of who can get the best presents"
+    - "the one-upmanship of who can get the best presents"
 - **prescient** - having or showing knowledge of events before they take place. "a prescient warning"
 - **Midas Touch** - the ability to make money out of anything one undertakes.
 - autodidact - a self-taught person

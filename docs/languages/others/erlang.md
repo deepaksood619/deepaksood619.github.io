@@ -9,8 +9,8 @@ OTP is set of Erlang libraries and design principles providing middle-ware to de
 ## Sequential Programming
 
 - [Numbers](https://www.erlang.org/course/sequential-programming#numbers).
-  - [Integers](https://www.erlang.org/course/sequential-programming#integers)
-  - [Floats](https://www.erlang.org/course/sequential-programming#floats)
+    - [Integers](https://www.erlang.org/course/sequential-programming#integers)
+    - [Floats](https://www.erlang.org/course/sequential-programming#floats)
 - [Atoms](https://www.erlang.org/course/sequential-programming#atoms)
 - [Tuples](https://www.erlang.org/course/sequential-programming#tuples)
 - [Lists](https://www.erlang.org/course/sequential-programming#lists)
@@ -24,7 +24,7 @@ OTP is set of Erlang libraries and design principles providing middle-ware to de
 - [Function syntax](https://www.erlang.org/course/sequential-programming#funcsyntax)
 - [An example of function evaluation](https://www.erlang.org/course/sequential-programming#evaluation)
 - [Guarded function clauses](https://www.erlang.org/course/sequential-programming#guardedfuncs)
-  - [Examples of Guards](https://www.erlang.org/course/sequential-programming#guardexample)
+    - [Examples of Guards](https://www.erlang.org/course/sequential-programming#guardexample)
 - [Traversing Lists](https://www.erlang.org/course/sequential-programming#listtrav)
 - [Lists and Accumulators](https://www.erlang.org/course/sequential-programming#listacc)
 - [Shell commands](https://www.erlang.org/course/sequential-programming#shell)

@@ -64,10 +64,10 @@ https://www.atlassian.com/blog/inside-atlassian/stopping-team-dysfunction-before
 - It is held at the same time and place every day
 - It involves the same participants every day
 - There is a fixed agenda that is usually to answer a fixed set of questions
-  - What did you complete yesterday?
-  - What do you commit to do today?
-  - When do you think you'll be done with that?
-  - Any blockers in your way?
+    - What did you complete yesterday?
+    - What do you commit to do today?
+    - When do you think you'll be done with that?
+    - Any blockers in your way?
 - Any transgressing topic is scheduled to be discussed later, ensuring only the questions defined in the agenda are answered during the daily scrum
 
 - **Automated, asynchronous meetings.**
@@ -150,9 +150,9 @@ https://en.wikipedia.org/wiki/Responsibility_assignment_matrix
 - Product Review
 - Risk Review
 - Engineering Review
-  - API Design
-  - Database modeling
-  - Test cases
+    - API Design
+    - Database modeling
+    - Test cases
 - Demo - 1 (product + engineering)
 - Demo - 2 (product + engineering)
 - Demo - 3 by QA (product + engineering)
@@ -169,11 +169,11 @@ https://en.wikipedia.org/wiki/Responsibility_assignment_matrix
 - Test case creation
 - Test case review
 - **Design documentation**
-  - Use case
-  - Scope
-  - Cuts
-  - HLD (High level design)
-  - LLD (Low level design)
+    - Use case
+    - Scope
+    - Cuts
+    - HLD (High level design)
+    - LLD (Low level design)
 - Design review
 - Coding
 - Unit testing
@@ -185,14 +185,14 @@ https://en.wikipedia.org/wiki/Responsibility_assignment_matrix
 
 - Add items to backlog (cold/hot)
 - Start a weekly sprint from backlog
-  - Backlog grooming
-  - Story points estimation (time estimation)
-  - Accordingly assign tasks
+    - Backlog grooming
+    - Story points estimation (time estimation)
+    - Accordingly assign tasks
 - Add tasks from backlog to sprint
 - Each sprint is a release (hard deadline)
 - Adhoc tasks should be tagged and at last see how many adhoc task comes
 - Close the sprint and start new sprint
-  - Move old not completed items to next sprint
+    - Move old not completed items to next sprint
 
 ## Analytics
 

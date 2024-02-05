@@ -29,14 +29,14 @@ Components
 - ThinkExam
 - **Speedexam** - https://www.speedexam.net - 50 exams per month free
 - **Coding**
-  - Codility (good but high price)
-  - Evalground (150 per test, 100 min no of tests, 15000)
-  - Coderbyte (35 dollars per month)
-  - CoderPad
-  - Hackerrank
-  - Codefights
-  - CodeAssess
-  - test4geeks
+    - Codility (good but high price)
+    - Evalground (150 per test, 100 min no of tests, 15000)
+    - Coderbyte (35 dollars per month)
+    - CoderPad
+    - Hackerrank
+    - Codefights
+    - CodeAssess
+    - test4geeks
 - Concerto - https://github.com/campsych/concerto-platform
 - Savsoft - https://github.com/savsofts/savsoftquiz_v5
 - TCExam - https://tcexam.org/docs/installation - https://github.com/tecnickcom/tcexam

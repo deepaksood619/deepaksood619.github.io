@@ -108,7 +108,7 @@ Where μ is the average across the n observations, and X~j~ is the value that of
 - The standard deviation is the square root of the variance
 - When there is more divergence from the mean, the standard deviation will be higher, but it will be in the same units as the base data. Thus, if the base data is in dollars, the standard deviation will be in dollars, and if it is in percent, it will be in percent
 - Since standard deviations cannot be compared across two samples with different units or levels, you can compute a standidized version of the measure
-  - **Coefficient of Variation = Std deviation in value / average value**
+    - **Coefficient of Variation = Std deviation in value / average value**
 
 ## Standard Deviation and Standard Error
 
@@ -119,15 +119,15 @@ Where μ is the average across the n observations, and X~j~ is the value that of
 
 - As sample size increases, there will be no discernible effect on the former, but the latter will always decrease
 - When you are extrapolating from sample findings to the population, the standard errors become useful because they can be used to provide ranges for estimates. Thus, if your averate is μ, and your standard error is SE, drawing on the central limit theorem, you can estimate the population mean:
-  - With 67% confidence: μ ± SE
-  - With 95% confidence: μ ± 2*SE
+    - With 67% confidence: μ ± SE
+    - With 95% confidence: μ ± 2*SE
 
 ## Measures of Asymmetry
 
 - When the data is symmetric, the deviations from the mean fall equally or roughly equally on either side of the mean
 - When the data is asymmetric, deviations on one side of the mean are much more pronounced than deviations on the other side. This deviation is measured with skewness
-  - If the deviations are more pronounced/extreme for the observations that have values higher than the average, the distribution is positively skewed
-  - If the deviations are more pronounced/extreme for the observations that have values lower than the average, the distribution is negatively skewed
+    - If the deviations are more pronounced/extreme for the observations that have values higher than the average, the distribution is positively skewed
+    - If the deviations are more pronounced/extreme for the observations that have values lower than the average, the distribution is negatively skewed
 - When data is asymmetric, the average will be skewed in the same direction as the asymmetry, and in some cases the skew can be large enough to make it unrepresentative of the sample
 
 ## Skewness
@@ -138,8 +138,8 @@ Where μ is the average across the n observations, and X~j~ is the value that of
 
 - You can measure of how much, and how frequently, data takes extreme values, relative to its central value. That measure is called kurtosis
 - While variance and kurtosis are both affected by the presence (or absence) of extreme values, they measure different phenomenon
-  - You can have high variance and low kurtosis, low variance and high kurtosis or high variance and high kurtosis
-  - Distributions that have more frequent occurrences of extreme values are referred to as having fat tails or **leptokurtic.** Distribution that have less frequent occurrences of extreme values are referred to as **platykurtic**
+    - You can have high variance and low kurtosis, low variance and high kurtosis or high variance and high kurtosis
+    - Distributions that have more frequent occurrences of extreme values are referred to as having fat tails or **leptokurtic.** Distribution that have less frequent occurrences of extreme values are referred to as **platykurtic**
 
 ## Randomness
 

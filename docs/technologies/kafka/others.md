@@ -96,8 +96,8 @@ When the broker receives a compressed batch of messages from a producer:
 
 - it always decompresses the data in order to validate it
 - it considers the compression codec of the destination topic
-  - if the compression codec of the destination topic isproducer, or if the codecs of the batch and destination topic are the same, the broker takes the compressed batch from the client and writes it directly to the topic's log file without recompressing the data.
-  - Otherwise, the broker needs to re-compress the data to match the codec of the destination topic.
+    - if the compression codec of the destination topic isproducer, or if the codecs of the batch and destination topic are the same, the broker takes the compressed batch from the client and writes it directly to the topic's log file without recompressing the data.
+    - Otherwise, the broker needs to re-compress the data to match the codec of the destination topic.
 
 Decompression and re-compression can also happen if producers are running a version prior to 0.10 because offsets need to be overwritten, or if any other message format conversion is required.
 

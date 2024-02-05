@@ -94,13 +94,13 @@ https://jamesclear.com/time-management-tips
 
 - Chunking
 - Space Repetition
-  - 1-2-4-7 Technique
-  - Feynman Technique
+    - 1-2-4-7 Technique
+    - Feynman Technique
 - Imagery to Text Mapping
-  - Mnemonics
-  - Mind Palace
-  - Index cards
-  - Meaningful groups
+    - Mnemonics
+    - Mind Palace
+    - Index cards
+    - Meaningful groups
 
 https://kwiklearning.com/kwik-tips/5-leisure-activities-that-are-great-for-your-brain
 

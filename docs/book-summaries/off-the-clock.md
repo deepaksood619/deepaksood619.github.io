@@ -11,8 +11,8 @@ Feel less busy while getting more done
 - *Accept the constraints on your time and lower your expectations*
 - Spend your money on enlargin pleasant experiences and minimizing bad ones
 - Have time for adventures
-  - Figure out where the time actually goes
-  - Plan in little adventures
-  - Be careful with **yes**
-  - Slow down
-  - Put friends on your calendar
+    - Figure out where the time actually goes
+    - Plan in little adventures
+    - Be careful with **yes**
+    - Slow down
+    - Put friends on your calendar

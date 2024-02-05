@@ -54,10 +54,10 @@ You can enable [encryption at rest](https://kubernetes.io/docs/tasks/administer-
 ### Risks
 
 - In the API server, secret data is stored in [etcd](https://kubernetes.io/docs/tasks/administer-cluster/configure-upgrade-etcd/); therefore:
-  - Administrators should enable encryption at rest for cluster data (requires v1.13 or later).
-  - Administrators should limit access to etcd to admin users.
-  - Administrators may want to wipe/shred disks used by etcd when no longer in use.
-  - If running etcd in a cluster, administrators should make sure to use SSL/TLS for etcd peer-to-peer communication.
+    - Administrators should enable encryption at rest for cluster data (requires v1.13 or later).
+    - Administrators should limit access to etcd to admin users.
+    - Administrators may want to wipe/shred disks used by etcd when no longer in use.
+    - If running etcd in a cluster, administrators should make sure to use SSL/TLS for etcd peer-to-peer communication.
 - If you configure the secret through a manifest (JSON or YAML) file which has the secret data encoded as base64, sharing this file or checking it in to a source repository means the secret is compromised. Base64 encoding isnotan encryption method and is considered the same as plain text.
 - Applications still need to protect the value of secret after reading it from the volume, such as not accidentally logging it or transmitting it to an untrusted party.
 - A user who can create a Pod that uses a secret can also see the value of that secret. Even if the API server policy does not allow that user to read the Secret, the user could run a Pod which exposes the secret.

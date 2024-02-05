@@ -35,23 +35,23 @@ AWS Identity and Access Management (IAM) enables you to manage access to AWS ser
 ## IAM policy language
 
 - IAM policies
-  - Two parts:
-    - Specification: Defining access policies
-    - Enforcement: Evaluating policies
+    - Two parts:
+        - Specification: Defining access policies
+        - Enforcement: Evaluating policies
 
 - When you define access policies, you specify which IAM principals are allowed to perform which actions on specific AWS resources and under which conditions
 - IAM enforces this access by evaluating the AWS request and the policies you defined and returns either yes or no answer
 
 - IAM policy structure (PARC model)
-  - **Principal**
-    - The entity that is allowed or denied access
-  - **Action**
-    - Type of access that is allowed or denied access
-    - Action: s3.GetObject
-  - **Resource**
-    - The amazon resource(s) the action will act on (arn - amazon resource number)
-  - **Condition**
-    - The conditions under the access defined is valid
+    - **Principal**
+        - The entity that is allowed or denied access
+    - **Action**
+        - Type of access that is allowed or denied access
+        - Action: s3.GetObject
+    - **Resource**
+        - The amazon resource(s) the action will act on (arn - amazon resource number)
+    - **Condition**
+        - The conditions under the access defined is valid
 - IAM policy evaluation rules
 
 ![image](../../../media/Cloud-AWS-IAM-image1.jpg)
@@ -61,7 +61,7 @@ AWS Identity and Access Management (IAM) enables you to manage access to AWS ser
 ## Policy types and how they work together
 
 - Policy types
-  - AWS Organizations
+    - AWS Organizations
 
 Guardrails to disable service access on the principals in the account
 
@@ -103,11 +103,11 @@ Controls access to the service with a VPC endpoint
 ## Policies
 
 - [AWS Managed Policies](https://docs.aws.amazon.com/IAM/latest/UserGuide/access_policies_managed-vs-inline.html#aws-managed-policies)
-  - FullAccess
-  - PowerUser
-  - WriteOnly
-  - ReadOnly
-  - One particularly useful category of AWS managed policies are those designed for job functions. These policies align closely to commonly used job functions in the IT industry. The intent is to make granting permissions for these common job functions easy. One key advantage of using job function policies is that they are maintained and updated by AWS as new services and API operations are introduced. For example, the [AdministratorAccess](https://console.aws.amazon.com/iam/home#policies/arn:aws:iam::aws:policy/AdministratorAccess) job function provides full access and permissions delegation to every service and resource in AWS. We recommend that this policy is used only for the account administrator. For power users that require full access to every service except limited access to IAM and Organizations, use the [PowerUserAccess](https://console.aws.amazon.com/iam/home#policies/arn:aws:iam::aws:policy/PowerUserAccess) job function.
+    - FullAccess
+    - PowerUser
+    - WriteOnly
+    - ReadOnly
+    - One particularly useful category of AWS managed policies are those designed for job functions. These policies align closely to commonly used job functions in the IT industry. The intent is to make granting permissions for these common job functions easy. One key advantage of using job function policies is that they are maintained and updated by AWS as new services and API operations are introduced. For example, the [AdministratorAccess](https://console.aws.amazon.com/iam/home#policies/arn:aws:iam::aws:policy/AdministratorAccess) job function provides full access and permissions delegation to every service and resource in AWS. We recommend that this policy is used only for the account administrator. For power users that require full access to every service except limited access to IAM and Organizations, use the [PowerUserAccess](https://console.aws.amazon.com/iam/home#policies/arn:aws:iam::aws:policy/PowerUserAccess) job function.
 
 - [Customer Managed Policies](https://docs.aws.amazon.com/IAM/latest/UserGuide/access_policies_managed-vs-inline.html#customer-managed-policies)
 

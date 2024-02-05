@@ -93,8 +93,8 @@ Huffman algorithm:
 - Count frequency freq[i] for each char i in input
 - Start with one node corresponding to each char i (with weight freq[i])
 - Repeat until single trie formed:
-  - Select two tries with min weight freq[i] and freq[j]
-  - merge into single trie with weight freq[i] + freq[j]
+    - Select two tries with min weight freq[i] and freq[j]
+    - merge into single trie with weight freq[i] + freq[j]
 
 ## Constructing a Huffman encoding trie: Java implementation
 

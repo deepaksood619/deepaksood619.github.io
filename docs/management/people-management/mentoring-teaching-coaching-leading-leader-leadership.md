@@ -196,9 +196,9 @@ https://seekwise.org
 
 - Give employees stretch goals (that are hard to accomplish but doable) that will give them boost for completing tasks, and then celebrate the achievement.
 - Ask everyone after standup, one personal thing that everyone has to answer
-  - One embarassing thing about you
-  - What you will do if you have all the money
-  - Place to visit
+    - One embarassing thing about you
+    - What you will do if you have all the money
+    - Place to visit
 
 ## Links
 

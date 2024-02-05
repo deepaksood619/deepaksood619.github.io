@@ -42,11 +42,11 @@ Once we've defined a DAG - i.e. we've instantiated tasks and defined their depen
 The kubernetes executor is introduced in Apache Airflow 1.10.0. The Kubernetes executor will create a new pod for every task instance.
 
 - **Dags**
-  - By storing dags onto persistent disk, it will be made available to all workers
-  - Another option is to usegit-sync. Before starting the container, a git pull of the dags repository will be performed and used throughout the lifecycle of the pod
+    - By storing dags onto persistent disk, it will be made available to all workers
+    - Another option is to usegit-sync. Before starting the container, a git pull of the dags repository will be performed and used throughout the lifecycle of the pod
 - **Logs**
-  - By storing logs onto a persistent disk, the files are accessible by workers and the webserver. If you don't configure this, the logs will be lost after the worker pods shuts down
-  - Another option is to use S3/GCS/etc to store logs
+    - By storing logs onto a persistent disk, the files are accessible by workers and the webserver. If you don't configure this, the logs will be lost after the worker pods shuts down
+    - Another option is to use S3/GCS/etc to store logs
 
 https://airflow.apache.org/kubernetes.html
 

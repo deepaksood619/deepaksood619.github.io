@@ -29,15 +29,15 @@ Elective Courses (choose 2 of 3):
 ![image](../../media/Mental-Models_Microeconomics-image1.jpg)
 
 - A Demand Curve is a function that shows the quantity demanded at different prices
-  - The Quantity Demanded is the quantity that buyers are willing (and able) to purchase at a particular price
+    - The Quantity Demanded is the quantity that buyers are willing (and able) to purchase at a particular price
 - Demand curves can be read in two ways
-  - Horizontally - The quantity buyers are willing and able to purchase at a given price
-  - Vertically - the maximum price that buyers are willing to pay for a given unit of oil
+    - Horizontally - The quantity buyers are willing and able to purchase at a given price
+    - Vertically - the maximum price that buyers are willing to pay for a given unit of oil
 
 ![image](../../media/Mental-Models_Microeconomics-image2.jpg)
 
 - **Consumer surplus** is the consumer's gain from exchange
-  - the difference between the mazimum price a consumer is willing to pay for a given quantity and the market price
+    - the difference between the mazimum price a consumer is willing to pay for a given quantity and the market price
 - **Total consumer surplus** is the sum of consumer surplus of all buyers
 - Graphically, total consumer surplus is measured by the **area below the demand curve and above the price.**
 
@@ -45,7 +45,7 @@ Elective Courses (choose 2 of 3):
 
 - An **increase in demand** means an increase in quantity demanded at every given price or (in other words) an increase in the maximum willingness to pay for each given quantity
 - What would cause an increase in demand?
-  - Anything that increases the quantity demanded at a given price or that increases the maximum willingness to pay for a given quantity
+    - Anything that increases the quantity demanded at a given price or that increases the maximum willingness to pay for a given quantity
 - A **decrease in demand** means a decrease in quantity demanded at every given price or (in other words) a decrease in the maximum willingness to pay for each given quantity
 
 ### Demand Shifters (Income, Population, Substitutes, Complements, Expectations, Tastes)
@@ -56,9 +56,9 @@ Elective Courses (choose 2 of 3):
 - Ex - When I was a student, I used to eat more at McD, but now when my income increased I eat at better restaurants, so McD consumption decreases with the rise in income.
 - Two goods are **Substitutes** if an increase in the price of one good leads to an increase in demand for the other good (or vice versa)
 - Two goods are **Complements** if an increase in the price of one good leads to an decrease in the demand for the other (or vice versa)
-  - Ex - Petrol car and Petrol (if price increases for one, there is a decrease in demand for the other)
+    - Ex - Petrol car and Petrol (if price increases for one, there is a decrease in demand for the other)
 - The **expectation** of a higher (lower) price for a good in the future increases (decreases) current demand for the good
-  - Consumers will adjust their current spending **in anticipation of the direction of future prices** in order to obtain the lowest possible price.
+    - Consumers will adjust their current spending **in anticipation of the direction of future prices** in order to obtain the lowest possible price.
 - Tastes and preferences are subjective and will vary among consumers
 
 ### Change in Demand vs Change in Quantity Demanded
@@ -85,7 +85,7 @@ Elasticity of demand = 0.5
 
 - Supply represents the behavior of sellers
 - A **Supply Curve** is a function that shows the quantity supplied at different prices
-  - The **Quantity Supplied** is the quantity that producers are willing and able to sell at a particular price
+    - The **Quantity Supplied** is the quantity that producers are willing and able to sell at a particular price
 
 ![image](../../media/Mental-Models_Microeconomics-image5.jpg)
 

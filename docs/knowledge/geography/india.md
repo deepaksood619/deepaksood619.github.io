@@ -16,8 +16,8 @@
 
 - India’s total literacy rate is 77.70%
 - Kerala - 96.2%
-  - Female literacy - 95.2%
-  - Male literacy - 97.4%.
+    - Female literacy - 95.2%
+    - Male literacy - 97.4%.
 - Chhattisgarh - 70.3%
 - Haryana - 75.6%
 

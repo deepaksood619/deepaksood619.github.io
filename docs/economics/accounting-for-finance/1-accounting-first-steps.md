@@ -6,18 +6,18 @@
 - To record them in a consistent manner
 - To report the results in standardized form
 - Much as accounting wants to make itself more relevant and central to businesses, it is not the role of accounting:
-  - Forecast the future, no matter how tempted
-  - Value assets or operations
+    - Forecast the future, no matter how tempted
+    - Value assets or operations
 - Bluntly put, an accountant is a historian, chronicling events that have already occurred, not predicting the future
 
 ## The Accounting Questions
 
 - What do you own?
-  - List out the assets that a business has invested in, and how much it spend on those investments and perhaps what these assets are worth today
+    - List out the assets that a business has invested in, and how much it spend on those investments and perhaps what these assets are worth today
 - What do you owe?
-  - Specify the contractual commitments that a business has to meet, to stay in business. Simply put, this should include all borrowings, but is not restricted to those.
+    - Specify the contractual commitments that a business has to meet, to stay in business. Simply put, this should include all borrowings, but is not restricted to those.
 - How much money did you make?
-  - Measure the profitability of the business, both with accounting judgements on expenses, and based upon cash in and cash out
+    - Measure the profitability of the business, both with accounting judgements on expenses, and based upon cash in and cash out
 
 ## Annual Report
 
@@ -53,11 +53,11 @@
 ## The Accounting Standards
 
 - Accounting is a rule-driven process, and over time, those rules have been formalized, especially for publicly traded companies. This formalization is driven by two consideration:
-  - *Standardization*, to allow for comparisons across companies
-  - *First principles*, to ensure that earnings, asset value and cash flows measure what they are supposed to measure.
+    - *Standardization*, to allow for comparisons across companies
+    - *First principles*, to ensure that earnings, asset value and cash flows measure what they are supposed to measure.
 - While accounting standards around the world remain different, they have converged (for the most part) around two standards:
-  - GAAP (Generally Accepted Accounting Principles), representing rules developed by FASB (Financial Accounting Standards Board) to cover US financial reporting
-  - IFRS (International Financial Reporting Standards), representing rules developed by IASB (International Accounting Standards Board) for companies listed globally, followed by about 90 countries as of 2020.
+    - GAAP (Generally Accepted Accounting Principles), representing rules developed by FASB (Financial Accounting Standards Board) to cover US financial reporting
+    - IFRS (International Financial Reporting Standards), representing rules developed by IASB (International Accounting Standards Board) for companies listed globally, followed by about 90 countries as of 2020.
 
 ## The Bottom Line
 

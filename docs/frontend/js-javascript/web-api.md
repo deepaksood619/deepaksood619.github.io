@@ -22,7 +22,7 @@ Client-side JavaScript, in particular, has many APIs available to it - these are
 - [Beacon](https://developer.mozilla.org/en-US/docs/Web/API/Beacon_API)
 - [Bluetooth API](https://developer.mozilla.org/en-US/docs/Web/API/Web_Bluetooth_API)
 - [Broadcast Channel API](https://developer.mozilla.org/en-US/docs/Web/API/Broadcast_Channel_API)
-  - [BroadcastChannel API - A message bus for the web - Chrome Developers](https://developer.chrome.com/blog/broadcastchannel/)
+    - [BroadcastChannel API - A message bus for the web - Chrome Developers](https://developer.chrome.com/blog/broadcastchannel/)
 
 ## C
 

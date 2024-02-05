@@ -23,51 +23,51 @@ I am a highly skilled and experienced engineer with 7+ years of experience with 
 - Scaled the stack from Rs. 100M p.m. disbursals to Rs. 5000M p.m. disbursals
 
 - Managed around 40-60 people over multiples teams across engineering
-  - Backend
-    - PHP
-    - Python
-  - DevOps
-    - SRE
-    - Kubernetes
-    - DBA
-  - Mobile
-    - Android
-    - iOS
-  - Frontend
-    - React - Lead the whole team and multiple projects
-    - SEO
-  - QA
-    - Selenium
-    - Appium
-    - Postman Runners
-  - Data Science and AI
-    - Modeling
-      - Image Fraud Detection (Computer Vision)
-      - NLP (Chatbots)
-      - Credit Risk Modeling
-    - Analytics
-      - PowerBI + Redshift
-        - ETLs
-  - Product (Multiple projects)
-    - Holistic product development across different verticals
-      - Customer Support
-      - Marketing + SEO Optimizations
-      - Communications Overhaul
-    - TestBook Integration
-    - Graduation Journey
-    - StepUp Journey
-  - R&D over all the fields specified
-  - Others
-    - Cleanups
-    - Optimizations (in terms of Cost/CPU/Memory/Time)
-    - Code Reviews
-    - Testing
-    - Hiring
-    - Culture (Created a competitive and helpful culture with Remote, Hybrid and Diverse teams)
+    - Backend
+        - PHP
+        - Python
+    - DevOps
+        - SRE
+        - Kubernetes
+        - DBA
+    - Mobile
+        - Android
+        - iOS
+    - Frontend
+        - React - Lead the whole team and multiple projects
+        - SEO
+    - QA
+        - Selenium
+        - Appium
+        - Postman Runners
+    - Data Science and AI
+        - Modeling
+            - Image Fraud Detection (Computer Vision)
+            - NLP (Chatbots)
+            - Credit Risk Modeling
+        - Analytics
+            - PowerBI + Redshift
+                - ETLs
+    - Product (Multiple projects)
+        - Holistic product development across different verticals
+            - Customer Support
+            - Marketing + SEO Optimizations
+            - Communications Overhaul
+        - TestBook Integration
+        - Graduation Journey
+        - StepUp Journey
+    - R&D over all the fields specified
+    - Others
+        - Cleanups
+        - Optimizations (in terms of Cost/CPU/Memory/Time)
+        - Code Reviews
+        - Testing
+        - Hiring
+        - Culture (Created a competitive and helpful culture with Remote, Hybrid and Diverse teams)
 - Roles performed
-  - Backend - Data Engineer, SRE, DevOps Engineer, DBA, Data Analyst, Data Scientist
-  - Clients - Mobile Lead (Android + iOS), Frontend Lead (React), QA Lead
-  - Others - Strategy, Vision, Hiring, Project Management, Product Management, Mentoring, Leading
+    - Backend - Data Engineer, SRE, DevOps Engineer, DBA, Data Analyst, Data Scientist
+    - Clients - Mobile Lead (Android + iOS), Frontend Lead (React), QA Lead
+    - Others - Strategy, Vision, Hiring, Project Management, Product Management, Mentoring, Leading
 
 ### AIML Analytics Solutions Pvt. Ltd. (OpenDataFabric), Senior Data Engineer, Client - Stashfin (Feb 2020 - Aug 2020)
 

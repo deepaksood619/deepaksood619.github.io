@@ -82,7 +82,7 @@ https://istio.io/docs/ops/deployment/deployment-models
 https://istio.io/docs/ops/integrations/certmanager
 
 - Grafana
-  - [Mesh Dashboard](https://grafana.com/grafana/dashboards/7639) provides an overview of all services in the mesh.
+    - [Mesh Dashboard](https://grafana.com/grafana/dashboards/7639) provides an overview of all services in the mesh.
 
 Provides Global Summary view of the Mesh and shows HTTP/gRPC and TCP workloads in the Mesh.
 

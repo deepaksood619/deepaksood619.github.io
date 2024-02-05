@@ -14,5 +14,5 @@
 ![image](../../media/Internals-image2.jpg)
 
 - Benefits
-  - SIMD (Single Instruction Multiple Data) Vector Processing
-  - Effective Cache Utilization
+    - SIMD (Single Instruction Multiple Data) Vector Processing
+    - Effective Cache Utilization

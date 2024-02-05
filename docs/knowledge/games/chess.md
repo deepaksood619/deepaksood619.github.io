@@ -58,14 +58,14 @@ Tactics - Play characterized by short-term attacks and threats
 - Double attack
 - **Fork** (royal fork - when both king and queen are attacked)
 - **Pin**
-  - Absolute pin (pin on king)
-  - Relative pin
+    - Absolute pin (pin on king)
+    - Relative pin
 - **Skewer**
-  - When you attack a valuable piece, compel it to move to avoid capture, which then exposes a less valuable piece for capture
-  - You may be vulnerable to a pin or skewer tactic if you have multiple pieces on the same file, rank or diagonal
+    - When you attack a valuable piece, compel it to move to avoid capture, which then exposes a less valuable piece for capture
+    - You may be vulnerable to a pin or skewer tactic if you have multiple pieces on the same file, rank or diagonal
 - **Deflection**
-  - When you chase away a piece from an important square
-  - You may be vulnerable to a deflection tactic if one of your pieces has a defensive responsibility
+    - When you chase away a piece from an important square
+    - You may be vulnerable to a deflection tactic if one of your pieces has a defensive responsibility
 - **Discovered check** or discovered attack
 - **Double check** - when two pieces attack the king simultaneously, a double check by it's nature involves a discovered check.. In most cases king has to move
 - **Clearance** - When you move one of your pieces out of the way of another. This will allow one of your pieces to then make use of a certain square, file, rank or diagonal

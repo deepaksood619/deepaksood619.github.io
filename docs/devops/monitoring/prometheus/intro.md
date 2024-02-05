@@ -44,28 +44,28 @@ A CNCF (Cloud Native Computing Foundation) project, is a systems and service mon
 ## Metrics
 
 - Node metrics (related to physical or virtual machines)
-  - CPU, RAM, disk usage on the whole node
-  - Total number of processes running, and their states
-  - Number of open files, sockets, and their states
-  - I/O activity (disk, network), per operation or volume
-  - Physical/hardware (when applicable): temperature, fan speed ...
+    - CPU, RAM, disk usage on the whole node
+    - Total number of processes running, and their states
+    - Number of open files, sockets, and their states
+    - I/O activity (disk, network), per operation or volume
+    - Physical/hardware (when applicable): temperature, fan speed ...
 
 - Container metrics (resource usage per container)
-  - Similar to node metrics, but not totally identical
-  - RAM breakdown will be different
-    - active vs inactive memory
-    - some memory issharedbetween containers, and accounted specially
-  - I/O activity is also harder to track
-    - async writes can cause deferred "charges"
-    - some page-ins are also shared between containers
+    - Similar to node metrics, but not totally identical
+    - RAM breakdown will be different
+        - active vs inactive memory
+        - some memory issharedbetween containers, and accounted specially
+    - I/O activity is also harder to track
+        - async writes can cause deferred "charges"
+        - some page-ins are also shared between containers
 
 http://jpetazzo.github.io/2013/10/08/docker-containers-metrics
 
 - Application Metrics
-  - Arbitrary metrics related to your application and business
-  - System performance: request latency, error rate ...
-  - Volume information: number of rows in database, message queue size ...
-  - Business data: inventory, items sold, revenue ...
+    - Arbitrary metrics related to your application and business
+    - System performance: request latency, error rate ...
+    - Volume information: number of rows in database, message queue size ...
+    - Business data: inventory, items sold, revenue ...
 
 - Databases, message queues, load balancers, ...
 - Instrumentation (=deluxeprintffor our code)

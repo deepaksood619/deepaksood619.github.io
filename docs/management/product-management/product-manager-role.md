@@ -37,8 +37,8 @@ The most important PM attributes
 [https://medium.com/productmanagement101/spotify-squad-framework-part-i-8f74bcfcd761](https://medium.com/productmanagement101/spotify-squad-framework-part-i-8f74bcfcd761)
 
 - High alignment, High Autonomy
-  - We need to cross the river (Management) , figure it out how (Squads)
-  - Alignment enables autonomy
+    - We need to cross the river (Management) , figure it out how (Squads)
+    - Alignment enables autonomy
 - If you need to know exactly who is making decisions, you are in the wrong place
 - If everything is under control you are going too slow
 
@@ -79,12 +79,12 @@ There is no perfect PEPSI there are only perfect PEPSIs
 - Technical Product Managers (TPMs)
 - Product Marketing Managers
 - Specializations
-  - UX
-  - Tech
-  - Customer Experience (CX) / Ops
-  - Based on vertical
-  - Data Platforms
-  - B2B vs B2C vs B2B2C
+    - UX
+    - Tech
+    - Customer Experience (CX) / Ops
+    - Based on vertical
+    - Data Platforms
+    - B2B vs B2C vs B2B2C
 
 ## Helpful things
 

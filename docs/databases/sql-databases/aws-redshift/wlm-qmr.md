@@ -21,8 +21,8 @@ Set query timeouts to abort long running queries
 
 - Assigned a percentage of cluster memory
 - SQL queries execute in queue based on
-  - Use group: which groups the user belongs to
-  - Query group session level variable
+    - Use group: which groups the user belongs to
+    - Query group session level variable
 
 #### Short query acceleration (SQA)
 
@@ -31,11 +31,11 @@ Set query timeouts to abort long running queries
 ### Queue attributes
 
 - Query slots (or Concurrency)
-  - Devision of memory within a WLM queue, correlated with the number of simultaneous running queries
-  - WLM_QUERY_SLOT_COUNT is a session level variable
-    - Useful to increase for memory intensive operations (example: large COPY, VACUUM, larege INSERT INTO SELECT)
+    - Devision of memory within a WLM queue, correlated with the number of simultaneous running queries
+    - WLM_QUERY_SLOT_COUNT is a session level variable
+        - Useful to increase for memory intensive operations (example: large COPY, VACUUM, larege INSERT INTO SELECT)
 - Concurrency Scaling
-  - When queues are full, queries are routed to transient Amazon Redshift clusters
+    - When queues are full, queries are routed to transient Amazon Redshift clusters
 
 ### Workload management: Example
 
@@ -69,12 +69,12 @@ SET query_group TO 'superuser'
 - Extension of workload management (WLM)
 - Allow the automatic handling of runaway (poorly written) queries
 - Rules applied to a WLM queue allow queries to be
-  - LOGGED
-  - ABORTED
-  - HOPPED
+    - LOGGED
+    - ABORTED
+    - HOPPED
 - Goals
-  - Protect against wasteful use of the cluster
-  - Log resource-intensive queries
+    - Protect against wasteful use of the cluster
+    - Log resource-intensive queries
 
 ## WLM and QMR
 

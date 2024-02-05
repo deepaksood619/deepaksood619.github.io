@@ -39,14 +39,14 @@ Systems design is the process of defining the [architecture](https://en.wikipedi
 ### Gather requirements (Functional and non-functional requirements)
 
 - Functional
-  - sendMessage(messageBody)
-  - receiveMessage()
+    - sendMessage(messageBody)
+    - receiveMessage()
 - Non-functional
-  - Scalable (handles load increases, more queues and messages)
-  - Highly available (services hardware/network failures)
-  - Highly performent (single digit latency for main operations)
-  - Durable (once submitted, data is not lost)
-  - What is the expected read-to-write ratio?
+    - Scalable (handles load increases, more queues and messages)
+    - Highly available (services hardware/network failures)
+    - Highly performent (single digit latency for main operations)
+    - Durable (once submitted, data is not lost)
+    - What is the expected read-to-write ratio?
 - How many **concurrent requests** should we expect?
 - What's the average expected response time?
 - What's the limit of the data we allow users to provide?
@@ -74,8 +74,8 @@ Systems design is the process of defining the [architecture](https://en.wikipedi
 - Database schema
 - Optimizations
 - Edge cases
-  - Viral Videos
-  - High number of followers
+    - Viral Videos
+    - High number of followers
 
 ### Others
 

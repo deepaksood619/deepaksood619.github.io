@@ -92,9 +92,9 @@ How to estimate
 ## Antipatterns
 
 - Centralized control and ownership: One size doesn't fit all
-  - (Dis)economies of scale
-  - Overzealous guardrails
-  - Modification is ticket-driven
+    - (Dis)economies of scale
+    - Overzealous guardrails
+    - Modification is ticket-driven
 - Fragmented platform implementation
 - Slow development loops: less time coding, more time toiling
 

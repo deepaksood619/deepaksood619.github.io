@@ -20,17 +20,17 @@ Go Runtime maintains three C structs for this purpose:
 
 So, on startup, go runtime starts a number of goroutines for GC, scheduler and user code. An OS Thread is created to handle these goroutines. These threads can be at most equal to GOMAXPROCS.
 
-## Start from the bottom
+### Start from the bottom
 
 A goroutine is created with initial only 2KB of stack size. Each function in go already has a check if more stack is needed or not and the stack can be copied to another region in memory with twice the original size. This makes goroutine very light on resources.
 
-## Blocking is fine
+### Blocking is fine
 
 If a goroutine blocks on system call, it blocks it's running thread. But another thread is taken from the waiting queue of Scheduler (the Sched struct) and used for other runnable goroutines.
 
 However, if you communicate using channels in go which exists only in virtual space, the OS doesn't block the thread.Such goroutines simply go in the waiting state and other runnable goroutine (from the M struct) is scheduled in it's place.
 
-## Don't interrupt
+### Don't interrupt
 
 The go runtime scheduler does cooperative scheduling, which means another goroutine will only be scheduled if the current one is blocking or done. Some of these cases are:
 
@@ -44,6 +44,14 @@ This is better than pre-emptive scheduling which uses timely system interrupts (
 Another advantage is that, since it is invoked implicitly in the code e.g. during sleep or channel wait, the compile only needs to safe/restore the registers which are alive at these points. In Go, this means only 3 registers i.e. PC, SP and DX (Data Registers) being updated during context switch rather than all registers (e.g. AVX, Floating Point, MMX).
 
 https://codeburst.io/why-goroutines-are-not-lightweight-threads-7c460c1f155f
+
+### What is a Goroutine leak, and how can it be avoided in a Go program?
+
+A Goroutine leak occurs when Goroutines are created but not properly managed, leading to excessive resource usage. To avoid leaks, it's essential to ensure that Goroutines are appropriately closed when they are no longer needed, typically using defer statements or sync.WaitGroup.
+
+### Explain the concept of context in Go. How is it useful in managing cancellations and deadlines in a program?
+
+Context in Go is a package that provides a way to carry deadlines, cancellations, and other request-scoped values across API boundaries. It is useful for managing the lifecycle of operations, handling timeouts, and propagating cancellation signals in a clean and consistent manner.
 
 ## Channels
 

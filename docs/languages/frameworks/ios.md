@@ -10,7 +10,7 @@
 ## Questions
 
 - Suppose you want to ask for permission of camera and audio
-  - What is property list
+    - What is property list
 - Asset Catalogues
 - Launch Image
 - What is the first method that is called when the application launched

@@ -7,15 +7,15 @@ The Apache TEZ project is aimed at building an application framework which allow
 The 2 main design themes for Tez are:
 
 - **Empowering end users by:**
-  - Expressive dataflow definition APIs
-  - Flexible Input-Processor-Output runtime model
-  - Data type agnostic
-  - Simplifying deployment
+    - Expressive dataflow definition APIs
+    - Flexible Input-Processor-Output runtime model
+    - Data type agnostic
+    - Simplifying deployment
 - **Execution Performance**
-  - Performance gains over Map Reduce
-  - Optimal resource management
-  - Plan reconfiguration at runtime
-  - Dynamic physical data flow decisions
+    - Performance gains over Map Reduce
+    - Optimal resource management
+    - Plan reconfiguration at runtime
+    - Dynamic physical data flow decisions
 
 http://tez.apache.org
 

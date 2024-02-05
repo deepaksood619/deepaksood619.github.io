@@ -40,25 +40,25 @@ a developer.
 ## Kafka Streams (Definitive Guide)
 
 - *data stream / event stream -* is an abstraction representing an unbounded dataset. Unbounded means infinite and ever growing.
-  - Event streams are ordered
-  - Immutable data records
-  - Event streams are replayable
+    - Event streams are ordered
+    - Immutable data records
+    - Event streams are replayable
 - Stream-processing concepts
-  - Time
-  - State
-  - Stream-Table Duality
-  - Time Windows
+    - Time
+    - State
+    - Stream-Table Duality
+    - Time Windows
 - Stream-processing design patterns
-  - Single-Event Processing
-  - Processing with local state
-  - Multiphase processing/repartitioning
-  - Processing with external lookup: Stream-Table Join
-  - Streaming Join
-  - Reprocessing
+    - Single-Event Processing
+    - Processing with local state
+    - Multiphase processing/repartitioning
+    - Processing with external lookup: Stream-Table Join
+    - Streaming Join
+    - Reprocessing
 - Kafka Streams: Architecture Overview
-  - Building a Topology
-  - Scaling the topology
-  - Surviving failures
+    - Building a Topology
+    - Scaling the topology
+    - Surviving failures
 
 ## References
 

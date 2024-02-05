@@ -77,7 +77,7 @@ Adocker-compose.ymlfile is a YAML file that defines how Docker containers should
 
 - Package everything that an application needs, all the dependencies, all the code, all the resources, within an image, that can run on any platform.
 - Running docker in read only mode, i.e. removing write access to the filesystems from containers
-  - Logs can be written to some other endpoint to a append only file, so adversary cannot change the history
+    - Logs can be written to some other endpoint to a append only file, so adversary cannot change the history
 
 https://www.toptal.com/docker/interview-questions
 

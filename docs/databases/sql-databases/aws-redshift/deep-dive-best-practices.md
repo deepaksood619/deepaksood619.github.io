@@ -145,7 +145,7 @@ Staging tables:
 - If possible use DISTSTYLE KEY on both the staging table and production table to speed up the the INSERT INTO SELECT statement
 - Turn off automatic compression - COMPUPDATE OFF
 - Copy compression settings from production table or use ANALYZE COMPRESSION statement
-  - Use CREATE TABLE LIKE or write encodings into the DDL
+    - Use CREATE TABLE LIKE or write encodings into the DDL
 - For copying a large number of rows (> hundreds of millions) consider using ALTER TABLE APPEND instead of INSERT INTO SELECT
 
 VACUUM and ANALYZE
@@ -159,7 +159,7 @@ ANALYZE collects table statistics for optimal query planning
 Best Practices:
 
 - VACUUM should be run only as necessary
-  - Typically nightly or weekly
-  - Consider Deep Copy (recreating and copying data) for larger or wide tables
+    - Typically nightly or weekly
+    - Consider Deep Copy (recreating and copying data) for larger or wide tables
 - ANALYZE can be run periodically after ingestion on just the columns taht WHERE predicates are filtered on
 - Utility to VACUUM and ANALYZE all the tables in the cluster

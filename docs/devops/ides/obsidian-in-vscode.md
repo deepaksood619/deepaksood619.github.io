@@ -27,7 +27,7 @@
 - Markdown All in One: Print documents to HTML
 - Markdown All in One: Toggle math environment
 - Markdown All in One: Toggle list
-  - It will cycle through list markers (by default `-`, `*`, `+`, `1.` and `1)`, which can be changed with option `list.toggle.candidate-markers`).
+    - It will cycle through list markers (by default `-`, `*`, `+`, `1.` and `1)`, which can be changed with option `list.toggle.candidate-markers`).
 
 ### Shortcuts
 
@@ -48,7 +48,7 @@
 ## Other Extensions
 
 - Markdown Preview Enhanced
-  - [https://shd101wyy.github.io/markdown-preview-enhanced](https://shd101wyy.github.io/markdown-preview-enhanced)
+    - [https://shd101wyy.github.io/markdown-preview-enhanced](https://shd101wyy.github.io/markdown-preview-enhanced)
 - markdownlint
 - markdown-link-expander
   [markdown-link-expander - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=skn0tt.markdown-link-expander)

@@ -46,12 +46,12 @@ https://aws.amazon.com/ec2/pricing/on-demand
 https://aws.amazon.com/ec2/instance-types
 
 - **Spot instances (discount upto 90%)**
-  - **No bidding**
-  - **Ideal for**
-    - Fault tolerant
-    - Flexible
-    - Lossely coupled
-    - Stateless workloads
+    - **No bidding**
+    - **Ideal for**
+        - Fault tolerant
+        - Flexible
+        - Lossely coupled
+        - Stateless workloads
 
 https://aws.amazon.com/ec2/spot/instance-advisor
 
@@ -65,7 +65,7 @@ https://spot.io
 
 - On-demand instances
 - Reserved instances (discount upto 75%)
-  - Ex - m5a.4xlarge
+    - Ex - m5a.4xlarge
 
 ![image](../../../media/Cloud-AWS-EC2-Instance-types-image1.jpg)
 

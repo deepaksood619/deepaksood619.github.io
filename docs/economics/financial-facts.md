@@ -16,10 +16,10 @@
 - Market cap: $11.7 trillion
 - Above Ground Reservers: 205,238 tonnes (data as of end 2021)
 - Gold demand by purpose (2022)
-  - Jewellery fabrication - 2230 tonnes
-  - Technology - 330.2 tonnes
-  - Investment - 1005.8 tonnes
-  - Central banks and other financial institutions - 453.8 tonnes
+    - Jewellery fabrication - 2230 tonnes
+    - Technology - 330.2 tonnes
+    - Investment - 1005.8 tonnes
+    - Central banks and other financial institutions - 453.8 tonnes
 
 ### Gold Reserves
 

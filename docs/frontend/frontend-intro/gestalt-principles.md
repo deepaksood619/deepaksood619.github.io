@@ -31,24 +31,24 @@ https://www.khanacademy.org/science/health-and-medicine/nervous-system-and-senso
 ## Stages of human visual processing
 
 - Stage one: processing inside the retina
-  - High resolution and intense color in the fovea
-  - Lower resolution and less intense color elsewhere
-  - Tuning to detect edges
+    - High resolution and intense color in the fovea
+    - Lower resolution and less intense color elsewhere
+    - Tuning to detect edges
 - Stage two: "preattentive" processing
-  - Less than 1/4 second
-  - Unconscious
-  - Information from retina assembled into shapes and groups
+    - Less than 1/4 second
+    - Unconscious
+    - Information from retina assembled into shapes and groups
 - Stage three: "Attentive" processing
-  - Stores of experience used to interpret the output of state two
+    - Stores of experience used to interpret the output of state two
 
 ## Gestalt principles come from stage two
 
 - The visual system is predisposed to interpret edges, shapes, and groups in certain ways
 - Again, this is unconscious, and takes place before conscious interpretation
-  - Conscious interpretation can override the perceptions from stage two, but it takes cognitive work
+    - Conscious interpretation can override the perceptions from stage two, but it takes cognitive work
 
 ## Design principle: Gestalt proximity
 
 - The visual system assumes that things grouped together are related
 - The initial grouping is automatic and unconscious
-  - Happens in less than 1/4 second
+    - Happens in less than 1/4 second

@@ -67,10 +67,10 @@ Open two instance of same application - **open -n MQTT.fx.app**
 
    **Settings**
 
-  - Auto Save - afterDelay
-  - enablePreview - off
-  - terminal.integrated.scrollback - 100000
-  - Window: Open Folders In New Window - On
+    - Auto Save - afterDelay
+    - enablePreview - off
+    - terminal.integrated.scrollback - 100000
+    - Window: Open Folders In New Window - On
 
 - **Google Drive for mac**
 - ~~bittorrent web~~
@@ -86,8 +86,8 @@ Open two instance of same application - **open -n MQTT.fx.app**
     2. [GitHub - raycast/script-commands: Script Commands let you tailor Raycast to your needs. Think of them as little productivity boosts throughout your day.](https://github.com/raycast/script-commands)
 
 - **Android file transfer**
-  - `brew install grishka/grishka/neardrop`
-  - [**ShareDrop**](https://www.sharedrop.io/)
+    - `brew install grishka/grishka/neardrop`
+    - [**ShareDrop**](https://www.sharedrop.io/)
 - Office
 
 ### Google chrome
@@ -129,8 +129,8 @@ https://www.google.com/inputtools
 - SpeedUp: Netflix, Prime videos
 - YouTube NonStop
 - Duplicate Tab shortcut
-  - Duplicate the current tab - ctrl + d
-  - New tab to the right - cmd + t
+    - Duplicate the current tab - ctrl + d
+    - New tab to the right - cmd + t
 
 ##### Screen recorders
 

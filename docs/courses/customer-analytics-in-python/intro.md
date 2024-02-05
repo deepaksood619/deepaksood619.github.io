@@ -33,14 +33,14 @@ STP is a fundamental marketing framework. It can be applied to all areas of busi
 
 - Divide customers into segments based on age, income, gender
 - Consumer data
-  - Demographic
-  - Geographic
-  - Psychographic
-  - Behavioral
-    - Purchase frequency
-    - Time of purchase
-    - Purchase quantity
-    - Product ratings
+    - Demographic
+    - Geographic
+    - Psychographic
+    - Behavioral
+        - Purchase frequency
+        - Time of purchase
+        - Purchase quantity
+        - Product ratings
 
 ## Targeting
 
@@ -49,9 +49,9 @@ STP is a fundamental marketing framework. It can be applied to all areas of busi
 - Examining customers' perception. (Involves psychology and usually budget constraints)
 
 - Consideration factors
-  - Segment size
-  - Expected growth
-  - Competitors' offerings
+    - Segment size
+    - Expected growth
+    - Competitors' offerings
 
 ## Positioning
 
@@ -70,13 +70,13 @@ Develop the **best** product or service and offer it at the **right price** thro
 ## 4 Ps of Marketing
 
 - **Product**
-  - Product features; Branding; Packaging
+    - Product features; Branding; Packaging
 - **Price**
-  - Product cost; Long term price changes
+    - Product cost; Long term price changes
 - **Promotion**
-  - Price reduction, display and feature
+    - Price reduction, display and feature
 - **Place**
-  - Distribution: intensive, selective, exclusive
+    - Distribution: intensive, selective, exclusive
 
 ## Physical and Online Retailers
 
@@ -126,18 +126,18 @@ segmentation_std = scaler.fit_transform(df_segmentation)
 
 - Ex - Taxonomy of Animal kingdom
 - Types of Hierarchical clustering
-  - Divisive (Top down)
-  - Agglomerative (Bottom up) (easier to solve mathematically)
-  - Should reach same results
+    - Divisive (Top down)
+    - Agglomerative (Bottom up) (easier to solve mathematically)
+    - Should reach same results
 - How do we measure the distances between observations?
-  - Euclidean distance
-  - Manhattan distance
-  - Maximum distance
+    - Euclidean distance
+    - Manhattan distance
+    - Maximum distance
 
 ![image](../../media/Customer-Analytics-in-Python_Intro-image3.jpg)
 
 - Segmentation between clusters
-  - Ward method (|A-B|^2)/n~scale~
+    - Ward method (|A-B|^2)/n~scale~
 
 ```python
 # Hierarchical clustering with the Sci Py library. We'll use the dendrogram and linkage modules.
@@ -237,16 +237,16 @@ The purchase probability of a client at $2.56 is 0.7, while their price elastici
 - **tf.keras.Sequential(layers)** function that is laying down the model (used to 'stack layers')
 - **tf.keras.layers.Dense(output layer size, activation function)** takes the inputs provided from the last layer, calculates their dot product with the weights and adds the bias. Also applies an activation function.
 - Activation functions
-  - relu
-  - sigmoid
-  - tanh
-  - softmax
+    - relu
+    - sigmoid
+    - tanh
+    - softmax
 - **model.compile(optimizer, loss)** configures the model for training
-  - Optimizers
-    - Adaptive Moment Estimation (ADAM)
-  - loss
-    - sparse_categorical_crossentropy
-      - applies one-hot encoding to the targets
+    - Optimizers
+        - Adaptive Moment Estimation (ADAM)
+    - loss
+        - sparse_categorical_crossentropy
+            - applies one-hot encoding to the targets
 - **tf.keras.callbacks.EarlyStopping(patience)** ensures that the model stops traning after the validation loss has started increasing. When patience=0, it will stop after the first validation increase. patience = 2
 - **fit()**
 - **evaluate()** returns the loss value and metrics values for the model in 'test mode'

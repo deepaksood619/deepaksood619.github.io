@@ -4,8 +4,8 @@
 
 - JIRA
 - [Linear](https://linear.app/)
-  - [Linear Method - Practices for Building](https://linear.app/method)
-  - [Linear Documentation](https://linear.app/docs)
+    - [Linear Method - Practices for Building](https://linear.app/method)
+    - [Linear Documentation](https://linear.app/docs)
 
 ## Company Pulse
 

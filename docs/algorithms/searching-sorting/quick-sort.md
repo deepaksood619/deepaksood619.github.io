@@ -9,16 +9,16 @@ Quicksortis performed by taking the first (leftmost) element of the array as a p
 - Best Case - N lg N ( N lg N compares)
 - Worst Case - Quadratic - N^2 (1/2 N^2 compares)
 - Average Case ~ 1.39 N lg N
-  - 39% more compares than mergesort
-  - But faster than mergesort in practice because less data movement
+    - 39% more compares than mergesort
+    - But faster than mergesort in practice because less data movement
 
 ## Basic Plan
 
 - Shuffle the array
 - Partition so that, for some j
-  - Entry a[j] is in place
-  - No larger entry to the left of j
-  - No smaller entry to the right of j
+    - Entry a[j] is in place
+    - No larger entry to the left of j
+    - No smaller entry to the right of j
 - Sort each piece recursively
 
 ## Pivot element
@@ -36,13 +36,13 @@ Code -
 Improvements
 
 - Insertion sort small subarrays
-  - Too much overhead for tiny subarrays
-  - Cutoff to insertion sort for ~ 10 items
-  - Note: delay insertion sort until one pass at end
+    - Too much overhead for tiny subarrays
+    - Cutoff to insertion sort for ~ 10 items
+    - Note: delay insertion sort until one pass at end
 - Median of sample
-  - Best choice of pivot item = median
-  - Estimate true median by taking median of sample
-  - Median-of-3 (random) items
+    - Best choice of pivot item = median
+    - Estimate true median by taking median of sample
+    - Median-of-3 (random) items
 
 Why QuickSort is faster than MergeSort -
 

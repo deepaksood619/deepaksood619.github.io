@@ -141,12 +141,12 @@ https://gceasy.io
 
 - **[Processor registers](https://en.wikipedia.org/wiki/Processor_register)--** the fastest possible access (usually 1 CPU cycle). A few thousand bytes in size
 - [**Cache**](https://en.wikipedia.org/wiki/CPU_cache)
-  - Level 0 (L0)[Micro operations](https://en.wikipedia.org/wiki/Micro-operation) cache -- 6 [KiB](https://en.wikipedia.org/wiki/KiB) in size
-  - Level 1 (L1)[Instruction](https://en.wikipedia.org/wiki/Opcode) cache -- 128 KiB in size
-  - Level 1 (L1) Data cache -- 128 KiB in size. Best access speed is around 700 [GiB](https://en.wikipedia.org/wiki/GiB)/second
-  - Level 2 (L2) Instruction and data (shared) -- 1 [MiB](https://en.wikipedia.org/wiki/MiB) in size. Best access speed is around 200 GiB/second
-  - Level 3 (L3) Shared cache -- 6 MiB in size. Best access speed is around 100 GB/second
-  - Level 4 (L4) Shared cache -- 128 MiB in size. Best access speed is around 40 GB/second
+    - Level 0 (L0)[Micro operations](https://en.wikipedia.org/wiki/Micro-operation) cache -- 6 [KiB](https://en.wikipedia.org/wiki/KiB) in size
+    - Level 1 (L1)[Instruction](https://en.wikipedia.org/wiki/Opcode) cache -- 128 KiB in size
+    - Level 1 (L1) Data cache -- 128 KiB in size. Best access speed is around 700 [GiB](https://en.wikipedia.org/wiki/GiB)/second
+    - Level 2 (L2) Instruction and data (shared) -- 1 [MiB](https://en.wikipedia.org/wiki/MiB) in size. Best access speed is around 200 GiB/second
+    - Level 3 (L3) Shared cache -- 6 MiB in size. Best access speed is around 100 GB/second
+    - Level 4 (L4) Shared cache -- 128 MiB in size. Best access speed is around 40 GB/second
 - **[Main memory](https://en.wikipedia.org/wiki/Computer_memory)([Primary storage](https://en.wikipedia.org/wiki/Primary_storage)) --**[Gigabytes](https://en.wikipedia.org/wiki/GiB) in size. Best access speed is around 10 GB/second.In the case of a [NUMA](https://en.wikipedia.org/wiki/Non-Uniform_Memory_Access) machine, access times may not be uniform
 - **[Disk storage](https://en.wikipedia.org/wiki/Disk_storage)([Secondary storage](https://en.wikipedia.org/wiki/Secondary_storage)) --**[Terabytes](https://en.wikipedia.org/wiki/TiB) in size. As of 2017, best access speed is from a consumer [solid state drive](https://en.wikipedia.org/wiki/Solid-state_drive) is about 2000 MB/second
 - **[Nearline storage](https://en.wikipedia.org/wiki/Nearline_storage)([Tertiary storage](https://en.wikipedia.org/wiki/Tertiary_storage)) --** Up to [exabytes](https://en.wikipedia.org/wiki/Exabytes) in size. As of 2013, best access speed is about 160 MB/second

@@ -43,21 +43,21 @@ Zookeeper - Service for coordinating processes of distributed applications
 - ZooKeeper is a highly reliable distributed coordination kernel, which can be used for distributed locking, configuration management, leadership election, work queues
 - Zookeeper is a replicated service that holds the metadata of distributed applications
 - Key attributed of such data
-  - Small size
-  - Performance sensitive
-  - Dynamic
-  - Critical
+    - Small size
+    - Performance sensitive
+    - Dynamic
+    - Critical
 - In very simple words, it is a central store of key-value using which distributed systems can coordinate. Since it needs to be able to handle the load, ZooKeeper itself runs on many machines
 - Exposes a simple set of primitives
 - Very easy to program
 - Uses a data model like directory tree
 - Used for
-  - Synchronisation
-  - Locking
-  - Maintaining Configuration
+    - Synchronisation
+    - Locking
+    - Maintaining Configuration
 - Coordination service that does not suffer from
-  - Race Conditions
-  - Dead locks
+    - Race Conditions
+    - Dead locks
 
 ## Design Goals
 
@@ -115,22 +115,22 @@ Zookeeper - Service for coordinating processes of distributed applications
 Such kind of znodes remain in zookeeper until deleted. This is the default type of znode. To create such node you can use the command: create /name_of_myznode "mydata"
 
 - **Ephemeral**
-  - Ephermal node gets deleted if the session in which the node was created has disconnected. Though it is tied to client's session but it is visible to the other users.
-  - An ephermal node can not have children not even ephermal children
+    - Ephermal node gets deleted if the session in which the node was created has disconnected. Though it is tied to client's session but it is visible to the other users.
+    - An ephermal node can not have children not even ephermal children
 
 ![image](../../../media/Big-Data_Design-of-Zookeeper-image9.jpg)
 
 ## Architecture
 
 - Zookeeper can run in two nodes
-  - Standalone
-    - In standalone mode, it is just running on one machine and for practical purposes we do not use standalone mode
-    - This is only for testing purposes
-    - It doesn't have high availability
-  - Replicated
-    - Run on cluster of machines called an ensemble
-    - High availability
-    - Tolerates as long as majority
+    - Standalone
+        - In standalone mode, it is just running on one machine and for practical purposes we do not use standalone mode
+        - This is only for testing purposes
+        - It doesn't have high availability
+    - Replicated
+        - Run on cluster of machines called an ensemble
+        - High availability
+        - Tolerates as long as majority
 
 ## Architecture: Phase 1
 
@@ -151,8 +151,8 @@ Phase 1: Leader election (Paxos Algorithm)
 - All write requests are forwarded to the leader
 - Leader broadcasts the update to the followers
 - When a majority have persisted the change
-  - The leader commits the up-date
-  - The client gets success response
+    - The leader commits the up-date
+    - The client gets success response
 - The protocol for achieving consensus is atomic like two-phase commit
 - Machines write to disk before in-memory
 
@@ -164,35 +164,35 @@ Phase 1: Leader election (Paxos Algorithm)
 - Uses a **variant of Paxos called Zab (Zookeeper Atomic Broadcast)**
 - Needs to keep a leader elected at all times
 - Each server creates a new sequence number for itself
-  - Let's say the sequence number are ids
-  - Gets highers id so far (from ZK file system), creates next-higher id, writes it into ZK file system
+    - Let's say the sequence number are ids
+    - Gets highers id so far (from ZK file system), creates next-higher id, writes it into ZK file system
 - Elect the highest-id server as leader
 
 ![image](../../../media/Big-Data_Design-of-Zookeeper-image12.jpg)
 
 - Failures:
-  - One option: everyone monitors current master (directly or via a failure detector)
-    - On failure, initiate election
-    - Leads to a flood of elections
-    - Too many messages
+    - One option: everyone monitors current master (directly or via a failure detector)
+        - On failure, initiate election
+        - Leads to a flood of elections
+        - Too many messages
 
 ![image](../../../media/Big-Data_Design-of-Zookeeper-image13.jpg)
 
 - Second option: (implemented in Zookeeper)
-  - Each process monitors its next-higher id process
-  - **if** that successor was the leader and it has failed
-    - Become the new leader
-  - **else**
-    - wait for a timeout, and check your successor again
+    - Each process monitors its next-higher id process
+    - **if** that successor was the leader and it has failed
+        - Become the new leader
+    - **else**
+        - wait for a timeout, and check your successor again
 
 ![image](../../../media/Big-Data_Design-of-Zookeeper-image14.jpg)
 
 - What about id conflicts? What if leader fails during election?
 - To address this, Zookeeper uses a two-phase commit (run after the sequence/id) protocol to commit the leader
-  - Leader sends NEW_LEADER message to all
-  - Each process responds with ACK to at most one leader, i.e., one with highest process id
-  - Leader waits for a majority of ACKs, and then sends COMMIT to all
-  - On receiving COMMIT, process updates its leader variable
+    - Leader sends NEW_LEADER message to all
+    - Each process responds with ACK to at most one leader, i.e., one with highest process id
+    - Leader waits for a majority of ACKs, and then sends COMMIT to all
+    - On receiving COMMIT, process updates its leader variable
 - Ensures that safety is still maintained
 
 ## Election Demo
@@ -225,17 +225,17 @@ Phase 1: Leader election (Paxos Algorithm)
 ## Sessions
 
 - Let's try to understand how do the zookeeper decides to delete ephermals nodes and takes care of session management.
-  - A client has list of servers in the ensemble
-  - It tries each until successful
-  - Server creates a new session for the client
-  - A session has a timeout period - decided by caller
-  - If the server hasn't received a request within the timeout period, it may expire the session
-  - On session expire, ephermal nodes are lost
-  - To keep sessions alive client sends pings (heartbeats)
-  - Client library takes care of heartbeats
-  - Sessions are still valid on switching to another server
-  - Failover is handled automatically by the client
-  - Application can't remain agnostic of server reconnections because the operations will fail during disconnection
+    - A client has list of servers in the ensemble
+    - It tries each until successful
+    - Server creates a new session for the client
+    - A session has a timeout period - decided by caller
+    - If the server hasn't received a request within the timeout period, it may expire the session
+    - On session expire, ephermal nodes are lost
+    - To keep sessions alive client sends pings (heartbeats)
+    - Client library takes care of heartbeats
+    - Sessions are still valid on switching to another server
+    - Failover is handled automatically by the client
+    - Application can't remain agnostic of server reconnections because the operations will fail during disconnection
 
 ![image](../../../media/Big-Data_Design-of-Zookeeper-image21.jpg)
 
@@ -273,13 +273,13 @@ Phase 1: Leader election (Paxos Algorithm)
 ACL determines who can perform certain operations on it
 
 - ACL is the combination
-  - authentication scheme
-  - an identity for that scheme
-  - and a set of permissions
+    - authentication scheme
+    - an identity for that scheme
+    - and a set of permissions
 - Authentication Scheme
-  - **digest -** The client is authenticated by a username & password
-  - **sasl -** The client is authenticated using Kerberos
-  - **ip -** The client is authenticated by its IP address
+    - **digest -** The client is authenticated by a username & password
+    - **sasl -** The client is authenticated using Kerberos
+    - **ip -** The client is authenticated by its IP address
 
 ## Use Cases
 

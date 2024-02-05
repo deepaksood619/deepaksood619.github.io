@@ -44,7 +44,7 @@ Two types of memory
 - Apache Spark is a big data analytics framework that was originally developed at the University of California, Berkely's AMP Lab, in 2012.
 - It is an another system for big data analytics
 - Isn't MapReduce good enough?
-  - Simplifies batch processing on large commodity clusters
+    - Simplifies batch processing on large commodity clusters
 
 ## Spark Applications
 
@@ -61,8 +61,8 @@ Two types of memory
 
 - Expressive computing system, not limited to map-reduce model
 - Facilitate system memory
-  - avoid saving intermediate results to disk
-  - cache data for repetitive queries. (e.g. for machine learning)
+    - avoid saving intermediate results to disk
+    - cache data for repetitive queries. (e.g. for machine learning)
 - Compatible with Hadoop
 
 ### RDD abstraction
@@ -71,17 +71,17 @@ Two types of memory
 - Spread across the cluster
 - Read-only
 - Caching dataset in memory
-  - different storage levels available
-  - fallback to disk possible
+    - different storage levels available
+    - fallback to disk possible
 
 ### RDD operations
 
 - Transformations to build RDDs through deterministic operations on other RDDs
-  - transformations include map, filter, join
-  - lazy operation
+    - transformations include map, filter, join
+    - lazy operation
 - Actions to return value or export data
-  - actions include court, collect, save
-  - triggers execution
+    - actions include court, collect, save
+    - triggers execution
 
 ### Available APIs
 

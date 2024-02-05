@@ -276,9 +276,9 @@ https://www.confluent.io/blog/intro-to-ksqldb-sql-database-streaming
 - Can also be set up as a cluster so can provide availability and data application
 - Can also flush data on the hard drive
 - Memcached is a distributed system that allows its hash table capacity to scale horizontally across a pool of servers. Each Memcached server operates in complete isolation from the other servers in the pool. Therefore, the routing and load balancing between the servers must be done at the client level. Memcached clients apply a **consistent hashing** scheme to appropriately select the target servers. This scheme guarantees the following conditions:
-  - The same server is always selected for the same key.
-  - Memory usage is evenly balanced between the servers.
-  - A minimum number of keys are relocated when the pool of servers is reduced or expanded.
+    - The same server is always selected for the same key.
+    - Memory usage is evenly balanced between the servers.
+    - A minimum number of keys are relocated when the pool of servers is reduced or expanded.
 
 ## MinIO
 

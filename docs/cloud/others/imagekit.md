@@ -19,12 +19,12 @@
 
 - [Understanding different image settings in your ImageKit dashboard | ImageKit Help Center](https://help.imagekit.io/en/articles/2513507-understanding-different-image-settings-in-your-imagekit-dashboard)
 - Optimizations
-  - [Quality Optimization - ImageKit.io Docs](https://docs.imagekit.io/features/image-optimization/quality-optimization)
-    - [Test Image with parameter - tr:q-30](https://ik.imagekit.io/blocktoonsofficial/comics/656816bd25b970fa8e826090/chapter_2/tr:q-30/1)
-  - [Automatic image format conversion - ImageKit.io Docs](https://docs.imagekit.io/features/image-optimization/automatic-image-format-conversion)
-  - [Chroma Subsampling - ImageKit.io Docs](https://docs.imagekit.io/features/image-optimization/chroma-subsampling)
-  - [Metadata, Color Profile and Orientation - ImageKit.io Docs](https://docs.imagekit.io/features/image-optimization/metadata-color-profile-and-orientation)
-  - [PNG Compression - ImageKit.io Docs](https://docs.imagekit.io/features/image-optimization/png-compression)
+    - [Quality Optimization - ImageKit.io Docs](https://docs.imagekit.io/features/image-optimization/quality-optimization)
+        - [Test Image with parameter - tr:q-30](https://ik.imagekit.io/blocktoonsofficial/comics/656816bd25b970fa8e826090/chapter_2/tr:q-30/1)
+    - [Automatic image format conversion - ImageKit.io Docs](https://docs.imagekit.io/features/image-optimization/automatic-image-format-conversion)
+    - [Chroma Subsampling - ImageKit.io Docs](https://docs.imagekit.io/features/image-optimization/chroma-subsampling)
+    - [Metadata, Color Profile and Orientation - ImageKit.io Docs](https://docs.imagekit.io/features/image-optimization/metadata-color-profile-and-orientation)
+    - [PNG Compression - ImageKit.io Docs](https://docs.imagekit.io/features/image-optimization/png-compression)
 - [Lighter And Automatic Responsive Images With Client Hints](https://imagekit.io/blog/lighter-automatic-responsive-images-client-hints/)
 - [Responsive Images - A Reference Guide from A to Z | ImageKit.io](https://imagekit.io/responsive-images/)
 - [Perfectly Optimize Images Using ImageKit’s Tools And Analytics](https://imagekit.io/blog/how-to-use-imagekits-tools-and-analytics-to-perfectly-optimize-your-images/)
@@ -80,9 +80,9 @@ If you update the time stamp on your URL to the one on newer version, you skip t
 - Use best format for Image Delivery - Turned on
 - Optimize image quality before delivery - 50%
 - Restrict image size based on user's device
-  - Desktop - 2000x2000
-  - Mobile -
-  - Width of 1440px for laptops, 960px for tablets, 480px and High-density images for bigger phones, and 320px for smaller phones.
+    - Desktop - 2000x2000
+    - Mobile -
+    - Width of 1440px for laptops, 960px for tablets, 480px and High-density images for bigger phones, and 320px for smaller phones.
 - Parameters - [Dynamic image resizing](https://imagekit.io/blog/dynamic-image-resizing/)
 
 ### Libraries / SDKs

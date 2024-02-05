@@ -80,28 +80,28 @@ Ans: An array of size 2^w^.
 ## LZW implementation details
 
 - **How big to make ST?**
-  - How long is message?
-  - Whole message similar model?
-  - [many other variations]
+    - How long is message?
+    - Whole message similar model?
+    - [many other variations]
 
 - **What to do when ST fills up?**
-  - Throw away and start over [GIF]
-  - Throw away when not effective [Unix compress]
-  - [many other variations]
+    - Throw away and start over [GIF]
+    - Throw away when not effective [Unix compress]
+    - [many other variations]
 
 - **Why not put longer substrings in ST?**
-  - [many variations have been developed]
+    - [many variations have been developed]
 
 ## LZW in the real world
 
 - **LZ77**
 - **LZ78**
 - **LZW**
-  - Unix Compress, GIF, TIFF, V.42bis modem
+    - Unix Compress, GIF, TIFF, V.42bis modem
 
 - **Deflate / zlib = LZ77 variant + Huffman**
-  - zip, 7zip, gzip, jar, png, pdf
-  - iPhone, Sony Playstation 3, Apache HTTP server
+    - zip, 7zip, gzip, jar, png, pdf
+    - iPhone, Sony Playstation 3, Apache HTTP server
 - GIF (PNG)
 - LZMA
 - LZSS

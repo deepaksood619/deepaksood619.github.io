@@ -24,14 +24,14 @@ Exchanging money or credit for goods, services or financial assets
 
 - Central government (collect taxes and spend money)
 - Central bank (control the amount of credit and money in the economy)
-  - Influencing interest rates
-  - Printing new money
+    - Influencing interest rates
+    - Printing new money
 
 ### 4. Credit is the most important part of economy (biggest and most volatile)
 
 - Lenders
 - Borrowers
-  - Creditworthy borrower
+    - Creditworthy borrower
   1. The ability of repay
   2. Collateral if he can't
 
@@ -56,10 +56,10 @@ Solving deleveraging
 
 - Cut spending (Austerity)
 - Reduce debt (Debt restructuring)
-  - Central government deficit (budget deficit)
+    - Central government deficit (budget deficit)
 - Redistribute wealth (from the haves to the have nots)
 - Print money (Inflationary and stimulative)
-  - Central bank prints money to buy financial assets and government bonds
+    - Central bank prints money to buy financial assets and government bonds
 - Beautiful deleveraging
 
 ### 8. Asset
@@ -119,8 +119,8 @@ Book - https://www.principles.com/big-debt-crises Free pdf
 - PFR - Project Finance Report
 - Cost model
 - WCM - Working Capital Management
-  - Capex planning requirement
-  - Dealing with recieables and payable
+    - Capex planning requirement
+    - Dealing with recieables and payable
 - Treasury management
 - Corporate action planning
 - Investor relation

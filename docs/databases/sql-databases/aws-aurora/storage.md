@@ -28,8 +28,8 @@ The minimumstorageis 10GB. Based on yourdatabaseusage, your AmazonAurora storage
 
 - Databases are all about I/O
 - Design principles for > 40 years
-  - Increase I/O bandwidth
-  - Decrease number of I/Os
+    - Increase I/O bandwidth
+    - Decrease number of I/Os
 
 ## Aurora approach: Log is the database
 
@@ -58,12 +58,12 @@ The minimumstorageis 10GB. Based on yourdatabaseusage, your AmazonAurora storage
 ## Aurora uses segmented storage
 
 - Partition volume into n fixed-size segments
-  - Replicate each segment 6 ways into a protection group (PG)
+    - Replicate each segment 6 ways into a protection group (PG)
 - Trade-off between likelihood of faults and time to repair
-  - If segments are too small, failures are more likely
-  - If segments are too big, repairs take too long
+    - If segments are too small, failures are more likely
+    - If segments are too big, repairs take too long
 - Choose the biggest size that lets us repair "fast enough"
-  - We currently picked a segment size of 10 GB, as we repair a 10-GB segment in less than a minute
+    - We currently picked a segment size of 10 GB, as we repair a 10-GB segment in less than a minute
 
 ![image](../../../media/AWS-Aurora_Storage-image14.jpg)
 

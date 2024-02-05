@@ -3,8 +3,8 @@
 ## Boto3
 
 - AWS SDK for Python developers
-  - Software development kit
-  - Interact with AWS easily through Python
+    - Software development kit
+    - Interact with AWS easily through Python
 - Supports Python 2 & 3
 - Data-driven from the group up
 - Up-to-date service API support
@@ -105,6 +105,6 @@ Feature: Resources
 
 - Directory watcher
 - Main function
-  - Upload / start job / wait / download / delete
+    - Upload / start job / wait / download / delete
 - Amazon S3 cleanup functionality
 - Amazon SQS cleanup

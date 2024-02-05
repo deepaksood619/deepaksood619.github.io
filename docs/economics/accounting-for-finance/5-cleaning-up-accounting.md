@@ -5,10 +5,10 @@
 - Accountants like order and consistency, as can be seen in their propensity to write rules
 - That said, much of accounting as practiced today was developed in detail in the 20th century for the manufacturing firms that dominated that century
 - As the center of economic gravity has shifted from manufacturing to technology & service companies, and corporate financial behavior has changed over time, accountants have struggled with four key issues:
-  - Taxes, and the actions that companies take to avoid or delay paying them
-  - Managerial compensation in the form of equity (stock)
-  - Commitments that are contractual but are not debt
-  - Investments for long term benefits that are not in physical assets
+    - Taxes, and the actions that companies take to avoid or delay paying them
+    - Managerial compensation in the form of equity (stock)
+    - Commitments that are contractual but are not debt
+    - Investments for long term benefits that are not in physical assets
 
 1. Taxes: Dueling Tax Rates
 
@@ -29,16 +29,16 @@ The cash tax rate for a company reflects the taxes it actually pays on its taxab
 Deferred Tax Assets & Liabilities
 
 - For most companies, the effective tax rate will be lower than the marginal tax rate, reflecting
-  - Operations in countries with lower tax rates
-  - (Legal) Tax deferral and avoidance strategies
+    - Operations in countries with lower tax rates
+    - (Legal) Tax deferral and avoidance strategies
 - When there are differences between what is expensed and what is reported as taxable income between the reporting a deferred tax liability (asset) if the company pays less (more) in taxes on its tax books than it reports in its financial statements
 - The logic for doing so is simple. The items that give rise to less (more) taxes paid in the current period will reverse and result in more (less) taxes paid in future periods
 
 Net Operating Losses & Carryforwards
 
 - When a US company loses money, it is allowed to carry those losses forward and use them to reduce taxes paid in future years
-  - Until the Tax Reform Act of 2017, the NOL could be carried back two years and used to reduce taxes paid in prior years (as a tax credit) and forward 20 years
-  - The Tax Reform Act of 2017 removed the carry back provision and allows losses to be carried forward indefinitely.
+    - Until the Tax Reform Act of 2017, the NOL could be carried back two years and used to reduce taxes paid in prior years (as a tax credit) and forward 20 years
+    - The Tax Reform Act of 2017 removed the carry back provision and allows losses to be carried forward indefinitely.
 - When a company has losses that are over multiple years, these losses are cumulated over time as a Net Operating Loss (NOL) and should be disclosed in a company's financials
 
 2. Stock Based Compensation is an Operating Expense
@@ -52,11 +52,11 @@ Net Operating Losses & Carryforwards
 What type of expense is it?
 
 - No matter what the motive for providing stock-based compensation (to align interests or to make up for lack of cash), it is clearly a compensation expense
-  - If a grant is large and occasional, and primarily driven by the desire to align interests, there is an argument that it should be spread out over time
-  - If a company uses stock-based compensation consistently, and more to make up for its cash poor status than to align interests, it is an annual expense
+    - If a grant is large and occasional, and primarily driven by the desire to align interests, there is an argument that it should be spread out over time
+    - If a company uses stock-based compensation consistently, and more to make up for its cash poor status than to align interests, it is an annual expense
 - To expense stock-based compensation, you have to value of the options or stock given to employees, at the time they are granted
-  - Until 2004, companies were allowed leeway to estimate the value of option grants based upon exercise value at the time of the grant
-  - After 2004, FAS 123 requires companies to value options based upon their time premium (using option pricing models) and show that expense in the year the options are granted
+    - Until 2004, companies were allowed leeway to estimate the value of option grants based upon exercise value at the time of the grant
+    - After 2004, FAS 123 requires companies to value options based upon their time premium (using option pricing models) and show that expense in the year the options are granted
 
 ## Is it a cash flow?
 
@@ -77,13 +77,13 @@ Starting in 2019, both GAAP and IFRS are requiring companies to treat all lease 
 
 - The process of converting lease commitments to debt follows a simple process, akin to how any bank debt or corporate bond can be valued
 - Here are the steps
-  - Start with the contractual lease commitments for future years, by year
-  - Compute the pre-tax cost of borrowing for the firm today, based upon its default risk
-  - Take the present value of lease commitments, using the pre-tax cost of debt as your discount rate
+    - Start with the contractual lease commitments for future years, by year
+    - Compute the pre-tax cost of borrowing for the firm today, based upon its default risk
+    - Take the present value of lease commitments, using the pre-tax cost of debt as your discount rate
 - The present value of lease commitments is treated as debt, with the same value shown as a counter-asset
 - To complete the cycle, you compute interest expenses on the lease debt and depreciation on the counter asset and bring into your income statement
-  - Interest expense on lease debt = PV of lease commitments * pre-tax cost of debt
-  - Depreciation on lease asset is computed using the life of the lease (as the life of the asset) and the depreciation method chosen
+    - Interest expense on lease debt = PV of lease commitments * pre-tax cost of debt
+    - Depreciation on lease asset is computed using the life of the lease (as the life of the asset) and the depreciation method chosen
 
 ## Other Contractual Commitments
 
@@ -108,23 +108,23 @@ Starting in 2019, both GAAP and IFRS are requiring companies to treat all lease 
 ## Capitalizing R&D
 
 - To capitalize R&D, there are 3 steps
-  - Step 1: Estimate an amortizable life for R&D by making your best judgement on how long it takes, on average, for R&D to pay off (as commerical success)
-  - Step 2: Collect R&D expenses from past years (going back as long as the amortizable life). If you company has not been in existence for that long, collect as many years as you can
-  - Step 3: For each of the past years of R&D, estimate
-    - How much you will be amortizing this year
-    - How much of the R&D expense remains unamortized
-  - To complete the cycle, here are the last steps
-    - Adjust earnings by adding back the current year's R&D expense and subtracting out the amortization of past years R&D
-    - Show the unamortized R&D as an asset, and show the same amount as an increase in book equity
+    - Step 1: Estimate an amortizable life for R&D by making your best judgement on how long it takes, on average, for R&D to pay off (as commerical success)
+    - Step 2: Collect R&D expenses from past years (going back as long as the amortizable life). If you company has not been in existence for that long, collect as many years as you can
+    - Step 3: For each of the past years of R&D, estimate
+        - How much you will be amortizing this year
+        - How much of the R&D expense remains unamortized
+    - To complete the cycle, here are the last steps
+        - Adjust earnings by adding back the current year's R&D expense and subtracting out the amortization of past years R&D
+        - Show the unamortized R&D as an asset, and show the same amount as an increase in book equity
 
 ## Other Capital Investments
 
 - There are other expenses that fit the R&D profile, i.e., expenses designed to create benefits over many years, but since there investments are not in physical assets, they are treated as operating expenses
 - Here are some examples
-  - Advertising expenses by a consumer product company to build up brand name
-  - Recruiting and training expenses by a consulting firm to build its consulting practice
-  - Exploration costs for an oil company
-  - Customer acquisition costs for a subscriber or user based company
+    - Advertising expenses by a consumer product company to build up brand name
+    - Recruiting and training expenses by a consulting firm to build its consulting practice
+    - Exploration costs for an oil company
+    - Customer acquisition costs for a subscriber or user based company
 
 ## The Bottom Line: Trust, but verify
 

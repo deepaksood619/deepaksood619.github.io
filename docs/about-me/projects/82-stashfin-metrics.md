@@ -8,26 +8,26 @@
 - Size of repositories
 - Number of commits and MRs
 - Test cases
-  - CodeCoverage
+    - CodeCoverage
 - SonarQube - Smells and Errors / CodeClimate
-  - Number of bugs in module
+    - Number of bugs in module
 - Sentry alerts
 - ECR Images
 - Gitlab
 - Response times of modules
 - Jenkins
-  - Number of CICD Pipelines
-  - Number of deployments
+    - Number of CICD Pipelines
+    - Number of deployments
 - Contribution Analytics (Bronze paid version gitlab)
     [https://docs.gitlab.com/ee/user/group/contribution_analytics/](https://docs.gitlab.com/ee/user/group/contribution_analytics/)
 
 ### Grafana
 
 - Istio Service Mesh
-  - Response Time
-  - Tail latencies (95th percentile)
-  - newrelic dashboard
-    - [https://one.nr/0bEjOymn0w6](https://one.nr/0bEjOymn0w6)
+    - Response Time
+    - Tail latencies (95th percentile)
+    - newrelic dashboard
+        - [https://one.nr/0bEjOymn0w6](https://one.nr/0bEjOymn0w6)
 - Pod usage
 - DB Audit logs
 - CloudFlare metrics
@@ -36,7 +36,7 @@
 ### Databases
 
 - AWS / MySQL WorkBench Performance
-  - Top most high cost sql queries
+    - Top most high cost sql queries
 - Table Size
 - Index sizes
 - Number of tables

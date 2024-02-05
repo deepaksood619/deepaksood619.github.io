@@ -13,8 +13,8 @@
 - A machine learning framework
 - Distributes a model over multiple machines
 - Offers two operations:
-  - Pull: query parts of the model
-  - Push: update parts of the model
+    - Pull: query parts of the model
+    - Push: update parts of the model
 - Machine learning update equation
 - (Stochastic) gradient descent
 - Collapsed Gibbs sampling for topic modeling

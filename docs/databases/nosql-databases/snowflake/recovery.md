@@ -22,9 +22,9 @@ Using Time Travel, you can perform the following actions within a defined period
 To support Time Travel, the following SQL extensions have been implemented:
 
 - [AT | BEFORE](https://docs.snowflake.com/en/sql-reference/constructs/at-before) clause which can be specified in SELECT statements and CREATE … CLONE commands (immediately after the object name). The clause uses one of the following parameters to pinpoint the exact historical data you wish to access:
-  - TIMESTAMP
-  - OFFSET (time difference in seconds from the present time)
-  - STATEMENT (identifier for statement, e.g. query ID)
+    - TIMESTAMP
+    - OFFSET (time difference in seconds from the present time)
+    - STATEMENT (identifier for statement, e.g. query ID)
 - UNDROP command for tables, schemas, and databases.
 
 ```sql

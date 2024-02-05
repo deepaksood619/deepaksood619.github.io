@@ -35,9 +35,9 @@ Supports multiple orderings of a given data type.
 Decouples the definition of the data type from the definition of what it means to compare two objects of that type.
 
 - To Use Java system sort:
-  - Create Comparator object
-  - Pass as second argument to Arrays.sort()
-  - Bottom line - Decouples the definition of the data type from the definition of what it means to compare two objects of that type.
+    - Create Comparator object
+    - Pass as second argument to Arrays.sort()
+    - Bottom line - Decouples the definition of the data type from the definition of what it means to compare two objects of that type.
 
 ## String vs StringBuilder
 

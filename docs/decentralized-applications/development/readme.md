@@ -67,11 +67,11 @@ This is a tool that analyzes the token’s smart contract, tokenomics, holders, 
 ### Others
 
 - [OpenZeppelin](https://www.openzeppelin.com/)
-  - It's an open source framework for building smart contracts on Ethereum blockchain
-  - And it has a library of pre built smart contracts including the NFT factory contract
+    - It's an open source framework for building smart contracts on Ethereum blockchain
+    - And it has a library of pre built smart contracts including the NFT factory contract
 - [Alchemy - the web3 development platform](https://www.alchemy.com/)
-  - [Learn: Alchemy Road to Web3](https://www.youtube.com/playlist?list=PLMj8NvODurfEYLsuiClgikZBGDfhwdcXF)
-  - [Web3 Tutorials Overview](https://docs.alchemy.com/docs)
+    - [Learn: Alchemy Road to Web3](https://www.youtube.com/playlist?list=PLMj8NvODurfEYLsuiClgikZBGDfhwdcXF)
+    - [Web3 Tutorials Overview](https://docs.alchemy.com/docs)
 - [Hardhat | Ethereum development environment by Nomic Foundation](https://hardhat.org/)
 - [login.xyz](https://login.xyz/)
 - [Blockscout](https://www.blockscout.com/) - Blockchain explorer for Ethereum based network and a tool for inspecting and analyzing EVM based blockchains.
@@ -82,7 +82,7 @@ This is a tool that analyzes the token’s smart contract, tokenomics, holders, 
 - [WalletConnect](https://walletconnect.com/)
 - [Chainlist](https://chainlist.org/)
 - [Mantle | Mass Adoption of Decentralized and Token-Governed Technologies](https://www.mantle.xyz/)
-  - [Mantle 🛠️ Master the Art of SLURPPPPPing Data - lib evm - YouTube](https://www.youtube.com/watch?v=0ubIYfAjCDk)
+    - [Mantle 🛠️ Master the Art of SLURPPPPPing Data - lib evm - YouTube](https://www.youtube.com/watch?v=0ubIYfAjCDk)
 - [Push Protocol 🛠️ Onboarding 1 Billion Users through Web3 Communication: Push Protocol - Harsh Rajat - YouTube](https://www.youtube.com/watch?v=-DHn1cCdHLs)
 - [Mailchain | Add web3 email to your project](https://mailchain.com/)
 - [Celestia - Home](https://celestia.org/)

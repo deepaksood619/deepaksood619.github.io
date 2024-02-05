@@ -185,7 +185,7 @@ Social+ is a rising wave that will eventually sweep through every industry, turn
 - Growth
 - Retention
 - Harness the creativity of your users
-  - User-generated content (UGC)
+    - User-generated content (UGC)
 - Insights-driven personalization
 - Barriers to entry
 

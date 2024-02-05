@@ -56,7 +56,7 @@ Permissioned blockchains, on the other hand, require invitations to join. Theyâ€
 
 - Cryptography works only within the system
 - Any interface to the real world requires trust in a node other than self
-  - In which case no distributed consensus is required
+    - In which case no distributed consensus is required
 - Cryptocurrencies have, more or less by definition, only one use case: **Ponzi schemes and other scams**
 - A pure timestamping hash chain/Merkle tree (without consensus overhead) can be useful
 

@@ -33,7 +33,7 @@ In early career, taking bets vs random job hopping is critical
 - Hirist
 - https://tophire.co/home?
 - LinkedIn
-  - [linkedin.com/company/call-for-referral/](https://www.linkedin.com/company/call-for-referral/)
+    - [linkedin.com/company/call-for-referral/](https://www.linkedin.com/company/call-for-referral/)
 - [https://www.instahyre.com](https://www.instahyre.com/)
 - https://welcome.turing.com
 

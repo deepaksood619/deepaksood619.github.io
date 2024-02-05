@@ -162,8 +162,8 @@ Gain operational insights and take action on AWS resources
 - How to encrypt and work with PII data - Athena and S3
 - **Data Governance? Moving data from RDS to S3 to S3 Glacier**
 - Aurora Parallel Queries
-  - Cost
-  - Performance
+    - Cost
+    - Performance
 - Modeling in DynamoDB
 
 ## Well-Architected Framework (Five Pillars)
@@ -180,8 +180,8 @@ Gain operational insights and take action on AWS resources
 - Dynamically acquire computing resources to meet demand
 - Recover quickly from infrastructure or service failures
 - Mitigate disruptions such as:
-  - Misconfigurations
-  - Transient network issues
+    - Misconfigurations
+    - Transient network issues
 
 ### 3. Cost Optimization
 

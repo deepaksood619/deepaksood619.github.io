@@ -37,9 +37,9 @@ In the presence of a network partition, you must choose betwen consistency and a
 
 - Partitions happen. They happen for countless reasons. Switches fail, NICs fail, link layers fail, servers fail, processes fail. Partitions happen even when systemsdon'tfail due to GC pauses or prolonged I/O latency for example. Let's acceptthis as fact andmove on. What this means is that a "CA" system is CAonly until it's not. Once that partition happens, all your assumptions and all your guarantees hit the fan in spectacular fashion. Where does this leave us?
 - Partitions can happen across datacenters when the internet gets disconnected
-  - Internet router outages
-  - Under-sea cables cut
-  - DNS not working
+    - Internet router outages
+    - Under-sea cables cut
+    - DNS not working
 - Partitions can also occur within a datacenter, e.g. a rack switch outage
 - Still desire system to continue functioning normally under this scenario
 - Partition tolerance ensures that system still functions in face of partition or network failure
@@ -68,20 +68,20 @@ In the presence of a network partition, you must choose betwen consistency and a
 
 - If all writes stop (to a key), then all its values (replicas) will converge eventually.
 - If writes continue, then system always tries to keep converging.
-  - Moving wave of updated values lagging behind the latest values sent by clients, but always trying to catch up.
+    - Moving wave of updated values lagging behind the latest values sent by clients, but always trying to catch up.
 - May still return stale values to clients (e.g., if many back-to-back writes).
 - But works well when there a few periods of low writes - system converges quickly
 
 ## RDBMS vs Key-value stores
 
 - While RDBMS provide ACID
-  - Atomicity
-  - Consistency
-  - Isolation
-  - Durability
+    - Atomicity
+    - Consistency
+    - Isolation
+    - Durability
 - Key-value stores like Cassandra provide BASE
-  - Basically Available Soft-state Eventual Consistency
-  - Prefers Availability over Consistency
+    - Basically Available Soft-state Eventual Consistency
+    - Prefers Availability over Consistency
 Despite your best efforts, your system will experience enough faults that it will have to make a choice between reducing yield (i.e., stop answering requests) and reducing harvest (i.e., giving answers based on incomplete data). This decision should be based on business requirements.
 
 ## PACELC (pass-elk) Theorem

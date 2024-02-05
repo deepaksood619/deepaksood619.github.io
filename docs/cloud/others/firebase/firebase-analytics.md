@@ -7,21 +7,21 @@ https://medium.com/firebase-developers/google-analytics-vs-firebase-analytics-vs
 ## Google Analytics / GA4
 
 - Unlimited Reporting
-  - Analytics provides unlimited reporting on up to 500 distinct events.
+    - Analytics provides unlimited reporting on up to 500 distinct events.
 - Audience Segmentation
-  - Custom audiences can be defined in the Firebase console based on device data, custom events, or user properties. These audiences can be used with other Firebase features when targeting new features or notification messages.
+    - Custom audiences can be defined in the Firebase console based on device data, custom events, or user properties. These audiences can be used with other Firebase features when targeting new features or notification messages.
 - Features
-  - Comparison Analysis
-  - Segment Overlap Analysis
-  - Funnel Analysis Technique
+    - Comparison Analysis
+    - Segment Overlap Analysis
+    - Funnel Analysis Technique
 
 https://firebase.google.com/docs/analytics
 
 - **In-app behavioral analytics**
-  - who your users are
-  - what are they doing
+    - who your users are
+    - what are they doing
 - **Attribution analytics**
-  - effectiveness of advertising and other growth campaigns
+    - effectiveness of advertising and other growth campaigns
 - **Push notification analytics and crash reporting**
 
 YouTube - [The Firebase developer's guide to Google Analytics](https://www.youtube.com/watch?v=2F2XhgMt8Dg&ab_channel=Firebase)
@@ -146,12 +146,12 @@ Let's say you've spent some money on two different ad campaigns to bring users i
 So, which ad campaign performed better? Seems like a no-brainer, right? Should you double-down on ad campaign #1?Well, hang on. What if you were to then discover...
 
 - Ad campaign #1 resulted in 500 clicks
-  - But only 80 users installed and opened your app
-  - ...and they spent an average of $1.20 each
+    - But only 80 users installed and opened your app
+    - ...and they spent an average of $1.20 each
 - Ad campaign #2 resulted in 300 clicks...
-  - But 230 of those users installed and opened your app
-  - ...and they spent an average of $6 each
-  - ...and over 100 of them signed up for your newsletter?
+    - But 230 of those users installed and opened your app
+    - ...and they spent an average of $6 each
+    - ...and over 100 of them signed up for your newsletter?
 
 Well, suddenly, that second ad campaign seems like a much better deal, doesn't it?That's the idea behind attribution. **It's a powerful form of app analytics that not only determines which campaigns are bringing you users, but also which campaigns are bringing you valuable users that you care most about.**
 

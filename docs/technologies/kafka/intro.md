@@ -114,22 +114,22 @@ https://kafka.apache.org/documentation/streams
 ## Meet Kafka (Definitive Guide)
 
 - Messages and Batches
-  - Message
-  - Key (byte array, used when messages are to be written to partitions in a more controlled manner)
-  - Batches (Compressed)
+    - Message
+    - Key (byte array, used when messages are to be written to partitions in a more controlled manner)
+    - Batches (Compressed)
 - Schemas (JSON, Avro)
 - Topics and Partitions
 - Producers and Consumers
-  - Kafka Connect API
-  - Kafka Streams
-  - offset (metadata - an integer value that continually increases)
-  - consumer group (group ensures that each partition is only consumed by one member)
-    - The mapping of a consumer to a partition is often called ownership of the partition by the consumer
+    - Kafka Connect API
+    - Kafka Streams
+    - offset (metadata - an integer value that continually increases)
+    - consumer group (group ensures that each partition is only consumed by one member)
+        - The mapping of a consumer to a partition is often called ownership of the partition by the consumer
 - Brokers and Clusters
-  - *leader* of the partition - cluster controller (elected automatically from the live member of the cluster)
-  - retention
-    - *log compacted,* which means that Kafka will retain only the last message produced with a specific key.
-    - **Log compaction**
+    - *leader* of the partition - cluster controller (elected automatically from the live member of the cluster)
+    - retention
+        - *log compacted,* which means that Kafka will retain only the last message produced with a specific key.
+        - **Log compaction**
 
 Log compaction is a mechanism to give finer-grained per-record retention, rather than the coarser-grained time-based retention. The idea is to selectively remove records where we have a more recent update with the same primary key. This way the log is guaranteed to have at least the last state for each key.
 
@@ -138,17 +138,17 @@ Log compaction is a mechanism to give finer-grained per-record retention, rather
 https://towardsdatascience.com/log-compacted-topics-in-apache-kafka-b1aa1e4665a7
 
 - Multiple clusters
-  - The replication mechanisms within the Kafka clusters are designed only to work within a single cluster, not between multiple clusters
-  - *MirrorMaker*, is simple a Kafka consumer and producer, linked together with a queue. Can aggregate messages from two local clusters into an aggregate cluster, and then copying that cluster to other datacenters.
+    - The replication mechanisms within the Kafka clusters are designed only to work within a single cluster, not between multiple clusters
+    - *MirrorMaker*, is simple a Kafka consumer and producer, linked together with a queue. Can aggregate messages from two local clusters into an aggregate cluster, and then copying that cluster to other datacenters.
 - Named after writer *Franz Kafka*
 
 ## Apache Kafka 2.4
 
 - Kafka Core
-  - Allow consumers to fetch from closest replica (before this all reads and writes happened on the leader)
-  - Implement admin API for replica reassignment
-  - Sticky partitioner
-  - Admin API for deleting consumers offset
+    - Allow consumers to fetch from closest replica (before this all reads and writes happened on the leader)
+    - Implement admin API for replica reassignment
+    - Sticky partitioner
+    - Admin API for deleting consumers offset
 - MirrorMaker 2.0
 
 https://www.confluent.io/blog/apache-kafka-2-4-latest-version-updates

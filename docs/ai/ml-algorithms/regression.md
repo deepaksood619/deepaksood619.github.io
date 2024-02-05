@@ -34,9 +34,9 @@ https://medium.com/@dhiraj8899/top-5-difference-between-linear-regression-and-lo
 
 - Predict real-valued output for given input - given a training set
 - Examples:
-  - Predict rainfall in cm for month
-  - Predict stock prices in next day
-  - Predict numbers of users who will click on an internet advertisement
+    - Predict rainfall in cm for month
+    - Predict stock prices in next day
+    - Predict numbers of users who will click on an internet advertisement
 
 ## Reading a Regression
 

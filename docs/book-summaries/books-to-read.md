@@ -143,7 +143,7 @@
 - The three body problem
 - Think and Grow Rich - Napoleon Hill
 - **Thinking fast and slow - Daniel Kahneman**
-  - [Thinking Fast and Slopes](https://www.drorpoleg.com/thinking-fast-and-slopes/)
+    - [Thinking Fast and Slopes](https://www.drorpoleg.com/thinking-fast-and-slopes/)
 - Thinking in Systems - Donella H. Meadows
 - Upheaval: Turning Points for Nations in Crisis - Jared Diamond
 - Wait but why?

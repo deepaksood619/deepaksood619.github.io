@@ -31,11 +31,11 @@ Fool me once, shame on you. Fool me twice, shame on me. Fool me three times, sha
 - Higher incentives led to worse performances
 - Financial incentives, can result in a negative impact on overall performance
 - New approach - intrinsic motivation
-  - Autonomy
-    - Traditional management is great if you want compliance, but if you want engagement self-direction works better
-    - 20 percent time
-  - Mastery
-  - Purpose
+    - Autonomy
+        - Traditional management is great if you want compliance, but if you want engagement self-direction works better
+        - 20 percent time
+    - Mastery
+    - Purpose
 
 ## Psychological Safety
 
@@ -63,11 +63,11 @@ Creating **psychological safety** in the workplace for learning, innovation, and
 - When leaders are curious and admit that they don't know everything, people are encouraged to speak up
 - When people take risks and speak up, it's important for leaders to respond productively
 - You don't have to be a leader to help create a fearless work environment
-  - I need help
-  - I don't know
-  - I made a mistake
-  - What challenges are you facing?
-  - What can I do to help you?
+    - I need help
+    - I don't know
+    - I made a mistake
+    - What challenges are you facing?
+    - What can I do to help you?
 
 ![image](../../media/People-Team-Management-Culture-image1.jpg)
 
@@ -112,9 +112,9 @@ The fundamental principle of the situational leadership model is that there is *
 https://en.wikipedia.org/wiki/Situational_leadership_theory
 
 - Depends on
-  - Skill
-  - Motivation
-  - Urgency
+    - Skill
+    - Motivation
+    - Urgency
 
 ![image](../../media/People-Team-Management-Culture-image4.jpg)
 
@@ -123,10 +123,10 @@ https://en.wikipedia.org/wiki/Situational_leadership_theory
 ![image](../../media/People-Team-Management-Culture-image6.jpg)
 
 - Three are many ways to lead
-  - Coach
-  - Shepherd
-  - Shaman
-  - Champion
+    - Coach
+    - Shepherd
+    - Shaman
+    - Champion
 - Saying no
 
 ![image](../../media/People-Team-Management-Culture-image7.jpg)
@@ -265,12 +265,12 @@ Escalation matrix
 ### [**Managing people**](https://klinger.io/posts/managing-people-%F0%9F%A4%AF)
 
 - As a manager, everything is your fault
-  - There is no point being angry at your team -- ever
-  - You are in charge of processes and people
-    - And you got more information than they do, always
-  - You either created the processes where this outcome happened
-    - or you hired (or did not fire) the wrong people
-  - Ultimately everything is your fault
+    - There is no point being angry at your team -- ever
+    - You are in charge of processes and people
+        - And you got more information than they do, always
+    - You either created the processes where this outcome happened
+        - or you hired (or did not fire) the wrong people
+    - Ultimately everything is your fault
 - You manage processes; you lead people
 - Processes are expectations made explicit
 - Decisions vs Opinions

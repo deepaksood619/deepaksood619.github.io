@@ -26,8 +26,8 @@
 Symbolic Logic
 - Constants - symbols with fixed meaning
 - Variables - symbols with no fixed meaning
-  - for variables: x, y, z
-  - for statements: p and q
+    - for variables: x, y, z
+    - for statements: p and q
 
 ## Statements
 
@@ -75,9 +75,9 @@ Gxyz - 3 slots (x, y, z), Valency - 3
 - quantity: how many?
 - examples from language include singular (1) & plural (1 or more)
 - three logical quantifiers
-  - all
-  - some (at least 1)
-  - none
+    - all
+    - some (at least 1)
+    - none
 
 ![image](../../media/Logic-image6.jpg)
 

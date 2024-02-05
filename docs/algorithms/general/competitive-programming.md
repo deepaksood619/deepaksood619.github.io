@@ -93,8 +93,8 @@ https://levelup.gitconnected.com/dont-just-leetcode-follow-the-coding-patterns-i
 - Most of the questions related to trees or graphs can be solved either through breadth first search or depth first search.
 - Every recursive solution can be converted to an iterative solution using a stack.
 - For a problem involving arrays, if there exists a solution in o(n^2)time and o(1) space, there must exist two other solutions:
-  - using a hashmap or a set for o(n) time and o(n) space
-  - using sorting for o(n log n) time and o(1) space.
+    - using a hashmap or a set for o(n) time and o(n) space
+    - using sorting for o(n log n) time and o(1) space.
 - If a problem is asking for optimization (e. G. , maximization or minimization), we will be using dynamic programming.
 - If we need to find some common substring among a set of strings, we will be using a hashmap or a trie.
 - If we need to search/manipulate a bunch of strings, trie will be the best data structure.

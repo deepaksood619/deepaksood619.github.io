@@ -23,19 +23,19 @@
 - Migrate all APIs - Type Hint
 - LMS main search and page migrate using Django Admin
 - Migrate everything to Python (Django + Flask)
-  - Cron jobs + APIs (Every `<10 mins` cron must be removed)
-  - UserDevice data
-  - Authentication & authorization system
-  - Logging / Monitoring / Scalability
+    - Cron jobs + APIs (Every `<10 mins` cron must be removed)
+    - UserDevice data
+    - Authentication & authorization system
+    - Logging / Monitoring / Scalability
 - Redis Queue for event based system
-  - Every `<10 mins` cron must be removed
+    - Every `<10 mins` cron must be removed
 - DB Break into multiple components (start moving schema to multiple schemas)
-  - DB data consistency (column contraints)
-  - Data Models ER Diagram with Foreign Key Contraints
-  - Private database
-  - Increase Isolation level
-  - Single database for applications, no reader/writer config (till we really hit that scale), upgrade db, postgres
-  - Remove DMS and Redshift (on-line aggregations)
+    - DB data consistency (column contraints)
+    - Data Models ER Diagram with Foreign Key Contraints
+    - Private database
+    - Increase Isolation level
+    - Single database for applications, no reader/writer config (till we really hit that scale), upgrade db, postgres
+    - Remove DMS and Redshift (on-line aggregations)
 - Product overhaul - end to end with highly deterministic flow and real time monitoring at every single step
     1. Fraud at each step without performance implications
     2. Full customer logging and path traversal along with historical data
@@ -63,27 +63,27 @@
 ### Others
 
 - All tests will be local
-  - databases will be running locally for some of the stuff
-  - There will be a test aurora database with fake PII data and other stuff, developers wil not get access to dailydb, or prod
+    - databases will be running locally for some of the stuff
+    - There will be a test aurora database with fake PII data and other stuff, developers wil not get access to dailydb, or prod
 - Right database for the right job
-  - Only ACID guarantees things will be saved in mysql, others will not be
+    - Only ACID guarantees things will be saved in mysql, others will not be
 - Move all emails, msgs, notifications to pinpoint
 - Security implemented correctly
-  - No unsecured credentials in local (only test db credentials, test s3 bucket access credentials)
+    - No unsecured credentials in local (only test db credentials, test s3 bucket access credentials)
 - Microservices architecture
 - Remove LMS
 - Moving from reactive to proactive actions
 - Event based architecture
 - Break the database
-  - Only MySQL and Redis database
-  - Redshift for Analytics
-  - No T-1 database
-  - No reader and writer access for users to databases
-  - No database more than 8/16 GB
+    - Only MySQL and Redis database
+    - Redshift for Analytics
+    - No T-1 database
+    - No reader and writer access for users to databases
+    - No database more than 8/16 GB
 - Android - MultiLingual
 - AI models at the edge
 - All branches must be master only (so that repositories must be small enough)
-  - Remove each different frontend to a different backend repository
+    - Remove each different frontend to a different backend repository
 
 #### Team Management
 
@@ -105,24 +105,24 @@
 - Decouple data processing from storage
 - Multiple databases will be used across multiple modules, each selected for query performance and best way to save data
 - Each data can be processed multiple times according to requirements
-  - data can land in multiple places
-    - storage is cheap
-    - compute is expensive
-    - denormalize database
-    - query must be performant
-  - Compacted and stored in long term storage solutions
-  - Analysis must be done to get analytics (like no. of finance apps, etc) from the data and saved into a OLAP/OLTP database
-  - Can be parsed and an event can be triggered according to some condition
-  - Can be stored in a transaction database
+    - data can land in multiple places
+        - storage is cheap
+        - compute is expensive
+        - denormalize database
+        - query must be performant
+    - Compacted and stored in long term storage solutions
+    - Analysis must be done to get analytics (like no. of finance apps, etc) from the data and saved into a OLAP/OLTP database
+    - Can be parsed and an event can be triggered according to some condition
+    - Can be stored in a transaction database
 - Two types of aggregations
-  - On the fly aggregations (aggregations performed before/while storing data)
-  - On demand aggregations (done by data science team for creating reports)
-  - High CPU compute queries that are done often must be moved from on-demand to on-the-fly aggregations
+    - On the fly aggregations (aggregations performed before/while storing data)
+    - On demand aggregations (done by data science team for creating reports)
+    - High CPU compute queries that are done often must be moved from on-demand to on-the-fly aggregations
 - We have to cater to both read-heavy workloads and write-heavy workloads
 - Tiered storage
-  - In-memory storage (1 - 4 weeks data)
-  - Relational/non-relational disk based storage based on SSD (1 year data)
-  - Compressed and saved on tape/HDD for long term storage (greater than 1 year data)
+    - In-memory storage (1 - 4 weeks data)
+    - Relational/non-relational disk based storage based on SSD (1 year data)
+    - Compressed and saved on tape/HDD for long term storage (greater than 1 year data)
 - Have a event driven workflows
 
 #### Event Streaming Framework (for upstream data from customers to server)
@@ -130,23 +130,23 @@
 ##### UserDeviceApps Workflow
 
 - Android/PHP pushes all apps raw data to Kafka/Kinesis
-  - Consumer consumes and add to DynamoDB by updating the cust_id as csv of apps for LTS
-  - Consumer consumes, parses and add apps analytics to mysql/wide column (like total number of apps, types of apps - finance, gaming, others)
-  - Consumer consumes, and puts to types of apps in global pool
+    - Consumer consumes and add to DynamoDB by updating the cust_id as csv of apps for LTS
+    - Consumer consumes, parses and add apps analytics to mysql/wide column (like total number of apps, types of apps - finance, gaming, others)
+    - Consumer consumes, and puts to types of apps in global pool
 
 ##### UserDeviceSms Workflow
 
 - Android/PHP pushes all sms raw data to Kafka/Kinesis
-  - Consumer consumes and saves raw data (cust_id, sms_time as primary key) to dynamoDB for LTS
-  - Consumer consumes and parses data for bank sms and save to mysql/wide column for analytics
+    - Consumer consumes and saves raw data (cust_id, sms_time as primary key) to dynamoDB for LTS
+    - Consumer consumes and parses data for bank sms and save to mysql/wide column for analytics
 
 #### Event Streaming Framework (for downstream data from servers to customers/potential customers)
 
 - High fanout (like one sms will be sent to lakhs of customers)
-  - SMS template/Email template/Notification template must be enriched before sending
-    - adding the amount that the customer is eligible for
-    - adding customer specific links
-  - All communications/clicks/engagement should be tracked
+    - SMS template/Email template/Notification template must be enriched before sending
+        - adding the amount that the customer is eligible for
+        - adding customer specific links
+    - All communications/clicks/engagement should be tracked
 
 #### Database that will be used
 

@@ -1,36 +1,36 @@
 # Documentation
 
 - [**Language Reference**](https://www.php.net/manual/en/langref.php)
-  - [Basic syntax](https://www.php.net/manual/en/language.basic-syntax.php)
-  - [Types](https://www.php.net/manual/en/language.types.php)
-  - [Variables](https://www.php.net/manual/en/language.variables.php)
-  - [Constants](https://www.php.net/manual/en/language.constants.php)
-  - [Expressions](https://www.php.net/manual/en/language.expressions.php)
-  - [Operators](https://www.php.net/manual/en/language.operators.php)
-  - [Control Structures](https://www.php.net/manual/en/language.control-structures.php)
-  - [Functions](https://www.php.net/manual/en/language.functions.php)
-  - [Classes and Objects](https://www.php.net/manual/en/language.oop5.php)
-  - [Namespaces](https://www.php.net/manual/en/language.namespaces.php)
-  - [Errors](https://www.php.net/manual/en/language.errors.php)
-  - [Exceptions](https://www.php.net/manual/en/language.exceptions.php)
-  - [Generators](https://www.php.net/manual/en/language.generators.php)
-  - [References Explained](https://www.php.net/manual/en/language.references.php)
-  - [**Predefined Variables**](https://www.php.net/manual/en/reserved.variables.php)
-    - [Superglobals](https://www.php.net/manual/en/language.variables.superglobals.php) - Superglobals are built-in variables that are always available in all scopes
-    - [$GLOBALS](https://www.php.net/manual/en/reserved.variables.globals.php) - References all variables available in global scope
-    - [$_SERVER](https://www.php.net/manual/en/reserved.variables.server.php) - Server and execution environment information
-    - [$_GET](https://www.php.net/manual/en/reserved.variables.get.php) - HTTP GET variables
-    - [$_POST](https://www.php.net/manual/en/reserved.variables.post.php) - HTTP POST variables
-    - [$_FILES](https://www.php.net/manual/en/reserved.variables.files.php) - HTTP File Upload variables
-    - [$_REQUEST](https://www.php.net/manual/en/reserved.variables.request.php) - HTTP Request variables
-    - [$_SESSION](https://www.php.net/manual/en/reserved.variables.session.php) - Session variables
-    - [$_ENV](https://www.php.net/manual/en/reserved.variables.environment.php) - Environment variables
-    - [$_COOKIE](https://www.php.net/manual/en/reserved.variables.cookies.php) - HTTP Cookies
-    - [$php_errormsg](https://www.php.net/manual/en/reserved.variables.phperrormsg.php) - The previous error message
-    - [$HTTP_RAW_POST_DATA](https://www.php.net/manual/en/reserved.variables.httprawpostdata.php) - Raw POST data
-    - [$http_response_header](https://www.php.net/manual/en/reserved.variables.httpresponseheader.php) - HTTP response headers
-    - [$argc](https://www.php.net/manual/en/reserved.variables.argc.php) - The number of arguments passed to script
-    - [$argv](https://www.php.net/manual/en/reserved.variables.argv.php) - Array of arguments passed to script
+    - [Basic syntax](https://www.php.net/manual/en/language.basic-syntax.php)
+    - [Types](https://www.php.net/manual/en/language.types.php)
+    - [Variables](https://www.php.net/manual/en/language.variables.php)
+    - [Constants](https://www.php.net/manual/en/language.constants.php)
+    - [Expressions](https://www.php.net/manual/en/language.expressions.php)
+    - [Operators](https://www.php.net/manual/en/language.operators.php)
+    - [Control Structures](https://www.php.net/manual/en/language.control-structures.php)
+    - [Functions](https://www.php.net/manual/en/language.functions.php)
+    - [Classes and Objects](https://www.php.net/manual/en/language.oop5.php)
+    - [Namespaces](https://www.php.net/manual/en/language.namespaces.php)
+    - [Errors](https://www.php.net/manual/en/language.errors.php)
+    - [Exceptions](https://www.php.net/manual/en/language.exceptions.php)
+    - [Generators](https://www.php.net/manual/en/language.generators.php)
+    - [References Explained](https://www.php.net/manual/en/language.references.php)
+    - [**Predefined Variables**](https://www.php.net/manual/en/reserved.variables.php)
+        - [Superglobals](https://www.php.net/manual/en/language.variables.superglobals.php) - Superglobals are built-in variables that are always available in all scopes
+        - [$GLOBALS](https://www.php.net/manual/en/reserved.variables.globals.php) - References all variables available in global scope
+        - [$_SERVER](https://www.php.net/manual/en/reserved.variables.server.php) - Server and execution environment information
+        - [$_GET](https://www.php.net/manual/en/reserved.variables.get.php) - HTTP GET variables
+        - [$_POST](https://www.php.net/manual/en/reserved.variables.post.php) - HTTP POST variables
+        - [$_FILES](https://www.php.net/manual/en/reserved.variables.files.php) - HTTP File Upload variables
+        - [$_REQUEST](https://www.php.net/manual/en/reserved.variables.request.php) - HTTP Request variables
+        - [$_SESSION](https://www.php.net/manual/en/reserved.variables.session.php) - Session variables
+        - [$_ENV](https://www.php.net/manual/en/reserved.variables.environment.php) - Environment variables
+        - [$_COOKIE](https://www.php.net/manual/en/reserved.variables.cookies.php) - HTTP Cookies
+        - [$php_errormsg](https://www.php.net/manual/en/reserved.variables.phperrormsg.php) - The previous error message
+        - [$HTTP_RAW_POST_DATA](https://www.php.net/manual/en/reserved.variables.httprawpostdata.php) - Raw POST data
+        - [$http_response_header](https://www.php.net/manual/en/reserved.variables.httpresponseheader.php) - HTTP response headers
+        - [$argc](https://www.php.net/manual/en/reserved.variables.argc.php) - The number of arguments passed to script
+        - [$argv](https://www.php.net/manual/en/reserved.variables.argv.php) - Array of arguments passed to script
 
 - [Predefined Exceptions](https://www.php.net/manual/en/reserved.exceptions.php)
 - [Predefined Interfaces and Classes](https://www.php.net/manual/en/reserved.interfaces.php)
@@ -38,140 +38,140 @@
 - [Supported Protocols and Wrappers](https://www.php.net/manual/en/wrappers.php)
 
 - [**Security**](https://www.php.net/manual/en/security.php)
-  - [Introduction](https://www.php.net/manual/en/security.intro.php)
-  - [General considerations](https://www.php.net/manual/en/security.general.php)
-  - [Installed as CGI binary](https://www.php.net/manual/en/security.cgi-bin.php)
-  - [Installed as an Apache module](https://www.php.net/manual/en/security.apache.php)
-  - [Session Security](https://www.php.net/manual/en/security.sessions.php)
-  - [Filesystem Security](https://www.php.net/manual/en/security.filesystem.php)
-  - [Database Security](https://www.php.net/manual/en/security.database.php)
-  - [Error Reporting](https://www.php.net/manual/en/security.errors.php)
-  - [Using Register Globals](https://www.php.net/manual/en/security.globals.php)
-  - [User Submitted Data](https://www.php.net/manual/en/security.variables.php)
-  - [Magic Quotes](https://www.php.net/manual/en/security.magicquotes.php)
-  - [Hiding PHP](https://www.php.net/manual/en/security.hiding.php)
-  - [Keeping Current](https://www.php.net/manual/en/security.current.php)
+    - [Introduction](https://www.php.net/manual/en/security.intro.php)
+    - [General considerations](https://www.php.net/manual/en/security.general.php)
+    - [Installed as CGI binary](https://www.php.net/manual/en/security.cgi-bin.php)
+    - [Installed as an Apache module](https://www.php.net/manual/en/security.apache.php)
+    - [Session Security](https://www.php.net/manual/en/security.sessions.php)
+    - [Filesystem Security](https://www.php.net/manual/en/security.filesystem.php)
+    - [Database Security](https://www.php.net/manual/en/security.database.php)
+    - [Error Reporting](https://www.php.net/manual/en/security.errors.php)
+    - [Using Register Globals](https://www.php.net/manual/en/security.globals.php)
+    - [User Submitted Data](https://www.php.net/manual/en/security.variables.php)
+    - [Magic Quotes](https://www.php.net/manual/en/security.magicquotes.php)
+    - [Hiding PHP](https://www.php.net/manual/en/security.hiding.php)
+    - [Keeping Current](https://www.php.net/manual/en/security.current.php)
 
 - [**Features**](https://www.php.net/manual/en/features.php)
-  - [HTTP authentication with PHP](https://www.php.net/manual/en/features.http-auth.php)
-  - [Cookies](https://www.php.net/manual/en/features.cookies.php)
-  - [Sessions](https://www.php.net/manual/en/features.sessions.php)
-  - [Dealing with XForms](https://www.php.net/manual/en/features.xforms.php)
-  - [Handling file uploads](https://www.php.net/manual/en/features.file-upload.php)
-  - [Using remote files](https://www.php.net/manual/en/features.remote-files.php)
-  - [Connection handling](https://www.php.net/manual/en/features.connection-handling.php)
-  - [Persistent Database Connections](https://www.php.net/manual/en/features.persistent-connections.php)
-  - [Safe Mode](https://www.php.net/manual/en/features.safe-mode.php)
-  - [Command line usage](https://www.php.net/manual/en/features.commandline.php) - Using PHP from the command line
-  - [Garbage Collection](https://www.php.net/manual/en/features.gc.php)
-  - [DTrace Dynamic Tracing](https://www.php.net/manual/en/features.dtrace.php)
+    - [HTTP authentication with PHP](https://www.php.net/manual/en/features.http-auth.php)
+    - [Cookies](https://www.php.net/manual/en/features.cookies.php)
+    - [Sessions](https://www.php.net/manual/en/features.sessions.php)
+    - [Dealing with XForms](https://www.php.net/manual/en/features.xforms.php)
+    - [Handling file uploads](https://www.php.net/manual/en/features.file-upload.php)
+    - [Using remote files](https://www.php.net/manual/en/features.remote-files.php)
+    - [Connection handling](https://www.php.net/manual/en/features.connection-handling.php)
+    - [Persistent Database Connections](https://www.php.net/manual/en/features.persistent-connections.php)
+    - [Safe Mode](https://www.php.net/manual/en/features.safe-mode.php)
+    - [Command line usage](https://www.php.net/manual/en/features.commandline.php) - Using PHP from the command line
+    - [Garbage Collection](https://www.php.net/manual/en/features.gc.php)
+    - [DTrace Dynamic Tracing](https://www.php.net/manual/en/features.dtrace.php)
 
 - [**Function Reference**](https://www.php.net/manual/en/funcref.php)
-  - [Affecting PHP's Behaviour](https://www.php.net/manual/en/refs.basic.php.php)
-  - [Audio Formats Manipulation](https://www.php.net/manual/en/refs.utilspec.audio.php)
-  - [Authentication Services](https://www.php.net/manual/en/refs.remote.auth.php)
-  - [Command Line Specific Extensions](https://www.php.net/manual/en/refs.utilspec.cmdline.php)
-  - [Compression and Archive Extensions](https://www.php.net/manual/en/refs.compression.php)
-  - [Credit Card Processing](https://www.php.net/manual/en/refs.creditcard.php)
-  - [Cryptography Extensions](https://www.php.net/manual/en/refs.crypto.php)
-  - [Database Extensions](https://www.php.net/manual/en/refs.database.php)
-  - [Date and Time Related Extensions](https://www.php.net/manual/en/refs.calendar.php)
-  - [File System Related Extensions](https://www.php.net/manual/en/refs.fileprocess.file.php)
-  - [Human Language and Character Encoding Support](https://www.php.net/manual/en/refs.international.php)
-  - [Image Processing and Generation](https://www.php.net/manual/en/refs.utilspec.image.php)
-  - [Mail Related Extensions](https://www.php.net/manual/en/refs.remote.mail.php)
-  - [Mathematical Extensions](https://www.php.net/manual/en/refs.math.php)
-  - [Non-Text MIME Output](https://www.php.net/manual/en/refs.utilspec.nontext.php)
-  - [Process Control Extensions](https://www.php.net/manual/en/refs.fileprocess.process.php)
-    - [Eio](https://www.php.net/manual/en/book.eio.php)
-    - [Ev](https://www.php.net/manual/en/book.ev.php)
-    - [Expect](https://www.php.net/manual/en/book.expect.php)
-    - [Libevent](https://www.php.net/manual/en/book.libevent.php)
-    - [PCNTL](https://www.php.net/manual/en/book.pcntl.php) - Process Control
-    - [POSIX](https://www.php.net/manual/en/book.posix.php)
-    - [Program execution](https://www.php.net/manual/en/book.exec.php) - System program execution
-    - [parallel](https://www.php.net/manual/en/book.parallel.php)
-    - [pthreads](https://www.php.net/manual/en/book.pthreads.php)
-    - [pht](https://www.php.net/manual/en/book.pht.php)
-    - **[Semaphore](https://www.php.net/manual/en/book.sem.php) - Semaphore, Shared Memory and IPC**
-    - [Shared Memory](https://www.php.net/manual/en/book.shmop.php)
-    - [Sync](https://www.php.net/manual/en/book.sync.php)
+    - [Affecting PHP's Behaviour](https://www.php.net/manual/en/refs.basic.php.php)
+    - [Audio Formats Manipulation](https://www.php.net/manual/en/refs.utilspec.audio.php)
+    - [Authentication Services](https://www.php.net/manual/en/refs.remote.auth.php)
+    - [Command Line Specific Extensions](https://www.php.net/manual/en/refs.utilspec.cmdline.php)
+    - [Compression and Archive Extensions](https://www.php.net/manual/en/refs.compression.php)
+    - [Credit Card Processing](https://www.php.net/manual/en/refs.creditcard.php)
+    - [Cryptography Extensions](https://www.php.net/manual/en/refs.crypto.php)
+    - [Database Extensions](https://www.php.net/manual/en/refs.database.php)
+    - [Date and Time Related Extensions](https://www.php.net/manual/en/refs.calendar.php)
+    - [File System Related Extensions](https://www.php.net/manual/en/refs.fileprocess.file.php)
+    - [Human Language and Character Encoding Support](https://www.php.net/manual/en/refs.international.php)
+    - [Image Processing and Generation](https://www.php.net/manual/en/refs.utilspec.image.php)
+    - [Mail Related Extensions](https://www.php.net/manual/en/refs.remote.mail.php)
+    - [Mathematical Extensions](https://www.php.net/manual/en/refs.math.php)
+    - [Non-Text MIME Output](https://www.php.net/manual/en/refs.utilspec.nontext.php)
+    - [Process Control Extensions](https://www.php.net/manual/en/refs.fileprocess.process.php)
+        - [Eio](https://www.php.net/manual/en/book.eio.php)
+        - [Ev](https://www.php.net/manual/en/book.ev.php)
+        - [Expect](https://www.php.net/manual/en/book.expect.php)
+        - [Libevent](https://www.php.net/manual/en/book.libevent.php)
+        - [PCNTL](https://www.php.net/manual/en/book.pcntl.php) - Process Control
+        - [POSIX](https://www.php.net/manual/en/book.posix.php)
+        - [Program execution](https://www.php.net/manual/en/book.exec.php) - System program execution
+        - [parallel](https://www.php.net/manual/en/book.parallel.php)
+        - [pthreads](https://www.php.net/manual/en/book.pthreads.php)
+        - [pht](https://www.php.net/manual/en/book.pht.php)
+        - **[Semaphore](https://www.php.net/manual/en/book.sem.php) - Semaphore, Shared Memory and IPC**
+        - [Shared Memory](https://www.php.net/manual/en/book.shmop.php)
+        - [Sync](https://www.php.net/manual/en/book.sync.php)
 
 - [Other Basic Extensions](https://www.php.net/manual/en/refs.basic.other.php)
 - [Other Services](https://www.php.net/manual/en/refs.remote.other.php)
-  - [chdb](https://www.php.net/manual/en/book.chdb.php) - Constant hash database
-  - [cURL](https://www.php.net/manual/en/book.curl.php) - Client URL Library
-  - [Event](https://www.php.net/manual/en/book.event.php)
-  - [FAM](https://www.php.net/manual/en/book.fam.php) - File Alteration Monitor
-  - [FTP](https://www.php.net/manual/en/book.ftp.php)
-  - [Gearman](https://www.php.net/manual/en/book.gearman.php)
-  - [Gopher](https://www.php.net/manual/en/book.net-gopher.php) - Net Gopher
-  - [Gupnp](https://www.php.net/manual/en/book.gupnp.php)
-  - [Hyperwave API](https://www.php.net/manual/en/book.hwapi.php)
-  - [LDAP](https://www.php.net/manual/en/book.ldap.php) - Lightweight Directory Access Protocol
-  - [Memcache](https://www.php.net/manual/en/book.memcache.php)
-  - [Memcached](https://www.php.net/manual/en/book.memcached.php)
-  - [mqseries](https://www.php.net/manual/en/book.mqseries.php)
-  - [Network](https://www.php.net/manual/en/book.network.php)
-  - [RRD](https://www.php.net/manual/en/book.rrd.php) - RRDtool
-  - [SAM](https://www.php.net/manual/en/book.sam.php) - Simple Asynchronous Messaging
-  - [ScoutAPM](https://www.php.net/manual/en/book.scoutapm.php)
-  - [SNMP](https://www.php.net/manual/en/book.snmp.php)
-  - [Sockets](https://www.php.net/manual/en/book.sockets.php)
-  - [SSH2](https://www.php.net/manual/en/book.ssh2.php) - Secure Shell2
-  - [Stomp](https://www.php.net/manual/en/book.stomp.php) - Stomp Client
-  - [SVM](https://www.php.net/manual/en/book.svm.php) - Support Vector Machine
-  - [SVN](https://www.php.net/manual/en/book.svn.php) - Subversion
-  - [TCP](https://www.php.net/manual/en/book.tcpwrap.php) - TCP Wrappers
-  - [Varnish](https://www.php.net/manual/en/book.varnish.php)
-  - [YAZ](https://www.php.net/manual/en/book.yaz.php)
-  - [YP/NIS](https://www.php.net/manual/en/book.nis.php)
-  - [0MQ messaging](https://www.php.net/manual/en/book.zmq.php) - ZMQ
-  - [ZooKeeper](https://www.php.net/manual/en/book.zookeeper.php)
+    - [chdb](https://www.php.net/manual/en/book.chdb.php) - Constant hash database
+    - [cURL](https://www.php.net/manual/en/book.curl.php) - Client URL Library
+    - [Event](https://www.php.net/manual/en/book.event.php)
+    - [FAM](https://www.php.net/manual/en/book.fam.php) - File Alteration Monitor
+    - [FTP](https://www.php.net/manual/en/book.ftp.php)
+    - [Gearman](https://www.php.net/manual/en/book.gearman.php)
+    - [Gopher](https://www.php.net/manual/en/book.net-gopher.php) - Net Gopher
+    - [Gupnp](https://www.php.net/manual/en/book.gupnp.php)
+    - [Hyperwave API](https://www.php.net/manual/en/book.hwapi.php)
+    - [LDAP](https://www.php.net/manual/en/book.ldap.php) - Lightweight Directory Access Protocol
+    - [Memcache](https://www.php.net/manual/en/book.memcache.php)
+    - [Memcached](https://www.php.net/manual/en/book.memcached.php)
+    - [mqseries](https://www.php.net/manual/en/book.mqseries.php)
+    - [Network](https://www.php.net/manual/en/book.network.php)
+    - [RRD](https://www.php.net/manual/en/book.rrd.php) - RRDtool
+    - [SAM](https://www.php.net/manual/en/book.sam.php) - Simple Asynchronous Messaging
+    - [ScoutAPM](https://www.php.net/manual/en/book.scoutapm.php)
+    - [SNMP](https://www.php.net/manual/en/book.snmp.php)
+    - [Sockets](https://www.php.net/manual/en/book.sockets.php)
+    - [SSH2](https://www.php.net/manual/en/book.ssh2.php) - Secure Shell2
+    - [Stomp](https://www.php.net/manual/en/book.stomp.php) - Stomp Client
+    - [SVM](https://www.php.net/manual/en/book.svm.php) - Support Vector Machine
+    - [SVN](https://www.php.net/manual/en/book.svn.php) - Subversion
+    - [TCP](https://www.php.net/manual/en/book.tcpwrap.php) - TCP Wrappers
+    - [Varnish](https://www.php.net/manual/en/book.varnish.php)
+    - [YAZ](https://www.php.net/manual/en/book.yaz.php)
+    - [YP/NIS](https://www.php.net/manual/en/book.nis.php)
+    - [0MQ messaging](https://www.php.net/manual/en/book.zmq.php) - ZMQ
+    - [ZooKeeper](https://www.php.net/manual/en/book.zookeeper.php)
 
 - [Search Engine Extensions](https://www.php.net/manual/en/refs.search.php)
 - [Server Specific Extensions](https://www.php.net/manual/en/refs.utilspec.server.php)
 - [Session Extensions](https://www.php.net/manual/en/refs.basic.session.php)
 - [Text Processing](https://www.php.net/manual/en/refs.basic.text.php)
 - [**Variable and Type Related Extensions**](https://www.php.net/manual/en/refs.basic.vartype.php)
-  - [Predefined Constants](https://www.php.net/manual/en/var.constants.php)
-  - [Variable handling Functions](https://www.php.net/manual/en/ref.var.php)
-    - [boolval](https://www.php.net/manual/en/function.boolval.php) - Get the boolean value of a variable
-    - [debug_zval_dump](https://www.php.net/manual/en/function.debug-zval-dump.php) - Dumps a string representation of an internal zend value to output
-    - [doubleval](https://www.php.net/manual/en/function.doubleval.php) - Alias of floatval
-    - [empty](https://www.php.net/manual/en/function.empty.php) - Determine whether a variable is empty
-    - [floatval](https://www.php.net/manual/en/function.floatval.php) - Get float value of a variable
-    - [get_defined_vars](https://www.php.net/manual/en/function.get-defined-vars.php) - Returns an array of all defined variables
-    - [get_resource_type](https://www.php.net/manual/en/function.get-resource-type.php) - Returns the resource type
-    - [gettype](https://www.php.net/manual/en/function.gettype.php) - Get the type of a variable
-    - [import_request_variables](https://www.php.net/manual/en/function.import-request-variables.php) - Import GET/POST/Cookie variables into the global scope
-    - [intval](https://www.php.net/manual/en/function.intval.php) - Get the integer value of a variable
-    - **[is_array](https://www.php.net/manual/en/function.is-array.php) - Finds whether a variable is an array**
-    - [is_bool](https://www.php.net/manual/en/function.is-bool.php) - Finds out whether a variable is a boolean
-    - [is_callable](https://www.php.net/manual/en/function.is-callable.php) - Verify that the contents of a variable can be called as a function
-    - [is_countable](https://www.php.net/manual/en/function.is-countable.php) - Verify that the contents of a variable is a countable value
-    - [is_double](https://www.php.net/manual/en/function.is-double.php) - Alias of is_float
-    - [is_float](https://www.php.net/manual/en/function.is-float.php) - Finds whether the type of a variable is float
-    - [is_int](https://www.php.net/manual/en/function.is-int.php) - Find whether the type of a variable is integer
-    - [is_integer](https://www.php.net/manual/en/function.is-integer.php) - Alias of is_int
-    - [is_iterable](https://www.php.net/manual/en/function.is-iterable.php) - Verify that the contents of a variable is an iterable value
-    - [is_long](https://www.php.net/manual/en/function.is-long.php) - Alias of is_int
-    - [is_null](https://www.php.net/manual/en/function.is-null.php) - Finds whether a variable is NULL
-    - [is_numeric](https://www.php.net/manual/en/function.is-numeric.php) - Finds whether a variable is a number or a numeric string
-    - [is_object](https://www.php.net/manual/en/function.is-object.php) - Finds whether a variable is an object
-    - [is_real](https://www.php.net/manual/en/function.is-real.php) - Alias of is_float
-    - [is_resource](https://www.php.net/manual/en/function.is-resource.php) - Finds whether a variable is a resource
-    - [is_scalar](https://www.php.net/manual/en/function.is-scalar.php) - Finds whether a variable is a scalar
-    - [is_string](https://www.php.net/manual/en/function.is-string.php) - Find whether the type of a variable is string
-    - [isset](https://www.php.net/manual/en/function.isset.php) - Determine if a variable is declared and is different than NULL
-    - **[print_r](https://www.php.net/manual/en/function.print-r.php) - Prints human-readable information about a variable**
-    - [serialize](https://www.php.net/manual/en/function.serialize.php) - Generates a storable representation of a value
-    - [settype](https://www.php.net/manual/en/function.settype.php) - Set the type of a variable
-    - [strval](https://www.php.net/manual/en/function.strval.php) - Get string value of a variable
-    - [unserialize](https://www.php.net/manual/en/function.unserialize.php) - Creates a PHP value from a stored representation
-    - **[unset](https://www.php.net/manual/en/function.unset.php) - Unset a given variable** (unset() destroys the specified variables.)
-    - **[var_dump](https://www.php.net/manual/en/function.var-dump.php) - Dumps information about a variable**
-    - [var_export](https://www.php.net/manual/en/function.var-export.php) - Outputs or returns a parsable string representation of a variable
+    - [Predefined Constants](https://www.php.net/manual/en/var.constants.php)
+    - [Variable handling Functions](https://www.php.net/manual/en/ref.var.php)
+        - [boolval](https://www.php.net/manual/en/function.boolval.php) - Get the boolean value of a variable
+        - [debug_zval_dump](https://www.php.net/manual/en/function.debug-zval-dump.php) - Dumps a string representation of an internal zend value to output
+        - [doubleval](https://www.php.net/manual/en/function.doubleval.php) - Alias of floatval
+        - [empty](https://www.php.net/manual/en/function.empty.php) - Determine whether a variable is empty
+        - [floatval](https://www.php.net/manual/en/function.floatval.php) - Get float value of a variable
+        - [get_defined_vars](https://www.php.net/manual/en/function.get-defined-vars.php) - Returns an array of all defined variables
+        - [get_resource_type](https://www.php.net/manual/en/function.get-resource-type.php) - Returns the resource type
+        - [gettype](https://www.php.net/manual/en/function.gettype.php) - Get the type of a variable
+        - [import_request_variables](https://www.php.net/manual/en/function.import-request-variables.php) - Import GET/POST/Cookie variables into the global scope
+        - [intval](https://www.php.net/manual/en/function.intval.php) - Get the integer value of a variable
+        - **[is_array](https://www.php.net/manual/en/function.is-array.php) - Finds whether a variable is an array**
+        - [is_bool](https://www.php.net/manual/en/function.is-bool.php) - Finds out whether a variable is a boolean
+        - [is_callable](https://www.php.net/manual/en/function.is-callable.php) - Verify that the contents of a variable can be called as a function
+        - [is_countable](https://www.php.net/manual/en/function.is-countable.php) - Verify that the contents of a variable is a countable value
+        - [is_double](https://www.php.net/manual/en/function.is-double.php) - Alias of is_float
+        - [is_float](https://www.php.net/manual/en/function.is-float.php) - Finds whether the type of a variable is float
+        - [is_int](https://www.php.net/manual/en/function.is-int.php) - Find whether the type of a variable is integer
+        - [is_integer](https://www.php.net/manual/en/function.is-integer.php) - Alias of is_int
+        - [is_iterable](https://www.php.net/manual/en/function.is-iterable.php) - Verify that the contents of a variable is an iterable value
+        - [is_long](https://www.php.net/manual/en/function.is-long.php) - Alias of is_int
+        - [is_null](https://www.php.net/manual/en/function.is-null.php) - Finds whether a variable is NULL
+        - [is_numeric](https://www.php.net/manual/en/function.is-numeric.php) - Finds whether a variable is a number or a numeric string
+        - [is_object](https://www.php.net/manual/en/function.is-object.php) - Finds whether a variable is an object
+        - [is_real](https://www.php.net/manual/en/function.is-real.php) - Alias of is_float
+        - [is_resource](https://www.php.net/manual/en/function.is-resource.php) - Finds whether a variable is a resource
+        - [is_scalar](https://www.php.net/manual/en/function.is-scalar.php) - Finds whether a variable is a scalar
+        - [is_string](https://www.php.net/manual/en/function.is-string.php) - Find whether the type of a variable is string
+        - [isset](https://www.php.net/manual/en/function.isset.php) - Determine if a variable is declared and is different than NULL
+        - **[print_r](https://www.php.net/manual/en/function.print-r.php) - Prints human-readable information about a variable**
+        - [serialize](https://www.php.net/manual/en/function.serialize.php) - Generates a storable representation of a value
+        - [settype](https://www.php.net/manual/en/function.settype.php) - Set the type of a variable
+        - [strval](https://www.php.net/manual/en/function.strval.php) - Get string value of a variable
+        - [unserialize](https://www.php.net/manual/en/function.unserialize.php) - Creates a PHP value from a stored representation
+        - **[unset](https://www.php.net/manual/en/function.unset.php) - Unset a given variable** (unset() destroys the specified variables.)
+        - **[var_dump](https://www.php.net/manual/en/function.var-dump.php) - Dumps information about a variable**
+        - [var_export](https://www.php.net/manual/en/function.var-export.php) - Outputs or returns a parsable string representation of a variable
 
 - [Web Services](https://www.php.net/manual/en/refs.webservice.php)
 - [Windows Only Extensions](https://www.php.net/manual/en/refs.utilspec.windows.php)
@@ -179,32 +179,32 @@
 - [GUI Extensions](https://www.php.net/manual/en/refs.ui.php)
 
 - [**PHP at the Core: A Hacker's Guide**](https://www.php.net/manual/en/internals2.php)
-  - [Preface](https://www.php.net/manual/en/internals2.preface.php)
-  - [Memory management](https://www.php.net/manual/en/internals2.memory.php)
-  - [Working with Variables](https://www.php.net/manual/en/internals2.variables.php)
-  - [Writing Functions](https://www.php.net/manual/en/internals2.funcs.php)
-  - [Writing Classes](https://www.php.net/manual/en/internals2.classes.php)
-  - [Working with Resources](https://www.php.net/manual/en/internals2.resources.php)
-  - [Working with INI settings](https://www.php.net/manual/en/internals2.ini.php)
-  - [Working with streams](https://www.php.net/manual/en/internals2.streams.php)
-  - [The "counter" Extension - A Continuing Example](https://www.php.net/manual/en/internals2.counter.php)
-  - [The PHP 5 build system](https://www.php.net/manual/en/internals2.buildsys.php)
-  - [Extension structure](https://www.php.net/manual/en/internals2.structure.php)
-  - [PDO Driver How-To](https://www.php.net/manual/en/internals2.pdo.php)
-  - [Extension FAQs](https://www.php.net/manual/en/internals2.faq.php)
-  - [Zend Engine 2 API reference](https://www.php.net/manual/en/internals2.apiref.php)
-  - [Zend Engine 2 Opcodes](https://www.php.net/manual/en/internals2.opcodes.php)
-  - [Zend Engine 1](https://www.php.net/manual/en/internals2.ze1.php)
+    - [Preface](https://www.php.net/manual/en/internals2.preface.php)
+    - [Memory management](https://www.php.net/manual/en/internals2.memory.php)
+    - [Working with Variables](https://www.php.net/manual/en/internals2.variables.php)
+    - [Writing Functions](https://www.php.net/manual/en/internals2.funcs.php)
+    - [Writing Classes](https://www.php.net/manual/en/internals2.classes.php)
+    - [Working with Resources](https://www.php.net/manual/en/internals2.resources.php)
+    - [Working with INI settings](https://www.php.net/manual/en/internals2.ini.php)
+    - [Working with streams](https://www.php.net/manual/en/internals2.streams.php)
+    - [The "counter" Extension - A Continuing Example](https://www.php.net/manual/en/internals2.counter.php)
+    - [The PHP 5 build system](https://www.php.net/manual/en/internals2.buildsys.php)
+    - [Extension structure](https://www.php.net/manual/en/internals2.structure.php)
+    - [PDO Driver How-To](https://www.php.net/manual/en/internals2.pdo.php)
+    - [Extension FAQs](https://www.php.net/manual/en/internals2.faq.php)
+    - [Zend Engine 2 API reference](https://www.php.net/manual/en/internals2.apiref.php)
+    - [Zend Engine 2 Opcodes](https://www.php.net/manual/en/internals2.opcodes.php)
+    - [Zend Engine 1](https://www.php.net/manual/en/internals2.ze1.php)
 
 - **[FAQ](https://www.php.net/manual/en/faq.php) - FAQ: Frequently Asked Questions**
-  - [General Information](https://www.php.net/manual/en/faq.general.php)
-  - [Mailing lists](https://www.php.net/manual/en/faq.mailinglist.php)
-  - [Obtaining PHP](https://www.php.net/manual/en/faq.obtaining.php)
-  - [Database issues](https://www.php.net/manual/en/faq.databases.php)
-  - [Installation](https://www.php.net/manual/en/faq.installation.php)
-  - [Build Problems](https://www.php.net/manual/en/faq.build.php)
-  - [Using PHP](https://www.php.net/manual/en/faq.using.php)
-  - [Password Hashing](https://www.php.net/manual/en/faq.passwords.php) - Safe Password Hashing
-  - [PHP and HTML](https://www.php.net/manual/en/faq.html.php)
-  - [PHP and COM](https://www.php.net/manual/en/faq.com.php)
-  - [Miscellaneous Questions](https://www.php.net/manual/en/faq.misc.php)
+    - [General Information](https://www.php.net/manual/en/faq.general.php)
+    - [Mailing lists](https://www.php.net/manual/en/faq.mailinglist.php)
+    - [Obtaining PHP](https://www.php.net/manual/en/faq.obtaining.php)
+    - [Database issues](https://www.php.net/manual/en/faq.databases.php)
+    - [Installation](https://www.php.net/manual/en/faq.installation.php)
+    - [Build Problems](https://www.php.net/manual/en/faq.build.php)
+    - [Using PHP](https://www.php.net/manual/en/faq.using.php)
+    - [Password Hashing](https://www.php.net/manual/en/faq.passwords.php) - Safe Password Hashing
+    - [PHP and HTML](https://www.php.net/manual/en/faq.html.php)
+    - [PHP and COM](https://www.php.net/manual/en/faq.com.php)
+    - [Miscellaneous Questions](https://www.php.net/manual/en/faq.misc.php)

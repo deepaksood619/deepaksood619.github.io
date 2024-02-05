@@ -1,6 +1,6 @@
 repos:
     - repo: https://github.com/pre-commit/pre-commit-hooks
-      rev: v4.4.0
+      rev: v4.5.0
       hooks:
         - id: check-added-large-files
         - id: trailing-whitespace
@@ -11,11 +11,11 @@ repos:
         - id: detect-aws-credentials
         - id: detect-private-key
     - repo: https://github.com/psf/black
-      rev: 23.7.0
+      rev: 24.1.1
       hooks:
         - id: black
     - repo: https://github.com/igorshubovych/markdownlint-cli
-      rev: v0.35.0
+      rev: v0.39.0
       hooks:
         - id: markdownlint
         - id: markdownlint-fix

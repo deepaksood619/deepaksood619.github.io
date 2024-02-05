@@ -32,14 +32,14 @@ Eight main building blocks of an Angular application
 - Angular CLI
 - App Components
 - Pipe
-  - Uppercase pipe
+    - Uppercase pipe
 - Two - way data binding
-  - Using ngModel directive
+    - Using ngModel directive
 - App Module
 - Forms Module
 - *ngFor - Angular Repeater Directive
 - Angular's Event Binding
-  - (click)="onSelect(hero)"
+    - (click)="onSelect(hero)"
 
 ## Angular
 

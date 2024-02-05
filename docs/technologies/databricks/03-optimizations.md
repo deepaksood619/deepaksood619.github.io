@@ -28,7 +28,7 @@ Bottom line, if the delta tables are backed by a version enabled S3 Bucket with 
 - [Disk caching](https://docs.databricks.com/optimizations/disk-cache.html) accelerates repeated reads against Parquet data files by loading data to disk volumes attached to compute clusters.
 - [Dynamic file pruning](https://docs.databricks.com/optimizations/dynamic-file-pruning.html) improves query performance by skipping directories that do not contain data files that match query predicates.
 - [Low shuffle merge](https://docs.databricks.com/optimizations/low-shuffle-merge.html) reduces the number of data files rewritten by `MERGE` operations and reduces the need to recalculate `ZORDER` clusters.
-  - [Advancing Spark - Understanding Low Shuffle Merge - YouTube](https://www.youtube.com/watch?v=At1IrqsM_sE)
+    - [Advancing Spark - Understanding Low Shuffle Merge - YouTube](https://www.youtube.com/watch?v=At1IrqsM_sE)
 - Apache Spark 3.0 introduced [adaptive query execution](https://docs.databricks.com/optimizations/aqe.html), which provides enhanced performance for many operations.
 
 #### Databricks recommendations for enhanced performance

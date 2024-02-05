@@ -11,11 +11,11 @@ Staking helps contribute to blockchain security by using your tokens to vouch fo
 - May offer integrated punishement mechanism for malicious nodes: slashing
 - Current **holy grail** to get of the energy waste stigma (both Ethereum and IOTA plan to pivot to PoS)
 - Slight problems
-  - How is stake initally distributed?
-    - Popular: Sale of tokens
-    - Alternative: Bootstrap off of existing blockchains
-  - No built-in defence against centralization. No Sybil resistance
-    - Even if bootstrapped correctly, may become centralized without any visible sign
+    - How is stake initally distributed?
+        - Popular: Sale of tokens
+        - Alternative: Bootstrap off of existing blockchains
+    - No built-in defence against centralization. No Sybil resistance
+        - Even if bootstrapped correctly, may become centralized without any visible sign
 - By owning and staking the coins, you not only become an important part of securing the entire network, but you also get paid for this service. This regular income stream is paid out directly from the blockchain and is deeply embedded in the underlying programming code. The payout amounts (emission rates) vary from blockchain to blockchain; for example, for staking DeFiChain (DFI) you currently receive over 40% APY, while for staking DASH it is over 5% APY.
 
 ## Delegated Proof of Stake (DPoS)
@@ -81,7 +81,7 @@ These projects have all implemented NPoS in different ways, but they all share t
 - Blocks must be signed by a sufficient quorum of "authoritative" nodes
 - Very simple, very efficient
 - Requires trust in the authorities
-  - How are they chosen?
+    - How are they chosen?
 - Basically: A PKI, a databases, and a hashchain in a trenchcoat
 - Standard construction for private / permissioned blockchains
 
@@ -96,8 +96,8 @@ To maintain blockchain security and achieve network consensus, BSC combines dele
 ## Proof of Storage
 
 - Example: Chia (2018)
-  - Increased wear destroys SSDs after less than a year
-  - No use beyond price speculation
+    - Increased wear destroys SSDs after less than a year
+    - No use beyond price speculation
 
 [What is Chia? (Animated) Eco-Friendly Storage-Based Crypto - YouTube](https://www.youtube.com/watch?v=HhumRtzglNM)
 
@@ -114,7 +114,7 @@ To maintain blockchain security and achieve network consensus, BSC combines dele
 - Drop-in solution, behaves exactly like PoW
 - Used in permissioned environments
 - Small questions: What guarantees do other nodes have that no node wakes up before its time?
-  - Intel SGX
+    - Intel SGX
 - See also: Proof of Luck (PoL)
 
 [Proof of Elapsed Time (PoET) Definition, Purposes, Vs. PoW](https://www.investopedia.com/terms/p/proof-elapsed-time-cryptocurrency.asp)
@@ -123,9 +123,9 @@ To maintain blockchain security and achieve network consensus, BSC combines dele
 
 - Mobile-device focused
 - Pulls every cryptographic register there is
-  - Stellar consensus
-  - Zero-knowledge proofs for everything
-  - Ristretoo, Schnorr anonymous signatures, Pedersen commitments
+    - Stellar consensus
+    - Zero-knowledge proofs for everything
+    - Ristretoo, Schnorr anonymous signatures, Pedersen commitments
 - Security against double-spending completely relies on Intel SGX enclaves
 - Entire token supply is pre-mined
 

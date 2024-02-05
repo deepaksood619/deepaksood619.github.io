@@ -179,7 +179,7 @@ When a session is started following things happen −
 
 - PHP first creates a unique identifier for that particular session which is a random string of 32 hexadecimal numbers such as 3c7foj34c3jj973hjkop2fc937e3443.
 - A cookie calledPHPSESSIDis automatically sent to the user's computer to store unique session identification string.
-- A file is automatically created on the server in the designated temporary directory and bears the name of the unique identifier prefixed by sess_ ie sess_3c7foj34c3jj973hjkop2fc937e3443.
+- A file is automatically created on the server in the designated temporary directory and bears the name of the unique identifier prefixed by sess_ie sess_3c7foj34c3jj973hjkop2fc937e3443.
 
 When a PHP script wants to retrieve the value from a session variable, PHP automatically gets the unique session identifier string from the PHPSESSID cookie and then looks in its temporary directory for the file bearing that name and a validation can be done by comparing both values.
 

@@ -23,12 +23,12 @@ Java based file system which is distributed and fault-tolerant and hadoop relies
 ## Hadoop
 
 - It has two basic parts
-  - Hadoop Distributed File System (HDFS) is the storage system of Hadoop which splits big data and distribute across many nodes in a cluster
-    - Scaling out of H/W resources
-    - Fault Tolerant
-  - MapReduce: Programming model that simplifies parallel programming
-    - Map -> apply()
-    - Reduce -> summarize()
+    - Hadoop Distributed File System (HDFS) is the storage system of Hadoop which splits big data and distribute across many nodes in a cluster
+        - Scaling out of H/W resources
+        - Fault Tolerant
+    - MapReduce: Programming model that simplifies parallel programming
+        - Map -> apply()
+        - Reduce -> summarize()
 
 Google uses MapReduce for indexing websites
 

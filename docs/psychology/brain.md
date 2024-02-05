@@ -122,10 +122,10 @@ Object Permanence is the understanding that objectscontinue to exist even when t
 - Limbic system (amygdala & hipocampus) processing information and decision making
 - The brain is divided into four main lobes: the frontal lobe, parietal lobe, temporal lobe, and occipital lobe.
 
-  - The frontal lobe is responsible for movement, problem solving, judgment, and planning. It also plays a role in personality and emotional expression.
-  - The parietal lobe is responsible for sensation, such as touch, temperature, and pain. It also plays a role in spatial awareness and navigation.
-  - The temporal lobe is responsible for auditory processing, memory, and language.
-  - The occipital lobe is responsible for vision.
+    - The frontal lobe is responsible for movement, problem solving, judgment, and planning. It also plays a role in personality and emotional expression.
+    - The parietal lobe is responsible for sensation, such as touch, temperature, and pain. It also plays a role in spatial awareness and navigation.
+    - The temporal lobe is responsible for auditory processing, memory, and language.
+    - The occipital lobe is responsible for vision.
 
   ![image](../media/brain-regions.jpg)
 

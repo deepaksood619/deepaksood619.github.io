@@ -14,7 +14,7 @@ Points to remember about dependency injection:
 
 - Dependency injection is wired into the Angular framework and used everywhere.
 - The *injector* is the main mechanism.
-  - An injector maintains a *container* of service instances that it created.
-  - An injector can create a new service instance from a *provider*.
+    - An injector maintains a *container* of service instances that it created.
+    - An injector can create a new service instance from a *provider*.
 - A *provider* is a recipe for creating a service.
 - Register *providers* with injectors.

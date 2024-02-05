@@ -611,14 +611,14 @@ Being interested precedes the results.
 Three simple steps to stop drifting and start living
 
 - Overcoming limiting ideas can help you avoid the trap of predictability
-  - Trapped is what you feel when you are living into a future of more of the same
+    - Trapped is what you feel when you are living into a future of more of the same
 - Fear keeps people stuck in the status quo, but you can move forward by taking three simple steps
-  - Awakening (mindfulness)
-    - Observe yourself and your behavior
-  - Disrupting
-    - Breaking out of negative cycles
-  - Designing
-    - Creating a new, positive routine
+    - Awakening (mindfulness)
+        - Observe yourself and your behavior
+    - Disrupting
+        - Breaking out of negative cycles
+    - Designing
+        - Creating a new, positive routine
 - Challenging habits and being picky about your social circle can help positively disrupt your life
 - Focusing on one goal at a time makes it much more likely that you'll fulfill your ambitions
 - Scorecards and daily rituals are great tools to help you design your future
@@ -632,14 +632,14 @@ https://www.scotthyoung.com/blog/2020/06/15/narrow-success
 Achieve the impossible with the apollo mindset
 
 - Having a sense of purpose is a great motivator, as is the presence of known competitors
-  - Motivating factor could be increased even further when the competitor is a personally-familiar rival
-  - ...merely imagining that you are competing against a rival can help boost performance
+    - Motivating factor could be increased even further when the competitor is a personally-familiar rival
+    - ...merely imagining that you are competing against a rival can help boost performance
 - Taking breaks and getting a good night's sleep are important to foster innovative powers
-  - People who walked on a treadmill during their break could increase creativitiy by up to 60 percent compared to those who sat down
+    - People who walked on a treadmill during their break could increase creativitiy by up to 60 percent compared to those who sat down
 - For success, it is important to cultivate a positive outlook and to find heroes to worship
 - For success, it is important to have a growth mind-set, especially when dealing with failures
 - To avoid procrastination, take things one step at a time and set yourself smart deadlines
-  - Prevent needless procrastination by avoiding dates that spill over into the following year, month or even week
+    - Prevent needless procrastination by avoiding dates that spill over into the following year, month or even week
 - To achieve your goals, you have to make tough decisions, so you should learn to embrace your fears
 - Being well-prepared for major events is crucial, and identifying potential probelems in advance helps
 - Being adaptable is important for achieving goals, and it also promotes happiness

@@ -11,7 +11,7 @@
 
 - Gives you a base line
 - Tells you what has happened
-  - Useful to investigate performance issues
+    - Useful to investigate performance issues
 - Allows you to proactively handle potential issues
 - Make sure to configure alerts so you can react appropriately to all events based on the severity level
 
@@ -176,7 +176,7 @@ In programming, instrumentation means the ability of an application to incorpora
 - **Code [tracing](https://en.wikipedia.org/wiki/Tracing_(software)) -** receiving informative messages about the execution of an application at run time.
 - **[Debugging](https://en.wikipedia.org/wiki/Debugging) and (structured)[exception handling](https://en.wikipedia.org/wiki/Exception_handling) -** tracking down and fixing programming errors in an application under development.
 - **[Profiling](https://en.wikipedia.org/wiki/Profiling_(computer_programming)) -** a means by which dynamic program behaviors can be measured during a training run with a representative input. This is useful for properties of a program that cannot be [analyzed statically](https://en.wikipedia.org/wiki/Static_program_analysis) with sufficient precision, such as [alias analysis](https://en.wikipedia.org/wiki/Alias_analysis).
-  - Flame Graph
+    - Flame Graph
 - **Performance counters -** components that allow the tracking of the performance of the application.
 - **[Computer data logging](https://en.wikipedia.org/wiki/Computer_data_logging) -** components that allow the logging and tracking of major events in the execution of the application.
 
@@ -210,37 +210,37 @@ Determining Important Metrics
 ## Source of Metrics in Kubernetes
 
 - USE for Node CPU
-  - Utilization - node_cpu
-  - Saturation - Load Average, node_load1
+    - Utilization - node_cpu
+    - Saturation - Load Average, node_load1
 
 - USE for Node Memory
-  - Utilization
-    - node_memory_MemAvailable
-    - node_memory_MemTotal
-    - kube_node_status_capacity_memory_bytes
-    - kube_node_status_allocatable_memory_bytes
+    - Utilization
+        - node_memory_MemAvailable
+        - node_memory_MemTotal
+        - kube_node_status_capacity_memory_bytes
+        - kube_node_status_allocatable_memory_bytes
 
-  - Saturation - Don't go into swap
-  - Errors
-    - node_edac_correctable_errors_total
-    - node_edac_uncorrectable_errors_total
-    - node_edac_csrow_correctable_errors_total
-    - node_edac_csrow_uncorrectable_errors_total
+    - Saturation - Don't go into swap
+    - Errors
+        - node_edac_correctable_errors_total
+        - node_edac_uncorrectable_errors_total
+        - node_edac_csrow_correctable_errors_total
+        - node_edac_csrow_uncorrectable_errors_total
 
 - USE for container cpu
-  - Utilization - container_cpu_usage_seconds_total
-  - Saturation - container_cpu_cfs_throttled_seconds_total
+    - Utilization - container_cpu_usage_seconds_total
+    - Saturation - container_cpu_cfs_throttled_seconds_total
 
 - USE for container memory
-  - Utilization
-    - container_memory_usage_bytes
-    - container_memory_working_set_bytes
+    - Utilization
+        - container_memory_usage_bytes
+        - container_memory_working_set_bytes
 
-  - Saturation - Ratio of container_memory_working_set_bytes / kube_pod_container_resource_limits_memory_bytes
+    - Saturation - Ratio of container_memory_working_set_bytes / kube_pod_container_resource_limits_memory_bytes
 
-  - Errors
-    - container_memory_failcnt
-    - container_memory_failures_total
+    - Errors
+        - container_memory_failcnt
+        - container_memory_failures_total
 
 ### Sources of Metrics
 
@@ -257,10 +257,10 @@ Metric Aggregation through the Kubenetes Hierarchy
 - cAdvisor is embedded into the kubelet, so we scrape the kubelet to get container metrics
 - These are the so-called Kubernetes "core" metrics
 - For each container on the node:
-  - CPU Usage (user and system) and time throttled
-  - Filesystem read/writes/limits
-  - Memory usage and limits
-  - Network transmit/receive/dropped
+    - CPU Usage (user and system) and time throttled
+    - Filesystem read/writes/limits
+    - Memory usage and limits
+    - Network transmit/receive/dropped
 
 ## Kubernetes Metrics from the K8s API Server
 
@@ -279,15 +279,15 @@ RED for Kubernetes API Server
 ## Etcd Metrics from etcd
 
 - Etcd is "master of all truth" within a K8s cluster
-  - Leader existence and leader change rate
-  - Proposals committed/applied/pending/failed
-  - Disk write performance
-  - Inbound gRPC stats
-    - etcd_http_received_total
-    - etcd_http_failed_total
-    - etcd_http_successful_duration_seconds_bucket
-  - Intra-cluster gRPC stats
-    - etcd_network_member_round_trip_time_seconds_bucket
+    - Leader existence and leader change rate
+    - Proposals committed/applied/pending/failed
+    - Disk write performance
+    - Inbound gRPC stats
+        - etcd_http_received_total
+        - etcd_http_failed_total
+        - etcd_http_successful_duration_seconds_bucket
+    - Intra-cluster gRPC stats
+        - etcd_network_member_round_trip_time_seconds_bucket
 
 https://www.youtube.com/watch?v=1oJXMdVi0mM
 

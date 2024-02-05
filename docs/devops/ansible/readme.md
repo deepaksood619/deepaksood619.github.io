@@ -4,13 +4,13 @@
 
 - Automation system
 - Automates
-  - Software provisioning
-  - Configuration management
-  - Application deployment
-  - Ad-hoc task execution
-  - Multinode orchestration
-  - Copy files to-and-fro from machines
-  - Control Machine
+    - Software provisioning
+    - Configuration management
+    - Application deployment
+    - Ad-hoc task execution
+    - Multinode orchestration
+    - Copy files to-and-fro from machines
+    - Control Machine
 - Zero-downtime rolling updates with load balancers
 
 ## Architecture

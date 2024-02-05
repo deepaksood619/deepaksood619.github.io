@@ -4,47 +4,47 @@
 
 - Consumer and Consumer Groups
 - *Rebalance*
-  - Moving partition ownership from one consumer to another
-  - During a rebalance, consumers can't consume messages, so a rebalance is basically a short window of unavailability of the entire consumer group
-  - when partitions are moved from one consumer to another, the consumer loses its current state; if it was caching any data, it will need to refresh its caches - slowing down the application until the con‐ sumer sets up its state again.
+    - Moving partition ownership from one consumer to another
+    - During a rebalance, consumers can't consume messages, so a rebalance is basically a short window of unavailability of the entire consumer group
+    - when partitions are moved from one consumer to another, the consumer loses its current state; if it was caching any data, it will need to refresh its caches - slowing down the application until the con‐ sumer sets up its state again.
 - *Heatbeats*
-  - The way consumers maintain membership in a consumer group and ownership of the partitions assigned to them is by sending *heartbeats* to a Kafka broker designated as the *group coordinator* (this broker can be different for different consumer groups).
-  - As long as the consumer is sending heartbeats at regular intervals, it is assumed to be alive, well, and processing messages from its partitions.
-  - Heartbeats are sent when the consumer polls (i.e., retrieves records) and when it commits records it has consumed.
-  - If the consumer stops sending heartbeats for long enough, its session will time out and the group coordinator will consider it dead and trigger a rebalance. If a consumer crashed and stopped processing messages, it will take the group coordinator a few seconds without heartbeats to decide it is dead and trigger the rebalance. During those seconds, no messages will be processed from the partitions owned by the dead consumer. When closing a consumer cleanly, the consumer will notify the group coordinator that it is leaving, and the group coordinator will trigger a rebalance immediately, reducing the gap in processing.
+    - The way consumers maintain membership in a consumer group and ownership of the partitions assigned to them is by sending *heartbeats* to a Kafka broker designated as the *group coordinator* (this broker can be different for different consumer groups).
+    - As long as the consumer is sending heartbeats at regular intervals, it is assumed to be alive, well, and processing messages from its partitions.
+    - Heartbeats are sent when the consumer polls (i.e., retrieves records) and when it commits records it has consumed.
+    - If the consumer stops sending heartbeats for long enough, its session will time out and the group coordinator will consider it dead and trigger a rebalance. If a consumer crashed and stopped processing messages, it will take the group coordinator a few seconds without heartbeats to decide it is dead and trigger the rebalance. During those seconds, no messages will be processed from the partitions owned by the dead consumer. When closing a consumer cleanly, the consumer will notify the group coordinator that it is leaving, and the group coordinator will trigger a rebalance immediately, reducing the gap in processing.
 - How Does the Process of Assigning Partitions to Brokers Work?
-  - When a consumer wants to join a group, it sends a JoinGroup request to the group coordinator. The first consumer to join the group becomes the group leader. The leader receives a list of all consumers in the group from the group coordinator (this will include all consumers that sent a heartbeat recently and which are therefore considered alive) and is responsible for assigning a subset of partitions to each consumer. It uses an implementation of PartitionAssignor to decide which partitions should be handled by which consumer.
-  - Kafka has two built-in partition assignment policies. After deciding on the partition assignment, the consumer leader sends the list of assignments to the GroupCoordinator, which sends this information to all the consumers. Each consumer only sees his own assignment - the leader is the only client process that has the full list of consumers in the group and their assignments. This process repeats every time a rebalance happens.
-  - partition.assignment.strategy [ *Range*, RoundRobin ]
+    - When a consumer wants to join a group, it sends a JoinGroup request to the group coordinator. The first consumer to join the group becomes the group leader. The leader receives a list of all consumers in the group from the group coordinator (this will include all consumers that sent a heartbeat recently and which are therefore considered alive) and is responsible for assigning a subset of partitions to each consumer. It uses an implementation of PartitionAssignor to decide which partitions should be handled by which consumer.
+    - Kafka has two built-in partition assignment policies. After deciding on the partition assignment, the consumer leader sends the list of assignments to the GroupCoordinator, which sends this information to all the consumers. Each consumer only sees his own assignment - the leader is the only client process that has the full list of consumers in the group and their assignments. This process repeats every time a rebalance happens.
+    - partition.assignment.strategy [ *Range*, RoundRobin ]
 - The poll loop
 
 At the heart of the consumer API is a simple loop for polling the server for more data. Once the consumer subscribes to topics, the poll loop handles all details of coordina‐ tion, partition rebalances, heartbeats, and data fetching, leaving the developer with a clean API that simply returns available data from the assigned partitions.
 
 - Configuration of Consumers
-  - fetch.min.bytes
-  - fetch.max.wait.ms
-  - max.partition.fetch.bytes
-  - session.timeout.ms
-  - auto.offset.reset
-  - enable.auto.commit
-  - partition.assignment.strategy [ *Range*, RoundRobin ]
-  - client.id
-  - max.poll.records
-  - receive.buffer.bytes and send.buffer.bytes
+    - fetch.min.bytes
+    - fetch.max.wait.ms
+    - max.partition.fetch.bytes
+    - session.timeout.ms
+    - auto.offset.reset
+    - enable.auto.commit
+    - partition.assignment.strategy [ *Range*, RoundRobin ]
+    - client.id
+    - max.poll.records
+    - receive.buffer.bytes and send.buffer.bytes
 - Commits and Offsets
-  - *__consumer_offsets* topic
-  - Automatic Commit
-  - Commit Current Offset
-  - *auto.commit.offset = [true, false]*
-  - Asynchronous Commit
-  - Commit Specified Offset
-    - *commitSync()* or *CommitAsync()*
-  - Rebalance Listeners
-  - Consuming Records with Specific Offsets
-  - Exiting the consumer
-    - consumer.wakeup()
-    - consumer.close()
-  - Standalone Consumer, Consumer without a group
+    - *__consumer_offsets* topic
+    - Automatic Commit
+    - Commit Current Offset
+    - *auto.commit.offset = [true, false]*
+    - Asynchronous Commit
+    - Commit Specified Offset
+        - *commitSync()* or *CommitAsync()*
+    - Rebalance Listeners
+    - Consuming Records with Specific Offsets
+    - Exiting the consumer
+        - consumer.wakeup()
+        - consumer.close()
+    - Standalone Consumer, Consumer without a group
 
 ## Kafka Consumer Groups
 

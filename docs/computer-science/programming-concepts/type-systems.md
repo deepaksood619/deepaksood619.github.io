@@ -9,8 +9,8 @@ In [programming languages](https://en.wikipedia.org/wiki/Programming_language), 
 - Enable abstractions
 - Protect integrity of user defined abstractions
 - Documentation
-  - Easy to reason code's purpose
-  - Doesn't drift like code comments
+    - Easy to reason code's purpose
+    - Doesn't drift like code comments
 
 Statically typed language
 

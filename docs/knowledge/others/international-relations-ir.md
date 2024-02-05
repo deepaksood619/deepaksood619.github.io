@@ -16,8 +16,8 @@ Wolf warrior diplomacy / strategy
 
 - 15 August 1971 - US would no longer exchange dollars held by foreign governments for gold
 - 2 main principles to fix the declining power
-  - Earn more than we spend
-  - Treat each other well
+    - Earn more than we spend
+    - Treat each other well
 
 https://economicprinciples.org
 

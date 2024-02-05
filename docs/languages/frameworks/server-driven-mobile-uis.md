@@ -10,11 +10,11 @@
 ## Challenges
 
 - **Context Driven**
-  - Apps behave differently depending on its current context
-  - ML enables hyper-personalization of content and experiences depending on the customer
+    - Apps behave differently depending on its current context
+    - ML enables hyper-personalization of content and experiences depending on the customer
 - **More Features**
-  - Apps have to support more features, screen real estate is the same
-  - Apps need to actually be useful
+    - Apps have to support more features, screen real estate is the same
+    - Apps need to actually be useful
 
 ## Sideways building
 
@@ -25,25 +25,25 @@
 ![image](../../media/Server-Driven-Mobile-UIs-image2.jpg)
 
 - **Frontend Templates**
-  - Templates are predefined UI layouts
-  - Templates have static layout, but dynamic content
-  - Templates can contain
-    - Text labels
-    - Images
-    - Buttons
-    - Input fields
-    - Toggles
-  - Templates have their own implementation per platform
-    - iOS - Android - Web
+    - Templates are predefined UI layouts
+    - Templates have static layout, but dynamic content
+    - Templates can contain
+        - Text labels
+        - Images
+        - Buttons
+        - Input fields
+        - Toggles
+    - Templates have their own implementation per platform
+        - iOS - Android - Web
 - **Backend -** to provide data to frontend templates
-  - Backend consists of an API server that serves JSON
-  - JSON follows standard template contract and is consistent across platforms
-  - JSON specifies context which includes
-    - Text
-    - Images
-    - Actions
-    - Conditional logic
-  - A single data source means that any update to context and page flow only needs to happen once
+    - Backend consists of an API server that serves JSON
+    - JSON follows standard template contract and is consistent across platforms
+    - JSON specifies context which includes
+        - Text
+        - Images
+        - Actions
+        - Conditional logic
+    - A single data source means that any update to context and page flow only needs to happen once
 
 ## Data Flow
 
@@ -61,35 +61,35 @@ Example
 Use Case
 
 - A/B Testing
-  - Dynamic layouts are great for A/B Testing
-  - Server determines which assets to load based on your own criteria
-  - Iterate through different prototypes quickly
+    - Dynamic layouts are great for A/B Testing
+    - Server determines which assets to load based on your own criteria
+    - Iterate through different prototypes quickly
 - Dynamic Messaging
-  - Publish important messaging through templates
-  - Having a variety of template types can help provide more specific details per user
-  - No need for app updates to provide critical messaging
+    - Publish important messaging through templates
+    - Having a variety of template types can help provide more specific details per user
+    - No need for app updates to provide critical messaging
 - User Setup
-  - User setup can be customized based on product type
-  - You can easily create non-linear flows
+    - User setup can be customized based on product type
+    - You can easily create non-linear flows
 
 ![image](../../media/Server-Driven-Mobile-UIs-image4.jpg)
 
 - You can easily add new screen without UI updates
 - Isolation of view & business logic enables better testing
-  - Testing of flows can be done on backend!
+    - Testing of flows can be done on backend!
 
 ![image](../../media/Server-Driven-Mobile-UIs-image5.jpg)
 
 ## Tips & Tricks
 
 - Define a good use case first
-  - Dynamic and simple content is the best way to start
-  - Find duplicate views and features that are consistent across platforms
+    - Dynamic and simple content is the best way to start
+    - Find duplicate views and features that are consistent across platforms
 - Define your templates
 - Define your template contract
-  - Determine what are the necessary components that can populate your template
+    - Determine what are the necessary components that can populate your template
 - Start with static JSON
-  - Host it on the app to start
+    - Host it on the app to start
 - Incrementally build out backend as needed
 
 ## Other Considerations

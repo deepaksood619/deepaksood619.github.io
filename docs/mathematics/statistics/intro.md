@@ -6,21 +6,21 @@ Eyeball statistics
 ## Statistics drives practice, policy and laws
 
 - In almost every aspect of our lives, practice and policy is determined by statistics
-  - In fiscal policy, governments decide taxation and spending, based upon statistical assessments of their effects on the economy
-  - In health care, questions of what drugs should be approved and what treatment patients should get is based upon statistics (often in medical research)
-  - In our personal lives, our choices of where to work, live and how to save/invest are at least loosely driven by statistics
+    - In fiscal policy, governments decide taxation and spending, based upon statistical assessments of their effects on the economy
+    - In health care, questions of what drugs should be approved and what treatment patients should get is based upon statistics (often in medical research)
+    - In our personal lives, our choices of where to work, live and how to save/invest are at least loosely driven by statistics
 - Making good policy and personal decisions requires an understanding of statistics and data. If we misread the statistics or the statistics are unreliable, policy will as well
 
 ## Lying with Statistics
 
 - **Agendra-driven data:** As access to data has increased, the misuse of that data has also gone up, especially when people have agendas and want to further them. These people mislead, without technically lying, as the selectively pick and choose which data they use, and how they present that data
 - **Social media as magnifier:** Bad data can take on a life of its won, especially with social media operating as a weapon to widen its reach
-  - Gresham's Law
-    - A monetary principle stating that "bad money drives out good". It is primarily used for consideration and application in currency markets. Gresham's law was originally based on the composition of minted coins and the value of the precious metals used in them.
+    - Gresham's Law
+        - A monetary principle stating that "bad money drives out good". It is primarily used for consideration and application in currency markets. Gresham's law was originally based on the composition of minted coins and the value of the precious metals used in them.
 - **Caveat emptor:** As people weaponize data and use selective and slanted statistics, based upon that data, we need to be able to protect ourselves from misinformation
-  - Understanding statistics allows us to
-    - Look for red flags that can be used to detect data manipulation
-    - Asking the right questions to separate fact from fiction
+    - Understanding statistics allows us to
+        - Look for red flags that can be used to detect data manipulation
+        - Asking the right questions to separate fact from fiction
 
 ## Mathematical Thinking
 

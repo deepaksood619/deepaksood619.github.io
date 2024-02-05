@@ -41,13 +41,13 @@ kubectl describe cm istio -n istio-system
 ## Production Istio Installation
 
 - Metrics & logs from control & data plane
-  - Setup alerts
+    - Setup alerts
 - Enable access logs
 - Outbound traffic control
 - Strint mTLS instead of "auto"
 - Scale out control plane
-  - Configure HPA
-  - Configure pod anti-affinity
+    - Configure HPA
+    - Configure pod anti-affinity
 - Non self signed CA certificates
 - Locking down ingress GW ports
 - Auto sidecar injection

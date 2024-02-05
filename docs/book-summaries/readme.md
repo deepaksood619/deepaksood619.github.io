@@ -41,7 +41,7 @@
 - [Principles](principles)
 - [Primed to perform](primed-to-perform)
 - [Getting things done](getting-things-done)
-- [Game changers](game-changers)
+- [**Game changers**](game-changers)
 - [The 5 AM club](the-5-am-club)
 - [The organized mind](the-organized-mind)
 - [Off the clock](off-the-clock)

@@ -79,8 +79,8 @@ MySQL 8.0 brought enormous changes and modifications that were pushed by the Ora
 - **The benchmark results reveals that there has been an impressive improvement, not only on managing read workloads, but also on a high read/write workload comparing to MySQL 5.7.**
 - https://dev.mysql.com/doc/refman/8.0/en/create-index.html#create-index-functional-key-parts
 - Resource Groups
-  - https://dev.mysql.com/doc/refman/5.7/en/user-resources.html
-  - https://dzone.com/articles/mysql-8-load-fine-tuning-with-resource-groups
+    - https://dev.mysql.com/doc/refman/5.7/en/user-resources.html
+    - https://dzone.com/articles/mysql-8-load-fine-tuning-with-resource-groups
 
 ## Important
 

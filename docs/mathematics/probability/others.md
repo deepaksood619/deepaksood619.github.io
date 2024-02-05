@@ -52,11 +52,11 @@ https://en.wikipedia.org/wiki/Softmax_function
 ## Probabilistic Tools
 
 - **Probit/Logit:** A probit/logit measures the likelihood or probability of an event happening, based upon observable variables
-  - Example: Measuring the probability that a company will be acquired, given variables that you believe are correlated
+    - Example: Measuring the probability that a company will be acquired, given variables that you believe are correlated
 - **Decision Trees:** When you have a series of discrete events that are sequential, a decision tree allows you to compute the likelihood of events happening, condidtional on events leading up to it
-  - Example: The process by which an FDA drug works its way through the drug approval pipeline, from research to commercial development
+    - Example: The process by which an FDA drug works its way through the drug approval pipeline, from research to commercial development
 - **Monte Carlo Simulations:** When you have multiple inputs that determine an output variable, a simulation allows you specify probabilistic distributions for each input variable and get a distribution for the output variable
-  - Example: Valuing a company, given its cash flows, growth and risk characteristics
+    - Example: Valuing a company, given its cash flows, growth and risk characteristics
 
 ![image](../../media/probability-Others-image3.jpg)
 

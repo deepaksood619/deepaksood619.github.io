@@ -214,11 +214,11 @@ Misconceptions
 - Developers can maintain no more than 3 services each
 Critical decisions
 - Design schema first for all APIs and Events
-  - Consume events (not API) by default
+    - Consume events (not API) by default
 - Invest in automation
-  - Deployment, code generation, dependency management
+    - Deployment, code generation, dependency management
 - Enable teams to write amazing and simple tests
-  - Drive quality, streamlines maintenance, enables continuous delivery
+    - Drive quality, streamlines maintenance, enables continuous delivery
 
 [Scale, Flow and Microservices - James Lewis - GOTO 2021](https://www.youtube.com/watch?v=LL4SJsBtYw0&ab_channel=GOTOConferences)
 

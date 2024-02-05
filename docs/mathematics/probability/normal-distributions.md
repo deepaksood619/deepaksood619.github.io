@@ -37,9 +37,9 @@ The normal distribution is useful because of the [central limit theorem](https:/
 
 - Kurtosis is a measure of the combined weights of the tails, relative to the rest of the distribution
 - Most often, kurtosis is measured against the **normal distribution.** Pearson's kurtosis is the excess kurtosis over three
-  - If the Pearson kurtosis is close to 0, then a normal distribution is often assumed. These are called mesokurtic distributions
-  - If the Pearson kurtosis is less than 0, then the distribution has thin tails and is called a platykurtic distribution. (Uniform distribution is a good example)
-  - If the Pearson kurtosis is greater than 0, then the distribution has fat tails and is called a leptokurtic distribution
+    - If the Pearson kurtosis is close to 0, then a normal distribution is often assumed. These are called mesokurtic distributions
+    - If the Pearson kurtosis is less than 0, then the distribution has thin tails and is called a platykurtic distribution. (Uniform distribution is a good example)
+    - If the Pearson kurtosis is greater than 0, then the distribution has fat tails and is called a leptokurtic distribution
 
 ![image](../../media/Normal-Distributions-image9.jpg)
 

@@ -42,8 +42,8 @@ https://www.freecodecamp.org/news/clean-coding-for-beginners
 
 - Bugs
 - Error Handling
-  - Corner Cases
-  - Disk full, etc
+    - Corner Cases
+    - Disk full, etc
 - Input Validation both client side and server side
 
 ## NIH Syndrome (Not Invented Here)

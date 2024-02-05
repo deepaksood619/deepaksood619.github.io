@@ -11,40 +11,40 @@ There are three things extremely hard: steel, a diamond, and to know one's self 
 Why we're not as self-aware as we think, and how seeing ourselves clearly helps us succeed at work and in life
 
 - Self-awareness is the ability to understand who we are and what others think of us, and it consists of seven insights
-  - Internal self-awareness - knowing ourselves, being conscious of our likes and dislikes, our ambitions, our place in the environment and our impact on other people
-  - External self-awareness - understanding how other people see us
-  - Insights
-    - Values
-    - Passions
-    - Aspirations
-    - Fit - which environment will make us happiest, keep us engaged and enable us to thrive
-    - Patterns - the consistent behaviors that make up our personality
-    - Reactions - emotional and physical behaviors we exhibit in certain circumstances
-    - Impact - undestanding how our own behavior affects others
+    - Internal self-awareness - knowing ourselves, being conscious of our likes and dislikes, our ambitions, our place in the environment and our impact on other people
+    - External self-awareness - understanding how other people see us
+    - Insights
+        - Values
+        - Passions
+        - Aspirations
+        - Fit - which environment will make us happiest, keep us engaged and enable us to thrive
+        - Patterns - the consistent behaviors that make up our personality
+        - Reactions - emotional and physical behaviors we exhibit in certain circumstances
+        - Impact - undestanding how our own behavior affects others
 - Inner and societal roadblocks disrupt the journey to self-awareness
-  - knowledge blindness
-  - emotional blindness
-  - behavior blindness
+    - knowledge blindness
+    - emotional blindness
+    - behavior blindness
 - Introspection isn't a sure path to insight, so we need to do it right
-  - flexible mindset
-  - rumination - introspection's evil twin
+    - flexible mindset
+    - rumination - introspection's evil twin
 
 Fixation on our anxieties, weaknesses and insecurities
 
 - Three mindfulness techniques can increase internal self-awareness
-  - reframing - looking at the bigger picture of your experiences
-  - comparing and contrasting - noticing how our thoughts, feelings and behaviors have remained the same or changed over time
-  - daily check-in - daily 5 mins reflect on what went well and what could have been better.
+    - reframing - looking at the bigger picture of your experiences
+    - comparing and contrasting - noticing how our thoughts, feelings and behaviors have remained the same or changed over time
+    - daily check-in - daily 5 mins reflect on what went well and what could have been better.
 - Ask for feedback
 - Reacting to feedback
-  - receive, reflect and respond (3R model)
+    - receive, reflect and respond (3R model)
 - self-aware team
-  - objectives, progress, process, assumptions and individual contributions
-  - role model (authentic leadership), psychological safety net, ongoing (growth mind-set)
+    - objectives, progress, process, assumptions and individual contributions
+    - role model (authentic leadership), psychological safety net, ongoing (growth mind-set)
 - Three kinds of delusional people
-  - Lost cause
-  - Aware don't care - knows exactly how their behavior impacts, others, but couldn't care less
-  - Nudgable
+    - Lost cause
+    - Aware don't care - knows exactly how their behavior impacts, others, but couldn't care less
+    - Nudgable
 - **Social Media - Rather than a Meformer, become an Informer**
 
 Meformer - post information that isn't immediately related to themselves

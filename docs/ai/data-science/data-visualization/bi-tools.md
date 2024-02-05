@@ -7,19 +7,19 @@ https://www.toptal.com/business-intelligence/interview-questions
 Overall, both Power BI and Google data studio are similar when it comes to data integration, **Power BI has better ease of working**(given our understanding of Microsoft tools such as Excel) and functionality whereas **Google data studio requires significant learning and workaround** to achievesimilar visualizations. Please find below details for the same.
 
 - **Data Integration**
-  - Both the tools connect to various data sources without much issues (In few instances, third party tools might be required for Google Data Studio).
-  - However, Data studio has an edge when connecting with Google services. Google services like AdWords, Google Sheets and Google Analytics are natively fully integrated with Google Data Studio.
-  - Google data studio might need third party applications such as Supermetricsfor adding few data sources.
+    - Both the tools connect to various data sources without much issues (In few instances, third party tools might be required for Google Data Studio).
+    - However, Data studio has an edge when connecting with Google services. Google services like AdWords, Google Sheets and Google Analytics are natively fully integrated with Google Data Studio.
+    - Google data studio might need third party applications such as Supermetricsfor adding few data sources.
 - **Functionality**
-  - Power BI has a large functionality with sophisticated functions. For example, basic functionality such asline, bar and pie chartsare available in both the tools, sophisticated functions suchCohort analysis, standard funnelare not available in Google data. However, I believe these visualizations could be achievedby modifying data using SQL queries.
-  - Power BI is superior to Google data studio in processing data visualization with large data.
+    - Power BI has a large functionality with sophisticated functions. For example, basic functionality such asline, bar and pie chartsare available in both the tools, sophisticated functions suchCohort analysis, standard funnelare not available in Google data. However, I believe these visualizations could be achievedby modifying data using SQL queries.
+    - Power BI is superior to Google data studio in processing data visualization with large data.
 - **Ease of working**
-  - Power BI's DAX functions being similarto Excel formulas (which most of the team members have experience on), is a bit easier to work on.
-  - Working on Google data studio would be a learningcurve.
+    - Power BI's DAX functions being similarto Excel formulas (which most of the team members have experience on), is a bit easier to work on.
+    - Working on Google data studio would be a learningcurve.
 - **Pricing**
-  - Power BI costs $10 per user while Google data studio is free of cost.
-  - However, adding few data sources to Google data studio needs third party applications such as Supermetrics which costs between $20 - $50.
-  - Given Google data studio is a cloud based application, it would eliminate the need for AWS machine(needed to build Power BI report)to builtthe reports.
+    - Power BI costs $10 per user while Google data studio is free of cost.
+    - However, adding few data sources to Google data studio needs third party applications such as Supermetrics which costs between $20 - $50.
+    - Given Google data studio is a cloud based application, it would eliminate the need for AWS machine(needed to build Power BI report)to builtthe reports.
 
 ## Others
 

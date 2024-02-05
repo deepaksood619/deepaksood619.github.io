@@ -10,8 +10,8 @@ Key-value pair abstraction -
 ## Applications
 
 - DNS lookup
-  - Insert domain name with specified IP address
-  - Give domain name, find corresponding IP address
+    - Insert domain name with specified IP address
+    - Give domain name, find corresponding IP address
 - Reverse DNS lookup
 - Dictionary
 - Web search
@@ -34,8 +34,8 @@ Key type:
 - Assume keys are Comparable, use compareTo()
 - Assume keys are any generic type, use equals() to test equality; use hashCode() to scramble key.
 - Use immutable types for symbol table keys
-  - Immutable in java - Integer, Double, String, java.io.File
-  - Mutable in java - StringBuilder, java.net.URL, arrays
+    - Immutable in java - Integer, Double, String, java.io.File
+    - Mutable in java - StringBuilder, java.net.URL, arrays
 
 ## Implementation
 
@@ -74,8 +74,8 @@ Application - Exception filter
 
 - Read in a list of words from one file
 - Print out all words from standard input that are `{in, not in}` the list
-  - Whitelist a set of strings or objects
-  - Blacklist a set of strings or objects
+    - Whitelist a set of strings or objects
+    - Blacklist a set of strings or objects
 
 Application of Exception filter -
 

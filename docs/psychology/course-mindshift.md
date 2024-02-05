@@ -6,8 +6,8 @@ In today's world, change is the only constant. This means that whatever stage yo
 
 - Race car brain
 - Hiker brain
-  - Persistance
-  - Flexibility
+    - Persistance
+    - Flexibility
 - Active Learning
 - Hand behind the back (so let others do it themselves if you know it)
 - Also if you are learning from someone, don't let them answer for you, you should solve the questions by yourself
@@ -24,13 +24,13 @@ Key to your ability to mindshift is being able to learn effectively. This week, 
 - The value of poor memory
 - Creative working memory
 - Meditation and Mindfulness
-  - Vipasana and mindfulness (Open monitoring) for diffused mode
-  - Mantra, sound or chakra meditation (focused attention) for focused attention
+    - Vipasana and mindfulness (Open monitoring) for diffused mode
+    - Mantra, sound or chakra meditation (focused attention) for focused attention
 - Pomodoro Technique as Working meditation
 
 - The value of Procedural Fluency and Deliberate Practice
-  - Memorization (Deliberate practice, repetition and memorization)
-  - Understanding
+    - Memorization (Deliberate practice, repetition and memorization)
+    - Understanding
 - Nothing in life is as important as you think it is, while you're thinking about it --Daniel Kahneman
 - Learning to Reframe - Put a label on it
 
@@ -62,9 +62,9 @@ This week, we'll be talking about how your own career can develop and change thr
 
 - π (Pie) approach to skill development
 - Skilling approach
-  - Dabble
-  - Double life
-  - Contrarian
+    - Dabble
+    - Double life
+    - Contrarian
 - General competance
 - Selective ignorance
 - Attention deficit order

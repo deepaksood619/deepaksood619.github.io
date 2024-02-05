@@ -12,8 +12,8 @@
 - (mybank.com) account number -> information about it
 
 - It's a dictionary datastructure
-  - Insert, lookup, and delete by key
-  - Example: hash table, binary tree
+    - Insert, lookup, and delete by key
+    - Example: hash table, binary tree
 - But distributed
 - Seems familiar? Remember **Distributed Hash Tables (DHT) in P2P systems**
 - Key-value stores reuse many techniques from DHTs
@@ -45,21 +45,21 @@
 - **Low TCO (Total cost of operation and Total cost of ownership)**
 - Fewer system administrators
 - Incremental Scalability
-  - Adding more nodes adds linear capabilities
+    - Adding more nodes adds linear capabilities
 - Scale out, not scale up
 
 ## Key-value / NoSQL Data Model
 
 - NoSQL = Not Only SQL
 - Necessaary API operations: get(key) and put(key, value)
-  - And some extended operations, e.g., "CQL" in Cassandra key-value store
+    - And some extended operations, e.g., "CQL" in Cassandra key-value store
 - **Tables**
-  - **Column families** in Cassandra, **Table** in HBase, **Collection** in MongoDB
-  - Like RDBMS tables, but ...
-  - May be unstructured: May not have schemas
-    - Some columns may be missing from some rows
-  - Don't always support joins or have foreign keys
-  - Can have index tables, just like RDBMSs
+    - **Column families** in Cassandra, **Table** in HBase, **Collection** in MongoDB
+    - Like RDBMS tables, but ...
+    - May be unstructured: May not have schemas
+        - Some columns may be missing from some rows
+    - Don't always support joins or have foreign keys
+    - Can have index tables, just like RDBMSs
 
 ![image](../../../media/Big-Data_Design-of-Key-Value-Stores-image2.jpg)
 
@@ -69,12 +69,12 @@ NoSQL systems often use column-oriented storage
 
 - RDMSs store an entire row together (on disk or at a server)
 - NoSQL systems typically store a column together (or a group of columns)
-  - Entries within a column are indexed and easy to locate, given a key
+    - Entries within a column are indexed and easy to locate, given a key
 - **Why useful?**
-  - Range searches within a column are fast since you don't need to fetch the entire database
-  - E.g., Get me all blog_ids from the blog table that were updated within the past month
-    - Search in the last_updated column, fetch corresponding blog_id column
-    - Don't need to fetch the other columns
+    - Range searches within a column are fast since you don't need to fetch the entire database
+    - E.g., Get me all blog_ids from the blog table that were updated within the past month
+        - Search in the last_updated column, fetch corresponding blog_id column
+        - Don't need to fetch the other columns
 
 ## See Also
 

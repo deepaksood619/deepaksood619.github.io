@@ -54,11 +54,11 @@ Linwood_Cole\' OR 1=1;#
 ### In-Band SQL Injection
 
 - In-band SQLi occurs when the attacker uses the same communication channel to both launch the attack and gather the result of the attack
-  - Retrieved data is presented directly in the application web page
+    - Retrieved data is presented directly in the application web page
 - Easier to exploit than other categories of SQLi
 - Two common types of in-band SQLi
-  - Error-based SQLi
-  - Union-based SQLi
+    - Error-based SQLi
+    - Union-based SQLi
 
 #### Error-Based SQLi
 
@@ -76,11 +76,11 @@ Union-based SQLi is an in-band SQLi technique that leverages the UNION SQL opera
 
 - SQLi vulnerability where there is no actual transfer of data via the web application
 - Just as dangerous as in-band SQL injection
-  - Attacker able to recontrust the information by sending particular requests and observing the resulting behavior of the DB server
+    - Attacker able to recontrust the information by sending particular requests and observing the resulting behavior of the DB server
 - Takes longer to exploit than in-band SQL injection
 - Two common types of blind SQLi
-  - Boolean-based SQLi
-  - Time-based SQLi
+    - Boolean-based SQLi
+    - Time-based SQLi
 
 #### Boolean-based Blind SQLi
 
@@ -103,8 +103,8 @@ If the first character of the administrator's hashed password is an 'a', wait fo
 ### Out-of-band (OAST) SQLi
 
 - Vulnerability that consists of triggering an out-of-band network connection to a system that you control
-  - Not common
-  - A variety of protocols can be used (ex. DNS, HTTP)
+    - Not common
+    - A variety of protocols can be used (ex. DNS, HTTP)
 - Example Payload:
 
 ![image](../../media/Attacks-image6.jpg)

@@ -44,22 +44,22 @@ Block Size - 128 MB
 ## HDFS Design Goals
 
 - Hundreds/thousands of nodes and disks:
-  - It means there's a higher probability of hardware failure. So the design needs to handle node/disk failures
+    - It means there's a higher probability of hardware failure. So the design needs to handle node/disk failures
 - Portability across heterogeneous hardware/software:
-  - Implementation across lots of different kinds of hardware and software
+    - Implementation across lots of different kinds of hardware and software
 - Handle large data sets:
-  - Need to handle terabytes to petabytes
+    - Need to handle terabytes to petabytes
 - Enable processing with high throughput
 
 ## Techniques to meet HDFS design goals
 
 - Simplified coherency model
-  - The idea is to write once and then read many times. And that simplifies the number of operations required to commit the write
+    - The idea is to write once and then read many times. And that simplifies the number of operations required to commit the write
 - Data replication
-  - Helps to handle hardware failures
-  - Try to spread the data, same piece of data on different nodes
+    - Helps to handle hardware failures
+    - Try to spread the data, same piece of data on different nodes
 - Move computation close to the data
-  - So you're not moving data around. That improves your performance and throughput
+    - So you're not moving data around. That improves your performance and throughput
 - Relax POSIX requirements to increase the throughput
 
 ## Basic architecture of HDFS
@@ -71,17 +71,17 @@ Block Size - 128 MB
 - Single NameNode: A master server that manages the file system namespace and basically regulates access to these files from clients, and it also keeps track of where the data is on the DataNodes and where the blocks are distributed essentially.
 - Multiple DataNodes: Typically one per node in a cluster. So you're basically using storage which is local
 - Basic Functions:
-  - Manage the storage on the DataNode
-  - Read and write requests on the clients
-  - Block creation, deletion, replication is all based on instructions from the NameNode
+    - Manage the storage on the DataNode
+    - Read and write requests on the clients
+    - Block creation, deletion, replication is all based on instructions from the NameNode
 
 ## Original HDFS Design
 
 - Single NameNode
 - Multiple DataNodes
-  - Manage storage-blocks of data
-  - Service read/write requests from clients
-  - Block creation, deletion, replication
+    - Manage storage-blocks of data
+    - Service read/write requests from clients
+    - Block creation, deletion, replication
 
 ## HDFS in Hadoop 2.0
 
@@ -92,9 +92,9 @@ So that we can increase the name space data. In Hadoop 1.0, we had a single node
 Basically what we are doing is trying to have multiple data nodes, and multiple name nodes. So that we can increase the name space data. So, if you recall from the first design you have essentially a single node handling all the namespace responsibilities. And you can imagine as you start having thousands of nodes that they'll not scale, and if you have billions of files, you will have scalability issues. So to address that, the federation aspect was brought in. That also brings performance improvements.
 
 - **Benefits**
-  - Increase namespace scalability
-  - Performance
-  - Isolation
+    - Increase namespace scalability
+    - Performance
+    - Isolation
 
 - Multiple namenode servers
 - Multiple namespaces
@@ -103,7 +103,7 @@ Basically what we are doing is trying to have multiple data nodes, and multiple 
 - And these pools are essentially spread out over all the data nodes
 - High Availability (Redundant namenodes)
 - Heterogeneous storage and archival storage
-  - ARCHIVE, DISK, SSD, RAM_DISK
+    - ARCHIVE, DISK, SSD, RAM_DISK
 
 ![image](../../../media/Technologies-Apache-HDFS-image2.jpg)
 
@@ -145,10 +145,10 @@ Basically what we are doing is trying to have multiple data nodes, and multiple 
 
 - Lots of small files is bad
 - **Solution:**
-  - Merge/Concatenate files
-  - Sequence files
-  - HBase, HIVE configuration
-  - CombineFileInputFormat
+    - Merge/Concatenate files
+    - Sequence files
+    - HBase, HIVE configuration
+    - CombineFileInputFormat
 
 ## Read / Write Processes in HDFS
 
@@ -181,19 +181,19 @@ Basically what we are doing is trying to have multiple data nodes, and multiple 
 - Default replication is 3
 - Parameter: dfs.replication
 - **Tradeoffs:**
-  - Lower it to reduce replication cost
-  - Less robust
-  - Higher replication can make data local to more workers
-  - Lower replication -> More space
+    - Lower it to reduce replication cost
+    - Less robust
+    - Higher replication can make data local to more workers
+    - Lower replication -> More space
 
 ### Lot of other parameters
 
 - Various tunables for datanode, namenode
 - **Examples**
-  - Dfs.datanode.handler.count (10): Sets the number of server threds on each datanode
-  - Dfs.namenode.fs-limits.max-blocks-per-file: Maximum number of blocks per file
+    - Dfs.datanode.handler.count (10): Sets the number of server threds on each datanode
+    - Dfs.namenode.fs-limits.max-blocks-per-file: Maximum number of blocks per file
 - **Full List:**
-  - http://hadoop.apache.org/docs/current/hadoop-project-dist/hadoop-hdfs/hdfs-default.xml
+    - http://hadoop.apache.org/docs/current/hadoop-project-dist/hadoop-hdfs/hdfs-default.xml
 
 ## HDFS Performance and Robustness
 
@@ -211,8 +211,8 @@ Basically what we are doing is trying to have multiple data nodes, and multiple 
 
 - Periodic heartbeat: from DataNode to NameNode
 - DataNodes without recent heartbeat:
-  - Mart the data. And any new I/O that comes up is not going to be sent to that data node. Also remember that NameNode has information on all the replication information for the files on the file system. So, if it knows that a datanode fails which blocks will follow that replication factor
-  - Now this replication factor is set for the entire system and also you could set it for particular file when you're writing the file. Either way, the NameNode knows which blocks fall below replication factor. And it will restart the process to re-replicate
+    - Mart the data. And any new I/O that comes up is not going to be sent to that data node. Also remember that NameNode has information on all the replication information for the files on the file system. So, if it knows that a datanode fails which blocks will follow that replication factor
+    - Now this replication factor is set for the entire system and also you could set it for particular file when you're writing the file. Either way, the NameNode knows which blocks fall below replication factor. And it will restart the process to re-replicate
 
 ### Mitigation of common failures
 

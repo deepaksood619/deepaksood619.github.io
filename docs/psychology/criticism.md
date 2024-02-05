@@ -21,18 +21,18 @@ Anyone can tear down someone else's work. The true test of insight is whether yo
 ## 4 types of critics
 
 - Haters
-  - Criticize you just to pull you down
-  - Block them from your life and social media
+    - Criticize you just to pull you down
+    - Block them from your life and social media
 - Innocent critics
-  - Love you a lot but can sometimes give baseless advice (parents)
-  - Intent is never bad, but advice can be bad
-  - Learn to ignore them
-  - Never ever disrespect them
+    - Love you a lot but can sometimes give baseless advice (parents)
+    - Intent is never bad, but advice can be bad
+    - Learn to ignore them
+    - Never ever disrespect them
 - Sweet talker
-  - Ego is the anasthesia that deadens the pain of stupidity
-  - Listen to them but never take them seriously
+    - Ego is the anasthesia that deadens the pain of stupidity
+    - Listen to them but never take them seriously
 - Constructive critics
-  - Love you a lot, can give a feedback that can sound very harsh
-  - Never ever leave these people
+    - Love you a lot, can give a feedback that can sound very harsh
+    - Never ever leave these people
 
 Criticism is that stone that people will throw at you all the time, but it is you who need to decide to whether build the castle of your greatness or the graveyard of your success

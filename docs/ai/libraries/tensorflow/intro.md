@@ -61,11 +61,11 @@ A **computational graph** is a series of TensorFlow operations arranged into a g
 - Schedules grouping individual inference requests into batches for joint execution
 - Optimizes inference time for minimal latency
 - Supports many servables (a servable is either a model or a task for serving the data that goes along with your model):
-  - TensorFlow models
-  - Embeddings
-  - Vocabulary lookup tables
-  - Feature transformations
-  - Non-TensorFlow-based models
+    - TensorFlow models
+    - Embeddings
+    - Vocabulary lookup tables
+    - Feature transformations
+    - Non-TensorFlow-based models
 - Is capable of canarying and A/B testing
 
 https://dzone.com/articles/machine-learning-and-real-time-analytics-in-apache
