@@ -1,5 +1,7 @@
 # Coding Guidelines / Code Reviews / Clean Code
 
+![10 Good Coding Principles](../../media/Pasted%20image%2020240207000423.png)
+
 Code reviews are fundamental to the software development process, even when there's only one engineer.
 
 https://www.chakshunyu.com/blog/this-is-my-10-questions-react-code-reviewing-routine

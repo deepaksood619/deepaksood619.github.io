@@ -2,7 +2,7 @@
 
 ## Status pages
 
-- blackbox exporter
+- blackbox exporter - [Prometheus Blackbox Exporter: Guide & Tutorial | Squadcast](https://www.squadcast.com/blog/prometheus-blackbox-exporter)
 - statuspage.io
 - [Status.io - Hosted Status Pages](https://status.io/) - Paid
 - [UptimeRobot: Free Website Monitoring Service](https://uptimerobot.com/) - Free

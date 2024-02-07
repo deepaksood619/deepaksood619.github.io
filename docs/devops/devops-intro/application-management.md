@@ -159,3 +159,5 @@ Additionally, experience in developing training programs is a big plus, as are a
 [What is Application Management? | Loggle](https://loggle.io/knowledgebase/application-management)
 
 [Application management services 101: why your business needs AMS - YouTube](https://www.youtube.com/watch?v=y_scmjL-IqI)
+
+IMS - Infrastructure Management Service

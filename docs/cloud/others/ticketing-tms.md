@@ -14,6 +14,7 @@
 
 - Opensource
     - **https://tiledesk.com - chatbot, helpdesk, everything, APIs**
+    - [Home - GLPI Project](https://glpi-project.org/)
 
 - https://github.com/polonel/trudesk
 - https://github.com/osTicket/osTicket

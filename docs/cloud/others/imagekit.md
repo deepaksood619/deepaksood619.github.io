@@ -45,14 +45,20 @@ Purging the cache for this URL or adding a versioning parameter should help you 
 
 ImageKit follows a recommended setting of a 365-day cache time, by default. If you'd like this cache time to be customised, there are two ways to resolve this for you -
 
-1. **Versioning of your image URLs**
-    Since caches are based on the image URL, adding a simple parameter like the last updated timestamp to the URL is the most effective way of automatically clearing cache, when it is actually needed.
-    For eg, If there are two images 1.jpg and 2.jpg both of them get updated at timestamp 156237123. There URLs would look like - 1.jpg?t=156237123 and 2.jpg?t=156237123
-    Now, if image 2.jpg is updated, you can use the last updated timestamp from your database to change the value of the parameter 1.jpg?t=156237123 (this URL continues to remain cached as long as possible) 2.jpg?t=158268232 (this URL is now automatically purged from cache)It requires a small change to your code, but this would work the best regardless of what service you use.
-    ​
-2. **Using a custom cache-control time with ImageKit**
-    This option allows caching based on the cache control headers being passed from your [origin](https://app.intercom.com/integration/configure-origin) attached to ImageKit.io. For example, if your origin [https://storage.googleapis.com/](https://storage.googleapis.com/) sends a cache-control header to cache a file for 1 hour (which it does on your website), ImageKit.io applies the cache-control header across all its internal caches, generated transformations, and CDN.This ensures that the cache control set by you is obeyed at all times.
-    Please note: We will have to enable this option for you at our end. And this can only be enabled on a paid plan.
+#### 1. Versioning of your image URLs
+
+Since caches are based on the image URL, adding a simple parameter like the last updated timestamp to the URL is the most effective way of automatically clearing cache, when it is actually needed.
+
+For eg, If there are two images 1.jpg and 2.jpg both of them get updated at timestamp 156237123. There URLs would look like - 1.jpg?t=156237123 and 2.jpg?t=156237123
+
+Now, if image 2.jpg is updated, you can use the last updated timestamp from your database to change the value of the parameter 1.jpg?t=156237123 (this URL continues to remain cached as long as possible) 2.jpg?t=158268232 (this URL is now automatically purged from cache)It requires a small change to your code, but this would work the best regardless of what service you use.
+​
+
+#### 2. Using a custom cache-control time with ImageKit
+
+This option allows caching based on the cache control headers being passed from your [origin](https://app.intercom.com/integration/configure-origin) attached to ImageKit.io. For example, if your origin [https://storage.googleapis.com/](https://storage.googleapis.com/) sends a cache-control header to cache a file for 1 hour (which it does on your website), ImageKit.io applies the cache-control header across all its internal caches, generated transformations, and CDN.This ensures that the cache control set by you is obeyed at all times.
+
+Please note: We will have to enable this option for you at our end. And this can only be enabled on a paid plan.
 
 I would personally recommend that if cache clear can be resolved with option 1, then please prefer that. It maximises the benefit of caching on the CDN while purging it for only images that actually get updated, instead of a periodic cache clear for all images.
 ​
@@ -81,7 +87,7 @@ If you update the time stamp on your URL to the one on newer version, you skip t
 - Optimize image quality before delivery - 50%
 - Restrict image size based on user's device
     - Desktop - 2000x2000
-    - Mobile -
+    - Mobile - 1000x1000
     - Width of 1440px for laptops, 960px for tablets, 480px and High-density images for bigger phones, and 320px for smaller phones.
 - Parameters - [Dynamic image resizing](https://imagekit.io/blog/dynamic-image-resizing/)
 

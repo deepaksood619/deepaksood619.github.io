@@ -26,7 +26,7 @@ https://docs.aws.amazon.com/elasticloadbalancing/latest/userguide/what-is-load-b
 
 Gateway Load Balancers enable you to deploy, scale, and manage virtual appliances, such as firewalls, intrusion detection and prevention systems, and deep packet inspection systems. It combines a transparent network gateway (that is, a single entry and exit point for all traffic) and distributes traffic while scaling your virtual appliances with the demand.
 
-[Site Unreachable](https://aws.amazon.com/elasticloadbalancing/gateway-load-balancer/)
+[Gateway Load Balancer](https://aws.amazon.com/elasticloadbalancing/gateway-load-balancer/)
 
 [What is a Gateway Load Balancer? - Elastic Load Balancing](https://docs.aws.amazon.com/elasticloadbalancing/latest/gateway/introduction.html)
 

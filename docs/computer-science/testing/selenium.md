@@ -67,3 +67,7 @@ mvn test
 [How to run Selenium tests on Chrome using ChromeDriver? | BrowserStack](https://www.browserstack.com/guide/run-selenium-tests-using-selenium-chromedriver)
 
 [How to run Selenium Tests in Docker | BrowserStack](https://www.browserstack.com/guide/run-selenium-tests-in-docker)
+
+## Selenium Grid
+
+[Selenium Grid Tutorial : Learn Basics & How to Set It Up | BrowserStack](https://www.browserstack.com/guide/selenium-grid-tutorial)

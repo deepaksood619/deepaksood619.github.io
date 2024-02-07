@@ -20,6 +20,7 @@
 - [Imagekit](cloud/others/imagekit.md)
 - [Ticketing / TMS](ticketing-tms)
 - [Business Rule Engine / Decision Rule Engine](business-rule-engine)
+- [Mobile Device Management (MDM)](cloud/others/mdm-mobile-device-management.md)
 - [Others - SAAS](others-saas)
 
 ![cloud-comparision](../../media/Pasted%20image%2020231216002914.png)

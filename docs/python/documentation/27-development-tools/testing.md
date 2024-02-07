@@ -63,7 +63,16 @@
 
 ## Test Runners
 
-There are many test runners available for Python.The one built into the Python standard library is called unittest
+There are many test runners available for Python. The one built into the Python standard library is called `unittest`.
+
+|Tool|Ease of Use|Flexibility|Community Support|Documentation|CI/CD Integration|Test Discovery|Fixture Support|
+|---|---|---|---|---|---|---|---|
+|`unittest`|Requires more boilerplate code|Follows xUnit conventions|Part of Python standard library|Well-documented|Easily integrated|Supports test discovery|Supports fixtures but may be less convenient|
+|`pytest`|Concise syntax|Highly flexible|Large and active community|Extensive documentation|Widely used in CI/CD|Powerful and automatic|Advanced fixture support with fixtures as first-class citizens|
+|`nose2`|Strikes a balance between simplicity and features|Flexible with a plugin architecture|Community support has decreased over time|Documentation is available but may not be as comprehensive|Integration is possible but may require additional setup|Supports automatic test discovery|Supports fixtures|
+|`doctest`|Simple and readable|Limited flexibility|Part of Python standard library|Limited support for complex scenarios|Integration is possible but may be limited|Extracts tests from docstrings|Limited support for fixtures|
+|`Hypothesis`|Requires understanding of property-based testing concepts|Flexible with property-based testing|Active community with regular updates|Good documentation with examples and guides|Integration is possible with custom strategies|Test discovery based on properties specified|Fixtures are supported through strategies|
+|`Tox`|Configuration can be complex but provides powerful testing across environments|Flexible for testing across environments|Active community with a focus on compatibility testing|Documentation is available but may require careful reading|Designed for integration with CI/CD pipelines|Relies on configuration for test discovery|Limited support for fixtures, mainly focused on environment isolation|
 
 ### unittest
 

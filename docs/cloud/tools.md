@@ -86,7 +86,7 @@
 		8. RedHat Advanced Cluster Security For Kubernetes (Only K8s)
 		9. Veracode Software Composition Analysis
 7. DAST
-	1. Open source - ZAP
+	1. Open source - OWASP ZAP
 	2. Enterprise - Acunetix
 8. License Scanner - License Finder
 9. Web App Security - OSWAP
@@ -136,3 +136,9 @@
 1. WAF and VPN
 2. SSO and JWT
 3. Security Audits - AWS Audit Manager / ScoutSuite
+
+## Links
+
+[Tech Stack File | StackShare](https://stackshare.io/tech-stack-file)
+
+[🏆 The Top 100 Developer Tools of 2023 | StackShare](https://stackshare.io/posts/top-developer-tools-2023)

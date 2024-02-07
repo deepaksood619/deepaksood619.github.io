@@ -24,6 +24,8 @@ Components
 - Intents
 - Slots
 
+## Godaddy
+
 ## Test Taking / Online assessment
 
 - ThinkExam

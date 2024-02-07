@@ -10,6 +10,7 @@
     - [IAM](security-identity-compliance/iam)
     - [Tools](cloud/aws/security-identity-compliance/tools.md)
     - [Compliance](cloud/aws/security-identity-compliance/compliance.md)
+    - [License Scanning](cloud/aws/security-identity-compliance/license-scanning.md)
 - [Analytics](analytics/readme.md)
     - [Amazon Athena](analytics/amazon-athena)
 - [Developer Tools](developer-tools/intro)
@@ -33,3 +34,5 @@
 - [Amazon Pinpoint](amazon-pinpoint)
 - [Course - Architecting on AWS](cloud/aws/course-architecting-on-aws.md)
 - [Others](cloud/aws/others.md)
+
+![Cloud Infra 30K Feet Design](../../media/Pasted%20image%2020240205224442.jpg)

@@ -10,6 +10,7 @@
 - [Routing](routing)
 - [CIDR](cidr)
 - [Sockets](sockets)
+- [peer-to-peer](networking/networking-concepts/peer-to-peer.md)
 - [Questions](networking/networking-concepts/questions.md)
 - [Data Center Networking](data-center-networking)
 - [Networking Fabric](networking-fabric)

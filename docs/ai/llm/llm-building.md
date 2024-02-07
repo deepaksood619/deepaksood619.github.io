@@ -65,6 +65,8 @@
 
 [Awesome ChatGPT Prompts | This repo includes ChatGPT prompt curation to use ChatGPT better.](https://prompts.chat/#act-as-an-unconstrained-ai-model-dan)
 
+[SynthID - Google DeepMind](https://deepmind.google/technologies/synthid/)
+
 ## Dev Tools
 
 - Langfuse
