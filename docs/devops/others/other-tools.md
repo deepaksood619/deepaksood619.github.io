@@ -1,5 +1,9 @@
 # Other Tools
 
+## Resources
+
+- [GitHub - avengers-p7/Documentation](https://github.com/avengers-p7/Documentation)
+
 ## Portainer
 
 Portainer is an open-source lightweight management UI which allows us to easily manage our docker hosts or swarm clusters.
@@ -151,6 +155,17 @@ Nexus by Sonatype is a repository manager that organizes, stores and distributes
 Packer is a tool which makes it easy to build machine images for different platforms like AWS EC2, Virtual Box, and VMWare.
 
 Packer is a tool for creating identical machine images for multiple platforms from a single source configuration. It supports many different configuration sources including Shell, Chef, Puppet, Ansible, and Salt, and can output images for Compute Engine, Docker, and others. Packer is used by Jenkins agents to build images from configuration in Git repositories.
+
+1. Packer is an open-source VM image creation tool by HashiCorp.
+2. It automates VM image creation in cloud and on-prem environments.
+3. Lightweight, runs on major OS, highly performant, and supports parallel builds.
+4. Templates define image characteristics using JSON or HCL, providing abstraction.
+5. Supports various builders (cloud, local), provisioners, data sources, and post-processors.
+6. Artifacts are platform-specific image formats (AMIs, OVA) or metadata files.
+7. Builds encapsulate the entire image creation process, triggered manually or automatically.
+8. Commands (build, validate, inspect) manage Packer, extendable through plugins.
+9. Templates use variables for dynamic configuration and reusability.
+10. Enhances flexibility, security, and efficiency in managing machine images.
 
 https://packer.io
 

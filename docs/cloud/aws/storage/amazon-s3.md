@@ -44,7 +44,7 @@ Amazon S3 delivers [strong read-after-write consistency](https://aws.amazon.com
 
 After a successful write of a new object, or an overwrite or delete of an existing object, any subsequent read request immediately receives the latest version of the object. S3 also provides strong consistency for list operations, so after a write, you can immediately perform a listing of the objects in a bucket with any changes reflected.
 
-[Site Unreachable](https://aws.amazon.com/s3/consistency/)
+[Amazon S3 Strong Consistency](https://aws.amazon.com/s3/consistency/)
 
 [Amazon S3 now delivers strong read-after-write consistency automatically for all applications](https://aws.amazon.com/about-aws/whats-new/2020/12/amazon-s3-now-delivers-strong-read-after-write-consistency-automatically-for-all-applications)
 

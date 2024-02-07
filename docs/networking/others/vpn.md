@@ -2,6 +2,29 @@
 
 A **virtual private network (VPN)** extends a [private network](https://en.wikipedia.org/wiki/Private_network) across a public network, and enables users to send and receive data across shared or public networks as if their computing devices were directly connected to the private network. Applications running on a computing device, e.g., a laptop, desktop, smartphone, across a VPN may therefore benefit from the functionality, security, and management of the private network. Encryption is a common, though not an inherent, part of a VPN connection.
 
+![How a VPN Works](../../media/Pasted%20image%2020240207000633.png)
+
+### A VPN works in 4 steps
+
+- Step 1 - Establish a secure tunnel between our device and the VPN server.
+- Step 2 - Encrypt the data transmitted.
+- Step 3 - Mask our IP address, so it appears as if our internet activity is coming from the VPN server.
+- Step 4 - Our internet traffic is routed through the VPN server.
+
+### Advantages
+
+- Privacy
+- Anonymity
+- Security
+- Encryption
+- Masking the original IP address
+
+### Disadvantages
+
+- VPN blocking
+- Slow down connections
+- Trust in VPN provider
+
 ## Full Tunnel
 
 ## Split Tunnel

@@ -45,6 +45,8 @@ LLM HR and LLM manager, LLM payroll, LLM account manager, LLM sales, LLM marketi
 
 LLM that can finish your sentences, can read your minds, real time conversation
 
+[Introducing the eighth cohort of Google for Startups Accelerator: India](https://blog.google/intl/en-in/introducing-the-eighth-cohort-of-google-for-startups-accelerator-india/)
+
 ### Economics of Data Business
 
 https://pivotal.substack.com/p/economics-of-data-biz

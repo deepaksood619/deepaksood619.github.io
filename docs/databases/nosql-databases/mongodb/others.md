@@ -21,6 +21,7 @@ By default, MongoDB will automatically close a cursor when the client has exhaus
 - [MongoDB Ops Manager | MongoDB](https://www.mongodb.com/products/self-managed/enterprise-advanced/ops-manager)
 - https://studio3t.com
 - Metabase
+- [**NoSQLBooster - The Smartest GUI Tool and IDE for MongoDB**](https://nosqlbooster.com/)
 
 ### Compass
 

@@ -54,8 +54,8 @@ SOC 1 revolves around financial reporting, whereas SOC 2 focuses more on complia
 
 #### MODULE-B: CREDIT RISK MANAGEMENT
 
-- Introduction - Basel-I 
-- Three pillars of Basel-II and Capital for Operational risk 
+- Introduction - Basel-I
+- Three pillars of Basel-II and Capital for Operational risk
 - Framework for risk management
 - RBI guidelines on risk management
 - Risk rating and risk pricing
@@ -77,6 +77,7 @@ requirements and strategic approach for ORM - SPOR identification, measurement, 
 mitigation of operational risks - Capital allocation for operational risk, methodology,
 qualifying criteria for banks for the adoption of the methods - Computation of capital charge
 for operational risk
+
 #### MODULE-D: MARKET RISK
 
 Introduction and definition - Prescriptions of Basel-I & II - Liquidity risk - Interest rate risk - Foreign exchange risk - Price risk (Equity) - Commodity risk
@@ -84,6 +85,7 @@ Treatment of market risk under Basel
 a) Standardized duration method
 b) Internal measurement approach - VaR
 Basel-III guidelines
+
 - Risk Management Policy - ALCO structure and functions.
 
 ### Paper-II: Compliance in banks
@@ -92,6 +94,7 @@ Basel-III guidelines
 
 1) Need for regulation in banks; importance of regulation, the role of regulators, the
 instruments of regulation, regulatory models, regulatory authorities.
+
 #### MODULE-B: COMPLIANCE PROGRAMME
 
 1) Compliance Risk and significance of Compliance Function; Compliance Policy;
@@ -105,9 +108,11 @@ testing and effective audit programme; Reporting Framework and monitoring
 compliance, reporting of breaches/ non-compliances observed; Role of Audit and
 Inspection; Essentials for good compliance
 4) Creating compliance culture across the organization; Governance, risk and compliance
+
 - GRC framework; Benefits of Taking an Integrated GRC Approach; Whistleblower
 mechanism; The Components of a Whistle-Blower Policy; Reasons for compliance
 failures
+
 #### MODULE-C: REGULATORY COMPLIANCES
 
 1) Disclosures in Financial statements of Banks; Disclosure Requirements; Capital; Repo
@@ -123,6 +128,7 @@ exposure to capital markets; exposures to joint ventures abroad
 #### MODULE-D: STATUTORY, REGULATORY RESTRICTIONS AND GUIDELINES ON
 
 LOANS AND ADVANCES
+
 1) Statutory, Regulatory restrictions on certain sectors
 2) Priority sectors and MSME
 3) Interest rates on advances
@@ -131,6 +137,7 @@ LOANS AND ADVANCES
 #### MODULE-E: FOREIGN CURRENCY OPERATIONS UNDER FEMA AND OTHER
 
 REGULATIONS
+
 1) Investment in India and abroad
 2) Guidelines for exports
 3) Guidelines for External commercial borrowings (ECB)

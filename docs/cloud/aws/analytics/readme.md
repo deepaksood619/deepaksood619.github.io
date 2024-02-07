@@ -24,7 +24,11 @@ Run and Scale Elasticsearch Clusters
 
 Work with Real-time Streaming Data
 
-## Amazon Kinesis Data Firehose
+[Serverless Streaming Data Service - Amazon Kinesis](https://aws.amazon.com/pm/kinesis/)
+
+[Amazon Kinesis Video Streams FAQs](https://aws.amazon.com/kinesis/video-streams/faqs/)
+
+### Amazon Kinesis Data Firehose
 
 Amazon Kinesis Data Firehose is the easiest way to reliably load streaming data into data lakes, data stores and analytics tools. It can capture, transform, and load streaming data into Amazon S3, Amazon Redshift, Amazon Elasticsearch Service, and [Splunk](https://aws.amazon.com/kinesis/data-firehose/splunk/), enabling near real-time analytics with existing business intelligence tools and dashboards you're already using today. It is a fully managed service that automatically scales to match the throughput of your data and requires no ongoing administration. It can also batch, compress, transform, and encrypt the data before loading it, minimizing the amount of storage used at the destination and increasing security.
 

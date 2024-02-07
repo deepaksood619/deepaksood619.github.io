@@ -4,6 +4,8 @@ Education's purpose is to replace an empty mind with an open one.
 
 Equal access to quality education for everyone
 
+Microcredentials
+
 Highly personalized education for each person
 
 1. Tab + earphone for everyone

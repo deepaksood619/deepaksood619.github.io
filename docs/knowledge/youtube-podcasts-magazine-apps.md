@@ -14,9 +14,9 @@
 - B1M
 - Discovery
 - Discovery+
-  - https://www.discoveryplus.in/show/the-birth-of-empire-the-east-india-company
-  - https://www.discoveryplus.in/genre/science
-  - https://www.discoveryplus.in/show/history-of-the-world
+    - https://www.discoveryplus.in/show/the-birth-of-empire-the-east-india-company
+    - https://www.discoveryplus.in/genre/science
+    - https://www.discoveryplus.in/show/history-of-the-world
 - Nat Geo
 - History - World History
 - PBS
@@ -24,21 +24,21 @@
 - ASAPScience
 - Documentaries
 - BBC Earth
-  - https://youtube.com/c/BBCReel
-  - BBC Earth Lab
+    - https://youtube.com/c/BBCReel
+    - BBC Earth Lab
 - NPTEL lecture series
 - NPTEL - https://www.youtube.com/channel/UCYa1WtI-vb_bx-anHdmpNfA/playlists
 - Research
-  - Microsoft research
-  - Talks at google
+    - Microsoft research
+    - Talks at google
 - Objectivity
 - Seeker
-  - Bizarre beasts
-  - scishow + scishow space
-  - Scishow psych
+    - Bizarre beasts
+    - scishow + scishow space
+    - Scishow psych
 - Real Engineering
 - Natgeo / Discovery
-  - How its made
+    - How its made
 - Oxford Union
 - Two minute papers
 - Today I found out
@@ -61,7 +61,7 @@
 - Tim ferris
 - Hubspot - marketing
 - People
-  - andrew huberman (professor of neurobiology at Stanford)
+    - andrew huberman (professor of neurobiology at Stanford)
 - Courses
 - MIT opencourseware
 - Crashcourse
@@ -414,18 +414,18 @@ Youtube Original's Mind Field
 ### Torrents
 
 - [GitHub - iptv-org/iptv: Collection of publicly available IPTV channels from all over the world](https://github.com/iptv-org/iptv)
-  - [84+ Working 1337x Proxy (October 2023) Mirror Sites To Unblock](https://technoxyz.com/1337x-proxy-unblock/)
-  - [**Torrent Search Engine** | 1337x.to](https://1337x-to.pages.dev/)
-  - https://waytohunt.org/1337x-proxy-mirror-sites
-  - https://www.1377x.to
-  - 1377x.to
-  - https://1337xto.to/
-  - [1337x | Free Movies, TV Series, Music, Games and Software](https://www.1337x.tw/)
-  - https://www1.thepiratebay3.to/
-  - 1337xxx.to
-  - 1337xx.to
-  - https://1337x.unblockit.onl/home
-  - [404 - Token Expired](https://1337x.megha.workers.dev/1704646085898/trending)
+    - [84+ Working 1337x Proxy (October 2023) Mirror Sites To Unblock](https://technoxyz.com/1337x-proxy-unblock/)
+    - [**Torrent Search Engine** | 1337x.to](https://1337x-to.pages.dev/)
+    - https://waytohunt.org/1337x-proxy-mirror-sites
+    - https://www.1377x.to
+    - 1377x.to
+    - https://1337xto.to/
+    - [1337x | Free Movies, TV Series, Music, Games and Software](https://www.1337x.tw/)
+    - https://www1.thepiratebay3.to/
+    - 1337xxx.to
+    - 1337xx.to
+    - https://1337x.unblockit.onl/home
+    - [404 - Token Expired](https://1337x.megha.workers.dev/1704646085898/trending)
 - https://pirate-proxy.top/
 - [Download music, movies, games, software! The Pirate Bay - The galaxy's most resilient BitTorrent site](https://pirate-proxy.click/)
 - [https://fmovies.pub](https://fmovies.pub/)
@@ -439,10 +439,10 @@ Youtube Original's Mind Field
 - Pikashow
 - pdf drive
 - Youtube Downloader
-  - [Youtube Multi Downloader Online Free](https://youtubemultidownloader.net/playlists.html)
-  - [GitHub - ytdl-org/youtube-dl: Command-line program to download videos from YouTube.com and other video sites](https://github.com/ytdl-org/youtube-dl)
-  - `youtube-dl --cookies cookies.txt https://www.udemy.com/aws-certified-developer-associate-dva-c01/ --verbose`
-  - `youtube-dl -u user@domain.com -p P@ssw0rd https://www.udemy.com/the-ultimate-google-adwords-training-course/learn/lecture/12313178#content`
+    - [Youtube Multi Downloader Online Free](https://youtubemultidownloader.net/playlists.html)
+    - [GitHub - ytdl-org/youtube-dl: Command-line program to download videos from YouTube.com and other video sites](https://github.com/ytdl-org/youtube-dl)
+    - `youtube-dl --cookies cookies.txt https://www.udemy.com/aws-certified-developer-associate-dva-c01/ --verbose`
+    - `youtube-dl -u user@domain.com -p P@ssw0rd https://www.udemy.com/the-ultimate-google-adwords-training-course/learn/lecture/12313178#content`
 - [Watch Movies Streaming Online Free | TV Show Online HD](https://theflixer.tv/)
 - Index of x
 - [Index of /Movies](http://mha.cs.umn.edu/Movies/)

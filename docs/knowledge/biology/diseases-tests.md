@@ -71,7 +71,7 @@ https://www.medicalnewstoday.com/articles/9153.php
 - Don't brush more than 2 times a day
 - Wait 30 min after eating before brushing
 
-[Site Unreachable](https://edition.cnn.com/2021/11/19/health/teeth-brushing-health-wellness-partner/index.html)
+[How long should you brush your teeth? Here are some tips from experts | CNN](https://edition.cnn.com/2021/11/19/health/teeth-brushing-health-wellness-partner/index.html)
 
 ## Cough
 

@@ -26,10 +26,6 @@ The hard disk drives with "NAS" in their name are functionally similar to other 
 
 https://en.wikipedia.org/wiki/Network-attached_storage
 
-## Peer to Peer Networks
-
-https://skerritt.blog/designing-effective-peer-to-peer-networks
-
 ## VPC / RDP
 
 ssh -i ec2_ssh_key.pem -X ubuntu@13.233.36.211

@@ -83,6 +83,7 @@
 12. TensorFlow on AWS - Open-source Machine Intelligence Library
 13. Amazon Textract - Easily extract printed text, handwriting, and data from virtually any document - https://github.com/aws-samples/amazon-textract-code-samples/tree/master/python
 14. Amazon Kendra
+15. [AWS Fraud Detector](https://aws.amazon.com/fraud-detector/)
 
 Highly accurate intelligent search service powered by machine learning
 
@@ -98,6 +99,10 @@ Highly accurate intelligent search service powered by machine learning
 3. Amazon Pinpoint - Push Notifications for Mobile Apps
 4. AWS AppSync - Real-time and Offline Mobile Data Apps
 5. AWS Device Farm - Test Android, FireOS, and iOS Apps on Real Devices in the Cloud
+	1. [Digital Experience Monitoring Platform by Mozark](https://www.mozark.ai/)
+	2. [Device Farm - ATOMP.IO](https://atomp.io/devicefarm/)
+	3. [Why use Device Farm / Device Cloud for Testing | BrowserStack](https://www.browserstack.com/guide/importance-of-device-farms)
+	4. [AWS Device Farm](https://aws.amazon.com/device-farm/)
 6. AWS Mobile SDK - Mobile Software Development Kit
 7. AWS Location Service
 8. AR & VR - Amazon Sumerian - Build and Run VR and AR Applications

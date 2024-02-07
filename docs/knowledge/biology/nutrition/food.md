@@ -208,7 +208,7 @@ Smooth, bright, seedless, conveniently wrapped; the banana is the original fast 
 
 [The truth about milk: According to science | Prof. Tim Spector and Dr Sarah Berry - YouTube](https://www.youtube.com/watch?v=6CPBeNPlcNc)
 
-[Site Unreachable](https://timesofindia.indiatimes.com/life-style/food-news/difference-between-homogenized-and-pasteurized-milk-and-which-one-is-safe/photostory/89508297.cms?from=mdr)
+[Difference between homogenized and pasteurized milk and which one is safe | The Times of India](https://timesofindia.indiatimes.com/life-style/food-news/difference-between-homogenized-and-pasteurized-milk-and-which-one-is-safe/photostory/89508297.cms?from=mdr)
 
 ## Fruits
 
@@ -356,7 +356,7 @@ It can become toxic and inedible quickly; when stored for more than 20 minutes, 
 
 [15 Excellent Health Benefits Of Sugarcane Juice - PharmEasy Blog](https://pharmeasy.in/blog/15-excellent-health-benefits-of-sugarcane-juice/)
 
-[Site Unreachable](https://www.healthline.com/nutrition/sugarcane-juice-diabetes)
+[Is Sugarcane Juice Good or Bad for Diabetes?](https://www.healthline.com/nutrition/sugarcane-juice-diabetes)
 
 ## Farming
 

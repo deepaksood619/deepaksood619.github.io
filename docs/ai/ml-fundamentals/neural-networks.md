@@ -50,8 +50,8 @@ Neural networks combine layers of perceptrons, making them more powerful but als
 
 ![image](../../media/Neural-Networks-image17.jpg)
 
-https://www.youtube.com/watch?v=dPWYUELwIdM
+[How Deep Neural Networks Work - Full Course for Beginners - YouTube](https://www.youtube.com/watch?v=dPWYUELwIdM)
 
 [Neural Networks Demystified](https://www.youtube.com/playlist?list=PLiaHhY2iBX9hdHaRr6b7XevZtgZRa1PoU)
 
-[Site Unreachable](https://www.freecodecamp.org/news/convolutional-neural-networks-course-for-beginners/)
+[Hot dog or not hot dog? Find out with Convolutional Neural Networks](https://www.freecodecamp.org/news/convolutional-neural-networks-course-for-beginners/)

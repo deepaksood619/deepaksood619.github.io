@@ -127,3 +127,7 @@ Gitleaks is a SAST tool for **detecting** and **preventing** hardcoded secre
 [Gitleaks](https://gitleaks.io/)
 
 [GitHub - gitleaks/gitleaks: Protect and discover secrets using Gitleaks 🔑](https://github.com/gitleaks/gitleaks)
+
+## Others
+
+- [SOC 2, HIPAA, ISO 27001, PCI, and GDPR Compliance](https://www.vanta.com/)

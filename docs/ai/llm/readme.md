@@ -109,6 +109,9 @@ Moving from information to knowledge age
 - [Kombai](https://kombai.com/)
 - [GitHub - RamiKrispin/lang2sql: A tutorial for setting an SQL code generator with the OpenAI API](https://github.com/RamiKrispin/lang2sql)
 - [fal.ai/camera](https://www.fal.ai/camera)
+- [GitHub - lxe/llm-companion: Mobile web app for audio "push-to-talk" + TTS chat interface with OpenAI-like APIs](https://github.com/lxe/llm-companion)
+- [GitHub - adithya-s-k/CompanionLLM: CompanionLLM - A framework to finetune LLMs to be your own sentient conversational companion](https://github.com/adithya-s-k/CompanionLLM)
+- [Waii – World's most powerful SQL API built with generative AI](https://www.waii.ai/)
 
 ## Purpose-built accelerators for generative AI
 
