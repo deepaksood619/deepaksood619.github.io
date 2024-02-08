@@ -103,7 +103,7 @@ If no hints are applicable
 
 Look at the join hints in the following order:
 
-1. **_Broadcast Hint —_** Pick the Broadcast Nested Loop Join.
+1. **_Broadcast Hint -_** Pick the Broadcast Nested Loop Join.
 2. **_Shuffle Replicate NL Hint_** - Pick Cartesian Product if the join type is inner like.
 
 ## Takeaways
@@ -121,7 +121,7 @@ Look at the join hints in the following order:
 
 https://towardsdatascience.com/the-art-of-joining-in-spark-dcbd33d693c
 
-[Join Strategies in Apache Spark— Deep Dive | by Siddharth Ghosh | Medium](https://medium.com/@ghoshsiddharth25/apache-spark-join-strategies-deep-dive-26bf7e85db28)
+[Join Strategies in Apache Spark- Deep Dive | by Siddharth Ghosh | Medium](https://medium.com/@ghoshsiddharth25/apache-spark-join-strategies-deep-dive-26bf7e85db28)
 
 [Spark Join Strategies - How & What? | by Jyoti Dhiman | Towards Data Science](https://towardsdatascience.com/strategies-of-spark-join-c0e7b4572bcf)
 

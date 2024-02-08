@@ -21,7 +21,6 @@ docker run -it --rm --name debezium-ui -p 8080:8080 -e KAFKA_CONNECT_URIS=http:/
 [Connectors | Debezium Documentation](https://debezium.io/documentation/reference/stable/connectors/index.html)
 
 - [MongoDB](https://debezium.io/documentation/reference/stable/connectors/mongodb.html)
-- [MySQL](https://debezium.io/documentation/reference/stable/connectors/mysql.html)
 - [PostgreSQL](https://debezium.io/documentation/reference/stable/connectors/postgresql.html)
 - [SQL Server](https://debezium.io/documentation/reference/stable/connectors/sqlserver.html)
 - [Oracle](https://debezium.io/documentation/reference/stable/connectors/oracle.html)
@@ -31,6 +30,14 @@ docker run -it --rm --name debezium-ui -p 8080:8080 -e KAFKA_CONNECT_URIS=http:/
 - [Spanner](https://debezium.io/documentation/reference/stable/connectors/spanner.html) (Incubating)
 - [JDBC](https://debezium.io/documentation/reference/stable/connectors/jdbc.html) (Incubating)
 - [Informix](https://debezium.io/documentation/reference/stable/connectors/informix.html) (Incubating)
+
+### [MySQL](https://debezium.io/documentation/reference/stable/connectors/mysql.html)
+
+MySQL has a binary log (binlog) that records all operations in the order in which they are committed to the database. This includes changes to table schemas as well as changes to the data in tables. MySQL uses the binlog for replication and recovery.
+
+The Debezium MySQL connector reads the binlog, produces change events for row-level `INSERT`, `UPDATE`, and `DELETE` operations, and emits the change events to Kafka topics. Client applications read those Kafka topics.
+
+As MySQL is typically set up to purge binlogs after a specified period of time, the MySQL connector performs an initial _consistent snapshot_ of each of your databases. The MySQL connector reads the binlog from the point at which the snapshot was made.
 
 ## Links
 

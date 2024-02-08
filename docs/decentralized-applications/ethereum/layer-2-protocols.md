@@ -30,7 +30,7 @@ An approach that allows for the aggregation of multiple transactions into a sing
 
 [What are Rollups in Crypto? ZKSnarks vs Optimistics Rollups Explained - YouTube](https://www.youtube.com/watch?v=6_nOYsvXMsE)
 
-[Rollups Are L1s (& L2s) a.k.a. How Rollups \*Actually Actually Ac… — Jon Charbonneau](https://dba.mirror.xyz/LYUb_Y2huJhNUw_z8ltqui2d6KY8Fc3t_cnSE9rDL_o)
+[Rollups Are L1s (& L2s) a.k.a. How Rollups \*Actually Actually Ac… - Jon Charbonneau](https://dba.mirror.xyz/LYUb_Y2huJhNUw_z8ltqui2d6KY8Fc3t_cnSE9rDL_o)
 [Open letter to Jon Charbonneau (or Rollups = Bridges + Blockchains) - Layer 2 - Ethereum Research](https://ethresear.ch/t/open-letter-to-jon-charbonneau-or-rollups-bridges-blockchains/15739)
 
 [Notion – The all-in-one workspace for your notes, tasks, wikis, and databases.](https://davidecrapis.notion.site/Rollups-are-Real-Rollup-Economics-2-0-2516079f62a745b598133a101ba5a3de)
@@ -92,7 +92,7 @@ A cryptographic method for proving a statement is true without revealing any inf
 
 [Zero Knowledge Proof (with Avi Wigderson) - Numberphile - YouTube](https://www.youtube.com/watch?v=5ovdoxnfFVc)
 
-[What Is A zkEVM? — Linea](https://linea.mirror.xyz/qD18IaQ4BROn_Y40EBMTUTdJHYghUtdECscSWyMvm8M)
+[What Is A zkEVM? - Linea](https://linea.mirror.xyz/qD18IaQ4BROn_Y40EBMTUTdJHYghUtdECscSWyMvm8M)
 
 [Lifecycle of ZKP | ZKCamp](https://www.zkcamp.xyz/blog/lifecycle-of-zkp)
 

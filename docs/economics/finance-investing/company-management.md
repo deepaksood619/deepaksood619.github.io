@@ -43,4 +43,4 @@ To put it differently, a compassionate management is like building a digital moa
 ## Founder-led Companies vs Corporate Companies
 
 - [The Rise & Fall of Under Armour - YouTube](https://www.youtube.com/watch?v=HeWdxezd_CU)
-- [Founder-Led Companies Outperform the Rest — Here’s Why](https://hbr.org/2016/03/founder-led-companies-outperform-the-rest-heres-why)
+- [Founder-Led Companies Outperform the Rest - Here’s Why](https://hbr.org/2016/03/founder-led-companies-outperform-the-rest-heres-why)

@@ -67,7 +67,7 @@ https://github.com/kubeflow/kubeflow
 
 ### Courses
 
-[The Full Stack 7-Steps MLOps Framework — Paul Iusztin](https://www.pauliusztin.me/courses/the-full-stack-7-steps-mlops-framework)
+[The Full Stack 7-Steps MLOps Framework - Paul Iusztin](https://www.pauliusztin.me/courses/the-full-stack-7-steps-mlops-framework)
 
 [MLOps Course - Made With ML](https://madewithml.com/courses/mlops/)
 

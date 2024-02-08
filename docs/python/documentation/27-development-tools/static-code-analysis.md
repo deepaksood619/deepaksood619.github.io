@@ -402,4 +402,4 @@ https://www.youtube.com/watch?v=4klj8UYPZxY&ab_channel=freeCodeCampTalks
 
 [GitHub - Instagram/Fixit: Advanced Python linting framework with auto-fixes and hierarchical configuration that makes it easy to write custom in-repo lint rules.](https://github.com/Instagram/Fixit)
 
-[Fixit: linting framework with auto-fixes — Fixit documentation](https://fixit.readthedocs.io/en/latest/)
+[Fixit: linting framework with auto-fixes - Fixit documentation](https://fixit.readthedocs.io/en/latest/)

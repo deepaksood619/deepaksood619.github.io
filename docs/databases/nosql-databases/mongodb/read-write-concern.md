@@ -4,7 +4,7 @@
 
 The `readConcern` option allows you to control the consistency and isolation properties of the data read from replica sets and replica set shards.
 
-[Read Concern — MongoDB Manual](https://www.mongodb.com/docs/manual/reference/read-concern/)
+[Read Concern - MongoDB Manual](https://www.mongodb.com/docs/manual/reference/read-concern/)
 
 ### Read Concern Levels
 
@@ -77,7 +77,7 @@ All other read operations prohibit [`"snapshot"`.](https://www.mongodb.com/docs
 
 Write concern describes the level of acknowledgment requested from MongoDB for write operations to a standalone [`mongod`](https://www.mongodb.com/docs/manual/reference/program/mongod/#mongodb-binary-bin.mongod) or to [Replica sets](https://www.mongodb.com/docs/manual/replication/#std-label-replication) or to [sharded clusters](https://www.mongodb.com/docs/manual/sharding/#std-label-sharding-background). In sharded clusters, [`mongos`](https://www.mongodb.com/docs/manual/reference/program/mongos/#mongodb-binary-bin.mongos) instances will pass the write concern on to the shards.
 
-[Write Concern — MongoDB Manual](https://www.mongodb.com/docs/manual/reference/write-concern/)
+[Write Concern - MongoDB Manual](https://www.mongodb.com/docs/manual/reference/write-concern/)
 
 ### Write Concern Levels
 

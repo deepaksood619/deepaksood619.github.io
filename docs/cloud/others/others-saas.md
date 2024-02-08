@@ -98,14 +98,14 @@ https://blueyonder.com
 - [Budibase | Build internal tools in minutes, the easy way](https://budibase.com/) (20K stars) - [GitHub - Budibase/budibase: Low code platform for creating internal tools, workflows, and admin panels in minutes. Supports PostgreSQL, MySQL, MSSQL, MongoDB, Rest API, Docker, K8s, and more 🚀. Budibase, the low code platform you'll enjoy using ⚡](https://github.com/Budibase/budibase)
 - [n8n.io - a powerful workflow automation tool](https://n8n.io/) (37K stars) - [GitHub - n8n-io/n8n: Free and source-available fair-code licensed workflow automation tool. Easily automate tasks across different services.](https://github.com/n8n-io/n8n)
 - [Appwrite - Build like a team of hundreds](https://appwrite.io/) (39K stars) - [GitHub - appwrite/appwrite: Build like a team of hundreds\_](https://github.com/appwrite/appwrite)
-- [Albato — a single no-code platform for all automations](https://albato.com/)
+- [Albato - a single no-code platform for all automations](https://albato.com/)
 
 ### nocode website builders
 
 - [Webflow: Create a custom website | No-code website builder](https://webflow.com/)
 - [Drag and Drop Website Builder - Create Websites with WebWave](https://webwave.me/)
 - [Locofy.ai - ship your products 5-10x faster - with low code](https://www.locofy.ai/)
-- [Plasmic | Build powerful apps fast— without the limits](https://www.plasmic.app/) - [GitHub - plasmicapp/plasmic: Visual builder for React. Build apps, websites, and content. Integrate with your codebase.](https://github.com/plasmicapp/plasmic)
+- [Plasmic | Build powerful apps fast- without the limits](https://www.plasmic.app/) - [GitHub - plasmicapp/plasmic: Visual builder for React. Build apps, websites, and content. Integrate with your codebase.](https://github.com/plasmicapp/plasmic)
 - [DhiWise: App Development Platform for High Productivity](https://www.dhiwise.com/)
 - [Dora AI - Generating powerful websites, one prompt at a time](https://www.dora.run/ai)
 

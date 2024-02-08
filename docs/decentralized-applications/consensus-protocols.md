@@ -150,6 +150,6 @@ To maintain blockchain security and achieve network consensus, BSC combines dele
 
 ## Links
 
-[Endgame: Proof of Governance — Jon Charbonneau](https://dba.mirror.xyz/UTPfxWe65dYrUu_RJX-5VkAJypFRyw3AZh6m0dRXYZk)
+[Endgame: Proof of Governance - Jon Charbonneau](https://dba.mirror.xyz/UTPfxWe65dYrUu_RJX-5VkAJypFRyw3AZh6m0dRXYZk)
 
 [Understanding Attack Vectors in Bitcoin's Proof of Work (PoW) and Ethereum's Proof of Stake (PoS):](https://www.linkedin.com/pulse/understanding-attack-vectors-bitcoins-proof-work-pow-ethereums-hosp/)

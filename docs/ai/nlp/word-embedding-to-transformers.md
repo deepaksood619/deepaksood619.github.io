@@ -11,7 +11,7 @@ Natural language processing (NLP) is an active research field of linguistic, com
 - **Text summarization:** Text summarization in NLP is the process of summarizing the most important informations in large texts for quicker consumption.
 - **Generative models for NLP:** Generative models are normally trained on a large amount of data, with the ability to create afterwards new texts.
 
-## 2. NLTK — natural language toolkit
+## 2. NLTK - natural language toolkit
 
 NLTK is a leading platform for building Python programs to work with human language data. It provides easy-to-use interfaces to over 50 corpora and lexical resources such as WordNet, along with a suite of text processing libraries for classification, tokenization, stemming, tagging, parsing, and semantic reasoning, wrappers for industrial-strength NLP libraries, and an active discussion forum.
 
@@ -66,7 +66,7 @@ In NLP, word embedding is a projection of a word, consisting of characters into 
 
 ![](https://miro.medium.com/v2/resize:fit:1400/1*sROrntT_wJOI6-DoBViyjw.jpeg)
 
-_Fig.1 — Illustration of a word embedding_
+_Fig.1 - Illustration of a word embedding_
 
 ### 3.2 One-hot encoding
 
@@ -74,7 +74,7 @@ One-hot encoded words are not useful to solve a NLP task successfully. Assume th
 
 ![](https://miro.medium.com/v2/resize:fit:1348/1*9ZuDXoc2ek-GfHE2esty5A.png)
 
-_Fig.2 — Example of a one-hot encoding for words_
+_Fig.2 - Example of a one-hot encoding for words_
 
 ### 3.3 Embedding layer
 
@@ -87,7 +87,7 @@ There exists many different approaches of word embedding, some of the most popul
 
 ![](https://miro.medium.com/v2/resize:fit:1400/1*pktqRMGoYo9_fRCI8RpKLQ.jpeg)
 
-_Fig.3 — Visualization of a embedding layer_
+_Fig.3 - Visualization of a embedding layer_
 
 #### **3.3.1 Training of an embedding layer**
 
@@ -191,7 +191,7 @@ The model simply tries to maximise the negative log of the probability of the ou
 
 ![](https://miro.medium.com/v2/resize:fit:1400/1*IsK_X7YdgmOVFGhIpuKEJA.jpeg)
 
-_Fig.4 — one word context model_
+_Fig.4 - one word context model_
 
 #### 3.4.2 Skip-gram model
 
@@ -199,7 +199,7 @@ A more suitable approach than the one word context model is the skip-gram model.
 
 ![](https://miro.medium.com/v2/resize:fit:1128/1*ieqh2zbnW7K0cmXk9BusXA.jpeg)
 
-_Fig.5 — skip-gram model_
+_Fig.5 - skip-gram model_
 
 **Lossfunction of the skip-gram model**
 
@@ -213,7 +213,7 @@ In the continuous bag-of-word approach (CBOW) the model tries to predict the act
 
 ![](https://miro.medium.com/v2/resize:fit:1100/1*kCgUJvDMw4bgULaddAMgYA.jpeg)
 
-_Fig.6 — Continuous bag-of-word model_
+_Fig.6 - Continuous bag-of-word model_
 
 **Lossfunction of the continuous bag-of-word model**
 
@@ -223,7 +223,7 @@ The lossfunction is similar to the lossfunction of the one word model. The only 
 
 More about the mathematical concept behind the model can be found in original paper.
 
-### 3.5 GloVe — Global vectors for word representation
+### 3.5 GloVe - Global vectors for word representation
 
 Another, more advanced approach for word embedding is the GloVe model. GloVe means global vectors for word representation. This approach is not based on a pure ANN (artificial neural network) approach, but also on statistical approaches. The GloVe-approach combines basically the advantages of the word2vec approach and the LSA approach. LSA mean Latent Semantic Analysis and was one of the first approaches for vector embedding of words.
 
@@ -247,13 +247,13 @@ We use a windowsize of "one" for this example, but it is also possible / useful 
 
 ![](https://miro.medium.com/v2/resize:fit:630/1*mdFqxZKedPy8-Bhhuth-Eg.jpeg)
 
-_Fig.7 — Example of a simple Co-occurence matrix_
+_Fig.7 - Example of a simple Co-occurence matrix_
 
 To measure the similarity between words, we need three words at a time. The following table shows such an example:
 
 ![](https://miro.medium.com/v2/resize:fit:1196/1*wGQzP1BWYgkfajyjZfj8CA.jpeg)
 
-_Fig.8 — GloVe probability table_
+_Fig.8 - GloVe probability table_
 
 The table above shows the co-occurrence probabilities for target words ice and steam with selected context words from a six billion token corpus. Only in the ratio does noise from non-discriminative words like water and fashion cancel out, so that large values (much greater than one) correlate well with properties specific to ice, and small values (much less than one) correlate well with properties specific of steam.
 
@@ -277,7 +277,7 @@ After some recalculation steps we get to following formula:
 
 ![](https://miro.medium.com/v2/resize:fit:734/1*3NZVpENLBeAxdIX7KxTKZQ.png)
 
-A main drawback to this model is that it weights all co-occurrences evenly, even those that happen rarely or never. Such rare co-occurrences are noisy and carry less information than the more frequent ones — yet even just the zero entries account for 75–95% of the data in **_X_**, depending on the vocabulary size and corpus. The authors from the GloVe-paper proposed a new weighted least squares regression model that addresses these problems. The weight function **_f(Xij)_** is shown in figure 9.
+A main drawback to this model is that it weights all co-occurrences evenly, even those that happen rarely or never. Such rare co-occurrences are noisy and carry less information than the more frequent ones - yet even just the zero entries account for 75–95% of the data in **_X_**, depending on the vocabulary size and corpus. The authors from the GloVe-paper proposed a new weighted least squares regression model that addresses these problems. The weight function **_f(Xij)_** is shown in figure 9.
 
 **Lossfunction of the GloVe model**
 
@@ -285,19 +285,19 @@ A main drawback to this model is that it weights all co-occurrences evenly, even
 
 ![](https://miro.medium.com/v2/resize:fit:1216/1*TXWYDO4f8pGipKk2hRWzfw.png)
 
-_Fig.9 — Example of the weightfunction f(Xij)_
+_Fig.9 - Example of the weightfunction f(Xij)_
 
 #### 3.5.3 Training details of GloVe
 
-Glove is based on matrix factorization techniques on the word-context matrix, also known as the co-occurrence matrix. It first constructs a large matrix of (words — context) co-occurrence information (the violett matrix in figure 10 below), i.e. for each "word" (the rows), we count how frequently we see this word in some "context" (the columns) in a large corpus. The number of "contexts" is of course large, since it is essentially combinatorial in size. The idea then is to apply matrix factorization to approximate this matrix as depicted in the following figure 10.
+Glove is based on matrix factorization techniques on the word-context matrix, also known as the co-occurrence matrix. It first constructs a large matrix of (words - context) co-occurrence information (the violett matrix in figure 10 below), i.e. for each "word" (the rows), we count how frequently we see this word in some "context" (the columns) in a large corpus. The number of "contexts" is of course large, since it is essentially combinatorial in size. The idea then is to apply matrix factorization to approximate this matrix as depicted in the following figure 10.
 
-So then we factorize this matrix to yield a lower-dimensional (word — features) matrix (the orange matrix in figure 10 below), where now each row yields a vector representation for the corresponding word. In general, this is done by minimizing a "reconstruction loss". This loss tries to find the lower-dimensional representations which can explain most of the variance in the high-dimensional data.
+So then we factorize this matrix to yield a lower-dimensional (word - features) matrix (the orange matrix in figure 10 below), where now each row yields a vector representation for the corresponding word. In general, this is done by minimizing a "reconstruction loss". This loss tries to find the lower-dimensional representations which can explain most of the variance in the high-dimensional data.
 
 Mostly the word-feature matrix and the feature-context matrix are initialized randomly and attempt to multiply them to get a word-context co-occurrence matrix, which is as similar as possible to the original matrix. After training, the word-featrue matrix gives the learned word embedding for each word where the number of columns (features) can be present to a specific number of dimension, given by the user as a hyperparameter.
 
 ![](https://miro.medium.com/v2/resize:fit:1400/1*8UEaG6Bm9krv8N7IDnjvxg.png)
 
-_Fig.10 — Conceptual model for the GloVe model_
+_Fig.10 - Conceptual model for the GloVe model_
 
 ### 3.6 FastText (enriching word vectors with subword information)
 
@@ -323,11 +323,11 @@ Working with n-grams lead to a very huge number of different n-grams. The FastTe
 
 ![](https://miro.medium.com/v2/resize:fit:990/1*zDPmG8lQgjh41JbRygEQcQ.png)
 
-_Fig.11 — Visualization of the dictionary reduction_
+_Fig.11 - Visualization of the dictionary reduction_
 
 ![](https://miro.medium.com/v2/resize:fit:850/1*rG_CB4twhOg3vD5AgR1t0w.png)
 
-_Fig.12 — Visualization of hashing process_
+_Fig.12 - Visualization of hashing process_
 
 #### 3.6.2 Mathematical background of the FastText approach
 
@@ -351,7 +351,7 @@ A word will be represented by the sum of the vector representation of its differ
 
 ![](https://miro.medium.com/v2/resize:fit:1206/1*Y8526ukD0Dk9IpAssFsCxw.png)
 
-_Fig.13 — Architecture overview of the FastText model_
+_Fig.13 - Architecture overview of the FastText model_
 
 ### 3.7 ELMo
 
@@ -376,11 +376,11 @@ The word "plane" has in each of this three sentences a completely different mean
 
 Unlike most widely used word embeddings, ELMo word representations are functions of the entire input sentence. Instead of using a fixed embedding for each word, ELMo looks at the entire sentence before assigning each word in it an embedding. It uses a two layer bi-directional LSTM, trained on a specific task to be able to create those embeddings. As for other word embeddings, it is also possible to use a pretrained version of a ELMo model.
 
-ELMo gained its language understanding from being trained to predict the next word in a sequence of words — a task called Language Modeling. This is convenient because we have vast amounts of text data that such a model can learn from without needing labels.
+ELMo gained its language understanding from being trained to predict the next word in a sequence of words - a task called Language Modeling. This is convenient because we have vast amounts of text data that such a model can learn from without needing labels.
 
 #### 3.7.2 ELMo architecture
 
-ELMo basically consists out of two bi-directional LSTM layers — so that the language model does not only have a sense of the next word, but also the previous word. Given a sequence of N tokens (this could be a whole sentence, or at least a part of a sentence) the bidirectional language model computes the forward and also the backward probability. In more mathematical sense, the ELMo model tries to maximize the log likelihood of the forward and backward probability.
+ELMo basically consists out of two bi-directional LSTM layers - so that the language model does not only have a sense of the next word, but also the previous word. Given a sequence of N tokens (this could be a whole sentence, or at least a part of a sentence) the bidirectional language model computes the forward and also the backward probability. In more mathematical sense, the ELMo model tries to maximize the log likelihood of the forward and backward probability.
 
 ![](https://miro.medium.com/v2/resize:fit:1400/1*eBcOSrMrXReLwKvTedlpxA.png)
 
@@ -395,7 +395,7 @@ The architecture showed in figure 14, uses a character-level convolutional neura
 
 ![](https://miro.medium.com/v2/resize:fit:1400/1*AS2KJAwx18XbuyAefz9fLQ.jpeg)
 
-_Fig.14 — Architecture of the ELMo language model_
+_Fig.14 - Architecture of the ELMo language model_
 
 The main part of ELMo, the two bidirectional LSTMs are more or less straight forward. A more interesting part is the embedding part **_(E1,E2,…,En)_**. This will be explained in more detail in the upcoming sections.
 
@@ -405,9 +405,9 @@ In the paper "Character-Aware neural language models", they propose a language m
 
 ![](https://miro.medium.com/v2/resize:fit:1020/1*Z4TSBi8Mh_jGc1dltZ_ZpA.jpeg)
 
-_Fig.15 — Architecture of the word embedding as a preprocessing step for the ELMo model_
+_Fig.15 - Architecture of the word embedding as a preprocessing step for the ELMo model_
 
-The first layer performs a lookup of character embeddings (in the example above it is four dimensional) and stack them to the matrix **_C_k_**. On the matrix **_C_k_** are applied multiple filters (convolutions). In the example above, there are in total twelve filters — three filters with width of two (blue) four filters with width of three, and five filters with the width of four. On the resulting matrices of the filters is applied a max-over-time pooling operation, to obtain a fixed-dimensional representation of each word. This vector is used as input for the highway network. The output of the highway network will be used as input for the first bidirectional LSTM layer in the ELMo architecture.
+The first layer performs a lookup of character embeddings (in the example above it is four dimensional) and stack them to the matrix **_C_k_**. On the matrix **_C_k_** are applied multiple filters (convolutions). In the example above, there are in total twelve filters - three filters with width of two (blue) four filters with width of three, and five filters with the width of four. On the resulting matrices of the filters is applied a max-over-time pooling operation, to obtain a fixed-dimensional representation of each word. This vector is used as input for the highway network. The output of the highway network will be used as input for the first bidirectional LSTM layer in the ELMo architecture.
 
 #### 3.7.4 Character-level convolutional neural network
 
@@ -421,7 +421,7 @@ This model uses as input the max-over-time pooled vector, at least in the ELMo a
 
 ![](https://miro.medium.com/v2/resize:fit:1120/1*xI2buV-uemPFE5MvCc2HsA.png)
 
-_Fig.16 — Overview of a highway layer_
+_Fig.16 - Overview of a highway layer_
 
 A plain feedforward neural network consists mainly of **_L_** layers and each layer applies a non-linear transformation **_H_**, where **_H_** is normally a affine transformation function, followed by a non-linear activation function (sigmoid, ReLU, etc.).
 
@@ -451,7 +451,7 @@ where **_H_** is the non-linearity from a plain feedforward layer and **_T_** an
 
 The approach of squence to sequence models, or short seq2seq models, was introduced in 2014 by Google. The aim is to map a input vector with a fixed length to a output vector also with a fixed length, but maybe the length of the input and output is different. The model consists basically of a encoder part (one RNN or LSTM layer) and of a decoder part (another RNN or LSTM layer).
 
-### 4.1 Encoder — Decoder principle
+### 4.1 Encoder - Decoder principle
 
 An encoder processes the input sequence and compresses the information into a context vector **_h_t_** of a fixed length. The decoder is initialized with the context vector **_h_t_** to emit the transformed output. The encoder consists of embedding layer followed by a RNN layer or a LSTM layer. The power of this model lies in the fact that it can map seqeunces of different lengths (input and output vector).
 
@@ -459,19 +459,19 @@ A basic Seq2Seq model can work quite well for short text sequences, but it has d
 
 ![](https://miro.medium.com/v2/resize:fit:1400/1*eAM9Dl-lPk0nxN0Zbbynew.png)
 
-_Fig.17 — Sequence to sequence architecture_
+_Fig.17 - Sequence to sequence architecture_
 
 ## 5. Attention mechanism
 
-In the previous architecture (sequence-to-sequence models), the encoder compressed the whole source sentence into a single vector, the so called context vector **_h_t_**. This can be very hard — the number of possible meanings of source is infinite. When the encoder is forced to put all information into a single vector, it is likely to forget something. Not only it is hard for the encoder to put all information into a single vector — this is also hard for the decoder to extract all important information from the context vector **_h_t_**. The decoder sees only one representation of source. However, at each generation step, different parts of source can be more useful than others. But in the current setting, the decoder has to extract relevant information from the same fixed representation.
+In the previous architecture (sequence-to-sequence models), the encoder compressed the whole source sentence into a single vector, the so called context vector **_h_t_**. This can be very hard - the number of possible meanings of source is infinite. When the encoder is forced to put all information into a single vector, it is likely to forget something. Not only it is hard for the encoder to put all information into a single vector - this is also hard for the decoder to extract all important information from the context vector **_h_t_**. The decoder sees only one representation of source. However, at each generation step, different parts of source can be more useful than others. But in the current setting, the decoder has to extract relevant information from the same fixed representation.
 
-An attention mechanism is a part of a neural network. At each decoder step, it decides which source parts are important for the decoder. In this setting, the encoder does not have to compress the whole source into a single vector — it gives representations for all source tokens (for example, all RNN states instead of the last one).
+An attention mechanism is a part of a neural network. At each decoder step, it decides which source parts are important for the decoder. In this setting, the encoder does not have to compress the whole source into a single vector - it gives representations for all source tokens (for example, all RNN states instead of the last one).
 
 ### 5.1 Mathematical background of attention mechanism
 
 There are mainly three different ways to compute attention scores:
 
-- **dot-product — the simplest method:**
+- **dot-product - the simplest method:**
 
 ![](https://miro.medium.com/v2/resize:fit:506/1*Ek-iT96cha-0a6ROPmBEwQ.png)
 
@@ -497,9 +497,9 @@ The self-attention mechanism was introduced in the paper "Attention is all you n
 
 Formally, this intuition of self-attention is implemented with a query-key-value attention. Each input token of a self-attention layer receives three representations (matrices) corresponding to the roles it can play:
 
-- **query** — asking for information
-- **key** — saying that it has some information
-- **value** — giving the information
+- **query** - asking for information
+- **key** - saying that it has some information
+- **value** - giving the information
 
 The self-attention function can be described as mapping a query (**_W_Q_**) and a set of key-value (**_W_K_**, **_W_V_**) pairs to an output. The input consists of a query vector and key-value vectors (dimension of values: **_d_v_**, dimension of keys: **_d_k_**). Based on these three vectors the self-attention layers calculates the three matrices **_W_Q_**, **_W_K_** and **_W_V_**. With these three matrices we can calulate the attention weigths (the output matrix of the attention layer).
 
@@ -509,7 +509,7 @@ The self-attention function can be described as mapping a query (**_W_Q_**) and 
 
 ![](https://miro.medium.com/v2/resize:fit:1368/1*glkmu3PCc8oISSO43-lEdg.png)
 
-_Fig.18 — Overview of the self-attention mechanism_
+_Fig.18 - Overview of the self-attention mechanism_
 
 ### 5.3 Multi-head attention mechanism
 
@@ -523,7 +523,7 @@ where:
 
 ![](https://miro.medium.com/v2/resize:fit:874/1*mHWENrcV7kAF-81OCWqhNw.png)
 
-_Fig.19 — Overview of the multi-head attention mechanism_
+_Fig.19 - Overview of the multi-head attention mechanism_
 
 ## 6. Transformers
 
@@ -537,7 +537,7 @@ The transformer architecture is a stackwise architecture, it is simply possible 
 
 ![](https://miro.medium.com/v2/resize:fit:1400/1*GDpDsoqIKFpg4L0jIYEdMg.png)
 
-_Fig.20 — Overview of the transformer model_
+_Fig.20 - Overview of the transformer model_
 
 #### 6.1.1 Positional encoding
 
@@ -571,7 +571,7 @@ In the transformer, residual connections are used after each multi-head attentio
 
 ![](https://miro.medium.com/v2/resize:fit:1140/1*6WlIo8W1_Qc01hjWdZy-1Q.png)
 
-_Fig.21 — Residual block_
+_Fig.21 - Residual block_
 
 #### 6.1.4 Layer normalization
 
@@ -594,7 +594,7 @@ OpenAI was reaching the goal of using a GPT model on a downstream task without f
 
 ![](https://miro.medium.com/v2/resize:fit:1400/1*9p0wMj_k8Gdmxaknhm1H6w.jpeg)
 
-_Fig.22 — Symbolic example of the different learning approaches in the GPT models_
+_Fig.22 - Symbolic example of the different learning approaches in the GPT models_
 
 The main goal of OpenAI is to generalize the concept of understanding language to any downstream taks. Therefore the training is highly intensive and requires a hugh amount of data, because the GPT model rapidly envolved from 117M parameters (GPT-2 small) to 345M parameters (GPT-2 medium) to 762M parameters (GPT-2 large) and 1,542M parameters (GPT-2 extra large).. The newst GPT-3 model has incredible 1.5 billion parameters.
 
@@ -602,7 +602,7 @@ All GPT model uses only the decoder part of the original transformer architectur
 
 ![](https://miro.medium.com/v2/resize:fit:382/1*Ei9bP_ZaAUJ5iTsC8mFnsw.png)
 
-_Fig.23 — Overview of the GPT model archtiecture_
+_Fig.23 - Overview of the GPT model archtiecture_
 
 ### 6.3 BERT (Bidirectional encoder representations from transformers)
 
@@ -644,7 +644,7 @@ The usage of a BERT model for a specific downstream taks is relatively straightf
 
 ![](https://miro.medium.com/v2/resize:fit:1400/1*-LA8h0eXRZKlzFvrxtsm2w.jpeg)
 
-_Fig.24 — Two steps of using a BERT Transformer_
+_Fig.24 - Two steps of using a BERT Transformer_
 
 #### 6.3.2 Comparison of the different models
 
@@ -652,7 +652,7 @@ Figure 25 below, shows the main differences in pre-training model architectures.
 
 ![](https://miro.medium.com/v2/resize:fit:1400/1*MtFDXtosIeq4tuBdEG9pQA.jpeg)
 
-_Fig.25 — Two steps of using a BERT Transformer_
+_Fig.25 - Two steps of using a BERT Transformer_
 
 ## 7. Practical Example
 
@@ -660,4 +660,4 @@ Check out the following Github repository, this blog can also be found there as 
 
 [https://github.com/robinvetsch/Transformer_SQUAD](https://github.com/robinvetsch/Transformer_SQUAD).
 
-[NLP — From Word Embedding to Transformers | by Robin | Medium](https://medium.com/@RobinVetsch/nlp-from-word-embedding-to-transformers-76ae124e6281)
+[NLP - From Word Embedding to Transformers | by Robin | Medium](https://medium.com/@RobinVetsch/nlp-from-word-embedding-to-transformers-76ae124e6281)

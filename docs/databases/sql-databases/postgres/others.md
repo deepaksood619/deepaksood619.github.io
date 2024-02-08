@@ -115,7 +115,7 @@ https://github.com/yandex/odyssey
 
 [GitHub - zalando/patroni: A template for PostgreSQL High Availability with Etcd, Consul, ZooKeeper, or Kubernetes](https://github.com/zalando/patroni)
 
-[Introduction — Patroni 3.2.2 documentation](https://patroni.readthedocs.io/en/latest/)
+[Introduction - Patroni 3.2.2 documentation](https://patroni.readthedocs.io/en/latest/)
 
 [High Availability PostgreSQL Cluster using Patroni and HAProxy](https://jfrog.com/community/devops/highly-available-postgresql-cluster-using-patroni-and-haproxy/)
 

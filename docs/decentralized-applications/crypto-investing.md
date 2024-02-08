@@ -32,7 +32,7 @@
 - [Blockchair - Universal blockchain explorer and search engine](https://blockchair.com/)
 - [Uniswap Info v1](https://info.uniswap.org/#/)
 - [Uniswap Info v2](https://v2.info.uniswap.org/#/)
-- [Top Crypto Coins by Total Value Locked — TradingView — India](https://in.tradingview.com/markets/cryptocurrencies/prices-highest-total-value-locked/)
+- [Top Crypto Coins by Total Value Locked - TradingView - India](https://in.tradingview.com/markets/cryptocurrencies/prices-highest-total-value-locked/)
 - [Largest Blockchains in Crypto Ranked by TVL | CoinMarketCap](https://coinmarketcap.com/chain-ranking/)
 
 ### Others

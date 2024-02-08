@@ -30,4 +30,4 @@ BSON, however, is the binary encoding that MongoDB uses to store its documents. 
 
 [Capped collections](https://docs.mongodb.com/manual/reference/glossary/#term-capped-collection) are fixed-size collections that support high-throughput operations that insert and retrieve documents based on insertion order. Capped collections work in a way similar to circular buffers: once a collection fills its allocated space, it makes room for new documents by overwriting the oldest documents in the collection.
 
-[Capped Collections — MongoDB Manual](https://docs.mongodb.com/manual/core/capped-collections)
+[Capped Collections - MongoDB Manual](https://docs.mongodb.com/manual/core/capped-collections)

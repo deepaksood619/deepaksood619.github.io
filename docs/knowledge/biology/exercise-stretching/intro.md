@@ -143,4 +143,4 @@ https://www.runnersworld.com/health-injuries/a20809473/five-exercises-to-do-befo
 
 [Exercise Makes You Smarter - This Is Why (animated) - YouTube](https://www.youtube.com/watch?v=D4UKd1iOUeo)
 
-[Grow your brain by moving your body—just 10 minutes a day | Wendy Suzuki - YouTube](https://www.youtube.com/watch?v=vlDUW9f8wIs)
+[Grow your brain by moving your body-just 10 minutes a day | Wendy Suzuki - YouTube](https://www.youtube.com/watch?v=vlDUW9f8wIs)

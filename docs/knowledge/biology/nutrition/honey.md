@@ -22,7 +22,7 @@
 20. The honey bee is a crucial part of our ecosystem. Without their help, over a third of all food eaten in America wouldn't exist.
 21. Honey should be a key ingredient in shampoos. Cleopatra did it. Why shouldn't we?
 22. Bees communicate with other bees by dancing. That's how they signal where the best flowers are. Seems familiar...
-23. Honey is a source of flavanoids and phenolic acids — antioxidants which have been studied to have incredible anti-inflammatory and even anti-cancer properties.
+23. Honey is a source of flavanoids and phenolic acids - antioxidants which have been studied to have incredible anti-inflammatory and even anti-cancer properties.
 24. The hexagonal shape of honeycomb cells is a MARVEL. How did they know to use hexagons? Hexagons are the most efficient shape to store the maximum amount of honey with the least amount of wax needed to build. Geniuses.
 
 ### To the anti-honey community

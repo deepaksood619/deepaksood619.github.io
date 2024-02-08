@@ -15,6 +15,7 @@
 - [Load Balancing Algorithms](devops/devops-intro/load-balancing-algorithms.md)
 - [Load Balancer Features](devops/devops-intro/load-balancer-features.md)
 - [Load Balancer Tools](load-balancer-tools)
+- [High Availability](devops/devops-intro/high-availability.md)
 - [Disaster Recovery](disaster-recovery)
 - [Feature Toggles / Flags](feature-toggles-flags)
 - [Others](devops/devops-intro/others.md)
