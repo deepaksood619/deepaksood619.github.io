@@ -45,7 +45,7 @@ Data source filters in Tableau are mainly used to restrict sensitive data from v
 
 ## Overlays
 
-[Create a dashboard overlay — ENTIRELY in Tableau | by Brittany Rosenau | Aug, 2023 | Medium](https://brittanyrosenau.medium.com/create-a-dashboard-overlay-entirely-in-tableau-a8e9543979e5)
+[Create a dashboard overlay - ENTIRELY in Tableau | by Brittany Rosenau | Aug, 2023 | Medium](https://brittanyrosenau.medium.com/create-a-dashboard-overlay-entirely-in-tableau-a8e9543979e5)
 
 ## Legends
 

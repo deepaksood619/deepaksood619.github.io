@@ -125,7 +125,7 @@ The **impossible trinity** (also known as **the impossible [trilemma](https://en
 
 ## Links
 
-- [Finshots Recap — The best stories on economics](https://finshots.in/archive/recap-2022-the-best-stories-on-economics/)
+- [Finshots Recap - The best stories on economics](https://finshots.in/archive/recap-2022-the-best-stories-on-economics/)
 - [Data Update 1 for 2023: Setting the table](https://www.youtube.com/watch?v=RKJ1c442AcY)
 - [Data Update 4 for 2023: Country Risk](https://www.youtube.com/watch?v=qLm-JNEmWBA)
 - [Data Update 5 for 2023: Profitability, Returns and Value](https://www.youtube.com/watch?v=qfssMonQ8Ek)

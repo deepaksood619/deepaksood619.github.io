@@ -35,7 +35,7 @@ BRIN works in terms of _block ranges_ (or “page ranges”). A block range 
 
 [PostgreSQL: Documentation: 16: 71.1. Introduction](https://www.postgresql.org/docs/current/brin-intro.html)
 
-[Postgres BRIN Index — Large Data Performance With Minimal Storage | by Eresh Gorantla | Geek Culture | Medium](https://medium.com/geekculture/postgres-brin-index-large-data-performance-with-minimal-storage-4db6b9f64ca4)
+[Postgres BRIN Index - Large Data Performance With Minimal Storage | by Eresh Gorantla | Geek Culture | Medium](https://medium.com/geekculture/postgres-brin-index-large-data-performance-with-minimal-storage-4db6b9f64ca4)
 
 [Block Range Index - Wikipedia](https://en.wikipedia.org/wiki/Block_Range_Index)
 

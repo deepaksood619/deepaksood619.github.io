@@ -28,7 +28,7 @@ Finally, the **decoder** receives the output of the **encoder component** and al
 
 During training, the model is presented with pairs of sentences, some of which are consecutive in the original text, and some of which are not. The model is then trained to predict whether a given pair of sentences are adjacent or not. This allows the model to **understand longer-term dependencies across sentences**.
 
-Researchers have found that without **NSP**, **BERT** performs worse on every single metric — so its use it’s relevant to language modeling.
+Researchers have found that without **NSP**, **BERT** performs worse on every single metric - so its use it’s relevant to language modeling.
 
 ## How can you _evaluate the performance_ of Language Models?
 

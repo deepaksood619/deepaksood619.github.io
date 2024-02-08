@@ -481,7 +481,7 @@ You understand an idea not when you've memorized it, but when you know why its s
 - [Augmenting Long term Memory - Michael Nielsen (The Accelerated Learning Canon) - YouTube](https://www.youtube.com/watch?v=o0-iULLKlfA)
 - [Critical Listening: How to Quickly Understand Difficult Things - YouTube](https://www.youtube.com/watch?v=UlMCTUvxa78)
 - [You’re Not Stupid: How to Easily Learn Difficult Things - YouTube](https://www.youtube.com/watch?v=Kz_brQBl8xk)
-- [The human memory—facts and information](https://www.nationalgeographic.com/science/article/human-memory)
+- [The human memory-facts and information](https://www.nationalgeographic.com/science/article/human-memory)
 - [My New Learning Mindsets - YouTube](https://www.youtube.com/watch?v=tBL5X-6h7KY)
 - [Asking Questions - Level 1 - Observational Questions - YouTube](https://www.youtube.com/watch?v=J_TVEPxFWAg)
 - [Developing and Using Models - Level 1 - Models - YouTube](https://www.youtube.com/watch?v=p29JLoDVbgA)

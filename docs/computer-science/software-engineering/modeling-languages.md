@@ -73,3 +73,45 @@ A swimlane (or swimlane diagram) is used in [process flow diagrams](https://en.w
 ![image](../../media/Software-Coding-Development-Engineering-image4.jpg)
 
 https://en.wikipedia.org/wiki/Swim_lane
+
+## C4 modeling technique
+
+C4 modeling technique helps us to view the solution in a top-down fashion. Starting from the bigger picture and then diving deeper into the details. According to C4, there are four levels of a system.
+
+![](https://miro.medium.com/v2/resize:fit:1400/1*z_HMG7ZO-7KT3m9J6nT7sA.png)
+
+### Level 1 - Context (System) Diagram
+
+This is the bird’s eye view of the system. It defines what a system is, what it does, which other systems it interacts with, and who uses the system. Essentially it scopes the solution to who is/are the user(s) and what problem(s) is/are being solved by it.
+
+![](https://miro.medium.com/v2/resize:fit:1400/0*yzIZt48FFGwA6E2p.png)
+
+### Level 2 - Container Diagram
+
+Container here refers to any Web Application, mobile application, serverless function, database, microservices, etc that a system would use. It is the zoomed-in view of a part of a software system. Each of these applications or services is represented with a container and the interactions between them are shown at a high level.
+
+![](https://miro.medium.com/v2/resize:fit:1400/0*knfHKfJvqJ6NVeTx.png)
+
+### Level 3 - Component Diagram
+
+Next we can zoom in and decompose each container further to identify the major structural building blocks and their interactions.
+
+The Component diagram shows how a container is made up of a number of “components”, what each of those components are, their responsibilities, and the technology/implementation details.
+
+![](https://miro.medium.com/v2/resize:fit:1400/0*bFxAyIzdsGVRuMsd.png)
+
+### Level 4 - Code Diagrams
+
+If we dig deeper, then we can see how each component is implemented as code use diagrams such as entity-relationship diagrams, class diagrams, etc.
+
+This is usually a little too much detail, so we try to focus on the attributes and methods which allow us to tell the story of the component. Unnecessary details are omitted.
+
+Mostly, the Level 4 diagram is only created when needed and the top 3 diagrams suffice the need.
+
+![](https://miro.medium.com/v2/resize:fit:1400/0*cXnTHiSiKJ6XD1XX.png)
+
+C4 modeling is a great way to design software. Not just for documenting the software, but it allows us to dig into the problem from a top-down approach which allows clarity in thought leading to better solutions.
+
+[C4 Modeling - Do you see what I see | by Ipinder Singh | Medium](https://ipindersinghsuri.medium.com/c4-modelling-do-you-see-what-i-see-47b82adc9ba1)
+
+[The C4 model for visualising software architecture](https://c4model.com/)

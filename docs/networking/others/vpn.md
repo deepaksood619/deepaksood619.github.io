@@ -137,7 +137,7 @@ Cloudflare Zero Trust replaces legacy security perimeters with our global networ
 
 [Cloudflare Zero Trust · Cloudflare Zero Trust docs](https://developers.cloudflare.com/cloudflare-one/)
 
-[WARP | 1.1.1.1 — The free app that makes your Internet faster.](https://1.1.1.1/)
+[WARP | 1.1.1.1 - The free app that makes your Internet faster.](https://1.1.1.1/)
 
 ## Pritunl
 

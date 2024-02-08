@@ -6,7 +6,7 @@
 - [State of Crypto 2023 - Google Slides](https://docs.google.com/presentation/d/1_bRyqC8MVjeAmGpOtmhpJydHsxoWWU0wWKsacdx9ovM/edit)
 - [2023 State of Crypto Report: Introducing the State of Crypto Index - a16z crypto](https://a16zcrypto.com/content/article/state-of-crypto-report-2023/)
 - [The Narrative Wedge - by Joel John - Decentralised.co](https://www.decentralised.co/p/the-narrative-wedge)
-- [Lido Finance — The Most Liquid Staking Protocol | by Arthur0x | Aug, 2023 | DeFiance Capital](https://writing.defiance.capital/lido-finance-the-most-liquid-staking-protocol-6033c01a94f2)
+- [Lido Finance - The Most Liquid Staking Protocol | by Arthur0x | Aug, 2023 | DeFiance Capital](https://writing.defiance.capital/lido-finance-the-most-liquid-staking-protocol-6033c01a94f2)
 
 ### Sources
 

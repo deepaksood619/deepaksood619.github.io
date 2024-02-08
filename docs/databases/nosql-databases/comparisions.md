@@ -2,7 +2,7 @@
 
 [Druid FAQs / Comparisions](databases/nosql-databases/druid/faqs.md)
 
-[ClickBench — a Benchmark For Analytical DBMS](https://benchmark.clickhouse.com/)
+[ClickBench - a Benchmark For Analytical DBMS](https://benchmark.clickhouse.com/)
 
 ### Clickhouse vs Snowflake
 
@@ -27,43 +27,43 @@ ClickHouse is designed for real-time data analytics and exploration at scale. Sn
 
 #### Snowflake Pros
 
-- **Scalable storage and compute** — Snowflake can scale storage and compute independently to handle any workload.
-- **Performance** — Snowflake offers fast query processing and ability to run multiple concurrent workloads. It also has built-in caching and micro-partitioning for better performance.
-- **Security** — Snowflake provides robust security with encryption, network policies, access controls, and regulatory compliance.
-- **Full Availability** — Data is stored redundantly across multiple cloud providers and availability zones. Snowflake also offers features like [Time Travel](https://www.chaosgenius.io/blog/snowflake-time-travel/) and [Fail-safe](https://www.chaosgenius.io/blog/snowflake-storage-costs/#how-do-snowflake-storage-costs-work) for data recovery.
-- **Flexible pricing** — Pay only for storage and compute used per second. Auto-scaling and auto-suspend features further optimize costs.
-- **Ease of use** — Snowflake uses standard SQL and has an intuitive UI. Easy to set up and use even for non-technical users.
-- **Robust Ecosystem** — Broad set of tools, drivers, and partners integrate natively with Snowflake.
+- **Scalable storage and compute** - Snowflake can scale storage and compute independently to handle any workload.
+- **Performance** - Snowflake offers fast query processing and ability to run multiple concurrent workloads. It also has built-in caching and micro-partitioning for better performance.
+- **Security** - Snowflake provides robust security with encryption, network policies, access controls, and regulatory compliance.
+- **Full Availability** - Data is stored redundantly across multiple cloud providers and availability zones. Snowflake also offers features like [Time Travel](https://www.chaosgenius.io/blog/snowflake-time-travel/) and [Fail-safe](https://www.chaosgenius.io/blog/snowflake-storage-costs/#how-do-snowflake-storage-costs-work) for data recovery.
+- **Flexible pricing** - Pay only for storage and compute used per second. Auto-scaling and auto-suspend features further optimize costs.
+- **Ease of use** - Snowflake uses standard SQL and has an intuitive UI. Easy to set up and use even for non-technical users.
+- **Robust Ecosystem** - Broad set of tools, drivers, and partners integrate natively with Snowflake.
 
 #### Snowflake Cons
 
-- **Cost** — Can be more expensive than alternatives like Redshift for some workloads. Costs can add up quickly if usage isn't monitored and optimized.
-- **Limited community** — Smaller user community compared to competitors. Less third-party support available.
-- **Data streaming** — Snowflake's data streaming capabilities via Snowpipe and Stream are still maturing. Additional ETL tools are often required.
+- **Cost** - Can be more expensive than alternatives like Redshift for some workloads. Costs can add up quickly if usage isn't monitored and optimized.
+- **Limited community** - Smaller user community compared to competitors. Less third-party support available.
+- **Data streaming** - Snowflake's data streaming capabilities via Snowpipe and Stream are still maturing. Additional ETL tools are often required.
 - **Unstructured data**  Mainly optimized for semi-structured and structured data. Limited support for unstructured data workloads.
-- **On-premises support** — Snowflake has traditionally been cloud-only. On-prem support is still new and limited.
-- **Vendor lock-in** — Not as multi-cloud as claimed. Significant benefits from tight integration with major cloud vendors.
+- **On-premises support** - Snowflake has traditionally been cloud-only. On-prem support is still new and limited.
+- **Vendor lock-in** - Not as multi-cloud as claimed. Significant benefits from tight integration with major cloud vendors.
 
 #### Databricks Pros
 
-- **Unified analytics platform** — Databricks provides a unified platform for data engineering, data science, and machine learning workflows on an open data lake house architecture.
-- **Broad technology integrations** — It natively integrates open source technologies like Apache Spark, Delta Lake, MLflow, and Koalas, avoiding vendor lock-in.
-- **Auto-scaling compute** — Databricks auto-scales cluster resources optimized for big data workloads, saving on costs.
-- **Security capabilities** — It offers enterprise-grade security with access controls, encryption, VPC endpoints, auditing trails, and more!!!
-- **Collaboration features** — Databricks enables collaboration through shared notebooks, dashboards, ML models, and data via Delta Sharing.
-- **ML lifecycle management** — End-to-end ML lifecycle managed via Model Registry, Feature Store, Hyperparameter Tuning, and MLflow.
-- **Open data sharing** — Delta Sharing protocol allows open data exchange across organizations.
-- **Extensive documentation** — Detailed documentation and an active community for support.
+- **Unified analytics platform** - Databricks provides a unified platform for data engineering, data science, and machine learning workflows on an open data lake house architecture.
+- **Broad technology integrations** - It natively integrates open source technologies like Apache Spark, Delta Lake, MLflow, and Koalas, avoiding vendor lock-in.
+- **Auto-scaling compute** - Databricks auto-scales cluster resources optimized for big data workloads, saving on costs.
+- **Security capabilities** - It offers enterprise-grade security with access controls, encryption, VPC endpoints, auditing trails, and more!!!
+- **Collaboration features** - Databricks enables collaboration through shared notebooks, dashboards, ML models, and data via Delta Sharing.
+- **ML lifecycle management** - End-to-end ML lifecycle managed via Model Registry, Feature Store, Hyperparameter Tuning, and MLflow.
+- **Open data sharing** - Delta Sharing protocol allows open data exchange across organizations.
+- **Extensive documentation** - Detailed documentation and an active community for support.
 
 #### Databricks Cons
 
-- **Steep learning curve** — Especially for non-programmers given the complexity in setup and cluster management.
-- **Scala-first development** — Primary language Scala has a smaller talent pool than Python/R.
-- **Expensive pricing** — Can get expensive at scale if resource usage isn't optimized and monitored closely.
-- **Small open source community** — Not as large as Apache Spark and other open source projects.
-- **Limited no-code support** — Drag-and-drop interfaces are limited compared to dedicated BI/analytics platforms.
-- **Data ingestion gaps** — Data ingestion and streaming capabilities aren't as comprehensive as specialized tools.
-- **Inconsistent multi-cloud support** — Some capabilities like Delta Sharing and MLflow don't work across all clouds uniformly.
+- **Steep learning curve** - Especially for non-programmers given the complexity in setup and cluster management.
+- **Scala-first development** - Primary language Scala has a smaller talent pool than Python/R.
+- **Expensive pricing** - Can get expensive at scale if resource usage isn't optimized and monitored closely.
+- **Small open source community** - Not as large as Apache Spark and other open source projects.
+- **Limited no-code support** - Drag-and-drop interfaces are limited compared to dedicated BI/analytics platforms.
+- **Data ingestion gaps** - Data ingestion and streaming capabilities aren't as comprehensive as specialized tools.
+- **Inconsistent multi-cloud support** - Some capabilities like Delta Sharing and MLflow don't work across all clouds uniformly.
 
 #### Conclusion
 

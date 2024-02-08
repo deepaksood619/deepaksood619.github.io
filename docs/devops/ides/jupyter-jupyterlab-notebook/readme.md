@@ -266,4 +266,4 @@ https://engineering.fb.com/2022/04/26/developer-tools/sql-notebooks
 
 ## Others
 
-[GitHub - marimo-team/marimo: A reactive notebook for Python — run reproducible experiments, execute as a script, deploy as an app, and version with git.](https://github.com/marimo-team/marimo)
+[GitHub - marimo-team/marimo: A reactive notebook for Python - run reproducible experiments, execute as a script, deploy as an app, and version with git.](https://github.com/marimo-team/marimo)

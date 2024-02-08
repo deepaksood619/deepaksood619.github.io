@@ -1,8 +1,8 @@
 # Peer to Peer Networks
 
-A **P2P** network is a type of network in which different computers communicate with each other directly without the need for a central server. The peer in the term indicates that all participating computers/systems are equal. These computers are also called **nodes**. 
+A **P2P** network is a type of network in which different computers communicate with each other directly without the need for a central server. The peer in the term indicates that all participating computers/systems are equal. These computers are also called **nodes**.
 
-In a traditional network architecture (known as the **client-server architecture**), there is usually one server and multiple clients. If two clients want to communicate with each other, the message has to first reach the server and then the server sends the message to the second client. 
+In a traditional network architecture (known as the **client-server architecture**), there is usually one server and multiple clients. If two clients want to communicate with each other, the message has to first reach the server and then the server sends the message to the second client.
 
 ![](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3607f1e7-ceb6-4324-ae98-ebb8edae0518_1600x606.png?utm_source=substack&utm_medium=email)
 
@@ -18,7 +18,7 @@ We would like to discuss how the P2P networks operate, but before we do that, it
 
 ### Pure P2P model
 
-In this model, there is no central server or authority, and each node can act both as a client and a server. 
+In this model, there is no central server or authority, and each node can act both as a client and a server.
 
 ![](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fda98af07-8143-476a-a977-4ba7698a6de1_1254x1233.jpeg?utm_source=substack&utm_medium=email)
 
@@ -36,7 +36,7 @@ A blockchain-based Peer-to-Peer model refers to a decentralized network architec
 
 ## How the P2P network operates
 
-Now, we are all set to discuss how a typical P2P network operates. As discussed earlier, the P2P network is an example of a decentralized architecture where each node has equal status and is capable of both requesting and providing resources or services. P2P networks can be used for various applications, including file sharing, communication, distributed computing, and more. 
+Now, we are all set to discuss how a typical P2P network operates. As discussed earlier, the P2P network is an example of a decentralized architecture where each node has equal status and is capable of both requesting and providing resources or services. P2P networks can be used for various applications, including file sharing, communication, distributed computing, and more.
 
 Here is a general overview of how a P2P network operates.
 
@@ -53,9 +53,9 @@ Take the example of _**Bitcoin**_, when a Bitcoin client starts, it checks its 
 
 ### Discovery and Connection
 
-After the node initialization, it needs a way to discover and connect with other nodes in the network. There are different methods for peer discovery in a P2P network. Some of the methods are discussed below. 
+After the node initialization, it needs a way to discover and connect with other nodes in the network. There are different methods for peer discovery in a P2P network. Some of the methods are discussed below.
 
-**Centralized Server / Tracker Server:** In this method, there is a central server that has information about all nodes in the network. When a new node wants to join the P2P network, it first contacts the central server which provides the new node the information about other peers. The new node can then communicate directly with other nodes. This method may seem like client-server architecture. However, the server is only used for peer discovery and not for actual communication since after peer discovery, the communication among peers occurs directly. 
+**Centralized Server / Tracker Server:** In this method, there is a central server that has information about all nodes in the network. When a new node wants to join the P2P network, it first contacts the central server which provides the new node the information about other peers. The new node can then communicate directly with other nodes. This method may seem like client-server architecture. However, the server is only used for peer discovery and not for actual communication since after peer discovery, the communication among peers occurs directly.
 
 The central server is also called a tracker in some P2P applications that maintains a list of active peers in the network. All existing peers periodically communicate with the tracker to confirm their availability and get a fresh list of all available peers. The hybrid P2P model utilizes this approach.
 
@@ -65,9 +65,9 @@ The central server is also called a tracker in some P2P applications that mainta
 
 ![](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F84b31c04-3971-4c43-b289-22f4955c8a9b_849x873.jpeg?utm_source=substack&utm_medium=email)
 
-**Broadcasting and Multicasting:** Nodes may broadcast their presence or send multicast messages to the network. Other nodes can listen to these broadcasts or messages to discover peers. This method is more common in smaller, local P2P networks. 
+**Broadcasting and Multicasting:** Nodes may broadcast their presence or send multicast messages to the network. Other nodes can listen to these broadcasts or messages to discover peers. This method is more common in smaller, local P2P networks.
 
-For example, when a node sends a broadcast file request to the network, all peers who can provide the file send the message to the requester node. The node then chooses the specific peer to get the file from. 
+For example, when a node sends a broadcast file request to the network, all peers who can provide the file send the message to the requester node. The node then chooses the specific peer to get the file from.
 
 ![](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc54c7813-4f09-4d9b-8684-cde9a531876d_1488x1110.jpeg?utm_source=substack&utm_medium=email)
 
@@ -77,7 +77,7 @@ Peers in a P2P network share resources directly with each other. Resources can i
 
 ### Routing and Lookup
 
-Every node maintains a lookup table (also called a routing table) where it stores the node information (IP, Port, and ID) of the closest peers it knows of. The implementation for lookup tables varies based on the topology, but all share a common principle - they enable nodes to identify the peer closest to any given node ID. If the peer has the data it will route it back to the query originator, if not, it will route the query to the closest node it has on its lookup table, this process continues recursively until the node that has the data is found. 
+Every node maintains a lookup table (also called a routing table) where it stores the node information (IP, Port, and ID) of the closest peers it knows of. The implementation for lookup tables varies based on the topology, but all share a common principle - they enable nodes to identify the peer closest to any given node ID. If the peer has the data it will route it back to the query originator, if not, it will route the query to the closest node it has on its lookup table, this process continues recursively until the node that has the data is found.
 
 Depending on the P2P protocol, there exist different metrics to define the distance between the node ID of two peers. For example, the very popular peer-to-peer protocol _**Kademlia**_ uses the XOR-metric.
 
@@ -115,7 +115,7 @@ In P2P systems, users may enjoy increased privacy and anonymity as they communic
 
 ## Challenges in P2P network
 
-Let’s now discuss, some of the challenges in P2P networks. 
+Let’s now discuss, some of the challenges in P2P networks.
 
 ### Security concerns
 
@@ -127,7 +127,7 @@ The availability of data in a P2P network depends on the willingness and availab
 
 ### Legal and copyright issues
 
-P2P networks are known to share and spread copyrighted material. Sharing copyrighted material can lead users to legal issues. 
+P2P networks are known to share and spread copyrighted material. Sharing copyrighted material can lead users to legal issues.
 
 For example, _**Metallica**_ (a music band) filed a lawsuit against _**Napster**_ in 2000. Napster was shut down in 2001. In another incident, the alleged owner of one of the biggest torrent sites, i.e., _**kickasstorrents**_, was arrested by the US authorities from Poland back in 2016. Similarly, another famous torrent site for movies _**YIFY Torrents**_ or _**YTS**_ also went down in 2015 after facing a lawsuit from Motion Picture Association of America.
 
@@ -144,14 +144,14 @@ P2P networks are playing a significant role in shaping the Internet's future. Ne
 
 P2P networks have gained traction in recent years when it comes to file sharing and cryptocurrency. With the advent of _**DeFi**_ (decentralized finance) on blockchain, the future of P2P networks looks greener than ever. DeFi platforms allow people to lend or borrow funds from others without relying on any financial institute or brokerage. The most prominent blockchain that supports DeFi is the _**Ethereum**_ blockchain.
 
-Furthermore, P2P could play a role in how our smart devices communicate. Imagine your smart fridge and coffee maker having a direct chit-chat without involving a server. They might even plan your breakfast together. Sounds fun! isn’t it? 
+Furthermore, P2P could play a role in how our smart devices communicate. Imagine your smart fridge and coffee maker having a direct chit-chat without involving a server. They might even plan your breakfast together. Sounds fun! isn’t it?
 
 ## Summary
 
 - P2P networks follow decentralized architecture where inherently there is no central server acting as authority.
 - We have discussed the different models of P2P networks such as pure, hybrid, and blockchain-based P2P networks.
 - A detailed description of how a generic P2P network operates is discussed in this issue.
-- We have presented the advantages and challenges of P2P networks, together with some of the instances of the legal and copyright issues faced by P2P applications in the past. 
+- We have presented the advantages and challenges of P2P networks, together with some of the instances of the legal and copyright issues faced by P2P applications in the past.
 - The future of the P2P network looks brighter than ever with the advent of blockchain and DeFi technologies.
 
 https://skerritt.blog/designing-effective-peer-to-peer-networks

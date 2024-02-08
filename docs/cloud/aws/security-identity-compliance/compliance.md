@@ -19,6 +19,8 @@ SOC 2 compliance may help organizations avoid data breaches and the financial an
 
 SOC 2, aka **Service Organization Control Type 2**, is a cybersecurity compliance framework developed by the American Institute of Certified Public Accountants (AICPA). The primary purpose of SOC 2 is to ensure that third-party service providers store and process client data in a secure manner.
 
+[SOC Compliance - Amazon Web Services (AWS)](https://aws.amazon.com/compliance/soc-faqs/)
+
 ### SOC 2 Type 1 vs Type 2
 
 There are two main types of SOC 2 compliance: _Type 1_ and _Type 2_.

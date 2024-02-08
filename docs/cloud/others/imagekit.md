@@ -14,6 +14,22 @@
 - [Progressive JPEGs - ImageKit.io Docs](https://docs.imagekit.io/features/progressive-jpegs)
 - [Webhooks - ImageKit.io Docs](https://docs.imagekit.io/api-reference/api-introduction/webhooks)
 - [Upload files - ImageKit.io Docs](https://docs.imagekit.io/media-library/overview/upload-files)
+- [Digital Asset Storage and Management | ImageKit.io](https://imagekit.io/features/digital-asset-storage/)
+
+### Bulk Upload
+
+- [How to bulk upload images in ImageKit? | ImageKit Help Center](https://help.imagekit.io/en/articles/2558077-how-to-bulk-upload-images-in-imagekit)
+- [Amazon S3 bucket - ImageKit.io Docs](https://docs.imagekit.io/integration/configure-origin/amazon-s3-bucket-origin)
+- [S3 Compatible External Storages - ImageKit.io Docs](https://docs.imagekit.io/integration/configure-origin/s3-compatible-external-storages)
+
+#### Question
+
+For optimizing the upload process of a huge size of images with a lot of images, what is the way to go, where uploads are distributed throughout the world?
+
+1. We should upload to S3 using S3 presigned URLs and serve those images via imagekit, by connecting to S3 bucket using external storage?
+2. Upload to imagekit directly using it's react library and authenticationEndpoint and don't use S3?
+
+Currently we are sending images to backend, and backend uploads to imagekit, which is not a good scalable method, so we will migrate to one of the above methods.
 
 ### Optimizations
 

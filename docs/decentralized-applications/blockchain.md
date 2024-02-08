@@ -190,7 +190,7 @@ Layering - Tumblr / Mixers
 
 [GitHub - 0xperp/awesome-blockspace: Overview of Blockspace its demand, pricing, and trading](https://github.com/0xperp/awesome-blockspace)
 
-[Ramblings on Blockspace — Nate](https://mirror.xyz/0x0C23E0dE114d28112f52203cb9583B9826b05dDe/UG0YC5cmw1Ib2DiOivp22suh6gZJyMqVoR3mhu8M2b8)
+[Ramblings on Blockspace - Nate](https://mirror.xyz/0x0C23E0dE114d28112f52203cb9583B9826b05dDe/UG0YC5cmw1Ib2DiOivp22suh6gZJyMqVoR3mhu8M2b8)
 
 ## Links
 

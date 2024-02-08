@@ -29,7 +29,7 @@ https://www.exifdata.com
 
 In a number of tests by [Netflix](https://en.wikipedia.org/wiki/Netflix "Netflix") in 2020, AVIF showed better compression efficiency than [JPEG](https://en.wikipedia.org/wiki/JPEG "JPEG") as well as better detail preservation, fewer blocking artifacts and less [color bleeding](https://en.wikipedia.org/wiki/Color_bleeding_(printing) "Color bleeding (printing)") around hard edges in composites of natural images, text, and graphics.
 
-AV1 Image File Format (AVIF) is an encoding based on the open source AV1 video codec. AVIF is [even newer](https://caniuse.com/avif)—than WebP, only supported in Chrome and Opera since 2020, Firefox in 2021, and Safari in 2022. As with WebP, AVIF aims to address every conceivable use case for raster images on the web: GIF-like animation, PNG-like transparency, and improved perceptual quality at file sizes smaller than JPEG or WebP.
+AV1 Image File Format (AVIF) is an encoding based on the open source AV1 video codec. AVIF is [even newer](https://caniuse.com/avif)-than WebP, only supported in Chrome and Opera since 2020, Firefox in 2021, and Safari in 2022. As with WebP, AVIF aims to address every conceivable use case for raster images on the web: GIF-like animation, PNG-like transparency, and improved perceptual quality at file sizes smaller than JPEG or WebP.
 
 - No progressive rendering
 - AVIF + Blur is good
@@ -83,4 +83,4 @@ http://www.libpng.org/pub/png/apps/pngcheck.html
 
 [How are Images Compressed? [46MB ↘↘ 4.07MB] JPEG In Depth - YouTube](https://www.youtube.com/watch?v=Kv1Hiv3ox8I)
 
-[JPEG vs PNG vs GIF — which image format to use and when? | by Rahul Nanwani | Blog | ImageKit.io](https://blog.imagekit.io/jpeg-vs-png-vs-gif-which-image-format-to-use-and-when-c8913ae3e01d)
+[JPEG vs PNG vs GIF - which image format to use and when? | by Rahul Nanwani | Blog | ImageKit.io](https://blog.imagekit.io/jpeg-vs-png-vs-gif-which-image-format-to-use-and-when-c8913ae3e01d)

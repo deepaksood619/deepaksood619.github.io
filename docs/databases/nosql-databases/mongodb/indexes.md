@@ -4,7 +4,7 @@ Indexes support the efficient execution of queries in MongoDB. Without indexes, 
 
 Indexes are special data structures that store a small portion of the collection's data set in an easy to traverse form. The index stores the value of a specific field or set of fields, ordered by the value of the field. The ordering of the index entries supports efficient equality matches and range-based query operations. In addition, MongoDB can return sorted results by using the ordering in the index.
 
-[Indexes — MongoDB Manual](https://www.mongodb.com/docs/manual/indexes)
+[Indexes - MongoDB Manual](https://www.mongodb.com/docs/manual/indexes)
 
 ### Single Field Index
 
@@ -66,4 +66,4 @@ A TTL index is used to automatically remove documents from a collection after a 
 
 `db.collection.createIndex({ createdAt: 1 }, { expireAfterSeconds: 3600 });`
 
-[TTL Indexes — MongoDB Manual](https://docs.mongodb.com/manual/core/index-ttl)
+[TTL Indexes - MongoDB Manual](https://docs.mongodb.com/manual/core/index-ttl)

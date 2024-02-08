@@ -131,7 +131,7 @@ Maximal extractable value was first applied in the context of proof-of-work, and
 - [MEVconomics for Modular Blockchain Stacks - John Adler - YouTube](https://www.youtube.com/watch?v=Tsg8fiQUdjY&ab_channel=ETHGlobal)
 - [The MEVconomics of bridging - James Prestwich - YouTube](https://www.youtube.com/watch?v=W0ZJ_MamKM4&ab_channel=ETHGlobal)
 - [What is MEV: A beginner’s guide to Ethereum’s invisible tax](https://cointelegraph.com/learn/what-is-mev-ethereums-invisible-tax)
-- [Easy to Use Arbitrage MEV Bot for Uniswap — MEVBot](https://uniarbitrage.com/0x9ea3cda5c2adf0370454b9ee28786a068227b1a4)
+- [Easy to Use Arbitrage MEV Bot for Uniswap - MEVBot](https://uniarbitrage.com/0x9ea3cda5c2adf0370454b9ee28786a068227b1a4)
 
 ### Others
 

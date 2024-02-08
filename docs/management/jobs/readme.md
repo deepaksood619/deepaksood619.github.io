@@ -38,7 +38,7 @@ In early career, taking bets vs random job hopping is critical
 - https://welcome.turing.com
 
 - Job board - [The Pragmatic Engineer Test: 12 Questions on Engineering Culture - The Pragmatic Engineer](https://blog.pragmaticengineer.com/pragmatic-engineer-test/)
-- [Build for everyone — Google Careers](https://www.google.com/about/careers/applications/)
+- [Build for everyone - Google Careers](https://www.google.com/about/careers/applications/)
 - https://cutshort.io/
 - [Jobs in Crypto & Web3 Companies | Crypto Jobs List](https://cryptojobslist.com/)
 - **IIITD AlmaIIITD Alma MaterConnect**

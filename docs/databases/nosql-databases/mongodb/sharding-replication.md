@@ -31,7 +31,7 @@ Starting in version 4.4, [`mongos`](https://www.mongodb.com/docs/manual/referen
 - Hashed Sharding involves computing a hash of the shard key field's value. Each [chunk](https://www.mongodb.com/docs/manual/reference/glossary/#std-term-chunk) is then assigned a range based on the hashed shard key values.
 - Ranged sharding involves dividing data into ranges based on the shard key values. Each [chunk](https://www.mongodb.com/docs/manual/reference/glossary/#std-term-chunk) is then assigned a range based on the shard key values.
 
-[Sharding — MongoDB Manual](https://www.mongodb.com/docs/manual/sharding/)
+[Sharding - MongoDB Manual](https://www.mongodb.com/docs/manual/sharding/)
 
 ## Replication
 
@@ -43,7 +43,7 @@ rs.status()
 db.setProfilingLevel()
 ```
 
-[Troubleshoot Replica Sets — MongoDB Manual](https://www.mongodb.com/docs/manual/tutorial/troubleshoot-replica-sets)
+[Troubleshoot Replica Sets - MongoDB Manual](https://www.mongodb.com/docs/manual/tutorial/troubleshoot-replica-sets)
 
 ### Sharding vs Replicasets
 
@@ -72,4 +72,4 @@ Replica set members in MongoDB can handle read queries. MongoDB allows for diffe
 
 [MongoDB - Replication and Sharding - GeeksforGeeks](https://www.geeksforgeeks.org/mongodb-replication-and-sharding/)
 
-[Replication — MongoDB Manual](https://www.mongodb.com/docs/manual/replication/)
+[Replication - MongoDB Manual](https://www.mongodb.com/docs/manual/replication/)

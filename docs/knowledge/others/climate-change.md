@@ -20,7 +20,7 @@ Earth overshoot day - 27 July
 
 [The Broken Economics of the Oceans - YouTube](https://www.youtube.com/watch?v=73ygHs4Kwcs)
 
-[Finshots Recap — The best stories on climate change](https://finshots.in/archive/recap-2022-climate-change/)
+[Finshots Recap - The best stories on climate change](https://finshots.in/archive/recap-2022-climate-change/)
 
 [What the Fossil Fuel Industry Doesn't Want You To Know | Al Gore | TED - YouTube](https://www.youtube.com/watch?v=xgZC6da4mco)
 
