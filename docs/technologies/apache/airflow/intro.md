@@ -108,9 +108,20 @@ https://www.astronomer.io/blog/7-common-errors-to-check-when-debugging-airflow-d
 
 [Introducing Airflow 2.8](https://www.astronomer.io/blog/introducing-airflow-2-8/)
 
+## Astronomer
+
+[astro deploy | Astronomer Documentation](https://docs.astronomer.io/astro/cli/astro-deploy)
+
+[Astro CI/CD templates for GitHub Actions | Astronomer Documentation](https://docs.astronomer.io/astro/ci-cd-templates/github-actions)
+
+### Deployment
+
+An Astro Deployment is an Airflow environment that is powered by [Astro Runtime](https://docs.astronomer.io/astro/runtime-image-architecture). It runs all core Airflow components, including the Airflow webserver, scheduler, and workers, plus additional tooling for reliability and observability.
+
+[Create a Deployment | Astronomer Documentation](https://docs.astronomer.io/astro/create-deployment)
+
 ## Others
 
-- Astronomer
 - Amazon Managed Apache Airflow [What Is Amazon Managed Workflows for Apache Airflow? - Amazon Managed Workflows for Apache Airflow](https://docs.aws.amazon.com/mwaa/latest/userguide/what-is-mwaa.html)
 
 ![Amazon MWAA Architecture](../../../media/Pasted%20image%2020240109123958.png)

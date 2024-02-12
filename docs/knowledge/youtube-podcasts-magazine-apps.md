@@ -1,28 +1,100 @@
 # Youtube / Podcasts / Magazine / Apps
 
-## Learning
+## Youtube
+
+### General Science
+
+- [Vsauce](https://www.youtube.com/user/Vsauce)(which has grown to include [Vsauce2](https://www.youtube.com/user/Vsauce2/videos) and [Vsauce3](https://www.youtube.com/user/Vsauce3))
+- [Physics Girl](https://www.youtube.com/user/physicswoman)(fun to watch explorations of a wide range of real-world physics and science things)
+- [**Thought Emporium**](https://www.youtube.com/user/TheChemlife)(gene editing through both chemical methods and DNA 3-d printers! And art too)
+- [Scott Manley](https://www.youtube.com/user/szyzyg)(a charming Scottish Astrophysist / Apple engineer with hundreds of great videos on the Kerbal Space Program simulation game, plus now detailed coverage on space and astrophysics)
+- [Anton Petrov](https://www.youtube.com/user/whatdamath)-- daily videos on new discoveries in science (and a fun look at current events from a science perspective too)
+- [Kurzgesagt -- In a Nutshell](https://www.youtube.com/user/Kurzgesagt) Short but intelligent summaries of all sorts of neat things, featuring a dynamic British narrator and fun cartoony graphics.
+- [Deep Dive](https://www.youtube.com/channel/UCFPGKw4jb7CJur6cHmIgI3Q)-- a relatively new but very promising channel with great big-issue science videos.
+- [Stratzenblitz75](https://www.youtube.com/c/Stratzenblitz75/videos) Kerbal Space program videos with nice lessons on the science behind them (like orbital mechanics)
+- [Wendover Productions](https://www.youtube.com/user/Wendoverproductions)-- neat explanations of wide-ranging things, (including transportation logistics!)
+- [Veritasium - YouTube](https://www.youtube.com/@veritasium)
+- [Institute of Human Anatomy - YouTube](https://www.youtube.com/@TheAnatomyLab)
+- [NileRed - YouTube](https://www.youtube.com/@NileRed)
+
+### Inventions and Building Stuff / Engineering
+
+- [Colin Furze](https://www.youtube.com/user/colinfurze)-- crazy, energetic, brilliant videos about building things like a home-made hoverbike, two story bicycle, giant mech robot suit.
+- [Simone Giertz](https://www.youtube.com/channel/UC3KEoMzNz8eYnwBC34RaKCQ)-- a super clever and witty engineer/builder, perhaps most famous for her DIY conversion of a Tesla model 3 into a badass mini pickup truck.
+- [Wintergatan](https://www.youtube.com/user/wintergatan2000)-- a hauntingly genius, gentle dude in Sweden who works on a beautiful "marble machine" musical instrument and so many other things. Awesome musician too!
+- [Mark Rober](https://www.youtube.com/user/onemeeeliondollars)(a former Nasa engineer who now makes really fun videos about his complicated and whimsical inventions -- best known for the "glitter bomb" anti-theft devices)
+- [Styropyro](https://www.youtube.com/user/styropyro)(guy who makes crazy powerful lasers, etc.)
+- [Strange Parts - YouTube](https://www.youtube.com/@StrangeParts)
+- [The Engineering Mindset - YouTube](https://www.youtube.com/@EngineeringMindset)
+- [Factory Monster - YouTube](https://www.youtube.com/@Factory_Monster)
+- [The Infographics Show - YouTube](https://www.youtube.com/@TheInfographicsShow)
+- [AlphaPhoenix - YouTube](https://www.youtube.com/@AlphaPhoenixChannel)
+- [Xprocess - YouTube](https://www.youtube.com/@Process-X/featured)
+
+### Video creation, 3D Animation and Youtubing Strategy
+
+- [Lazy Tutorials](https://www.youtube.com/user/mrdodobird)(Ian Huber teaches you 3-D animation with Blender at the speed of thought). He also maintains the [Default Cube](https://www.youtube.com/channel/UCdpWKLNfbROyoGPV46-zaUQ) channel.
+- [Blender Guru](https://www.youtube.com/user/AndrewPPrice)-- personable, easy to watch in-depth blender tutorials
+- [CG Matter](https://www.youtube.com/channel/UCy1f4m64dwCwk8CBZ_vHfPg)-- fast, advanced Blender tutorials
+- [CG Geek](https://www.youtube.com/results?search_query=cg+geek)-- longer, more detailed Blender tutorials
+- [Captain Disillusion](https://www.youtube.com/user/CaptainDisillusion)(video editing and special effects -- this man puts alotof work into each of his super-entertaining videos)
+- [Daniel Krafft](https://www.youtube.com/channel/UCojEXrCBzO-cP2N5YlRcrWw)-- useful blender tips and tutorials
+- [Iridesium](https://www.youtube.com/channel/UCsVG9hd6Dqdj7lP-YPIgCjg)-- tutorials on how to create [movie-quality](https://www.youtube.com/watch?v=mXnp_KIo8q8&ab_channel=Iridesium) special effects in Blender
+
+### Coding and Artificial Intelligence
+
+- [Two Minute Papers](https://www.youtube.com/user/keeroyz)(AI) -- super smart guy summarizes academic papers in the Artificial Intelligence field in a really interesting and easy to understand way, with visual examples.
+- [Code Bullet (AI)](https://www.youtube.com/channel/UC0e3QhIYukixgh5VVpKHH9Q)-- Software developer incorporates machine learning/AI into his own code and demonstrates the results in a wide variety of contexts.
+- [Carykh](https://www.youtube.com/user/carykh)-- AI and building some interesting apps including the famous "size of the universe" interactive
+- [Sebastian Lague](https://www.youtube.com/user/Cercopithecan)-- The Bob Ross of coding, this young gentleman walks us peacefully through a fun series of iterative improvements on a variety of advanced programming projects.
+- [CodeParade](https://www.youtube.com/results?search_query=code+parade)-- great bits of coding, math, and graphics combined
+- [Databricks - YouTube](https://www.youtube.com/@Databricks)
+- [Advancing Analytics - YouTube](https://www.youtube.com/@AdvancingAnalytics)
+- AWS Reinvent
+- Software architecture o'reilly conference
+- **Coding Tech**
+- Guy in a cube
+- Goto conferences
+- Data council
+- Infoq
+- Firebase / Google
+- freecodecamp
+- PyCon
+
+### Math
+
+- [Vi Hart](https://www.youtube.com/user/Vihart)-- the original "Mathemusician", Vi's soulfully brilliant explanations of math concepts are great for small kids and adults alike.
+- [Zach Star](https://www.youtube.com/channel/UCpCSAcbqs-sjEVfk_hMfY9w)-- math puzzles and other interesting stuff
+- [Numberphile](https://www.youtube.com/results?search_query=numberphile)-- another fun math channel -- sometimes with fun visuals and special guest experts.
+- 3 blue 1 brown - 3Blue1Brown
+- Standup math
+- Looking glass universe
+
+### History, English, Etc
+
+- [Tom Scott](https://www.youtube.com/user/enyay)-- Linguistics and various travel and geography stories
+- [History of the Earth](https://www.youtube.com/channel/UC_aOteuWIY8ITg7DQQspG1g)-- the History Brothers cover multimillion year periods of our planet's history
+- [Half as Interesting](https://www.youtube.com/channel/UCuCkxoKLYO_EQ2GeFtbM_bw)-- light-hearted tidbids of English history and other things
+
+### Making Youtube content
+
+- On-Time content
+- Timeless content
+
+### Learning
 
 - The Royal Institution Lectures
-- Perimeter Institute for Theoretical Physics
 - Ted
 - Ted-Ed
 - Undecided with Matt Ferrell
 - Domain of Science
-- Unacademy
 - DW Documentary
-- [Free High-Quality Documentaries - YouTube](https://www.youtube.com/@FreeHighQualityDocumentaries)
 - B1M
-- Discovery
-- Discovery+
-    - https://www.discoveryplus.in/show/the-birth-of-empire-the-east-india-company
-    - https://www.discoveryplus.in/genre/science
-    - https://www.discoveryplus.in/show/history-of-the-world
 - Nat Geo
 - History - World History
 - PBS
 - PBS - Eons
 - ASAPScience
-- Documentaries
 - BBC Earth
     - https://youtube.com/c/BBCReel
     - BBC Earth Lab
@@ -50,22 +122,6 @@
 - Minutefood
 - Quanta magazine
 - Periodic Videos
-- TLC
-- BetterThanYesterday
-- Charisma on Command
-- theschooloflifetv
-- Thomasfrank
-- In a nutshell
-- Daily stoic
-- All in podcast
-- Tim ferris
-- Hubspot - marketing
-- People
-    - andrew huberman (professor of neurobiology at Stanford)
-- Courses
-- MIT opencourseware
-- Crashcourse
-- Shark tank
 - New Mind
 - Lesics
 - RealLifeLore
@@ -83,15 +139,14 @@
 - [The Engineering Mindset - YouTube](https://www.youtube.com/@EngineeringMindset)
 - Linus Tech Tips
 - Techquickie
-
-## Future
-
 - Cleo Abram
 
-## News
+### News
 
 - Top U.S. & World Headlines - Democracy Now
 - Finology Legal - Priya Jain
+- Learn with finology
+- Labour Law Advisor
 - Amit Sengupta
 - Byju IAS DNA
 - Byju IAS Economy this week
@@ -107,7 +162,6 @@
 - Hindi - 1 Minute, 1 Khabar
 - Hindi - Super 100: Non-Stop Superfast - IndiaTV
 - Unacademy
-- Shark Tank
 - Dragon's den
 - Tonight with jimmy kimbel
 - Last week tonight
@@ -116,14 +170,12 @@
 - 60 Minutes
 - Diplomatic dispatch - sansad tv
 - The daily show with Trevor noah
-- Learn with finology
-- Labour Law Advisor
 - Ravish Kumar Official
 
-## Finance / Stocks / Personal finance
+### Finance / Stocks / Personal finance
 
 - Economics Explained
-- Epic economics - Economics explained essentials
+- Epic economics
 - A16z
 - ET Money / ETMoney
 - Shankar Nath
@@ -142,9 +194,6 @@
 - Shrehith S Karkera
 - [Aditya Saini - YouTube](https://www.youtube.com/@theadityasaini)
 - [Zing! By Zerodha - YouTube](https://www.youtube.com/@ZingByZerodha)
-
-### Trading / Investing
-
 - Wall Street Week - Bloomberg Markets and Finance
 - Cramer's game plan
 - [Yadnya Investment Academy - YouTube](https://www.youtube.com/@InvestYadnya)
@@ -154,36 +203,68 @@
 
 - [MagnatesMedia - YouTube](https://www.youtube.com/@MagnatesMedia)
 - [Modern MBA - YouTube](https://www.youtube.com/@ModernMBA)
-- Think school
+- [Think School - YouTube](https://www.youtube.com/@ThinkSchool)
 - [Masters' Union - YouTube](https://www.youtube.com/@MastersUnion)
 - [The Art of Business - YouTube](https://www.youtube.com/@theartofbiz)
 
-## People
+### People
 
+- Dhruv Rathee
+- Andrew Huberman (professor of neurobiology at Stanford)
 - Kishore Mahbubani
 - Kevlin Henney
 - Nouriel robini
-- Dhruv Rathee
 - [Soch by Mohak Mangal - YouTube](https://www.youtube.com/@sochbymm)
 - [BeerBiceps - YouTube](https://www.youtube.com/@BeerBiceps)
 - [Johnny Harris - YouTube](https://www.youtube.com/@johnnyharris)
 - [Nikita Thakur - YouTube](https://www.youtube.com/@nikitaksthakur)
 - [Varun Mayya - YouTube](https://www.youtube.com/@VarunMayya)
 
-## Others
-
-- RM Transit
-- The School of life
-- [Medlife Crisis - YouTube](https://youtube.com/@MedlifeCrisis?si=vmOmOUXV_TZoBNyW)
-- [Architectural Digest - YouTube](https://www.youtube.com/@Archdigest)
-
-## Yearly
+### Yearly
 
 - Nobel Prize
 - Webby Awardz
 - Stackoverflow developer survey
 - ProductHunt yearly
 - Finology legal yearly news and supreme court decision reviews
+
+### Documentaries
+
+- Curiosity Stream
+- Discovery+
+- NatGeo
+- Nebula - The logistics of x
+- [Banijay Science - YouTube](https://www.youtube.com/@banijayscience)
+- Youtube Original's Mind Field
+
+### Others
+
+- RM Transit
+- The School of life
+- [Medlife Crisis - YouTube](https://youtube.com/@MedlifeCrisis?si=vmOmOUXV_TZoBNyW)
+- [Architectural Digest - YouTube](https://www.youtube.com/@Archdigest)
+- TLC
+- BetterThanYesterday
+- Charisma on Command
+- theschooloflifetv
+- Thomasfrank
+- In a nutshell
+- Daily stoic
+- All in podcast
+- Tim ferris
+- Hubspot - marketing
+- Courses
+   	- MIT opencourseware
+   	- Crashcourse
+- Shark tank
+- Perimeter Institute for Theoretical Physics
+- Unacademy
+- [Free High-Quality Documentaries - YouTube](https://www.youtube.com/@FreeHighQualityDocumentaries)
+- Discovery
+- Discovery+
+    - https://www.discoveryplus.in/show/the-birth-of-empire-the-east-india-company
+    - https://www.discoveryplus.in/genre/science
+    - https://www.discoveryplus.in/show/history-of-the-world
 
 ## Magazine
 
@@ -211,93 +292,6 @@
 - 12min
 - Blinkist
 - Math workout
-
-## Documentaries
-
-- Curiosity Stream
-- Discovery+
-- NatGeo
-- Nebula - The logistics of x
-- [Banijay Science - YouTube](https://www.youtube.com/@banijayscience)
-
-## General Science
-
-- [Vsauce](https://www.youtube.com/user/Vsauce)(which has grown to include [Vsauce2](https://www.youtube.com/user/Vsauce2/videos) and [Vsauce3](https://www.youtube.com/user/Vsauce3))
-- [Physics Girl](https://www.youtube.com/user/physicswoman)(fun to watch explorations of a wide range of real-world physics and science things)
-- [**Thought Emporium**](https://www.youtube.com/user/TheChemlife)(gene editing through both chemical methods and DNA 3-d printers! And art too)
-- [Scott Manley](https://www.youtube.com/user/szyzyg)(a charming Scottish Astrophysist / Apple engineer with hundreds of great videos on the Kerbal Space Program simulation game, plus now detailed coverage on space and astrophysics)
-- [Anton Petrov](https://www.youtube.com/user/whatdamath)-- daily videos on new discoveries in science (and a fun look at current events from a science perspective too)
-- [Kurzgesagt -- In a Nutshell](https://www.youtube.com/user/Kurzgesagt) Short but intelligent summaries of all sorts of neat things, featuring a dynamic British narrator and fun cartoony graphics.
-- [Deep Dive](https://www.youtube.com/channel/UCFPGKw4jb7CJur6cHmIgI3Q)-- a relatively new but very promising channel with great big-issue science videos.
-- [Stratzenblitz75](https://www.youtube.com/c/Stratzenblitz75/videos) Kerbal Space program videos with nice lessons on the science behind them (like orbital mechanics)
-- [Wendover Productions](https://www.youtube.com/user/Wendoverproductions)-- neat explanations of wide-ranging things, (including transportation logistics!)
-- [Veritasium - YouTube](https://www.youtube.com/@veritasium)
-- [Institute of Human Anatomy - YouTube](https://www.youtube.com/@TheAnatomyLab)
-- [NileRed - YouTube](https://www.youtube.com/@NileRed)
-
-## Inventions and Building Stuff / Engineering
-
-- [Colin Furze](https://www.youtube.com/user/colinfurze)-- crazy, energetic, brilliant videos about building things like a home-made hoverbike, two story bicycle, giant mech robot suit.
-- [Simone Giertz](https://www.youtube.com/channel/UC3KEoMzNz8eYnwBC34RaKCQ)-- a super clever and witty engineer/builder, perhaps most famous for her DIY conversion of a Tesla model 3 into a badass mini pickup truck.
-- [Wintergatan](https://www.youtube.com/user/wintergatan2000)-- a hauntingly genius, gentle dude in Sweden who works on a beautiful "marble machine" musical instrument and so many other things. Awesome musician too!
-- [Mark Rober](https://www.youtube.com/user/onemeeeliondollars)(a former Nasa engineer who now makes really fun videos about his complicated and whimsical inventions -- best known for the "glitter bomb" anti-theft devices)
-- [Styropyro](https://www.youtube.com/user/styropyro)(guy who makes crazy powerful lasers, etc.)
-- [Strange Parts - YouTube](https://www.youtube.com/@StrangeParts)
-- [The Engineering Mindset - YouTube](https://www.youtube.com/@EngineeringMindset)
-- [Factory Monster - YouTube](https://www.youtube.com/@Factory_Monster)
-- [The Infographics Show - YouTube](https://www.youtube.com/@TheInfographicsShow)
-- [AlphaPhoenix - YouTube](https://www.youtube.com/@AlphaPhoenixChannel)
-- [Xprocess - YouTube](https://www.youtube.com/@Process-X/featured)
-
-## Video creation, 3D Animation and Youtubing Strategy
-
-- [Lazy Tutorials](https://www.youtube.com/user/mrdodobird)(Ian Huber teaches you 3-D animation with Blender at the speed of thought). He also maintains the [Default Cube](https://www.youtube.com/channel/UCdpWKLNfbROyoGPV46-zaUQ) channel.
-- [Blender Guru](https://www.youtube.com/user/AndrewPPrice)-- personable, easy to watch in-depth blender tutorials
-- [CG Matter](https://www.youtube.com/channel/UCy1f4m64dwCwk8CBZ_vHfPg)-- fast, advanced Blender tutorials
-- [CG Geek](https://www.youtube.com/results?search_query=cg+geek)-- longer, more detailed Blender tutorials
-- [Captain Disillusion](https://www.youtube.com/user/CaptainDisillusion)(video editing and special effects -- this man puts alotof work into each of his super-entertaining videos)
-- [Daniel Krafft](https://www.youtube.com/channel/UCojEXrCBzO-cP2N5YlRcrWw)-- useful blender tips and tutorials
-- [Iridesium](https://www.youtube.com/channel/UCsVG9hd6Dqdj7lP-YPIgCjg)-- tutorials on how to create [movie-quality](https://www.youtube.com/watch?v=mXnp_KIo8q8&ab_channel=Iridesium) special effects in Blender
-
-## Coding and Artificial Intelligence
-
-- [Two Minute Papers](https://www.youtube.com/user/keeroyz)(AI) -- super smart guy summarizes academic papers in the Artificial Intelligence field in a really interesting and easy to understand way, with visual examples.
-- [Code Bullet (AI)](https://www.youtube.com/channel/UC0e3QhIYukixgh5VVpKHH9Q)-- Software developer incorporates machine learning/AI into his own code and demonstrates the results in a wide variety of contexts.
-- [Carykh](https://www.youtube.com/user/carykh)-- AI and building some interesting apps including the famous "size of the universe" interactive
-- [Sebastian Lague](https://www.youtube.com/user/Cercopithecan)-- The Bob Ross of coding, this young gentleman walks us peacefully through a fun series of iterative improvements on a variety of advanced programming projects.
-- [CodeParade](https://www.youtube.com/results?search_query=code+parade)-- great bits of coding, math, and graphics combined
-- [Databricks - YouTube](https://www.youtube.com/@Databricks)
-- [Advancing Analytics - YouTube](https://www.youtube.com/@AdvancingAnalytics)
-- AWS Reinvent
-- Software architecture o'reilly conference
-- **Coding Tech**
-- Guy in a cube
-- Goto conferences
-- Data council
-- Infoq
-- Firebase / Google
-- freecodecamp
-- PyCon
-
-## Math
-
-- [Vi Hart](https://www.youtube.com/user/Vihart)-- the original "Mathemusician", Vi's soulfully brilliant explanations of math concepts are great for small kids and adults alike.
-- [Zach Star](https://www.youtube.com/channel/UCpCSAcbqs-sjEVfk_hMfY9w)-- math puzzles and other interesting stuff
-- [Numberphile](https://www.youtube.com/results?search_query=numberphile)-- another fun math channel -- sometimes with fun visuals and special guest experts.
-- 3 blue 1 brown - 3Blue1Brown
-- Standup math
-- Looking glass universe
-
-## History, English, Etc
-
-- [Tom Scott](https://www.youtube.com/user/enyay)-- Linguistics and various travel and geography stories
-- [History of the Earth](https://www.youtube.com/channel/UC_aOteuWIY8ITg7DQQspG1g)-- the History Brothers cover multimillion year periods of our planet's history
-- [Half as Interesting](https://www.youtube.com/channel/UCuCkxoKLYO_EQ2GeFtbM_bw)-- light-hearted tidbids of English history and other things
-
-### Making Youtube content
-
-- On-Time content
-- Timeless content
 
 ## Podcast / Podcasts
 
@@ -376,16 +370,13 @@ Indian History - https://www.anirudhkanisetti.com/podcasts
 ## Tools
 
 - [YouTube Transcript - read YouTube videos](https://youtubetranscript.com/)
+- [12ft Ladder](https://12ft.io/)
 
 ## Youtube Shortcuts
 
 - Shift + / = shortcuts menu
 - K = play
 - F = full screen
-
-## Top Documentaries
-
-Youtube Original's Mind Field
 
 ## Top Music
 
@@ -400,16 +391,6 @@ Youtube Original's Mind Field
 - [Jeryl 🇸🇬 (@smilewithjeryl) • Instagram photos and videos](https://www.instagram.com/smilewithjeryl/?hl=en)
 
 ## Resources
-
-### Others
-
-- Nebula / Curiosity Stream
-- Natgeo
-- Discovery
-
-### Other Tools
-
-- [12ft Ladder](https://12ft.io/)
 
 ### Torrents
 

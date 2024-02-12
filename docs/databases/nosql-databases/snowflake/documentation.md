@@ -470,7 +470,9 @@ When memory spillage is the issue, you can convert your existing warehouse to a 
 
 If you want to try resolving the spillage of a query without adjusting the warehouse that runs it, use the [Query Profile](https://docs.snowflake.com/en/user-guide/ui-snowsight-activity.html#label-snowsight-query-profile) to identify which operation nodes are causing the spillage.
 
-[Article Detail](https://community.snowflake.com/s/article/Performance-impact-from-local-and-remote-disk-spilling)
+[Performance impact from local and remote disk spilling](https://community.snowflake.com/s/article/Performance-impact-from-local-and-remote-disk-spilling)
+
+[Resolving memory spillage | Snowflake Documentation](https://docs.snowflake.com/en/user-guide/performance-query-warehouse-memory)
 
 ### [Cost Management](https://docs.snowflake.com/en/guides-overview-cost "Cost Management")
 

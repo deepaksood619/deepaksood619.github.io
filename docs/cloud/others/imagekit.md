@@ -21,6 +21,8 @@
 - [How to bulk upload images in ImageKit? | ImageKit Help Center](https://help.imagekit.io/en/articles/2558077-how-to-bulk-upload-images-in-imagekit)
 - [Amazon S3 bucket - ImageKit.io Docs](https://docs.imagekit.io/integration/configure-origin/amazon-s3-bucket-origin)
 - [S3 Compatible External Storages - ImageKit.io Docs](https://docs.imagekit.io/integration/configure-origin/s3-compatible-external-storages)
+- [How it works? - ImageKit.io Docs](https://docs.imagekit.io/integration/how-it-works)
+- [Optimize and resize images in AWS S3 in real-time with ImageKit](https://imagekit.io/blog/image-optimization-resize-aws-s3-imagekit/)
 
 #### Question
 

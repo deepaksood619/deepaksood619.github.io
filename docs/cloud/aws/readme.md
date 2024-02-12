@@ -36,3 +36,7 @@
 - [Others](cloud/aws/others.md)
 
 ![Cloud Infra 30K Feet Design](../../media/Pasted%20image%2020240205224442.jpg)
+
+### Others
+
+[AWS Financial Services Competency Partners](https://aws.amazon.com/financial-services/partner-solutions/)

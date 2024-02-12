@@ -50,6 +50,16 @@ Prompt: "I want to learn about `{insert topic}`. Identify and share the most imp
 
 I'm currently learning about snowflake. Ask me a series of 50 questions, one at a time, that will test my knowledge. Wait for my response before proceeding to the next question, ask the next question after your explanation of the answers. Identify knowledge gaps in my answers and give me better answers to fill those gaps. When finish show me the quantity of correct answers and the quantity of failed answers
 
+##### Presentation
+
+Create a presentation for presenting to top management of the company on title "Data Engineering". I as an owner to data engineering vertical working in service based company, have to tell the management about how we can create a Data Engineering vertical.
+
+Start with importance of data and about the data industry. 1 one slide on what are different areas in Data like Data Engineering, Data Science, Data Analytics, ML, AI, etc. Then deep dive into data engineering. Also add on how we can start the vertical by building case studies, finding clients, checking competitive landscape. How much to invest and ROI, whom to hire and how many people to start with. What tools and technologies to focus on.
+
+Presentation should be 30 mins long with 10-15 slides. I am aiming for a script that is persuasive, highlighting the different areas that can be tapped in Data Engineering, and how can we sell these as a service to other companies, and solve other company problems.
+
+ChatGPT, could you aid me in crafting a compelling proposal presentation script for a project centered around integrating AI customer service solutions for Client's Name? I am aiming for a script that is persuasive, highlighting the advantages of our proposed solutions distinctively.
+
 #### Principle 1: Write clear and specific instructions
 
 ##### Tactic 1: Use delimiters to clearly indicate distinct parts of the input

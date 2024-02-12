@@ -173,3 +173,5 @@ CPU is considered a "compressible" resource. If your app starts hitting your CPU
 - **[Disk Cache memory](http://en.wikipedia.org/wiki/Page_cache):** This are chunks of the physical memory, the RAM, used to store files. That way when a program needs to read the file, it's fetched from memory instead of the hard disk. This is done because memory is way faster.
 
 - **[Swap](http://en.wikipedia.org/wiki/Paging):** This is a place on the hard disk (usually a dedicated partition) that is used to store programs or data that can't fit in memory, like when a program grows more than the available memory. SWAP is way slower than RAM, so when you hit swap the computer gets slower, but at least the program can work. In linux swap is also used to hibernate, or to move low used program out of memory to allow more space to the disk cache.
+
+![Types of Memory and Storage](../../media/Pasted%20image%2020240213011810.png)

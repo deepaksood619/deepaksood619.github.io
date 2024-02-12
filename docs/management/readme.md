@@ -6,6 +6,7 @@
     - [Business Terms](management/business/business-terms.md)
     - [Indian Market](business/indian-market)
     - [Business Case Studies](business/business-case-studies)
+    - [Service Based Model](management/business/service-based-model.md)
 - [Product Management](product-management/readme.md)
 - [Project Management](project-management/readme.md)
 - [People Management](management/people-management/readme.md)

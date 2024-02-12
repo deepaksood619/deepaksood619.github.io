@@ -121,6 +121,10 @@ https://freefincal.com/why-i-partially-switched-from-icici-multi-asset-fund-to-i
 
 [What are Gilt Funds, when to use them, how to select them](https://www.youtube.com/watch?v=rzVPsRGZeBY)
 
+## Funds
+
+- [Parag Parikh Dynamic Asset Allocation Fund](https://amc.ppfas.com/schemes/parag-parikh-dynamic-asset-allocation-fund/)
+
 ## Links
 
 - https://zerodha.com/varsity/chapter/the-debt-funds-part-1

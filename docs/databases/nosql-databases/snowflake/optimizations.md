@@ -57,9 +57,19 @@ It's worth noting that while clustering can significantly improve performance fo
 
 #### Maintenance Considerations
 
+There are no indices in Snowflake. Instead you can use Data Clustering.
+
 Clustering is not a one-time operation. It's an ongoing process, and the system will automatically reorganize data based on the clustering key during certain operations, such as data loading.
 
 [Micro-partitions & Data Clustering | Snowflake Documentation](https://docs.snowflake.com/en/user-guide/tables-clustering-micropartitions)
+
+##### Clustering Information Maintained for Micro-partitions
+
+Snowflake maintains clustering metadata for the micro-partitions in a table, including:
+
+- The total number of micro-partitions that comprise the table.
+- The number of micro-partitions containing values that overlap with each other (in a specified subset of table columns).
+- The depth of the overlapping micro-partitions.
 
 ## Data compression and metadata storage
 
