@@ -18,7 +18,6 @@ MTTR is the average time required to repair a failed component or system and ret
 
 As shown in the diagram below, there are two additional related metrics - MTTD (Mean Time To Diagnose) and MTTF (Mean Time To Failure). MTTR can loosely include diagnosis time.
 
-
 ![](https://ci3.googleusercontent.com/meips/ADKq_NYBmtWg8ZtWVqu2kMjCbPhbviWVW_qvyt1t2BHF8Gro1sg-maRy5oTc5n2U2Xapq5UNIpO6gtyZAo1f6Hk9blORHhKg0Bt3HNq17Ng1Dleg7G1HGDQldRfN66H8XEgjqbWSUd_T9oRaXFwpR3tN5Oi6bV4sh_7D9khHq4LtmkmHvkzanHDfEH0BfY2z8NvjcPscxftmlw6RHX6Lu1OeSG_XOVN-XWGuBuGaxEOT-yCnxR1avZgrJZRnEmt5SchP0wFYJ1IMjKAk-jvOaadK17Q2TZg8KQFmjg51Cyhvr8AIQhBfXMf5b7dTHw=s0-d-e1-ft#https://substackcdn.com/image/fetch/w_1428,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F87444a13-e153-4bdd-afce-b480eafb91a3_1600x834.png)
 
 ### The Nines
@@ -51,12 +50,11 @@ There is only so much we can do to optimize a single instance to be fault-tolera
 
 For stateful instances like storage, we also need data replication strategies.
 
-Let's explore common architectures with different forms of redundancy and their tradeoffs. 
+Let's explore common architectures with different forms of redundancy and their tradeoffs.
 
 #### Hot-Cold
 
 In the hot-cold architecture, there is a primary instance that handles all reads and writes from clients, as well as a backup instance. Clients interact only with the primary instance and are unaware of the backup. The primary instance continuously synchronizes data to the backup instance. If the primary fails, manual intervention is required to switch clients over to the backup instance.
-
 
 ![](https://ci3.googleusercontent.com/meips/ADKq_NYV2h64KcPS3d10YqgVWm8wo5BjHwwC_OCjL98smuz_wmILjWM8BPmUeTvqHfMH4JTqZzBX0xjLdZuB5faBySgSg_2fQP2FK7T9ZftCedTaHE6JLqJCzgX-zLtx3q5LCb9m5M_2KFYlhIooTjUk7Z4QUlNAMp8-2EgvEsweOjkZuSpsg20IsBmAM-TekBFCHbu9XYi1WQuXH2X_3D6OJz6IqI3I6MKSyu_5Su_BLa_9G9n7JVF3wnxR01TFmb2FrlYrJ2qRiSOskKfs0XDr2uPgLustBLxrfjDA5YYARiM-sWimJ-lVbS5Dmg=s0-d-e1-ft#https://substackcdn.com/image/fetch/w_1440,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7f92181a-d1c4-4195-a8d8-dffecb0b6181_1529x945.png)
 
@@ -65,7 +63,6 @@ This architecture is straightforward but has some downsides. The backup instance
 #### Hot-Warm
 
 The hot-cold architecture wastes resources since the backup instance is under-utilized. The hot-warm architecture optimizes this by allowing clients to read from the secondary/backup instance. If the primary fails, clients can still read from the secondary with reduced capacity.
-
 
 ![](https://ci3.googleusercontent.com/meips/ADKq_Na6g7CnbSjsLwN95cXullTEW2nLkAbBddXpQG1i9Ke3DMpCvfdssUmrxz5YGMwX1OyOQvm02Gj8deoHB4RwsvJaEbnJZisWsGbxq4LL7JAHYIboW9GEpp2ldRB2tyAmtiE4cDW8qD36O2BDjTwiRzAVX8Wa5_fOQQ5sxmcSab3Zvq_xK1PXK88UtwkWHw459osf87DKTOGCgCteM-raT-aaFITy3j0C07ZuKRU9BSv_zfEsRXSnBm7N11TcA8OvrgOkDq0Y_UstjNXQUZ4dk-e6zIHnqLiV2S9J655yaCyOQwYI7rQTKNlcwA=s0-d-e1-ft#https://substackcdn.com/image/fetch/w_1424,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4faf5366-8b4b-4f00-8c38-b8a1f1fe2091_1529x945.png)
 

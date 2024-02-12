@@ -45,8 +45,10 @@ https://github.com/topics/jekyll-theme
 ## Software documentation
 
 1. Product documentation
-   - System documentation
-   - User documentation
+	- System documentation
+	- User documentation
 2. Process documentation
 
 https://www.altexsoft.com/blog/business/technical-documentation-in-software-development-types-best-practices-and-tools
+
+[Writing documentation for your team | Shubhro Saha](https://www.shubhro.com/2020/01/06/writing-documentation-team/)

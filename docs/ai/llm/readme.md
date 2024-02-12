@@ -74,7 +74,7 @@ Moving from information to knowledge age
     - [Gamma App](https://gamma.app/)
     - [Presentation Software | Basic to Beautiful in Minutes with Beautiful.ai](https://www.beautiful.ai/)
     - [Decktopus | Create Better Presentations | AI Presentation Assistant](https://app.decktopus.com/dashboard/decks)
-    - [Plus AI for Google Slides™ - Google Workspace Marketplace](https://workspace.google.com/u/0/marketplace/app/plus_ai_for_google_slides/214277172452)
+    - [Plus AI for Google Slides™ - Google Workspace Marketplace](https://wvorkspace.google.com/u/0/marketplace/app/plus_ai_for_google_slides/214277172452)
 - [AudioPen - The easiest way to convert messy thoughts into clear text.](https://audiopen.ai/)
 - [Instantly.ai - Cold Email Software](https://instantly.ai/)
 - [Text-to-meme | Supermeme.ai](https://app.supermeme.ai/text-to-meme)

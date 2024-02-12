@@ -10,11 +10,13 @@ Portainer is an open-source lightweight management UI which allows us to easily 
 
 For adding new Endpoints
 
+```bash
 sudo vim /lib/systemd/system/docker.service
 
 ExecStart=/usr/bin/dockerd -H fd:// -H tcp://0.0.0.0:4243
 
 sudo systemctl restart docker.service
+```
 
 https://portainer.io
 

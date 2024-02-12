@@ -2,35 +2,42 @@
 
 ## Why is Kafka so Fast?
 
+1. The first one is Kafka’s reliance on Sequential I/O.
+2. The second design choice that gives Kafka its performance advantage is its focus on efficiency: zero copy principle.
+
 Kafka relies heavily on the OS kernel to move data around quickly. It relies on the principals of [Zero Copy](https://en.wikipedia.org/wiki/Zero-copy). Kafka enables you to batch data records into chunks. These batches of data can be seen end to end from Producer to file system (Kafka Topic Log) to the Consumer. Batching allows for more efficient data compression and reduces I/O latency. Kafka writes to the immutable commit log to the disk sequential; thus, avoids random disk access, slow disk seeking. Kafka provides horizontal Scale through sharding. It shards a Topic Log into hundreds potentially thousands of partitions to thousands of servers. This sharding allows Kafka to handle massive load.
 
 Zero-copy means that Kafka sends messages from the file (or more likely, the Linux filesystem cache) directly to the network channel without any intermediate buffers.
 
-![image](../../media/Technologies-Kafka-Kafka-Architecture-image1.jpg)
+![Why is Kafka Fast](../../media/Pasted%20image%2020240213012230.png)
 
-## Zero-copy
+[ByteByteGo - YouTube](https://www.youtube.com/channel/UCZgt6AzoyjslHTC9dz0UoTw/community?lb=UgkxKPCx8UjOik2iB9rKHDWqgzv_y59aCrDW)
+
+### Zero-copy
 
 "**Zero-copy**" describes computer operations in which the [CPU](https://en.wikipedia.org/wiki/Central_processing_unit) does not perform the task of copying data from one [memory](https://en.wikipedia.org/wiki/RAM) area to another. This is frequently used to save CPU cycles and memory bandwidth when transmitting a file over a network.
 
-## Kafka Zero Copy
+### Kafka Zero Copy
 
 Ideally, the data written to the log segment is written in protocol format. That is, what gets written to disk is exactly what gets sent over the wire. This allows for zero-copy reads. Let's take a look at how this otherwise works.
 
-When you read messages from the log, the kernel will attempt to pull the data from the page cache. If it's not there, it will be read from disk. The data is copied from disk to page cache, which all happens in kernel space. Next, the data is copied into the application (i.e. user space). This all happens with thereadsystem call. Now the application writes the data out to a socket usingsend, which is going to copy it back into kernel space to a socket buffer before it's copiedone last timeto the NIC. All in all, we havefourcopies (including one from page cache) andtwosystem calls.
+When you read messages from the log, the kernel will attempt to pull the data from the page cache. If it's not there, it will be read from disk. The data is copied from disk to page cache, which all happens in kernel space. Next, the data is copied into the application (i.e. user space). This all happens with the read system call. Now the application writes the data out to a socket using send, which is going to copy it back into kernel space to a socket buffer before it's copied one last time to the NIC. All in all, we have four copies (including one from page cache) and two system calls.
 
 ![image](../../media/Technologies-Kafka-Kafka-Architecture-image2.jpg)
 
-However, if the data is already in wire format, we can bypass user space entirely using thesendfilesystem call, which will copy the data directly from the page cache to the NIC buffer - twocopies (including one from page cache) andonesystem call. This turns out to be an important optimization, especially in garbage-collected languages since we're bringing less data into application memory. Zero-copy also reduces CPU cycles and memory bandwidth.
+However, if the data is already in wire format, we can bypass user space entirely using the send filesystem call, which will copy the data directly from the page cache to the NIC buffer - two copies (including one from page cache) and one system call. This turns out to be an important optimization, especially in garbage-collected languages since we're bringing less data into application memory. Zero-copy also reduces CPU cycles and memory bandwidth.
 
 ![image](../../media/Technologies-Kafka-Kafka-Architecture-image3.jpg)
 
-## Other Optimizations - Messages batching & Compression
+### Other Optimizations - Messages batching & Compression
 
 https://en.wikipedia.org/wiki/Zero-copy
 
 https://bravenewgeek.com/building-a-distributed-log-from-scratch-part-1-storage-mechanics
 
 ## Concepts
+
+![image](../../media/Technologies-Kafka-Kafka-Architecture-image1.jpg)
 
 - Zookeeper
 - Producer
@@ -113,10 +120,9 @@ The basic storage unit of Kafka is a partition replica.
 ## Kafka Rebalancing Protocol
 
 1. **Eager Rebalancing Protocol (Stop the world rebalancing)**
-
 2. **Incremental cooperative rebalancing**
-    - **Incrementalbecause the final desired state of rebalancing is reached in stages. A globally balanced final state does not have to be reached at the end of each round of rebalancing. A small number of consecutive rebalancing rounds can be used in order for the group of Kafka clients to converge to the desired state of balanced resources. In addition, you can configure a grace period to allow a departing member to return and regain its previously assigned resources.**
-    - **Cooperativebecause each process in the group is asked to voluntarily release resources that need to be redistributed. These resources are then made available for rescheduling given that the client that was asked to release them does so on time**
+    - Incremental because the final desired state of rebalancing is reached in stages. A globally balanced final state does not have to be reached at the end of each round of rebalancing. A small number of consecutive rebalancing rounds can be used in order for the group of Kafka clients to converge to the desired state of balanced resources. In addition, you can configure a grace period to allow a departing member to return and regain its previously assigned resources.
+    - Cooperative because each process in the group is asked to voluntarily release resources that need to be redistributed. These resources are then made available for rescheduling given that the client that was asked to release them does so on time
 
 https://www.confluent.io/blog/incremental-cooperative-rebalancing-in-kafka
 

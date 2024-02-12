@@ -65,13 +65,11 @@ https://rethinkdb.com
 ## Hierarchical database / Graph based database (Entities, Relationships)
 
 - Dgraph
-- Nebula-graph
-
-https://nebula-graph.io
-
+- Nebula-graph - https://nebula-graph.io
 - [Alibaba Graph Database](https://cn.aliyun.com/product/gdb)- A real-time, reliable, cloud-native graph database service that supports property graph model.
 - [Amazon Neptune](https://aws.amazon.com/neptune/)- Fully-managed graph database service.
-- [ArangoDB](https://github.com/ArangoDB-Community/arangodb-tinkerpop-provider)- OLTP Provider for ArangoDB.
+- [Ultimate Scalable Graph Database: ArangoDB for Real-World Use Cases](https://arangodb.com/)
+   	- [GitHub - arangodb/arangodb: 🥑 ArangoDB is a native multi-model database with flexible data models for documents, graphs, and key-values. Build high performance applications using a convenient SQL-like query language or JavaScript extensions.](https://github.com/arangodb/arangodb)
 - [Bitsy](https://github.com/lambdazen/bitsy/wiki)- A small, fast, embeddable, durable in-memory graph database.
 - [Blazegraph](https://github.com/blazegraph/tinkerpop3)- RDF graph database with OLTP support.
 - [CosmosDB](https://docs.microsoft.com/en-us/azure/cosmos-db/graph-introduction)- Microsoft's distributed OLTP graph database.
@@ -130,6 +128,8 @@ Examples
 - Facebook Parse
 - Amazon DynamoDB
 - Amazon Aurora
+- [One-stop Generative AI Stack to Build Production-ready Apps | DataStax](https://www.datastax.com/)
+- [Astra DB | DataStax](https://www.datastax.com/products/datastax-astra)
 
 ## Object Storage
 
