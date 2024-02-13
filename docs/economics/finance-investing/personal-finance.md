@@ -26,6 +26,10 @@ This is arguably the most important, and the most overlooked, pillar. It encapsu
 - axio
 - [Cashews](https://cashews.finance/)
 
+## Others
+
+- Folks, I’ve some big plans of my own this year that’s going to suck the money out of my wallet. So, I’ll have to ditch this trip to Goa (adulting sucks). But come and hang out with me at home before you all go, and we’ll have a blast?
+
 ## Links
 
 [Robert Kiyosaki From 'Rich Dad Poor Dad' Opens Up On Money, Personal Finance & More | TRS 337 - YouTube](https://www.youtube.com/watch?v=byJgRDFdUj0)

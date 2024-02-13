@@ -41,12 +41,15 @@ Once we've defined a DAG - i.e. we've instantiated tasks and defined their depen
 
 The kubernetes executor is introduced in Apache Airflow 1.10.0. The Kubernetes executor will create a new pod for every task instance.
 
-- **Dags**
-    - By storing dags onto persistent disk, it will be made available to all workers
-    - Another option is to usegit-sync. Before starting the container, a git pull of the dags repository will be performed and used throughout the lifecycle of the pod
-- **Logs**
-    - By storing logs onto a persistent disk, the files are accessible by workers and the webserver. If you don't configure this, the logs will be lost after the worker pods shuts down
-    - Another option is to use S3/GCS/etc to store logs
+### Dags
+
+- By storing dags onto persistent disk, it will be made available to all workers
+- Another option is to use git-sync. Before starting the container, a git pull of the dags repository will be performed and used throughout the lifecycle of the pod
+
+### Logs
+
+- By storing logs onto a persistent disk, the files are accessible by workers and the webserver. If you don't configure this, the logs will be lost after the worker pods shuts down
+- Another option is to use S3/GCS/etc to store logs
 
 https://airflow.apache.org/kubernetes.html
 
@@ -119,6 +122,8 @@ https://www.astronomer.io/blog/7-common-errors-to-check-when-debugging-airflow-d
 An Astro Deployment is an Airflow environment that is powered by [Astro Runtime](https://docs.astronomer.io/astro/runtime-image-architecture). It runs all core Airflow components, including the Airflow webserver, scheduler, and workers, plus additional tooling for reliability and observability.
 
 [Create a Deployment | Astronomer Documentation](https://docs.astronomer.io/astro/create-deployment)
+
+[Airflow DAG Deployment With S3. How to deploy Airflow DAG definitions… | by Tomas | Medium](https://medium.com/@tomaspm/airflow-dag-deployment-with-s3-2536dc347d2d)
 
 ## Others
 

@@ -23,19 +23,26 @@ Jenkins is a continuous integration tool which enables software teams to build t
 
 ## Pipeline Syntax
 
-- **Scripted**
-    - First syntax
-    - Groovy engine
-    - Advanced scripting capabilities, high flexibility
-    - Difficult to start
-- **Declarative**
-    - Recent addition
-    - Easier to get started but not that powerful
-    - pre-defined structure
+### Scripted
+
+A Scripted Pipeline in Jenkins is a Groovy-based approach to defining continuous integration and continuous delivery (CI/CD) pipelines. It allows users to write pipeline scripts using Groovy syntax, providing full flexibility and customization for defining build, test, and deployment stages. Scripted Pipelines enable users to incorporate conditional logic, loops, and functions within the pipeline script to handle complex workflows and custom requirements. While offering extensive power and flexibility, Scripted Pipelines require users to have knowledge of Groovy programming and scripting concepts. They are well-suited for projects with intricate build processes or those requiring advanced automation and customization capabilities.
+
+- First syntax
+- Groovy engine
+- Advanced scripting capabilities, high flexibility
+- Difficult to start
+
+### Declarative
+
+Declarative Pipeline in Jenkins offers a simplified and structured approach for defining CI/CD pipelines, using a human-readable syntax with predefined sections like pipeline, stages, and agent. It's designed to be easy to read and maintain, making it suitable for users without strong scripting skills.It enforces a stricter syntax and allows for less flexibility compared to the scripted pipeline, which can be seen as an advantage for ensuring consistency and readability.
+
+- Recent addition
+- Easier to get started but not that powerful
+- pre-defined structure
 
 ## Regex (Java Style)
 
-^dev|master|feature.*$
+`^dev|master|feature.*$`
 
 ## Trigger changes
 
@@ -45,33 +52,33 @@ Jenkins is a continuous integration tool which enables software teams to build t
 
 ## Pipelines
 
-Jenkins Pipeline (or simply "Pipeline" with a capital "P") is a suite of plugins which supports implementing and integratingcontinuous delivery pipelinesinto Jenkins.
+Jenkins Pipeline (or simply "Pipeline" with a capital "P") is a suite of plugins which supports implementing and integrating continuous delivery pipelines into Jenkins.
 
-Acontinuous delivery (CD) pipelineis an automated expression of your process for getting software from version control right through to your users and customers. Every change to your software (committed in source control) goes through a complex process on its way to being released. This process involves building the software in a reliable and repeatable manner, as well as progressing the built software (called a "build") through multiple stages of testing and deployment.
+A continuous delivery (CD) pipeline is an automated expression of your process for getting software from version control right through to your users and customers. Every change to your software (committed in source control) goes through a complex process on its way to being released. This process involves building the software in a reliable and repeatable manner, as well as progressing the built software (called a "build") through multiple stages of testing and deployment.
 
 Pipeline provides an extensible set of tools for modeling simple-to-complex delivery pipelines "as code" via the [Pipeline domain-specific language (DSL) syntax](https://jenkins.io/doc/book/pipeline/syntax).
 
-The definition of a Jenkins Pipeline is written into a text file (called a [Jenkinsfile](https://jenkins.io/doc/book/pipeline/jenkinsfile)) which in turn can be committed to a project's source control repository.This is the foundation of "Pipeline-as-code"; treating the CD pipeline a part of the application to be versioned and reviewed like any other code.
+The definition of a Jenkins Pipeline is written into a text file (called a [Jenkinsfile](https://jenkins.io/doc/book/pipeline/jenkinsfile)) which in turn can be committed to a project's source control repository. This is the foundation of "Pipeline-as-code"; treating the CD pipeline a part of the application to be versioned and reviewed like any other code.
 
-Creating aJenkinsfileand committing it to source control provides a number of immediate benefits:
+Creating a Jenkinsfile and committing it to source control provides a number of immediate benefits:
 
 - Automatically creates a Pipeline build process for all branches and pull requests.
 - Code review/iteration on the Pipeline (along with the remaining source code).
 - Audit trail for the Pipeline.
-- Single source of truthfor the Pipeline, which can be viewed and edited by multiple members of the project.
+- Single source of truth for the Pipeline, which can be viewed and edited by multiple members of the project.
 
-While the syntax for defining a Pipeline, either in the web UI or with aJenkinsfileis the same, it is generally considered best practice to define the Pipeline in aJenkinsfileand check that in to source control.
+While the syntax for defining a Pipeline, either in the web UI or with a Jenkinsfile is the same, it is generally considered best practice to define the Pipeline in a Jenkinsfile and check that in to source control.
 
 ## Declarative versus Scripted Pipeline syntax
 
-AJenkinsfilecan be written using two types of syntax - Declarative and Scripted.
+A Jenkinsfile can be written using two types of syntax - Declarative and Scripted.
 
 Declarative and Scripted Pipelines are constructed fundamentally differently. Declarative Pipeline is a more recent feature of Jenkins Pipeline which:
 
 - provides richer syntactical features over Scripted Pipeline syntax, and
 - is designed to make writing and reading Pipeline code easier.
 
-Many of the individual syntactical components (or "steps") written into aJenkinsfile, however, are common to both Declarative and Scripted Pipeline.
+Many of the individual syntactical components (or "steps") written into a Jenkinsfile, however, are common to both Declarative and Scripted Pipeline.
 
 ## Why Pipeline?
 
@@ -194,15 +201,10 @@ A Jenkinsfile is nothing but a pipeline script that defines your CI/CD pipeline
 
 ## Plugins
 
-https://jenkins.io/doc/pipeline/steps/slack
-folder plugin
-Credentials
-Credentials Binding
-
-## Commands
-
-Clear build queue, Manage Jenkins > Script Console:
- `Jenkins.instance.queue.clear()`
+- https://jenkins.io/doc/pipeline/steps/slack
+- folder plugin
+- Credentials
+- Credentials Binding
 
 ## Jenkins X
 
@@ -222,13 +224,15 @@ Continuous integration and continuous delivery (CI/CD), the role of the build se
 
 ## Bind docker socket to container
 
-docker run -v /var/run/docker.sock:/var/run/docker.sock ...
+`docker run -v /var/run/docker.sock:/var/run/docker.sock ...`
 
 ## Azure CI/CD with Jenkins
 
+```bash
 docker tag azure-vote-front gcr.io/example-data-archiver/azure-vote-front:v1
 
 docker push gcr.io/example-data-archiver/azure-vote-front:v1
+```
 
 https://docs.microsoft.com/en-us/azure/aks/jenkins-continuous-deployment
 
@@ -248,19 +252,16 @@ https://engineering.taboola.com/5-simple-tips-boosting-jenkins-performance
 ## Views
 
 [Views](https://www.jenkins.io/doc/developer/views/)
-
-**Example -**
-
  ![image](../../media/jenkins-views.jpg)
 
 ## Scripts
 
-### Kill all jobs
-
 ```java
+// Kill all jobs
+
 import java.util.ArrayList
-  import hudson.model.*;
-  import jenkins.model.Jenkins
+import hudson.model.*;
+import jenkins.model.Jenkins
 
   // Remove everything which is currently queued
   def q = Jenkins.instance.queue
@@ -291,16 +292,15 @@ import java.util.ArrayList
       }
     }
 }
+
+// Clear build queue, Manage Jenkins > Script Console:
+Jenkins.instance.queue.clear()
 ```
 
 ## Resources
 
-https://koudingspawn.de/the-complete-ci-cd-part-1
-
-[**https://www.jenkins.io/projects/blueocean/**](https://www.jenkins.io/projects/blueocean/)
-
-[How to deploy Jenkins on Kubernetes for CI/CD (DevOps)](https://www.youtube.com/watch?v=eRWIJGF3Y2g)
-
-https://www.youtube.com/watch?v=eqOCdNO2Nmk
-
-https://www.infracloud.io/blogs/jenkins-freestyle-pipeline-migration
+- https://koudingspawn.de/the-complete-ci-cd-part-1
+- [**https://www.jenkins.io/projects/blueocean/**](https://www.jenkins.io/projects/blueocean/)
+- [How to deploy Jenkins on Kubernetes for CI/CD (DevOps)](https://www.youtube.com/watch?v=eRWIJGF3Y2g)
+- https://www.youtube.com/watch?v=eqOCdNO2Nmk
+- https://www.infracloud.io/blogs/jenkins-freestyle-pipeline-migration

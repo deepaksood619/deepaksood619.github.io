@@ -138,6 +138,20 @@ Celo is based on a belief that programmable money will unlock new economic model
 
 https://www.notboring.co/p/celo-building-a-regenerative-economy
 
+[Will RBI make money dance to its tunes?](https://finshots.in/archive/will-rbi-make-money-dance-to-its-tunes/)
+
+Let’s say a school has given money to a student who won a prize to buy books in a particular bookshop. So the student can only use this money for that purpose.
+
+But as soon as the book is purchased and the currency goes to the bookshop owner, it becomes fungible again.
+
+So it’s only for that period the fungibility of money becomes limited.
+
+If the student chooses not to spend the money, it goes back to the school and it becomes fungible again.
+
+So programmability does not militate against fungibility but rather, just puts it on hold.
+
+## Others
+
 Redis for notification
 
 Pulp fiction

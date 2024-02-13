@@ -94,7 +94,7 @@ How to examine the contents of a bitstream?
 
 Proposition: No algorithm can compress every bitstring
 
-Proof 1 - by contradiction
+### Proof 1 - by contradiction
 
 - Suppose you have a universal data compression algorithm U that can compress every bitstream
 - Given bitstring `B~0~`, compress it to get smaller bistring B1.
@@ -102,7 +102,7 @@ Proof 1 - by contradiction
 - Continue until reaching bitstring of size 0
 - Implication: all bitstrings can be compressed to 0 bits
 
-Proof 2 - by counting
+### Proof 2 - by counting
 
 - Suppose your algorithm that can compress all 1000-bit strings
 - `2^1000^` possible bitstrings with 1000 bits
@@ -114,12 +114,12 @@ Proof 2 - by counting
 ![image](../../media/Intro-image6.jpg)
 
 1. **Lossless compression**
-    - **Represent fixed-length symbols with variable-length codes [Huffman]**
-    - **Represent variable-length symbols with fixed-length codes [LZW]**
+    - Represent fixed-length symbols with variable-length codes (Huffman)
+    - Represent variable-length symbols with fixed-length codes (LZW)
 
 2. **Lossy compression**
-    - **JPEG, MPEG, MP3**
-    - **FFT, wavelets, fractals**
+    - JPEG, MPEG, MP3
+    - FFT, wavelets, fractals
 
 ## Theoretical limits on compression - Shannon entropy
 

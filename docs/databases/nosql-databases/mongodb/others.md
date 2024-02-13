@@ -8,6 +8,8 @@ The oplog (operation log) is a capped collection that records all write operatio
 
 Change streams allow applications to access real-time data changes without the complexity and risk of tailing the [oplog](https://www.mongodb.com/docs/manual/reference/glossary/#std-term-oplog). Applications can use change streams to subscribe to all data changes on a single collection, a database, or an entire deployment, and immediately react to them. Because change streams use the aggregation framework, applications can also filter for specific changes or transform the notifications at will.
 
+Starting in MongoDB 5.1, change streams are optimized, providing more efficient resource utilization and faster execution of some aggregation pipeline stages.
+
 [Change Streams - MongoDB Manual](https://www.mongodb.com/docs/manual/changeStreams/)
 
 ## Tailable Cursors

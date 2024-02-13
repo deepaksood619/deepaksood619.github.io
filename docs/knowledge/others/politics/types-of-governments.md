@@ -12,6 +12,10 @@ turtles move slow, the government moves slower
 
 I disapprove of what you say, but will defend to the death your right to say it.
 
+[How to Build Democracy — in an Authoritarian Country | Tessza Udvarhelyi | TED - YouTube](https://www.youtube.com/watch?v=-QkDwqktaVk)
+
+Democracy is not a noun but a verb, it something you do
+
 ### Oligarchy
 
 a small group of people having control of a country or organization.

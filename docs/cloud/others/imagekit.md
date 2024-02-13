@@ -24,7 +24,7 @@
 - [How it works? - ImageKit.io Docs](https://docs.imagekit.io/integration/how-it-works)
 - [Optimize and resize images in AWS S3 in real-time with ImageKit](https://imagekit.io/blog/image-optimization-resize-aws-s3-imagekit/)
 
-#### Question
+#### Question - Imagekit vs AWS S3 for uploading images
 
 For optimizing the upload process of a huge size of images with a lot of images, what is the way to go, where uploads are distributed throughout the world?
 
@@ -32,6 +32,32 @@ For optimizing the upload process of a huge size of images with a lot of images,
 2. Upload to imagekit directly using it's react library and authenticationEndpoint and don't use S3?
 
 Currently we are sending images to backend, and backend uploads to imagekit, which is not a good scalable method, so we will migrate to one of the above methods.
+
+##### Answer
+
+both approaches mentioned can be possible using ImageKit.
+
+Storing your assets in ImageKit DAM can have significant advantages, as mentioned below:
+
+ImageKit’s Media Library is a highly available Digital Asset Management Solution. The storage system that forms the basis of the Media Library/DAM is co-located with our core processing servers. DAM storage is currently spread across 6 locations - USA West (California). USA East (North Virginia), Europe (Frankfurt), Asia (Mumbai), South East Asia (Singapore), and Australia (Sydney).
+
+All the assets are stored in the region that you select while creating your account with ImageKit.
+
+ImageKit’s Digital Asset Management Solution is not only a highly available Storage solution, but it comes with a lot of other significant benefits over traditional Cloud Storage.
+
+Simple User Interface that can be used both by your tech and nontech teams with a wide range of APIs for integrations with other products.
+
+There are multiple ways to organize your assets by creating AI tags, manual tags, and custom Metadata.
+
+Easier search options for retrieval of your assets.
+
+Granular User Role Management and Sharing of assets within or outside your Organization.
+
+Delivery and real-time transformation of your Stored assets through a CDN
+
+Read more on the different features provided by ImageKit DAM [here](https://docs.imagekit.io/media-library/overview).
+
+Also, as the assets are stored in the same region as the Image Processing region while delivering assets directly from the DAM, you would see performance benefits as compared to using an AWS s3 as both the Storage and the Processing region will be in the same region and infrastructure used by ImageKit.
 
 ### Optimizations
 
@@ -115,6 +141,14 @@ If you update the time stamp on your URL to the one on newer version, you skip t
 - [GitHub - imagekit-developer/imagekit-javascript: Javascript SDK for using ImageKit.io](https://github.com/imagekit-developer/imagekit-javascript)
 - [GitHub - imagekit-developer/imagekit-react: React SDK for using ImageKit.io](https://github.com/imagekit-developer/imagekit-react)
 - [GitHub - imagekit-developer/imagekit-python: ImageKit.io Python SDK](https://github.com/imagekit-developer/imagekit-python)
+
+## Signed URLs
+
+[5 ways to secure your website images with ImageKit](https://imagekit.io/blog/secure-website-images-with-imagekit/)
+
+[Signed URLs - ImageKit.io Docs](https://docs.imagekit.io/features/security/signed-urls)
+
+[Private images - ImageKit.io Docs](https://docs.imagekit.io/features/security/private-images)
 
 ## Others
 

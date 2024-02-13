@@ -21,6 +21,8 @@ https://www.scotthyoung.com/blog/2020/09/07/beyond-self-improvement
 
 Focus on being productive instead of being busy. -- Tim Ferriss
 
+You cannot fix all the things - Use the rule 63 - Pick 3, suck up the other 60
+
 Motion does not equal action. Busyness does not equal effectiveness.
 
 Bekaar aadmi kuch kiya kar... Kapde udherkar siya kar...
