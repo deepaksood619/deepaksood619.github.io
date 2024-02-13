@@ -132,18 +132,11 @@ Snowflake actually uses a multi-cluster, shared data architecture. The storage a
 
 ## Links
 
-[**Snowflake SnowPro Certification - Tutorial - YouTube**](https://www.youtube.com/playlist?list=PLba2xJ7yxHB71_GEKbQDBk0EKMq6b6S-k)
-
-[Snowflake Tutorial - YouTube](https://www.youtube.com/playlist?list=PLba2xJ7yxHB7SWc4Sm-Sp3uGN74ulI4pS)
-
-[The Snowflake Data Cloud - Mobilize Data, Apps, and AI](https://www.snowflake.com/en/)
-
-[What is Snowflake? 8 Minute Demo - YouTube](https://www.youtube.com/watch?v=9PBvVeCQi0w)
-
-[Snowflake Explained In 9 Mins | What Is Snowflake Database | Careers In Snowflake | MindMajix - YouTube](https://www.youtube.com/watch?v=hJHWmYcdDn8)
-
-[Snowflake Documentation](https://docs.snowflake.com/)
-
-[Top Snowflake Interview Questions and Answers (2023) - InterviewBit](https://www.interviewbit.com/snowflake-interview-questions/)
-
-[Top 50 Snowflake Interview Questions And Answers 2023](https://mindmajix.com/snowflake-interview-questions)
+- [**Snowflake SnowPro Certification - Tutorial - YouTube**](https://www.youtube.com/playlist?list=PLba2xJ7yxHB71_GEKbQDBk0EKMq6b6S-k)
+- [**Snowflake Tutorial - YouTube**](https://www.youtube.com/playlist?list=PLba2xJ7yxHB7SWc4Sm-Sp3uGN74ulI4pS)
+- [The Snowflake Data Cloud - Mobilize Data, Apps, and AI](https://www.snowflake.com/en/)
+- [What is Snowflake? 8 Minute Demo - YouTube](https://www.youtube.com/watch?v=9PBvVeCQi0w)
+- [Snowflake Explained In 9 Mins | What Is Snowflake Database | Careers In Snowflake | MindMajix - YouTube](https://www.youtube.com/watch?v=hJHWmYcdDn8)
+- [Snowflake Documentation](https://docs.snowflake.com/)
+- [Top Snowflake Interview Questions and Answers (2023) - InterviewBit](https://www.interviewbit.com/snowflake-interview-questions/)
+- [Top 50 Snowflake Interview Questions And Answers 2023](https://mindmajix.com/snowflake-interview-questions)

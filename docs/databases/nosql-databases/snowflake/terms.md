@@ -70,19 +70,19 @@ a task is a SQL statement executed either on a schedule or in response to the co
 
 ### [**temporary table**](https://docs.snowflake.net/manuals/user-guide/tables-temp-transient.html#temporary-tables)
 
-these tables exist only for the duration of a session and are not queriable by any other user. This is useful for ETL processing and helps reduce storage costs as temp tables do not use the same amount of failsafe storage that a standard table does.
+These tables exist only for the duration of a session and are not queriable by any other user. This is useful for ETL processing and helps reduce storage costs as temp tables do not use the same amount of failsafe storage that a standard table does.
 
 ### [**time travel**](https://docs.snowflake.net/manuals/user-guide/data-time-travel.html)
 
-this feature enables users to query data at different points within a range of time (configured at the storage object level). The longer the range of time (up to 90 days, but 1 day by default), the more storage charges are incurred. This feature is valuable for comparing state over time without having to manage additional complex storage structures.
+This feature enables users to query data at different points within a range of time (configured at the storage object level). The longer the range of time (up to 90 days, but 1 day by default), the more storage charges are incurred. This feature is valuable for comparing state over time without having to manage additional complex storage structures.
 
 ### [**transaction**](https://docs.snowflake.net/manuals/sql-reference/transactions.html)
 
-a transaction is a collection of SQL statements that must either be entirely executed successfully or entirely unexecuted (no partial execution). These transactions are fully [ACID compliant](https://en.wikipedia.org/wiki/ACID).
+A transaction is a collection of SQL statements that must either be entirely executed successfully or entirely unexecuted (no partial execution). These transactions are fully [ACID compliant](https://en.wikipedia.org/wiki/ACID).
 
 ### [**transient table**](https://docs.snowflake.net/manuals/user-guide/tables-temp-transient.html#transient-tables)
 
-transient tables are really similar to temporary tables, but they persist beyond a single session and can be queried by other users. They differ from standard tables by having no failsafe storage, making them cheaper but less durable.
+Transient tables are really similar to temporary tables, but they persist beyond a single session and can be queried by other users. They differ from standard tables by having no failsafe storage, making them cheaper but less durable.
 
 ### [**UDF (user-defined function)**](https://docs.snowflake.net/manuals/sql-reference/udf-overview.html)
 

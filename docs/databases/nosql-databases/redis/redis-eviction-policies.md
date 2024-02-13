@@ -60,3 +60,37 @@ https://redis.io/topics/lru-cache
 https://tokers.github.io/posts/lru-and-lfu-in-redis-memory-eviction
 
 ![cache-problems](../../../media/Pasted%20image%2020240105232856.png)
+
+## Important Points
+
+### 1. Cache density is more impactful than eviction policy
+
+That means data compression and reducing cache metadata is more important than the choice made between LRU and FIFO algorithms.
+
+The more objects you can stuff in a cache, the more performant it is.
+
+### 2. Object sizes change in the course of time
+
+This significantly impacts cache performance, since memory either fragments or calcifies (new objects can't be added because other size slabs have taken up space).
+
+There are no efficient proven algorithms to deal with this problem!
+
+### 3. Object TTL (TIME TO LIVE) can be more important than its eviction policy
+
+Despite it's importance, there are no good proven algorithms for evicting expired objects.
+
+A full scan is inefficient, and algorithms like the timer wheel (explained at InterviewReady) don't work on all objects.
+
+Again, we notice that some principles of Java's garbage collection can be applied here (especially the generational hypothesis). Do check out the videos mentioned above.
+
+### 4. Not all workloads are read-heavy
+
+Facebook has very read heavy workloads, and Memcached is accordingly optimised for reads.
+
+Twemcache has some write heavy workloads too (about 35-40% of the queries result in write operations).
+
+The result is a break of many expectations, like behavior changes in TTL of objects and the number of times these objects are accessed.
+
+Understandably, with these expectations breaking, cache performance of write heavy clusters isn't great.
+
+- Using production log traces from Twitter to evaluate different caching strategies.

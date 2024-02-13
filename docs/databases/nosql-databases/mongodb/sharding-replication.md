@@ -16,7 +16,7 @@ A MongoDB sharded cluster consists of the following components:
 
 #### Hedged Reads
 
-Starting in version 4.4, [`mongos`](https://www.mongodb.com/docs/manual/reference/program/mongos/#mongodb-binary-bin.mongos) instances can hedge reads that use non-`primary` [read preferences](https://www.mongodb.com/docs/manual/core/read-preference/). With hedged reads, the [`mongos`](https://www.mongodb.com/docs/manual/reference/program/mongos/#mongodb-binary-bin.mongos) instances route read operations to two replica set members per each queried shard and return results from the first respondent per shard. The additional read sent to hedge the read operation uses the `maxTimeMS` value of [`maxTimeMSForHedgedReads`.](https://www.mongodb.com/docs/manual/reference/parameters/#mongodb-parameter-param.maxTimeMSForHedgedReads)
+Starting in version 4.4, [`mongos`](https://www.mongodb.com/docs/manual/reference/program/mongos/#mongodb-binary-bin.mongos) instances can hedge reads that use `non-primary` [read preferences](https://www.mongodb.com/docs/manual/core/read-preference/). With hedged reads, the [`mongos`](https://www.mongodb.com/docs/manual/reference/program/mongos/#mongodb-binary-bin.mongos) instances route read operations to two replica set members per each queried shard and return results from the first respondent per shard. The additional read sent to hedge the read operation uses the `maxTimeMS` value of [`maxTimeMSForHedgedReads`.](https://www.mongodb.com/docs/manual/reference/parameters/#mongodb-parameter-param.maxTimeMSForHedgedReads)
 
 #### Shard Key / Chunks / Balancer
 

@@ -139,7 +139,6 @@ https://towardsdatascience.com/log-compacted-topics-in-apache-kafka-b1aa1e4665a7
 
 - Multiple clusters
     - The replication mechanisms within the Kafka clusters are designed only to work within a single cluster, not between multiple clusters
-    - *MirrorMaker*, is simple a Kafka consumer and producer, linked together with a queue. Can aggregate messages from two local clusters into an aggregate cluster, and then copying that cluster to other datacenters.
 - Named after writer *Franz Kafka*
 
 ## Apache Kafka 2.4
@@ -149,7 +148,6 @@ https://towardsdatascience.com/log-compacted-topics-in-apache-kafka-b1aa1e4665a7
     - Implement admin API for replica reassignment
     - Sticky partitioner
     - Admin API for deleting consumers offset
-- MirrorMaker 2.0
 
 https://www.confluent.io/blog/apache-kafka-2-4-latest-version-updates
 

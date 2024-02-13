@@ -45,10 +45,11 @@ Data Lab has three offerings - the Build Lab, the Design Lab, and Resident Archi
 
 [AWS expands Amazon Managed Blockchain with Access and Query | AWS Database Blog](https://aws.amazon.com/blogs/database/aws-expands-amazon-managed-blockchain-with-access-and-query/)
 
-## AWS Cost Optimisation
+## AWS Cost Optimisation / Billing
 
 1. [Spot.io](http://spot.io/) - Save up to 80% cost on EC2 using Spot instances.
 2. [Granulate.io](http://granulate.io/) - Optimise Kernel at OS level of a VM. Increase performance
+3. [Navigating AWS FinOps: Harnessing Cloud Intelligence Dashboards for Strategic Cost Optimization – DEVOPS DONE RIGHT](https://blog.opstree.com/2024/02/13/navigating-aws-finops-harnessing-cloud-intelligence-dashboards-for-strategic-cost-optimization/)
 
 ## Others
 

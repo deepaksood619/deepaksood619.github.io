@@ -60,6 +60,7 @@
 - Firebase / Google
 - freecodecamp
 - PyCon
+- [Fireship - YouTube](https://www.youtube.com/@Fireship)
 
 ### Math
 
