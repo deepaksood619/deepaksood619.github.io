@@ -136,3 +136,7 @@ The concepts, components, and features of the platform are described in detail a
 [The Airflow alternative worth checking out: Mage.ai - YouTube](https://www.youtube.com/watch?v=3gXsFEC3aYA)
 
 [GitHub - alseambusher/crontab-ui: Easy and safe way to manage your crontab file](https://github.com/alseambusher/crontab-ui)
+
+Amazon Managed Apache Airflow [What Is Amazon Managed Workflows for Apache Airflow? - Amazon Managed Workflows for Apache Airflow](https://docs.aws.amazon.com/mwaa/latest/userguide/what-is-mwaa.html)
+
+![Amazon MWAA Architecture](../../../media/Pasted%20image%2020240109123958.png)

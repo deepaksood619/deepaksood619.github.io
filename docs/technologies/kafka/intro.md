@@ -151,6 +151,23 @@ https://towardsdatascience.com/log-compacted-topics-in-apache-kafka-b1aa1e4665a7
 
 https://www.confluent.io/blog/apache-kafka-2-4-latest-version-updates
 
+## Kafka without Zookeeper
+
+- KRaft Algorithm
+- [Kafka Without ZooKeeper: A Sneak Peek At the Simplest Kafka Yet](https://www.confluent.io/blog/kafka-without-zookeeper-a-sneak-peek/)
+- [KRaft - Apache Kafka Without ZooKeeper](https://developer.confluent.io/learn/kraft/)
+- [Running Kafka without zookeeper. Kafka uses the Raft consensus algorithm… | by Kamini Kamal | Javarevisited | Medium](https://medium.com/javarevisited/running-kafka-without-zookeeper-66b685db4991)
+- [Installing Apache Kafka without Zookeeper: Guide 101 | Hevo](https://hevodata.com/learn/kafka-without-zookeeper/)
+- [Kafka without Zookeeper: Tutorial & Examples](https://redpanda.com/guides/kafka-tutorial/kafka-without-zookeeper)
+- [KRaft Quorum: How to run Kafka without Zookeper](https://www.conduktor.io/blog/kraft-quorum-run-kafka-without-zookeeper/)
+
+## Best Practices
+
+- https://www.infoq.com/articles/apache-kafka-best-practices-to-optimize-your-deployment
+- https://dzone.com/articles/20-best-practices-for-working-with-apache-kafka-at
+- https://engineering.linkedin.com/kafka/benchmarking-apache-kafka-2-million-writes-second-three-cheap-machines
+- https://www.datadoghq.com/blog/kafka-at-datadog
+
 ## References
 
 - https://en.wikipedia.org/wiki/Apache_Kafka
@@ -166,16 +183,4 @@ https://www.confluent.io/blog/apache-kafka-2-4-latest-version-updates
 - [**https://kafkasummit.io/session-library/**](https://kafkasummit.io/session-library/)
 - [Streamline Event-driven Microservices With Kafka and Python | Toptal](https://www.toptal.com/microservices/event-driven-microservices-kafka-python)
 - [Apache Kafka Explained (Comprehensive Overview) - YouTube](https://www.youtube.com/watch?v=JalUUBKdcA0&ab_channel=Finematics)
-
-## Best Practices
-
-- https://www.infoq.com/articles/apache-kafka-best-practices-to-optimize-your-deployment
-- https://dzone.com/articles/20-best-practices-for-working-with-apache-kafka-at
-- https://engineering.linkedin.com/kafka/benchmarking-apache-kafka-2-million-writes-second-three-cheap-machines
-- https://www.datadoghq.com/blog/kafka-at-datadog
-
-## Changelog
-
-Kafka without Zookeeper
-
-[How to Deploy Kafka using Kubernetes Kafka Operator](https://kubedb.com/articles/how-to-deploy-kafka-using-kubernetes-kafka-operator/)
+- [How to Deploy Kafka using Kubernetes Kafka Operator](https://kubedb.com/articles/how-to-deploy-kafka-using-kubernetes-kafka-operator/)

@@ -5,6 +5,7 @@
 - Top US and world headlines
 - Byju Hindu news analysis
 - Coin bureau
+- Invest aaj for kal
 
 ### Other Links
 
@@ -1913,5 +1914,6 @@
 1903. [The Logistics of White House State Dinners](https://youtu.be/gsGe-n-v7ac)
 1904. [The True Scale of the World's Largest Airports](https://youtu.be/rv4pOrt4KpM)
 1905. [Apple Vision Pro Review: Tomorrow's Ideas... Today's Tech!](https://youtu.be/86Gy035z_KA)
+1906. [Knowledge Series | Science and Technology | UPSC/IAS Prelims & Mains 2022-2023 - YouTube](https://www.youtube.com/playlist?list=PLkJ-kjtioPGoXvhlpWvLqWjtCGyAaA1jl)
 
 ## End

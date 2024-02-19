@@ -14,6 +14,8 @@ The following are the key concepts for VPCs:
 
 https://docs.aws.amazon.com/vpc/latest/userguide/what-is-amazon-vpc.html
 
+[Amazon VPC design - IPv6 on AWS](https://docs.aws.amazon.com/whitepapers/latest/ipv6-on-aws/amazon-vpc-design.html)
+
 ## Route Tables
 
 - **Main route table** The route table that automatically comes with your VPC. It controls the routing for all subnets that are not explicitly associated with any other route table.
@@ -145,7 +147,7 @@ SG - Security Groups
 
 https://docs.aws.amazon.com/vpc/latest/userguide/vpc-eips.html
 
-### Changes
+### Changes (Migrate from ipv4 to ipv6)
 
 Effective February 1, 2024 there will be a charge of $0.005 per IP per hour for all public IPv4 addresses, whether attached to a service or not (there is already a charge for public IPv4 addresses you allocate in your account but don’t attach to an EC2 instance).
 
@@ -155,7 +157,22 @@ This will cost around $4 month per IP per month
 
 [Identify and optimize public IPv4 address usage on AWS | Networking & Content Delivery](https://aws.amazon.com/blogs/networking-and-content-delivery/identify-and-optimize-public-ipv4-address-usage-on-aws/)
 
-[ipv6](https://aws.amazon.com/vpc/ipv6/)
+[Amazon IPv6](https://aws.amazon.com/vpc/ipv6/)
+
+[Migrate your VPC from IPv4 to IPv6 - Amazon Virtual Private Cloud](https://docs.aws.amazon.com/vpc/latest/userguide/vpc-migrate-ipv6.html)
+
+|Step|Notes|
+|---|---|
+|[Step 1: Associate an IPv6 CIDR block with your VPC and subnets](https://docs.aws.amazon.com/vpc/latest/userguide/vpc-migrate-ipv6.html#vpc-migrate-ipv6-cidr)|Associate an Amazon-provided or BYOIP IPv6 CIDR block with your VPC and with your subnets.|
+|[Step 2: Update your route tables](https://docs.aws.amazon.com/vpc/latest/userguide/vpc-migrate-ipv6.html#vpc-migrate-ipv6-routes)|Update your route tables to route your IPv6 traffic. For a public subnet, create a route that routes all IPv6 traffic from the subnet to the internet gateway. For a private subnet, create a route that routes all internet-bound IPv6 traffic from the subnet to an egress-only internet gateway.|
+|[Step 3: Update your security group rules](https://docs.aws.amazon.com/vpc/latest/userguide/vpc-migrate-ipv6.html#vpc-migrate-ipv6-sg-rules)|Update your security group rules to include rules for IPv6 addresses. This enables IPv6 traffic to flow to and from your instances. If you've created custom network ACL rules to control the flow of traffic to and from your subnet, you must include rules for IPv6 traffic.|
+|[Step 4: Assign IPv6 addresses to your instances](https://docs.aws.amazon.com/vpc/latest/userguide/vpc-migrate-ipv6.html#vpc-migrate-assign-ipv6-address)|Assign IPv6 addresses to your instances from the IPv6 address range of your subnet.|
+
+[Is the Public Cloud Ready for IPv6? | by Eyal Estrin ☁️ | AWS in Plain English](https://aws.plainenglish.io/is-the-public-cloud-ready-for-ipv6-ec450974fe38)
+
+[Brace yourself, IPv6 is coming](https://supabase.com/blog/ipv6)
+
+[Amazon EC2 instance IP addressing - Amazon Elastic Compute Cloud](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/using-instance-addressing.html)
 
 ## Others
 

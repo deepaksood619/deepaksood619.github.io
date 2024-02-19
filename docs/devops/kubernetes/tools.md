@@ -342,7 +342,7 @@ kind delete cluster
 
 https://kind.sigs.k8s.io
 
-https://www.youtube.com/watch?v=m-IlbCgSzkc
+[How to run Kubernetes locally with Kind - YouTube](https://www.youtube.com/watch?v=m-IlbCgSzkc)
 
 ## Node Problem Detector
 
