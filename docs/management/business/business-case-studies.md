@@ -375,6 +375,7 @@ Marketing tactic used, light the agarbatti in-front of store and left for 2 days
 - [How LaPino'z DISRUPTED India’s 1,500 Crore Pizza Industry | GrowthX Wireframe - YouTube](https://www.youtube.com/watch?v=NM19ZCXaEIM)
 - [How A Poor Boy Built A 2000Cr Dairy Company And Beat Giants: Business Case Study - YouTube](https://www.youtube.com/watch?v=-98fnc4VAo8)
 - [How This Fitness Startup Built a 700 Crore Empire | GrowthX Wireframe - YouTube](https://www.youtube.com/watch?v=PfiFqdQ7tk8&ab_channel=GrowthX)
-   	- [Notion – The all-in-one workspace for your notes, tasks, wikis, and databases.](https://growthxclub.notion.site/Cult-Fit-3277cbdb88e648ae99b39934571b712d)
+   	- [Cult.fit](https://growthxclub.notion.site/Cult-Fit-3277cbdb88e648ae99b39934571b712d)
+   	- [Can Nirma make the jump from suds to pills?](https://finshots.in/markets/can-nirma-make-the-jump-from-suds-to-pills/)
 
 ## End

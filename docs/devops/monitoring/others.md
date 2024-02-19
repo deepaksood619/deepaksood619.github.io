@@ -186,6 +186,8 @@ https://discuss.newrelic.com/c/customer-on-boarding/proven-practices-best-practi
 
 https://docs.newrelic.com/docs/integrations/kubernetes-integration/kubernetes-events/kubernetes-integration-predefined-alert-policy
 
+[New Relic AI | New Relic](https://newrelic.com/platform/new-relic-ai)
+
 ### Data Tables
 
 1. A screenshot of a table in New Relic where you were particularly frustrated by how it displays your data.

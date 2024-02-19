@@ -15,6 +15,7 @@
 - [Webhooks - ImageKit.io Docs](https://docs.imagekit.io/api-reference/api-introduction/webhooks)
 - [Upload files - ImageKit.io Docs](https://docs.imagekit.io/media-library/overview/upload-files)
 - [Digital Asset Storage and Management | ImageKit.io](https://imagekit.io/features/digital-asset-storage/)
+- [Recent updates from ImageKit and what's next](https://imagekit.io/blog/imagekit-recent-updates-future-roadmap-022024)
 
 ### Bulk Upload
 

@@ -6,6 +6,8 @@ The core idea of GitOps is having a Git repository that always contains declarat
 
 Git is the single source of truth for the desired state of a system
 
+![Gitops Workflow](../../media/Pasted%20image%2020240219154717.png)
+
 ## GitOps requires three core components
 
 ### IaC
