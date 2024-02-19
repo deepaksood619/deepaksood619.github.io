@@ -1067,4 +1067,6 @@ That's why you've gotta learn by doing.
 
 Broken clock is also right twice a day
 
+He gave me abuses; I didn't take them. So the abuses remained with him. -- Gautam Buddha
+
 ## End

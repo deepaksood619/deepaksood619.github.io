@@ -16,6 +16,8 @@ The problem with election is one of them is going to win.
 
 The best argument against democracy is a five-minute conversation with the average voter. -- Winston Churchill
 
+Patriotism is the last refuge of a scoundrel -- Samuel Johnson
+
 ## Reforms India
 
 - Anti-defection law

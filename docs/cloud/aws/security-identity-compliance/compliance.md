@@ -72,60 +72,51 @@ SOC 1 revolves around financial reporting, whereas SOC 2 focuses more on complia
 
 #### MODULE-C: OPERATIONAL RISK
 
-Introduction, Basel-I & II - RBI guidelines - Likely forms of operational risk and causes for
-significant increase in operational risk - Sound Principles of Operational Risk Management
-(SPOR) - SPOR - organizational set up and key responsibilities of ORM - SPOR - policy
-requirements and strategic approach for ORM - SPOR identification, measurement, control/
-mitigation of operational risks - Capital allocation for operational risk, methodology,
-qualifying criteria for banks for the adoption of the methods - Computation of capital charge
-for operational risk
+- Introduction
+- Basel-I & II
+- RBI guidelines
+- Likely forms of operational risk and causes for significant increase in operational risk - Sound Principles of Operational Risk Management (SPOR) - SPOR - organizational set up and key responsibilities of ORM - SPOR - policy requirements and strategic approach for ORM - SPOR identification, measurement, control/ mitigation of operational risks
+- Capital allocation for operational risk, methodology, qualifying criteria for banks for the adoption of the methods
+- Computation of capital charge for operational risk
 
 #### MODULE-D: MARKET RISK
 
-Introduction and definition - Prescriptions of Basel-I & II - Liquidity risk - Interest rate risk - Foreign exchange risk - Price risk (Equity) - Commodity risk
-Treatment of market risk under Basel
-a) Standardized duration method
-b) Internal measurement approach - VaR
-Basel-III guidelines
+Introduction and definition
 
-- Risk Management Policy - ALCO structure and functions.
+- Prescriptions of Basel-I & II
+- Liquidity risk
+- Interest rate risk
+- Foreign exchange risk
+- Price risk (Equity)
+- Commodity risk
+- Treatment of market risk under Basel
+   	- Standardized duration method
+   	- Internal measurement approach - VaR
+- Basel-III guidelines
+- Risk Management Policy
+- ALCO structure and functions
 
 ### Paper-II: Compliance in banks
 
 #### MODULE-A: REGULATION AND REGULATORY FRAMEWORK
 
-1) Need for regulation in banks; importance of regulation, the role of regulators, the
-instruments of regulation, regulatory models, regulatory authorities.
+1) Need for regulation in banks; importance of regulation, the role of regulators, the instruments of regulation, regulatory models, regulatory authorities.
 
 #### MODULE-B: COMPLIANCE PROGRAMME
 
-1) Compliance Risk and significance of Compliance Function; Compliance Policy;
-Compliance principles, process and procedures; Steps taken by Banks for compliance;
-Scope of compliance function; The Compliance Programme
-2) Compliance governance structure; Organizational structure; Responsibility of the Board
-and Senior Management; Compliance structure at corporate office; Functional
-departments; Field level; Internal controls and its importance
-3) Compliances issues; Compliance Risk; Inherent risk and Control risk; Independent
-testing and effective audit programme; Reporting Framework and monitoring
-compliance, reporting of breaches/ non-compliances observed; Role of Audit and
-Inspection; Essentials for good compliance
-4) Creating compliance culture across the organization; Governance, risk and compliance
-
-- GRC framework; Benefits of Taking an Integrated GRC Approach; Whistleblower
-mechanism; The Components of a Whistle-Blower Policy; Reasons for compliance
-failures
+1) Compliance Risk and significance of Compliance Function; Compliance Policy; Compliance principles, process and procedures; Steps taken by Banks for compliance; Scope of compliance function; The Compliance Programme
+2) Compliance governance structure; Organizational structure; Responsibility of the Board and Senior Management; Compliance structure at corporate office; Functional departments; Field level; Internal controls and its importance
+3) Compliances issues; Compliance Risk; Inherent risk and Control risk; Independent testing and effective audit programme; Reporting Framework and monitoring compliance, reporting of breaches/ non-compliances observed; Role of Audit and Inspection; Essentials for good compliance
+4) Creating compliance culture across the organization; Governance, risk and compliance - GRC framework; Benefits of Taking an Integrated GRC Approach; Whistleblower mechanism; The Components of a Whistle-Blower Policy; Reasons for compliance failures
 
 #### MODULE-C: REGULATORY COMPLIANCES
 
-1) Disclosures in Financial statements of Banks; Disclosure Requirements; Capital; Repo
-Transactions, Investment Portfolio; Derivatives; Asset Quality; Asset Re-construction,
-Business Ratios; Asset Liability Management;
-Accounting Standard; Disclosures relating to Securitization
-2) Exposure norms; credit exposure to individuals/ groups; exposure to certain industries;
-exposure to capital markets; exposures to joint ventures abroad
+1) Disclosures in Financial statements of Banks; Disclosure Requirements; Capital; Repo Transactions, Investment Portfolio; Derivatives; Asset Quality; Asset Re-construction, Business Ratios; Asset Liability Management; Accounting Standard; Disclosures relating to Securitization
+2) Exposure norms; credit exposure to individuals/ groups; exposure to certain industries; exposure to capital markets; exposures to joint ventures abroad
 3) Computation of CRR/ SLR
 4) Capital adequacy, Basel II, Basel III
 5) KYC/ Anti-Money Laundering guidelines
+6) Mule Accounts
 
 #### MODULE-D: STATUTORY, REGULATORY RESTRICTIONS AND GUIDELINES ON
 
@@ -143,12 +134,9 @@ REGULATIONS
 1) Investment in India and abroad
 2) Guidelines for exports
 3) Guidelines for External commercial borrowings (ECB)
-4) Money changing, Miscellaneous Remittances from India - Facilities for Residents;
-Remittance Facilities for Non-Resident Indians/ Persons of Indian Origin/ Foreign
-Nationals; Risk Management and Inter-Bank Dealings
+4) Money changing, Miscellaneous Remittances from India - Facilities for Residents; Remittance Facilities for Non-Resident Indians/ Persons of Indian Origin/ Foreign Nationals; Risk Management and Inter-Bank Dealings
 5) Guidelines for import of goods and services
-6) Deposit accounts for NRIs; Memorandum of Instructions for opening and maintenance
-of Rupee/ Foreign Currency/ Vostro Accounts of Non-resident & Exchange Houses
+6) Deposit accounts for NRIs; Memorandum of Instructions for opening and maintenance of Rupee/ Foreign Currency/ Vostro Accounts of Non-resident & Exchange Houses
 
 #### MODULE-F: GUIDELINES FOR CUSTOMER SERVICE
 
