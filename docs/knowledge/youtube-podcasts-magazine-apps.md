@@ -16,6 +16,7 @@
 - [Veritasium - YouTube](https://www.youtube.com/@veritasium)
 - [Institute of Human Anatomy - YouTube](https://www.youtube.com/@TheAnatomyLab)
 - [NileRed - YouTube](https://www.youtube.com/@NileRed)
+- [Science - YouTube](https://www.youtube.com/@science-channel)
 
 ### Inventions and Building Stuff / Engineering
 
@@ -128,7 +129,7 @@
 - RealLifeLore
 - Technology Connections
 - Science Magazine
-- Big Think
+- [Big Think - YouTube](https://www.youtube.com/@bigthink)
 - Theories of Everything with Curt Jaimungal
 - Visual politik EN
 - [Zero To Finals - YouTube](https://www.youtube.com/@ZeroToFinals)

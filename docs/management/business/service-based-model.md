@@ -27,6 +27,6 @@ Suitable for every scale of business and project, team augmentation helps add re
 
 When project specifications, scope, deliverables and acceptance criteria are clearly defined, we can evaluate and offer a fixed quote for the project. This is mostly suitable for small-mid scale projects with well documented specifications.
 
-#### Time & Material Model
+#### Time & Material Model (T&M)
 
 Suitable for projects that have undefined or dynamic scope requirements or complicated business requirements due to which the cost estimation is not possible. Therefore, developers can be hired per their time.

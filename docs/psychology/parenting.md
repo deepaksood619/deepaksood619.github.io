@@ -107,3 +107,6 @@ Why kicking out children after 18 years is important, let's say you are very wea
 - [Toddlers Fears](https://www.whattoexpect.com/toddler-development/toddler-fears.aspx)
 - [How to talk to babies](https://www.whattoexpect.com/first-year/milestones/how-to-talk-to-babies)
 - [7 Signs that Witnessing Unhealthy Anger in Childhood Hurts You Today - YouTube](https://www.youtube.com/watch?v=yyTfxRUu8gc)
+- [How to Encourage Independent Play in Babies and Toddlers](https://www.whattoexpect.com/playroom/playtime-tips/playing-solo.aspx)
+- [Babies and Transitional Objects](https://www.whattoexpect.com/first-year/week-44/transitional-objects.aspx)
+- [Can You Teach a Baby Discipline?](https://www.whattoexpect.com/baby-behavior/teaching-discipline.aspx)

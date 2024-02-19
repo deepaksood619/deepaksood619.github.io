@@ -1,6 +1,6 @@
 # Apache Hadoop
 
-- [Apache Hadoop](about.md)
+- [Apache Hadoop](technologies/apache/apache-hadoop/about.md)
 - [Intro](technologies/apache/apache-hadoop/intro.md)
 - [Big Data Hadoop Stack](big-data-hadoop-stack)
 - [HDFS](hdfs)

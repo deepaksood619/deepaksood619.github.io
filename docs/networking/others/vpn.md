@@ -105,31 +105,31 @@ https://pages.awscloud.com/AWSMP-SEC-NetworkSecurity-Edge-SASE-en.html
 
 Cloudflare Zero Trust replaces legacy security perimeters with our global network, making the Internet faster and safer for teams around the world.
 
-**Zero Trust access for all of your applications.**
+### Zero Trust access for all of your applications
 
 - Authenticate users on our global network
 - Onboard third-party users seamlessly
 - Log every event and request
 
-**A Secure Web Gateway to protect users and devices.**
+### A Secure Web Gateway to protect users and devices
 
 - Enforce your company’s Acceptable Use Policy (AUP)
 - Block risky sites with custom blocklists and built-in threat intel
 - Enhance visibility and protection into SaaS applications
 
-**A fast and reliable solution for remote browsing.**
+### A fast and reliable solution for remote browsing
 
 - Execute all browser code in the cloud
 - Mitigate the impact of attacks
 - Seamless, lightning-fast end user experience
 
-**A Cloud Access Security Broker to safeguard data in the cloud.**
+### A Cloud Access Security Broker to safeguard data in the cloud
 
 - Protect users and sensitive data at rest in SaaS applications
 - Detect insider threats and unsanctioned application usage, or Shadow IT
 - Ensure best practices to prevent data leaks and compliance violations
 
-**A Data Loss Prevention solution to safeguard data in transit.**
+### A Data Loss Prevention (DLP) solution to safeguard data in transit
 
 - Detect sensitive data as it moves to and from SaaS applications
 - Predefined DLP Profiles to quickly get started
@@ -160,3 +160,9 @@ Pritunl provides innovative security features not available from any other provi
 DevOps teams use Teleport to access SSH and Windows servers, Kubernetes, databases, AWS Console, and web applications. Teleport prevents phishing by moving away from static credentials towards ephemeral certificates backed by biometrics and hardware identity, and stops attacker pivots with the Zero Trust design.
 
 [Teleport: Identity-Native Infrastructure Access. Faster. More Secure.](https://goteleport.com/)
+
+### Alternative - StrongDM
+
+[StrongDM](https://strongdm.com/) is a Dynamic Access Management ([DAM](https://www.strongdm.com/dynamic-access-management-dam)) platform that extends Privileged Access Management ([PAM](https://www.strongdm.com/privileged-access-management)) to work across any environment on-premises and in the cloud. It is designed to make access [least-privilege](https://www.strongdm.com/blog/principle-of-least-privilege) by default with role-based, attribute-based, and just-in-time access controls. Companies like Humana, SentinelOne, and more have adopted StrongDM to secure access management to all their critical infrastructure.
+
+[Competitors & Alternatives to Teleport 2024 | StrongDM](https://www.strongdm.com/blog/alternatives-to-gravitational-teleport)

@@ -57,7 +57,12 @@ The set of files used to describe infrastructure in Terraform is simply known as
 
 ## Tools
 
-Atlantis - [Terraform Pull Request Automation | Atlantis](https://www.runatlantis.io/)
+### Atlantis
+
+- [Terraform Pull Request Automation | Atlantis](https://www.runatlantis.io/)
+- [How to setup Atlantis for Infrastructure GitOps - YouTube](https://www.youtube.com/watch?v=uhHt45TJpok)
+- [How to run GitOps process with Run Atlantis - YouTube](https://www.youtube.com/watch?v=IbL9DLAc__M)
+- [How to setup GitOps with terragrunt and Atlantis - YouTube](https://www.youtube.com/watch?v=9OIaVCkiK-s)
 
 ### Terragrunt
 
@@ -75,6 +80,26 @@ Your entire infrastructure. Defined as code. In about a day
 
 - Puppet
 - AWS CloudFormation
+
+#### OpenTofu
+
+The open source infrastructure as code tool.
+
+Previously named OpenTF, OpenTofu is a fork of Terraform that is open-source, community-driven, and managed by the Linux Foundation.
+
+OpenTofu is an OSS tool for building, changing, and versioning infrastructure safely and efficiently. OpenTofu can manage existing and popular service providers as well as custom in-house solutions.
+
+The key features of OpenTofu are:
+
+- **Infrastructure as Code**: Infrastructure is described using a high-level configuration syntax. This allows a blueprint of your datacenter to be versioned and treated as you would any other code. Additionally, infrastructure can be shared and re-used.
+- **Execution Plans**: OpenTofu has a "planning" step where it generates an execution plan. The execution plan shows what OpenTofu will do when you call apply. This lets you avoid any surprises when OpenTofu manipulates infrastructure.
+- **Resource Graph**: OpenTofu builds a graph of all your resources, and parallelizes the creation and modification of any non-dependent resources. Because of this, OpenTofu builds infrastructure as efficiently as possible, and operators get insight into dependencies in their infrastructure.
+- **Change Automation**: Complex changesets can be applied to your infrastructure with minimal human interaction. With the previously mentioned execution plan and resource graph, you know exactly what OpenTofu will change and in what order, avoiding many possible human errors.
+
+##### Links
+
+- [OpenTofu](https://opentofu.org/)
+- [GitHub - opentofu/opentofu: OpenTofu lets you declaratively manage your cloud infrastructure.](https://github.com/opentofu/opentofu)
 
 ## Terraform vs CloudFormation
 

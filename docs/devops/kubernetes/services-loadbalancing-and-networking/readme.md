@@ -92,6 +92,13 @@ Last but not least... all Pods are on the same flat overlay network and routes e
 
 https://nigelpoulton.com/blog/f/demystifying-kubernetes-service-discovery
 
+[Fun DNS Facts Learned from the KIND Environment | by HungWei Chiu | Medium](https://hwchiu.medium.com/fun-dns-facts-learned-from-the-kind-environment-241e0ea8c6d4)
+
+1. Docker has an integrated DNS server to handle DNS requests between Docker containers.
+2. Docker simplifies the deployment and operation of DNS through iptables and namespaces.
+3. Kubernetes’ CoreDNS is influenced by Docker DNS by default due to /etc/resolve modifications.
+4. KIND modifies these rules twice to correct all routes, ensuring DNS forwarding.
+
 ## Others
 
 - Kubernetes performs IP address management (**IPAM**) to keep track of used and free IP addresses on the Pod network.
