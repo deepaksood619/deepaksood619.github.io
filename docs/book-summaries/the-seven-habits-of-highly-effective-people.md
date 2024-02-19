@@ -17,3 +17,19 @@ By Stephen Covey
 - To change, you have to address your character, not your behavior.
 - Our paradigms are our subjective perception of the world that shapes our habits.
 - If you want to be able to influence others, first seek to understand. Only then can you be understood.
+
+['How to be successful': 13 thoughts by OpenAI CEO Sam Altman](https://www.hindustantimes.com/web-stories/lifestyle/how-to-be-successful-13-thoughts-by-openai-ceo-sam-altman-101706498867299.html)
+
+- Compound yourself
+- Have almost too much self belief
+- Learn to think independently
+- Get good at sales
+- Make it easy to take risks
+- Focus
+- Work hard
+- Be bold
+- Be willful
+- Be hard to compete with
+- Build a network
+- You get rich by owning things
+- Be internally driven

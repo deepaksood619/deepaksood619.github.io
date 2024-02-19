@@ -286,5 +286,11 @@
 282. [Top 6 Tools to Turn Diagrams into Beautiful Code - YouTube](https://www.youtube.com/watch?v=jCd6XfWLZsg)
 283. [AI Engineering with Scrimba CEO Per Borgen – freeCodeCamp.org Podcast Interview - YouTube](https://www.youtube.com/watch?v=vDJq3QavcaQ)
 284. [Crypto Heist: The Aftermath of a Government Website Cryptojacking Attack • Scott Helme • GOTO 2023 - YouTube](https://www.youtube.com/watch?v=K9MwaSRdA94)
+285. [OCaml for Fun & Profit: An Experience Report • Tim McGilchrist • YOW! 2023](https://youtu.be/TxuLrsQZprE)
+286. [Event Modeling from Beginner to Expert • Adam Dymitruk • YOW! 2023](https://youtu.be/Pin_B-AbdXE)
+287. [Building Images For The Secure Supply Chain in 1 Minute • Adrian Mouat •...](https://youtu.be/bi6HD-4VIzI)
+288. [Shifting from Syntax to Secure Software Development Processes • Laura Be...](https://youtu.be/nYwkct_fU5I)
+289. [One Rule to Rule Them All • Pragmatic Dave Thomas • GOTO 2023](https://youtu.be/qjJ6LvOU7q0)
+290. [How to Make Sensible Software Design Decisions in 8 Min • Bert Jan Schri...](https://youtu.be/228EtivReAs)
 
 ## End
