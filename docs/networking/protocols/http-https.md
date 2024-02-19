@@ -1,8 +1,10 @@
 # HTTP / HTTPS
 
-**URL - Uniform Resource Locator**
+- **URL - Uniform Resource Locator**
+- **URI - Uniform Resource Indicator**
+- **URN - Uniform Resource Name**
 
-**URI - Uniform Resource Indicator**
+![URL vs URI vs URN](../../media/Pasted%20image%2020240219161536.png)
 
 Standing for Hypertext Transfer Protocol, HTTP is an application layer protocol that enables communication between two entities in a network.
 

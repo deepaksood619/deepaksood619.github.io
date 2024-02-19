@@ -74,3 +74,7 @@ The CIM system provides an interface for remote applications so that they can ac
 [What Is the VMware ESXi Server and Its Role in the VMware Suite?](https://www.parallels.com/blogs/ras/vmware-esxi/)
 
 [What is VMware ESXi? - Definition from TechTarget.com](https://www.techtarget.com/searchvmware/definition/VMware-ESXi)
+
+[Virtualization and Containerization: Which one to pick?](https://blog.bytebytego.com/p/virtualization-and-containerization)
+
+[Type 1 vs. Type 2 Hypervisors: What's the Difference?](https://youtu.be/0cAcYq7YyWQ)

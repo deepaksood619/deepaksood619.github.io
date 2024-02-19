@@ -28,7 +28,7 @@
 
 |**Generations**|**Born**|**Current Ages (as of 2024)** |
 |:--|:--|:--|
-|**Gen Z**|1997 – 2012|12 – 27|
+|**Gen Z \| GenZ** |1997 – 2012|12 – 27|
 |**Millennials**|1981 – 1996|28 – 43|
 |**Gen X**|1965 – 1980|44 – 59|
 |**Boomers II (a/k/a Generation Jones)***|1955 – 1964|60 – 69|

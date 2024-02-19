@@ -85,7 +85,9 @@ Design patterns which are used for architectural purposes. Some of the most famo
 - MVVP
 - Clean Architecture (Uncle Bob Android)
 
-    https://www.youtube.com/watch?v=BrT3AO8bVQY
+![MVC, MVP, MVVM, VIPER Patterns](../../media/Pasted%20image%2020240219162128.png)
+
+[10 Architecture Patterns Used In Enterprise Software Development Today - YouTube](https://www.youtube.com/watch?v=BrT3AO8bVQY&ab_channel=CodingTech)
 
 ## Others
 

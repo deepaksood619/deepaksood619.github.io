@@ -1,12 +1,25 @@
 # Others
 
+## Boot
+
+1. When we turn on the power, BIOS (Basic Input/Output System) or UEFI (Unified Extensible Firmware Interface) firmware is loaded from non-volatile memory, and executes POST (Power On Self Test).
+2. BIOS/UEFI detects the devices connected to the system, including CPU, RAM, and storage.
+3. Choose a booting device to boot the OS from. This can be the hard drive, the network server, or CD ROM.
+4. BIOS/UEFI runs the boot loader (GRUB), which provides a menu to choose the OS or the kernel functions.
+5. After the kernel is ready, we now switch to the user space. The kernel starts up systemd as the first user-space process, which manages the processes and services, probes all remaining hardware, mounts filesystems, and runs a desktop environment.
+6. systemd activates the default. target unit by default when the system boots. Other analysis units are executed as well.
+7. The system runs a set of startup scripts and configure the environment.
+8. The users are presented with a login window. The system is now ready.
+
+![Linux Boot Process](../../media/Pasted%20image%2020240219161748.png)
+
 ## systemd / initd
 
-systemdis a collection of tools for a range of different tasks.Its primary purpose is initializing, managing and tracking system services and daemons in Fedora, both during startupand while the system is running.
+systemd is a collection of tools for a range of different tasks.Its primary purpose is initializing, managing and tracking system services and daemons in Fedora, both during startupand while the system is running.
 
-The **init system** is the first process started on Fedora after the kernel starts. In fact, the init system always gets the Process ID (PID) of 1 on a system. This process is always executed by the Linux kernel after the early stages of bootup arecompleted by the BIOS and bootloader (GRUB).
+The **init system** is the first process started on Fedora after the kernel starts. In fact, the init system always gets the Process ID (PID) of 1 on a system. This process is always executed by the Linux kernel after the early stages of boo tup are completed by the BIOS and bootloader (GRUB).
 
-The init system thenmuststart all the necessary daemons, background processes and services required to make the operating system work. Examples of such processes include starting up a bootscreen, various parts of the networking stack, andhardware in your machine.
+The init system then must start all the necessary daemons, background processes and services required to make the operating system work. Examples of such processes include starting up a bootscreen, various parts of the networking stack, and hardware in your machine.
 
 Often these processes continue to run in the background after they start, and are calleddaemons.These daemonsmanage many parts of your system, such as logging information, watching for devices you insert or remove, and managing user login.
 
@@ -39,7 +52,7 @@ Journald replaces the plain text files of syslog with a binary format that:
 - Stores these messages in a space-efficient way that does not require renaming files for maintenance
 - Gives fast access to messages given specific criteria, much like a database would
 
-## Commands
+### Commands
 
 ```bash
 - journalctl #view blob messages
@@ -95,7 +108,7 @@ logrotate is designed to ease administration of systems that generate large numb
 
 `Options - man logrotate.conf`
 
-## Example
+### Example
 
 ```json
 /tmp/email.log {
