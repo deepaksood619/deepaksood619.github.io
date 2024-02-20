@@ -117,6 +117,13 @@ Brokers are the Kafka processes that process the messages in Kafka
 - A consumer instance gets the messages in the same order as they are produced
 - A topic with replication factor N, tolerates upto N-1 server failures
 
+## Transactions in Kafka
+
+- Atomic multi-partition writes
+- Zombie fencing
+
+[Transactions in Apache Kafka | Confluent](https://www.confluent.io/blog/transactions-apache-kafka/)
+
 ## Replication in Kafka
 
 Kafka uses the primary-backup method of replication
@@ -141,9 +148,7 @@ Kafka uses the Linux file system for persistence of messages
 ## 3 major components
 
 1. **Kafka Core:** A central hub to transport and store event streams in real-time
-
 2. **Kafka Connect:** A framework to import event streams from other soure data systems into Kafka and export event streams from Kafka to destination data systems
-
 3. **Kafka Streams:** A Java library to process event streams live as they occur
 
 ## Conclusion

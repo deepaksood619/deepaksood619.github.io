@@ -292,6 +292,8 @@ An easy to use, powerful, and reliable system to process and distribute data.
 
 Apache NiFi supports powerful and scalable directed graphs of data routing, transformation, and system mediation logic.
 
+**Apache NiFi** is an open-source data integration and automation tool that enables the automation of data flow between different systems. NiFi provides a user-friendly interface to design, control, and manage the flow of data between various sources and destinations. The tool is particularly useful in handling data from different sources, applying transformations, and routing it to different systems in real-time.
+
 ## O
 
 - [ODE](http://ode.apache.org/)
