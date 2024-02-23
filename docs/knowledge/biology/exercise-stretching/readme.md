@@ -6,4 +6,3 @@
 - [Gym](gym)
 - [Gym Routine](gym-routine)
 - [Gym Nutrition](gym-nutrition)
-- [Living](living)

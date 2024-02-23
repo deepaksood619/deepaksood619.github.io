@@ -39,8 +39,8 @@ MirrorMaker, is simple a Kafka consumer and producer, linked together with a que
 - Failover logic is application-specific and can be time-consuming to set up and maintain
 - Changes to MirrorMaker 2 must be made on the properties file and requires the restart of the connect cluster
 - Scaling requires significant overhead
-	- Requires 4 connectors and 3 internal topics
-	- Each destination cluster needs a MirrorMaker 2 connector configured
+   	- Requires 4 connectors and 3 internal topics
+   	- Each destination cluster needs a MirrorMaker 2 connector configured
 
 ### Offset Mapping
 
@@ -68,4 +68,3 @@ Using the checkpoint topic, a consumer, on failover, can directly determine (usi
 ## Migration
 
 [How to Migrate Kafka Cluster with Zero Downtime | by Dheeraj Kulakarni | MiQ Tech and Analytics | Medium](https://medium.com/miq-tech-and-analytics/how-to-migrate-kafka-cluster-with-zero-downtime-38653dfe9a76)
-
