@@ -46,6 +46,8 @@ https://docs.confluent.io/current/tutorials/cp-demo/docs/index.html#cp-demo
 
 [How to monitor your Kafka cluster efficiently? | by Marco Catalano | Quantyca | Medium](https://medium.com/quantyca/how-to-monitor-your-kafka-cluster-efficiently-d45ce37c02f1)
 
+[Monitoring Kafka Performance Metrics | Datadog](https://www.datadoghq.com/blog/monitoring-kafka-performance-metrics/)
+
 ## Tools
 
 - Kakfa-monitor https://github.com/linkedin/kafka-monitor

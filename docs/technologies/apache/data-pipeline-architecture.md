@@ -4,7 +4,7 @@
 
 ![image](../../media/Technologies-Apache-Data-Pipeline-Architecture-image2.jpg)
 
-1. **Integration with Kafka Connect (Source and Sink), using MQTT Broker**
+## 1. Integration with Kafka Connect (Source and Sink), using MQTT Broker
 
 ![image](../../media/Technologies-Apache-Data-Pipeline-Architecture-image3.jpg)
 
@@ -12,12 +12,12 @@ In this approach, you pull the data from the MQTT Broker via Kafka Connect to th
 
 ![image](../../media/Technologies-Apache-Data-Pipeline-Architecture-image4.jpg)
 
-## MQTT Broker
+### MQTT Broker
 
 - Persistent + offers MQTT-specific features
 - Consumes push data from IoT devices
 
-## Kafka Connect
+### Kafka Connect
 
 - Kafka Consumer + Kafka Producer under the hood
 - Pull-based (at own pace, without overwhelming the source or getting overwhelmed by the source)
@@ -29,7 +29,7 @@ In this approach, you pull the data from the MQTT Broker via Kafka Connect to th
 
 ![image](../../media/Technologies-Apache-Data-Pipeline-Architecture-image7.jpg)
 
-2. **Using confluent MQTT Proxy**
+## 2. Using confluent MQTT Proxy
 
 As an alternative to using Kafka Connect, you can leverage Confluent MQTT Proxy. You will need to integrate IoT data from IoT devices directly without the need for an MQTT Broker:
 
@@ -37,7 +37,7 @@ As an alternative to using Kafka Connect, you can leverage Confluent MQTT Proxy.
 
 In this approach, you push the data directly to the Kafka broker via the Confluent MQTT Proxy. You can scale MQTT Proxy easily with a Load Balancer (similar to Confluent REST Proxy). The huge advantage is that you do not need an additional MQTT Broker in the middle. This reduces efforts and costs significantly. It is a better approach for pushing data into Kafka.
 
-## MQTT Proxy
+### MQTT Proxy
 
 - MQTT is push-based
 - Horizontally scalable
@@ -45,31 +45,31 @@ In this approach, you push the data directly to the Kafka broker via the Conflue
 - Kafka Producer under the hood
 - No MQTT Broker needed
 
-## Kafka Broker
+### Kafka Broker
 
 - Source of truth
 - Responsible for persistence, high availability, reliability
 
 ## Details of Confluent's MQTT Proxy Implementation
 
-## General and modular framework
+### General and modular framework
 
 - Based on Netty to not re-invent the wheel (network layer handling, thread pools)
 - Scalable with standard load balancer
 - Internally uses Kafka Connect formats (allows re-using transformation and other Connect-constructs)
 
-## Three pipeline stages
+### Three pipeline stages
 
 - Network (Netty)
 - Protocol (like MQTT with QoS 0,1,2 today, later others, maybe e.g. WebSockets)
 - Stream (Kafka clients: Today Producers, later also consumers)
 
-## Missing parts in first release
+### Missing parts in first release
 
 - *Only MQTT Publish; MQTT Subscribe coming soon*
 - *MQTT-specific features like last will or testament*
 
-3. **Confluent REST Proxy**
+## 3. Confluent REST Proxy
 
 ![image](../../media/Technologies-Apache-Data-Pipeline-Architecture-image9.jpg)
 
@@ -103,6 +103,8 @@ In this approach, you push the data directly to the Kafka broker via the Conflue
 ![image](../../media/Technologies-Apache-Data-Pipeline-Architecture-image11.jpg)
 
 ![image](../../media/Technologies-Apache-Data-Pipeline-Architecture-image12.jpg)
+
+[Build an analytics pipeline that is resilient to schema changes using Amazon Redshift Spectrum | AWS Big Data Blog](https://aws.amazon.com/blogs/big-data/build-an-analytics-pipeline-that-is-resilient-to-schema-changes-using-amazon-redshift-spectrum/)
 
 ## Kafka Streaming Architecture
 
@@ -148,11 +150,10 @@ https://bravenewgeek.com/building-a-distributed-log-from-scratch-part-3-scaling-
 
 ## Reference
 
-https://dzone.com/articles/apache-kafka-mqtt-end-to-end-iot-integration-githu
-
-https://www.confluent.io/kafka-summit-sf18/processing-iot-data-from-end-to-end
-
-http://cloudurable.com/blog/what-is-kafka/index.html
+- https://dzone.com/articles/apache-kafka-mqtt-end-to-end-iot-integration-githu
+- https://www.confluent.io/kafka-summit-sf18/processing-iot-data-from-end-to-end
+- http://cloudurable.com/blog/what-is-kafka/index.html
+- [Reference guide to analyze transactional data in near-real time on AWS | AWS Big Data Blog](https://aws.amazon.com/blogs/big-data/reference-guide-to-analyze-transactional-data-in-near-real-time-on-aws/)
 
 ## Projects
 

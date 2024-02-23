@@ -26,8 +26,8 @@ Once a leader is established, it needs to replicate the data to followers. In ge
 
 |                 | **Pros**                               | **Cons**                                |
 |------------|------------------------------|------------------------------|
-| **All Replicas** | Toleratesffailures withf+1replicas | Latency pegged to slowest replica       |
-| **Quorum**       | Hides delay from a slow replica        | Toleratesffailures with2f+1replicas |
+| **All Replicas** | Tolerates f failures with f+1 replicas | Latency pegged to slowest replica       |
+| **Quorum**       | Hides delay from a slow replica        | Tolerates f failures with 2f+1 replicas |
 
 Waiting on all replicas means we can make progress as long as at least one replica is available. With quorum, tolerating the same amount of failures requires more replicas because we need a majority to make progress. The trade-off is that the quorum hides any delays from a slow replica. Kafka is an example of a system which uses all replicas (with some conditions on this which we will see later), and NATS Streaming is one that uses a quorum. Let's take a look at both in more detail.
 
@@ -37,7 +37,7 @@ In Kafka, a leader is selected (we'll touch on this in a moment). This leader ma
 
 Only committed messages are exposed to consumers. However, producers can configure how they want to receive acknowledgements on writes. It can wait until the message is committed on the leader (and thus replicated to the ISR), wait for the message to only be written (but not committed) to the leader's WAL, or not wait at all. This all depends on what trade-offs the producer wants to make between latency and durability.
 
-The graphic below shows how this replication process works for a cluster of three brokers:b1,b2, andb3. Followers are effectively special consumers of the leader's log.
+The graphic below shows how this replication process works for a cluster of three brokers:b1, b2, and b3. Followers are effectively special consumers of the leader's log.
 
 ![image](../../media/Technologies-Kafka-Kafka-Topic-Replication-image1.jpg)
 

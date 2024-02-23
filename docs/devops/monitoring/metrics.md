@@ -357,3 +357,9 @@ https://en.wikipedia.org/wiki/Apdex
 ## Common types of Alert
 
 https://www.freecodecamp.org/news/metrics-driven-development
+
+## Others
+
+SLI - Service Level Indicators
+
+[Choosing Good SLIs – Brave New Geek](https://bravenewgeek.com/choosing-good-slis/)

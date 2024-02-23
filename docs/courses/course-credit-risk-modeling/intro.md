@@ -1,42 +1,21 @@
 # Intro
 
-- Credit Risk
-
-The likelihood that a borrower would not repay their loan to the lender (not receive owed principal and interest)
-
+- Credit Risk - The likelihood that a borrower would not repay their loan to the lender (not receive owed principal and interest)
 - Collection costs
-- Default
-
-A borrower not being able to repay their debt
-
+- Default - A borrower not being able to repay their debt
 - Lenders must assess credit risk associated with each borrower
 - Collaterals
 - Increase the interest rate (Risk-based pricing)
-
 - Expected loss (EL) - PG, LGD, EAD
     - UL - Unexpected losses - result of adverse economic circumstances
     - SL - Exceptional (stress) losses - result of severe economic downturn
     - There is certain amount of credit risk associated with every borrower
-    - Estimating expected loss (expected credit loss)
-
-The amount a lender might lose by lending to a borrower
-
-- Probability of Default (PD)
-
-The borrowers inability to repay their debt in full or on time
-
-- Loss Given Default (LGD)
-
-The proportion of the total exposure that cannot be recovered by the lender once a default has occurred
-
-- Exposure At Default (EAD)
-
-The total value that a lender is exposed to when a borrower defaults
-
-- EL = PD *LGD* EAD
-
+    - Estimating expected loss (expected credit loss) - The amount a lender might lose by lending to a borrower
+- Probability of Default (PD) - The borrowers inability to repay their debt in full or on time
+- Loss Given Default (LGD) - The proportion of the total exposure that cannot be recovered by the lender once a default has occurred
+- Exposure At Default (EAD) - The total value that a lender is exposed to when a borrower defaults
+- `EL = PD * LGD * EAD`
 - Loan to value
-
 - Capital Adequacy, Regulations and Basel II Accord
     - Capital requirement/capital adequacy/regulatory capital
     - Risk weighted assets
@@ -59,7 +38,6 @@ The total value that a lender is exposed to when a borrower defaults
 ![image](../../media/Course-Credit-Risk-Modeling_Intro-image1.jpg)
 
 - Risk based pricing
-
 - Dependent variables / Independent variables
 - Discrete / Continuous
 - Fine classing / Coarse classing
@@ -148,7 +126,7 @@ Shows to what extent the model seperate the actual good borrowers from the actua
 - Perfect model -> Maximum distance -> K-S = 1
 - Predicting by chance -> Almost no distance -> K-S = 0
 
-- ScoreCard
+### ScoreCard
 
 The scores in the scorecard we created are: transformations of the regression coefficients of the PD model.
 
@@ -156,22 +134,18 @@ If we want to calculate the credit score of an applicant, it is enough to: sum t
 
 The way we created our scorecard, to obtain an estimate for the PD of an applicant, using score, we have to: raise an exponent to the power of total score and divide that by the same thing plus one.
 
-- Cut off rate
+### Cut off rate
 
-    1. Predetermines the total number of borrowers that will be approved and rejected
+1. Predetermines the total number of borrowers that will be approved and rejected
+2. Impacts the quality of loans
 
-    2. Impacts the quality of loans
-
-Setting a higher cut-off score for approval of credit applications will result in:
+Setting a higher cut-off score for approval of credit applications will result in decrease in disbursals
 
 - Questions
 
     1. In the lecture we saw the approval and rejection rate if we set the cut-off at no less than 95% probability of being 'good'? What would be the closest equivalent cut-off in terms of credit score?
-
     2. What would be the approval and rejection rate if we set the cut-off at no less than 94% probability of being 'good'? What would be the closest equivalent cut-off in terms of credit score?
-
     3. What would be the approval and rejection rate if we set the cut-off at credit score 670 points? What is the corresponding probability of being 'good'?
-
     4. Where should we set the cut-off if we want our approval rate to be just below 14%? What credit score and what probability of being 'good'?
 
 - Model maintenance
@@ -259,7 +233,7 @@ CCF - Credit Conversion Factor
 
 CCF is the proportion of total exposure at the moment of default.
 
-EAD = total funded amount * credit conversion factor
+`EAD = total funded amount * credit conversion factor`
 
 What regression model is used most often to model recovery rate and credit conversion factors, and what modeling approaches do we apply instead? - The one used most often is beta regression, we apply logistic regression and linear regression.
 
@@ -291,7 +265,7 @@ We used the same criterion for model performance for the model from this lecture
 
 ## Expected Loss
 
-EL = PD *LGD* EAD
+`EL = PD * LGD * EAD`
 
 Assuming all accounts are one portfolio, to calculate the total expected loss amount for this portfolio, we must: Apply the PD, EAD, and LGD models on each account, multiply the three outputs for each account, and sum across all accounts.
 

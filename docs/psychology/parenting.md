@@ -46,6 +46,32 @@
 
 [How to Raise Successful Kids -- Without Over-Parenting | Julie Lythcott-Haims | TED](https://www.youtube.com/watch?v=CyElHdaqkjo) - Checklist
 
+#### Day Care / Creche
+
+[Best Play School & Day Care Chain: Footprints](https://www.footprintseducation.in/)
+
+### Learning
+
+[Everything You Need to Know Before Sending Your Child to Preschool! | Footprints Childcare](https://www.footprintseducation.in/blog/everything-you-need-to-know-before-sending-your-child-to-preschool/)
+
+#### The Reggio Emilia Approach
+
+This approach is used in mostly all preschools. However, it is mixed with one or two other forms of instruction. The Reggio Emilia Approach appreciates the curiosity present in every child and encourages them to learn through exploring different ideas. These ideas could be in the form of painting, sculpting to art and drama.
+
+The environment seen in this kind of approach is one which is well connected. Children work closely with their teachers and peers and form strong interpersonal relationships.
+
+#### The PlayWay Approach
+
+One of the more flexible approaches, PlayWay encourages learning through ‘play’. Unlike the other structured methods, PlayWay places an emphasis on learning through music, stories, and arts and crafts and is more of a hands-on approach.
+
+It allows children to explore their creativity and imagination and urges them to understand basic concepts instead of simply memorizing them.
+
+#### The Waldorf Approach
+
+Another popular preschool approach is the Waldorf method also known as the Steiner approach. This curriculum follows the philosophy that merely reading, and learning is not enough for the overall development of a child. Imagination and analytical thinking too play a major role and are encouraged.
+
+In this way the curriculum itself has more creative learning through arts, cooking, and playing rather than media and traditional learning. Alongside this, it emphasizes the need for routine since it believes that children imitate and learn from their immediate environment.
+
 ### Toys
 
 In case you want to set up a business brainwashing affluent parents to spend their money on useless bits of plastic, you will find in this article details of the tricks that firms like Fisher-Price use to flog their products. More constructively, if you are a young parent and you want to buy useful toys for your child, the article says: "After watching kids play with more than 100 different types of toy, the researchers concluded that simple, open-ended, non-realistic toys with multiple parts, like a random assortment of Lego, inspired the highest-quality play. While engaged with such toys, children were "more likely to be creative, engage in problem solving, interact with their peers, and use language," the researchers wrote. Electronic toys, however, tended to limit kids’ play: "A simple wooden cash register in our study inspired children to engage in lots of conversations related to buying and selling – but a plastic cash register that produced sounds when buttons were pushed mostly inspired children to just push the buttons repeatedly."
@@ -110,3 +136,5 @@ Why kicking out children after 18 years is important, let's say you are very wea
 - [How to Encourage Independent Play in Babies and Toddlers](https://www.whattoexpect.com/playroom/playtime-tips/playing-solo.aspx)
 - [Babies and Transitional Objects](https://www.whattoexpect.com/first-year/week-44/transitional-objects.aspx)
 - [Can You Teach a Baby Discipline?](https://www.whattoexpect.com/baby-behavior/teaching-discipline.aspx)
+- [How to Help Your Child Drink From an Open Cup](https://www.whattoexpect.com/toddler/use-cup/)
+- [Best Activities for a 10-Month-Old Baby](https://www.whattoexpect.com/first-year/play-and-activities/best-activities-10-month-old-baby)
