@@ -11,6 +11,11 @@
 9. AWS Snowmobile
 10. AWS ECR
 11. Amazon CloudFront
+12. Amazon FSx - [Amazon FSx](https://aws.amazon.com/fsx/)
+	1. Amazon FSx for NetApp ONTAP
+	2. Amazon FSx for OpenZFS
+	3. Amazon FSx for Windows File Server
+	4. Amazon FSx for Lustre
 
 ![image](../../../media/Cloud-AWS-Storage-image1.jpg)
 
@@ -149,6 +154,24 @@ Exabyte-scale Data Transport
 Amazon Elastic Container Registry (ECR) is a fully-managed [Docker](https://aws.amazon.com/docker/) container registry that makes it easy for developers to store, manage, and deploy Docker container images. Amazon ECR is integrated with [Amazon Elastic Container Service (ECS)](https://aws.amazon.com/ecs/), simplifying your development to production workflow. Amazon ECR eliminates the need to operate your own container repositories or worry about scaling the underlying infrastructure. Amazon ECR hosts your images in a highly available and scalable architecture, allowing you to reliably deploy containers for your applications. Integration with AWS Identity and Access Management (IAM) provides resource-level control of each repository. With Amazon ECR, there are no upfront fees or commitments. You pay only for the amount of data you store in your repositories and data transferred to the Internet.
 
 https://docs.aws.amazon.com/AmazonECR/latest/userguide/pull-through-cache.html
+
+## Amazon FSx for Lustre
+
+FSx for Lustre makes it easy and cost-effective to launch and run the popular, high-performance Lustre file system. You use Lustre for workloads where speed matters, such as machine learning, high performance computing (HPC), video processing, and financial modeling.
+
+The open-source Lustre file system is designed for applications that require fast storage—where you want your storage to keep up with your compute. Lustre was built to solve the problem of quickly and cheaply processing the world's ever-growing datasets. It's a widely used file system designed for the fastest computers in the world. It provides sub-millisecond latencies, up to hundreds of GBps of throughput, and up to millions of IOPS.
+
+[What is Amazon FSx for Lustre? - FSx for Lustre](https://docs.aws.amazon.com/fsx/latest/LustreGuide/what-is.html)
+
+[Amazon FSx for Lustre](https://aws.amazon.com/fsx/lustre/)
+
+[Optimizing MMAP workloads on Amazon FSx for Lustre file systems | AWS Storage Blog](https://aws.amazon.com/blogs/storage/optimizing-mmap-workloads-on-amazon-fsx-for-lustre-file-systems/)
+
+[Lustre](https://www.lustre.org/)
+
+[Documentation | Lustre](https://www.lustre.org/documentation/)
+
+[Lustre 101](https://lustre.ornl.gov/lustre101-courses/)
 
 ## Links
 

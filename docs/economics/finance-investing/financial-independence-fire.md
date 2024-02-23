@@ -59,8 +59,23 @@ https://networthify.com/calculator/earlyretirement
 - Expense factor (Your post retirement expenses as a percent of your current expenses) - 100%
 - Inflation rate - 6%
 - You need to make a **monthly investment** of 1,85,122.36 to accumulate a **corpus** of 13,29,65,839.82
+- For age - 30, retirement age - 40, life expectancy - 100, You need to make a **monthly investment** of 5,72,678.39 to accumulate a **corpus** of 11,44,57,711.73
 
 [Retirement Planner Calculator India | Retirement Planning Calculator Online](https://www.moneycontrol.com/personal-finance/tools/retirement-planning-calculator.html)
+
+Current Age (15-60 Years) - 30 YEARS
+Desired Retirement Age (Upto 70 Years) - 40 YEARS
+Life Expectancy (Upto 100 Years) - 100 YEARS
+Monthly Income Required In Retirement Years - ₹1,00,000
+Expected Inflation Rate (%) - 6%
+Expected Return On Investment (Pre-retirement) - 10 %
+Expected Return On Investment (Post-retirement) - 5 %
+Existing Retirement Fund - ₹1,00,00,000
+Annual Income Required Immediately After Retirement - ₹21,49,017
+Additional Retirement Fund Which Needs To Be Accumulated Is - ₹14,85,57,191
+Monthly Savings Required To Accumulate The Fund Is - **₹7,25,218**
+
+[Retirement Planning Calculator - Plan your Savings Online](https://cleartax.in/s/retirement-planning-calculator)
 
 ## Lifestyle upgrades
 
@@ -76,7 +91,7 @@ rags to riches and back to rags stories of film stars, lottery ticket winners, a
 
 They would be surrounded by relatives and friends that systematically leached off the wealth or led them to poor quality investments. The man who won the first round of Kaun Banega Crorepati admitted that he bought houses for siblings and funded their businesses before losing his winnings and returning to his old job in a few years. Easy money belongs to everyone - that seems to be the credo.
 
-- Do not disclose your earnings, income or wealth. No one other than your spouse and children at an appropriate age need to know. What you give is always measured with respect to what you make. In itself, a gift of 50,000 at a relative's wedding is substantial. It might be bigger than what others gave. But if it is known that you earn Rs.5 lakh every month, that is seen as too little.
+- Do not disclose your earnings, income or wealth. No one other than your spouse and children at an appropriate age need to know. What you give is always measured with respect to what you make. In itself, a gift of 50,000 at a relative's wedding is substantial. It might be bigger than what others gave. But if it is known that you earn Rs. 5 lakh every month, that is seen as too little.
 
 - Keep control and equity about who will receive your charities. Someone is not ahead of the queue only because they are related to you or your spouse. You make the decision because it is your money and you know who deserves it. Putting a dozen poor children through college is better than enabling a sibling to upgrade their car. You don't have to justify that decision.
 

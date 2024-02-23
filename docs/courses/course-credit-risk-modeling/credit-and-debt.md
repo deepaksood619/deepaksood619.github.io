@@ -45,7 +45,7 @@ After 270 days of late payments, the code of federal regulations considers any t
 
 ## Calculating Delinquency Rates
 
-To calculate a delinquency rate, divide the number of loans that are delinquent by the total number of loans that an institution holds. For example, if there are 1,000 loans in a bank's loan portfolio, and 100 of those loans have delinquent payments of 60 days or more, then the delinquency rate would be 10% (100divided by1,000equals10%).
+To calculate a delinquency rate, divide the number of loans that are delinquent by the total number of loans that an institution holds. For example, if there are 1,000 loans in a bank's loan portfolio, and 100 of those loans have delinquent payments of 60 days or more, then the delinquency rate would be 10% (100 divided by 1,000 equals 10%).
 
 https://www.investopedia.com/terms/d/delinquency-rate.asp
 

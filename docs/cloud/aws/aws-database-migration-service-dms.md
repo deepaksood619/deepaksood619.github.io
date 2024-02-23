@@ -80,6 +80,6 @@ https://hevodata.com/blog/aurora-to-redshift-data-migration-using-aws-dms
 
 ## Links
 
-[Perform delta data loads to data lakes using AWS DMS | AWS Database Blog](https://aws.amazon.com/blogs/database/perform-delta-data-loads-to-data-lakes-using-aws-dms/)
-
-[Migrate an on-premises Oracle database to Amazon RDS for MySQL using AWS DMS and AWS SCT - AWS Prescriptive Guidance](https://docs.aws.amazon.com/prescriptive-guidance/latest/patterns/migrate-an-on-premises-oracle-database-to-amazon-rds-for-mysql-using-aws-dms-and-aws-sct.html)
+- [Perform delta data loads to data lakes using AWS DMS | AWS Database Blog](https://aws.amazon.com/blogs/database/perform-delta-data-loads-to-data-lakes-using-aws-dms/)
+- [Migrate an on-premises Oracle database to Amazon RDS for MySQL using AWS DMS and AWS SCT - AWS Prescriptive Guidance](https://docs.aws.amazon.com/prescriptive-guidance/latest/patterns/migrate-an-on-premises-oracle-database-to-amazon-rds-for-mysql-using-aws-dms-and-aws-sct.html)
+- [Understand and optimize replication for Amazon Redshift with AWS DMS | AWS Database Blog](https://aws.amazon.com/blogs/database/understand-and-optimize-replication-for-amazon-redshift-with-aws-dms/)

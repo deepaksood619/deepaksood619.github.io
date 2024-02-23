@@ -125,13 +125,13 @@ Monitoring or KPIs & flag anything > 5% deviation
 
 ### Weekly
 
-- Weekly -- > Collection bucket performance trend
-- Weekly -- >Flow rates into 90+
-- Weekly -- >0 5 10 15 30 day payment rates
-- Weekly -- >FCP % disbursement
-- Weekly -- >0-1 Roll rates
-- Weekly -- >Origination Mix
-- Weekly -- >Collection efforts (Dialer data)
+- Weekly --> Collection bucket performance trend
+- Weekly --> Flow rates into 90+
+- Weekly --> 0 5 10 15 30 day payment rates
+- Weekly --> FCP % disbursement
+- Weekly --> 0-1 Roll rates
+- Weekly --> Origination Mix
+- Weekly --> Collection efforts (Dialer data)
 
 ### Monthly
 

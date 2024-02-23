@@ -129,14 +129,12 @@ https://www.postscapes.com/internet-of-things-protocols
 
 ## References
 
-https://cloudplatform.googleblog.com/2018/04/implementing-an-event-driven-architecture-on-serverless-the-Smart-Parking-story.html?m=1
-
-IoT Applications, Protocols, and Best Practices - DZone Research Guides
-
-https://www.home-assistant.io/blog/2016/02/12/classifying-the-internet-of-things
-
-End to end overview - https://cloud.google.com/solutions/iot-overview
-
-https://www.edx.org/course/iot-system-architecture-design-and-evaluation
-
-https://www.edx.org/microsoft-professional-program-certificate-in-iot
+- D2C - Device to Cloud
+- C2C - Cloud to Cloud
+- C2D - Cloud to Device
+- https://cloudplatform.googleblog.com/2018/04/implementing-an-event-driven-architecture-on-serverless-the-Smart-Parking-story.html?m=1
+- IoT Applications, Protocols, and Best Practices - DZone Research Guides
+- https://www.home-assistant.io/blog/2016/02/12/classifying-the-internet-of-things
+- End to end overview - https://cloud.google.com/solutions/iot-overview
+- https://www.edx.org/course/iot-system-architecture-design-and-evaluation
+- https://www.edx.org/microsoft-professional-program-certificate-in-iot
