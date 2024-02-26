@@ -1,12 +1,12 @@
 # Tableau
 
-- [Architecture and Components](ai/data-science/tableau/architecture-components.md)
-- [Data Model](ai/data-science/tableau/data-model.md)
-- [Data Sources](ai/data-science/tableau/data-sources.md)
-- [Concepts](ai/data-science/tableau/concepts.md)
-- [Augmented Analytics](ai/data-science/tableau/augmented-analytics.md)
-- [Dashboarding](ai/data-science/tableau/dashboarding.md)
-- [Others](ai/data-science/tableau/others.md)
+- [Architecture and Components](ai/data-visualization/tableau/architecture-components.md)
+- [Data Model](ai/data-visualization/tableau/data-model.md)
+- [Data Sources](ai/data-visualization/tableau/data-sources.md)
+- [Concepts](ai/data-visualization/tableau/concepts.md)
+- [Augmented Analytics](ai/data-visualization/tableau/augmented-analytics.md)
+- [Dashboarding](ai/data-visualization/tableau/dashboarding.md)
+- [Others](ai/data-visualization/tableau/others.md)
 
 Visualization from relational databases and data cubes, OLAP cubes, cloud databases
 
