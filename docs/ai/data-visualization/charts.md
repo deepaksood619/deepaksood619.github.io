@@ -42,7 +42,7 @@
 12. Sanky Diagram
 13. Linear-Gauge Chart
 
-![image](../../../media/Data-Visualization_Charts-image2.jpg)
+![image](../../media/Data-Visualization_Charts-image2.jpg)
 
 ## Statistical and Seaborn-style Charts
 

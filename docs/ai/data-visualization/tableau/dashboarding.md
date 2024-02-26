@@ -49,7 +49,7 @@ Data source filters in Tableau are mainly used to restrict sensitive data from v
 
 ## Legends
 
-![legends](media/Screenshot%202023-08-21%20at%2011.17.31%20AM.jpg)
+![legends](../../../media/Screenshot%202023-08-21%20at%2011.17.31%20AM.jpg)
 
 [https://public.tableau.com/app/profile/nastengraph/viz/Howtoplacelegendstocharts/Legendsandcharts](https://public.tableau.com/app/profile/nastengraph/viz/Howtoplacelegendstocharts/Legendsandcharts)
 
