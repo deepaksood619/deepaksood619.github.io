@@ -25,7 +25,7 @@
 
 ### Discretization
 
-![image](../../../media/Data-Preprocessing-image1.jpg)
+![image](../../media/Data-Preprocessing-image1.jpg)
 
 ### Attribute Transformation
 
@@ -50,7 +50,7 @@
 
 p and q are the attribute values for two data objects
 
-![image](../../../media/Data-Preprocessing-image2.jpg)
+![image](../../media/Data-Preprocessing-image2.jpg)
 
 ### Types
 
@@ -63,20 +63,20 @@ p and q are the attribute values for two data objects
 
 ### Euclidean Distance
 
-![image](../../../media/Data-Preprocessing-image3.jpg)
+![image](../../media/Data-Preprocessing-image3.jpg)
 
 - Where n is the number of dimensions (attributes) and p~k~ and q~k~ are, respectively, the k^th^ attributes (components) or data objects p and q.
 - Standardization is necessary, if scales differ
 
 ### Mahalanobis Distance
 
-![image](../../../media/Data-Preprocessing-image4.jpg)
+![image](../../media/Data-Preprocessing-image4.jpg)
 
 - For red points, the Euclidean distance is 14.7, Mahalanobis distance is 6
 
 ### Cosine Similarity
 
-![image](../../../media/Data-Preprocessing-image5.jpg)
+![image](../../media/Data-Preprocessing-image5.jpg)
 
 [Cosine Similarity - GeeksforGeeks](https://www.geeksforgeeks.org/cosine-similarity/)
 
@@ -84,18 +84,18 @@ p and q are the attribute values for two data objects
 
 ### Similarity Between Binary Vectors
 
-![image](../../../media/Data-Preprocessing-image6.jpg)
+![image](../../media/Data-Preprocessing-image6.jpg)
 
 ## Correlation
 
 - Correlation measures the linear relationship between objects
 - To compute correlation, we standardize data objects, p and q, and then take their dot product
 
-![image](../../../media/Data-Preprocessing-image7.jpg)
+![image](../../media/Data-Preprocessing-image7.jpg)
 
 ### Visually Evaluating Correlation
 
-![image](../../../media/Data-Preprocessing-image8.jpg)
+![image](../../media/Data-Preprocessing-image8.jpg)
 
 - Scatter plots showing the similarity from -1 to 1
 

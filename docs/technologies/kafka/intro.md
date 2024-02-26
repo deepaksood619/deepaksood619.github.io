@@ -170,6 +170,7 @@ https://www.confluent.io/blog/apache-kafka-2-4-latest-version-updates
 
 ## References
 
+- **[Kafkademy | Conduktor](https://www.conduktor.io/kafka/)**
 - https://en.wikipedia.org/wiki/Apache_Kafka
 - https://kafka.apache.org/intro
 - https://thehoard.blog/how-kafkas-storage-internals-work-3a29b02e026

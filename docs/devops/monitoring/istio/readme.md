@@ -3,7 +3,7 @@
 - [Istio](devops/monitoring/istio/intro.md)
 - [Architecture](devops/monitoring/istio/architecture.md)
 - [Traffic Management](traffic-management)
-- [Security](security)
+- [Security](devops/monitoring/istio/security.md)
 - [Observability](observability)
 - [Tasks](tasks)
 - [Operations](devops/monitoring/istio/operations.md)

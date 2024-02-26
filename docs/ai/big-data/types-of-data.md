@@ -30,7 +30,7 @@ https://www.geeksforgeeks.org/difference-between-structured-semi-structured-and-
 
 ## Types of Data by data type
 
-![image](../../../media/Data-image3.jpg)
+![image](../../media/Data-image3.jpg)
 
 |  |  |
 |---|---|
@@ -52,14 +52,14 @@ https://www.geeksforgeeks.org/difference-between-structured-semi-structured-and-
 
 Data that consists of a collection of records, each of which consists of a fixed set of attributes
 
-![image](../../../media/Data-image4.jpg)
+![image](../../media/Data-image4.jpg)
 
 #### Data Matrix
 
 - If data objects have the same fixed set of numeric attributes, then the data objects can be thought of as points in a multi-dimensional space, where each dimension represents a distinct attribute
 - Such data set can be represented by an m by n matrix, where there are m rows, one for each object, and n columns, one for each attribute
 
-![image](../../../media/Data-image5.jpg)
+![image](../../media/Data-image5.jpg)
 
 #### Document Data
 
@@ -67,7 +67,7 @@ Data that consists of a collection of records, each of which consists of a fixed
     - Each term is a component (attribute) of the vector
     - the value of each component is the number of times the corresponding term occurs in the document
 
-![image](../../../media/Data-image6.jpg)
+![image](../../media/Data-image6.jpg)
 
 #### Transaction Data
 
@@ -75,7 +75,7 @@ Data that consists of a collection of records, each of which consists of a fixed
     - each record (transaction) involves a set of items
     - For example, consider a grocery store. The set of products purchased by a customer during one shopping trip consitute a transaction, while the individual products that were purchased are the items
 
-![image](../../../media/Data-image7.jpg)
+![image](../../media/Data-image7.jpg)
 
 ### Graph
 

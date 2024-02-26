@@ -24,6 +24,26 @@ Saabut moong daal, is whole moong or moong with the green skin left on. It cooks
 
 Mix a handful of sprouted Saabut moong daal in a bowl of yogurt, season with salt and somechaat masala(available at most Indian grocery stores) and you'll have a delicious and filling snack.
 
+## Hari split moong daal / green split moong daal / moong daal chilka
+
+![hari moong daal](../../../media/Pasted%20image%2020240226114404.png)
+
+### Saabut vs Hari moong daal
+
+#### Sabut Moong Dal
+
+- Sabut moong dal refers to whole green moong beans with their skin intact.
+- It is rich in fiber, protein, and various nutrients including vitamins and minerals.
+- Sabut moong dal takes longer to cook compared to split lentils because of its whole form.
+- It has a slightly nutty flavor and retains its shape well after cooking, making it suitable for salads, soups, stews, and Indian dishes like khichdi and dal makhani.
+
+#### Hari Moong Dal
+
+- Hari moong dal, on the other hand, refers to split green moong beans without the skin.
+- It cooks faster compared to sabut moong dal due to its split form.
+- Hari moong dal is also rich in protein, fiber, and various nutrients.
+- It has a milder flavor compared to sabut moong dal and tends to disintegrate more when cooked, making it suitable for dishes like dals, curries, and soups.
+
 ## Moong daal
 
 ![image](../../../media/Nutrition_Pulses-Daal-Lentils-image4.jpg)
@@ -31,6 +51,13 @@ Mix a handful of sprouted Saabut moong daal in a bowl of yogurt, season with sal
 Moongdaal, has had its olive green skin removed and is split. It is a golden yellow color and turns slightly lighter when cooked.
 
 Moong does not need soaking prior to being cooked as it is a "soft" daal.
+
+### Green vs Yellow Moong daal
+
+- Nutrition - Green moong dal is more nutritious than yellow moong dal because the skin of the green moong dal contains nutrients.
+- Preparation - Green moong dal needs to be soaked for at least five hours before cooking. Yellow moong dal can be eaten raw or soaked.
+- Uses - Green moong dal is used to make sprouts, dal khichdi, dosa, dhoklas, and curries. Yellow moong dal can be used to make dal khichdi, pakodas, curries, chilas, and toast.
+- Versatility - Yellow moong dal has a milder flavor and is more versatile than green moong dal. It can be used in a wider range of dishes, including sweet dishes and desserts.
 
 ## Toor/Tuvar or Arhar daal
 

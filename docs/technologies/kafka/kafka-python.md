@@ -56,14 +56,9 @@ The KafkaProducer can be used across threads without issue, unlike the KafkaCons
 
 ## References
 
-https://kafka-python.readthedocs.io/en/master
-
-https://kafka-python.readthedocs.io/en/master/apidoc/KafkaProducer.html
-
-https://kafka-python.readthedocs.io/en/master/usage.html
-
-https://github.com/edenhill/kafkacat
-
-https://github.com/edenhill/librdkafka/blob/master/CONFIGURATION
-
-https://towardsdatascience.com/3-libraries-you-should-know-to-master-apache-kafka-in-python-c95fdf8700f2
+- https://kafka-python.readthedocs.io/en/master
+- https://kafka-python.readthedocs.io/en/master/apidoc/KafkaProducer.html
+- https://kafka-python.readthedocs.io/en/master/usage.html
+- https://github.com/edenhill/kafkacat
+- https://github.com/edenhill/librdkafka/blob/master/CONFIGURATION
+- https://towardsdatascience.com/3-libraries-you-should-know-to-master-apache-kafka-in-python-c95fdf8700f2

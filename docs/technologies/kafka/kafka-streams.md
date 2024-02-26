@@ -1,10 +1,10 @@
 # Kafka Streams
 
-Topics live in Kafka's storage layer - they are part of the Kafka "filesystem" powered by the brokers. In contrast, streams and tables are concepts of Kafka'sprocessing layer, used in tools like [ksqlDB](https://ksqldb.io/) and [Kafka Streams](https://docs.confluent.io/current/streams/index.html). These tools process your events stored in "raw" topics by turning them into streams and tables - a process that is conceptually very similar to how a relational database turns the bytes in files on disk into an RDBMS table for you to work with.
+Topics live in Kafka's storage layer - they are part of the Kafka "filesystem" powered by the brokers. In contrast, streams and tables are concepts of Kafka's processing layer, used in tools like [ksqlDB](https://ksqldb.io/) and [Kafka Streams](https://docs.confluent.io/current/streams/index.html). These tools process your events stored in "raw" topics by turning them into streams and tables - a process that is conceptually very similar to how a relational database turns the bytes in files on disk into an RDBMS table for you to work with.
 
 ![image](../../media/Technologies-Kafka-Kafka-Streams-image1.jpg)
 
-Anevent streamin Kafka is a topic with a schema. Keys and values of events are no longer opaque byte arrays but have specific types, so we know what's in the data. Like a topic, a stream is unbounded.
+An event stream in Kafka is a topic with a schema. Keys and values of events are no longer opaque byte arrays but have specific types, so we know what's in the data. Like a topic, a stream is unbounded.
 
 ![image](../../media/Technologies-Kafka-Kafka-Streams-image2.jpg)
 
@@ -12,7 +12,7 @@ https://www.confluent.io/blog/kafka-streams-tables-part-3-event-processing-funda
 
 Kafka Streams is a client library for processing and analyzing data stored in Kafka. It builds upon important stream processing concepts such as properly distinguishing between event time and processing time, windowing support, exactly-once processing semantics and simple yet efficient management of application state.
 
-Kafka Streams has a**low barrier to entry**: You can quickly write and run a small-scale proof-of-concept on a single machine; and you only need to run additional instances of your application on multiple machines to scale up to high-volume production workloads. Kafka Streams transparently handles the load balancing of multiple instances of the same application by leveraging Kafka's parallelism model.
+Kafka Streams has a **low barrier to entry**: You can quickly write and run a small-scale proof-of-concept on a single machine; and you only need to run additional instances of your application on multiple machines to scale up to high-volume production workloads. Kafka Streams transparently handles the load balancing of multiple instances of the same application by leveraging Kafka's parallelism model.
 
 ## KSTREAM VS. KTABLE
 

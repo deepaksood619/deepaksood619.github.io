@@ -1,6 +1,6 @@
 # Data Center Networking
 
-Data centeris a pool of resources (computational, storage, network) interconnected using a [communication network](https://en.wikipedia.org/wiki/Communication_network). Data Center Network (DCN) holds a pivotal role in a [data center](https://en.wikipedia.org/wiki/Data_center), as it interconnects all of the data center resources together. DCNs need to be scalable and efficient to connect tens or even hundreds of thousands of servers to handle the growing demands of [Cloud computing](https://en.wikipedia.org/wiki/Cloud_computing).Today's data centers are constrained by the interconnection network.
+Data center is a pool of resources (computational, storage, network) interconnected using a [communication network](https://en.wikipedia.org/wiki/Communication_network). Data Center Network (DCN) holds a pivotal role in a [data center](https://en.wikipedia.org/wiki/Data_center), as it interconnects all of the data center resources together. DCNs need to be scalable and efficient to connect tens or even hundreds of thousands of servers to handle the growing demands of [Cloud computing](https://en.wikipedia.org/wiki/Cloud_computing).Today's data centers are constrained by the interconnection network.
 
 ## Types of Data center network
 

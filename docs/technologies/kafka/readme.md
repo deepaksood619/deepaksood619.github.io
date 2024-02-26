@@ -18,5 +18,6 @@
 - [confluent-kafka](confluent-kafka)
 - [kafkacat](kafkacat)
 - [Migration / Mirroring](technologies/kafka/migration-mirroring.md)
+- [Security](technologies/kafka/security.md)
 - [Others](technologies/kafka/others.md)
 - [Strmizi](strimzi)

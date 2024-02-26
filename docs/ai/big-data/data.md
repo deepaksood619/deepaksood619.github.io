@@ -9,7 +9,7 @@
 - A collection of attributes describe an object
     - Object is also known as record, point, case, sample, entity, or instance
 
-![image](../../../media/Data-image1.jpg)
+![image](../../media/Data-image1.jpg)
 
 ## Types of Attributes
 
@@ -34,7 +34,7 @@ The type of an attribute depends on which of the following properties it possess
 - Interval attribute: distinctness, order & addition
 - Ratio attribute: all 4 properties
 
-![image](../../../media/Data-image2.jpg)
+![image](../../media/Data-image2.jpg)
 
 ## Discrete and Continuous Attributes
 

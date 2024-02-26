@@ -119,6 +119,8 @@
 
 [Air Fryer Tandoori Mushrooms – Spicy Mushroom Tikka - Fast Curries](https://fastcurries.com/2019/07/11/air-fryer-spicy-tandoori-mushrooms/)
 
+[Khichdi Recipe | Simple & Healthy Khichdi | Masala Khichdi Recipe | Comfort Food | Chef Kunal Kapur - YouTube](https://www.youtube.com/watch?v=TvTMsUeC-z4&ab_channel=KunalKapur)
+
 ## Theoretical
 
 [I FINALLY understand the Maillard reaction - YouTube](https://www.youtube.com/watch?v=5lKzZc_OO7U&ab_channel=MinuteFood)

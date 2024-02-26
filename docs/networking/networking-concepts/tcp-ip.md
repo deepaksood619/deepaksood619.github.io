@@ -1,6 +1,6 @@
 # TCP/IP
 
-TheOSI Modelwe just looked at is just a reference/logical model. It was designed to describe the functions of the communication system by dividing the communication procedure into smaller and simpler components. But when we talk about the TCP/IP model, it was designed and developed by Department of Defense (DoD) in 1960s and is based on standard protocols. It stands for Transmission Control Protocol/Internet Protocol. TheTCP/IP modelis a concise version of the OSI model. It contains four layers, unlike seven layers in the OSI model. The layers are:
+The OSI Model we just looked at is just a reference/logical model. It was designed to describe the functions of the communication system by dividing the communication procedure into smaller and simpler components. But when we talk about the TCP/IP model, it was designed and developed by Department of Defense (DoD) in 1960s and is based on standard protocols. It stands for Transmission Control Protocol/Internet Protocol. TheTCP/IP modelis a concise version of the OSI model. It contains four layers, unlike seven layers in the OSI model. The layers are:
 
 1. Process/Application Layer
 2. Host-to-Host/Transport Layer
@@ -16,6 +16,7 @@ The diagrammatic comparison of the TCP/IP and OSI model is as follows
 ## 1. Network Access Layer / Link layer
 
 This layer corresponds to the combination of Data Link Layer and Physical Layer of the OSI model. It looks out for hardware addressing and the protocols present in this layer allows for physical transmission of data.
+
 We just talked about ARP being a protocol of Internet layer, but there is a conflict about declaring it as a protocol of Internet Layer or Network access layer. It is described as residing in layer 3, being encapsulated by layer 2 protocols.
 
 - The **Multiple Spanning Tree Protocol (MSTP)** and [algorithm](https://en.wikipedia.org/wiki/Algorithm), provides both simple and full connectivity assigned to any given [Virtual LAN](https://en.wikipedia.org/wiki/Virtual_LAN)(VLAN) throughout a Bridged Local Area Network. MSTP uses [BPDUs](https://en.wikipedia.org/wiki/Bridge_Protocol_Data_Unit) to exchange information between spanning-tree compatible devices, to prevent loops in each [MSTI](https://en.wikipedia.org/wiki/Multiple_Spanning_Tree_Protocol#Multiple_Spanning_Tree_Instances_(MSTI))(Multiple Spanning Tree Instances) and in the [CIST](https://en.wikipedia.org/wiki/Multiple_Spanning_Tree_Protocol#Common_and_Internal_Spanning_Tree(CST/CIST))(Common and Internal Spanning Tree), by selecting active and blocked paths. This is done as well as in [STP](https://en.wikipedia.org/wiki/Spanning_Tree_Protocol) without the need of manually enabling backup links and getting rid of [bridge](https://en.wikipedia.org/wiki/Bridging_(networking))[loops](https://en.wikipedia.org/wiki/Switching_loop) danger.

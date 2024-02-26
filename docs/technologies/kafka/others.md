@@ -1,27 +1,5 @@
 # Others
 
-## Monitoring / Management Tools
-
-1. Kafka Manager - https://github.com/yahoo/CMAK
-
-   https://hub.docker.com/r/kafkamanager/kafka-manager
-
-2. Kafka Center - https://github.com/xaecbd/KafkaCenter
-3. Kafka lag exporter
-
-    https://github.com/lightbend/kafka-lag-exporter
-
-    https://www.lightbend.com/blog/monitor-kafka-consumer-group-latency-with-kafka-lag-exporter
-
-4. Burrow
-5. Kafdrop
-6. Kafka Tool
-7. Kafka Cruise Control
-
-https://engineering.linkedin.com/blog/2019/02/introducing-kafka-cruise-control-frontend
-
-https://dzone.com/articles/kafka-administration-and-monitoring-ui-tools
-
 ## Message Processing Guarantees
 
 - **No guarantee-** No explicit guarantee is provided, so consumers may process messages once, multiple times or never at all.
@@ -41,7 +19,7 @@ https://www.confluent.io/blog/avro-kafka-data
 
 ## Data contracts, schema on read, and schema on write
 
-As already mentioned, it is the responsibility of the consuming client (whether it's ksqlDB, Kafka Connect, a custom Kafka consumer, etc.) to deserialize the raw bytes of a Kafka message into the original event by applying some kind of schema, be it a formalized schema in Avro or Protobuf, or an informal JSON format scribbled on the back of a napkin in the company canteen. This means it is, generally speaking, aschema-on-readsetup.
+As already mentioned, it is the responsibility of the consuming client (whether it's ksqlDB, Kafka Connect, a custom Kafka consumer, etc.) to deserialize the raw bytes of a Kafka message into the original event by applying some kind of schema, be it a formalized schema in Avro or Protobuf, or an informal JSON format scribbled on the back of a napkin in the company canteen. This means it is, generally speaking, a schema-on-read setup.
 
 But how does a consuming client know how to deserialize stored events, given that most likely a different client produced them? The answer is that producers and consumers must agree on a data contract in some way. Gwen Shapira covered the important subject of [data contracts and schema management](https://www.confluent.io/blog/schemas-contracts-compatibility) in an earlier blog post, so I'll skip over the details here. But in summary, the easiest option is to use Avro and [Confluent Schema Registry](https://www.confluent.io/confluent-schema-registry/). With a schema registry and a formalized schema (including but not limited to Avro), we are moving from schema on read into [schema-on-write territory](https://www.oreilly.com/ideas/data-governance-and-the-death-of-schema-on-read), which is a boon for pretty much everyone who is working with data, not just the few poor souls of us tasked to "go and do data governance."
 

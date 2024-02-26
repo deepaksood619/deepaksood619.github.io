@@ -90,6 +90,30 @@ Often it's not we who shape words, but the words we use shape us. -- Nina George
 
 Whataboutism, also known as whataboutery, is a variant of the [tu quoque](https://en.wikipedia.org/wiki/Tu_quoque)[logical fallacy](https://en.wikipedia.org/wiki/Logical_fallacy) that attempts to discredit an opponent's position by charging them with [hypocrisy](https://en.wikipedia.org/wiki/Hypocrisy) without directly refuting or disproving their argument.
 
+## intimating someone vs informing someone
+
+The phrases "intimating someone" and "informing someone" have distinct meanings, although they both involve conveying information to another person. Here's the difference:
+
+### Informing someone
+
+- Definition: Informing someone means providing them with facts, details, or knowledge about a particular subject or situation. It is a straightforward and clear communication of information.
+- Objective: The primary purpose of informing someone is to educate, update, or share information in a direct and transparent manner.
+- Tone: It is often done in a neutral, factual, and straightforward tone. The focus is on the information itself, and there is no hidden agenda or implied meaning.
+
+Example: "I want to inform you that the meeting has been rescheduled to next Monday at 3:00 PM."
+
+### Intimating someone
+
+- Definition: Intimating someone involves communicating information indirectly or subtly. It may include hinting at or suggesting something without explicitly stating it. Intimation often requires the recipient to read between the lines or discern the underlying message.
+- Objective: The objective of intimating someone is typically to convey a message in a more subtle or discreet way, often to avoid direct confrontation or to encourage the recipient to draw their conclusions.
+- Tone: Intimation can involve a tone that is less direct, possibly hinting at emotions, feelings, or a hidden meaning. It may be used in situations where diplomacy or tact is required.
+
+Example: "I've noticed that your performance has room for improvement, and we should discuss it sometime soon."
+
+In summary, the key difference between these two terms lies in their directness and clarity. "Informing someone" is a straightforward and clear communication of facts, while "intimating someone" is a more indirect or subtle way of conveying a message that may require the recipient to interpret the underlying meaning. The choice between these approaches depends on the context and the desired level of transparency in the communication.
+
+[What is the difference between 'intimating someone' and 'informing someone'? - Quora](https://www.quora.com/What-is-the-difference-between-intimating-someone-and-informing-someone)
+
 ## Others
 
 - Literature review / Research

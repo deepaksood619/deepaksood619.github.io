@@ -70,6 +70,11 @@ Production - automation, system integration, robustification
 
 Software engineering - ensure maintainability, scaling, collaborative development
 
+- https://medium.com/@darshilp/roadmap-for-data-engineering-2023-13f62f85d866
+- https://medium.com/@darshilp/roadmap-for-data-engineering-2024-af7ea4ead400
+- https://github.com/igorbarinov/awesome-data-engineering
+- https://github.com/gunnarmorling/awesome-opensource-data-engineering
+
 ### Data Mechanics
 
 Data formatting - type conversion, string manipulation, fixing errors

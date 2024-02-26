@@ -6,7 +6,7 @@ The HTTP protocol is one of the most important protocols for smooth communicatio
 
 This read-only interface property provides access to the Document's local storage object, the stored data is stored across browser sessions. Similar to sessionStorage, except that localStorage data gets cleared when the page session ends -- that is when the page is closed. It is cleared when the last "private" tab of a browser is closed (localStorage data for a document loaded in a private browsing or incognito session).
 
-DOMStrings are storage formats that use UTF-16 to encode data, which uses two bytes per character. Strings are automatically generated from integer keys just as they are for objects. The data stored in LocalStorage is specific to a protocol in the document. If the site is loaded over HTTP (e.g., http://example.com), localStorage returns a different object than if it is loaded over HTTPS (e.g., https://abc.com).
+DOM Strings are storage formats that use UTF-16 to encode data, which uses two bytes per character. Strings are automatically generated from integer keys just as they are for objects. The data stored in LocalStorage is specific to a protocol in the document. If the site is loaded over HTTP (e.g., http://example.com), localStorage returns a different object than if it is loaded over HTTPS (e.g., https://abc.com).
 
 If a document is loaded from a file: URL (that is, directly from the user's local file system instead of being loaded from the server) the requirements for behavior are undefined and may vary among different browsers. Each file appears to be returned a different object by localStorage in all current browsers: URL. Essentially, it seems to be a case of each URL: file having its own unique local storage area.
 
@@ -14,9 +14,11 @@ This behavior cannot be guaranteed because as mentioned above, the file: URL req
 
 Local storage has 4 methods
 
-- **setItem() Method --** This method takes two parameters one is key and another one is value. It is used to store the value in a particular location with the name of the key
+#### setItem() Method
 
-localStorage.setItem(key, value)
+This method takes two parameters one is key and another one is value. It is used to store the value in a particular location with the name of the key
+
+`localStorage.setItem(key, value)`
 
 - **getItem() Method --** This method takes one parameter that is key which is used to get the value stored with a particular key name
 

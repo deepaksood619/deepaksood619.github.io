@@ -4,7 +4,6 @@
 - [Data Mining](data-mining)
 - [Data Analysis](data-analysis)
 - [Datasets](ai/data-science/datasets.md)
-- [Big Data Outline](big-data/readme.md)
 - [Recommender System](recommender-system)
 - [Topics](topics)
 - [Statistics](statistics)

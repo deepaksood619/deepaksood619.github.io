@@ -23,7 +23,7 @@ In this context, the speed at which the data is generated and processed to meet 
 - Viscosity - data velocity relative to timescale of event being studied
 - Volatility - rate of data loss and stable lifetime of data
 
-![image](../../../media/Big-Data-image1.jpg)
+![image](../../media/Big-Data-image1.jpg)
 
 ### Veracity
 

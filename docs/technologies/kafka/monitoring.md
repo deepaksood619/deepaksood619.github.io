@@ -1,5 +1,27 @@
 # Monitoring
 
+## Monitoring / Management Tools
+
+1. Kafka Manager - https://github.com/yahoo/CMAK
+
+   https://hub.docker.com/r/kafkamanager/kafka-manager
+
+2. Kafka Center - https://github.com/xaecbd/KafkaCenter
+3. Kafka lag exporter
+
+    https://github.com/lightbend/kafka-lag-exporter
+
+    https://www.lightbend.com/blog/monitor-kafka-consumer-group-latency-with-kafka-lag-exporter
+
+4. Burrow
+5. Kafdrop
+6. Kafka Tool
+7. Kafka Cruise Control
+
+https://engineering.linkedin.com/blog/2019/02/introducing-kafka-cruise-control-frontend
+
+https://dzone.com/articles/kafka-administration-and-monitoring-ui-tools
+
 ## Confluent Control Center
 
 Confluent Control Center is a web-based tool for managing and monitoring Apache Kafka. Control Center provides the functionality for building and monitoring production data pipelines and streaming applications.
