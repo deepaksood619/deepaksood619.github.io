@@ -1,19 +1,12 @@
 # Design of HBase
 
 1. What is HBase
-
 2. HBase Architecture
-
 3. HBase Components
-
 4. Data model
-
 5. HBase Storage Hierarchy
-
 6. Cross-Datacenter Replication
-
 7. Auto Sharding and Distribution
-
 8. Bloom Filter and Fold, Store, and Shift
 
 ## HBase is
@@ -32,7 +25,7 @@
 - Stores saved as files on HDFS
 - Hbase utilizes zookeeper for distributed coordination
 
-![image](../../../media/Big-Data_Design-of-HBase-image1.jpg)
+![image](../../media/Big-Data_Design-of-HBase-image1.jpg)
 
 ## HBase components
 
@@ -81,7 +74,7 @@
 
 ## HBase Architecture
 
-![image](../../../media/Big-Data_Design-of-HBase-image2.jpg)
+![image](../../media/Big-Data_Design-of-HBase-image2.jpg)
 
 ## Auto Sharding and Distribution
 
@@ -96,6 +89,6 @@
 
 - Bloom filters are generated when HFile is pesisted
 
-![image](../../../media/Big-Data_Design-of-HBase-image3.jpg)
+![image](../../media/Big-Data_Design-of-HBase-image3.jpg)
 
-![image](../../../media/Big-Data_Design-of-HBase-image4.jpg)
+![image](../../media/Big-Data_Design-of-HBase-image4.jpg)

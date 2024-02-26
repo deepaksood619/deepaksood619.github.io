@@ -28,7 +28,7 @@
 - Queried using **SQL (Structured Query Language)**
 - Supports joins
 
-![image](../../../media/Big-Data_Design-of-Key-Value-Stores-image1.jpg)
+![image](../../media/Big-Data_Design-of-Key-Value-Stores-image1.jpg)
 
 ## Mismatch with today's workloads
 
@@ -61,7 +61,7 @@
     - Don't always support joins or have foreign keys
     - Can have index tables, just like RDBMSs
 
-![image](../../../media/Big-Data_Design-of-Key-Value-Stores-image2.jpg)
+![image](../../media/Big-Data_Design-of-Key-Value-Stores-image2.jpg)
 
 ## Column-Oriented Storage
 

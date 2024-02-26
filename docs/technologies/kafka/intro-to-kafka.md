@@ -1,7 +1,5 @@
 # Intro to Kafka
 
-## Kafka: a streaming data platform, Unix Pipelines Analogy
-
 - Kafka Core is the distributed, durable equivalent of Unix pipes. Use it to connect and compose your large-scale data applications
 - Kafka Streams are the commands of your Unix pipelines. Use it to transform data stored in Kafka
 - Kafka Connect is the I/O redirection in your Unix pipelines. Use it to get your data into an out of Kafka.
@@ -49,7 +47,7 @@ The Kafka data model consists of messages and topics
     - Each partition should fit in a single Kafka server
     - The number of partitions decide the parallelism of the topic
 
-## Partiton distribution
+### Partiton distribution
 
 - Partitions can be distributed across the Kafka cluster
 - Each Kafka server may handle one or more partitions
@@ -59,24 +57,15 @@ The Kafka data model consists of messages and topics
 - If a leader fails, one of the followers automatically become the leader.
 - Zookeeper is used for the leader selection
 
-## Producers
+## Some Major Points to Remember in Topics, Partitions, and Offsets
 
-The producer is the creator of the message in Kafka
-
-- The producers place the message to a particular topic
-- The producers also decide which partition to place the message into
-- Topics should already exist before a message is placed by the producer
-- Messages are added at one end of the partition
-
-## Consumers
-
-The consumer is the receiver of the message in Kafka
-
-- Each consumer belongs to a consumer group
-- A consumer group may have one or more consumers
-- The consumers specify what topics they want to listen to
-- A message is sent to all the consumers in a consumer group
-- The consumer groups are used to control the messaging system
+- **Offsets only have a meaning for a specific partition**. That means offset number 3 in Partition 0 does not represent the same data or the same message as offset number 3 in partition 1.
+- **Order is going to be guaranteed** only from within a partition.
+- But across partitions, we have no ordering guarantee. So this is a very important certainty of Kafka is that you’re going to have **ordered at the partition level only**.
+- **Data in Kafka by default is kept only for a limited amount of time** and the default is one week. That means that after one week the data is going to be erased from a partition and this allows Kafka to keep on renewing its disk and to make sure it does not run out of disk space.
+- Kafka is **immutable**. That means once the data is written into a partition, it cannot be changed. So if you write the message number 3 in partition 0 you cannot overwrite. So as such, you want to be careful about the kind of data you send to a Kafka topic and your recovery mechanism instead of in case you send bad data.
+- Also if you don’t provide a key to your message, then when you send a message to a Kafka topic the data is going to be assigned to a random partition.
+- Finally, a topic can have as many partitions as you want but it is not common to have topics with say 10, 20, 30, or 1000 partitions unless you have a truly high throughput topic.
 
 ## Kafka Architecture
 
@@ -150,12 +139,3 @@ Kafka uses the Linux file system for persistence of messages
 1. **Kafka Core:** A central hub to transport and store event streams in real-time
 2. **Kafka Connect:** A framework to import event streams from other soure data systems into Kafka and export event streams from Kafka to destination data systems
 3. **Kafka Streams:** A Java library to process event streams live as they occur
-
-## Conclusion
-
-- Kafka is a high-performance, real-time messaging system
-- Kafka can be used as an external commit log for distributed systems
-- Kafka data model consists of messages and topics
-- Kafka architecture consists of brokers that take messages from the producers and add to a partition of a topics
-- Kafka architecture supports two types of messaging system called publish-subscribe and queue system
-- Brokers are the Kafka processes that process the messages in Kafka

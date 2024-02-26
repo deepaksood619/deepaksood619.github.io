@@ -3,9 +3,11 @@
 ## Socket
 
 The first function is socket(), which creates an object called a socket. A socket is a number that a program can use to communicate with another program. In UNIX terms, it is no different from a file descriptor, which is a number that is used for reading or writing from an open file. Instead, with a socket, a program is reading (receiving) or writing (sending) from or to the network.
-nc -l 8000 # for tcp listen
 
+```bash
+nc -l 8000 # for tcp listen
 nc -l 8000 -u
+```
 
 This just tells nc to create a UDP receiver (the argument -u) that is expecting data on port 8000. Now, let's use sock object to send data to nc.
 

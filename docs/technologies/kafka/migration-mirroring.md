@@ -16,6 +16,16 @@
 
 MirrorMaker, is simple a Kafka consumer and producer, linked together with a queue. Can aggregate messages from two local clusters into an aggregate cluster, and then copying that cluster to other datacenters.
 
+### Architecture components
+
+To successfully understand how MirrorMaker 2 works, one needs to keep in mind that MirrorMaker 2 is built on top of Kafka Connect. Kafka Connect is a framework within Apache Kafka that eases the integration of Kafka with other systems. Indeed, it allows developers to stream data to Kafka from various external sources and vice versa (i.e., from Kafka to external systems). Kafka Connect operates in a scalable and fault-tolerant manner using connector plugins. MirrorMaker 2 relies on three key Kafka Connectors to perform data and offset replications. These special connectors are as follows:
+
+- **Source Connector** is responsible for replicating the data between Kafka clusters.
+- **Checkpoint Connector** is responsible for consumer groups offsets translation.
+- **Heartbeat Connector** enables the monitoring of the health of a MirrorMaker 2 instance.
+
+[Demystifying Kafka MirrorMaker 2: Use cases and architecture | Red Hat Developer](https://developers.redhat.com/articles/2023/11/13/demystifying-kafka-mirrormaker-2-use-cases-and-architecture#architecture_design_scenarios)
+
 ### Highlights of the Mirror Maker 2.0
 
 - Leverages the Kafka Connect framework and ecosystem.
@@ -50,6 +60,14 @@ For consumers relying on the `__consumer_offsets` topic to track progress, MM2 m
 
 Using the checkpoint topic, a consumer, on failover, can directly determine (using the MM2 utilities) the target offset corresponding to the source committed offset that it needs to start consuming from.
 
+#### Offset Translation
+
+The offset translation is great feature to serve the foundation of migrating or failing over downstream consumers (including Kafka stream applications) from the primary to the backup cluster, as the consumers will use the translated offsets to resume the consumption from where they left off at the primary cluster, without losing messages or consuming many duplicate messages. This expectation essentially contributes to a smooth and transparent one-time migration of consumers from one to another cluster, or the failover of consumers from primary to backup cluster.
+
+To achieve the above transition, there are two important steps: (1) consumer offsets can be translated into the ones that make sense in another cluster, which is already done by the current MM 2.0. (2) periodically synchronize the translated offsets to the  `___consumer_offsets_` topic, so that when the consumers switch over to the other cluster, they can start off from the last known and translated offsets.
+
+[KIP-545: support automated consumer offset sync across clusters in MM 2.0 - Apache Kafka - Apache Software Foundation](https://cwiki.apache.org/confluence/display/KAFKA/KIP-545%3A+support+automated+consumer+offset+sync+across+clusters+in+MM+2.0)
+
 ### Links
 
 - [Kafka Replication: The case for MirrorMaker 2.0 - Cloudera Blog](https://blog.cloudera.com/kafka-replication-the-case-for-mirrormaker-2-0/)
@@ -67,4 +85,6 @@ Using the checkpoint topic, a consumer, on failover, can directly determine (usi
 
 ## Migration
 
-[How to Migrate Kafka Cluster with Zero Downtime | by Dheeraj Kulakarni | MiQ Tech and Analytics | Medium](https://medium.com/miq-tech-and-analytics/how-to-migrate-kafka-cluster-with-zero-downtime-38653dfe9a76)
+- **[How to Migrate Kafka Cluster with Zero Downtime | by Dheeraj Kulakarni | MiQ Tech and Analytics | Medium](https://medium.com/miq-tech-and-analytics/how-to-migrate-kafka-cluster-with-zero-downtime-38653dfe9a76)**
+- [Migrate Applications from Kafka On-Premise to Confluent Cloud](https://blogit.michelin.io/migrate-your-applications-from-kafka-onprem-to-a-manage-service/)
+- [Migration Tool and Tips of Kafka cross-cluster replication: MirrorMaker | by Ning.Zhang | Towards Data Science](https://towardsdatascience.com/migration-tool-and-tips-of-kafka-cross-cluster-replication-mirrormaker-7e0157eecf19)

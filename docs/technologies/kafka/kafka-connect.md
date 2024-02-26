@@ -1,7 +1,5 @@
 # Kafka Connect
 
-## Kafka Connect (Definitive Guide)
-
 - Connectors and tasks
     - Connectors
         - Determining how many tasks will run for the connector
@@ -15,9 +13,9 @@ Kafka Connect's worker processes are the "container' processes that execute the 
 
 - Connectors and tasks are responsible for the "moving data" part of data integrations, while the workers are responsible for the REST API, configuration management, reliability, high availability, scaling, and load balancing
 
-Kafka Connect is a tool for scalably and reliably streaming data between Apache Kafka and other systems. It makes it simple to quickly define *connectors*that move large collections of data into and out of Kafka. Kafka Connect can ingest entire databases or collect metrics from all your application servers into Kafka topics, making the data available for stream processing with low latency. An export job can deliver data from Kafka topics into secondary storage and query systems or into batch systems for offline analysis.
+Kafka Connect is a tool for scalably and reliably streaming data between Apache Kafka and other systems. It makes it simple to quickly define *connectors* that move large collections of data into and out of Kafka. Kafka Connect can ingest entire databases or collect metrics from all your application servers into Kafka topics, making the data available for stream processing with low latency. An export job can deliver data from Kafka topics into secondary storage and query systems or into batch systems for offline analysis.
 
-Kafka Connect features include:
+### Kafka Connect features
 
 - **A common framework for Kafka connectors** - Kafka Connect standardizes integration of other data systems with Kafka, simplifying connector development, deployment, and management
 - **Distributed and standalone modes** - scale up to a large, centrally managed service supporting an entire organization or scale down to development, testing, and small production deployments
@@ -28,11 +26,11 @@ Kafka Connect features include:
 
 ## Kafka Connect currently supports two types of Workers
 
-1. Standalone (single process)
+### 1. Standalone (single process)
 
 Standalone mode is the simplest mode, where a single process is responsible for executing all connectors and tasks.
 
-2. Distributed
+### 2. Distributed
 
 Distributed mode provides scalability and automatic fault tolerance for Kafka Connect. In distributed mode, you start many worker processes using the samegroup.idand they automatically coordinate to schedule execution of connectors and tasks across all available workers. If you add a worker, shut down a worker, or a worker fails unexpectedly, the rest of the workers detect this and automatically coordinate to redistribute connectors and tasks across the updated set of available workers. Note the similarity to consumer group rebalance. Under the covers, connect workers are using consumer groups to coordinate and rebalance.
 
@@ -149,25 +147,15 @@ curl -s -X PUT -H "Content-Type:application/json" --data '{"connector.class": "c
     - connect.mqtt.hosts
 
 - Optional Configurations
-
     - connect.mqtt.service.quality (default - 1)
-
     - connect.mqtt.username
-
     - connect.mqtt.password
-
     - connect.mqtt.client.id
-
     - connect.mqtt.timeout (default - 3000ms)
-
     - connect.mqtt.clean (default - true)
-
     - connect.mqtt.keep.alive (default - 5000)
-
     - connect.mqtt.converter.throw.on.error (default - false)
-
     - connect.converter.avro.schemas
-
     - connect.progress.enabled
 
 ### Commands
@@ -180,7 +168,7 @@ http://ke-cp-kafka-connect.kafka:8083/connectors
 
 https://docs.lenses.io/connectors/source/mqtt.html
 
-## Simple Message Transformations SMT
+## Simple Message Transformations (SMT)
 
 These single message transforms (SMTs) are available for use with Kafka Connect:
 
@@ -202,12 +190,8 @@ These single message transforms (SMTs) are available for use with Kafka Connect:
 
 ## References
 
-https://docs.confluent.io/current/connect/userguide.html
-
-https://kafka.apache.org/documentation.html#connect
-
-https://kafka.apache.org/documentation/#connectapi
-
-https://docs.confluent.io/current/installation/docker/docs/installation/single-node-client.html#step-7-start-kafka-connect
-
-https://docs.confluent.io/current/connect/transforms/index.html
+- https://docs.confluent.io/current/connect/userguide.html
+- https://kafka.apache.org/documentation.html#connect
+- https://kafka.apache.org/documentation/#connectapi
+- https://docs.confluent.io/current/installation/docker/docs/installation/single-node-client.html#step-7-start-kafka-connect
+- https://docs.confluent.io/current/connect/transforms/index.html

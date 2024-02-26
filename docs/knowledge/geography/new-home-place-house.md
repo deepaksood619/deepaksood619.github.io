@@ -16,9 +16,10 @@ Housing isn’t a great investment but for most people, it’s the best investme
 
 **20-30 degrees Celsius with no humidity throughout year i.e dry climate**
 
-### Elevation
+### Elevation / Altitude
 
 One of the factor is Elevation
+
 - 500 mtr+ is good weather like bangalore (964m), pune (565m), jagdalpur (570m), nainital (1990m)
 - 300 mtr is bad - delhi (246m), dantewada (370m), ramnagar (388m)
 
@@ -38,6 +39,7 @@ When we move up a hill, we notice a fall in temperature. This fall in temperatur
 [Why does temperature decrease with increase in altitude? - Quora](https://www.quora.com/Why-does-temperature-decrease-with-increase-in-altitude)
 
 ### Places
+
 - **Pune**
 - Bangalore
 - **Mysore**
@@ -71,13 +73,13 @@ https://zolostays.com/blog/cities-with-best-weather-in-india
 - [Is there a country/region in the world where the temperature is year round around 23-25 degrees Celsius?](https://www.quora.com/Is-there-a-country-region-in-the-world-where-the-temperature-is-year-round-around-23-25-degrees-Celsius)
 - [Best Countries to Live In 2023](https://worldpopulationreview.com/country-rankings/best-countries-to-live-in)
 - [The Best Countries to Live in the World: Top-9 Places to Immigrate](https://immigrantinvest.com/blog/top-9-countries-for-comfortable-life-en/)
-  - Singapore
-  - New Zealand
-  - Germany
-  - Spain
-  - Canada
-  - Austria
-  - Finland
+    - Singapore
+    - New Zealand
+    - Germany
+    - Spain
+    - Canada
+    - Austria
+    - Finland
 
 #### Metrics
 
@@ -93,7 +95,7 @@ https://zolostays.com/blog/cities-with-best-weather-in-india
 - Near beach & independent house with open areas and no humidity and no huge temperature variance (in a different country, with low income tax and high HDI, happiness index, low crime, low inequality, good education, no racism)
 - https://www.thehindu.com/real-estate/the-occupancy-certificate-why-it-is-now-more-important-than-ever/article19294876.ece
 - Natural Disaster area - earthquake, tsunami, hurricane, flood, drought, etc
-	-  Global Seismic Hazard Map
+   	-  Global Seismic Hazard Map
 - **Don't buy a house more than 50 lakhs in India (1 crore house in america gives you a condo)**
 - Buy home from bank auctions - [auction property: Is it safe to buy auction property? Six things a buyer need to keep in mind - The Economic Times](https://economictimes.indiatimes.com/wealth/real-estate/is-it-safe-to-buy-auction-property-six-things-a-buyer-need-to-keep-in-mind/articleshow/103044435.cms)
 - Loan - aavas financiers
@@ -113,11 +115,11 @@ https://zolostays.com/blog/cities-with-best-weather-in-india
 - Water bill
 - Electricity meter (BSES) - Powercuts in area
 - Gas connection
-	- Chimney point
-	- Induction cooktop over gas stove
-	- [The Problem With Gas Stoves - YouTube](https://www.youtube.com/watch?v=X440BHdy35g)
-	- [Why don't Americans use electric kettles? - YouTube](https://www.youtube.com/watch?v=_yMMTVVJI4c)
-	- [Gas stoves aren't really that fast - even standard electric is faster! - YouTube](https://www.youtube.com/watch?v=eUywI8YGy0Y)
+   	- Chimney point
+   	- Induction cooktop over gas stove
+   	- [The Problem With Gas Stoves - YouTube](https://www.youtube.com/watch?v=X440BHdy35g)
+   	- [Why don't Americans use electric kettles? - YouTube](https://www.youtube.com/watch?v=_yMMTVVJI4c)
+   	- [Gas stoves aren't really that fast - even standard electric is faster! - YouTube](https://www.youtube.com/watch?v=eUywI8YGy0Y)
 - Electricity Backup (Inverter / DG (Diesel Generator))
 - Security deposit
 - Ventilators
@@ -129,10 +131,10 @@ https://zolostays.com/blog/cities-with-best-weather-in-india
 - In and out times / security
 - Sound proofing between walls rooms and outside house (Noise Pollution Levels)
 - RO / Water
-	- Ceremic filters are also good (doesn't require electricity / doesn't need Maintenance / no wastage of water / Cheap)
-	- https://www.livemint.com/Leisure/6IPqOAHPfAb4aLecr2U0vI/How-safe-is-your-water.html
+   	- Ceremic filters are also good (doesn't require electricity / doesn't need Maintenance / no wastage of water / Cheap)
+   	- https://www.livemint.com/Leisure/6IPqOAHPfAb4aLecr2U0vI/How-safe-is-your-water.html
 - Big Wardrobes (storage)
-	- Sliding door better
+   	- Sliding door better
 
 #### Tools / Sites
 
@@ -180,8 +182,8 @@ https://zolostays.com/blog/cities-with-best-weather-in-india
 - House Poor / house rich, cash poor - https://www.investopedia.com/terms/h/housepoor.asp
 - Home lane for interior designing, for a home get a professional interior designer
 - Rent
-	- Furniture rental furlenco
-	- Rentomojo
+   	- Furniture rental furlenco
+   	- Rentomojo
 - Solar - [Solar System for Home with 23% ROE - with Excel Calculation | Solar subsidy and utility | - YouTube](https://www.youtube.com/watch?v=EB2CZJz1dIY)
 - Daily dump composter
 - Not near airport, or noisy place
@@ -209,10 +211,10 @@ https://freefincal.com/when-should-i-get-a-home-loan-how-to-decide-this
 - **> 3000 sq ft**
 - **Running balcony**
 - carpet area / floor space / usable floor space
-	- [Watch this before buying a FLAT | How to find fair market value of property - YouTube](https://www.youtube.com/watch?v=qCMFlfBTWks&ab_channel=LabourLawAdvisor)
-	- Carpet area / rera carpet area  
-	- Built up area (10-15% more than carpet area)  
-	- Super built up area - 20-50% more than built up area
+   	- [Watch this before buying a FLAT | How to find fair market value of property - YouTube](https://www.youtube.com/watch?v=qCMFlfBTWks&ab_channel=LabourLawAdvisor)
+   	- Carpet area / rera carpet area
+   	- Built up area (10-15% more than carpet area)
+   	- Super built up area - 20-50% more than built up area
 - [Why are Top Floor Apartments More Expensive? | Boom | Boom](https://www.boompay.app/post/why-top-floor-units-more-expensive)
 - Asian paints smart care damp proof
 
@@ -236,7 +238,7 @@ gypsum wall partition
 
 https://www.youtube.com/watch?v=dy81ldYQdgY
 
-- Coohome  
+- Coohome
 - Sweet home
 
 ![image](../../media/Personality-Life-Lessons-Buying-Guide-Travelling-Shopping-image1.jpg)
@@ -278,15 +280,15 @@ https://www.etmoney.com/blog/buying-a-house-or-staying-on-rent-which-is-a-better
 
 [Don't Invest in Property before checking 10 DOCUMENTS ft. @LegalSHOTS | Real Estate - YouTube](https://www.youtube.com/watch?v=Zhxp1BGgBn8)
 
-1. Title document - Sale deed, gift deed, conveyance deed  
-2. Channel document  
-3. Encumbrance certificate (no existing loan on the document)  
-4. Occupancy certificate  
-5. Allotment letter  
-6. Urban development tax receipt  
-7. Car allotment letter  
-8. No objection certificate (noc)  
-9. Mutation letter  
+1. Title document - Sale deed, gift deed, conveyance deed
+2. Channel document
+3. Encumbrance certificate (no existing loan on the document)
+4. Occupancy certificate
+5. Allotment letter
+6. Urban development tax receipt
+7. Car allotment letter
+8. No objection certificate (noc)
+9. Mutation letter
 10. Conversion certificate
 
 ## Climate resilient
@@ -307,9 +309,9 @@ Air pollution in Delhi reduces life expectancy by 10 years
 
 ### India
 
-1.  The Himalayan region: This region includes states like Uttarakhand, Himachal Pradesh, Sikkim, and Arunachal Pradesh, which are at higher elevations and have access to freshwater sources. These areas are also less prone to extreme weather events, such as cyclones and floods, that can impact coastal regions. Additionally, these states have a strong tradition of organic farming and have relatively better healthcare facilities compared to other parts of the country.
-2.  The Deccan Plateau: This region covers a large part of central and southern India, including states like Maharashtra, Karnataka, Andhra Pradesh, and Telangana. This area is relatively more stable climatically and has access to groundwater sources. The Deccan Plateau is also known for its agriculture and food production, including the cultivation of crops such as rice, wheat, and pulses.
-3.  The North-Eastern region: This region includes states like Assam, Meghalaya, and Nagaland and has access to water resources such as the Brahmaputra and Barak rivers. This region is less prone to extreme weather events, although some areas are prone to landslides and floods. Additionally, the region has a high biodiversity and a rich cultural heritage.
+1. The Himalayan region: This region includes states like Uttarakhand, Himachal Pradesh, Sikkim, and Arunachal Pradesh, which are at higher elevations and have access to freshwater sources. These areas are also less prone to extreme weather events, such as cyclones and floods, that can impact coastal regions. Additionally, these states have a strong tradition of organic farming and have relatively better healthcare facilities compared to other parts of the country.
+2. The Deccan Plateau: This region covers a large part of central and southern India, including states like Maharashtra, Karnataka, Andhra Pradesh, and Telangana. This area is relatively more stable climatically and has access to groundwater sources. The Deccan Plateau is also known for its agriculture and food production, including the cultivation of crops such as rice, wheat, and pulses.
+3. The North-Eastern region: This region includes states like Assam, Meghalaya, and Nagaland and has access to water resources such as the Brahmaputra and Barak rivers. This region is less prone to extreme weather events, although some areas are prone to landslides and floods. Additionally, the region has a high biodiversity and a rich cultural heritage.
 
 ### International
 

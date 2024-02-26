@@ -1,6 +1,6 @@
 # Kafka Listeners
 
-tl;dr : You need to set advertised.listeners (or KAFKA_ADVERTISED_LISTENERS if you're using Docker images) to the external address (host/IP) so that clients can correctly connect to it. Otherwise they'll try to connect to the internal host address--and if that's not reachable then problems ensue
+tl;dr : You need to set `advertised.listeners` (or `KAFKA_ADVERTISED_LISTENERS`if you're using Docker images) to the external address (host/IP) so that clients can correctly connect to it. Otherwise they'll try to connect to the internal host address and if that's not reachable then problems ensue
 
 ![image](../../media/Technologies-Kafka-Kafka-Listeners-image1.jpg)
 
@@ -38,17 +38,9 @@ KAFKA_INTER_BROKER_LISTENER_NAME: LISTENER_BOB
 
 *I'm using the Docker config names - the equivalents if you're configuring server.properties directly (e.g. on AWS etc) are shown indented in the following list*
 
-- KAFKA_LISTENERS is a comma-separated list of listeners, and the host/ip and port to which Kafka binds to on which to listen. For more complex networking this might be an IP address associated with a given network interface on a machine. The default is 0.0.0.0, which means listening on all interfaces.
-
-- listeners
-
-- KAFKA_ADVERTISED_LISTENERS is a comma-separated list of listeners with their the host/ip and port. This is the metadata that's passed back to clients.
-
-- advertised.listeners
-
-- KAFKA_LISTENER_SECURITY_PROTOCOL_MAP defines key/value pairs for the security protocol to use, per listener name.
-
-- listener.security.protocol.map
+- KAFKA_LISTENERS is a comma-separated list of listeners, and the host/ip and port to which Kafka binds to on which to listen. For more complex networking this might be an IP address associated with a given network interface on a machine. The default is 0.0.0.0, which means listening on all interfaces. - `listeners`
+- KAFKA_ADVERTISED_LISTENERS is a comma-separated list of listeners with their the host/ip and port. This is the metadata that's passed back to clients. - `advertised.listeners`
+- KAFKA_LISTENER_SECURITY_PROTOCOL_MAP defines key/value pairs for the security protocol to use, per listener name. - `listener.security.protocol.map`
 
 *Kafka brokers communicate between themselves*, usually on the internal network (e.g. Docker network, AWS VPC, etc). To define which listener to use, specify KAFKA_INTER_BROKER_LISTENER_NAME (inter.broker.listener.name). The host/IP used must be accessible from the broker machine to others.
 
@@ -58,7 +50,7 @@ Each listener will, when connected to, report back the address on which it can b
 
 When connecting to a broker, the listener that will be returned to the client will be the listener to which you connected (based on the port).
 
-kafkacat is a useful tool for exploring this. Using -L you can see the metadata for the listener to which you connected. Based on the same listener config as above (LISTENER_BOB / LISTENER_FRED), check out the respective entries for **broker 0 at**: -
+kafkacat is a useful tool for exploring this. Using `-L` you can see the metadata for the listener to which you connected. Based on the same listener config as above (LISTENER_BOB / LISTENER_FRED), check out the respective entries for **broker 0 at**: -
 
 - Connecting on port 9092 (which we map as LISTENER_FRED), the broker's address is given back as localhost
 

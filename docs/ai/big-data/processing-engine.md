@@ -72,6 +72,6 @@ The best fit for your situation will depend heavily upon the state of the data t
 
 https://www.digitalocean.com/community/tutorials/hadoop-storm-samza-spark-and-flink-big-data-frameworks-compared
 
-![image](../../../media/Big-Data_Processing-Engine-image1.jpg)
+![image](../../media/Big-Data_Processing-Engine-image1.jpg)
 
 [Big Data Architecture: A ksqlDB and Kubernetes Tutorial](https://www.toptal.com/big-data/ksqldb-kubernetes-tutorial)

@@ -42,27 +42,29 @@ https://bravenewgeek.com/building-a-distributed-log-from-scratch-part-1-storage-
 - Zookeeper
 - Producer
 - Consumer
+- Kafka cluster
+- Failovers
+- ISRs
+- Kafka disaster recovery
 - Topic
 - Topic Partition
 - Consumer Group
 - Offsets
 
-Starting from version 0.8.2.0, the offsets committed by the consumers aren't saved in [ZooKeeper](https://dzone.com/articles/an-introduction-to-zookeeper-1) but on a partitioned and replicated topic named__consumer_offsets, which is hosted on the Kafka brokers in the cluster.
+Starting from version 0.8.2.0, the offsets committed by the consumers aren't saved in [ZooKeeper](https://dzone.com/articles/an-introduction-to-zookeeper-1) but on a partitioned and replicated topic named `__consumer_offsets`, which is hosted on the Kafka brokers in the cluster.
 
-When a consumer commits some offsets (for different partitions), it sends a message to the broker to the__consumer_offsetstopic. The message has the following structure :
+When a consumer commits some offsets (for different partitions), it sends a message to the broker to the `__consumer_offsets` topic. The message has the following structure :
 
-- key = [group, topic, partition]
-- value = offset
-
-- Kafka cluster
-- Failovers
-- ISRs
-- Kafka disaster recovery
+```bash
+key = [group, topic, partition
+value = offset
+```
 
 ## Key concepts
 
+|           |                                                                                   |
+| --------- | --------------------------------------------------------------------------------- |
 | topic     | Defines a logical name for producing and consuming records.                       |
-|------------|------------------------------------------------------------|
 | partition | Defines a non-overlapping subset of records within a topic.                       |
 | offset    | A unique sequential number assigned to each record within a topic partition.      |
 | record    | A record contains a key, a value, a timestamp, and a list of headers.             |
@@ -80,32 +82,39 @@ When a consumer commits some offsets (for different partitions), it sends a mess
 - Cluster Membership
     - Kafka uses Apache Zookeeper to maintain the list of brokers that are currently members of a cluster
 - Controller
-    - The first broker that starts in the cluster becomes the controller by creating an ephemeral node in ZooKeeper called */controller.*
-- Replication
-    - **Two types of replicas**
-        - Leader replica
+    - The first broker that starts in the cluster becomes the controller by creating an ephemeral node in ZooKeeper called `/controller`
+
+### Replication
+
+Two types of replicas
+
+#### Leader replica
 
 Each partition has a single replica designated as the leader. All produce and consume requests go through the leader, in order to guarantee consistency.
 
-- Follower replica
+#### Follower replica
 
 All replicas for a partition that are not leaders are called followers. Followers don't serve client requests; their only job is to replicate messages from the leader and stay up-to-date with the most recent messages the leader has. In the event that a leader replica for a partition crashes, one of the follower replicas will be promoted to become the new leader for the partition.
 
 - Replicas that are consistently asking for the latest messages, is called *in-sync replicas*. Only in-sync replicas are eligible to be elected as partition leaders in case the existing leader fails.
 
-- Request Processing
-    - Most of what a Kafka broker does is process requests sent to the partition leaders from clients, partition replicas, and the controller.
-    - For each port the broker listens on, the broker runs an *acceptor* thread that creates a connection and hands it over to a *processor* thread for handling. The number of processor threads (also called *network threads*) is configurable. The network threads are responsible for taking requests from client connections, placing them in a *request queue*, and picking up responses from a *response queue* and sending them back to clients.
-    - Once requests are placed on the request queue, *IO threads* are responsible for picking them up and processing them. The most common types of requests are:
-        - Produce requests
+### Request Processing
+
+- Most of what a Kafka broker does is process requests sent to the partition leaders from clients, partition replicas, and the controller.
+- For each port the broker listens on, the broker runs an *acceptor* thread that creates a connection and hands it over to a *processor* thread for handling. The number of processor threads (also called *network threads*) is configurable. The network threads are responsible for taking requests from client connections, placing them in a *request queue*, and picking up responses from a *response queue* and sending them back to clients.
+- Once requests are placed on the request queue, *IO threads* are responsible for picking them up and processing them.
+
+#### The most common types of requests are
+
+##### Produce requests
 
 Sent by producers and contain messages the clients write to Kafka brokers.
 
-- Fetch requests
+##### Fetch requests
 
 Sent by consumers and follower replicas when they read messages from Kafka brokers.
 
-- Physical Storage
+### Physical Storage
 
 The basic storage unit of Kafka is a partition replica.
 
@@ -146,7 +155,7 @@ https://www.confluent.io/blog/compression-in-apache-kafka-is-now-34-percent-fast
 
 ## Others
 
-Another caveat with Kafka is unclean leader elections. That is, if all replicas become unavailable, there are two options: choose the first replica to come back to life (not necessarily in the ISR) and elect this replica as leader (which could result in data loss) or wait for a replica in the ISR to come back to life and elect it as leader (which could result in prolonged unavailability). Initially, Kafka favored availability by default by choosing the first strategy. If you preferred consistency, you needed to set *unclean.leader.election.enable* to *false*. However, as of 0.11, *unclean.leader.election.enable* now defaults to this.
+Another caveat with Kafka is unclean leader elections. That is, if all replicas become unavailable, there are two options: choose the first replica to come back to life (not necessarily in the ISR) and elect this replica as leader (which could result in data loss) or wait for a replica in the ISR to come back to life and elect it as leader (which could result in prolonged unavailability). Initially, Kafka favoured availability by default by choosing the first strategy. If you preferred consistency, you needed to set `unclean.leader.election.enable` to `false`. However, as of 0.11, `unclean.leader.election.enable` now defaults to this.
 
 ## Others
 

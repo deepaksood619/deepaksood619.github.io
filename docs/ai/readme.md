@@ -2,6 +2,7 @@
 
 - [Model Evaulation](model-evaluation/readme.md)
 - [Data Science](data-science/readme.md)
+- [Big Data](ai/big-data/readme.md)
 - [ML Fundamentals](ml-fundamentals/readme.md)
 - [ML Algorithms](ml-algorithms/readme.md)
 - [Deep Learning](deep-learning/readme.md)

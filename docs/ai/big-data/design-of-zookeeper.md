@@ -9,24 +9,24 @@ Zookeeper - Service for coordinating processes of distributed applications
 
 ## Classic Distributed System
 
-![image](../../../media/Big-Data_Design-of-Zookeeper-image1.jpg)
+![image](../../media/Big-Data_Design-of-Zookeeper-image1.jpg)
 
 - Most of the system like HDFS have one Master and couple of slave nodes and these slave nodes report to the master.
 
 ## Fault Tolerant Distributed System
 
-![image](../../../media/Big-Data_Design-of-Zookeeper-image2.jpg)
+![image](../../media/Big-Data_Design-of-Zookeeper-image2.jpg)
 
 - Real distributed fault tolerant system have Coordination service, Master and backup master
 - If primary failed then backup works for it
 
-![image](../../../media/Big-Data_Design-of-Zookeeper-image3.jpg)
+![image](../../media/Big-Data_Design-of-Zookeeper-image3.jpg)
 
-![image](../../../media/Big-Data_Design-of-Zookeeper-image4.jpg)
+![image](../../media/Big-Data_Design-of-Zookeeper-image4.jpg)
 
-![image](../../../media/Big-Data_Design-of-Zookeeper-image5.jpg)
+![image](../../media/Big-Data_Design-of-Zookeeper-image5.jpg)
 
-![image](../../../media/Big-Data_Design-of-Zookeeper-image6.jpg)
+![image](../../media/Big-Data_Design-of-Zookeeper-image6.jpg)
 
 ## What is Coordination?
 
@@ -80,7 +80,7 @@ Zookeeper - Service for coordinating processes of distributed applications
     - **Update responses are sent when a majority of servers have persisted the change**
     - **We need 2f+1 machines to tolerate f failures**
 
-![image](../../../media/Big-Data_Design-of-Zookeeper-image7.jpg)
+![image](../../media/Big-Data_Design-of-Zookeeper-image7.jpg)
 
 3. **Ordered**
     - **Zookeeper stamps each update with a number**
@@ -106,7 +106,7 @@ Zookeeper - Service for coordinating processes of distributed applications
 - duck is child znode of zoo. It is denoted as /zoo/duck
 - Though "." or ".." are invalid characters as opposed to the file system
 
-![image](../../../media/Big-Data_Design-of-Zookeeper-image8.jpg)
+![image](../../media/Big-Data_Design-of-Zookeeper-image8.jpg)
 
 ## Data model - Znode - Types
 
@@ -118,7 +118,7 @@ Such kind of znodes remain in zookeeper until deleted. This is the default type 
     - Ephermal node gets deleted if the session in which the node was created has disconnected. Though it is tied to client's session but it is visible to the other users.
     - An ephermal node can not have children not even ephermal children
 
-![image](../../../media/Big-Data_Design-of-Zookeeper-image9.jpg)
+![image](../../media/Big-Data_Design-of-Zookeeper-image9.jpg)
 
 ## Architecture
 
@@ -142,7 +142,7 @@ Phase 1: Leader election (Paxos Algorithm)
 - If leader fails, the remaining machines hold election takes 200ms
 - If the majority of the machines aren't available at any point of time the leader automatically steps down
 
-![image](../../../media/Big-Data_Design-of-Zookeeper-image10.jpg)
+![image](../../media/Big-Data_Design-of-Zookeeper-image10.jpg)
 
 ## Architecture: Phase 2
 
@@ -156,7 +156,7 @@ Phase 1: Leader election (Paxos Algorithm)
 - The protocol for achieving consensus is atomic like two-phase commit
 - Machines write to disk before in-memory
 
-![image](../../../media/Big-Data_Design-of-Zookeeper-image11.jpg)
+![image](../../media/Big-Data_Design-of-Zookeeper-image11.jpg)
 
 ## Election in Zookeeper
 
@@ -168,7 +168,7 @@ Phase 1: Leader election (Paxos Algorithm)
     - Gets highers id so far (from ZK file system), creates next-higher id, writes it into ZK file system
 - Elect the highest-id server as leader
 
-![image](../../../media/Big-Data_Design-of-Zookeeper-image12.jpg)
+![image](../../media/Big-Data_Design-of-Zookeeper-image12.jpg)
 
 - Failures:
     - One option: everyone monitors current master (directly or via a failure detector)
@@ -176,7 +176,7 @@ Phase 1: Leader election (Paxos Algorithm)
         - Leads to a flood of elections
         - Too many messages
 
-![image](../../../media/Big-Data_Design-of-Zookeeper-image13.jpg)
+![image](../../media/Big-Data_Design-of-Zookeeper-image13.jpg)
 
 - Second option: (implemented in Zookeeper)
     - Each process monitors its next-higher id process
@@ -185,7 +185,7 @@ Phase 1: Leader election (Paxos Algorithm)
     - **else**
         - wait for a timeout, and check your successor again
 
-![image](../../../media/Big-Data_Design-of-Zookeeper-image14.jpg)
+![image](../../media/Big-Data_Design-of-Zookeeper-image14.jpg)
 
 - What about id conflicts? What if leader fails during election?
 - To address this, Zookeeper uses a two-phase commit (run after the sequence/id) protocol to commit the leader
@@ -199,26 +199,26 @@ Phase 1: Leader election (Paxos Algorithm)
 
 - If you have three nodes A, B, C with A as Leader. And A dies. Will someone become leader?
 
-![image](../../../media/Big-Data_Design-of-Zookeeper-image15.jpg)
+![image](../../media/Big-Data_Design-of-Zookeeper-image15.jpg)
 
-![image](../../../media/Big-Data_Design-of-Zookeeper-image16.jpg)
+![image](../../media/Big-Data_Design-of-Zookeeper-image16.jpg)
 
 - If you have three nodes A, B, C and A and B die. Will C become Leader?
 
-![image](../../../media/Big-Data_Design-of-Zookeeper-image17.jpg)
+![image](../../media/Big-Data_Design-of-Zookeeper-image17.jpg)
 
-![image](../../../media/Big-Data_Design-of-Zookeeper-image18.jpg)
+![image](../../media/Big-Data_Design-of-Zookeeper-image18.jpg)
 
 ## Why do we need majority?
 
 - Imagine: We have an ensemble spread over two data centres.
 
-![image](../../../media/Big-Data_Design-of-Zookeeper-image19.jpg)
+![image](../../media/Big-Data_Design-of-Zookeeper-image19.jpg)
 
 - Imagine: The network between data centres got disconnected. If we did not need majority for electing Leader
 - What will happen?
 
-![image](../../../media/Big-Data_Design-of-Zookeeper-image20.jpg)
+![image](../../media/Big-Data_Design-of-Zookeeper-image20.jpg)
 
 - Each data centre will have their own Leader. No Consistency and utter Chaos. That is why it requires majority.
 
@@ -237,19 +237,19 @@ Phase 1: Leader election (Paxos Algorithm)
     - Failover is handled automatically by the client
     - Application can't remain agnostic of server reconnections because the operations will fail during disconnection
 
-![image](../../../media/Big-Data_Design-of-Zookeeper-image21.jpg)
+![image](../../media/Big-Data_Design-of-Zookeeper-image21.jpg)
 
-![image](../../../media/Big-Data_Design-of-Zookeeper-image22.jpg)
+![image](../../media/Big-Data_Design-of-Zookeeper-image22.jpg)
 
-![image](../../../media/Big-Data_Design-of-Zookeeper-image23.jpg)
+![image](../../media/Big-Data_Design-of-Zookeeper-image23.jpg)
 
-![image](../../../media/Big-Data_Design-of-Zookeeper-image24.jpg)
+![image](../../media/Big-Data_Design-of-Zookeeper-image24.jpg)
 
-![image](../../../media/Big-Data_Design-of-Zookeeper-image25.jpg)
+![image](../../media/Big-Data_Design-of-Zookeeper-image25.jpg)
 
-![image](../../../media/Big-Data_Design-of-Zookeeper-image26.jpg)
+![image](../../media/Big-Data_Design-of-Zookeeper-image26.jpg)
 
-![image](../../../media/Big-Data_Design-of-Zookeeper-image27.jpg)
+![image](../../media/Big-Data_Design-of-Zookeeper-image27.jpg)
 
 ## Multi Update
 
@@ -258,7 +258,7 @@ Phase 1: Leader election (Paxos Algorithm)
 - Possible to implement transactions
 - Others never observe any inconsistent state
 
-![image](../../../media/Big-Data_Design-of-Zookeeper-image28.jpg)
+![image](../../media/Big-Data_Design-of-Zookeeper-image28.jpg)
 
 ## Watches
 
@@ -266,7 +266,7 @@ Phase 1: Leader election (Paxos Algorithm)
 - Watchers are triggered only once
 - For multiple notifications, re-register
 
-![image](../../../media/Big-Data_Design-of-Zookeeper-image29.jpg)
+![image](../../media/Big-Data_Design-of-Zookeeper-image29.jpg)
 
 ## ACLs - Access Control Lists
 
@@ -298,7 +298,7 @@ Only single process may hold the lock
 
 2. Extermely strong consistency
 
-![image](../../../media/Big-Data_Design-of-Zookeeper-image30.jpg)
+![image](../../media/Big-Data_Design-of-Zookeeper-image30.jpg)
 
 ## Katta - Lucene & more in the cloud
 
@@ -317,14 +317,14 @@ Katta serves large, replicated, indices as shards to serve high loads and very l
 
 http://katta.sourceforge.net
 
-![image](../../../media/Big-Data_Design-of-Zookeeper-image31.jpg)
+![image](../../media/Big-Data_Design-of-Zookeeper-image31.jpg)
 
-![image](../../../media/Big-Data_Design-of-Zookeeper-image32.jpg)
+![image](../../media/Big-Data_Design-of-Zookeeper-image32.jpg)
 
-![image](../../../media/Big-Data_Design-of-Zookeeper-image33.jpg)
+![image](../../media/Big-Data_Design-of-Zookeeper-image33.jpg)
 
-![image](../../../media/Big-Data_Design-of-Zookeeper-image34.jpg)
+![image](../../media/Big-Data_Design-of-Zookeeper-image34.jpg)
 
-![image](../../../media/Big-Data_Design-of-Zookeeper-image35.jpg)
+![image](../../media/Big-Data_Design-of-Zookeeper-image35.jpg)
 
-![image](../../../media/Big-Data_Design-of-Zookeeper-image36.jpg)
+![image](../../media/Big-Data_Design-of-Zookeeper-image36.jpg)
