@@ -7,6 +7,4 @@
 - [Recommender System](recommender-system)
 - [Topics](topics)
 - [Statistics](statistics)
-- [Data Visualization](data-visualization/readme.md)
-- [Tableau](ai/data-science/tableau/readme.md)
 - [Questions](ai/data-science/questions.md)
