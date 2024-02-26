@@ -43,15 +43,15 @@ plt.ylabel("# of tweets")
 plt.show()
 ```
 
-![image](../../../media/Data-Visualization_Matplotlib-image1.jpg)
+![image](../../media/Data-Visualization_Matplotlib-image1.jpg)
 
-![image](../../../media/Data-Visualization_Matplotlib-image2.jpg)
+![image](../../media/Data-Visualization_Matplotlib-image2.jpg)
 
-![image](../../../media/Data-Visualization_Matplotlib-image3.jpg)
+![image](../../media/Data-Visualization_Matplotlib-image3.jpg)
 
-![image](../../../media/Data-Visualization_Matplotlib-image4.jpg)
+![image](../../media/Data-Visualization_Matplotlib-image4.jpg)
 
-![image](../../../media/Data-Visualization_Matplotlib-image5.jpg)
+![image](../../media/Data-Visualization_Matplotlib-image5.jpg)
 
 ## Others
 

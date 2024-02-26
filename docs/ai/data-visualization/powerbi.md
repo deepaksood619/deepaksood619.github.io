@@ -132,7 +132,7 @@ https://docs.microsoft.com/en-us/power-bi/connect-data/incremental-refresh-overv
 
 4. Future proof
 
-![image](../../../media/Data-Visualization_PowerBI-image1.jpg)
+![image](../../media/Data-Visualization_PowerBI-image1.jpg)
 
 https://docs.microsoft.com/en-us/power-bi/transform-model/desktop-aggregations
 

@@ -34,7 +34,7 @@ Overall, both Power BI and Google data studio are similar when it comes to data 
 
 7. Sisense - https://www.sisense.com
 
-![image](../../../media/Data-Visualization_BI-Tools-image1.jpg)
+![image](../../media/Data-Visualization_BI-Tools-image1.jpg)
 
 https://medium.com/activewizards-machine-learning-company/a-comparative-analysis-of-top-6-bi-and-data-visualization-tools-in-2018-658490665973
 
