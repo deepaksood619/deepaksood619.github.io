@@ -18,6 +18,8 @@
 - [Courses](courses/readme.md)
 - [Others / Resources / Interview](ai/others-resources-interview.md)
 - [Hackathons](ai/hackathons.md)
+- [Solutions](ai/solutions.md)
+   	- [Social Media Analytics Solution](ai/social-media-analytics-solution.md)
 
 ## AGI (Artificial General Intelligence)
 

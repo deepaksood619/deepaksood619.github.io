@@ -183,3 +183,5 @@ https://system.com
 [The Art of Logic](../book-summaries/the-art-of-logic)
 
 [How to articulate your thoughts effectively (like Steve Jobs) - YouTube](https://www.youtube.com/watch?v=PkPfdR80u_8)
+
+[LEVELS (Basic Version) - YouTube](https://www.youtube.com/watch?v=kse87ocS0Uo&ab_channel=hoe_math)

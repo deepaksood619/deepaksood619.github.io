@@ -148,12 +148,9 @@ REGULATIONS
 
 [Indian Institute of Banking & Finance (IIBF)](https://www.iibf.org.in/)
 
-## Data Governance
-
-![Data Governance](../../../media/Pasted%20image%2020240213122425.png)
-
 ## Others
 
+- [Data Governance](ai/data-science/data-governance.md)
 - CISA Certification - Certified Information Systems Auditor
 - CISO - Chief Information Security Officer
 - CMMI Level 3 - An appraisal at maturity level 3 **indicates an organization is performing at a “defined” level**. At this level, processes are well characterized and understood and are described in standards, procedures, tools, and methods.

@@ -22,5 +22,5 @@ By Donella H. Meadows
     - By changing **buffers**, **system design** and **delays**, we can produce more effective systems
 - Systems can be made even more efficient by adjusting their internal mechanisms and rules
 - Paying attention to the inner workings of systems will help you better understand the world
-- **Emergence:** Emergence is a simple but powerful concept. It means that when things come together, somethingnew and unexpectedhappens. And this new thing isn't present in the individual elements. It's biological as much as social. A caterpillar becomes a butterfly.
+- **Emergence:** Emergence is a simple but powerful concept. It means that when things come together, something new and unexpected happens. And this new thing isn't present in the individual elements. It's biological as much as social. A caterpillar becomes a butterfly.
 - Actionable advice - Always expect a positive outcome, not a negative one.
