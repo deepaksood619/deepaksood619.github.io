@@ -1,6 +1,8 @@
 # Pulses / Daal / Lentils
 
-## Masoor daal
+[How To identify Indian Dals | Basic Cooking Skills For Beginners | Easy Guide To Lentils & Pulses - YouTube](https://www.youtube.com/watch?v=RUmFIvs2RRA&ab_channel=RajshriFood)
+
+## Masoor daal / Red lentils
 
 ![image](../../../media/Nutrition_Pulses-Daal-Lentils-image1.jpg)
 
@@ -17,6 +19,8 @@ Saabutmasoor, means whole and the brownish skin is left on in this type of masoo
 It can be used in all the same dishes as masoor daal (split and skin removed). Saabut masoor takes slightly longer to cook than masoor daal.
 
 ## Saabut moong daal
+
+- soak for 5 hours
 
 ![image](../../../media/Nutrition_Pulses-Daal-Lentils-image3.jpg)
 
@@ -59,13 +63,13 @@ Moong does not need soaking prior to being cooked as it is a "soft" daal.
 - Uses - Green moong dal is used to make sprouts, dal khichdi, dosa, dhoklas, and curries. Yellow moong dal can be used to make dal khichdi, pakodas, curries, chilas, and toast.
 - Versatility - Yellow moong dal has a milder flavor and is more versatile than green moong dal. It can be used in a wider range of dishes, including sweet dishes and desserts.
 
-## Toor/Tuvar or Arhar daal
+## Toor/Tuvar or Arhar daal or pigeon peas
 
 ![image](../../../media/Nutrition_Pulses-Daal-Lentils-image5.jpg)
 
 Toor/tuvarorarhardaal, is most commonly sold and cooked in its split, skinless form. With its skin on, it is a greenish-brown color and without its skin, yellow.
 
-Toor daal looks a lot likechana daalbut has smaller, more yellow-colored grains. It is especially popular in thewest and south India. It cooks quickly and does not require soaking in advance.
+Toor daal looks a lot like chana daal but has smaller, more yellow-colored grains. It is especially popular in the west and south India. It cooks quickly and does not require soaking in advance.
 
 ## Sabut urad
 
@@ -87,6 +91,16 @@ Urad daal, has had its black skin removed. It is creamy white in color and has a
 
 Skinless Urad does not need soaking before it is cooked. It is often ground into flour or a paste and used as part of batters.
 
+## Moth Dal (Matki Dal / Turkish Gram)
+
+- Soak for 5 hours
+
+![moth dal](media/Pasted%20image%2020240227082926.png)
+
+## Kulthi Dal (Horse Gram)
+
+![kulthi dal](../../../media/Pasted%20image%2020240227083043.png)
+
 ## Kabuli chana
 
 ![image](../../../media/Nutrition_Pulses-Daal-Lentils-image9.jpg)
@@ -95,7 +109,7 @@ Also known aschole, garbanzo beans, Egyptian peas and white chickpeas, kabulicha
 
 Kabuli chana is especially popular in North India. It must be soaked for several hours before cooking as it is a "very hard" bean. You can also use canned kabuli chana which is easily available in supermarkets these days but nothing beats the taste of kabuli chana freshly soaked and boiled just before cooking.
 
-## Lobia or chawli
+## Lobia or chawli (Black eyed pea / Cowpea)
 
 ![image](../../../media/Nutrition_Pulses-Daal-Lentils-image10.jpg)
 
@@ -117,17 +131,19 @@ Red kidney beans contain relatively high amounts of [phytohemagglutinin](https:
 
 [Kidney bean - Wikipedia](https://en.m.wikipedia.org/wiki/Kidney_bean#Toxicity)
 
-## Chickpeas - Kala chana / Black chickpeas / / Bengal gram / Desi chana
+## Chickpeas - Kala chana / Black chickpeas / Bengal gram / Desi chana
 
 ![image](../../../media/Nutrition_Pulses-Daal-Lentils-image12.jpg)
 
 ### Types
 
-- **Black chickpeas (Bengal gram) / garbanzo beans:**These chickpeas come from India where they are sun-dried until they turn a deep rust color. Like regular chickpeas, they have a deep, earthy aroma and a nutty flavor. Black chickpeas can be found in Indian markets and specialty food shops.
+- **Black chickpeas (Bengal gram) / garbanzo beans:** These chickpeas come from India where they are sun-dried until they turn a deep rust color. Like regular chickpeas, they have a deep, earthy aroma and a nutty flavor. Black chickpeas can be found in Indian markets and specialty food shops.
 
 ![image](../../../media/Nutrition_Pulses-Daal-Lentils-image13.jpg)
 
-- **Chana dal:**These small split desi chickpeas are sold in Indian stores and look very much like yellow split peas. Chana dal have a sweet, nutty taste. In India, chana dal are used to make chickpea flour, while in the United States, the larger kabuli chick-peas are used for flour. Chana dal can be found in Indian stores and some specialty food shops.
+### Chana dal
+
+These small split desi chickpeas are sold in Indian stores and look very much like yellow split peas. Chana dal have a sweet, nutty taste. In India, chana dal are used to make chickpea flour, while in the United States, the larger kabuli chick-peas are used for flour. Chana dal can be found in Indian stores and some specialty food shops.
 
 Chana daal, looks like a larger version of toor/tuvar or arhar daal. It is made by splitting a smaller cousin of the chickpea.
 

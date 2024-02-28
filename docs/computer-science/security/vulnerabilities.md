@@ -157,7 +157,8 @@ The threats are:
 
 - [Spoofing](https://en.wikipedia.org/wiki/Spoofing_attack)
 - [Tampering](https://en.wikipedia.org/wiki/Tampering_(crime))
-- [Repudiation](https://en.wikipedia.org/wiki/Non-repudiation)
+- [Non-Repudiation](https://en.wikipedia.org/wiki/Non-repudiation)
+   	- Non-repudiation means **a user cannot deny (repudiate) having performed a transaction**. It combines authentication and integrity: non-repudiation authenticates the identity of a user who performs a transaction, and ensures the integrity of that transaction.
 - Information disclosure ([privacy breach](https://en.wikipedia.org/wiki/Data_privacy) or [data leak](https://en.wikipedia.org/wiki/Data_leak))
 - [Denial of service](https://en.wikipedia.org/wiki/Denial-of-service_attack)
 - [Elevation of privilege](https://en.wikipedia.org/wiki/Privilege_escalation)

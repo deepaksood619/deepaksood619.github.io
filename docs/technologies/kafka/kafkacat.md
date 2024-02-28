@@ -21,6 +21,8 @@ kafkacat is fast and lightweight; statically linked it is no more than 150Kb.
 ```bash
 brew install kafkacat
 apt-get install kafkacat
+
+# use kcat command instead of kafkacat
 ```
 
 ## Commands

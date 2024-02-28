@@ -2,6 +2,13 @@
 
 [Azure Portal "How To" Series](https://www.youtube.com/playlist?list=PLLasX02E8BPBKgXP4oflOL29TtqTzwhxR)
 
+[social-media-analytics-solution](ai/social-media-analytics-solution.md)
+
+## Tools
+
+- Azure Data Factory (ADF) - [Azure Data Factory - Data Integration Service | Microsoft Azure](https://azure.microsoft.com/en-in/products/data-factory/)
+- Azure Databricks (ADB)
+
 ## Commands
 
 ```bash

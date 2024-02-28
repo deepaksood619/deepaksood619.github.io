@@ -85,10 +85,6 @@ Data handling - querying, slicing, joining
 
 https://brohrer.github.io/data_science_archetypes.html
 
-## Interview Questions
-
-https://www.toptal.com/data-science#hiring-guide
-
 ## Questions for any new data science project
 
 1. What is the question you are trying to answer?
@@ -115,53 +111,15 @@ https://www.toptal.com/data-science#hiring-guide
 8. Numba (Code Optimization - convert to LLVM)
 9. Cython (Code Optimization - compiles to C)
 
-## Data Governance
-
-Data governance (DG) is the process of managing the availability, usability, integrity and security of the [data](https://searchdatamanagement.techtarget.com/definition/data) in enterprise systems, based on internal data standards and policies that also control data usage. Effective data governance ensures that data is consistent and trustworthy and doesn't get misused. It's increasingly critical as organizations face new data privacy regulations and rely more and more on data analytics to help optimize operations and drive business decision-making.
-
-Ethical Principles around Data
-
-1. Autonomy
-
-    The right to control your data, possibly via surrogates
-
-2. Informed consent
-
-    You should explicitly appove use of your data based on understanding
-
-3. Beneficence
-
-    People using your data should do it for your benefit
-
-4. Non-maleficence
-
-    Do no harm
-
-## ODPi
-
-ODPi creates open source standards to help you use and understand data across all platforms.
-
-https://www.odpi.org
-
-https://searchdatamanagement.techtarget.com/definition/data-governance
-
-https://en.wikipedia.org/wiki/Data_governance
-
-https://www.oreilly.com/content/data-governance-and-the-death-of-schema-on-read
-
 ## Topic Models
 
 The grouping of relevant words is highly suggestive of an abstract theme which is called a topic. Based on the assumption that words that are in the same topic are more likely to occur together, it is possible to attribute phrases or keywords to a particular topic. This allows us to alias a particular topic with a number of phrases and words.
 
 - A topic example - tobacco, farm, crops
 - Steps to perform topic modeling
-
     - Remove stop words
-
     - Stripping punctuation
-
     - Bigram collocation detection
-
     - Lemmatization
 - Topic dendrograms (for hierarical clustering)
 - Topic graphs

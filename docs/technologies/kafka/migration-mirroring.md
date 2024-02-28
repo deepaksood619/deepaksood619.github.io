@@ -76,6 +76,10 @@ To achieve the above transition, there are two important steps: (1) consumer off
 - [Use Confluent for Kubernetes to configure Kafka Replicator | Confluent Documentation](https://docs.confluent.io/operator/current/co-configure-replicator.html)
 - [Replicator Overview | Confluent Documentation](https://docs.confluent.io/platform/current/multi-dc-deployments/replicator/index.html)
 - [MirrorMaker 2: Replicate Data Between Multicloud Kafka Clusters | Hybrid and Multicloud Architecture - YouTube](https://www.youtube.com/watch?v=epfif3Vnd0s)
+- [Migrating Kafka with Mirror Maker 2 and Kafka Connect: A Step-by-Step Guide | by Mayank Patel | Medium](https://medium.com/@maxy_ermayank/migrating-kafka-with-mirror-maker-2-and-kafka-connect-a-step-by-step-guide-c43e1b91555a)
+- [KIP-545: support automated consumer offset sync across clusters in MM 2.0 - Apache Kafka - Apache Software Foundation](https://cwiki.apache.org/confluence/display/KAFKA/KIP-545%3A+support+automated+consumer+offset+sync+across+clusters+in+MM+2.0)
+- [Disaster Recovery with MirrorMaker 2.0 - Confluent](https://www.confluent.io/kafka-summit-lon19/disaster-recovery-with-mirrormaker-2-0/)
+- [How to setup MirrorMaker 2.0 on Apache Kafka multi-cluster environment | by Mauro Roiter | LARUS | Medium](https://medium.com/larus-team/how-to-setup-mirrormaker-2-0-on-apache-kafka-multi-cluster-environment-87712d7997a4)
 
 ## Confluent Replicator vs MirrorMaker 2.0
 

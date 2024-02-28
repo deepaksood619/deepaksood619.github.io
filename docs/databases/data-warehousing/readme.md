@@ -14,6 +14,7 @@
 - [ETL (Extract Transform Load)](databases/data-warehousing/etl-extract-transform-load.md)
 - [Change Data Capture (CDC)](databases/data-warehousing/change-data-capture-cdc.md)
 - [Debezium](databases/data-warehousing/debezium.md)
+- [Data Engineering](databases/data-warehousing/data-engineering.md)
 - [Tools](databases/data-warehousing/tools.md)
 
 ### Others
