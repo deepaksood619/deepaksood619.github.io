@@ -40,37 +40,6 @@ DebugView enables you to see the raw event data logged by your app on developmen
 
 https://firebase.google.com/docs/analytics/debugview
 
-## FCM
-
-Firebase Cloud Messaging (FCM) is a cross-platform messaging solution that lets you reliably send messages at no cost.
-
-### Notifications to web
-
-[https://www.itwonders-web.com/blog/push-notification-using-firebase-demo-tutorial/](https://www.itwonders-web.com/blog/push-notification-using-firebase-demo-tutorial/)
-
-## Message delivery reports
-
-You can evaluate whether the messages you send reach your users. In the [Reports](https://console.firebase.google.com/project/_/notification/reporting?authuser=1) tab in the Firebase console, you can view the following data for messages sent to Android or iOS FCM SDKs, including those sent via the Notifications composer and the FCM APIs:
-
-- **Sends -** The data message or notification message has been enqueued for delivery or has been successfully passed to a third-party service like APNs for delivery. See [lifetime of a message](https://firebase.google.com/docs/cloud-messaging/concept-options?authuser=1#lifetime) for more information.
-- **Received (available only on Android devices) -** The data message or notification message has been received by the app. This data is available when the receiving Android device has FCM SDK 18.0.1 or higher installed.
-- **Impressions (available only for notification messages on Android devices) -** The display notification has been displayed on the device while the app is in the background.
-- **Opens -** The user opened the notification message. Reported only for notifications received when the app is in the background.
-
-## Notification funnel analysis
-
-A built-in Notifications funnel analysis shows you how your users respond to particular notifications sent from the Firebase console. This view includes data for targeted iOS and Android devices in these categories:
-
-- **Notifications sent -** The message has been enqueued for delivery or has been successfully passed to a third-party service like APNs for delivery. Note that targeting stale tokens or inactive registrations may inflate these statistics.
-- **Notifications opened -** The number of notifications opened. Reported only for notifications received when the app is in the background.
-- The **number of unique users** who have triggered a conversion event, if one is defined.
-
-https://firebase.google.com/docs/cloud-messaging/understand-delivery
-
-https://firebase.google.com/docs/cloud-messaging
-
-https://firebase.googleblog.com/2019/02/life-of-a-message.html
-
 ## Test Lab
 
 Firebase Test Lab is a cloud-based app-testing infrastructure. With one operation, you can test your Android or iOS app across a wide variety of devices and device configurations, and see the results - including logs, videos, and screenshots - in the Firebase console.
