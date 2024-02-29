@@ -135,6 +135,16 @@ Auto ads use Google's smart technology to:
 
 Ex for adsense - https://deepaksood619.github.io/ads.txt
 
+## Mulesoft
+
+MuleSoft is a platform that gives IT the tools to automate everything. This includes integrating data and systems, automating workflows and processes, and creating incredible digital experiences — all on a single, easy-to-use platform. With our unique approach, IT creates the digital building blocks that teams can use as they need, all with the right security, governance, and compliance measures built in.
+
+[MuleSoft - Wikipedia](https://en.wikipedia.org/wiki/MuleSoft)
+
+[MuleSoft | Automate anything. Empower everyone.](https://www.mulesoft.com/)
+
+[What Is MuleSoft? What Does MuleSoft Do? | Salesforce](https://www.salesforce.com/blog/what-is-mulesoft/)
+
 ## Payments
 
 - [Shopflo · A checkout that converts](https://shopflo.com/)

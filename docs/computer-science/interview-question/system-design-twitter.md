@@ -65,3 +65,23 @@ Problem with this structure is that to get a tweet corresponding to user, if wou
 https://www.labnol.org/twitter-bots-tutorial-4796
 
 https://www.labnol.org/twitter-search-examples-203
+
+[Search Tweets introduction | Docs | Twitter Developer Platform](https://developer.twitter.com/en/docs/twitter-api/tweets/search/introduction)
+
+[Twitter API | Products | Twitter Developer Platform](https://developer.twitter.com/en/products/twitter-api)
+
+- Minimum Basic - $100/month
+   	- Retrieve up to 10K Posts per month
+   	- 60 requests / 15 minsPER USER
+   	- 60 requests / 15 minsPER APP
+   	- X API v2
+   	- GET /2/tweets/search/recent
+- Pro - $5000/month
+   	- Retrieve up to 1M Posts per month
+   	- 300 requests / 15 minsPER USER
+   	- 450 requests / 15 minsPER APP
+   	- GET /2/tweets/search/recent
+   	- FULL-ARCHIVE SEARCH available - GET /2/tweets/search/all
+- [Search Tweets introduction | Docs | Twitter Developer Platform](https://developer.twitter.com/en/docs/twitter-api/tweets/search/introduction)
+
+[GitHub - twitterdev/search-tweets-python at v2](https://github.com/twitterdev/search-tweets-python/tree/v2)

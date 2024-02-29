@@ -11,7 +11,7 @@
 - [Firebase](firebase/readme.md)
     - [Firebase Analytics](firebase/firebase-analytics)
     - [Automatic Collection Events](firebase/automatic-collected-events)
-    - [Notifications](firebase/notifications)
+    - [Notifications](cloud/others/firebase/fcm-notifications.md)
     - [Web Push Notifications](cloud/others/firebase/web-push-notifications.md)
 - [Openstack](openstack)
 - [VMware](cloud/others/vmware.md)

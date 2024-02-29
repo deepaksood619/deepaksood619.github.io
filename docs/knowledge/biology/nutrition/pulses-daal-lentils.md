@@ -95,7 +95,7 @@ Skinless Urad does not need soaking before it is cooked. It is often ground into
 
 - Soak for 5 hours
 
-![moth dal](media/Pasted%20image%2020240227082926.png)
+![moth dal](../../../media/Pasted%20image%2020240227082926.png)
 
 ## Kulthi Dal (Horse Gram)
 
