@@ -139,11 +139,25 @@ Ex for adsense - https://deepaksood619.github.io/ads.txt
 
 MuleSoft is a platform that gives IT the tools to automate everything. This includes integrating data and systems, automating workflows and processes, and creating incredible digital experiences — all on a single, easy-to-use platform. With our unique approach, IT creates the digital building blocks that teams can use as they need, all with the right security, governance, and compliance measures built in.
 
-[MuleSoft - Wikipedia](https://en.wikipedia.org/wiki/MuleSoft)
+### Products
 
-[MuleSoft | Automate anything. Empower everyone.](https://www.mulesoft.com/)
+- Anypoint Platform
+   	- Code Builder
+   	- Design Center (design APIs)
+   	- Exchange
+   	- DataGraph
+- Anypoint Studio
+- Composer
+- Mulesoft RPA
+- DataWeave
 
-[What Is MuleSoft? What Does MuleSoft Do? | Salesforce](https://www.salesforce.com/blog/what-is-mulesoft/)
+### Links
+
+- [MuleSoft - Wikipedia](https://en.wikipedia.org/wiki/MuleSoft)
+- [MuleSoft | Automate anything. Empower everyone.](https://www.mulesoft.com/)
+- [What Is MuleSoft? What Does MuleSoft Do? | Salesforce](https://www.salesforce.com/blog/what-is-mulesoft/)
+- [What is MuleSoft? | Introduction to MuleSoft | 5 min Salesforce - YouTube](https://www.youtube.com/watch?v=0e3uvFkybrA)
+- **[Session 1: MuleSoft Overview | MuleSoft from Start: A Beginner's Guide - YouTube](https://www.youtube.com/watch?v=I6BWPoD639A)**
 
 ## Payments
 

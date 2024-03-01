@@ -10,7 +10,7 @@
 - HAProxy
 - Envoy (winner in benchmark)
 - Traefic
-- ALB (AWS elastic Load Balancer)
+- ALB/NLB/GLB (AWS Elastic Load Balancer)
 - Kong
 
 ## HAProxy

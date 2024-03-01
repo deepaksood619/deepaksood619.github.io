@@ -21,3 +21,7 @@
 8. As an alternative to steps 5 through 7, the enriched data is used to train a custom machine learning model in Azure Machine Learning.
 9. The model is deployed to a Machine Learning endpoint.
 10. A managed online endpoint is used for online, real-time inferencing, for instance, on a mobile app (**A**). Alternatively, a batch endpoint is used for offline model inferencing (**B**).
+
+[Azure-Social-Media-Analytics-Solution-Accelerator/Deployment/Deployment.md at main · microsoft/Azure-Social-Media-Analytics-Solution-Accelerator · GitHub](https://github.com/microsoft/Azure-Social-Media-Analytics-Solution-Accelerator/blob/main/Deployment/Deployment.md)
+
+[GitHub - microsoft/Azure-Social-Media-Analytics-Solution-Accelerator](https://github.com/microsoft/Azure-Social-Media-Analytics-Solution-Accelerator)

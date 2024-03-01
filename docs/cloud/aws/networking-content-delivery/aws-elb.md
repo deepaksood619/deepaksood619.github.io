@@ -77,3 +77,9 @@ The status code of the response from the load balancer.
 The status code of the response from the target. This value is recorded only if a connection was established to the target and the target sent a response. Otherwise, it is set to -.
 
 https://docs.aws.amazon.com/elasticloadbalancing/latest/application/load-balancer-access-logs.html
+
+## Links
+
+[Intermittent HTTP 502 error with Amazon (AWS) load balancher and Apache - Server Fault](https://serverfault.com/questions/1031647/intermittent-http-502-error-with-amazon-aws-load-balancher-and-apache)
+
+- Ensure you're not using Apache's event MPM module (default) when behind a ALB/ELB. It dynamically closes connections. Try worker MPM.

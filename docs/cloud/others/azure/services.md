@@ -48,7 +48,6 @@ Gather, store, process, analyse and visualise data of any variety, volume or vel
 
 - [Azure Databricks](https://azure.microsoft.com/en-in/services/databricks/) - Fast, easy and collaborative Apache Spark-based analytics platform
 - [Azure Stream Analytics](https://azure.microsoft.com/en-in/services/stream-analytics/) - Real-time data stream processing from millions of IoT devices
-- [Azure Synapse Analytics](https://azure.microsoft.com/en-in/services/synapse-analytics/) - Limitless analytics service with unmatched time to insight (formerly SQL Data Warehouse)
 - [HDInsight](https://azure.microsoft.com/en-in/services/hdinsight/) - Provision cloud Hadoop, Spark, R Server, HBase, and Storm clusters
 - [Data Factory](https://azure.microsoft.com/en-in/services/data-factory/) - Hybrid data integration at enterprise scale, made easy
 - [Data Lake Analytics](https://azure.microsoft.com/en-in/services/data-lake-analytics/) - Distributed analytics service which makes big data easy
@@ -60,6 +59,12 @@ Gather, store, process, analyse and visualise data of any variety, volume or vel
 - [Azure Data Lake Storage](https://azure.microsoft.com/en-in/services/storage/data-lake-storage/) - Massively scalable, secure data lake functionality built on Azure Blob Storage
 - [Azure Data Explorer](https://azure.microsoft.com/en-in/services/data-explorer/) - Fast and highly scalable data exploration service
 - [Azure Data Share](https://azure.microsoft.com/en-in/services/data-share/) - A simple and safe service for sharing big data with external organizations
+
+### [Azure Synapse Analytics](https://azure.microsoft.com/en-in/services/synapse-analytics/)
+
+Limitless analytics service with unmatched time to insight (formerly SQL Data Warehouse)
+
+[Azure Synapse SQL: Exploring Pool Options](https://k21academy.com/microsoft-azure/data-engineer/azure-sql-vs-dedicated-sql-vs-serverless-sql-vs-apache-spark/)
 
 ## Blockchain
 

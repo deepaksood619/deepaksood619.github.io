@@ -52,7 +52,7 @@ When we develop data products like reports or data feeds, we need to design a pr
 
 ![managing sensitive data](../../media/Pasted%20image%2020240228190110.png)
 
-![Data Governance](../../../media/Pasted%20image%2020240213122425.png)
+![Data Governance](../../media/Pasted%20image%2020240213122425.png)
 
 ## Links
 

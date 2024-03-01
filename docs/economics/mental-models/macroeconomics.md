@@ -169,5 +169,6 @@ The **impossible trinity** (also known as **the impossible [trilemma](https://en
 - [Person of the Year 2023 by Navneet Munot](https://www.hdfcfund.com/insights/md-ceo-desk/person-year-2023)
 - [Something Terrible Is Happening in France | Economics Explained - YouTube](https://www.youtube.com/watch?v=oUVrVEviaHo)
 - [2024: A Pivotal Year on the Brink | Ray Dalio | LinkedIn](https://www.linkedin.com/pulse/2024-pivotal-year-brink-ray-dalio-fwgie/)
+- [Are We in a Stock Market Bubble?](https://www.linkedin.com/pulse/we-stock-market-bubble-ray-dalio-zpdre/)
 
 ## End
