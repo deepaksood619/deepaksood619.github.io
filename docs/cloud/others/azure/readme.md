@@ -115,11 +115,11 @@ Azure Container Instances (ACI) provide a hosted environment for running contain
 
 ## AKS Virtual Kubelet
 
-## Create
+### Create
 
 `az aks install-connector --resource-group Technology --name dev-kubernetes-cluster --connector-name virtual-kubelet --os-type Linux`
 
-## Delete
+### Delete
 
 `az aks remove-connector --resource-group Technology --name dev-kubernetes-cluster --connector-name virtual-kubelet --os-type Linux`
 

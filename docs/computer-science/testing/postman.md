@@ -10,6 +10,8 @@
 - [http://slowwly.robertomurray.co.uk/delay/3000/url/http://www.google.co.uk](http://slowwly.robertomurray.co.uk/delay/3000/url/http:/www.google.co.uk)
 - [**https://fakestoreapi.com/**](https://fakestoreapi.com/)
 - https://anapioficeandfire.com
+- [News API – Search News and Blog Articles on the Web](https://newsapi.org/)
+- Twitter Developer APIs
 
 ## Local Infra Mock
 

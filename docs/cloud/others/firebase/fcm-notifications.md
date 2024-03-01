@@ -39,7 +39,7 @@ When the client app starts for the first time, the client app sends credentials 
 
 ### Step 3
 
-The client app sends the Registration Token to the app server. The app server caches the token for subsequent communications. Over time, the app server has too many tokens to maintain, so the recommended practice is to store the token with timestamps and to remove stale tokens from time to time. 
+The client app sends the Registration Token to the app server. The app server caches the token for subsequent communications. Over time, the app server has too many tokens to maintain, so the recommended practice is to store the token with timestamps and to remove stale tokens from time to time.
 
 ### Step 4
 
@@ -47,7 +47,7 @@ There are two ways to send messages. One is to compose messages directly in the 
 
 ### Step 5
 
-FCM receives the messages, and queues the messages in the storage if the devices are not online. 
+FCM receives the messages, and queues the messages in the storage if the devices are not online.
 
 ### Step 6
 

@@ -17,7 +17,7 @@
 - [kafka-python](kafka-python)
 - [confluent-kafka](confluent-kafka)
 - [kafkacat](kafkacat)
-- [Migration / Mirroring](technologies/kafka/migration-mirroring.md)
+- [Migration / Mirroring](technologies/kafka/migration-mirroring-replication.md)
 - [Security](technologies/kafka/security.md)
 - [Others](technologies/kafka/others.md)
 - [Strmizi](strimzi)

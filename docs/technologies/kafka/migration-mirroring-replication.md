@@ -1,4 +1,4 @@
-# Migration / Mirroring
+# Migration / Mirroring / Replication
 
 ## Cross-Cluster Data Mirroring
 
@@ -70,6 +70,7 @@ To achieve the above transition, there are two important steps: (1) consumer off
 
 ### Links
 
+- [Apache Kafka Mirrormaker Configs Documentation](https://kafka.apache.org/documentation/#mirrormakerconfigs)
 - [Kafka Replication: The case for MirrorMaker 2.0 - Cloudera Blog](https://blog.cloudera.com/kafka-replication-the-case-for-mirrormaker-2-0/)
 - [A look inside Kafka Mirrormaker 2 - Cloudera Blog](https://blog.cloudera.com/a-look-inside-kafka-mirrormaker-2/)
 - [Kafka migration from on-prem to Confluent | by SADA | The SADA Engineering Blog](https://engineering.sada.com/kafka-migration-from-on-prem-to-confluent-1bd03c3689f3)
