@@ -149,3 +149,7 @@ https://www.youtube.com/watch?v=R2FT5edyKOg
 - https://thenewstack.io/primer-understanding-software-and-system-architecture
 - https://www.freecodecamp.org/news/systems-design-for-interviews
 - [Cloud Architecture Guidance and Topologies &nbsp;|&nbsp; Cloud Architecture Center | Google Cloud](https://cloud.google.com/architecture)
+
+## Exponential Backoff
+
+[Exponential Backoff And Jitter | AWS Architecture Blog](https://aws.amazon.com/blogs/architecture/exponential-backoff-and-jitter/)

@@ -203,3 +203,5 @@ https://github.com/gin-gonic/gin
 ## Links
 
 [Why most TCP servers are multi threaded and how to build one from scratch - YouTube](https://www.youtube.com/watch?v=f9gUFy-9uCM&ab_channel=AsliEngineeringbyArpitBhayani)
+
+[Cloudflare Open sources Pingora (NGINX replacement) - YouTube](https://www.youtube.com/watch?v=WpMwuo13-7w&ab_channel=HusseinNasser)

@@ -140,3 +140,5 @@ docker exec -it ollama ollama run mistral
 - [GitHub - openai/openai-cookbook: Examples and guides for using the OpenAI API](https://github.com/openai/openai-cookbook)
 - [Vector Embeddings Tutorial – Create an AI Assistant with GPT-4 & Natural Language Processing - YouTube](https://www.youtube.com/watch?v=yfHHvmaMkcA)
 - [This new AI is powerful and uncensored… Let’s run it - YouTube](https://www.youtube.com/watch?v=GyllRd2E6fg&ab_channel=Fireship)
+- [Learn Generative AI in 30 Hours](https://www.freecodecamp.org/news/learn-generative-ai-in/)
+- [AI Watermarking 101: Tools and Techniques](https://huggingface.co/blog/watermarking)

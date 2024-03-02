@@ -220,6 +220,20 @@ The idea is to project yourself into the future and look back on your decision f
 
 https://alyjuma.medium.com/the-regret-minimization-framework-how-jeff-bezos-made-decisions-4d5a86deaf24
 
+## Time
+
+You should design your life in accordance with how time influences your decision making.
+
+There are five types of time:
+
+1. **Micro Time** (sub-second)
+2. **Engagement Time** (Seconds)
+3. **Business Time** (Minutes to Hours)
+4. **Strategy Time** (Days to Weeks)
+5. **Big-Thinking Time** (Months to Years)
+
+[Seconds to Strategy: How Your Relationship with Time Shapes Your Career](https://auren.substack.com/p/seconds-to-strategy-how-your-relationship)
+
 ## Links
 
 [15 DECISION MAKING TECHNIQUES to CHANGE 2023 for YOU! | Ankur Warikoo Hindi - YouTube](https://www.youtube.com/watch?v=jZXknO8lqN0)

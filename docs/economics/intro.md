@@ -125,6 +125,8 @@ Book - https://www.principles.com/big-debt-crises Free pdf
 - Corporate action planning
 - Investor relation
 
+![money capabilities](../media/Screenshot%202024-03-02%20at%207.21.17%20PM.jpg)
+
 ## Others
 
 https://finshots.in/archive/finshots-special-how-to-be-a-rational-investor

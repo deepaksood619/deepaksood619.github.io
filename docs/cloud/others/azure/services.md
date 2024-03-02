@@ -64,6 +64,20 @@ Gather, store, process, analyse and visualise data of any variety, volume or vel
 
 Limitless analytics service with unmatched time to insight (formerly SQL Data Warehouse)
 
+Azure Synapse Analytics is an analytics service that helps in data integration, data warehousing, and big data analytics. [Azure Synapse](https://k21academy.com/microsoft-azure/data-engineer/azure-synapse-analytics/) gives a unified experience to ingest, explore, prepare, manage, and serve data for immediate **BI** (Business Intelligence) and machine learning needs. It gives the freedom to query data using either serverless or dedicated resources.
+
+![Azure Synapse Analytics](../../../media/Pasted%20image%2020240301184327.png)
+
+#### Key Features Of Azure Synapse Analytics
+
+- Unified Analytics Platform
+- Enterprise Data Warehousing
+- [Data Lake Exploration](https://k21academy.com/microsoft-azure/data-engineer/azure-data-lake/)
+- Serverless and Dedicated Options
+- Code-Free Hybrid Data Integration
+- Integrated **AI** (Artificial Intelligence) and **BI** (Business Intelligence)
+- End-to-End Management and Monitoring
+
 [Azure Synapse SQL: Exploring Pool Options](https://k21academy.com/microsoft-azure/data-engineer/azure-sql-vs-dedicated-sql-vs-serverless-sql-vs-apache-spark/)
 
 ## Blockchain

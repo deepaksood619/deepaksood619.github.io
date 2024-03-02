@@ -31,6 +31,7 @@
 - [The Infographics Show - YouTube](https://www.youtube.com/@TheInfographicsShow)
 - [AlphaPhoenix - YouTube](https://www.youtube.com/@AlphaPhoenixChannel)
 - [Xprocess - YouTube](https://www.youtube.com/@Process-X/featured)
+- [Animagraffs - YouTube](https://www.youtube.com/@animagraffs)
 
 ### Video creation, 3D Animation and Youtubing Strategy
 

@@ -136,7 +136,7 @@ To send a transactional email, you can use theSendMessageoperation of the Amazon
 
 ## SMS
 
-## Character limits
+### Character limits
 
 A single SMS message can contain up to 140 bytes of information. The number of characters you can include in a single SMS message depends on the type of characters the message contains.
 
@@ -150,20 +150,19 @@ When a message contains more than the maximum number of characters, the message 
 
 ## Suppression List
 
-https://docs.aws.amazon.com/ses/latest/DeveloperGuide/sending-email-global-suppression-list.html
+- https://docs.aws.amazon.com/ses/latest/DeveloperGuide/sending-email-global-suppression-list.html
+- https://docs.aws.amazon.com/ses/latest/DeveloperGuide/sending-email-suppression-list.html
+- https://aws.amazon.com/solutions/implementations/predictive-user-engagement
+- https://aws.amazon.com/solutions/implementations/location-based-notifications-using-amazon-pinpoint
+- https://docs.aws.amazon.com/pinpoint/latest/developerguide/event-streams-data-sms.html
+- [**https://aws.amazon.com/solutions/implementations/digital-user-engagement-events-database/**](https://aws.amazon.com/solutions/implementations/digital-user-engagement-events-database/)
+- https://github.com/aws-samples/digital-user-engagement-reference-architecture
+- https://awsdue.tv
+- https://docs.aws.amazon.com/pinpoint/latest/userguide/channels-sms-limitations-characters.html#channels-sms-limitations-characters-gsm-alphabet
+- [An Overview of Bulk Sender Changes at Yahoo/Gmail | AWS Messaging & Targeting Blog](https://aws.amazon.com/blogs/messaging-and-targeting/an-overview-of-bulk-sender-changes-at-yahoo-gmail/)
 
-https://docs.aws.amazon.com/ses/latest/DeveloperGuide/sending-email-suppression-list.html
+### Commands
 
-https://aws.amazon.com/solutions/implementations/predictive-user-engagement
-
-https://aws.amazon.com/solutions/implementations/location-based-notifications-using-amazon-pinpoint
-
-https://docs.aws.amazon.com/pinpoint/latest/developerguide/event-streams-data-sms.html
-
-[**https://aws.amazon.com/solutions/implementations/digital-user-engagement-events-database/**](https://aws.amazon.com/solutions/implementations/digital-user-engagement-events-database/)
-
-https://github.com/aws-samples/digital-user-engagement-reference-architecture
-
-https://awsdue.tv
-
-https://docs.aws.amazon.com/pinpoint/latest/userguide/channels-sms-limitations-characters.html#channels-sms-limitations-characters-gsm-alphabet
+```bash
+aws sesv2 list-suppressed-destinations
+```

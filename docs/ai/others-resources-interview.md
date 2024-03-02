@@ -28,6 +28,7 @@
 - Mathematics (probability, statistics, calculus)
 - [Machine Learning & Neural Networks without Libraries – No Black Box Course - YouTube](https://www.youtube.com/watch?v=3wwiOSxDAmg)
 - [udlbook](https://udlbook.github.io/udlbook/)
+- [Deep Learning Fundamentals Handbook – What You Need to Know to Start Your Career in AI](https://www.freecodecamp.org/news/deep-learning-fundamentals-handbook-start-a-career-in-ai/)
 
 ## DS (Data Science) + DA (Data Analytics) + DE (Data Engineering)
 

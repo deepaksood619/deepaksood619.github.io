@@ -25,6 +25,7 @@ Moving from information to knowledge age
 
 - [Meet Bard](https://bard.google.com/)
 - https://openai.com/blog/chatgpt
+- [Sign in](https://chat.mistral.ai/)
 - [Godmode](https://godmode.space/)
 - [**OpenAI Platform**](https://platform.openai.com/)
     - [Embeddings - OpenAI API](https://platform.openai.com/docs/guides/embeddings/what-are-embeddings)

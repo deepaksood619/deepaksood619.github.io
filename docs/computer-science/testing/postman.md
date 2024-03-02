@@ -12,6 +12,8 @@
 - https://anapioficeandfire.com
 - [News API – Search News and Blog Articles on the Web](https://newsapi.org/)
 - Twitter Developer APIs
+- [Pushshift | Guide](https://api.pushshift.io/guide)
+   	- [GitHub - mattpodolak/pmaw: A multithread Pushshift.io API Wrapper for reddit.com comment and submission searches.](https://github.com/mattpodolak/pmaw)
 
 ## Local Infra Mock
 

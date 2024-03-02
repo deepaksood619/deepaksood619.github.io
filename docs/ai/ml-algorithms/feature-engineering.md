@@ -236,10 +236,14 @@ tf.transform allows users to define preprocessing pipelines and run these using 
 
 ![image](../../media/Feature-Engineering-image79.jpg)
 
-### Summary
+## Summary
 
 - Convert raw data into features
 - Preprocess data in such a way that the preprocessing is also done during serving
 - Choose among the various feature columns in TensorFlow
 - Memorize large datasets using feature crosses and simple models
 - Simplify preprocessing pipelines using TensorFlow Transform
+
+## Links
+
+[Feature Engineering A-Z | Preface](https://feaz-book.com/)

@@ -138,3 +138,8 @@ Why kicking out children after 18 years is important, let's say you are very wea
 - [Can You Teach a Baby Discipline?](https://www.whattoexpect.com/baby-behavior/teaching-discipline.aspx)
 - [How to Help Your Child Drink From an Open Cup](https://www.whattoexpect.com/toddler/use-cup/)
 - [Best Activities for a 10-Month-Old Baby](https://www.whattoexpect.com/first-year/play-and-activities/best-activities-10-month-old-baby)
+- [10-Month-Old Baby](https://www.whattoexpect.com/first-year/month-by-month/month-10.aspx)
+- [Your 10- to 12-Month-Old's Sleep Schedule](https://www.whattoexpect.com/first-year/sleep/10-month-old-sleep-schedule/)
+- [Why Is My Toddler Throwing Food on the Floor?](https://www.whattoexpect.com/toddler/behavior/food-throwing.aspx)
+- [10 month old, first week](https://www.babycentre.co.uk/s1001678/10-month-old-first-week)
+- [How to Drop From Two Naps to One](https://www.whattoexpect.com/first-year/ask-heidi/dropping-morning-nap.aspx)
