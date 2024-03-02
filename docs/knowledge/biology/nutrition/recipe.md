@@ -121,6 +121,13 @@
 
 [Khichdi Recipe | Simple & Healthy Khichdi | Masala Khichdi Recipe | Comfort Food | Chef Kunal Kapur - YouTube](https://www.youtube.com/watch?v=TvTMsUeC-z4&ab_channel=KunalKapur)
 
+### Oats
+
+Oats - 1.5 amount of water, cook for 5 mins
+ex - 1 glass oats, 1.5 glass water
+Half glass creates 3/4th glass of cooked oats
+For 3 people use 1 glass oats
+
 ## Theoretical
 
 [I FINALLY understand the Maillard reaction - YouTube](https://www.youtube.com/watch?v=5lKzZc_OO7U&ab_channel=MinuteFood)

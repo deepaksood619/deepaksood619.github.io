@@ -92,6 +92,11 @@ https://blueyonder.com
 - [PocketBase - Open Source backend in 1 file](https://pocketbase.io/)
 - [Build features, not apps. - Ply](https://ply.io/)
 
+### SAAS
+
+- [Automate your work today | Zapier](https://zapier.com/)
+- [IFTTT - Automate business & home](https://ifttt.com/)
+
 ### Apps
 
 - [**Appsmith** | Open-Source Internal Tool Builder](https://www.appsmith.com/) - Dunzo (30K stars) - [GitHub - appsmithorg/appsmith: Platform to build admin panels, internal tools, and dashboards. Integrates with 15+ databases and any API.](https://github.com/appsmithorg/appsmith)

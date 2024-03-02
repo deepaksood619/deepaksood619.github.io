@@ -40,3 +40,5 @@
 ### Others
 
 [AWS Financial Services Competency Partners](https://aws.amazon.com/financial-services/partner-solutions/)
+
+[Top Architecture Blog Posts of 2023 | AWS Architecture Blog](https://aws.amazon.com/blogs/architecture/top-architecture-blog-posts-of-2023/)

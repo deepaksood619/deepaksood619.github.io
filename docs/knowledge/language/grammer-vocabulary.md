@@ -182,3 +182,4 @@ https://myenglishmatters.com/2018/06/28/whats-the-difference-between-has-been-ha
 - polemicist - a person who engages in controversial debate
 - Anachronism - a thing belonging or appropriate to a period other than that in which it exists, especially a thing that is conspicuously old-fashioned.
 - compendium - a collection of concise but detailed information about a particular subject, especially in a book or other publication.
+- A magnum opus is a noun that means a great work, especially the greatest achievement of an artist or writer.

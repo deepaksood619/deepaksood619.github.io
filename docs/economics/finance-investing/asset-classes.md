@@ -185,6 +185,10 @@ https://www.edx.org/course/finance-everyone-smart-tools-decision-michiganx-fin10
 
 [How Much Monthly Pension Does NPS Give? | ET Money](https://youtu.be/908WbEQRG04)
 
+[NPS tax benefits: How you can claim tax deductions for NPS under old, new income tax regimes - BusinessToday](https://www.businesstoday.in/personal-finance/tax/story/nps-tax-benefits-how-you-can-claim-tax-deductions-for-nps-under-old-new-income-tax-regimes-413754-2024-01-17)
+
+Additional Tax Benefit is available to Subscribers under Corporate Sector, under section 80CCD (2) of Income Tax Act. Employer's NPS contribution (for the benefit of employee) up to 10 per cent of salary (Basic + DA), is deductible from taxable income, up to 7.5 Lakh
+
 ## International
 
 - MSCI World Index

@@ -36,3 +36,5 @@ If we further break down the HVAC system by the energy consumed by its individua
 [How IoT is making HVAC smart and energy-efficient? - Zenatix](https://www.zenatix.com/how-iot-is-making-hvac-smart-and-energy-efficient/)
 
 [Intelligent Buildings: A Comprehensive Guide - Zenatix](https://www.zenatix.com/smart-buildings-a-comprehensive-guide/)
+
+[Mechanical Ventilation - YouTube](https://www.youtube.com/playlist?list=PLWv9VM947MKjYSKR5DnH292-jFUN9yHnl)

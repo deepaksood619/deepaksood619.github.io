@@ -212,3 +212,5 @@ https://victoriametrics.com/products/open-source
 [Home - ThoughtData](https://thoughtdata.com/)
 
 [No-code Enterprise Data Quality Monitoring Tool: Lightup](https://lightup.ai/)
+
+Datadog - [Best Practices for Tagging Your Infrastructure and Applications | Datadog](https://www.datadoghq.com/blog/tagging-best-practices/)

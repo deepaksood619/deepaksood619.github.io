@@ -41,7 +41,8 @@
 5. Static Code Analysis
 6. SonarQube
 7. Linters (based on coding languages)
-8. Dependabot-gitlab
+8. Dependabot (github / gitlab)
+	1. [Top Alternatives for Dependabot](https://devdojo.com/yoda/top-dependabot-alternatives)
 
 ### CI Tools
 
@@ -66,7 +67,7 @@
 		5. Coverity
 		6. IBM Security AppScan
 		7. CAST
-		8. Qualys
+		8. Qualys - [IT Security and Compliance Platform | Qualys, Inc.](https://www.qualys.com/)
 		9. RedHat Advanced Cluster Security For Kubernetes (only K8s)
 6. SCA
 	1. Open Source

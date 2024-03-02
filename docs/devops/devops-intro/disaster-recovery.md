@@ -152,3 +152,5 @@ Can run drills and initiate recovery from console
 https://d1.awsstatic.com/whitepapers/architecture/AWS-Reliability-Pillar.pdf
 
 [High availability is not disaster recovery - Disaster Recovery of Workloads on AWS: Recovery in the Cloud](https://docs.aws.amazon.com/whitepapers/latest/disaster-recovery-workloads-on-aws/high-availability-is-not-disaster-recovery.html)
+
+[Disaster Recovery (DR) Architecture on AWS, Part I: Strategies for Recovery in the Cloud | AWS Architecture Blog](https://aws.amazon.com/blogs/architecture/disaster-recovery-dr-architecture-on-aws-part-i-strategies-for-recovery-in-the-cloud/)

@@ -7,6 +7,7 @@
 - [Stashfin Terms](about-me/projects/81-stashfin-terms.md) (Feb'20 - Feb'23)
 - [Stashfin Metrics](about-me/projects/82-stashfin-metrics.md)  (Feb'20 - Feb'23)
 - [Stashfin Customer Support](about-me/projects/86-stashfin-customer-support.md) (Nov'22 - Feb'23)
+- [Stashfin Twitter Bot](about-me/projects/85-stashfin-twitter-bot.md) (Nov'22 - Feb'23)
 - [Stashfin Team Management / Culture](about-me/projects/87-stashfin-team-management-culture.md) (Sep'21 - Feb'23)
 - [Stashfin Security IAM APIs](about-me/projects/88-stashfin-security-iam-apis.md) (Feb'20 - Feb'23)
 - [Stashfin Devops Overhaul](about-me/projects/89-stashfin-devops-overhaul.md) (Feb'20 - Jan'21)

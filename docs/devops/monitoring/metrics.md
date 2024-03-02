@@ -363,3 +363,5 @@ https://www.freecodecamp.org/news/metrics-driven-development
 SLI - Service Level Indicators
 
 [Choosing Good SLIs – Brave New Geek](https://bravenewgeek.com/choosing-good-slis/)
+
+[Best Practices for Tagging Your Infrastructure and Applications | Datadog](https://www.datadoghq.com/blog/tagging-best-practices/)

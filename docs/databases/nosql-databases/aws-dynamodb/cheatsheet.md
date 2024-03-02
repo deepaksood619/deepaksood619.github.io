@@ -61,6 +61,8 @@ DynamoDB has two types of Indexes:
 - LSI- Local Secondary index
 - GSI- Global Secondary Index
 
+[How indexes work in Distributed Databases, their trade-offs, and challenges - YouTube](https://www.youtube.com/watch?v=eQ3eNd5WbH8&ab_channel=ArpitBhayani)
+
 ## LSI - Local Secondary index
 
 - Supports strongly or eventual consistency reads

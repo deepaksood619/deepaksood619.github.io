@@ -56,4 +56,5 @@ When we develop data products like reports or data feeds, we need to design a pr
 
 ## Links
 
-[Designing Data Governance from the Ground Up • Lauren Maffeo & Samia Rahman • GOTO 2023 - YouTube](https://www.youtube.com/watch?v=A8dVHjRENBQ)
+- [Designing Data Governance from the Ground Up • Lauren Maffeo & Samia Rahman • GOTO 2023 - YouTube](https://www.youtube.com/watch?v=A8dVHjRENBQ)
+- [Data governance in the age of generative AI | AWS Big Data Blog](https://aws.amazon.com/blogs/big-data/data-governance-in-the-age-of-generative-ai/)

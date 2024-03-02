@@ -128,3 +128,7 @@ https://docs.microsoft.com/en-us/azure/aks/virtual-kubelet#installation
 ## Node Pools
 
 https://docs.microsoft.com/en-us/azure/aks/use-multiple-node-pools
+
+## Links
+
+- [Azure AI Fundamentals Certification (AI-900) 2024 UPDATE – Pass the Exam With This Free 4 Hour Course](https://www.freecodecamp.org/news/azure-data-fundamentals-certification-ai-900-pass-the-exam-with-this-free-4-hour-course/)

@@ -123,7 +123,15 @@ https://freefincal.com/why-i-partially-switched-from-icici-multi-asset-fund-to-i
 
 ## Funds
 
-- [Parag Parikh Dynamic Asset Allocation Fund](https://amc.ppfas.com/schemes/parag-parikh-dynamic-asset-allocation-fund/)
+### [Parag Parikh Dynamic Asset Allocation Fund](https://amc.ppfas.com/schemes/parag-parikh-dynamic-asset-allocation-fund/)
+
+| Type of Instruments                                                                             | Normal Allocation (% of Net Assets) | Risk Profile    |
+| ----------------------------------------------------------------------------------------------- | ----------------------------------- | --------------- |
+| Equities & Equity related instruments                                                           | 0-100                               | Very High       |
+| Debt securities & Money Market instruments including Units of Debt oriented mutual fund schemes | 0-100                               | Low to Moderate |
+The fund will predominantly invest in debt instruments and endeavour to maintain equity allocation between 35% and 65% (some of it will be hedged via approved derivative instruments as permitted by SEBI from time to time)
+
+[Webinar to discuss the NFO of Parag Parikh Dynamic Asset Allocation Fund - YouTube](https://www.youtube.com/watch?v=iCVFUX9QUoc&ab_channel=PPFASMutualFund)
 
 ## Links
 

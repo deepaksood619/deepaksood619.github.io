@@ -399,16 +399,29 @@ https://www.gigsmedia.in
 
 ## Channels
 
+### Sending Mails / SMS / Notifications
+
+- MailChimp
+- Twilio SendGrid (Twilio)
+- mailgun
+- Amazon SES
+- **sendinblue** / Brevo
+- **sendpulse**
+- **Onesignal**
+- msg91
+- Yellowmessenger
+- Pinpoint
+- https://convertkit.com
+- Gmass
+- [Pricing | Mailjet](https://www.mailjet.com/pricing/)
+- pinpoint
+- sendgrid
+- [Resend](https://resend.com/home)
+
 ### SMS
 
 - msg91
 - pinpoint
-
-### Email
-
-- pinpoint
-- sendgrid
-- [Resend](https://resend.com/home)
 
 ### Push notifications
 
@@ -465,22 +478,7 @@ On the available statistics reports, you will find that your deliverability is b
 - Opt-Out Rate - The percentage of people who unsubscribed after receiving your SMS
 - Conversion Rate - The percentage of subscribers who turned into customers by taking the required action
 
-Tools / Cloud vendors / Agencies
-
-## Sending Mails / SMS / Notifications
-
-- MailChimp
-- Twilio SendGrid (Twilio)
-- mailgun
-- Amazon SES
-- **sendinblue**
-- **sendpulse**
-- **Onesignal**
-- msg91
-- Yellowmessenger
-- Pinpoint
-- https://convertkit.com
-- Gmass
+## Tools / Cloud vendors / Agencies
 
 - Digital marketing
     - https://hootsuite.com

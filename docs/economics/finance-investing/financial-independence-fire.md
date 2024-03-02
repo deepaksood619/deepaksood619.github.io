@@ -104,3 +104,8 @@ They would be surrounded by relatives and friends that systematically leached of
 - Make rules that indicate how you will decide whom to support. Keep it equitable between both spouses. Discuss how you will support both parents; how you will contribute to old age support and hospitalizations; and so on. Identify specific causes like education and the limits you will go towards funding it. Allocate a percentage of your earnings and be gracious about it to the outside world, but clear and rule based within the household.
 
 https://economictimes.indiatimes.com/wealth/save/set-limits-when-it-comes-to-helping-others-financially-5-ways-to-deal-with-the-entitled-lot/set-limits-when-it-comes-to-helping-others-financially-5-ways-to-deal-with-the-entitled-lot/articleshow/91556379.cms
+
+## Others
+
+- DINK - Double Income No Kid
+- Double Income No Kids With A Dog/Cat (DINKWAD / DINKWAC)

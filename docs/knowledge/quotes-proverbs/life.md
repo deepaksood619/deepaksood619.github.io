@@ -14,6 +14,8 @@ I can think, I can wait, I can fast
 
 Injustice anywhere is a threat to justice everywhere - Martin Luther King
 
+The more you learn, the more you earn -- Warren Buffet
+
 90% of everything is crap/junk -- Sturgeon's Revelation
 
 When in doubt zoom out
@@ -1068,5 +1070,9 @@ That's why you've gotta learn by doing.
 Broken clock is also right twice a day
 
 He gave me abuses; I didn't take them. So the abuses remained with him. -- Gautam Buddha
+
+The ultimate test of a moral society is the kind of world that it leaves to its children -- Dietrich Bonhoeffer
+
+“If you defer investing your time and energy until you see that you need to, chances are it will already be too late.” - Clayton Christensen
 
 ## End

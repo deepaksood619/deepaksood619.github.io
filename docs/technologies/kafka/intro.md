@@ -151,7 +151,7 @@ https://towardsdatascience.com/log-compacted-topics-in-apache-kafka-b1aa1e4665a7
 
 https://www.confluent.io/blog/apache-kafka-2-4-latest-version-updates
 
-## Kafka without Zookeeper
+## Kafka without Zookeeper (Kafka with KRaft Mode)
 
 - KRaft Algorithm
 - [Kafka Without ZooKeeper: A Sneak Peek At the Simplest Kafka Yet](https://www.confluent.io/blog/kafka-without-zookeeper-a-sneak-peek/)

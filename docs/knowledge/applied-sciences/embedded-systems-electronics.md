@@ -139,6 +139,22 @@ IGBTs are a hybrid of MOSFETs and bipolar transistors. They combine a control i
 
 IGBTs were developed to combine high efficiency with fast switching. They are ubiquitously used in power electronic circuits for the control of power and energy. They enabled transition from analog power control using previous thyristor switches to digital power control with pulse width modulation.
 
+## MOSFET
+
+A metal-oxide-semiconductor field-effect transistor (MOSFET) is ==a voltage-controlled device that uses an electric field to control the current flowing in it==. MOSFETs are the most common type of field-effect transistor (FET).
+
+MOSFETs have three terminals: source, gate, and drain. The voltage of the insulated gate determines the conductivity of the device. MOSFETs are used as electrical switches and amplifiers. They can be used in both digital and analog circuits.
+
+MOSFETs have several advantages, including:
+
+- Enhanced efficiency even when functioning at minimal voltage levels
+- No presence of gate current
+- Increased switching speed
+- Can function at minimal power levels
+- Uses minimal current
+
+MOSFETs are well-suited for applications such as microprocessors, memory devices, and communication systems.
+
 ## Others
 
 - https://en.wikipedia.org/wiki/MISRA_C
