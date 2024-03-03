@@ -57,24 +57,17 @@ In the context of vector embeddings, yes, embeddings and vectors are the same th
 
 ## Text Embeddings / Transformers
 
-[GitHub - SeanLee97/AnglE: Angle-optimized Text Embeddings | 🔥 SOTA on STS and MTEB Leaderboard](https://github.com/SeanLee97/AnglE)
-
-[MTEB Leaderboard - a Hugging Face Space by mteb](https://huggingface.co/spaces/mteb/leaderboard)
-
-MTEB - Massive Text Embeddings Benchmark
-
-[OpenAI Platform](https://platform.openai.com/tokenizer)
-
-[sentence-transformers/all-MiniLM-L6-v2 · Hugging Face](https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2)
-
-[Pretrained Models - Sentence-Transformers documentation](https://www.sbert.net/docs/pretrained_models.html)
-
-[sentence-transformers (Sentence Transformers)](https://huggingface.co/sentence-transformers)
+- [GitHub - SeanLee97/AnglE: Angle-optimized Text Embeddings | 🔥 SOTA on STS and MTEB Leaderboard](https://github.com/SeanLee97/AnglE)
+- [MTEB Leaderboard - a Hugging Face Space by mteb](https://huggingface.co/spaces/mteb/leaderboard)
+- MTEB - Massive Text Embeddings Benchmark
+- [OpenAI Platform](https://platform.openai.com/tokenizer)
+- [sentence-transformers/all-MiniLM-L6-v2 · Hugging Face](https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2)
+- [Pretrained Models - Sentence-Transformers documentation](https://www.sbert.net/docs/pretrained_models.html)
+- [sentence-transformers (Sentence Transformers)](https://huggingface.co/sentence-transformers)
 
 ## Links
 
-[word-embedding-to-transformers](ai/nlp/word-embedding-to-transformers.md)
-
-[**Vector Embeddings Tutorial – Code Your Own AI Assistant with GPT-4 API + LangChain + NLP - YouTube**](https://www.youtube.com/watch?v=yfHHvmaMkcA&ab_channel=freeCodeCamp.org)
-
-[$0 Embeddings (OpenAI vs. free & open source) - YouTube](https://www.youtube.com/watch?v=QdDoFfkVkcw&ab_channel=RabbitHoleSyndrome)
+- [word-embedding-to-transformers](ai/nlp/word-embedding-to-transformers.md)
+- [**Vector Embeddings Tutorial – Code Your Own AI Assistant with GPT-4 API + LangChain + NLP - YouTube**](https://www.youtube.com/watch?v=yfHHvmaMkcA&ab_channel=freeCodeCamp.org)
+- [$0 Embeddings (OpenAI vs. free & open source) - YouTube](https://www.youtube.com/watch?v=QdDoFfkVkcw&ab_channel=RabbitHoleSyndrome)
+- [The ABCs of AI Transformers, Tokens, and Embeddings: A LEGO Story – Code with Dan Blog](https://blog.codewithdan.com/the-abcs-of-ai-transformers-tokens-and-embeddings-a-lego-story/#:~:text=The%20embeddings%20serve%20as%20the,an%20encoder%20and%20a%20decoder.)

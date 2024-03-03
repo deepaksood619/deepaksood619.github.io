@@ -4,6 +4,7 @@
 - [Concepts](devops/devops-intro/concepts.md)
 - [GitOps](devops/devops-intro/gitops.md)
 - [SRE (Site Reliability Engineering)](devops/devops-intro/sre-site-reliability-engineering.md)
+- [DORA Metrics](devops/devops-intro/dora-metrics.md)
 - [Application Management](devops/devops-intro/application-management.md)
 - [Design](devops/devops-intro/design.md)
 - [Deployment Strategies](deployment-strategies)

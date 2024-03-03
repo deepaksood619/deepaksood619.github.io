@@ -1,4 +1,4 @@
-# Firebase Analytics
+# Firebase / Google Analytics
 
 Google Analytics for Firebase, formerly Firebase Analytics, is now known as Google Analytics. It works great for your mobile apps! Oh, but Google Analytics for Mobile has been deprecated; they recommend you use Firebase Analytics, which, as you'll recall, is now Google Analytics. In recent news, you'll be excited to hear that Google Analytics now supports web apps, but don't confuse that with Google Analytics for the web!
 
@@ -167,6 +167,9 @@ https://www.adjust.com
 
 [Heap - Better Insights. Faster. | Heap](https://www.heap.io/)
 
+[Amplitude | Product Analytics & Event Tracking Platform | Amplitude](https://amplitude.com/)
+
 ### MixPanel
 
 Mixpanel helps you learn how people use your app with mobile & web analytics. Instead of tracking page views, you can measure and see how people are actually using your app by tracking actions.
+

@@ -39,19 +39,42 @@ There are mainly two ways of deploying an ML model:
 
 [MLOps guide](https://huyenchip.com/mlops/)
 
-### Tools
+## Tools
 
-[ZenML - Seamless End-to-End MLOps](https://www.zenml.io/)
-
-[Starter guide - ZenML Documentation](https://docs.zenml.io/user-guide/starter-guide)
-
-#### KubeFlow
+### KubeFlow
 
 Kubeflow is a Cloud Native platform for machine learning based on Google's internal machine learning pipelines.
 
 https://www.kubeflow.org
 
 https://github.com/kubeflow/kubeflow
+
+### TensorFlow Serving
+
+TensorFlow Serving is a flexible, high-performance serving system for machine learning models, designed for production environments. It deals with the _inference_ aspect of machine learning, taking models after _training_ and managing their lifetimes, providing clients with versioned access via a high-performance, reference-counted lookup table. TensorFlow Serving provides out-of-the-box integration with TensorFlow models, but can be easily extended to serve other types of models and data.
+
+To note a few features:
+
+- Can serve multiple models, or multiple versions of the same model simultaneously
+- Exposes both gRPC as well as HTTP inference endpoints
+- Allows deployment of new model versions without changing any client code
+- Supports canarying new versions and A/B testing experimental models
+- Adds minimal latency to inference time due to efficient, low-overhead implementation
+- Features a scheduler that groups individual inference requests into batches for joint execution on GPU, with configurable latency controls
+- Supports many _servables_: Tensorflow models, embeddings, vocabularies, feature transformations and even non-Tensorflow-based machine learning models
+
+[GitHub - tensorflow/serving: A flexible, high-performance serving system for machine learning models](https://github.com/tensorflow/serving)
+
+[Serving Models  |  TFX  |  TensorFlow](https://www.tensorflow.org/tfx/guide/serving)
+
+### Others
+
+- [ZenML - Seamless End-to-End MLOps](https://www.zenml.io/)
+- [Starter guide - ZenML Documentation](https://docs.zenml.io/user-guide/starter-guide)
+- [Home Page | Pachyderm](https://www.pachyderm.com/)
+- [Blog - neptune.ai](https://neptune.ai/blog)
+   	- [Building a Machine Learning Platform \[Definitive Guide\]](https://neptune.ai/blog/ml-platform-guide)
+   	- [How to Build a CI/CD MLOps Pipeline \[Case Study\]](https://neptune.ai/blog/build-ci-cd-mlops-pipeline)
 
 ## Roadmap
 
@@ -75,14 +98,17 @@ https://github.com/kubeflow/kubeflow
 
 ### Profiles
 
-[Machine Learning Engineer Job Description Jan 2024 | Toptal](https://www.toptal.com/machine-learning/job-description)
+- [Machine Learning Engineer Job Description Jan 2024 | Toptal](https://www.toptal.com/machine-learning/job-description)
+- [Meghana Bhange - Developer in Montreal, QC, Canada | Toptal](https://www.toptal.com/resume/meghana-bhange)
+- [Alessandro Pedori - Developer in Berlin, Germany | Toptal](https://www.toptal.com/resume/alessandro-pedori)
+- [Ruggiero Dargenio - Developer in Zürich, Switzerland | Toptal](https://www.toptal.com/resume/ruggiero-dargenio)
+- [Andrei Apostol - Developer in Iași, Romania | Toptal](https://www.toptal.com/resume/andrei-apostol)
+- [Artificial Intelligence Resume Sample and Writing guide - 2024](https://www.mygreatlearning.com/blog/artificial-intelligence-resume/)
 
-[Meghana Bhange - Developer in Montreal, QC, Canada | Toptal](https://www.toptal.com/resume/meghana-bhange)
+## Links
 
-[Alessandro Pedori - Developer in Berlin, Germany | Toptal](https://www.toptal.com/resume/alessandro-pedori)
-
-[Ruggiero Dargenio - Developer in Zürich, Switzerland | Toptal](https://www.toptal.com/resume/ruggiero-dargenio)
-
-[Andrei Apostol - Developer in Iași, Romania | Toptal](https://www.toptal.com/resume/andrei-apostol)
-
-[Artificial Intelligence Resume Sample and Writing guide - 2024](https://www.mygreatlearning.com/blog/artificial-intelligence-resume/)
+- [Home - MLOps Community](https://mlops.community/)
+- [GitHub - visenger/awesome-mlops: A curated list of references for MLOps](https://github.com/visenger/awesome-mlops)
+- [GitHub - kelvins/awesome-mlops: :sunglasses: A curated list of awesome MLOps tools](https://github.com/kelvins/awesome-mlops)
+- [10 Awesome Resources for Learning MLOps | DataCamp](https://www.datacamp.com/blog/10-awesome-resources-for-learning-mlops)
+-

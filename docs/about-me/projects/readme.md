@@ -61,7 +61,7 @@ Created an android application framework to collect all the stats and user usabi
 
 - Android UserStudy using ADL, ContentResolver, SharedPreferences, ScreenRecording, Apache HSSF Sheet
 - Dynamic Password Numerical
-- Dynamic Password Word
+- Dynamic Password Word/Text
 - Dynamic Password Image
 
 https://github.com/deepak15013/UserStudyFramework

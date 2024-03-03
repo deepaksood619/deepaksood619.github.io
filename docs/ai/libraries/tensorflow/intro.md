@@ -76,9 +76,11 @@ TensorFlow Extended (TFX) is an end-to-end platform for deploying production ML 
 
 https://www.tensorflow.org/tfx
 
+[GitHub - tensorflow/tfx: TFX is an end-to-end platform for deploying production ML pipelines](https://github.com/tensorflow/tfx)
+
 ## Commands
 
-tensorboard --logdir=path/to/log-directory
+`tensorboard --logdir=path/to/log-directory`
 
 ## Others
 

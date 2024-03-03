@@ -118,7 +118,9 @@ However, it does simplify the process for you.
 If you make any edits to the image, you can save it as a new version or as a new file on the media library.
 
 If a new version of an image is created on ImageKit's media library, we update the time stamp on the newer version's URL.
+
 If you save the image as a new file, we added a random string to the image's name, thus also updating the URL.
+
 If you replace the old URL with the new URL on the front end, it would have an effect of skipping the cached response of the older version.
 
 For example: If this is the older image: [https://ik.imagekit.io/uf5ueu4sr6/sakura%20tree%20in%20bloom.jpg?updatedAt=1704462165134](https://ik.imagekit.io/uf5ueu4sr6/sakura%20tree%20in%20bloom.jpg?updatedAt=1704462165134)

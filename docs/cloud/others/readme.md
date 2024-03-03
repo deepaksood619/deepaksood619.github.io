@@ -9,7 +9,7 @@
 - [Linode](cloud/others/linode.md)
 - [Oracle](oracle)
 - [Firebase](firebase/readme.md)
-    - [Firebase Analytics](firebase/firebase-analytics)
+    - [Firebase Analytics](cloud/others/firebase/firebase-google-analytics.md)
     - [Automatic Collection Events](firebase/automatic-collected-events)
     - [Notifications](cloud/others/firebase/fcm-notifications.md)
     - [Web Push Notifications](cloud/others/firebase/web-push-notifications.md)

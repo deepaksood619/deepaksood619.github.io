@@ -256,6 +256,8 @@ Fast, Simple, Cost-effecitive Data Warehousing
 
 Fully Managed Graph Database Service
 
+[Create a Virtual Knowledge Graph with Amazon Neptune and an Amazon S3 data lake | AWS Database Blog](https://aws.amazon.com/blogs/database/create-a-virtual-knowledge-graph-with-amazon-neptune-and-an-amazon-s3-data-lake/)
+
 ### AWS Database Migration Service (DMS)
 
 Migrate Databases with Minimal Downtime

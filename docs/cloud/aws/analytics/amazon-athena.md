@@ -563,15 +563,24 @@ The Amazon Athena DynamoDB connector enables Amazon Athena to communicate with D
 
 https://docs.aws.amazon.com/athena/latest/ug/athena-prebuilt-data-connectors-dynamodb.html
 
-## Others
+## CSV to bulk import
 
-https://aws.amazon.com/athena/faqs
+https://mbejda.github.io/CSV-to-Athena-Bulk-Import
 
-https://www.linkedin.com/pulse/my-top-5-gotchas-working-aws-glue-tanveer-uddin
+## Debugging
 
-https://aws.amazon.com/blogs/big-data/create-tables-in-amazon-athena-from-nested-json-and-mappings-using-jsonserde
+https://aws.amazon.com/premiumsupport/knowledge-center/error-json-athena
 
-https://github.com/quux00/hive-json-schema
+## Links
+
+- [Understand Amazon S3 data transfer costs by classifying requests with Amazon Athena | AWS Storage Blog](https://aws.amazon.com/blogs/storage/understand-amazon-s3-data-transfer-costs-by-classifying-requests-with-amazon-athena/)
+- https://aws.amazon.com/athena/faqs
+- https://www.linkedin.com/pulse/my-top-5-gotchas-working-aws-glue-tanveer-uddin
+- https://aws.amazon.com/blogs/big-data/create-tables-in-amazon-athena-from-nested-json-and-mappings-using-jsonserde
+- [ThornyDev: Querying JSON records via Hive](http://thornydev.blogspot.com/2013/07/querying-json-records-via-hive.html)
+- [Athena engine version reference - Amazon Athena](https://docs.aws.amazon.com/athena/latest/ug/engine-versions-reference.html)
+
+### [GitHub - quux00/hive-json-schema: Tool to generate a Hive schema from a JSON example doc](https://github.com/quux00/hive-json-schema)
 
 `java -jar target/json-hive-schema-1.0-jar-with-dependencies.jar in.json TopQuark`
 
@@ -583,15 +592,3 @@ wibble string,
 wobble array<struct<entry:int, entrydetails:struct<details1:string, details2:int>>>)
 ROW FORMAT SERDE 'org.openx.data.jsonserde.JsonSerDe';
 ```
-
-http://thornydev.blogspot.com/2013/07/querying-json-records-via-hive.html
-
-https://docs.aws.amazon.com/athena/latest/ug/engine-versions-reference.html
-
-## CSV to bulk import
-
-https://mbejda.github.io/CSV-to-Athena-Bulk-Import
-
-## Debugging
-
-https://aws.amazon.com/premiumsupport/knowledge-center/error-json-athena
