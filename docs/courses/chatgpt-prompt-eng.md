@@ -139,6 +139,8 @@ Share the most important leadership lessons and insights from the book `{insert 
 
 Controls the randomness of the model's output. A higher temperature makes the output more random, while a lower temperature makes it more deterministic.
 
+[Understanding OpenAI's Temperature Parameter | Colt Steele](https://www.coltsteele.com/tips/understanding-openai-s-temperature-parameter)
+
 ## Assistant APIs
 
 The Assistants API allows you to build AI assistants within your own applications. An Assistant has instructions and can leverage models, tools, and knowledge to respond to user queries. The Assistants API currently supports three types of [tools](https://platform.openai.com/docs/assistants/tools): Code Interpreter, Retrieval, and Function calling.

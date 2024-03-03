@@ -131,6 +131,30 @@ docker exec -it ollama ollama run mistral
 
 [LM Studio - Discover, download, and run local LLMs](https://lmstudio.ai/)
 
+### oobabooga
+
+A Gradio web UI for Large Language Models. Supports transformers, GPTQ, AWQ, EXL2, llama.cpp (GGUF), Llama models.
+
+[GitHub - oobabooga/text-generation-webui: A Gradio web UI for Large Language Models. Supports transformers, GPTQ, AWQ, EXL2, llama.cpp (GGUF), Llama models.](https://github.com/oobabooga/text-generation-webui)
+
+[GitHub - oobabooga/text-generation-webui-extensions](https://github.com/oobabooga/text-generation-webui-extensions)
+
+### Ludwig
+
+Ludwig is an open-source, [declarative machine learning framework](https://ludwig.ai/latest/user_guide/what_is_ludwig/#why-declarative-machine-learning-systems) that makes it easy to define deep learning pipelines with a simple and flexible data-driven configuration system. Ludwig is suitable for a wide variety of AI tasks, and is hosted by the [Linux Foundation AI & Data](https://lfaidata.foundation/).
+
+Ludwig enables you to apply state-of-the-art tabular, natural language processing, and computer vision models to your existing data and put them into production with just a [few short commands](https://ludwig.ai/latest/user_guide/command_line_interface).
+
+[GitHub - ludwig-ai/ludwig: Low-code framework for building custom LLMs, neural networks, and other AI models](https://github.com/ludwig-ai/ludwig)
+
+[Ludwig](https://ludwig.ai/latest/)
+
+[What is Ludwig? - Ludwig](https://ludwig.ai/latest/user_guide/what_is_ludwig/)
+
+## SAAS
+
+- [DataRobot AI Platform | Deliver Value from AI](https://www.datarobot.com/)
+
 ## Resources
 
 [Development with Large Language Models Tutorial – OpenAI, Langchain, Agents, Chroma - YouTube](https://www.youtube.com/watch?v=xZDB1naRUlk&t=1032s)

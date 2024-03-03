@@ -26,6 +26,7 @@ Note: You should have at least 8 GB of RAM available to run the 7B models, 16 GB
 - [Uncensored Models](https://erichartford.com/uncensored-models)
     - aligned by an alignment team
     - Remove refusals
+- [Introduction | Mistral AI Large Language Models](https://docs.mistral.ai/)
 
 #### Dolphin-2.5x-mixtral
 

@@ -61,13 +61,6 @@ http://www.developerphil.com/parcelable-vs-serializable
 
 AIDL (Android Interface Definition Language) allows you to define the programming interface that both the client and service agree upon in order to communicate with each other using interprocess communication (IPC). On Android, one process cannot normally access the memory of another process. So to talk, they need to decompose their objects into primitives that the operating system can understand, and marshall the objects across that boundary for you. The code to do that marshalling is tedious to write, so Android handles it for you with AIDL.
 
-## Project
-
-1. UserStudyFramework - An application to collect data from three applications
-2. Dynamic Password Image
-3. Dynamic Password Text
-4. Dynamic Password Numerical
-
 ## Architectural Styles
 
 ### Clean Architecture
@@ -115,8 +108,11 @@ https://developer.android.com/codelabs/android-hilt
 
 ## Others
 
-https://medium.com/snapp-mobile/android-keeping-release-and-debug-installed-all-the-time-43f5812d6637
-
-https://www.toptal.com/android/functional-reactive-programming-part-2
-
-[GitHub - Genymobile/scrcpy: Display and control your Android device](https://github.com/Genymobile/scrcpy)
+- https://medium.com/snapp-mobile/android-keeping-release-and-debug-installed-all-the-time-43f5812d6637
+- https://www.toptal.com/android/functional-reactive-programming-part-2
+- [GitHub - Genymobile/scrcpy: Display and control your Android device](https://github.com/Genymobile/scrcpy)
+- Deployment Patterns
+   	- [Soft Launch, Dark Launch, and Canary Release for Mobile Apps | Instabug](https://www.instabug.com/blog/soft-launch-dark-launch-and-canary-release-for-mobile-apps)
+   	- [Gradually roll out Firebase App Check using Firebase Remote Config](https://firebase.google.com/codelabs/app-attest-remote-config#0)
+   	- [How to Stage Rollout Features using Firebase Remote Config (Android & iOS) – Rebecca Franks - @riggaroo](https://riggaroo.dev/stage-rollout-features-firebase-remote-config-ios-android/)
+   	- [Android Developers Blog: Staged releases allow you to bring new features to your users quickly, safely and regularly.](https://android-developers.googleblog.com/2018/09/staged-releases-allow-you-to-bring-new.html)

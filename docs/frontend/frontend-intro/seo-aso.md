@@ -23,13 +23,14 @@ https://blog.hubspot.com/marketing/search-engine-marketing
 - https://developers.google.com/speed/pagespeed/insights
 - https://sitechecker.pro
 - https://seositecheckup.com/seo-audit/www.example.com
-- https://www.seoptimer.com/www.example.com
+- https://www.seoptimer.com/deepaksood619.github.io
 - https://app.neilpatel.com/en/seo_analyzer/site_audit
 - https://answerthepublic.com
 - https://stories.google
 - https://purifycss.online
 - https://moz.com
 - [Rich Results Test - Google Search Console](https://search.google.com/test/rich-results)
+- [POP: On-Page SEO & Content Optimization Tool Suite](https://www.pageoptimizer.pro/)
 
 ## Black Hat SEO
 
@@ -109,6 +110,22 @@ In order to build a **site optimized for organic search engine rankings,** it is
 - Leverage browser caching
 - Avoid W3C markup validation errors
 - Specify relevant meta tags
+
+## Latent Semantic Indexing (LSI)
+
+LSI (latent semantic indexing) keywords are words or phrases that are conceptually related to a target keyword. So if you wanted your page to rank for “credit cards,” then LSI keywords would be “money,” “credit score,” and “interest rate.”
+
+Latent semantic analysis (LSA) is a mathematical method for finding conceptually related words in textual data. In other words, it’s how you find LSI keywords.
+
+Google doesn’t use latent semantic indexing because it’s old technology. And it was developed as a method for finding results in smaller document sets—not the entire web.
+
+[What Are LSI Keywords & Why They Don‘t Matter](https://www.semrush.com/blog/lsi-keywords/)
+
+[What are LSI Keywords? And Do They Help With SEO?](https://backlinko.com/hub/seo/lsi)
+
+[What are LSI keywords? How to use them in SEO](https://surferseo.com/blog/lsi-keywords-for-seo/)
+
+[LSI Keywords: What are They and Do They Matter?](https://ahrefs.com/blog/lsi-keywords/)
 
 ## Optimize a website
 
@@ -239,27 +256,17 @@ https://www.semrush.com/blog/subdomain-vs-subdirectory
 Different content on slash and non-slash URLs is okay for Google, but often is less ideal for users
 
 - Trailing slashes after the domain name don’t matter
-
-[Should You Have a Trailing Slash at the End of URLs?](https://ahrefs.com/blog/trailing-slash/)
-
-[Trailing Slashes and SEO - Best Practice Guide | Safari Digital](https://www.safaridigital.com.au/blog/trailing-slash-seo/)
-
-[GitHub - slorber/trailing-slash-guide: Understand and fix your static website trailing slash issues!](https://github.com/slorber/trailing-slash-guide)
-
-[To slash or not to slash  |  Google Search Central Blog  |  Google Developers](https://developers.google.com/search/blog/2010/04/to-slash-or-not-to-slash)
+- [Should You Have a Trailing Slash at the End of URLs?](https://ahrefs.com/blog/trailing-slash/)
+- [Trailing Slashes and SEO - Best Practice Guide | Safari Digital](https://www.safaridigital.com.au/blog/trailing-slash-seo/)
+- [GitHub - slorber/trailing-slash-guide: Understand and fix your static website trailing slash issues!](https://github.com/slorber/trailing-slash-guide)
+- [To slash or not to slash  |  Google Search Central Blog  |  Google Developers](https://developers.google.com/search/blog/2010/04/to-slash-or-not-to-slash)
 
 ## References
 
-https://www.toptal.com/full-stack/interview-questions
-
-https://neilpatel.com/blog/10-advanced-seo-techniques-thatll-double-your-search-traffic
-
-https://neilpatel.com/blog/google-ranking
-
-https://neilpatel.com/blog/get-your-mba-in-seo-with-these-10-guides-and-5-courses
-
-https://neilpatel.com/blog/seo-for-ecommerce-websites
-
-https://neilpatel.com/blog/seo-templates
-
-[React SEO Best Practices and Strategies | Toptal](https://www.toptal.com/react/react-seo-best-practices)
+- https://www.toptal.com/full-stack/interview-questions
+- https://neilpatel.com/blog/10-advanced-seo-techniques-thatll-double-your-search-traffic
+- https://neilpatel.com/blog/google-ranking
+- https://neilpatel.com/blog/get-your-mba-in-seo-with-these-10-guides-and-5-courses
+- https://neilpatel.com/blog/seo-for-ecommerce-websites
+- https://neilpatel.com/blog/seo-templates
+- [React SEO Best Practices and Strategies | Toptal](https://www.toptal.com/react/react-seo-best-practices)

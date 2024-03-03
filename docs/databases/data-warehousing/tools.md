@@ -28,7 +28,19 @@ Some transformations in IICS include:
 
 [DVC](https://dvc.org/) stands for "data version control". This project invites data scientists and engineers to a Git-inspired world, where all workflow versions are tracked, along with all the data artifacts and models, as well as associated metrics.
 
-https://dvc.org
+**Data Version Control** or **DVC** is a command line tool and [VS Code Extension](https://github.com/iterative/dvc#vs-code-extension) to help you develop reproducible machine learning projects:
+
+1. **Version** your data and models. Store them in your cloud storage but keep their version info in your Git repo.
+2. **Iterate** fast with lightweight pipelines. When you make changes, only run the steps impacted by those changes.
+3. **Track** experiments in your local Git repo (no servers needed).
+4. **Compare** any data, code, parameters, model, or performance plots.
+5. **Share** experiments and automatically reproduce anyone's experiment.
+
+[Data Version Control · DVC](https://dvc.org)
+
+[GitHub - iterative/dvc: 🦉 ML Experiments Management with Git](https://github.com/iterative/dvc)
+
+[Site Unreachable](https://www.analyticsvidhya.com/blog/2021/06/mlops-tracking-ml-experiments-with-data-version-control/)
 
 ## DBT
 
