@@ -10,10 +10,16 @@
 - [http://slowwly.robertomurray.co.uk/delay/3000/url/http://www.google.co.uk](http://slowwly.robertomurray.co.uk/delay/3000/url/http:/www.google.co.uk)
 - [**https://fakestoreapi.com/**](https://fakestoreapi.com/)
 - https://anapioficeandfire.com
-- [News API – Search News and Blog Articles on the Web](https://newsapi.org/)
 - Twitter Developer APIs
 - [Pushshift | Guide](https://api.pushshift.io/guide)
    	- [GitHub - mattpodolak/pmaw: A multithread Pushshift.io API Wrapper for reddit.com comment and submission searches.](https://github.com/mattpodolak/pmaw)
+- News API
+   	- [News API – Search News and Blog Articles on the Web](https://newsapi.org/)
+   	- [Free News API](https://www.newscatcherapi.com/free-news-api)
+   	- [News API | Best API to find the latest and archive news](https://www.newsapi.ai/)
+   	- [World News API](https://worldnewsapi.com/)
+   	- [NewsData - News API to Search & Collect Worldwide News](https://newsdata.io/)
+   	-
 
 ## Local Infra Mock
 

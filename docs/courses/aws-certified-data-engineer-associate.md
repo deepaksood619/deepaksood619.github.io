@@ -34,3 +34,9 @@ Date - Feb 2024
 - Amazon Managed Streaming for Apache Kafka (Amazon MSK)
 - Amazon OpenSearch Service
 - Amazon QuickSight
+
+## Links
+
+[Building Batch Data Analytics Solutions on AWS](https://aws.amazon.com/training/classroom/building-batch-data-analytics-solutions-on-aws/)
+
+[Exam Prep Official Practice Question Set: AWS Certified Data Engineer - Associate (DEA-C01 - English) | Self-paced digital training on AWS - AWS Skill Builder](https://explore.skillbuilder.aws/learn/course/external/view/elearning/16985/aws-certified-data-engineer-associate-official-practice-question-set-dea-c01-english)

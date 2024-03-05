@@ -142,6 +142,10 @@ How do certificates get validated?
 
 https://howhttps.works/certificate-authorities
 
+[GitHub - letsencrypt/boulder: An ACME-based certificate authority, written in Go.](https://github.com/letsencrypt/boulder)
+
+- This is an implementation of an ACME-based CA. The [ACME protocol](https://github.com/ietf-wg-acme/acme/) allows the CA to automatically verify that an applicant for a certificate actually controls an identifier, and allows domain holders to issue and revoke certificates for their domains. Boulder is the software that runs [Let's Encrypt](https://letsencrypt.org/).
+
 ## CSR (Certificate Signing Request)
 
 A CSR or Certificate Signing request is a block of encoded text that is given to a Certificate Authority when applying for an SSL Certificate. It is usually generated on the server where the certificate will be installed and contains information that will be included in the certificate such as the organization name, common name (domain name), locality, and country. It also contains the public key that will be included in the certificate. A private key is usually created at the same time that you create the CSR, making a key pair. A CSR is generally encoded using ASN.1 according to the PKCS #10 specification.

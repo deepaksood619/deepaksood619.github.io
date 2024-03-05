@@ -32,6 +32,8 @@
     - [Amazon Database Migration Service DMS](aws-database-migration-service-dms)
 - [AWS Rekognition](aws-rekognition)
 - [Amazon Pinpoint](amazon-pinpoint)
+- [Amazon Q (Preview)](https://aws.amazon.com/q/)
+   	- Your generative AI–powered assistant designed for work that can be tailored to your business
 - [Course - Architecting on AWS](cloud/aws/course-architecting-on-aws.md)
 - [Others](cloud/aws/others.md)
 
@@ -42,3 +44,5 @@
 [AWS Financial Services Competency Partners](https://aws.amazon.com/financial-services/partner-solutions/)
 
 [Top Architecture Blog Posts of 2023 | AWS Architecture Blog](https://aws.amazon.com/blogs/architecture/top-architecture-blog-posts-of-2023/)
+
+[Explore AWS Training and Certification Events](https://aws.amazon.com/training/events/)

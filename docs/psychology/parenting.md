@@ -143,3 +143,4 @@ Why kicking out children after 18 years is important, let's say you are very wea
 - [Why Is My Toddler Throwing Food on the Floor?](https://www.whattoexpect.com/toddler/behavior/food-throwing.aspx)
 - [10 month old, first week](https://www.babycentre.co.uk/s1001678/10-month-old-first-week)
 - [How to Drop From Two Naps to One](https://www.whattoexpect.com/first-year/ask-heidi/dropping-morning-nap.aspx)
+- [How to Potty Train Your Baby](https://www.whattoexpect.com/first-year/baby-care/potty-train-your-baby.aspx)

@@ -123,7 +123,7 @@ https://freefincal.com/why-i-partially-switched-from-icici-multi-asset-fund-to-i
 
 ## Funds
 
-### [Parag Parikh Dynamic Asset Allocation Fund](https://amc.ppfas.com/schemes/parag-parikh-dynamic-asset-allocation-fund/)
+### [Parag Parikh Dynamic Asset Allocation Fund](https://amc.ppfas.com/schemes/parag-parikh-dynamic-asset-allocation-fund/) (PPDAAF)
 
 | Type of Instruments                                                                             | Normal Allocation (% of Net Assets) | Risk Profile    |
 | ----------------------------------------------------------------------------------------------- | ----------------------------------- | --------------- |
@@ -131,7 +131,13 @@ https://freefincal.com/why-i-partially-switched-from-icici-multi-asset-fund-to-i
 | Debt securities & Money Market instruments including Units of Debt oriented mutual fund schemes | 0-100                               | Low to Moderate |
 The fund will predominantly invest in debt instruments and endeavour to maintain equity allocation between 35% and 65% (some of it will be hedged via approved derivative instruments as permitted by SEBI from time to time)
 
+It is a credible and tax-efficient* alternative to certain fixed income instruments (like bank fixed deposits), offering the scope to earn income along with the prospect of growth in Net Asset Value (NAV) when held for a reasonably long period.
+
+According to the CEO, this fund may be “ideal” for those desiring debt allocation with indexation benefits and those who avoid actively trading in debt securities.
+
 [Webinar to discuss the NFO of Parag Parikh Dynamic Asset Allocation Fund - YouTube](https://www.youtube.com/watch?v=iCVFUX9QUoc&ab_channel=PPFASMutualFund)
+
+[How does Parag Parikh Dynamic Asset Allocation Fund (PPDAAF) provide indexation benefit? CEO explains - The 1% News](https://news.onepercentclub.io/invest/how-does-parag-parikh-dynamic-asset-allocation-fund-ppdaaf-provide-indexation-benefit-ceo-explains/1064/)
 
 ## Links
 

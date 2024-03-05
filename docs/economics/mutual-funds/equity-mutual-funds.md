@@ -48,6 +48,8 @@ https://www.moneycontrol.com/mutual-funds/nav/hdfc-mid-cap-opportunities-fund-di
 
 SBI smallcap mutual fund - https://twitter.com/etmoney/status/1590690695408676865
 
+[Is it time to exit small cap mutual funds?](https://freefincal.com/is-it-time-to-exit-small-cap-mutual-funds/)
+
 ## Categories of actively managed equity mutual fund schemes
 
 - Largecap: At least 80% in largecap

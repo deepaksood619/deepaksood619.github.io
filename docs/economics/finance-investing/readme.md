@@ -6,6 +6,7 @@
 - [Personal Finance](economics/finance-investing/personal-finance.md)
 - [Checklist](economics/finance-investing/checklist-tips.md)
 - [Returns / Tax / Taxes / ITR](economics/finance-investing/returns-tax-taxes-itr.md)
+- [HUF / Private Trust](economics/finance-investing/huf-private-trust.md)
 - [Stocks / Equity](economics/finance-investing/stocks-equity.md)
 - [Industry Sectors](economics/finance-investing/industry-sectors.md)
 - [Quotes](economics/finance-investing/quotes.md)
