@@ -86,9 +86,27 @@ Problem with this structure is that to get a tweet corresponding to user, if wou
    	- The search API has a fairly rich set of operators that can filter results based on attributes like location of sender, language, and various popularity measurements. The streaming API has a more limited approach of only collecting tweets containing words, sent by specific accounts, or within a geographic area.
 - [Choosing a historical API | Docs | Twitter Developer Platform](https://developer.twitter.com/en/docs/tutorials/choosing-historical-api)
 
+### Authentication
+
+[Overview of the different authentication methods | Docs | Twitter Developer Platform](https://developer.twitter.com/en/docs/tutorials/authenticating-with-twitter-api-for-enterprise/authentication-method-overview)
+
+1. [HTTP Basic Authentication](https://developer.twitter.com/en/docs/tutorials/authenticating-with-twitter-api-for-enterprise/authentication-method-overview#http-basic-authentication)
+2. [OAuth 1.0a (user context)](https://developer.twitter.com/en/docs/tutorials/authenticating-with-twitter-api-for-enterprise/authentication-method-overview#oauth1.0a)
+3. [OAuth 2.0 Bearer Token (application-only)](https://developer.twitter.com/en/docs/tutorials/authenticating-with-twitter-api-for-enterprise/authentication-method-overview#oauth2.0)
+
+### Gotchas
+
+#### Authentication Error
+
+I have found the issue. I got this error because although I had the Twitter developer App, but it was a STANDALONE app without attaching to any projects.
+So, creating a project first and then link to the app is essential to use Twitter API v2.
+
+[When authenticating requests to the Twitter API v2 endpoints, you must use keys and tokens from a Twitter developer App that is attached to a Project · Issue #58 · twitterdev/Twitter-API-v2-sample-code · GitHub](https://github.com/twitterdev/Twitter-API-v2-sample-code/issues/58)
+
 ### Links
 
 - [GitHub - twitterdev/search-tweets-python at v2](https://github.com/twitterdev/search-tweets-python/tree/v2)
 - [Getting Started with the Twitter API | Docs | Twitter Developer Platform](https://developer.twitter.com/en/docs/twitter-api/getting-started/about-twitter-api)
 - https://www.labnol.org/twitter-bots-tutorial-4796
 - https://www.labnol.org/twitter-search-examples-203
+- [GitHub - twitterdev/Twitter-API-v2-sample-code: Sample code for the Twitter API v2 endpoints](https://github.com/twitterdev/Twitter-API-v2-sample-code)

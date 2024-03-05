@@ -172,4 +172,3 @@ https://www.adjust.com
 ### MixPanel
 
 Mixpanel helps you learn how people use your app with mobile & web analytics. Instead of tracking page views, you can measure and see how people are actually using your app by tracking actions.
-

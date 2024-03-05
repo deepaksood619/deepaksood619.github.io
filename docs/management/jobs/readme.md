@@ -60,6 +60,7 @@ In early career, taking bets vs random job hopping is critical
 - Angel list
 - Snaphunt
 - optimhire
+- [Propeller – Engineering Careers](https://startpropeller.com/)
 - Antal International Network
 - Hiration - LinkedIn, tech hiring platform for developers
 - [Weekday - Hire top engineers vouched by other techies](https://www.weekday.works/)

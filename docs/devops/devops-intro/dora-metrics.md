@@ -1,6 +1,6 @@
 # DORA Metrics
 
-The [DevOps Research and Assessment (DORA)](https://cloud.google.com/blog/products/devops-sre/the-2019-accelerate-state-of-devops-elite-performance-productivity-and-scaling) team has identified four key metrics that indicate the performance of a software development team: 
+The [DevOps Research and Assessment (DORA)](https://cloud.google.com/blog/products/devops-sre/the-2019-accelerate-state-of-devops-elite-performance-productivity-and-scaling) team has identified four key metrics that indicate the performance of a software development team:
 
 - **Deployment Frequency**—How often an organization successfully releases to production
 - **Lead Time for Changes**—The amount of time it takes a commit to get into production

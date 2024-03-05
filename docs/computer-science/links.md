@@ -323,5 +323,8 @@
 319. [The Busy Platform Engineers Guide to API Gateways in 4 Minutes • Daniel ...](https://youtu.be/d77eAYTAQ0U)
 320. [Cloud Native Spring in Action • Thomas Vitale & Josh Long • GOTO 2024](https://youtu.be/dz6RwoAzccM)
 321. [Expo in 100 Seconds](https://youtu.be/vFW_TxKLyrE)
+322. [Why Is My App SLOw? Defining Reliability in Platform Engineering • Jez Humble • YOW! 2023 - YouTube](https://www.youtube.com/watch?v=XhuiU0Kjvf0&ab_channel=GOTOConferences)
+323. [Organizational Sustainability with Platform Engineering • Lesley Cordero • YOW! 2023 - YouTube](https://www.youtube.com/watch?v=Jx-XrUONJ-o&ab_channel=GOTOConferences)
+324. [Layers of Leadership • Lee Campbell • YOW! 2023 - YouTube](https://www.youtube.com/watch?v=KDHyxnLdOqc&ab_channel=GOTOConferences)
 
 ## End

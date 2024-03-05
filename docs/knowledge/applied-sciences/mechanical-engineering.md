@@ -208,6 +208,12 @@ Isotropic refers to the properties of a material which is independent of the dir
 - [GitHub - Smoothieware/Smoothieware: Modular, opensource, high performance G-code interpreter and CNC controller written in Object-Oriented C++](https://github.com/Smoothieware/Smoothieware)
 - [start [smoothieware.org]](https://smoothieware.org/)
 
+### CNC
+
+CNC is **Computerised Numerical Control**. CNC is a control system that controls devices running on electronic digital computers.
+
+[CNC Full Form - Computerized Numerical Control](https://byjus.com/full-form/cnc-full-form/)
+
 ## Links
 
 - [How Things are Made - YouTube](https://www.youtube.com/playlist?list=PL7Znhz30kcyJacbogUbZyBk4N5jX_DDos)
