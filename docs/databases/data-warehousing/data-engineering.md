@@ -99,6 +99,10 @@
 - LM Studio
 - HuggingFace
 
+### SAAS
+
+- [iPaaS Solution for the Enterprise | SnapLogic](https://www.snaplogic.com/)
+
 ## Roadmaps
 
 - [Roadmap for Data Engineering 2023 | by Darshil Parmar | Medium](https://medium.com/@darshilp/roadmap-for-data-engineering-2023-13f62f85d866)

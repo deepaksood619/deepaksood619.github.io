@@ -135,6 +135,8 @@ It is a credible and tax-efficient* alternative to certain fixed income instrume
 
 According to the CEO, this fund may be “ideal” for those desiring debt allocation with indexation benefits and those who avoid actively trading in debt securities.
 
+Taxation - LTCG – If holding is more than 36 months) - Debt Fund (20% with Indexation benefit)
+
 [Webinar to discuss the NFO of Parag Parikh Dynamic Asset Allocation Fund - YouTube](https://www.youtube.com/watch?v=iCVFUX9QUoc&ab_channel=PPFASMutualFund)
 
 [How does Parag Parikh Dynamic Asset Allocation Fund (PPDAAF) provide indexation benefit? CEO explains - The 1% News](https://news.onepercentclub.io/invest/how-does-parag-parikh-dynamic-asset-allocation-fund-ppdaaf-provide-indexation-benefit-ceo-explains/1064/)

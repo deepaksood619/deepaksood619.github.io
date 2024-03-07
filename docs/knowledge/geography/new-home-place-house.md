@@ -87,6 +87,7 @@ https://zolostays.com/blog/cities-with-best-weather-in-india
 - Spending on healthcare
 - Taxes and generational tax / Property tax
 - Quality of life index for new home and multiple indexes
+- [The Economist Democracy Index - Wikipedia](https://en.wikipedia.org/wiki/The_Economist_Democracy_Index)
 
 ### New Home
 
@@ -341,19 +342,13 @@ A person feeding themselves a vegetarian diet would need about an acre of land a
 
 ## Real Estate / Realty Market
 
-[8 misconceptions about Delhi NCR properties - Reasons why you should invest in Real Estate.](https://www.linkedin.com/pulse/8-misconceptions-delhi-ncr-properties-reasons-why-you-chaudhary/)
-
-[Is Investing in Delhi Property Worth It? Uncovering the Pros and Cons](https://www.omaxe.com/blog/investing-in-delhi-property-pros-cons/)
-
-[Why Should You Buy Home If Rent Is Much Less Than Home Emi - YouTube](https://www.youtube.com/watch?v=tb_k4rqcWA8)
-
-[Buying A Flat? Things That Your Real Estate Agent Won't Tell You - YouTube](https://www.youtube.com/watch?v=aDwNj4NPxi0)
-
-[Things NO ONE Tells You About Owning a Flat in Mumbai - YouTube](https://www.youtube.com/watch?v=wMzUe71eKLM)
-
-[My Villa in GOA | Should you buy property in Goa? | Goa REAL ESTATE Market - YouTube](https://www.youtube.com/watch?v=0xmbMoXTk7o)
-
-[Best रियल एस्टेट investment? -- दुकान, घर, प्लॉट या कृषि भूमि? - YouTube](https://www.youtube.com/watch?v=1r67W4-rk_k)
+- [8 misconceptions about Delhi NCR properties - Reasons why you should invest in Real Estate.](https://www.linkedin.com/pulse/8-misconceptions-delhi-ncr-properties-reasons-why-you-chaudhary/)
+- [Is Investing in Delhi Property Worth It? Uncovering the Pros and Cons](https://www.omaxe.com/blog/investing-in-delhi-property-pros-cons/)
+- [Why Should You Buy Home If Rent Is Much Less Than Home Emi - YouTube](https://www.youtube.com/watch?v=tb_k4rqcWA8)
+- [Buying A Flat? Things That Your Real Estate Agent Won't Tell You - YouTube](https://www.youtube.com/watch?v=aDwNj4NPxi0)
+- [Things NO ONE Tells You About Owning a Flat in Mumbai - YouTube](https://www.youtube.com/watch?v=wMzUe71eKLM)
+- [My Villa in GOA | Should you buy property in Goa? | Goa REAL ESTATE Market - YouTube](https://www.youtube.com/watch?v=0xmbMoXTk7o)
+- [Best रियल एस्टेट investment? -- दुकान, घर, प्लॉट या कृषि भूमि? - YouTube](https://www.youtube.com/watch?v=1r67W4-rk_k)
 
 ![Largest Real Estate Players in India](../../media/largest-real-estate-players-in-india.png)
 

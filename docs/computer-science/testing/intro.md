@@ -96,3 +96,18 @@ https://copyconstruct.medium.com/testing-in-production-the-safe-way-18ca102d0ef1
 https://www.toptal.com/test-automation-engineer/automated-testing-best-practices
 
 [Investing in Unit Testing: Benefits and Approaches | Toptal](https://www.toptal.com/unit-testing/unit-testing-benefits)
+
+## Interview Questions
+
+- In test automation, we use both _assert_ and _verify_ commands. What is the difference between them and when are they used?
+- What is the difference between verification and validation?
+
+### Selenium
+
+- What is Page Object Model and Page Factory in Selenium?
+- How do you deal with frame elements in Selenium on a page?
+- What are some differences between CSS selector and XPath based locators?
+
+[33 Essential QA Interview Questions and Answers \[2024\] | Toptal®](https://www.toptal.com/qa/interview-questions)
+
+[24 Essential Selenium Interview Questions and Answers \[2024\] | Toptal®](https://www.toptal.com/selenium/interview-questions)
