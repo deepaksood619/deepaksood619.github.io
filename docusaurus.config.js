@@ -38,16 +38,16 @@ const config = {
     locales: ['en'],
   },
 
-  themes: [
-    [
-      require.resolve("@easyops-cn/docusaurus-search-local"),
-      ({
-        hashed: true,
-        docsRouteBasePath: '/',
-        highlightSearchTermsOnTargetPage: true,
-      }),
-    ],
-  ],
+  // themes: [
+  //   [
+  //     require.resolve("@easyops-cn/docusaurus-search-local"),
+  //     ({
+  //       hashed: true,
+  //       docsRouteBasePath: '/',
+  //       highlightSearchTermsOnTargetPage: true,
+  //     }),
+  //   ],
+  // ],
 
   scripts: [
     {
