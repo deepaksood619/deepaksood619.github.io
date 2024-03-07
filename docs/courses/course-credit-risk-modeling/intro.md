@@ -97,9 +97,11 @@ When the model fails to capture the underlying logic of the data
 - If one or few dummy variables representing one original independent variable are statistically significant, it would be best to retain all dummy variables that represent that original independent variable.
 - Conventionally, if a p-value is lower than 0.05, we conclude that the coefficient of a variable is statistically significant
 
+```python
 logistic_regression_model.predit
 
 logistic_regression_model.predit_proba
+```
 
 AUC curve , RoC curve
 
@@ -155,7 +157,7 @@ Setting a higher cut-off score for approval of credit applications will result i
 
 ## PSI (Population Stability Index) / CSI (Characteristics Stability Index)
 
-PSI and CSI, both of these metrics focus on the shift in thePOPULATION DISTRIBUTION.
+PSI and CSI, both of these metrics focus on the shift in the POPULATION DISTRIBUTION.
 
 These two monitoring metrics are based on the premise that a predictive model works best when the development and the validation/OOT (out of time) samples are not significantly different in terms of economic conditions, underlying assumptions, the campaign-style, and focus, etc.
 

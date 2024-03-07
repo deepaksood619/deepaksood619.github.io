@@ -34,6 +34,7 @@
 - [Amazon Pinpoint](amazon-pinpoint)
 - [Amazon Q (Preview)](https://aws.amazon.com/q/)
    	- Your generative AI–powered assistant designed for work that can be tailored to your business
+   	- [Supported connectors - Amazon Q](https://docs.aws.amazon.com/amazonq/latest/business-use-dg/connectors-list.html)
 - [Course - Architecting on AWS](cloud/aws/course-architecting-on-aws.md)
 - [Others](cloud/aws/others.md)
 

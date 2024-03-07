@@ -4,7 +4,7 @@
 
 [AWS-Certified-Data-Engineer-Associate\_Exam-Guide.pdf](https://d1.awsstatic.com/training-and-certification/docs-data-engineer-associate/AWS-Certified-Data-Engineer-Associate_Exam-Guide.pdf)
 
-Date - Feb 2024
+Date - Feb-March 2024
 
 - Implement data pipelines and to monitor, troubleshoot, and optimize cost and performance issues in accordance with best practices.
 - Ingest and transform data, and orchestrate data pipelines while applying programming concepts.

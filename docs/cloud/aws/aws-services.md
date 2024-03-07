@@ -15,7 +15,7 @@
 
 ## Management Tools
 
-1. Amazon CloudWatch
+### 1. Amazon CloudWatch
 
    Monitor Resources and Applications
 
@@ -41,21 +41,25 @@
    fields *@timestamp*, *@message* | filter *@message* like /(?i)(connect)/ # | filter @timestamp > 1668527666 | fields tomillis(*@timestamp*) as millis # | filter @millis < 1668566034 | parse *@message* ',*,*,' as @instance,@user | parse *@message* /(?<@ip>d{1,3}.d{1,3}.d{1,3}.d{1,3})/ | stats count() AS counter by @user | sort by @counter desc | limit 100
    ```
 
-2. AWS Auto Scaling - Scale Multiple Resources to Meet Demand
+### 2. AWS Auto Scaling
 
-3. AWS CloudFormation
+Scale Multiple Resources to Meet Demand
+
+### 3. AWS CloudFormation
 
    Create and Manage Resources with Templates
 
    AWS CloudFormation provides a common language for you to model and provision AWS and third party application resources in your cloud environment. AWS CloudFormation allows you to use programming languages or a simple text file to model and provision, in an automated and secure manner, all the resources needed for your applications across all regions and accounts. This gives you a single source of truth for your AWS and third party resources.
 
-4. AWS CloudTrail - Track User Activity and API Usage
-5. AWS Config - Track Resource Inventory and Changes
-6. AWS OpsWorks - Automate Operations with Chef and Puppet
-7. AWS Service Catalog - Create and Use Standardized Products
-8. AWS Systems Manager - Gain Operational Insights and Take Action
-9. AWS Trusted Advisor - Optimize Performance and Security
-10. AWS Personal Health Dashboard - Personalized View of AWS Service Health
+### Others
+
+1. AWS CloudTrail - Track User Activity and API Usage
+2. AWS Config - Track Resource Inventory and Changes
+3. AWS OpsWorks - Automate Operations with Chef and Puppet
+4. AWS Service Catalog - Create and Use Standardized Products
+5. AWS Systems Manager - Gain Operational Insights and Take Action
+6. AWS Trusted Advisor - Optimize Performance and Security
+7. AWS Personal Health Dashboard - Personalized View of AWS Service Health
 
 ## Media Services
 
