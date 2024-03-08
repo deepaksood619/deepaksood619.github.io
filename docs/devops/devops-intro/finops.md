@@ -1,6 +1,6 @@
 # FinOps
 
-FinOps (or cloud FinOps) is an evolving cloud financial management discipline and cultural practice that aims to maximize business value in hybrid and multicloud environments. 
+FinOps (or cloud FinOps) is an evolving cloud financial management discipline and cultural practice that aims to maximize business value in hybrid and multicloud environments.
 
 FinOps is a portmanteau of finance and [DevOps](https://www.ibm.com/topics/devops), emphasizing that IT, finance and business teams must collaborate to bring financial accountability to the cloud and make informed, data-driven decisions when managing tradeoffs between speed, cost and performance.1
 
