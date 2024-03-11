@@ -1,10 +1,10 @@
 # Market Terms
 
 - [IPO](economics/market-terms/ipo.md)
-- [Technical Analysis](economics/market-terms/technical-analysis)
-- [Technical Indicators](economics/market-terms/technical-indicators)
-- [Valuation Metrics](economics/market-terms/valuation-metrics)
-- [Futures / Options / Trading](economics/market-terms/futures-options-trading)
+- [Technical Analysis](economics/market-terms/technical-analysis.md)
+- [Technical Indicators](economics/market-terms/technical-indicators.md)
+- [Valuation Metrics](economics/market-terms/valuation-metrics.md)
+- [Futures / Options / Trading](economics/market-terms/futures-options-trading.md)
 - [Wyckoff Method](economics/market-terms/wyckoff-method.md)
 - [Others](economics/market-terms/others.md)
 

@@ -95,6 +95,7 @@
 - [GitHub - coqui-ai/TTS: 🐸💬 - a deep learning toolkit for Text-to-Speech, battle-tested in research and production](https://github.com/coqui-ai/TTS)
 - [GitHub - tensorchord/Awesome-LLMOps: An awesome & curated list of best LLMOps tools for developers](https://github.com/tensorchord/Awesome-LLMOps)
 - [AI Development Cloud Platform | Deploy & Manage AI Logic](https://mindsdb.com/)
+- [GitHub - microsoft/autogen: A programming framework for agentic AI. Join our Discord: https://discord.gg/pAbnFJrkgZ](https://github.com/microsoft/autogen)
 - [GitHub - comfyanonymous/ComfyUI: The most powerful and modular stable diffusion GUI, api and backend with a graph/nodes interface.](https://github.com/comfyanonymous/ComfyUI)
     - [How to install and use ComfyUI - Stable Diffusion. - YouTube](https://www.youtube.com/watch?v=KTPLOqAMR0s)
 

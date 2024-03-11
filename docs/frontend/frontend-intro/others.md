@@ -42,17 +42,12 @@ Back/forward cache (or bfcache) is a browser optimization that enables instant b
 
 ## Image Compression / Compress Image / Image Tools
 
-https://imgix.com
-
-[**https://squoosh.app/**](https://squoosh.app/)
-
-Birme - https://www.birme.net
-
-[TinyPNG – Compress WebP, PNG and JPEG images intelligently](https://tinypng.com/)
-
-[AI Image Upscaler - Enlarge & Enhance Your Photos for Free - Upscale.media](https://www.upscale.media/)
-
-[Image Resizer - Crop & Resize Image Online | RedKetchup](https://redketchup.io/image-resizer)
+- https://imgix.com
+- [**https://squoosh.app/**](https://squoosh.app/)
+- Birme - https://www.birme.net
+- [TinyPNG – Compress WebP, PNG and JPEG images intelligently](https://tinypng.com/)
+- [AI Image Upscaler - Enlarge & Enhance Your Photos for Free - Upscale.media](https://www.upscale.media/)
+- [Image Resizer - Crop & Resize Image Online | RedKetchup](https://redketchup.io/image-resizer)
 
 ```bash
 brew install imagemagick

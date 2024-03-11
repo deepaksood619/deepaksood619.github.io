@@ -148,6 +148,18 @@ REGULATIONS
 
 [Indian Institute of Banking & Finance (IIBF)](https://www.iibf.org.in/)
 
+## Compliance Officer
+
+A compliance officer ensures that an organisation adheres to regulatory requirements and internal policies. They assess and manage a company’s financial and legal risks by determining potential compliance issues and developing strategies to mitigate them.
+
+'Compliance officer’ and ‘compliance manager’ are often used interchangeably for this role. ‘Chief Compliance Officer’ (CCO) is a senior-level position in the field of compliance. They work in various industries, including finance, healthcare and manufacturing.
+
+The role of compliance officers is crucial for any company to ensure that the business operations are executed within the legal and ethical boundaries set by the government and industry regulations. Compliance officers also conduct audits and risk assessments to identify and alleviate compliance-associated risks. They also investigate and report any violations of laws or regulations to management and regulatory bodies.
+
+[Compliance Officer Job Description Template | LinkedIn Talent Solutions](https://business.linkedin.com/en-in/talent-solutions/resources/talent-acquisition/job-descriptions/compliance-officer)
+
+[Compliance Officer Job Description](https://www.indeed.com/hire/job-description/compliance-officer)
+
 ## Others
 
 - [Data Governance](ai/data-science/data-governance.md)

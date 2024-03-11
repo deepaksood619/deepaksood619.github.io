@@ -20,6 +20,8 @@ https://stackoverflow.com/questions/30001304/clone-git-repository-without-histor
 Clone all repo in organization - https://gist.github.com/potter0815/42dda83fa1709693be36
 ```
 
+[How a one line change decreased our clone times by 99% | by Pinterest Engineering | Pinterest Engineering Blog | Medium](https://medium.com/pinterest-engineering/how-a-one-line-change-decreased-our-build-times-by-99-b98453265370)
+
 ## Git add origin
 
 ```bash

@@ -51,3 +51,5 @@ Every material in a Montessori classroom supports an aspect of child development
 ## Others
 
 [Evidence-based education - Wikipedia](https://en.wikipedia.org/wiki/Evidence-based_education)
+
+[Financial Lessons Learned During and After a PhD](https://freefincal.com/financial-lessons-learned-during-and-after-a-phd/)

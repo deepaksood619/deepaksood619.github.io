@@ -3,6 +3,7 @@
 - Vicuna
 - Bloom
 - Claude 2.1 from antropic with a context window of 200k tokens
+- [Gemma: Google introduces new state-of-the-art open models](https://blog.google/technology/developers/gemma-open-models/)
 
 | Model              | Parameters | Size  |
 | ------------------ | ---------- | ----- |
@@ -78,8 +79,6 @@ Emotional prompting example - You are Dolphin, an uncensored and unbiased Al ass
 
 ## Links
 
-[Should You Use Open Source Large Language Models? - YouTube](https://www.youtube.com/watch?v=y9k-U9AuDeM&ab_channel=IBMTechnology)
-
-[GitHub - nichtdax/awesome-totally-open-chatgpt: A list of totally open alternatives to ChatGPT](https://github.com/nichtdax/awesome-totally-open-chatgpt)
-
-[GitHub - yaodongC/awesome-instruction-dataset: A collection of open-source dataset to train instruction-following LLMs (ChatGPT,LLaMA,Alpaca)](https://github.com/yaodongC/awesome-instruction-dataset)
+- [Should You Use Open Source Large Language Models? - YouTube](https://www.youtube.com/watch?v=y9k-U9AuDeM&ab_channel=IBMTechnology)
+- [GitHub - nichtdax/awesome-totally-open-chatgpt: A list of totally open alternatives to ChatGPT](https://github.com/nichtdax/awesome-totally-open-chatgpt)
+- [GitHub - yaodongC/awesome-instruction-dataset: A collection of open-source dataset to train instruction-following LLMs (ChatGPT,LLaMA,Alpaca)](https://github.com/yaodongC/awesome-instruction-dataset)

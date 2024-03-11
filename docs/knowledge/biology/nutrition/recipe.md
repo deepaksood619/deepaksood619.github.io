@@ -128,6 +128,13 @@ ex - 1 glass oats, 1.5 glass water
 Half glass creates 3/4th glass of cooked oats
 For 3 people use 1 glass oats
 
+### Pizza
+
+LG -
+
+- Grill - 1.5 min
+- Convection - after preheat - 170 degree for 12 mins
+
 ## Theoretical
 
 [I FINALLY understand the Maillard reaction - YouTube](https://www.youtube.com/watch?v=5lKzZc_OO7U&ab_channel=MinuteFood)

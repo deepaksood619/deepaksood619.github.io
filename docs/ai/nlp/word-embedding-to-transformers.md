@@ -661,3 +661,24 @@ Check out the following Github repository, this blog can also be found there as 
 [https://github.com/robinvetsch/Transformer_SQUAD](https://github.com/robinvetsch/Transformer_SQUAD).
 
 [NLP - From Word Embedding to Transformers | by Robin | Medium](https://medium.com/@RobinVetsch/nlp-from-word-embedding-to-transformers-76ae124e6281)
+
+## Others
+
+### Mamba
+
+#### Shortcomings of Transformers
+
+- Transformer models are widely used for language modeling tasks.
+- They suffer from a quadratic attention mechanism, which makes them slow for long sequences.
+- **The slowness of Transformers for long sequences limits their usefulness.**
+
+#### How Mamba is solving these problems
+
+- Mamba is a new model that uses an SSM architecture for linear-time scaling.
+- It is based on S4, a state space model, which can be discretized for use with text data.
+- Mamba can be used in two modes: RNN mode and CNN mode. RNN mode is better for inference while CNN mode is better for training.
+- Mamba introduces selectivity to the model by making the model parameters dependent on the input.
+
+Mamba is a linear-time language model that outperforms Transformers on various tasks. It achieves this speedup by using a combination of techniques including an SSM architecture and recurrent updates. Overall, the post explains how Mamba solves mostly long sequence limitations especially Transformer being computationally expensive to understand and model long sequences of user interactions.
+
+[Mamba: The Easy Way](https://jackcook.com/2024/02/23/mamba.html)
