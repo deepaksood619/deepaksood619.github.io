@@ -220,3 +220,7 @@ https://aws.amazon.com/blogs/big-data/whats-new-in-amazon-redshift-2021-a-year-i
 - Query Editor V2 with charts and jupyter notebooks
 
 [What’s new in Amazon Redshift – 2022, a year in review | Amazon Web Services](https://aws.amazon.com/blogs/big-data/whats-new-in-amazon-redshift-2022-a-year-in-review/)
+
+## Links
+
+- [Amazon Redshift for absolute beginners course - YouTube](https://www.youtube.com/watch?v=dmsuzIOzmIs&ab_channel=ETL-SQL)

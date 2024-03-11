@@ -5,6 +5,8 @@
 - Global debt and bond market - 250 trillion dollar
 - Global gold - 7 trillion dollar
 
+## Global Wealth
+
 - Total Global Wealth - $463.6 trillion
 - Owned by billionaires - ~$13 trillion (2755 billionaires)
 - Top 0.01% individuals - ~$51 trillion (11% of total wealth)
@@ -12,7 +14,8 @@
 - Broad money: $90 trillion (all the money circulating in the economy including physical money)
 - Crypto market cap: $852.45 billion
 
-- The precious metal: Gold
+## Gold
+
 - Market cap: $11.7 trillion
 - Above Ground Reservers: 205,238 tonnes (data as of end 2021)
 - Gold demand by purpose (2022)
@@ -40,7 +43,7 @@
 
 [What Countries Have the Largest Gold Reserves?](https://www.investopedia.com/ask/answers/040715/what-countries-have-largest-gold-reserves.asp)
 
-### Continent wise household wealth
+## Continent wise household wealth
 
 - North America - $158.1 trillion
 - Europe - $106.3 trillion

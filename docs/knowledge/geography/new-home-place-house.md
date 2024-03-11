@@ -87,6 +87,12 @@ https://zolostays.com/blog/cities-with-best-weather-in-india
 - Spending on healthcare
 - Taxes and generational tax / Property tax
 - Quality of life index for new home and multiple indexes
+- Total homicides, total crime index, total accidents
+- Public transport
+- Education
+- Climate & Environmental protection
+- Racism
+- Economics - Job Market, Home Prices
 - [The Economist Democracy Index - Wikipedia](https://en.wikipedia.org/wiki/The_Economist_Democracy_Index)
 
 ### New Home

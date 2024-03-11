@@ -6,6 +6,8 @@ An all-in-one Kubernetes stack using ArgoCD and Terraform as base components
 
 https://github.com/camptocamp/devops-stack
 
+![Kubernetes Tools Stack Wheel](../../media/Pasted%20image%2020240310093826.jpg)
+
 ## Tanka
 
 Grafana Tanka is the robust configuration utility for your [Kubernetes](https://kubernetes.io/) cluster, powered by the unique [Jsonnet](https://jsonnet.org/) language

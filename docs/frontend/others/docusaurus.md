@@ -91,6 +91,8 @@ themes: [
 
 ### Algolia
 
+[Run your own | DocSearch by Algolia](https://docsearch.algolia.com/docs/legacy/run-your-own/)
+
 ```json
 algolia: {
 	// The application ID provided by Algolia

@@ -89,6 +89,11 @@ To make good decisions, we generally need to do the following
 - The decision-making process can be very demanding, from a cognitive and an emotional perspective. Also, the act of making a decision is tiring in itself, since it depletes the cognitive resources
 - Being tired and sleep-deprived can make it more difficult for us to process information, and more likely for us to suffer from various cognitive biases that get in the way of making good decisions
 
+### Vocab
+
+- FOMO - Fear Of Missing Out
+- JOMO - Joy Of Missing Out
+
 ## Some people are naturally more indecisive than others
 
 There are a few personality traits that are found in indecisive individuals

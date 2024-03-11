@@ -26,7 +26,7 @@ P = D (E (P))- Key - Critical (secret) information used in cipher and known only
 - Cipher - Algorithm / Code used for transforming plain text to cipher text
 - Cryptanalysis (Code Breaking) - Study of method for transforming cipher text to plaintext without having knowledge of any key
 - Cryptology - Area of cryptography and cryptanalysis together is called as crytology
-- Protected health information (PHI) and Personally identifiable information (PII)- **Responsible disclosure**
+- Protected health information (PHI) and Personally identifiable information (PII) - **Responsible disclosure**
 
 ## What Principles are Important When You're Developing a Cipher?
 

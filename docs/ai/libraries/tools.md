@@ -120,19 +120,16 @@ https://www.cortex.dev
 
 ## Others
 
-Octave
-
-Torch (framework)
-
-Lua (Programming languague)
-
-Magenta
-
-https://explosion.ai/software
-
-https://web.superquery.io
-
-[Announcing New Tools for Building with Generative AI on AWS | AWS Machine Learning Blog](https://aws.amazon.com/blogs/machine-learning/announcing-new-tools-for-building-with-generative-ai-on-aws/)
+- Octave
+- Torch (framework)
+- Lua (Programming languague)
+- Magenta
+- https://explosion.ai/software
+- https://web.superquery.io
+- [Announcing New Tools for Building with Generative AI on AWS | AWS Machine Learning Blog](https://aws.amazon.com/blogs/machine-learning/announcing-new-tools-for-building-with-generative-ai-on-aws/)
+- [GitHub - google/jax: Composable transformations of Python+NumPy programs: differentiate, vectorize, JIT to GPU/TPU, and more](https://github.com/google/jax)
+   	- JAX is NumPy on the CPU, GPU, and TPU, with great automatic differentiation for high-performance machine learning research.
+   	- [JAX Quickstart — JAX documentation](https://jax.readthedocs.io/en/latest/notebooks/quickstart.html)
 
 ## Tools
 

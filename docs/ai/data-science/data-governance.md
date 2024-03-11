@@ -25,7 +25,7 @@ https://www.oreilly.com/content/data-governance-and-the-death-of-schema-on-read
 
 ### What is Sensitive Data?
 
-Personal Identifiable Information (PII), health information, intellectual property, financial information, education and legal records are all sensitive data.
+Personally Identifiable Information (PII), Protected health information (PHI), intellectual property, financial information, education and legal records are all sensitive data.
 
 Most countries have laws and regulations that require the protection of sensitive data. For example, the General Data Protection Regulation (GDPR) in the European Union sets stringent rules for data protection and privacy. Non-compliance with such regulations can result in hefty fines, legal actions, and sanctions against the violating entity.
 

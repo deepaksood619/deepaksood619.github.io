@@ -44,6 +44,17 @@ https://en.wikipedia.org/wiki/Minimum_acceptable_rate_of_return
 
 https://www.investopedia.com/terms/h/hurdlerate.asp
 
+### Weighted Average Cost of Capital (WACC)
+
+The weighted average cost of capital (WACC) is **the average rate that a business pays to finance its assets**. It is calculated by averaging the rate of all of the company's sources of capital (both debt and equity), weighted by the proportion of each component.
+
+- Weighted average cost of capital (WACC) represents a company's cost of capital, with each category of capital (debt and equity) proportionately weighted.
+- WACC can be calculated by multiplying the cost of each capital source by its relevant weight in terms of market value, then adding the results together to determine the total.
+- WACC is commonly used as a [hurdle rate](https://www.investopedia.com/terms/h/hurdlerate.asp) against which companies and investors can gauge the desirability of a given project or acquisition.
+- WACC is also used as the discount rate for future cash flows in discounted cash flow analysis.
+
+[Weighted Average Cost of Capital (WACC): Definition and Formula](https://www.investopedia.com/terms/w/wacc.asp)
+
 ### Negative working capital cycle
 
 When a business collects money at a faster rate than the time required to pay its bills

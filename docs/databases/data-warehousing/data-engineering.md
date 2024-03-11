@@ -98,6 +98,7 @@
 - Ollama
 - LM Studio
 - HuggingFace
+- Gemma
 
 ### SAAS
 

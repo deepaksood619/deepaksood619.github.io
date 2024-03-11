@@ -112,10 +112,8 @@ psychological manipulation of a person for one’s advantage-causing the person 
 
 ## Others
 
-[Why We Always Feel Bad and Guilty - YouTube](https://www.youtube.com/watch?v=71WImmxUPRo)
-
-[The Science Of Catching Up In Life - YouTube](https://www.youtube.com/watch?v=IOWelVx5CUw)
-
-[Why People become Criminals? | The Problem of Liberty | Dhruv Rathee - YouTube](https://www.youtube.com/watch?v=d0KuhikVnVs)
-
-[THE LAWS OF HUMAN NATURE (understanding this will change your life) - Robert Greene//book summary - YouTube](https://www.youtube.com/watch?v=R-iIQ0kQni0&ab_channel=LITTLEBITBETTER)
+- [Why We Always Feel Bad and Guilty - YouTube](https://www.youtube.com/watch?v=71WImmxUPRo)
+- [The Science Of Catching Up In Life - YouTube](https://www.youtube.com/watch?v=IOWelVx5CUw)
+- [Why People become Criminals? | The Problem of Liberty | Dhruv Rathee - YouTube](https://www.youtube.com/watch?v=d0KuhikVnVs)
+- [THE LAWS OF HUMAN NATURE (understanding this will change your life) - Robert Greene//book summary - YouTube](https://www.youtube.com/watch?v=R-iIQ0kQni0&ab_channel=LITTLEBITBETTER)
+- [The Dumber Side of Smart People · Collab Fund](https://collabfund.com/blog/the-dumber-side-of-smart-people/)

@@ -379,6 +379,10 @@ In this system, the tax is levied on the per unit price of the built-up area of 
 
 [What is Property Tax? - Types & Calculation](https://groww.in/p/tax/property-tax)
 
+## Nominee / Will
+
+[Nominee vs Legal Heir: Who is the true owner of a deceased person's assets? - The 1% News](https://news.onepercentclub.io/legal/nominee-vs-legal-heir-who-is-the-true-owner-of-a-deceased-persons-assets/2249/)
+
 ## Links
 
 [How To (LEGALLY) Never Pay Taxes - Do This Today - YouTube](https://www.youtube.com/watch?v=248o4zc9RmI)
