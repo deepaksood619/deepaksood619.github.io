@@ -48,6 +48,10 @@ https://github.com/nektos/act
 
 https://medium.com/nerd-for-tech/github-actions-self-hosted-runner-on-kubernetes-55d077520a31
 
+**Github Secrets**
+
+[Using secrets in GitHub Actions - GitHub Docs](https://docs.github.com/en/actions/security-guides/using-secrets-in-github-actions)
+
 ## Spinnaker
 
 https://www.spinnaker.io/concepts

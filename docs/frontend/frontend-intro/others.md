@@ -52,6 +52,8 @@ Back/forward cache (or bfcache) is a browser optimization that enables instant b
 ```bash
 brew install imagemagick
 
+mogrify -format jpg -quality 50% /path/to/folder/abc.png
+
 mogrify -format jpg /path/to/folder/*.png
 
 mogrify -format jpg -quality 20% *.png

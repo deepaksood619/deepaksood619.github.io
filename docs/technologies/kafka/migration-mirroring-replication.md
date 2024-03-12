@@ -99,3 +99,13 @@ To achieve the above transition, there are two important steps: (1) consumer off
 - [Learn about Confluent Cluster Linking | Hybrid and Multicloud Architecture - YouTube](https://www.youtube.com/watch?v=D8VeBdDg7xI&ab_channel=Confluent)
 - [Apache Kafka Migration: How to Migrate to Apache Kafka by Rafe Colburn (Etsy) - YouTube](https://www.youtube.com/watch?v=Q0eH9xhZUjg&ab_channel=DataCouncil)
 - [AWS re:Invent 2020: Guide to Apache Kafka replication and migration with Amazon MSK - YouTube](https://www.youtube.com/watch?v=CmcJb9Ge3jI&ab_channel=AWSEvents)
+
+## Scaling
+
+[Is there anyway to activate auto scaling or some form of auto scaling with Strimzi? · strimzi · Discussion #6635 · GitHub](https://github.com/orgs/strimzi/discussions/6635)
+
+Auto-scaling Kafka is complicated. It usually cannot be done just based on some CPU utilization etc.
+
+- If you want to scale consumers, you need to understand their consumer group membership and which topics are they consuming. Because the maximum number of replicas is for example limited with number of partitions from which they are consuming. You need to use tools such as for example [KEDA](https://keda.sh/) to autoscale them which have some additional logic to take these things into account.
+- If you want to auto-scale components such as Connect, Connectors, Bridge etc., Strimzi gives you the `scale` subresources to plug it into Kubernetes HPA and tools like KEDA. These are basically consumers and producers in a special packaging. So the same rules as described above apply for them.
+- For Kafka brokers, auto-scaling is complicated because of their architecture. Adding or removing brokers is simple. But directing some load to them is complicated because they are in a way form of data storage. And moving the whole partitions between brokers is expensive. The partitions often contain huge amounts of data which need to be shifted from one broker to another - that will take time, it will have a performance penalty on the other traffic and possibly cost even real money for the data transfers. Plus it still might not work because if your bottleneck is for example a topic with 5 partitions, it might not matter whether you have 5 or 10 brokers. So from my experience, only rarely autoscaling of Kafka brokers makes sense.

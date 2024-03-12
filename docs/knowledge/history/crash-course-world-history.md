@@ -231,3 +231,7 @@ Hinduism is highly flexible because God can take many forms
 [Crash Course World History #1](https://www.youtube.com/playlist?list=PLu1rATTEb5flTauK4qgdZ64mTGFBJiJqf)
 
 [World History 2](https://www.youtube.com/playlist?list=PL8dPuuaLjXtNjasccl-WajpONGX3zoY4M)
+
+## Links
+
+- [Carnation Revolution - Wikipedia](https://en.wikipedia.org/wiki/Carnation_Revolution)

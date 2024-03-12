@@ -10,6 +10,7 @@
     - [IAM](security-identity-compliance/iam)
     - [Tools](cloud/aws/security-identity-compliance/tools.md)
     - [Compliance](cloud/aws/security-identity-compliance/compliance.md)
+    - [Compliance MCQs](cloud/aws/security-identity-compliance/compliance-mcqs.md)
     - [License Scanning](cloud/aws/security-identity-compliance/license-scanning.md)
 - [Analytics](analytics/readme.md)
     - [Amazon Athena](analytics/amazon-athena)
@@ -47,8 +48,8 @@
 
 ### Others
 
-[AWS Financial Services Competency Partners](https://aws.amazon.com/financial-services/partner-solutions/)
-
-[Top Architecture Blog Posts of 2023 | AWS Architecture Blog](https://aws.amazon.com/blogs/architecture/top-architecture-blog-posts-of-2023/)
-
-[Explore AWS Training and Certification Events](https://aws.amazon.com/training/events/)
+- [AWS Financial Services Competency Partners](https://aws.amazon.com/financial-services/partner-solutions/)
+- [Top Architecture Blog Posts of 2023 | AWS Architecture Blog](https://aws.amazon.com/blogs/architecture/top-architecture-blog-posts-of-2023/)
+- [Explore AWS Training and Certification Events](https://aws.amazon.com/training/events/)
+- [Best AWS Services You Need To Know As A Data Engineer - How To Become A Data Engineer - YouTube](https://www.youtube.com/watch?v=XYZxufvwC14&ab_channel=SeattleDataGuy)
+- [5 crazy new AWS services just launched - YouTube](https://www.youtube.com/watch?v=ekPbZqPvCRA&ab_channel=Fireship)

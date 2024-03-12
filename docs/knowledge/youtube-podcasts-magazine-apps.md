@@ -89,7 +89,6 @@
 - The Royal Institution Lectures
 - Ted
 - Ted-Ed
-- Undecided with Matt Ferrell
 - Domain of Science
 - DW Documentary
 - B1M
@@ -140,8 +139,6 @@
 - Just have a think
 - [ZOE - YouTube](https://www.youtube.com/@joinZOE)
 - [The Engineering Mindset - YouTube](https://www.youtube.com/@EngineeringMindset)
-- Linus Tech Tips
-- Techquickie
 - Cleo Abram
 
 ### News
@@ -174,6 +171,13 @@
 - Diplomatic dispatch - sansad tv
 - The daily show with Trevor noah
 - Ravish Kumar Official
+
+### Tech
+
+- Linus Tech Tips
+- Techquickie
+- [TechAltar - YouTube](https://www.youtube.com/@TechAltar)
+- Undecided with Matt Ferrell
 
 ### Finance / Stocks / Personal finance
 
