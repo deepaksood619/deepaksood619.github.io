@@ -53,3 +53,5 @@ SWR has you covered in all aspects of speed, correctness, and stability to help 
 [next.js/examples/with-graphql-react at canary · vercel/next.js · GitHub](https://github.com/vercel/next.js/tree/canary/examples/with-graphql-react)
 
 [Introducing Next.js Commerce 2.0 – Vercel](https://vercel.com/blog/introducing-next-js-commerce-2-0)
+
+[Rendering: Server Components | Next.js](https://nextjs.org/docs/app/building-your-application/rendering/server-components)

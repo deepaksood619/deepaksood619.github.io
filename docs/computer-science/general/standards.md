@@ -89,6 +89,8 @@ The control characters in ASCII still in common use include:
 
 It does not make sense to have a string without knowing what encoding it uses.
 
+[There's No Such Thing As Plain Text • Dylan Beattie • YOW! 2023 - YouTube](https://www.youtube.com/watch?v=ajfb5LSbQVM&ab_channel=GOTOConferences)
+
 ## ISO/IEC 5218
 
 - 0 = Not known;

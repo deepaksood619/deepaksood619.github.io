@@ -326,5 +326,18 @@
 322. [Why Is My App SLOw? Defining Reliability in Platform Engineering • Jez Humble • YOW! 2023 - YouTube](https://www.youtube.com/watch?v=XhuiU0Kjvf0&ab_channel=GOTOConferences)
 323. [Organizational Sustainability with Platform Engineering • Lesley Cordero • YOW! 2023 - YouTube](https://www.youtube.com/watch?v=Jx-XrUONJ-o&ab_channel=GOTOConferences)
 324. [Layers of Leadership • Lee Campbell • YOW! 2023 - YouTube](https://www.youtube.com/watch?v=KDHyxnLdOqc&ab_channel=GOTOConferences)
+325. [Java In The Cloud with GraalVM • Alina Yurenko • GOTO 2023](https://youtu.be/1QeLcJN0QLc)
+326. [THE ENERGY PARADOX by Dr. Steven Gundry | Core Message](https://youtu.be/UVQ9_B3F1gw)
+327. [The Era of 1-bit LLMs by Microsoft | AI Paper Explained](https://youtu.be/ZpxQec_3t38)
+328. [From Microsoft to Amazon to CTO – Quincy Interviews Meme Queen Cassidoo ...](https://youtu.be/T-dzgrlgmm0)
+329. [Secure Container Images with Chainguard's Tooling in 1 Min. • Matt Turne...](https://youtu.be/bPKduy0wKdc)
+330. [The Many Faces of Identity • Radia Perlman • YOW! 2023](https://youtu.be/sr0ar56jGME)
+331. [What exactly is the HTTP protocol and how to write a new one from scratch?](https://youtu.be/SzwjnoPI--M)
+332. [Amazon Q - Your Expert for Building on AWS](https://youtu.be/JVEusf8l2bA)
+333. [One Rule to Rule Them All in 7 Minutes • Pragmatic Dave Thomas • GOTO 2023](https://youtu.be/c8AzqMr87gQ)
+334. [Why Most Data Projects Fail & How to Avoid It • Jesse Anderson • GOTO 2023](https://youtu.be/46nZvHJiCjc)
+335. [Stable Diffusion 3 - An Amazing AI For Free!](https://youtu.be/GiyGW1tCMOA)
+336. [Google Patches Linux kernel with 40% TCP performance](https://youtu.be/qo1FFNUVB-Q)
+337. [Elixir, Phoenix LiveView & Erlang: Expert Talk • Sophie DeBenedetto & An...](https://youtu.be/PhvDauhIyj0)
 
 ## End

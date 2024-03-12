@@ -50,6 +50,24 @@ Prompt: "I want to learn about `{insert topic}`. Identify and share the most imp
 
 I'm currently learning about snowflake. Ask me a series of 50 questions, one at a time, that will test my knowledge. Wait for my response before proceeding to the next question, ask the next question after your explanation of the answers. Identify knowledge gaps in my answers and give me better answers to fill those gaps. When finish show me the quantity of correct answers and the quantity of failed answers
 
+#### Create Test
+
+Create 30 MCQ (with 4 options each and 1 correct answer) for a finance intern for a 40 min test. The finance intern should have below skills
+
+- ﻿﻿Ability to decode RBI guidelines
+- ﻿﻿Proficiency in crafting easily understandable directives for tech teams
+- ﻿﻿Previous IT experience is a plus
+
+Questions should also focus on compliances, audits. Add 10 aptitude and logical reasoning questions. Add 5 data analytics using tables questions. Other 15 questions should be around - Certified banking compliance professional program.
+
+Make sure to
+
+1. don't mention finance intern anywhere
+2. questions should be direct and with medium difficulty, the given questions are very easy and novice
+3. Share all 30 questions
+
+Create 15 mcq questions (with 4 options each and 1 correct answer) around below topics
+
 ##### Presentation
 
 Create a presentation for presenting to top management of the company on title "Data Engineering". I as an owner to data engineering vertical working in service based company, have to tell the management about how we can create a Data Engineering vertical.
@@ -165,3 +183,4 @@ Knowledge based retrieval tool -
 - [The Art of Prompt Design: Use Clear Syntax | by Scott Lundberg | May, 2023 | Towards Data Science](https://towardsdatascience.com/the-art-of-prompt-design-use-clear-syntax-4fc846c1ebd5)
 - [Prompt Engineering - Google Slides](https://docs.google.com/presentation/d/1wNm1uQs5JnmnxR7es2pb4koEELZ9k_CeTdjvTa38cT8/edit?usp=sharing)
 - [Prompt Engineering Tutorial – Master ChatGPT and LLM Responses - YouTube](https://www.youtube.com/watch?v=_ZvnD73m40o)
+- [Advanced Prompt Engineering for Content Creators – Full Handbook](https://www.freecodecamp.org/news/advanced-prompt-engineering-handbook/)

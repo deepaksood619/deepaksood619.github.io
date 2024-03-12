@@ -16,6 +16,20 @@ I disapprove of what you say, but will defend to the death your right to say it.
 
 Democracy is not a noun but a verb, it something you do
 
+#### Links
+
+- [Is India becoming a DICTATORSHIP? | Chandigarh Elections | Farmers Protest | Dhruv Rathee - YouTube](https://www.youtube.com/watch?v=Y9253_M38Xk&ab_channel=DhruvRathee)
+- [Is Modi a dictator? | Dhruv Rathee vs The World - YouTube](https://www.youtube.com/watch?v=DnzM1cnRZPc&ab_channel=meghnerd)
+- [किसको चाहिए डिक्टेटर? कद्दू समझ रखा है? | Who wants Dictatorship in India?? - YouTube](https://www.youtube.com/watch?v=U68aORo533I&ab_channel=RavishKumarOfficial)
+- [The Age of The Strongman: How the Cult of the Leader Threatens Democracy around the World eBook : Rachman, Gideon](https://www.amazon.in/Age-Strongman-Leader-Threatens-Democracy-ebook/dp/B09HJZNQ5R)
+- [How Dictatorships Work: Power, Personalization, and Collapse, Geddes, Barbara, Wright, Joseph, Frantz, Erica](https://www.amazon.com/How-Dictatorships-Work-Personalization-Collapse/dp/1107115825#:~:text=Importantly%2C%20this%20book%20explains%20how,the%20rest%20of%20the%20world.)
+- [How to Be a Dictator: The Cult of Personality in the Twentieth Century : Dikötter, Frank](https://www.amazon.in/How-Be-Dictator-Personality-Twentieth/dp/1635573793)
+- [Illegitimate Authority: Facing the Challenges of Our Time](https://www.amazon.in/Illegitimate-Authority-Facing-Challenges-Time/dp/0241629942)
+- [Dictatorland: The Men Who Stole Africa](https://www.amazon.in/Dictatorland-Men-Who-Stole-Africa/dp/1784972134)
+- [Myth of the Strong Leader](https://www.amazon.in/Myth-Strong-Leader-Archie-Brown/dp/0099554852)
+- [The Origins of Totalitarian Democracy](https://www.amazon.in/Origins-Totalitarian-Democracy-Jacob-Talmon/dp/1013896661)
+- [The Origins of Totalitarianism (Penguin Modern Classics)](https://www.amazon.in/Origins-Totalitarianism-Penguin-Modern-Classics/dp/0241316758)
+
 ### Oligarchy
 
 a small group of people having control of a country or organization.

@@ -10,3 +10,5 @@
 - Biomass: renewable orgainic material that comes from plants and animals. This range from wood and leftover crops, to garbage and manure
 
 [Strychnine - Wikipedia](https://en.wikipedia.org/wiki/Strychnine)
+
+[Faraday paradox (electrochemistry) - Wikipedia](https://en.wikipedia.org/wiki/Faraday_paradox_(electrochemistry))

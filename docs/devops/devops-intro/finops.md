@@ -103,3 +103,5 @@ The FinOps Framework includes capabilities that cover everything from cost analy
 - [What is FinOps? | IBM](https://www.ibm.com/topics/finops)
 - [What is FinOps? - Microsoft Cost Management | Microsoft Learn](https://learn.microsoft.com/en-us/azure/cost-management-billing/finops/overview-finops)
 - [What Is FinOps? What You Need To Know In Under 10 Minutes](https://www.cloudzero.com/blog/finops/)
+- [FinOps Metrics & KPIs - YouTube](https://www.youtube.com/playlist?list=PLUSCToibAswl-IAcWZiN6pLhM5e_I35Z9)
+- [Cloud FinOps & Kubernetes Optimisation at Scale • Matt Callanan • YOW! 2023 - YouTube](https://www.youtube.com/watch?v=_F12WgQuTI8&ab_channel=GOTOConferences)

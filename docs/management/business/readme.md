@@ -120,12 +120,15 @@ To bait/expose customers to high cost - high margin products
 2. Consistency
 3. Not people dependent
 
+## Internet in a minute
+
+![Internet in a minute](../../media/Pasted%20image%2020240311225735.jpg)
+
+[What Happens in an Internet Minute? \[2024 Statistics\]](https://localiq.com/blog/what-happens-in-an-internet-minute/)
+
 ## Others
 
-https://marcellus.in/blogs/staying-on-the-top-of-everest-is-harder-than-getting-there
-
-https://marcellus.in/blogs/why-india-beats-china-hollow-on-consistent-compounding
-
-[Geopolitical Series](https://www.youtube.com/playlist?list=PLGwmAEmjn4fkd3IgCnFZSbocpTnka87Pn)
-
-https://www.freecodecamp.org/news/important-lessons-they-dont-teach-you-in-business-school
+- https://marcellus.in/blogs/staying-on-the-top-of-everest-is-harder-than-getting-there
+- https://marcellus.in/blogs/why-india-beats-china-hollow-on-consistent-compounding
+- [Geopolitical Series](https://www.youtube.com/playlist?list=PLGwmAEmjn4fkd3IgCnFZSbocpTnka87Pn)
+- https://www.freecodecamp.org/news/important-lessons-they-dont-teach-you-in-business-school

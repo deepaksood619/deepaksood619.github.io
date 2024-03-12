@@ -144,3 +144,7 @@ Why kicking out children after 18 years is important, let's say you are very wea
 - [10 month old, first week](https://www.babycentre.co.uk/s1001678/10-month-old-first-week)
 - [How to Drop From Two Naps to One](https://www.whattoexpect.com/first-year/ask-heidi/dropping-morning-nap.aspx)
 - [How to Potty Train Your Baby](https://www.whattoexpect.com/first-year/baby-care/potty-train-your-baby.aspx)
+- [When Do Babies Start Talking?](https://www.whattoexpect.com/first-year/first-words/)
+- [Nutritional Needs of Babies: the First 12 Months](https://www.whattoexpect.com/first-year/feeding-baby/nutritional-needs-of-babies/)
+- [When Do Babies Understand Directions and Commands?](https://www.whattoexpect.com/toddler/understand-directions/)
+- [Baby growth spurts | BabyCentre](https://www.babycentre.co.uk/a25012757/baby-growth-spurts)

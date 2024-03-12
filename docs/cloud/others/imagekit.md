@@ -25,6 +25,7 @@
 - [S3 Compatible External Storages - ImageKit.io Docs](https://docs.imagekit.io/integration/configure-origin/s3-compatible-external-storages)
 - [How it works? - ImageKit.io Docs](https://docs.imagekit.io/integration/how-it-works)
 - [Optimize and resize images in AWS S3 in real-time with ImageKit](https://imagekit.io/blog/image-optimization-resize-aws-s3-imagekit/)
+- [Client side file upload - ImageKit.io Docs](https://docs.imagekit.io/api-reference/upload-file-api/client-side-file-upload)
 
 #### Question - Imagekit vs AWS S3 for uploading images
 
