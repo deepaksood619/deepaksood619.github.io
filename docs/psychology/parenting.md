@@ -125,6 +125,24 @@ Attachment theory
 
 Why kicking out children after 18 years is important, let's say you are very wealthy and have a good house and all house help, why would children move out and work since everything is set in their home. They will just stay and spend lavishly, they will not know the pain and effort it takes to create that wealth and blunder it away.
 
+## Tape Diapers Vs Pant Style Diapers
+
+|                                 | Taped Diapers                                                                      | Diaper Pants                                                                                                   |
+| ------------------------------- | ---------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------- |
+| What is the appropriate age?    | 0-6 months (a baby that is calm)                                                   | 6 months (a baby on the move!)                                                                                 |
+| How is it worn?                 | With a baby lying down on its back, it is taped to the baby's waist for a snug fit | Can be pulled on like underpants for a standing baby, and has an elastic waistband for a snug fit at the tummy |
+| How is it removed?              | Pull off the tape at the waist                                                     | Tear them apart at the sides                                                                                   |
+| Are they highly absorbent?      | Yes                                                                                | Yes                                                                                                            |
+| Can they help in potty training | No                                                                                 | Yes                                                                                                            |
+| Do they come in various sizes?  | Yes, based on age in months                                                        | Yes, based on age and sizes (Small, Medium, etc.)                                                              |
+| Convenient for?                 | All day use at home and at bedtime for older babies                                | Travel; can easily be pulled on and off!                                                                       |
+
+[Taped Baby Diaper Vs Diaper Pants: How to Choose? – Pampers India](https://www.in.pampers.com/newborn-baby/care/article/taped-style-vs-pant-style-diapers)
+
+[Taped Diapers: Tape Diapers Vs Pant Style Diapers: Which suits infants better? | - Times of India (March, 2024)](https://timesofindia.indiatimes.com/hot-picks/tape-diapers-vs-pant-style-diapers-which-suits-infants-better/articleshow/107329905.cms)
+
+[Facts About Diapers - Which one is suitable for your baby: Tape diapers or Pant diapers?](https://babylove.co.th/en/diaper-tips/tape-or-pant-diapers)
+
 ## Links
 
 - [Colin Powell: Kids need structure | TED - YouTube](https://www.youtube.com/watch?v=NhYnouvrG_8&ab_channel=TED)
