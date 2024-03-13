@@ -4,7 +4,7 @@
 
 #### Question 1
 
-Which of the following is/are Money Market Instruments? 
+Which of the following is/are Money Market Instruments?
 
 1. Treasury Bills
 2. Commercial Papers
@@ -47,7 +47,7 @@ E. Develop IT Governance
 
 Choose the correct answer from the options given below:
 
-1. E, D, C, B, A 
+1. E, D, C, B, A
 2. C, B, A, D, E
 3. A, B, C, D, E
 4. B, A, E, C, D
@@ -59,7 +59,7 @@ Choose the correct answer from the options given below:
 If anyone fraudulently or dishonestly makes use of the electronic signature, password or any other unique identification feature of any other person then under which section of IT Act 2000, punishment shall be given?
 
 1. Section 63
-2. Section 66B 
+2. Section 66B
 3. Section 66C
 4. Section 67B
 
@@ -78,7 +78,7 @@ The Foreign Exchange Regulation Act was replaced by the in India.
 
 #### Question 7
 
-A paper instructing the bank to pay a specific amount from a person's account to another person in whose name it has been issued is known as: 
+A paper instructing the bank to pay a specific amount from a person's account to another person in whose name it has been issued is known as:
 
 1. cash
 2. cheque
@@ -125,7 +125,7 @@ Under which section of Information Technology Act of 2000, updated in 2008, stea
 If anyone fraudulently or dishonestly makes use of the electronic signature, password or any other unique identification feature of any other person then under which section of IT Act 2000, punishment shall be given?
 
 1. Section 63
-2. Section 66B 
+2. Section 66B
 3. Section 66C
 4. Section 67B
 
@@ -143,7 +143,7 @@ E. Develop IT Governance
 
 Choose the correct answer from the options given below:
 
-1. E, D, C, B, A 
+1. E, D, C, B, A
 2. C, B, A, D, E
 3. A, B, C, D, E
 4. B, A, E, C, D
@@ -163,22 +163,22 @@ What is the relationship between demand and price?
 
 #### Question 14
 
-Which of the following issues are addressed by the Information Technology Act. 2000? 
+Which of the following issues are addressed by the Information Technology Act. 2000?
 
-(A) Legal recognition of electronic documents 
-(B) Redressal of grievances 
-(C) Offenses and contraventions 
-(D) Disputes settlements 
-(E) Justice dispensation system for cyber crimes 
+(A) Legal recognition of electronic documents
+(B) Redressal of grievances
+(C) Offenses and contraventions
+(D) Disputes settlements
+(E) Justice dispensation system for cyber crimes
 
-Choose the correct answer from the options given below: 
+Choose the correct answer from the options given below:
 
-1. (A), (C), (D) Only 
-2. (C), (D), (E) Only 
-3. (B), (D). (E) Only 
-4. (A), (C), (E) Only 
+1. (A), (C), (D) Only
+2. (C), (D), (E) Only
+3. (B), (D). (E) Only
+4. (A), (C), (E) Only
 
-**Answer** - Option 4 : (A), (C), (E) Only 
+**Answer** - Option 4 : (A), (C), (E) Only
 
 #### Question 15
 
@@ -195,54 +195,54 @@ A cheque returned by bank marked "NSF" means that
 
 ALM Concept primarily deals with:
 
-A) Asset Liquidation Management  
-B) Asset Liability Management  
-C) Asset Liability Mismatch  
+A) Asset Liquidation Management
+B) Asset Liability Management
+C) Asset Liability Mismatch
 D) Asset Leverage Management
 
 **Correct Answer:** B) Asset Liability Management
 
 #### Question 17
 
-What method is commonly used for estimating capital requirements in credit risk management?  
+What method is commonly used for estimating capital requirements in credit risk management?
 
-A) Linear regression analysis  
-B) Credit scoring  
-C) Monte Carlo simulation  
-D) GARCH modeling  
+A) Linear regression analysis
+B) Credit scoring
+C) Monte Carlo simulation
+D) GARCH modeling
 
 **Correct Answer:** B) Credit scoring
 
 #### Question 18
 
-Which regulatory framework introduced the concept of Stress Test and Sensitivity Analysis?  
+Which regulatory framework introduced the concept of Stress Test and Sensitivity Analysis?
 
-A) Basel-I  
-B) Basel-II  
-C) Basel-III  
-D) Dodd-Frank Act  
+A) Basel-I
+B) Basel-II
+C) Basel-III
+D) Dodd-Frank Act
 
 **Correct Answer:** C) Basel-III
 
 #### Question 19
 
-Which regulatory authority is responsible for overseeing compliance in the banking industry?  
+Which regulatory authority is responsible for overseeing compliance in the banking industry?
 
-A) SEC  
-B) SEBI  
-C) RBI  
-D) IMF 
+A) SEC
+B) SEBI
+C) RBI
+D) IMF
 
 **Correct Answer:** C) RBI
 
 #### Question 20
 
-What do FEMA regulations primarily govern in the banking industry?  
+What do FEMA regulations primarily govern in the banking industry?
 
-A) Foreign exchange transactions  
-B) Domestic lending rates  
-C) Customer service standards  
-D) Internal audit procedures  
+A) Foreign exchange transactions
+B) Domestic lending rates
+C) Customer service standards
+D) Internal audit procedures
 
 **Correct Answer:** A) Foreign exchange transactions
 
@@ -270,13 +270,37 @@ If all Bloops are Razzies and all Razzies are Lazzies, then all Bloops are defin
 
 **Correct Answer:** A) Deductive reasoning
 
+#### Question
+
+A robber received one third of a loot as his share. He spent Rs.288 on food and drinks and then donated half of the remained share to a temple. The balance left with him was 1/24th of the total loot. The robber's share was
+
+1. 3,456
+2. 1,152
+3. 384
+4. 864
+
+**Correct Answer:** 3
+
+#### Question
+
+Water is pouring into a tank at a constant rate. When the tank is full, 10 pumps of equal capacity empty the tank in 12 hrs, while 15 pumps of the same capacity empty the tank in 6 hrs. The time which 35 pumps of the same capacity take to empty the tank, if the tank is initially full, will be : (All the pipes pouring water into the tank are always open)
+
+1. 3.0
+2. 2.0
+3. 4.0
+4. 3.5
+
+**Correct Answer:** 2
+
+[Aptitude Question Bank](https://docs.google.com/spreadsheets/d/1iap0smKltoGDfr8kDj6dM__jh53Ng3HJ/edit#gid=144102656)
+
 ### Data Interpretation
 
 #### Question
 
 The following line graph gives the percentage of the number of candidates who qualified an examination out of the total number of candidates who appeared for the examination over a period of seven years from 1994 to 2000.
 
-![](media/Screenshot%202024-03-12%20at%204.39.14%20PM.jpg)
+![Data Interpretation Question](../../../media/Screenshot%202024-03-12%20at%204.39.14%20PM.jpg)
 
 #### Question 1
 

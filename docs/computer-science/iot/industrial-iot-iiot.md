@@ -88,3 +88,5 @@ The 6LoWPAN group has defined encapsulation and header compression mechanisms th
 Industrial Internet - DZone Guide
 
 Industrial Internet Reference Architecture
+
+[A Technical Exploration of IoT's Impact on Manufacturing](https://www.linkedin.com/pulse/technical-exploration-iots-impact-manufacturing-ankush-rana-obuac/)
