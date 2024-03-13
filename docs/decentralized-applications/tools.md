@@ -8,6 +8,7 @@ The future of decentralized finance lies in the hands of those who dare to chall
 
 - https://coinmarketcap.com
 - [Ethereum (ETH) Blockchain Explorer](https://etherscan.io/)
+- [Ethernow - Ethereum Transaction Explorer](https://www.ethernow.xyz/)
 - https://www.coingecko.com/en
 - https://www.intotheblock.com
 - https://interest.coinmarketcap.com (Earn crypto from crypto)

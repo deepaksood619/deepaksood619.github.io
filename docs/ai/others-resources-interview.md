@@ -282,3 +282,4 @@ https://towardsdatascience.com/how-to-build-a-real-time-fraud-detection-pipeline
 - [Understand ANY Machine Learning Model - YouTube](https://www.youtube.com/watch?v=IqT551LjKHw)
 - [9.5 Shapley Values | Interpretable Machine Learning](https://christophm.github.io/interpretable-ml-book/shapley.html#the-shapley-value-in-detail)
 - [It's All About AI • Martin Förtsch, Thomas Endres & Jonas Mayer • YOW! 2022 - YouTube](https://www.youtube.com/watch?v=krihq4iSaO0)
+- [The State of Competitive Machine Learning | ML Contests](https://mlcontests.com/state-of-competitive-machine-learning-2023/)

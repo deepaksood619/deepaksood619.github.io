@@ -262,8 +262,10 @@ https://365datascience.teachable.com/courses/enrolled/233558
 
 [Google Sheets - Full Course](https://www.youtube.com/watch?v=N2opj8XzYBY&ab_channel=freeCodeCamp.org)
 
-- `=GOOGLEFINANCE("GOOGL")`
-- `=image("https://image.jpg")`
+- =GOOGLEFINANCE("GOOGL")
+- =GOOGLEFINANCE("BTCUSD")
+- =GOOGLEFINANCE("CURRENCY:USDINR")
+- =image("https://image.jpg")
 
 ## Google Drive
 

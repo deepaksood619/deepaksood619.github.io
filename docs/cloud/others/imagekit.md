@@ -149,6 +149,19 @@ If you update the time stamp on your URL to the one on newer version, you skip t
 
 ## Signed URLs
 
+A signed URL is a secure URL that can be generated only by you using your [account's private key](https://docs.imagekit.io/api-reference/api-introduction/api-keys#private-key). There are certain use cases where you will need to use signed URLs:
+
+- You have turned on the "[Restrict unsigned URLs](https://docs.imagekit.io/features/security#restricting-unsigned-urls)" setting from the dashboard.
+- You watermark all your images using ImageKit.io parameters to protect original assets. You do not want anyone to access the original image by removing the [watermark specific transformation](https://docs.imagekit.io/features/image-transformations/overlay#image-overlay) from the image URL.​
+- You want certain image URLs in your application to be accessible only for a specific time period in the future.
+- You are trying to access a [private image](https://docs.imagekit.io/features/security/private-images).
+
+```bash
+A signed URL would be similar to
+
+https://ik.imagekit.io/your_imagekit_id/path-to-image.jpg?ik-s=`generatedURLsignature`&ik-t=`UTCtimestamp`
+```
+
 [5 ways to secure your website images with ImageKit](https://imagekit.io/blog/secure-website-images-with-imagekit/)
 
 [Signed URLs - ImageKit.io Docs](https://docs.imagekit.io/features/security/signed-urls)
