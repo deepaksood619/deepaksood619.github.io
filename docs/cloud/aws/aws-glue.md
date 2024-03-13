@@ -244,4 +244,5 @@ https://thedataguy.in/aws-glue-custom-output-file-size-and-fixed-number-of-files
 
 ## Links
 
-[New AWS Glue 4.0 – New and Updated Engines, More Data Formats, and More | AWS News Blog](https://aws.amazon.com/blogs/aws/new-aws-glue-4-0-new-and-updated-engines-more-data-formats-and-more/)
+- [New AWS Glue 4.0 – New and Updated Engines, More Data Formats, and More | AWS News Blog](https://aws.amazon.com/blogs/aws/new-aws-glue-4-0-new-and-updated-engines-more-data-formats-and-more/)
+- [Getting started with AWS Glue Data Quality from the AWS Glue Data Catalog | AWS Big Data Blog](https://aws.amazon.com/blogs/big-data/getting-started-with-aws-glue-data-quality-from-the-aws-glue-data-catalog/)

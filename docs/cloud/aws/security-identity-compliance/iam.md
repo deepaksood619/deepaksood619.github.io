@@ -56,7 +56,7 @@ AWS Identity and Access Management (IAM) enables you to manage access to AWS ser
 
 ![image](../../../media/Cloud-AWS-IAM-image1.jpg)
 
-- ![image](../../../media/Cloud-AWS-IAM-image2.jpg)
+![image](../../../media/Cloud-AWS-IAM-image2.jpg)
 
 ## Policy types and how they work together
 
@@ -65,14 +65,16 @@ AWS Identity and Access Management (IAM) enables you to manage access to AWS ser
 
 Guardrails to disable service access on the principals in the account
 
-- Service Control Policies (SCPs)
+### Service Control Policies (SCPs)
 
-- AWS Identity and Access Management (IAM)
+Service control policies (SCPs) are a type of organization policy that you can use to manage permissions in your organization. SCPs offer central control over the maximum available permissions for all accounts in your organization. SCPs help you to ensure your accounts stay within your organization’s access control guidelines.
 
-Grant granular permissions on IAM principals (users and roles) and control the maximum persmission they can set
+### AWS Identity and Access Management (IAM)
+
+Grant granular permissions on IAM principals (users and roles) and control the maximum permission they can set
 
 - As Permission Policies and Permission Boundaries
-- Permission Boundaries
+### Permission Boundaries
 
 Scale and delegate permission management to developers safely. Contol the maximum permissions employees can grant
 
@@ -83,39 +85,37 @@ Scale and delegate permission management to developers safely. Contol the maximu
 Reduce general shared permissions further
 
 - Scoped-down policies
-
 - Specific AWS services
 
 Cross-account access and to control access from the resource
 
 - Resource-based policies
-
 - VPC Endpoints
 
 Controls access to the service with a VPC endpoint
 
 - Endpoint Policies
 
-- ![image](../../../media/Cloud-AWS-IAM-image4.jpg)
-
-![image](../../../media/Cloud-AWS-IAM-image5.jpg)
+![image](../../../media/Cloud-AWS-IAM-image4.jpg)
 
 ## Policies
 
-- [AWS Managed Policies](https://docs.aws.amazon.com/IAM/latest/UserGuide/access_policies_managed-vs-inline.html#aws-managed-policies)
-    - FullAccess
-    - PowerUser
-    - WriteOnly
-    - ReadOnly
-    - One particularly useful category of AWS managed policies are those designed for job functions. These policies align closely to commonly used job functions in the IT industry. The intent is to make granting permissions for these common job functions easy. One key advantage of using job function policies is that they are maintained and updated by AWS as new services and API operations are introduced. For example, the [AdministratorAccess](https://console.aws.amazon.com/iam/home#policies/arn:aws:iam::aws:policy/AdministratorAccess) job function provides full access and permissions delegation to every service and resource in AWS. We recommend that this policy is used only for the account administrator. For power users that require full access to every service except limited access to IAM and Organizations, use the [PowerUserAccess](https://console.aws.amazon.com/iam/home#policies/arn:aws:iam::aws:policy/PowerUserAccess) job function.
+### [AWS Managed Policies](https://docs.aws.amazon.com/IAM/latest/UserGuide/access_policies_managed-vs-inline.html#aws-managed-policies)
 
-- [Customer Managed Policies](https://docs.aws.amazon.com/IAM/latest/UserGuide/access_policies_managed-vs-inline.html#customer-managed-policies)
+- FullAccess
+- PowerUser
+- WriteOnly
+- ReadOnly
 
-You can create standalone policies that you administer in your own AWS account, which we refer to as*customer managed policies*. You can then attach the policies to multiple principal entities in your AWS account. When you attach a policy to a principal entity, you give the entity the permissions that are defined in the policy.
+One particularly useful category of AWS managed policies are those designed for job functions. These policies align closely to commonly used job functions in the IT industry. The intent is to make granting permissions for these common job functions easy. One key advantage of using job function policies is that they are maintained and updated by AWS as new services and API operations are introduced. For example, the [AdministratorAccess](https://console.aws.amazon.com/iam/home#policies/arn:aws:iam::aws:policy/AdministratorAccess) job function provides full access and permissions delegation to every service and resource in AWS. We recommend that this policy is used only for the account administrator. For power users that require full access to every service except limited access to IAM and Organizations, use the [PowerUserAccess](https://console.aws.amazon.com/iam/home#policies/arn:aws:iam::aws:policy/PowerUserAccess) job function.
+
+### [Customer Managed Policies](https://docs.aws.amazon.com/IAM/latest/UserGuide/access_policies_managed-vs-inline.html#customer-managed-policies)
+
+You can create standalone policies that you administer in your own AWS account, which we refer to as *customer managed policies*. You can then attach the policies to multiple principal entities in your AWS account. When you attach a policy to a principal entity, you give the entity the permissions that are defined in the policy.
 
 A great way to create a customer managed policy is to start by copying an existing AWS managed policy. That way you know that the policy is correct at the beginning and all you need to do is customize it to your environment.
 
-- [Inline Policies](https://docs.aws.amazon.com/IAM/latest/UserGuide/access_policies_managed-vs-inline.html#inline-policies)
+### [Inline Policies](https://docs.aws.amazon.com/IAM/latest/UserGuide/access_policies_managed-vs-inline.html#inline-policies)
 
 An inline policy is a policy that's embedded in an IAM identity (a user, group, or role). That is, the policy is an inherent part of the identity. You can create a policy and embed it in a identity, either when you create the identity or later.
 
@@ -206,6 +206,20 @@ PIM and PAM address how companies manage who can access a company’s most criti
 - Determines how to validate user identities, provide secure access to resources, and provision just-in-time escalated access for users that would not normally have access
 
 [PIM vs. PAM Security: Understanding the Difference | StrongDM](https://www.strongdm.com/blog/pim-vs-pam)
+
+## AWS Organizations
+
+With AWS Organizations, you can consolidate multiple AWS accounts into an organization that you create and centrally manage. You can create member accounts and invite existing accounts to join your organization. You can organize those accounts and manage them as a group. With AWS Account Management you can update the alternate contact information for each of your AWS accounts.
+
+[docs.aws.amazon.com/organizations/](https://docs.aws.amazon.com/organizations/)
+
+## AWS Control Tower
+
+Set up and govern a secure, multi-account AWS environment
+
+Use AWS Control Tower to set up and operate your multi-account AWS environment with prescriptive controls designed to accelerate your cloud journey.  AWS Control Tower orchestrates multiple AWS services on your behalf while maintaining the security and compliance needs of your new or existing organization.
+
+[AWS Control Tower](https://aws.amazon.com/controltower/)
 
 ## Others
 
