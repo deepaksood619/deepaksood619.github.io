@@ -3,6 +3,7 @@
 - [Intro](devops/devops-intro/intro.md)
 - [Concepts](devops/devops-intro/concepts.md)
 - [GitOps](devops/devops-intro/gitops.md)
+- [FinOps](devops/devops-intro/finops.md)
 - [SRE (Site Reliability Engineering)](devops/devops-intro/sre-site-reliability-engineering.md)
 - [DORA Metrics](devops/devops-intro/dora-metrics.md)
 - [Application Management](devops/devops-intro/application-management.md)

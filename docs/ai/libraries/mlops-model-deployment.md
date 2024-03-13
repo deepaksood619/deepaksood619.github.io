@@ -96,6 +96,11 @@ To note a few features:
 
 [MLOps Course - Made With ML](https://madewithml.com/courses/mlops/)
 
+**[GitHub - DataTalksClub/mlops-zoomcamp: Free MLOps course from DataTalks.Club](https://github.com/DataTalksClub/mlops-zoomcamp)**
+
+- [MLOps Zoomcamp - YouTube](https://www.youtube.com/playlist?list=PL3MmuxUbc_hIUISrluw_A7wDSmfOhErJK)
+- [MLOps Zoomcamp – DataTalks.Club](https://datatalks.club/blog/mlops-zoomcamp.html)
+
 ### Profiles
 
 - [Machine Learning Engineer Job Description Jan 2024 | Toptal](https://www.toptal.com/machine-learning/job-description)
@@ -111,4 +116,3 @@ To note a few features:
 - [GitHub - visenger/awesome-mlops: A curated list of references for MLOps](https://github.com/visenger/awesome-mlops)
 - [GitHub - kelvins/awesome-mlops: :sunglasses: A curated list of awesome MLOps tools](https://github.com/kelvins/awesome-mlops)
 - [10 Awesome Resources for Learning MLOps | DataCamp](https://www.datacamp.com/blog/10-awesome-resources-for-learning-mlops)
--

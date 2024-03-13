@@ -63,6 +63,7 @@
 - freecodecamp
 - PyCon
 - [Fireship - YouTube](https://www.youtube.com/@Fireship)
+- [DataTalksClub ⬛ - YouTube](https://www.youtube.com/c/DataTalksClub)
 
 ### Math
 
