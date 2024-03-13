@@ -106,8 +106,9 @@ DynamoDB does not natively support materialized or virtual views. However, custo
 
 Furthermore, AWS encourages the use of DynamoDB as a materialized view for relational systems.
 
-https://dbdb.io/db/dynamodb
+## Links
 
-https://medium.com/expedia-group-tech/dynamodb-data-modeling-c4b02729ac08
-
-https://aws.amazon.com/about-aws/whats-new/2021/05/learn-how-to-develop-applications-with-amazon-dynamodb
+- https://dbdb.io/db/dynamodb
+- https://medium.com/expedia-group-tech/dynamodb-data-modeling-c4b02729ac08
+- https://aws.amazon.com/about-aws/whats-new/2021/05/learn-how-to-develop-applications-with-amazon-dynamodb
+- [A Deep Dive into Amazon DynamoDB Architecture](https://blog.bytebytego.com/p/a-deep-dive-into-amazon-dynamodb)

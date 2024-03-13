@@ -48,7 +48,9 @@ https://github.com/google/cadvisor
 
 ## Zabbix
 
-Zabbix is an open source monitoring software tool for diverse IT components, including networks, servers, virtual machines (VMs) and cloud services. Zabbix provides monitoring metrics, among others network utilization, CPU load and disk space consumption. Zabbix monitoring configuration can be done using XML based templates which contains elements to monitor. The software monitors operations on Linux, Hewlett Packard Unix (HP-UX), Mac OS X, Solaris and other operating systems (OSes); however, Windows monitoring is only possible through agents. Zabbix can use [MySQL](https://en.wikipedia.org/wiki/MySQL), [MariaDB](https://en.wikipedia.org/wiki/MariaDB), [PostgreSQL](https://en.wikipedia.org/wiki/PostgreSQL), [SQLite](https://en.wikipedia.org/wiki/SQLite), [Oracle](https://en.wikipedia.org/wiki/Oracle_database) or [IBM DB2](https://en.wikipedia.org/wiki/IBM_DB2) to store data. Its backend is written in [C](https://en.wikipedia.org/wiki/C_(programming_language)) and the web frontend is written in [PHP](https://en.wikipedia.org/wiki/PHP). Zabbix offers several monitoring options:
+Zabbix is an open source monitoring software tool for diverse IT components, including networks, servers, virtual machines (VMs) and cloud services. Zabbix provides monitoring metrics, among others network utilization, CPU load and disk space consumption. Zabbix monitoring configuration can be done using XML based templates which contains elements to monitor. The software monitors operations on Linux, Hewlett Packard Unix (HP-UX), Mac OS X, Solaris and other operating systems (OSes); however, Windows monitoring is only possible through agents. Zabbix can use [MySQL](https://en.wikipedia.org/wiki/MySQL), [MariaDB](https://en.wikipedia.org/wiki/MariaDB), [PostgreSQL](https://en.wikipedia.org/wiki/PostgreSQL), [SQLite](https://en.wikipedia.org/wiki/SQLite), [Oracle](https://en.wikipedia.org/wiki/Oracle_database) or [IBM DB2](https://en.wikipedia.org/wiki/IBM_DB2) to store data. Its backend is written in [C](https://en.wikipedia.org/wiki/C_(programming_language)) and the web frontend is written in [PHP](https://en.wikipedia.org/wiki/PHP).
+
+Zabbix offers several monitoring options:
 
 - Simple checks can verify the availability and responsiveness of standard services such as SMTP or HTTP without installing any software on the monitored host.
 - A Zabbix [agent](https://en.wikipedia.org/wiki/Software_agent) can also be installed on UNIX and Windows hosts to monitor statistics such as CPU load, network utilization, disk space, etc.
@@ -57,6 +59,10 @@ Zabbix is an open source monitoring software tool for diverse IT components, inc
 https://en.wikipedia.org/wiki/Zabbix
 
 https://www.zabbix.com
+
+### Creating custom dashboards
+
+[Creating and customizing dashboards in Zabbix](https://serverspace.io/support/help/creating-and-customizing-dashboards-in-zabbix/)
 
 ## Nagios
 
