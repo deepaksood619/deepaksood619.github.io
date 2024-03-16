@@ -4,6 +4,7 @@
 
 - blackbox exporter - [Prometheus Blackbox Exporter: Guide & Tutorial | Squadcast](https://www.squadcast.com/blog/prometheus-blackbox-exporter)
 - statuspage.io
+- [Uptime Kuma](https://uptime.kuma.pet/)
 - [Status.io - Hosted Status Pages](https://status.io/) - Paid
 - [UptimeRobot: Free Website Monitoring Service](https://uptimerobot.com/) - Free
 - [Statuspage | Atlassian](https://www.atlassian.com/software/statuspage) - Paid

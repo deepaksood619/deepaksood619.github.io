@@ -29,6 +29,7 @@
       3. https://360.yandex.ru/business
 17. Gitlab issues
 18. https://fireflies.ai - AI assistant for your meetings
+	1. [Automated Meeting Reports, Transcripts, Notes, Video, Coaching, Scheduling | Read](https://www.read.ai/)
 19. Calendly
 20. https://topmate.io
 21. [The scheduling tool that speaks your language - YouCanBookMe](https://youcanbook.me/)

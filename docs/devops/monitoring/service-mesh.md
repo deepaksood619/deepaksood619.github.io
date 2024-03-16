@@ -40,6 +40,8 @@ Unlike TCP, the service mesh has a significant goal beyond "just make it work": 
 
 https://kuma.io/docs/0.1.2/#why-kuma
 
+- [Uptime Kuma](https://uptime.kuma.pet/)
+
 ## References
 
 https://dzone.com/articles/whats-a-service-mesh-and-why-do-i-need-one

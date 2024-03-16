@@ -74,6 +74,7 @@ Service control policies (SCPs) are a type of organization policy that you can u
 Grant granular permissions on IAM principals (users and roles) and control the maximum permission they can set
 
 - As Permission Policies and Permission Boundaries
+
 ### Permission Boundaries
 
 Scale and delegate permission management to developers safely. Contol the maximum permissions employees can grant

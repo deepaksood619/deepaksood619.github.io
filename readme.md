@@ -88,7 +88,7 @@ There's 2000+ pages in here and lots of them I think are interesting. But these 
 - [Book - Principles by Ray Dalio](https://deepaksood619.github.io/book-summaries/principles/)
 - [Fallacies of Distributed Computing](https://deepaksood619.github.io/computer-science/distributed-system/fallacies-and-problems/) and [Biases / Fallacies](https://deepaksood619.github.io/psychology/biases-fallacies/) of Human Computing, which everyone should know and try to overcome in their lifetimes
 - [Types of Databases](https://deepaksood619.github.io/databases/concepts/types-of-databases/) to organize your data in the right database, since data has gravity, it becomes harder with quantity of data to migrate data over time to other databases
-- List of [YouTube / Podcasts](https://deepaksood619.github.io/knowledge/youtube-podcasts-magazine-apps/) that I follow and [YouTube Videos](https://deepaksood619.github.io/knowledge/links/) that I have watched. Also [Computer Since YouTube Videos](https://deepaksood619.github.io/computer-science/links/) that I have watched since keeping yourself updated with the field is a must.
+- List of [YouTube / Podcasts](https://deepaksood619.github.io/knowledge/youtube-podcasts-magazine-apps/) that I follow and [YouTube Videos](https://deepaksood619.github.io/knowledge/links/) that I have watched. Also [Computer Science YouTube Videos](https://deepaksood619.github.io/computer-science/links/) that I have watched since keeping yourself updated with the field is a must.
 - [My Experiences](https://deepaksood619.github.io/about-me/experience/) over the years and [Social links](https://deepaksood619.github.io/about-me/social-links/) to connect with me
 
 ## Donate

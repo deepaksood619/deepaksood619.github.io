@@ -1075,4 +1075,8 @@ The ultimate test of a moral society is the kind of world that it leaves to its 
 
 “If you defer investing your time and energy until you see that you need to, chances are it will already be too late.” - Clayton Christensen
 
+A tool is as powerful as a person wielding it.
+The tool is only as effective as the skilfulness of the hands that wield it.
+A tool is only as good as the person using it.
+
 ## End

@@ -28,19 +28,19 @@ In contrast with popular configuration management software - such as [Chef](http
 
 ## Core components
 
-- **Ansible Inventory** ( ex - vim /etc/ansible/hosts)
+### Ansible Inventory ( ex - vim /etc/ansible/hosts)
 
 Logical grouping of servers which are to be managed by a sysadmin
 
 ![image](../../media/DevOps-Others-Ansible-image1.jpg)
 
-- Ansible Playbooks
+### Ansible Playbooks
 
 Collection of commands that a sysadmin would run on servers mentioned in Ansible Inventory
 
 ![image](../../media/DevOps-Others-Ansible-image2.jpg)
 
-- Ansible Modules
+### Ansible Modules
 
 In-built packages which are available for a sysadmin to use in Ansible Playbooks and then run them on the servers which are mentioned in Ansible Inventory
 
@@ -62,7 +62,13 @@ In-built packages which are available for a sysadmin to use in Ansible Playbooks
 
 Red HatAnsibleTower helps you scale IT automation, manage complex deployments and speed productivity. Centralize and control your IT infrastructure with a visual dashboard, role-based access control, job scheduling, integrated notifications and graphical inventory management. And Ansible Tower's REST API and CLI make it easy to embed Ansible Tower into existing tools and processes.
 
-## Ansible Galaxy
+- Ansible Galaxy
+
+## Ansible vs Terraform
+
+Terraform is an open-source platform designed to provision cloud infrastructure, while Ansible is an open-source configuration management tool focused on the configuration of that infrastructure.
+
+[Terraform vs. Ansible: Differences and Comparison of Tools](https://spacelift.io/blog/ansible-vs-terraform)
 
 ## References
 
