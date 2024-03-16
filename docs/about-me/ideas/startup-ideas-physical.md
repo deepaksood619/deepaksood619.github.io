@@ -106,6 +106,15 @@ There are sweaters that can keep you warm, create a clothing that can keep you c
 - No large scale nuclear disaster
 - Smaller system can be stable
 
+### Civil Engineering
+
+#### Better and Cheap Pervious Concrete
+
+- Pervious concrete, also known as **porous concrete**, water permeable concrete, or thirsty concrete, is a type of concrete that has a high void content that allows water or air to pass through.
+- Pervious concrete allows the passage of air and water, which can help preserve trees. It can also reduce stormwater runoff, which is a leading source of pollutants entering waterways.
+- Researchers have found that **pervious concrete has less tensile and flexural strength than conventional concrete**. That's why it is generally not used for concrete pavements for high traffic and heavy wheel loads.
+- Clogging
+
 ## Traffic Management
 
 Connected traffic lights with intelligent routing system

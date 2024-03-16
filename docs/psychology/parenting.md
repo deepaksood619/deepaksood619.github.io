@@ -166,3 +166,6 @@ Why kicking out children after 18 years is important, let's say you are very wea
 - [Nutritional Needs of Babies: the First 12 Months](https://www.whattoexpect.com/first-year/feeding-baby/nutritional-needs-of-babies/)
 - [When Do Babies Understand Directions and Commands?](https://www.whattoexpect.com/toddler/understand-directions/)
 - [Baby growth spurts | BabyCentre](https://www.babycentre.co.uk/a25012757/baby-growth-spurts)
+- [How to Deal with Stranger Anxiety](https://www.whattoexpect.com/toddler-behavior/toddler-stranger-anxiety.aspx)
+- [When Do Babies Stand Up?](https://www.whattoexpect.com/first-year/standing-up/)
+- [10 month old, third week | BabyCentre](https://www.babycentre.co.uk/s1001680/10-month-old-third-week)

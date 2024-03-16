@@ -58,7 +58,9 @@ Scale Multiple Resources to Meet Demand
 3. AWS OpsWorks - Automate Operations with Chef and Puppet
 4. AWS Service Catalog - Create and Use Standardized Products
 5. AWS Systems Manager - Gain Operational Insights and Take Action
-6. AWS Trusted Advisor - Optimize Performance and Security
+6. AWS Trusted Advisor - Optimize costs, improve performance, and address security gaps
+	1. [How do I start using Trusted Advisor? - YouTube](https://www.youtube.com/watch?v=i0IkKN9NoPk)
+	2. Minimum spend of $29.00 or 3% of monthly AWS charges, whichever is higher
 7. AWS Personal Health Dashboard - Personalized View of AWS Service Health
 
 ## Media Services

@@ -83,6 +83,41 @@ The following nature of expenses can be generally classified under the heading o
 - [HUF v. Private Family Trust: Time to reconsider structuring of family investments!](https://taxguru.in/income-tax/huf-v-private-family-trust-time-reconsider-structuring-family-investments.html)
 - [Discover the Power of a Private Family Trust in India!](https://www.aafmindia.co.in/Blog/What-is-a-private-family-trust)
 
+## Rent for HUFs
+
+### [Can I show my rental income in HUF account? | Mint](https://www.livemint.com/money/personal-finance/can-i-show-my-rental-income-in-huf-account-11652635139380.html)
+
+the process of transfer of the house to HUF, given that it is an immovable property, the same can be done through a duly stamped and registered gift deed in favor of the HUF.
+
+The gift received by the HUF will not be treated as the income of the HUF.
+
+However, any income arising from the house/asset transferred by a member to the HUF is subject to clubbing provisions.
+
+Accordingly, the income derived from such immovable property shall be clubbed with your income.
+
+[Can a Karta pay rent to his HUF | Company Formation, Income tax filing, Business Setup in India, Private Limited Company Registration, LLP Registration](http://taxscoop.in/entries/income-tax/can-a-karta-pay-rent-to-his-huf)
+
+[Transfer of rental income to HUF: What are the income tax provisions? | Mint](https://www.livemint.com/money/ask-mint-money/transfer-of-rental-income-to-huf-what-are-the-income-tax-provisions-11625373678352.html)
+
+[Can my father's self-acquired immovable property be transferred to my HUF? | Mint](https://www.livemint.com/money/personal-finance/can-my-father-s-self-acquired-immovable-property-be-transferred-to-my-huf-11648266373925.html)
+[Can an HUF buy a house property and take a home loan? | Mint](https://www.livemint.com/money/personal-finance/can-an-huf-buy-a-house-property-and-take-a-home-loan-11649310823271.html)
+
+[HUF Income Tax: Top 5 HUF Tax Benefits Available Under HUF | HDFC Bank](https://www.hdfcbank.com/personal/resources/learning-centre/save/5-huf-income-tax-benefits)
+
+#### In case of demise of karta
+
+If the individual who transferred the asset to the HUF passes away, the rental income will typically be shown as income of the HUF and not of the deceased individual or the next Karta of the HUF.
+
+In the event of the death of the individual who transferred the asset to the HUF:
+
+1. **HUF Continues**: The HUF remains a separate entity even after the death of its member. It continues to exist and hold the assets that were transferred to it.
+
+2. **New Karta**: Upon the death of the existing Karta (the individual who was the head of the HUF), the next senior most member of the family becomes the new Karta. This could be the spouse, eldest son, or any other senior member as per the family's customs and traditions.
+
+3. **Tax Treatment**: The rental income generated from the property transferred to the HUF will then be considered as the income of the HUF and will be taxed in the hands of the HUF itself. The income won't be clubbed with the income of the deceased individual or the new Karta of the HUF.
+
+Therefore, upon the death of the individual who transferred the asset to the HUF, the rental income will be treated as income of the HUF and will be taxed accordingly, irrespective of the status of the Karta.
+
 ## Links
 
 - [HUF Registration online with expert assistance : TaxRodo](https://www.taxrodo.com/huf-registration/)

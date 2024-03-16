@@ -173,6 +173,18 @@ LUT (Letter of Undertaking) - [GST: How to file an LUT?](https://www.thegalactic
 - [Can I pay rent to my parents to save tax?](https://cleartax.in/s/can-i-pay-rent-to-my-parents-to-save-tax)
 - [House Rent Allowance (HRA) - What is House Rent Allowance, HRA Exemption And Tax Deduction](https://cleartax.in/s/hra-house-rent-allowance)
 
+#### HRA Calculator
+
+- [Online House Rent Allowance (HRA) Calculator | The 1% Club](https://calculators.onepercentclub.io/hra-calculator)
+- [HRA Calculator - Online Calculate your House Rent Allowance](https://cleartax.in/paytax/HraCalculator)
+
+#### TDS
+
+- [What is the TDS provision for rent paid by individuals above Rs 50,000?](https://news.cleartax.in/what-is-the-tds-provision-for-rent-paid-by-individuals-above-rs-50000/6672/)
+- [tds penalty: Paying house rent of more than Rs 50000 per month? Penalty you will pay for not deducting TDS - The Economic Times](https://economictimes.indiatimes.com/wealth/tax/paying-house-rent-of-rs-50000-or-more-per-month-penalty-you-will-pay-for-not-deducting-tds/articleshow/104176779.cms?from=mdr)
+- [TDS on Rent: Section 194I Explained and Calculation Guidelines](https://www.canarahsbclife.com/blog/tax-saving/how-to-calculate-tds-on-rent)
+- [Fetching Title#y5g1](https://taxguru.in/income-tax/tds-payment-rent-rs-50000-month-individuals-hufs.html)
+
 ### Others
 
 Sec 80D - Medical Insurance Premium (If the policy covers a senior citizen then exemption is Rs.50,000/-) for self and family- Existing or new policy bought between April 2019 till March 2020.
@@ -382,6 +394,18 @@ In this system, the tax is levied on the per unit price of the built-up area of 
 ## Nominee / Will
 
 [Nominee vs Legal Heir: Who is the true owner of a deceased person's assets? - The 1% News](https://news.onepercentclub.io/legal/nominee-vs-legal-heir-who-is-the-true-owner-of-a-deceased-persons-assets/2249/)
+
+## Special allowance
+
+[Special Allowance in India: Taxation & Calculation - Tax2win](https://tax2win.in/guide/special-allowance)
+
+[Special Allowance in India - Taxation, Exemption Limit, Calculation](https://cleartax.in/s/special-allowance-india)
+
+[Special Allowance in India - Taxation & Calculation](https://www.bankbazaar.com/tax/special-allowance.html)
+
+[What is Special Allowance? - Taxation and Calculation in India](https://groww.in/p/tax/special-allowance)
+
+[Dearness Allowance - Meaning, Types, Taxation & How to Calculate?](https://scripbox.com/tax/dearness-allowance)
 
 ## Links
 

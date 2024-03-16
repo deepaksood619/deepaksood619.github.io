@@ -32,8 +32,8 @@ This is arguably the most important, and the most overlooked, pillar. It encapsu
 
 ## Links
 
-[Robert Kiyosaki From 'Rich Dad Poor Dad' Opens Up On Money, Personal Finance & More | TRS 337 - YouTube](https://www.youtube.com/watch?v=byJgRDFdUj0)
-
-[The Psychology of Money : The Real Reasons You're Not Rich Yet - YouTube](https://www.youtube.com/watch?v=_5ecgEXLoCA)
-
-[Can the middle-class build wealth across generations?](https://freefincal.com/can-the-middle-class-build-wealth-across-generations/)
+- [Robert Kiyosaki From 'Rich Dad Poor Dad' Opens Up On Money, Personal Finance & More | TRS 337 - YouTube](https://www.youtube.com/watch?v=byJgRDFdUj0)
+- [The Psychology of Money : The Real Reasons You're Not Rich Yet - YouTube](https://www.youtube.com/watch?v=_5ecgEXLoCA)
+- [Can the middle-class build wealth across generations?](https://freefincal.com/can-the-middle-class-build-wealth-across-generations/)
+- [At what percentage of net worth can I stop contributing to my emergency fund?](https://freefincal.com/at-what-percentage-of-net-worth-can-i-stop-contributing-to-my-emergency-fund/)
+- [How rupee cost averaging in Mutual Funds works - The 1% News](https://news.onepercentclub.io/invest/how-rupee-cost-averaging-in-mutual-funds-works/2570/)

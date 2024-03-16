@@ -2,25 +2,25 @@
 
 ## Monitoring / Management Tools
 
-1. Kafka Manager - https://github.com/yahoo/CMAK
-
-   https://hub.docker.com/r/kafkamanager/kafka-manager
-
+1. Kafka Manager
+	1. https://github.com/yahoo/CMAK
+	2. https://hub.docker.com/r/kafkamanager/kafka-manager
 2. Kafka Center - https://github.com/xaecbd/KafkaCenter
 3. Kafka lag exporter
-
-    https://github.com/lightbend/kafka-lag-exporter
-
-    https://www.lightbend.com/blog/monitor-kafka-consumer-group-latency-with-kafka-lag-exporter
-
+	1. https://github.com/lightbend/kafka-lag-exporter
+	2. https://www.lightbend.com/blog/monitor-kafka-consumer-group-latency-with-kafka-lag-exporter
 4. Burrow
-5. Kafdrop
-6. Kafka Tool
-7. Kafka Cruise Control
-
-https://engineering.linkedin.com/blog/2019/02/introducing-kafka-cruise-control-frontend
-
-https://dzone.com/articles/kafka-administration-and-monitoring-ui-tools
+5. [GitHub - obsidiandynamics/kafdrop: Kafka Web UI](https://github.com/obsidiandynamics/kafdrop)
+	1. [About | UI for Apache Kafka](https://docs.kafka-ui.provectus.io/)
+6. Kafka-UI
+	1. [GitHub - provectus/kafka-ui: Open-Source Web UI for Apache Kafka Management](https://github.com/provectus/kafka-ui)
+	2. [About | UI for Apache Kafka](https://docs.kafka-ui.provectus.io/)
+7. Kafka Tool
+8. Kafka Cruise Control
+	1. https://engineering.linkedin.com/blog/2019/02/introducing-kafka-cruise-control-frontend
+	2. https://dzone.com/articles/kafka-administration-and-monitoring-ui-tools
+9. Kakfa-monitor https://github.com/linkedin/kafka-monitor
+10. [kadeck | ‍Kafka UI - Your team's Apache Kafka tool belt](https://www.kadeck.com/)
 
 ## Confluent Control Center
 
@@ -69,10 +69,3 @@ https://docs.confluent.io/current/tutorials/cp-demo/docs/index.html#cp-demo
 [How to monitor your Kafka cluster efficiently? | by Marco Catalano | Quantyca | Medium](https://medium.com/quantyca/how-to-monitor-your-kafka-cluster-efficiently-d45ce37c02f1)
 
 [Monitoring Kafka Performance Metrics | Datadog](https://www.datadoghq.com/blog/monitoring-kafka-performance-metrics/)
-
-## Tools
-
-- Kakfa-monitor https://github.com/linkedin/kafka-monitor
-- kafka manager
-- kafka-lag-exporter
-- [GitHub - obsidiandynamics/kafdrop: Kafka Web UI](https://github.com/obsidiandynamics/kafdrop)
