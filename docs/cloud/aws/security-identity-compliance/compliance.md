@@ -31,7 +31,7 @@ A Type 1 report describes the controls in use by an organization, and confirms t
 
 ### SOC 1 vs SOC 2 vs SOC 3
 
-There are three main types of SOC reports – SOC 1, SOC 2, and SOC 3. The first two are the most prevalent, with the second being most relevant to technology companies.
+There are three main types of SOC reports - SOC 1, SOC 2, and SOC 3. The first two are the most prevalent, with the second being most relevant to technology companies.
 
 SOC 1 revolves around financial reporting, whereas SOC 2 focuses more on compliance and business operations. SOC 3 is an adaptation of SOC 2, which reports SOC 2 results in a format that is understandable for the general public.
 

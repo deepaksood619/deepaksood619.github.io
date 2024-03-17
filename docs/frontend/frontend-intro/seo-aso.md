@@ -215,7 +215,7 @@ Now that we have the golden rule out of the way, let’s get into what it is!
 
 The canonical tag came into play in 2009 as an HTML tag found in the source code to tell search engines which URL is the master version of a page. This can be leveraged to tell Google what page variation it should index for users.
 
-A canonical tag is the HTML tag itself on a page, but the "canonical" – now, that’s a bit different.
+A canonical tag is the HTML tag itself on a page, but the "canonical" - now, that’s a bit different.
 
 There are two simple ways to define the canonical variations: a user-declared canonical and a Google-declared canonical.
 

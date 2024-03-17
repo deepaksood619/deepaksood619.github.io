@@ -108,7 +108,7 @@
 
 - [Roadmap for Data Engineering 2023 | by Darshil Parmar | Medium](https://medium.com/@darshilp/roadmap-for-data-engineering-2023-13f62f85d866)
 - [Roadmap for Data Engineering 2024 | by Darshil Parmar | Jan, 2024 | Medium](https://medium.com/@darshilp/roadmap-for-data-engineering-2024-af7ea4ead400)
-- [Red Hot: The 2021 Machine Learning, AI and Data (MAD) Landscape – Matt Turck](https://mattturck.com/data2021/)
+- [Red Hot: The 2021 Machine Learning, AI and Data (MAD) Landscape - Matt Turck](https://mattturck.com/data2021/)
 - [Roadmap: Data Engineering for Data Scientists - YouTube](https://www.youtube.com/watch?v=fusLAtA1Eu4&ab_channel=AndreasKretz)
 - [God Tier Data Engineering Roadmap 2024 with End-To-End Projects - YouTube](https://www.youtube.com/watch?v=HxdoBLc5_Qc&ab_channel=DarshilParmar)
 

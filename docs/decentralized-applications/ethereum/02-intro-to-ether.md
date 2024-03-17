@@ -65,7 +65,7 @@ Users can query the ether balance of any [account](https://ethereum.org/en/devel
 
 ## Further reading
 
-- [Defining Ether and Ethereum](https://www.cmegroup.com/education/courses/introduction-to-ether/defining-ether-and-ethereum.html) – _CME Group_
+- [Defining Ether and Ethereum](https://www.cmegroup.com/education/courses/introduction-to-ether/defining-ether-and-ethereum.html) - _CME Group_
 - [Ethereum Whitepaper](https://ethereum.org/en/whitepaper/): The original proposal for Ethereum. This document includes a description of ether and the motivations behind its creation.
 - [Gwei Calculator](https://www.alchemy.com/gwei-calculator): Use this gwei calculator to easily convert wei, gwei, and ether. Simply plug in any amount of wei, gwei, or ETH and automatically calculate the conversion.
 

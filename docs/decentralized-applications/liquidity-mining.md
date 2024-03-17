@@ -141,4 +141,4 @@ The weight systems allow the Curve DAO to dictate where the CRV inflation should
 - [What is a Mining Pool in Crypto? (Animated + Examples) - YouTube](https://www.youtube.com/watch?v=6JytuGeMnKU)
 - [What is a Dark Pool in Crypto? When + Why + How to use one! - YouTube](https://www.youtube.com/watch?v=x75vOoUA4Vg)
 - [Providing Crypto Liquidity: What Does Liquidity Mean In Crypto](https://milkroad.com/invest/crypto-liquidity/)
-- [Liquidity Score (Market Pair, Exchange) – CoinMarketCap](https://support.coinmarketcap.com/hc/en-us/articles/360043836931-Liquidity-Score-Market-Pair-Exchange-)
+- [Liquidity Score (Market Pair, Exchange) - CoinMarketCap](https://support.coinmarketcap.com/hc/en-us/articles/360043836931-Liquidity-Score-Market-Pair-Exchange-)

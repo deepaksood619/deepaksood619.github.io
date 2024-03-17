@@ -277,7 +277,7 @@ After some recalculation steps we get to following formula:
 
 ![](https://miro.medium.com/v2/resize:fit:734/1*3NZVpENLBeAxdIX7KxTKZQ.png)
 
-A main drawback to this model is that it weights all co-occurrences evenly, even those that happen rarely or never. Such rare co-occurrences are noisy and carry less information than the more frequent ones - yet even just the zero entries account for 75–95% of the data in **_X_**, depending on the vocabulary size and corpus. The authors from the GloVe-paper proposed a new weighted least squares regression model that addresses these problems. The weight function **_f(Xij)_** is shown in figure 9.
+A main drawback to this model is that it weights all co-occurrences evenly, even those that happen rarely or never. Such rare co-occurrences are noisy and carry less information than the more frequent ones - yet even just the zero entries account for 75-95% of the data in **_X_**, depending on the vocabulary size and corpus. The authors from the GloVe-paper proposed a new weighted least squares regression model that addresses these problems. The weight function **_f(Xij)_** is shown in figure 9.
 
 **Lossfunction of the GloVe model**
 

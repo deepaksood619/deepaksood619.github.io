@@ -85,7 +85,7 @@ The control characters in ASCII still in common use include:
 - 26 ([Control-Z](https://en.wikipedia.org/wiki/Control-Z),SUB,EOF, [^Z](https://en.wikipedia.org/wiki/%5EZ)). Acts as an end-of-file for the Windows text-mode file i/o.
 - 27 ([escape](https://en.wikipedia.org/wiki/Escape_character),ESC, [e](https://en.wikipedia.org/wiki/%5Ce)([GCC](https://en.wikipedia.org/wiki/GCC_(software)) only),^[). Introduces an [escape sequence](https://en.wikipedia.org/wiki/Escape_sequence).
 
-[The Absolute Minimum Every Software Developer Absolutely, Positively Must Know About Unicode and Character Sets (No Excuses!) – Joel on Software](https://www.joelonsoftware.com/2003/10/08/the-absolute-minimum-every-software-developer-absolutely-positively-must-know-about-unicode-and-character-sets-no-excuses/)
+[The Absolute Minimum Every Software Developer Absolutely, Positively Must Know About Unicode and Character Sets (No Excuses!) - Joel on Software](https://www.joelonsoftware.com/2003/10/08/the-absolute-minimum-every-software-developer-absolutely-positively-must-know-about-unicode-and-character-sets-no-excuses/)
 
 It does not make sense to have a string without knowing what encoding it uses.
 

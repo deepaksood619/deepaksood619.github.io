@@ -50,7 +50,7 @@ MERGE dramatically simplifies how a number of common data pipelines can be built
 
 Photon is a native vectorized engine developed in C++ to dramatically improve query performance.
 
-Photon is the next generation engine on the Databricks Lakehouse Platform that provides extremely fast query performance at low cost – from data ingestion, ETL, streaming, data science and interactive queries – directly on your data lake. Photon is compatible with Apache Spark™ APIs, so getting started is as easy as turning it on – no code changes and no lock-in.
+Photon is the next generation engine on the Databricks Lakehouse Platform that provides extremely fast query performance at low cost - from data ingestion, ETL, streaming, data science and interactive queries - directly on your data lake. Photon is compatible with Apache Spark™ APIs, so getting started is as easy as turning it on - no code changes and no lock-in.
 
 [Announcing Photon Public Preview: The Next Generation Query Engine on the Databricks Lakehouse Platform - The Databricks Blog](https://www.databricks.com/blog/2021/06/17/announcing-photon-public-preview-the-next-generation-query-engine-on-the-databricks-lakehouse-platform.html)
 

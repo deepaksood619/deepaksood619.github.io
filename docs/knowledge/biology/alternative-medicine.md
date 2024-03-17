@@ -16,7 +16,7 @@ In the 21st century, a series of meta-analyses have shown that the therapeutic c
 
 [Homeopathy - Wikipedia](https://en.wikipedia.org/wiki/Homeopathy)
 
-[Homeopathy Explained – Gentle Healing or Reckless Fraud? - YouTube](https://www.youtube.com/watch?v=8HslUzw35mc)
+[Homeopathy Explained - Gentle Healing or Reckless Fraud? - YouTube](https://www.youtube.com/watch?v=8HslUzw35mc)
 
 [Homeopathy - NHS](https://www.nhs.uk/conditions/homeopathy/)
 

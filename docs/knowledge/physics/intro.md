@@ -50,9 +50,9 @@ https://en.wikipedia.org/wiki/Standard_Model
 
 [Searching for new physics with low-energy techniques - with Danielle Speller - YouTube](https://www.youtube.com/watch?v=NDUUTEhKj54)
 
-[On the origin of time – with Thomas Hertog - YouTube](https://www.youtube.com/watch?v=fY3MbKNNG8o&ab_channel=TheRoyalInstitution)
+[On the origin of time - with Thomas Hertog - YouTube](https://www.youtube.com/watch?v=fY3MbKNNG8o&ab_channel=TheRoyalInstitution)
 
-[How did Michael Faraday invent? – with David Ricketts - YouTube](https://www.youtube.com/watch?v=z1uOsg2-LTA&ab_channel=TheRoyalInstitution)
+[How did Michael Faraday invent? - with David Ricketts - YouTube](https://www.youtube.com/watch?v=z1uOsg2-LTA&ab_channel=TheRoyalInstitution)
 
 [The magic of physics - with Felix Flicker - YouTube](https://www.youtube.com/watch?v=H3wSaLSXdBM&ab_channel=TheRoyalInstitution)
 

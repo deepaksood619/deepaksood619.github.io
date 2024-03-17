@@ -47,7 +47,7 @@ https://lotusarise.com/koppen-climate-classification-system-upsc
 
 ![layers-of-atmosphere](../../media/Pasted%20image%2020230805120712.png)
 
-[Earth's Atmosphere: A Multi-layered Cake – Climate Change: Vital Signs of the Planet](https://climate.nasa.gov/news/2919/earths-atmosphere-a-multi-layered-cake/)
+[Earth's Atmosphere: A Multi-layered Cake - Climate Change: Vital Signs of the Planet](https://climate.nasa.gov/news/2919/earths-atmosphere-a-multi-layered-cake/)
 
 [Layers of The Atmosphere - Structure of Earth’s Atmosphere, Characteristics and FAQs](https://byjus.com/physics/layers-of-atmsophere/)
 

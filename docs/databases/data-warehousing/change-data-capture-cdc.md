@@ -63,9 +63,9 @@ Most databases allow the creation of triggers; you can see how to [create a tri
 
 ### Database transaction log (Log-based CDC)
 
-Log-based CDC uses the transaction logs that some databases – such as Postgres, MySQL, SQL Server,  and Oracle – implement natively as part of their core functionality.
+Log-based CDC uses the transaction logs that some databases - such as Postgres, MySQL, SQL Server,  and Oracle - implement natively as part of their core functionality.
 
-Log-based and trigger-based CDC are very similar – both keep a log of changes every time a database operation happens – so the shadow table and the transaction log contain the same information. The difference between log-based and trigger-based CDC is that the first one uses a core functionality of the database (transaction log); meanwhile, the triggers are created and defined by the user.
+Log-based and trigger-based CDC are very similar - both keep a log of changes every time a database operation happens - so the shadow table and the transaction log contain the same information. The difference between log-based and trigger-based CDC is that the first one uses a core functionality of the database (transaction log); meanwhile, the triggers are created and defined by the user.
 
 Since database logs are updated in every transaction, the experience is transparent, which means log-based CDC does not require any logical changes in database objects or the application running on top of the database. A system reads data directly from the database Change Data Capture logs to identify changes in a database, minimizing the impact of the capture process.
 

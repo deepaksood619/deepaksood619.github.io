@@ -53,8 +53,8 @@ You can share data using Svelte's Context API - a mechanism for components to co
 - https://github.com/sveltejs/svelte
 - https://www.toptal.com/front-end/svelte-framework-guide
 - https://dev.to/hexrcs/svelte-crash-course-with-pics-27cc
-- [SvelteKit & TailwindCSS Tutorial – Build & Deploy a Web Portfolio - YouTube](https://youtu.be/-2UjwQzxvBQ?si=s4QqkS4UTAmn9uFb)
-- [Learn SvelteKit – Full Course for Beginners - YouTube](https://www.youtube.com/watch?v=vb7CgDcA_6U&ab_channel=freeCodeCamp.org)
+- [SvelteKit & TailwindCSS Tutorial - Build & Deploy a Web Portfolio - YouTube](https://youtu.be/-2UjwQzxvBQ?si=s4QqkS4UTAmn9uFb)
+- [Learn SvelteKit - Full Course for Beginners - YouTube](https://www.youtube.com/watch?v=vb7CgDcA_6U&ab_channel=freeCodeCamp.org)
 
 ## Vue.js
 

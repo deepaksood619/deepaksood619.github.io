@@ -18,9 +18,9 @@ PITR involves continuous archiving of WAL files and restoring the database to a 
 
 Disaster recovery in the database world relates to the backups, logs and replication instances that are maintained while everything is working fine. These can then be switched on, switched over and analysed when something does go wrong, like a hardware failure, natural disaster or even human error.
 
-- **Failover** – multiple clusters are set up so if one fails the other can take over.
-- **Mirroring** – maintaining two copies of the same database at different locations. One in offline mode so we know where things are at when we need to use it.
-- **Replication** – the secondary database is online and can be queried. This is not only good for Disaster Recovery but can be useful if you utilise one instance for reporting and one for live queries. If you are using AWS setting this up takes just a few clicks.
+- **Failover** - multiple clusters are set up so if one fails the other can take over.
+- **Mirroring** - maintaining two copies of the same database at different locations. One in offline mode so we know where things are at when we need to use it.
+- **Replication** - the secondary database is online and can be queried. This is not only good for Disaster Recovery but can be useful if you utilise one instance for reporting and one for live queries. If you are using AWS setting this up takes just a few clicks.
 
 ![Disaster Recovery](../../media/Pasted%20image%2020240129201820.png)
 

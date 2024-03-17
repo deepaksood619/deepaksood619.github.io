@@ -18,7 +18,7 @@ This approach mirrors the [OECD](https://en.wikipedia.org/wiki/OECD "OECD") (Org
 2. Determine the [intermediate consumption](https://en.wikipedia.org/wiki/Intermediate_consumption "Intermediate consumption"), i.e., the cost of material, supplies and services used to produce final goods or services.
 3. Deduct intermediate consumption from gross value to obtain the gross value added.
 
-[Gross value added](https://en.wikipedia.org/wiki/Gross_value_added "Gross value added") = gross value of output – value of intermediate consumption.
+[Gross value added](https://en.wikipedia.org/wiki/Gross_value_added "Gross value added") = gross value of output - value of intermediate consumption.
 
 Value of output = value of the total sales of goods and services plus value of changes in the inventory.
 
@@ -58,7 +58,7 @@ Two adjustments must be made to get GDP:
 
 Total income can be subdivided according to various schemes, leading to various formulae for GDP measured by the income approach. A common one is:
 
-**GDP** = **COE** + **GOS** + **GMI** + taxes less subsidies on production and imports **T<sub>P & M</sub>** – **S<sub>P & M</sub>**
+**GDP** = **COE** + **GOS** + **GMI** + taxes less subsidies on production and imports **T<sub>P & M</sub>** - **S<sub>P & M</sub>**
 
 - **Compensation of employees** (COE) measures the total remuneration to employees for work done. It includes wages and salaries, as well as employer contributions to [social security](https://en.wikipedia.org/wiki/Social_security "Social security") and other such programs.
 - **Gross operating surplus** (GOS) is the surplus due to owners of incorporated businesses. Often called [profits](https://en.wikipedia.org/wiki/Profit_(accounting) "Profit (accounting)"), although only a subset of total costs are subtracted from [gross output](https://en.wikipedia.org/wiki/Gross_output "Gross output") to calculate GOS.
@@ -78,7 +78,7 @@ Market goods that are produced are purchased by someone. In the case where a goo
 
 #### Components of GDP by expenditure
 
-**GDP (Y)** is the sum of **consumption (C)**, **investment (I)**, **government Expenditures (G)** and **net exports (X – M)**.
+**GDP (Y)** is the sum of **consumption (C)**, **investment (I)**, **government Expenditures (G)** and **net exports (X - M)**.
 
 **Y** = **C** + **I** + **G** + **(X − M)**
 
@@ -98,10 +98,10 @@ According to the U.S. Bureau of Economic Analysis, which is responsible for calc
 
 GPD can be measured in several different ways.  The most common methods include:
 
-- **Nominal GDP –** the total value of all goods and services produced at current market prices. This includes all the changes in market prices during the current year due to inflation or deflation.
-- **Real GDP –** the sum of all goods and services produced at constant prices. The prices used in determining the Gross Domestic Product are based on a certain base year or the previous year. This provides a more accurate account of economic growth, as it is already an inflation-adjusted measurement, meaning the effects of inflation are taken out.
-- **Actual GDP –** real-time measurement of all outputs at any interval or any given time. It demonstrates the existing state of business of the economy.
-- **Potential GDP –** ideal economic condition with 100% employment across all sectors, steady currency, and stable product prices.
+- **Nominal GDP -** the total value of all goods and services produced at current market prices. This includes all the changes in market prices during the current year due to inflation or deflation.
+- **Real GDP -** the sum of all goods and services produced at constant prices. The prices used in determining the Gross Domestic Product are based on a certain base year or the previous year. This provides a more accurate account of economic growth, as it is already an inflation-adjusted measurement, meaning the effects of inflation are taken out.
+- **Actual GDP -** real-time measurement of all outputs at any interval or any given time. It demonstrates the existing state of business of the economy.
+- **Potential GDP -** ideal economic condition with 100% employment across all sectors, steady currency, and stable product prices.
 
 ## Facts
 

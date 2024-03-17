@@ -33,10 +33,10 @@
 10. **Sheldon Evans** - Popular Crypto Influencer With Engaging Videos
 11. **Kitco News -** YouTube Channel to Follow for Financial News
 12. **Ivan On Tech -** Watch Interviews of Crypto Experts
-13. [TechnicalRoundup](https://www.youtube.com/c/TechnicalRoundup) – best crypto Youtubers for technical analysis
-14. [Trader Mayne](https://www.youtube.com/c/TraderMayne) – best crypto prediction Youtube channel
-15. [Crypto Face](https://www.youtube.com/c/CryptoFace) – most popular crypto Youtube channel for live leverage trading
-16. [The Modern Investor](https://www.youtube.com/c/TheModernInvestor) – good for general investing and cryptocurrency news
+13. [TechnicalRoundup](https://www.youtube.com/c/TechnicalRoundup) - best crypto Youtubers for technical analysis
+14. [Trader Mayne](https://www.youtube.com/c/TraderMayne) - best crypto prediction Youtube channel
+15. [Crypto Face](https://www.youtube.com/c/CryptoFace) - most popular crypto Youtube channel for live leverage trading
+16. [The Modern Investor](https://www.youtube.com/c/TheModernInvestor) - good for general investing and cryptocurrency news
 17. [The Ultimate Guide To Crypto | Bankless](https://www.bankless.com/)
 18. Bankless
 19. [Some resources that I use for investing/trading in crypto](https://route2fi.substack.com/p/some-resources-that-i-use-to-stay)

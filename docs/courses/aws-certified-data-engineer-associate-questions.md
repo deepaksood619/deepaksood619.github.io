@@ -6,12 +6,94 @@ A consultant company uses a cloud-based time-tracking system to track employee w
 
 Which combination of steps will meet these requirements with the LEAST operational overhead? (Select TWO.)
 
-A - Schedule the cron by using AWS CloudShell
+- [ ] A - Schedule the cron by using AWS CloudShell
+- [x] B - Run the Python code on AWS Lambda functions
+- [ ] C - Install Python and the AWS SDK for Python (Boto3) on an Amazon EC2 instance to run the code
+- [x] D - Schedule the cron by using Amazon EventBridge Scheduler
+- [ ] E - Run the Python code on AWS Cloud9
 
-B - Run the Python code on AWS Lambda functions
+## Question 2
 
-C - Install Python and the AWS SDK for Python (Boto3) on an Amazon EC2 instance to run the code
+A finance company has developed a machine learning (ML) model to enhance its investment strategy. The model uses various sources of data about stock, bond, and commodities markets. The model has been approved for production. A data engineer must ensure that the data being used to run ML decisions is accurate, complete, and trustworthy. The data engineer must automate the data preparation for the model's production deployment.
 
-D - Schedule the cron by using Amazon EventBridge Scheduler
+Which solution will meet these requirements?
 
-E - Run the Python code on AWS Cloud9
+- [ ] A - Use Amazon SageMaker Feature Store to prepare the data, store the data, and track the data lineage for the model.
+- [x] B - Use Amazon SageMaker workflows with an Amazon SageMaker ML Lineage Tracking step to prepare the data for the model.
+- [ ] C - Use Amazon SageMaker Data Wrangler to run an exploratory data analysis (EDA) to prepare the data for the model.
+- [ ] D - Use Amazon SageMaker Processing to process the input data. Output the processed data to Amazon S3 for the model.
+
+## Question 3
+
+An ecommerce company is running an application on AWS. The application sources recent data from tables in Amazon Redshift. Data that is older than 1 year is accessible in Amazon S3. Recently, a new report has been written in SQL. The report needs to compare a few columns from the current year sales table with the same columns from tables with sales data from previous years. The report runs slowly, with poor performance and long wait times to get results.
+
+A data engineer must optimize the back-end storage to accelerate the query.
+
+Which solution will meet these requirements MOST efficiently?
+
+- [ ] A - Run a Redshift SQL COPY command and load the data from Amazon S3 to Amazon Redshift before running the report. Configure the report to query the table with the most recent data and the newly loaded tables.
+- [ ] B - Run a SQL JOIN clause by using Amazon Redshift Spectrum to create a new table from the most recent data and the data in the S3 external table. Configure the report to query the newly created table.
+- [x] C - Run the report SQL statement to gather the data from Amazon S3. Store the result set in an Amazon Redshift materialized view. Configure the report to run SQL REFRESH. Then, query the materialized view.
+- [ ] D - Run the SQL UNLOAD command on the current sales table to a new external table in Amazon S3. Configure the report to use Amazon Redshift Spectrum to query the newly created table and the existing tables in Amazon S3.
+
+## Question 4
+
+A company is storing data in an Amazon S3 bucket. The company is in the process of adopting a new data lifecycle and retention policy. The policy is defined as follows:
+
+- Any newly created data must be available online and will occasionally need to be analyzed with SQL.
+- Data older than 3 years must be securely stored and made available when needed for compliance evaluation within 12 hours.
+- Data older than 10 years must be securely deleted.
+
+A data engineer must configure a solution that would ensure that the data is stored cost effectively according to the lifecycle and retention policy.
+
+Which solution will meet these requirements?
+
+- [x] A - Store new data on the S3 Infrequent Access storage class. Query the data in-place on Amazon S3 with Amazon Athena. Create a lifecycle rule to migrate the data to the S3 Glacier Flexible Retrieval storage class after 3 years. Configure the lifecycle rule to delete the data after 10 years.
+- [ ] B - Store new data on the S3 Intelligent-Tiering storage class. Configure the storage class with the Deep Archive Access tier. Query the data in-place on Amazon S3 with Amazon Athena. Configure the Intelligent-Tiering actions to delete the data after 10 years.
+- [ ] C - Store new data on an Amazon Redshift cluster. Unload older data to the S3 Standard storage class. Create a lifecycle rule that migrates the data to the S3 Glacier Deep Archive storage class after 3 years. Configure the lifecycle rule actions to delete the data after 10 years.
+- [ ] D - Store new data on an Amazon RDS database. Create database snapshots to the S3 Standard storage class. Create a lifecycle rule that migrates the snapshots to the S3 Glacier Flexible Retrieval storage class after 3 years. Configure the lifecycle rule actions to delete the data after 10 years.
+
+## Question 5
+
+A company ingests data into an Amazon S3 data lake from multiple operational sources. The company then ingests the data into Amazon Redshift for a business analysis team to analyze. The business analysis team requires access to only the last 3 months of customer data.
+
+Additionally, once a year, the company runs a detailed analysis of the past year's data to compare the overall results of the previous 12 months. After the analysis and comparison, the data is no longer accessed. However, the data must be kept after 12 months for compliance reasons.
+
+Which solution will meet these requirements in the MOST cost-effective manner?
+
+- [ ] A - Ingest 12 months of data into Amazon Redshift. Automate an unload process from Amazon Redshift to Amazon S3 after the data is over 12 months old. Implement a lifecycle policy in Amazon S3 to move the unloaded data to S3 Glacier Deep Archive.
+- [ ] B - Ingest 3 months of data into Amazon Redshift. Automate an unload process from Amazon Redshift to S3 Glacier Deep Archive after the data is over 3 months old. Use Redshift Spectrum for the yearly analysis to include data up to 12 months old.
+- [x] C - Ingest 3 months of data into Amazon Redshift. Automate an unload process from Amazon Redshift to Amazon S3 after the data is over 3 months old. Use Amazon Redshift Spectrum for the yearly analysis to include data up to 12 months old. Implement a lifecycle policy in Amazon S3 to move the unloaded data to S3 Glacier Deep Archive after the data is over 12 months old.
+- [ ] D - Ingest 3 months of data into Amazon Redshift. Automate an unload process from Amazon Redshift to S3 Glacier Instant Retrieval after the data is over 3 months old. Use Amazon Redshift Spectrum for the yearly analysis to include data up to 12 months old. Implement a lifecycle policy in Amazon S3 to move the unloaded data to S3 Glacier Deep Archive after the data is over 12 months old.
+
+## Question 6
+
+A company is using an Amazon S3 data lake. The company ingests data into the data lake by using Amazon Kinesis Data Streams. The company reads and processes the incoming data from the stream by using AWS Lambda. The data being ingested has highly variable and unpredictable volume. Currently, the IteratorAge metric is high at peak times when a high volume of data is being posted to the stream. A data engineer must design a solution to increase performance when reading Kinesis Data Streams with Lambda.
+
+Which solution will meet these requirements? (Select THREE.)
+
+- [x] A - Increase the number of shards for the Kinesis data stream.
+- [x] B - Test different parallelization factor settings to find the most performant.
+- [ ] C - Configure the Kinesis data stream to use provisioned capacity mode.
+- [x] D - Register the Lambda function as a consumer with enhanced fan-out.
+- [ ] E - Increase the reserved concurrency for the Lambda function.
+- [ ] F - Increase the provisioned concurrency for the Lambda function.
+
+### Solution
+
+A, B - By default, Lambda will create one concurrent instance of the Lambda function for each shard. If you have three shards, you will have three concurrent functions. A high IteratorAge implies that the last record that is read from the Kinesis data stream is increasing in age. A high IteratorAge could mean that the data is not being processed in a timely manner. One way to increase throughput when you use Kinesis Data Streams and Lambda is to increase the parallelization factor. This solution can cause multiple Lambda function invocations to concurrently process one shard. Therefore, this solution could increase performance.
+
+D - By default, all consumers of a Kinesis data stream share throughput across consumers. Sharing can restrict throughput for any one consumer, such as the Lambda function that processes the data. A high IteratorAge implies that the last record that is read from the Kinesis data stream is increasing in age. A high IteratorAge could mean that the data is not being processed in a timely manner. One way to increase throughput when you use Kinesis Data Streams and Lambda is to register the Lambda function as a consumer with enhanced fan-out. This solution would give the Lambda function dedicated throughput capacity for the Kinesis data stream. Therefore, this solution could increase performance.
+
+## Question 7
+
+A data engineer is designing an application that will add data for transformation to an Amazon Simple Queue Service (Amazon SQS) queue. A microservice will receive messages from the queue. The data engineer wants to ensure message persistence.
+
+Which events can remove messages from an SQS queue? (Select THREE.)
+
+- [x] A - An application makes a DeleteMessage API call to Amazon SQS.
+- [x] B - The maxReceiveCount has been reached for a message.
+- [x] C - The queue is purged.
+- [ ] D - An application makes a ReceiveMessage API call to Amazon SQS.
+- [ ] E - The visibility timeout expires on a message.
+- [ ] F - The configuration for a queue is edited.

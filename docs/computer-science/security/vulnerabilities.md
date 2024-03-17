@@ -15,7 +15,7 @@ The Open Web Application Security Project (OWASP) is an online community that pr
 
 [The History and Future of OWASP](https://youtu.be/FrU2xaOVDgE)
 
-[OWASP API Security Top 10 Course – Secure Your Web Apps - YouTube](https://www.youtube.com/watch?v=YYe0FdfdgDU)
+[OWASP API Security Top 10 Course - Secure Your Web Apps - YouTube](https://www.youtube.com/watch?v=YYe0FdfdgDU)
 
 ## OWASP Top Ten
 

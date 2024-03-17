@@ -27,7 +27,7 @@ If you do find yourself in a situation where you disagree with feedback, don't b
 
 It's also important to actively listen to the other person's perspective, even if you don't ultimately agree with it. Try to understand their point of view and look for common ground that you can build on.
 
-Approaching a feedback situation with an open mind and willingness to collaborate can lead to unexpected positive outcomes – without the fear of damaging the relationship.
+Approaching a feedback situation with an open mind and willingness to collaborate can lead to unexpected positive outcomes - without the fear of damaging the relationship.
 
 ### 5 Steps to Disagree with Feedback
 
@@ -45,11 +45,11 @@ Example: _"Could you please clarify what you meant by 'lacking in substance'? I 
 
 #### Step 3: Sharing Your Side
 
-When it's time to share your disagreement, don't hold back – but do it in a way that's clear and to the point. Avoid becoming defensive or confrontational (e.g. exclaiming _"you're wrong"_ won't get you very far), so take a deep breath and calm your state. Provide specific examples to support your perspective and explain why you feel differently. A great tip is to avoid saying the word _"disagree"_ and present your perspective a different way, e.g. _"I see things a different way..."_ or _"From my perspective…"_.
+When it's time to share your disagreement, don't hold back - but do it in a way that's clear and to the point. Avoid becoming defensive or confrontational (e.g. exclaiming _"you're wrong"_ won't get you very far), so take a deep breath and calm your state. Provide specific examples to support your perspective and explain why you feel differently. A great tip is to avoid saying the word _"disagree"_ and present your perspective a different way, e.g. _"I see things a different way..."_ or _"From my perspective…"_.
 
 Example: _"I understand that you feel the presentation was lacking in substance. I see things a different way. I feel that the data and analysis I presented were both relevant and valuable. For example, the data showed a clear trend that supports our marketing strategy."_
 
-*(You can also ask for a timeout here – see 'NOTE' after Step 5)
+*(You can also ask for a timeout here - see 'NOTE' after Step 5)
 
 #### Step 4: Collaborative Resolution
 
@@ -63,7 +63,7 @@ Wrap up the conversation on a positive note by thanking them again for their fee
 
 Example: _"Thanks again for your feedback and for taking the time to raise it. I appreciate the opportunity to improve."_
 
-***NOTE:** If the feedback is unexpected or difficult to hear, you can ask for time to process and reflect before responding (this would come before Step 3). This gives you space to process your emotions and formulate a thoughtful response. Example: "_Thanks for sharing your feedback – I really appreciate your openness. Before responding, I'd like to take some time to process and reflect on what you've shared. Could I take some time to think about this and got back to you in a few days with my thoughts?"_
+***NOTE:** If the feedback is unexpected or difficult to hear, you can ask for time to process and reflect before responding (this would come before Step 3). This gives you space to process your emotions and formulate a thoughtful response. Example: "_Thanks for sharing your feedback - I really appreciate your openness. Before responding, I'd like to take some time to process and reflect on what you've shared. Could I take some time to think about this and got back to you in a few days with my thoughts?"_
 
 ### Unsolicited Advice?
 
@@ -114,11 +114,11 @@ We have a belief-generating system: What you think is true is heavily based on w
 
 **It is far easier to fool yourself into believing a falsehood than admit a mistake. Changing your mind is rarer than it should be, leading us to cling to false beliefs.**
 
-You can agree with every word written there and still struggle to change your mind – or take seriously those who do – for two reasons.
+You can agree with every word written there and still struggle to change your mind - or take seriously those who do - for two reasons.
 
 1. when you change your mind you can feel like all the hard-fought effort you put into establishing your previous beliefs was wasted. Even a little pain from that reality can be enough to persuade you to stick to the original belief.
-2. when you change your mind, moving from one belief to another, it can be hard to take the new belief seriously – changing beliefs offers proof that the new belief may be short-lived, especially in the eyes of others.
+2. when you change your mind, moving from one belief to another, it can be hard to take the new belief seriously - changing beliefs offers proof that the new belief may be short-lived, especially in the eyes of others.
 
-A lot of times we’re not interested in truth – we’re interested in the elimination of uncertainty, and that fact alone causes us to believe things that have little relation to reality.
+A lot of times we’re not interested in truth - we’re interested in the elimination of uncertainty, and that fact alone causes us to believe things that have little relation to reality.
 
 [Why You Believe The Things You Do · Collab Fund](https://collabfund.com/blog/why-you-believe-the-things-you-do/)

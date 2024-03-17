@@ -8,4 +8,4 @@
 
 ## Links
 
-[Fundamentals of Finance & Economics for Businesses – Crash Course - YouTube](https://www.youtube.com/watch?v=EJHPltmAULA)
+[Fundamentals of Finance & Economics for Businesses - Crash Course - YouTube](https://www.youtube.com/watch?v=EJHPltmAULA)

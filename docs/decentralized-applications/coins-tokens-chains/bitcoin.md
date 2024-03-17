@@ -8,7 +8,7 @@
 ## Bitcoin Facts
 
 - Total number of bitcoins that can be issued is 21 million
-- A unit of bitcoin is divisible to eight decimal places (100 millionths of one bitcoin). Hence, it can be purchased in smaller units called a Satoshi - which, as you might have already guessed, was named in homage to Bitcoin’s creator(s) – Satoshi Nakamoto.
+- A unit of bitcoin is divisible to eight decimal places (100 millionths of one bitcoin). Hence, it can be purchased in smaller units called a Satoshi - which, as you might have already guessed, was named in homage to Bitcoin’s creator(s) - Satoshi Nakamoto.
 
 ![image](../../media/decentral-bitcoin.svg)
 

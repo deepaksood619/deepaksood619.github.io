@@ -4,7 +4,7 @@
 
 I change my views and thoughts when presented with new information
 
-## Myers–Briggs Personality
+## Myers-Briggs Personality
 
 Personality type: **[Advocate (INFJ-A)](https://www.16personalities.com/infj-personality?utm_source=welcome-assertive-advocate&utm_medium=email&utm_campaign=results&utm_content=type-personality-0)**
 
@@ -108,7 +108,7 @@ learning from failure
 
 [Personality](psychology/personality.md)
 
-[Myers–Briggs Type Indicator - Wikipedia](https://en.wikipedia.org/wiki/Myers%E2%80%93Briggs_Type_Indicator)
+[Myers-Briggs Type Indicator - Wikipedia](https://en.wikipedia.org/wiki/Myers%E2%80%93Briggs_Type_Indicator)
 
 [7 Random Ways Advocates (INFJs) Are the Most Extreme Personality Type | 16Personalities](https://www.16personalities.com/articles/7-random-ways-advocates-infjs-are-the-most-extreme-personality-type)
 

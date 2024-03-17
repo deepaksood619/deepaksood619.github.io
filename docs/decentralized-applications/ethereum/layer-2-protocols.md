@@ -33,7 +33,7 @@ An approach that allows for the aggregation of multiple transactions into a sing
 [Rollups Are L1s (& L2s) a.k.a. How Rollups \*Actually Actually Ac… - Jon Charbonneau](https://dba.mirror.xyz/LYUb_Y2huJhNUw_z8ltqui2d6KY8Fc3t_cnSE9rDL_o)
 [Open letter to Jon Charbonneau (or Rollups = Bridges + Blockchains) - Layer 2 - Ethereum Research](https://ethresear.ch/t/open-letter-to-jon-charbonneau-or-rollups-bridges-blockchains/15739)
 
-[Notion – The all-in-one workspace for your notes, tasks, wikis, and databases.](https://davidecrapis.notion.site/Rollups-are-Real-Rollup-Economics-2-0-2516079f62a745b598133a101ba5a3de)
+[Notion - The all-in-one workspace for your notes, tasks, wikis, and databases.](https://davidecrapis.notion.site/Rollups-are-Real-Rollup-Economics-2-0-2516079f62a745b598133a101ba5a3de)
 
 ## Intro
 
@@ -49,7 +49,7 @@ Several rollup solutions are already live or in the process of being implemented
 
 [Layer 2 | ethereum.org](https://ethereum.org/en/layer-2/)
 
-[L2BEAT – The state of the layer two ecosystem](https://l2beat.com/scaling/risk)
+[L2BEAT - The state of the layer two ecosystem](https://l2beat.com/scaling/risk)
 
 - [arbitrum](decentralized-applications/ethereum/arbitrum.md)
 - [polygon](decentralized-applications/ethereum/polygon.md)
@@ -69,7 +69,7 @@ Several rollup solutions are already live or in the process of being implemented
 
 ## ZK Proof (Zero Knowledge Proof)
 
-A cryptographic method for proving a statement is true without revealing any information about the statement – other than that it is true.
+A cryptographic method for proving a statement is true without revealing any information about the statement - other than that it is true.
 
 "Zero-knowledge" proofs allow one party (the prover) to prove to another (the verifier) that a statement is true, without revealing any information beyond the validity of the statement itself. For example, given the hash of a random number, the prover could convince the verifier that there indeed exists a number with this hash value, without revealing what it is.
 
@@ -140,12 +140,12 @@ The variations in security techniques between layer 2 and sidechain solutions ar
 
 - [Different types of layer 2s](https://vitalik.eth.limo/general/2023/10/31/l2types.html)
 - [Blockchain Layers Explained: Best Blockchain Layers 1, 2, 3, and 0 Explainer video | Jude - YouTube](https://www.youtube.com/watch?v=u2avJ_ctsKM&ab_channel=JudeUmeano)
-- [Argent – The best Ethereum wallet for DeFi and NFTs.](https://www.argent.xyz/)
+- [Argent - The best Ethereum wallet for DeFi and NFTs.](https://www.argent.xyz/)
 - [Cartesi 🛠️ Billions of Reasons to Use Cartesi - Carlo Fragni - YouTube](https://www.youtube.com/watch?v=2WvS5So5su4)
 - [What is Sharding in Crypto? Scaling Solution (Animated) - YouTube](https://www.youtube.com/watch?v=SZpjvWMfgDA)
 - [What are Rollups in Crypto? ZKSnarks vs Optimistics Rollups Explained - YouTube](https://www.youtube.com/watch?v=6_nOYsvXMsE)
 - [Layer 2 Scaling - Playlist YouTube](https://www.youtube.com/playlist?list=PLHx4UicbtUobQJPt_ACy95eDf3FQAiHUi)
 - [Ethereum at Hyperscale - Alex Gluchowski | Pragma Paris 2023 - YouTube](https://www.youtube.com/watch?v=Uh_FMZrVE0A)
 - [Top Crypto LAYER 2s to Keep An Eye On (Base, Linea, Mantle) - YouTube](https://www.youtube.com/watch?v=_vHyMkv-m1M)
-- [L2BEAT – The state of the layer two ecosystem](https://l2beat.com/scaling/summary)
+- [L2BEAT - The state of the layer two ecosystem](https://l2beat.com/scaling/summary)
 - [Exit games for EVM validiums: the return of Plasma](https://vitalik.ca/general/2023/11/14/neoplasma.html)

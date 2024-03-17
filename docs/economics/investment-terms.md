@@ -164,4 +164,4 @@ The annual percentage yield (APY) is the real rate of return earned on an invest
 
 https://www.investopedia.com/terms/a/apy.asp
 
-### GFCF – Gross fixed capital formation
+### GFCF - Gross fixed capital formation

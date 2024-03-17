@@ -35,7 +35,7 @@ There are mainly two ways of deploying an ML model:
 
 [What is MLOps? Machine Learning Operations Explained](https://www.freecodecamp.org/news/what-is-mlops-machine-learning-operations-explained)
 
-[MLOps Course – Build Machine Learning Production Grade Projects - YouTube](https://www.youtube.com/watch?v=-dJPoLm_gtE)
+[MLOps Course - Build Machine Learning Production Grade Projects - YouTube](https://www.youtube.com/watch?v=-dJPoLm_gtE)
 
 [MLOps guide](https://huyenchip.com/mlops/)
 
@@ -99,7 +99,7 @@ To note a few features:
 **[GitHub - DataTalksClub/mlops-zoomcamp: Free MLOps course from DataTalks.Club](https://github.com/DataTalksClub/mlops-zoomcamp)**
 
 - [MLOps Zoomcamp - YouTube](https://www.youtube.com/playlist?list=PL3MmuxUbc_hIUISrluw_A7wDSmfOhErJK)
-- [MLOps Zoomcamp – DataTalks.Club](https://datatalks.club/blog/mlops-zoomcamp.html)
+- [MLOps Zoomcamp - DataTalks.Club](https://datatalks.club/blog/mlops-zoomcamp.html)
 
 ### Profiles
 

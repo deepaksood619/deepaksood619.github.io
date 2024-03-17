@@ -58,7 +58,7 @@ WHERE name BETWEEN 'D%' and 'G%';
 
 ### CASE
 
-CASE expression is essentially the 'if/then' of the SQL world. Given one value, CASE can return another of your choice – but did you know you're able to use it in ORDER BY clauses to define custom orders based upon other values?
+CASE expression is essentially the 'if/then' of the SQL world. Given one value, CASE can return another of your choice - but did you know you're able to use it in ORDER BY clauses to define custom orders based upon other values?
 
 Here's a simple use case. Let's say you have a table listing employees and their job titles:
 

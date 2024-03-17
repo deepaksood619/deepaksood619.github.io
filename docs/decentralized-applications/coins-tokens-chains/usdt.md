@@ -8,7 +8,7 @@ With high liquidity and low volatility, USDT offered traders an opportunity to t
 
 As the earliest fiat-currency-backed crypto token, Tether quickly established its niche in the stablecoin ecosystem, thanks to the hundreds of cryptocurrency trading that began pairing against USDT. Even so, the early days of USDT were marred by illegal activities. For example, a security breach of Tether’s network in 2017 resulted in the theft of 30 million dollars worth of tokens. As a result, Bitfinex (Tether’s parent company) was accused of illegally soliciting $850,000 from Tether to offset the debt.
 
-Tether Limited has since removed vulnerabilities within its system, and today, 74.7 billion USDT tokens – twice the volume of USDC tokens – are in circulation on major crypto networks, including Algorand, Bitcoin, Ethereum, Tron, and many more.
+Tether Limited has since removed vulnerabilities within its system, and today, 74.7 billion USDT tokens - twice the volume of USDC tokens - are in circulation on major crypto networks, including Algorand, Bitcoin, Ethereum, Tron, and many more.
 
 ## How can I use USDT?
 

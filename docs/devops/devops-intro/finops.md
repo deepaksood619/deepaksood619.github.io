@@ -86,7 +86,7 @@ The FinOps Framework includes capabilities that cover everything from cost analy
 - Compute Optimizer Dashboard
 - Cost Anomaly Dashboard
 
-[Navigating AWS FinOps: Harnessing Cloud Intelligence Dashboards for Strategic Cost Optimization – DEVOPS DONE RIGHT](https://blog.opstree.com/2024/02/13/navigating-aws-finops-harnessing-cloud-intelligence-dashboards-for-strategic-cost-optimization/)
+[Navigating AWS FinOps: Harnessing Cloud Intelligence Dashboards for Strategic Cost Optimization - DEVOPS DONE RIGHT](https://blog.opstree.com/2024/02/13/navigating-aws-finops-harnessing-cloud-intelligence-dashboards-for-strategic-cost-optimization/)
 
 ## AWS Cost Optimisation / Billing
 

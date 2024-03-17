@@ -11,9 +11,9 @@ tmux is a [software application](https://en.wikipedia.org/wiki/Software_applicat
 ```bash
 Prefix - Ctrl + b
 
-Prefix + s – List of sessions in our tmux server
-Prefix + $ – Rename session
-Prefix + d – Detach current session (not about deleting it, just leaving it in the background). We go to the terminal and it will show us a message similar to [detached (from session mySession)].
+Prefix + s - List of sessions in our tmux server
+Prefix + $ - Rename session
+Prefix + d - Detach current session (not about deleting it, just leaving it in the background). We go to the terminal and it will show us a message similar to [detached (from session mySession)].
 Prefix + c - Create window
 tmux kill-server - tmux
 tmux kill-window
@@ -21,10 +21,10 @@ tmux kill-session
     tmux kill-session -t <session_name>
 
 # Panes
-Prefix +% – Divide it vertically
-Prefix + " – Divide it horizontally
-Prefix + x – Close pane
-Prefix + spacebar – Change the layout of the current panes
+Prefix +% - Divide it vertically
+Prefix + " - Divide it horizontally
+Prefix + x - Close pane
+Prefix + spacebar - Change the layout of the current panes
 Prefix + Left/Right - For switching between panes
 Prefix + c  - create a new tab
 Prefix + z - full screen current pane

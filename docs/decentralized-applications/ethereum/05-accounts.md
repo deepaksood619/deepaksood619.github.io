@@ -6,8 +6,8 @@ Where ETH is stored. Users can initialize accounts, deposit ETH into the account
 
 Ethereum has two account types:
 
-- Externally-owned account (EOA) – controlled by anyone with the private keys
-- Contract account – a smart contract deployed to the network, controlled by code. Learn about [smart contracts](https://ethereum.org/en/developers/docs/smart-contracts/)
+- Externally-owned account (EOA) - controlled by anyone with the private keys
+- Contract account - a smart contract deployed to the network, controlled by code. Learn about [smart contracts](https://ethereum.org/en/developers/docs/smart-contracts/)
 
 Both account types have the ability to:
 
@@ -34,16 +34,16 @@ Both account types have the ability to:
 
 Ethereum accounts have four fields:
 
-- `nonce` – A counter that indicates the number of transactions sent from an externally-owned account or the number of contracts created by a contract account. Only one transaction with a given nonce can be executed for each account, protecting against replay attacks where signed transactions are repeatedly broadcast and re-executed.
-- `balance` – The number of wei owned by this address. Wei is a denomination of ETH and there are 1e+18 wei per ETH.
-- `codeHash` – This hash refers to the _code_ of an account on the Ethereum virtual machine (EVM). Contract accounts have code fragments programmed in that can perform different operations. This EVM code gets executed if the account gets a message call. It cannot be changed, unlike the other account fields. All such code fragments are contained in the state database under their corresponding hashes for later retrieval. This hash value is known as a codeHash. For externally owned accounts, the codeHash field is the hash of an empty string.
-- `storageRoot` – Sometimes known as a storage hash. A 256-bit hash of the root node of a Merkle Patricia trie that encodes the storage contents of the account (a mapping between 256-bit integer values), encoded into the trie as a mapping from the Keccak 256-bit hash of the 256-bit integer keys to the RLP-encoded 256-bit integer values. This trie encodes the hash of the storage contents of this account, and is empty by default.
+- `nonce` - A counter that indicates the number of transactions sent from an externally-owned account or the number of contracts created by a contract account. Only one transaction with a given nonce can be executed for each account, protecting against replay attacks where signed transactions are repeatedly broadcast and re-executed.
+- `balance` - The number of wei owned by this address. Wei is a denomination of ETH and there are 1e+18 wei per ETH.
+- `codeHash` - This hash refers to the _code_ of an account on the Ethereum virtual machine (EVM). Contract accounts have code fragments programmed in that can perform different operations. This EVM code gets executed if the account gets a message call. It cannot be changed, unlike the other account fields. All such code fragments are contained in the state database under their corresponding hashes for later retrieval. This hash value is known as a codeHash. For externally owned accounts, the codeHash field is the hash of an empty string.
+- `storageRoot` - Sometimes known as a storage hash. A 256-bit hash of the root node of a Merkle Patricia trie that encodes the storage contents of the account (a mapping between 256-bit integer values), encoded into the trie as a mapping from the Keccak 256-bit hash of the 256-bit integer keys to the RLP-encoded 256-bit integer values. This trie encodes the hash of the storage contents of this account, and is empty by default.
 
 ![A diagram showing the make up of an account](../../media/Pasted%20image%2020230305171744.png)
 
 ## Externally-owned accounts and key pairs
 
-An account is made up of a cryptographic pair of keys: public and private. They help prove that a transaction was actually signed by the sender and prevent forgeries. Your private key is what you use to sign transactions, so it grants you custody over the funds associated with your account. **You never really hold cryptocurrency, you hold private keys – the funds are always on Ethereum's ledger.**
+An account is made up of a cryptographic pair of keys: public and private. They help prove that a transaction was actually signed by the sender and prevent forgeries. Your private key is what you use to sign transactions, so it grants you custody over the funds associated with your account. **You never really hold cryptocurrency, you hold private keys - the funds are always on Ethereum's ledger.**
 
 This prevents malicious actors from broadcasting fake transactions because you can always verify the sender of a transaction.
 

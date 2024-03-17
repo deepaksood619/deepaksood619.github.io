@@ -107,7 +107,7 @@ https://www.scotthyoung.com/blog/2020/04/27/productivity-rules
 2. Don't Multitask
 3. Have Themed Days
 4. Discipline Matters More Than Intelligence
-1. You might have all the knowledge, talent, or skill in the world, but because of a lack of discipline, you will never make it. – Daniel Walter
+1. You might have all the knowledge, talent, or skill in the world, but because of a lack of discipline, you will never make it. - Daniel Walter
 5. Recharge and Refresh Mid-Day To Keep Up Your Mental Fitness
 6. Devote at Least 50% of Your Time to Building Great Products. Avoid Ego-Gratifying Activities.
 7. Write Notes Down on Paper

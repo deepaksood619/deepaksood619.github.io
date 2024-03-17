@@ -10,7 +10,7 @@ When you make your bed, you embody the identity of someone who is clean and orga
 
 What identity are you embodying today? Who are your habits helping you become?
 
-[How to Trick Your Brain to Like Doing Hard Things – Atomic Habits by James Clear - YouTube](https://www.youtube.com/watch?v=o7w5r5PfBKo)
+[How to Trick Your Brain to Like Doing Hard Things - Atomic Habits by James Clear - YouTube](https://www.youtube.com/watch?v=o7w5r5PfBKo)
 
 ## Core Ideas of Self Improvement
 

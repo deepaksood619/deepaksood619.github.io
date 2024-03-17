@@ -188,7 +188,7 @@ https://www.pygame.org
 
 https://humberto.io/blog/exploring-pygame-5-movement-and-collision
 
-[Pong with Python & Pygame – Tutorial - YouTube](https://www.youtube.com/watch?v=tS8F7_X2qB0)
+[Pong with Python & Pygame - Tutorial - YouTube](https://www.youtube.com/watch?v=tS8F7_X2qB0)
 
 ## pygal
 

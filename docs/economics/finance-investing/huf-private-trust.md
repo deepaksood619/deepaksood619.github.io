@@ -26,7 +26,7 @@
 - [On death of father, HUF can continue; oldest son will be karta | Mint](https://www.livemint.com/Money/ru3H4r23AUiuVCfAozumHM/On-death-of-father-HUF-can-continue-oldest-son-will-be-kar.html)
 - [HUF rules: Can a wife become Karta after death of her Karta husband? | Mint](https://www.livemint.com/money/personal-finance/huf-rules-can-a-wife-become-karta-after-death-of-her-karta-husband-11682235517817.html)
 - Any woman who enters the Hindu Undivided Family by way of marriage is _only considered a member and not a coparcener_. And only coparcener can become karta
-- [HUF – Dissolution & Succession - KL Aggarwal Associates](https://www.klaggarwal.com/others/huf-dissolution)
+- [HUF - Dissolution & Succession - KL Aggarwal Associates](https://www.klaggarwal.com/others/huf-dissolution)
 
 ### Taxation
 
@@ -77,7 +77,7 @@ The following nature of expenses can be generally classified under the heading o
 
 ## Private Trust vs HUFs
 
-- [HUF or Trust – What works and when for Indian families? – Sudit K. Parekh & Co. LLP, Chartered Accountants, Mumbai, India](https://suditkparekh.com/insights_post/huf-or-trust-what-works-and-when-for-indian-families/)
+- [HUF or Trust - What works and when for Indian families? - Sudit K. Parekh & Co. LLP, Chartered Accountants, Mumbai, India](https://suditkparekh.com/insights_post/huf-or-trust-what-works-and-when-for-indian-families/)
 - [huf: Private Trusts Vs HUFs: Which suits your needs to pass on assets to legal heirs? - The Economic Times](https://economictimes.indiatimes.com/wealth/legal/will/private-trusts-vs-hufs-which-suits-your-needs-to-pass-on-assets-to-legal-heirs/articleshow/104180941.cms?from=mdr)
 - [Opinion | Why a trust works best for family wealth | Mint](https://www.livemint.com/money/personal-finance/opinion-why-a-trust-works-best-for-family-wealth-11597126369771.html)
 - [HUF v. Private Family Trust: Time to reconsider structuring of family investments!](https://taxguru.in/income-tax/huf-v-private-family-trust-time-reconsider-structuring-family-investments.html)

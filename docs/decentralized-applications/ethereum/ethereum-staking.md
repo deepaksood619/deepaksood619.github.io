@@ -4,12 +4,12 @@
 
 - Reduce Energy Requirements
 - Cheaper to run a node
-- PoS on Ethereum is also intended to lay the groundwork for "[sharding](https://www.coindesk.com/learn/2020/12/02/what-is-sharding/)" – a partitioning technique that allows multiple parallel chains to share data and transaction load efficiently. These shard chains, when combined with a secondary scaling product known as "[rollups](https://www.coindesk.com/learn/what-are-rollups-zk-rollups-and-optimistic-rollups-explained/)," could allow Ethereum to process upward of [100,000 transactions](https://ethereum.org/en/eth2/shard-chains/) per second. That's a huge leap compared with the [10-15 transactions per second](https://ycharts.com/indicators/ethereum_transactions_per_day) it processed under proof-of-work.
+- PoS on Ethereum is also intended to lay the groundwork for "[sharding](https://www.coindesk.com/learn/2020/12/02/what-is-sharding/)" - a partitioning technique that allows multiple parallel chains to share data and transaction load efficiently. These shard chains, when combined with a secondary scaling product known as "[rollups](https://www.coindesk.com/learn/what-are-rollups-zk-rollups-and-optimistic-rollups-explained/)," could allow Ethereum to process upward of [100,000 transactions](https://ethereum.org/en/eth2/shard-chains/) per second. That's a huge leap compared with the [10-15 transactions per second](https://ycharts.com/indicators/ethereum_transactions_per_day) it processed under proof-of-work.
 - Rollups involve batching dozens of transactions together off the main chain, creating a cryptographic proof for them (evidence of their validity) and then submitting that to the main chain.
 
 ### How does Ethereum staking work?
 
-Unlike the PoW-based blockchain, the PoS-powered blockchain bundles 32 blocks of transactions during each round of validation, lasting 6.4 minutes on average. These bundles of blocks are what’s known as "epochs." An epoch is considered finalized – that is, the transactions contained are irreversible – when the blockchain adds two more epochs after it.
+Unlike the PoW-based blockchain, the PoS-powered blockchain bundles 32 blocks of transactions during each round of validation, lasting 6.4 minutes on average. These bundles of blocks are what’s known as "epochs." An epoch is considered finalized - that is, the transactions contained are irreversible - when the blockchain adds two more epochs after it.
 
 During the validating process (also known as the "attesting process"), stakers are randomly grouped into "committees" of 128 and assigned to a particular shard block.
 
@@ -35,7 +35,7 @@ As soon as the pool of stakers is large enough to promote a decentralized ecosys
 
 ### What is an Ethereum staking pool?
 
-Understanding that not all interested stakers can afford 32 ETH to participate in the network – which at present costs over $40,000 – some platforms have begun to provide staking products that allow investors to combine their financial resources to meet the minimum requirements for becoming a validator. That is also an ideal option for individuals who don’t want to undertake the technical requirements that come with staking. In essence, users need only to deposit and lock their capital on a third-party platform and start earning returns. It’s staking without the hassle.
+Understanding that not all interested stakers can afford 32 ETH to participate in the network - which at present costs over $40,000 - some platforms have begun to provide staking products that allow investors to combine their financial resources to meet the minimum requirements for becoming a validator. That is also an ideal option for individuals who don’t want to undertake the technical requirements that come with staking. In essence, users need only to deposit and lock their capital on a third-party platform and start earning returns. It’s staking without the hassle.
 
 ### WHAT IS STAKE DELEGATION?
 
