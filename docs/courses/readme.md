@@ -58,6 +58,7 @@
 26. [Architecting on AWS (Hands on training)](cloud/aws/course-architecting-on-aws.md) (12-14 Aug 2020)
 27. [AWS Certified Developer - Associate (Jan 2024)](courses/aws-certified-developer-associate.md)
 28. [AWS Certified Data Engineer - Associate (Feb 2024)](courses/aws-certified-data-engineer-associate.md)
+	1. [AWS Certified Data Engineer - Associate Questions](courses/aws-certified-data-engineer-associate-questions.md)
 
 ## Certifications
 

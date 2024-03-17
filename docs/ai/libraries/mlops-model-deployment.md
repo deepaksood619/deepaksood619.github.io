@@ -74,7 +74,7 @@ To note a few features:
 - [Home Page | Pachyderm](https://www.pachyderm.com/)
 - [Blog - neptune.ai](https://neptune.ai/blog)
    	- [Building a Machine Learning Platform \[Definitive Guide\]](https://neptune.ai/blog/ml-platform-guide)
-   	- [How to Build a CI/CD MLOps Pipeline \[Case Study\]](https://neptune.ai/blog/build-ci-cd-mlops-pipeline)
+   	- [How to Build a CI/CD MLOps Pipeline | Case Study](https://neptune.ai/blog/build-ci-cd-mlops-pipeline)
 
 ## Roadmap
 

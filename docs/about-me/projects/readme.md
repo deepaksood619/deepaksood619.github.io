@@ -2,7 +2,23 @@
 
 ## Office Projects
 
-- [Bake.io Data Engineering](about-me/projects/75-bake-io-data-engineering.md) (Mar'23 - Nov'23)
+### OpsTree
+
+- [Data Engineering Product Pitch IoT Industry](about-me/projects/59-data-engineering-product-pitch-iot-industry.md)
+- [Data Engineering Case Studies](about-me/projects/60-data-engineering-case-studies.md)
+- [General Application Management Case Study](about-me/projects/61-general-application-management-case-study.md)
+- [Application Management Case Study - Telecom](about-me/projects/62-application-management-case-study-telecom.md)
+- [MLOps Master Document](about-me/projects/63-mlops-master-document.md)
+- [MLOps Case Studies](about-me/projects/64-mlops-case-studies.md)
+- [Problems in IoT Industry](about-me/projects/65-problems-in-iot-industry.md)
+- [IoT Case Studies](about-me/projects/66-iot-case-studies.md)
+
+### Bake.io
+
+[Bake.io Data Engineering](about-me/projects/75-bake-io-data-engineering.md) (Mar'23 - Nov'23)
+
+### Stashfin
+
 - [Stashfin](about-me/projects/80-stashfin.md) (Feb'20 - Feb'23)
 - [Stashfin Terms](about-me/projects/81-stashfin-terms.md) (Feb'20 - Feb'23)
 - [Stashfin Metrics](about-me/projects/82-stashfin-metrics.md)  (Feb'20 - Feb'23)
@@ -12,9 +28,15 @@
 - [Stashfin Security IAM APIs](about-me/projects/88-stashfin-security-iam-apis.md) (Feb'20 - Feb'23)
 - [Stashfin Devops Overhaul](about-me/projects/89-stashfin-devops-overhaul.md) (Feb'20 - Jan'21)
 - [Stashfin Tech Stack / Infra](about-me/projects/90-stashfin-tech-stack-infra.md) (Feb'20 - Feb'23)
+
+### Zenatix
+
 - [Zenatix Solutions](about-me/projects/95-zenatix-solutions.md) (Aug'17 - Jan'20)
 - [Zenatix Architecture](about-me/projects/96-zenatix-architecture.md) (Aug'17 - Jan'20)
-- [CISO Cybersecurity](about-me/projects/99-ciso-cybersecurity.md) (Dec'16 - July'17)
+
+### CISO Cybersecurity
+
+[CISO Cybersecurity](about-me/projects/99-ciso-cybersecurity.md) (Dec'16 - July'17)
 
 ## Personal Projects
 
