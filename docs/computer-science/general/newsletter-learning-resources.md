@@ -72,6 +72,7 @@ Give tech talk - Learning + Note taking + Zettlekasten - Obsidian / Onenote + Do
 - https://repl.it
 - [**https://www.freecodecamp.org/news/tech-talks-software-development-conferences/**](https://www.freecodecamp.org/news/tech-talks-software-development-conferences/)
 - https://roadmap.sh/backend
+- [Back End Developer Roadmap 2024 - YouTube](https://www.youtube.com/watch?v=tN6oJu2DqCM&ab_channel=freeCodeCamp.org)
 - [**https://github.com/yangshun/tech-interview-handbook**](https://github.com/yangshun/tech-interview-handbook)
 - [**https://github.com/kdn251/interviews**](https://github.com/kdn251/interviews)
 - https://github.com/sdmg15/Best-websites-a-programmer-should-visit

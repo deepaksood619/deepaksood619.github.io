@@ -22,3 +22,7 @@ https://docs.aws.amazon.com/personalize/latest/dg/what-is-personalize.html
 ### Price Recommendation Engine
 
 [ML driven dynamic pricing @ CARS24 - Part 1 | by Shashank Kumar | CARS24 Data Science Blog | Mar, 2023 | Medium](https://medium.com/cars24-data-science-blog/how-cars24-uses-machine-learning-for-dynamic-pricing-of-used-cars-part-1-51fee52860d1)
+
+## Links
+
+- [A Spotify Song and Playlist Recommendation Engine | MongoDB](https://www.mongodb.com/developer/code-examples/python/song-recommendations-example-app)

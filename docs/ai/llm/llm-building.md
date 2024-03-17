@@ -98,6 +98,8 @@
 - [GitHub - microsoft/autogen: A programming framework for agentic AI. Join our Discord: https://discord.gg/pAbnFJrkgZ](https://github.com/microsoft/autogen)
 - [GitHub - comfyanonymous/ComfyUI: The most powerful and modular stable diffusion GUI, api and backend with a graph/nodes interface.](https://github.com/comfyanonymous/ComfyUI)
     - [How to install and use ComfyUI - Stable Diffusion. - YouTube](https://www.youtube.com/watch?v=KTPLOqAMR0s)
+- [GitHub - bentoml/OpenLLM: Operating LLMs in production](https://github.com/bentoml/OpenLLM)
+   	- [BentoML: Build, Ship, Scale AI Applications](https://bentoml.com/)
 
 ```bash
 python -m pip install --upgrade langchain[llm]
@@ -167,3 +169,4 @@ Ludwig enables you to apply state-of-the-art tabular, natural language processin
 - [This new AI is powerful and uncensored… Let’s run it - YouTube](https://www.youtube.com/watch?v=GyllRd2E6fg&ab_channel=Fireship)
 - [Learn Generative AI in 30 Hours](https://www.freecodecamp.org/news/learn-generative-ai-in/)
 - [AI Watermarking 101: Tools and Techniques](https://huggingface.co/blog/watermarking)
+- [Optimize generative AI applications with pgvector indexing: A deep dive into IVFFlat and HNSW techniques | AWS Database Blog](https://aws.amazon.com/blogs/database/optimize-generative-ai-applications-with-pgvector-indexing-a-deep-dive-into-ivfflat-and-hnsw-techniques/)
