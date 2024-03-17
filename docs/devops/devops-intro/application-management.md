@@ -154,10 +154,7 @@ Additionally, experience in developing training programs is a big plus, as are a
 
 ## Links
 
-[What is Application Management? | VMware Glossary | IN](https://www.vmware.com/in/topics/glossary/content/application-management.html)
-
-[What is Application Management? | Loggle](https://loggle.io/knowledgebase/application-management)
-
-[Application management services 101: why your business needs AMS - YouTube](https://www.youtube.com/watch?v=y_scmjL-IqI)
-
-IMS - Infrastructure Management Service
+- [What is Application Management? | VMware Glossary | IN](https://www.vmware.com/in/topics/glossary/content/application-management.html)
+- [What is Application Management? | Loggle](https://loggle.io/knowledgebase/application-management)
+- [Application management services 101: why your business needs AMS - YouTube](https://www.youtube.com/watch?v=y_scmjL-IqI)
+- IMS - Infrastructure Management Service
