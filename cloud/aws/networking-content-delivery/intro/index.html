@@ -18,8 +18,8 @@
 <meta name="theme-color" content="rgb(47, 133, 85)">
 
 <script src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5616865131274062" async crossorigin="anonymous"></script><link rel="stylesheet" href="/assets/css/styles.1aa998db.css">
-<script src="/assets/js/runtime~main.53a8b36f.js" defer="defer"></script>
-<script src="/assets/js/main.c69735ea.js" defer="defer"></script>
+<script src="/assets/js/runtime~main.841ff194.js" defer="defer"></script>
+<script src="/assets/js/main.866acaf1.js" defer="defer"></script>
 </head>
 <body class="navigation-with-keyboard">
 <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TN3KBF4" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
@@ -48,48 +48,38 @@
 <p><img loading="lazy" alt="Typical AWS Network Architecture" src="/assets/images/Pasted image 20240316230001-a452cc3d41eb0c8d7c0685584ddbf1f8.png" width="550" height="550" class="img_ev3q"></p>
 <ul>
 <li>
-<p>VPC (Virtual Private Cloud)
-At the heart of AWS&#x27;s networking services is the Amazon VPC, which allows users to provision a logically isolated section of the AWS Cloud. Within this isolated environment, users can launch AWS resources in a virtual network that they define.</p>
+<p><strong>VPC (Virtual Private Cloud) -</strong> At the heart of AWS&#x27;s networking services is the Amazon VPC, which allows users to provision a logically isolated section of the AWS Cloud. Within this isolated environment, users can launch AWS resources in a virtual network that they define.</p>
 </li>
 <li>
-<p>AZ (Availability Zone)
-An AZ in AWS refers to one or more discrete data centers with redundant power, networking, and connectivity in an AWS Region.</p>
+<p><strong>AZ (Availability Zone) -</strong> An AZ in AWS refers to one or more discrete data centers with redundant power, networking, and connectivity in an AWS Region.</p>
 </li>
 </ul>
 <p>Now let’s go through the network connectivity one by one:</p>
 <ol>
 <li>
-<p>Connect to the Internet - Internet Gateway (IGW)
-An IGW serves as the doorway between your AWS VPC and the internet, facilitating bidirectional communication.</p>
+<p><strong>Connect to the Internet - Internet Gateway (IGW) -</strong> An IGW serves as the doorway between your AWS VPC and the internet, facilitating bidirectional communication.</p>
 </li>
 <li>
-<p>Remote Workers - Client VPN Endpoint
-AWS offers a Client VPN service that enables remote workers to access AWS resources or an on-premises network securely over the internet. It provides a secure and easy-to-manage VPN solution.</p>
+<p><strong>Remote Workers - Client VPN Endpoint -</strong> AWS offers a Client VPN service that enables remote workers to access AWS resources or an on-premises network securely over the internet. It provides a secure and easy-to-manage VPN solution.</p>
 </li>
 <li>
-<p>Corporate Data Center Connection - Virtual Gateway (VGW)
-A VGW is the VPN concentrator on the Amazon side of the Site-to-Site VPN connection between your network and your VPC.</p>
+<p><strong>Corporate Data Center Connection - Virtual Gateway (VGW) -</strong> A VGW is the VPN concentrator on the Amazon side of the Site-to-Site VPN connection between your network and your VPC.</p>
 </li>
 <li>
-<p>VPC Peering
-VPC Peering allows you to connect two VPCs, enabling you to route traffic between them using private IPv4 or IPv6 addresses.</p>
+<p><strong>VPC Peering -</strong> VPC Peering allows you to connect two VPCs, enabling you to route traffic between them using private IPv4 or IPv6 addresses.</p>
 </li>
 <li>
-<p>Transit Gateway
-AWS Transit Gateway acts as a network transit hub, enabling you to connect multiple VPCs, VPNs, and AWS accounts together.</p>
+<p><strong>Transit Gateway -</strong> AWS Transit Gateway acts as a network transit hub, enabling you to connect multiple VPCs, VPNs, and AWS accounts together.</p>
 </li>
 <li>
-<p>VPC Endpoint (Gateway)
-A VPC Endpoint (Gateway type) allows you to privately connect your VPC to supported AWS services and VPC endpoint services powered by PrivateLink without requiring an internet gateway, VPN.</p>
+<p><strong>VPC Endpoint (Gateway) -</strong> A VPC Endpoint (Gateway type) allows you to privately connect your VPC to supported AWS services and VPC endpoint services powered by PrivateLink without requiring an internet gateway, VPN.</p>
 </li>
 <li>
-<p>VPC Endpoint (Interface)
-An Interface VPC Endpoint (powered by AWS PrivateLink) enables private connections between your VPC and supported AWS services, other VPCs, or AWS Marketplace services, without requiring an IGW, VGW, or NAT device.</p>
+<p><strong>VPC Endpoint (Interface) -</strong> An Interface VPC Endpoint (powered by AWS PrivateLink) enables private connections between your VPC and supported AWS services, other VPCs, or AWS Marketplace services, without requiring an IGW, VGW, or NAT device.</p>
 </li>
 <li>
-<p>SaaS Private Link Connection
-AWS PrivateLink provides private connectivity between VPCs and services hosted on AWS or on-premises, ideal for accessing SaaS applications securely.</p>
+<p><strong>SaaS Private Link Connection -</strong> AWS PrivateLink provides private connectivity between VPCs and services hosted on AWS or on-premises, ideal for accessing SaaS applications securely.</p>
 </li>
-</ol></div><footer class="theme-doc-footer docusaurus-mt-lg"><div class="theme-doc-footer-edit-meta-row row"><div class="col"><a href="https://github.com/deepaksood619/deepaksood619.github.io/tree/master/docs/cloud/aws/networking-content-delivery/intro.md" target="_blank" rel="noopener noreferrer" class="theme-edit-this-page"><svg fill="currentColor" height="20" width="20" viewBox="0 0 40 40" class="iconEdit_Z9Sw" aria-hidden="true"><g><path d="m34.5 11.7l-3 3.1-6.3-6.3 3.1-3q0.5-0.5 1.2-0.5t1.1 0.5l3.9 3.9q0.5 0.4 0.5 1.1t-0.5 1.2z m-29.5 17.1l18.4-18.5 6.3 6.3-18.4 18.4h-6.3v-6.2z"></path></g></svg>Edit this page</a></div><div class="col lastUpdated_vwxv"><span class="theme-last-updated">Last updated<!-- --> on <b><time datetime="2024-03-16T17:47:07.000Z">Mar 16, 2024</time></b></span></div></div></footer></article><nav class="pagination-nav docusaurus-mt-lg" aria-label="Docs pages"><a class="pagination-nav__link pagination-nav__link--prev" href="/cloud/aws/networking-content-delivery/aws-elb"><div class="pagination-nav__sublabel">Previous</div><div class="pagination-nav__label">AWS ELB</div></a><a class="pagination-nav__link pagination-nav__link--next" href="/cloud/aws/others"><div class="pagination-nav__sublabel">Next</div><div class="pagination-nav__label">Others</div></a></nav></div></div><div class="col col--3"><div class="tableOfContents_bqdL thin-scrollbar theme-doc-toc-desktop"><ul class="table-of-contents table-of-contents__left-border"><li><a href="#1-amazon-vpc---isolated-cloud-resources" class="table-of-contents__link toc-highlight">1. Amazon VPC - Isolated Cloud Resources</a></li><li><a href="#2-aws-privatelink" class="table-of-contents__link toc-highlight">2. AWS PrivateLink</a></li><li><a href="#3-amazon-cloudfront---global-content-delivery-network" class="table-of-contents__link toc-highlight">3. Amazon CloudFront - Global Content Delivery Network</a></li><li><a href="#4-amazon-route-53" class="table-of-contents__link toc-highlight">4. Amazon Route 53</a></li><li><a href="#5-amazon-api-gateway---build-deploy-and-manage-apis" class="table-of-contents__link toc-highlight">5. Amazon API Gateway - Build, Deploy, and Manage APIs</a></li><li><a href="#6-aws-direct-connect---dedicated-network-connection-to-aws" class="table-of-contents__link toc-highlight">6. AWS Direct Connect - Dedicated Network Connection to AWS</a></li><li><a href="#7-elastic-load-balancing-elb---high-scale-load-balancing" class="table-of-contents__link toc-highlight">7. Elastic Load Balancing (ELB) - High Scale Load Balancing</a></li><li><a href="#networking--elastic-load-balancing" class="table-of-contents__link toc-highlight">Networking &gt; Elastic Load Balancing</a></li><li><a href="#network-load-balancer-components" class="table-of-contents__link toc-highlight">Network Load Balancer Components</a></li><li><a href="#aws-network-architecture" class="table-of-contents__link toc-highlight">AWS Network Architecture</a></li></ul></div></div></div></div></main></div></div></div><footer class="footer footer--dark"><div class="container container-fluid"><div class="footer__bottom text--center"><div class="footer__copyright">Copyright © 2024 Deep Notes, Built with ❤️</div></div></div></footer></div>
+</ol></div><footer class="theme-doc-footer docusaurus-mt-lg"><div class="theme-doc-footer-edit-meta-row row"><div class="col"><a href="https://github.com/deepaksood619/deepaksood619.github.io/tree/master/docs/cloud/aws/networking-content-delivery/intro.md" target="_blank" rel="noopener noreferrer" class="theme-edit-this-page"><svg fill="currentColor" height="20" width="20" viewBox="0 0 40 40" class="iconEdit_Z9Sw" aria-hidden="true"><g><path d="m34.5 11.7l-3 3.1-6.3-6.3 3.1-3q0.5-0.5 1.2-0.5t1.1 0.5l3.9 3.9q0.5 0.4 0.5 1.1t-0.5 1.2z m-29.5 17.1l18.4-18.5 6.3 6.3-18.4 18.4h-6.3v-6.2z"></path></g></svg>Edit this page</a></div><div class="col lastUpdated_vwxv"><span class="theme-last-updated">Last updated<!-- --> on <b><time datetime="2024-03-17T09:02:32.000Z">Mar 17, 2024</time></b></span></div></div></footer></article><nav class="pagination-nav docusaurus-mt-lg" aria-label="Docs pages"><a class="pagination-nav__link pagination-nav__link--prev" href="/cloud/aws/networking-content-delivery/aws-elb"><div class="pagination-nav__sublabel">Previous</div><div class="pagination-nav__label">AWS ELB</div></a><a class="pagination-nav__link pagination-nav__link--next" href="/cloud/aws/others"><div class="pagination-nav__sublabel">Next</div><div class="pagination-nav__label">Others</div></a></nav></div></div><div class="col col--3"><div class="tableOfContents_bqdL thin-scrollbar theme-doc-toc-desktop"><ul class="table-of-contents table-of-contents__left-border"><li><a href="#1-amazon-vpc---isolated-cloud-resources" class="table-of-contents__link toc-highlight">1. Amazon VPC - Isolated Cloud Resources</a></li><li><a href="#2-aws-privatelink" class="table-of-contents__link toc-highlight">2. AWS PrivateLink</a></li><li><a href="#3-amazon-cloudfront---global-content-delivery-network" class="table-of-contents__link toc-highlight">3. Amazon CloudFront - Global Content Delivery Network</a></li><li><a href="#4-amazon-route-53" class="table-of-contents__link toc-highlight">4. Amazon Route 53</a></li><li><a href="#5-amazon-api-gateway---build-deploy-and-manage-apis" class="table-of-contents__link toc-highlight">5. Amazon API Gateway - Build, Deploy, and Manage APIs</a></li><li><a href="#6-aws-direct-connect---dedicated-network-connection-to-aws" class="table-of-contents__link toc-highlight">6. AWS Direct Connect - Dedicated Network Connection to AWS</a></li><li><a href="#7-elastic-load-balancing-elb---high-scale-load-balancing" class="table-of-contents__link toc-highlight">7. Elastic Load Balancing (ELB) - High Scale Load Balancing</a></li><li><a href="#networking--elastic-load-balancing" class="table-of-contents__link toc-highlight">Networking &gt; Elastic Load Balancing</a></li><li><a href="#network-load-balancer-components" class="table-of-contents__link toc-highlight">Network Load Balancer Components</a></li><li><a href="#aws-network-architecture" class="table-of-contents__link toc-highlight">AWS Network Architecture</a></li></ul></div></div></div></div></main></div></div></div><footer class="footer footer--dark"><div class="container container-fluid"><div class="footer__bottom text--center"><div class="footer__copyright">Copyright © 2024 Deep Notes, Built with ❤️</div></div></div></footer></div>
 </body>
 </html>
