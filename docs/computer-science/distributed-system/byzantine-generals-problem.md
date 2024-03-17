@@ -85,18 +85,18 @@ The pBFT consensus model works efficiently only when the number of nodes in the 
 
 #### Platforms using pBFT variants
 
-- Zilliqa – pBFT in combination with [PoW](https://write.geeksforgeeks.org/proof-of-workpow-consensus/) consensus
-- Hyperledger Fabric – permissioned version of pBFT
-- Tendermint – pBFT + DPoS(Delegated Proof-of-Stake)
+- Zilliqa - pBFT in combination with [PoW](https://write.geeksforgeeks.org/proof-of-workpow-consensus/) consensus
+- Hyperledger Fabric - permissioned version of pBFT
+- Tendermint - pBFT + DPoS(Delegated Proof-of-Stake)
 
 #### Variations of pBFT
 
-- RBFT – Redundant BFT
+- RBFT - Redundant BFT
 - ABsTRACTs
 - Q/U
-- HQ – Hybrid Quorum Protocol for BFT
+- HQ - Hybrid Quorum Protocol for BFT
 - Adapt
-- Zyzzyva – Speculative Byzantine Fault Tolerance
+- Zyzzyva - Speculative Byzantine Fault Tolerance
 - Aardvark
 
 [practical Byzantine Fault Tolerance(pBFT) - GeeksforGeeks](https://www.geeksforgeeks.org/practical-byzantine-fault-tolerancepbft/)

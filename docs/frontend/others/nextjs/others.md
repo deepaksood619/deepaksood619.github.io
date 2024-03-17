@@ -14,7 +14,7 @@ The smol method routing and middleware for [Next.js](https://nextjs.org/)
 - Works with async handlers (with error catching)
 - TypeScript support
 
-### [React Hooks for Data Fetching – SWR](https://swr.vercel.app/)
+### [React Hooks for Data Fetching - SWR](https://swr.vercel.app/)
 
 The name "SWR" is derived from `stale-while-revalidate`, a HTTP cache invalidation strategy popularized by [HTTP RFC 5861](https://tools.ietf.org/html/rfc5861). SWR is a strategy to first return the data from cache (stale), then send the fetch request (revalidate), and finally come with the up-to-date data.
 
@@ -52,6 +52,6 @@ SWR has you covered in all aspects of speed, correctness, and stability to help 
 
 [next.js/examples/with-graphql-react at canary · vercel/next.js · GitHub](https://github.com/vercel/next.js/tree/canary/examples/with-graphql-react)
 
-[Introducing Next.js Commerce 2.0 – Vercel](https://vercel.com/blog/introducing-next-js-commerce-2-0)
+[Introducing Next.js Commerce 2.0 - Vercel](https://vercel.com/blog/introducing-next-js-commerce-2-0)
 
 [Rendering: Server Components | Next.js](https://nextjs.org/docs/app/building-your-application/rendering/server-components)

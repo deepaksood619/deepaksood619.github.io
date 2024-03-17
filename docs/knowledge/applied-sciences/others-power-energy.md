@@ -35,7 +35,7 @@ IAEA - International Atomic Energy Agency
 
 [Do lithium-ion batteries lose capacity when not in use? - Quora](https://www.quora.com/Do-lithium-ion-batteries-lose-capacity-when-not-in-use)
 
-[Harnessing renewable offshore energy – with Susan Gourvenec - YouTube](https://www.youtube.com/watch?v=DqOzsqT9QNQ)
+[Harnessing renewable offshore energy - with Susan Gourvenec - YouTube](https://www.youtube.com/watch?v=DqOzsqT9QNQ)
 
 [Driving On Compressed Air: The Little-Known Compressed Air Revolution - YouTube](https://www.youtube.com/watch?v=fFoYPj3Ntzc)
 

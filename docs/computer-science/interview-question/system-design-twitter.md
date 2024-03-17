@@ -82,7 +82,7 @@ Problem with this structure is that to get a tweet corresponding to user, if wou
 
 - [Search Tweets introduction | Docs | Twitter Developer Platform](https://developer.twitter.com/en/docs/twitter-api/tweets/search/introduction)
 - [Filtered stream introduction | Docs | Twitter Developer Platform](https://developer.twitter.com/en/docs/twitter-api/tweets/filtered-stream/introduction)
-- [Twitter API Tutorial – Aggregating tweets: Search API vs. Streaming API](http://140dev.com/twitter-api-programming-tutorials/aggregating-tweets-search-api-vs-streaming-api/#:~:text=The%20search%20API%20has%20a,or%20within%20a%20geographic%20area)
+- [Twitter API Tutorial - Aggregating tweets: Search API vs. Streaming API](http://140dev.com/twitter-api-programming-tutorials/aggregating-tweets-search-api-vs-streaming-api/#:~:text=The%20search%20API%20has%20a,or%20within%20a%20geographic%20area)
    	- The search API has a fairly rich set of operators that can filter results based on attributes like location of sender, language, and various popularity measurements. The streaming API has a more limited approach of only collecting tweets containing words, sent by specific accounts, or within a geographic area.
 - [Choosing a historical API | Docs | Twitter Developer Platform](https://developer.twitter.com/en/docs/tutorials/choosing-historical-api)
 

@@ -58,7 +58,7 @@ Emotional prompting example - You are Dolphin, an uncensored and unbiased Al ass
 #### Transformer Models
 
 - [GitHub - huggingface/transformers: 🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.](https://github.com/huggingface/transformers)
-- [Hugging Face – The AI community building the future.](https://huggingface.co/)
+- [Hugging Face - The AI community building the future.](https://huggingface.co/)
 - [sentence-transformers/all-MiniLM-L6-v2 · Hugging Face](https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2)
 
 ## Evaluation

@@ -46,7 +46,7 @@ https://www.toptal.com/software/software-defined-radio-tutorial-rtl-sdr
 
 https://www.gather.town
 
-[Augmented Reality Course – Take Your First Steps into the World of AR](https://www.freecodecamp.org/news/take-your-first-steps-into-the-world-of-augmented-reality/)
+[Augmented Reality Course - Take Your First Steps into the World of AR](https://www.freecodecamp.org/news/take-your-first-steps-into-the-world-of-augmented-reality/)
 
 ## GIS (Geographic Information System)
 

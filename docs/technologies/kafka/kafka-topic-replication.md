@@ -87,7 +87,7 @@ https://bravenewgeek.com/building-a-distributed-log-from-scratch-part-2-data-rep
 
 ## Links
 
-[Apache Kafka replication factor – What's the perfect number? - CloudKarafka, Apache Kafka Message streaming as a Service](https://www.cloudkarafka.com/blog/apache-kafka-replication-factor-perfect-number.html)
+[Apache Kafka replication factor - What's the perfect number? - CloudKarafka, Apache Kafka Message streaming as a Service](https://www.cloudkarafka.com/blog/apache-kafka-replication-factor-perfect-number.html)
 
 [Kafka Replication | Confluent Documentation](https://docs.confluent.io/kafka/design/replication.html)
 

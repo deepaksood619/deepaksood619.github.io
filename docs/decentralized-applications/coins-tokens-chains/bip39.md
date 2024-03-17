@@ -136,4 +136,4 @@ Using an extended public key, you can generate billions of fresh receiving addr
 
 [All bitcoin private keys](https://lbc.cryptoguru.org/dio/1)
 
-[User Guide: Secret Recovery Phrase, password, and private keys – MetaMask](https://support.metamask.io/hc/en-us/articles/4404722782107-User-Guide-Secret-Recovery-Phrase-password-and-private-keys)
+[User Guide: Secret Recovery Phrase, password, and private keys - MetaMask](https://support.metamask.io/hc/en-us/articles/4404722782107-User-Guide-Secret-Recovery-Phrase-password-and-private-keys)

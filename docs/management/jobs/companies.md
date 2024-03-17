@@ -261,7 +261,7 @@
 - FAANGM
 - Big 4 - Deloitte, PricewaterhouseCoopers (PwC), KPMG, and EY
 - Jane Street Capital -  4 crore package
-- [Notion – The all-in-one workspace for your notes, tasks, wikis, and databases.](https://dubverse-ai.notion.site/Careers-at-Dubverse-afd52b8d135f44cab3f94124a00b5582)
+- [Notion - The all-in-one workspace for your notes, tasks, wikis, and databases.](https://dubverse-ai.notion.site/Careers-at-Dubverse-afd52b8d135f44cab3f94124a00b5582)
 
 ## Roles
 

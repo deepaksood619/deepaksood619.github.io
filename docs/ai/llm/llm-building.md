@@ -1,6 +1,6 @@
 # LLM Building
 
-- [Create a Large Language Model from Scratch with Python – Tutorial - YouTube](https://www.youtube.com/watch?v=UU1WVnMk4E8)
+- [Create a Large Language Model from Scratch with Python - Tutorial - YouTube](https://www.youtube.com/watch?v=UU1WVnMk4E8)
 - [Understanding Large Language Models - by Sebastian Raschka](https://magazine.sebastianraschka.com/p/understanding-large-language-models)
 - [Large language models, explained with a minimum of math and jargon](https://www.understandingai.org/p/large-language-models-explained-with)
 - [Catching up on the weird world of LLMs](https://simonwillison.net/2023/Aug/3/weird-world-of-llms/)
@@ -160,12 +160,12 @@ Ludwig enables you to apply state-of-the-art tabular, natural language processin
 
 ## Resources
 
-[Development with Large Language Models Tutorial – OpenAI, Langchain, Agents, Chroma - YouTube](https://www.youtube.com/watch?v=xZDB1naRUlk&t=1032s)
+[Development with Large Language Models Tutorial - OpenAI, Langchain, Agents, Chroma - YouTube](https://www.youtube.com/watch?v=xZDB1naRUlk&t=1032s)
 
 ![document-based-question-answering-system](../../media/Screenshot%202023-12-28%20at%208.00.43.PM.jpg)
 
 - [GitHub - openai/openai-cookbook: Examples and guides for using the OpenAI API](https://github.com/openai/openai-cookbook)
-- [Vector Embeddings Tutorial – Create an AI Assistant with GPT-4 & Natural Language Processing - YouTube](https://www.youtube.com/watch?v=yfHHvmaMkcA)
+- [Vector Embeddings Tutorial - Create an AI Assistant with GPT-4 & Natural Language Processing - YouTube](https://www.youtube.com/watch?v=yfHHvmaMkcA)
 - [This new AI is powerful and uncensored… Let’s run it - YouTube](https://www.youtube.com/watch?v=GyllRd2E6fg&ab_channel=Fireship)
 - [Learn Generative AI in 30 Hours](https://www.freecodecamp.org/news/learn-generative-ai-in/)
 - [AI Watermarking 101: Tools and Techniques](https://huggingface.co/blog/watermarking)

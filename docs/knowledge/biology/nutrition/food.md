@@ -326,7 +326,7 @@ Unlike the others, vitamin D can be produced by our bodies, provided our skin is
 
 **Make Vit D while the sun shines**
 
-Try to get 10–20 minutes of sunlight ideally before noon, 3-4 times a week. Darker skin needs more sun than lighter skin; so adjust your sun exposure based on your need.
+Try to get 10-20 minutes of sunlight ideally before noon, 3-4 times a week. Darker skin needs more sun than lighter skin; so adjust your sun exposure based on your need.
 
 ## Infused Water
 

@@ -18,7 +18,7 @@ A second key decision is how to show statistical significance. The example above
 
 ## When should you use cross-tabulation?
 
-You typically use cross tabulation when you have categorical variables or data – e.g. information that can be divided into mutually exclusive groups.
+You typically use cross tabulation when you have categorical variables or data - e.g. information that can be divided into mutually exclusive groups.
 
 For example, a categorical variable could be customer reviews by region. You divide this information into reviews per geographical area: North, South, East, West, or state, and then analyse the relationships between that data.
 

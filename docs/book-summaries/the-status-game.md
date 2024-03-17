@@ -68,7 +68,7 @@ When people accept a core belief and act on it, as the price for earning connect
 
 ### Why value conflict causes pain
 
-Our status games are embedded into our perception. We experience reality through them. So when we encounter someone playing a rival game, it can be disturbing. If they’re living by a conflicting set of rules and symbols, they’re implying our rules and symbols our criteria for claiming status – are invalid, and our dream of reality is false. They’re a sentient repudiation of the value we’ve spent ourI lives earning. They insult us simply by being who they are. It should be no surprise, then, that encountering someone with conflicting beliefs can feel like an attack: status is a resource,
+Our status games are embedded into our perception. We experience reality through them. So when we encounter someone playing a rival game, it can be disturbing. If they’re living by a conflicting set of rules and symbols, they’re implying our rules and symbols our criteria for claiming status - are invalid, and our dream of reality is false. They’re a sentient repudiation of the value we’ve spent ourI lives earning. They insult us simply by being who they are. It should be no surprise, then, that encountering someone with conflicting beliefs can feel like an attack: status is a resource,
 
 ### Conspiracy theorists want status
 
@@ -90,7 +90,7 @@ Partly through effective propaganda, Hitler himself became highly symbolic of th
 
 One contemporary observer, Otto Dietrich, wrote: ‘We see in him the symbol of the indestructible life-force of the German nation, which has taken living shape in Adolf Hitler.’
 
-Any attempt at defence or retaliation implies their dream is an illusion and their criteria for claiming status is therefore false. This is disturbing to them. It often triggers a response of overwhelmingly disproportionate dominance. So morally outraged are they by insubordination from their subhuman targets, they strike back on the principle of two eyes for an eye – or two hundred eyes, or two thousand, or however many they consider morally equivalent to their precious one.
+Any attempt at defence or retaliation implies their dream is an illusion and their criteria for claiming status is therefore false. This is disturbing to them. It often triggers a response of overwhelmingly disproportionate dominance. So morally outraged are they by insubordination from their subhuman targets, they strike back on the principle of two eyes for an eye - or two hundred eyes, or two thousand, or however many they consider morally equivalent to their precious one.
 
 ### Genocide and declines in status
 
@@ -108,4 +108,4 @@ The route forward is more likely to be found if we muster the wisdom to see thro
 
 I believe we can all take consolation in the knowledge that nobody ever gets there, not the superstars, the presidents, the geniuses or the artists we gaze up at in envy and awe. That promised land is a mirage. It’s a myth. In our lowest moments, we should remind ourselves of the truth of the dream: that life is not a story, game with no end. This means it isn’t a final victory we should seek but simple, humble progress: the never-ending pleasure of moving in the right direction. Nobody wins the status game. They’re not supposed to. The meaning of life is not to win, it’s to play.
 
-[The Status Game Book Summary – Will Storr - Wise Words](https://wisewords.blog/book-summaries/status-game-book-summary/)
+[The Status Game Book Summary - Will Storr - Wise Words](https://wisewords.blog/book-summaries/status-game-book-summary/)

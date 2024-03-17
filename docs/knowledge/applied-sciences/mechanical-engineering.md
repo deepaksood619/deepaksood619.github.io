@@ -219,7 +219,7 @@ CNC is **Computerised Numerical Control**. CNC is a control system that control
 - [How Things are Made - YouTube](https://www.youtube.com/playlist?list=PL7Znhz30kcyJacbogUbZyBk4N5jX_DDos)
 - [Food Manufacturing Process - YouTube](https://www.youtube.com/playlist?list=PL7Znhz30kcyLEkI5ol8bnxwEiBxTwp6CZ)
 - [Heat Pumps: the Future of Home Heating](https://www.youtube.com/watch?v=7J52mDjZzto)
-- [How to build a satellite – with Stuart Eves](https://www.youtube.com/watch?v=oWidvY7JzFE)
+- [How to build a satellite - with Stuart Eves](https://www.youtube.com/watch?v=oWidvY7JzFE)
 - [How do airplanes actually fly? - Raymond Adkins - YouTube](https://www.youtube.com/watch?v=p4VHMsIuPmk)
 - [The Science Of Small Distances - YouTube](https://www.youtube.com/watch?v=Aw-xbs8ZWxE)
 - [The World Of Microscopic Machines - YouTube](https://www.youtube.com/watch?v=iPGpoUN29zk)

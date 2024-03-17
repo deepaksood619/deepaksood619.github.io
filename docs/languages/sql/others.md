@@ -55,15 +55,15 @@ In PostgreSQL, a similar collection of tables can be found in the information_sc
 
 Examples of system views:
 
-- sys.objects – shows each object, its type and created date
-- sys.indexes – shows each index and type
-- information_schema.columns – shows each column, it’s position and datatype
+- sys.objects - shows each object, its type and created date
+- sys.indexes - shows each index and type
+- information_schema.columns - shows each column, it’s position and datatype
 
 Examples of catalog objects:
 
-- information_schema.tables – shows each object, its type and created date
-- pg_index – shows each index and type
-- information_schema.columns – shows each column, it’s position and datatype.
+- information_schema.tables - shows each object, its type and created date
+- pg_index - shows each index and type
+- information_schema.columns - shows each column, it’s position and datatype.
 
 ## Others
 

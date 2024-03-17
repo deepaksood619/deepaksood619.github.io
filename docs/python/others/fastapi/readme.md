@@ -199,4 +199,4 @@ async def foo() -> SomeModel:
 
 [Awesome FastAPI | | Curated list of awesome lists | Project-Awesome.org](https://project-awesome.org/mjhea0/awesome-fastapi)
 
-[FastAPI Handbook – How to Develop, Test, and Deploy APIs](https://www.freecodecamp.org/news/fastapi-quickstart/)
+[FastAPI Handbook - How to Develop, Test, and Deploy APIs](https://www.freecodecamp.org/news/fastapi-quickstart/)

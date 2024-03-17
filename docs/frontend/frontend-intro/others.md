@@ -45,7 +45,7 @@ Back/forward cache (or bfcache) is a browser optimization that enables instant b
 - https://imgix.com
 - [**https://squoosh.app/**](https://squoosh.app/)
 - Birme - https://www.birme.net
-- [TinyPNG – Compress WebP, PNG and JPEG images intelligently](https://tinypng.com/)
+- [TinyPNG - Compress WebP, PNG and JPEG images intelligently](https://tinypng.com/)
 - [AI Image Upscaler - Enlarge & Enhance Your Photos for Free - Upscale.media](https://www.upscale.media/)
 - [Image Resizer - Crop & Resize Image Online | RedKetchup](https://redketchup.io/image-resizer)
 
@@ -68,7 +68,7 @@ convert input.pdf output.jpg
 # For good quality use these parameters
 convert -density 300 -quality 100 in.pdf out.jpg
 
-# [ImageMagick – Command-line Tools: Convert](https://www.imagemagick.org/script/convert.php)
+# [ImageMagick - Command-line Tools: Convert](https://www.imagemagick.org/script/convert.php)
 ```
 
 [imagemagick](ai/computer-vision-cv/imagemagick.md)

@@ -74,9 +74,9 @@ In this way the curriculum itself has more creative learning through arts, cooki
 
 ### Toys
 
-In case you want to set up a business brainwashing affluent parents to spend their money on useless bits of plastic, you will find in this article details of the tricks that firms like Fisher-Price use to flog their products. More constructively, if you are a young parent and you want to buy useful toys for your child, the article says: "After watching kids play with more than 100 different types of toy, the researchers concluded that simple, open-ended, non-realistic toys with multiple parts, like a random assortment of Lego, inspired the highest-quality play. While engaged with such toys, children were "more likely to be creative, engage in problem solving, interact with their peers, and use language," the researchers wrote. Electronic toys, however, tended to limit kids’ play: "A simple wooden cash register in our study inspired children to engage in lots of conversations related to buying and selling – but a plastic cash register that produced sounds when buttons were pushed mostly inspired children to just push the buttons repeatedly."
+In case you want to set up a business brainwashing affluent parents to spend their money on useless bits of plastic, you will find in this article details of the tricks that firms like Fisher-Price use to flog their products. More constructively, if you are a young parent and you want to buy useful toys for your child, the article says: "After watching kids play with more than 100 different types of toy, the researchers concluded that simple, open-ended, non-realistic toys with multiple parts, like a random assortment of Lego, inspired the highest-quality play. While engaged with such toys, children were "more likely to be creative, engage in problem solving, interact with their peers, and use language," the researchers wrote. Electronic toys, however, tended to limit kids’ play: "A simple wooden cash register in our study inspired children to engage in lots of conversations related to buying and selling - but a plastic cash register that produced sounds when buttons were pushed mostly inspired children to just push the buttons repeatedly."
 
-As a result of such research, it is increasingly acknowledged that the best new toys are the best old ones – sticks and blocks and dolls and sand that follow no pre-programmed routines, that elicit no predetermined behaviours."
+As a result of such research, it is increasingly acknowledged that the best new toys are the best old ones - sticks and blocks and dolls and sand that follow no pre-programmed routines, that elicit no predetermined behaviours."
 
 [How touch can make or break your relationship - BBC REEL](https://youtu.be/FN7Buz0CMfI)
 
@@ -102,7 +102,7 @@ Attachment theory
 
 [stanfordchildrens.org/content-public/pdf/bayside-medical-group/BMG handout hurts others.pdf](https://www.stanfordchildrens.org/content-public/pdf/bayside-medical-group/BMG%20handout%20hurts%20others.pdf)
 
-[Do's and Don'ts When Kids Won't Listen – Cleveland Clinic](https://health.clevelandclinic.org/discipline-top-dos-and-donts-when-your-kids-wont-listen/)
+[Do's and Don'ts When Kids Won't Listen - Cleveland Clinic](https://health.clevelandclinic.org/discipline-top-dos-and-donts-when-your-kids-wont-listen/)
 
 ## Things that shouldn't be teached to children
 
@@ -137,7 +137,7 @@ Why kicking out children after 18 years is important, let's say you are very wea
 | Do they come in various sizes?  | Yes, based on age in months                                                        | Yes, based on age and sizes (Small, Medium, etc.)                                                              |
 | Convenient for?                 | All day use at home and at bedtime for older babies                                | Travel; can easily be pulled on and off!                                                                       |
 
-[Taped Baby Diaper Vs Diaper Pants: How to Choose? – Pampers India](https://www.in.pampers.com/newborn-baby/care/article/taped-style-vs-pant-style-diapers)
+[Taped Baby Diaper Vs Diaper Pants: How to Choose? - Pampers India](https://www.in.pampers.com/newborn-baby/care/article/taped-style-vs-pant-style-diapers)
 
 [Taped Diapers: Tape Diapers Vs Pant Style Diapers: Which suits infants better? | - Times of India (March, 2024)](https://timesofindia.indiatimes.com/hot-picks/tape-diapers-vs-pant-style-diapers-which-suits-infants-better/articleshow/107329905.cms)
 

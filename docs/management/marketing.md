@@ -544,7 +544,7 @@ Ex - Airtel produced a full song dedicated to friendship. This song had "Har ek 
 
 Typical OOH formats include billboards, on-car ads, bus-stop shelters, etc.
 
-**Digital out-of-home (DOOH)** is basically OOH powered up with AdTech – geofencing, tracking, retargeting, personalizing, attribution and measurement.
+**Digital out-of-home (DOOH)** is basically OOH powered up with AdTech - geofencing, tracking, retargeting, personalizing, attribution and measurement.
 
 [What Is DOOH Advertising and How Does It Work? - Clearcode Blog](https://clearcode.cc/blog/what-is-digital-out-of-home-dooh/)
 

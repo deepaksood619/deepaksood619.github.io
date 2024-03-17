@@ -35,7 +35,7 @@
 - [AWS Rekognition](aws-rekognition)
 - [Amazon Pinpoint](amazon-pinpoint)
 - [Amazon Q (Preview)](https://aws.amazon.com/q/)
-   	- Your generative AI–powered assistant designed for work that can be tailored to your business
+   	- Your generative AI-powered assistant designed for work that can be tailored to your business
    	- Q Business
    	- Q Builder
    	- Bedrock
@@ -44,6 +44,16 @@
    	- [Supported connectors - Amazon Q](https://docs.aws.amazon.com/amazonq/latest/business-use-dg/connectors-list.html)
 - [Course - Architecting on AWS](cloud/aws/course-architecting-on-aws.md)
 - [Others](cloud/aws/others.md)
+
+## Products
+
+[AWS Cloud Products](https://aws.amazon.com/products/)
+
+Total - 171 services in the periodic table
+
+![Periodic Table of AWS](../../media/Pasted%20image%2020240317231429.png)
+
+https://www.awsgeek.com/Periodic-Table-of-Amazon-Web-Services/Periodic-Table-of-Amazon-Web-Services.jpg
 
 ![Cloud Infra 30K Feet Design](../../media/Pasted%20image%2020240205224442.jpg)
 

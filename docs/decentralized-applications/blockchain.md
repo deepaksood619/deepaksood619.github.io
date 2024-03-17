@@ -144,7 +144,7 @@ Ethereum uses an account-based approach with account balances, so there are no U
 
 #### Example
 
-Alice has 0.45 BTC in her [wallet](https://academy.binance.com/en/articles/crypto-wallet-types-explained). This isn’t a fraction of a coin as we might conceptualize it. It’s rather a collection of UTXOs. Specifically, two UTXOs worth 0.4 BTC, and 0.05 BTC – outputs from past transactions. Now let's imagine that Alice needs to make a payment to Bob of 0.3 BTC.
+Alice has 0.45 BTC in her [wallet](https://academy.binance.com/en/articles/crypto-wallet-types-explained). This isn’t a fraction of a coin as we might conceptualize it. It’s rather a collection of UTXOs. Specifically, two UTXOs worth 0.4 BTC, and 0.05 BTC - outputs from past transactions. Now let's imagine that Alice needs to make a payment to Bob of 0.3 BTC.
 
 Her only option here is to break up the 0.4 BTC unit and to send 0.3 BTC to Bob, and 0.1 BTC back to herself. She would normally reclaim less than 0.1 BTC due to mining fees, but let's simplify and leave the [miner](https://academy.binance.com/en/articles/what-is-cryptocurrency-mining) out.
 

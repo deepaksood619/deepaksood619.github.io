@@ -153,7 +153,7 @@ Effective February 1, 2024 there will be a charge of $0.005 per IP per hour for 
 
 This will cost around $4 month per IP per month
 
-[New – AWS Public IPv4 Address Charge + Public IP Insights | AWS News Blog](https://aws.amazon.com/blogs/aws/new-aws-public-ipv4-address-charge-public-ip-insights/)
+[New - AWS Public IPv4 Address Charge + Public IP Insights | AWS News Blog](https://aws.amazon.com/blogs/aws/new-aws-public-ipv4-address-charge-public-ip-insights/)
 
 [Identify and optimize public IPv4 address usage on AWS | Networking & Content Delivery](https://aws.amazon.com/blogs/networking-and-content-delivery/identify-and-optimize-public-ipv4-address-usage-on-aws/)
 

@@ -112,7 +112,7 @@ Moving from information to knowledge age
 - [fal.ai/camera](https://www.fal.ai/camera)
 - [GitHub - lxe/llm-companion: Mobile web app for audio "push-to-talk" + TTS chat interface with OpenAI-like APIs](https://github.com/lxe/llm-companion)
 - [GitHub - adithya-s-k/CompanionLLM: CompanionLLM - A framework to finetune LLMs to be your own sentient conversational companion](https://github.com/adithya-s-k/CompanionLLM)
-- [Waii – World's most powerful SQL API built with generative AI](https://www.waii.ai/)
+- [Waii - World's most powerful SQL API built with generative AI](https://www.waii.ai/)
 
 ## Purpose-built accelerators for generative AI
 
@@ -137,7 +137,7 @@ Moving from information to knowledge age
 - [The True Cost of Compute - YouTube](https://www.youtube.com/watch?v=MNFeJNUu074)
 - [Welcome to State of AI Report 2023](https://www.stateof.ai/)
 - [State of AI Report 2023 - ONLINE - Google Slides](https://docs.google.com/presentation/d/156WpBF_rGvf4Ecg19oM1fyR51g4FAmHV3Zs0WLukrLQ/edit)
-- [[#29] AI Evolution: From AlexNet to Generative AI – Redefining the Paradigm of Software Development](https://bizit.substack.com/p/29-ai-evolution-from-alexnet-to-generative)
+- [[#29] AI Evolution: From AlexNet to Generative AI - Redefining the Paradigm of Software Development](https://bizit.substack.com/p/29-ai-evolution-from-alexnet-to-generative)
 - [Google "We Have No Moat, And Neither Does OpenAI"](https://www.semianalysis.com/p/google-we-have-no-moat-and-neither)
 - [AGI-Proof Jobs: Navigating the Impending Obsolescence of Human Labor in the Age of AGI - YouTube](https://www.youtube.com/watch?v=Ahh92qtRwos&ab_channel=DavidShapiro)
 - [A DeepMind AI rivals the world's smartest high schoolers at geometry](https://www.understandingai.org/p/a-deepmind-ai-rivals-the-worlds-smartest)

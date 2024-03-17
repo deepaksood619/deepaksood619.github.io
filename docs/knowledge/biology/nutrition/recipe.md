@@ -117,7 +117,7 @@
 
 [Jab Koi Sabji Na Ho Toh Sirf 5 Minute May Banaiye Ye Zabardast Recipe - Pet Bharega Dil Nahi - CWF](https://www.youtube.com/watch?v=2Ln3b37gJlE)
 
-[Air Fryer Tandoori Mushrooms – Spicy Mushroom Tikka - Fast Curries](https://fastcurries.com/2019/07/11/air-fryer-spicy-tandoori-mushrooms/)
+[Air Fryer Tandoori Mushrooms - Spicy Mushroom Tikka - Fast Curries](https://fastcurries.com/2019/07/11/air-fryer-spicy-tandoori-mushrooms/)
 
 [Khichdi Recipe | Simple & Healthy Khichdi | Masala Khichdi Recipe | Comfort Food | Chef Kunal Kapur - YouTube](https://www.youtube.com/watch?v=TvTMsUeC-z4&ab_channel=KunalKapur)
 

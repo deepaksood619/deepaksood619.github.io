@@ -175,6 +175,6 @@ The open-source Lustre file system is designed for applications that require fas
 
 ## Links
 
-[Cloud Storage Options – Block Storage vs File Storage vs Object Storage Explained](https://www.freecodecamp.org/news/cloud-storage-options/)
+[Cloud Storage Options - Block Storage vs File Storage vs Object Storage Explained](https://www.freecodecamp.org/news/cloud-storage-options/)
 
 ![cloud-storage-options](../../../media/Pasted%20image%2020230802182140.png)

@@ -22,4 +22,4 @@ https://en.wikipedia.org/wiki/Branches_of_science
 
 [The Map of Engineering](https://youtu.be/pQgxiQAMTTo)
 
-[The "Adjacent Possible" – and How It Explains Human Innovation | Stuart Kauffman | TED - YouTube](https://www.youtube.com/watch?v=nEtATZePGmg)
+[The "Adjacent Possible" - and How It Explains Human Innovation | Stuart Kauffman | TED - YouTube](https://www.youtube.com/watch?v=nEtATZePGmg)

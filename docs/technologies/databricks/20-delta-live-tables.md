@@ -63,7 +63,7 @@ To ensure your pipelines are efficient and maintainable, choose the best dataset
 
 [Views vs Materialized Delta Tables](https://community.databricks.com/s/question/0D53f00001GHVMlCAP/views-vs-materialized-delta-tables)
 
-[Getting Started with Delta Live Tables – Databricks](https://www.databricks.com/discover/pages/getting-started-with-delta-live-tables)
+[Getting Started with Delta Live Tables - Databricks](https://www.databricks.com/discover/pages/getting-started-with-delta-live-tables)
 
 [What is Delta Live Tables? | Databricks on AWS](https://docs.databricks.com/delta-live-tables/index.html)
 

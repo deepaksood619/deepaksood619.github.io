@@ -47,7 +47,7 @@ Some utility tokens also offer discounts, rewards, or additional benefits to tok
 
 ### Payment tokens
 
-The sole purpose of payment tokens is to pay for goods and services. A token may fall into more than one of the above-listed categories. A security token, for instance, may also have the functionality of a utility token, accounting – once again – for fuzzy boundaries. It remains to be seen how the consensus forms and how the cryptocurrency market evolves in the future.
+The sole purpose of payment tokens is to pay for goods and services. A token may fall into more than one of the above-listed categories. A security token, for instance, may also have the functionality of a utility token, accounting - once again - for fuzzy boundaries. It remains to be seen how the consensus forms and how the cryptocurrency market evolves in the future.
 
 ### Others
 

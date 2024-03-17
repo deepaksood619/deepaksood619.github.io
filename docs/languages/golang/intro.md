@@ -50,4 +50,4 @@ Go is fast! Go is extremely fast. The performance is similar to that of Java or 
 - [Introduction to Go Programming for beginners](https://www.youtube.com/watch?v=jpKysZwllVw&ab_channel=ThatDevOpsGuy)
 - https://www.freecodecamp.org/news/learn-go-by-building-11-projects
 - [Writing our own Concurrent Thread safe Queue - YouTube](https://www.youtube.com/watch?v=oYoVx8ZuvTw)
-- [Go Programming Tutorial – 3 Beginner Projects - YouTube](https://www.youtube.com/watch?v=k_V5VvYSlS4)
+- [Go Programming Tutorial - 3 Beginner Projects - YouTube](https://www.youtube.com/watch?v=k_V5VvYSlS4)

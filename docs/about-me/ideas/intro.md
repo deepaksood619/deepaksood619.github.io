@@ -4,7 +4,7 @@ Once an idea has taken hold of the brain it's almost impossible to eradicate. An
 
 ## Inspirations
 
-- [Product Hunt – The best new products in tech.](https://www.producthunt.com/)
+- [Product Hunt - The best new products in tech.](https://www.producthunt.com/)
 - https://startup.google.com
 - https://redislabs.com/blog/build-on-redis-hackathon-winners
 - https://www.freecodecamp.org/news/learn-how-to-build-apps-from-a-business-perspective

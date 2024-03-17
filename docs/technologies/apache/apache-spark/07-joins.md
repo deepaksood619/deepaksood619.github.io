@@ -125,4 +125,4 @@ https://towardsdatascience.com/the-art-of-joining-in-spark-dcbd33d693c
 
 [Spark Join Strategies - How & What? | by Jyoti Dhiman | Towards Data Science](https://towardsdatascience.com/strategies-of-spark-join-c0e7b4572bcf)
 
-**[On Improving Broadcast Joins in Apache Spark SQL – Databricks](https://www.databricks.com/session_na20/on-improving-broadcast-joins-in-apache-spark-sql)**
+**[On Improving Broadcast Joins in Apache Spark SQL - Databricks](https://www.databricks.com/session_na20/on-improving-broadcast-joins-in-apache-spark-sql)**

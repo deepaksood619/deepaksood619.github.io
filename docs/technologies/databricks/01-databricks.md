@@ -18,7 +18,7 @@ With the intent to build data and AI applications, Databricks consists of two co
 
 ## Databricks SQL (DB SQL)
 
-Databricks SQL (DB SQL) is a serverless data warehouse on the Databricks Lakehouse Platform that lets you run all your SQL and BI applications at scale with up to 12x better price/performance, a unified governance model, open formats and APIs, and your tools of choice – no lock-in.
+Databricks SQL (DB SQL) is a serverless data warehouse on the Databricks Lakehouse Platform that lets you run all your SQL and BI applications at scale with up to 12x better price/performance, a unified governance model, open formats and APIs, and your tools of choice - no lock-in.
 
 ANSI standard SQL dialect by default
 

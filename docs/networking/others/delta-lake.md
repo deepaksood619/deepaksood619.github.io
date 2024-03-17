@@ -138,6 +138,6 @@ Delta outperformed Iceberg and Hudi in loading and querying the data.
 
 [Delta vs Iceberg vs hudi : Reassessing Performance | by DataBeans | Medium](https://databeans-blogs.medium.com/delta-vs-iceberg-vs-hudi-reassessing-performance-cb8157005eb0)
 
-[A Thorough Comparison of Delta Lake, Iceberg and Hudi – Databricks](https://www.databricks.com/session_na20/a-thorough-comparison-of-delta-lake-iceberg-and-hudi)
+[A Thorough Comparison of Delta Lake, Iceberg and Hudi - Databricks](https://www.databricks.com/session_na20/a-thorough-comparison-of-delta-lake-iceberg-and-hudi)
 
 [Apache Hudi vs Delta Lake vs Apache Iceberg - Lakehouse Feature Comparison](https://www.onehouse.ai/blog/apache-hudi-vs-delta-lake-vs-apache-iceberg-lakehouse-feature-comparison)

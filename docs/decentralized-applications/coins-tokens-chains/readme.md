@@ -43,7 +43,7 @@
     - Low transaction fees
     - https://solana.com
     - [The Solana Reading List - by mert - Rotating Words](https://www.mertimus.com/p/the-solana-reading-list?)
-    - [Visa Crypto Thought Leadership – A deep dive on Solana | Visa](https://usa.visa.com/solutions/crypto/deep-dive-on-solana.html)
+    - [Visa Crypto Thought Leadership - A deep dive on Solana | Visa](https://usa.visa.com/solutions/crypto/deep-dive-on-solana.html)
 - Polkadot
     - [Polkadot: What's Up With DOT?! Potential in 2022!! - YouTube](https://www.youtube.com/watch?v=H7S5k5jWp48)
     - [What is Polkadot? DOT Explained with Animations - YouTube](https://www.youtube.com/watch?v=YlAdEQp6ekM)
@@ -87,7 +87,7 @@ A wrapped token is a tokenized version of another cryptocurrency which is pegged
 - Cartezi
 - Litecoin
 - Polygon
-- DFI - DFI is the DeFi Blockchain (DeFiChain) native token. DeFi blockchain is a blockchain launched by DeFiChain Foundation to enable decentralized finance (DeFi) on the Bitcoin blockchain, without needing Turing-complete instructions – which has proven to be causing quite a few unwanted incidents in the DeFi space.
+- DFI - DFI is the DeFi Blockchain (DeFiChain) native token. DeFi blockchain is a blockchain launched by DeFiChain Foundation to enable decentralized finance (DeFi) on the Bitcoin blockchain, without needing Turing-complete instructions - which has proven to be causing quite a few unwanted incidents in the DeFi space.
 
 [Top 5 Eco Friendly Cryptocurrencies to Buy and Hold in 2023 - YouTube](https://www.youtube.com/watch?v=7XV3TFISzUk)
 
@@ -156,7 +156,7 @@ A wrapped token is a tokenized version of another cryptocurrency which is pegged
 
 - [Learn and Earn, DeFiChain | CoinMarketCap](https://coinmarketcap.com/earn/project/defichain)
 - [$0.52 | DeFiChain Token (DFI) Token Tracker | Etherscan](https://etherscan.io/token/0x8fc8f8269ebca376d046ce292dc7eac40c8d358a)
-- [DeFi Scan – Native Decentralized Finance for Bitcoin](https://defiscan.live/)
+- [DeFi Scan - Native Decentralized Finance for Bitcoin](https://defiscan.live/)
 - [DeFiChain Whitepaper](https://defichain.com/white-paper/)
 
 ### Cosmos

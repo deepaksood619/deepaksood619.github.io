@@ -8,10 +8,10 @@ Tax Consulation - https://www.charteredclub.com/tax-consultation-with-ca-karan-b
 
 Input tax credit
 
-**Period: April 1, 2022 – March 31, 2023**
+**Period: April 1, 2022 - March 31, 2023**
 
 - Financial Year: 2022 - 2023
-- Assessment Year: 2023 – 2024
+- Assessment Year: 2023 - 2024
 
 ### Direct and indirect taxes
 
@@ -320,7 +320,7 @@ Also, the dividend income earned on foreign investments is taxed at the pre-defi
 - P1006 - Business and management consultancy and public relations services taxation
 - **P0802** - Software consultancy implementation other than those covered in SOFTEX form
 
-[Foreign Inward Remittance Certificate for India (FIRC) – Upwork Customer Service & Support | Upwork Help](https://support.upwork.com/hc/en-us/articles/11494386652179-Foreign-Inward-Remittance-Certificate-for-India-FIRC-)
+[Foreign Inward Remittance Certificate for India (FIRC) - Upwork Customer Service & Support | Upwork Help](https://support.upwork.com/hc/en-us/articles/11494386652179-Foreign-Inward-Remittance-Certificate-for-India-FIRC-)
 
 [Foreign Remittances | Fees for Technical Services | TDS Requirement](https://taxguru.in/income-tax/foreign-remittances-fees-technical-services-tds-requirement.html)
 

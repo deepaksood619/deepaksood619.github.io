@@ -54,7 +54,7 @@ The future of decentralized finance lies in the hands of those who dare to chall
 - Nansen
 - Coingecko
 - Glassnode
-- [BitGo – How institutions and platforms securely access crypto](https://www.bitgo.com/)
+- [BitGo - How institutions and platforms securely access crypto](https://www.bitgo.com/)
 - [Fireblocks - #1 Institutional Digital Asset Custody, Settlement & Issuance](https://www.fireblocks.com/)
 - [Unibot - The Fastest Uniswap Telegram Sniper](https://unibot.app/)
 

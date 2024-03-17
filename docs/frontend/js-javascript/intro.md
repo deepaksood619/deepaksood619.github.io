@@ -108,5 +108,5 @@ https://github.com/ryanmcdermott/clean-code-javascript
 - https://www.freecodecamp.org/news/lexical-scope-in-javascript
 - https://www.freecodecamp.org/news/objects-in-javascript-for-beginners
 - [JavaScript Tips to Help You Build Better Web Development Projects](https://www.freecodecamp.org/news/javascript-tips-for-better-web-dev-projects/)
-- [How to Use JavaScript Promises – Callbacks, Async/Await, and Promise Methods Explained](https://www.freecodecamp.org/news/javascript-promises-async-await-and-promise-methods/)
-- [Learn JavaScript Operators – Logical, Comparison, Ternary, and More JS Operators With Examples](https://www.freecodecamp.org/news/javascript-operators/)
+- [How to Use JavaScript Promises - Callbacks, Async/Await, and Promise Methods Explained](https://www.freecodecamp.org/news/javascript-promises-async-await-and-promise-methods/)
+- [Learn JavaScript Operators - Logical, Comparison, Ternary, and More JS Operators With Examples](https://www.freecodecamp.org/news/javascript-operators/)

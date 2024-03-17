@@ -350,7 +350,7 @@ Spend the first 3 years of your career ensuring these to accelerate your growth
 
 You can often fix something that's been broken, but you can't fix something that never worked in the first place.. -- Mira Kirshenbaum
 
-Any intelligent fool can make things bigger, more complex, and more violent. It takes a touch of genius – and a lot of courage – to move in the opposite direction. -- EF Schumacher
+Any intelligent fool can make things bigger, more complex, and more violent. It takes a touch of genius - and a lot of courage - to move in the opposite direction. -- EF Schumacher
 
 There are only two industries that call their customers 'users': illegal drugs and software -- Edward Tufte
 

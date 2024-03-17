@@ -451,7 +451,7 @@ Imagine a situation where in the double top formation, the 2nd top forms a beari
 
 [Dow Theory Explained: What It Is and How It Works](https://www.investopedia.com/terms/d/dowtheory.asp)
 
-[The Dow Theory (Part 1) – Varsity by Zerodha](https://zerodha.com/varsity/chapter/dow-theory-part-1/)
+[The Dow Theory (Part 1) - Varsity by Zerodha](https://zerodha.com/varsity/chapter/dow-theory-part-1/)
 
 ## Supplementary Notes 1
 

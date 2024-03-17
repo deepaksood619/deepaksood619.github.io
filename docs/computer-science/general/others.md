@@ -55,7 +55,7 @@ However, translation alone is not sufficient due to its word-for-word approach, 
 |Localization (L10N)|The linguistic adaptation of content for the target region, its languages, and cultural particularities in order to make it appropriate, easily understandable, and comfortable to use for local native language speakers.|
 |Translation (T9N)|The literal word-for-word transformation of a source text into the target language.|
 
-[GILT: Globalization, Internationalization, Localization, Translation – and the Difference Between them - AD VERBUM](https://www.adverbum.com/en/blog/globalization-internationalization-localization-translation)
+[GILT: Globalization, Internationalization, Localization, Translation - and the Difference Between them - AD VERBUM](https://www.adverbum.com/en/blog/globalization-internationalization-localization-translation)
 
 ## Time in human terms (Real cost)
 

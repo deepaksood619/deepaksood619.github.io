@@ -58,7 +58,7 @@ An account is a public-private key pair derived from your Secret Recovery Phrase
 
 Your accounts in MetaMask are each represented by a public address (the 'public' side of your key pair), which you may have seen referred to incorrectly as a 'wallet address'. There is no such thing: there is only an account address.
 
-[What's the difference between a wallet and an account? – MetaMask](https://support.metamask.io/hc/en-us/articles/13466457757211-What-s-the-difference-between-a-wallet-and-an-account-)
+[What's the difference between a wallet and an account? - MetaMask](https://support.metamask.io/hc/en-us/articles/13466457757211-What-s-the-difference-between-a-wallet-and-an-account-)
 
 ## Working
 
@@ -96,7 +96,7 @@ In the blockchain world, every on-chain event (a transaction that interacts with
 
 [Writing for blockchain: wallet signature request messages | by Ryan Cordell | HackerNoon.com | Medium](https://medium.com/hackernoon/writing-for-blockchain-wallet-signature-request-messages-6ede721160d5)
 
-[What is a signature in MetaMask? – MetaMask](https://support.metamask.io/hc/en-us/articles/15756276171163-What-is-a-signature-in-MetaMask-)
+[What is a signature in MetaMask? - MetaMask](https://support.metamask.io/hc/en-us/articles/15756276171163-What-is-a-signature-in-MetaMask-)
 
 ## Technologies
 

@@ -118,5 +118,5 @@ https://www.toptal.com/terraform/terraform-vs-cloudformation
 - https://learn.hashicorp.com/terraform
 - https://medium.com/capital-one-tech/deploying-multiple-environments-with-terraform-kubernetes-7b7f389e622
 - https://github.com/ozbillwang/terraform-best-practices
-- [HashiCorp Terraform Associate Certification Study Course – Pass the Exam With This Free 7 Hour Course](https://www.freecodecamp.org/news/hashicorp-terraform-associate-certification-study-course-pass-the-exam-with-this-free-12-hour-course)
+- [HashiCorp Terraform Associate Certification Study Course - Pass the Exam With This Free 7 Hour Course](https://www.freecodecamp.org/news/hashicorp-terraform-associate-certification-study-course-pass-the-exam-with-this-free-12-hour-course)
 - [GitHub - rishabh96b/terraform-refresher: Refresh your Terraform Knowledge.](https://github.com/rishabh96b/terraform-refresher)

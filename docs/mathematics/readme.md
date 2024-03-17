@@ -164,4 +164,4 @@ Processing signals (filtering, storage and reconstruction, separation of informa
 
 [The hidden networks of everything | Albert-László Barabási - YouTube](https://www.youtube.com/watch?v=RfgjHoVCZwU)
 
-[How can maths help us make better predictions? – with Kit Yates - YouTube](https://www.youtube.com/watch?v=ehXZHY_jgI0)
+[How can maths help us make better predictions? - with Kit Yates - YouTube](https://www.youtube.com/watch?v=ehXZHY_jgI0)

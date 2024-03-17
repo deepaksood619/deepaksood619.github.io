@@ -54,7 +54,7 @@ Main article:[Universal hashing](https://en.wikipedia.org/wiki/Universal_hashing
 | [Pearson hashing](https://en.wikipedia.org/wiki/Pearson_hashing) | 8 bits (or more) | XOR/table |
 | Paul Hsieh's SuperFastHash | 32 bits | |
 | [Buzhash](https://en.wikipedia.org/wiki/Rolling_hash#Cyclic_polynomial) | variable | XOR/table |
-| [Fowler–Noll–Vo hash function (FNV Hash)](https://en.wikipedia.org/wiki/Fowler%E2%80%93Noll%E2%80%93Vo_hash_function) | 32, 64, 128, 256, 512, or 1024 bits | xor/product or product/XOR |
+| [Fowler-Noll-Vo hash function (FNV Hash)](https://en.wikipedia.org/wiki/Fowler%E2%80%93Noll%E2%80%93Vo_hash_function) | 32, 64, 128, 256, 512, or 1024 bits | xor/product or product/XOR |
 | [Jenkins hash function](https://en.wikipedia.org/wiki/Jenkins_hash_function) | 32 or 64 bits | XOR/addition |
 | Bernstein hashdjb2 | 32 bits | |
 | [PJW hash / Elf Hash](https://en.wikipedia.org/wiki/PJW_hash_function) | 32 or 64 bits | add,shift,xor |
