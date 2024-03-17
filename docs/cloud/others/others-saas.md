@@ -91,6 +91,7 @@ https://blueyonder.com
 - https://www.freecodecamp.org/news/low-code-for-freelance-developers-startups
 - [PocketBase - Open Source backend in 1 file](https://pocketbase.io/)
 - [Build features, not apps. - Ply](https://ply.io/)
+- IDP - Internal Developer Platforms/Portals
 
 ### SAAS
 

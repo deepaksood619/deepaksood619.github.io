@@ -8,13 +8,29 @@ https://en.wikipedia.org/wiki/Flat_file_database
 
 ## ScyllaDB
 
+ScyllaDB’s close-to-the-metal architecture handles millions of OPS with predictable single-digit millisecond latencies.
+
+ScyllaDB is an open-source distributed wide-column NoSQL database offering high availability, scalability and fault-tolerance, all while maintaining predictable low latencies and high throughput. ScyllaDB is compatible with both Apache Cassandra (CQL, SSTables) and Amazon DynamoDB interfaces. Written in C++, ScyllaDB uses the highly asynchronous shard-per-core, shared-nothing Seastar framework (http://seastar.io/), where each thread executes on its own CPU core, memory, and multi-queue network interface controller. Cross-core communication is carried out by explicit asynchronous, message passing.
+
 - Real-time big data database
 - Shared nothing architecture
 - NoSQL Database
 - Written in C++
+- ScyllaDB does not support ACID transactions as in RDBMS.
+- ScyllaDB supports CQL Light-Weight Transactions (LWT), which allow for compare-and-set (CAS) operations and strict linearizability using a Paxos consensus algorithm.
 - Alternative - Cassandra
+- Architecture - [ScyllaDB | Modern NoSQL Database Architecture](https://www.scylladb.com/product/technology/)
+- [ScyllaDB vs Cassandra - ScyllaDB](https://www.scylladb.com/scylladb-vs-cassandra/)
+- [Compare NoSQL Databases: ScyllaDB vs MongoDB vs PostgreSQL - ScyllaDB](https://www.scylladb.com/2023/04/03/mongodb-vs-postgres-vs-scylladb-tractians-benchmarking-and-migration/)
 
-https://www.scylladb.com
+### Links
+
+- [ScyllaDB | Monstrously Fast + Scalable NoSQL](https://www.scylladb.com)
+- [GitHub - scylladb/scylladb: NoSQL data store using the seastar framework, compatible with Apache Cassandra](https://github.com/scylladb/scylladb)
+- [Scylla - Database of Databases](https://dbdb.io/db/scylla)
+- [ScyllaDB is better than Cassandra, and here’s why.](https://www.freecodecamp.org/news/scylladb-its-cassandra-but-better-76e3d83a4f81/)
+- [Getting the Most out of Lightweight Transactions in ScyllaDB - ScyllaDB](https://www.scylladb.com/2020/07/15/getting-the-most-out-of-lightweight-transactions-in-scylla/)
+- [Why does Apple use Cassandra when ScyllaDB is so much better and faster? - Quora](https://www.quora.com/Why-does-Apple-use-Cassandra-when-ScyllaDB-is-so-much-better-and-faster)
 
 ## RocksDB
 

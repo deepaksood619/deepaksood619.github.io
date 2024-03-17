@@ -60,6 +60,8 @@ dbt is a SQL-first transformation workflow that lets teams quickly and collabora
 - [Getting Started with dbt (Data Build Tool): A Beginner’s Guide to Building Data Transformations | by Suffyan Asad | Medium](https://medium.com/@suffyan.asad1/getting-started-with-dbt-data-build-tool-a-beginners-guide-to-building-data-transformations-28e335be5f7e)
 - [GitHub - dbt-labs/dbt-core: dbt enables data analysts and engineers to transform their data using the same practices that software engineers use to build applications.](https://github.com/dbt-labs/dbt-core)
 - [Setting Up dbt and Connecting to Snowflake](https://vivekbattul.notion.site/Setting-Up-dbt-and-Connecting-to-Snowflake-0c8dc5fae7df4d71aca1fabdad38b3f7)
+- [dbt vs Airflow vs Keboola](https://www.keboola.com/blog/dbt-vs-airflow-vs-keboola)
+- [dbt vs Airflow: Which data tool is best for your organization?](https://datacoves.com/post/dbt-vs-airflow)
 
 ## Airbyte
 
