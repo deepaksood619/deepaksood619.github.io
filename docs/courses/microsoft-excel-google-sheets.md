@@ -88,6 +88,7 @@ Rows - 1,048,576- Text to column
 - IF
     - SUMIF, SUMIFS, COUNTIF, COUNTIFS
 - =FILTER(I:I, ISNA(MATCH(I:I, C:C, 0))) - filter one column based on other column
+- =concatenate(A1:A5)
 
 ## Others
 

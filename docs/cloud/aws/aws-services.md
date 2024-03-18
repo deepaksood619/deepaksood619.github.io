@@ -174,7 +174,7 @@ Amazon EventBridge Scheduler is a serverless scheduler that allows you to create
 
 EventBridge Scheduler delivers your tasks reliably, with built-in mechanisms that adjust your schedules based on the availability of downstream targets. With EventBridge Scheduler, you can create schedules using cron and rate expressions for recurring patterns, or configure one-time invocations. You can set up flexible time windows for delivery, define retry limits, and set the maximum retention time for failed triggers.
 
-## Key features of EventBridge Scheduler
+#### Key features of EventBridge Scheduler
 
 EventBridge Scheduler offers the following key features that you can use to configure targets and scale your schedules.
 
