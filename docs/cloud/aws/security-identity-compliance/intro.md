@@ -8,6 +8,8 @@
 6. AWS Direct Connect - Dedicated Network Connection to AWS
 7. Amazon Inspector - Analyze Application Security
 8. Amazon Macie - Discover, Classify, and Protect Your Data
+	1. Amazon Macie is a data security service that uses machine learning (ML) and pattern matching to discover and help protect your sensitive data.
+	2. [What is Amazon Macie? | Amazon Web Services - YouTube](https://youtu.be/RR4MtDl09Vk)
 9. AWS Certificate Manager - Provision, Manage, and Deploy SSL/TLS Certificates
 10. AWS CloudHSM - Hardware-based Key Storage for Regulatory Compliance
 11. AWS Directory Service - Host and Manage Active Directory

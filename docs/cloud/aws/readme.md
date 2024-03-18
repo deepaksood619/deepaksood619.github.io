@@ -2,6 +2,7 @@
 
 - [Intro](cloud/aws/intro.md)
 - [AWS Services](aws-services)
+- **[AWS Services List](cloud/aws/aws-services-list.md)**
 - [CLI Commands](cli-commands)
 - [AWS Glue](aws-glue)
 - [AWS SQS](aws-sqs)
@@ -54,6 +55,8 @@ Total - 171 services in the periodic table
 ![Periodic Table of AWS](../../media/Pasted%20image%2020240317231429.png)
 
 https://www.awsgeek.com/Periodic-Table-of-Amazon-Web-Services/Periodic-Table-of-Amazon-Web-Services.jpg
+
+[Amazon Web Services AWS Cheat Sheets - Tutorials Dojo](https://tutorialsdojo.com/aws-cheat-sheets/)
 
 ![Cloud Infra 30K Feet Design](../../media/Pasted%20image%2020240205224442.jpg)
 
