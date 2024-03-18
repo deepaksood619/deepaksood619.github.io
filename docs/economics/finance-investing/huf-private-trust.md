@@ -126,3 +126,4 @@ Therefore, upon the death of the individual who transferred the asset to the HUF
 - [HUF Income Tax: Top 5 HUF Tax Benefits Available Under HUF | HDFC Bank](https://www.hdfcbank.com/personal/resources/learning-centre/save/5-huf-income-tax-benefits)
 - [Hindu Undivided Family (HUF) - How to Save Income Tax? - Tax2win](https://tax2win.in/guide/huf-hindu-undivided-family)
 - [HUF, a Way to Save Income Tax](https://cleartax.in/s/huf-hindu-undivided-family)
+- [What is HUF (Hindu Undivided Family)? and HUF Tax Benefits | HDFC Life](https://www.hdfclife.com/insurance-knowledge-centre/tax-saving-insurance/all-about-huf-and-tax-benefits)
