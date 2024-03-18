@@ -75,7 +75,6 @@ Total with Duplicates - 331 services
 19. **AWS Wickr** - Protect enterprise communications with end-to-end encryption
 20. **Step-by-step guides for Amazon Connect agent workspace (Preview)** - Resolve contact center customer issues faster and more accurately
 
-
 ## 5. Cloud Financial Management (6)
 
 1. **Amazon EC2 Spot Instances** - Run workloads for up to 90% off

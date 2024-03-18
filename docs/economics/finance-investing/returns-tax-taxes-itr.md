@@ -258,6 +258,8 @@ Interest if the loan is taken before 01/04/99 on fully constructed accomodation 
 
 https://economictimes.indiatimes.com/wealth/tax/how-to-claim-lta-from-your-employer/articleshow/66246473.cms?from=mdr
 
+[Leave Travel Allowance (LTA) Rules 2024: How to claim, calculate - The 1% News](https://news.onepercentclub.io/taxation/leave-travel-allowance-lta-rules-eligibility-how-to-claim-calculate-latest-updates/3048/)
+
 Loss from business and profession cannot be set off against income chargeable to tax under the head "Salaries". 8) Loss under the head "house property" shall be allowed to be set-off against any other head of income only to the extent of Rs. 2,00,000 for any assessment year.
 
 ## Tax

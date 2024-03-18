@@ -131,14 +131,10 @@ Full journey for a single request is:
 
 ## References
 
-http://www.celeryproject.org
-
-http://eventlet.net
-
-https://django-celery.readthedocs.io/en/2.4/introduction.html
-
-https://medium.com/squad-engineering/two-years-with-celery-in-production-bug-fix-edition-22238669601d
-
-https://docs.celeryproject.org/projects/celery-enhancement-proposals/en/latest/draft/high-level-architecture.html
-
-[The Many Problems with Celery | Log Blog Kebab](https://steve.dignam.xyz/2023/05/20/many-problems-with-celery/)
+- http://www.celeryproject.org
+- http://eventlet.net
+- https://django-celery.readthedocs.io/en/2.4/introduction.html
+- https://medium.com/squad-engineering/two-years-with-celery-in-production-bug-fix-edition-22238669601d
+- https://docs.celeryproject.org/projects/celery-enhancement-proposals/en/latest/draft/high-level-architecture.html
+- [The Many Problems with Celery | Log Blog Kebab](https://steve.dignam.xyz/2023/05/20/many-problems-with-celery/)
+- [task-aware celery worker autoscaling (+ \`pod-deletion-cost\`) · Issue #339 · airflow-helm/charts · GitHub](https://github.com/airflow-helm/charts/issues/339)

@@ -208,3 +208,5 @@ This helps as you no longer have to make assumptions about
 - [The Complete Guide to Ace the System Design Interview in 2023 | by Arslan Ahmad | CodeX | Medium](https://medium.com/codex/the-complete-guide-to-ace-the-system-design-interview-in-2022-2d21c9534905)
 - [Top 7 Facebook System Design Interview Questions and Answers (2023) | by Arslan Ahmad | CodeX | Medium](https://medium.com/codex/top-7-facebook-system-design-interview-questions-and-answers-2022-8c2dd329038)
 - [System Design Tutorial: 3 Must-Know Distributed Systems Concepts | by Arslan Ahmad | Geek Culture | Medium](https://medium.com/geekculture/system-design-tutorial-3-must-know-distributed-systems-concepts-279d4e9718e8)
+- [Brief History of Scaling Uber](https://highscalability.com/brief-history-of-scaling-uber/)
+- [Behind AWS S3’s Massive Scale](https://highscalability.com/behind-aws-s3s-massive-scale/)

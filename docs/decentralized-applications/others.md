@@ -88,7 +88,6 @@ https://github.com/webtorrent/webtorrent
 - [Audius - Empowering Creators](https://audius.co/)
 - [The HUSL | Music, NFT's & Entertainment in the Metaverse](https://thehusl.io/)
 - [FanTiger - Invest in Songs](https://www.fantiger.com/)
-- [Mastodon (social network) - Wikipedia](https://en.wikipedia.org/wiki/Mastodon_(social_network))
 - [Mirror](https://mirror.xyz/)
 - [GitHub - district0x/ethlance: Ethlance is the first job market platform built entirely on the Ethereum blockchain. Free to use forever!](https://github.com/district0x/ethlance)
 - [Snyper - The first Web3 Social Marketplace](https://snyper.notion.site/Snyper-Angel-Memo-V1-3-73117de4d4cf44b7bcc6208b5e915cc0)
@@ -100,6 +99,15 @@ https://github.com/webtorrent/webtorrent
 https://gun.eco
 
 [GUN Decentralized Graph DB in 100 Seconds](https://www.youtube.com/watch?v=oTQXzhm8w_8)
+
+### Decentralized Social Network
+
+- [GitHub - mastodon/mastodon: Your self-hosted, globally interconnected microblogging community](https://github.com/mastodon/mastodon)
+- [Mastodon - Decentralized social media](https://joinmastodon.org/)
+- [Mastodon (social network) - Wikipedia](https://en.wikipedia.org/wiki/Mastodon_(social_network))
+- [What is Mastodon? - YouTube](https://www.youtube.com/watch?v=IPSbNdBmWKE&ab_channel=Mastodon)
+- [Why I'm not telling you to host your own Mastodon - YouTube](https://www.youtube.com/watch?v=mqocW7DUFpg)
+- [Mastodon Is More Than A Twitter Replacement - YouTube](https://www.youtube.com/watch?v=0H-P7LhFy2A)
 
 ## Decentralized Chat (Whisper)
 
