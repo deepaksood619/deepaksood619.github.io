@@ -2,6 +2,24 @@
 
 [Online SQL Playground with Data | W3 Schools](https://www.w3schools.com/sql/trysql.asp?filename=trysql_editor)
 
+### See size of table for all schemas - MySQL
+
+```sql
+SELECT
+  TABLE_SCHEMA AS `Schema`,
+  TABLE_NAME AS `Table`,
+  ROUND((DATA_LENGTH) / 1024 / 1024 / 1024, 2) AS `Data Size (GB)`,
+  ROUND((INDEX_LENGTH) / 1024 / 1024 / 1024, 2) AS `Index Size (GB)`,
+  ROUND((DATA_LENGTH + INDEX_LENGTH) / 1024 / 1024 / 1024, 2) AS `Total Size (GB)`
+FROM
+  information_schema.TABLES
+ORDER BY
+  (DATA_LENGTH + INDEX_LENGTH) DESC;
+
+```
+
+### Other queries
+
 ```sql
 SELECT count(*) AS TOTALNUMBEROFTABLES FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_SCHEMA = 'sttash_website_LIVE';
 -- 20 Apr 2021 - 955
@@ -66,7 +84,7 @@ To get all tables with columns columnA or ColumnB in the database YourDatabase:
         AND TABLE_SCHEMA='YourDatabase';
 
 -- Sizing
--- Table combined with index
+-- Table combined with index - MySQL
 SELECT
   TABLE_NAME AS `Table`,
   ROUND((DATA_LENGTH + INDEX_LENGTH) / 1024 / 1024 / 1024) AS `Size (GB)`

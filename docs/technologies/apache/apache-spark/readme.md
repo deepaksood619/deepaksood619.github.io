@@ -22,6 +22,8 @@
 
 [Raja's Data Engineering - YouTube](https://www.youtube.com/@rajasdataengineering7585/playlists)
 
+[Master Databricks and Apache Spark - YouTube](https://www.youtube.com/playlist?list=PL7_h0bRfL52qWoCcS18nXcT1s-5rSa1yp)
+
 ## Links
 
 [Databricks](technologies/databricks/readme.md)

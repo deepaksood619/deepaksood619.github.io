@@ -310,11 +310,39 @@ https://neilpatel.com/blog/social-media-shortcuts
 
 [Home - Blockchain Ads](https://www.blockchain-ads.com/)
 
-### Sexsually Sugestive Ads
+### Sexually Sugestive Ads
 
 [Is Sex in Advertising Effective?](https://www.businessnewsdaily.com/2649-sex-sells-more.html)
 
 [Sex in advertising - Wikipedia](https://en.wikipedia.org/wiki/Sex_in_advertising)
+
+## Social Listening Tools
+
+**Social listening is the practice of monitoring social media channels for mentions of your brand, competitor brands, and related keywords.**
+
+Social media listening tools allow you to build a solid understanding of exactly how customers and potential customers think about you by analyzing what they say on social channels. You can also learn what they think about the competition. This is incredible market research readily available in real-time, as long as you know how to access it.
+
+### What’s the difference between social listening and social monitoring?
+
+While **social media listening is a proactive** way to track, analyze, and respond to online conversations, **social media monitoring is more reactive**.
+
+**Social monitoring** looks at specific brand mentions and sends alerts whenever your brand is mentioned online. It is sometimes referred to as **brand monitoring**. It can be useful for **quickly responding to any negative sentiment or complaints**, but it doesn’t give you a big-picture view of what people are saying about your brand or industry.
+
+**Social listening,** on the other hand, gives you **a complete overview of all online conversations related to your brand, products, industry, and competitors.** This holistic approach provides valuable insights that can help you make strategic decisions about your marketing and social media strategy.
+
+In short, if you want to stay on top of the latest trends and **see what people are saying about your brand over time**, you need a social listening strategy.
+
+[What is Social Listening, Why it Matters + 14 Tools to Help](https://blog.hootsuite.com/social-listening-business/)
+
+[13 social listening tools for your brand in 2023 | Sprout Social](https://sproutsocial.com/insights/social-listening-tools/)
+
+[The 13 Best Free Social Media Monitoring Tools for Every Marketing Team](https://blog.hubspot.com/blog/tabid/6307/bid/29437/20-free-social-media-and-brand-monitoring-tools-that-rock.aspx)
+
+### Tools
+
+- [#1 Social Listening Tools | BrandMentions | Upgrade the way you monitor your brand mentions & competitors](https://brandmentions.com/hub/social-listening-tools)
+- [Conversational AI platform & social listening tool - SentiOne](https://sentione.com/)
+- [Brand24](https://brand24.com/social-listening-software/)
 
 ## Marketing Popups
 

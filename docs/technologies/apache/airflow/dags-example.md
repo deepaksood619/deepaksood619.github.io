@@ -8,7 +8,7 @@ https://airflow.apache.org/docs/apache-airflow/1.10.12/_api/airflow/contrib/oper
 
 - Weekly cron - days_ago(1) start date can't keep in the memory the actual start date and we need to actually have more than one week difference from start date to trigger job
 
-schedule_interval="@daily"
+`schedule_interval="@daily"`
 
 ```python
 # Example 1
@@ -157,7 +157,7 @@ headers = {
 
 ```
 
-## example Standard DAG
+## Example Standard DAG
 
 ```python
 from airflow import DAG

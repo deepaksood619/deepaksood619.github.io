@@ -37,8 +37,7 @@ Date - Feb-March 2024
 
 ## Links
 
-[Building Batch Data Analytics Solutions on AWS](https://aws.amazon.com/training/classroom/building-batch-data-analytics-solutions-on-aws/)
-
-[Exam Prep Official Practice Question Set: AWS Certified Data Engineer - Associate (DEA-C01 - English) | Self-paced digital training on AWS - AWS Skill Builder](https://explore.skillbuilder.aws/learn/course/external/view/elearning/16985/aws-certified-data-engineer-associate-official-practice-question-set-dea-c01-english)
-
-[AWS Certified Data Engineer Associate DEA-C01 | Exam Questions | Exam Dumps | AWS Data Engineer - YouTube](https://www.youtube.com/watch?v=95k6eSe9alE)
+- [Building Batch Data Analytics Solutions on AWS](https://aws.amazon.com/training/classroom/building-batch-data-analytics-solutions-on-aws/)
+- [Exam Prep Official Practice Question Set: AWS Certified Data Engineer - Associate (DEA-C01 - English) | Self-paced digital training on AWS - AWS Skill Builder](https://explore.skillbuilder.aws/learn/course/external/view/elearning/16985/aws-certified-data-engineer-associate-official-practice-question-set-dea-c01-english)
+- [AWS Certified Data Engineer Associate DEA-C01 | Exam Questions | Exam Dumps | AWS Data Engineer - YouTube](https://www.youtube.com/watch?v=95k6eSe9alE)
+- [Self-paced digital training on AWS - AWS Skill Builder](https://explore.skillbuilder.aws/learn/course/external/view/elearning/18546/exam-prep-standard-course-aws-certified-data-engineer-associate-dea-c01?trk=e6934e10-170d-4c94-bf7b-b88f95ed0f47&sc_channel=el)

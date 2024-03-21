@@ -30,3 +30,7 @@ When project specifications, scope, deliverables and acceptance criteria are cle
 #### Time & Material Model (T&M)
 
 Suitable for projects that have undefined or dynamic scope requirements or complicated business requirements due to which the cost estimation is not possible. Therefore, developers can be hired per their time.
+
+### Terms
+
+- BAU - Business As Usual

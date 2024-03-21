@@ -203,3 +203,7 @@ ORDER BY passenger_count;
 [Getting Started with ClickHouse](https://clickhouse.com/company/events/getting-started-with-clickhouse?loc=getting-started)
 
 Used by - Zerodha, Cloudflare, Uber, Ebay (moved from postgres, elk, druid to clickhouse)
+
+[Learn ClickHouse with Mark - YouTube](https://www.youtube.com/playlist?list=PL0Z2YDlm0b3gcY5R_MUo4fT5bPqUQ66ep)
+
+[ClickHouse Academy - "How to" Sessions - YouTube](https://www.youtube.com/playlist?list=PL0Z2YDlm0b3gtIdcZI3B_8bMJclDOvY8s)

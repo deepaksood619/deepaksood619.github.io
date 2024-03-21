@@ -579,6 +579,7 @@ https://aws.amazon.com/premiumsupport/knowledge-center/error-json-athena
 - https://aws.amazon.com/blogs/big-data/create-tables-in-amazon-athena-from-nested-json-and-mappings-using-jsonserde
 - [ThornyDev: Querying JSON records via Hive](http://thornydev.blogspot.com/2013/07/querying-json-records-via-hive.html)
 - [Athena engine version reference - Amazon Athena](https://docs.aws.amazon.com/athena/latest/ug/engine-versions-reference.html)
+- [Multicloud data lake analytics with Amazon Athena | AWS Big Data Blog](https://aws.amazon.com/blogs/big-data/multicloud-data-lake-analytics-with-amazon-athena/)
 
 ### [GitHub - quux00/hive-json-schema: Tool to generate a Hive schema from a JSON example doc](https://github.com/quux00/hive-json-schema)
 

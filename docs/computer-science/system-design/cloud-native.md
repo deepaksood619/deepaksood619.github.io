@@ -37,3 +37,5 @@ https://thenewstack.io/primer-distributed-systems-and-cloud-native-computing
 | Occasional large updates | Frequent small updates |
 | Manual management | Automated self-management |
 | Snowflake servers | Immutable infrastructure |
+
+![How do we Adopt Cloud Native](../../media/Pasted%20image%2020240321193906.jpg)

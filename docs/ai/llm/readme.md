@@ -96,6 +96,7 @@ Moving from information to knowledge age
 - [Pika](https://pika.art/)
 - [Langfuse](https://langfuse.com/)
     - [Open source LLM observability, analytics, prompt management, evaluations, tests, monitoring, logging, tracing, LLMOps. Langfuse: the LLM engineering platform. Debug, analyze and iterate together](https://github.com/langfuse/langfuse)
+- [DaLMatian](https://www.dalmatian.ai/)
 
 ![ai-tools](../../media/image.png)
 
@@ -144,3 +145,4 @@ Moving from information to knowledge age
 - [A DeepMind AI rivals the world's smartest high schoolers at geometry](https://www.understandingai.org/p/a-deepmind-ai-rivals-the-worlds-smartest)
 - [New Theory Suggests Chatbots Can Understand Text | Quanta Magazine](https://www.quantamagazine.org/new-theory-suggests-chatbots-can-understand-text-20240122/)
 - [The case for-and against-rapid AI-driven growth](https://www.understandingai.org/p/the-case-forand-againstrapid-ai-driven)
+- [What I learned from looking at 900 most popular open source AI tools](https://huyenchip.com/2024/03/14/ai-oss.html)
