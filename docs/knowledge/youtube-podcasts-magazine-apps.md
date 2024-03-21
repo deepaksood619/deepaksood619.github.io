@@ -115,7 +115,6 @@
 - Natgeo / Discovery
     - How its made
 - Oxford Union
-- Two minute papers
 - Today I found out
 - Useful charts
 - Scott Manley
@@ -179,6 +178,7 @@
 - Techquickie
 - [TechAltar - YouTube](https://www.youtube.com/@TechAltar)
 - Undecided with Matt Ferrell
+- [Two Bit da Vinci - YouTube](https://www.youtube.com/@TwoBitDaVinci)
 
 ### Finance / Stocks / Personal finance
 

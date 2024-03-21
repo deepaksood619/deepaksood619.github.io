@@ -2,17 +2,17 @@
 
 ## DAGs
 
-In Airflow, aDAG-- or a Directed Acyclic Graph -- is a collection of all the tasks you want to run, organized in a way that reflects their relationships and dependencies.
+In Airflow, a DAG -- or a Directed Acyclic Graph -- is a collection of all the tasks you want to run, organized in a way that reflects their relationships and dependencies.
 
-Scope
+### Scope
 
-Airflow will load anyDAGobject it can import from a DAGfile. Critically, that means the DAG must appear inglobals()
+Airflow will load any DAG object it can import from a DAG file. Critically, that means the DAG must appear in globals()
 
-Default Arguments
+### Default Arguments
 
-If a dictionary ofdefault_argsis passed to a DAG, it will apply them to any of its operators. This makes it easy to apply a common parameter to many operators without having to type it many times.
+If a dictionary of default_args is passed to a DAG, it will apply them to any of its operators. This makes it easy to apply a common parameter to many operators without having to type it many times.
 
-Context Manager
+### Context Manager
 
 DAGs can be used as context managers to automatically assign new operators to that DAG.
 
@@ -20,7 +20,7 @@ https://medium.com/datareply/airflow-lesser-known-tips-tricks-and-best-practises
 
 ## Operators
 
-While DAGs describehowto run a workflow, Operatorsdetermine what actually gets done.
+While DAGs describe how to run a workflow, Operators determine what actually gets done.
 
 An operator describes a single task in a workflow. Operators are usually (but not always) atomic, meaning they can stand on their own and don't need to share resources with any other operators. The DAG will make sure that operators run in the correct certain order; other than those dependencies, operators generally run independently. In fact, they may run on two completely different machines.
 
@@ -35,11 +35,11 @@ Airflow provides operators for many common tasks, including:
 
 ## DAG Assignment
 
-Operators do not have to be assigned to DAGs immediately (previouslydagwas a required argument). However, once an operator is assigned to a DAG, it can not be transferred or unassigned. DAG assignment can be done explicitly when the operator is created, through deferred assignment, or even inferred from other operators.
+Operators do not have to be assigned to DAGs immediately (previously dag was a required argument). However, once an operator is assigned to a DAG, it can not be transferred or unassigned. DAG assignment can be done explicitly when the operator is created, through deferred assignment, or even inferred from other operators.
 
 ## Bitshift Composition
 
-Traditionally, operator relationships are set with theset_upstream()andset_downstream()methods. In Airflow 1.8, this can be done with the Python bitshift operators `>> and <<`. The following four statements are all functionally equivalent:
+Traditionally, operator relationships are set with the `set_upstream()` and `set_downstream()` methods. In Airflow 1.8, this can be done with the Python bitshift operators `>> and <<`. The following four statements are all functionally equivalent:
 
 ```bash
 op1 >> op2

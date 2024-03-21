@@ -6,6 +6,10 @@
 
 [What is Uniswap? (Animated) Decentralized Exchange + UNI Token - YouTube](https://www.youtube.com/watch?v=DLu35sIqVTM)
 
+[Uniswap V3 - YouTube](https://www.youtube.com/playlist?list=PLXiAtWDhSlIvYpJQFv_OTgoOIygdbaKNP)
+
+[Tutorials - YouTube](https://www.youtube.com/playlist?list=PLXiAtWDhSlIs1pIoLR2sSri_uH0OpYFm6)
+
 #### Uniswap v3
 
 - Automated Market Makers (AMMs) - [What is an Automated Market Maker? (Liquidity Pool Algorithm) - YouTube](https://www.youtube.com/watch?v=1PbZMudPP5E) - Constant Product AMM

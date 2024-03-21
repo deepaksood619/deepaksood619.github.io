@@ -43,11 +43,22 @@ A number of standard schemes have evolved. These are calledlevels. Originally, t
 ## Nested (hybrid) RAID
 
 In what was originally termedhybrid RAID, many storage controllers allow RAID levels to be nested. The elements of aRAIDmay be either individual drives or arrays themselves. Arrays are rarely nested more than one level deep.
+
 The final array is known as the top array. When the top array is RAID0 (such as in RAID1+0 and RAID5+0), most vendors omit the "+" (yielding [RAID10](https://en.wikipedia.org/wiki/RAID_10) and RAID50, respectively).
 
-- **RAID0+1:** creates two stripes and mirrors them. If a single drive failure occurs then one of the stripes has failed, at this point it is running effectively as RAID 0 with no redundancy. Significantly higher risk is introduced during a rebuild than RAID 1+0 as all the data from all the drives in the remaining stripe has to be read rather than just from one drive, increasing the chance of an unrecoverable read error (URE) and significantly extending the rebuild window.
-- **RAID1+0:** (see:[RAID10](https://en.wikipedia.org/wiki/RAID_10)) creates a striped set from a series of mirrored drives. The array can sustain multiple drive losses so long as no mirror loses all its drives.
-RAID 10 is a nested RAID system created by combining RAID 1 and RAID 0. The combination is known as a stripe of mirrors.- **[JBOD](https://en.wikipedia.org/wiki/JBOD) RAID N+N**:With **JBOD (just a bunch of disks)**, it is possible to concatenate disks, but also volumes such as RAID sets. With larger drive capacities, write delay and rebuilding time increase dramatically (especially, as described above, with RAID 5 and RAID 6). By splitting a larger RAID N set into smaller subsets and concatenating them with linear JBOD, write and rebuilding time will be reduced. If a hardware RAID controller is not capable of nesting linear JBOD with RAID N, then linear JBOD can be achieved with OS-level software RAID in combination with separate RAID N subset volumes created within one, or more, hardware RAID controller(s). Besides a drastic speed increase, this also provides a substantial advantage: the possibility to start a linear JBOD with a small set of disks and to be able to expand the total set with disks of different size, later on (in time, disks of bigger size become available on the market). There is another advantage in the form of disaster recovery (if a RAID N subset happens to fail, then the data on the other RAID N subsets is not lost, reducing restore time).
+### RAID0+1
+
+Creates two stripes and mirrors them. If a single drive failure occurs then one of the stripes has failed, at this point it is running effectively as RAID 0 with no redundancy. Significantly higher risk is introduced during a rebuild than RAID 1+0 as all the data from all the drives in the remaining stripe has to be read rather than just from one drive, increasing the chance of an unrecoverable read error (URE) and significantly extending the rebuild window.
+
+### RAID1+0 (see:[RAID10](https://en.wikipedia.org/wiki/RAID_10))
+
+Creates a striped set from a series of mirrored drives. The array can sustain multiple drive losses so long as no mirror loses all its drives.
+
+RAID 10 is a nested RAID system created by combining RAID 1 and RAID 0. The combination is known as a stripe of mirrors.
+
+### [JBOD](https://en.wikipedia.org/wiki/JBOD) RAID N+N
+
+With **JBOD (just a bunch of disks)**, it is possible to concatenate disks, but also volumes such as RAID sets. With larger drive capacities, write delay and rebuilding time increase dramatically (especially, as described above, with RAID 5 and RAID 6). By splitting a larger RAID N set into smaller subsets and concatenating them with linear JBOD, write and rebuilding time will be reduced. If a hardware RAID controller is not capable of nesting linear JBOD with RAID N, then linear JBOD can be achieved with OS-level software RAID in combination with separate RAID N subset volumes created within one, or more, hardware RAID controller(s). Besides a drastic speed increase, this also provides a substantial advantage: the possibility to start a linear JBOD with a small set of disks and to be able to expand the total set with disks of different size, later on (in time, disks of bigger size become available on the market). There is another advantage in the form of disaster recovery (if a RAID N subset happens to fail, then the data on the other RAID N subsets is not lost, reducing restore time).
 
 ## Non-standard levels
 
@@ -108,3 +119,55 @@ The parity bits are used to re-create the data at the time of failure. Parity in
 The first three disks, labeled D, contain the data. The fourth disk, labeled P, stores the parity information, which in this case is the sum of the elements in each row. Now, if one of the Disks (D) fails, the missing value can be calculated by subtracting the sum of the rest of the elements from the parity value.
 
 https://www.storagetutorials.com/understanding-concept-striping-mirroring-parity
+
+## JBOD
+
+### Just a Bunch Of Disks
+
+JBOD (stands for “Just a Bunch Of Disks”) is referred as the collection of hard disks with one single storage enclosure that are not configured to acts as [Redundant Array of Independent Disks (RAID array)](https://www.geeksforgeeks.org/raid-redundant-arrays-of-independent-disks/). The multiple disks in array are connected to a single server that provides higher storage capacity.
+
+JBODs make the disk appear to be single one by combining all the disks. Like in RAID system the data is stored redundantly in multiple disks which appear as single disk in operating system.
+
+### Advantages of JBOD
+
+Some possible benefits from JBOD are :
+
+- JBOD helps in minimizing data loss, e.g. we can combine 10GB drive and 40GB drive to get a 50GB volume from JBOD. It’s a very small advantage as there may be a issue while expanding the existing system provided nowadays drives are cheap.
+- With JBOD we may recover missing files, if drive falls in JBOD enclosure. This depends on how operating system manages the disk. Considering JBOD recovery can be difficult, it is a negligible disadvantage.
+- The SATA disks and controllers are cheap in nature which makes JBOD cost effective as compared to RAID.
+
+### Disadvantages in JBOD
+
+- With multiple drives acting, there is no increase in drive performance.
+- If by mistake any disk is lost, you should search for backups. If there is no backup the data is permanently gone.
+
+### JBOD v/s RAID
+
+JBOD and RAID are the two major data storage configurations. Some differences & similarities between JBOD & RAID includes:
+
+### Similarity
+
+1. Both are applicable on data storage.
+2. Both JBOD and RAID enhance the usage of disk space.
+3. In RAID data stored in multiple disks which will appear on operating systems like a single disk, similarly in case of JBOD also the disks are displayed on operating system like a single disk.
+
+### Difference
+
+1. RAID are comparatively expensive than JBOD as RAID uses components like [SATA disks](https://www.geeksforgeeks.org/sata-full-form/) and controllers which are highly priced.
+2. JBOD allows room for combination of drives of mixed sizes while RAID configurations allow only similar sized disks to be used in array.
+3. Mostly JBOD are preferred over RAID as they are easily to scale which is done by just adding another drive.
+4. RAID has certain features like supporting hard disk failure, enhancing performance, which are missing in JBOD.
+
+### Which configuration is right for you ?
+
+If there is a need of huge amount of local storage for a application, JBOD should be chosen. With NVME SSDs, JBOD jobs are fast in nature. In RAID there is limited data storage as data undergo parity. In case of RAID, RAID 0 is the only level where total storage capacity is preserved, but we have to lose all data from each drive while removing disk drives from RAID 0. RAIDs are more expensive and if any drive dies in RAID array it will take long time to rebuilt. So, with all this in view JBOD might be a right choice for you which allow easy swaps, fast read and write speeds, more data storage etc.
+
+[Overview of Just a Bunch Of Disks (JBOD) - GeeksforGeeks](https://www.geeksforgeeks.org/overview-of-just-a-bunch-of-disks-jbod/)
+
+[What is JBOD (Just a Bunch of Disks)?](https://www.techtarget.com/searchstorage/definition/JBOD)
+
+[JBOD vs. RAID: What Are the Differences?](https://www.trentonsystems.com/en-us/resource-hub/blog/jbod-vs-raid-what-are-the-differences)
+
+## Links
+
+- [How to Recover Data from a Failed Hard Drive: A Comprehensive Guide](https://www.linkedin.com/pulse/how-recover-data-from-failed-hard-drive/)

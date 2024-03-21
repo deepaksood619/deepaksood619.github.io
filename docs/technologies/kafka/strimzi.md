@@ -27,3 +27,9 @@ helm uninstall kafka --namespace kafka
 helm uninstall zookeeper --namespace kafka
 helm uninstall operator --namespace kafka
 ```
+
+## Links
+
+[Persistent storage improvements](https://strimzi.io/blog/2019/07/08/persistent-storage-improvements/)
+
+[Strimzi 0.11.1 released!](https://strimzi.io/blog/2019/03/07/strimzi-0.11.0-release/)

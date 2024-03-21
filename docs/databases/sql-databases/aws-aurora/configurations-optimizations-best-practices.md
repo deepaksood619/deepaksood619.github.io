@@ -238,7 +238,9 @@ https://docs.aws.amazon.com/AmazonRDS/latest/AuroraUserGuide/aurora-serverless.h
 
 ## Optimizations
 
-https://aws.amazon.com/blogs/database/planning-and-optimizing-amazon-aurora-with-mysql-compatibility-for-consolidated-workloads
+[How to plan and optimize Amazon Aurora with MySQL compatibility for consolidated workloads | AWS Database Blog](https://aws.amazon.com/blogs/database/planning-and-optimizing-amazon-aurora-with-mysql-compatibility-for-consolidated-workloads)
+
+[Best practices for configuring parameters for Amazon RDS for MySQL, part 1: Parameters related to performance | AWS Database Blog](https://aws.amazon.com/blogs/database/best-practices-for-configuring-parameters-for-amazon-rds-for-mysql-part-1-parameters-related-to-performance/)
 
 ## DB instance RAM recommendations
 
