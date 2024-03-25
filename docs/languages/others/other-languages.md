@@ -242,3 +242,4 @@ https://vlang.io
 - [Solidity](decentralized-applications/ethereum/solidity.md)
 - [GitHub - move-language/move](https://github.com/move-language/move)
     - [Introduction - The Move Book](https://move-language.github.io/move/)
+- [ASP.NET Core Tutorial – Beginner to Advanced Projects - YouTube](https://www.youtube.com/watch?v=6SAFgcMie4U&ab_channel=freeCodeCamp.org)

@@ -94,6 +94,7 @@ Moving from information to knowledge age
 - [Build AI apps and workflows faster with Retool AI](https://retool.com/products/ai)
 - [v0 by Vercel](https://v0.dev/)
 - [Pika](https://pika.art/)
+- [AI Detector - Trusted AI Checker for ChatGPT, GPT4 & Bard](https://www.zerogpt.com/)
 - [Langfuse](https://langfuse.com/)
     - [Open source LLM observability, analytics, prompt management, evaluations, tests, monitoring, logging, tracing, LLMOps. Langfuse: the LLM engineering platform. Debug, analyze and iterate together](https://github.com/langfuse/langfuse)
 - [DaLMatian](https://www.dalmatian.ai/)

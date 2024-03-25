@@ -89,7 +89,7 @@ dag = DAG('example_dag',
           max_active_runs=2,
           catchup=False)
 ```
-    
+
 #### Task Level Concurrency (`concurrency`)
 
 This is set in the Airflow configuration file (`airflow.cfg`) under the `[core]` section as `concurrency`. It can also be overridden for each DAG in the DAG definition.
@@ -163,7 +163,6 @@ Both Airflow Pools and Celery Queues are powerful tools for managing task execut
 [Airflow concurrency essentials — Restack](https://www.restack.io/docs/airflow-knowledge-airflow-concurrency-guide)
 
 [FAQ — Airflow Documentation](https://airflow.apache.org/docs/apache-airflow/stable/faq.html)
-
 
 | airflow.cfg name        | Environment Variable                     | Default Value |
 | ----------------------- | ---------------------------------------- | ------------- |

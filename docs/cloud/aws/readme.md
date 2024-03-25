@@ -67,3 +67,4 @@ https://www.awsgeek.com/Periodic-Table-of-Amazon-Web-Services/Periodic-Table-of-
 - [Explore AWS Training and Certification Events](https://aws.amazon.com/training/events/)
 - [Best AWS Services You Need To Know As A Data Engineer - How To Become A Data Engineer - YouTube](https://www.youtube.com/watch?v=XYZxufvwC14&ab_channel=SeattleDataGuy)
 - [5 crazy new AWS services just launched - YouTube](https://www.youtube.com/watch?v=ekPbZqPvCRA&ab_channel=Fireship)
+- [Get Started](https://pages.awscloud.com/GLOBAL-partner-GC-Get-Started-Today-2024-reg.html)
