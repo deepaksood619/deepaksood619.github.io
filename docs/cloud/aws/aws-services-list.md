@@ -8,6 +8,7 @@ Total with Duplicates - 331 services
 
 1. **Amazon Athena** - Query data in S3 using SQL
 2. **Amazon Aurora zero-ETL integration with Amazon Redshift (Preview)** - Amazon Aurora now supports zero-ETL integration with Amazon Redshift
+	1. [Announcing data filtering for Amazon Aurora MySQL zero-ETL integration with Amazon Redshift | AWS Big Data Blog](https://aws.amazon.com/blogs/big-data/announcing-data-filtering-for-amazon-aurora-mysql-zero-etl-integration-with-amazon-redshift/)
 3. **Amazon CloudSearch** - Managed search service
 4. **Amazon DataZone (Preview)** - Unlock data across organizational boundaries with built-in governance
 5. **Amazon EMR** - Hosted Hadoop framework

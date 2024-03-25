@@ -84,23 +84,23 @@ In summary, Azure subscriptions and resource groups operate at different levels 
 ## Key Concepts of Azure IAM
 
 1. **Single Sign-On (SSO):** Enables users to access all necessary applications and resources by logging in just once. This convenience is bolstered by extending on-premises Active Directory environments to the cloud, allowing seamless access across both domains and SaaS applications without managing multiple sets of credentials​[](https://learn.microsoft.com/en-us/azure/security/fundamentals/identity-management-overview)​.
-    
+
 2. **Multifactor Authentication (MFA):** Adds a critical layer of security by requiring more than one verification method for user sign-ins, significantly safeguarding access to data and applications​[](https://learn.microsoft.com/en-us/azure/security/fundamentals/identity-management-overview)​.
-    
+
 3. **Azure Role-Based Access Control (RBAC):** Facilitates fine-grained access management to Azure resources, allowing you to define what users can and cannot do within Azure. This system includes built-in roles like Owner, Contributor, Reader, and User Access Administrator, each with different levels of access​[](https://learn.microsoft.com/en-us/azure/security/fundamentals/identity-management-overview)​.
-    
+
 4. **Privileged Identity Management (PIM):** Manages, controls, and monitors access within Azure, emphasizing the security of privileged identities to mitigate risks associated with excessive permissions​[](https://learn.microsoft.com/en-us/azure/security/fundamentals/identity-management-overview)​.
-    
+
 5. **Conditional Access:** Ensures that access to resources is secured and compliant by evaluating conditions of access. It allows automated control decisions based on the context of access attempts, like user location or device compliance​[](https://learn.microsoft.com/en-us/azure/security/fundamentals/identity-management-best-practices)​.
 
 ### Best Practices for Implementing Azure IAM
 
 1. **Enable Conditional Access Policies:** Set up policies based on group, location, and application sensitivity to manage and control access to corporate resources effectively​[](https://learn.microsoft.com/en-us/azure/security/fundamentals/identity-management-best-practices)​.
-    
+
 2. **Plan for Regular Security Improvements:** Utilize tools like the Identity Secure Score to measure and improve your security posture over time, adapting to evolving threats​[](https://learn.microsoft.com/en-us/azure/security/fundamentals/identity-management-best-practices)​.
-    
+
 3. **Implement Self-Service Password Reset (SSPR):** Empower users to reset their passwords, reducing administrative overhead and enhancing security by ensuring users can quickly regain access to their accounts if needed​[](https://learn.microsoft.com/en-us/azure/security/fundamentals/identity-management-best-practices)​.
-    
+
 4. **Enforce Multifactor Verification:** Require two-step verification for all users to protect against unauthorized access. Options for enforcing MFA include using Conditional Access policies or enabling it for all users with Security Defaults​[](https://learn.microsoft.com/en-us/azure/security/fundamentals/identity-management-best-practices)​.
-    
+
 5. **Use Role-Based Access Control (RBAC) Wisely:** Assign access based on the principle of least privilege, ensuring users have only the access they need to perform their jobs. Avoid overprivileged states by using Azure RBAC to manage access to Azure resources effectively​[](https://learn.microsoft.com/en-us/azure/security/fundamentals/identity-management-best-practices)​​[](https://learn.microsoft.com/en-us/azure/role-based-access-control/role-assignments-portal)​.

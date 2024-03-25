@@ -12,7 +12,7 @@ Incorrect. CloudShell is a browser-based, pre-authenticated shell that you can l
 
 Learn more about [CloudShell](https://docs.aws.amazon.com/cloudshell/latest/userguide/welcome.html).
 
-- [ ] B - Run the Python code on AWS Lambda functions
+- [x] B - Run the Python code on AWS Lambda functions
 
 Correct. Lambda provides runtimes for Python that run your code to process events. Your code runs in an environment that includes the SDK for Python to access various AWS services, including S3 buckets.
 
@@ -24,7 +24,7 @@ Incorrect. You can use the SDK for Python with Amazon EC2. You can configure a s
 
 Learn more about [how to build Lambda functions with Python](https://docs.aws.amazon.com/lambda/latest/dg/lambda-python.html).
 
-- [ ] D - Schedule the cron by using Amazon EventBridge Scheduler
+- [x] D - Schedule the cron by using Amazon EventBridge Scheduler
 
 Correct. EventBridge Scheduler is a serverless scheduler that gives you the ability to create, run, and manage tasks from one centrally managed service.
 
@@ -48,7 +48,7 @@ Incorrect. You can use SageMaker Feature Store to create, store, and share featu
 
 Learn more about [SageMaker Feature Store](https://docs.aws.amazon.com/sagemaker/latest/dg/feature-store.html).
 
-- [ ] B - Use Amazon SageMaker workflows with an Amazon SageMaker ML Lineage Tracking step to prepare the data for the model.
+- [x] B - Use Amazon SageMaker workflows with an Amazon SageMaker ML Lineage Tracking step to prepare the data for the model.
 
 Correct. SageMaker ML Lineage Tracking creates and stores information about the steps of an ML workflow. SageMaker ML Lineage Tracking gives you the ability to establish model governance and audit standards. SageMaker ML Lineage Tracking helps to ensure that the data being used to run ML decisions is accurate, complete, and trustworthy.
 
@@ -86,7 +86,7 @@ Incorrect. A solution that creates a new table in Amazon Redshift with the JOIN 
 
 Learn more about [Redshift JOIN examples](https://docs.aws.amazon.com/redshift/latest/dg/r_Join_examples.html).
 
-- [ ] C - Run the report SQL statement to gather the data from Amazon S3. Store the result set in an Amazon Redshift materialized view. Configure the report to run SQL REFRESH. Then, query the materialized view.
+- [x] C - Run the report SQL statement to gather the data from Amazon S3. Store the result set in an Amazon Redshift materialized view. Configure the report to run SQL REFRESH. Then, query the materialized view.
 
 Correct. You can use Redshift materialized views to speed up queries that are predictable and repeated. A solution that runs SQL REFRESH on the materialized view would ensure that the latest data from the current sales table is included in the report.
 
