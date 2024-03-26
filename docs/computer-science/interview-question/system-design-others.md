@@ -128,3 +128,5 @@ Non-functional requirements
 - [How Giphy uses CDN to serve 10 billion GIFs every day - YouTube](https://www.youtube.com/watch?v=-bo7oVejgRM)
 - [What happens before the Backend gets the Request - YouTube](https://www.youtube.com/watch?v=gSQoA4SYhJY)
 - [How Discord Serves 15-Million Users on One Server](https://blog.bytebytego.com/p/how-discord-serves-15-million-users?)
+- [Capturing A Billion Emo(j)i-ons](https://highscalability.com/capturing-a-billion-emo-j-i-ons/)
+- [How Uber Uses Integrated Redis Cache to Serve 40M Reads/Second?](https://blog.bytebytego.com/p/how-uber-uses-integrated-redis-cache)

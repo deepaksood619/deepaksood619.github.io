@@ -8,6 +8,8 @@
 - Indexing is done in words consisting of documents order
 - All the indexes are parallelized with each consisting some part of the web
 
+![How do Search Engines Work?](../../media/Pasted%20image%2020240326090545.jpg)
+
 ## What happens when you type google.com into your browser's address box and press enter?
 
 - [The "g" key is pressed](https://github.com/alex/what-happens-when/blob/master/README.rst#the-g-key-is-pressed)

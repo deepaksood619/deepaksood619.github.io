@@ -103,10 +103,14 @@ So, creating a project first and then link to the app is essential to use Twitte
 
 [When authenticating requests to the Twitter API v2 endpoints, you must use keys and tokens from a Twitter developer App that is attached to a Project · Issue #58 · twitterdev/Twitter-API-v2-sample-code · GitHub](https://github.com/twitterdev/Twitter-API-v2-sample-code/issues/58)
 
+### Docs
+
+- [Getting Started with the Twitter API | Docs | Twitter Developer Platform](https://developer.twitter.com/en/docs/twitter-api/getting-started/about-twitter-api)
+- [GET /2/tweets/search/recent | Docs | Twitter Developer Platform](https://developer.twitter.com/en/docs/twitter-api/tweets/search/api-reference/get-tweets-search-recent)
+
 ### Links
 
 - [GitHub - twitterdev/search-tweets-python at v2](https://github.com/twitterdev/search-tweets-python/tree/v2)
-- [Getting Started with the Twitter API | Docs | Twitter Developer Platform](https://developer.twitter.com/en/docs/twitter-api/getting-started/about-twitter-api)
 - https://www.labnol.org/twitter-bots-tutorial-4796
 - https://www.labnol.org/twitter-search-examples-203
 - [GitHub - twitterdev/Twitter-API-v2-sample-code: Sample code for the Twitter API v2 endpoints](https://github.com/twitterdev/Twitter-API-v2-sample-code)

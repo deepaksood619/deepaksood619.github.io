@@ -55,10 +55,6 @@ https://www.programmableweb.com
 
 https://rapidapi.com
 
-## Postman VScode
-
-- Thunder Client - https://www.thunderclient.com
-
 ## Variables
 
 Variables allow you to store and reuse values in your requests and scripts. By storing a value in a variable, you can reference it throughout your collections, environments, and requests - and if you need to update the value, you only have to change it in one place.
@@ -146,6 +142,10 @@ pm.variables.get("variable_key");
 Hoppscotch - https://github.com/hoppscotch/hoppscotch
 
 https://hypertest.co
+
+Thunder Client - https://www.thunderclient.com
+
+![API Clients Comparison Table](../../media/Pasted%20image%2020240326090807.jpg)
 
 ## Others
 

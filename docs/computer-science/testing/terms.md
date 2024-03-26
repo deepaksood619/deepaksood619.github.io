@@ -385,3 +385,40 @@ https://www.tutorialspoint.com/software_testing_dictionary/index.htm
 - **Fuzz Testing** - This injects invalid or unexpected input data into the API and tries to crash the API. In this way, it identifies the API vulnerabilities.
 
 ![api-testing](../../media/Pasted%20image%2020231230004011.png)
+
+## White box vs Black box vs Grey box testing
+
+### Black Box Testing
+
+- **Definition**: In black box testing, the tester evaluates the software's functionality without any knowledge of its internal workings. The focus is on the input that goes into the software and the output that is produced, not on how the input is processed.
+- **Key Characteristics**:
+    - **External Perspective**: Testers do not need to know programming languages or how the software was implemented.
+    - **Focus on Specifications**: Testing is based on software requirements and specifications.
+    - **Examples of Techniques**: Functional testing, non-functional testing (like performance testing), and user acceptance testing (UAT).
+
+### White Box Testing
+
+- **Definition**: White box testing, also known as clear or transparent testing, involves thorough insight into the internal logic, structure, and code of the software. The tester knows the internal paths, structures, and implementation of the software.
+- **Key Characteristics**:
+    - **Internal Perspective**: Requires knowledge of the software's internal workings, including programming languages and architecture.
+    - **Focus on Code**: Tests are based on coverage of code statements, branches, paths, and conditions.
+    - **Examples of Techniques**: Unit testing, integration testing (to some extent), and static code analysis.
+
+### Gray Box Testing
+
+- **Definition**: Gray box testing is a hybrid approach that combines elements of both black box and white box testing. Testers have partial knowledge of the internal workings of the software, which guides their testing strategy.
+- **Key Characteristics**:
+    - **Semi-internal Perspective**: Testers are aware of some aspects of the internal workings but do not have full access to the source code.
+    - **Balanced Focus**: While it considers internal structures, it still emphasizes external functional behavior.
+    - **Examples of Techniques**: Integration testing, specialized testing (like security testing), and regression testing.
+
+### Comparison and Use Cases
+
+- **Use Case Sensitivity**:
+    - **Black Box**: Ideal for general functionality testing and for testers who are not programmers.
+    - **White Box**: Best suited for detecting hidden errors in specific modules or assessing the thoroughness of existing tests.
+    - **Gray Box**: Effective for situations where understanding both the application’s purpose and its internal operations can lead to more comprehensive testing, such as in security or integration scenarios.
+
+### Selection Criteria
+
+The choice among black box, white box, and gray box testing depends on several factors, including the objectives of the testing, the resources available, the stage of development, and the specific requirements of the software being tested. Each approach has its advantages and limitations, and often, a combination of these testing methodologies is employed to achieve a well-rounded verification and validation of software quality.

@@ -21,3 +21,5 @@ One of the biggest questions around in-context learning is: What happens if we j
 [Emerging Architectures for LLM Applications | Andreessen Horowitz](https://a16z.com/2023/06/20/emerging-architectures-for-llm-applications/)
 
 [The Secret Sauce behind 100K context window in LLMs: all tricks in one place | by Galina Alperovich | GoPenAI](https://blog.gopenai.com/how-to-speed-up-llms-and-use-100k-context-window-all-tricks-in-one-place-ffd40577b4c)
+
+[Exploring real-time streaming for generative AI Applications | AWS Big Data Blog](https://aws.amazon.com/blogs/big-data/exploring-real-time-streaming-for-generative-ai-applications/)

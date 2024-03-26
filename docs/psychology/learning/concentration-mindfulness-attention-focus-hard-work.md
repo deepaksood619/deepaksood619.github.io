@@ -118,6 +118,8 @@ Stay curious
 
 Practice attentive listening
 
+[Why Rest Takes Hard Work | TIME](https://time.com/6566763/rest-takes-hard-work-essay/)
+
 ## Alter Ego
 
 We are judged in our lives by what we do, not by what we think or intend to do. -- Todd Herman

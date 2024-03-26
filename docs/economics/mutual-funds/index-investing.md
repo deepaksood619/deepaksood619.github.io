@@ -116,4 +116,5 @@ https://freefincal.com/build-equity-mutual-fund-portfolio
 
 ## Links
 
-[Index Investing Options In India:](https://www.youtube.com/watch?v=IIV1Xt_rB3Y)
+- [Index Investing Options In India:](https://www.youtube.com/watch?v=IIV1Xt_rB3Y)
+- [What are the risks with index investing?](https://freefincal.com/what-are-the-risks-with-index-investing/)
