@@ -111,9 +111,14 @@
 - [Red Hot: The 2021 Machine Learning, AI and Data (MAD) Landscape - Matt Turck](https://mattturck.com/data2021/)
 - [Roadmap: Data Engineering for Data Scientists - YouTube](https://www.youtube.com/watch?v=fusLAtA1Eu4&ab_channel=AndreasKretz)
 - [God Tier Data Engineering Roadmap 2024 with End-To-End Projects - YouTube](https://www.youtube.com/watch?v=HxdoBLc5_Qc&ab_channel=DarshilParmar)
+- [Roadmap: Data Engineering for Software Engineers - YouTube](https://www.youtube.com/live/0e4WfIUixRw)
 
 ## Resources
 
 - [GitHub - igorbarinov/awesome-data-engineering: A curated list of data engineering tools for software developers](https://github.com/igorbarinov/awesome-data-engineering)
 - [GitHub - gunnarmorling/awesome-opensource-data-engineering: An Awesome List of Open-Source Data Engineering Projects](https://github.com/gunnarmorling/awesome-opensource-data-engineering)
 - [7 Exciting Data Engineering Projects You Can Start for FREE! | Kaggle](https://www.kaggle.com/discussions/general/446167)
+
+## Links
+
+- [The History And Future Of Real-time Analytics - With David Yaffe - YouTube](https://www.youtube.com/watch?v=nhS7KhuNqQU&ab_channel=SeattleDataGuy)

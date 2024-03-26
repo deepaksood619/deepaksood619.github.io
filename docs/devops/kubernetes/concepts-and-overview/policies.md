@@ -310,3 +310,8 @@ policyTypes:
 ```
 
 https://kubernetes.io/docs/concepts/services-networking/network-policies
+
+## Links
+
+- [Migrate from PodSecurityPolicy to the Built-In PodSecurity Admission Controller | Kubernetes](https://kubernetes.io/docs/tasks/configure-pod-container/migrate-from-psp/)
+- [Migrating from Pod Security Policies: A Comprehensive Guide (Part 1: Transitioning to PSA) | HackerNoon](https://hackernoon.com/migrating-from-pod-security-policies-a-comprehensive-guide-part-1-transitioning-to-psa)

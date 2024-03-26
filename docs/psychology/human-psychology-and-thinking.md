@@ -117,3 +117,4 @@ psychological manipulation of a person for one’s advantage-causing the person 
 - [Why People become Criminals? | The Problem of Liberty | Dhruv Rathee - YouTube](https://www.youtube.com/watch?v=d0KuhikVnVs)
 - [THE LAWS OF HUMAN NATURE (understanding this will change your life) - Robert Greene//book summary - YouTube](https://www.youtube.com/watch?v=R-iIQ0kQni0&ab_channel=LITTLEBITBETTER)
 - [The Dumber Side of Smart People · Collab Fund](https://collabfund.com/blog/the-dumber-side-of-smart-people/)
+- [Pioneering sociologist Erving Goffman saw magic in the mundane | Aeon Essays](https://aeon.co/essays/pioneering-sociologist-erving-goffman-saw-magic-in-the-mundane)

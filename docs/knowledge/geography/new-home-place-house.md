@@ -276,15 +276,14 @@ Take the value of the home that you are considering multiply by 5% and divide by
 - because house depreciates in value, but land appreciates in value
 - land is a commodity, house is a consumer good
 
-Arthayantra Buy Vs Rent Report
+### Links
 
-https://www.etmoney.com/blog/buying-a-house-or-staying-on-rent-which-is-a-better-option
-
-[BUY or RENT a House in 2021 | CA Rachana Ranade - YouTube](https://www.youtube.com/watch?v=hPTrtp098vg)
-
-[5 IMPORTANT Life Decisions you SHOULD take on an Excel Sheet | Ankur Warikoo Hindi](https://youtu.be/EE8iTK9_xa8)
-
-[Is BUYING a BETTER OPTION in 2023? | Buying vs Renting a house: 2023 edition | Ankur Warikoo Hindi - YouTube](https://www.youtube.com/watch?v=YT1ZYWr-tAU&ab_channel=warikoo)
+- Arthayantra Buy Vs Rent Report
+- https://www.etmoney.com/blog/buying-a-house-or-staying-on-rent-which-is-a-better-option
+- [BUY or RENT a House in 2021 | CA Rachana Ranade - YouTube](https://www.youtube.com/watch?v=hPTrtp098vg)
+- [5 IMPORTANT Life Decisions you SHOULD take on an Excel Sheet | Ankur Warikoo Hindi](https://youtu.be/EE8iTK9_xa8)
+- [Is BUYING a BETTER OPTION in 2023? | Buying vs Renting a house: 2023 edition | Ankur Warikoo Hindi - YouTube](https://www.youtube.com/watch?v=YT1ZYWr-tAU&ab_channel=warikoo)
+- [Home rent or buy? | Should you buy a house in 2024? - The final answer | - YouTube](https://www.youtube.com/watch?v=pjpfeTvVMA4&ab_channel=InvestAajForKal)
 
 [Don't Invest in Property before checking 10 DOCUMENTS ft. @LegalSHOTS | Real Estate - YouTube](https://www.youtube.com/watch?v=Zhxp1BGgBn8)
 

@@ -110,7 +110,7 @@ A data engineer must configure a solution that would ensure that the data is sto
 
 Which solution will meet these requirements?
 
-- [ ] A - Store new data on the S3 Infrequent Access storage class. Query the data in-place on Amazon S3 with Amazon Athena. Create a lifecycle rule to migrate the data to the S3 Glacier Flexible Retrieval storage class after 3 years. Configure the lifecycle rule to delete the data after 10 years.
+- [x] A - Store new data on the S3 Infrequent Access storage class. Query the data in-place on Amazon S3 with Amazon Athena. Create a lifecycle rule to migrate the data to the S3 Glacier Flexible Retrieval storage class after 3 years. Configure the lifecycle rule to delete the data after 10 years.
 
 Correct. A solution that uses S3 Lifecycle policies ensures that data is stored cost effectively throughout the data lifecycle. You can lifecycle data to a cheaper storage class based on age when you have predictable usage patterns. You can use this solution to comply with lifecycle and retention policies. A solution that uses the S3 Infrequent-Access storage class will ensure that data is cost effectively made available for occasional analysis by using SQL with Athena. A lifecycle rule that migrates data to the S3 Glacier Flexible Retrieval storage class will ensure that data is available for compliance evaluation within 12 hours.
 
@@ -162,7 +162,7 @@ Incorrect. You can use Redshift Spectrum to access and query S3 data from Amazon
 
 Learn more about [Redshift UNLOAD](https://docs.aws.amazon.com/redshift/latest/dg/r_UNLOAD.html).
 
-- [ ] C - Ingest 3 months of data into Amazon Redshift. Automate an unload process from Amazon Redshift to Amazon S3 after the data is over 3 months old. Use Amazon Redshift Spectrum for the yearly analysis to include data up to 12 months old. Implement a lifecycle policy in Amazon S3 to move the unloaded data to S3 Glacier Deep Archive after the data is over 12 months old.
+- [x] C - Ingest 3 months of data into Amazon Redshift. Automate an unload process from Amazon Redshift to Amazon S3 after the data is over 3 months old. Use Amazon Redshift Spectrum for the yearly analysis to include data up to 12 months old. Implement a lifecycle policy in Amazon S3 to move the unloaded data to S3 Glacier Deep Archive after the data is over 12 months old.
 
 Correct. You can use Redshift Spectrum to access and query S3 data from Amazon Redshift. You do not need to keep data over 3 months old in Amazon Redshift. Instead, you can unload the data to Amazon S3. Then, you can use Redshift Spectrum for the yearly analysis. Additionally, S3 Glacier Deep Archive provides the most cost-effective option for long-term data storage for compliance reasons.
 
@@ -182,13 +182,13 @@ A company is using an Amazon S3 data lake. The company ingests data into the dat
 
 Which solution will meet these requirements? (Select THREE.)
 
-- [ ] A - Increase the number of shards for the Kinesis data stream.
+- [x] A - Increase the number of shards for the Kinesis data stream.
 
 Correct. By default, Lambda will create one concurrent instance of the Lambda function for each shard. If you have three shards, you will have three concurrent functions. A high IteratorAge implies that the last record that is read from the Kinesis data stream is increasing in age. A high IteratorAge could mean that the data is not being processed in a timely manner. One way to increase throughput when you use Kinesis Data Streams and Lambda is to reshard. To reshard is to increase the number of shards for Kinesis Data Streams. If there are more shards, there will be more Lambda function invocations that concurrently process data.
 
 Learn more about [how to use Lambda with Kinesis Data Streams](https://docs.aws.amazon.com/lambda/latest/dg/with-kinesis.html).
 
-- [ ] B - Test different parallelization factor settings to find the most performant.
+- [x] B - Test different parallelization factor settings to find the most performant.
 
 Correct. By default, Lambda will create one concurrent instance of the Lambda function for each shard. If you have three shards, you will have three concurrent functions. A high IteratorAge implies that the last record that is read from the Kinesis data stream is increasing in age. A high IteratorAge could mean that the data is not being processed in a timely manner. One way to increase throughput when you use Kinesis Data Streams and Lambda is to increase the parallelization factor. This solution can cause multiple Lambda function invocations to concurrently process one shard. Therefore, this solution could increase performance.
 
@@ -200,7 +200,7 @@ Incorrect. Kinesis Data Streams can run in on-demand mode or in provisioned capa
 
 Learn more about [provisioned and on-demand capacity modes for Kinesis](https://docs.aws.amazon.com/streams/latest/dev/how-do-i-size-a-stream.html).
 
-- [ ] D - Register the Lambda function as a consumer with enhanced fan-out.
+- [x] D - Register the Lambda function as a consumer with enhanced fan-out.
 
 Correct. By default, all consumers of a Kinesis data stream share throughput across consumers. Sharing can restrict throughput for any one consumer, such as the Lambda function that processes the data. A high IteratorAge implies that the last record that is read from the Kinesis data stream is increasing in age. A high IteratorAge could mean that the data is not being processed in a timely manner. One way to increase throughput when you use Kinesis Data Streams and Lambda is to register the Lambda function as a consumer with enhanced fan-out. This solution would give the Lambda function dedicated throughput capacity for the Kinesis data stream. Therefore, this solution could increase performance.
 
@@ -224,7 +224,7 @@ A data engineer is designing an application that will add data for transformatio
 
 Which events can remove messages from an SQS queue? (Select THREE.)
 
-- [ ] A - An application makes a DeleteMessage API call to Amazon SQS.
+- [x] A - An application makes a DeleteMessage API call to Amazon SQS.
 
 Correct. Amazon SQS is a message queue service. An SQS queue adds a highly available buffer between data producers and consumers. A DeleteMessage API call is the typical method to remove messages from a queue. A consumer application receives the message, processes the message, and then tells the queue to delete the message.
 
@@ -232,13 +232,13 @@ Learn more about [how to work with SQS messages](https://docs.aws.amazon.com/AW
 
 Learn more about [the DeleteMessage action in Amazon SQS](https://docs.aws.amazon.com/AWSSimpleQueueService/latest/APIReference/API_DeleteMessage.html).
 
-- [ ] B - The maxReceiveCount has been reached for a message.
+- [x] B - The maxReceiveCount has been reached for a message.
 
 Correct. Amazon SQS is a message queue service. An SQS queue adds a highly available buffer between data producers and consumers. Typically, a consumer application receives the message, processes the message, and then tells the queue to delete the message in a separate API call. The maxReceiveCount is a property of a queue that indicates how many times a message can be received before the message is deleted and added to a dead-letter queue. If a message is received repeatedly but not deleted, then the issue could originate in the data in the queue rather than in the consumers.
 
 Learn more about [SQS dead-letter queues](https://docs.aws.amazon.com/AWSSimpleQueueService/latest/SQSDeveloperGuide/sqs-dead-letter-queues.html).
 
-- [ ] C - The queue is purged.
+- [x] C - The queue is purged.
 
 Correct. Amazon SQS is a message queue service. An SQS queue adds a highly available buffer between data producers and consumers. To purge a queue removes all messages from the queue without the deletion of the queue. You can purge a queue as a troubleshooting step to reset an application.
 
@@ -340,7 +340,7 @@ Incorrect. This solution could automatically convert the log files to Parquet as
 
 Learn more about [how to automate AWS Glue workflows with EventBridge](https://docs.aws.amazon.com/glue/latest/dg/starting-workflow-eventbridge.html).
 
-- [ ] B - Configure the applications to send the log files to Amazon Kinesis Data Firehose. Configure Kinesis Data Firehose to invoke an AWS Lambda function that converts the log files to Parquet format. Configure Kinesis Data Firehose to deliver the Parquet files to an output S3 bucket.
+- [x] B - Configure the applications to send the log files to Amazon Kinesis Data Firehose. Configure Kinesis Data Firehose to invoke an AWS Lambda function that converts the log files to Parquet format. Configure Kinesis Data Firehose to deliver the Parquet files to an output S3 bucket.
 
 Correct. You can use Kinesis Data Firehose to deliver log files to Amazon S3 with the least operational overhead. You can use a data-transformation Lambda function with Kinesis Data Firehose. This solution can convert log files to the correct format before the log files are delivered to Amazon S3.
 
@@ -366,7 +366,7 @@ A data engineer must monitor the data pipeline to determine the appropriate DPU 
 
 Which solution will meet these requirements?
 
-- [ ] A - Inspect the job run monitoring section of the AWS Glue console. Review the results of the previous job runs. Visualize the profiled metrics to determine the appropriate number of DPUs.
+- [x] A - Inspect the job run monitoring section of the AWS Glue console. Review the results of the previous job runs. Visualize the profiled metrics to determine the appropriate number of DPUs.
 
 Correct. You can use the job run monitoring section of the AWS Glue console to determine the appropriate DPU capacity for this scenario. The job monitoring section of the AWS Glue console uses the results of previous job runs to determine the appropriate DPU capacity.
 
@@ -414,7 +414,7 @@ Incorrect. DynamoDB is a serverless NoSQL database service. This solution does n
 
 Learn more about [DynamoDB](https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/GettingStartedDynamoDB.html).
 
-- [ ] D - Migrate the data to Amazon Elastic File System (Amazon EFS). Configure the Lambda functions to mount the file system.
+- [x] D - Migrate the data to Amazon Elastic File System (Amazon EFS). Configure the Lambda functions to mount the file system.
 
 Correct. Amazon EFS is a scalable file storage service that you can integrate with Lambda or other compute options. A solution that uses Amazon EFS for file storage meets the requirements. Lambda can access the data by using NFS. Additionally, the data is accessible from all concurrently running Lambda functions.
 
@@ -444,7 +444,7 @@ Incorrect. AWS STS provides temporary, limited-privilege credentials for users. 
 
 Learn more about [AWS STS](https://docs.aws.amazon.com/IAM/latest/UserGuide/id_credentials_temp.html).
 
-- [ ] D - Use AWS Secrets Manager to store the credentials. Configure automatic rotation in Secrets Manager to rotate the credentials every 30 days.
+- [x] D - Use AWS Secrets Manager to store the credentials. Configure automatic rotation in Secrets Manager to rotate the credentials every 30 days.
 
 Correct. You can use Secrets Manager to store credentials and to configure automatic rotation.
 

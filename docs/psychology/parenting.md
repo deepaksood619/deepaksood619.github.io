@@ -169,4 +169,7 @@ Why kicking out children after 18 years is important, let's say you are very wea
 - [How to Deal with Stranger Anxiety](https://www.whattoexpect.com/toddler-behavior/toddler-stranger-anxiety.aspx)
 - [When Do Babies Stand Up?](https://www.whattoexpect.com/first-year/standing-up/)
 - [10 month old, third week | BabyCentre](https://www.babycentre.co.uk/s1001680/10-month-old-third-week)
-- [Site Unreachable](https://www.whattoexpect.com/first-year/germs-and-babies.aspx)
+- [How to Keep Newborn Babies Safe From Germs](https://www.whattoexpect.com/first-year/germs-and-babies.aspx)
+- [10 month old, fourth week | BabyCentre](https://www.babycentre.co.uk/s1001681/10-month-old-fourth-week)
+- [Your child's teething timeline](https://www.babycentre.co.uk/a1050142/your-childs-teething-timeline)
+- [Best Activities for an 11-Month-Old Baby](https://www.whattoexpect.com/first-year/play-and-activities/best-activities-for-11-month-old-baby)
