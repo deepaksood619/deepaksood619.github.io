@@ -33,3 +33,5 @@ helm uninstall operator --namespace kafka
 [Persistent storage improvements](https://strimzi.io/blog/2019/07/08/persistent-storage-improvements/)
 
 [Strimzi 0.11.1 released!](https://strimzi.io/blog/2019/03/07/strimzi-0.11.0-release/)
+
+[Configuring Strimzi (0.40.0)](https://strimzi.io/docs/operators/latest/configuring.html)

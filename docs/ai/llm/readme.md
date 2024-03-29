@@ -7,7 +7,6 @@
 - [ChatGPT Prompt Engineering](courses/chatgpt-prompt-eng.md)
 - [Interview Questions](ai/llm/interview-questions.md)
 - [Libraries](ai/llm/libraries.md)
-- [ChatGPT Prompt Eng](courses/chatgpt-prompt-eng.md)
 
 [MMLU Dataset | Papers With Code](https://paperswithcode.com/dataset/mmlu) - Massive Multitask Language Understanding
 

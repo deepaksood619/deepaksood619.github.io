@@ -95,3 +95,7 @@ https://www.notboring.co/p/primer-the-ambitious-home-for-ambitious
 - Public speaking
 - Car maintenance
 - Stress management (emotions)
+
+## Links
+
+- [He's helped THOUSANDS of people learn to code \[Leon Noel of #100devs on freeCodeCamp Podcast #117\] - YouTube](https://www.youtube.com/watch?v=KYAakLooVuE&ab_channel=freeCodeCamp.org)

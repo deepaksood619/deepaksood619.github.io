@@ -130,7 +130,7 @@ Schema-free SQL Query Engine for Hadoop, NoSQL and Cloud Storage
 - [Felix](http://felix.apache.org/)
 - [Fineract](http://fineract.apache.org/)
 - [Flex](http://flex.apache.org/)
-- [Flink](http://flink.apache.org/) - Streaming dataflow engine for Java - https://dzone.com/articles/introduction-to-streaming-etl-with-apache-flink
+- [Flink](http://flink.apache.org/)
 - [Flume](http://flume.apache.org/) - Streaming data ingestion for Hadoop
 - [Fluo](http://fluo.apache.org/)
 - [Forrest](http://forrest.apache.org/)

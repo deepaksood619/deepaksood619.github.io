@@ -214,6 +214,7 @@
 - [Think School - YouTube](https://www.youtube.com/@ThinkSchool)
 - [Masters' Union - YouTube](https://www.youtube.com/@MastersUnion)
 - [The Art of Business - YouTube](https://www.youtube.com/@theartofbiz)
+- [Aevy TV - YouTube](https://www.youtube.com/@aevytv)
 
 ### People
 
@@ -244,6 +245,11 @@
 - Nebula - The logistics of x
 - [Banijay Science - YouTube](https://www.youtube.com/@banijayscience)
 - Youtube Original's Mind Field
+
+### Medicine
+
+- Healthcare triage
+- [Dr Pal - YouTube](https://www.youtube.com/@DrPal)
 
 ### Others
 
@@ -344,7 +350,6 @@
 - The Indian Dream | A podcast by Sahil and Siddharth
 - [Business Wars with David Brown](https://wondery.com/shows/business-wars/)
 - Search Engine by PJ Vogt
-- Healthcare triage
 - The Science of Change [https://podcastaddict.com/podcast/the-science-of-change/4496415](https://podcastaddict.com/podcast/the-science-of-change/4496415)
 - Business Breakdowns [https://podcastaddict.com/podcast/business-breakdowns/4400688](https://podcastaddict.com/podcast/business-breakdowns/4400688)
 - The rational reminder podcast

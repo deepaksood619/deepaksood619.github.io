@@ -5,10 +5,7 @@
 1. Signup
 2. Create admin group
 3. Create account alias
-4. Transfer billing account to admin group users
-
-    https://docs.aws.amazon.com/IAM/latest/UserGuide/tutorial_billing.html
-
+4. Transfer billing account to admin group users - https://docs.aws.amazon.com/IAM/latest/UserGuide/tutorial_billing.html
 5. Never use your root credentials again
 6. Create billing alarms
 

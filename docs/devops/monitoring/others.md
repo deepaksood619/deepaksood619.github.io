@@ -210,6 +210,13 @@ https://docs.newrelic.com/docs/integrations/kubernetes-integration/kubernetes-ev
 
 https://docs.docker.com/config/containers/logging/syslog
 
+## DataDog
+
+- [Best Practices for Tagging Your Infrastructure and Applications | Datadog](https://www.datadoghq.com/blog/tagging-best-practices/)
+- [Monitoring Kubernetes With Datadog | Datadog](https://www.datadoghq.com/blog/monitoring-kubernetes-with-datadog/)
+- [Monitor Apache Airflow With Datadog | Datadog](https://www.datadoghq.com/blog/monitor-airflow-with-datadog/)
+- [Datadog Monitoring | Datadog](https://www.datadoghq.com/dg/monitor/kafka-benefits/)
+
 ## Others
 
 https://victoriametrics.com/products/open-source
@@ -219,5 +226,3 @@ https://victoriametrics.com/products/open-source
 [Home - ThoughtData](https://thoughtdata.com/)
 
 [No-code Enterprise Data Quality Monitoring Tool: Lightup](https://lightup.ai/)
-
-Datadog - [Best Practices for Tagging Your Infrastructure and Applications | Datadog](https://www.datadoghq.com/blog/tagging-best-practices/)

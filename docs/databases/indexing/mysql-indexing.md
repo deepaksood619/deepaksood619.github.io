@@ -32,8 +32,6 @@ Use outer join only when it is necessary. Using it needlessly not only limits da
 
 Using UNION and DISTINCT operators without any major purpose causes unwanted sorting and slowing down of SQL execution. Instead of UNION, using UNION ALL brings more efficiency in the process and improves MySQL performance more precisely.
 
-[**https://use-the-index-luke.com/3-minute-test/mysql**](https://use-the-index-luke.com/3-minute-test/mysql)
-
 Furthermore: typically MySQL will only use one index, per table, per query, so things are going to be much more performant if we design a single index to satisfy our lookup!
 
 A multiple column (composite) index to the rescue!:
@@ -375,15 +373,11 @@ Therefore, we recommend to avoid such OR conditions and consider splitting the q
 SHOW INDEXES FROM table_name;
 ```
 
-[**https://medium.com/@stormanning/mysql-indexing-101-660f3193dde1**](https://medium.com/@stormanning/mysql-indexing-101-660f3193dde1)
-
-https://dev.mysql.com/doc/refman/8.0/en/mysql-indexes.html
-
-https://dev.mysql.com/doc/refman/8.0/en/optimization-indexes.html
-
-https://www.freecodecamp.org/news/database-indexing-at-a-glance-bb50809d48bd
-
-[**https://dev.mysql.com/doc/refman/8.0/en/optimization-indexes.html**](https://dev.mysql.com/doc/refman/8.0/en/optimization-indexes.html)
+- [**https://medium.com/@stormanning/mysql-indexing-101-660f3193dde1**](https://medium.com/@stormanning/mysql-indexing-101-660f3193dde1)
+- https://dev.mysql.com/doc/refman/8.0/en/mysql-indexes.html
+- https://dev.mysql.com/doc/refman/8.0/en/optimization-indexes.html
+- https://www.freecodecamp.org/news/database-indexing-at-a-glance-bb50809d48bd
+- [**https://dev.mysql.com/doc/refman/8.0/en/optimization-indexes.html**](https://dev.mysql.com/doc/refman/8.0/en/optimization-indexes.html)
 
 ## Unused indexes
 
