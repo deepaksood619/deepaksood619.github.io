@@ -121,24 +121,18 @@ https://github.com/deepaksood619/GitGames
 
 ## SQL Games
 
-https://mystery.knightlab.com
-
-https://selectstarsql.com
-
-https://www.hackerrank.com/domains/sql
-
-https://www.w3schools.com/sql/trysql.asp?filename=trysql_asc
-
-https://www.w3schools.com/mysql/trymysql.asp?filename=trysql_select_where_and_or
-
-https://use-the-index-luke.com/3-minute-test/mysql
-Terraria
+- https://mystery.knightlab.com
+- https://selectstarsql.com
+- https://www.hackerrank.com/domains/sql
+- https://www.w3schools.com/sql/trysql.asp?filename=trysql_asc
+- https://www.w3schools.com/mysql/trymysql.asp?filename=trysql_select_where_and_or
+- https://use-the-index-luke.com/3-minute-test/mysql
+- Terraria
 
 ## Assessments
 
-https://www.bigshyft.com/assessments/rd9pl
-
-https://www.bigshyft.com/assessments/x9q4g
+- https://www.bigshyft.com/assessments/rd9pl
+- https://www.bigshyft.com/assessments/x9q4g
 
 ## System Design
 

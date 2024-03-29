@@ -1,9 +1,5 @@
 # SE Radio
 
-## 346: Streaming Architecture
-
-- Apache Flink
-
 ## 333: Software Design Decoded: 66 Ways Experts Think
 
 ## 331: Architecture and Organizational Design

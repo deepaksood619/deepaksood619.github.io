@@ -72,6 +72,7 @@
 - [How to live a good life](book-summaries/how-to-live-a-good-life.md)
 - [The 4 Agreements](book-summaries/the-4-agreements.md)
 - [The Status Game](book-summaries/the-status-game.md)
+- [Thinking Fast and Slow](book-summaries/thinking-fast-and-slow.md)
 - [Others](book-summaries/others.md)
 - [Books / Blinkist - Management](../management/books-blinkist-management)
 - [Product Book Summaries](management/product-management/product-book-summaries.md)

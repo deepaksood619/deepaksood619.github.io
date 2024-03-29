@@ -6,6 +6,8 @@
 - https://www.linkedin.com/in/raghuram-rajan
 - http://www.pranavmistry.com/files/pranav_cv.pdf
 - https://www.linkedin.com/in/jessicatai
+- [linkedin.com/in/anilyadav/](https://www.linkedin.com/in/anilyadav/)
+- [linkedin.com/in/gauravmalik77/details/experience/](https://www.linkedin.com/in/gauravmalik77/details/experience/)
 - Andreas Klinger - https://klinger.io
 - [Jeroen Bouma | Financial Risk Analyst](https://www.jeroenbouma.com/)
 - **Software Developer Good -** https://drive.google.com/drive/folders/1zMuTUjsifK9QVvrwF56oE8EJcgw9YBhJ?usp=sharing

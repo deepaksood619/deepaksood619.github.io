@@ -180,3 +180,9 @@ https://docs.microsoft.com/en-us/power-bi/collaborate-share/service-usage-metric
 [Contest #5 - YouTube Channel Analysis | BI Elite Training](https://training.bielite.com/contest-april-2021-youtube-analysis/)
 
 [Top 17 Tableau Dashboard Examples For Enhanced Business Decisions | SPEC INDIA](https://www.spec-india.com/blog/tableau-dashboard-examples)
+
+## Pbix and pbit files
+
+[Solved: What is the difference between .pbix and .pbit ? - Microsoft Fabric Community](https://community.fabric.microsoft.com/t5/Desktop/What-is-the-difference-between-pbix-and-pbit/m-p/885263)
+
+- the pbit file is basically cleaning the data from the file, therefore, the file is much lighter

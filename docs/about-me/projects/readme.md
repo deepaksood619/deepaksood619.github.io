@@ -4,6 +4,7 @@
 
 ### OpsTree
 
+- [AWS Gen AI Hackathon](about-me/projects/58-aws-gen-ai-hackathon.md)
 - [Data Engineering Product Pitch IoT Industry](about-me/projects/59-data-engineering-product-pitch-iot-industry.md)
 - [Data Engineering Case Studies](about-me/projects/60-data-engineering-case-studies.md)
 - [General Application Management Case Study](about-me/projects/61-general-application-management-case-study.md)

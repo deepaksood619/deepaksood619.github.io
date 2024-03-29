@@ -56,3 +56,10 @@ http://timelineofearth.com
 [To Scale: TIME - YouTube](https://www.youtube.com/watch?v=nOVvEbH2GC0)
 
 [You're Basically A Mushroom - YouTube](https://www.youtube.com/watch?v=SFikJUQttxU)
+
+### Extinction Events
+
+- Devonian Extinction Event - 372 million years ago
+- Permian Extinction Event - 252 million years ago
+- Triassic Extinction Event - 201 million years ago
+- Cretaceous Extinction Event- 66 million years ago

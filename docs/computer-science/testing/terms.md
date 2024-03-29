@@ -403,6 +403,20 @@ https://www.tutorialspoint.com/software_testing_dictionary/index.htm
     - **Internal Perspective**: Requires knowledge of the software's internal workings, including programming languages and architecture.
     - **Focus on Code**: Tests are based on coverage of code statements, branches, paths, and conditions.
     - **Examples of Techniques**: Unit testing, integration testing (to some extent), and static code analysis.
+- **Requirements**
+   	- Technology used (coding language)
+   	- Number of repositories
+      		- No of files (in source code) in each repository
+      		- No of total lines of code in each repository
+   	- For white box we need code review and unit testing
+
+[What is White Box Testing? (Example, Types, & Techniques) | BrowserStack](https://www.browserstack.com/guide/white-box-testing)
+
+#### SonarQube
+
+SonarQube primarily focuses on static code analysis and code quality management rather than white-box testing. White-box testing typically involves examining the internal structures and workings of an application or system. This is often done through techniques such as code review, unit testing, and other forms of testing that require access to the source code.
+
+While SonarQube can help in identifying code issues, vulnerabilities, and bugs through static analysis, it doesn't directly perform white-box testing. However, it can complement white-box testing practices by providing insights into code quality, security vulnerabilities, and adherence to coding standards. It's often used in conjunction with other testing tools and methodologies to ensure comprehensive code quality and security coverage.
 
 ### Gray Box Testing
 

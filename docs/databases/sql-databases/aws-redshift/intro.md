@@ -224,3 +224,4 @@ https://aws.amazon.com/blogs/big-data/whats-new-in-amazon-redshift-2021-a-year-i
 ## Links
 
 - [Amazon Redshift for absolute beginners course - YouTube](https://www.youtube.com/watch?v=dmsuzIOzmIs&ab_channel=ETL-SQL)
+- [Successfully conduct a proof of concept in Amazon Redshift | AWS Big Data Blog](https://aws.amazon.com/blogs/big-data/successfully-conduct-a-proof-of-concept-in-amazon-redshift/)

@@ -2,9 +2,9 @@
 
 Apache Flink is a stream processing framework that can also handle batch tasks. It considers batches to simply be data streams with finite boundaries, and thus treats batch processing as a subset of stream processing. This stream-first approach to all processing has a number of interesting side effects.
 
-This stream-first approach has been called the**Kappa architecture**, in contrast to the more widely known Lambda architecture (where batching is used as the primary processing method with streams used to supplement and provide early but unrefined results). Kappa architecture, where streams are used for everything, simplifies the model and has only recently become possible as stream processing engines have grown more sophisticated.
+This stream-first approach has been called the **Kappa architecture**, in contrast to the more widely known Lambda architecture (where batching is used as the primary processing method with streams used to supplement and provide early but unrefined results). Kappa architecture, where streams are used for everything, simplifies the model and has only recently become possible as stream processing engines have grown more sophisticated.
 
-Stream Processing Model
+### Stream Processing Model
 
 Flink's stream processing model handles incoming data on an item-by-item basis as a true stream. Flink provides its DataStream API to work with unbounded streams of data. The basic components that Flink works with are:
 
@@ -17,7 +17,7 @@ Stream processing tasks take snapshots at set points during their computation to
 
 Additionally, Flink's stream processing is able to understand the concept of "event time", meaning the time that the event actually occurred, and can handle sessions as well. This means that it can guarantee ordering and grouping in some interesting ways.
 
-Batch Processing Model
+### Batch Processing Model
 
 Flink's batch processing model in many ways is just an extension of the stream processing model. Instead of reading from a continuous stream, it reads a bounded dataset off of persistent storage as a stream. Flink uses the exact same runtime for both of these processing models.
 
@@ -25,7 +25,7 @@ Flink offers some optimizations for batch workloads. For instance, since batch o
 
 Another optimization involves breaking up batch tasks so that stages and components are only involved when needed. This helps Flink play well with other users of the cluster. Preemptive analysis of the tasks gives Flink the ability to also optimize by seeing the entire set of operations, the size of the data set, and the requirements of steps coming down the line.
 
-Advantages and Limitations
+### Advantages and Limitations
 
 Flink is currently a unique option in the processing framework world. While Spark performs batch and stream processing, its streaming is not appropriate for many use cases because of its micro-batch architecture. Flink's stream-first approach offers low latency, high throughput, and real entry-by-entry processing.
 
@@ -39,6 +39,22 @@ Flink operates well with other components. It is written to be a good neighbor i
 
 One of the largest drawbacks of Flink at the moment is that it is still a very young project. Large scale deployments in the wild are still not as common as other processing frameworks and there hasn't been much research into Flink's scaling limitations. With the rapid development cycle and features like the compatibility packages, there may begin to be more Flink deployments as organizations get the chance to experiment with it.
 
-Summary
+### Summary
 
 Flink offers both low latency stream processing with support for traditional batch tasks. Flink is probably best suited for organizations that have heavy stream processing requirements and some batch-oriented tasks. Its compatibility with native Storm and Hadoop programs, and its ability to run on a YARN-managed cluster can make it easy to evaluate. Its rapid development makes it worth keeping an eye on.
+
+## Apache Flink- Stateful Computations over Data Streams
+
+![image](../../media/Technologies-Apache-Others-image1.jpg)
+
+Apache Flink is a framework and distributed processing engine for stateful computations over *unbounded and bounded* data streams. Flink has been designed to run in *all common cluster environments*, perform computations at *in-memory speed* and at *any scale*.
+
+Streaming dataflow engine for Java
+
+## Links
+
+- https://dzone.com/articles/introduction-to-streaming-etl-with-apache-flink
+- https://flink.apache.org/flink-architecture.html
+- [CDC Stream Processing with Apache Flink](https://youtu.be/K2ibvfmFh8Y?si=_K1jRSc0ez7Ntw9y)
+- [Apache Flink 1.19 - Deprecations, New Features, and Improvements](https://youtu.be/362g8odTRYk)
+- [Krones real-time production line monitoring with Amazon Managed Service for Apache Flink | AWS Big Data Blog](https://aws.amazon.com/blogs/big-data/krones-real-time-production-line-monitoring-with-amazon-managed-service-for-apache-flink/)
