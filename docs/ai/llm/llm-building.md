@@ -170,3 +170,4 @@ Ludwig enables you to apply state-of-the-art tabular, natural language processin
 - [Learn Generative AI in 30 Hours](https://www.freecodecamp.org/news/learn-generative-ai-in/)
 - [AI Watermarking 101: Tools and Techniques](https://huggingface.co/blog/watermarking)
 - [Optimize generative AI applications with pgvector indexing: A deep dive into IVFFlat and HNSW techniques | AWS Database Blog](https://aws.amazon.com/blogs/database/optimize-generative-ai-applications-with-pgvector-indexing-a-deep-dive-into-ivfflat-and-hnsw-techniques/)
+- [V-JEPA: The next step toward advanced machine intelligence](https://ai.meta.com/blog/v-jepa-yann-lecun-ai-model-video-joint-embedding-predictive-architecture/)

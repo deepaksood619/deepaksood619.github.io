@@ -80,3 +80,7 @@ Master data management (MDM) is a technology-enabled discipline in which busines
 
 - [Immunefi](https://immunefi.com/)
 - [The Lido Bug Bounty Program](https://lido.fi/bug-bounty)
+
+## Links
+
+- [How The Hack? • Ben Sadeghipour @NahamSec • GOTO 2023 - YouTube](https://www.youtube.com/watch?v=3D8AEUmUXag&ab_channel=GOTOConferences)

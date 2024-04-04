@@ -34,3 +34,7 @@ Gross Transaction Value (GTV) is a calculation of the revenue in relation to com
 ## Others
 
 [Understanding FSN (Fast, Slow, Non-Moving) Inventory Analysis](https://www.deskera.com/blog/fsn-inventory-analysis/)
+
+Window dressing - an adroit but superficial or misleading presentation of something, designed to create a favourable impression.
+
+- "the government's effort has amounted to little more than window dressing"

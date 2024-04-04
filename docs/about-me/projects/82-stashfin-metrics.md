@@ -114,9 +114,8 @@ Tech scalable for 8 lakh users
 
 #### 3. Tech PMO
 
-1. # of Projects per week (New, In Progress, Complete)
-
-1. Cut by Adhoc, Project & Bugs
+1. Number of Projects per week (New, In Progress, Complete)
+	1. Cut by Adhoc, Project & Bugs
 2. ETA Compliance to be >95% (Net of Dependencies)
 3. All dependencies to be communicated within first 20% of Project cycle
 4. All projects to have Infosec sign off

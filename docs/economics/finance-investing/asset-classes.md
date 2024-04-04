@@ -2,11 +2,9 @@
 
 https://freefincal.com/hdfc-corporate-bond-fund
 
-Parag Parikh Flexi Cap
-
 VPF - https://cleartax.in/s/pf-vs-vpf
 
-https://www.youtube.com/watch?v=lBagn--KERk
+[Employee Provident Fund (EPF) - How it works | Interest Rate | Withdrawal Rules | Budget | ETMONEY - YouTube](https://www.youtube.com/watch?v=lBagn--KERk)
 
 - 1 lakh LTCG
 - Top 10 focused stocks - Marcellus PMS

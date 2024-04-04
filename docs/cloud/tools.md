@@ -39,7 +39,7 @@
 	2. detect-private-key
 4. Formatter - black (for python), etc
 5. Static Code Analysis
-6. SonarQube
+6. SonarQube / CodeScene
 7. Linters (based on coding languages)
 8. Dependabot (github / gitlab)
 	1. [Top Alternatives for Dependabot](https://devdojo.com/yoda/top-dependabot-alternatives)

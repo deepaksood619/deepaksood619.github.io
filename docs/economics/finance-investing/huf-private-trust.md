@@ -127,3 +127,5 @@ Therefore, upon the death of the individual who transferred the asset to the HUF
 - [Hindu Undivided Family (HUF) - How to Save Income Tax? - Tax2win](https://tax2win.in/guide/huf-hindu-undivided-family)
 - [HUF, a Way to Save Income Tax](https://cleartax.in/s/huf-hindu-undivided-family)
 - [What is HUF (Hindu Undivided Family)? and HUF Tax Benefits | HDFC Life](https://www.hdfclife.com/insurance-knowledge-centre/tax-saving-insurance/all-about-huf-and-tax-benefits)
+- [Zerodha's Nithin Kamath draws attention to a lesser-known income-tax saving method - The Economic Times](https://economictimes.indiatimes.com/news/india/zerodhas-nithin-kamath-draws-attention-to-a-lesser-known-income-tax-saving-method/articleshow/108850981.cms)
+- [How to plan your finances with Hindu Undivided Family (HUF) – Z-Connect by Zerodha](https://zerodha.com/z-connect/general/how-to-plan-your-finances-with-hindu-undivided-family-huf)

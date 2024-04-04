@@ -99,3 +99,49 @@ Most engineers will not get to these levels, but there's something we can still 
 The best way to have more impact is not to invest more time but to think about how to get more out of it through leverage.
 
 [Facebook Software Engineer Salary | $2.5M-$185K+ | Levels.fyi](https://www.levels.fyi/companies/facebook/salaries/software-engineer)
+
+## Developer Metrics / Development Metrics
+
+### 1. Code Contribution Metrics
+
+- **Volume of Commits**: Total number of commits per team or developer over time, to gauge activity levels.
+- **Pull Request Metrics**: Number of pull requests opened, merged, and time taken for a merge. This can also include the average time a pull request remains open before being merged.
+- **Code Review Efficiency**: Time taken to review and accept pull requests, along with the number of iterations per pull request. This reflects on the team's responsiveness and collaboration quality.
+- **Lines of Code (LOC)**: While not always a direct indicator of productivity, changes in LOC can indicate project evolution and efforts in coding, refactoring, or documentation.
+
+### 2. Release Metrics
+
+- **Release Frequency**: How often new versions or features are released, indicating the pace of development and deployment.
+- **Release Success Rate**: The percentage of releases that meet their objectives without causing critical issues or requiring immediate fixes (hotfixes).
+- **Cycle Time**: The time it takes for a feature or bug fix to go from concept to deployment. This reflects the efficiency of the development and deployment processes.
+
+### 3. Health of Developer and Repositories
+
+- **Code Churn**: The percentage of a developer's or team's contributions that are subsequently modified or deleted within a short period. High churn rates can indicate issues with code quality or planning.
+- **Codebase Complexity**: Metrics such as cyclomatic complexity or code maintainability scores can give insights into potential technical debt and the health of the codebase.
+- **Dependency Updates**: The frequency and timeliness of third-party dependency updates, which can impact security and stability.
+- **Automated Test Coverage**: The percentage of code covered by automated tests, which can indicate the potential risk of defects and the team's commitment to quality.
+- **Build Pass Rate**: The success rate of builds in the CI/CD pipeline, which can highlight issues with code quality or integration practices.
+
+### 4. Developer Satisfaction and Retention
+
+- **Developer Retention Rate**: Measures how well the organization retains its development talent, which can indicate the health of the team environment and job satisfaction.
+- **Employee Net Promoter Score (eNPS)**: This gauges team members' willingness to recommend their workplace to others, offering insights into overall job satisfaction and engagement.
+
+### 5. Innovation and Learning
+
+- **Time Spent on New Features vs. Maintenance**: Balancing new development with maintenance work is crucial for long-term innovation and team motivation.
+- **Investment in Learning and Development**: Time allocated for developers to learn new skills or technologies, which can contribute to team growth and adaptability.
+
+### Links
+
+- [Contribution analytics | GitLab](https://docs.gitlab.com/ee/user/group/contribution_analytics/)
+- [Contributor analytics | GitLab](https://docs.gitlab.com/ee/user/analytics/contributor_analytics.html)
+- [Git Analytics: Boost Team Performance With These 9 Metrics | Dev Interrupted Powered by LinearB](https://linearb.io/blog/git-analytics)
+- [What is Git Analytics and Why it Matters to Engineering Teams? - Hatica](https://www.hatica.io/blog/engineering-teams-and-git-analytics/)
+
+### Tools
+
+- [RepoSense - Home](https://reposense.org/)
+- [GitHub - bloombar/gitlogstats: A command line tool to report statistics on the contributions of developer to a project.](https://github.com/bloombar/gitlogstats)
+- [DevDynamics - Ship Better Quality Software, Faster.](https://devdynamics.ai/)

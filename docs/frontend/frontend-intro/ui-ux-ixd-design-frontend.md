@@ -288,3 +288,5 @@ https://www.freecodecamp.org/news/ux-vs-ui-whats-the-difference-definition-and-m
 ## Links
 
 [Design System](design-system)
+
+[Design 101 for Programmers • James White • YOW! 2016 - YouTube](https://www.youtube.com/watch?v=xVUV6L2IxvI&ab_channel=GOTOConferences)

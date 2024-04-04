@@ -70,6 +70,8 @@ https://zolostays.com/blog/cities-with-best-weather-in-india
 - Portugal (invest less than 3 crore and be a citizen)
 - Japan
 
+- Temperature - 23-25 degree Celsius
+- Humidity - 30-50%
 - [Is there a country/region in the world where the temperature is year round around 23-25 degrees Celsius?](https://www.quora.com/Is-there-a-country-region-in-the-world-where-the-temperature-is-year-round-around-23-25-degrees-Celsius)
 - [Best Countries to Live In 2023](https://worldpopulationreview.com/country-rankings/best-countries-to-live-in)
 - [The Best Countries to Live in the World: Top-9 Places to Immigrate](https://immigrantinvest.com/blog/top-9-countries-for-comfortable-life-en/)
@@ -285,6 +287,8 @@ Take the value of the home that you are considering multiply by 5% and divide by
 - [Is BUYING a BETTER OPTION in 2023? | Buying vs Renting a house: 2023 edition | Ankur Warikoo Hindi - YouTube](https://www.youtube.com/watch?v=YT1ZYWr-tAU&ab_channel=warikoo)
 - [Home rent or buy? | Should you buy a house in 2024? - The final answer | - YouTube](https://www.youtube.com/watch?v=pjpfeTvVMA4&ab_channel=InvestAajForKal)
 
+### Documents
+
 [Don't Invest in Property before checking 10 DOCUMENTS ft. @LegalSHOTS | Real Estate - YouTube](https://www.youtube.com/watch?v=Zhxp1BGgBn8)
 
 1. Title document - Sale deed, gift deed, conveyance deed
@@ -297,6 +301,8 @@ Take the value of the home that you are considering multiply by 5% and divide by
 8. No objection certificate (noc)
 9. Mutation letter
 10. Conversion certificate
+
+[Flat buying tips - 21 points checklist before buying a flat | FLAT BUYING TIPS | Personal Finance | - YouTube](https://www.youtube.com/watch?v=5biF-qJxuyo&ab_channel=InvestAajForKal)
 
 ## Climate resilient
 

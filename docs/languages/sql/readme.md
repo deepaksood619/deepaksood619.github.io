@@ -24,7 +24,7 @@
 - [PartiQL](partiql)
 - [Databricks SQL](languages/sql/databricks-sql.md)
 - [Databricks SQL Functions](languages/sql/databricks-sql-functions.md)
-- [SQL Examples](sql-examples)
+- [SQL Examples](languages/sql/sql-examples-queries.md)
 - [Others](languages/sql/others.md)
 
 ## Others

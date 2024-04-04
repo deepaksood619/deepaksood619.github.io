@@ -201,3 +201,6 @@ ORDER BY passenger_count;
 - [Learn ClickHouse with Mark - YouTube](https://www.youtube.com/playlist?list=PL0Z2YDlm0b3gcY5R_MUo4fT5bPqUQ66ep)
 - [ClickHouse Academy - "How to" Sessions - YouTube](https://www.youtube.com/playlist?list=PL0Z2YDlm0b3gtIdcZI3B_8bMJclDOvY8s)
 - [ClickHouse and The One Trillion Row Challenge](https://clickhouse.com/blog/clickhouse-1-trillion-row-challenge)
+- [DataOps Barcelona 2018 - Clickhouse Use Cases - YouTube](https://www.youtube.com/watch?v=P7O6HRbFkL8&ab_channel=binlogic)
+- [YouTube](https://www.youtube.com/watch?v=fGG9dApIhDU&ab_channel=CMUDatabaseGroup)
+- [The Secrets of ClickHouse Performance Optimizations at BDTC 2019 - YouTube](https://www.youtube.com/watch?v=ZOZQCQEtrz8&ab_channel=ClickHouse)

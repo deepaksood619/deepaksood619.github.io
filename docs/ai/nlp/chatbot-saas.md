@@ -44,6 +44,11 @@ Custom Bots are used to both proactively and reactively qualify leads, route cus
 
 Task bots are triggered by actions that customers take on your website or app.
 
+### Whatsapp
+
+- [Building a Simple WhatsApp Flow](https://developers.facebook.com/blog/post/2024/02/14/building-a-simple-whats-app-flow/)
+- [Creating Surveys with WhatsApp Flows](https://developers.facebook.com/blog/post/2024/03/06/creating-surveys-with-whatsapp-flows/)
+
 ## Others
 
 https://www.tidio.com/blog/chatbot-framework

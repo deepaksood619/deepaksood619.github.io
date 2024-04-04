@@ -57,6 +57,8 @@ https://haydenjames.io/linux-networking-commands-scripts
 51. [tcpdump](https://www.tcpdump.org/)--command-line packet analyzer.
 52. [tcptrack](https://github.com/bchretien/tcptrack)-- Displays information about tcp connections on a network interface.
 53. [telnet](https://www.unix.com/man-page/linux/1/telnet/)--user interface to the TELNET protocol.
+	1. `telnet 172-102-11-11 9094`
+	2. `telnet <ip> <port>`
 54. [tracepath](https://linux.die.net/man/8/tracepath)--very similar function to traceroute.
 55. [traceroute](http://traceroute.sourceforge.net/)--print the route packets trace to network host.
 56. [vnStat](https://humdi.net/vnstat/)-- network traffic monitor.

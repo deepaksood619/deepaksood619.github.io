@@ -171,5 +171,6 @@ The **impossible trinity** (also known as **the impossible [trilemma](https://en
 - [2024: A Pivotal Year on the Brink | Ray Dalio | LinkedIn](https://www.linkedin.com/pulse/2024-pivotal-year-brink-ray-dalio-fwgie/)
 - [Are We in a Stock Market Bubble?](https://www.linkedin.com/pulse/we-stock-market-bubble-ray-dalio-zpdre/)
 - [Mukesh Ambani’s smooth succession plan, to avoid battle he had with brother Anil - YouTube](https://www.youtube.com/watch?v=eBzYhMmUdN0)
+- [In China: The 100-Year Storm on the Horizon and How the Five Big Forces Are Playing Out](https://www.linkedin.com/pulse/china%2D100%2Dyear%2Dstorm%2Dhorizon%2Dhow%2Dfive%2Dbig%2Dforces%2Dplaying%2Dray%2Ddalio%2Dwysbc/)
 
 ## End
