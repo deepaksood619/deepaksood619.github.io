@@ -57,7 +57,8 @@ Rows - 1,048,576- Text to column
     - `IF(OR(A4<$B$1,B4<$C$2),C4,B4)`
     - `IF(AND(A4<$B$1,B4<$C$2),C4,B4)`
     - `IF(D7>=96,"A",IF(D7>=86,"B",IF(D7>=76,"C",IF(D7>=61,"D",IF(D7>=51,"E", "F")))))`
-- =SUMIF(C6:C15,D19,D6:D15)
+- `SUMIF(C6:C15,D19,D6:D15)`
+   	- `SUMIF($C:$C, "Revenue", D:D)`
 - `AVERAGEIF(B5:B11,"<"&300000,C5:C11)`
 - =SUMPRODUCT(B5:B7,C5:C7)/SUM(B5:B7)
 - =MID(B4,1,10)

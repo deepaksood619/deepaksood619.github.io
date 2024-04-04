@@ -100,17 +100,16 @@ https://netflixtechblog.com/netflixs-viewing-data-how-we-know-where-you-are-in-h
 ## Challenges
 
 - Ingestion
-
 - Storage
-
 - Distribution
-Functional requirements
+
+### Functional requirements
 
 - Upload videos
 - Feed
 - Profiles
 
-Non-functional requirements
+### Non-functional requirements
 
 - Scalability
 - Availability
@@ -130,3 +129,4 @@ Non-functional requirements
 - [How Discord Serves 15-Million Users on One Server](https://blog.bytebytego.com/p/how-discord-serves-15-million-users?)
 - [Capturing A Billion Emo(j)i-ons](https://highscalability.com/capturing-a-billion-emo-j-i-ons/)
 - [How Uber Uses Integrated Redis Cache to Serve 40M Reads/Second?](https://blog.bytebytego.com/p/how-uber-uses-integrated-redis-cache)
+- [System Design of a Delivery System like Zomato with @KeertiPurswani - YouTube](https://www.youtube.com/watch?v=nHh3DnjnPig&ab_channel=GauravSen)

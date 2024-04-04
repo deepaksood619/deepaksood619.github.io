@@ -92,6 +92,7 @@ https://www.sonarqube.org
 - [Software Engineering Intelligence | Code Climate](https://codeclimate.com) - https://github.com/codeclimate/codeclimate
 - Sourcegraph - https://about.sourcegraph.com
 - https://www.jetbrains.com/qodana
+- [Next generation code analysis | CodeScene](https://codescene.com/)
 
 ## Links
 

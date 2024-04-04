@@ -30,6 +30,14 @@
 
 ![image](../../media/TODO-Financial-Finance-Investing_Portfolios-image1.jpg)
 
+## Asset Allocation
+
+- Strategic asset allocation
+- Tactical asset allocation
+- Dynamic asset allocation
+
+[Top Asset Allocation Strategies for Financial Freedom - The 1% News](https://news.onepercentclub.io/invest/top-asset-allocation-strategies-for-financial-freedom/5451/)
+
 ## Modern Portfolio Theory
 
 https://www.investopedia.com/terms/m/modernportfoliotheory.asp

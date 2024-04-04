@@ -371,5 +371,8 @@
 367. [The Harsh Reality of Being a Data Engineer](https://youtu.be/Gniq-YEJvfc)
 368. [Developing Machine Learning for Impact in 5 Minutes • Anna Via • GOTO 2023](https://youtu.be/dCV1f4jMBO4)
 369. [Building Green Software Part 5: Green Networking • Anne Currie • GOTO 2024](https://youtu.be/dzvTlhPXvfE)
+370. [Understanding Proxy, Forward Proxy, and Reverse Proxy - YouTube](https://www.youtube.com/watch?v=HrG0MHkSsCA&ab_channel=ArpitBhayani)
+371. [Gens N’ Roses: Appetite for Reduction • Jacob Stanley • YOW! 2017 - YouTube](https://www.youtube.com/watch?v=LfD0DHqpeVQ&ab_channel=GOTOConferences)
+372. [Google for Games Developer Summit 2024 - YouTube](https://www.youtube.com/watch?v=U5XOCp0Wils&ab_channel=GoogleforDevelopers)
 
 ## End

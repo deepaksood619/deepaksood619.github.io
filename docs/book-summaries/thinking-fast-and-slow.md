@@ -31,11 +31,11 @@ For example, imagine you are looking for a girl in the crowd. Your mind will del
 
 To see how the two systems work, try solving the following famous stick-and-ball problem:
 
-A bat and ball costs $1.10. The bat is $1 more expensive than the ball. So how much does the ball cost?
+A bat and ball costs Rs. 110. The bat is Rs. 100 more expensive than the ball. So how much does the ball cost?
 
-The price that comes to mind, $0.10 is the result of 1 emotional and automated system, and it's working! Take a few seconds and try to solve this problem.
+The price that comes to mind, Rs. 10 is the result of 1 emotional and automated system, and it's working! Take a few seconds and try to solve this problem.
 
-Do you see your error? The correct answer is $0.05.
+Do you see your error? The correct answer is Rs. 5.
 
 What just happened is your impulsive System 1 takes over and automatically responds by relying on gut feelings. But it responds too fast.
 
@@ -47,7 +47,7 @@ Laziness is harmful because the practice of System 2 is such an important part o
 
 If we are lazy and lazy to use System 2, our mind will limit its intelligent power.
 
-### 3: Autopilot: why we don't always consciously control our thoughts and actions.
+### 3: Autopilot: why we don't always consciously control our thoughts and actions
 
 What comes to mind when you see the letters “SO_P” ? Maybe nothing. But what if you see the word “EAT” first? Now, when you look at the word “SO_P” again, you should be able to complete it as “SOUP.” This process is also known as  _priming_ .
 
@@ -63,7 +63,7 @@ For example, research done by Kathleen Vohs proves that just thinking about mone
 
 Baiting, like other social factors, can influence an individual's thoughts and therefore choices, judgments, and behaviors – and they are reflected back into culture and influence social patterns. that we live in.
 
-### 4: Quick judgment: How quickly the mind makes choices, even when it doesn't yet have enough information to make a rational decision.
+### 4: Quick judgment: How quickly the mind makes choices, even when it doesn't yet have enough information to make a rational decision
 
 Imagine you meet someone named Ben at a party and find him very approachable. Then when someone asks if you know anyone who wants to donate to charity. You think of Ben, even though the only thing you know about him is how friendly he is.
 
@@ -97,7 +97,7 @@ Next comes the  _built-in heuristics_ , which is when you think something is m
 
 That's because we hear more about these deaths in the media, and because they leave a deeper impression; We remember deaths from a horrible accident more easily than from a stroke, and so we are more likely to react inappropriately to these dangers.
 
-### 6: Hate numbers: Why we struggle to understand statistics and make avoidable mistakes just because of it.
+### 6: Hate numbers: Why we struggle to understand statistics and make avoidable mistakes just because of it
 
 How can you predict this will happen or not?
 
@@ -111,7 +111,7 @@ Neglecting the base rate is a common error related to human problems when dealin
 
 For example, if a football striker who scores 5 goals a month on average, scores 10 goals in September, her coach will be delighted, but if the rest of the year she only scores 5 goals 1 month, the coach would criticize her for not keeping her form. However, she does not deserve to be criticized because she is just regressing to the mean!
 
-### 7: Past Evil: Why we remember events from hindsight and not from experience.
+### 7: Past Evil: Why we remember events from hindsight and not from experience
 
 Our minds don't record experiences in a straight line. We have two machines that record different situations.
 
@@ -177,7 +177,7 @@ Do you still think John and Jenny are equally happy with $5 million? Obviously, 
 
 As we will see in the next section, because people do not view utility as rationally as utility theory asserts, we can make strange and irrational decisions.
 
-### 11: Intuition: why instead of making decisions based on rational considerations, we are often swayed by emotional factors.
+### 11: Intuition: why instead of making decisions based on rational considerations, we are often swayed by emotional factors
 
 If utility theory is false, which theory is correct?
 
@@ -195,7 +195,7 @@ The first reason is that we value things based on  _reference points_ . Starti
 
 Second, we are influenced by  _the diminishing sensitivity principle_ : our perceived value may differ from what it is. For example, losing money from $1000 to $900 doesn't feel as bad as losing money from $200 to $100, regardless of the amount lost. Similarly in our example, the value of the perceived loss when losing money from $1500 to $1000 will be greater than the loss from $2000 to $1500.
 
-### 12: False images: why psychology builds a complete picture to explain the world, but they often lead to overconfidence and falsehoods.
+### 12: False images: why psychology builds a complete picture to explain the world, but they often lead to overconfidence and falsehoods
 
 To understand situations, our minds use  _cognitive coherence_ ; We construct complete mental images to explain ideas and concepts. For example, we have a lot of images in the brain about the weather. If we have a picture of summer weather, maybe a picture of a bright, hot sun makes us sweat profusely.
 

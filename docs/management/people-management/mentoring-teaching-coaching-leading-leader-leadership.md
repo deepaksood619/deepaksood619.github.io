@@ -204,4 +204,5 @@ https://seekwise.org
 
 - [Leaders Eat Last](book-summaries/leaders-eat-last.md)
 
-[The Habit That Could Improve Your Career | Paul Catchlove | TED](https://www.youtube.com/watch?v=NcKLNP8x_QA) - Reflection
+- [The Habit That Could Improve Your Career | Paul Catchlove | TED](https://www.youtube.com/watch?v=NcKLNP8x_QA) - Reflection
+- [Why Great Leaders Must Unlearn to Succeed in Today's Exponential World • Barry O’Reilly • YOW! 2018 - YouTube](https://www.youtube.com/watch?v=Y962m1Ede7E&ab_channel=GOTOConferences)

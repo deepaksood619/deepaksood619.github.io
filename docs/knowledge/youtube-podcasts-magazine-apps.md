@@ -457,3 +457,7 @@ Indian History - https://www.anirudhkanisetti.com/podcasts
 
 - [Seedboxes](https://www.reddit.com/r/seedboxes/)
 - [It's A Digital Disease!](https://www.reddit.com/r/DataHoarder/)
+
+### Others
+
+- Watermark remover - [Free Online Watermark Remover | AniEraser](https://anieraser.media.io/app/)

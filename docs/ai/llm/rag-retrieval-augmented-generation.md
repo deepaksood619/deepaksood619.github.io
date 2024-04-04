@@ -11,3 +11,7 @@ RAG is an AI framework for retrieving facts from an external knowledge base to g
 [**Vector Search RAG Tutorial - Combine Your Data with LLMs with Advanced Search - YouTube**](https://www.youtube.com/watch?v=JEBDfGqrAUA)
 
 [GitHub - beaucarnes/vector-search-tutorial](https://github.com/beaucarnes/vector-search-tutorial)
+
+[DSPy: Not Your Average Prompt Engineering](https://jina.ai/news/dspy-not-your-average-prompt-engineering/)
+
+[langchain/cookbook/RAPTOR.ipynb at master · langchain-ai/langchain · GitHub](https://github.com/langchain-ai/langchain/blob/master/cookbook/RAPTOR.ipynb)

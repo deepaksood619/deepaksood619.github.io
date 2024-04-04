@@ -85,12 +85,12 @@ It is important for investors to understand that there is no escape from risk wh
 https://freefincal.com/fixed-income-investment-retirement
 
 1. Do not use debt funds if you do not have an idea of how volatile they can be.
-    - Youcan use the [Multi-index Mutual Fund Rolling Returns Calculator](https://freefincal.com/multi-index-mutual-fund-rolling-returns-calculator/) to get the above graphs for the fund that hold or aim to invest in.
+    - You can use the [Multi-index Mutual Fund Rolling Returns Calculator](https://freefincal.com/multi-index-mutual-fund-rolling-returns-calculator/) to get the above graphs for the fund that hold or aim to invest in.
 
 2. The average maturity of the portfolio should be much lower than the investment duration of the fund.
     - If your investment duration is 3 years, then an average maturity of a few months is good (liquid funds)
     - If your investment duration is 10 years, then an average maturity of 1-2 years is good.
-        - Ultra-short-termfunds ~ 1Y.
+        - Ultra-short-term funds ~ 1Y.
         - Short-term gilts ~1-3Y if you want to avoid credit risk.
         - Income funds from solid bonds from banks and PSUs or a bit of corporate debt ~ 1-3Y is also okay.
 
@@ -148,3 +148,4 @@ Taxation - LTCG - If holding is more than 36 months) - Debt Fund (20% with Index
 - https://www.thefixedincome.com
 - [Getting started with debt mutual funds - YouTube](https://www.youtube.com/watch?v=7jLip-C8SQs)
 - [Important debt fund jargon - YouTube](https://www.youtube.com/watch?v=A3eDo9O5K4w)
+- [Should I Move Money from FD to Debt Funds? | Mutual Fund Monday | Gaurav Jain - YouTube](https://www.youtube.com/watch?v=fOBaa2e3mcI&ab_channel=YadnyaInvestmentAcademy)

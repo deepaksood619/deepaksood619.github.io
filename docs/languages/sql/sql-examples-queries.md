@@ -1,4 +1,4 @@
-# SQL Examples
+# SQL Examples / Queries
 
 [Online SQL Playground with Data | W3 Schools](https://www.w3schools.com/sql/trysql.asp?filename=trysql_editor)
 

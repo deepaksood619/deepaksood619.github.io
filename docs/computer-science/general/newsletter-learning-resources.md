@@ -114,6 +114,12 @@ Give tech talk - Learning + Note taking + Zettlekasten - Obsidian / Onenote + Do
 - [GitHub - tycrek/degoogle: A huge list of alternatives to Google products. Privacy tips, tricks, and links.](https://github.com/tycrek/degoogle)
 - [GitHub - cloudcommunity/Cloud-Free-Tier-Comparison: Comparing the free tier offers of the major cloud providers like AWS, Azure, GCP, Oracle etc.](https://github.com/cloudcommunity/Cloud-Free-Tier-Comparison)
 
+### Example Repositories
+
+- [GitHub - getsentry/sentry: Developer-first error tracking and performance monitoring](https://github.com/getsentry/sentry)
+- [GitHub - django/django: The Web framework for perfectionists with deadlines.](https://github.com/django/django)
+- [GitHub - reposense/RepoSense: Contribution analysis tool for Git repositories](https://github.com/reposense/RepoSense)
+
 ## Fundamental Tech
 
 - Python (OOPS concept)
@@ -141,6 +147,7 @@ Give tech talk - Learning + Note taking + Zettlekasten - Obsidian / Onenote + Do
     - [Microservices for system design interview preparation - YouTube](https://www.youtube.com/playlist?list=PLkQkbY7JNJuDqCFncFdTzGm6cRYCF-kZO)
 - [System Design for Beginners - YouTube](https://www.youtube.com/playlist?list=PLMCXHnjXnTnvo6alSjVkgxV-VH6EPyvoX)
 - [System Designs - YouTube](https://www.youtube.com/playlist?list=PLQnljOFTspQXSevtRqvMNycWfHM7cXc3d)
+- [Complete the Design - Recommendation Engine | 8. Map Reduce and Stream Processing | System Design Simplified | InterviewReady](https://interviewready.io/learn/system-design-course/8-map-reduce-and-stream-processing/complete-the-design---recommendation-engine)
 
 ## AI Tools
 

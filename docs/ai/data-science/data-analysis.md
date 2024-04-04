@@ -34,3 +34,5 @@ https://en.wikipedia.org/wiki/Anscombe%27s_quartet
 - Testing of basic hypotheses
 
 https://towardsdatascience.com/5-advanced-visualisation-for-exploratory-data-analysis-eda-c8eafeb0b8cb
+
+[Unlock the Power of Data Analytics with Free Google Services](https://www.freecodecamp.org/news/data-analytics-with-google-stack/)

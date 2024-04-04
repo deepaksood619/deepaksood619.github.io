@@ -1,5 +1,7 @@
 # Indian Market
 
+[Indus Valley Annual Report 2024 - Blume Ventures](https://blume.vc/reports/indus-valley-annual-report-2024)
+
 https://www.avendus.com/india/d2c-brands-report
 
 ![image](../../media/Business_Indian-Market-image1.jpg)
