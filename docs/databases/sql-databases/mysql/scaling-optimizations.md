@@ -27,16 +27,20 @@ Able to search ~5cr entries in 7 mins of average time with 4-5 where conditions
 
 ## Limitations
 
-- ALTER TABLE ... ORDER BY.AnALTER TABLE ... ORDER BYcolumnstatement run against a partitioned table causes ordering of rows only within each partition.
+- ALTER TABLE ... ORDER BY. An ALTER TABLE ... ORDER BY column statement run against a partitioned table causes ordering of rows only within each partition.
 - Prohibited constructs.The following constructs are not permitted in partitioning expressions:
     - Stored procedures, stored functions, UDFs, or plugins.
     - Declared variables or user variables.
 - The query cache is not supported for partitioned tables, and is automatically disabled for queries involving partitioned tables. The query cache cannot be enabled for such queries.
 - Partitioned tables using the [InnoDB](https://dev.mysql.com/doc/refman/5.7/en/innodb-storage-engine.html) storage engine do not support foreign keys. More specifically, this means that the following two statements are true:
-    - No definition of anInnoDBtable employing user-defined partitioning may contain foreign key references; noInnoDBtable whose definition contains foreign key references may be partitioned.
-    - NoInnoDBtable definition may contain a foreign key reference to a user-partitioned table; noInnoDBtable with user-defined partitioning may contain columns referenced by foreign keys.
+    - No definition of an InnoDB table employing user-defined partitioning may contain foreign key references; no InnoDB table whose definition contains foreign key references may be partitioned.
+    - No InnoDB table definition may contain a foreign key reference to a user-partitioned table; no InnoDB table with user-defined partitioning may contain columns referenced by foreign keys.
 
 https://dev.mysql.com/doc/mysql-partitioning-excerpt/5.7/en/partitioning-limitations.html
+
+## Replication
+
+[MySQL Replication Tutorial - YouTube](https://www.youtube.com/playlist?list=PLd5sTGXltJ-mvbbhIyLT8hjinK9RYfjhY)
 
 ## Performance Tuning
 

@@ -237,9 +237,14 @@ https://vlang.io
 
 [GitHub - zigzap/zap: blazingly fast backends in zig](https://github.com/zigzap/zap)
 
+## .net
+
+.NET is a free, open-source, managed computer software framework for Windows, Linux, and macOS operating systems. ASP.NET is a server-side web-application framework designed for web development to produce dynamic web pages. .NET Core is a new version of .NET Framework.
+
+[ASP.NET Core Tutorial – Beginner to Advanced Projects - YouTube](https://www.youtube.com/watch?v=6SAFgcMie4U&ab_channel=freeCodeCamp.org)
+
 ## Others
 
 - [Solidity](decentralized-applications/ethereum/solidity.md)
 - [GitHub - move-language/move](https://github.com/move-language/move)
     - [Introduction - The Move Book](https://move-language.github.io/move/)
-- [ASP.NET Core Tutorial – Beginner to Advanced Projects - YouTube](https://www.youtube.com/watch?v=6SAFgcMie4U&ab_channel=freeCodeCamp.org)

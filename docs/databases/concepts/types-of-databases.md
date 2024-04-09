@@ -181,13 +181,18 @@ Vector databases are designed to handle critical query and algorithmic styles se
 [A Comprehensive Guide to Vector Databases - KDB.AI](https://kdb.ai/blog/a-comprehensive-guide-to-vector-databases/)
 
 - pinecone
-
-## Others
-
-### Chroma
-
+- [**LanceDB**](https://github.com/lancedb/lancedb)
+- [**Epsilla**](https://github.com/epsilla-cloud/vectordb)
+- [Welcome | Weaviate - Vector Database](https://weaviate.io/)
+- [PostgresML: Leveraging Postgres as a Vector Database for AI](https://youtu.be/D8YMMOhAeBs?si=ug5uc3LhFPDIlpcF)
+- [Learn Vector Database in 10 Mins - Hottest AI Apps DB!](https://youtu.be/sVNrXXM1txo?si=xc1nFrwmRzD2f9CO)
+- [What Are Vector Databases? | MongoDB](https://www.mongodb.com/basics/vector-databases)
 - [Chroma](https://www.trychroma.com/) - the AI-native open-source embedding database
-- [GitHub - chroma-core/chroma: the AI-native open-source embedding database](https://github.com/chroma-core/chroma)
+   	- [GitHub - chroma-core/chroma: the AI-native open-source embedding database](https://github.com/chroma-core/chroma)
+   	- [Chroma Vector Database: Retrieval for LLMs (Hammad Bashir + Liquan Pei)](https://youtu.be/E4ot5d79jdA?si=6apWFfCdKbi7_yFK)
+- [The 5 Best Vector Databases | A List With Examples | DataCamp](https://www.datacamp.com/blog/the-top-5-vector-databases)
+
+![Vector Databases](../../media/Pasted%20image%2020240405112318.png)
 
 ## Comparison
 

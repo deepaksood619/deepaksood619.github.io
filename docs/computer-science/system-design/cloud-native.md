@@ -39,3 +39,7 @@ https://thenewstack.io/primer-distributed-systems-and-cloud-native-computing
 | Snowflake servers | Immutable infrastructure |
 
 ![How do we Adopt Cloud Native](../../media/Pasted%20image%2020240321193906.jpg)
+
+## Links
+
+- [Cloud Foundry – Open Source Cloud Native Application Delivery](https://www.cloudfoundry.org/)
