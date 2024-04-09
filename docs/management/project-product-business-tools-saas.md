@@ -48,6 +48,7 @@
 34. https://www.cymath.com - Solve maths question
 35. https://attentioninsight.com
 36. [Mind Map & Brainstorm Ideas - MindNode](https://www.mindnode.com/)
+	1. [Miro | The Visual Workspace for Innovation](https://miro.com/)
 37. [Canva: Visual Suite for Everyone](https://www.canva.com)
 38. [FuseBase (Formerly Nimbus): Online Collaboration Tool for Business - Team Collaboration Software](https://nimbusweb.me/)
 

@@ -21,6 +21,11 @@ Overall, both Power BI and Google data studio are similar when it comes to data 
     - However, adding few data sources to Google data studio needs third party applications such as Supermetrics which costs between $20 - $50.
     - Given Google data studio is a cloud based application, it would eliminate the need for AWS machine(needed to build Power BI report)to builtthe reports.
 
+## QlikView
+
+- [Qlik Data Integration, Data Quality, and Analytics Solutions](https://www.qlik.com/us)
+- [Qlik Sense | Modern Analytics](https://www.qlik.com/us/products/qlik-sense)
+
 ## Others
 
 1. QlikView

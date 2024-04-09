@@ -56,6 +56,8 @@ Total - 171 services in the periodic table
 
 https://www.awsgeek.com/Periodic-Table-of-Amazon-Web-Services/Periodic-Table-of-Amazon-Web-Services.jpg
 
+![AWS Services List](../../media/Pasted%20image%2020240404231319.png)
+
 [Amazon Web Services AWS Cheat Sheets - Tutorials Dojo](https://tutorialsdojo.com/aws-cheat-sheets/)
 
 ![Cloud Infra 30K Feet Design](../../media/Pasted%20image%2020240205224442.jpg)

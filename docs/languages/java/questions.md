@@ -50,6 +50,8 @@
 4. Interpreted
 5. Multi-threaded
 
+## Interview Questions
+
 **Why is Java Architectural Neutral?**
 
 It's compiler generates an architecture-neutral object file format, which makes the compiled code to be executable on many processors, with the presence of Java runtime system.
@@ -864,3 +866,14 @@ When an exception is thrown within the body of a try statement, the catch clause
 If the array is an array of primitive types, then all the elements of the array will be initialized to the default value corresponding to that primitive type.
 
 https://www.toptal.com/core-java/interview-questions
+
+## Other Questions
+
+1. **Java Fundamentals:** - Can you explain the difference between JDK, JRE, and JVM? How do these components work together in Java development?
+2. **Object-Oriented Programming (OOP):** - How does Java implement the principles of object-oriented programming? Can you give examples of inheritance and polymorphism in Java?
+3. **Exception Handling:** - What is the difference between checked and unchecked exceptions in Java? Can you provide a scenario where custom exceptions would be beneficial?
+4. **Java Collections Framework (JCF):** - Can you discuss the differences between Set, List, and Map in Java? How do you decide which one to use in a specific scenario?
+5. **Concurrency:** - Explain how you would handle concurrency in Java. What are the differences between the `synchronized` keyword and `ReentrantLock`?
+6. **Java 8 Features:** - How have Java 8 features like streams and lambdas changed the way you write Java code? Can you give an example where these features significantly simplify the code?
+7. **Design Patterns and Architecture:** - Can you explain the Singleton design pattern and where you might use it? Are there any drawbacks to its use in application development?
+8. **Spring Framework (for Spring-related positions):** - How does the Spring Framework simplify Java development? Can you explain dependency injection and how Spring facilitates it?

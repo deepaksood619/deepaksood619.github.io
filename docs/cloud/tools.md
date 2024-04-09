@@ -103,6 +103,7 @@
 	2. A/B testing
 	3. Vulnerability scanning
 	4. Rollbacks
+3. Selenium
 
 ### Monitoring Tools
 
@@ -122,7 +123,7 @@
 ### DB Tools
 
 1. New age DBs - MongoDB / Elasticsearch / Cassandra / Redis
-2. CDC Tool - Debezium
+2. CDC Tool - Debezium / flyway
 3. Event driven system - Kafka
 4. Data Warehouses - BigQuery / Redshift / Clickhouse / Databricks
 5. Visualization tools - Metabase / Tableau / PowerBI
