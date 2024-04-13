@@ -420,6 +420,12 @@ certificates.k8s.io/v1beta1 validates network certificates for secure communicat
 
 Modify kubeconfig files
 
+```bash
+export KUBECONFIG=/Users/deepaksood/kubeconfig-file.yaml
+
+kubectl --kubeconfig kubeconfig-file.yaml get pods
+```
+
 - current-context Displays the current-context
 - delete-cluster Delete the specified cluster from the kubeconfig
 - delete-context Delete the specified context from the kubeconfig

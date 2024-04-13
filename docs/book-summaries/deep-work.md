@@ -2,6 +2,10 @@
 
 By Cal Newport
 
+The few who cultivate this skill, and then make it the core of their working life, will thrive. - Cal Newport
+
+Neuroscientists have discovered that intense periods of focused work cause myelin to develop in relevant areas of the brain. Myelin is a white tissue that develops around neurons, allowing brain cells to fire faster and cleaner. Practicing deep work upgrades our brains so we can do more work with the same effort. The brain upgrade from deep work enables us to connect more ideas and uncover creative solutions to complex problems.
+
 - Opposite - Shallow work
 - Two core abilities for thriving in the new economy
     - The ability to quickly master hard things

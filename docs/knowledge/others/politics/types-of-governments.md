@@ -16,6 +16,10 @@ I disapprove of what you say, but will defend to the death your right to say it.
 
 Democracy is not a noun but a verb, it something you do
 
+A wicked citizen cannot do evil in a republic that is not corrupted
+
+[Democracy Lab | TED-Ed](https://ed.ted.com/democracy-lab)
+
 #### Links
 
 - [Is India becoming a DICTATORSHIP? | Chandigarh Elections | Farmers Protest | Dhruv Rathee - YouTube](https://www.youtube.com/watch?v=Y9253_M38Xk&ab_channel=DhruvRathee)

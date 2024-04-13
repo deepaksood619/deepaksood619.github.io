@@ -1,5 +1,7 @@
 # Developer Roles
 
+- SDET - Software Development Engineers in Test
+
 ## Junior developer training guide
 
 - Message format for asking question

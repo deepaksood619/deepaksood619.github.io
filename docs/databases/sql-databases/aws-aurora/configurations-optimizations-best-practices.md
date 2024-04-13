@@ -33,7 +33,7 @@ There are two types of Aurora MySQL parameter groups: DB parameter groups and DB
 
 Recommended setting: Use the default value (1 or ON) to ensure that each SQL statement is automatically committed as you run it, unless it's part of a transaction opened by the user.
 
-Impact:A value of OFF might encourage incorrect usage patterns such as transactions that are held open longer than required, not closed, or committed at all. This can affect the performance and stability of the database.
+Impact: A value of OFF might encourage incorrect usage patterns such as transactions that are held open longer than required, not closed, or committed at all. This can affect the performance and stability of the database.
 
 ### max_connections
 
@@ -242,6 +242,70 @@ https://docs.aws.amazon.com/AmazonRDS/latest/AuroraUserGuide/aurora-serverless.h
 
 [Best practices for configuring parameters for Amazon RDS for MySQL, part 1: Parameters related to performance | AWS Database Blog](https://aws.amazon.com/blogs/database/best-practices-for-configuring-parameters-for-amazon-rds-for-mysql-part-1-parameters-related-to-performance/)
 
+### Aurora IO Costs/Optimization
+
+#### Read I/O Cost Optimization
+
+- ﻿﻿Tune SQL queries to optimize read operations and avoid full scans on large tables.
+- ﻿﻿Scale DB Instance when needed to optimize buffer cache for reads (monitor CloudWatch metrics Buffer Cache Hit Ratio (Percent)).
+- ﻿﻿Tune autovacuum process on Aurora PostgreSQL for tables with high DML operations to avoid bloated table/index access.
+- ﻿﻿Use Aurora native backup and snapshots when possible. Logical backups (mysqldump, pg_dump) will generate excessive reads.
+- ﻿﻿Use Aurora native replication (Aurora replicas) when possible. Avoid logical replication (binlog WAL based) which uses additional read I/Os.
+
+#### Write I/O Cost Optimization
+
+- ﻿﻿Remove unused or duplicate indexes from tables.
+- ﻿﻿Make use of appropriate fill factor so HOT (Heap Only Tuple) updates can be used in Aurora PostgreSQL.
+- ﻿﻿Utilize Table partitioning to manage large tables and use partition drops instead of large DELETE operations.
+- ﻿﻿Use Aurora native replication (read replicas) when possible. Avoid logical replication (binlog WAL based) which uses additional write I/Os.
+
+[Amazon Aurora I/O Cost Optimization Methodology | Amazon Web Services](https://www.youtube.com/watch?v=dpLRAlEX7Lo)
+
+```sql
+select * from sys.user_summary_by_file_io;
+
+innodb_flush_log_at_trx_commit
+
+innodb_flush_log_at_timeout
+```
+
+### Aurora I/O Optimized Databases
+
+![Aurora Pay Structure](../../../media/Screenshot%202024-04-12%20at%2012.31.51%20PM.jpg)
+
+- Aurora cluster configuration with the option to pay for compute and storage only with no charges for read and write I/O operations
+- Price predictability: no pay-per-request I/O charges making it easy to estimate database spend upfront
+- For customers whose **I/O spend exceeds 25% of total Aurora database spend, customers can save up to 40% cost savings**
+- Improved performance: increasing throughput and reducing latency for I/O-intensive applications
+- Available for Aurora PostgreSQL-Compatible Edition and Aurora MySQL-Compatible Edition
+- Supported on Aurora Serverless v2 and provisioned (on-demand and reserved) instances
+
+![Predictable Prices](../../../media/Screenshot%202024-04-12%20at%2012.36.41%20PM.jpg)
+
+#### Pricing
+
+- Compute (On-demand / RI) + 30%
+- Storage (Standard – pay-per-use) + 125%
+- I/O – No additional charges for read and write I/Os (not applicable for Aurora Global DB)
+- Other cost components
+
+#### I/O-Optimized can be configured at a cluster level
+
+- Aurora I/O-Optimized is a cluster storage configuration
+- Aurora cluster can modify storage option (standard to I/O-Optimized) once in a month and switch back anytime
+- Available from Aurora PostgreSQL 13.x and Aurora MySQL 3.0.3.1 onwards
+- Compatible with
+   	- Intel-based Aurora database instance types such as t3, r5, r6i
+   	- Graviton-based database instance types such as t4g, r6g, r7g, and x2g
+   	- Aurora Serverless v2
+- Aurora Global database cluster can have different Aurora storage config at cluster level i.e. primary & secondary clusters can configure with different configuration
+
+[Getting Started with Amazon Aurora I/O-Optimized - AWS Databases in 15 - YouTube](https://www.youtube.com/watch?v=OlFeaVd6Ll4)
+
+[AWS announces Amazon Aurora I/O-Optimized](https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-aurora-i-o-optimized/)
+
+[New – Amazon Aurora I/O-Optimized Cluster Configuration with Up to 40% Cost Savings for I/O-Intensive Applications | AWS News Blog](https://aws.amazon.com/blogs/aws/new-amazon-aurora-i-o-optimized-cluster-configuration-with-up-to-40-cost-savings-for-i-o-intensive-applications/)
+
 ## DB instance RAM recommendations
 
 An Amazon RDS performance best practice is to allocate enough RAM so that yourworking setresides almost completely in memory. The working set is the data and indexes that are frequently in use on your instance. The more you use the DB instance, the more the working set will grow.
@@ -258,18 +322,11 @@ https://docs.aws.amazon.com/AmazonRDS/latest/AuroraUserGuide/AuroraMySQL.Managin
 
 https://aws.amazon.com/premiumsupport/knowledge-center/aurora-mysql-synch-wait-events
 
-## Aurora IO Costs/Optimization
-
-[Amazon Aurora I/O Cost Optimization Methodology | Amazon Web Services](https://www.youtube.com/watch?v=dpLRAlEX7Lo)
-
-```sql
-select * from sys.user_summary_by_file_io;
-
-innodb_flush_log_at_trx_commit
-
-innodb_flush_log_at_timeout
-```
-
-### RDS Proxy
+## RDS Proxy
 
 https://aws.amazon.com/rds/proxy
+
+## Links
+
+- [Optimize Amazon RDS and Aurora Costs with ElastiCache for Redis - AWS Databases in 15 - YouTube](https://www.youtube.com/watch?v=JAoNlGqn124)
+- [AWS tools to optimize your Amazon RDS costs | AWS Database Blog](https://aws.amazon.com/blogs/database/aws-tools-to-optimize-your-amazon-rds-costs/)

@@ -401,3 +401,10 @@ Total with Duplicates - 331 services
 17. **AWS Snow Family** - Physical edge computing and storage devices for rugged or disconnected environments
 18. **AWS Storage Gateway** - Hybrid storage integration
 19. **AWS Elastic Disaster Recovery (DRS)** - Scalable, cost-effective application recovery to AWS
+
+## Others
+
+1. [AWS Incident Detection and Response](https://aws.amazon.com/premiumsupport/aws-incident-detection-response/) - Available in enterprise support plan
+2. [AWS Managed Services](https://aws.amazon.com/managed-services/) - Operational excellence in the cloud
+3. [AWS re:Post Private](https://aws.amazon.com/repost-private/)
+4. [AWS Countdown](https://aws.amazon.com/premiumsupport/aws-countdown/)
