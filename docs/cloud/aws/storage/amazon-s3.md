@@ -10,7 +10,7 @@ S3: More than 235 distributed microservices
 - 5 TB single object limit
 - Pre signed URL (max expiry 7 days)
 
-aws s3 presign s3://bigbet90/index.html --expires-in 90
+`aws s3 presign s3://bigbet90/index.html --expires-in 90`
 
 Generating presigned URLs is actually done locally, without requiring a call to AWS. This is because all necessary information (Bucket, Key, Secret Key) is known locally and can generate the signature.
 
@@ -25,6 +25,30 @@ https://boto3.amazonaws.com/v1/documentation/api/latest/guide/s3-presigned-urls.
 https://docs.aws.amazon.com/AmazonS3/latest/userguide/PresignedUrlUploadObject.html
 
 Amazon S3 is an object storage model that is built to store and retrieve any amount of data from any place such as websites, mobile apps, corporate applications, and data from IoT sensors or devices. Amazon S3 is the most supported storage platform available, with the largest ecosystem.
+
+## Buckets
+
+There are two types of Amazon S3 buckets, general purpose buckets and directory buckets.
+
+### General purpose buckets
+
+General purpose buckets are the original S3 bucket type and are recommended for most use cases and access patterns. General purpose buckets also allow objects that are stored across all storage classes, except S3 Express One Zone.
+
+### Directory buckets
+
+Directory buckets use the S3 Express One Zone storage class, which is recommended if your application is performance sensitive and benefits from single-digit millisecond `PUT` and `GET` latencies.
+
+Directory buckets are used for workloads or performance-critical applications that require consistent single-digit millisecond latency. Directory buckets organize data hierarchically into directories as opposed to the flat storage structure of general purpose buckets. There aren't prefix limits for directory buckets, and individual directories can scale horizontally.
+
+Directory buckets use the S3 Express One Zone storage class, which stores data across multiple devices within a single Availability Zone but doesn't store data redundantly across Availability Zones. When you create a directory bucket, we recommend that you specify an AWS Region and an Availability Zone that's local to your Amazon EC2, Amazon Elastic Kubernetes Service, or Amazon Elastic Container Service (Amazon ECS) compute instances to optimize performance.
+
+Directory buckets store objects in the S3 Express One Zone storage class, which provides faster processing of data within a single Availability Zone. For more information, see Directory buckets.
+
+You can create up to 10 directory buckets in each of your AWS accounts, with no limit on the number of objects that you can store in a bucket. Your bucket quota is applied to each Region in your AWS account.
+
+**S3 Express One Zone** - High-performance storage for your most frequently accessed data - $0.16 per GB
+
+[Directory buckets - Amazon Simple Storage Service](https://docs.aws.amazon.com/AmazonS3/latest/userguide/directory-buckets-overview.html)
 
 ## Usage
 
@@ -50,7 +74,7 @@ After a successful write of a new object, or an overwrite or delete of an existi
 
 [Amazon S3 Update - Strong Read-After-Write Consistency | AWS News Blog](https://aws.amazon.com/blogs/aws/amazon-s3-update-strong-read-after-write-consistency/)
 
-## Peformance
+## Performance
 
 Your applications can easily achieve thousands of transactions per second in request performance when uploading and retrieving storage from Amazon S3. Amazon S3 automatically scales to high request rates. For example, your application can achieve at least 3,500 PUT/COPY/POST/DELETE or 5,500 GET/HEAD requests per second per [prefix](https://docs.aws.amazon.com/general/latest/gr/glos-chap.html#keyprefix) in a bucket. There are no limits to the number of prefixes in a bucket. You can increase your read or write performance by parallelizing reads. For example, if you create 10 prefixes in an Amazon S3 bucket to parallelize reads, you could scale your read performance to 55,000 read requests per second.
 
@@ -132,7 +156,6 @@ To manage your objects so that they are stored cost effectively throughout their
 There are two types of actions:
 
 - **Transition actions -** Define when objects transition to another [storage class](https://docs.aws.amazon.com/AmazonS3/latest/dev/storage-class-intro.html). For example, you might choose to transition objects to the STANDARD_IA storage class 30 days after you created them, or archive objects to the S3 Glacier storage class one year after creating them.
-
 - **Expiration actions -** Define when objects expire. Amazon S3 deletes expired objects on your behalf.
 
 Amazon S3 runs lifecycle rules once every day. After the first time Amazon S3 runs the rules, all objects eligible for expiration are marked for deletion. You're no longer charged for objects that are marked for deletion. It can take a few days for the rules to run until the bucket is empty. This is because expiring object versions and cleaning up delete markers are asynchronous steps.
@@ -142,28 +165,6 @@ https://aws.amazon.com/premiumsupport/knowledge-center/s3-empty-bucket-lifecycle
 https://docs.aws.amazon.com/AmazonS3/latest/dev/object-lifecycle-mgmt.html
 
 https://docs.aws.amazon.com/AmazonS3/latest/userguide/how-to-set-lifecycle-configuration-intro.html
-
-## S3 Storage Classes
-
-- S3 Standard (Frequently accessed data) - $0.023per GB
-- S3 Intelligent-Tiering - $0.023per GB
-
-Monitoring and Automation, All Storage / Month (Objects > 128 KB) - $0.0025per 1,000 objects
-
-- S3 Standard-IA (Infrequent Access) (Long-lived, infrequently accessed data) - $0.0125per GB (54% cheap)
-- S3 One Zone-IA (Long-lived, infrequent, but rapid access) - $0.01per GB (125% cheap)
-- S3 Glacier - $0.004per GB (312% cheap)
-- S3 Glacier Deep Archive (Archiving rarely accessed data) - $0.00099per GB (1262% cheap)
-- Amazon S3 Glacier Instant Retrieval
-- S3 Outposts
-
-https://aws.amazon.com/s3/storage-classes
-
-https://aws.amazon.com/s3/storage-classes/intelligent-tiering
-
-S3 Intelligent-Tiering is the only cloud storage class that delivers automatic storage cost savings when data access patterns change, without performance impact or operational overhead. The Amazon S3 Intelligent-Tiering storage class is designed to optimize storage costs by automatically moving data to the most cost-effective access tier when access patterns change. For a small monthly object monitoring and automation charge, S3 Intelligent-Tiering monitors access patterns and automatically moves objects that have not been accessed to lower-cost access tiers.
-
-S3 Intelligent-Tiering is the ideal storage class for data with unknown, changing, or unpredictable access patterns, independent of object size or retention period. You can use S3 Intelligent-Tiering as the default storage class for virtually any workload, especially data lakes, data analytics, new applications, and user-generated content.
 
 ## When should you use amazon S3
 
@@ -177,37 +178,6 @@ S3 Intelligent-Tiering is the ideal storage class for data with unknown, changin
     - Frequently changing data
     - Long-term archival storage
 
-## Pricing
-
-- **Storage**
-
-The volume of storage billed in a month is based on the average storage used throughout the month. This includes all object data and metadata stored in buckets that you created under your AWS account. We measure your storage usage in "TimedStorage-ByteHrs," which are added up at the end of the month to generate your monthly charges.
-
-The rate you're charged depends on your objects' size, how long you stored the objects during the month, and the storage class - S3 Standard, S3 Intelligent-Tiering, S3 Standard - Infrequent Access, S3 One Zone - Infrequent Access, S3 Glacier, and S3 Glacier Deep Archive, and Reduced Redundancy Storage (RRS). You pay a monthly monitoring and automation fee per object stored in the S3 Intelligent-Tiering storage class to monitor access patterns and move objects between access tiers in S3 Intelligent-Tiering.
-
-There are per-request ingest fees when using PUT, COPY, or lifecycle rules to move data into any S3 storage class. Consider the ingest or transition cost before moving objects into any storage class.
-
-- **Data Transfer in / out**
-
-| **PUT, COPY, POST, LIST requests (per 1,000 requests)** | **GET, SELECT, and all other requests (per 1,000 requests)** | **Lifecycle Transition requests (per 1,000 requests)** |
-|-|-|-|
-| S3 Standard | $0.005 | $0.0004 |
-
-### You pay for all bandwidth into and out of Amazon S3, except for the following
-
-- Data transferred in from the internet.
-- Data transferred out to an Amazon Elastic Compute Cloud (Amazon EC2) instance, when the instance is in the same AWS Region as the S3 bucket.
-- Data transferred out to Amazon CloudFront (CloudFront).
-
-### Data Transfer OUT From Amazon S3 To Internet
-
-| Up to 1 GB / Month          | $0.00 per GB   |
-|-----------------------------|-----------------|
-| Next 9.999 TB / Month       | $0.1093 per GB |
-| Next 40 TB / Month          | $0.085 per GB  |
-| Next 100 TB / Month         | $0.082 per GB  |
-| Greater than 150 TB / Month | $0.08 per GB   |
-
 ## S3 Storage Lens
 
 https://aws.amazon.com/s3/storage-analytics-insights
@@ -217,6 +187,14 @@ https://aws.amazon.com/s3/storage-analytics-insights
 | S3 Storage Lens advanced metrics and recommendations† | $0.20per million objects monitored per month |
 
 † For S3 Storage Lens advanced metrics and recommendations, you will be charged object monitoring fees for each Storage Lens dashboard used. The Storage Lens advanced metrics and recommendations pricing includes 15-months data retention, activity metrics, and prefix-level aggregation.
+
+### Amazon S3 analytics – Storage Class Analysis
+
+S3 Analytics Storage Class Analysis - $0.10 per million objects monitored per month
+
+By using Amazon S3 analytics _Storage Class Analysis_ you can analyze storage access patterns to help you decide when to transition the right data to the right storage class. This new Amazon S3 analytics feature observes data access patterns to help you determine when to transition less frequently accessed STANDARD storage to the STANDARD_IA (IA, for infrequent access) storage class.
+
+[Amazon S3 analytics – Storage Class Analysis - Amazon Simple Storage Service](https://docs.aws.amazon.com/AmazonS3/latest/userguide/analytics-storage-class.html)
 
 ## Versioning
 

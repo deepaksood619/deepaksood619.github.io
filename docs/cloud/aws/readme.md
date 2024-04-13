@@ -4,6 +4,7 @@
 - [AWS Services](aws-services)
 - **[AWS Services List](cloud/aws/aws-services-list.md)**
 - [CLI Commands](cli-commands)
+- [AWS Cost Optimization / Explorer](cloud/aws/cost-optimization-explorer-billing.md)
 - [AWS Glue](aws-glue)
 - [AWS SQS](aws-sqs)
 - [AWS SNS](cloud/aws/aws-sns.md)
@@ -27,6 +28,7 @@
     - [AWS ELB](networking-content-delivery/aws-elb)
 - [Storage](storage/readme.md)
     - [Amazon S3](storage/amazon-s3)
+    - [Amazon S3 Storage Classes](cloud/aws/storage/amazon-s3-storage-classes.md)
     - [Amazon EBS](storage/amazon-ebs)
 - Databases
     - [Amazon Aurora](../../databases/sql-databases/aws-aurora/readme.md)
@@ -43,6 +45,9 @@
    	- Sagemaker
    	- Trainium & Inferentia
    	- [Supported connectors - Amazon Q](https://docs.aws.amazon.com/amazonq/latest/business-use-dg/connectors-list.html)
+   	- Pricing
+      		- Amazon Q Business  $20/month per user
+      		- Amazon Q Developer $25/month per user
 - [Course - Architecting on AWS](cloud/aws/course-architecting-on-aws.md)
 - [Others](cloud/aws/others.md)
 

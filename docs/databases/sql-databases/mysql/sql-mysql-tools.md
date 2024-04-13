@@ -15,6 +15,7 @@ https://www.percona.com/doc/percona-monitoring-and-management/index.html
 ### mysqlslap
 
 It's a benchmarking tool that can help DBAs and developers load test their database servers.
+
 mysqlslap can emulate a large number of client connections hitting the database server at the same time. The load testing parameters are fully configurable and the results from different test runs can be used to fine-tune database design or hardware resources.
 
 https://www.digitalocean.com/community/tutorials/how-to-measure-mysql-query-performance-with-mysqlslap
@@ -55,8 +56,9 @@ Mysqlreport transforms the values from SHOW STATUS into an easy-to-read report t
 - [pt-heartbeat](https://www.percona.com/doc/percona-toolkit/LATEST/pt-heartbeat.html)
 - [**pt-index-usage**](https://www.percona.com/doc/percona-toolkit/LATEST/pt-index-usage.html)
 
-Read queries from a log and analyze how they use indexes.- [pt-align](https://www.percona.com/doc/percona-toolkit/LATEST/pt-align.html)
+Read queries from a log and analyze how they use indexes.
 
+- [pt-align](https://www.percona.com/doc/percona-toolkit/LATEST/pt-align.html)
 - [pt-archiver](https://www.percona.com/doc/percona-toolkit/LATEST/pt-archiver.html)
 - [pt-config-diff](https://www.percona.com/doc/percona-toolkit/LATEST/pt-config-diff.html)
 - [**pt-deadlock-logger**](https://www.percona.com/doc/percona-toolkit/LATEST/pt-deadlock-logger.html)

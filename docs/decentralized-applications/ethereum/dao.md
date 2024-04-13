@@ -1,4 +1,4 @@
-## DAO
+# DAO
 
 - **DAO - Decentralized Autonomous Organization**
 - Governance implemented in Ethereum smart contracts. **Code is Law**, etc

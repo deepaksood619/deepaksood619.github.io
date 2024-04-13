@@ -80,4 +80,5 @@
 | z-score                         | The standardized variable associated with the dataset we are testing. It is observed in the table with an α equal to the level of significance of the test.                                                                                                    |
 | μ0                              | The hypothesized population mean.                                                                                                                                                                                                                              |
 | p-value                         | The smallest level of significance at which we can still reject the null hypothesis, given the observed sample statistic.                                                                                                                                      |
+
 https://global.oup.com/uk/orc/xedition/brymanbrm4exe/student/mcqs/ch12

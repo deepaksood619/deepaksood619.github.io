@@ -1,4 +1,4 @@
-## Unity Catalog
+# Unity Catalog
 
 Unity Catalog is a unified governance solution for all data and AI assets including files, tables, machine learning models and dashboards in your lakehouse on any cloud.
 

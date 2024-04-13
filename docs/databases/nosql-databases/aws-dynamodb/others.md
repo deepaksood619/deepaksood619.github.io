@@ -13,3 +13,7 @@ Amazon DynamoDB Accelerator (DAX) is a fully managed, highly available, in-memor
 https://aws.amazon.com/dynamodb/dax
 
 https://aws.amazon.com/blogs/aws/amazon-dynamodb-accelerator-dax-in-memory-caching-for-read-intensive-workloads
+
+## Cost Optimization
+
+[Identifying your unused resources - Amazon DynamoDB](https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/CostOptimization_UnusedResources.html)

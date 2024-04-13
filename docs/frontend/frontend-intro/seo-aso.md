@@ -77,6 +77,36 @@ cloudinary.com / imagekit with cloudfront for fast image CDN
 
 https://www.wordstream.com/serp
 
+[Review Snippet (Review, AggregateRating) Structured Data | Google Search Central  |  Documentation  |  Google for Developers](https://developers.google.com/search/docs/appearance/structured-data/review-snippet)
+
+```html
+<script
+  type="application/ld+json"
+  dangerouslySetInnerHTML={{
+	__html: JSON.stringify(
+	  {
+	  "@context": "https://schema.org/",
+	  "@type": "AggregateRating",
+	  "itemReviewed": {
+		"@type": "Book",
+		"image": details.cover_image_url,
+		"name": details.title,
+	  },
+	  "ratingValue": details?.avg_rating - Math.floor(details?.avg_rating) !== 0
+		? details?.avg_rating.toFixed(1)
+		: details.avg_rating,
+	  "bestRating": "10",
+	  "ratingCount": details.num_ratings,
+	  "reviewCount": details.num_reviews
+	})
+  }}
+/>
+```
+
+[AggregateRating - Schema.org Type](https://schema.org/AggregateRating)
+
+[Schema.org - Schema.org](https://schema.org/)
+
 ## Rich Results
 
 Rich results are experiences on Google surfaces, such as Search, that go beyond the standard blue link. Rich results can include carousels, images or other non-textual elements.

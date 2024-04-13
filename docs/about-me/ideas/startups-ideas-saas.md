@@ -36,6 +36,7 @@ Microproducts - [How I Sold My App For $30,000 In 4 Days | GrowthX Insider - You
     - Candidates agreement using ai
     - Coding test taking platform end to end, free of cost, very cost competitive
     - Something like Turing
+- One time payment ChatGPT (API sharing agreement)
 
 #### One tool where you can do everything
 

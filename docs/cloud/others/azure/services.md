@@ -159,6 +159,7 @@ Build, manage and continuously deliver cloud applications - using any platform o
 2. [Visual Studio Code](https://azure.microsoft.com/en-in/products/visual-studio-code/) - A powerful, lightweight code editor for cloud development
 3. [SDKs](https://azure.microsoft.com/en-in/downloads/) - Get the SDKs and command-line tools you need
 4. [Azure DevOps](https://azure.microsoft.com/en-in/services/devops/) - Services for teams to share code, track work and ship software
+	1. Previously called as  Team Foundation Server (TFS)
 5. [Azure Pipelines](https://azure.microsoft.com/en-in/services/devops/pipelines/) - Continuously build, test and deploy to any platform and cloud
 6. [Azure Lab Services](https://azure.microsoft.com/en-in/services/lab-services/) - Set up labs for classrooms, trials, development and testing and other scenarios
 7. [Azure DevTest Labs](https://azure.microsoft.com/en-in/services/devtest-lab/) - Quickly create environments using reusable templates and artifacts

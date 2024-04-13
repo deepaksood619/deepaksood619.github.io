@@ -64,13 +64,14 @@
 - PyCon
 - [Fireship - YouTube](https://www.youtube.com/@Fireship)
 - [DataTalksClub ⬛ - YouTube](https://www.youtube.com/c/DataTalksClub)
+- [AWS Developers - YouTube](https://www.youtube.com/@awsdevelopers)
 
 ### Math
 
 - [Vi Hart](https://www.youtube.com/user/Vihart)-- the original "Mathemusician", Vi's soulfully brilliant explanations of math concepts are great for small kids and adults alike.
 - [Zach Star](https://www.youtube.com/channel/UCpCSAcbqs-sjEVfk_hMfY9w)-- math puzzles and other interesting stuff
 - [Numberphile](https://www.youtube.com/results?search_query=numberphile)-- another fun math channel -- sometimes with fun visuals and special guest experts.
-- 3 blue 1 brown - 3Blue1Brown
+- [3Blue1Brown - YouTube](https://youtube.com/@3blue1brown)
 - Standup math
 - Looking glass universe
 
