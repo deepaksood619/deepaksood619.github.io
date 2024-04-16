@@ -385,11 +385,9 @@ https://thorsten-hans.com/5-types-of-zsh-aliases
 
 ### References
 
-https://medium.com/better-programming/6-must-have-tools-for-developers-430fd56933dd
-
-https://github.com/trimstray/the-book-of-secret-knowledge
-
-https://github.com/jaywcjlove/awesome-mac
+- https://medium.com/better-programming/6-must-have-tools-for-developers-430fd56933dd
+- https://github.com/trimstray/the-book-of-secret-knowledge
+- https://github.com/jaywcjlove/awesome-mac
 
 ### Cleanup
 

@@ -109,15 +109,15 @@ Backup storage is billed by the GB-month.
 This means that the backup storage usage is charged as the weighted average of the usage over the given month. Here are a few examples for a 30-day month:
 
 - Billed backup usage is 100 GB for all 30 days of the month. Your charge is the following:
-    
+
     `(100 GB * 30) / 30 = 100 GB-month`
-    
+
 - Billed backup usage is 100 GB for the first 15 days of the month, then 0 GB for the last 15. Your charge is the following:
-    
+
     `(100 GB * 15 + 0 GB * 15) / 30 = 50 GB-month`
-    
+
 - Billed backup usage is 50 GB for the first 10 days of the month, 100 GB for the next 10 days, then 150 GB for the final 10. Your charge is the following:
-    
+
     `(50 GB * 10 + 100 GB * 10 + 150 GB * 10) / 30 = 100 GB-month`
 
 ### How does the backtrack setting for my DB cluster affect backup storage usage?

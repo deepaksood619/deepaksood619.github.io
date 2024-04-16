@@ -94,6 +94,10 @@ Kafka can serve as a kind of external commit-log for a distributed system. The l
 - Real time fraud detection -Detecting anomalies in real time to identify potential fraudulent activities and meet regulatory requirements
 - Operational agility- Accelerating business agility by increasing the flexibility of strategic applications
 
+### Top 5 Kafka Use Cases
+
+![Top 5 Kafka Use Cases](../../media/Screenshot%202024-04-13%20at%2011.24.53%20PM.jpg)
+
 https://kafka.apache.org/uses
 
 ## ISR

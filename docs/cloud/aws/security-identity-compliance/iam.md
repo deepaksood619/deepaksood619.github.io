@@ -1,12 +1,9 @@
 # IAM
 
-permission guardrails
-
-enforcing least privilege at scale
-
-aligning identity with management and governance frameworks
-
-Non people identities
+- permission guardrails
+- enforcing least privilege at scale
+- aligning identity with management and governance frameworks
+- Non people identities
 
 https://pages.awscloud.com/awsmp-h2-sec-digital-workspace-iam-ty.html
 
@@ -129,6 +126,8 @@ An IAMroleis an IAM identity that you can create in your account that has specif
 You can use roles to delegate access to users, applications, or services that don't normally have access to your AWS resources. For example, you might want to grant users in your AWS account access to resources they don't usually have, or grant users in one AWS account access to resources in another account. Or you might want to allow a mobile app to use AWS resources, but not want to embed AWS keys within the app (where they can be difficult to rotate and where users can potentially extract them). Sometimes you want to give AWS access to users who already have identities defined outside of AWS, such as in your corporate directory. Or, you might want to grant access to your account to third parties so that they can perform an audit on your resources.
 
 https://docs.aws.amazon.com/IAM/latest/UserGuide/id_roles.html
+
+[You might be clueless as to why AWS assume role isn’t working, despite being correctly set up | by Kamal Maiti | Medium](https://medium.com/@kamal.maiti/you-might-be-clueless-as-to-why-aws-assume-role-isnt-working-despite-being-correctly-set-up-1b3138519c07)
 
 ## Job functions
 

@@ -183,7 +183,21 @@ LUT (Letter of Undertaking) - [GST: How to file an LUT?](https://www.thegalactic
 - [What is the TDS provision for rent paid by individuals above Rs 50,000?](https://news.cleartax.in/what-is-the-tds-provision-for-rent-paid-by-individuals-above-rs-50000/6672/)
 - [tds penalty: Paying house rent of more than Rs 50000 per month? Penalty you will pay for not deducting TDS - The Economic Times](https://economictimes.indiatimes.com/wealth/tax/paying-house-rent-of-rs-50000-or-more-per-month-penalty-you-will-pay-for-not-deducting-tds/articleshow/104176779.cms?from=mdr)
 - [TDS on Rent: Section 194I Explained and Calculation Guidelines](https://www.canarahsbclife.com/blog/tax-saving/how-to-calculate-tds-on-rent)
-- [Fetching Title#y5g1](https://taxguru.in/income-tax/tds-payment-rent-rs-50000-month-individuals-hufs.html)
+- [TDS on Rent payment of More Than Rs. 50000 P.M. By Individuals/ HUFs](https://taxguru.in/income-tax/tds-payment-rent-rs-50000-month-individuals-hufs.html)
+
+#### Why 11 Months?
+
+By keeping the lease duration to 11 months, landlords can ensure that the regulations of the Rent Control Act do not apply to their agreement. This allows for greater flexibility in dictating the terms of the lease, including the rent and the tenure of the lease.
+
+Most rental agreements in India are 11 months long because it allows landlords to avoid the Rent Control Act's regulations, which can restrict the terms of the lease. This gives landlords more flexibility to specify the lease's terms, including the rent and the length of the lease. The agreements are typically renewed every 11 months, which gives both parties the opportunity to revise the terms as per their convenience.
+
+An 11-month lease agreement also allows the landlord to set the rent based on the current market scenario. The parties involved don't need to pay any stamp duty and registration charges for an 11-month rent agreement. They can also easily renew such agreements using stamp duty paper of Rs. 100 when deciding to extend the rental contract.
+
+However, the agreement doesn't have to be for 11 months. Renewable/extendable agreements of three to five years can also be made as per the assent of the parties.
+
+Alternatively, the landlord and the tenant may mutually agree to not get the agreement registered, which can help them avoid paying the stamp duty and registration fee.
+
+[Why Most Lease Agreements are for 11 Months in India?](https://www.linkedin.com/pulse/why-most-lease-agreements-11-months-india-realtysmartz/)
 
 ### Others
 

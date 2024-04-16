@@ -213,6 +213,7 @@ https://docs.aws.amazon.com/AmazonRDS/latest/AuroraUserGuide/AuroraMySQL.Referen
 
 ### Instance Types
 
+- **db.r7g instances**
 - **db.r6g instances**
 - **db.r5 instances**
 
@@ -220,7 +221,7 @@ https://docs.aws.amazon.com/AmazonRDS/latest/AuroraUserGuide/AuroraMySQL.Referen
 
 Amazon Aurora Serverless is an on-demand, autoscaling configuration for Amazon Aurora. AnAurora Serverless DB clusteris a DB cluster that automatically starts up, shuts down, and scales up or down its compute capacity based on your application's needs. Aurora Serverless provides a relatively simple, cost-effective option for infrequent, intermittent, or unpredictable workloads. It can provide this because it automatically starts up, scales compute capacity to match your application's usage, and shuts down when it's not in use.
 
-A non-Serverless DB cluster for Aurora is called aprovisioned DB cluster. Aurora Serverless clusters and provisioned clusters both have the same kind of high-capacity, distributed, and highly available storage volume.
+A non-Serverless DB cluster for Aurora is called a provisioned DB cluster. Aurora Serverless clusters and provisioned clusters both have the same kind of high-capacity, distributed, and highly available storage volume.
 
 ### Serverless V2
 

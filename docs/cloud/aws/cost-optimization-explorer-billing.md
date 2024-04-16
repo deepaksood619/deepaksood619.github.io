@@ -53,10 +53,10 @@ Cost Optimization Hub allows you to easily identify, filter, and consolidate ove
 
 ## AWS Compute Optimizer
 
-NOTE: 
+NOTE:
 
 1. We can use this AWS service for Databases running on EC2 for rightsizing recommendation
-2. It did not provide recommendations specifically for Amazon RDS 
+2. It did not provide recommendations specifically for Amazon RDS
 
 #### Supported resources and requirements
 

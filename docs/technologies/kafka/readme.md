@@ -21,3 +21,5 @@
 - [Security](technologies/kafka/security.md)
 - [Others](technologies/kafka/others.md)
 - [Strmizi](strimzi)
+
+Can Kafka lose messages? - [ByteByteGo - YouTube](https://www.youtube.com/channel/UCZgt6AzoyjslHTC9dz0UoTw/community?lb=Ugkx60LijyVEVRjA9AToCnl8T65FK4BgibDX)
