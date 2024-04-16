@@ -52,10 +52,14 @@ https://aws.amazon.com/blogs/database/analyzing-amazon-rds-database-workload-wit
 
 ## Metrics
 
-## Freeable memory
+### Freeable memory
 
 It includes cached memory and memory used for buffers (besides what's really free/unused). They'll all be freed if an application requests more memory than what's free.
+
 If you have a lot of freeable memory you can downgrade to a smaller instance. If you are running out of freeable memory, then it is time to upgrade.
+
 The freeable memory includes the amount of physical memory left unused by the system plus the total amount of buffer or page cache memory that are free and available.
+
 So it's freeable memory across the entire system. While MySQL is the main consumer of memory on the host we do have internal processes in addition to the OS that use up a small amount of additional memory.
+
 If you see your freeable memory near 0 or also start seeing swap usage then you may need to scale up to a larger instance class or adjust MySQL memory settings. For example decreasing the innodb_buffer_pool_size (by default set to 75% of physical memory) is one way example of adjusting MySQL memory settings.

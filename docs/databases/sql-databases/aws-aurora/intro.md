@@ -130,3 +130,7 @@ https://www.actifio.com/company/blog/post/comparing-aws-rds-for-aurora-vs-mysql-
 ## Others
 
 [Introduction to Amazon RDS Blue/Green Deployments | Amazon Web Services](https://www.youtube.com/watch?v=mGAjzAzBOsk)
+
+[AWS — Difference between Amazon Aurora and Amazon RDS | by Ashish Patel | Awesome Cloud | Medium](https://medium.com/awesome-cloud/aws-difference-between-amazon-aurora-and-amazon-rds-comparison-aws-aurora-vs-aws-rds-databases-60a69dbec41f)
+
+[Aurora vs RDS: How to Choose the Right AWS Database Solution](https://www.percona.com/blog/when-should-i-use-amazon-aurora-and-when-should-i-use-rds-mysql/)

@@ -35,7 +35,9 @@ https://en.wikipedia.org/wiki/Apache_Spark
 
 ## Apache Superset
 
-Modern, enterprise-ready business intelligence web application
+Apache Superset is an open-source modern data exploration and visualization platform.
+
+Superset is fast, lightweight, intuitive, and loaded with options that make it easy for users of all skill sets to explore and visualize their data, from simple line charts to highly detailed geospatial charts.
 
 ### Features
 
@@ -48,7 +50,9 @@ Modern, enterprise-ready business intelligence web application
 - Integration with most SQL-speaking RDBMS through SQLAlchemy
 - Deep integration with Druid.io
 
-https://superset.incubator.apache.org/index.html
+[Welcome | Superset](https://superset.apache.org/)
+
+[Introduction | Superset](https://superset.apache.org/docs/intro/)
 
 ## Apache Beam
 

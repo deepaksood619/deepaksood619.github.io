@@ -42,3 +42,12 @@ AIRFLOW__CELERY__CELERY_RESULT_BACKEND: db+postgresql://postgres:airflow@apg-pos
 
 AIRFLOW__SCHEDULER__CATCHUP_BY_DEFAULT: "False"
 ```
+
+### Config
+
+- Increase max_connections of postgres, default = 100
+
+## Deployments - Helm
+
+- [Helm Chart for Apache Airflow — helm-chart Documentation](https://airflow.apache.org/docs/helm-chart/stable/index.html)
+- [GitHub - airflow-helm/charts: The User-Community Airflow Helm Chart is the standard way to deploy Apache Airflow on Kubernetes with Helm. Originally created in 2017, it has since helped thousands of companies create production-ready deployments of Airflow on Kubernetes.](https://github.com/airflow-helm/charts)

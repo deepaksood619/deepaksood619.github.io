@@ -12,6 +12,8 @@ https://nimbletext.com/Live
 
 [Open Source Alternatives to Proprietary Software](https://www.opensourcealternative.to/)
 
+[Business Software and Services Reviews | G2](https://www.g2.com/)
+
 ## Alexa
 
 1. Skill interface

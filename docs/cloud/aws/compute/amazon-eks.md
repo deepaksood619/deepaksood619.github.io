@@ -176,3 +176,8 @@ https://docs.google.com/spreadsheets/d/1MCdsmN7fWbebscGizcK6dAaPGS-8T_dYxWp0Idwk
 The CNI metrics helper is a tool that you can use to scrape network interface and IP address information, aggregate metrics at the cluster level, and publish the metrics to Amazon CloudWatch.
 
 https://docs.aws.amazon.com/eks/latest/userguide/cni-metrics-helper.html
+
+## Others
+
+- [Cost monitoring - Amazon EKS](https://docs.aws.amazon.com/eks/latest/userguide/cost-monitoring.html)
+- KubeCost

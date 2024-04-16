@@ -116,6 +116,8 @@ Moving from information to knowledge age
 - [GitHub - lxe/llm-companion: Mobile web app for audio "push-to-talk" + TTS chat interface with OpenAI-like APIs](https://github.com/lxe/llm-companion)
 - [GitHub - adithya-s-k/CompanionLLM: CompanionLLM - A framework to finetune LLMs to be your own sentient conversational companion](https://github.com/adithya-s-k/CompanionLLM)
 - [Waii - World's most powerful SQL API built with generative AI](https://www.waii.ai/)
+- [Introducing Devin, the first AI software engineer](https://www.cognition-labs.com/introducing-devin)
+- [Tabnine is an AI assistant that speeds up delivery and keeps your code safe](https://www.tabnine.com/)
 
 ## Purpose-built accelerators for generative AI
 

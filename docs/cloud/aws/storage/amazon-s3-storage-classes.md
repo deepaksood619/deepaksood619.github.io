@@ -1,6 +1,5 @@
 # Amazon S3 Storage Classes
 
-
 - S3 Standard (Frequently accessed data) - $0.023per GB
 - S3 Intelligent-Tiering - $0.023per GB
 - Amazon S3 Express One Zone - $0.16 per GB
@@ -74,13 +73,13 @@ There are no retrieval charges in S3 Intelligent-Tiering. If an object in the In
 
 ### Key features
 
-- Automatic cost savings for data with unknown or changing access patterns  
-- Frequent, Infrequent, and Archive Instant Access tiers have the same low-latency and high-throughput performance of S3 Standard  
-- The Infrequent Access tier saves up to 40% on storage costs  
-- The Archive Instant Access tier saves up to 68% on storage costs  
-- Opt-in asynchronous archive capabilities for objects that become rarely accessed  
-- Deep Archive Access tier has the same performance as Glacier Deep Archive and saves up to 95% for rarely accessed objects  
-- Designed to deliver 99.9% availability with an [availability SLA](https://aws.amazon.com/s3/sla/) of 99%  
+- Automatic cost savings for data with unknown or changing access patterns
+- Frequent, Infrequent, and Archive Instant Access tiers have the same low-latency and high-throughput performance of S3 Standard
+- The Infrequent Access tier saves up to 40% on storage costs
+- The Archive Instant Access tier saves up to 68% on storage costs
+- Opt-in asynchronous archive capabilities for objects that become rarely accessed
+- Deep Archive Access tier has the same performance as Glacier Deep Archive and saves up to 95% for rarely accessed objects
+- Designed to deliver 99.9% availability with an [availability SLA](https://aws.amazon.com/s3/sla/) of 99%
 - Small monthly monitoring and automation charge
 - No operational overhead, no lifecycle charges, no retrieval charges, and no minimum storage duration
 - Objects smaller than 128KB can be stored in S3 Intelligent-Tiering but will always be charged at the Frequent Access tier rates, and are not charged the monitoring and automation charge.
@@ -121,11 +120,11 @@ S3 Express One Zone uses a unique architecture to optimize for performance and d
 
 S3 Standard-IA is for data that is accessed less frequently, but requires rapid access when needed. S3 Standard-IA offers the high durability, high throughput, and low latency of S3 Standard, with a low per GB storage price and per GB retrieval charge. This combination of low cost and high performance make S3 Standard-IA ideal for long-term storage, backups, and as a data store for disaster recovery files. You can configure S3 storage classes at the object level, and a single bucket can contain objects stored across S3 Standard, S3 Intelligent-Tiering, S3 Standard-IA, and S3 One Zone-IA. You can also use S3 Lifecycle policies to automatically transition objects between storage classes without any application changes.
 
-#### Key features:
+#### Key features
 
-- Infrequently accessed data that needs millisecond access  
+- Infrequently accessed data that needs millisecond access
 - Same low latency and high throughput performance of S3 Standard
-- Designed to deliver 99.9% availability with an [availability SLA](https://aws.amazon.com/s3/sla/) of 99%  
+- Designed to deliver 99.9% availability with an [availability SLA](https://aws.amazon.com/s3/sla/) of 99%
 
 ### Amazon S3 One Zone-Infrequent Access (S3 One Zone-IA)
 
@@ -135,7 +134,7 @@ S3 One Zone-IA offers the same high throughput, and low latency of S3 Standard, 
 
 #### Key features
 
-- Re-creatable infrequently accessed data  
+- Re-creatable infrequently accessed data
 - Same low latency and high throughput performance of S3 Standard
 - Designed to deliver 99.5% availability with an [availability SLA](https://aws.amazon.com/s3/sla/) of 99%
 
@@ -143,15 +142,15 @@ S3 One Zone-IA offers the same high throughput, and low latency of S3 Standard, 
 
 ### Amazon S3 Glacier Instant Retrieval
 
-Amazon S3 Glacier Instant Retrieval is an archive storage class that delivers the lowest-cost storage for long-lived data that is rarely accessed and requires retrieval in milliseconds. With S3 Glacier Instant Retrieval, you can save up to 68% on storage costs compared to using the S3 Standard-Infrequent Access (S3 Standard-IA) storage class, when your data is accessed once per quarter. S3 Glacier Instant Retrieval delivers the fastest access to archive storage, with the same throughput and milliseconds access as the S3 Standard and S3 Standard-IA storage classes. S3 Glacier Instant Retrieval is ideal for archive data that needs immediate access, such as medical images, news media assets, or user-generated content archives. You can upload objects directly to S3 Glacier Instant Retrieval, or use S3 Lifecycle policies to transfer data from the S3 storage classes. For more information, visit the [**Amazon S3 Glacier Instant Retrieval page »**](https://aws.amazon.com/s3/storage-classes/glacier/instant-retrieval/)  
+Amazon S3 Glacier Instant Retrieval is an archive storage class that delivers the lowest-cost storage for long-lived data that is rarely accessed and requires retrieval in milliseconds. With S3 Glacier Instant Retrieval, you can save up to 68% on storage costs compared to using the S3 Standard-Infrequent Access (S3 Standard-IA) storage class, when your data is accessed once per quarter. S3 Glacier Instant Retrieval delivers the fastest access to archive storage, with the same throughput and milliseconds access as the S3 Standard and S3 Standard-IA storage classes. S3 Glacier Instant Retrieval is ideal for archive data that needs immediate access, such as medical images, news media assets, or user-generated content archives. You can upload objects directly to S3 Glacier Instant Retrieval, or use S3 Lifecycle policies to transfer data from the S3 storage classes. For more information, visit the [**Amazon S3 Glacier Instant Retrieval page »**](https://aws.amazon.com/s3/storage-classes/glacier/instant-retrieval/)
 
 #### Key features
 
-- Long-lived data that is accessed a few times per year with instant retrievals  
+- Long-lived data that is accessed a few times per year with instant retrievals
 - Data retrieval in milliseconds with the same performance as S3 Standard
-- Designed to deliver 99.9% availability with an [availability SLA](https://aws.amazon.com/s3/sla/) of 99%  
+- Designed to deliver 99.9% availability with an [availability SLA](https://aws.amazon.com/s3/sla/) of 99%
 - 128 KB minimum object size
-- S3 PUT API for direct uploads to S3 Glacier Instant Retrieval, and S3 Lifecycle management for automatic migration of objects  
+- S3 PUT API for direct uploads to S3 Glacier Instant Retrieval, and S3 Lifecycle management for automatic migration of objects
 
 ### Amazon S3 Glacier Flexible Retrieval (Formerly S3 Glacier)
 
@@ -160,22 +159,22 @@ S3 Glacier Flexible Retrieval delivers low-cost storage, up to 10% lower cost (t
 #### Key features
 
 - Backup and archive data that is rarely accessed and low cost
-- Designed to deliver 99.99% availability with an [availability SLA](https://aws.amazon.com/s3/sla/) of 99.9%  
+- Designed to deliver 99.99% availability with an [availability SLA](https://aws.amazon.com/s3/sla/) of 99.9%
 - Supports SSL for data in transit and encryption of data at rest
-- Ideal for backup and disaster recovery use cases when large sets of data occasionally need to be retrieved in minutes, without concern for costs  
+- Ideal for backup and disaster recovery use cases when large sets of data occasionally need to be retrieved in minutes, without concern for costs
 - Configurable retrieval times, from minutes to hours, with free bulk retrievals
-- S3 PUT API for direct uploads to S3 Glacier Flexible Retrieval, and S3 Lifecycle management for automatic migration of objects  
+- S3 PUT API for direct uploads to S3 Glacier Flexible Retrieval, and S3 Lifecycle management for automatic migration of objects
 
 ### Amazon S3 Glacier Deep Archive
 
-S3 Glacier Deep Archive is Amazon S3’s lowest-cost storage class and supports long-term retention and digital preservation for data that may be accessed once or twice in a year. It is designed for customers—particularly those in highly-regulated industries, such as financial services, healthcare, and public sectors—that retain data sets for 7—10 years or longer to meet regulatory compliance requirements. S3 Glacier Deep Archive can also be used for backup and disaster recovery use cases, and is a cost-effective and easy-to-manage alternative to magnetic tape systems, whether they are on-premises libraries or off-premises services. S3 Glacier Deep Archive complements Amazon S3 Glacier, which is ideal for archives where data is regularly retrieved and some of the data may be needed in minutes. All objects stored in S3 Glacier Deep Archive are replicated and stored across at least three geographically-dispersed Availability Zones, protected by 99.999999999% of durability, and can be restored within 12 hours. For more information, visit the [**Amazon S3 Glacier storage classes page »**](https://aws.amazon.com/s3/storage-classes/glacier/)  
+S3 Glacier Deep Archive is Amazon S3’s lowest-cost storage class and supports long-term retention and digital preservation for data that may be accessed once or twice in a year. It is designed for customers—particularly those in highly-regulated industries, such as financial services, healthcare, and public sectors—that retain data sets for 7—10 years or longer to meet regulatory compliance requirements. S3 Glacier Deep Archive can also be used for backup and disaster recovery use cases, and is a cost-effective and easy-to-manage alternative to magnetic tape systems, whether they are on-premises libraries or off-premises services. S3 Glacier Deep Archive complements Amazon S3 Glacier, which is ideal for archives where data is regularly retrieved and some of the data may be needed in minutes. All objects stored in S3 Glacier Deep Archive are replicated and stored across at least three geographically-dispersed Availability Zones, protected by 99.999999999% of durability, and can be restored within 12 hours. For more information, visit the [**Amazon S3 Glacier storage classes page »**](https://aws.amazon.com/s3/storage-classes/glacier/)
 
 #### Key features
 
-- Archive data that is very rarely accessed and very low cost  
-- Designed to deliver 99.99% availability with an [availability SLA](https://aws.amazon.com/s3/sla/) of 99.9%  
-- Ideal alternative to magnetic tape libraries  
-- Retrieval time within 12 hours  
+- Archive data that is very rarely accessed and very low cost
+- Designed to deliver 99.99% availability with an [availability SLA](https://aws.amazon.com/s3/sla/) of 99.9%
+- Ideal alternative to magnetic tape libraries
+- Retrieval time within 12 hours
 - S3 PUT API for direct uploads to S3 Glacier Deep Archive, and S3 Lifecycle management for automatic migration of objects
 
 ## Performance across the S3 storage classes

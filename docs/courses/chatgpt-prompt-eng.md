@@ -32,9 +32,9 @@ Ans - The capital of France is Paris.
 
 #### Prompts
 
-[https://snackprompt.com](https://snackprompt.com/)
-
-[GitHub - f/awesome-chatgpt-prompts: This repo includes ChatGPT prompt curation to use ChatGPT better.](https://github.com/f/awesome-chatgpt-prompts) - [Awesome ChatGPT Prompts | This repo includes ChatGPT prompt curation to use ChatGPT better.](https://prompts.chat/)
+- [https://snackprompt.com](https://snackprompt.com/)
+- [GitHub - f/awesome-chatgpt-prompts: This repo includes ChatGPT prompt curation to use ChatGPT better.](https://github.com/f/awesome-chatgpt-prompts)
+- [Awesome ChatGPT Prompts | This repo includes ChatGPT prompt curation to use ChatGPT better.](https://prompts.chat/)
 
 ##### ChatGPT prompt to write error free
 
@@ -125,6 +125,8 @@ First find relevant information, then answer the question based on the relevant 
 [ChatGPT Prompt Engineering for Developers - DeepLearning.AI](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/)
 
 ## Prompting Techniques
+
+![prompt-techniques](../media/Screenshot%202024-04-16%20at%207.00.28%20PM.jpg)
 
 ### Chain-of-thought
 

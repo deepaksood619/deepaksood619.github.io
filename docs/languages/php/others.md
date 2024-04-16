@@ -135,11 +135,8 @@ volumes:
 entrypoint:
 
 - /bin/sh
-
 - -c
-
 - |
-
 sleep infinity
 
 docker-compose up -d phplint

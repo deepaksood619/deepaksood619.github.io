@@ -74,10 +74,6 @@
 - Langdock
 - LLM Spark
 
-- [Welcome to LangChain - 🦜🔗 LangChain 0.0.180](https://python.langchain.com/en/latest/index.html)
-    - [Building LLM applications for production](https://huyenchip.com/2023/04/11/llm-engineering.html)
-    - [Introduction to LangChain LLM: A Beginner’s Guide](https://www.makeuseof.com/langchain-llm-introduction/)
-    - [How to Build LLM Applications with LangChain | DataCamp](https://www.datacamp.com/tutorial/how-to-build-llm-applications-with-langchain)
 - [GitHub - Significant-Gravitas/Auto-GPT: An experimental open-source attempt to make GPT-4 fully autonomous.](https://github.com/Significant-Gravitas/Auto-GPT)
 - [Llama 2 - Meta AI](https://ai.meta.com/llama/)
 - [Introducing Code Llama, a state-of-the-art large language model for coding](https://ai.meta.com/blog/code-llama-large-language-model-coding/)
@@ -100,6 +96,7 @@
     - [How to install and use ComfyUI - Stable Diffusion. - YouTube](https://www.youtube.com/watch?v=KTPLOqAMR0s)
 - [GitHub - bentoml/OpenLLM: Operating LLMs in production](https://github.com/bentoml/OpenLLM)
    	- [BentoML: Build, Ship, Scale AI Applications](https://bentoml.com/)
+- [LlamaIndex, Data Framework for LLM Applications](https://www.llamaindex.ai/)
 
 ```bash
 python -m pip install --upgrade langchain[llm]
@@ -111,6 +108,16 @@ chainlit hello
 
 chainlit run document_qa.py
 ```
+
+### Langchain
+
+[Welcome to LangChain - 🦜🔗 LangChain 0.0.180](https://python.langchain.com/en/latest/index.html)
+
+- [Building LLM applications for production](https://huyenchip.com/2023/04/11/llm-engineering.html)
+- [Introduction to LangChain LLM: A Beginner’s Guide](https://www.makeuseof.com/langchain-llm-introduction/)
+- [How to Build LLM Applications with LangChain | DataCamp](https://www.datacamp.com/tutorial/how-to-build-llm-applications-with-langchain)
+
+![Langchain Modules](../../media/Screenshot%202024-04-16%20at%207.02.28%20PM.jpg)
 
 ### Ollama / LM Studio
 
@@ -157,6 +164,7 @@ Ludwig enables you to apply state-of-the-art tabular, natural language processin
 ## SAAS
 
 - [DataRobot AI Platform | Deliver Value from AI](https://www.datarobot.com/)
+- [Accelerating Systems with Real-time AI Solutions - Groq](https://wow.groq.com/)
 
 ## Resources
 
