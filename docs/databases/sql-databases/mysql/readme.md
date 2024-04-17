@@ -10,4 +10,5 @@
 - [Scaling / Optimizations](scaling-optimizations)
 - [Optimizing Locking Operations](optimizing-locking-operations)
 - [MySQL Heatwave](databases/sql-databases/mysql/mysql-heatwave.md)
+- [Administration](databases/sql-databases/mysql/administration.md)
 - [Others](databases/sql-databases/mysql/others.md)

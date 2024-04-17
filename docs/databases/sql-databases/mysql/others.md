@@ -87,6 +87,12 @@ MySQL 8.0 brought enormous changes and modifications that were pushed by the Ora
 - Removed Query Cache
 - Dual Passwords
 
+## Debugging / Errors
+
+[MySQL "Got an error reading communication packet"](https://www.percona.com/blog/mysql-got-an-error-reading-communication-packet-errors/)
+
+[Resolve the communication packets error in Amazon RDS for MySQL | AWS re:Post](https://repost.aws/knowledge-center/rds-mysql-communication-packet-error)
+
 ## Resources
 
 https://dev.mysql.com/doc/refman/5.7/en/glossary.html

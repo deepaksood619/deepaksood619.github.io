@@ -111,6 +111,7 @@ https://aws.amazon.com/dynamodb/pricing/provisioned
     - Data spread across tables
     - Requires complex queries
     - Primary driver for ACID
+
 [AWS re:Invent 2018: Amazon DynamoDB Deep Dive: Advanced Design Patterns for DynamoDB (DAT401)](https://www.youtube.com/watch?v=HaEPXoXVf2k)
 
 ## Write Sharding (Shard write-heavy partition keys)
@@ -140,4 +141,5 @@ Processing the entire table efficiently
     - Subtree aggregations
     - Breadth first search
     - Node ranking
+
 [AWS re:Invent 2019: [REPEAT 1] Amazon DynamoDB deep dive: Advanced design patterns (DAT403-R1)](https://www.youtube.com/watch?v=6yqfmXiZTlM)

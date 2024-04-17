@@ -1,6 +1,7 @@
 # Connection Handling
 
-The MySQL Server (mysqld) executes as a single OSprocess, with multiplethreadsexecuting concurrent activities. MySQL does not have its own thread implementation, but relies on the thread implementation of the underlying OS. When a userconnectsto the database auser threadis created inside mysqld and this user thread executes user queries, sending results back to the user, until the userdisconnects.
+The MySQL Server (mysqld) executes as a single OS process, with multiple threads executing concurrent activities. MySQL does not have its own thread implementation, but relies on the thread implementation of the underlying OS. When a user connects to the database a user thread is created inside mysqld and this user thread executes user queries, sending results back to the user, until the user disconnects.
+
 When more and more users connect to the database, more and more user threads execute in parallel. As long as all user threads execute as if they are alone we can say that the system (MySQL) scales well. But at some point we reach a limit and adding more user threads will not be useful or efficient.
 
 ## Connect and Disconnect
