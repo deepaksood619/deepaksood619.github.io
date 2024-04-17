@@ -121,12 +121,6 @@ https://dbdb.io/db/aurora
 
 https://aws.amazon.com/rds/aurora/faqs
 
-## Aurora vs RDS MySQL
-
-https://www.percona.com/blog/2018/07/17/when-should-i-use-amazon-aurora-and-when-should-i-use-rds-mysql
-
-https://www.actifio.com/company/blog/post/comparing-aws-rds-for-aurora-vs-mysql-vs-postgresql
-
 ## Others
 
 [Introduction to Amazon RDS Blue/Green Deployments | Amazon Web Services](https://www.youtube.com/watch?v=mGAjzAzBOsk)

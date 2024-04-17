@@ -1,30 +1,29 @@
 # EC2 Instance types
 
-## EC2 Instance metadata and user data
-
-_Instance metadata_ is data about your instance that you can use to configure or manage the running instance. Instance metadata is divided into [categories](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/instancedata-data-categories.html), for example, host name, events, and security groups.
-
-EC2 instance metadata is a service accessible from within EC2 instances, which allows querying or managing data about a given running instance.
-
-It is possible to retrieve an instance’s IAM access key by accessing the `iam/security-credentials/role-name` metadata category. This returns a temporary set of credentials that the EC2 instance automatically uses for communicating with AWS services.
-
-[Instance metadata and user data - Amazon Elastic Compute Cloud](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/ec2-instance-metadata.html)
-
 ## EC2 Instance Types
 
 https://aws.amazon.com/blogs/compute/it-just-got-easier-to-discover-and-compare-ec2-instance-types
 
 https://github.com/aws/amazon-ec2-instance-selector
 
-## AMI
+| **General Purpose**       | A1, T3, T3a, T2, M6g, M5, **M5a**, M5n, M4  |
+|---------------------------|---------------------------------------------|
+| **Compute Optimized**     | C5, C5n, C4                                 |
+| **Memory Optimized**      | R5, R5a, R5n, R4, X1e, X1, High Memory, z1d |
+| **Accelerated Computing** | P3, P2, Inf1, G4, G3, F1                    |
+| **Storage Optimized**     | I3, I3en, D2, H1                            |
 
-Ubuntu 16.04 LTS AMI - ami-2757f631
+| **Instance Family** | **Example** | **Use Cases** |
+|---|---|---|
+| Memory optimized | R5 | Memory-intensive applications, High-performance databases, Distributed in-memory caches |
+| Storage optimized | I3 | Workloads with high-volume IOPS requiring low-latency, internet-scale nonrelational databases |
+| Burstable performance | T2 | Consistent cost for unpredictable workloads, Smaller databases with spiky usage |
 
-Ubuntu 16.10 AMI - ami-b374d5a5
-
-Ubuntu Server 18.04 LTS (HVM), SSD Volume Type- ami-0620d12a9cf777c87 (64-bit x86) / ami-06b0afcb36d2e27ef (64-bit Arm)
-
-Ubuntu Server 16.04 LTS (HVM), SSD Volume Type- ami-0c28d7c6dd94fb3a7 (64-bit x86) / ami-08f567e9a6f67fbee (64-bit Arm)
+| **Scenario** | **Possible Instance Choice with Explanation** |
+|---|---|
+| Small database in Amazon RDS with moderate activity levels for which cost is more important than latency | db.m5 standard DB instance class offering a balance of compute, memory, and network resources |
+| A 12-GB write-heavy workload in Amazon ElastiCache for Redis with 2 shards | cache.r5.xlarge memory-optimized instances with 26 GiB of memory |
+| A memory-intensive workload in Amazon RDS using Oracle under an existing license for 2 CPUs | db.m4.xlarge with hyperthreading disabled to remain in compliance with licenses |
 
 | Instance Size | vCPU | Memory (GiB) | Instance Storage (GiB) | Network Bandwidth (Gbps) | EBS Bandwidth (Mbps) | Cost per hour | Cost per month |
 |---|---|---|---|---|---|---|---|
@@ -35,6 +34,17 @@ Ubuntu Server 16.04 LTS (HVM), SSD Volume Type- ami-0c28d7c6dd94fb3a7 (64-bit x8
 | m5a.8xlarge | 32 | 128 | EBS-Only | | | $0.889 | $640.08 |
 
 a - AMD CPUs
+g - Graviton based processors
+
+## AMI
+
+Ubuntu 16.04 LTS AMI - ami-2757f631
+
+Ubuntu 16.10 AMI - ami-b374d5a5
+
+Ubuntu Server 18.04 LTS (HVM), SSD Volume Type- ami-0620d12a9cf777c87 (64-bit x86) / ami-06b0afcb36d2e27ef (64-bit Arm)
+
+Ubuntu Server 16.04 LTS (HVM), SSD Volume Type- ami-0c28d7c6dd94fb3a7 (64-bit x86) / ami-08f567e9a6f67fbee (64-bit Arm)
 
 ## Tips
 
@@ -76,24 +86,15 @@ https://aws.amazon.com/ec2/pricing/reserved-instances/pricing
 - Savings plans (discount upto 66%)
 - Dedicated hosts
 
-| **General Purpose**       | A1, T3, T3a, T2, M6g, M5, **M5a**, M5n, M4  |
-|---------------------------|---------------------------------------------|
-| **Compute Optimized**     | C5, C5n, C4                                 |
-| **Memory Optimized**      | R5, R5a, R5n, R4, X1e, X1, High Memory, z1d |
-| **Accelerated Computing** | P3, P2, Inf1, G4, G3, F1                    |
-| **Storage Optimized**     | I3, I3en, D2, H1                            |
+## EC2 Instance metadata and user data
 
-| **Instance Family** | **Example** | **Use Cases** |
-|---|---|---|
-| Memory optimized | R5 | Memory-intensive applications, High-performance databases, Distributed in-memory caches |
-| Storage optimized | I3 | Workloads with high-volume IOPS requiring low-latency, internet-scale nonrelational databases |
-| Burstable performance | T2 | Consistent cost for unpredictable workloads, Smaller databases with spiky usage |
+_Instance metadata_ is data about your instance that you can use to configure or manage the running instance. Instance metadata is divided into [categories](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/instancedata-data-categories.html), for example, host name, events, and security groups.
 
-| **Scenario** | **Possible Instance Choice with Explanation** |
-|---|---|
-| Small database in Amazon RDS with moderate activity levels for which cost is more important than latency | db.m5 standard DB instance class offering a balance of compute, memory, and network resources |
-| A 12-GB write-heavy workload in Amazon ElastiCache for Redis with 2 shards | cache.r5.xlarge memory-optimized instances with 26 GiB of memory |
-| A memory-intensive workload in Amazon RDS using Oracle under an existing license for 2 CPUs | db.m4.xlarge with hyperthreading disabled to remain in compliance with licenses |
+EC2 instance metadata is a service accessible from within EC2 instances, which allows querying or managing data about a given running instance.
+
+It is possible to retrieve an instance’s IAM access key by accessing the `iam/security-credentials/role-name` metadata category. This returns a temporary set of credentials that the EC2 instance automatically uses for communicating with AWS services.
+
+[Instance metadata and user data - Amazon Elastic Compute Cloud](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/ec2-instance-metadata.html)
 
 ## Bottlerocket
 
