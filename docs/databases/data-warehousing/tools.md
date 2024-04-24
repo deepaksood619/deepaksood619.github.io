@@ -52,7 +52,7 @@ With dbt, data teams work directly within the warehouse to produce trusted datas
 
 dbt is a SQL-first transformation workflow that lets teams quickly and collaboratively deploy analytics code following software engineering best practices like modularity, portability, CI/CD, and documentation. Now anyone on the data team can safely contribute to production-grade data pipelines.
 
-![](../../media/Pasted%20image%2020230308224127.png)
+![image](../../media/Pasted%20image%2020230308224127.png)
 
 - https://www.getdbt.com
 - [What is dbt?](https://www.getdbt.com/product/what-is-dbt/)

@@ -1,6 +1,7 @@
 # Analytics
 
 - [Amazon Athena](cloud/aws/analytics/amazon-athena.md) - Query Data in S3 using SQL
+- [Amazon DevOps Guru](cloud/aws/analytics/amazon-devops-guru.md)
 
 ## Amazon EMR
 

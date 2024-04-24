@@ -27,24 +27,26 @@ https://docs.aws.amazon.com/AmazonRDS/latest/AuroraUserGuide/USER_PerfInsights.U
 
 ## Performance Monitoring
 
-## Why does Performance Insights measure database load in sessions?
+### Why does Performance Insights measure database load in sessions?
 
 Sessions, in this case, is shorthand for "average active sessions," sometimes abbreviated "AAS." An active session is a database connection that has submitted a request to the database but has not yet received the response. Measuring the average number of active concurrent sessions over time provides a clear picture of the load on the database.
 
-## The Performance Insights dashboard
+### The Performance Insights dashboard
 
 The dashboard is divided into two parts:
 
 - At the top, aload chartshows the recent history of database load in units of average active sessions (AAS).
 - On the bottom, atop activity tableshows what is contributing to database load for the time interval on the load chart.
+
 By default, the load chart is color coded by wait type. Breaking down database load by wait types can help you understand what kind of database mechanisms are chiefly contributing to the load. Top activity shows SQL statements by default. Understanding what SQL is chiefly contributing to the load can help you understand what parts of your application are responsible for bottlenecks.
 
-## Tuning a database load bottleneck
+### Tuning a database load bottleneck
 
-Asessionis database terminology for a database connection serving an application. Sessions that are waiting during database requests contribute to database load. A session might wait for a response for many reasons. A common reason is that the request is executing and using CPU to complete. However, the request could also be waiting for I/O to complete, for a lock, for writes to storage, for space in a buffer area, or for any number of other reasons. These various wait states appear in the load chart as stacked color areas. The colors correspond to wait states that can be seen in the legend on the right side. The most prominent colors in the load chart are the greatest contributors to database load.
+A session is database terminology for a database connection serving an application. Sessions that are waiting during database requests contribute to database load. A session might wait for a response for many reasons. A common reason is that the request is executing and using CPU to complete. However, the request could also be waiting for I/O to complete, for a lock, for writes to storage, for space in a buffer area, or for any number of other reasons. These various wait states appear in the load chart as stacked color areas. The colors correspond to wait states that can be seen in the legend on the right side. The most prominent colors in the load chart are the greatest contributors to database load.
+
 An important visual cue in the load chart is theMax CPUline. This line represents the number of vCPUs (virtual central processing units) on the host. If more sessions are active in CPU wait than there are vCPUs, it means that the instance is running beyond CPU capacity. Whenever the overall load goes over theMax CPUline, there might be a bottleneck. The bottleneck could be because of CPU saturation, or it could be caused by one of the many other ways that sessions wait in a database.
 
-## CPU bottleneck
+### CPU bottleneck
 
 In the preceding examples, there are two vCPU cores, so only two sessions can concurrently run on the CPU without queueing. If three sessions run on the CPU concurrently, then, at any given point in time, at least one of them is waiting in the run queue and therefore not getting work done.
 

@@ -4,6 +4,7 @@
 - Bloom
 - Claude 2.1 from antropic with a context window of 200k tokens
 - [Gemma: Google introduces new state-of-the-art open models](https://blog.google/technology/developers/gemma-open-models/) (2B, 7B parameters)
+- [Meta Llama 3](https://llama.meta.com/llama3/)
 
 | Model              | Parameters | Size  |
 | ------------------ | ---------- | ----- |

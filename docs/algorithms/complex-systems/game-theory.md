@@ -109,6 +109,6 @@ https://www.freecodecamp.org/news/introduction-to-evolutionary-game-theory
 
 [Simulating the Evolution of Teamwork - YouTube](https://youtu.be/TZfh8hpJIxo?si=-7deIyM-Ub4MR2ic)
 
-![](../../media/Screenshot%202023-12-24%20at%202.49.25.PM.jpg)
+![image](../../media/Screenshot%202023-12-24%20at%202.49.25.PM.jpg)
 
 [Round-robin tournament - Wikipedia](https://en.wikipedia.org/wiki/Round-robin_tournament)

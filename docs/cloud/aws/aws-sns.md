@@ -21,7 +21,7 @@ Standard topics can be used in many scenarios, as long as your application can p
 
 **Best-effort ordering**: Occasionally, messages might be delivered in an order different from which they were published.
 
-![](https://d1.awsstatic.com/product-marketing/SNS/Img.29963b2823bc048492c7af2757535d500aa2c159.png)
+![image](https://d1.awsstatic.com/product-marketing/SNS/Img.29963b2823bc048492c7af2757535d500aa2c159.png)
 
 **Best-effort deduplication**: A message is delivered at least once, but occasionally more than one copy of a message is delivered.
 
@@ -37,7 +37,7 @@ FIFO topics are designed to enhance messaging between applications when the orde
 
 **Strict ordering**: The order in which messages are published and delivered is strictly preserved (i.e. first-in-first-out).
 
-![](https://d1.awsstatic.com/product-marketing/SNS/Img2.8f1c8d366f58845ce03bb2983c16349102cf1524.png)
+![image](https://d1.awsstatic.com/product-marketing/SNS/Img2.8f1c8d366f58845ce03bb2983c16349102cf1524.png)
 
 **Strict deduplication**: Duplicate messages aren't delivered. Deduplication happens within a 5-minute interval, from the message publish time.
 

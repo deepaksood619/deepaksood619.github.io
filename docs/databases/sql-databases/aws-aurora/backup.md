@@ -129,3 +129,10 @@ The backtrack setting for an Aurora DB cluster doesn't affect the volume of back
 If you share a snapshot with another user, you're still the owner of that snapshot. The storage costs apply to the snapshot owner. If you delete a shared snapshot that you own, nobody can access it.
 
 To keep access to a shared snapshot owned by someone else, you can copy that snapshot. Doing so makes you the owner of the new snapshot. Any storage costs for the copied snapshot apply to your account.
+
+## Links
+
+- [Best way to take AWS Aurora MySQL backups using Xtrabackup for \> 10TB large databases? - MySQL & MariaDB - Percona Community Forum](https://forums.percona.com/t/best-way-to-take-aws-aurora-mysql-backups-using-xtrabackup-for-10tb-large-databases/24246)
+- [Percona XtraBackup - AWS Prescriptive Guidance](https://docs.aws.amazon.com/prescriptive-guidance/latest/migration-large-mysql-mariadb-databases/percona-xtrabackup.html)
+- [Implementing Multi-Source Replication in AWS RDS MySQL: A Step-by-Step Guide | by Arun Pandey | Medium](https://medium.com/@arunpandeyaws/implementing-multi-source-replication-in-aws-rds-mysql-a-step-by-step-guide-02cd50231320)
+- [Exploring How MySQL 5.7 Multi-Source Replication Works](https://www.percona.com/blog/mysql-5-7-multi-source-replication/)

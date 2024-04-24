@@ -2,6 +2,7 @@
 
 - [Intro](databases/concepts/intro.md)
 - [Types of Databases](types-of-databases)
+- [Amazon Databases](databases/concepts/amazon-databases.md)
 - [History](history)
 - [Concepts](core-concepts.md)
 - [Acid and Base](acid-and-base)

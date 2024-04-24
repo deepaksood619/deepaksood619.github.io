@@ -157,6 +157,17 @@ Trillion dollar coach - Bill Campbell
 
 [How Schools Can Nurture Every Student's Genius | Trish Millines Dziko | TED](https://www.youtube.com/watch?v=SUDMIA23_5s)
 
+“He who has a why to live for can bear almost any how.” -- Friedrich Nietzsche
+
+Teachers need to internalise this. Your job is to spark curiosity in your students.
+
+1. Assume the student has very little knowledge about the topic
+2. Assume they will watch the video just once
+3. Assume the attention span of the student is less than two minutes. Hook them with a joke or example
+4. Tell them how this impacts them. The student doesn't care about information, they care about knowledge!
+
+Golden Rule: When explaining a topic, choose the right level of abstraction. Once a student understands the high level concept, they dig into the details themselves.
+
 ## STAR Method
 
 https://theinterviewguys.com/star-method

@@ -207,6 +207,7 @@
 - Cramer's game plan
 - [Yadnya Investment Academy - YouTube](https://www.youtube.com/@InvestYadnya)
 - FreeFincal Pattu DIY Investing
+- [Finance With Sharan - YouTube](https://youtube.com/@financewithsharan)
 
 ### Business / Management
 
@@ -225,6 +226,7 @@
 - Kevlin Henney
 - Nouriel robini
 - [Soch by Mohak Mangal - YouTube](https://www.youtube.com/@sochbymm)
+- [Mohak Mangal - YouTube](https://www.youtube.com/@mohak_mangal)
 - [BeerBiceps - YouTube](https://www.youtube.com/@BeerBiceps)
 - [Johnny Harris - YouTube](https://www.youtube.com/@johnnyharris)
 - [Nikita Thakur - YouTube](https://www.youtube.com/@nikitaksthakur)

@@ -15,8 +15,8 @@ Data fields are made from the columns in your data source. Each field is automat
 
 Tableau represents data differently in the view depending on whether the field is discrete (blue), or continuous (green). _Continuous_ and _discrete_ are mathematical terms. Continuous means "forming an unbroken whole, without interruption"; discrete means "individually separate and distinct."
 
-- **Green measures** ![](https://help.tableau.com/current/pro/desktop/en-us/Img/continuous_meas.png) and dimensions ![](https://help.tableau.com/current/pro/desktop/en-us/Img/continuous_dim.png) are continuous. Continuous field values are treated as an infinite range. Generally, continuous fields add axes to the view.
-- **Blue measures** ![](https://help.tableau.com/current/pro/desktop/en-us/Img/discrete_meas.png) and dimensions ![](https://help.tableau.com/current/pro/desktop/en-us/Img/discrete_dim.png) are discrete. Discrete values are treated as finite. Generally, discrete fields add headers to the view.
+- **Green measures** ![image](https://help.tableau.com/current/pro/desktop/en-us/Img/continuous_meas.png) and dimensions ![image](https://help.tableau.com/current/pro/desktop/en-us/Img/continuous_dim.png) are continuous. Continuous field values are treated as an infinite range. Generally, continuous fields add axes to the view.
+- **Blue measures** ![image](https://help.tableau.com/current/pro/desktop/en-us/Img/discrete_meas.png) and dimensions ![image](https://help.tableau.com/current/pro/desktop/en-us/Img/discrete_dim.png) are discrete. Discrete values are treated as finite. Generally, discrete fields add headers to the view.
 
 ## Calculated Fields
 
