@@ -8,19 +8,19 @@ Not every connection will behave in the same way. There are three primary connec
 
 ### Live Connection
 
-![](https://help.tableau.com/current/pro/desktop/en-us/Img/Menu_Ds.png)
+![image](https://help.tableau.com/current/pro/desktop/en-us/Img/Menu_Ds.png)
 
 A live connection sends queries to the database and updates the view depending on the results. However, the specific fields queried are defined when the connection is initially created. Refreshing the data source will update any new or changed fields. For more information, see [Connect to Your Data](https://help.tableau.com/current/pro/desktop/en-us/basicconnectoverview.htm).
 
 ### Extract
 
-![](https://help.tableau.com/current/pro/desktop/en-us/Img/Menu_Ds_Extract.png)
+![image](https://help.tableau.com/current/pro/desktop/en-us/Img/Menu_Ds_Extract.png)
 
 Refreshing an extract will query the data source the extract was created from and rebuild the extract. This process might take some time, depending upon the size of the extract. For more information, see [Extract Your Data](https://help.tableau.com/current/pro/desktop/en-us/extracting_data.htm).
 
 ### Published Data Source
 
-![](https://help.tableau.com/current/pro/desktop/en-us/Img/Online_Tableau_Sparkle.png)
+![image](https://help.tableau.com/current/pro/desktop/en-us/Img/Online_Tableau_Sparkle.png)
 
 When connected to a Published Data Source, the data source can be either a live connection or an extract. Selecting the Data Source tab will display whether the Published Data Source is a live connection or an extract. If the data source is an Extract, all refreshes of the extract are managed by Tableau Server and can only be refreshed by the server.
 

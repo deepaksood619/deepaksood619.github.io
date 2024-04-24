@@ -27,11 +27,11 @@
 
 ![Different structured solution options](../media/Screenshot%202023-03-17%20at%207.23.13%20PM.png)
 
-![](../media/Screenshot%202023-03-17%20at%207.23.56%20PM.png)
+![image](../media/Screenshot%202023-03-17%20at%207.23.56%20PM.png)
 
 ![Google data warehouse solution architecture](../media/Screenshot%202023-03-17%20at%207.36.20%20PM.png)
 
-![](../media/Screenshot%202023-03-17%20at%207.43.56%20PM.png)
+![image](../media/Screenshot%202023-03-17%20at%207.43.56%20PM.png)
 
 ## Resources
 

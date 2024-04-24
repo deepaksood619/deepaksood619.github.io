@@ -56,3 +56,12 @@
 - [AWS — Difference between Amazon Aurora and Amazon RDS | by Ashish Patel | Awesome Cloud | Medium](https://medium.com/awesome-cloud/aws-difference-between-amazon-aurora-and-amazon-rds-comparison-aws-aurora-vs-aws-rds-databases-60a69dbec41f)
    	- Aurora’s unique architecture gives you more durability, scalability, resiliency, and performance when compared to RDS. Although there is a small increase in cost, it is recommend using Aurora for enterprise-level applications. If you are looking for a native high availability solution and/or read-intensive workload, then Aurora is a perfect match.
 - [Aurora vs RDS: How to Choose the Right AWS Database Solution](https://www.percona.com/blog/when-should-i-use-amazon-aurora-and-when-should-i-use-rds-mysql/)
+
+## Migration
+
+### How can we move our cluster from aurora to RDS in efficient and fast way?
+
+- Create a Read Replica of your Aurora cluster as an RDS MySQL instance
+- Enable the "Multi-AZ deployment" option to create a standby instance in a different Availability Zone
+- Promote the RDS MySQL Read Replica to be a standalone instance
+- Point your applications to the new RDS MySQL instance

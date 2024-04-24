@@ -41,6 +41,18 @@
    fields *@timestamp*, *@message* | filter *@message* like /(?i)(connect)/ # | filter @timestamp > 1668527666 | fields tomillis(*@timestamp*) as millis # | filter @millis < 1668566034 | parse *@message* ',*,*,' as @instance,@user | parse *@message* /(?<@ip>d{1,3}.d{1,3}.d{1,3}.d{1,3})/ | stats count() AS counter by @user | sort by @counter desc | limit 100
    ```
 
+#### 3 categories of logs
+
+1. Vended logs - natively published by AWS services on behalf of the customer
+2. Logs published by AWS services
+3. Custom logs
+
+[CloudWatch billing and cost - Amazon CloudWatch](https://docs.aws.amazon.com/AmazonCloudWatch/latest/monitoring/cloudwatch_billing.html)
+
+#### Amazon CloudWatch Application Insights
+
+[Amazon CloudWatch Application Insights - Amazon CloudWatch](https://docs.aws.amazon.com/AmazonCloudWatch/latest/monitoring/cloudwatch-application-insights.html)
+
 ### 2. AWS Auto Scaling
 
 Scale Multiple Resources to Meet Demand

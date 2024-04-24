@@ -30,6 +30,8 @@
     - [Amazon S3](storage/amazon-s3)
     - [Amazon S3 Storage Classes](cloud/aws/storage/amazon-s3-storage-classes.md)
     - [Amazon EBS](storage/amazon-ebs)
+    - [Amazon EFS](cloud/aws/storage/amazon-efs.md)
+    - [IOPS](cloud/aws/storage/iops.md)
 - Databases
     - [Amazon Aurora](../../databases/sql-databases/aws-aurora/readme.md)
     - [Amazon DynamoDB](../../databases/nosql-databases/aws-dynamodb/readme.md)
@@ -74,4 +76,5 @@ https://www.awsgeek.com/Periodic-Table-of-Amazon-Web-Services/Periodic-Table-of-
 - [Explore AWS Training and Certification Events](https://aws.amazon.com/training/events/)
 - [Best AWS Services You Need To Know As A Data Engineer - How To Become A Data Engineer - YouTube](https://www.youtube.com/watch?v=XYZxufvwC14&ab_channel=SeattleDataGuy)
 - [5 crazy new AWS services just launched - YouTube](https://www.youtube.com/watch?v=ekPbZqPvCRA&ab_channel=Fireship)
-- [Get Started](https://pages.awscloud.com/GLOBAL-partner-GC-Get-Started-Today-2024-reg.html)
+- [PARTNER TRAINING AND CERTIFICATION](https://pages.awscloud.com/GLOBAL-partner-GC-Get-Started-Today-2024-reg.html)
+- [Ten Mistakes Founders Make on AWS, and How to Avoid Them - AWS Startups](https://aws.amazon.com/startups/learn/ten-mistakes-founders-make-on-aws-and-how-to-avoid-them#overview)

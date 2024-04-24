@@ -4,13 +4,13 @@ A **P2P** network is a type of network in which different computers communicat
 
 In a traditional network architecture (known as the **client-server architecture**), there is usually one server and multiple clients. If two clients want to communicate with each other, the message has to first reach the server and then the server sends the message to the second client.
 
-![](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3607f1e7-ceb6-4324-ae98-ebb8edae0518_1600x606.png?utm_source=substack&utm_medium=email)
+![image](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3607f1e7-ceb6-4324-ae98-ebb8edae0518_1600x606.png?utm_source=substack&utm_medium=email)
 
 ## History of P2P networks
 
 We start our discussion of P2P with the history of such networks, as it is not a recent concept. The evolution of P2P networks is a fascinating journey spanning several decades, marked by groundbreaking developments and innovations. Here is a timeline of key P2P applications and transformative moments in the history of P2P.
 
-![](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4ab44bb4-1c58-4687-91ab-b54246005247_1600x262.jpeg?utm_source=substack&utm_medium=email)
+![image](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4ab44bb4-1c58-4687-91ab-b54246005247_1600x262.jpeg?utm_source=substack&utm_medium=email)
 
 ## Types of P2P models
 
@@ -20,19 +20,19 @@ We would like to discuss how the P2P networks operate, but before we do that, it
 
 In this model, there is no central server or authority, and each node can act both as a client and a server.
 
-![](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fda98af07-8143-476a-a977-4ba7698a6de1_1254x1233.jpeg?utm_source=substack&utm_medium=email)
+![image](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fda98af07-8143-476a-a977-4ba7698a6de1_1254x1233.jpeg?utm_source=substack&utm_medium=email)
 
 ### Hybrid P2P model
 
 This model makes use of centralized servers for facilitating initial connection and peer discovery. Further communication between peers is carried out in a decentralized manner. This approach balances the benefits of a decentralized network with the efficiency of centralized coordination.
 
-![](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1b4f2aaa-87f0-4b83-9beb-d9935b09df0e_1314x1227.jpeg?utm_source=substack&utm_medium=email)
+![image](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1b4f2aaa-87f0-4b83-9beb-d9935b09df0e_1314x1227.jpeg?utm_source=substack&utm_medium=email)
 
 ### Blockchain-based P2P model
 
 A blockchain-based Peer-to-Peer model refers to a decentralized network architecture where the principles of P2P interaction are combined with blockchain technology. In this model, blockchain serves as the underlying distributed ledger or database that records and verifies transactions, creating a secure and transparent environment for peer-to-peer interactions. This model is often associated with decentralized applications (DApps) and platforms that leverage the capabilities of blockchain for various purposes.
 
-  ![](https://ci3.googleusercontent.com/meips/ADKq_Nar-7Ji3rDkYc7_MOeF5NEaS8IoxgmOuYKoxQqmnfL6hvN7QagXUKeITlZw1b1v5dviefKaRv6DGH1MB-HkBSP9XBGFMvo1OD3GekEe9I5k5_1qFHCJIYWKmdwwpXrL-1CSEQkYMOvDIvNmKwqTzyKGTal2izYeOksoeYYkEL3z9L4DyuQ3VC9paAVIrqAF1J1NmGtOrzE1vQyHcqKlOj_WWoOh5ldTlg7D3exYUc1fbWcBUw31wOlHF66FMTE5SrRXGAwRO-eLw1wWdYGxeYZWg8ILRSl60KXzaqXabyzFdHxKo9Qvg7oGYVY=s0-d-e1-ft#https://substackcdn.com/image/fetch/w_478,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6e5c584f-e67d-46eb-8e38-d3ff3a0e7052_1002x1600.jpeg)
+  ![image](https://ci3.googleusercontent.com/meips/ADKq_Nar-7Ji3rDkYc7_MOeF5NEaS8IoxgmOuYKoxQqmnfL6hvN7QagXUKeITlZw1b1v5dviefKaRv6DGH1MB-HkBSP9XBGFMvo1OD3GekEe9I5k5_1qFHCJIYWKmdwwpXrL-1CSEQkYMOvDIvNmKwqTzyKGTal2izYeOksoeYYkEL3z9L4DyuQ3VC9paAVIrqAF1J1NmGtOrzE1vQyHcqKlOj_WWoOh5ldTlg7D3exYUc1fbWcBUw31wOlHF66FMTE5SrRXGAwRO-eLw1wWdYGxeYZWg8ILRSl60KXzaqXabyzFdHxKo9Qvg7oGYVY=s0-d-e1-ft#https://substackcdn.com/image/fetch/w_478,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6e5c584f-e67d-46eb-8e38-d3ff3a0e7052_1002x1600.jpeg)
 
 ## How the P2P network operates
 
@@ -59,17 +59,17 @@ After the node initialization, it needs a way to discover and connect with other
 
 The central server is also called a tracker in some P2P applications that maintains a list of active peers in the network. All existing peers periodically communicate with the tracker to confirm their availability and get a fresh list of all available peers. The hybrid P2P model utilizes this approach.
 
-![](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0ecbe848-f188-4afe-9b43-14d11b623105_1248x984.jpeg?utm_source=substack&utm_medium=email)
+![image](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0ecbe848-f188-4afe-9b43-14d11b623105_1248x984.jpeg?utm_source=substack&utm_medium=email)
 
 **Distributed Hash Tables (DHTs):** It is a decentralized method for peer discovery commonly used in P2P networks. Nodes are assigned a unique identifier, and a distributed hash table is used to map these identifiers to IP addresses.  When a node wants to discover another peer, it can perform a lookup in the DHT to find the corresponding IP address. The pure P2P model utilizes this approach.
 
-![](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F84b31c04-3971-4c43-b289-22f4955c8a9b_849x873.jpeg?utm_source=substack&utm_medium=email)
+![image](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F84b31c04-3971-4c43-b289-22f4955c8a9b_849x873.jpeg?utm_source=substack&utm_medium=email)
 
 **Broadcasting and Multicasting:** Nodes may broadcast their presence or send multicast messages to the network. Other nodes can listen to these broadcasts or messages to discover peers. This method is more common in smaller, local P2P networks.
 
 For example, when a node sends a broadcast file request to the network, all peers who can provide the file send the message to the requester node. The node then chooses the specific peer to get the file from.
 
-![](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc54c7813-4f09-4d9b-8684-cde9a531876d_1488x1110.jpeg?utm_source=substack&utm_medium=email)
+![image](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc54c7813-4f09-4d9b-8684-cde9a531876d_1488x1110.jpeg?utm_source=substack&utm_medium=email)
 
 ### Distributed Data Storage
 
@@ -85,7 +85,7 @@ Depending on the P2P protocol, there exist different metrics to define the dista
 
 P2P networks have some cool real-life applications. Here are some common P2P applications along with the respective models they often fall into:
 
-![](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F47c8e50b-dbe3-44f5-9717-cbc77b7d61d1_1880x680.png?utm_source=substack&utm_medium=email)
+![image](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F47c8e50b-dbe3-44f5-9717-cbc77b7d61d1_1880x680.png?utm_source=substack&utm_medium=email)
 
 ## Advantages of P2P network
 

@@ -19,7 +19,6 @@
    	- [News API | Best API to find the latest and archive news](https://www.newsapi.ai/)
    	- [World News API](https://worldnewsapi.com/)
    	- [NewsData - News API to Search & Collect Worldwide News](https://newsdata.io/)
-   	-
 
 ## Local Infra Mock
 

@@ -121,9 +121,15 @@ https://dbdb.io/db/aurora
 
 https://aws.amazon.com/rds/aurora/faqs
 
-## Others
+## RDS Blue Green Deployments
+
+RDS Blue/Green Deployments only support default option groups for major version upgrades. Don't specify a major version upgrade when you create the blue/green deployment. After you create the blue/green deployment, you can upgrade the database in the green environment.
 
 [Introduction to Amazon RDS Blue/Green Deployments | Amazon Web Services](https://www.youtube.com/watch?v=mGAjzAzBOsk)
+
+[Blue/Green Deployments in Amazon Aurora and Amazon RDS. How it Looks? - DEV Community](https://dev.to/girishmukim/fully-managed-bluegreen-deployments-in-amazon-aurora-and-amazon-rds-4dc3)
+
+## Others
 
 [AWS — Difference between Amazon Aurora and Amazon RDS | by Ashish Patel | Awesome Cloud | Medium](https://medium.com/awesome-cloud/aws-difference-between-amazon-aurora-and-amazon-rds-comparison-aws-aurora-vs-aws-rds-databases-60a69dbec41f)
 

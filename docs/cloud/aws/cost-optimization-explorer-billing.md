@@ -33,6 +33,8 @@ Blended costs are calculated by multiplying each account’s service usage again
 
 [Understanding your AWS Cost Datasets: A Cheat Sheet | AWS Cloud Financial Management](https://aws.amazon.com/blogs/aws-cloud-financial-management/understanding-your-aws-cost-datasets-a-cheat-sheet/)
 
+[Site Unreachable](https://aws.amazon.com/about-aws/whats-new/2019/11/aws-cost-explorer-supports-hourly-resource-level-granularity/)
+
 ### Cost Anomaly Detection
 
 [AWS Cost Anomaly Detection](https://aws.amazon.com/aws-cost-management/aws-cost-anomaly-detection/)

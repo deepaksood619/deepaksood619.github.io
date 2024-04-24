@@ -64,7 +64,7 @@ In NLP, word embedding is a projection of a word, consisting of characters into 
 - Distributed representation of concepts and continuity of words sharing similar properties
 - Allow to learn this projection for the given task
 
-![](https://miro.medium.com/v2/resize:fit:1400/1*sROrntT_wJOI6-DoBViyjw.jpeg)
+![image](https://miro.medium.com/v2/resize:fit:1400/1*sROrntT_wJOI6-DoBViyjw.jpeg)
 
 _Fig.1 - Illustration of a word embedding_
 
@@ -72,7 +72,7 @@ _Fig.1 - Illustration of a word embedding_
 
 One-hot encoded words are not useful to solve a NLP task successfully. Assume that an arbitrary dictionary consists out of 5000 different words. This means, when using one-hot encoding, each word will be represented by a vector of length 5000, but 4999 of these entries are zero. It can be concluded, that the dimensionality gets very high and the featurespace is very sparse. Additionally there is not any connection of words with a similar meaning, as visible in figure 1 above.
 
-![](https://miro.medium.com/v2/resize:fit:1348/1*9ZuDXoc2ek-GfHE2esty5A.png)
+![image](https://miro.medium.com/v2/resize:fit:1348/1*9ZuDXoc2ek-GfHE2esty5A.png)
 
 _Fig.2 - Example of a one-hot encoding for words_
 
@@ -85,7 +85,7 @@ A standard approach is, to feed the one-hot encoded tokens (mostly words, or sen
 
 There exists many different approaches of word embedding, some of the most popular ones we will look in more detail during the following sections.
 
-![](https://miro.medium.com/v2/resize:fit:1400/1*pktqRMGoYo9_fRCI8RpKLQ.jpeg)
+![image](https://miro.medium.com/v2/resize:fit:1400/1*pktqRMGoYo9_fRCI8RpKLQ.jpeg)
 
 _Fig.3 - Visualization of a embedding layer_
 
@@ -185,11 +185,11 @@ The one word approach takes only one word as input and tries, based on this inpu
 
 **Lossfunction of the one word context model**
 
-![](https://miro.medium.com/v2/resize:fit:532/1*y8Tst8vqxQoaiY-75AqEqg.png)
+![image](https://miro.medium.com/v2/resize:fit:532/1*y8Tst8vqxQoaiY-75AqEqg.png)
 
 The model simply tries to maximise the negative log of the probability of the output word given the input word.
 
-![](https://miro.medium.com/v2/resize:fit:1400/1*IsK_X7YdgmOVFGhIpuKEJA.jpeg)
+![image](https://miro.medium.com/v2/resize:fit:1400/1*IsK_X7YdgmOVFGhIpuKEJA.jpeg)
 
 _Fig.4 - one word context model_
 
@@ -197,7 +197,7 @@ _Fig.4 - one word context model_
 
 A more suitable approach than the one word context model is the skip-gram model. This model takes one target word as input to predict the context (neighbouring words).
 
-![](https://miro.medium.com/v2/resize:fit:1128/1*ieqh2zbnW7K0cmXk9BusXA.jpeg)
+![image](https://miro.medium.com/v2/resize:fit:1128/1*ieqh2zbnW7K0cmXk9BusXA.jpeg)
 
 _Fig.5 - skip-gram model_
 
@@ -205,13 +205,13 @@ _Fig.5 - skip-gram model_
 
 The lossfunction is not very different than the lossfunction of the word context model.
 
-![](https://miro.medium.com/v2/resize:fit:1018/1*n_ot-YRLGznWvFGfc8TfqQ.png)
+![image](https://miro.medium.com/v2/resize:fit:1018/1*n_ot-YRLGznWvFGfc8TfqQ.png)
 
 #### 3.4.3 Continuous bag-of-word
 
 In the continuous bag-of-word approach (CBOW) the model tries to predict the actual word based from some surrounding words, in this sense it is the reversed approach of the skip gram model. The order of the surrounding words does not influence the prediction (therefore: bag-of-words).
 
-![](https://miro.medium.com/v2/resize:fit:1100/1*kCgUJvDMw4bgULaddAMgYA.jpeg)
+![image](https://miro.medium.com/v2/resize:fit:1100/1*kCgUJvDMw4bgULaddAMgYA.jpeg)
 
 _Fig.6 - Continuous bag-of-word model_
 
@@ -219,7 +219,7 @@ _Fig.6 - Continuous bag-of-word model_
 
 The lossfunction is similar to the lossfunction of the one word model. The only difference is that more than one words are given.
 
-![](https://miro.medium.com/v2/resize:fit:938/1*UyLbzvpdpARj1TUtL4naWg.png)
+![image](https://miro.medium.com/v2/resize:fit:938/1*UyLbzvpdpARj1TUtL4naWg.png)
 
 More about the mathematical concept behind the model can be found in original paper.
 
@@ -245,13 +245,13 @@ As an easy example, we are using the following sentence:
 
 We use a windowsize of "one" for this example, but it is also possible / useful to use a larger window size. Figure 7, shows the resulting co-occurrence matrix of the example sentence above:
 
-![](https://miro.medium.com/v2/resize:fit:630/1*mdFqxZKedPy8-Bhhuth-Eg.jpeg)
+![image](https://miro.medium.com/v2/resize:fit:630/1*mdFqxZKedPy8-Bhhuth-Eg.jpeg)
 
 _Fig.7 - Example of a simple Co-occurence matrix_
 
 To measure the similarity between words, we need three words at a time. The following table shows such an example:
 
-![](https://miro.medium.com/v2/resize:fit:1196/1*wGQzP1BWYgkfajyjZfj8CA.jpeg)
+![image](https://miro.medium.com/v2/resize:fit:1196/1*wGQzP1BWYgkfajyjZfj8CA.jpeg)
 
 _Fig.8 - GloVe probability table_
 
@@ -269,21 +269,21 @@ So, if we can find a way to incorporate **_P_ik/P_jk_** to computing word vector
 
 It can be shown, that an appropriate starting point for word vector learning could be working with ratios of co-occurrence probabilities rather then the probabilities themselves. We take the following equation as a starting point:
 
-![](https://miro.medium.com/v2/resize:fit:490/1*Ehxi0Kd1FbZivISBNJrxcw.png)
+![image](https://miro.medium.com/v2/resize:fit:490/1*Ehxi0Kd1FbZivISBNJrxcw.png)
 
 In the formula from above, **_F()_** can be taken to be a complicated function parameterized by a neural network. The ratio **_P_ik/P_jk_** depends on three words **_i_**,**_j_** and **_k_**. In the formula above are **w** the word vectors and **_w_tilde_** are the separate context vectors.
 
 After some recalculation steps we get to following formula:
 
-![](https://miro.medium.com/v2/resize:fit:734/1*3NZVpENLBeAxdIX7KxTKZQ.png)
+![image](https://miro.medium.com/v2/resize:fit:734/1*3NZVpENLBeAxdIX7KxTKZQ.png)
 
 A main drawback to this model is that it weights all co-occurrences evenly, even those that happen rarely or never. Such rare co-occurrences are noisy and carry less information than the more frequent ones - yet even just the zero entries account for 75-95% of the data in **_X_**, depending on the vocabulary size and corpus. The authors from the GloVe-paper proposed a new weighted least squares regression model that addresses these problems. The weight function **_f(Xij)_** is shown in figure 9.
 
 **Lossfunction of the GloVe model**
 
-![](https://miro.medium.com/v2/resize:fit:1162/1*RqSbaez98jyc6jj49qZ2CA.png)
+![image](https://miro.medium.com/v2/resize:fit:1162/1*RqSbaez98jyc6jj49qZ2CA.png)
 
-![](https://miro.medium.com/v2/resize:fit:1216/1*TXWYDO4f8pGipKk2hRWzfw.png)
+![image](https://miro.medium.com/v2/resize:fit:1216/1*TXWYDO4f8pGipKk2hRWzfw.png)
 
 _Fig.9 - Example of the weightfunction f(Xij)_
 
@@ -295,7 +295,7 @@ So then we factorize this matrix to yield a lower-dimensional (word - features) 
 
 Mostly the word-feature matrix and the feature-context matrix are initialized randomly and attempt to multiply them to get a word-context co-occurrence matrix, which is as similar as possible to the original matrix. After training, the word-featrue matrix gives the learned word embedding for each word where the number of columns (features) can be present to a specific number of dimension, given by the user as a hyperparameter.
 
-![](https://miro.medium.com/v2/resize:fit:1400/1*8UEaG6Bm9krv8N7IDnjvxg.png)
+![image](https://miro.medium.com/v2/resize:fit:1400/1*8UEaG6Bm9krv8N7IDnjvxg.png)
 
 _Fig.10 - Conceptual model for the GloVe model_
 
@@ -321,11 +321,11 @@ Using only a bag of words representation of the text leaves out crucial sequenti
 
 Working with n-grams lead to a very huge number of different n-grams. The FastText approach uses a hashing function to convert each character n-gram to a hashed integer value between 1 and B. This method can dramatically decrease the the size of the bucket.
 
-![](https://miro.medium.com/v2/resize:fit:990/1*zDPmG8lQgjh41JbRygEQcQ.png)
+![image](https://miro.medium.com/v2/resize:fit:990/1*zDPmG8lQgjh41JbRygEQcQ.png)
 
 _Fig.11 - Visualization of the dictionary reduction_
 
-![](https://miro.medium.com/v2/resize:fit:850/1*rG_CB4twhOg3vD5AgR1t0w.png)
+![image](https://miro.medium.com/v2/resize:fit:850/1*rG_CB4twhOg3vD5AgR1t0w.png)
 
 _Fig.12 - Visualization of hashing process_
 
@@ -333,7 +333,7 @@ _Fig.12 - Visualization of hashing process_
 
 **log-likelihood of the skipgram model** (given is the target word, and the model is trained to predict well words that appear in its context):
 
-![](https://miro.medium.com/v2/resize:fit:650/1*bV89nzlGh4GBTKKxgky6mA.png)
+![image](https://miro.medium.com/v2/resize:fit:650/1*bV89nzlGh4GBTKKxgky6mA.png)
 
 The context **_C_t_** is the set of indices of words surrounding word **_w_t_**. The skipgram model uses a scoring function, and calcualte the probability **_p(wc|wt)_** with a softmax function. The FastText model uses a very similar scoring function but in a slightly different way. In the FastText approach, each word ww will be represented as a bag of n-grams.
 
@@ -343,13 +343,13 @@ input word: where → split in n-grams (where n=3): wh, whe, her, ere, re
 
 The main difference between skipgram and FastText is only that the scoring function is the sum over all n-gram vectors.
 
-![](https://miro.medium.com/v2/resize:fit:604/1*ZtY01Q5ajXLMc1ByTwEkcA.png)
+![image](https://miro.medium.com/v2/resize:fit:604/1*ZtY01Q5ajXLMc1ByTwEkcA.png)
 
 A word will be represented by the sum of the vector representation of its different n-grams. This scoring function is then used for the softmax function, same as in the skipgram approach.
 
 #### 3.6.3 Architecture of FastText
 
-![](https://miro.medium.com/v2/resize:fit:1206/1*Y8526ukD0Dk9IpAssFsCxw.png)
+![image](https://miro.medium.com/v2/resize:fit:1206/1*Y8526ukD0Dk9IpAssFsCxw.png)
 
 _Fig.13 - Architecture overview of the FastText model_
 
@@ -382,7 +382,7 @@ ELMo gained its language understanding from being trained to predict the next wo
 
 ELMo basically consists out of two bi-directional LSTM layers - so that the language model does not only have a sense of the next word, but also the previous word. Given a sequence of N tokens (this could be a whole sentence, or at least a part of a sentence) the bidirectional language model computes the forward and also the backward probability. In more mathematical sense, the ELMo model tries to maximize the log likelihood of the forward and backward probability.
 
-![](https://miro.medium.com/v2/resize:fit:1400/1*eBcOSrMrXReLwKvTedlpxA.png)
+![image](https://miro.medium.com/v2/resize:fit:1400/1*eBcOSrMrXReLwKvTedlpxA.png)
 
 **ELMo consists mainly of the following points:**
 
@@ -393,7 +393,7 @@ ELMo basically consists out of two bi-directional LSTM layers - so that the lang
 
 The architecture showed in figure 14, uses a character-level convolutional neural network (CNN) to represent words of a text string into raw word vectors. These raw word vectors act as inputs to the first layer of the biLSTM. The forward pass contains information about a certain word and the context (other words) before that word. The backward pass contains information about the word and the context after it. This pair of information, from the forward and backward pass, forms the intermediate word vectors. These intermediate word vectors are fed into the next layer of the biLSTM. The final representation (ELMo) is the weighted sum of the raw word vectors and the two intermediate word vectors.
 
-![](https://miro.medium.com/v2/resize:fit:1400/1*AS2KJAwx18XbuyAefz9fLQ.jpeg)
+![image](https://miro.medium.com/v2/resize:fit:1400/1*AS2KJAwx18XbuyAefz9fLQ.jpeg)
 
 _Fig.14 - Architecture of the ELMo language model_
 
@@ -403,7 +403,7 @@ The main part of ELMo, the two bidirectional LSTMs are more or less straight for
 
 In the paper "Character-Aware neural language models", they propose a language model that leverages subword informations through a character-level convolutional neural network (CNN), whose output is used as an input to a recurrent neural network language model (RNN-LM). If we study the architecture in figure 15 in more detail, we can see that the ELMo is quite similar to the character-aware neural language model approach from 2015. They changed the simple vanilla LSTM to a bidirectional LSTM model, but the embedding part is in both approaches the same.
 
-![](https://miro.medium.com/v2/resize:fit:1020/1*Z4TSBi8Mh_jGc1dltZ_ZpA.jpeg)
+![image](https://miro.medium.com/v2/resize:fit:1020/1*Z4TSBi8Mh_jGc1dltZ_ZpA.jpeg)
 
 _Fig.15 - Architecture of the word embedding as a preprocessing step for the ELMo model_
 
@@ -419,23 +419,23 @@ The next step after the character-level CNN is the highway network. The authors 
 
 This model uses as input the max-over-time pooled vector, at least in the ELMo approach, created from the character-level CNN. The authors of the paper showed, that it is also possible in principle to feed the output of the charactet-level CNN **_yk_** directly to the LSTM layer. But the authors observed, that feed **_yk_** through a highway network before the LSTM will lead to some improvements of the accuracy. Highway networks in general can also be used in many other machine learning and deep learning problems. The word embedding in the ELMo approach is just one specific application of the highway network approach.
 
-![](https://miro.medium.com/v2/resize:fit:1120/1*xI2buV-uemPFE5MvCc2HsA.png)
+![image](https://miro.medium.com/v2/resize:fit:1120/1*xI2buV-uemPFE5MvCc2HsA.png)
 
 _Fig.16 - Overview of a highway layer_
 
 A plain feedforward neural network consists mainly of **_L_** layers and each layer applies a non-linear transformation **_H_**, where **_H_** is normally a affine transformation function, followed by a non-linear activation function (sigmoid, ReLU, etc.).
 
-![](https://miro.medium.com/v2/resize:fit:396/1*KCnbf6kign76VQXmMXKHCA.png)
+![image](https://miro.medium.com/v2/resize:fit:396/1*KCnbf6kign76VQXmMXKHCA.png)
 
 For the highway network, the authors introduced two additional non-linear transformations, **_T(x,W_T)_** and **_C(x,W_C)_**. This yields to the following formula.
 
 **A layer of the highway network does the following:**
 
-![](https://miro.medium.com/v2/resize:fit:1006/1*GObc-kv9tmy0XXBeWp3Pew.png)
+![image](https://miro.medium.com/v2/resize:fit:1006/1*GObc-kv9tmy0XXBeWp3Pew.png)
 
 whereas **_C = 1-T_** and therefore:
 
-![](https://miro.medium.com/v2/resize:fit:1138/1*1t0vsGv-ujRn0IKGYTAFOA.png)
+![image](https://miro.medium.com/v2/resize:fit:1138/1*1t0vsGv-ujRn0IKGYTAFOA.png)
 
 where **_H_** is the non-linearity from a plain feedforward layer and **_T_** and **_C_** are the two additional introduced non-linearities. **_T_** is called the transform gate and **_(1−T)_** or **_C_** is called the carry gate. Similar to the memory cell in LSTM networks, highway layers allow for training of deep networks by adaptively carrying some dimensions of the input directly to the output. A more detailed explanation of the highway network can be found in the paper "Highway Networks"
 
@@ -457,7 +457,7 @@ An encoder processes the input sequence and compresses the information into a co
 
 A basic Seq2Seq model can work quite well for short text sequences, but it has difficulties with long sequences, because the context vector has a fixed length and has to encode a lot of infomation. One possible solution to overcome the problem of long sequences, is to plug in the attention mechanism.
 
-![](https://miro.medium.com/v2/resize:fit:1400/1*eAM9Dl-lPk0nxN0Zbbynew.png)
+![image](https://miro.medium.com/v2/resize:fit:1400/1*eAM9Dl-lPk0nxN0Zbbynew.png)
 
 _Fig.17 - Sequence to sequence architecture_
 
@@ -473,15 +473,15 @@ There are mainly three different ways to compute attention scores:
 
 - **dot-product - the simplest method:**
 
-![](https://miro.medium.com/v2/resize:fit:506/1*Ek-iT96cha-0a6ROPmBEwQ.png)
+![image](https://miro.medium.com/v2/resize:fit:506/1*Ek-iT96cha-0a6ROPmBEwQ.png)
 
 - **bilinear function (aka "Luong attention")** more details could be find in the original paper
 
-![](https://miro.medium.com/v2/resize:fit:556/1*6Qe4WGnwqecWbbeLwzhgog.png)
+![image](https://miro.medium.com/v2/resize:fit:556/1*6Qe4WGnwqecWbbeLwzhgog.png)
 
 - **multi-layer perceptron (aka "Bahdanau attention")** more details could be fint in the original paper
 
-![](https://miro.medium.com/v2/resize:fit:890/1*zfFRVgD8VFbRT6PHTfBDvQ.png)
+![image](https://miro.medium.com/v2/resize:fit:890/1*zfFRVgD8VFbRT6PHTfBDvQ.png)
 
 #### 5.1.1 Bahdanau model
 
@@ -505,9 +505,9 @@ The self-attention function can be described as mapping a query (**_W_Q_**) and 
 
 **Formula to calculate the self-attention output:**
 
-![](https://miro.medium.com/v2/resize:fit:896/1*aOe5BibzwSQYLjYqPrMU_w.png)
+![image](https://miro.medium.com/v2/resize:fit:896/1*aOe5BibzwSQYLjYqPrMU_w.png)
 
-![](https://miro.medium.com/v2/resize:fit:1368/1*glkmu3PCc8oISSO43-lEdg.png)
+![image](https://miro.medium.com/v2/resize:fit:1368/1*glkmu3PCc8oISSO43-lEdg.png)
 
 _Fig.18 - Overview of the self-attention mechanism_
 
@@ -515,13 +515,13 @@ _Fig.18 - Overview of the self-attention mechanism_
 
 The multi-head attention mechanism is an extension of the self-attention mechanism and is also implemented in the transformer architecture. The main idea of the authors of the paper was, instead performing a single attention function with **_d_model_**\-dimensional keys, values and queries, it would be beneficial to linearly project the queries, keys and values **_h_** times with different, learned linear projections (the **_W_K_**, **_W_Q_** and **_W_V_** matrices).
 
-![](https://miro.medium.com/v2/resize:fit:1296/1*XtPNn8-XUXEFHsptvgZRVQ.png)
+![image](https://miro.medium.com/v2/resize:fit:1296/1*XtPNn8-XUXEFHsptvgZRVQ.png)
 
 where:
 
-![](https://miro.medium.com/v2/resize:fit:1000/1*x7tvbTs6hite9V25k0nidg.png)
+![image](https://miro.medium.com/v2/resize:fit:1000/1*x7tvbTs6hite9V25k0nidg.png)
 
-![](https://miro.medium.com/v2/resize:fit:874/1*mHWENrcV7kAF-81OCWqhNw.png)
+![image](https://miro.medium.com/v2/resize:fit:874/1*mHWENrcV7kAF-81OCWqhNw.png)
 
 _Fig.19 - Overview of the multi-head attention mechanism_
 
@@ -535,7 +535,7 @@ The transformer architecture is a stackwise architecture, it is simply possible 
 
 ### 6.1 Transformer architecture
 
-![](https://miro.medium.com/v2/resize:fit:1400/1*GDpDsoqIKFpg4L0jIYEdMg.png)
+![image](https://miro.medium.com/v2/resize:fit:1400/1*GDpDsoqIKFpg4L0jIYEdMg.png)
 
 _Fig.20 - Overview of the transformer model_
 
@@ -547,7 +547,7 @@ The transfomer model contains no recurrent (RNN’s or LSTM’s) an no convoluti
 
 **Mathematical formulation of the positional encoding approach:**
 
-![](https://miro.medium.com/v2/resize:fit:1278/1*lL4i6gZ8noFD1X8rseqPdA.png)
+![image](https://miro.medium.com/v2/resize:fit:1278/1*lL4i6gZ8noFD1X8rseqPdA.png)
 
 The final positional encoding which is then used as input of the transformer is simple a sum of the embedding vector and the positional vector. For example if we consider the word "black", the positional vector is calculated as follow:
 
@@ -559,7 +559,7 @@ Additionally to the attention layers, each stack of the encoder and decoder cont
 
 **Mathematical formulation of the feed forward layer:**
 
-![](https://miro.medium.com/v2/resize:fit:1030/1*Xkuep1tFpDxa7h2Ul5AQbQ.png)
+![image](https://miro.medium.com/v2/resize:fit:1030/1*Xkuep1tFpDxa7h2Ul5AQbQ.png)
 
 A feed forward layer could be build out of convolutional layer with kernelsize = 1. The network used in the paper "Attention is all you need" has a input and output dimensionality of **_d_model = 512_** and the inner layer has a dimensionality of **_d_ff = 2048_**.
 
@@ -569,7 +569,7 @@ Residual connections are very simple (add a block’s input to its output), but 
 
 In the transformer, residual connections are used after each multi-head attention and feed forward network block.
 
-![](https://miro.medium.com/v2/resize:fit:1140/1*6WlIo8W1_Qc01hjWdZy-1Q.png)
+![image](https://miro.medium.com/v2/resize:fit:1140/1*6WlIo8W1_Qc01hjWdZy-1Q.png)
 
 _Fig.21 - Residual block_
 
@@ -577,7 +577,7 @@ _Fig.21 - Residual block_
 
 The layer normalization, which is applied after the multi-head attention layer contains a add and normalization function. The add function is used to sum up the output of the multi-head attention and the residual connection, which comes directly from the input of the attention layer. The layer can be described as follows:
 
-![](https://miro.medium.com/v2/resize:fit:992/1*nGItSLFnvAvTfB86_aCB1w.png)
+![image](https://miro.medium.com/v2/resize:fit:992/1*nGItSLFnvAvTfB86_aCB1w.png)
 
 Many different methods exists for the layer normalization, but we will not go in detail in this blog.
 
@@ -592,7 +592,7 @@ OpenAI was reaching the goal of using a GPT model on a downstream task without f
 - **One shot**: This step takes the process yet further. The pretrained GPT model is presented with only one demonstration of the downstream taks. There will be no weight updating
 - **Zero shot**: The pretrained GPT model is presented with NO example of the downstream task. Therefore the GPT model must be able to generalize very good on mostly all NLP problems.
 
-![](https://miro.medium.com/v2/resize:fit:1400/1*9p0wMj_k8Gdmxaknhm1H6w.jpeg)
+![image](https://miro.medium.com/v2/resize:fit:1400/1*9p0wMj_k8Gdmxaknhm1H6w.jpeg)
 
 _Fig.22 - Symbolic example of the different learning approaches in the GPT models_
 
@@ -600,7 +600,7 @@ The main goal of OpenAI is to generalize the concept of understanding language t
 
 All GPT model uses only the decoder part of the original transformer architecture, shown in figure 23 below. In comparison to the BERT model, GPT do not use a bidirectional approach. More about a step-by-step implementation of a GPT model could be found in the book "Transformers for natural language processing" written by Daniel Rothman.
 
-![](https://miro.medium.com/v2/resize:fit:382/1*Ei9bP_ZaAUJ5iTsC8mFnsw.png)
+![image](https://miro.medium.com/v2/resize:fit:382/1*Ei9bP_ZaAUJ5iTsC8mFnsw.png)
 
 _Fig.23 - Overview of the GPT model archtiecture_
 
@@ -642,7 +642,7 @@ The aim is now to learn, if the two sentence are two consecutive sequences from 
 
 The usage of a BERT model for a specific downstream taks is relatively straightforward. There are many different versions of pretrained models available. A very good pasge is [https://huggingface.co/models](https://huggingface.co/models). After loading a pretrained version of the BERT model, it is necessary to fine tune the parameters of the model. It is also necessary to add one addtitional output layer and a input layer if needed. For a Q & A Bot we have three inputs, the context a answer an a corresponding answer which should be find in the context. Figure 24 shows symbolic the idea behind the pretraining and fine tuning process.
 
-![](https://miro.medium.com/v2/resize:fit:1400/1*-LA8h0eXRZKlzFvrxtsm2w.jpeg)
+![image](https://miro.medium.com/v2/resize:fit:1400/1*-LA8h0eXRZKlzFvrxtsm2w.jpeg)
 
 _Fig.24 - Two steps of using a BERT Transformer_
 
@@ -650,7 +650,7 @@ _Fig.24 - Two steps of using a BERT Transformer_
 
 Figure 25 below, shows the main differences in pre-training model architectures. The BERT model uses a bidirectional Transformer. The GPT model from OpenAI uses a simple left-to-right transformer. The ELMo model does not use the transformer approach, as we have seen earlier in this blog. Therefore the BERT and GPT model performs better than previous approaches including ELMo. Until today, various versions, with some small changes or adaptions have been introduced, but all of these models still using the transformer model at the core.
 
-![](https://miro.medium.com/v2/resize:fit:1400/1*MtFDXtosIeq4tuBdEG9pQA.jpeg)
+![image](https://miro.medium.com/v2/resize:fit:1400/1*MtFDXtosIeq4tuBdEG9pQA.jpeg)
 
 _Fig.25 - Two steps of using a BERT Transformer_
 

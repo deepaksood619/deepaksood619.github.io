@@ -4,7 +4,7 @@
 
 Let’s begin by looking at the model as a _single black box_. In a machine translation application, it would take a sentence in one language, and output its translation in another, as illustrated below,
 
-![](https://jalammar.github.io/images/t/the_transformer_3.png)
+![image](https://jalammar.github.io/images/t/the_transformer_3.png)
 
 Getting closer into the black box, transformers have on the inside:
 
@@ -12,7 +12,7 @@ Getting closer into the black box, transformers have on the inside:
 - A **decoding component**: which is a stack of `N` decoders,
 - and **connections between them**.
 
-![](https://jalammar.github.io/images/t/The_transformer_encoder_decoder_stack.png)
+![image](https://jalammar.github.io/images/t/The_transformer_encoder_decoder_stack.png)
 
 Now, each **encoder** is broken down into two sub-layers: the **self-attention layer** and the **feed-forward neural network layer**.
 
@@ -20,7 +20,7 @@ The inputs first flow through a **self-attention layer**, and the outputs of the
 
 Finally, the **decoder** receives the output of the **encoder component** and also has both the **self-attention layer** and **feed-forward layer**, and the flow is similar to before, but between them there is an **attention layer** that helps the decoder focus on relevant parts of the input sentence.
 
-![](https://jalammar.github.io/images/t/Transformer_decoder.png)
+![image](https://jalammar.github.io/images/t/Transformer_decoder.png)
 
 ## How _next sentence prediction (NSP)_ is used in language modeling?
 
@@ -45,7 +45,7 @@ The **extrinsic evaluation** will depend on the task. Example: For _speech recog
 
 The very basic idea is the following: they take `n` tokens as input, and produce `one` token as output.
 
-![](https://miro.medium.com/v2/resize:fit:828/format:webp/1*zaRZlVk-dl0zVUOe0g_ufg.png)
+![image](https://miro.medium.com/v2/resize:fit:828/format:webp/1*zaRZlVk-dl0zVUOe0g_ufg.png)
 
 A token is a chunk of text. In the context of OpenAI GPT models, common and short words typically correspond to a single token and long and less commonly used words are generally broken up into several tokens.
 
@@ -53,7 +53,7 @@ This basic idea is applied in an _expanding-window pattern_. You give it `n` tok
 
 Now, behind the output is a probability distribution over all the possible tokens. What the model does is return a vector in which each entry expresses the probability of a particular token being chosen.
 
-![](https://miro.medium.com/v2/resize:fit:828/format:webp/1*UZ_hexQINPnJV14HWLorAg.png)
+![image](https://miro.medium.com/v2/resize:fit:828/format:webp/1*UZ_hexQINPnJV14HWLorAg.png)
 
 This probability distribution comes from the training phase. During training, the model is exposed to a lot of text, and its weights are tuned to predict good probability distributions, given a sequence of input tokens.
 
@@ -297,7 +297,7 @@ Researchers often use the term "parameters" instead of "weights" to emphasize th
 - In **Feature-based Transfer Learning**, you can train _word embeddings_ by running a **model `A`** and then using those features from model `A` (i.e. _word vectors_) on a **different task**, or model `B`.
 - When **Fine Tuning**, you can use the exact **same model `A`** and just run it on a **different task**. Sometimes when fine-tuning, you can keep the model weights fixed and just add a new layer that you will train. Other times you can slowly unfreeze the layers one at a time. You can also use unlabelled data when pre-training, by masking words and trying to predict which word was masked.
 
-![](https://miro.medium.com/v2/resize:fit:828/format:webp/0*n49fDyrzIEeiUXqG.jpeg)
+![image](https://miro.medium.com/v2/resize:fit:828/format:webp/0*n49fDyrzIEeiUXqG.jpeg)
 
 ## Why do transformers need _Positional Encodings_?
 

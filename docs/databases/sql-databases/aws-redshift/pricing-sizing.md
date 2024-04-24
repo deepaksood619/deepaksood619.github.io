@@ -27,13 +27,13 @@ https://aws.amazon.com/redshift/pricing
 
 | **vCPU** | **Memory** | **Slices** | **Addressable storage capacity** | **I/O** | **Price** |
 |---|---|---|---|---|---|
-| Dense Compute DC2 |
+| Dense Compute DC2 | | | | | |
 | dc2.large | 2 | 15 GiB | 2 | 0.16TB SSD = 160 GB | 0.60 GB/s | $0.315per Hour 0.315 *8 = $2.52 per Hour |
 | dc2.8xlarge | 32 | 244 GiB | 32 | 2.56TB SSD | 7.50 GB/s | $6.10per Hour |
-| Dense Storage DS2 |
+| Dense Storage DS2 | | | | | |
 | ds2.xlarge | 4 | 31 GiB | 2 | 2TB HDD | 0.40 GB/s | $1.19per Hour |
 | ds2.8xlarge | 36 | 244 GiB | 16 | 16TB HDD | 3.30 GB/s | $9.50per Hour |
-| RA3 with Redshift Managed Storage* |
+| RA3 with Redshift Managed Storage* | | | | | |
 | ra3.xlplus | 4 | 32 GiB | 32TB RMS | 0.65 GB/sec | $1.235per Hour 1.235* 2 = 2.47 per hour |
 | ra3.4xlarge | 12 | 96 GiB | 64TB RMS | 2.00 GB/s | $3.706per Hour |
 | ra3.16xlarge | 48 | 384 GiB | 64TB RMS | 8.00 GB/s | $14.827per Hour |
