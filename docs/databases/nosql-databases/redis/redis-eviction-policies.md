@@ -1,6 +1,9 @@
 # Redis Eviction Policies
 
-The exact behavior Redis follows when themaxmemorylimit is reached is configured using themaxmemory-policyconfiguration directive.
+**Cache Eviction Policies**
+
+The exact behavior Redis follows when the maxmemory limit is reached is configured using the maxmemory-policy configuration directive.
+
 The following policies are available:
 
 - **noeviction:** return errors when the memory limit was reached and the client is trying to execute commands that could result in more memory to be used (most write commands, but [DEL](https://redis.io/commands/del) and a few more exceptions).
@@ -11,6 +14,7 @@ The following policies are available:
 - **volatile-ttl:** evict keys with anexpire set, and try to evict keys with a shorter time to live (TTL) first, in order to make space for the new data added.
 
 The policies **volatile-lru, volatile-random** and **volatile-ttl** behave like **noeviction** if there are no keys to evict matching the prerequisites.
+
 Picking the right eviction policy is important depending on the access pattern of your application, however you can reconfigure the policy at runtime while the application is running, and monitor the number of cache misses and hits using the Redis [INFO](https://redis.io/commands/info) output in order to tune your setup.
 
 In general as a rule of thumb:
@@ -94,3 +98,39 @@ The result is a break of many expectations, like behavior changes in TTL of obje
 Understandably, with these expectations breaking, cache performance of write heavy clusters isn't great.
 
 - Using production log traces from Twitter to evaluate different caching strategies.
+
+## Top 8 Cache Eviction Strategies
+
+### LRU (Least Recently Used)
+
+LRU eviction strategy removes the least recently accessed items first. This approach is based on the principle that items accessed recently are more likely to be accessed again in the near future.
+
+### MRU (Most Recently Used)
+
+Contrary to LRU, the MRU algorithm removes the most recently used items first. This strategy can be useful in scenarios where the most recently accessed items are less likely to be accessed again soon.
+
+### SLRU (Segmented LRU)
+
+SLRU divides the cache into two segments: a probationary segment and a protected segment. New items are initially placed into the probationary segment. If an item in the probationary segment is accessed again, it is promoted to the protected segment.
+
+### LFU (Least Frequently Used)
+
+LFU algorithm evicts the items with the lowest access frequency.
+
+### FIFO (First In First Out)
+
+FIFO is one of the simplest caching strategies, where the cache behaves in a queue-like manner, evicting the oldest items first, regardless of their access patterns or frequency.
+
+### TTL (Time-to-Live)
+
+While not strictly an eviction algorithm, TTL is a strategy where each cache item is given a specific lifespan.
+
+### Two-Tiered Caching
+
+In Two-Tiered Caching strategy, we use an in-memory cache for the first layer and a distributed cache for the second layer.
+
+### RR (Random Replacement)
+
+Random Replacement algorithm randomly selects a cache item and evicts it to make space for new items. This method is also simple to implement and does not require tracking access patterns or frequencies.
+
+![Top 8 Cache Eviction Strategies](../../../media/Pasted%20image%2020240429231428.jpg)
