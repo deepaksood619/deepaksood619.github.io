@@ -66,39 +66,22 @@ Feature Crosses
 In traditional machine learning, feature crosses don't play much of a role, but in modern day ML methods, feature crosses are an invaluable part of your toolkit.In this module, you will learn how to recognize the kinds of problems where feature crosses are a powerful way to help machines learn.
 
 1. [Introducing Feature Crosses](https://www.coursera.org/lecture/feature-engineering/introducing-feature-crosses-Jvgym)
-
 2. What is a Feature Cross?
-
 3. Discretization
-
 4. Memorization vs. Generalization
-
 5. Taxi colors
-
 6. Lab Intro: Feature Crosses to create a good classifier
-
 7. Lab Solution: Feature Crosses to create a good classifier
-
 8. Sparsity + Quiz
-
 9. Lab Intro: Too Much of a Good Thing
-
 10. Lab Solution: Too Much of a Good Thing
-
 11. Implementing Feature Crosses
-
 12. Embedding Feature Crosses
-
 13. Where to Do Feature Engineering
-
 14. Feature Creation in TensorFlow
-
 15. Feature Creation in DataFlow
-
 16. Lab Intro: Improve ML Model with Feature Engineering
-
 17. Lab Solution (p1): ML Fairness Debrief
-
 18. Lab Solution (p2): Improve ML Model with Feature Engineering
 
 Feature crosses

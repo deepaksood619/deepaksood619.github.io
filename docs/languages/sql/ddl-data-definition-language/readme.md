@@ -10,6 +10,11 @@
 - **Comment**
 
 ```sql
+-- mysql read user for all schemas
+CREATE USER 'devops_read_user'@'%' IDENTIFIED BY 'abcd';
+GRANT SELECT on *.* TO 'devops_read_user'@'%';
+
+
 ALTER USER
  ALTER USER 'lms_p2021020917'@'%' IDENTIFIED BY '00IN0hBGVZ7ABMFS';
  FLUSH PRIVILEGES;

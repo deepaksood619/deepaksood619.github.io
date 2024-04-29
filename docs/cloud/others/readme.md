@@ -1,6 +1,6 @@
 # Other Clouds
 
-- [Google Cloud Platform (GCP)](google-cloud-platform)
+- [Google Cloud Platform (GCP)](cloud/others/google-cloud-platform-gcp.md)
     - [Anthos](anthos)
     - [Big Query / Big Query](bigquery-big-query)
 - [Azure](azure/readme.md)

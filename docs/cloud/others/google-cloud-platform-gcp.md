@@ -1,4 +1,4 @@
-# Google Cloud Platform
+# Google Cloud Platform / GCP
 
 [Google Cloud Developer Cheat Sheet](https://googlecloudcheatsheet.withgoogle.com/)
 
@@ -47,24 +47,28 @@ https://cloud.google.com/scheduler/docs/quickstart
 
 ## Big Data
 
-- Big Query
-
-  BigQuery is a serverless data warehouse. Tables in BigQuery are organized into datasets.
-
-- Cloud Dataflow
-- Cloud Dataproc
-
-  Cloud Dataproc is a managed Spark and Hadoop service that lets you take advantage of open source data tools for batch processing, querying, streaming, and machine learning. Cloud Dataproc automation helps you create clusters quickly, manage them easily, and save money by turning clusters off when you don't need them.
-
+- Big Query - BigQuery is a serverless data warehouse. Tables in BigQuery are organized into datasets.
+- Cloud Dataproc - Cloud Dataproc is a managed Spark and Hadoop service that lets you take advantage of open source data tools for batch processing, querying, streaming, and machine learning. Cloud Dataproc automation helps you create clusters quickly, manage them easily, and save money by turning clusters off when you don't need them.
 - Cloud Composer
 - Cloud Datalab
 - Cloud Dataprep
-- Cloud Pub/Sub
-
-  Geo-redundant real-time messaging for all message sizes and velocities
-
+- Cloud Pub/Sub - Geo-redundant real-time messaging for all message sizes and velocities
 - Genomics
 - Google Data Studio
+
+### Cloud Dataflow
+
+Unified stream and batch data processing that's serverless, fast, and cost-effective.
+
+- Real-time insights and activation with data streaming and machine learning
+- Fully managed data processing service
+- Automated provisioning and management of processing resources
+- Horizontal and vertical autoscaling of worker resources to maximize resource utilization
+- OSS community-driven innovation with Apache Beam SDK
+
+[Dataflow | Google Cloud](https://cloud.google.com/dataflow)
+
+[Serverless Data Processing with Dataflow: Foundations | Google Cloud Skills Boost](https://www.cloudskillsboost.google/course_templates/218)
 
 ## Identity & Security
 
@@ -203,7 +207,7 @@ Highly-scalable NoSQL database. It automatically handles sharding and replicatio
 
   Enterprise API management for multi-cloud environments
 
-  An API proxyis your interface to developers that want to use your backend services. Rather than having them consume those services directly, they access an Edge API proxy that you create. With a proxy, you can provide value-added features such as:
+  An API proxy is your interface to developers that want to use your backend services. Rather than having them consume those services directly, they access an Edge API proxy that you create. With a proxy, you can provide value-added features such as:
 
     - Security
     - Rate limiting

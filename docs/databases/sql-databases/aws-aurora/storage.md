@@ -2,6 +2,8 @@
 
 [AWS re:Invent 2019: [REPEAT 1] Amazon Aurora storage demystified: How it all works (DAT309-R1)](https://www.youtube.com/watch?v=DrtwAOND1Pc)
 
+[Amazon Aurora storage and reliability - Amazon Aurora](https://docs.aws.amazon.com/AmazonRDS/latest/AuroraUserGuide/Aurora.Overview.StorageReliability.html)
+
 ## Cost
 
 | Storage Rate | $0.11per GB-month           |
@@ -12,7 +14,7 @@ S3 - $0.025per GB
 
 ## Storage
 
-The minimumstorageis 10GB. Based on yourdatabaseusage, your AmazonAurora storagewill automatically grow, up to 64 TB, in 10GB increments with no impact todatabaseperformance. There is no need to provisionstoragein advance
+The minimum storage is 10GB. Based on your database usage, your Amazon Aurora storage will automatically grow, up to 64 TB, in 10GB increments with no impact to database performance. There is no need to provision storage in advance
 
 ![image](../../../media/AWS-Aurora_Storage-image1.jpg)
 

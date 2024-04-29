@@ -27,7 +27,7 @@ Your workloads may do a lot of operations, or they may do large operations.
 
 If a workload is doing many operations, it may hit a volume's cap of IOPS.
 
-Additionally, _larger_ operations may increase the IOPS count, making you reach IOPS limits more quickly. 
+Additionally, _larger_ operations may increase the IOPS count, making you reach IOPS limits more quickly.
 
 ### Sneaky Thing #2: Throughput Limits
 
@@ -44,9 +44,9 @@ In other words, you may not reach the IOPS your disk is capable of providing bec
 This is because `1000 * 256 KiB = 250 MiB`. In other words, 1000 IOPS of `256 KiB` sized read/write operations is hitting the throughput limit of `250 MiB/s`.
 
 > Where did I get those numbers for this example? Somewhat arbitrarily:
-> 
+>
 > `256 KiB` is the cap before an operation is split into multiple IOPS.
-> 
+>
 > `250 MiB/s` is a gp2's volume max throughput
 
 The actual throughput limit varies by disk type (gp2 vs gp3) and their throughput settings. Max throughput it hit 334 GB storage on gp2.
@@ -217,7 +217,7 @@ What kind of performance can you expect? The only clue I found was [at the very
 It seems to suggest that your limitation is in the available throughput given to the underlying instance size, rather than any EBS volume limitation:
 
 > If your workload requires higher IOPS performance and higher throughput, you may plan to migrate to Aurora, which is a high-performance, highly available and cost-effective solution suitable for high throughput workloads...
-> 
+>
 > While using Aurora, make sure that there is technically no limit of IOPS but throughput could be limited to the underlying Aurora instance limit. For better throughput, go for a higher Aurora instance class.
 
 (I'm pretty sure that's meant to be read as "there is technically no limit in IOPS", rather than a directive for us, Aurora users, to make sure there are no IOPS limits via available configuration options).

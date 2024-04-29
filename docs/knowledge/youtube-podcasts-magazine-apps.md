@@ -418,6 +418,7 @@ Indian History - https://www.anirudhkanisetti.com/podcasts
     - https://waytohunt.org/1337x-proxy-mirror-sites
     - https://www.1377x.to
     - 1377x.to
+    - [1337x.to | Download Free Torrent and Magnet Links](https://1337x.isworking.xyz/)
     - [1337x.bz](https://1337x.bz/)
     - https://1337xto.to/
     - [1337x | Free Movies, TV Series, Music, Games and Software](https://www.1337x.tw/)

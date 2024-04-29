@@ -2,8 +2,11 @@
 
 [Human Origins 101 | National Geographic - YouTube](https://www.youtube.com/watch?v=ehV-MmuvVMU&ab_channel=NationalGeographic)
 
+[The 2 planetary disasters you owe your life to | Sean B. Carroll](https://youtu.be/YC2qoeWYr4w)
+
 - We divided from fungi 650 million years ago
 - About 221 million and 210 million years ago
+- 66 million years ago asteroid impact Yucatán Peninsula - Chicxulub crater
 - 6-7 million years ago relationship with apes ended
 - 2.8 million years ago genus of Homo emerged
 - 2 million years ago fire discovered
