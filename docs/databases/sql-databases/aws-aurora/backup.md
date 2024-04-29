@@ -130,6 +130,12 @@ If you share a snapshot with another user, you're still the owner of that snapsh
 
 To keep access to a shared snapshot owned by someone else, you can copy that snapshot. Doing so makes you the owner of the new snapshot. Any storage costs for the copied snapshot apply to your account.
 
+## Replication
+
+[Replication with Amazon Aurora MySQL - Amazon Aurora](https://docs.aws.amazon.com/AmazonRDS/latest/AuroraUserGuide/AuroraMySQL.Replication.html)
+
+[Replication with Amazon Aurora - Amazon Aurora](https://docs.aws.amazon.com/AmazonRDS/latest/AuroraUserGuide/Aurora.Replication.html)
+
 ## Links
 
 - [Best way to take AWS Aurora MySQL backups using Xtrabackup for \> 10TB large databases? - MySQL & MariaDB - Percona Community Forum](https://forums.percona.com/t/best-way-to-take-aws-aurora-mysql-backups-using-xtrabackup-for-10tb-large-databases/24246)

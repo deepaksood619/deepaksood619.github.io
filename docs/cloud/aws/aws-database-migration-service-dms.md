@@ -28,6 +28,8 @@ https://docs.aws.amazon.com/dms/latest/userguide/CHAP_Introduction.Components.ht
 
 [**https://docs.aws.amazon.com/dms/latest/userguide/CHAP_BestPractices.html**](https://docs.aws.amazon.com/dms/latest/userguide/CHAP_BestPractices.html)
 
+[Using a MySQL-compatible database as a source for AWS DMS - AWS Database Migration Service](https://docs.aws.amazon.com/dms/latest/userguide/CHAP_Source.MySQL.html)
+
 ### Loading multiple tables in parallel
 
 By default, AWS DMS loads eight tables at a time. You might see some performance improvement by increasing this slightly when using a very large replication server, such as a dms.c4.xlarge or larger instance.
