@@ -77,6 +77,12 @@ Monthly Savings Required To Accumulate The Fund Is - **₹7,25,218**
 
 [Retirement Planning Calculator - Plan your Savings Online](https://cleartax.in/s/retirement-planning-calculator)
 
+[How much money you need to retire today?| FIRE RULE | EARLY RETIREMENT |...](https://youtu.be/REJAd-b2aoU)
+
+[Retirement corpus: How much Indians must save & withdraw ? Detailed Rese...](https://youtu.be/h_x-7-qe6RQ)
+
+- For 2024 1 lakh monthly expenses you would need 17 crore retirement corpus
+
 ## Lifestyle upgrades
 
 - 2 objectives that contradict each other, one objective is to achieve financial independence, other objective is to have lifestyle upgrade
