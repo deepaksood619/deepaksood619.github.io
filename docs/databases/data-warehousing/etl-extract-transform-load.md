@@ -19,3 +19,9 @@ ETL is the order that these steps are traditionally performed in. ETL is great f
 However, ELT has become a more popular approach when used in conjunction with data lake architecture. The data arrives quickly as it does not have to be altered in any way. The data scientist can then use just the data they need, quickly get results, and not have to deal with delays if a transformation step fails.
 
 Considerations need to be made around how reliable the data is in its raw form. Each data scientist or end-user will need to apply the same logic and business rules when conducting analysis to keep results consistent.
+
+## Datastage
+
+Datastage is an ETL tool which extracts data, transform and load data from source to the target. The data sources might include sequential files, indexed files, relational databases, external data sources, archives, enterprise applications, etc. DataStage facilitates business analysis by providing quality data to help in gaining business intelligence.
+
+https://www.guru99.com/datastage-tutorial.html

@@ -35,6 +35,12 @@ Therefore, a mutual fund cannot fail like a bank. It can, however, get into trou
 
 A show cause notice **signals an intention by an employer to take disciplinary action if suitable reasons are not provided for the behaviour by the employee**. A show cause notice may be given after a workplace investigation, disclosure by a third party or an admission by the employee themselves.
 
+### AMCs
+
+- Quant - [5 Secrets of Quant Mutual Fund which consistently ranks it in India’s Best Mutual Fund schemes - YouTube](https://www.youtube.com/watch?v=WqFMhqRhVbw&ab_channel=ShankarNath)
+- Motilal Oswal
+- Edelweiss
+
 ## TREPS
 
 TREPS, short for "Treasury Bills Repurchase," is a financial instrument widely used in the money market. In simple terms, it represents a short-term borrowing and lending arrangement between two parties – a borrower and a lender.

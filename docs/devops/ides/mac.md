@@ -256,6 +256,10 @@ Unchecking the "User interface sounds" doesn't disable all sound. But sliding th
 - Finder - show status bar
 - Default Downloads folder
 - Search the current folder
+- Show seconds and date in clock
+- Show percent in battery
+- touch id
+- Keyboard - Delay until repeat - short
 
 #### Setting up Shell
 

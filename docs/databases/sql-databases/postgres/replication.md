@@ -56,6 +56,16 @@ The publisher- and subscriber-based [logical replication feature](https://www.p
 
 [Converting from Asynchronous to Synchronous Replication in PostgreSQL | Severalnines](https://severalnines.com/database-blog/converting-asynchronous-synchronous-replication-postgresql)
 
+## Multiple Masters to Single Slave (Multi-Source Replication)
+
+Multi-Source Replication enables a replication slave to receive transactions from multiple sources simultaneously. Multi-source replication can be used to backup multiple servers to a single server, to merge table shards, and consolidate data from multiple servers to a single server.
+
+![](https://severalnines.com/wp-content/uploads/2022/05/07-mysql-rep-wp.jpeg)
+
+MySQL and MariaDB have different implementations of multi-source replication, where MariaDB must have GTID with gtid-domain-id configured to distinguish the originating transactions while MySQL uses a separate replication channel for each master the slave replicates from. In MySQL, masters in a multi-source replication topology can be configured to use either global transaction identifier (GTID) based replication, or binary log position-based replication.
+
+[MySQL replication for high availability | Severalnines](https://severalnines.com/resources/whitepapers/mysql-replication-high-availability/)
+
 ## Dump and Restore
 
 [PostgreSQL: improving pg\_dump, pg\_restore performance - Stack Overflow](https://stackoverflow.com/questions/2094963/postgresql-improving-pg-dump-pg-restore-performance)

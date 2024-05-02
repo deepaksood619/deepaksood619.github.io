@@ -231,6 +231,9 @@
 - [Johnny Harris - YouTube](https://www.youtube.com/@johnnyharris)
 - [Nikita Thakur - YouTube](https://www.youtube.com/@nikitaksthakur)
 - [Varun Mayya - YouTube](https://www.youtube.com/@VarunMayya)
+- Sandeep Tandon - Quant Mutual Fund
+   	- [Moving Out Of Equities Now Will Be A Huge Mistake: Quant Mutual Fund’s Sandeep Tandon To Investors - YouTube](https://www.youtube.com/watch?v=1aGQOMPRSOs&ab_channel=Mint)
+   	- [Dynamic Style of Money Management \~ VLRT - Framework by Sandeep Tandon, Quant MF - YouTube](https://www.youtube.com/watch?v=mnffGxDPB7U&ab_channel=IFAGalaxy)
 
 ### Yearly
 

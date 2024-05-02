@@ -172,7 +172,7 @@ You can specify a switchover timeout period between 30 seconds and 3,600 seconds
 
 [Switching a blue/green deployment - Amazon Aurora](https://docs.aws.amazon.com/AmazonRDS/latest/AuroraUserGuide/blue-green-deployments-switching.html#blue-green-deployments-switching-guardrails)
 
-## Switchover actions
+### Switchover actions
 
 When you switch over a blue/green deployment, RDS performs the following actions:
 
@@ -189,3 +189,5 @@ If the switchover starts and then stops before finishing for any reason, then an
 You can't roll back a blue/green deployment after switchover. For critical production workloads, consider provisioning a backup DB cluster before switching over.
 
 [Switching a blue/green deployment - Amazon Aurora](https://docs.aws.amazon.com/AmazonRDS/latest/AuroraUserGuide/blue-green-deployments-switching.html)
+
+[Deleting a blue/green deployment - Amazon Relational Database Service](https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/blue-green-deployments-deleting.html)

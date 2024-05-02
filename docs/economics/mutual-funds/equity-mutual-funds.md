@@ -29,14 +29,47 @@ For example, a multi-asset fund might invest in equity, debt, as well as gold.
 
 ## Midcap funds
 
+- **HDFC Mid cap opportunities fund**
 - **Kotak emerging equity fund**
 - Edelweiss midcap fund
 - SBI magnum midcap fund
 - Motilal Oswal midcap fund
 - Nippon india growth fund
-- HDFC Mid cap opportunities fund
 
 [Best midcap mutual fund 2023 | Detail Comparison of best performing midcap funds - YouTube](https://www.youtube.com/watch?v=gxPrsLCq0H4)
+
+## Momentum Investing
+
+![Momentum Investing](../../media/Screenshot%202024-05-01%20at%2011.50.48%20AM.jpg)
+
+![Momentum Funds](../../media/Screenshot%202024-05-01%20at%2011.52.36%20AM.jpg)
+
+Active - Quant Momentum Fund
+
+### Types of momentum
+
+1. Absolute momentum - A stock's recent performance is compared to it's historical performance
+2. Relative momentum - A stock's recent performance is compared to it's sector or broad market index
+
+### Types of momentum Strategies
+
+1. Price momentum - Assets with strong recent price performance
+2. Relative strength momentum - Compares an asset's performance to its benchmark
+3. Cross sectional momentum - Compares price movements of two stocks within the same sector
+4. Time series momentum - Capitalizing on continuation of existing price trends
+5. 52-week high momentum - Focuses on assets reaching new hight over a 52-week period
+6. Dual momentum - Combines both relative and absolute momentum signals
+7. Volatility momentum - Investing based on momentum of market volatility levels
+8. Earning momentum - Assets with strong and consistently growing earnings
+9. Fundamental momentum - Selects assets based on fundamental factors like earnings growth, revenue, etc
+10. Smart beta momentum - Alternative weighting schemes to capture momentum in asset prices
+11. Global macro momentum - Invest based on macroeconomic factors like GDP, interest rates, inflation, trade balance, etc across global markets
+
+[Why Momentum Investing is now 15% of My Portfolio? | How to Find Momentum Stocks | Momentum Funds - YouTube](https://www.youtube.com/watch?v=xbRiKHchqFg&ab_channel=ShankarNath)
+
+[Learn to build momentum portfolio in 6 easy steps | What is momentum & h...](https://youtu.be/_BonDIAu0s0)
+
+[Which Are the Top-Performing Momentum Mutual Funds? - YouTube](https://www.youtube.com/watch?v=e18Ib2_YRVo&ab_channel=MutualFundsatGroww)
 
 ## Funds
 
@@ -95,8 +128,8 @@ In the multicap category, the allocation decision is left to the fund manager wh
 
 [I'll Select These TWO Mutual Funds for my Lifetime Investing Portfolio - YouTube](https://www.youtube.com/watch?v=aYHRTPTDtNk)
 
-- Momentum
-- Value fund
+- Momentum - Nifty 200 Momentum 30 Index
+- Value fund - Nifty 500 Value 50 Index
 
 [List of worst equity mutual funds (Jan 2013 to Dec 2023)](https://freefincal.com/list-of-worst-equity-mutual-funds-jan-2013-to-dec-2023/)
 

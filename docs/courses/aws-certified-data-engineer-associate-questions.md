@@ -538,31 +538,21 @@ Which combination of steps will resolve the error? (Select TWO.)
 
 Incorrect. The ProvisionedThroughputExceededException error is caused by the capacity quotas of the data stream exceeding its provisioned amount. The capacity quotas of a Kinesis data stream are defined by the number of shards within the stream. Therefore, a solution that configures enhanced fan-out on the stream does not resolve the error. Enhanced fan-out is a Kinesis Data Streams feature that scales up the number of stream consumers by offering each stream consumer its own read throughput.
 
-Learn more about enhanced fan-out.
-
 - [ ] B - Enable enhanced monitoring on the stream
 
 Incorrect. The ProvisionedThroughputExceededException error is caused by the capacity quotas of the data stream exceeding its provisioned amount. A solution that uses the EnableEnhancedMonitoring operation on the stream will not resolve the error. Instead, the operation will send shard-level data to Amazon CloudWatch every minute for an additional cost. Kinesis Data Streams and CloudWatch are integrated to collect, view, and analyze CloudWatch metrics for your Kinesis data stream.
-
-Learn more about enhanced monitoring.
 
 - [ ] C - Increase the number of shards within the stream to provide enough capacity for the read data calls
 
 Correct. The ProvisionedThroughputExceededException error is caused by the capacity quotas of the data stream exceeding its provisioned amount. A sustained rise of the stream's output data rate can cause this issue. To resolve the issue, you can increase the number of shards within your stream to provide enough capacity for the read data calls to consistently succeed.
 
-Learn more about resharding a stream.
-
 - [ ] D - Increase the size of the GetRecords requests
 
 Incorrect. The ProvisionedThroughputExceededException error is caused by the capacity quotas of the data stream exceeding its provisioned amount. A solution that increases GetRecords requests would increase the polling frequency. However, this solution would not resolve the ProvisionedThroughputExceededException error.
 
-Learn more about how to get data records from a Kinesis data stream.
-
 - [ ] E - Make the application retry to read data from the stream
 
 Correct. The ProvisionedThroughputExceededException is caused by the capacity quotas of the data stream exceeding its provisioned amount. A sustained rise of the stream's output data rate can cause this issue. A solution that retries the Kinesis application will eventually lead to completions of the requests.
-
-Learn more about how to troubleshoot Kinesis Data Streams consumers.
 
 ## Question 17
 

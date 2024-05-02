@@ -1,23 +1,5 @@
 # Technologies / Tools
 
-## Vitess
-
-Vitess is a database clustering system for horizontal scaling of MySQL through generalized sharding.
-
-By encapsulating shard-routing logic, Vitess allows application code and database queries to remain agnostic to the distribution of data onto multiple shards. With Vitess, you can even split and merge shards as your needs grow, with an atomic cutover step that takes only a few seconds.
-
-### Traditional Transactional Architecture
-
-![image](../../media/Technologies-Tools-image1.jpg)
-
-https://github.com/vitessio/vitess
-
-https://vitess.io
-
-https://www.planetscale.com/blog/videos-intro-to-vitess-its-powerful-capabilities-and-how-to-get-started
-
-[PlanetScale: The world’s most advanced database platform](https://planetscale.com/)
-
 ## MySQL Workbench / MySQLWorkbench
 
 https://dev.mysql.com/doc/workbench/en/wb-performance-explain.html
@@ -83,12 +65,6 @@ https://github.com/dbeaver/dbeaver
 ## Teradata
 
 Analytics, Data Lakes and Data Warehouses Unified in the Cloud
-
-## Datastage
-
-Datastage is an ETL tool which extracts data, transform and load data from source to the target. The data sources might include sequential files, indexed files, relational databases, external data sources, archives, enterprise applications, etc. DataStage facilitates business analysis by providing quality data to help in gaining business intelligence.
-
-https://www.guru99.com/datastage-tutorial.html
 
 ## Jepsen
 

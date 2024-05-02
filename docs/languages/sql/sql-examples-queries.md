@@ -16,6 +16,20 @@ FROM
 ORDER BY
   (DATA_LENGTH + INDEX_LENGTH) DESC;
 
+
+SELECT
+	table_schema,
+	table_name,
+	SUM(data_length + index_length + data_free)/1024/1024 AS total_mb,
+	SUM(data_length)/1024/1024 AS data_mb,
+	SUM(index_length)/1024/1024 AS index_mb,
+	SUM(data_free)/1024/1024 AS free_mb,
+	COUNT(*) AS tables,
+	CURDATE() AS today
+FROM
+	information_schema.tables
+ORDER BY 3 DESC
+LIMIT 10;
 ```
 
 ### Other queries
@@ -129,7 +143,7 @@ round(data_free/1024/1024) as data_free_mb
  where round(data_free/1024/1024) > 500
  order by data_free_mb;
 
- OPTIMIZE TABLE sttash_website_LIVE.email_instance_moratorium;
+OPTIMIZE TABLE sttash_website_LIVE.email_instance_moratorium;
 
 -- Others
 SELECT date(create_date), COUNT(*) FROM userDeviceSms WHERE date(create_date) BETWEEN NOW() - INTERVAL 6 HOUR AND NOW()
