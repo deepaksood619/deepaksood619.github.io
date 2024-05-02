@@ -12,3 +12,8 @@
 - [MySQL Heatwave](databases/sql-databases/mysql/mysql-heatwave.md)
 - [Administration](databases/sql-databases/mysql/administration.md)
 - [Others](databases/sql-databases/mysql/others.md)
+
+### Others
+
+- [Amazon Aurora](databases/sql-databases/aws-aurora/readme.md)
+- [Amazon RDS](databases/sql-databases/amazon-rds.md)

@@ -119,6 +119,8 @@ https://www.thegeekstuff.com/2016/04/mysql-optimize-table
 
 https://dev.mysql.com/doc/refman/8.0/en/optimize-table.html
 
+[The Impacts of Fragmentation in MySQL](https://www.percona.com/blog/the-impacts-of-fragmentation-in-mysql/)
+
 ## Optimizing data size
 
 ### Table Columns

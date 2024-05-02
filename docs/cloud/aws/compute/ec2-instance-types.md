@@ -2,9 +2,11 @@
 
 ## EC2 Instance Types
 
-https://aws.amazon.com/blogs/compute/it-just-got-easier-to-discover-and-compare-ec2-instance-types
+[It just got easier to discover and compare EC2 instance types | AWS Compute Blog](https://aws.amazon.com/blogs/compute/it-just-got-easier-to-discover-and-compare-ec2-instance-types)
 
-https://github.com/aws/amazon-ec2-instance-selector
+[GitHub - aws/amazon-ec2-instance-selector: A CLI tool and go library which recommends instance types based on resource criteria like vcpus and memory](https://github.com/aws/amazon-ec2-instance-selector)
+
+[Amazon EC2 Instance Comparison](https://instances.vantage.sh/)
 
 | **General Purpose**       | A1, T3, T3a, T2, M6g, M5, **M5a**, M5n, M4  |
 |---------------------------|---------------------------------------------|

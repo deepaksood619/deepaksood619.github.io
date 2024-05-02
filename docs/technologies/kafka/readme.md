@@ -12,7 +12,7 @@
 - [kafka-rest proxy](kafka-rest-proxy)
 - [Kafka schema-registry](kafka-schema-registry)
 - [Kafka Listeners](kafka-listeners)
-- [Monitoring](monitoring)
+- [Monitoring](technologies/kafka/monitoring.md)
 - [Kafka Commands](kafka-commands)
 - [kafka-python](kafka-python)
 - [confluent-kafka](confluent-kafka)

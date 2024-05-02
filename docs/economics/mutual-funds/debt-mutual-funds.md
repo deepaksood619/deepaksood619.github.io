@@ -149,3 +149,4 @@ Taxation - LTCG - If holding is more than 36 months) - Debt Fund (20% with Index
 - [Getting started with debt mutual funds - YouTube](https://www.youtube.com/watch?v=7jLip-C8SQs)
 - [Important debt fund jargon - YouTube](https://www.youtube.com/watch?v=A3eDo9O5K4w)
 - [Should I Move Money from FD to Debt Funds? | Mutual Fund Monday | Gaurav Jain - YouTube](https://www.youtube.com/watch?v=fOBaa2e3mcI&ab_channel=YadnyaInvestmentAcademy)
+- [Make 15% RETURN on Debt Mutual Funds & GOI Bonds | Just 10% LTCG Tax | RBI Repo Rate 2024 - YouTube](https://www.youtube.com/watch?v=p6WjOkhB1dY&ab_channel=ShankarNath)

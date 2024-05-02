@@ -331,3 +331,4 @@ https://aws.amazon.com/rds/proxy
 
 - [Optimize Amazon RDS and Aurora Costs with ElastiCache for Redis - AWS Databases in 15 - YouTube](https://www.youtube.com/watch?v=JAoNlGqn124)
 - [AWS tools to optimize your Amazon RDS costs | AWS Database Blog](https://aws.amazon.com/blogs/database/aws-tools-to-optimize-your-amazon-rds-costs/)
+- [Amazon Aurora Performance Optimization Techniques](https://pages.awscloud.com/rs/112-TZM-766/images/DMWQ1D4S3T2%20-%20Amazon%20Aurora%20Performance%20Optimization%20Techniques.pdf)
