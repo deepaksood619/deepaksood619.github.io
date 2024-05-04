@@ -11,6 +11,8 @@
 - [Optimizing Locking Operations](optimizing-locking-operations)
 - [MySQL Heatwave](databases/sql-databases/mysql/mysql-heatwave.md)
 - [Administration](databases/sql-databases/mysql/administration.md)
+- [Replication](databases/sql-databases/mysql/replication.md)
+- [GTID Replication](databases/sql-databases/mysql/gtid-replication.md)
 - [Others](databases/sql-databases/mysql/others.md)
 
 ### Others

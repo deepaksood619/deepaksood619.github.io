@@ -1,6 +1,7 @@
 # Companies
 
 - Equal Experts
+- mydbops
 
 ### Mobility Companies
 
