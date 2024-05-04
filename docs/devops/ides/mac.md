@@ -260,6 +260,7 @@ Unchecking the "User interface sounds" doesn't disable all sound. But sliding th
 - Show percent in battery
 - touch id
 - Keyboard - Delay until repeat - short
+- Display text larger
 
 #### Setting up Shell
 

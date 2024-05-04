@@ -53,6 +53,11 @@ Amazon RDS provides the flexibility to choose the instance type you need for you
 
 ![Different MySQL Comparisons](../../../media/Screenshot%202024-04-15%20at%207.27.11%20PM.jpg)
 
+#### Instances Cost
+
+- db.r6g.large (2,16) - $164.25 - [db.r6g.large pricing and specs - Vantage](https://instances.vantage.sh/aws/rds/db.r6g.large?region=us-east-1&os=PostgreSQL&cost_duration=monthly&reserved_term=Standard.partialUpfront)
+- r6g.large (2,16) - $73.584 - [r6g.large pricing and specs - Vantage](https://instances.vantage.sh/aws/ec2/r6g.large?region=us-east-1&os=linux&cost_duration=monthly&reserved_term=Standard.noUpfront)
+
 ## Aurora vs RDS MySQL
 
 - https://www.percona.com/blog/2018/07/17/when-should-i-use-amazon-aurora-and-when-should-i-use-rds-mysql

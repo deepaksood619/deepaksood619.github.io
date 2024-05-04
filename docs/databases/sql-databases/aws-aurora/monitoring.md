@@ -11,6 +11,44 @@
 
 ## Performance Monitoring
 
+### Performance Insights
+
+If we modify a DB instance to enable /disable Enhanced Monitoring or performance insights, the **changes will take effect without a reboot**
+
+When you create or modify a DB instance, you can choose Turning on Performance Insights. To get the required IAM permissions to access Performance Insights as a user, contact your account administrator.
+
+To grant the permissions, apply the provided custom policy to an IAM user or to a policy associated with an IAM user. Performance Insights is available for all RDS and Aurora engines.
+
+Enabling Performance Insights in Amazon RDS requires specific permissions related to RDS and Performance Insights actions. To enable Performance Insights, the IAM user or role needs the following permissions:
+
+- rds:ModifyDBCluster: This permission allows the user to modify the DB cluster to enable Performance Insights.
+- rds:DescribeDBClusters: This permission allows the user to describe the details of the DB clusters, which is necessary to check the current configuration and status of the cluster.
+- pi:DescribeDimensionKeys: This permission allows the user to describe dimension keys in Performance Insights. This is necessary for querying and analyzing performance data.
+- pi:GetResourceMetrics: This permission allows the user to get resource metrics from Performance Insights. This is necessary for accessing and analyzing performance metrics.
+
+#### Use cases
+
+- Focus: Performance Insights focuses on providing deep visibility into database-level performance and query activity.
+- Metrics: It captures and analyzes database-specific metrics such as SQL query execution time, throughput, active sessions, and wait events.
+- Query Analysis: Performance Insights allows you to drill down into individual SQL queries, identify high-impact queries, and analyze their performance characteristics.
+- Visualizations: It offers interactive visualizations and dashboards to help you understand database workload patterns, identify inefficiencies, and optimize query performance.
+- Integration: Performance Insights integrates with the AWS Management Console and provides a user-friendly interface for monitoring and analyzing database performance.
+
+#### Gotchas
+
+- Not supported on the following DB instance classes: db.t2.micro, db.t2.small, db.t3.micro, db.t3.small, db.t4g.small
+
+[Turning Performance Insights on and off - Amazon Aurora](https://docs.aws.amazon.com/AmazonRDS/latest/AuroraUserGuide/USER_PerfInsights.Enabling.html)
+
+### Enhanced Monitoring
+
+- Focus: Enhanced Monitoring primarily focuses on providing detailed system-level metrics and performance data for your RDS instances.
+- Metrics: It collects and reports a wide range of OS-level metrics such as CPU utilization, memory usage, disk I/O, and network traffic.
+- Granularity: Enhanced Monitoring captures metrics at a high granularity (typically 1-second intervals), allowing for detailed analysis of system-level performance.
+- Visibility: It provides insights into the underlying infrastructure and helps you identify performance bottlenecks related to the operating system and resource utilization.
+- Integration: Enhanced Monitoring integrates with Amazon CloudWatch, allowing you to view and analyze metrics alongside other CloudWatch metrics and alarms.
+- enhanced monitoring is free for rds but cost of cloudwatch for logs will be incurred
+
 ### Why does Performance Insights measure database load in sessions?
 
 Sessions, in this case, is shorthand for "average active sessions," sometimes abbreviated "AAS." An active session is a database connection that has submitted a request to the database but has not yet received the response. Measuring the average number of active concurrent sessions over time provides a clear picture of the load on the database.

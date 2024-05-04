@@ -4,6 +4,8 @@
 - [Aurora Documentation](aurora-documentation)
 - [Storage](storage)
 - [High Availability (HA)](databases/sql-databases/aws-aurora/high-availability-ha.md)
+- [High Availability (HA) Others](databases/sql-databases/aws-aurora/high-availability-ha-others.md)
+- [Aurora Global Databases](databases/sql-databases/aws-aurora/aurora-global-databases.md)
 - [Configurations / Optimizations / Best Practices](configurations-optimizations-best-practices)
 - [Monitoring](databases/sql-databases/aws-aurora/monitoring.md)
 - [Backup](databases/sql-databases/aws-aurora/backup.md)
