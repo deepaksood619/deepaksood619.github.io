@@ -18,8 +18,8 @@
 <meta name="theme-color" content="rgb(47, 133, 85)">
 
 <script src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5616865131274062" async crossorigin="anonymous"></script><link rel="stylesheet" href="/assets/css/styles.1aa998db.css">
-<script src="/assets/js/runtime~main.77b4d975.js" defer="defer"></script>
-<script src="/assets/js/main.709e7245.js" defer="defer"></script>
+<script src="/assets/js/runtime~main.73f5ea50.js" defer="defer"></script>
+<script src="/assets/js/main.8af59939.js" defer="defer"></script>
 </head>
 <body class="navigation-with-keyboard">
 <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TN3KBF4" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
@@ -53,10 +53,78 @@
 <li>Predicted storage growth exceeding the current allocated storage size in the next 7 hours based on the <code>FreeStorageSpace</code> metrics from the past hour.</li>
 </ul>
 <p><a href="https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/USER_PIOPS.StorageTypes.html" target="_blank" rel="noopener noreferrer">Working with storage for Amazon RDS DB instances - Amazon Relational Database Service</a></p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="replication">Replication<a href="#replication" class="hash-link" aria-label="Direct link to Replication" title="Direct link to Replication">​</a></h2>
+<p><a href="https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/USER_MySQL.Replication.ReadReplicas.html" target="_blank" rel="noopener noreferrer">Working with MySQL read replicas - Amazon Relational Database Service</a></p>
+<p>You can create up to 15 read replicas from one DB instance within the same Region. For replication to operate effectively, each read replica should have the same amount of compute and storage resources as the source DB instance. If you scale the source DB instance, also scale the read replicas.</p>
+<p>RDS for MySQL supports cascading read replicas.</p>
+<p>You can run multiple read replica create and delete actions at the same time that reference the same source DB instance. When you perform these actions, stay within the limit of 15 read replicas for each source instance.</p>
+<p>A read replica of a MySQL DB instance can&#x27;t use a lower DB engine version than its source DB instance.</p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="configuring-replication-filters-with-mysql">Configuring replication filters with MySQL<a href="#configuring-replication-filters-with-mysql" class="hash-link" aria-label="Direct link to Configuring replication filters with MySQL" title="Direct link to Configuring replication filters with MySQL">​</a></h3>
+<p>You can use replication filters to specify which databases and tables are replicated with a read replica. Replication filters can include databases and tables in replication or exclude them from replication.</p>
+<p>The following are some use cases for replication filters:</p>
+<ul>
+<li>To reduce the size of a read replica. With replication filtering, you can exclude the databases and tables that aren&#x27;t needed on the read replica.</li>
+<li>To exclude databases and tables from read replicas for security reasons.</li>
+<li>To replicate different databases and tables for specific use cases at different read replicas. For example, you might use specific read replicas for analytics or sharding.</li>
+<li>For a DB instance that has read replicas in different AWS Regions, to replicate different databases or tables in different AWS Regions.</li>
+</ul>
+<h4 class="anchor anchorWithStickyNavbar_LWe7" id="setting-replication-filtering-parameters-for-rds-for-mysql">Setting replication filtering parameters for RDS for MySQL<a href="#setting-replication-filtering-parameters-for-rds-for-mysql" class="hash-link" aria-label="Direct link to Setting replication filtering parameters for RDS for MySQL" title="Direct link to Setting replication filtering parameters for RDS for MySQL">​</a></h4>
+<p>To configure replication filters, set the following replication filtering parameters on the read replica:</p>
+<ul>
+<li>
+<p><code>replicate-do-db</code> – Replicate changes to the specified databases. When you set this parameter for a read replica, only the databases specified in the parameter are replicated.</p>
+</li>
+<li>
+<p><code>replicate-ignore-db</code> – Don&#x27;t replicate changes to the specified databases. When the <code>replicate-do-db</code> parameter is set for a read replica, this parameter isn&#x27;t evaluated.</p>
+</li>
+<li>
+<p><code>replicate-do-table</code> – Replicate changes to the specified tables. When you set this parameter for a read replica, only the tables specified in the parameter are replicated. Also, when the <code>replicate-do-db</code> or <code>replicate-ignore-db</code> parameter is set, make sure to include the database that includes the specified tables in replication with the read replica.</p>
+</li>
+<li>
+<p><code>replicate-ignore-table</code> – Don&#x27;t replicate changes to the specified tables. When the <code>replicate-do-table</code> parameter is set for a read replica, this parameter isn&#x27;t evaluated.</p>
+</li>
+<li>
+<p><code>replicate-wild-do-table</code> – Replicate tables based on the specified database and table name patterns. The <code>%</code> and <code>_</code> wildcard characters are supported. When the <code>replicate-do-db</code> or <code>replicate-ignore-db</code> parameter is set, make sure to include the database that includes the specified tables in replication with the read replica.</p>
+</li>
+<li>
+<p><code>replicate-wild-ignore-table</code> – Don&#x27;t replicate tables based on the specified database and table name patterns. The <code>%</code> and <code>_</code> wildcard characters are supported. When the <code>replicate-do-table</code> or <code>replicate-wild-do-table</code> parameter is set for a read replica, this parameter isn&#x27;t evaluated.</p>
+</li>
+</ul>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="configuring-delayed-replication-with-mysql">Configuring delayed replication with MySQL<a href="#configuring-delayed-replication-with-mysql" class="hash-link" aria-label="Direct link to Configuring delayed replication with MySQL" title="Direct link to Configuring delayed replication with MySQL">​</a></h3>
+<p>You can use delayed replication as a strategy for disaster recovery. With delayed replication, you specify the minimum amount of time, in seconds, to delay replication from the source to the read replica. In the event of a disaster, such as a table deleted unintentionally, you complete the following steps to recover from the disaster quickly:</p>
+<ul>
+<li>
+<p>Stop replication to the read replica before the change that caused the disaster is sent to it.</p>
+<p>Use the <a href="https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/mysql-stored-proc-replicating.html#mysql_rds_stop_replication" target="_blank" rel="noopener noreferrer">mysql.rds_stop_replication</a> stored procedure to stop replication.</p>
+</li>
+<li>
+<p>Start replication and specify that replication stops automatically at a log file location.</p>
+<p>You specify a location just before the disaster using the <a href="https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/mysql-stored-proc-replicating.html#mysql_rds_start_replication_until" target="_blank" rel="noopener noreferrer">mysql.rds_start_replication_until</a> stored procedure.</p>
+</li>
+<li>
+<p>Promote the read replica to be the new source DB instance by using the instructions in <a href="https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/USER_ReadRepl.html#USER_ReadRepl.Promote" target="_blank" rel="noopener noreferrer">Promoting a read replica to be a standalone DB instance</a>.</p>
+</li>
+</ul>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="using-cascading-read-replicas-with-rds-for-mysql">Using cascading read replicas with RDS for MySQL<a href="#using-cascading-read-replicas-with-rds-for-mysql" class="hash-link" aria-label="Direct link to Using cascading read replicas with RDS for MySQL" title="Direct link to Using cascading read replicas with RDS for MySQL">​</a></h3>
+<p>RDS for MySQL supports cascading read replicas. With <em>cascading read replicas</em>, you can scale reads without adding overhead to your source RDS for MySQL DB instance.</p>
+<p>With cascading read replicas, your RDS for MySQL DB instance sends data to the first read replica in the chain. That read replica then sends data to the second replica in the chain, and so on. The end result is that all read replicas in the chain have the changes from the RDS for MySQL DB instance, but without the overhead solely on the source DB instance.</p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="promoting-read-replica">Promoting Read Replica<a href="#promoting-read-replica" class="hash-link" aria-label="Direct link to Promoting Read Replica" title="Direct link to Promoting Read Replica">​</a></h3>
+<p>You can promote a read replica into a standalone DB instance. If a source DB instance has several read replicas, promoting one of the read replicas to a DB instance has no effect on the other replicas.</p>
+<p>When you promote a read replica, RDS reboots the DB instance before making it available. The promotion process can take several minutes or longer to complete, depending on the size of the read replica.</p>
+<p><a href="https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/USER_ReadRepl.html#USER_ReadRepl.Promote" target="_blank" rel="noopener noreferrer">Working with DB instance read replicas - Amazon Relational Database Service</a></p>
+<p><a href="https://stackoverflow.com/questions/13730515/what-all-happens-when-we-promote-a-read-replica-to-separate-rds-instance" target="_blank" rel="noopener noreferrer">amazon web services - What all happens when we promote a read replica to separate RDS instance? - Stack Overflow</a></p>
+<h4 class="anchor anchorWithStickyNavbar_LWe7" id="characteristics-of-a-promoted-read-replica">Characteristics of a promoted read replica<a href="#characteristics-of-a-promoted-read-replica" class="hash-link" aria-label="Direct link to Characteristics of a promoted read replica" title="Direct link to Characteristics of a promoted read replica">​</a></h4>
+<p>After you promote the read replica, it ceases to function as a read replica and becomes a standalone DB instance. The new standalone DB instance has the following characteristics:</p>
+<ul>
+<li>The standalone DB instance retains the option group and the parameter group of the pre-promotion read replica.</li>
+<li>You can create read replicas from the standalone DB instance and perform point-in-time restore operations.</li>
+<li>You can&#x27;t use the DB instance as a replication target because it is no longer a read replica.</li>
+</ul>
 <h2 class="anchor anchorWithStickyNavbar_LWe7" id="links">Links<a href="#links" class="hash-link" aria-label="Direct link to Links" title="Direct link to Links">​</a></h2>
 <ul>
+<li><a href="/databases/sql-databases/aws-aurora/high-availability-ha">High Availability (HA)</a></li>
 <li><a href="/databases/sql-databases/aws-aurora/costs">Amazon Aurora Costs</a></li>
 <li><a href="https://aws.amazon.com/blogs/database/optimizing-costs-in-amazon-rds/" target="_blank" rel="noopener noreferrer">Optimizing costs in Amazon RDS | AWS Database Blog</a></li>
-</ul></div><footer class="theme-doc-footer docusaurus-mt-lg"><div class="theme-doc-footer-edit-meta-row row"><div class="col"><a href="https://github.com/deepaksood619/deepaksood619.github.io/tree/master/docs/databases/sql-databases/amazon-rds.md" target="_blank" rel="noopener noreferrer" class="theme-edit-this-page"><svg fill="currentColor" height="20" width="20" viewBox="0 0 40 40" class="iconEdit_Z9Sw" aria-hidden="true"><g><path d="m34.5 11.7l-3 3.1-6.3-6.3 3.1-3q0.5-0.5 1.2-0.5t1.1 0.5l3.9 3.9q0.5 0.4 0.5 1.1t-0.5 1.2z m-29.5 17.1l18.4-18.5 6.3 6.3-18.4 18.4h-6.3v-6.2z"></path></g></svg>Edit this page</a></div><div class="col lastUpdated_vwxv"><span class="theme-last-updated">Last updated<!-- --> on <b><time datetime="2024-05-02T17:21:44.000Z">May 2, 2024</time></b></span></div></div></footer></article><nav class="pagination-nav docusaurus-mt-lg" aria-label="Docs pages"><a class="pagination-nav__link pagination-nav__link--prev" href="/databases/sql-databases/"><div class="pagination-nav__sublabel">Previous</div><div class="pagination-nav__label">SQL Databases</div></a><a class="pagination-nav__link pagination-nav__link--next" href="/databases/sql-databases/aws-aurora/"><div class="pagination-nav__sublabel">Next</div><div class="pagination-nav__label">AWS Aurora</div></a></nav></div></div><div class="col col--3"><div class="tableOfContents_bqdL thin-scrollbar theme-doc-toc-desktop"><ul class="table-of-contents table-of-contents__left-border"><li><a href="#storage" class="table-of-contents__link toc-highlight">Storage</a></li><li><a href="#amazon-rds-proxy" class="table-of-contents__link toc-highlight">Amazon RDS Proxy</a></li><li><a href="#storage-1" class="table-of-contents__link toc-highlight">Storage</a><ul><li><a href="#managing-capacity-automatically-with-amazon-rds-storage-autoscaling" class="table-of-contents__link toc-highlight">Managing capacity automatically with Amazon RDS storage autoscaling</a></li></ul></li><li><a href="#links" class="table-of-contents__link toc-highlight">Links</a></li></ul></div></div></div></div></main></div></div></div><footer class="footer footer--dark"><div class="container container-fluid"><div class="footer__bottom text--center"><div class="footer__copyright">Copyright © 2024 Deep Notes, Built with ❤️</div></div></div></footer></div>
+</ul></div><footer class="theme-doc-footer docusaurus-mt-lg"><div class="theme-doc-footer-edit-meta-row row"><div class="col"><a href="https://github.com/deepaksood619/deepaksood619.github.io/tree/master/docs/databases/sql-databases/amazon-rds.md" target="_blank" rel="noopener noreferrer" class="theme-edit-this-page"><svg fill="currentColor" height="20" width="20" viewBox="0 0 40 40" class="iconEdit_Z9Sw" aria-hidden="true"><g><path d="m34.5 11.7l-3 3.1-6.3-6.3 3.1-3q0.5-0.5 1.2-0.5t1.1 0.5l3.9 3.9q0.5 0.4 0.5 1.1t-0.5 1.2z m-29.5 17.1l18.4-18.5 6.3 6.3-18.4 18.4h-6.3v-6.2z"></path></g></svg>Edit this page</a></div><div class="col lastUpdated_vwxv"><span class="theme-last-updated">Last updated<!-- --> on <b><time datetime="2024-05-04T18:15:09.000Z">May 4, 2024</time></b></span></div></div></footer></article><nav class="pagination-nav docusaurus-mt-lg" aria-label="Docs pages"><a class="pagination-nav__link pagination-nav__link--prev" href="/databases/sql-databases/"><div class="pagination-nav__sublabel">Previous</div><div class="pagination-nav__label">SQL Databases</div></a><a class="pagination-nav__link pagination-nav__link--next" href="/databases/sql-databases/aws-aurora/"><div class="pagination-nav__sublabel">Next</div><div class="pagination-nav__label">AWS Aurora</div></a></nav></div></div><div class="col col--3"><div class="tableOfContents_bqdL thin-scrollbar theme-doc-toc-desktop"><ul class="table-of-contents table-of-contents__left-border"><li><a href="#storage" class="table-of-contents__link toc-highlight">Storage</a></li><li><a href="#amazon-rds-proxy" class="table-of-contents__link toc-highlight">Amazon RDS Proxy</a></li><li><a href="#storage-1" class="table-of-contents__link toc-highlight">Storage</a><ul><li><a href="#managing-capacity-automatically-with-amazon-rds-storage-autoscaling" class="table-of-contents__link toc-highlight">Managing capacity automatically with Amazon RDS storage autoscaling</a></li></ul></li><li><a href="#replication" class="table-of-contents__link toc-highlight">Replication</a><ul><li><a href="#configuring-replication-filters-with-mysql" class="table-of-contents__link toc-highlight">Configuring replication filters with MySQL</a></li><li><a href="#configuring-delayed-replication-with-mysql" class="table-of-contents__link toc-highlight">Configuring delayed replication with MySQL</a></li><li><a href="#using-cascading-read-replicas-with-rds-for-mysql" class="table-of-contents__link toc-highlight">Using cascading read replicas with RDS for MySQL</a></li><li><a href="#promoting-read-replica" class="table-of-contents__link toc-highlight">Promoting Read Replica</a></li></ul></li><li><a href="#links" class="table-of-contents__link toc-highlight">Links</a></li></ul></div></div></div></div></main></div></div></div><footer class="footer footer--dark"><div class="container container-fluid"><div class="footer__bottom text--center"><div class="footer__copyright">Copyright © 2024 Deep Notes, Built with ❤️</div></div></div></footer></div>
 </body>
 </html>
