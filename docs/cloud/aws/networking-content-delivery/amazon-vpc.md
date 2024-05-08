@@ -147,6 +147,8 @@ SG - Security Groups
 
 https://docs.aws.amazon.com/vpc/latest/userguide/vpc-eips.html
 
+[AWS supports dynamically removing and adding auto assigned public IPv4 address](https://aws.amazon.com/about-aws/whats-new/2024/04/removing-adding-auto-assigned-public-ipv4-address/)
+
 ### Changes (Migrate from ipv4 to ipv6)
 
 Effective February 1, 2024 there will be a charge of $0.005 per IP per hour for all public IPv4 addresses, whether attached to a service or not (there is already a charge for public IPv4 addresses you allocate in your account but don’t attach to an EC2 instance).

@@ -5,6 +5,7 @@
 3. ⁠Aurora MySQL - [AWS Pricing Calculator](https://calculator.aws/#/estimate?id=814a47de14501bd81ae41433ed31dcf94963c626)
 4. ⁠⁠RDS MySQL
 5. ⁠⁠MySQL on EC2 (self managed)
+6. Aurora Limitless
 
 ### Instances
 

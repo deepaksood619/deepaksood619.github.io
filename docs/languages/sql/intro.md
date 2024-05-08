@@ -45,6 +45,7 @@ https://launchbylunch.com/posts/2014/Feb/16/sql-naming-conventions
 
 ### Games
 
+- [Solve SQL | HackerRank](https://www.hackerrank.com/domains/sql)
 - https://mystery.knightlab.com
 - https://selectstarsql.com
 - https://littlekendra.com/course-category/sqlchallenges

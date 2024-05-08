@@ -78,6 +78,21 @@ https://aws.amazon.com/about-aws/whats-new/2020/12/multi-attach-support-now-avai
 
 [gp2 to gp3 migration for Amazon RDS | by Rajesh Kantamani | Medium](https://rajeshnoql.medium.com/gp2-to-gp3-migration-for-amazon-rds-cd3af879c4d7)
 
+## Underutilized EBS
+
+[Neglecting Underutilized EBS Volumes: A Costly Oversight in AWS | by puggy | Medium](https://medium.com/@alina.glumova/ignoring-unused-or-underutilized-ebs-volumes-a-costly-oversight-in-aws-9c3faf4f7575)
+
+[Is there a way to programmatically find unused EBS Volume usage? : r/aws](https://www.reddit.com/r/aws/comments/1c5nkfa/is_there_a_way_to_programmatically_find_unused/)
+
+[Controlling your AWS costs by deleting unused Amazon EBS volumes | AWS Cloud Operations & Migrations Blog](https://aws.amazon.com/blogs/mt/controlling-your-aws-costs-by-deleting-unused-amazon-ebs-volumes/)
+
+## Decreasing Size
+
+[Can I reduce an over-sized EBS volume? | AWS re:Post](https://repost.aws/questions/QUPe0ekJ79TpaI-TNGoPXIKQ/can-i-reduce-an-over-sized-ebs-volume)
+
 ## Links
 
 - [EBS vs NVMe: Don’t Use EBS for Cloud Native Services](https://www.vantage.sh/blog/ebs-vs-nvme-pricing-performance)
+- [Recycle Bin - Amazon Elastic Compute Cloud](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/recycle-bin.html)
+- [Delete an Amazon EBS snapshot - Amazon EBS](https://docs.aws.amazon.com/ebs/latest/userguide/ebs-deleting-snapshot.html#ebs-delete-snapshot)
+- [Deregister (delete) an AMI - Amazon Elastic Compute Cloud](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/deregister-ami.html)

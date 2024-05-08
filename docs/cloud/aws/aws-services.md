@@ -53,6 +53,10 @@
 
 [Amazon CloudWatch Application Insights - Amazon CloudWatch](https://docs.aws.amazon.com/AmazonCloudWatch/latest/monitoring/cloudwatch-application-insights.html)
 
+#### Cost Optimizing
+
+[Determine which log group is causing a bill increase | AWS re:Post](https://repost.aws/knowledge-center/cloudwatch-logs-bill-increase)
+
 ### 2. AWS Auto Scaling
 
 Scale Multiple Resources to Meet Demand

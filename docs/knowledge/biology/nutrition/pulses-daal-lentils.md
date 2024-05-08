@@ -52,7 +52,7 @@ Mix a handful of sprouted Saabut moong daal in a bowl of yogurt, season with sal
 
 ![image](../../../media/Nutrition_Pulses-Daal-Lentils-image4.jpg)
 
-Moongdaal, has had its olive green skin removed and is split. It is a golden yellow color and turns slightly lighter when cooked.
+Moong daal, has had its olive green skin removed and is split. It is a golden yellow color and turns slightly lighter when cooked.
 
 Moong does not need soaking prior to being cooked as it is a "soft" daal.
 
@@ -67,7 +67,7 @@ Moong does not need soaking prior to being cooked as it is a "soft" daal.
 
 ![image](../../../media/Nutrition_Pulses-Daal-Lentils-image5.jpg)
 
-Toor/tuvarorarhardaal, is most commonly sold and cooked in its split, skinless form. With its skin on, it is a greenish-brown color and without its skin, yellow.
+Toor/tuvar or arhar daal, is most commonly sold and cooked in its split, skinless form. With its skin on, it is a greenish-brown color and without its skin, yellow.
 
 Toor daal looks a lot like chana daal but has smaller, more yellow-colored grains. It is especially popular in the west and south India. It cooks quickly and does not require soaking in advance.
 

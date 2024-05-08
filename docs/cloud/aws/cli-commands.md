@@ -82,6 +82,12 @@ aws s3 sync . s3://deep-personal-bucket/photos --storage-class DEEP_ARCHIVE --cl
 aws s3 cp abc.zip s3://deep-personal-bucket/photos/abc.zip --storage-class DEEP_ARCHIVE
 ```
 
+## Cleanups
+
+```bash
+aws ec2 describe-volumes --filter Name=status,Values=available
+```
+
 ## Tools
 
 ### awslog

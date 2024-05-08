@@ -76,6 +76,8 @@ Compute Optimizer generates recommendations for the following resources:
 - We can use AWS Trusted Advisor service that provides best practice recommendations across various categories, including cost optimization.
 - While it may not directly recommend RDS resizing, it offers insights into cost-effective resource utilization and can highlight opportunities for optimization.
 
+[Organizational view for AWS Trusted Advisor - AWS Support](https://docs.aws.amazon.com/awssupport/latest/user/organizational-view.html)
+
 ## CUDOS Dashboard / CID (Cloud Intelligence Dashboard)
 
 - [Workshop Studio](https://catalog.workshops.aws/awscid/en-US/faqs)
@@ -83,6 +85,24 @@ Compute Optimizer generates recommendations for the following resources:
 - [d1s0yx3p3y3rah.cloudfront.net/anonymous-embed?dashboard=cudos](https://d1s0yx3p3y3rah.cloudfront.net/anonymous-embed?dashboard=cudos)
 - [Using CUDOS Dashboard visualizations for AWS Marketplace spend visibility and optimization | AWS Marketplace](https://aws.amazon.com/blogs/awsmarketplace/using-cudos-dashboard-visualizations-aws-marketplace-spend-visibility-optimization/)
 - [Visualize and gain insights into your AWS cost and usage with Cloud Intelligence Dashboards and CUDOS using Amazon QuickSight | AWS Cloud Operations & Migrations Blog](https://aws.amazon.com/blogs/mt/visualize-and-gain-insights-into-your-aws-cost-and-usage-with-cloud-intelligence-dashboards-using-amazon-quicksight/)
+
+## Savings plan Utilization Report and Coverage Report
+
+**Utilization Report**: Measures the amount of the savings plan you are using. If it's less than 100% it means that you reserved more than you need.
+
+**Coverage Report**: Measures the percentage of your costs covered by the savings plan. If it's less than 100%, you can increase your savings plan to optimize costs.
+
+Ideally, both should be 100%, but I would say that it's more important to keep the utilization report at 100% because it's already a fixed cost that you already acquired. The coverage report indicates further improvement opportunities to reduce costs.
+
+[amazon web services - Difference Between AWS SAVING PLAN Coverage Report vs Utilization Report - Stack Overflow](https://stackoverflow.com/questions/72490474/difference-between-aws-saving-plan-coverage-report-vs-utilization-report)
+
+[Using the utilization report - Savings Plans](https://docs.aws.amazon.com/savingsplans/latest/userguide/ce-sp-usingPR.html)
+
+[Using your coverage report - Savings Plans](https://docs.aws.amazon.com/savingsplans/latest/userguide/ce-sp-usingCR.html)
+
+## Reservations Utilization Report and Coverage Report
+
+[Reserved Instance Reporting](https://aws.amazon.com/aws-cost-management/reserved-instance-reporting/)
 
 ## Other Tools
 

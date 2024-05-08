@@ -42,6 +42,10 @@ Data Lab has three offerings - the Build Lab, the Design Lab, and Resident Archi
 
 [AWS expands Amazon Managed Blockchain with Access and Query | AWS Database Blog](https://aws.amazon.com/blogs/database/aws-expands-amazon-managed-blockchain-with-access-and-query/)
 
+## AWS Tag Editor
+
+[Using Tag Editor - Tagging AWS Resources](https://docs.aws.amazon.com/tag-editor/latest/userguide/tag-editor.html)
+
 ## Others
 
 [What is myApplications on AWS - AWS Management Console](https://docs.aws.amazon.com/awsconsolehelpdocs/latest/gsg/aws-myApplications.html)

@@ -13,11 +13,11 @@ Aurora global databases are designed for applications with a worldwide footprint
 By using Aurora global databases, you can get the following advantages:
 
 - **Global reads with local latency** – If you have offices around the world, you can use an Aurora global database to keep your main sources of information updated in the primary AWS Region. Offices in your other Regions can access the information in their own Region, with local latency.
-    
+
 - **Scalable secondary Aurora DB clusters** – You can scale your secondary clusters by adding more read-only instances (Aurora Replicas) to a secondary AWS Region. The secondary cluster is read-only, so it can support up to 16 read-only Aurora Replica instances rather than the usual limit of 15 for a single Aurora cluster.
-    
+
 - **Fast replication from primary to secondary Aurora DB clusters** – The replication performed by an Aurora global database has little performance impact on the primary DB cluster. The resources of the DB instances are fully devoted to serve application read and write workloads.
-    
+
 - **Recovery from Region-wide outages** – The secondary clusters allow you to make an Aurora global database available in a new primary AWS Region more quickly (lower RTO) and with less data loss (lower RPO) than traditional replication solutions.
 
 ## Using write forwarding in an Amazon Aurora global database
@@ -37,3 +37,11 @@ Read replicas receive updates asynchronously from the writer. Without write forw
 Write forwarding avoids the need to split those transactions or send them exclusively to the writer, which simplifies application development. This new capability makes it easy to achieve read scale for workloads that need to read the latest write in a transaction and aren't sensitive to write latency.
 
 [Using local write forwarding in an Amazon Aurora MySQL DB cluster - Amazon Aurora](https://docs.aws.amazon.com/AmazonRDS/latest/AuroraUserGuide/aurora-mysql-write-forwarding.html)
+
+## Aurora Limitless
+
+[Announcing Amazon Aurora Limitless Database](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-aurora-limitless-database/)
+
+Amazon Aurora Limitless Database, which enables you to scale your Amazon Aurora clusters to millions of write transactions per second and manage petabytes of data. With this new capability, you can scale your relational database workloads on Aurora beyond the limits of a single Aurora writer instance without needing to create custom application logic or manage multiple databases.
+
+Aurora Limitless Database makes it easy for you to scale your relational database workloads by providing a serverless endpoint that automatically distributes data and queries across multiple Amazon Aurora Serverless instances while maintaining the transactional consistency of a single database. Aurora Limitless Database offers capabilities such as distributed query planning and transaction management, eliminating the need for you to create custom solutions or manage multiple databases to scale. As your workloads increase, Aurora Limitless Database adds additional compute resources while staying within your specified budget, so there is no need to provision for peak, and compute automatically scales down when demand is low.
