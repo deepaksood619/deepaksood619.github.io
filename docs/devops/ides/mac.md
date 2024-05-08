@@ -258,6 +258,7 @@ Unchecking the "User interface sounds" doesn't disable all sound. But sliding th
 - Search the current folder
 - Show seconds and date in clock
 - Show percent in battery
+- Show bluetooth status in status bar
 - touch id
 - Keyboard - Delay until repeat - short
 - Display text larger

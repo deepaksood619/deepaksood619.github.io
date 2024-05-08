@@ -204,3 +204,4 @@ ORDER BY passenger_count;
 - [DataOps Barcelona 2018 - Clickhouse Use Cases - YouTube](https://www.youtube.com/watch?v=P7O6HRbFkL8&ab_channel=binlogic)
 - [YouTube](https://www.youtube.com/watch?v=fGG9dApIhDU&ab_channel=CMUDatabaseGroup)
 - [The Secrets of ClickHouse Performance Optimizations at BDTC 2019 - YouTube](https://www.youtube.com/watch?v=ZOZQCQEtrz8&ab_channel=ClickHouse)
+- [Didi Migrates from Elasticsearch to ClickHouse for a new Generation Log Storage System](https://clickhouse.com/blog/didi-migrates-from-elasticsearch-to-clickHouse-for-a-new-generation-log-storage-system)

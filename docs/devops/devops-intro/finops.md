@@ -93,6 +93,7 @@ The FinOps Framework includes capabilities that cover everything from cost analy
 1. [Spot.io](http://spot.io/) - Save up to 80% cost on EC2 using Spot instances.
 2. [Granulate.io](http://granulate.io/) - Optimise Kernel at OS level of a VM. Increase performance
 3. [Cloud cost oberservability, visibility & optimization | Amnic](https://amnic.com/)
+4. [CloudZero: The Cloud Cost Intelligence Platform](https://www.cloudzero.com/)
 
 ## Links
 

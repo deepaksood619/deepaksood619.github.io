@@ -178,3 +178,4 @@ MuleSoft is a platform that gives IT the tools to automate everything. This incl
 - https://temp-mail.org/en
 - https://trends.google.com/trends
 - [Automatic, AI-generated interview notes | Metaview](https://www.metaview.ai/)
+- [Krutrim - India's own AI](https://cloud.olakrutrim.com/)

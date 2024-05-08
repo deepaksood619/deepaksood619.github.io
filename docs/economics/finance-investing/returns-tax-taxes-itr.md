@@ -423,6 +423,10 @@ In this system, the tax is levied on the per unit price of the built-up area of 
 
 [Dearness Allowance - Meaning, Types, Taxation & How to Calculate?](https://scripbox.com/tax/dearness-allowance)
 
+## Inheritance Tax
+
+[Let's talk about inheritance tax](https://finshots.in/archive/lets-talk-about-inheritance-tax/)
+
 ## Links
 
 [How To (LEGALLY) Never Pay Taxes - Do This Today - YouTube](https://www.youtube.com/watch?v=248o4zc9RmI)

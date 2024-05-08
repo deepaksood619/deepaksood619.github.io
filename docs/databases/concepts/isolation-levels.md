@@ -75,11 +75,11 @@ Putting it in simpler words, **read committed is an isolation level that guarant
 This is the *lowest* isolation level. In this level, dirty reads are allowed, so one transaction may see *not-yet-committed* changes made by other transactions.
 
 | **Isolation level** | **Dirty reads** | **Lost updates** | **Non-repeatable reads** | **Phantoms** |
-|------------------|------------|-------------|--------------------|-----------|
+| ------------------- | --------------- | ---------------- | ------------------------ | ------------ |
 | Read Uncommitted    | may occur       | may occur        | may occur                | may occur    |
-| Read Committed      | don't occur    | may occur        | may occur                | may occur    |
-| Repeatable Read     | don't occur    | don't occur     | don't occur             | may occur    |
-| Serializable        | don't occur    | don't occur     | don't occur             | don't occur |
+| Read Committed      | don't occur     | may occur        | may occur                | may occur    |
+| Repeatable Read     | don't occur     | don't occur      | don't occur              | may occur    |
+| Serializable        | don't occur     | don't occur      | don't occur              | don't occur  |
 
 Isolation levels in distributed systems get more complicated. Many distributed systems implement variations of the serializable isolation level, such as **one copy-serializability (1SR), strict serializability (strict 1SR)orupdate serializability (US)**. Of those, [**"strict serializability"** is the most perfect](https://fauna.com/blog/serializability-vs-strict-serializability-the-dirty-secret-of-database-isolation-levels) of those serializable options.
 

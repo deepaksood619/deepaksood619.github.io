@@ -17,6 +17,7 @@
 - [Institute of Human Anatomy - YouTube](https://www.youtube.com/@TheAnatomyLab)
 - [NileRed - YouTube](https://www.youtube.com/@NileRed)
 - [Science - YouTube](https://www.youtube.com/@science-channel)
+- [PBS Terra - YouTube](https://www.youtube.com/@pbsterra)
 
 ### Inventions and Building Stuff / Engineering
 

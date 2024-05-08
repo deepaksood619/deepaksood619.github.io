@@ -52,6 +52,10 @@ As an example: the index we've just discussed `(last_name, first_name)` would no
 
 This is because we haven't specified any criteria for the last_name. The index we built doesn't sort first names in any logical distribution that would allow us to quickly search through them, so instead, we must fall back to a full table scan. (refer back to the example pic above).
 
+### Online Create Index
+
+In MySQL 5.6 and higher, the table remains available for read and write operations while the index is being created or dropped. The CREATE INDEX or DROP INDEX statement only finishes after all transactions that are accessing the table are completed, so that the initial state of the index reflects the most recent contents of the table. Previously, modifying the table while an index is being created or dropped typically resulted in a deadlock that cancelled the INSERT, UPDATE, or DELETE statement on the table.
+
 ## Examples
 
 ```sql
@@ -86,13 +90,13 @@ When you define a `PRIMARY KEY` on your table, InnoDB uses it as the clustered i
 
 If you do not define a PRIMARY KEY for your table, MySQL locates the first UNIQUE index where all the key columns are NOT NULL and InnoDB uses it as the clustered index.
 
-If the table has no PRIMARY KEY or suitable UNIQUE index,InnoDB internally generates a hidden clustered index named GEN_CLUST_INDEX on a synthetic column containing row ID values. The rows are ordered by the ID that InnoDB assigns to the rows in such a table. The row ID is a 6-byte field that increases monotonically as new rows are inserted. Thus, the rows ordered by the row ID are physically in insertion order.
+If the table has no PRIMARY KEY or suitable UNIQUE index, InnoDB internally generates a hidden clustered index named GEN_CLUST_INDEX on a synthetic column containing row ID values. The rows are ordered by the ID that InnoDB assigns to the rows in such a table. The row ID is a 6-byte field that increases monotonically as new rows are inserted. Thus, the rows ordered by the row ID are physically in insertion order.
 
 In short, the MySQL InnoDB engine actually manages the primary index as clustered index for improving performance, so the primary key & the actual record on disk are clustered together.
 
 ## secondary index
 
-A type of InnoDB index that represents a subset of table columns. An InnoDB table can have zero, one, or many secondary indexes. (Contrast with theclustered index, which is required for each InnoDB table, and stores the data for all the table columns.)
+A type of InnoDB index that represents a subset of table columns. An InnoDB table can have zero, one, or many secondary indexes. (Contrast with the clustered index, which is required for each InnoDB table, and stores the data for all the table columns.)
 
 A secondary index can be used to satisfy queries that only require values from the indexed columns. For more complex queries, it can be used to identify the relevant rows in the table, which are then retrieved through lookups using the clustered index.
 
@@ -100,7 +104,7 @@ Creating and dropping secondary indexes has traditionally involved significant o
 
 ## search index
 
-In MySQL,full-text searchqueries use a special kind of index, theFULLTEXT index. In MySQL 5.6.4 and up, InnoDB and MyISAM tables both support FULLTEXT indexes; formerly, these indexes were only available for MyISAM tables.
+In MySQL, full-text search queries use a special kind of index, the FULLTEXT index. In MySQL 5.6.4 and up, InnoDB and MyISAM tables both support FULLTEXT indexes; formerly, these indexes were only available for MyISAM tables.
 
 By default MySQL will ignore any word that is in 50% or more of the rows in the table as it considers it would be a 'noise' word.
 
@@ -298,7 +302,9 @@ This isn't a range, we can't use a B-Tree to traverse this obviously. Imagine yo
 - WHERE a > 1 AND b =3 AND c = 4*** Uses only first part of index
 - WHERE a = 1 AND b > 3 AND c = 4*** Uses first 2 parts of index
 - WHERE a = 1 AND b = 3 AND c = 4*** Uses all of index
+
 In general all of the below could leave an index unusable:
+
 - !=
 - less than equal to operator
 - NOT LIKE, NOT IN...
@@ -308,7 +314,9 @@ In general all of the below could leave an index unusable:
 ## Don't use functions in your queries
 
 MySQL generally can't use indexes on columns unless the columns are isolated in the query. So don't use functions or expressions in your queries.
-The second you dofunc(column) on leftyou can't use the index and a full table scan will occur.
+
+The second you do func(column) on left you can't use the index and a full table scan will occur.
+
 Examples:
 
 - WHERE id+3 = 4;*** BAD
@@ -328,6 +336,7 @@ Over indexing can hurt performance due to overheads
 The drawback of having too many indexes is the maintenance cost.
 
 Adding new indexes might have a performance impact for INSERT, UPDATE, and DELETE operations, especially if a new index causes you to hit memory limits.
+
 Every time you perform a write on a table, the indexes will need to be maintained. Furthermore when you run a query, each index must be considered by the MySQL Optimizer.
 
 - If there is an index on (A, B), adding another index (A) would be redundant because it is a prefix of the first index. That is, the index on (A, B) can already be used as an index for column A alone.
@@ -369,7 +378,6 @@ Therefore, we recommend to avoid such OR conditions and consider splitting the q
 
 ```sql
 -- show cardinality of a table
-
 SHOW INDEXES FROM table_name;
 ```
 

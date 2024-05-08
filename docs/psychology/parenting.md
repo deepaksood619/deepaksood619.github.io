@@ -179,3 +179,5 @@ Why kicking out children after 18 years is important, let's say you are very wea
 - [Toddler Naptime Guide and Schedules](https://www.whattoexpect.com/toddler-naps.aspx)
 - [Could Your Baby Be Going Through a 12-Month Sleep Regression?](https://www.whattoexpect.com/first-year/sleep/12-month-sleep-regression/)
 - [11 month old, first week | BabyCentre](https://www.babycentre.co.uk/s1001682/11-month-old-first-week)
+- [What to Do if Your Baby Is Waking Up in the Middle of the Night](https://www.whattoexpect.com/first-year/ask-heidi/month-9/sudden-night-wakings.aspx)
+- [12-Month-Old Baby: Milestones and Development](https://www.whattoexpect.com/toddler/12-month-old/)

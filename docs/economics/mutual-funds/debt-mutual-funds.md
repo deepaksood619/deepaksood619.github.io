@@ -150,3 +150,4 @@ Taxation - LTCG - If holding is more than 36 months) - Debt Fund (20% with Index
 - [Important debt fund jargon - YouTube](https://www.youtube.com/watch?v=A3eDo9O5K4w)
 - [Should I Move Money from FD to Debt Funds? | Mutual Fund Monday | Gaurav Jain - YouTube](https://www.youtube.com/watch?v=fOBaa2e3mcI&ab_channel=YadnyaInvestmentAcademy)
 - [Make 15% RETURN on Debt Mutual Funds & GOI Bonds | Just 10% LTCG Tax | RBI Repo Rate 2024 - YouTube](https://www.youtube.com/watch?v=p6WjOkhB1dY&ab_channel=ShankarNath)
+- [Should I pay tax as per slab if my fund’s equity holdings drop to 35% for one month?](https://freefincal.com/should-i-pay-tax-as-per-slab-if-my-funds-equity-holdings-drop-to-35-for-one-month/)

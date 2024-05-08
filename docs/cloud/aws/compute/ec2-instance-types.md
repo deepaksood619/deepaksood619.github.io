@@ -98,6 +98,18 @@ It is possible to retrieve an instance’s IAM access key by accessing the `iam
 
 [Instance metadata and user data - Amazon Elastic Compute Cloud](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/ec2-instance-metadata.html)
 
+## EC2
+
+### AWS Systems Manager
+
+[Working with the file system - AWS Systems Manager](https://docs.aws.amazon.com/systems-manager/latest/userguide/fleet-file-management.html)
+
+### Instance Scheduler
+
+[Instance Scheduler on AWS](https://aws.amazon.com/solutions/implementations/instance-scheduler-on-aws/)
+
+[Automate starting and stopping AWS instances - Instance Scheduler on AWS](https://docs.aws.amazon.com/solutions/latest/instance-scheduler-on-aws/solution-overview.html)
+
 ## Bottlerocket
 
 Bottlerocket is a Linux-based open-source operating system that is purpose-built by Amazon Web Services for running containers on virtual machines or bare metal hosts. Most customers today run containerized applications on general-purpose operating systems that are updated package-by-package, which makes OS updates difficult to automate. Updates to Bottlerocket are applied in a single step rather than package-by-package. This single-step update process helps reduce management overhead by making OS updates easy to automate using container orchestration services such as Amazon EKS. The single-step updates also improve uptime for container applications by minimizing update failures and enabling easy update rollbacks. Additionally, Bottlerocket includes only the essential software to run containers, which improves resource usage and reduces the attack surface.

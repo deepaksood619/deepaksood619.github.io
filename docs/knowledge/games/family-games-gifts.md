@@ -9,6 +9,7 @@
 - https://www.herzindagi.com/society-culture/fun-entertaining-indoor-games-to-play-with-family-article-154895
 - Ludo
 - Snakes and ladders
+- [35 Fun Things to Do at Home as a Family](https://www.signupgenius.com/home/fun-things-to-do-family.cfm)
 
 ## Party
 
