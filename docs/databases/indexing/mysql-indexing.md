@@ -393,6 +393,10 @@ SHOW INDEXES FROM table_name;
 
 https://www.eversql.com/how-to-find-unused-indexes-in-a-mysql-database
 
+## Full table scans
+
+`select * from sys.x$statements_with_full_table_scans;`
+
 ## Rebuilding or Repairing Tables or Indexes
 
 Methods for rebuilding a table include

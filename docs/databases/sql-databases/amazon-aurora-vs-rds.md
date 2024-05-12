@@ -16,4 +16,3 @@
 - For both products, you should carefully examine the known issues and limitations listed here [https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/MySQL.KnownIssuesAndLimitations.html](https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/MySQL.KnownIssuesAndLimitations.html) and here [https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/Aurora.AuroraMySQL.html](https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/Aurora.AuroraMySQL.html).
 
 [AWS — Difference between Amazon Aurora and Amazon RDS | by Ashish Patel | Awesome Cloud | Medium](https://medium.com/awesome-cloud/aws-difference-between-amazon-aurora-and-amazon-rds-comparison-aws-aurora-vs-aws-rds-databases-60a69dbec41f)
-

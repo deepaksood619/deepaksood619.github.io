@@ -12,6 +12,10 @@ https://dev.to/realtrevorfaux/8-new-sql-tools-that-will-change-how-you-work-in-2
 - Edit>Format>Beautify Query - Shortcut - `CMD+B`
 - `*.*test` - search all objects that include test in their name
 - `*.test` - search all objects that names start with test
+- CMD+Enter - Run query
+- CMD + T - New Tab
+- select * from sys.x$statements_with_full_table_scans;
+- select * from sys.`x$statements_with_runtimes_in_95th_percentile`;
 
 ### Others
 

@@ -35,6 +35,11 @@ Blended costs are calculated by multiplying each account’s service usage again
 
 [AWS Cost Explorer now supports Hourly and Resource Level Granularity](https://aws.amazon.com/about-aws/whats-new/2019/11/aws-cost-explorer-supports-hourly-resource-level-granularity/)
 
+[Resource-level data at daily granularity - AWS Cost Management](https://docs.aws.amazon.com/cost-management/latest/userguide/ce-resource-daily.html)
+
+- In Cost Explorer, you can enable resource-level data for your chosen AWS services at daily granularity for the past 14 days.
+- We will disable resource-level data at daily granularity for your organization if no one in the organization accesses it in three consecutive months. However, if you need the data, you can re-enable it in Cost Management preferences.
+
 ### Cost Anomaly Detection
 
 [AWS Cost Anomaly Detection](https://aws.amazon.com/aws-cost-management/aws-cost-anomaly-detection/)

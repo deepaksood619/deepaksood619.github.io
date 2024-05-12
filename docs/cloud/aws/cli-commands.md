@@ -68,6 +68,15 @@ AWS_ACCESS_KEY_ID=XXX AWS_SECRET_ACCESS_KEY=XXX aws s3 cp s3://<folder_name>/sms
 
 aws iam delete-policy --policy-arn arn:aws:iam::331916247734:policy/ssh_update_policy
 
+# personal sync
+aws s3 sync . s3://deep-personal-bucket/photos --storage-class DEEP_ARCHIVE --cli-read-timeout 0 --cli-connect-timeout 0
+
+aws s3 cp abc.zip s3://deep-personal-bucket/photos/abc.zip --storage-class DEEP_ARCHIVE
+```
+
+## RDS + Route53
+
+```bash
 aws rds create-db-instance --db-instance-identifier <db_name> --db-cluster-identifier db_name --engine aurora-mysql --db-instance-class db.r5.2xlarge --availability-zone ap-south-1b
 
 aws rds delete-db-instance --db-instance-identifier <db_name>
@@ -76,10 +85,52 @@ aws rds modify-db-parameter-group --db-parameter-group-name [aurora-data-analyti
 
 aws rds modify-db-parameter-group --db-parameter-group-name aurora-prod-db-write-group --parameters "ParameterName='max_execution_time',ParameterValue=1500000,ApplyMethod=immediate"
 
-# personal sync
-aws s3 sync . s3://deep-personal-bucket/photos --storage-class DEEP_ARCHIVE --cli-read-timeout 0 --cli-connect-timeout 0
+aws rds create-db-instance-read-replica \
+--source-db-instance-identifier django-master \
+--db-instance-identifier django-daily \
+--availability-zone ap-south-1a \
+--db-instance-class db.m5.8xlarge \
+--no-multi-az \
+--storage-type gp3 \
+--enable-performance-insights \
+--performance-insights-kms-key-id 8044ba2e-b763-4649-b41f-ed4867e76f67 \ --performance-insights-retention-period 7 \
+--enable-cloudwatch-logs-exports slowquery \
+--no-deletion-protection \
+--allocated-storage 450 \
+--no-auto-minor-version-upgrade \
+--region ap-south-1
 
-aws s3 cp abc.zip s3://deep-personal-bucket/photos/abc.zip --storage-class DEEP_ARCHIVE
+aws rds delete-db-instance \ --db-instance-identifier django-daily \ --skip-final-snapshot \ --delete-automated-backups
+
+aws route53 change-resource-record-sets \ --hosted-zone-id Z2WU4CYBIL8UWQ \ --change-batch file://prod_rds_create.json
+```
+
+```json
+{
+   "Changes": [
+       {
+       "Action": "CREATE",
+        "ResourceRecordSet": {
+	   "Name": "a.example.com",
+	   "Type": "CNAME",
+	   "SetIdentifier": "daily-db",
+	   "Weight": 64,
+	   "TTL": 300,
+	   "ResourceRecords": [{  "Value": "daily-db.abc.ap-south-1.rds.amazonaws.com"} ]
+		}
+	   },
+	{
+	   "Action": "CREATE",
+	   "ResourceRecordSet": {
+		   "Name": "b.example.com",
+		   "Type": "CNAME",
+		   "SetIdentifier": "daily-db",
+		   "Weight": 64,
+		   "TTL": 300,
+		   "ResourceRecords": [{  "Value":"daily-db.abc.ap-south-1.rds.amazonaws.com"} ]
+	} }
+]
+}
 ```
 
 ## Cleanups

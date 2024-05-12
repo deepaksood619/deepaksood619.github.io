@@ -41,6 +41,7 @@ https://github.com/topics/jekyll-theme
 - reStructuredText (rST)
 - Sphinx
 - doxygen
+- Others - Company Knowledge Base - [obsidian](devops/ides/obsidian.md)
 
 ## Software documentation
 

@@ -2,6 +2,7 @@
 
 - [AWS Aurora](databases/sql-databases/aws-aurora/intro.md)
 - [Aurora Documentation](aurora-documentation)
+- [Aurora Serverless](databases/sql-databases/aws-aurora/aurora-serverless.md)
 - [Storage](storage)
 - [High Availability (HA)](databases/sql-databases/aws-aurora/high-availability-ha.md)
 - [High Availability (HA) Others](databases/sql-databases/aws-aurora/high-availability-ha-others.md)

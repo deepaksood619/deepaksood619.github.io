@@ -1079,4 +1079,6 @@ A tool is as powerful as a person wielding it.
 The tool is only as effective as the skilfulness of the hands that wield it.
 A tool is only as good as the person using it.
 
+90 90 rule - when you think you are done with 90% of tasks, you are left with 90% of tasks
+
 ## End

@@ -25,15 +25,16 @@ time.time()
 #### Time a running process
 
 ```python
- import time
+import time
 
- start_time = time.time()
- end_time = time.time()
- print("time taken = %4.4f seconds" % (end_time-start_time))
+start_time = time.time()
+end_time = time.time()
+print("time taken = ", time.strftime("%Hh%Mm%Ss", time.gmtime(end_time-start_time)))
+print("time taken = %4.4f seconds" % (end_time-start_time))
 
- start = time.perf_counter()
- elapsed = time.perf_counter()- start
-    print(f"finished in {elapsed:.02f}s")
+start = time.perf_counter()
+elapsed = time.perf_counter()- start
+print(f"finished in {elapsed:.02f}s")
 ```
 
 #### Python Timers (To monitor performance)
