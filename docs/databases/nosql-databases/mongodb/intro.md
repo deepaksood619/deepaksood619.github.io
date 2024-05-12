@@ -7,22 +7,22 @@ MongoDB is an open-source document database and leading NoSQL database. MongoDB 
 
 ## COMPONENTS
 
-mongod - The database server.
-mongos - Sharding router.
-mongo - The database shell (uses interactive javascript).
+- mongod - The database server.
+- mongos - Sharding router.
+- mongo - The database shell (uses interactive javascript).
 
 ## UTILITIES
 
-mongodump - Create a binary dump of the contents of a database.
-mongorestore - Restore data from the output created by mongodump.
-mongoexport - Export the contents of a collection to JSON or CSV.
-mongoimport - Import data from JSON, CSV or TSV.
-mongofiles - Put, get and delete files from GridFS.
-mongostat - Show the status of a running mongod/mongos.
-bsondump - Convert BSON files into human-readable formats.
-mongoreplay - Traffic capture and replay tool.
-mongotop - Track time spent reading and writing data.
-install_compass - Installs MongoDB Compass for your platform.
+- mongodump - Create a binary dump of the contents of a database.
+- mongorestore - Restore data from the output created by mongodump.
+- mongoexport - Export the contents of a collection to JSON or CSV.
+- mongoimport - Import data from JSON, CSV or TSV.
+- mongofiles - Put, get and delete files from GridFS.
+- mongostat - Show the status of a running mongod/mongos.
+- bsondump - Convert BSON files into human-readable formats.
+- mongoreplay - Traffic capture and replay tool.
+- mongotop - Track time spent reading and writing data.
+- install_compass - Installs MongoDB Compass for your platform.
 
 ## Storage Engine
 
@@ -128,17 +128,11 @@ https://www.ferretdb.io - A truly Open Source MongoDB alternative
 
 ## References
 
-https://www.tutorialspoint.com/mongodb
-
-https://github.com/mongodb/mongo
-
-https://www.toptal.com/mongodb/interview-questions
-
-https://github.com/ramnes/awesome-mongodb
-
-[**https://university.mongodb.com/**](https://university.mongodb.com/)
-
-[**https://medium.com/swlh/mongodb-developer-roadmap-for-2021-bec3eb10891d**](https://medium.com/swlh/mongodb-developer-roadmap-for-2021-bec3eb10891d)
-[MongoDB Internal Architecture](https://www.youtube.com/watch?v=ONzdr4SmOng)
-
-[Building with Patterns: The Document Versioning Pattern | MongoDB](https://www.mongodb.com/blog/post/building-with-patterns-the-document-versioning-pattern)
+- https://www.tutorialspoint.com/mongodb
+- https://github.com/mongodb/mongo
+- https://www.toptal.com/mongodb/interview-questions
+- https://github.com/ramnes/awesome-mongodb
+- [**https://university.mongodb.com/**](https://university.mongodb.com/)
+- [**https://medium.com/swlh/mongodb-developer-roadmap-for-2021-bec3eb10891d**](https://medium.com/swlh/mongodb-developer-roadmap-for-2021-bec3eb10891d)
+- [MongoDB Internal Architecture](https://www.youtube.com/watch?v=ONzdr4SmOng)
+- [Building with Patterns: The Document Versioning Pattern | MongoDB](https://www.mongodb.com/blog/post/building-with-patterns-the-document-versioning-pattern)

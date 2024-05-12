@@ -73,3 +73,5 @@ Replica set members in MongoDB can handle read queries. MongoDB allows for diffe
 [MongoDB - Replication and Sharding - GeeksforGeeks](https://www.geeksforgeeks.org/mongodb-replication-and-sharding/)
 
 [Replication - MongoDB Manual](https://www.mongodb.com/docs/manual/replication/)
+
+[Data Distribution: Sharding and Partitioning in MongoDB | by Dayanand Thombare | Medium](https://medium.com/@dayanandthombare/data-distribution-sharding-and-partitioning-in-mongodb-3e4cd8edd955)

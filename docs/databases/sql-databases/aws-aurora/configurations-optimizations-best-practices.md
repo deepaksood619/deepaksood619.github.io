@@ -1,5 +1,7 @@
 # Configurations / Optimizations / Best Practices
 
+RDS - [Best practices for configuring parameters for Amazon RDS for MySQL, part 1: Parameters related to performance | AWS Database Blog](https://aws.amazon.com/blogs/database/best-practices-for-configuring-parameters-for-amazon-rds-for-mysql-part-1-parameters-related-to-performance/)
+
 ### Database Configuration
 
 There are two types of Aurora MySQL parameter groups: DB parameter groups and DB cluster parameter groups. Some parameters affect the configuration for an entire DB cluster, like binary log format, time zone, and character set defaults. Others limit their scope to a single DB instance.
@@ -217,26 +219,6 @@ https://docs.aws.amazon.com/AmazonRDS/latest/AuroraUserGuide/AuroraMySQL.Referen
 - **db.r6g instances**
 - **db.r5 instances**
 
-## Amazon Aurora Serverless
-
-Amazon Aurora Serverless is an on-demand, autoscaling configuration for Amazon Aurora. AnAurora Serverless DB clusteris a DB cluster that automatically starts up, shuts down, and scales up or down its compute capacity based on your application's needs. Aurora Serverless provides a relatively simple, cost-effective option for infrequent, intermittent, or unpredictable workloads. It can provide this because it automatically starts up, scales compute capacity to match your application's usage, and shuts down when it's not in use.
-
-A non-Serverless DB cluster for Aurora is called a provisioned DB cluster. Aurora Serverless clusters and provisioned clusters both have the same kind of high-capacity, distributed, and highly available storage volume.
-
-### Serverless V2
-
-Amazon Aurora Serverless v2, currently in preview, scales instantly from hundreds to hundreds-of-thousands of transactions in a fraction of a second. As it scales, it adjusts capacity in fine-grained increments to provide just the right amount of database resources that the application needs. There is no database capacity for you to manage, you pay only for the capacity your application consumes, and you can save up to 90% of your database cost compared to the cost of provisioning capacity for peak load.
-
-Aurora Serverless v2 (Preview) supports all manner of database workloads, from development and test environments, websites, and applications that have infrequent, intermittent, or unpredictable workloads to the most demanding, business critical applications that require high scale and high availability. It supports the full breadth of Aurora features, including Global Database, Multi-AZ deployments, and read replicas. Aurora Serverless v2 (Preview) is currently available in preview for Aurora with MySQL compatibility only.
-
-https://docs.aws.amazon.com/AmazonRDS/latest/AuroraUserGuide/aurora-serverless.html
-
-## Important points
-
-- You can't give an Aurora Serverless DB cluster a public IP address. You can access an Aurora Serverless DB cluster only from within a virtual private cloud (VPC) based on the Amazon VPC service.
-
-https://docs.aws.amazon.com/AmazonRDS/latest/AuroraUserGuide/aurora-serverless.how-it-works.html
-
 ## Optimizations
 
 [How to plan and optimize Amazon Aurora with MySQL compatibility for consolidated workloads | AWS Database Blog](https://aws.amazon.com/blogs/database/planning-and-optimizing-amazon-aurora-with-mysql-compatibility-for-consolidated-workloads)
@@ -332,3 +314,4 @@ https://aws.amazon.com/rds/proxy
 - [Optimize Amazon RDS and Aurora Costs with ElastiCache for Redis - AWS Databases in 15 - YouTube](https://www.youtube.com/watch?v=JAoNlGqn124)
 - [AWS tools to optimize your Amazon RDS costs | AWS Database Blog](https://aws.amazon.com/blogs/database/aws-tools-to-optimize-your-amazon-rds-costs/)
 - [Amazon Aurora Performance Optimization Techniques](https://pages.awscloud.com/rs/112-TZM-766/images/DMWQ1D4S3T2%20-%20Amazon%20Aurora%20Performance%20Optimization%20Techniques.pdf)
+- [Aurora MySQL configuration parameters - Amazon Aurora](https://docs.aws.amazon.com/AmazonRDS/latest/AuroraUserGuide/AuroraMySQL.Reference.ParameterGroups.html)

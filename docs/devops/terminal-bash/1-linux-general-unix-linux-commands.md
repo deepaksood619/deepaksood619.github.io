@@ -47,6 +47,7 @@ ssh-import-id
 
 # SSH KeyGen
 ssh-keygen -t rsa -b 4096 -C "deepaksood619@gmail.com"
+ssh-keygen -t rsa -b 4096 -C "deepak.sood@opstree.com"
 ssh-keygen -t rsa -b 4096 -C "deepak.sood@stashfin.com"
 
 ssh-keygen -R energy.zenatix.com # reset the saved key of server
@@ -752,6 +753,19 @@ To check more than one directory and see the total, use du -sch:
 -c, --total
         produce a grand total
 ```
+
+### lsblk
+
+The `lsblk` command, short for “list block devices,” is a powerful tool that provides detailed information about block devices such as hard drives, solid-state drives, and other storage-related devices.
+
+```bash
+lsblk -a # To display empty block devices as well.
+lsblk -t # tree view
+```
+
+[How to List All Block Devices in Linux | lsblk Command - GeeksforGeeks](https://www.geeksforgeeks.org/lsblk-command-in-linux-with-examples/)
+
+[lsblk(8) - Linux manual page](https://man7.org/linux/man-pages/man8/lsblk.8.html)
 
 ## NetCat (NC)
 

@@ -27,6 +27,8 @@ source ~/.bash_profile
 apt-get install -y default-mysql-client
 mysql -u root -p kollectai -h localhost
 
+mysql -h host -D database -u developer -p password
+
 mysql -u developer -p password -h host -D database
 
 mysql --user=user --host=host --database=database --password=password -A

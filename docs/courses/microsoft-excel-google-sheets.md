@@ -94,6 +94,7 @@ Rows - 1,048,576- Text to column
 ## Others
 
 - Conditional Formating - Color Scales
+- Custom number format - `[$₹][>9999999]##\,##\,##\,##0;[$₹][>99999]##\,##\,##0;[$₹]##,##0`
 
 ## Microsoft Excel - Useful Tools & Tips
 

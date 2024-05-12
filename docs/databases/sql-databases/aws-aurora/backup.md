@@ -195,6 +195,11 @@ MyDumper is Open Source and maintained by the community, it is not a Percona, Ma
 
 [MyDumper - AWS Prescriptive Guidance](https://docs.aws.amazon.com/prescriptive-guidance/latest/migration-large-mysql-mariadb-databases/mydumper.html)
 
+### Other tools
+
+- [Rubrik Enterprise Backup – BACKUP EAGLE®](https://www.backup-eagle.com/product/rubrik-reporting)
+- [Instant Data Backup and Recovery Software | Rubrik](https://www.rubrik.com/solutions/backup-recovery)
+
 ## Links
 
 - [Best way to take AWS Aurora MySQL backups using Xtrabackup for \> 10TB large databases? - MySQL & MariaDB - Percona Community Forum](https://forums.percona.com/t/best-way-to-take-aws-aurora-mysql-backups-using-xtrabackup-for-10tb-large-databases/24246)

@@ -86,6 +86,26 @@ Since database logs are updated in every transaction, the experience is transpar
 
 https://en.wikipedia.org/wiki/Change_data_capture
 
+### Maxwell
+
+This is **Maxwell's daemon**, a [change data capture](https://www.confluent.io/blog/how-change-data-capture-works-patterns-solutions-implementation/) application that reads MySQL binlogs and writes data changes as JSON to Kafka, Kinesis, and other streaming platforms.
+
+[Maxwell](https://maxwells-daemon.io/) is a CDC (Changelog Data Capture) tool that can stream changes in real-time from MySQL into Kafka, Kinesis and other streaming connectors. Maxwell provides a unified format schema for changelog and supports to serialize messages using JSON.
+
+#### What's it for?
+
+- ETL of all sorts
+- maintaining an audit log of all changes to your database
+- cache building/expiring
+- search indexing
+- inter-service communication
+
+[GitHub - zendesk/maxwell: Maxwell's daemon, a mysql-to-json kafka producer](https://github.com/zendesk/maxwell)
+
+[Maxwell's Daemon](https://maxwells-daemon.io/)
+
+[Maxwell | Apache Flink](https://nightlies.apache.org/flink/flink-docs-master/docs/connectors/table/formats/maxwell/)
+
 ### Others
 
 - airbyte

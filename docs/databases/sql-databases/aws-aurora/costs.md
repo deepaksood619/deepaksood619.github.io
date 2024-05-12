@@ -1,11 +1,13 @@
 # Costs
 
-1. ⁠⁠Aurora Serverless
-2. ⁠⁠Aurora IO Optimized MySQL
-3. ⁠Aurora MySQL - [AWS Pricing Calculator](https://calculator.aws/#/estimate?id=814a47de14501bd81ae41433ed31dcf94963c626)
-4. ⁠⁠RDS MySQL
-5. ⁠⁠MySQL on EC2 (self managed)
-6. Aurora Limitless
+1. ⁠⁠Aurora Serverless V1
+2. ⁠⁠Aurora Serverless V2
+3. ⁠⁠Aurora IO Optimized MySQL
+4. ⁠Aurora MySQL - [AWS Pricing Calculator](https://calculator.aws/#/estimate?id=814a47de14501bd81ae41433ed31dcf94963c626)
+5. ⁠⁠RDS MySQL
+6. ⁠⁠MySQL on EC2 (self managed)
+7. Aurora Limitless
+8. Aurora Global Database
 
 ### Instances
 

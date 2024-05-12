@@ -30,11 +30,11 @@ The internal format of the journal must guard against crashes while the journal 
 
 A physical journal logs an advance copy of every block that will later be written to the main file system. If there is a crash when the main file system is being written to, the write can simply be replayed to completion when the file system is next mounted. If there is a crash when the write is being logged to the journal, the partial write will have a missing or mismatched checksum and can be ignored at next mount.
 
-Physical journals impose a significant performance penalty because every changed block must be committedtwiceto storage, but may be acceptable when absolute fault protection is required.
+Physical journals impose a significant performance penalty because every changed block must be committed twice to storage, but may be acceptable when absolute fault protection is required.
 
 ## Logical journals
 
-Alogical journalstores only changes to file [metadata](https://en.wikipedia.org/wiki/Metadata) in the journal, and trades fault tolerance for substantially better write performance. A file system with a logical journal still recovers quickly after a crash, but may allow unjournaled file data and journaled metadata to fall out of sync with each other, causing data corruption.
+A logical journal stores only changes to file [metadata](https://en.wikipedia.org/wiki/Metadata) in the journal, and trades fault tolerance for substantially better write performance. A file system with a logical journal still recovers quickly after a crash, but may allow unjournaled file data and journaled metadata to fall out of sync with each other, causing data corruption.
 
 For example, appending to a file may involve three separate writes to:
 
@@ -52,15 +52,15 @@ To complicate matters, many mass storage devices have their own write caches, in
 
 ## Alternatives
 
-## Soft updates
+### Soft updates
 
 Some [UFS](https://en.wikipedia.org/wiki/Unix_File_System) implementations avoid journaling and instead implement [soft updates](https://en.wikipedia.org/wiki/Soft_updates): they order their writes in such a way that the on-disk file system is never inconsistent, or that the only inconsistency that can be created in the event of a crash is a storage leak. To recover from these leaks, the free space map is reconciled against a full walk of the file system at next mount. This [garbage collection](https://en.wikipedia.org/wiki/Garbage_collection_(computer_science)) is usually done in the background.
 
-## Log-structured file systems
+### Log-structured file systems
 
 In [log-structured file systems](https://en.wikipedia.org/wiki/Log-structured_file_system), the write-twice penalty does not apply because the journal itselfisthe file system: it occupies the entire storage device and is structured so that it can be traversed as would a normal file system.
 
-## Copy-on-write file systems
+### Copy-on-write file systems
 
 Full [copy-on-write](https://en.wikipedia.org/wiki/Copy-on-write) file systems (such as [ZFS](https://en.wikipedia.org/wiki/ZFS) and [Btrfs](https://en.wikipedia.org/wiki/Btrfs)) avoid in-place changes to file data by writing out the data in newly allocated blocks, followed by updated metadata that would point to the new data and disown the old, followed by metadata pointing to that, and so on up to the superblock, or the root of the file system hierarchy. This has the same correctness-preserving properties as a journal, without the write-twice overhead.
 
@@ -101,3 +101,28 @@ The **ext4 journaling file system** or **fourth extended filesystem** is a [jour
 - Transparent encryption
 - Lazy initialization
 - Write barriers
+
+## Partition Tables
+
+- `aix` provides support for the volumes used in IBM’s AIX (which introduced what we now know as LVM);
+- `amiga` provides support for the Amiga’s RDB partitioning scheme;
+- `bsd` provides support for BSD disk labels;
+- `dvh` provides support for SGI disk volume headers;
+- `gpt` provides support for GUID partition tables;
+- `mac` provides support for old (pre-GPT) Apple partition tables;
+- `msdos` provides support for DOS-style MBR partition tables;
+- `pc98` provides support for [PC-98](http://people.freebsd.org/~kato/pc98.html) partition tables;
+- `sun` provides support for Sun’s partitioning scheme;
+- `loop` provides support for raw disk access (loopback-style) — I’m not sure about the uses for this one.
+
+The default in gparted appears to be `msdos` which I guess is an 'MBR' partition table. However `gpt` is more recent, but has less Windows support. I've used Linux for a long time, but I've never really looked into partitioning.
+
+For a new disk, **I recommend `gpt`**: it allows more partitions, it can be booted even in pre-UEFI systems (using `grub`), and supports disks larger than 2 TiB (up to 8 ZiB for 512-byte sector disks). Actually, if you don’t need to boot from the disk, I’d recommend not using a partitioning scheme at all and simply adding the whole disk to `mdadm`, LVM, or a zpool, depending on whether you use LVM (on top of `mdadm` or not) or ZFS.
+
+[What are the differences between the various partition tables? - Unix & Linux Stack Exchange](https://unix.stackexchange.com/questions/289389/what-are-the-differences-between-the-various-partition-tables)
+
+[Convert Default EC2 Ubuntu Instance's MBR to GPT to Bypass 2-TiB Partition Limit | AWS re:Post](https://repost.aws/knowledge-center/ec2-ubuntu-convert-mbr-to-gpt)
+
+[Convert default EC2 CentOS MBR to GPT to bypass 2 TiB limit | AWS re:Post](https://repost.aws/knowledge-center/ec2-centos-convert-mbr-to-gpt)
+
+[Constraints on the size and configuration of an EBS volume - Amazon EBS](https://docs.aws.amazon.com/ebs/latest/userguide/volume_constraints.html#:~:text=EBS%20currently%20supports%20a%20maximum,how%20the%20volume%20is%20partitioned)
