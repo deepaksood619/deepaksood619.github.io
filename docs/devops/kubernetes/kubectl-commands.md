@@ -621,6 +621,31 @@ kubectl get pods -n crons -o go-template --template '{{range .items}}{{.metadata
 
 ## Requests and Limits
 
+[GitHub - robscott/kube-capacity: A simple CLI that provides an overview of the resource requests, limits, and utilization in a Kubernetes cluster](https://github.com/robscott/kube-capacity)
+
+```bash
+curl -fsSLO https://github.com/robscott/kube-capacity/releases/download/v0.8.0/kube-capacity_v0.8.0_linux_x86_64.tar.gz
+
+# cluster wide
+kube-capacity
+kube-capacity --util
+kube-capacity --util --sort cpu.util
+kube-capacity --util --sort cpu.util.percentage
+
+kube-capacity --pods --util --sort cpu.util
+
+kube-capacity --available
+
+kube-capacity --node-taints special:NoSchedule
+
+kube-capacity --no-taint
+
+```
+
+[Easy to list Kubernetes resource requests and limits with kube-capacity](https://viblo.asia/p/easy-to-list-kubernetes-resource-requests-and-limits-with-kube-capacity-english-Rk74avM6JeO)
+
+[Releases · robscott/kube-capacity](https://github.com/robscott/kube-capacity/releases)
+
 ```python
 import re
 import subprocess

@@ -101,7 +101,13 @@ https://www.postgresql.org/docs/current/sql-grant.html
 ## Processes
 
 ```sql
-show full processlist
+show full processlist;
+show processlist;
+
+kill 882461
+
+-- kill a thread in rds
+CALL mysql.rds_kill(882461);
 
 SELECT * FROM INFORMATION_SCHEMA.PROCESSLIST
 ```

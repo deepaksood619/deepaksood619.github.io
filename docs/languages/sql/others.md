@@ -65,6 +65,14 @@ Examples of catalog objects:
 - pg_index - shows each index and type
 - information_schema.columns - shows each column, it’s position and datatype.
 
+```sql
+select user,host,plugin from mysql.user where plugin like '%native%';
+
+ALTER USER '<dbuser>'@'localhost' IDENTIFIED WITH caching_sha2_password BY '<OLD PSWD here>';
+
+CREATE USER '<dbuser>'@'%' IDENTIFIED WITH caching_sha2_password BY '<new_password>';
+```
+
 ## Others
 
 https://towardsdatascience.com/6-sql-tricks-every-data-scientist-should-know-f84be499aea5

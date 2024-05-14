@@ -96,7 +96,7 @@ Open two instance of same application - **open -n MQTT.fx.app**
 
 | Action                                                              | Shortcuts                                     |
 | ------------------------------------------------------------------- | --------------------------------------------- |
-| switch profiles                                                     | cmd + shift + m - enter                |
+| switch profiles                                                     | cmd + shift + m - enter                       |
 | to cycle between tabs                                               | Cmd + Shift + A + Enter                       |
 | Jump to the next open tab                                           | ⌘ + Option + Right arrow or ctrl + tab        |
 | Jump to the previous open tab                                       | ⌘ + Option + Left arrow or ctrl + shift + tab |
@@ -110,6 +110,7 @@ Open two instance of same application - **open -n MQTT.fx.app**
 | When Find Bar is open, search for selected text                     | ⌘ + e                                         |
 | Open the JavaScript Console                                         | ⌘ + Option + j                                |
 | Search the web                                                      | ⌘ + Option + f                                |
+| move tabs up/down                                                   | ctrl + shift + fn + up/down                   |
 
 https://www.google.com/inputtools
 

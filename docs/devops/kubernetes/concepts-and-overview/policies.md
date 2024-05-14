@@ -8,15 +8,15 @@ When several users or teams share a cluster with a fixed number of nodes, there 
 
 Resource quotas are a tool for administrators to address this concern.
 
-A resource quota, defined by aResourceQuotaobject, provides constraints that limit aggregate resource consumption per namespace. It can limit the quantity of objects that can be created in a namespace by type, as well as the total amount of compute resources that may be consumed by resources in that project.
+A resource quota, defined by a ResourceQuota object, provides constraints that limit aggregate resource consumption per namespace. It can limit the quantity of objects that can be created in a namespace by type, as well as the total amount of compute resources that may be consumed by resources in that project.
 
 Resource quotas work like this:
 
 - Different teams work in different namespaces. Currently this is voluntary, but support for making this mandatory via ACLs is planned.
-- The administrator creates oneResourceQuotafor each namespace.
+- The administrator creates one ResourceQuota for each namespace.
 - Users create resources (pods, services, etc.) in the namespace, and the quota system tracks usage to ensure it does not exceed hard resource limits defined in aResourceQuota.
-- If creating or updating a resource violates a quota constraint, the request will fail with HTTP status code403 FORBIDDENwith a message explaining the constraint that would have been violated.
-- If quota is enabled in a namespace for compute resources likecpuandmemory, users must specify requests or limits for those values; otherwise, the quota system may reject pod creation. Hint: Use theLimitRangeradmission controller to force defaults for pods that make no compute resource requirements.
+- If creating or updating a resource violates a quota constraint, the request will fail with HTTP status code403 FORBIDDEN with a message explaining the constraint that would have been violated.
+- If quota is enabled in a namespace for compute resources like cpu and memory, users must specify requests or limits for those values; otherwise, the quota system may reject pod creation. Hint: Use the LimitRanger admission controller to force defaults for pods that make no compute resource requirements.
 
 kubectl create quota myrq --hard=cpu=1, memory=1G, pods=2 --dry-run -o yaml
 
@@ -26,31 +26,23 @@ https://kubernetes.io/docs/tasks/administer-cluster/manage-resources/quota-memor
 
 https://kubernetes.io/docs/tasks/administer-cluster/manage-resources/memory-default-namespace
 
+```
 ## apiVersion: v1
-
 ## kind: LimitRange
-
 ## metadata
-
 ## name: mem-limit-range
-
 ## spec
-
 ## limits
 
 - **default**:
-
 ## memory: 512Mi
-
 ## defaultRequest
-
 ## memory: 256Mi
-
 ## type: Container
-
 ## Security
+```
 
-- **admission controlsystem**, which lets you look at and possibly modify the requests that are coming in, and do a final deny or accept on those requests.
+- **admission control system**, which lets you look at and possibly modify the requests that are coming in, and do a final deny or accept on those requests.
 - How you can secure your Pods more tightly using **security contexts and pod security policies**, which are full-fledged API objects in Kubernetes.
 - **Network policies**. By default, we tend not to turn on network policies, which letany traffic flow through all of our pods, in all the different namespaces. Using network policies, we can actually define Ingress rules so that we can restrict the Ingress traffic between the different namespaces. The network tool in use, such as Flannel or Calico will determine if a network policy can be implemented.
 
@@ -134,15 +126,13 @@ Here is a summary of the RBAC process:
 
 They can be configured as kube-apiserver startup options:
 
+```
 --authorization-mode=ABAC
-
 --authorization-mode=RBAC
-
 --authorization-mode=Webhook
-
 --authorization-mode=AlwaysDeny
-
 --authorization-mode=AlwaysAllow
+```
 
 The authorization modes implement policies to allow requests. Attributes of the requests are checked against the policies (e.g. user, group, namespace, verb).
 

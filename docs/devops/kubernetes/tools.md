@@ -125,7 +125,7 @@ https://ahmet.im/blog/kubectl-aliases
 
 ## Kubedirector
 
-KubeDirectoruses standard Kubernetes (K8s) facilities of custom resources and API extensions to implement stateful scaleout application clusters. This approach enables transparent integration with K8s user/resource management and existing K8s clients and tools.
+KubeDirector uses standard Kubernetes (K8s) facilities of custom resources and API extensions to implement stateful scaleout application clusters. This approach enables transparent integration with K8s user/resource management and existing K8s clients and tools.
 
 https://github.com/bluek8s/kubedirector
 
@@ -379,6 +379,16 @@ https://www.youtube.com/watch?v=PW44JaAlI_8
 ## Kubecost
 
 https://www.infracloud.io/blogs/kubernetes-cost-reporting-using-kubecost
+
+Others - [GitHub - robscott/kube-capacity: A simple CLI that provides an overview of the resource requests, limits, and utilization in a Kubernetes cluster](https://github.com/robscott/kube-capacity)
+
+[Kubernetes Requests and Limits: A Practical Guide and Solutions](https://blog.kubecost.com/blog/requests-and-limits/)
+
+[Kubecost | Kubernetes cost monitoring and management](https://www.kubecost.com/)
+
+[OpenCost — open source cost monitoring for cloud native environments](https://www.opencost.io/)
+
+[Cluster Controller | 2.2 (latest) | Kubecost Docs](https://docs.kubecost.com/install-and-configure/advanced-configuration/cluster-controller)
 
 ## KEDA
 

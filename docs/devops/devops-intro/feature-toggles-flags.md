@@ -55,6 +55,10 @@ Feature Toggles are also refered to as Feature Flags, Feature Bits, or Feature F
 
 https://martinfowler.com/articles/feature-toggles.html
 
-[LaunchDarkly: Feature Flags, Feature Management, and Experimentation](https://launchdarkly.com/)
+## Tools
 
-[Open Source LaunchDarkly Alternative](https://www.growthbook.io/compare/growthbook-vs-launchdarkly)
+- [LaunchDarkly: Feature Flags, Feature Management, and Experimentation](https://launchdarkly.com/)
+- [Open Source LaunchDarkly Alternative](https://www.growthbook.io/compare/growthbook-vs-launchdarkly)
+- [Flagsmith - Open Source Feature Flag & Remote Config Service](https://www.flagsmith.com/)
+   	- [GitHub - Flagsmith/flagsmith: Open Source Feature Flagging and Remote Config Service. Host on-prem or use our hosted version at https://flagsmith.com/](https://github.com/Flagsmith/flagsmith)
+   	- Open Source Feature Flagging and Remote Config Service.

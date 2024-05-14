@@ -102,7 +102,7 @@ aws rds create-db-instance-read-replica \
 
 aws rds delete-db-instance \ --db-instance-identifier django-daily \ --skip-final-snapshot \ --delete-automated-backups
 
-aws route53 change-resource-record-sets \ --hosted-zone-id Z2WU4CYBIL8UWQ \ --change-batch file://prod_rds_create.json
+aws route53 change-resource-record-sets \ --hosted-zone-id ABCD \ --change-batch file://prod_rds_create.json
 ```
 
 ```json

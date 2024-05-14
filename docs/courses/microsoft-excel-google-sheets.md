@@ -35,6 +35,7 @@ Rows - 1,048,576- Text to column
 
 - `cmd + opt + =` - Insert 1 row above / Insert 1 column left based on selection (either row or column or cell)
 - `cmd + opt + -` - Delete the selected row
+- `cmd + shift + fn + up/down` - switch between sheets
 
 ### excel
 
