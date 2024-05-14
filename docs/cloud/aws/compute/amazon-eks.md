@@ -71,17 +71,12 @@ eksctl is a simple CLI tool for creating clusters on EKS - Amazon's new managed 
 
 A cluster will be created with default parameters
 
-∙ exciting auto-generated name, e.g. "fabulous-mushroom-1527688624"
-
-∙ 2xm5.largenodes (this instance type suits most common use-cases, and is good value for money)
-
-∙ use official AWS EKS AMI
-
-∙us-west-2region
-
-∙ dedicated VPC (check your quotas)
-
-∙ using static AMI resolver
+- exciting auto-generated name, e.g. "fabulous-mushroom-1527688624"
+- 2 x m5.largenodes (this instance type suits most common use-cases, and is good value for money)
+- use official AWS EKS AMI
+- us-west-2region
+- dedicated VPC (check your quotas)
+- using static AMI resolver
 
 ```bash
 eksctl create cluster --name prod --version 1.14 --region ap-south-1 --fargate
@@ -155,7 +150,7 @@ https://kubedex.com/90-days-of-aws-eks-in-production
 
 ## Tools
 
-## kube2iam
+### kube2iam
 
 kube2iam provides different AWS IAM roles for pods running on Kubernetes
 
@@ -166,6 +161,10 @@ https://aws.amazon.com/blogs/opensource/introducing-fine-grained-iam-roles-servi
 ## Max number of pods
 
 `max pods = (Number of network interfaces for the instance type × (the number of IP addressess per network interface - 1)) + 2`
+
+[How to massively increase EKS pod limit | AWS re:Post](https://repost.aws/questions/QUBUhGu9osTN-x9mBQxXB1BQ/how-to-massively-increase-eks-pod-limit)
+
+[amazon web services - Pod limit on Node - AWS EKS - Stack Overflow](https://stackoverflow.com/questions/57970896/pod-limit-on-node-aws-eks)
 
 ## Pod Density and Cost EKS (WeaveWorks)
 

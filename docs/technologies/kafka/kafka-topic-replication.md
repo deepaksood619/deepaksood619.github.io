@@ -92,3 +92,5 @@ https://bravenewgeek.com/building-a-distributed-log-from-scratch-part-2-data-rep
 [Kafka Replication | Confluent Documentation](https://docs.confluent.io/kafka/design/replication.html)
 
 [Kafka Topics Choosing the Replication Factor and Partitions Count](https://www.conduktor.io/kafka/kafka-topics-choosing-the-replication-factor-and-partitions-count/)
+
+[Kafka replication factor vs min.insync.replicas - Stack Overflow](https://stackoverflow.com/questions/71666294/kafka-replication-factor-vs-min-insync-replicas)

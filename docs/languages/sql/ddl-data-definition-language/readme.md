@@ -78,17 +78,47 @@ TRANSFER OldSchema.TableName;
 
 ## Truncate vs Delete
 
-- **TRUNCATE** is a DDL command which removes the contents of the table while leaving the structure in place. Removes all rows from the given table.
+| Truncate                                     | Delete                                                                                     |
+| -------------------------------------------- | ------------------------------------------------------------------------------------------ |
+| We can't Rollback after performing Truncate. | We can Rollback after delete.                                                              |
+| Truncate reset identity of table.            | Delete does not reset identity of table.                                                   |
+| It locks the entire table.                   | It locks the table row.                                                                    |
+| Its DDL(Data Definition Language) command.   | Its DML(Data Manipulation Language) command                                                |
+| We can't use WHERE clause with it.           | We can use WHERE to filter data to delete.                                                 |
+| Trigger is not fired while truncate.         | Trigger is fired.                                                                          |
+| Syntax - TRUNCATE TABLE table_name           | Syntax - DELETE FROM table_name; DELETE FROM table_name WHERE example_column_id IN (1,2,3) |
+
+### Truncate
+
+**TRUNCATE** is a DDL command which removes the contents of the table while leaving the structure in place. Removes all rows from the given table.
+
+Example:
 
 ```
 truncate table marketing.emailcampaign
+
+BEGIN TRAN
+TRUNCATE TABLE tranTest
+SELECT * FROM tranTest
+ROLLBACK
+SELECT * FROM tranTest
 ```
 
-- **DELETE** is a DML command which removes rows given a WHERE clause
+### Delete
+
+**DELETE** is a DML command which removes rows given a WHERE clause
+
+Example:
 
 ```
 delete from
   marketing.emailcampaign
 where
   month = 'January'
+
+BEGIN TRAN
+DELETE FROM tranTest
+SELECT * FROM tranTest
+ROLLBACK
+SELECT * FROM tranTest
 ```

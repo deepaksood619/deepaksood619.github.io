@@ -1,6 +1,6 @@
 # Partitioning / Sharding
 
-## Partitioning/Sharding Data
+## Partitioning / Sharding Data
 
 We cannot store 1 Trillion entries in a database, so we can shard / split / divide databases into parts where one part is responsible for that amount of data.
 
@@ -194,6 +194,59 @@ It is important to note that partitioning makes the most sense when dealing with
 ## Partition Types
 
 Four partition types available: RANGE, LIST, HASH and KEY
+
+## Queries
+
+```sql
+-- Hash Partitioning
+CREATE TABLE t1 ( id INT, year_col INT );
+
+ALTER TABLE t1
+    PARTITION BY HASH(id)
+    PARTITIONS 8;
+
+-- Range Paritioning
+CREATE TABLE t1 (
+    id INT,
+    year_col INT
+)
+PARTITION BY RANGE (year_col) (
+    PARTITION p0 VALUES LESS THAN (1991),
+    PARTITION p1 VALUES LESS THAN (1995),
+    PARTITION p2 VALUES LESS THAN (1999)
+);
+
+ALTER TABLE t1 ADD PARTITION (PARTITION p3 VALUES LESS THAN (2002));
+
+ALTER TABLE t1 DROP PARTITION p0, p1;
+
+ALTER TABLE t1 DISCARD PARTITION p2, p3 TABLESPACE;
+
+ALTER TABLE t1 IMPORT PARTITION p2, p3 TABLESPACE;
+
+CREATE TABLE raw_log_2011_4 (
+  id bigint(20) NOT NULL AUTO_INCREMENT,
+  logid char(16) NOT NULL,
+  tid char(16) NOT NULL,
+  reporterip char(46) DEFAULT NULL,
+  ftime datetime DEFAULT NULL,
+  KEY id (id)
+) ENGINE=InnoDB AUTO_INCREMENT=286802795 DEFAULT CHARSET=utf8
+  PARTITION BY RANGE( TO_DAYS(ftime) ) (
+    PARTITION p20110401 VALUES LESS THAN (TO_DAYS('2011-04-02')),
+    PARTITION p20110402 VALUES LESS THAN (TO_DAYS('2011-04-03')),
+    PARTITION p20110403 VALUES LESS THAN (TO_DAYS('2011-04-04')),
+    PARTITION p20110404 VALUES LESS THAN (TO_DAYS('2011-04-05')),
+    ...
+    PARTITION p20110426 VALUES LESS THAN (TO_DAYS('2011-04-27')),
+    PARTITION p20110427 VALUES LESS THAN (TO_DAYS('2011-04-28')),
+    PARTITION p20110428 VALUES LESS THAN (TO_DAYS('2011-04-29')),
+    PARTITION p20110429 VALUES LESS THAN (TO_DAYS('2011-04-30')),
+    PARTITION future VALUES LESS THAN MAXVALUE
+  );
+```
+
+[15.1.9.1 ALTER TABLE Partition Operations](https://dev.mysql.com/doc/refman/8.0/en/alter-table-partition-operations.html)
 
 ## Links
 

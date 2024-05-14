@@ -7,6 +7,7 @@
 - airflow flower
 - airflow webserver
 - airflow scheduler
+- airflow db clean --skip-archive --clean-before-timestamp '2024-05-14 00:00:00'
 
 # Configurations
 AIRFLOW_HOME: /root/example/Docker/airflow

@@ -27,7 +27,7 @@ https://docs.djangoproject.com/en/2.2/ref/templates/api/#using-requestcontext
 
 http://www.gustavwengel.dk/django-middleware-walkthrough
 
-## Problems
+## Problems / Optimizations
 
 ### N+1 Select Query Issue
 
@@ -54,6 +54,10 @@ Alternatively, one could get all wheels and perform the lookups in memory:
 This reduces the number of round-trips to the database from N+1 to 2. Most ORM tools give you several ways to prevent N+1 selects.
 
 https://theorangeone.net/posts/django-orm-performance
+
+### Links
+
+[Django’s select\_for\_update with Examples and Tests | by Alexandre Laplante | Medium](https://medium.com/@alexandre.laplante/djangos-select-for-update-with-examples-and-tests-caff09414766)
 
 ## Django 3.0
 

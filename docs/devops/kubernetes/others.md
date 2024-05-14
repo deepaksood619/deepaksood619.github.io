@@ -218,6 +218,8 @@ https://github.com/kubernetes/autoscaler/tree/master/cluster-autoscaler
 
 https://github.com/helm/charts/tree/master/stable/cluster-autoscaler
 
+[GitHub - kubernetes/autoscaler: Autoscaling components for Kubernetes](https://github.com/kubernetes/autoscaler)
+
 ## [Vertical Pod Autoscaler](https://github.com/kubernetes/autoscaler/tree/master/vertical-pod-autoscaler) / VPA
 
 A set of components that automatically adjust the amount of CPU and memory requested by pods running in the Kubernetes Cluster. Current state - beta
@@ -231,6 +233,10 @@ https://medium.com/infrastructure-adventures/vertical-pod-autoscaler-deep-dive-l
 ## Goldilocks
 
 https://github.com/FairwindsOps/goldilocks
+
+Goldilocks is a utility that can help you identify a starting point for resource requests and limits.
+
+[goldilocks Documentation](https://goldilocks.docs.fairwinds.com/)
 
 [Addon Resizer](https://github.com/kubernetes/autoscaler/tree/master/addon-resizer)- a simplified version of vertical pod autoscaler that modifies resource requests of a deployment based on the number of nodes in the Kubernetes Cluster. Current state - beta.
 
