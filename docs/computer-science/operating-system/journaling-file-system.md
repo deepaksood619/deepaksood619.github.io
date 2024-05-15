@@ -84,7 +84,7 @@ https://en.wikipedia.org/wiki/Btrfs
 
 The **ext4 journaling file system** or **fourth extended filesystem** is a [journaling file system](https://en.wikipedia.org/wiki/Journaling_file_system) for [Linux](https://en.wikipedia.org/wiki/Linux), developed as the successor to [ext3](https://en.wikipedia.org/wiki/Ext3).
 
-## Features
+### Features
 
 - Large file system
 - Extents
@@ -126,3 +126,8 @@ For a new disk, **I recommend `gpt`**: it allows more partitions, it can be bo
 [Convert default EC2 CentOS MBR to GPT to bypass 2 TiB limit | AWS re:Post](https://repost.aws/knowledge-center/ec2-centos-convert-mbr-to-gpt)
 
 [Constraints on the size and configuration of an EBS volume - Amazon EBS](https://docs.aws.amazon.com/ebs/latest/userguide/volume_constraints.html#:~:text=EBS%20currently%20supports%20a%20maximum,how%20the%20volume%20is%20partitioned)
+
+```bash
+# view the partition table
+fdisk -l
+```

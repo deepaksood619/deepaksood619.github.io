@@ -43,10 +43,10 @@ _Partition pruning_ is a query optimization technique that improves performance 
 
 ## Links
 
-[Partitioning Sharding](databases/sql-databases/partitioning-sharding.md)
-
-[Partitioning Improvements in PostgreSQL 13 - Highgo Software Inc.](https://www.highgo.ca/2020/08/08/partitioning-improvements-in-postgresql-13/)
-
-[They Enabled Postgres Partitioning and their Backend fell apart - YouTube](https://www.youtube.com/watch?v=YPorP8BsF_c)
-
-[Mastering PostgreSQL Table Partitioning](https://fragland.dev/a-guide-to-table-partitioning-with-postgresql-12)
+- [Partitioning Sharding](databases/sql-databases/partitioning-sharding.md)
+- [Partitioning Improvements in PostgreSQL 13 - Highgo Software Inc.](https://www.highgo.ca/2020/08/08/partitioning-improvements-in-postgresql-13/)
+- [They Enabled Postgres Partitioning and their Backend fell apart - YouTube](https://www.youtube.com/watch?v=YPorP8BsF_c)
+- [Mastering PostgreSQL Table Partitioning](https://fragland.dev/a-guide-to-table-partitioning-with-postgresql-12)
+- [**Automatically managing partitioned data on Amazon RDS for PostgreSQL**- AWS Online Tech Talks - YouTube](https://www.youtube.com/watch?v=AfQJgoyv9Fc)
+   	- pg_partman
+   	- pg_cron

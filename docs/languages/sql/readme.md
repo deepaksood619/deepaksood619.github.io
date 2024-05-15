@@ -10,6 +10,7 @@
 - [SQL Commands](sql-commands)
 - [DDL - Data Definition Language](ddl-data-definition-language/readme.md)
     - [Create Table](ddl-data-definition-language/create-table)
+    - [Truncate vs Delete](languages/sql/ddl-data-definition-language/truncate-delete.md)
 - [DQL - Data Query Language](dql-data-query-language/readme.md)
     - [Aggregation Queries](languages/sql/dql-data-query-language/aggregation-queries.md)
     - [Analytical Queries](languages/sql/dql-data-query-language/analytical-queries.md)
