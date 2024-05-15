@@ -13,6 +13,7 @@
 - [Administration](databases/sql-databases/mysql/administration.md)
 - [Replication](databases/sql-databases/mysql/replication.md)
 - [GTID Replication](databases/sql-databases/mysql/gtid-replication.md)
+- [Thread States](databases/sql-databases/mysql/thread-states.md)
 - [Others](databases/sql-databases/mysql/others.md)
 
 ### Others
