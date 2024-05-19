@@ -49,6 +49,19 @@ Language interoperability can also be achieved by using webhooks in such a way t
 - zlib, bzip2compression.
 - Cryptographic message signing.
 
+#### States
+
+- celery.states.FAILURE = 'FAILURE' - Task failed
+- celery.states.PENDING = 'PENDING' - Task state is unknown (assumed pending since you know the id).
+- celery.states.RECEIVED = 'RECEIVED' - Task was received by a worker (only used in events).
+- celery.states.RETRY = 'RETRY' - Task is waiting for retry.
+- celery.states.REVOKED = 'REVOKED' - Task was revoked.
+- celery.states.STARTED = 'STARTED' - Task was started by a worker (task_track_started).
+- celery.states.SUCCESS = 'SUCCESS' - Task succeeded
+- celery.states.precedence(state: str) → int - Get the precedence index for state.
+
+[States — Celery 5.4.0 documentation](https://docs.celeryq.dev/en/stable/reference/celery.states.html)
+
 ## Features
 
 #### Monitoring

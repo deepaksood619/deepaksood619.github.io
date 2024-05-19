@@ -10,11 +10,13 @@ Amazon Aurora Serverless v2, currently in preview, scales instantly from hundred
 
 Aurora Serverless v2 (Preview) supports all manner of database workloads, from development and test environments, websites, and applications that have infrequent, intermittent, or unpredictable workloads to the most demanding, business critical applications that require high scale and high availability. It supports the full breadth of Aurora features, including Global Database, Multi-AZ deployments, and read replicas. Aurora Serverless v2 (Preview) is currently available in preview for Aurora with MySQL compatibility only.
 
-[Using Amazon Aurora Serverless v1 - Amazon Aurora](https://docs.aws.amazon.com/AmazonRDS/latest/AuroraUserGuide/aurora-serverless.html)
+#### Links
 
-[Using Aurora Serverless v2 - Amazon Aurora](https://docs.aws.amazon.com/AmazonRDS/latest/AuroraUserGuide/aurora-serverless-v2.html)
-
-[Performance and scaling for Aurora Serverless v2 - Amazon Aurora](https://docs.aws.amazon.com/AmazonRDS/latest/AuroraUserGuide/aurora-serverless-v2.setting-capacity.html)
+- [Using Amazon Aurora Serverless v1 - Amazon Aurora](https://docs.aws.amazon.com/AmazonRDS/latest/AuroraUserGuide/aurora-serverless.html)
+- [Using Aurora Serverless v2 - Amazon Aurora](https://docs.aws.amazon.com/AmazonRDS/latest/AuroraUserGuide/aurora-serverless-v2.html)
+- [Performance and scaling for Aurora Serverless v2 - Amazon Aurora](https://docs.aws.amazon.com/AmazonRDS/latest/AuroraUserGuide/aurora-serverless-v2.setting-capacity.html)
+- [Aurora Serverless V2 Setup Tutorial with Postgres - YouTube](https://www.youtube.com/watch?v=0R4s1Al0F1c&ab_channel=BeABetterDev)
+- [Introduction and Deep Dive for Amazon Aurora Serverless v2 - AWS Online Tech Talks - YouTube](https://www.youtube.com/watch?v=_2o7vVAxst0&ab_channel=AWSDevelopers)
 
 ## Important points
 

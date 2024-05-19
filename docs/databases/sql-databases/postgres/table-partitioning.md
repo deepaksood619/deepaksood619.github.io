@@ -50,3 +50,5 @@ _Partition pruning_ is a query optimization technique that improves performance 
 - [**Automatically managing partitioned data on Amazon RDS for PostgreSQL**- AWS Online Tech Talks - YouTube](https://www.youtube.com/watch?v=AfQJgoyv9Fc)
    	- pg_partman
    	- pg_cron
+   	- [pages.awscloud.com/rs/112-TZM-766/images/2022\_1006-DAT\_Slide-Deck.pdf](https://pages.awscloud.com/rs/112-TZM-766/images/2022_1006-DAT_Slide-Deck.pdf)
+   	- [Managing PostgreSQL partitions with the pg\_partman extension - Amazon Relational Database Service](https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/PostgreSQL_Partitions.html)
