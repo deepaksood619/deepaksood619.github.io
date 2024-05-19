@@ -2,7 +2,7 @@
 
 ## The Celery worker
 
-When you start a Celery worker on the command line viacelery --app=..., you just start a supervisor process. The Celery worker itself does not process any tasks. It spawns child processes (or threads) and deals with all the book keeping stuff. The child processes (or threads) execute the actual tasks. These child processes (or threads) are also known as theexecution pool.
+When you start a Celery worker on the command line via celery --app=..., you just start a supervisor process. The Celery worker itself does not process any tasks. It spawns child processes (or threads) and deals with all the book keeping stuff. The child processes (or threads) execute the actual tasks. These child processes (or threads) are also known as the execution pool.
 
 The size of the execution pool determines the number of tasks your Celery worker can process . The more processes (or threads) the worker spawns, the more tasks it can process concurrently. If you need to process as many tasks as quickly as possible, you need a bigger execution pool. At least, that is the idea.
 
@@ -10,9 +10,9 @@ In reality, it is more complicated. The answer to the question how big your exec
 
 ## The pool option
 
-You can choose between processes or threads, using the--poolcommand line argument. Use a gevent execution pool, spawning 100 green threads (you need to pip-install gevent):
+You can choose between processes or threads, using the --pool command line argument. Use a gevent execution pool, spawning 100 green threads (you need to pip-install gevent):
 
-celery worker --app=worker.app --pool=gevent --concurrency=100
+`celery worker --app=worker.app --pool=gevent --concurrency=100`
 
 Celery supports four execution pool implementations
 
@@ -21,7 +21,7 @@ Celery supports four execution pool implementations
 - eventlet
 - gevent
 
-The--poolcommand line argument is optional. If not specified, Celery defaults to the prefork execution pool.
+The --pool command line argument is optional. If not specified, Celery defaults to the prefork execution pool.
 
 ## Prefork
 
@@ -31,15 +31,15 @@ You want to use the prefork pool if your tasks are CPU bound. A task is CPU boun
 
 The number of available cores limits the number of concurrent processes. It only makes sense to run as many CPU bound tasks in parallel as there are CPUs available. Which is why Celery defaults to the number of CPUs available on the machine, if the --concurrency argument is not set. Start a worker using the prefork pool, using as many processes as there are CPUs available:
 
-celery worker --app=worker.app
+`celery worker --app=worker.app`
 
 ## Solo
 
 The solo pool is a bit of a special execution pool. Strictly speaking, the solo pool is neither threaded nor process-based. And more strictly speaking, the solo pool is not even a pool as it is always solo. And even more strictly speaking, the solo pool contradicts the principle that the worker itself does not process any tasks.
 
-The solo pool runs inside the worker process. It runsinlinewhich means there is no bookkeeping overhead. Which makes the solo worker fast. But it also blocks the worker while it executes tasks. Which has some implications when remote-controlling workers.
+The solo pool runs inside the worker process. It runs inline which means there is no bookkeeping overhead. Which makes the solo worker fast. But it also blocks the worker while it executes tasks. Which has some implications when remote-controlling workers.
 
-celery worker --app=worker.app --pool=solo
+`celery worker --app=worker.app --pool=solo`
 
 The solo pool is an interesting option when running CPU intensive tasks in a microservices environment. In a Docker Swarm or Kubernetes context, managing the worker pool size can be easier than managing multiple execution pools. Instead of managing the execution pool size per worker(s) you manage the total number of workers.
 
@@ -63,11 +63,11 @@ For us, the benefit of using a gevent or eventlet pool is that our Celery worker
 
 Start a Celery worker using a gevent execution pool with 500 worker threads (you need to pip-install gevent):
 
-celery worker --app=worker.app --pool=gevent --concurreny=500
+`celery worker --app=worker.app --pool=gevent --concurreny=500`
 
 Start a Celery worker using a eventlet execution pool with 500 worker threads (you need to pip-install eventlet):
 
-celery worker --app=worker.app --pool=eventlet --concurreny=500
+`celery worker --app=worker.app --pool=eventlet --concurreny=500`
 
 Both pool options are based on the same concept: Spawn a greenlet pool. The difference is that --pool=gevent uses the gevent Greenlet pool (gevent.pool.Pool). Whereas --pool=eventlet uses the eventlet Greenlet pool (eventlet.GreenPool).
 
@@ -79,15 +79,15 @@ To choose the best execution pool, you need to understand whether your tasks are
 
 The only question remains is: how many worker processes/threads should you start? The--concurrencycommand line argument determines the number of processes/threads:
 
-celery worker --app=worker.app --concurrency=2
+`celery worker --app=worker.app --concurrency=2`
 
 This starts a worker with a prefork execution pool which is made up of two processes. For prefork pools, the number of processes should not exceed the number of CPUs.
 
 Spawn a Greenlet based execution pool with 500 worker threads:
 
-celery worker --app=worker.app --pool=gevent --concurrency=500
+`celery worker --app=worker.app --pool=gevent --concurrency=500`
 
-If the--concurrencyargument is not set, Celery always defaults to the number of CPUs, whatever the execution pool.
+If the --concurrency argument is not set, Celery always defaults to the number of CPUs, whatever the execution pool.
 
 This makes most sense for the prefork execution pool. But you have to take it with a grain of salt. If there are many other processes on the machine, running your Celery worker with as many processes as CPUs available might not be the best idea.
 
@@ -121,7 +121,7 @@ It's easy to get started using Eventlet, and easy to convert existing applicatio
 
 gevent is a [coroutine](https://en.wikipedia.org/wiki/Coroutine) based [Python](http://python.org/) networking library that uses [greenlet](https://greenlet.readthedocs.io/) to provide a high-level synchronous API on top of the [libev](http://software.schmorp.de/pkg/libev.html) or [libuv](http://libuv.org/) event loop.
 
-## Features include
+### Features include
 
 - Fast event loop based on [libev](http://software.schmorp.de/pkg/libev.html) or [libuv](http://libuv.org/).
 - Lightweight execution units based on greenlets.

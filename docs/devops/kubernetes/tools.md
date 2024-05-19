@@ -378,17 +378,16 @@ https://www.youtube.com/watch?v=PW44JaAlI_8
 
 ## Kubecost
 
-https://www.infracloud.io/blogs/kubernetes-cost-reporting-using-kubecost
-
-Others - [GitHub - robscott/kube-capacity: A simple CLI that provides an overview of the resource requests, limits, and utilization in a Kubernetes cluster](https://github.com/robscott/kube-capacity)
-
-[Kubernetes Requests and Limits: A Practical Guide and Solutions](https://blog.kubecost.com/blog/requests-and-limits/)
-
-[Kubecost | Kubernetes cost monitoring and management](https://www.kubecost.com/)
-
-[OpenCost — open source cost monitoring for cloud native environments](https://www.opencost.io/)
-
-[Cluster Controller | 2.2 (latest) | Kubecost Docs](https://docs.kubecost.com/install-and-configure/advanced-configuration/cluster-controller)
+- https://www.infracloud.io/blogs/kubernetes-cost-reporting-using-kubecost
+- Others - [GitHub - robscott/kube-capacity: A simple CLI that provides an overview of the resource requests, limits, and utilization in a Kubernetes cluster](https://github.com/robscott/kube-capacity)
+- [Kubernetes Requests and Limits: A Practical Guide and Solutions](https://blog.kubecost.com/blog/requests-and-limits/)
+- [Kubecost | Kubernetes cost monitoring and management](https://www.kubecost.com/)
+- [OpenCost — open source cost monitoring for cloud native environments](https://www.opencost.io/)
+- [Cluster Controller | 2.2 (latest) | Kubecost Docs](https://docs.kubecost.com/install-and-configure/advanced-configuration/cluster-controller)
+- [Kubecost 2.0: Advanced Network Monitoring - YouTube](https://www.youtube.com/watch?v=sdWIWjfA_NM&ab_channel=Kubecost)
+- [See How OpenCost Tracks Your Kubernetes Costs and Cloud Billing - YouTube](https://www.youtube.com/watch?v=lCP4Ci9Kcdg&ab_channel=Kubecost)
+- [Kubecost 2.0: Collections Demo - YouTube](https://www.youtube.com/watch?v=Ek_ZdCfKy18&ab_channel=Kubecost)
+- [Kubecost 2.0: Getting Started - YouTube](https://www.youtube.com/watch?v=AtBptqHbonk&ab_channel=Kubecost)
 
 ## KEDA
 

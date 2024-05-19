@@ -46,3 +46,7 @@ The deadlocks occur due to gap locking done by mysql. There are several reasons 
 Mysql innodb engine performs row locking on inserts. If column A has a unique key constraint, and we are adding the value "bbb" for column A in an insert statement, mysql needs to lock any gap in the index between the two current records where "bbb" will be inserted at.
 
 [Innodb locks set](https://dev.mysql.com/doc/refman/5.6/en/innodb-locks-set.html)
+
+## Links
+
+- [Overview of Different ALTER Algorithms and Its Locking Scenarios in MySQL - Sri Sakthivel M.D. - YouTube](https://www.youtube.com/watch?v=MqWQH-WWFBE&ab_channel=Percona)

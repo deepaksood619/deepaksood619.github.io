@@ -222,7 +222,7 @@ The following list describes thread `State` values that are associated with ge
 
 - `setup`
 
-    The thread is beginning an [`ALTER TABLE`](https://dev.mysql.com/doc/refman/8.0/en/alter-table.html "15.1.9 ALTER TABLE Statement") operation.
+    The thread is beginning an [`ALTER TABLE`](https://dev.mysql.com/doc/refman/8.0/en/alter-table.html "15.1.9 ALTER TABLEauro Statement") operation.
 
 - `Sorting for group`
 

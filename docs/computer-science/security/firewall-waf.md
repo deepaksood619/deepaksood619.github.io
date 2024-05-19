@@ -41,6 +41,10 @@ https://www.freecodecamp.org/news/protect-against-ddos-attacks
 
 ## Intrusion Detection System
 
+Intrusion detection is the process of monitoring your network traffic and analyzing it for signs of possible intrusions, such as exploit attempts and incidents that may be imminent threats to your network. For its part, intrusion prevention is the process of performing intrusion detection and then stopping the detected incidents, typically done by dropping packets or terminating sessions. These security measures are available as intrusion detection systems (IDS) and intrusion prevention systems (IPS), which are part of [network security](https://www.juniper.net/us/en/research-topics/what-is-network-security.html) measures taken to detect and stop potential incidents and are included functionality within [next-generation firewalls (NGFW)](https://www.juniper.net/us/en/solutions/next-gen-firewall.html).
+
+[What is IDS and IPS? | Juniper Networks US](https://www.juniper.net/us/en/research-topics/what-is-ids-ips.html)
+
 ### OSSEC
 
 **OSSEC (Open Source HIDS SECurity)** is a [free](https://en.wikipedia.org/wiki/Free_software "Free software"), [open-source](https://en.wikipedia.org/wiki/Open-source_software "Open-source software") [host-based intrusion detection system](https://en.wikipedia.org/wiki/Host-based_intrusion_detection_system) (HIDS). It performs [log analysis](https://en.wikipedia.org/wiki/Log_analysis "Log analysis"), integrity checking, [Windows registry](https://en.wikipedia.org/wiki/Windows_registry "Windows registry") monitoring, [rootkit](https://en.wikipedia.org/wiki/Rootkit "Rootkit") detection, time-based alerting, and active response. It provides intrusion detection for most operating systems, including [Linux](https://en.wikipedia.org/wiki/Linux "Linux"), [OpenBSD](https://en.wikipedia.org/wiki/OpenBSD "OpenBSD"), [FreeBSD](https://en.wikipedia.org/wiki/FreeBSD "FreeBSD"), [OS X](https://en.wikipedia.org/wiki/OS_X "OS X"), [Solaris](https://en.wikipedia.org/wiki/Solaris_(operating_system) "Solaris (operating system)") and [Windows](https://en.wikipedia.org/wiki/Microsoft_Windows "Microsoft Windows"). OSSEC has a centralized, cross-platform architecture allowing multiple systems to be easily monitored and managed. OSSEC has a log analysis engine that is able to correlate and analyze logs from multiple devices and formats.
@@ -54,3 +58,9 @@ Wazuh is a free and open source security platform that unifies XDR and SIEM capa
 [Wazuh - Open Source XDR. Open Source SIEM.](https://wazuh.com/)
 
 [Getting started with Wazuh · Wazuh documentation](https://documentation.wazuh.com/current/getting-started/index.html)
+
+### Suricata
+
+Suricata is a high performance, open source network analysis and threat detection software used by most private and public organizations, and embedded by major vendors to protect their assets.
+
+[Home - Suricata](https://suricata.io/)

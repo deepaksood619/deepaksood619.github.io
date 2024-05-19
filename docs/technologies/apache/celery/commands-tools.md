@@ -41,6 +41,13 @@ celery --help
    worker   Start worker instance.
 ```
 
+**Major commands**
+
+```bash
+celery purge
+celery status
+```
+
 ```python
 from celery import Celery
 app = Celery('tasks', backend='redis://default:password123@localhost', broker='redis://default:password123@localhost')

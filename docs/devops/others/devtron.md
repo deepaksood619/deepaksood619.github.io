@@ -43,3 +43,7 @@ Devtron is designed to be modular, and its functionality can be easily extended 
 [GitHub - devtron-labs/devtron: Tool integration platform for Kubernetes](https://github.com/devtron-labs/devtron)
 
 [Devtron Full Platform Walkthrough - August 2023 - YouTube](https://www.youtube.com/watch?v=_CjYBSKCog0&ab_channel=Devtron)
+
+[Devtron Implementation and Configuration - YouTube](https://www.youtube.com/watch?v=IQLkmnbuNaM&ab_channel=MichaelLevan)
+
+[Easy CI/CD Pipelines on Kubernetes - YouTube](https://www.youtube.com/watch?v=Me75w2kfQ0I&ab_channel=Devtron)

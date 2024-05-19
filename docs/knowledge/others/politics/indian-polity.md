@@ -23,3 +23,14 @@ Long years ago we made a tryst with destiny, and now the time comes when we shal
 [Internet History Sourcebooks: Modern History](https://sourcebooks.fordham.edu/mod/1947nehru1.asp)
 
 [A tryst with destiny](https://www.cam.ac.uk/files/a-tryst-with-destiny/index.html)
+
+### Constitutional, Statutory and Quasi-Judicial Bodies
+
+- Constitutional Bodies
+- Statutory Bodies
+- Regulatory Bodies
+- Executive Bodies
+- Judicial Bodies
+- Quasi-judicial Bodies
+
+[Constitutional, Statutory and Quasi-Judicial Bodies - Indian Polity Notes for UPSC](https://byjus.com/free-ias-prep/constitutional-statutory-and-quasi-judicial-bodies/)
