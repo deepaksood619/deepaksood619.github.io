@@ -135,15 +135,12 @@ https://certbot.eff.org
 
 ## SASS
 
-https://www.crowdstrike.com
-
-https://snyk.io
-
-[Application Security Testing Company | Software Security Testing Solutions | Checkmarx](https://checkmarx.com/)
-
-[Cloud Security Platform | GCP | AWS | Cloudanix](https://www.cloudanix.com/)
-
-[WALLIX | Cybersecurity Simplified | Access Security Solutions](https://www.wallix.com/)
+- https://www.crowdstrike.com
+- https://snyk.io
+- [Application Security Testing Company | Software Security Testing Solutions | Checkmarx](https://checkmarx.com/)
+- [Cloud Security Platform | GCP | AWS | Cloudanix](https://www.cloudanix.com/)
+- [WALLIX | Cybersecurity Simplified | Access Security Solutions](https://www.wallix.com/)
+- [Active Application Security Posture Management (ASPM) - OX Security](https://www.ox.security/)
 
 ## Others
 

@@ -16,3 +16,7 @@ Manage scale with transparent load distribution
 Easily scale your app or website to thousands of users with NodeBalancers. Automatically handle increases in load and ensure your site is highly available.
 
 [NodeBalancers | Application Load Balancer | Akamai](https://www.linode.com/products/nodebalancers/)
+
+## Links
+
+- [Configure a Forward Proxy to Enable Internet Access within a VPC | Linode Docs](https://www.linode.com/docs/guides/forward-proxy-for-vpc/)

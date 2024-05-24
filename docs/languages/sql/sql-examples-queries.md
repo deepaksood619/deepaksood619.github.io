@@ -64,6 +64,9 @@ SELECT count(*) AS TOTALNUMBEROFTABLES FROM INFORMATION_SCHEMA.TABLES WHERE TABL
  SHOW TABLE STATUS where `Rows` < 5;
  -- 101
 
+ -- best way to count number of rows in table (approximate)
+ show table status like 'table_name';
+
 show master status; -- check binlog position
 
 SELECT @@TX_ISOLATION;

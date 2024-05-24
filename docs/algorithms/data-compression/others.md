@@ -2,13 +2,22 @@
 
 ![image](../../media/data-compression-Others-image1.jpg)
 
+![Compression Speed vs Ratio](https://raw.githubusercontent.com/facebook/zstd/master/doc/images/DCspeed5.png)
+
 ## Zstd (by facebook)
 
-Zstandard, orzstdas short version, is a fast lossless compression algorithm, targeting real-time compression scenarios at zlib-level and better compression ratios. It's backed by a very fast entropy stage, provided by [Huff0 and FSE library](https://github.com/Cyan4973/FiniteStateEntropy).
+Zstandard, or zstd as short version, is a fast lossless compression algorithm, targeting real-time compression scenarios at zlib-level and better compression ratios. It's backed by a very fast entropy stage, provided by [Huff0 and FSE library](https://github.com/Cyan4973/FiniteStateEntropy).
 
 https://github.com/facebook/zstd
 
 https://facebook.github.io/zstd
+
+```bash
+tar --use-compress-program=unzstd -xvf archive.tar.zst
+tar --zstd -xvf archive.tar.zst
+```
+
+[Smaller and faster data compression with Zstandard - Engineering at Meta](https://engineering.fb.com/2016/08/31/core-infra/smaller-and-faster-data-compression-with-zstandard/)
 
 ## WebP (for images)
 

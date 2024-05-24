@@ -8,6 +8,13 @@
 
 [Amazon EC2 Instance Comparison](https://instances.vantage.sh/)
 
+| Instance Types | On Demand | Spot    | 1 Yr Reserved | 3 Yr Reserved |
+| -------------- | --------- | ------- | ------------- | ------------- |
+| m7g.large      | $59.568   | $27.375 | $39.420       | $27.010       |
+| m7i-flex.large | $69.905   | $33.215 | $46.238       | $31.711       |
+| m7i.large      | $73.584   | $33.069 | $48.676       | $33.376       |
+| m7a.large      | $84.622   | $35.405 | $55.976       | $38.383       |
+
 | **General Purpose**       | A1, T3, T3a, T2, M6g, M5, **M5a**, M5n, M4  |
 |---------------------------|---------------------------------------------|
 | **Compute Optimized**     | C5, C5n, C4                                 |
@@ -35,10 +42,15 @@
 | m5.4xlarge | 16 | 64 | EBS-Only | Up to 10 | 4,750 | $0.444 | $319.68 |
 | m5a.8xlarge | 32 | 128 | EBS-Only | | | $0.889 | $640.08 |
 
-a - AMD CPUs
-g - Graviton based processors
+- i - intel CPUs
+- a - AMD CPUs
+- g - Graviton based processors
 
-## AMI
+![Evolution of AWS General Purpose Instances](../../../media/Pasted%20image%2020240522015248.png)
+
+[AMD vs. Intel: Unveiling the Best EC2 Instance Choice](https://cloudfix.com/blog/boost-aws-performance-and-cost-efficiency-with-amd-instances/)
+
+### AMI
 
 Ubuntu 16.04 LTS AMI - ami-2757f631
 
@@ -48,10 +60,20 @@ Ubuntu Server 18.04 LTS (HVM), SSD Volume Type- ami-0620d12a9cf777c87 (64-bit x8
 
 Ubuntu Server 16.04 LTS (HVM), SSD Volume Type- ami-0c28d7c6dd94fb3a7 (64-bit x86) / ami-08f567e9a6f67fbee (64-bit Arm)
 
+### Flex Instances
+
+[C7i-flex](https://aws.amazon.com/ec2/instance-types/c7i/) offers five of the most common sizes from **large** to **8xlarge**, delivering 19 percent better price performance than [Amazon EC2 C6i](https://aws.amazon.com/ec2/instance-types/c6i/) instances.
+
+[New compute-optimized (C7i-flex) Amazon EC2 Flex instances | AWS News Blog](https://aws.amazon.com/blogs/aws/new-compute-optimized-c7i-flex-amazon-ec2-flex-instances/)
+
 ## Tips
 
 - **M5a instances** offers up to 10% savings for customers who are looking to further cost optimize their Amazon EC2 compute environments.
 - [Kernel Live Patching for Amazon Linux 2 is now generally available](https://aws.amazon.com/about-aws/whats-new/2020/06/announcing-general-availability-kernel-live-patching-amazon-linux-2/)
+- The M5a is ~10% cheaper.
+- vCPUs and Memory are equal.
+- The Intel CPU is 20% faster, using [Intel Turbo Boost](https://en.wikipedia.org/wiki/Intel_Turbo_Boost) (hence the “**up to** 3.1 Ghz”)
+- The Intel instance has 20% more network bandwidth and 40% more EBS bandwidth.
 
 https://aws.amazon.com/ec2/pricing/on-demand
 
@@ -88,7 +110,25 @@ https://aws.amazon.com/ec2/pricing/reserved-instances/pricing
 - Savings plans (discount upto 66%)
 - Dedicated hosts
 
-## EC2 Instance metadata and user data
+## Differences Between Intel, AMD, and Graviton
+
+Intel, AMD, and Graviton each come with tradeoffs:
+
+- **CPU Architecture:** Intel and AMD have x86-based architecture, while Graviton has 64-bit Arm Neoverse cores. The architecture affects software compatibility and performance. Arm-based architecture, in particular, has potential compatibility issues with certain software that may not be supported or may require refactoring. A common reason in the past not to use Graviton was vendor lock-in, as Arm is not as widely supported, which is still true, however, [Azure](https://azure.microsoft.com/en-us/blog/azure-virtual-machines-with-ampere-altra-arm-based-processors-generally-available/) and [Google](https://cloud.google.com/blog/products/compute/introducing-googles-new-arm-based-cpu) (as of this month) both now have Arm processors available.
+
+- **Threading:** Intel and AMD support [simultaneous multithreading](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/instance-optimize-cpu.html), enabling “multiple threads to run concurrently on a single CPU core.” Graviton, on the other hand, does not, and [every vCPU is a physical core](https://docs.aws.amazon.com/whitepapers/latest/aws-graviton2-for-isv/optimizing-for-performance.html). Some workloads, like data analytics, are more efficient on a multithreaded workload, whereas others, such as gaming, perform better on single-threaded workloads. Note—you can [disable multithreading](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/instance-specify-cpu-options.html) by setting one thread per code.
+
+- **Price Performance:** Graviton is advertised by AWS to have [better price performance](https://aws.amazon.com/ec2/graviton/), in some cases up to 40%, than comparable Intel and AMD instances. Independent benchmarks comparing similar instances, such as [this one by Scylla](https://www.scylladb.com/2021/09/16/aws-graviton2-arm-brings-better-price-performance-than-intel/), also find Graviton to be more price-performant. This is due in part to Arm-based processors having lower power consumption and more competitive margins since Graviton is owned by Amazon. Graviton is an excellent choice for those who are prioritizing cost.
+
+- **Performance:** Benchmarks show various results since performance is so specific to use cases. As such, if you’re choosing between instances, consider running your workload on different instances to compare.
+
+[Intel vs AMD vs Graviton: Amazon EC2 Processor Differences and Distribution](https://www.vantage.sh/blog/aws-ec2-processors-intel-vs-amd-vs-graviton-adoption)
+
+[Site Unreachable](https://aws.amazon.com/ec2/amd/)
+
+## EC2
+
+### EC2 Instance metadata and user data
 
 _Instance metadata_ is data about your instance that you can use to configure or manage the running instance. Instance metadata is divided into [categories](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/instancedata-data-categories.html), for example, host name, events, and security groups.
 
@@ -97,8 +137,6 @@ EC2 instance metadata is a service accessible from within EC2 instances, which a
 It is possible to retrieve an instance’s IAM access key by accessing the `iam/security-credentials/role-name` metadata category. This returns a temporary set of credentials that the EC2 instance automatically uses for communicating with AWS services.
 
 [Instance metadata and user data - Amazon Elastic Compute Cloud](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/ec2-instance-metadata.html)
-
-## EC2
 
 ### AWS Systems Manager
 
@@ -123,3 +161,7 @@ EC2 Image Builder
 ## GPU
 
 https://aws.amazon.com/ec2/instance-types/g4
+
+## Others
+
+- [Resolve boot errors on Linux Nitro-based EC2 instances | AWS re:Post](https://repost.aws/knowledge-center/boot-error-linux-nitro-instance)

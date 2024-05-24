@@ -145,3 +145,5 @@
 [Tech Stack File | StackShare](https://stackshare.io/tech-stack-file)
 
 [🏆 The Top 100 Developer Tools of 2023 | StackShare](https://stackshare.io/posts/top-developer-tools-2023)
+
+[GitHub - one2nc/cloudlens: k9s like CLI for AWS and GCP](https://github.com/one2nc/cloudlens)

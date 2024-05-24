@@ -8,11 +8,11 @@
 
 ## Moving the Cursor
 
-- Ctrl+AorHome: Go to the beginning of the line.
-- Ctrl+EorEnd: Go to the end of the line.
+- Ctrl+A or Home: Go to the beginning of the line.
+- Ctrl+E or End: Go to the end of the line.
 - Alt+B: Go left (back) one word.
 - Alt+F: Go right (forward) one word.
-- Ctrl+XX: Move between the beginning of the line and the current position of the cursor. This allows you to press Ctrl+XX to return to the start of the line, change something, and then press Ctrl+XX to go back to your original cursor position. To use this shortcut, hold the Ctrl key and tap the Xkey twice.
+- Ctrl+XX: Move between the beginning of the line and the current position of the cursor. This allows you to press Ctrl+XX to return to the start of the line, change something, and then press Ctrl+XX to go back to your original cursor position. To use this shortcut, hold the Ctrl key and tap the X key twice.
 - Ctrl + b - Move back one full screen
 - Ctrl + f - Move forward one full screen
 - Ctrl + d - Move forward 1/2 screen
@@ -21,8 +21,8 @@
 ## Working With Processes
 
 - Ctrl+C:Interrupt (kill) the current foreground process running in in the terminal. This sends the SIGINT signal to the process, which is technically just a request - most processes will honor it, but some may ignore it.
-- Ctrl+Z: Suspend the current foreground process running in bash. This sends the SIGTSTP signal to the process. To return the process to the foreground later, use thefg process_name command.
-- Ctrl+D: Close the bash shell. This sends an EOF (End-of-file) marker to bash, and bash exits when it receives this marker. This is similar to running theexitcommand.
+- Ctrl+Z: Suspend the current foreground process running in bash. This sends the SIGTSTP signal to the process. To return the process to the foreground later, use the fg process_name command.
+- Ctrl+D: Close the bash shell. This sends an EOF (End-of-file) marker to bash, and bash exits when it receives this marker. This is similar to running the exit command.
 
 ## Deleting Text
 

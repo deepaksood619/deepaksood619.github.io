@@ -115,7 +115,9 @@ Recommended setting: Leave as is, because it doesn't apply to Aurora MySQL.
 
 Recommended setting: Default (variable value), as it is preconfigured in Aurora to 75 percent of instance memory size. You can see buffer pool use in the output of SHOW ENGINE INNODB STATUS.
 
-Impact:A larger buffer pool improves overall performance by allowing less disk I/O when accessing the same table data repeatedly. The actual amount of allocated memory might be slightly higher than the actual configured value due to InnoDB engine overhead.
+Impact: A larger buffer pool improves overall performance by allowing less disk I/O when accessing the same table data repeatedly. The actual amount of allocated memory might be slightly higher than the actual configured value due to InnoDB engine overhead.
+
+[InnoDB Buffer Pool Resizing: Chunk Change](https://www.percona.com/blog/chunk-change-innodb-buffer-pool-resizing/)
 
 ### innodb_sort_buffer_size
 

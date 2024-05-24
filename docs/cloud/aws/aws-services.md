@@ -17,29 +17,29 @@
 
 ### 1. Amazon CloudWatch
 
-   Monitor Resources and Applications
+Monitor Resources and Applications
 
-   https://github.com/monitoringartist/grafana-aws-cloudwatch-dashboards
+https://github.com/monitoringartist/grafana-aws-cloudwatch-dashboards
 
-   **Cloudwatch search queries**
+**Cloudwatch search queries**
 
-   ```sql
-   -Select -query
+```sql
+-Select -query
 
-   -QUERY -READ -WRITE
+-QUERY -READ -WRITE
 
-   -server -lms_p2021030122 -sttashrdsmain -vishal_goyal -rdsadmin -deepak_sood -api-v2_p2021030121 -loan-tape-etl_c2021030122
-   ```
+-server -lms_p2021030122 -sttashrdsmain -vishal_goyal -rdsadmin -deepak_sood -api-v2_p2021030121 -loan-tape-etl_c2021030122
+```
 
-   **Logs Insight**
+**Logs Insight**
 
-   ```sql
-   fields *@timestamp*, *@message*
-   | sort *@timestamp* desc
-   | limit 20
+```sql
+fields *@timestamp*, *@message*
+| sort *@timestamp* desc
+| limit 20
 
-   fields *@timestamp*, *@message* | filter *@message* like /(?i)(connect)/ # | filter @timestamp > 1668527666 | fields tomillis(*@timestamp*) as millis # | filter @millis < 1668566034 | parse *@message* ',*,*,' as @instance,@user | parse *@message* /(?<@ip>d{1,3}.d{1,3}.d{1,3}.d{1,3})/ | stats count() AS counter by @user | sort by @counter desc | limit 100
-   ```
+fields *@timestamp*, *@message* | filter *@message* like /(?i)(connect)/ # | filter @timestamp > 1668527666 | fields tomillis(*@timestamp*) as millis # | filter @millis < 1668566034 | parse *@message* ',*,*,' as @instance,@user | parse *@message* /(?<@ip>d{1,3}.d{1,3}.d{1,3}.d{1,3})/ | stats count() AS counter by @user | sort by @counter desc | limit 100
+```
 
 #### 3 categories of logs
 
@@ -56,6 +56,8 @@
 #### Cost Optimizing
 
 [Determine which log group is causing a bill increase | AWS re:Post](https://repost.aws/knowledge-center/cloudwatch-logs-bill-increase)
+
+Composite Alarms - [Combining alarms - Amazon CloudWatch](https://docs.aws.amazon.com/AmazonCloudWatch/latest/monitoring/Create_Composite_Alarm.html)
 
 ### 2. AWS Auto Scaling
 

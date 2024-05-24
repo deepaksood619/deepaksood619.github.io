@@ -179,3 +179,14 @@ Incase, if you were not able to attend due to unavoidable situations, Kindly hav
 I can't keep repeating same thing again and again guys!
 
 Thanks!
+
+---
+There are lot of priority pending items .. which is spilled over to this current sprint .. and you guys have already took many leaves recently ..  Instead of closing items in a proactive fashion , I feel we are tajking this client very causally .  How will be deployment done if jenkins is not working for 2-3 days ? Lets take a call here what can be done ..
+
+---
+
+Hi
+I cannot be apologetic enough for sudden unavailability today. It was due to a court purpose I had to take care today.
+As for my recent leaves I understand that in the past week i took a few days off due to a relative of mine passing away and my work took the hit.
+I can assure you I’ll give in extra hours over the weekend as well to compensate for this.
+Rest assured my intention was never to take this client casually. Apologies if you felt otherwise.
