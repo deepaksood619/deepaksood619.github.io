@@ -17,3 +17,7 @@ An Astro Deployment is an Airflow environment that is powered by [Astro Runtime
 [Airflow DAG Deployment With S3. How to deploy Airflow DAG definitions… | by Tomas | Medium](https://medium.com/@tomaspm/airflow-dag-deployment-with-s3-2536dc347d2d)
 
 [Use Airflow variables | Astronomer Documentation](https://docs.astronomer.io/learn/airflow-variables)
+
+### Costs
+
+For 100 DAGs - $7000 PM

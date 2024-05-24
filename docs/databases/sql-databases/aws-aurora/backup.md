@@ -154,6 +154,16 @@ mysqldump --single-transaction --host=abc.ap-south-1.rds.amazonaws.com -u userna
 - Also you are missing one things is this command which is --set-gtid-purged=OFF Please check for this
 ```
 
+#### MySQLWorkbench Dump
+
+```sql
+mysqldump --defaults-file="/var/folders/9j/l_15x5sx6c133kcr5vybw54m0000gn/T/tmpco89tdwc/extraparams.cnf"  --host=127.0.0.1 --port=1053 --default-character-set=utf8 --user=root --protocol=tcp --skip-triggers "schema_name"
+```
+
+- Warning: A partial dump from a server that has GTIDs will by default include the GTIDs of all transactions, even those that changed suppressed parts of the database. If you don't want to restore GTIDs, pass --set-gtid-purged=OFF. To make a complete dump, pass --all-databases --triggers --routines --events.
+- Warning: A dump from a server that has GTIDs enabled will by default include the GTIDs of all transactions, even those that were executed during its extraction and might not be represented in the dumped data. This might result in an inconsistent data dump.
+- In order to ensure a consistent backup of the database, pass --single-transaction or --lock-all-tables or --master-data.
+
 ### MyDumper
 
 MyDumper is a MySQL Logical Backup Tool. It has 2 tools:

@@ -11,11 +11,11 @@ CREATE TABLE table_name (column_1 datatype, column_2 datatype, column_3 datatype
 CREATE TABLE celebs ( id INTEGER, name TEXT, age INTEGER );
 
 CREATE TABLE cron_migrate_data (id int NOT NULL auto_increment,
-                        table_name varchar(100) NOT NULL,
-                        start_date datetime NOT NULL,
-                                            end_date datetime NOT NULL,
-                                            s3_file_path varchar(200) NOT NULL,
-                                            PRIMARY KEY (id));
+table_name varchar(100) NOT NULL,
+start_date datetime NOT NULL,
+end_date datetime NOT NULL,
+s3_file_path varchar(200) NOT NULL,
+PRIMARY KEY (id));
 
 CREATE TABLE load_test (id int NOT NULL auto_increment,
                         data_dump varchar(1000),

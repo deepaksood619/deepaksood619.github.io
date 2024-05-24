@@ -818,9 +818,30 @@ https://www.howtoforge.com/linux-nice-command
 
 The nohup utility invokes utility with its arguments and at this time sets the signal SIGHUP to be ignored. If the standard output is a terminal, the standard output is appended to the file nohup.out in the current directory. If standard error is a terminal, it is directed to the same place as the standard output.
 
-If you use thenohupcommand, you can continue processing even if you log out of the terminal.
+If you use the nohup command, you can continue processing even if you log out of the terminal.
 
 `nohup jupyter notebook &`
+
+### Screen
+
+```bash
+screen --version
+
+sudo apt install screen
+
+# Starting Named Session
+screen -S session_name
+
+Ctrl+a d
+
+# To resume your screen session
+screen -r
+
+# list the current running screen sessions
+screen -ls
+```
+
+[How To Use Linux Screen | Linuxize](https://linuxize.com/post/how-to-use-linux-screen/)
 
 ## sample
 

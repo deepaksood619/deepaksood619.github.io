@@ -17,3 +17,8 @@ Three node HotStandby HA cluster
 https://github.com/smbambling/pgsql_ha_cluster/wiki/Tutorial:-Building-A-Highly-Available-Multi-Node-PostgreSQL-Cluster
 
 ## CIB - Cluster Information Base
+
+## Others
+
+- [How to set up a Pacemaker cluster for high availability Linux | Enable Sysadmin](https://www.redhat.com/sysadmin/rhel-pacemaker-cluster)
+- [GitHub - ClusterLabs/pcs: Pacemaker command line interface and GUI](https://github.com/ClusterLabs/pcs)

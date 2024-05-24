@@ -1081,4 +1081,6 @@ A tool is only as good as the person using it.
 
 90 90 rule - when you think you are done with 90% of tasks, you are left with 90% of tasks
 
+दूध का जला छाछ भी फूंक कर पीता हैं। का अर्थ है “ एक बार धोखा खाने पर अत्यधिक सावधान होना।”
+
 ## End
