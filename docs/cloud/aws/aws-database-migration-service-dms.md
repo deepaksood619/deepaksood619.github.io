@@ -97,3 +97,4 @@ https://hevodata.com/blog/aurora-to-redshift-data-migration-using-aws-dms
 - Validation - [https://docs.aws.amazon.com/dms/latest/userguide/CHAP_Validating.html#CHAP_Validating.Limitations](https://docs.aws.amazon.com/dms/latest/userguide/CHAP_Validating.html#CHAP_Validating.Limitations)
 - Monitoring DMS task - [https://docs.aws.amazon.com/dms/latest/userguide/CHAP_Monitoring.html](https://docs.aws.amazon.com/dms/latest/userguide/CHAP_Monitoring.html)
 - S3 as target - [https://docs.aws.amazon.com/dms/latest/userguide/CHAP_Target.S3.html](https://docs.aws.amazon.com/dms/latest/userguide/CHAP_Target.S3.html)
+- [Optimize memory for migration using AWS DMS | AWS re:Post](https://repost.aws/knowledge-center/dms-memory-optimization)

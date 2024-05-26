@@ -140,79 +140,10 @@ To keep access to a shared snapshot owned by someone else, you can copy that sna
 
 [Replication with Amazon Aurora - Amazon Aurora](https://docs.aws.amazon.com/AmazonRDS/latest/AuroraUserGuide/Aurora.Replication.html)
 
-## Backup / Restore Tools
+# Backup / Restore Tools
 
 To restore your database, you can use the [pg_dump utility](https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/PostgreSQL.Procedural.Importing.html#PostgreSQL.Procedural.Importing.EC2) for PostgreSQL or for PostgreSQL versions 10.10 and later, and 11.5. Or, you can use [Transportable Databases](https://aws.amazon.com/blogs/database/migrating-databases-using-rds-postgresql-transportable-databases/), which moves data much faster than the pg_dump/pg_restore method. The [mysqldump](https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/MySQL.Procedural.Importing.SmallExisting.html) utility is available for importing data into MySQL/MariaDB engines, or you can use the [external replication](https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/MySQL.Procedural.Importing.NonRDSRepl.html) method for reduced downtime. Similarly, you can use [Data Pump](https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/Oracle.Procedural.Importing.DataPump.html) for Oracle and [native full backup](https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/SQLServer.Procedural.Importing.html#SQLServer.Procedural.Importing.Native.Using) (.bak files) for SQL Server.
 
-[GitHub - DSB/MySQLDumper: Backup & Restore for MySQL databases](https://github.com/DSB/MySQLDumper)
-
-```commands
-mysqldump --single-transaction --host=abc.ap-south-1.rds.amazonaws.com -u username --flush-logs --master-data=2 -p user_kyc > backup.sql
-
-- host=abc.ap-south-1.rds.amazonaws.com - This is the Cluster level Hostname in which Master data concept will not able to work
-- while taking backup of rds with mysqldump master-data=2 will not work as it is no longer with the mysql 8
-- Also you are missing one things is this command which is --set-gtid-purged=OFF Please check for this
-```
-
-#### MySQLWorkbench Dump
-
-```sql
-mysqldump --defaults-file="/var/folders/9j/l_15x5sx6c133kcr5vybw54m0000gn/T/tmpco89tdwc/extraparams.cnf"  --host=127.0.0.1 --port=1053 --default-character-set=utf8 --user=root --protocol=tcp --skip-triggers "schema_name"
-```
-
-- Warning: A partial dump from a server that has GTIDs will by default include the GTIDs of all transactions, even those that changed suppressed parts of the database. If you don't want to restore GTIDs, pass --set-gtid-purged=OFF. To make a complete dump, pass --all-databases --triggers --routines --events.
-- Warning: A dump from a server that has GTIDs enabled will by default include the GTIDs of all transactions, even those that were executed during its extraction and might not be represented in the dumped data. This might result in an inconsistent data dump.
-- In order to ensure a consistent backup of the database, pass --single-transaction or --lock-all-tables or --master-data.
-
-### MyDumper
-
-MyDumper is a MySQL Logical Backup Tool. It has 2 tools:
-
-- `mydumper` which is responsible to export a consistent backup of MySQL databases
-- `myloader` reads the backup from mydumper, connects to the destination database and imports the backup.
-
-Both tools use multithreading capabilities.
-MyDumper is Open Source and maintained by the community, it is not a Percona, MariaDB or MySQL product.
-
-#### Why do we need MyDumper?
-
-- Parallelism (hence, speed) and performance (avoids expensive character set conversion routines, efficient code overall)
-- Easier to manage output (separate files for tables, dump metadata, etc, easy to view/parse data)
-- Consistency - maintains snapshot across all threads, provides accurate master and slave log positions, etc
-- Manageability - supports PCRE for specifying database and tables inclusions and exclusions
-
-#### Advantages
-
-- MyDumper supports parallelism by using multi-threading, which improves the speed of backup and restore operations.
-- MyDumper avoids expensive character set conversion routines, which helps ensure the code is highly efficient.
-- MyDumper simplifies the data view and parsing by using dumping separate files for tables and metadata.
-- MyDumper maintains snapshots across all threads and provides accurate positions of primary and secondary logs.
-- You can use Perl Compatible Regular Expressions (PCRE) to specify whether to include or exclude tables or databases.
-
-#### Limitations
-
-- You might choose a different tool if your data transformation processes require intermediate dump files in flat format instead of SQL format.
-- myloader doesn't import database user accounts automatically. If you are restoring the backup to Amazon RDS or Aurora, recreate the users with the required permissions. For more information, see [Master user account privileges](https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/UsingWithRDS.MasterAccounts.html) in the Amazon RDS documentation. If you are restoring the backup to an Amazon EC2 database instance, you can manually export the source database user accounts and import them into the EC2 instance.
-
-#### Best practices
-
-- Configure mydumper to divide each table into segments, such as 10,000 rows in each segment, and write each segment in a separate file. This makes it possible to import the data in parallel later.
-- If you are using the InnoDB engine, use the `--trx-consistency-only` option to minimize locking.
-- Using mydumper to export the database can become read-intensive, and the process can impact overall performance of the production database. If you have a replica database instance, run the export process from the replica. Before you run the export from the replica, stop the replication SQL thread. This helps the export process run more quickly.
-- Don't export the database during peak business hours. Avoiding peak hours can stabilize the performance of your primary production database during the database export.
-
-[GitHub - mydumper/mydumper: Official MyDumper Project](https://github.com/mydumper/mydumper)
-
-[MyDumper - AWS Prescriptive Guidance](https://docs.aws.amazon.com/prescriptive-guidance/latest/migration-large-mysql-mariadb-databases/mydumper.html)
-
-### Other tools
-
-- [Rubrik Enterprise Backup – BACKUP EAGLE®](https://www.backup-eagle.com/product/rubrik-reporting)
-- [Instant Data Backup and Recovery Software | Rubrik](https://www.rubrik.com/solutions/backup-recovery)
-
 ## Links
 
-- [Best way to take AWS Aurora MySQL backups using Xtrabackup for \> 10TB large databases? - MySQL & MariaDB - Percona Community Forum](https://forums.percona.com/t/best-way-to-take-aws-aurora-mysql-backups-using-xtrabackup-for-10tb-large-databases/24246)
-- [Percona XtraBackup - AWS Prescriptive Guidance](https://docs.aws.amazon.com/prescriptive-guidance/latest/migration-large-mysql-mariadb-databases/percona-xtrabackup.html)
-- [Implementing Multi-Source Replication in AWS RDS MySQL: A Step-by-Step Guide | by Arun Pandey | Medium](https://medium.com/@arunpandeyaws/implementing-multi-source-replication-in-aws-rds-mysql-a-step-by-step-guide-02cd50231320)
-- [Exploring How MySQL 5.7 Multi-Source Replication Works](https://www.percona.com/blog/mysql-5-7-multi-source-replication/)
+- [Improve performance of your bulk data import to Amazon RDS for MySQL | AWS Database Blog](https://aws.amazon.com/blogs/database/improve-performance-of-your-bulk-data-import-to-amazon-rds-for-mysql/)

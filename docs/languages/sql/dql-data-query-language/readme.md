@@ -25,8 +25,6 @@ select * from mysql.user;
 
 select USER();
 
-SELECT @@global.time_zone, @@session.time_zone;
-
 -- SELECT
 SELECT column_name FROM table_name;
 SELECT statements are used to fetch data from a database. Every query will begin with SELECT
