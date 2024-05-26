@@ -156,7 +156,7 @@ The benchmark was run on an [m5dn.8xlarge](https://aws.amazon.com/blogs/aws/new
 
 Time to restore (in seconds)
 
-![Time to restore](media/Screenshot%202024-05-26%20at%205.50.56%20PM.jpg)
+![Time to restore](../../../media/Screenshot%202024-05-26%20at%205.50.56%20PM.jpg)
 
 ##### Outcomes
 
