@@ -1251,6 +1251,8 @@ SQLServer collation refers to a set of character and character encoding rules, a
 
 Tablespaces are physical storage locations, while schemas are logical containers for database objects. Tablespaces are used for managing storage locations, while schemas help organize database objects and control access. Tablespaces are typically used at the database level, whereas schemas are used within a database.
 
+[mysql - What is a tablespace and why is it used? - Stack Overflow](https://stackoverflow.com/questions/37805316/what-is-a-tablespace-and-why-is-it-used)
+
 14.6.4 InnoDB Data Dictionary
 
 14.6.5 Doublewrite Buffer

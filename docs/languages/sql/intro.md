@@ -53,6 +53,9 @@ https://launchbylunch.com/posts/2014/Feb/16/sql-naming-conventions
 
 ### Others
 
+- DBA
+   	- [Becoming a Production MySQL DBA | Udemy](https://www.udemy.com/course/becoming-a-production-mysql-dba/)
+   	- [MySQL Replication course from zero to hero | MySQL DBA | Udemy](https://www.udemy.com/course/mysql-replication-course-from-zero-to-hero/)
 - [**SQL Concepts From A to Z**](http://www.helenanderson.co.nz/sql-concepts-from-a-to-z)
     - [Alias](https://www.helenanderson.co.nz/sql-concepts-from-a-to-z/#chapter-1)
     - [Begin transaction](https://www.helenanderson.co.nz/sql-concepts-from-a-to-z/#chapter-2)

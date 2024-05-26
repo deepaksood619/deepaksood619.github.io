@@ -435,7 +435,8 @@ Indian History - https://www.anirudhkanisetti.com/podcasts
 - https://pirate-proxy.top/
 - [Download music, movies, games, software! The Pirate Bay - The galaxy's most resilient BitTorrent site](https://pirate-proxy.click/)
 - [https://fmovies.pub](https://fmovies.pub/)
-- popcorn times
+- popcorn times - [GitHub - popcorn-official/popcorn-desktop: Popcorn Time is a multi-platform, free software BitTorrent client that includes an integrated media player ( Windows / Mac / Linux ) A Butter-Project Fork](https://github.com/popcorn-official/popcorn-desktop)
+   	- `xattr -c "/Applications/Popcorn-Time.app/"`
 - https://yifytorrent.cc
 - https://yts.mx
 - https://pirate-proxy.me

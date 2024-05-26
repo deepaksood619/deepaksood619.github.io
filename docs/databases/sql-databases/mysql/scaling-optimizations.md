@@ -154,3 +154,5 @@ https://dev.mysql.com/doc/refman/8.0/en/data-size.html
 ## Others
 
 [Building and deploying MySQL Raft at Meta - Engineering at Meta](https://engineering.fb.com/2023/05/16/data-infrastructure/mysql-raft-meta/)
+
+[MySQL High Performance Tuning Guide | Udemy](https://www.udemy.com/course/mysql-high-performance-tuning-guide/?couponCode=IND21PM)

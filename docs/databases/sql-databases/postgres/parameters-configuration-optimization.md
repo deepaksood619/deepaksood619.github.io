@@ -1,5 +1,20 @@
 # Parameters / Configurations / Optimizations
 
+### Variables
+
+```sql
+SELECT @@global.time_zone, @@session.time_zone;
+
+SELECT @@global.transaction_ISOLATION;
+SELECT @@transaction_ISOLATION;
+
+SET global max_execution_time = 60000;
+SELECT @@global.max_execution_time -- 60000
+
+SET session max_execution_time=300000;
+SELECT @@session.max_execution_time -- 15000
+```
+
 ### pg_hba.conf (postgres host based authentication config)
 
 `pg_hba.conf` file controls client authentication and access to the database server. Configuring it involves specifying rules for different authentication methods, IP addresses, and users. To enhance security, you can restrict access based on IP addresses, require SSL, and use strong authentication methods.

@@ -153,3 +153,9 @@ https://www.youtube.com/watch?v=R2FT5edyKOg
 ## Exponential Backoff
 
 [Exponential Backoff And Jitter | AWS Architecture Blog](https://aws.amazon.com/blogs/architecture/exponential-backoff-and-jitter/)
+
+## Others
+
+- [Request Collapsing | InterviewReady | System Design Course | Gaurav Sen](https://interviewready.io/blog/Concurrency-Patterns-for-Senior-Engineers-part-1)
+- [Cron job scheduling | InterviewReady | System Design Course | Gaurav Sen](https://interviewready.io/blog/concurrency-for-senior-engineers-part-ii)
+- [Request Hedging | InterviewReady | System Design Course | Gaurav Sen](https://interviewready.io/blog/concurrency-for-senior-engineers-part-iii)

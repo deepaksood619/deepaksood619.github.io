@@ -61,36 +61,37 @@ Rows - 1,048,576- Text to column
 - `SUMIF(C6:C15,D19,D6:D15)`
    	- `SUMIF($C:$C, "Revenue", D:D)`
 - `AVERAGEIF(B5:B11,"<"&300000,C5:C11)`
-- =SUMPRODUCT(B5:B7,C5:C7)/SUM(B5:B7)
-- =MID(B4,1,10)
-- =IRR(B4:B8)
-- =XIRR(B5:B9,C5:C9)
-- =YEAR(B4)
-- =MONTH(B4)
-- =DAY(B4)
-- =TODAY()
-- =EOMONTH(B10,3)
-- =EOMONTH(B10,-3)
-- =IFERROR(SUM(C4:C6),"NA")
-- =AVERAGE(C6:C11)
-- =MEDIAN(C6:C11)
-- =MAX(C6:C11)
-- =MIN(C6:C11)
-- =VLOOKUP(B10,B7:E12,3,)
-- =IF(ISNUMBER(MATCH(A2, Sheet2!C:C, 0)), 1, 0)
-- =IFERROR(VLOOKUP(A2, Sheet12!A:B, 2, FALSE), F2)
-- =PMT(D5,D6,D4) - calculate emi amount for loan
+- `FORECAST(B10,C2:C8,B2:B8)`
+- `SUMPRODUCT(B5:B7,C5:C7)/SUM(B5:B7)`
+- `MID(B4,1,10)`
+- `IRR(B4:B8)`
+- `XIRR(B5:B9,C5:C9)`
+- `YEAR(B4)`
+- `MONTH(B4)`
+- `DAY(B4)`
+- `TODAY()`
+- `EOMONTH(B10,3)`
+- `EOMONTH(B10,-3)`
+- `IFERROR(SUM(C4:C6),"NA")`
+- `AVERAGE(C6:C11)`
+- `MEDIAN(C6:C11)`
+- `MAX(C6:C11)`
+- `MIN(C6:C11)`
+- `VLOOKUP(B10,B7:E12,3,)`
+- `IF(ISNUMBER(MATCH(A2, Sheet2!C:C, 0)), 1, 0)`
+- `IFERROR(VLOOKUP(A2, Sheet12!A:B, 2, FALSE), F2)`
+- `PMT(D5,D6,D4)` - calculate emi amount for loan
 - What-if analysis
     - GoalSeek
-- =PERCENTILE(A2:A20, 0.5) # to get 50th percentile value
-- =PERCENTILERANK(A2:A20, A2) # relative position of a particular data point within a dataset expressed as a percentage
-- PERCENTRANK.INC: Calculates the percentile rank of a value, including the smallest and largest values.
-- PERCENTRANK.EXC: Calculates the percentile rank of a value, excluding the smallest and largest values.
+- `PERCENTILE(A2:A20, 0.5)` # to get 50th percentile value
+- `PERCENTILERANK(A2:A20, A2)` # relative position of a particular data point within a dataset expressed as a percentage
+- `PERCENTRANK.INC`: Calculates the percentile rank of a value, including the smallest and largest values.
+- `PERCENTRANK.EXC`: Calculates the percentile rank of a value, excluding the smallest and largest values.
 
 - IF
     - SUMIF, SUMIFS, COUNTIF, COUNTIFS
-- =FILTER(I:I, ISNA(MATCH(I:I, C:C, 0))) - filter one column based on other column
-- =concatenate(A1:A5)
+- `FILTER(I:I, ISNA(MATCH(I:I, C:C, 0)))` - filter one column based on other column
+- `concatenate(A1:A5)`
 
 ## Others
 

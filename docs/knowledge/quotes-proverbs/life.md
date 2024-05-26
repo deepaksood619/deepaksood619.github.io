@@ -1083,4 +1083,6 @@ A tool is only as good as the person using it.
 
 दूध का जला छाछ भी फूंक कर पीता हैं। का अर्थ है “ एक बार धोखा खाने पर अत्यधिक सावधान होना।”
 
+“The illiterate of the twenty-first century will not be those who cannot read and write, but those who cannot learn, unlearn, and relearn.” — Alvin Toffler
+
 ## End

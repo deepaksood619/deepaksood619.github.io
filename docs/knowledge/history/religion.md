@@ -22,3 +22,7 @@ Book - What has religion done for mankind?
 ## New Religious Movement (NRM)
 
 https://en.wikipedia.org/wiki/New_religious_movement
+
+## Links
+
+[World Religions Explained (Full Series) - YouTube](https://www.youtube.com/watch?v=nxhSOcyPCVo&ab_channel=UsefulCharts)

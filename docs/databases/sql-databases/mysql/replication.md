@@ -1,5 +1,9 @@
 # Replication
 
+[MySQL Replication Tutorial - YouTube](https://www.youtube.com/playlist?list=PLd5sTGXltJ-mvbbhIyLT8hjinK9RYfjhY)
+
+[MySQL Replication course from zero to hero | MySQL DBA | Udemy](https://www.udemy.com/course/mysql-replication-course-from-zero-to-hero/)
+
 [Replicating - Amazon Relational Database Service](https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/mysql-stored-proc-replicating.html)
 
 ```sql
