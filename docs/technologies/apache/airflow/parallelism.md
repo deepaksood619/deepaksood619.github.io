@@ -68,6 +68,8 @@ This is a global setting in Airflow's configuration that limits the number of ta
 
 Pools are a way to limit concurrency for a group of tasks across multiple DAGs. By assigning tasks to a pool, you can control the maximum number of tasks from that pool that can run at once, regardless of which DAG they belong to. This is especially useful for managing tasks that access a shared resource, like a database, to prevent overloading it.
 
+[Pools — Airflow Documentation](https://airflow.apache.org/docs/apache-airflow/stable/administration-and-deployment/pools.html)
+
 ### Implementing Concurrency Controls
 
 To implement these controls, you would adjust your Airflow configurations or DAG definitions as follows:
@@ -129,6 +131,20 @@ task = DummyOperator(
 
 By thoughtfully configuring these concurrency and queue settings, you can optimize Airflow to handle your workloads efficiently, balancing the need for timely execution with the limitations of your system's resources.
 
+## Increasing Parallelism vs. Number of Schedulers
+
+### Increasing Parallelism
+
+- Directly increases the number of concurrent tasks managed by a single scheduler.
+- Simpler to implement but has limits based on the scheduler's capacity and system resources.
+- Useful for setups where a single scheduler can handle the workload with increased concurrency.
+
+### Increasing Number of Schedulers
+
+- Distributes the task execution load across multiple schedulers, enhancing fault tolerance and scalability.
+- Requires additional configuration and management but provides better scalability for large and complex workloads.
+- Essential for highly distributed environments or when a single scheduler becomes a bottleneck.
+
 ## What's the difference between airflow pool and celery queues
 
 Apache Airflow offers several mechanisms to manage the execution and concurrency of tasks, with Airflow Pools and Celery Queues being two of these mechanisms. They serve similar purposes in controlling how tasks are executed but operate in different scopes and manners. Understanding the difference between the two can help in effectively managing task execution and resource allocation.
@@ -160,6 +176,22 @@ Celery Queues are part of the Celery Executor setup in Airflow, which is used fo
 
 Both Airflow Pools and Celery Queues are powerful tools for managing task execution in Airflow, and they can be used together to achieve efficient task distribution and resource utilization.
 
+## Airflow Pool vs Celery Worker Pool
+
+### Default Pool in Airflow
+
+- **Purpose**: Limits the number of tasks that can run concurrently across all DAGs and tasks within an Airflow instance.
+- **Scope**: Controls task-level concurrency within the Airflow environment by managing the number of task slots.
+- **Configuration**: Managed through the Airflow UI or configuration files; default is 128 slots but can be customized.
+- **Use Case**: Ideal for controlling resource allocation and preventing resource contention for tasks within Airflow.
+
+### Celery Worker Pool
+
+- **Purpose**: Manages the distribution and execution of tasks across multiple worker nodes in a distributed environment.
+- **Scope**: Operates at the worker node level, handling task execution distributed by the Airflow scheduler.
+- **Configuration**: Configured via Celery settings, including the number of worker processes and their concurrency.
+- **Use Case**: Essential for scaling task execution horizontally by adding more worker nodes, enhancing fault tolerance and scalability.
+
 [Airflow concurrency essentials — Restack](https://www.restack.io/docs/airflow-knowledge-airflow-concurrency-guide)
 
 [FAQ — Airflow Documentation](https://airflow.apache.org/docs/apache-airflow/stable/faq.html)
@@ -180,6 +212,14 @@ Both Airflow Pools and Celery Queues are powerful tools for managing task execut
 
 **max_active_runs_per_dag** The maximum number of active DAG runs per DAG. So if you start a DAG with `catchup=True`, it will start to schedule lot’s of DAG runs concurrently up to this limit.
 
+## Links
+
 [Dependencies across DAGs - Airflow - The Apache Airflow Forum by Astronomer](https://forum.astronomer.io/t/dependencies-across-dags/332)
 
 [Scaling Airflow to optimize performance | Astronomer Documentation](https://docs.astronomer.io/learn/airflow-scaling-workers)
+
+[3 steps for Building Airflow Pipelines with Efficient Resource Utilisation | by Vachan Anand | Jul, 2022 | Medium | Towards Data Science](https://towardsdatascience.com/3-steps-to-build-airflow-pipelines-with-efficient-resource-utilisation-b9f399d29fb3)
+
+[Airflow Parallelism 101: A Comprehensive Guide - Learn | Hevo](https://hevodata.com/learn/airflow-parallelism)
+
+[Be a Pro in Scaling Apache Airflow | by Faizan Qazi | Medium](https://medium.com/@caxefaizan/be-a-pro-in-scaling-apache-airflow-d9bd3b5c26d0)

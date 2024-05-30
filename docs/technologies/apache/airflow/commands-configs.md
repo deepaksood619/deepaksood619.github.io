@@ -42,6 +42,10 @@ AIRFLOW__CELERY__BROKER_URL: redis://:airflow@ars-redis-headless.airflow:6379/0
 AIRFLOW__CELERY__CELERY_RESULT_BACKEND: db+postgresql://postgres:airflow@apg-postgresql-headless.airflow:5432/airflow
 
 AIRFLOW__SCHEDULER__CATCHUP_BY_DEFAULT: "False"
+
+AIRFLOW__CORE__PARALLELISM: 32 (default)
+
+AIRFLOW__SCHEDULER__USE_ROW_LEVEL_LOCKING: True
 ```
 
 ### Config
@@ -52,3 +56,7 @@ AIRFLOW__SCHEDULER__CATCHUP_BY_DEFAULT: "False"
 
 - [Helm Chart for Apache Airflow — helm-chart Documentation](https://airflow.apache.org/docs/helm-chart/stable/index.html)
 - [GitHub - airflow-helm/charts: The User-Community Airflow Helm Chart is the standard way to deploy Apache Airflow on Kubernetes with Helm. Originally created in 2017, it has since helped thousands of companies create production-ready deployments of Airflow on Kubernetes.](https://github.com/airflow-helm/charts)
+
+## Links
+
+- [Configuration Reference — Airflow Documentation](https://airflow.apache.org/docs/apache-airflow/stable/configurations-ref.html)

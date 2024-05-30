@@ -18,9 +18,9 @@ A task can consist of three major phases
 
 ### Migration Types
 
-- Full load (Migrate existing data) -- If you can afford an outage long enough to copy your existing data, this option is a good one to choose. This option simply migrates the data from your source database to your target database, creating tables when necessary.
-- Full load + CDC (Migrate existing data and replicate ongoing changes) -- This option performs a full data load while capturing changes on the source. After the full load is complete, captured changes are applied to the target. Eventually, the application of changes reaches a steady state. At this point, you can shut down your applications, let the remaining changes flow through to the target, and then restart your applications pointing at the target.
-- CDC only (Replicate data changes only) -- In some situations, it might be more efficient to copy existing data using a method other than AWS DMS. For example, in a homogeneous migration, using native export and import tools might be more efficient at loading bulk data. In this situation, you can use AWS DMS to replicate changes starting when you start your bulk load to bring and keep your source and target databases in sync.
+- Full load (Migrate existing data) - If you can afford an outage long enough to copy your existing data, this option is a good one to choose. This option simply migrates the data from your source database to your target database, creating tables when necessary.
+- Full load + CDC (Migrate existing data and replicate ongoing changes) - This option performs a full data load while capturing changes on the source. After the full load is complete, captured changes are applied to the target. Eventually, the application of changes reaches a steady state. At this point, you can shut down your applications, let the remaining changes flow through to the target, and then restart your applications pointing at the target.
+- CDC only (Replicate data changes only) - In some situations, it might be more efficient to copy existing data using a method other than AWS DMS. For example, in a homogeneous migration, using native export and import tools might be more efficient at loading bulk data. In this situation, you can use AWS DMS to replicate changes starting when you start your bulk load to bring and keep your source and target databases in sync.
 
 https://docs.aws.amazon.com/dms/latest/userguide/CHAP_Introduction.HighLevelView.html
 
@@ -71,14 +71,74 @@ https://docs.aws.amazon.com/SchemaConversionTool/latest/userguide/CHAP_Welcome.h
 
 ### Pricing
 
+Free Tier - includes up to 750 hours per month for a Single-AZ dms.t2.micro instance
+
 All data transfer into AWS Database Migration Service is free, and data transferred between AWS Database Migration Service and databases in Amazon RDS and Amazon EC2 Instances in the same Availability Zone also is free.
 
-| | |
-|---|---|
+|          |        |
+| -------- | ------ |
 | c4.large | $0.154 |
 | c5.large | $0.154 |
 
+Homogeneous data migrations - $0.0824 per migration hour
+
 https://hevodata.com/blog/aurora-to-redshift-data-migration-using-aws-dms
+
+#### Serverless
+
+AWS DMS Serverless offers the flexibility and ease to migrate data without the need to provision replication instances or manually monitor use and adjust capacity. It automatically provisions, monitors, and scales migration resources to the optimal capacity needed to meet demand. DMS Serverless supports popular DMS use cases including continuous data replication, database consolidation, and migrations, even if the source and target database engines differ. It aids even the most complex migrations, including migrating tens or even hundreds of workloads simultaneously or completing ongoing data replications on AWS.
+
+[Working with AWS DMS Serverless - AWS Database Migration Service](https://docs.aws.amazon.com/dms/latest/userguide/CHAP_Serverless.html)
+
+### Migration planning
+
+[AWS DMS Fleet Advisor](https://aws.amazon.com/dms/fleet-advisor/) is a free, fully managed capability of AWS Database Migration Service (AWS DMS). It automates migration planning and helps you [migrate database and analytics fleets](https://aws.amazon.com/products/databases/migrations/) to the cloud at scale with minimal effort. To accelerate migrations, AWS DMS Fleet Advisor automatically inventories and assesses your on-premises database and analytics server fleet and identifies potential migration paths. Using historical performance and usage patterns collected from self-managed databases, Fleet Advisor can [recommend target database engines](https://docs.aws.amazon.com/dms/latest/userguide/fa-recommendations.html) and instance options as well as estimate costs. DMS helps you confidently migrate your databases and analytics systems to AWS with virtually no downtime.
+
+AWS DMS Fleet Advisor discovers and analyzes the same source databases supported in AWS DMS, including Oracle, Microsoft SQL Server, MySQL, PostgreSQL, and more. DMS Fleet Advisor delivers results in a few hours, instead of weeks or even months, without using third-party tools or hiring migration experts.
+
+### Schema assessment and conversion
+
+AWS DMS Schema Conversion (DMS SC) is a fully managed feature of AWS DMS that allows you to automatically assess and convert database schemas and code objects at scale with zero downtime. AWS DMS Schema Conversion supports popular heterogeneous migrations, such as [Oracle to Amazon RDS for PostgreSQL](https://docs.aws.amazon.com/dms/latest/sbs/schema-conversion-oracle-postgresql.html), [SQL Server to Amazon RDS for MySQL](https://docs.aws.amazon.com/dms/latest/sbs/schema-conversion-sql-server-mysql.html), [SQL Server to Amazon Aurora PostgreSQL-Compatible Edition,](https://docs.aws.amazon.com/dms/latest/sbs/schema-conversion-sql-server-aurora-postgresql.html) and [Oracle to Amazon Aurora MySQL-Compatible Edition](https://docs.aws.amazon.com/dms/latest/sbs/schema-conversion-oracle-aurora-mysql.html). You can save weeks or months of manual time and resources with a few clicks in the DMS console.
+
+With a few clicks, you can generate an assessment report that shows the schema conversion complexity. This report provides prescriptive guidance on how to resolve any incompatibilities between the source and target database engines. Learn more about AWS DMS Schema Conversion in the [documentation](https://docs.aws.amazon.com/dms/latest/userguide/CHAP_SchemaConversion.html) and [how to get started.](https://docs.aws.amazon.com/dms/latest/userguide/getting-started.html)
+
+### Homogeneous Data Migration
+
+Homogeneous data migrations - $0.0824 per migration hour
+
+With homogeneous data migrations, you pay by the hour only for the duration of the data migration. With no replication instances to provision, you do not need to worry about over-provisioning or manually scaling capacity, saving time and cost.
+
+#### Features
+
+- Engine Support
+   	- MySQL versions 5.7.x and above
+   	- PosgreSQL versions 10.4 and above
+   	- On-premises, Amazon EC2, and Amazon RDS sources
+   	- Amazon RDS and Amazon Aurora Targets
+- Full Schema and Data Set
+   	- All data types are fully migrated
+   	- Secondary objects are migrated
+   	- Partitions are also supported
+- Migration Types
+   	- Full load
+   	- Full load + change data capture (CDC)
+   	- CDC only
+
+[Overview of the homogeneous data migration process in AWS DMS - AWS Database Migration Service](https://docs.aws.amazon.com/dms/latest/userguide/dm-getting-started.html)
+
+[Running homogeneous data migrations in AWS DMS - AWS Database Migration Service](https://docs.aws.amazon.com/dms/latest/userguide/dm-migrating-data.html)
+
+[Enhanced homogeneous migration capabilities with AWS Database Migration Services- AWS Database in 15 - YouTube](https://www.youtube.com/watch?v=aQ8idU-1nXk&ab_channel=AWSDevelopers)
+
+[Migrating your PostgreSQL database to Amazon RDS for PostgreSQL with AWS Database Migration Service - YouTube](https://www.youtube.com/watch?v=HOJfrR6lcuU&ab_channel=AmazonWebServices)
+
+## Best Practices
+
+Make sure that you know what information and tables in the source database need to be migrated to the target database. **AWS DMS supports basic schema migration, including the creation of tables and primary keys. However, AWS DMS doesn't automatically create secondary indexes, foreign keys, user accounts, and so on, in the target database**. Depending on your source and target database engine, you might need to set up supplemental logging or modify other settings for a source or target database.
+
+It replicates only a limited amount of data definition language (DDL) statements. AWS DMS doesn't propagate items such as indexes, users, privileges, stored procedures, and other database changes not directly related to table data.
+
+[Best practices for AWS Database Migration Service - AWS Database Migration Service](https://docs.aws.amazon.com/dms/latest/userguide/CHAP_BestPractices.html)
 
 ## Links
 
@@ -98,3 +158,5 @@ https://hevodata.com/blog/aurora-to-redshift-data-migration-using-aws-dms
 - Monitoring DMS task - [https://docs.aws.amazon.com/dms/latest/userguide/CHAP_Monitoring.html](https://docs.aws.amazon.com/dms/latest/userguide/CHAP_Monitoring.html)
 - S3 as target - [https://docs.aws.amazon.com/dms/latest/userguide/CHAP_Target.S3.html](https://docs.aws.amazon.com/dms/latest/userguide/CHAP_Target.S3.html)
 - [Optimize memory for migration using AWS DMS | AWS re:Post](https://repost.aws/knowledge-center/dms-memory-optimization)
+
+- [Migrating a MySQL Database to RDS for MySQL or Aurora MySQL - Database Migration Guide](https://docs.aws.amazon.com/dms/latest/sbs/chap-manageddatabases.mysql2rds.html)

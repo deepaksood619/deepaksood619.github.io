@@ -10,39 +10,12 @@ SELECT
   table_name,
   ROUND((DATA_LENGTH) / 1024 / 1024 / 1024, 2) AS `Data Size (GB)`,
   ROUND((INDEX_LENGTH) / 1024 / 1024 / 1024, 2) AS `Index Size (GB)`,
-  ROUND((DATA_LENGTH + INDEX_LENGTH) / 1024 / 1024 / 1024, 2) AS `Total Size (GB)`
+  ROUND((data_free)/1024/1024/1024,2) AS free_gb,
+  ROUND((DATA_LENGTH + INDEX_LENGTH + data_free) / 1024 / 1024 / 1024, 2) AS `Total Size (GB)`
 FROM
   information_schema.TABLES
 ORDER BY
-  (DATA_LENGTH + INDEX_LENGTH) DESC limit 10;
-
-
-SELECT
-	table_schema,
-	table_name,
-	SUM(data_length + index_length + data_free)/1024/1024 AS total_mb,
-	SUM(data_length)/1024/1024 AS data_mb,
-	SUM(index_length)/1024/1024 AS index_mb,
-	SUM(data_free)/1024/1024 AS free_mb,
-	COUNT(*) AS tables,
-	CURDATE() AS today
-FROM
-	information_schema.tables
-ORDER BY 3 DESC
-LIMIT 10;
-
-SELECT
-	table_schema,
-	SUM(data_length + index_length + data_free)/1024/1024 AS total_mb,
-	SUM(data_length)/1024/1024 AS data_mb,
-	SUM(index_length)/1024/1024 AS index_mb,
-	SUM(data_free)/1024/1024 AS free_mb,
-	COUNT(*) AS tables,
-	CURDATE() AS today
-FROM
-	information_schema.tables
-ORDER BY 3 DESC
-LIMIT 10;
+  (DATA_LENGTH + INDEX_LENGTH + data_free) DESC limit 10;
 
 -- Schema wise data
 SELECT

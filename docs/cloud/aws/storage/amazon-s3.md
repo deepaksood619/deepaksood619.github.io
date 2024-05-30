@@ -166,6 +166,12 @@ https://docs.aws.amazon.com/AmazonS3/latest/dev/object-lifecycle-mgmt.html
 
 https://docs.aws.amazon.com/AmazonS3/latest/userguide/how-to-set-lifecycle-configuration-intro.html
 
+### Deleting huge amount of objects
+
+To delete an AWS S3 bucket with 500TB of data, the fastest and most cost-effective solution would be to use the S3 Lifecycle configuration.
+
+[Deleting a S3 bucket of size 500 TB | AWS re:Post](https://repost.aws/questions/QU5FKQm2XFSaCfNyYKHfzbRw/deleting-a-s3-bucket-of-size-500-tb)
+
 ## When should you use amazon S3
 
 - **Good use cases**
@@ -186,7 +192,7 @@ https://aws.amazon.com/s3/storage-analytics-insights
 |-|-|
 | S3 Storage Lens advanced metrics and recommendations† | $0.20per million objects monitored per month |
 
-† For S3 Storage Lens advanced metrics and recommendations, you will be charged object monitoring fees for each Storage Lens dashboard used. The Storage Lens advanced metrics and recommendations pricing includes 15-months data retention, activity metrics, and prefix-level aggregation.
+† For S3 Storage Lens advanced metrics and recommendations, you will be charged object monitoring charges for each Storage Lens dashboard used. The Storage Lens advanced metrics and recommendations pricing includes 15-months data retention, 35 additional metrics across 4 categories (**activity, advanced cost optimization, advanced data protection, and detailed status code metrics**), **prefix-level aggregation, and CloudWatch metrics support**.
 
 ### Amazon S3 analytics – Storage Class Analysis
 

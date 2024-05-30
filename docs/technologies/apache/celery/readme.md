@@ -151,3 +151,5 @@ Full journey for a single request is:
 - https://docs.celeryproject.org/projects/celery-enhancement-proposals/en/latest/draft/high-level-architecture.html
 - [The Many Problems with Celery | Log Blog Kebab](https://steve.dignam.xyz/2023/05/20/many-problems-with-celery/)
 - [task-aware celery worker autoscaling (+ \`pod-deletion-cost\`) · Issue #339 · airflow-helm/charts · GitHub](https://github.com/airflow-helm/charts/issues/339)
+- [Asynchronous Tasks With Django and Celery – Real Python](https://realpython.com/asynchronous-tasks-with-django-and-celery/)
+- [Celery Integration With Django - GeeksforGeeks](https://www.geeksforgeeks.org/celery-integration-with-django/)

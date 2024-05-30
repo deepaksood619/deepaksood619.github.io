@@ -13,6 +13,7 @@
 - [Enterprise Integration Patterns](enterprise-integration-patterns)
 - [API Gateway](api-gateway)
 - [Rate Limiting](rate-limiting)
+- [Retries](computer-science/system-design/retries.md)
 - [Addressing Failures](addressing-failures)
 - [Twelve-Factor App](twelve-factor-app)
 - [Others](computer-science/system-design/others.md)

@@ -133,6 +133,8 @@ An [interface endpoint](https://docs.aws.amazon.com/vpc/latest/userguide/vpce-in
 A [gateway endpoint](https://docs.aws.amazon.com/vpc/latest/userguide/vpce-gateway.html) is a gateway that you specify as a target for a route in your route table for traffic destined to a supported AWS service. The following AWS services are supported:
 
 - Amazon S3
+   	- S3 Endpoint is almost always better than NAT Gateway.
+   	- [Gateway endpoints for Amazon S3 - Amazon Virtual Private Cloud](https://docs.aws.amazon.com/vpc/latest/privatelink/vpc-endpoints-s3.html)
 - DynamoDB
 
 https://docs.aws.amazon.com/vpc/latest/userguide/vpc-endpoints.html
@@ -140,6 +142,17 @@ https://docs.aws.amazon.com/vpc/latest/userguide/vpc-endpoints.html
 NACL - Network Access Control List - [Control traffic to subnets using network ACLs - Amazon Virtual Private Cloud](https://docs.aws.amazon.com/vpc/latest/userguide/vpc-network-acls.html)
 
 SG - Security Groups
+
+### VPC NAT Gateway Costs
+
+Using a single natgateway that exists in only mumbai-1a az. Due to this other applications which are in other 2 az’s of mumbai region server through the mumbai-1a az. This architecture may be the cause of regional data transfer costs. We can save this cost by creating az specific natgateway.
+
+- [Monitor NAT gateways with Amazon CloudWatch - Amazon Virtual Private Cloud](https://docs.aws.amazon.com/vpc/latest/userguide/vpc-nat-gateway-cloudwatch.html)
+- [High cost in NatGateway bytes | AWS re:Post](https://repost.aws/questions/QUTdLrXmoISSerSzHivJ8yAA/high-cost-in-natgateway-bytes)
+- [Find the top contributors to traffic through a NAT gateway in a VPC | AWS re:Post](https://repost.aws/knowledge-center/vpc-find-traffic-sources-nat-gateway)
+- [Reduce data transfer charges for a NAT gateway | AWS re:Post](https://repost.aws/knowledge-center/vpc-reduce-nat-gateway-transfer-costs)
+- [Understand AWS Data transfer details in depth from cost and usage report using Athena query and QuickSight | Networking & Content Delivery](https://aws.amazon.com/blogs/networking-and-content-delivery/understand-aws-data-transfer-details-in-depth-from-cost-and-usage-report-using-athena-query-and-quicksight/)
+- [AWS NAT Gateway Pricing: How To Reduce Your Costs](https://www.cloudzero.com/blog/reduce-nat-gateway-costs/)
 
 ## Elastic IP Addesses
 

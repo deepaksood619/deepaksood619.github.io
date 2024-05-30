@@ -33,5 +33,6 @@
 - [Helm](helm)
 - [Optimizations](devops/kubernetes/optimizations.md)
 - [Tools](devops/kubernetes/tools.md)
+   	- [Keda](devops/kubernetes/keda.md)
 - [Troubleshooting](troubleshooting)
 - [Others](devops/kubernetes/others.md)

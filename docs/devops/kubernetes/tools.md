@@ -389,21 +389,7 @@ https://www.youtube.com/watch?v=PW44JaAlI_8
 - [Kubecost 2.0: Collections Demo - YouTube](https://www.youtube.com/watch?v=Ek_ZdCfKy18&ab_channel=Kubecost)
 - [Kubecost 2.0: Getting Started - YouTube](https://www.youtube.com/watch?v=AtBptqHbonk&ab_channel=Kubecost)
 
-## KEDA
-
-Kubernetes Event-driven Autoscaling
-
-KEDA is a single-purpose and lightweight component that can be added into any Kubernetes cluster. KEDA works alongside standard Kubernetes components like the [Horizontal Pod Autoscaler](https://kubernetes.io/docs/tasks/run-application/horizontal-pod-autoscale/) and can extend functionality without overwriting or duplication. With KEDA you can explicitly map the apps you want to use event-driven scale, with other apps continuing to function. This makes KEDA a flexible and safe option to run alongside any number of any other Kubernetes applications or frameworks.
-
-https://learnk8s.io/scaling-celery-rabbitmq-kubernetes
-
-https://keda.sh
-
-[GitHub - kedacore/keda: KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes](https://github.com/kedacore/keda)
-
-[Scaling Kubernetes-based Event-driven Workloads with Keda & Karpenter • Roland Barcia • GOTO 2023 - YouTube](https://www.youtube.com/watch?v=QaPbcayEicw&ab_channel=GOTOConferences)
-
-#### [Karpenter](https://karpenter.sh/)
+## [Karpenter](https://karpenter.sh/)
 
 Just-in-time Nodes for Any Kubernetes Cluster
 

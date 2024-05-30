@@ -82,6 +82,22 @@ Reusable workflow library for Django
 
 django-reversion is an extension to the Django web framework that provides version control for model instances.
 
+[Management commands — django-reversion 5.0.12 documentation](https://django-reversion.readthedocs.io/en/latest/commands.html)
+
+```bash
+./manage.py deleterevisions
+# keep any changes from last 30 days
+./manage.py deleterevisions your_app.YourModel --days=30
+# keep 30 most recent changes for each item.
+./manage.py deleterevisions your_app.YourModel --keep=30
+# Keep anything from last 30 days and at least 3 from older changes.
+./manage.py deleterevisions your_app.YourModel --keep=3 --days=30
+
+# With no arguments, this command will delete your entire revision history! Read the command help for ways to limit which revisions should be deleted.
+```
+
+[django-reversion/reversion/management/commands/deleterevisions.py at a781656740bcb0d998324cd3a8c11c8754e1e1b2 · etianen/django-reversion · GitHub](https://github.com/etianen/django-reversion/blob/a781656740bcb0d998324cd3a8c11c8754e1e1b2/reversion/management/commands/deleterevisions.py)
+
 ## Django Crispy Forms
 
 https://django-crispy-forms.readthedocs.io/en/latest

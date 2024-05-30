@@ -252,7 +252,7 @@ https://pristineorganics.com/millet-ancient-grains-for-a-healthier-future
 
 ## Other Grains (Gluten Free)
 
-|                      |                           |
+| English              | Hindi                     |
 | -------------------- | ------------------------- |
 | Rice                 | Chawal                    |
 | Puffed Rice          | Murmure                   |

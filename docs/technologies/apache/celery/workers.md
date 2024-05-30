@@ -73,7 +73,7 @@ Both pool options are based on the same concept: Spawn a greenlet pool. The diff
 
 [gevent](http://www.gevent.org/) and [eventlet](http://eventlet.net/) are both packages that you need to pip-install yourself. There are implementation differences between the eventlet and gevent packages. Depending on your circumstances, one can perform better than the other. It is worthwhile trying out both.
 
-## The concurrency option
+### The concurrency option
 
 To choose the best execution pool, you need to understand whether your tasks are CPU- or I/O-bound. CPU-bound tasks are best executed by a prefork execution pool. I/O bound tasks are best executed by a gevent/eventlet execution pool.
 
@@ -97,7 +97,7 @@ Another special case is the solo pool. Even though you can provide the--concurre
 
 For these reasons, it is always a good idea to set the--concurrencycommand line argument.
 
-## Conclusion
+### Conclusion
 
 Celery supports two concepts for spawning its execution pool: Prefork and Greenlets. Prefork is based on multiprocessing and is the best choice for tasks which make heavy use of CPU resources. Prefork pool sizes are roughly in line with the number of available CPUs on the machine.
 

@@ -53,6 +53,10 @@ op2.set_upstream(op1)
 
 Once an operator is instantiated, it is referred to as a "task". The instantiation defines specific values when calling the abstract operator, and the parameterized task becomes a node in a DAG.
 
+### Errors
+
+The error "Detected zombie job" in Apache Airflow typically occurs when a task is marked as running, but the process that was executing the task is no longer active. This can happen for several reasons and indicates that the task did not finish successfully and its state was not updated correctly in the Airflow metadata database.
+
 ## Task Instances
 
 A task instance represents a specific run of a task and is characterized as the combination of a dag, a task, and a point in time. Task instances also have an indicative state, which could be "running", "success", "failed", "skipped", "up for retry", etc.

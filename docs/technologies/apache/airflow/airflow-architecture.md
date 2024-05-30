@@ -34,7 +34,53 @@ Step 5. The scheduler updates the states of all active DagRuns ("running", "fail
 
 Step 6. Repeat Steps 1-5
 
+#### Configurations
+
+- [max_dagruns_to_create_per_loop](https://airflow.apache.org/docs/apache-airflow/stable/configurations-ref.html#config-scheduler-max-dagruns-to-create-per-loop)
+
+    This changes the number of DAGs that are locked by each scheduler when creating DAG runs. One possible reason for setting this lower is if you have huge DAGs (in the order of 10k+ tasks per DAG) and are running multiple schedulers, you won’t want one scheduler to do all the work.
+
+- [max_dagruns_per_loop_to_schedule](https://airflow.apache.org/docs/apache-airflow/stable/configurations-ref.html#config-scheduler-max-dagruns-per-loop-to-schedule)
+
+    How many DagRuns should a scheduler examine (and lock) when scheduling and queuing tasks. Increasing this limit will allow more throughput for smaller DAGs but will likely slow down throughput for larger (>500 tasks for example) DAGs. Setting this too high when using multiple schedulers could also lead to one scheduler taking all the DAG runs leaving no work for the others.
+
+- [use_row_level_locking](https://airflow.apache.org/docs/apache-airflow/stable/configurations-ref.html#config-scheduler-use-row-level-locking)
+
+    Should the scheduler issue `SELECT ... FOR UPDATE` in relevant queries. If this is set to False then you should not run more than a single scheduler at once.
+
+- [pool_metrics_interval](https://airflow.apache.org/docs/apache-airflow/stable/configurations-ref.html#config-scheduler-pool-metrics-interval)
+
+    How often (in seconds) should pool usage stats be sent to StatsD (if statsd_on is enabled). This is a _relatively_ expensive query to compute this, so this should be set to match the same period as your StatsD roll-up period.
+
+- [orphaned_tasks_check_interval](https://airflow.apache.org/docs/apache-airflow/stable/configurations-ref.html#config-scheduler-orphaned-tasks-check-interval)
+
+    How often (in seconds) should the scheduler check for orphaned tasks or dead SchedulerJobs.
+
+    This setting controls how a dead scheduler will be noticed and the tasks it was “supervising” get picked up by another scheduler. The tasks will stay running, so there is no harm in not detecting this for a while.
+
+    When a SchedulerJob is detected as “dead” (as determined by [scheduler_health_check_threshold](https://airflow.apache.org/docs/apache-airflow/stable/configurations-ref.html#config-scheduler-scheduler-health-check-threshold)) any running or queued tasks that were launched by the dead process will be “adopted” and monitored by this scheduler instead.
+
+- [dag_dir_list_interval](https://airflow.apache.org/docs/apache-airflow/stable/configurations-ref.html#config-scheduler-dag-dir-list-interval) How often (in seconds) to scan the DAGs directory for new files.
+
+- [file_parsing_sort_mode](https://airflow.apache.org/docs/apache-airflow/stable/configurations-ref.html#config-scheduler-file-parsing-sort-mode) The scheduler will list and sort the DAG files to decide the parsing order.
+
+- [**max_tis_per_query**](https://airflow.apache.org/docs/apache-airflow/stable/configurations-ref.html#config-scheduler-max-tis-per-query) The batch size of queries in the scheduling main loop. This should not be greater than `core.parallelism`. If this is too high then SQL query performance may be impacted by complexity of query predicate, and/or excessive locking.
+
+    Additionally, you may hit the maximum allowable query length for your db. Set this to 0 to use the value of `core.parallelism`.
+
+- [min_file_process_interval](https://airflow.apache.org/docs/apache-airflow/stable/configurations-ref.html#config-scheduler-min-file-process-interval) Number of seconds after which a DAG file is re-parsed. The DAG file is parsed every min_file_process_interval number of seconds. Updates to DAGs are reflected after this interval. Keeping this number low will increase CPU usage.
+
+- [parsing_processes](https://airflow.apache.org/docs/apache-airflow/stable/configurations-ref.html#config-scheduler-parsing-processes) The scheduler can run multiple processes in parallel to parse DAG files. This defines how many processes will run.
+
+- [scheduler_idle_sleep_time](https://airflow.apache.org/docs/apache-airflow/stable/configurations-ref.html#config-scheduler-scheduler-idle-sleep-time) Controls how long the scheduler will sleep between loops, but if there was nothing to do in the loop. i.e. if it scheduled something then it will start the next loop iteration straight away. This parameter is badly named (historical reasons) and it will be renamed in the future with deprecation of the current name.
+
+- [schedule_after_task_execution](https://airflow.apache.org/docs/apache-airflow/stable/configurations-ref.html#config-scheduler-schedule-after-task-execution) Should the Task supervisor process perform a “mini scheduler” to attempt to schedule more tasks of the same DAG. Leaving this on will mean tasks in the same DAG execute quicker, but might starve out other DAGs in some circumstances.
+
 https://medium.com/@dustinstansbury/how-quizlet-uses-apache-airflow-in-practice-a903cbb5626d
+
+[Deep dive in to the Airflow scheduler - YouTube](https://www.youtube.com/watch?v=DYC4-xElccE)
+
+[Scheduler — Airflow Documentation](https://airflow.apache.org/docs/apache-airflow/stable/administration-and-deployment/scheduler.html)
 
 ### Executor
 
