@@ -57,7 +57,18 @@ fields *@timestamp*, *@message* | filter *@message* like /(?i)(connect)/ # | fil
 
 [Determine which log group is causing a bill increase | AWS re:Post](https://repost.aws/knowledge-center/cloudwatch-logs-bill-increase)
 
-Composite Alarms - [Combining alarms - Amazon CloudWatch](https://docs.aws.amazon.com/AmazonCloudWatch/latest/monitoring/Create_Composite_Alarm.html)
+#### Composite Alarms
+
+[Combining alarms - Amazon CloudWatch](https://docs.aws.amazon.com/AmazonCloudWatch/latest/monitoring/Create_Composite_Alarm.html)
+
+CW composite alert to create complex alert. We can use operators like OR, AND and NOT. For example, if we want to trigger an alert when both CPU and DiskReadOnly breach their thresholds, we would need to create a composite alert. This involves using two metrics with an AND operator to ensure that both conditions are met before triggering the alert.
+
+```bash
+ALARM("django-slave-2-alarm-CPU-80%") OR
+ALARM("learn-dbread-alarm-CPU-80%") OR
+ALARM("django-prod-slave1-alarm-CPU-80%") OR
+ALARM("prod-django-master-alarm-CPU-80%")
+```
 
 ### 2. AWS Auto Scaling
 

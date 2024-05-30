@@ -78,8 +78,10 @@ https://pythonspeed.com/articles/gunicorn-in-docker
 
 2. If the application is [CPU bounded](https://en.wikipedia.org/wiki/CPU-bound), it doesn't matter how many concurrent requests are handled by the application. The only thing that matters is the number of parallel requests. Due to [Python's GIL](https://wiki.python.org/moin/GlobalInterpreterLock), threads and "pseudo-threads" cannot run in parallel. The only way to achieve parallelism is to increase workers to the suggested `(2*CPU)+1`, understanding that the maximum number of parallel requests is the number of cores.
 
-3. If there is a concern about the application [memory footprint](https://en.wikipedia.org/wiki/Memory_footprint), usingthreadsand its correspondinggthread worker classin favor ofworkersyields better performance because the application is loaded once per worker and every thread running on the worker shares some memory, this comes to the expense of some additional CPU consumption.
+3. If there is a concern about the application [memory footprint](https://en.wikipedia.org/wiki/Memory_footprint), using threads and its corresponding gthread worker class in favor of workers yields better performance because the application is loaded once per worker and every thread running on the worker shares some memory, this comes to the expense of some additional CPU consumption.
 
-4. If you don't know you are doing, start with the simplest configuration, which is only settingworkersto(2*CPU)+1and don't worry aboutthreads. From that point, it's all trial and error with benchmarking. If the bottleneck is memory, start introducing threads. If the bottleneck is I/O, consider a different python programming paradigm. If the bottleneck is CPU, consider using more cores and adjusting theworkersvalue.
+4. If you don't know you are doing, start with the simplest configuration, which is only setting workers to `(2*CPU)+1` and don't worry about threads. From that point, it's all trial and error with benchmarking. If the bottleneck is memory, start introducing threads. If the bottleneck is I/O, consider a different python programming paradigm. If the bottleneck is CPU, consider using more cores and adjusting the workers value.
 
 https://medium.com/building-the-system/gunicorn-3-means-of-concurrency-efbb547674b7
+
+[Solving Timeout Issues in Python Django on Kubernetes - DEVOPS DONE RIGHT](https://opstree.com/blog/2024/05/28/solving-timeout-issues-in-python-django-on-kubernetes/)

@@ -2,6 +2,8 @@
 
 It’s almost always about money.
 
+Money leads to success which leads to more money
+
 In is the only way out.
 
 Life is a sine curve.

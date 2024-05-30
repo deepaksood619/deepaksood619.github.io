@@ -6,7 +6,7 @@ Physical backups consist of raw copies of the directories and files that store d
 
 Logical backups save information represented as logical database structure ([`CREATE DATABASE`](https://dev.mysql.com/doc/refman/8.0/en/create-database.html "15.1.12 CREATE DATABASE Statement"), [`CREATE TABLE`](https://dev.mysql.com/doc/refman/8.0/en/create-table.html "15.1.20 CREATE TABLE Statement") statements) and content ([`INSERT`](https://dev.mysql.com/doc/refman/8.0/en/insert.html "15.2.7 INSERT Statement") statements or delimited-text files). This type of backup is suitable for smaller amounts of data where you might edit the data values or table structure, or recreate the data on a different machine architecture.
 
-### Physical backup methods have these characteristics:
+### Physical backup methods have these characteristics
 
 - The backup consists of exact copies of database directories and files. Typically this is a copy of all or part of the MySQL data directory.
 - Physical backup methods are faster than logical because they involve only file copying without conversion.
@@ -19,12 +19,12 @@ Logical backups save information represented as logical database structure ([`CR
 - Backups can be performed while the MySQL server is not running. If the server is running, it is necessary to perform appropriate locking so that the server does not change database contents during the backup. MySQL Enterprise Backup does this locking automatically for tables that require it.
 - Physical backup tools include the **mysqlbackup** of MySQL Enterprise Backup for `InnoDB` or any other tables, or file system-level commands (such as **cp**, **scp**, **tar**, **rsync**) for `MyISAM` tables.
 - For restore:
-    
+
     - MySQL Enterprise Backup restores `InnoDB` and other tables that it backed up.
     - [**ndb_restore**](https://dev.mysql.com/doc/refman/8.0/en/mysql-cluster-programs-ndb-restore.html "25.5.23 ndb_restore — Restore an NDB Cluster Backup") restores [`NDB`](https://dev.mysql.com/doc/refman/8.0/en/mysql-cluster.html "Chapter 25 MySQL NDB Cluster 8.0") tables.
     - Files copied at the file system level can be copied back to their original locations with file system commands.
 
-### Logical backup methods have these characteristics:
+### Logical backup methods have these characteristics
 
 - The backup is done by querying the MySQL server to obtain database structure and content information.
 - Backup is slower than physical methods because the server must access database information and convert it to logical format. If the output is written on the client side, the server must also send it to the backup program.

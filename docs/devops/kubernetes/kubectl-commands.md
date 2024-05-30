@@ -183,7 +183,10 @@ kubectl get deployments
 kubectl get services
 kubectl get replicasets
 kubectl get svc
+
 kubectl get events
+kubectl get events --watch
+
 kubectl get crd
 kubectl get endpoints (ep)
 kubectl get pods -A (kubectl get pods --all-namespaces)

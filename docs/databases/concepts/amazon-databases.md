@@ -15,6 +15,10 @@ Managed NoSQL Database
 
 Fully Managed Document Database
 
+[Amazon DocumentDB: How It Works - Amazon DocumentDB](https://docs.aws.amazon.com/documentdb/latest/developerguide/how-it-works.html)
+
+[Amazon DocumentDB cluster storage configurations - Amazon DocumentDB](https://docs.aws.amazon.com/documentdb/latest/developerguide/db-cluster-storage-configs.html)
+
 ### Amazon ElastiCache
 
 In-memory Data Store and Cache- Query Caching

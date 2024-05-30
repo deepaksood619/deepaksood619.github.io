@@ -6,6 +6,12 @@ API - Application Programming Interface - A set of subroutine definitions, proto
 
 AJAX - Asynchronous JavaScript and XML - Web applications can send and retrieve data from a server asynchronously without interfering with the display and behavior of the existing page.
 
+- SCM - Source Control Management
+- FTU - First Time Use
+- AMP - Accelerated Mobile Pages
+- SHA - Secure Hash
+- JSX - Javascript XML
+
 ### Accessibility ARIA - Accessible Rich Internet Applications
 
 Defines different front-end methodologies that make web content accessible for disabled people who access the web with Assistive Technologies (AT), such as screen readers.
@@ -39,21 +45,13 @@ A technique that lets us query and manipulate data from a database using an obje
 
 A messaging protocol specification for exchanging structured information in the implementation of web services in computer networks. SOAP allows processes running on disparate operating systems (such as Windows and Linux) to communicate using XML. Since web protocols like HTTP are installed and running on all operating systems, SOAP allows clients to invoke web services and receive responses independent of language and platforms.
 
-SCM - Source Control Management
-
-FTU - First Time Use
-
-AMP - Accelerated Mobile Pages
-
-SHA - Secure Hash
-
-JSX - Javascript XML
-
 ## mebiByte / kibibyte / gibibyte
 
 A mebibyte is a unit of data storage that equals 2 to the 20th power, or 1,048,576 bytes.
 
 While a [megabyte](https://techterms.com/definition/megabyte) can be estimated as 10^6 or 1,000,000 bytes, a mebibyte is exactly 1,048,576 bytes. This is to avoid the ambiguity associated with the size of megabytes. A mebibyte is 1,024 [kibibytes](https://techterms.com/definition/kibibyte) and precedes the [gibibyte](https://techterms.com/definition/gibibyte) unit of measurement.
+
+GB vs GiB: So What is the Difference? At its most basic level, one GB is defined as 1000³ (1,000,000,000) bytes and one GiB as 1024³ (1,073,741,824) bytes. That means **one GB equals 0.93 GiB**.
 
 ## YK38 Problem
 

@@ -10,18 +10,6 @@ See also:
 - MQTT
 - ZeroMQ: Distributed Messaging
 
-## RabbitMQ: The Polyglot Broker (Distributed Message Broker)
-
-All three protocols are supported by RabbitMQ broker, making it an ideal choice for interoperability between applications.
-
-https://www.youtube.com/watch?v=Cie5v59mrTg&ab_channel=HusseinNasser
-
-https://www.youtube.com/watch?v=FzqjtU2x6YA&ab_channel=ThatDevOpsGuy
-
-https://www.youtube.com/watch?v=nxQrpLfX3rs&ab_channel=GOTOConferences
-
-https://www.youtube.com/watch?v=fNbdgWe5Tbs&ab_channel=GOTOConferences
-
 ## pika
 
 Pika is a RabbitMQ (AMQP 0-9-1) client library for Python.
@@ -29,3 +17,7 @@ Pika is a RabbitMQ (AMQP 0-9-1) client library for Python.
 https://pypi.org/project/pika
 
 https://pika.readthedocs.io/en/stable/intro.html
+
+## Links
+
+[RabbitMQ](technologies/brokers/rabbitmq.md)

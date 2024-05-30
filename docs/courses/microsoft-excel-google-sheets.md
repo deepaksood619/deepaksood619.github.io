@@ -92,6 +92,11 @@ Rows - 1,048,576- Text to column
     - SUMIF, SUMIFS, COUNTIF, COUNTIFS
 - `FILTER(I:I, ISNA(MATCH(I:I, C:C, 0)))` - filter one column based on other column
 - `concatenate(A1:A5)`
+- =GOOGLEFINANCE("GOOGL")
+- =GOOGLEFINANCE("BTCUSD")
+- =GOOGLEFINANCE("CURRENCY:USDINR")
+- =IMPORTDATA("https://cryptoprices.cc/SOL/")
+- =image("https://image.jpg")
 
 ## Others
 
@@ -267,11 +272,6 @@ https://365datascience.teachable.com/courses/enrolled/233558
 ![image](../media/Intro-to-Microsoft-Excel-Google-Sheets-image2.jpg)
 
 [Google Sheets - Full Course](https://www.youtube.com/watch?v=N2opj8XzYBY&ab_channel=freeCodeCamp.org)
-
-- =GOOGLEFINANCE("GOOGL")
-- =GOOGLEFINANCE("BTCUSD")
-- =GOOGLEFINANCE("CURRENCY:USDINR")
-- =image("https://image.jpg")
 
 ## Google Drive
 

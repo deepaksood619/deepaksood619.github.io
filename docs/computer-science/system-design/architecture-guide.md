@@ -150,10 +150,6 @@ https://www.youtube.com/watch?v=R2FT5edyKOg
 - https://www.freecodecamp.org/news/systems-design-for-interviews
 - [Cloud Architecture Guidance and Topologies &nbsp;|&nbsp; Cloud Architecture Center | Google Cloud](https://cloud.google.com/architecture)
 
-## Exponential Backoff
-
-[Exponential Backoff And Jitter | AWS Architecture Blog](https://aws.amazon.com/blogs/architecture/exponential-backoff-and-jitter/)
-
 ## Others
 
 - [Request Collapsing | InterviewReady | System Design Course | Gaurav Sen](https://interviewready.io/blog/Concurrency-Patterns-for-Senior-Engineers-part-1)

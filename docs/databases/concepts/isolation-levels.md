@@ -136,16 +136,16 @@ https://fauna.com/blog/demystifying-database-systems-correctness-anomalies-under
 
 ## Isolation Table with Anomalies
 
-| **System Guarantee** | **Dirty read** | **Non-repeatable read** | **Phantom Read** | **Write Skew** | **Immortal write** | **Stale read** | **Causal reverse** |
-|---|---|---|---|---|---|---|---|
-| READ UNCOMMITTED | Possible | Possible | Possible | Possible | Possible | Possible | Possible |
-| READ COMMITTED | Not Possible | Possible | Possible | Possible | Possible | Possible | Possible |
-| REPEATABLE READ | Not Possible | Not Possible | Possible | Possible | Possible | Possible | Possible |
-| SNAPSHOT ISOLATION | Not Possible | Not Possible | Not Possible | Possible | Possible | Possible | Possible |
-| SERIALIZABLE / ONE COPY SERIALIZABLE / STRONG SESSION SERIALIZABLE | Not Possible | Not Possible | Not Possible | Not Possible | Possible | Possible | Possible |
-| ASYNCHRONOUS SERIALIZABLE | Not Possible | Not Possible | Not Possible | Not Possible | Not Possible | Possible | Not Possible |
-| PARTITIONED SERIALIZABLE | Not Possible | Not Possible | Not Possible | Not Possible | Not Possible | Not Possible | Possible |
-| STRICT SERIALIZABLE | Not Possible | Not Possible | Not Possible | Not Possible | Not Possible | Not Possible | Not Possible |
+| **System Guarantee**                                               | **Dirty read** | **Non-repeatable read** | **Phantom Read** | **Write Skew** | **Immortal write** | **Stale read** | **Causal reverse** |
+| ------------------------------------------------------------------ | -------------- | ----------------------- | ---------------- | -------------- | ------------------ | -------------- | ------------------ |
+| READ UNCOMMITTED                                                   | Possible       | Possible                | Possible         | Possible       | Possible           | Possible       | Possible           |
+| READ COMMITTED                                                     | Not Possible   | Possible                | Possible         | Possible       | Possible           | Possible       | Possible           |
+| REPEATABLE READ                                                    | Not Possible   | Not Possible            | Possible         | Possible       | Possible           | Possible       | Possible           |
+| SNAPSHOT ISOLATION                                                 | Not Possible   | Not Possible            | Not Possible     | Possible       | Possible           | Possible       | Possible           |
+| SERIALIZABLE / ONE COPY SERIALIZABLE / STRONG SESSION SERIALIZABLE | Not Possible   | Not Possible            | Not Possible     | Not Possible   | Possible           | Possible       | Possible           |
+| ASYNCHRONOUS SERIALIZABLE                                          | Not Possible   | Not Possible            | Not Possible     | Not Possible   | Not Possible       | Possible       | Not Possible       |
+| PARTITIONED SERIALIZABLE                                           | Not Possible   | Not Possible            | Not Possible     | Not Possible   | Not Possible       | Not Possible   | Possible           |
+| STRICT SERIALIZABLE                                                | Not Possible   | Not Possible            | Not Possible     | Not Possible   | Not Possible       | Not Possible   | Not Possible       |
 
 ## Distributed Locking
 

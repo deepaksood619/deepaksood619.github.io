@@ -58,16 +58,28 @@ mysqldump --databases db_name1 [db_name2 ...] > my_databases.sql
 mysqldump --all-databases > all_databases.sql
 ```
 
-#### For `InnoDB` tables, mysqldump provides a way of making an online backup:
+#### For `InnoDB` tables, mysqldump provides a way of making an online backup
 
 ```terminal
 mysqldump --all-databases --master-data --single-transaction > all_databases.sql
 ```
 
-#### Or, in MySQL 8.0.26 and later:
+#### Or, in MySQL 8.0.26 and later
 
 ```terminal
 mysqldump --all-databases --source-data --single-transaction > all_databases.sql
+```
+
+#### Change max_execution_time
+
+```sql
+mysql -u $DB_USER -p $DB_PASSWORD -h $DB_HOST -e "SET GLOBAL max_execution_time = 0;"
+
+-- Perform the mysqldump
+mysqldump -u $DB_USER -p $DB_PASSWORD -h $DB_HOST $DB_NAME > /path/to/your/backup.sql
+
+-- Revert max_execution_time to its original value
+mysql -u $DB_USER -p $DB_PASSWORD -h $DB_HOST -e "SET GLOBAL max_execution_time = $ORIGINAL_MAX_EXECUTION_TIME;"
 ```
 
 [6.5.4 mysqldump — A Database Backup Program](https://dev.mysql.com/doc/refman/8.0/en/mysqldump.html)
