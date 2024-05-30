@@ -18,8 +18,8 @@
 <meta name="theme-color" content="rgb(47, 133, 85)">
 
 <script src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5616865131274062" async crossorigin="anonymous"></script><link rel="stylesheet" href="/assets/css/styles.1aa998db.css">
-<script src="/assets/js/runtime~main.826e9fcc.js" defer="defer"></script>
-<script src="/assets/js/main.47357317.js" defer="defer"></script>
+<script src="/assets/js/runtime~main.aeea70d8.js" defer="defer"></script>
+<script src="/assets/js/main.bde58155.js" defer="defer"></script>
 </head>
 <body class="navigation-with-keyboard">
 <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TN3KBF4" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
@@ -41,9 +41,9 @@
 </ul>
 <h3 class="anchor anchorWithStickyNavbar_LWe7" id="migration-types">Migration Types<a href="#migration-types" class="hash-link" aria-label="Direct link to Migration Types" title="Direct link to Migration Types">​</a></h3>
 <ul>
-<li>Full load (Migrate existing data) -- If you can afford an outage long enough to copy your existing data, this option is a good one to choose. This option simply migrates the data from your source database to your target database, creating tables when necessary.</li>
-<li>Full load + CDC (Migrate existing data and replicate ongoing changes) -- This option performs a full data load while capturing changes on the source. After the full load is complete, captured changes are applied to the target. Eventually, the application of changes reaches a steady state. At this point, you can shut down your applications, let the remaining changes flow through to the target, and then restart your applications pointing at the target.</li>
-<li>CDC only (Replicate data changes only) -- In some situations, it might be more efficient to copy existing data using a method other than AWS DMS. For example, in a homogeneous migration, using native export and import tools might be more efficient at loading bulk data. In this situation, you can use AWS DMS to replicate changes starting when you start your bulk load to bring and keep your source and target databases in sync.</li>
+<li>Full load (Migrate existing data) - If you can afford an outage long enough to copy your existing data, this option is a good one to choose. This option simply migrates the data from your source database to your target database, creating tables when necessary.</li>
+<li>Full load + CDC (Migrate existing data and replicate ongoing changes) - This option performs a full data load while capturing changes on the source. After the full load is complete, captured changes are applied to the target. Eventually, the application of changes reaches a steady state. At this point, you can shut down your applications, let the remaining changes flow through to the target, and then restart your applications pointing at the target.</li>
+<li>CDC only (Replicate data changes only) - In some situations, it might be more efficient to copy existing data using a method other than AWS DMS. For example, in a homogeneous migration, using native export and import tools might be more efficient at loading bulk data. In this situation, you can use AWS DMS to replicate changes starting when you start your bulk load to bring and keep your source and target databases in sync.</li>
 </ul>
 <p><a href="https://docs.aws.amazon.com/dms/latest/userguide/CHAP_Introduction.HighLevelView.html" target="_blank" rel="noopener noreferrer">https://docs.aws.amazon.com/dms/latest/userguide/CHAP_Introduction.HighLevelView.html</a></p>
 <p><a href="https://docs.aws.amazon.com/dms/latest/userguide/CHAP_Introduction.Components.html" target="_blank" rel="noopener noreferrer">https://docs.aws.amazon.com/dms/latest/userguide/CHAP_Introduction.Components.html</a></p>
@@ -59,27 +59,109 @@
 <h3 class="anchor anchorWithStickyNavbar_LWe7" id="schema-conversion-tool">Schema Conversion Tool<a href="#schema-conversion-tool" class="hash-link" aria-label="Direct link to Schema Conversion Tool" title="Direct link to Schema Conversion Tool">​</a></h3>
 <p><a href="https://docs.aws.amazon.com/SchemaConversionTool/latest/userguide/CHAP_Welcome.html" target="_blank" rel="noopener noreferrer">https://docs.aws.amazon.com/SchemaConversionTool/latest/userguide/CHAP_Welcome.html</a></p>
 <h3 class="anchor anchorWithStickyNavbar_LWe7" id="pricing">Pricing<a href="#pricing" class="hash-link" aria-label="Direct link to Pricing" title="Direct link to Pricing">​</a></h3>
+<p>Free Tier - includes up to 750 hours per month for a Single-AZ dms.t2.micro instance</p>
 <p>All data transfer into AWS Database Migration Service is free, and data transferred between AWS Database Migration Service and databases in Amazon RDS and Amazon EC2 Instances in the same Availability Zone also is free.</p>
 <table><thead><tr><th></th><th></th></tr></thead><tbody><tr><td>c4.large</td><td>$0.154</td></tr><tr><td>c5.large</td><td>$0.154</td></tr></tbody></table>
+<p>Homogeneous data migrations - $0.0824 per migration hour</p>
 <p><a href="https://hevodata.com/blog/aurora-to-redshift-data-migration-using-aws-dms" target="_blank" rel="noopener noreferrer">https://hevodata.com/blog/aurora-to-redshift-data-migration-using-aws-dms</a></p>
+<h4 class="anchor anchorWithStickyNavbar_LWe7" id="serverless">Serverless<a href="#serverless" class="hash-link" aria-label="Direct link to Serverless" title="Direct link to Serverless">​</a></h4>
+<p>AWS DMS Serverless offers the flexibility and ease to migrate data without the need to provision replication instances or manually monitor use and adjust capacity. It automatically provisions, monitors, and scales migration resources to the optimal capacity needed to meet demand. DMS Serverless supports popular DMS use cases including continuous data replication, database consolidation, and migrations, even if the source and target database engines differ. It aids even the most complex migrations, including migrating tens or even hundreds of workloads simultaneously or completing ongoing data replications on AWS.</p>
+<p><a href="https://docs.aws.amazon.com/dms/latest/userguide/CHAP_Serverless.html" target="_blank" rel="noopener noreferrer">Working with AWS DMS Serverless - AWS Database Migration Service</a></p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="migration-planning">Migration planning<a href="#migration-planning" class="hash-link" aria-label="Direct link to Migration planning" title="Direct link to Migration planning">​</a></h3>
+<p><a href="https://aws.amazon.com/dms/fleet-advisor/" target="_blank" rel="noopener noreferrer">AWS DMS Fleet Advisor</a> is a free, fully managed capability of AWS Database Migration Service (AWS DMS). It automates migration planning and helps you <a href="https://aws.amazon.com/products/databases/migrations/" target="_blank" rel="noopener noreferrer">migrate database and analytics fleets</a> to the cloud at scale with minimal effort. To accelerate migrations, AWS DMS Fleet Advisor automatically inventories and assesses your on-premises database and analytics server fleet and identifies potential migration paths. Using historical performance and usage patterns collected from self-managed databases, Fleet Advisor can <a href="https://docs.aws.amazon.com/dms/latest/userguide/fa-recommendations.html" target="_blank" rel="noopener noreferrer">recommend target database engines</a> and instance options as well as estimate costs. DMS helps you confidently migrate your databases and analytics systems to AWS with virtually no downtime.</p>
+<p>AWS DMS Fleet Advisor discovers and analyzes the same source databases supported in AWS DMS, including Oracle, Microsoft SQL Server, MySQL, PostgreSQL, and more. DMS Fleet Advisor delivers results in a few hours, instead of weeks or even months, without using third-party tools or hiring migration experts.</p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="schema-assessment-and-conversion">Schema assessment and conversion<a href="#schema-assessment-and-conversion" class="hash-link" aria-label="Direct link to Schema assessment and conversion" title="Direct link to Schema assessment and conversion">​</a></h3>
+<p>AWS DMS Schema Conversion (DMS SC) is a fully managed feature of AWS DMS that allows you to automatically assess and convert database schemas and code objects at scale with zero downtime. AWS DMS Schema Conversion supports popular heterogeneous migrations, such as <a href="https://docs.aws.amazon.com/dms/latest/sbs/schema-conversion-oracle-postgresql.html" target="_blank" rel="noopener noreferrer">Oracle to Amazon RDS for PostgreSQL</a>, <a href="https://docs.aws.amazon.com/dms/latest/sbs/schema-conversion-sql-server-mysql.html" target="_blank" rel="noopener noreferrer">SQL Server to Amazon RDS for MySQL</a>, <a href="https://docs.aws.amazon.com/dms/latest/sbs/schema-conversion-sql-server-aurora-postgresql.html" target="_blank" rel="noopener noreferrer">SQL Server to Amazon Aurora PostgreSQL-Compatible Edition,</a> and <a href="https://docs.aws.amazon.com/dms/latest/sbs/schema-conversion-oracle-aurora-mysql.html" target="_blank" rel="noopener noreferrer">Oracle to Amazon Aurora MySQL-Compatible Edition</a>. You can save weeks or months of manual time and resources with a few clicks in the DMS console.</p>
+<p>With a few clicks, you can generate an assessment report that shows the schema conversion complexity. This report provides prescriptive guidance on how to resolve any incompatibilities between the source and target database engines. Learn more about AWS DMS Schema Conversion in the <a href="https://docs.aws.amazon.com/dms/latest/userguide/CHAP_SchemaConversion.html" target="_blank" rel="noopener noreferrer">documentation</a> and <a href="https://docs.aws.amazon.com/dms/latest/userguide/getting-started.html" target="_blank" rel="noopener noreferrer">how to get started.</a></p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="homogeneous-data-migration">Homogeneous Data Migration<a href="#homogeneous-data-migration" class="hash-link" aria-label="Direct link to Homogeneous Data Migration" title="Direct link to Homogeneous Data Migration">​</a></h3>
+<p>Homogeneous data migrations - $0.0824 per migration hour</p>
+<p>With homogeneous data migrations, you pay by the hour only for the duration of the data migration. With no replication instances to provision, you do not need to worry about over-provisioning or manually scaling capacity, saving time and cost.</p>
+<h4 class="anchor anchorWithStickyNavbar_LWe7" id="features">Features<a href="#features" class="hash-link" aria-label="Direct link to Features" title="Direct link to Features">​</a></h4>
+<ul>
+<li>Engine Support<!-- -->
+<ul>
+<li>MySQL versions 5.7.x and above</li>
+<li>PosgreSQL versions 10.4 and above</li>
+<li>On-premises, Amazon EC2, and Amazon RDS sources</li>
+<li>Amazon RDS and Amazon Aurora Targets</li>
+</ul>
+</li>
+<li>Full Schema and Data Set<!-- -->
+<ul>
+<li>All data types are fully migrated</li>
+<li>Secondary objects are migrated</li>
+<li>Partitions are also supported</li>
+</ul>
+</li>
+<li>Migration Types<!-- -->
+<ul>
+<li>Full load</li>
+<li>Full load + change data capture (CDC)</li>
+<li>CDC only</li>
+</ul>
+</li>
+</ul>
+<p><a href="https://docs.aws.amazon.com/dms/latest/userguide/dm-getting-started.html" target="_blank" rel="noopener noreferrer">Overview of the homogeneous data migration process in AWS DMS - AWS Database Migration Service</a></p>
+<p><a href="https://docs.aws.amazon.com/dms/latest/userguide/dm-migrating-data.html" target="_blank" rel="noopener noreferrer">Running homogeneous data migrations in AWS DMS - AWS Database Migration Service</a></p>
+<p><a href="https://www.youtube.com/watch?v=aQ8idU-1nXk&amp;ab_channel=AWSDevelopers" target="_blank" rel="noopener noreferrer">Enhanced homogeneous migration capabilities with AWS Database Migration Services- AWS Database in 15 - YouTube</a></p>
+<p><a href="https://www.youtube.com/watch?v=HOJfrR6lcuU&amp;ab_channel=AmazonWebServices" target="_blank" rel="noopener noreferrer">Migrating your PostgreSQL database to Amazon RDS for PostgreSQL with AWS Database Migration Service - YouTube</a></p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="best-practices">Best Practices<a href="#best-practices" class="hash-link" aria-label="Direct link to Best Practices" title="Direct link to Best Practices">​</a></h2>
+<p>Make sure that you know what information and tables in the source database need to be migrated to the target database. <strong>AWS DMS supports basic schema migration, including the creation of tables and primary keys. However, AWS DMS doesn&#x27;t automatically create secondary indexes, foreign keys, user accounts, and so on, in the target database</strong>. Depending on your source and target database engine, you might need to set up supplemental logging or modify other settings for a source or target database.</p>
+<p>It replicates only a limited amount of data definition language (DDL) statements. AWS DMS doesn&#x27;t propagate items such as indexes, users, privileges, stored procedures, and other database changes not directly related to table data.</p>
+<p><a href="https://docs.aws.amazon.com/dms/latest/userguide/CHAP_BestPractices.html" target="_blank" rel="noopener noreferrer">Best practices for AWS Database Migration Service - AWS Database Migration Service</a></p>
 <h2 class="anchor anchorWithStickyNavbar_LWe7" id="links">Links<a href="#links" class="hash-link" aria-label="Direct link to Links" title="Direct link to Links">​</a></h2>
 <ul>
-<li><a href="https://aws.amazon.com/blogs/database/perform-delta-data-loads-to-data-lakes-using-aws-dms/" target="_blank" rel="noopener noreferrer">Perform delta data loads to data lakes using AWS DMS | AWS Database Blog</a></li>
-<li><a href="https://docs.aws.amazon.com/prescriptive-guidance/latest/patterns/migrate-an-on-premises-oracle-database-to-amazon-rds-for-mysql-using-aws-dms-and-aws-sct.html" target="_blank" rel="noopener noreferrer">Migrate an on-premises Oracle database to Amazon RDS for MySQL using AWS DMS and AWS SCT - AWS Prescriptive Guidance</a></li>
-<li><a href="https://aws.amazon.com/blogs/database/understand-and-optimize-replication-for-amazon-redshift-with-aws-dms/" target="_blank" rel="noopener noreferrer">Understand and optimize replication for Amazon Redshift with AWS DMS | AWS Database Blog</a></li>
-<li><a href="https://docs.aws.amazon.com/dms/latest/userguide/CHAP_Source.MongoDB.html" target="_blank" rel="noopener noreferrer">Using MongoDB as a source for AWS DMS - AWS Database Migration Service</a></li>
-<li>Mysql as source - <a href="https://docs.aws.amazon.com/dms/latest/userguide/CHAP_Source.MySQL.html" target="_blank" rel="noopener noreferrer">https://docs.aws.amazon.com/dms/latest/userguide/CHAP_Source.MySQL.html</a></li>
-<li>Mysql as target - <a href="https://docs.aws.amazon.com/dms/latest/userguide/CHAP_Target.MySQL.html" target="_blank" rel="noopener noreferrer">https://docs.aws.amazon.com/dms/latest/userguide/CHAP_Target.MySQL.html</a></li>
-<li>Creating a task - <a href="https://docs.aws.amazon.com/dms/latest/userguide/CHAP_Tasks.Creating.html" target="_blank" rel="noopener noreferrer">https://docs.aws.amazon.com/dms/latest/userguide/CHAP_Tasks.Creating.html</a></li>
-<li>Setting LOB support for source databases in an AWS DMS task -<a href="https://docs.aws.amazon.com/dms/latest/userguide/CHAP_Tasks.LOBSupport.html" target="_blank" rel="noopener noreferrer">https://docs.aws.amazon.com/dms/latest/userguide/CHAP_Tasks.LOBSupport.html</a></li>
-<li>Creating source and target endpoint - <a href="https://repost.aws/knowledge-center/create-source-target-endpoints-aws-dms" target="_blank" rel="noopener noreferrer">https://repost.aws/knowledge-center/create-source-target-endpoints-aws-dms</a></li>
-<li>Table mapping rule - <a href="https://repost.aws/knowledge-center/table-mappings-aws-dms" target="_blank" rel="noopener noreferrer">https://repost.aws/knowledge-center/table-mappings-aws-dms</a></li>
-<li>Using filter condition - <a href="https://docs.aws.amazon.com/dms/latest/userguide/CHAP_Tasks.CustomizingTasks.Filters.html" target="_blank" rel="noopener noreferrer">https://docs.aws.amazon.com/dms/latest/userguide/CHAP_Tasks.CustomizingTasks.Filters.html</a></li>
-<li>Choosing the right AWS DMS replication instance for your migration -<a href="https://docs.aws.amazon.com/dms/latest/userguide/CHAP_ReplicationInstance.Types.html" target="_blank" rel="noopener noreferrer">https://docs.aws.amazon.com/dms/latest/userguide/CHAP_ReplicationInstance.Types.html</a></li>
-<li>Validation - <a href="https://docs.aws.amazon.com/dms/latest/userguide/CHAP_Validating.html#CHAP_Validating.Limitations" target="_blank" rel="noopener noreferrer">https://docs.aws.amazon.com/dms/latest/userguide/CHAP_Validating.html#CHAP_Validating.Limitations</a></li>
-<li>Monitoring DMS task - <a href="https://docs.aws.amazon.com/dms/latest/userguide/CHAP_Monitoring.html" target="_blank" rel="noopener noreferrer">https://docs.aws.amazon.com/dms/latest/userguide/CHAP_Monitoring.html</a></li>
-<li>S3 as target - <a href="https://docs.aws.amazon.com/dms/latest/userguide/CHAP_Target.S3.html" target="_blank" rel="noopener noreferrer">https://docs.aws.amazon.com/dms/latest/userguide/CHAP_Target.S3.html</a></li>
-<li><a href="https://repost.aws/knowledge-center/dms-memory-optimization" target="_blank" rel="noopener noreferrer">Optimize memory for migration using AWS DMS | AWS re<!-- -->:Post</a></li>
-</ul></div><footer class="theme-doc-footer docusaurus-mt-lg"><div class="theme-doc-footer-edit-meta-row row"><div class="col"><a href="https://github.com/deepaksood619/deepaksood619.github.io/tree/master/docs/cloud/aws/aws-database-migration-service-dms.md" target="_blank" rel="noopener noreferrer" class="theme-edit-this-page"><svg fill="currentColor" height="20" width="20" viewBox="0 0 40 40" class="iconEdit_Z9Sw" aria-hidden="true"><g><path d="m34.5 11.7l-3 3.1-6.3-6.3 3.1-3q0.5-0.5 1.2-0.5t1.1 0.5l3.9 3.9q0.5 0.4 0.5 1.1t-0.5 1.2z m-29.5 17.1l18.4-18.5 6.3 6.3-18.4 18.4h-6.3v-6.2z"></path></g></svg>Edit this page</a></div><div class="col lastUpdated_vwxv"><span class="theme-last-updated">Last updated<!-- --> on <b><time datetime="2024-05-26T14:33:30.000Z">May 26, 2024</time></b></span></div></div></footer></article><nav class="pagination-nav docusaurus-mt-lg" aria-label="Docs pages"><a class="pagination-nav__link pagination-nav__link--prev" href="/cloud/aws/analytics/amazon-devops-guru"><div class="pagination-nav__sublabel">Previous</div><div class="pagination-nav__label">Amazon DevOps Guru</div></a><a class="pagination-nav__link pagination-nav__link--next" href="/cloud/aws/aws-glue"><div class="pagination-nav__sublabel">Next</div><div class="pagination-nav__label">AWS Glue</div></a></nav></div></div><div class="col col--3"><div class="tableOfContents_bqdL thin-scrollbar theme-doc-toc-desktop"><ul class="table-of-contents table-of-contents__left-border"><li><a href="#components" class="table-of-contents__link toc-highlight">Components</a></li><li><a href="#migration-types" class="table-of-contents__link toc-highlight">Migration Types</a></li><li><a href="#loading-multiple-tables-in-parallel" class="table-of-contents__link toc-highlight">Loading multiple tables in parallel</a></li><li><a href="#schema-conversion-tool" class="table-of-contents__link toc-highlight">Schema Conversion Tool</a></li><li><a href="#pricing" class="table-of-contents__link toc-highlight">Pricing</a></li><li><a href="#links" class="table-of-contents__link toc-highlight">Links</a></li></ul></div></div></div></div></main></div></div></div><footer class="footer footer--dark"><div class="container container-fluid"><div class="footer__bottom text--center"><div class="footer__copyright">Copyright © 2024 Deep Notes, Built with ❤️</div></div></div></footer></div>
+<li>
+<p><a href="https://aws.amazon.com/blogs/database/perform-delta-data-loads-to-data-lakes-using-aws-dms/" target="_blank" rel="noopener noreferrer">Perform delta data loads to data lakes using AWS DMS | AWS Database Blog</a></p>
+</li>
+<li>
+<p><a href="https://docs.aws.amazon.com/prescriptive-guidance/latest/patterns/migrate-an-on-premises-oracle-database-to-amazon-rds-for-mysql-using-aws-dms-and-aws-sct.html" target="_blank" rel="noopener noreferrer">Migrate an on-premises Oracle database to Amazon RDS for MySQL using AWS DMS and AWS SCT - AWS Prescriptive Guidance</a></p>
+</li>
+<li>
+<p><a href="https://aws.amazon.com/blogs/database/understand-and-optimize-replication-for-amazon-redshift-with-aws-dms/" target="_blank" rel="noopener noreferrer">Understand and optimize replication for Amazon Redshift with AWS DMS | AWS Database Blog</a></p>
+</li>
+<li>
+<p><a href="https://docs.aws.amazon.com/dms/latest/userguide/CHAP_Source.MongoDB.html" target="_blank" rel="noopener noreferrer">Using MongoDB as a source for AWS DMS - AWS Database Migration Service</a></p>
+</li>
+<li>
+<p>Mysql as source - <a href="https://docs.aws.amazon.com/dms/latest/userguide/CHAP_Source.MySQL.html" target="_blank" rel="noopener noreferrer">https://docs.aws.amazon.com/dms/latest/userguide/CHAP_Source.MySQL.html</a></p>
+</li>
+<li>
+<p>Mysql as target - <a href="https://docs.aws.amazon.com/dms/latest/userguide/CHAP_Target.MySQL.html" target="_blank" rel="noopener noreferrer">https://docs.aws.amazon.com/dms/latest/userguide/CHAP_Target.MySQL.html</a></p>
+</li>
+<li>
+<p>Creating a task - <a href="https://docs.aws.amazon.com/dms/latest/userguide/CHAP_Tasks.Creating.html" target="_blank" rel="noopener noreferrer">https://docs.aws.amazon.com/dms/latest/userguide/CHAP_Tasks.Creating.html</a></p>
+</li>
+<li>
+<p>Setting LOB support for source databases in an AWS DMS task -<a href="https://docs.aws.amazon.com/dms/latest/userguide/CHAP_Tasks.LOBSupport.html" target="_blank" rel="noopener noreferrer">https://docs.aws.amazon.com/dms/latest/userguide/CHAP_Tasks.LOBSupport.html</a></p>
+</li>
+<li>
+<p>Creating source and target endpoint - <a href="https://repost.aws/knowledge-center/create-source-target-endpoints-aws-dms" target="_blank" rel="noopener noreferrer">https://repost.aws/knowledge-center/create-source-target-endpoints-aws-dms</a></p>
+</li>
+<li>
+<p>Table mapping rule - <a href="https://repost.aws/knowledge-center/table-mappings-aws-dms" target="_blank" rel="noopener noreferrer">https://repost.aws/knowledge-center/table-mappings-aws-dms</a></p>
+</li>
+<li>
+<p>Using filter condition - <a href="https://docs.aws.amazon.com/dms/latest/userguide/CHAP_Tasks.CustomizingTasks.Filters.html" target="_blank" rel="noopener noreferrer">https://docs.aws.amazon.com/dms/latest/userguide/CHAP_Tasks.CustomizingTasks.Filters.html</a></p>
+</li>
+<li>
+<p>Choosing the right AWS DMS replication instance for your migration -<a href="https://docs.aws.amazon.com/dms/latest/userguide/CHAP_ReplicationInstance.Types.html" target="_blank" rel="noopener noreferrer">https://docs.aws.amazon.com/dms/latest/userguide/CHAP_ReplicationInstance.Types.html</a></p>
+</li>
+<li>
+<p>Validation - <a href="https://docs.aws.amazon.com/dms/latest/userguide/CHAP_Validating.html#CHAP_Validating.Limitations" target="_blank" rel="noopener noreferrer">https://docs.aws.amazon.com/dms/latest/userguide/CHAP_Validating.html#CHAP_Validating.Limitations</a></p>
+</li>
+<li>
+<p>Monitoring DMS task - <a href="https://docs.aws.amazon.com/dms/latest/userguide/CHAP_Monitoring.html" target="_blank" rel="noopener noreferrer">https://docs.aws.amazon.com/dms/latest/userguide/CHAP_Monitoring.html</a></p>
+</li>
+<li>
+<p>S3 as target - <a href="https://docs.aws.amazon.com/dms/latest/userguide/CHAP_Target.S3.html" target="_blank" rel="noopener noreferrer">https://docs.aws.amazon.com/dms/latest/userguide/CHAP_Target.S3.html</a></p>
+</li>
+<li>
+<p><a href="https://repost.aws/knowledge-center/dms-memory-optimization" target="_blank" rel="noopener noreferrer">Optimize memory for migration using AWS DMS | AWS re<!-- -->:Post</a></p>
+</li>
+<li>
+<p><a href="https://docs.aws.amazon.com/dms/latest/sbs/chap-manageddatabases.mysql2rds.html" target="_blank" rel="noopener noreferrer">Migrating a MySQL Database to RDS for MySQL or Aurora MySQL - Database Migration Guide</a></p>
+</li>
+</ul></div><footer class="theme-doc-footer docusaurus-mt-lg"><div class="theme-doc-footer-edit-meta-row row"><div class="col"><a href="https://github.com/deepaksood619/deepaksood619.github.io/tree/master/docs/cloud/aws/aws-database-migration-service-dms.md" target="_blank" rel="noopener noreferrer" class="theme-edit-this-page"><svg fill="currentColor" height="20" width="20" viewBox="0 0 40 40" class="iconEdit_Z9Sw" aria-hidden="true"><g><path d="m34.5 11.7l-3 3.1-6.3-6.3 3.1-3q0.5-0.5 1.2-0.5t1.1 0.5l3.9 3.9q0.5 0.4 0.5 1.1t-0.5 1.2z m-29.5 17.1l18.4-18.5 6.3 6.3-18.4 18.4h-6.3v-6.2z"></path></g></svg>Edit this page</a></div><div class="col lastUpdated_vwxv"><span class="theme-last-updated">Last updated<!-- --> on <b><time datetime="2024-05-30T18:38:58.000Z">May 30, 2024</time></b></span></div></div></footer></article><nav class="pagination-nav docusaurus-mt-lg" aria-label="Docs pages"><a class="pagination-nav__link pagination-nav__link--prev" href="/cloud/aws/analytics/amazon-devops-guru"><div class="pagination-nav__sublabel">Previous</div><div class="pagination-nav__label">Amazon DevOps Guru</div></a><a class="pagination-nav__link pagination-nav__link--next" href="/cloud/aws/aws-glue"><div class="pagination-nav__sublabel">Next</div><div class="pagination-nav__label">AWS Glue</div></a></nav></div></div><div class="col col--3"><div class="tableOfContents_bqdL thin-scrollbar theme-doc-toc-desktop"><ul class="table-of-contents table-of-contents__left-border"><li><a href="#components" class="table-of-contents__link toc-highlight">Components</a></li><li><a href="#migration-types" class="table-of-contents__link toc-highlight">Migration Types</a></li><li><a href="#loading-multiple-tables-in-parallel" class="table-of-contents__link toc-highlight">Loading multiple tables in parallel</a></li><li><a href="#schema-conversion-tool" class="table-of-contents__link toc-highlight">Schema Conversion Tool</a></li><li><a href="#pricing" class="table-of-contents__link toc-highlight">Pricing</a></li><li><a href="#migration-planning" class="table-of-contents__link toc-highlight">Migration planning</a></li><li><a href="#schema-assessment-and-conversion" class="table-of-contents__link toc-highlight">Schema assessment and conversion</a></li><li><a href="#homogeneous-data-migration" class="table-of-contents__link toc-highlight">Homogeneous Data Migration</a></li><li><a href="#best-practices" class="table-of-contents__link toc-highlight">Best Practices</a></li><li><a href="#links" class="table-of-contents__link toc-highlight">Links</a></li></ul></div></div></div></div></main></div></div></div><footer class="footer footer--dark"><div class="container container-fluid"><div class="footer__bottom text--center"><div class="footer__copyright">Copyright © 2024 Deep Notes, Built with ❤️</div></div></div></footer></div>
 </body>
 </html>
