@@ -123,6 +123,27 @@ With homogeneous data migrations, you pay by the hour only for the duration of t
    	- Full load
    	- Full load + change data capture (CDC)
    	- CDC only
+- AWS DMS automatically manages the compute and storage resources in the AWS Cloud that are required for homogeneous data migrations. AWS DMS deploys these resources in a serverless environment when you start a data migration.
+- AWS DMS uses native database tools to initiate a fully-automated migration between the databases of the same type.
+- You can use homogeneous data migrations to migrate your data as well as the secondary objects such as partitions, functions, stored procedures, and so on.
+- You can run homogeneous data migrations in the following three migration modes: full load, ongoing replication, and full load with ongoing replication.
+- For homogeneous data migrations, you can use on-premises, Amazon EC2, Amazon RDS databases as a source. You can choose Amazon RDS or Amazon Aurora as a migration target for homogeneous data migrations.
+
+## Limitations for homogeneous data migrations
+
+The following limitations apply when you use homogeneous data migrations:
+
+- Homogeneous data migrations only support selection rules for MongoDB and Amazon DocumentDB migrations. DMS doesn't support selection rules for other database engines. Also, you can’t use transformation rules to change the data type of columns, move objects from one schema to another, or change the names of objects.
+- Homogeneous data migrations don't provide a built-in tool for data validation.
+- When using homogeneous data migrations with PostgreSQL, AWS DMS migrates views as tables to your target database.
+- Homogeneous data migrations don't capture schema-level changes during an ongoing data replication. If you create a new table in your source database, then AWS DMS can't migrate this table. To migrate this new table, restart your data migration.
+- You can't use homogeneous data migrations in AWS DMS to migrate data from a higher database version to a lower database version.
+- You can't use homogeneous data migrations in the CLI or API.
+- Homogeneous data migrations don't support establishing a connection with database instances in VPC secondary CIDR ranges.
+- You can't use the 8081 port for homogeneous migrations from your data providers.
+- Homogeneous data migrations don't support migrating encrypted MySQL databases and tables.
+
+[Migrating databases to their Amazon RDS equivalents with AWS DMS - AWS Database Migration Service](https://docs.aws.amazon.com/dms/latest/userguide/data-migrations.html)
 
 [Overview of the homogeneous data migration process in AWS DMS - AWS Database Migration Service](https://docs.aws.amazon.com/dms/latest/userguide/dm-getting-started.html)
 
@@ -137,6 +158,18 @@ With homogeneous data migrations, you pay by the hour only for the duration of t
 Make sure that you know what information and tables in the source database need to be migrated to the target database. **AWS DMS supports basic schema migration, including the creation of tables and primary keys. However, AWS DMS doesn't automatically create secondary indexes, foreign keys, user accounts, and so on, in the target database**. Depending on your source and target database engine, you might need to set up supplemental logging or modify other settings for a source or target database.
 
 It replicates only a limited amount of data definition language (DDL) statements. AWS DMS doesn't propagate items such as indexes, users, privileges, stored procedures, and other database changes not directly related to table data.
+
+### Objects
+
+To migrate objects with MySQL, use the mysqldump utility to generate a dump file containing only the schema metadata. The **--no-data** option tells mysqldump not to dump table data, so the results in the dump file contain only statements to create the tables. For a definition-only dump, add the **--routines** and **--events** options to also include stored routine and event definitions.
+
+Example:
+
+```
+mysqldump --no-data --routines --events -h SOURCE_DB_SERVER_NAME -u DMS_USER -p SOURCE_DB > path_to_dump_file.sql
+```
+
+[Migrate objects using AWS DMS | AWS re:Post](https://repost.aws/knowledge-center/dms-migrate-database-objects)
 
 [Best practices for AWS Database Migration Service - AWS Database Migration Service](https://docs.aws.amazon.com/dms/latest/userguide/CHAP_BestPractices.html)
 

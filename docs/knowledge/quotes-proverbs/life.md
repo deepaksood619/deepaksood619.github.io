@@ -1087,4 +1087,6 @@ A tool is only as good as the person using it.
 
 “The illiterate of the twenty-first century will not be those who cannot read and write, but those who cannot learn, unlearn, and relearn.” — Alvin Toffler
 
+Show me the incentives, I will show you the outcome — Charlie Munger
+
 ## End

@@ -42,3 +42,17 @@ If the primary instance in a DB cluster fails, Aurora automatically fails over t
 If the DB cluster has one or more Aurora Replicas, then an Aurora Replica is promoted to the primary instance during a failure event. A failure event results in a brief interruption, during which read and write operations fail with an exception. However, service is typically restored in less than 60 seconds, and often less than 30 seconds. To increase the availability of your DB cluster, we recommend that you create at least one or more Aurora Replicas in two or more different Availability Zones.
 
 If the DB cluster doesn't contain any Aurora Replicas, then the primary instance is recreated in the same AZ during a failure event. A failure event results in an interruption during which read and write operations fail with an exception. Service is restored when the new primary instance is created, which typically takes less than 10 minutes. Promoting an Aurora Replica to the primary instance is much faster than creating a new primary instance.
+
+## RDS Data API
+
+By using RDS Data API (Data API), you can work with a web-services interface to your Aurora DB cluster. Data API doesn't require a persistent connection to the DB cluster. Instead, it provides a secure HTTP endpoint and integration with AWS SDKs. You can use the endpoint to run SQL statements without managing connections.
+
+[Using RDS Data API - Amazon Aurora](https://docs.aws.amazon.com/AmazonRDS/latest/AuroraUserGuide/data-api.html)
+
+[Introducing the Data API for Amazon Aurora Serverless v2 and Amazon Aurora provisioned clusters | AWS Database Blog](https://aws.amazon.com/blogs/database/introducing-the-data-api-for-amazon-aurora-serverless-v2-and-amazon-aurora-provisioned-clusters/)
+
+## Reserved Instances
+
+With Aurora MySQL they have [size flexibility](https://aws.amazon.com/about-aws/whats-new/2017/10/amazon-rds-reserved-instances-offer-instance-size-flexibility/) -- so they can purchase a T3.Large, and run 4 T3.Smalls to get the discount (or whatever the size factor is). However, they must commit to the T3 family. They will not be able to get the discount by running a T2 RDS instance. That T2 will be billed on-demand rates.
+
+[Reserved Instances for RDS Aurora | AWS re:Post](https://repost.aws/questions/QU2oqoI7B8R8KR21qsCIGP6Q/reserved-instances-for-rds-aurora)

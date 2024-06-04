@@ -11,7 +11,7 @@ RabbitMQ with high availability (HA) works behind the scenes by mirroring queues
 ### Cluster Formation and Communication
 
 #### 1. Node Initialization
-    
+
 - When RabbitMQ starts, each node in the cluster initializes and starts communicating with other nodes to form the cluster.
 - Nodes use the `Erlang` distributed system to communicate. They exchange information about the cluster state, such as which nodes are available and which queues are hosted on which nodes.
 
@@ -23,7 +23,7 @@ RabbitMQ with high availability (HA) works behind the scenes by mirroring queues
 ### Mirroring Queues
 
 #### 1. HA Policy
-    
+
 - The HA policy set on the master node dictates how queues are mirrored. For example, `rabbitmqctl set_policy ha-all ".*" '{"ha-mode":"all"}'` ensures all queues are mirrored across all nodes in the cluster.
 - When a queue is created, it’s automatically mirrored to all nodes based on this policy.
 
@@ -35,7 +35,7 @@ RabbitMQ with high availability (HA) works behind the scenes by mirroring queues
 ### Message Handling
 
 #### 1. Publishing Messages
-    
+
 - When a message is published to a queue, the primary node handles the message and replicates it to all mirrored nodes.
 - This replication ensures that all nodes have the same state of the queue.
 
@@ -47,7 +47,7 @@ RabbitMQ with high availability (HA) works behind the scenes by mirroring queues
 ### Failover Mechanism
 
 #### 1. Node Failure
-    
+
 - If a primary node fails, one of the mirrored nodes is automatically promoted to be the new primary.
 - This new primary continues handling messages and replicating the state to other nodes, ensuring no interruption in service.
 
@@ -66,7 +66,7 @@ RabbitMQ with high availability (HA) works behind the scenes by mirroring queues
 ### Monitoring and Management
 
 #### 1. RabbitMQ Management Plugin
-    
+
 - The management plugin provides a web-based UI (`http://<node_ip>:15672`) where administrators can monitor the cluster’s health, queues, exchanges, connections, and node status.
 - It also provides tools for managing RabbitMQ configurations, such as adding or removing nodes, setting policies, and viewing logs.
 

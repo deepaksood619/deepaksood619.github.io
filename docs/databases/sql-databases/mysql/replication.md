@@ -6,6 +6,8 @@
 
 [Replicating - Amazon Relational Database Service](https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/mysql-stored-proc-replicating.html)
 
+[Replicating - Amazon Relational Database Service](https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/mysql-stored-proc-replicating.html)
+
 ```sql
 show slave status;
 
@@ -22,7 +24,6 @@ change master to
 	MASTER_LOG_FILE='<>'
 	MASTER_LOG_POS='<>'
 	FOR CHANNEL '<channel_name>';
-
 ```
 
 ## Reverse Replication

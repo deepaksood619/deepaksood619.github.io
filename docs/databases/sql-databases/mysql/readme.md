@@ -10,6 +10,7 @@
 - [Optimizing Locking Operations](optimizing-locking-operations)
 - [MySQL Heatwave](databases/sql-databases/mysql/mysql-heatwave.md)
 - [Administration](databases/sql-databases/mysql/administration.md)
+- [mysqlbinlog](databases/sql-databases/mysql/mysqlbinlog.md)
 - [Replication](databases/sql-databases/mysql/replication.md)
 - [GTID Replication](databases/sql-databases/mysql/gtid-replication.md)
 - [Thread States](databases/sql-databases/mysql/thread-states.md)
@@ -23,6 +24,8 @@
    	- [mydumper](databases/sql-databases/mysql/mydumper.md)
    	- [percona-xtrabackup](databases/sql-databases/mysql/percona-xtrabackup.md)
 - [Others](databases/sql-databases/mysql/others.md)
+
+[B.3.7 Known Issues in MySQL](https://dev.mysql.com/doc/refman/8.4/en/known-issues.html)
 
 ### Others
 

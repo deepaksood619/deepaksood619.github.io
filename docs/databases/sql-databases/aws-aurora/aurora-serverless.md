@@ -26,6 +26,10 @@ Aurora Serverless v2 (Preview) supports all manner of database workloads, from d
 
 [How Aurora Serverless v2 works - Amazon Aurora](https://docs.aws.amazon.com/AmazonRDS/latest/AuroraUserGuide/aurora-serverless-v2.how-it-works.html)
 
+## Migration
+
+[Best practices for migrating MySQL RDS to Aurora Serverless | AWS re:Post](https://repost.aws/questions/QUj0HHjReFTemiPMxU90QJgA/best-practices-for-migrating-mysql-rds-to-aurora-serverless)
+
 ## Links
 
 - [Getting Started with Amazon Aurora Serverless v2 | Amazon Web Services - YouTube](https://www.youtube.com/watch?v=UJIDaVmoRT0&ab_channel=AmazonWebServices)

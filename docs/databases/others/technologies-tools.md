@@ -17,6 +17,8 @@ https://dev.to/realtrevorfaux/8-new-sql-tools-that-will-change-how-you-work-in-2
 - select * from sys.x$statements_with_full_table_scans;
 - select * from sys.`x$statements_with_runtimes_in_95th_percentile`;
 
+[MySQL - MySQL Workbench - 11 Keyboard Shortcuts](http://download.nust.na/pub6/mysql/doc/workbench/en/wb-keys.html)
+
 ### Others
 
 - Data Grip

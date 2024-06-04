@@ -37,6 +37,7 @@
     - [Amazon DynamoDB](../../databases/nosql-databases/aws-dynamodb/readme.md)
     - [Amazon Redshift](../../databases/sql-databases/aws-redshift/readme.md)
     - [Amazon Database Migration Service DMS](aws-database-migration-service-dms)
+- [AWS Backup](cloud/aws/aws-backup.md)
 - [AWS Rekognition](aws-rekognition)
 - [Amazon Pinpoint](amazon-pinpoint)
 - [Amazon Q (Preview)](https://aws.amazon.com/q/)
