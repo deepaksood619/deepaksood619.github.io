@@ -24,6 +24,8 @@ The total billed usage for the automated backup never exceeds the cumulative clu
 
 DB cluster snapshots are always full backups whose size is that of the cluster volume at the time the snapshot is taken. Snapshots, either taken manually by the user or automatically by an [AWS Backups](https://docs.aws.amazon.com/aws-backup/latest/devguide/about-backup-plans.html) plan, are treated as manual snapshots. Aurora provides unlimited free storage for all snapshots that lie within the automated backup retention period. After a manual snapshot is outside the retention period, it's billed per GB-month. Any automated system snapshot is never charged unless copied and retained past the retention period.
 
+Manual snapshots are not deleted. You can have up to 100 manual snapshots per Region.
+
 ## Amazon CloudWatch metrics for Aurora backup storage
 
 ### `BackupRetentionPeriodStorageUsed`
@@ -77,6 +79,10 @@ This data means that the calculated automated backup usage for your backup is th
 The billed usage then subtracts the free tier of usage. Assume that the latest size of your volume is 200 GB:
 
 `235 GB total backup usage - 200 GB (latest volume size) = 35 GB billed backup usage`
+
+[Demystifying Amazon RDS backup storage costs | AWS Database Blog](https://aws.amazon.com/blogs/database/demystifying-amazon-rds-backup-storage-costs/)
+
+[Can someone help me understand RDS snapshot/backup costs? : r/aws](https://www.reddit.com/r/aws/comments/15gf254/can_someone_help_me_understand_rds_snapshotbackup/)
 
 ## FAQs
 
@@ -168,6 +174,22 @@ Amazon RDS DB snapshots and automated backups are stored in [S3](https://aws.am
 
 ## Exports in Amazon S3
 
+Costs - 10 snapshots for a database 20gb in size, costs over $23 USD
+
+You can export DB snapshot data to an Amazon S3 bucket. The export process runs in the background and doesn't affect the performance of your active DB instance.
+
+When you export a DB snapshot, Amazon RDS extracts data from the snapshot and stores it in an Amazon S3 bucket. The data is stored in an Apache Parquet format that is compressed and consistent.
+
+You can export all types of DB snapshots—including manual snapshots, automated system snapshots, and snapshots created by the AWS Backup service. By default, all data in the snapshot is exported. However, you can choose to export specific sets of databases, schemas, or tables.
+
+After the data is exported, you can analyze the exported data directly through tools like Amazon Athena or Amazon Redshift Spectrum.
+
+[Exporting DB snapshot data to Amazon S3 - Amazon Relational Database Service](https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/USER_ExportSnapshot.html)
+
+Limitations - [Exporting DB snapshot data to Amazon S3 - Amazon Relational Database Service](https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/USER_ExportSnapshot.html#USER_ExportSnapshot.Limits)
+
+### Important Difference
+
 Unfortunately exporting an RDS snapshot of Aurora MySQL to S3 and creating a new database cluster from the exported Snapshot will not be possible, this is because when you export a DB snapshot, Amazon RDS extracts data from the snapshot and stores it in an Amazon S3 bucket in your account. The data is stored in an Apache Parquet format that is compressed and consistent.
 
 Please note that "**restore from s3**" and "**export snapshot to s3**" are serving for 2 different purposes.
@@ -180,6 +202,14 @@ On the other hand, restoring from s3 is for restoring a XtraBackup created on yo
 
 [postgresql - How to restore exported RDS snapshot from S3 to RDS cluster - Stack Overflow](https://stackoverflow.com/questions/72547543/how-to-restore-exported-rds-snapshot-from-s3-to-rds-cluster)
 
+[Amazon RDS Snapshot Export to S3 - YouTube](https://www.youtube.com/watch?v=lyNGeDg6EII)
+
+[GitHub - aws-samples/rds-snapshot-export-to-s3-pipeline: RDS Snapshot Export to S3 Pipeline](https://github.com/aws-samples/rds-snapshot-export-to-s3-pipeline)
+
+[postgresql - How to restore exported RDS snapshot from S3 to RDS cluster - Stack Overflow](https://stackoverflow.com/questions/72547543/how-to-restore-exported-rds-snapshot-from-s3-to-rds-cluster)
+
+- There is currently no method available to import these Parquet files back into RDS. You would have to write some code yourself to read the Parquet files and insert the data back into a running RDS instance if you needed that.
+
 ## Replication
 
 [Replication with Amazon Aurora MySQL - Amazon Aurora](https://docs.aws.amazon.com/AmazonRDS/latest/AuroraUserGuide/AuroraMySQL.Replication.html)
@@ -189,6 +219,14 @@ On the other hand, restoring from s3 is for restoring a XtraBackup created on yo
 # Backup / Restore Tools
 
 To restore your database, you can use the [pg_dump utility](https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/PostgreSQL.Procedural.Importing.html#PostgreSQL.Procedural.Importing.EC2) for PostgreSQL or for PostgreSQL versions 10.10 and later, and 11.5. Or, you can use [Transportable Databases](https://aws.amazon.com/blogs/database/migrating-databases-using-rds-postgresql-transportable-databases/), which moves data much faster than the pg_dump/pg_restore method. The [mysqldump](https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/MySQL.Procedural.Importing.SmallExisting.html) utility is available for importing data into MySQL/MariaDB engines, or you can use the [external replication](https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/MySQL.Procedural.Importing.NonRDSRepl.html) method for reduced downtime. Similarly, you can use [Data Pump](https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/Oracle.Procedural.Importing.DataPump.html) for Oracle and [native full backup](https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/SQLServer.Procedural.Importing.html#SQLServer.Procedural.Importing.Native.Using) (.bak files) for SQL Server.
+
+[Restoring a backup into a MySQL DB instance - Amazon Relational Database Service](https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/MySQL.Procedural.Importing.html)
+
+[Importing data from an external MariaDB or MySQL database to an RDS for MariaDB or RDS for MySQL DB instance - Amazon Relational Database Service](https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/MySQL.Procedural.Importing.SmallExisting.html)
+
+[Importing data to an Amazon RDS MariaDB or MySQL database with reduced downtime - Amazon Relational Database Service](https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/MySQL.Procedural.Importing.NonRDSRepl.html)
+
+[Importing data from any source to a MariaDB or MySQL DB instance - Amazon Relational Database Service](https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/MySQL.Procedural.Importing.AnySource.html)
 
 ## Links
 
