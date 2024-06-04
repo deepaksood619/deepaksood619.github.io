@@ -1,58 +1,5 @@
 # Amazon S3 Storage Classes
 
-- S3 Standard (Frequently accessed data) - $0.023per GB
-- S3 Intelligent-Tiering - $0.023per GB
-- Amazon S3 Express One Zone - $0.16 per GB
-- S3 Standard-IA (Infrequent Access) (Long-lived, infrequently accessed data) - $0.0125per GB (54% cheap)
-- S3 One Zone-IA (Long-lived, infrequent, but rapid access) - $0.01per GB (125% cheap)
-- S3 Glacier - $0.004per GB (312% cheap)
-- S3 Glacier Deep Archive (Archiving rarely accessed data) - $0.00099per GB (1262% cheap)
-- Amazon S3 Glacier Instant Retrieval
-- S3 Outposts
-
-Monitoring and Automation, All Storage / Month (Objects > 128 KB) - $0.0025per 1,000 objects
-
-https://aws.amazon.com/s3/storage-classes
-
-https://aws.amazon.com/s3/storage-classes/intelligent-tiering
-
-S3 Intelligent-Tiering is the only cloud storage class that delivers automatic storage cost savings when data access patterns change, without performance impact or operational overhead. The Amazon S3 Intelligent-Tiering storage class is designed to optimize storage costs by automatically moving data to the most cost-effective access tier when access patterns change. For a small monthly object monitoring and automation charge, S3 Intelligent-Tiering monitors access patterns and automatically moves objects that have not been accessed to lower-cost access tiers.
-
-S3 Intelligent-Tiering is the ideal storage class for data with unknown, changing, or unpredictable access patterns, independent of object size or retention period. You can use S3 Intelligent-Tiering as the default storage class for virtually any workload, especially data lakes, data analytics, new applications, and user-generated content.
-
-## Pricing
-
-[Amazon S3 Simple Storage Service Pricing - Amazon Web Services](https://aws.amazon.com/s3/pricing/?nc=sn&loc=4)
-
-### Storage
-
-The volume of storage billed in a month is based on the average storage used throughout the month. This includes all object data and metadata stored in buckets that you created under your AWS account. We measure your storage usage in "TimedStorage-ByteHrs," which are added up at the end of the month to generate your monthly charges.
-
-The rate you're charged depends on your objects' size, how long you stored the objects during the month, and the storage class - S3 Standard, S3 Intelligent-Tiering, S3 Standard - Infrequent Access, S3 One Zone - Infrequent Access, S3 Glacier, and S3 Glacier Deep Archive, and Reduced Redundancy Storage (RRS). You pay a monthly monitoring and automation fee per object stored in the S3 Intelligent-Tiering storage class to monitor access patterns and move objects between access tiers in S3 Intelligent-Tiering.
-
-There are per-request ingest fees when using PUT, COPY, or lifecycle rules to move data into any S3 storage class. Consider the ingest or transition cost before moving objects into any storage class.
-
-### Data Transfer in / out
-
-| **PUT, COPY, POST, LIST requests (per 1,000 requests)** | **GET, SELECT, and all other requests (per 1,000 requests)** | **Lifecycle Transition requests (per 1,000 requests)** |
-|-|-|-|
-| S3 Standard | $0.005 | $0.0004 |
-
-### You pay for all bandwidth into and out of Amazon S3, except for the following
-
-- Data transferred in from the internet.
-- Data transferred out to an Amazon Elastic Compute Cloud (Amazon EC2) instance, when the instance is in the same AWS Region as the S3 bucket.
-- Data transferred out to Amazon CloudFront (CloudFront).
-
-### Data Transfer OUT From Amazon S3 To Internet
-
-| Up to 1 GB / Month          | $0.00 per GB   |
-|-----------------------------|-----------------|
-| Next 9.999 TB / Month       | $0.1093 per GB |
-| Next 40 TB / Month          | $0.085 per GB  |
-| Next 100 TB / Month         | $0.082 per GB  |
-| Greater than 150 TB / Month | $0.08 per GB   |
-
 ## General purpose - Amazon S3 Standard (S3 Standard)
 
 S3 Standard offers high durability, availability, and performance object storage for frequently accessed data. Because it delivers low latency and high throughput, S3 Standard is appropriate for a wide variety of use cases, including cloud applications, dynamic websites, content distribution, mobile and gaming applications, and big data analytics.

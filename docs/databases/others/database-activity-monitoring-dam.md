@@ -6,6 +6,18 @@ DAM stands for Database Activity Monitoring, referring to any solution that is u
 
 [What is Database Activity Monitoring? DAM Explained - Cyral](https://cyral.com/glossary/database-activity-monitoring/)
 
+## Main Capabilities of Database Activity Monitoring Tools
+
+- Monitor and audit all database activity independently, including SELECT transactions and users’ activities, without performance degradation. Tools can work with multiple DBMSs and normalize transactions from different DBMSs, despite differences between SQL flavors.
+- Securely store the database activity outside the monitored database.
+- Independently monitor and audit all database activity, including administrator activity and SELECT query transactions. Tools can record all SQL transactions: DML, DDL, DCL (and sometimes TCL).
+- Aggregate and correlate database activities from multiple heterogeneous database management systems.
+- Enforce separation of duties of database administrators, administrator activities, and prevent the manipulation or tampering of recorded activities or logs.
+- Securely store the audit logs to a central server outside the audited database.
+- Ensure that a service account only accesses a database from a defined source IP and runs a narrow group of authorized queries. This policy can alert you to compromises of a service account either from the system that generally uses it or if the account credentials show up in a connection from an unexpected system.
+- Enforce separation of duties by monitoring and logging database administrator activities.
+- Generate alerts whenever policy violations are detected and generate alerts for rule-based or heuristic-based policy violations. For example, you might create a rule to create an alert each time a privileged user performs a SELECT query that returns more than five results from a credit card column. The trigger alerts you to the possibility that the application has been compromised via SQL injection or other attacks.
+
 ## Tools
 
 [AWS Marketplace: SecureSphere Database Activity Monitor for AWS (BYOL)](https://aws.amazon.com/marketplace/pp/prodview-3wa5bmj5ol4g4)

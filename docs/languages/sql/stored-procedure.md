@@ -39,7 +39,13 @@ EXEC *procedure_name*;
 
 https://en.wikipedia.org/wiki/Stored_procedure
 
-## Stored Procedures
+## Differences
+
+- A **stored routine** is either a procedure or a function.
+- A **procedure** is invoked using a CALL statement and can only pass back values using output variables.
+- A **function** can be called from inside a statement just like any other function and can return a scalar value.
+
+### Stored Procedures
 
 - Procedure can return zero or n values
 - Procedures can have input/output parameters for it
@@ -57,7 +63,7 @@ https://en.wikipedia.org/wiki/Stored_procedure
 - Print command used.
 - It execute Dynamic SQL.
 
-## Functions
+### Functions
 
 - function can return one value which is mandatory
 - functions can have only input parameters
@@ -73,6 +79,8 @@ https://en.wikipedia.org/wiki/Stored_procedure
 - It can't execute dynamic sql.
 
 https://www.mysqltutorial.org/mysql-error-handling-in-stored-procedures
+
+[mysql - What's the differences between stored procedures, functions and routines? - Stack Overflow](https://stackoverflow.com/questions/2680745/whats-the-differences-between-stored-procedures-functions-and-routines)
 
 ## Access
 

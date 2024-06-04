@@ -29,6 +29,7 @@
 - [Storage](storage/readme.md)
     - [Amazon S3](storage/amazon-s3)
     - [Amazon S3 Storage Classes](cloud/aws/storage/amazon-s3-storage-classes.md)
+    - [Amazon S3 Pricing](cloud/aws/storage/amazon-s3-pricing.md)
     - [Amazon EBS](storage/amazon-ebs)
     - [Amazon EFS](cloud/aws/storage/amazon-efs.md)
     - [IOPS](cloud/aws/storage/iops.md)
@@ -72,6 +73,7 @@ https://www.awsgeek.com/Periodic-Table-of-Amazon-Web-Services/Periodic-Table-of-
 
 ### Others
 
+- [AWS Samples · GitHub](https://github.com/aws-samples)
 - [AWS Financial Services Competency Partners](https://aws.amazon.com/financial-services/partner-solutions/)
 - [Top Architecture Blog Posts of 2023 | AWS Architecture Blog](https://aws.amazon.com/blogs/architecture/top-architecture-blog-posts-of-2023/)
 - [Explore AWS Training and Certification Events](https://aws.amazon.com/training/events/)
