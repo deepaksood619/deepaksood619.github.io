@@ -256,3 +256,5 @@ https://vlang.io
 - [Solidity](decentralized-applications/ethereum/solidity.md)
 - [GitHub - move-language/move](https://github.com/move-language/move)
     - [Introduction - The Move Book](https://move-language.github.io/move/)
+- [GitHub - HigherOrderCO/Bend: A massively parallel, high-level programming language](https://github.com/HigherOrderCO/Bend)
+   	- [Mind-bending new programming language for GPUs just dropped... - YouTube](https://www.youtube.com/watch?v=HCOQmKTFzYY)

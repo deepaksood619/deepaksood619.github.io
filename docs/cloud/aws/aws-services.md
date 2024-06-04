@@ -271,14 +271,6 @@ https://aws.amazon.com/solutions/implementations/distributed-load-testing-on-aws
 
 https://aws.amazon.com/about-aws/whats-new/2020/10/introducing-distributed-load-testing-v1-1
 
-### AWS Backup
-
-AWS Backup is a fully-managed service that makes it easy to centralize and automate data protection across AWS services, in the cloud, and on premises. Using this service, you can configure backup policies and monitor activity for your AWS resources in one place. It allows you to automate and consolidate backup tasks that were previously performed service-by-service, and removes the need to create custom scripts and manual processes. With a few clicks in the AWS Backup console, you can automate your data protection policies and schedules.
-
-[Backup As A Service - Centralized Backups - AWS Backup - AWS](https://aws.amazon.com/backup/)
-
-[What is AWS Backup? - AWS Backup](https://docs.aws.amazon.com/aws-backup/latest/devguide/whatisbackup.html)
-
 ### FinSpace
 
 https://aws.amazon.com/about-aws/whats-new/2021/05/introducing-amazon-finspace-a-fully-managed-service-to-store-prepare-and-analyze-data-for-the-financial-services-industry-fsi

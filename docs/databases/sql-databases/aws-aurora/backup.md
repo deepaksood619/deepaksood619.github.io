@@ -80,6 +80,8 @@ The billed usage then subtracts the free tier of usage. Assume that the latest s
 
 ## FAQs
 
+[mysql - Should I stick only to AWS RDS Automated Backup or DB Snapshots? - Stack Overflow](https://stackoverflow.com/questions/9815612/should-i-stick-only-to-aws-rds-automated-backup-or-db-snapshots)
+
 ### When am I billed for snapshots?
 
 You're billed for manual snapshots that are outside (older than) the retention period of the automated backup.
@@ -134,6 +136,50 @@ If you share a snapshot with another user, you're still the owner of that snapsh
 
 To keep access to a shared snapshot owned by someone else, you can copy that snapshot. Doing so makes you the owner of the new snapshot. Any storage costs for the copied snapshot apply to your account.
 
+### Is there downtime for enabling Amazon RDS automated backups?
+
+When you [enable Amazon RDS automated backups](https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/USER_WorkingWithAutomatedBackups.html#USER_WorkingWithAutomatedBackups.Enabling), an outage can occur when you update the backup retention period from "0" to a nonzero value. An outage can also occur when you update from a nonzero value to "0". The outage will be equivalent to the duration of a reboot and any engine recovery tasks performed during the engine startup.
+
+**Note:** If you disable automated backups in Amazon RDS, all of your previous automated backup jobs will also be deleted.
+
+### What is the difference between automated backups and DB Snapshots?
+
+Amazon RDS provides two different methods for backing up and restoring your DB instance(s) [automated backups](https://aws.amazon.com/rds/features/backup/) and [database snapshots](https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/USER_CreateSnapshot.html) (DB Snapshots).
+
+The automated backup feature of Amazon RDS enables [point-in-time recovery](https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/USER_PIT.html) of your DB instance. When automated backups are turned on for your DB Instance, Amazon RDS automatically performs a full daily snapshot of your data (during your preferred backup window) and captures transaction logs (as updates to your DB Instance are made). When you initiate a point-in-time recovery, transaction logs are applied to the most appropriate daily backup in order to restore your DB instance to the specific time you requested.
+
+Amazon RDS retains backups of a DB Instance for a limited, user-specified period of time called the retention period, which by default is 7 days but can be set to up to 35 days. You can initiate a point-in-time restore and specify any second during your retention period, up to the Latest Restorable Time. You can use the [DescribeDBInstances](https://docs.aws.amazon.com/AmazonRDS/latest/APIReference/API_DescribeDBInstances.html) API to return the latest restorable time for you DB instance, which is typically within the last five minutes.
+
+Alternatively, you can find the Latest Restorable Time for a DB instance by selecting it in the AWS Management Console and looking in the “Description” tab in the lower panel of the Console.
+
+DB Snapshots are user-initiated and enable you to back up your DB instance in a known state as frequently as you wish, and then restore to that specific state at any time. DB Snapshots can be created with the AWS Management Console, CreateDBSnapshot API, or create-db-snapshot command and are kept until you explicitly delete them.
+
+The snapshots which Amazon RDS performs for enabling automated backups are available to you for copying (using the AWS console or the [copy-db-snapshot command](http://docs.aws.amazon.com/cli/latest/reference/rds/copy-db-snapshot.html)) or for the snapshot restore functionality. You can identify them using the "automated" Snapshot Type. In addition, you can identify the time at which the snapshot has been taken by viewing the "Snapshot Created Time" field.
+
+Alternatively, the identifier of the "automated" snapshots also contains the time (in UTC) at which the snapshot has been taken.
+
+Please note: When you perform a restore operation to a point in time or from a DB Snapshot, a new DB Instance is created with a new endpoint (the old DB Instance can be deleted if so desired). This is done to enable you to create multiple DB Instances from a specific DB Snapshot or point in time.
+
+### Where are my automated backups and DB snapshots stored and how do I manage their retention?
+
+Amazon RDS DB snapshots and automated backups are stored in [S3](https://aws.amazon.com/s3/).
+
+[Amazon RDS FAQs](https://aws.amazon.com/rds/faqs/#23)
+
+## Exports in Amazon S3
+
+Unfortunately exporting an RDS snapshot of Aurora MySQL to S3 and creating a new database cluster from the exported Snapshot will not be possible, this is because when you export a DB snapshot, Amazon RDS extracts data from the snapshot and stores it in an Amazon S3 bucket in your account. The data is stored in an Apache Parquet format that is compressed and consistent.
+
+Please note that "**restore from s3**" and "**export snapshot to s3**" are serving for 2 different purposes.
+
+Exporting a snapshot to S3 is a one way direction. The files in parquet format that have been exported to S3 **can't be used to restore back to RDS**. The purpose of it is to allow Amazon Athena or Amazon Redshift Spectrum to analyze data directly from s3.
+
+On the other hand, restoring from s3 is for restoring a XtraBackup created on your local server which is for migrating data from an external MySQL database to an Amazon Aurora MySQL DB cluster
+
+[amazon web services - Restore Aurora DB cluster from S3 not working - Stack Overflow](https://stackoverflow.com/questions/65922345/restore-aurora-db-cluster-from-s3-not-working)
+
+[postgresql - How to restore exported RDS snapshot from S3 to RDS cluster - Stack Overflow](https://stackoverflow.com/questions/72547543/how-to-restore-exported-rds-snapshot-from-s3-to-rds-cluster)
+
 ## Replication
 
 [Replication with Amazon Aurora MySQL - Amazon Aurora](https://docs.aws.amazon.com/AmazonRDS/latest/AuroraUserGuide/AuroraMySQL.Replication.html)
@@ -147,3 +193,4 @@ To restore your database, you can use the [pg_dump utility](https://docs.aws.am
 ## Links
 
 - [Improve performance of your bulk data import to Amazon RDS for MySQL | AWS Database Blog](https://aws.amazon.com/blogs/database/improve-performance-of-your-bulk-data-import-to-amazon-rds-for-mysql/)
+- [Perform automated backups of Amazon RDS MySQL | AWS re:Post](https://repost.aws/knowledge-center/rds-mysql-automated-backups)

@@ -114,6 +114,12 @@ Ideally, both should be 100%, but I would say that it's more important to keep t
 - [Overview - Komiser](https://docs.komiser.io/welcome/overview)
 - [Instance Scheduler on AWS](https://aws.amazon.com/solutions/implementations/instance-scheduler-on-aws/)
 
+## Tools for checking costs
+
+- [GitHub - concurrencylabs/aws-cost-analysis: Tools that make it easier to analyze AWS Cost and Usage reports. Initial version provides support for Athena and QuickSight.](https://github.com/concurrencylabs/aws-cost-analysis)
+- [GitHub - hystax/optscale: FinOps and cloud cost optimization tool. Supports AWS, Azure, GCP, Alibaba Cloud and Kubernetes.](https://github.com/hystax/optscale)
+- [Economize Cloud – Cloud Cost Optimization Software](https://www.economize.cloud/)
+
 ## Links
 
 - [Aurora - configurations-optimizations-best-practices](databases/sql-databases/aws-aurora/configurations-optimizations-best-practices.md)

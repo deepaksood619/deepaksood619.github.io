@@ -13,3 +13,51 @@ DAM stands for Database Activity Monitoring, referring to any solution that is u
 [Monitor Amazon Aurora Database Activities Using DataSunrise Database Security | AWS Database Blog](https://aws.amazon.com/blogs/database/monitor-amazon-aurora-database-activities-using-datasunrise-database-security/)
 
 [Database Activity Monitoring (DAM) - Satori](https://satoricyber.com/glossary/dam-database-activity-monitoring/)
+
+## Database Monitoring
+
+### Percona Monitoring and Management (PMM)
+
+Percona Monitoring and Management (PMM) is an open-source database monitoring, management, and observability solution for MySQL, PostgreSQL, and MongoDB.
+
+It allows you to observe the health of your database systems, explore new patterns in their behavior, troubleshoot them and perform database management operations no matter where they are located on-prem or in the cloud.
+
+- PMM **collects** thousands of out-of-the-box performance **metrics** from databases and their hosts.
+- The PMM [web UI](https://docs.percona.com/percona-monitoring-and-management/get-started/interface.html) **visualizes data** in [dashboards](https://docs.percona.com/percona-monitoring-and-management/details/dashboards/).
+- Additional features include [advisors for database health assessments](https://docs.percona.com/percona-monitoring-and-management/details/develop-checks/index.html).
+
+[Monitoring Databases: A Product Comparison](https://www.percona.com/blog/monitoring-databases-a-product-comparison/)
+
+[Percona Monitoring and Management](https://docs.percona.com/percona-monitoring-and-management/)
+
+### MONyog (SQL Diagnostic Manager for MySQL)
+
+[https://www.webyog.com/product/monyog](https://www.webyog.com/product/monyog)
+
+MONyog MySQL Monitor and Advisor is a “MySQL DBA in a box” that helps MySQL DBAs manage more MySQL servers, tune their current MySQL servers and find and fix problems with their MySQL database applications before they can become serious problems or costly outages.
+
+MONyog proactively monitors enterprise database environments and provides expert advice on how even those new to MySQL can tighten security, optimize performance and reduce downtime of their MySQL powered systems.
+
+MONyog is more DBA focused and focuses on the MySQL configuration and queries.
+
+### **Architecture**
+
+MONyog web server runs on Linux, monitoring MySQL on all platforms and also monitoring OS-data on Linux servers. To retrieve OS metrics, MONyog uses SSH. However, with this scenario (MONyog installed on a Linux machine) MONyog web-server/agent cannot collect Windows OS metrics.
+
+Of course, the client where the MONyog output is viewed can be any browser supporting AJAX on any platform. MONyog can be installed on a remote PC as well as the server. It does not require processing, and with agentless monitoring it can collect and retrieve data from the server.
+
+### **Advantages**
+
+- Setup and startup within two minutes
+- Agentless
+- Good query tools
+- Manages configuration
+- Great advisors for database tuning built-in
+- Most comprehensive and detailed alerting
+
+### **Disadvantages**
+
+- Cost per node
+- Only supports MySQL
+
+[MySQL Performance Metrics | Webyog](https://webyog.com/blog/monyog/top-performance-metrics-monitor-mysql-connections-buffer-pool-usage/)

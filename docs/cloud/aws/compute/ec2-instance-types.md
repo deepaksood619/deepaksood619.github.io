@@ -124,7 +124,9 @@ Intel, AMD, and Graviton each come with tradeoffs:
 
 [Intel vs AMD vs Graviton: Amazon EC2 Processor Differences and Distribution](https://www.vantage.sh/blog/aws-ec2-processors-intel-vs-amd-vs-graviton-adoption)
 
-[Site Unreachable](https://aws.amazon.com/ec2/amd/)
+[AWS and AMD](https://aws.amazon.com/ec2/amd/)
+
+[AWSPremiumSupport-ChangeInstanceTypeIntelToAMD - AWS Systems Manager Automation runbook reference](https://docs.aws.amazon.com/systems-manager-automation-runbooks/latest/userguide/automation-aws-changeinstancetypeinteltoamd.html)
 
 ## EC2
 
@@ -141,6 +143,8 @@ It is possible to retrieve an instance’s IAM access key by accessing the `iam
 ### AWS Systems Manager
 
 [Working with the file system - AWS Systems Manager](https://docs.aws.amazon.com/systems-manager/latest/userguide/fleet-file-management.html)
+
+[Systems Manager Automation runbook reference - AWS Systems Manager Automation runbook reference](https://docs.aws.amazon.com/systems-manager-automation-runbooks/latest/userguide/automation-runbook-reference.html)
 
 ### Instance Scheduler
 
@@ -162,6 +166,7 @@ EC2 Image Builder
 
 https://aws.amazon.com/ec2/instance-types/g4
 
-## Others
+## Upgrading instance generation checklist
 
+- [Upgrade EC2 instance | AWS re:Post](https://repost.aws/questions/QUu8o1AEwmSgyZJho1hEfuRw/upgrade-ec2-instance)
 - [Resolve boot errors on Linux Nitro-based EC2 instances | AWS re:Post](https://repost.aws/knowledge-center/boot-error-linux-nitro-instance)

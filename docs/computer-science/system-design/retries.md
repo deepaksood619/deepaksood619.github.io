@@ -2,15 +2,15 @@
 
 ## Linear Backoff
 
-Linear backoff involves waiting for a progressively increasing fixed interval between retry attempts. 
+Linear backoff involves waiting for a progressively increasing fixed interval between retry attempts.
 
-- **Advantages:** Simple to implement and understand. 
+- **Advantages:** Simple to implement and understand.
 
 - **Disadvantages:** May not be ideal under high load or in high-concurrency environments as it could lead to resource contention or "retry storms".
 
 ## Linear Jitter Backoff
 
-Linear jitter backoff modifies the linear backoff strategy by introducing randomness to the retry intervals. This strategy still increases the delay linearly but adds a random "jitter" to each interval. 
+Linear jitter backoff modifies the linear backoff strategy by introducing randomness to the retry intervals. This strategy still increases the delay linearly but adds a random "jitter" to each interval.
 
 - **Advantages:** The randomness helps spread out the retry attempts over time, reducing the chance of synchronized retries across instances.
 
@@ -26,7 +26,7 @@ Exponential backoff involves increasing the delay between retries exponentially.
 
 ## Exponential Jitter Backoff
 
-Exponential jitter backoff combines exponential backoff with randomness. After each retry, the backoff interval is exponentially increased, and then a random jitter is applied. The jitter can be either additive (adding a random amount to the exponential delay) or multiplicative (multiplying the exponential delay by a random factor). 
+Exponential jitter backoff combines exponential backoff with randomness. After each retry, the backoff interval is exponentially increased, and then a random jitter is applied. The jitter can be either additive (adding a random amount to the exponential delay) or multiplicative (multiplying the exponential delay by a random factor).
 
 - **Advantages:** Offers all the benefits of exponential backoff, with the added advantage of reducing retry collisions even further due to the introduction of jitter.
 

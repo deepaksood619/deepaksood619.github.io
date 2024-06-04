@@ -191,6 +191,8 @@ Vector databases are designed to handle critical query and algorithmic styles se
    	- [GitHub - chroma-core/chroma: the AI-native open-source embedding database](https://github.com/chroma-core/chroma)
    	- [Chroma Vector Database: Retrieval for LLMs (Hammad Bashir + Liquan Pei)](https://youtu.be/E4ot5d79jdA?si=6apWFfCdKbi7_yFK)
 - [The 5 Best Vector Databases | A List With Examples | DataCamp](https://www.datacamp.com/blog/the-top-5-vector-databases)
+- [GitHub - milvus-io/milvus: A cloud-native vector database, storage for next generation AI applications](https://github.com/milvus-io/milvus)
+   	- [Vector database - Milvus](https://milvus.io/)
 
 ![Vector Databases](../../media/Pasted%20image%2020240405112318.png)
 

@@ -2,10 +2,13 @@
 
 ## Types
 
-1. DDL -- Data Definition Language
-2. DQl -- Data Query Language
-3. DML -- Data Manipulation Language
-4. DCL -- Data Control Language
+1. DDL - data definition language, such as CREATE, ALTER, DROP
+2. DQL - data query language, such as SELECT
+3. DML - data manipulation language, such as INSERT, UPDATE, DELETE
+4. DCL - data control language, such as GRANT, REVOKE
+5. TCL - transaction control language, such as COMMIT, ROLLBACK
+
+![SQL Commands](../../media/Pasted%20image%2020240601092219.png)
 
 ![image](../../media/SQL-Commands-image1.jpg)
 

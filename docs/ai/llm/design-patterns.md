@@ -23,3 +23,9 @@ One of the biggest questions around in-context learning is: What happens if we j
 [The Secret Sauce behind 100K context window in LLMs: all tricks in one place | by Galina Alperovich | GoPenAI](https://blog.gopenai.com/how-to-speed-up-llms-and-use-100k-context-window-all-tricks-in-one-place-ffd40577b4c)
 
 [Exploring real-time streaming for generative AI Applications | AWS Big Data Blog](https://aws.amazon.com/blogs/big-data/exploring-real-time-streaming-for-generative-ai-applications/)
+
+## Links
+
+- [Mastering Low-Rank Adaptation (LoRA): Enhancing Large Language Models for Efficient Adaptation | DataCamp](https://www.datacamp.com/tutorial/mastering-low-rank-adaptation-lora-enhancing-large-language-models-for-efficient-adaptation)
+- [LoRA](https://huggingface.co/docs/diffusers/main/en/training/lora)
+- [GitHub - microsoft/LoRA: Code for loralib, an implementation of "LoRA: Low-Rank Adaptation of Large Language Models"](https://github.com/microsoft/LoRA)

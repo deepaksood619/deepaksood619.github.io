@@ -185,3 +185,17 @@ https://myenglishmatters.com/2018/06/28/whats-the-difference-between-has-been-ha
 - A magnum opus is a noun that means a great work, especially the greatest achievement of an artist or writer.
 - avunculate - any social institution where a special relationship exists between an uncle and his sisters' children.
 - enigma - something that is mysterious and seems impossible to understand completely
+
+### Shill / Shilling
+
+**noun**
+
+- an accomplice of a confidence trickster or swindler who poses as a genuine customer to entice or encourage others
+   	- I used to be a shill in a Reno gambling club | the agency is a shill for the nuclear power industry figurative
+- a person who pretends to give an impartial endorsement of something in which they themselves have an interest
+   	- a megamillionaire who makes more money as a shill for corporate products than he does for playing basketball
+
+**verb**
+
+- act or work as a shill
+- your husband in the crowd could shill for you.

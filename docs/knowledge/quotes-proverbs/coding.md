@@ -364,3 +364,5 @@ Software engineering is not a zero-sum game.
 One hour of work is not equal to one hour of productivity.
 On some days, one hour of work is equivalent to the job of an entire day.
 On other days, a whole day of work doesn't even worth one hour.
+
+You can either code fast or produce fast code. You cannot do both. -- Hussein Nasser
