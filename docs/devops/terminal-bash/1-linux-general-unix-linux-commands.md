@@ -456,9 +456,31 @@ make links
 
 `ln test.txt link.txt`
 
-The ln utility creates a new directory entry (linked file) which has the same modes as the original file. It is useful for maintaining multiple copies of a file in many places at once without using up storage for the ``copies''; instead, a link``points'' to the original copy. There are two types of links; hard links and symbolic links. How a link ``points'' to a file is one of the differences between a hard and symbolic link.
+The ln utility creates a new directory entry (linked file) which has the same modes as the original file. It is useful for maintaining multiple copies of a file in many places at once without using up storage for the copies; instead, a link points to the original copy. There are two types of links; hard links and symbolic links. How a link points to a file is one of the differences between a hard and symbolic link.
 
-`ln -s /bin/zsh /usr/local/bin/zsh #create a symbolic link`
+```bash
+ln -s /bin/zsh /usr/local/bin/zsh # create a symbolic link
+
+ln -s /path/to/original /path/to/link
+
+ln -s myfile.txt my-soft-link
+```
+
+#### hard vs symbolic links
+
+Underneath the file system, files are represented by inodes.
+
+A file in the file system is basically a link to an inode.
+
+A hard link, then, just creates another file with a link to the same underlying inode.
+
+When you delete a file, it removes one link to the underlying inode. The inode is only deleted (or deletable/over-writable) when all links to the inode have been deleted.
+
+A symbolic link is a link to another name in the file system.
+
+Once a hard link has been made the link is to the inode. Deleting, renaming, or moving the original file will not affect the hard link as it links to the underlying inode. Any changes to the data on the inode is reflected in all files that refer to that inode.
+
+Note: Hard links are only valid within the same File System. Symbolic links can span file systems as they are simply the name of another file.
 
 ### find
 
@@ -696,6 +718,10 @@ run programs and summarize system resource usage
 ### time
 
 Shell command for given shell statistics
+
+- **real**: The actual time spent in running the process from start to finish, as if it was measured by a human with a stopwatch
+- **user**: The cumulative time spent by all the CPUs during the computation
+- **sys**: The cumulative time spent by all the CPUs during system-related tasks such as memory allocation.
 
 ### Compression
 

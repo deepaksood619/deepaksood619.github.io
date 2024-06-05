@@ -165,3 +165,8 @@ Give tech talk - Learning + Note taking + Zettlekasten - Obsidian / Onenote + Do
 - Code chef
 - [Learn | Coding for kids and teens | Raspberry Pi Foundation - Raspberry Pi](https://www.raspberrypi.org/learn)
 - [Teach Computer Science & Coding to Kids - CS First](https://csfirst.withgoogle.com/s/en/home)
+
+## Foundations
+
+- [Software Freedom Conservancy](https://sfconservancy.org/)
+- [Give Up GitHub - Software Freedom Conservancy](https://sfconservancy.org/GiveUpGitHub/)

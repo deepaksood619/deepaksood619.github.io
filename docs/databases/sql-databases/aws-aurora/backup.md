@@ -210,6 +210,19 @@ On the other hand, restoring from s3 is for restoring a XtraBackup created on yo
 
 - There is currently no method available to import these Parquet files back into RDS. You would have to write some code yourself to read the Parquet files and insert the data back into a running RDS instance if you needed that.
 
+## Import from S3
+
+Amazon RDS supports importing MySQL databases by using backup files. You can create a backup of your database, store it on Amazon S3, and then restore the backup file onto a new Amazon RDS DB instance running MySQL.
+
+### Limitations
+
+- You can't restore from an encrypted source database, but you can restore to an encrypted Amazon RDS DB instance.
+- You can't restore from an encrypted backup in the Amazon S3 bucket.
+- You can't import a MySQL 5.5 or 5.6 database.
+- User accounts, Functions, Stored Procedures are not imported automatically. Save your user accounts from your source database and add them to your new DB instance later.
+
+[Restoring a backup into a MySQL DB instance - Amazon Relational Database Service](https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/MySQL.Procedural.Importing.html#MySQL.Procedural.Importing.Limitations)
+
 ## Replication
 
 [Replication with Amazon Aurora MySQL - Amazon Aurora](https://docs.aws.amazon.com/AmazonRDS/latest/AuroraUserGuide/AuroraMySQL.Replication.html)
