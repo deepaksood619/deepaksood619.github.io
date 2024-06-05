@@ -10,4 +10,5 @@
 - [SEO / ASO](seo-aso)
 - [Gestalt Principles](gestalt-principles)
 - [Web Vitals](web-vitals)
+- [Performance](frontend/frontend-intro/performance.md)
 - [Others](frontend/frontend-intro/others.md)

@@ -1089,4 +1089,6 @@ A tool is only as good as the person using it.
 
 Show me the incentives, I will show you the outcome — Charlie Munger
 
+Not all battles are fought for victory. Some are fought simply to tell the world that someone was there on the battlefield -- Ravish Kumar
+
 ## End

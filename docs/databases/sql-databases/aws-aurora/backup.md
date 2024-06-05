@@ -228,6 +228,10 @@ To restore your database, you can use the [pg_dump utility](https://docs.aws.am
 
 [Importing data from any source to a MariaDB or MySQL DB instance - Amazon Relational Database Service](https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/MySQL.Procedural.Importing.AnySource.html)
 
+[Homogeneous migrations - Amazon Aurora MySQL Migration Handbook](https://docs.aws.amazon.com/whitepapers/latest/amazon-aurora-mysql-migration-handbook/homogeneous-migrations.html)
+
+[Self-managed homogeneous migrations - Amazon Aurora MySQL Migration Handbook](https://docs.aws.amazon.com/whitepapers/latest/amazon-aurora-mysql-migration-handbook/self-managed-homogeneous-migrations.html)
+
 ## Links
 
 - [Improve performance of your bulk data import to Amazon RDS for MySQL | AWS Database Blog](https://aws.amazon.com/blogs/database/improve-performance-of-your-bulk-data-import-to-amazon-rds-for-mysql/)
