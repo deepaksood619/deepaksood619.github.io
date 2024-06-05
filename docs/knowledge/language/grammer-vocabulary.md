@@ -114,6 +114,12 @@ In summary, the key difference between these two terms lies in their directness 
 
 [What is the difference between 'intimating someone' and 'informing someone'? - Quora](https://www.quora.com/What-is-the-difference-between-intimating-someone-and-informing-someone)
 
+## Sentences
+
+अत्यंत दुख के साथ सूचित करना पड़ रहा है कि प्रिय abc के abc का स्वर्गवास आज दिनांक x को x में हो गया है। ईश्वर उनकी आत्मा को शांति प्रदान करें और परिवारजनों को इस दुख को सहने की शक्ति दे। भावभीनी श्रद्धांजलि 🙏🙏
+
+OM Shanti
+
 ## Others
 
 - Literature review / Research
