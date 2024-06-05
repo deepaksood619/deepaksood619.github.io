@@ -263,6 +263,7 @@ Unchecking the "User interface sounds" doesn't disable all sound. But sliding th
 - touch id
 - Keyboard - Delay until repeat - short
 - Display text larger
+- Finder - show status bar (cmd + /)
 
 #### Setting up Shell
 

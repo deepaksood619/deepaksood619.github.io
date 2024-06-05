@@ -171,13 +171,15 @@ https://peteris.rocks/blog/htop
 
 ## glances
 
-Glancesis a cross-platform monitoring tool which aims to present a large amount of monitoring information through a curses or Web based interface. The information dynamically adapts depending on the size of the user interface.
+Glances is a cross-platform monitoring tool which aims to present a large amount of monitoring information through a curses or Web based interface. The information dynamically adapts depending on the size of the user interface.
 
+```bash
 pip install glances
 
 pip install 'glances [action, browser, cloud, cpuinfo, docker, export, folders, gpu, graph, ip, raid, snmp, web, wifi]'
 
 glances -w
+```
 
 https://github.com/nicolargo/glances
 
@@ -190,6 +192,31 @@ Interactive filters, like [fzy](https://github.com/jhawthorn/fzy), [percol](http
 For example, binding Ctrl+R to fzf shows you a list of the most recent commands, which you can navigate up and down using arrows, or you can typegitto only show commands that feature Git somewhere inside.
 
 Plus, you can make your interactive filter available inside your programmable text editor. This way, you will have unified searching capabilities between your shell and your editor.
+
+## Big Data Terminal Tools
+
+### Pipe Viewer (pv)
+
+Terminal-based tool for monitoring the progress of data through a pipeline. It can be inserted into any normal pipeline between two processes to give a visual indication of how quickly data is passing through, how long it has taken, how near to completion it is, and an estimate of how long it will be until completion.
+
+[GitHub - a-j-wood/pv: Pipe Viewer - monitor the progress of data through a pipe](https://github.com/a-j-wood/pv)
+
+[ivarch.com: Pipe Viewer](https://www.ivarch.com/programs/pv.shtml)
+
+[a-j-wood/pv: Pipe Viewer - monitor the progress of data through a pipe. - Codeberg.org](https://codeberg.org/a-j-wood/pv)
+
+### Parallel
+
+[GNU Parallel](https://savannah.gnu.org/projects/parallel/)
+
+```bash
+brew install pv
+brew install parallel
+
+pv abc.sql | parallel --pipe --block 10M grep -o "text_string" > output.txt
+
+pv abc.sql.gz | parallel --pipe --block 10M zgrep -o "text_string" > output.txt
+```
 
 ## Others
 

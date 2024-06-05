@@ -243,12 +243,94 @@ SHOW MASTER STATUS:SHOW MASTER STATUS:
 - --defaults-file - Use a specific defaults file. Default: /etc/mydumper.cnf
 - --defaults-extra-file - Use an additional defaults file. This is loaded after --defaults-file, replacing previous defined values
 
+## Verification of data on RDS against the source DB
+
+It is a very important step to make sure that data is restored correctly to target DB. We need to execute the following commands on the source and target DB servers and we should see the same results.
+
+```sql
+# Check the databases
+show databases;
+
+# Check the tables count in each database
+SELECT table_schema, COUNT(*) as tables_count FROM information_schema.tables group by table_schema;
+
+# Check the triggers count in each database
+select trigger_schema, COUNT(*) as triggers_count
+from information_schema.triggers group by trigger_schema;
+
+# Check the routines count in each database
+select routine_schema, COUNT(*) as routines_count
+from information_schema.routines group by routine_schema;
+
+# Check the events count in each database
+select event_schema, COUNT(*) as events_count
+from information_schema.events group by event_schema;
+
+```
+
+### Check the rows count of all tables from a database. Create the following procedure
+
+```sql
+DELIMITER $$
+
+CREATE PROCEDURE `COUNT_ROWS_COUNTS_BY_TABLE`(dbName varchar(128))
+BEGIN
+DECLARE done INT DEFAULT 0;
+DECLARE TNAME CHAR(255);
+
+DECLARE table_names CURSOR for
+    SELECT CONCAT("`", TABLE_SCHEMA, "`.`", table_name, "`") FROM INFORMATION_SCHEMA.TABLES where TABLE_SCHEMA = dbName;
+
+DECLARE CONTINUE HANDLER FOR NOT FOUND SET done = 1;
+
+OPEN table_names;
+
+DROP TABLE IF EXISTS TABLES_ROWS_COUNTS;
+CREATE TEMPORARY TABLE TABLES_ROWS_COUNTS
+  (
+    TABLE_NAME CHAR(255),
+    RECORD_COUNT INT
+  ) ENGINE = MEMORY;
+
+
+WHILE done = 0 DO
+
+  FETCH NEXT FROM table_names INTO TNAME;
+
+   IF done = 0 THEN
+    SET @SQL_TXT = CONCAT("INSERT INTO TABLES_ROWS_COUNTS(SELECT '" , TNAME  , "' AS TABLE_NAME, COUNT(*) AS RECORD_COUNT FROM ", TNAME, ")");
+
+    PREPARE stmt_name FROM @SQL_TXT;
+    EXECUTE stmt_name;
+    DEALLOCATE PREPARE stmt_name;
+  END IF;
+
+END WHILE;
+
+CLOSE table_names;
+
+SELECT * FROM TABLES_ROWS_COUNTS;
+
+SELECT SUM(RECORD_COUNT) AS TOTAL_DATABASE_RECORD_CT FROM TABLES_ROWS_COUNTS;
+
+END$$
+
+DELIMITER ;
+```
+
+Run the following in both DB servers and compare for each database.
+
+`call COUNT_ROWS_COUNTS_BY_TABLE('DbName1');`
+
+Make sure that all the commands are executed on both source and target DB servers and you should see same results. Once everything is good, take a snapshot before proceeding any further. Change DB parameter group to a new parameter group according to your current source configuration.
+
 ## Commands
 
 ### MyDumper
 
 ```bash
 brew install mydumper
+apt install mydumper
 
 docker pull mydumper/mydumper:latest
 
@@ -262,7 +344,7 @@ mydumper -h source-rds-endpoint -u username -p password -o /path/to/dumpdir --th
 
 mydumper -h 127.0.0.1 -P 1056 -u root -p xxx -o full --threads 4
 
-nohup time mydumper --no-locks --host=127.0.0.1 --port=1056 --clear --user=root --password=xxx --regex='^(schema_name\.table_name)$' --outputdir=table_name --logfile=table_name.log --verbose=3 --compress --compress-protocol --threads=4 --chunk-filesize=500 -G -E -R --build-empty-files &
+nohup time mydumper --no-locks --host=127.0.0.1 --port=1056 --clear --user=root --password=xxx --regex='^(schema_name\.table_name)$' --outputdir=table_name --logfile=table_name.log --verbose=3 --compress --compress-protocol --threads=4 --chunk-filesize=500 -G -E -R --build-empty-files --rows=50000 &
 ```
 
 ### MyLoader
