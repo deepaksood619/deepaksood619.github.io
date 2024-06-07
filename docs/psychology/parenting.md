@@ -181,3 +181,4 @@ Why kicking out children after 18 years is important, let's say you are very wea
 - [11 month old, first week | BabyCentre](https://www.babycentre.co.uk/s1001682/11-month-old-first-week)
 - [What to Do if Your Baby Is Waking Up in the Middle of the Night](https://www.whattoexpect.com/first-year/ask-heidi/month-9/sudden-night-wakings.aspx)
 - [12-Month-Old Baby: Milestones and Development](https://www.whattoexpect.com/toddler/12-month-old/)
+- Food Strike - [Why Toddlers Refuse to Eat and What to Do](https://www.whattoexpect.com/toddler/behavior/food-strikes.aspx)

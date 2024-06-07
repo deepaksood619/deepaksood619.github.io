@@ -237,7 +237,7 @@ SHOW MASTER STATUS:SHOW MASTER STATUS:
 - --disk-limits - Set the limit to pause and resume if determines there is no enough disk space. Accepts values like: `'<resume>:<pause>'` in MB. For instance: 100:500 will pause when there is only 100MB free and will resume if 500MB are available
 - -t, --threads - Number of threads to use, default 4
 - -V, --version - Show the program version and exit
-- --identifier-quote-character - This set the identifier quote character that is used to INSERT statements only on mydumper and to split statement on myloader. Use SQL_MODE to change the CREATE TABLE statements Posible values are: BACKTICK and DOUBLE_QUOTE. Default: BACKTICK
+- --identifier-quote-character - This set the identifier quote character that is used to INSERT statements only on mydumper and to split statement on myloader. Use SQL_MODE to change the CREATE TABLE statements Possible values are: BACKTICK and DOUBLE_QUOTE. Default: BACKTICK
 - -v, --verbose - Verbosity of output, 0 = silent, 1 = errors, 2 = warnings, 3 = info, default 2
 - --debug - Turn on debugging output (automatically sets verbosity to 3)
 - --defaults-file - Use a specific defaults file. Default: /etc/mydumper.cnf

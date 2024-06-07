@@ -6,6 +6,8 @@ Financial times
 
 Wall street journal
 
+Product driven business vs Business driven business
+
 ## Business case studies / Market Research
 
 Consumer psychology, Behavioral economics, Human centered design

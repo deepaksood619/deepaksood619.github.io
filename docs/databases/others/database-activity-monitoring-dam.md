@@ -1,4 +1,4 @@
-# Database Activity Monitoring (DAM)
+# Database Activity/Active Monitoring (DAM)
 
 **Database activity monitoring (DAM)** refers to a suite of tools that can be used to support the ability to identify and report on fraudulent, illegal or other undesirable behavior, with minimal impact on user operations and productivity. The tools, which have evolved from basic analysis of user activity in and around relational database management systems (RDBMSs) to encompass a more comprehensive set of capabilities, such as discovery and classification, vulnerability management, application-level analysis, intrusion prevention, support for unstructured data security, identity and access management integration, and risk management support.
 
@@ -26,6 +26,11 @@ DAM stands for Database Activity Monitoring, referring to any solution that is u
 
 [Database Activity Monitoring (DAM) - Satori](https://satoricyber.com/glossary/dam-database-activity-monitoring/)
 
+Aurora - [Amazon Aurora Enables Database Activity Monitoring with CloudWatch Logs](https://aws.amazon.com/about-aws/whats-new/2017/09/amazon-aurora-enables-database-activity-monitoring-with-cloudwatch-logs/)
+
+- [Monitoring MySQL-compatible edition of Amazon Aurora Audit Events with Amazon CloudWatch | AWS Database Blog](https://aws.amazon.com/blogs/database/monitoring-amazon-aurora-audit-events-with-amazon-cloudwatch/)
+- [how can i enable Database active monitoring (DAM) on RDS postgresql | AWS re:Post](https://repost.aws/questions/QUgtKfclpwSumFcvCv9aZ8Hg/how-can-i-enable-database-active-monitoring-dam-on-rds-postgresql)
+
 ## Database Monitoring
 
 ### Percona Monitoring and Management (PMM)
@@ -41,6 +46,8 @@ It allows you to observe the health of your database systems, explore new patter
 [Monitoring Databases: A Product Comparison](https://www.percona.com/blog/monitoring-databases-a-product-comparison/)
 
 [Percona Monitoring and Management](https://docs.percona.com/percona-monitoring-and-management/)
+
+[Does PMM has DAM Capability? - Percona Community Forum](https://forums.percona.com/t/does-pmm-has-dam-capability/15695)
 
 ### MONyog (SQL Diagnostic Manager for MySQL)
 
