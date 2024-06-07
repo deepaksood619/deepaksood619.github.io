@@ -244,6 +244,9 @@ CREATE TABLE raw_log_2011_4 (
     PARTITION p20110429 VALUES LESS THAN (TO_DAYS('2011-04-30')),
     PARTITION future VALUES LESS THAN MAXVALUE
   );
+
+-- Remove partition
+ALTER TABLE tbl_name REMOVE PARTITIONING;
 ```
 
 `PARTITION BY RANGE(TO_DAYS(date))` and have daily partitions. Every night `DROP PARTITION` for the week-old partition and `REORGANIZE` the normally empty "future" partition into tomorrow and a new "future".

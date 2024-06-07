@@ -1,0 +1,16 @@
+# Partitioning
+
+- [26 Partitioning](https://dev.mysql.com/doc/refman/8.4/en/partitioning.html)
+- [26.1 Overview of Partitioning in MySQL](https://dev.mysql.com/doc/refman/8.4/en/partitioning-overview.html)
+- [26.2 Partitioning Types](https://dev.mysql.com/doc/refman/8.4/en/partitioning-types.html)
+	- [26.2.1 RANGE Partitioning](https://dev.mysql.com/doc/refman/8.4/en/partitioning-range.html)
+	- [26.2.2 LIST Partitioning](https://dev.mysql.com/doc/refman/8.4/en/partitioning-list.html)
+	- [26.2.3 COLUMNS Partitioning](https://dev.mysql.com/doc/refman/8.4/en/partitioning-columns.html)
+	- [26.2.4 HASH Partitioning](https://dev.mysql.com/doc/refman/8.4/en/partitioning-hash.html)
+	- [26.2.5 KEY Partitioning](https://dev.mysql.com/doc/refman/8.4/en/partitioning-key.html)
+	- [26.2.6 Subpartitioning](https://dev.mysql.com/doc/refman/8.4/en/partitioning-subpartitions.html)
+	- [26.2.7 How MySQL Partitioning Handles NULL](https://dev.mysql.com/doc/refman/8.4/en/partitioning-handling-nulls.html)
+- [26.3 Partition Management](https://dev.mysql.com/doc/refman/8.4/en/partitioning-management.html)
+- [26.4 Partition Pruning](https://dev.mysql.com/doc/refman/8.4/en/partitioning-pruning.html)
+- [26.5 Partition Selection](https://dev.mysql.com/doc/refman/8.4/en/partitioning-selection.html)
+- [26.6 Restrictions and Limitations on Partitioning](https://dev.mysql.com/doc/refman/8.4/en/partitioning-limitations.html)

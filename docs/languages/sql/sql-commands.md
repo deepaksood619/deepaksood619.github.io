@@ -19,6 +19,8 @@
 ```sql
 SHOW CREATE TABLE tbl_name
 
+SHOW FIELDS FROM tbl_name;
+
 SHOW CHARACTER SET;
 
 SHOW GLOBAL VARIABLES where Variable_Name='innodb_buffer_pool_size';

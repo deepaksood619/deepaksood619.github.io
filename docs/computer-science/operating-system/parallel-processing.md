@@ -19,3 +19,7 @@ MPP with shared-nothing architecture is depicted in the following image.
 Message Passing Interface(MPI) is a standardized and portable [message-passing](https://en.wikipedia.org/wiki/Message-passing) standard designed by a group of researchers from academia and industry to function on a wide variety of [parallel computing](https://en.wikipedia.org/wiki/Parallel_computing) architectures. The standard defines the syntax and semantics of a core of library routines useful to a wide range of users writing portable message-passing programs in [C](https://en.wikipedia.org/wiki/C_(programming_language)), [C++](https://en.wikipedia.org/wiki/C%2B%2B), and [Fortran](https://en.wikipedia.org/wiki/Fortran). There are several well-tested and efficient implementations of MPI, many of which are open-source or in the public domain. These fostered the development of a parallel software industry, and encouraged development of portable and scalable large-scale parallel applications.
 
 https://en.wikipedia.org/wiki/Message_Passing_Interface
+
+## Concurrency vs Parallelism
+
+![Concurrency vs Parallelism](../../media/Pasted%20image%2020240607132644.png)
