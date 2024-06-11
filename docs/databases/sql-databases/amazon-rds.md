@@ -2,10 +2,6 @@
 
 Managed Relational Database Service for MySQL, PostgreSQL, Oracle, SQL Server, and MariaDB
 
-### Storage
-
-[Amazon RDS DB instance storage - Amazon Relational Database Service](https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/CHAP_Storage.html)
-
 ### Amazon RDS Proxy
 
 Amazon RDS Proxy is a fully managed, highly available database proxy for [Amazon Relational Database Service (RDS)](https://aws.amazon.com/rds/) that makes applications more scalable, more resilient to database failures, and more secure.
@@ -28,12 +24,16 @@ Many applications, including those built on modern [serverless architectures](ht
 
 ## Storage
 
+Via Snapshot - You can’t reduce the allocated storage from what you originally configured for your source database snapshot.
+
 After you create an Amazon RDS DB instance, you can't modify the allocated storage size of the DB instance to decrease the total storage space it uses. To decrease the storage size of your DB instance, create a new DB instance that has less provisioned storage size. Then, migrate your data into the new DB instance using one of the following methods:
 
 - Use the database engine's native dump and restore method. This method causes some downtime.
 - Use AWS Database Migration Service (AWS DMS) for minimal downtime.
 
 [Decrease the storage size of an Amazon RDS DB Instance | AWS re:Post](https://repost.aws/knowledge-center/rds-db-storage-size)
+
+[Amazon RDS DB instance storage - Amazon Relational Database Service](https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/CHAP_Storage.html)
 
 ### Managing capacity automatically with Amazon RDS storage autoscaling
 

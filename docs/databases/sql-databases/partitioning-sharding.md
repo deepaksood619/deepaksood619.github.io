@@ -146,6 +146,10 @@ The main appeal of directory based sharding is its flexibility. Range based shar
 
 While directory based sharding is the most flexible of the sharding methods discussed here, the need to connect to the lookup table before every query or write can have a detrimental impact on an application's performance. Furthermore, the lookup table can become a single point of failure: if it becomes corrupted or otherwise fails, it can impact one's ability to write new data or access their existing data.
 
+### Geo-Sharding
+
+Data partitioned based on geographical region. Each shard stores data which is related to user's specific geographic area.
+
 ### Others
 
 - Initial Implementation in Cassandra -- Linear Hash Sharding

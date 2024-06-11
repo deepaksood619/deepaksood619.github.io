@@ -162,8 +162,8 @@ If the query optimizer chooses the index with a low cardinality, it may be more 
 
 Do not reverse the order of the columns. You should always index lower cardinality columns first.
 
-- statehas 22
-- sourcehas 1122
+- state has 22
+- source has 1122
 
 That being the case, you need to run the following
 

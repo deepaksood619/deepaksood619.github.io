@@ -104,6 +104,10 @@ https://marcellus.in/blogs/three-distinct-layers-of-polarization-in-the-indian-s
 
 https://www.moneycontrol.com/india-investors-portfolio
 
+## Robo Advisor / ETMoney Genius
+
+[ET Genius - A marketing gimmic or actually Genius? : r/IndiaInvestments](https://www.reddit.com/r/IndiaInvestments/comments/sf9erc/comment/ity5lt4/?context=3)
+
 ## Links
 
 - [Contrarian Investing | Is Contrarian Investing Profitable? | ET Money](https://youtu.be/vnQRuNuJckE)

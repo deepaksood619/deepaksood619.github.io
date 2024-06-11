@@ -427,6 +427,21 @@ In this system, the tax is levied on the per unit price of the built-up area of 
 
 [Let's talk about inheritance tax](https://finshots.in/archive/lets-talk-about-inheritance-tax/)
 
+## Penalty / Notices / Fines
+
+As per the amendment in the Finance Act 2021, with effect from 1st April 2021, the time limit up to which the assessing officer can re-open the assessment of the taxpayer is as follows;
+
+- Up to three years from the end of the relevant assessment year in normal cases and
+- Beyond three years but not more than ten years from the end of the relevant assessment year, if the assessing officer has material evidence that income of Rs.50 lakh or more for a financial year has escaped assessment.
+
+[Income Tax Notice - How To Check And Authenticate?](https://cleartax.in/s/income-tax-notice)
+
+[Tax dept won’t be able to re-open ITR after 3 yrs from filing](https://economictimes.indiatimes.com/wealth/personal-finance-news/tax-dept-wont-be-able-to-re-open-itr-after-3-yrs-from-filing/articleshow/80627970.cms?from=mdr)
+
+[Summary of Penalties Under the Income Tax Act](https://cleartax.in/s/income-tax-act-penalties)
+
+[Penalty Under Income Tax Act](https://cleartax.in/s/penalty-income-tax-act)
+
 ## Links
 
 [How To (LEGALLY) Never Pay Taxes - Do This Today - YouTube](https://www.youtube.com/watch?v=248o4zc9RmI)

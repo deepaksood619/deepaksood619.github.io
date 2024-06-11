@@ -39,6 +39,10 @@ SOW- Statement of Work.
 
 The doctrine of casus omissus outlines the circumstances where a court can supply a clearly unintended omission by the legislature in drafting a particular provision
 
+### Doli Incapax
+
+Section 82 of the IPC, also known as doli incapax, states that "Nothing is an offence which is done by a child under 7 years of age," **providing absolute immunity from criminal prosecution** for children below 7 years old. The reason for this exemption is that children **below the age of 7 cannot understand the difference between right and wrong**. The law aims to protect them by granting complete immunity from criminal prosecution, trial, and conviction.
+
 ### Other Doctrines
 
 [Audi alteram partem - Wikipedia](https://en.wikipedia.org/wiki/Audi_alteram_partem)

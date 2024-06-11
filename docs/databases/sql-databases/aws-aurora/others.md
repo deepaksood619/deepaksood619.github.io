@@ -50,9 +50,3 @@ By using RDS Data API (Data API), you can work with a web-services interface to 
 [Using RDS Data API - Amazon Aurora](https://docs.aws.amazon.com/AmazonRDS/latest/AuroraUserGuide/data-api.html)
 
 [Introducing the Data API for Amazon Aurora Serverless v2 and Amazon Aurora provisioned clusters | AWS Database Blog](https://aws.amazon.com/blogs/database/introducing-the-data-api-for-amazon-aurora-serverless-v2-and-amazon-aurora-provisioned-clusters/)
-
-## Reserved Instances
-
-With Aurora MySQL they have [size flexibility](https://aws.amazon.com/about-aws/whats-new/2017/10/amazon-rds-reserved-instances-offer-instance-size-flexibility/) -- so they can purchase a T3.Large, and run 4 T3.Smalls to get the discount (or whatever the size factor is). However, they must commit to the T3 family. They will not be able to get the discount by running a T2 RDS instance. That T2 will be billed on-demand rates.
-
-[Reserved Instances for RDS Aurora | AWS re:Post](https://repost.aws/questions/QU2oqoI7B8R8KR21qsCIGP6Q/reserved-instances-for-rds-aurora)

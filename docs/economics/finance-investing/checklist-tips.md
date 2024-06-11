@@ -172,6 +172,8 @@ When you identify a trading opportunity, always look how the trade is positioned
 
 ## Tools
 
+[India and global trading economic calendar - Zerodha markets](https://zerodha.com/markets/calendar/)
+
 - Annual report of the company
 - Industry related data
 - Access to news

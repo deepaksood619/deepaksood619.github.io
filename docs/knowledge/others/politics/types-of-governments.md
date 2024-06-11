@@ -20,6 +20,8 @@ A wicked citizen cannot do evil in a republic that is not corrupted
 
 Dictatorship are never as strong and people are never as weak as they think they are -- Gene Sharp
 
+Educate, agitate, organize -- Dr. B.r. Ambedkar
+
 [Democracy Lab | TED-Ed](https://ed.ted.com/democracy-lab)
 
 #### Links

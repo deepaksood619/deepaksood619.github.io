@@ -33,6 +33,25 @@ Arbitrage funds work by exploiting the price differential between assets that sh
 
 https://www.investopedia.com/articles/investing/100515/what-exactly-are-arbitrage-mutual-funds.asp
 
+## Infrastructure Fund
+
+- QUANT Infrastructure Fund / HDFC Infrastructure Fund
+   	- [QUANT Infrastructure Fund Direct Plan Review in 2024 | Best Infrastructure Mutual Fund in 2024 - YouTube](https://www.youtube.com/watch?v=5ViBAAHQZCk&ab_channel=CoffeeThinkers)
+   	- [Quant Infrastructure Fund vs HDFC Infrastructure Fund: Unveiling the Ultimate Investment Face-off! - YouTube](https://www.youtube.com/watch?v=jMYvwnpkQYE&ab_channel=InvestwithSKSingh)
+
 ## CAT Bonds (Catastrophe Bonds)
 
 [The rise of CAT bonds](https://finshots.in/archive/the-rise-of-cat-bonds/)
+
+## Links
+
+[8 Mutual Funds You Should Never Buy | यह Mutual Funds कभी मत ख़रीदना - YouTube](https://www.youtube.com/watch?v=0NmSpOcdsj0&ab_channel=pranjalkamra)
+
+1. Balanced Hybrid Fund (more money earned by broker)
+2. Fund of Funds (Investment in a basket of Mutual Funds)
+3. New fund offerings (No previous track record / history)
+4. Regular Funds (Invest in Direct funds)
+5. Large Cap ACTIVE Funds (Invest in large cap index fund)
+6. Mid Cap Funds (Invest in Large + Midcap funds)
+7. Sectoral and Thematic Funds (Risky)
+8. Debt Funds

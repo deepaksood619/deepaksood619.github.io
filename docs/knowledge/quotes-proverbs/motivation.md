@@ -8,6 +8,8 @@
 
 Better try then cry
 
+Shut up, suit up, show up
+
 https://dariusforoux.com/inspirational-quotes
 
 https://www.scotthyoung.com/blog/2020/11/02/motivation
