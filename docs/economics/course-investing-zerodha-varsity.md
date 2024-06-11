@@ -22,6 +22,8 @@ The module covers the risk management aspect along with the psychology required 
 
 This module helps you set up an efficient trading system using a systematic approach. Learn about 2 different types of pair trading systems, calendar spreads, and momentum portfolio strategies.
 
+[TradingView Charts Tools in Zerodha | ज़ेरोधा में फ्री चार्ट देखें | Options For Tomorrow Courses - YouTube](https://www.youtube.com/watch?v=G7IjCzpt7Xc)
+
 ## Personal Finance
 
 Personal finance is an essential aspect of your life because it can help you meet your short term and long term financial goals. This module encompasses the various aspects of personal finance such as investment, insurance, retirement planning, goal-oriented investments, budgeting, etc.that may help you construct an ideal personal finance plan.

@@ -169,6 +169,8 @@ https://neilpatel.com/training/growth-hacking-unlocked/raise-money
 
 ## ESOPS, Restricted Stock, Stock Options, and Phantom Stock
 
+[The Truth About My ₹1 CRORE SALARY Package - YouTube](https://www.youtube.com/watch?v=LxkaVul-z_4&ab_channel=AevyTV)
+
 Restricted stock gives the employees the right to receive shares as a gift ora purchased item after meeting particular restrictions, such as working for a specific period or hitting specific performance targets.Stock options provide employees with the opportunity to buy shares at a fixed price for a set period, while phantom stock provides [cash bonuses](https://www.investopedia.com/terms/c/cash-bonus.asp)for good employee performance.
 
 These bonuses equate to the value of a particular number of shares.Stock appreciation rights give employees the right to raise the value of an assigned number of shares. Companies usually pay these shares in cash.

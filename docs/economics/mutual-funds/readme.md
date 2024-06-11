@@ -6,6 +6,7 @@
 - [Fixed Income](economics/mutual-funds/fixed-income.md)
 - [Debentures / Bonds](economics/mutual-funds/debentures-bonds.md)
 - [Index Investing](economics/mutual-funds/index-investing.md)
+- [Nifty Indexes](economics/mutual-funds/nifty-indexes.md)
 - [Equity Mutual Funds](economics/mutual-funds/equity-mutual-funds.md)
 - [Others](economics/mutual-funds/others.md)
 
@@ -37,9 +38,11 @@ A show cause notice **signals an intention by an employer to take disciplinary 
 
 ### AMCs
 
-- Quant - [5 Secrets of Quant Mutual Fund which consistently ranks it in India’s Best Mutual Fund schemes - YouTube](https://www.youtube.com/watch?v=WqFMhqRhVbw&ab_channel=ShankarNath)
+- Quant
+   	- [5 Secrets of Quant Mutual Fund which consistently ranks it in India’s Best Mutual Fund schemes - YouTube](https://www.youtube.com/watch?v=WqFMhqRhVbw&ab_channel=ShankarNath)
 - Motilal Oswal
 - Edelweiss
+- Parag Parikh
 
 ## TREPS
 

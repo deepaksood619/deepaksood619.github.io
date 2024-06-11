@@ -28,7 +28,7 @@ There are two types of Aurora MySQL parameter groups: DB parameter groups and DB
 - innodb_log_buffer_size
 - long_query_time
 - server_audit_events
-- server_audit_excl_users
+- server_audit_excl_users - Wildcard - %test%
 - server_audit_incl_users
 
 ## Recommendations and impact
@@ -142,6 +142,24 @@ Impact:No impact on Aurora's performance.
 Recommended setting: Leave as the default value (8,388,608 bytes). It's not applicable for Aurora because it has no effect on InnoDB.
 
 Impact:No impact on Aurora's performance.
+
+### innodb_flush_method
+
+In MySQL InnoDB, background tasks like flushing dirty pages from the buffer pool to disk are crucial for maintaining database performance and integrity. Understanding and configuring the innodb_flush_method system variable can significantly impact your database’s efficiency, especially under heavy write loads. Here’s a breakdown of the different flush methods and recommendations for tuning them according to your needs.
+
+1) fsync (Default): Operation: Flushes data, metadata, and log files. Consideration: Can lead to double buffering.
+
+2) O_DSYNC: Operation: Flushes only data files, still causes double buffering.
+
+3) O_DIRECT: Operation: Flushes only data files, uses fsync without double buffering. Benefit: Direct read/write operations go directly to disk, bypassing OS cache.
+
+4) O_DIRECT_NO_FSYNC: Operation: Similar to O_DIRECT but skips fsync. Caution: Not recommended for XFS file systems due to potential integrity issues.
+
+#### Recommendations
+
+Heavy Write Workloads: Opt for O_DIRECT_NO_FSYNC to minimize the overhead caused by double buffering and fsync operations.
+
+General Use: Either O_DIRECT or O_DIRECT_NO_FSYNC can be effective. Evaluate based on your specific workload and file system compatibility (avoid O_DIRECT_NO_FSYNC on XFS).
 
 ### Query Cache
 

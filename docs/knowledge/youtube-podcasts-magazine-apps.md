@@ -123,7 +123,6 @@
 - Computerphile
 - Toastmasters
 - Be Smart
-- Minutefood
 - Quanta magazine
 - Periodic Videos
 - New Mind
@@ -142,6 +141,11 @@
 - [ZOE - YouTube](https://www.youtube.com/@joinZOE)
 - [The Engineering Mindset - YouTube](https://www.youtube.com/@EngineeringMindset)
 - Cleo Abram
+
+### Food
+
+- [Foodpharmer - YouTube](https://www.youtube.com/@Foodpharmer)
+- Minutefood
 
 ### News
 
@@ -264,6 +268,7 @@
 - The School of life
 - [Medlife Crisis - YouTube](https://youtube.com/@MedlifeCrisis?si=vmOmOUXV_TZoBNyW)
 - [Architectural Digest - YouTube](https://www.youtube.com/@Archdigest)
+- [SaudaGhar - YouTube](https://www.youtube.com/@SaudaGhar)
 - TLC
 - BetterThanYesterday
 - Charisma on Command

@@ -59,6 +59,7 @@
 27. [AWS Certified Developer - Associate (Jan 2024)](courses/aws-certified-developer-associate.md)
 28. [AWS Certified Data Engineer - Associate (Feb 2024)](courses/aws-certified-data-engineer-associate.md)
 	1. [AWS Certified Data Engineer - Associate Questions](courses/aws-certified-data-engineer-associate-questions.md)
+29. [Udemy - Becoming a Production MySQL DBA](courses/udemy-becoming-a-production-mysql-dba.md) (June 2024)
 
 ## Certifications
 

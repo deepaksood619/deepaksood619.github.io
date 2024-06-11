@@ -4,53 +4,54 @@
 
 1. notion.so
 2. https://www.appflowy.io - AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust.
-3. https://github.com/AppFlowy-IO/appflowy
-4. https://www.focalboard.com - Alternative to Asana / Trello / Notion
-5. Free Open Source / Self hosted - https://www.taiga.io
-6. Atlassian JIRA
-7. Asana
-8. Orangescrum - https://github.com/Orangescrum/orangescrum
-9. https://kitemaker.co
-10. AirTable
+	1. https://github.com/AppFlowy-IO/appflowy
+3. https://www.focalboard.com - Alternative to Asana / Trello / Notion
+4. Atlassian JIRA
+	1. Free Open Source / Self hosted - https://www.taiga.io
+5. Asana
+6. Clickup
+7. Orangescrum - https://github.com/Orangescrum/orangescrum
+8. https://kitemaker.co
+9. AirTable
 	1. https://www.nocodb.com (Airtable Alternative) - [GitHub - nocodb/nocodb: 🔥 🔥 🔥 Open Source Airtable Alternative](https://github.com/nocodb/nocodb)
 	2. [Equals | Dashboards and reports](https://equals.com/report/)
 	3. [The enterprise work management platform](https://www.smartsheet.com/)
-11. Trello - https://blog.trello.com/trello-team-playbooks
-12. BaseCamp / workday
-13. firmbee
-14. Calendar
-15. Slack
+10. Trello - https://blog.trello.com/trello-team-playbooks
+11. BaseCamp / workday
+12. firmbee
+13. Calendar
+14. Slack
     - Brief - https://www.gobrief.com
     - https://www.quora.com/What-Slack-to-do-list-app-do-you-recommend
     - https://about.gitlab.com/handbook/communication/chat
-16. Gmail
+15. Gmail
       1. Mailman (batches incoming email and keeps brain from getting distracted by the endless trickle of new email)
       2. Zoho
       3. https://360.yandex.ru/business
-17. Gitlab issues
-18. https://fireflies.ai - AI assistant for your meetings
+16. Gitlab issues
+17. https://fireflies.ai - AI assistant for your meetings
 	1. [Automated Meeting Reports, Transcripts, Notes, Video, Coaching, Scheduling | Read](https://www.read.ai/)
-19. Calendly
-20. https://topmate.io
-21. [The scheduling tool that speaks your language - YouCanBookMe](https://youcanbook.me/)
-22. https://github.com/opf/openproject
-23. https://freedcamp.com
-24. Google sheets - https://www.goskills.com/Project-Management/Resources/Project-management-template-Google-Sheets
-25. Google Forms
-26. [Free Online Form Builder & Form Creator | Jotform](https://www.jotform.com)
-27. [Typeform: People-Friendly Forms and Surveys](https://www.typeform.com/)
-28. [SurveyMonkey: The World’s Most Popular Free Online Survey Tool](https://www.surveymonkey.com/)
-29. [Free Online Form Builder | Tally](https://tally.so/)
-30. Screenbrush
-31. https://www.productboard.com
-32. Product - https://appsumo.com
-33. jenni.ai - AI content writing
-34. https://www.cymath.com - Solve maths question
-35. https://attentioninsight.com
-36. [Mind Map & Brainstorm Ideas - MindNode](https://www.mindnode.com/)
+18. Calendly
+19. https://topmate.io
+20. [The scheduling tool that speaks your language - YouCanBookMe](https://youcanbook.me/)
+21. https://github.com/opf/openproject
+22. https://freedcamp.com
+23. Google sheets - https://www.goskills.com/Project-Management/Resources/Project-management-template-Google-Sheets
+24. Google Forms
+25. [Free Online Form Builder & Form Creator | Jotform](https://www.jotform.com)
+26. [Typeform: People-Friendly Forms and Surveys](https://www.typeform.com/)
+27. [SurveyMonkey: The World’s Most Popular Free Online Survey Tool](https://www.surveymonkey.com/)
+28. [Free Online Form Builder | Tally](https://tally.so/)
+29. Screenbrush
+30. https://www.productboard.com
+31. Product - https://appsumo.com
+32. jenni.ai - AI content writing
+33. https://www.cymath.com - Solve maths question
+34. https://attentioninsight.com
+35. [Mind Map & Brainstorm Ideas - MindNode](https://www.mindnode.com/)
 	1. [Miro | The Visual Workspace for Innovation](https://miro.com/)
-37. [Canva: Visual Suite for Everyone](https://www.canva.com)
-38. [FuseBase (Formerly Nimbus): Online Collaboration Tool for Business - Team Collaboration Software](https://nimbusweb.me/)
+36. [Canva: Visual Suite for Everyone](https://www.canva.com)
+37. [FuseBase (Formerly Nimbus): Online Collaboration Tool for Business - Team Collaboration Software](https://nimbusweb.me/)
 
 The tools of a successful product manager
 

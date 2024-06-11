@@ -12,3 +12,7 @@ WebAssembly is a new type of code that can be run in modern web browsers - it is
 - Next level video games, tools in the browser
 
 [What Can't WebAssembly Do - YouTube](https://www.youtube.com/watch?v=LZSZ6iunoJQ)
+
+## Links
+
+- [Pyodide — Version 0.26.1](https://pyodide.org/en/stable/)

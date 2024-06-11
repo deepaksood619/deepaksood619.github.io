@@ -366,3 +366,11 @@ On some days, one hour of work is equivalent to the job of an entire day.
 On other days, a whole day of work doesn't even worth one hour.
 
 You can either code fast or produce fast code. You cannot do both. -- Hussein Nasser
+
+1. **Engineer:** "This is shit."
+2. **Senior Engineer:** "This is manure."
+3. **Manager:** "Manure helps things grow."
+4. **Senior Manager:** "This is a valuable fertilizer."
+5. **Director:** "This fertilizer will enhance our productivity."
+6. **Vice President:** "This is the key to our success."
+7. **CEO:** "This is good."
