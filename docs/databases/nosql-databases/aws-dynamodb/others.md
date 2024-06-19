@@ -35,3 +35,9 @@ There are two pricing options available for Amazon DynamoDB: [on-demand capacit
 [DynamoDB Pricing Provisioned vs On-Demand | AWS re:Post](https://repost.aws/questions/QUMXAJq5zxQY20qZ-VPpO5qg/dynamodb-pricing-provisioned-vs-on-demand)
 
 [AWS Pricing Calculator](https://calculator.aws/#/estimate?id=2c649034c004a68876f4855ebd700380ec14faa6)
+
+#### Reversed Capacity
+
+Amazon DynamoDB reserved capacity gives you the option to reserve database capacity for a one- or three-year term and in turn receive a significant discount compared to provisioned capacity pricing.
+
+[Amazon DynamoDB Reserved Capacity](https://aws.amazon.com/dynamodb/reserved-capacity/)

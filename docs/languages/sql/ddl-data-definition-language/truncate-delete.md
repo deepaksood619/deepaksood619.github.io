@@ -82,7 +82,6 @@ Isolation level - REPEATABLE-READ
 | 42,000,000   | 4096       | 391,919,930     | 70,000,000 |
 | 6,352,106    | 676.205    | 401,919,930     | 10,000,000 |
 | 2,284,370    | 71.758     | Total - 2568547 |            |
-|              |            |                 |            |
 
 ## Huge Deletes
 
@@ -94,6 +93,10 @@ Isolation level - REPEATABLE-READ
 [MySQL Big DELETEs](https://mysql.rjweb.org/doc.php/deletebig)
 
 [query optimization - Deleting millions of rows in MySQL - Stack Overflow](https://stackoverflow.com/questions/1318972/deleting-millions-of-rows-in-mysql)
+
+[MySQL RDS: Drop formerly huge table without freezing DB? - Database Administrators Stack Exchange](https://dba.stackexchange.com/questions/312404/mysql-rds-drop-formerly-huge-table-without-freezing-db)
+
+[How to delete 100 million rows in a MySQL table within 30 minutes? | by Sajeban Antonyrex | Sysco LABS Sri Lanka | Medium](https://medium.com/sysco-labs/how-to-delete-100-million-rows-in-a-mysql-table-within-30-minutes-ba39065e5928)
 
 ### Batch Deletion
 
@@ -137,6 +140,8 @@ END;
 ```bash
 pt-archiver --source h=your_host,D=your_db,t=your_table --where "condition" --purge --limit 1000 --commit-each
 ```
+
+[pt-archiver — Percona Toolkit Documentation](https://docs.percona.com/percona-toolkit/pt-archiver.html)
 
 ### Creating a New Table
 
@@ -217,3 +222,35 @@ DO
   WHERE condition
   LIMIT 10000;
 ```
+
+## Others
+
+### Does size of server matters
+
+The beefiness of the server is not likely to matter.
+
+A big delete needs to
+
+- Locate the rows to delete
+- Lock the rows -- to keep others from making a mess
+- Save a copy of each row that is being deleted (in case of crash/rollback)
+- Update indexes (some of this is delayed until after the `DELETE` completes)
+- Clean up the deleted rows (at `COMMIT` time)
+
+Performance issues:
+
+- MySQL does most of this in a single CPU -- so, more cores won't help
+- CPU speed is not the gating factor -- anyway, today's CPUs are only slightly faster than decade-old cpus.
+- Disk speed matters -- but most machines use SSDs today
+- Cloud services "provision" IOPs. This _can_ matter. (But let's try to diminish the number of IOPs _needed_.)
+- Disk size does not matter -- well, it does matter if you fill up disk with the old copies of the rows.
+
+That is, a more powerful server won't help much.
+
+What _can_ help is to answer these questions:
+
+- If most of the rows are to be deleted, there is a much faster way
+- If the rows being deleted are "old" rows, plan ahead with `PARTITIONing`. (This is viable _only_ if you can replace `DELETE` with `DROP PARTITION`.)
+- If the above fail, are you deleting in batches? (A batch of about 1000 rows is nearly optimal. It will be several times as fast as one-at-a-time. And going above 1000 won't buy much, if any, performance.)
+
+[mysql - Can a powerful machine improve performance of DELETE? - Stack Overflow](https://stackoverflow.com/questions/65119586/can-a-powerful-machine-improve-performance-of-delete)

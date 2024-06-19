@@ -14,6 +14,11 @@
 - Broad money: $90 trillion (all the money circulating in the economy including physical money)
 - Crypto market cap: $852.45 billion
 
+### Growth
+
+- USA: $25T. India: $3.5T. India grows at 7% while USA grows at 2%. At these growth rates, ~ India adds $250B every year (7% x $3.5T) ~USA adds $500B every year (2% x $25T). USA adds 2x of India. India is doing incredibly well.
+- USA adds 2x of India in GDP despite lower growth rates. The media says India is the fastest growing economy, which is true. Mathematics and data reveal the reality that even with fast growth, it will take a long time for India to catch up with USA and China. While our progress is impressive, surpassing these economic giants is a distant goal.
+
 ## Gold
 
 - Market cap: $11.7 trillion

@@ -74,6 +74,8 @@ Thanos stores time series data in an object store like AWS S3, Google Cloud Stor
 
 ![image](../../../media/DevOps-Monitoring-Prometheus-Architecture-image2.jpg)
 
+[Thanos - Highly available Prometheus setup with long term storage capabilities](https://thanos.io/)
+
 ### M3
 
 M3 is an open source, large-scale metrics platform developed by Uber. It has its own time series database, M3DB. Like Thanos, M3 also uses a side-car container to push the metrics to the DB. In addition, it supports metric deduplication and merging, and provides distributed query support.

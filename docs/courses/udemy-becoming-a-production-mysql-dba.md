@@ -92,7 +92,6 @@
 - Section Recap - What Bob has learned...
 - Quiz on Basic MySQL Server Administration
 
-
 ### MySQL Storage Engines
 
 - Storage Engines

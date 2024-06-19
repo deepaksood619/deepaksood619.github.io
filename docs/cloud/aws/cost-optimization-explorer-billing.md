@@ -105,6 +105,8 @@ Ideally, both should be 100%, but I would say that it's more important to keep t
 
 [Using your coverage report - Savings Plans](https://docs.aws.amazon.com/savingsplans/latest/userguide/ce-sp-usingCR.html)
 
+[Compute Savings Plans – Amazon Web Services](https://aws.amazon.com/savingsplans/compute-pricing/)
+
 ## Reserved Instances
 
 With Aurora MySQL they have [size flexibility](https://aws.amazon.com/about-aws/whats-new/2017/10/amazon-rds-reserved-instances-offer-instance-size-flexibility/) -- so they can purchase a T3.Large, and run 4 T3.Smalls to get the discount (or whatever the size factor is). However, they must commit to the T3 family. They will not be able to get the discount by running a T2 RDS instance. That T2 will be billed on-demand rates.

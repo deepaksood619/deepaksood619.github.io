@@ -370,7 +370,7 @@ An offshore account is one that is opened by a citizen outside her home country.
 
 [Offshore Bank Account: Everything You Need to Know](https://www.winvesta.in/blog/offshore-bank-account/)
 
-## Taxes on house
+## Taxes on house (Section 54F)
 
 - In respect of capital gains arising on sale any asset other than a residential house, an individual or an HUF can claim exemption from long term capital gains if the net sale consideration in respect of such asset is invested for acquiring a residential house within a period of two years after sale of such asset.
 - Under Section 54F you should not own more than one residential house property on the date of sale of the asset except the one in respect of which you are claiming the exemption
@@ -385,7 +385,17 @@ An offshore account is one that is opened by a citizen outside her home country.
 
 [Section 54EC- Deduction on LTCG Through Capital Gain Bonds](https://cleartax.in/s/section-54ec-bonds)
 
-- Till 50 lakh of LTCG, buy NHAI bonds, get 5% interest rate with 5 year lock in and only pay taxes on interest earned on NHAI bonds and principle which was going to be taxed becomes tax free
+- Till 50 lakh of LTCG, buy NHAI bonds, get 5% interest rate with 5 year lock in and only pay taxes on interest earned on NHAI bonds and principle which was going to be taxed becomes tax free.
+
+### Points
+
+1. Only certain investment avenues qualify for tax perks-long-term capital assets like listed & unlisted stocks, foreign shares, equity funds, and physical gold, except for house property.
+2. It's not just the winnings, it's the whole corpus. Imagine you tossed #50 lakh into stocks, and after 5 years, you're up €40 lakh. Now, here's the kicker: to snag that dream house, you have to spend the whole 90 lakh (your original investment plus the profit).
+3. Purchase should be made within 1 year before or 2 years after the date of transfer of the original asset. If you're building it from scratch, make sure those walls go up within 3 years. Wanna dodge taxes? You can, if you bought a residential property one year before the sale of the asset.
+4. No doubling up properties. When you cash out those assets, make sure you're not already lounging in more than one house
+5. That cash is earmarked for one thing and one thing only: a house. Land and commercial properties do not apply.
+6. Once you've bagged that dream house, **you have to stay put for at least 3 years**. No sneaking off early! If you bail before the clock runs out, be ready to cough up tax, penalty, and interest on the long-term capital gains from the sale date.
+7. A lot of people jumped on this tax-saving bandwagon, so the government had to lay down some restrictions. Here's the deal: Deduction from capital gains on investment in residential house under sections 54 and 54F are capped at Rs. 10 crore.
 
 ## Property Taxes
 
