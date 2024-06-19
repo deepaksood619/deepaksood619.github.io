@@ -275,6 +275,18 @@ Hyperspectral imaging
 
 Using Google Chrome extension to annotate and keep all links and create markdowns etc.
 
+## Lawyer / Law Marketplace
+
+Lawyer / law - central knowledge base and marketplace
+
+1. Create content like clear tax, everything about law
+2. Go viral
+3. Create authority and rank higher
+4. Start selling law services to users
+5. Talking to lawyer, hiring lawyer
+6. Ratings of lawyer
+7. Legal services
+
 ## Internal Links
 
 - [The Grid](../../book-summaries/the-grid)

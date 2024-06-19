@@ -114,36 +114,6 @@ sudo usermod -a -G adm telegraf
 sudo usermod -a -G root telegraf
 ```
 
-## Grep
-
-```bash
-# Search a file for keywords
-grep 'keyword' "file"
-
-# Grep regex
-ls | grep "metrics-[^su]"
-ls | grep "metrics-[^su]" | xargs rm -f
-
-# This prints 10 lines of trailing context after matching lines
-grep -i -A 10 "my_regex" /var/log/syslog
-
-# If you need to print 10 lines of leading context before matching lines,
-grep -i -B 10 "my_regex" /var/log/syslog
-
-# And if you need to print 10 lines of leading and trailing output context.
-grep -i -C 10 "my_regex" /var/log/syslog
-
-# Common Flags
--c: print a count of matching lines rather than the lines themselves
--h: do not print the names of files when searching multiple files
--i: ignore case (e.g., treat "Regression" and "regression" as matches)
--l: print the names of files that contain matches, not the matches
--n: print line numbers for matching lines
--v: invert the match, i.e., only show lines that don't match
-  grep -v "172.18.0.1"
--E 'abc|*de': or with regex
-```
-
 ## Redirection and Pipes
 
 `program_command 2>&1 | tee -a outfile.log`
@@ -306,29 +276,6 @@ wc -w file.txt (words)
 
 `$ tail -n 10 adult.data`
 
-### Finding duplicates with uniq
-
-With theuniqcommand you can find adjacent repeated lines in a file.uniqtakes several flags, the more useful ones being:
-
-- uniq -c: which adds the repetition count to each line;
-- uniq -d: which only outputs duplicate lines; And
-- uniq -u: which only outputs unique lines.
-
-However, uniqis not a smart command. Repeated lines will not be detected if they are not adjacent. Which means that you first need thesortthe file. This command counts the number of duplicated lines inadult.csv.
-
-`sort adult.csv | uniq -d | wc -l`
-
-23
-
-and shows that there are 23 duplicates. The next command takes the output of all lines with added repetition counts, sorts in reverse and outputs the first 3 duplicates:
-
-```bash
-sort adult.csv | uniq -c | sort -r | head -n 3
-3 25, Private, 195994, 1st-4th, 2, Never-married, ...
-2 90, Private, 52386, Some-college, 10, Never-married, ...
-2 49, Self-emp-not-inc, 43479, Some-college, 10, Married-civ-spouse, ...
-```
-
 ### Hexdump
 
 ```bash
@@ -439,12 +386,6 @@ Unix Sort uses an External R-Way merge sorting algorithm. It divides the input u
 Return the full command for the passed alias_command_name
 
 `alias dc='docker-compose'`
-
-### cut
-
-cut out selected portions of each line of a file
-
-Can use **awk** instead of cut for better results
 
 ### paste
 
@@ -560,19 +501,6 @@ https://www.tecmint.com/tr-command-examples-in-linux
 
 `sudo tcpdump -i any port 9101 -w tcpdump`
 
-### sed
-
-```bash
-sed -i '' 's+telegraf:.*+telegraf:x:0:0::/etc/telegraf:/bin/false+g' passwd #on macos
-sed -i 's+telegraf:.*+telegraf:x:0:0::/etc/telegraf:/bin/false+g' passwd #on unix
-
-find ./ ! -name 'config.yaml' -type f -exec sed -i "s~${ecr_name}.*$~${ecr_name}\\/${app_name}\\/${env_name}:${app_name}-${env_name}-${timestamp}-${build_no}~" {} \;
-
-find ./ ! -name 'config.yaml' -type f -exec sed -i "s~
-331916247734.dkr.ecr.ap-south-1.amazonaws.com/loan-tape-etl/prod:loan-tape-etl-prod-2020-08-07-20-10
-$~331916247734.dkr.ecr.ap-south-1.amazonaws.com/loan-tape-etl/prod:loan-tape-etl-prod-test~" {} \;
-```
-
 ### killall
 
 kill processes by name
@@ -595,6 +523,82 @@ killall -v kubectl
 # forcefully terminate all running processes except login shell, init, and kernel-specific processes.
 killall5 -9
 ```
+
+## Log parsing commands
+
+### Grep
+
+```bash
+# Search a file for keywords
+grep 'keyword' "file"
+
+# Grep regex
+ls | grep "metrics-[^su]"
+ls | grep "metrics-[^su]" | xargs rm -f
+
+# This prints 10 lines of trailing context after matching lines
+grep -i -A 10 "my_regex" /var/log/syslog
+
+# If you need to print 10 lines of leading context before matching lines,
+grep -i -B 10 "my_regex" /var/log/syslog
+
+# And if you need to print 10 lines of leading and trailing output context.
+grep -i -C 10 "my_regex" /var/log/syslog
+
+# Common Flags
+-c: print a count of matching lines rather than the lines themselves
+-h: do not print the names of files when searching multiple files
+-i: ignore case (e.g., treat "Regression" and "regression" as matches)
+-l: print the names of files that contain matches, not the matches
+-n: print line numbers for matching lines
+-v: invert the match, i.e., only show lines that don't match
+  grep -v "172.18.0.1"
+-E 'abc|*de': or with regex
+```
+
+### cut
+
+cut out selected portions of each line of a file
+
+Can use **awk** instead of cut for better results
+
+### sed
+
+```bash
+sed -i '' 's+telegraf:.*+telegraf:x:0:0::/etc/telegraf:/bin/false+g' passwd #on macos
+sed -i 's+telegraf:.*+telegraf:x:0:0::/etc/telegraf:/bin/false+g' passwd #on unix
+
+find ./ ! -name 'config.yaml' -type f -exec sed -i "s~${ecr_name}.*$~${ecr_name}\\/${app_name}\\/${env_name}:${app_name}-${env_name}-${timestamp}-${build_no}~" {} \;
+
+find ./ ! -name 'config.yaml' -type f -exec sed -i "s~
+331916247734.dkr.ecr.ap-south-1.amazonaws.com/loan-tape-etl/prod:loan-tape-etl-prod-2020-08-07-20-10
+$~331916247734.dkr.ecr.ap-south-1.amazonaws.com/loan-tape-etl/prod:loan-tape-etl-prod-test~" {} \;
+```
+
+### Finding duplicates with uniq
+
+With the uniq command you can find adjacent repeated lines in a file. uniq takes several flags, the more useful ones being:
+
+- uniq -c: which adds the repetition count to each line;
+- uniq -d: which only outputs duplicate lines; And
+- uniq -u: which only outputs unique lines.
+
+However, uniq is not a smart command. Repeated lines will not be detected if they are not adjacent. Which means that you first need the sort the file. This command counts the number of duplicated lines in adult.csv.
+
+`sort adult.csv | uniq -d | wc -l`
+
+23
+
+and shows that there are 23 duplicates. The next command takes the output of all lines with added repetition counts, sorts in reverse and outputs the first 3 duplicates:
+
+```bash
+sort adult.csv | uniq -c | sort -r | head -n 3
+3 25, Private, 195994, 1st-4th, 2, Never-married, ...
+2 90, Private, 52386, Some-college, 10, Never-married, ...
+2 49, Self-emp-not-inc, 43479, Some-college, 10, Married-civ-spouse, ...
+```
+
+![Log Parsing Commands](../../media/Pasted%20image%2020240620022249.png)
 
 ## openssl
 
@@ -865,6 +869,9 @@ screen -r
 
 # list the current running screen sessions
 screen -ls
+
+# delete the screen session
+screen -X -S <screen_session_name> quit
 ```
 
 [How To Use Linux Screen | Linuxize](https://linuxize.com/post/how-to-use-linux-screen/)

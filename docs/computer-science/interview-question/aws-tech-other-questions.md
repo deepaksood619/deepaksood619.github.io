@@ -1,9 +1,9 @@
 # AWS/Tech/Other Questions
 
-DMS - How to not migrate delete commands to redshift from mysql aurora (so only insert/updates are propogated)
+### AWS
 
-How to share only specific sheet/single tab in google spreadsheet? (AirTable)
-
+- DMS - How to not migrate delete commands to redshift from mysql aurora (so only insert/updates are propagated)
+- Savings plan or RI for busty cyclical workload where in day we run 100 nodes and at night we run 10 nodes
 - DynamoDB with bigger document size > 400KB, like documents?
 - S3 too slow
     - 370ms for 1kb
@@ -39,6 +39,7 @@ how to decide that should I keep value in each row or normalize further database
 
 ### Tech Questions
 
+- How to share only specific sheet/single tab in google spreadsheet? (AirTable)
 - Why same code runs in local laptop having less memory and cpu, but in kubernetes with larger cpu and ram gets evicted. How to add backpressure in pods
     - **HPA takes into account both pods requests together in CPU and not on a single pod**
     - **Grafana workload dashboard shows wrong CPU Limits for a pod**

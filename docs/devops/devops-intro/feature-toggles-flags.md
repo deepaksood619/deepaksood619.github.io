@@ -59,6 +59,18 @@ https://martinfowler.com/articles/feature-toggles.html
 
 - [LaunchDarkly: Feature Flags, Feature Management, and Experimentation](https://launchdarkly.com/)
 - [Open Source LaunchDarkly Alternative](https://www.growthbook.io/compare/growthbook-vs-launchdarkly)
-- [Flagsmith - Open Source Feature Flag & Remote Config Service](https://www.flagsmith.com/)
-   	- [GitHub - Flagsmith/flagsmith: Open Source Feature Flagging and Remote Config Service. Host on-prem or use our hosted version at https://flagsmith.com/](https://github.com/Flagsmith/flagsmith)
-   	- Open Source Feature Flagging and Remote Config Service.
+
+### [Flagsmith - Open Source Feature Flag & Remote Config Service](https://www.flagsmith.com/)
+
+#### Features
+
+- **Feature flags**. Release features with confidence through phased roll-outs.
+- **Remote config**. Easily toggle individual features on and off, and make changes without deploying new code.
+- **A/B and Multivariate Testing**. Use segments to run A/B and multivariate tests on new features. With segments, you can also introduce beta programs to get early user feedback.
+- **Organization Management**. Organizations, projects, and roles for team members help keep your deployment organized.
+- **Integrations**. Easily enhance Flagsmith with your favourite tools.
+
+#### Links
+
+- [GitHub - Flagsmith/flagsmith: Open Source Feature Flagging and Remote Config Service. Host on-prem or use our hosted version at https://flagsmith.com/](https://github.com/Flagsmith/flagsmith)
+- Open Source Feature Flagging and Remote Config Service.

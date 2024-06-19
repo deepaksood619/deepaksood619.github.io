@@ -41,6 +41,12 @@ kubectl proxy
 http://localhost:8001/api/v1/namespaces/kubernetes-dashboard/services/https:kubernetes-dashboard:/proxy/#!/login
 ```
 
+```bash
+aws autoscaling describe-auto-scaling-groups --query "AutoScalingGroups[*].AutoScalingGroupName" --output text
+
+aws autoscaling update-auto-scaling-group --auto-scaling-group-name eks-application-node-group-1-27-16c80375-b0c2-89be-d024-5af4ec83c43c --max-size 70
+```
+
 ## AWS EKS
 
 ```bash
@@ -58,8 +64,10 @@ mapUsers:
 
 #get kubeconfig credentials from eks to local
 aws eks --region ap-south-1 list-clusters
-aws eks --region ap-south-1 update-kubeconfig --name stashfin-dev-eks
-aws eks --region ap-south-1 update-kubeconfig --name stashfin-prod-eks
+aws eks --region ap-southeast-1 list-clusters
+aws eks --region ap-southeast-1 update-kubeconfig --name cnext-staging-eks
+aws eks --region ap-south-1 update-kubeconfig --name cnext-beta-cluster
+aws eks --region ap-south-1 update-kubeconfig --name prod-cluster-cnext
 
 #login to AWS ECR
 aws ecr get-login-password | docker login --username AWS --password-stdin 331916247734.dkr.ecr.ap-south-1.amazonaws.com

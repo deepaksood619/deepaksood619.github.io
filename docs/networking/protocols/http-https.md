@@ -65,6 +65,18 @@ Introduced the concept of HTTP "streams": an abstraction that allows HTTP implem
 - HTTP/2 uses header compression to reduce overhead. Typical header sizes of 1KB are common mainly because of the cookies that we all have to accept for a smooth user experience. Transferring 1KB can take several network round trips just to exchange headers, and those headers are being re-sent every time because of the stateless nature of HTTP 1.x. The TCP Slow-start makes the problem even worse by limiting the number of packets that can be sent during the first round trips until TCP effectively finishes to probe the network to figure out the available capacity and properly adapt its congestion window. In this context, compressing headers significantly limits the number of required round trips.
 - HTTP/2 Server Push allows servers to proactively send responses into client caches. In a typical HTTP 1.x workflow, the browser requests a page, the server sends the HTML in the response, and then needs to wait for the browser to parse the response and issue additional requests to fetch the additional embedded assets (JavaScript, CSS, etc.). Server push allows the server to speculatively start sending resources to the client. Here, the browser does not have to parse the HTML page and find out which other resources to load; instead the server can start sending them immediately.
 
+### Why HTTP2 is faster than HTTP1
+
+1. **Binary Framing Layer -** HTTP2 encodes the messages into binary format. This allows the messages into smaller units called frames, which are then sent over the TCP connection, resulting in more efficient processing.
+2. **Multiplexing -** The Binary Framing allows full request and response multiplexing. Clients and servers can interleave frames during transmissions and reassemble them on the other side.
+3. **Stream Prioritization -** With stream prioritization, developers can customize the relative weight of requests or streams to make the server send more frames for higher-priority requests.
+4. **Server Push -** Since HTTP2 allows multiple concurrent responses to a client’s request, a server can send additional resources along with the requested page to the client.
+5. **HPACK Header Compression -** HTTP2 uses a special compression algorithm called HPACK to make the headers smaller for multiple requests, thereby saving bandwidth.
+
+Of course, despite these features, HTTP2 can also be slow depending on the exact technical scenario. Therefore, developers need to test and optimize things to maximize the benefits of HTTP2.
+
+![Why HTTP2 is faster than HTTP1](../../media/Pasted%20image%2020240620022659.png)
+
 ## Ports
 
 - HTTP - 80

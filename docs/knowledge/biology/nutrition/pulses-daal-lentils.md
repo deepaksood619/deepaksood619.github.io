@@ -155,7 +155,7 @@ This [lentil](https://www.thespruceeats.com/history-of-lentils-1807624) has a nu
 
 ![image](../../../media/Nutrition_Pulses-Daal-Lentils-image15.jpg)
 
-- **Chickpea flour:** Chickpea flour has a rich culinary tradition in Indian cuisine, where it is known as **besanorchana** and is used in pancakes, stews, and curries. It is popular as well in Italian cuisine where **farina di ceci(chickpea flour)** is used to make pasta and a polenta-like dish. Chickpeas are also used in some blended flours, such as **garfava flour**, a combination of chickpeas and fava beans, and **dhokra flour**, a combination of rice, lentils, and chickpeas.
+- **Chickpea flour:** Chickpea flour has a rich culinary tradition in Indian cuisine, where it is known as **besan or chana** and is used in pancakes, stews, and curries. It is popular as well in Italian cuisine where **farina di ceci(chickpea flour)** is used to make pasta and a polenta-like dish. Chickpeas are also used in some blended flours, such as **garfava flour**, a combination of chickpeas and fava beans, and **dhokra flour**, a combination of rice, lentils, and chickpeas.
 - **Green chickpeas:** Fresh and sweet, like green peas, these are young, tender, fresh chickpeas. They are predominantly found in local farmers' markets.
 
 ![image](../../../media/Nutrition_Pulses-Daal-Lentils-image16.jpg)
@@ -199,6 +199,12 @@ Semolina is the coarse, purified [wheat middlings](https://en.wikipedia.org/wiki
 
 https://en.wikipedia.org/wiki/Semolina
 
+#### Sooji vs Rawa / Rava
+
+Rava is finest version. And soji is thicker version.
+
+Usually for crispiness we use rava like in dosa, fitters etc. while soji is use when we need texture like in cake, sweets etc.
+
 ### Durum Wheat
 
 Durum wheat ([/ˈdjʊərəm/](https://en.wikipedia.org/wiki/Help:IPA/English)), also called pasta wheat or macaroni wheat (Triticum durum or Triticum turgidum subsp.duru), is a [tetraploid](https://en.wikipedia.org/wiki/Polyploid) species of [wheat](https://en.wikipedia.org/wiki/Wheat).It is the second most cultivated species of wheat after [common wheat](https://en.wikipedia.org/wiki/Common_wheat), although it represents only 5% to 8% of global wheat production.It was developed by [artificial selection](https://en.wikipedia.org/wiki/Artificial_selection) of the domesticated [emmer](https://en.wikipedia.org/wiki/Emmer) wheat strains formerly grown in Central Europe and the [Near East](https://en.wikipedia.org/wiki/Near_East) around 7000 BC, which developed a naked, [free-threshing](https://en.wikipedia.org/wiki/Wheat#Hulled_versus_free-threshing_wheat) form. Like emmer, durum wheat is [awned](https://en.wikipedia.org/wiki/Awn_(botany))(with bristles). It is the predominant wheat that grows in the Middle East.
@@ -232,7 +238,7 @@ Millets may have been consumed by humans for about 7,000 years and potentially h
 | Amaranth                        | Rajgira/ Ramdana             |
 | Barnyard                        | Sanwa/ Samvat ke Chawal      |
 | Buckwheat                       | Kuttu                        |
-| **Finger millet**               | **Ragi / Nachni**             |
+| **Finger millet**               | **Ragi / Nachni**            |
 | Foxtail millet                  | Kangni / Kakum               |
 | Kodu                            | Kodon                        |
 | Little millet                   | Moraiyo/ Kutki/ Shavan/ Sama |

@@ -143,6 +143,14 @@ Why kicking out children after 18 years is important, let's say you are very wea
 
 [Facts About Diapers - Which one is suitable for your baby: Tape diapers or Pant diapers?](https://babylove.co.th/en/diaper-tips/tape-or-pant-diapers)
 
+### Toddler
+
+- Food Strike - [Why Toddlers Refuse to Eat and What to Do](https://www.whattoexpect.com/toddler/behavior/food-strikes.aspx)
+- [Why You SHOULD Be a Pushover - YouTube](https://www.youtube.com/watch?v=-v9AaBuKj3E&ab_channel=EmmaHubbard)
+- [3 Things To Never Say To Your Toddler (And What to Say Instead) - YouTube](https://www.youtube.com/watch?v=vy8m2_w6TMk&ab_channel=EmmaHubbard)
+- [This Mistake Teaches Your Toddler To Ignore You… - YouTube](https://www.youtube.com/watch?v=DSIXXrzfnkA&ab_channel=EmmaHubbard)
+- [5 Toddler Behaviors That Stress New Parents & What They Really Mean - YouTube](https://www.youtube.com/watch?v=n1uLIfjPg34&ab_channel=EmmaHubbard)
+
 ## Links
 
 - [Colin Powell: Kids need structure | TED - YouTube](https://www.youtube.com/watch?v=NhYnouvrG_8&ab_channel=TED)
@@ -181,4 +189,3 @@ Why kicking out children after 18 years is important, let's say you are very wea
 - [11 month old, first week | BabyCentre](https://www.babycentre.co.uk/s1001682/11-month-old-first-week)
 - [What to Do if Your Baby Is Waking Up in the Middle of the Night](https://www.whattoexpect.com/first-year/ask-heidi/month-9/sudden-night-wakings.aspx)
 - [12-Month-Old Baby: Milestones and Development](https://www.whattoexpect.com/toddler/12-month-old/)
-- Food Strike - [Why Toddlers Refuse to Eat and What to Do](https://www.whattoexpect.com/toddler/behavior/food-strikes.aspx)

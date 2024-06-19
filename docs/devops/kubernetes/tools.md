@@ -28,6 +28,13 @@ https://ahmet.im/blog/kubectl-tree
 
 ### krew
 
+Installation - [Installing · Krew](https://krew.sigs.k8s.io/docs/user-guide/setup/install/#bash)
+
+```bash
+kubectl krew install ctx
+kubectl krew install ns
+```
+
 https://github.com/kubernetes-sigs/krew
 
 ### ketall
@@ -155,10 +162,19 @@ K9s provides a curses based terminal UI to interact with your Kubernetes cluster
 ```bash
 brew install derailed/k9s/k9s
 
+curl -fsSLO https://github.com/derailed/k9s/releases/download/v0.32.4/k9s_Linux_amd64.tar.gz
+
+tar -xzvf k9s_Linux_amd64.tar.gz
+mv k9s /usr/bin
+
 k9s -n <namespace>
 ctrl + r - refresh
 ctrl + h - toggle header
 ctrl + a - show all resources
+shift + f - port forward
+
+f - show port forward
+ctrl + d - delete port forward
 
 # Shortcuts
     ? (shift + /) - help show commands
@@ -176,6 +192,19 @@ https://github.com/kubenav/kubenav
 ## kubens / kubectx
 
 Switch faster between clusters and namespaces in kubectl
+
+```bash
+# for arm
+curl -fsSLO https://github.com/ahmetb/kubectx/releases/download/v0.9.5/kubectx_v0.9.5_linux_arm64.tar.gz
+
+tar -xzvf kubectx_v0.9.5_linux_arm64.tar.gz
+mv kubectx /usr/bin
+
+brew install kubectx
+
+kubectl krew install ctx
+kubectl krew install ns
+```
 
 https://github.com/ahmetb/kubectx
 
@@ -404,8 +433,7 @@ Karpenter automatically launches just the right compute resources to handle your
 
 ## Others
 
-https://www.getporter.dev
-
-https://spot.io/products/ocean
-
-[Harbor](https://goharbor.io/)
+- https://www.getporter.dev
+- https://spot.io/products/ocean
+- [Harbor](https://goharbor.io/)
+- [GitHub - spekt8/spekt8: Visualize your Kubernetes cluster in real time](https://github.com/spekt8/spekt8)

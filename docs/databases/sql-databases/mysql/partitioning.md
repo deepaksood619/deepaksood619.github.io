@@ -14,3 +14,7 @@
 - [26.4 Partition Pruning](https://dev.mysql.com/doc/refman/8.4/en/partitioning-pruning.html)
 - [26.5 Partition Selection](https://dev.mysql.com/doc/refman/8.4/en/partitioning-selection.html)
 - [26.6 Restrictions and Limitations on Partitioning](https://dev.mysql.com/doc/refman/8.4/en/partitioning-limitations.html)
+
+[How to automatically maintain a MySQL Table’s Partitions? | by Sanyam Aggarwal | Medium](https://sanyamaggarwal.medium.com/how-to-automatically-maintain-a-mysql-tables-partitions-with-mysqlpartitionkeeper-f9923f973135)
+
+[GitHub - i-sanyam/MySQLPartitionKeeper: Automatically creates new monthly partition and removes oldest partition](https://github.com/i-sanyam/MySQLPartitionKeeper/)

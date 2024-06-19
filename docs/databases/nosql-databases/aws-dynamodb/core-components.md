@@ -61,7 +61,7 @@ https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/SecondaryIndexe
 
 DynamoDB Streams is an optional feature that captures data modification events in DynamoDB tables. The data about these events appear in the stream in near-real time, and in the order that the events occurred.
 
-Each event is represented by astream record. If you enable a stream on a table, DynamoDB Streams writes a stream record whenever one of the following events occurs:
+Each event is represented by a stream record. If you enable a stream on a table, DynamoDB Streams writes a stream record whenever one of the following events occurs:
 
 - A new item is added to the table: The stream captures an image of the entire item, including all of its attributes.
 - An item is updated: The stream captures the "before" and "after" image of any attributes that were modified in the item.

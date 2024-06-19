@@ -347,6 +347,7 @@ alias vim='nvim'
 alias f='v `fzf -i`'
 alias f='fuck'
 
+alias k='kubectl'
 alias d='docker'
 alias dc='docker-compose'
 alias w='watch ' #remember to add space so other alias can be used

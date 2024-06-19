@@ -15,6 +15,46 @@ Highly personalized education for each person
 - [Meet Khanmigo, Khan Academy's AI-powered teaching assistant & tutor](https://www.khanmigo.ai/)
 - [Khan Academy | Free Online Courses, Lessons & Practice](https://www.khanacademy.org/)
 
+### Study loop, personal tutor
+
+- Give task/questions
+- Evaluate your answer
+- Give feedback
+- Teach the supporting material to bridge the gap
+- Ask questions at spaced repetition to really get the information inside brain
+- Give next task/question with incremental difficultly
+
+- 1st question - what do you want to learn today
+- 2nd question - what's the level of understanding of your topic
+- 3rd question - ask few questions to get the conversation going and judge the correct level of the candidate
+- Incrementally ask difficult question and move into study loop, to ask questions, teach the gap, quiz for the teaching and repeat
+
+Global
+
+- remember everything about the current candidate, so gpt knows everything about the candidate pre baked
+- learning should be fun, and gpt should use the interests and curiosity of candidate to maximize the learning of the candidate
+- double down on what candidate loves naturally working on, and make him great in that profession
+- time spent learning should be the biggest metric to track
+- also do career planning and start preparing him for that
+- resume the last learning session
+- friendly character/ teacher name
+- don't teach wrong things i.e. hallucinate
+
+Onboarding
+
+- name
+- age
+- class
+- interests
+- goals
+- learn about the candidate overall from each conversation, there can be thousands of parameters learned, which can be used for each new conversation and making the study more personalized and targeted.
+
+Wide capabiliies
+
+- from chef to scientist, from parenting to coach, from machine learning to data scientist, from astronaut to lawyer, from sports to singing
+- wide range of age to cater too - from toddlers to graduates to mid career to retirees
+- can teach about hobbies too like gardening etc
+
 ### Education for all (KhanAcademy does it all, contribute to it)
 
 - Cultfit type you can attend from any city

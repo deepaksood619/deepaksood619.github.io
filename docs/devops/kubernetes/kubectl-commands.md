@@ -47,7 +47,7 @@ kubectl get po -l app=v2
 kubectl get po -l 'app in (v2,v1)'
 kubectl get po --selector=app=v2
 kubectl get pods --sort-by=.metadata.name (sorted by name)
-kubectl get pods--sort-by=.metadata.creationTimestamp (sorted by creationTimestamp)
+kubectl get pods --sort-by=.metadata.creationTimestamp (sorted by creationTimestamp)
 kubectl get po -o=custom-columns="POD_NAME:.metadata.name, POD_STATUS:.status.containerStatuses[].state" (custom columns)
 
 # Annotations
@@ -236,6 +236,10 @@ certificate Modify certificate resources.
 
 kubectl top node
 kubectl top pod
+kubectl top pod --namespace=NAMESPACE
+kubectl top pod c360-production-598cf9c859-5jlx5 --containers
+kubectl top po -A --sort-by=cpu
+kubectl top po -A --sort-by=memory
 
 ## cordon Mark node as unschedulable. Used for maintenance of cluster
 
@@ -620,6 +624,12 @@ kubectl get pods -A | grep Evicted  | awk '{print $1}' | xargs kubectl delete po
 kubectl get pods -n crons -o go-template --template '{{range .items}}{{.metadata.name}} {{.metadata.creationTimestamp}}{{"\n"}}{{end}}' | awk '$2 <= "'$(date -d 'yesterday' -Ins --utc | sed 's/+0000/Z/')'" { print $1 }' | xargs --no-run-if-empty kubectl delete pod -n crons
 
 kubectl get pods -n crons -o go-template --template '{{range .items}}{{.metadata.name}} {{.metadata.creationTimestamp}}{{"\n"}}{{end}}' | awk '$2 <= "'$(date -v-120M "+%Y-%m-%dT%H:%M:%S")'" { print $1 }' | xargs --no-run-if-empty kubectl delete pod -n crons
+
+# delete NotReady Pods
+kubectl delete node $(kubectl get nodes | grep NotReady,SchedulingDisabled | awk '{print $1;}')
+
+# if stuck in EKS
+kubectl patch node/ip-172-30-17-201.ap-southeast-1.compute.internal -p '{"metadata":{"finalizers":[]}}' --type=merge
 ```
 
 ## Requests and Limits
@@ -629,13 +639,23 @@ kubectl get pods -n crons -o go-template --template '{{range .items}}{{.metadata
 ```bash
 curl -fsSLO https://github.com/robscott/kube-capacity/releases/download/v0.8.0/kube-capacity_v0.8.0_linux_x86_64.tar.gz
 
+tar -xzvf kube-capacity_v0.8.0_linux_x86_64.tar.gz
+mv kube-capacity /usr/bin
+
+brew tap robscott/tap
+brew install robscott/tap/kube-capacity
+
+brew install kube-capacity
+
 # cluster wide
 kube-capacity
 kube-capacity --util
 kube-capacity --util --sort cpu.util
 kube-capacity --util --sort cpu.util.percentage
+kube-capacity --util --sort memory.util.percentage
 
 kube-capacity --pods --util --sort cpu.util
+kube-capacity --pods --util --sort memory.util.percentage
 
 kube-capacity --available
 
@@ -643,6 +663,9 @@ kube-capacity --node-taints special:NoSchedule
 
 kube-capacity --no-taint
 
+kube-capacity --pod-count
+
+kube-capacity --pods --util --sort memory.util.percentage --namespace prod
 ```
 
 [Easy to list Kubernetes resource requests and limits with kube-capacity](https://viblo.asia/p/easy-to-list-kubernetes-resource-requests-and-limits-with-kube-capacity-english-Rk74avM6JeO)

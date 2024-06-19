@@ -98,6 +98,11 @@ https://zolostays.com/blog/cities-with-best-weather-in-india
 - [The Economist Democracy Index - Wikipedia](https://en.wikipedia.org/wiki/The_Economist_Democracy_Index)
 - HDI by UNDP
 
+### Renting
+
+- Never ever buy a second hand AC
+- Never get a top floor apartment
+
 ### New Home
 
 - Study Room / Office Room / GYM (2 desks for WFH - no bed or people or clutter in study room)
@@ -264,6 +269,10 @@ https://www.youtube.com/watch?v=dy81ldYQdgY
 - [Inside One of Frank Lloyd Wright’s Final-Ever Designs | Unique Spaces | Architectural Digest - YouTube](https://www.youtube.com/watch?v=6L7NnZWeW-s)
 - [P R Sundar's Luxury Penthouse Tour!](https://www.youtube.com/watch?v=Y52kD7RIIuY)
 
+### Links
+
+- [Buildofy - YouTube](https://www.youtube.com/@buildofy)
+
 ## Buying vs Renting Home
 
 Unrecoverable cost of owning vs buying
@@ -303,6 +312,8 @@ Take the value of the home that you are considering multiply by 5% and divide by
 10. Conversion certificate
 
 [Flat buying tips - 21 points checklist before buying a flat | FLAT BUYING TIPS | Personal Finance | - YouTube](https://www.youtube.com/watch?v=5biF-qJxuyo&ab_channel=InvestAajForKal)
+
+[The REAL Cost of Buying a House in Delhi/Gurgaon? - YouTube](https://www.youtube.com/watch?v=CdZ199Fo0kE&ab_channel=WintWealth)
 
 ## Climate resilient
 

@@ -17,9 +17,11 @@ docker run hello-world
 
 [AWS EC2 Instance Types](ec2-instance-types)
 
-## Amazon EC2 Auto Scaling
+## Amazon EC2 Auto Scaling Group (ASG)
 
 Scale Compute Capacity to Meet Demand
+
+[Amazon EC2 Auto Scaling lifecycle hooks - Amazon EC2 Auto Scaling](https://docs.aws.amazon.com/autoscaling/ec2/userguide/lifecycle-hooks.html?icmpid=docs_ec2as_help_panel)
 
 ## Amazon Elagoostic Container Service
 

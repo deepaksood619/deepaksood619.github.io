@@ -16,6 +16,7 @@
 - [Book Summary - Make Time: How to Focus on What Matters Every Day (Jake Knapp and John Zeratsky)](https://readingraphics.com/book-summary-make-time/)
 - [A World Without Email Summary - Four Minute Books](https://fourminutebooks.com/a-world-without-email-summary/)
 - [SLOW PRODUCTIVITY by Cal Newport | Core Message - YouTube](https://www.youtube.com/watch?v=TJFuTZqAX5E&ab_channel=ProductivityGame)
+- [NOISE by Daniel Kahneman | Core Message - YouTube](https://www.youtube.com/watch?v=wBHFeMblT5g&ab_channel=ProductivityGame)
 
 [Learn to lead: THE 21 IRREFUTABLE LAWS OF LEADERSHIP by John Maxwell | Core Message - YouTube](https://www.youtube.com/watch?v=QQhdiktL99w)
 

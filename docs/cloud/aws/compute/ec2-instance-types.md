@@ -22,6 +22,8 @@
 | **Accelerated Computing** | P3, P2, Inf1, G4, G3, F1                    |
 | **Storage Optimized**     | I3, I3en, D2, H1                            |
 
+The "d" in "m5ad" indicates that these instances come with local NVMe SSD storage, which can provide low-latency, high-speed storage options.
+
 | **Instance Family** | **Example** | **Use Cases** |
 |---|---|---|
 | Memory optimized | R5 | Memory-intensive applications, High-performance databases, Distributed in-memory caches |

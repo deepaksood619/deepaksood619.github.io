@@ -8,6 +8,7 @@ While PHP provides ways to interact with the request and response headers, CodeI
 
 The [IncomingRequest class](https://codeigniter.com/user_guide/incoming/incomingrequest.html) is an object-oriented representation of the HTTP request. It provides everything you need:
 
+```php
 use CodeIgniter HTTPIncomingRequest;
 
 $request = service('request');
@@ -34,13 +35,15 @@ $request->getHeader('host');
 $request->getHeader('Content-Type');
 
 $request->getMethod(); // GET, POST, PUT, etc
+```
 
-The request class does a lot of work in the background for you, that you never need to worry about. TheisAJAX()andisSecure()methods check several different methods to determine the correct answer.
+The request class does a lot of work in the background for you, that you never need to worry about. The isAJAX() and isSecure() methods check several different methods to determine the correct answer.
 
 ## Response Class
 
 CodeIgniter also provides a [Response class](https://codeigniter.com/user_guide/outgoing/response.html) that is an object-oriented representation of the HTTP response. This gives you an easy and powerful way to construct your response to the client:
 
+```php
 use CodeIgniterHTTPResponse;
 
 $response = service('response');
@@ -53,6 +56,7 @@ $response->noCache();
 // Sends the output to the browser
 // This is typically handled by the framework
 $response->send();
+```
 
 In addition, the Response class allows you to work the HTTP cache layer for the best performance.
 

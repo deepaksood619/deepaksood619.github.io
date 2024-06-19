@@ -31,6 +31,8 @@ https://www.joinhoney.com
 
 Sequence of Returns - [what sequence of returns risk](https://www.youtube.com/watch?v=GruEpZFBvQg&ab_channel=freefincal-PrudentDIYInvesting) - [Why Understanding Sequence Risk is Crucial for Investing Success!](https://freefincal.com/sequence-returns-risk/)
 
+[Why does the sequence of returns risk matter when there are periodic withdrawals I Ft Ravi Saraogi - YouTube](https://www.youtube.com/watch?v=nEbSOyKzpMc&ab_channel=ZerodhaVarsity)
+
 [Do not make these 15 investing mistakes!!](https://www.youtube.com/watch?v=BDDrd98WYL8)
 
 [Does Buy-And-Hold Investing Still Work? | ET Money](https://youtu.be/0Fe_qjdgJSM)
