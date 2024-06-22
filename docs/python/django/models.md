@@ -116,3 +116,9 @@ Add meta in the object Model
 class Meta:
     ordering=('device__owner__client_name','issue__display_name')
 ```
+
+## Indexing
+
+[How to Create an Index in Django Without Downtime – Real Python](https://realpython.com/create-django-index-without-downtime/)
+
+[Model index reference | Django documentation | Django](https://docs.djangoproject.com/en/5.0/ref/models/indexes/)

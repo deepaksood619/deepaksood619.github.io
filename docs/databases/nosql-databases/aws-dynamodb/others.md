@@ -14,6 +14,14 @@ https://aws.amazon.com/dynamodb/dax
 
 https://aws.amazon.com/blogs/aws/amazon-dynamodb-accelerator-dax-in-memory-caching-for-read-intensive-workloads
 
+## Backup / PITR
+
+### Export to S3
+
+DynamoDB export to S3 is a fully managed solution for exporting your DynamoDB data to an Amazon S3 bucket at scale. Using DynamoDB export to S3, you can export data from an Amazon DynamoDB table from any time within your [point-in-time recovery (PITR)](https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/PointInTimeRecovery.html) window to an Amazon S3 bucket. You need to enable PITR on your table to use the export functionality. This feature enables you to perform analytics and complex queries on your data using other AWS services such as Athena, AWS Glue, Amazon SageMaker, Amazon EMR, and AWS Lake Formation.
+
+[DynamoDB data export to Amazon S3: how it works - Amazon DynamoDB](https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/S3DataExport.HowItWorks.html)
+
 ## Cost Optimization
 
 [Identifying your unused resources - Amazon DynamoDB](https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/CostOptimization_UnusedResources.html)

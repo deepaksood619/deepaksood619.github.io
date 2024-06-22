@@ -195,6 +195,8 @@ BKPR is open source under the Apache 2 License and is available for Google Kuber
 - Grafana
 - Alertmanager
 
+[Monitoring in the Kubernetes Era | Datadog](https://www.datadoghq.com/blog/monitoring-kubernetes-era/)
+
 ## Logging
 
 - Elasticsearch
@@ -270,20 +272,12 @@ https://github.com/vmware-tanzu/sonobuoy
 
 ## Others
 
-https://medium.com/free-code-camp/how-to-set-up-a-serious-kubernetes-terminal-dd07cab51cd4
-
-https://www.weave.works/blog/application-checklist-kubernetes
-
-https://www.weave.works/blog/production-ready-checklist-kubernetes
-
-https://www.stackrox.com/post/2019/09/12-kubernetes-configuration-best-practices
-
-API Versions - https://matthewpalmer.net/kubernetes-app-developer/articles/kubernetes-apiversion-definition-guide.html
-
-Using private container registry - https://container-solutions.com/using-google-container-registry-with-kubernetes
-
-Centralized monitoring on Kubernetes - https://github.com/coreos/prometheus-operator/tree/master/contrib/kube-prometheus
-
-Questions - https://ymmt2005.hatenablog.com/entry/k8s-things
-
-[Stakater · GitHub](https://github.com/stakater/)
+- https://medium.com/free-code-camp/how-to-set-up-a-serious-kubernetes-terminal-dd07cab51cd4
+- https://www.weave.works/blog/application-checklist-kubernetes
+- https://www.weave.works/blog/production-ready-checklist-kubernetes
+- https://www.stackrox.com/post/2019/09/12-kubernetes-configuration-best-practices
+- API Versions - https://matthewpalmer.net/kubernetes-app-developer/articles/kubernetes-apiversion-definition-guide.html
+- Using private container registry - https://container-solutions.com/using-google-container-registry-with-kubernetes
+- Centralized monitoring on Kubernetes - https://github.com/coreos/prometheus-operator/tree/master/contrib/kube-prometheus
+- Questions - https://ymmt2005.hatenablog.com/entry/k8s-things
+- [Stakater · GitHub](https://github.com/stakater/)

@@ -153,6 +153,8 @@ helm uninstall straw
 
 [kubernetes - What is the difference between the core os projects kube-prometheus and prometheus operator? - Stack Overflow](https://stackoverflow.com/questions/54422566/what-is-the-difference-between-the-core-os-projects-kube-prometheus-and-promethe)
 
+[Monitoring in the Kubernetes Era | Datadog](https://www.datadoghq.com/blog/monitoring-kubernetes-era/)
+
 ## References
 
 https://github.com/prometheus/prometheus

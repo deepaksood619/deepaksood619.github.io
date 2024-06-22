@@ -102,7 +102,21 @@ Attachment theory
 
 [stanfordchildrens.org/content-public/pdf/bayside-medical-group/BMG handout hurts others.pdf](https://www.stanfordchildrens.org/content-public/pdf/bayside-medical-group/BMG%20handout%20hurts%20others.pdf)
 
+#### Discipline
+
+[7 Ways to Discipline Your Toddler](https://www.whattoexpect.com/toddler-discipline/consequences-for-toddlers.aspx)
+
+- Time-outs
+- Time-ins
+- Take away a toy or privilege
+- Rewards
+- Distraction
+- Ignore the behavior
+- Catch your child being good
+
 [Do's and Don'ts When Kids Won't Listen - Cleveland Clinic](https://health.clevelandclinic.org/discipline-top-dos-and-donts-when-your-kids-wont-listen/)
+
+[Can You Teach a Baby Discipline?](https://www.whattoexpect.com/baby-behavior/teaching-discipline.aspx)
 
 ## Things that shouldn't be teached to children
 
@@ -161,7 +175,6 @@ Why kicking out children after 18 years is important, let's say you are very wea
 - [7 Signs that Witnessing Unhealthy Anger in Childhood Hurts You Today - YouTube](https://www.youtube.com/watch?v=yyTfxRUu8gc)
 - [How to Encourage Independent Play in Babies and Toddlers](https://www.whattoexpect.com/playroom/playtime-tips/playing-solo.aspx)
 - [Babies and Transitional Objects](https://www.whattoexpect.com/first-year/week-44/transitional-objects.aspx)
-- [Can You Teach a Baby Discipline?](https://www.whattoexpect.com/baby-behavior/teaching-discipline.aspx)
 - [How to Help Your Child Drink From an Open Cup](https://www.whattoexpect.com/toddler/use-cup/)
 - [Best Activities for a 10-Month-Old Baby](https://www.whattoexpect.com/first-year/play-and-activities/best-activities-10-month-old-baby)
 - [10-Month-Old Baby](https://www.whattoexpect.com/first-year/month-by-month/month-10.aspx)

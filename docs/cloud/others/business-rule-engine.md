@@ -4,7 +4,7 @@ https://martinfowler.com/bliki/RulesEngine.html - Avoid building rule engine
 
 https://martinfowler.com/dslCatalog/productionRule.html
 
-Abusiness rules engineis a [software system](https://en.wikipedia.org/wiki/Software_system) that executes one or more [business rules](https://en.wikipedia.org/wiki/Business_rules) in a runtime production environment. The rules might come from legal [regulation](https://en.wikipedia.org/wiki/Regulation)("An employee can be fired for any reason or no reason but not for an illegal reason"), company policy ("All customers that spend more than $100 at one time will receive a 10% discount"), or other sources. A business rule system enables these company policies and other operational decisions to be defined, tested, executed and maintained separately from [application code](https://en.wikipedia.org/wiki/Application_code).
+A business rules engine is a [software system](https://en.wikipedia.org/wiki/Software_system) that executes one or more [business rules](https://en.wikipedia.org/wiki/Business_rules) in a runtime production environment. The rules might come from legal [regulation](https://en.wikipedia.org/wiki/Regulation)("An employee can be fired for any reason or no reason but not for an illegal reason"), company policy ("All customers that spend more than $100 at one time will receive a 10% discount"), or other sources. A business rule system enables these company policies and other operational decisions to be defined, tested, executed and maintained separately from [application code](https://en.wikipedia.org/wiki/Application_code).
 
 Rule engines typically support rules, facts, priority (score), mutual exclusion, preconditions, and other functions.
 
@@ -153,3 +153,10 @@ Finally, you have the engine itself. This is the thing that will actually perfor
 https://medium.com/swlh/how-to-design-software-rules-engines-adbb098b2d73
 
 https://github.com/venmo/business-rules
+
+## Libraries
+
+- [Rule Engine Documentation — Rule Engine 4.5.1 documentation](https://zerosteiner.github.io/rule-engine/)
+- [7 Best Python Rule Engines for Your Projects | Nected Blogs](https://www.nected.ai/blog/python-rule-engines-automate-and-enforce-with-python)
+- [business-rule-engine · PyPI](https://pypi.org/project/business-rule-engine/)
+- [Python Rule Engine: Logic Automation & Examples | by Django Stars | Medium](https://medium.com/@djangostars/python-rule-engine-logic-automation-examples-887d3210643e)

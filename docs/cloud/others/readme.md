@@ -7,6 +7,7 @@
     - [Azure Services](azure/services)
     - [Azure Commands](azure/commands)
     - [Azure IAM](cloud/others/azure/iam.md)
+    - [Microsoft BizTalk](cloud/others/azure/microsoft-biztalk.md)
 - [Linode](cloud/others/linode.md)
 - [Oracle](oracle)
 - [Firebase](firebase/readme.md)

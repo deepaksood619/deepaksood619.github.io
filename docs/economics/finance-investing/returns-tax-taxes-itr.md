@@ -377,6 +377,8 @@ An offshore account is one that is opened by a citizen outside her home country.
 - Purchase of the plot by you in your wife’s name will be treated as gift to your wife. As per the provisions of Section 64 of Income Tax Act, all the income arising on property gifted to your spouse is required to be added in your hands.
 - Any gift given to a spouse is exempt from tax. However, if the spouse has no income and the gift is an income generating asset, the income from that asset may be clubbed with the income of the spouse who gifted the asset under clubbing provisions. If both husband and wife wish to claim tax benefit for their joint investments, they may have to enter into a simple agreement bifurcating proportionate ownership for housing loan repayment to reflect in their respective tax returns.
 
+[How buying a new home can save you capital gains tax on shares, mutual funds | Mint](https://www.livemint.com/money/personal-finance/how-buying-a-new-home-can-save-you-capital-gains-tax-on-shares-mf/amp-11696266337863.html)
+
 [Taxes on ETF / Equity Mutual Funds](economics/finance-investing/stocks-equity.md)
 
 [I plan to buy house by selling shares. Can some income tax exemption be claimed? | Mint](https://www.livemint.com/money/personal-finance/i-plan-to-buy-house-by-selling-shares-can-some-income-tax-exemption-be-claimed-11648266159497.html)

@@ -71,9 +71,15 @@ Each stream record also contains the name of the table, the event timestamp, and
 
 You can use DynamoDB Streams together with AWS Lambda to create a trigger - code that executes automatically whenever an event of interest appears in a stream. For example, consider a Customers table that contains customer information for a company. Suppose that you want to send a "welcome" email to each new customer. You could enable a stream on that table, and then associate the stream with a Lambda function. The Lambda function would execute whenever a new stream record appears, but only process new items added to the Customers table. For any item that has an EmailAddress attribute, the Lambda function would invoke Amazon Simple Email Service (Amazon SES) to send an email to that address.
 
-https://aws.amazon.com/blogs/database/dynamodb-streams-use-cases-and-design-patterns
+[DynamoDB Streams Use Cases and Design Patterns | AWS Database Blog](https://aws.amazon.com/blogs/database/dynamodb-streams-use-cases-and-design-patterns)
 
-https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/HowItWorks.CoreComponents.html
+[Core components of Amazon DynamoDB - Amazon DynamoDB](https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/HowItWorks.CoreComponents.html)
+
+[Change data capture for DynamoDB Streams - Amazon DynamoDB](https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/Streams.html)
+
+[What you should know about DynamoDB Streams | DeBrie Advisory](https://www.alexdebrie.com/bites/dynamodb-streams/)
+
+[Evaluate your Streams usage - Amazon DynamoDB](https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/CostOptimization_StreamsUsage.html)
 
 ## Global Secondary Indexes Usage patterns
 

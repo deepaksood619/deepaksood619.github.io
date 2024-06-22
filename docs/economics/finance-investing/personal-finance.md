@@ -37,3 +37,4 @@ This is arguably the most important, and the most overlooked, pillar. It encapsu
 - [Can the middle-class build wealth across generations?](https://freefincal.com/can-the-middle-class-build-wealth-across-generations/)
 - [At what percentage of net worth can I stop contributing to my emergency fund?](https://freefincal.com/at-what-percentage-of-net-worth-can-i-stop-contributing-to-my-emergency-fund/)
 - [How rupee cost averaging in Mutual Funds works - The 1% News](https://news.onepercentclub.io/invest/how-rupee-cost-averaging-in-mutual-funds-works/2570/)
+- [What is Kakeibo? Discover How This Japanese Technique Helps in Managing Your Money - The 1% News](https://news.onepercentclub.io/plan/what-is-kakeibo-discover-how-this-japanese-technique-helps-in-managing-your-money/13766/)

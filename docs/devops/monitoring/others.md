@@ -217,6 +217,7 @@ https://docs.docker.com/config/containers/logging/syslog
 - [Monitor Apache Airflow With Datadog | Datadog](https://www.datadoghq.com/blog/monitor-airflow-with-datadog/)
 - [Datadog Monitoring | Datadog](https://www.datadoghq.com/dg/monitor/kafka-benefits/)
 - [Airflow](https://docs.datadoghq.com/integrations/airflow/)
+- [Monitoring in the Kubernetes Era | Datadog](https://www.datadoghq.com/blog/monitoring-kubernetes-era/)
 
 ## Others
 

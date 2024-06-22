@@ -149,31 +149,6 @@ https://github.com/janusgraph/janusgraph
 
 [https://docs.janusgraph.org](https://docs.janusgraph.org/)
 
-## tidb
-
-TiDB ("Ti" stands for Titanium) is an open-source NewSQL database that supports Hybrid Transactional and Analytical Processing (HTAP) workloads. It is MySQL compatible and features horizontal scalability, strong consistency, and high availability.
-
-![image](../../media/Databases-Others-image1.jpg)
-
-Inside the TiDB platform, the main components are as follows:
-
-- [TiDB server](https://github.com/pingcap/tidb) is a stateless SQL layer that processes users' SQL queries, accesses data in the storage layer, and returns the corresponding results to the application. It is MySQL-compatible and sits on top of TiKV.
-- [TiKV server](https://github.com/pingcap/tikv) is the distributed transactional key-value storage layer where the data persists. It uses the [Raft](https://raft.github.io/) consensus protocol for replication to ensure strong data consistency and high availability.
-- [TiSpark](https://github.com/pingcap/tispark) cluster also sits on top of TiKV. It is an Apache Spark plugin that works with the TiDB platform to support complex Online Analytical Processing (OLAP) queries for business intelligence (BI) analysts and data scientists.
-- [Placement Driver (PD) server](https://github.com/pingcap/pd) is a metadata cluster powered by [etcd](https://github.com/etcd-io/etcd) that manages and schedules TiKV.
-
-https://github.com/pingcap/tidb
-
-https://pingcap.com/success-stories/lesson-learned-from-queries-over-1.3-trillion-rows-of-data-within-milliseconds-of-response-time-at-zhihu
-
-https://dzone.com/articles/building-a-large-scale-distributed-storage-system
-
-## tikv
-
-TiKV ("Ti" stands for Titanium) is an open source distributed transactional key-value database. Unlike other traditional NoSQL systems, TiKV not only provides classical key-value APIs, but also transactional APIs with ACID compliance. Built in Rust and powered by Raft, TiKV was originally created to complement [TiDB](https://github.com/pingcap/tidb), a distributed HTAP database compatible with the MySQL protocol.
-
-https://github.com/tikv/tikv
-
 ## ObjectBox
 
 ObjectBox is a super fast database and sychronization solution, built uniquely for Mobile and IoT devices. We bring edge computing to small devices, allowing data to be stored and processed from sensor to server for reliable, fast and secure data management. ObjectBox is smaller than 1MB, so it is the ideal solution across hardware from Mobile Apps, to IoT Devices and IoT Gateways. We are the first high-performance NoSQL, ACID-compliant on-device edge database. All of our products are built with developers in mind, so they are easy to use and take minimal code to implement.

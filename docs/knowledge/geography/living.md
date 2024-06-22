@@ -74,3 +74,7 @@ Studies have pointed out that Okinawans have lower rates of age-related conditio
 - Don't Have To Be Too Physically Active
 - Running Used To Be Spiritual Habit Of Ancestors
 - Strong Foot Treat Preventive Disease - Take It Slowly
+
+## Links
+
+- [new-home-place-house](knowledge/geography/new-home-place-house.md)

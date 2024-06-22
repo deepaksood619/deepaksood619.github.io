@@ -2,15 +2,18 @@
 
 [How To identify Indian Dals | Basic Cooking Skills For Beginners | Easy Guide To Lentils & Pulses - YouTube](https://www.youtube.com/watch?v=RUmFIvs2RRA&ab_channel=RajshriFood)
 
-## Masoor daal / Red lentils
+## Masoor daal / Red lentils / Malka Masoor
 
 ![image](../../../media/Nutrition_Pulses-Daal-Lentils-image1.jpg)
 
 Masoor is probably the most commonly used daal ([lentil](https://www.thespruceeats.com/lentil-selection-and-storage-1807776)) in India. It is available whole and split and without skin.
 
+- Whole - Malka Masoor
+- Split - Dhuli Massor Daal
+
 It does not need soaking prior to cooking as it is a "soft" daal and cooks quickly.
 
-## Saabut masoor daal
+## Saabut masoor daal / Khadi masoor daal
 
 ![image](../../../media/Nutrition_Pulses-Daal-Lentils-image2.jpg)
 

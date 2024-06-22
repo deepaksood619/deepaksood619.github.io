@@ -152,6 +152,10 @@ It is possible to retrieve an instance’s IAM access key by accessing the `iam
 
 [Systems Manager Automation runbook reference - AWS Systems Manager Automation runbook reference](https://docs.aws.amazon.com/systems-manager-automation-runbooks/latest/userguide/automation-runbook-reference.html)
 
+[AWS Systems Manager Fleet Manager - AWS Systems Manager](https://docs.aws.amazon.com/systems-manager/latest/userguide/fleet.html)
+
+[AWS Systems Manager Inventory - AWS Systems Manager](https://docs.aws.amazon.com/systems-manager/latest/userguide/systems-manager-inventory.html)
+
 ### Instance Scheduler
 
 [Instance Scheduler on AWS](https://aws.amazon.com/solutions/implementations/instance-scheduler-on-aws/)
@@ -171,6 +175,12 @@ EC2 Image Builder
 ## GPU
 
 https://aws.amazon.com/ec2/instance-types/g4
+
+## Spot Instances
+
+[Spot Instances - Amazon Elastic Compute Cloud](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/using-spot-instances.html)
+
+[Best practices for EC2 Spot - Amazon Elastic Compute Cloud](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/spot-best-practices.html)
 
 ## Upgrading instance generation checklist
 
