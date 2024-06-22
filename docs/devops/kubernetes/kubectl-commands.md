@@ -358,6 +358,21 @@ annotate Update the annotations on a resource
 completion Output shell completion code for the specified shell (bash or zsh)
 ```
 
+### Patch
+
+```bash
+# remove daemonset from all nodes by adding selector
+kubectl patch daemonset metricbeat-cms-metricbeat -p '{"spec": {"template": {"spec": {"nodeSelector": {"non-existing": "true"}}}}}'
+
+# remove selector to deploy daemonset to all nodes
+kubectl -n <namespace> patch daemonset <name-of-daemon-set> --type json -p='[{"op": "remove", "path": "/spec/template/spec/nodeSelector/non-existing"}]'
+
+# https://stackoverflow.com/questions/53929693/how-to-scale-kubernetes-daemonset-to-0
+
+# patch hpa
+kubectl patch hpa cnext-backend-production-hpa -n prod --type='json' -p='[{"op": "replace", "path": "/spec/minReplicas", "value": 30}]'
+```
+
 ## Other Commands
 
 ### api-resources

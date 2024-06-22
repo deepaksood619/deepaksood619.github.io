@@ -85,3 +85,7 @@ https://pythonspeed.com/articles/gunicorn-in-docker
 https://medium.com/building-the-system/gunicorn-3-means-of-concurrency-efbb547674b7
 
 [Solving Timeout Issues in Python Django on Kubernetes - DEVOPS DONE RIGHT](https://opstree.com/blog/2024/05/28/solving-timeout-issues-in-python-django-on-kubernetes/)
+
+## Others
+
+- [GitHub - blueswen/gunicorn-monitoring: Monitor Gunicorn application (e.g. Flask) through build-in instrumentation feature using the statsD protocol over UDP with Prometheus and Grafana.](https://github.com/blueswen/gunicorn-monitoring/tree/main)

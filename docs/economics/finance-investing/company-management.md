@@ -44,3 +44,7 @@ To put it differently, a compassionate management is like building a digital moa
 
 - [The Rise & Fall of Under Armour - YouTube](https://www.youtube.com/watch?v=HeWdxezd_CU)
 - [Founder-Led Companies Outperform the Rest - Here’s Why](https://hbr.org/2016/03/founder-led-companies-outperform-the-rest-heres-why)
+
+## Others
+
+- [Forfeiture of Shares: What They Are and How They Work - INDmoney](https://www.indmoney.com/articles/stocks/forfeiture-of-shares)

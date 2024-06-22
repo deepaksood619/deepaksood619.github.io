@@ -87,3 +87,18 @@ The freeable memory includes the amount of physical memory left unused by the sy
 So it's freeable memory across the entire system. While MySQL is the main consumer of memory on the host we do have internal processes in addition to the OS that use up a small amount of additional memory.
 
 If you see your freeable memory near 0 or also start seeing swap usage then you may need to scale up to a larger instance class or adjust MySQL memory settings. For example decreasing the innodb_buffer_pool_size (by default set to 75% of physical memory) is one way example of adjusting MySQL memory settings.
+
+## Audit Logs
+
+[Publishing Amazon Aurora MySQL logs to Amazon CloudWatch Logs - Amazon Aurora](https://docs.aws.amazon.com/AmazonRDS/latest/AuroraUserGuide/AuroraMySQL.Integrating.CloudWatch.html)
+
+[Turn on audit logging for an Amazon Aurora MySQL DB cluster | AWS re:Post](https://repost.aws/knowledge-center/advanced-audit-aurora-mysql-cloudwatch)
+
+- server_audit_logs_upload
+- server_audit_events
+- server_audit_incl_users
+- server_audit_excl_users - Wildcard - %test%
+
+[Using Advanced Auditing with an Amazon Aurora MySQL DB cluster - Amazon Aurora](https://docs.aws.amazon.com/AmazonRDS/latest/AuroraUserGuide/AuroraMySQL.Auditing.html)
+
+[Configuring an audit log to capture database activities for Amazon RDS for MySQL and Amazon Aurora with MySQL compatibility | AWS Database Blog](https://aws.amazon.com/blogs/database/configuring-an-audit-log-to-capture-database-activities-for-amazon-rds-for-mysql-and-amazon-aurora-with-mysql-compatibility/)

@@ -79,3 +79,5 @@ nomen est omen - true to its name - the name is a sign - [Nominative determinism
 Sleep to death
 
 Bellum omnium contra omnes (the war of all against all)
+
+Monkey see, monkey do

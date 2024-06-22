@@ -45,3 +45,7 @@ Stream processing
 ## HTAP - Hybrid Transaction + Analytical Processing
 
 OLTP + OLAP together on the same database instance
+
+- TiDB
+
+[Hybrid transactional/analytical processing - Wikipedia](https://en.wikipedia.org/wiki/Hybrid_transactional/analytical_processing)
