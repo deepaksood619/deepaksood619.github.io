@@ -287,6 +287,7 @@ Lawyer / law - central knowledge base and marketplace
 6. Ratings of lawyer
 7. Legal services
 
-## Internal Links
+## Links
 
 - [The Grid](../../book-summaries/the-grid)
+- [Top 100 Startup Ideas from Top 100 Entrepreneurs/VCs/Hackers! - YouTube](https://www.youtube.com/watch?v=XiXLti_Y_is&ab_channel=Breakdown)

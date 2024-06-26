@@ -7,4 +7,5 @@ Every DynamoDB table is associated with a table class (DynamoDB Standard by defa
 [Table classes - Amazon DynamoDB](https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/HowItWorks.TableClasses.html)
 
 [Amazon DynamoDB Standard-IA](https://aws.amazon.com/dynamodb/standard-ia/)
+
 - Reduce costs by up to 60% for infrequently accessed data

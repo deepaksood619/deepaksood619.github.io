@@ -98,6 +98,7 @@ Moving from information to knowledge age
     - [Open source LLM observability, analytics, prompt management, evaluations, tests, monitoring, logging, tracing, LLMOps. Langfuse: the LLM engineering platform. Debug, analyze and iterate together](https://github.com/langfuse/langfuse)
 - [DaLMatian](https://www.dalmatian.ai/)
 - [DataGPT - Conversational AI Data Analyst](https://datagpt.com/)
+- [tl;dv.io | AI Meeting Notetaker for Zoom, Google Meet & MS Teams](https://tldv.io/)
 
 ![ai-tools](../../media/image.png)
 

@@ -11,4 +11,5 @@
 - [Gestalt Principles](gestalt-principles)
 - [Web Vitals](web-vitals)
 - [Performance](frontend/frontend-intro/performance.md)
+- [PWA](frontend/frontend-intro/pwa.md)
 - [Others](frontend/frontend-intro/others.md)
