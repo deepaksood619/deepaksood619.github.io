@@ -44,6 +44,11 @@
 - [**pydistcheck**](https://github.com/jameslamb/pydistcheck) - Linter that finds portability issues in Python package distributions (wheels and sdists).
 - [**pyxet**](https://github.com/xetdata/pyxet) - lightweight interface for the XetHub platform, a blob-store with a filesystem like interface and git capabilities.
 
+### Code Review
+
+- [GitHub - luiyen/llm-code-review: A container GitHub Action to review a pull request by HuggingFace's LLM Model.](https://github.com/luiyen/llm-code-review)
+- [Revolutionizing Code Review with Large Language Models: A Deep Dive into code2prompt and its Peers | by Pınar Ersoy | ANOLYTICS | Jun, 2024 | Medium](https://medium.com/anolytics/revolutionizing-code-review-with-large-language-models-a-deep-dive-into-code2prompt-and-its-peers-fa8213b47cfd)
+
 ### Computer vision
 
 - [**deepdoctection**](https://github.com/deepdoctection/deepdoctection) - orchestrates document extraction and document layout analysis tasks using deep learning models.

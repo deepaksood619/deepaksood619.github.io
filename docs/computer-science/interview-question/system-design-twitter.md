@@ -6,6 +6,8 @@
 
 ![image](../../media/System-Design-Twitter-image1.jpg)
 
+![Twitter Architecture 2022](../../media/Screenshot%202024-06-26%20at%204.16.42%20PM.jpg)
+
 ## Core Features
 
 1. Tweeting

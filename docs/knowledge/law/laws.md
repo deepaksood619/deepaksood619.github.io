@@ -34,6 +34,17 @@ The **Digital Millennium Copyright Act** (**DMCA**) is a 1998 United States [
 
 [Digital Millennium Copyright Act - Wikipedia](https://en.wikipedia.org/wiki/Digital_Millennium_Copyright_Act)
 
+## Rule of Law
+
+[Will Hinduja Family Members Really Go To Jail? | What ‘Rule Of Law’ Looks Like!! | Akash Banerjee - YouTube](https://www.youtube.com/watch?v=xkODDLCzDGY&ab_channel=TheDeshbhakt)
+
+- Accountability
+- Just law
+- Open government
+- Accessible and impartial justice
+- World justice project
+- Rule of law index
+
 ## Links
 
 [Best Judgments of 2022](https://www.youtube.com/watch?v=zfEf53ghkV0)

@@ -4,6 +4,21 @@
 2. Diversity among humans will decrease, and everything will become standardized
 3. Travelling will reduce among western countries due to high temperature and climate change negative effects. People will be in home more and in-home entertainment and software will soar.
 4. Future the land prices in highly dense environment will go down because people will start moving to rural areas when flying taxis are invented. People's range while traveling will increase given the same amount of time, from current 10 kms in a car to 100 kms in a flying taxi in same 10 mins.
+5. Robotics, AI and flying taxis will significantly change the world, so it's better to move out of India, after babies since a huge population will be a bane instead of boom
+
+## Disrupters
+
+- Robotics
+- AI
+- Flying taxis (VTOL)
+- Climate Change
+- Blockchain
+- Long life
+- Government Need / Government Requirement
+   	- Decentralization / democratization - passive homes - energy independence - super efficient solar cells / small scale wind farms
+   	- Water - rain water harvesting
+   	- Roads / public transport - personal air vehicle- VTOL
+   	- Law and order - security from other humans - Everyone has everything
 
 ## Thoughts
 

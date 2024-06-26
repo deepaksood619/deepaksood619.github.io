@@ -85,12 +85,13 @@ https://zolostays.com/blog/cities-with-best-weather-in-india
 - [4,300 millionaires may leave India this year. Here's where they are moving to](https://economictimes.indiatimes.com/nri/migrate/4300-millionaires-may-leave-india-this-year-heres-where-they-are-moving-to/articleshow/111109899.cms)
    	- UAE (Land Ownership)
 - Top 5 affordable countries where Indians can buy citizenship
-	- ​Dominica - Rs 76,46,000​
-	- ​St. Lucia - Rs 76,46,000​
-	- ​Grenada - Rs 1,14,69,000​
-	- ​Antigua and Barbuda - Rs 76,46,000​
-	- Vanuatu - Rs 91,05,000
+   	- ​Dominica - Rs 76,46,000​
+   	- ​St. Lucia - Rs 76,46,000​
+   	- ​Grenada - Rs 1,14,69,000​
+   	- ​Antigua and Barbuda - Rs 76,46,000​
+   	- Vanuatu - Rs 91,05,000
 ​
+
 #### Metrics
 
 - Population Density
@@ -280,6 +281,7 @@ https://www.youtube.com/watch?v=dy81ldYQdgY
 ### Links
 
 - [Buildofy - YouTube](https://www.youtube.com/@buildofy)
+- [NEVER TOO SMALL: Self Taught Interior Designer’s Apartment, Hong Kong - 48sqm/516sqft - YouTube](https://www.youtube.com/watch?v=5pvNYrOUTtM&ab_channel=NEVERTOOSMALL)
 
 ## Buying vs Renting Home
 

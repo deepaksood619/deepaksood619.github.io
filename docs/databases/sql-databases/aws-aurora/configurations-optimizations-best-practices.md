@@ -235,6 +235,11 @@ https://docs.aws.amazon.com/AmazonRDS/latest/AuroraUserGuide/USER_WorkingWithPar
 
 https://docs.aws.amazon.com/AmazonRDS/latest/AuroraUserGuide/AuroraMySQL.Reference.html
 
+### Others
+
+- require_secure_transport
+- mysqlx_max_connections
+
 ### Instance Types
 
 - **db.r7g instances**

@@ -102,17 +102,6 @@ https://www.toptal.com/front-end/client-side-vs-server-side-pre-rendering
 - Xamarin - Build native mobile apps with C#
 - [Dioxus | An elegant GUI library for Rust](https://dioxuslabs.com/)
 
-## PWA: Progressive Web Apps
-
-- Look great on all screen sizes
-- Offline content with service workers
-- Installable
-- Splash Screen
-- Must be HTTPS
-- Reliable, fast and engaging
-
-https://www.pwabuilder.com
-
 ## Desktop Apps with Electron
 
 Electron allows us to cross-platform desktop applications with Javascript

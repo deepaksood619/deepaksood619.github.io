@@ -136,6 +136,12 @@ Also RDS RI purchased in one account can be used in another account if RI sharin
 - [GitHub - hystax/optscale: FinOps and cloud cost optimization tool. Supports AWS, Azure, GCP, Alibaba Cloud and Kubernetes.](https://github.com/hystax/optscale)
 - [Economize Cloud – Cloud Cost Optimization Software](https://www.economize.cloud/)
 
+## Wrong Costs
+
+![AWS Wrong Costs](../../media/Screenshot%202024-06-24%20at%208.03.33%20PM.jpg)
+
+![AWS Wrong Data Transfer Costs](../../media/Screenshot%202024-06-22%20at%2010.52.14%20PM.jpg)
+
 ## Links
 
 - [Aurora - configurations-optimizations-best-practices](databases/sql-databases/aws-aurora/configurations-optimizations-best-practices.md)

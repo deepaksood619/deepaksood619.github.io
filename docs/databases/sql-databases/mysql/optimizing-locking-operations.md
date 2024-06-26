@@ -49,6 +49,18 @@ Mysql innodb engine performs row locking on inserts. If column A has a unique ke
 
 ## Different Locks
 
+1. **Shared Lock (S Lock) -** It allows multiple transactions to read a resource simultaneously but not modify it. Other transactions can also acquire a shared lock on the same resource.
+2. **Exclusive Lock (X Lock) -** It allows a transaction to both read and modify a resource. No other transaction can acquire any type of lock on the same resource while an exclusive lock is held.
+3. **Update Lock (U Lock) -** It is used to prevent a deadlock scenario when a transaction intends to update a resource.
+4. **Schema Lock -** It is used to protect the structure of database objects.
+5. **Bulk Update Lock (BU Lock) -** It is used during bulk insert operations to improve performance by reducing the number of locks required.
+6. **Key-Range Lock -** It is used in indexed data to prevent phantom reads (inserting new rows into a range that a transaction has already read).
+7. **Row-Level Lock -** It locks a specific row in a table, allowing other rows to be accessed concurrently.
+8. **Page-Level Lock -** It locks a specific page (a fixed-size block of data) in the database.
+9. **Table-Level Lock -** It locks an entire table. This is simple to implement but can reduce concurrency significantly.
+
+![Types of database locks](../../../media/Pasted%20image%2020240626161909.png)
+
 ### Row Locks
 
 InnoDB uses row-level locking for `DELETE` operations. This means that all rows that match the condition `id < 391919930` will be locked until the transaction is complete. Row locks prevent other transactions from modifying or deleting these rows until the current transaction is finished.
@@ -126,6 +138,14 @@ While InnoDB primarily uses row-level locking, there can also be implicit table-
 
 - **Range Lock**: Ensures that the range of index entries remains consistent, used in scenarios where the exact range of rows needs to be locked.
 - **Gap Lock**: Ensures that no new rows can be inserted into the gaps, used to prevent phantom reads and ensure repeatable reads.
+
+## Lock Errors
+
+### Waiting for metadata lock
+
+[Pitfalls of Metadata Locking During DDL Execution in Production](https://www.linkedin.com/pulse/pitfalls-metadata-locking-during-ddl-execution-pranav-pandey/)
+
+[MySQL :: MySQL 8.0 Reference Manual :: 29.12.13.3 The metadata\_locks Table](https://dev.mysql.com/doc/refman/8.0/en/performance-schema-metadata-locks-table.html)
 
 ## Links
 

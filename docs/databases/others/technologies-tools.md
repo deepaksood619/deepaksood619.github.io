@@ -83,3 +83,7 @@ Jepsen is an effort to improve the safety of distributed databases, queues, cons
 ## Others
 
 [GitHub - harelba/q: q - Run SQL directly on delimited files and multi-file sqlite databases](https://github.com/harelba/q)
+
+[Rapydo | Cloud Database Automation](https://www.rapydo.io/)
+
+[Cloud Data Management Solution, AWS Backup and Recovery | NIMESA](https://nimesa.io/)

@@ -134,3 +134,4 @@ Gitleaks is a SAST tool for **detecting** and **preventing** hardcoded secre
 
 - [SOC 2, HIPAA, ISO 27001, PCI, and GDPR Compliance](https://www.vanta.com/)
 - [Home - Sprinto - Continuous Security & Compliance Platform - Sprinto](https://sprinto.com/)
+- [Scrut Automation - Simplified continuous compliance automation](https://www.scrut.io/)
