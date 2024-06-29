@@ -4,6 +4,8 @@ RDS - [Best practices for configuring parameters for Amazon RDS for MySQL, part 
 
 Binlog - [Configuring Aurora MySQL binary logging - Amazon Aurora](https://docs.aws.amazon.com/AmazonRDS/latest/AuroraUserGuide/USER_LogAccess.MySQL.BinaryFormat.html)
 
+- [Schedule Amazon RDS MySQL DB instance binlog file uploads to Amazon S3 | AWS re:Post](https://repost.aws/knowledge-center/rds-mysql-schedule-binlog-uploads)
+
 ### Database Configuration
 
 There are two types of Aurora MySQL parameter groups: DB parameter groups and DB cluster parameter groups. Some parameters affect the configuration for an entire DB cluster, like binary log format, time zone, and character set defaults. Others limit their scope to a single DB instance.
@@ -30,6 +32,14 @@ There are two types of Aurora MySQL parameter groups: DB parameter groups and DB
 - server_audit_events
 - server_audit_excl_users - Wildcard - %test%
 - server_audit_incl_users
+
+## Commands
+
+```sql
+call mysql.rds_show_configuration;
+
+call mysql.rds_set_configuration('binlog retention hours', 24);
+```
 
 ## Recommendations and impact
 

@@ -312,6 +312,43 @@ https://www.quora.com/Is-corn-flour-same-as-makke-maize-ka-ata
 | Wheat                   | Gehoon                                                     |
 | Whole Wheat Flour       | Gehoon aata                                                |
 
+## Oils
+
+### Processing
+
+- Cold pressed oil = kacchi ghani
+- Raw/virgin oil
+- Refined oil
+
+### Types
+
+- Extra virgin olive oil
+- Rice bran oil
+- Soyabean oil
+- Sunflower oil
+- Corn oil
+- canola oil
+- Mustard oil
+   	- [Explained: Why consumption of mustard oil is banned in the US and Europe](https://timesofindia.indiatimes.com/life-style/food-news/explained-why-consumption-of-mustard-oil-is-banned-in-the-us-and-europe/articleshow/111333738.cms)
+   	- [​The mustard oil mystery: Why is it banned in the US and Europe?](https://timesofindia.indiatimes.com/life-style/health-fitness/health-news/the-mustard-oil-mystery-why-is-it-banned-in-the-us-and-europe/photostory/106086699.cms)
+- Avocado oil
+- Sesame oil
+- Coconut oil
+- Groundnut oil
+- Palm oil
+- Ghee
+
+### Oils to Avoid
+
+- Fish or algae oil
+- Flax oil
+- Palm oil
+- Walnut oil
+
+[4 Healthy Cooking Oils (and 4 to Avoid)](https://www.healthline.com/nutrition/best-cooking-oils)
+
+[Healthiest Cooking Oils: Which Is Best? – Forbes Health](https://www.forbes.com/health/nutrition/healthiest-cooking-oils/)
+
 ## Utensils
 
 [The pan you don't have (but should)](https://www.youtube.com/watch?v=yX4hXnyfozo)

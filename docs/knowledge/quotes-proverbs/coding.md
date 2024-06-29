@@ -374,3 +374,5 @@ You can either code fast or produce fast code. You cannot do both. -- Hussein Na
 5. **Director:** "This fertilizer will enhance our productivity."
 6. **Vice President:** "This is the key to our success."
 7. **CEO:** "This is good."
+
+Adding manpower to a late software project makes it later -- Fred Brooks, Mythical Man Month

@@ -24,11 +24,15 @@ Educate, agitate, organize -- Dr. B.r. Ambedkar
 
 [Democracy Lab | TED-Ed](https://ed.ted.com/democracy-lab)
 
-#### Links
+#### Indian Democracy
 
+- [After Modi's great victory in the 2019 election, what is your message for Modi followers? - Quora](https://www.quora.com/After-Modis-great-victory-in-the-2019-election-what-is-your-message-for-Modi-followers)
 - [Is India becoming a DICTATORSHIP? | Chandigarh Elections | Farmers Protest | Dhruv Rathee - YouTube](https://www.youtube.com/watch?v=Y9253_M38Xk&ab_channel=DhruvRathee)
 - [Is Modi a dictator? | Dhruv Rathee vs The World - YouTube](https://www.youtube.com/watch?v=DnzM1cnRZPc&ab_channel=meghnerd)
 - [किसको चाहिए डिक्टेटर? कद्दू समझ रखा है? | Who wants Dictatorship in India?? - YouTube](https://www.youtube.com/watch?v=U68aORo533I&ab_channel=RavishKumarOfficial)
+
+#### Links
+
 - [The Age of The Strongman: How the Cult of the Leader Threatens Democracy around the World eBook : Rachman, Gideon](https://www.amazon.in/Age-Strongman-Leader-Threatens-Democracy-ebook/dp/B09HJZNQ5R)
 - [How Dictatorships Work: Power, Personalization, and Collapse, Geddes, Barbara, Wright, Joseph, Frantz, Erica](https://www.amazon.com/How-Dictatorships-Work-Personalization-Collapse/dp/1107115825#:~:text=Importantly%2C%20this%20book%20explains%20how,the%20rest%20of%20the%20world.)
 - [How to Be a Dictator: The Cult of Personality in the Twentieth Century : Dikötter, Frank](https://www.amazon.in/How-Be-Dictator-Personality-Twentieth/dp/1635573793)

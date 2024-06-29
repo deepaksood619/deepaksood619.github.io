@@ -28,6 +28,7 @@ DAM stands for Database Activity Monitoring, referring to any solution that is u
 
 Aurora - [Amazon Aurora Enables Database Activity Monitoring with CloudWatch Logs](https://aws.amazon.com/about-aws/whats-new/2017/09/amazon-aurora-enables-database-activity-monitoring-with-cloudwatch-logs/)
 
+- [Build proactive database monitoring for Amazon RDS with Amazon CloudWatch Logs, AWS Lambda, and Amazon SNS | AWS Database Blog](https://aws.amazon.com/blogs/database/build-proactive-database-monitoring-for-amazon-rds-with-amazon-cloudwatch-logs-aws-lambda-and-amazon-sns/)
 - [Monitoring MySQL-compatible edition of Amazon Aurora Audit Events with Amazon CloudWatch | AWS Database Blog](https://aws.amazon.com/blogs/database/monitoring-amazon-aurora-audit-events-with-amazon-cloudwatch/)
 - [how can i enable Database active monitoring (DAM) on RDS postgresql | AWS re:Post](https://repost.aws/questions/QUgtKfclpwSumFcvCv9aZ8Hg/how-can-i-enable-database-active-monitoring-dam-on-rds-postgresql)
 

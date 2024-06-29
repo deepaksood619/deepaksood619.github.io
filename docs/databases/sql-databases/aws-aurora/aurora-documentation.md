@@ -126,18 +126,48 @@ https://aws.amazon.com/blogs/aws/new-parallel-query-for-amazon-aurora
 ## Cloning Database
 
 Using database cloning, you can quickly and cost-effectively create clones of all of the databases within an Aurora DB cluster. The clone databases require only minimal additional space when first created.
-Database cloning uses acopy-on-write protocol, in which data is copied at the time that data changes, either on the source databases or the clone databases. You can make multiple clones from the same DB cluster. You can also create additional clones from other clones. For more information on how the copy-on-write protocol works in the context of Aurora storage, see [Copy-on-Write Protocol for Database Cloning](https://docs.aws.amazon.com/AmazonRDS/latest/AuroraUserGuide/Aurora.Managing.Clone.html#Aurora.Managing.Clone.Protocol).
+
+Database cloning uses a copy-on-write protocol, in which data is copied at the time that data changes, either on the source databases or the clone databases. You can make multiple clones from the same DB cluster. You can also create additional clones from other clones. For more information on how the copy-on-write protocol works in the context of Aurora storage, see [Copy-on-Write Protocol for Database Cloning](https://docs.aws.amazon.com/AmazonRDS/latest/AuroraUserGuide/Aurora.Managing.Clone.html#Aurora.Managing.Clone.Protocol).
 
 https://docs.aws.amazon.com/AmazonRDS/latest/AuroraUserGuide/Aurora.Managing.Clone.html
 
 ## Backtracking an Amazon Aurora DB
 
 Backtracking lets you rewind the Aurora DB cluster to the time you specify. With backtracking enabled, Aurora keeps a record of changes to your database and allows you to switch to a previous consistent state. With this feature you can easily undo mistakes. For example, if by accident you perform a destructive action, such as a DELETE without a WHERE clause, you can quickly backtrack to a state before the accident. Unlike restoring from a snapshot or automated backup - a slower operation, backtracking lets you move back and forth in time in a matter of minutes.
+
 Backtracking is not a replacement for backing up your DB cluster so that you can restore it to a point in time.
 
-https://docs.aws.amazon.com/AmazonRDS/latest/AuroraUserGuide/AuroraMySQL.Managing.Backtrack.html
+### Backtracking limitations
 
-https://aws.amazon.com/getting-started/tutorials/aurora-cloning-backtracking
+- Backtracking is only available for DB clusters that were created with the Backtrack feature enabled. You can't modify a DB cluster to enable the Backtrack feature. You can enable the Backtrack feature when you create a new DB cluster or restore a snapshot of a DB cluster.
+- The limit for a backtrack window is 72 hours.
+- Backtracking affects the entire DB cluster. For example, you can't selectively backtrack a single table or a single data update.
+- You can't create cross-Region read replicas from a backtrack-enabled cluster, but you can still enable binary log (binlog) replication on the cluster. If you try to backtrack a DB cluster for which binary logging is enabled, an error typically occurs unless you choose to force the backtrack. Any attempts to force a backtrack will break downstream read replicas and interfere with other operations such as blue/green deployments.
+- You can't backtrack a database clone to a time before that database clone was created. However, you can use the original database to backtrack to a time before the clone was created. For more information about database cloning, see [Cloning a volume for an Amazon Aurora DB cluster](https://docs.aws.amazon.com/AmazonRDS/latest/AuroraUserGuide/Aurora.Managing.Clone.html).
+- Backtracking causes a brief DB instance disruption. You must stop or pause your applications before starting a backtrack operation to ensure that there are no new read or write requests. During the backtrack operation, Aurora pauses the database, closes any open connections, and drops any uncommitted reads and writes. It then waits for the backtrack operation to complete.
+- You can't restore a cross-Region snapshot of a backtrack-enabled cluster in an AWS Region that doesn't support backtracking.
+- If you perform an in-place upgrade for a backtrack-enabled cluster from Aurora MySQL version 2 to version 3, you can't backtrack to a point in time before the upgrade happened.
+
+[Backtracking an Aurora DB cluster - Amazon Aurora](https://docs.aws.amazon.com/AmazonRDS/latest/AuroraUserGuide/AuroraMySQL.Managing.Backtrack.html)
+
+[Workshop Studio](https://aws.amazon.com/getting-started/tutorials/aurora-cloning-backtracking)
+
+[Amazon Aurora Backtrack – Turn Back Time | AWS News Blog](https://aws.amazon.com/blogs/aws/amazon-aurora-backtrack-turn-back-time/)
+
+### Backtracking vs PITR
+
+| Feature                   | Aurora Backtrack                       | Point-in-Time Recovery (PITR)            |
+| ------------------------- | -------------------------------------- | ---------------------------------------- |
+| **Recovery Speed**        | Instantaneous                          | May take longer (depends on backup size) |
+| **Database Availability** | Remains available during backtrack     | Requires creating a new DB cluster       |
+| **Retention Period**      | Up to 72 hours                         | Up to 35 days                            |
+| **Granularity**           | Per second within the backtrack window | Per second within the retention period   |
+| **Cost**                  | Additional cost for backtrack logs     | Standard backup storage cost             |
+| **Use Case**              | Quick recovery from recent changes     | Recovery from significant data loss      |
+| **Implementation**        | Does not create a new cluster          | Creates a new cluster                    |
+
+- **Aurora Backtrack** is ideal for quick recovery from recent, small-scale data issues without downtime.
+- **PITR** is suitable for recovering from major incidents or data corruption, even if they occurred several days ago, but requires downtime to create a new cluster.
 
 ## RDS Blue Green Deployments
 

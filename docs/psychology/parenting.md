@@ -157,6 +157,11 @@ Why kicking out children after 18 years is important, let's say you are very wea
 
 [Facts About Diapers - Which one is suitable for your baby: Tape diapers or Pant diapers?](https://babylove.co.th/en/diaper-tips/tape-or-pant-diapers)
 
+### Youtube
+
+- [Emma Hubbard - YouTube](https://www.youtube.com/@EmmaHubbard)
+- [potty training - YouTube](https://www.youtube.com/playlist?list=PLEPQYw7MIUjbysDVfRhyFJCTv2X9JhaUI)
+
 ### Toddler
 
 - Food Strike - [Why Toddlers Refuse to Eat and What to Do](https://www.whattoexpect.com/toddler/behavior/food-strikes.aspx)

@@ -7,6 +7,7 @@
         - [Gross Domestic Product (GDP)](gross-domestic-product-gdp)
     - [Microeconomics](mental-models/microeconomics)
     - [Inequality](economics/mental-models/inequality.md)
+    - [Rankings](economics/mental-models/rankings.md)
 - [Finance / Investing](economics/finance-investing/readme.md)
 - [Government Terms](government-terms)
     - [Inflation Indexes](economics/inflation-indexes.md)

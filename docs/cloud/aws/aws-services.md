@@ -57,6 +57,8 @@ fields *@timestamp*, *@message* | filter *@message* like /(?i)(connect)/ # | fil
 
 [Determine which log group is causing a bill increase | AWS re:Post](https://repost.aws/knowledge-center/cloudwatch-logs-bill-increase)
 
+[Optimizing Amazon CloudWatch Costs in Under 5 Minutes (Step-by-Step Guide) - YouTube](https://www.youtube.com/watch?v=FuHJu58n0Zk&ab_channel=AWSDevelopers)
+
 #### Composite Alarms
 
 [Combining alarms - Amazon CloudWatch](https://docs.aws.amazon.com/AmazonCloudWatch/latest/monitoring/Create_Composite_Alarm.html)
