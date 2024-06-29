@@ -3,6 +3,7 @@
 - [IPO](economics/market-terms/ipo.md)
 - [Technical Analysis](economics/market-terms/technical-analysis.md)
 - [Technical Indicators](economics/market-terms/technical-indicators.md)
+- [Fundamental Analysis](economics/market-terms/fundamental-analysis.md)
 - [Valuation Metrics](economics/market-terms/valuation-metrics.md)
 - [Futures / Options / Trading](economics/market-terms/futures-options-trading.md)
 - [Wyckoff Method](economics/market-terms/wyckoff-method.md)

@@ -121,6 +121,7 @@ https://zolostays.com/blog/cities-with-best-weather-in-india
 - Natural Disaster area - earthquake, tsunami, hurricane, flood, drought, etc
    	-  Global Seismic Hazard Map
 - **Don't buy a house more than 50 lakhs in India (1 crore house in america gives you a condo)**
+   	- In $300,000 (2.5 crore) you can get a 5 bedroom condo
 - Buy home from bank auctions - [auction property: Is it safe to buy auction property? Six things a buyer need to keep in mind - The Economic Times](https://economictimes.indiatimes.com/wealth/real-estate/is-it-safe-to-buy-auction-property-six-things-a-buyer-need-to-keep-in-mind/articleshow/103044435.cms)
 - Loan - aavas financiers
 - Property Tax
@@ -242,46 +243,7 @@ https://freefincal.com/when-should-i-get-a-home-loan-how-to-decide-this
 - [Why are Top Floor Apartments More Expensive? | Boom | Boom](https://www.boompay.app/post/why-top-floor-units-more-expensive)
 - Asian paints smart care damp proof
 
-### Passive House
-
-[Wow! I Didn’t Know A Prebuilt House Could Do This](https://www.youtube.com/watch?v=y3NVDqH39CE)
-
-[I Made A Mistake Building My New Net Zero Home - YouTube](https://www.youtube.com/watch?v=SSN-np71d0Q)
-
 [Should you buy home? | Property investment in India - Future expectations | NIRANJAN HIRANANDANI | - YouTube](https://www.youtube.com/watch?v=FnrbjPvLTXg)
-
-## Building
-
-[Glass Types - Know The Different Types of Window Glass & Their Uses | AIS Glass](https://www.aisglass.com/preferred-window-glass-types-indian-homes/)
-
-[Should you use toughened glass or laminated glass for a glass balcony?](https://www.glasxperts.com/better-option-glass-balcony-toughened-glass-laminated-glass/)
-
-gypsum wall partition
-
-[Different Types of Partition Walls || Aluminium, wood, Gypsum Board, Tuffen Glass Partition - YouTube](https://www.youtube.com/watch?v=0YImmTW2sXU&ab_channel=InsideInterior)
-
-https://www.youtube.com/watch?v=dy81ldYQdgY
-
-- Coohome
-- Sweet home
-
-![image](../../media/Personality-Life-Lessons-Buying-Guide-Travelling-Shopping-image1.jpg)
-
-### Things to keep in mind
-
-- Railings should be glass and big, so that babies cannot fall through
-- Baby safe home building atleast for 2nd floor
-
-### Good homes
-
-- [₹1.56 Cr ▷ 4 BHK 🔥 Luxury GOLD Class 😍 Sample Flat (3400 sqft) ► Sushma Belleza, Zirakpur Chandigarh - YouTube](https://www.youtube.com/watch?v=xRNoFFSL5KI&ab_channel=Zricks.comZricks.comVerified)
-- [Inside One of Frank Lloyd Wright’s Final-Ever Designs | Unique Spaces | Architectural Digest - YouTube](https://www.youtube.com/watch?v=6L7NnZWeW-s)
-- [P R Sundar's Luxury Penthouse Tour!](https://www.youtube.com/watch?v=Y52kD7RIIuY)
-
-### Links
-
-- [Buildofy - YouTube](https://www.youtube.com/@buildofy)
-- [NEVER TOO SMALL: Self Taught Interior Designer’s Apartment, Hong Kong - 48sqm/516sqft - YouTube](https://www.youtube.com/watch?v=5pvNYrOUTtM&ab_channel=NEVERTOOSMALL)
 
 ## Buying vs Renting Home
 

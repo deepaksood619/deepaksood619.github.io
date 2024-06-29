@@ -477,3 +477,5 @@ And that misconception is called the broken window fallacy.
 [21 Mind Traps : The Ultimate Guide to your most common Thinking errors - YouTube](https://www.youtube.com/watch?v=nYYkRaU0xh8)
 
 [21 Mind Traps : The Ultimate Guide to your most common Thinking errors (Part II) - YouTube](https://www.youtube.com/watch?v=6G1F1KVeiNA)
+
+[Why People Prefer More Pain - YouTube](https://www.youtube.com/watch?v=v4r71kEdYME&ab_channel=Veritasium)

@@ -146,6 +146,7 @@
 
 - [Foodpharmer - YouTube](https://www.youtube.com/@Foodpharmer)
 - Minutefood
+- [Ajit Singh Bhatnagar - Quora](https://www.quora.com/profile/Ajit-Singh-Bhatnagar)
 
 ### News
 
@@ -178,6 +179,9 @@
 - The daily show with Trevor noah
 - Ravish Kumar Official
 - [The Deshbhakt - YouTube](https://www.youtube.com/@thedeshbhakt)
+- [Abhisar Sharma - YouTube](https://www.youtube.com/@Abhisar_Sharma)
+- [DB Live - YouTube](https://www.youtube.com/@DBLive)
+- [4PM - YouTube](https://www.youtube.com/@4PMNewsNetwork)
 
 ### Tech
 
