@@ -140,6 +140,27 @@ https://www.freecodecamp.org/news/what-is-a-proxy-server-in-english-please
 - A [reverse proxy](https://www.nginx.com/resources/glossary/reverse-proxy-server) accepts a request from a client, forwards it to a server that can fulfill it, and returns the server's response to the client.
 - A [load balancer](https://www.nginx.com/resources/glossary/load-balancing) distributes incoming client requests among a group of servers, in each case returning the response from the selected server to the appropriate client.
 
+## Forward Proxy vs Reverse Proxy
+
+A forward proxy is a server that sits between user devices and the internet.
+
+A forward proxy is commonly used for:
+
+1. Protect clients
+2. Avoid browsing restrictions
+3. Block access to certain content
+
+A reverse proxy is a server that accepts a request from the client, forwards the request to web servers, and returns the results to the client as if the proxy server had processed the request.
+
+A reverse proxy is good for:
+
+1. Protect servers
+2. Load balancing
+3. Cache static contents
+4. Encrypt and decrypt SSL communications
+
+![Forward proxy vs reverse proxy](../../media/Pasted%20image%2020240705001243.png)
+
 ## Links
 
 [Load Balancer](devops/devops-intro/load-balancer.md)

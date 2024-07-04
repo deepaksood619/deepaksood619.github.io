@@ -374,7 +374,7 @@ F 141:0 s3_upload - A (1)
 C 77:0 ExistsStrategy - A (1)
 ```
 
-The first letter shows thetype of block(F for function, C for class). Then radon gives theline number, thenameof the class/function, agrade(A, B, C, D, E, or F), and the actualcomplexity as a number. Typically, a complexity below 10 is ok.[The most complex part of scipy](https://github.com/scipy/scipy/blob/master/scipy/sparse/linalg/eigen/lobpcg/lobpcg.py#L127) has a complexity of 61.
+The first letter shows the type of block (F for function, C for class). Then radon gives theline number, thenameof the class/function, agrade(A, B, C, D, E, or F), and the actualcomplexity as a number. Typically, a complexity below 10 is ok.[The most complex part of scipy](https://github.com/scipy/scipy/blob/master/scipy/sparse/linalg/eigen/lobpcg/lobpcg.py#L127) has a complexity of 61.
 
 Besides radon, there are various other packages and Flake8 plugins:
 
@@ -383,6 +383,7 @@ Besides radon, there are various other packages and Flake8 plugins:
 - [flake8-expression-complexity](https://pypi.org/project/flake8-expression-complexity/): Make sure that single expressions are not too complicated; similar to cyclomatic complexity for functions / classes.
 - [flake8-functions](https://pypi.org/project/flake8-functions/): Report too long functions and functions with too many arguments
 - [mccabe](https://pypi.org/project/mccabe/): This is used by a couple of other tools and projects
+   	- [GitHub - PyCQA/mccabe: McCabe complexity checker for Python](https://github.com/PyCQA/mccabe)
 - [wily](https://pypi.org/project/wily/): A command-line application for tracking, reporting on the complexity of Python tests and applications.
 - [xenon](https://pypi.org/project/xenon/): Relies on radon
 

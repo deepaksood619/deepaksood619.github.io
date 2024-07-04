@@ -129,7 +129,7 @@ https://blog.opstree.com/2020/06/30/cache-using-cloudflare-workers-cache-api
 
 ## Amazon CloudFront
 
-Amazon CloudFront is a global Content Delivery Network (CDN) service which securely delivers website'sdynamic, static, and streaming contentby making it available from a global network of edge locations. Amazon CloudFront supports all types of files that can be served overHTTP.
+Amazon CloudFront is a global Content Delivery Network (CDN) service which securely delivers website's dynamic, static, and streaming content by making it available from a global network of edge locations. Amazon CloudFront supports all types of files that can be served overHTTP.
 
 ### Usage
 
@@ -145,13 +145,17 @@ Amazon CloudFront supports all files that can be served over HTTP. These files i
 
 ### Durability & availability
 
-Since CloudFront is anedge cache, Amazon CloudFront does not provide durable storage. The origin server, such as Amazon S3 or a web server running on Amazon EC2, provides the durable file storage needed. But CloudFront provides high availability by using a distributed global network of edge locations. Amazon constantly monitors and optimizes the network paths which provide content for both availability and performance.
+Since CloudFront is an edge cache, Amazon CloudFront does not provide durable storage. The origin server, such as Amazon S3 or a web server running on Amazon EC2, provides the durable file storage needed. But CloudFront provides high availability by using a distributed global network of edge locations. Amazon constantly monitors and optimizes the network paths which provide content for both availability and performance.
 
 ### Security
 
 CloudFront is a highly secure CDN that provides both network and application level protection. CloudFront customers benefit from the automatic protection of AWS Shield (DDoS protection service) Standard, at no additional charge. CloudFront is also seamlessly integrated with AWS WAF (Web Application Firewall) and AWS Shield Advanced to help protect your applications from more sophisticated threats and DDoS attacks.
 
 https://www.mitrai.com/tech-guide/eight-types-of-aws-storage-services-explained
+
+### Pricing / Cost Optimization
+
+[Cost-Optimizing your AWS architectures by utilizing Amazon CloudFront features | Networking & Content Delivery](https://aws.amazon.com/blogs/networking-and-content-delivery/cost-optimizing-your-aws-architectures-by-utilizing-amazon-cloudfront-features/)
 
 ## Links
 
