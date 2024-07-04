@@ -106,6 +106,8 @@ Scanners (what Trivy can find there):
 
 [Trivy Home - Trivy](https://trivy.dev/)
 
+[How To Use Trivy To Scan Docker Images For Vulnerabilities](https://devopscube.com/scan-docker-images-using-trivy/)
+
 ## Terrascan
 
 Detect compliance and security violations across Infrastructure as Code (IaC) to mitigate risk before provisioning cloud native infrastructure.

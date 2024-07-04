@@ -353,4 +353,4 @@ A person feeding themselves a vegetarian diet would need about an acre of land a
 
 [Living](knowledge/geography/living.md)
 
-Best country for kids education
+Best country for kids/primary education

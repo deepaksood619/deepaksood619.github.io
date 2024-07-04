@@ -121,6 +121,11 @@ https://dbdb.io/db/aurora
 
 https://aws.amazon.com/rds/aurora/faqs
 
+## Questions
+
+- Since storage is shared how will delete in reader work?
+- Can you write in aurora reader
+
 ## Others
 
 [AWS — Difference between Amazon Aurora and Amazon RDS | by Ashish Patel | Awesome Cloud | Medium](https://medium.com/awesome-cloud/aws-difference-between-amazon-aurora-and-amazon-rds-comparison-aws-aurora-vs-aws-rds-databases-60a69dbec41f)

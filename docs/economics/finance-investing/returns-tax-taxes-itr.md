@@ -178,12 +178,13 @@ LUT (Letter of Undertaking) - [GST: How to file an LUT?](https://www.thegalactic
 - [Online House Rent Allowance (HRA) Calculator | The 1% Club](https://calculators.onepercentclub.io/hra-calculator)
 - [HRA Calculator - Online Calculate your House Rent Allowance](https://cleartax.in/paytax/HraCalculator)
 
-#### TDS
+#### TDS on rent
 
 - [What is the TDS provision for rent paid by individuals above Rs 50,000?](https://news.cleartax.in/what-is-the-tds-provision-for-rent-paid-by-individuals-above-rs-50000/6672/)
 - [tds penalty: Paying house rent of more than Rs 50000 per month? Penalty you will pay for not deducting TDS - The Economic Times](https://economictimes.indiatimes.com/wealth/tax/paying-house-rent-of-rs-50000-or-more-per-month-penalty-you-will-pay-for-not-deducting-tds/articleshow/104176779.cms?from=mdr)
 - [TDS on Rent: Section 194I Explained and Calculation Guidelines](https://www.canarahsbclife.com/blog/tax-saving/how-to-calculate-tds-on-rent)
 - [TDS on Rent payment of More Than Rs. 50000 P.M. By Individuals/ HUFs](https://taxguru.in/income-tax/tds-payment-rent-rs-50000-month-individuals-hufs.html)
+- [Form 16C: TDS Certificate On Rent And Challan 26QC](https://cleartax.in/s/know-form-16c-challan-26qc-deducting-tds-rent)
 
 #### Why 11 Months?
 
@@ -439,7 +440,7 @@ In this system, the tax is levied on the per unit price of the built-up area of 
 
 [Let's talk about inheritance tax](https://finshots.in/archive/lets-talk-about-inheritance-tax/)
 
-## Penalty / Notices / Fines
+## Penalty / Notices / Fines - Section 148
 
 As per the amendment in the Finance Act 2021, with effect from 1st April 2021, the time limit up to which the assessing officer can re-open the assessment of the taxpayer is as follows;
 
@@ -453,6 +454,8 @@ As per the amendment in the Finance Act 2021, with effect from 1st April 2021, t
 [Summary of Penalties Under the Income Tax Act](https://cleartax.in/s/income-tax-act-penalties)
 
 [Penalty Under Income Tax Act](https://cleartax.in/s/penalty-income-tax-act)
+
+[Section 148 of Income Tax Act: Notice Under Assessment or Reassessment](https://cleartax.in/s/notice-section-148-income-tax-act)
 
 ## Links
 

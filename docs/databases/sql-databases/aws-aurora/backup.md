@@ -176,6 +176,8 @@ Amazon RDS DB snapshots and automated backups are stored in [S3](https://aws.am
 
 Costs - 10 snapshots for a database 20gb in size, costs over $23 USD
 
+2.5 TB of data compressed to 463 GB in AWS S3 in parquet format
+
 You can export DB snapshot data to an Amazon S3 bucket. The export process runs in the background and doesn't affect the performance of your active DB instance.
 
 When you export a DB snapshot, Amazon RDS extracts data from the snapshot and stores it in an Amazon S3 bucket. The data is stored in an Apache Parquet format that is compressed and consistent.

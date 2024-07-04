@@ -45,7 +45,7 @@ Below are my 2100+ notes & their relations visualized using Obsidian.
 
 ![All Notes Visualized Zoomed in an Obsidian Graph](media/notes-visualized-zoom.jpg)
 
-This wiki is large. 137,000+ lines of markdown (calculated with [loc](https://github.com/cgag/loc))
+This wiki is large. 170,000+ lines of markdown (calculated with [loc](https://github.com/cgag/loc))
 
 ```bash
 loc
@@ -53,15 +53,15 @@ loc
 --------------------------------------------------------------------------------
  Language             Files        Lines        Blank      Comment         Code
 --------------------------------------------------------------------------------
- Markdown              2140       215518        72160            0       143358
+ Markdown              2294       250112        78577            0       171535
  JSON                     3        16782            0            0        16782
- JavaScript               3          212           18           69          125
+ JavaScript               3          241           26           87          128
  CSS                      1           30            2            7           21
  YAML                     1           49            5           23           21
  Plain Text               2            3            0            0            3
  Bourne Shell             1            3            0            1            2
 --------------------------------------------------------------------------------
- Total                 2151       232597        72185          100       160312
+ Total                 2305       267220        78610          118       188492
 --------------------------------------------------------------------------------
 ```
 

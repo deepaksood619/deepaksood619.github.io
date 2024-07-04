@@ -184,7 +184,10 @@ http://www.tldp.org/LDP/abs/html/io-redirection.html
 
 ```bash
 vmq-admin trace client client-id=/Samhi-42 >> trace.log 2>&1 &
+
 python test_de_script.py de_run_final.csv 2>&1 | tee -a outfile.log
+
+30 0 * * * aws autoscaling update-auto-scaling-group --auto-scaling-group-name eks-application-node-group --max-size 80 >> /var/log/autoscaling_asg.log 2>&1
 ```
 
 ### Wildcards and Help

@@ -43,9 +43,9 @@ I started my professional journey with the prestigious CITI group wherein I was 
 
 Just like the problem statements being thrown at PMs, the skillset that you will develop cannot be easily defined. I feel that being a PM forces you to pull different threads in your talent pool - the analytical mindset to read data, the creative flair for the best user journey, the smoothest sales pitch to get stakeholder buy-in, and the patience to execute end-to-end. As a PM, I need to be the CEO of my product!
 
-### Software
+## Software
 
-[linkedin.com/in/rajeshkthiagarajan/](https://www.linkedin.com/in/rajeshkthiagarajan/)
+### [linkedin.com/in/rajeshkthiagarajan/](https://www.linkedin.com/in/rajeshkthiagarajan/)
 
 I am a global product, technology & business leader excited to help teams be purpose-driven and build game-changing products & services.
 
@@ -69,6 +69,26 @@ In short:
 3. In-depth experience in developing and product managing B2B products from scratch and scaling to thousands of active users.
 4. Proven ability to work with the process dynamics of both established large firms and fast-growing start-ups.
 5. Adept in leading teams through rapid growth & change.
+
+### [linkedin.com/in/sreegade/](https://www.linkedin.com/in/sreegade/)
+
+Global Technology Leader & Evangelist with 20+ years of experience in building & leading internet-scale technology organizations. Customer obsession being at the core, focused on impact & delivery of key business outcomes by leveraging cloud, mobile strategies deployed securely. Believes in enabling businesses with critical capabilities to win in the marketplace though innovation & rapid execution.
+
+Executive Summary:
+
+- 360 degree leader with experience of building & leading world-class Engineering, SRE/DevOps & Security functions at scale to enable global businesses.
+- Deep domain expertise with industry-defining B2B SaaS organizations in CRM, Contract, Event Management among others, spanning commercial & Federal Multi-Cloud design
+- Drove key function in one of the largest commerce engineering systems on the planet that processes $70B+ revenue with extreme availability, performance & security requirements.
+- Worked as Technology Country Head for 4000+ employee organization spread across 6 countries, drove adoption of ERP, CRM & Analytics systems for better productivity & results. Drove strategy, talent/hiring/engagement and thought leadership
+- Enable global employee, partner access securely with Identity management, Reduce IT friction through SSO, MFA. Protect company & customer data while allowing mobility, with zero trust strategy & default deny stance.
+- Managed $Ms of Capex/Opex budgeting with in a multi-cloud architecture, building & scaling cloud native applications with global auto-scale for performance, reliability & security.
+- Has proven record of forging successful partnerships with OEMs, Vendors for staff, capability augmentation to form world-class Engineering, SRE Organizations.
+- Built & managed internet scale environments with 2M+ servers, 10s of thousands of network & security devices, edge caching nodes to deliver consistent and reliable customer experience from anywhere in the world.
+- Azure & AWS implementation at web scale for SaaS, PaaS, CDN & EDGE caching technologies with strong roots into Engineering, System, storage, network engineering & security functions.
+- Evangelized SRE, DevOps with full stack DRI model to build super scalable self-healing apps
+- Presented at number of conferences & seminars on emerging technology trends & leadership. Blogs & websites on career guidance & leadership. Actively contribute to fields of IoT, Machine Learning & Cloud technologies.
+
+Sree Gade is a published author of one of the best selling books on career coaching: https://www.sreegade.com/books/
 
 ## Others
 

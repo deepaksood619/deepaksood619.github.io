@@ -26,6 +26,7 @@
 - [Kubernetes Manifests Examples](kubernetes-manifests-examples)
 - [Reference](reference/readme.md)
     - [RBAC](reference/rbac)
+    - [Quality of Service](devops/kubernetes/reference/quality-of-service.md)
 - [Tasks](tasks)
 - [Operators](operators)
 - [KubeEdge](kubeedge)

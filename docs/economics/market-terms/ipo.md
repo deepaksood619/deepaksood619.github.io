@@ -77,3 +77,23 @@ FPO - Follow-on Public Offer (Further Public Offer)
 https://zerodha.com/varsity/chapter/supplementary-note-ipo-ofs-fpo
 
 [How are IPOs Pumped and Dumped in India | Mamaearth Profit 22Cr, Valuation 24,000 Cr - YouTube](https://www.youtube.com/watch?v=4CMnfEdnLj4)
+
+## IPO
+
+### SME vs Main Board IPO
+
+- Paid up capital - less than 25 cr vs more than 10 cr
+- No of shareholders - 50+ vs 1000+
+- Results - Half yearly vs Quarterly
+
+[Normal IPO VS SME IPO - Don't do this mistake 😱 - YouTube](https://www.youtube.com/shorts/6BbZK61L0hI)
+
+[Increase Allotment Chances in SME IPO #smeipo #sme - YouTube](https://www.youtube.com/shorts/z2OI4oEBNes)
+
+[5 Mistakes in SME IPOs #smeipo #ipo - YouTube](https://www.youtube.com/shorts/symNmKCIMHk)
+
+[How to get SME IPO Allotment? | How to Increase SME IPO Allotment Chances? - YouTube](https://www.youtube.com/watch?v=ta2zp-ia15c&ab_channel=PankajLadha)
+
+### Main Board IPO
+
+[IPO URGENT UPDATE- HNI Category new rules - Lottery for retail investors - YouTube](https://www.youtube.com/watch?v=BPU6xNWHc3I&ab_channel=InvestAajForKal)
