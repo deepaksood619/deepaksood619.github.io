@@ -190,3 +190,8 @@ I cannot be apologetic enough for sudden unavailability today. It was due to a c
 As for my recent leaves I understand that in the past week i took a few days off due to a relative of mine passing away and my work took the hit.
 I can assure you I’ll give in extra hours over the weekend as well to compensate for this.
 Rest assured my intention was never to take this client casually. Apologies if you felt otherwise.
+
+## Links
+
+- [emails-templates-general](office/personality/emails-templates-general.md)
+- [speaking-phrases-quotes](psychology/soft-skills/speaking-phrases-quotes.md)
