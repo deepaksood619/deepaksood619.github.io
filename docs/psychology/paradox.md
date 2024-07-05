@@ -383,6 +383,8 @@ One class of paradoxes in economics are the [**paradoxes of competition**](https
 - [**Observer's paradox**](https://en.wikipedia.org/wiki/Observer%27s_paradox "Observer's paradox"): The outcome of an event or experiment is influenced by the presence of the observer.
 - [**Taeuber Paradox**](https://en.wikipedia.org/wiki/Taeuber_Paradox "Taeuber Paradox"): A paradox in demography in which lessening mortality for a particular cause results in a surprisingly small increase in life expectancy and no change in overall mortality.
 
+![Region Beta Paradox](../media/Pasted%20image%2020240705003713.png)
+
 [List of paradoxes - Wikipedia](https://en.wikipedia.org/wiki/List_of_paradoxes)
 
 [Every Paradox Explained in 3 Minutes - YouTube](https://www.youtube.com/watch?v=NbNigMHjGhs&ab_channel=Explainem)

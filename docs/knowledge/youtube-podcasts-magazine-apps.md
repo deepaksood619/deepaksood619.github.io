@@ -33,6 +33,7 @@
 - [AlphaPhoenix - YouTube](https://www.youtube.com/@AlphaPhoenixChannel)
 - [Xprocess - YouTube](https://www.youtube.com/@Process-X/featured)
 - [Animagraffs - YouTube](https://www.youtube.com/@animagraffs)
+- [MegaBuilds - YouTube](https://www.youtube.com/@megabuildsyt)
 
 ### Video creation, 3D Animation and Youtubing Strategy
 
@@ -218,6 +219,7 @@
 - [Yadnya Investment Academy - YouTube](https://www.youtube.com/@InvestYadnya)
 - FreeFincal Pattu DIY Investing
 - [Finance With Sharan - YouTube](https://youtube.com/@financewithsharan)
+- [How Money Works - YouTube](https://www.youtube.com/@howmoneyworks)
 
 ### Business / Management
 

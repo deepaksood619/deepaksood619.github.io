@@ -90,6 +90,7 @@ Compute Optimizer generates recommendations for the following resources:
 - [d1s0yx3p3y3rah.cloudfront.net/anonymous-embed?dashboard=cudos](https://d1s0yx3p3y3rah.cloudfront.net/anonymous-embed?dashboard=cudos)
 - [Using CUDOS Dashboard visualizations for AWS Marketplace spend visibility and optimization | AWS Marketplace](https://aws.amazon.com/blogs/awsmarketplace/using-cudos-dashboard-visualizations-aws-marketplace-spend-visibility-optimization/)
 - [Visualize and gain insights into your AWS cost and usage with Cloud Intelligence Dashboards and CUDOS using Amazon QuickSight | AWS Cloud Operations & Migrations Blog](https://aws.amazon.com/blogs/mt/visualize-and-gain-insights-into-your-aws-cost-and-usage-with-cloud-intelligence-dashboards-using-amazon-quicksight/)
+- [FOCUS Dashboard - YouTube](https://www.youtube.com/watch?v=JfAE9PtXWHA&ab_channel=AWSCloudIntelligenceDashboards)
 
 ## Savings plan Utilization Report and Coverage Report
 

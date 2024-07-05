@@ -60,3 +60,14 @@ Not Constructive:"You left me in the lurch and I had to lead that meeting by mys
 Constructive:"I want to check in with you on your satisfaction with my work. I got the impression that you were frustrated yesterday. Could we set a time to communicate more clearly about anything that needs to improve?"
 
 Not Constructive:"You were mean to me yesterday. I feel like you don't respect me."
+
+---
+
+Greetings from Company!
+
+Kindly consider this email as a gentle reminder to please suggest how we can take the discussion forward.
+
+## Links
+
+- [asking-right-questions](psychology/soft-skills/asking-right-questions.md)
+- [emails-templates-general](office/personality/emails-templates-general.md)
