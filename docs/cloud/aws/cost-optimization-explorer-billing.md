@@ -137,6 +137,11 @@ Also RDS RI purchased in one account can be used in another account if RI sharin
 - [GitHub - hystax/optscale: FinOps and cloud cost optimization tool. Supports AWS, Azure, GCP, Alibaba Cloud and Kubernetes.](https://github.com/hystax/optscale)
 - [Economize Cloud – Cloud Cost Optimization Software](https://www.economize.cloud/)
 
+### Alerting
+
+- [Email delta cost usage report in a multi-account organization using AWS Lambda | AWS Architecture Blog](https://aws.amazon.com/blogs/architecture/email-delta-cost-usage-report-in-a-multi-account-organization-using-aws-lambda/)
+- [Generate AWS cost reports automatically using the Cost-Explorer API | by TechStoryLines | Medium](https://medium.com/@TechStoryLines/generate-aws-cost-reports-automatically-using-the-cost-explorer-api-ef472fca4151)
+
 ## Wrong Costs
 
 ![AWS Wrong Costs](../../media/Screenshot%202024-06-24%20at%208.03.33%20PM.jpg)

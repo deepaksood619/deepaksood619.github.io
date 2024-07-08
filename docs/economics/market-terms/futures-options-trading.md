@@ -9,17 +9,32 @@ Buy the rumor, sell the news
 - Nifty lot size - 75
 - Bank Nifty lot size - 25
 
-### Swing Trading
-
-- Technical swing
-- Sector swing
-- Segment swing
-- Macro swing
-- Business (Value migration) swing
-
 ## Shorting / Short
 
 [How Short Sellers Make BIG Money in the Stock Markets | Short Selling Explained - YouTube](https://www.youtube.com/watch?v=rSXZVcl21eY)
+
+## Derivative
+
+- Forward
+- Futures
+- Options
+- Swaps
+
+- Forwards and Swaps doesn't trade
+- Only Futures and Options are traded on stock market
+- Derivaties are primarily used for Hedging and Speculation
+- Speculation - Earn profit
+- Hedging - Reduce losses
+- Future and options have expiry period
+- Near, Next and Far month expiry periods
+- Last thursday of every month that month future will expire (if thursday is holiday, then it will be wednesday and so on)
+
+Futures are derivative financial contracts
+
+Obligate the parties to transact an asset at a predetermined future date and price
+
+- Cash based settlement
+- Delivery based settlement
 
 ## Futures Trading
 
@@ -33,7 +48,7 @@ An option is a contract where the price of the options is based on an underlying
 
 The module covers various options strategies that can be built with a multi-dimensional approach based on Market trend involving Option Greeks, Risk-Return, etc.
 
-- Stradles
+- Straddles
 - Strangles
 - Ratio spread
 
@@ -361,6 +376,7 @@ https://www.investopedia.com/articles/trading/11/automated-trading-systems.asp
 - [Physical settlement of futures and options - YouTube](https://www.youtube.com/watch?v=Llp4xW2GI4s)
 - [A Beginner's Guide to Futures and Options | Basics of Futures & Options - YouTube](https://www.youtube.com/watch?v=yhZxQROq8oA)
 - [Option Trading strategy | Option buying scalping strategy with less capital? | Option masterclass | - YouTube](https://www.youtube.com/watch?v=G1UaQcqDnRg)
+- [Why 90% of Indian Traders Lose Money | Option Trading - YouTube](https://www.youtube.com/watch?v=YmOBZJFWVwQ&ab_channel=MohakMangal)
 
 ## Learning
 
@@ -388,3 +404,7 @@ When the seller of a stock fails to deliver the shares to the exchange for the b
 - [If You Don't Exit You Don't Survive In Stock Market | Shashwat Amrev | Josh Talks - YouTube](https://www.youtube.com/watch?v=UwGSzhjsceI)
 - [The Truth About Day Trading - YouTube](https://www.youtube.com/watch?v=IQAeaWC5wlE)
 - [I Tried Day Trading With $1,000 - YouTube](https://www.youtube.com/watch?v=QMK70LE4-AY)
+
+## Links
+
+- [swing-trading](economics/market-terms/swing-trading.md)

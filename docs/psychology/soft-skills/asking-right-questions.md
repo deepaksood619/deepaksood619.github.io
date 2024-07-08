@@ -193,5 +193,4 @@ Rest assured my intention was never to take this client casually. Apologies if y
 
 ## Links
 
-- [emails-templates-general](office/personality/emails-templates-general.md)
 - [speaking-phrases-quotes](psychology/soft-skills/speaking-phrases-quotes.md)

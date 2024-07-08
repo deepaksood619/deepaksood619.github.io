@@ -151,7 +151,7 @@ for event in r['Payload']:
 
 ## Object Lifecycle Management
 
-To manage your objects so that they are stored cost effectively throughout their lifecycle, configure their lifecycle. Alifecycle configurationis a set of rules that define actions that Amazon S3 applies to a group of objects.
+To manage your objects so that they are stored cost effectively throughout their lifecycle, configure their lifecycle. A lifecycle configuration is a set of rules that define actions that Amazon S3 applies to a group of objects.
 
 There are two types of actions:
 

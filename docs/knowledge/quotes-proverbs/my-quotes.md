@@ -33,3 +33,5 @@ Everyone is just a row in a database
 One thing, one time, one minute
 
 Don't find patterns where none exists
+
+1st time it happens its a risk, 2nd time it happens its an event, 3rd time it happens then it's a routine

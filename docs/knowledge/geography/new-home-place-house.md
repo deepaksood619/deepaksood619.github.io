@@ -335,6 +335,12 @@ A person feeding themselves a vegetarian diet would need about an acre of land a
 
 [How to buy an Agricultural Land in India in 2023: Know laws, legal tips, eligibility](https://www.99acres.com/articles/legal-tips-for-buying-agricultural-land-in-india.html)
 
+### Taxation
+
+- [All About your Property Tax and How to Pay it Online](https://www.bankbazaar.com/home-loan/resources/land-tax.html)
+- [What are the Land Ownership Laws in India?](https://www.ezylegal.in/blogs/land-ownership-laws-in-india)
+- [Property Tax in India - Defination, Types, & Calculation Formula](https://www.bankbazaar.com/tax/property-tax.html)
+
 ## Real Estate / Realty Market
 
 - [8 misconceptions about Delhi NCR properties - Reasons why you should invest in Real Estate.](https://www.linkedin.com/pulse/8-misconceptions-delhi-ncr-properties-reasons-why-you-chaudhary/)

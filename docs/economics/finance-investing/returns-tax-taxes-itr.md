@@ -18,6 +18,18 @@ Input tax credit
 - Direct taxes are paid directly to the government and are levied on one's income and profits.
 - Indirect taxes are totally opposite and are paid to the government if one makes any purchases of goods and services.
 
+### GST
+
+Businesses must register for GST and pay taxes on their taxable items and services if their annual revenue exceeds **Rs.** **40 lakhs for goods and Rs.** **20 lakhs for services**.
+
+[GST Registration | Online GST Registration Process](https://cleartax.in/s/gst-registration)
+
+[Input Tax Credit under GST - Conditions To Claim](https://cleartax.in/s/input-tax-credit-under-gst)
+
+[Input Tax Credit under GST - Check Conditions To Claim](https://www.bajajfinserv.in/what-is-input-tax-credit-under-gst)
+
+[BENEFITS of Amazon Business Account - YouTube](https://www.youtube.com/watch?v=iURSaIqXPyg&ab_channel=TheInventar)
+
 ### GST vs Income Tax
 
 Income Tax and GST are 2 completely different Acts and tax different things.
@@ -41,6 +53,8 @@ This INR 18,00,000 of GST collected will be paid to the Government. Accordingly,
 Mr. India will be liable to pay income tax on this INR 1 crore at [slab rates](https://www.thegalacticadvisors.com/tax-rates-individual). This is a tax on your income - a Direct Tax. This goes out of your pocket.
 
 [A Comprehensive Guide on Tax for Freelancers](https://www.thegalacticadvisors.com/post/comprehensive-guide-on-tax-for-freelancers)
+
+[Input Tax Credit under GST - Check Conditions To Claim](https://www.bajajfinserv.in/what-is-input-tax-credit-under-gst)
 
 ## CA
 

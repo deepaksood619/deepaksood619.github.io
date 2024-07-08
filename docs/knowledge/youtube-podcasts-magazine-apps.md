@@ -34,6 +34,7 @@
 - [Xprocess - YouTube](https://www.youtube.com/@Process-X/featured)
 - [Animagraffs - YouTube](https://www.youtube.com/@animagraffs)
 - [MegaBuilds - YouTube](https://www.youtube.com/@megabuildsyt)
+- [Megaprojects - YouTube](https://www.youtube.com/@megaprojects9649)
 
 ### Video creation, 3D Animation and Youtubing Strategy
 
@@ -203,13 +204,10 @@
 - Mad money Jim Cramer - CNBC Television
 - CA Rachna Ranade
 - Invest Aaj for Kal - Anant Ladha
-- Warrior Trading
-- P R Sundar
 - The Wall Street Journal
 - Ankur Warikoo
 - Akshat Shrivastav
 - Pranjal Kamra
-- The madras trailer
 - Motilal Oswal Asset Management
 - Shrehith S Karkera
 - [Aditya Saini - YouTube](https://www.youtube.com/@theadityasaini)
@@ -220,6 +218,13 @@
 - FreeFincal Pattu DIY Investing
 - [Finance With Sharan - YouTube](https://youtube.com/@financewithsharan)
 - [How Money Works - YouTube](https://www.youtube.com/@howmoneyworks)
+- [Garys Economics - YouTube](https://www.youtube.com/@garyseconomics)
+
+#### Trading
+
+- Warrior Trading
+- P R Sundar
+- The madras trailer
 
 ### Business / Management
 
@@ -263,6 +268,7 @@
 - Nebula - The logistics of x
 - [Banijay Science - YouTube](https://www.youtube.com/@banijayscience)
 - Youtube Original's Mind Field
+- [Daily Dose Documentary - YouTube](https://www.youtube.com/@dailydosedocumentary)
 
 ### Medicine
 

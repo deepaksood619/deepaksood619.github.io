@@ -81,3 +81,4 @@ https://www.planetscale.com/blog/videos-intro-to-vitess-its-powerful-capabilitie
 - [Architectures for high availability of MySQL clusters on Compute Engine  |  Cloud Architecture Center  |  Google Cloud](https://cloud.google.com/architecture/architectures-high-availability-mysql-clusters-compute-engine)
 - [How To Setup MySQL Master Master Replication](https://www.redswitches.com/blog/mysql-master-master-replication/)
 - [MySQL Master Master Replication: 4 Easy Steps | Hevo](https://hevodata.com/learn/mysql-master-master-replication/)
+- [Galera Cluster for MySQL | The world's most advanced open-source database cluster.](https://galeracluster.com/)
