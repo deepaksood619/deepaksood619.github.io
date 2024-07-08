@@ -26,6 +26,8 @@
 
 ## Others
 
+- [GitHub - karpathy/nanoGPT: The simplest, fastest repository for training/finetuning medium-sized GPTs.](https://github.com/karpathy/nanoGPT)
+
 ![LLM Working](../../media/llm-working.jpg)
 
 ### How to train your ChatGPT

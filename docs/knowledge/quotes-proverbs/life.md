@@ -1091,4 +1091,6 @@ Show me the incentives, I will show you the outcome — Charlie Munger
 
 Not all battles are fought for victory. Some are fought simply to tell the world that someone was there on the battlefield -- Ravish Kumar
 
+This planet has everything for everyone's need but not for everyone's greed. -- Mahatma Gandhi
+
 ## End

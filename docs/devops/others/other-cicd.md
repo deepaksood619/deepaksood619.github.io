@@ -9,23 +9,21 @@ https://github.com/theonedev/onedev
 
 ## Github Actions - Workflow automation
 
-https://github.com/marketplace
+- https://github.com/marketplace
+- https://github.blog/2019-08-08-github-actions-now-supports-ci-cd
+- Sign up for beta - https://github.com/features/actions
+- https://dev.to/bnb/an-unintentionally-comprehensive-introduction-to-github-actions-ci-blm
+- https://blog.kontena.io/deploying-to-kubernetes-from-github-actions
+- https://help.github.com/en/categories/automating-your-workflow-with-github-actions
+- https://github.com/Azure/k8s-actions
+- https://dev.to/bnb/an-unintentionally-comprehensive-introduction-to-github-actions-ci-blm
+- [Continuous Delivery: GitHub Actions (Developer Workflow Automation with GitHub Actions CICD)](https://www.youtube.com/watch?v=cKMO0aeh8GI&ab_channel=CodingTech)
 
-https://github.blog/2019-08-08-github-actions-now-supports-ci-cd
+### Blacksmith
 
-Sign up for beta - https://github.com/features/actions
-
-https://dev.to/bnb/an-unintentionally-comprehensive-introduction-to-github-actions-ci-blm
-
-https://blog.kontena.io/deploying-to-kubernetes-from-github-actions
-
-https://help.github.com/en/categories/automating-your-workflow-with-github-actions
-
-https://github.com/Azure/k8s-actions
-
-https://dev.to/bnb/an-unintentionally-comprehensive-introduction-to-github-actions-ci-blm
-
-[Continuous Delivery: GitHub Actions (Developer Workflow Automation with GitHub Actions CICD)](https://www.youtube.com/watch?v=cKMO0aeh8GI&ab_channel=CodingTech)
+- [Blacksmith](https://blacksmith.sh/)
+- [Blacksmith - Overview + Get Started - YouTube](https://www.youtube.com/watch?v=lZO1HExEvtE)
+- [Site Unreachable](https://docs.blacksmith.sh/getting-started/why-blacksmith)
 
 ### Github Actions - [Marketplace](https://github.com/marketplace)
 
@@ -205,7 +203,7 @@ https://docs.gitlab.com/ee/ci/variables
 
 [**https://docs.gitlab.com/ee/ci/variables/predefined_variables.html**](https://docs.gitlab.com/ee/ci/variables/predefined_variables.html)
 
-## Example
+### Example
 
 ```python
 image: docker:latest
@@ -266,3 +264,7 @@ Deploy:
         - aws s3 sync build/ s3://$S3_BUCKET_NAME/metta-web/$S3_BUCKET_PATH/ --delete
         - aws cloudfront create-invalidation --distribution-id $CDN_DISTRIBUTION_ID --paths "/*"
 ```
+
+## Others
+
+- [Vibinex • Open-source pull request personalization for GitHub, GitLab & Bitbucket](https://vibinex.com/)

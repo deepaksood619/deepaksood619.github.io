@@ -70,4 +70,3 @@ Kindly consider this email as a gentle reminder to please suggest how we can ta
 ## Links
 
 - [asking-right-questions](psychology/soft-skills/asking-right-questions.md)
-- [emails-templates-general](office/personality/emails-templates-general.md)

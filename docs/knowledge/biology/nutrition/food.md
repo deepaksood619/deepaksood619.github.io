@@ -319,14 +319,28 @@ Get it from
 
 Wondering what happened to vitamins B4, B8, B10, and B11? They got the boot! As scientists’ understanding of vitamins evolved, these were no longer regarded as vitamins. Reminds you of Pluto, huh?
 
-#### Wait, what about Vitamin D?
+#### Vitamin D
 
 We saved it for the last because it’s kinda special! Vitamin D has many roles to play-blood pressure regulation, bone growth, calcium balance, hormone production, immune health, nervous system function etc.
-Unlike the others, vitamin D can be produced by our bodies, provided our skin is exposed to adequate sunshine. Unfortunately, most of us don’t get enough time in the sun and hence, are D-deficient. ☹️
+
+Unlike the others, vitamin D can be produced by our bodies, provided our skin is exposed to adequate sunshine. Unfortunately, most of us don’t get enough time in the sun and hence, are D-deficient.
 
 **Make Vit D while the sun shines**
 
 Try to get 10-20 minutes of sunlight ideally before noon, 3-4 times a week. Darker skin needs more sun than lighter skin; so adjust your sun exposure based on your need.
+
+##### Food
+
+- fatty fish
+- Egg Yolk
+- fortified cereals
+fortified milk and juices
+yogurt
+beef liver
+
+[25-Hydroxy Vitamin D Test](https://www.healthline.com/health/25-hydroxy-vitamin-d-test)
+
+[Vitamin D Deficiency: Symptoms, Treatments, and Causes](https://www.healthline.com/nutrition/vitamin-d-deficiency-symptoms)
 
 ## Infused Water
 

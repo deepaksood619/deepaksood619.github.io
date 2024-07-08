@@ -296,6 +296,9 @@ Total with Duplicates - 331 services
 26. **AWS Systems Manager** - Gain operational insights and take action
 27. **AWS Trusted Advisor** - Optimize performance and security
 28. **AWS Well-Architected Tool** - Review and improve your workloads
+29. [AWS Application Composer](https://aws.amazon.com/application-composer/) - Visually design and build modern applications quickly
+	1. [Using generative infrastructure as code with Application Composer | AWS Compute Blog](https://aws.amazon.com/blogs/compute/using-generative-infrastructure-as-code-with-application-composer/)
+	2. [Fetching Title#9y54](https://www.youtube.com/watch?v=XP7LudGsjy8)
 
 ## 15. Media Services (11)
 

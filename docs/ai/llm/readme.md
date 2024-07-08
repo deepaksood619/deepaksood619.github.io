@@ -24,7 +24,8 @@ Moving from information to knowledge age
 
 - [Meet Bard](https://bard.google.com/)
 - https://openai.com/blog/chatgpt
-- [Sign in](https://chat.mistral.ai/)
+- [Claude](https://claude.ai/)
+- https://chat.mistral.ai/
 - [Godmode](https://godmode.space/)
 - [**OpenAI Platform**](https://platform.openai.com/)
     - [Embeddings - OpenAI API](https://platform.openai.com/docs/guides/embeddings/what-are-embeddings)
@@ -119,6 +120,7 @@ Moving from information to knowledge age
 - [Waii - World's most powerful SQL API built with generative AI](https://www.waii.ai/)
 - [Introducing Devin, the first AI software engineer](https://www.cognition-labs.com/introducing-devin)
 - [Tabnine is an AI assistant that speeds up delivery and keeps your code safe](https://www.tabnine.com/)
+- [GitHub - gofireflyio/aiac: Artificial Intelligence Infrastructure-as-Code Generator.](https://github.com/gofireflyio/aiac)
 
 ## Purpose-built accelerators for generative AI
 
