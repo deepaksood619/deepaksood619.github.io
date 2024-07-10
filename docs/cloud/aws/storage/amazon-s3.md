@@ -166,6 +166,10 @@ https://docs.aws.amazon.com/AmazonS3/latest/dev/object-lifecycle-mgmt.html
 
 https://docs.aws.amazon.com/AmazonS3/latest/userguide/how-to-set-lifecycle-configuration-intro.html
 
+[Configuring a bucket lifecycle configuration to delete incomplete multipart uploads - Amazon Simple Storage Service](https://docs.aws.amazon.com/AmazonS3/latest/userguide/mpu-abort-incomplete-mpu-lifecycle-config.html)
+
+[removing expired delete markers, how does it work? | AWS re:Post](https://repost.aws/questions/QUK1eCj2OjT3mSOJbendDYWw/removing-expired-delete-markers-how-does-it-work)
+
 ### Deleting huge amount of objects
 
 To delete an AWS S3 bucket with 500TB of data, the fastest and most cost-effective solution would be to use the S3 Lifecycle configuration.

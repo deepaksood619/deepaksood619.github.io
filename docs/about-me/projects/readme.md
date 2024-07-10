@@ -4,6 +4,8 @@
 
 ### OpsTree
 
+- [Freecharge - Cost Optimization and Database Administration](about-me/projects/56-freecharge-cost-optimization-dba.md)
+- [Careers360 Cost Optimization](about-me/projects/57-careers360-cost-optimization.md)
 - [AWS Gen AI Hackathon](about-me/projects/58-aws-gen-ai-hackathon.md)
 - [Data Engineering Product Pitch IoT Industry](about-me/projects/59-data-engineering-product-pitch-iot-industry.md)
 - [Data Engineering Case Studies](about-me/projects/60-data-engineering-case-studies.md)
@@ -13,6 +15,7 @@
 - [MLOps Case Studies](about-me/projects/64-mlops-case-studies.md)
 - [Problems in IoT Industry](about-me/projects/65-problems-in-iot-industry.md)
 - [IoT Case Studies](about-me/projects/66-iot-case-studies.md)
+- [Data Engineering - Battle Cards](about-me/projects/67-data-engineering-battle-cards.md)
 
 ### Bake.io
 

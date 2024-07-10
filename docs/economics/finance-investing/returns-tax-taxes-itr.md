@@ -478,3 +478,14 @@ As per the amendment in the Finance Act 2021, with effect from 1st April 2021, t
 [Section 10 Of Income Tax Act: Exemptions, Allowances and How To Claim It?](https://cleartax.in/s/section-10-of-income-tax-act)
 
 [How to Save TAX](https://www.youtube.com/watch?v=BfSx7qcDxx4)
+
+[Make your Income Tax ZERO! | Ultimate Tax Saving Masterclass | LLA - YouTube](https://www.youtube.com/watch?v=orK0WFvN0OU&ab_channel=LabourLawAdvisor)
+
+1. Professional Pursuit Allowance - no limit
+2. Uniform Allowance
+3. Mobile Allowance
+4. Internet Charges
+5. Books/subscription/periodicals
+6. Furniture
+7. Children education - 9600 for 2 children
+8. Food allowance/voucher

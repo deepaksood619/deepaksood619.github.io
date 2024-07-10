@@ -1,5 +1,7 @@
 # Living
 
+Digital Nomad
+
 ## Blue Zones
 
 Blue Zone is a term used to regions where some of the world's oldest people reside.

@@ -60,13 +60,13 @@ MONyog proactively monitors enterprise database environments and provides expert
 
 MONyog is more DBA focused and focuses on the MySQL configuration and queries.
 
-### **Architecture**
+#### Architecture
 
 MONyog web server runs on Linux, monitoring MySQL on all platforms and also monitoring OS-data on Linux servers. To retrieve OS metrics, MONyog uses SSH. However, with this scenario (MONyog installed on a Linux machine) MONyog web-server/agent cannot collect Windows OS metrics.
 
 Of course, the client where the MONyog output is viewed can be any browser supporting AJAX on any platform. MONyog can be installed on a remote PC as well as the server. It does not require processing, and with agentless monitoring it can collect and retrieve data from the server.
 
-### **Advantages**
+#### Advantages
 
 - Setup and startup within two minutes
 - Agentless
@@ -75,9 +75,14 @@ Of course, the client where the MONyog output is viewed can be any browser suppo
 - Great advisors for database tuning built-in
 - Most comprehensive and detailed alerting
 
-### **Disadvantages**
+#### Disadvantages
 
 - Cost per node
 - Only supports MySQL
 
 [MySQL Performance Metrics | Webyog](https://webyog.com/blog/monyog/top-performance-metrics-monitor-mysql-connections-buffer-pool-usage/)
+
+### Others
+
+- [Navisite - Database as a Service](https://www.navisite.com/services/platform-services/)
+- [Best MDR Services in 2024 | Navisite](https://www.navisite.com/services/managed-detection-and-response/)

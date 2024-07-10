@@ -1,6 +1,7 @@
 # Analytics
 
 - [Amazon Athena](cloud/aws/analytics/amazon-athena.md) - Query Data in S3 using SQL
+- [Amazon Kinesis](cloud/aws/analytics/amazon-kinesis.md)
 - [Amazon DevOps Guru](cloud/aws/analytics/amazon-devops-guru.md)
 
 ## Amazon EMR
@@ -42,27 +43,6 @@ Managed Search Service
 ## Amazon ElasticSearch Service
 
 Run and Scale Elasticsearch Clusters
-
-## Amazon Kinesis
-
-Work with Real-time Streaming Data
-
-[Serverless Streaming Data Service - Amazon Kinesis](https://aws.amazon.com/pm/kinesis/)
-
-[Amazon Kinesis Video Streams FAQs](https://aws.amazon.com/kinesis/video-streams/faqs/)
-
-[Definitive Guide to Optimize Kinesis Costs | by HashedIn Technologies | Medium](https://medium.com/@hashedin/definitive-guide-to-optimize-kinesis-costs-b8b480991e44)
-
-[Managed Streaming Data Service | Amazon Kinesis Data Streams Pricing | Amazon Web Services](https://aws.amazon.com/kinesis/data-streams/pricing/)
-
-- Provisioned vs On-demand
-- [Choosing the Data Stream Capacity Mode - Amazon Kinesis Data Streams](https://docs.aws.amazon.com/streams/latest/dev/how-do-i-size-a-stream.html)
-
-## Amazon Kinesis Data Firehose
-
-Amazon Kinesis Data Firehose is the easiest way to reliably load streaming data into data lakes, data stores and analytics tools. It can capture, transform, and load streaming data into Amazon S3, Amazon Redshift, Amazon Elasticsearch Service, and [Splunk](https://aws.amazon.com/kinesis/data-firehose/splunk/), enabling near real-time analytics with existing business intelligence tools and dashboards you're already using today. It is a fully managed service that automatically scales to match the throughput of your data and requires no ongoing administration. It can also batch, compress, transform, and encrypt the data before loading it, minimizing the amount of storage used at the destination and increasing security.
-
-https://aws.amazon.com/kinesis/data-firehose
 
 ## Amazon Redshift
 
