@@ -95,6 +95,24 @@ MySQL 8.0 brought enormous changes and modifications that were pushed by the Ora
 
 [Resolve the communication packets error in Amazon RDS for MySQL | AWS re:Post](https://repost.aws/knowledge-center/rds-mysql-communication-packet-error)
 
+## ProxySQL
+
+ProxySQL is a high performance, high availability, protocol aware proxy for MySQL and forks (like Percona Server and MariaDB). All the while getting the unlimited freedom that comes with a GPL license.
+
+Its development is driven by the lack of open source proxies that provide high performance.
+
+[ProxySQL](https://www.proxysql.com/) is a high-performance SQL proxy. ProxySQL runs as a daemon watched by a monitoring process. The process monitors the daemon and restarts it in case of a crash to minimize downtime.
+
+The daemon accepts incoming traffic from *MySQL* clients and forwards it to backend *MySQL* servers.
+
+The proxy is designed to run continuously without needing to be restarted. Most configuration can be done at runtime using queries similar to SQL statements. These include runtime parameters, server grouping, and traffic-related settings.
+
+[GitHub - sysown/proxysql: High-performance MySQL proxy with a GPL license.](https://github.com/sysown/proxysql)
+
+[ProxySQL - A High Performance Open Source MySQL Proxy](https://proxysql.com/)
+
+[Load balancing with ProxySQL - Percona XtraDB Cluster](https://docs.percona.com/percona-xtradb-cluster/5.7/howtos/proxysql.html)
+
 ## Resources
 
 https://dev.mysql.com/doc/refman/5.7/en/glossary.html

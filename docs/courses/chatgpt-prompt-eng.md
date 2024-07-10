@@ -36,6 +36,16 @@ Ans - The capital of France is Paris.
 - [GitHub - f/awesome-chatgpt-prompts: This repo includes ChatGPT prompt curation to use ChatGPT better.](https://github.com/f/awesome-chatgpt-prompts)
 - [Awesome ChatGPT Prompts | This repo includes ChatGPT prompt curation to use ChatGPT better.](https://prompts.chat/)
 
+##### LinkedIn post prompt
+
+Write a LinkedIn post about your recent accomplishment in # Your Industry, detailing how you achieved it, and sharing the impact it had on your # career or organization.
+
+Generate LinkedIn Post on Topic # Topic/Title .I am assigning you as Social Media Manager Role. So, take the responsibility. Tell this as I am doing myself and want to tell the world about it. Please use related emojis. Also, try to engage the audience in the post + try something that other users want to comment on the post. Try to keep Lines short and engaging. Also, keep in mind LinkedIn SEO and try to fulfil all needs. Make sure that content is 100% Original and Plagiarism free. After that Also give 15 related hashtags for LinkedIn.
+
+Generate a LinkedIn post related to # Topic. Generate 3 paragraphs with max 3 sentences. Start each with one matching emoji to the content of the paragraph. Highlight the following # Aspects
+
+Generate a LinkedIn post discussing # Your Chosen Topic. Share my insights, experiences, or opinions in a concise and engaging manner. Encourage my network to join the conversation by commenting with their thoughts or experiences. Use relevant hashtags to increase visibility. # LinkedIn # # Additional Hashtags
+
 ##### ChatGPT prompt to write error free
 
 `{paste your writing}`

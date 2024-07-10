@@ -11,6 +11,7 @@ Total with Duplicates - 331 services
 	1. [Announcing data filtering for Amazon Aurora MySQL zero-ETL integration with Amazon Redshift | AWS Big Data Blog](https://aws.amazon.com/blogs/big-data/announcing-data-filtering-for-amazon-aurora-mysql-zero-etl-integration-with-amazon-redshift/)
 3. **Amazon CloudSearch** - Managed search service
 4. **Amazon DataZone (Preview)** - Unlock data across organizational boundaries with built-in governance
+	1. [Fine-grained access control in Amazon DataZone | Amazon Web Services - YouTube](https://www.youtube.com/watch?v=ccf8xn-UeOA&ab_channel=AmazonWebServices)
 5. **Amazon EMR** - Hosted Hadoop framework
 6. **Amazon EMR Serverless (Preview)** - Run big data applications using open-source frameworks without managing clusters and servers
 7. **Amazon FinSpace** - Store, catalog, prepare, and analyze financial industry data in minutes

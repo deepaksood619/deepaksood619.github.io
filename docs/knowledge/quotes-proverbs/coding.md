@@ -376,3 +376,5 @@ You can either code fast or produce fast code. You cannot do both. -- Hussein Na
 7. **CEO:** "This is good."
 
 Adding manpower to a late software project makes it later -- Fred Brooks, Mythical Man Month
+
+A Distributed System is one in which the failure of a computer you didn't even know existed can render your own computer unusable -- Leslie Lamport

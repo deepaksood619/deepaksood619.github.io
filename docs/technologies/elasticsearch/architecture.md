@@ -26,6 +26,8 @@ The number of primary shards in an index is fixed at the time that an index is c
 
 [Configure a lifecycle policy | Elasticsearch Guide \[8.14\] | Elastic](https://www.elastic.co/guide/en/elasticsearch/reference/current/set-up-lifecycle-policy.html)
 
+[Elasticsearch Index Lifecycle Policy and Management - Important Tips](https://opster.com/guides/elasticsearch/data-architecture/index-lifecycle-policy-management/)
+
 ## Document
 
 Most entities or objects in most applications can be serialized into a JSON object, with keys and values. A key is the name of a field or property, and a value can be a string, a number, a Boolean, another object, an array of values, or some other specialized type such as a string representing a date or an object representing a geolocation.

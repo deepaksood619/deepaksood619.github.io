@@ -618,3 +618,5 @@ https://en.wikipedia.org/wiki/Parasocial_interaction
 - The biggest decision in life is to choose whom to get married to
 
 [Do North Indians Have A Habit Of Showing Off ? | Deep Analysis And Solution - YouTube](https://www.youtube.com/watch?v=3ckyja7K8U4)
+
+[You Never Marry the Right Person - RELEVANT](https://relevantmagazine.com/life5/you-never-marry-the-right-person/)
