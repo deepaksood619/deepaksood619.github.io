@@ -10,4 +10,5 @@
 - [redis-py](redis-py)
 - [Commands](databases/nosql-databases/redis/commands.md)
 - [Best Practices](best-practices)
+- [Scaling](databases/nosql-databases/redis/scaling.md)
 - [Others](databases/nosql-databases/redis/others.md)

@@ -2,8 +2,8 @@
 
 ## Client Overview
 
-- **Client:** Freecharge  
-- **Industry:** Financial Services  
+- **Client:** Freecharge
+- **Industry:** Financial Services
 - **Objective:** Reduce AWS costs, enhance infrastructure manageability, and automate manual tasks.
 - Initial AWS Monthly Costs - $150,000
 - Optimized AWS Monthly Costs - $110,000

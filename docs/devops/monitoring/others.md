@@ -221,10 +221,9 @@ https://docs.docker.com/config/containers/logging/syslog
 
 ## Others
 
-https://victoriametrics.com/products/open-source
-
-[Airbrake](https://airbrake.io)
-
-[Home - ThoughtData](https://thoughtdata.com/)
-
-[No-code Enterprise Data Quality Monitoring Tool: Lightup](https://lightup.ai/)
+- https://victoriametrics.com/products/open-source
+- [Airbrake](https://airbrake.io)
+- [Home - ThoughtData](https://thoughtdata.com/)
+- [No-code Enterprise Data Quality Monitoring Tool: Lightup](https://lightup.ai/)
+- [Kloudfuse](https://www.kloudfuse.com/)
+   	- AI-ENABLED UNIFIED OBSERVABILITY, Designed for 10X More Data At 1/10th of the Cost
