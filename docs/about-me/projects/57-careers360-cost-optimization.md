@@ -2,8 +2,8 @@
 
 ## Client Overview
 
-- Client: Careers360  
-- Industry: Education Services  
+- Client: Careers360
+- Industry: Education Services
 - Objective: Reduce AWS costs while enhancing application performance and eliminating outages.
 
 ## Background

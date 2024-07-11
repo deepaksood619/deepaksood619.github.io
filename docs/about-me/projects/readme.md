@@ -6,6 +6,8 @@
 
 - [Freecharge - Cost Optimization and Database Administration](about-me/projects/56-freecharge-cost-optimization-dba.md)
 - [Careers360 Cost Optimization](about-me/projects/57-careers360-cost-optimization.md)
+- [Azure Social Media Analytics](about-me/projects/55-azure-social-media-analytics.md)
+- [Airflow and Kafka Migration](about-me/projects/54-airflow-kafka-migration.md)
 - [AWS Gen AI Hackathon](about-me/projects/58-aws-gen-ai-hackathon.md)
 - [Data Engineering Product Pitch IoT Industry](about-me/projects/59-data-engineering-product-pitch-iot-industry.md)
 - [Data Engineering Case Studies](about-me/projects/60-data-engineering-case-studies.md)

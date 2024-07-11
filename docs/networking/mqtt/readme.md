@@ -12,7 +12,7 @@
 - [Last Will and Testament](last-will-and-testament)
 - [Keep Alive and Client Take-Over](keep-alive-and-client-take-over)
 - [MQTT over WebSockets](mqtt-over-websockets)
-- [Scaling](scaling)
+- [Scaling](networking/mqtt/scaling.md)
 - [Security](networking/mqtt/security.md)
 - [MQTT 5.0](mqtt-5.0)
 - [Libraries](networking/mqtt/libraries.md)
