@@ -18,6 +18,8 @@
 - [NileRed - YouTube](https://www.youtube.com/@NileRed)
 - [Science - YouTube](https://www.youtube.com/@science-channel)
 - [PBS Terra - YouTube](https://www.youtube.com/@pbsterra)
+- [Steve Mould - YouTube](https://www.youtube.com/@stevemould)
+- [The Action Lab - YouTube](https://www.youtube.com/@theactionlab)
 
 ### Inventions and Building Stuff / Engineering
 

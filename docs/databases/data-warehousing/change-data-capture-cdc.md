@@ -123,6 +123,7 @@ This is **Maxwell's daemon**, a [change data capture](https://www.confluent.io
 - AWS Glue
 - Stitch
 - Hevo Data
+   	- [Getting Started with Hevo - An Overview - YouTube](https://www.youtube.com/watch?v=p0XGLDgvCo8&ab_channel=HevoData)
 - upsolver
 - archion
 

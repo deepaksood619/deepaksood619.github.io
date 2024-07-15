@@ -104,6 +104,16 @@
 
 - [iPaaS Solution for the Enterprise | SnapLogic](https://www.snaplogic.com/)
 
+### State of Data Engineering 2024
+
+![](../../media/Screenshot%202024-07-15%20at%2012.16.36%20AM.jpg)
+
+[State of Data Engineering 2024](https://8040338.fs1.hubspotusercontent-na1.net/hubfs/8040338/lakeFS%20State%20of%20Data%20Engineering%202024.pdf)
+
+[The State of Data Engineering 2024](https://lakefs.io/blog/the-state-of-data-engineering-2024/)
+
+[The State of Data Engineering in India: 2024 – AIM](https://analyticsindiamag.com/the-state-of-data-engineering-in-india-2024/)
+
 ## Roadmaps
 
 - [Roadmap for Data Engineering 2023 | by Darshil Parmar | Medium](https://medium.com/@darshilp/roadmap-for-data-engineering-2023-13f62f85d866)

@@ -127,7 +127,9 @@ https://www.onlymyhealth.com/how-gain-weight-in-days-1326451658
 
 ## Eating patterns
 
-## Meal-eaters vs grazers
+[Should you skip timely meals and eat only when you are hungry?](https://indianexpress.com/article/lifestyle/food-wine/hunger-meal-food-time-dr-bm-hegde-nutrition-9272928/)
+
+### Meal-eaters vs grazers
 
 - Eating 3 meals of 800 calories will cause the same thermic effect as eating 6 meals of 400 calories. There is literally no difference.
 - Multiple studies have compared eating many smaller versus fewer larger meals and concluded that there is no significant effect on either metabolic rate or the total amount of fat lost

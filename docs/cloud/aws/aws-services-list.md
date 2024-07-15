@@ -412,3 +412,4 @@ Total with Duplicates - 331 services
 2. [AWS Managed Services](https://aws.amazon.com/managed-services/) - Operational excellence in the cloud
 3. [AWS re:Post Private](https://aws.amazon.com/repost-private/)
 4. [AWS Countdown](https://aws.amazon.com/premiumsupport/aws-countdown/)
+5. [AWS SimuLearn](https://aws.amazon.com/training/digital/aws-simulearn/)

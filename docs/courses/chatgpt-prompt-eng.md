@@ -112,7 +112,7 @@ ChatGPT, could you aid me in crafting a compelling proposal presentation script 
 
 - In the style of x write about x
 
-### Model Limitations
+### Model Limitations / Problems
 
 ##### Hallucinations
 
@@ -121,6 +121,15 @@ Makes statements that sound plausible but are not true
 ##### Reducing hallucinations
 
 First find relevant information, then answer the question based on the relevant information
+
+[Hallucination (artificial intelligence) - Wikipedia](https://en.wikipedia.org/wiki/Hallucination_(artificial_intelligence))
+
+- Researchers have recognized this issue, and by 2023, analysts estimated that chatbots hallucinate as much as 27% of the time, with factual errors present in 46% of their responses.
+
+#### Problems with LLM
+
+- Non-deterministic - same request can give different response/solution/output
+- Confidence is low because of hallucination
 
 ## Other Topics
 

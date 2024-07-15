@@ -15,7 +15,7 @@ Highly personalized education for each person
 - [Meet Khanmigo, Khan Academy's AI-powered teaching assistant & tutor](https://www.khanmigo.ai/)
 - [Khan Academy | Free Online Courses, Lessons & Practice](https://www.khanacademy.org/)
 
-### Study loop, personal tutor
+## Study loop, personal tutor
 
 - Give task/questions
 - Evaluate your answer
@@ -29,7 +29,7 @@ Highly personalized education for each person
 - 3rd question - ask few questions to get the conversation going and judge the correct level of the candidate
 - Incrementally ask difficult question and move into study loop, to ask questions, teach the gap, quiz for the teaching and repeat
 
-Global
+### Global Features
 
 - remember everything about the current candidate, so gpt knows everything about the candidate pre baked
 - learning should be fun, and gpt should use the interests and curiosity of candidate to maximize the learning of the candidate
@@ -40,7 +40,7 @@ Global
 - friendly character/ teacher name
 - don't teach wrong things i.e. hallucinate
 
-Onboarding
+### Onboarding
 
 - name
 - age
@@ -49,13 +49,17 @@ Onboarding
 - goals
 - learn about the candidate overall from each conversation, there can be thousands of parameters learned, which can be used for each new conversation and making the study more personalized and targeted.
 
-Wide capabiliies
+### Wide capabiliies
 
 - from chef to scientist, from parenting to coach, from machine learning to data scientist, from astronaut to lawyer, from sports to singing
 - wide range of age to cater too - from toddlers to graduates to mid career to retirees
 - can teach about hobbies too like gardening etc
 
-### Education for all (KhanAcademy does it all, contribute to it)
+### Links
+
+[A social ‘study buddy’ gets a conversational lift from Meta Llama](https://ai.meta.com/blog/foondamate-study-aid-education-llama/)
+
+## Education for all (KhanAcademy does it all, contribute to it)
 
 - Cultfit type you can attend from any city
 - You can attend classes from home too
@@ -71,7 +75,7 @@ Wide capabiliies
 
 **DigiProctor** with a 360 degree camera with all AI
 
-#### Competitors
+### Competitors
 
 [linkedin.com/in/qudduspat/](https://www.linkedin.com/in/qudduspat/)- qp@asi.tech
 
@@ -79,7 +83,7 @@ Wide capabiliies
 
 [ASI | Home](https://www.asi.tech/)
 
-### Free Education with Boarding (Coaching)
+## Free Education with Boarding (Coaching)
 
 - Job Guarantee and skill focused
 - 24 hour schedule
@@ -89,7 +93,7 @@ Wide capabiliies
 - Digital + AI Based personalized coaching
 - Top class employable persons
 
-### Education Mobile phones
+## Education Mobile phones
 
 - Give mobile phones / laptop to children, with all reports of usage gone back to teachers
 - Highly controlled
@@ -107,7 +111,7 @@ Wide capabiliies
 - Study 1 hour to get 1 hour internet free
 - Healty competition between community (points and leaderboards)
 
-### Global Education
+## Global Education
 
 Free Open Source Education for all fields and all classes from nursery to college - same over all the world. Central database, updated constantly and regularly to create global best education.
 
@@ -120,7 +124,7 @@ https://www.notboring.co/p/primer-the-ambitious-home-for-ambitious
 
 [How to Make Learning as Addictive as Social Media | Luis Von Ahn | TED - YouTube](https://www.youtube.com/watch?v=P6FORpg0KVo)
 
-### Mandatory Subjects in School
+## Mandatory Subjects in School
 
 - Economics
     - Taxes

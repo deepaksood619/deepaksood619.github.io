@@ -136,3 +136,5 @@ In the multicap category, the allocation decision is left to the fund manager wh
 [Flexi-cap funds vs. focused equity funds: Which is better? | Value Research](https://www.valueresearchonline.com/stories/53730/do-focused-funds-give-better-returns-than-flexi-cap-funds/)
 
 [What you need to know about small cap mutual fund stress tests](https://freefincal.com/what-you-need-to-know-about-small-cap-mutual-fund-stress-tests/)
+
+[Motilal Defence Fund breaks record at Rs 1676 cr but is it worth investing? | Personal Finance - Business Standard](https://www.business-standard.com/amp/finance/personal-finance/motilal-defence-fund-breaks-record-at-rs-1676-cr-but-is-it-worth-investing-124070500104_1.html)

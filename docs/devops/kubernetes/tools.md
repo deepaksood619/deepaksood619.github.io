@@ -417,6 +417,8 @@ https://www.youtube.com/watch?v=PW44JaAlI_8
 - [See How OpenCost Tracks Your Kubernetes Costs and Cloud Billing - YouTube](https://www.youtube.com/watch?v=lCP4Ci9Kcdg&ab_channel=Kubecost)
 - [Kubecost 2.0: Collections Demo - YouTube](https://www.youtube.com/watch?v=Ek_ZdCfKy18&ab_channel=Kubecost)
 - [Kubecost 2.0: Getting Started - YouTube](https://www.youtube.com/watch?v=AtBptqHbonk&ab_channel=Kubecost)
+- [Kubernetes Pod Price: How to Calculate | by Bohdan Lykhitko | Medium](https://medium.com/@bohdan.lykhitko/kubernetes-pod-price-how-to-calculate-a976315e02b)
+- [Kubernetes instance calculator](https://learnk8s.io/kubernetes-instance-calculator)
 
 ## [Karpenter](https://karpenter.sh/)
 

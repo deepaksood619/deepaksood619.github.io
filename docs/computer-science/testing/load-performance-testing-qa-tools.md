@@ -278,3 +278,7 @@ https://github.com/emqtt/emqtt_benchmark
 https://aws.amazon.com/about-aws/whats-new/2021/05/introducing-distributed-load-testing-v1-3
 
 https://www.testingexcellence.com/top-10-open-source-performance-testing-tools
+
+[BlazeMeter Continuous Testing | BlazeMeter by Perforce](https://www.blazemeter.com/)
+
+Selenium

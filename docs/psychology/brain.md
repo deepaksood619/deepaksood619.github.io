@@ -129,6 +129,10 @@ Object Permanence is the understanding that objectscontinue to exist even when t
 
   ![image](../media/brain-regions.jpg)
 
+[Mouse brain research is helping us better understand human minds](https://blog.google/technology/research/mouse-brain-research/)
+
+[Google AI: New insights from 6 images of the human brain](https://blog.google/technology/research/google-ai-research-new-images-human-brain/)
+
 ## Meditation / Mental Exercises
 
 https://blog.trello.com/sophrology-for-better-work-life-harmony
