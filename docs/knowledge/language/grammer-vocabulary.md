@@ -192,6 +192,7 @@ https://myenglishmatters.com/2018/06/28/whats-the-difference-between-has-been-ha
 - avunculate - any social institution where a special relationship exists between an uncle and his sisters' children.
 - enigma - something that is mysterious and seems impossible to understand completely
 - Venture - a project or activity which is new, exciting, and difficult because it involves the risk of failure
+- slog - work hard over a period of time
 
 ### Shill / Shilling
 

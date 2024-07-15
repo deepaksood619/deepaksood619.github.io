@@ -65,7 +65,7 @@
 - Celery Workers
 - Kubernetes Executor
 
-### Others
+### Others Used
 
 1. CloudFlare
 2. GitLab
@@ -108,7 +108,7 @@
 	- Mirroring
 21. ExternalDNS
 
-### Others
+### Others Alternatives POC
 
 1. TICK
 	- InfluxDB (device health monitoring)
@@ -120,3 +120,11 @@
 3. Konga
 4. Vernemq (mqtt broker)
 5. Druid - Zookeeper
+
+## Fintech Tools
+
+- perfios
+- cibil
+- Equifax
+- razorpay
+- [White-Label FinTech Solutions: Neobank|Ewallet|Payments | SDK.finance](https://sdk.finance/)

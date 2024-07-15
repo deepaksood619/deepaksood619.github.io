@@ -10,6 +10,8 @@ https://dbdb.io/db/aerospike
 
 https://www.aerospike.com
 
+[What is Aerospike? - YouTube](https://www.youtube.com/watch?v=bekzBxDUN-8&ab_channel=Aerospike)
+
 ## bbolt / BoltDB
 
 An embedded key/value database for Go.

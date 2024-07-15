@@ -40,6 +40,8 @@ Don't waste a good crisis
 
 Lifting while you climb
 
+Start small and scale big
+
 All or none
 
 Time is long but life is short

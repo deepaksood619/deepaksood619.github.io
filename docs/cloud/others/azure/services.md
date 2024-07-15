@@ -192,7 +192,8 @@ Get Azure innovation everywhere - bring the agility and innovation of cloud comp
 5. [Security Center](https://azure.microsoft.com/en-in/services/security-center/) - Unify security management and enable advanced threat protection across hybrid cloud workloads
 6. [Azure Database for PostgreSQL](https://azure.microsoft.com/en-in/services/postgresql/) - Managed PostgreSQL database service for app developers
 7. [Azure Stack](https://azure.microsoft.com/en-in/overview/azure-stack/) - Build and run innovative hybrid applications across cloud boundaries
-8. [Azure ArcPREVIEW](https://azure.microsoft.com/en-in/services/azure-arc/) - Bring Azure services and management to any infrastructure
+8. [Azure Arc – Hybrid and Multi-Cloud Management and Solution](https://azure.microsoft.com/en-in/products/azure-arc/) - Bring Azure services and management to any infrastructure
+	1. Azure Arc is a bridge that extends the Azure platform to help you build applications and services with the flexibility to run across datacenters, at the edge, and in multicloud environments. Develop cloud-native applications with a consistent development, operations, and security model. Azure Arc runs on both new and existing hardware, virtualization and Kubernetes platforms, IoT devices, and integrated systems. Do more with less by leveraging your existing investments to modernize with cloud-native solutions.
 9. [Azure IoT Edge](https://azure.microsoft.com/en-in/services/iot-edge/) - Extend cloud intelligence and analytics to edge devices
 
 ## Identity (4)

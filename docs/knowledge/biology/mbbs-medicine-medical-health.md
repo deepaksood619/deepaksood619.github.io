@@ -165,3 +165,9 @@ https://en.wikipedia.org/wiki/Urine_therapy
 [How to use the placebo effect to (actually) feel better - YouTube](https://www.youtube.com/watch?v=tefIopDJQBQ)
 
 [Hypnic jerk - Wikipedia](https://en.wikipedia.org/wiki/Hypnic_jerk)
+
+### Heat or ice pads: Which works best for your pains and swelling?
+
+Across the world, there is always confusion as to which is better - heat or ice application.
+
+Joe Gulotta, a chiropractor from New Jersey says both can be used, depending on what your ailment is. While heat pads are perfect for muscle relaxation and increasing blood flow, ice packs are best to alleviate inflammation and short-term pain relief.

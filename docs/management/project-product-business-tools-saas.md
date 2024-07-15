@@ -32,6 +32,7 @@
 17. https://fireflies.ai - AI assistant for your meetings
 	1. [Automated Meeting Reports, Transcripts, Notes, Video, Coaching, Scheduling | Read](https://www.read.ai/)
 18. Calendly
+	1. Appointment scheduling with Google Calendar
 19. https://topmate.io
 20. [The scheduling tool that speaks your language - YouCanBookMe](https://youcanbook.me/)
 21. https://github.com/opf/openproject

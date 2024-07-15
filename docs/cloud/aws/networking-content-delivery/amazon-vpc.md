@@ -196,3 +196,5 @@ This will cost around $4 month per IP per month
 [AWS Transit Gateway](https://aws.amazon.com/transit-gateway/)
 
 [What is VPC peering? - Amazon Virtual Private Cloud](https://docs.aws.amazon.com/vpc/latest/peering/what-is-vpc-peering.html)
+
+[Overview of Data Transfer Costs for Common Architectures | AWS Architecture Blog](https://aws.amazon.com/blogs/architecture/overview-of-data-transfer-costs-for-common-architectures/)

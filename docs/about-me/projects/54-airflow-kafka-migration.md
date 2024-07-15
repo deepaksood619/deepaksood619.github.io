@@ -13,11 +13,11 @@ Our project involved migrating from Confluent Kafka to an on-prem Kafka setup on
 - **KEDA**: Kubernetes-based Event Driven Autoscaling for scaling up Airflow workers.
 - **Terraform**: Infrastructure as Code (IaC) tool to set up all the infrastructure.
 - **Open Source Airflow**: For workflow orchestration.
-	- **Flower**: Monitoring tool for Celery workers.
-	- **Redis**: Used as the backend for Celery in Airflow.
+   	- **Flower**: Monitoring tool for Celery workers.
+   	- **Redis**: Used as the backend for Celery in Airflow.
 - **Open Source Kafka**: Message broker for handling streaming data.
-	- **Kafka UI**: For monitoring Kafka clusters.
-	- **Kafka Mirror**: For migration of Kafka topics.
+   	- **Kafka UI**: For monitoring Kafka clusters.
+   	- **Kafka Mirror**: For migration of Kafka topics.
 - **GitHub Actions**: For automation of deployment, user creation, and other tasks.
 - **Datadog**: Full end-to-end monitoring, logging, and alerting, integrated with Slack for priority alerts.
 - **Debezium**: Proof of Concept (PoC) for Change Data Capture (CDC) from PostgreSQL to MongoDB using Kafka.
@@ -25,33 +25,33 @@ Our project involved migrating from Confluent Kafka to an on-prem Kafka setup on
 ### Migration Process
 
 1. **Infrastructure Setup - Provisioning with Terraform**:
-    
+
     - Used Terraform to automate the setup of Linode infrastructure.
     - Defined Kubernetes clusters with separate node pools for Kafka and Airflow.
 
 2. **Kubernetes Deployment**:
-    
+
     - Deployed Kafka and Airflow on separate Kubernetes node pools.
     - Configured KEDA for dynamic scaling of Airflow workers based on task load.
 
 3. **Airflow Configuration**:
-    
+
     - Set up open source Airflow with Redis as the backend and Flower for worker monitoring.
     - Ensured isolation between different DAGs by using separate workers for distinct Airflow tasks.
 
 4. **Kafka Configuration**:
-    
+
     - Deployed open source Kafka and Kafka UI for monitoring.
     - Utilized Kafka Mirror to migrate topics from Confluent Kafka to the on-prem Kafka setup.
 
 5. **Automation and Monitoring**:
-    
+
     - Implemented GitHub Actions for continuous deployment and infrastructure automation.
     - Set up Datadog for comprehensive monitoring and alerting across Linode infrastructure, Airflow, and Kafka.
     - Integrated Slack with Datadog for priority alerting and escalation.
 
 6. **PoC with Debezium**:
-    
+
     - Conducted a PoC to validate the use of Debezium for CDC from PostgreSQL to MongoDB using Kafka.
 
 ### Outcomes
@@ -68,6 +68,7 @@ Our project involved migrating from Confluent Kafka to an on-prem Kafka setup on
 The migration from Confluent Kafka and Airflow SaaS to on-prem setups on Linode was a significant success, resulting in substantial cost savings, improved infrastructure control, and enhanced monitoring and alerting capabilities. The project showcased the effective use of Kubernetes, Terraform, and various open-source tools to achieve a scalable, reliable, and cost-effective solution.
 
 ## Architecture Details
+
 ### Confluent Cloud to Kafka on K8s Migration
 
 ![Kafka on Kubernetes](../../media/Pasted%20image%2020240712020317.png)

@@ -38,3 +38,5 @@ This is arguably the most important, and the most overlooked, pillar. It encapsu
 - [At what percentage of net worth can I stop contributing to my emergency fund?](https://freefincal.com/at-what-percentage-of-net-worth-can-i-stop-contributing-to-my-emergency-fund/)
 - [How rupee cost averaging in Mutual Funds works - The 1% News](https://news.onepercentclub.io/invest/how-rupee-cost-averaging-in-mutual-funds-works/2570/)
 - [What is Kakeibo? Discover How This Japanese Technique Helps in Managing Your Money - The 1% News](https://news.onepercentclub.io/plan/what-is-kakeibo-discover-how-this-japanese-technique-helps-in-managing-your-money/13766/)
+- [5 Emotional Mistakes That Lead to Common Financial Mistakes](https://freefincal.com/5-emotional-mistakes-that-lead-to-common-financial-mistakes/)
+- [How to stay invested in equity without worrying about market falls](https://freefincal.com/how-to-stay-invested-in-equity-without-worrying-about-market-falls/)
