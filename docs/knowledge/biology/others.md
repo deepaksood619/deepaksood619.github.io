@@ -63,6 +63,13 @@ Hydra don't age
 
 [The science of super longevity | Dr. Morgan Levine - YouTube](https://www.youtube.com/watch?v=B_CqKVU19ec)
 
+[Bryan Johnson - YouTube](https://www.youtube.com/@bryanjohnson)
+
+- [I Designed the Perfect Anti-Aging Diet ($16/day) - YouTube](https://www.youtube.com/watch?v=foa9ZhtyrfM&ab_channel=BryanJohnson)
+- [Does Bryan Johnson’s $2m biohacking routine actually work? We tested it to see | Hard Reset - YouTube](https://www.youtube.com/watch?v=ECTBg2AtOfc&ab_channel=Freethink)
+- [How I Reversed My Hair Loss + Greying - YouTube](https://www.youtube.com/watch?v=F25RiUZQSLQ&ab_channel=BryanJohnson)
+- [How I FIXED My Terrible Sleep - 10 Habits - YouTube](https://www.youtube.com/watch?v=Wk9p3dhMYdk&ab_channel=BryanJohnson)
+
 ## Links
 
 [The more fertile you are, the sooner you may die](https://www.msn.com/en-in/lifestyle/whats-hot/the-more-fertile-you-are-the-sooner-you-may-die-study/ar-AA1lA8ML)

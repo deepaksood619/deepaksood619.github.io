@@ -18,8 +18,9 @@
 - [SLOW PRODUCTIVITY by Cal Newport | Core Message - YouTube](https://www.youtube.com/watch?v=TJFuTZqAX5E&ab_channel=ProductivityGame)
 - [NOISE by Daniel Kahneman | Core Message - YouTube](https://www.youtube.com/watch?v=wBHFeMblT5g&ab_channel=ProductivityGame)
 - [THE SCOUT MINDSET by Julia Galef | Core Message - YouTube](https://www.youtube.com/watch?v=5L3CbdjeNRA&ab_channel=ProductivityGame)
+- [SUPERCOMMUNICATORS by Charles Duhigg | Core Message - YouTube](https://www.youtube.com/watch?v=308NQsiDrcE&ab_channel=ProductivityGame)
 
-[Learn to lead: THE 21 IRREFUTABLE LAWS OF LEADERSHIP by John Maxwell | Core Message - YouTube](https://www.youtube.com/watch?v=QQhdiktL99w)
+### [Learn to lead: THE 21 IRREFUTABLE LAWS OF LEADERSHIP by John Maxwell | Core Message - YouTube](https://www.youtube.com/watch?v=QQhdiktL99w)
 
 - The Law of Addition
     - PROMISE

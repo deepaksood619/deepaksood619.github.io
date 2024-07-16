@@ -10,6 +10,16 @@ I am a highly skilled and experienced engineer with 7+ years of experience with 
 
 ## Professional Experience
 
+### OpsTree, Senior AI, Data and DevOps Architect (Dec'23 - Present)
+
+At OpsTree, I spearheaded the creation of a data engineering vertical from the ground up, growing the team to 10-12 skilled professionals. Together, we successfully delivered numerous projects across AI, Data Engineering, and DBA domains over multiple clients. Our efforts not only enhanced the company's technical capabilities but also significantly reduced overall costs throughout the project lifecycle.
+
+- [coto.world](about-me/projects/54-airflow-kafka-migration.md) - Migration of Kafka and Airflow from SAAS to open source linode self-managed platform (Feb'24 - Apr'24)
+- [thriive.ai](about-me/projects/55-azure-social-media-analytics.md) - Social media listening (Mar'24)
+- [Freecharge cost optimization and DBA](about-me/projects/56-freecharge-cost-optimization-dba.md) (Apr'24 - Jun'24)
+- [Careers360 cost optimization](about-me/projects/57-careers360-cost-optimization.md) (May'24 - Sep'24)
+- [Mozark - Cloud Cost Optimization and Performance Enhancement](about-me/projects/53-mozark-cloud-cost-optimization.md) (Jul'24)
+
 ### Bake.io, Senior Data Engineer (Mar 2023 - Nov 2023)
 
 - Working on Databricks to create centralized data warehouse with bronze, silver and gold layers

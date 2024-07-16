@@ -34,19 +34,10 @@ These patterns deal with object relationships. They ensure that if one part of a
 
 - Adapter
 - Bridge
-- Composite
-
-    https://dev.to/coly010/the-composite-pattern-design-patterns-meet-the-frontend-445e- Decorator
-
+- Composite - [The Composite Pattern - Design Patterns Meet the Frontend - DEV Community](https://dev.to/coly010/the-composite-pattern-design-patterns-meet-the-frontend-445e)
+- Decorator
 - Facade
-- Flyweight
-
-    Refers to an [object](https://en.wikipedia.org/wiki/Object_(computer_science)) that minimizes [memory](https://en.wikipedia.org/wiki/Computer_memory) usage by sharing some of its data with other similar objects
-
-    In other contexts, the idea of sharing data structures is called [hash consing](https://en.wikipedia.org/wiki/Hash_consing).
-
-    https://en.wikipedia.org/wiki/Flyweight_pattern
-
+- Flyweight - Refers to an [object](https://en.wikipedia.org/wiki/Object_(computer_science)) that minimizes [memory](https://en.wikipedia.org/wiki/Computer_memory) usage by sharing some of its data with other similar objects. In other contexts, the idea of sharing data structures is called [hash consing](https://en.wikipedia.org/wiki/Hash_consing). https://en.wikipedia.org/wiki/Flyweight_pattern
 - Proxy
 
 ### Behavioral Design Patterns
@@ -112,9 +103,13 @@ when pattern is categorized as object-scope its goals are achieved through compo
 ## Single Source of Truth (SSOT)
 
 In order to centralize the data access, we need something called Single Source of Truth (SSOT).
+
 In information systems design and theory, single source of truth (SSOT) is the practice of structuring information models and associated data schema such that every data element is mastered (or edited) in only one place.
+
 It is basically a practice to centralize your data access into a single class (based on the usage of the data). For instance, you need to access the data aboutbook, then you have to centralize all the data access which related to book into a single class so that the other class (client) can easily fetch the book data by requesting to "source of truth" class.
+
 And because all other locations of the data access just refer back to the primary "source of truth" location, updates to the data element in the primary location propagate to the entire system without the possibility of a duplicate value somewhere being forgotten.
+
 Deployment of a SSOT is becoming increasingly important in enterprise settings where incorrectly linked duplicate or de-normalized data elements (a direct consequence of intentional or unintentional denormalization of any explicit data model) pose a risk for retrieval of outdated, and therefore incorrect, information.
 
 A common example would be the [electronic health record](https://en.wikipedia.org/wiki/Electronic_health_record), where it is imperative to accurately validate patient identity against a single referential repository, which serves as the SSOT.
@@ -138,3 +133,7 @@ https://www.freecodecamp.org/news/4-design-patterns-to-use-in-web-development
 ![image](../../media/Design-Patterns-image1.jpg)
 
 https://en.wikipedia.org/wiki/Software_design_pattern
+
+![image](../../media/design-patterns-part1.png)
+
+![image](../../media/design-patterns-part2.png)

@@ -20,6 +20,7 @@
 - [PBS Terra - YouTube](https://www.youtube.com/@pbsterra)
 - [Steve Mould - YouTube](https://www.youtube.com/@stevemould)
 - [The Action Lab - YouTube](https://www.youtube.com/@theactionlab)
+- [Freethink - YouTube](https://www.youtube.com/@freethink)
 
 ### Inventions and Building Stuff / Engineering
 
@@ -276,6 +277,7 @@
 
 - Healthcare triage
 - [Dr Pal - YouTube](https://www.youtube.com/@DrPal)
+- [Bryan Johnson - YouTube](https://www.youtube.com/@bryanjohnson)
 
 ### Others
 

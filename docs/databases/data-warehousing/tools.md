@@ -24,6 +24,16 @@ Some transformations in IICS include:
 - Transaction Control Transformation
 - WebServices Transformation
 
+### Components
+
+- [Secure Agents](https://docs.informatica.com/cloud-common-services/administrator/current-version/runtime-environments/secure-agents.html)
+- [Cloud Data Governance and Data Catalog (CDGC) – Predictive Data Intelligence | Informatica India](https://www.informatica.com/in/products/data-governance/cloud-data-governance-and-catalog.html)
+   	- [Best Practices for Implementing Cloud Data Governance and Catalog - YouTube](https://www.youtube.com/watch?v=E5Bo1AUYLS8)
+
+### Links
+
+- [How Informatica Cloud Data Governance and Catalog uses Amazon Neptune for knowledge graphs | AWS Database Blog](https://aws.amazon.com/blogs/database/how-informatica-cloud-data-governance-and-catalog-uses-amazon-neptune-for-knowledge-graphs/)
+
 ## DVC
 
 [DVC](https://dvc.org/) stands for "data version control". This project invites data scientists and engineers to a Git-inspired world, where all workflow versions are tracked, along with all the data artifacts and models, as well as associated metrics.

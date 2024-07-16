@@ -437,6 +437,5 @@ Karpenter automatically launches just the right compute resources to handle your
 
 - https://www.getporter.dev
 - https://spot.io/products/ocean
-- [Harbor](https://goharbor.io/)
 - [GitHub - spekt8/spekt8: Visualize your Kubernetes cluster in real time](https://github.com/spekt8/spekt8)
 - [GitHub - aquasecurity/kube-bench: Checks whether Kubernetes is deployed according to security best practices as defined in the CIS Kubernetes Benchmark](https://github.com/aquasecurity/kube-bench)

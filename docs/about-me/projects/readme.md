@@ -2,7 +2,7 @@
 
 ## Office Projects
 
-### OpsTree
+### OpsTree (Dec'23 - Present)
 
 #### Projects
 
@@ -11,6 +11,7 @@
 - [Azure Social Media Analytics](about-me/projects/55-azure-social-media-analytics.md)
 - [Airflow and Kafka Migration](about-me/projects/54-airflow-kafka-migration.md)
 - [AWS Gen AI Hackathon](about-me/projects/58-aws-gen-ai-hackathon.md)
+- [Mozark - Cloud Cost Optimization and Performance Enhancement](about-me/projects/53-mozark-cloud-cost-optimization.md)
 
 #### Account Management / Sales
 

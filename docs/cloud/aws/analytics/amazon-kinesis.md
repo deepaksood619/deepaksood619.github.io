@@ -49,6 +49,15 @@ AWS Kinesis is a powerful tool for any application or system that requires real-
 | **Best For**            | Applications with steady, predictable workloads                                                | Applications with fluctuating or unknown workloads                                          |
 | **Examples**            | - Video streaming service with consistent viewers, - IoT applications with steady data rates | - Retail apps with seasonal traffic, - Social media platforms with variable user activity |
 
+#### Pricing
+
+|             | hourly rate | hours | daily costs per shard | days | Monthly costs per shard |
+| ----------- | ----------- | ----- | --------------------- | ---- | ----------------------- |
+| on-demand   | $0.05       | 24    | $1.24                 | 30   | $37.22                  |
+| provisioned | $0.02       | 24    | $0.42                 | 30   | $12.60                  |
+
+[AWS Pricing Calculator - on-demand vs provisioned](https://calculator.aws/#/estimate?id=df50253955e97e4143474db1e344777c754c5287)
+
 [Choosing the Data Stream Capacity Mode - Amazon Kinesis Data Streams](https://docs.aws.amazon.com/streams/latest/dev/how-do-i-size-a-stream.html)
 
 ## Amazon Kinesis Data Firehose
