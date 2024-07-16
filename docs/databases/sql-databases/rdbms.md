@@ -65,7 +65,7 @@ https://www.toptal.com/sql/oracle-sql-server-migrations-pt-3
 
 ## Codd's 12 rules
 
-Codd's twelve rulesare a set of thirteen rules ([numbered zero to twelve](https://en.wikipedia.org/wiki/Zero-based_numbering)) proposed by [Edgar F. Codd](https://en.wikipedia.org/wiki/Edgar_F._Codd), a pioneer of the [relational model](https://en.wikipedia.org/wiki/Relational_model) for [databases](https://en.wikipedia.org/wiki/Database), designed to define what is required from a [database management system](https://en.wikipedia.org/wiki/Database_management_system) in order for it to be considered relational, i.e., a [relational database management system](https://en.wikipedia.org/wiki/Relational_database_management_system)(RDBMS).They are sometimes jokingly referred to as "Codd's Twelve Commandments".
+Codd's twelve rules are a set of thirteen rules ([numbered zero to twelve](https://en.wikipedia.org/wiki/Zero-based_numbering)) proposed by [Edgar F. Codd](https://en.wikipedia.org/wiki/Edgar_F._Codd), a pioneer of the [relational model](https://en.wikipedia.org/wiki/Relational_model) for [databases](https://en.wikipedia.org/wiki/Database), designed to define what is required from a [database management system](https://en.wikipedia.org/wiki/Database_management_system) in order for it to be considered relational, i.e., a [relational database management system](https://en.wikipedia.org/wiki/Relational_database_management_system)(RDBMS). They are sometimes jokingly referred to as Codd's Twelve Commandments.
 
 - Rule 0: The foundation rule
 - Rule 1: The information rule
@@ -82,3 +82,9 @@ Codd's twelve rulesare a set of thirteen rules ([numbered zero to twelve](https:
 - Rule 12: The nonsubversion rule
 
 https://en.wikipedia.org/wiki/Codd%27s_12_rules
+
+## RDBMS Geneology
+
+![RDBMS Geneology](../../media/Screenshot%202024-07-17%20at%201.23.31%20AM.jpg)
+
+[RDBMS Genealogy V6.pdf](https://hpi.de/fileadmin/user_upload/fachgebiete/naumann/projekte/RDBMSGenealogy/RDBMS_Genealogy_V6.pdf)

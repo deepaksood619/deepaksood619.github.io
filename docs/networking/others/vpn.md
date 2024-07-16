@@ -77,3 +77,7 @@ https://en.wikipedia.org/wiki/IPsec
 |**PPTP (Point-to-Point Tunneling Protocol) VPN**|PPTP (Point-to-Point Tunneling Protocol) is a type of VPN that uses a simple and fast method for implementing VPNs. It creates a secure connection between two computers by encapsulating the data packets being sent between them.|
 |**L2TP (Layer 2 Tunneling Protocol) VPN**|L2TP (Layer 2 Tunneling Protocol) is a type of VPN that creates a secure connection by encapsulating data packets being sent between two computers. L2TP is an extension of PPTP, it adds more security to the VPN connection by using a combination of PPTP and L2F (Layer 2 Forwarding Protocol) and it uses stronger encryption algorithm than PPTP.|
 |**OpenVPN**|OpenVPN is an open-source software application that uses SSL and is highly configurable and secure. It creates a secure and encrypted connection between two computers by encapsulating the data packets being sent between them.OpenVPN can be used to access internal resources such as email, file servers, or databases.|
+
+## Links
+
+- [vpn-tools](networking/others/vpn-tools.md)
