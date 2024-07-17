@@ -24,6 +24,9 @@
 - [Problems in IoT Industry](about-me/projects/65-problems-in-iot-industry.md)
 - [IoT Case Studies](about-me/projects/66-iot-case-studies.md)
 - [Data Engineering - Battle Cards](about-me/projects/67-data-engineering-battle-cards.md)
+- [Pull Request Risk Tagging Heuristics](about-me/projects/52-pull-request-risk-tagging-heuristics.md)
+- [Case Study: Anomaly Detection in Metric Data using Isolation Forest](about-me/projects/51-case-study-anomaly-detection.md)
+- [Use Cases: AIML in Logistics and Warehousing](about-me/projects/50-use-cases-aiml-logistics-warehousing.md)
 
 ### Bake.io
 
@@ -40,6 +43,7 @@
 - [Stashfin Security IAM APIs](about-me/projects/88-stashfin-security-iam-apis.md) (Feb'20 - Feb'23)
 - [Stashfin Devops Overhaul](about-me/projects/89-stashfin-devops-overhaul.md) (Feb'20 - Jan'21)
 - [Stashfin Tech Stack / Infra](about-me/projects/90-stashfin-tech-stack-infra.md) (Feb'20 - Feb'23)
+- [Stashfin AIML Use Cases & Implementation](about-me/projects/91-stashfin-aiml-use-cases.md) (Feb'20 - Feb'23)
 
 ### Zenatix
 

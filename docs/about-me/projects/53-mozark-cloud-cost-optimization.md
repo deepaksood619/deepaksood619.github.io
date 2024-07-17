@@ -2,8 +2,8 @@
 
 ## Client Overview
 
-- **Client:** Mozark  
-- **Industry:** Technology  
+- **Client:** Mozark
+- **Industry:** Technology
 - **Objective:** Reduce AWS costs, enhance database performance, and create a scalable architecture.
 - Initial AWS Monthly Costs - $20,000
 - Optimized AWS Monthly Costs - $12,000

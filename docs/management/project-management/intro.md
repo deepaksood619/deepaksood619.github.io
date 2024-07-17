@@ -13,25 +13,6 @@ https://blog.trello.com/project-management-methodologies
 - Project type and industry: Some methodologies work best for certain industries and project types, such as highly creative projects or product development sprints.
 - Team: Consider the team size, diversity, flexibility, experience, and individual expertise or strengths and weaknesses, as well as their ability to collaborate and communicate when choosing a methodology.
 
-## Methodologies
-
-- Agile: Flexible, Fast, And Short Collaborative Sprint Projects
-- Scrum: Quick And Continuous Development Projects
-- Kanban: Visualize Task Progress For Agile Teams
-- Lean: Projects That Do More With Less
-- Waterfall: Large-Scale, End-Goal Focused, And Fixed Projects
-- Hybrid: Flexible And Fast-Paced Projects With Structured Plans
-
-### Lean
-
-Lean was created in the Japanese manufacturing industry to improve quality control and remove redundancies that may increase the price or value for customers down the line.
-
-Known as the three M's, Lean methodology defines three types of project waste: muda, mura, and muri.
-
-- Muda is about getting rid of the waste or anything that doesn't add value.
-- Mura streamlines processes, so if one aspect of the project takes too long, for instance, then something further down the task list will have to be completed faster.
-- Muri is about removing blockers, such as too many stakeholder meetings.
-
 ## What we need
 
 - Advanced project & task management

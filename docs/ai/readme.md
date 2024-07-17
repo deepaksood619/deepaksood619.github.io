@@ -10,7 +10,7 @@
 - [LLM](ai/llm/readme.md)
 - [Computer Vision](computer-vision-cv/readme.md)
 - [NLP](nlp/readme.md)
-- [Move37](move-37/readme.md)
+- [Move37 - Reinforcement Learning](move-37/readme.md)
 - [Pandas](pandas/readme.md)
 - [Numpy](numpy/readme.md)
 - [Scikit-learn / Scipy](scikit-learn/readme.md)

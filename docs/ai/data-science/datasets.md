@@ -59,3 +59,9 @@ H and DS use similar datasets, and DS is basically the next-gen version of H. Wh
 [TPC Benchmarks Overview](https://www.tpc.org/information/benchmarks5.asp)
 
 [What is the difference between TPC-H and TPC-DS benchmarks? | by Albert Wong | Oct, 2023 | Medium](https://atwong.medium.com/what-is-the-difference-between-tpc-h-and-tpc-ds-benchmarks-cb92fc104c32)
+
+## Tools
+
+- Croissant
+   	- [Croissant: a metadata format for ML-ready datasets](https://research.google/blog/croissant-a-metadata-format-for-ml-ready-datasets/)
+   	- [GitHub - mlcommons/croissant: Croissant is a high-level format for machine learning datasets that brings together four rich layers.](https://github.com/mlcommons/croissant)
