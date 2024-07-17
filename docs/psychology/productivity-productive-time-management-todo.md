@@ -4,6 +4,8 @@ Productivity isn't everything, but, in the long run, it is almost everything -- 
 
 The most invisible form of wasted time is doing a good job on an unimportant task.
 
+Take care of the minutes and the hours will take care of themselves -- Lord Chesterfield
+
 https://www.scotthyoung.com/blog/2020/10/26/foundation-practices
 
 1. Establish an Airtight Productivity System

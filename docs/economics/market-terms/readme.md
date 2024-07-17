@@ -6,6 +6,7 @@
 - [Fundamental Analysis](economics/market-terms/fundamental-analysis.md)
 - [Valuation Metrics](economics/market-terms/valuation-metrics.md)
 - [Futures / Options / Trading](economics/market-terms/futures-options-trading.md)
+- [Swing Trading](economics/market-terms/swing-trading.md)
 - [Wyckoff Method](economics/market-terms/wyckoff-method.md)
 - [Others](economics/market-terms/others.md)
 

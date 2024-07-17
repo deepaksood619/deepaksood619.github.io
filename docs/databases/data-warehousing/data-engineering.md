@@ -104,7 +104,7 @@
 
 - [iPaaS Solution for the Enterprise | SnapLogic](https://www.snaplogic.com/)
 
-### State of Data Engineering 2024
+## State of Data Engineering 2024
 
 ![](../../media/Screenshot%202024-07-15%20at%2012.16.36%20AM.jpg)
 

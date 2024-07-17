@@ -17,6 +17,17 @@
 | m7i.large      | $73.584   | $33.069 | $48.676       | $33.376       |
 | m7a.large      | $84.622   | $35.405 | $55.976       | $38.383       |
 
+**Region - Mumbai** -
+
+| Instance Types | On Demand | Spot    | 1 Yr Reserved | 3 Yr Reserved | Cheaper | Costlier |
+| -------------- | --------- | ------- | ------------- | ------------- | ------- | -------- |
+| m6g.large      | $36.938   | $14.965 | $23.287       | $15.987       | 9%      |          |
+| m6a.large      | $40.552   | $18.688 | $26.784       | $18.440       | 45%     | 10%      |
+| m6i.large      | $73.730   | $28.835 | $48.691       | $33.529       |         | 82%      |
+
+- Graviton is 9% cheaper than AMD and **50% cheaper than Intel**
+- AMD Instances are 45% cheaper than Intel and 10% costlier than graviton
+
 | **General Purpose**       | A1, T3, T3a, T2, M6g, M5, **M5a**, M5n, M4  |
 |---------------------------|---------------------------------------------|
 | **Compute Optimized**     | C5, C5n, C4                                 |
