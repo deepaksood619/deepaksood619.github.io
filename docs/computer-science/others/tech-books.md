@@ -38,7 +38,7 @@ Networks, Crowds, and Markets: Reasoning about a Highly Connected World
 - Site Reliability Engineering
 - Site Reliability Workbook
 - The Clean Coder
-- The mythical man-month
+- The Mythical Man-Month: Essays on Software Engineering
 - The self taught programmer
 - Wireless Networking http://wndw.net/book.html
 - [Windows Internals Book - Sysinternals | Microsoft Learn](https://learn.microsoft.com/en-us/sysinternals/resources/windows-internals)

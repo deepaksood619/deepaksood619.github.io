@@ -8,7 +8,7 @@
 
 ## Choosing Stocks
 
-- PE less than 15
+- **PE less than 15** (avg - 30, not more than 30)
 - Fundamental Analysis
     - Annual report
     - Management discussions

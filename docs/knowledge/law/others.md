@@ -10,6 +10,10 @@ B-block, mini-secretariat 10 am
 
 Satendra Kumar Verma
 
+## Divorce
+
+[Fetching Title#2t9w](https://news.onepercentclub.io/legal/how-much-does-it-cost-to-hire-a-good-divorce-lawyer-in-india/6003/)
+
 ## Writ
 
 Under the [Indian](https://en.wikipedia.org/wiki/India) legal system, jurisdiction to issue '[prerogative writs](https://en.wikipedia.org/wiki/Prerogative_writ)' is given to the [Supreme Court](https://en.wikipedia.org/wiki/Supreme_Court_of_India), and to the High Courts of Judicature of all [Indian states](https://en.wikipedia.org/wiki/States_of_India). Parts of the law relating to writs are set forth in the [Constitution of India](https://en.wikipedia.org/wiki/Constitution_of_India). The Supreme Court, the highest in the country, may issue writs under Article 32 of the Constitution for enforcement of [fundamental rights](https://en.wikipedia.org/wiki/Fundamental_rights_in_India) and under Article 139 for enforcement of rights other than fundamental rights, while High Courts, the superior courts of the States, may issue writs under Articles 226. The Constitution broadly provides for five kinds of "prerogative" writs:habeas corpus, certiorari, mandamus, quo warrantoand prohibition:

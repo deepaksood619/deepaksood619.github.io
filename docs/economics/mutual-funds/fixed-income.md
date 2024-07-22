@@ -81,6 +81,8 @@ https://www.paytmmoney.com/blog/emergency-funds
 
 A 6% return from arbitrage fund is enough (5.37% post-tax) to beat the 7.75% bonds even without factoring in the one-lakh tax-free gains.
 
+[SCSS Interest Rate FY 2024-25: What can Senior Citizens get now? - The 1% News](https://news.onepercentclub.io/invest/latest-scss-interest-rate-for-senior-citizens/4154/)
+
 Mis (Monthly Income Scheme) - Limit 9 lakh
 
 ### Mahila Samman Saving certificate - 7.5% 2 lakh

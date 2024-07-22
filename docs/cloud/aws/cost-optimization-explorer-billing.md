@@ -4,6 +4,13 @@
 
 [Cloud Financial Management with AWS](https://aws.amazon.com/aws-cost-management/)
 
+### Region Costs
+
+- Oregon - 333.98
+- N.Virginia - 333.98
+- Singapore - 440.74
+- Hyderabad - 433.53
+
 ## AWS Cost Explorer
 
 - **APS3:** Asia Pacific (Mumbai)
@@ -100,27 +107,23 @@ Compute Optimizer generates recommendations for the following resources:
 
 Ideally, both should be 100%, but I would say that it's more important to keep the utilization report at 100% because it's already a fixed cost that you already acquired. The coverage report indicates further improvement opportunities to reduce costs.
 
-[amazon web services - Difference Between AWS SAVING PLAN Coverage Report vs Utilization Report - Stack Overflow](https://stackoverflow.com/questions/72490474/difference-between-aws-saving-plan-coverage-report-vs-utilization-report)
-
-[Using the utilization report - Savings Plans](https://docs.aws.amazon.com/savingsplans/latest/userguide/ce-sp-usingPR.html)
-
-[Using your coverage report - Savings Plans](https://docs.aws.amazon.com/savingsplans/latest/userguide/ce-sp-usingCR.html)
-
-[Compute Savings Plans – Amazon Web Services](https://aws.amazon.com/savingsplans/compute-pricing/)
+- [amazon web services - Difference Between AWS SAVING PLAN Coverage Report vs Utilization Report - Stack Overflow](https://stackoverflow.com/questions/72490474/difference-between-aws-saving-plan-coverage-report-vs-utilization-report)
+- [Using the utilization report - Savings Plans](https://docs.aws.amazon.com/savingsplans/latest/userguide/ce-sp-usingPR.html)
+- [Using your coverage report - Savings Plans](https://docs.aws.amazon.com/savingsplans/latest/userguide/ce-sp-usingCR.html)
+- [Compute Savings Plans – Amazon Web Services](https://aws.amazon.com/savingsplans/compute-pricing/)
 
 ## Reserved Instances
 
 With Aurora MySQL they have [size flexibility](https://aws.amazon.com/about-aws/whats-new/2017/10/amazon-rds-reserved-instances-offer-instance-size-flexibility/) -- so they can purchase a T3.Large, and run 4 T3.Smalls to get the discount (or whatever the size factor is). However, they must commit to the T3 family. They will not be able to get the discount by running a T2 RDS instance. That T2 will be billed on-demand rates.
 
-Also RDS RI purchased in one account can be used in another account if RI sharing is enabled (consolidated billing)
+Also RDS RI purchased in one account can be used in another account if RI sharing is enabled (consolidated billing).
 
-[Reserved Instances for RDS Aurora | AWS re:Post](https://repost.aws/questions/QU2oqoI7B8R8KR21qsCIGP6Q/reserved-instances-for-rds-aurora)
+If running a instance for less than 12-15 hours then on-demand can be cheaper than RI, since RI's cost is 24 hours, and doesn't depend on if the instance is used or not.
 
-[Reserved Instances and Savings Plans discount sharing - AWS Billing](https://docs.aws.amazon.com/awsaccountbilling/latest/aboutv2/ri-turn-off.html)
-
-[Billing examples for specific services - AWS Billing](https://docs.aws.amazon.com/awsaccountbilling/latest/aboutv2/consolidatedbilling-other.html#consolidatedbilling-rds)
-
-[Does RI sharing in orgs apply to RDS RIs too? | AWS re:Post](https://repost.aws/questions/QUQCZ8ZgB8T1KqNHJsFzfnGg/does-ri-sharing-in-orgs-apply-to-rds-ris-too)
+- [Reserved Instances for RDS Aurora | AWS re:Post](https://repost.aws/questions/QU2oqoI7B8R8KR21qsCIGP6Q/reserved-instances-for-rds-aurora)
+- [Reserved Instances and Savings Plans discount sharing - AWS Billing](https://docs.aws.amazon.com/awsaccountbilling/latest/aboutv2/ri-turn-off.html)
+- [Billing examples for specific services - AWS Billing](https://docs.aws.amazon.com/awsaccountbilling/latest/aboutv2/consolidatedbilling-other.html#consolidatedbilling-rds)
+- [Does RI sharing in orgs apply to RDS RIs too? | AWS re:Post](https://repost.aws/questions/QUQCZ8ZgB8T1KqNHJsFzfnGg/does-ri-sharing-in-orgs-apply-to-rds-ris-too)
 
 ## Reservations Utilization Report and Coverage Report
 

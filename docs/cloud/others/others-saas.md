@@ -61,9 +61,12 @@ https://blueyonder.com
 - https://www.openhrms.com
 - http://demo.openhrms.com/web/login
 - [**https://erpnext.com/**](https://erpnext.com/)
-- https://github.com/frappe/erpnext
-- [**https://github.com/frappe/frappe_docker**](https://github.com/frappe/frappe_docker)
-- https://frappe.school
+   	- Best - **[GitHub - frappe/hrms: Open Source HR and Payroll Software](https://github.com/frappe/hrms)**
+      		- [Frappe HR](https://frappe.io/hr)
+   	- https://github.com/frappe/erpnext
+   	- [**https://github.com/frappe/frappe_docker**](https://github.com/frappe/frappe_docker)
+   	- https://frappe.school
+   	- [Introduction](https://frappeframework.com/docs/user/en/guides/integration/rest_api)
 - https://wperp.com/81080/7-most-popular-open-source-hris-software-to-look-for-now-an-easy-comparison
 - https://www.lever.co
 

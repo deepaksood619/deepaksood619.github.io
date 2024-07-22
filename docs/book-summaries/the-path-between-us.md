@@ -162,7 +162,7 @@ Life's a lot easier when people agree with each other. No yelling, no arguments 
 
 The key message here is: Nines love to chill.
 
-These easygoing souls are known asPeacemakers, and they really, really don't want to fight with you.
+These easygoing souls are known as Peacemakers, and they really, really don't want to fight with you.
 
 For starters, the Nine doesn't have enough energy to fight -- in fact, he's the least energetic personality type. He's also too easygoing to cause a fuss. His mission is to live a tranquil life, and he tries to steer clear of anything that might disturb his serenity. If you spend time with a Nine, you'll probably find him undemanding and nonjudgmental.
 

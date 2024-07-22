@@ -196,7 +196,7 @@
 - Undecided with Matt Ferrell
 - [Two Bit da Vinci - YouTube](https://www.youtube.com/@TwoBitDaVinci)
 
-### Finance / Stocks / Personal finance
+### Finance / Stocks / Personal finance / Economics
 
 - Economics Explained
 - Epic economics
@@ -222,6 +222,7 @@
 - [Finance With Sharan - YouTube](https://youtube.com/@financewithsharan)
 - [How Money Works - YouTube](https://www.youtube.com/@howmoneyworks)
 - [Garys Economics - YouTube](https://www.youtube.com/@garyseconomics)
+- [Econ - YouTube](https://www.youtube.com/@econyt)
 
 #### Trading
 

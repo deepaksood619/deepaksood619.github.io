@@ -66,7 +66,7 @@ https://www.percona.com/doc/percona-toolkit/3.0/pt-online-schema-change.html- [p
 
 [Percona pt-online-schema-change Performance | by Gauraang Khurana | Medium](https://medium.com/@gauraangkhurana/percona-pt-online-schema-change-performance-1def5866b43)
 
-- [pt-query-digest](https://www.percona.com/doc/percona-toolkit/LATEST/pt-query-digest.html)
+- [pt-query-digest](https://www.percona.com/doc/percona-toolkit/LATEST/pt-query-digest.html) - Analyze MySQL queries from logs, processlist, and tcpdump.
 - [pt-secure-collect](https://www.percona.com/doc/percona-toolkit/LATEST/pt-secure-collect.html)
 - [pt-show-grants](https://www.percona.com/doc/percona-toolkit/LATEST/pt-show-grants.html)
 - [pt-sift](https://www.percona.com/doc/percona-toolkit/LATEST/pt-sift.html)

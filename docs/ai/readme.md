@@ -25,12 +25,12 @@
 
 AGI will be intellectually, morally, ethically and creatively superior to humans in every conceivable way
 
-[Ben Goertzel: Singularity, Sparks of AGI in GPT - YouTube](https://www.youtube.com/watch?v=27zHyw_oHSI)
+- [Ben Goertzel: Singularity, Sparks of AGI in GPT - YouTube](https://www.youtube.com/watch?v=27zHyw_oHSI)
+- [Ben Goertzel - Open Ended vs Closed Minded Conceptions of Superintelligence - YouTube](https://www.youtube.com/watch?v=4mEsJ3z6T_E)
+- [Christopher Hitchens on Fear and A.I. - YouTube](https://www.youtube.com/watch?v=VmKqBlbxfUo)
+- [Google's DeepMind Co-founder: AI Is Becoming More Dangerous And Threatening! - Mustafa Suleyman - YouTube](https://www.youtube.com/watch?v=CTxnLsYHWuI)
+- [Artificial consciousness - Wikipedia](https://en.wikipedia.org/wiki/Artificial_consciousness)
 
-[Ben Goertzel - Open Ended vs Closed Minded Conceptions of Superintelligence - YouTube](https://www.youtube.com/watch?v=4mEsJ3z6T_E)
+## Links
 
-[Christopher Hitchens on Fear and A.I. - YouTube](https://www.youtube.com/watch?v=VmKqBlbxfUo)
-
-[Google's DeepMind Co-founder: AI Is Becoming More Dangerous And Threatening! - Mustafa Suleyman - YouTube](https://www.youtube.com/watch?v=CTxnLsYHWuI)
-
-[Artificial consciousness - Wikipedia](https://en.wikipedia.org/wiki/Artificial_consciousness)
+- [Full Steam Ahead: The 2024 MAD (Machine Learning, AI & Data) Landscape – Matt Turck](https://mattturck.com/mad2024/)

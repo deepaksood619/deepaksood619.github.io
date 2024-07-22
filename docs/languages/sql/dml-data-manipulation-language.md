@@ -162,7 +162,7 @@ EXPLAIN EXTENDED
 - How many rows will be accessed.
 - Whether it used a filesort.
 
-## Output
+### Output
 
 - **Possible keys:** shows the keys that can be used by MySQL to find rows from the table, if this is NULL it indicates no useful indexes could be applied.
 - **Key:** indicates the actual index that MySQL used.
@@ -170,22 +170,30 @@ EXPLAIN EXTENDED
 - **Key_len:** longest length of the key that was used (aka which parts of the composite index are being used) use this to tell how many columns were used from it.
 - **Ref:** which columns, or constants are compared to the index in order to select rows.
 
-- **Extra**
+#### Extra
 
   What you would like to see in Extra:
 
-    - Using index - MySQL was able to use a covering index
-    - Distinct - MySQL stops searching after it found the first matching row
-    - Using index condition
+- Using index - MySQL was able to use a covering index
+- Distinct - MySQL stops searching after it found the first matching row
+- Using index condition
 
-  What you don't want to see in Extra:
+What you don't want to see in Extra:
 
-    - Using file sort - as said extra sorting was required
-    - Using temporary - a temp table was needed
-    - Using join buffer - tables processed in large batches of rows, instead of index lookups
-    - Using where - after fetching rows from storage engine, extra filtering needs to happen for each row. However it's OK if a very small number of rows were returned.
+- Using file sort - as said extra sorting was required
+- Using temporary - a temp table was needed
+- Using join buffer - tables processed in large batches of rows, instead of index lookups
+- Using where - after fetching rows from storage engine, extra filtering needs to happen for each row. However it's OK if a very small number of rows were returned.
 
-  https://www.sitepoint.com/using-explain-to-write-better-mysql-queries
+https://www.sitepoint.com/using-explain-to-write-better-mysql-queries
+
+### Explain Analyze
+
+In MySQL 8.0.18, `EXPLAIN ANALYZE` was introduced, a new concept built on top of the regular `EXPLAIN` query plan inspection tool. In addition to the query plan and estimated costs, which a normal `EXPLAIN` will print, `EXPLAIN ANALYZE` also prints the _actual_ costs of individual iterators in the execution plan.
+
+**Warning** - `EXPLAIN ANALYZE` actually runs the query, so if you don’t want to run the query against your live database, do not use `EXPLAIN ANALYZE`.
+
+[How to read MySQL EXPLAINs](https://planetscale.com/blog/how-read-mysql-explains)
 
 ## Lock Tables
 

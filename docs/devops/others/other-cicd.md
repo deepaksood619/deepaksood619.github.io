@@ -23,7 +23,7 @@ https://github.com/theonedev/onedev
 
 - [Blacksmith](https://blacksmith.sh/)
 - [Blacksmith - Overview + Get Started - YouTube](https://www.youtube.com/watch?v=lZO1HExEvtE)
-- [Site Unreachable](https://docs.blacksmith.sh/getting-started/why-blacksmith)
+- [Why Blacksmith?](https://docs.blacksmith.sh/getting-started/why-blacksmith)
 
 ### Github Actions - [Marketplace](https://github.com/marketplace)
 

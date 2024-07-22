@@ -208,3 +208,4 @@ Why kicking out children after 18 years is important, let's say you are very wea
 - [What to Do if Your Baby Is Waking Up in the Middle of the Night](https://www.whattoexpect.com/first-year/ask-heidi/month-9/sudden-night-wakings.aspx)
 - [12-Month-Old Baby: Milestones and Development](https://www.whattoexpect.com/toddler/12-month-old/)
 - [Baby Won’t Sleep? 11 Common Problems by Month Age and What to Do](https://www.whattoexpect.com/first-year/baby-sleep-problems.aspx)
+- [When Do Babies Start Talking?](https://www.whattoexpect.com/first-year/first-words/)

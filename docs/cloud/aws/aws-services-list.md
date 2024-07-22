@@ -189,6 +189,7 @@ Total with Duplicates - 331 services
 ## 11. Front-End Web & Mobile (8)
 
 1. **Amazon API Gateway** - Build, deploy, and manage APIs
+	1. [Amazon API Gateway Pricing | API Management | Amazon Web Services](https://aws.amazon.com/api-gateway/pricing/)
 2. **Amazon Location Service** - Securely and easily add location data to applications
 3. **Amazon Pinpoint** - Multichannel marketing communications
 4. **Amazon Simple Email Service (SES)** - High-scale inbound and outbound email

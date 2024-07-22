@@ -133,6 +133,16 @@ Highly accurate intelligent search service powered by machine learning
 
 1. AWS Mobile Hub - Build, Test, and Monitor Apps
 2. Amazon API Gateway - Build, Deploy, and Manage APIs
+	1. [Amazon API Gateway Pricing: 6 Tips to Control the Cost](https://www.stormit.cloud/blog/amazon-api-gateway-pricing/)
+		1. Right type of API gateway - REST APIs vs HTTP APIs
+		2. API Gateway integration feature
+		3. Cognito authentication
+		4. Replace API Gateway with ALB (Application Load Balancer)
+		5. Reduce unnecessary API calls
+		6. Reduce data transfer costs
+	2. [Choose between REST APIs and HTTP APIs - Amazon API Gateway](https://docs.aws.amazon.com/apigateway/latest/developerguide/http-api-vs-rest.html)
+		1. REST APIs and HTTP APIs are both RESTful API products. REST APIs support more features than HTTP APIs, while HTTP APIs are designed with minimal features so that they can be offered at a lower price. Choose REST APIs if you need features such as API keys, per-client throttling, request validation, AWS WAF integration, or private API endpoints. Choose HTTP APIs if you don't need the features included with REST APIs.
+	3. HTTP APIs - $1.05 vs REST APIs - $3.50
 3. Amazon Pinpoint - Push Notifications for Mobile Apps
 4. AWS AppSync - Real-time and Offline Mobile Data Apps
 5. AWS Device Farm - Test Android, FireOS, and iOS Apps on Real Devices in the Cloud

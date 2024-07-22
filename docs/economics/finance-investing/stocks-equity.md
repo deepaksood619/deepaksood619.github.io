@@ -93,6 +93,19 @@ You can claim exemption against any long-term capital gains tax liability if you
 
 https://marcellus.in/blogs/three-distinct-layers-of-polarization-in-the-indian-stock-market
 
+## 10 Fav stocks of mutual funds beyond Nifty50
+
+- Bharat Electronics - Rs. 36,877 cr
+- HAL - Rs. 20,961 cr
+- PFC - Rs. 20,901 cr
+- Zomato - Rs. 19,932 cr
+- Avenue Supermarkets - Rs. 19,527 cr
+- Interglobe Aviation - Rs. 19,329 cr
+- Cummings India - Rs. 17,686 cr
+- SBI Life - Rs. 17,645 cr
+- TVS Motor - Rs. 17,527 cr
+- Motherson - Rs. 15,427 cr
+
 ## Top retail investors
 
 1. Rakesh Jhunjhunwala and Associates

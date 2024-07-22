@@ -344,6 +344,10 @@ Also, the dividend income earned on foreign investments is taxed at the pre-defi
 
 [Income Tax Return Filing: Invested in foreign assets and stocks? Follow these steps to declare holding in ITR | Zee Business](https://www.zeebiz.com/personal-finance/income-tax/news-income-tax-return-filings-how-to-file-foreign-assets-and-stocks-in-itr-filing-foreign-stock-investment-tax-declaration-capital-gains-tax-stst-242083)
 
+#### Dividend for msft stocks
+
+Basically the only issue will come with dividends (this is missed in 26AS and needs to be declared to avoid discrepancy), and while declaring we give a tax for ~31.2% in the portal afaik. However the US laws state that 25% to be deducted for indians earning dividends in US firms. So form 67 needs to be filled in for taking back the extra 25% we paid for the dividends.
+
 ## Inward remittances
 
 **Purpose Code**

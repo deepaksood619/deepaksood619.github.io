@@ -49,11 +49,16 @@ Highly personalized education for each person
 - goals
 - learn about the candidate overall from each conversation, there can be thousands of parameters learned, which can be used for each new conversation and making the study more personalized and targeted.
 
-### Wide capabiliies
+### Wide capabilities
 
 - from chef to scientist, from parenting to coach, from machine learning to data scientist, from astronaut to lawyer, from sports to singing
 - wide range of age to cater too - from toddlers to graduates to mid career to retirees
 - can teach about hobbies too like gardening etc
+
+### Career counsellor
+
+- For senior people, the AI should be able to ask for what they want to do in life, understand passion, access them for that, tell their strengths and weakness and then teach, test and revise them to bridge the gaps
+- it should be real time updated with all exams, forms, dates, etc for all the things and should be able to ask person to apply and then prepare them for it using tests and quizzes specifically using past exam questions
 
 ### Links
 
