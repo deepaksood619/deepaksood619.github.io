@@ -126,7 +126,7 @@ S3 Glacier Deep Archive is Amazon S3’s lowest-cost storage class and supports 
 
 ## Performance across the S3 storage classes
 
-|                                 | S3 Standard                                          | S3 Intelligent-Tiering*                                                  | S3 Express One Zone**                                           | S3 Standard-IA                                           | S3 One Zone-IA**                        | S3 Glacier - Instant Retrieval                                             | S3 Glacier Flexible Retrieval***                             | S3 Glacier -Deep Archive***                             |
+|                                 | S3 Standard                                          | S3 Intelligent-Tiering*                                                  | S3 Express One Zone**                                           | S3 Standard-IA                                           | S3 One Zone-IA**                        | S3 Glacier - Instant Retrieval                                                | S3 Glacier Flexible Retrieval***                             | S3 Glacier -Deep Archive***                                 |
 | ------------------------------- | ---------------------------------------------------- | ------------------------------------------------------------------------ | --------------------------------------------------------------- | -------------------------------------------------------- | --------------------------------------- | ----------------------------------------------------------------------------- | ------------------------------------------------------------ | ----------------------------------------------------------- |
 | Use cases                       | General purpose storage for frequently accessed data | Automatic cost savings for data with unknown or changing access patterns | High performance storage for your most frequently accessed data | Infrequently accessed data that needs millisecond access | Re-creatable infrequently accessed data | Long-lived data that is accessed a few times per year with instant retrievals | Backup and archive data that is rarely accessed and low cost | Archive data that is very rarely accessed and very low cost |
 | First byte latency              | milliseconds                                         | milliseconds                                                             | single-digit milliseconds                                       | milliseconds                                             | milliseconds                            | milliseconds                                                                  | minutes or hours                                             | hours                                                       |
@@ -140,3 +140,26 @@ S3 Glacier Deep Archive is Amazon S3’s lowest-cost storage class and supports 
 #### Durability
 
 Amazon S3 provides the most durable storage in the cloud. Based on its unique architecture, S3 is designed to exceed **99.999999999% (11 nines)** data durability. Additionally, S3 stores data redundantly across a minimum of 3 Availability Zones by default, providing built-in resilience against widespread disaster. Customers can store data in a single AZ to minimize storage cost or latency, in multiple AZs for resilience against the permanent loss of an entire data center, or in multiple AWS Regions to meet geographic resilience requirements.
+
+## Code
+
+```python
+# https://stackoverflow.com/questions/46288550/how-to-use-boto3-to-write-to-s3-standard-infrequent-access
+
+# directly upload a file to STANDARD_IA storage class
+
+import boto3
+
+client = boto3.client('s3')
+
+client.upload_file(
+    Filename = '/tmp/foo.txt',
+    Bucket = 'my-bucket',
+    Key = 'foo.txt',
+    ExtraArgs = {
+      'StorageClass': 'ONEZONE_IA'
+    }
+)
+
+StorageClass='STANDARD'|'REDUCED_REDUNDANCY'|'STANDARD_IA'|'ONEZONE_IA'|'INTELLIGENT_TIERING'|'GLACIER'|'DEEP_ARCHIVE'|'OUTPOSTS',
+```

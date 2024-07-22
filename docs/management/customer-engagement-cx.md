@@ -406,6 +406,16 @@ https://segment.com/blog/CRM-vs-CDP
 
 [CRM vs ERP - What's the Difference?](https://www.youtube.com/watch?v=YmRz8j66m7I)
 
+- [sap](cloud/others/sap.md)
+- [GitHub - frappe/erpnext: Free and Open Source Enterprise Resource Planning (ERP)](https://github.com/frappe/erpnext)
+   	- [ERPNext: Free and Open Source Cloud ERP Software](https://erpnext.com/)
+- Microsoft Dynamics 365
+- Odoo
+- Workday
+- WFX - [Apparel ERP Software for Apparel & Fashion Industry | WFX](https://www.worldfashionexchange.com/apparel-erp-software.html)
+
+[Top 10 ERP Systems for 2024](https://www.linkedin.com/pulse/top-10-erp-systems-2024-eric-kimberling/)
+
 ## Others
 
 [Canny: Customer Feedback Management Tool](https://canny.io/) - _Canny_ helps you collect and organize feature requests to better understand customer needs and prioritize your roadmap.

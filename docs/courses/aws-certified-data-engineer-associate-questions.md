@@ -1,5 +1,7 @@
 # AWS Certified Data Engineer - Associate Questions
 
+[AWS Certified Data Engineer - Associate DEA-C01 Exam - Free Exam Q&As, Page 1 | ExamTopics](https://www.examtopics.com/exams/amazon/aws-certified-data-engineer-associate-dea-c01/view/)
+
 ## Question 1
 
 A consultant company uses a cloud-based time-tracking system to track employee work hours. The company has thousands of employees that are globally distributed. The time-tracking system provides a REST API to obtain the records from the previous day in CSV format. The company has a cron on premises that is scheduled to run a Python program each morning at the same time. The program saves the data into an Amazon S3 bucket that serves as a data lake. A data engineer must provide a solution with AWS services that reuses the same Python code and cron configuration.

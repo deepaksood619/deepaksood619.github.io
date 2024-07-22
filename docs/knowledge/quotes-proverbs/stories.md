@@ -123,3 +123,26 @@ But when success is maintained for a long period the greatest skill often isn't 
 1. The decline of paranoia that made you successful to begin with.
 2. Finding other peoples' flaws more than you look for your own improvements.
 3. The feeling of mastering a topic, particularly if that topic adapts and evolves.
+
+## Two Soldiers guarding a Bench
+
+A new camp commander was appointed and while inspecting the place, he saw two soldiers guarding a bench.
+
+He asked them why do they guard it.
+
+"We don't know. The last commander told us to do so - and so we did.
+We think it might be some sort of regimental tradition!"
+
+He searched for the last commander's phone number and called him to ask why did he want this particular bench to be guarded.
+"I don't know. The previous commander before me had it guarded, and I kept the tradition."
+
+Going back another two commanders, he found a 92-year old retired General.
+"Excuse me, sir. I'm now the CO of the regiment which you commanded sixty years ago.
+
+I've found that you had assigned two men to guard a bench.
+Could you please tell me more about the significance of this bench?"
+
+The general was shocked:
+"What? Are they still guarding it? Is the paint still wet?"
+
+This is how traditions are born.

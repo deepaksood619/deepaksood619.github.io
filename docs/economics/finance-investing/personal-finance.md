@@ -40,3 +40,4 @@ This is arguably the most important, and the most overlooked, pillar. It encapsu
 - [What is Kakeibo? Discover How This Japanese Technique Helps in Managing Your Money - The 1% News](https://news.onepercentclub.io/plan/what-is-kakeibo-discover-how-this-japanese-technique-helps-in-managing-your-money/13766/)
 - [5 Emotional Mistakes That Lead to Common Financial Mistakes](https://freefincal.com/5-emotional-mistakes-that-lead-to-common-financial-mistakes/)
 - [How to stay invested in equity without worrying about market falls](https://freefincal.com/how-to-stay-invested-in-equity-without-worrying-about-market-falls/)
+- [10 Timeless Investing Tips for Financial Freedom - The 1% News](https://news.onepercentclub.io/plan/10-timeless-investing-tips-to-become-a-successful-investor/5382/)

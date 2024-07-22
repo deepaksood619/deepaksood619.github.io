@@ -213,27 +213,7 @@ You have a boundary issue if...
 
 https://deepstash.com/article/3412/the-guide-to-strong-boundaries
 
-## The Courage to be Happy by Ichiro Kishimi
-
-- The purpose of education is to teach self-reliance
-- Respect is seeing another person for who they are
-    - Give children respect, so they respect you
-- Don't scold problem behavior... but don't praise good behavior, either
-    - Don't praise children for good behavior
-        - They need to do that behavior
-    - Don't scold them for bad behavior which they don't know is bad
-    - Children are attention seeking, so they will do same things again and again to get attention
-        - Ex - Manuj throws tantrum so he get the family's attention, Family gives attention to him and it's a vicious cycle
-- Praise inhibits growth and encourages unhealthy competition
-    - Giving praise says, "I respect you when you act in one way, but not in other ways."
-    - In marathon, surrounded by other runners, you feel no rivalry towards others. That's what competition without rivalry looks like
-- Your friendship is the most powerful lesson you can give your students
-- Birth order influences children's behavior... and adults' too
-    - equal relationships with each children
-- Love supports the transition from dependence to self-reliance
-- Actionable advice: Don't dole out praise, cultivate empathy
-    - Don't say, "You are kind for sharing", instead say,
-    - When you shared your toy with that Kid, you made her feel very happy
+## Trust
 
 Trust does not mean that others have to do things the way you expect them to. Trust means to become vulnerable.
 
@@ -322,7 +302,7 @@ https://en.wikipedia.org/wiki/Transcendental_Meditation
 
 ## Implicit Association Test (IAT)
 
-The**implicit-association test(IAT)** is a [measure](https://en.wikipedia.org/wiki/Measurement) within [social psychology](https://en.wikipedia.org/wiki/Social_psychology) designed to detect the strength of a person's subconscious association between mental representations of objects ([concepts](https://en.wikipedia.org/wiki/Concept)) in [memory](https://en.wikipedia.org/wiki/Memory). It is commonly applied to assess [implicit stereotypes](https://en.wikipedia.org/wiki/Implicit_stereotype) held by test subjects, such as unconsciously associating stereotypically black names with words consistent with black stereotypes. The test's format is highly versatile, and has been used to investigate biases in racial groups, gender, sexuality, age, and religion, as well as assessing self-esteem.
+The **implicit-association test(IAT)** is a [measure](https://en.wikipedia.org/wiki/Measurement) within [social psychology](https://en.wikipedia.org/wiki/Social_psychology) designed to detect the strength of a person's subconscious association between mental representations of objects ([concepts](https://en.wikipedia.org/wiki/Concept)) in [memory](https://en.wikipedia.org/wiki/Memory). It is commonly applied to assess [implicit stereotypes](https://en.wikipedia.org/wiki/Implicit_stereotype) held by test subjects, such as unconsciously associating stereotypically black names with words consistent with black stereotypes. The test's format is highly versatile, and has been used to investigate biases in racial groups, gender, sexuality, age, and religion, as well as assessing self-esteem.
 
 The IAT was introduced in the scientific literature in 1998 by [Anthony Greenwald](https://en.wikipedia.org/wiki/Anthony_Greenwald), Debbie McGhee, and Jordan Schwartz.The IAT is now widely used in social psychology research and, to some extent, in [clinical](https://en.wikipedia.org/wiki/Clinical_psychology), [cognitive](https://en.wikipedia.org/wiki/Cognitive_psychology), and [developmental psychology](https://en.wikipedia.org/wiki/Developmental_psychology) research. The IAT is the subject of much controversy regarding validity, reliability, and whether test results are an accurate representation of [implicit bias](https://en.wikipedia.org/wiki/Implicit_bias).
 
@@ -349,66 +329,6 @@ Developmental psychology has shown that kids come into the world, already knowin
 ![image](../media/Life-Relationship-People-image5.jpg)
 
 https://www.youtube.com/watch?v=8SOQduoLgRw
-
-## Blinkist - Didn't see it coming by Carey Nieuwhof
-
-Overcoming the 7 greatest challenges that no one expects and everyone experiences
-
-1. Cynicism
-
-    [Jamil Zaki: How to escape the cynicism trap | TED](https://youtu.be/ABHdTi1If0c)
-
-2. Compromise
-3. Disconnection
-4. Irrelevance
-5. Pride
-    - You are lucky to be what you are
-    - Humility
-6. Burnout
-
-    https://www.lennysnewsletter.com/p/how-to-know-when-to-stop
-
-    ![image](../media/Life-Relationship-People-image6.jpg)
-
-7. Emptiness
-
-## Blinkist - Life Is in the Transitions, Mastering Change at Any Age By Bruce Feiler
-
-- What shape has your life story taken?
-- Lifequakes shake the foundations of our existence.
-- Disruptorsaffect every area of our lives
-- Lifequakes force us to reevaluate what makes our lives meaningful.
-- Lifequakes are by their nature disorientating, and even scary. But they also present opportunities to reevaluate our lives and what makes them meaningful.
-- We can't always control disruptive events, but we do control our response to them.
-    - ABC stands for autonomy, belonging, and cause
-- Rituals help us to say goodbye to the lives we're leaving behind.
-    - We can turn destructive events into meaningful transitions, but this requires practice. Luckily, several key tools can help us become masters at dealing with transitions.
-    - The first tool we need to master is acceptance
-    - A very normal reaction to experiencing a lifequake is denial and resistance.
-    - Acceptance can strike in a sudden epiphany, or a series of slow realizations.
-- All major transitions involve a messy middle, where we feel very lost.
-- Our creativity can help us to create a new chapter in a transition.
-    - Every major religious narrative and fairy tale recognizes the value of being lost. Jesus was cast into the desert before he had a major epiphany, and Mohamed gained his wisdom on a mountaintop. The most formative experience of Red Riding Hood's life would never have been possible if she hadn't wandered into that forest.
-- We need to create new life stories that integrate our transitions.
-- Actionable advice: Pay attention to small wins.
-
-## Blinkist - Power Relationships by Andrew Sobel and Jerold Panas (23 May 2019)
-
-26 irrefutable laws for building extraordinary relationships
-
-- Power relationships come from great conversations and being unafraid to ask
-- Build a small network of people you like and trust before you need it, including people dissimilar to you
-    - 12 - 15 apostles
-- Strengthen your relationships by believing in people, and helping them accomplish their agendas
-- Serious relationships demand a strong foundation, integrity and empathy
-    - Each time you refuse to compromise your integrity, it gets stronger and more resilient
-- Giving trust and changing environments can deepen relationships
-- Focus on the right questions rather than having all the answers, and remember that awkward beginnings can be overcome
-- Earn new clients by treating them like current clients, and keep clients by contributing to their profit and growth
-- Keep people curious in order to remain attractive, but remember to be vulnerable and enthusiastic
-- Remember to give truth, love and praise to show people that you value them, and to help them grow
-    - Every act of generosity creates a ripple
-- **Actionable advice - Create a list of those you want in your network**
 
 ## Ikigai
 
@@ -479,94 +399,6 @@ https://www.youtube.com/watch?v=UAqZMgBtECQ
 6. Constantly go after exiting things and leave things mid way, Shiny object syndrome
 7. You don't believe in yourself
 
-## Blinkist - How should we live? by Roman Krznaric
-
-- Love
-    - **Eros**, the fiery, passionate yet dangerous love
-    - **Philia**, the platonic love between friends and comrades
-    - **Ludus**, the playfulness that is found among new lovers and children
-    - **Pragma**, the deep understanding that grows over time between partners
-    - **Agape**, the selfless, charitable love for our fellow humans
-    - **Philautia**, the love of the self, which could be either a positive acceptance or a detrimental self-obsession
-
-Rather than relying on one partner to satisfy all these needs, the ancient Greeks believed that each role could be fullfilled by different individuals.
-
-- Husband means House Bound
-- Talk on dinner table about emotions
-- Monotonous work
-- Pin factory method for dividing work
-- Obsession with time
-- Consumerism
-- Travel is a great way to learn about yourself, and broaden our world view
-- Can take a trip near and don't waste fuel going to carribean
-
-## Blinkist - Solve for Happy - Engineer your path to joy by Mo Gawdat (26 June 2018)
-
-- Happiness is the absence of unhappiness, caused by the misrepresentation and misunderstanding of reality
-    - Your happiness is equal to or greater than your perception of events minus your expectations of life
-- You are not the voice in your head, but the observer of your life
-- It's important to understand that you really know nothing, and that time is, in fact, a human invention
-- You don't actually have much control over your life, and your fears are often unfounded
-- Our brains tend to see the negative side of things, applying too many filters, assumptions and predictions
-- We tend to elaborate our memories, apply too many labels, succumb to our emotions and exaggerate things
-- Modern life is overly concerned with action and speed, but a calm awareness of the present moment will keep you happy
-- Things are and always will be changing, so relinquish your sense of control and go with the flow
-- Unconditional love is the most important emotion, as it has no expctations, and therefore no disappointments
-- Death is a fundamental part of existence. Acceptance rather than fear will allow you to properly embrace life
-- In the absence of proof and the surprisingly overwhelming odds, perhaps there is a design to the Universe
-
-## Blinkist - Social Intelligence by Daniel Goleman (27 Nov 2018)
-
-The new science of human relationships
-
-- empathic accuracy - the capacity to understand yourself and others in social contexts, It allows you to put yourself in someone else's shoes. It's not only about understanding what they're feeling but why they feel that way
-- Many people have trouble paying attention to others and this changes from culture to culture.
-- Japanese culture - amae - to describe kind of intuitive understanding of others' needs and feelings, like a guest's hunger without asking
-- Social predisposition - the way in which a person interact with the world
-- A social studies on money suggests that humans are likely to be more adventurous if they've been exposed to reasonable doses of fear at a young age
-- Poor social inteligence is linked to sexual violence and testosterone is a risk factor in this equation
-- Social interaction can boost recovery and health, which is why we should tackle stigmas around illness
-- Social intelligence can help children with learning difficulties thrive in school
-- Don't be afraid to say or show you are sorry
-
-## Blinkist - The Book of Joy by Dalai Lama and Desmond Tutu (24 Dec 2018)
-
-Lasting Happiness in a changing world
-
-- Wherever you have friends that's your country, and wherever you receive love, that's your home.
-- Developing perspective and humility can bring you closer to true joy.
-- Eight pillars of joy
-
-    1. Perspective - given moment won't last forever, therefore focus on the present and bring joy and hope into your life
-    2. Humility - if you feel that you're better than others, you'll never be able to find joy
-    3. Humor - nothing alleviates a stressful situation better than a good joke
-    4. Acceptance - you'll never find joy if you can't accept that life has its hard moments, most of which you have no control over
-    5. Gratitude - take nothing for granted, to be thankful for everything you have and all you have experienced
-    6. Forgiveness
-    7. Compassionate - reciprocal altruism, a feeling of joy experienced when helping others
-    8. Spending time on other' happiness
-
-## Blinkist - Essentialism by Greg McKeown
-
-- How to do better by doing less
-- We should be focusing on what we should do, thinking instead about what is essential to our happiness and well-being
-- 4 main points
-    - Do less, but do it better
-    - Reject the notion that we should accomplish everything
-    - Constantly question yourself and update plans accordingly
-    - Changes are put in place
-- **Learned helplessness,** that is, becoming so used to the feeling of being overwhelmed that we approach our lives with passivity. (Dogs with electric shock and a lever with no effect choose to stay in shock zone, because they have learned helplessness)
-    - Opposite - [learned industriousness](https://www.scotthyoung.com/blog/2020/11/02/motivation/#07-05)
-- Take a few hours of blank time for thinking about yourself and always see the bigger picture on why you are doing what you do
-- Sleep and play are as important as work
-- Be ruthless in cutting away things that aren't essential
-- Say "no" to nonessential tasks and plan the essential ones carefully (How will I know when I have reached my goal)
-- Stop doing unncessary things by withdrawing from failure and setting boundaries (Admit errors and mistakes and let go)
-- Keeping on top of what's important requires that you eliminate what slows you down and elminate it.
-- Always take 50% of buffer time that you have expected a work to take
-- Building upon previous progress with small, incremental steps. Small wins create momentum, which gives you the confidence to further succeed.
-- Routine is very important to achieve long term goals
-
 ![image](../media/Life-Relationship-People-image8.jpg)
 
 ## Ubuntu - I am because you are
@@ -601,22 +433,22 @@ https://en.wikipedia.org/wiki/Parasocial_interaction
 
 ## Links
 
-[The Almanack of Naval Ravikant](../book-summaries/the-almanack-of-naval-ravikant)
-
-[How to be an adult in relationships](../book-summaries/how-to-be-an-adult-in-relationships)
-
-[From Strength to Strength](../book-summaries/from-strength-to-strength)
-
-[The Secret to Making New Friends as an Adult | Marisa G. Franco | TED](https://www.youtube.com/watch?v=-k0p-DYYZKU)
-
-- Make others feel valued and listened
-
-[Good sex explained in 9 minutes | Dr. Emily Nagoski - YouTube](https://www.youtube.com/watch?v=eqX38J9ya1I)
-
-[What is the RIGHT AGE to Get Married? - YouTube](https://www.youtube.com/watch?v=kFOqci-3WPs)
-
-- The biggest decision in life is to choose whom to get married to
-
-[Do North Indians Have A Habit Of Showing Off ? | Deep Analysis And Solution - YouTube](https://www.youtube.com/watch?v=3ckyja7K8U4)
-
-[You Never Marry the Right Person - RELEVANT](https://relevantmagazine.com/life5/you-never-marry-the-right-person/)
+- [The Almanack of Naval Ravikant](../book-summaries/the-almanack-of-naval-ravikant)
+- [How to be an adult in relationships](../book-summaries/how-to-be-an-adult-in-relationships)
+- [From Strength to Strength](../book-summaries/from-strength-to-strength)
+- [Didn't see it coming](book-summaries/didnt-see-it-coming.md)
+- [The Courage to be Happy](book-summaries/the-courage-to-be-happy.md)
+- [Life is in the Transitions](book-summaries/life-is-in-the-transitions.md)
+- [Power Relationships](book-summaries/power-relationships.md)
+- [How should we live?](book-summaries/how-should-we-live.md)
+- [Solve for Happy](book-summaries/solve-for-happy.md)
+- [Social Intelligence](book-summaries/social-intelligence.md)
+- [The Book of Joy](book-summaries/the-book-of-joy.md)
+- [Essentialism](book-summaries/essentialism.md)
+- [The Secret to Making New Friends as an Adult | Marisa G. Franco | TED](https://www.youtube.com/watch?v=-k0p-DYYZKU)
+   	- Make others feel valued and listened
+- [Good sex explained in 9 minutes | Dr. Emily Nagoski - YouTube](https://www.youtube.com/watch?v=eqX38J9ya1I)
+- [What is the RIGHT AGE to Get Married? - YouTube](https://www.youtube.com/watch?v=kFOqci-3WPs)
+   	- The biggest decision in life is to choose whom to get married to
+- [Do North Indians Have A Habit Of Showing Off ? | Deep Analysis And Solution - YouTube](https://www.youtube.com/watch?v=3ckyja7K8U4)
+- [You Never Marry the Right Person - RELEVANT](https://relevantmagazine.com/life5/you-never-marry-the-right-person/)

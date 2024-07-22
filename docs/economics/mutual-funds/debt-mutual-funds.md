@@ -140,6 +140,7 @@ Taxation - LTCG - If holding is more than 36 months) - Debt Fund (20% with Index
 - [Webinar to discuss the NFO of Parag Parikh Dynamic Asset Allocation Fund - YouTube](https://www.youtube.com/watch?v=iCVFUX9QUoc&ab_channel=PPFASMutualFund)
 - [How does Parag Parikh Dynamic Asset Allocation Fund (PPDAAF) provide indexation benefit? CEO explains - The 1% News](https://news.onepercentclub.io/invest/how-does-parag-parikh-dynamic-asset-allocation-fund-ppdaaf-provide-indexation-benefit-ceo-explains/1064/)
 - [Parag Parikh Dynamic Asset Allocation Fund: Who should invest?](https://freefincal.com/parag-parikh-dynamic-asset-allocation-fund-who-should-invest/)
+- [Parag Parikh Dynamic Asset Allocation Fund vs Parag Parikh Conservative Hybrid Fund](https://freefincal.com/parag-parikh-dynamic-asset-allocation-fund-vs-parag-parikh-conservative-hybrid-fund/)
 
 ## Links
 

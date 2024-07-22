@@ -1,5 +1,8 @@
 # Tools
 
+- [GitHub - gchq/CyberChef: The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis](https://github.com/gchq/CyberChef)
+- [CyberChef](https://gchq.github.io/CyberChef/)
+
 ## dex
 
 Dex is an identity service that uses [OpenID Connect](https://openid.net/connect/) to drive authentication for other apps.

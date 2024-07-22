@@ -32,6 +32,7 @@ Some transformations in IICS include:
 
 ### Links
 
+- [Master Data Management (MDM)](databases/data-warehousing/master-data-management-mdm.md)
 - [How Informatica Cloud Data Governance and Catalog uses Amazon Neptune for knowledge graphs | AWS Database Blog](https://aws.amazon.com/blogs/database/how-informatica-cloud-data-governance-and-catalog-uses-amazon-neptune-for-knowledge-graphs/)
 
 ## DVC

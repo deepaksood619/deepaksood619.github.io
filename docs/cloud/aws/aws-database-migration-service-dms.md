@@ -193,3 +193,4 @@ mysqldump --no-data --routines --events -h SOURCE_DB_SERVER_NAME -u DMS_USER -p 
 - [Optimize memory for migration using AWS DMS | AWS re:Post](https://repost.aws/knowledge-center/dms-memory-optimization)
 
 - [Migrating a MySQL Database to RDS for MySQL or Aurora MySQL - Database Migration Guide](https://docs.aws.amazon.com/dms/latest/sbs/chap-manageddatabases.mysql2rds.html)
+- [Accelerate your database migration journey using AWS DMS Schema Conversion | AWS Database Blog](https://aws.amazon.com/blogs/database/accelerate-your-database-migration-journey-using-aws-dms-schema-conversion/)

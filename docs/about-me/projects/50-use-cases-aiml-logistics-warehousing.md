@@ -75,3 +75,5 @@ By implementing these AI/ML use cases, clients can achieve significant improveme
 - [Supply Chain Report (Power BI). Dataset link —… | by Babuni Nayak | Medium](https://medium.com/@babuninayak820/supply-chain-report-power-bi-1e0b05b6f84c)
 - [DataCo SMART SUPPLY CHAIN FOR BIG DATA ANALYSIS | Kaggle](https://www.kaggle.com/datasets/shashwatwork/dataco-smart-supply-chain-for-big-data-analysis)
 - [Exploring Supply Chain Dataset. As I have written on my past posts… | by Wilma Lapuz | Medium](https://medium.com/@WilmaLapuz/exploring-supply-chain-dataset-a83e5994227f)
+- [Predicting Delivery Time and Estimating Shipment Delays with Machine Learning (Supply Chain and Logistics Series) | by Lyron Foster | Medium](https://medium.com/@lfoster49203/predicting-delivery-time-and-estimating-shipment-delays-with-machine-learning-supply-chain-and-545fd4296656)
+- [A novel machine learning model for predicting late supplier deliveries of low-volume-high-variety products with application in a German machinery industry](https://www.sciencedirect.com/science/article/pii/S294986352300002X)

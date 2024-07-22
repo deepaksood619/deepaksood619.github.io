@@ -67,6 +67,16 @@ To note a few features:
 
 [Serving Models  |  TFX  |  TensorFlow](https://www.tensorflow.org/tfx/guide/serving)
 
+### ONNX (Open Neural Network Exchange)
+
+![ONNX](../../media/Pasted%20image%2020240719194528.png)
+
+[ONNX](http://onnx.ai/) (Open Neural Network Exchange), an open-source format for representing deep learning models, was developed by Microsoft and is now managed by the Linux Foundation. It addresses the challenge of model packaging by providing a standardized format that enables easy transfer of machine learning models between different deep learning frameworks.
+
+Since various deep learning frameworks use different formats to represent their models, using models trained in one framework with another can be challenging. ONNX resolves this issue by providing a standard format that multiple deep learning frameworks, including [TensorFlow](https://www.tensorflow.org/?gclid=Cj0KCQjwla-hBhD7ARIsAM9tQKsGQbp8c_KMjEsQHOz2bn1gt6gk1Sg8YSfdB5P9EdFDK1WqsnQnSbsaAkKyEALw_wcB), [PyTorch](https://pytorch.org/), and [Caffe2](https://caffe2.ai/) can use.
+
+With ONNX, models can be trained in one framework and then easily exported to other frameworks for inference, making it convenient for developers to experiment with different deep learning frameworks and tools without having to rewrite their models every time they switch frameworks.  It can execute models on various hardware platforms, including CPUs, GPUs, and FPGAs, making deploying models on various devices easy.
+
 ### Others
 
 - [ZenML - Seamless End-to-End MLOps](https://www.zenml.io/)
@@ -75,6 +85,8 @@ To note a few features:
 - [Blog - neptune.ai](https://neptune.ai/blog)
    	- [Building a Machine Learning Platform \[Definitive Guide\]](https://neptune.ai/blog/ml-platform-guide)
    	- [How to Build a CI/CD MLOps Pipeline | Case Study](https://neptune.ai/blog/build-ci-cd-mlops-pipeline)
+- [ML Model Packaging \[The Ultimate Guide\]](https://neptune.ai/blog/ml-model-packaging)
+- [Machine Learning: Models to Production | by Ashutosh Kumar | Analytics Vidhya | Medium](https://medium.com/analytics-vidhya/machine-learning-models-to-production-72280c3cb479)
 
 ## Roadmap
 

@@ -73,10 +73,24 @@
 - [The 4 Agreements](book-summaries/the-4-agreements.md)
 - [The Status Game](book-summaries/the-status-game.md)
 - [Thinking Fast and Slow](book-summaries/thinking-fast-and-slow.md)
+- [Didn't see it coming](book-summaries/didnt-see-it-coming.md)
+- [The Courage to be Happy](book-summaries/the-courage-to-be-happy.md)
+- [Life is in the Transitions](book-summaries/life-is-in-the-transitions.md)
+- [Power Relationships](book-summaries/power-relationships.md)
+- [How should we live?](book-summaries/how-should-we-live.md)
+- [Solve for Happy](book-summaries/solve-for-happy.md)
+- [Social Intelligence](book-summaries/social-intelligence.md)
+- [The Book of Joy](book-summaries/the-book-of-joy.md)
+- [Essentialism](book-summaries/essentialism.md)
 - [Others](book-summaries/others.md)
 - [Books / Blinkist - Management](../management/books-blinkist-management)
 - [Product Book Summaries](management/product-management/product-book-summaries.md)
 - [Books To Read](books-to-read)
+
+## Economics
+
+- [Small is Beautiful](book-summaries/small-is-beautiful.md)
+- [Doughnut Economics](book-summaries/doughnut-economics.md)
 
 ## Books Read
 

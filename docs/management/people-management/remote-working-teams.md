@@ -60,3 +60,5 @@ https://blog.trello.com/conflict-management-strategies-for-hybrid-teams
 [The Future of Remote Work | Stay SaaSy](https://staysaasy.com/management/2023/08/06/the-future-of-remote-work.html)
 
 [Remote Working Approaches That Worked (And Some That Didn’t) • Charles Humble • GOTO 2023 - YouTube](https://www.youtube.com/watch?v=sQOHhoCSfak)
+
+[The remoteness of remote work - Zerodha Tech Blog](https://zerodha.tech/blog/remoteness-of-remote-work/)

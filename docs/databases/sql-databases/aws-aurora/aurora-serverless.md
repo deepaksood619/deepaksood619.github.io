@@ -37,3 +37,4 @@ Aurora Serverless v2 (Preview) supports all manner of database workloads, from d
 - [Amazon Aurora Serverless V2 Is Finally Here And Its (Mostly) Awesome - YouTube](https://www.youtube.com/watch?v=qVky3isVKok&ab_channel=BeABetterDev)
 - [Getting Started with Amazon Aurora Serverless v2- AWS Database in 15 - YouTube](https://www.youtube.com/watch?v=uZJMrciwBYo&ab_channel=AWSDevelopers)
 - [Essential Strategies for Aurora Serverless v2 Adoption | AWS Events - YouTube](https://www.youtube.com/watch?v=by7WQ1igKl0&ab_channel=AWSEvents)
+- [Aurora Serverless v2: Why You Need It, New Features and Pricing](https://lumigo.io/aws-serverless-ecosystem/aws-aurora-serverless/)

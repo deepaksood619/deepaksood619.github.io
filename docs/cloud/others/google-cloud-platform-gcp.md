@@ -20,6 +20,13 @@ The on-demand prices for custom machine types include a 5% premium over the on-d
 
 ex - n2d-custom-8-12288
 
+| Machine types    | vCPUs* | Memory (GB) | Default egress bandwidth (Gbps)‡ | Tier 1 egress bandwidth (Gbps)# |
+| ---------------- | ------ | ----------- | -------------------------------- | ------------------------------- |
+| `n2d-standard-2` | 2      | 8           | 10                               | N/A                             |
+| `n2d-standard-4` | 4      | 16          | 10                               | N/A                             |
+
+[General-purpose machine family for Compute Engine  |  Compute Engine Documentation  |  Google Cloud](https://cloud.google.com/compute/docs/general-purpose-machines)
+
 [Create a VM with a custom machine type  |  Compute Engine Documentation  |  Google Cloud](https://cloud.google.com/compute/docs/instances/creating-instance-with-custom-machine-type)
 
 [Machine families resource and comparison guide  |  Compute Engine Documentation  |  Google Cloud](https://cloud.google.com/compute/docs/machine-resource)
@@ -229,7 +236,9 @@ API management apps built on Google Cloud
 ## Management Tools
 
 - Stackdriver Overview
-- Monitoring
+   	- [Ops Agent overview  |  Google Cloud Observability](https://cloud.google.com/stackdriver/docs/solutions/agents/ops-agent)
+- Cloud Monitoring
+   	- [Cloud Monitoring | Google Cloud](https://cloud.google.com/monitoring)
 - Logging
 - Error Reporting
 - Trace
