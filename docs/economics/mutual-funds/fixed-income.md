@@ -39,6 +39,8 @@ After 15 years
     - Withdraw max of 60%
     - One withdrawal per financial year any amount under 60% limit combined
 
+[Is Investing Rs. 1.5 Lakhs in PPF Before April 5th a Wise Choice?](https://freefincal.com/is-investing-rs-1-5-lakhs-in-ppf-before-april-5th-a-wise-choice/)
+
 ## EPF Employee Provident Fund
 
 [How to Get or Withdraw EPF Money After Resignation](https://www.bankbazaar.com/saving-schemes/epf-money-after-resignation.html)

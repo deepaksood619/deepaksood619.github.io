@@ -123,6 +123,7 @@ Moving from information to knowledge age
 - [Introducing Devin, the first AI software engineer](https://www.cognition-labs.com/introducing-devin)
 - [Tabnine is an AI assistant that speeds up delivery and keeps your code safe](https://www.tabnine.com/)
 - [GitHub - gofireflyio/aiac: Artificial Intelligence Infrastructure-as-Code Generator.](https://github.com/gofireflyio/aiac)
+- [Invideo AI - Turn ideas into videos - AI video creator](https://invideo.io/)
 
 ## Purpose-built accelerators for generative AI
 

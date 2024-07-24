@@ -193,6 +193,7 @@ https://myenglishmatters.com/2018/06/28/whats-the-difference-between-has-been-ha
 - enigma - something that is mysterious and seems impossible to understand completely
 - Venture - a project or activity which is new, exciting, and difficult because it involves the risk of failure
 - slog - work hard over a period of time
+- kayfabe - (in professional wrestling) the fact or convention of presenting staged performances as genuine or authentic.
 
 ### Shill / Shilling
 

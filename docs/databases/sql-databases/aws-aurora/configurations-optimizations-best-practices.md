@@ -2,10 +2,6 @@
 
 RDS - [Best practices for configuring parameters for Amazon RDS for MySQL, part 1: Parameters related to performance | AWS Database Blog](https://aws.amazon.com/blogs/database/best-practices-for-configuring-parameters-for-amazon-rds-for-mysql-part-1-parameters-related-to-performance/)
 
-Binlog - [Configuring Aurora MySQL binary logging - Amazon Aurora](https://docs.aws.amazon.com/AmazonRDS/latest/AuroraUserGuide/USER_LogAccess.MySQL.BinaryFormat.html)
-
-- [Schedule Amazon RDS MySQL DB instance binlog file uploads to Amazon S3 | AWS re:Post](https://repost.aws/knowledge-center/rds-mysql-schedule-binlog-uploads)
-
 ### Database Configuration
 
 There are two types of Aurora MySQL parameter groups: DB parameter groups and DB cluster parameter groups. Some parameters affect the configuration for an entire DB cluster, like binary log format, time zone, and character set defaults. Others limit their scope to a single DB instance.
@@ -325,6 +321,12 @@ innodb_flush_log_at_timeout
 [AWS announces Amazon Aurora I/O-Optimized](https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-aurora-i-o-optimized/)
 
 [New – Amazon Aurora I/O-Optimized Cluster Configuration with Up to 40% Cost Savings for I/O-Intensive Applications | AWS News Blog](https://aws.amazon.com/blogs/aws/new-amazon-aurora-i-o-optimized-cluster-configuration-with-up-to-40-cost-savings-for-i-o-intensive-applications/)
+
+## Binlog
+
+- [Configuring Aurora MySQL binary logging - Amazon Aurora](https://docs.aws.amazon.com/AmazonRDS/latest/AuroraUserGuide/USER_LogAccess.MySQL.BinaryFormat.html)
+- [Schedule Amazon RDS MySQL DB instance binlog file uploads to Amazon S3 | AWS re:Post](https://repost.aws/knowledge-center/rds-mysql-schedule-binlog-uploads)
+- [Binary logging optimizations in Amazon Aurora MySQL version 3 | AWS Database Blog](https://aws.amazon.com/blogs/database/binary-logging-optimizations-in-amazon-aurora-mysql-version-3/)
 
 ## DB instance RAM recommendations
 

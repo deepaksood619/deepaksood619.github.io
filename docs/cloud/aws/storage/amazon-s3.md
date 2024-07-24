@@ -8,7 +8,11 @@ S3: More than 235 distributed microservices
     - Markov-chain model for reliability evaluation
 - $23/TB/month
 - 5 TB single object limit
-- Pre signed URL (max expiry 7 days)
+- 6 Copies of 1 object are maintained in >=3 Az's
+- You can send [3,500 PUT/COPY/POST/DELETE and 5,500 GET/HEAD requests per second per partitioned prefix](https://docs.aws.amazon.com/AmazonS3/latest/dev/optimizing-performance.html) in an S3 bucket. When you have an increased request rate to your bucket, Amazon S3 might return **503 Slow Down errors** while it scales to support the request rate. This scaling process is called **partitioning**.
+- Pass through uploads
+
+### Pre signed URL (max expiry 7 days)
 
 `aws s3 presign s3://bigbet90/index.html --expires-in 90`
 
@@ -16,13 +20,13 @@ Generating presigned URLs is actually done locally, without requiring a call to 
 
 https://docs.aws.amazon.com/AmazonS3/latest/userguide/ShareObjectPreSignedURL.html
 
+[Working with presigned URLs - Amazon Simple Storage Service](https://docs.aws.amazon.com/AmazonS3/latest/userguide/using-presigned-url.html)
+
 https://boto3.amazonaws.com/v1/documentation/api/latest/guide/s3-presigned-urls.html
 
-- 6 Copies of 1 object are maintained in >=3 Az's
-- You can send [3,500 PUT/COPY/POST/DELETE and 5,500 GET/HEAD requests per second per partitioned prefix](https://docs.aws.amazon.com/AmazonS3/latest/dev/optimizing-performance.html) in an S3 bucket. When you have an increased request rate to your bucket, Amazon S3 might return **503 Slow Down errors** while it scales to support the request rate. This scaling process is called **partitioning**.
-- Pass through uploads
-
 https://docs.aws.amazon.com/AmazonS3/latest/userguide/PresignedUrlUploadObject.html
+
+## Introduction
 
 Amazon S3 is an object storage model that is built to store and retrieve any amount of data from any place such as websites, mobile apps, corporate applications, and data from IoT sensors or devices. Amazon S3 is the most supported storage platform available, with the largest ecosystem.
 
@@ -250,5 +254,6 @@ A vault is a container for storing archives. When you create a vault, you specif
 
 - [Creating a simple public file repository on Amazon S3 | AWS Storage Blog](https://aws.amazon.com/blogs/storage/creating-a-simple-public-file-repository-on-amazon-s3/)
 - [Designing a resilient and cost-effective backup strategy for Amazon S3 | AWS Storage Blog](https://aws.amazon.com/blogs/storage/designing-a-resilient-and-cost-effective-backup-strategy-for-amazon-s3/)
+- [Optimizing storage costs and query performance by compacting small objects | AWS Storage Blog](https://aws.amazon.com/blogs/storage/optimizing-storage-costs-and-query-performance-by-compacting-small-objects/)
 - [Maintaining object immutability by automatically extending Amazon S3 Object Lock retention periods | AWS Storage Blog](https://aws.amazon.com/blogs/storage/maintaining-object-immutability-by-automatically-extending-amazon-s3-object-lock-retention-periods/)
 - [Copy data from an S3 bucket to another account and Region by using the AWS CLI - AWS Prescriptive Guidance](https://docs.aws.amazon.com/prescriptive-guidance/latest/patterns/copy-data-from-an-s3-bucket-to-another-account-and-region-by-using-the-aws-cli.html#copy-data-from-an-s3-bucket-to-another-account-and-region-by-using-the-aws-cli-tools)

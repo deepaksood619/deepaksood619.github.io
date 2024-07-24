@@ -149,6 +149,16 @@ ITR filings for FY 20/21 by income.
 
 If people have to invest or spend more, they need to earn at least ₹2.5lks/yr?
 
+### Incomes exempt from paying tax
+
+1. Income from Agriculture
+2. Gifts Received from Relatives
+3. Income from Gratuity
+4. Scholarships
+5. Certain Pensions - Pensions received by recipients of gallantry awards like the Mahavir Chakra, Param Vir Chakra, and Vir Chakra are tax-free. Additionally, the pension received by family members of Indian Armed Forces personnel is also exempt from tax.
+
+[Certain Pensions | Zee Business](https://www.zeebiz.com/personal-finance/photo-gallery-income-tax-season-non-taxable-5-types-income-exempt-from-taxation-agriculture-gifts-gratuity-scholarships-pension-300544/certain-pensions-300549)
+
 ## Freelancing / Freelancer
 
 - ITR4

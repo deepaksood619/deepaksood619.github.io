@@ -27,3 +27,4 @@ Powered by a centralized software catalog, Backstage restores order to your infr
 - [Demystifying Kubernetes Platforms with Backstage - YouTube](https://www.youtube.com/watch?v=g453ioC64Bw)
 - [Backstage.io - An Open Source Portal for Taming Developer Chaos - YouTube](https://www.youtube.com/watch?v=n1IrNe5MmZg&ab_channel=IBMTechnology)
 - [Platform Engineering Series - YouTube](https://www.youtube.com/playlist?list=PLGVPcLSzJXQos1O18dvKoW2XSczz2I2lH)
+- [Backstage Software Catalog and Developer Platform](https://backstage.io/docs/getting-started/app-custom-theme/)

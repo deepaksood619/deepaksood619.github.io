@@ -21,6 +21,7 @@
 - [Steve Mould - YouTube](https://www.youtube.com/@stevemould)
 - [The Action Lab - YouTube](https://www.youtube.com/@theactionlab)
 - [Freethink - YouTube](https://www.youtube.com/@freethink)
+- [Newsthink - YouTube](https://www.youtube.com/@newsthink)
 
 ### Inventions and Building Stuff / Engineering
 
@@ -162,6 +163,7 @@
 - Amit Sengupta
 - Byju IAS DNA
 - Byju IAS Economy this week
+- [Unacademy IAS: English - YouTube](https://www.youtube.com/@unacademyiasenglish)
 - BBC / BBC Reel
 - Aljajeera
 - Vice news
@@ -409,6 +411,7 @@ Indian History - https://www.anirudhkanisetti.com/podcasts
 - Weekly Grow Digest
 - James Clear
 - Scott Young
+- GrowthX
 
 ## Tools
 

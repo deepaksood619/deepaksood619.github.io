@@ -175,6 +175,8 @@ https://www.edx.org/course/finance-everyone-smart-tools-decision-michiganx-fin10
 
 [Calculated the Returns | Gold vs Digital Gold vs SGB vs ETF | SHOCKING RESULTS | LLA - YouTube](https://www.youtube.com/watch?v=UcXeVBMbC_E)
 
+[Sovereign Gold Bonds or Multi-Asset Funds: Which should I use for gold diversification?](https://freefincal.com/sovereign-gold-bonds-or-multi-asset-funds-which-should-i-use-for-gold-diversification/)
+
 [Should we include gold in our long term investment portfolios? | freefincal](https://www.youtube.com/watch?v=VUx1h9OLp4I)
 
 - No benefit in including gold in your portfolio for returns

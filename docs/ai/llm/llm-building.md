@@ -24,6 +24,8 @@
 
 ![chat-gpt-working](../../media/Pasted%20image%2020240123172317.png)
 
+[Let’s Architect! Discovering Generative AI on AWS | AWS Architecture Blog](https://aws.amazon.com/blogs/architecture/lets-architect-generative-ai/)
+
 ## Others
 
 - [GitHub - karpathy/nanoGPT: The simplest, fastest repository for training/finetuning medium-sized GPTs.](https://github.com/karpathy/nanoGPT)

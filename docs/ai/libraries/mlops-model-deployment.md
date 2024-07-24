@@ -77,6 +77,14 @@ Since various deep learning frameworks use different formats to represent their 
 
 With ONNX, models can be trained in one framework and then easily exported to other frameworks for inference, making it convenient for developers to experiment with different deep learning frameworks and tools without having to rewrite their models every time they switch frameworks.  It can execute models on various hardware platforms, including CPUs, GPUs, and FPGAs, making deploying models on various devices easy.
 
+### Seldon Core
+
+An open source platform to deploy your machine learning models on Kubernetes at massive scale.
+
+https://docs.seldon.io/projects/seldon-core/en/v1.1.0
+
+https://www.seldon.io
+
 ### Others
 
 - [ZenML - Seamless End-to-End MLOps](https://www.zenml.io/)
@@ -128,3 +136,4 @@ With ONNX, models can be trained in one framework and then easily exported to ot
 - [GitHub - visenger/awesome-mlops: A curated list of references for MLOps](https://github.com/visenger/awesome-mlops)
 - [GitHub - kelvins/awesome-mlops: :sunglasses: A curated list of awesome MLOps tools](https://github.com/kelvins/awesome-mlops)
 - [10 Awesome Resources for Learning MLOps | DataCamp](https://www.datacamp.com/blog/10-awesome-resources-for-learning-mlops)
+- [Let’s Architect! Learn About Machine Learning on AWS | AWS Architecture Blog](https://aws.amazon.com/blogs/architecture/lets-architect-learn-about-machine-learning-on-aws/)

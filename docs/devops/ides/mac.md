@@ -85,7 +85,8 @@ Open two instance of same application - **open -n MQTT.fx.app**
     1. [GitHub - raycast/extensions: Everything you need to extend Raycast.](https://github.com/raycast/extensions)
     2. [GitHub - raycast/script-commands: Script Commands let you tailor Raycast to your needs. Think of them as little productivity boosts throughout your day.](https://github.com/raycast/script-commands)
 
-- **Android file transfer**
+- Open MTP
+- **Android file transfer** (doesn't work)
     - `brew install grishka/grishka/neardrop`
     - [**ShareDrop**](https://www.sharedrop.io/)
 - Office

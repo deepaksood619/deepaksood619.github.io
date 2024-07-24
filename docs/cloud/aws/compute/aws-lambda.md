@@ -47,3 +47,18 @@ def lambda_handler(event, context):
 [AWS Serverless Lambda Supports Response Streaming - YouTube](https://www.youtube.com/watch?v=iwX9dYrcL1k&ab_channel=HusseinNasser)
 
 [Unlocking Faster & Efficient Data Processing w/ Serverless • Uma Ramadoss & Adam Wagner • GOTO 2023 - YouTube](https://www.youtube.com/watch?v=Mbt78pAfuOs&ab_channel=GOTOConferences)
+
+## Cost
+
+| Metric             | EC2 Spot Instance (including EBS) | Lambda (7 requests/hr) | Lambda (8 requests/hr) |
+| ------------------ | --------------------------------- | ---------------------- | ---------------------- |
+| Monthly Cost (USD) | $41.50892                         | $38.33                 | $43.80                 |
+| Cost Breakdown     |                                   |                        |                        |
+| EC2 Spot Instance  | $0.87892                          |                        |                        |
+| EBS Storage        | $40.63                            |                        |                        |
+| Lambda Compute     |                                   | $38.33                 | $38.33                 |
+
+- Lambda can be cheaper than EC2 Spot Instance (including EBS) when the Lambda workload is lower (7 requests per hour).
+- Lambda becomes more expensive than EC2 Spot Instance (including EBS) when the Lambda workload increases (8 requests per hour).
+
+[Lambda vs EC2 cost - AWS Pricing Calculator](https://calculator.aws/#/estimate?id=aaae8951c6dbd405046d9682f381355fe1d1fe10)

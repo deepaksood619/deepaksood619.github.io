@@ -190,3 +190,4 @@ https://www.confluent.io/blog/apache-kafka-2-4-latest-version-updates
 - [Streamline Event-driven Microservices With Kafka and Python | Toptal](https://www.toptal.com/microservices/event-driven-microservices-kafka-python)
 - [Apache Kafka Explained (Comprehensive Overview) - YouTube](https://www.youtube.com/watch?v=JalUUBKdcA0&ab_channel=Finematics)
 - [How to Deploy Kafka using Kubernetes Kafka Operator](https://kubedb.com/articles/how-to-deploy-kafka-using-kubernetes-kafka-operator/)
+- [Kafka Tiered Storage from Uber - by Bugra Akyildiz](https://mlops.substack.com/p/kafka-tiered-storage-from-uber)

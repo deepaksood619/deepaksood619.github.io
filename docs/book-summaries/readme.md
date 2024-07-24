@@ -82,6 +82,8 @@
 - [Social Intelligence](book-summaries/social-intelligence.md)
 - [The Book of Joy](book-summaries/the-book-of-joy.md)
 - [Essentialism](book-summaries/essentialism.md)
+- [Find Your Element](book-summaries/find-your-element.md)
+- [Power and Prediction](book-summaries/power-and-prediction.md)
 - [Others](book-summaries/others.md)
 - [Books / Blinkist - Management](../management/books-blinkist-management)
 - [Product Book Summaries](management/product-management/product-book-summaries.md)
@@ -91,6 +93,7 @@
 
 - [Small is Beautiful](book-summaries/small-is-beautiful.md)
 - [Doughnut Economics](book-summaries/doughnut-economics.md)
+- [Good Economics for Hard Times](book-summaries/good-economics-for-hard-times.md)
 
 ## Books Read
 

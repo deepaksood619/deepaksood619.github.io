@@ -1,4 +1,4 @@
-# Quality of Service
+# Quality of Service (QoS)
 
 CPU requests are made in CPU units, each unit being a millicore / millicpu, using mille - the Latin word for thousand. Thus a request for .7 of a CPU would be 700 millicore.
 

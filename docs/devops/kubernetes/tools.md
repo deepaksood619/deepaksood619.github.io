@@ -420,19 +420,6 @@ https://www.youtube.com/watch?v=PW44JaAlI_8
 - [Kubernetes Pod Price: How to Calculate | by Bohdan Lykhitko | Medium](https://medium.com/@bohdan.lykhitko/kubernetes-pod-price-how-to-calculate-a976315e02b)
 - [Kubernetes instance calculator](https://learnk8s.io/kubernetes-instance-calculator)
 
-## [Karpenter](https://karpenter.sh/)
-
-Just-in-time Nodes for Any Kubernetes Cluster
-
-Karpenter automatically launches just the right compute resources to handle your cluster's applications. It is designed to let you take full advantage of the cloud with fast and simple compute provisioning for Kubernetes clusters.
-
-- **Watching** for pods that the Kubernetes scheduler has marked as unschedulable
-- **Evaluating** scheduling constraints (resource requests, nodeselectors, affinities, tolerations, and topology spread constraints) requested by the pods
-- **Provisioning** nodes that meet the requirements of the pods
-- **Removing** the nodes when the nodes are no longer needed
-
-[GitHub - aws/karpenter-provider-aws: Karpenter is a Kubernetes Node Autoscaler built for flexibility, performance, and simplicity.](https://github.com/aws/karpenter-provider-aws)
-
 ## Others
 
 - https://www.getporter.dev

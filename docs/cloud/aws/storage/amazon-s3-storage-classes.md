@@ -143,10 +143,10 @@ Amazon S3 provides the most durable storage in the cloud. Based on its unique ar
 
 ## Code
 
+### Directly upload a file to STANDARD_IA storage class
+
 ```python
 # https://stackoverflow.com/questions/46288550/how-to-use-boto3-to-write-to-s3-standard-infrequent-access
-
-# directly upload a file to STANDARD_IA storage class
 
 import boto3
 
@@ -162,4 +162,8 @@ client.upload_file(
 )
 
 StorageClass='STANDARD'|'REDUCED_REDUNDANCY'|'STANDARD_IA'|'ONEZONE_IA'|'INTELLIGENT_TIERING'|'GLACIER'|'DEEP_ARCHIVE'|'OUTPOSTS',
+
+# using command line
+
+aws s3api put-object --profile <profile-name> --bucket <bucket-name> --storage-class ONEZONE_IA --key <object-key> --body <object-data>
 ```

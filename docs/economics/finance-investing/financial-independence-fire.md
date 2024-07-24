@@ -122,3 +122,4 @@ https://economictimes.indiatimes.com/wealth/save/set-limits-when-it-comes-to-hel
 - [What should I do to get a pension of Rs one lakh a month pension?](https://freefincal.com/what-should-i-do-to-get-a-pension-of-rs-one-lakh-a-month-pension/)
 - [How to build lifelong passive income](https://freefincal.com/how-to-build-lifelong-passive-income/)
 - [Can I get Rs. one lakh monthly income with Rs. 3 Crores retirement corpus?](https://freefincal.com/can-i-get-rs-one-lakh-monthly-income-with-rs-3-crores-retirement-corpus/)
+- [What is the ideal corpus for retirement in India?](https://freefincal.com/what-is-the-ideal-corpus-for-retirement-in-india/)

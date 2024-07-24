@@ -330,55 +330,6 @@ Developmental psychology has shown that kids come into the world, already knowin
 
 https://www.youtube.com/watch?v=8SOQduoLgRw
 
-## Ikigai
-
-![image](../media/Life-Relationship-People-image7.jpg)
-
-### ikigaiis seen as the convergence of four primary elements
-
-- What you love (your passion)
-- What the world needs (your mission)
-- What you are good at (your vocation)
-- What you can get paid for (your profession)
-
-## 10 Rules
-
-1. Stay active and don't retire
-2. Leave urgency behind and adopt a slower pace of life
-3. Only eat until you are 80 per cent full
-4. Surround yourself with good friends
-5. Get in shape through daily, gentle exercise
-6. Smile and acknowledge people around you
-7. Reconnect with nature
-8. Give thanks to anything that brightens our day and makes us feel alive
-9. Live in the moment
-10. Follow your ikigai
-
-https://medium.com/thrive-global/ikigai-the-japanese-secret-to-a-long-and-happy-life-might-just-help-you-live-a-more-fulfilling-9871d01992b7
-
-https://www.sloww.co/ikigai-book
-
-[IKIGAI](https://www.linkedin.com/posts/thewokesalaryman_the-woke-salaryman-ikigai-activity-7012618347548745728--XQE/)
-
-## Find Your Element by Ken Robinson
-
-- Expose yourself to as many new opportunities as possible to discover your unrealized aptitudes.
-- Strive to have a growth mindset. It will allow you to develop and improve your abilities.
-- Find your passions, things you do without noticing the passage of time.
-- Forge your own path, along with an understanding of your happiness, instead of blindly seeking wealth, immediate gratification, or other people's definitions of happiness.
-- Don't plan your life when you're young because life is unpredictable.
-- Don't assume you are bad at something because you performed poorly in that subject in school. Standardized tests only measure one kind of human intelligence and schools only cater to a few learning styles.
-- Every person is special and different because of their genetic makeup (every human who ever existed in history has their own genes) and their environment (everyone has their unique mix of family, friends, and location).
-- If you accept you can't predict or control the future, you will discover many new opportunities.
-- Experiencing positive emotions from your passion reduces stress, chronic pain, and addictions. It also improves sleep and concentration.
-- Finding a group of people who share your passion can be very beneficial, or even necessary, for both you and other members of the group to realize personal goals.
-
-## Old Age
-
-People have positive attitude towards ageing live 7.2 years longer than people who don't
-
-https://www.youtube.com/watch?v=o7w5r5PfBKo
-
 ## Weak link vs Strong link
 
 - Basketball - strong link
@@ -387,7 +338,7 @@ https://www.youtube.com/watch?v=o7w5r5PfBKo
 - Investment group - strong link
 - Donation to Schools should be weak link
 
-https://www.youtube.com/watch?v=UAqZMgBtECQ
+[YouTube](https://www.youtube.com/watch?v=UAqZMgBtECQ)
 
 ## 7 reasons smart, hardworking people don't become successful
 
@@ -445,6 +396,7 @@ https://en.wikipedia.org/wiki/Parasocial_interaction
 - [Social Intelligence](book-summaries/social-intelligence.md)
 - [The Book of Joy](book-summaries/the-book-of-joy.md)
 - [Essentialism](book-summaries/essentialism.md)
+- [Find Your Element](book-summaries/find-your-element.md)
 - [The Secret to Making New Friends as an Adult | Marisa G. Franco | TED](https://www.youtube.com/watch?v=-k0p-DYYZKU)
    	- Make others feel valued and listened
 - [Good sex explained in 9 minutes | Dr. Emily Nagoski - YouTube](https://www.youtube.com/watch?v=eqX38J9ya1I)
