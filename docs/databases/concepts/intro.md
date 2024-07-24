@@ -1,5 +1,17 @@
 # Intro
 
+## Choosing the Database
+
+1. Instant performance (respond in less than 1ms)
+2. Scalability (Linear and horizontal scaling)
+3. High availability (quickly recover from database failure without loss of data, replication)
+4. Tiered memory support (hottest data in DRAM and warm data in persistent memory)
+5. Simplicity and extensibility
+6. Developer tools
+7. Cloud native
+8. Open source
+9. NoSQL for the future
+
 ## Transactions
 
 A transaction is defined as a sequence of actionsthat are executed on a shared database to perform some higher-level function. It is a basic unit of change in the DBMS. No partial transactions are allowed.

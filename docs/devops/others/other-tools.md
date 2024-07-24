@@ -267,6 +267,7 @@ Users looking for a zero maintenance, ready-to-go solution are encouraged to use
    	- [GitHub - distribution/distribution: The toolkit to pack, ship, store, and deliver container content](https://github.com/distribution/distribution)
 - ECR - Elastic Container Registry
 - ACR - Azure Container Registry
+- [Using S3 as a container registry | Adolfo Ochagavía](https://ochagavia.nl/blog/using-s3-as-a-container-registry/)
 
 [Docker Hub](https://hub.docker.com/_/registry)
 

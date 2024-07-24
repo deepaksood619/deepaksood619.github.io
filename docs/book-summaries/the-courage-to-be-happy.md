@@ -10,7 +10,6 @@ True Contentment Is In Your Power By Ichiro Kishimi
         - They need to do that behavior
     - Don't scold them for bad behavior which they don't know is bad
     - Children are attention seeking, so they will do same things again and again to get attention
-        - Ex - Manuj throws tantrum so he get the family's attention, Family gives attention to him and it's a vicious cycle
 - Praise inhibits growth and encourages unhealthy competition
     - Giving praise says, "I respect you when you act in one way, but not in other ways."
     - In marathon, surrounded by other runners, you feel no rivalry towards others. That's what competition without rivalry looks like

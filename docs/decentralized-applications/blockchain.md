@@ -205,3 +205,4 @@ Layering - Tumblr / Mixers
 - [How does a Bitcoin transaction work in detail? | Part 14 Cryptography Crashcourse - YouTube](https://www.youtube.com/watch?v=zdhuEytjYH4)
 - [Bitcoin Mining Explained in Detail: Nonce, Merkle Root, SPV,... | Part 15 Cryptography Crashcourse - YouTube](https://www.youtube.com/watch?v=C1n4SI7xzds)
 - [Will Quantum Computers kill Bitcoin? | Part 16 Cryptography Crashcourse - YouTube](https://www.youtube.com/watch?v=SD6WBud04xc)
+- [Blockchain node deployment on AWS: A comprehensive guide | AWS Database Blog](https://aws.amazon.com/blogs/database/blockchain-node-deployment-on-aws-a-comprehensive-guide/)

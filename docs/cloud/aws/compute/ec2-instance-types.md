@@ -87,6 +87,8 @@ Ubuntu Server 16.04 LTS (HVM), SSD Volume Type- ami-0c28d7c6dd94fb3a7 (64-bit x8
 
 [New compute-optimized (C7i-flex) Amazon EC2 Flex instances | AWS News Blog](https://aws.amazon.com/blogs/aws/new-compute-optimized-c7i-flex-amazon-ec2-flex-instances/)
 
+[Introducing Amazon EC2 C7i-flex instances](https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-ec2-c7i-flex-instances/)
+
 ### Graviton Instances
 
 [Key concepts and definitions for burstable performance instances - Amazon Elastic Compute Cloud](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/burstable-credits-baseline-concepts.html)

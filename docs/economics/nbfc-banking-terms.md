@@ -153,50 +153,51 @@ In the Fixed-Rate method, the interest is calculated on the entire loan amount. 
 2. https://www.sliceit.com
 3. Dhani 50m+
 4. Red carpet (RedCarpetUp)
-5. Ok credit
-6. CreditMantri
-7. Moneytap
-8. CashTap
-9. Earlysalary
-10. https://www.truebalance.io
-11. Navi
-12. KreditBee
-13. Cashbean
-14. Kissht - 10m+
-15. Moneyview
-16. Fairmoney
-17. Kartbee
-18. Indialends
-19. Creditt
-20. Mi credit - 5m+
-21. Groww
-22. InCred
-23. Freo
-24. HyperVerge
-25. Finbox
-26. Karza
-27. Krowd
-28. OneAssist
-29. Slice
-30. Niyo (goniyo)
-31. Khatabook
-32. Bajaj finance
-33. Bajaj finserv - https://www.youtube.com/watch?v=odiaekxLY0g
-34. Chola
-35. Mutooth Finance
-36. Paisa bazaar
-37. Bank bazaar
-38. Home credit
-39. Cred
-40. Lazypay
-41. Bharatpe
-42. Payu
-43. Amex
-44. Uni pay 1/3rd card (uni app)
-45. OfBusiness
-46. axio, formerly Capital Float
-47. Piramal Finance, one of India's largest non-banking lenders
-48. Affirm (US - fintech)
+5. dmifinance - [Best Non-Banking Finance Company | Powering India's Digital Lending Ecosystem](https://www.dmifinance.in/)
+6. Ok credit
+7. CreditMantri
+8. Moneytap
+9. CashTap
+10. Earlysalary
+11. https://www.truebalance.io
+12. Navi
+13. KreditBee
+14. Cashbean
+15. Kissht - 10m+
+16. Moneyview
+17. Fairmoney
+18. Kartbee
+19. Indialends
+20. Creditt
+21. Mi credit - 5m+
+22. Groww
+23. InCred
+24. Freo
+25. HyperVerge
+26. Finbox
+27. Karza
+28. Krowd
+29. OneAssist
+30. Slice
+31. Niyo (goniyo)
+32. Khatabook
+33. Bajaj finance
+34. Bajaj finserv - https://www.youtube.com/watch?v=odiaekxLY0g
+35. Chola
+36. Mutooth Finance
+37. Paisa bazaar
+38. Bank bazaar
+39. Home credit
+40. Cred
+41. Lazypay
+42. Bharatpe
+43. Payu
+44. Amex
+45. Uni pay 1/3rd card (uni app)
+46. OfBusiness
+47. axio, formerly Capital Float
+48. Piramal Finance, one of India's largest non-banking lenders
+49. Affirm (US - fintech)
 
 https://tracxn.com/d/soonicorn-awards/top-startups-in-india-fintech-2021
 

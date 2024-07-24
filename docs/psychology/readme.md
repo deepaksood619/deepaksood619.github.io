@@ -18,6 +18,7 @@
 - [Intelligence](intelligence)
 - [Human Psychology and Thinking](human-psychology-and-thinking)
 - [Stoicism](stoicism)
+- [Ikigai](psychology/ikigai.md)
 - [Life / Relationship / People](life-relationship-people)
 - [People](psychology/people.md)
 - [Emotions](psychology/emotions.md)

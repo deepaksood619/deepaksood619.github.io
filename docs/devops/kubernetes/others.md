@@ -36,80 +36,11 @@ https://rook.io
 
 https://ceph.com/community/rook-automating-ceph-kubernetes
 
-## knative
-
-Kubernetes-based platform to build, deploy, and manage modern serverless workloads
-
-https://cloud.google.com/knative
-
-https://github.com/knative/serving
-
-https://medium.com/@pczarkowski/introduction-to-knative-b93a0b9aeeef
-
-https://github.com/knative/docs
-
 ## CloudEvents
 
 CloudEvents is a specification for describing event data in common formats to provide interoperability across services, platforms and systems.
 
 https://github.com/cloudevents/spec
-
-## Fission
-
-Open Source, Cloud-native Serverless Framework.
-
-- Write short-lived functions in any language, and map them to HTTP requests (or other event triggers).
-- Deploy functions instantly with one command. There are no containers to build, and no Docker registries to manage.
-
-## Performance: 100msec cold start
-
-Fission maintains a pool of "warm" containers that each contain a small dynamic loader. When a function is first called, i.e. "cold-started", a running container is chosen and the function is loaded. This pool is what makes Fission fast: cold-start latencies are typically about 100msec.
-
-## Concept
-
-Fission has three main concepts: Functions, Environments, and Triggers
-
-## Functions
-
-A Fission function is something that Fission executes. It's usually a module with one entry point, and that entry point is a function with a certain interface. A number of programming languages are supported for Functions.
-
-## Environments
-
-Environments are the language-specific parts of Fission. An Environment contains just enough software to build and run a Fission Function.
-
-## Triggers
-
-Functions are invoked on the occurrence of an event; a Trigger is what configures Fission to use that event to invoke a function. In other words, a Trigger is a binding of events to function invocations. gi
-
-## Other Concepts
-
-## ARCHIVES
-
-An Archive is a zip file containing source code or compiled binaries. Archives with runnable functions in them are called Deployment
-
-Archives; those with source code in them are called Source Archives.
-
-## PACKAGES
-
-A Package is a Fission object containing a Deployment Archive and a Source Archive. A Package also references a certain environment.
-
-When you create a Package with a Source Archive, Fission automatically builds it using the appropriate builder environment and adds a Deployment Archive to the package.
-
-## SPECIFICATIONS
-
-Specifications (specs for short) are simply YAML config files containing the objects we've spoken about so far - Functions, Environments, Triggers, Packages, and Archives.
-
-https://fission.io
-
-https://github.com/fission/fission
-
-## Seldon Core
-
-An open source platform to deploy your machine learning models on Kubernetes at massive scale.
-
-https://docs.seldon.io/projects/seldon-core/en/v1.1.0
-
-https://www.seldon.io
 
 ## Ship
 
@@ -125,7 +56,7 @@ https://www.replicated.com/ship
 
 ## Virtual Kubelet
 
-Kubeletis the name of the Kubernetes agent that runs on every node of our cluster. When a node boots up, Kubelet is started. It connects to the Kubernetes API server, and it says (more or less) "Hi there, my name isnode752. I have that many cores, that much RAM and disk space. Do you per chance have any pod that I should run?" and after that, it waits for the Kubernetes API server for instructions. The Kubernetes API server registers the node in etcd. From that point, the scheduler knows about the node, and will be able to assign pods to it. When a pod gets assigned to the node, the pod's manifest is pushed to the node, and the node runs it. Later on, the Kubelet will keep updating the API server with the node's status.
+Kubelet is the name of the Kubernetes agent that runs on every node of our cluster. When a node boots up, Kubelet is started. It connects to the Kubernetes API server, and it says (more or less) "Hi there, my name isnode752. I have that many cores, that much RAM and disk space. Do you per chance have any pod that I should run?" and after that, it waits for the Kubernetes API server for instructions. The Kubernetes API server registers the node in etcd. From that point, the scheduler knows about the node, and will be able to assign pods to it. When a pod gets assigned to the node, the pod's manifest is pushed to the node, and the node runs it. Later on, the Kubelet will keep updating the API server with the node's status.
 
 Virtual Kubeletis a program that uses the same API as Kubelet. It connects to the API server, introduces itself, and announces that it can run pods. Except, when it is assigned a pod, instead of creating containers (with Docker, CRI-O, containerd, or what have you), Virtual Kubelet will defer that work to a provider like Fargate or ACI.
 
@@ -211,38 +142,6 @@ BKPR is open source under the Apache 2 License and is available for Google Kuber
 - OAuth2 Proxy
 
 https://kubeprod.io
-
-## Kubernetes Autoscaler
-
-[Cluster Autoscaler](https://github.com/kubernetes/autoscaler/tree/master/cluster-autoscaler)- a component that automatically adjusts the size of a Kubernetes Cluster so that all pods have a place to run and there are no unneeded nodes. Works with GCP, AWS and Azure. Version 1.0 (GA) was released with kubernetes 1.8.
-
-https://github.com/kubernetes/autoscaler/tree/master/cluster-autoscaler
-
-https://github.com/helm/charts/tree/master/stable/cluster-autoscaler
-
-[GitHub - kubernetes/autoscaler: Autoscaling components for Kubernetes](https://github.com/kubernetes/autoscaler)
-
-## [Vertical Pod Autoscaler](https://github.com/kubernetes/autoscaler/tree/master/vertical-pod-autoscaler) / VPA
-
-A set of components that automatically adjust the amount of CPU and memory requested by pods running in the Kubernetes Cluster. Current state - beta
-
-https://github.com/kubernetes/autoscaler/tree/master/vertical-pod-autoscaler
-
-https://medium.com/infrastructure-adventures/vertical-pod-autoscaler-deep-dive-limitations-and-real-world-examples-9195f8422724
-
-[https://povilasv.me/vertical-pod-autoscaling-the-definitive-guide/#](https://povilasv.me/vertical-pod-autoscaling-the-definitive-guide/)
-
-## Goldilocks
-
-https://github.com/FairwindsOps/goldilocks
-
-Goldilocks is a utility that can help you identify a starting point for resource requests and limits.
-
-[goldilocks Documentation](https://goldilocks.docs.fairwinds.com/)
-
-[Addon Resizer](https://github.com/kubernetes/autoscaler/tree/master/addon-resizer)- a simplified version of vertical pod autoscaler that modifies resource requests of a deployment based on the number of nodes in the Kubernetes Cluster. Current state - beta.
-
-https://github.com/kubernetes/autoscaler
 
 ## Forge
 

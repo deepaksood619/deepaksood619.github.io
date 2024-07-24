@@ -1,5 +1,7 @@
 # Product Manager PM Role
 
+![product-manager-skills](../../media/Pasted%20image%2020240723234521.png)
+
 ## Role
 
 Your job as a PM is to deliver business impact by marshaling the resources of your team to identify and solve the most impactful customer problems.

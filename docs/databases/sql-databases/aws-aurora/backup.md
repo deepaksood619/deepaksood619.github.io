@@ -26,6 +26,14 @@ DB cluster snapshots are always full backups whose size is that of the cluster v
 
 Manual snapshots are not deleted. You can have up to 100 manual snapshots per Region.
 
+| Service&nbsp;                        | Monthly Cost( $ Per GB) | Size (TB) | Month  | &nbsp;1 Year | 7 Years |
+| ------------------------------------ | ----------------------- | --------- | ------ | ------------ | ------- |
+| Amazon Aurora Snapshot               | $0.021                  | 1         | $21.50 | $258.048     | $1,806  |
+| Amazon S3 Standard-Infrequent        | $0.012                  | 1         | $12.80 | $153.600     | $1,075  |
+| Amazon S3 Glacier Flexible Retrieval | $0.0036                 | 1         | $3.68  | $44.230      | $309    |
+
+[Reduce Amazon Aurora MySQL backup costs using MySQL Shell and Amazon S3 | AWS Database Blog](https://aws.amazon.com/blogs/database/reduce-amazon-aurora-mysql-backup-costs-using-mysql-shell-and-amazon-s3/)
+
 ## Amazon CloudWatch metrics for Aurora backup storage
 
 ### `BackupRetentionPeriodStorageUsed`
@@ -256,3 +264,4 @@ To restore your database, you can use the [pg_dump utility](https://docs.aws.am
 
 - [Improve performance of your bulk data import to Amazon RDS for MySQL | AWS Database Blog](https://aws.amazon.com/blogs/database/improve-performance-of-your-bulk-data-import-to-amazon-rds-for-mysql/)
 - [Perform automated backups of Amazon RDS MySQL | AWS re:Post](https://repost.aws/knowledge-center/rds-mysql-automated-backups)
+- [Reduce Amazon Aurora MySQL backup costs using MySQL Shell and Amazon S3 | AWS Database Blog](https://aws.amazon.com/blogs/database/reduce-amazon-aurora-mysql-backup-costs-using-mysql-shell-and-amazon-s3/)

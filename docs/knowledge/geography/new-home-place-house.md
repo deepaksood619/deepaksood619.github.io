@@ -46,7 +46,7 @@ When we move up a hill, we notice a fall in temperature. This fall in temperatur
 - Nashik
 - Nainital (15-25)
 - Shillong (15-25)
-- Hyderabad
+- Hyderabad - [Planning to Buy a Flat in Hyderabad? Here Are Top trends of 2024 You Should Know - The 1% News](https://news.onepercentclub.io/invest/planning-to-buy-a-flat-in-hyderabad-here-are-top-trends-of-2024-you-should-know/12849/)
 - Chandigarh
 
 [Best cities in India with pleasant weather all year round | EconomicTimes](https://economictimes.indiatimes.com/news/web-stories/best-cities-in-india-with-pleasant-weather-all-year-round/slideshow/103212353.cms)
@@ -123,9 +123,7 @@ https://zolostays.com/blog/cities-with-best-weather-in-india
 - **Don't buy a house more than 50 lakhs in India (1 crore house in america gives you a condo)**
    	- In $300,000 (2.5 crore) you can get a 5 bedroom condo
 - Buy home from bank auctions - [auction property: Is it safe to buy auction property? Six things a buyer need to keep in mind - The Economic Times](https://economictimes.indiatimes.com/wealth/real-estate/is-it-safe-to-buy-auction-property-six-things-a-buyer-need-to-keep-in-mind/articleshow/103044435.cms)
-- Loan - aavas financiers
 - Property Tax
-- Variable interest rate mortgage loan
 - Home stress testing and building testing via a third party engineer (ultrasound) - Chintan
 - Reverse mortage
 - Rent dresses
@@ -225,10 +223,6 @@ Stamp duty in Delhi: Stamp duty in national capital Delhi is six per cent. Women
 
 https://freefincal.com/real-estate-investing-practical-aspects-retail-investors-should-keep-in-mind
 
-https://economictimes.indiatimes.com/wealth/borrow/smart-use-of-home-loan-can-deliver-best-tax-saving-at-the-lowest-cost/articleshow/88402560.cms
-
-https://freefincal.com/when-should-i-get-a-home-loan-how-to-decide-this
-
 [Why will I NOT buy a house?](https://youtu.be/IwBu_YYXGzY)
 
 ### New Flats
@@ -295,6 +289,8 @@ Take the value of the home that you are considering multiply by 5% and divide by
 
 Air pollution in Delhi reduces life expectancy by 10 years
 
+- [They came to start a new life; now every breath they take is a struggle](https://timesofindia.indiatimes.com/city/gurgaon/they-came-to-start-a-new-life-now-every-breath-they-take-is-a-struggle/articleshow/109066285.cms)
+
 ### Factors
 
 - access to freshwater
@@ -323,23 +319,30 @@ Air pollution in Delhi reduces life expectancy by 10 years
 
 ## Land
 
-**1 hectacre land to be self sufficient**
+**1 hectacre (2.47 acre) land to be self sufficient**
 
-A person feeding themselves a vegetarian diet would need about an acre of land a year. If they were to eat meat by raising chickens, goats and cows this would be 3 acres and above
+1 acre = 4046 sq mtrs = 63.6 mtr x 63.6 mtr
 
-[How much land do you need to be self sufficient? - Self Sufficient Homesteading](https://www.selfsufficienthomesteading.com/self-sufficiency/how-much-land-do-you-need-to-be-self-sufficient/)
+A person feeding themselves a vegetarian diet would need about an acre of land a year. If they were to eat meat by raising chickens, goats and cows this would be 3 acres and above.
 
-[Land in India: Market price vs. fundamental value](https://www.ideasforindia.in/topics/governance/land-in-india-market-price-vs-fundamental-value.html)
-
-[How To Buy Agricultural Land In Haryana | Agri Farming](https://www.agrifarming.in/how-to-buy-agricultural-land-in-haryana)
-
-[How to buy an Agricultural Land in India in 2023: Know laws, legal tips, eligibility](https://www.99acres.com/articles/legal-tips-for-buying-agricultural-land-in-india.html)
+- [How much land do you need to be self sufficient? - Self Sufficient Homesteading](https://www.selfsufficienthomesteading.com/self-sufficiency/how-much-land-do-you-need-to-be-self-sufficient/)
+- [Land in India: Market price vs. fundamental value](https://www.ideasforindia.in/topics/governance/land-in-india-market-price-vs-fundamental-value.html)
+- [How To Buy Agricultural Land In Haryana | Agri Farming](https://www.agrifarming.in/how-to-buy-agricultural-land-in-haryana)
+- [How to buy an Agricultural Land in India in 2023: Know laws, legal tips, eligibility](https://www.99acres.com/articles/legal-tips-for-buying-agricultural-land-in-india.html)
 
 ### Taxation
 
 - [All About your Property Tax and How to Pay it Online](https://www.bankbazaar.com/home-loan/resources/land-tax.html)
 - [What are the Land Ownership Laws in India?](https://www.ezylegal.in/blogs/land-ownership-laws-in-india)
 - [Property Tax in India - Defination, Types, & Calculation Formula](https://www.bankbazaar.com/tax/property-tax.html)
+
+## Loan
+
+- [hdfcfund.com/knowledge-stack/mf-vault/weekend-bytes/balancing-between-taking-home-loan-and-dipping-personal-reserves](https://www.hdfcfund.com/knowledge-stack/mf-vault/weekend-bytes/balancing-between-taking-home-loan-and-dipping-personal-reserves)
+- Loan - aavas financiers
+- Variable interest rate mortgage loan
+- https://economictimes.indiatimes.com/wealth/borrow/smart-use-of-home-loan-can-deliver-best-tax-saving-at-the-lowest-cost/articleshow/88402560.cms
+- https://freefincal.com/when-should-i-get-a-home-loan-how-to-decide-this
 
 ## Real Estate / Realty Market
 

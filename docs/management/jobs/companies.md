@@ -273,3 +273,7 @@
 - Engineering Lead
 - **Solutions Architect**
 - System Architect
+
+## Links
+
+- [LinkedIn Top Companies 2024: The 25 workplaces in India to grow your career (\>5K employees)](https://www.linkedin.com/pulse/linkedin-top-companies-2024-25-workplaces-india-grow-your-gs-kumar-uv3wc/)

@@ -11,9 +11,15 @@ Itaka - Enjoy the road and journey, never say once I get their I will be happy s
 
 Avoiding stupidity is easier than trying to be brilliant. Instead of asking, "How can I help my company?" you should ask, "What's hurting my company the most and how can I avoid it?" Identify obvious failure points, and steer clear of them.
 
+[Stoic & Wealthy #4: On financial independence - Darius Foroux](https://dariusforoux.com/stoic-wealthy-4-on-financial-independence/)
+
+- While we are postponing, life speeds by
+- **Nothing in life is worth waiting for**
+- Begin at once to live, and count each separate day as a separate life.
+
 ## Reframing
 
-## To solve your toughest problems, Change the problems you solve
+To solve your toughest problems, Change the problems you solve
 
 Reframing is not about finding the real problem. Its about finding a better problem to solve.
 

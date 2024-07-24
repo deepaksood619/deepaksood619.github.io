@@ -35,6 +35,8 @@ Blockchain reinvents trust.
 
 Humans cannot be trusted, they trust software more than other humans - Haven't you studied past history as to what humans have done to other humans.
 
+In long term for a company to survive, stock ownership for employees and board of directors, to keep each other in check, works. Otherwise leaders will never take ownership, since it's not their company and owners/founders will have to keep other leaders in check. Otherwise company will slowly collapse.
+
 ## Technologies
 
 [Can Rice last forever?](https://finshots.in/archive/can-rice-last-forever/)

@@ -46,6 +46,11 @@ Data Lab has three offerings - the Build Lab, the Design Lab, and Resident Archi
 
 [Using Tag Editor - Tagging AWS Resources](https://docs.aws.amazon.com/tag-editor/latest/userguide/tag-editor.html)
 
+## Learning
+
+- [Welcome to BeSA program | become-a-solutions-architect](https://become-a-solutions-architect.github.io/)
+- [AWS SimuLearn](https://aws.amazon.com/training/digital/aws-simulearn/)
+
 ## Others
 
 [What is myApplications on AWS - AWS Management Console](https://docs.aws.amazon.com/awsconsolehelpdocs/latest/gsg/aws-myApplications.html)

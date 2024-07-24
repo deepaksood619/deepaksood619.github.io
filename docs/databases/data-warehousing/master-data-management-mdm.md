@@ -20,7 +20,7 @@ MDM ensures data consistency, accuracy, and integrity across the organization. I
 
 The key components of MDM include data integration, data quality management, data governance, data modeling, data storage, data security, and workflow management.
 
-### Explain the different types of master data.
+### Explain the different types of master data
 
 The primary types of master data include customer data, product data, supplier data, and location data. These represent the critical entities within an organization and are often shared across various departments and systems.
 
@@ -70,7 +70,7 @@ Common MDM tools include Informatica MDM, IBM InfoSphere MDM, SAP Master Data Go
 
 Selecting the right MDM tool involves assessing the organization's specific needs, evaluating the tool's features and capabilities, considering scalability and flexibility, checking for compatibility with existing systems, and ensuring vendor support and cost-effectiveness.
 
-### Explain the role of machine learning and AI in MDM.
+### Explain the role of machine learning and AI in MDM
 
 Machine learning and AI can enhance MDM by automating data cleansing, matching, and deduplication processes. They can also help in predictive analytics, anomaly detection, and improving data quality through intelligent recommendations and insights.
 

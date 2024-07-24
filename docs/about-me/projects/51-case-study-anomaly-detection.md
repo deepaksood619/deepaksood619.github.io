@@ -72,3 +72,5 @@ The application of Isolation Forest for anomaly detection proved effective in id
 - Visualization: Essential for interpreting model results and communicating findings clearly.
 
 This case study demonstrates the practical application of AI/ML in anomaly detection, showcasing the ability to process and analyze large datasets, extract valuable insights, and ensure the reliability of metric data.
+
+[Leveraging AI for efficient incident response - Engineering at Meta](https://engineering.fb.com/2024/06/24/data-infrastructure/leveraging-ai-for-efficient-incident-response/)

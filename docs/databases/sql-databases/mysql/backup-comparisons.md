@@ -68,6 +68,8 @@ MySQL localhost:3306 ssl test JS > util.dumpInstance("/backup", {ocimds: true, c
 
 [11.5 Instance Dump Utility, Schema Dump Utility, and Table Dump Utility](https://dev.mysql.com/doc/mysql-shell/8.0/en/mysql-shell-utilities-dump-instance-schema.html)
 
+[Reduce Amazon Aurora MySQL backup costs using MySQL Shell and Amazon S3 | AWS Database Blog](https://aws.amazon.com/blogs/database/reduce-amazon-aurora-mysql-backup-costs-using-mysql-shell-and-amazon-s3/)
+
 ### mydumper
 
 #### Key Features
@@ -189,6 +191,7 @@ Time to restore (in seconds)
 
 ## Links
 
-[Migrating from MySQL-compatible databases - Amazon Aurora MySQL Migration Handbook](https://docs.aws.amazon.com/whitepapers/latest/amazon-aurora-mysql-migration-handbook/migrating-from-mysql-compatible-databases.html#percona-xtrabackup-1)
-
-[Full Load - Database Migration Guide](https://docs.aws.amazon.com/dms/latest/sbs/chap-manageddatabases.mysql2rds.fullload.html)
+- [Aurora Backup](databases/sql-databases/aws-aurora/backup.md)
+- [Migrating from MySQL-compatible databases - Amazon Aurora MySQL Migration Handbook](https://docs.aws.amazon.com/whitepapers/latest/amazon-aurora-mysql-migration-handbook/migrating-from-mysql-compatible-databases.html#percona-xtrabackup-1)
+- [Full Load - Database Migration Guide](https://docs.aws.amazon.com/dms/latest/sbs/chap-manageddatabases.mysql2rds.fullload.html)
+- [Reduce Amazon Aurora MySQL backup costs using MySQL Shell and Amazon S3 | AWS Database Blog](https://aws.amazon.com/blogs/database/reduce-amazon-aurora-mysql-backup-costs-using-mysql-shell-and-amazon-s3/)
