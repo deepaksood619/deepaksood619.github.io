@@ -112,29 +112,21 @@ logrotate is designed to ease administration of systems that generate large numb
 
 ```json
 /tmp/email.log {
-compress
-
-delaycompress
-
-daily
-
-create 666 ubuntu syslog
-
-missingok
-rotate 14
+	compress
+	delaycompress
+	daily
+	create 666 ubuntu syslog
+	missingok
+	rotate 14
 }
 
 /var/log/access.log {
-compress
-
-delaycompress
-
-daily
-
-create 666 root root
-
-missingok
-rotate 14
+	compress
+	delaycompress
+	daily
+	create 666 root root
+	missingok
+	rotate 14
 }
 ```
 

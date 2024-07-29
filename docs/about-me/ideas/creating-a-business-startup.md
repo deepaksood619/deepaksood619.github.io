@@ -37,6 +37,7 @@ You will have either of the 4 problems while building a startup
 - ProductHunt - [Best rated products of November 2022. | Product Hunt](https://www.producthunt.com/products?order=best_rated&period=2022-11)
 - [Hall of Fame - Golden Kitty Awards Winners | Product Hunt](https://www.producthunt.com/golden-kitty-awards/hall-of-fame)
 - Demo Days
+- [Y Combinator - YouTube](https://www.youtube.com/@ycombinator)
 
 ## How to start startup
 
@@ -262,6 +263,8 @@ https://www.lennysnewsletter.com/p/winning-at-consumer-subscription
 21. Share Holding pattern
 
 https://www.linkedin.com/posts/meet-jain-596636214_financialmodeling-finance-financialmodelling-activity-7008822429506514944-blUv
+
+[How To Price For B2B | Startup School - YouTube](https://www.youtube.com/watch?v=4hjiRmgmHiU&ab_channel=YCombinator)
 
 ## Product Intro Examples
 

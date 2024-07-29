@@ -143,3 +143,7 @@ Dedicated short-range communications(DSRC) are one-way or two-way short-range to
 https://en.wikipedia.org/wiki/Dedicated_short-range_communications
 
 https://web.dev/webtransport
+
+## Wifi Calling
+
+[What is Wi-Fi calling?](https://www.techtarget.com/whatis/definition/Wi-Fi-calling)

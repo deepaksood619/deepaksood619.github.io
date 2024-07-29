@@ -76,6 +76,6 @@ NoSQL systems often use column-oriented storage
         - Search in the last_updated column, fetch corresponding blog_id column
         - Don't need to fetch the other columns
 
-## See Also
+## Links
 
-- Computer Science > Databases > Casandra > Design
+[Cassandra - Design](databases/nosql-databases/cassandra/design.md)

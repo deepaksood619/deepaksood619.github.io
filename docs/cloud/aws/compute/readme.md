@@ -68,6 +68,10 @@ AWS Fargate is a serverless compute engine for containers that works with both [
 
 Fargate allocates the right amount of compute, eliminating the need to choose instances and scale cluster capacity. You only pay for the resources required to run your containers, so there is no over-provisioning and paying for additional servers. Fargate runs each task or pod in its own kernel providing the tasks and pods their own isolated compute environment. This enables your application to have workload isolation and improved security by design. This is why customers such as Vanguard, Accenture, Foursquare, and Ancestry have chosen to run their mission critical applications on Fargate.
 
+[AWS Fargate Pricing Explained](https://www.vantage.sh/blog/fargate-pricing)
+
+[Serverless Compute Engine–AWS Fargate Pricing–Amazon Web Services](https://aws.amazon.com/fargate/pricing/)
+
 ## AWS Lambda
 
 Run Your Code in Response to Events
@@ -124,10 +128,6 @@ Discover, Deploy, and Publish Serverless Applications
 ## VMware Cloud on AWS
 
 Build a Hybrid Cloud without Custom Hardware
-
-## AWS ECS (Elastic Container Service)
-
-![image](../../../media/Cloud-AWS-Compute-image1.jpg)
 
 ## [AWS Elastic Kubernetes Service (EKS)](amazon-eks)
 

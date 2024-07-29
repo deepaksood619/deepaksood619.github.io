@@ -580,6 +580,8 @@ https://aws.amazon.com/premiumsupport/knowledge-center/error-json-athena
 - [ThornyDev: Querying JSON records via Hive](http://thornydev.blogspot.com/2013/07/querying-json-records-via-hive.html)
 - [Athena engine version reference - Amazon Athena](https://docs.aws.amazon.com/athena/latest/ug/engine-versions-reference.html)
 - [Multicloud data lake analytics with Amazon Athena | AWS Big Data Blog](https://aws.amazon.com/blogs/big-data/multicloud-data-lake-analytics-with-amazon-athena/)
+- [Visualize MongoDB data from Amazon QuickSight using Amazon Athena Federated Query | AWS Big Data Blog](https://aws.amazon.com/blogs/big-data/visualize-mongodb-data-from-amazon-quicksight-using-amazon-athena-federated-query/)
+   	- [Real Time: MongoDB data to AWS QuickSight - Working with Data / Connectors & Integrations - MongoDB Developer Community Forums](https://www.mongodb.com/community/forums/t/real-time-mongodb-data-to-aws-quicksight/2314)
 
 ### [GitHub - quux00/hive-json-schema: Tool to generate a Hive schema from a JSON example doc](https://github.com/quux00/hive-json-schema)
 

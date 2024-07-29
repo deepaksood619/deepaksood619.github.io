@@ -34,7 +34,7 @@
 
 ## OS
 
-```bash
+```python
 import os
 
 os.listdir() # gives the list of the files and folder is the current directory
@@ -78,15 +78,15 @@ https://docs.python.org/3/howto/logging.html
 
 https://docs.python.org/3/howto/logging-cookbook.html
 
-1. Logger
+### 1. Logger
 
 [Logger](https://docs.python.org/3/library/logging.html#logging.Logger) objects have a threefold job. First, they expose several methods to application code so that applications can log messages at runtime. Second, logger objects determine which log messages to act upon based upon severity (the default filtering facility) or filter objects. Third, logger objects pass along relevant log messages to all interested log handlers.
 
-2. Handler
+### 2. Handler
 
 [Handler](https://docs.python.org/3/library/logging.html#logging.Handler) objects are responsible for dispatching the appropriate log messages (based on the log messages' severity) to the handler's specified destination.[Logger](https://docs.python.org/3/library/logging.html#logging.Logger) objects can add zero or more handler objects to themselves with an [addHandler()](https://docs.python.org/3/library/logging.html#logging.Logger.addHandler) method. As an example scenario, an application may want to send all log messages to a log file, all log messages of error or higher to stdout, and all messages of critical to an email address. This scenario requires three individual handlers where each handler is responsible for sending messages of a specific severity to a specific location.
 
-## logging.Handlers
+#### logging.Handlers
 
 - **StreamHandler**
 - FileHandler
@@ -107,7 +107,7 @@ https://docs.python.org/3/howto/logging-cookbook.html
 
 https://docs.python.org/3/library/logging.handlers.html
 
-3. Formatter
+### 3. Formatter
 
 Formatter objects configure the final order, structure, and contents of the log message. Unlike the base [logging.Handler](https://docs.python.org/3/library/logging.html#logging.Handler) class, application code may instantiate formatter classes, although you could likely subclass the formatter if your application needs special behavior. The constructor takes three optional arguments -- a message format string, a date format string and a style indicator.
 
@@ -184,17 +184,14 @@ dictConfig({
 })
 ```
 
-### argparse
+## argparse
 
 ```python
 import argparse
 
 parser = argparse.ArgumentParser()
-
 parser.add_argument("square", type=int, help="display a square of a given number")
-
 parser.add_argument("-v", "--verbosity", type=int, help="increase output verbosity")
-
 args = parser.parse_args()
 
 answer = args.square**2
@@ -222,7 +219,7 @@ https://docs.python.org/3.3/library/argparse.html
 
 https://docs.python.org/3/howto/argparse.html
 
-### getopt
+## getopt
 
 Parses command line options and parameter list. args is the argument list to be parsed, without the leading reference to the running program.
 Example -

@@ -21,6 +21,6 @@ Usage -
 - Aadhaar Project - 1.2 billion identities
 - Ocean Observatories Initiative - 8 terabytes of data per day
 
-## See also
+## Links
 
-- Message Oriented Architecture (MOM)
+- [Message Oriented Architecture (MOM)](computer-science/system-design/message-oriented-architecture-mom.md)

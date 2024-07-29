@@ -1,6 +1,6 @@
 # Power and Prediction
 
-The Disruptive Economics of Artificial Intelligence  
+The Disruptive Economics of Artificial Intelligence
 
 **Authors:** Ajay Agrawal, Joshua Gans, and Avi Goldfarb
 

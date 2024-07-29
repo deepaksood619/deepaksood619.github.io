@@ -37,6 +37,8 @@ Humans cannot be trusted, they trust software more than other humans - Haven't y
 
 In long term for a company to survive, stock ownership for employees and board of directors, to keep each other in check, works. Otherwise leaders will never take ownership, since it's not their company and owners/founders will have to keep other leaders in check. Otherwise company will slowly collapse.
 
+The whole world is moving towards electric, but India is pushing more towards Hydrogen why? Maybe they want everyone to be dependent on government and their big corporations rather than becoming independent.
+
 ## Technologies
 
 [Can Rice last forever?](https://finshots.in/archive/can-rice-last-forever/)

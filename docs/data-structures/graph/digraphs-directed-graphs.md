@@ -38,6 +38,6 @@
 
 We use adjacency-list representation for representing a weighted graph, where each edge has a weight associated with it
 
-## See also
+## Links
 
 [Topological Sort](algorithms/graphtheory/topological-sort-algorithm.md)

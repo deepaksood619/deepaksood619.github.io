@@ -3,8 +3,8 @@
 - S3 Standard (Frequently accessed data) - $0.023 per GB
 - S3 Intelligent-Tiering - $0.023per GB
 - Amazon S3 Express One Zone - $0.16 per GB
-- S3 Standard-IA (Infrequent Access) (Long-lived, infrequently accessed data) - $0.0125per GB (54% cheap)
-- S3 One Zone-IA (Long-lived, infrequent, but rapid access) - $0.01 per GB (125% cheap)
+- S3 Standard-IA (Infrequent Access) (Long-lived, infrequently accessed data) - $0.0125per GB (54% cheaper than standard)
+- S3 One Zone-IA (Long-lived, infrequent, but rapid access) - $0.01 per GB (56% cheaper than standard)
 - S3 Glacier - $0.004per GB (312% cheap)
 - S3 Glacier Deep Archive (Archiving rarely accessed data) - $0.00099per GB (1262% cheap)
 - Amazon S3 Glacier Instant Retrieval

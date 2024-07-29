@@ -175,5 +175,6 @@ The **impossible trinity** (also known as **the impossible [trilemma](https://en
 - [How I Made Millions As The World’s Best Trader | Minutes With - YouTube](https://www.youtube.com/watch?v=kdThScj7VPs&ab_channel=LADbibleTV)
 - [The Loss Of Trust In The Democratic Party And Next Steps](https://www.linkedin.com/pulse/loss-trust-democratic-party-next-steps-ray-dalio-zmnfe/)
 - [To Answer the Question of Why I Invest in China](https://www.linkedin.com/pulse/answer-question-why-i-invest-china-ray-dalio-bmsxe/)
+- [Country Risk: The 2024 Update - YouTube](https://www.youtube.com/watch?v=h1Q2Mg48y0I&ab_channel=AswathDamodaran)
 
 ## End

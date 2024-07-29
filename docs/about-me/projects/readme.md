@@ -27,6 +27,8 @@
 - [Pull Request Risk Tagging Heuristics](about-me/projects/52-pull-request-risk-tagging-heuristics.md)
 - [Case Study: Anomaly Detection in Metric Data using Isolation Forest](about-me/projects/51-case-study-anomaly-detection.md)
 - [Use Cases: AIML in Logistics and Warehousing](about-me/projects/50-use-cases-aiml-logistics-warehousing.md)
+- [Data Practical Use Cases](about-me/projects/49-data-practical-use-cases.md)
+- [RAG Presentation](about-me/projects/48-rag-presentation.md)
 
 ### Bake.io
 

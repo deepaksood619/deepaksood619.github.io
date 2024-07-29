@@ -210,6 +210,12 @@ By using Amazon S3 analytics _Storage Class Analysis_ you can analyze storage 
 
 [Amazon S3 analytics – Storage Class Analysis - Amazon Simple Storage Service](https://docs.aws.amazon.com/AmazonS3/latest/userguide/analytics-storage-class.html)
 
+### Access Analyzer
+
+[Using Amazon S3 server access logs to identify requests - Amazon Simple Storage Service](https://docs.aws.amazon.com/AmazonS3/latest/userguide/using-s3-access-logs-to-identify-requests.html)
+
+[Reviewing bucket access using IAM Access Analyzer for S3 - Amazon Simple Storage Service](https://docs.aws.amazon.com/AmazonS3/latest/userguide/access-analyzer.html)
+
 ## Versioning
 
 Versioning in Amazon S3 is a means of keeping multiple variants of an object in the same bucket. You can use the S3 Versioning feature to preserve, retrieve, and restore every version of every object stored in your buckets. With versioning you can recover more easily from both unintended user actions and application failures. After versioning is enabled for a bucket, if Amazon S3 receives multiple write requests for the same object simultaneously, it stores all of those objects.
