@@ -65,8 +65,6 @@ Give tech talk - Learning + Note taking + Zettlekasten - Obsidian / Onenote + Do
 
 ## Learning Resources / Bootcamps
 
-- https://github.com/jwasham/coding-interview-university
-- https://www.freecodecamp.org
 - https://www.freecodecamp.org/news/best-coding-games-online-adults-learn-to-code
 - https://www.masaischool.com
 - https://repl.it

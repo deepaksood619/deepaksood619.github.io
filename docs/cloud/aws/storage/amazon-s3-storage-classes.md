@@ -167,3 +167,5 @@ StorageClass='STANDARD'|'REDUCED_REDUNDANCY'|'STANDARD_IA'|'ONEZONE_IA'|'INTELLI
 
 aws s3api put-object --profile <profile-name> --bucket <bucket-name> --storage-class ONEZONE_IA --key <object-key> --body <object-data>
 ```
+
+[generate\_presigned\_url put\_object StorageClass: SignatureDoesNotMatch · Issue #1824 · boto/boto3 · GitHub](https://github.com/boto/boto3/issues/1824)

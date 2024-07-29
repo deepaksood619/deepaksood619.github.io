@@ -5,6 +5,8 @@
 3. Amazon Cognito - Identity Management for your Apps
 4. AWS Single Sign-On - Cloud Single Sign-On (SSO) Service
 5. Amazon GuardDuty - Managed Threat Detection Service
+	1. [Amazon GuardDuty](https://aws.amazon.com/guardduty/)
+	2. Amazon GuardDuty combines ML and integrated threat intelligence from AWS and leading third parties to help protect your AWS accounts, workloads, and data from threats.
 6. AWS Direct Connect - Dedicated Network Connection to AWS
 7. Amazon Inspector - Analyze Application Security
 8. Amazon Macie - Discover, Classify, and Protect Your Data

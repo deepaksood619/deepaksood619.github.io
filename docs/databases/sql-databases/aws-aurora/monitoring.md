@@ -49,6 +49,34 @@ Enabling Performance Insights in Amazon RDS requires specific permissions relate
 - Integration: Enhanced Monitoring integrates with Amazon CloudWatch, allowing you to view and analyze metrics alongside other CloudWatch metrics and alarms.
 - enhanced monitoring is free for rds but cost of cloudwatch for logs will be incurred
 
+#### Cost
+
+**Enhanced Monitoring metrics are stored in the CloudWatch Logs instead of in CloudWatch metrics.** The cost of Enhanced Monitoring depends on the following factors:
+
+- You are charged for Enhanced Monitoring only if you exceed the free tier provided by Amazon CloudWatch Logs. **Charges are based on CloudWatch Logs data transfer and storage rates.**
+- The amount of information transferred for an RDS instance is directly proportional to the defined granularity for the Enhanced Monitoring feature. A smaller monitoring interval results in more frequent reporting of OS metrics and increases your monitoring cost. To manage costs, set different granularities for different instances in your accounts.
+- **Usage costs for Enhanced Monitoring are applied for each DB instance that Enhanced Monitoring is enabled for**. Monitoring a large number of DB instances is more expensive than monitoring only a few.
+- DB instances that support a more compute-intensive workload have more OS process activity to report and higher costs for Enhanced Monitoring.
+
+##### Example Calculation
+
+If you have an `m5.8xlarge` instance and enable Enhanced Monitoring, the cost might be calculated as follows:
+
+Given general pricing trends:
+
+- **30-Second Granularity**: May cost around $0.45 per instance per hour (estimate).
+- **1-Minute Granularity**: Typically costs around $0.30 per instance per hour (estimate).
+
+Monthly Cost Calculation:
+
+- **30-Second Granularity**: $0.45 * 24 hours/day * 30 days/month = $324 per month (approximate).
+- **1-Minute Granularity**: $0.30 * 24 hours/day * 30 days/month = $216 per month (approximate).
+- **15-Minute Granularity**: $0.15 * 24 hours/day * 30 days/month = $108 per month (approximate).
+
+**You do not need to restart your Amazon RDS instance to enable Enhanced Monitoring.**
+
+[OS metrics in Enhanced Monitoring - Amazon Relational Database Service](https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/USER_Monitoring-Available-OS-Metrics.html)
+
 ### Why does Performance Insights measure database load in sessions?
 
 Sessions, in this case, is shorthand for "average active sessions," sometimes abbreviated "AAS." An active session is a database connection that has submitted a request to the database but has not yet received the response. Measuring the average number of active concurrent sessions over time provides a clear picture of the load on the database.

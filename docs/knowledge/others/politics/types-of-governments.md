@@ -2,7 +2,7 @@
 
 turtles move slow, the government moves slower
 
-**Political Ideology**
+Power is a prized possession of governments. They can let go of at least some of it and enjoy the lightness it creates in both the governed and the governing.
 
 ### Monarchy
 

@@ -199,6 +199,12 @@ I have used four types of wildcards; they are:
 
 `SELECT User_ID, FirstName, LastName, Salary FROM UserDetail WHERE FirstName LIKE '%h%';`
 
+#### LIKE BINARY
+
+The BINARY function converts a value to a binary string.
+
+LIKE BINARY is used for case insensitive search
+
 ### LIMIT
 
 LIMIT is a clause that lets you specify the maximum number of rows the result set will have.

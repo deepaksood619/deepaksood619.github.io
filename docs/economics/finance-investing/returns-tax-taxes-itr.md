@@ -151,7 +151,7 @@ If people have to invest or spend more, they need to earn at least ₹2.5lks/yr?
 
 ### Incomes exempt from paying tax
 
-1. Income from Agriculture
+1. Income from Agriculture (Agriculture Income)
 2. Gifts Received from Relatives
 3. Income from Gratuity
 4. Scholarships

@@ -246,12 +246,6 @@ https://docs.aws.amazon.com/AmazonRDS/latest/AuroraUserGuide/AuroraMySQL.Referen
 - require_secure_transport
 - mysqlx_max_connections
 
-### Instance Types
-
-- **db.r7g instances**
-- **db.r6g instances**
-- **db.r5 instances**
-
 ## Optimizations
 
 [How to plan and optimize Amazon Aurora with MySQL compatibility for consolidated workloads | AWS Database Blog](https://aws.amazon.com/blogs/database/planning-and-optimizing-amazon-aurora-with-mysql-compatibility-for-consolidated-workloads)

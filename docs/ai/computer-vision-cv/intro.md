@@ -71,9 +71,7 @@ Since the intensity function of a digital image is only known at discrete points
 
 On the left, an intensity image of a cat. In the center, a gradient image in the x direction measuring horizontal change in intensity. On the right, a gradient image in the y direction measuring vertical change in intensity. Gray pixels have a small gradient; black or white pixels have a large gradient.
 
-See Also -
-
-Mathematics > Calculus > Gradient
+[Calculus - Gradient](mathematics/calculus/gradient.md)
 
 https://en.wikipedia.org/wiki/Image_gradient
 

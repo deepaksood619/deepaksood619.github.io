@@ -173,6 +173,10 @@ Ludwig enables you to apply state-of-the-art tabular, natural language processin
 - [DataRobot AI Platform | Deliver Value from AI](https://www.datarobot.com/)
 - [Accelerating Systems with Real-time AI Solutions - Groq](https://wow.groq.com/)
 
+## LLM Agent
+
+An LLM Agent is a software entity capable of reasoning and autonomously executing tasks.
+
 ## Resources
 
 [Development with Large Language Models Tutorial - OpenAI, Langchain, Agents, Chroma - YouTube](https://www.youtube.com/watch?v=xZDB1naRUlk&t=1032s)

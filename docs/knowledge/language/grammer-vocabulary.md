@@ -194,6 +194,7 @@ https://myenglishmatters.com/2018/06/28/whats-the-difference-between-has-been-ha
 - Venture - a project or activity which is new, exciting, and difficult because it involves the risk of failure
 - slog - work hard over a period of time
 - kayfabe - (in professional wrestling) the fact or convention of presenting staged performances as genuine or authentic.
+- Spray and pray
 
 ### Shill / Shilling
 

@@ -49,6 +49,8 @@ fields *@timestamp*, *@message* | filter *@message* like /(?i)(connect)/ # | fil
 
 [CloudWatch billing and cost - Amazon CloudWatch](https://docs.aws.amazon.com/AmazonCloudWatch/latest/monitoring/cloudwatch_billing.html)
 
+[Publish custom metrics - Amazon CloudWatch](https://docs.aws.amazon.com/AmazonCloudWatch/latest/monitoring/publishingMetrics.html)
+
 #### Amazon CloudWatch Application Insights
 
 [Amazon CloudWatch Application Insights - Amazon CloudWatch](https://docs.aws.amazon.com/AmazonCloudWatch/latest/monitoring/cloudwatch-application-insights.html)
@@ -58,6 +60,8 @@ fields *@timestamp*, *@message* | filter *@message* like /(?i)(connect)/ # | fil
 [Determine which log group is causing a bill increase | AWS re:Post](https://repost.aws/knowledge-center/cloudwatch-logs-bill-increase)
 
 [Optimizing Amazon CloudWatch Costs in Under 5 Minutes (Step-by-Step Guide) - YouTube](https://www.youtube.com/watch?v=FuHJu58n0Zk&ab_channel=AWSDevelopers)
+
+[Reduce and prevent charges in Amazon CloudWatch | AWS re:Post](https://repost.aws/knowledge-center/cloudwatch-understand-and-reduce-charges?sc_channel=sm)
 
 #### Composite Alarms
 

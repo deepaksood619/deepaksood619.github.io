@@ -6,6 +6,8 @@ https://aws.amazon.com/blogs/aws/introducing-cloudfront-functions-run-your-code-
 
 https://www.toptal.com/aws/service-oriented-architecture-aws-lambda
 
+[Managing applications in the AWS Lambda console - AWS Lambda](https://docs.aws.amazon.com/lambda/latest/dg/applications-console.html)
+
 ## Slack notifications
 
 ```python

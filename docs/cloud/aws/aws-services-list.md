@@ -414,3 +414,4 @@ Total with Duplicates - 331 services
 3. [AWS re:Post Private](https://aws.amazon.com/repost-private/)
 4. [AWS Countdown](https://aws.amazon.com/premiumsupport/aws-countdown/)
 5. [AWS SimuLearn](https://aws.amazon.com/training/digital/aws-simulearn/)
+6. [Serverless Compute at the Heart of Your EDA • Julian Wood • GOTO 2024 - YouTube](https://www.youtube.com/watch?v=wYvQv_MTMNs&ab_channel=GOTOConferences)

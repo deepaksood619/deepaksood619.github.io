@@ -4,11 +4,9 @@ Message oriented middleware (MOM) refers to the software infrastructure supporti
 
 The basic idea of MOM is that communication takes place by adding messages to distributed queues, and by getting messages from those queues. Based on the model of Message Oriented Middleware, many protocols have been developed, e.g. DDS, STOMP, XMPP. The two most widely used proposals are: the Advanced Message Queuing Protocol (AMQP) and the Message Queuing Telemetry Transport (MQTT).
 
-See also:
-
-- AMQP
-- MQTT
-- ZeroMQ: Distributed Messaging
+- [AMQP](networking/protocols/amqp.md)
+- [MQTT](networking/mqtt/readme.md)
+- [ZeroMQ: Distributed Messaging](networking/protocols/zeromq-distributed-messaging.md)
 
 ## pika
 

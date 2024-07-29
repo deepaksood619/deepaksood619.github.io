@@ -240,6 +240,7 @@
 - [Masters' Union - YouTube](https://www.youtube.com/@MastersUnion)
 - [The Art of Business - YouTube](https://www.youtube.com/@theartofbiz)
 - [Aevy TV - YouTube](https://www.youtube.com/@aevytv)
+- [Y Combinator - YouTube](https://www.youtube.com/@ycombinator)
 
 ### People
 

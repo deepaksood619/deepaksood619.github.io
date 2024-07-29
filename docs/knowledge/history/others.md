@@ -28,3 +28,4 @@ Keeling's measurements showed the first significant evidence of rapidly increasi
 - [Who we are and how we got here](../../book-summaries/who-we-are-and-how-we-got-here)
 - [The tangled tree](../../book-summaries/the-tangled-tree)
 - [Power, Sex, Suicide](../../book-summaries/power-sex-suicide)
+- [Industrial and chemical disasters - ClearIAS](https://www.clearias.com/industrial-and-chemical-disasters/)

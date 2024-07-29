@@ -46,6 +46,20 @@ https://grow.google/grow-your-career
 7. Listening Wisely
 8. Having Confidence
 
+### 9 Types of leverage
+
+1. Skill (somewhat commotized)
+2. Management Ability
+3. Experience in a specific domain
+4. Relationships and distribution
+5. Cash
+6. Data
+7. Assets
+8. Technology (somewhat commotized)
+9. Brand
+
+[Guide To Work In A Company 2024 | Must Watch | Salaries, Equity, Raises, Negotiations - YouTube](https://www.youtube.com/watch?v=0kgKMdSzVbE&ab_channel=VarunMayya)
+
 ## References
 
 - https://medium.freecodecamp.org/writing-a-killer-software-engineering-resume-b11c91ef699d

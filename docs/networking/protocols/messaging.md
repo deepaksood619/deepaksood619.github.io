@@ -18,6 +18,6 @@ For Messaging consider it like email, not between people but between different a
 
 Essentially both AMQP (speaking for the 0.9.1 version) and MQTT implement a publish/subscribe messaging pattern. Both protocols rely on intermediate queuing/store-and-forward techniques to reduce or eliminate message loss in case a client loses the connection to the broker. The main conceptual difference is that in MQTT one client (identified by a 'unique' client id), has one TCP connection to the broker and only a single "queue". As a consequence, even if a client has multiple subscriptions all messages end up in the same queue. In contrast, with AMQP a queue is a resource on the broker and is decoupled from the client, multiple clients can consume the same queue e.g. for load balancing purposes. So a client can create many queues and decide if and when to consume messages. Moreover, a AMQP connection, which is just a TCP connection, is multiplexed via logical channels, enabling the development of highly performant consumers and publishers.
 
-## See also
+## Links
 
-- Message Oriented Architecture (MOM)
+- [Message Oriented Architecture (MOM)](computer-science/system-design/message-oriented-architecture-mom.md)

@@ -52,6 +52,6 @@ The sequence of stepsfollowed by thebulkAPI are as follows:
 
 ![image](../../media/Technologies-Elasticsearch-Internal-Working-image5.jpg)
 
-See Also
+## Links
 
-- Data Structures > Others > Inverted Index
+- [Inverted Index](databases/indexing/inverted-index.md)

@@ -4,7 +4,7 @@ Django uses Python's builtin logging module to perform system logging.
 
 A Python logging configuration consists of four parts:
 
-- Loggers
+### Loggers
 
 A logger is the entry point into the logging system. Each logger is a named bucket to which messages can be written for processing.
 
@@ -20,19 +20,19 @@ When a message is given to the logger, the log level of the message is compared 
 
 Once a logger has determined that a message needs to be processed, it is passed to aHandler.
 
-- Handlers
+### Handlers
 
 The handler is the engine that determines what happens to each message in a logger. It describes a particular logging behavior, such as writing a message to the screen, to a file, or to a network socket.
 
-- Filters
+### Filters
 
 A filter is used to provide additional control over which log records are passed from logger to handler.
 
-- Formatters
+### Formatters
 
 Ultimately, a log record needs to be rendered as text. Formatters describe the exact format of that text.
 
-"format": "[%(asctime)s] [%(levelname)s in %(module)s - %(funcName)s():%(lineno)s]: %(message)s",
+`"format": "[%(asctime)s] [%(levelname)s in %(module)s - %(funcName)s():%(lineno)s]: %(message)s"`
 
 ## Logging database queries in django
 
@@ -40,9 +40,7 @@ Ultimately, a log record needs to be rendered as text. Formatters describe the e
 import logging
 
 l = logging.getLogger('django.db.backends')
-
 l.setLevel(logging.DEBUG)
-
 l.addHandler(logging.StreamHandler())
 
 ## Setting Logging the right way in Python
@@ -50,15 +48,11 @@ l.addHandler(logging.StreamHandler())
 import logging
 
 handler = logging.StreamHandler()
-
 formatter = logging.Formatter('%(asctime)s - %(name)s - %(levelname)s - %(message)s')
-
 handler.setFormatter(formatter)
 
 log = logging.getLogger('kademlia')
-
 log.addHandler(handler)
-
 log.setLevel(logging.DEBUG)
 ```
 
@@ -66,82 +60,47 @@ log.setLevel(logging.DEBUG)
 
 ```python
 LOGGING = {
-
-'version': 1,
-
-'disable_existing_loggers': False,
-
-'filters': {
-
-'require_debug_false': {
-
-'()': 'django.utils.log.RequireDebugFalse'
-
-}
-
-},
-
-'handlers': {
-
-'mail_admins': {
-
-'level': 'ERROR',
-
-'filters': ['require_debug_false'],
-
-'class': 'django.utils.log.AdminEmailHandler',
-
-'include_html': True,
-
-},
-
-'console': {
-
-'class': 'logging.StreamHandler',
-
-},
-
-},
-
-'loggers': {
-
-'django.request': {
-
-'handlers': ['console', 'mail_admins'],
-
-'level': 'INFO',
-
-'propagate': False,
-
-},
-
-'django': {
-
-'handlers': ['console', 'mail_admins'],
-
-'level': 'INFO',
-
-},
-
-}
-
+	'version': 1,
+	'disable_existing_loggers': False,
+	'filters': {
+	'require_debug_false': {
+			'()': 'django.utils.log.RequireDebugFalse'
+		}
+	},
+	'handlers': {
+		'mail_admins': {
+			'level': 'ERROR',
+			'filters': ['require_debug_false'],
+			'class': 'django.utils.log.AdminEmailHandler',
+			'include_html': True,
+		},
+		'console': {
+			'class': 'logging.StreamHandler',
+		},
+	},
+	'loggers': {
+		'django.request': {
+			'handlers': ['console', 'mail_admins'],
+			'level': 'INFO',
+			'propagate': False,
+		},
+		'django': {
+			'handlers': ['console', 'mail_admins'],
+			'level': 'INFO',
+		},
+	}
 }
 
 ## Turning on db hits logging for django queries
-
 import logging
 
 l = logging.getLogger('django.db.backends')
-
 l.setLevel(logging.DEBUG)
-
 l.addHandler(logging.StreamHandler())
 ```
 
-## See Also > Python > Documentation > 16. Generic Operating System Services / Logging
+## Links
 
-## References
-
-https://docs.djangoproject.com/en/2.0/topics/logging
-
-https://djangodeconstructed.com/2018/12/18/django-and-python-logging-in-plain-english
+- [16-generic-operating-system-services-logging](python/documentation/16-generic-operating-system-services-logging.md)
+- https://docs.djangoproject.com/en/2.0/topics/logging
+- https://djangodeconstructed.com/2018/12/18/django-and-python-logging-in-plain-english

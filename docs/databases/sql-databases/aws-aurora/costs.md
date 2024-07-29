@@ -9,25 +9,7 @@
 7. Aurora Limitless
 8. Aurora Global Database
 
-### Instances
-
-- R6g instances are powered by Arm-based AWS Graviton2 processors.
-- [Amazon EC2 R7g instances](https://aws.amazon.com/ec2/instance-types/r7g/) are powered by Arm-based AWS Graviton3 processors.
-
-| Instance Type | Price / hour (linux) |
-| ------------- | -------------------- |
-| r6g.xlarge    | 0.2016               |
-| r7g.xlarge    | 0.2142               |
-
-[Amazon EC2 R7g Instances](https://aws.amazon.com/ec2/instance-types/r7g/)
-
-[Amazon EC2 R6g Instances](https://aws.amazon.com/ec2/instance-types/r6g/)
-
-#### Choosing Instance type
-
-Amazon RDS provides the flexibility to choose the instance type you need for your database workloads. Each instance type supports a certain number of CPUs, memory, EBS bandwidth, and network performance. The application owner should choose the instance type based on workload requirements. For example, for CPU-intensive workloads, an M*family instance is better suited, whereas for a memory-intensive workload, the R* family is better. As discussed in the previous section, you should only change instance types after carefully looking at your requirements. Because the majority of database workloads are memory intensive, you should evaluate using the latest offering in R*and X* family instances. For more information, see [Amazon RDS Instance Types](https://aws.amazon.com/rds/instance-types/).
-
-## Aurora vs RDS
+## Aurora vs RDS Costs
 
 ### Type
 
@@ -36,7 +18,8 @@ Amazon RDS provides the flexibility to choose the instance type you need for you
 - Peak IO rate - 300 per second
 - Duration of peak IO activity - 360 hours per month
 
-### Costs
+- General Purpose - db.t4g, db.m7g, m6g, m6i, m5
+- Memory Optimized - db.r7g
 
 [AWS Pricing Calculator - Comparision](https://calculator.aws/#/estimate?id=bfde117555e574ecfae0f16ea74a5ae4e6ef2723)
 
@@ -56,10 +39,26 @@ Amazon RDS provides the flexibility to choose the instance type you need for you
 
 ![Different MySQL Comparisons](../../../media/Screenshot%202024-04-15%20at%207.27.11%20PM.jpg)
 
-#### Instances Cost
+### Instances Cost
 
-- db.r6g.large (2,16) - $164.25 - [db.r6g.large pricing and specs - Vantage](https://instances.vantage.sh/aws/rds/db.r6g.large?region=us-east-1&os=PostgreSQL&cost_duration=monthly&reserved_term=Standard.partialUpfront)
-- r6g.large (2,16) - $73.584 - [r6g.large pricing and specs - Vantage](https://instances.vantage.sh/aws/ec2/r6g.large?region=us-east-1&os=linux&cost_duration=monthly&reserved_term=Standard.noUpfront)
+- db.t4g.large (2,8) - $121.91 - [db.t4g.large pricing and specs - Vantage](https://instances.vantage.sh/aws/rds/db.t4g.large?region=ap-south-1&os=MySQL&cost_duration=monthly&reserved_term=Standard.partialUpfront)
+- db.t4g.xlarge (4,16) - $243.82 - [db.t4g.xlarge pricing and specs - Vantage](https://instances.vantage.sh/aws/rds/db.t4g.xlarge?region=ap-south-1&os=MySQL&cost_duration=monthly&reserved_term=Standard.partialUpfront)
+- db.m6g.large (2,8) - $156.22 - [db.m6g.large pricing and specs - Vantage](https://instances.vantage.sh/aws/rds/db.m6g.large?region=ap-south-1&os=MySQL&cost_duration=monthly&reserved_term=Standard.partialUpfront)
+- db.m6g.xlarge (4,16) - $312.44 - [db.m6g.xlarge pricing and specs - Vantage](https://instances.vantage.sh/aws/rds/db.m6g.xlarge?region=ap-south-1&os=MySQL&cost_duration=monthly&reserved_term=Standard.partialUpfront)
+- db.r6g.large (2,16) - $176.66 - [db.r6g.large pricing and specs - Vantage](https://instances.vantage.sh/aws/rds/db.r6g.large?region=ap-south-1&os=MySQL&cost_duration=monthly&reserved_term=Standard.partialUpfront)
+- db.r6g.xlarge (4,32) - $352.59 - [db.r6g.xlarge pricing and specs - Vantage](https://instances.vantage.sh/aws/rds/db.r6g.xlarge?region=ap-south-1&os=MySQL&cost_duration=monthly&reserved_term=Standard.partialUpfront)
+- db.r7g.large (2,16) - $198.56 - [db.r7g.large pricing and specs - Vantage](https://instances.vantage.sh/aws/rds/db.r7g.large?region=ap-south-1&os=MySQL&cost_duration=monthly&reserved_term=Standard.partialUpfront)
+- db.r7g.xlarge (4,32) - $397.12 - [db.r7g.xlarge pricing and specs - Vantage](https://instances.vantage.sh/aws/rds/db.r7g.xlarge?region=ap-south-1&os=MySQL&cost_duration=monthly&reserved_term=Standard.partialUpfront)
+- r6g.large (2,16) - $47.45 - [r6g.large pricing and specs - Vantage](https://instances.vantage.sh/aws/ec2/r6g.large?region=ap-south-1&os=linux&cost_duration=monthly&reserved_term=Standard.noUpfront)
+- [Amazon EC2 R6g Instances](https://aws.amazon.com/ec2/instance-types/r6g/) are powered by Arm-based AWS Graviton2 processors.
+- [Amazon EC2 R7g instances](https://aws.amazon.com/ec2/instance-types/r7g/) are powered by Arm-based AWS Graviton3 processors.
+   	- Migrating to Graviton3-based instances provide up to a 30% performance improvement and up to a 27% price/performance improvement over Graviton2-based instances on RDS
+   	- [Amazon RDS now supports AWS Graviton3-based M7g and R7g database instances | AWS re:Post](https://repost.aws/articles/AR56l1F3_-TnWRh6EDV8tJvg/amazon-rds-now-supports-aws-graviton3-based-m7g-and-r7g-database-instances)
+   	- [Amazon RDS now supports M7g and R7g database instances](https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-rds-m7g-r7g-database-instances/)
+
+### Choosing Instance type
+
+Amazon RDS provides the flexibility to choose the instance type you need for your database workloads. Each instance type supports a certain number of CPUs, memory, EBS bandwidth, and network performance. The application owner should choose the instance type based on workload requirements. For example, for CPU-intensive workloads, an M *family instance is better suited, whereas for a memory-intensive workload, the R* family is better. As discussed in the previous section, you should only change instance types after carefully looking at your requirements. Because the majority of database workloads are memory intensive, you should evaluate using the latest offering in R *and X* family instances. For more information, see [Amazon RDS Instance Types](https://aws.amazon.com/rds/instance-types/).
 
 ## Aurora vs RDS MySQL
 
