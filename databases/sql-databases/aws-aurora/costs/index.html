@@ -18,8 +18,8 @@
 <meta name="theme-color" content="rgb(47, 133, 85)">
 
 <script src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5616865131274062" async crossorigin="anonymous"></script><link rel="stylesheet" href="/assets/css/styles.1aa998db.css">
-<script src="/assets/js/runtime~main.bf99874f.js" defer="defer"></script>
-<script src="/assets/js/main.26f1d3c4.js" defer="defer"></script>
+<script src="/assets/js/runtime~main.abdf57ea.js" defer="defer"></script>
+<script src="/assets/js/main.6c78ac06.js" defer="defer"></script>
 </head>
 <body class="navigation-with-keyboard">
 <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TN3KBF4" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
@@ -35,25 +35,28 @@
 <li>Aurora Limitless</li>
 <li>Aurora Global Database</li>
 </ol>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="instances">Instances<a href="#instances" class="hash-link" aria-label="Direct link to Instances" title="Direct link to Instances">​</a></h3>
-<ul>
-<li>R6g instances are powered by Arm-based AWS Graviton2 processors.</li>
-<li><a href="https://aws.amazon.com/ec2/instance-types/r7g/" target="_blank" rel="noopener noreferrer">Amazon EC2 R7g instances</a> are powered by Arm-based AWS Graviton3 processors.</li>
-</ul>
-<table><thead><tr><th>Instance Type</th><th>Price / hour (linux)</th></tr></thead><tbody><tr><td>r6g.xlarge</td><td>0.2016</td></tr><tr><td>r7g.xlarge</td><td>0.2142</td></tr></tbody></table>
-<p><a href="https://aws.amazon.com/ec2/instance-types/r7g/" target="_blank" rel="noopener noreferrer">Amazon EC2 R7g Instances</a></p>
-<p><a href="https://aws.amazon.com/ec2/instance-types/r6g/" target="_blank" rel="noopener noreferrer">Amazon EC2 R6g Instances</a></p>
-<h4 class="anchor anchorWithStickyNavbar_LWe7" id="choosing-instance-type">Choosing Instance type<a href="#choosing-instance-type" class="hash-link" aria-label="Direct link to Choosing Instance type" title="Direct link to Choosing Instance type">​</a></h4>
-<p>Amazon RDS provides the flexibility to choose the instance type you need for your database workloads. Each instance type supports a certain number of CPUs, memory, EBS bandwidth, and network performance. The application owner should choose the instance type based on workload requirements. For example, for CPU-intensive workloads, an M<em>family instance is better suited, whereas for a memory-intensive workload, the R</em> family is better. As discussed in the previous section, you should only change instance types after carefully looking at your requirements. Because the majority of database workloads are memory intensive, you should evaluate using the latest offering in R<em>and X</em> family instances. For more information, see <a href="https://aws.amazon.com/rds/instance-types/" target="_blank" rel="noopener noreferrer">Amazon RDS Instance Types</a>.</p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="aurora-vs-rds">Aurora vs RDS<a href="#aurora-vs-rds" class="hash-link" aria-label="Direct link to Aurora vs RDS" title="Direct link to Aurora vs RDS">​</a></h2>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="aurora-vs-rds-costs">Aurora vs RDS Costs<a href="#aurora-vs-rds-costs" class="hash-link" aria-label="Direct link to Aurora vs RDS Costs" title="Direct link to Aurora vs RDS Costs">​</a></h2>
 <h3 class="anchor anchorWithStickyNavbar_LWe7" id="type">Type<a href="#type" class="hash-link" aria-label="Direct link to Type" title="Direct link to Type">​</a></h3>
 <ul>
-<li>Storage - 2TB</li>
-<li>Baseline IO - 30 per second</li>
-<li>Peak IO rate - 300 per second</li>
-<li>Duration of peak IO activity - 360 hours per month</li>
+<li>
+<p>Storage - 2TB</p>
+</li>
+<li>
+<p>Baseline IO - 30 per second</p>
+</li>
+<li>
+<p>Peak IO rate - 300 per second</p>
+</li>
+<li>
+<p>Duration of peak IO activity - 360 hours per month</p>
+</li>
+<li>
+<p>General Purpose - db.t4g, db.m7g, m6g, m6i, m5</p>
+</li>
+<li>
+<p>Memory Optimized - db.r7g</p>
+</li>
 </ul>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="costs-1">Costs<a href="#costs-1" class="hash-link" aria-label="Direct link to Costs" title="Direct link to Costs">​</a></h3>
 <p><a href="https://calculator.aws/#/estimate?id=bfde117555e574ecfae0f16ea74a5ae4e6ef2723" target="_blank" rel="noopener noreferrer">AWS Pricing Calculator - Comparision</a></p>
 <ul>
 <li><strong>Aurora MySQL</strong>
@@ -86,11 +89,28 @@
 </li>
 </ul>
 <p><img loading="lazy" alt="Different MySQL Comparisons" src="/assets/images/Screenshot 2024-04-15 at 7.27.11 PM-7179c0de7675fcb4578b038201456786.jpg" width="2362" height="1110" class="img_ev3q"></p>
-<h4 class="anchor anchorWithStickyNavbar_LWe7" id="instances-cost">Instances Cost<a href="#instances-cost" class="hash-link" aria-label="Direct link to Instances Cost" title="Direct link to Instances Cost">​</a></h4>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="instances-cost">Instances Cost<a href="#instances-cost" class="hash-link" aria-label="Direct link to Instances Cost" title="Direct link to Instances Cost">​</a></h3>
 <ul>
-<li>db.r6g.large (2,16) - $164.25 - <a href="https://instances.vantage.sh/aws/rds/db.r6g.large?region=us-east-1&amp;os=PostgreSQL&amp;cost_duration=monthly&amp;reserved_term=Standard.partialUpfront" target="_blank" rel="noopener noreferrer">db.r6g.large pricing and specs - Vantage</a></li>
-<li>r6g.large (2,16) - $73.584 - <a href="https://instances.vantage.sh/aws/ec2/r6g.large?region=us-east-1&amp;os=linux&amp;cost_duration=monthly&amp;reserved_term=Standard.noUpfront" target="_blank" rel="noopener noreferrer">r6g.large pricing and specs - Vantage</a></li>
+<li>db.t4g.large (2,8) - $121.91 - <a href="https://instances.vantage.sh/aws/rds/db.t4g.large?region=ap-south-1&amp;os=MySQL&amp;cost_duration=monthly&amp;reserved_term=Standard.partialUpfront" target="_blank" rel="noopener noreferrer">db.t4g.large pricing and specs - Vantage</a></li>
+<li>db.t4g.xlarge (4,16) - $243.82 - <a href="https://instances.vantage.sh/aws/rds/db.t4g.xlarge?region=ap-south-1&amp;os=MySQL&amp;cost_duration=monthly&amp;reserved_term=Standard.partialUpfront" target="_blank" rel="noopener noreferrer">db.t4g.xlarge pricing and specs - Vantage</a></li>
+<li>db.m6g.large (2,8) - $156.22 - <a href="https://instances.vantage.sh/aws/rds/db.m6g.large?region=ap-south-1&amp;os=MySQL&amp;cost_duration=monthly&amp;reserved_term=Standard.partialUpfront" target="_blank" rel="noopener noreferrer">db.m6g.large pricing and specs - Vantage</a></li>
+<li>db.m6g.xlarge (4,16) - $312.44 - <a href="https://instances.vantage.sh/aws/rds/db.m6g.xlarge?region=ap-south-1&amp;os=MySQL&amp;cost_duration=monthly&amp;reserved_term=Standard.partialUpfront" target="_blank" rel="noopener noreferrer">db.m6g.xlarge pricing and specs - Vantage</a></li>
+<li>db.r6g.large (2,16) - $176.66 - <a href="https://instances.vantage.sh/aws/rds/db.r6g.large?region=ap-south-1&amp;os=MySQL&amp;cost_duration=monthly&amp;reserved_term=Standard.partialUpfront" target="_blank" rel="noopener noreferrer">db.r6g.large pricing and specs - Vantage</a></li>
+<li>db.r6g.xlarge (4,32) - $352.59 - <a href="https://instances.vantage.sh/aws/rds/db.r6g.xlarge?region=ap-south-1&amp;os=MySQL&amp;cost_duration=monthly&amp;reserved_term=Standard.partialUpfront" target="_blank" rel="noopener noreferrer">db.r6g.xlarge pricing and specs - Vantage</a></li>
+<li>db.r7g.large (2,16) - $198.56 - <a href="https://instances.vantage.sh/aws/rds/db.r7g.large?region=ap-south-1&amp;os=MySQL&amp;cost_duration=monthly&amp;reserved_term=Standard.partialUpfront" target="_blank" rel="noopener noreferrer">db.r7g.large pricing and specs - Vantage</a></li>
+<li>db.r7g.xlarge (4,32) - $397.12 - <a href="https://instances.vantage.sh/aws/rds/db.r7g.xlarge?region=ap-south-1&amp;os=MySQL&amp;cost_duration=monthly&amp;reserved_term=Standard.partialUpfront" target="_blank" rel="noopener noreferrer">db.r7g.xlarge pricing and specs - Vantage</a></li>
+<li>r6g.large (2,16) - $47.45 - <a href="https://instances.vantage.sh/aws/ec2/r6g.large?region=ap-south-1&amp;os=linux&amp;cost_duration=monthly&amp;reserved_term=Standard.noUpfront" target="_blank" rel="noopener noreferrer">r6g.large pricing and specs - Vantage</a></li>
+<li><a href="https://aws.amazon.com/ec2/instance-types/r6g/" target="_blank" rel="noopener noreferrer">Amazon EC2 R6g Instances</a> are powered by Arm-based AWS Graviton2 processors.</li>
+<li><a href="https://aws.amazon.com/ec2/instance-types/r7g/" target="_blank" rel="noopener noreferrer">Amazon EC2 R7g instances</a> are powered by Arm-based AWS Graviton3 processors.<!-- -->
+<ul>
+<li>Migrating to Graviton3-based instances provide up to a 30% performance improvement and up to a 27% price/performance improvement over Graviton2-based instances on RDS</li>
+<li><a href="https://repost.aws/articles/AR56l1F3_-TnWRh6EDV8tJvg/amazon-rds-now-supports-aws-graviton3-based-m7g-and-r7g-database-instances" target="_blank" rel="noopener noreferrer">Amazon RDS now supports AWS Graviton3-based M7g and R7g database instances | AWS re<!-- -->:Post</a></li>
+<li><a href="https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-rds-m7g-r7g-database-instances/" target="_blank" rel="noopener noreferrer">Amazon RDS now supports M7g and R7g database instances</a></li>
 </ul>
+</li>
+</ul>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="choosing-instance-type">Choosing Instance type<a href="#choosing-instance-type" class="hash-link" aria-label="Direct link to Choosing Instance type" title="Direct link to Choosing Instance type">​</a></h3>
+<p>Amazon RDS provides the flexibility to choose the instance type you need for your database workloads. Each instance type supports a certain number of CPUs, memory, EBS bandwidth, and network performance. The application owner should choose the instance type based on workload requirements. For example, for CPU-intensive workloads, an M <em>family instance is better suited, whereas for a memory-intensive workload, the R</em> family is better. As discussed in the previous section, you should only change instance types after carefully looking at your requirements. Because the majority of database workloads are memory intensive, you should evaluate using the latest offering in R <em>and X</em> family instances. For more information, see <a href="https://aws.amazon.com/rds/instance-types/" target="_blank" rel="noopener noreferrer">Amazon RDS Instance Types</a>.</p>
 <h2 class="anchor anchorWithStickyNavbar_LWe7" id="aurora-vs-rds-mysql">Aurora vs RDS MySQL<a href="#aurora-vs-rds-mysql" class="hash-link" aria-label="Direct link to Aurora vs RDS MySQL" title="Direct link to Aurora vs RDS MySQL">​</a></h2>
 <ul>
 <li><a href="https://www.percona.com/blog/2018/07/17/when-should-i-use-amazon-aurora-and-when-should-i-use-rds-mysql" target="_blank" rel="noopener noreferrer">https://www.percona.com/blog/2018/07/17/when-should-i-use-amazon-aurora-and-when-should-i-use-rds-mysql</a></li>
@@ -113,7 +133,7 @@
 <h3 class="anchor anchorWithStickyNavbar_LWe7" id="rds-to-aurora-migration">RDS to Aurora Migration<a href="#rds-to-aurora-migration" class="hash-link" aria-label="Direct link to RDS to Aurora Migration" title="Direct link to RDS to Aurora Migration">​</a></h3>
 <p>Feature that allows you to migrate from an Amazon RDS DB Instance for MySQL to <a href="https://aws.amazon.com/rds/aurora/" target="_blank" rel="noopener noreferrer">Amazon Aurora</a> by creating an Aurora Read Replica. The migration process begins by creating a DB snapshot of the existing DB Instance and then using it as the basis for a fresh Aurora Read Replica. After the replica has been set up, replication is used to bring it up to date with respect to the source. Once the replication lag drops to 0, the replication is complete. At this point, you can make the Aurora Read Replica into a standalone Aurora DB cluster and point your client applications at it.</p>
 <p><a href="https://aws.amazon.com/blogs/aws/new-create-an-amazon-aurora-read-replica-from-a-mysql-db-instance/" target="_blank" rel="noopener noreferrer">New – Create an Amazon Aurora Read Replica from an RDS MySQL DB Instance | AWS News Blog</a></p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="costs-2">Costs<a href="#costs-2" class="hash-link" aria-label="Direct link to Costs" title="Direct link to Costs">​</a></h2>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="costs-1">Costs<a href="#costs-1" class="hash-link" aria-label="Direct link to Costs" title="Direct link to Costs">​</a></h2>
 <p>When making read replica decisions, consider the following criteria:</p>
 <ul>
 <li>If primary instance utilization for I/O and CPU usage is under 30% constantly, don’t spin up a read replica.</li>
@@ -132,6 +152,6 @@
 <li>Reduce or turn off general log and slow query log storage</li>
 <li>Manage or reduce InnoDB system tablespace size</li>
 </ul>
-<p><a href="https://repost.aws/knowledge-center/rds-mysql-storage-optimization" target="_blank" rel="noopener noreferrer">Optimize disk storage when Amazon RDS for MySQL uses more storage than expected | AWS re<!-- -->:Post</a></p></div><footer class="theme-doc-footer docusaurus-mt-lg"><div class="theme-doc-footer-edit-meta-row row"><div class="col"><a href="https://github.com/deepaksood619/deepaksood619.github.io/tree/master/docs/databases/sql-databases/aws-aurora/costs.md" target="_blank" rel="noopener noreferrer" class="theme-edit-this-page"><svg fill="currentColor" height="20" width="20" viewBox="0 0 40 40" class="iconEdit_Z9Sw" aria-hidden="true"><g><path d="m34.5 11.7l-3 3.1-6.3-6.3 3.1-3q0.5-0.5 1.2-0.5t1.1 0.5l3.9 3.9q0.5 0.4 0.5 1.1t-0.5 1.2z m-29.5 17.1l18.4-18.5 6.3 6.3-18.4 18.4h-6.3v-6.2z"></path></g></svg>Edit this page</a></div><div class="col lastUpdated_vwxv"><span class="theme-last-updated">Last updated<!-- --> on <b><time datetime="2024-05-12T10:03:29.000Z">May 12, 2024</time></b></span></div></div></footer></article><nav class="pagination-nav docusaurus-mt-lg" aria-label="Docs pages"><a class="pagination-nav__link pagination-nav__link--prev" href="/databases/sql-databases/aws-aurora/configurations-optimizations-best-practices"><div class="pagination-nav__sublabel">Previous</div><div class="pagination-nav__label">Configurations / Optimizations / Best Practices</div></a><a class="pagination-nav__link pagination-nav__link--next" href="/databases/sql-databases/aws-aurora/high-availability-ha-others"><div class="pagination-nav__sublabel">Next</div><div class="pagination-nav__label">High Availability (HA) Others</div></a></nav></div></div><div class="col col--3"><div class="tableOfContents_bqdL thin-scrollbar theme-doc-toc-desktop"><ul class="table-of-contents table-of-contents__left-border"><li><a href="#instances" class="table-of-contents__link toc-highlight">Instances</a></li><li><a href="#aurora-vs-rds" class="table-of-contents__link toc-highlight">Aurora vs RDS</a><ul><li><a href="#type" class="table-of-contents__link toc-highlight">Type</a></li><li><a href="#costs-1" class="table-of-contents__link toc-highlight">Costs</a></li></ul></li><li><a href="#aurora-vs-rds-mysql" class="table-of-contents__link toc-highlight">Aurora vs RDS MySQL</a></li><li><a href="#migration" class="table-of-contents__link toc-highlight">Migration</a><ul><li><a href="#how-can-we-move-our-cluster-from-aurora-to-rds-in-efficientand-fast-way" class="table-of-contents__link toc-highlight">How can we move our cluster from aurora to RDS in efficient and fast way?</a></li><li><a href="#rds-to-aurora-migration" class="table-of-contents__link toc-highlight">RDS to Aurora Migration</a></li></ul></li><li><a href="#costs-2" class="table-of-contents__link toc-highlight">Costs</a><ul><li><a href="#memory" class="table-of-contents__link toc-highlight">Memory</a></li><li><a href="#storage-optimization" class="table-of-contents__link toc-highlight">Storage Optimization</a></li></ul></li></ul></div></div></div></div></main></div></div></div><footer class="footer footer--dark"><div class="container container-fluid"><div class="footer__bottom text--center"><div class="footer__copyright">Copyright © 2024 Deep Notes, Built with ❤️</div></div></div></footer></div>
+<p><a href="https://repost.aws/knowledge-center/rds-mysql-storage-optimization" target="_blank" rel="noopener noreferrer">Optimize disk storage when Amazon RDS for MySQL uses more storage than expected | AWS re<!-- -->:Post</a></p></div><footer class="theme-doc-footer docusaurus-mt-lg"><div class="theme-doc-footer-edit-meta-row row"><div class="col"><a href="https://github.com/deepaksood619/deepaksood619.github.io/tree/master/docs/databases/sql-databases/aws-aurora/costs.md" target="_blank" rel="noopener noreferrer" class="theme-edit-this-page"><svg fill="currentColor" height="20" width="20" viewBox="0 0 40 40" class="iconEdit_Z9Sw" aria-hidden="true"><g><path d="m34.5 11.7l-3 3.1-6.3-6.3 3.1-3q0.5-0.5 1.2-0.5t1.1 0.5l3.9 3.9q0.5 0.4 0.5 1.1t-0.5 1.2z m-29.5 17.1l18.4-18.5 6.3 6.3-18.4 18.4h-6.3v-6.2z"></path></g></svg>Edit this page</a></div><div class="col lastUpdated_vwxv"><span class="theme-last-updated">Last updated<!-- --> on <b><time datetime="2024-07-29T20:33:42.000Z">Jul 29, 2024</time></b></span></div></div></footer></article><nav class="pagination-nav docusaurus-mt-lg" aria-label="Docs pages"><a class="pagination-nav__link pagination-nav__link--prev" href="/databases/sql-databases/aws-aurora/configurations-optimizations-best-practices"><div class="pagination-nav__sublabel">Previous</div><div class="pagination-nav__label">Configurations / Optimizations / Best Practices</div></a><a class="pagination-nav__link pagination-nav__link--next" href="/databases/sql-databases/aws-aurora/high-availability-ha-others"><div class="pagination-nav__sublabel">Next</div><div class="pagination-nav__label">High Availability (HA) Others</div></a></nav></div></div><div class="col col--3"><div class="tableOfContents_bqdL thin-scrollbar theme-doc-toc-desktop"><ul class="table-of-contents table-of-contents__left-border"><li><a href="#aurora-vs-rds-costs" class="table-of-contents__link toc-highlight">Aurora vs RDS Costs</a><ul><li><a href="#type" class="table-of-contents__link toc-highlight">Type</a></li><li><a href="#instances-cost" class="table-of-contents__link toc-highlight">Instances Cost</a></li><li><a href="#choosing-instance-type" class="table-of-contents__link toc-highlight">Choosing Instance type</a></li></ul></li><li><a href="#aurora-vs-rds-mysql" class="table-of-contents__link toc-highlight">Aurora vs RDS MySQL</a></li><li><a href="#migration" class="table-of-contents__link toc-highlight">Migration</a><ul><li><a href="#how-can-we-move-our-cluster-from-aurora-to-rds-in-efficientand-fast-way" class="table-of-contents__link toc-highlight">How can we move our cluster from aurora to RDS in efficient and fast way?</a></li><li><a href="#rds-to-aurora-migration" class="table-of-contents__link toc-highlight">RDS to Aurora Migration</a></li></ul></li><li><a href="#costs-1" class="table-of-contents__link toc-highlight">Costs</a><ul><li><a href="#memory" class="table-of-contents__link toc-highlight">Memory</a></li><li><a href="#storage-optimization" class="table-of-contents__link toc-highlight">Storage Optimization</a></li></ul></li></ul></div></div></div></div></main></div></div></div><footer class="footer footer--dark"><div class="container container-fluid"><div class="footer__bottom text--center"><div class="footer__copyright">Copyright © 2024 Deep Notes, Built with ❤️</div></div></div></footer></div>
 </body>
 </html>
