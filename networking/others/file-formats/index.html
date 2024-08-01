@@ -18,8 +18,8 @@
 <meta name="theme-color" content="rgb(47, 133, 85)">
 
 <script src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5616865131274062" async crossorigin="anonymous"></script><link rel="stylesheet" href="/assets/css/styles.1aa998db.css">
-<script src="/assets/js/runtime~main.abdf57ea.js" defer="defer"></script>
-<script src="/assets/js/main.6c78ac06.js" defer="defer"></script>
+<script src="/assets/js/runtime~main.3bc79481.js" defer="defer"></script>
+<script src="/assets/js/main.ab6ee9d8.js" defer="defer"></script>
 </head>
 <body class="navigation-with-keyboard">
 <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TN3KBF4" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
@@ -55,7 +55,7 @@
 </ul>
 <p><a href="https://acadgild.com/blog/apache-hive-file-formats" target="_blank" rel="noopener noreferrer">https://acadgild.com/blog/apache-hive-file-formats</a></p>
 <h2 class="anchor anchorWithStickyNavbar_LWe7" id="amazon-ion">Amazon Ion<a href="#amazon-ion" class="hash-link" aria-label="Direct link to Amazon Ion" title="Direct link to Amazon Ion">​</a></h2>
-<p>Amazon Ionis a <a href="http://amzn.github.io/ion-docs/guides/why.html#rich-type-system" target="_blank" rel="noopener noreferrer">richly-typed</a>, <a href="http://amzn.github.io/ion-docs/guides/why.html#self-describing" target="_blank" rel="noopener noreferrer">self-describing</a>, hierarchical data serialization format offering <a href="http://amzn.github.io/ion-docs/guides/why.html#dual-format-interoperability" target="_blank" rel="noopener noreferrer">interchangeable binary and text</a> representations. The <a href="http://amzn.github.io/ion-docs/docs/spec.html" target="_blank" rel="noopener noreferrer">text format</a>(a superset of <a href="http://json.org/" target="_blank" rel="noopener noreferrer">JSON</a>) is easy to read and author, supporting rapid prototyping. The <a href="http://amzn.github.io/ion-docs/docs/binary.html" target="_blank" rel="noopener noreferrer">binary representation</a> is <a href="http://amzn.github.io/ion-docs/guides/why.html#read-optimized-binary-format" target="_blank" rel="noopener noreferrer">efficient to store, transmit, and skip-scan parse</a>. The rich type system provides unambiguous semantics for long-term preservation of data which can survive multiple generations of software evolution.</p>
+<p>Amazon Ion is a <a href="http://amzn.github.io/ion-docs/guides/why.html#rich-type-system" target="_blank" rel="noopener noreferrer">richly-typed</a>, <a href="http://amzn.github.io/ion-docs/guides/why.html#self-describing" target="_blank" rel="noopener noreferrer">self-describing</a>, hierarchical data serialization format offering <a href="http://amzn.github.io/ion-docs/guides/why.html#dual-format-interoperability" target="_blank" rel="noopener noreferrer">interchangeable binary and text</a> representations. The <a href="http://amzn.github.io/ion-docs/docs/spec.html" target="_blank" rel="noopener noreferrer">text format</a>(a superset of <a href="http://json.org/" target="_blank" rel="noopener noreferrer">JSON</a>) is easy to read and author, supporting rapid prototyping. The <a href="http://amzn.github.io/ion-docs/docs/binary.html" target="_blank" rel="noopener noreferrer">binary representation</a> is <a href="http://amzn.github.io/ion-docs/guides/why.html#read-optimized-binary-format" target="_blank" rel="noopener noreferrer">efficient to store, transmit, and skip-scan parse</a>. The rich type system provides unambiguous semantics for long-term preservation of data which can survive multiple generations of software evolution.</p>
 <p>Ion was built to address rapid development, decoupling, and efficiency challenges faced every day while engineering large-scale, service-oriented architectures. It has been addressing these challenges within Amazon for nearly a decade, and we believe others will benefit as well.</p>
 <p>The Ion text format is a superset of JSON; thus, any valid JSON document is also a valid Ion document.</p>
 <p><a href="http://amzn.github.io/ion-docs" target="_blank" rel="noopener noreferrer">http://amzn.github.io/ion-docs</a></p>
@@ -281,28 +281,48 @@
 <p><img loading="lazy" alt="image" src="/assets/images/File-Formats-image10-50bc748b29733326ee5e9e675639df9d.jpg" width="1024" height="821" class="img_ev3q"></p>
 <p><a href="https://www.slideshare.net/oom65/file-format-benchmarks-avro-json-orc-parquet" target="_blank" rel="noopener noreferrer">https://www.slideshare.net/oom65/file-format-benchmarks-avro-json-orc-parquet</a></p>
 <h2 class="anchor anchorWithStickyNavbar_LWe7" id="compression-zlib">Compression (zlib)<a href="#compression-zlib" class="hash-link" aria-label="Direct link to Compression (zlib)" title="Direct link to Compression (zlib)">​</a></h2>
-<p>In 1 mb of memory</p>
-<p>raw 7304 (19 kv pair)</p>
-<p>snappy 3656 (40 kv pair)</p>
-<p>zlib 2580 (62 kv pair)
-number of messages in json - 52 messages</p>
-<p>Raw - 18733 B = 18.7 KB</p>
-<p>zlib - 3846 B - 3.8 KB</p>
-<p>50 messages - 18 KB</p>
-<p>150 messages - 54 KB</p>
-<p>Zlib compression - 150 messages - 11.4 KB</p>
-<p>100000 * 150 = 15000000 = 15 millions / day</p>
-<p>100000 * 54 = 5400000 KB / day = 5.4 GB / day = 162 GB / month</p>
-<p>100000 <em>11.4 = 1140000 KB / day = 1.14 GB / day = 34.2 GB / month
-1356011</em> 4 = 5424044 <em>10 = 54240440 = 54240440 = 54 GB / month
-Daily hits: 50000</em>52 = 2600000 messages / day = 2.6 Million msgs/day</p>
-<p>50000 * 3.8 = 190000 KB = 190 MB / day</p>
-<p>190 * 30 = 5,700 MB / month = 5.7 GB / month</p>
-<p>5.7 <em>6 = 34.2
-50000</em> 18.7 = 935000 = 935 MB /day</p>
-<p>935 <em>30 = 28,050 / month
-2600000</em> 3.8 = 9880000 KB = 9.9 GB / day</p>
-<p>9.9 * 30 = 297 GB / month</p>
+<ul>
+<li>In 1 mb of memory<!-- -->
+<ul>
+<li>raw 7304 (19 kv pair)</li>
+<li>snappy 3656 (40 kv pair)</li>
+<li>zlib 2580 (62 kv pair)</li>
+</ul>
+</li>
+<li>number of messages in json - 52 messages<!-- -->
+<ul>
+<li>Raw - 18733 B = 18.7 KB</li>
+<li>zlib - 3846 B - 3.8 KB</li>
+</ul>
+</li>
+<li>50 messages - 18 KB</li>
+<li>150 messages - 54 KB<!-- -->
+<ul>
+<li>Zlib compression - 150 messages - 11.4 KB</li>
+<li>100000 * 150 = 15000000 = 15 millions / day</li>
+<li>100000 * 54 = 5400000 KB / day = 5.4 GB / day = 162 GB / month</li>
+<li>100000 * 11.4 = 1140000 KB / day = 1.14 GB / day = 34.2 GB / month</li>
+<li>1356011<em>4 = 5424044</em> 10 = 54240440 = 54240440 = 54 GB / month</li>
+</ul>
+</li>
+<li>Daily hits: 50000 * 52 = 2600000 messages / day = 2.6 Million msgs/day</li>
+<li>50000 * 3.8 = 190000 KB = 190 MB / day<!-- -->
+<ul>
+<li>190 * 30 = 5,700 MB / month = 5.7 GB / month</li>
+<li>5.7 * 6 = 34.2</li>
+</ul>
+</li>
+<li>50000* 18.7 = 935000 = 935 MB /day<!-- -->
+<ul>
+<li>935 * 30 = 28,050 / month</li>
+</ul>
+</li>
+<li>2600000* 3.8 = 9880000 KB = 9.9 GB / day<!-- -->
+<ul>
+<li>9.9 * 30 = 297 GB / month</li>
+</ul>
+</li>
+</ul>
 <h2 class="anchor anchorWithStickyNavbar_LWe7" id="things-to-consider">Things to consider<a href="#things-to-consider" class="hash-link" aria-label="Direct link to Things to consider" title="Direct link to Things to consider">​</a></h2>
 <ul>
 <li><strong>The structure of your data:</strong> Some formats accept nested data such as JSON, Avro or Parquet and others do not. Even, the ones that do, may not be highly optimized for it. Avro is the most efficient format for nested data, I recommend not to use Parquet nested types because they are very inefficient. Process nested JSON is also very CPU intensive. In general, it is recommended to flat the data when ingesting it.</li>
@@ -333,6 +353,10 @@ Daily hits: 50000</em>52 = 2600000 messages / day = 2.6 Million msgs/day</p>
 <p><a href="https://www.hdfgroup.org" target="_blank" rel="noopener noreferrer">https://www.hdfgroup.org</a></p>
 <p><a href="https://www.geeksforgeeks.org/hdf5-files-in-python" target="_blank" rel="noopener noreferrer">https://www.geeksforgeeks.org/hdf5-files-in-python</a></p>
 <p><a href="https://realpython.com/storing-images-in-python/" target="_blank" rel="noopener noreferrer"><strong>https://realpython.com/storing-images-in-python/</strong></a></p>
-<p><a href="https://github.com/realpython/materials/blob/storing-images/storing-images/storing_images.ipynb" target="_blank" rel="noopener noreferrer"><strong>https://github.com/realpython/materials/blob/storing-images/storing-images/storing_images.ipynb</strong></a></p></div><footer class="theme-doc-footer docusaurus-mt-lg"><div class="theme-doc-footer-edit-meta-row row"><div class="col"><a href="https://github.com/deepaksood619/deepaksood619.github.io/tree/master/docs/networking/others/file-formats.md" target="_blank" rel="noopener noreferrer" class="theme-edit-this-page"><svg fill="currentColor" height="20" width="20" viewBox="0 0 40 40" class="iconEdit_Z9Sw" aria-hidden="true"><g><path d="m34.5 11.7l-3 3.1-6.3-6.3 3.1-3q0.5-0.5 1.2-0.5t1.1 0.5l3.9 3.9q0.5 0.4 0.5 1.1t-0.5 1.2z m-29.5 17.1l18.4-18.5 6.3 6.3-18.4 18.4h-6.3v-6.2z"></path></g></svg>Edit this page</a></div><div class="col lastUpdated_vwxv"><span class="theme-last-updated">Last updated<!-- --> on <b><time datetime="2024-02-05T13:06:14.000Z">Feb 5, 2024</time></b></span></div></div></footer></article><nav class="pagination-nav docusaurus-mt-lg" aria-label="Docs pages"><a class="pagination-nav__link pagination-nav__link--prev" href="/networking/others/falcor"><div class="pagination-nav__sublabel">Previous</div><div class="pagination-nav__label">Falcor</div></a><a class="pagination-nav__link pagination-nav__link--next" href="/networking/others/grpc/"><div class="pagination-nav__sublabel">Next</div><div class="pagination-nav__label">gRPC</div></a></nav></div></div><div class="col col--3"><div class="tableOfContents_bqdL thin-scrollbar theme-doc-toc-desktop"><ul class="table-of-contents table-of-contents__left-border"><li><a href="#sequencefile" class="table-of-contents__link toc-highlight">SequenceFile</a></li><li><a href="#rcfile" class="table-of-contents__link toc-highlight">RCFile</a></li><li><a href="#orcfile" class="table-of-contents__link toc-highlight">ORCFile</a></li><li><a href="#choosing-file-formats" class="table-of-contents__link toc-highlight">Choosing File Formats</a></li><li><a href="#amazon-ion" class="table-of-contents__link toc-highlight">Amazon Ion</a></li><li><a href="#file-format-benchmarks---avro-json-orc-parquet" class="table-of-contents__link toc-highlight">File Format Benchmarks - Avro, JSON, ORC, Parquet</a></li><li><a href="#datasets" class="table-of-contents__link toc-highlight">DataSets</a></li><li><a href="#compression" class="table-of-contents__link toc-highlight">Compression</a></li><li><a href="#taxi-size-analysis" class="table-of-contents__link toc-highlight">Taxi size analysis</a></li><li><a href="#taxi-size-analysis-1" class="table-of-contents__link toc-highlight">Taxi size analysis</a></li><li><a href="#github-size-analysis" class="table-of-contents__link toc-highlight">Github Size Analysis</a></li><li><a href="#use-case---full-table-scans" class="table-of-contents__link toc-highlight">Use Case - Full Table Scans</a></li><li><a href="#taxi-read-performance-analysis" class="table-of-contents__link toc-highlight">Taxi read performance analysis</a></li><li><a href="#sales-read-performance-analysis" class="table-of-contents__link toc-highlight">Sales read performance analysis</a></li><li><a href="#github-read-performance-analysis" class="table-of-contents__link toc-highlight">Github read performance analysis</a></li><li><a href="#projection--predicate-pushdown" class="table-of-contents__link toc-highlight">Projection &amp; Predicate Pushdown</a></li><li><a href="#metadata-access" class="table-of-contents__link toc-highlight">Metadata Access</a></li><li><a href="#recommendations" class="table-of-contents__link toc-highlight">Recommendations</a></li><li><a href="#key-conclusions---httpsengubercomtrip-data-squeeze-json-encoding-compression" class="table-of-contents__link toc-highlight">Key conclusions - https://eng.uber.com/trip-data-squeeze-json-encoding-compression</a></li><li><a href="#compression-zlib" class="table-of-contents__link toc-highlight">Compression (zlib)</a></li><li><a href="#things-to-consider" class="table-of-contents__link toc-highlight">Things to consider</a></li><li><a href="#h5-file--h5py" class="table-of-contents__link toc-highlight">h5 File / h5py</a></li></ul></div></div></div></div></main></div></div></div><footer class="footer footer--dark"><div class="container container-fluid"><div class="footer__bottom text--center"><div class="footer__copyright">Copyright © 2024 Deep Notes, Built with ❤️</div></div></div></footer></div>
+<p><a href="https://github.com/realpython/materials/blob/storing-images/storing-images/storing_images.ipynb" target="_blank" rel="noopener noreferrer"><strong>https://github.com/realpython/materials/blob/storing-images/storing-images/storing_images.ipynb</strong></a></p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="har">HAR<a href="#har" class="hash-link" aria-label="Direct link to HAR" title="Direct link to HAR">​</a></h2>
+<p>The <strong>HTTP Archive</strong> format, or <strong>HAR</strong>, is a JSON-formatted archive file format for logging of a web browser&#x27;s interaction with a site. The common extension for these files is <strong>.har</strong>.</p>
+<p>The specification for the HTTP Archive (HAR) format defines an archival format for HTTP transactions that can be used by a web browser to export detailed performance data about web pages it loads. The specification for this format is produced by the Web Performance Working Group of the World Wide Web Consortium (W3C). This document was never published by the Web Performance Working Group and has been abandoned.</p>
+<p><a href="https://en.wikipedia.org/wiki/HAR_(file_format)" target="_blank" rel="noopener noreferrer">HAR (file format) - Wikipedia</a></p></div><footer class="theme-doc-footer docusaurus-mt-lg"><div class="theme-doc-footer-edit-meta-row row"><div class="col"><a href="https://github.com/deepaksood619/deepaksood619.github.io/tree/master/docs/networking/others/file-formats.md" target="_blank" rel="noopener noreferrer" class="theme-edit-this-page"><svg fill="currentColor" height="20" width="20" viewBox="0 0 40 40" class="iconEdit_Z9Sw" aria-hidden="true"><g><path d="m34.5 11.7l-3 3.1-6.3-6.3 3.1-3q0.5-0.5 1.2-0.5t1.1 0.5l3.9 3.9q0.5 0.4 0.5 1.1t-0.5 1.2z m-29.5 17.1l18.4-18.5 6.3 6.3-18.4 18.4h-6.3v-6.2z"></path></g></svg>Edit this page</a></div><div class="col lastUpdated_vwxv"><span class="theme-last-updated">Last updated<!-- --> on <b><time datetime="2024-08-01T20:37:35.000Z">Aug 1, 2024</time></b></span></div></div></footer></article><nav class="pagination-nav docusaurus-mt-lg" aria-label="Docs pages"><a class="pagination-nav__link pagination-nav__link--prev" href="/networking/others/falcor"><div class="pagination-nav__sublabel">Previous</div><div class="pagination-nav__label">Falcor</div></a><a class="pagination-nav__link pagination-nav__link--next" href="/networking/others/grpc/"><div class="pagination-nav__sublabel">Next</div><div class="pagination-nav__label">gRPC</div></a></nav></div></div><div class="col col--3"><div class="tableOfContents_bqdL thin-scrollbar theme-doc-toc-desktop"><ul class="table-of-contents table-of-contents__left-border"><li><a href="#sequencefile" class="table-of-contents__link toc-highlight">SequenceFile</a></li><li><a href="#rcfile" class="table-of-contents__link toc-highlight">RCFile</a></li><li><a href="#orcfile" class="table-of-contents__link toc-highlight">ORCFile</a></li><li><a href="#choosing-file-formats" class="table-of-contents__link toc-highlight">Choosing File Formats</a></li><li><a href="#amazon-ion" class="table-of-contents__link toc-highlight">Amazon Ion</a></li><li><a href="#file-format-benchmarks---avro-json-orc-parquet" class="table-of-contents__link toc-highlight">File Format Benchmarks - Avro, JSON, ORC, Parquet</a></li><li><a href="#datasets" class="table-of-contents__link toc-highlight">DataSets</a></li><li><a href="#compression" class="table-of-contents__link toc-highlight">Compression</a></li><li><a href="#taxi-size-analysis" class="table-of-contents__link toc-highlight">Taxi size analysis</a></li><li><a href="#taxi-size-analysis-1" class="table-of-contents__link toc-highlight">Taxi size analysis</a></li><li><a href="#github-size-analysis" class="table-of-contents__link toc-highlight">Github Size Analysis</a></li><li><a href="#use-case---full-table-scans" class="table-of-contents__link toc-highlight">Use Case - Full Table Scans</a></li><li><a href="#taxi-read-performance-analysis" class="table-of-contents__link toc-highlight">Taxi read performance analysis</a></li><li><a href="#sales-read-performance-analysis" class="table-of-contents__link toc-highlight">Sales read performance analysis</a></li><li><a href="#github-read-performance-analysis" class="table-of-contents__link toc-highlight">Github read performance analysis</a></li><li><a href="#projection--predicate-pushdown" class="table-of-contents__link toc-highlight">Projection &amp; Predicate Pushdown</a></li><li><a href="#metadata-access" class="table-of-contents__link toc-highlight">Metadata Access</a></li><li><a href="#recommendations" class="table-of-contents__link toc-highlight">Recommendations</a></li><li><a href="#key-conclusions---httpsengubercomtrip-data-squeeze-json-encoding-compression" class="table-of-contents__link toc-highlight">Key conclusions - https://eng.uber.com/trip-data-squeeze-json-encoding-compression</a></li><li><a href="#compression-zlib" class="table-of-contents__link toc-highlight">Compression (zlib)</a></li><li><a href="#things-to-consider" class="table-of-contents__link toc-highlight">Things to consider</a></li><li><a href="#h5-file--h5py" class="table-of-contents__link toc-highlight">h5 File / h5py</a></li><li><a href="#har" class="table-of-contents__link toc-highlight">HAR</a></li></ul></div></div></div></div></main></div></div></div><footer class="footer footer--dark"><div class="container container-fluid"><div class="footer__bottom text--center"><div class="footer__copyright">Copyright © 2024 Deep Notes, Built with ❤️</div></div></div></footer></div>
 </body>
 </html>
