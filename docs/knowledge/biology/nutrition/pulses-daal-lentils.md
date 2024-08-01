@@ -236,6 +236,9 @@ Millets are [indigenous](https://en.wikipedia.org/wiki/Indigenous_(ecology)) to 
 
 Millets may have been consumed by humans for about 7,000 years and potentially had "a pivotal role in the rise of multi-crop agriculture and settled farming societies".
 
+- Major - Jowar, Bajra, Ragi
+- Minor - Others
+
 |                                 |                              |
 | ------------------------------- | ---------------------------- |
 | Amaranth                        | Rajgira/ Ramdana             |
@@ -243,7 +246,7 @@ Millets may have been consumed by humans for about 7,000 years and potentially h
 | Buckwheat                       | Kuttu                        |
 | **Finger millet**               | **Ragi / Nachni**            |
 | Foxtail millet                  | Kangni / Kakum               |
-| Kodu                            | Kodon                        |
+| Kodu / Kodo                     | Kodon                        |
 | Little millet                   | Moraiyo/ Kutki/ Shavan/ Sama |
 | Pearl millet                    | Bajra                        |
 | Proso millet (broomcorn millet) | Chena                        |
@@ -274,6 +277,7 @@ https://pristineorganics.com/millet-ancient-grains-for-a-healthier-future
 | Tapioca Pearls, Sago | Sabudana                  |
 | Water chestnut four  | Singhare ka aata          |
 | Teff                 |                           |
+| Brown Top Millet     | Makra                     |
 
 Corn is mainly used in North America, however in the UK and other parts of the world, maize is more commonly used. ... For example, corn is most commonly used when referring to food items, such as popcorn, whereas maize is less commonly used to describe these foods, even though it comes from the same crop.
 

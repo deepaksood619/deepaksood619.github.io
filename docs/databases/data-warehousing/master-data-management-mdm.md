@@ -78,3 +78,4 @@ Machine learning and AI can enhance MDM by automating data cleansing, matching, 
 
 - SAP
 - Microsoft 365 (Dynamics 365)
+- Informatica

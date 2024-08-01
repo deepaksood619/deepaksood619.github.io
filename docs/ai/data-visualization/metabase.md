@@ -79,3 +79,7 @@ docker run -d -p 3000:3000 \
 ## Links
 
 [Embedding Metabase: Setting up customer-facing analytics - YouTube](https://www.youtube.com/watch?v=cwYXnUHA5HM)
+
+[Metabot](https://www.metabase.com/glossary/metabot)
+
+- No longer supported

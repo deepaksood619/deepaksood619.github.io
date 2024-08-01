@@ -261,7 +261,8 @@
 - Gitlab
 - github - [GitHub Careers - GitHub](https://github.com/about/careers)
 - FAANGM
-- Big 4 - Deloitte, PricewaterhouseCoopers (PwC), KPMG, and EY
+- Big 4 - Accounting Firms - Deloitte, PricewaterhouseCoopers (PwC), KPMG, and EY
+- Big 3 / MBB - Management Consulting - McKinsey & Company, Boston Consulting Group, Bain & Company
 - Jane Street Capital -  4 crore package
 - [Notion - The all-in-one workspace for your notes, tasks, wikis, and databases.](https://dubverse-ai.notion.site/Careers-at-Dubverse-afd52b8d135f44cab3f94124a00b5582)
 - [Unified Payments by NomuPay | Turkey, Europe, Southeast Asia](https://nomupay.com/)

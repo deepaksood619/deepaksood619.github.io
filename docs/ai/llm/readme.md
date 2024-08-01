@@ -135,6 +135,11 @@ Moving from information to knowledge age
 - Amazon EC2 P4d/P4de instances - Powered by NVIDIA A100 Tensor Core GPUs
 - Amazon EC2 G5 instances - Powered by NVIDIA A10G Tensor Core GPUs
 
+## Past Present & Future
+
+- ["The Past, Present, and Future of GenAI" - Yariv Adan, Google - KEYNOTE at PMF23 - YouTube](https://www.youtube.com/watch?v=-JYbMh4xEos)
+- [Generative AI: Past, Present, and Future – A Practitioner's Perspective | PPT](https://www.slideshare.net/slideshow/genaipdf/260536464)
+
 ## Links
 
 - [ChatGPT Prompt Engineering for Developers](courses/chatgpt-prompt-eng.md)
@@ -156,3 +161,5 @@ Moving from information to knowledge age
 - [New Theory Suggests Chatbots Can Understand Text | Quanta Magazine](https://www.quantamagazine.org/new-theory-suggests-chatbots-can-understand-text-20240122/)
 - [The case for-and against-rapid AI-driven growth](https://www.understandingai.org/p/the-case-forand-againstrapid-ai-driven)
 - [What I learned from looking at 900 most popular open source AI tools](https://huyenchip.com/2024/03/14/ai-oss.html)
+- [Exploring GaiaNet: The Future of Decentralized AI | The Perfect Blend of Web 3.0 and AI - YouTube](https://www.youtube.com/watch?v=C5tCaeOkpps)
+- [Generative AI | PPT](https://www.slideshare.net/slideshow/generative-ai-259922340/259922340#2)

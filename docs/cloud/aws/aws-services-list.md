@@ -179,6 +179,10 @@ Total with Duplicates - 331 services
 17. **AWS Tools and SDKs** - Tools and SDKs for AWS
 18. **AWS X-Ray** - Analyze and debug your applications
 19. **Amazon CodeWhisperer** - Build apps faster with ML-powered coding companion
+20. **AWS App Studio** - The fastest and easiest way to build enterprise-grade applications
+	1. [AWS App Studio](https://aws.amazon.com/appstudio/)
+	2. AWS App Studio is a generative AI-powered service that uses natural language to build enterprise-grade applications, empowering a new set of builders to create applications in minutes. With App Studio, technical professionals without deep software development skills, such as IT project managers, data engineers, and enterprise architects, can quickly develop business applications tailored to their organization's needs.
+	3. [Introducing AWS App Studio - Generative AI-Powered Low-Code App Builder | Amazon Web Services - YouTube](https://www.youtube.com/watch?v=tCT5hnxehuA)
 
 ## 10. End User Computing (3)
 
@@ -290,6 +294,7 @@ Total with Duplicates - 331 services
 18. **AWS Management Console Mobile Application** - Access resources on the go
 19. **AWS OpsWorks** - Automate operations with Chef and Puppet
 20. **AWS Organizations** - Central governance and management across AWS accounts
+	1. [Best Practices for AWS Organizations](https://www.densify.com/finops/aws-organizations-best-practices/)
 21. **AWS Personal Health Dashboard** - Personalized view of AWS service health
 22. **AWS Proton** - Automate management for container and serverless deployments
 23. **AWS Resilience Hub** - Prepare and protect your applications from disruptions
@@ -415,3 +420,17 @@ Total with Duplicates - 331 services
 4. [AWS Countdown](https://aws.amazon.com/premiumsupport/aws-countdown/)
 5. [AWS SimuLearn](https://aws.amazon.com/training/digital/aws-simulearn/)
 6. [Serverless Compute at the Heart of Your EDA • Julian Wood • GOTO 2024 - YouTube](https://www.youtube.com/watch?v=wYvQv_MTMNs&ab_channel=GOTOConferences)
+
+## Deprecated
+
+1. CodeCommit
+2. Cloud9
+3. S3 Select
+4. CloudSearch
+5. SimpleDB
+6. Forecast
+7. AWS Mobile Hub
+8. Amazon CloudSearch
+9. AWS CodeStar
+10. Amazon Quantum Ledger Database (QLDB)
+11. Data Pipeline

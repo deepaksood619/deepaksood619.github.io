@@ -89,3 +89,13 @@ https://blog.codinghorror.com/the-infinite-space-between-words
 ![image](../../media/Others-image2-general.jpg)
 
 RAIL Model - https://web.dev/rail
+
+## Fork Bomb (Rabbit Virus)
+
+Fork Bomb is a program that harms a system by making it run out of memory. It forks processes infinitely to fill memory. The fork bomb is a form of denial-of-service (DoS) attack against a Linux based system.
+
+Once a successful fork bomb has been activated in a system it may not be possible to resume normal operation without rebooting the system as the only solution to a fork bomb is to destroy all instances of it.
+
+`:(){ :|:& };:`
+
+[Fork() Bomb - GeeksforGeeks](https://www.geeksforgeeks.org/fork-bomb/)

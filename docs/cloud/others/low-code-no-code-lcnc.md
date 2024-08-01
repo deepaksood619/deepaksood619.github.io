@@ -18,6 +18,7 @@
 
 - [Automate your work today | Zapier](https://zapier.com/)
 - [IFTTT - Automate business & home](https://ifttt.com/)
+- [Introducing **AWS App Studio** - Generative AI-Powered Low-Code App Builder | Amazon Web Services - YouTube](https://www.youtube.com/watch?v=tCT5hnxehuA)
 
 ## Apps
 
@@ -30,7 +31,7 @@
    	- [Retool | The fastest way to build internal software.](https://retool.com)
    	- [DronaHQ - low code platform to build custom apps, internal tool 10X faster](https://www.dronahq.com/)
    	- [Build internal tools faster than ever | UI Bakery](https://uibakery.io/)
-   	- [Superblocks | Build modern internal apps in days, not months](https://www.superblocks.com/)
+   	- [Superblocks | Build modern internalapps in days, not months](https://www.superblocks.com/)
    	- [Low-Code Application Development Platform | Mendix](https://www.mendix.com/)
    	- [Appian Platform for Process Automation - Low-Code - Process Mining | Appian](https://appian.com/)
    	- [Leading AI-Powered Low Code Platform | OutSystems](https://www.outsystems.com/)
