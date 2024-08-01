@@ -68,11 +68,15 @@ https://rive.app
 
 Amazon QuickSight is built with "SPICE" -- a Super-fast, Parallel, In-memory Calculation Engine. Built from the ground up for the cloud, SPICE uses a combination of columnar storage, in-memory technologies enabled through the latest hardware innovations and machine code generation to run interactive queries on large datasets and get rapid responses. SPICE supports rich calculations to help you derive valuable insights from your analysis without worrying about provisioning or managing infrastructure. Data in SPICE is persisted until it is explicitly deleted by the user. SPICE also automatically replicates data for high availability and enables QuickSight to scale to hundreds of thousands of users who can all simultaneously perform fast interactive analysis across a wide variety of AWS data sources.
 
-https://aws.amazon.com/blogs/aws/amazon-quicksight-q-business-intelligence-using-natural-language-questions
+- https://aws.amazon.com/blogs/aws/amazon-quicksight-q-business-intelligence-using-natural-language-questions
+- https://aws.amazon.com/quicksight
+- https://aws.amazon.com/blogs/big-data/add-comparative-and-cumulative-date-time-calculations-in-amazon-quicksight
 
-https://aws.amazon.com/quicksight
+### Amazon Q in Quicksight
 
-https://aws.amazon.com/blogs/big-data/add-comparative-and-cumulative-date-time-calculations-in-amazon-quicksight
+- [Announcing Generative BI capabilities in Amazon QuickSight | AWS Business Intelligence Blog](https://aws.amazon.com/blogs/business-intelligence/announcing-generative-bi-capabilities-in-amazon-quicksight/)
+- [Amazon Q in QuickSight: Hands-On Demo for Generative BI and Real-Time Insights | Amazon Web Services - YouTube](https://www.youtube.com/watch?v=CFBlREfSItc)
+- [Amazon Q in QuickSight: 2024 Amazon QuickSight Learning Series - YouTube](https://www.youtube.com/watch?v=ioS4BZyxEK4)
 
 ## Others
 

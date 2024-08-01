@@ -50,6 +50,9 @@ https://www.youtube.com/watch?v=bqa0kB59SUc
 
 ## SAAS
 
-[Atlan](https://atlan.com/)
-
-- The Leading Third-Gen Data Catalog
+- [Atlan](https://atlan.com/) (Enterprise Data Catalogs for DataOps)
+   	- The Leading Third-Gen Data Catalog
+   	- [Active Metadata Management with Atlan | Quick Demo - YouTube](https://www.youtube.com/watch?v=u47N6I3trNY)
+- [Databricks](technologies/databricks/readme.md)
+- [Snowflake](databases/nosql-databases/snowflake/readme.md)
+- Informatica

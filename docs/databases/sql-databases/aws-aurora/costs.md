@@ -60,6 +60,10 @@
 
 Amazon RDS provides the flexibility to choose the instance type you need for your database workloads. Each instance type supports a certain number of CPUs, memory, EBS bandwidth, and network performance. The application owner should choose the instance type based on workload requirements. For example, for CPU-intensive workloads, an M *family instance is better suited, whereas for a memory-intensive workload, the R* family is better. As discussed in the previous section, you should only change instance types after carefully looking at your requirements. Because the majority of database workloads are memory intensive, you should evaluate using the latest offering in R *and X* family instances. For more information, see [Amazon RDS Instance Types](https://aws.amazon.com/rds/instance-types/).
 
+- [Everything You Need to Know About AWS RDS Instance Types](https://blog.guilleojeda.com/aws-rds-instance-types-complete-guide)
+- [The Ultimate RDS Instance Types Guide (2024 UPDATE)](https://www.cloudzero.com/blog/rds-instance-types/)
+- [DB instance classes - Amazon Relational Database Service](https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/Concepts.DBInstanceClass.html)
+
 ## Aurora vs RDS MySQL
 
 - https://www.percona.com/blog/2018/07/17/when-should-i-use-amazon-aurora-and-when-should-i-use-rds-mysql
@@ -67,6 +71,7 @@ Amazon RDS provides the flexibility to choose the instance type you need for you
 - [AWS — Difference between Amazon Aurora and Amazon RDS | by Ashish Patel | Awesome Cloud | Medium](https://medium.com/awesome-cloud/aws-difference-between-amazon-aurora-and-amazon-rds-comparison-aws-aurora-vs-aws-rds-databases-60a69dbec41f)
    	- Aurora’s unique architecture gives you more durability, scalability, resiliency, and performance when compared to RDS. Although there is a small increase in cost, it is recommend using Aurora for enterprise-level applications. If you are looking for a native high availability solution and/or read-intensive workload, then Aurora is a perfect match.
 - [Aurora vs RDS: How to Choose the Right AWS Database Solution](https://www.percona.com/blog/when-should-i-use-amazon-aurora-and-when-should-i-use-rds-mysql/)
+- [AWS RDS MySQL vs. Aurora MySQL - House of Brick](https://houseofbrick.com/blog/aws-rds-mysql-vs-aurora-mysql/)
 
 ## Migration
 

@@ -6,7 +6,7 @@ Experiences per year is far important than number of years of experience
 
 ## Executive Summary
 
-I am a highly skilled and experienced engineer with 7+ years of experience with a strong background in data engineering and a proven track record of scaling systems and increasing efficiency. I have demonstrated the ability to lead and manage multi-disciplinary teams across various technologies and have expertise in building and maintaining infrastructure using tools such as Grafana, Prometheus, and Kubernetes. My experience in implementing microservices architecture and leveraging technologies such as GraphQL and Kafka has greatly enhanced the speed and flexibility of development. I have strong communication skills and the ability to work with multiple stakeholders, and I am passionate about mentoring and coaching.
+I am a highly skilled and experienced engineer with 8+ years of experience with a strong background in data engineering and a proven track record of scaling systems and increasing efficiency. I have demonstrated the ability to lead and manage multi-disciplinary teams across various technologies and have expertise in building and maintaining infrastructure using tools such as Grafana, Prometheus, and Kubernetes. My experience in implementing microservices architecture and leveraging technologies such as GraphQL and Kafka has greatly enhanced the speed and flexibility of development. I have strong communication skills and the ability to work with multiple stakeholders, and I am passionate about mentoring and coaching.
 
 ## Professional Experience
 

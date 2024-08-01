@@ -57,6 +57,8 @@ The set of files used to describe infrastructure in Terraform is simply known as
 
 ## Tools
 
+[Terraform stacks, explained](https://www.hashicorp.com/blog/terraform-stacks-explained)
+
 ### Atlantis
 
 - [Terraform Pull Request Automation | Atlantis](https://www.runatlantis.io/)

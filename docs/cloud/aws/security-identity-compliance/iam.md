@@ -213,6 +213,8 @@ With AWS Organizations, you can consolidate multiple AWS accounts into an organi
 
 [docs.aws.amazon.com/organizations/](https://docs.aws.amazon.com/organizations/)
 
+[Best Practices for AWS Organizations](https://www.densify.com/finops/aws-organizations-best-practices/)
+
 ## AWS Control Tower
 
 Set up and govern a secure, multi-account AWS environment

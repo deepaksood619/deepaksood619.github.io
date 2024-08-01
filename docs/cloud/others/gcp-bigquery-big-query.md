@@ -1,4 +1,4 @@
-# BigQuery / Big Query
+# GCP BigQuery / Big Query
 
 ## Architecture
 

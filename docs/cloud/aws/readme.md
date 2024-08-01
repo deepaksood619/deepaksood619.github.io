@@ -22,8 +22,9 @@
 - [Compute](compute/readme.md)
     - [Amazon EKS](compute/amazon-eks)
     - [EC2 Instance Types](compute/ec2-instance-types)
+    - [Burstable Instances (T Class)](cloud/aws/compute/burstable-instances.md)
     - [Amazon ECS](cloud/aws/compute/amazon-ecs.md)
-   	- [AWS Lambda](compute/aws-lambda)
+    - [AWS Lambda](compute/aws-lambda)
 - [Networing and Content Delivery](networking-content-delivery/intro)
     - [Amazon VPC](networking-content-delivery/amazon-vpc)
     - [AWS ELB](networking-content-delivery/aws-elb)
@@ -54,6 +55,7 @@
       		- Amazon Q Business  $20/month per user
       		- Amazon Q Developer $25/month per user
 - [Course - Architecting on AWS](cloud/aws/course-architecting-on-aws.md)
+- [AWS Competency Program](cloud/aws/aws-competency-program.md)
 - [Others](cloud/aws/others.md)
 
 ## Products

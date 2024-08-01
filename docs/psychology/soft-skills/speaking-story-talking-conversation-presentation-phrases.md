@@ -59,18 +59,38 @@ Always tell stories, most visual stories are the best, and simple
 
 - [online recording studio](https://riverside.fm/)
 - Zoom it
-- https://www.mentimeter.com
 - https://github.com/hakimel/reveal.js
 
-The HTML Presentation Framework
+## Presentation Tools
 
-https://slides.com/news/developers
+- [The HTML presentation framework | reveal.js](https://revealjs.com/)
+   	- [GitHub - hakimel/reveal.js: The HTML Presentation Framework](https://github.com/hakimel/reveal.js)
+- [Slides for Developers](https://slides.com/news/developers)
+- [Slidev](https://sli.dev)
+- [Canva: Visual Suite for Everyone](https://www.canva.com)
+- Pools, Q&A
+   	- [Slido - Audience Interaction Made Easy](https://www.slido.com)
+   	- [Interactive presentation software - Mentimeter](https://www.mentimeter.com)
+   	- [AhaSlides - The Joy of Engagement](https://ahaslides.com/)
+   	- [Claper - The ultimate tool to interact with your audience](https://claper.co/)
+      		- [GitHub - ClaperCo/Claper: The ultimate tool to interact with your audience](https://github.com/ClaperCo/Claper)
 
-[**https://revealjs.com/**](https://revealjs.com/)
+### Presentation Templates
 
-- https://sli.dev
-- https://www.canva.com
-- https://www.slido.com
+- [Free and engaging presentation templates to customize | Canva](https://www.canva.com/presentations/templates/)
+- [Free Google Slides themes and Powerpoint templates | Slidesgo](https://slidesgo.com/)
+
+### How to build a presentation
+
+- 1st research and write outline
+- Fill in the outline and speaker notes in blank basic presentation
+- Find great presentation template and add data in that presentation
+- Add images wherever required
+
+### Examples
+
+- [Blue Doodle Project Presentation](https://online.fliphtml5.com/wzcrr/lpdh/#p=20)
+- [Blue Doodle Project Presentation - ahmad agol Flip PDF | AnyFlip](https://anyflip.com/smmql/oqbm/)
 
 ## Courses
 

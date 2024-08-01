@@ -1,4 +1,4 @@
-# Google Cloud Platform / GCP
+# GCP / Google Cloud Platform
 
 [Google Cloud Developer Cheat Sheet](https://googlecloudcheatsheet.withgoogle.com/)
 
@@ -51,6 +51,14 @@ Cloud Functions are written in Javascript and execute in a Node.js v6.11.5 envir
 Fully managed cron job service
 
 https://cloud.google.com/scheduler/docs/quickstart
+
+### Cloud Run
+
+[Cloud Run | Google Cloud](https://cloud.google.com/run)
+
+[Set minimum instances (services)  |  Cloud Run Documentation  |  Google Cloud](https://cloud.google.com/run/docs/configuring/min-instances)
+
+[CPU allocation (services)  |  Cloud Run Documentation  |  Google Cloud](https://cloud.google.com/run/docs/configuring/cpu-allocation)
 
 ## Big Data
 
@@ -333,6 +341,10 @@ gcloud sql users set-password postgres --host=% --instance postgres-instance --p
 gcloud compute addresses create endpoints-ip --region us-central1  #create a static ip
 
 gcloud compute ssh --project deepak-project-619 --zone us-east1-b root@instance-1
+
+# cloud run
+gcloud run services list
+gcloud run services describe video-freeze-final --platform managed --format="json"
 ```
 
 ## POC problems

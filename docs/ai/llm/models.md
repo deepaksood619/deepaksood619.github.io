@@ -4,8 +4,14 @@
 - Bloom
 - Claude 2.1 from antropic with a context window of 200k tokens
    	- [Introducing Claude 3.5 Sonnet - Anthropic](https://www.anthropic.com/news/claude-3-5-sonnet)
+- Gemini (1.5 Pro, 1.5 Flash)
+   	- [Advancing medical AI with Med-Gemini](https://research.google/blog/advancing-medical-ai-with-med-gemini/)
+   	- [Googles NEW "Med-Gemini" SURPRISES Doctors! (Googles New Medical AI) - YouTube](https://www.youtube.com/watch?v=SZS5WD1du3A&ab_channel=TheAIGRID)
 - [Gemma: Google introduces new state-of-the-art open models](https://blog.google/technology/developers/gemma-open-models/) (2B, 7B parameters)
 - [Meta Llama 3](https://llama.meta.com/llama3/)
+   	- [Introducing Llama 3.1: Our most capable models to date](https://ai.meta.com/blog/meta-llama-3-1/) - 8B, 70B, 405B
+   	- [Meta AI](https://www.meta.ai/)
+   	- [Llama 3.1](https://llama.meta.com/)
 - [SQLCoder-2–7b: How to Reliably Query Data in Natural Language, on Consumer Hardware | by Sjoerd Tiemensma | Use AI | Medium](https://medium.com/use-ai/sqlcoder-2-7b-how-to-reliably-query-data-in-natural-language-on-consumer-hardware-cb352a3cf3ab)
 
 | Model              | Parameters | Size  |

@@ -93,6 +93,8 @@ Give tech talk - Learning + Note taking + Zettlekasten - Obsidian / Onenote + Do
 - Slack Engineering
 - Stripe Blog
 - [White papers that are worth your time | Interview Ready](https://interviewready.io/blog/white-papers-worth-reading-for-software-engineers)
+- [30 \[Software Engineering\] research papers you should read - YouTube](https://www.youtube.com/watch?v=kVP1qM9zgaA)
+- [25 Computer Papers You Should Read! - YouTube](https://www.youtube.com/watch?v=_kynGl5hr9U&ab_channel=ByteByteGo)
 
 ## Repositories
 
