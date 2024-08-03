@@ -32,14 +32,6 @@ Share knowledge, expertise, and experiences using TensorFlow or any open-source 
 16. Final Reflections
 17. Thanks
 
-## Notes
-
-- Start with a quick show of hands around the current experience with GenAI
-   	- Beginner
-   	- Intermediate
-   	- Expert
-- Time - 30 mins total (20 talk with 10 mins Q&A)
-
 ## Others
 
 - rag architecture

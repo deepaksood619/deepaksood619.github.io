@@ -1,5 +1,7 @@
 # Models
 
+- ChatGPT / OpenAI
+   	- [GPT-4o - by Bugra Akyildiz - MLOps Newsletter](https://mlops.substack.com/p/gpt-4o?)
 - Vicuna
 - Bloom
 - Claude 2.1 from antropic with a context window of 200k tokens
@@ -9,9 +11,12 @@
    	- [Googles NEW "Med-Gemini" SURPRISES Doctors! (Googles New Medical AI) - YouTube](https://www.youtube.com/watch?v=SZS5WD1du3A&ab_channel=TheAIGRID)
 - [Gemma: Google introduces new state-of-the-art open models](https://blog.google/technology/developers/gemma-open-models/) (2B, 7B parameters)
 - [Meta Llama 3](https://llama.meta.com/llama3/)
+   	- [Introducing Meta Llama 3: The most capable openly available LLM to date](https://ai.meta.com/blog/meta-llama-3/)
    	- [Introducing Llama 3.1: Our most capable models to date](https://ai.meta.com/blog/meta-llama-3-1/) - 8B, 70B, 405B
    	- [Meta AI](https://www.meta.ai/)
    	- [Llama 3.1](https://llama.meta.com/)
+   	- 16,000 H100 GPUs = 16000 * $35000 = $560 million
+   	- [Llama 3 cost more than $720 million to train : r/LocalLLaMA](https://www.reddit.com/r/LocalLLaMA/comments/1cyxdgc/llama_3_cost_more_than_720_million_to_train/)
 - [SQLCoder-2–7b: How to Reliably Query Data in Natural Language, on Consumer Hardware | by Sjoerd Tiemensma | Use AI | Medium](https://medium.com/use-ai/sqlcoder-2-7b-how-to-reliably-query-data-in-natural-language-on-consumer-hardware-cb352a3cf3ab)
 
 | Model              | Parameters | Size  |

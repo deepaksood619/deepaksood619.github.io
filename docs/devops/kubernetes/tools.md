@@ -426,3 +426,4 @@ https://www.youtube.com/watch?v=PW44JaAlI_8
 - https://spot.io/products/ocean
 - [GitHub - spekt8/spekt8: Visualize your Kubernetes cluster in real time](https://github.com/spekt8/spekt8)
 - [GitHub - aquasecurity/kube-bench: Checks whether Kubernetes is deployed according to security best practices as defined in the CIS Kubernetes Benchmark](https://github.com/aquasecurity/kube-bench)
+- [GitHub - kubeshark/kubeshark: The API traffic analyzer for Kubernetes providing real-time K8s protocol-level visibility, capturing and monitoring all traffic and payloads going in, out and across containers, pods, nodes and clusters. Inspired by Wireshark, purposely built for Kubernetes](https://github.com/kubeshark/kubeshark)

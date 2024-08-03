@@ -64,3 +64,23 @@ Wazuh is a free and open source security platform that unifies XDR and SIEM capa
 Suricata is a high performance, open source network analysis and threat detection software used by most private and public organizations, and embedded by major vendors to protect their assets.
 
 [Home - Suricata](https://suricata.io/)
+
+## Palo Alto
+
+### VM Series - Virtual Machine
+
+VM-Series is the virtualized form factor of the Palo Alto Networks next-generation firewall. To meet the growing need for inline security across diverse cloud and virtualization use cases, you can deploy the VM-Series firewall on a wide range of private and public cloud computing environments such as VMware, Cisco ACI and ENCS, KVM, OpenStack, Amazon Web Services, Microsoft public and private cloud, OCI, and Google Cloud Platform.
+
+[VM-Series](https://docs.paloaltonetworks.com/vm-series)
+
+[Set Up a VM-Series Firewall on an ESXi Server](https://docs.paloaltonetworks.com/vm-series/9-1/vm-series-deployment/set-up-a-vm-series-firewall-on-an-esxi-server)
+
+[Perform Initial Configuration on the VM-Series Firewall](https://docs.paloaltonetworks.com/vm-series/9-1/vm-series-deployment/set-up-the-vm-series-firewall-on-hyper-v/install-the-vm-series-firewall-on-hyper-v/perform-initial-configuration-on-the-vm-series-firewall)
+
+### CN Series Container Firewalls - Container
+
+The Palo Alto Networks CN-Series containerized firewall is the best-in-class next-generation firewall purpose built to secure the Kubernetes environments against modern application attacks and data exfiltration. The CN-Series firewall enables network security teams to gain full application (Layer-7) visibility into Kubernetes environments, dynamically scale network security without compromising DevOps agility, and align with the demands of modern DevOps teams to easily manage CN-Series.
+
+CN-Series firewalls can be easily deployed using DevOps friendly tools including Helm charts and Terraform templates. CN-Series Firewalls can be managed from Panorama—the same management console as all Palo Alto Networks firewalls—giving network security teams a single pane of glass to manage their organizations’ overall network security posture.  It is recommended to deploy CN-Series firewall using Helm Charts for a seamless deployment experience.
+
+[CN-Series](https://docs.paloaltonetworks.com/cn-series)
