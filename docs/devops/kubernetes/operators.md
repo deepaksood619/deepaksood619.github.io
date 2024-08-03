@@ -34,6 +34,10 @@ It builds upon the basic Kubernetes **resource** and **controller** concepts but
 2. Operator LifeCycle Manager
 3. Operator Metering
 
+[Operator SDK](https://sdk.operatorframework.io/)
+
+[GitHub - kubernetes-sigs/kubebuilder: Kubebuilder - SDK for building Kubernetes APIs using CRDs](https://github.com/kubernetes-sigs/kubebuilder)
+
 ## Game Changer
 
 An Operator is nothing more than a set of application-specific custom controllers. So, why is it a game-changer? Well, controllers have direct access to Kubernetes API, which means that they can monitor the cluster, change pods/services, scale up/down, and call endpoints of the running applications, all according to custom rules written inside those controllers.

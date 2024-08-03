@@ -10,6 +10,8 @@ Immediately after every lecture, meeting, or any significant experience, take 30
 
 Pomodora Technique (25 + 5 mins and after 4 times 30 mins breaks)
 
+- [Third Time: a better way to work — LessWrong](https://www.lesswrong.com/posts/RWu8eZqbwgB9zaerh/third-time-a-better-way-to-work)
+
 ## Cognitive Fitness
 
 - Experiences makes the brain grow

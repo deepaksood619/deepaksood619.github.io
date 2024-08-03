@@ -15,7 +15,7 @@
 6. TheSchoolOfAI - Decentralized Applications (10 Sept'2018 - 16 Oct'2018)
 7. [TheSchoolOfAI - Move37](ai/move-37/readme.md) (10 Sept'2018 - 16 Oct'2018)
 8. [Professional Data Engineer (PDE)](courses/google-professional-data-engineer-pde.md)
-9. [ChatGPT Prompt Engineering for Developers](courses/chatgpt-prompt-eng.md) (2 May 2023)
+9. [ChatGPT Prompt Engineering for Developers](ai/llm/prompt-engineering.md) (2 May 2023)
 
 ### [365 Data Science Courses](courses/365-data-science-program.md) (19 Mar 2020 - 14 Apr 2020)
 

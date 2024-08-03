@@ -130,6 +130,13 @@ https://www.seldon.io
 - [Andrei Apostol - Developer in Iași, Romania | Toptal](https://www.toptal.com/resume/andrei-apostol)
 - [Artificial Intelligence Resume Sample and Writing guide - 2024](https://www.mygreatlearning.com/blog/artificial-intelligence-resume/)
 
+## Newsletter
+
+- [Pinterest introduces LinkSage, Google combines Neural Networks with Bayesian theory](https://mlops.substack.com/p/pinterest-introduces-linksage-google)
+- [DSPy through a RAG System](https://mlops.substack.com/p/dspy-through-a-rag-system)
+- [Pathscopes: Inspect Hidden Representation of Neural Networks!](https://mlops.substack.com/p/pathscopes-inspect-hidden-representation)
+- [Personalizing Heart Rate Prediction](https://mlops.substack.com/p/personalizing-heart-rate-prediction)
+
 ## Links
 
 - [Home - MLOps Community](https://mlops.community/)

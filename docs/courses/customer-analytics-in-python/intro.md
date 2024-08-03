@@ -185,6 +185,8 @@ Problems
 - Choose number of clusters before hand
 - K-means enforces spherical clusters
 
+[How to Scale K-Means Clustering with just ClickHouse SQL](https://clickhouse.com/blog/kmeans-clustering-with-clickhouse)
+
 ## Within Cluster Sum of Squares (WCSS) is used to determine best clustering solution
 
 ![image](../../media/Customer-Analytics-in-Python_Intro-image4.jpg)

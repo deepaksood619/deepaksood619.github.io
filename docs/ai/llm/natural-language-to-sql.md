@@ -25,3 +25,4 @@ from langchain import OpenAI, SQLDatabase, SQLDatabaseChain
 - [Chat with SQL and Tabular Databases using LLM Agents (DON'T USE RAG!) - YouTube](https://www.youtube.com/watch?v=ZtltjSjFPDg)
 - [Natural Language to SQL using Google's Gemini Pro Model | SQL Database | Python - YouTube](https://www.youtube.com/watch?v=NUbYDCqojew)
 - [End To End Text To SQL LLM App Along With Querying SQL Database Using Google Gemini Pro - YouTube](https://www.youtube.com/watch?v=wFdFLWc-W4k)
+- [Pinterest's Text to SQL system through LLMs!](https://mlops.substack.com/p/pinterests-text-to-sql-system-through)
