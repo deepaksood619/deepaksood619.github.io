@@ -69,3 +69,7 @@ The architecture is a standard [transformer network](https://en.wikipedia.org/wi
 - [What I learned from looking at 900 most popular open source AI tools](https://huyenchip.com/2024/03/14/ai-oss.html)
 - [Exploring GaiaNet: The Future of Decentralized AI | The Perfect Blend of Web 3.0 and AI - YouTube](https://www.youtube.com/watch?v=C5tCaeOkpps)
 - [Generative AI | PPT](https://www.slideshare.net/slideshow/generative-ai-259922340/259922340#2)
+- [Foundational Models and Compute Trends - by Bugra Akyildiz](https://mlops.substack.com/p/foundational-models-and-compute-trends)
+- [What if LLM is the ultimate data janitor](https://mlops.substack.com/p/what-if-llm-is-the-ultimate-data)
+- [How to build an infrastructure from scratch to train a 70B Model?](https://mlops.substack.com/p/how-to-build-an-infrastructure-from)
+- [On the Factory Floor: ML Engineering for Industrial-Scale Ads Recommendation Models from Google](https://mlops.substack.com/p/on-the-factory-floor-ml-engineering)

@@ -464,3 +464,7 @@ MAX models (ARMAX and SARIMAX)
 - Vector SARIMAX
 
 Business case - A look into the Automobile Industry
+
+## Links
+
+[ETC3550/ETC5550 Applied forecasting - ETC3550/5550 Applied forecasting](https://af.numbat.space/)

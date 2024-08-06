@@ -339,6 +339,7 @@
 - 12min
 - Blinkist
 - Math workout
+- Others - Assistive Touch
 
 ## Podcast / Podcasts
 

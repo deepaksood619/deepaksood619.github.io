@@ -190,3 +190,5 @@ An LLM Agent is a software entity capable of reasoning and autonomously executin
 - [Optimize generative AI applications with pgvector indexing: A deep dive into IVFFlat and HNSW techniques | AWS Database Blog](https://aws.amazon.com/blogs/database/optimize-generative-ai-applications-with-pgvector-indexing-a-deep-dive-into-ivfflat-and-hnsw-techniques/)
 - [V-JEPA: The next step toward advanced machine intelligence](https://ai.meta.com/blog/v-jepa-yann-lecun-ai-model-video-joint-embedding-predictive-architecture/)
 - [GitHub - GoogleCloudPlatform/generative-ai: Sample code and notebooks for Generative AI on Google Cloud, with Gemini on Vertex AI](https://github.com/GoogleCloudPlatform/generative-ai)
+- [ThunderKittens to make the GPUS go brr - by Bugra Akyildiz](https://mlops.substack.com/p/thunderkittens-to-make-the-gpus-go)
+- [RoCE networks for distributed AI training at scale - Engineering at Meta](https://engineering.fb.com/2024/08/05/data-center-engineering/roce-network-distributed-ai-training-at-scale/)

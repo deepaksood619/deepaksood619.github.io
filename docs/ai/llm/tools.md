@@ -103,6 +103,7 @@
 - [Tabnine is an AI assistant that speeds up delivery and keeps your code safe](https://www.tabnine.com/)
 - [GitHub - gofireflyio/aiac: Artificial Intelligence Infrastructure-as-Code Generator.](https://github.com/gofireflyio/aiac)
 - [Invideo AI - Turn ideas into videos - AI video creator](https://invideo.io/)
+- [\[2407.09025\] SpreadsheetLLM: Encoding Spreadsheets for Large Language Models](https://arxiv.org/abs/2407.09025)
 
 ## Purpose-built accelerators for generative AI
 

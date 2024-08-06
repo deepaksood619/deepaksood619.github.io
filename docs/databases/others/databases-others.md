@@ -31,6 +31,7 @@ ScyllaDB is an open-source distributed wide-column NoSQL database offering high 
 - [ScyllaDB is better than Cassandra, and here’s why.](https://www.freecodecamp.org/news/scylladb-its-cassandra-but-better-76e3d83a4f81/)
 - [Getting the Most out of Lightweight Transactions in ScyllaDB - ScyllaDB](https://www.scylladb.com/2020/07/15/getting-the-most-out-of-lightweight-transactions-in-scylla/)
 - [Why does Apple use Cassandra when ScyllaDB is so much better and faster? - Quora](https://www.quora.com/Why-does-Apple-use-Cassandra-when-ScyllaDB-is-so-much-better-and-faster)
+- [ScyllaDB In Action | By Bo Ingram, Staff Engineer at Discord](https://lp.scylladb.com/scylladb-in-action-book-offer)
 
 ## RocksDB
 
