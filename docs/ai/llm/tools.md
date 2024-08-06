@@ -80,9 +80,6 @@
 - [DaLMatian](https://www.dalmatian.ai/)
 - [DataGPT - Conversational AI Data Analyst](https://datagpt.com/)
 - [tl;dv.io | AI Meeting Notetaker for Zoom, Google Meet & MS Teams](https://tldv.io/)
-
-![ai-tools](../../media/image.png)
-
 - [FinGPT: Open-Source Financial Large Language Models](https://arxiv.org/abs/2306.06031)
 - [GitHub - mshumer/gpt-investor](https://github.com/mshumer/gpt-investor)
 - [Self-healing code is the future of software development - Stack Overflow Blog](https://stackoverflow.blog/2023/06/07/self-healing-code-is-the-future-of-software-development/)
@@ -104,6 +101,9 @@
 - [GitHub - gofireflyio/aiac: Artificial Intelligence Infrastructure-as-Code Generator.](https://github.com/gofireflyio/aiac)
 - [Invideo AI - Turn ideas into videos - AI video creator](https://invideo.io/)
 - [\[2407.09025\] SpreadsheetLLM: Encoding Spreadsheets for Large Language Models](https://arxiv.org/abs/2407.09025)
+- [GitHub - WecoAI/aideml: AIDE: the Machine Learning CodeGen Agent](https://github.com/WecoAI/aideml)
+
+![ai-tools](../../media/image.png)
 
 ## Purpose-built accelerators for generative AI
 
@@ -113,3 +113,4 @@
 - Amazon EC2 P5 instances - Powered by NVIDIA H100 Tensor Core GPUs
 - Amazon EC2 P4d/P4de instances - Powered by NVIDIA A100 Tensor Core GPUs
 - Amazon EC2 G5 instances - Powered by NVIDIA A10G Tensor Core GPUs
+- [Fireworks - Fastest Inference for Generative AI](https://fireworks.ai/)

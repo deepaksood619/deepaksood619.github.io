@@ -8,4 +8,6 @@ The Laplace transform is invertible on a large class of functions. The inverse L
 
 https://en.wikipedia.org/wiki/Laplace_transform
 
+Fourier Series - [From the Circle to Epicycles (Part 1) - An animated introduction to Fourier Series | andreinc](https://www.andreinc.net/2024/04/24/from-the-circle-to-epicycles)
+
 ## Area under curve

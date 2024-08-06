@@ -1,4 +1,4 @@
-# Others / Resources / Interview
+# Others / Resources / Interview / Learning
 
 - [Intro to graph neural networks (ML Tech Talks)](https://www.youtube.com/watch?v=8owQBFAHw7E&ab_channel=TensorFlow)
 - [Machine Learning Course for Beginners](https://www.youtube.com/watch?v=NWONeJKn6kc)
@@ -11,6 +11,7 @@
 - LLM - [dbdemos Build your Chat Bot with Dolly - Databricks demos](https://www.dbdemos.ai/demo.html?demoName=llm-dolly-chatbot)
 - [CS 886: Recent Advances on Foundation Models](https://cs.uwaterloo.ca/~wenhuche/teaching/cs886/)
 - [LLM Bootcamp - Spring 2023 - The Full Stack](https://fullstackdeeplearning.com/llm-bootcamp/spring-2023/)
+- [GitHub - microsoft/generative-ai-for-beginners: 18 Lessons, Get Started Building with Generative AI 🔗 https://microsoft.github.io/generative-ai-for-beginners/](https://github.com/microsoft/generative-ai-for-beginners)
 
 ## AI (Artificial Intelligence) + DL (Deep Learning) + ML (Machine Learning)
 

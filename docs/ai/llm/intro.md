@@ -73,3 +73,4 @@ The architecture is a standard [transformer network](https://en.wikipedia.org/wi
 - [What if LLM is the ultimate data janitor](https://mlops.substack.com/p/what-if-llm-is-the-ultimate-data)
 - [How to build an infrastructure from scratch to train a 70B Model?](https://mlops.substack.com/p/how-to-build-an-infrastructure-from)
 - [On the Factory Floor: ML Engineering for Industrial-Scale Ads Recommendation Models from Google](https://mlops.substack.com/p/on-the-factory-floor-ml-engineering)
+- [Financial Statement Analysis with Large Language Models](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4835311)

@@ -404,39 +404,6 @@ The demat account is used as a bank where shares bought are deposited in, and wh
 
 A trading account is used to place buy or sell orders in the stock market.
 
-## Benchmark Exchange Traded Schemes (BeEs)
-
-[Nippon India ETF Nifty BeES vs UTI Nifty Index Fund: Which is better?](https://www.youtube.com/watch?v=1HGazJ61Qu8)
-
-## Exchange-traded fund (Index ETF)
-
-An exchange-traded fund (ETF) is a collection of securities - such as stocks - that tracks an underlying [index](https://www.investopedia.com/terms/m/marketindex.asp).
-
-An ETF is called an exchange-traded fund since it's traded on an exchange just like stocks. The price of an ETF's shares will change throughout the trading day as the shares are bought and sold on the market. This is [unlike mutual funds](https://www.investopedia.com/ask/answers/09/mutual-fund-etf.asp), which are not traded on an exchange, and trade only once per day after the markets close.
-
-### What is an ETF's Market price and NAV
-
-- The ETF market price is the price at which an ETF can be bought or sold on the exchanges during trading hours. If more buyers than sellers arise, the price will rise in the market, and the price will decline if more sellers appear.
-- The net asset value (NAV) of an ETF represents the value of each share of the fund's underlying assets and cash at the end of the trading day.
-- An ETF is said to trade at a **premium** when its price exceeds its NAV. An ETF is said to trade at a discount when its price is below its NAV.
-- Current - 100, selling - 101 (premium), selling - 99 (discount)
-
-### What is iNAV
-
-- iNAV provides an intraday indicative Net Asset Value of an ETF based on the market values of its underlying constituents.
-- iNAV is reported approximately every 10-15 seconds, hence it represents a near real-time view of the value of a fund..
-- iNAV is a tool that helps to keep funds trading near their par value
-- Reporting an iNAV can help a fund to avoid significant premium and discount trading
-
-### Things to keep in mind when investing in ETF
-
-- **iNAV** represents the "fair" price of an ETF, so paying substantially more (premium) or receiving substantially less (discount) than iNAV is generally ill-advised
-- **How high is the tracking error?** - Tracking error is the difference between the returns of the fund and its benchmark index it is trying to mimic. A higher tracking error shows that the fund is not replicating the index truly.
-- **How liquid is the fund?** - Liquidity can be an issue in case of ETFs as they can only be bought and sold on the exchanges. You would be able to sell only if there is enough demand and  that may not always be the case.
-- **Expense Ratio?**
-
-[How ETF Works? | iNAV concept Explained - YouTube](https://www.youtube.com/watch?v=DpD_23GYdAQ)
-
 ## CFD (Contract for Difference)
 
 The [contract for difference (CFD)](https://www.investopedia.com/terms/c/contractfordifferences.asp) offers European traders andinvestors an opportunity to profitfrom price movement without owning the underlying asset. It's a relatively simple securitycalculatedby the asset's movementbetween trade entry and exit, computing only the price changewithoutconsideration of the asset's underlying value.1﻿ This is accomplished through a contract between client and broker, and does not utilize any stock, forex, commodityor futures exchange.Trading CFDsofferseveral major advantagesthat haveincreased the instruments' enormous popularityin the past decade.

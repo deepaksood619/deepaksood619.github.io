@@ -16,7 +16,7 @@
 - [Scikit-learn / Scipy](scikit-learn/readme.md)
 - [Libraries](libraries/readme.md)
 - [Courses](courses/readme.md)
-- [Others / Resources / Interview](ai/others-resources-interview.md)
+- [Others / Resources / Interview / Learning](ai/others-resources-interview-learning.md)
 - [Hackathons](ai/hackathons.md)
 - [Solutions](ai/solutions.md)
    	- [Social Media Analytics Solution](ai/social-media-analytics-solution.md)
@@ -30,7 +30,9 @@ AGI will be intellectually, morally, ethically and creatively superior to humans
 - [Christopher Hitchens on Fear and A.I. - YouTube](https://www.youtube.com/watch?v=VmKqBlbxfUo)
 - [Google's DeepMind Co-founder: AI Is Becoming More Dangerous And Threatening! - Mustafa Suleyman - YouTube](https://www.youtube.com/watch?v=CTxnLsYHWuI)
 - [Artificial consciousness - Wikipedia](https://en.wikipedia.org/wiki/Artificial_consciousness)
+- [A.I. ‐ Humanity's Final Invention? - YouTube](https://www.youtube.com/watch?v=fa8k8IQ1_X0)
 
 ## Links
 
 - [Full Steam Ahead: The 2024 MAD (Machine Learning, AI & Data) Landscape – Matt Turck](https://mattturck.com/mad2024/)
+- [AI Index Report 2024 – Artificial Intelligence Index](https://aiindex.stanford.edu/report/)
