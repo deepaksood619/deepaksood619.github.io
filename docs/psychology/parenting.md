@@ -221,6 +221,14 @@ Why kicking out children after 18 years is important, let's say you are very wea
 - [Emma Hubbard - YouTube](https://www.youtube.com/@EmmaHubbard)
 - [potty training - YouTube](https://www.youtube.com/playlist?list=PLEPQYw7MIUjbysDVfRhyFJCTv2X9JhaUI)
 
+## Milestones
+
+- [12-Month-Old Baby: Milestones and Development](https://www.whattoexpect.com/toddler/12-month-old/)
+- [Milestone chart: 13 to 18 months](https://www.babycentre.co.uk/a6474/milestone-chart-13-to-18-months)
+- [Milestone chart: 19 to 24 months | BabyCentre](https://www.babycentre.co.uk/a6472/milestone-chart-19-to-24-months)
+- [Milestone chart: 25 to 30 months | BabyCentre](https://www.babycentre.co.uk/a6471/milestone-chart-25-to-30-months)
+- [Milestone chart: 31 to 36 months | BabyCentre](https://www.babycentre.co.uk/a6470/milestone-chart-31-to-36-months)
+
 ## Links
 
 - [Colin Powell: Kids need structure | TED - YouTube](https://www.youtube.com/watch?v=NhYnouvrG_8&ab_channel=TED)
@@ -256,7 +264,6 @@ Why kicking out children after 18 years is important, let's say you are very wea
 - [Could Your Baby Be Going Through a 12-Month Sleep Regression?](https://www.whattoexpect.com/first-year/sleep/12-month-sleep-regression/)
 - [11 month old, first week | BabyCentre](https://www.babycentre.co.uk/s1001682/11-month-old-first-week)
 - [What to Do if Your Baby Is Waking Up in the Middle of the Night](https://www.whattoexpect.com/first-year/ask-heidi/month-9/sudden-night-wakings.aspx)
-- [12-Month-Old Baby: Milestones and Development](https://www.whattoexpect.com/toddler/12-month-old/)
 - [Baby Won’t Sleep? 11 Common Problems by Month Age and What to Do](https://www.whattoexpect.com/first-year/baby-sleep-problems.aspx)
 - [When Do Babies Start Talking?](https://www.whattoexpect.com/first-year/first-words/)
 - [How to Drop From Two Naps to One](https://www.whattoexpect.com/first-year/ask-heidi/dropping-morning-nap.aspx)

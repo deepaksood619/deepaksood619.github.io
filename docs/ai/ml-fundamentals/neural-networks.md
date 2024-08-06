@@ -55,3 +55,5 @@ Neural networks combine layers of perceptrons, making them more powerful but als
 [Neural Networks Demystified](https://www.youtube.com/playlist?list=PLiaHhY2iBX9hdHaRr6b7XevZtgZRa1PoU)
 
 [Hot dog or not hot dog? Find out with Convolutional Neural Networks](https://www.freecodecamp.org/news/convolutional-neural-networks-course-for-beginners/)
+
+[Understand AI and Neural Networks by Manually Adjusting Parameters](https://www.freecodecamp.org/news/understand-ai-and-neural-networks-by-manually-adjusting-paramaters/)

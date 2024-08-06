@@ -95,6 +95,7 @@ https://www.seldon.io
    	- [How to Build a CI/CD MLOps Pipeline | Case Study](https://neptune.ai/blog/build-ci-cd-mlops-pipeline)
 - [ML Model Packaging \[The Ultimate Guide\]](https://neptune.ai/blog/ml-model-packaging)
 - [Machine Learning: Models to Production | by Ashutosh Kumar | Analytics Vidhya | Medium](https://medium.com/analytics-vidhya/machine-learning-models-to-production-72280c3cb479)
+- [Comet ML - Build better models faster](https://www.comet.com/)
 
 ## Roadmap
 

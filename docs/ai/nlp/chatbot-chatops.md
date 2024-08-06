@@ -250,25 +250,18 @@ OR during entity extraction
 
 ## Others
 
-https://rasa.com/docs/action-server/knowledge-bases
-
-https://github.com/RasaHQ/tutorial-knowledge-base
-
-NER - Rasa NLU for Entity Extraction
+- https://rasa.com/docs/action-server/knowledge-bases
+- https://github.com/RasaHQ/tutorial-knowledge-base
+- NER - Rasa NLU for Entity Extraction
 
 ## Learning
 
-[**https://learning.rasa.com/certification-study-guide/**](https://learning.rasa.com/certification-study-guide/)
-
-[Conversational AI with Rasa Open Source 3.x](https://www.youtube.com/playlist?list=PL75e0qA87dlEjGAc9j9v3a5h1mxI2Z9fi)
-
-[Rasa 3.x Tutorials](https://www.youtube.com/playlist?list=PL75e0qA87dlHogEVKnBJLhqyaZKDg2f0W)
-
-https://rasa.com/docs
-
-[Algorithm Whiteboard](https://www.youtube.com/playlist?list=PL75e0qA87dlG-za8eLI6t0_Pbxafk-cxb)
-
-[Level 3 AI Assistant Conference 2021](https://www.youtube.com/playlist?list=PL75e0qA87dlH3kgGVl3EphdsU9HOaOEyf)
+- [**https://learning.rasa.com/certification-study-guide/**](https://learning.rasa.com/certification-study-guide/)
+- [Conversational AI with Rasa Open Source 3.x](https://www.youtube.com/playlist?list=PL75e0qA87dlEjGAc9j9v3a5h1mxI2Z9fi)
+- [Rasa 3.x Tutorials](https://www.youtube.com/playlist?list=PL75e0qA87dlHogEVKnBJLhqyaZKDg2f0W)
+- https://rasa.com/docs
+- [Algorithm Whiteboard](https://www.youtube.com/playlist?list=PL75e0qA87dlG-za8eLI6t0_Pbxafk-cxb)
+- [Level 3 AI Assistant Conference 2021](https://www.youtube.com/playlist?list=PL75e0qA87dlH3kgGVl3EphdsU9HOaOEyf)
 
 ## Demo
 
@@ -278,58 +271,40 @@ https://rasa.com/showcase/albert-heijn
 
 ## Responses
 
-https://rasa.com/docs/rasa/responses
-
-https://rasa.com/blog/response-retrieval-models
-
-https://rasa.com/docs/rasa/chitchat-faqs
+- https://rasa.com/docs/rasa/responses
+- https://rasa.com/blog/response-retrieval-models
+- https://rasa.com/docs/rasa/chitchat-faqs
 
 ## Rasa 3.0
 
-https://rasa.com/blog/updated-learning-resources-for-rasa-open-source-3-0
-
-https://rasa.com/blog/slots-in-rasa-open-source-3-0
-
-https://rasa.com/blog/markers-in-rasa-open-source-3-0
-
-https://rasa.com/blog/bending-the-ml-pipeline-in-rasa-3-0
-
-https://rasa.com
-
-[**https://github.com/rasaHQ/**](https://github.com/rasaHQ/)
-
-https://blog.rasa.com
-
-https://github.com/RasaHQ/helpdesk-assistant
-
-[Building Your First Chatbot in Python || Rachael Tatman](https://www.youtube.com/watch?v=VpvmLxO3Ys0)
-
-https://enterprisebot.ai/case-studies
-
-https://www.freecodecamp.org/news/python-project-how-to-build-your-own-jarvis-using-python
-
-[Conversational AI with Rasa: Integration with a Website](https://www.youtube.com/watch?v=ZhRo3gfLk90)
-
-[**Webinar: New Chatbot Starter Packs for Banking and IT Support**](https://www.youtube.com/watch?v=nHqriTMRvPI)
-
-https://github.com/RasaHQ/financial-demo
-
-https://github.com/RasaHQ/helpdesk-assistant
-
-https://rasa.com/blog/rasa-example-helpdesk
+- https://rasa.com/blog/updated-learning-resources-for-rasa-open-source-3-0
+- https://rasa.com/blog/slots-in-rasa-open-source-3-0
+- https://rasa.com/blog/markers-in-rasa-open-source-3-0
+- https://rasa.com/blog/bending-the-ml-pipeline-in-rasa-3-0
+- https://rasa.com
+- [**https://github.com/rasaHQ/**](https://github.com/rasaHQ/)
+- https://blog.rasa.com
+- https://github.com/RasaHQ/helpdesk-assistant
+- [Building Your First Chatbot in Python || Rachael Tatman](https://www.youtube.com/watch?v=VpvmLxO3Ys0)
+- https://enterprisebot.ai/case-studies
+- https://www.freecodecamp.org/news/python-project-how-to-build-your-own-jarvis-using-python
+- [Conversational AI with Rasa: Integration with a Website](https://www.youtube.com/watch?v=ZhRo3gfLk90)
+- [**Webinar: New Chatbot Starter Packs for Banking and IT Support**](https://www.youtube.com/watch?v=nHqriTMRvPI)
+- https://github.com/RasaHQ/financial-demo
+- https://github.com/RasaHQ/helpdesk-assistant
+- https://rasa.com/blog/rasa-example-helpdesk
 
 ## Solutions
 
-https://rasa.com/solutions/lead-generation-sales
-
-https://rasa.com/solutions/customer-service-automation
-
-https://info.rasa.com/poc-to-production-whitepaper
-
-## Resources
-
-[Level 3 AI Assistant Conference 2021](https://www.youtube.com/playlist?list=PL75e0qA87dlH3kgGVl3EphdsU9HOaOEyf)
+- https://rasa.com/solutions/lead-generation-sales
+- https://rasa.com/solutions/customer-service-automation
+- https://info.rasa.com/poc-to-production-whitepaper
 
 ## Chatbot strategy
 
 ![image](../../media/NLP_Chatbot-chatops-image10.jpg)
+
+## Links
+
+- [Level 3 AI Assistant Conference 2021](https://www.youtube.com/playlist?list=PL75e0qA87dlH3kgGVl3EphdsU9HOaOEyf)
+- [Why Substack launched a support chatbot - by Timothy B Lee](https://www.understandingai.org/p/why-substack-launched-a-support-chatbot)

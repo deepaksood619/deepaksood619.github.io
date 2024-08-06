@@ -120,3 +120,5 @@ A cloud native solution to streamline API management across **edge**, **middle
 - Input Validation
 
 ![api-security](../../media/Pasted%20image%2020231230003843.png)
+
+![api-gateway](../../media/Pasted%20image%2020240806193107.png)

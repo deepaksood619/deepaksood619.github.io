@@ -10,11 +10,6 @@ RAG is an AI framework for retrieving facts from an external knowledge base to g
 - RAG enables LLMs to produce higher-quality and more context-aware outputs compared to traditional generation methods
 - Essentially, RAG empowers LLMs to leverage external knowledge for improved performance in various natural language processing tasks
 
-- [What is RAG (Retrieval-Augmented Generation)?](https://aws.amazon.com/what-is/retrieval-augmented-generation)
-- [RAG Best Practices: Enhancing Large Language Models with Retrieval-Augmented Generation | by Juan C Olamendy | Medium](https://medium.com/@juanc.olamendy/rag-best-practices-enhancing-large-language-models-with-retrieval-augmented-generation-6961c8b834ff)
-- [A Gentle Introduction to Retrieval Augmented Generation (RAG)](https://wandb.ai/cosmo3769/RAG/reports/A-Gentle-Introduction-to-Retrieval-Augmented-Generation-RAG---Vmlldzo1MjM4Mjk1)
-- [REALM: Integrating Retrieval into Language Representation Models](https://research.google/blog/realm-integrating-retrieval-into-language-representation-models/)
-
 ## Why is Retrieval-Augmented Generation important
 
 - You can think of the LLM as an over-enthusiastic new employee who refuses to stay informed with current events but will always answer every question with absolute confidence.
@@ -48,6 +43,10 @@ RAG is an AI framework for retrieving facts from an external knowledge base to g
 
 ## Links
 
+- [What is RAG (Retrieval-Augmented Generation)?](https://aws.amazon.com/what-is/retrieval-augmented-generation)
+- [RAG Best Practices: Enhancing Large Language Models with Retrieval-Augmented Generation | by Juan C Olamendy | Medium](https://medium.com/@juanc.olamendy/rag-best-practices-enhancing-large-language-models-with-retrieval-augmented-generation-6961c8b834ff)
+- [A Gentle Introduction to Retrieval Augmented Generation (RAG)](https://wandb.ai/cosmo3769/RAG/reports/A-Gentle-Introduction-to-Retrieval-Augmented-Generation-RAG---Vmlldzo1MjM4Mjk1)
+- [REALM: Integrating Retrieval into Language Representation Models](https://research.google/blog/realm-integrating-retrieval-into-language-representation-models/)
 - [Learn RAG Fundamentals and Advanced Techniques](https://www.freecodecamp.org/news/learn-rag-fundamentals-and-advanced-techniques/)
 - [Using ChatGPT to Search Enterprise Data with Pamela Fox - YouTube](https://www.youtube.com/watch?v=lj5NjKHuFlo)
 - [What is retrieval-augmented generation? | IBM Research Blog](https://research.ibm.com/blog/retrieval-augmented-generation-RAG)
@@ -62,3 +61,4 @@ RAG is an AI framework for retrieving facts from an external knowledge base to g
 - [Building RAG with Open-Source and Custom AI Models](https://www.bentoml.com/blog/building-rag-with-open-source-and-custom-ai-models)
 - [RAG - Retrieval Augmented Generation - YouTube](https://www.youtube.com/playlist?list=PL8motc6AQftn-X1HkaGG9KjmKtWImCKJS)
 - [How to Choose the Right Embedding Model for Your LLM Application | MongoDB](https://www.mongodb.com/developer/products/atlas/choose-embedding-model-rag/)
+- [GraphRAG: New tool for complex data discovery now on GitHub - Microsoft Research](https://www.microsoft.com/en-us/research/blog/graphrag-new-tool-for-complex-data-discovery-now-on-github/)
