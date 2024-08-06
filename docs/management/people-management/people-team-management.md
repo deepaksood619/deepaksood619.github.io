@@ -452,3 +452,7 @@ Relatedness refers to our will to connect with others, interact and care for oth
 "No organization in the world is built on a product. It's built on people."
 
 ![trust-team](../../media/Screenshot%202023-06-28%20at%2011.17.15%20PM.png)
+
+## Links
+
+- [Fetching Title#0bbd](https://www.gallup.com/workplace/645299/strengths-weaknesses-blind-spots-managers.aspx)

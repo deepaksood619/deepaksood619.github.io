@@ -51,3 +51,9 @@ The type of an attribute depends on which of the following properties it possess
 - Examples: temperature, height, or weight
 - Practically, real values can only be measured and represented using a finite number of digits
 - Continuous attributes are typically represented as floating-point variables
+
+## Links
+
+[The Limits of Data](https://issues.org/limits-of-data-nguyen/)
+
+[Lessons Learned from Scaling to Multi-Terabyte Datasets – Build Great Things](https://v2thegreat.com/2024/06/19/lessons-learned-from-scaling-to-multi-terabyte-datasets/)

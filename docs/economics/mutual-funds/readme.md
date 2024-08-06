@@ -5,7 +5,7 @@
 - [Debt Mutual Funds Analysis](economics/mutual-funds/debt-mutual-funds-analysis.md)
 - [Fixed Income](economics/mutual-funds/fixed-income.md)
 - [Debentures / Bonds](economics/mutual-funds/debentures-bonds.md)
-- [Index Investing](economics/mutual-funds/index-investing.md)
+- [Index Investing / ETF](economics/mutual-funds/index-investing-etf.md)
 - [Nifty Indexes](economics/mutual-funds/nifty-indexes.md)
 - [Equity Mutual Funds](economics/mutual-funds/equity-mutual-funds.md)
 - [Others](economics/mutual-funds/others.md)

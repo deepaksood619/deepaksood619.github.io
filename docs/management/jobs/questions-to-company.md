@@ -328,3 +328,7 @@ This enables employees to wait for liquidity events without incurring upfront ta
 - Go the boss in the middle of this continuum. I worked here for two and a half years. I have been here through the high times and low times. You know I am loyal. My aspirations are to stay here and grow with the organization. Can you help me figure out a path that gets me to this salary.
 - It's not a yes or no game, it's allowing for conversation, it's allowing somebody to recognize that you view your own career with the organization, can you invest in me, can you take a bet on me, rather than meet my demands.
 - Therefore a lot of these things fail because they're poorly presented
+
+## Links
+
+- [Business questions to ask before taking a startup data role | Yanir Seroussi | Data & AI for Startup Impact](https://yanirseroussi.com/2024/05/06/business-questions-to-ask-before-taking-a-startup-data-role/)

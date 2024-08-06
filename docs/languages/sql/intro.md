@@ -50,6 +50,7 @@ https://launchbylunch.com/posts/2014/Feb/16/sql-naming-conventions
 - https://selectstarsql.com
 - https://littlekendra.com/course-category/sqlchallenges
 - https://github.com/WebDevSimplified/Learn-SQL
+- [SQuizL - Guess the SQL Statement](https://devgym.oracle.com/pls/apex/f?p=10001:4242::::4242::)
 
 ### Others
 
@@ -91,3 +92,5 @@ https://launchbylunch.com/posts/2014/Feb/16/sql-naming-conventions
 - https://www.codecademy.com/articles/what-is-rdbms-sql
 - https://www.codecademy.com/articles/sql-commands?r=master
 - [SQL 50 - Study Plan - LeetCode](https://leetcode.com/studyplan/top-sql-50/)
+- [SQL Tutor Beta | Data Elixir Pro](https://pro.dataelixir.com/sql-tutor-beta/)
+- [Database Design for Google Calendar: a tutorial | Database Design Book](https://kb.databasedesignbook.com/posts/google-calendar/)

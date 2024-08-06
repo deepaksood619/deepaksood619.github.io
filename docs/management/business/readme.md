@@ -134,3 +134,4 @@ To bait/expose customers to high cost - high margin products
 - https://marcellus.in/blogs/why-india-beats-china-hollow-on-consistent-compounding
 - [Geopolitical Series](https://www.youtube.com/playlist?list=PLGwmAEmjn4fkd3IgCnFZSbocpTnka87Pn)
 - https://www.freecodecamp.org/news/important-lessons-they-dont-teach-you-in-business-school
+- [The Amazon Weekly Business Review (via Bezos's Shadow) - Commoncog](https://commoncog.com/the-amazon-weekly-business-review/)

@@ -20,7 +20,7 @@ In [statistics](https://en.wikipedia.org/wiki/Statistics), exploratory data anal
 - Practice of using visual & quantitative methods to understand a dataset without making assumptions about its contents.
 - Anscombe's Quartet
 
-Anscombe's quartetcomprises four [data sets](https://en.wikipedia.org/wiki/Data_set) that have nearly identical simple [descriptive statistics](https://en.wikipedia.org/wiki/Descriptive_statistics), yet have very different [distributions](https://en.wikipedia.org/wiki/Probability_distribution) and appear very different when [graphed](https://en.wikipedia.org/wiki/Plot_(graphics)). Each dataset consists of eleven [(x, y) points](https://en.wikipedia.org/wiki/Cartesian_coordinate_system). They were constructed in 1973 by the [statistician](https://en.wikipedia.org/wiki/Statistician)[Francis Anscombe](https://en.wikipedia.org/wiki/Francis_Anscombe) to demonstrate both the importance of graphing data before analyzing it and the effect of [outliers](https://en.wikipedia.org/wiki/Outlier) and other [influential observations](https://en.wikipedia.org/wiki/Influential_observations) on statistical properties. He described the article as being intended to counter the impression among statisticians that "numerical calculations are exact, but graphs are rough."
+Anscombe's quartet comprises four [data sets](https://en.wikipedia.org/wiki/Data_set) that have nearly identical simple [descriptive statistics](https://en.wikipedia.org/wiki/Descriptive_statistics), yet have very different [distributions](https://en.wikipedia.org/wiki/Probability_distribution) and appear very different when [graphed](https://en.wikipedia.org/wiki/Plot_(graphics)). Each dataset consists of eleven [(x, y) points](https://en.wikipedia.org/wiki/Cartesian_coordinate_system). They were constructed in 1973 by the [statistician](https://en.wikipedia.org/wiki/Statistician)[Francis Anscombe](https://en.wikipedia.org/wiki/Francis_Anscombe) to demonstrate both the importance of graphing data before analyzing it and the effect of [outliers](https://en.wikipedia.org/wiki/Outlier) and other [influential observations](https://en.wikipedia.org/wiki/Influential_observations) on statistical properties. He described the article as being intended to counter the impression among statisticians that "numerical calculations are exact, but graphs are rough."
 
 https://en.wikipedia.org/wiki/Anscombe%27s_quartet
 
@@ -36,3 +36,5 @@ https://en.wikipedia.org/wiki/Anscombe%27s_quartet
 https://towardsdatascience.com/5-advanced-visualisation-for-exploratory-data-analysis-eda-c8eafeb0b8cb
 
 [Unlock the Power of Data Analytics with Free Google Services](https://www.freecodecamp.org/news/data-analytics-with-google-stack/)
+
+[A Course in Exploratory Data Analysis](https://bayesball.github.io/EDA/)

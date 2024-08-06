@@ -24,3 +24,13 @@ First find relevant information, then answer the question based on the relevant 
 - Presenting false information when it does not have the answer.
 - Non-deterministic - same request can give different response/solution/output
 - Confidence is low because of hallucination
+
+## Reversal Curse
+
+If a model is trained on a sentence of the form "A is B", it will not automatically generalize to the reverse direction "B is A". This is the Reversal Curse. For instance, if a model is trained on "Valentina Tereshkova was the first woman to travel to space", it will not automatically be able to answer the question, "Who was the first woman to travel to space?". Moreover, the likelihood of the correct answer ("Valentina Tershkova") will not be higher than for a random name.
+
+[What can LLMs never do? - by Rohit Krishnan](https://www.strangeloopcanon.com/p/what-can-llms-never-do)
+
+## Links
+
+- [Machine Unlearning in 2024 - Ken Ziyu Liu - Stanford Computer Science](https://ai.stanford.edu/~kzliu/blog/unlearning)

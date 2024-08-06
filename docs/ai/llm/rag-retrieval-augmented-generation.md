@@ -62,3 +62,8 @@ RAG is an AI framework for retrieving facts from an external knowledge base to g
 - [RAG - Retrieval Augmented Generation - YouTube](https://www.youtube.com/playlist?list=PL8motc6AQftn-X1HkaGG9KjmKtWImCKJS)
 - [How to Choose the Right Embedding Model for Your LLM Application | MongoDB](https://www.mongodb.com/developer/products/atlas/choose-embedding-model-rag/)
 - [GraphRAG: New tool for complex data discovery now on GitHub - Microsoft Research](https://www.microsoft.com/en-us/research/blog/graphrag-new-tool-for-complex-data-discovery-now-on-github/)
+- [Building Production RAG Over Complex Documents - YouTube](https://www.youtube.com/watch?v=dI_TmTW9S4c)
+- [Retrieval-Augmented Generation (RAG) Patterns and Best Practices - YouTube](https://www.youtube.com/watch?v=eUY9i1CWmUg)
+- [RAG (Retrieval Augmented Generation) - YouTube](https://www.youtube.com/playlist?list=PLQxDHpeGU14Blorx3Ps1eZJ4XvKET1_vx)
+- [Exploring Hacker News by mapping and analyzing 40 million posts and comments for fun | Wilson Lin](https://blog.wilsonl.in/hackerverse/)
+- [Mastering RAG Systems for LLMs](https://go.kolena.com/mastering-rag-systems-for-llms)
