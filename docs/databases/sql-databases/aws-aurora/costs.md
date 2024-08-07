@@ -41,15 +41,12 @@
 
 ### Instances Cost
 
-- db.t4g.large (2,8) - $121.91 - [db.t4g.large pricing and specs - Vantage](https://instances.vantage.sh/aws/rds/db.t4g.large?region=ap-south-1&os=MySQL&cost_duration=monthly&reserved_term=Standard.partialUpfront)
+- db.m5.xlarge (4,16) - $351.86 - [db.m5.xlarge pricing and specs - Vantage](https://instances.vantage.sh/aws/rds/db.m5.xlarge?region=ap-south-1&os=MySQL&cost_duration=monthly&reserved_term=Standard.partialUpfront)
 - db.t4g.xlarge (4,16) - $243.82 - [db.t4g.xlarge pricing and specs - Vantage](https://instances.vantage.sh/aws/rds/db.t4g.xlarge?region=ap-south-1&os=MySQL&cost_duration=monthly&reserved_term=Standard.partialUpfront)
-- db.m6g.large (2,8) - $156.22 - [db.m6g.large pricing and specs - Vantage](https://instances.vantage.sh/aws/rds/db.m6g.large?region=ap-south-1&os=MySQL&cost_duration=monthly&reserved_term=Standard.partialUpfront)
 - db.m6g.xlarge (4,16) - $312.44 - [db.m6g.xlarge pricing and specs - Vantage](https://instances.vantage.sh/aws/rds/db.m6g.xlarge?region=ap-south-1&os=MySQL&cost_duration=monthly&reserved_term=Standard.partialUpfront)
-- db.r6g.large (2,16) - $176.66 - [db.r6g.large pricing and specs - Vantage](https://instances.vantage.sh/aws/rds/db.r6g.large?region=ap-south-1&os=MySQL&cost_duration=monthly&reserved_term=Standard.partialUpfront)
+- db.m7g.xlarge (4,16) - $349.67 - [db.m7g.xlarge pricing and specs - Vantage](https://instances.vantage.sh/aws/rds/db.m7g.xlarge?region=ap-south-1&os=MySQL&cost_duration=monthly&reserved_term=Standard.partialUpfront)
 - db.r6g.xlarge (4,32) - $352.59 - [db.r6g.xlarge pricing and specs - Vantage](https://instances.vantage.sh/aws/rds/db.r6g.xlarge?region=ap-south-1&os=MySQL&cost_duration=monthly&reserved_term=Standard.partialUpfront)
-- db.r7g.large (2,16) - $198.56 - [db.r7g.large pricing and specs - Vantage](https://instances.vantage.sh/aws/rds/db.r7g.large?region=ap-south-1&os=MySQL&cost_duration=monthly&reserved_term=Standard.partialUpfront)
 - db.r7g.xlarge (4,32) - $397.12 - [db.r7g.xlarge pricing and specs - Vantage](https://instances.vantage.sh/aws/rds/db.r7g.xlarge?region=ap-south-1&os=MySQL&cost_duration=monthly&reserved_term=Standard.partialUpfront)
-- r6g.large (2,16) - $47.45 - [r6g.large pricing and specs - Vantage](https://instances.vantage.sh/aws/ec2/r6g.large?region=ap-south-1&os=linux&cost_duration=monthly&reserved_term=Standard.noUpfront)
 - [Amazon EC2 R6g Instances](https://aws.amazon.com/ec2/instance-types/r6g/) are powered by Arm-based AWS Graviton2 processors.
 - [Amazon EC2 R7g instances](https://aws.amazon.com/ec2/instance-types/r7g/) are powered by Arm-based AWS Graviton3 processors.
    	- Migrating to Graviton3-based instances provide up to a 30% performance improvement and up to a 27% price/performance improvement over Graviton2-based instances on RDS
