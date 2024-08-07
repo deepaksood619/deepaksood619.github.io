@@ -26,6 +26,12 @@ https://firebase.google.com/docs/analytics
 
 YouTube - [The Firebase developer's guide to Google Analytics](https://www.youtube.com/watch?v=2F2XhgMt8Dg&ab_channel=Firebase)
 
+**Analytics different meanings**
+
+- An **event** measures a specific behavioural interaction on your website or app.
+- A **key event** is an event that you mark as important to your business. Key events appear in Analytics reports but aren’t directly eligible for reporting or bidding in Google Ads.
+- A **conversion** created from an Analytics key event is eligible for reporting and bidding in Google Ads and also appears in Analytics advertising reports.
+
 ## Firebase Analytics
 
 ### Events

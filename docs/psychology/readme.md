@@ -31,4 +31,5 @@
 - [Productivity / Productive / Time Management / TODO](productivity-productive-time-management-todo)
 - [Consumerism](psychology/consumerism.md)
 - [Defence Mechanisms](psychology/defence-mechanisms.md)
+- [Travelling](psychology/travelling.md)
 - [Others](psychology/others.md)
