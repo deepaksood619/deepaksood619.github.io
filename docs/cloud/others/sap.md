@@ -10,6 +10,25 @@ Enterprise resource planning (ERP) tools form the backbone of organisations in a
 
 What is SAP, can be described as an enterprise resource planning software. SAP is the most-used ERP software in the market and contains hundreds of fully integrated modules covering nearly every aspect of business management. Using SAP creates a centralised system for businesses that enables every department to access and share data to create a better work environment for every employee.
 
+[SAP Complete Details | SAP FICO | SAP SD | SAP MM | SAP ABAP | SAP ARIBA - YouTube](https://www.youtube.com/watch?v=bVmOu9bzu54)
+
+## Modules
+
+- SAP S/4 Hana Neo Cloud Core Modules
+   	- SAP FI - Financial Accounting
+   	- SAP CO - Cost Controlling
+   	- SAP Treasury
+   	- SAP SD - Sales and Distribution
+   	- SAP MM - Materials Management
+   	- SAP PS (Project System)
+   	- SAP Enterprise Asset Management (EAM)
+   	- SAP HR
+- SAP ABAP - Advanced Business Application Programming - Developing Custom Application
+- SAP ARIBA - Supply Chain
+- SAP SuccessFactors
+- SAP Commerce Automation
+- SAP Cloud for Customer (SAP C4C)
+
 ## SAP FICO (SAP Finance and SAP Controlling)
 
 **SAP FICO** is a module of SAP ERP which is used for financial reporting both externally and internally. The objective is to record all financial transactions that are posted by an entity and produce financial statements that are accurate at the end of the trading period. The SAP FICO full form is FI (Financial Accounting) and CO (Controlling).
@@ -20,7 +39,7 @@ This SAP FICO basics tutorial is going to explain SAP FICO overview and the majo
 
 [What is SAP FICO? A definition from WhatIs.com](https://www.techtarget.com/searchsap/definition/SAP-FICO-SAP-Finance-and-SAP-Controlling)
 
-[What is SAP FICO Explained | Introduction to SAP FICO Overview & Basics - YouTube](https://www.youtube.com/watch?v=ER4xnUGztaE)
+[**What is SAP FICO Explained** | Introduction to SAP FICO Overview & Basics - YouTube](https://www.youtube.com/watch?v=ER4xnUGztaE)
 
 ## Links
 
@@ -31,3 +50,5 @@ This SAP FICO basics tutorial is going to explain SAP FICO overview and the majo
 [What is SAP? | Definition and Meaning](https://www.sap.com/india/about/what-is-sap.html)
 
 [Course SAP for beginners - YouTube](https://www.youtube.com/playlist?list=PLiFE0QmVk5NcXRHMbqEOwX7w8HDNThUgo)
+
+[SAP Complete Details | SAP FICO | SAP SD | SAP MM | SAP ABAP | SAP ARIBA ‪@ZellEducation‬ - YouTube](https://www.youtube.com/watch?v=bVmOu9bzu54)

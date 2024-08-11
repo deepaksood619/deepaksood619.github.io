@@ -74,3 +74,6 @@ The architecture is a standard [transformer network](https://en.wikipedia.org/wi
 - [How to build an infrastructure from scratch to train a 70B Model?](https://mlops.substack.com/p/how-to-build-an-infrastructure-from)
 - [On the Factory Floor: ML Engineering for Industrial-Scale Ads Recommendation Models from Google](https://mlops.substack.com/p/on-the-factory-floor-ml-engineering)
 - [Financial Statement Analysis with Large Language Models](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4835311)
+- [Scaling Meta’s Infra with GenAI: Journey to faster and smarter Incident Response - YouTube](https://www.youtube.com/watch?v=rpe7eAR90Ko)
+- [AWS re:Invent 2023 - Navigating the future of AI: Deploying generative models on Amazon EKS (CON312) - YouTube](https://www.youtube.com/watch?v=I22pIUSgseA)
+- [GenAI Training In Production: Software, Hardware & Network Considerations - YouTube](https://www.youtube.com/watch?v=1lhrGRqqPWU)

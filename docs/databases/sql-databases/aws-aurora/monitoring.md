@@ -42,12 +42,13 @@ Enabling Performance Insights in Amazon RDS requires specific permissions relate
 
 ### Enhanced Monitoring
 
-- Focus: Enhanced Monitoring primarily focuses on providing detailed system-level metrics and performance data for your RDS instances.
-- Metrics: It collects and reports a wide range of OS-level metrics such as CPU utilization, memory usage, disk I/O, and network traffic.
-- Granularity: Enhanced Monitoring captures metrics at a high granularity (typically 1-second intervals), allowing for detailed analysis of system-level performance.
-- Visibility: It provides insights into the underlying infrastructure and helps you identify performance bottlenecks related to the operating system and resource utilization.
-- Integration: Enhanced Monitoring integrates with Amazon CloudWatch, allowing you to view and analyze metrics alongside other CloudWatch metrics and alarms.
+- **Focus:** Enhanced Monitoring primarily focuses on providing detailed system-level metrics and performance data for your RDS instances.
+- **Metrics:** It collects and reports a wide range of OS-level metrics such as CPU utilization, memory usage, disk I/O, and network traffic.
+- **Granularity:** Enhanced Monitoring captures metrics at a high granularity (typically 1-second intervals), allowing for detailed analysis of system-level performance.
+- **Visibility:** It provides insights into the underlying infrastructure and helps you identify performance bottlenecks related to the operating system and resource utilization.
+- **Integration:** Enhanced Monitoring integrates with Amazon CloudWatch, allowing you to view and analyze metrics alongside other CloudWatch metrics and alarms.
 - enhanced monitoring is free for rds but cost of cloudwatch for logs will be incurred
+- Enhanced monitoring doesn't require restarts of RDS or Aurora Database
 
 #### Cost
 

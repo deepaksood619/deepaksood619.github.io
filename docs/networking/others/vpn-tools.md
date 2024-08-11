@@ -24,7 +24,7 @@ https://www.freecodecamp.org/news/how-to-set-up-a-vpn-server-at-home
 
 ngrok is a reverse proxy that creates a secure tunnel from a public endpoint to a locally running web service. ngrok captures and analyzes all traffic over the tunnel for later inspection and replay.
 
-Unified Ingress Platform  for developers
+Unified Ingress Platform for developers
 
 ngrok combines your reverse proxy, firewall, API gateway, and global load balancing to deliver apps and APIs.
 
@@ -86,9 +86,10 @@ Create a cloud vpn with complex site-to-site links, gateway links and provide lo
 
 Pritunl provides innovative security features not available from any other provider. Including TPM and Apple Secure Enclave device authentication, a dynamic firewall, SELinux policies, dual web server design and self shutdown notification system
 
-[GitHub - pritunl/pritunl: Enterprise VPN server](https://github.com/pritunl/pritunl)
-
-[Pritunl - Open Source Enterprise Distributed OpenVPN, IPsec and WireGuard Server](https://pritunl.com/)
+- [GitHub - pritunl/pritunl: Enterprise VPN server](https://github.com/pritunl/pritunl)
+- [Pritunl - Open Source Enterprise Distributed OpenVPN, IPsec and WireGuard Server](https://pritunl.com/)
+- [Pritunl, a free, self-hosted, open source VPN tunnel with a simple web ui and cross platform clients - YouTube](https://www.youtube.com/watch?v=-okuLsMqnWo)
+- [Create your own VPN using Pritunl on Linux VPS 🔥 - YouTube](https://www.youtube.com/watch?v=8Wq7Re3LG5k)
 
 ## Teleport
 
@@ -105,3 +106,7 @@ DevOps teams use Teleport to access SSH and Windows servers, Kubernetes, databas
 ## Sshuttle
 
 [GitHub - sshuttle/sshuttle: Transparent proxy server that works as a poor man's VPN. Forwards over ssh. Doesn't require admin. Works with Linux and MacOS. Supports DNS tunneling.](https://github.com/sshuttle/sshuttle)
+
+## Others
+
+- TwinGate - [the END of VPNs?! - YouTube](https://www.youtube.com/watch?v=IYmXPF3XUwo)

@@ -133,3 +133,4 @@ https://www.moneycontrol.com/india-investors-portfolio
 - [SIP Top-Up: The Mindboggling math of SIP top up](https://www.hdfcfund.com/knowledge-stack/mf-vault/weekend-bytes/sip-top-mindboggling-math-sip-top)
 - [SWP: A smarter way to manage periodic expenses](https://www.hdfcfund.com/knowledge-stack/mf-vault/weekend-bytes/swp-smarter-way-manage-periodic-expenses)
 - [Want to time the market? Here is how you can do it right! - YouTube](https://www.youtube.com/watch?v=m9nT_Ik4nOM&ab_channel=freefincal-PrudentDIYInvesting)
+- [How to know if markets are overvalued? 3 metrics every investor must know - YouTube](https://www.youtube.com/watch?v=Di8YdFBbOTc)

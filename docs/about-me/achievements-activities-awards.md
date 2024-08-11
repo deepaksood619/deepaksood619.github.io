@@ -26,7 +26,13 @@ I was responsible of creating a product and infrastructure around it to help sav
 
 ## Activities
 
-### Talk at 𝗠𝗲𝗲𝘁𝘂𝗽 𝗭𝗲𝗿𝗼 - 𝗚𝗲𝗻𝗔𝗜 𝗘𝗱𝗶𝘁𝗶𝗼𝗻
+### Expert Talk and Hands-on at Manav Rachna - Department of Computer Science and Engineering (14 August 2024)
+
+Presentation - [Empowering GenAI with RAG](https://docs.google.com/presentation/d/1s8lM_3jm6eF_SbWRSzGjREO3QN7RZcgeUM_zA6TH-J8/edit?usp=drive_link)
+
+![Expert Speak - Empowering Gen AI with RAG](../media/WhatsApp%20Image%202024-08-10%20at%2016.09.32.jpeg)
+
+### Talk at Meetup Zero - GenAI Edition (3 August 2024)
 
 Presentation - [Empowering GenAI with RAG](https://docs.google.com/presentation/d/1s8lM_3jm6eF_SbWRSzGjREO3QN7RZcgeUM_zA6TH-J8/edit?usp=drive_link)
 
@@ -38,6 +44,10 @@ Topic: Empowering GenAI with RAG (Retrieval-Augmented Generation)
 - Practical applications and real-world use cases of RAG.
 - How RAG is transforming industries by enhancing the capabilities of AI models.
 - Insights into implementing RAG to empower your AI solutions.
+
+![Meet Up Zero - Empowering GenAI with RAG](../media/Pasted%20image%2020240810153313.png)
+
+![Empowering GenAI with RAG](../media/Pasted%20image%2020240810155153.png)
 
 [TensorFlow User Group Ghaziabad (TFUG Ghaziabad) on LinkedIn: #tfug #tfugghaziabad #tensorflow #genai #newevent #event #developers #gde…](https://www.linkedin.com/posts/tensorflow-user-group-ghaziabad_tfug-tfugghaziabad-tensorflow-activity-7223731628953460737-v3xA?utm_source=share&utm_medium=member_desktop)
 

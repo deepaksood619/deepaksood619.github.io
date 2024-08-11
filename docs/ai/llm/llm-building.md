@@ -73,6 +73,7 @@
 
 ## Dev Tools
 
+- LangChain
 - Langfuse
 - Eden AI
 - Langdock

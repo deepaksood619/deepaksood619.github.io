@@ -10,20 +10,25 @@ https://en.wikipedia.org/wiki/Google_Test
 
 https://github.com/google/googletest
 
-## Other Tools
+## Cucumber
 
-- Puppeteer - https://github.com/puppeteer/puppeteer
-- https://cucumber.io
-- NCover
-- Magellan
-- JTest
-- Cobertura
-- Emma
-- Bazel - Build and test software of any size, quickly and reliably - https://www.bazel.build
-- REST Assured (REST Test Tool)
-- Mockito (Mocking)
-- JUnit
-- [Getting Started with FitNesse - DZone Refcardz](https://dzone.com/refcardz/getting-started-fitnesse)
+[BDD Testing & Collaboration Tools for Teams | Cucumber](https://cucumber.io)
+
+[10 Minute Tutorial - Cucumber Documentation](https://cucumber.io/docs/guides/10-minute-tutorial/)
+
+### BDD Testing - Behavior Driven Development Testing
+
+[What is BDD Testing? A Comprehensive Guide](https://katalon.com/resources-center/blog/bdd-testing)
+
+### Gherkin
+
+With Gherkin, you can use your native language to describe test cases instead of difficult to read and understand camelcase test-method-names.
+
+[Try the online-editor](https://specflow.org/tools/online-gherkin-editor/)
+
+[Gherkin Language - Use Your Language to Describe Test Cases](https://specflow.org/learn/gherkin/)
+
+[Gherkin Syntax - Cucumber Documentation](https://cucumber.io/docs/gherkin/)
 
 ## REST Assured
 
@@ -41,17 +46,23 @@ OpenTest is a free and open source functional test automation framework for web 
 
 [Katalon Studio](https://www.katalon.com) is a free and complete automation testing solution for Web, Mobile, and API testing with modern methodologies (Data-Driven Testing, TDD/BDD, Page Object Model, etc.) as well as advanced integration (JIRA, qTest, Slack, CI, Katalon TestOps, etc.). Learn more about [Katalon Studio features](https://www.katalon.com/features/).
 
-## Katalon TestOps
+### Katalon TestOps
 
 [Katalon TestOps](https://analytics.katalon.com) is a web-based application that provides dynamic perspectives and an insightful look at your automation testing data. You can leverage your automation testing data by transforming and visualizing your data; analyzing test results; seamlessly integrating with such tools as Katalon Studio and Jira; maximizing the testing capacity with remote execution.
 
-## Katalon Runtime Engine (KRE)
+### Katalon Runtime Engine (KRE)
 
 Katalon Runtime Engine (KRE)is the test execution add-on of Katalon Studio. KRE allows you to execute automation tests in CLI mode. It can be used in a variety of scenarios, such as scheduling your tests, integrating with CI/CD system, or bundling your tests to execute in virtual containers like Docker.
 
-https://www.katalon.com
+[Katalon AI-augmented Test Automation Platform](https://www.katalon.com)
 
-https://github.com/katalon-studio/katalon-studio
+[GitHub - katalon-studio/katalon-studio](https://github.com/katalon-studio/katalon-studio)
+
+## Browserstack
+
+[Most Reliable App & Cross Browser Testing Platform | BrowserStack](https://www.browserstack.com/)
+
+[BrowserStack vs Katalon | BrowserStack](https://www.browserstack.com/dg/browserstack-vs-katalon-dg)
 
 ## TestLink
 
@@ -66,3 +77,18 @@ https://github.com/TestLinkOpenSourceTRMS/testlink-code
 https://www.uipath.com
 
 Robotic Process Automation (RPA) is a software program that imitates human actions while interacting with a computer application and accomplishing automation of repetitive, rule-based processes. UiPath is reliable, fast and one of the most popular among other existing automation tools.
+
+## Other Tools
+
+- Puppeteer - https://github.com/puppeteer/puppeteer
+- NCover
+- Magellan
+- JTest
+- Cobertura
+- Emma
+- Bazel - Build and test software of any size, quickly and reliably - https://www.bazel.build
+- REST Assured (REST Test Tool)
+- Mockito (Mocking)
+- JUnit
+- [Getting Started with FitNesse - DZone Refcardz](https://dzone.com/refcardz/getting-started-fitnesse)
+- [Tricentis Tosca – Accelerate & Automate Continuous Testing | Tricentis](https://www.tricentis.com/products/automate-continuous-testing-tosca)

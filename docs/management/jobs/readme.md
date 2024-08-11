@@ -30,6 +30,8 @@ In early career, taking bets vs random job hopping is critical
 
 ## Platform
 
+- BrainTrust
+- [Pesto Tech: Hire Top Remote Developers Using The World’s First AI Recruiter](https://pesto.tech/)
 - Hirist
 - https://tophire.co/home?
 - LinkedIn
@@ -191,3 +193,7 @@ In early career, taking bets vs random job hopping is critical
 - One of the biggest complaints I hear from job seekers is that they don't have enough time.
 - Both Gmail and Outlook have schedule send features.
 - Draft up notes to every person on your contact list and schedule them to send in January.
+
+## Others
+
+![ChatGPT Prompts for Job Hunting](../../media/1723056210575.jpeg)

@@ -1,5 +1,7 @@
 # Social Links
 
+[Schedule a call with me - Deepak Sood | Calendly](https://calendly.com/deepaksood619/deepak)
+
 ## Resume
 
 - Full - https://docs.google.com/document/d/1g9yh9FJuJO_mCgJUXUxcWN9dw0GTFwS1N6DssRlqVHE/edit

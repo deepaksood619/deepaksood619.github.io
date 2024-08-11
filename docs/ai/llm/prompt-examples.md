@@ -95,3 +95,10 @@ ChatGPT, could you aid me in crafting a compelling proposal presentation script 
 ![ChatGPT Prompts Commands](../../media/chatgpt-prompts.png)
 
 Share the most important leadership lessons and insights from the book `{insert book}` by `{insert author}`. For each insight suggest an actionable way I can embody it.
+
+## Create Proposal
+
+For the attached RFP
+
+1. Create questions to ask to the client for understanding the requirements more, and coming up with a proposal and sow based on the answers.
+2. Along with this create a proposal for the SOW. Write clear assumptions wherever required, give timelines, resources required and full detailed proposal with detailed tasks bifurcation. Also add the tentative duration for each phase. also provide a list of required skills, the number of resources needed, and a high-level budget estimate for the project?

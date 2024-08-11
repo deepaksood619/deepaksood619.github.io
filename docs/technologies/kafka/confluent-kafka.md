@@ -113,3 +113,4 @@ p.flush()
 - https://docs.confluent.io/current/clients/confluent-kafka-python
 - https://github.com/edenhill/librdkafka/blob/master/CONFIGURATION
 - https://towardsdatascience.com/3-libraries-you-should-know-to-master-apache-kafka-in-python-c95fdf8700f2
+- [Configure Kafka clients for LDAP Authentication in Confluent Platform | Confluent Documentation](https://docs.confluent.io/platform/current/security/authentication/ldap/client-authentication-ldap.html)

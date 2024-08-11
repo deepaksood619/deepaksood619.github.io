@@ -145,3 +145,5 @@ https://www.seldon.io
 - [GitHub - kelvins/awesome-mlops: :sunglasses: A curated list of awesome MLOps tools](https://github.com/kelvins/awesome-mlops)
 - [10 Awesome Resources for Learning MLOps | DataCamp](https://www.datacamp.com/blog/10-awesome-resources-for-learning-mlops)
 - [Let’s Architect! Learn About Machine Learning on AWS | AWS Architecture Blog](https://aws.amazon.com/blogs/architecture/lets-architect-learn-about-machine-learning-on-aws/)
+- [AWS re:Invent 2023 - Introduction to MLOps engineering on AWS (TNC215) - YouTube](https://www.youtube.com/watch?v=2kzJPhgDkDE)
+- [AWS re:Invent 2023 - Zero to machine learning: Jump-start your data-driven journey (SMB204) - YouTube](https://www.youtube.com/watch?v=-CSrOKo8Qgs)

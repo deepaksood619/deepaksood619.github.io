@@ -4,10 +4,19 @@
 
 - blackbox exporter - [Prometheus Blackbox Exporter: Guide & Tutorial | Squadcast](https://www.squadcast.com/blog/prometheus-blackbox-exporter)
 - statuspage.io
+   	- [Statuspage | Atlassian](https://www.atlassian.com/software/statuspage) - Paid
 - [Uptime Kuma](https://uptime.kuma.pet/)
 - [Status.io - Hosted Status Pages](https://status.io/) - Paid
 - [UptimeRobot: Free Website Monitoring Service](https://uptimerobot.com/) - Free
-- [Statuspage | Atlassian](https://www.atlassian.com/software/statuspage) - Paid
+   	- Get 50 monitors with 5-minute checks totally FREE.
+- [Better Stack: Spot, Resolve, and Prevent Downtime.](https://betterstack.com/)
+   	- 10 monitors & heartbeats
+   	- E-mail alerts with 3 minute checks
+   	- 1 status page
+   	- 3 GB ingested logs per month retained for 3 days
+   	- 10M ingested metrics data points retained for 30 days
+   	- Connect with Slack
+- https://instatus.com/
 
 ## netdata
 

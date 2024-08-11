@@ -185,13 +185,26 @@
 
 ## Good companies
 
+[The Secret to Finding Your Ideal Workplace | Marion Campan | TED - YouTube](https://www.youtube.com/watch?v=s9rCzZEZKnM)
+
+- Melting pot culture
+- It's impossible to know a company's culture until you work there.
+- Observe the whole recruitment process, companies are trying to show the best during the recruitment process, if you don't like the recruitment process, most probably you will not like the company too
+   	- If company recruitment process is slow, and takes a lot of time to reply to emails then the other processes are also slow
+- If there are 3 interviewers in the interview and only 1 speaks, and that one is boss, then the company is very hierarchical.
+- Questions
+   	- What **kind of people** get promoted here?
+   	- What are your **core values**?
+   	- When was the last time you received **feedback** here?
+
 ### Next company
 
 - Small medium sized startup (no financial problems, not a lot of austerity) (100-250)
 - Achieved their product market fit
-- Large volume / workloads /customer base
+- Large volume / workloads / customer base
 - Best company to work at
 - Highest paid salary companies
+- High growth potential
 
 ### Culture
 
