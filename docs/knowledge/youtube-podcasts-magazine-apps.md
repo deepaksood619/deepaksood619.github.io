@@ -225,6 +225,7 @@
 - [How Money Works - YouTube](https://www.youtube.com/@howmoneyworks)
 - [Garys Economics - YouTube](https://www.youtube.com/@garyseconomics)
 - [Econ - YouTube](https://www.youtube.com/@econyt)
+- [SOIC - YouTube](https://www.youtube.com/@soicfinance)
 
 #### Trading
 
@@ -283,6 +284,10 @@
 - [Dr Pal - YouTube](https://www.youtube.com/@DrPal)
 - [Bryan Johnson - YouTube](https://www.youtube.com/@bryanjohnson)
 
+### Countries
+
+- India - [Lastly - YouTube](https://www.youtube.com/@lastlyy)
+
 ### Others
 
 - RM Transit
@@ -303,6 +308,7 @@
 - Courses
    	- MIT opencourseware
    	- Crashcourse
+   	- [Study Hall - YouTube](https://www.youtube.com/@studyhall)
 - Shark tank
 - Perimeter Institute for Theoretical Physics
 - Unacademy

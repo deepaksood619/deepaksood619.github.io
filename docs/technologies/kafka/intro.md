@@ -159,12 +159,15 @@ https://www.confluent.io/blog/apache-kafka-2-4-latest-version-updates
 ## Kafka without Zookeeper (Kafka with KRaft Mode)
 
 - KRaft Algorithm
+- [What’s New in Apache Kafka 3.3 - New Features, Updates, and More](https://www.confluent.io/blog/apache-kafka-3-3-0-new-features-and-updates/)
 - [Kafka Without ZooKeeper: A Sneak Peek At the Simplest Kafka Yet](https://www.confluent.io/blog/kafka-without-zookeeper-a-sneak-peek/)
 - [KRaft - Apache Kafka Without ZooKeeper](https://developer.confluent.io/learn/kraft/)
 - [Running Kafka without zookeeper. Kafka uses the Raft consensus algorithm… | by Kamini Kamal | Javarevisited | Medium](https://medium.com/javarevisited/running-kafka-without-zookeeper-66b685db4991)
 - [Installing Apache Kafka without Zookeeper: Guide 101 | Hevo](https://hevodata.com/learn/kafka-without-zookeeper/)
 - [Kafka without Zookeeper: Tutorial & Examples](https://redpanda.com/guides/kafka-tutorial/kafka-without-zookeeper)
 - [KRaft Quorum: How to run Kafka without Zookeper](https://www.conduktor.io/blog/kraft-quorum-run-kafka-without-zookeeper/)
+
+![Kafka with KRaft](../../media/Pasted%20image%2020240808170843.png)
 
 ## Best Practices
 

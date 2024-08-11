@@ -12,6 +12,10 @@ Become an Autonomous Database Specialist
 
 [Introduction to Oracle Streams](https://docs.oracle.com/en/database/oracle/oracle-database/12.2/strms/introduction-to-oracle-streams.html)
 
+Exadata - [Exadata - Database Platform | Oracle India](https://www.oracle.com/in/engineered-systems/exadata/)
+
+- Oracle Exadata is an enterprise database platform that runs Oracle Database workloads of any scale and criticality with high performance, availability, and security. Exadata’s scale-out design employs unique optimizations that let transaction processing, analytics, artificial intelligence, and mixed workloads run faster and more efficiently. Consolidating diverse Oracle Database workloads on Exadata platforms in enterprise data centers, Oracle Cloud Infrastructure (OCI), and multicloud environments helps organizations increase operational efficiency, reduce IT administration, and lower costs.
+
 ## Others
 
 - [Oracle Hyperion Financial Management | EPM | Oracle India](https://www.oracle.com/in/performance-management/hyperion-financial-management/)

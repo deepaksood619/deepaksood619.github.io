@@ -96,9 +96,17 @@ To achieve the above transition, there are two important steps: (1) consumer off
 - [Migrate Your Kafka Cluster with Minimal Downtime - YouTube](https://www.youtube.com/watch?v=oqRiagSnYfQ)
 - [MirrorMaker 2: Replicate Data Between Multicloud Kafka Clusters | Hybrid and Multicloud Architecture - YouTube](https://www.youtube.com/watch?v=epfif3Vnd0s&ab_channel=Confluent)
 - [Replicate Data Between Multicloud Kafka Clusters with Confluent | Hybrid and Multicloud Architecture - YouTube](https://www.youtube.com/watch?v=cZatGgveaLg&ab_channel=Confluent)
-- [Learn about Confluent Cluster Linking | Hybrid and Multicloud Architecture - YouTube](https://www.youtube.com/watch?v=D8VeBdDg7xI&ab_channel=Confluent)
 - [Apache Kafka Migration: How to Migrate to Apache Kafka by Rafe Colburn (Etsy) - YouTube](https://www.youtube.com/watch?v=Q0eH9xhZUjg&ab_channel=DataCouncil)
 - [AWS re:Invent 2020: Guide to Apache Kafka replication and migration with Amazon MSK - YouTube](https://www.youtube.com/watch?v=CmcJb9Ge3jI&ab_channel=AWSEvents)
+
+## Cluster Linking
+
+Cluster Linking allows you to directly connect clusters and perfectly mirror topics, consumer offsets, and ACLs from one cluster to another.
+
+- [Learn about Confluent Cluster Linking | Hybrid and Multicloud Architecture - YouTube](https://www.youtube.com/watch?v=D8VeBdDg7xI&ab_channel=Confluent)
+- [Hands-on Course - Introduction to Hybrid and Multicloud Architecture](https://developer.confluent.io/courses/hybrid-cloud/intro/)
+- [Overview of Cluster Linking Confluent Platform | Confluent Documentation](https://docs.confluent.io/platform/current/multi-dc-deployments/cluster-linking/index.html)
+- [Cluster Linking on Confluent Cloud for data sharing across multi-region clusters | Confluent Documentation](https://docs.confluent.io/cloud/current/multi-cloud/cluster-linking/index.html)
 
 ## Scaling
 

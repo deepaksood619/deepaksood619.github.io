@@ -26,3 +26,4 @@ from langchain import OpenAI, SQLDatabase, SQLDatabaseChain
 - [Natural Language to SQL using Google's Gemini Pro Model | SQL Database | Python - YouTube](https://www.youtube.com/watch?v=NUbYDCqojew)
 - [End To End Text To SQL LLM App Along With Querying SQL Database Using Google Gemini Pro - YouTube](https://www.youtube.com/watch?v=wFdFLWc-W4k)
 - [Pinterest's Text to SQL system through LLMs!](https://mlops.substack.com/p/pinterests-text-to-sql-system-through)
+- [**Amazon Q generative SQL in Amazon Redshift** Query Editor Public Preview Demo | Amazon Web Services - YouTube](https://www.youtube.com/watch?v=4N9IplToB-w)

@@ -122,6 +122,8 @@
 - [Roadmap: Data Engineering for Data Scientists - YouTube](https://www.youtube.com/watch?v=fusLAtA1Eu4&ab_channel=AndreasKretz)
 - [God Tier Data Engineering Roadmap 2024 with End-To-End Projects - YouTube](https://www.youtube.com/watch?v=HxdoBLc5_Qc&ab_channel=DarshilParmar)
 - [Roadmap: Data Engineering for Software Engineers - YouTube](https://www.youtube.com/live/0e4WfIUixRw)
+- [Roadmap to Becoming a Data Engineer In 2023](https://www.linkedin.com/pulse/roadmap-becoming-data-engineer-2023-arif-alam-/)
+- [Data Engineer Roadmap for 2024](https://www.scaler.com/blog/data-engineer-roadmap/)
 
 ## Resources
 

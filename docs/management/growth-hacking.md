@@ -158,6 +158,15 @@ https://www.lennysnewsletter.com/p/monthly-churn-benchmarks
 - Direct model - Directly sell products
 - Indirect model - Involve customers by creating trends
 
+## Product-Market Growth Matrix
+
+|                       | Products - Present                                                                          | Products - New                                                                                 |
+| --------------------- | ------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------- |
+| **Markets - Present** | [Market penetration](https://en.wikipedia.org/wiki/Market_penetration "Market penetration") | [Product development](https://en.wikipedia.org/wiki/Product_development "Product development") |
+| **Markets - New**     | [Market development](https://en.wikipedia.org/wiki/Market_development "Market development") | [Diversification](https://en.wikipedia.org/wiki/Diversification_(marketing_strategy))          |
+
+[Diversification (marketing strategy) - Wikipedia](https://en.wikipedia.org/wiki/Diversification_(marketing_strategy))
+
 ## HELS model
 
 ![image](../media/Growth-Hacking-image4.jpg)

@@ -25,6 +25,11 @@ At OpsTree, I spearheaded the creation of a data engineering vertical from the g
 - Working on Databricks to create centralized data warehouse with bronze, silver and gold layers
 - Creating and managing workflows/pipelines for ETL, ELT, Rollups, etc
 - Working with product and data analysts team to drive dashboard, on-chain analytics and company metrics
+- Led the new Data Engineering team, owning the data platform for a decentralised finance crypto startup.
+- Built and owned the foundational data lake to ingest data from the production and external systems.
+- Designed and implemented data models to enable BI developers and self-serve users, for Financial, Operational and Product analytics, improving the organizations analytical efficiency and reliability.
+- Enabled insight and data driven decisions through analysis and dashboards, using SQL, Tableau and Slack.
+- Mentored junior Data Engineers and BI Developers in technical, analytical, and career growth areas.
 
 ### Stashfin, Engineering Lead (September 2020 - Feb 2023)
 

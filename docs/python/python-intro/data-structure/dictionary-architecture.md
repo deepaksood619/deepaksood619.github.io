@@ -150,7 +150,7 @@ After a few shifts, perturb becomes 0, meaning just `i*5 + 1` is used. This is f
 
 https://www.data-structures-in-practice.com/hash-tables
 
-https://www.youtube.com/watch?v=npw4s1QTmPg
+[Raymond Hettinger Modern Python Dictionaries A confluence of a dozen great ideas PyCon 2017 - YouTube](https://www.youtube.com/watch?v=npw4s1QTmPg)
 
 ## [Why is it not possible to get dictionary values in O(1) time?](https://stackoverflow.com/questions/33294925/why-is-it-not-possible-to-get-dictionary-values-in-o1-time)
 

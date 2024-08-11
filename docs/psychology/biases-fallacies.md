@@ -380,6 +380,8 @@ For instance, the 6 francs that the shopkeeper spends on repairing the broken wi
 
 And that misconception is called the broken window fallacy.
 
+[Coaching centres are a sign of broken-window economics](https://theprint.in/national-interest/coaching-centres-are-a-sign-of-broken-window-economics-see-how-china-crushed-it-all-overnight/2205441/)
+
 ### [24 Biases That Come In Your Way While Making Money](https://www.youtube.com/watch?v=gRNqZzmmL-0)
 
 - Consistency & Commitment Bias

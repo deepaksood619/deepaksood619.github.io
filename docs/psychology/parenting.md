@@ -269,3 +269,5 @@ Why kicking out children after 18 years is important, let's say you are very wea
 - [How to Drop From Two Naps to One](https://www.whattoexpect.com/first-year/ask-heidi/dropping-morning-nap.aspx)
 - [Safe Sleep for Toddlers](https://www.whattoexpect.com/toddler/sleep/safe-sleep-for-toddlers-video)
 - [Why Is My Toddler Waking Up at Night?](https://www.whattoexpect.com/toddler/behavior/night-waking.aspx)
+- [Resist The Urge To Do This With Your Baby - YouTube](https://www.youtube.com/watch?v=rf3oQfneKIY)
+   	- Sucking is good for baby
