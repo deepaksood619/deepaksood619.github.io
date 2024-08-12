@@ -32,6 +32,15 @@ Share knowledge, expertise, and experiences using TensorFlow or any open-source 
 16. Final Reflections
 17. Thanks
 
+## Hackathon
+
+- [GitHub - google-gemini/cookbook: Examples and guides for using the Gemini API.](https://github.com/google-gemini/cookbook)
+- Go to https://aistudio.google.com/app/
+- Get your own API Key
+- Create API Key
+- Create API Key in new project
+- https://github.com/google-gemini/cookbook/blob/main/quickstarts/Prompting.ipynb
+
 ## Others
 
 - rag architecture

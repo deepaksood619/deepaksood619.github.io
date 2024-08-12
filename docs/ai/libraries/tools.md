@@ -65,13 +65,11 @@ https://github.com/horovod/horovod
 
 The fastest way to build custom ML tools
 
-https://towardsdatascience.com/coding-ml-tools-like-you-code-ml-models-ddba3357eace
-
-https://github.com/streamlit/streamlit
-
-https://www.freecodecamp.org/news/build-12-data-science-apps-with-python-and-streamlit
-
-[Generative AI and Streamlit: A perfect match](https://blog.streamlit.io/generative-ai-and-streamlit-a-perfect-match/)
+- [Streamlit • A faster way to build and share data apps](https://streamlit.io/cloud)
+- https://towardsdatascience.com/coding-ml-tools-like-you-code-ml-models-ddba3357eace
+- https://github.com/streamlit/streamlit
+- https://www.freecodecamp.org/news/build-12-data-science-apps-with-python-and-streamlit
+- [Generative AI and Streamlit: A perfect match](https://blog.streamlit.io/generative-ai-and-streamlit-a-perfect-match/)
 
 ## Metaflow
 

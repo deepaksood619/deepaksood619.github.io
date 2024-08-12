@@ -38,3 +38,15 @@ https://towardsdatascience.com/memory-management-in-python-6bea0c8aecc9
 https://strangemachines.io/articles/performant-python
 
 https://blog.esciencecenter.nl/parallel-programming-in-python-7fd62c90217d
+
+## Ray
+
+A fast and simple framework for building and running distributed applications. Ray is packaged with RLlib, a scalable reinforcement learning library, and Tune, a scalable hyperparameter tuning library.
+
+- https://ray.io
+- https://github.com/ray-project/ray
+- https://towardsdatascience.com/10x-faster-parallel-python-without-python-multiprocessing-e5017c93cce1
+- https://towardsdatascience.com/modern-parallel-and-distributed-python-a-quick-tutorial-on-ray-99f8d70369b8
+- [Ray Serve: Scalable and Programmable Serving — Ray 2.34.0](https://docs.ray.io/en/latest/serve/index.html)
+- [Anyscale | Scalable Compute for AI and Python](https://www.anyscale.com/)
+- [Scalable and Cost Efficient AI Workloads with AWS and Anyscale - YouTube](https://www.youtube.com/watch?v=pRiKZPk_-98)

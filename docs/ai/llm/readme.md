@@ -13,3 +13,4 @@
 - [Libraries](ai/llm/libraries.md)
 - [Tools](ai/llm/tools.md)
 - [LLM FinTech Use Cases](ai/llm/fintech-use-cases.md)
+- [RAG Hackathon Questions](ai/llm/rag-hackathon-questions.md)

@@ -26,22 +26,22 @@
 
 [Let’s Architect! Discovering Generative AI on AWS | AWS Architecture Blog](https://aws.amazon.com/blogs/architecture/lets-architect-generative-ai/)
 
-## Others
+## Building
 
 - [GitHub - karpathy/nanoGPT: The simplest, fastest repository for training/finetuning medium-sized GPTs.](https://github.com/karpathy/nanoGPT)
 
 ![LLM Working](../../media/llm-working.jpg)
 
-### How to train your ChatGPT
+## How to train your ChatGPT
 
-#### Stage 1: Pretraining
+### Stage 1: Pretraining
 
 1. Download ~10TB of text
 2. Get a cluster of ~6,000 GPUs
 3. Compress the text into a neural network, pay ~$2M, wait ~12 days
 4. Obtain base model
 
-#### Stage 2: Finetuning
+### Stage 2: Finetuning
 
 1. Write labeling instructions
 2. Hire people (or use scale.ai!), collect 100K high quality ideal Q&A responses, and/or comparisons
@@ -51,7 +51,7 @@
 6. Deploy
 7. Monitor, collect misbehaviors, go to step 1
 
-### LLM Security
+## LLM Security
 
 - Jailbreaking
 - Prompt injection
