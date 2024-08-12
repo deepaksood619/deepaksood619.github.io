@@ -189,7 +189,7 @@ Extensions that helps make obsidian better
 
 - **Confluence**
 - **Outline** - [GitHub - outline/outline: The fastest knowledge base for growing teams. Beautiful, realtime collaborative, feature packed, and markdown compatible.](https://github.com/outline/outline)
-   	- [Outline – Team knowledge base & wiki](https://www.getoutline.com/)
+	- [Outline – Team knowledge base & wiki](https://www.getoutline.com/)
 - [GitBook - Where technical teams document](https://www.gitbook.com/)
 - https://orgmode.org
 - https://www.orgroam.com

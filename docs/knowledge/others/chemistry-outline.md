@@ -35,7 +35,7 @@
 - [Organometallic chemistry](https://en.wikipedia.org/wiki/Organometallic_chemistry)
 - [Petrochemistry](https://en.wikipedia.org/wiki/Petrochemistry)
 - [Pharmacology](https://en.wikipedia.org/wiki/Pharmacology)
-   	- Pharmacovigilance is **the process and science of monitoring the safety of medicines and taking action to reduce the risks and increase the benefits of medicines**. It is a key public health function.
+	- Pharmacovigilance is **the process and science of monitoring the safety of medicines and taking action to reduce the risks and increase the benefits of medicines**. It is a key public health function.
 - [Photochemistry](https://en.wikipedia.org/wiki/Photochemistry)
 - [Physical chemistry](https://en.wikipedia.org/wiki/Physical_chemistry)
 - [Physical organic chemistry](https://en.wikipedia.org/wiki/Physical_organic_chemistry)

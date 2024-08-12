@@ -333,8 +333,8 @@ https://www.quora.com/Is-corn-flour-same-as-makke-maize-ka-ata
 - Corn oil
 - canola oil
 - Mustard oil
-   	- [Explained: Why consumption of mustard oil is banned in the US and Europe](https://timesofindia.indiatimes.com/life-style/food-news/explained-why-consumption-of-mustard-oil-is-banned-in-the-us-and-europe/articleshow/111333738.cms)
-   	- [​The mustard oil mystery: Why is it banned in the US and Europe?](https://timesofindia.indiatimes.com/life-style/health-fitness/health-news/the-mustard-oil-mystery-why-is-it-banned-in-the-us-and-europe/photostory/106086699.cms)
+	- [Explained: Why consumption of mustard oil is banned in the US and Europe](https://timesofindia.indiatimes.com/life-style/food-news/explained-why-consumption-of-mustard-oil-is-banned-in-the-us-and-europe/articleshow/111333738.cms)
+	- [​The mustard oil mystery: Why is it banned in the US and Europe?](https://timesofindia.indiatimes.com/life-style/health-fitness/health-news/the-mustard-oil-mystery-why-is-it-banned-in-the-us-and-europe/photostory/106086699.cms)
 - Avocado oil
 - Sesame oil
 - Coconut oil

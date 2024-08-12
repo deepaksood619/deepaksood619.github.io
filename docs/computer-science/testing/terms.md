@@ -404,11 +404,11 @@ https://www.tutorialspoint.com/software_testing_dictionary/index.htm
     - **Focus on Code**: Tests are based on coverage of code statements, branches, paths, and conditions.
     - **Examples of Techniques**: Unit testing, integration testing (to some extent), and static code analysis.
 - **Requirements**
-   	- Technology used (coding language)
-   	- Number of repositories
+	- Technology used (coding language)
+	- Number of repositories
       		- No of files (in source code) in each repository
       		- No of total lines of code in each repository
-   	- For white box we need code review and unit testing
+	- For white box we need code review and unit testing
 
 [What is White Box Testing? (Example, Types, & Techniques) | BrowserStack](https://www.browserstack.com/guide/white-box-testing)
 

@@ -383,7 +383,7 @@ Besides radon, there are various other packages and Flake8 plugins:
 - [flake8-expression-complexity](https://pypi.org/project/flake8-expression-complexity/): Make sure that single expressions are not too complicated; similar to cyclomatic complexity for functions / classes.
 - [flake8-functions](https://pypi.org/project/flake8-functions/): Report too long functions and functions with too many arguments
 - [mccabe](https://pypi.org/project/mccabe/): This is used by a couple of other tools and projects
-   	- [GitHub - PyCQA/mccabe: McCabe complexity checker for Python](https://github.com/PyCQA/mccabe)
+	- [GitHub - PyCQA/mccabe: McCabe complexity checker for Python](https://github.com/PyCQA/mccabe)
 - [wily](https://pypi.org/project/wily/): A command-line application for tracking, reporting on the complexity of Python tests and applications.
 - [xenon](https://pypi.org/project/xenon/): Relies on radon
 

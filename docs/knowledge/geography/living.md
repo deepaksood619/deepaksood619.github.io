@@ -81,4 +81,4 @@ Studies have pointed out that Okinawans have lower rates of age-related conditio
 
 - [new-home-place-house](knowledge/geography/new-home-place-house.md)
 - [Please India. Stop This. - YouTube](https://www.youtube.com/watch?v=Be-QX2fkb30&ab_channel=MohakMangal)
-   	- Lack of civic sense and education
+	- Lack of civic sense and education

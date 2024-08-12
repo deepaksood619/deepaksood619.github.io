@@ -5,113 +5,113 @@
 ### Explore ideas about
 
 - Document processing
-   	- Content tagging with NLP
-   	- Knowledge mining for customer feedback
-   	- Large-scale custom NLP
+	- Content tagging with NLP
+	- Knowledge mining for customer feedback
+	- Large-scale custom NLP
 - Image processing
-   	- Image classification with CNNs
-   	- Retail assistant with visual capabilities
-   	- Visual assistant
-   	- Vision classifier model
+	- Image classification with CNNs
+	- Retail assistant with visual capabilities
+	- Visual assistant
+	- Vision classifier model
 - Audio processing
-   	- Keyword digital text processing
+	- Keyword digital text processing
 - Predictive analytics
-   	- Customer churn prediction
-   	- Personalized offers
-   	- Marketing optimization
-   	- Personalized marketing solutions
+	- Customer churn prediction
+	- Personalized offers
+	- Marketing optimization
+	- Personalized marketing solutions
 - Chat bots
-   	- Search and query a knowledge base
+	- Search and query a knowledge base
 - AI at the edge
-   	- AI at the edge with Azure Stack Hub
-   	- Disconnected AI at the edge with Azure Stack Hub
-   	- Video ingestion and object detection on the edge
+	- AI at the edge with Azure Stack Hub
+	- Disconnected AI at the edge with Azure Stack Hub
+	- Video ingestion and object detection on the edge
 - Document enrichment
-   	- AI enrichment with Cognitive Search
+	- AI enrichment with Cognitive Search
 - MLOps
-   	- Model deployment to AKS
-   	- Orchestrate MLOps with Azure Databricks
-   	- Deploy AI and ML at the edge
-   	- Many models ML with Spark
-   	- Many models with Machine Learning
+	- Model deployment to AKS
+	- Orchestrate MLOps with Azure Databricks
+	- Deploy AI and ML at the edge
+	- Many models ML with Spark
+	- Many models with Machine Learning
 - Other ideas
-   	- Azure Machine Learning architecture
-   	- Autonomous systems
-   	- Data science and machine learning
+	- Azure Machine Learning architecture
+	- Autonomous systems
+	- Data science and machine learning
 
 ### Design architectures
 
 - Chat bots
-   	- Baseline end-to-end chat with OpenAI
+	- Baseline end-to-end chat with OpenAI
 - Document processing
-   	- Automate document classification
-   	- Automate document processing
-   	- Automate PDF form processing
-   	- Build custom document processing models
-   	- Multiple indexers with Azure Cognitive Search
+	- Automate document classification
+	- Automate document processing
+	- Automate PDF form processing
+	- Build custom document processing models
+	- Multiple indexers with Azure Cognitive Search
 - Video and image classification
-   	- Automate video analysis
-   	- Image classification
+	- Automate video analysis
+	- Image classification
 - Audio processing
-   	- Speech transcription pipeline
-   	- Extract and analyze call center data
+	- Speech transcription pipeline
+	- Extract and analyze call center data
 - Predictive analytics
-   	- Determine customer lifetime and churn
+	- Determine customer lifetime and churn
 - Batch scoring
-   	- Batch scoring for deep learning
-   	- Batch scoring with Python
-   	- Batch scoring with R
-   	- Batch scoring with Spark on Databricks
+	- Batch scoring for deep learning
+	- Batch scoring with Python
+	- Batch scoring with R
+	- Batch scoring with Spark on Databricks
 - Recommendations
-   	- Real-time recommendation API
-   	- [Social media analytics solution](ai/social-media-analytics-solution.md)
+	- Real-time recommendation API
+	- [Social media analytics solution](ai/social-media-analytics-solution.md)
 - Monitoring
-   	- Monitor OpenAI models
+	- Monitor OpenAI models
 - Regulatory
-   	- Secure research for regulated data
+	- Secure research for regulated data
 
 ### Apply guidance
 
 - Machine learning options
 - Document processing
-   	- OpenAI GPT-3 summarization
-   	- Build language model pipelines
+	- OpenAI GPT-3 summarization
+	- Build language model pipelines
 - Audio processing
-   	- Custom speech-to-text overview
-   	- Custom speech-to-text
-   	- Conversation summarization
+	- Custom speech-to-text overview
+	- Custom speech-to-text
+	- Conversation summarization
 - MLOps
-   	- Machine learning operations (MLOps) v2
-   	- MLOps for Python models
-   	- Network security for MLOps
-   	- MLOps maturity model
-   	- Upscale ML lifecycle with MLOps
+	- Machine learning operations (MLOps) v2
+	- MLOps for Python models
+	- Network security for MLOps
+	- MLOps maturity model
+	- Upscale ML lifecycle with MLOps
 - Team Data Science Process
-   	- Overview
-   	- Lifecycle
+	- Overview
+	- Lifecycle
       		- Overview
       		- 1. Business understanding
       		- 2. Data acquisition and understanding
       		- 3. Modeling
       		- 4. Deployment
       		- 5. Customer acceptance
-   	- Roles and tasks
+	- Roles and tasks
       		- Overview
       		- Group manager
       		- Team lead
       		- Project lead
       		- Individual contributor
-   	- Development
+	- Development
       		- Agile development
       		- Collaborative coding with Git
       		- Execute data science tasks
       		- Code testing
       		- Track progress
-   	- Operationalization
+	- Operationalization
       		- DevOps - CI/CD
-   	- Training
+	- Training
       		- For data scientists
-   	- How To
+	- How To
       		- Set up data science environments
          			- Environment setup
          			- Platforms and tools
@@ -154,12 +154,12 @@
 ### OpenAI
 
 - Explore ideas about
-   	- Search and query a knowledge base
+	- Search and query a knowledge base
 - Design architectures
-   	- Baseline end-to-end chat with OpenAI
-   	- Extract and analyze call center data
-   	- Monitor OpenAI models
+	- Baseline end-to-end chat with OpenAI
+	- Extract and analyze call center data
+	- Monitor OpenAI models
 - Apply guidance
-   	- Build language model pipelines
-   	- OpenAI GPT-3 summarization
-   	- Conversation summarization
+	- Build language model pipelines
+	- OpenAI GPT-3 summarization
+	- Conversation summarization

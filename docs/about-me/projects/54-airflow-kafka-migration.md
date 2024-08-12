@@ -13,11 +13,11 @@ Our project involved migrating from Confluent Kafka to an on-prem Kafka setup on
 - **KEDA**: Kubernetes-based Event Driven Autoscaling for scaling up Airflow workers.
 - **Terraform**: Infrastructure as Code (IaC) tool to set up all the infrastructure.
 - **Open Source Airflow**: For workflow orchestration.
-   	- **Flower**: Monitoring tool for Celery workers.
-   	- **Redis**: Used as the backend for Celery in Airflow.
+	- **Flower**: Monitoring tool for Celery workers.
+	- **Redis**: Used as the backend for Celery in Airflow.
 - **Open Source Kafka**: Message broker for handling streaming data.
-   	- **Kafka UI**: For monitoring Kafka clusters.
-   	- **Kafka Mirror**: For migration of Kafka topics.
+	- **Kafka UI**: For monitoring Kafka clusters.
+	- **Kafka Mirror**: For migration of Kafka topics.
 - **GitHub Actions**: For automation of deployment, user creation, and other tasks.
 - **Datadog**: Full end-to-end monitoring, logging, and alerting, integrated with Slack for priority alerts.
 - **Debezium**: Proof of Concept (PoC) for Change Data Capture (CDC) from PostgreSQL to MongoDB using Kafka.

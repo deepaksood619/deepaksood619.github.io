@@ -217,27 +217,27 @@ https://www.slideshare.net/oom65/file-format-benchmarks-avro-json-orc-parquet
 ## Compression (zlib)
 
 - In 1 mb of memory
-   	- raw 7304 (19 kv pair)
-   	- snappy 3656 (40 kv pair)
-   	- zlib 2580 (62 kv pair)
+	- raw 7304 (19 kv pair)
+	- snappy 3656 (40 kv pair)
+	- zlib 2580 (62 kv pair)
 - number of messages in json - 52 messages
-   	- Raw - 18733 B = 18.7 KB
-   	- zlib - 3846 B - 3.8 KB
+	- Raw - 18733 B = 18.7 KB
+	- zlib - 3846 B - 3.8 KB
 - 50 messages - 18 KB
 - 150 messages - 54 KB
-   	- Zlib compression - 150 messages - 11.4 KB
-   	- 100000 * 150 = 15000000 = 15 millions / day
-   	- 100000 * 54 = 5400000 KB / day = 5.4 GB / day = 162 GB / month
-   	- 100000 * 11.4 = 1140000 KB / day = 1.14 GB / day = 34.2 GB / month
-   	- 1356011*4 = 5424044* 10 = 54240440 = 54240440 = 54 GB / month
+	- Zlib compression - 150 messages - 11.4 KB
+	- 100000 * 150 = 15000000 = 15 millions / day
+	- 100000 * 54 = 5400000 KB / day = 5.4 GB / day = 162 GB / month
+	- 100000 * 11.4 = 1140000 KB / day = 1.14 GB / day = 34.2 GB / month
+	- 1356011*4 = 5424044* 10 = 54240440 = 54240440 = 54 GB / month
 - Daily hits: 50000 * 52 = 2600000 messages / day = 2.6 Million msgs/day
 - 50000 * 3.8 = 190000 KB = 190 MB / day
-   	- 190 * 30 = 5,700 MB / month = 5.7 GB / month
-   	- 5.7 * 6 = 34.2
+	- 190 * 30 = 5,700 MB / month = 5.7 GB / month
+	- 5.7 * 6 = 34.2
 - 50000* 18.7 = 935000 = 935 MB /day
-   	- 935 * 30 = 28,050 / month
+	- 935 * 30 = 28,050 / month
 - 2600000* 3.8 = 9880000 KB = 9.9 GB / day
-   	- 9.9 * 30 = 297 GB / month
+	- 9.9 * 30 = 297 GB / month
 
 ## Things to consider
 

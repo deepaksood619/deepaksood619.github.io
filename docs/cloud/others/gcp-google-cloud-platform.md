@@ -244,9 +244,9 @@ API management apps built on Google Cloud
 ## Management Tools
 
 - Stackdriver Overview
-   	- [Ops Agent overview  |  Google Cloud Observability](https://cloud.google.com/stackdriver/docs/solutions/agents/ops-agent)
+	- [Ops Agent overview  |  Google Cloud Observability](https://cloud.google.com/stackdriver/docs/solutions/agents/ops-agent)
 - Cloud Monitoring
-   	- [Cloud Monitoring | Google Cloud](https://cloud.google.com/monitoring)
+	- [Cloud Monitoring | Google Cloud](https://cloud.google.com/monitoring)
 - Logging
 - Error Reporting
 - Trace

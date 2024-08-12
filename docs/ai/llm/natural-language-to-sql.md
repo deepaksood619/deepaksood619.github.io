@@ -21,7 +21,7 @@ from langchain import OpenAI, SQLDatabase, SQLDatabaseChain
 
 - [Natural Language to SQL | LangChain, SQL Database & OpenAI LLMs - YouTube](https://www.youtube.com/watch?v=w-eTS8YlbZ4)
 - [Generative AI use case: Unified Natural Language Query (LLM to SQL) - YouTube](https://www.youtube.com/playlist?list=PL-pTHQz4RcBbJbifxCcJp6pJocNj1Dmfp)
-   	- [Ep. 3 - This is the “Killer App” of Enterprise AI - YouTube](https://www.youtube.com/watch?v=zuLxXDdEVEE)
+	- [Ep. 3 - This is the “Killer App” of Enterprise AI - YouTube](https://www.youtube.com/watch?v=zuLxXDdEVEE)
 - [Chat with SQL and Tabular Databases using LLM Agents (DON'T USE RAG!) - YouTube](https://www.youtube.com/watch?v=ZtltjSjFPDg)
 - [Natural Language to SQL using Google's Gemini Pro Model | SQL Database | Python - YouTube](https://www.youtube.com/watch?v=NUbYDCqojew)
 - [End To End Text To SQL LLM App Along With Querying SQL Database Using Google Gemini Pro - YouTube](https://www.youtube.com/watch?v=wFdFLWc-W4k)

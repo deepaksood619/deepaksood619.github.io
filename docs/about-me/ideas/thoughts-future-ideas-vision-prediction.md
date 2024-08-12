@@ -16,10 +16,10 @@
 - Blockchain
 - Long life
 - Government Need / Government Requirement
-   	- Decentralization / democratization - passive homes - energy independence - super efficient solar cells / small scale wind farms
-   	- Water - rain water harvesting
-   	- Roads / public transport - personal air vehicle- VTOL
-   	- Law and order - security from other humans - Everyone has everything
+	- Decentralization / democratization - passive homes - energy independence - super efficient solar cells / small scale wind farms
+	- Water - rain water harvesting
+	- Roads / public transport - personal air vehicle- VTOL
+	- Law and order - security from other humans - Everyone has everything
 
 ## Thoughts
 

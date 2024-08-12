@@ -28,10 +28,10 @@ Some transformations in IICS include:
 
 - [Secure Agents](https://docs.informatica.com/cloud-common-services/administrator/current-version/runtime-environments/secure-agents.html)
 - [Cloud Data Governance and Data Catalog (CDGC) – Predictive Data Intelligence | Informatica India](https://www.informatica.com/in/products/data-governance/cloud-data-governance-and-catalog.html)
-   	- [Best Practices for Implementing Cloud Data Governance and Catalog - YouTube](https://www.youtube.com/watch?v=E5Bo1AUYLS8)
+	- [Best Practices for Implementing Cloud Data Governance and Catalog - YouTube](https://www.youtube.com/watch?v=E5Bo1AUYLS8)
 - Informatica IDMC - Intelligent Data Management Cloud
-   	- [What is API Management? | Informatica India](https://www.informatica.com/in/resources/articles/api-management-and-informatica-intelligent-cloud-services.html)
-   	- [API Lifecycle Management Tools and Solutions | Informatica India](https://www.informatica.com/in/products/cloud-integration/integration-cloud/api-management.html)
+	- [What is API Management? | Informatica India](https://www.informatica.com/in/resources/articles/api-management-and-informatica-intelligent-cloud-services.html)
+	- [API Lifecycle Management Tools and Solutions | Informatica India](https://www.informatica.com/in/products/cloud-integration/integration-cloud/api-management.html)
 
 ### Links
 

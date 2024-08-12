@@ -305,9 +305,9 @@ innodb_flush_log_at_timeout
 - Aurora cluster can modify storage option (standard to I/O-Optimized) once in a month and switch back anytime
 - Available from Aurora PostgreSQL 13.x and Aurora MySQL 3.0.3.1 onwards
 - Compatible with
-   	- Intel-based Aurora database instance types such as t3, r5, r6i
-   	- Graviton-based database instance types such as t4g, r6g, r7g, and x2g
-   	- Aurora Serverless v2
+	- Intel-based Aurora database instance types such as t3, r5, r6i
+	- Graviton-based database instance types such as t4g, r6g, r7g, and x2g
+	- Aurora Serverless v2
 - Aurora Global database cluster can have different Aurora storage config at cluster level i.e. primary & secondary clusters can configure with different configuration
 
 [Getting Started with Amazon Aurora I/O-Optimized - AWS Databases in 15 - YouTube](https://www.youtube.com/watch?v=OlFeaVd6Ll4)
