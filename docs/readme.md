@@ -15,8 +15,8 @@ If this is your first time visiting this wiki, start from the outline below and 
 ## Outline
 
 - [About me](about-me/readme.md)
-	- [Experience](about-me/experience.md)
-	- [Projects](about-me/projects/readme.md)
+    - [Experience](about-me/experience.md)
+    - [Projects](about-me/projects/readme.md)
 - [Computer Science](computer-science/readme.md)
     - [AI](ai/readme.md)
     - [Algorithms](algorithms/readme.md)

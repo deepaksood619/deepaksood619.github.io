@@ -6,19 +6,19 @@
 ### Kafka Configurations
 
 - General Broker
-	- broker.id
-	- port
-	- zookeeper.connect
-	- log.dirs
-	- num.recovery.threads.per.data.dir
-	- auto.create.topics.enable
+    - broker.id
+    - port
+    - zookeeper.connect
+    - log.dirs
+    - num.recovery.threads.per.data.dir
+    - auto.create.topics.enable
 - Topic Defaults
-	- num.partitions
-	- log.retention.ms
-	- log.retention.bytes
-	- log.segment.bytes
-	- log.segment.ms
-	- message.max.bytes
+    - num.partitions
+    - log.retention.ms
+    - log.retention.bytes
+    - log.segment.bytes
+    - log.segment.ms
+    - message.max.bytes
 
 ## Administering Kafka
 

@@ -105,7 +105,7 @@
 - [**SymbolicAI**](https://github.com/Xpitfire/symbolicai) - Compositional Differentiable Programming Library.
 - [**zep**](https://github.com/getzep/zep) - a long-term memory store for LLM / Chatbot applications. Easily add relevant documents, chat history memory & rich user data to your LLM app's prompts.
 - [GitHub - ComposioHQ/composio: Composio equips agents with well-crafted tools empowering them to tackle complex tasks](https://github.com/ComposioHQ/composio/)
-	- [Overview - Composio](https://docs.composio.dev/introduction/intro/overview)
+    - [Overview - Composio](https://docs.composio.dev/introduction/intro/overview)
 
 ### LLM App Building
 

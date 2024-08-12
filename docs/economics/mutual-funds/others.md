@@ -36,8 +36,8 @@ https://www.investopedia.com/articles/investing/100515/what-exactly-are-arbitrag
 ## Infrastructure Fund
 
 - QUANT Infrastructure Fund / HDFC Infrastructure Fund
-	- [QUANT Infrastructure Fund Direct Plan Review in 2024 | Best Infrastructure Mutual Fund in 2024 - YouTube](https://www.youtube.com/watch?v=5ViBAAHQZCk&ab_channel=CoffeeThinkers)
-	- [Quant Infrastructure Fund vs HDFC Infrastructure Fund: Unveiling the Ultimate Investment Face-off! - YouTube](https://www.youtube.com/watch?v=jMYvwnpkQYE&ab_channel=InvestwithSKSingh)
+    - [QUANT Infrastructure Fund Direct Plan Review in 2024 | Best Infrastructure Mutual Fund in 2024 - YouTube](https://www.youtube.com/watch?v=5ViBAAHQZCk&ab_channel=CoffeeThinkers)
+    - [Quant Infrastructure Fund vs HDFC Infrastructure Fund: Unveiling the Ultimate Investment Face-off! - YouTube](https://www.youtube.com/watch?v=jMYvwnpkQYE&ab_channel=InvestwithSKSingh)
 
 ## CAT Bonds (Catastrophe Bonds)
 

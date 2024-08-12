@@ -112,7 +112,7 @@ https://developer.android.com/codelabs/android-hilt
 - https://www.toptal.com/android/functional-reactive-programming-part-2
 - [GitHub - Genymobile/scrcpy: Display and control your Android device](https://github.com/Genymobile/scrcpy)
 - Deployment Patterns
-	- [Soft Launch, Dark Launch, and Canary Release for Mobile Apps | Instabug](https://www.instabug.com/blog/soft-launch-dark-launch-and-canary-release-for-mobile-apps)
-	- [Gradually roll out Firebase App Check using Firebase Remote Config](https://firebase.google.com/codelabs/app-attest-remote-config#0)
-	- [How to Stage Rollout Features using Firebase Remote Config (Android & iOS) - Rebecca Franks - @riggaroo](https://riggaroo.dev/stage-rollout-features-firebase-remote-config-ios-android/)
-	- [Android Developers Blog: Staged releases allow you to bring new features to your users quickly, safely and regularly.](https://android-developers.googleblog.com/2018/09/staged-releases-allow-you-to-bring-new.html)
+    - [Soft Launch, Dark Launch, and Canary Release for Mobile Apps | Instabug](https://www.instabug.com/blog/soft-launch-dark-launch-and-canary-release-for-mobile-apps)
+    - [Gradually roll out Firebase App Check using Firebase Remote Config](https://firebase.google.com/codelabs/app-attest-remote-config#0)
+    - [How to Stage Rollout Features using Firebase Remote Config (Android & iOS) - Rebecca Franks - @riggaroo](https://riggaroo.dev/stage-rollout-features-firebase-remote-config-ios-android/)
+    - [Android Developers Blog: Staged releases allow you to bring new features to your users quickly, safely and regularly.](https://android-developers.googleblog.com/2018/09/staged-releases-allow-you-to-bring-new.html)

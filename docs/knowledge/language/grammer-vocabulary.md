@@ -201,9 +201,9 @@ https://myenglishmatters.com/2018/06/28/whats-the-difference-between-has-been-ha
 **noun**
 
 - an accomplice of a confidence trickster or swindler who poses as a genuine customer to entice or encourage others
-	- I used to be a shill in a Reno gambling club | the agency is a shill for the nuclear power industry figurative
+    - I used to be a shill in a Reno gambling club | the agency is a shill for the nuclear power industry figurative
 - a person who pretends to give an impartial endorsement of something in which they themselves have an interest
-	- a megamillionaire who makes more money as a shill for corporate products than he does for playing basketball
+    - a megamillionaire who makes more money as a shill for corporate products than he does for playing basketball
 
 **verb**
 

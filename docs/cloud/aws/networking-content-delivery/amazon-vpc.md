@@ -133,8 +133,8 @@ An [interface endpoint](https://docs.aws.amazon.com/vpc/latest/userguide/vpce-in
 A [gateway endpoint](https://docs.aws.amazon.com/vpc/latest/userguide/vpce-gateway.html) is a gateway that you specify as a target for a route in your route table for traffic destined to a supported AWS service. The following AWS services are supported:
 
 - Amazon S3
-	- S3 Endpoint is almost always better than NAT Gateway.
-	- [Gateway endpoints for Amazon S3 - Amazon Virtual Private Cloud](https://docs.aws.amazon.com/vpc/latest/privatelink/vpc-endpoints-s3.html)
+    - S3 Endpoint is almost always better than NAT Gateway.
+    - [Gateway endpoints for Amazon S3 - Amazon Virtual Private Cloud](https://docs.aws.amazon.com/vpc/latest/privatelink/vpc-endpoints-s3.html)
 - DynamoDB
 
 https://docs.aws.amazon.com/vpc/latest/userguide/vpc-endpoints.html

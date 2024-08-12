@@ -49,8 +49,8 @@ To successfully understand how MirrorMaker 2 works, one needs to keep in mind th
 - Failover logic is application-specific and can be time-consuming to set up and maintain
 - Changes to MirrorMaker 2 must be made on the properties file and requires the restart of the connect cluster
 - Scaling requires significant overhead
-	- Requires 4 connectors and 3 internal topics
-	- Each destination cluster needs a MirrorMaker 2 connector configured
+    - Requires 4 connectors and 3 internal topics
+    - Each destination cluster needs a MirrorMaker 2 connector configured
 
 ### Offset Mapping
 

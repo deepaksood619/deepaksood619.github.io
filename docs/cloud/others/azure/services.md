@@ -159,7 +159,7 @@ Build, manage and continuously deliver cloud applications - using any platform o
 2. [Visual Studio Code](https://azure.microsoft.com/en-in/products/visual-studio-code/) - A powerful, lightweight code editor for cloud development
 3. [SDKs](https://azure.microsoft.com/en-in/downloads/) - Get the SDKs and command-line tools you need
 4. [Azure DevOps](https://azure.microsoft.com/en-in/services/devops/) - Services for teams to share code, track work and ship software
-	1. Previously called as  Team Foundation Server (TFS)
+    1. Previously called as  Team Foundation Server (TFS)
 5. [Azure Pipelines](https://azure.microsoft.com/en-in/services/devops/pipelines/) - Continuously build, test and deploy to any platform and cloud
 6. [Azure Lab Services](https://azure.microsoft.com/en-in/services/lab-services/) - Set up labs for classrooms, trials, development and testing and other scenarios
 7. [Azure DevTest Labs](https://azure.microsoft.com/en-in/services/devtest-lab/) - Quickly create environments using reusable templates and artifacts
@@ -193,7 +193,7 @@ Get Azure innovation everywhere - bring the agility and innovation of cloud comp
 6. [Azure Database for PostgreSQL](https://azure.microsoft.com/en-in/services/postgresql/) - Managed PostgreSQL database service for app developers
 7. [Azure Stack](https://azure.microsoft.com/en-in/overview/azure-stack/) - Build and run innovative hybrid applications across cloud boundaries
 8. [Azure Arc – Hybrid and Multi-Cloud Management and Solution](https://azure.microsoft.com/en-in/products/azure-arc/) - Bring Azure services and management to any infrastructure
-	1. Azure Arc is a bridge that extends the Azure platform to help you build applications and services with the flexibility to run across datacenters, at the edge, and in multicloud environments. Develop cloud-native applications with a consistent development, operations, and security model. Azure Arc runs on both new and existing hardware, virtualization and Kubernetes platforms, IoT devices, and integrated systems. Do more with less by leveraging your existing investments to modernize with cloud-native solutions.
+    1. Azure Arc is a bridge that extends the Azure platform to help you build applications and services with the flexibility to run across datacenters, at the edge, and in multicloud environments. Develop cloud-native applications with a consistent development, operations, and security model. Azure Arc runs on both new and existing hardware, virtualization and Kubernetes platforms, IoT devices, and integrated systems. Do more with less by leveraging your existing investments to modernize with cloud-native solutions.
 9. [Azure IoT Edge](https://azure.microsoft.com/en-in/services/iot-edge/) - Extend cloud intelligence and analytics to edge devices
 
 ## Identity (4)
@@ -255,8 +255,8 @@ Simplify, automate and optimise the management and compliance of your cloud reso
 9. [Azure Service Health](https://azure.microsoft.com/en-in/features/service-health/) - Personalized guidance and support for when issues in Azure services affect you
 10. [Microsoft Azure portal](https://azure.microsoft.com/en-in/features/azure-portal/) - Build, manage, and monitor all Azure products in a single, unified console
 11. [Azure Resource Manager](https://azure.microsoft.com/en-in/features/resource-manager/) - Simplify how you manage your app resources
-	1. [Templates overview - Azure Resource Manager | Microsoft Learn](https://learn.microsoft.com/en-us/azure/azure-resource-manager/templates/overview)
-	2. [Deploy template - Azure portal - Azure Resource Manager | Microsoft Learn](https://learn.microsoft.com/en-us/azure/azure-resource-manager/templates/quickstart-create-templates-use-the-portal)
+    1. [Templates overview - Azure Resource Manager | Microsoft Learn](https://learn.microsoft.com/en-us/azure/azure-resource-manager/templates/overview)
+    2. [Deploy template - Azure portal - Azure Resource Manager | Microsoft Learn](https://learn.microsoft.com/en-us/azure/azure-resource-manager/templates/quickstart-create-templates-use-the-portal)
 12. [Cloud Shell](https://azure.microsoft.com/en-in/features/cloud-shell/) - Streamline Azure administration with a browser-based shell
 13. [Azure mobile app](https://azure.microsoft.com/en-in/features/azure-portal/mobile-app/) - Stay connected to your Azure resources - anytime, anywhere
 14. [Azure Policy](https://azure.microsoft.com/en-in/services/azure-policy/) - Implement corporate governance and standards at scale for Azure resources

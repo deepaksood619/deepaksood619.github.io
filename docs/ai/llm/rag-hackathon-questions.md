@@ -23,14 +23,14 @@ Data : Sample resumes
 Build an Al-powered insurance claims processing application that leverages large language models (LLMs) to automate key tasks, improve accuracy, and expedite claim resolution. The lapplication should:
 
 1. Intelligent Data Extraction
-	1. Use LLMs to intelligently extract relevant information from claims forms (PDFs, images, text)
-	2. Handle variations in form formats, languages, and terminology
+    1. Use LLMs to intelligently extract relevant information from claims forms (PDFs, images, text)
+    2. Handle variations in form formats, languages, and terminology
 2. Policy Verification
-	1. Ingest and comprehend insurance policy documents
-	2. Cross-reference extracted claim details against policy terms and coverage
+    1. Ingest and comprehend insurance policy documents
+    2. Cross-reference extracted claim details against policy terms and coverage
 3. Initial Claim Decision
-	1. Leverage LLM's natural language understanding to analyze claim validity
-	2. Generate initial claim decisions (approve, deny, request more info) with rationale
+    1. Leverage LLM's natural language understanding to analyze claim validity
+    2. Generate initial claim decisions (approve, deny, request more info) with rationale
 
 Data : Historical claims data, insurance policies, and claims forms.
 
@@ -39,14 +39,14 @@ Data : Historical claims data, insurance policies, and claims forms.
 To develop a chatbot that can ingest and analyze large amounts of financial data in multiple formats (e.g., PDF, documents, images, videos) using a multi-modal model, and provide detailed insights into |market analysis, trends, company performance, and investment decisions.
 
 1. Multimodal Data Ingestion
-	1. Use state-of-the-art multimodal models to process text, images, PDFs, videos, and other data formats
-	2. Create vector embeddings for efficient retrieval and analysis
+    1. Use state-of-the-art multimodal models to process text, images, PDFs, videos, and other data formats
+    2. Create vector embeddings for efficient retrieval and analysis
 2. Information Retrieval and Extraction
-	1. " Leverage retrieval-augmented generation(RAG) models to scan through large volumes of data
-	2. Extract relevant information, insights, and sentiment related to companies, industries, and markets
+    1. " Leverage retrieval-augmented generation(RAG) models to scan through large volumes of data
+    2. Extract relevant information, insights, and sentiment related to companies, industries, and markets
 3. Natural Language Interface
-	1. Provide a conversational interface for users to ask questions and receive detailed analysis
-	2. Support queries on market trends, company performance, investment opportunities, and more
+    1. Provide a conversational interface for users to ask questions and receive detailed analysis
+    2. Support queries on market trends, company performance, investment opportunities, and more
 
 Data : Financial data in multiple formats, including news articles, market reports, and social media data.
 
@@ -55,15 +55,15 @@ Data : Financial data in multiple formats, including news articles, market repor
 Develop an Al-powered application that can understand product images, generate multiple relevant backgrounds, and manipulate the images based on customer prompts or requirements. The application should:
 
 1. Product Image Understanding
-	1. Use computer vision and multimodal models to analyze and comprehend the product in a given image
-	2. Identify the product category, features, and relevant contextual information
+    1. Use computer vision and multimodal models to analyze and comprehend the product in a given image
+    2. Identify the product category, features, and relevant contextual information
 2. Background Generation/Replacement
-	1. Leverage generative Al models to create multiple background variations for the product image
-	2. Ensure the generated backgrounds are contextually relevant and visually appealing
-	3. For product images with existing backgrounds, provide the ability to replace the background with a new, relevant one
+    1. Leverage generative Al models to create multiple background variations for the product image
+    2. Ensure the generated backgrounds are contextually relevant and visually appealing
+    3. For product images with existing backgrounds, provide the ability to replace the background with a new, relevant one
 3. Customer Prompt-based Image Manipulation
-	1. Allow customers to provide natural language prompts or instructions for modifying the product image
-	2. Use multimodal mode!s to understand the prompts and make the requested changes (e.g.,change product color, add accessories, adjust lighting, etc.)
+    1. Allow customers to provide natural language prompts or instructions for modifying the product image
+    2. Use multimodal mode!s to understand the prompts and make the requested changes (e.g.,change product color, add accessories, adjust lighting, etc.)
 
 Data: Product images with and without backgrounds, and customer prompts for image updates.
 
@@ -97,14 +97,14 @@ Here's how GenAI personalizes the search:
 Develop an Al-powered application that can intelligently summarize online product reviews, |providing users with a concise and insightful overview. The application should:
 
 1. Review Data Ingestion
-	1. Collect and ingest product reviews from various e-commerce platforms (Amazon, Walmart, Best Buy, etc.)
-	2. Handle reviews in different languages and formats (text, images, videos)
+    1. Collect and ingest product reviews from various e-commerce platforms (Amazon, Walmart, Best Buy, etc.)
+    2. Handle reviews in different languages and formats (text, images, videos)
 2. Sentiment Analysis
-	1. Use natural language processing (NLP) and multimodal models to analyze the sentiment of each review (positive, negative, neutral)
-	2. ldentify and categorize reviews based on sentiment scores
+    1. Use natural language processing (NLP) and multimodal models to analyze the sentiment of each review (positive, negative, neutral)
+    2. ldentify and categorize reviews based on sentiment scores
 3. Key Aspect Extraction
-	1. Extract and categorize key aspects or topics discussed in the reviews (e.g., product quality, features, customer service, value for money)
-	2. Identify the most frequently mentioned aspects and their associated sentiments
+    1. Extract and categorize key aspects or topics discussed in the reviews (e.g., product quality, features, customer service, value for money)
+    2. Identify the most frequently mentioned aspects and their associated sentiments
 
 Data: Sample online reviews like one below.
 

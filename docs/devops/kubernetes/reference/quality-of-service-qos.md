@@ -18,12 +18,12 @@ When Kubernetes creates a Pod it assigns one of these QoS classes to the Pod:
 
 ```
 resources:
-	limits:
-		memory: "200Mi"
-		cpu: "700m"
-	requests:
-		memory: "200Mi"
-		cpu: "700m"
+    limits:
+        memory: "200Mi"
+        cpu: "700m"
+    requests:
+        memory: "200Mi"
+        cpu: "700m"
 ```
 
 ### Criteria
@@ -42,10 +42,10 @@ For a Pod to be given a QoS class of `Guaranteed`:
 
 ```
 resources:
-	limits:
-		memory: "200Mi"
-	requests:
-		memory: "100Mi"
+    limits:
+        memory: "200Mi"
+    requests:
+        memory: "100Mi"
 ```
 
 ### Criteria

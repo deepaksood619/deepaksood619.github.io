@@ -481,8 +481,8 @@ https://docs.leanplum.com/docs/app-inbox-messages
 
 - [Novu - The open-source notification infrastructure](https://novu.co/)
 - [GitHub - knadh/listmonk: High performance, self-hosted, newsletter and mailing list manager with a modern dashboard. Single binary app.](https://github.com/knadh/listmonk)
-	- [listmonk - Free and open source self-hosted newsletter, mailing list manager, and transactional mails](https://listmonk.app/)
-	- [listmonk](https://demo.listmonk.app/admin/)
+    - [listmonk - Free and open source self-hosted newsletter, mailing list manager, and transactional mails](https://listmonk.app/)
+    - [listmonk](https://demo.listmonk.app/admin/)
 
 ## Metrics
 

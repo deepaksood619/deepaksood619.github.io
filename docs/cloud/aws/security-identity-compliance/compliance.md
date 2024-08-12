@@ -90,8 +90,8 @@ Introduction and definition
 - Price risk (Equity)
 - Commodity risk
 - Treatment of market risk under Basel
-	- Standardized duration method
-	- Internal measurement approach - VaR
+    - Standardized duration method
+    - Internal measurement approach - VaR
 - Basel-III guidelines
 - Risk Management Policy
 - ALCO structure and functions

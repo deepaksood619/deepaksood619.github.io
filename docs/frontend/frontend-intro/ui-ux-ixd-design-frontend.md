@@ -256,8 +256,8 @@ https://www.freecodecamp.org/news/the-design-thinking-process-explained
 - [Excalidraw | Hand-drawn look & feel • Collaborative • Secure](https://excalidraw.com/)
     - [GitHub - excalidraw/excalidraw: Virtual whiteboard for sketching hand-drawn like diagrams](https://github.com/excalidraw/excalidraw)
 - [GitHub - mingrammer/diagrams: :art: Diagram as Code for prototyping cloud system architectures](https://github.com/mingrammer/diagrams)
-	- [Diagrams · Diagram as Code](https://diagrams.mingrammer.com/)
-	- [Examples · Diagrams](https://diagrams.mingrammer.com/docs/getting-started/examples)
+    - [Diagrams · Diagram as Code](https://diagrams.mingrammer.com/)
+    - [Examples · Diagrams](https://diagrams.mingrammer.com/docs/getting-started/examples)
 - [Flowchart Maker and Diagramming Software | Microsoft Visio](https://www.microsoft.com/en-in/microsoft-365/visio/flowchart-software)
 - Gliffy
 - Mermaid

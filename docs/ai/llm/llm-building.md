@@ -100,9 +100,9 @@
 - [GitHub - comfyanonymous/ComfyUI: The most powerful and modular stable diffusion GUI, api and backend with a graph/nodes interface.](https://github.com/comfyanonymous/ComfyUI)
     - [How to install and use ComfyUI - Stable Diffusion. - YouTube](https://www.youtube.com/watch?v=KTPLOqAMR0s)
 - [GitHub - bentoml/OpenLLM: Operating LLMs in production](https://github.com/bentoml/OpenLLM)
-	- [BentoML: Build, Ship, Scale AI Applications](https://bentoml.com/)
+    - [BentoML: Build, Ship, Scale AI Applications](https://bentoml.com/)
 - [GitHub - agiresearch/AIOS: AIOS: LLM Agent Operating System](https://github.com/agiresearch/AIOS)
-	- [LLM agent operating system (AIOS) and the future of LLM-powered agents | by Simeon Emanuilov | Apr, 2024 | Medium](https://medium.com/@simeon.emanuilov/llm-agent-operating-system-aios-and-the-future-of-llm-powered-agents-3d08b4e91c34)
+    - [LLM agent operating system (AIOS) and the future of LLM-powered agents | by Simeon Emanuilov | Apr, 2024 | Medium](https://medium.com/@simeon.emanuilov/llm-agent-operating-system-aios-and-the-future-of-llm-powered-agents-3d08b4e91c34)
 - [AirLLM Unleashed. Efficiently Running 70B LLM Inference… | by Haribaskar Dhanabalan | Medium](https://medium.com/@haribaskar.dhanabalan/airllm-unleashed-2e32dae74c3d)
 
 ```bash

@@ -178,5 +178,5 @@ https://entri.app/blog/important-revolutions-and-fathers
 - [The major ancient Indian dynasties | Chronology](https://www.youtube.com/watch?v=GamVjCEO5hQ)
 - [Life Philosophy of Dr. BR Ambedkar | Ambedkar Death Anniversary Mahaparinirvan Diwas | UPSC 2023](https://www.youtube.com/watch?v=oTH9CuZkcFk)
 - [Indian Navy Day & Operation Trident - What Happened On 4th Dec 1971? | UPSC/IAS Prelims Mains 2023](https://www.youtube.com/watch?v=IEkMuzEMzs0)
-	- 1971 war between India Pakistan for Bangladesh liberation. Covert war mukti bahini
+    - 1971 war between India Pakistan for Bangladesh liberation. Covert war mukti bahini
 - [#2: Wars & Peace with Pakistan | Political Science & IR | NCERT Fundamentals | Chethan N - YouTube](https://www.youtube.com/watch?v=8ldBAf6oaXk&ab_channel=UnacademyIAS%3AEnglish)

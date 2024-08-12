@@ -12,10 +12,10 @@
 10. AWS ECR
 11. Amazon CloudFront
 12. Amazon FSx - [Amazon FSx](https://aws.amazon.com/fsx/)
-	1. Amazon FSx for NetApp ONTAP
-	2. Amazon FSx for OpenZFS
-	3. Amazon FSx for Windows File Server
-	4. Amazon FSx for Lustre
+    1. Amazon FSx for NetApp ONTAP
+    2. Amazon FSx for OpenZFS
+    3. Amazon FSx for Windows File Server
+    4. Amazon FSx for Lustre
 
 ![image](../../../media/Cloud-AWS-Storage-image1.jpg)
 

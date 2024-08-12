@@ -111,24 +111,24 @@ aws route53 change-resource-record-sets \ --hosted-zone-id ABCD \ --change-batch
        {
        "Action": "CREATE",
         "ResourceRecordSet": {
-	   "Name": "a.example.com",
-	   "Type": "CNAME",
-	   "SetIdentifier": "daily-db",
-	   "Weight": 64,
-	   "TTL": 300,
-	   "ResourceRecords": [{  "Value": "daily-db.abc.ap-south-1.rds.amazonaws.com"} ]
-		}
-	   },
-	{
-	   "Action": "CREATE",
-	   "ResourceRecordSet": {
-		   "Name": "b.example.com",
-		   "Type": "CNAME",
-		   "SetIdentifier": "daily-db",
-		   "Weight": 64,
-		   "TTL": 300,
-		   "ResourceRecords": [{  "Value":"daily-db.abc.ap-south-1.rds.amazonaws.com"} ]
-	} }
+       "Name": "a.example.com",
+       "Type": "CNAME",
+       "SetIdentifier": "daily-db",
+       "Weight": 64,
+       "TTL": 300,
+       "ResourceRecords": [{  "Value": "daily-db.abc.ap-south-1.rds.amazonaws.com"} ]
+        }
+       },
+    {
+       "Action": "CREATE",
+       "ResourceRecordSet": {
+           "Name": "b.example.com",
+           "Type": "CNAME",
+           "SetIdentifier": "daily-db",
+           "Weight": 64,
+           "TTL": 300,
+           "ResourceRecords": [{  "Value":"daily-db.abc.ap-south-1.rds.amazonaws.com"} ]
+    } }
 ]
 }
 ```

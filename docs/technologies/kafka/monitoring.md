@@ -3,22 +3,22 @@
 ## Monitoring / Management Tools
 
 1. Kafka Manager
-	1. https://github.com/yahoo/CMAK
-	2. https://hub.docker.com/r/kafkamanager/kafka-manager
+    1. https://github.com/yahoo/CMAK
+    2. https://hub.docker.com/r/kafkamanager/kafka-manager
 2. Kafka Center - https://github.com/xaecbd/KafkaCenter
 3. Kafka lag exporter
-	1. https://github.com/lightbend/kafka-lag-exporter
-	2. https://www.lightbend.com/blog/monitor-kafka-consumer-group-latency-with-kafka-lag-exporter
+    1. https://github.com/lightbend/kafka-lag-exporter
+    2. https://www.lightbend.com/blog/monitor-kafka-consumer-group-latency-with-kafka-lag-exporter
 4. Burrow
 5. [GitHub - obsidiandynamics/kafdrop: Kafka Web UI](https://github.com/obsidiandynamics/kafdrop)
-	1. [About | UI for Apache Kafka](https://docs.kafka-ui.provectus.io/)
+    1. [About | UI for Apache Kafka](https://docs.kafka-ui.provectus.io/)
 6. Kafka-UI
-	1. [GitHub - provectus/kafka-ui: Open-Source Web UI for Apache Kafka Management](https://github.com/provectus/kafka-ui)
-	2. [About | UI for Apache Kafka](https://docs.kafka-ui.provectus.io/)
+    1. [GitHub - provectus/kafka-ui: Open-Source Web UI for Apache Kafka Management](https://github.com/provectus/kafka-ui)
+    2. [About | UI for Apache Kafka](https://docs.kafka-ui.provectus.io/)
 7. Kafka Tool
 8. Kafka Cruise Control
-	1. https://engineering.linkedin.com/blog/2019/02/introducing-kafka-cruise-control-frontend
-	2. https://dzone.com/articles/kafka-administration-and-monitoring-ui-tools
+    1. https://engineering.linkedin.com/blog/2019/02/introducing-kafka-cruise-control-frontend
+    2. https://dzone.com/articles/kafka-administration-and-monitoring-ui-tools
 9. Kakfa-monitor https://github.com/linkedin/kafka-monitor
 10. [kadeck | ‍Kafka UI - Your team's Apache Kafka tool belt](https://www.kadeck.com/)
 

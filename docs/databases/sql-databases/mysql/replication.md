@@ -18,12 +18,12 @@ stop slave;
 -- Seconds_Behind_Master: 0
 
 change master to
-	MASTER_HOST='<>'
-	MASTER_USER='<>'
-	MASTER_PASSWORD='<>'
-	MASTER_LOG_FILE='<>'
-	MASTER_LOG_POS='<>'
-	FOR CHANNEL '<channel_name>';
+    MASTER_HOST='<>'
+    MASTER_USER='<>'
+    MASTER_PASSWORD='<>'
+    MASTER_LOG_FILE='<>'
+    MASTER_LOG_POS='<>'
+    FOR CHANNEL '<channel_name>';
 ```
 
 ## Reverse Replication

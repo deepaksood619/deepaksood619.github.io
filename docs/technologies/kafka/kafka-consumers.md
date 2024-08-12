@@ -52,15 +52,15 @@ At the heart of the consumer API is a simple loop for polling the server for mor
 - `_consumer_offsets` topic
 - Automatic Commit
 - Commit Current Offset
-	- `auto.commit.offset = [true, false]`
+    - `auto.commit.offset = [true, false]`
 - Asynchronous Commit
 - Commit Specified Offset
-	- `commitSync()` or `CommitAsync()`
+    - `commitSync()` or `CommitAsync()`
 - Rebalance Listeners
 - Consuming Records with Specific Offsets
 - Exiting the consumer
-	- consumer.wakeup()
-	- consumer.close()
+    - consumer.wakeup()
+    - consumer.close()
 - Standalone Consumer, Consumer without a group
 
 ## Kafka Consumer Groups

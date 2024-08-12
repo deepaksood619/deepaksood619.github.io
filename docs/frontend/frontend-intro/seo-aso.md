@@ -83,22 +83,22 @@ https://www.wordstream.com/serp
 <script
   type="application/ld+json"
   dangerouslySetInnerHTML={{
-	__html: JSON.stringify(
-	  {
-	  "@context": "https://schema.org/",
-	  "@type": "AggregateRating",
-	  "itemReviewed": {
-		"@type": "Book",
-		"image": details.cover_image_url,
-		"name": details.title,
-	  },
-	  "ratingValue": details?.avg_rating - Math.floor(details?.avg_rating) !== 0
-		? details?.avg_rating.toFixed(1)
-		: details.avg_rating,
-	  "bestRating": "10",
-	  "ratingCount": details.num_ratings,
-	  "reviewCount": details.num_reviews
-	})
+    __html: JSON.stringify(
+      {
+      "@context": "https://schema.org/",
+      "@type": "AggregateRating",
+      "itemReviewed": {
+        "@type": "Book",
+        "image": details.cover_image_url,
+        "name": details.title,
+      },
+      "ratingValue": details?.avg_rating - Math.floor(details?.avg_rating) !== 0
+        ? details?.avg_rating.toFixed(1)
+        : details.avg_rating,
+      "bestRating": "10",
+      "ratingCount": details.num_ratings,
+      "reviewCount": details.num_reviews
+    })
   }}
 />
 ```

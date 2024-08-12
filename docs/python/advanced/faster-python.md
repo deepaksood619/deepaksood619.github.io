@@ -3,12 +3,12 @@
 1. Line Profiling
 2. Numpy Vectorization
 3. Specilized data structures
-	- scipy.spatial - For spatial query like distances, nearest neighbor, kd trees etc.
-	- pandas - for SQL-like grouping or aggregation
-	- xarray - for grouping across multiple dimensions
-	- scipy.sparse - sparse matrices for 2-dimensional structured data
-	- sparse package - for N-dimensional structured data
-	- scipy.sparse.csgraph - for graph-like problems (e.g. finding shortest paths)
+    - scipy.spatial - For spatial query like distances, nearest neighbor, kd trees etc.
+    - pandas - for SQL-like grouping or aggregation
+    - xarray - for grouping across multiple dimensions
+    - scipy.sparse - sparse matrices for 2-dimensional structured data
+    - sparse package - for N-dimensional structured data
+    - scipy.sparse.csgraph - for graph-like problems (e.g. finding shortest paths)
 4. CPython
 5. Numba - https://www.youtube.com/watch?v=x58W9A2lnQc
 6. Dask
