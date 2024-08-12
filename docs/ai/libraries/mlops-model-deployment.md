@@ -140,6 +140,7 @@ https://www.seldon.io
 
 ## Links
 
+- [Ray | Faster Python](python/advanced/faster-python.md#ray)
 - [Home - MLOps Community](https://mlops.community/)
 - [GitHub - visenger/awesome-mlops: A curated list of references for MLOps](https://github.com/visenger/awesome-mlops)
 - [GitHub - kelvins/awesome-mlops: :sunglasses: A curated list of awesome MLOps tools](https://github.com/kelvins/awesome-mlops)

@@ -2,6 +2,8 @@
 
 [Virtual Recruiter | GenAI - RAG - Google Slides](https://docs.google.com/presentation/d/1PL-uccbMAo21G0YkorF-RGwG5tqr-Sxm72lLsLggF_M/edit?usp=sharing)
 
+[RAG Hackathon Questions](ai/llm/rag-hackathon-questions.md)
+
 ### Links
 
 - [Visualizing Amazon SageMaker machine learning predictions with Amazon QuickSight AWS Machine Learning Blog](https://aws.amazon.com/blogs/machine-learning/making-machine-learning-predictions-in-amazon-quicksight-and-amazon-sagemaker/)

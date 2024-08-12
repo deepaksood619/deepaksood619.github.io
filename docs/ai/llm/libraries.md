@@ -202,6 +202,7 @@
 - [**LPython**](https://github.com/lcompilers/lpython) - compiler that aggressively optimizes type-annotated Python code. It has several backends, including LLVM, C, C++, and WASM. LPython’s primary tenet is speed. [Launch blog post](https://lpython.org/blog/2023/07/lpython-novel-fast-retargetable-python-compiler/).
 - [**Petals**](https://github.com/bigscience-workshop/petals) - Run 100B+ language models at home, BitTorrent-style. Fine-tuning and inference up to 10x faster than offloading.
 - [**TokenMonster**](https://github.com/alasdairforsythe/tokenmonster) - Determine the tokens that optimally represents a dataset at any specific vocabulary size
+- [GitHub - microsoft/LLMLingua: To speed up LLMs' inference and enhance LLM's perceive of key information, compress the prompt and KV-Cache, which achieves up to 20x compression with minimal performance loss.](https://github.com/microsoft/LLMLingua)
 
 ### Python Programming
 

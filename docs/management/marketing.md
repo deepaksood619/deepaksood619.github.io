@@ -401,6 +401,8 @@ Interstitial ads are full-screen ads that cover the interface of their host app.
 
 https://developers.google.com/admob/android/interstitial
 
+An **interstitial page** is ==a web page that appears before or after a desired content page, often for advertising or regulatory reasons==. Interstitial pages can be interactive pop-ups or full-page ads that float on a webpage or fill a mobile device's screen. They can appear when a user navigates to a page, unhides a tab or window, or clicks the browser's navigation bar.
+
 [20 Years Of Marketing - 7 Most Important Lessons Learned](https://www.youtube.com/watch?v=VS4ECrG_0uM)
 
 1. Start small, but look out for scale, okay? So here's what I mean by that. When we're thinking about scale, typically, I start off small. When I mean small, I'm talking not 5,000, not 10,000, I usually start off less than $1,000, even at our size, and I try to see what works. It doesn't mean I won't ramp up the next day to 10,000 or a 100,000, but I really try to start off small to try to figure out what works. Now, if I'm paying for services or hiring an agency, it's a little bit different because someone's creating a plan for me, and then executing on it. But if I'm doing it myself, I try to start off small because just because a channel or a tactic work for a competitor, it doesn't mean it works for me, so I try to start off small.

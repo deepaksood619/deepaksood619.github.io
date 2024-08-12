@@ -60,6 +60,8 @@ OrBAC model allows the policy designer to define a security policy independently
 
 RBAC allows access based on the job title. RBAC largely eliminates discretion when providing access to objects. For example, a human resources specialist should not have permissions to create network accounts; this should be a role reserved for network administrators.
 
+- RABAC: Role-Centric Attribute-Based Access Control
+
 https://en.wikipedia.org/wiki/Role-based_access_control
 
 ### [Rule-Based Access Control](https://en.wikipedia.org/w/index.php?title=Rule-based_access_control&action=edit&redlink=1)(RAC)

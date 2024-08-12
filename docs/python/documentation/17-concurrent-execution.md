@@ -107,18 +107,6 @@ https://www.machinelearningplus.com/python/parallel-processing-python
 
 https://blog.floydhub.com/multiprocessing-vs-threading-in-python-what-every-data-scientist-needs-to-know
 
-## Ray
-
-A fast and simple framework for building and running distributed applications. Ray is packaged with RLlib, a scalable reinforcement learning library, and Tune, a scalable hyperparameter tuning library.
-
-https://ray.io
-
-https://github.com/ray-project/ray
-
-https://towardsdatascience.com/10x-faster-parallel-python-without-python-multiprocessing-e5017c93cce1
-
-https://towardsdatascience.com/modern-parallel-and-distributed-python-a-quick-tutorial-on-ray-99f8d70369b8
-
 ## Subprocess
 
 #### Can be used to call other compiled programs
@@ -141,3 +129,7 @@ https://zacs.site/blog/linear-python.html
 The [sched](https://docs.python.org/3/library/sched.html#module-sched) module defines a class which implements a general purpose event scheduler
 
 https://docs.python.org/3/library/sched.html
+
+## Links
+
+[Ray | Faster Python](python/advanced/faster-python.md#ray)
