@@ -6,7 +6,7 @@
 - LightHouse
     - [Lighthouse CI Action · Actions · GitHub Marketplace · GitHub](https://github.com/marketplace/actions/lighthouse-ci-action)
 - https://www.browserstack.com
-   	- [BrowserStack Automate TurboScale](https://www.browserstack.com/automate-turboscale)
+	- [BrowserStack Automate TurboScale](https://www.browserstack.com/automate-turboscale)
 - https://www.sitespeed.io
 - https://estimator.dev
 - [Free web performance analyser tool for images - Website Analyzer | ImageKit.io](https://imagekit.io/website-analyzer)

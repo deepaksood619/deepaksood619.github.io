@@ -64,15 +64,15 @@ Always tell stories, most visual stories are the best, and simple
 ## Presentation Tools
 
 - [The HTML presentation framework | reveal.js](https://revealjs.com/)
-   	- [GitHub - hakimel/reveal.js: The HTML Presentation Framework](https://github.com/hakimel/reveal.js)
+	- [GitHub - hakimel/reveal.js: The HTML Presentation Framework](https://github.com/hakimel/reveal.js)
 - [Slides for Developers](https://slides.com/news/developers)
 - [Slidev](https://sli.dev)
 - [Canva: Visual Suite for Everyone](https://www.canva.com)
 - Pools, Q&A
-   	- [Slido - Audience Interaction Made Easy](https://www.slido.com)
-   	- [Interactive presentation software - Mentimeter](https://www.mentimeter.com)
-   	- [AhaSlides - The Joy of Engagement](https://ahaslides.com/)
-   	- [Claper - The ultimate tool to interact with your audience](https://claper.co/)
+	- [Slido - Audience Interaction Made Easy](https://www.slido.com)
+	- [Interactive presentation software - Mentimeter](https://www.mentimeter.com)
+	- [AhaSlides - The Joy of Engagement](https://ahaslides.com/)
+	- [Claper - The ultimate tool to interact with your audience](https://claper.co/)
       		- [GitHub - ClaperCo/Claper: The ultimate tool to interact with your audience](https://github.com/ClaperCo/Claper)
 
 ### Presentation Templates

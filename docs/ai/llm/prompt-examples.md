@@ -81,13 +81,13 @@ ChatGPT, could you aid me in crafting a compelling proposal presentation script 
 - Presentation type - Informative presentation with elements of inspiration
 - Presentation duration - 45 minutes to 1 hour
 - Outline to content expansion
-   	- Expanded - Fill in additional details to your outline
-   	- Condensed - Shorten content to be presentable
-   	- Preserved - Keep original content as-is
+	- Expanded - Fill in additional details to your outline
+	- Condensed - Shorten content to be presentable
+	- Preserved - Keep original content as-is
 - Slide content density
-   	- Small - Short points - for quick overview presentations
-   	- Medium - Concise length suited for simple explanations
-   	- Large - Detailed paragraphs - ideal for standalone presentations
+	- Small - Short points - for quick overview presentations
+	- Medium - Concise length suited for simple explanations
+	- Large - Detailed paragraphs - ideal for standalone presentations
 - Create speaker notes that can help explain more about the slide to the audience
 
 ![ChatGPT Ultimate Prompting Guide](../../media/chatgpt-promt-engineering.png)

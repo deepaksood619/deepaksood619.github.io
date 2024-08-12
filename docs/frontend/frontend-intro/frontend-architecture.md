@@ -89,7 +89,7 @@ https://www.toptal.com/front-end/client-side-vs-server-side-pre-rendering
 - PHP - Laravel, Symfony, Slim
 - Python - Django, Flask
 - C# - ASP.NET MVC
-   	- Blazor
+	- Blazor
       		- [What's behind the hype about Blazor? - Stack Overflow](https://stackoverflow.blog/2020/02/26/whats-behind-the-hype-about-blazor/)
       		- [Blazor | Build client web apps with C# | .NET](https://dotnet.microsoft.com/en-us/apps/aspnet/web-apps/blazor)
       		- [Front-end Web Development with .NET for Beginners - YouTube](https://www.youtube.com/playlist?list=PLdo4fOcmZ0oXNZX1Q8rB-5xgTSKR8qA5k)

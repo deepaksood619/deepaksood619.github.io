@@ -42,7 +42,7 @@ loc
 
 - [About me](https://deepaksood619.github.io/about-me/)
     - [Experience](https://deepaksood619.github.io/about-me/experience/)
-   	- [Projects](https://deepaksood619.github.io/about-me/projects/)
+	- [Projects](https://deepaksood619.github.io/about-me/projects/)
 - [Computer Science](https://deepaksood619.github.io/computer-science/)
     - [AI](https://deepaksood619.github.io/ai/)
     - [Algorithms](https://deepaksood619.github.io/algorithms/)

@@ -89,7 +89,7 @@ Kafka can serve as a kind of external commit-log for a distributed system. The l
 ### Fintech
 
 - Customer 360- getting a 360° view of customer interactions and delivering personalized customer experiences
-   	- [Create an end-to-end data strategy for Customer 360 on AWS | AWS Big Data Blog](https://aws.amazon.com/blogs/big-data/create-an-end-to-end-data-strategy-for-customer-360-on-aws/)
+	- [Create an end-to-end data strategy for Customer 360 on AWS | AWS Big Data Blog](https://aws.amazon.com/blogs/big-data/create-an-end-to-end-data-strategy-for-customer-360-on-aws/)
 - Credit Risk- Discovering and assessing risk profiles in real time, minimizing risk exposure on all financial products
 - Real time fraud detection -Detecting anomalies in real time to identify potential fraudulent activities and meet regulatory requirements
 - Operational agility- Accelerating business agility by increasing the flexibility of strategic applications

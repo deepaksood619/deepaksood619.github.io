@@ -19,7 +19,7 @@
 - [Others / Resources / Interview / Learning](ai/others-resources-interview-learning.md)
 - [Hackathons](ai/hackathons.md)
 - [Solutions](ai/solutions.md)
-   	- [Social Media Analytics Solution](ai/social-media-analytics-solution.md)
+	- [Social Media Analytics Solution](ai/social-media-analytics-solution.md)
 
 ## AGI (Artificial General Intelligence) / Sentient
 

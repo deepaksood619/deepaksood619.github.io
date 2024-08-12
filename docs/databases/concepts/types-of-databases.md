@@ -77,7 +77,7 @@ https://rethinkdb.com
 - [Alibaba Graph Database](https://cn.aliyun.com/product/gdb)- A real-time, reliable, cloud-native graph database service that supports property graph model.
 - [Amazon Neptune](https://aws.amazon.com/neptune/)- Fully-managed graph database service.
 - [Ultimate Scalable Graph Database: ArangoDB for Real-World Use Cases](https://arangodb.com/)
-   	- [GitHub - arangodb/arangodb: 🥑 ArangoDB is a native multi-model database with flexible data models for documents, graphs, and key-values. Build high performance applications using a convenient SQL-like query language or JavaScript extensions.](https://github.com/arangodb/arangodb)
+	- [GitHub - arangodb/arangodb: 🥑 ArangoDB is a native multi-model database with flexible data models for documents, graphs, and key-values. Build high performance applications using a convenient SQL-like query language or JavaScript extensions.](https://github.com/arangodb/arangodb)
 - [Bitsy](https://github.com/lambdazen/bitsy/wiki)- A small, fast, embeddable, durable in-memory graph database.
 - [Blazegraph](https://github.com/blazegraph/tinkerpop3)- RDF graph database with OLTP support.
 - [CosmosDB](https://docs.microsoft.com/en-us/azure/cosmos-db/graph-introduction)- Microsoft's distributed OLTP graph database.
@@ -202,11 +202,11 @@ Vector databases are designed to handle critical query and algorithmic styles se
 - [Learn Vector Database in 10 Mins - Hottest AI Apps DB!](https://youtu.be/sVNrXXM1txo?si=xc1nFrwmRzD2f9CO)
 - [What Are Vector Databases? | MongoDB](https://www.mongodb.com/basics/vector-databases)
 - [Chroma](https://www.trychroma.com/) - the AI-native open-source embedding database
-   	- [GitHub - chroma-core/chroma: the AI-native open-source embedding database](https://github.com/chroma-core/chroma)
-   	- [Chroma Vector Database: Retrieval for LLMs (Hammad Bashir + Liquan Pei)](https://youtu.be/E4ot5d79jdA?si=6apWFfCdKbi7_yFK)
+	- [GitHub - chroma-core/chroma: the AI-native open-source embedding database](https://github.com/chroma-core/chroma)
+	- [Chroma Vector Database: Retrieval for LLMs (Hammad Bashir + Liquan Pei)](https://youtu.be/E4ot5d79jdA?si=6apWFfCdKbi7_yFK)
 - [The 5 Best Vector Databases | A List With Examples | DataCamp](https://www.datacamp.com/blog/the-top-5-vector-databases)
 - [GitHub - milvus-io/milvus: A cloud-native vector database, storage for next generation AI applications](https://github.com/milvus-io/milvus)
-   	- [Vector database - Milvus](https://milvus.io/)
+	- [Vector database - Milvus](https://milvus.io/)
 - [Key considerations when choosing a database for your generative AI applications | AWS Database Blog](https://aws.amazon.com/blogs/database/key-considerations-when-choosing-a-database-for-your-generative-ai-applications/)
 
 ![Vector Databases](../../media/Pasted%20image%2020240405112318.png)

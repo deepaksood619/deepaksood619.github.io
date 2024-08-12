@@ -24,7 +24,7 @@ Build an Al-powered insurance claims processing application that leverages large
 
 1. Intelligent Data Extraction
 	1. Use LLMs to intelligently extract relevant information from claims forms (PDFs, images, text)
-	2. Handle variations in form formats, languages, and terminology 
+	2. Handle variations in form formats, languages, and terminology
 2. Policy Verification
 	1. Ingest and comprehend insurance policy documents
 	2. Cross-reference extracted claim details against policy terms and coverage
@@ -67,21 +67,22 @@ Develop an Al-powered application that can understand product images, generate m
 
 Data: Product images with and without backgrounds, and customer prompts for image updates.
 
-## Use case 5: Legal assistant application  
+## Use case 5: Legal assistant application
 
 Scenario: Imagine a large corporation with mountains of legal documents, contracts, policies, and historical case information. Navigating this vast internal document dump can be time consuming and frustrating for legal professionals seeking answers to specific questions.
 
 **Enter the Legal Assistant application.** This Al-powered tool empowers legal staff by transforming the document pile into an easily searchable and insightful knowledge base.
 
 Key features:
+
 - Data ingestion and processing
 - Question and answering
 - While giving answers Sensitive information tagging
-- Contextualized results  
+- Contextualized results
 
 Overall, the Legal Assistant application empowers legal professionals by transforming internal documents into a valuable knowledge resource, streamlining workflows, and ensuring sensitive information remains protected.
 
-## Use case 6: GenAI personalized recommender  
+## Use case 6: GenAI personalized recommender
 
 Scenario: Sarah wants to buy a birthday gift for her husband, David, who loves sports. Instead of browsing through endless product categories, she uses a GenAl-powered product search feature.
 

@@ -124,8 +124,8 @@ While InnoDB primarily uses row-level locking, there can also be implicit table-
 - ﻿﻿Many people use the term "deadlock" incorrectly— when they are describing a simple one-way lock wait.
 - Resolving deadlocks - MySQL detects cycles in lock waits, and kills one of the transactions immediately.
 - avoiding deadlocks
-   	- ﻿﻿Each client locks everything they need in one atomic request.
-   	- ﻿﻿All clients request locks in the same order.
+	- ﻿﻿Each client locks everything they need in one atomic request.
+	- ﻿﻿All clients request locks in the same order.
 
 ### Key Differences between Range and Gap Locks
 

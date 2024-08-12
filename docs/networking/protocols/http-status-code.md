@@ -24,7 +24,7 @@
 - [300Multiple Choices](https://httpstatuses.com/300)
 - [301Moved Permanently](https://httpstatuses.com/301)
 - [302Found](https://httpstatuses.com/302)
-   	- [What are 301 and 302 redirects? | Domains - GoDaddy Help IN](https://in.godaddy.com/help/what-are-301-and-302-redirects-2376)
+	- [What are 301 and 302 redirects? | Domains - GoDaddy Help IN](https://in.godaddy.com/help/what-are-301-and-302-redirects-2376)
 - [303See Other](https://httpstatuses.com/303)
 - [304Not Modified](https://httpstatuses.com/304)
 - [305Use Proxy](https://httpstatuses.com/305)
@@ -48,8 +48,8 @@
 - [412Precondition Failed](https://httpstatuses.com/412)
 - [413Payload Too Large](https://httpstatuses.com/413)
 - [414Request-URI Too Long](https://httpstatuses.com/414)
-   	- Can happen when GET requests length is long
-   	- Can be solved by increasing the size of URI that server can accept
+	- Can happen when GET requests length is long
+	- Can be solved by increasing the size of URI that server can accept
 - [415Unsupported Media Type](https://httpstatuses.com/415)
 - [416Requested Range Not Satisfiable](https://httpstatuses.com/416)
 - [417Expectation Failed](https://httpstatuses.com/417)
@@ -65,7 +65,7 @@
 - [444Connection Closed Without Response](https://httpstatuses.com/444)
 - [451Unavailable For Legal Reasons](https://httpstatuses.com/451)
 - [499Client Closed Request](https://httpstatuses.com/499)
-   	- HTTP 499 in Nginx means that the **client closed the connection** before the server answered the request.
+	- HTTP 499 in Nginx means that the **client closed the connection** before the server answered the request.
 
 ### 5×× Server Error
 

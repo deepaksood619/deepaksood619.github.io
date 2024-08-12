@@ -39,7 +39,7 @@ A show cause notice **signals an intention by an employer to take disciplinary 
 ### AMCs
 
 - Quant
-   	- [5 Secrets of Quant Mutual Fund which consistently ranks it in India’s Best Mutual Fund schemes - YouTube](https://www.youtube.com/watch?v=WqFMhqRhVbw&ab_channel=ShankarNath)
+	- [5 Secrets of Quant Mutual Fund which consistently ranks it in India’s Best Mutual Fund schemes - YouTube](https://www.youtube.com/watch?v=WqFMhqRhVbw&ab_channel=ShankarNath)
 - Motilal Oswal
 - Edelweiss
 - Parag Parikh

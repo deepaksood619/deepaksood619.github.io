@@ -102,7 +102,7 @@ https://aws.amazon.com/premiumsupport/knowledge-center/transformations-aws-dms
 - Federating users
 - Amazon Cognito
 - AWS Organizations
-   	- [Best Practices for AWS Organizations](https://www.densify.com/finops/aws-organizations-best-practices/)
+	- [Best Practices for AWS Organizations](https://www.densify.com/finops/aws-organizations-best-practices/)
 
 ### Module 8: Elasticity, high availability, and monitoring
 

@@ -33,8 +33,8 @@ RAG is an AI framework for retrieving facts from an external knowledge base to g
 ### Advanced RAG Techniques
 
 - Query Expansion (with multiple queries)
-   	- [GitHub - pdichone/advanced-rag-techniques](https://github.com/pdichone/advanced-rag-techniques)
-   	- Downsides
+	- [GitHub - pdichone/advanced-rag-techniques](https://github.com/pdichone/advanced-rag-techniques)
+	- Downsides
       		- Lots of results
          			- queries might not always be relevant or useful
       		- Results not always relevant and or useful

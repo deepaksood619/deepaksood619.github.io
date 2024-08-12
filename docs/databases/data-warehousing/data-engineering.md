@@ -85,10 +85,10 @@
 - Apache Atlas
 - Informatica Axon
 - [Skyflow - What if privacy had an API?](https://www.skyflow.com/)
-   	- Skyflow is a data privacy vault that integrates with any tech stack and makes it easy to enforce privacy policies across any app, any data cloud, and any LLM.
-   	- [De-identifying Analytics Data with Skyflow - YouTube](https://www.youtube.com/watch?v=XyX-zb6D8_M)
-   	- [Introduction to Skyflow Connections - YouTube](https://www.youtube.com/watch?v=-fFjlRMcofg)
-   	- [Your Users Table Doesn't Belong in Your Database - Skyflow at MongoDB World - YouTube](https://www.youtube.com/watch?v=-YCfZKYBldo)
+	- Skyflow is a data privacy vault that integrates with any tech stack and makes it easy to enforce privacy policies across any app, any data cloud, and any LLM.
+	- [De-identifying Analytics Data with Skyflow - YouTube](https://www.youtube.com/watch?v=XyX-zb6D8_M)
+	- [Introduction to Skyflow Connections - YouTube](https://www.youtube.com/watch?v=-fFjlRMcofg)
+	- [Your Users Table Doesn't Belong in Your Database - Skyflow at MongoDB World - YouTube](https://www.youtube.com/watch?v=-YCfZKYBldo)
 
 ### Generative AI
 

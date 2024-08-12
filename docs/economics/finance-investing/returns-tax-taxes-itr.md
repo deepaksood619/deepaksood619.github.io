@@ -209,18 +209,18 @@ LUT (Letter of Undertaking) - [GST: How to file an LUT?](https://www.thegalactic
 - New Payment
 - 26 QC (TDS on Rent of Property)
 - Form
-   	- Residential Status of the Landlord - Resident
-   	- Whether more than one Tenant* - No
-   	- PAN of landlord -
-   	- Flat door building -
-   	- Type of property - Both
-   	- Address details - Same
-   	- Period of Tenancy - 11
-   	- Total value of rent paid - 90000
-   	- Value of rent paid last month - 81000
-   	- Amount paid credited - 81000
-   	- Rate at which rent deducted - 10
-   	- Amount of tax deducted at source - 9000
+	- Residential Status of the Landlord - Resident
+	- Whether more than one Tenant* - No
+	- PAN of landlord -
+	- Flat door building -
+	- Type of property - Both
+	- Address details - Same
+	- Period of Tenancy - 11
+	- Total value of rent paid - 90000
+	- Value of rent paid last month - 81000
+	- Amount paid credited - 81000
+	- Rate at which rent deducted - 10
+	- Amount of tax deducted at source - 9000
 - Netbanking - HDFC Bank
 
 - [What is the TDS provision for rent paid by individuals above Rs 50,000?](https://news.cleartax.in/what-is-the-tds-provision-for-rent-paid-by-individuals-above-rs-50000/6672/)

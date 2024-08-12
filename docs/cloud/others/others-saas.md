@@ -61,12 +61,12 @@ https://blueyonder.com
 - https://www.openhrms.com
 - http://demo.openhrms.com/web/login
 - [**https://erpnext.com/**](https://erpnext.com/)
-   	- Best - **[GitHub - frappe/hrms: Open Source HR and Payroll Software](https://github.com/frappe/hrms)**
+	- Best - **[GitHub - frappe/hrms: Open Source HR and Payroll Software](https://github.com/frappe/hrms)**
       		- [Frappe HR](https://frappe.io/hr)
-   	- https://github.com/frappe/erpnext
-   	- [**https://github.com/frappe/frappe_docker**](https://github.com/frappe/frappe_docker)
-   	- https://frappe.school
-   	- [Introduction](https://frappeframework.com/docs/user/en/guides/integration/rest_api)
+	- https://github.com/frappe/erpnext
+	- [**https://github.com/frappe/frappe_docker**](https://github.com/frappe/frappe_docker)
+	- https://frappe.school
+	- [Introduction](https://frappeframework.com/docs/user/en/guides/integration/rest_api)
 - https://wperp.com/81080/7-most-popular-open-source-hris-software-to-look-for-now-an-easy-comparison
 - https://www.lever.co
 
@@ -108,10 +108,10 @@ MuleSoft is a platform that gives IT the tools to automate everything. This incl
 ### Products
 
 - Anypoint Platform
-   	- Code Builder
-   	- Design Center (design APIs)
-   	- Exchange
-   	- DataGraph
+	- Code Builder
+	- Design Center (design APIs)
+	- Exchange
+	- DataGraph
 - Anypoint Studio
 - Composer
 - Mulesoft RPA
@@ -140,10 +140,10 @@ MuleSoft is a platform that gives IT the tools to automate everything. This incl
 - Tamino Information Server – Information server based on [XML](https://en.wikipedia.org/wiki/XML "XML") for the storage, management and transfer of structured and [unstructured data](https://en.wikipedia.org/wiki/Unstructured_data "Unstructured data"),[[47]](https://en.wikipedia.org/wiki/Software_AG#cite_note-47) now called _webMethods Tamino_
 - [Terracotta, Inc.](https://en.wikipedia.org/wiki/Terracotta,_Inc. "Terracotta, Inc.") – Company behind opensource Ehcache. Big memory, Quartz scheduler are their primary products. My-Channel's Nirvana messaging is now offered as Terracotta Universal Messaging.
 - [webMethods](https://en.wikipedia.org/wiki/WebMethods "WebMethods") – an ESB, API Management, BPMS, SOA enablement, [MDM](https://en.wikipedia.org/wiki/Master_data_management "Master data management") and [B2B](https://en.wikipedia.org/wiki/Business-to-business "Business-to-business") integration
-   	- [1# Introduction About Webmethods - YouTube](https://www.youtube.com/watch?v=wZCbwuT06MA)
-   	- WM Deployer - [webMethods Deployer Documentation 10.3](https://documentation.softwareag.com/webmethods/deployer/wdy10-3/10-3_Deployer_webhelp/index.html)
-   	- [webMethods.io Integration Developer Basics - YouTube](https://www.youtube.com/playlist?list=PL3HwmrSYjxiPlg7lz3TBuNuSrj76xFbLS)
-   	- [WebMethods - YouTube](https://www.youtube.com/playlist?list=PLBVVICV4Qxkgg6KnSqmzh5h3625309Ww4)
+	- [1# Introduction About Webmethods - YouTube](https://www.youtube.com/watch?v=wZCbwuT06MA)
+	- WM Deployer - [webMethods Deployer Documentation 10.3](https://documentation.softwareag.com/webmethods/deployer/wdy10-3/10-3_Deployer_webhelp/index.html)
+	- [webMethods.io Integration Developer Basics - YouTube](https://www.youtube.com/playlist?list=PL3HwmrSYjxiPlg7lz3TBuNuSrj76xFbLS)
+	- [WebMethods - YouTube](https://www.youtube.com/playlist?list=PLBVVICV4Qxkgg6KnSqmzh5h3625309Ww4)
 - Cumulocity IoT - an IoT product, providing hardware, Cloud and Edge Services as well as platforms adaptable to the Software AG Cloud
 
 [Software AG - Wikipedia](https://en.wikipedia.org/wiki/Software_AG)
