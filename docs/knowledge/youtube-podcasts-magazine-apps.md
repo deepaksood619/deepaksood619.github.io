@@ -257,8 +257,8 @@
 - [Nikita Thakur - YouTube](https://www.youtube.com/@nikitaksthakur)
 - [Varun Mayya - YouTube](https://www.youtube.com/@VarunMayya)
 - Sandeep Tandon - Quant Mutual Fund
-	- [Moving Out Of Equities Now Will Be A Huge Mistake: Quant Mutual Fund’s Sandeep Tandon To Investors - YouTube](https://www.youtube.com/watch?v=1aGQOMPRSOs&ab_channel=Mint)
-	- [Dynamic Style of Money Management \~ VLRT - Framework by Sandeep Tandon, Quant MF - YouTube](https://www.youtube.com/watch?v=mnffGxDPB7U&ab_channel=IFAGalaxy)
+    - [Moving Out Of Equities Now Will Be A Huge Mistake: Quant Mutual Fund’s Sandeep Tandon To Investors - YouTube](https://www.youtube.com/watch?v=1aGQOMPRSOs&ab_channel=Mint)
+    - [Dynamic Style of Money Management \~ VLRT - Framework by Sandeep Tandon, Quant MF - YouTube](https://www.youtube.com/watch?v=mnffGxDPB7U&ab_channel=IFAGalaxy)
 
 ### Yearly
 
@@ -306,9 +306,9 @@
 - Tim ferris
 - Hubspot - marketing
 - Courses
-	- MIT opencourseware
-	- Crashcourse
-	- [Study Hall - YouTube](https://www.youtube.com/@studyhall)
+    - MIT opencourseware
+    - Crashcourse
+    - [Study Hall - YouTube](https://www.youtube.com/@studyhall)
 - Shark tank
 - Perimeter Institute for Theoretical Physics
 - Unacademy
@@ -470,7 +470,7 @@ Indian History - https://www.anirudhkanisetti.com/podcasts
 - [Download music, movies, games, software! The Pirate Bay - The galaxy's most resilient BitTorrent site](https://pirate-proxy.click/)
 - [https://fmovies.pub](https://fmovies.pub/)
 - popcorn times - [GitHub - popcorn-official/popcorn-desktop: Popcorn Time is a multi-platform, free software BitTorrent client that includes an integrated media player ( Windows / Mac / Linux ) A Butter-Project Fork](https://github.com/popcorn-official/popcorn-desktop)
-	- `xattr -c "/Applications/Popcorn-Time.app/"`
+    - `xattr -c "/Applications/Popcorn-Time.app/"`
 - https://yifytorrent.cc
 - https://yts.mx
 - https://pirate-proxy.me

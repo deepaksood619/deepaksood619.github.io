@@ -262,9 +262,9 @@ Users looking for a zero maintenance, ready-to-go solution are encouraged to use
 - [Quay.io](https://quay.io/)
 - [GitHub Packages](https://docs.github.com/en/packages/working-with-a-github-packages-registry/working-with-the-container-registry)
 - [Harbor](https://goharbor.io/)
-	- [Manage Container (Docker) Images, Helm, CNAB, and Other Artifacts With Harbor - YouTube](https://www.youtube.com/watch?v=f931M4-my1k)
+    - [Manage Container (Docker) Images, Helm, CNAB, and Other Artifacts With Harbor - YouTube](https://www.youtube.com/watch?v=f931M4-my1k)
 - [CNCF Distribution](https://distribution.github.io/distribution/)
-	- [GitHub - distribution/distribution: The toolkit to pack, ship, store, and deliver container content](https://github.com/distribution/distribution)
+    - [GitHub - distribution/distribution: The toolkit to pack, ship, store, and deliver container content](https://github.com/distribution/distribution)
 - ECR - Elastic Container Registry
 - ACR - Azure Container Registry
 - [Using S3 as a container registry | Adolfo Ochagavía](https://ochagavia.nl/blog/using-s3-as-a-container-registry/)

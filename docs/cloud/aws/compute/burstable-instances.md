@@ -77,7 +77,7 @@ The following graph provides an example of a `t3.large` with an average CPU ut
 
 - [Amazon EC2 T3 Instances](https://aws.amazon.com/ec2/instance-types/t3/)
 - [Amazon EC2 T4g Instances](https://aws.amazon.com/ec2/instance-types/t4/)
-	- Amazon EC2 T4g instances are powered by Arm-based AWS Graviton2 processors. T4g instances are the next generation low cost burstable general purpose instance type that provide a baseline level of CPU performance with the ability to burst CPU usage at any time for as long as required. They deliver up to 40% better price performance over T3 instances and are ideal for running applications with moderate CPU usage that experience temporary spikes in usage.
+    - Amazon EC2 T4g instances are powered by Arm-based AWS Graviton2 processors. T4g instances are the next generation low cost burstable general purpose instance type that provide a baseline level of CPU performance with the ability to burst CPU usage at any time for as long as required. They deliver up to 40% better price performance over T3 instances and are ideal for running applications with moderate CPU usage that experience temporary spikes in usage.
 
 ## Summary
 

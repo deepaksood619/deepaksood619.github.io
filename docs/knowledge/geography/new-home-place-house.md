@@ -83,13 +83,13 @@ https://zolostays.com/blog/cities-with-best-weather-in-india
     - Austria
     - Finland
 - [4,300 millionaires may leave India this year. Here's where they are moving to](https://economictimes.indiatimes.com/nri/migrate/4300-millionaires-may-leave-india-this-year-heres-where-they-are-moving-to/articleshow/111109899.cms)
-	- UAE (Land Ownership)
-	- Top 5 affordable countries where Indians can buy citizenship
-	- ​Dominica - Rs 76,46,000​
-	- ​St. Lucia - Rs 76,46,000​
-	- ​Grenada - Rs 1,14,69,000​
-	- ​Antigua and Barbuda - Rs 76,46,000​
-	- Vanuatu - Rs 91,05,000
+    - UAE (Land Ownership)
+    - Top 5 affordable countries where Indians can buy citizenship
+    - ​Dominica - Rs 76,46,000​
+    - ​St. Lucia - Rs 76,46,000​
+    - ​Grenada - Rs 1,14,69,000​
+    - ​Antigua and Barbuda - Rs 76,46,000​
+    - Vanuatu - Rs 91,05,000
 - India has taxes like Europe/England services like Somalia or any other African countries
 
 #### Metrics
@@ -119,9 +119,9 @@ https://zolostays.com/blog/cities-with-best-weather-in-india
 - Near beach & independent house with open areas and no humidity and no huge temperature variance (in a different country, with low income tax and high HDI, happiness index, low crime, low inequality, good education, no racism)
 - https://www.thehindu.com/real-estate/the-occupancy-certificate-why-it-is-now-more-important-than-ever/article19294876.ece
 - Natural Disaster area - earthquake, tsunami, hurricane, flood, drought, etc
-	-  Global Seismic Hazard Map
+    -  Global Seismic Hazard Map
 - **Don't buy a house more than 50 lakhs in India (1 crore house in america gives you a condo)**
-	- In $300,000 (2.5 crore) you can get a 5 bedroom condo
+    - In $300,000 (2.5 crore) you can get a 5 bedroom condo
 - Buy home from bank auctions - [auction property: Is it safe to buy auction property? Six things a buyer need to keep in mind - The Economic Times](https://economictimes.indiatimes.com/wealth/real-estate/is-it-safe-to-buy-auction-property-six-things-a-buyer-need-to-keep-in-mind/articleshow/103044435.cms)
 - Property Tax
 - Home stress testing and building testing via a third party engineer (ultrasound) - Chintan
@@ -138,11 +138,11 @@ https://zolostays.com/blog/cities-with-best-weather-in-india
 - Water bill
 - Electricity meter (BSES) - Powercuts in area
 - Gas connection
-	- Chimney point
-	- Induction cooktop over gas stove
-	- [The Problem With Gas Stoves - YouTube](https://www.youtube.com/watch?v=X440BHdy35g)
-	- [Why don't Americans use electric kettles? - YouTube](https://www.youtube.com/watch?v=_yMMTVVJI4c)
-	- [Gas stoves aren't really that fast - even standard electric is faster! - YouTube](https://www.youtube.com/watch?v=eUywI8YGy0Y)
+    - Chimney point
+    - Induction cooktop over gas stove
+    - [The Problem With Gas Stoves - YouTube](https://www.youtube.com/watch?v=X440BHdy35g)
+    - [Why don't Americans use electric kettles? - YouTube](https://www.youtube.com/watch?v=_yMMTVVJI4c)
+    - [Gas stoves aren't really that fast - even standard electric is faster! - YouTube](https://www.youtube.com/watch?v=eUywI8YGy0Y)
 - Electricity Backup (Inverter / DG (Diesel Generator))
 - Security deposit
 - Ventilators
@@ -154,10 +154,10 @@ https://zolostays.com/blog/cities-with-best-weather-in-india
 - In and out times / security
 - Sound proofing between walls rooms and outside house (Noise Pollution Levels)
 - RO / Water
-	- Ceremic filters are also good (doesn't require electricity / doesn't need Maintenance / no wastage of water / Cheap)
-	- https://www.livemint.com/Leisure/6IPqOAHPfAb4aLecr2U0vI/How-safe-is-your-water.html
+    - Ceremic filters are also good (doesn't require electricity / doesn't need Maintenance / no wastage of water / Cheap)
+    - https://www.livemint.com/Leisure/6IPqOAHPfAb4aLecr2U0vI/How-safe-is-your-water.html
 - Big Wardrobes (storage)
-	- Sliding door better
+    - Sliding door better
 
 #### Tools / Sites
 
@@ -205,8 +205,8 @@ https://zolostays.com/blog/cities-with-best-weather-in-india
 - House Poor / house rich, cash poor - https://www.investopedia.com/terms/h/housepoor.asp
 - Home lane for interior designing, for a home get a professional interior designer
 - Rent
-	- Furniture rental furlenco
-	- Rentomojo
+    - Furniture rental furlenco
+    - Rentomojo
 - Solar - [Solar System for Home with 23% ROE - with Excel Calculation | Solar subsidy and utility | - YouTube](https://www.youtube.com/watch?v=EB2CZJz1dIY)
 - Daily dump composter
 - Not near airport, or noisy place
@@ -230,10 +230,10 @@ https://freefincal.com/real-estate-investing-practical-aspects-retail-investors-
 - **> 3000 sq ft**
 - **Running balcony**
 - carpet area / floor space / usable floor space
-	- [Watch this before buying a FLAT | How to find fair market value of property - YouTube](https://www.youtube.com/watch?v=qCMFlfBTWks&ab_channel=LabourLawAdvisor)
-	- Carpet area / rera carpet area
-	- Built up area (10-15% more than carpet area)
-	- Super built up area - 20-50% more than built up area
+    - [Watch this before buying a FLAT | How to find fair market value of property - YouTube](https://www.youtube.com/watch?v=qCMFlfBTWks&ab_channel=LabourLawAdvisor)
+    - Carpet area / rera carpet area
+    - Built up area (10-15% more than carpet area)
+    - Super built up area - 20-50% more than built up area
 - [Why are Top Floor Apartments More Expensive? | Boom | Boom](https://www.boompay.app/post/why-top-floor-units-more-expensive)
 - Asian paints smart care damp proof
 

@@ -44,8 +44,8 @@ Transform your plain text into static websites and blogs
 ## Software documentation
 
 1. Product documentation
-	- System documentation
-	- User documentation
+    - System documentation
+    - User documentation
 2. Process documentation
 
 https://www.altexsoft.com/blog/business/technical-documentation-in-software-development-types-best-practices-and-tools

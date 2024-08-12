@@ -4,18 +4,18 @@
 
 1. notion.so
 2. https://www.appflowy.io - AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust.
-	1. https://github.com/AppFlowy-IO/appflowy
+    1. https://github.com/AppFlowy-IO/appflowy
 3. https://www.focalboard.com - Alternative to Asana / Trello / Notion
 4. Atlassian JIRA
-	1. Free Open Source / Self hosted - https://www.taiga.io
+    1. Free Open Source / Self hosted - https://www.taiga.io
 5. Asana
 6. Clickup
 7. Orangescrum - https://github.com/Orangescrum/orangescrum
 8. https://kitemaker.co
 9. AirTable
-	1. https://www.nocodb.com (Airtable Alternative) - [GitHub - nocodb/nocodb: 🔥 🔥 🔥 Open Source Airtable Alternative](https://github.com/nocodb/nocodb)
-	2. [Equals | Dashboards and reports](https://equals.com/report/)
-	3. [The enterprise work management platform](https://www.smartsheet.com/)
+    1. https://www.nocodb.com (Airtable Alternative) - [GitHub - nocodb/nocodb: 🔥 🔥 🔥 Open Source Airtable Alternative](https://github.com/nocodb/nocodb)
+    2. [Equals | Dashboards and reports](https://equals.com/report/)
+    3. [The enterprise work management platform](https://www.smartsheet.com/)
 10. Trello - https://blog.trello.com/trello-team-playbooks
 11. BaseCamp / workday
 12. firmbee
@@ -30,9 +30,9 @@
       3. https://360.yandex.ru/business
 16. Gitlab issues
 17. https://fireflies.ai - AI assistant for your meetings
-	1. [Automated Meeting Reports, Transcripts, Notes, Video, Coaching, Scheduling | Read](https://www.read.ai/)
+    1. [Automated Meeting Reports, Transcripts, Notes, Video, Coaching, Scheduling | Read](https://www.read.ai/)
 18. Calendly
-	1. Appointment scheduling with Google Calendar
+    1. Appointment scheduling with Google Calendar
 19. https://topmate.io
 20. [The scheduling tool that speaks your language - YouCanBookMe](https://youcanbook.me/)
 21. https://github.com/opf/openproject
@@ -50,7 +50,7 @@
 33. https://www.cymath.com - Solve maths question
 34. https://attentioninsight.com
 35. [Mind Map & Brainstorm Ideas - MindNode](https://www.mindnode.com/)
-	1. [Miro | The Visual Workspace for Innovation](https://miro.com/)
+    1. [Miro | The Visual Workspace for Innovation](https://miro.com/)
 36. [Canva: Visual Suite for Everyone](https://www.canva.com)
 37. [FuseBase (Formerly Nimbus): Online Collaboration Tool for Business - Team Collaboration Software](https://nimbusweb.me/)
 

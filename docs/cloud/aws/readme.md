@@ -44,16 +44,16 @@
 - [AWS Rekognition](aws-rekognition)
 - [Amazon Pinpoint](amazon-pinpoint)
 - [Amazon Q (Preview)](https://aws.amazon.com/q/)
-	- Your generative AI-powered assistant designed for work that can be tailored to your business
-	- Q Business
-	- Q Builder
-	- Bedrock
-	- Sagemaker
-	- Trainium & Inferentia
-	- [Supported connectors - Amazon Q](https://docs.aws.amazon.com/amazonq/latest/business-use-dg/connectors-list.html)
-	- Pricing
-      		- Amazon Q Business  $20/month per user
-      		- Amazon Q Developer $25/month per user
+    - Your generative AI-powered assistant designed for work that can be tailored to your business
+    - Q Business
+    - Q Builder
+    - Bedrock
+    - Sagemaker
+    - Trainium & Inferentia
+    - [Supported connectors - Amazon Q](https://docs.aws.amazon.com/amazonq/latest/business-use-dg/connectors-list.html)
+    - Pricing
+              - Amazon Q Business  $20/month per user
+              - Amazon Q Developer $25/month per user
 - [Course - Architecting on AWS](cloud/aws/course-architecting-on-aws.md)
 - [AWS Competency Program](cloud/aws/aws-competency-program.md)
 - [Others](cloud/aws/others.md)

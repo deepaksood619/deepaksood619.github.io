@@ -398,9 +398,9 @@ https://en.wikipedia.org/wiki/Parasocial_interaction
 - [Essentialism](book-summaries/essentialism.md)
 - [Find Your Element](book-summaries/find-your-element.md)
 - [The Secret to Making New Friends as an Adult | Marisa G. Franco | TED](https://www.youtube.com/watch?v=-k0p-DYYZKU)
-	- Make others feel valued and listened
+    - Make others feel valued and listened
 - [Good sex explained in 9 minutes | Dr. Emily Nagoski - YouTube](https://www.youtube.com/watch?v=eqX38J9ya1I)
 - [What is the RIGHT AGE to Get Married? - YouTube](https://www.youtube.com/watch?v=kFOqci-3WPs)
-	- The biggest decision in life is to choose whom to get married to
+    - The biggest decision in life is to choose whom to get married to
 - [Do North Indians Have A Habit Of Showing Off ? | Deep Analysis And Solution - YouTube](https://www.youtube.com/watch?v=3ckyja7K8U4)
 - [You Never Marry the Right Person - RELEVANT](https://relevantmagazine.com/life5/you-never-marry-the-right-person/)

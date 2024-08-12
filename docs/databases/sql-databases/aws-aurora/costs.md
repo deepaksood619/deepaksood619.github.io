@@ -24,18 +24,18 @@
 [AWS Pricing Calculator - Comparision](https://calculator.aws/#/estimate?id=bfde117555e574ecfae0f16ea74a5ae4e6ef2723)
 
 - **Aurora MySQL**
-	- db.r6g.xlarge - 751.04 USD
-	- db.r6g.large - 534.96 USD
+    - db.r6g.xlarge - 751.04 USD
+    - db.r6g.large - 534.96 USD
 - **Amazon RDS for MySQL**
-	- db.r6g.xlarge - 1,242.49 USD
+    - db.r6g.xlarge - 1,242.49 USD
 - **Aurora Serverless v2**
-	- 3 ACU - 713.81 USD
-	- 10 ACU - 1,633.61 USD
+    - 3 ACU - 713.81 USD
+    - 10 ACU - 1,633.61 USD
 - **EC2 m7g.xlarge**
-	- 609.39 USD with EC2 Instance Savings Plans
-	- m5a.xlarge - 634.21 USD with On demand
+    - 609.39 USD with EC2 Instance Savings Plans
+    - m5a.xlarge - 634.21 USD with On demand
 - **Aurora IO Optimized**
-	- db.r6g.xlarge - 1,068.54 USD
+    - db.r6g.xlarge - 1,068.54 USD
 
 ![Different MySQL Comparisons](../../../media/Screenshot%202024-04-15%20at%207.27.11%20PM.jpg)
 
@@ -49,9 +49,9 @@
 - db.r7g.xlarge (4,32) - $397.12 - [db.r7g.xlarge pricing and specs - Vantage](https://instances.vantage.sh/aws/rds/db.r7g.xlarge?region=ap-south-1&os=MySQL&cost_duration=monthly&reserved_term=Standard.partialUpfront)
 - [Amazon EC2 R6g Instances](https://aws.amazon.com/ec2/instance-types/r6g/) are powered by Arm-based AWS Graviton2 processors.
 - [Amazon EC2 R7g instances](https://aws.amazon.com/ec2/instance-types/r7g/) are powered by Arm-based AWS Graviton3 processors.
-	- Migrating to Graviton3-based instances provide up to a 30% performance improvement and up to a 27% price/performance improvement over Graviton2-based instances on RDS
-	- [Amazon RDS now supports AWS Graviton3-based M7g and R7g database instances | AWS re:Post](https://repost.aws/articles/AR56l1F3_-TnWRh6EDV8tJvg/amazon-rds-now-supports-aws-graviton3-based-m7g-and-r7g-database-instances)
-	- [Amazon RDS now supports M7g and R7g database instances](https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-rds-m7g-r7g-database-instances/)
+    - Migrating to Graviton3-based instances provide up to a 30% performance improvement and up to a 27% price/performance improvement over Graviton2-based instances on RDS
+    - [Amazon RDS now supports AWS Graviton3-based M7g and R7g database instances | AWS re:Post](https://repost.aws/articles/AR56l1F3_-TnWRh6EDV8tJvg/amazon-rds-now-supports-aws-graviton3-based-m7g-and-r7g-database-instances)
+    - [Amazon RDS now supports M7g and R7g database instances](https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-rds-m7g-r7g-database-instances/)
 
 ### Choosing Instance type
 
@@ -66,7 +66,7 @@ Amazon RDS provides the flexibility to choose the instance type you need for you
 - https://www.percona.com/blog/2018/07/17/when-should-i-use-amazon-aurora-and-when-should-i-use-rds-mysql
 - https://www.actifio.com/company/blog/post/comparing-aws-rds-for-aurora-vs-mysql-vs-postgresql
 - [AWS — Difference between Amazon Aurora and Amazon RDS | by Ashish Patel | Awesome Cloud | Medium](https://medium.com/awesome-cloud/aws-difference-between-amazon-aurora-and-amazon-rds-comparison-aws-aurora-vs-aws-rds-databases-60a69dbec41f)
-	- Aurora’s unique architecture gives you more durability, scalability, resiliency, and performance when compared to RDS. Although there is a small increase in cost, it is recommend using Aurora for enterprise-level applications. If you are looking for a native high availability solution and/or read-intensive workload, then Aurora is a perfect match.
+    - Aurora’s unique architecture gives you more durability, scalability, resiliency, and performance when compared to RDS. Although there is a small increase in cost, it is recommend using Aurora for enterprise-level applications. If you are looking for a native high availability solution and/or read-intensive workload, then Aurora is a perfect match.
 - [Aurora vs RDS: How to Choose the Right AWS Database Solution](https://www.percona.com/blog/when-should-i-use-amazon-aurora-and-when-should-i-use-rds-mysql/)
 - [AWS RDS MySQL vs. Aurora MySQL - House of Brick](https://houseofbrick.com/blog/aws-rds-mysql-vs-aurora-mysql/)
 

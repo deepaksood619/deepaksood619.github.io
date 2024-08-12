@@ -15,14 +15,14 @@ What is SAP, can be described as an enterprise resource planning software. SAP i
 ## Modules
 
 - SAP S/4 Hana Neo Cloud Core Modules
-	- SAP FI - Financial Accounting
-	- SAP CO - Cost Controlling
-	- SAP Treasury
-	- SAP SD - Sales and Distribution
-	- SAP MM - Materials Management
-	- SAP PS (Project System)
-	- SAP Enterprise Asset Management (EAM)
-	- SAP HR
+    - SAP FI - Financial Accounting
+    - SAP CO - Cost Controlling
+    - SAP Treasury
+    - SAP SD - Sales and Distribution
+    - SAP MM - Materials Management
+    - SAP PS (Project System)
+    - SAP Enterprise Asset Management (EAM)
+    - SAP HR
 - SAP ABAP - Advanced Business Application Programming - Developing Custom Application
 - SAP ARIBA - Supply Chain
 - SAP SuccessFactors

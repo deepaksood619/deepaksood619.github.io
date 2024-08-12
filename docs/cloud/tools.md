@@ -29,24 +29,24 @@
 ### VCS Tools
 
 1. Code Repository
-	1. GitHub
-	2. GitLab
-	3. BitBucket
-	4. AWS CodeCommit
+    1. GitHub
+    2. GitLab
+    3. BitBucket
+    4. AWS CodeCommit
 2. Code Standardization
 3. Pre-commit hooks
-	1. detect-aws-credentials
-	2. detect-private-key
+    1. detect-aws-credentials
+    2. detect-private-key
 4. Formatter - black (for python), etc
 5. Static Code Analysis
 6. SonarQube / CodeScene
 7. Linters (based on coding languages)
 8. Dependabot (github / gitlab)
-	1. [Top Alternatives for Dependabot](https://devdojo.com/yoda/top-dependabot-alternatives)
-	2. [Dependency Management with Renovate: Beyond the Limits of Dependabot](https://blog.opstree.com/2024/03/12/dependency-management-with-renovate-beyond-the-limits-of-dependabot/)
-	3. [Renovate Docs](https://docs.renovatebot.com/)
-	4. [GitHub - renovatebot/tutorial: Renovate Bot Tutorial source](https://github.com/renovatebot/tutorial)
-	5. [GitHub - renovatebot/renovate: Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io](https://github.com/renovatebot/renovate)
+    1. [Top Alternatives for Dependabot](https://devdojo.com/yoda/top-dependabot-alternatives)
+    2. [Dependency Management with Renovate: Beyond the Limits of Dependabot](https://blog.opstree.com/2024/03/12/dependency-management-with-renovate-beyond-the-limits-of-dependabot/)
+    3. [Renovate Docs](https://docs.renovatebot.com/)
+    4. [GitHub - renovatebot/tutorial: Renovate Bot Tutorial source](https://github.com/renovatebot/tutorial)
+    5. [GitHub - renovatebot/renovate: Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io](https://github.com/renovatebot/renovate)
 
 ### CI Tools
 
@@ -55,44 +55,44 @@
 3. Creds Scanner - Trivy
 4. Security Vulnerability - Bandit
 5. SAST
-	1. Open Source
-		1. Bandit
-		2. Brakeman
-		3. Checkmarx CxSAST with Limited Functionalities
-		4. Flawfinder
-		5. SonarQube
-		6. pylint-secure-coding-standard
-		7. SpotBugs (Find Security Bug Plugin)
-	2. Enterprise
-		1. Checkmarx CxSAST
-		2. Kiuwan
-		3. Veracode
-		4. Fortify
-		5. Coverity
-		6. IBM Security AppScan
-		7. CAST
-		8. Qualys - [IT Security and Compliance Platform | Qualys, Inc.](https://www.qualys.com/)
-		9. RedHat Advanced Cluster Security For Kubernetes (only K8s)
+    1. Open Source
+        1. Bandit
+        2. Brakeman
+        3. Checkmarx CxSAST with Limited Functionalities
+        4. Flawfinder
+        5. SonarQube
+        6. pylint-secure-coding-standard
+        7. SpotBugs (Find Security Bug Plugin)
+    2. Enterprise
+        1. Checkmarx CxSAST
+        2. Kiuwan
+        3. Veracode
+        4. Fortify
+        5. Coverity
+        6. IBM Security AppScan
+        7. CAST
+        8. Qualys - [IT Security and Compliance Platform | Qualys, Inc.](https://www.qualys.com/)
+        9. RedHat Advanced Cluster Security For Kubernetes (only K8s)
 6. SCA
-	1. Open Source
-		1. OWSAP Dependency-Check
-		2. Retire.js
-		3. CycloneDX
-		4. OSS Review Toolkit (ORT)
-		5. Licenses Golang Package
-	2. Enterprise
-		1. Black Duck
-		2. WhiteSource
-		3. Aqua Trivy
-		4. JFrog Xray
-		5. FOSSA
-		6. Snyk
-		7. Sonatype Nexus Lifecycle
-		8. RedHat Advanced Cluster Security For Kubernetes (Only K8s)
-		9. Veracode Software Composition Analysis
+    1. Open Source
+        1. OWSAP Dependency-Check
+        2. Retire.js
+        3. CycloneDX
+        4. OSS Review Toolkit (ORT)
+        5. Licenses Golang Package
+    2. Enterprise
+        1. Black Duck
+        2. WhiteSource
+        3. Aqua Trivy
+        4. JFrog Xray
+        5. FOSSA
+        6. Snyk
+        7. Sonatype Nexus Lifecycle
+        8. RedHat Advanced Cluster Security For Kubernetes (Only K8s)
+        9. Veracode Software Composition Analysis
 7. DAST
-	1. Open source - OWASP ZAP
-	2. Enterprise - Acunetix
+    1. Open source - OWASP ZAP
+    2. Enterprise - Acunetix
 8. License Scanner - License Finder
 9. Web App Security - OSWAP
 10. Unit Tests
@@ -102,10 +102,10 @@
 
 1. Jenkins
 2. Deployment patterns
-	1. Canary releases
-	2. A/B testing
-	3. Vulnerability scanning
-	4. Rollbacks
+    1. Canary releases
+    2. A/B testing
+    3. Vulnerability scanning
+    4. Rollbacks
 3. Selenium
 
 ### Monitoring Tools

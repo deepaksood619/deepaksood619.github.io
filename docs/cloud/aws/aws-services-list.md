@@ -8,10 +8,10 @@ Total with Duplicates - 331 services
 
 1. **Amazon Athena** - Query data in S3 using SQL
 2. **Amazon Aurora zero-ETL integration with Amazon Redshift (Preview)** - Amazon Aurora now supports zero-ETL integration with Amazon Redshift
-	1. [Announcing data filtering for Amazon Aurora MySQL zero-ETL integration with Amazon Redshift | AWS Big Data Blog](https://aws.amazon.com/blogs/big-data/announcing-data-filtering-for-amazon-aurora-mysql-zero-etl-integration-with-amazon-redshift/)
+    1. [Announcing data filtering for Amazon Aurora MySQL zero-ETL integration with Amazon Redshift | AWS Big Data Blog](https://aws.amazon.com/blogs/big-data/announcing-data-filtering-for-amazon-aurora-mysql-zero-etl-integration-with-amazon-redshift/)
 3. **Amazon CloudSearch** - Managed search service
 4. **Amazon DataZone (Preview)** - Unlock data across organizational boundaries with built-in governance
-	1. [Fine-grained access control in Amazon DataZone | Amazon Web Services - YouTube](https://www.youtube.com/watch?v=ccf8xn-UeOA&ab_channel=AmazonWebServices)
+    1. [Fine-grained access control in Amazon DataZone | Amazon Web Services - YouTube](https://www.youtube.com/watch?v=ccf8xn-UeOA&ab_channel=AmazonWebServices)
 5. **Amazon EMR** - Hosted Hadoop framework
 6. **Amazon EMR Serverless (Preview)** - Run big data applications using open-source frameworks without managing clusters and servers
 7. **Amazon FinSpace** - Store, catalog, prepare, and analyze financial industry data in minutes
@@ -180,9 +180,9 @@ Total with Duplicates - 331 services
 18. **AWS X-Ray** - Analyze and debug your applications
 19. **Amazon CodeWhisperer** - Build apps faster with ML-powered coding companion
 20. **AWS App Studio** - The fastest and easiest way to build enterprise-grade applications
-	1. [AWS App Studio](https://aws.amazon.com/appstudio/)
-	2. AWS App Studio is a generative AI-powered service that uses natural language to build enterprise-grade applications, empowering a new set of builders to create applications in minutes. With App Studio, technical professionals without deep software development skills, such as IT project managers, data engineers, and enterprise architects, can quickly develop business applications tailored to their organization's needs.
-	3. [Introducing AWS App Studio - Generative AI-Powered Low-Code App Builder | Amazon Web Services - YouTube](https://www.youtube.com/watch?v=tCT5hnxehuA)
+    1. [AWS App Studio](https://aws.amazon.com/appstudio/)
+    2. AWS App Studio is a generative AI-powered service that uses natural language to build enterprise-grade applications, empowering a new set of builders to create applications in minutes. With App Studio, technical professionals without deep software development skills, such as IT project managers, data engineers, and enterprise architects, can quickly develop business applications tailored to their organization's needs.
+    3. [Introducing AWS App Studio - Generative AI-Powered Low-Code App Builder | Amazon Web Services - YouTube](https://www.youtube.com/watch?v=tCT5hnxehuA)
 
 ## 10. End User Computing (3)
 
@@ -193,7 +193,7 @@ Total with Duplicates - 331 services
 ## 11. Front-End Web & Mobile (8)
 
 1. **Amazon API Gateway** - Build, deploy, and manage APIs
-	1. [Amazon API Gateway Pricing | API Management | Amazon Web Services](https://aws.amazon.com/api-gateway/pricing/)
+    1. [Amazon API Gateway Pricing | API Management | Amazon Web Services](https://aws.amazon.com/api-gateway/pricing/)
 2. **Amazon Location Service** - Securely and easily add location data to applications
 3. **Amazon Pinpoint** - Multichannel marketing communications
 4. **Amazon Simple Email Service (SES)** - High-scale inbound and outbound email
@@ -294,7 +294,7 @@ Total with Duplicates - 331 services
 18. **AWS Management Console Mobile Application** - Access resources on the go
 19. **AWS OpsWorks** - Automate operations with Chef and Puppet
 20. **AWS Organizations** - Central governance and management across AWS accounts
-	1. [Best Practices for AWS Organizations](https://www.densify.com/finops/aws-organizations-best-practices/)
+    1. [Best Practices for AWS Organizations](https://www.densify.com/finops/aws-organizations-best-practices/)
 21. **AWS Personal Health Dashboard** - Personalized view of AWS service health
 22. **AWS Proton** - Automate management for container and serverless deployments
 23. **AWS Resilience Hub** - Prepare and protect your applications from disruptions
@@ -304,8 +304,8 @@ Total with Duplicates - 331 services
 27. **AWS Trusted Advisor** - Optimize performance and security
 28. **AWS Well-Architected Tool** - Review and improve your workloads
 29. [AWS Application Composer](https://aws.amazon.com/application-composer/) - Visually design and build modern applications quickly
-	1. [Using generative infrastructure as code with Application Composer | AWS Compute Blog](https://aws.amazon.com/blogs/compute/using-generative-infrastructure-as-code-with-application-composer/)
-	2. [Fetching Title#9y54](https://www.youtube.com/watch?v=XP7LudGsjy8)
+    1. [Using generative infrastructure as code with Application Composer | AWS Compute Blog](https://aws.amazon.com/blogs/compute/using-generative-infrastructure-as-code-with-application-composer/)
+    2. [Fetching Title#9y54](https://www.youtube.com/watch?v=XP7LudGsjy8)
 
 ## 15. Media Services (11)
 

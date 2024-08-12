@@ -156,9 +156,9 @@ https://en.wikipedia.org/wiki/Urine_therapy
 ## Medicines
 
 - [Zentel Chewable Tablet: View Uses, Side Effects, Price and Substitutes | 1mg](https://www.1mg.com/drugs/zentel-chewable-tablet-137773)
-	- 1 tablet after dinner 1 week apart twice
-	- Zentel Chewable Tablet is an antiparasitic medicine, used for the treatment of parasitic worm infections. It works by killing the worms that cause infections and stops the infection from spreading.
-	- Symptoms - Teeth Grinding / Itching at anus
+    - 1 tablet after dinner 1 week apart twice
+    - Zentel Chewable Tablet is an antiparasitic medicine, used for the treatment of parasitic worm infections. It works by killing the worms that cause infections and stops the infection from spreading.
+    - Symptoms - Teeth Grinding / Itching at anus
 
 ## Others
 

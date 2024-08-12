@@ -111,18 +111,18 @@ With homogeneous data migrations, you pay by the hour only for the duration of t
 #### Features
 
 - Engine Support
-	- MySQL versions 5.7.x and above
-	- PosgreSQL versions 10.4 and above
-	- On-premises, Amazon EC2, and Amazon RDS sources
-	- Amazon RDS and Amazon Aurora Targets
+    - MySQL versions 5.7.x and above
+    - PosgreSQL versions 10.4 and above
+    - On-premises, Amazon EC2, and Amazon RDS sources
+    - Amazon RDS and Amazon Aurora Targets
 - Full Schema and Data Set
-	- All data types are fully migrated
-	- Secondary objects are migrated
-	- Partitions are also supported
+    - All data types are fully migrated
+    - Secondary objects are migrated
+    - Partitions are also supported
 - Migration Types
-	- Full load
-	- Full load + change data capture (CDC)
-	- CDC only
+    - Full load
+    - Full load + change data capture (CDC)
+    - CDC only
 - AWS DMS automatically manages the compute and storage resources in the AWS Cloud that are required for homogeneous data migrations. AWS DMS deploys these resources in a serverless environment when you start a data migration.
 - AWS DMS uses native database tools to initiate a fully-automated migration between the databases of the same type.
 - You can use homogeneous data migrations to migrate your data as well as the secondary objects such as partitions, functions, stored procedures, and so on.

@@ -39,26 +39,26 @@ Change Advisory Board (CAB)
 
 - Deployment
 - Deployment Information
-	- Proposed time of deployment
-	- Module changed
-	- Functionalities impacted
-	- Any foreseen risk
-	- DB Changes
+    - Proposed time of deployment
+    - Module changed
+    - Functionalities impacted
+    - Any foreseen risk
+    - DB Changes
 - Developer
-	- Validated module
-	- Validations of functionalities
-	- Code Review done
-	- Sign off (Lead)
+    - Validated module
+    - Validations of functionalities
+    - Code Review done
+    - Sign off (Lead)
 - QA
-	- Sanity
-	- Regression of impacted functionalities
-	- Pre & post behaviour of application
-	- PT if needed
-	- Sign Off
+    - Sanity
+    - Regression of impacted functionalities
+    - Pre & post behaviour of application
+    - PT if needed
+    - Sign Off
 - Business
-	- Confirmation on deployment time
-	- Business validation
-	- Sign Off
+    - Confirmation on deployment time
+    - Business validation
+    - Sign Off
 - DevOps
-	- What all pro-active monitoring should be done
-	- Pre & post behaviour of application and system resources
+    - What all pro-active monitoring should be done
+    - Pre & post behaviour of application and system resources

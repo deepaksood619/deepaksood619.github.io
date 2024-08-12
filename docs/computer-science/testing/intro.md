@@ -107,11 +107,11 @@ https://www.toptal.com/test-automation-engineer/automated-testing-best-practices
 - What is Page Object Model and Page Factory in Selenium?
 - How do you deal with frame elements in Selenium on a page?
 - What are some differences between CSS selector and XPath based locators?
-	- CSS Selector - Unidirectional way
-	- XPath works in unidirectional way
-	- CSS selectors are often easier to read than XPath. Most front-end developers are more likely to be familiar with CSS selectors already.
-	- Support for CSS selectors is quite consistent across various modern web browsers, which is not the case with their XPath engines.
-	- CSS selectors work faster than XPath.
+    - CSS Selector - Unidirectional way
+    - XPath works in unidirectional way
+    - CSS selectors are often easier to read than XPath. Most front-end developers are more likely to be familiar with CSS selectors already.
+    - Support for CSS selectors is quite consistent across various modern web browsers, which is not the case with their XPath engines.
+    - CSS selectors work faster than XPath.
 
 [33 Essential QA Interview Questions and Answers \[2024\] | Toptal®](https://www.toptal.com/qa/interview-questions)
 
