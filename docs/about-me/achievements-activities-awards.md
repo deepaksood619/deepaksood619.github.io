@@ -26,9 +26,43 @@ I was responsible of creating a product and infrastructure around it to help sav
 
 ## Activities
 
+### Unsaid Talks - Coding Ninjas, Chitkara University
+
+This webinar is presented by UnsaidTalks in collaboration with Coding Ninjas, Chitkara University
+
+Meet and Learn from Deepak Sood: A seasoned engineer with 8+ years of experience in AI & data engineering. Deepak has a proven track record of enhancing system efficiency and leading multi-disciplinary teams.
+
+Gain Insights into Gen AI: Discover the essentials of Generative AI, including its applications and opportunities for freshers.
+
+Uncover Tips for a Successful Start: Learn how to kickstart your career in Gen AI, including practical advice and strategies for breaking into this innovative field.
+
+Date - Sun, 25 Aug, 2024
+
+[Unleash your inner innovator: GenAI for freshers | UnsaidTalks X CN-CUIET](https://nas.io/unsaidtalks/events/genai-cn-cuit)
+
+![Unleash your inner innovator: GenAI for Freshers](../media/Pasted%20image%2020240817010531.jpg)
+
+### Unsaid Talks - CodeLocked, BMSCE University
+
+This Webinar is presented by UnsaidTalks in collaboration with CodeLocked, BMSCE University.
+
+Gain Insights into Gen AI: Discover the essentials of Generative AI, including its applications and opportunities for freshers.
+
+Uncover Tips for a Successful Start: Learn how to kickstart your career in Gen AI, including practical advice and strategies for breaking into this innovative field.
+
+Date - Tue, 27 Aug, 2024
+
+[Unleash your inner innovator: GenAI for freshers | UnsaidTalks X CODE LOCKED](https://nas.io/unsaidtalks/events/genai-code-locked)
+
+![Unleash your inner innovator: GenAI for Freshers](../media/Pasted%20image%2020240817010450.jpg)
+
 ### Expert Talk and Hands-on at Manav Rachna - Department of Computer Science and Engineering (14 August 2024)
 
-Presentation - [Empowering GenAI with RAG](https://docs.google.com/presentation/d/1s8lM_3jm6eF_SbWRSzGjREO3QN7RZcgeUM_zA6TH-J8/edit?usp=drive_link)
+Location - Manav Rachna International Institute Of Research And Studies, Research institution in Faridabad, Haryana
+
+Presentation - [Introduction to GenAI](https://docs.google.com/presentation/d/10WUAGO62mXRem3CoK-fI2V9fOIFy__TbbD05fzVcs_w/edit?usp=sharing)
+
+Post - [Deepak Sood on LinkedIn: #genai #rag #artificialintelligence #datascience #aiinnovation…](https://www.linkedin.com/posts/deepaksood619_genai-rag-artificialintelligence-activity-7230291496627789825-T9hR)
 
 ![Expert Speak - Empowering Gen AI with RAG](../media/WhatsApp%20Image%202024-08-10%20at%2016.09.32.jpeg)
 

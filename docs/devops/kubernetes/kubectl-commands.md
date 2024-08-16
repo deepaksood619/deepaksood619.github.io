@@ -738,10 +738,7 @@ print(f'requested_cpu: {total_cpu} nrequested_ram: {total_ram}')
 
 ## References
 
-https://rominirani.com/tutorial-getting-started-with-kubernetes-with-docker-on-mac-7f58467203fd
-
-https://kubernetes.io/docs/reference/kubectl/cheatsheet
-
-https://kubernetes.io/docs/reference/kubectl/overview
-
-https://github.com/dgkanatsios/CKAD-exercises
+- https://rominirani.com/tutorial-getting-started-with-kubernetes-with-docker-on-mac-7f58467203fd
+- https://kubernetes.io/docs/reference/kubectl/cheatsheet
+- https://kubernetes.io/docs/reference/kubectl/overview
+- https://github.com/dgkanatsios/CKAD-exercises

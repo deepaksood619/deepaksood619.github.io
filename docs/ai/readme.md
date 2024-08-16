@@ -16,7 +16,7 @@
 - [Scikit-learn / Scipy](scikit-learn/readme.md)
 - [Libraries](libraries/readme.md)
 - [Courses](courses/readme.md)
-- [Others / Resources / Interview / Learning](ai/others-resources-interview-learning.md)
+- [Others / Resources / Interview / Learning](ai/others-resources-interview-learning-courses.md)
 - [Hackathons](ai/hackathons.md)
 - [Solutions](ai/solutions.md)
     - [Social Media Analytics Solution](ai/social-media-analytics-solution.md)

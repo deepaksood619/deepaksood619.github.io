@@ -92,6 +92,13 @@ Always tell stories, most visual stories are the best, and simple
 - [Blue Doodle Project Presentation](https://online.fliphtml5.com/wzcrr/lpdh/#p=20)
 - [Blue Doodle Project Presentation - ahmad agol Flip PDF | AnyFlip](https://anyflip.com/smmql/oqbm/)
 
+### Thanks
+
+- Ask for feedbacks
+- Link to LinkedIn profile and website
+- Connect over LinkedIn
+- Ask for endorsements on LinkedIn profile on skills
+
 ## Courses
 
 https://nebula.app/persuasive-communication - Wendover production
@@ -195,7 +202,7 @@ When speaking (or writing), use them to spread positivity and joy with others. U
 - lips coming alive "brrrr" like kids
 - tongue exaggerated "la, la, la, la"
 - "rrrrrrrrr" like champagne for the tongue
-- siren high to low 2x "oooweeeeaaaw"  copied comment , used for reminder perposes
+- siren high to low 2x "oooweeeeaaaw"  copied comment , used for reminder purposes
 
 ## Links
 

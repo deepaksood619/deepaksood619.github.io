@@ -282,10 +282,9 @@ Discovery commerce is the equivalent of 'I'm feeling lucky' in Google searches. 
 
 ## Links
 
-[How I Turned $300 Into $5.1 Billion - YouTube](https://www.youtube.com/watch?v=XWwMr1jYIDE)
-
-[13 Businesses Making +$1,000,000/Year With 0 Employees - YouTube](https://www.youtube.com/watch?v=giis6_u8n3M)
-
-[How to build a company board as a founder?](https://shorts.growthx.club/how-to-build-a-board-with-intent)
-
-[GitHub - sdg-1/consulting-handbook: A guide for technical professionals looking to start consulting](https://github.com/sdg-1/consulting-handbook)
+- [How I Turned $300 Into $5.1 Billion - YouTube](https://www.youtube.com/watch?v=XWwMr1jYIDE)
+- [13 Businesses Making +$1,000,000/Year With 0 Employees - YouTube](https://www.youtube.com/watch?v=giis6_u8n3M)
+- [How to build a company board as a founder?](https://shorts.growthx.club/how-to-build-a-board-with-intent)
+- [GitHub - sdg-1/consulting-handbook: A guide for technical professionals looking to start consulting](https://github.com/sdg-1/consulting-handbook)
+- [I Broke Down A Shocking Report About The Indian Luxury Market! - YouTube](https://www.youtube.com/watch?v=o5AAI5WaMFE)
+- [Co-Founder Equity Mistakes to Avoid | Startup School - YouTube](https://www.youtube.com/watch?v=DISocTmEwiI)
