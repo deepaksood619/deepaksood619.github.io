@@ -158,6 +158,7 @@ https://zolostays.com/blog/cities-with-best-weather-in-india
     - https://www.livemint.com/Leisure/6IPqOAHPfAb4aLecr2U0vI/How-safe-is-your-water.html
 - Big Wardrobes (storage)
     - Sliding door better
+    - Add door plastic below adder so cold AC air doesn't leak from below door
 
 #### Tools / Sites
 
@@ -322,6 +323,8 @@ Air pollution in Delhi reduces life expectancy by 10 years
 **1 hectacre (2.47 acre) land to be self sufficient**
 
 1 acre = 4046 sq mtrs = 63.6 mtr x 63.6 mtr
+
+- [Plots in Chattarpur Delhi - 55+ Residential Land / Plots in Chattarpur Delhi](https://www.99acres.com/residential-land-in-chattarpur-south-delhi-ffid)
 
 A person feeding themselves a vegetarian diet would need about an acre of land a year. If they were to eat meat by raising chickens, goats and cows this would be 3 acres and above.
 

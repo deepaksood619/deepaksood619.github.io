@@ -6,6 +6,8 @@ FIRE has more to do with your current lifestyle. To implement FIRE, you save and
 
 Enough will never be enough
 
+## Types
+
 ### Lean FIRE
 
 Saving up to 25x their annual expenses and adhere to a strict budget.
@@ -36,6 +38,8 @@ Retiring with a part-time job and minimal post-retirement corpus
 - Choicest lifestyle, but with an eye on the future.
 - Opportunity to go back to full-time employment in case you exhaust your F.I.R.E budget due to unforeseen circumstances
 
+## Retirement Calculation with Variables
+
 [How To RETIRE EARLY In Your 40s Using The F.I.R.E. METHOD? | Financial Independence | ET Money](https://youtu.be/A_PVV23MxJc)
 
 Financial Independence (FI) ratio - passive income/expenses
@@ -47,8 +51,6 @@ Anything above 100 is good
 https://thepoorswiss.com/financial-independence-ratio-fi
 
 https://networthify.com/calculator/earlyretirement
-
-#### Retirement Calculation with Variables
 
 - Age - 30
 - Retirement Age - 50
@@ -115,6 +117,8 @@ https://economictimes.indiatimes.com/wealth/save/set-limits-when-it-comes-to-hel
 
 - DINK - Double Income No Kid
 - Double Income No Kids With A Dog/Cat (DINKWAD / DINKWAC)
+- FI-NP-RE / FINPRE - Financially Independent, not planning to Retire Early
+- HENRY - High Earning but Not Rich Yet
 
 ## Links
 

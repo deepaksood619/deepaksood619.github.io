@@ -35,6 +35,7 @@ The future of decentralized finance lies in the hands of those who dare to chall
 - Security - [Web3 Security Leaderboard](https://www.certik.com/)
 - [Blockchain Analytics & Crypto Compliance Solutions | Elliptic](https://www.elliptic.co/)
 - [Gauntlet](https://gauntlet.network/)
+- [Webacy](https://www.webacy.com/)
 
 #### Platforms
 

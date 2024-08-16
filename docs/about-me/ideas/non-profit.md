@@ -192,3 +192,8 @@ Problems
 - NGO / Donation
 - Housing for all
 - Share a home
+
+## NGOs
+
+- [Wadhwani Foundation: Creating Jobs. Changing Lives.](https://wadhwanifoundation.org/)
+- [AI for Social Impact - Wadhwani AI](https://www.wadhwaniai.org/)

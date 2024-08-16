@@ -1,4 +1,4 @@
-# Others / Resources / Interview / Learning
+# Others / Resources / Interview / Learning / Courses
 
 - [Intro to graph neural networks (ML Tech Talks)](https://www.youtube.com/watch?v=8owQBFAHw7E&ab_channel=TensorFlow)
 - [Machine Learning Course for Beginners](https://www.youtube.com/watch?v=NWONeJKn6kc)
@@ -32,6 +32,7 @@
 - [udlbook](https://udlbook.github.io/udlbook/)
 - [Deep Learning Fundamentals Handbook - What You Need to Know to Start Your Career in AI](https://www.freecodecamp.org/news/deep-learning-fundamentals-handbook-start-a-career-in-ai/)
 - [Learn Machine Learning in 2024](https://www.freecodecamp.org/news/learn-machine-learning-in-2024/)
+- [5 Free AI Courses With Certifications In 2024](https://www.forbes.com/sites/rachelwells/2024/08/08/5-free-ai-courses-with-certifications-in-2024/)
 
 ## DS (Data Science) + DA (Data Analytics) + DE (Data Engineering)
 

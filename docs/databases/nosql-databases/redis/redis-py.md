@@ -46,61 +46,25 @@ for key, value in enumerate(r.keys('test:*')):
 class redis.Redis(host=u'localhost',port=6379,db=0, password=None, socket_timeout=None, socket_connect_timeout=None, socket_keepalive=None, socket_keepalive_options=None, connection_pool=None, unix_socket_path=None, encoding=u'utf-8', encoding_errors=u'strict', charset=None, errors=None, decode_responses=False, retry_on_timeout=False, ssl=False, ssl_keyfile=None, ssl_certfile=None, ssl_cert_reqs=u'required', ssl_ca_certs=None, max_connections=None, single_connection_client=False, health_check_interval=0)
 ```
 
-- get(name)
+- `get(name)` - Return the value at key name, or None if the key doesn't exist
+- `getset(name,value)` - Sets the value at key name to value and returns the old value at key name atomically
+- `exists(*names)` Returns the number of names that exist
+- `keys(pattern=u'*')` - Returns a list of keys matching pattern
+- `append(key,value)` - Appends the string value to the value at key. If key doesn't already exist, create it with a value of value. Returns the new length of the value at key.
+- `rpush(name,*values)` - Push values onto the tail of the list name
+- `rpushx(name,value)` - Push value onto the tail of the list name if name exists
+- `lrange(name,start,end)` - Return a slice of the list name between position start and end. start and end can be negative numbers just like Python slicing notation
+- `ttl(name)` - Returns the number of seconds until the key name will expire
+- `type(name)` - Returns the type of key name
 
-    Return the value at keyname, or None if the key doesn't exist
+`set(name,value,ex=None,px=None,nx=False,xx=False, keepttl=False)`
 
-- getset(name,value)
-
-    Sets the value at keynametovalueand returns the old value at key name atomically
-
-- exists(*names)
-
-    Returns the number of names that exist
-
-- keys(pattern=u'*')
-
-    Returns a list of keys matchingpattern
-
-- append(key,value)
-
-    Appends the stringvalueto the value atkey. Ifkeydoesn't already exist, create it with a value ofvalue. Returns the new length of the value atkey.
-
-- set(name,value,ex=None,px=None,nx=False,xx=False, keepttl=False)
-
-    Set the value at keynametovalue
-
-    `ex` sets an expire flag on keynameforexseconds.
-
-    `px` sets an expire flag on keynameforpxmilliseconds.
-
-    `nx` if set to True, set the value at key name to value only if it does not exist.
-
-    `xx` if set to True, set the value at key name to value only if it already exists.
-
-    keepttl if True, retain the time to live associated with the key. (Available since Redis 6.0)
-
-- rpush(name,*values)
-
-    Push values onto the tail of the list name
-
-- rpushx(name,value)
-
-    Push value onto the tail of the list name if name exists
-
-- lrange(name,start,end)
-
-    Return a slice of the list name between position start and end
-
-    start and end can be negative numbers just like Python slicing notation
-
-- ttl(name)
-
-    Returns the number of seconds until the keynamewill expire
-
-- type(name)
-
-    Returns the type of keyname
+- Set the value at key name to value
+- `ex` sets an expire flag on key name for ex seconds.
+- `px` sets an expire flag on keynameforpxmilliseconds.
+- `nx` if set to True, set the value at key name to value only if it does not exist.
+- `xx` if set to True, set the value at key name to value only if it already exists.
+- keepttl if True, retain the time to live associated with the key. (Available since Redis 6.0)
 
 ## Sentinel
 

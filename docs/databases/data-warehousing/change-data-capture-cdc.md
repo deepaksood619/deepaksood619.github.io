@@ -126,6 +126,7 @@ This is **Maxwell's daemon**, a [change data capture](https://www.confluent.io
     - [Getting Started with Hevo - An Overview - YouTube](https://www.youtube.com/watch?v=p0XGLDgvCo8&ab_channel=HevoData)
 - upsolver
 - archion
+- [**CloudQuery** | Data Fabric for Cloud and Security Teams](https://www.cloudquery.io/)
 
 [12 best data migration tools of 2023](https://www.fivetran.com/learn/data-migration-tools)
 

@@ -1,4 +1,4 @@
-# RAG Presentation
+# RAG / GenAI Presentation
 
 TFUG - TensorFlow User Group Ghaziabad
 

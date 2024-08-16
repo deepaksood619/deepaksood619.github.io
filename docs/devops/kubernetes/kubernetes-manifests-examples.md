@@ -387,3 +387,34 @@ spec:
         periodSeconds: 15
         selectPolicy: Max
 ```
+
+### Example Sidecar - busybox / ubuntu
+
+```yaml
+apiVersion: v1
+kind: Pod
+metadata:
+  name: ubuntu
+spec:
+  containers:
+  - name: ubuntu
+    image: ubuntu:latest
+    # Just spin & wait forever
+    command: [ "/bin/bash", "-c", "--" ]
+    args: [ "while true; do sleep 600; done;" ]
+    volumeMounts:
+    - mountPath: /bitnami/postgresql
+      name: data
+      readOnly: true
+  nodeSelector:
+    kubernetes.io/hostname: lke163034-239223-343b41fd0000
+  tolerations:
+  - key: key
+    operator: Equal
+    value: value
+    effect: NoSchedule
+  volumes:
+  - name: data
+    persistentVolumeClaim:
+      claimName: data-airflow-postgresql-0
+```

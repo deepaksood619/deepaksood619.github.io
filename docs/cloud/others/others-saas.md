@@ -158,6 +158,7 @@ MuleSoft is a platform that gives IT the tools to automate everything. This incl
 
 - [Shopflo · A checkout that converts](https://shopflo.com/)
 - Stripe
+- [Social media makes you famous. Nas.io helps you pay rent.](https://nas.io/india)
 
 ## Others
 
