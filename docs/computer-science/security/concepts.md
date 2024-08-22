@@ -10,6 +10,20 @@
 
 Alice, Bob and Trudy (Adversary)
 
+## Authenticity vs Non-repudiation
+
+Authenticity and non-repudiation are two of the five pillars of information assurance (IA) that are closely related but distinct security concepts
+
+### Authenticity
+
+Verifies the legitimacy of a sender or source of a message. Techniques used to establish authenticity include authentication, digital certificates, and biometric identification.
+
+### Non-repudiation
+
+Confirms the validity and legitimacy of a message, and binds an entity to a transaction so that it cannot later be repudiated. Non-repudiation is important to ensure that a party cannot deny having sent or received a message or transaction, and protects against message tampering and replay attacks.
+
+[authentication - What is the difference between authenticity and non-repudiation? - Information Security Stack Exchange](https://security.stackexchange.com/questions/6730/what-is-the-difference-between-authenticity-and-non-repudiation)
+
 ## Managing Passwords and Application Secrets: Common Anti-Patterns
 
 1. The Shared Password

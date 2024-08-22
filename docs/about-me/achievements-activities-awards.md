@@ -26,7 +26,13 @@ I was responsible of creating a product and infrastructure around it to help sav
 
 ## Activities
 
-### Unsaid Talks - Coding Ninjas, Chitkara University
+### Mentorship - Unsaid Talks (22 August 2024)
+
+[UnsaidTalks on LinkedIn: #unsaidtalks #mentorshipprogram #techcareers #careerguidance…](https://www.linkedin.com/posts/unsaidtalks_unsaidtalks-mentorshipprogram-techcareers-activity-7232001433175216129-Eff-?utm_source=share&utm_medium=member_desktop)
+
+### Unsaid Talks - Coding Ninjas, Chitkara University (24 August 2024)
+
+Slides - [GenAI for Freshers](https://docs.google.com/presentation/d/1UdfCWT-YHMX0hhTO3DuwqdBLMvGT3a3KLyT9ldIkOpQ/edit?usp=sharing)
 
 This webinar is presented by UnsaidTalks in collaboration with Coding Ninjas, Chitkara University
 
@@ -36,13 +42,29 @@ Gain Insights into Gen AI: Discover the essentials of Generative AI, including i
 
 Uncover Tips for a Successful Start: Learn how to kickstart your career in Gen AI, including practical advice and strategies for breaking into this innovative field.
 
+This webinar will explore the fundamentals of Generative AI, offering essential skills for beginners and intermediate learners while discussing various career opportunities.🤩
+
+Highlights
+
+- Clear explanation of the underlying technology behind Generative AI.
+- Learn how to access and use various AI tools and platforms.
+- Discussion on the broader implications of AI on jobs and education.
+- Gen AI Essentials: Understand Generative AI and its real-world applications
+- Career Tips: Get strategies to break into Gen AI and explore other career options as a fresher
+
 Date - Sun, 25 Aug, 2024
 
 [Unleash your inner innovator: GenAI for freshers | UnsaidTalks X CN-CUIET](https://nas.io/unsaidtalks/events/genai-cn-cuit)
 
+Post - [Deepak Sood on LinkedIn: I’m excited to be presenting in the upcoming webinar on 'Getting Started…](https://www.linkedin.com/posts/deepaksood619_webinar-genai-artificialintelligence-activity-7231675608508841984-ZRo-?utm_source=share&utm_medium=member_desktop)
+
+Post - [Coding Ninjas CUIET on LinkedIn: Step into the future now—ignite your imagination with the limitless… | 10 comments](https://www.linkedin.com/posts/codingninjas-cuiet_step-into-the-future-nowignite-your-imagination-activity-7231187956198207488-NrVS?utm_source=share&utm_medium=member_desktop)
+
 ![Unleash your inner innovator: GenAI for Freshers](../media/Pasted%20image%2020240817010531.jpg)
 
-### Unsaid Talks - CodeLocked, BMSCE University
+### Unsaid Talks - CodeLocked, BMSCE University (27 August 2024)
+
+Slides - [GenAI for Freshers](https://docs.google.com/presentation/d/1UdfCWT-YHMX0hhTO3DuwqdBLMvGT3a3KLyT9ldIkOpQ/edit?usp=sharing)
 
 This Webinar is presented by UnsaidTalks in collaboration with CodeLocked, BMSCE University.
 

@@ -197,6 +197,7 @@
 - [TechAltar - YouTube](https://www.youtube.com/@TechAltar)
 - Undecided with Matt Ferrell
 - [Two Bit da Vinci - YouTube](https://www.youtube.com/@TwoBitDaVinci)
+- [Fully Charged Show - YouTube](https://www.youtube.com/fullychargedshow)
 
 ### Finance / Stocks / Personal finance / Economics
 
@@ -245,6 +246,7 @@
 
 ### People
 
+- [Bill Gates - YouTube](https://www.youtube.com/@billgates)
 - Dhruv Rathee
 - Andrew Huberman (professor of neurobiology at Stanford)
 - Kishore Mahbubani

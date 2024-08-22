@@ -67,6 +67,8 @@ ChatGPT, could you aid me in crafting a compelling proposal presentation script 
 
 #### Prompt 3
 
+Create a presentation using below details
+
 - Presentation title
 - Outline
     1. Introduction to GenAI

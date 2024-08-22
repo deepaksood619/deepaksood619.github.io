@@ -36,7 +36,7 @@ The project consists of a family of open source components that are tightly inte
 
 NATS Streaming subscribers can retrieve messages published when they were offline, or replay a series of messages. Streaming inherently provides a buffer in the distributed application ecosystem, increasing stability. This allows applications to offload local message caching and buffering logic into NATS and ensures a message is never lost.
 
-## Main features
+### Main features
 
 - Pure pub-sub
 - Clustered mode server
@@ -47,7 +47,7 @@ NATS Streaming subscribers can retrieve messages published when they were offlin
 - Event streaming service
 - Last/Initial value caching
 
-## NATS and NATS Streaming
+### NATS and NATS Streaming
 
 For context, [NATS](https://nats.io/) and [NATS Streaming](https://nats.io/documentation/streaming/nats-streaming-intro/) are two different things. NATS Streaming is a log-based streaming system built on top of NATS, and NATS is a lightweight pub/sub messaging system. NATS was originally built (and then open sourced) as the control plane for Cloud Foundry. NATS Streaming was built in response to the community's ask for higher-level guarantees - durability, at-least-once delivery, and so forth - beyond what NATS provided. It was built as a separate layer on top of NATS. I tend to describe NATS as a dial tone - ubiquitous and always on - perfect for "online" communications. NATS Streaming is the voicemail - leave a message after the beep and someone will get to it later. There are, of course, more nuances than this, but that's the gist.
 

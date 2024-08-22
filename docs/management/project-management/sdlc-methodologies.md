@@ -7,6 +7,26 @@
 - Waterfall: Large-Scale, End-Goal Focused, And Fixed Projects
 - Hybrid: Flexible And Fast-Paced Projects With Structured Plans
 
+## Project Methodology
+
+Project methodology is ==a system of principles, techniques, and procedures that project managers use to guide their work==. Different methodologies can have different structures, deliverables, workflows, and software requirements. Here are some examples of project management methodologies:
+
+### Scrum
+
+A popular Agile framework that uses short, regular work cycles called sprints to deliver products quickly and with high quality. Scrum teams self-organize and use meetings, tools, and roles to learn from experience and adapt to change.
+
+### Kanban
+
+A lean project management framework that uses a visual board to show the status of each project component and who is working on it. Kanban helps teams manage workflow and communicate in real time.
+
+### Agile
+
+An approach that breaks projects into phases and emphasizes continuous improvement and collaboration. Teams follow a cycle of planning, executing, and evaluating.
+
+### Critical path method
+
+A technique that helps identify the longest sequence of activities that must be completed on time to finish a project. The method involves creating a detailed schedule that includes all activities, milestones, and dependencies.
+
 ### Lean
 
 Lean was created in the Japanese manufacturing industry to improve quality control and remove redundancies that may increase the price or value for customers down the line.

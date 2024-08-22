@@ -102,6 +102,7 @@
 - [Invideo AI - Turn ideas into videos - AI video creator](https://invideo.io/)
 - [\[2407.09025\] SpreadsheetLLM: Encoding Spreadsheets for Large Language Models](https://arxiv.org/abs/2407.09025)
 - [GitHub - WecoAI/aideml: AIDE: the Machine Learning CodeGen Agent](https://github.com/WecoAI/aideml)
+- [aiPDF - Your AI-Powered PDF Chat App](https://aipdf.ai/)
 
 ![ai-tools](../../media/image.png)
 

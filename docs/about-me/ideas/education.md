@@ -12,8 +12,10 @@ Highly personalized education for each person
 2. Everyone will be quizzed and taught about something+ practical hands on learning
 3. Create an app, that will tell kids to do everything, along with sending items for art and craft, it should be multi modal live 24x7, digital tutor
 
-- [Meet Khanmigo, Khan Academy's AI-powered teaching assistant & tutor](https://www.khanmigo.ai/)
-- [Khan Academy | Free Online Courses, Lessons & Practice](https://www.khanacademy.org/)
+## Business
+
+- JEE Preparation
+- UPSC Preparation
 
 ## Study loop, personal tutor
 
@@ -60,6 +62,44 @@ Highly personalized education for each person
 - For senior people, the AI should be able to ask for what they want to do in life, understand passion, access them for that, tell their strengths and weakness and then teach, test and revise them to bridge the gaps
 - it should be real time updated with all exams, forms, dates, etc for all the things and should be able to ask person to apply and then prepare them for it using tests and quizzes specifically using past exam questions
 
+### Computer science engineer
+
+- Full roadmaps
+- Start with fundamentals
+- Combination of video/text + quizzes/hands-on/hackathons, etc
+- 8 hour you have to clock in your laptop screen
+   	- Full tracking on what you did
+   	- What errors you made, based on that your curriculum will be improved
+   	- Pomodoro
+   	- Repetitive learning / flashcards, etc
+- Full placement support
+
+### Personalized Tutor / mentor
+
+- Start with greetings - Hi Deepak, How are you?
+- Virtual AI
+- Language capability - English and all other languages
+- Tone and speed according to user's understanding
+- What you learned yesterday, and what you are going to learn today
+- What were your strengths and what were your weaknesses, how we will overcome this together
+- Adapt to users needs and understanding
+- Teach via stories
+- Questions, answers, approach, what's wrong with the approach, how to improve the approach
+- Hand holding, after every answer give a prompt for student to ask next atleast till their minds open up and they can start thinking themselves
+- Create a overenthusiastic, helpful, happy tutor
+
+### Teacher side
+
+- Teacher upskilling
+- Teachers will act as an interface between students and AI tutor
+
+### Reporting / Observability
+
+- Send daily, weekly, monthly reports to students, parents and teachers
+   	- How many things you learned today
+   	- Summary and revision material in reviewable format
+   	- Send materials
+
 ### Links
 
 [A social ‘study buddy’ gets a conversational lift from Meta Llama](https://ai.meta.com/blog/foondamate-study-aid-education-llama/)
@@ -80,13 +120,14 @@ Highly personalized education for each person
 
 **DigiProctor** with a 360 degree camera with all AI
 
-### Competitors
+## Competitors
 
-[linkedin.com/in/qudduspat/](https://www.linkedin.com/in/qudduspat/)- qp@asi.tech
-
-[How a High Schooler in Dubai Built ASI, One of the Most Promising AI Edtech Startups](https://www.businessinsider.com/edtech-asi-ai-dubai-chatbot-tutoring-assistant-2023-9?IR=T)
-
-[ASI | Home](https://www.asi.tech/)
+- [linkedin.com/in/qudduspat/](https://www.linkedin.com/in/qudduspat/)- qp@asi.tech
+- [How a High Schooler in Dubai Built ASI, One of the Most Promising AI Edtech Startups](https://www.businessinsider.com/edtech-asi-ai-dubai-chatbot-tutoring-assistant-2023-9?IR=T)
+- [ASI | Home](https://www.asi.tech/)
+- [Tutor AI - Your personal AI tutor to learn anything](https://tutorai.me/)
+- [Meet Khanmigo, Khan Academy's AI-powered teaching assistant & tutor](https://www.khanmigo.ai/)
+- [Khan Academy | Free Online Courses, Lessons & Practice](https://www.khanacademy.org/)
 
 ## Free Education with Boarding (Coaching)
 
@@ -144,6 +185,36 @@ https://www.notboring.co/p/primer-the-ambitious-home-for-ambitious
 - Public speaking
 - Car maintenance
 - Stress management (emotions)
+
+## Brain Twin
+
+Brain twin, digital twin but for brains.
+
+It knows what you know and it knows how a brain looks like for becoming the best of yourself and it will help you get there.
+
+Vision - world's best tutor democratized
+
+The problem is how to add human intelligence to our LLM model like if you are bad at history and that is only 10% of the whole 100% marks in UPSC then LLM should decide that it should focus more on the remaining 90% rather than the 10% which you are not able to crack.
+
+First LLM should be trained on whole UPSC syllabus and should know everything about UPSC. It should have like 1 crore column and then for each candidate one row and it should know for each candidate what he/she knows.
+
+This whole 1 crore features now should be sent to the LLM to decide on the next plan of action. as to what should be taught today to the candidate so that he can reach the ultimate goal. Foundational things should be taught first.
+
+It should also get when you want to give the exam. And create a plan according to that along with probability of cracking the exam displayed each day.
+
+It should make sure you learn 8 or whatever allocated hours for that day, based on your plan.
+
+First judge the LLM what is its current capability for cracking UPSC exam.
+
+[https://chatgpt.com/g/g-qlEOchbSN-upsc-gpt-complete-notes-maker?utm_source=gptshunter.com](https://chatgpt.com/g/g-qlEOchbSN-upsc-gpt-complete-notes-maker?utm_source=gptshunter.com)
+
+[https://chatgpt.com/g/g-qlEOchbSN-upsc-gpt-complete-notes-maker](https://chatgpt.com/g/g-qlEOchbSN-upsc-gpt-complete-notes-maker)
+
+[https://chatgpt.com/g/g-jsLRUXjZp-gandhi](https://chatgpt.com/g/g-jsLRUXjZp-gandhi)
+
+Save 100+ hours in prelims note making. Notes based on psychological method of 'Active Recall'. Reduces time to memorize and revise. Best for NCERTs, IGNOU, RS Sharma, Satish Chandra, Spectrum etc. While revising, take up questions randomly for better retention in memory.
+
+Just add a module of UPSC in khan academy. It has everything.
 
 ## Links
 

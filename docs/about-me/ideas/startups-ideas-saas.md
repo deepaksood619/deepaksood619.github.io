@@ -225,6 +225,14 @@ Business model -
 
 When everyone is onboard with the concept to not go to first every site for offers and then recharge, we can get a cut from the recharges. And exclusive codes also.
 
+### Lie Detector
+
+Whatever politicians say or anyone say, make it searchable,
+
+Transcribe it and add summary along with whole transcript searchable
+
+Highlight all points that they have spoken contradictory
+
 ## Tech
 
 ### Simplify git and docker environment management

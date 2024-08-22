@@ -104,6 +104,10 @@ Mis (Monthly Income Scheme) - Limit 9 lakh
 
 [Sukanya Samriddhi Account - Know Scheme Details & Benefits for Your Girl Child | HDFC Bank](https://www.hdfcbank.com/personal/save/accounts/sukanya-samridhi-account)
 
+### NSC (National Savings Certificate) vs Post Office FD
+
+[10 Lakh Investment 💰 #epmshorts - YouTube](https://www.youtube.com/shorts/CxZ0FNv7BC8)
+
 ## Links
 
 - [5 High Profit, Tax Free Government Investing Options! | Ankur Warikoo Hindi - YouTube](https://www.youtube.com/watch?v=3Fxuq0jeUkk)

@@ -282,3 +282,5 @@ https://www.testingexcellence.com/top-10-open-source-performance-testing-tools
 [BlazeMeter Continuous Testing | BlazeMeter by Perforce](https://www.blazemeter.com/)
 
 Selenium
+
+QAOps - [What is QAOps? (With Methodologies) | BrowserStack](https://www.browserstack.com/guide/what-is-qaops)

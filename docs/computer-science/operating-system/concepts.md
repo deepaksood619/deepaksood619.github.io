@@ -116,7 +116,7 @@ Ideally, all related VMs are managed through a single web-based virtualization m
 
 Simply put, virtualization creates the environments and resources you need from underused hardware.
 
-## Types of Virtualization
+### Types of Virtualization
 
 1. **Data Virtualization:** Data that's spread all over can be consolidated into a single source. Data virtualization allows companies to treat data as a dynamic supply - providing processing capabilities that can bring together data from multiple sources, easily accommodate new data sources, and transform data according to user needs. Data virtualization tools sit in front of multiple data sources and allow them to be treated as single source. They deliver the needed data - in the required form - at the right time to any application or user.
 2. **Desktop Virtualization:** Easily confused with operating system virtualization - which allows you to deploy multiple operating systems on a single machine - desktop virtualization allows a central administrator (or automated administration tool) to deploy simulated desktop environments to hundreds of physical machines at once. Unlike traditional desktop environments that are physically installed, configured, and updated on each machine, desktop virtualization allows admins to perform mass configurations, updates, and security checks on all virtual desktops.
@@ -146,7 +146,7 @@ In DSM, data is accessed from a shared space similar to the way that virtual mem
 
 ![image](../../media/Concepts-image9.jpg)
 
-## Advantages of Distributed Shared Memory
+### Advantages of Distributed Shared Memory
 
 - Hide data movement and provide a simpler abstraction for sharing data. Programmers don't need to worry about memory transfers between machines like when using the message passing model.
 - Allows the passing of complex structures by reference, simplifying algorithm development for distributed applications.

@@ -8,7 +8,7 @@
 ## Membership
 
 - Any server in cluster could be the coordinator
-- So every server needs to maintain a list of all the other servers that are currently in the server
+- So every server needs to maintain a list of all the other servers that are currently in the serveran
 - List needs to be updated automatically as servers join, leave, and fail
 - Cassandra uses gossip-based cluster membership
     - Nodes periodically gossip their membership list
@@ -62,10 +62,12 @@ Uses the partitioner, of which there are two kinds
     - **RackInferring:** Assumes topology of network by octet of server's IP address
     - 101.102.103.104 = x.< DC octet >.< rack octet >.< node octet >
     - **PropertyFileSnitch:** uses a config file
-    - **EC2Snitch:** uses EC@
-    - EC2 Region = DC
-    - Availability zone = rack
+    - **EC2Snitch:** uses EC2
+   	    - EC2 Region = DC
+   	    - Availability zone = rack
     - Other snitch options available
+
+[Snitch | Apache Cassandra Documentation](https://cassandra.apache.org/doc/stable/cassandra/architecture/snitch.html)
 
 ## Suspicion mechanisms
 

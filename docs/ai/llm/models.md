@@ -11,6 +11,7 @@
     - [Googles NEW "Med-Gemini" SURPRISES Doctors! (Googles New Medical AI) - YouTube](https://www.youtube.com/watch?v=SZS5WD1du3A&ab_channel=TheAIGRID)
     - [Google Gemini - YouTube](https://www.youtube.com/playlist?list=PLZoTAELRMXVNbDmGZlcgCA3a8mRQp5axb)
 - [Gemma: Google introduces new state-of-the-art open models](https://blog.google/technology/developers/gemma-open-models/) (2B, 7B parameters)
+    - [Smaller, Safer, More Transparent: Advancing Responsible AI with Gemma - Google Developers Blog](https://developers.googleblog.com/en/smaller-safer-more-transparent-advancing-responsible-ai-with-gemma/)
     - Peligemma - [Google's New PaliGemma-Open Vision Language Model - YouTube](https://www.youtube.com/watch?v=un0SjUnHvvE)
     - VLM - Vision Language Model
 - [Meta Llama 3](https://llama.meta.com/llama3/)
@@ -81,6 +82,7 @@ Emotional prompting example - You are Dolphin, an uncensored and unbiased Al ass
 
 ## Evaluation
 
+- [LMSYS Chatbot Arena (Multimodal): Benchmarking LLMs and VLMs in the Wild](https://lmarena.ai/)
 - [Hugging Face Leaderboard](https://huggingface.co/spaces/HuggingFaceH4/open_llm_leaderboard)
 - [Alpaca Eval Leaderboard](https://tatsu-lab.github.io/alpaca_eval/)
 - [GitHub - tatsu-lab/alpaca\_eval: An automatic evaluator for instruction-following language models. Human-validated, high-quality, cheap, and fast.](https://github.com/tatsu-lab/alpaca_eval)

@@ -78,3 +78,13 @@ The CIM system provides an interface for remote applications so that they can ac
 [Virtualization and Containerization: Which one to pick?](https://blog.bytebytego.com/p/virtualization-and-containerization)
 
 [Type 1 vs. Type 2 Hypervisors: What's the Difference?](https://youtu.be/0cAcYq7YyWQ)
+
+## KVM Hypervisor (Kernel-based Virtual Machine)
+
+Kernel-based Virtual Machine (KVM) is an [open source](https://www.redhat.com/en/topics/open-source/what-is-open-source) [virtualization](https://www.redhat.com/en/topics/virtualization/what-is-virtualization) technology built into Linux®. Specifically, KVM lets you turn Linux into a [hypervisor](https://www.redhat.com/en/topics/virtualization/what-is-a-hypervisor) that allows a host machine to run multiple, isolated virtual environments called guests or virtual machines (VMs).
+
+_KVM is part of Linux_. If you’ve got Linux 2.6.20 or newer, you’ve got KVM. KVM was first announced in 2006 and merged into the mainline Linux kernel version a year later. Because KVM is part of existing Linux code, it immediately benefits from every new Linux feature, fix, and advancement without additional engineering.
+
+[What is KVM?](https://www.redhat.com/en/topics/virtualization/what-is-KVM)
+
+[KVM hypervisor: a beginners’ guide | Ubuntu](https://ubuntu.com/blog/kvm-hyphervisor)

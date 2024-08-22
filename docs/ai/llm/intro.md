@@ -77,3 +77,4 @@ The architecture is a standard [transformer network](https://en.wikipedia.org/wi
 - [Scaling Meta’s Infra with GenAI: Journey to faster and smarter Incident Response - YouTube](https://www.youtube.com/watch?v=rpe7eAR90Ko)
 - [AWS re:Invent 2023 - Navigating the future of AI: Deploying generative models on Amazon EKS (CON312) - YouTube](https://www.youtube.com/watch?v=I22pIUSgseA)
 - [GenAI Training In Production: Software, Hardware & Network Considerations - YouTube](https://www.youtube.com/watch?v=1lhrGRqqPWU)
+- [How I Use "AI"](https://nicholas.carlini.com/writing/2024/how-i-use-ai.html)

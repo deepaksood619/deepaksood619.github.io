@@ -81,3 +81,7 @@ https://redis.io/topics/acl
 [MIGRATE | Redis](https://redis.io/commands/migrate/)
 
 [Migrate redis server data from one instance to another instance | by Premanandh | Medium](https://premanandh-s.medium.com/migrate-standalone-redis-server-data-from-one-instance-to-another-instance-c60d79eeca0f)
+
+## Others
+
+- [GitHub - DiceDB/dice: A drop-in replacement of Redis with SQL-based realtime reactivity.](https://github.com/dicedb/dice)

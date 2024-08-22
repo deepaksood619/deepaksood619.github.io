@@ -118,6 +118,12 @@ https://freefincal.com/build-equity-mutual-fund-portfolio
 
 [Nippon India ETF Nifty BeES vs UTI Nifty Index Fund: Which is better?](https://www.youtube.com/watch?v=1HGazJ61Qu8)
 
+- Nippon India ETF Nifty 50 BeES, NSE: NIFTYBEES
+- Nippon India ETF Nifty Next 50 Junior BeES, NSE: JUNIORBEES
+- SBI-ETF 10 Year GILT
+- Motilal Oswal 5 Year G-Sec ETF
+- 8-13 Year Govt Bonds Basket - Nippon
+
 ## Exchange-traded fund (Index ETF)
 
 An exchange-traded fund (ETF) is a collection of securities - such as stocks - that tracks an underlying [index](https://www.investopedia.com/terms/m/marketindex.asp).

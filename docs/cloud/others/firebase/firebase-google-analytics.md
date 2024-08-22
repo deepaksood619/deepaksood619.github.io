@@ -167,13 +167,11 @@ Well, suddenly, that second ad campaign seems like a much better deal, doesn't i
 
 ## Others
 
-https://github.com/PostHog/posthog
-
-https://www.adjust.com
-
-[Heap - Better Insights. Faster. | Heap](https://www.heap.io/)
-
-[Amplitude | Product Analytics & Event Tracking Platform | Amplitude](https://amplitude.com/)
+- https://github.com/PostHog/posthog
+- https://www.adjust.com
+- [Heap - Better Insights. Faster. | Heap](https://www.heap.io/)
+- [Amplitude | Product Analytics & Event Tracking Platform | Amplitude](https://amplitude.com/)
+- [easyinsights.ai](https://easyinsights.ai/)
 
 ### MixPanel
 

@@ -135,3 +135,5 @@ This is **Maxwell's daemon**, a [change data capture](https://www.confluent.io
 [6 Popular CDC Tools, Compared (July 2023 Edition)](https://www.upsolver.com/blog/cdc-tools-comparison-guide)
 
 [The Missing Piece for Modern Data Stack Going Real-time](https://www.arcion.io/blog/the-missing-piece-for-modern-data-stack-going-real-time)
+
+[dltHub: ELT as Python Code](https://dlthub.com/)

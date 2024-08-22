@@ -220,3 +220,4 @@ Vector databases are designed to handle critical query and algorithmic styles se
 - [Rust at speed - building a fast concurrent database](https://www.youtube.com/watch?v=s19G6n0UjsM)
 - https://www.youtube.com/watch?v=Cym4TZwTCNU
 - https://www.freecodecamp.org/news/learn-nosql-in-3-hours
+- [Trillions of Indexes: How Uber’s LedgerStore Supports Such Massive Scale](https://blog.bytebytego.com/p/trillions-of-indexes-how-ubers-ledgerstore)

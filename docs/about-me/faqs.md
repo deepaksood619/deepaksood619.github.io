@@ -1,7 +1,5 @@
 # FAQs
 
-**Reinventing Trust**
-
 ## Describe yourself in a short phrase
 
 Experienced software and product development professional with a track record of leading teams and building data-driven strategic applications.

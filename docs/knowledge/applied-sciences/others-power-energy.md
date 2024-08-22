@@ -39,6 +39,10 @@ IAEA - International Atomic Energy Agency
 
 [Driving On Compressed Air: The Little-Known Compressed Air Revolution - YouTube](https://www.youtube.com/watch?v=fFoYPj3Ntzc)
 
+## Solar
+
+[Rooftop Solar is RISKY!? PM-SGY Subsidy rules | 11 Mistakes to AVOID ❌️ - YouTube](https://www.youtube.com/watch?v=J1GBqATZBRA)
+
 ## Others
 
 [Why do hurricane lanterns look like that?](https://www.youtube.com/watch?v=tURHTuKHBZs)

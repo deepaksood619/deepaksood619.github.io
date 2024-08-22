@@ -5,6 +5,7 @@ TFUG - TensorFlow User Group Ghaziabad
 [Commudle - Connect & Learn With Software Developers](https://www.commudle.com/communities/tensorflow-user-group-ghaziabad/events/meetup-zero-gen-ai-edition/agenda)
 
 Presentation
+
 - [Empowering GenAI with RAG](https://docs.google.com/presentation/d/1s8lM_3jm6eF_SbWRSzGjREO3QN7RZcgeUM_zA6TH-J8/edit?usp=drive_link)
 - [Introduction to GenAI - Hackathon](https://docs.google.com/presentation/d/10WUAGO62mXRem3CoK-fI2V9fOIFy__TbbD05fzVcs_w/edit?usp=sharing)
 

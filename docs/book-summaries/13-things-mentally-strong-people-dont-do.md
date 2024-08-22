@@ -40,3 +40,5 @@ By Amy Morin
 - Examine your thoughts
 
 [The Discipline Expert: 2,000 Years Of Research PROVES Successful People Do One Thing! - Ryan Holiday - YouTube](https://www.youtube.com/watch?v=PafvhTSC4yE)
+
+[13 THINGS MENTALLY STRONG PEOPLE DON'T DO by Amy Morin | Core Message - YouTube](https://www.youtube.com/watch?v=_SzvtJMrXx0)

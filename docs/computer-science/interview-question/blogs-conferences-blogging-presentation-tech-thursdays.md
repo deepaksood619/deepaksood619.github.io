@@ -73,6 +73,7 @@ Level up - As a Developer, series
 2. Failcon
 3. Pycon
 4. [ComputerVisionFoundation Videos - YouTube](https://www.youtube.com/@ComputerVisionFoundation)
+5. [@Scale - YouTube](https://www.youtube.com/@scaleconference)
 
 https://dev.to/stephsmithio/writing-is-thinking-learning-to-write-with-confidence-1ijh
 
