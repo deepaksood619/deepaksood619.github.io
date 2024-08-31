@@ -1,7 +1,5 @@
 # EC2 Instance types
 
-## EC2 Instance Types
-
 [It just got easier to discover and compare EC2 instance types | AWS Compute Blog](https://aws.amazon.com/blogs/compute/it-just-got-easier-to-discover-and-compare-ec2-instance-types)
 
 [GitHub - aws/amazon-ec2-instance-selector: A CLI tool and go library which recommends instance types based on resource criteria like vcpus and memory](https://github.com/aws/amazon-ec2-instance-selector)
@@ -10,6 +8,8 @@
 
 [Amazon EC2 R8g Instances | Now Generally Available | Amazon Web Services - YouTube](https://www.youtube.com/watch?v=AlP51fFHdS0&ab_channel=AmazonWebServices)
 
+## Price Comparison
+
 | Instance Types | On Demand | Spot    | 1 Yr Reserved | 3 Yr Reserved |
 | -------------- | --------- | ------- | ------------- | ------------- |
 | m7g.large      | $59.568   | $27.375 | $39.420       | $27.010       |
@@ -17,16 +17,34 @@
 | m7i.large      | $73.584   | $33.069 | $48.676       | $33.376       |
 | m7a.large      | $84.622   | $35.405 | $55.976       | $38.383       |
 
+### Price comparison between graviton, amd and intel
+
 **Region - Mumbai** -
 
-| Instance Types | On Demand | Spot    | 1 Yr Reserved | 3 Yr Reserved | Cheaper | Costlier |
-| -------------- | --------- | ------- | ------------- | ------------- | ------- | -------- |
-| m6g.large      | $36.938   | $14.965 | $23.287       | $15.987       | 9%      |          |
-| m6a.large      | $40.552   | $18.688 | $26.784       | $18.440       | 45%     | 10%      |
-| m6i.large      | $73.730   | $28.835 | $48.691       | $33.529       |         | 82%      |
+| Instance Types | On Demand | Spot    | 1 Yr Reserved | 3 Yr Reserved | Cheaper than below on-demand | Costlier than above on-demand |
+| -------------- | --------- | ------- | ------------- | ------------- | ---------------------------- | ----------------------------- |
+| m6g.large      | $36.938   | $14.965 | $23.287       | $15.987       | 9%                           |                               |
+| m6a.large      | $40.552   | $18.688 | $26.784       | $18.440       | 45%                          | 10%                           |
+| m6i.large      | $73.730   | $28.835 | $48.691       | $33.529       |                              | 82%                           |
 
 - Graviton is 9% cheaper than AMD and **50% cheaper than Intel**
 - AMD Instances are 45% cheaper than Intel and 10% costlier than graviton
+
+### Price comparison between spot, reserved and on-demand
+
+| m6g.large     |        | Cheaper than on-demand | Costiler than Spot |
+| ------------- | ------ | ---------------------- | ------------------ |
+| Spot          | $12.78 | 65%                    |                    |
+| 3 Yr Reserved | $15.99 | 57%                    | 25%                |
+| 1 Yr Reserved | $23.29 | 37%                    | 82%                |
+| On Demand     | $36.94 |                        | 189%               |
+
+- Spot is 65% cheaper than on-demand
+- 1 year reserved is 37% cheaper than on-demand
+
+[m6g.large pricing and specs - Vantage](https://instances.vantage.sh/aws/ec2/m6g.large?region=ap-south-1&os=linux&cost_duration=monthly&reserved_term=Standard.noUpfront)
+
+## EC2 Instance Types
 
 | **General Purpose**       | A1, T3, T3a, T2, M6g, M5, **M5a**, M5n, M4  |
 |---------------------------|---------------------------------------------|

@@ -72,6 +72,8 @@ Terragrunt is a thin wrapper that provides extra tools for keeping your configur
 
 [Terragrunt | Terraform wrapper](https://terragrunt.gruntwork.io/)
 
+Terraform Modules - [GitHub - asyrafnorafandi/terraform-modules-template: This repository is to be used as a Terraform Module Boilerplate to quickly get started in writing your own Terraform Modules](https://github.com/asyrafnorafandi/terraform-modules-template)
+
 ### Gruntwork
 
 Your entire infrastructure. Defined as code. In about a day

@@ -1,12 +1,12 @@
 # ChatGPT / LLM
 
 - [Intro](ai/llm/intro.md)
+- [Models](ai/llm/models.md)
 - [Limitations / Problems](ai/llm/limitations-problems.md)
 - [LLM Building](ai/llm/llm-building.md)
 - [Design Patterns](ai/llm/design-patterns.md)
 - [RAG Retrieval Augmented Generation](ai/llm/rag-retrieval-augmented-generation.md)
 - [Natural Language to SQL](ai/llm/natural-language-to-sql.md)
-- [Models](ai/llm/models.md)
 - [Prompt Engineering](ai/llm/prompt-engineering.md)
 - [Prompt Examples](ai/llm/prompt-examples.md)
 - [Interview Questions](ai/llm/interview-questions.md)

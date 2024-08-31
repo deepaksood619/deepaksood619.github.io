@@ -39,6 +39,8 @@
 - [Animagraffs - YouTube](https://www.youtube.com/@animagraffs)
 - [MegaBuilds - YouTube](https://www.youtube.com/@megabuildsyt)
 - [Megaprojects - YouTube](https://www.youtube.com/@megaprojects9649)
+- [Stand Together - YouTube](https://www.youtube.com/@standtogethercc)
+- [Dr Ben Miles - YouTube](https://www.youtube.com/@drbenmiles)
 
 ### Video creation, 3D Animation and Youtubing Strategy
 
@@ -170,6 +172,7 @@
 - Vox
 - BBC News
 - CNBC Television
+   	- [CNBC International - YouTube](https://www.youtube.com/@cnbci)
 - Bloomberg
 - The Telegraph
 - NonStop 100 aajtak

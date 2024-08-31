@@ -51,7 +51,7 @@ Parameters can be signed or unsigned.
 
 [Parameters for signed embeds](https://www.metabase.com/docs/latest/embedding/signed-embedding-parameters)
 
-## Plugins
+## Plugins / Tools
 
 ```bash
 # clickhouse
@@ -67,6 +67,8 @@ docker run -d -p 3000:3000 \
   --mount type=bind,source=$PWD/plugins/ch.jar,destination=/plugins/clickhouse.jar --network="host" \
   metabase/metabase:$METABASE_DOCKER_VERSION
 ```
+
+[GitHub - nobuyo/metastasis: DaC(Dashboard as Code) for Metabase.](https://github.com/nobuyo/metastasis)
 
 ## Dashboards
 

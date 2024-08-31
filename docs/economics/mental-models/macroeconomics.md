@@ -177,5 +177,7 @@ The **impossible trinity** (also known as **the impossible [trilemma](https://en
 - [To Answer the Question of Why I Invest in China](https://www.linkedin.com/pulse/answer-question-why-i-invest-china-ray-dalio-bmsxe/)
 - [Country Risk: The 2024 Update - YouTube](https://www.youtube.com/watch?v=h1Q2Mg48y0I&ab_channel=AswathDamodaran)
 - [Compute and the role it plays in AI](https://mlops.substack.com/p/compute-and-the-role-it-plays-in)
+- [Americans Distrusting Capitalism!! | Lessons For India?? | Deshbhakt Conversation With Ruchir Sharma - YouTube](https://www.youtube.com/watch?v=mEIo91ZHrFU)
+- [Where Will the Money and Productivity Come From?](https://www.linkedin.com/pulse/where-money-productivity-come-from-ray-dalio-fetve/)
 
 ## End

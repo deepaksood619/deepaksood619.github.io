@@ -20,6 +20,7 @@
 - [VMware](cloud/others/vmware.md)
 - [SAP](cloud/others/sap.md)
 - [Content Delivery Network (CDN)](cloud/others/cdn-content-delivery-network.md)
+	- [CDN Comparision](cloud/others/cdn-comparision.md)
 - [Imagekit](cloud/others/imagekit.md)
 - [Ticketing / TMS](ticketing-tms)
 - [Business Rule Engine / Decision Rule Engine](business-rule-engine)

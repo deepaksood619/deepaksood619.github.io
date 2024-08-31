@@ -2,6 +2,10 @@
 
 ## Describe yourself in a short phrase
 
+Experienced AI, Data & DevOps Architect with 8+ years of expertise in scaling systems, leading multidisciplinary teams, and driving innovation across AI, data engineering, and infrastructure
+
+Experienced AI, Data & DevOps Architect with expertise in scaling systems, leading multidisciplinary teams, and fostering exponential growth and industry disruption.
+
 Experienced software and product development professional with a track record of leading teams and building data-driven strategic applications.
 
 Experienced software development professional with a track record of leading teams and building data-driven strategic applications

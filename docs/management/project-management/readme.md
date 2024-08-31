@@ -1,6 +1,6 @@
 # Project Management
 
-- [Project Management](management/project-management/intro.md)
+- [Intro](management/project-management/intro.md)
 - [SDLC Methodologies](management/project-management/sdlc-methodologies.md)
 - [PM101](pm101)
 - [Project Constraints](project-contraints)

@@ -11,6 +11,7 @@
     - How to develop curiosity in a child (thirst and passion of knowledge)
         - Hard working
         - Balanced life
+    - Praise for effort and not outcome
 - Have child early, so that phase is complete and then you can focus on ageing parents (so they both don't coincide)
 - Children do not cry if they fall down if no one is around, they will standup and find their parents, and seeing their parents, they will start crying
 - Have 3 serial marriages over the lifetime (Youthful passion, Parenthood, Companionship, and all 3 can be the same too) - there are 3 different demands
@@ -219,7 +220,12 @@ Why kicking out children after 18 years is important, let's say you are very wea
 ## Youtube
 
 - [Emma Hubbard - YouTube](https://www.youtube.com/@EmmaHubbard)
+   	- [Toddler Development (12 Months to 18 Months) - YouTube](https://www.youtube.com/playlist?list=PLEPQYw7MIUjbBw63r0nASZmbst1FF6sHv)
+   	- Natural breaks
+   	- Timers
+   	- Count down
 - [potty training - YouTube](https://www.youtube.com/playlist?list=PLEPQYw7MIUjbysDVfRhyFJCTv2X9JhaUI)
+- [Ms Rachel - Toddler Learning Videos - YouTube](https://www.youtube.com/@msrachel)
 
 ## Milestones
 

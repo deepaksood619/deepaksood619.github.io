@@ -219,3 +219,5 @@ Just add a module of UPSC in khan academy. It has everything.
 ## Links
 
 - [He's helped THOUSANDS of people learn to code \[Leon Noel of #100devs on freeCodeCamp Podcast #117\] - YouTube](https://www.youtube.com/watch?v=KYAakLooVuE&ab_channel=freeCodeCamp.org)
+- [The flawed history of testing — and how we move beyond it - YouTube](https://www.youtube.com/watch?v=sdZLz2t7U4Q)
+- Liberated Podcast - [LiberatED with Kerry McDonald - YouTube](https://www.youtube.com/@liberatedpodcast)

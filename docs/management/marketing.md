@@ -518,12 +518,10 @@ On the available statistics reports, you will find that your deliverability is b
     - https://www.radaar.io
     - https://ads.google.com
         - DV360 (Display & Video 360)
+- [The Only Complete, Composable, Cloud-Native Digital Experience Platform | Sitecore](https://www.sitecore.com/)
 - Content Creation
-
-https://www.peppercontent.io
-
-https://www.peppertype.ai
-
+   	- https://www.peppercontent.io
+   	- https://www.peppertype.ai
 - https://clevertap.com
 - https://developers.google.com/business-communications/rcs-business-messaging
 - Google postmaster tools

@@ -25,6 +25,68 @@ Tomography is [imaging](https://en.wikipedia.org/wiki/Image)by sections or secti
 
 https://en.wikipedia.org/wiki/Tomography
 
+## Heart
+
+### Mild Aortic Stenosis
+
+Aortic stenosis is a heart valve disease that occurs when the aortic valve narrows, preventing blood from flowing normally from the heart to the body. Mild to moderate aortic stenosis may not cause significant symptoms, and many people with mild cases may not notice anything. When symptoms do occur, they can include: Tiredness, Swollen ankles, Heart murmur, Needing to put more effort into physical activity, and Chest pain after activity in children and infants.
+
+Over time, the heart's left ventricle has to work harder to pump blood through the narrowed valve, which can cause it to thicken, enlarge, and weaken. If left untreated, this can lead to heart failure.
+
+### Degenerative valve disease (DVD)
+
+Degenerative valve disease (DVD) is a common heart disease that affects both humans and dogs. In humans, it's the most common type of valvular heart disease in the United States and Europe, and is the primary cause of regurgitant and stenotic valvular lesions. In dogs, it's the most common heart disease and the leading cause of congestive heart failure (CHF).
+
+In humans, DVD can cause myxomatous mitral valve disease, calcified tricuspid aortic valve disease, and calcified bicuspid aortic valve disease. In dogs, the mitral valve is most commonly affected, but the tricuspid valve is also involved in 30% of cases. The disease causes the valves to thicken and develop a lumpy appearance, which prevents them from forming a tight seal between the atrium and ventricle. This causes the valves to leak blood backwards into the upper chambers, which is called regurgitation. The regurgitation can cause an abnormal sound called a heart murmur, which a veterinarian can typically hear with a stethoscope.
+
+In humans, medicines like beta-blockers, digoxin, and calcium channel blockers can help relieve symptoms by controlling the heart rate and preventing abnormal heart rhythms. In dogs, DVD is a chronic, slowly progressive process that can affect dogs for more than five years before resulting in heart failure and death. However, most dogs with asymptomatic CVD can live for many years without ever developing any clinical signs of heart failure.
+
+### Angiography
+
+Angiography, also known as a catheter angiogram, is a type of X-ray that examines blood vessels in the body. It uses a special dye called a contrast agent to highlight blood vessels that don't show up clearly on a normal X-ray. The dye moves through the blood vessels, allowing a doctor to see any problems. The X-ray images created during angiography are called angiograms.
+
+Angiography can be used to examine the vascular system, and is sometimes used to diagnose conditions like heart disease, kidney infections, and blood clots.
+
+During an angiography procedure, a patient is usually awake, but general anesthesia may be used for young children. The procedure involves:
+
+1. Cleaning and numbing an area of the body, such as the arm or groin
+2. Making a small cut in the skin over an artery
+3. Inserting a long, thin, flexible tube called a catheter into the artery and guiding it to the area being examined
+4. Injecting the contrast dye into the catheter
+5. Taking X-ray images to see how the dye moves through the artery
+
+After the procedure, a healthcare provider may find blockages that don't require further treatment, or they may recommend more invasive treatment.
+
+### Computed tomography angiography (CTA)
+
+Computed tomography angiography (CTA) is a medical imaging test that combines a CT scan with a dye injection to create images of blood vessels and tissues in the body. The dye, called a contrast material, is injected intravenously (IV) into an arm or hand to enhance the blood vessels and tissues being studied. The CT scan then takes specialized X-rays of the highlighted areas.
+
+### Angioplasty
+
+A treatment that widens narrowed blood vessels to improve blood flow. During an angioplasty, a catheter or tiny tube is inserted through a blockage, and a balloon is placed on a wire and passed into the narrowed artery. The balloon is then inflated to enlarge the narrow segment, and sometimes a stent is placed to keep the blood vessel open. Angioplasty can take 30 minutes to two hours, and patients are usually released from the hospital 1–2 days after the procedure. Potential side effects include allergic reactions to the dye, blood vessel injury, restenosis, blood clots, and bleeding.
+
+Others
+
+- IVUS + IVL + PCI
+- Essentric vs concentric calcified lesions
+
+### Echocardiogram
+
+An echocardiogram, or "echo", is a non-invasive ultrasound scan that uses sound waves to create images of the heart and nearby blood vessels. The scan is painless and doesn't expose the patient to radiation.
+
+During an echo, a healthcare provider places a small probe, called a transducer, on the patient's chest and moves it around. The probe emits high-frequency sound waves that bounce off the heart's valves and chambers, creating echoes. The echoes are recorded and a computer turns them into moving images that appear on a monitor. The images provide more detailed information than an X-ray and can help the provider evaluate the heart's pumping action.
+
+Doctors often use echoes to:
+
+- Assess left ventricular dysfunction
+- Rule out the heart as a source of a blood clot
+- Characterize murmurs
+- Check for signs of a heart attack, such as impaired blood supply, wall abnormalities, and blood flow
+- Look for blood clots or tumors
+- Evaluate atherosclerosis and coronary artery disease
+
+To prepare for an echo, patients may be asked to lie still on an exam table, breathe in a certain way, or roll onto their left side. They may also receive oxygen through a face mask or tube in their nostrils. For some types of echoes, patients may need to take sedating medication or have their throat numbed with a spray or gel.
+
 ## Glands
 
 Your body has two types of sweat glands:

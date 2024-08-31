@@ -94,6 +94,7 @@ https://zolostays.com/blog/cities-with-best-weather-in-india
 
 #### Metrics
 
+- Maximum life expectancy (if no accident or anything like that) vs life expectancy
 - Population Density
 - Spending on healthcare
 - Taxes and generational tax / Property tax
@@ -239,6 +240,8 @@ https://freefincal.com/real-estate-investing-practical-aspects-retail-investors-
 - Asian paints smart care damp proof
 
 [Should you buy home? | Property investment in India - Future expectations | NIRANJAN HIRANANDANI | - YouTube](https://www.youtube.com/watch?v=FnrbjPvLTXg)
+
+[आपके सपनो का बंगलो | 4 BHK Ultra Luxurious Bungalow For Sale,Ahmedabad | 850 Sqyrd Villa #bungalow - YouTube](https://www.youtube.com/watch?v=6glqoNzMN3Y)
 
 ## Buying vs Renting Home
 

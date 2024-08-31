@@ -154,6 +154,21 @@ Using a single natgateway that exists in only mumbai-1a az. Due to this other ap
 - [Understand AWS Data transfer details in depth from cost and usage report using Athena query and QuickSight | Networking & Content Delivery](https://aws.amazon.com/blogs/networking-and-content-delivery/understand-aws-data-transfer-details-in-depth-from-cost-and-usage-report-using-athena-query-and-quicksight/)
 - [AWS NAT Gateway Pricing: How To Reduce Your Costs](https://www.cloudzero.com/blog/reduce-nat-gateway-costs/)
 
+## Interface Endpoint vs Gateway Endpoint
+
+| Interface Endpoint                                                                                                                                | Gateway Endpoint                                                             |
+| ------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------- |
+| Supports many AWS Managed services, endpoint services hosted by other AWS customers and partners, and supported AWS Marketplace partner services. | It only supports connectivity to Amazon S3 and Amazon DynamoDB               |
+| Acts as an entry point for traffic to reach supported services through AWS PrivateLink.                                                           |                                                                              |
+| Use a private IP address                                                                                                                          | Does not require an elastic network interface.                               |
+| Allow access from on-premise                                                                                                                      | Requests must only originate from a VPC                                      |
+| Allow cross-region access through VPC peering via Transit Gateway                                                                                 | Cross-region access is not allowed                                           |
+| Additional charges                                                                                                                                | No Cost                                                                      |
+| Associated on a subnet level                                                                                                                      | Associated on a VPC Level                                                    |
+| Traffic flows directly to the specific service through the interface endpoint.                                                                    | Traffic is routed through the gateway endpoint to the specified AWS service. |
+
+[VPC Interface Endpoint vs. Gateway Endpoint in AWS - Tutorials Dojo](https://tutorialsdojo.com/vpc-interface-endpoint-vs-gateway-endpoint-in-aws/)
+
 ## Elastic IP Addesses
 
 - Limited to five Elastic IP addresses per account

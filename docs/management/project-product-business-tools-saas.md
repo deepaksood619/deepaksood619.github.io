@@ -62,6 +62,7 @@ The tools of a successful product manager
 - Things - The To Do List
 - Evernote / Onenote - The note taker (Meetings)
 - https://trends.google.com/trends
+   	- [Intro to Google Trends data - YouTube](https://www.youtube.com/watch?v=G76OomPTrE0)
 
 https://gitlabcalendar.kontrollfeld.com
 

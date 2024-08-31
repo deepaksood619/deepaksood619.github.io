@@ -8,6 +8,7 @@
 - [UI / UX / IxD / Design / Frontend](ui-ux-ixd-design-frontend)
 - [Design System](design-system)
 - [SEO / ASO](seo-aso)
+   	- [Google Crawlers / Crawling](frontend/frontend-intro/google-crawlers-crawling.md)
 - [Gestalt Principles](gestalt-principles)
 - [Web Vitals](web-vitals)
 - [Performance](frontend/frontend-intro/performance.md)

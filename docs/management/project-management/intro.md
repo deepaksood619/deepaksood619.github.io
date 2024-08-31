@@ -1,4 +1,4 @@
-# Project Management
+# Intro
 
 https://blog.trello.com/project-management-methodologies
 
@@ -174,6 +174,16 @@ https://en.wikipedia.org/wiki/Responsibility_assignment_matrix
 - Adhoc tasks should be tagged and at last see how many adhoc task comes
 - Close the sprint and start new sprint
     - Move old not completed items to next sprint
+
+## Terms
+
+### RFQ - Request For Quote
+
+A business sends an RFQ when they already know what they want to buy and are looking for pricing options. RFQs are often used when a company wants to compare prices from different vendors, or when they're comparing goods instead of services. An RFQ can be like a shopping list for specific pricing details, and it outlines how vendors should provide pricing data. The business will usually award the contract to the vendor with the lowest bid that meets the qualifying criteria.
+
+### RFP - Request For Proposal
+
+A business sends an RFP when they need more information about a product or service, or when they have a problem but aren't sure how to solve it. RFPs are often used for complex projects, and they describe the scope of a project in detail and ask suppliers to come up with different solutions. The goal of an RFP is to find the right partner for the project based on capabilities and compatibility, not just cost.
 
 ## Analytics
 

@@ -194,6 +194,8 @@ Vector databases are designed to handle critical query and algorithmic styles se
 
 [A Comprehensive Guide to Vector Databases - KDB.AI](https://kdb.ai/blog/a-comprehensive-guide-to-vector-databases/)
 
+[A Fun & Absurd Introduction to Vector Databases • Alexander Chatzizacharias • GOTO 2024 - YouTube](https://www.youtube.com/watch?v=5hAGhmHNTQQ)
+
 - pinecone
 - [**LanceDB**](https://github.com/lancedb/lancedb)
 - [**Epsilla**](https://github.com/epsilla-cloud/vectordb)

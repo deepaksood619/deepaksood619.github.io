@@ -160,3 +160,5 @@ https://blog.codegiant.io/how-to-become-a-10x-engineer-492fa3f57101
 ## Links
 
 [The path between us](../book-summaries/the-path-between-us)
+
+[Do You Really Know Your Personality? | Introduction to Psychology 16 of 30 | Study Hall - YouTube](https://www.youtube.com/watch?v=MEhuMpWnu8M)

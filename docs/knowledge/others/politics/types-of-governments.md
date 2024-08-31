@@ -24,6 +24,8 @@ Educate, agitate, organize -- Dr. B.r. Ambedkar
 
 [Democracy Lab | TED-Ed](https://ed.ted.com/democracy-lab)
 
+[Why Democracy Is Mathematically Impossible - YouTube](https://www.youtube.com/watch?v=qf7ws2DF-zk)
+
 #### Indian Democracy
 
 - [After Modi's great victory in the 2019 election, what is your message for Modi followers? - Quora](https://www.quora.com/After-Modis-great-victory-in-the-2019-election-what-is-your-message-for-Modi-followers)

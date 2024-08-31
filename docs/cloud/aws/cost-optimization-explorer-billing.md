@@ -16,7 +16,7 @@
 - **APS3:** Asia Pacific (Mumbai)
 - **APS5:** Asia Pacific (Hyderabad)
 - GDA - Glacier Deep Archive
-- CUR - Cost and Usage Report
+- CUR - Cost and Usage Report - https://medium.com/@ayushsharma.in/taming-aws-costs-with-cost-and-usage-reports-aws-athena-d2536b35b234
 
 ### Different Costs Type
 
@@ -98,6 +98,23 @@ Compute Optimizer generates recommendations for the following resources:
 - [Using CUDOS Dashboard visualizations for AWS Marketplace spend visibility and optimization | AWS Marketplace](https://aws.amazon.com/blogs/awsmarketplace/using-cudos-dashboard-visualizations-aws-marketplace-spend-visibility-optimization/)
 - [Visualize and gain insights into your AWS cost and usage with Cloud Intelligence Dashboards and CUDOS using Amazon QuickSight | AWS Cloud Operations & Migrations Blog](https://aws.amazon.com/blogs/mt/visualize-and-gain-insights-into-your-aws-cost-and-usage-with-cloud-intelligence-dashboards-using-amazon-quicksight/)
 - [FOCUS Dashboard - YouTube](https://www.youtube.com/watch?v=JfAE9PtXWHA&ab_channel=AWSCloudIntelligenceDashboards)
+
+## Savings Plan
+
+- Savings plan is not application for spot instances
+- Commit to a minimum amount of spending per hour for one or three years to receive a discount on On-Demand Instances. Savings Plans can offer up to 72% off the regular price. However, they can't be canceled during the term and can waste money if not fully utilized.
+
+### Spot Instances
+
+Provide access to leftover capacity at a discount of up to 90% off the On-Demand price. However, they aren't guaranteed to be available and are not ideal for mission-critical workloads because AWS can reclaim them with just two minutes notice.
+
+![savings and spot usage](../../media/Screenshot%202024-08-30%20at%2011.31.01%20PM.jpg)
+
+[EC2 Spot Instances vs. AWS Savings Plans: What are the Potential Savings?](https://www.missioncloud.com/blog/ec2-spot-instances-vs-aws-savings-plans-what-are-the-potential-savings)
+
+[Spot vs. Savings Plans: How to Get Discounts Across All Of Your AWS Spend | nOps](https://www.nops.io/blog/spot-vs-savings-plans/)
+
+[Effective utilization of AWS Savings Plans and EC2 spot instances | Spot.io](https://spot.io/resources/aws-ec2-pricing/effective-utilization-of-aws-savings-plans-and-ec2-spot-instances/)
 
 ## Savings plan Utilization Report and Coverage Report
 

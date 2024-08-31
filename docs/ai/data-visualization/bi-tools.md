@@ -78,6 +78,12 @@ Amazon QuickSight is built with "SPICE" -- a Super-fast, Parallel, In-memory Cal
 - [Amazon Q in QuickSight: Hands-On Demo for Generative BI and Real-Time Insights | Amazon Web Services - YouTube](https://www.youtube.com/watch?v=CFBlREfSItc)
 - [Amazon Q in QuickSight: 2024 Amazon QuickSight Learning Series - YouTube](https://www.youtube.com/watch?v=ioS4BZyxEK4)
 
+## DataIQ
+
+DataIQ is a business intelligence platform designed to help organizations manage, analyze, and derive insights from their data. It typically combines data governance, analytics, and data science capabilities to enable companies to become more data-driven. DataIQ allows users to access and analyze large datasets, create predictive models, and generate actionable insights, often with a focus on improving business outcomes. It can integrate with various data sources and tools to provide a unified view of data across an organization. The platform is used by data professionals, including data scientists, analysts, and business users, to streamline data operations and decision-making processes.
+
+[DataIQ - Collaboration and intelligence for data leaders.](https://www.dataiq.global/)
+
 ## Others
 
 https://www.talend.com/

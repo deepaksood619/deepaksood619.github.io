@@ -28,6 +28,7 @@
 - [Networing and Content Delivery](networking-content-delivery/intro)
     - [Amazon VPC](networking-content-delivery/amazon-vpc)
     - [AWS ELB](networking-content-delivery/aws-elb)
+    - [Amazon Cloudfront](cloud/aws/networking-content-delivery/amazon-cloudfront.md)
 - [Storage](storage/readme.md)
     - [Amazon S3](storage/amazon-s3)
     - [Amazon S3 Storage Classes](cloud/aws/storage/amazon-s3-storage-classes.md)
@@ -69,6 +70,8 @@ Total - 171 services in the periodic table
 https://www.awsgeek.com/Periodic-Table-of-Amazon-Web-Services/Periodic-Table-of-Amazon-Web-Services.jpg
 
 ![AWS Services List](../../media/Pasted%20image%2020240404231319.png)
+
+![AWS Services Cheat Sheet](../../media/Pasted%20image%2020240831094913.png)
 
 [Amazon Web Services AWS Cheat Sheets - Tutorials Dojo](https://tutorialsdojo.com/aws-cheat-sheets/)
 

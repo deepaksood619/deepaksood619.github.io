@@ -1,4 +1,4 @@
-# Product Management
+# Intro
 
 Only the best is good enough -- lego group
 

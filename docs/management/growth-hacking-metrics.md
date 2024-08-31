@@ -24,6 +24,8 @@ The viral coefficient is a number that tells you how many new people are brought
 
 A cohort is a portion of your users based on when they signed up for your product. Everyone that signed up in January is in the January cohort. Everyone that signed up in February is in the February cohort. It's important that you use cohorts because otherwise your data won't be as clear as it could be. **If every month your KPIs are improving for new cohorts month over month then things are going in the right direction**. If you just look at a single metric, and average it across all users since the beginning of your product, then your data is being skewed by the good and bad of past cohorts, and you are not seeing how things are currently going with your product as clearly as you should.
 
+[How to Improve Cohort Retention | Startup School - YouTube](https://www.youtube.com/watch?v=VNxBZ7ka5J0)
+
 ## Segments
 
 Segments are like cohorts, but instead of basing the group on signup date, you base the group on other segmenting factors. You might categorize your users into male and female groups, in order to see how they behave differently. You could even break cohorts into segments if this gives you relevant data for your product.

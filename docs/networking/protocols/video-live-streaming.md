@@ -7,6 +7,7 @@
     - [Jitsi Meet](https://meet.jit.si)
     - [Introduction | Jitsi Meet](https://jitsi.github.io/handbook/docs/intro)
 - Google Meet
+- [Zoho Webinar | Video Webinar Platform & Tool](https://www.zoho.com/webinar/)
 - Skype
 - https://goodmeetings.ai
 - [Video Meetings, Video Conferencing and Video Call API](https://whereby.com/)

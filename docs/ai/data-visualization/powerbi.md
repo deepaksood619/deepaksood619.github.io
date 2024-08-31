@@ -187,6 +187,16 @@ https://docs.microsoft.com/en-us/power-bi/collaborate-share/service-usage-metric
 
 - the pbit file is basically cleaning the data from the file, therefore, the file is much lighter
 
+## Microsoft Fabric
+
+Bring your data into the era of AI
+
+Reshape how everyone accesses, manages, and acts on data with a single, AI-powered platform.
+
+Microsoft Fabric is ==a data and analytics platform that helps businesses and data professionals work together on data projects==. It's a Software as a Service (SaaS) platform that combines components from Azure Data Factory, Azure Synapse Analytics, and Power BI.
+
+[Data Analytics | Microsoft Fabric](https://www.microsoft.com/en-us/microsoft-fabric)
+
 ## Links
 
 - [Distribute content to external guest users with Microsoft Entra B2B - Power BI | Microsoft Learn](https://learn.microsoft.com/en-us/power-bi/enterprise/service-admin-azure-ad-b2b)

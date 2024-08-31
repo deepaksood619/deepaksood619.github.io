@@ -291,6 +291,10 @@ Different content on slash and non-slash URLs is okay for Google, but often is l
 - [GitHub - slorber/trailing-slash-guide: Understand and fix your static website trailing slash issues!](https://github.com/slorber/trailing-slash-guide)
 - [To slash or not to slash  |  Google Search Central Blog  |  Google Developers](https://developers.google.com/search/blog/2010/04/to-slash-or-not-to-slash)
 
+## Learning / Courses
+
+- [The 7 Best SEO Courses & Certifications in 2024](https://backlinko.com/seo-certification-guide)
+
 ## References
 
 - https://www.toptal.com/full-stack/interview-questions
@@ -300,3 +304,4 @@ Different content on slash and non-slash URLs is okay for Google, but often is l
 - https://neilpatel.com/blog/seo-for-ecommerce-websites
 - https://neilpatel.com/blog/seo-templates
 - [React SEO Best Practices and Strategies | Toptal](https://www.toptal.com/react/react-seo-best-practices)
+- [I Used ChatGPT to Rank #1 in Google (in One Hour) - YouTube](https://www.youtube.com/watch?v=dHW-izBq2-I)

@@ -111,7 +111,7 @@ Advanced multi-threaded PostgreSQL connection pooler and request router.
 
 https://github.com/yandex/odyssey
 
-## Postgres on Kubernetes
+## Postgres on Kubernetes - Patroni
 
 [GitHub - zalando/patroni: A template for PostgreSQL High Availability with Etcd, Consul, ZooKeeper, or Kubernetes](https://github.com/zalando/patroni)
 

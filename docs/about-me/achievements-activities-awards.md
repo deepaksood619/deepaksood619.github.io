@@ -30,6 +30,16 @@ I was responsible of creating a product and infrastructure around it to help sav
 
 [UnsaidTalks on LinkedIn: #unsaidtalks #mentorshipprogram #techcareers #careerguidance…](https://www.linkedin.com/posts/unsaidtalks_unsaidtalks-mentorshipprogram-techcareers-activity-7232001433175216129-Eff-?utm_source=share&utm_medium=member_desktop)
 
+### GenAI Hands-on Workshop 'From Zero to Hero: Mastering GenAI in a Flash' - SRM-IST (2 September 2024)
+
+- Zero to Hero: Master GenAI from the ground up.
+- Hands-On Learning: Dive into practical exercises.
+- Hackathon: Test your skills in a live challenge.
+
+![From Zero to Hero: Mastering GenAI in a Flash](../media/Pasted%20image%2020240831144403.png)
+
+[Deepak Sood on LinkedIn: Looking forward to presenting the GenAI Hands-on Workshop 'From Zero to…](https://www.linkedin.com/posts/deepaksood619_genai-aiworkshop-hackathon-activity-7235575066032226304-Uz8q?utm_source=share&utm_medium=member_desktop)
+
 ### Unsaid Talks - Coding Ninjas, Chitkara University (24 August 2024)
 
 Slides - [GenAI for Freshers](https://docs.google.com/presentation/d/1UdfCWT-YHMX0hhTO3DuwqdBLMvGT3a3KLyT9ldIkOpQ/edit?usp=sharing)
@@ -59,6 +69,8 @@ Date - Sun, 25 Aug, 2024
 Post - [Deepak Sood on LinkedIn: I’m excited to be presenting in the upcoming webinar on 'Getting Started…](https://www.linkedin.com/posts/deepaksood619_webinar-genai-artificialintelligence-activity-7231675608508841984-ZRo-?utm_source=share&utm_medium=member_desktop)
 
 Post - [Coding Ninjas CUIET on LinkedIn: Step into the future now—ignite your imagination with the limitless… | 10 comments](https://www.linkedin.com/posts/codingninjas-cuiet_step-into-the-future-nowignite-your-imagination-activity-7231187956198207488-NrVS?utm_source=share&utm_medium=member_desktop)
+
+Post - [Deepak Sood on LinkedIn: #genai #rag #artificialintelligence #datascience #aiinnovation…](https://www.linkedin.com/posts/deepaksood619_genai-rag-artificialintelligence-activity-7234379881134862336-xMfH?utm_source=share&utm_medium=member_desktop)
 
 ![Unleash your inner innovator: GenAI for Freshers](../media/Pasted%20image%2020240817010531.jpg)
 
