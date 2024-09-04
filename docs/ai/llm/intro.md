@@ -78,3 +78,4 @@ The architecture is a standard [transformer network](https://en.wikipedia.org/wi
 - [AWS re:Invent 2023 - Navigating the future of AI: Deploying generative models on Amazon EKS (CON312) - YouTube](https://www.youtube.com/watch?v=I22pIUSgseA)
 - [GenAI Training In Production: Software, Hardware & Network Considerations - YouTube](https://www.youtube.com/watch?v=1lhrGRqqPWU)
 - [How I Use "AI"](https://nicholas.carlini.com/writing/2024/how-i-use-ai.html)
+- [How might LLMs store facts | Chapter 7, Deep Learning - YouTube](https://www.youtube.com/watch?v=9-Jl0dxWQs8)

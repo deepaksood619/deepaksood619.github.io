@@ -1,6 +1,7 @@
 # Google Crawlers / Crawling
 
 [How Google Search crawls pages - YouTube](https://www.youtube.com/watch?v=JuK7NnfyEuc)
+
 - Google bot
 - Sitemaps
 

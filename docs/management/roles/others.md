@@ -18,3 +18,5 @@ A solutions architect creates the overall technical vision for a specific soluti
 A good solutions architect looks at the existing environment and analyzes what technologies are available and what software product must be developed to provide the best solution for the problem that needs to be solved. From there, the solutions architect creates an overall strategic technical vision - not unlike an architect designing a blueprint for a building. They develop a budget for producing a software product based on that vision.
 
 https://www.coursera.org/articles/solutions-architect
+
+![Architect Roadmap](../../media/Pasted%20image%2020240905012811.jpg)

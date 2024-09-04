@@ -4,7 +4,7 @@
 - Creating and managing workflows/pipelines for ETL, ELT, Rollups, etc
 - Working with product and data analysts team to drive dashboard, on-chain analytics and company metrics
 
-## Links
+## Links to internal knowledge base during the project duration
 
 - [Databricks](technologies/databricks/readme.md)
 - [Delta Lake](networking/others/delta-lake.md)

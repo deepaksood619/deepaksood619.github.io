@@ -10,6 +10,7 @@
 - [linkedin.com/in/gauravmalik77/details/experience/](https://www.linkedin.com/in/gauravmalik77/details/experience/)
 - Andreas Klinger - https://klinger.io
 - [Jeroen Bouma | Financial Risk Analyst](https://www.jeroenbouma.com/)
+- https://www.linkedin.com/in/vishalkmishra/
 - **Software Developer Good -** https://drive.google.com/drive/folders/1zMuTUjsifK9QVvrwF56oE8EJcgw9YBhJ?usp=sharing
 - **Pradeep Parameswaran**
 

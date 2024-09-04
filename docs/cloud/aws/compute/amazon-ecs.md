@@ -20,3 +20,5 @@ For tasks that use the EC2 launch type, Amazon ECS must determine where to place
 ## Links
 
 [Amazon ECS: Well Architected Amazon ECS lens Overview | Amazon Web Services - YouTube](https://www.youtube.com/watch?v=SjrQGvjkisg&ab_channel=AmazonWebServices)
+
+[Figma Moves from ECS to Kubernetes to Benefit from the CNCF Ecosystem and Reduce Costs - InfoQ](https://www.infoq.com/news/2024/09/figma-ecs-kubernetes-eks/)

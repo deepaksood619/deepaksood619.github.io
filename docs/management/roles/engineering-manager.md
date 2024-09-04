@@ -69,6 +69,17 @@
     - You can't do everything yourself
         - Use the **situational leadership model**
 
+## Tech Leadership
+
+The six main KRAs of Tech Leadership
+
+1. Technology Performance: System uptime, latency, time for issue detection and resolution.
+2. Product Development: Time to market. Code quality. Bug introduction rate.
+3. Team Development: Time to full productivity and average experience of productive hires. Retention rates of employees. Switching time, costs and risk.
+4. Cost Efficiency: The costs of shipping a story point or release, cost per productive developer and cost per additional customer.
+5. Security & Compliance: Protect customer data. Lower security incident rates. Ensure successful compliance audits.
+6. Strategic Impact: Drive revenue growth and minimize risks with leanness, agility and scalability.
+
 ## Links
 
 [https://mfi.engineering/money-forward-i-engineering-2021-43e473dca440](https://mfi.engineering/money-forward-i-engineering-2021-43e473dca440)

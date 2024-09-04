@@ -104,3 +104,9 @@ For the attached RFP
 
 1. Create questions to ask to the client for understanding the requirements more, and coming up with a proposal and sow based on the answers.
 2. Along with this create a proposal for the SOW. Write clear assumptions wherever required, give timelines, resources required and full detailed proposal with detailed tasks bifurcation. Also add the tentative duration for each phase. also provide a list of required skills, the number of resources needed, and a high-level budget estimate for the project?
+
+For this RFP, please share the questionnaire that can be sent to client for creating the final proposal, for whatever there is ambiguity
+
+For the attached RFP Create a proposal from vendor opstree to client mentioned in RFP. Create only the outline so we can add the details later.
+
+Now create a detailed plan for section 3.1 ABC

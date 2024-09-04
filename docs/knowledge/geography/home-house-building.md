@@ -32,6 +32,10 @@ https://www.youtube.com/watch?v=dy81ldYQdgY
 - [I Made A Mistake Building My New Net Zero Home - YouTube](https://www.youtube.com/watch?v=SSN-np71d0Q)
 - [New Mexico's 'Earthships' offer unique model for living off the grid - YouTube](https://www.youtube.com/watch?v=a_ZTiocr3LU&ab_channel=PBSNewsHour)
 
+### Interior
+
+- Homelane
+
 ### Links
 
 - [Buildofy - YouTube](https://www.youtube.com/@buildofy)

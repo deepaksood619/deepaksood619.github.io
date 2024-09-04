@@ -235,6 +235,19 @@ For most cases, you would want to go with python’s standard json library which
 
 [GitHub - ultrajson/ultrajson: Ultra fast JSON decoder and encoder written in C with Python bindings](https://github.com/ultrajson/ultrajson?tab=readme-ov-file#benchmarks)
 
+## Visualization
+
+- Streamlit
+   	- [Building a dashboard in Python using Streamlit](https://blog.streamlit.io/crafting-a-dashboard-app-in-python-using-streamlit/)
+- [Dashboarding tools — PyViz 0.0.1 documentation](https://pyviz.org/dashboarding/)
+- [Python Interactive Dashboard Development using Streamlit and Plotly - YouTube](https://www.youtube.com/watch?v=7yAw1nPareM)
+- [How to Create a Beautiful Python Visualization Dashboard With Panel/Hvplot - YouTube](https://www.youtube.com/watch?v=uhxiXOTKzfs)
+- [Build a Python Dashboard with ChatGPT Lightning Fast - YouTube](https://www.youtube.com/watch?v=gs4d0_AKQi8)
+- [Develop Data Visualization Interfaces in Python With Dash – Real Python](https://realpython.com/python-dash/)
+- [Django dashboard using Highcharts® Dashboards – Highcharts Blog | Highcharts](https://www.highcharts.com/blog/tutorials/django-dashboard-using-highcharts-dashboards/)
+- [How to create an analytics dashboard in a Django app](https://www.freecodecamp.org/news/how-to-create-an-analytics-dashboard-in-django-app/)
+- [Clinton Dreisbach - Building dashboards with Django and D3](https://dreisbach.us/articles/building-dashboards-with-django-and-d3/)
+
 ## Others
 
 - [stripe · PyPI](https://pypi.org/project/stripe/)

@@ -205,7 +205,7 @@ LUT (Letter of Undertaking) - [GST: How to file an LUT?](https://www.thegalactic
 #### TDS on rent
 
 - https://eportal.incometax.gov.in/iec/foservices/#/login
-- e-file > e-pay tax
+- e-file > e-pay tax (Pay quarterly)
 - New Payment
 - 26 QC (TDS on Rent of Property)
 - Form

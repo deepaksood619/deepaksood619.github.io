@@ -43,3 +43,7 @@ The founding principles of servant leadership include nine behaviors:
 This ultra-hands-off style of leadership essentially transfers all authority to employees. You're always there to hook them up with whatever resources they need, but then you let them run with it while you attend to other matters. This means your team members can take more ownership of their roles in creative ways, which can be so empowering.
 
 https://www.atlassian.com/blog/quiz/find-your-leadership-style-examples
+
+## Others
+
+- Turnover CEO (They come to a failing company and turnover to make it great, and then leave)

@@ -278,3 +278,7 @@ Why kicking out children after 18 years is important, let's say you are very wea
 - [Resist The Urge To Do This With Your Baby - YouTube](https://www.youtube.com/watch?v=rf3oQfneKIY)
     - Sucking is good for baby
 - [15-Month-Old Child](https://www.whattoexpect.com/toddler/15-month-old.aspx)
+- [What to Do When Your Toddler Won’t Sleep](https://www.whattoexpect.com/toddler/behavior/resisting-bedtime.aspx)
+- [How to Encourage Independent Play in Babies and Toddlers](https://www.whattoexpect.com/playroom/playtime-tips/playing-solo.aspx)
+- [Why You Should Never Spank Your Child](https://www.whattoexpect.com/toddler/behavior-and-discipline/discipline-that-works/about-spanking.aspx)
+- [TOP Children Doctor Gives Parenting Tips | Dr. Arpit Gupta | ACCHE PARENT Kaise Bane | TRS - YouTube](https://www.youtube.com/watch?v=kXFFZppQLSc)

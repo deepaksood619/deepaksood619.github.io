@@ -116,6 +116,16 @@ Provide access to leftover capacity at a discount of up to 90% off the On-Demand
 
 [Effective utilization of AWS Savings Plans and EC2 spot instances | Spot.io](https://spot.io/resources/aws-ec2-pricing/effective-utilization-of-aws-savings-plans-and-ec2-spot-instances/)
 
+### Spot don't use savings plan
+
+Spot instances do not use AWS Savings Plans
+
+- Price: Spot instances are already up to 90% discounted, so other discounts like Savings Plans won't apply.
+- Commitment: Savings Plans require a commitment and can't be canceled during the term.
+- Usage: Savings Plans don't apply to spot usage or usage covered by Reserved Instances (RIs).
+
+Spot instances can be a good option for applications that are fault-tolerant, stateless, or flexible, such as web servers, big data, and containerized workloads. However, because AWS can reclaim Spot instances with just a two minute warning, they might not be ideal for mission-critical or production workloads.
+
 ## Savings plan Utilization Report and Coverage Report
 
 **Utilization Report**: Measures the amount of the savings plan you are using. If it's less than 100% it means that you reserved more than you need.

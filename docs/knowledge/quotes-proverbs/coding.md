@@ -18,6 +18,8 @@ Switch away from the approach of code-by-default and instead **code-when-necessa
 
 No hug and kisses | only bug and fixes
 
+Code is not written, it is woven line by line.
+
 A framework is only as good as the developer that is using it
 
 If you're the smartest person in the room, you're in the wrong room.

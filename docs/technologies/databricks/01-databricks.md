@@ -39,3 +39,7 @@ ANSI standard SQL dialect by default
 [The Best Data Engineering Platform Is a Lakehouse | Databricks](https://www.databricks.com/resources/webinar/best-data-engineering-platform-lakehouse)
 
 [Customer Story: Coins.ph | Databricks](https://www.databricks.com/customers/coins-ph)
+
+[Real Time Analytics | Databricks](https://www.databricks.com/glossary/real-time-analytics)
+
+[Databricks Data Streaming Platform | Databricks](https://www.databricks.com/product/data-streaming)

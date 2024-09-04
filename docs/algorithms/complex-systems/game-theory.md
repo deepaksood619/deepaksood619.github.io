@@ -112,3 +112,7 @@ https://www.freecodecamp.org/news/introduction-to-evolutionary-game-theory
 ![image](../../media/Screenshot%202023-12-24%20at%202.49.25.PM.jpg)
 
 [Round-robin tournament - Wikipedia](https://en.wikipedia.org/wiki/Round-robin_tournament)
+
+## Others
+
+- A good compromise leaves everybody mad

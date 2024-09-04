@@ -70,9 +70,11 @@ Application Performance Monitoring (APM) collects in-depth performance metrics a
 
 - Dynatrace
 - Newrelic
-- Elasticsearch APM
+- Elasticsearch APM / Elastic APM
 - Pingdom
 - Pagerduty
+- CubeAPM - [CubeAPM](https://docs.cubeapm.com/)
+   	- CubeAPM is an Application Performance Monitoring (APM) platform. It collects telemetry data from applications and infrastructure, and provides a UI for users to visualize and query the data. It also provides the ability to set up alerts based on the telemetry data, and sending notifications to users over various channels like Email, Slack, PagerDuty, Google Chat, etc.
 
 ## Flask
 

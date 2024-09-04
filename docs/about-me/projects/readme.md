@@ -76,6 +76,7 @@
 - [GitHub - deepaksood619/MyWebsite: My Website from scratch.](https://github.com/deepaksood619/MyWebsite) (Apr'17)
 - [GitHub - deepaksood619/Competitive-Programming: https://www.hackerrank.com/deepaksood619, http://practice.geeksforgeeks.org/user-profile.php?user=Deepak%20Sood](https://github.com/deepaksood619/Competitive-Programming) (July'17 - Present)
     - My repository where I maintain all the competitive programming questions that I have solved. It's a collection of problems from various sites like HackerRank, GeeksForGeeks, HackerEarth, CodeChef, LeetCode, and basic algorithms and data structure questions
+- [Others](about-me/projects/98-others.md)
 
 ## College Projects
 

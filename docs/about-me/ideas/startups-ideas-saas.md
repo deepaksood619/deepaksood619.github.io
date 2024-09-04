@@ -2,6 +2,11 @@
 
 Create best software companies with Indian labour, since labour is cheap in India like Zoho
 
+Problem with current SAAS pricing
+
+- It's per user based
+- It should be instead usage based, you use 1 GB storage and 1 cpu and 2 GB RAM, you pay for that exactly + some revenue
+
 **Developer tools - pure software play**
 
 Microproducts - [How I Sold My App For $30,000 In 4 Days | GrowthX Insider - YouTube](https://www.youtube.com/watch?v=lAUc1Gr_uDo&ab_channel=GrowthX)

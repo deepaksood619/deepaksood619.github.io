@@ -43,3 +43,12 @@ So you can see that the data is curated as it moves through the different layers
 The Medallion architecture is compatible with the concept of a **data mesh.** Bronze and silver tables can be joined together in a "one-to-many" fashion, meaning that the data in a single upstream table could be used to generate multiple downstream tables.
 
 [Different Data Warehousing Modeling Techniques and How to Implement them on the Databricks Lakehouse Platform - The Databricks Blog](https://www.databricks.com/blog/2022/06/24/data-warehousing-modeling-techniques-and-their-implementation-on-the-databricks-lakehouse-platform.html)
+
+## Links
+
+- [What is a Medallion Architecture?](https://www.databricks.com/glossary/medallion-architecture)
+- [What is the medallion lakehouse architecture? - Azure Databricks | Microsoft Learn](https://learn.microsoft.com/en-us/azure/databricks/lakehouse/medallion)
+- [Implement medallion lakehouse architecture in Fabric - Microsoft Fabric | Microsoft Learn](https://learn.microsoft.com/en-us/fabric/onelake/onelake-medallion-lakehouse-architecture)
+- [Implementing Medallion architecture in Snowflake | by Valentin Loghin | Medium](https://medium.com/@valentin.loghin/implementing-medallion-architecture-in-snowflake-4e1539d23c09)
+- [Medallion Architecture 101—Inside Bronze, Silver & Gold Layers](https://www.chaosgenius.io/blog/medallion-architecture/)
+- [Data Lakehouse Medallion Architecture using Azure Databricks, Delta Lake, and Azure Data Factory | by Amlan Patnaik | Medium](https://medium.com/@amlaninfinity/data-lakehouse-medallion-architecture-using-azure-databricks-delta-lake-and-azure-data-factory-e7635536d001)

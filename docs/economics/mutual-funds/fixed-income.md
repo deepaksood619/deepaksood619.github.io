@@ -47,6 +47,8 @@ After 15 years
 
 **Pension fund** is a retirement savings plan where a portion of your salary is set aside for your future. The funds are managed by a trustee and typically paid out as a monthly pension after retirement. **Provident fund** is similar, but the entire balance is paid out as a lump sum, not as a monthly pension.
 
+[Income Tax on Pension: Is Pension Taxable? - Tax2win](https://tax2win.in/guide/income-tax-for-pensioners)
+
 ## Emergency Fund / War Chest / Contingency Kitty
 
 - 30% should be parked in a savings bank account (other than primary account) for easy liquidity **(50K)**

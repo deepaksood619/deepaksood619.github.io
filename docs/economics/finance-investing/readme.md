@@ -8,6 +8,7 @@
 - [Returns / Tax / Taxes / ITR](economics/finance-investing/returns-tax-taxes-itr.md)
 - [HUF / Private Trust](economics/finance-investing/huf-private-trust.md)
 - [Stocks / Equity](economics/finance-investing/stocks-equity.md)
+- [Company Analysis](economics/finance-investing/company-analysis.md)
 - [Industry Sectors](economics/finance-investing/industry-sectors.md)
 - [Quotes](economics/finance-investing/quotes.md)
 - [Company Management](economics/finance-investing/company-management.md)

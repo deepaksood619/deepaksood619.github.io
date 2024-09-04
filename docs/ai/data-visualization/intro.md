@@ -93,14 +93,10 @@ https://ggplot2.tidyverse.org
 
 ## References
 
-https://en.wikipedia.org/wiki/Data_visualization
-
-https://pandas.pydata.org/pandas-docs/stable/user_guide/visualization.html
-
-Time Series analysis - https://www.dataquest.io/blog/tutorial-time-series-analysis-pandas
-
-https://www.toptal.com/designers/data-visualization/data-visualization-tools
-
-https://towardsdatascience.com/8-free-tools-to-make-interactive-data-visualizations-in-2021-no-coding-required-2b2c6c564b5b
-
-https://www.freecodecamp.org/news/learn-data-visualization-in-this-free-17-hour-course
+- https://en.wikipedia.org/wiki/Data_visualization
+- https://pandas.pydata.org/pandas-docs/stable/user_guide/visualization.html
+- Time Series analysis - https://www.dataquest.io/blog/tutorial-time-series-analysis-pandas
+- https://www.toptal.com/designers/data-visualization/data-visualization-tools
+- https://towardsdatascience.com/8-free-tools-to-make-interactive-data-visualizations-in-2021-no-coding-required-2b2c6c564b5b
+- https://www.freecodecamp.org/news/learn-data-visualization-in-this-free-17-hour-course
+- [richardbrath | Visual encodings for data visualization.](https://richardbrath.wordpress.com/)
