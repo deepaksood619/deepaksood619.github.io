@@ -1,6 +1,6 @@
 # System Design of Google Search Engine
 
-![System Design of Google Search](media/system-design-of-google-search.webp)
+![System Design of Google Search](../../media/system-design-of-google-search.webp)
 
 Google Search is one of the most complex and powerful distributed systems ever created, handling billions of queries per day. Understanding its architecture can help you ace system design interviews and give you a solid grasp of how massive-scale systems operate. In this blog, we'll delve into the system design of Google Search, breaking it down into key components that will be especially useful for those preparing for interviews.
 
