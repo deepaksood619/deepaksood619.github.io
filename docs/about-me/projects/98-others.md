@@ -2,7 +2,7 @@
 
 ## 2024-09-03 - Manav Rachna - Sabyasachi
 
-- *Problem Statement ID :* 1613 
+- *Problem Statement ID :* 1613
 - *Problem Statement Title :* Automated System for Career Advancements of the Faculties of Higher Education.
 
 ### Description
@@ -38,7 +38,7 @@ The primary objectives of the "Automated System for Career Advancements of the F
 - OS: Windows 10 or above or any other OS (e.g. Linux).
 - Processor (not minimum requirement): A modern quad-core or above for seamless and smooth development process of application.
 - RAM: At least 4 GB of available RAM to be able to run the Web App on the Browser. -GPU: Any GPU can be preferred.
-- Storage: Sufficient storage can be fulfilled by SSD or HDD. 
+- Storage: Sufficient storage can be fulfilled by SSD or HDD.
 
 ### FUNCTIONAL REQUIREMENTS
 
@@ -59,11 +59,11 @@ The primary objectives of the "Automated System for Career Advancements of the F
 
 ### Summary
 
-The implementation of the given problem must successfully address the longstanding challenges embedded in traditional paper-based faculty self-appraisal processes within higher education. The system must possess crucial features, such as secure user authentication, ensuring that faculty members and authorized administrators have unique and protected access to the platform. A comprehensive system should be seamlessly integrated, providing faculty members with a user-friendly interface to submit personal and professional details efficiently. The system must establishe a secure database, ensuring the confidentiality and integrity of faculty self-appraisal data. Robust client-side scripting, powered by JavaScript, it should enhance the user experience with dynamic and responsive interfaces, real-time form validation, and interactive features. Moreover, the system must include an admin panel that provides administrators with centralized access to all submitted appraisal forms. This panel must allow administrators to view, sort, and manage appraisal data efficiently. They can sort entries based on various criteria such as Name, Employee Code, or Date of Submission, streamlining the process of data retrieval and analysis. Additionally, administrators can download the submission details in PDF format, facilitating easy record-keeping and reporting. 
+The implementation of the given problem must successfully address the longstanding challenges embedded in traditional paper-based faculty self-appraisal processes within higher education. The system must possess crucial features, such as secure user authentication, ensuring that faculty members and authorized administrators have unique and protected access to the platform. A comprehensive system should be seamlessly integrated, providing faculty members with a user-friendly interface to submit personal and professional details efficiently. The system must establishe a secure database, ensuring the confidentiality and integrity of faculty self-appraisal data. Robust client-side scripting, powered by JavaScript, it should enhance the user experience with dynamic and responsive interfaces, real-time form validation, and interactive features. Moreover, the system must include an admin panel that provides administrators with centralized access to all submitted appraisal forms. This panel must allow administrators to view, sort, and manage appraisal data efficiently. They can sort entries based on various criteria such as Name, Employee Code, or Date of Submission, streamlining the process of data retrieval and analysis. Additionally, administrators can download the submission details in PDF format, facilitating easy record-keeping and reporting.
 
 - *Organisation :* Government of NCT of Delhi
 - *Department :* IT Department, GNCTD
-- *Category :* Software 
+- *Category :* Software
 - *Theme :* Smart Education
 
 ### TODO

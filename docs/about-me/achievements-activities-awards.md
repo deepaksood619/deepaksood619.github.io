@@ -34,11 +34,15 @@ I was responsible of creating a product and infrastructure around it to help sav
 
 ### GenAI Hands-on Workshop 'From Zero to Hero: Mastering GenAI in a Flash' - SRM-IST (2 September 2024)
 
+Slides - [From Zero to Hero: Mastering GenAI in a Flash](https://docs.google.com/presentation/d/1go_DXxBZlhyr1Ap8QIQhXseCFTgKYJ4Obk8dHaJ8ZIk/edit?usp=sharing)
+
 - Zero to Hero: Master GenAI from the ground up.
 - Hands-On Learning: Dive into practical exercises.
 - Hackathon: Test your skills in a live challenge.
 
 ![From Zero to Hero: Mastering GenAI in a Flash](../media/Pasted%20image%2020240831144403.png)
+
+[Deepak Sood on LinkedIn: #genai #aiworkshop #futuretalent #innovation #hackathon #srmist…](https://www.linkedin.com/posts/deepaksood619_genai-aiworkshop-futuretalent-activity-7237536731544051712-QH0m)
 
 [Deepak Sood on LinkedIn: Looking forward to presenting the GenAI Hands-on Workshop 'From Zero to…](https://www.linkedin.com/posts/deepaksood619_genai-aiworkshop-hackathon-activity-7235575066032226304-Uz8q?utm_source=share&utm_medium=member_desktop)
 

@@ -9,11 +9,12 @@ Zaggle is a fintech company providing innovative solutions for the day-to-day fi
 ### Culture
 
 - [linkedin.com/in/avinashgodkhindi/](https://www.linkedin.com/in/avinashgodkhindi/) - 9 years Zaggle
-	- Pivoted Zaggle to create a mobile first, tech focused company while continuing to grow rapidly to 120 employees and $ 13M+ revenues in FY '17.  
-	- Zaggle is a cash flow positive business with 1000+ corporate customers, 3500+ merchants, 1.2 M users  
-	- Zaggle recently acquired online cash back company Pennyful and successfully integrated the team
+   	- Pivoted Zaggle to create a mobile first, tech focused company while continuing to grow rapidly to 120 employees and $ 13M+ revenues in FY '17.
+   	- Zaggle is a cash flow positive business with 1000+ corporate customers, 3500+ merchants, 1.2 M users
+   	- Zaggle recently acquired online cash back company Pennyful and successfully integrated the team
 
 [Working at Zaggle | Glassdoor](https://www.glassdoor.co.in/Overview/Working-at-Zaggle-EI_IE1456360.11,17.htm)
+
 - 3.4 Star
 
 ### Cons

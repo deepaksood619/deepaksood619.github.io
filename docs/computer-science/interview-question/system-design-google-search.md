@@ -1,116 +1,148 @@
-# System Design - Google Search
+# System Design of Google Search Engine
 
-[How does Google Search work?](https://www.youtube.com/watch?v=KyCYyoGusqs)- Can crawl according to page ranks (high reputation, links from other sites to yours)
+![System Design of Google Search](media/system-design-of-google-search.webp)
 
-- 2002 - Update fretz
-    - Crawl top sites often
-    - Have supplemental index that are crawled after long periods of time
-- Indexing is done in words consisting of documents order
-- All the indexes are parallelized with each consisting some part of the web
+Google Search is one of the most complex and powerful distributed systems ever created, handling billions of queries per day. Understanding its architecture can help you ace system design interviews and give you a solid grasp of how massive-scale systems operate. In this blog, we'll delve into the system design of Google Search, breaking it down into key components that will be especially useful for those preparing for interviews.
 
-![How do Search Engines Work?](../../media/Pasted%20image%2020240326090545.jpg)
+## Table of Contents
 
-## What happens when you type google.com into your browser's address box and press enter?
+1. **High-Level Overview**
+2. **Components of Google Search System**
+    - Crawling
+    - Indexing
+    - Ranking
+    - Query Processing
+    - Caching
+3. **Scalability and Fault Tolerance**
+4. **Data Consistency**
+5. **Challenges and Considerations**
+6. **Interview Tips**
 
-- [The "g" key is pressed](https://github.com/alex/what-happens-when/blob/master/README.rst#the-g-key-is-pressed)
-- [The "enter" key bottoms out](https://github.com/alex/what-happens-when/blob/master/README.rst#the-enter-key-bottoms-out)
-- [Interrupt fires [NOT for USB keyboards]](https://github.com/alex/what-happens-when/blob/master/README.rst#interrupt-fires-not-for-usb-keyboards)
-- [(On Windows) AWM_KEYDOWNmessage is sent to the app](https://github.com/alex/what-happens-when/blob/master/README.rst#on-windows-a-wm-keydown-message-is-sent-to-the-app)
-- [(On OS X) AKeyDownNSEvent is sent to the app](https://github.com/alex/what-happens-when/blob/master/README.rst#on-os-x-a-keydown-nsevent-is-sent-to-the-app)
-- [(On GNU/Linux) the Xorg server listens for keycodes](https://github.com/alex/what-happens-when/blob/master/README.rst#on-gnu-linux-the-xorg-server-listens-for-keycodes)
-- [Parse URL](https://github.com/alex/what-happens-when/blob/master/README.rst#parse-url)
-- [Is it a URL or a search term?](https://github.com/alex/what-happens-when/blob/master/README.rst#is-it-a-url-or-a-search-term)
-- [Convert non-ASCII Unicode characters in hostname](https://github.com/alex/what-happens-when/blob/master/README.rst#convert-non-ascii-unicode-characters-in-hostname)
-- [Check HSTS list](https://github.com/alex/what-happens-when/blob/master/README.rst#check-hsts-list)
-- [DNS lookup](https://github.com/alex/what-happens-when/blob/master/README.rst#dns-lookup)
-- [ARP process](https://github.com/alex/what-happens-when/blob/master/README.rst#arp-process)
-- [Opening of a socket](https://github.com/alex/what-happens-when/blob/master/README.rst#opening-of-a-socket)
-- [TLS handshake](https://github.com/alex/what-happens-when/blob/master/README.rst#tls-handshake)
-- [HTTP protocol](https://github.com/alex/what-happens-when/blob/master/README.rst#http-protocol)
-- [HTTP Server Request Handle](https://github.com/alex/what-happens-when/blob/master/README.rst#http-server-request-handle)
-- [Behind the scenes of the Browser](https://github.com/alex/what-happens-when/blob/master/README.rst#behind-the-scenes-of-the-browser)
-- [Browser](https://github.com/alex/what-happens-when/blob/master/README.rst#browser)
-- [HTML parsing](https://github.com/alex/what-happens-when/blob/master/README.rst#html-parsing)
-- [CSS interpretation](https://github.com/alex/what-happens-when/blob/master/README.rst#css-interpretation)
-- [Page Rendering](https://github.com/alex/what-happens-when/blob/master/README.rst#page-rendering)
-- [GPU Rendering](https://github.com/alex/what-happens-when/blob/master/README.rst#gpu-rendering)
-- [Window Server](https://github.com/alex/what-happens-when/blob/master/README.rst#window-server)
-- [Post-rendering and user-induced execution](https://github.com/alex/what-happens-when/blob/master/README.rst#post-rendering-and-user-induced-execution)
+## 1. High-Level Overview
 
-## Browser
+Google Search is a **distributed, real-time, web search engine**. Its key functionality is to return the most relevant results for user queries in a matter of milliseconds. It achieves this by breaking down the process into several stages:
 
-Once the server supplies the resources (HTML, CSS, JS, images, etc.) to the browser it undergoes the below process:
+- **Crawling**: Collecting web pages from across the internet.
+- **Indexing**: Organizing these web pages for efficient retrieval.
+- **Query Processing**: Interpreting user queries and returning ranked results.
+- **Ranking**: Determining the relevance of results based on hundreds of factors.
+- **Serving**: Delivering results to the end user.
 
-- Parsing - HTML, CSS, JS
-- Rendering - Construct DOM Tree → Render Tree → Layout of Render Tree → Painting the render tree
+The system operates on a global scale, consisting of thousands of distributed servers that ensure low latency and high availability.
 
-## Browser High Level Structure
+## 2. Components of Google Search System
 
-The components of the browsers are:
+### a. Crawling
 
-- User interface:The user interface includes the address bar, back/forward button, bookmarking menu, etc. Every part of the browser display except the window where you see the requested page.
-- Browser engine:The browser engine marshals actions between the UI and the rendering engine.
-- Rendering engine:The rendering engine is responsible for displaying requested content. For example if the requested content is HTML, the rendering engine parses HTML and CSS, and displays the parsed content on the screen.
-- Networking:The networking handles network calls such as HTTP requests, using different implementations for different platforms behind a platform-independent interface.
-- UI backend:The UI backend is used for drawing basic widgets like combo boxes and windows. This backend exposes a generic interface that is not platform specific. Underneath it uses operating system user interface methods.
-- JavaScript engine:The JavaScript engine is used to parse and execute JavaScript code.
-- Data storage:The data storage is a persistence layer. The browser may need to save all sorts of data locally, such as cookies. Browsers also support storage mechanisms such as localStorage, IndexedDB, WebSQL and FileSystem.
+The first step in building a search engine is to gather the data, which is done by the **Googlebot**, the system's web crawler. It continuously scans websites, following links to discover new and updated pages. Key design aspects include:
 
-## HTML parsing
+- **Distributed Crawling**: To cover the vast internet, Googlebot runs in a massively parallel architecture across data centers.
+- **Politeness**: Ensuring crawlers don't overwhelm websites.
+- **Freshness**: Detecting new or updated content quickly.
 
-The rendering engine starts getting the contents of the requested document from the networking layer. This will usually be done in 8kB chunks.
-The primary job of HTML parser is to parse the HTML markup into a parse tree.
-The output tree (the "parse tree") is a tree of DOM element and attribute nodes. DOM is short for Document Object Model. It is the object presentation of the HTML document and the interface of HTML elements to the outside world like JavaScript. The root of the tree is the "Document" object. Prior of any manipulation via scripting, the DOM has an almost one-to-one relation to the markup.
+**Interview Tip:**
 
-### The parsing algorithm
+Understand how **distributed crawlers** work and how you can scale such systems. Be ready to discuss how to handle failure in this process, such as retry mechanisms and maintaining a crawl queue.
 
-HTML cannot be parsed using the regular top-down or bottom-up parsers.
-The reasons are:
+### b. Indexing
 
-- The forgiving nature of the language.
-- The fact that browsers have traditional error tolerance to support well known cases of invalid HTML.
-- The parsing process is reentrant. For other languages, the source doesn't change during parsing, but in HTML, dynamic code (such as script elements containing document.write() calls) can add extra tokens, so the parsing process actually modifies the input.
-Unable to use the regular parsing techniques, the browser utilizes a custom parser for parsing HTML. The parsing algorithm is described in detail by the HTML5 specification.
-The algorithm consists of two stages: tokenization and tree construction.
+Once pages are crawled, they are parsed and organized into an **index**. This is a critical step because searching a massive web of unstructured data in real-time is inefficient. Key aspects include:
 
-### Actions when the parsing is finished
+- **Reverse Indexing**: Google builds an inverted index, mapping words to the documents in which they appear, similar to a book's index.
+- **Sharding**: The index is so large that it must be distributed across thousands of machines. Pages and words are split using **sharding** mechanisms.
+- **Compression**: Data is compressed to optimize storage and retrieval.
 
-The browser begins fetching external resources linked to the page (CSS, images, JavaScript files, etc.).
-At this stage the browser marks the document as interactive and starts parsing scripts that are in "deferred" mode: those that should be executed after the document is parsed. The document state is set to "complete" and a "load" event is fired.
-Note there is never an "Invalid Syntax" error on an HTML page. Browsers fix any invalid content and go on.
+**Interview Tip:**
 
-### CSS interpretation
+Be familiar with the concepts of **sharding** and **inverted indexing**, as well as how to ensure the index remains up-to-date while being efficient in terms of space and time complexity.
 
-- Parse CSS files, tag contents, and style attribute values using ["CSS lexical and syntax grammar"](http://www.w3.org/TR/CSS2/grammar.html)
-- Each CSS file is parsed into a StyleSheet object, where each object contains CSS rules with selectors and objects corresponding CSS grammar.
-- A CSS parser can be top-down or bottom-up when a specific parser generator is used.
+### c. Ranking
 
-### Page Rendering
+Google's secret sauce is its **PageRank algorithm**, but modern ranking systems also incorporate **hundreds of factors** like relevance, location, freshness, and user preferences. Key points:
 
-- Create a 'Frame Tree' or 'Render Tree' by traversing the DOM nodes, and calculating the CSS style values for each node.
-- Calculate the preferred width of each node in the 'Frame Tree' bottom up by summing the preferred width of the child nodes and the node's horizontal margins, borders, and padding.
-- Calculate the actual width of each node top-down by allocating each node's available width to its children.
-- Calculate the height of each node bottom-up by applying text wrapping and summing the child node heights and the node's margins, borders, and padding.
-- Calculate the coordinates of each node using the information calculated above.
-- More complicated steps are taken when elements are floated, positioned absolutely or relatively, or other complex features are used. See http://dev.w3.org/csswg/css2 and http://www.w3.org/Style/CSS/current-work for more details.
-- Create layers to describe which parts of the page can be animated as a group without being re-rasterized. Each frame/render object is assigned to a layer.
-- Textures are allocated for each layer of the page.
-- The frame/render objects for each layer are traversed and drawing commands are executed for their respective layer. This may be rasterized by the CPU or drawn on the GPU directly using D2D/SkiaGL.
-- All of the above steps may reuse calculated values from the last time the webpage was rendered, so that incremental changes require less work.
-- The page layers are sent to the compositing process where they are combined with layers for other visible content like the browser chrome, iframes and addon panels.
-- Final layer positions are computed and the composite commands are issued via Direct3D/OpenGL. The GPU command buffer(s) are flushed to the GPU for asynchronous rendering and the frame is sent to the window server.
+- **Link Analysis**: PageRank evaluates the importance of a webpage based on backlinks.
+- **User Signals**: User engagement metrics such as click-through rates and time spent on a page can adjust ranking dynamically.
+- **Personalization**: Search results are tailored based on the user's past searches, location, and interests.
 
-### GPU Rendering
+**Interview Tip:**
 
-- During the rendering process the graphical computing layers can use general purposeCPUor the graphical processorGPUas well.
-- When usingGPUfor graphical rendering computations the graphical software layers split the task into multiple pieces, so it can take advantage ofGPUmassive parallelism for float point calculations required for the rendering process.
+Be ready to discuss different ranking algorithms, including **PageRank**, and how you'd incorporate machine learning models to personalize search results.
 
-### Post-rendering and user-induced execution
+### d. Query Processing
 
-After rendering has completed, the browser executes JavaScript code as a result of some timing mechanism (such as a Google Doodle animation) or user interaction (typing a query into the search box and receiving suggestions). Plugins such as Flash or Java may execute as well, although not at this time on the Google homepage. Scripts can cause additional network requests to be performed, as well as modify the page or its layout, causing another round of page rendering and painting.
+When a user types a query, the system needs to interpret it efficiently and accurately. This step involves:
 
-https://github.com/alex/what-happens-when
+- **Query Parsing**: Breaking down the query into interpretable tokens.
+- **Synonym Matching**: Recognizing similar terms or common misspellings.
+- **Natural Language Processing**: Understanding the intent behind queries, especially for conversational or long-tail queries.
+- **Multilingual Search**: Handling searches in different languages.
 
-## Problems
+**Interview Tip:**
 
-- What is the use case of the hook in Godrej lock 6086 (only 2 page results)
+Expect questions about how you'd design a system that can handle queries in multiple languages and recognize **synonyms** or **misspellings** efficiently. Discuss how **NLP techniques** like tokenization and stemming could improve search accuracy.
+
+### e. Caching
+
+Given the massive number of queries, caching is crucial for performance optimization. Google Search uses caching to reduce latency and save computational resources. Key techniques include:
+
+- **Result Caching**: Storing frequently queried search results.
+- **Query Suggestion Caching**: Predicting likely user queries and caching them.
+- **Geographically Distributed Caches**: Using edge servers to store results closer to users for faster access.
+
+**Interview Tip:**
+
+Understand the types of caching strategies used in distributed systems, including **TTL (Time to Live)**, **eviction policies**, and how to handle **cache invalidation**.
+
+## 3. Scalability and Fault Tolerance
+
+At Google's scale, the system must handle **millions of queries per second** without downtime. Key aspects include:
+
+- **Load Balancing**: Queries are routed to different servers based on load and proximity to users.
+- **Fault Tolerance**: Google Search employs **replication** and **redundancy** across data centers to ensure high availability even in the case of hardware or network failure.
+- **Horizontal Scaling**: Instead of upgrading a single machine’s capacity, Google adds more machines (horizontal scaling) to handle traffic surges.
+
+**Interview Tip:**
+
+Understand how to design systems that scale horizontally, using techniques like **distributed load balancing**, **replication**, and **partitioning**.
+
+## 4. Data Consistency
+
+Google Search ensures a balance between **consistency** and **availability**. Achieving **strong consistency** in a globally distributed system is challenging, so Google often favors **eventual consistency** for parts of its system, ensuring that data eventually converges to the correct state.
+
+**Interview Tip:**
+
+Be prepared to explain the trade-offs between **CAP theorem** (Consistency, Availability, Partition Tolerance) and how eventual consistency is often the more practical approach for systems like search engines.
+
+## 5. Challenges and Considerations
+
+Some additional challenges Google Search must solve include:
+
+- **Latency**: Queries must be answered in milliseconds, requiring optimization at every level of the stack.
+- **Index Updates**: Keeping the index up-to-date with new content from the web in near real-time.
+- **Data Security**: Ensuring user data and queries are private and secure.
+- **Multi-tenancy**: Handling multiple types of searches (e.g., images, videos, web) while maintaining quality across all.
+
+## 6. Interview Tips
+
+1. **Know the Fundamentals**: Start by understanding the core building blocks of distributed systems, such as **sharding**, **indexing**, and **caching**.
+2. **Discuss Trade-offs**: During interviews, highlight the trade-offs between scalability, consistency, and performance.
+3. **Think About Optimization**: Google is obsessed with speed. Show how you would optimize every part of the system to reduce latency.
+4. **Follow a Structured Approach**: In interviews, start with a high-level design, break it down into components, and explain your choices clearly.
+
+## Deep Dive - Know More
+
+[System Design - What happens when you type google.com into your browser's address box and press enter?](computer-science/interview-question/system-design-google-com-into-browser-press-enter.md)
+
+## References
+
+- [How does Google Search work? - YouTube](https://www.youtube.com/watch?v=KyCYyoGusqs)
+   	- Can crawl according to page ranks (high reputation, links from other sites to yours)
+   	- Crawl top sites often
+   	- Have supplemental index that are crawled after long periods of time
+   	- Indexing is done in words consisting of documents order
+   	- All the indexes are parallelized with each consisting some part of the web
+- [EP104: How do Search Engines Work?](https://blog.bytebytego.com/p/ep104-how-do-search-engines-work)
+- [system-design/notes/google-search-engine.md at master · jguamie/system-design · GitHub](https://github.com/jguamie/system-design/blob/master/notes/google-search-engine.md)
+- [How I Would Design… A Search Engine! | by James Collerton | Medium](https://jc1175.medium.com/how-i-would-design-a-search-engine-9b423a18afe7)
+- [Designing Distributed Search System | by Jyoti | Medium](https://medium.com/@jyoti1308/designing-a-distributed-search-system-92039ecfd273)
+- [System Design: The Distributed Search - Grokking Modern System Design Interview for Engineers & Managers](https://www.educative.io/courses/grokking-modern-system-design-interview-for-engineers-managers/system-design-the-distributed-search)
