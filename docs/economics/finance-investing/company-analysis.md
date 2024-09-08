@@ -42,3 +42,7 @@ Zaggle is a fintech company providing innovative solutions for the day-to-day fi
 - Once you know which restaurants to eat from, you can order directly rather than through platform
 - Cooking in home is much cheaper than eating outside
 - Some foods are not good eating at home, than eating at restaurants (like tandoori roti, it gets dry)
+
+## Sky Gold
+
+[GOLD Rush: I'm SKYing a 144% Jump in Profits](https://shankarnath.substack.com/p/skygold)

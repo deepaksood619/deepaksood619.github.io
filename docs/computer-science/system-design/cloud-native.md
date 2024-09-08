@@ -40,6 +40,12 @@ https://thenewstack.io/primer-distributed-systems-and-cloud-native-computing
 
 ![How do we Adopt Cloud Native](../../media/Pasted%20image%2020240321193906.jpg)
 
+## Architecture
+
+![Cloud Native Reference Architecture](../../media/Pasted%20image%2020240906232317.png)
+
+[Cloud Native Architecture: Its Benefits and Key Components](https://successive.tech/blog/exploring-cloud-native-architecture-its-benefits-and-key-components/)
+
 ## Links
 
 - [Cloud Foundry – Open Source Cloud Native Application Delivery](https://www.cloudfoundry.org/)

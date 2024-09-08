@@ -35,7 +35,8 @@ http://django-helpdesk-demo.herokuapp.com
 - faveo
 - https://www.hesk.com
 
-- HelpScout
+- HelpScout - [Help Scout: Shared Inbox, Help Center, & Live Chat Software](https://www.helpscout.com/)
+   	- Example - [Account Management - Marcellus Investment Managers Pvt Ltd](https://marcellus.helpscoutdocs.com/category/4-little-champs-portfolio/2?sort=updatedAt)
 - **Intercom**
 - zoho
 - zendesk

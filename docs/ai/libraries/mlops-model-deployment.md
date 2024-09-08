@@ -14,6 +14,14 @@ The model is deployed to an online prediction service cluster (generally contain
 
 ![image](../../media/ML-Model-Deployment-image2.jpg)
 
+## DataOps
+
+DataOps is an approach to data analytics and data-driven decision making that follows the agile development methodology of continuous improvement. The goal of DataOps is to reduce the cost of data management, improve data quality, and deliver insights to analysts and business users faster by creating datapipelines.
+
+![DataOps](../../media/Pasted%20image%2020240906232222.png)
+
+[DataOps vs. DevOps: What's the Difference?](https://blog.hubspot.com/website/dataops-vs-devops)
+
 ## MLOps
 
 MLOps is an engineering discipline that aims to unify ML systems development (dev) and ML systems deployment (ops) in order to standardize and streamline the continuous delivery of high-performing models in production.

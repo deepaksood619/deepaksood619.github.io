@@ -51,9 +51,8 @@ Two members of a criminal gang are arrested and imprisoned. Each prisoner is in 
 
 ## Prisoner's dilemma payoff matrix
 
-| | | |
-|---|---|---|
 | **Prisoner A / Prisoner B** | **Prisoner B stays silent (cooperates)** | **Prisoner B betrays (defects)** |
+|---|---|---|
 | **Prisoner A stays silent (cooperates)** | Each serves 1 year | Prisoner A: 3 years, Prisoner B: goes free |
 | **Prisoner A betrays (defects)** | Prisoner A: goes free, Prisoner B: 3 years | Each serves 2 years |
 

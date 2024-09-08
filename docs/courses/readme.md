@@ -63,12 +63,45 @@
 
 ## Certifications
 
+### Introduction to Generative AI (Sept 2024)
+
+[Introduction to Generative AI | Google Cloud Skills Boost](https://www.cloudskillsboost.google/public_profiles/1f158c1e-44d1-4d15-b0c7-48b1cce0f1b2/badges/11173360)
+
+### HackerRank (Nov 2023)
+
+- [Problem Solving (Intermediate) - HackerRank](https://www.hackerrank.com/certificates/6ac6087bdaf7)
+- [Software Engineer](https://www.hackerrank.com/certificates/601341d5ca8c)
+- [Rest API (Intermediate)](https://www.hackerrank.com/certificates/b47b1ddc65ed)
+- [Python](https://www.hackerrank.com/certificates/a38196f6dfbf)
+- [SQL (Advanced)](https://www.hackerrank.com/certificates/49afdfd6413d)
+
 ### CKAD (12 Oct 2020)
 
 - Scholarship - By The Linux Foundation
 - Certificate - Certified Kubernetes Application Developer (CKAD) - LF-05dwcmacjq
 - Course - Kubernetes for Developers (LFD259) - LF-evesgvlbl2
 - https://training.linuxfoundation.org/certification/verify
+
+### 365 Data Science Courses (Mar 2020)
+
+- Credit Risk Modeling
+- Customer Analytics
+- Time Series Analysis
+- Intro to Data and Data Science
+- Introduction to Microsoft Excel
+- Advanced Microsoft Excel
+- Advanced Statistical Methods
+
+[GitHub - deepaksood619/365-Data-Science: 365 Data Science Courses](https://github.com/deepaksood619/365-Data-Science)
+
+### Coursera (Jun 2018 - Oct 2018)
+
+- [Mindshift: Break Through Obstacles to Learning and Discover Your Hidden Potential](https://www.coursera.org/account/accomplishments/verify/ZT58TT77JZQ6)
+- [Machine Learning in the Enterprise](https://www.coursera.org/account/accomplishments/verify/ZT58TT77JZQ6)
+- [Feature Engineering](https://www.coursera.org/account/accomplishments/verify/QDCV63W7H5C3)
+- [TensorFlow on Google Cloud](https://www.coursera.org/account/accomplishments/verify/NBZCZ2ULKX8P)
+- [Launching into Machine Learning](https://www.coursera.org/account/accomplishments/verify/UKJAH7D7MTYH)
+- [How Google does Machine Learning](https://www.coursera.org/account/accomplishments/verify/GBV42B7YRFYU)
 
 ## Tutorials
 

@@ -29,6 +29,7 @@
 - [Use Cases: AIML in Logistics and Warehousing](about-me/projects/50-use-cases-aiml-logistics-warehousing.md)
 - [Data Practical Use Cases](about-me/projects/49-data-practical-use-cases.md)
 - [RAG Presentation](about-me/projects/48-rag-genai-presentation.md)
+- [Opstree Standard Proposal Format](about-me/projects/71-opstree-standard-proposal-format.md)
 
 ### Bake.io
 

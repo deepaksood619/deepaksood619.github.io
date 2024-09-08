@@ -31,3 +31,5 @@ It is difficult to say who wins in CloudFlare vs CloudFront on the pricing front
 
 - [CloudFlare Vs Amazon CloudFront Vs MaxCDN Vs Akamai: Features & Price](https://www.linkedin.com/pulse/cloudflare-vs-amazon-cloudfront-maxcdn-akamai-price-manan-ghadawala/)
 - [Akamai versus CloudFront - CDN Planet](https://www.cdnplanet.com/compare/akamai/cloudfront/)
+- [Benchmarking Edge Network Performance: Akamai, Cloudflare, Amazon CloudFront, Fastly, and Google](https://blog.cloudflare.com/benchmarking-edge-network-performance/)
+- [Akamai, Fastly, Cloudflare, or Amazon CloudFront? Which CDN Should I Choose?](https://trackit.io/akamai-cloudlfare-fastly-vs-amazon-cloudfront/)

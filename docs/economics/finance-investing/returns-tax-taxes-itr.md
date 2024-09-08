@@ -504,6 +504,14 @@ As per the amendment in the Finance Act 2021, with effect from 1st April 2021, t
 
 [Section 148 of Income Tax Act: Notice Under Assessment or Reassessment](https://cleartax.in/s/notice-section-148-income-tax-act)
 
+## Liberalised Remittance Scheme (LRS)
+
+Under the Liberalised Remittance Scheme (LRS), all resident individuals are allowed to freely remit up to USD 2,50,000 per financial year (April – March) for any permissible current or capital account transaction or a combination of both. The Scheme is not available to corporates, partnership firms, HUF, Trusts etc.
+
+### What is the current TCS (Tax Collected at Source) rate for LRS?
+
+It is 5% of the remittance amount above INR 7 Lakhs. From October 1, 2023 onwards, the rate will be 20% of the remittance amount. TCS (Tax Collected at Source) amount will be visible on your Form 26AS.
+
 ## Links
 
 [How To (LEGALLY) Never Pay Taxes - Do This Today - YouTube](https://www.youtube.com/watch?v=248o4zc9RmI)

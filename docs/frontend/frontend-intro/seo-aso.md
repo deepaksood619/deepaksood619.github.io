@@ -16,6 +16,12 @@ https://blog.hubspot.com/marketing/search-engine-marketing
 
 ## Tools
 
+[GitHub - serpapi/awesome-seo-tools: Curated list of awesome SEO tools](https://github.com/serpapi/awesome-seo-tools)
+
+[GitHub - madawei2699/awesome-seo: Google SEO Research and Web Traffic Monetization](https://github.com/madawei2699/awesome-seo)
+
+[Moz - Google Algorithm Update History](https://moz.com/google-algorithm-change)
+
 #### SEO Sites
 
 - [Semrush - Online Marketing Can Be Easy](https://semrush.com/)
@@ -275,6 +281,12 @@ A deep link is a mobile message that takes a user who has the client’s app to 
 
 https://ecommercetuners.com/seo-for-ecommerce-product-detail-pages
 
+## AMP - Accelerated Mobile Pages
+
+AMP is a web component framework that you can use to easily create user-first websites, stories, emails, and ads.
+
+[AMP on Google  |  Google for Developers](https://developers.google.com/amp)
+
 ## Subdomain vs subdirectory
 
 Use subdirectory wherever possible
@@ -297,6 +309,7 @@ Different content on slash and non-slash URLs is okay for Google, but often is l
 
 ## References
 
+- [Google Crawlers / Crawling](frontend/frontend-intro/google-crawlers-crawling.md)
 - https://www.toptal.com/full-stack/interview-questions
 - https://neilpatel.com/blog/10-advanced-seo-techniques-thatll-double-your-search-traffic
 - https://neilpatel.com/blog/google-ranking

@@ -197,6 +197,10 @@ Microsoft Fabric is ==a data and analytics platform that helps businesses and d
 
 [Data Analytics | Microsoft Fabric](https://www.microsoft.com/en-us/microsoft-fabric)
 
+[OneLake, the OneDrive for data - Microsoft Fabric | Microsoft Learn](https://learn.microsoft.com/en-us/fabric/onelake/onelake-overview)
+
+[Unify data sources with OneLake shortcuts - Microsoft Fabric | Microsoft Learn](https://learn.microsoft.com/en-us/fabric/onelake/onelake-shortcuts)
+
 ## Links
 
 - [Distribute content to external guest users with Microsoft Entra B2B - Power BI | Microsoft Learn](https://learn.microsoft.com/en-us/power-bi/enterprise/service-admin-azure-ad-b2b)

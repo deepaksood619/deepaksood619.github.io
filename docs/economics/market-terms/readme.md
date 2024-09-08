@@ -63,15 +63,11 @@ Investing ensures financial security, and the Stock market plays a pivotal role 
 
 ## Stock Market Participants
 
-1. Domestic Retail Participants-- These are people like you and me transacting in markets
-
-2. NRI's and OCI-- These are people of Indian origin but based outside India
-
-3. Domestic Institutions-- These are large corporate entities based in India. A classic example would be the LIC of India.
-
-4. Domestic Asset Management Companies (AMC)-- Typical participants in this category would be the mutual fund companies such as SBI Mutual Fund, DSP Black Rock, Fidelity Investments, HDFC AMC, etc.
-
-5. Foreign Institutional Investors-- Non-Indian corporate entities. These could be foreign asset management companies, hedge funds, and other investors
+1. Domestic Retail Participants - These are people like you and me transacting in markets
+2. NRI's and OCI - These are people of Indian origin but based outside India
+3. Domestic Institutions - These are large corporate entities based in India. A classic example would be the LIC of India.
+4. Domestic Asset Management Companies (AMC) - Typical participants in this category would be the mutual fund companies such as SBI Mutual Fund, DSP Black Rock, Fidelity Investments, HDFC AMC, etc.
+5. Foreign Institutional Investors - Non-Indian corporate entities. These could be foreign asset management companies, hedge funds, and other investors
 
 ## SEBI (The Securities and Exchange Board of India)
 
@@ -83,20 +79,17 @@ Investing ensures financial security, and the Stock market plays a pivotal role 
 6. Large investors with huge cash pile should not manipulate the markets
 7. An overall development of markets
 
-| **Entity** | **Example of companies** | **What do they do?** | **In simpler words** |
-|---|---|---|---|
-| **Credit Rating Agency (CRA)** | CRISIL, ICRA, CARE | They rate the credit worthiness of corporate and governments | If a corporate or Govt entity wants to avail loan, CRA checks if the entity is worthy of giving a loan |
-| **Debenture Trustees** | Almost all banks in India | Act as a trustee to corporate debenture | When companies want to raise a loan they can issue debenture against which they promise to pay an interest. These debentures can be subscribed by public. A Debenture Trustee ensures that the debenture obligation is honored |
-| **Depositories** | NSDL and CDSL | Safekeeping, reporting and settlement of clients securities | Acts like a vault for the shares that you buy. The depositories hold your shares and facilitate exchange of your securities. When you buy shares these shares sit in your Depositary account usually referred to as the DEMAT account. This is maintained electronically by only two companies in India |
-| **Depositary Participant (DP)** | Most of the banks and few stock brokers | Act as an agent to the two depositories | You cannot directly interact with NSDL or CDSL. You need to liaison with a DP to open and maintain your DEMAT account |
-| **Foreign Institutional Investors** | Foreign corporate, funds and individuals | Make investments in India | These are foreign entities with an interest to invest in India. They usually transact in large amounts of money, and hence their activity in the markets have an impact in terms of market sentiment |
-| **Merchant Bankers** | Karvy, Axis Bank, Edelweiss Capital | Help companies raise money in the primary markets | If a company plans to raise money by floating an IPO, then merchant bankers are the ones who help companies with the IPO process |
-| **Asset Management Companies
-(AMC)** | HDFC AMC, Reliance Capital, SBI Capital | Offer Mutual Fund Schemes | An AMC collects money from the public, puts that money in a single account and then invests that money in markets with an objective of making the investments grow and thereby generate wealth to its investors. |
-| **Portfolio Managers/
-Portfolio Management System
-(PMS)** | Religare Wealth Management, Parag Parikh PMS | Offer PMS schemes | They work similarly to a mutual fund except in a PMS you have to invest a minimum of Rs.25,00,000 however there is no such cap in a mutual fund |
-| **Stock Brokers and Sub Brokers** | Zerodha, Sharekhan, ICICI Direct | Act as a intermediary between an investor and the stock exchange | Whenever you want to buy or sell shares from the stock exchange you have to do so through registered stock brokers. A sub broker is like an agent to a stock broker |
+| Entity                                                     | Example of companies                         | What do they do?                                                 | In simpler words                                                                                                                                                                                                                                                                                        |
+| ---------------------------------------------------------- | -------------------------------------------- | ---------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Credit Rating Agency (CRA)**                             | CRISIL, ICRA, CARE                           | They rate the credit worthiness of corporate and governments     | If a corporate or Govt entity wants to avail loan, CRA checks if the entity is worthy of giving a loan                                                                                                                                                                                                  |
+| **Debenture Trustees**                                     | Almost all banks in India                    | Act as a trustee to corporate debenture                          | When companies want to raise a loan they can issue debenture against which they promise to pay an interest. These debentures can be subscribed by public. A Debenture Trustee ensures that the debenture obligation is honored                                                                          |
+| **Depositories**                                           | NSDL and CDSL                                | Safekeeping, reporting and settlement of clients securities      | Acts like a vault for the shares that you buy. The depositories hold your shares and facilitate exchange of your securities. When you buy shares these shares sit in your Depositary account usually referred to as the DEMAT account. This is maintained electronically by only two companies in India |
+| **Depositary Participant (DP)**                            | Most of the banks and few stock brokers      | Act as an agent to the two depositories                          | You cannot directly interact with NSDL or CDSL. You need to liaison with a DP to open and maintain your DEMAT account                                                                                                                                                                                   |
+| **Foreign Institutional Investors**                        | Foreign corporate, funds and individuals     | Make investments in India                                        | These are foreign entities with an interest to invest in India. They usually transact in large amounts of money, and hence their activity in the markets have an impact in terms of market sentiment                                                                                                    |
+| **Merchant Bankers**                                       | Karvy, Axis Bank, Edelweiss Capital          | Help companies raise money in the primary markets                | If a company plans to raise money by floating an IPO, then merchant bankers are the ones who help companies with the IPO process                                                                                                                                                                        |
+| **Asset Management Companies (AMC)**                       | HDFC AMC, Reliance Capital, SBI Capital      | Offer Mutual Fund Schemes                                        | An AMC collects money from the public, puts that money in a single account and then invests that money in markets with an objective of making the investments grow and thereby generate wealth to its investors.                                                                                        |
+| **Portfolio Managers / Portfolio Management System (PMS)** | Religare Wealth Management, Parag Parikh PMS | Offer PMS schemes                                                | They work similarly to a mutual fund except in a PMS you have to invest a minimum of Rs.25,00,000 however there is no such cap in a mutual fund                                                                                                                                                         |
+| **Stock Brokers and Sub Brokers**                          | Zerodha, Sharekhan, ICICI Direct             | Act as a intermediary between an investor and the stock exchange | Whenever you want to buy or sell shares from the stock exchange you have to do so through registered stock brokers. A sub broker is like an agent to a stock broker                                                                                                                                     |
 
 ## DEMAT - Dematerialization
 

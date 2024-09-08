@@ -8,7 +8,6 @@ AJAX - Asynchronous JavaScript and XML - Web applications can send and retrieve 
 
 - SCM - Source Control Management
 - FTU - First Time Use
-- AMP - Accelerated Mobile Pages
 - SHA - Secure Hash
 - JSX - Javascript XML
 
