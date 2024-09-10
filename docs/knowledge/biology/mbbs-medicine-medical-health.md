@@ -153,6 +153,22 @@ https://en.wikipedia.org/wiki/Urine_therapy
 
 [Geomancy - Wikipedia](https://en.wikipedia.org/wiki/Geomancy)
 
+## Costs (Sep 2024)
+
+- Cataract Surgery - Rs. 35,000
+- Brain Tumor Surgery - Rs. 4,00,000
+- Bypass Surgery - Rs. 3,00,000
+- Heart Valve Replacement - Rs. 3,70,000
+- Heart Angioplasty - Rs. 1,75,000
+- Kidney Stone Removal - Rs. 1,10,000
+- Hernia Surgery - Rs. 32,000
+- Liver Transplant - Rs. 23,00,000
+- Gall Bladder Removal - Rs. 70,000
+- Hip Replacement - Rs. 3,15,000
+- Knee Replacement - Rs. 2,00,000
+- Stem Cell/Bone Marrow Transplant - Rs. 25,00,000
+- Orthopedic Implants - Rs. 2,00,000
+
 ## Medicines
 
 - [Zentel Chewable Tablet: View Uses, Side Effects, Price and Substitutes | 1mg](https://www.1mg.com/drugs/zentel-chewable-tablet-137773)

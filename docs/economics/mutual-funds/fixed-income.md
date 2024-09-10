@@ -110,6 +110,23 @@ Mis (Monthly Income Scheme) - Limit 9 lakh
 
 [10 Lakh Investment 💰 #epmshorts - YouTube](https://www.youtube.com/shorts/CxZ0FNv7BC8)
 
+### Annuity
+
+- Regular Pay Annuity Plan
+- Single Pay Immediate Annuity Plan
+- Single-Pay Deferred Annuity Plan
+
+[ABSLI Guaranteed Annuity Plus - Guaranteed Income for a Retired Life](https://lifeinsurance.adityabirlacapital.com/retirement-and-pension-plans/absli-guaranteed-annuity-plus)
+
+- Give ₹1 lakh/ month for 5 years and Get ₹ 4.58 lakhs every year till your life
+- 7.63%
+
+[Best Annuity Plans in India 2024](https://groww.in/blog/best-annuity-plans-in-india)
+
+[Annuity : Buy Best Annuity Plans in 2024](https://www.policybazaar.com/life-insurance/annuity/)
+
+[Site Unreachable](https://www.zeebiz.com/personal-finance/news-guaranteed-income-with-tax-benefits-top-5-annuity-plans-in-india-stst-258464)
+
 ## Links
 
 - [5 High Profit, Tax Free Government Investing Options! | Ankur Warikoo Hindi - YouTube](https://www.youtube.com/watch?v=3Fxuq0jeUkk)

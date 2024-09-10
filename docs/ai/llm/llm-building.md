@@ -196,3 +196,4 @@ An LLM Agent is a software entity capable of reasoning and autonomously executin
 - [GitHub - naklecha/llama3-from-scratch: llama3 implementation one matrix multiplication at a time](https://github.com/naklecha/llama3-from-scratch)
 - [What We’ve Learned From A Year of Building with LLMs – Applied LLMs](https://applied-llms.org/)
 - [Let's reproduce GPT-2 (124M) - YouTube](https://www.youtube.com/watch?v=l8pRSuU81PU)
+- [Scaling and Reliability Challenges of LLama3](https://mlops.substack.com/p/scaling-and-reliability-challenges)

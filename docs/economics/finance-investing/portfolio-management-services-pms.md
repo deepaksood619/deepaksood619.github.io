@@ -1,8 +1,8 @@
 # Portfolio Management Services (PMS)
 
 - Marcellus - 10L-50L
-	- [Marcellus Global Compounders (GCP) | PMS Investment Strategies](https://marcellus.in/portfolio-management-services/global-compounders/)
-	- [PMS Strategies - Marcellus Investment Managers Pvt Ltd](https://marcellus.helpscoutdocs.com/category/5-consistent-compounders-portfolio)
+   	- [Marcellus Global Compounders (GCP) | PMS Investment Strategies](https://marcellus.in/portfolio-management-services/global-compounders/)
+   	- [PMS Strategies - Marcellus Investment Managers Pvt Ltd](https://marcellus.helpscoutdocs.com/category/5-consistent-compounders-portfolio)
 - https://truebeacon.com
 - https://www.dezerv.in
 - https://www.soicresearch.in/home?subscription-offerings
@@ -14,4 +14,3 @@ Discretionary portfolio manager will have the complete control on decision makin
 **Long-Term Capital Gains** – Applies if you’ve held stocks for more than 24 months before selling them for gains, then you will be liable to pay capital gains tax rate of 20% plus applicable fees & surcharges.
 
 [About PMS - Marcellus Investment Managers Pvt Ltd](https://marcellus.helpscoutdocs.com/category/11-what-is-a-pms)
-

@@ -108,6 +108,8 @@ I must not fear. Fear is the mind-killer. Fear is the little-death that brings t
 
 Passion comes after you put in the hard work to become excellent at something valuable, not before. In other words, what you do for a living is much less important than how you do it. - Cal Newport
 
+BAD DAYS don't undo THE PROGRESS YOU'VE MADE. Remember, PROGRESS ISN'T JUST ABOUT THE HIGHS, IT'S ALSO ABOUT HOW YOU NAVIGATE through the lows.
+
 ## Others
 
 ### Antifragile

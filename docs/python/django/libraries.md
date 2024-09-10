@@ -127,6 +127,13 @@ def send_email_and_push(request):
         return push_response
 ```
 
+## Django API Documentation
+
+- [Documenting your API - Django REST framework](https://www.django-rest-framework.org/topics/documenting-your-api/)
+- [drf-yasg — drf-yasg 1.21.7 documentation](https://drf-yasg.readthedocs.io/)
+   	- [GitHub - axnsan12/drf-yasg: Automated generation of real Swagger/OpenAPI 2.0 schemas from Django REST Framework code.](https://github.com/axnsan12/drf-yasg)
+- [GitHub - tfranzel/drf-spectacular: Sane and flexible OpenAPI 3 schema generation for Django REST framework.](https://github.com/tfranzel/drf-spectacular)
+
 ## Others
 
 ```python

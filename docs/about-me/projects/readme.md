@@ -16,20 +16,24 @@
 #### Account Management / Sales
 
 - [Data Engineering Product Pitch IoT Industry](about-me/projects/59-data-engineering-product-pitch-iot-industry.md)
-- [Data Engineering Case Studies](about-me/projects/60-data-engineering-case-studies.md)
-- [General Application Management Case Study](about-me/projects/61-general-application-management-case-study.md)
-- [Application Management Case Study - Telecom](about-me/projects/62-application-management-case-study-telecom.md)
 - [MLOps Master Document](about-me/projects/63-mlops-master-document.md)
-- [MLOps Case Studies](about-me/projects/64-mlops-case-studies.md)
 - [Problems in IoT Industry](about-me/projects/65-problems-in-iot-industry.md)
 - [IoT Case Studies](about-me/projects/66-iot-case-studies.md)
 - [Data Engineering - Battle Cards](about-me/projects/67-data-engineering-battle-cards.md)
 - [Pull Request Risk Tagging Heuristics](about-me/projects/52-pull-request-risk-tagging-heuristics.md)
-- [Case Study: Anomaly Detection in Metric Data using Isolation Forest](about-me/projects/51-case-study-anomaly-detection.md)
 - [Use Cases: AIML in Logistics and Warehousing](about-me/projects/50-use-cases-aiml-logistics-warehousing.md)
 - [Data Practical Use Cases](about-me/projects/49-data-practical-use-cases.md)
 - [RAG Presentation](about-me/projects/48-rag-genai-presentation.md)
 - [Opstree Standard Proposal Format](about-me/projects/71-opstree-standard-proposal-format.md)
+
+#### Case Studies
+
+- [Data Engineering Case Studies](about-me/projects/60-data-engineering-case-studies.md)
+- [General Application Management Case Study](about-me/projects/61-general-application-management-case-study.md)
+- [Application Management Case Study - Telecom](about-me/projects/62-application-management-case-study-telecom.md)
+- [MLOps Case Studies](about-me/projects/64-mlops-case-studies.md)
+- [Case Study: Anomaly Detection in Metric Data using Isolation Forest](about-me/projects/51-case-study-anomaly-detection.md)
+- [GenAI Case Study - Careers360](about-me/projects/47-genai-case-study-careers360.md)
 
 ### Bake.io
 

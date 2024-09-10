@@ -12,5 +12,6 @@
 - [Interview Questions](ai/llm/interview-questions.md)
 - [Libraries](ai/llm/libraries.md)
 - [Tools](ai/llm/tools.md)
+- [Code Generators](ai/llm/code-generators.md)
 - [LLM FinTech Use Cases](ai/llm/fintech-use-cases.md)
 - [RAG Hackathon Questions](ai/llm/rag-hackathon-questions.md)

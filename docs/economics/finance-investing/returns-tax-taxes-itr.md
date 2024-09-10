@@ -77,8 +77,6 @@ if you are not able to set off your entire capital loss in the same year, you ca
 
 https://economictimes.indiatimes.com/wealth/tax/heres-a-trick-to-lower-your-tax-on-capital-gains-from-equity/articleshow/73095582.cms
 
-[Tax on Stocks, Mutual Funds, Gold and Real Estate | STCG and LTCG | ETMONEY](https://www.youtube.com/watch?v=sYtnOVgdH_I)
-
 [7 Questions to Ask Before Selling Equity Mutual Funds or Stocks | ETMONEY](https://www.youtube.com/watch?v=KJ4kinqOW6c)
 
 [What is Tax Harvesting | What is Tax Loss Harvesting | Tax Harvesting in Mutual Funds](https://www.youtube.com/watch?v=t_y0kNP-apY)
@@ -417,6 +415,10 @@ What Is the Marginal Tax Rate? The marginal tax rate is the amount of additional
 An offshore account is one that is opened by a citizen outside her home country. This does not apply only to Indian citizens. A citizen of the US, opening a bank account in Canada has also opened an offshore bank account.
 
 [Offshore Bank Account: Everything You Need to Know](https://www.winvesta.in/blog/offshore-bank-account/)
+
+## Real estate taxation
+
+[Tax on Stocks, Mutual Funds, Gold and Real Estate | STCG and LTCG | ETMONEY](https://www.youtube.com/watch?v=sYtnOVgdH_I)
 
 ## Taxes on house (Section 54F)
 

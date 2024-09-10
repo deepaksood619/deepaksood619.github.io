@@ -46,3 +46,5 @@ Zaggle is a fintech company providing innovative solutions for the day-to-day fi
 ## Sky Gold
 
 [GOLD Rush: I'm SKYing a 144% Jump in Profits](https://shankarnath.substack.com/p/skygold)
+
+## Happiest Minds Technologies Ltd

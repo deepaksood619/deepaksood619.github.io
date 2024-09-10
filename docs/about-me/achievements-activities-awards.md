@@ -30,6 +30,8 @@ I was responsible of creating a product and infrastructure around it to help sav
 
 [UnsaidTalks on LinkedIn: #unsaidtalks #mentorshipprogram #techcareers #careerguidance…](https://www.linkedin.com/posts/unsaidtalks_unsaidtalks-mentorshipprogram-techcareers-activity-7232001433175216129-Eff-?utm_source=share&utm_medium=member_desktop)
 
+[Deepak Sood on LinkedIn: #mentorship #techcareers #generativeai #dataengineering…](https://www.linkedin.com/posts/deepaksood619_unsaidtalks-mentorshipprogram-techcareers-activity-7239180561490026496-VlRf?utm_source=share&utm_medium=member_desktop)
+
 [High-Level Overview of CS Domains](https://docs.google.com/spreadsheets/d/1Ojy0rC60r5FrBOpmwkwXdL_F8lKUieDpWu_SGWE-rx8/edit?usp=sharing)
 
 ### GenAI Hands-on Workshop 'From Zero to Hero: Mastering GenAI in a Flash' - SRM-IST (2 September 2024)
@@ -39,6 +41,8 @@ Slides - [From Zero to Hero: Mastering GenAI in a Flash](https://docs.google.com
 - Zero to Hero: Master GenAI from the ground up.
 - Hands-On Learning: Dive into practical exercises.
 - Hackathon: Test your skills in a live challenge.
+
+"From Zero to Hero: Mastering GenAI in a Flash" is your one-stop session to dive deep into the world of Generative AI. We'll start by exploring **what GenAI is**, the **problems it solves**, and **where it all began**—taking you through its evolution. Then, we’ll glimpse into the **future of GenAI** and what’s on the horizon. In the technical deep dive, we’ll cover **prompt engineering**, the power of **LLMs (Large Language Models)**, the magic of **embeddings**, and how to supercharge your AI with **RAGs (Retrieval-Augmented Generation)**. It’s everything you need to go from zero to hero in GenAI!
 
 ![From Zero to Hero: Mastering GenAI in a Flash](../media/Pasted%20image%2020240831144403.png)
 

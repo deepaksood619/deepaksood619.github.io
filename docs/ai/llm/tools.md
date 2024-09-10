@@ -13,7 +13,6 @@
 - [It’s Time to Pay Attention to A.I. (ChatGPT and Beyond)](https://www.youtube.com/watch?v=0uQqMxXoNVs)
 - https://en.wikipedia.org/wiki/GPT-3
 - https://www.gwern.net/GPT-3
-- [Galileo AI · Copilot for interface design](https://www.usegalileo.ai/)
 - [How Does ChatGPT Work - YouTube](https://www.youtube.com/watch?v=WlbPnZ_SOX4)
 - [ChatGPT - Explained! - YouTube](https://www.youtube.com/watch?v=NpmnWgQgcsA)
 - [Voice control for ChatGPT | Chrome Web Store - Extensions](https://chrome.google.com/webstore/detail/voice-control-for-chatgpt/eollffkcakegifhacjnlnegohfdlidhn)

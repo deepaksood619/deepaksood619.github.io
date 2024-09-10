@@ -195,7 +195,9 @@ https://myenglishmatters.com/2018/06/28/whats-the-difference-between-has-been-ha
 - slog - work hard over a period of time
 - kayfabe - (in professional wrestling) the fact or convention of presenting staged performances as genuine or authentic.
 - Spray and pray
-- Idiopathic - Relating to or denoting any disease or condition which arises spontaneously or for which the cause is unknown. -- "idiopathic epilepsy"
+- Idiopathic - Relating to or denoting any disease or condition which arises spontaneously or for which the cause is unknown. -- "idiopathic epilepsy"
+- Shrewd - able to make good decisions because you understand a situation well
+- xenophobia - a fear or hatred of foreign people and cultures
 
 ### Shill / Shilling
 

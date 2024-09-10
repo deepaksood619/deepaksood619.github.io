@@ -142,3 +142,4 @@ Youtube - [Breaking PostgreSQL at Scale - Christophe Pettus](https://www.youtube
 - [Postgres System Columns Explained (ctid, xmin,xmax) - YouTube](https://www.youtube.com/watch?v=AveRgUrC7FM)
 - [Index Fill Factor | The Backend Engineering Show - YouTube](https://www.youtube.com/watch?v=qXDhMJCuDEc)
 - [Explaining The Postgres Meme](https://www.avestura.dev/blog/explaining-the-postgres-meme)
+- [Postgres just got even faster - YouTube](https://www.youtube.com/watch?v=1KzcJXNSzgE&ab_channel=HusseinNasser)

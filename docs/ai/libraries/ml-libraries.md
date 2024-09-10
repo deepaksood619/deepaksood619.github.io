@@ -126,7 +126,7 @@ https://wordsandbuttons.online/sympy_makes_math_fun_again.html
 
 NetworkX is a Python package for the creation, manipulation, and study of the structure, dynamics, and functions of complex networks.
 
-## Features
+### Features
 
 - Data structures for graphs, digraphs, and multigraphs
 - Many standard graph algorithms
@@ -135,7 +135,7 @@ NetworkX is a Python package for the creation, manipulation, and study of the st
 - Nodes can be "anything" (e.g., text, images, XML records)
 - Edges can hold arbitrary data (e.g., weights, time-series)
 
-## Other tools
+### Other tools
 
 - igraph
 - SNAP
@@ -248,3 +248,7 @@ Jinaallows you to build search-as-a-service powered by deep learning in just min
 https://jina.ai
 
 https://github.com/jina-ai/jina
+
+## Others
+
+- [GitHub - h2oai/h2o-3: H2O is an Open Source, Distributed, Fast & Scalable Machine Learning Platform: Deep Learning, Gradient Boosting (GBM) & XGBoost, Random Forest, Generalized Linear Modeling (GLM with Elastic Net), K-Means, PCA, Generalized Additive Models (GAM), RuleFit, Support Vector Machine (SVM), Stacked Ensembles, Automatic Machine Learning (AutoML), etc.](https://github.com/h2oai/h2o-3)

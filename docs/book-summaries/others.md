@@ -21,6 +21,7 @@
 - [SUPERCOMMUNICATORS by Charles Duhigg | Core Message - YouTube](https://www.youtube.com/watch?v=308NQsiDrcE&ab_channel=ProductivityGame)
 - [SURROUNDED BY IDIOTS by Thomas Erikson | Core Message - YouTube](https://www.youtube.com/watch?v=kkATORyBsug&ab_channel=ProductivityGame)
 - [THE 6 TYPES OF WORKING GENIUS by Patrick Lencioni | Core Message - YouTube](https://www.youtube.com/watch?v=N4I4hA6u6CM)
+- [LEADERSHIP STRATEGY and TACTICS by Jocko Willink | Core Message - YouTube](https://www.youtube.com/watch?v=ol6UYlOPWWo&ab_channel=ProductivityGame)
 
 ### [Learn to lead: THE 21 IRREFUTABLE LAWS OF LEADERSHIP by John Maxwell | Core Message - YouTube](https://www.youtube.com/watch?v=QQhdiktL99w)
 

@@ -185,6 +185,8 @@ Airline can be transporter of fuels if passenger occupancy is lower, i.e. based 
 
 [New data shows Waymo crashes a lot less than human drivers](https://www.understandingai.org/p/new-data-shows-waymo-crashes-a-lot)
 
+[Safety Impact](https://waymo.com/safety/impact/)
+
 ## Others
 
 - Beekeeping
