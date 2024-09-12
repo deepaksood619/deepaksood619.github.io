@@ -72,8 +72,20 @@ ORDER BY
 - Dataflow is a unified programming model and a managed service for developing and executing a wide range of data processing patterns including ETL, batch computation, and continuous computation.
 - The Dataflow model combines batch and stream processing so developers don't have to make tradeoffs between correctness, cost, and processing time.
 
+## Pricing
+
+Queries (on-demand) - $6.25 per TiB - The first 1 TiB per month is free.
+
+[Pricing  |  BigQuery: Cloud Data Warehouse  |  Google Cloud](https://cloud.google.com/bigquery/pricing)
+
+## Others
+
+- `BigQuery` should not be used if you expect OLTP behavior or performance.
+
 ## References
 
 https://github.com/GoogleCloudPlatform/training-data-analyst/blob/master/courses/machine_learning/deepdive/02_generalization/repeatable_splitting.ipynb
 
 https://github.com/GoogleCloudPlatform/training-data-analyst
+
+[php - Speed of inserting to BigQuery - should this be batched in background? - Stack Overflow](https://stackoverflow.com/questions/69463609/speed-of-inserting-to-bigquery-should-this-be-batched-in-background)

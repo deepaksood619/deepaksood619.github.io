@@ -85,3 +85,5 @@ docker run -d -p 3000:3000 \
 [Metabot](https://www.metabase.com/glossary/metabot)
 
 - No longer supported
+
+[minusx.ai | AI Data Scientist](https://minusx.ai/)

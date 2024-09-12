@@ -197,3 +197,4 @@ An LLM Agent is a software entity capable of reasoning and autonomously executin
 - [What We’ve Learned From A Year of Building with LLMs – Applied LLMs](https://applied-llms.org/)
 - [Let's reproduce GPT-2 (124M) - YouTube](https://www.youtube.com/watch?v=l8pRSuU81PU)
 - [Scaling and Reliability Challenges of LLama3](https://mlops.substack.com/p/scaling-and-reliability-challenges)
+- [Building LLMs from the Ground Up: A 3-hour Coding Workshop - YouTube](https://www.youtube.com/watch?v=quh7z1q7-uc&ab_channel=SebastianRaschka)

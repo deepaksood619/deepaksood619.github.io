@@ -114,3 +114,7 @@
 - Amazon EC2 P4d/P4de instances - Powered by NVIDIA A100 Tensor Core GPUs
 - Amazon EC2 G5 instances - Powered by NVIDIA A10G Tensor Core GPUs
 - [Fireworks - Fastest Inference for Generative AI](https://fireworks.ai/)
+
+## Links
+
+- [code-generators](ai/llm/code-generators.md)

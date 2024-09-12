@@ -26,6 +26,24 @@ I was responsible of creating a product and infrastructure around it to help sav
 
 ## Activities
 
+### OpsTree Tech Talk (12 September 2024)
+
+Slides - [From Zero to Hero: Mastering GenAI in a Flash](https://docs.google.com/presentation/d/1go_DXxBZlhyr1Ap8QIQhXseCFTgKYJ4Obk8dHaJ8ZIk/edit?usp=sharing)
+
+🚀 Ready to level up your AI game? Join us today from 4:30-5:30 for an exciting OpsTree Tech Talk: **"From Zero to Hero: Mastering GenAI in a Flash!"**
+
+Presented by **Deepak Sood**, Senior AI, Data & DevOps Architect, this session will take you deep into the world of **Generative AI**—what it is, how it evolved, and what's next. We'll cover:
+
+- **Prompt Engineering**
+- The magic of **LLMs (Large Language Models)**
+- **Embeddings** and their power
+- **RAGs (Retrieval-Augmented Generation)** to supercharge your AI!
+
+Get ready to go from **zero to GenAI hero**!
+🕓 **4:30-5:30 PM**
+
+![mastering-genai-in-a-flash](../media/mastering-genai-in-a-flash.jpg)
+
 ### Mentorship - Unsaid Talks (22 August 2024)
 
 [UnsaidTalks on LinkedIn: #unsaidtalks #mentorshipprogram #techcareers #careerguidance…](https://www.linkedin.com/posts/unsaidtalks_unsaidtalks-mentorshipprogram-techcareers-activity-7232001433175216129-Eff-?utm_source=share&utm_medium=member_desktop)

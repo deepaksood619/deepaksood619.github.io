@@ -102,7 +102,7 @@ https://kafka.apache.org/uses
 
 ## ISR
 
-in-sync replicas is the subset of the replicas list that is currently alive and caught up-to the leader
+In-sync replicas is the subset of the replicas list that is currently alive and caught up-to the leader
 
 ## Streams API
 

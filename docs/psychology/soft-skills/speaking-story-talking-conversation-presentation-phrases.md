@@ -68,6 +68,8 @@ Always tell stories, most visual stories are the best, and simple
 - [Slides for Developers](https://slides.com/news/developers)
 - [Slidev](https://sli.dev)
 - [Canva: Visual Suite for Everyone](https://www.canva.com)
+   	- https://www.canva.com/p/templates/EAGERSskdZA-black-and-yellow-simple-webinar-event-instagram-post/
+   	- https://www.canva.com/p/templates/EAF35LmyzcQ-purple-modern-webinar-business-marketing-instagram-post/
 - Pools, Q&A
     - [Slido - Audience Interaction Made Easy](https://www.slido.com)
     - [Interactive presentation software - Mentimeter](https://www.mentimeter.com)

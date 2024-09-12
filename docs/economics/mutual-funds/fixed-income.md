@@ -125,7 +125,11 @@ Mis (Monthly Income Scheme) - Limit 9 lakh
 
 [Annuity : Buy Best Annuity Plans in 2024](https://www.policybazaar.com/life-insurance/annuity/)
 
-[Site Unreachable](https://www.zeebiz.com/personal-finance/news-guaranteed-income-with-tax-benefits-top-5-annuity-plans-in-india-stst-258464)
+[Guaranteed income with tax benefits: Top 5 annuity plans in India](https://www.zeebiz.com/personal-finance/news-guaranteed-income-with-tax-benefits-top-5-annuity-plans-in-india-stst-258464)
+
+## Kisan Vikas Patra
+
+[Ep 2 - Kisan Vikas Patra (8 Features) | Who should Invest? | Investing in Govt Schemes in Hindi - YouTube](https://www.youtube.com/watch?v=W2ATVuiZ04w&ab_channel=ZerodhaVarsity)
 
 ## Links
 

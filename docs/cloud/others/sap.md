@@ -52,3 +52,16 @@ This SAP FICO basics tutorial is going to explain SAP FICO overview and the majo
 [Course SAP for beginners - YouTube](https://www.youtube.com/playlist?list=PLiFE0QmVk5NcXRHMbqEOwX7w8HDNThUgo)
 
 [SAP Complete Details | SAP FICO | SAP SD | SAP MM | SAP ABAP | SAP ARIBA ‪@ZellEducation‬ - YouTube](https://www.youtube.com/watch?v=bVmOu9bzu54)
+
+## ERPNext
+
+- [**https://erpnext.com/**](https://erpnext.com/)
+- Best - **[GitHub - frappe/hrms: Open Source HR and Payroll Software](https://github.com/frappe/hrms)**
+   	- [Frappe HR](https://frappe.io/hr)
+- https://github.com/frappe/erpnext
+- [**https://github.com/frappe/frappe_docker**](https://github.com/frappe/frappe_docker)
+- https://frappe.school
+- [Introduction](https://frappeframework.com/docs/user/en/guides/integration/rest_api)
+- [Exploring open-source with ERPNext - YouTube](https://www.youtube.com/watch?v=RjTipQpUvNQ&ab_channel=Frappe)
+- [ERPNext Product Demo by Frappe | Puneet Kumar ( Regional Director - Americas) - YouTube](https://www.youtube.com/watch?v=Sn6Bc8t22GI&ab_channel=Frappe)
+- [GitHub - frappe/lending: Open Source Lending software](https://github.com/frappe/lending)

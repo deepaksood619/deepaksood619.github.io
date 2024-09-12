@@ -65,6 +65,7 @@
 - [**Featureform**](https://github.com/featureform/featureform) - feature store. Turn your existing data infrastructure into a feature store.
 - [**Galactic**](https://github.com/taylorai/galactic) cleaning and curation tools for massive unstructured text datasets. [Ben (48/100) on X](https://x.com/andersonbcdefg/status/1703093978982400057?t=9O2R93Ok8Mp6KqFegZVHJQ&s=09)
 - [**Great Expectations**](https://github.com/great-expectations/great_expectations) - helps data teams build a shared understanding of their data through quality testing, documentation, and profiling.
+- [GitHub - mendableai/firecrawl: 🔥 Turn entire websites into LLM-ready markdown or structured data. Scrape, crawl and extract with a single API.](https://github.com/mendableai/firecrawl)
 
 ### Data Visualization
 
@@ -150,12 +151,14 @@
 - [**Langflow**](https://github.com/logspace-ai/langflow) - UI for [LangChain](https://github.com/hwchase17/langchain), designed with react-flow to provide an effortless way to experiment and prototype flows.
 - [**PromptTools**](https://github.com/hegelai/prompttools) - a set of open-source, self-hostable tools for experimenting with, testing, and evaluating LLMs, vector databases, and prompts. [HN launch post](https://news.ycombinator.com/item?id=36958175).
 
-### LLM Metrics
+### LLM Metrics / Evaluation
 
 - [**DeepEval**](https://github.com/confident-ai/deepeval) - a simple-to-use, open-source evaluation framework for LLM applications.
 - [**Fiddler Auditor**](https://github.com/fiddler-labs/fiddler-auditor) - a tool to evaluate the robustness of language models.
 - [**ragas**](https://github.com/explodinggradients/ragas) - Evaluation framework for your Retrieval Augmented Generation (RAG) pipelines.
 - [**tvalmetrics**](https://github.com/TonicAI/tvalmetrics) - Metrics to evaluate the quality of responses of your Retrieval Augmented Generation (RAG) applications.
+
+[A Gentle Introduction to LLM Evaluations - Elena Samuylova - YouTube](https://www.youtube.com/live/ac6ZB5QEwGU)
 
 ### LLM Serving
 

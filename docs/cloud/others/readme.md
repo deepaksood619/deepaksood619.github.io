@@ -25,6 +25,7 @@
    	- [Amazon Cloudfront](cloud/aws/networking-content-delivery/amazon-cloudfront.md)
 - [Imagekit](cloud/others/imagekit.md)
 - [Ticketing / TMS](ticketing-tms)
+- [Loan Management System (LMS)](cloud/others/loan-management-system-lms.md)
 - [Business Rule Engine / Decision Rule Engine](business-rule-engine)
 - [Mobile Device Management (MDM)](cloud/others/mdm-mobile-device-management.md)
 - [Low-Code / No-Code Platforms / LCNC](cloud/others/low-code-no-code-lcnc.md)

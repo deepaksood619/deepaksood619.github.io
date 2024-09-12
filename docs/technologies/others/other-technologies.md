@@ -137,3 +137,4 @@ https://www.freecodecamp.org/news/build-a-crm
 - Amplication
 - [GitHub - hoophq/sequence: Immutable, scalable, and easy to use ledger service.](https://github.com/hoophq/sequence)
 - [Free Webmail and Email by GMX | Sign Up Now!](https://signup.gmx.com/)
+- [Stirling PDF](https://stirlingpdf.io/)   [GitHub - Stirling-Tools/Stirling-PDF: #1 Locally hosted web application that allows you to perform various operations on PDF files](https://github.com/Stirling-Tools/Stirling-PDF)

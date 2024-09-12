@@ -78,38 +78,6 @@ The idea behind [include()](https://docs.djangoproject.com/en/1.11/ref/urls/#dja
 
 Generic views abstract common patterns to the point where you don't even need to write Python code to write an app.
 
-## Custom Authentication Backend / Authorization
-
-https://docs.djangoproject.com/en/1.11/topics/auth/customizing
-
-[Authentication backends](https://docs.djangoproject.com/en/1.11/topics/auth/customizing/#authentication-backends) provide an extensible system for when a username and password stored with the user model need to be authenticated against a different service than Django's default.
-
-You can give your models [custom permissions](https://docs.djangoproject.com/en/1.11/topics/auth/customizing/#custom-permissions) that can be checked through Django's authorization system.
-
-You can [extend](https://docs.djangoproject.com/en/1.11/topics/auth/customizing/#extending-user) the default **User** model, or [substitute](https://docs.djangoproject.com/en/1.11/topics/auth/customizing/#auth-custom-user) a completely customized model.
-
-### Other Authentication Sources
-
-For example, your company may already have an LDAP (Lightweight Directory Access Protocol) setup that stores a username and password for every employee. It'd be a hassle for both the network administrator and the users themselves if users had separate accounts in LDAP and the Django-based applications.
-
-### Specifying Authentication Backend
-
-Django maintains a list of "authentication backend" that is checks for authentication. When someone calls django.contrib.auth.authenticate() - django tries authenticating across all of its authentication backends
-
-### Custom User Model
-
-`AUTH_USER_MODEL = 'myapp.MyUser'`
-
-### Libraries
-
-https://github.com/James1345/django-rest-knox
-
-Django-allauth
-
-django-rest-framework-jwt
-
-[Django REST Framework Authentication | TestDriven.io](https://testdriven.io/blog/django-rest-auth/)
-
 ## Deleting an app in Django
 
 - Remove models from the apps

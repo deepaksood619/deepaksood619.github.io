@@ -1,5 +1,7 @@
 # Parenting / children
 
+- Use adjectives - Teddy’s fur is soft,” “The radio is quiet,” “The tree outside is big
+- Open cup drinking
 - **Homeschooling / Home School / Homeschool**
     - Khan academy
     - https://primer.com

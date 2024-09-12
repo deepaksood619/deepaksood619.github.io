@@ -60,15 +60,10 @@ https://blueyonder.com
 - https://www.keka.com
 - https://www.openhrms.com
 - http://demo.openhrms.com/web/login
-- [**https://erpnext.com/**](https://erpnext.com/)
-    - Best - **[GitHub - frappe/hrms: Open Source HR and Payroll Software](https://github.com/frappe/hrms)**
-              - [Frappe HR](https://frappe.io/hr)
-    - https://github.com/frappe/erpnext
-    - [**https://github.com/frappe/frappe_docker**](https://github.com/frappe/frappe_docker)
-    - https://frappe.school
-    - [Introduction](https://frappeframework.com/docs/user/en/guides/integration/rest_api)
 - https://wperp.com/81080/7-most-popular-open-source-hris-software-to-look-for-now-an-easy-comparison
 - https://www.lever.co
+- [sap](cloud/others/sap.md)
+   	- Best - **[GitHub - frappe/hrms: Open Source HR and Payroll Software](https://github.com/frappe/hrms)**
 
 ## Telegram
 
@@ -80,6 +75,16 @@ https://blueyonder.com
 [Customer service software; Queue, Appointments and Schedule Management System | hate2wait](https://hate2wait.io)
 
 [Copilot | Modern Client Portal](https://www.copilot.com/)
+
+## Google Workspace Admin
+
+[Google Workspace Admin Help - YouTube](https://www.youtube.com/playlist?list=PLU8ezI8GYqs75-_nquHcR8F8qm7U6h4a6)
+
+[Google Workspace Email Alias and How to Create One Email for a Group - YouTube](https://www.youtube.com/watch?v=afcWKdPcDGk)
+
+[How To Create Group Emails in Google Workspace (Collaborative Inbox) - YouTube](https://www.youtube.com/watch?v=nMohSImw7eI)
+
+- Collaborative Inbox
 
 ## Google Photos Alternative
 

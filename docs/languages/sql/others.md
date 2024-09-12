@@ -75,4 +75,5 @@ CREATE USER '<dbuser>'@'%' IDENTIFIED WITH caching_sha2_password BY '<new_passwo
 
 ## Others
 
-https://towardsdatascience.com/6-sql-tricks-every-data-scientist-should-know-f84be499aea5
+- https://towardsdatascience.com/6-sql-tricks-every-data-scientist-should-know-f84be499aea5
+- [Sampling with SQL - Tom Moertel’s Blog](https://blog.moertel.com/posts/2024-08-23-sampling-with-sql.html)

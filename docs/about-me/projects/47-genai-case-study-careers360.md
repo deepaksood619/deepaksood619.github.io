@@ -17,7 +17,7 @@ To address this challenge, Opstree leveraged **Amazon Bedrock** to implement a *
 ## Steps Involved
 
 ### 1. Knowledge Base Creation
-    
+
 - All internal documents, including public blogs and internal guides, were collated to form the foundation of the knowledge base.
 - A real-time update mechanism was implemented to ensure the knowledgebase was always current with the latest information.
 

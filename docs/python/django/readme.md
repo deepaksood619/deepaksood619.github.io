@@ -8,6 +8,7 @@
 - [Models](python/django/models.md)
 - [QuerySet and Query Expressions](queryset-and-query-expressions)
 - [Content Types](content-types)
+- [Authentication / Authorization](python/django/authentication-authorization.md)
 - [Admin site](admin-site)
 - [Advanced](advanced)
 - [Libraries](python/django/libraries.md)

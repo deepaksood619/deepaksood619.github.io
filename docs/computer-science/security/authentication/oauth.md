@@ -22,7 +22,7 @@ Throughout this workflow OAuth 2.0 serves as an authorization framework, the act
 
 Define how an application can retrieve tokens from your OAuth server and are used in different use cases.
 
-## Authorization Code Grant
+### Authorization Code Grant
 
 The Authorization Code flow is the most powerful and most secure by default. When the application redirects the user to the Identity Provider to authenticate, the IdP passes back a short-lived, one-time use authorization code. The application uses the authorization code to retrieve the Access Token.
 
@@ -30,7 +30,7 @@ The important part is twofold: First, by the time the user sees the authorizatio
 
 Unfortunately, this doesn't work for client side applications such as many Javascript apps or most mobile apps as the application itself can be attacked or decompiled for sensitive information. Therefore, we need a different approach.
 
-## Implicit Grant
+### Implicit Grant
 
 The Implicit flow is designed specifically for mobile apps or client side Javascript apps where embedded credentials could be compromised. The mechanics are simple in that the application redirects the user to the Identity Provider to authenticate, the IdP passes back token(s), and the application uses it according to the scopes it has.
 
@@ -38,7 +38,7 @@ Since it's quite likely that the user could interact with the token(s), it's imp
 
 As a result, this is often used for OpenID Connect scenarios where a user wants to provide trusted profile information to a third party but not necessarily access or permissions to other systems. Since the underlying concepts are the same and the implementation looks very similar, it's most of the benefit for the same effort.
 
-## Resource Owner Password (Password Grant)
+### Resource Owner Password (Password Grant)
 
 Compared to the previous grant types, Resource Owner Password makes me nervous. With both the Authorization Code and Implicit flows, the application redirects the user to the Identity Provider to submit their username and password. As a result, the application never sees their credentials. With the Resource Owner Password flow, the application itself accepts the credentials and submits them on behalf of the user.
 
@@ -46,7 +46,7 @@ If the application is malicious or even just poorly developed, it could store th
 
 But remember: Fundamentally, you're training users to put their credentials into applications they may not trust which is a bad habit at best and a security risk at all times.
 
-## Client Credential
+### Client Credential
 
 The Client Credential grant type is designed exclusively for backend server to server operations. Think of it as a server's username and password. Conceptually, it's not far from how your application connects to other backend systems such as your database or Twilio. The benefit is that your OAuth provider can return configuration information or other details within the token itself.
 

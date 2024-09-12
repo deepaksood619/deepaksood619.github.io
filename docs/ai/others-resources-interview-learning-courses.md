@@ -50,6 +50,7 @@
 - [Data Engineering Study Guide](https://docs.google.com/spreadsheets/d/1atzJSnV86J1ylnpOGVO8VaBVmx8TEAhw_DzHr25-ql4/edit?usp=sharing)
 - [Learn Pandas & Python for Data Analysis - Full Course](https://www.freecodecamp.org/news/learn-pandas-for-data-science/)
 - [SQL Interview Prep With Zach Wilson - YouTube](https://www.youtube.com/watch?v=ycQ-wqlaEX8)
+- [Google Advanced Data Analytics Professional Certificate | Coursera](https://www.coursera.org/google-certificates/google-advanced-data-analytics)
 
 ## Courses ML & AI
 

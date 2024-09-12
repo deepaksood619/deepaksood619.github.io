@@ -1,29 +1,18 @@
 # Debt Mutual Funds
 
-### Debt MF Risk
+- The debt part of the portfolio is to provide stability to the portfolio, not to generate a higher return. If investors want a higher return from their portfolio, they should ideally increase equity allocation in the portfolio.
+- Employee Provident Fund (EPF), Public Provident Fund (PPF) and Sukanya Samriddhi Yojana (SSY) are the best products for the debt part of the long-term portfolio for retail investors.
+- Investors should use debt mutual funds in their long-term portfolios only after the optimum use of EPF, PPF and SSY. Investors can use debt funds to maintain some liquidity in their long-term portfolios.
+- If you are a senior citizen, your debt portfolio should have a Senior Citizen Savings Scheme.
+- Investors can safely use bank fixed and recurring deposits if they require the amount within three years. There is no tax benefit in debt funds as against bank fixed deposits if all the amount is redeemed within three years.
 
-#### Cashflow risk
+## Advantages of Debt Mutual Funds
 
-The borrower can skip paying a couple of EMIs and make irregular repayments. Irregular repayments mean that the bank will take a hit on the expected cash flow, potentially leading to a chain of undesirable events
+Here are the benefits of debt mutual funds over bank fixed deposits, company fixed deposits and individual bonds.
 
-#### Default risk
-
-The borrower may get into an insolvent situation wherein servicing the loan becomes very difficult; hence the borrower decides not to repay. This is called 'default' or the 'default risk'.
-
-#### Interest rate risk
-
-The loan is given out at a specific interest rate. However, the economic situation may change, and the interest rates may drop in the future. This means that the bank will be forced to reduce the rates, and hence the expected cash flow takes a hit.
-
-#### Credit rating risk
-
-The bank evaluates the borrower's credit rating at the time of giving out the loan. At this point, the borrower's credit rating could be excellent. However, for whatever reasons, the credit rating of the borrower can suddenly degrade, thereby increasing the chance of default risk.
-
-#### Asset risk
-
-In case the borrower defaults, the bank has the right to sell the hypothecated property. What if the property itself loses its value? This is a double whammy situation for the lender or the bank. The bank loses both the principal and the asset.
-
-- https://www.thefixedincome.com
-- https://www.bharatbond.in
+- You can deposit money and withdraw whenever you want. You can choose how much money to deposit and withdraw.
+- Unlike fixed deposits, in debt funds, you pay tax only when you withdraw. Because of the deferred tax, all the gains in debt funds are available for compounding. The impact of this over 15 years is huge if debt funds generate the same return as bank fixed deposit interest rates.
+- Debt funds provide better diversification and reduce single-entity risk in the portfolio.
 
 ## Debt Funds / Income Funds / Bond Funds
 
@@ -75,9 +64,7 @@ Debt mutual fund schemes that invest in fixed income instruments, such as Bonds,
 There are three options with debt funds:
 
 - Stick to money market funds like liquid, overnight or very short-term bond funds with reasonable credit quality. The risk of loss is low(er) but over the long term, returns will gradually head south.
-
 - Avoid all credit risk and use only long term gilt funds. See for example [SBI Magnum Constant Maturity Fund: A Debt Fund With Low Credit Risk for long term goals!](https://freefincal.com/sbi-magnum-constant-maturity-fund/) The NAV here will be highly volatile and the investor must practice and mix of annual rebalancing (aka strategic) and tactical rebalancing as per bond yield movements. This does not involve much effort.
-
 - Take on a mix of credit and interest rate risk. The management effort is less, returns can be higher than money market funds but there is always a risk of bond defaults. To negate that, choice of fund selection and monthly monitoring of the portfolio is crucial.
 
 It is important for investors to understand that there is no escape from risk whatever choice they make. It is only a question of **familiar risk vs unfamiliar risk**. **Comfortable risk vs uncomfortable risk**. Sadly, when it comes to returns, we study the past and take it seriously. When it comes to risk, we ignore the past and assume what did not cause a loss is not risky.
@@ -86,14 +73,12 @@ https://freefincal.com/fixed-income-investment-retirement
 
 1. Do not use debt funds if you do not have an idea of how volatile they can be.
     - You can use the [Multi-index Mutual Fund Rolling Returns Calculator](https://freefincal.com/multi-index-mutual-fund-rolling-returns-calculator/) to get the above graphs for the fund that hold or aim to invest in.
-
 2. The average maturity of the portfolio should be much lower than the investment duration of the fund.
     - If your investment duration is 3 years, then an average maturity of a few months is good (liquid funds)
     - If your investment duration is 10 years, then an average maturity of 1-2 years is good.
         - Ultra-short-term funds ~ 1Y.
         - Short-term gilts ~1-3Y if you want to avoid credit risk.
         - Income funds from solid bonds from banks and PSUs or a bit of corporate debt ~ 1-3Y is also okay.
-
 3. A fixed deposit is a wonderful product for investment durations less than 3 years. After all, [there is more to investing than obtaining real returns](https://freefincal.com/there-is-more-to-investing-than-obtaining-real-returns/)
 
 https://freefincal.com/are-debt-mutual-funds-an-alternative-to-fixed-deposits
@@ -142,13 +127,20 @@ Taxation - LTCG - If holding is more than 36 months) - Debt Fund (20% with Index
 - [Parag Parikh Dynamic Asset Allocation Fund: Who should invest?](https://freefincal.com/parag-parikh-dynamic-asset-allocation-fund-who-should-invest/)
 - [Parag Parikh Dynamic Asset Allocation Fund vs Parag Parikh Conservative Hybrid Fund](https://freefincal.com/parag-parikh-dynamic-asset-allocation-fund-vs-parag-parikh-conservative-hybrid-fund/)
 
+## Debt Funds vs FD
+
+[Fixed Deposits vs. Debt Mutual Funds: Which is Better?](https://www.wintwealth.com/fixed-deposit/fd-vs-debt-mutual-funds/)
+
 ## Links
 
+- Stable Money
+- https://www.thefixedincome.com
+- https://www.bharatbond.in
 - https://zerodha.com/varsity/chapter/the-debt-funds-part-1
 - https://zerodha.com/varsity/chapter/government-securities
-- https://www.thefixedincome.com
 - [Getting started with debt mutual funds - YouTube](https://www.youtube.com/watch?v=7jLip-C8SQs)
 - [Important debt fund jargon - YouTube](https://www.youtube.com/watch?v=A3eDo9O5K4w)
 - [Should I Move Money from FD to Debt Funds? | Mutual Fund Monday | Gaurav Jain - YouTube](https://www.youtube.com/watch?v=fOBaa2e3mcI&ab_channel=YadnyaInvestmentAcademy)
 - [Make 15% RETURN on Debt Mutual Funds & GOI Bonds | Just 10% LTCG Tax | RBI Repo Rate 2024 - YouTube](https://www.youtube.com/watch?v=p6WjOkhB1dY&ab_channel=ShankarNath)
 - [Should I pay tax as per slab if my fund’s equity holdings drop to 35% for one month?](https://freefincal.com/should-i-pay-tax-as-per-slab-if-my-funds-equity-holdings-drop-to-35-for-one-month/)
+- [An introduction to debt mutual funds for new investors](https://freefincal.com/an-introduction-to-debt-mutual-funds-for-new-investors/)
