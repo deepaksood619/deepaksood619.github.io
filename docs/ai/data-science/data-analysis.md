@@ -38,3 +38,10 @@ https://towardsdatascience.com/5-advanced-visualisation-for-exploratory-data-ana
 [Unlock the Power of Data Analytics with Free Google Services](https://www.freecodecamp.org/news/data-analytics-with-google-stack/)
 
 [A Course in Exploratory Data Analysis](https://bayesball.github.io/EDA/)
+
+## Data Analyst Roadmap
+
+- [Data Analyst Roadmap](https://roadmap.sh/data-analyst)
+- [Solve Python | HackerRank](https://www.hackerrank.com/domains/python)
+- [GitHub - alfarias/awesome-kaggle-kernels: Compilation of good Kaggle Kernels.](https://github.com/alfarias/awesome-kaggle-kernels)
+- [Meta Data Analyst Professional Certificate | Coursera](https://www.coursera.org/professional-certificates/meta-data-analyst)

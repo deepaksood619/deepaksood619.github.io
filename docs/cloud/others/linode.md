@@ -28,3 +28,5 @@ Easily scale your app or website to thousands of users with NodeBalancers. Autom
 - [Configure a Forward Proxy to Enable Internet Access within a VPC | Linode Docs](https://www.linode.com/docs/guides/forward-proxy-for-vpc/)
 - [Replicate Object Storage Bucket Contents Across Regions With Rclone | Linode Docs](https://www.linode.com/docs/guides/replicate-bucket-contents-with-rclone/)
 - [What is the fastest method to "migrate" a volume to another region? (24483) | Linode Questions](https://www.linode.com/community/questions/24483/what-is-the-fastest-method-to-migrate-a-volume-to-another-region)
+- [Replicate Object Storage Bucket Contents Across Regions With Rclone | Linode Docs](https://www.linode.com/docs/guides/replicate-bucket-contents-with-rclone/)
+- [Clone a Compute Instance](https://techdocs.akamai.com/cloud-computing/docs/clone-a-compute-instance)

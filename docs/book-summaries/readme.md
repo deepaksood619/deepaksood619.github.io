@@ -84,6 +84,7 @@
 - [Essentialism](book-summaries/essentialism.md)
 - [Find Your Element](book-summaries/find-your-element.md)
 - [Power and Prediction](book-summaries/power-and-prediction.md)
+- [7 Powers: The Foundations of Business Strategy](book-summaries/7-powers-the-foundations-of-business-strategy.md)
 - [Others](book-summaries/others.md)
 - [Books / Blinkist - Management](../management/books-blinkist-management)
 - [Product Book Summaries](management/product-management/product-book-summaries.md)

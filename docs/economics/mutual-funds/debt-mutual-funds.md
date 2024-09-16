@@ -108,6 +108,14 @@ https://freefincal.com/why-i-partially-switched-from-icici-multi-asset-fund-to-i
 
 ## Funds
 
+### Nippon India ETF Nifty 8-13 yr G-Sec Long Term Gilt
+
+- NSE - LTGILTBEES
+
+[Check Nippon India ETF Nifty 8-13 yr G-Sec Long Term Gilt Fund's latest information like performance, NAV, returns, expense](https://mf.nipponindiaim.com/FundsAndPerformance/Pages/NipponIndia-ETF-Nifty-8-13-yr-G-Sec-Long-Term-Gilt.aspx)
+
+[groww.in/mutual-funds/nippon-india-etf-long-term-gilt-idcw](https://groww.in/mutual-funds/nippon-india-etf-long-term-gilt-idcw)
+
 ### [Parag Parikh Dynamic Asset Allocation Fund](https://amc.ppfas.com/schemes/parag-parikh-dynamic-asset-allocation-fund/) (PPDAAF)
 
 | Type of Instruments                                                                             | Normal Allocation (% of Net Assets) | Risk Profile    |
@@ -144,3 +152,4 @@ Taxation - LTCG - If holding is more than 36 months) - Debt Fund (20% with Index
 - [Make 15% RETURN on Debt Mutual Funds & GOI Bonds | Just 10% LTCG Tax | RBI Repo Rate 2024 - YouTube](https://www.youtube.com/watch?v=p6WjOkhB1dY&ab_channel=ShankarNath)
 - [Should I pay tax as per slab if my fund’s equity holdings drop to 35% for one month?](https://freefincal.com/should-i-pay-tax-as-per-slab-if-my-funds-equity-holdings-drop-to-35-for-one-month/)
 - [An introduction to debt mutual funds for new investors](https://freefincal.com/an-introduction-to-debt-mutual-funds-for-new-investors/)
+- [Should you invest in debt funds as interest rate cut inches closer? | Simply Save](https://www.moneycontrol.com/news/business/personal-finance/should-you-invest-in-debt-funds-as-interest-rate-cut-inches-closer-simply-save-12814406.html)

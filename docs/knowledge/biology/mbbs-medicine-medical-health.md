@@ -175,6 +175,14 @@ https://en.wikipedia.org/wiki/Urine_therapy
     - 1 tablet after dinner 1 week apart twice
     - Zentel Chewable Tablet is an antiparasitic medicine, used for the treatment of parasitic worm infections. It works by killing the worms that cause infections and stops the infection from spreading.
     - Symptoms - Teeth Grinding / Itching at anus
+- Cetirizine
+   	- Cetirizine is **a relatively safe and effective medication for treating allergic rhinitis, urticaria, and allergic conjunctivitis**.
+- D3 - CADILA Calcigen D3 (Vitamin D3 - Cholecalciferol) 60000 IU - Pack of 5 * 4 Capsules, Once A Week (4)
+   	- [Carbamide Forte Vitamin D3 60000 IU - Chewable Cholecalciferol Supplement | High Potency Vitamin D Supplement, D3 Vitamin Supplement for Women & Men | Orange Flavour - 40 Tablets. : Amazon.in: Health & Personal Care](https://www.amazon.in/Carbamide-Forte-Vitamin-Tablets-VITAMIN/dp/B09H6XXP13/) - 349 - 40 tablets
+   	- [CADILA Calcigen D3 (Vitamin D3 - Cholecalciferol) 60000 IU - Pack of 5 \* 4 Capsules, Once A Week (4) : Amazon.in: Health & Personal Care](https://www.amazon.in/Calcigen-D3-Vitamin-Cholecalciferol-Capsules/dp/B09B7DFNDP)
+   	- [Carbamide Forte](https://mycf.in/) - Novus Life Sciences
+- B12 - Carbamide Forte Vitamin B12 Supplements 500mcg - Active Form of Methylcobalamin B12 Supplement for Men & Women - 90 Veg Tablets
+   	- [Carbamide Forte Vitamin B12 Supplements 500mcg - Active Form of Methylcobalamin B12 Supplement for Men & Women - 90 Veg Tablets : Amazon.in: Health & Personal Care](https://www.amazon.in/Carbamide-Forte-Vitamin-Tablets-500mcg/dp/B0BSV81298/)
 
 ## Others
 

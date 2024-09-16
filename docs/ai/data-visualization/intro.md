@@ -100,3 +100,4 @@ https://ggplot2.tidyverse.org
 - https://towardsdatascience.com/8-free-tools-to-make-interactive-data-visualizations-in-2021-no-coding-required-2b2c6c564b5b
 - https://www.freecodecamp.org/news/learn-data-visualization-in-this-free-17-hour-course
 - [richardbrath | Visual encodings for data visualization.](https://richardbrath.wordpress.com/)
+- [Mastering Dashboard Design: From Good to Unmissable Data Visualizations | by Seoyeon jun | Aug, 2024 | Medium](https://medium.com/@tjdus92422/mastering-dashboard-design-from-good-to-unmissable-data-visualizations-e3a1b5ee108a)

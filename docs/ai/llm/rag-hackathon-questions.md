@@ -110,6 +110,14 @@ Data: Sample online reviews like one below.
 
 Customers say - https://www.amazon.in/Duracell-Slimmest-Charging-Portable-Simultaneously/dp/B0BJV4L36G/ref=sr_1_1_sspa?crid=AGVPNZMYB98H&dib=eyJ2IjoiMSJ9.afXD21uOAWJpu5Vn7hGg9AMThE6sYsI8X_sV-ZHXm0g.GdugyvGsCPBTi9rx7eV4Q4NymOs27X9onUWQzLgf7yg&dib_tag=se&keywords=Duracell-Slimmest-Charging-Portable-Simultaneously&qid=1723463554&sprefix=duracell-slimmest-charging-portable-simultaneously%2Caps%2C206&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1
 
+![GenAI Review Summarization Example](../../media/Screenshot%202024-09-17%20at%2012.25.10%20AM.jpg)
+
+## Other Hackathons
+
+- [GenAI Projects](ai/llm/genai-projects.md)
+- [AI Hackathons](ai/hackathons.md)
+- [Practical AI Problems](ai/ml-fundamentals/practical-ai-problems.md)
+
 ## Links
 
 - [AWS Gen AI Hackathon](about-me/projects/58-aws-gen-ai-hackathon.md)

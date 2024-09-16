@@ -31,7 +31,35 @@ You will have either of the 4 problems while building a startup
 - Landing page chatbot on [Landbot](https://www.linkedin.com/company/landbot-io/)- 1 hour
 - CRM on [HubSpot](https://www.linkedin.com/company/hubspot/)- 1 hour
 
-### Inspirations and Research and Product news
+## Founders / Entrepreneurship
+
+Two types of founders. Mercenary and missionary.
+
+### Mercenary
+
+Former are the ones who see a gap in the market and attack it. Shoe laces to ball bearings to plastic scoops - as long as there is a better way to serve the market, a market that already exists, they are in.
+
+Usually, these are the guys who build profitable companies. Why?
+
+Because they start with how the world is. Not how it should be. They meet the consumer where she stands today. And serve her needs.
+
+### Missionary
+
+Missionary founders are the opposite of mercenary in almost every way.
+
+We see how (a certain part of) the world is, and we don’t like it. We want to change it.
+
+We don’t go where the consumer is. We try and get her to where we believe she should be (how presumptuous).
+
+And we usually don’t make money. Neither do our companies. Why?
+
+Because we try and play God. We refuse to accept reality. We want to change it. Last I checked, reality remains unbeaten.
+
+Change begets friction. This, according to me, is why so many purpose led businesses remain small.
+
+[Purpose vs Profit - by Shashank Mehta](https://midlifeentrepreneur.substack.com/p/purpose-vs-profit)
+
+## Inspirations and Research and Product news
 
 - Techcrunch
 - ProductHunt - [Best rated products of November 2022. | Product Hunt](https://www.producthunt.com/products?order=best_rated&period=2022-11)

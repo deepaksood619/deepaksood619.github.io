@@ -1,6 +1,6 @@
 # Startup Ideas - Physical
 
-#### Consolidated Gig Marketplace
+## Consolidated Gig Marketplace
 
 Consolidated marketplace for all services (Single platform for all delivery both for customers and delivery agents - gig workers)
 
@@ -11,9 +11,7 @@ Consolidated marketplace for all services (Single platform for all delivery both
 
 Dynamic pricing and price surge like in Uber/Ola
 
-#### Affordable tiffin service (p2p tiffin service)
-
-#### Personalized gym trainers with equipments at home
+## Personalized gym trainers with equipments at home
 
 - The only thing left for people to go out is going to gym
 - Or some good experience at home
@@ -26,13 +24,13 @@ Dynamic pricing and price surge like in Uber/Ola
     - They don't like seeing the city dirty
     - They are depressed
 
-#### Dantewada - Coding coaching classes (laptop/mobile training)
+## Dantewada - Coding coaching classes (laptop/mobile training)
 
 - Teach coding from freecodecamp using JavaScript
 - Give systems for them to study
 - Use Laptops and let guys issue laptop over night
 
-#### Business plans
+## Business plans
 
 - Food industry
 - **Software industry (core expertise, easy)**
@@ -40,14 +38,14 @@ Dynamic pricing and price surge like in Uber/Ola
 - Hoticulture industry (self servicing indoor plantations for home)
     - Greenery inside homes
 
-#### Self maintaining green cover on top of buildings
+## Self maintaining green cover on top of buildings
 
 - But conflicts with solar roofs
 - How to stop surface run-off
 - Ground water recharge
 - Circular economy and circular water system for urban sprawled areas
 
-#### Pizza slice vending machine
+## Pizza slice vending machine
 
 - Why vending machine is not a hit in India?
 
@@ -62,7 +60,7 @@ Dynamic pricing and price surge like in Uber/Ola
 
 ## Mechanical
 
-#### Vertical Parking system for cars+suv
+### Vertical Parking system for cars+suv
 
 Max height for 15 cars each slot of suv height for every car fit. Height will be checked at entrance with the in time. Total money calculation can be done by subtracting the out time with in time. The parking money can be hour wise or by car weight. Can be placed at every metro. A complex with 15 car capacity per building for 5 structures will contain 75 cars. In ground are of 5 car space. Excluding the area of infrastructure around it. All steal truss structure for easy addtion and removal. Modules will be constructed independently and can be just directly placed.
 
@@ -83,7 +81,7 @@ Zero Profit Store - direct Business to Customer without any hidden profits and m
 
 There are sweaters that can keep you warm, create a clothing that can keep you cool in warm weather integrate micro electronics for fans and some cooling liquid for transferring heat off your body
 
-#### IoT enabled water tank monitoring system
+### IoT enabled water tank monitoring system
 
 - Fully autonomous
 - Create its own energy
@@ -92,23 +90,23 @@ There are sweaters that can keep you warm, create a clothing that can keep you c
 - All analytics done on cloud and user can see it's dashboard
 - Should be cheap
 
-#### RFID Smart Meters
+### RFID Smart Meters
 
 - Users must scan and send the meter reading to the server, this removes the problem of having a personnel send to take the meter reading
 - Users can pay the used meter units using the same app or any other app
 - It must be tamper proof and locked from inside
 - Using ML any anomoly in meter reading will be cross checked on site
 
-#### Small nuclear power plants for cities
+### Small nuclear power plants for cities
 
 - No losses due to electrical transmission
 - No large scale investment
 - No large scale nuclear disaster
 - Smaller system can be stable
 
-### Civil Engineering
+## Civil Engineering
 
-#### Better and Cheap Pervious Concrete
+### Better and Cheap Pervious Concrete
 
 - Pervious concrete, also known as **porous concrete**, water permeable concrete, or thirsty concrete, is a type of concrete that has a high void content that allows water or air to pass through.
 - Pervious concrete allows the passage of air and water, which can help preserve trees. It can also reduce stormwater runoff, which is a leading source of pollutants entering waterways.
@@ -121,7 +119,7 @@ Connected traffic lights with intelligent routing system
 
 Computer vision traffic management, single pole in mid with high mast 4 side cameras, within same poles trafic lights. Traffic light will be controlled by the amount of cars in each lane.
 
-#### Mobile As Laptop
+## Mobile As Laptop
 
 1. Only desktop, keyboard and mouse needed
 2. Can be used at test centers, people can directly bring their mobile devices and give papers
@@ -130,11 +128,11 @@ Computer vision traffic management, single pole in mid with high mast 4 side cam
 5. Can be seemlessly switched between large (desktop) and small screens (mobile screen)
 6. Window continium
 
-#### Windows that can remove use of blinders
+## Windows that can remove use of blinders
 
 Example - Air India airplane windows that can change the transparency of windows
 
-### Distributed Kitchens
+# Distributed Kitchens
 
 D-Restra (Not owned by anyone, open source)
 
@@ -150,7 +148,21 @@ Drone selfies, get a drone to take a picture or photo shoot by app
 
 Get personal photographers by app
 
-#### New gen smart home
+### Affordable tiffin service (p2p tiffin service)
+
+### Packaged Food
+
+[Why packaged food startups fail. - by Shashank Mehta](https://midlifeentrepreneur.substack.com/p/why-packaged-food-startups-fail)
+
+### Restaurants
+
+Restaurants have the highest mortality rate of any industry in the world. 60% restaurants shut in Year 1. 90%  shut in less than 5 years. 9 out of 10!
+
+When you think of going out, your brain goes ‘aaj kuch naya khate hain’. Let’s try something new today.
+
+[Why Restaurants Fail - by Shashank Mehta](https://midlifeentrepreneur.substack.com/p/why-restaurants-fail)
+
+## New gen smart home
 
 - No switches
 - Users will wear a watch, that automatically switches light on when someone goes to room and turns it off

@@ -1,7 +1,20 @@
 # Models
 
+## Intro
+
+- **Generative models** learn the joint probability distribution of input and output data.
+   	- They can generate new data instances by sampling from this distribution.
+    - Trained on a dataset of images of cats and then used to generate new images of cats.
+- **Discriminative models** learn the conditional probability of output data given input data.
+   	- They can discriminate between different kinds of data instances.
+    - Trained on a dataset of images of cats and dogs and then used to classify new images as either cats or dogs.
+
+## Models
+
 - ChatGPT / OpenAI
     - [GPT-4o - by Bugra Akyildiz - MLOps Newsletter](https://mlops.substack.com/p/gpt-4o?)
+    - OpenAI o1 - [OpenAI o1 Hub | OpenAI](https://openai.com/o1/)
+    - [OpenAI’s new “deep-thinking” o1 model crushes coding benchmarks - YouTube](https://www.youtube.com/watch?v=6xlPJiNpCVw)
 - Vicuna
 - Bloom
 - Claude 2.1 from antropic with a context window of 200k tokens

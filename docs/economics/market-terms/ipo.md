@@ -97,3 +97,7 @@ https://zerodha.com/varsity/chapter/supplementary-note-ipo-ofs-fpo
 ### Main Board IPO
 
 [IPO URGENT UPDATE- HNI Category new rules - Lottery for retail investors - YouTube](https://www.youtube.com/watch?v=BPU6xNWHc3I&ab_channel=InvestAajForKal)
+
+## Links
+
+- [How to get 10 crore? List your own company in stock market - YouTube](https://www.youtube.com/watch?v=ITyMRsmCdOI&ab_channel=InvestAajForKal)

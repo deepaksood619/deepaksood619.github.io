@@ -51,6 +51,7 @@
 - [Learn Pandas & Python for Data Analysis - Full Course](https://www.freecodecamp.org/news/learn-pandas-for-data-science/)
 - [SQL Interview Prep With Zach Wilson - YouTube](https://www.youtube.com/watch?v=ycQ-wqlaEX8)
 - [Google Advanced Data Analytics Professional Certificate | Coursera](https://www.coursera.org/google-certificates/google-advanced-data-analytics)
+- [GitHub - alfarias/awesome-kaggle-kernels: Compilation of good Kaggle Kernels.](https://github.com/alfarias/awesome-kaggle-kernels)
 
 ## Courses ML & AI
 
@@ -87,6 +88,7 @@
 - https://www.edx.org/course/fundamentals-of-tinyml
 - https://www.univ.ai
 - [Interpretable Machine Learning](https://christophm.github.io/interpretable-ml-book/)
+- Paid - [Complete Machine Learning & Data Science Program](https://www.geeksforgeeks.org/courses/data-science-live)
 
 ## Courses - Data
 
@@ -249,6 +251,8 @@
 - https://stanford.edu/~shervine/teaching/cs-229/cheatsheet-supervised-learning
 - https://stanford.edu/~shervine/teaching/cs-229/cheatsheet-unsupervised-learning
 - https://stanford.edu/~shervine/teaching/cs-229/cheatsheet-deep-learning
+- [Cheat Sheets for Machine Learning Interview Topics | by Aqeel Anwar | Medium](https://medium.com/swlh/cheat-sheets-for-machine-learning-interview-topics-51c2bc2bab4f)
+   	- [www.cheatsheets.aqeel-anwar.com](https://sites.google.com/view/datascience-cheat-sheets)
 
 ## NewsLetter & Blogs
 

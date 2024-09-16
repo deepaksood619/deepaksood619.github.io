@@ -67,6 +67,59 @@ The fastest way to build custom ML tools
 
 Streamlit turns data scripts into shareable web apps in minutes. All in pure Python. No front‑end experience required.
 
+```python
+import streamlit as st
+import pandas as pd
+import plotly.graph_objects as go
+
+# sample data
+data = {
+  'City': ['Mumbai', 'Delhi', 'Bangalore', 'Hyderabad', 'Kolkata', 'Chennai', 'Ahmedabad', 'Pune', 'Jaipur', 'Lucknow'],
+  'Crime Rate': [105, 98, 75, 85, 88, 65, 80, 70, 82, 68], # Crime rates per 100k people (mock data)
+  'Latitude': [19.0760, 28.7041, 12.9716, 17.3850, 22.5726, 13.0827, 23.0225, 18.5204, 26.9124, 26.8467],
+  'Longitude': [72.8777, 77.1025, 77.5946, 78.4867, 88.3639, 80.2707, 72.5714, 73.8567, 75.7873, 80.9462]
+}
+
+# Create a DataFrame
+df = pd.DataFrame(data)
+
+#size of the datapoint
+marker_size = df['Crime Rate'] / max(df['Crime Rate']) * 20
+
+# Streamlit App
+st.title("Crime Rates Across Indian Cities")
+
+# Show the DataFrame
+st.write("Here is the crime rate data for various cities in India:")
+st.dataframe(df)
+
+fig = go.Figure(go.Scattermapbox(
+  lat=df['Latitude'],
+  lon=df['Longitude'],
+  mode='markers',
+  marker=go.scattermapbox.Marker(
+    size=marker_size, # Adjust size of the markers dynamically based on crime rate
+    color='red',    # Set the color of the points
+    opacity=0.7    # Make the points slightly transparent for better visualization
+  ),
+  text=df['City'] + '<br>Crime Rate: ' + df['Crime Rate'].astype(str) + ' per 100k people',
+  hoverinfo='text'
+))
+
+# Set the layout for the map
+fig.update_layout(
+  mapbox=dict(
+    style='open-street-map',
+    zoom=4,
+    center=dict(lat=20.5937, lon=78.9629) # Center of India
+  ),
+  margin={"r":0,"t":0,"l":0,"b":0} # Remove margins
+)
+
+# Display the Plotly map in Streamlit
+st.plotly_chart(fig)
+```
+
 - [Streamlit • A faster way to build and share data apps](https://streamlit.io/cloud)
 - https://towardsdatascience.com/coding-ml-tools-like-you-code-ml-models-ddba3357eace
 - https://github.com/streamlit/streamlit

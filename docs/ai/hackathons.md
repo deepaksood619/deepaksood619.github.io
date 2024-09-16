@@ -179,3 +179,9 @@ For a hackathon in view of Generative computer based intelligence, here are some
 16. Handwriting Generation: ✍️ Create an AI that generates handwritten-like text based on a user's input.
 17. Data Augmentation: 📊 Use generative models to augment datasets for training other machine learning algorithms.
 18. Chatbot with Personality: 💬 Develop a chatbot that responds in different personalities or mimics famous personalities.
+
+## Questions / Problem Statements / Hackathons
+
+- [RAG Hackathon Questions](ai/llm/rag-hackathon-questions.md)
+- [GenAI Projects](ai/llm/genai-projects.md)
+- [Practical AI Problems](ai/ml-fundamentals/practical-ai-problems.md)

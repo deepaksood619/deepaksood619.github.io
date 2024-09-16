@@ -155,6 +155,7 @@ Dollar-cost averaging (DCA) is an investment strategy in which an investor divid
 - Grey Market Premium (GMP)
 - Non-oil, non-gold imports / exports (NONG imports / exports)
 - ACORD Data Standards -  [ACORD - Wikipedia](https://en.wikipedia.org/wiki/ACORD)
+- Disposition - the natural qualities of a person’s character, a usual way of behaving
 
 ## Questions
 

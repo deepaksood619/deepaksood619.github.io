@@ -12,8 +12,6 @@
 - **Real-time Fraud Detection:** Use real-time analytics to detect and prevent fraudulent transactions as they occur.
 - **Behavioral Biometrics:** Analyze user behavior (e.g., face detection, liveness in KYC) to detect potential fraud.
 
-[Real-time Fraud Detection with Yoda and ClickHouse | by Nick Shieh | tech-at-instacart](https://tech.instacart.com/real-time-fraud-detection-with-yoda-and-clickhouse-bd08e9dbe3f4)
-
 ### 3. Customer Segmentation and Personalization
 
 - **Clustering Algorithms:** Segment customers into different groups based on their financial behavior and preferences.

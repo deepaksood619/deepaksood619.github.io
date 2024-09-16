@@ -21,6 +21,18 @@
     - Roads / public transport - personal air vehicle- VTOL
     - Law and order - security from other humans - Everyone has everything
 
+### Breakthroughs
+
+#### Memristor
+
+What they have done essentially is to develop a type of semiconductor device called Memristor, but using a metal-organic film rather than conventional silicon-based technology. This material enables the Memristor to mimic the way the biological brain processes information using networks of neurons and synapses, rather than do it the way digital computers do.
+
+…The Memristor, when integrated with a conventional digital computer, enhances its energy and speed performance by hundreds of times, thus becoming an extremely energy-efficient ‘AI accelerator’.…When eventually scaled up, the technology could enable the most large-scale and complex AI tasks – such as large language model (LLM) training – to be done on a laptop or smartphone, rather than requiring a data centre.
+
+[IISc scientists develop brain-inspired analog computing platform](https://www.deccanherald.com/technology/iisc-scientists-report-computing-breakthrough-3187052)
+
+[(PDF) Linear, symmetric, self-selecting 14-bit molecular memristors](https://www.researchgate.net/publication/377744243_Linear_symmetric_self-selecting_14-bit_molecular_memristors)
+
 ## Thoughts
 
 We are highly unqualified to speak anything about anything that we are not working in, therefore we should speak about facts rather than opinions

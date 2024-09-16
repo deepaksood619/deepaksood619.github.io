@@ -48,3 +48,9 @@ Zaggle is a fintech company providing innovative solutions for the day-to-day fi
 [GOLD Rush: I'm SKYing a 144% Jump in Profits](https://shankarnath.substack.com/p/skygold)
 
 ## Happiest Minds Technologies Ltd
+
+## Raymond Lifestyle Ltd
+
+NSE: RAYMONDLSL
+
+[Raymond Lifestyle: The Incomplete Man (Since 2024)](https://shankarnath.substack.com/p/raymond-lifestyle)

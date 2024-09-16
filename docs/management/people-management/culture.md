@@ -121,3 +121,5 @@ https://jobs.netflix.com/culture
 - Culture is not something you are, it's something you do
 
 [The Secrets of Highly Successful Groups | Daniel Coyle | RSA Replay](https://www.youtube.com/watch?v=5T9tRvkXtns)
+
+[Sharing Vs Secrecy - by Shashank Mehta](https://midlifeentrepreneur.substack.com/p/sharing-vs-secrecy)

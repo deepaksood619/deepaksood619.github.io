@@ -7,9 +7,9 @@ The Average Case assumes parameters generated uniformly at random.
 Internally, a list is represented as an array; the largest costs come from growing beyond the current allocation size (because everything must move), or from inserting or deleting somewhere near the beginning (because everything after that must move). If you need to add/remove at both ends, consider using a collections.deque instead.
 
 | Operation                                                                | Average Case | [Amortized Worst Case](http://en.wikipedia.org/wiki/Amortized_analysis) |
-|------------------------|--------------------|----------------------------|
+| ------------------------------------------------------------------------ | ------------ | ----------------------------------------------------------------------- |
 | Copy                                                                     | O(n)         | O(n)                                                                    |
-| Append[1]                                                              | O(1)         | O(1)                                                                    |
+| Append[1]                                                                | O(1)         | O(1)                                                                    |
 | Pop last                                                                 | O(1)         | O(1)                                                                    |
 | Pop intermediate                                                         | O(k)         | O(k)                                                                    |
 | Insert                                                                   | O(n)         | O(n)                                                                    |
@@ -20,11 +20,11 @@ Internally, a list is represented as an array; the largest costs come from growi
 | Get Slice                                                                | O(k)         | O(k)                                                                    |
 | Del Slice                                                                | O(n)         | O(n)                                                                    |
 | Set Slice                                                                | O(k+n)       | O(k+n)                                                                  |
-| Extend[1]                                                              | O(k)         | O(k)                                                                    |
+| Extend[1]                                                                | O(k)         | O(k)                                                                    |
 | [Sort](http://svn.python.org/projects/python/trunk/Objects/listsort.txt) | O(n log n)   | O(n log n)                                                              |
 | Multiply                                                                 | O(nk)        | O(nk)                                                                   |
-| x in s                                                                   | O(n)         |                                                                        |
-| min(s), max(s)                                                           | O(n)         |                                                                        |
+| x in s                                                                   | O(n)         |                                                                         |
+| min(s), max(s)                                                           | O(n)         |                                                                         |
 | Get Length                                                               | O(1)         | O(1)                                                                    |
 
 ## collections.deque
@@ -45,18 +45,18 @@ A deque (double-ended queue) is represented internally as a doubly linked list. 
 
 ## set
 
-| Operation                         | Average case                                                                  | Worst Case                                     | notes                                          |
-|-------------------------|-------------|--------------------|--------------|
-| x in s                            | O(1)                                                                          | O(n)                                           |                                               |
-| Union s|t                        | [O(len(s)+len(t))](https://wiki.python.org/moin/TimeComplexity_%28SetCode%29) |                                               |                                               |
-| Intersection s&t                  | O(min(len(s), len(t))                                                         | O(len(s) * len(t))                            | replace "min" with "max" if t is not a set |
-| Multiple intersection s1&s2&..&sn |                                                                              | (n-1)*O(l) where l is max(len(s1),.., len(sn)) |                                               |
-| Difference s-t                    | O(len(s))                                                                     |                                               |                                               |
-| s.difference_update(t)            | O(len(t))                                                                     |                                               |                                               |
-| Symmetric Difference s^t         | O(len(s))                                                                     | O(len(s) * len(t))                            |                                               |
-| s.symmetric_difference_update(t)  | O(len(t))                                                                     | O(len(t) * len(s))                            |                                               |
+| Operation                         | Average case          | Worst Case                                                                    | notes                                      |     |
+| --------------------------------- | --------------------- | ----------------------------------------------------------------------------- | ------------------------------------------ | --- |
+| x in s                            | O(1)                  | O(n)                                                                          |                                            |     |
+| Union s&t                         |                       | [O(len(s)+len(t))](https://wiki.python.org/moin/TimeComplexity_%28SetCode%29) |                                            |     |
+| Intersection s&t                  | O(min(len(s), len(t)) | O(len(s) * len(t))                                                            | replace "min" with "max" if t is not a set |     |
+| Multiple intersection s1&s2&..&sn |                       | (n-1)*O(l) where l is max(len(s1),.., len(sn))                                |                                            |     |
+| Difference s-t                    | O(len(s))             |                                                                               |                                            |     |
+| s.difference_update(t)            | O(len(t))             |                                                                               |                                            |     |
+| Symmetric Difference s^t          | O(len(s))             | O(len(s) * len(t))                                                            |                                            |     |
+| s.symmetric_difference_update(t)  | O(len(t))             | O(len(t) * len(s))                                                            |                                            |     |
 
-- As seen in the[source code](http://svn.python.org/projects/python/trunk/Objects/setobject.c) the complexities for set difference s-t or s.difference(t) (set_difference()) and in-place set difference s.difference_update(t) (set_difference_update_internal()) are different! The first one is O(len(s)) (for every element in s add it to the new set, if not in t). The second one is O(len(t)) (for every element in t remove it from s). So care must be taken as to which is preferred, depending on which one is the longest set and whether a new set is needed.
+- As seen in the [source code](http://svn.python.org/projects/python/trunk/Objects/setobject.c) the complexities for set difference s-t or s.difference(t) (set_difference()) and in-place set difference s.difference_update(t) (set_difference_update_internal()) are different! The first one is O(len(s)) (for every element in s add it to the new set, if not in t). The second one is O(len(t)) (for every element in t remove it from s). So care must be taken as to which is preferred, depending on which one is the longest set and whether a new set is needed.
 - To perform set operations like s-t, both s and t need to be sets. However you can do the method equivalents even if t is any iterable, for example s.difference(l), where l is a list.
 
 ## dict

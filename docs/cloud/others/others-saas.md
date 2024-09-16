@@ -85,6 +85,14 @@ https://blueyonder.com
 [How To Create Group Emails in Google Workspace (Collaborative Inbox) - YouTube](https://www.youtube.com/watch?v=nMohSImw7eI)
 
 - Collaborative Inbox
+- Distribution List / Distribution Group
+
+[Guided Setup of Distribution Groups & Delegated Mailboxes in Google Workspace Admin - YouTube](https://www.youtube.com/watch?v=T2F69sXgcsk)
+
+- Delegated mailbox uses a license
+- Collaborative inbox doesn't use a license
+
+[Level up your Google Workspace knowledge - YouTube](https://www.youtube.com/watch?v=_WNIvJozdMY)
 
 ## Google Photos Alternative
 

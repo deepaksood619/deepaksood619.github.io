@@ -79,3 +79,5 @@ The architecture is a standard [transformer network](https://en.wikipedia.org/wi
 - [GenAI Training In Production: Software, Hardware & Network Considerations - YouTube](https://www.youtube.com/watch?v=1lhrGRqqPWU)
 - [How I Use "AI"](https://nicholas.carlini.com/writing/2024/how-i-use-ai.html)
 - [How might LLMs store facts | Chapter 7, Deep Learning - YouTube](https://www.youtube.com/watch?v=9-Jl0dxWQs8)
+- [Introduction to Large Language Models - YouTube](https://www.youtube.com/watch?v=RBzXsQHjptQ)
+- [Introduction to Generative AI - YouTube](https://www.youtube.com/watch?v=cZaNf2rA30k)

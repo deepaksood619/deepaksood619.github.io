@@ -56,6 +56,8 @@ Here are some things you can try to increase your site's crawl rate:
 
 Crawl budget is determined by two main elements: _crawl capacity limit_ and _crawl demand_.
 
+[Crawl Budget: SEO Mythbusting - YouTube](https://www.youtube.com/watch?v=am4g0hXAA8Q)
+
 ### Crawl capacity limit
 
 Googlebot wants to crawl your site without overwhelming your servers. To prevent this, Googlebot calculates a _crawl capacity limit_, which is the maximum number of simultaneous parallel connections that Googlebot can use to crawl a site, as well as the time delay between fetches. This is calculated to provide coverage of all your important content without overloading your servers.

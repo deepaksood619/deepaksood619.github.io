@@ -1,10 +1,13 @@
 # Course - Credit Risk Modeling
 
-https://365datascience.teachable.com/p/credit-risk-modeling-in-python
-
-https://365datascience.teachable.com/courses/629877
-
-https://www.dropbox.com/sh/7oslws1xhsm1zbf/AABkdWDKqpdcGmY1NbXAnkrBa?dl=0&lst=
+- [Intro](courses/course-credit-risk-modeling/intro.md)
+- [Credit and Debt](courses/course-credit-risk-modeling/credit-and-debt.md)
+- [Decision Areas and Credit Scorecards](courses/course-credit-risk-modeling/decision-areas-and-credit-scorecards.md)
+- [Fraud Features](courses/course-credit-risk-modeling/fraud-features.md)
+- [Fraud Detection and Prevention](courses/course-credit-risk-modeling/fraud-detection-and-prevention.md)
+- https://365datascience.teachable.com/p/credit-risk-modeling-in-python
+- https://365datascience.teachable.com/courses/629877
+- https://www.dropbox.com/sh/7oslws1xhsm1zbf/AABkdWDKqpdcGmY1NbXAnkrBa?dl=0&lst=
 
 ## Introduction
 
@@ -151,10 +154,3 @@ Monitoring or KPIs & flag anything > 5% deviation
 - Monthly → 90+ Recovery
 
 https://www.youtube.com/playlist?list=PLhViQpMavSBgxcLV34bRrJY-rwHqeml2i
-
-## Links
-
-- [Intro](courses/course-credit-risk-modeling/intro.md)
-- [Credit and Debt](courses/course-credit-risk-modeling/credit-and-debt.md)
-- [Decision Areas and Credit Scorecards](courses/course-credit-risk-modeling/decision-areas-and-credit-scorecards.md)
-- [Fraud Features](courses/course-credit-risk-modeling/fraud-features.md)

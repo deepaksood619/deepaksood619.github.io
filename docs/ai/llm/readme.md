@@ -14,4 +14,14 @@
 - [Tools](ai/llm/tools.md)
 - [Code Generators](ai/llm/code-generators.md)
 - [LLM FinTech Use Cases](ai/llm/fintech-use-cases.md)
+
+## Questions / Problem Statements / Hackathons
+
 - [RAG Hackathon Questions](ai/llm/rag-hackathon-questions.md)
+- [GenAI Projects](ai/llm/genai-projects.md)
+- [AI Hackathons](ai/hackathons.md)
+- [Practical AI Problems](ai/ml-fundamentals/practical-ai-problems.md)
+
+## GenAI Landscape
+
+![GenAI Landscape](../../media/Pasted%20image%2020240915133426.jpg)

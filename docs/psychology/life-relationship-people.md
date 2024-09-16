@@ -42,7 +42,9 @@ Double down on your best relationship.
 
 It's the investment with the highest return.
 
-it's easier to destroy a relationship than build one.
+It's easier to destroy a relationship than build one.
+
+_patri mile na mile, sleep schedule zaroor milna chahiye_ (your sleep schedule being compatible is more important than your astrological charts being compatible!)
 
 The secret to feeling great about yourself is not to be found in searching for people who are less than you and then show yourself superior to them, but in searching for people who are more than you and then show yourself worthy of their company.
 
@@ -404,3 +406,4 @@ https://en.wikipedia.org/wiki/Parasocial_interaction
     - The biggest decision in life is to choose whom to get married to
 - [Do North Indians Have A Habit Of Showing Off ? | Deep Analysis And Solution - YouTube](https://www.youtube.com/watch?v=3ckyja7K8U4)
 - [You Never Marry the Right Person - RELEVANT](https://relevantmagazine.com/life5/you-never-marry-the-right-person/)
+- [Bedtime Battles: A Couple's Guide to Better Sleep](https://tbthealth.substack.com/p/bedtime-battles-a-couples-guide-to)

@@ -146,3 +146,5 @@ https://www.moneycontrol.com/india-investors-portfolio
 - [How to know if markets are overvalued? 3 metrics every investor must know - YouTube](https://www.youtube.com/watch?v=Di8YdFBbOTc)
 - [Is it the right time to Invest in Stocks? 😵‍💫 - YouTube](https://www.youtube.com/watch?v=qqkQgoun6GE&ab_channel=SOIC)
 - [5 Interesting Stocks: How to Read Credit Ratings! 📑 - YouTube](https://www.youtube.com/watch?v=mwLPhYr0QU4&ab_channel=SOIC)
+- [4 Smallcap Concalls that look interesting - YouTube](https://www.youtube.com/watch?v=LVgZ03F5Ob0)
+- [PE Ratio Decoded for Multibaggers 🕵️‍♂️ - YouTube](https://www.youtube.com/watch?v=EBx2oOZw9ic)

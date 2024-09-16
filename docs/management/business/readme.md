@@ -135,3 +135,5 @@ To bait/expose customers to high cost - high margin products
 - [Geopolitical Series](https://www.youtube.com/playlist?list=PLGwmAEmjn4fkd3IgCnFZSbocpTnka87Pn)
 - https://www.freecodecamp.org/news/important-lessons-they-dont-teach-you-in-business-school
 - [The Amazon Weekly Business Review (via Bezos's Shadow) - Commoncog](https://commoncog.com/the-amazon-weekly-business-review/)
+   	- [Commoncog](https://commoncog.com/)
+   	- [Start Here: Commoncog's Best Posts - Commoncog](https://commoncog.com/start-here/)

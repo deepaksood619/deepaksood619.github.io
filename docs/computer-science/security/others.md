@@ -40,7 +40,85 @@ Stegosploit creates a new way to encode "drive-by" browser exploits and deliver 
 
 [https://stegosploit.info](https://stegosploit.info/)
 
-DMARC (Domain-based Message Authentication, Reporting and Conformance)
+## Email Security
+
+### Domain-based Message Authentication, Reporting and Conformance (DMARC)
+
+DMARC, or Domain-based Message Authentication, Reporting, and Conformance, is ==an email security protocol that helps protect email senders and recipients from fraud==. DMARC builds on the Domain Name System (DNS), DomainKeys Identified Mail (DKIM), and Sender Policy Framework (SPF) protocols to verify email senders.
+
+Here are some benefits of DMARC:
+
+- Protects against impersonation fraud: DMARC helps prevent phishing scams and other types of spoofing attacks.
+- Improves visibility: Administrators can monitor emails sent from a domain to ensure they are properly authenticated.
+- Troubleshoots delivery issues: DMARC allows domain owners to specify how to handle emails that fail authentication.
+
+### DKIM
+
+DomainKeys Identified Mail (DKIM) is ==an email authentication method that helps prevent spoofed senders and spam==. It works by adding a digital signature to an email, which is then verified using a public key in the domain's DNS records. DKIM is one of the most common ways to authenticate an email sender, along with SPF and DMARC.
+
+Here's how DKIM works:
+
+- Signing: The sender identifies the fields they want to include in the DKIM signature, such as the subject, body, and "from" address.
+- Encryption: The email is encrypted using public and private keys.
+- Verification: The public key in the domain's DNS records is used to decrypt the signature and verify that the email's content hasn't been changed.
+
+DKIM signatures are usually not visible to the end user.
+
+Here are some things to keep in mind about DKIM:
+
+- Key management - DKIM key management is important for security, and longer keys are more secure.
+- DNS - DKIM keys are long strings of random-looking data that can be easily mistyped in DNS. Even a simple copy and paste error can cause legitimate emails to fail DKIM.
+- Integration - DKIM can be used with DMARC and SPF to protect domains from malicious emails.
+
+### SPF Record
+
+An SPF record, or Sender Policy Framework record, is a type of DNS TXT record that is used to validate the source of an email. It does this by specifying which IP addresses and domains are authorized to send emails from a particular domain.
+
+**How SPF Records Work**
+
+1. **Creation:** A domain owner creates an SPF record and adds it to their DNS zone.
+2. **Email Sending:** When someone sends an email from a domain with an SPF record, the receiving mail server checks the SPF record to see if the sending server is authorized.
+3. **Validation:** If the sending server is authorized, the email is accepted. If not, the email may be rejected or quarantined.
+
+**Benefits of Using SPF Records**
+
+- **Email Authentication:** SPF helps to prevent spam and phishing attacks by ensuring that only authorized servers can send emails from a domain.
+- **Improved Deliverability:** Emails sent from domains with valid SPF records are more likely to be delivered to recipients' inboxes.
+- **Reputation Management:** SPF can help to protect your domain's reputation by reducing the number of emails that are rejected or quarantined as spam.
+
+**How to Create an SPF Record**
+
+There are a number of online tools that can help you create an SPF record. You can also create one manually by following the instructions provided by your DNS provider.
+
+**SPF Record Syntax**
+
+SPF records are written as a single line of text, using a specific syntax. The record starts with the "v=" tag, followed by the SPF version number (currently "spf1"). The rest of the record consists of a series of mechanisms and modifiers that define which IP addresses and domains are authorized to send emails from the domain.
+
+**Example:**
+
+v=spf1 mx ip4:192.168.1.1 include:_spf.google.com ~all
+
+This record specifies that two servers are authorized to send emails from the domain: an MX server and an IP address with the address 192.168.1.1. It also includes a wildcard mechanism that allows any server that is not explicitly listed to send emails from the domain.
+
+### Difference
+
+==DMARC, DKIM, and SPF are email authentication methods that work together to prevent email spoofing and spam==:
+
+- Sender Policy Framework (SPF)
+
+    Lists the IP addresses of servers that can send emails from a domain. SPF uses DNS to publish this information.
+
+- DomainKeys Identified Mail (DKIM)
+
+    Uses cryptography to verify that an email came from the domain by adding a digital signature to the email. DKIM uses DNS to advertise the public keys that can be used to authenticate emails.
+
+- Domain-based Message Authentication Reporting and Conformance (DMARC)
+
+    Tells mail servers what to do if SPF or DKIM fail. DMARC uses DNS to advertise the policies that should be applied to emails that fail SPF or DKIM.
+
+DMARC policies can include quarantining emails that fail SPF or DKIM. An email can pass DMARC if it passes either SPF or DKIM and aligns with the domain specified in the "From" header.
+
+You can add SPF, DKIM, and DMARC records to your DNS settings, but you'll usually need to create and add them yourself. You can ask your web hosting service for help, or use a third-party tool or service.
 
 ## Capture the Flag (CTF)
 

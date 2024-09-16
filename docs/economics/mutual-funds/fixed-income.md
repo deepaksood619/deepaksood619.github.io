@@ -89,6 +89,10 @@ A 6% return from arbitrage fund is enough (5.37% post-tax) to beat the 7.75% bon
 
 Mis (Monthly Income Scheme) - Limit 9 lakh
 
+[Senior Citizen Savings Scheme (SCSS) - Interest Rate 2024, Tax Benefits, Eligibility, Rules and Opening SCSS Account](https://www.bajajfinserv.in/investments/scss-interest-rate)
+
+[Site Unreachable](https://cleartax.in/s/senior-citizen-savings-scheme)
+
 ### Mahila Samman Saving certificate - 7.5% 2 lakh
 
 ### Sukanya Samriddhi Yojana (SSY)
@@ -109,6 +113,8 @@ Mis (Monthly Income Scheme) - Limit 9 lakh
 ### NSC (National Savings Certificate) vs Post Office FD
 
 [10 Lakh Investment 💰 #epmshorts - YouTube](https://www.youtube.com/shorts/CxZ0FNv7BC8)
+
+[Ep3- National Savings Certificate-7 Features |Should you invest?| Investing in Govt Schemes in Hindi - YouTube](https://youtu.be/XPY5NOKYD1E)
 
 ### Annuity
 
@@ -131,9 +137,28 @@ Mis (Monthly Income Scheme) - Limit 9 lakh
 
 [Ep 2 - Kisan Vikas Patra (8 Features) | Who should Invest? | Investing in Govt Schemes in Hindi - YouTube](https://www.youtube.com/watch?v=W2ATVuiZ04w&ab_channel=ZerodhaVarsity)
 
+## Bajaj Finance FD / Bajaj Finserv FD
+
+[FD interest rates up to 8.65% p.a. | Highest safety ratings | Bajaj Finance Fixed Deposit](https://www.bajajfinserv.in/investments/fixed-deposit-application-form)
+
+[Premature FD Withdrawal: Avoid Interest Loss - Bajaj Finance](https://www.bajajfinserv.in/investments/avoid-interest-loss-on-premature-fd)
+
+The rate of interest offered on tends to be higher for longer tenures. An FD with a longer tenure is set to fetch you better returns than a shorter-term FD this is because of the power of compounding. As you can see, a 4-year FD can yield returns up to 8.05% p.a., whereas a 1-year FD would offer 7.40% p.a. which is lower than the former. Also, if you wish to prematurely withdraw your FD, you will be **charged interest as per the rate on the day of opening your account for the actual period your account was open.**
+
+[Premature Withdrawal of Fixed Deposit (FD) Online - Bajaj Finance](https://www.bajajfinserv.in/service-guides/withdraw-your-fd-prematurely-in-my-account)
+
+- If there’s any unforeseen expense, you can withdraw the funds that you’ve parked in a fixed deposit before its maturity date. This is called the premature withdrawal of a fixed deposit. However, you can raise a request for premature withdrawal after three months from the date of acceptance of the deposit.
+- If you withdraw your FD after three months but before six months from the date of deposit, you’ll only get the principal amount. You won’t get any interest amount in such a case.
+- However, if you choose to prematurely liquidate FD after six months, the interest payable is 2% (per annum) lower than the interest rate applicable to a public deposit for the period for which it has run.
+- If no rate has been specified for that period, the interest rate payable is 3% (per annum) lower than the minimum interest rate at which public deposits are accepted by the NBFC.
+
+[Premature Withdrawal of Fixed Deposit (FD) Online - Bajaj Finance](https://www.bajajfinserv.in/service-guides/withdraw-your-fd-prematurely-in-my-account)
+
 ## Links
 
 - [5 High Profit, Tax Free Government Investing Options! | Ankur Warikoo Hindi - YouTube](https://www.youtube.com/watch?v=3Fxuq0jeUkk)
 - [Fixed Deposit Increase returns by 60% | Fixed deposits masterclass | - YouTube](https://www.youtube.com/watch?v=MhpJpPYp9Gc)
 - [How to book FD @9.5% with bank guarantee? with Excel calculator - YouTube](https://www.youtube.com/watch?v=SghE1NL49Ag)
 - [How to get upto 9% returns on FD? - YouTube](https://www.youtube.com/watch?v=UQcHYsCcPfY&ab_channel=pranjalkamra)
+- [How should senior citizens invest in 2022?](https://freefincal.com/how-should-senior-citizens-invest-in-2022/)
+- [What are some tax-efficient alternatives for debt mutual funds?](https://freefincal.com/what-are-some-tax-efficient-alternatives-for-debt-mutual-funds/)

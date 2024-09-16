@@ -199,6 +199,18 @@ egress:
 
 https://istio.io/docs/concepts/traffic-management
 
+### Timeouts
+
+- Connection timeout
+- Request read timeout
+- Wit timeout
+- Usage timeout
+- Response timeout
+- Cancelling a request
+- Proxies and timeouts
+
+[Frontend and Backends Timeouts - YouTube](https://www.youtube.com/watch?v=2GAQVXGT_Zw)
+
 ## Ingress
 
 - **Ingress Gateways**

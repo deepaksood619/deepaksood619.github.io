@@ -30,6 +30,11 @@ Ex
 - No notes on videos
 - Videos should be like books, where one can annotate, add notes, search, arrange, etc. that you can do with books.
 
+### Google Search
+
+- Not real time for technologies, since newer technologies have low traffic, and thereby older technologies or problem solutions which has large traffic and user base will be shown, but it should be other way around. It's harder to find latest solution (Cannabalization)
+- Gives link, instead of solution, you have to choose from links
+
 ### Twitter and Facebook
 
 Add an AI fact checker on a card where we can see all the history of that statement that a person is written on a public forum.

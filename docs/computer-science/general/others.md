@@ -80,6 +80,8 @@ https://blog.codinghorror.com/the-infinite-space-between-words
 
 [Technology Size Comparison 🤯🤯 3D Animation - YouTube](https://www.youtube.com/watch?v=gfOD-Qpl6eg)
 
+1 million seconds is about 11.5 days. And 1 billion seconds stretches to a whopping 31.7 years!
+
 ### Responsiveness matters
 
 - Walmart has found a sharp decline in conversion rates as latency climbs from 1s to 4s.

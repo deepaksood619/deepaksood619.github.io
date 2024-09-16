@@ -77,7 +77,7 @@ Choosing between Snowflake and Databricks is like deciding between a swiss army 
 
 [Databricks vs. Snowflake | Databricks](https://www.databricks.com/databricks-vs-snowflake)
 
-## Postgres vs MySQL
+## Postgres vs MySQL / MySQL vs Postgres
 
 ### Why Postgres
 

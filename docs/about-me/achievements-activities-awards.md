@@ -26,6 +26,18 @@ I was responsible of creating a product and infrastructure around it to help sav
 
 ## Activities
 
+### NIT Delhi - GenAI for Freshers (18 September 2024)
+
+Slides - [Unleash your inner innovator: GenAI for freshers](https://docs.google.com/presentation/d/11YL2HG7wLR2eLiG9Np4NuXJ8LpPoMrtQztb9hpRRkq8/edit?usp=drive_link)
+
+Proportion of students - 1st year + 2nd year (70%), 3rd + 4th year (30%)
+
+![NIT Delhi - GenAI for Freshers](../media/Screenshot%202024-09-15%20at%2010.08.49%20PM.jpg)
+
+![NIT Delhi - GenAI for Freshers](../media/1726397196299.jpeg)
+
+[Deepak Sood on LinkedIn: #genai #techforfreshers #aiinnovation #careermoves #nitdelhi](https://www.linkedin.com/posts/deepaksood619_genai-aiinnovation-nitdelhi-activity-7241120393694994433-jsdz?utm_source=share&utm_medium=member_desktop)
+
 ### OpsTree Tech Talk (12 September 2024)
 
 Slides - [From Zero to Hero: Mastering GenAI in a Flash](https://docs.google.com/presentation/d/1go_DXxBZlhyr1Ap8QIQhXseCFTgKYJ4Obk8dHaJ8ZIk/edit?usp=sharing)

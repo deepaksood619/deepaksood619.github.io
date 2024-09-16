@@ -198,6 +198,8 @@ https://myenglishmatters.com/2018/06/28/whats-the-difference-between-has-been-ha
 - Idiopathic - Relating to or denoting any disease or condition which arises spontaneously or for which the cause is unknown. -- "idiopathic epilepsy"
 - Shrewd - able to make good decisions because you understand a situation well
 - xenophobia - a fear or hatred of foreign people and cultures
+- orthodoxy - authorized or generally accepted theory, doctrine, or practice.
+- Incumbents - a person who is currently in an official position
 
 ### Shill / Shilling
 

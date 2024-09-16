@@ -8,8 +8,10 @@ The data lake stores *raw* data, in whatever form the data source provides. Ther
 
 It is important that all data put in the lake should have a clear provenance in place and time. Every data item should have a clear trace to what system it came from and when the data was produced.
 
-The data lake is schemaless
+The data lake is schemaless.
 
 ## References
 
-https://martinfowler.com/bliki/DataLake.html
+[Data Lake | Martin Fowler](https://martinfowler.com/bliki/DataLake.html)
+
+[4 Guiding Principles for Modern Data Lake Architecture | Upsolver](https://www.upsolver.com/blog/four-principles-data-lake-architecture)
