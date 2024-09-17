@@ -8,6 +8,7 @@
 - [Llama - EXPLAINED! - YouTube](https://www.youtube.com/watch?v=yZ9jkgN2xHQ)
 - [LLM2 Module 1 - Transformers | 1.6 Base/Foundation Models - YouTube](https://www.youtube.com/watch?v=sJsPgRg883w)
 - [20 papers to master Language modeling? - YouTube](https://www.youtube.com/watch?v=QQIwfpOY-qA)
+- [Bringing Llama 3 to Life | Joe Spisak, Delia David, Kaushik Veeraraghavan & Ye (Charlotte) Qi - YouTube](https://www.youtube.com/watch?v=ELIcy6flgQI)
 
 ## Architecture
 

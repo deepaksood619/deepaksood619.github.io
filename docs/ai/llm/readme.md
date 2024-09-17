@@ -4,6 +4,7 @@
 - [Models](ai/llm/models.md)
 - [Limitations / Problems](ai/llm/limitations-problems.md)
 - [LLM Building](ai/llm/llm-building.md)
+- [LLM Tuning](ai/llm/llm-tuning.md)
 - [Design Patterns](ai/llm/design-patterns.md)
 - [RAG Retrieval Augmented Generation](ai/llm/rag-retrieval-augmented-generation.md)
 - [Natural Language to SQL](ai/llm/natural-language-to-sql.md)
@@ -25,3 +26,5 @@
 ## GenAI Landscape
 
 ![GenAI Landscape](../../media/Pasted%20image%2020240915133426.jpg)
+
+![GenAI Application Landscape](../../media/Screenshot%202024-09-17%20at%201.46.23%20AM.jpg)

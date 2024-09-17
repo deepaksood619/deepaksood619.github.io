@@ -11,9 +11,9 @@
 ### Develop your own ChatGPT from scratch
 
 - Implement all stages in the development of a Large Language Model (LLM) similar to ChatGPT, including:
-	- Pretraining
-	- Supervised Finetuning
-	- Reinforcement Learning from Human Feedback (RLHF)
+   	- Pretraining
+   	- Supervised Finetuning
+   	- Reinforcement Learning from Human Feedback (RLHF)
 - Learn and apply the best industry practices for creating a dialogue- optimized LLM like ChatGPT.
 
 ### Develop your own LLM Application using Prompt Engineering
@@ -25,11 +25,11 @@
 
 - Use LlamaIndex to build a production-ready Retrieval-Augmented Generation (RAG) system on your private data.
 - Acquire hands-on experience with advanced components of LlamaIndex, including:
-	- Agents
-	- Router Query Engine, SubQuestionQuery Engine
-	- Open AI Assistants
-	- Finetuning with Retrieval Augmentation (RADIT)
-	- Finetuning Embeddings
+   	- Agents
+   	- Router Query Engine, SubQuestionQuery Engine
+   	- Open AI Assistants
+   	- Finetuning with Retrieval Augmentation (RADIT)
+   	- Finetuning Embeddings
 
 ### Building End-to-End RAG Apps
 

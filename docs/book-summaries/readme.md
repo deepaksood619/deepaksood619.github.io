@@ -86,6 +86,7 @@
 - [Power and Prediction](book-summaries/power-and-prediction.md)
 - [7 Powers: The Foundations of Business Strategy](book-summaries/7-powers-the-foundations-of-business-strategy.md)
 - [Others](book-summaries/others.md)
+- [Books / Blinkist - Productivity](book-summaries/books-blinkist-productivity.md)
 - [Books / Blinkist - Management](../management/books-blinkist-management)
 - [Product Book Summaries](management/product-management/product-book-summaries.md)
 - [Books To Read](books-to-read)

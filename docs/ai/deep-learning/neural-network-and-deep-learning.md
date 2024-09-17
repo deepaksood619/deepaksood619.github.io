@@ -100,7 +100,7 @@ So, it turns out that there are a set of techniques called vectorizationtechniqu
 
 ![image](../../media/DL-Specialization_Neural-network-and-deep-learning-image17.jpg)
 
-## Z = W^T^X + b
+`Z = W^T^X + b`
 
 ## Example
 
@@ -148,7 +148,7 @@ Whenever possible, avoid explicit for-loops
 
 ![image](../../media/DL-Specialization_Neural-network-and-deep-learning-image21.jpg)
 
-## Size of matrix X - (n~x~ , m)
+`Size of matrix X - (n~x~ , m)`
 
 ## Vectorizing Logistic Regression's Gradient Output
 
@@ -158,7 +158,7 @@ Whenever possible, avoid explicit for-loops
 
 How do you compute the derivative of *b* in one line of code in Python numpy?
 
-1 / m*(np.sum(dz))
+`1 / m*(np.sum(dz))`
 
 ## Broadcasting in Python
 
@@ -166,11 +166,11 @@ How do you compute the derivative of *b* in one line of code in Python numpy?
 
 Calculate % of calories from carb, protein, fat, without explicit for loop?
 
+```
 cal = A.sum(axis = 0)
-
 percentage = 100*A / (cal.reshape(1, 4))
-
 matrix (3, 4) / matrix (1, 4)
+```
 
 ![image](../../media/DL-Specialization_Neural-network-and-deep-learning-image25.jpg)
 
@@ -189,7 +189,7 @@ True or False: Minimizing the loss corresponds with maximizing logp(y|x) - **Tru
 - We rarely use the "math" library in deep learning because the inputs of the functions are real numbers. In deep learning we mostly use matrices and vectors. This is why numpy is more useful.
 - sigmoid_grad() to compute the gradient of the sigmoid function with respect to its input x. The formula is:
 
-sigmoid_derivative(x)=σ′(x)=σ(x)(1−σ(x))
+`sigmoid_derivative(x)=σ′(x)=σ(x)(1−σ(x))`
 
 - Another common technique we use in Machine Learning and Deep Learning is to normalize our data. It often leads to a better performance because gradient descent converges faster after normalization. Here, by normalization we mean changing x tox/∥x∥(dividing each row vector of x by its norm).
 

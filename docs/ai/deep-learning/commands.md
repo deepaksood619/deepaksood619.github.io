@@ -63,7 +63,7 @@ def L1(yhat, y):
 def L2(yhat, y):
     loss = np.sum(np.dot((y-yhat),(y-yhat)))
 
-A trick when you want to flatten a matrix X of shape (a, b, c, d) to a matrix X_flatten of shape (b∗∗c∗∗d, a) is to use:
+# A trick when you want to flatten a matrix X of shape (a, b, c, d) to a matrix X_flatten of shape (b∗∗c∗∗d, a) is to use:
 
 X_flatten = X.reshape(X.shape [0], -1).T
 ```

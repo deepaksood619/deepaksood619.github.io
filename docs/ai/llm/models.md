@@ -9,6 +9,14 @@
    	- They can discriminate between different kinds of data instances.
     - Trained on a dataset of images of cats and dogs and then used to classify new images as either cats or dogs.
 
+### Types
+
+- **Generic or raw language models** predict the next word based on the language in the training data. These language models perform information retrieval tasks.
+   	- The cat sat on ___ (answer - the)
+- **Instruction-tuned language models** are trained to predict responses to the instructions given in the input. This allows them to perform sentiment analysis, or to generate text or code.
+   	- Generate a poem in the style of x
+- **Dialog-tuned language models** are trained to have a dialog by predicting the next response. Think of chatbots or conversational AI.
+
 ## Models
 
 - ChatGPT / OpenAI

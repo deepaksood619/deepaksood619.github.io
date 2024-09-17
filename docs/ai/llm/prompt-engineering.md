@@ -1,5 +1,9 @@
 # Prompt Engineering
 
+**Prompt design** is the process of creating a prompt that is tailored to the specific task that the system is being asked to perform.
+
+**Prompt engineering** is the process of creating a prompt that is designed to improve performance.
+
 ## Prompting Principles
 
 ### Principle 1: Write clear and specific instructions

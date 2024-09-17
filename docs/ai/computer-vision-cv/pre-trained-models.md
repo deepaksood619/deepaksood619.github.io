@@ -109,7 +109,7 @@ Here's how YOLO works:
 
 - **Grid:** YOLO's CNN divides an image into a grid.
 - **Bounding boxes:** Each cell in the grid predicts a number of bounding boxes.
-- **Class probabilities:** Each cell also predicts a class probability, which indicates the likelihood of an object being present in the box. 
+- **Class probabilities:** Each cell also predicts a class probability, which indicates the likelihood of an object being present in the box.
 
 YOLO is popular because of its single-stage architecture, real-time performance, and accuracy. It's well-suited for real-time applications like self-driving cars, video surveillance, and augmented reality.
 
@@ -139,6 +139,12 @@ YOLO is popular because of its single-stage architecture, real-time performance,
 | BiT-L (ResNet)               | **928 M**                       | 87.54 %                 | 2019 |
 | NoisyStudent EfficientNet-L2 | **480 M**                       | **88.4** %              | 2020 |
 | Meta Pseudo Labels           | **480 M**                       | **90.2** %              | 2021 |
+| CoCa (finetuned)             | 2100M                           | 91.0%                   | 2022 |
+| OmniVec (ViT)                |                                 | 92.4%                   | 2023 |
+
+Leaderboard - [ImageNet Benchmark (Image Classification) | Papers With Code](https://paperswithcode.com/sota/image-classification-on-imagenet)
+
+Models - [Models - Hugging Face](https://huggingface.co/models?pipeline_tag=image-classification)
 
 - [CNN Architectures: LeNet, AlexNet, VGG, GoogLeNet, ResNet and more… | by Siddharth Das | Analytics Vidhya | Medium](https://medium.com/analytics-vidhya/cnns-architectures-lenet-alexnet-vgg-googlenet-resnet-and-more-666091488df5)
 - [Difference between AlexNet, VGGNet, ResNet, and Inception | by Aqeel Anwar | Towards Data Science](https://towardsdatascience.com/the-w3h-of-alexnet-vggnet-resnet-and-inception-7baaaecccc96)
@@ -160,3 +166,4 @@ YOLO is popular because of its single-stage architecture, real-time performance,
 - [Top Pre-Trained Models for Image Classification - GeeksforGeeks](https://www.geeksforgeeks.org/top-pre-trained-models-for-image-classification/)
 - [Top 4 Pre-Trained Models for Image Classification + Python Code](https://www.analyticsvidhya.com/blog/2020/08/top-4-pre-trained-models-for-image-classification-with-python-code/)
 - [Best deep CNN architectures and their principles: from AlexNet to EfficientNet | AI Summer](https://theaisummer.com/cnn-architectures/)
+- [7 Best Image Classification Models You Should Know in 2023 - Jonas Cleveland](https://jonascleveland.com/best-image-classification-models/)

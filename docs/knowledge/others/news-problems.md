@@ -12,6 +12,10 @@
 
 [Watch Out!! This Is What The CENTRAL BANKS Are Planning! - YouTube](https://www.youtube.com/watch?v=wdpQoO8af6g)
 
+## World News
+
+- Pakistan - [SAMAA TV - YouTube](https://www.youtube.com/channel/UCJekW1Vj5fCVEGdye_mBN6Q)
+
 ## Links
 
 [thoughts-future-ideas-vision-prediction](about-me/ideas/thoughts-future-ideas-vision-prediction.md)
