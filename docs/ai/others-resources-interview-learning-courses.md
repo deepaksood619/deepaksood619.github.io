@@ -13,7 +13,7 @@
 - [LLM Bootcamp - Spring 2023 - The Full Stack](https://fullstackdeeplearning.com/llm-bootcamp/spring-2023/)
 - [GitHub - microsoft/generative-ai-for-beginners: 18 Lessons, Get Started Building with Generative AI 🔗 https://microsoft.github.io/generative-ai-for-beginners/](https://github.com/microsoft/generative-ai-for-beginners)
 
-## AI (Artificial Intelligence) + DL (Deep Learning) + ML (Machine Learning)
+## AI (Artificial Intelligence) + ML (Machine Learning)
 
 - https://www.freecodecamp.org/learn/machine-learning-with-python
 - OpenCV - https://www.youtube.com/watch?v=P4Z8_qe2Cu0
@@ -30,7 +30,6 @@
 - Mathematics (probability, statistics, calculus)
 - [Machine Learning & Neural Networks without Libraries - No Black Box Course - YouTube](https://www.youtube.com/watch?v=3wwiOSxDAmg)
 - [udlbook](https://udlbook.github.io/udlbook/)
-- [Deep Learning Fundamentals Handbook - What You Need to Know to Start Your Career in AI](https://www.freecodecamp.org/news/deep-learning-fundamentals-handbook-start-a-career-in-ai/)
 - [Learn Machine Learning in 2024](https://www.freecodecamp.org/news/learn-machine-learning-in-2024/)
 - [5 Free AI Courses With Certifications In 2024](https://www.forbes.com/sites/rachelwells/2024/08/08/5-free-ai-courses-with-certifications-in-2024/)
 
@@ -69,16 +68,12 @@
 - https://www.kaggle.com/c/titanic
 - https://github.com/Avik-Jain/100-Days-Of-ML-Code
 - https://www.elementsofai.com
-- https://in.udacity.com/course/deep-learning--ud730-india
 - Learning from Data Course by Prof Yaser Abu-Mostafa
 - FREE - Google's ML Crash Course
 - FREE - course.fast.ai
 - Free Computation Linear Algebra - https://www.fast.ai/2017/07/17/num-lin-alg
-- PAID - Coursera - https://www.deeplearning.ai
 - Neural Networks and Deep Learning by Andrew Ng
 - Stanford's ML Course by Andrew Ng
-- http://neuralnetworksanddeeplearning.com
-- http://www.deeplearningbook.org
 - The school of AI - Move37
 - The school of AI - Decentralized Applications
 - https://scpd.stanford.edu/public/category/courseCategoryCertificateProfile.do?method=load&certificateId=99107737
@@ -220,17 +215,14 @@
 - https://www.freecodecamp.org/news/statistics-for-data-science
 - https://www.freecodecamp.org/news/how-to-analyze-data-with-python-pandas
 - https://www.coursera.org/learn/machine-learning
-- Paid - https://www.coursera.org/specializations/deep-learning
 - Free - (7 Weeks each)
 - http://course.fast.ai
 - http://course.fast.ai/part2.html
 - https://github.com/josephmisiti/awesome-machine-learning/blob/master/books
-- https://towardsdatascience.com/top-3-free-deep-learning-courses-in-2020-f2cd1c1b0f48
 
 ## Machine Learning
 
 - https://www.toptal.com/machine-learning/machine-learning-theory-an-introductory-primer
-- https://www.toptal.com/machine-learning/an-introduction-to-deep-learning-from-perceptrons-to-deep-networks
 - [**https://www.toptal.com/machine-learning/interview-questions**](https://www.toptal.com/machine-learning/interview-questions)
 - [**https://semanti.ca/blog/?the-most-important-machine-learning-algorithms**](https://semanti.ca/blog/?the-most-important-machine-learning-algorithms)
 - [**https://www.uruit.com/machine-learning-guide/**](https://www.uruit.com/machine-learning-guide/)
@@ -250,7 +242,6 @@
 - https://stanford.edu/~shervine/teaching/cs-229/cheatsheet-machine-learning-tips-and-tricks
 - https://stanford.edu/~shervine/teaching/cs-229/cheatsheet-supervised-learning
 - https://stanford.edu/~shervine/teaching/cs-229/cheatsheet-unsupervised-learning
-- https://stanford.edu/~shervine/teaching/cs-229/cheatsheet-deep-learning
 - [Cheat Sheets for Machine Learning Interview Topics | by Aqeel Anwar | Medium](https://medium.com/swlh/cheat-sheets-for-machine-learning-interview-topics-51c2bc2bab4f)
    	- [www.cheatsheets.aqeel-anwar.com](https://sites.google.com/view/datascience-cheat-sheets)
 
@@ -267,15 +258,8 @@ https://towardsdatascience.com/how-to-build-a-real-time-fraud-detection-pipeline
 
 ## Resources
 
-- https://towardsdatascience.com/a-weird-introduction-to-deep-learning-7828803693b0
 - https://www.toptal.com/machine-learning/tensorflow-machine-learning-tutorial
 - https://www.inference.vc/untitled
-- https://www.freecodecamp.org/news/deep-learning-neural-networks-explained-in-plain-english
-- https://www.freecodecamp.org/news/keras-video-course-python-deep-learning
-- https://hadrienj.github.io/posts/Deep-Learning-Book-Series-Introduction
-- https://www.freecodecamp.org/news/deep-learning-crash-course-learn-the-key-concepts-and-terms
-- https://www.freecodecamp.org/news/learn-deep-learning-from-the-president-of-kaggle
-- https://deepai.org
 
 ## Questions
 

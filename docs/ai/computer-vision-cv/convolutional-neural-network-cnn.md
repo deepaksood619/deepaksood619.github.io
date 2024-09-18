@@ -16,7 +16,6 @@ There is only some pre-processing needed when using CNNs. They develop and adapt
 
 The basic unit of a CNN framework is a neuron. The concept of neurons is based on human neurons, where synapses occur due to [neuron activation](https://viso.ai/deep-learning/neuron-activation/). These are statistical functions that calculate the weighted average of inputs and apply an activation function to the result generated. Layers are a cluster of neurons, with each layer having a particular function.
 
-
 ![Concept of a neural network](../../media/Pasted%20image%2020240917123040.png)
 
 ## CNN Layers

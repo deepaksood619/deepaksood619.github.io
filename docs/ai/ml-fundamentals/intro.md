@@ -48,15 +48,15 @@ By **model**, we denote the computational machinery for ingesting data of one ty
 
 ## Objective Functions
 
-Earlier, we introduced machine learning as **learning** from experience. Bylearninghere, we mean improving at some task over time. But who is to say what constitutes an improvement? You might imagine that we could propose to update our model, and some people might disagree on whether the proposed update constituted an improvement or a decline.
+Earlier, we introduced machine learning as **learning** from experience. By learning here, we mean improving at some task over time. But who is to say what constitutes an improvement? You might imagine that we could propose to update our model, and some people might disagree on whether the proposed update constituted an improvement or a decline.
 
-In order to develop a formal mathematical system of learning machines, we need to have formal measures of how good (or bad) our models are. In machine learning, and optimization more generally, we call these**objective functions**. By convention, we usually define objective functions so that lower is better. This is merely a convention. You can take any function for which higher is better, and turn it into a new function that is qualitatively identical but for which lower is better by flipping the sign. Because lower is better, these functions are sometimes called**loss functions.**
+In order to develop a formal mathematical system of learning machines, we need to have formal measures of how good (or bad) our models are. In machine learning, and optimization more generally, we call these **objective functions**. By convention, we usually define objective functions so that lower is better. This is merely a convention. You can take any function for which higher is better, and turn it into a new function that is qualitatively identical but for which lower is better by flipping the sign. Because lower is better, these functions are sometimes called **loss functions.**
 
-When trying to predict numerical values, the most common loss function is**squared error**, i.e., the square of the difference between the prediction and the ground-truth. For classification, the most common objective is to minimize error rate, i.e., the fraction of examples on which our predictions disagree with the ground truth. Some objectives (e.g., squared error) are easy to optimize. Others (e.g., error rate) are difficult to optimize directly, owing to non-differentiability or other complications. In these cases, it is common to optimize a**surrogate objective.**
+When trying to predict numerical values, the most common loss function is **squared error**, i.e., the square of the difference between the prediction and the ground-truth. For classification, the most common objective is to minimize error rate, i.e., the fraction of examples on which our predictions disagree with the ground truth. Some objectives (e.g., squared error) are easy to optimize. Others (e.g., error rate) are difficult to optimize directly, owing to non-differentiability or other complications. In these cases, it is common to optimize a **surrogate objective.**
 
 ## Optimization Algorithm
 
-Once we have got some data source and representation, a model, and a well-defined objective function, we need an algorithm capable of searching for the best possible parameters for minimizing the loss function. Popular optimization algorithms for deep learning are based on an approach called**gradient descent**. In short, at each step, this method checks to see, for each parameter, which way the training set loss would move if you perturbed that parameter just a small amount. It then updates the parameter in the direction that may reduce the loss.
+Once we have got some data source and representation, a model, and a well-defined objective function, we need an algorithm capable of searching for the best possible parameters for minimizing the loss function. Popular optimization algorithms for deep learning are based on an approach called **gradient descent**. In short, at each step, this method checks to see, for each parameter, which way the training set loss would move if you perturbed that parameter just a small amount. It then updates the parameter in the direction that may reduce the loss.
 
 https://d2l.ai/chapter_introduction/index.html
 
@@ -73,36 +73,11 @@ https://developers.google.com/machine-learning/guides/rules-of-ml
 - Metric: A number that you care about. May or may not be directly optimized.
 - Objective: A metric that your algorithm is trying to optimize.
 - Pipeline: The infrastructure surrounding a machine learning algorithm. Includes gathering the data from the front end, putting it into training data files, training one or more models, and exporting the models to production.
-- Click-through RateThe percentage of visitors to a web page who click a link in an ad.
+- Click-through Rate: The percentage of visitors to a web page who click a link in an ad.
 
-Training a model simply means learning (determining) good values for all the weights and the bias from labeled examples. In supervised learning, a machine learning algorithm builds a model by examining many examples and attempting to find a model that minimizes loss; this process is called**empirical risk minimization
+Training a model simply means learning (determining) good values for all the weights and the bias from labeled examples. In supervised learning, a machine learning algorithm builds a model by examining many examples and attempting to find a model that minimizes loss; this process is called **empirical risk minimization
 
-Loss is the penalty for a bad prediction. That is, lossis a number indicating how bad the model's prediction was on a single example. If the model's prediction is perfect, the loss is zero; otherwise, the loss is greater. The goal of training a model is to find a set of weights and biases that havelowloss, on average, across all examples
-
-## Squared loss: a popular loss function
-
-The linear regression models we'll examine here use a loss function called**squared loss**(also known as **L2loss**). The squared loss for a single example is as follows:
-
-= the square of the difference between the label and the prediction
-= (observation - prediction(x))2
-= (y - y')2
-
-## Mean square error(MSE)
-
-MSE is the average squared loss per example over the whole dataset. To calculate MSE, sum up all the squared losses for individual examples and then divide by the number of examples
-
-MSE=1N∑(x,y)∈D(y−prediction(x))2
-
-where:
-
-- (x,y)is an example in which
-- xis the set of features (for example, chirps/minute, age, gender) that the model uses to make predictions.
-- yis the example's label (for example, temperature).
-- prediction(x)is a function of the weights and bias in combination with the set of featuresx.
-- Dis a data set containing many labeled examples, which are(x,y)pairs.
-- Nis the number of examples inD.
-
-Although MSE is commonly-used in machine learning, it is neither the only practical loss function nor the best loss function for all circumstances.
+Loss is the penalty for a bad prediction. That is, loss is a number indicating how bad the model's prediction was on a single example. If the model's prediction is perfect, the loss is zero; otherwise, the loss is greater. The goal of training a model is to find a set of weights and biases that have low loss, on average, across all examples
 
 ## Real World Applications
 
@@ -142,16 +117,10 @@ https://betterexplained.com/articles/intuitive-convolution
 
 ## References
 
-https://en.wikipedia.org/wiki/Machine_learning
-
-https://en.wikipedia.org/wiki/Outline_of_machine_learning
-
-https://towardsdatascience.com/the-mathematics-of-machine-learning-894f046c568
-
-https://github.com/benedekrozemberczki/awesome-graph-classification
-
-https://www.toptal.com/machine-learning/interview-questions
-
-[Mathematics of Machine Learning](https://www.youtube.com/watch?v=8onB7rPG4Pk)
-
-https://www.youtube.com/watch?v=LlKAna21fLE
+- https://en.wikipedia.org/wiki/Machine_learning
+- https://en.wikipedia.org/wiki/Outline_of_machine_learning
+- https://towardsdatascience.com/the-mathematics-of-machine-learning-894f046c568
+- https://github.com/benedekrozemberczki/awesome-graph-classification
+- https://www.toptal.com/machine-learning/interview-questions
+- [Mathematics of Machine Learning](https://www.youtube.com/watch?v=8onB7rPG4Pk)
+- [A friendly introduction to linear algebra for ML (ML Tech Talks) - YouTube](https://www.youtube.com/watch?v=LlKAna21fLE)

@@ -88,3 +88,17 @@ https://github.com/pjreddie/darknet
 Pillow - images/Python Imaging Library
 
 https://python-pillow.org
+
+## Albumentations
+
+Albumentations is a Python library for image augmentation. Image augmentation is used in deep learning and computer vision tasks to increase the quality of trained models. The purpose of image augmentation is to create new training samples from the existing data.
+
+- Albumentations **[supports all common computer vision tasks](https://github.com/albumentations-team/albumentations?tab=readme-ov-file#i-want-to-use-albumentations-for-the-specific-task-such-as-classification-or-segmentation)** such as classification, semantic segmentation, instance segmentation, object detection, and pose estimation.
+- The library provides **[a simple unified API](https://github.com/albumentations-team/albumentations?tab=readme-ov-file#a-simple-example)** to work with all data types: images (RBG-images, grayscale images, multispectral images), segmentation masks, bounding boxes, and keypoints.
+- The library contains **[more than 70 different augmentations](https://github.com/albumentations-team/albumentations?tab=readme-ov-file#list-of-augmentations)** to generate new training samples from the existing data.
+- Albumentations is [**fast**](https://github.com/albumentations-team/albumentations?tab=readme-ov-file#benchmarking-results). We benchmark each new release to ensure that augmentations provide maximum speed.
+- It **[works with popular deep learning frameworks](https://github.com/albumentations-team/albumentations?tab=readme-ov-file#i-want-to-know-how-to-use-albumentations-with-deep-learning-frameworks)** such as PyTorch and TensorFlow. By the way, Albumentations is a part of the [PyTorch ecosystem](https://pytorch.org/ecosystem/).
+
+[GitHub - albumentations-team/albumentations: Fast and flexible image augmentation library. Paper about the library: https://www.mdpi.com/2078-2489/11/2/125](https://github.com/albumentations-team/albumentations)
+
+[Albumentations: fast and flexible image augmentations](https://albumentations.ai/)
