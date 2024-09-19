@@ -51,3 +51,4 @@ As MySQL is typically set up to purge binlogs after a specified period of time, 
 - [Streaming Data Changes from Your Database to Elasticsearch](https://debezium.io/blog/2018/01/17/streaming-to-elasticsearch/)
 - [Release Notes for Debezium 2.0](https://debezium.io/releases/2.0/release-notes)
 - [GitHub - bykvaadm/debezium-helm-chart](https://github.com/bykvaadm/debezium-helm-chart)
+- [Operational DB Migrations with Zero Downtime | The Write Ahead Log](https://platformatory.io/blog/Operational-db-Migration-Zero-Downtime/)

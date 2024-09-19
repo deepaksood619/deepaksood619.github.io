@@ -22,7 +22,7 @@
 9. Kakfa-monitor https://github.com/linkedin/kafka-monitor
 10. [kadeck | ‍Kafka UI - Your team's Apache Kafka tool belt](https://www.kadeck.com/)
 
-## Confluent Control Center
+## Confluent Control Center (C3)
 
 Confluent Control Center is a web-based tool for managing and monitoring Apache Kafka. Control Center provides the functionality for building and monitoring production data pipelines and streaming applications.
 
@@ -69,3 +69,5 @@ https://docs.confluent.io/current/tutorials/cp-demo/docs/index.html#cp-demo
 [How to monitor your Kafka cluster efficiently? | by Marco Catalano | Quantyca | Medium](https://medium.com/quantyca/how-to-monitor-your-kafka-cluster-efficiently-d45ce37c02f1)
 
 [Monitoring Kafka Performance Metrics | Datadog](https://www.datadoghq.com/blog/monitoring-kafka-performance-metrics/)
+
+[Exploring Kafka UI Solutions: Features, Comparisons, and Use Cases | The Write Ahead Log](https://platformatory.io/blog/comparision-of-kafka-ui-monitoring-tools/)

@@ -72,7 +72,7 @@ X_flatten = X.reshape(X.shape [0], -1).T
 
 - [GitHub - spMohanty/PlantVillage-Dataset: Dataset of diseased plant leaf images and corresponding labels](https://github.com/spMohanty/PlantVillage-Dataset)
 - [New Plant Diseases Dataset](https://www.kaggle.com/datasets/vipoooool/new-plant-diseases-dataset/data)
-	- Code - [Detecting Plant Diseases | Pytorch | Kaggle](https://www.kaggle.com/code/youssefelbadry10/detecting-plant-diseases-pytorch)
+   	- Code - [Detecting Plant Diseases | Pytorch | Kaggle](https://www.kaggle.com/code/youssefelbadry10/detecting-plant-diseases-pytorch)
 - [Corn or Maize Leaf Disease Dataset | Kaggle](https://www.kaggle.com/datasets/smaranjitghose/corn-or-maize-leaf-disease-dataset/data)
 - [Corn Leaf Infection Dataset | Kaggle](https://www.kaggle.com/datasets/qramkrishna/corn-leaf-infection-dataset)
 - [Leaf Classification | Kaggle](https://www.kaggle.com/c/leaf-classification/data)

@@ -38,9 +38,9 @@ Proportion of students - 1st year + 2nd year (70%), 3rd + 4th year (30%)
 
 [Deepak Sood on LinkedIn: #genai #techforfreshers #aiinnovation #careermoves #nitdelhi](https://www.linkedin.com/posts/deepaksood619_genai-aiinnovation-nitdelhi-activity-7241120393694994433-jsdz?utm_source=share&utm_medium=member_desktop)
 
-### OpsTree Tech Talk (12 September 2024)
+### OpsTree Tech Talk (12 September 2024 & 19 September 2024)
 
-Slides - [From Zero to Hero: Mastering GenAI in a Flash](https://docs.google.com/presentation/d/1go_DXxBZlhyr1Ap8QIQhXseCFTgKYJ4Obk8dHaJ8ZIk/edit?usp=sharing)
+Slides - [From Zero to Hero: Mastering GenAI in a Flash](https://docs.google.com/presentation/d/1lPKz7SGSEKQ0z_2TqQGcNULBLrRgjRQ-R7rDTSHYb8w/edit?usp=sharing)
 
 🚀 Ready to level up your AI game? Join us today from 4:30-5:30 for an exciting OpsTree Tech Talk: **"From Zero to Hero: Mastering GenAI in a Flash!"**
 

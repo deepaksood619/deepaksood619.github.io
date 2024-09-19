@@ -81,6 +81,7 @@ To achieve the above transition, there are two important steps: (1) consumer off
 - [KIP-545: support automated consumer offset sync across clusters in MM 2.0 - Apache Kafka - Apache Software Foundation](https://cwiki.apache.org/confluence/display/KAFKA/KIP-545%3A+support+automated+consumer+offset+sync+across+clusters+in+MM+2.0)
 - [Disaster Recovery with MirrorMaker 2.0 - Confluent](https://www.confluent.io/kafka-summit-lon19/disaster-recovery-with-mirrormaker-2-0/)
 - [How to setup MirrorMaker 2.0 on Apache Kafka multi-cluster environment | by Mauro Roiter | LARUS | Medium](https://medium.com/larus-team/how-to-setup-mirrormaker-2-0-on-apache-kafka-multi-cluster-environment-87712d7997a4)
+- [How to migrate Kafka clusters without downtime | The Write Ahead Log](https://platformatory.io/blog/How-to-migrate-kafka-clusters-without-downtime/)
 
 ## Confluent Replicator vs MirrorMaker 2.0
 

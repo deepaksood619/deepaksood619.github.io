@@ -37,25 +37,25 @@ CNN layers can be of four main types: Convolution Layer, ReLu Layer, Pooling Lay
 
 - Artificial Neural Network (ANN) vs CNN
 - Convolution Operation
-	- Vertical edge features
-	- Horizontal edge features
+   	- Vertical edge features
+   	- Horizontal edge features
 - Padding
-	- Valid Convolution
-	- Same Convolution
+   	- Valid Convolution
+   	- Same Convolution
 - Stride
 - Max Pooling
-	- Reduce image size, thus reduce computational cost
-	- Enhances features of the image
+   	- Reduce image size, thus reduce computational cost
+   	- Enhances features of the image
 - Flatten array input to Fully connected layers
-	- Fully connected layers are dense networks of neurons
-	- Applied after convolutional and max pooling layers
-	- Classifies the output
-	- Associate features to a particular label
+   	- Fully connected layers are dense networks of neurons
+   	- Applied after convolutional and max pooling layers
+   	- Classifies the output
+   	- Associate features to a particular label
 - CNN Architecture
 - Backpropagation
 
 ## Links
 
+- [Examples](ai/computer-vision-cv/examples.md)
 - [A Complete Guide to Image Classification in 2024 - viso.ai](https://viso.ai/computer-vision/image-classification/)
 - [Introduction to Convolution Neural Network - GeeksforGeeks](https://www.geeksforgeeks.org/introduction-convolution-neural-network/)
-- [Convolutional Neural Networks (CNN) — Architecture Explained | by Dharmaraj | Medium](https://medium.com/@draj0718/convolutional-neural-networks-cnn-architectures-explained-716fb197b243)

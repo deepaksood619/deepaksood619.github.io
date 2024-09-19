@@ -55,72 +55,72 @@ Open source machine learning library. Often used for neural networks, deep learn
 
 ### 1. PyTorch
 
-#### Best For:
+#### Best For
 
 - Research and quick prototyping
 - Complex custom architectures
 
-#### Pros:
+#### Pros
 
 - **Dynamic Computational Graphs**: PyTorch uses dynamic graphs (define-by-run), which makes it more intuitive for building models where the architecture changes during runtime.
 - **Ease of Debugging**: With dynamic graphs, debugging is easier since you can use standard Python debugging tools.
 - **Strong Community Support in Research**: PyTorch is widely used in academia, making it suitable if you're implementing cutting-edge research or need flexibility in modifying architectures.
 - **Good for Custom Architectures**: If you plan to build non-standard architectures, PyTorch’s flexibility makes it a good choice.
 
-#### Cons:
+#### Cons
 
 - **Deployment**: PyTorch has fewer deployment tools compared to TensorFlow (though **TorchServe** has been improving this).
 
 ### 2. TensorFlow (Including Keras)
 
-#### Best For:
+#### Best For
 
 - Production models, large-scale training, and deployment
 - Projects requiring extensive model optimization and deployment on mobile devices or cloud services
 
-#### Pros:
+#### Pros
 
 - **Scalability**: TensorFlow is well-suited for both small and large projects due to its ability to handle complex tasks at scale.
 - **Production-Ready**: TensorFlow has great support for production deployments, with tools like **TensorFlow Serving** and **TensorFlow Lite** for mobile and embedded devices.
 - **Keras Integration**: Keras, now a part of TensorFlow, offers a high-level API that’s easier to use for beginners or for rapid prototyping.
 - **Optimization**: TensorFlow includes powerful optimization features like **XLA compiler** and **TPU support** for faster training on large models.
 
-#### Cons:
+#### Cons
 
 - **Steeper Learning Curve**: TensorFlow, particularly the low-level API, can be complex and harder to debug compared to PyTorch.
 - **Static Graphs**: Older versions of TensorFlow use static graphs, making it harder to work with dynamic architectures (although **eager execution** in TensorFlow 2.x has addressed this to some extent).
 
 ### 3. Keras (Standalone or Integrated into TensorFlow)
 
-#### Best For:
+#### Best For
 
 - Beginners or rapid prototyping
 - Simple to moderately complex neural networks
 
-#### Pros:
+#### Pros
 
 - **Simplicity**: Keras is designed to be easy to use and offers a high-level API, making it accessible to beginners. It allows for rapid prototyping without worrying about the underlying complexity.
 - **Integration with TensorFlow**: Since it’s integrated with TensorFlow, you get the benefits of TensorFlow’s scalability and optimization while keeping the simplicity of Keras.
 - **Pre-trained Models**: Keras provides easy access to many pre-trained models like ResNet, Inception, MobileNet, which are useful for transfer learning.
 
-#### Cons:
+#### Cons
 
 - **Limited Flexibility for Custom Architectures**: Keras is not as flexible as PyTorch or TensorFlow low-level API if you need complex, non-standard layers or architectures.
 
 ### 4. scikit-learn
 
-#### Best For:
+#### Best For
 
 - Traditional machine learning algorithms (e.g., decision trees, SVMs)
 - Small to medium datasets and simpler models
 
-#### Pros:
+#### Pros
 
 - **Best for Classical ML Models**: scikit-learn is the go-to library for traditional machine learning tasks like regression, classification, clustering, etc. It’s efficient for models that don’t require deep learning.
 - **Easy to Use**: The API is clean and simple, with many built-in functions for preprocessing, model selection, and evaluation.
 - **Good for Prototyping**: scikit-learn is excellent for quickly experimenting with traditional machine learning models.
 
-#### Cons:
+#### Cons
 
 - **Not for Deep Learning**: scikit-learn is not designed for deep learning or handling large datasets. For complex models like CNNs, RNNs, or NLP, you need PyTorch or TensorFlow.
 

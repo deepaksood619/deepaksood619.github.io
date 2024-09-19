@@ -130,6 +130,7 @@
 - [GitHub - igorbarinov/awesome-data-engineering: A curated list of data engineering tools for software developers](https://github.com/igorbarinov/awesome-data-engineering)
 - [GitHub - gunnarmorling/awesome-opensource-data-engineering: An Awesome List of Open-Source Data Engineering Projects](https://github.com/gunnarmorling/awesome-opensource-data-engineering)
 - [7 Exciting Data Engineering Projects You Can Start for FREE! | Kaggle](https://www.kaggle.com/discussions/general/446167)
+- [Home | The Write Ahead Log](https://platformatory.io/blog/)
 
 ## Links
 
