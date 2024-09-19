@@ -8,3 +8,5 @@
 - [Libraries](ml-libraries.md)
 - [Tools](ai/libraries/tools.md)
 - [Tensorflow](tensorflow/readme.md)
+- [Keras](ai/libraries/keras.md)
+- [JAX](ai/libraries/jax.md)

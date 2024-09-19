@@ -45,3 +45,5 @@ By Hamilton Helmer
 - **Barrier:** The significant time and/or investment needed to create the process
 
 [7 Powers: The Foundations of Business Strategy by Hamilton Helmer](https://tyastunggal.com/p/7-powers-the-foundations-of-business)
+
+[7 Powers: The Foundations of Business Strategy by Hamilton Helmer | Book Summary - YouTube](https://www.youtube.com/watch?v=5wRU1iSLkrw)

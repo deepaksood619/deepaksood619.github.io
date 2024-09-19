@@ -24,6 +24,8 @@ A CNN system may have somewhere between 3 to 150 or even more layers: The “dee
 
 ![Concept of a Convolutional Neural Network (CNN)](../../media/Pasted%20image%2020240917123109.png)
 
+![CNN Architecture](../../media/Screenshot%202024-09-18%20at%2011.12.53%20PM.jpg)
+
 CNN layers can be of four main types: Convolution Layer, ReLu Layer, Pooling Layer, and Fully-Connected Layer.
 
 - **Convolution Layer:** A convolution is the simple application of a filter to an input that results in an activation. The convolution layer has a set of trainable filters that have a small receptive range but can be used to the full depth of data provided. Convolution layers are the major building blocks used in convolutional neural networks.
@@ -31,6 +33,29 @@ CNN layers can be of four main types: Convolution Layer, ReLu Layer, Pooling Lay
 - **Pooling Layer:** This layer collects the result of all neurons in the layer preceding it and processes this data. The primary task of a pooling layer is to lower the number of considered factors and give streamlined output.
 - **Fully-Connected Layer:** This layer is the final output layer for CNN models that flattens the input data received from layers before it and gives the result.
 
+## [Convolutional Neural Network - YouTube](https://www.youtube.com/playlist?list=PLuhqtP7jdD8CD6rOWy20INGM44kULvrHu)
+
+- Artificial Neural Network (ANN) vs CNN
+- Convolution Operation
+	- Vertical edge features
+	- Horizontal edge features
+- Padding
+	- Valid Convolution
+	- Same Convolution
+- Stride
+- Max Pooling
+	- Reduce image size, thus reduce computational cost
+	- Enhances features of the image
+- Flatten array input to Fully connected layers
+	- Fully connected layers are dense networks of neurons
+	- Applied after convolutional and max pooling layers
+	- Classifies the output
+	- Associate features to a particular label
+- CNN Architecture
+- Backpropagation
+
 ## Links
 
 - [A Complete Guide to Image Classification in 2024 - viso.ai](https://viso.ai/computer-vision/image-classification/)
+- [Introduction to Convolution Neural Network - GeeksforGeeks](https://www.geeksforgeeks.org/introduction-convolution-neural-network/)
+- [Convolutional Neural Networks (CNN) — Architecture Explained | by Dharmaraj | Medium](https://medium.com/@draj0718/convolutional-neural-networks-cnn-architectures-explained-716fb197b243)

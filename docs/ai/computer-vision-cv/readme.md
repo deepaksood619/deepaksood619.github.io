@@ -3,6 +3,7 @@
 - [Computer Vision (CV) Intro](ai/computer-vision-cv/intro.md)
 - [Pre-Trained Models](ai/computer-vision-cv/pre-trained-models.md)
 - [Convolutional Neural Network (CNN)](ai/computer-vision-cv/convolutional-neural-network-cnn.md)
+- [Example](ai/computer-vision-cv/example.md)
 - [Model Building Stages](ai/computer-vision-cv/model-building-stages.md)
 - [Image / Data Labeling Tools](image-data-labeling-tools)
 - [Image Formats](image-formats)

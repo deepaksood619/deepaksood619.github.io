@@ -84,12 +84,9 @@ https://www.tensorflow.org/tfx
 
 ## Others
 
-https://www.toptal.com/python/gradient-descent-in-tensorflow
-
-https://www.youtube.com/watch?v=6g4O5UOH304
-
-https://www.freecodecamp.org/news/how-to-use-tensorflow-for-computer-vision
-
-[Intro to Tensorflow](https://www.youtube.com/playlist?list=PL2-dafEMk2A7EEME489DsI468AB0wQsMV)
-
-https://github.com/tensorflow/models
+- https://www.toptal.com/python/gradient-descent-in-tensorflow
+- https://www.youtube.com/watch?v=6g4O5UOH304
+- https://www.freecodecamp.org/news/how-to-use-tensorflow-for-computer-vision
+- [Intro to Tensorflow](https://www.youtube.com/playlist?list=PL2-dafEMk2A7EEME489DsI468AB0wQsMV)
+- https://github.com/tensorflow/models
+- [Why use Tensorflow? Explaining Tensorflow and why to use it - YouTube](https://www.youtube.com/watch?v=TnVc6kPqr3U)

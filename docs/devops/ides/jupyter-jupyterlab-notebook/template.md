@@ -36,34 +36,24 @@ logging.basicConfig(level=logging.INFO, stream=sys.stdout)
 from ipywidgets import FileUpload
 
 def on_upload_change(change):
-
-if change.new==0:
-
-print ('cleared')
-
-return
+	if change.new==0:
+		print ('cleared')
+	return
 
 up = change.owner
-
 print (type(up.value))
 
 for filename, data in up.value.items():
-
-print(filename)
+	print(filename)
 
 for k, v in data ['metadata'].items():
-
-print(f' -{k:13}:[{v}]')
-
-print(f' -content len :[{len(data ["content"])}]')
+	print(f' -{k:13}:[{v}]')
+	print(f' -content len :[{len(data ["content"])}]')
 
 up.value.clear()
-
 up._counter = 0
 
 upload_btn = FileUpload()
-
 upload_btn.observe(on_upload_change, names='_counter')
-
 upload_btn
 ```

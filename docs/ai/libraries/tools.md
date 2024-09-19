@@ -126,6 +126,11 @@ st.plotly_chart(fig)
 - https://www.freecodecamp.org/news/build-12-data-science-apps-with-python-and-streamlit
 - [Generative AI and Streamlit: A perfect match](https://blog.streamlit.io/generative-ai-and-streamlit-a-perfect-match/)
 - [Building a dashboard in Python using Streamlit](https://blog.streamlit.io/crafting-a-dashboard-app-in-python-using-streamlit/)
+- [Python Interactive Dashboard Development using Streamlit and Plotly - YouTube](https://www.youtube.com/watch?v=7yAw1nPareM)
+- [How to Create a Beautiful Python Visualization Dashboard With Panel/Hvplot - YouTube](https://www.youtube.com/watch?v=uhxiXOTKzfs)
+- [Build a Python Dashboard with ChatGPT Lightning Fast - YouTube](https://www.youtube.com/watch?v=gs4d0_AKQi8)
+- [Build a Analytics Dashboard in Streamlit with Django and Django Rest framework - YouTube](https://www.youtube.com/watch?v=VV202Rydafc)
+- [Streamlit Crash Course: From Zero to Data App - YouTube](https://www.youtube.com/watch?v=d7fnzDQ5qM8)
 
 ## Metaflow
 
@@ -181,9 +186,6 @@ https://www.cortex.dev
 - https://explosion.ai/software
 - https://web.superquery.io
 - [Announcing New Tools for Building with Generative AI on AWS | AWS Machine Learning Blog](https://aws.amazon.com/blogs/machine-learning/announcing-new-tools-for-building-with-generative-ai-on-aws/)
-- [GitHub - google/jax: Composable transformations of Python+NumPy programs: differentiate, vectorize, JIT to GPU/TPU, and more](https://github.com/google/jax)
-    - JAX is NumPy on the CPU, GPU, and TPU, with great automatic differentiation for high-performance machine learning research.
-    - [JAX Quickstart — JAX documentation](https://jax.readthedocs.io/en/latest/notebooks/quickstart.html)
 
 ## SAAS Tools
 

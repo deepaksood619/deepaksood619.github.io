@@ -83,6 +83,11 @@
     - My repository where I maintain all the competitive programming questions that I have solved. It's a collection of problems from various sites like HackerRank, GeeksForGeeks, HackerEarth, CodeChef, LeetCode, and basic algorithms and data structure questions
 - [Others](about-me/projects/98-others.md)
 
+### Kaggle Notebooks
+
+- [Kaggle: Detecting Plant Diseases | Pytorch](https://www.kaggle.com/code/deepaksood619/detecting-plant-diseases-pytorch)
+- [Kaggle: Your Home for Data Science](https://www.kaggle.com/code/deepaksood619/image-classification-using-cnn-keras/)
+
 ## College Projects
 
 ### Sangoshthi: Phase - 2 Deployment, Guide: Dr. Pushpendra Singh, (Apr'17 - July'18)

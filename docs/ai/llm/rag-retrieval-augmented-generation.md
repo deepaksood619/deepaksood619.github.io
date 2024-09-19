@@ -41,6 +41,8 @@ RAG is an AI framework for retrieving facts from an external knowledge base to g
 
 [Advanced RAG Techniques: Unlocking the Next Level | by Tarun Singh | Medium](https://medium.com/@krtarunsingh/advanced-rag-techniques-unlocking-the-next-level-040c205b95bc)
 
+RIG - Retrieval Interleaved Generation - [DataGemma through RIG and RAG - by Bugra Akyildiz](https://mlops.substack.com/p/datagemma-through-rig-and-rag)
+
 ## Links
 
 - [What is RAG (Retrieval-Augmented Generation)?](https://aws.amazon.com/what-is/retrieval-augmented-generation)

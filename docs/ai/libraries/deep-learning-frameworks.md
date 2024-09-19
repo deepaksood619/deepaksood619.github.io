@@ -137,6 +137,15 @@ Open source machine learning library. Often used for neural networks, deep learn
 - **Use scikit-learn**:
     - For traditional machine learning models and small to medium-sized datasets.
 
+| Keras                      | Tensorflow                                  |
+| -------------------------- | ------------------------------------------- |
+| Easy to code               | Not so easy to code                         |
+| Training the model is slow | Training the model is fast                  |
+| Used for rapid prototyping | Used for bigger and high level applications |
+| Lesser need to debug       | Bit difficult to debug                      |
+| Used for small dataset     | Used for large dataset                      |
+| Smaller community support  | bigger community support                    |
+
 ### Conclusion
 
 If you are building a **deep learning computer vision model**, **PyTorch** or **TensorFlow (Keras)** are the primary options. Use **PyTorch** for flexibility and ease of debugging, and **TensorFlow** if you need scalability, optimization, and deployment tools.

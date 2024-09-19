@@ -202,6 +202,24 @@ The easiest way to do so is to useimport my_modulesyntax, rather thanfrom my_mod
 
 `python -m package.standalone`
 
+## gdown - Download data from Drive
+
+Download data to Kaggle Kernel or any other place
+
+```python
+import gdown
+
+files = {'labels.csv': 'https://drive.google.com/uc?id=1Zy3y6wBLZTI67BZhXzwQtgWJ8m50Oggl',
+        'labels_test.csv': 'https://drive.google.com/uc?id=1cGDczlanBC59TbpNIe8_s0-yUtIrmnwm',
+        'input.csv': 'https://drive.google.com/uc?id=1jQ16W4DJG1ZfJ_R7V_9cQIALwN3lruE5',
+        'input_test.csv': 'https://drive.google.com/uc?id=1JHblwM88w4g70lZwiLDf6qPz8t0wZnd6'}
+    
+
+for output, url in files.items():
+    print(url, output)
+    gdown.download(url, output, quiet=False)
+```
+
 ## Others
 
 - https://dev.libreneitor.com/expert-python-topics-you-should-know

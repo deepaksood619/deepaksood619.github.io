@@ -54,3 +54,7 @@ Zaggle is a fintech company providing innovative solutions for the day-to-day fi
 NSE: RAYMONDLSL
 
 [Raymond Lifestyle: The Incomplete Man (Since 2024)](https://shankarnath.substack.com/p/raymond-lifestyle)
+
+## Links
+
+- [Top 7 Emerging Themes for 2025 - YouTube](https://www.youtube.com/watch?v=spd7g32drt8)

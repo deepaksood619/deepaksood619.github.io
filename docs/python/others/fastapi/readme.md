@@ -200,3 +200,5 @@ async def foo() -> SomeModel:
 [Awesome FastAPI | | Curated list of awesome lists | Project-Awesome.org](https://project-awesome.org/mjhea0/awesome-fastapi)
 
 [FastAPI Handbook - How to Develop, Test, and Deploy APIs](https://www.freecodecamp.org/news/fastapi-quickstart/)
+
+[FARM Stack Course – Full Stack Development with FastAPI, React MongoDB - YouTube](https://www.youtube.com/watch?v=PWG7NlUDVaA)
