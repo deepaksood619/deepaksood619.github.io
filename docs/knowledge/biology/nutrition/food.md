@@ -212,6 +212,10 @@ Smooth, bright, seedless, conveniently wrapped; the banana is the original fast 
 
 [Difference between homogenized and pasteurized milk and which one is safe | The Times of India](https://timesofindia.indiatimes.com/life-style/food-news/difference-between-homogenized-and-pasteurized-milk-and-which-one-is-safe/photostory/89508297.cms?from=mdr)
 
+[Is A2 milk a marketing gimmick?](https://finshots.in/archive/is-a2-milk-a-marketing-gimmick-fssai-india-a1-a2-milk-exports-amul-nandini-gcmmf-kmf/)
+
+[Is A2 milk a cash-cow? - The Whole Truth](https://thewholetruthfoods.com/learn/truth-be-told/is-a2-milk-a-cash-cow)
+
 ## Fruits
 
 ![image](../../../media/Nutrition_Food-image4.jpg)

@@ -1,12 +1,23 @@
 # Insurance
 
+## Term Insurance
+
+How much cover is needed
+
+- Current Expenses - ₹1 lakh / Month
+- Inflation - 5%
+- Till 60 years - ₹4.1 Crore - At 2054 - ₹4.54 L / Month
+- Till 70 years - ₹7.7 Crore - At 2064 - ₹7.39 L / Month
+- Till 80 years - ₹10.9 Crore - At 2074 - ₹12.04 L / Month
+
+[Term Insurance Plan Calculator 2024 | Ditto](https://joinditto.in/term-insurance/cover-calculator/)
+
 ![How to select a term insurance plan](../media/Pasted%20image%2020240913155100.jpg)
 
-## Links
+### Links
 
-[Reality of Money Back Plans, Guaranteed Income, Endowment | Insurance + Investment? | LLA - YouTube](https://www.youtube.com/watch?v=GqYfI1h4_Yg)
-
-[Term Insurance : Ultimate Guide | Watch this to Avoid Scams | LLA - YouTube](https://www.youtube.com/watch?v=FFWtUThoPqw)
+- [Reality of Money Back Plans, Guaranteed Income, Endowment | Insurance + Investment? | LLA - YouTube](https://www.youtube.com/watch?v=GqYfI1h4_Yg)
+- [Term Insurance : Ultimate Guide | Watch this to Avoid Scams | LLA - YouTube](https://www.youtube.com/watch?v=FFWtUThoPqw)
 
 ### ULIPs (Unit Linked Insurance Products)
 

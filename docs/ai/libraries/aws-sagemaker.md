@@ -205,3 +205,5 @@ https://aws.amazon.com/blogs/aws/managed-spot-training-save-up-to-90-on-your-ama
 ![image](../../media/AWS-Sagemaker-image7.jpg)
 
 https://aws.amazon.com/blogs/machine-learning/understanding-amazon-sagemaker-notebook-instance-networking-configurations-and-advanced-routing-options
+
+[AWS Innovate | Intro to Deep Learning: Building an Image Classifier on Amazon SageMaker - YouTube](https://www.youtube.com/watch?v=KCzgR7eQ3PY&ab_channel=AmazonWebServices)

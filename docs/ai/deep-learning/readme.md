@@ -1,5 +1,6 @@
 # Deep Learning
 
+- [Roadmap](ai/deep-learning/roadmap.md)
 - [DL Specialization](dl-specialization)
 - [Neural network and deep learning](neural-network-and-deep-learning)
 - [Components](ai/deep-learning/components.md)

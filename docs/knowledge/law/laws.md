@@ -45,6 +45,16 @@ The **Digital Millennium Copyright Act** (**DMCA**) is a 1998 United States [
 - World justice project
 - Rule of law index
 
+## Data Room / Virtual Data Room (VDR)
+
+A data room is a secure place to store and share confidential documents, usually for legal proceedings or business transactions.
+
+[Data room - Wikipedia](https://en.wikipedia.org/wiki/Data_room)
+
+A virtual data room (sometimes called a VDR or Deal Room) is an online repository of information that is used for the storing and distribution of documents. In many cases, a virtual data room is used to facilitate the due diligence process during an M&A transaction, loan syndication, or private equity and venture capital transactions. This due diligence process has traditionally used a physical data room to accomplish the disclosure of documents. For reasons of cost, efficiency and security, virtual data rooms have widely replaced the more traditional physical data room.
+
+[Virtual data room - Wikipedia](https://en.wikipedia.org/wiki/Virtual_data_room)
+
 ## Links
 
 [Best Judgments of 2022](https://www.youtube.com/watch?v=zfEf53ghkV0)

@@ -94,6 +94,9 @@ https://blueyonder.com
 
 [Level up your Google Workspace knowledge - YouTube](https://www.youtube.com/watch?v=_WNIvJozdMY)
 
+- [Google Workspace Essentials | Google Cloud Skills Boost](https://www.cloudskillsboost.google/course_templates/779)
+- [Google Cloud Skills Boost](https://www.cloudskillsboost.google/paths/23)
+
 ## Google Photos Alternative
 
 https://github.com/photoprism/photoprism

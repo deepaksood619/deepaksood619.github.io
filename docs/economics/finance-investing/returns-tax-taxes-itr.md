@@ -164,7 +164,19 @@ If people have to invest or spend more, they need to earn at least ₹2.5lks/yr?
 - If the total revenue from freelancing work is not more than Rs. 20 lakhs, then GST does not apply.
 - GST returns have to be filed quarterly or monthly based on your turnover and if you have opted for the composition scheme. Composition dealers and those with annual sales below Rs.1.5 crore for the supply of goods can file quarterly returns. **For service providers, the limit is Rs.50 lakhs.**
 
-### Deducations
+### 44ADA - Presumptive Tax Scheme for Professionals
+
+The benefit of section 44ADA can be taken only by those specified professionals whose annual gross receipts are under Rs.50 lakh (This limit is Rs.75 lakh, provided 95% of the receipts are through recognised banking channels).
+
+The presumptive scheme of taxation reduces the compliance burden on small professions and facilitates ease of doing business. Under the presumptive scheme of taxation, profits/taxable income is presumed at 50% of the gross receipts.
+
+Taxes can be significantly reduced. For 60 lakh under 44ADA tax is only around 7L instead of 12L in normal method.
+
+[Section 44ADA – Presumptive Tax Scheme for Professionals](https://cleartax.in/s/section-44ada)
+
+[Section 44ADA - Presumptive Tax for Professionals](https://groww.in/p/tax/section-44ada-of-income-tax-act)
+
+### Deductions
 
 - Rent of the property
 - Repairs undertaken

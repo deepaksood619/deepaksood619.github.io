@@ -316,3 +316,4 @@ Discovery commerce is the equivalent of 'I'm feeling lucky' in Google searches. 
 - [GitHub - sdg-1/consulting-handbook: A guide for technical professionals looking to start consulting](https://github.com/sdg-1/consulting-handbook)
 - [I Broke Down A Shocking Report About The Indian Luxury Market! - YouTube](https://www.youtube.com/watch?v=o5AAI5WaMFE)
 - [Co-Founder Equity Mistakes to Avoid | Startup School - YouTube](https://www.youtube.com/watch?v=DISocTmEwiI)
+- [Business Building Masterclass - Idea to Product ✈️ - YouTube](https://www.youtube.com/watch?v=juZmbYfGmiU&ab_channel=LabourLawAdvisor)

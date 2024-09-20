@@ -62,9 +62,11 @@ A sequence of chained transactions T1-Tn and compensating transactions C1-Cn−1
 
 A schedule is a series of operations from one or more transactions. A schedule can be of two types:
 
-- **Serial Schedule:**
+### Serial Schedule
 
-When one transaction completely executes before starting another transaction, the schedule is called serial schedule. A serial schedule is always consistent. e.g.; If a schedule S has debit transaction T1 and credit transaction T2, possible serial schedules are T1 followed by T2 (T1->T2) or T2 followed by T1 ((T1->T2). A serial schedule has low throughput and less resource utilization.- **Concurrent Schedule:**
+When one transaction completely executes before starting another transaction, the schedule is called serial schedule. A serial schedule is always consistent. e.g.; If a schedule S has debit transaction T1 and credit transaction T2, possible serial schedules are T1 followed by T2 (T1->T2) or T2 followed by T1 ((T1->T2). A serial schedule has low throughput and less resource utilization.
+
+### Concurrent Schedule
 
 When operations of a transaction are interleaved with operations of other transactions of a schedule, the schedule is called Concurrent schedule. But concurrency can lead to inconsistency in the database.
 

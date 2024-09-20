@@ -223,6 +223,7 @@
 
 - [**Lineax**](https://github.com/google/lineax) - a JAX library for linear solves and linear least squares. [Launch Tweet](https://twitter.com/PatrickKidger/status/1666451005901357062).
 - [**pyribs**](https://github.com/icaros-usc/pyribs/) - a bare-bones Python library for quality diversity optimization.
+- [Integrate Generative AI Into Your Applications Using LLMs - YouTube](https://www.youtube.com/watch?v=o5D6xBlDLC4&ab_channel=AWSDevelopers)
 
 ### Reinforcement Learning
 

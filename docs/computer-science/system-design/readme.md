@@ -45,11 +45,13 @@ This pattern solves the transmission of large messages. It stores the whole mess
 
 This pattern prioritizes requests sent to services so that requests with a higher priority are received and processed more quickly than those with a lower priority.
 
-### Saga
+### Saga Pattern
 
 Saga is used to manage data consistency across multiple services in distributed systems, especially in microservices architectures where each service manages its own database.
 
 The saga pattern addresses the challenge of maintaining data consistency without relying on distributed transactions, which are difficult to scale and can negatively impact system performance.
+
+[The Saga Pattern - ByteByteGo Newsletter](https://blog.bytebytego.com/p/the-saga-pattern)
 
 ### Competing Consumers
 

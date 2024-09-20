@@ -58,7 +58,6 @@ In early career, taking bets vs random job hopping is critical
 - Triplebyte
 - GlassDoor
 - Wantedly
-- Upwork
 - Angel list
 - Snaphunt
 - optimhire
@@ -126,6 +125,7 @@ In early career, taking bets vs random job hopping is critical
 - Freelancer.com
 - freelancermap.com
 - Upwork
+- [Freeup](https://freeup.net/)
 - Gun.io
 - CloudPeeps
 - Textbroker International
@@ -133,7 +133,6 @@ In early career, taking bets vs random job hopping is critical
 - SOLID GIGS
 - Keylime (International Development)
 - Fiverr
-- Upwork
 
 ### General Interest Job Sites with Remote Search Filters
 

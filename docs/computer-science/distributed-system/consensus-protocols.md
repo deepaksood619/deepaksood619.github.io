@@ -98,7 +98,7 @@ Google relies on Paxos for its high-replication datastore in App Engine as well 
 
 https://bravenewgeek.com/understanding-consensus
 
-## SAGA (Asynchronous Distributed Transactions)
+## SAGA Pattern (Asynchronous Distributed Transactions)
 
 ### Context
 
