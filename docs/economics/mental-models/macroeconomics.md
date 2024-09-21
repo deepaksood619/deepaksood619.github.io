@@ -179,5 +179,6 @@ The **impossible trinity** (also known as **the impossible [trilemma](https://en
 - [Compute and the role it plays in AI](https://mlops.substack.com/p/compute-and-the-role-it-plays-in)
 - [Americans Distrusting Capitalism!! | Lessons For India?? | Deshbhakt Conversation With Ruchir Sharma - YouTube](https://www.youtube.com/watch?v=mEIo91ZHrFU)
 - [Where Will the Money and Productivity Come From?](https://www.linkedin.com/pulse/where-money-productivity-come-from-ray-dalio-fetve/)
+- [Fed up with Fed Talk: Central Banking Fairy Tales and Facts! - YouTube](https://www.youtube.com/watch?v=RpuuRS6mkx8&ab_channel=AswathDamodaran)
 
 ## End

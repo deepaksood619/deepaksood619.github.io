@@ -46,4 +46,20 @@ A guide to choosing your personal philosohy
 6. Turn your Jealousy into positive response
 7. Spend money to save your time
 
+[6 lessons I Wish I Had Learned Sooner - YouTube](https://www.youtube.com/watch?v=v-KwURYzPvA&ab_channel=BetterThanYesterday)
+
+1. Health is everything (Health is wealth)
+	1. Get enough sunlight
+	2. Get enough sleep
+	3. Exercise regularly
+	4. Avoid junk food, smoke, drinks
+	5. Learn to manage stress
+2. Control your environment to control your life
+3. Stay true to yourself
+4. Your mind needs rest
+5. Manage your energy, not your time
+6. Good day, Great life
+	1. If everyday is good, whole life is great.
+	2. Don't live for 2 weeks while toiling for whole year
+
 [Effective altruism](../knowledge/others/philosophy#effective-altruism)

@@ -230,6 +230,7 @@
 - [Garys Economics - YouTube](https://www.youtube.com/@garyseconomics)
 - [Econ - YouTube](https://www.youtube.com/@econyt)
 - [SOIC - YouTube](https://www.youtube.com/@soicfinance)
+- [Rainmatter by Zerodha - YouTube](https://www.youtube.com/@rainmatterin)
 
 #### Trading
 

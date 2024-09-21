@@ -12,7 +12,7 @@ Satendra Kumar Verma
 
 ## Divorce
 
-[Fetching Title#2t9w](https://news.onepercentclub.io/legal/how-much-does-it-cost-to-hire-a-good-divorce-lawyer-in-india/6003/)
+[How much does it cost to hire a good Divorce Lawyer in India? - The 1% News](https://news.onepercentclub.io/legal/how-much-does-it-cost-to-hire-a-good-divorce-lawyer-in-india/6003/)
 
 ## Writ
 

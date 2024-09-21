@@ -457,4 +457,4 @@ Relatedness refers to our will to connect with others, interact and care for oth
 
 ## Links
 
-- [Fetching Title#0bbd](https://www.gallup.com/workplace/645299/strengths-weaknesses-blind-spots-managers.aspx)
+- [The Strengths, Weaknesses and Blind Spots of Managers](https://www.gallup.com/workplace/645299/strengths-weaknesses-blind-spots-managers.aspx)
