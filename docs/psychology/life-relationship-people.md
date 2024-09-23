@@ -215,22 +215,6 @@ You have a boundary issue if...
 
 https://deepstash.com/article/3412/the-guide-to-strong-boundaries
 
-## Trust
-
-Trust does not mean that others have to do things the way you expect them to. Trust means to become vulnerable.
-
-Trust involves vulnerability, which involves risk. So **Dispositional Trust,** is tied to an idea called **Risk Aversion**, or how much you avoid risks.
-
-"Friends are better than money. Almost anything money can do, friends can do better. In so many ways a friend with a boat is better than owning a boat."
-
-Being honest may not get you a lot of friends but it'll always get you the right ones. -- John Lennon
-
-![image](../media/Life-Relationship-People-image3.jpg)
-
-Cognitive trust can be earned by Competence, Intent and Integrity.
-
-https://ideas.ted.com/there-are-three-sides-to-every-argument
-
 ## Types of people
 
 1. Maker

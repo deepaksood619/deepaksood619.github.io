@@ -1,4 +1,4 @@
-# Comparisons
+# File Format Comparisons
 
 ## Avro vs Protobuf
 

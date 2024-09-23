@@ -94,6 +94,18 @@ http://jmespath.org
 
 http://jmespath.org/tutorial.html
 
+## JSON_SR
+
+`JSON_SR` is a format used for serializing and deserializing JSON data with a schema registered in a Schema Registry, typically in a Kafka environment. The key distinction between regular `JSON` and `JSON_SR` is that `JSON_SR` also handles the registration of the schema in a schema registry, ensuring that both the structure of the data and the data itself are stored. This is particularly useful in systems like Kafka Streams and ksqlDB, where managing schema evolution and data validation is critical.
+
+Using `JSON_SR` allows for both reading and writing schemas while working with Kafka topics, ensuring data consistency and compatibility across different systems. In contrast, standard `JSON` serialization does not include schema metadata, which can lead to deserialization errors if the data structure is modified without proper schema management.
+
+In essence, `JSON_SR` is beneficial in scenarios where you need strict schema control for JSON data in Kafka systems
+
+[Why JSON isn’t the same as JSON Schema in Kafka Connect converters and ksqlDB (Viewing Kafka messages bytes as hex)](https://rmoff.net/2020/07/03/why-json-isnt-the-same-as-json-schema-in-kafka-connect-converters-and-ksqldb-viewing-kafka-messages-bytes-as-hex/)
+
+[ksqlDB Serialization Formats](https://docs.ksqldb.io/en/0.10.0-ksqldb/developer-guide/serialization/)
+
 ## References
 
 http://json.org

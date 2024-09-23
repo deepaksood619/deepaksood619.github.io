@@ -168,5 +168,3 @@ https://www.toptal.com/finance/finance-directors/interview-questions
 [Glossary of Financial Management Terms | Springer Publishing](https://connect.springerpub.com/content/book/978-0-8261-6199-4/back-matter/bmatter2)
 
 [Financial Ratios](https://www.investopedia.com/financial-ratios-4689817)
-
-[Why Should Wealth Industry Think Beyond IRR - YouTube](https://www.youtube.com/watch?v=rc3y9EwDj5c&ab_channel=RainmatterbyZerodha)

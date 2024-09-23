@@ -3,6 +3,7 @@
 - [Career](management/jobs/career.md)
 - [Companies](management/jobs/companies.md)
 - [Questions to Company](management/jobs/questions-to-company.md)
+- [Finance / Equity / Stocks / ESOPS Questions](management/jobs/finance-equity-stocks-esops-questions.md)
 - [Good Profiles](management/jobs/good-profiles.md)
 - [Resume Keywords Pointers](management/jobs/resume-keywords-pointers.md)
 - [Hiring Plan / HR / Recruiting](management/jobs/hiring-plan-hr-recruiting.md)

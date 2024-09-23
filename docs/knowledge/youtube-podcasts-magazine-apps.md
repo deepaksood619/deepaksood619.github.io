@@ -402,6 +402,7 @@
 - [Acquired Podcast](https://www.acquired.fm/)
 - Empire
 - [Choiceology | Charles Schwab](https://www.schwab.com/learn/choiceology)
+- [Home - We Can Do Hard Things - The Podcast](https://wecandohardthingspodcast.com/)
 
 https://www.freecodecamp.org/news/best-tech-podcasts-for-software-developers
 

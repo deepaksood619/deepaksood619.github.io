@@ -64,3 +64,43 @@ def lambda_handler(event, context):
 - Lambda becomes more expensive than EC2 Spot Instance (including EBS) when the Lambda workload increases (8 requests per hour).
 
 [Lambda vs EC2 cost - AWS Pricing Calculator](https://calculator.aws/#/estimate?id=aaae8951c6dbd405046d9682f381355fe1d1fe10)
+
+## Working
+
+![What makes aws lambda fast](../../../media/Pasted%20image%2020240924013035.jpg)
+
+### What makes AWS Lambda so fast?
+
+There are 4 main pillars:
+
+### 1 -  Function Invocation
+
+AWS Lambda supports synchronous and asynchronous invocation.
+
+In synchronous invocation, the caller directly calls the Lambda function using AWS CLI, SDK, or other services.
+
+In asynchronous invocation, the caller doesn’t wait for the function’s response. The request is authorized and an event is placed in an internal SQS queue. Pollers read messages from the queue and send them for processing.
+
+### 2 - Assignment Service
+
+The Assignment Service manages the execution environments. 
+
+The service is written in Rust for high performance and is divided into multiple partitions with a leader-follower approach for high availability. 
+
+The state of execution environments is written to an external journal log.
+
+### 3 - Firecracker MicroVM
+
+Firecracker is a lightweight virtual machine manager designed for running serverless workloads such as AWS Lambda and AWS Fargate. 
+
+It uses Linux’s Kernel-based virtual machine to create and manage secure, fast-booting microVMs.
+
+### 4 - Component Storage
+
+AWS Lambda also has to manage the state consisting of input data and function code.
+
+To make it efficient, it uses multiple techniques:
+
+- Chunking to store the container images more efficiently.
+- Using convergent encryption to secure the shared data. This involves appending additional data to the chunk to compute a more robust hash.
+- SnapStart feature to reduce cold start latency by pre-initializing the execution environment 

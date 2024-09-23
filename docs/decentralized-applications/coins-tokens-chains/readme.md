@@ -123,12 +123,6 @@ A wrapped token is a tokenized version of another cryptocurrency which is pegged
 - [A Decentralized Youtube: How Odysee and LBRY Work - YouTube](https://www.youtube.com/watch?v=RCB_udRbF7Q)
 - [What is Terra? UST and LUNA explained with Animations - YouTube](https://www.youtube.com/watch?v=U9lrH0loAns)
 - [How To Get Started With Constellation Network](https://milkroad.com/invest/constellation-network/)
-- [Aptos Labs - Opening the gateway to the Aptos Network](https://aptoslabs.com/)
-    - [Aptos Blockchain Deep Dive | Aptos Docs](https://aptos.dev/concepts/blockchain/)
-    - Wallets - [Wallets - Aptos Ecosystem Projects](https://aptosfoundation.org/ecosystem/projects/wallets)
-        - Trust Wallet
-        - [Aptos & Sui Wallet | Leading Crypto Wallet by Martian](https://martianwallet.xyz/)
-        - [Petra](https://petra.app/) by Aptos Labs
 
 #### Chainlink (Oracle) - LINK
 
@@ -176,6 +170,52 @@ Cosmos is a decentralized network of independent parallel blockchains, each powe
 [Cosmos: Complete Beginner’s Guide & TOP Projects!! ⚛️ - YouTube](https://www.youtube.com/watch?v=sgIGVsg51W8)
 
 [Tendermint](https://tendermint.com/)
+
+### Aptos
+
+- [Aptos Labs - Opening the gateway to the Aptos Network](https://aptoslabs.com/)
+- [Aptos Blockchain Deep Dive | Aptos Docs](https://aptos.dev/concepts/blockchain/)
+
+#### Developer
+
+- [Aptos Blockchain For Beginners: What is it and How Does it Work? - YouTube](https://www.youtube.com/watch?v=vJXn7n2799c&ab_channel=KeyStrokes)
+
+#### Wallets - [Wallets - Aptos Ecosystem Projects](https://aptosfoundation.org/ecosystem/projects/wallets)
+
+- Trust Wallet
+- [Aptos & Sui Wallet | Leading Crypto Wallet by Martian](https://martianwallet.xyz/)
+- [Petra](https://petra.app/) by Aptos Labs
+
+#### Links
+
+- [Aptos Review: APT Any Potential?! This You NEED To Know!! - YouTube](https://www.youtube.com/watch?v=t6DSYcpJDuk&ab_channel=CoinBureau)
+	- Libra -> Diem -> Aptos + Sui
+
+## Differences
+
+### Aptos vs HyperLedger Fabric
+
+#### Hyperledger Fabric
+
+- **Purpose**: Designed specifically for enterprise use, Hyperledger Fabric is a permissioned blockchain platform tailored for private and consortium networks.
+- **Architecture**: Fabric supports modular architecture, allowing customization of consensus protocols, membership services, and other components. It provides fine-grained control over the network, which is critical for private blockchains.
+- **Privacy**: Fabric is well-suited for use cases requiring privacy and confidentiality. It offers features like private channels, where subsets of participants can transact in isolation from the rest of the network.
+- **Governance**: As a permissioned network, Hyperledger Fabric provides robust governance mechanisms that allow organizations to control who can join the network and what they can do.
+- **Smart Contracts**: Hyperledger Fabric uses chaincode (smart contracts) written in Go, Java, or JavaScript, which can be executed on the blockchain.
+- **Adoption**: It has wide adoption in industries like finance, supply chain, and healthcare, where private, controlled environments are crucial.
+
+#### Aptos Blockchain
+
+- **Purpose**: Aptos is a newer blockchain focused on providing high throughput, low latency, and enhanced security. It’s more geared towards public blockchain use cases, particularly in decentralized finance (DeFi) and decentralized applications (DApps).
+- **Architecture**: Aptos features a Byzantine Fault Tolerant (BFT) consensus mechanism, designed for scalability and performance in a public or hybrid blockchain environment.
+- **Privacy**: While Aptos can support permissioned environments, it is not as inherently tailored for private blockchain use as Hyperledger Fabric.
+- **Governance**: Governance in Aptos is more decentralized, which might not align with the needs of a private blockchain requiring centralized control and management.
+- **Smart Contracts**: Aptos uses the Move programming language for smart contracts, which is designed for security and flexibility, but it may not be as familiar or supported in enterprise environments as the languages used by Hyperledger Fabric.
+- **Adoption**: As a newer platform, Aptos is still growing its ecosystem and is more experimental compared to the established enterprise focus of Hyperledger Fabric.
+
+For setting up a **private blockchain**, **Hyperledger Fabric** is more suitable due to its enterprise-focused design, extensive privacy features, and customizable architecture that aligns well with the needs of private, permissioned networks. Aptos, on the other hand, is better suited for high-performance public or hybrid blockchains.
+
+Moreover, Hyperledger Fabric is also available at AWS as Amazon Managed Blockchain (AMB). [https://docs.aws.amazon.com/managed-blockchain/latest/hyperledger-fabric-dev/what-is-managed-blockchain.html](https://docs.aws.amazon.com/managed-blockchain/latest/hyperledger-fabric-dev/what-is-managed-blockchain.html)
 
 ## Chain Sizes
 

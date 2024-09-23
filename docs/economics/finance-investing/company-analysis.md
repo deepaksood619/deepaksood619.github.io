@@ -55,6 +55,10 @@ NSE: RAYMONDLSL
 
 [Raymond Lifestyle: The Incomplete Man (Since 2024)](https://shankarnath.substack.com/p/raymond-lifestyle)
 
+## Others
+
+- [Ceigall India Ready to Soar Higher: 70% Upside on Strong Order Pipeline 🕊️](https://shankarnath.substack.com/p/ceigall-india)
+
 ## Links
 
 - [Top 7 Emerging Themes for 2025 - YouTube](https://www.youtube.com/watch?v=spd7g32drt8)

@@ -52,3 +52,5 @@ https://in.pinterest.com/pin/thin-body-workout--801077852487590084
 [Shankha Prakshalana - Laghu Shankha Prakshalana: Method, Benefits](https://www.easyayurveda.com/2018/01/16/laghu-shankha-prakshalana/)
 
 [Safety and usefulness of Laghu shankha prakshalana in patients with essential hypertension: A self controlled clinical study - PMC](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4296435/)
+
+[Movement Expert: Ideal Workouts From 0 to 70+ - YouTube](https://www.youtube.com/watch?v=CL_mkrcNEKE&ab_channel=BryanJohnson)

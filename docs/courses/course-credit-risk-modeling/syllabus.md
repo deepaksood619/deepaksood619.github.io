@@ -3,6 +3,7 @@
 - [Intro](courses/course-credit-risk-modeling/intro.md)
 - [Credit and Debt](courses/course-credit-risk-modeling/credit-and-debt.md)
 - [Decision Areas and Credit Scorecards](courses/course-credit-risk-modeling/decision-areas-and-credit-scorecards.md)
+- [Fraud Types](courses/course-credit-risk-modeling/fraud-types.md)
 - [Fraud Features](courses/course-credit-risk-modeling/fraud-features.md)
 - [Fraud Detection and Prevention](courses/course-credit-risk-modeling/fraud-detection-and-prevention.md)
 - https://365datascience.teachable.com/p/credit-risk-modeling-in-python

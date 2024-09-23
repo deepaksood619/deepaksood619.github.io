@@ -131,6 +131,7 @@ Hydra don't age
 - [Does Bryan Johnson’s $2m biohacking routine actually work? We tested it to see | Hard Reset - YouTube](https://www.youtube.com/watch?v=ECTBg2AtOfc&ab_channel=Freethink)
 - [How I Reversed My Hair Loss + Greying - YouTube](https://www.youtube.com/watch?v=F25RiUZQSLQ&ab_channel=BryanJohnson)
 - [How I FIXED My Terrible Sleep - 10 Habits - YouTube](https://www.youtube.com/watch?v=Wk9p3dhMYdk&ab_channel=BryanJohnson)
+- [Scientists find humans age dramatically in two bursts – at 44, then 60 | Medical research | The Guardian](https://www.theguardian.com/science/article/2024/aug/14/scientists-find-humans-age-dramatically-in-two-bursts-at-44-then-60-aging-not-slow-and-steady)
 
 ## Links
 

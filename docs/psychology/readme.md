@@ -8,6 +8,7 @@
 - [Burnout](psychology/burnout.md)
 - [Self Awareness](self-awareness)
 - [Power](power)
+- [Trust](psychology/trust.md)
 - [Psychology](psychology/intro.md)
 - [Criticism / Criticizing / Criticize / Critic](criticism)
 - [Biases / Fallacies](biases-fallacies)

@@ -193,6 +193,13 @@ https://www.edx.org/course/finance-everyone-smart-tools-decision-michiganx-fin10
 
 Additional Tax Benefit is available to Subscribers under Corporate Sector, under section 80CCD (2) of Income Tax Act. Employer's NPS contribution (for the benefit of employee) up to 10 per cent of salary (Basic + DA), is deductible from taxable income, up to 7.5 Lakh
 
+NPS Vatsalya
+
+- [NPS Vatsalya: Your child can get more than Rs 10 crore on retirement if you put Rs 10,000 a year till he is 18; how to invest in NPS Vatsalya](https://economictimes.indiatimes.com/wealth/invest/nps-vatsalya-your-child-can-get-more-than-rs-10-crore-on-retirement-if-you-put-rs-10000-a-year-till-he-is-18-how-to-invest-in-nps-vatsalya/articleshow/113481724.cms?from=mdr)
+- [NPS Vatsalya Scheme: Eligibility, Tax Benefits and How to Apply Online?](https://cleartax.in/s/nps-vatsalya-scheme)
+- Taxation is not announced yet
+- [What you need to know before considering NPS Vatsalya](https://freefincal.com/what-you-need-to-know-before-considering-nps-vatsalya/)
+
 ## International
 
 - MSCI World Index

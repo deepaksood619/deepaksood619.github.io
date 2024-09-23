@@ -17,7 +17,7 @@
 - [Investment Banking](investment-banking)
 - [Market Terms](market-terms/readme.md)
 - [Financial Facts](financial-facts)
-- [NBFC / Banking / Terms](economics/nbfc-banking-terms.md)
+- [NBFC / Banking / Terms](economics/fintech-nbfc-banking-terms.md)
 - [BNPL](economics/buy-now-pay-later-bnpl.md)
 - [Mutual Funds](economics/mutual-funds/readme.md)
 - [Insurance](economics/insurance.md)

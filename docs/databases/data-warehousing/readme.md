@@ -18,7 +18,21 @@
 - [Master Data Management (MDM)](databases/data-warehousing/master-data-management-mdm.md)
 - [Tools](databases/data-warehousing/tools.md)
 
-### Others
+## Data / File Formats
+
+- [File Formats](networking/others/file-formats.md)
+- [File Format Comparisions](networking/others/file-formats-comparisons.md)
+- [Data Formats](networking/others/data-formats.md)
+- [Apache Avro](networking/others/apache-avro.md)
+- [Apache Parquet](networking/others/apache-parquet.md)
+- [Delta Lake](networking/others/delta-lake.md)
+- [Delta Lake Tutorial](networking/others/delta-lake-tutorial.md)
+- [Serialization / Deserialization](networking/others/serialization-deserialization.md)
+- [Protocol Buffers / Protobuf](networking/others/protocol-buffers-protobuf.md)
+- [RPC](networking/others/rpc.md)
+- [gRPC](networking/others/grpc/readme.md)
+
+## Others
 
 - [Databricks](technologies/databricks/readme.md)
-- [10-medallion-architecture](technologies/databricks/10-medallion-architecture.md)
+- [Medallion Architecture](technologies/databricks/10-medallion-architecture.md)

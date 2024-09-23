@@ -1,4 +1,4 @@
-# NBFC / Banking Terms
+# Fintech / NBFC / Banking Terms
 
 ## Banking Parameters
 
@@ -147,6 +147,7 @@ A loan tape is a snapshot of a fintech's customer base and outstanding balances,
 - AML - Anti Money Laundering
 - Travel Rule
 - MOB - Monthly Outstanding Balance
+- FOIR - fixed obligation to income ratio / debt-to-income ratio
 
 ## Credit Bureaus
 
@@ -170,54 +171,55 @@ A loan tape is a snapshot of a fintech's customer base and outstanding balances,
 ## Fintech players
 
 1. Stashfin
-2. https://www.sliceit.com
-3. Dhani 50m+
-4. Red carpet (RedCarpetUp)
-5. dmifinance - [Best Non-Banking Finance Company | Powering India's Digital Lending Ecosystem](https://www.dmifinance.in/)
-6. Ok credit
-7. CreditMantri
-8. Moneytap
-9. CashTap
-10. Earlysalary
-11. https://www.truebalance.io
-12. Navi
-13. KreditBee
-14. Cashbean
-15. Kissht - 10m+
-16. Moneyview
-17. Fairmoney
-18. Kartbee
-19. Indialends
-20. Creditt
-21. Mi credit - 5m+
-22. Groww
-23. InCred
-24. Freo
-25. HyperVerge
-26. Finbox
-27. Karza
-28. Krowd
-29. OneAssist
-30. Slice
-31. Niyo (goniyo)
-32. Khatabook
-33. Bajaj finance
-34. Bajaj finserv - https://www.youtube.com/watch?v=odiaekxLY0g
-35. Chola
-36. Mutooth Finance
-37. Paisa bazaar
-38. Bank bazaar
-39. Home credit
-40. Cred
-41. Lazypay
-42. Bharatpe
-43. Payu
-44. Amex
-45. Uni pay 1/3rd card (uni app)
-46. OfBusiness
-47. axio, formerly Capital Float
-48. Piramal Finance, one of India's largest non-banking lenders
-49. Affirm (US - fintech)
+2. [Apply For MSME Loans, Loan Against Property & Vehicle Loans Online](https://www.kogta.in/)
+3. https://www.sliceit.com
+4. Dhani 50m+
+5. Red carpet (RedCarpetUp)
+6. dmifinance - [Best Non-Banking Finance Company | Powering India's Digital Lending Ecosystem](https://www.dmifinance.in/)
+7. Ok credit
+8. CreditMantri
+9. Moneytap
+10. CashTap
+11. Earlysalary
+12. https://www.truebalance.io
+13. Navi
+14. KreditBee
+15. Cashbean
+16. Kissht - 10m+
+17. Moneyview
+18. Fairmoney
+19. Kartbee
+20. Indialends
+21. Creditt
+22. Mi credit - 5m+
+23. Groww
+24. InCred
+25. Freo
+26. HyperVerge
+27. Finbox
+28. Karza
+29. Krowd
+30. OneAssist
+31. Slice
+32. Niyo (goniyo)
+33. Khatabook
+34. Bajaj finance
+35. Bajaj finserv - https://www.youtube.com/watch?v=odiaekxLY0g
+36. Chola
+37. Mutooth Finance
+38. Paisa bazaar
+39. Bank bazaar
+40. Home credit
+41. Cred
+42. Lazypay
+43. Bharatpe
+44. Payu
+45. Amex
+46. Uni pay 1/3rd card (uni app)
+47. OfBusiness
+48. axio, formerly Capital Float
+49. Piramal Finance, one of India's largest non-banking lenders
+50. Affirm (US - fintech)
 
 https://tracxn.com/d/soonicorn-awards/top-startups-in-india-fintech-2021
 
@@ -246,3 +248,5 @@ https://fintechnews.sg/62502/fintech-india/updated-top-30-open-banking-influence
 [BNPL](economics/buy-now-pay-later-bnpl.md)
 
 [Best Bank Stocks to Buy | Banking Industry in India | SBI, HDFC Bank, ICICI Bank, Axis Bank & Kotak - YouTube](https://www.youtube.com/watch?v=mdS4n0R3s0U)
+
+[Why Should Wealth Industry Think Beyond IRR - YouTube](https://www.youtube.com/watch?v=rc3y9EwDj5c&ab_channel=RainmatterbyZerodha)

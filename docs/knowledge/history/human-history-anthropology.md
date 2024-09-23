@@ -70,3 +70,4 @@ http://timelineofearth.com
 ## Links
 
 - [Evolutionary Tree of Life | Episode 1 - Early Life, Invertebrates & Fish - YouTube](https://www.youtube.com/watch?v=Na0Q8qfsdc0&ab_channel=UsefulCharts)
+- [Evolutionary Tree of Life | Episode 2 - Reptiles & Birds - YouTube](https://www.youtube.com/watch?v=nIpID3P8p7g&ab_channel=UsefulCharts)
