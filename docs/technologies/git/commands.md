@@ -440,7 +440,7 @@ git filter-branch --force --index-filter
 git push --force
 ```
 
-This will remove the filesecrets.txt from every branch and tag. It will also remove any commits that would be empty as a result of the above operation. Keep in mind that this will rewrite your project's entire history, which can be very disruptive in a distributed workflow. Also while the file in question has now been removed, the credentials it contained should still be considered compromised!
+This will remove the file `secrets.txt` from every branch and tag. It will also remove any commits that would be empty as a result of the above operation. Keep in mind that this will rewrite your project's entire history, which can be very disruptive in a distributed workflow. Also while the file in question has now been removed, the credentials it contained should still be considered compromised!
 
 https://github.com/newren/git-filter-repo (filter-branch replacement)
 

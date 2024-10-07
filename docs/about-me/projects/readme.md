@@ -53,10 +53,10 @@
 - [Stashfin Tech Stack / Infra](about-me/projects/90-stashfin-tech-stack-infra.md) (Feb'20 - Feb'23)
 - [Stashfin AIML Use Cases & Implementation](about-me/projects/91-stashfin-aiml-use-cases.md) (Feb'20 - Feb'23)
 
-### Zenatix
+### Zenatix (Aug'17 - Jan'20)
 
-- [Zenatix Solutions](about-me/projects/95-zenatix-solutions.md) (Aug'17 - Jan'20)
-- [Zenatix Architecture](about-me/projects/96-zenatix-architecture.md) (Aug'17 - Jan'20)
+- [IoT](computer-science/iot/readme.md)
+- [MQTT](networking/mqtt/readme.md)
 
 ### CISO Cybersecurity
 
