@@ -26,6 +26,10 @@ I was responsible of creating a product and infrastructure around it to help sav
 
 ## Activities
 
+### Podcast - Streamlining Cloud Migration Through Data Engineering
+
+[Podcast - Streamlining Cloud Migration Through Data Engineering](about-me/projects/46-podcast-streamlining-cloud-migration-through-data-engineering.md)
+
 ### NIT Delhi - GenAI for Freshers (18 September 2024)
 
 Slides - [Unleash your inner innovator: GenAI for freshers](https://docs.google.com/presentation/d/11YL2HG7wLR2eLiG9Np4NuXJ8LpPoMrtQztb9hpRRkq8/edit?usp=drive_link)

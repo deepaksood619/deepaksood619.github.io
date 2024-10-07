@@ -1,5 +1,7 @@
 # Hudi
 
+Hudi - Hadoop Upserts Deletes and Incremental
+
 Apache Hudi ingests & manages storage of large analytical datasets over DFS (hdfs or cloud stores).
 
 Apache Hudi is a transactional data lake platform that brings database and data warehouse capabilities to the data lake. Hudi reimagines slow old-school batch data processing with a powerful new incremental processing framework for low latency minute-level analytics.
@@ -44,6 +46,14 @@ Queries: Snapshot, Incremental
 ### Merge on read (MOR)
 
 ![merge on read](../../media/Screenshot%202024-10-07%20at%203.34.05%20PM.jpg)
+
+### Choosing Between COW and MOR
+
+The choice between COW and MOR in Apache Hudi largely depends on your specific requirements.
+
+1. **Read vs. Write Frequency:** If your workload is read-heavy, COW may be the better choice due to its optimized read performance. Conversely, for write-heavy applications where data is ingested frequently, MOR can handle the load more efficiently.
+2. **Data Consistency:** If your application requires strong consistency and atomicity during writes, COW is preferable. MOR is better suited for scenarios where eventual consistency is acceptable.
+3. **Use Case:** For analytical workloads and batch processing, COW shines. For real-time data processing and streaming applications, MOR is often the way to go.
 
 ## Links
 
