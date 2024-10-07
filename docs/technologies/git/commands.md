@@ -425,7 +425,9 @@ https://passingcuriosity.com/2017/truncating-git-history
 
 `brew install git-filter-repo`
 
-### Rewrite history of entire branch (git-filter-branch)
+### Rewrite history of entire branch (git-filter-branch) (Old - Deprecated)
+
+IMP - _git filter-branch_ has a plethora of pitfalls that can produce non-obvious manglings of the intended history rewrite (and can leave you with little time to investigate such problems since it has such abysmal performance). These safety and performance issues cannot be backward compatibly fixed and as such, its use is not recommended. Please use an alternative history filtering tool such as [git filter-repo](https://github.com/newren/git-filter-repo/).
 
 One common use case for this is removing sensitive data (e.g. login credentials for production systems) that were committed to a public repository.
 
@@ -443,6 +445,39 @@ git push --force
 This will remove the file `secrets.txt` from every branch and tag. It will also remove any commits that would be empty as a result of the above operation. Keep in mind that this will rewrite your project's entire history, which can be very disruptive in a distributed workflow. Also while the file in question has now been removed, the credentials it contained should still be considered compromised!
 
 https://github.com/newren/git-filter-repo (filter-branch replacement)
+
+### git-filter-repo
+
+```bash
+# Installation
+brew install git-filter-repo
+
+# Backup your repository
+git clone --mirror <repository_url> backup-repo
+
+# Remove the file from the entire Git history
+git filter-repo --path <file_path> --invert-paths
+
+# Replace `<file_path>` with the path of the file you want to remove (relative to the repository root
+# The `--invert-paths` option tells Git to remove the specified file from the history while preserving everything else.
+
+# Force-push the changes to the remote repository
+git push origin --force --all
+
+# Also, push the rewritten tags
+git push origin --force --tags
+
+# Clean up any leftover references (optional but recommended)
+rm -rf .git/refs/original/ && git reflog expire --expire=now --all && git gc --prune=now --aggressive
+```
+
+#### Important Notes
+
+- **Rewriting history**: This method rewrites the Git history, which means any collaborators who have already cloned the repository will need to re-clone or force-reset their local copies.
+- **Impact on branches**: All branches will have the file removed from their history.
+- **Consider using `gitignore`**: After removing the file from history, ensure it’s added to `.gitignore` if it should no longer be tracked.
+
+[GitHub - newren/git-filter-repo: Quickly rewrite git repository history (filter-branch replacement)](https://github.com/newren/git-filter-repo/)
 
 ## git cherry-pick
 
