@@ -471,6 +471,15 @@ You understand an idea not when you've memorized it, but when you know why its s
 - Do I love to practice?
 - Am I exploring the edge?
 
+## PDCA (Plan-Do-Check-Act)
+
+- Make a plan
+- Do the plan
+- Study the results of the plan
+- Act on what you’ve learnt and integrate your new hypotheses into the next iteration of the loop.
+
+[You Aren't Learning If You Don't Close the Loops - Commoncog](https://commoncog.com/no-learning-dont-close-loops/)
+
 ## Others
 
 - [Marty Lobdell - Study Less Study Smart](https://youtu.be/IlU-zDU6aQ0)

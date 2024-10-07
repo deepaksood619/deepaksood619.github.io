@@ -101,3 +101,4 @@ In the image above, circles are Cassandra nodes and lines between the circles sh
 - https://www.freecodecamp.org/news/the-apache-cassandra-beginner-tutorial
 - [Introduction to Apache Cassandra™ + What's New in 4.0 by Patrick McFadin | DataStax Presents](https://www.youtube.com/watch?v=d7o6a75sfY0)
 - [Cassandra Tutorial Videos](https://www.youtube.com/playlist?list=PL9ooVrP1hQOGJ4Yz9vbytkRmLaD6weg8k)
+- [How Uber Scaled Cassandra for Tens of Millions of Queries Per Second?](https://blog.bytebytego.com/p/how-uber-scaled-cassandra-for-tens)

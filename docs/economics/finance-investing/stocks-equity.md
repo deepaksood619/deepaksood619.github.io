@@ -131,6 +131,8 @@ https://www.moneycontrol.com/india-investors-portfolio
 4. **One of the simplest way to create wealth in the markets is by following the learnings of Mr. Peter Lynch**, who is one of the most famous fund managers and is known widely due to his simplicity. Learn the secrets of how Mr. Peter Lynch invested with our blog about key learnings from his style: [Seeking wisdom in the Indian Stock Markets | SOIC](https://soic.in/blog-description/10keylearnings)
 5. **Learn how our framework has evolved after 6 years of continuous hard work on refining our process.** We share it with all of you in this video: [Peter Lynch's 10 Bagger Framework & SOIC 5 Bucket Framework - YouTube](https://www.youtube.com/watch?v=dZ6larTHxdg)
 
+[Seeking wisdom in the Indian Stock Markets | SOIC](https://soic.in/blog-description/capitalreturns)
+
 ## Links
 
 - [Contrarian Investing | Is Contrarian Investing Profitable? | ET Money](https://youtu.be/vnQRuNuJckE)

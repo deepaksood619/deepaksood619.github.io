@@ -90,6 +90,11 @@
     - Gross debt is all debt
     - Net debt is all debt minus cash & marketable securities
 
+Operating Leverage - [Seeking wisdom in the Indian Stock Markets | SOIC](https://soic.in/blog-description/operatingleverage)
+
+- "Disproportionate increase in profits caused by a moderate increase in sales is often a result of operating leverage." - SOIC
+-
+
 ## 5. Measuring Liquidity / Credit Risk
 
 - Coverage Ratios: These ratios measure how much buffer or coverage a company has in meeting commitments

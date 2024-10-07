@@ -231,3 +231,8 @@ https://aws.amazon.com/ec2/instance-types/g4
 
 - [Upgrade EC2 instance | AWS re:Post](https://repost.aws/questions/QUu8o1AEwmSgyZJho1hEfuRw/upgrade-ec2-instance)
 - [Resolve boot errors on Linux Nitro-based EC2 instances | AWS re:Post](https://repost.aws/knowledge-center/boot-error-linux-nitro-instance)
+
+## Links
+
+- [Amazon EC2 R8g Instances](https://aws.amazon.com/ec2/instance-types/r8g/)
+	- R8g instances offer up to 30% better performance and larger instance sizes with up to 3x more vCPUs and memory than the seventh-generation AWS Graviton3-based R7g instances.

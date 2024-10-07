@@ -2,6 +2,7 @@
 
 - [Table of Contents](table-of-contents)
 - [Intro](ai/ml-fundamentals/intro.md)
+- [Loss Function](ai/ml-fundamentals/loss-function.md)
 - [ML Classification](ml-classification)
 - [ML Process](ml-process)
 - [Preliminaries](preliminaries)

@@ -49,6 +49,8 @@ When we move up a hill, we notice a fall in temperature. This fall in temperatur
 - Hyderabad - [Planning to Buy a Flat in Hyderabad? Here Are Top trends of 2024 You Should Know - The 1% News](https://news.onepercentclub.io/invest/planning-to-buy-a-flat-in-hyderabad-here-are-top-trends-of-2024-you-should-know/12849/)
 - Chandigarh
 
+[Which is the best city to live in North India? - Quora](https://www.quora.com/Which-is-the-best-city-to-live-in-North-India)
+
 [Best cities in India with pleasant weather all year round | EconomicTimes](https://economictimes.indiatimes.com/news/web-stories/best-cities-in-india-with-pleasant-weather-all-year-round/slideshow/103212353.cms)
 
 https://zolostays.com/blog/cities-with-best-weather-in-india

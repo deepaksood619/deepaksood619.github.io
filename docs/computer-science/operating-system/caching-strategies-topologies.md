@@ -1,38 +1,38 @@
 # Caching Strategies
 
-1. Cooperative/Distributed caching
+### 1. Cooperative/Distributed caching
 
-    Cache data is distributed between nodes
+Cache data is distributed between nodes
 
-    In Cooperative Caching, also known as Distributed Caching, multiple distinct systems (normally referred to as cluster-nodes) work together to build a huge, shared cache.
+In Cooperative Caching, also known as Distributed Caching, multiple distinct systems (normally referred to as cluster-nodes) work together to build a huge, shared cache.
 
-2. Partial caching
+### 2. Partial caching
 
-    Partial Caching describes a type of caching where not all data is stored inside the cache. Depending on certain criteria, responses might not be cacheable or are not expected to be cached (like temporary failures).
+Partial Caching describes a type of caching where not all data is stored inside the cache. Depending on certain criteria, responses might not be cacheable or are not expected to be cached (like temporary failures).
 
-    A typical example for data where not everything is cacheable is websites. Some pages are "static" and
+A typical example for data where not everything is cacheable is websites. Some pages are "static" and
 
-    only change if some manual or regular action happens. Those pages can easily be cached and invalidated whenever this particular action happened. Apart from that, other pages consist of mostly dynamic content or frequently updated content (like stock market tickers) and shouldn't be cached at all.
+only change if some manual or regular action happens. Those pages can easily be cached and invalidated whenever this particular action happened. Apart from that, other pages consist of mostly dynamic content or frequently updated content (like stock market tickers) and shouldn't be cached at all.
 
-3. Geographical caching
+### 3. Geographical caching
 
-    Geographical Caches are located in strategically chosen locations to optimize latency on requests, therefore this kind of cache will mostly be used for website content. It is also known as CDN (Content Delivery Network).
+Geographical Caches are located in strategically chosen locations to optimize latency on requests, therefore this kind of cache will mostly be used for website content. It is also known as CDN (Content Delivery Network).
 
-4. Preemptive caching
+### 4. Preemptive caching
 
-    A Preemptive Cache itself is not a caching type like the others above but is mostly used in conjunction with a Geographical Cache.
+A Preemptive Cache itself is not a caching type like the others above but is mostly used in conjunction with a Geographical Cache.
 
-    Using a warm-up engine a Preemptive Cache is populated on startup and tries to update itself based on rules or events. The idea behind this cache addition is to reload data from any backend service or central cluster even before a requestor wants to retrieve the element. This keeps access time to the cached elements constant and prevents accesses to single elements from becoming unexpectedly long.
+Using a warm-up engine a Preemptive Cache is populated on startup and tries to update itself based on rules or events. The idea behind this cache addition is to reload data from any backend service or central cluster even before a requestor wants to retrieve the element. This keeps access time to the cached elements constant and prevents accesses to single elements from becoming unexpectedly long.
 
-    Building a Preemptive Cache is not easy and requires a lot of knowledge of the cached domain and the update workflows.
+Building a Preemptive Cache is not easy and requires a lot of knowledge of the cached domain and the update workflows.
 
-5. Latency SLA caching
+### 5. Latency SLA caching
 
-    A Latency SLA Cache is able to maintain latency SLAs even if the cache is slow or overloaded. This type of cache can be build in two different ways.
+A Latency SLA Cache is able to maintain latency SLAs even if the cache is slow or overloaded. This type of cache can be build in two different ways.
 
-    The first option is to have a timeout to exceed before the system either requests the potentially cached element from the original source (in parallel to the already running cache request) or provides a simple default answer, and uses whatever returns first.
+The first option is to have a timeout to exceed before the system either requests the potentially cached element from the original source (in parallel to the already running cache request) or provides a simple default answer, and uses whatever returns first.
 
-    The other option is to always fire both requests in parallel and take whatever returns first. This option is not the preferred way of implementation since it mostly works against the idea of caching and won't reduce load on the backend system. This option might still make sense if multiple caching layers are available, like always try the first and second nearest caches in parallel.
+The other option is to always fire both requests in parallel and take whatever returns first. This option is not the preferred way of implementation since it mostly works against the idea of caching and won't reduce load on the backend system. This option might still make sense if multiple caching layers are available, like always try the first and second nearest caches in parallel.
 
 ## Caching Topologies
 
@@ -129,3 +129,29 @@ There are multiple layers along the flow.
 - Replication Log: used to record the replication state in a database cluster
 
 ![image](../../media/cache-layers-data.jpg)
+
+## Integrated Redis Cache
+
+![Integrated redis cache](../../media/Pasted%20image%2020241006232918.jpg)
+
+### 1. CacheFront Read and Writes with CDC
+
+- Uber built CacheFront - an integrated caching solution with Redis, Docstore, and MySQL.
+
+- Rather than the microservice, Docstore’s query engine communicates with Redis for read requests.
+- For cache hits, the query engine fetches data from Redis. For cache misses, the request goes to the storage engine and the database.
+- In the case of writes, Docstore’s CDC service (Flux) invalidates the records in Redis. It tails MySQL binlog events to trigger the invalidation.
+
+### 2. Multi-Region Cache Warming with Redis Streaming
+
+- A region fail-over can result in cache misses and overload the database.
+- To handle this, Uber’s engineering team uses cross-region Redis replication. This is done by tailing the Redis write stream to replicate keys to the remote region.
+- In the remote region, the stream consumer issues read requests to the query engine that reads the database and updates the cache.
+
+### 3. Redis and Docstore Sharding
+
+- All teams in Uber use Docstore and some generate a huge number of requests.
+- Both Redis and Docstore instances are sharded or partitioned to handle the load. But a single Redis cluster going down may create a hot DB shard.
+- To prevent this, they partitioned the Redis cluster using a scheme that was different from the DB sharding. This ensures that the load is evenly distributed.
+
+[EP131: How Uber Served 40 Million Reads with Integrated Redis Cache?](https://blog.bytebytego.com/p/ep131-how-uber-served-40-million)

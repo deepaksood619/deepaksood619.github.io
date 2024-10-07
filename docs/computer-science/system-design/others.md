@@ -116,3 +116,18 @@ You can do this by implementing or configuring it in the Play Store or App Store
 A good place to store these versions is in your cache (Redis/Memcache), which you can change on the fly without needing to deploy your application.
 
 [Stop using client-side route redirects](https://kentcdodds.com/blog/stop-using-client-side-route-redirects)
+
+## Distributed Locks
+
+A distributed lock is a mechanism that ensures mutual exclusion across a distributed system.
+
+### Top 6 Use Cases for Distributed Locks
+
+1. **Leader Election -** Distributed locks can be used to ensure that only one node becomes the leader at any given time.
+2. **Task Scheduling -** In a distributed task scheduler, distributed locks ensure that a scheduled task is executed by only one worker node, preventing duplicate execution.
+3. **Resource Allocation -** When managing shared resources like file systems, network sockets, or hardware devices, distributed locks ensure that only one process can access the resource at a time.
+4. **Microservices Coordination -** When multiple microservices need to perform coordinated operations, such as updating related data in different databases, distributed locks ensure that these operations are performed in a controlled and orderly manner.
+5. **Inventory Management -** In e-commerce platforms, distributed locks can manage inventory updates to ensure that stock levels are accurately maintained when multiple users attempt to purchase the same item simultaneously.
+6. **Session Management -** When handling user sessions in a distributed environment, distributed locks can ensure that a user session is only modified by one server at a time, preventing inconsistencies.
+
+![Distributed lock use cases](../../media/Pasted%20image%2020240924221049.jpg)

@@ -89,6 +89,8 @@ Avoid using sentences that begin with "you" and followed by accusation or judgme
 - Bounce back from adversity
 - Express intimate emotions
 
+"the more EQ the better" is not true. Reality: EQ is like sunshine - **you want a good amount of it but too much will give you skin cancer.**
+
 https://deepstash.com/article/2273/how-to-increase-your-emotional-intelligence--6-essentials
 
 [Workshop on 'Emotional Intelligence' with Rajeshwar Upadhyaya](https://youtu.be/t7ncfBoifHs)

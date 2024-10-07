@@ -1,5 +1,7 @@
 # Nifty Indexes
 
+![Sensex then versus now](../../media/Pasted%20image%2020241006231135.jpg)
+
 ## Categories
 
 - [Broad based Indices](https://www.niftyindices.com/indices/equity/broad-based-indices)

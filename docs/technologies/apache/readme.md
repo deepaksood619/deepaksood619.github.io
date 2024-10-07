@@ -11,6 +11,7 @@
 - [Apache Samza](apache-samza)
 - [Apache Flink](apache-flink)
 - [Apache Spark](apache-spark/readme.md)
+- [Apache Hudi](technologies/apache/apache-hudi.md)
 - [CNCF](cncf)
 - [Airflow](airflow/readme.md)
 - [Celery](celery/readme.md)

@@ -157,7 +157,7 @@ This enables employees to wait for liquidity events without incurring upfront ta
 
 ## Warrant
 
-A warrant in finance is a contract that gives the holder the right to buy or sell a company's stock at a specific price within a set time frame. Warrants are used in both debt and equity financing, and can be a high-return investment tool. 
+A warrant in finance is a contract that gives the holder the right to buy or sell a company's stock at a specific price within a set time frame. Warrants are used in both debt and equity financing, and can be a high-return investment tool.
 
 Here are some things to know about warrants:
 

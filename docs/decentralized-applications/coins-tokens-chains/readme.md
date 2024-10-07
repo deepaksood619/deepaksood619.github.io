@@ -179,6 +179,9 @@ Cosmos is a decentralized network of independent parallel blockchains, each powe
 #### Developer
 
 - [Aptos Blockchain For Beginners: What is it and How Does it Work? - YouTube](https://www.youtube.com/watch?v=vJXn7n2799c&ab_channel=KeyStrokes)
+- [Aptos Crypto \[APT\] Explained Simply For Beginners - YouTube](https://www.youtube.com/watch?v=ZdtA4YeKA_Q&ab_channel=LarkDavis)
+- [What is Aptos & How Its Tech Actually Works | APT Explained with Animations - YouTube](https://www.youtube.com/watch?v=7_vzZ1QfAWU&ab_channel=Cryptobie)
+- [Introduction to Aptos For Blockchain developers - YouTube](https://www.youtube.com/watch?v=8t5HcmKB034&ab_channel=EatTheBlocks)
 
 #### Wallets - [Wallets - Aptos Ecosystem Projects](https://aptosfoundation.org/ecosystem/projects/wallets)
 

@@ -208,6 +208,7 @@ When speaking (or writing), use them to spread positivity and joy with others. U
 
 ## Links
 
+- [Listening](psychology/soft-skills/listening.md)
 - [Asking Right Questions](asking-right-questions)
 - [Talking Across Divide](../../book-summaries/talking-across-divide)
 - [On Writing Well](../../book-summaries/on-writing-well)

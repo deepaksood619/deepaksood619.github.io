@@ -217,6 +217,12 @@ Save 100+ hours in prelims note making. Notes based on psychological method of '
 
 Just add a module of UPSC in khan academy. It has everything.
 
+## Interview Prep Model
+
+- Do mock interviews
+- Tell what's wrong with the candidate
+- Share the module / courses and full plan on how to be better
+
 ## Links
 
 - [He's helped THOUSANDS of people learn to code \[Leon Noel of #100devs on freeCodeCamp Podcast #117\] - YouTube](https://www.youtube.com/watch?v=KYAakLooVuE&ab_channel=freeCodeCamp.org)

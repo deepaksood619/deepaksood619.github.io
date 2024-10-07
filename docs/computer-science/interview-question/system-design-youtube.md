@@ -11,4 +11,3 @@
 7. The Transcoding Status Handler updates the metadata DB and cache with the latest details of the video.
 8. The user raises a video streaming request that goes to a Content Delivery Network (CDN).
 9. The CDN fetches the video from the object storage for streaming. It also caches the video locally for subsequent streaming requests.
-

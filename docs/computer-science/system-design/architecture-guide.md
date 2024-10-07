@@ -26,7 +26,7 @@ Web-queue-worker is suitable for relatively simple domains with some resource-in
 | Big data                  | Divide a huge dataset into small chunks. Parallel processing on local datasets.  | Batch and real-time data analysis. Predictive analysis using ML. |
 | Big compute               | Data allocation to thousands of cores.                                           | Compute intensive domains such as simulation.                    |
 
-### - Design Principles
+### Design Principles
 
 - Design for self-healing
 - Make all things redundant
@@ -39,7 +39,7 @@ Web-queue-worker is suitable for relatively simple domains with some resource-in
 - Design for evolution
 - Build for the needs of business
 
-### - Best Practices
+### Best Practices
 
 - API Design
 - API Implementation
@@ -54,13 +54,13 @@ Web-queue-worker is suitable for relatively simple domains with some resource-in
 - Retry Guidance for Specific services
 - Transient fault handling
 
-### - Performance Tuning
+### Performance Tuning
 
 - Scenario 1 - Distributed Transactions
 - Scenario 2 - Multiple backend services
 - Scenario 3 - Event Streaming
 
-### - Performance Antipatterns
+### Performance Antipatterns
 
 - Busy Database
 - Busy Front End

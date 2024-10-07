@@ -19,6 +19,7 @@
 - [ChatGPT Code Interpreter is like a Data Scientist on steroids](https://twitter.com/moritzkremb/status/1654107314528612355)
 - [The Amazing AI Super Tutor for Students and Teachers | Sal Khan | TED - YouTube](https://www.youtube.com/watch?v=hJP5GqnTrNo&ab_channel=TED)
 - [WebChatGPT: ChatGPT with internet access | Chrome Web Store - Extensions](https://chrome.google.com/webstore/detail/webchatgpt-chatgpt-with-i/lpfemeioodjbpieminkklglpmhlngfcn/related)
+- [NotebookLM | Note Taking & Research Assistant Powered by AI](https://notebooklm.google/)
 
 ## AI Generators
 

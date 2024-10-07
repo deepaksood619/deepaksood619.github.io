@@ -8,3 +8,7 @@ When we listen, we hear someone into existence -- Laurie Buchanan, PhD
 2. Trying not to interrupt, asking open ended questions when in break
 3. Focusing on the present moment, asking the other if you miss the details
 4. Don’t be afraid of silence, both can use those moments to think a more thoughtful conversation
+
+[The Science of Helpful Conversations](https://tbthealth.substack.com/p/the-science-of-helpful-conversations)
+
+- **Fixing Reflex** - irresistible urge to jump in with advice and solutions

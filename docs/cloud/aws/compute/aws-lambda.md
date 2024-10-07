@@ -83,15 +83,15 @@ In asynchronous invocation, the caller doesn’t wait for the function’s respo
 
 ### 2 - Assignment Service
 
-The Assignment Service manages the execution environments. 
+The Assignment Service manages the execution environments.
 
-The service is written in Rust for high performance and is divided into multiple partitions with a leader-follower approach for high availability. 
+The service is written in Rust for high performance and is divided into multiple partitions with a leader-follower approach for high availability.
 
 The state of execution environments is written to an external journal log.
 
 ### 3 - Firecracker MicroVM
 
-Firecracker is a lightweight virtual machine manager designed for running serverless workloads such as AWS Lambda and AWS Fargate. 
+Firecracker is a lightweight virtual machine manager designed for running serverless workloads such as AWS Lambda and AWS Fargate.
 
 It uses Linux’s Kernel-based virtual machine to create and manage secure, fast-booting microVMs.
 
@@ -103,4 +103,4 @@ To make it efficient, it uses multiple techniques:
 
 - Chunking to store the container images more efficiently.
 - Using convergent encryption to secure the shared data. This involves appending additional data to the chunk to compute a more robust hash.
-- SnapStart feature to reduce cold start latency by pre-initializing the execution environment 
+- SnapStart feature to reduce cold start latency by pre-initializing the execution environment

@@ -211,5 +211,6 @@ This helps as you no longer have to make assumptions about
 - [System Design Tutorial: 3 Must-Know Distributed Systems Concepts | by Arslan Ahmad | Geek Culture | Medium](https://medium.com/geekculture/system-design-tutorial-3-must-know-distributed-systems-concepts-279d4e9718e8)
 - [Brief History of Scaling Uber](https://highscalability.com/brief-history-of-scaling-uber/)
 - [Behind AWS S3’s Massive Scale](https://highscalability.com/behind-aws-s3s-massive-scale/)
+- [Software Architecture Patterns - ByteByteGo Newsletter](https://blog.bytebytego.com/p/software-architecture-patterns)
 
 ![System Design Cheatsheet](../../media/Pasted%20image%2020240607132531.png)

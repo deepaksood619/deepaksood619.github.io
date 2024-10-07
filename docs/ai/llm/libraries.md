@@ -123,6 +123,8 @@
 - [**maccarone**](https://github.com/bsilverthorn/maccarone) - AI-managed code blocks in Python, lets you delegate sections of your Python program to AI ownership.
 - [**magentic**](https://github.com/jackmpcollins/magentic) - prompt LLMs as simple Python functions using decorators.
 - [**Semantic Kernel**](https://github.com/microsoft/semantic-kernel) - integrate cutting-edge LLM technology quickly and easily into your apps. Microsoft’s “version” of [LangChain](https://github.com/hwchase17/langchain).
+- [ControlFlow](https://controlflow.ai/welcome)
+	- ControlFlow is a Python framework for building agentic AI workflows.
 
 ### LLM Code Tools
 
@@ -150,15 +152,6 @@
 - [**ChainForge**](https://github.com/ianarawjo/ChainForge) - open-source visual programming environment for battle-testing prompts to LLMs.
 - [**Langflow**](https://github.com/logspace-ai/langflow) - UI for [LangChain](https://github.com/hwchase17/langchain), designed with react-flow to provide an effortless way to experiment and prototype flows.
 - [**PromptTools**](https://github.com/hegelai/prompttools) - a set of open-source, self-hostable tools for experimenting with, testing, and evaluating LLMs, vector databases, and prompts. [HN launch post](https://news.ycombinator.com/item?id=36958175).
-
-### LLM Metrics / Evaluation
-
-- [**DeepEval**](https://github.com/confident-ai/deepeval) - a simple-to-use, open-source evaluation framework for LLM applications.
-- [**Fiddler Auditor**](https://github.com/fiddler-labs/fiddler-auditor) - a tool to evaluate the robustness of language models.
-- [**ragas**](https://github.com/explodinggradients/ragas) - Evaluation framework for your Retrieval Augmented Generation (RAG) pipelines.
-- [**tvalmetrics**](https://github.com/TonicAI/tvalmetrics) - Metrics to evaluate the quality of responses of your Retrieval Augmented Generation (RAG) applications.
-
-[A Gentle Introduction to LLM Evaluations - Elena Samuylova - YouTube](https://www.youtube.com/live/ac6ZB5QEwGU)
 
 ### LLM Serving
 
