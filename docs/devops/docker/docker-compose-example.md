@@ -10,13 +10,13 @@ services:
    args:
     GIT_USERNAME: ${GIT_USERNAME}
     GIT_PASSWORD: ${GIT_PASSWORD}
-  image: gcr.io/zenatix-data-archiver/zenalytix:fc3c0ae06074
+  image: gcr.io/abc-data-archiver/zenalytix:fc3c0ae06074
 
  zenalytix-dev:
   stdin_open: true
   tty: true
   restart: always / "no" / on-failure / unless-stopped
-  image: gcr.io/zenatix-data-archiver/zenalytix:fc3c0ae06074
+  image: gcr.io/abc-data-archiver/zenalytix:fc3c0ae06074
   deploy:
     replicas: 5
     resources:
@@ -56,7 +56,7 @@ services:
   ports:
     - 9104:9104
   networks:
-    zenatix-docker:
+    abc-docker:
    ipv4_address: ${ZENALYTIX_IP}
   volumes:
     - post:/root/src/zenalytix
@@ -111,9 +111,9 @@ services:
       - localhost_net
 
 networks:
-  zenatix-docker:
+  abc-docker:
     external:
-      name: zenatix-docker
+      name: abc-docker
 
   airflow-docker:
 

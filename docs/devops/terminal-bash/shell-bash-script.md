@@ -66,12 +66,12 @@ done
 # check if server name is passed
 if [ "$1" ]; then
         # server name is passed, ssh
-        ssh ubuntu@$1.zenatix.com
+        ssh ubuntu@$1.abc.com
 else
         # get server name since not passed
         echo "Enter server name to ssh - "
         read SERVER_NAME
-        ssh ubuntu@$SERVER_NAME.zenatix.com
+        ssh ubuntu@$SERVER_NAME.abc.com
 fi
 ```
 

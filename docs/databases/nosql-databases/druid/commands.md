@@ -201,7 +201,7 @@ http://10.9.1.21:8888/unified-console.html
     "completionTimeout": "PT5M",
     "useEarliestOffset": true,
     "consumerProperties": {
-      "bootstrap.servers": "kafka0.zenatix.com:31090,kafka1.zenatix.com:31091,kafka2.zenatix.com:31092"
+      "bootstrap.servers": "kafka0.abc.com:31090,kafka1.abc.com:31091,kafka2.abc.com:31092"
     }
   }
 }

@@ -498,7 +498,7 @@ kubectl get secret --namespace default eager-otter-grafana -o jsonpath="{.data.a
 # Adding Secrets for pulling images from private registry
     https://container-solutions.com/using-google-container-registry-with-kubernetes/
 
-kubectl create secret docker-registry gcr-json-key --docker-server=gcr.io --docker-username=_json_key --docker-password="$(cat ~/json-key-file.json)" --docker-email=deepak.sood@zenatix.com
+kubectl create secret docker-registry gcr-json-key --docker-server=gcr.io --docker-username=_json_key --docker-password="$(cat ~/json-key-file.json)" --docker-email=deepak.sood@abc.com
 
 kubectl patch serviceaccount default -p '{"imagePullSecrets": [{"name": "gcr-json-key"}]}'
 

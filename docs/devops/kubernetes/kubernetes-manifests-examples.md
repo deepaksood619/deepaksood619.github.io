@@ -192,7 +192,7 @@ spec:
     spec:
         containers:
         - name: flask-republisher
-            image: gcr.io/zenatix-data-archiver/kafka_republisher:1.1.6
+            image: gcr.io/abc-data-archiver/kafka_republisher:1.1.6
             imagePullPolicy: IfNotPresent
             ports:
             - containerPort: 80
@@ -303,7 +303,7 @@ spec:
         spec:
           containers:
             - name: livenotebook-commit
-              image: gcr.io/zenatix-data-archiver/zenalytix:a7f14578479e
+              image: gcr.io/abc-data-archiver/zenalytix:a7f14578479e
               workingDir: /root/zenalytix/notebooks
               command:
                 - /bin/bash

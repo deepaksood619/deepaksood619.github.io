@@ -62,14 +62,14 @@ sudo sed -i 's+telegraf:.*+telegraf:x:0:0::/etc/telegraf:/bin/false+g' /etc/pass
   omit_hostname = false
 
 [[outputs.influxdb]]
-  urls = ["http://servermonitor.zenatix.com:8086"]
+  urls = ["http://servermonitor.abc.com:8086"]
   database = "telegraf"
   username = ""
   password = ""
   namedrop = ["tail", "docker_log"]
 
 [[outputs.elasticsearch]]
-  urls = ["http://elasticsearch.zenatix.com:9200"]
+  urls = ["http://elasticsearch.abc.com:9200"]
   timeout = "1m"
   enable_sniffer = false
   health_check_interval = "0s"

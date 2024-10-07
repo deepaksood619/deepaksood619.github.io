@@ -115,7 +115,7 @@ add_ini.yml
                     path: /home/pi/conf/electric_meter.conf
                     section: report 1
                     option: ReportDeliveryLocation
-                    value: kafka://kafka.zenatix.com:9092/iot_data
+                    value: kafka://kafka.abc.com:9092/iot_data
                     backup: yes
 
 iiitd_pull_playbook.yml

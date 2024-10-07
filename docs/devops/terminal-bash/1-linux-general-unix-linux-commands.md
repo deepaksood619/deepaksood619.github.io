@@ -25,15 +25,15 @@ mv **/*.jpg media/
 chmod 400 devec2.pem
 ssh -i devec2.pem ec2-user@18.237.184.186
 
-ssh ubuntu@energy.zenatix.com (simple ssh)
+ssh ubuntu@energy.abc.com (simple ssh)
 
-ssh -L 8889:localhost:8888 ubuntu@bepemis.zenatix.com (port forwarding from server to local)
+ssh -L 8889:localhost:8888 ubuntu@bepemis.abc.com (port forwarding from server to local)
 
 ssh -L 27017:localhost:27017 -i strawhat-core-key ubuntu@3.108.70.26
 
-ssh -i private.pem ubuntu@energy.zenatix.com (using key)
+ssh -i private.pem ubuntu@energy.abc.com (using key)
 
-ssh -i id_rsa ubuntu@openvpn.zenatix.com
+ssh -i id_rsa ubuntu@openvpn.abc.com
 
 # Other
 ssh-add
@@ -50,14 +50,14 @@ ssh-keygen -t rsa -b 4096 -C "deepaksood619@gmail.com"
 ssh-keygen -t rsa -b 4096 -C "deepak.sood@opstree.com"
 ssh-keygen -t rsa -b 4096 -C "deepak.sood@stashfin.com"
 
-ssh-keygen -R energy.zenatix.com # reset the saved key of server
+ssh-keygen -R energy.abc.com # reset the saved key of server
 
 ssh-keygen -t ecdsa -b 521 -C "deepaksood619@gmail.com"
 
 ssh config (man ssh_config - OpenSSH SSH client configuration files)
   Add all the details for a server ssh to ~/.ssh/config file
     Host dev
-      HostName dev.zenatix.com
+      HostName dev.abc.com
       Port 1234
       User ubuntu
       ForwardAgent yes
@@ -351,7 +351,7 @@ nslookup -query=mx google.com #Query Mail Exchanger Record
 nslookup -type=ns google.com #Query Name Server
 nslookup -type=any google.com #Query DNS Record
 nslookup -type=soa google.com #Query Start of Authority
-nslookup kafka0.zenatix.com
+nslookup kafka0.abc.com
 ```
 
 ## dig command

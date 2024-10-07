@@ -68,10 +68,10 @@ The software utility **cron** is a time-based [job scheduler](https://en.wikiped
 15 1 * * * /usr/bin/python /home/ubuntu/sources/zenalytix/manage.py check_schedule_expiry
 
 #cron for testing daily emails
-05 00 * * * /usr/bin/python /home/ubuntu/sources/zenalytix/manage.py mail_report_new --logs_to="priyank.trivedi@zenatix.com"
+05 00 * * * /usr/bin/python /home/ubuntu/sources/zenalytix/manage.py mail_report_new --logs_to="priyank.trivedi@abc.com"
 
 #cron for daily emails
-15 09 * * * /usr/bin/python /home/ubuntu/sources/zenalytix/manage.py mail_report_new --logs_to="priyank.trivedi@zenatix.com"
+15 09 * * * /usr/bin/python /home/ubuntu/sources/zenalytix/manage.py mail_report_new --logs_to="priyank.trivedi@abc.com"
 
 #cron for sending issues
 10 06 * * * /usr/bin/python /home/ubuntu/sources/zenalytix/manage.py report_issues --create_logs=True --run_issues=True --exclude_$

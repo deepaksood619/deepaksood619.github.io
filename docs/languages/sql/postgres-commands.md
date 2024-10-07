@@ -56,7 +56,7 @@ psql has a `ECHO_HIDDEN` variable you can set to show (or 'echo') any SQL querie
 
 CREATE DATABASE zenalytix_db_new;
 
-psql -U zenatix -d zenalytix_db_new -p 5432
+psql -U abc -d zenalytix_db_new -p 5432
 
 psql -h localhost -p 5432 -U postgres -d airflow
 psql -h localhost -p 5432 -U postgres (sentry)

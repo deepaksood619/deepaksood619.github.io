@@ -97,7 +97,7 @@ This is easily done in Django by making sure we have only one database entry at 
 ObjectDoesNotExists
     from django.core.exceptions import ObjectDoesNotExist
     try:
-        user = ZenatixUser.objects.get(email='deepak.sood@zenatix.com')
+        user = User.objects.get(email='deepak.sood@abc.com')
     except ObjectDoesNotExist:
         print('user not found')
 ```
