@@ -5,6 +5,7 @@
 - https://reqres.in
 - http://example.com
 - [**https://jsonplaceholder.typicode.com/**](https://jsonplaceholder.typicode.com/)
+- https://mockae.com/
 - https://fakerapi.it/api/v1/persons?_quantity=1
 - https://github.com/n0shake/Public-APIs
 - [http://slowwly.robertomurray.co.uk/delay/3000/url/http://www.google.co.uk](http://slowwly.robertomurray.co.uk/delay/3000/url/http:/www.google.co.uk)

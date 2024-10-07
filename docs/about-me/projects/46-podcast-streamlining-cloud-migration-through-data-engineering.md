@@ -22,10 +22,10 @@ From designing robust data pipelines to managing complex transformations and opt
 - Key data engineering practices that drive successful cloud migration
 - Best-in-class tools for managing complex data transformations
 - Proven methods to ensure data security, governance, and performance
-- Real-world examples of how companies overcame common migration challenges 
+- Real-world examples of how companies overcame common migration challenges
 
 ### Who Should Attend
 
-- Tech teams involved in cloud migration projects 
-- IT decision-makers looking to streamline cloud strategies 
-- Data engineers and cloud architects aiming to improve migration efficiency 
+- Tech teams involved in cloud migration projects
+- IT decision-makers looking to streamline cloud strategies
+- Data engineers and cloud architects aiming to improve migration efficiency
