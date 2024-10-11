@@ -185,6 +185,8 @@ A business sends an RFQ when they already know what they want to buy and are loo
 
 A business sends an RFP when they need more information about a product or service, or when they have a problem but aren't sure how to solve it. RFPs are often used for complex projects, and they describe the scope of a project in detail and ask suppliers to come up with different solutions. The goal of an RFP is to find the right partner for the project based on capabilities and compatibility, not just cost.
 
+[Calligo-Cloud-RFP-Guide.pdf](https://www.calligo.io/wp-content/uploads/2023/09/Calligo-Cloud-RFP-Guide.pdf)
+
 ### Others
 
 - BAFO - Best And Final Offer

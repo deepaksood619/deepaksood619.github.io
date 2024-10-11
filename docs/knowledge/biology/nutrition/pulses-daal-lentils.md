@@ -329,7 +329,7 @@ https://www.quora.com/Is-corn-flour-same-as-makke-maize-ka-ata
 - Extra virgin olive oil
 - Rice bran oil
 - Soyabean oil
-- Sunflower oil
+- Sunflower oil (don't try to use)
 - Corn oil
 - canola oil
 - Mustard oil
@@ -341,6 +341,9 @@ https://www.quora.com/Is-corn-flour-same-as-makke-maize-ka-ata
 - Groundnut oil
 - Palm oil
 - Ghee
+- Peanut oil
+
+[5 Best Cooking Oils in India I #Shorts I Pankaj Bhadouria - YouTube](https://www.youtube.com/shorts/s5V6UJDhqUc)
 
 ### Oils to Avoid
 

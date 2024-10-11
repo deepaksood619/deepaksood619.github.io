@@ -181,5 +181,6 @@ The **impossible trinity** (also known as **the impossible [trilemma](https://en
 - [Where Will the Money and Productivity Come From?](https://www.linkedin.com/pulse/where-money-productivity-come-from-ray-dalio-fetve/)
 - [Fed up with Fed Talk: Central Banking Fairy Tales and Facts! - YouTube](https://www.youtube.com/watch?v=RpuuRS6mkx8&ab_channel=AswathDamodaran)
 - [‘Capitalism Without Capital’ Finds Strength in India - Marcellus](https://marcellus.in/blogs/capitalism-without-capital-finds-strength-in-india/)
+- [A Beautiful Deleveraging with Chinese Characteristics?](https://www.linkedin.com/pulse/beautiful-deleveraging-chinese-characteristics-ray-dalio-d7aue/)
 
 ## End

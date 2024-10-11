@@ -57,3 +57,15 @@ https://www.facebook.com/IIITDelhi/posts/2279503818733302 (Project was awarded 1
 	1. Hired and managed directly in Stashfin
 2. Ayush Yadav - Nykaa, Ex - Stashfin
 	1. Hired and managed directly in Stashfin
+
+## Blogs Published
+
+- [Deepak Sood – Medium](https://medium.com/@deepaksood619)
+- [Deploying Standalone JupyterLab on Kubernetes for Early Stage Startups | by Deepak Sood | Analytics Vidhya | Medium](https://medium.com/analytics-vidhya/deploying-standalone-jupyterlab-on-kubernetes-for-early-stage-startups-7a1468fae289)
+- [Categories of Databases — A Primer | by Deepak Sood | Analytics Vidhya | Medium](https://medium.com/analytics-vidhya/categories-of-databases-a-primer-9781a3b24285)
+- [Setting up Logging in Python and Flask Application the right way | by Deepak Sood | Analytics Vidhya | Medium](https://medium.com/analytics-vidhya/setting-up-logging-in-python-and-flask-application-the-right-way-e4489c759e8d)
+- [Getting started with AWS Glue. AWS Glue is a fully managed extract… | by Deepak Sood | Medium](https://medium.com/@deepaksood619/getting-started-with-aws-glue-8b25e615844c)
+- [Things to know — Amazon Aurora DB | by Deepak Sood | Medium](https://medium.com/@deepaksood619/things-to-know-amazon-aurora-db-b170ee067f06)
+- [An Introduction to Distributed Systems | by Deepak Sood | Medium](https://medium.com/@deepaksood619/an-introduction-to-distributed-systems-70ef6fc18d92)
+- [Ultimate Kubernetes Infrastructure Monitoring — Metrics + Logs | by Deepak Sood | Deepak Sood | Medium](https://medium.com/deepaksood619/ultimate-kubernetes-infrastructure-monitoring-metrics-logs-c7b871d797bd)
+- [A Resemblance between Human Learning and Machine Learning | by Deepak Sood | Medium](https://medium.com/@deepaksood619/a-resemblance-between-human-learning-and-machine-learning-ec4552fe3fa0)

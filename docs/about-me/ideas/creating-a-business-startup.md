@@ -59,6 +59,8 @@ Change begets friction. This, according to me, is why so many purpose led busine
 
 [Purpose vs Profit - by Shashank Mehta](https://midlifeentrepreneur.substack.com/p/purpose-vs-profit)
 
+[The Real Cost of Entrepreneurship - by Shashank Mehta](https://midlifeentrepreneur.substack.com/p/the-real-cost-of-entrepreneurship)
+
 ## Inspirations and Research and Product news
 
 - Techcrunch

@@ -173,6 +173,8 @@ https://towardsdatascience.com/an-overview-of-resnet-and-its-variants-5281e2f560
 
 https://tylerxhobbs.com/essays/2020/flow-fields
 
+[Getting started with generative art | Nicola Rennie](https://nrennie.rbind.io/blog/getting-started-generative-art/)
+
 ## Kyso
 
 Kyso is a central knowledge hub to manage, share and collaborate on technical reports - weconvertdata-science tools like Jupyter Notebooks to Medium-styleblog posts published to the web.We're fully integratedwithGithub, meaning when you push your commits, the changes are reflected immediately onKyso.It's very easy to get started - profiles, comments, etc. work right out of the box.

@@ -407,3 +407,5 @@ It can become toxic and inedible quickly; when stored for more than 20 minutes, 
 ![oat-vs-coke-vs-french-fries](../../../media/Pasted%20image%2020231001165735.png)
 
 [home - FIT SHIT](https://fitshit.in/)
+
+[Precaution vs. Proof: How the US and EU Differ on Food Safety](https://tbthealth.substack.com/p/precaution-vs-proof-how-the-us-and)

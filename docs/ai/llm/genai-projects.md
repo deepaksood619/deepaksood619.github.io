@@ -72,4 +72,7 @@
 - Engage in hands-on fine-tuning of diffusion models, particularly employing ControlNets and InstructPix2Pix models for improved performance and adaptability.
 - Integrate and optimize the use of ControlNets and InstructPix2Pix models within the stable diffusion model framework, perfecting the skill of refining and customizing these models for specific tasks and datasets.
 
-[Generative AI Course: In-Depth Training & Mentorship with AI Pinnacle Program](https://www.analyticsvidhya.com/genaipinnacle/2/genai-projects)
+## Links
+
+- [Generative AI Course: In-Depth Training & Mentorship with AI Pinnacle Program](https://www.analyticsvidhya.com/genaipinnacle/2/genai-projects)
+- [7 LLM Projects to Boost Your Machine Learning Portfolio - MachineLearningMastery.com](https://machinelearningmastery.com/7-llm-projects-to-boost-your-machine-learning-portfolio)

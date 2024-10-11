@@ -114,3 +114,7 @@ To support CDC, Airbyte uses [Debezium](https://debezium.io/) internally.
 | The **entire data set** will be retrieved from the source and sent to the destination on each sync run. | Only records that have been **inserted or updated** in the source system since the previous sync run are sent to the destination. |
 
 [An overview of Airbyte’s replication modes | Airbyte](https://airbyte.com/blog/understanding-data-replication-modes)
+
+## Others
+
+- [The Data Platform for Cloud & AI | WEKA - WEKA](https://www.weka.io/)

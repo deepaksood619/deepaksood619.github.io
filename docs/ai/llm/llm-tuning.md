@@ -16,4 +16,7 @@ Supervised fine-tuning means updating a pre-trained language model using labeled
 - Full fine-tuning
 - Parameter-efficient fine-tuning (PEFT)
 
-[Fine-tuning large language models (LLMs) in 2024 | SuperAnnotate](https://www.superannotate.com/blog/llm-fine-tuning)
+## Links
+
+- [Fine-tuning large language models (LLMs) in 2024 | SuperAnnotate](https://www.superannotate.com/blog/llm-fine-tuning)
+- [Pruning Aware Training(PAT) in LLMs - by Bugra Akyildiz](https://mlops.substack.com/p/pruning-aware-trainingpat-in-llms)

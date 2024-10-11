@@ -39,6 +39,10 @@
 - [Nifty LargeMidcap 250](https://www.niftyindices.com/indices/equity/broad-based-indices/nifty-largemidcap-250)
 - [Nifty MidSmallcap 400](https://www.niftyindices.com/indices/equity/broad-based-indices/niftymidsmallcap400)
 
+[Nifty Next 50 or Nifty Midcap 150: Which is a better bet?](https://www.moneycontrol.com/news/business/personal-finance/nifty-next-50-or-nifty-midcap-150-which-is-a-better-bet-11266921.html)
+
+[Nifty vs Nifty Next 50 vs Nifty Midcap 150 vs Nifty Smallcap 250](https://www.youtube.com/watch?v=gPaM-xy5O_w&ab_channel=freefincal-PrudentDIYInvesting%28freefincal%29)
+
 ## Sectoral Indices
 
 - [Nifty Auto](https://www.niftyindices.com/indices/equity/sectoral-indices/nifty-auto)
