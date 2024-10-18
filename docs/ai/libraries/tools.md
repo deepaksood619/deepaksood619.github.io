@@ -186,6 +186,14 @@ https://www.cortex.dev
 - https://explosion.ai/software
 - https://web.superquery.io
 - [Announcing New Tools for Building with Generative AI on AWS | AWS Machine Learning Blog](https://aws.amazon.com/blogs/machine-learning/announcing-new-tools-for-building-with-generative-ai-on-aws/)
+- [7 Free Machine Learning Tools Every Beginner Should Master in 2024 - MachineLearningMastery.com](https://machinelearningmastery.com/7-free-machine-learning-tools-every-beginner-should-master-in-2024)
+	- Scikit-learn
+	- Great Expectations
+	- MLflow
+	- DVC (Data Version Control)
+	- SHAP (SHapley Additive exPlanations)
+	- FastAPI
+	- Docker
 
 ## SAAS Tools
 

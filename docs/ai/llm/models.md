@@ -109,6 +109,11 @@ Emotional prompting example - You are Dolphin, an uncensored and unbiased Al ass
 - [GitHub - tatsu-lab/alpaca\_eval: An automatic evaluator for instruction-following language models. Human-validated, high-quality, cheap, and fast.](https://github.com/tatsu-lab/alpaca_eval)
 - [A Gentle Introduction to LLM Evaluations - Elena Samuylova - YouTube](https://www.youtube.com/live/ac6ZB5QEwGU)
 - [Eureka: OSS Framework to evaluate LLMs - by Bugra Akyildiz](https://mlops.substack.com/p/eureka-oss-framework-to-evaluate)
+- [The Needle In a Haystack Test. Evaluating the performance of RAG… | by Aparna Dhinakaran | Towards Data Science](https://towardsdatascience.com/the-needle-in-a-haystack-test-a94974c1ad38)
+	- [GitHub - gkamradt/LLMTest\_NeedleInAHaystack: Doing simple retrieval from LLM models at various context lengths to measure accuracy](https://github.com/gkamradt/LLMTest_NeedleInAHaystack)
+	- [The Needle In a Haystack Test: Evaluating the Performance of LLM RAG Systems - Arize AI](https://arize.com/blog-course/the-needle-in-a-haystack-test-evaluating-the-performance-of-llm-rag-systems/)
+	- [Unlocking precision: The "Needle-in-a-Haystack" test for LLM evaluation](https://labelbox.com/guides/unlocking-precision-the-needle-in-a-haystack-test-for-llm-evaluation/)
+	- [The Needle in the Haystack Test and How Gemini Pro Solves It | Google Cloud Blog](https://cloud.google.com/blog/products/ai-machine-learning/the-needle-in-the-haystack-test-and-how-gemini-pro-solves-it)
 
 ### Tools
 

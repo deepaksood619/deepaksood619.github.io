@@ -9,6 +9,7 @@ Fiscal policy is done by the government through spending. Monetary policy is don
 - UPI (Unified Payments Interface)
 - Aadhaar, DBT (Direct Benefit Transfer)
 - ONDC (Open Network for Digital Commerce)
+- Government e Marketplace (GeM)
 
 |               | **Excludable**                                                  | **Non-Excludable**                            |
 | ------------- | ----------------------------------------------------------- | ----------------------------------------- |

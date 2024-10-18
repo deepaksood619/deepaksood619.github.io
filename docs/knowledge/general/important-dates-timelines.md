@@ -1,11 +1,10 @@
 # Important Dates / Timelines
 
-|  |  |
-|---|---|
-| 4th April 1949 | NATO Treaty |
-| 5th - 16th June 1972 | Stockholm Conference - UNEP (United Nations Environment Programme)
-Motto - Only one Earth |
-| 3rd March 1973 | CITES Convention on International Trade in Endangered Species of wild flora and fauna, Washington Declaration |
+|                      |                                                                                                               |
+| -------------------- | ------------------------------------------------------------------------------------------------------------- |
+| 4th April 1949       | NATO Treaty                                                                                                   |
+| 5th - 16th June 1972 | Stockholm Conference - UNEP (United Nations Environment Programme) - Motto - Only one Earth                   |
+| 3rd March 1973       | CITES Convention on International Trade in Endangered Species of wild flora and fauna, Washington Declaration |
 
 ### January
 
@@ -211,3 +210,9 @@ Motto - Only one Earth |
 - December 25: Christmas Day
 
 https://byjus.com/free-ias-prep/important-national-international-days-dates-for-upsc-prelims
+
+## Others
+
+- AD - Anno Domini, CE - Common Era
+- BC - Before Christ, BCE - Before Common Era
+- BP - Before Present - [Before Present - Wikipedia](https://en.wikipedia.org/wiki/Before_Present)

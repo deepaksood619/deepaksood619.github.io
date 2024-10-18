@@ -41,3 +41,5 @@ This is arguably the most important, and the most overlooked, pillar. It encapsu
 - [5 Emotional Mistakes That Lead to Common Financial Mistakes](https://freefincal.com/5-emotional-mistakes-that-lead-to-common-financial-mistakes/)
 - [How to stay invested in equity without worrying about market falls](https://freefincal.com/how-to-stay-invested-in-equity-without-worrying-about-market-falls/)
 - [10 Timeless Investing Tips for Financial Freedom - The 1% News](https://news.onepercentclub.io/plan/10-timeless-investing-tips-to-become-a-successful-investor/5382/)
+- [Can I transfer Rs. 62 Lakhs from FDs to index funds and stay invested for 18 years?](https://freefincal.com/can-i-transfer-rs-62-lakhs-from-fds-to-index-funds-and-stay-invested-for-18-years/)
+- [Life Decisions that Affect an Indian's Bank Balance](https://freefincal.com/life-decisions-that-affect-an-indians-bank-balance/)

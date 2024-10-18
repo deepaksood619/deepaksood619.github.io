@@ -94,6 +94,9 @@ https://rethinkdb.com
 https://medium.com/terminusdb/graph-fundamentals-part-1-rdf-60dcf8d0c459
 
 - [Neo4j](https://tinkerpop.apache.org/docs/current/reference/#neo4j-gremlin)- OLTP graph database (embedded and high availability) (open source, noSQL graph database) - [Build Graph Databases with Neo4j](https://www.freecodecamp.org/news/learn-neo4j-database-course/)
+	- Use cases - [Graph Data Science for Fraud Detection & Analytics | Neo4j](https://neo4j.com/use-cases/fraud-detection/)
+	- [Graph Database Use Cases & Solutions](https://neo4j.com/use-cases/)
+	- [Generative AI - Ground LLMs with Knowledge Graphs](https://neo4j.com/generativeai/)
 - [neo4j-gremlin-bolt](https://github.com/SteelBridgeLabs/neo4j-gremlin-bolt)- OLTP graph database (using Bolt Protocol).
 - [OrientDB](https://github.com/orientechnologies/orientdb-gremlin)- OLTP graph database
 - [Apache S2Graph](https://s2graph.apache.org/)- OLTP graph database running on Apache HBase.

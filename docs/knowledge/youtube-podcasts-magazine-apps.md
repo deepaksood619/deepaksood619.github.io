@@ -456,7 +456,9 @@ Indian History - https://www.anirudhkanisetti.com/podcasts
 ### Torrents
 
 - [GitHub - iptv-org/iptv: Collection of publicly available IPTV channels from all over the world](https://github.com/iptv-org/iptv)
+    - https://thepiratebay.isworking.xyz/
     - [84+ Working 1337x Proxy (October 2023) Mirror Sites To Unblock](https://technoxyz.com/1337x-proxy-unblock/)
+    - [100% Working The Pirate Bay Proxy - Ads Free September 2024](https://thepiratebayproxy.github.io/)
     - [1337x.to - The 1337x Official Site | 1337x Official Home](https://1337x-official.to/)
     - [**Torrent Search Engine** | 1337x.to](https://1337x-to.pages.dev/)
     - [1337x.to | Download Free Torrent and Magnet Links](https://1337x.bz/)

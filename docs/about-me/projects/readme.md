@@ -35,6 +35,7 @@
 - [MLOps Case Studies](about-me/projects/64-mlops-case-studies.md)
 - [Case Study: Anomaly Detection in Metric Data using Isolation Forest](about-me/projects/51-case-study-anomaly-detection.md)
 - [GenAI Case Study - Careers360](about-me/projects/47-genai-case-study-careers360.md)
+- [Traditional AI Case Studies](about-me/projects/45-traditional-ai-case-studies.md)
 
 ### Bake.io
 

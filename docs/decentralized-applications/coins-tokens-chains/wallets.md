@@ -98,6 +98,10 @@ In the blockchain world, every on-chain event (a transaction that interacts with
 
 [What is a signature in MetaMask? - MetaMask](https://support.metamask.io/hc/en-us/articles/15756276171163-What-is-a-signature-in-MetaMask-)
 
+## Institutional
+
+- Bitgo
+
 ## Technologies
 
 [**Threshold Signatures Explained | Binance Academy**](https://academy.binance.com/en/articles/threshold-signatures-explained)

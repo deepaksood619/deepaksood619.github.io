@@ -315,3 +315,7 @@ cd /usr/bin
 https://kafka.apache.org/quickstart
 
 https://gist.github.com/sam95/d7aed31770883bd272728ad0483629d4
+
+## Others
+
+- [keytool](https://docs.oracle.com/javase/8/docs/technotes/tools/unix/keytool.html) - Manages a keystore (database) of cryptographic keys, X.509 certificate chains, and trusted certificates.

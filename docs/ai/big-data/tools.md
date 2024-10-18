@@ -48,6 +48,14 @@ https://www.talend.com
 
 https://www.youtube.com/watch?v=bqa0kB59SUc
 
+## Data on EKS
+
+![Data on EKS](../../media/Pasted%20image%2020241017195034.jpg)
+
+- [Hello from Data on EKS | Data on EKS](https://awslabs.github.io/data-on-eks/)
+- [GitHub - awslabs/data-on-eks: DoEKS is a tool to build, deploy and scale Data & ML Platforms on Amazon EKS](https://github.com/awslabs/data-on-eks)
+- [Introducing Data on EKS – Modernize Data Workloads on Amazon EKS | Containers](https://aws.amazon.com/blogs/containers/introducing-data-on-eks-modernize-data-workloads-on-amazon-eks/)
+
 ## SAAS
 
 - [Atlan](https://atlan.com/) (Enterprise Data Catalogs for DataOps)

@@ -153,6 +153,7 @@ For example, Google implements Single Sign On in its services. Google's central 
 - [Keycloak](https://www.keycloak.org/)
 - Okta
 - Auth0
+	- [FusionAuth: Auth. Built for Devs, by Devs](https://fusionauth.io/)
 - Supertokens - https://supertokens.io
 - **jumpcloud (Oyster)** - https://jumpcloud.com/daas-glossary/identity-management
 - https://magic.link

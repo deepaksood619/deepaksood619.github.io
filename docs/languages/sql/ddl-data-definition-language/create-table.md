@@ -52,6 +52,37 @@ ALTER TABLE communication_exceptions MODIFY update_date DATETIME NOT NULL DEFAUL
 5. Swap the old and new tables
 6. Unlock the tables & drop the original
 
+### Postgres ON UPDATE
+
+The `ON UPDATE` clause is not supported in PostgreSQL. To achieve similar functionality, you can use a `BEFORE UPDATE` trigger to automatically update the `update_date` column whenever a row is modified. Here’s how you can create the table and the trigger:
+
+```sql
+-- Create the table
+CREATE TABLE test (
+    id SERIAL PRIMARY KEY,
+    create_date TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
+    update_date TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
+    value INT
+);
+
+-- Create the trigger function to update the update_date column
+CREATE OR REPLACE FUNCTION update_timestamp()
+RETURNS TRIGGER AS $$
+BEGIN
+    NEW.update_date = CURRENT_TIMESTAMP;
+    RETURN NEW;
+END;
+$$ LANGUAGE plpgsql;
+
+-- Create the trigger that calls the function before each update
+CREATE TRIGGER update_test_timestamp
+BEFORE UPDATE ON test
+FOR EACH ROW
+EXECUTE FUNCTION update_timestamp();
+```
+
+[Automatically updating a timestamp column in PostgreSQL using Triggers | by Avinash | Medium](https://aviyadav231.medium.com/automatically-updating-a-timestamp-column-in-postgresql-using-triggers-98766e3b47a0)
+
 ### Redshift
 
 ```sql

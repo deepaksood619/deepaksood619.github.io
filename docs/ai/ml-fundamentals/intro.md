@@ -124,3 +124,4 @@ https://betterexplained.com/articles/intuitive-convolution
 - https://www.toptal.com/machine-learning/interview-questions
 - [Mathematics of Machine Learning](https://www.youtube.com/watch?v=8onB7rPG4Pk)
 - [A friendly introduction to linear algebra for ML (ML Tech Talks) - YouTube](https://www.youtube.com/watch?v=LlKAna21fLE)
+- [A Roadmap for Your Machine Learning Career - MachineLearningMastery.com](https://machinelearningmastery.com/a-roadmap-for-your-machine-learning-career/)

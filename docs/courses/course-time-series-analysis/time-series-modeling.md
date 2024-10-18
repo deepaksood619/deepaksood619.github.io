@@ -13,9 +13,7 @@ Patterns in the past persist in the future
 2. Parsimonious (as simple as possible)
 
     1. Generally: Simpler model > Complex model
-
     2. Significantly better predictions: Simpler model < Complex model
-
     3. Log-Likelihood Ratio test (LLR)
 
 Can be used for Different degrees of freedom
@@ -394,20 +392,20 @@ It serves as a sort of ARMA equivalent to the ARCH, where we're including both p
 
 ![image](../../media/Course-Time-Series-Analysis_Time-Series-Modeling-image27.jpg)
 
-How is the GARCHdifferent from the ARCH?
+How is the GARCH different from the ARCH?
 
 Includes past conditional variances
 
-Why is the GARCHsimilar to the ARMA?
+Why is the GARCH similar to the ARMA?
 
-Includes past values and past errors.(conditional variances and squared residuals)
+Includes past values and past errors (conditional variances and squared residuals)
 
-How does the GARCH (1,1) compare to complex ARCH counterparts?
+How does the GARCH(1,1) compare to complex ARCH counterparts?
 
 It outperforms even the ARCH(12) model we examined earlier.
 
 - No higher order GARCH models outperform the GARCH(1,1) when it comes to variance of market returns
-- All the effects of the conditional variacne 2 days ago will be contained in the conditional variance of yesterday
+- All the effects of the conditional variance 2 days ago will be contained in the conditional variance of yesterday
 - No need to include more than 1 GARCH component
 
 How do GARCH(p,q) models for the volatility of returns perform compared to the GARHC(1,1)?

@@ -20,6 +20,7 @@
 - [The Amazing AI Super Tutor for Students and Teachers | Sal Khan | TED - YouTube](https://www.youtube.com/watch?v=hJP5GqnTrNo&ab_channel=TED)
 - [WebChatGPT: ChatGPT with internet access | Chrome Web Store - Extensions](https://chrome.google.com/webstore/detail/webchatgpt-chatgpt-with-i/lpfemeioodjbpieminkklglpmhlngfcn/related)
 - [NotebookLM | Note Taking & Research Assistant Powered by AI](https://notebooklm.google/)
+	- [How to Create YouTube Video Study Guides with NotebookLM - KDnuggets](https://www.kdnuggets.com/how-to-create-youtube-video-study-guides-with-notebooklm)
 
 ## AI Generators
 

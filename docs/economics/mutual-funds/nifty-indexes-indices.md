@@ -1,4 +1,4 @@
-# Nifty Indexes
+# Nifty Indexes / Indices
 
 ![Sensex then versus now](../../media/Pasted%20image%2020241006231135.jpg)
 
@@ -42,6 +42,16 @@
 [Nifty Next 50 or Nifty Midcap 150: Which is a better bet?](https://www.moneycontrol.com/news/business/personal-finance/nifty-next-50-or-nifty-midcap-150-which-is-a-better-bet-11266921.html)
 
 [Nifty vs Nifty Next 50 vs Nifty Midcap 150 vs Nifty Smallcap 250](https://www.youtube.com/watch?v=gPaM-xy5O_w&ab_channel=freefincal-PrudentDIYInvesting%28freefincal%29)
+
+[What Is NIFTY Midcap 150? How Can You Invest In This Midcap Index?](https://www.etmoney.com/learn/mutual-funds/what-is-nifty-midcap-150-how-can-you-invest-in-nifty-midcap-150/)
+
+[Nifty 50 vs Nifty Next 50 vs Nifty 100: Pick Your Large Cap Index](https://www.sharekhan.com/financial-blog/blogs/nifty-50-vs-nifty-next-50-vs-nifty-100-pick-your-large-cap-index)
+
+**Nifty 50:** The Nifty 50 comprises the 50 largest and most liquid companies listed on the National Stock Exchange of India. The stocks in the Nifty 50 are big players, typically large-cap stocks with a massive market value.
+
+**Nifty Next 50:** On the other hand, the Nifty Next 50 includes mid-cap companies that rank from 51 to 100 in terms of full market cap. So naturally, the average market cap of these companies is smaller than that of Nifty 50 constituents. The total market cap of the Nifty Next 50 is around 15-18% of the full NSE 500 market cap.
+
+**Nifty 100:** Finally, the Nifty 100 is an index that combines the Nifty 50 and Next 50, covering the 100 most valuable listed companies. As you can expect, the market cap is between Nifty 50 and Next 50. So it covers around 75-80% of the total market cap of the 500 stocks trading on the NSE.
 
 ## Sectoral Indices
 

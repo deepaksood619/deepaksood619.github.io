@@ -21,6 +21,10 @@
 - [Solutions](ai/solutions.md)
     - [Social Media Analytics Solution](ai/social-media-analytics-solution.md)
 
+## Data & AI Landscape
+
+![Data & AI Landscape](media/Data-and-AI-Landscape-2021-v3-small.jpg)
+
 ## AGI (Artificial General Intelligence) / Sentient
 
 AGI will be intellectually, morally, ethically and creatively superior to humans in every conceivable way

@@ -28,3 +28,7 @@
 - [TELEGRAM Trading Bots: Game-Changer or Fad?? - YouTube](https://www.youtube.com/watch?v=FzgE0EPFpfY)
 - [Lybra Finance - Unleash the Utility of LST in DeFi](https://route2fi.substack.com/p/lybra-finance-unleash-the-utility)
 - [Lucid Finance](https://lucidfinance.xyz/)
+- [Provenance Blockchain Foundation](https://provenance.io/)
+	- [Provenance Blockchain Explorer - Dashboard](https://explorer.provenance.io/dashboard)
+	- [Introduction | Provenance Blockchain Developer Portal](https://developer.provenance.io/docs/)
+	- [bfi.uchicago.edu/wp-content/uploads/Provenance-Whitepaper.pdf](https://bfi.uchicago.edu/wp-content/uploads/Provenance-Whitepaper.pdf)

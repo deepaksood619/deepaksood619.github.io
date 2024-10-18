@@ -50,6 +50,18 @@ https://blueyonder.com
 - https://github.com/partkeepr/PartKeepr
 - https://github.com/allegro/ralph
 
+## Warehouse Management Solution (WMS)
+
+A warehouse management system is software that helps companies manage and control daily warehouse operations, from the moment goods and materials enter a distribution or fulfilment centre until the moment they leave.
+
+1. Improved operational efficiency
+2. Reduced waste and costs
+3. Real-time inventory visibility
+4. Improved labour management
+5. Better customer and supplier relationships
+
+[Page Not Found | SAP](https://www.sap.com/india/products/scm/extended-warehouse-management/what-is-a-wms.htm)
+
 ## Human Resource Management System (HRMS) / HRIS / Hiring Tools
 
 - OrangeHRM - https://sourceforge.net/projects/orangehrm

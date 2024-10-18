@@ -210,16 +210,18 @@ A loan tape is a snapshot of a fintech's customer base and outstanding balances,
 38. Paisa bazaar
 39. Bank bazaar
 40. Home credit
-41. Cred
-42. Lazypay
-43. Bharatpe
-44. Payu
-45. Amex
-46. Uni pay 1/3rd card (uni app)
-47. OfBusiness
-48. axio, formerly Capital Float
-49. Piramal Finance, one of India's largest non-banking lenders
-50. Affirm (US - fintech)
+41. Propelled (Education loan)
+42. Jodo
+43. Cred
+44. Lazypay
+45. Bharatpe
+46. Payu
+47. Amex
+48. Uni pay 1/3rd card (uni app)
+49. OfBusiness
+50. axio, formerly Capital Float
+51. Piramal Finance, one of India's largest non-banking lenders
+52. Affirm (US - fintech)
 
 https://tracxn.com/d/soonicorn-awards/top-startups-in-india-fintech-2021
 

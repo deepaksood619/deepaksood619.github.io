@@ -7,7 +7,7 @@ From designing robust data pipelines to managing complex transformations and opt
 ### Podcast Details
 
 - Speaker - Deepak Sood, Sr. AI, Data & DevOps Architect, OpsTree Solutions
-- Date - 15th October 2024
+- Date - Tuesday, 15th October 2024
 - Time - 6:30 pm – 8:00 pm (IST)
 
 ### Workshop Agenda

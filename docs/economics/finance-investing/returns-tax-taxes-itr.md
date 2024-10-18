@@ -90,6 +90,8 @@ https://cleartax.in/s/marginal-relief-surcharge
 
 10% surcharge for people earning more than 50 lakh (get marginal relief surcharge)
 
+[Tax Harvesting vs Portfolio Rebalancing: What is the difference?](https://freefincal.com/tax-harvesting-vs-portfolio-rebalancing-what-is-the-difference/)
+
 ## Taxability
 
 For taxation purposes, all mutual funds with investments lower than 65% in equity instruments are considered debt funds. Short-term capital gains of less than 36 months are taxed corresponding to the investor's income tax slab.

@@ -27,3 +27,9 @@ https://www.mitrai.com/tech-guide/eight-types-of-aws-storage-services-explained
 ### Pricing / Cost Optimization
 
 [Cost-Optimizing your AWS architectures by utilizing Amazon CloudFront features | Networking & Content Delivery](https://aws.amazon.com/blogs/networking-and-content-delivery/cost-optimizing-your-aws-architectures-by-utilizing-amazon-cloudfront-features/)
+
+## Links
+
+- [cdn-content-delivery-network](cloud/others/cdn-content-delivery-network.md)
+- [cdn-comparision](cloud/others/cdn-comparision.md)
+- [What you need to know when invalidating files - Amazon CloudFront](https://docs.aws.amazon.com/AmazonCloudFront/latest/DeveloperGuide/invalidation-specifying-objects.html)

@@ -45,3 +45,5 @@ Habitat - 67 - [How a 23-Year-Old Solved Urban Sprawl - YouTube](https://www.you
 - [How to Control a Crowd - YouTube](https://www.youtube.com/watch?v=C_B09FZwSbA)
 - [Rare earths crunch? Why we need them and who has them | Business Beyond - YouTube](https://www.youtube.com/watch?v=cL4YXCKrJJ4)
 - [Jackhammer - Wikipedia](https://en.wikipedia.org/wiki/Jackhammer)
+- [Mivan Shuttering क्या होती है? | Aluminum Formwork and Its Components - YouTube](https://www.youtube.com/watch?v=lti2g-yAuwQ)
+	- [What Is Mivan Construction| Its Advantages | How To Stop Wealth Destruction - YouTube](https://www.youtube.com/watch?v=ylb0Uu659Lo)

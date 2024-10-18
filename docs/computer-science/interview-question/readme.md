@@ -13,6 +13,7 @@
 - [System Design - YouTube](computer-science/interview-question/system-design-youtube.md)
 - [System Design - MMOG - Game](system-design-mmog-game)
 - [Google Crawlers / Crawling](frontend/frontend-intro/google-crawlers-crawling.md)
+- [System Design of Uber Data Architecture](computer-science/interview-question/system-design-uber-data-architecture.md)
 - [System Design - Others](system-design-others)
 - [Toptal](toptal)
 - [Blogs / Conferences / Blogging / Presentation / Tech Thursdays](blogs-conferences-blogging-presentation-tech-thursdays)

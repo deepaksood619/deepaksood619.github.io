@@ -107,6 +107,10 @@ p.produce('bank_data', json.dumps(payload), callback=delivery_report)
 p.flush()
 ```
 
+## Others
+
+- [Kora: The Cloud Native Engine for Apache Kafka](https://www.confluent.io/blog/cloud-native-data-streaming-kafka-engine/)
+
 ## Resources
 
 - https://github.com/confluentinc/confluent-kafka-python

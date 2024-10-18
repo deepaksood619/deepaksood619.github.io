@@ -11,6 +11,7 @@
 - Andreas Klinger - https://klinger.io
 - [Jeroen Bouma | Financial Risk Analyst](https://www.jeroenbouma.com/)
 - https://www.linkedin.com/in/vishalkmishra/
+- https://www.linkedin.com/in/pavankmurthy/
 - **Software Developer Good -** https://drive.google.com/drive/folders/1zMuTUjsifK9QVvrwF56oE8EJcgw9YBhJ?usp=sharing
 - **Pradeep Parameswaran**
 

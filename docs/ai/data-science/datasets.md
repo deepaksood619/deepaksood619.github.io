@@ -68,3 +68,7 @@ H and DS use similar datasets, and DS is basically the next-gen version of H. Wh
     - [Croissant: a metadata format for ML-ready datasets](https://research.google/blog/croissant-a-metadata-format-for-ml-ready-datasets/)
     - [GitHub - mlcommons/croissant: Croissant is a high-level format for machine learning datasets that brings together four rich layers.](https://github.com/mlcommons/croissant)
 - Cat / Dog - https://bit.ly/ImgClsKeras
+
+## Links
+
+- [5 Free Datasets to Kickstart Your Machine Learning Projects Today - MachineLearningMastery.com](https://machinelearningmastery.com/5-free-datasets-to-kickstart-your-machine-learning-projects-today/)

@@ -68,6 +68,22 @@ https://github.com/dbeaver/dbeaver
 - show line numbers
 - SQL Editor > Formatting > Keyword Case: Upper
 
+### Import large data
+
+- Open new connection (s): Yes
+- Use transactions: Yes
+- **Do Commit after row insert**: 100000 (increase more if large rows and less columns)
+- **Use multi-row Insert**: Yes
+- **Multi-row insert batch size**: 5000 (increase more if large rows and less columns)
+- Skip bind values: No
+- Disable batches: No
+- Ignore duplicate rows: No
+- Method for duplicate key case:
+- Transfer auto-generated columns: Yes
+- Disable referential integrity: No
+- **Use bulk load**: Yes
+- Truncate before load: No
+
 ## Teradata
 
 Analytics, Data Lakes and Data Warehouses Unified in the Cloud

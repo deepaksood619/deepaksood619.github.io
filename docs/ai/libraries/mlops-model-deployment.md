@@ -156,3 +156,4 @@ https://www.seldon.io
 - [Let’s Architect! Learn About Machine Learning on AWS | AWS Architecture Blog](https://aws.amazon.com/blogs/architecture/lets-architect-learn-about-machine-learning-on-aws/)
 - [AWS re:Invent 2023 - Introduction to MLOps engineering on AWS (TNC215) - YouTube](https://www.youtube.com/watch?v=2kzJPhgDkDE)
 - [AWS re:Invent 2023 - Zero to machine learning: Jump-start your data-driven journey (SMB204) - YouTube](https://www.youtube.com/watch?v=-CSrOKo8Qgs)
+- [Step-by-Step Guide to Deploying ML Models with Docker](https://www.kdnuggets.com/step-by-step-guide-to-deploying-ml-models-with-docker)

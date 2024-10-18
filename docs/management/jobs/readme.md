@@ -135,6 +135,145 @@ In early career, taking bets vs random job hopping is critical
 - Keylime (International Development)
 - Fiverr
 
+Forget [Fiverr](https://www.linkedin.com/company/fiverr-com/) , [Naukri.com](https://www.linkedin.com/company/naukri.com/) , [Shine.com](https://www.linkedin.com/company/shinecom/), and [Monster](https://www.linkedin.com/company/monster/) they are just overhyped.
+
+Here are 30 websites to find remote jobs that pay in USD:
+
+1. [Athyna](https://www.linkedin.com/company/athyna/)
+
+Best site for finding your dream remote job and working for companies from all around the world.
+
+🔗 Link: [www.athyna.com](http://www.athyna.com/)
+
+2. [Wellfound](https://www.linkedin.com/company/wellfoundhq/)
+
+- Unique jobs
+- Top Companies
+- Over 130,000 jobs
+
+🔗 Link: [https://wellfound.com/jobs](https://wellfound.com/jobs)
+
+3. [RemoteOK](https://www.linkedin.com/company/remoteok/)
+
+- Over 600,000 jobs
+- Work from anywhere
+- The no. 1 remote job board
+
+🔗 Link: [https://remoteok.com](https://remoteok.com/)
+
+4. [Remotive](https://www.linkedin.com/company/remotive.io/)
+
+- Over 30,000 jobs
+- Vetted tech companies
+- Full remote job opportunities
+
+🔗 Link: [https://remotive.com](https://remotive.com/)
+
+5. [Remote](https://www.linkedin.com/company/remote.com/).co
+
+- Hand curated
+- Grow remotely
+- 146 remote companies
+
+🔗 Link: [https://lnkd.in/eYgwD4bB](https://lnkd.in/eYgwD4bB)
+
+6. [FlexJobs](https://www.linkedin.com/company/flexjobs-com/) - Vetted Remote & Flexible Jobs
+
+- 50+ categories
+- Over 42,000 jobs
+- 5,509 companies
+
+🔗Link: [https://www.flexjobs.com](https://www.flexjobs.com/)
+
+7. [JustRemote](https://www.linkedin.com/company/justremote/)
+
+- Jobs that fit your life
+- Fully and partially remote
+- Top remote working companies
+
+🔗Link: [https://lnkd.in/d5ZqAXm](https://lnkd.in/d5ZqAXm)
+
+8. [PowerToFly](https://www.linkedin.com/company/powertofly/)
+
+-2987 Remote jobs
+
+- Jobs tailored to your skillset
+- Land a job at a company committed to diversity & inclusion
+
+🔗Link: [https://powertofly.com/](https://powertofly.com/)
+
+9. [RemoteWoman](https://www.linkedin.com/company/remotewoman/)
+
+-Women have the opportunity to work from home, enhancing their productivity and flexibility
+
+🔗 Link: [remotewoman.com](http://remotewoman.com/)
+
+10. Toptal
+
+- Top Companies
+- Exclusive network
+- Community of experts
+
+🔗Link: [https://www.toptal.com](https://www.toptal.com/)
+
+11. [Working Nomads](https://www.linkedin.com/company/working-nomads/)
+
+-100% remote jobs
+-Work from anywhere
+-For digital working nomads
+
+🔗 Link: [https://lnkd.in/efQwAr7V](https://lnkd.in/efQwAr7V)
+
+12. Simply Hired (simply [hired.com](http://hired.com/))
+
+13. Angel List ([angel.co/Jobs](http://angel.co/Jobs))
+
+14. Virtual Vocations ([virtaalvocations.com](http://virtaalvocations.com/))
+
+15. Stack Overflow Jobs (Stack [Overflow.com/Jobs](http://overflow.com/Jobs))
+
+16. Remote Work (Remote [work.com](http://work.com/))
+
+17. Dice ([dice.com](http://dice.com/))
+
+18. Jobspresso ([Jobspresso.co](http://jobspresso.co/))
+
+19. Upwork ([upwork.com](http://upwork.com/))
+
+20. Outsourcely ([Outsourcely.com](http://outsourcely.com/))
+
+21. Europe Remotely ([europeremiely.com](http://europeremiely.com/))
+
+22. [WeWork](https://www.linkedin.com/company/wework/)
+
+23. Remote ok Europe ([remoteok.io](http://remoteok.io/))
+
+24. Flex Jobs ([flexjobs.com](http://flexjobs.com/))
+
+25. Remole of Asia ([remoteok.io/asia](http://remoteok.io/asia))
+
+26. Remote Jobs [remotejobs](https://www.linkedin.com/company/remote-jobs/)
+
+27.remote4me : Customize your remote job search based on location, salary, and more.
+
+🔗 Link ([https://remote4me.com/](https://remote4me.com/))
+
+28. [AutoApply.Jobs](http://autoapply.jobs/) Jobs
+
+[https://autoapply.jobs/](https://autoapply.jobs/)
+
+29. @Finalclub
+
+Transform your LinkedIn connections into email lists with this ChatGPT-Powered Email Finding Extension.
+
+[https://finalscout.com](https://finalscout.com/)
+
+30. [Yoodli AI Communication Coach](https://www.linkedin.com/company/yoodli/):
+
+Enhance your online meeting job interviews with private, real-time speech coaching.
+
+[https://app.yoodli.ai/](https://app.yoodli.ai/)
+
 ### General Interest Job Sites with Remote Search Filters
 
 - idealista

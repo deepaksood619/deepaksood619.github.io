@@ -1,6 +1,10 @@
 # Postgres Commands
 
-`brew install postgresql`
+```bash
+brew install postgresql
+
+sudo apt-get install -y postgresql14
+```
 
 ## psql - start postgres sql query engine
 
@@ -43,7 +47,7 @@ GRANT SELECT ON ALL TABLES IN SCHEMA public TO quicksight;
 
 REASSIGN OWNED BY quicksight TO postgres;  -- or some other trusted role
 DROP OWNED BY ryan;
-DROPUSERryan;
+DROP USER ryan;
 ```
 
 psql has a `ECHO_HIDDEN` variable you can set to show (or 'echo') any SQL queries performed behind the scenes by backslash commands.
@@ -55,6 +59,10 @@ psql has a `ECHO_HIDDEN` variable you can set to show (or 'echo') any SQL querie
 \c [databasename]: Connect to [databasename] on local database cluster
 
 CREATE DATABASE zenalytix_db_new;
+
+CREATE TABLE test ( id SERIAL PRIMARY KEY, create_date TIMESTAMP DEFAULT CURRENT_TIMESTAMP, update_date TIMESTAMP DEFAULT CURRENT_TIMESTAMP, value INT );
+
+Drop table test;
 
 psql -U abc -d zenalytix_db_new -p 5432
 
@@ -117,6 +125,22 @@ ALTER USER test WITH PASSWORD 'test1234';
 DROP USER test;
 
 delete from task_instance where execution_date::date < '2021-01-13 21:00:00+0';
+```
+
+### Administration
+
+```sql
+-- Postgres 14 adds the predefined, non-login roles [**`pg_read_all_data`** / **`pg_write_all_data`**](https://www.postgresql.org/docs/current/predefined-roles.html).
+-- They have `SELECT` / `INSERT`, `UPDATE`, `DELETE` privileges for _all_ tables, views, and sequences. Plus `USAGE` on schemas. We can `GRANT` membership in these roles:
+
+GRANT pg_read_all_data TO my_user;
+GRANT pg_write_all_data TO my_user;
+-- [sql - PostgreSQL: Give all permissions to a user on a PostgreSQL database - Stack Overflow](https://stackoverflow.com/questions/22483555/postgresql-give-all-permissions-to-a-user-on-a-postgresql-database)
+
+REVOKE ALL PRIVILEGES ON DATABASE loantape FROM app_quicksight;
+drop user app_quicksight;
+
+set password_encryption = 'md5';
 ```
 
 ### Configurations

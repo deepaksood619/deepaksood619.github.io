@@ -73,6 +73,8 @@ https://www.freecodecamp.org/news/monorepo-essentials
 
 [Python Monorepos: What, Why and How](https://www.youtube.com/watch?v=1qurVKSYVqY)
 
+[How TikTok Manages A 200K File MonoRepo with Sparo](https://blog.bytebytego.com/p/how-tiktok-manages-a-200k-file-monorepo)
+
 ## Games
 
 https://github.com/git-game/git-game

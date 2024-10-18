@@ -7,6 +7,7 @@
 - [parameters-configuration-optimization](databases/sql-databases/postgres/parameters-configuration-optimization.md)
 - [Replication](databases/sql-databases/postgres/replication.md)
 - [others](databases/sql-databases/postgres/others.md)
+- [Postgres Commands](languages/sql/postgres-commands.md)
 
 ## Introduction
 
@@ -40,6 +41,24 @@ PostgreSQL shares many of the same advantages of MySQL. It is easy to use, inexp
     - Index scan
 - Up to 12 tables, postgres tries all possible join operations and prunning for optimization query
 - Generic query optimizer
+
+## Schema vs Database
+
+In PostgreSQL, a database is a collection of one or more named schemas, and a schema is a collection of tables, views, functions, and other objects within a database:
+
+Here are some differences between databases and schemas in PostgreSQL:
+
+- **Purpose -** A database is used to isolate data, while a schema is used to organize and manage database objects.
+- **Namespace -** Schemas are logically separated by a namespace within a database.
+- **Structure -** A database can contain multiple schemas, and each schema can contain multiple tables.
+- **Object names -** The same object name can be used in different schemas, but two objects of the same type cannot have the same name within a schema.
+- **Access -** Users can access objects in any schema in the database they are connected to, if they have privileges to do so.
+
+#### Some reasons to use schemas include
+
+- Allowing multiple users to use one database without interfering with each other
+- Organizing database objects into logical groups
+- Putting third-party applications into separate schemas so they do not collide with the names of other objects
 
 ## Functions in Postgres
 

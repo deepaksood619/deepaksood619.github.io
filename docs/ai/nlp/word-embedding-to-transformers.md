@@ -684,3 +684,8 @@ Mamba is a linear-time language model that outperforms Transformers on various t
 [Mamba: The Easy Way](https://jackcook.com/2024/02/23/mamba.html)
 
 [Mamba Explained](https://thegradient.pub/mamba-explained/)
+
+## Links
+
+- [State Space Sequence Models over Transformers?](https://mlops.substack.com/p/state-space-sequence-models-over)
+- [Introduction - Hugging Face NLP Course](https://huggingface.co/learn/nlp-course/chapter1/1)

@@ -32,6 +32,7 @@
 - [udlbook](https://udlbook.github.io/udlbook/)
 - [Learn Machine Learning in 2024](https://www.freecodecamp.org/news/learn-machine-learning-in-2024/)
 - [5 Free AI Courses With Certifications In 2024](https://www.forbes.com/sites/rachelwells/2024/08/08/5-free-ai-courses-with-certifications-in-2024/)
+- [A Roadmap for Your Machine Learning Career - MachineLearningMastery.com](https://machinelearningmastery.com/a-roadmap-for-your-machine-learning-career/)
 
 ## DS (Data Science) + DA (Data Analytics) + DE (Data Engineering)
 

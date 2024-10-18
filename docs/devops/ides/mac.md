@@ -75,6 +75,11 @@ Open two instance of same application - **open -n MQTT.fx.app**
 - **Google Drive for mac**
 - ~~bittorrent web~~
 - ~~Popcorn~~
+	- sudo xattr -cr /Applications/Popcorn-Time.app
+	- https://fusme.link/
+	- https://jfper.link/
+	- https://uxert.link/
+	- https://yrkde.link/
 - **VLC** or [GitHub - iina/iina: The modern video player for macOS.](https://github.com/iina/iina)
 - ~~Anki Flash Cards~~ -
 - ~~Anaconda navigator~~ - [~~https://conda.anaconda.org/conda-forge/~~](https://conda.anaconda.org/conda-forge/)
@@ -133,6 +138,7 @@ https://www.google.com/inputtools
 - Duplicate Tab shortcut
     - Duplicate the current tab - ctrl + d
     - New tab to the right - cmd + t
+- [ChatGPT Writer: Use AI on Any Site (GPT-4o, Claude, Gemini, and More)](https://chatgptwriter.ai/)
 
 ##### Screen recorders
 

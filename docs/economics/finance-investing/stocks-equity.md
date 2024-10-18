@@ -141,6 +141,7 @@ https://www.moneycontrol.com/india-investors-portfolio
 - [How should Traders & Investors, trade or invest in a Bear Market? - YouTube](https://www.youtube.com/watch?v=GIIs2Pp_COY)
 - [Finshots is a stock-picking genius. But…](https://finshots.in/markets/finshots-is-a-stock-picking-genius-but/)
 - [Why portfolio rebalancing is important for investment success](https://freefincal.com/why-portfolio-rebalancing-is-important-for-investment-success/)
+- [Mutual Fund Profit Booking vs Rebalancing: What is the difference?](https://freefincal.com/mutual-fund-profit-booking-vs-rebalancing-what-is-the-difference/)
 - [My Stock Portfolio Analysis: Mar 2024](https://freefincal.com/my-stock-portfolio-analysis-mar-2024/)
 - [SIP Top-Up: The Mindboggling math of SIP top up](https://www.hdfcfund.com/knowledge-stack/mf-vault/weekend-bytes/sip-top-mindboggling-math-sip-top)
 - [SWP: A smarter way to manage periodic expenses](https://www.hdfcfund.com/knowledge-stack/mf-vault/weekend-bytes/swp-smarter-way-manage-periodic-expenses)

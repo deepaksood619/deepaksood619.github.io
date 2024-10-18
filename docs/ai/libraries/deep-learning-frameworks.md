@@ -1,23 +1,5 @@
 # Deep Learning Frameworks
 
-## Apache MXNet
-
-A scalable deep learning framework. Extremely fast and efficient. Capable of scaling across multiple GPUs and multiple machines.
-
-Apache MXNet is an open-source deep learning software framework that trains and deploys deep neural networks. It aims to be scalable, allows fast model training, and supports a flexible programming model and multiple programming languages (including C++, Python, Java, Julia, MATLAB, JavaScript, Go, R, Scala, Perl, and Wolfram Language). The MXNet library is portable and can scale to multiple GPUs and machines. It was co-developed by Carlos Guestrin at the University of Washington, along with GraphLab.
-
-As of September 2023, **it is no longer actively developed**. Apache MXNet was effectively abandoned due to a combination of factors including lack of significant contributions, outdated builds, and a shift in focus by its major backer, Amazon, towards other frameworks like PyTorch. The project saw no new releases for over a year, and there were very few pull requests or updates from contributors, leading to its move to the Apache Attic in 2023. Additionally, the community began migrating to other frameworks that offered more robust support and development activity.
-
-https://en.wikipedia.org/wiki/Apache_MXNet
-
-### MXNet Model Server
-
-Model Server for Apache MXNet is a tool for serving neural net models for inference
-
-Model Server for Apache MXNet (MMS) is a flexible and easy to use tool for serving deep learning models exported from [MXNet](http://mxnet.io/) or the Open Neural Network Exchange ([ONNX](http://onnx.ai/)).
-
-https://github.com/awslabs/mxnet-model-server
-
 ## Pytorch
 
 PyTorch ( Tensors and Dynamic neural networks in Python with strong GPU acceleration)
@@ -51,7 +33,6 @@ Open source machine learning library. Often used for neural networks, deep learn
 - **Keras** is not for beginners, its for rapid deployment and production. And meant to be used by the people who already understand the technology
 - **Pytorch** is great for research implementations, but it's very unnecessarily hard to deploy your model into production
 - **Tensorfow** is another great framework for deep learning. But is slow and memory hungry
-- After using Pytorch/Keras/Tensorflow 2.0, I finally decided that MXNet would be my frameworks of choice for Deep Learning.
 
 ### 1. PyTorch
 
@@ -151,6 +132,24 @@ Open source machine learning library. Often used for neural networks, deep learn
 If you are building a **deep learning computer vision model**, **PyTorch** or **TensorFlow (Keras)** are the primary options. Use **PyTorch** for flexibility and ease of debugging, and **TensorFlow** if you need scalability, optimization, and deployment tools.
 
 For traditional machine learning tasks (e.g., using support vector machines or decision trees), **scikit-learn** is a better fit.
+
+## Apache MXNet
+
+A scalable deep learning framework. Extremely fast and efficient. Capable of scaling across multiple GPUs and multiple machines.
+
+Apache MXNet is an open-source deep learning software framework that trains and deploys deep neural networks. It aims to be scalable, allows fast model training, and supports a flexible programming model and multiple programming languages (including C++, Python, Java, Julia, MATLAB, JavaScript, Go, R, Scala, Perl, and Wolfram Language). The MXNet library is portable and can scale to multiple GPUs and machines. It was co-developed by Carlos Guestrin at the University of Washington, along with GraphLab.
+
+As of September 2023, **it is no longer actively developed**. Apache MXNet was effectively abandoned due to a combination of factors including lack of significant contributions, outdated builds, and a shift in focus by its major backer, Amazon, towards other frameworks like PyTorch. The project saw no new releases for over a year, and there were very few pull requests or updates from contributors, leading to its move to the Apache Attic in 2023. Additionally, the community began migrating to other frameworks that offered more robust support and development activity.
+
+https://en.wikipedia.org/wiki/Apache_MXNet
+
+### MXNet Model Server
+
+Model Server for Apache MXNet is a tool for serving neural net models for inference
+
+Model Server for Apache MXNet (MMS) is a flexible and easy to use tool for serving deep learning models exported from [MXNet](http://mxnet.io/) or the Open Neural Network Exchange ([ONNX](http://onnx.ai/)).
+
+https://github.com/awslabs/mxnet-model-server
 
 ## Links
 

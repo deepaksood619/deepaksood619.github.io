@@ -23,6 +23,14 @@ Amazon Fraud Detector is a fully managed service that makes it easy to identify 
 - Online Fraud Insights
 - Account Takeover Insights
 
+### Model metrics
+
+![Model performance charts](../../media/Screenshot%202024-10-16%20at%203.52.43%20PM.jpg)
+
+![ROC Curve](../../media/Screenshot%202024-10-16%20at%203.52.52%20PM.jpg)
+
+![Model variable importance](../../media/Screenshot%202024-10-16%20at%203.53.40%20PM.jpg)
+
 ### Links
 
 - [What is Amazon Fraud Detector? - Amazon Fraud Detector](https://docs.aws.amazon.com/frauddetector/latest/ug/what-is-frauddetector.html)
