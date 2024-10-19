@@ -96,9 +96,15 @@ Highly personalized education for each person
 ### Reporting / Observability
 
 - Send daily, weekly, monthly reports to students, parents and teachers
-   	- How many things you learned today
-   	- Summary and revision material in reviewable format
-   	- Send materials
+	- How many things you learned today
+	- Summary and revision material in reviewable format
+	- Send materials
+
+### Thoughts
+
+- Reading and writing is not required
+- And rote learning is not required
+- AI will be question and answer with voice, and all facts will be accessible all the time
 
 ### Links
 

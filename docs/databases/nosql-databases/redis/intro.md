@@ -74,6 +74,21 @@ Redis Enterprise 6.0
 
 https://redis.io/topics/faq
 
+## Use Cases
+
+- String
+	- Session
+	- Cache
+	- Distributed Lock
+- Int
+	- Counter
+	- Rate Limiter
+	- Global ID
+- Hash - Shopping Cart
+- Bitmap - User Retention
+- List - Message Queue
+- ZSet - Rank / Leaderboard
+
 ## References
 
 - Book - https://redislabs.com/redis-in-action

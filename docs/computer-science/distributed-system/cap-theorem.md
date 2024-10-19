@@ -1,6 +1,6 @@
 # CAP Theorem
 
-## Proposed by Eric Brewer (Berkeley)
+Proposed by Eric Brewer (Berkeley)
 
 ## C - Consistency
 
@@ -16,7 +16,9 @@
 
 - The system continues to operate despite an arbitrary number of messages being dropped (or delayed) by the network between nodes
 - the system continues to work inspite of network partitions
+
 Can only achieve two of these.
+
 In the presence of a network partition, you must choose betwen consistency and availability
 
 ## Why is Availability Important?
@@ -88,7 +90,7 @@ Despite your best efforts, your system will experience enough faults that it wil
 
 In [theoretical computer science](https://en.wikipedia.org/wiki/Theoretical_computer_science), thePACELC theoremis an extension to the [CAP theorem](https://en.wikipedia.org/wiki/CAP_theorem). It states that in case of network partitioning (P) in a [distributed computer system](https://en.wikipedia.org/wiki/Distributed_computing), one has to choose between availability (A) and consistency (C) (as per the CAP theorem), but else (E), even when the system is running normally in the absence of partitions, one has to choose between latency (L) and consistency (C).
 
-## Database PACELC ratings
+### Database PACELC ratings
 
 - The default versions of [DynamoDB](https://en.wikipedia.org/wiki/Amazon_DynamoDB), [Cassandra](https://en.wikipedia.org/wiki/Apache_Cassandra), [Riak](https://en.wikipedia.org/wiki/Riak) and [Cosmos DB](https://en.wikipedia.org/wiki/Cosmos_DB) are **PA/EL systems**: if a partition occurs, they give up consistency for availability, and under normal operation they give up consistency for lower latency.
 - Fully ACID systems such as [VoltDB](https://en.wikipedia.org/wiki/VoltDB)/H-Store, Megastore and**[MySQL Cluster](https://en.wikipedia.org/wiki/MySQL_Cluster) are PC/EC**: they refuse to give up consistency, and will pay the availability and latency costs to achieve it.[BigTable](https://en.wikipedia.org/wiki/Bigtable) and related systems such as [HBase](https://en.wikipedia.org/wiki/Apache_HBase) are also PC/EC.
@@ -115,5 +117,8 @@ In [theoretical computer science](https://en.wikipedia.org/wiki/Theoretical_comp
 | Hazelcast IMDG | Yes | Yes | Yes | Yes |
 | FaunaDB | Yes | Yes | Yes |
 
-[PACELC theorem - Wikipedia](https://en.wikipedia.org/wiki/PACELC_theorem)
-[CAP Twelve Years Later: How the "Rules" Have Changed](https://www.infoq.com/articles/cap-twelve-years-later-how-the-rules-have-changed)
+## Links
+
+- [PACELC theorem - Wikipedia](https://en.wikipedia.org/wiki/PACELC_theorem)
+- [CAP Twelve Years Later: How the "Rules" Have Changed](https://www.infoq.com/articles/cap-twelve-years-later-how-the-rules-have-changed)
+- [CAP, PACELC, ACID, BASE - Essential Concepts for an Architect’s Toolkit](https://blog.bytebytego.com/p/cap-pacelc-acid-base-essential-concepts)

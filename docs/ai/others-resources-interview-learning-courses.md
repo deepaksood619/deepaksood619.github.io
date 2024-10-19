@@ -33,6 +33,7 @@
 - [Learn Machine Learning in 2024](https://www.freecodecamp.org/news/learn-machine-learning-in-2024/)
 - [5 Free AI Courses With Certifications In 2024](https://www.forbes.com/sites/rachelwells/2024/08/08/5-free-ai-courses-with-certifications-in-2024/)
 - [A Roadmap for Your Machine Learning Career - MachineLearningMastery.com](https://machinelearningmastery.com/a-roadmap-for-your-machine-learning-career/)
+- [AWS Certified AI Practitioner (AIF-C01) – Full Course to PASS the Certification Exam - YouTube](https://www.youtube.com/watch?v=WZeZZ8_W-M4)
 
 ## DS (Data Science) + DA (Data Analytics) + DE (Data Engineering)
 

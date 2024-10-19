@@ -480,6 +480,15 @@ You understand an idea not when you've memorized it, but when you know why its s
 
 [You Aren't Learning If You Don't Close the Loops - Commoncog](https://commoncog.com/no-learning-dont-close-loops/)
 
+## Expert
+
+[The 4 things it takes to be an expert - YouTube](https://www.youtube.com/watch?v=5eW6Eagr9XA)
+
+1. Valid environment
+2. Many repetitions
+3. Timely feedback
+4. Deliberate practice
+
 ## Others
 
 - [Marty Lobdell - Study Less Study Smart](https://youtu.be/IlU-zDU6aQ0)

@@ -174,6 +174,8 @@ https://neilpatel.com/training/growth-hacking-unlocked/raise-money
 - It's not a yes or no game, it's allowing for conversation, it's allowing somebody to recognize that you view your own career with the organization, can you invest in me, can you take a bet on me, rather than meet my demands.
 - Therefore a lot of these things fail because they're poorly presented
 
+[EXACTLY How To Negotiate Your Salary: Watch and Learn - YouTube](https://www.youtube.com/watch?v=kBIN2h16Rc4)
+
 ## Links
 
 - [Business questions to ask before taking a startup data role | Yanir Seroussi | Data & AI for Startup Impact](https://yanirseroussi.com/2024/05/06/business-questions-to-ask-before-taking-a-startup-data-role/)

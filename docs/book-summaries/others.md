@@ -23,6 +23,7 @@
 - [THE 6 TYPES OF WORKING GENIUS by Patrick Lencioni | Core Message - YouTube](https://www.youtube.com/watch?v=N4I4hA6u6CM)
 - [LEADERSHIP STRATEGY and TACTICS by Jocko Willink | Core Message - YouTube](https://www.youtube.com/watch?v=ol6UYlOPWWo&ab_channel=ProductivityGame)
 - [A book to build your first business | 12 MONTHS TO $1 MILLION | Core Message - YouTube](https://www.youtube.com/watch?v=nfhxEF7DgU4&ab_channel=ProductivityGame)
+- [YOUR NEXT FIVE MOVES by Patrick Bet-David | Core Message - YouTube](https://www.youtube.com/watch?v=-CyEpjm-sEE)
 
 ### [Learn to lead: THE 21 IRREFUTABLE LAWS OF LEADERSHIP by John Maxwell | Core Message - YouTube](https://www.youtube.com/watch?v=QQhdiktL99w)
 

@@ -24,6 +24,10 @@ Earth overshoot day - 27 July
 
 [What the Fossil Fuel Industry Doesn't Want You To Know | Al Gore | TED - YouTube](https://www.youtube.com/watch?v=xgZC6da4mco)
 
+[Has Earth Already Crossed MAJOR Tipping Points? | Full Episode | Weathered: Earth’s Extremes - YouTube](https://www.youtube.com/watch?v=YEH9nX5sudk)
+
+[What Will Our World Look Like at 4 Degrees? - YouTube](https://www.youtube.com/watch?v=dFqR7gj32kc)
+
 ## Environmental Sciences
 
 https://www.pmfias.com/carbon-nitrogen-phosphorus-sulphur-cycle

@@ -14,3 +14,7 @@
 - [Snowflake](databases/nosql-databases/snowflake/readme.md)
 - [tidb](databases/nosql-databases/tidb.md)
 - [Comparisions](databases/nosql-databases/comparisions.md)
+
+## Top 9 NoSQL DB Use Cases
+
+![top 9 nosql db use cases](../../media/Screenshot%202024-10-19%20at%203.53.42%20AM.jpg)

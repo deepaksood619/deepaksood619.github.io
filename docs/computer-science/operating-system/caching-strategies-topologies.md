@@ -128,7 +128,7 @@ There are multiple layers along the flow.
 - Transaction log: record all the transactions and database updates
 - Replication Log: used to record the replication state in a database cluster
 
-![image](../../media/cache-layers-data.jpg)
+![where do we cache data](../../media/cache-layers-data.jpg)
 
 ## Integrated Redis Cache
 

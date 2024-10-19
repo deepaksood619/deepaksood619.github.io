@@ -23,7 +23,7 @@
 
 ## Data & AI Landscape
 
-![Data & AI Landscape](media/Data-and-AI-Landscape-2021-v3-small.jpg)
+![Data & AI Landscape](../media/Data-and-AI-Landscape-2021-v3-small.jpg)
 
 ## AGI (Artificial General Intelligence) / Sentient
 

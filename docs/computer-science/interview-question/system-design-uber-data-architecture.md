@@ -1,12 +1,12 @@
 # System Design of Uber Data Architecture
 
-Uber's real-time data infrastructure is a cornerstone of its business operations, processing massive amounts of data every day. 
+Uber's real-time data infrastructure is a cornerstone of its business operations, processing massive amounts of data every day.
 
 From drivers and riders to restaurants and back-end systems, Uber collects petabytes of data to power important features such as customer incentives, fraud detection, and predictions made by machine learning models.
 
-To manage this vast flow of information, Uber relies on a sophisticated system that handles three key components: 
+To manage this vast flow of information, Uber relies on a sophisticated system that handles three key components:
 
-- Messaging platforms 
+- Messaging platforms
 - Stream processing
 - OLAP (OnLine Analytical Processing)
 
@@ -14,7 +14,7 @@ Each element plays a crucial role in ensuring that data is processed and analyze
 
 ![Data Flow at Uber Infrastructure](../../media/Screenshot%202024-10-18%20at%206.51.37%20PM.jpg)
 
-However, maintaining this real-time infrastructure isn't easy. 
+However, maintaining this real-time infrastructure isn't easy.
 
 As Uber continues to grow, so do the challenges. The company needs to scale its systems to handle more data, support new use cases, and accommodate a growing number of users. At the same time, they must ensure that the data is always fresh, latency is kept low, and the entire system remains highly available.
 
@@ -22,7 +22,7 @@ In short, Uber's real-time data system is essential to its ability to make split
 
 ## Critical Requirements of Uber’s Real-Time Data
 
-Uber's real-time data system has some critical requirements to ensure it operates smoothly and efficiently, especially given its massive scale. 
+Uber's real-time data system has some critical requirements to ensure it operates smoothly and efficiently, especially given its massive scale.
 
 These requirements handle everything from ride pricing to food delivery, ensuring users get the best possible experience.
 
@@ -36,7 +36,7 @@ In short, Uber's real-time data infrastructure is designed to be consistent, ava
 
 ## Key Technologies Used By Uber
 
-Uber's real-time data infrastructure is powered by a combination of advanced open-source technologies, each customized to handle the company’s massive data needs. 
+Uber's real-time data infrastructure is powered by a combination of advanced open-source technologies, each customized to handle the company’s massive data needs.
 
 The diagram below shows the overall landscape.
 
@@ -46,7 +46,7 @@ Let’s take a closer look at the key technologies Uber relies on, how they work
 
 ### Apache Kafka for Streaming Data
 
-Kafka is the backbone of Uber’s data streaming. 
+Kafka is the backbone of Uber’s data streaming.
 
 It handles trillions of messages and petabytes of data daily, helping to transport information from user apps (like driver and rider apps) and microservices. Kafka’s key role is to move this streaming data to batch and real-time systems.
 
@@ -61,7 +61,7 @@ At Uber, Kafka was heavily customized to meet its large-scale needs. Some of the
 
 ### Apache Flink for Stream Processing
 
-Apache Flink is another critical component of Uber’s infrastructure, used for processing data streams in real-time. 
+Apache Flink is another critical component of Uber’s infrastructure, used for processing data streams in real-time.
 
 Flink can handle complex workloads, scale efficiently, and manage backlogs of millions of messages without slowing down.
 
@@ -79,7 +79,7 @@ See the diagram below that shows the Unified Flink Architecture at Uber.
 
 ### Apache Pinot for Real-Time OLAP
 
-For quick, low-latency data analysis, Uber uses Apache Pinot. 
+For quick, low-latency data analysis, Uber uses Apache Pinot.
 
 Pinot allows real-time analytics on terabytes of data, making it ideal for Uber’s dashboards and operational insights, like tracking ride demand or Uber Eats orders in real-time.
 
@@ -100,7 +100,7 @@ The data stored in HDFS is used for:
 
 ### Presto for Interactive Queries
 
-Presto is Uber’s go-to query engine for exploring large datasets in real-time. 
+Presto is Uber’s go-to query engine for exploring large datasets in real-time.
 
 It’s designed to provide fast, distributed SQL queries across multiple data sources, including Pinot, Hive, and others.
 
@@ -111,27 +111,27 @@ At Uber, Presto plays a critical role in:
 
 ## Use Cases
 
-Uber's real-time data infrastructure powers a variety of critical use cases, from surge pricing to real-time analytics for Uber Eats. 
+Uber's real-time data infrastructure powers a variety of critical use cases, from surge pricing to real-time analytics for Uber Eats.
 
 Let’s look at some of the most important use cases supported by Uber’s data infrastructure.
 
 ### 1 - Surge Pricing
 
-One of Uber’s most well-known features is surge pricing, which adjusts fares based on real-time demand and supply conditions in a given area. 
+One of Uber’s most well-known features is surge pricing, which adjusts fares based on real-time demand and supply conditions in a given area.
 
 To make this happen, Uber uses a data pipeline powered by Kafka and Flink. Kafka ingests streaming data from ride requests and driver availability, while Flink processes this information in real-time to calculate pricing multipliers for each area.
 
-The surge pricing pipeline prioritizes data freshness and availability over strict consistency, meaning the system focuses on making quick pricing decisions rather than ensuring every single message is perfectly consistent across all regions. 
+The surge pricing pipeline prioritizes data freshness and availability over strict consistency, meaning the system focuses on making quick pricing decisions rather than ensuring every single message is perfectly consistent across all regions.
 
 This approach allows Uber to respond to changes in demand within seconds, keeping the marketplace balanced while maximizing driver availability.
 
 ### 2 - UberEats Restaurant Manager
 
-For restaurant partners, Uber provides a dashboard called the UberEats Restaurant Manager, which offers real-time insights into order trends, sales, and service performance. 
+For restaurant partners, Uber provides a dashboard called the UberEats Restaurant Manager, which offers real-time insights into order trends, sales, and service performance.
 
 This dashboard is powered by Apache Pinot, a real-time OLAP system designed to handle large datasets with low-latency queries.
 
-Pinot enables fast querying by using pre-aggregated data, meaning that instead of running a complex query every time, certain metrics (like popular menu items or sales figures) are pre-calculated and stored, allowing for quick responses when the restaurant manager requests information. 
+Pinot enables fast querying by using pre-aggregated data, meaning that instead of running a complex query every time, certain metrics (like popular menu items or sales figures) are pre-calculated and stored, allowing for quick responses when the restaurant manager requests information.
 
 This setup ensures that restaurant owners get real-time feedback, helping them make informed decisions about their business.
 
@@ -139,7 +139,7 @@ This setup ensures that restaurant owners get real-time feedback, helping them m
 
 To ensure the quality of its machine-learning models, Uber has a system in place for real-time prediction monitoring. This system uses Flink to aggregate predictions from models and compare them against actual outcomes in real-time.
 
-With thousands of machine learning models deployed across Uber’s services, monitoring their performance is critical. 
+With thousands of machine learning models deployed across Uber’s services, monitoring their performance is critical.
 
 The system processes millions of data points per second to detect any deviations or inaccuracies in model predictions. By continuously aggregating and analyzing this data, Uber ensures that its models are performing as expected and can quickly identify any issues that need attention.
 
@@ -153,7 +153,7 @@ This combination of real-time data and flexible querying made it possible for Ub
 
 ## Scaling Strategies
 
-To handle the massive scale of its operations, Uber has developed several key strategies for ensuring its data systems are highly available, reliable, and able to handle real-time and historical data processing. 
+To handle the massive scale of its operations, Uber has developed several key strategies for ensuring its data systems are highly available, reliable, and able to handle real-time and historical data processing.
 
 Three of the most important strategies include the Active-Active Kafka setup, Active-Passive Kafka setup, and a backfill support solution for historical data processing. Let’s look at each in more detail:
 
@@ -161,7 +161,7 @@ Three of the most important strategies include the Active-Active Kafka setup, Ac
 
 For critical services like surge pricing, ensuring high availability and redundancy is a top priority at Uber. To meet this need, Uber uses an Active-Active Kafka setup across multiple regions. This means that Kafka clusters are deployed in different geographic regions, allowing data to be processed and synchronized across these regions in real-time.
 
-The Active-Active setup ensures that if one region experiences a failure—whether due to a network issue or a server problem—Uber’s systems can continue to function smoothly from another region. 
+The Active-Active setup ensures that if one region experiences a failure—whether due to a network issue or a server problem—Uber’s systems can continue to function smoothly from another region.
 
 For example, surge pricing calculations, which depend on real-time supply and demand data, are too important to fail. If the primary region fails, another region can immediately take over and continue processing the data without missing a beat.
 
@@ -175,7 +175,7 @@ This setup requires careful synchronization of data between regions. Uber uses u
 
 In addition to Uber's Active-Active Kafka setup, the company also employs an Active-Passive Kafka setup for certain services where strong data consistency is critical. While the Active-Active approach prioritizes availability and redundancy, the Active-Passive strategy is designed for use cases that cannot tolerate any data loss and require more stringent consistency guarantees, such as payment processing or auditing.
 
-In an Active-Passive Kafka setup, only one consumer (in a specific region, called the primary region) is allowed to process messages from Kafka at any given time. 
+In an Active-Passive Kafka setup, only one consumer (in a specific region, called the primary region) is allowed to process messages from Kafka at any given time.
 
 If the primary region fails, the system fails over to a backup (passive) region, which then resumes processing from the same point where the primary left off. This ensures that no data is lost during the failover, preserving message order and maintaining data integrity.
 
@@ -183,7 +183,7 @@ See the diagram below that shows the Active-Passive setup.
 
 ![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8bd81bc0-b086-4fa9-bde0-b16c1fe32634_1600x961.png)
 
-The key challenge in Active-Passive setups is offset synchronization—ensuring that the consumer in the backup region starts processing from the same point as the primary region. 
+The key challenge in Active-Passive setups is offset synchronization—ensuring that the consumer in the backup region starts processing from the same point as the primary region.
 
 To achieve this, Uber developed a sophisticated offset management service. This service synchronizes offsets between the active and passive regions, using the uReplicator to replicate Kafka messages across clusters and periodically checkpoint the offset mappings between the regions.
 
@@ -191,11 +191,11 @@ To achieve this, Uber developed a sophisticated offset management service. This 
 
 While real-time data processing is critical, there are times when Uber needs to reprocess historical data—whether for testing new data pipelines, training machine learning models, or fixing issues after a bug has been discovered. This is where Uber’s backfill support comes in, allowing them to reprocess data streams without causing significant delays or overhead.
 
-Uber uses a solution called Kappa+ architecture, which builds on the idea of processing real-time and historical data streams using the same logic. 
+Uber uses a solution called Kappa+ architecture, which builds on the idea of processing real-time and historical data streams using the same logic.
 
 Kappa+ allows Uber to reprocess archived data (stored in systems like Hive or HDFS) while using the same stream-processing framework they use for real-time data—Apache Flink. This eliminates the need for separate systems to handle real-time and batch data, simplifying operations and making the system more efficient.
 
-The backfill process also includes optimizations to handle the high throughput of historical data. 
+The backfill process also includes optimizations to handle the high throughput of historical data.
 
 For example, Uber uses larger memory buffers and fine-tunes Flink jobs to handle out-of-order data or throttling. This ensures that even when processing large volumes of past data, the system performs smoothly without overwhelming resources.
 
@@ -209,15 +209,15 @@ Here are the key ones to keep in mind:
 
 Uber’s decision to adopt open-source technologies was essential for building its infrastructure quickly and scaling effectively. Tools like Kafka, Flink, and Pinot provided solid foundations.
 
-However, scaling them to meet Uber’s massive data needs required significant customizations. 
+However, scaling them to meet Uber’s massive data needs required significant customizations.
 
-For example, Uber added features like Kafka cluster federation, FlinkSQL, and Pinot upserts to handle their unique requirements for high availability, low-latency queries, and real-time data streaming. 
+For example, Uber added features like Kafka cluster federation, FlinkSQL, and Pinot upserts to handle their unique requirements for high availability, low-latency queries, and real-time data streaming.
 
 While open-source adoption allowed Uber to innovate fast, they also had to invest heavily in adapting these technologies to fit their system’s scale and complexity.
 
 ### 2 - Rapid System Development
 
-To keep pace with their evolving business needs, Uber focused on enabling rapid system development. 
+To keep pace with their evolving business needs, Uber focused on enabling rapid system development.
 
 One way they achieved this was through client standardization. By ensuring a consistent interface for interacting with systems, Uber reduced the risk of breaking connections when making updates. Additionally, the use of thin client models (simplified client software that offloads much of the processing to centralized servers) allowed Uber to streamline updates and reduce maintenance overhead.
 
@@ -225,7 +225,7 @@ A strong CI/CD (Continuous Integration/Continuous Deployment) framework was also
 
 ### 3 - Operational Automation
 
-Managing Uber’s massive data infrastructure manually would be impossible, so operational automation became a key priority. 
+Managing Uber’s massive data infrastructure manually would be impossible, so operational automation became a key priority.
 
 Uber emphasized automation for tasks like scaling infrastructure, managing clusters, and deploying new services. This minimized the need for manual intervention, helping the system scale efficiently even as the company grew.
 
@@ -233,7 +233,7 @@ In addition to automation, Uber implemented robust monitoring and alerting syste
 
 ### 4 - User Onboarding and Debugging
 
-With so many engineers, data scientists, and operational teams interacting with Uber’s data infrastructure, automated onboarding was crucial. 
+With so many engineers, data scientists, and operational teams interacting with Uber’s data infrastructure, automated onboarding was crucial.
 
 Uber developed processes that allowed new users to quickly access data, create Kafka topics, and launch Flink jobs without needing deep technical knowledge.
 
@@ -241,7 +241,7 @@ Additionally, automated data discovery and auditing tools helped users find the 
 
 ## Conclusion
 
-Uber's real-time data infrastructure is a vital part of its business operations, supporting everything from surge pricing and UberEats dashboards to real-time machine learning predictions. 
+Uber's real-time data infrastructure is a vital part of its business operations, supporting everything from surge pricing and UberEats dashboards to real-time machine learning predictions.
 
 By leveraging a combination of open-source technologies like Apache Kafka, Flink, Pinot, and Presto, Uber has built a highly scalable and reliable system that processes trillions of messages and petabytes of data every day.
 

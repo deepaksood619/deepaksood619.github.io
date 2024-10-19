@@ -12,6 +12,7 @@
 - [News](knowledge/others/news-problems.md)
 - [Clothes / Textiles](knowledge/others/clothes-textiles.md)
 - [Mythology](knowledge/others/mythology.md)
+- [Others](knowledge/others/others.md)
 
 ## Art
 

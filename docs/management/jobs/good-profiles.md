@@ -12,6 +12,7 @@
 - [Jeroen Bouma | Financial Risk Analyst](https://www.jeroenbouma.com/)
 - https://www.linkedin.com/in/vishalkmishra/
 - https://www.linkedin.com/in/pavankmurthy/
+- https://www.linkedin.com/in/gurmeet-makkar-b410b3b/
 - **Software Developer Good -** https://drive.google.com/drive/folders/1zMuTUjsifK9QVvrwF56oE8EJcgw9YBhJ?usp=sharing
 - **Pradeep Parameswaran**
 

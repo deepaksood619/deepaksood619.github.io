@@ -129,6 +129,13 @@ https://freefincal.com/can-i-use-these-two-index-funds-for-retirement-instead-of
 - Bucket B: long term equity: 30% Nifty-50, 20% Nasdaq-100, 5% Commodities, 15% hybrid equity fund, 30% stocks. Bucket total = 100%.
 - Bucket C: long term, Govt backed debt
 
+## 4 Fund Portfolio
+
+1. Index Fund - Nifty50
+2. Index Fund - Midcap
+3. Bond Fund - Short-term, Medium-term, Bank/PSU
+4. Gold Fund - Gold Fund, Gold ETF
+
 ## Savings
 
 1. Equity-oriented Mutual funds (50%)

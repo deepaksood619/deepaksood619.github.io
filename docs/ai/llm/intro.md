@@ -81,3 +81,5 @@ The architecture is a standard [transformer network](https://en.wikipedia.org/wi
 - [How might LLMs store facts | Chapter 7, Deep Learning - YouTube](https://www.youtube.com/watch?v=9-Jl0dxWQs8)
 - [Introduction to Generative AI - YouTube](https://www.youtube.com/watch?v=cZaNf2rA30k)
 - [Introduction to Large Language Models - YouTube](https://www.youtube.com/watch?v=RBzXsQHjptQ)
+- [Welcome to State of AI Report 2024](https://www.stateof.ai/2024-report-launch)
+- [How Much Trust Do You Have with LLM-Based Solutions? • Matthew Salmon • GOTO 2024 - YouTube](https://www.youtube.com/watch?v=uMhmvba7Z3I)

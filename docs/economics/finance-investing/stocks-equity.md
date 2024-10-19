@@ -27,6 +27,7 @@ You can claim exemption against any long-term capital gains tax liability if you
 - https://www.screener.in/screens/218753/marcellus-little-champs
 - https://www.screener.in/screens/395078/consistent-compounders-marcellus
 - https://www.screener.in/screens/523311/rising-giants-marcellus
+- How to use - [FIIs are buying this stock | CA Rachana Ranade - YouTube](https://www.youtube.com/watch?v=biSZkaOc8RQ)
 
 ## NiftyETF
 

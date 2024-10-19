@@ -148,6 +148,6 @@ Store each attribute in a row instead of a column
 
 ## Links
 
-[Extensible Data Modeling](https://www.slideshare.net/billkarwin/extensible-data-modeling)
-
-[erwin Data Modeler | Industry-Leading Data Modeling Tool | erwin, Inc.](https://www.erwin.com/products/erwin-data-modeler/)
+- [Extensible Data Modeling](https://www.slideshare.net/billkarwin/extensible-data-modeling)
+- [erwin Data Modeler | Industry-Leading Data Modeling Tool | erwin, Inc.](https://www.erwin.com/products/erwin-data-modeler/)
+- [Advanced Data Modeling For Financial Services And Insurance (APAC Timezone) | MongoDB](https://www.mongodb.com/resources/solutions/industries/webinar-data-modeling-financial-services-insurance-apac)

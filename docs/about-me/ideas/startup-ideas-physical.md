@@ -104,6 +104,10 @@ There are sweaters that can keep you warm, create a clothing that can keep you c
 - No large scale nuclear disaster
 - Smaller system can be stable
 
+### Reusable flex
+
+Flex that can be reprinted again and again. Or no need to print, just put up a flex, add a device which prints it. No need to remove and install new flex
+
 ## Civil Engineering
 
 ### Better and Cheap Pervious Concrete
@@ -193,11 +197,11 @@ Airline can be transporter of fuels if passenger occupancy is lower, i.e. based 
 - Transport
 - Food
 
-## Autonomous Vehicles / Driverless Cars
+## Autonomous Vehicles / Driverless Cars / Self-driving Car
 
-[New data shows Waymo crashes a lot less than human drivers](https://www.understandingai.org/p/new-data-shows-waymo-crashes-a-lot)
-
-[Safety Impact](https://waymo.com/safety/impact/)
+- [New data shows Waymo crashes a lot less than human drivers](https://www.understandingai.org/p/new-data-shows-waymo-crashes-a-lot)
+- [Safety Impact](https://waymo.com/safety/impact/)
+- [Elon Musk wants to dominate robotaxis—first he needs to catch up to Waymo](https://www.understandingai.org/p/elon-musk-wants-to-dominate-robotaxisfirst)
 
 ## Others
 

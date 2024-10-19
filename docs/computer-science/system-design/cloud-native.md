@@ -40,6 +40,10 @@ https://thenewstack.io/primer-distributed-systems-and-cloud-native-computing
 
 ![How do we Adopt Cloud Native](../../media/Pasted%20image%2020240321193906.jpg)
 
+## What is cloud native
+
+![what is cloud native](../../media/Screenshot%202024-10-19%20at%204.00.27%20AM.jpg)
+
 ## Architecture
 
 ![Cloud Native Reference Architecture](../../media/Pasted%20image%2020240906232317.png)

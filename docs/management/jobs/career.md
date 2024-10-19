@@ -17,6 +17,7 @@ Negotiating power in your career. Have a lot of it, and you get to call the shot
 
 - Deliver a product so high-quality, that your customers will swallow the price tag.
 - Fix problems at the company nobody else can, that your boss is willing to tolerate that you want to work from home (even though nobody else does).
+- Multi-skills person are great, like a video editor with coding experience, so he can easily edit coding videos. Like me, have experience in both management coding DevOps, hands-on, ai data etc, very broad knowledge but with depth in two or more fields
 
 ### Two ways to increase value
 

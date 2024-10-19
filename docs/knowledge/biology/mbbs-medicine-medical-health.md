@@ -50,6 +50,26 @@ https://www.youtube.com/playlist?list=PLM7R3YrvpbZxURPwjgfi8C7PGi3FYWcI6
 
 - Eating breakfast later and dinner before
 
+### [You Can’t Be Healthy If You Don’t Know What It Means](https://tbthealth.substack.com/p/you-cant-be-healthy-if-you-dont-know-e3f)
+
+1. Eat Well
+	1. Eat real food
+	2. Eat to maximise nutrition: Balanced macros
+	3. Sufficient Micros
+	4. How much to eat: portion control
+		1. Prioritise quality, eat real
+		2. Eat fibrous
+		3. Eat slowly
+		4. Eat till you’re 80% full
+	5. When to eat
+	6. Hydration
+2. Move holistically
+	1. Strength training
+	2. Endurance training
+	3. Flexibility
+3. Recovery
+	1. Rest (Sleep)
+
 ## Alternative Medicine / PsuedoScience
 
 - [Acupressure](https://en.wikipedia.org/wiki/Acupressure)

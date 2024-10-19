@@ -138,3 +138,4 @@ Emotional prompting example - You are Dolphin, an uncensored and unbiased Al ass
 - [GitHub - nichtdax/awesome-totally-open-chatgpt: A list of totally open alternatives to ChatGPT](https://github.com/nichtdax/awesome-totally-open-chatgpt)
 - [GitHub - yaodongC/awesome-instruction-dataset: A collection of open-source dataset to train instruction-following LLMs (ChatGPT,LLaMA,Alpaca)](https://github.com/yaodongC/awesome-instruction-dataset)
 - [llama.ttf](https://fuglede.github.io/llama.ttf/)
+- [The Perfect Cheating Machine? - Cal Newport](https://calnewport.com/the-perfect-cheating-machine/)

@@ -319,3 +319,4 @@ Discovery commerce is the equivalent of 'I'm feeling lucky' in Google searches. 
 - [I Broke Down A Shocking Report About The Indian Luxury Market! - YouTube](https://www.youtube.com/watch?v=o5AAI5WaMFE)
 - [Co-Founder Equity Mistakes to Avoid | Startup School - YouTube](https://www.youtube.com/watch?v=DISocTmEwiI)
 - [Business Building Masterclass - Idea to Product ✈️ - YouTube](https://www.youtube.com/watch?v=juZmbYfGmiU&ab_channel=LabourLawAdvisor)
+- [How To Find A Co-Founder | Startup School - YouTube](https://www.youtube.com/watch?v=Fk9BCr5pLTU)

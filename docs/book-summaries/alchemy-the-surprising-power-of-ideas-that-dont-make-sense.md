@@ -60,38 +60,38 @@ The book covers several different ideas, but ultimately it all comes down to the
 
 ## Marcellus Summary
 
-As the title says, the talk is all about how we optimise for speed, often irrationally at that i.e, there are somethings which are counter-intuitively most productive when not done in the shortest possible time. He gives some brilliant examples to back this. He talks about the paceometer which sits alongside the speedometer in the car, except it shows “_how many minutes at that speed it will take you to go 10 miles. Assuming you’re going 10 miles at 10 miles an hour, it’ll take you an hour._  
-  
-_If you’re going 10 miles, or 20 miles, or 30 miles, something in that order of magnitude, there’s a big time-saving by going at 30 miles an hour rather than 20 miles an hour. In fact, you’ll save a whole 10 minutes just by accelerating about 10 miles an hour._  
-  
-_On the other hand, if you accelerate from 80 miles an hour to 90 for example, or 70 to 80, you basically save a minute._  
-  
-_Some of you may have noticed this if you’ve got a GPS in your car. You’re driving on the motorway at 60, you realize you’re going to be five minutes late for an appointment, so you welly it. And after driving at an insanely fast and dangerous speed for about eight minutes, you suddenly realize your arrival time has only improved by one minute._  
-  
-_This is fascinating. Because to a physicist, they’re exactly the same. But when I present the information about time and distance in a different way, your reaction is now completely different. What it effectively says is: going quite a bit faster when you’re going slowly is a really big gain. Going very fast when you’re already going fast is the action of a dickhead._  
-  
-_Basically, once you hit a comfortable 65 or 70 on the road, don’t bother. That’s enough. It’s a waste of time because the risk you encounter—the risk you incur on yourself, the risk you effectively impose on other people by going any faster—is utterly pointless in terms of time saved.”_  
-  
-Another example he gives is of how people actually enjoy their train commute home, contrary to the assumption of the train authorities:  
-  
-“_Quite a lot of people enjoy their commute time. And there’s good behavioral evidence for this because economists have noticed that people live a bit further from work than they optimally should in order to create a chronological buffer between where they work and where they live. We like that decompression time._  
-  
-_So this person announces the research to the people responsible for transport modeling at Transport for London, and they say, “You must never tell anybody that. It’s absolutely wrong for you to say that people might actually enjoy a train ride.”_  
-  
-_“Eh? But it’s true.”_  
-  
-_“Maybe it’s true, but all our models that justify transport investment assume that travel time is always a disutility. In other words, the more time you spend in transit, the worse off you are. If you come along with fancy ideas suggesting that people may sometimes prefer slower to faster, it fucks up our whole model.”_  
-  
-**_So this is what’s happened to the world: optimization trumps human preference. The people who want to win the argument are effectively prepared to ignore human truths to preserve the integrity of the artificial model._**  
-  
-_The Unaccountability Machine by Dan Davies is a fantastic book, which argues that people create these models because if you can reduce decision-making to an algorithm, or a formula, or a process, or a procedure, you avoid the risk of blame. Computer says no, effectively._  
-  
-_Instinctively, people love to codify things, and make them numerical, and turn them into optimization problems with a single right answer. Because the second you acknowledge ambiguity, you now have to exercise choice. If you can pretend there’s no ambiguity, then you haven’t made a decision, you can’t be blamed, you can’t be held responsible. And what’s the first thing you remove if you want to remove ambiguity from a model? You remove human psychology, because human psychology, particularly around time, is massively ambiguous.”_  
-  
+As the title says, the talk is all about how we optimise for speed, often irrationally at that i.e, there are somethings which are counter-intuitively most productive when not done in the shortest possible time. He gives some brilliant examples to back this. He talks about the paceometer which sits alongside the speedometer in the car, except it shows “_how many minutes at that speed it will take you to go 10 miles. Assuming you’re going 10 miles at 10 miles an hour, it’ll take you an hour._
+
+_If you’re going 10 miles, or 20 miles, or 30 miles, something in that order of magnitude, there’s a big time-saving by going at 30 miles an hour rather than 20 miles an hour. In fact, you’ll save a whole 10 minutes just by accelerating about 10 miles an hour._
+
+_On the other hand, if you accelerate from 80 miles an hour to 90 for example, or 70 to 80, you basically save a minute._
+
+_Some of you may have noticed this if you’ve got a GPS in your car. You’re driving on the motorway at 60, you realize you’re going to be five minutes late for an appointment, so you welly it. And after driving at an insanely fast and dangerous speed for about eight minutes, you suddenly realize your arrival time has only improved by one minute._
+
+_This is fascinating. Because to a physicist, they’re exactly the same. But when I present the information about time and distance in a different way, your reaction is now completely different. What it effectively says is: going quite a bit faster when you’re going slowly is a really big gain. Going very fast when you’re already going fast is the action of a dickhead._
+
+_Basically, once you hit a comfortable 65 or 70 on the road, don’t bother. That’s enough. It’s a waste of time because the risk you encounter—the risk you incur on yourself, the risk you effectively impose on other people by going any faster—is utterly pointless in terms of time saved.”_
+
+Another example he gives is of how people actually enjoy their train commute home, contrary to the assumption of the train authorities:
+
+“_Quite a lot of people enjoy their commute time. And there’s good behavioral evidence for this because economists have noticed that people live a bit further from work than they optimally should in order to create a chronological buffer between where they work and where they live. We like that decompression time._
+
+_So this person announces the research to the people responsible for transport modeling at Transport for London, and they say, “You must never tell anybody that. It’s absolutely wrong for you to say that people might actually enjoy a train ride.”_
+
+_“Eh? But it’s true.”_
+
+_“Maybe it’s true, but all our models that justify transport investment assume that travel time is always a disutility. In other words, the more time you spend in transit, the worse off you are. If you come along with fancy ideas suggesting that people may sometimes prefer slower to faster, it fucks up our whole model.”_
+
+**_So this is what’s happened to the world: optimization trumps human preference. The people who want to win the argument are effectively prepared to ignore human truths to preserve the integrity of the artificial model._**
+
+_The Unaccountability Machine by Dan Davies is a fantastic book, which argues that people create these models because if you can reduce decision-making to an algorithm, or a formula, or a process, or a procedure, you avoid the risk of blame. Computer says no, effectively._
+
+_Instinctively, people love to codify things, and make them numerical, and turn them into optimization problems with a single right answer. Because the second you acknowledge ambiguity, you now have to exercise choice. If you can pretend there’s no ambiguity, then you haven’t made a decision, you can’t be blamed, you can’t be held responsible. And what’s the first thing you remove if you want to remove ambiguity from a model? You remove human psychology, because human psychology, particularly around time, is massively ambiguous.”_
+
 The whole talk is full of blinding insights about human behaviour, contrary to popular perception.
-  
-In conclusion, he says: _“I think there are things in life that you want to telescope and compress and accelerate and streamline and make more efficient. And there are things where the value is precisely in the inefficiency, in the time spent, in the pain endured, in the effort you have to invest. And I don’t think we’re going to differentiate between those things. .._  
-  
+
+In conclusion, he says: _“I think there are things in life that you want to telescope and compress and accelerate and streamline and make more efficient. And there are things where the value is precisely in the inefficiency, in the time spent, in the pain endured, in the effort you have to invest. And I don’t think we’re going to differentiate between those things. .._
+
 _The general assumption driven by these optimization models is always that faster is better. I think there are things we need to deliberately and consciously slow down for our own sanity and for our own productivity. If we don’t ask that question about what those things are, I think we’ll get things terribly, terribly wrong.”_
 
 [Rory Sutherland – Are We Now Too Impatient to Be Intelligent? | Nudgestock 2024 - YouTube](https://www.youtube.com/watch?v=Bc9jFbxrkMk&ab_channel=Nudgestock)
