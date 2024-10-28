@@ -75,6 +75,7 @@ len(list(permutations('abcde', 5)))
 ## Others
 
 - https://www.geeksforgeeks.org/split-the-given-array-into-k-sub-arrays-such-that-maximum-sum-of-all-sub-arrays-is-minimum
+- [Design LRU Cache - GeeksforGeeks](https://www.geeksforgeeks.org/design-a-data-structure-for-lru-cache/) - (good, medium difficulty, doubly linkedin list + hashmap)
 - https://practice.geeksforgeeks.org/problems/lru-cache/1- Interview (medium difficulty) - https://practice.geeksforgeeks.org/problems/largest-even-number3821/1#_=_
 - Easy (5-10 mins max) - [https://practice.geeksforgeeks.org/problems/leaders-in-an-array-1587115620/1#](https://practice.geeksforgeeks.org/problems/leaders-in-an-array-1587115620/1)
 - Easy (5-10 mins max) - https://practice.geeksforgeeks.org/problems/non-repeating-element3958/1

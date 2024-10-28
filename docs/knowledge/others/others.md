@@ -3,6 +3,7 @@
 ## Poverty
 
 [Kya India me gareebi khatam ho gayi hai? | Markets by Zerodha Hindi - YouTube](https://www.youtube.com/watch?v=v65L8vekQq0)
+
 - Poverty is the worst form of violence - Mahatma Gandhi
 - Accident of birth
 - Accident of life

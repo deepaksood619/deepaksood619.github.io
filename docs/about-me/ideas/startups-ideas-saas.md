@@ -83,7 +83,7 @@ Entertainment as a service
 
 Vacation as a service
 
-Online coding tool + Environment
+### Online coding tool + Environment
 
 - Just go to a repository and start coding
 - All tools are already there with lint checks and code formatting tools all in browser (mobile friendly)
@@ -93,7 +93,10 @@ Online coding tool + Environment
 - Fine grained control over all repositories/files/docs in browsers direcly
 - Code testing / commiting / backup everything direcly in browser
 
-Free Coding test taking platform (Think exam but free)
+### Free Coding test taking platform (Think exam but free)
+
+- Use AI to create exam and questions
+- Deterministic
 
 ### Ecommerce for small businesses
 

@@ -65,3 +65,9 @@ mysqldump --single-transaction --flush-logs --master-data=2 --all-databases --de
 Deleting the MySQL binary logs with **mysqldump --delete-master-logs** can be dangerous if your server is a replication source server, because replica servers might not yet fully have processed the contents of the binary log. The description for the [`PURGE BINARY LOGS`](https://dev.mysql.com/doc/refman/5.7/en/purge-binary-logs.html) statement explains what should be verified before deleting the MySQL binary logs. See [PURGE BINARY LOGS Statement](https://dev.mysql.com/doc/refman/5.7/en/purge-binary-logs.html).
 
 [1.3.1 Establishing a Backup Policy](https://dev.mysql.com/doc/mysql-backup-excerpt/5.7/en/backup-policy.html)
+
+## Grandfather-father-son or GFS?
+
+GFS backup is a common rotation scheme for backup, in which there are three or more backup cycles, such as daily, weekly, and monthly. Typically, It consists of daily backups (son, at fixed intervals of hours in a day), a weekly full backup (father, once a week), and monthly full backup (Grandfather, once a month).
+
+It helps to restore the database from the most possible recovery points in case of any requirement or disaster.

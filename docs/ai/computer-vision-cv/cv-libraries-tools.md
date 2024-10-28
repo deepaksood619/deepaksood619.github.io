@@ -99,6 +99,112 @@ Albumentations is a Python library for image augmentation. Image augmentation is
 - Albumentations is [**fast**](https://github.com/albumentations-team/albumentations?tab=readme-ov-file#benchmarking-results). We benchmark each new release to ensure that augmentations provide maximum speed.
 - It **[works with popular deep learning frameworks](https://github.com/albumentations-team/albumentations?tab=readme-ov-file#i-want-to-know-how-to-use-albumentations-with-deep-learning-frameworks)** such as PyTorch and TensorFlow. By the way, Albumentations is a part of the [PyTorch ecosystem](https://pytorch.org/ecosystem/).
 
+## List of augmentations
+
+### Pixel-level transforms
+
+Pixel-level transforms will change just an input image and will leave any additional targets such as masks, bounding boxes, and keypoints unchanged. The list of pixel-level transforms:
+
+- [AdvancedBlur](https://explore.albumentations.ai/transform/AdvancedBlur)
+- [Blur](https://explore.albumentations.ai/transform/Blur)
+- [CLAHE](https://explore.albumentations.ai/transform/CLAHE)
+- [ChannelDropout](https://explore.albumentations.ai/transform/ChannelDropout)
+- [ChannelShuffle](https://explore.albumentations.ai/transform/ChannelShuffle)
+- [ChromaticAberration](https://explore.albumentations.ai/transform/ChromaticAberration)
+- [ColorJitter](https://explore.albumentations.ai/transform/ColorJitter)
+- [Defocus](https://explore.albumentations.ai/transform/Defocus)
+- [Downscale](https://explore.albumentations.ai/transform/Downscale)
+- [Emboss](https://explore.albumentations.ai/transform/Emboss)
+- [Equalize](https://explore.albumentations.ai/transform/Equalize)
+- [FDA](https://explore.albumentations.ai/transform/FDA)
+- [FancyPCA](https://explore.albumentations.ai/transform/FancyPCA)
+- [FromFloat](https://explore.albumentations.ai/transform/FromFloat)
+- [GaussNoise](https://explore.albumentations.ai/transform/GaussNoise)
+- [GaussianBlur](https://explore.albumentations.ai/transform/GaussianBlur)
+- [GlassBlur](https://explore.albumentations.ai/transform/GlassBlur)
+- [HistogramMatching](https://explore.albumentations.ai/transform/HistogramMatching)
+- [HueSaturationValue](https://explore.albumentations.ai/transform/HueSaturationValue)
+- [ISONoise](https://explore.albumentations.ai/transform/ISONoise)
+- [ImageCompression](https://explore.albumentations.ai/transform/ImageCompression)
+- [InvertImg](https://explore.albumentations.ai/transform/InvertImg)
+- [MedianBlur](https://explore.albumentations.ai/transform/MedianBlur)
+- [MotionBlur](https://explore.albumentations.ai/transform/MotionBlur)
+- [MultiplicativeNoise](https://explore.albumentations.ai/transform/MultiplicativeNoise)
+- [Normalize](https://explore.albumentations.ai/transform/Normalize)
+- [PixelDistributionAdaptation](https://explore.albumentations.ai/transform/PixelDistributionAdaptation)
+- [PlanckianJitter](https://explore.albumentations.ai/transform/PlanckianJitter)
+- [Posterize](https://explore.albumentations.ai/transform/Posterize)
+- [RGBShift](https://explore.albumentations.ai/transform/RGBShift)
+- [RandomBrightnessContrast](https://explore.albumentations.ai/transform/RandomBrightnessContrast)
+- [RandomFog](https://explore.albumentations.ai/transform/RandomFog)
+- [RandomGamma](https://explore.albumentations.ai/transform/RandomGamma)
+- [RandomGravel](https://explore.albumentations.ai/transform/RandomGravel)
+- [RandomRain](https://explore.albumentations.ai/transform/RandomRain)
+- [RandomShadow](https://explore.albumentations.ai/transform/RandomShadow)
+- [RandomSnow](https://explore.albumentations.ai/transform/RandomSnow)
+- [RandomSunFlare](https://explore.albumentations.ai/transform/RandomSunFlare)
+- [RandomToneCurve](https://explore.albumentations.ai/transform/RandomToneCurve)
+- [RingingOvershoot](https://explore.albumentations.ai/transform/RingingOvershoot)
+- [Sharpen](https://explore.albumentations.ai/transform/Sharpen)
+- [Solarize](https://explore.albumentations.ai/transform/Solarize)
+- [Spatter](https://explore.albumentations.ai/transform/Spatter)
+- [Superpixels](https://explore.albumentations.ai/transform/Superpixels)
+- [TemplateTransform](https://explore.albumentations.ai/transform/TemplateTransform)
+- [TextImage](https://explore.albumentations.ai/transform/TextImage)
+- [ToFloat](https://explore.albumentations.ai/transform/ToFloat)
+- [ToGray](https://explore.albumentations.ai/transform/ToGray)
+- [ToRGB](https://explore.albumentations.ai/transform/ToRGB)
+- [ToSepia](https://explore.albumentations.ai/transform/ToSepia)
+- [UnsharpMask](https://explore.albumentations.ai/transform/UnsharpMask)
+- [ZoomBlur](https://explore.albumentations.ai/transform/ZoomBlur)
+
+### Spatial-level transforms
+
+Spatial-level transforms will simultaneously change both an input image as well as additional targets such as masks, bounding boxes, and keypoints. The following table shows which additional targets are supported by each transform.
+
+|Transform|Image|Mask|BBoxes|Keypoints|
+|---|:-:|:-:|:-:|:-:|
+|[Affine](https://explore.albumentations.ai/transform/Affine)|✓|✓|✓|✓|
+|[BBoxSafeRandomCrop](https://explore.albumentations.ai/transform/BBoxSafeRandomCrop)|✓|✓|✓|✓|
+|[CenterCrop](https://explore.albumentations.ai/transform/CenterCrop)|✓|✓|✓|✓|
+|[CoarseDropout](https://explore.albumentations.ai/transform/CoarseDropout)|✓|✓|✓|✓|
+|[Crop](https://explore.albumentations.ai/transform/Crop)|✓|✓|✓|✓|
+|[CropAndPad](https://explore.albumentations.ai/transform/CropAndPad)|✓|✓|✓|✓|
+|[CropNonEmptyMaskIfExists](https://explore.albumentations.ai/transform/CropNonEmptyMaskIfExists)|✓|✓|✓|✓|
+|[D4](https://explore.albumentations.ai/transform/D4)|✓|✓|✓|✓|
+|[ElasticTransform](https://explore.albumentations.ai/transform/ElasticTransform)|✓|✓|✓|✓|
+|[GridDistortion](https://explore.albumentations.ai/transform/GridDistortion)|✓|✓|✓|✓|
+|[GridDropout](https://explore.albumentations.ai/transform/GridDropout)|✓|✓|✓|✓|
+|[GridElasticDeform](https://explore.albumentations.ai/transform/GridElasticDeform)|✓|✓|✓|✓|
+|[HorizontalFlip](https://explore.albumentations.ai/transform/HorizontalFlip)|✓|✓|✓|✓|
+|[Lambda](https://explore.albumentations.ai/transform/Lambda)|✓|✓|✓|✓|
+|[LongestMaxSize](https://explore.albumentations.ai/transform/LongestMaxSize)|✓|✓|✓|✓|
+|[MaskDropout](https://explore.albumentations.ai/transform/MaskDropout)|✓|✓|✓|✓|
+|[Morphological](https://explore.albumentations.ai/transform/Morphological)|✓|✓|✓|✓|
+|[NoOp](https://explore.albumentations.ai/transform/NoOp)|✓|✓|✓|✓|
+|[OpticalDistortion](https://explore.albumentations.ai/transform/OpticalDistortion)|✓|✓|✓|✓|
+|[OverlayElements](https://explore.albumentations.ai/transform/OverlayElements)|✓|✓|||
+|[PadIfNeeded](https://explore.albumentations.ai/transform/PadIfNeeded)|✓|✓|✓|✓|
+|[Perspective](https://explore.albumentations.ai/transform/Perspective)|✓|✓|✓|✓|
+|[PiecewiseAffine](https://explore.albumentations.ai/transform/PiecewiseAffine)|✓|✓|✓|✓|
+|[PixelDropout](https://explore.albumentations.ai/transform/PixelDropout)|✓|✓|✓|✓|
+|[RandomCrop](https://explore.albumentations.ai/transform/RandomCrop)|✓|✓|✓|✓|
+|[RandomCropFromBorders](https://explore.albumentations.ai/transform/RandomCropFromBorders)|✓|✓|✓|✓|
+|[RandomGridShuffle](https://explore.albumentations.ai/transform/RandomGridShuffle)|✓|✓||✓|
+|[RandomResizedCrop](https://explore.albumentations.ai/transform/RandomResizedCrop)|✓|✓|✓|✓|
+|[RandomRotate90](https://explore.albumentations.ai/transform/RandomRotate90)|✓|✓|✓|✓|
+|[RandomScale](https://explore.albumentations.ai/transform/RandomScale)|✓|✓|✓|✓|
+|[RandomSizedBBoxSafeCrop](https://explore.albumentations.ai/transform/RandomSizedBBoxSafeCrop)|✓|✓|✓|✓|
+|[RandomSizedCrop](https://explore.albumentations.ai/transform/RandomSizedCrop)|✓|✓|✓|✓|
+|[Resize](https://explore.albumentations.ai/transform/Resize)|✓|✓|✓|✓|
+|[Rotate](https://explore.albumentations.ai/transform/Rotate)|✓|✓|✓|✓|
+|[SafeRotate](https://explore.albumentations.ai/transform/SafeRotate)|✓|✓|✓|✓|
+|[ShiftScaleRotate](https://explore.albumentations.ai/transform/ShiftScaleRotate)|✓|✓|✓|✓|
+|[SmallestMaxSize](https://explore.albumentations.ai/transform/SmallestMaxSize)|✓|✓|✓|✓|
+|[Transpose](https://explore.albumentations.ai/transform/Transpose)|✓|✓|✓|✓|
+|[VerticalFlip](https://explore.albumentations.ai/transform/VerticalFlip)|✓|✓|✓|✓|
+|[XYMasking](https://explore.albumentations.ai/transform/XYMasking)|✓|✓|✓|✓|
+
 [GitHub - albumentations-team/albumentations: Fast and flexible image augmentation library. Paper about the library: https://www.mdpi.com/2078-2489/11/2/125](https://github.com/albumentations-team/albumentations)
 
 [Albumentations: fast and flexible image augmentations](https://albumentations.ai/)

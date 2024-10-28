@@ -40,6 +40,14 @@
 22. https://freedcamp.com
 23. Google sheets - https://www.goskills.com/Project-Management/Resources/Project-management-template-Google-Sheets
 24. Google Forms
+	1. [Don’t Use Google Forms Without These FREE Add-Ons! - YouTube](https://www.youtube.com/watch?v=XMjWyJLVWCs&ab_channel=Simpletivity)
+		1. Form Limiter
+		2. Form Notifications
+		3. Booking Calendar
+		4. Mail Merge (9M+ downloads)
+	2. Form Approvals
+		1. [How to use Form Approvals | Turn Google Form submissions into approval workflows (English Tutorial) - YouTube](https://www.youtube.com/watch?v=eXdbUwzqI6s&t=3s&ab_channel=FormApprovals)
+		2. [Convert Google Form into Multi-Step Approval Workflow | Form Approvals add on - YouTube](https://www.youtube.com/watch?v=pnGKv3WkHTo&ab_channel=KewalKishan-AutomateBusiness)
 25. [Free Online Form Builder & Form Creator | Jotform](https://www.jotform.com)
 26. [Typeform: People-Friendly Forms and Surveys](https://www.typeform.com/)
 27. [SurveyMonkey: The World’s Most Popular Free Online Survey Tool](https://www.surveymonkey.com/)

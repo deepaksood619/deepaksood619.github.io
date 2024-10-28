@@ -154,6 +154,7 @@ Liner is a browser extension that lets you highlight anything you see online. Be
 ### Others
 
 - [AI-Powered Productivity. A Second Brain for Teams | Taskade](https://www.taskade.com/)
+- [Exam Countdown app to keep track of exam dates.](https://examcountdownapp.com/)
 
 ## Resources
 
@@ -163,7 +164,7 @@ Liner is a browser extension that lets you highlight anything you see online. Be
 - https://medium.com/swlh/the-5-most-productive-things-to-do-when-youre-too-tired-to-work-4157efe9091b
 - https://hellonehha.hashnode.dev/how-to-protect-your-time-at-work-cksoxjhtq079dvks125jhewf3
 - https://www.productivitygame.com
-   	- [Personal Productivity](https://www.youtube.com/watch?v=-f3dNkkFBvM)
+	- [Personal Productivity](https://www.youtube.com/watch?v=-f3dNkkFBvM)
 - [Productivity as a Developer – Full Course - YouTube](https://www.youtube.com/watch?v=C_jQahOnGUU)
 
 ## Links

@@ -434,6 +434,8 @@ An offshore account is one that is opened by a citizen outside her home country.
 
 [Tax on Stocks, Mutual Funds, Gold and Real Estate | STCG and LTCG | ETMONEY](https://www.youtube.com/watch?v=sYtnOVgdH_I)
 
+[Real Estate Taxation Example After Finance Bill 2024 Amendment](https://freefincal.com/real-estate-taxation-example-after-finance-bill-2024-amendment/)
+
 ## Taxes on house (Section 54F)
 
 - In respect of capital gains arising on sale any asset other than a residential house, an individual or an HUF can claim exemption from long term capital gains if the net sale consideration in respect of such asset is invested for acquiring a residential house within a period of two years after sale of such asset.

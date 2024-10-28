@@ -374,6 +374,7 @@
 - Dear SQL DBA
 - The Cloudcast [https://podcastaddict.com/podcast/the-cloudcast/2156860](https://podcastaddict.com/podcast/the-cloudcast/2156860)
 - AWS Podcast [https://d3gih7jbfe3jlq.cloudfront.net/aws-podcast.rss](https://d3gih7jbfe3jlq.cloudfront.net/aws-podcast.rss)
+- [Hanselminutes Technology Podcast - Fresh Air and Fresh Perspectives for Developers - Coding while Blind with Dominic St Pierre](https://hanselminutes.com/)
 
 ### Others
 

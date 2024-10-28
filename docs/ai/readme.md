@@ -25,6 +25,10 @@
 
 ![Data & AI Landscape](../media/Data-and-AI-Landscape-2021-v3-small.jpg)
 
+Interactive - [FirstMark | 2024 MAD (ML/AI/Data) Landscape](https://mad.firstmark.com/)
+
+[Full Steam Ahead: The 2024 MAD (Machine Learning, AI & Data) Landscape – Matt Turck](https://mattturck.com/mad2024/)
+
 ## AGI (Artificial General Intelligence) / Sentient
 
 AGI will be intellectually, morally, ethically and creatively superior to humans in every conceivable way
@@ -38,5 +42,4 @@ AGI will be intellectually, morally, ethically and creatively superior to humans
 
 ## Links
 
-- [Full Steam Ahead: The 2024 MAD (Machine Learning, AI & Data) Landscape – Matt Turck](https://mattturck.com/mad2024/)
 - [AI Index Report 2024 – Artificial Intelligence Index](https://aiindex.stanford.edu/report/)

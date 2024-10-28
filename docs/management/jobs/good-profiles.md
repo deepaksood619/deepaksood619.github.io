@@ -8,6 +8,7 @@
 - https://www.linkedin.com/in/jessicatai
 - [linkedin.com/in/anilyadav/](https://www.linkedin.com/in/anilyadav/)
 - [linkedin.com/in/gauravmalik77/details/experience/](https://www.linkedin.com/in/gauravmalik77/details/experience/)
+- https://www.linkedin.com/in/maheshmirchandani/
 - Andreas Klinger - https://klinger.io
 - [Jeroen Bouma | Financial Risk Analyst](https://www.jeroenbouma.com/)
 - https://www.linkedin.com/in/vishalkmishra/

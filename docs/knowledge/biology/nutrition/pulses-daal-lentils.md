@@ -316,6 +316,10 @@ https://www.quora.com/Is-corn-flour-same-as-makke-maize-ka-ata
 | Wheat                   | Gehoon                                                     |
 | Whole Wheat Flour       | Gehoon aata                                                |
 
+![Protein, fiber and GI of grains](../../../media/Screenshot%202024-10-20%20at%2010.22.17%20PM.jpg)
+
+[Eight Swaps To Eat Better Everyday - Truth Be Told](https://tbthealth.substack.com/p/eight-swaps-to-eat-better-everyday)
+
 ## Oils
 
 ### Processing

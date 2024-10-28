@@ -31,3 +31,7 @@
 - [Vector Embeddings](ai/ml-algorithms/vector-embeddings.md)
 - [Dimensionality Reduction](dimensionality-reduction)
 - [Others](ai/ml-algorithms/others.md)
+
+## Links
+
+- [A Tour of Machine Learning Algorithms](https://machinelearningmastery.com/a-tour-of-machine-learning-algorithms/)
