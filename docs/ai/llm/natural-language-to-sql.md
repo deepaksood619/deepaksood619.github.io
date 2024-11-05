@@ -17,6 +17,12 @@ from langchain import OpenAI, SQLDatabase, SQLDatabaseChain
 
 [SQLDatabaseChain](https://h3manth.com/notes/SQLDatabaseChain/)
 
+## Generative BI in Telecom
+
+- [Practical use cases of Generative AI in Telecom](https://www.linkedin.com/pulse/practical-use-cases-generative-ai-telecom-n-ix-6s2gf/)
+- [pages.awscloud.com/rs/112-TZM-766/images/Altman Solon\_AWS\_Telecoms Generative AI Study.pdf](https://pages.awscloud.com/rs/112-TZM-766/images/Altman%20Solon_AWS_Telecoms%20Generative%20AI%20Study.pdf)
+- [Generative AI in Telecom: 5 Use Cases & Future Outlook](https://binmile.com/blog/generative-ai-in-telecom-industry/)
+
 ## Links
 
 - [Natural Language to SQL | LangChain, SQL Database & OpenAI LLMs - YouTube](https://www.youtube.com/watch?v=w-eTS8YlbZ4)

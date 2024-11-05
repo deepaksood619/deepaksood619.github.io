@@ -23,6 +23,8 @@ Several pre-trained models have become standards in image classification due to 
     - Residual blocks to allow gradients to flow through shortcut connections.
 - **Applications:** General image classification, object detection, and feature extraction.
 
+[Vanishing gradient problem - Wikipedia](https://en.wikipedia.org/wiki/Vanishing_gradient_problem)
+
 ### 2. Inception (GoogLeNet)
 
 - **Overview**: Developed by Google, the Inception network uses inception modules to capture multi-scale features.

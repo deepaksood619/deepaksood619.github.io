@@ -82,6 +82,8 @@ To achieve the above transition, there are two important steps: (1) consumer off
 - [Disaster Recovery with MirrorMaker 2.0 - Confluent](https://www.confluent.io/kafka-summit-lon19/disaster-recovery-with-mirrormaker-2-0/)
 - [How to setup MirrorMaker 2.0 on Apache Kafka multi-cluster environment | by Mauro Roiter | LARUS | Medium](https://medium.com/larus-team/how-to-setup-mirrormaker-2-0-on-apache-kafka-multi-cluster-environment-87712d7997a4)
 - [How to migrate Kafka clusters without downtime | The Write Ahead Log](https://platformatory.io/blog/How-to-migrate-kafka-clusters-without-downtime/)
+- [Setting up Mirror Maker](https://www.instaclustr.com/support/documentation/kafka/kafka-cluster-operations/setting-up-mirror-maker/)
+- [Demystifying Kafka MirrorMaker 2: Use cases and architecture | Red Hat Developer](https://developers.redhat.com/articles/2023/11/13/demystifying-kafka-mirrormaker-2-use-cases-and-architecture#)
 
 ## Confluent Replicator vs MirrorMaker 2.0
 

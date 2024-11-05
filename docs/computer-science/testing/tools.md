@@ -92,3 +92,4 @@ Robotic Process Automation (RPA) is a software program that imitates human actio
 - JUnit
 - [Getting Started with FitNesse - DZone Refcardz](https://dzone.com/refcardz/getting-started-fitnesse)
 - [Tricentis Tosca – Accelerate & Automate Continuous Testing | Tricentis](https://www.tricentis.com/products/automate-continuous-testing-tosca)
+- [#1 Browser Automation Software - BrowserStack Automate](https://www.browserstack.com/dg/playwright-automation-testing)

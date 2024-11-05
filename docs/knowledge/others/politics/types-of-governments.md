@@ -100,6 +100,10 @@ Excessive attachment to a particular sect or party, especially in religion.
 
 The principle of separation of the state from religious institutions.
 
+Secular is the state of being unrelated or neutral in regards to religion.
+
+[Secularity - Wikipedia](https://en.wikipedia.org/wiki/Secularity)
+
 ### Communism
 
 Communism (from [Latin](https://en.wikipedia.org/wiki/Latin) communis, 'common, universal') is a [philosophical](https://en.wikipedia.org/wiki/Political_philosophy), [social](https://en.wikipedia.org/wiki/Social_philosophy), [political](https://en.wikipedia.org/wiki/Political_movement), [economic](https://en.wikipedia.org/wiki/Economic_ideology) ideology and [movement](https://en.wikipedia.org/wiki/Political_movement) whose ultimate goal is the establishment of a [communist society](https://en.wikipedia.org/wiki/Communist_society), namely a [socioeconomic](https://en.wikipedia.org/wiki/Socioeconomics) order structured upon the ideas of [common ownership](https://en.wikipedia.org/wiki/Common_ownership) of the [means of production](https://en.wikipedia.org/wiki/Means_of_production) and the absence of [social classes](https://en.wikipedia.org/wiki/Social_class), [money](https://en.wikipedia.org/wiki/Money) and the [state](https://en.wikipedia.org/wiki/State_(polity)). - https://en.wikipedia.org/wiki/Communism

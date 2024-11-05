@@ -288,3 +288,4 @@ Why kicking out children after 18 years is important, let's say you are very wea
 - [Toddler Screaming](https://www.whattoexpect.com/toddler/behavior/screaming-and-screeching.aspx)
 - [The 18-Month Well-Baby Visit](https://www.whattoexpect.com/toddler/health-and-safety/18-month-well-baby-visit/)
 - [12 quick and easy toddler meal ideas: photos](https://www.babycentre.co.uk/l25020410/12-quick-and-easy-toddler-meal-ideas-photos)
+- [18 month old | BabyCentre](https://www.babycentre.co.uk/s1002004/18-month-old)

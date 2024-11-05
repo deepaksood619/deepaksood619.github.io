@@ -3,18 +3,18 @@
 ## Intro
 
 - **Generative models** learn the joint probability distribution of input and output data.
-   	- They can generate new data instances by sampling from this distribution.
+	- They can generate new data instances by sampling from this distribution.
     - Trained on a dataset of images of cats and then used to generate new images of cats.
 - **Discriminative models** learn the conditional probability of output data given input data.
-   	- They can discriminate between different kinds of data instances.
+	- They can discriminate between different kinds of data instances.
     - Trained on a dataset of images of cats and dogs and then used to classify new images as either cats or dogs.
 
 ### Types
 
 - **Generic or raw language models** predict the next word based on the language in the training data. These language models perform information retrieval tasks.
-   	- The cat sat on ___ (answer - the)
+	- The cat sat on ___ (answer - the)
 - **Instruction-tuned language models** are trained to predict responses to the instructions given in the input. This allows them to perform sentiment analysis, or to generate text or code.
-   	- Generate a poem in the style of x
+	- Generate a poem in the style of x
 - **Dialog-tuned language models** are trained to have a dialog by predicting the next response. Think of chatbots or conversational AI.
 
 ## Models
@@ -25,6 +25,7 @@
     - [OpenAI’s new “deep-thinking” o1 model crushes coding benchmarks - YouTube](https://www.youtube.com/watch?v=6xlPJiNpCVw)
 - Vicuna
 - Bloom
+- [PartyRock](https://partyrock.aws/)
 - Claude 2.1 from antropic with a context window of 200k tokens
     - [Introducing Claude 3.5 Sonnet - Anthropic](https://www.anthropic.com/news/claude-3-5-sonnet)
     - Gemini (1.5 Pro, 1.5 Flash)
@@ -114,6 +115,7 @@ Emotional prompting example - You are Dolphin, an uncensored and unbiased Al ass
 	- [The Needle In a Haystack Test: Evaluating the Performance of LLM RAG Systems - Arize AI](https://arize.com/blog-course/the-needle-in-a-haystack-test-evaluating-the-performance-of-llm-rag-systems/)
 	- [Unlocking precision: The "Needle-in-a-Haystack" test for LLM evaluation](https://labelbox.com/guides/unlocking-precision-the-needle-in-a-haystack-test-for-llm-evaluation/)
 	- [The Needle in the Haystack Test and How Gemini Pro Solves It | Google Cloud Blog](https://cloud.google.com/blog/products/ai-machine-learning/the-needle-in-the-haystack-test-and-how-gemini-pro-solves-it)
+- [GitHub - huggingface/evaluation-guidebook: Sharing both practical insights and theoretical knowledge about LLM evaluation that we gathered while managing the Open LLM Leaderboard and designing lighteval!](https://github.com/huggingface/evaluation-guidebook)
 
 ### Tools
 

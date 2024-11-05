@@ -35,3 +35,5 @@ https://www.pmfias.com/carbon-nitrogen-phosphorus-sulphur-cycle
 ## Links
 
 [The Fourth Big Force: Climate Change](https://www.linkedin.com/pulse/fourth-big-force-climate-change-ray-dalio-vmt5e/)
+
+[What's happening to our water?](https://finshots.in/archive/whats-happening-to-our-water-atmospheric-water-generators-awg/)

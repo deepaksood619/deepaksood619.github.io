@@ -363,6 +363,7 @@ A person feeding themselves a vegetarian diet would need about an acre of land a
 - [Best रियल एस्टेट investment? -- दुकान, घर, प्लॉट या कृषि भूमि? - YouTube](https://www.youtube.com/watch?v=1r67W4-rk_k)
 - [SaudaGhar - YouTube](https://www.youtube.com/@SaudaGhar)
 - [Bangalore VS Dehradun: Living on 50 Lakh+ - YouTube](https://www.youtube.com/watch?v=ADlmQRzA258&ab_channel=WintWealth)
+- [Are QIPs driving India’s realty sector?](https://finshots.in/markets/what-are-qips-and-are-they-driving-indias-realty-sector-qualified-institutional-placements/)
 
 ![Largest Real Estate Players in India](../../media/largest-real-estate-players-in-india.png)
 

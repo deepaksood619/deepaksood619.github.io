@@ -196,3 +196,4 @@ https://www.confluent.io/blog/apache-kafka-2-4-latest-version-updates
 - [Kafka Tiered Storage from Uber - by Bugra Akyildiz](https://mlops.substack.com/p/kafka-tiered-storage-from-uber)
 - [Kafka 101](https://highscalability.com/untitled-2/)
 - [The Trillion Message Kafka Setup at Walmart](https://blog.bytebytego.com/p/the-trillion-message-kafka-setup)
+- [Demo: ACL Authorization · The Internals of Apache Kafka](https://jaceklaskowski.gitbooks.io/apache-kafka/content/kafka-demo-acl-authorization.html#step-8)

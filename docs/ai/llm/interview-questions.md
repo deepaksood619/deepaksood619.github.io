@@ -339,6 +339,23 @@ If you want to experiment and create many variations quickly, a high temperature
 
 [How to use OpenAI GPT-3 temperature • Gptforwork.com](https://gptforwork.com/guides/openai-gpt3-temperature)
 
+## Topics
+
+- token embeddings
+- positional embeddings
+- self-attention
+- transformers
+- intuitive understanding of Q, K, V
+- causal and multi-head attention
+- temperature, top-k, top-p
+- classification & instruction fine-tuning
+- rotary positional encoding (RoPE)
+- KV Cache
+- infini-attention (long context windows)
+- mixture of experts (MoE)
+- grouped query attention
+- basic understanding of llama-2 architecture and techniques which is actually a recap of all the previous subjects
+
 ## Links
 
 [MLStack.Cafe - Kill Your Next Machine Learning, Data Science & Python Interview. Find your next ML Job.](https://www.mlstack.cafe/blog/large-language-models-llms-interview-questions)

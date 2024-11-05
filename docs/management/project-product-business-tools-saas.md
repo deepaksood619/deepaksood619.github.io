@@ -28,6 +28,7 @@
 15. Gmail
       1. Mailman (batches incoming email and keeps brain from getting distracted by the endless trickle of new email)
       2. Zoho
+            1. Zoho Worflows
       3. https://360.yandex.ru/business
 16. Gitlab issues
 17. https://fireflies.ai - AI assistant for your meetings
@@ -49,6 +50,8 @@
 		1. [How to use Form Approvals | Turn Google Form submissions into approval workflows (English Tutorial) - YouTube](https://www.youtube.com/watch?v=eXdbUwzqI6s&t=3s&ab_channel=FormApprovals)
 		2. [Convert Google Form into Multi-Step Approval Workflow | Form Approvals add on - YouTube](https://www.youtube.com/watch?v=pnGKv3WkHTo&ab_channel=KewalKishan-AutomateBusiness)
 25. [Free Online Form Builder & Form Creator | Jotform](https://www.jotform.com)
+	1. [Jotform Workflows: Free Approval and Workflow Builder](https://www.jotform.com/products/workflows/)
+	2. [Miscellaneous Reimbursement Form](https://www.jotform.com/build/243022939651457?s=templates)
 26. [Typeform: People-Friendly Forms and Surveys](https://www.typeform.com/)
 27. [SurveyMonkey: The World’s Most Popular Free Online Survey Tool](https://www.surveymonkey.com/)
 28. [Free Online Form Builder | Tally](https://tally.so/)
