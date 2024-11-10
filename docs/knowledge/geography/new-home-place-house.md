@@ -268,7 +268,7 @@ Take the value of the home that you are considering multiply by 5% and divide by
 - [Is BUYING a BETTER OPTION in 2023? | Buying vs Renting a house: 2023 edition | Ankur Warikoo Hindi - YouTube](https://www.youtube.com/watch?v=YT1ZYWr-tAU&ab_channel=warikoo)
 - [Home rent or buy? | Should you buy a house in 2024? - The final answer | - YouTube](https://www.youtube.com/watch?v=pjpfeTvVMA4&ab_channel=InvestAajForKal)
 
-### Documents
+## Documents / Property Investing
 
 [Don't Invest in Property before checking 10 DOCUMENTS ft. @LegalSHOTS | Real Estate - YouTube](https://www.youtube.com/watch?v=Zhxp1BGgBn8)
 
@@ -286,6 +286,11 @@ Take the value of the home that you are considering multiply by 5% and divide by
 [Flat buying tips - 21 points checklist before buying a flat | FLAT BUYING TIPS | Personal Finance | - YouTube](https://www.youtube.com/watch?v=5biF-qJxuyo&ab_channel=InvestAajForKal)
 
 [The REAL Cost of Buying a House in Delhi/Gurgaon? - YouTube](https://www.youtube.com/watch?v=CdZ199Fo0kE&ab_channel=WintWealth)
+
+[Noida Property Market EXPOSED: How Builders are Trapping Investors - YouTube](https://www.youtube.com/watch?v=jeD2kg4ObXs&ab_channel=PropertyDuniya)
+
+- Builder transfer policy
+- Property transfer
 
 ## Climate resilient
 
@@ -367,8 +372,22 @@ A person feeding themselves a vegetarian diet would need about an acre of land a
 
 ![Largest Real Estate Players in India](../../media/largest-real-estate-players-in-india.png)
 
+## Noida Market
+
+- [Inside an Ultra Luxury 17,000 sq ft Villa in Hyderabad (House Tour).](https://youtu.be/kHmNT9sRT1M)
+- [Premium Luxury Apartments in Mohali between 1 to 2 Cr | Medallion & Marb...](https://youtu.be/LSdCC3NvZHs)
+- [FOMO Market Exposed | New Launches Gurgaon](https://youtu.be/1VJ1YZPCqms)
+- [Yamuna authority latest plot scheme | ये कागज रखें तैयार | Yeida plot la...](https://youtu.be/LkRT4rodmLE)
+- [Yamuna Expressway Authority New Plot Scheme 2024](https://youtu.be/pJlpSysDuEY)
+- [Yamuna Authority Plots: YEIDA Plot Scheme 2024 - Plots Near Jewar Airport](https://youtu.be/Y0Ome-gh7IA)
+- [Yeida Flats 2024 Realty:देखिये क्या हकीकत यमुना अथॉरिटी के सेक्टर 22D के...](https://youtu.be/E_t80utc8Ow)
+- [Plot v/s Apartment v/s Commercial | What Is Better?](https://youtu.be/s_4Nns496Zg)
+- [Addressing Short Term Real Estate Investors](https://youtu.be/zaHI01OlAi4)
+- [All Top Upcoming Projects | Real Estate | Noida | Ghaziabad](https://youtu.be/dAFvSRxwEhU)
+- [Noida Sec 150 Overview | Discover The Darker side and Future Opportunities | Whitehat Realty - YouTube](https://www.youtube.com/watch?v=K8o5Ky5VMV8&ab_channel=WhitehatRealty)
+
 ## Links
 
-[Living](knowledge/geography/living.md)
-
-Best country for kids/primary education
+- [Living](knowledge/geography/living.md)
+- [home-house-building](knowledge/geography/home-house-building.md)
+- Best country for kids/primary education

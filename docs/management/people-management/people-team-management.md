@@ -20,6 +20,8 @@ Would I rather be feared or loved? Both I want people to be afraid of how much t
 
 Fool me once, shame on you. Fool me twice, shame on me. Fool me three times, shame on both of us.
 
+Train people well enough so they can leave. Treat them well enough, so they don't want to.
+
 ## What When How
 
 - **What** are you going to do

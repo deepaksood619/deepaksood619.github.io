@@ -52,6 +52,8 @@
 25. [Free Online Form Builder & Form Creator | Jotform](https://www.jotform.com)
 	1. [Jotform Workflows: Free Approval and Workflow Builder](https://www.jotform.com/products/workflows/)
 	2. [Miscellaneous Reimbursement Form](https://www.jotform.com/build/243022939651457?s=templates)
+	3. [How to Create an Approval Workflow - YouTube](https://www.youtube.com/watch?v=WbRZwtadKlc&ab_channel=Jotform)
+	4. [The Ultimate Guide to Jotform Workflows - YouTube](https://www.youtube.com/watch?v=EMt8Px9F0yU&ab_channel=Jotform)
 26. [Typeform: People-Friendly Forms and Surveys](https://www.typeform.com/)
 27. [SurveyMonkey: The World’s Most Popular Free Online Survey Tool](https://www.surveymonkey.com/)
 28. [Free Online Form Builder | Tally](https://tally.so/)

@@ -152,3 +152,5 @@ https://www.moneycontrol.com/india-investors-portfolio
 - [5 Interesting Stocks: How to Read Credit Ratings! 📑 - YouTube](https://www.youtube.com/watch?v=mwLPhYr0QU4&ab_channel=SOIC)
 - [4 Smallcap Concalls that look interesting - YouTube](https://www.youtube.com/watch?v=LVgZ03F5Ob0)
 - [PE Ratio Decoded for Multibaggers 🕵️‍♂️ - YouTube](https://www.youtube.com/watch?v=EBx2oOZw9ic)
+- [Top 5 Themes for Diwali 5️⃣🧨🪔 - YouTube](https://www.youtube.com/watch?v=MuHYNkYOfgA&ab_channel=SOIC)
+- [Spotting Winners in Metals & Mining Sector 🏆 - YouTube](https://www.youtube.com/watch?v=osKVi2JSIzQ&ab_channel=SOIC)

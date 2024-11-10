@@ -78,6 +78,12 @@ Polyphasic sleep is the practice of sleeping in numerous smaller blocks during t
 
 I'm not an early bird or a night own. I'm some form of permanently exhausted pigeon. -- Gemma Correll
 
+## Sleep starts
+
+Sleep starts, also known as hypnic jerks, are sudden, involuntary muscle contractions that people might experience as they fall asleep.
+
+Certain factors that increase the likelihood of experiencing sleep starts include excessive caffeine and stimulant consumption, vigorous exercise before sleep, emotional stress, and sleep deprivation. Researchers do not know for certain what causes sleep starts.
+
 ## Links
 
 [Brain](psychology/brain.md)

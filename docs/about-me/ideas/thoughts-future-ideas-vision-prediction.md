@@ -10,6 +10,7 @@
 ## Disrupters
 
 - Robotics
+	- [Atlas Goes Hands On - YouTube](https://www.youtube.com/watch?v=F_7IPm7f1vI&ab_channel=BostonDynamics)
 - AI
 - Flying taxis (VTOL)
 - Climate Change
@@ -20,6 +21,8 @@
     - Water - rain water harvesting
     - Roads / public transport - personal air vehicle- VTOL
     - Law and order - security from other humans - Everyone has everything
+- Lab grown diamonds
+- Stock market is one big bubble (index investing)
 
 ### Breakthroughs
 

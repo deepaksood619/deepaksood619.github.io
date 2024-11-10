@@ -15,29 +15,36 @@ https://www.youtube.com/watch?v=dy81ldYQdgY
 
 ![image](../../media/Personality-Life-Lessons-Buying-Guide-Travelling-Shopping-image1.jpg)
 
-### Things to keep in mind
+## Things to keep in mind
 
 - Railings should be glass and big, so that babies cannot fall through
 - Baby safe home building atleast for 2nd floor
 
-### Good homes
+## Good homes
 
 - [₹1.56 Cr ▷ 4 BHK 🔥 Luxury GOLD Class 😍 Sample Flat (3400 sqft) ► Sushma Belleza, Zirakpur Chandigarh - YouTube](https://www.youtube.com/watch?v=xRNoFFSL5KI&ab_channel=Zricks.comZricks.comVerified)
 - [Inside One of Frank Lloyd Wright’s Final-Ever Designs | Unique Spaces | Architectural Digest - YouTube](https://www.youtube.com/watch?v=6L7NnZWeW-s)
 - [P R Sundar's Luxury Penthouse Tour!](https://www.youtube.com/watch?v=Y52kD7RIIuY)
+- [VITAAN : Luxury in the lap of nature… #allaboutarchitecture - YouTube](https://www.youtube.com/watch?v=Sw5tO6QQACI&ab_channel=ALLABOUTARCHITECTURE)
+- [Luxury Penthouse For Sale 5000Sqft Tripple Story On #Airport Road Mohali Lowest Price in #Mohali - YouTube](https://www.youtube.com/watch?v=vhCNDOULPwE&ab_channel=LiveSiteVisit)
 
-### Passive House
+## Passive House
 
 - [Wow! I Didn’t Know A Prebuilt House Could Do This](https://www.youtube.com/watch?v=y3NVDqH39CE)
 - [I Made A Mistake Building My New Net Zero Home - YouTube](https://www.youtube.com/watch?v=SSN-np71d0Q)
 - [New Mexico's 'Earthships' offer unique model for living off the grid - YouTube](https://www.youtube.com/watch?v=a_ZTiocr3LU&ab_channel=PBSNewsHour)
 
-### Interior
+## Interior
 
 - Homelane
 
-### Links
+## Youtube Channels
 
 - [Buildofy - YouTube](https://www.youtube.com/@buildofy)
+- [Civil site visit - YouTube](https://www.youtube.com/@civilsitevisit)
+
+## Links
+
 - [NEVER TOO SMALL: Self Taught Interior Designer’s Apartment, Hong Kong - 48sqm/516sqft - YouTube](https://www.youtube.com/watch?v=5pvNYrOUTtM&ab_channel=NEVERTOOSMALL)
 - [New Mexico's 'Earthships' offer unique model for living off the grid - YouTube](https://www.youtube.com/watch?v=a_ZTiocr3LU&ab_channel=PBSNewsHour)
+- [House construction cost 2025 | घर बनाने का पूरा खर्च | Material + Labour cost | Duplex house rate - YouTube](https://www.youtube.com/watch?v=0GDb28Cetqk&ab_channel=CivilSitevisit)

@@ -157,9 +157,15 @@ An ETF is called an exchange-traded fund since it's traded on an exchange just l
 
 ![Beat Nifty](../../media/Screenshot%202024-08-07%20at%2012.22.20%20AM.jpg)
 
+## ETFs
+
+- Mon100
+- [How To Cash In On China & Hong Kong’s Market Surge I Investing In China Market - YouTube](https://www.youtube.com/watch?v=n0JbMoqoqN8&ab_channel=NDTVProfit)
+
 ## Links
 
 - [Index Investing Options In India:](https://www.youtube.com/watch?v=IIV1Xt_rB3Y)
 - [What are the risks with index investing?](https://freefincal.com/what-are-the-risks-with-index-investing/)
 - [Can I continue investing in Parag Parikh Flexi Cap Fund plus UTI Nifty 50 Index fund?](https://freefincal.com/can-i-continue-investing-in-parag-parikh-flexi-cap-fund-plus-uti-nifty-50-index-fund/)
 - [Should you invest in the Nifty 500 Momentum 50 Index?](https://freefincal.com/should-you-invest-in-the-nifty-500-momentum-50-index/)
+- [The ‘S&P 500 Trap’, Explained. - YouTube](https://www.youtube.com/watch?v=5_kmy78Gu74&ab_channel=NewMoney)
