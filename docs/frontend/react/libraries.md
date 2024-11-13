@@ -46,6 +46,7 @@ Underscore.js is a utility-belt library for JavaScript that provides support for
 - https://github.com/davidhu2000/react-spinners
 - https://www.npmjs.com/package/react-contentful
 - https://www.npmjs.com/package/contentful
+- [GitHub - ckeditor/ckeditor5: Powerful rich text editor framework with a modular architecture, modern integrations, and features like collaborative editing. WYSIWYG](https://github.com/ckeditor/ckeditor5)
 
 ## Select2
 
@@ -63,9 +64,18 @@ Modernizr(js library for feature detection)
 
 - [**https://github.com/formium/formik**](https://github.com/formium/formik)
 - [**https://github.com/react-hook-form/react-hook-form**](https://github.com/react-hook-form/react-hook-form)
+	- [Form Builder](https://react-hook-form.com/form-builder)
 - https://github.com/final-form/react-final-form
 - https://github.com/redux-form/redux-form
 - https://engineering.udacity.com/mastering-the-art-of-forms-in-react-1bd65fb664d7
+- [5 best open source form builder apps (tried and tested)](https://budibase.com/blog/open-source-form-builder/)
+	1. Budibase
+	2. Kinto form builder
+	3. form.io
+	4. Alpaca
+	5. Ohmyform
+- [Powerful React Form Builders to Consider in 2024 — SitePoint](https://www.sitepoint.com/react-form-builders)
+	- [SurveyJS · GitHub](https://github.com/surveyjs)
 
 ## react-query
 

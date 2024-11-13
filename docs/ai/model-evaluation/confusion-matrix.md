@@ -19,23 +19,12 @@ Choose your evaluation metrics in light of acceptable tradeoffs between False Po
 1. Error Rate = (FP+FN)/(P+N)
 2. Accuracy = (TP+TN)/(P+N)
 3. Sensitivity (Recall or True positive rate) = TP/P
-4. False negative rate = FP/(FN+TP) or FP/P
-
-    False negative rate is the fraction of true faces that are not detected by the ML system
-
+4. False negative rate = FP/(FN+TP) or FP/P - False negative rate is the fraction of true faces that are not detected by the ML system
 5. Specificity (True negative rate) = TN/N
-6. Precision (Positive predicted value) = TP/(TP+FP)
-
-    An increase in False Positives would drive down precision
-
-7. False postitive rate = FP/(FP+TN)
-
-    False positive rate is the fraction of the faces that the ML model detects that are not really faces
-
-8. F-Score (Harmonic mean of precision and recall) = (1+b)(PREC.REC)/(b2PREC+REC) where b is commonly 0.5, 1, 2
-9. Tradeoffs
-
-    Sometimes false positives are better than false negatives or vice versa
+6. Precision (Positive predicted value) = TP/(TP+FP) - An increase in False Positives would drive down precision
+7. False postitive rate = FP/(FP+TN) - False positive rate is the fraction of the faces that the ML model detects that are not really faces
+8. F-Score (Harmonic mean of precision and recall) = (1+b)(PREC.REC) / (b2PREC+REC) where b is commonly 0.5, 1, 2
+9. Tradeoffs - Sometimes false positives are better than false negatives or vice versa
 
 ## Receiver Operating Characteristic (ROC) Curve
 

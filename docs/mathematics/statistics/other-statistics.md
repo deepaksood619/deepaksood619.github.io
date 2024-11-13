@@ -51,6 +51,18 @@ An ***F*-test** is any [statistical test](https://en.wikipedia.org/wiki/Statisti
 
 In [statistical](https://en.wikipedia.org/wiki/Statistics) analysis of [binary classification](https://en.wikipedia.org/wiki/Binary_classification), the **F~1~score**(also**F-score** or **F-measure**) is a measure of a test's accuracy. It considers both the [precision](https://en.wikipedia.org/wiki/Precision_(information_retrieval)) *p* and the [recall](https://en.wikipedia.org/wiki/Recall_(information_retrieval))*r*of the test to compute the score: *p* is the number of correct positive results divided by the number of all positive results returned by the classifier, and *r* is the number of correct positive results divided by the number of all relevant samples (all samples that should have been identified as positive). The F~1~score is the [harmonic average](https://en.wikipedia.org/wiki/Harmonic_mean) of the [precision and recall](https://en.wikipedia.org/wiki/Precision_and_recall), where an F~1~score reaches its best value at 1 (perfect precision and recall) and worst at 0.
 
+## Matthews correlation coefficient (MCC)
+
+The Matthews correlation coefficient (MCC) is a statistical tool that measures the quality of binary classifications:
+
+- What it is - A statistical rate that measures the difference between predicted and actual values
+- How it's used - A single-value classification metric that summarizes confusion matrices or error matrices
+- What it's used for - Evaluating binary classifications, protein gamma-turn prediction, software defect prediction, and medical image analysis
+- What it's better than - MCC is more reliable than accuracy and F score, which can produce misleading results on imbalanced datasets
+- How it's calculated - MCC returns values between −1 and +1, with +1 representing a perfect prediction, 0 representing no better than random prediction, and −1 indicating total disagreement between prediction and observation
+
+[The advantages of the Matthews correlation coefficient (MCC) over F1 score and accuracy in binary classification evaluation | BMC Genomics | Full Text](https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-019-6413-7)
+
 ## Moving Average (MA)
 
 In [statistics](https://en.wikipedia.org/wiki/Statistics), a **moving average**(**rolling average** or **running average**) is a calculation to analyze data points by creating series of [averages](https://en.wikipedia.org/wiki/Average) of different subsets of the full data set. It is also called a **moving mean** (**MM**) or **rolling mean** and is a type of [finite impulse response](https://en.wikipedia.org/wiki/Finite_impulse_response) filter.

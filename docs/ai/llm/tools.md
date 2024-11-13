@@ -6,6 +6,7 @@
 - https://openai.com/blog/chatgpt
 - [Claude](https://claude.ai/)
 - https://chat.mistral.ai/
+- [perplexity.ai](https://www.perplexity.ai/)
 - [Godmode](https://godmode.space/)
 - [**OpenAI Platform**](https://platform.openai.com/)
     - [Embeddings - OpenAI API](https://platform.openai.com/docs/guides/embeddings/what-are-embeddings)

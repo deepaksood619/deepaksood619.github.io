@@ -476,6 +476,7 @@ https://docs.leanplum.com/docs/app-inbox-messages
 - Telegram
 - Whatsapp
     - YellowMessenger
+    - https://netcorecloud.com/blog/new-pricing-model-for-whatsapp-api-1st-february-2022/
 
 ### Tools
 

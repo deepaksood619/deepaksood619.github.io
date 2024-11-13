@@ -260,7 +260,7 @@ https://www.freecodecamp.org/news/the-design-thinking-process-explained
     - [Examples · Diagrams](https://diagrams.mingrammer.com/docs/getting-started/examples)
 - [Flowchart Maker and Diagramming Software | Microsoft Visio](https://www.microsoft.com/en-in/microsoft-365/visio/flowchart-software)
 - Gliffy
-- Mermaid
+- Mermaid - https://mermaid.live/
 - PlantUML
 - Lucid Charts (lucidchart) - 60 objects contraint
 - coggle.it

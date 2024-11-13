@@ -6,15 +6,41 @@ Web Vitals is an initiative by Google to provide unified guidance for quality si
 
 ## Largest Contentful Paint (LCP)
 
-Measures **loadingperformance**. To provide a good user experience, LCP should occur within2.5 secondsof when the page first starts loading.
+Measures **loading performance**. To provide a good user experience, LCP should occur within 2.5 seconds of when the page first starts loading.
 
 ## First Input Delay (FID)
 
-Measures **interactivity**. To provide a good user experience, pages should have a FID of less than100 milliseconds.
+Measures **interactivity**. To provide a good user experience, pages should have a FID of less than 100 milliseconds.
+
+### Interaction to Next Paint (INP)
+
+Interaction to Next Paint (INP) is a web performance metric that measures how quickly a website updates or shows changes after a user interacts with it.
+
+It specifically captures the delay between when a user interacts with your site—like clicking a link, pressing a key on the keyboard, or tapping a button—and when they see a visual response.
+
+### First Input Delay vs. Interaction to Next Paint
+
+FID measures how long it takes for your site to respond to a user’s first request by calculating the time from their first interaction to when the site starts processing their input. So, FID only tracks the delay for a person’s initial interaction with the site.
+
+But INP tracks all user interactions during the entire session, and is based on the longest delay the user experiences.
+
+Because of this, INP gives developers and site owners a more holistic view of how responsive a site feels to users.
+
+For example, imagine that a visitor lands on your site and the first thing they do is click on your menu, which takes 100 milliseconds to load. Then, they click on a link in the menu and it takes 400 milliseconds for the linked page to load.
+
+FID would measure only the first engagement of 100 milliseconds. But INP takes all interactions into account and returns a measure of 400 milliseconds.
+
+A good INP score is 200 milliseconds or less, according to Google.
+
+[What Is Interaction to Next Paint? INP vs. FID Explained](https://www.semrush.com/blog/google-inp/)
+
+[Introducing INP to Core Web Vitals  |  Google Search Central Blog  |  Google for Developers](https://developers.google.com/search/blog/2023/05/introducing-inp)
+
+- **Update on March 12, 2024**: [Interaction to Next Paint (INP) has replaced FID](https://web.dev/blog/inp-cwv-launch) as a part of Core Web Vitals.
 
 ## Cumulative Layout Shift (CLS)
 
-Measures**visual stability**. To provide a good user experience, pages should maintain a CLS of less than0.1.
+Measures **visual stability**. To provide a good user experience, pages should maintain a CLS of less than0.1.
 
 Cumulative Layout Shift (CLS) is an important, user-centric metric for measuring [visual stability](https://web.dev/user-centric-performance-metrics/#types-of-metrics) because it helps quantify how often users experience unexpected layout shifts - a low CLS helps ensure that the page is [delightful](https://web.dev/user-centric-performance-metrics/#questions).
 
