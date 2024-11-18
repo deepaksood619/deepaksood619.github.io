@@ -290,3 +290,6 @@ Why kicking out children after 18 years is important, let's say you are very wea
 - [12 quick and easy toddler meal ideas: photos](https://www.babycentre.co.uk/l25020410/12-quick-and-easy-toddler-meal-ideas-photos)
 - [18 month old | BabyCentre](https://www.babycentre.co.uk/s1002004/18-month-old)
 - [The 3-Step Approach to Raising Resilient Kids (Starting Today) - YouTube](https://www.youtube.com/watch?v=t-1elnAar5w&ab_channel=EmmaHubbard)
+- [How to Relieve Baby and Toddler Constipation](https://www.whattoexpect.com/childrens-health-and-safety/baby-and-toddler-constipation.aspx)
+- [Toddler Screaming](https://www.whattoexpect.com/toddler/behavior/screaming-and-screeching.aspx)
+- [Can Babies Sleep With a Pillow?](https://www.whattoexpect.com/first-year/ask-heidi/pillow-for-baby.aspx)

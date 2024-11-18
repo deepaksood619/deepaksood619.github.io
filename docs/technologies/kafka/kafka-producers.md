@@ -69,4 +69,10 @@ One of the most interesting features of Avro, and what makes it a good fit for u
 - **Partitions**
     - Keys serve two goals: they are additional information that gets stored with the message, and they are also used to decide which one of the topic partitions the message will be written to. All messages with the same key will go to the same partition.
 
+## Links
+
 https://www.jesseyates.com/2020/01/01/high-performance-kafka-producers.html
+
+[Tutorial: How to Tune the Kafka Producer Client](https://developer.confluent.io/courses/architecture/producer-hands-on/)
+
+[How to optimize your Kafka producer for throughput using Confluent](https://developer.confluent.io/tutorials/optimize-producer-throughput/confluent.html)

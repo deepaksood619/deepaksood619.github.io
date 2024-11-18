@@ -66,6 +66,10 @@ It's important to understand that the name registered with DNS is the value of m
 
 Once a Service is registered with the cluster's DNS it can be discovered by other Pods running on the cluster...
 
+[Magic of ndots : How we fixed our coredns issue](https://blog.careers360.de/magic-of-ndots-how-we-fixed-our-coredns/)
+
+- The ndots parameter is a setting in the pod's DNS configuration that affects how Kubernetes processes unqualified domain names (names without dots, like service-a). The value of ndots defines the minimum number of dots that a name needs before the DNS resolver considers it "qualified" and tries resolving it as-is.
+
 ## Service Discovery
 
 For service discovery to work, every Pod needs to know know the location of the cluster DNS and use it. To make this work, every container in every Pod has its `/etc/resolv.conf` file configured to use the cluster DNS.

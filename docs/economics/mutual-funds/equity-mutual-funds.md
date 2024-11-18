@@ -138,3 +138,7 @@ In the multicap category, the allocation decision is left to the fund manager wh
 [What you need to know about small cap mutual fund stress tests](https://freefincal.com/what-you-need-to-know-about-small-cap-mutual-fund-stress-tests/)
 
 [Motilal Defence Fund breaks record at Rs 1676 cr but is it worth investing? | Personal Finance - Business Standard](https://www.business-standard.com/amp/finance/personal-finance/motilal-defence-fund-breaks-record-at-rs-1676-cr-but-is-it-worth-investing-124070500104_1.html)
+
+[Best Large & Midcap Mutual Fund for 2025 - YouTube](https://www.youtube.com/watch?v=sjmK6BrFQy0&ab_channel=pranjalkamra)
+
+- Kotak equity opportunities fund

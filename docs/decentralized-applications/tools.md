@@ -36,6 +36,7 @@ The future of decentralized finance lies in the hands of those who dare to chall
 - [Blockchain Analytics & Crypto Compliance Solutions | Elliptic](https://www.elliptic.co/)
 - [Gauntlet](https://gauntlet.network/)
 - [Webacy](https://www.webacy.com/)
+- [Sentio](https://www.sentio.xyz/)
 
 #### Platforms
 

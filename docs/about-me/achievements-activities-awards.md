@@ -26,6 +26,14 @@ I was responsible of creating a product and infrastructure around it to help sav
 
 ## Activities
 
+### Meetup Talk - Real-Time Data Warehousing Solution with AWS and Confluent Cloud - OpsTree Solutions (23 November 2024)
+
+![Apache Kafka x Opstree Meetup](../media/Pasted%20image%2020241115024224.jpg)
+
+[Deepak Sood on LinkedIn: #datastreaming #realtimedata #opstreemeetup #devops #community…](https://www.linkedin.com/feed/update/urn:li:share:7262934586911793153/)
+
+[Deepak Sood on LinkedIn: #dataengineering #apachekafka #confluentcloud #realtimedata…](https://www.linkedin.com/posts/deepaksood619_theres-still-time-to-join-us-in-november-activity-7264225882469208064-xl9V)
+
 ### Podcast - Streamlining Cloud Migration Through Data Engineering
 
 [Podcast - Streamlining Cloud Migration Through Data Engineering](about-me/projects/46-podcast-streamlining-cloud-migration-through-data-engineering.md)

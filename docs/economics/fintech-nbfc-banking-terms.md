@@ -173,55 +173,56 @@ A loan tape is a snapshot of a fintech's customer base and outstanding balances,
 1. Stashfin
 2. [Apply For MSME Loans, Loan Against Property & Vehicle Loans Online](https://www.kogta.in/)
 3. https://www.sliceit.com
-4. Dhani 50m+
-5. Red carpet (RedCarpetUp)
-6. dmifinance - [Best Non-Banking Finance Company | Powering India's Digital Lending Ecosystem](https://www.dmifinance.in/)
-7. Ok credit
-8. CreditMantri
-9. Moneytap
-10. CashTap
-11. Earlysalary
-12. https://www.truebalance.io
-13. Navi
-14. KreditBee
-15. Cashbean
-16. Kissht - 10m+
-17. Moneyview
-18. Fairmoney
-19. Kartbee
-20. Indialends
-21. Creditt
-22. Mi credit - 5m+
-23. Groww
-24. InCred
-25. Freo
-26. HyperVerge
-27. Finbox
-28. Karza
-29. Krowd
-30. OneAssist
-31. Slice
-32. Niyo (goniyo)
-33. Khatabook
-34. Bajaj finance
-35. Bajaj finserv - https://www.youtube.com/watch?v=odiaekxLY0g
-36. Chola
-37. Mutooth Finance
-38. Paisa bazaar
-39. Bank bazaar
-40. Home credit
-41. Propelled (Education loan)
-42. Jodo
-43. Cred
-44. Lazypay
-45. Bharatpe
-46. Payu
-47. Amex
-48. Uni pay 1/3rd card (uni app)
-49. OfBusiness
-50. axio, formerly Capital Float
-51. Piramal Finance, one of India's largest non-banking lenders
-52. Affirm (US - fintech)
+4. https://freed.care/
+5. Dhani 50m+
+6. Red carpet (RedCarpetUp)
+7. dmifinance - [Best Non-Banking Finance Company | Powering India's Digital Lending Ecosystem](https://www.dmifinance.in/)
+8. Ok credit
+9. CreditMantri
+10. Moneytap
+11. CashTap
+12. Earlysalary
+13. https://www.truebalance.io
+14. Navi
+15. KreditBee
+16. Cashbean
+17. Kissht - 10m+
+18. Moneyview
+19. Fairmoney
+20. Kartbee
+21. Indialends
+22. Creditt
+23. Mi credit - 5m+
+24. Groww
+25. InCred
+26. Freo
+27. HyperVerge
+28. Finbox
+29. Karza
+30. Krowd
+31. OneAssist
+32. Slice
+33. Niyo (goniyo)
+34. Khatabook
+35. Bajaj finance
+36. Bajaj finserv - https://www.youtube.com/watch?v=odiaekxLY0g
+37. Chola
+38. Mutooth Finance
+39. Paisa bazaar
+40. Bank bazaar
+41. Home credit
+42. Propelled (Education loan)
+43. Jodo
+44. Cred
+45. Lazypay
+46. Bharatpe
+47. Payu
+48. Amex
+49. Uni pay 1/3rd card (uni app)
+50. OfBusiness
+51. axio, formerly Capital Float
+52. Piramal Finance, one of India's largest non-banking lenders
+53. Affirm (US - fintech)
 
 https://tracxn.com/d/soonicorn-awards/top-startups-in-india-fintech-2021
 

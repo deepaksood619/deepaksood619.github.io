@@ -37,6 +37,7 @@ https://blog.hubspot.com/marketing/search-engine-marketing
 - https://moz.com
 - [Rich Results Test - Google Search Console](https://search.google.com/test/rich-results)
 - [POP: On-Page SEO & Content Optimization Tool Suite](https://www.pageoptimizer.pro/)
+- [Ahrefs—Marketing Intelligence Tools Powered by Big Data.](https://ahrefs.com/)
 
 ## Black Hat SEO
 

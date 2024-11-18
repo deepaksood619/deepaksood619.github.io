@@ -43,3 +43,4 @@ AGI will be intellectually, morally, ethically and creatively superior to humans
 ## Links
 
 - [AI Index Report 2024 – Artificial Intelligence Index](https://aiindex.stanford.edu/report/)
+- [When Machines Think Ahead: The Rise of Strategic AI | by Hans Christian Ekne | Nov, 2024 | Towards Data Science](https://towardsdatascience.com/when-machines-think-ahead-the-rise-of-strategic-ai-91052e4c5da9)

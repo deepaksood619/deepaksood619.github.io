@@ -153,7 +153,25 @@ Finance for Everyone
 
 https://www.edx.org/course/finance-everyone-smart-tools-decision-michiganx-fin101x-1
 
-## Soverign Gold Bond (SGB)
+## Gold / Diamond
+
+- Import duty on gold in India was 15% now it's 6%
+- There is also no customs tax on gold jewelry and ornaments that weigh less than 20 grams and are valued at less than INR 50,000. For ornaments weighing between 20 grams and 100 grams, a flat 10% customs charge is applied to the entire declared value. In addition to basic customs duty, IGST and other taxes may also apply.
+- Dubai does not impose a tax on gold
+- GST - 3% on total value of jewellery
+- [Gold jewellery cost calculation: How jewellers calculate price of gold jewellery](https://economictimes.indiatimes.com/wealth/spend/gold-jewellery-cost-calculation-how-jewellers-calculate-price-of-gold-jewellery/articleshow/109873223.cms?from=mdr)
+- [Jewelbox's $100M consumer opportunity 💍](https://shorts.growthx.club/p/jewelboxs-100m-consumer-opportunity)
+- [Planning to exchange old jewellery for new? Know the income tax rules | Mint](https://www.livemint.com/money/personal-finance/selling-old-jewellery-to-buy-new-one-know-the-income-tax-rules-which-apply-gold-silver-jewels/amp-11730291704859.html)
+
+### American diamonds / cubic zirconia / faux bijoux
+
+Cubic zirconia is a man-made, lab-created gemstone that resembles a diamond. It is made of zirconium dioxide and is optically flawless. This means that it looks very similar to a natural diamond, but it is much more affordable. The stones are created in a laboratory, which makes them much less expensive than natural diamonds.
+
+[What Is American Diamond Jewellery? | Lara Heems Jewellery](https://www.laraheems.com/blogs/news/what-is-american-diamond-jewellery)
+
+[The Ultimate Guide on American Diamond Aka Cubic Zirconia Jewellery - Tarinika India](https://www.tarinika.in/blogs/news/the-ultimate-guide-on-american-diamond-aliasaka-cubic-zirconia-jewellery)
+
+### Soverign Gold Bond (SGB)
 
 - Buy it in secondary market instead of applying for new issue
 - Interest - 2.5 % (taxable) (simple interest given biannually)

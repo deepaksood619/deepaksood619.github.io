@@ -139,3 +139,5 @@ https://www.funretrospectives.com
 - [Sendbird - A Complete Chat Platform, Messaging and Chat API and SDK | Sendbird](https://sendbird.com/)
 - [Translate.Video](https://www.translate.video/)
 - [Video Maker | Make Videos and Animations Online | Powtoon](https://www.powtoon.com/)
+- [AlphaSense | Market Intelligence and Search Platform](https://www.alpha-sense.com/)
+- [Sentio](https://www.sentio.xyz/)

@@ -154,6 +154,7 @@
 
 - [Foodpharmer - YouTube](https://www.youtube.com/@Foodpharmer)
 - Minutefood
+- [MinuteEarth - YouTube](https://www.youtube.com/@MinuteEarth)
 - [Ajit Singh Bhatnagar - Quora](https://www.quora.com/profile/Ajit-Singh-Bhatnagar)
 
 ### News
@@ -331,6 +332,7 @@
 - https://time.com/collection/time100-companies-2022
 - Computing Edge by IEEE, monthly magazine
 - ACM Queue
+- The ken - [The Ken - Business, Startups, Technology and Healthcare news from India](https://the-ken.com/)
 
 ## Apps / Android / Play Store
 
