@@ -4,6 +4,14 @@
 
 Define and run multi-container applications with Docker.
 
+### Installation
+
+```bash
+brew install docker-compose
+
+sudo apt install docker-compose
+```
+
 ### Usage
 
 ```bash

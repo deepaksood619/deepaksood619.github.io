@@ -21,6 +21,22 @@ https://en.wikipedia.org/wiki/Data_governance
 
 https://www.oreilly.com/content/data-governance-and-the-death-of-schema-on-read
 
+## Data governance frameworks
+
+1. [DGI](https://atlan.com/data-governance-framework/#1-dgi) - Data Governance Institute
+2. [DAMA DMBOK](https://atlan.com/data-governance-framework/#2-dama-dmbok) - Data Management Body of Knowledge (DMBOK)
+3. [McKinsey](https://atlan.com/data-governance-framework/#3-mckinsey)
+4. [Eckerson](https://atlan.com/data-governance-framework/#4-eckerson)
+5. [PwC](https://atlan.com/data-governance-framework/#5-pwc)
+6. [Deloitte](https://atlan.com/data-governance-framework/#6-deloitte)
+7. Control Objectives for Information and Related Technology (COBIT)
+8. SAS Data Governance Framework
+9. BCG Data Governance Framework
+
+[Data Governance Framework: Guide, Examples, Template](https://atlan.com/data-governance-framework/)
+
+[Top Data Governance Frameworks in 2024](https://www.kellton.com/kellton-tech-blog/popular-data-governance-frameworks)
+
 ## Cheat Sheet
 
 ### What is Sensitive Data?

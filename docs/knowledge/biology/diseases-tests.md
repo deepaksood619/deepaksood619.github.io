@@ -281,6 +281,13 @@ Aphasia is an inability to comprehend or formulate language because of damage to
 
 Vaccine - The mumps vaccine is part of the **MMR vaccine** series, which also protects against measles and rubella. The CDC recommends that children receive two doses of the MMR vaccine, the first between 12 and 15 months of age and the second between 4 and 6 years of age, with at least four weeks between the doses. The vaccine is 96% effective against measles, 86% effective against mumps, and 89% effective against rubella.
 
+## JellyFish Sting
+
+- Caladryl
+- Delayed skin reaction
+- Tetanus
+- Vinegar
+
 ## Links
 
 [Bacterial vs. Viral Infections: What’s the Difference?](https://www.healthline.com/health/bacterial-vs-viral-infections)

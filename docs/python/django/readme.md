@@ -15,6 +15,7 @@
 - [Others](python/django/others.md)
 - [Cheatsheet](cheatsheet)
 - [Logging](logging)
+- [Optimizations](python/django/optimizations.md)
 - [Docs - Topic Guides](docs-topic-guides)
 - [Other Topics](other-topics)
 - [Django Rest Framework (DRF)](django-rest-framework-drf)

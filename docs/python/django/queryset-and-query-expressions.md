@@ -80,7 +80,7 @@ Internally, a **QuerySet** can be constructed, filtered, sliced, and generally p
     - Prefetch related loses it effect when you change the base query
 
 18. extra()
-19. defer()
+19. **defer()**
 20. **only()**
 21. using()
 22. select_for_update()

@@ -53,3 +53,13 @@ In summary:
 ### Statement
 
 With statement-based binary logging, the source server writes the executed queries to the binary log. This is a very fast, compact, and efficient logging method that works perfectly in most cases. However, it is possible for the data on the source and replica to become different if a query is designed in such a way that the data modification is nondeterministic (generally not a recommended practice, even outside of replication).
+
+## binlog_row_image
+
+This variable, in row-based replication, determines if row images are written to the blog as **full** (log all columns), **minimal** (Log only changed columns and columns used to identify rows), or **noblob** (log all columns except BLOB or TEXT columns).
+
+Setting **binlog_row_image** to MINIMAL reduces the amount of data pushed into the binary log. However, this setting also skips essential data used to recover your database from data corruption, or human mistakes.
+
+This can impact performance and storage size.
+
+[MySQL binlog\_row\_image set to MINIMAL - Percona Platform](https://docs.percona.com/percona-platform/advisors/checks/binlog-row-image.html)

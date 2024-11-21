@@ -47,6 +47,8 @@ https://www.freecodecamp.org/news/what-is-a-software-post-mortem
 
 https://about.gitlab.com/handbook/customer-success/professional-services-engineering/workflows/internal/root-cause-analysis.html
 
+[How Meta Uses LLMs to Improve Incident Response (and how you can too) - Parity](https://www.tryparity.com/blog/how-meta-uses-llms-to-improve-incident-response)
+
 ## Pre Production Testing
 
 - Shadowing

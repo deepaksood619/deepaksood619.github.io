@@ -10,7 +10,7 @@
 - [Careers360 Cost Optimization](about-me/projects/57-careers360-cost-optimization.md)
 - [Azure Social Media Analytics](about-me/projects/55-azure-social-media-analytics.md)
 - [Airflow and Kafka Migration](about-me/projects/54-airflow-kafka-migration.md)
-- [AWS Gen AI Hackathon](about-me/projects/58-aws-gen-ai-hackathon.md)
+- [AWS Gen AI Hackathon](about-me/projects/58-aws-gen-ai-hackathon-rag.md)
 - [Mozark - Cloud Cost Optimization and Performance Enhancement](about-me/projects/53-mozark-cloud-cost-optimization.md)
 
 #### Account Management / Sales

@@ -16,6 +16,8 @@ sudo service docker start
 sudo usermod -a -G docker ubuntu
 
 sudo apt install docker-compose
+
+brew install docker-compose
 ```
 
 ## Containers

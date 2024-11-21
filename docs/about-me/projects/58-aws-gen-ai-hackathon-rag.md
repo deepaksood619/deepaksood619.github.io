@@ -1,4 +1,4 @@
-# AWS Gen AI Hackathon
+# AWS Gen AI Hackathon RAG
 
 [Virtual Recruiter | GenAI - RAG - Google Slides](https://docs.google.com/presentation/d/1PL-uccbMAo21G0YkorF-RGwG5tqr-Sxm72lLsLggF_M/edit?usp=sharing)
 

@@ -187,3 +187,4 @@ If running a instance for less than 12-15 hours then on-demand can be cheaper th
 - [Cost optimization - AWS Support](https://docs.aws.amazon.com/awssupport/latest/user/cost-optimization-checks.html)
 - [Understanding Consolidated Bills - AWS Billing](https://docs.aws.amazon.com/awsaccountbilling/latest/aboutv2/con-bill-blended-rates.html)
 - [Best Practices for AWS Organizations](https://www.densify.com/finops/aws-organizations-best-practices/)
+- [Amazon Q for Cost Analysis | The Keys to AWS Optimization | S10 E10 - YouTube](https://www.youtube.com/watch?v=snJdAqr_GJA)
