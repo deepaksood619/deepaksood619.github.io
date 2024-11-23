@@ -30,12 +30,71 @@ I was responsible of creating a product and infrastructure around it to help sav
 
 - Presentation - [Real-Time Data Warehousing Solution with AWS and Confluent Cloud ​](https://docs.google.com/presentation/d/118S2du_m7mJ2WFsbwtmFuLz6NApfblv-FmbBE3XQ6PU/edit?usp=sharing)
 - Recording - https://www.youtube.com/live/7NqLTGKFK0c
+- **Session 1**
+	- How to Build a Data Streaming Platform: Introduction to Stream Processing & Stream Governance with Kafka and Flink  
+	- Speaker: Diptiman Raichaudhuri , Staff Developer Advocate, Confluent  
+- **Session 2**
+	- Real-Time Data Warehousing Solution with AWS and Confluent Cloud  
+	- Speakers: Deepak Sood (Senior AI, Data & DevOps Architect) and Ramneek Kaur (Experienced Data Engineer), OpsTree Solutions
+
+#### Questions
+
+- Latency of insert of a single message to Kafka - 20ms
+- Networking - Is it like a socket connection for producer, or creates new connection everytime?
+- Exactly once processing
+- Kafka connect vs Flink for connectors vs Kafka Streams
+- Spark Streaming vs Kafka Streams vs Flink vs ksqldb
+- Flink - kappa architecture
+- Apache Hudi (aws) vs Delta Lake (databricks) vs **Apache Iceberg** (confluent, snowflake) vs OTF (open table format)
+- Parquet vs ORC vs Avro
+- OCC - Iceberg (Optimistic Concurrent)
+- Benchmarketing
+- Apache Calcite
+- flink copies data from Kafka topic to dynamic table?
+	- rocks db
+	- So flink is not stateless, since it keeps in-memory
+	- flink node manager
+	- RMA - Rolling moving average
+	- Tumbling window
+	- Session window
+	- Hoping window
+	- Flink SQL - ANSI SQL?
+- **Alerting with Flink and Kafka**
+- flink behind working? - how upserts work? filesystem or database table
+- **Schema management - how it works?**
+	- Data Streaming Platform - DSP
+	- Schema Registry
+		- Schema
+		- Data Validation
+		- Data Quality Rules
+	- Data Portal (Data Product / Data Catalog)
+		- Search Lineage - Tag
+		- Metadata - RBAC
+		- Browse Data Assets
+	- This Data Streaming Platform - DSP Confluent
+	- Tableflow (Iceberg - Polaris - for data catalogue, metadata, RBAC)
+	- Data Quality Rules - ?
+	- Avro for Schema Registry
+	- **Avro vs Protobuf vs JSON vs Thrift
+		- Thrift not used anymore
+- Common expression language
+- Stream lineage
+- Hive - no acid compliant read - Pig - not used anymore
+- Query engine - Presto, **Trino** (very good), duckdb
+- Pino (real time queries) vs clickhouse
+- **How to keep up with these technologies**
+- Flink table is append only mode
+- Kafka producer and consumer has so many configuration
 
 ![Apache Kafka x Opstree Meetup](../media/Pasted%20image%2020241115024224.jpg)
+
+[Deepak Sood on LinkedIn: #dataengineering #apachekafka #eventstreaming #aws #confluentcloud…](https://www.linkedin.com/posts/deepaksood619_dataengineering-apachekafka-eventstreaming-activity-7266173593120567296-9RHY?utm_source=share&utm_medium=member_desktop)
 
 [Deepak Sood on LinkedIn: #datastreaming #realtimedata #opstreemeetup #devops #community…](https://www.linkedin.com/feed/update/urn:li:share:7262934586911793153/)
 
 [Deepak Sood on LinkedIn: #dataengineering #apachekafka #confluentcloud #realtimedata…](https://www.linkedin.com/posts/deepaksood619_theres-still-time-to-join-us-in-november-activity-7264225882469208064-xl9V)
+
+[Buildpiper - By Opstree on LinkedIn: Apache Kafka x OpsTree](https://www.linkedin.com/posts/buildpiper_apache-kafka-x-opstree-activity-7265250832239992832-p2NJ?utm_source=share&utm_medium=member_desktop)
 
 ### Podcast - Streamlining Cloud Migration Through Data Engineering
 

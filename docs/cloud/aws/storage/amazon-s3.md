@@ -258,6 +258,7 @@ A vault is a container for storing archives. When you create a vault, you specif
 
 ## Links
 
+- [Stanislav Kozlovski on LinkedIn: AWS S3 Deep Dive](https://www.linkedin.com/posts/stanislavkozlovski_aws-s3-deep-dive-activity-7072826135792754688-I5pY?utm_source=share&utm_medium=member_desktop)
 - [Creating a simple public file repository on Amazon S3 | AWS Storage Blog](https://aws.amazon.com/blogs/storage/creating-a-simple-public-file-repository-on-amazon-s3/)
 - [Designing a resilient and cost-effective backup strategy for Amazon S3 | AWS Storage Blog](https://aws.amazon.com/blogs/storage/designing-a-resilient-and-cost-effective-backup-strategy-for-amazon-s3/)
 - [Optimizing storage costs and query performance by compacting small objects | AWS Storage Blog](https://aws.amazon.com/blogs/storage/optimizing-storage-costs-and-query-performance-by-compacting-small-objects/)
