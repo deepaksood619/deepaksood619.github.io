@@ -18,7 +18,7 @@
 <meta name="theme-color" content="rgb(47, 133, 85)">
 
 <script src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5616865131274062" async crossorigin="anonymous"></script><link rel="stylesheet" href="/assets/css/styles.1aa998db.css">
-<script src="/assets/js/runtime~main.8ad93177.js" defer="defer"></script>
+<script src="/assets/js/runtime~main.bf89e28e.js" defer="defer"></script>
 <script src="/assets/js/main.4d06222d.js" defer="defer"></script>
 </head>
 <body class="navigation-with-keyboard">
@@ -180,7 +180,7 @@
 <p><a href="https://www.confluent.io/blog/apache-kafka-2-4-latest-version-updates" target="_blank" rel="noopener noreferrer">https://www.confluent.io/blog/apache-kafka-2-4-latest-version-updates</a></p>
 <h2 class="anchor anchorWithStickyNavbar_LWe7" id="kafka-without-zookeeper-kafka-with-kraft-mode">Kafka without Zookeeper (Kafka with KRaft Mode)<a href="#kafka-without-zookeeper-kafka-with-kraft-mode" class="hash-link" aria-label="Direct link to Kafka without Zookeeper (Kafka with KRaft Mode)" title="Direct link to Kafka without Zookeeper (Kafka with KRaft Mode)">​</a></h2>
 <ul>
-<li>KRaft Algorithm</li>
+<li>KRaft Algorithm (pronounced as craft)</li>
 <li><a href="https://www.confluent.io/blog/apache-kafka-3-3-0-new-features-and-updates/" target="_blank" rel="noopener noreferrer">What’s New in Apache Kafka 3.3 - New Features, Updates, and More</a></li>
 <li><a href="https://www.confluent.io/blog/kafka-without-zookeeper-a-sneak-peek/" target="_blank" rel="noopener noreferrer">Kafka Without ZooKeeper: A Sneak Peek At the Simplest Kafka Yet</a></li>
 <li><a href="https://developer.confluent.io/learn/kraft/" target="_blank" rel="noopener noreferrer">KRaft - Apache Kafka Without ZooKeeper</a></li>
@@ -190,75 +190,6 @@
 <li><a href="https://www.conduktor.io/blog/kraft-quorum-run-kafka-without-zookeeper/" target="_blank" rel="noopener noreferrer">KRaft Quorum: How to run Kafka without Zookeper</a></li>
 </ul>
 <p><img loading="lazy" alt="Kafka with KRaft" src="/assets/images/Pasted image 20240808170843-5077d18f5342c22db10d4ec90f2e10b5.png" width="715" height="441" class="img_ev3q"></p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="questions">Questions<a href="#questions" class="hash-link" aria-label="Direct link to Questions" title="Direct link to Questions"> ​</a></h2>
-<ul>
-<li>Latency of insert of a single message to Kafka - 20ms</li>
-<li>Networking - Is it like a socket connection for producer, or creates new connection everytime?</li>
-<li>Exactly once processing</li>
-<li>Kraft (call it craft)</li>
-<li>Kafka connect vs Flink for connectors</li>
-<li>Spark Streaming vs Kafka Streams vs Flink</li>
-<li>Flink - pyflink</li>
-<li>Flink - kappa architecture</li>
-<li>Apache Hudi (aws) vs Delta Lake (databricks) vs <strong>Apache Iceberg</strong> (confluent, snowflake) vs OTF (open table format)</li>
-<li>Parquet vs ORC vs Avro</li>
-<li>OCC - Iceberg (Optimistic Concurrent)</li>
-<li>Deepankar</li>
-<li>Benchmarketing</li>
-<li>Apache Calcite</li>
-<li>If key is an autoincrement ? - round robin - ?</li>
-<li>Continuous query</li>
-<li>flink copies data from Kafka topic to dynamic table?<!-- -->
-<ul>
-<li>rocks db</li>
-<li>So flink is not stateless, since it keeps in-memory</li>
-<li>flink node manager</li>
-<li>RMA - Rolling moving average</li>
-<li>Tumbling window</li>
-<li>Session window</li>
-<li>Hoping window</li>
-<li>Flink SQL - ANSI SQL?</li>
-</ul>
-</li>
-<li><strong>Alerting with Flink and Kafka</strong></li>
-<li>flink behind working? - how upserts work? filesystem or database table</li>
-<li><strong>Schema management - how it works?</strong>
-<ul>
-<li>Data Streaming Platform - DSP</li>
-<li>Schema Registry<!-- -->
-<ul>
-<li>Schema</li>
-<li>Data Validation</li>
-<li>Data Quality Rules</li>
-</ul>
-</li>
-<li>Data Portal (Data Product / Data Catalog)<!-- -->
-<ul>
-<li>Search Lineage - Tag</li>
-<li>Metadata - RBAC</li>
-<li>Browse Data Assets</li>
-</ul>
-</li>
-<li>This Data Streaming Platform - DSP Confluent</li>
-<li>Tableflow (Iceberg - Polaris - for data catalogue, metadata, RBAC)</li>
-<li>Data Quality Rules - ?</li>
-<li>Avro for Schema Registry</li>
-<li>**Avro vs Protobuf vs JSON vs Thrift<!-- -->
-<ul>
-<li>Thrift not used anymore</li>
-</ul>
-</li>
-</ul>
-</li>
-<li>Common expression language</li>
-<li>Stream lineage</li>
-<li>Hive - no acid compliant read - Pig - not used anymore</li>
-<li>Query engine - Presto, <strong>Trino</strong> (very good), duckdb</li>
-<li>Pino (real time queries) vs clickhouse</li>
-<li><strong>How to keep up with these technologies</strong></li>
-<li>Flink table is append only mode</li>
-<li>Kafka producer and consumer has so many configuration</li>
-</ul>
 <h2 class="anchor anchorWithStickyNavbar_LWe7" id="best-practices">Best Practices<a href="#best-practices" class="hash-link" aria-label="Direct link to Best Practices" title="Direct link to Best Practices">​</a></h2>
 <ul>
 <li><a href="https://www.infoq.com/articles/apache-kafka-best-practices-to-optimize-your-deployment" target="_blank" rel="noopener noreferrer">https://www.infoq.com/articles/apache-kafka-best-practices-to-optimize-your-deployment</a></li>
@@ -287,6 +218,7 @@
 <li><a href="https://highscalability.com/untitled-2/" target="_blank" rel="noopener noreferrer">Kafka 101</a></li>
 <li><a href="https://blog.bytebytego.com/p/the-trillion-message-kafka-setup" target="_blank" rel="noopener noreferrer">The Trillion Message Kafka Setup at Walmart</a></li>
 <li><a href="https://jaceklaskowski.gitbooks.io/apache-kafka/content/kafka-demo-acl-authorization.html#step-8" target="_blank" rel="noopener noreferrer">Demo: ACL Authorization · The Internals of Apache Kafka</a></li>
-</ul></div><footer class="theme-doc-footer docusaurus-mt-lg"><div class="theme-doc-footer-edit-meta-row row"><div class="col"><a href="https://github.com/deepaksood619/deepaksood619.github.io/tree/master/docs/technologies/kafka/intro.md" target="_blank" rel="noopener noreferrer" class="theme-edit-this-page"><svg fill="currentColor" height="20" width="20" viewBox="0 0 40 40" class="iconEdit_Z9Sw" aria-hidden="true"><g><path d="m34.5 11.7l-3 3.1-6.3-6.3 3.1-3q0.5-0.5 1.2-0.5t1.1 0.5l3.9 3.9q0.5 0.4 0.5 1.1t-0.5 1.2z m-29.5 17.1l18.4-18.5 6.3 6.3-18.4 18.4h-6.3v-6.2z"></path></g></svg>Edit this page</a></div><div class="col lastUpdated_vwxv"><span class="theme-last-updated">Last updated<!-- --> on <b><time datetime="2024-11-23T19:10:44.000Z">Nov 23, 2024</time></b></span></div></div></footer></article><nav class="pagination-nav docusaurus-mt-lg" aria-label="Docs pages"><a class="pagination-nav__link pagination-nav__link--prev" href="/technologies/kafka/intro-to-kafka"><div class="pagination-nav__sublabel">Previous</div><div class="pagination-nav__label">Intro to Kafka</div></a><a class="pagination-nav__link pagination-nav__link--next" href="/technologies/kafka/kafka-architecture"><div class="pagination-nav__sublabel">Next</div><div class="pagination-nav__label">Kafka Architecture</div></a></nav></div></div><div class="col col--3"><div class="tableOfContents_bqdL thin-scrollbar theme-doc-toc-desktop"><ul class="table-of-contents table-of-contents__left-border"><li><a href="#intro-1" class="table-of-contents__link toc-highlight">Intro</a></li><li><a href="#application" class="table-of-contents__link toc-highlight">Application</a></li><li><a href="#example-applications" class="table-of-contents__link toc-highlight">Example Applications</a></li><li><a href="#concepts" class="table-of-contents__link toc-highlight">Concepts</a></li><li><a href="#apis" class="table-of-contents__link toc-highlight">APIs</a></li><li><a href="#architecture" class="table-of-contents__link toc-highlight">Architecture</a></li><li><a href="#use-cases" class="table-of-contents__link toc-highlight">Use Cases</a><ul><li><a href="#messaging" class="table-of-contents__link toc-highlight">Messaging</a></li><li><a href="#website-activity-tracking" class="table-of-contents__link toc-highlight">Website Activity Tracking</a></li><li><a href="#metrics" class="table-of-contents__link toc-highlight">Metrics</a></li><li><a href="#log-aggregation" class="table-of-contents__link toc-highlight">Log Aggregation</a></li><li><a href="#stream-processing" class="table-of-contents__link toc-highlight">Stream Processing</a></li><li><a href="#event-sourcing" class="table-of-contents__link toc-highlight">Event Sourcing</a></li><li><a href="#commit-log" class="table-of-contents__link toc-highlight">Commit Log</a></li><li><a href="#fintech" class="table-of-contents__link toc-highlight">Fintech</a></li><li><a href="#top-5-kafka-use-cases" class="table-of-contents__link toc-highlight">Top 5 Kafka Use Cases</a></li></ul></li><li><a href="#isr" class="table-of-contents__link toc-highlight">ISR</a></li><li><a href="#streams-api" class="table-of-contents__link toc-highlight">Streams API</a></li><li><a href="#managed-services" class="table-of-contents__link toc-highlight">Managed Services</a></li><li><a href="#meet-kafka-definitive-guide" class="table-of-contents__link toc-highlight">Meet Kafka (Definitive Guide)</a></li><li><a href="#apache-kafka-24" class="table-of-contents__link toc-highlight">Apache Kafka 2.4</a></li><li><a href="#kafka-without-zookeeper-kafka-with-kraft-mode" class="table-of-contents__link toc-highlight">Kafka without Zookeeper (Kafka with KRaft Mode)</a></li><li><a href="#questions" class="table-of-contents__link toc-highlight">Questions</a></li><li><a href="#best-practices" class="table-of-contents__link toc-highlight">Best Practices</a></li><li><a href="#references" class="table-of-contents__link toc-highlight">References</a></li></ul></div></div></div></div></main></div></div></div><footer class="footer footer--dark"><div class="container container-fluid"><div class="footer__bottom text--center"><div class="footer__copyright">Copyright © 2024 Deep Notes, Built with ❤️</div></div></div></footer></div>
+<li><a href="https://www.confluent.io/resources/ebook/6-common-kafka-challenges/" target="_blank" rel="noopener noreferrer">Kafka Challenges and How to Overcome Them</a></li>
+</ul></div><footer class="theme-doc-footer docusaurus-mt-lg"><div class="theme-doc-footer-edit-meta-row row"><div class="col"><a href="https://github.com/deepaksood619/deepaksood619.github.io/tree/master/docs/technologies/kafka/intro.md" target="_blank" rel="noopener noreferrer" class="theme-edit-this-page"><svg fill="currentColor" height="20" width="20" viewBox="0 0 40 40" class="iconEdit_Z9Sw" aria-hidden="true"><g><path d="m34.5 11.7l-3 3.1-6.3-6.3 3.1-3q0.5-0.5 1.2-0.5t1.1 0.5l3.9 3.9q0.5 0.4 0.5 1.1t-0.5 1.2z m-29.5 17.1l18.4-18.5 6.3 6.3-18.4 18.4h-6.3v-6.2z"></path></g></svg>Edit this page</a></div><div class="col lastUpdated_vwxv"><span class="theme-last-updated">Last updated<!-- --> on <b><time datetime="2024-11-23T20:29:06.000Z">Nov 23, 2024</time></b></span></div></div></footer></article><nav class="pagination-nav docusaurus-mt-lg" aria-label="Docs pages"><a class="pagination-nav__link pagination-nav__link--prev" href="/technologies/kafka/intro-to-kafka"><div class="pagination-nav__sublabel">Previous</div><div class="pagination-nav__label">Intro to Kafka</div></a><a class="pagination-nav__link pagination-nav__link--next" href="/technologies/kafka/kafka-architecture"><div class="pagination-nav__sublabel">Next</div><div class="pagination-nav__label">Kafka Architecture</div></a></nav></div></div><div class="col col--3"><div class="tableOfContents_bqdL thin-scrollbar theme-doc-toc-desktop"><ul class="table-of-contents table-of-contents__left-border"><li><a href="#intro-1" class="table-of-contents__link toc-highlight">Intro</a></li><li><a href="#application" class="table-of-contents__link toc-highlight">Application</a></li><li><a href="#example-applications" class="table-of-contents__link toc-highlight">Example Applications</a></li><li><a href="#concepts" class="table-of-contents__link toc-highlight">Concepts</a></li><li><a href="#apis" class="table-of-contents__link toc-highlight">APIs</a></li><li><a href="#architecture" class="table-of-contents__link toc-highlight">Architecture</a></li><li><a href="#use-cases" class="table-of-contents__link toc-highlight">Use Cases</a><ul><li><a href="#messaging" class="table-of-contents__link toc-highlight">Messaging</a></li><li><a href="#website-activity-tracking" class="table-of-contents__link toc-highlight">Website Activity Tracking</a></li><li><a href="#metrics" class="table-of-contents__link toc-highlight">Metrics</a></li><li><a href="#log-aggregation" class="table-of-contents__link toc-highlight">Log Aggregation</a></li><li><a href="#stream-processing" class="table-of-contents__link toc-highlight">Stream Processing</a></li><li><a href="#event-sourcing" class="table-of-contents__link toc-highlight">Event Sourcing</a></li><li><a href="#commit-log" class="table-of-contents__link toc-highlight">Commit Log</a></li><li><a href="#fintech" class="table-of-contents__link toc-highlight">Fintech</a></li><li><a href="#top-5-kafka-use-cases" class="table-of-contents__link toc-highlight">Top 5 Kafka Use Cases</a></li></ul></li><li><a href="#isr" class="table-of-contents__link toc-highlight">ISR</a></li><li><a href="#streams-api" class="table-of-contents__link toc-highlight">Streams API</a></li><li><a href="#managed-services" class="table-of-contents__link toc-highlight">Managed Services</a></li><li><a href="#meet-kafka-definitive-guide" class="table-of-contents__link toc-highlight">Meet Kafka (Definitive Guide)</a></li><li><a href="#apache-kafka-24" class="table-of-contents__link toc-highlight">Apache Kafka 2.4</a></li><li><a href="#kafka-without-zookeeper-kafka-with-kraft-mode" class="table-of-contents__link toc-highlight">Kafka without Zookeeper (Kafka with KRaft Mode)</a></li><li><a href="#best-practices" class="table-of-contents__link toc-highlight">Best Practices</a></li><li><a href="#references" class="table-of-contents__link toc-highlight">References</a></li></ul></div></div></div></div></main></div></div></div><footer class="footer footer--dark"><div class="container container-fluid"><div class="footer__bottom text--center"><div class="footer__copyright">Copyright © 2024 Deep Notes, Built with ❤️</div></div></div></footer></div>
 </body>
 </html>
