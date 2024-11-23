@@ -130,11 +130,19 @@ The concepts, components, and features of the platform are described in detail a
 - [Maru: Load Testing Tool for Temporal Workflows | Mikhail Shilkov](https://mikhail.io/2021/03/maru-load-testing-tool-for-temporal-workflows/)
 - [Introduction to Temporal | The Write Ahead Log](https://platformatory.io/blog/Introduction-to-Temporal/)
 
-## Others
+## Dagster
+
+[Dagster](ai/big-data/tools.md#Dagster)
+
+## Mage.ai
+
+[GitHub - mage-ai/mage-ai: 🧙 Build, run, and manage data pipelines for integrating and transforming data.](https://github.com/mage-ai/mage-ai) - 8K stars
 
 [Give your data team magical powers | Mage](https://www.mage.ai/)
 
 [The Airflow alternative worth checking out: Mage.ai - YouTube](https://www.youtube.com/watch?v=3gXsFEC3aYA)
+
+## Others
 
 [GitHub - alseambusher/crontab-ui: Easy and safe way to manage your crontab file](https://github.com/alseambusher/crontab-ui)
 

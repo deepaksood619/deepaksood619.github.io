@@ -75,7 +75,8 @@ A warehouse management system is software that helps companies manage and contro
 - https://wperp.com/81080/7-most-popular-open-source-hris-software-to-look-for-now-an-easy-comparison
 - https://www.lever.co
 - [sap](cloud/others/sap.md)
-   	- Best - **[GitHub - frappe/hrms: Open Source HR and Payroll Software](https://github.com/frappe/hrms)**
+- Best - **[GitHub - frappe/hrms: Open Source HR and Payroll Software](https://github.com/frappe/hrms)**
+- [Superset | Automate Campus Placement and Campus Recruitment](https://joinsuperset.com/) - For Colleges
 
 ## Telegram
 

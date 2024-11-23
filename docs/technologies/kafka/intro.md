@@ -169,6 +169,60 @@ https://www.confluent.io/blog/apache-kafka-2-4-latest-version-updates
 
 ![Kafka with KRaft](../../media/Pasted%20image%2020240808170843.png)
 
+## Questions
+
+- Latency of insert of a single message to Kafka - 20ms
+- Networking - Is it like a socket connection for producer, or creates new connection everytime?
+- Exactly once processing
+- Kraft (call it craft)
+- Kafka connect vs Flink for connectors
+- Spark Streaming vs Kafka Streams vs Flink
+- Flink - pyflink
+- Flink - kappa architecture
+- Apache Hudi (aws) vs Delta Lake (databricks) vs **Apache Iceberg** (confluent, snowflake) vs OTF (open table format)
+- Parquet vs ORC vs Avro
+- OCC - Iceberg (Optimistic Concurrent)
+- Deepankar
+- Benchmarketing
+- Apache Calcite
+- If key is an autoincrement ? - round robin - ?
+- Continuous query
+- flink copies data from Kafka topic to dynamic table?
+	- rocks db
+	- So flink is not stateless, since it keeps in-memory
+	- flink node manager
+	- RMA - Rolling moving average
+	- Tumbling window
+	- Session window
+	- Hoping window
+	- Flink SQL - ANSI SQL?
+- **Alerting with Flink and Kafka**
+- flink behind working? - how upserts work? filesystem or database table
+- **Schema management - how it works?**
+	- Data Streaming Platform - DSP
+	- Schema Registry
+		- Schema
+		- Data Validation
+		- Data Quality Rules
+	- Data Portal (Data Product / Data Catalog)
+		- Search Lineage - Tag
+		- Metadata - RBAC
+		- Browse Data Assets
+	- This Data Streaming Platform - DSP Confluent
+	- Tableflow (Iceberg - Polaris - for data catalogue, metadata, RBAC)
+	- Data Quality Rules - ?
+	- Avro for Schema Registry
+	- **Avro vs Protobuf vs JSON vs Thrift
+		- Thrift not used anymore
+- Common expression language
+- Stream lineage
+- Hive - no acid compliant read - Pig - not used anymore
+- Query engine - Presto, **Trino** (very good), duckdb
+- Pino (real time queries) vs clickhouse
+- **How to keep up with these technologies**
+- Flink table is append only mode
+- Kafka producer and consumer has so many configuration
+
 ## Best Practices
 
 - https://www.infoq.com/articles/apache-kafka-best-practices-to-optimize-your-deployment

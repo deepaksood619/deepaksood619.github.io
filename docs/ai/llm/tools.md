@@ -105,6 +105,8 @@
 - [\[2407.09025\] SpreadsheetLLM: Encoding Spreadsheets for Large Language Models](https://arxiv.org/abs/2407.09025)
 - [GitHub - WecoAI/aideml: AIDE: the Machine Learning CodeGen Agent](https://github.com/WecoAI/aideml)
 - [aiPDF - Your AI-Powered PDF Chat App](https://aipdf.ai/)
+- [Knorish Flow AI - Knorish](https://knorish.com/knorish-flow-ai.html)
+	- Clone yourself with AI using your content. Coach and mentor your audience 24/7 with an AI digital version of yourself, offering expert advice and insights.
 
 ![ai-tools](../../media/image.png)
 

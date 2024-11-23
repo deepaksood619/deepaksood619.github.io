@@ -48,21 +48,25 @@ Create the next generation of applications using artificial intelligence capabil
 
 Gather, store, process, analyse and visualise data of any variety, volume or velocity
 
-1. [Azure Databricks](https://azure.microsoft.com/en-in/services/databricks/) - Fast, easy and collaborative Apache Spark-based analytics platform
+1. [Azure Databricks](https://azure.microsoft.com/en-in/services/databricks/) (ADB) - Fast, easy and collaborative Apache Spark-based analytics platform
 2. [Azure Stream Analytics](https://azure.microsoft.com/en-in/services/stream-analytics/) - Real-time data stream processing from millions of IoT devices
 3. [HDInsight](https://azure.microsoft.com/en-in/services/hdinsight/) - Provision cloud Hadoop, Spark, R Server, HBase, and Storm clusters
-4. [Data Factory](https://azure.microsoft.com/en-in/services/data-factory/) - Hybrid data integration at enterprise scale, made easy
-5. [Data Lake Analytics](https://azure.microsoft.com/en-in/services/data-lake-analytics/) - Distributed analytics service which makes big data easy
-6. [Event Hubs](https://azure.microsoft.com/en-in/services/event-hubs/) - Receive telemetry from millions of devices
-7. [Power BI Embedded](https://azure.microsoft.com/en-in/services/power-bi-embedded/) - Embed fully interactive, stunning data visualisations in your applications
-8. [Azure Analysis Services](https://azure.microsoft.com/en-in/services/analysis-services/) - Enterprise-grade analytics engine as a service
-9. [R Server for HDInsight](https://azure.microsoft.com/en-in/services/hdinsight/r-server/) - Predictive analytics, machine learning and statistical modeling for big data
-10. [Data Catalog](https://azure.microsoft.com/en-in/services/data-catalog/) - Get more value from your enterprise data assets
-11. [Azure Data Lake Storage](https://azure.microsoft.com/en-in/services/storage/data-lake-storage/) - Massively scalable, secure data lake functionality built on Azure Blob Storage
-12. [Azure Data Explorer](https://azure.microsoft.com/en-in/services/data-explorer/) - Fast and highly scalable data exploration service
-13. [Azure Data Share](https://azure.microsoft.com/en-in/services/data-share/) - A simple and safe service for sharing big data with external organizations
+4. [Data Lake Analytics](https://azure.microsoft.com/en-in/services/data-lake-analytics/) - Distributed analytics service which makes big data easy
+5. [Event Hubs](https://azure.microsoft.com/en-in/services/event-hubs/) - Receive telemetry from millions of devices
+6. [Power BI Embedded](https://azure.microsoft.com/en-in/services/power-bi-embedded/) - Embed fully interactive, stunning data visualisations in your applications
+7. [Azure Analysis Services](https://azure.microsoft.com/en-in/services/analysis-services/) - Enterprise-grade analytics engine as a service
+8. [R Server for HDInsight](https://azure.microsoft.com/en-in/services/hdinsight/r-server/) - Predictive analytics, machine learning and statistical modeling for big data
+9. [Data Catalog](https://azure.microsoft.com/en-in/services/data-catalog/) - Get more value from your enterprise data assets
+10. [Azure Data Lake Storage](https://azure.microsoft.com/en-in/services/storage/data-lake-storage/) - Massively scalable, secure data lake functionality built on Azure Blob Storage
+11. [Azure Data Explorer](https://azure.microsoft.com/en-in/services/data-explorer/) - Fast and highly scalable data exploration service
+12. [Azure Data Share](https://azure.microsoft.com/en-in/services/data-share/) - A simple and safe service for sharing big data with external organizations
 
-### 14. [Azure Synapse Analytics](https://azure.microsoft.com/en-in/services/synapse-analytics/)
+### [Azure HDInsight - Hadoop, Spark, and Kafka | Microsoft Azure](https://azure.microsoft.com/en-us/products/hdinsight)
+
+- Run popular open-source frameworks—including Apache Hadoop, Spark, Hive, Kafka, and more—using Azure HDInsight, a customizable, enterprise-grade service for open-source analytics. Effortlessly process massive amounts of data and get all the benefits of the broad open-source project ecosystem with the global scale of Azure. Easily migrate your big data workloads and processing to the cloud.
+- [What is Azure HDInsight | Microsoft Learn](https://learn.microsoft.com/en-us/azure/hdinsight/hdinsight-overview)
+
+### [Azure Synapse Analytics](https://azure.microsoft.com/en-in/services/synapse-analytics/)
 
 Limitless analytics service with unmatched time to insight (formerly SQL Data Warehouse)
 
@@ -81,6 +85,31 @@ Azure Synapse Analytics is an analytics service that helps in data integration, 
 - End-to-End Management and Monitoring
 
 [Azure Synapse SQL: Exploring Pool Options](https://k21academy.com/microsoft-azure/data-engineer/azure-sql-vs-dedicated-sql-vs-serverless-sql-vs-apache-spark/)
+
+### Azure Data Factory (ADF) - [Azure Data Factory - Data Integration Service | Microsoft Azure](https://azure.microsoft.com/en-in/products/data-factory/)
+
+[Data Factory](https://azure.microsoft.com/en-in/services/data-factory/) - Hybrid data integration at enterprise scale, made easy
+
+- Azure Data Factory is Azure's cloud ETL service for scale-out serverless data integration and data transformation. It offers a code-free UI for intuitive authoring and single-pane-of-glass monitoring and management. You can also lift and shift existing SSIS packages to Azure and run them with full compatibility in ADF. SSIS Integration Runtime offers a fully managed service, so you don't have to worry about infrastructure management.
+- [Beginner's Guide to Azure Data Factory (Series) | Page 1 of 6 | Cathrine Wilhelmsen](https://www.cathrinewilhelmsen.net/series/beginners-guide-azure-data-factory/)
+
+### Difference between Azure Data Factory and Azure Synapse Analytics
+
+Azure Synapse and Azure Data Factory are both Microsoft cloud-based services for data integration and orchestration, but they have different purposes and use cases:
+
+#### Azure Synapse
+
+An analytics service that's well-suited for large-scale, complex data processing, and big data analytics. It's a platform for managing, preparing, and serving data for machine learning and business intelligence (BI) purposes. Azure Synapse supports unstructured data and allows users to perform analysis with various programming languages, including Python and Spark.
+
+#### Azure Data Factory
+
+A hybrid data integration service that's better for simpler ETL workflows, smaller datasets, and infrequent processing needs. It offers features like real-time integration and parallel processing, and it can integrate different data sources without code. Azure Data Factory is more cost-effective and easier to manage than Azure Synapse.
+
+Here are some other things to consider when choosing between Azure Synapse and Azure Data Factory:
+
+- **Hybrid approach** - Organizations can use Azure Data Factory for orchestration and initial data movement, and then use Azure Synapse for heavy transformations and analytics.
+- **Cost** - Azure Synapse is more expensive than Azure Data Factory, but it may offer long-term savings in operational efficiency.
+- **Serverless architecture** - Azure Data Factory's serverless architecture helps improve data workflow flexibility and efficiency.
 
 ## Blockchain (5)
 

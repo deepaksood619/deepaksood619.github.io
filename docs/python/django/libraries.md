@@ -162,13 +162,17 @@ http://whitenoise.evans.io/en/stable
 ## Tools
 
 - Django-debug-toolbar
+- [GitHub - jazzband/django-silk: Silky smooth profiling for Django](https://github.com/jazzband/django-silk)
 - django-extensions
 - django-import-export
 - django-rest-swagger
 - easy-thumbnails
 - django-simple-history
 - django-adminactions
-- django-model-utils
+- Django-compressor
+- Celery
+
+### django-model-utils
 
 Django model mixins and utilities
 
@@ -176,15 +180,13 @@ https://github.com/jazzband/django-model-utils
 
 https://django-model-utils.readthedocs.io/en/latest/fields.html
 
-- **django-storages**
+### django-storages
 
 https://django-storages.readthedocs.io/en/latest/backends/amazon-S3.html
 
 https://simpleisbetterthancomplex.com/tutorial/2017/08/01/how-to-setup-amazon-s3-in-a-django-project.html
 
-- Django-compressor
-- Celery
-- drf-api-logger
+### drf-api-logger
 
 https://pypi.org/project/drf-api-logger
 

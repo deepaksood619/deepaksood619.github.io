@@ -4,16 +4,6 @@
 
 [social-media-analytics-solution](ai/social-media-analytics-solution.md)
 
-## Tools
-
-- Azure Data Factory (ADF) - [Azure Data Factory - Data Integration Service | Microsoft Azure](https://azure.microsoft.com/en-in/products/data-factory/)
-    - Azure Data Factory is Azure's cloud ETL service for scale-out serverless data integration and data transformation. It offers a code-free UI for intuitive authoring and single-pane-of-glass monitoring and management. You can also lift and shift existing SSIS packages to Azure and run them with full compatibility in ADF. SSIS Integration Runtime offers a fully managed service, so you don't have to worry about infrastructure management.
-    - [Beginner's Guide to Azure Data Factory (Series) | Page 1 of 6 | Cathrine Wilhelmsen](https://www.cathrinewilhelmsen.net/series/beginners-guide-azure-data-factory/)
-- Azure Databricks (ADB)
-- [Azure HDInsight - Hadoop, Spark, and Kafka | Microsoft Azure](https://azure.microsoft.com/en-us/products/hdinsight)
-    - Run popular open-source frameworks—including Apache Hadoop, Spark, Hive, Kafka, and more—using Azure HDInsight, a customizable, enterprise-grade service for open-source analytics. Effortlessly process massive amounts of data and get all the benefits of the broad open-source project ecosystem with the global scale of Azure. Easily migrate your big data workloads and processing to the cloud.
-    - [What is Azure HDInsight | Microsoft Learn](https://learn.microsoft.com/en-us/azure/hdinsight/hdinsight-overview)
-
 ## Commands
 
 ```bash

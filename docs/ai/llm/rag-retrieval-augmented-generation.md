@@ -69,3 +69,4 @@ RIG - Retrieval Interleaved Generation - [DataGemma through RIG and RAG - by Bug
 - [RAG (Retrieval Augmented Generation) - YouTube](https://www.youtube.com/playlist?list=PLQxDHpeGU14Blorx3Ps1eZJ4XvKET1_vx)
 - [Exploring Hacker News by mapping and analyzing 40 million posts and comments for fun | Wilson Lin](https://blog.wilsonl.in/hackerverse/)
 - [Mastering RAG Systems for LLMs](https://go.kolena.com/mastering-rag-systems-for-llms)
+- [Build a real-time RAG chatbot using Google Drive and Sharepoint](https://blog.streamlit.io/build-a-real-time-rag-chatbot-google-drive-sharepoint/)

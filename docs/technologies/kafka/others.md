@@ -11,11 +11,15 @@
 
 ## Storage formats: Serialization and deserialization of events
 
-Events areserializedwhen they are written to a topic anddeserializedwhen they are read. These operations turn binary data into the forms you and I understand, and vice versa. Importantly, these operations are done solely by the Kafkaclients, i.e., producing and consuming applications such as ksqlDB, Kafka Streams, or a microservice using the Go client for Kafka, for example. As such, there is no single "storage format" in Kafka. Common serialization formats used by Kafka clients include Apache Avro™ (with the [Confluent Schema Registry](https://docs.confluent.io/current/schema-registry/index.html)), Protobuf, and JSON.
+Events are serialized when they are written to a topic and deserialized when they are read. These operations turn binary data into the forms you and I understand, and vice versa. Importantly, these operations are done solely by the Kafka clients, i.e., producing and consuming applications such as ksqlDB, Kafka Streams, or a microservice using the Go client for Kafka, for example. As such, there is no single "storage format" in Kafka. Common serialization formats used by Kafka clients include Apache Avro™ (with the [Confluent Schema Registry](https://docs.confluent.io/current/schema-registry/index.html)), Protobuf, and JSON.
 
 Kafka brokers, on the other hand, are agnostic to the serialization format or "type" of a stored event. All they see is a pair of raw bytes for event key and event value coming in when being written, and going out when being read. Brokers thus have no idea what's in the data they serve - it's a black box to them. Being this "dumb" is actually pretty smart, because this design decision allows brokers to scale much better than traditional messaging systems.
 
 https://www.confluent.io/blog/avro-kafka-data
+
+[KIP-405: Kafka Tiered Storage - Apache Kafka - Apache Software Foundation](https://cwiki.apache.org/confluence/display/KAFKA/KIP-405%3A+Kafka+Tiered+Storage)
+
+[KIP-405: Kafka Tiered Storage](https://2minutestreaming.beehiiv.com/p/apache-kafka-kip-405-tiered-storage)
 
 ## Data contracts, schema on read, and schema on write
 

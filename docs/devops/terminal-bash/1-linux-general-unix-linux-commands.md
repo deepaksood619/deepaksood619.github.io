@@ -73,6 +73,53 @@ ssh config (man ssh_config - OpenSSH SSH client configuration files)
     For using LocalForward ssh - ssh -f -N dev
 ```
 
+### Having different ssh keys for different github accounts
+
+```bash
+ssh-keygen -t ecdsa -b 521 -C "deepaksood619@gmail.com"
+
+ssh-keygen -t rsa -b 4096 -C "personal_email@example.com" -f ~/.ssh/id_rsa_personal
+
+ssh-keygen -t rsa -b 4096 -C "work_email@example.com" -f ~/.ssh/id_rsa_work
+
+vim ~/.ssh/config
+```
+
+```text title="~/.ssh/config"
+# Default SSH key
+Host github.com
+    User git
+    IdentityFile ~/.ssh/id_rsa
+
+# Personal GitHub account
+Host github-personal
+    HostName github.com
+    User git
+    IdentityFile ~/.ssh/id_rsa_personal
+
+# Work GitHub account
+Host github-work
+    HostName github.com
+    User git
+    IdentityFile ~/.ssh/id_rsa_work
+```
+
+```bash
+# test the ssh connection
+ssh -T git@github.com
+ssh -T git@github-personal
+ssh -T git@github-work
+```
+
+```bash
+# These will use the specified keys for the respective aliases.
+git clone git@github.com:username/repository.git
+git clone git@github-personal:username/repository.git
+git clone git@github-work:username/repository.git
+```
+
+[ChatGPT - Git SSH Key Setup](https://chatgpt.com/share/674227b5-5480-8008-a0cc-f7b0b5af143a)
+
 ### SSH Agent Forwarding
 
 It allows you to use your local SSH keys instead of leaving keys (without passphrases!) sitting on your server.

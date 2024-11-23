@@ -1,9 +1,15 @@
 # Optimizations
 
+## Caching
+
+[Django Caching 101: Understanding the Basics and Beyond - DEV Community](https://dev.to/pragativerma18/django-caching-101-understanding-the-basics-and-beyond-49p)
+
+[10 Tips to Optimize PostgreSQL Queries in Your Django Project](https://blog.gitguardian.com/10-tips-to-optimize-postgresql-queries-in-your-django-project/)
+
 ## Best Practices for Querysets
 
 ### 1. Fetch Only What You Need
-    
+
 - Use `only()` to retrieve specific fields you need.
 - Use `defer()` to exclude fields that you don’t need immediately.
 
@@ -19,7 +25,7 @@ users = User.objects.only('name', 'email')
 
 ```python
 # Example with select_related
-books = Book.objects.select_related('author')  
+books = Book.objects.select_related('author')
 
 # Example with prefetch_related
 authors = Author.objects.prefetch_related('books')
@@ -69,7 +75,6 @@ books = Book.objects.select_related('author')
 for book in books:
     print(book.author.name)
 ```
-
 
 ---
 
