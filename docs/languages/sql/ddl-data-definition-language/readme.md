@@ -33,6 +33,8 @@ CREATE INDEX
   CREATE UNIQUE INDEX index_name
   ON table_name(index_column_1,index_column_2,...);
 
+CREATE INDEX test_idx ON table_name (column_name);
+
  ALTER TABLE `installment_fip` ADD INDEX `installment_fip_idx_inst_custom_is_del_inst_inst` (`inst_number`,`customer_facing`,`is_delete`,`inst_status`,`inst_date`);
  ALTER TABLE `installment_fip` ADD INDEX `installment_fip_idx_inst_custom_is_del_inst_emi_id` (`inst_number`,`customer_facing`,`is_delete`,`inst_status`,`emi_status_id`);
  ALTER TABLE `st_comment` ADD INDEX `st_comment_idx_status_status_loan_id_id` (`status_type_id`,`status_id`,`loan_id`,`id`);

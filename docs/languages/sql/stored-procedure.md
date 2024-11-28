@@ -7,35 +7,27 @@ Uses for stored procedures include [data-validation](https://en.wikipedia.org/wi
 Stored procedures may return [result sets](https://en.wikipedia.org/wiki/Result_set), i.e., the results of aSELECTstatement. Such result sets can be processed using [cursors](https://en.wikipedia.org/wiki/Cursor_(databases)), by other stored procedures, by associating a result-set locator, or by applications. Stored procedures may also contain declared variables for processing data and cursors that allow it to loop through multiple rows in a table. Stored-procedure flow-control statements typically includeIF,WHILE,LOOP,REPEAT, andCASEstatements, and more. Stored procedures can receive variables, return results or modify variables and return them, depending on how and where the variable is declared.
 
 ```sql
-CREATE PROCEDURE *procedure_name*
+CREATE PROCEDURE procedure_name
 AS
-*sql_statement*
+sql_statement
 GO;
 
-EXEC *procedure_name*;
+EXEC procedure_name;
 ```
 
 ## Advantages of using stored procedures
 
-- A stored procedure allows modular programming.
-    You can create the procedure once, store it in the database, and call it any number of times in your program.
-- A stored procedure allows faster execution.
-    If the operation requires a large amount of SQL code that is performed repetitively, stored procedures can be faster. They are parsed and optimized when they are first executed, and a compiled version of the stored procedure remains in a memory cache for later use. This means the stored procedure does not need to be reparsed and reoptimized with each use, resulting in much faster execution times.
-- A stored procedure can reduce network traffic.
-    An operation requiring hundreds of lines of Transact-SQL code can be performed through a single statement that executes the code in a procedure, rather than by sending hundreds of lines of code over the network.
-- Stored procedures provide better security to your data
-    Users can be granted permission to execute a stored procedure even if they do not have permission to execute the procedure's statements directly.
-    In SQL Server we have different types of stored procedures:
-    - System stored procedures
-    - User-defined stored procedures
-    - Extended stored Procedures
+- **A stored procedure allows modular programming -** You can create the procedure once, store it in the database, and call it any number of times in your program.
+- **A stored procedure allows faster execution -** If the operation requires a large amount of SQL code that is performed repetitively, stored procedures can be faster. They are parsed and optimized when they are first executed, and a compiled version of the stored procedure remains in a memory cache for later use. This means the stored procedure does not need to be reparsed and reoptimized with each use, resulting in much faster execution times.
+- **A stored procedure can reduce network traffic -** An operation requiring hundreds of lines of Transact-SQL code can be performed through a single statement that executes the code in a procedure, rather than by sending hundreds of lines of code over the network.
+- **Stored procedures provide better security to your data -** Users can be granted permission to execute a stored procedure even if they do not have permission to execute the procedure's statements directly.
 
 ## Types of stored procedures
 
 - **System-stored procedures** are stored in the master database and these start with asp_prefix. These procedures can be used to perform a variety of tasks to support SQL Server functions for external application calls in the system tables
-    Example: sp_helptext [StoredProcedure_Name]
-- **User-definedstored procedures** are usually stored in a user database and are typically designed to complete the tasks in the user database. While coding these proceduresdon't usethesp_prefix because if we use thesp_prefix first, it will check the master database, and then it comes to user defined database.
-- **Extendedstored procedures** are the procedures that call functions from DLL files. Nowadays, extended stored procedures are deprecated for the reason it would be better to avoid using extended stored procedures.
+	- Example: sp_helptext [StoredProcedure_Name]
+- **User-defined stored procedures** are usually stored in a user database and are typically designed to complete the tasks in the user database. While coding these procedures don't use the `sp_prefix` because if we use the `sp_prefix` first, it will check the master database, and then it comes to user defined database.
+- **Extended stored procedures** are the procedures that call functions from DLL files. Nowadays, extended stored procedures are deprecated for the reason it would be better to avoid using extended stored procedures.
 
 https://en.wikipedia.org/wiki/Stored_procedure
 
@@ -85,3 +77,39 @@ https://www.mysqltutorial.org/mysql-error-handling-in-stored-procedures
 ## Access
 
 ForMySQL 8, connect your database viaWorkbench, go toAdministration -> User and Privileges, and select the user account you want to modify, then switch to "Administrative Roles", tick "SELECT" on right panel (Global Privileges), Click 'Apply' and done.
+
+## Queries
+
+### Creating a Stored Procedure
+
+```sql
+DELIMITER $$
+
+CREATE PROCEDURE DeleteUsersLogInBatches()
+BEGIN
+    DECLARE batch_size INT DEFAULT 100000; -- Number of rows to delete in each batch
+    DECLARE start_id INT DEFAULT 0; -- Starting ID for the first batch
+    DECLARE end_id INT DEFAULT 14900000; -- Target maximum ID for deletion
+
+    -- Loop to delete data in batches
+    WHILE start_id < end_id DO
+        -- Delete rows in the current batch
+        DELETE FROM users_log
+        WHERE id BETWEEN start_id AND start_id + batch_size - 1;
+
+        -- Update the start_id for the next batch
+        SET start_id = start_id + batch_size;
+    END WHILE;
+END$$
+
+DELIMITER ;
+```
+
+### Calling a Stored Procedure
+
+```sql
+call DeleteUsersLogInBatches();
+
+-- drop stored procedure
+drop procedure DeleteUsersLogInBatches;
+```

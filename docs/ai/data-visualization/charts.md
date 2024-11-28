@@ -18,11 +18,13 @@
 14. Pheno plot
 15. Cladogram - https://en.wikipedia.org/wiki/Cladogram
 16. Flame Graphs
-
-    - Icicle graph
-    - Flame Charts
-     - [Miha Rekar - What Are Flame Graphs and How to Read Them, RubyConfBY 2017](https://www.youtube.com/watch?v=6uKZXIwd6M0)
-     - [USENIX ATC '17: Visualizing Performance with Flame Graphs](https://www.youtube.com/watch?v=D53T1Ejig1Q)
+	- Icicle graph
+	- Flame Charts
+	- [Miha Rekar - What Are Flame Graphs and How to Read Them, RubyConfBY 2017](https://www.youtube.com/watch?v=6uKZXIwd6M0)
+	- [USENIX ATC '17: Visualizing Performance with Flame Graphs](https://www.youtube.com/watch?v=D53T1Ejig1Q)
+	- Django
+		- [GitHub - jjnanthakumar/django-flames: This is simple site created in Django framework.. If any issues ping me.](https://github.com/jjnanthakumar/django-flames)
+		- [GitHub - blopker/djdt-flamegraph: Flamegraphs for Django Debug Toolbar](https://github.com/blopker/djdt-flamegraph)
 
 17. Sparklines
 

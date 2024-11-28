@@ -88,9 +88,7 @@ When a new key collides, find next empty slot, and put it there
 ## Optimization
 
 1. Create a bigger hash table when older hash table gets full and rehash all old values to new hash table
-2. Can use Consistent Hashing Functions -
-
-Consistent Hashing is a special kind of hashing such that when a hash table is resized, only K/n keys need to be remapped on average, where K is the number of the keys, and n is the number of slots. In contrast, in most traditional hash tables, a change in the number of array slots causes nearly all keys to be remapped because the mapping between the keys and slots are defined by a modular operation.
+2. Can use Consistent Hashing Functions
 
 ## Hash Table Context
 

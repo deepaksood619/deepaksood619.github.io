@@ -8,7 +8,11 @@
 - Analyze MongoDB query profiler
 - Collect vital system information when problems occur
 
-`brew install percona-toolkit`
+```bash
+sudo apt-get install percona-toolkit
+
+brew install percona-toolkit
+```
 
 - [pt-align](https://www.percona.com/doc/percona-toolkit/LATEST/pt-align.html)
 - [pt-archiver](https://www.percona.com/doc/percona-toolkit/LATEST/pt-archiver.html)
@@ -55,7 +59,7 @@ pt-mysql-summary --host localhost --user root --ask-pass > mysql-summary.txt
 
 pt-mysql-summary --host sttash-main-db-instance-new-cluster.cluster-ro-c1z93jsyca9u.ap-south-1.rds.amazonaws.com --user lms-website --password Rf9zdHwB9E3GHWKq2yZM > mysql-summary.txt- [pt-online-schema-change](https://www.percona.com/doc/percona-toolkit/LATEST/pt-online-schema-change.html)
 
-pt-online-schema-change --host dailydb.snapshot.example.com --user deepak_sood --password 72062eacf89016e8c2bb4fe9c4457b90 --alter='ENGINE=InnoDB' D=sttash_website_LIVE, t=elev8_offer_tmp --preserve-triggers --dry-run
+pt-online-schema-change --host dailydb.snapshot.example.com --user user_abc --password xyzabc123 --alter='ENGINE=InnoDB' D=db_name, t=table_name --preserve-triggers --dry-run
 ```
 
 Works by creating an empty copy of the table to alter, modifying it as desired, and then copying rows from the original table into the new table. When the copy is complete, it moves away the original table and replaces it with the new one. By default, it also drops the original table.

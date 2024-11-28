@@ -8,3 +8,4 @@
 - [Testing](languages/golang/testing.md)
 - [Tools](languages/golang/tools.md)
 - [Examples](languages/golang/examples.md)
+- [Interview Questions](languages/golang/interview-questions.md)

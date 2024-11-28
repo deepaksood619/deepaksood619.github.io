@@ -107,6 +107,8 @@ The **impossible trinity** (also known as **the impossible [trilemma](https://en
 
 [As India’s red hot economy set to be world no. 3, reality check on how it stacks up with China, US - YouTube](https://www.youtube.com/watch?v=BYp1HnYUiAo)
 
+[Seeking wisdom in the Indian Stock Markets | SOIC](https://soic.in/blog-description/top-10-learnings-for-october)
+
 ## Tools
 
 [The Atlas of Economic Complexity](https://atlas.cid.harvard.edu/)

@@ -26,11 +26,11 @@ end
 
 ## Bundler
 
-Bundler installs the gems in yourGemfile. It's not a requirement for you to use aGemfileandbundlerhowever it's highly recommended as it ensures you're running the same version of Jekyll and Jekyll plugins across different environments.
+Bundler installs the gems in your Gemfile. It's not a requirement for you to use a Gemfile and bundler however it's highly recommended as it ensures you're running the same version of Jekyll and Jekyll plugins across different environments.
 
 gem install bundler installs [Bundler](https://rubygems.org/gems/bundler). You only need to install it once - not every time you create a new Jekyll project. Here are some additional details:
 
-If you're using aGemfileyou would first runbundle installto install the gems, thenbundle exec jekyll serveto build your site. This guarantees you're using the gem versions set in theGemfile. If you're not using a Gemfile you can just run jekyll serve.
+If you're using a Gemfile you would first run `bundle install` to install the gems, then `bundle exec jekyll serve` to build your site. This guarantees you're using the gem versions set in the Gemfile. If you're not using a Gemfile you can just run jekyll serve.
 
 ```bash
 # https://jekyllrb.com/tutorials/using-jekyll-with-bundler/

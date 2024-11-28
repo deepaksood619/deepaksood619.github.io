@@ -1,5 +1,13 @@
 # React Native
 
+## Expo
+
+Expo is a production-grade React Native Framework. Expo provides developer tooling that makes developing apps easier, such as file-based routing, a standard library of native modules, and much more.
+
+[Get Started with React Native · React Native](https://reactnative.dev/docs/environment-setup)
+
+[Create your first app - Expo Documentation](https://docs.expo.dev/tutorial/create-your-first-app/)
+
 ## Interaction Manager
 
 TheInteractionManageris the native module responsible for deferring the execution of a function until an "interaction" has finished. We can `callInteractionManager.runAfterInteractions(() => {...})` to handle this deferral. We can also register our own interactions.

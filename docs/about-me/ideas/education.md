@@ -135,6 +135,7 @@ Highly personalized education for each person
 - [Meet Khanmigo, Khan Academy's AI-powered teaching assistant & tutor](https://www.khanmigo.ai/)
 - [Khan Academy | Free Online Courses, Lessons & Practice](https://www.khanacademy.org/)
 - Youtube Learning (Experimental)
+- [Sakshm AI](https://sakshm.com/)
 
 ## Free Education with Boarding (Coaching)
 

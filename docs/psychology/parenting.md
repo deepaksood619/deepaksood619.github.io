@@ -293,3 +293,6 @@ Why kicking out children after 18 years is important, let's say you are very wea
 - [How to Relieve Baby and Toddler Constipation](https://www.whattoexpect.com/childrens-health-and-safety/baby-and-toddler-constipation.aspx)
 - [Toddler Screaming](https://www.whattoexpect.com/toddler/behavior/screaming-and-screeching.aspx)
 - [Can Babies Sleep With a Pillow?](https://www.whattoexpect.com/first-year/ask-heidi/pillow-for-baby.aspx)
+- [19-Month-Old Child](https://www.whattoexpect.com/toddler/19-month-old.aspx)
+- [12 Tricks to Get Your Toddler to Take Medicine](https://www.whattoexpect.com/toddler-health/get-toddler-to-take-medicine.aspx)
+- [Ways to manage your toddler's screen time | BabyCentre](https://www.babycentre.co.uk/a556933/ways-to-manage-your-toddlers-screen-time)

@@ -2,6 +2,12 @@
 
 Web Scraping is a technique in which a computer program extracts data from human-readable output coming from websites.
 
+### Download full website
+
+`wget --mirror --convert-links --adjust-extension --page-requisites --no-parent http://example.org`
+
+[Website Copier | Download Sites | Website Ripper - Tools Bug](https://www.toolsbug.com/website-copier-online.php)
+
 ### lxml.etree
 
 theXPath - language for XML queries

@@ -72,7 +72,7 @@ from itertools import permutations
 len(list(permutations('abcde', 5)))
 ```
 
-## Others
+## Others - Online links
 
 - https://www.geeksforgeeks.org/split-the-given-array-into-k-sub-arrays-such-that-maximum-sum-of-all-sub-arrays-is-minimum
 - [Design LRU Cache - GeeksforGeeks](https://www.geeksforgeeks.org/design-a-data-structure-for-lru-cache/) - (good, medium difficulty, doubly linkedin list + hashmap)
@@ -95,6 +95,8 @@ len(list(permutations('abcde', 5)))
 - Medium - https://www.hackerrank.com/challenges/beautiful-triplets/problem
 - Medium - https://www.hackerrank.com/challenges/kaprekar-numbers/problem - https://practice.geeksforgeeks.org/problems/coin-change2448/1
 - Medium - [Climbing the Leaderboard | HackerRank](https://www.hackerrank.com/challenges/climbing-the-leaderboard/problem?isFullScreen=true)
+- Easy - String - All languages available - [Two Strings | HackerRank](https://www.hackerrank.com/challenges/two-strings/problem?isFullScreen=true)
+- Good - Easy - String - Palindrome - [The Love-Letter Mystery | HackerRank](https://www.hackerrank.com/challenges/the-love-letter-mystery/problem?isFullScreen=true)
 
 ## Sources
 

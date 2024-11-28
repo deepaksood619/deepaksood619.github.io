@@ -62,3 +62,7 @@ The KafkaProducer can be used across threads without issue, unlike the KafkaCons
 - https://github.com/edenhill/kafkacat
 - https://github.com/edenhill/librdkafka/blob/master/CONFIGURATION
 - https://towardsdatascience.com/3-libraries-you-should-know-to-master-apache-kafka-in-python-c95fdf8700f2
+
+## Other Kafka Clients
+
+[Java Client for Apache Kafka | Confluent Documentation](https://docs.confluent.io/kafka-clients/java/current/overview.html)

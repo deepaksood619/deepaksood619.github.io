@@ -26,6 +26,10 @@ I was responsible of creating a product and infrastructure around it to help sav
 
 ## Activities
 
+### Data Structures for Interview - UnsaidTalks (30 November 2024)
+
+
+
 ### Meetup Talk - Real-Time Data Warehousing Solution with AWS and Confluent Cloud - OpsTree Solutions (23 November 2024)
 
 - Presentation - [Real-Time Data Warehousing Solution with AWS and Confluent Cloud ​](https://docs.google.com/presentation/d/118S2du_m7mJ2WFsbwtmFuLz6NApfblv-FmbBE3XQ6PU/edit?usp=sharing)

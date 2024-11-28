@@ -2,6 +2,8 @@
 
 [Online SQL Playground with Data | W3 Schools](https://www.w3schools.com/sql/trysql.asp?filename=trysql_editor)
 
+- Alter table drop index in mysql locks the table, run it off-hours
+
 ### See size of table for all schemas - MySQL
 
 ```sql

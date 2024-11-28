@@ -278,3 +278,4 @@ https://towardsdatascience.com/how-to-build-a-real-time-fraud-detection-pipeline
 - [It's All About AI • Martin Förtsch, Thomas Endres & Jonas Mayer • YOW! 2022 - YouTube](https://www.youtube.com/watch?v=krihq4iSaO0)
 - [The State of Competitive Machine Learning | ML Contests](https://mlcontests.com/state-of-competitive-machine-learning-2023/)
 - [Deep-ML](https://www.deep-ml.com/)
+- [Big Data Engineer Mock Interview | AWS | Kafka Streaming | SQL | PySpark Optimization #interview - YouTube](https://www.youtube.com/watch?v=t3_ZzPoJx_Y&ab_channel=SumitMittal)

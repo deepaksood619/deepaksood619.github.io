@@ -241,6 +241,11 @@ Here are 30 websites to find remote jobs that pay in USD:
 - https://relevel.com
 - jain.arunabh@nirvanaerecycling.com
 - **Salaries -** [https://www.levels.fyi/#](https://www.levels.fyi/)
+- DevOps and Cloud Architect Salary
+	- $15/hr full-time in Bangalore
+	- $60/hr full-time in Singapore
+	- $75/hr as an Independent Consultant for a US startup from my home
+	- $150/hr representing my own company for enterprises from my small indian town
 
 ### How to apply
 

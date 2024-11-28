@@ -133,3 +133,30 @@
 | Plus - Tier - 2                                  | 1             |               |
 
 ![image](../../media/HR-M-Interviews-Resume-Keywords-Pointers-image1.png)
+
+## Resume Builders / Helpers
+
+Ats Resume, Remote jobs - [https://lnkd.in/g7JewuEj](https://lnkd.in/g7JewuEj)  
+
+𝗧𝗵𝗲𝘀𝗲 𝟳 𝗦𝗶𝘁𝗲𝘀 𝗰𝗮𝗻 𝗺𝗮𝗸𝗲 𝘆𝗼𝘂𝗿 𝗥𝗲𝘀𝘂𝗺𝗲 𝗶𝗻 𝟮𝗺𝗶𝗻𝘀.
+
+1. 𝐎𝐯𝐞𝐫𝐥𝐞𝐚𝐟-𝐂𝐫𝐞𝐚𝐭𝐢𝐯𝐞 𝐓𝐞𝐦𝐩𝐥𝐚𝐭𝐞𝐬: [https://lnkd.in/gPdZSRMX](https://lnkd.in/gPdZSRMX)  -Overleaf rocks with free, amazing templates for a clean, professional look. 
+2. 𝐙𝐞𝐭𝐲 - 𝐂𝐫𝐚𝐟𝐭 𝐘𝐨𝐮𝐫 𝐒𝐭𝐨𝐫𝐲: [https://zety.com/](https://zety.com/)  -18 sleek templates for a professional look. - Zety: Resume Builder & Career Website
+3. 𝐅𝐢𝐱𝐌𝐲𝐑𝐞𝐬𝐮𝐦𝐞-𝐅𝐢𝐱 𝐲𝐨𝐮𝐫 𝐫𝐞𝐬𝐮𝐦𝐞 𝐮𝐬𝐢𝐧𝐠 𝐀𝐥: [https://lnkd.in/gwbgqJb3](https://lnkd.in/gwbgqJb3)  -Find out if your resume fits the job you're applying for. 
+4. 𝐑𝐞𝐬𝐮𝐦𝐞𝐇𝐞𝐥𝐩𝐞𝐫 𝐛𝐲 𝐌𝐲𝐬𝐡𝐞𝐥𝐥: [https://lnkd.in/g26iEQBn](https://lnkd.in/g26iEQBn)  -Create your FREE resume in a snap with commands.  
+5. 𝐆𝐨𝐭 𝐑𝐞𝐬𝐮𝐦𝐞 𝐁𝐮𝐢𝐥𝐝𝐞𝐫-𝐖𝐞𝐛 𝐖𝐢𝐳𝐚𝐫𝐝: [https://lnkd.in/gdnyE5gr](https://lnkd.in/gdnyE5gr)  -Craft a pro resume for free with tips to beat the ATS!
+6. 𝐀𝐩𝐩𝐥𝐲𝐢𝐬𝐡-𝐂𝐨𝐦𝐩𝐥𝐞𝐭𝐞 𝐣𝐨𝐛 𝐚𝐩𝐩𝐥𝐢𝐜𝐚𝐭𝐢𝐨𝐧 𝐟𝐨𝐫𝐦𝐬 𝐟𝐚𝐬𝐭𝐞𝐫:  [https://applyish.com/](https://applyish.com/)   -Say goodbye to draining job questions and hello to effortless job form completion.  
+7. 𝐑𝐞𝐬𝐮𝐦𝐞 𝐆𝐞𝐧𝐢𝐮𝐬 - 𝐘𝐨𝐮𝐫 𝐑𝐞𝐬𝐮𝐦𝐞 𝐁𝐮𝐝𝐝𝐲: [https://lnkd.in/gAnjJyC6](https://lnkd.in/gAnjJyC6)   -240+ free templates for a rockstar resume.  
+
+𝗨𝘀𝗲 𝘁𝗵𝗲𝘀𝗲 𝟭𝟬 𝗔𝗜 𝗧𝗼𝗼𝗹𝘀 𝘁𝗼 𝗴𝗲𝘁 𝗮 𝗿𝗲𝗺𝗼𝘁𝗲 𝗷𝗼𝗯 𝗨𝘀𝗶𝗻𝗴 𝗴𝗼𝗼𝗱 𝗥𝗲𝘀𝘂𝗺𝗲  
+  
+1. [1] Al Resume Builder - [http://kickresum.com](http://kickresum.com/)  
+2. [2] ATS resume checker - [http://Jobscan.co](http://jobscan.co/)  
+3. [3] Mock interview with Al - [http://interviewai.me](http://interviewai.me/)  
+4. [4] Optimize your resume - [http://Gixmyresume.xyz](http://gixmyresume.xyz/)  
+5. [5] LinkedIn outreach - [http://Lemonrecruiter.com](http://lemonrecruiter.com/)  
+6. [6] Job search - [http://Matchthatroleai.com](http://matchthatroleai.com/)  
+7. [7] Apply automatically - [http://Applyish.com](http://applyish.com/)  
+8. [8] Al Interviews - [http://Rhetorai.com](http://rhetorai.com/)  
+9. [9] Extract Resumes - [http://Hirelake.ai](http://hirelake.ai/)  
+10. [10] Interview questions - [http://Interviewgpt.ai](http://interviewgpt.ai/)

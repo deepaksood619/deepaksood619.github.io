@@ -918,6 +918,9 @@ Ctrl+a d
 # To resume your screen session
 screen -r
 
+# To attach to specific session
+screen -r session_name
+
 # list the current running screen sessions
 screen -ls
 

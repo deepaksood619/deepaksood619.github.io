@@ -22,3 +22,4 @@
 - ThemeForest - [WordPress Themes & Website Templates from ThemeForest](https://themeforest.net)
 - [Free Website Templates](https://freewebsitetemplates.com/)
 - [Website Templates | 800+ Free Website Templates | Wix.com](https://www.wix.com/website/templates)
+- [Web3Templates — Website Templates & Landing Pages](https://web3templates.com/)

@@ -97,9 +97,7 @@ nvm cache clear
 nvm uninstall 18
 ```
 
-## Others
-
-### Yarn package manager
+## Yarn package manager
 
 Fast, reliable, and secure dependency management
 
@@ -119,15 +117,30 @@ yarn build # build a production ready deployment
 yarn outdated
 ```
 
-### pnpm
+## pnpm
 
 Fast, disk space efficient package manager
 
-https://pnpm.io
+- https://pnpm.io
+- https://github.com/pnpm/pnpm
 
-https://github.com/pnpm/pnpm
+### Commands
 
-### pnpx (npx for pnpm)
+```bash
+brew install pnpm
+
+# Install Dependencies
+pnpm install
+
+# Start development Server
+pnpm dev
+
+# Preview & Build
+pnpm preview
+pnpm build
+```
+
+## pnpx (npx for pnpm)
 
 https://pnpm.io/pnpx-cli
 

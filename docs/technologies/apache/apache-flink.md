@@ -55,6 +55,8 @@ Streaming dataflow engine for Java
 
 - pyflink
 	- [PyFlink Docs — pyflink-docs version master](https://pyflink.readthedocs.io/en/main/index.html)
+	- [List: Pyflink Kafka Getting Started - Table API, UDFs and more | Curated by Diptiman Raichaudhuri | Medium](https://diptimanrc.medium.com/list/pyflink-kafka-getting-started-table-api-udfs-and-more-ff5bf8d9d41a)
+	- [kafka\_flink\_getting\_started/06\_kafka\_pyflink\_tableapi\_tumbling\_window.py at master · diptimanr/kafka\_flink\_getting\_started · GitHub](https://github.com/diptimanr/kafka_flink_getting_started/blob/master/06_kafka_pyflink_tableapi_tumbling_window.py)
 - https://dzone.com/articles/introduction-to-streaming-etl-with-apache-flink
 - https://flink.apache.org/flink-architecture.html
 - [CDC Stream Processing with Apache Flink](https://youtu.be/K2ibvfmFh8Y?si=_K1jRSc0ez7Ntw9y)

@@ -65,7 +65,7 @@ Presentation should be 30 mins long with 10-15 slides. I am aiming for a script 
 
 ChatGPT, could you aid me in crafting a compelling proposal presentation script for a project centered around integrating AI customer service solutions for Client's Name? I am aiming for a script that is persuasive, highlighting the advantages of our proposed solutions distinctively.
 
-#### Prompt 3
+#### Ultimate Presentation Prompt
 
 Create a presentation using below details
 
@@ -74,6 +74,7 @@ Create a presentation using below details
     1. Introduction to GenAI
     2. Introduction to RAG
     3. Understanding RAG Fundamentals (Core Components)
+- Number of slides - 10-12
 - Target audience - Tech professionals and developers in the software industry
 - Target audience description - The audience consists of individuals interested in AI technology and software development.
 - Target audience expertise level - Intermediate to advanced level in AI and software development
@@ -91,6 +92,12 @@ Create a presentation using below details
     - Medium - Concise length suited for simple explanations
     - Large - Detailed paragraphs - ideal for standalone presentations
 - Create speaker notes that can help explain more about the slide to the audience
+
+Only create the slides till agenda, then we will start creating slides step by step
+
+https://chatgpt.com/share/674780e9-c504-8005-a023-b7aa945329d4
+
+### Prompting Guide
 
 ![ChatGPT Ultimate Prompting Guide](../../media/chatgpt-promt-engineering.png)
 
