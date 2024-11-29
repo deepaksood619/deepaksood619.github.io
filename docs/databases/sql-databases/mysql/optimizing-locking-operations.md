@@ -85,6 +85,12 @@ DELETE FROM orders WHERE order_id < 100;
 
 Here, InnoDB locks the gaps between existing rows where `order_id` is less than 100 to prevent new rows from being inserted into these gaps, which would affect the results of this `DELETE` operation.
 
+Therefore it's better to use between for `DELETE` to make operation non-locking
+
+```sql
+DELETE FROM orders WHERE order_id betwen 0 and 100;
+```
+
 ### Index Locks
 
 InnoDB locks the index entries for the rows being deleted. This prevents other transactions from modifying the indexes until the transaction is complete.

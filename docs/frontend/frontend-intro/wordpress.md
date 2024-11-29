@@ -8,6 +8,46 @@ https://www.advancedcustomfields.com
 
 [Overview of WordPress (Beginners Guide 2020)](https://www.youtube.com/watch?v=jmqu4HC3zmo)
 
+## Biggest Wordpress Users
+
+- WordPress.com
+- IBM Jobs
+- Microsoft News
+- Facebook Newsroom
+- Mercedes-Benz
+- BBC America
+- Forbes Blogs
+- Time Magazine
+- CNN Press Room
+- Quartz
+- The White House
+- Usain Bolt
+- Katty Perry
+- Brian Smith
+- Boing Boing
+- The Bloggess
+- FiveThirtyEight
+- The Herald Sun
+- Flickr Blog
+- TechCrunch
+- Sony Music
+- Bata
+- Bloomberg Professional
+- Yelp Blog
+- The New York Observer
+- PlayStation Blog
+- Rolling Stones
+- Spotify Newsroom
+- Disney Books
+- Etsy Journal
+- TED Blog
+
+[30+ Examples of Biggest Companies Using WordPress - weDevs](https://wedevs.com/blog/103311/top-brands-using-wordpress/)
+
+[Largest user base you have served? : r/Wordpress](https://www.reddit.com/r/Wordpress/comments/1dyshjs/largest_user_base_you_have_served/?rdt=42578)
+
+[40+ Most Notable Big Name Brands that are Using WordPress](https://www.wpbeginner.com/showcase/40-most-notable-big-name-brands-that-are-using-wordpress/)
+
 ## wp-admin
 
 [WordPress Admin Dashboard Tutorial 2020 - Step By Step For Beginners In WP-ADMIN!](https://www.youtube.com/watch?v=Ov_zUmMyJnQ)

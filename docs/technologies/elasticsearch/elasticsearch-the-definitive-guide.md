@@ -30,7 +30,7 @@ A distributed real-time document store whereevery fieldis indexed and searchable
     - Support for more than one index.
     - Index level configuration (number of shards, index storage, ...).
 - Various set of APIs
-    - HTTPRESTfulAPI
+    - HTTP RESTful API
     - Native JavaAPI.
     - All APIs perform automatic node operation rerouting.
 - Document oriented
@@ -63,110 +63,71 @@ A distributed real-time document store whereevery fieldis indexed and searchable
 
 ## Contents
 
-1. **Getting Started**
+### 1. Getting Started
 
    - You Know, for Search
-
    - Life Inside a Cluster
-
    - Data In, Data Out
-
    - Distributed Document Store
-
    - Searching - The Basic Tools
-
    - Mapping and Analysis
-
    - Full-Body Search
-
    - Sorting and Relevance
-
    - Distributed Search Execution
-
    - Index Management
-
    - Inside a Shard
 
-2. **Search in Depth**
+### 2. Search in Depth
 
    - Structured Search
-
    - Full-Text Search
-
    - Multifield Search
-
    - Proximity Matching
-
    - Partial Matching
-
    - Controlling Relevance
 
-3. **Dealing with Human Language**
+### 3. Dealing with Human Language
 
    - Getting Started with Languages
-
    - Indentifying Words
-
    - Normalizing Tokens
-
    - Reducing Words to Their Root Form
-
    - Stopwords: Performance Versus Precision
-
    - Synonyms
-
    - Typoes and Mispelings
 
-4. **Aggregations**
+### 4. Aggregations
 
    - High-Level Concepts
-
    - Aggregation Test-Drive
-
    - Building Bar Charts
-
    - Looking at Time
-
    - Scoping Aggregations
-
    - Sorting Queries and Aggregations
-
    - Sorting Multivalue Buckets
-
    - Approximate Aggregations
-
    - Significant Terms
-
    - Doc Values and Fielddata
-
    - Closing Thoughts
 
-5. **Geolocation**
+### 5. Geolocation
 
    - Geo Points
-
    - Geohashes
-
    - Geo Aggregations
-
    - Goe Shapes
 
-6. **Modeling Your Data**
+### 6. Modeling Your Data
 
    - Handling Relationships
-
    - Nested Objects
-
    - Parent-Child Relationship
-
    - Designing for Scale
 
-7. **Administration, Monitoring, and Deployment**
+### 7. Administration, Monitoring, and Deployment
 
    - Monitoring
-
    - Production Deployment
-
    - Post-Deployment
 
 ## References

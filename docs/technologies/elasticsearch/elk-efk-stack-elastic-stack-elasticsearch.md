@@ -6,23 +6,17 @@
 
 ## Elasticsearch
 
-Elasticsearch is a search and analytics engine.
-
-Elasticsearch is a NoSQL database that is based on the Lucene search engine.
-
-Elasticsearch uses Apache Lucene to index documents for fast searching.
+- Elasticsearch is a search and analytics engine.
+- Elasticsearch is a NoSQL database that is based on the Lucene search engine.
+- Elasticsearch uses Apache Lucene to index documents for fast searching.
 
 ## Solr, ElasticSearch
 
-Search platform
-
-Highly available
-
-Very scalable
-
-Fault tolerant search platform
-
-Provides full-text search
+- Search platform
+- Highly available
+- Very scalable
+- Fault tolerant search platform
+- Provides full-text search
 
 ## Logstash
 

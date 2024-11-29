@@ -1,51 +1,51 @@
 # Analysis and Analyzers
 
-Analysisis aprocess that consists of the following:
+Analysis is a process that consists of the following:
 
 - First, tokenizing a block of text into individualtermssuitable for use in an inverted index,
 - Then normalizing these terms into a standard form to improve their "searchability," orrecall
 
-This job isperformed by analyzers. Ananalyzeris really just a wrapper that combines three functions into asingle package:
+This job is performed by analyzers. Ananalyzer is really just a wrapper that combines three functions into a single package:
 
 ## Character filters
 
-First, the string is passed through anycharacter filtersin turn. Their job is to tidy up the string before tokenization. A character filter could be used to strip out HTML, or to convert&characters to the wordand.
+First, the string is passed through any character filters in turn. Their job is to tidy up the string before tokenization. A character filter could be used to strip out HTML, or to convert & characters to the word and.
 
 ## Tokenizer
 
-Next, the string is tokenized into individual terms by atokenizer. A simple tokenizer might split the text into terms whenever it encounters whitespace or punctuation.
+Next, the string is tokenized into individual terms by a tokenizer. A simple tokenizer might split the text into terms whenever it encounters whitespace or punctuation.
 
 ## Token filters
 
-Last, each term is passed through anytoken filtersin turn, which can change terms (for example, lowercasingQuick), remove terms (for example, stopwords such asa, and, the) or add terms (for example, synonyms likejumpandleap).
+Last, each term is passed through any token filters in turn, which can change terms (for example, lowercasing Quick), remove terms (for example, stop words such as a, and, the) or add terms (for example, synonyms like jump and leap).
 
 ## Standard analyzer
 
-The standard analyzeris the default analyzer that Elasticsearch uses. It is the best general choice for analyzing text that may be in any language. It splits the text onword boundaries, asdefined by the [Unicode Consortium](http://www.unicode.org/reports/tr29/), and removes most punctuation. Finally, it lowercases all terms. It would produce
+The standard analyzer is the default analyzer that Elasticsearch uses. It is the best general choice for analyzing text that may be in any language. It splits the text on word boundaries, as defined by the [Unicode Consortium](http://www.unicode.org/reports/tr29/), and removes most punctuation. Finally, it lowercases all terms. It would produce
 
-set, the, shape, to, semi, transparent, by, calling, set_trans, 5
+`set, the, shape, to, semi, transparent, by, calling, set_trans, 5`
 
 ## Simple analyzer
 
-The simple analyzer splitsthe text on anything that isn't a letter, and lowercases the terms. It would produce
+The simple analyzer splits the text on anything that isn't a letter, and lowercases the terms. It would produce
 
-set, the, shape, to, semi, transparent, by, calling, set, trans
+`set, the, shape, to, semi, transparent, by, calling, set, trans`
 
 ## Whitespace analyzer
 
 The whitespace analyzer splitsthe text on whitespace. It doesn't lowercase. It would produce
 
-Set, the, shape, to, semi-transparent, by, calling, set_trans(5)
+`Set, the, shape, to, semi-transparent, by, calling, set_trans(5)`
 
 ## Language analyzers
 
-Language-specific analyzersare available for [many languages](https://www.elastic.co/guide/en/elasticsearch/reference/2.4/analysis-lang-analyzer.html). They are able to take the peculiarities of the specified language into account. For instance, theenglishanalyzer comes with a set of Englishstopwords (common words likeandorthethat don't have much impact on relevance), which it removes. This analyzer also is able tostemEnglishwords because it understands the rules of English grammar.
+Language-specific analyzers are available for [many languages](https://www.elastic.co/guide/en/elasticsearch/reference/2.4/analysis-lang-analyzer.html). They are able to take the peculiarities of the specified language into account. For instance, the english analyzer comes with a set of English stop words (common words like and or the that don't have much impact on relevance), which it removes. This analyzer also is able to stem English words because it understands the rules of English grammar.
 
-Theenglishanalyzer would produce the following:
+The english analyzer would produce the following:
 
-set, shape, semi, transpar, call, set_tran, 5
+`set, shape, semi, transpar, call, set_tran, 5`
 
-Note howtransparent, calling, andset_transhave been stemmed to their root form.
+Note how transparent, calling, and set_trans have been stemmed to their root form.
 
 https://www.elastic.co/guide/en/elasticsearch/guide/current/analysis-intro.html
 

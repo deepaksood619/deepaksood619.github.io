@@ -921,6 +921,12 @@ screen -r
 # To attach to specific session
 screen -r session_name
 
+# attach to an already attached session (detach from old terminal and attach to new terminal)
+screen -r -d 30608
+
+# scroll in a session
+ctrl + A > ESC > up and down to scroll
+
 # list the current running screen sessions
 screen -ls
 

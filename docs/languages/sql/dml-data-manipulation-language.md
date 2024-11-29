@@ -25,6 +25,16 @@ DELETE statements are used to remove rows from a table.
 DELETE FROM table_name WHERE some_column = some_value;
 ```
 
+Always better to use between than comparison operator, so that lock is not taken on whole table, but only range locks are taken.
+
+```sql
+-- good
+DELETE FROM orders WHERE order_id betwen 0 and 100;
+
+-- bad
+DELETE FROM orders WHERE order_id < 100;
+```
+
 ### INSERT INTO
 
 ```sql

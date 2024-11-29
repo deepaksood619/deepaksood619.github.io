@@ -80,7 +80,37 @@ ForMySQL 8, connect your database viaWorkbench, go toAdministration -> User and 
 
 ## Queries
 
-### Creating a Stored Procedure
+### Stored Procedure - CopyUsersLogInBatches
+
+```sql
+DELIMITER $$
+
+CREATE PROCEDURE CopyUsersLogInBatches()
+BEGIN
+    DECLARE batch_size INT DEFAULT 1000000;
+    DECLARE start_id INT;
+    DECLARE max_id INT;
+
+    -- Initialize start_id and max_id
+    SELECT MIN(id) INTO start_id FROM users_log;
+    SELECT MAX(id) INTO max_id FROM users_log;
+
+    -- Loop to copy data in batches
+    WHILE start_id <= max_id DO
+        INSERT INTO users_log_backup_27_nov_2024
+        SELECT *
+        FROM users_log
+        WHERE id BETWEEN start_id AND start_id + batch_size - 1;
+
+        -- Update the start_id for the next batch
+        SET start_id = start_id + batch_size;
+    END WHILE;
+END$$
+
+DELIMITER ;
+```
+
+### Stored Procedure - DeleteUsersLogInBatches
 
 ```sql
 DELIMITER $$
@@ -105,6 +135,112 @@ END$$
 DELIMITER ;
 ```
 
+### Stored Procedure with Progress and Total Rows Deleted - DeleteOldSessionsInBatches
+
+```sql
+DELIMITER $$
+
+CREATE PROCEDURE DeleteOldSessionsInBatches()
+BEGIN
+    DECLARE batch_size INT DEFAULT 10000; -- Number of rows to delete in each batch
+    DECLARE rows_deleted INT DEFAULT 0; -- Counter for rows deleted in each iteration
+    DECLARE total_deleted INT DEFAULT 0; -- Total rows deleted across all batches
+
+    -- Loop to delete data in batches
+    REPEAT
+        -- Delete a batch of rows
+        DELETE FROM entrancecorner.django_session
+        WHERE expire_date BETWEEN NOW() - INTERVAL 180 DAY AND NOW() - INTERVAL 165 DAY
+        LIMIT batch_size;
+
+        -- Get the number of rows deleted in this batch
+        SET rows_deleted = ROW_COUNT();
+
+        -- Update the total count of rows deleted
+        SET total_deleted = total_deleted + rows_deleted;
+
+        -- Output progress message
+        SELECT CONCAT('Deleted ', rows_deleted, ' rows in this batch. Total so far: ', total_deleted) AS Progress;
+
+    UNTIL rows_deleted = 0 -- Exit when no more rows match the criteria
+    END REPEAT;
+
+    -- Final message with total rows deleted
+    SELECT CONCAT('Deletion process completed. Total rows deleted: ', total_deleted) AS FinalMessage;
+END$$
+
+DELIMITER ;
+```
+
+### Stored Procedure - DeleteContentRevisionsEfficiently
+
+```sql
+DELIMITER $$
+
+CREATE PROCEDURE DeleteContentRevisionsEfficiently()
+BEGIN
+    DECLARE current_model_name VARCHAR(255); -- Placeholder for the current model_name
+    DECLARE finished INT DEFAULT 0;         -- Loop termination flag
+    DECLARE rows_deleted INT DEFAULT 0;     -- Counter for rows deleted
+    DECLARE total_deleted INT DEFAULT 0;    -- Total rows deleted
+
+    -- Cursor to iterate over distinct model_name values
+    DECLARE model_cursor CURSOR FOR
+    SELECT DISTINCT model_name FROM content_revisions;
+
+    -- Handler for the end of the cursor
+    DECLARE CONTINUE HANDLER FOR NOT FOUND SET finished = 1;
+
+    -- Open the cursor
+    OPEN model_cursor;
+
+    -- Loop through each model_name
+    fetch_loop: LOOP
+        FETCH model_cursor INTO current_model_name;
+
+        -- Exit loop if no more data
+        IF finished = 1 THEN
+            LEAVE fetch_loop;
+        END IF;
+
+        -- Print progress: start processing current model_name
+        SELECT CONCAT('Processing model_name: ', current_model_name) AS ProgressMessage;
+
+        -- Delete rows for the current model_name with ranking logic
+        DELETE cr
+        FROM content_revisions cr
+        JOIN (
+            SELECT id
+            FROM (
+                SELECT id, 
+                       ROW_NUMBER() OVER (PARTITION BY model_id ORDER BY created DESC, revision_no DESC) AS rn
+                FROM content_revisions
+                WHERE model_name = current_model_name
+            ) ranked_revisions
+            WHERE rn > 5
+        ) to_delete
+        ON cr.id = to_delete.id;
+
+        -- Get the number of rows deleted for the current group
+        SET rows_deleted = ROW_COUNT();
+
+        -- Update the total count
+        SET total_deleted = total_deleted + rows_deleted;
+
+        -- Print progress: rows deleted for the current model_name
+        SELECT CONCAT('Deleted ', rows_deleted, ' rows for model_name: ', current_model_name, '. Total deleted so far: ', total_deleted) AS ProgressMessage;
+    END LOOP;
+
+    -- Close the cursor
+    CLOSE model_cursor;
+
+    -- Final message
+    SELECT CONCAT('Deletion process completed. Total rows deleted: ', total_deleted) AS FinalMessage;
+END$$
+
+DELIMITER ;
+```
+
 ### Calling a Stored Procedure
 
 ```sql
@@ -112,4 +248,35 @@ call DeleteUsersLogInBatches();
 
 -- drop stored procedure
 drop procedure DeleteUsersLogInBatches;
+```
+
+### Stored Procedure with Progress Output
+
+```sql
+DELIMITER $$
+
+CREATE PROCEDURE DeleteUsersLogInBatches()
+BEGIN
+    DECLARE batch_size INT DEFAULT 1000000; -- Number of rows to delete in each batch
+    DECLARE start_id INT DEFAULT 0; -- Starting ID for the first batch
+    DECLARE end_id INT DEFAULT 14900000; -- Target maximum ID for deletion
+
+    -- Loop to delete data in batches
+    WHILE start_id < end_id DO
+        -- Delete rows in the current batch
+        DELETE FROM users_log
+        WHERE id BETWEEN start_id AND start_id + batch_size - 1;
+
+        -- Output progress message
+        SELECT CONCAT('Deleted rows with IDs from ', start_id, ' to ', start_id + batch_size - 1) AS Progress;
+
+        -- Update the start_id for the next batch
+        SET start_id = start_id + batch_size;
+    END WHILE;
+
+    -- Final message
+    SELECT 'Deletion process completed.' AS FinalMessage;
+END$$
+
+DELIMITER ;
 ```

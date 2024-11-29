@@ -6,9 +6,9 @@ Talks about "How Google Search indexes pages"
 
 ## tf-idf (term frequency - inverse document frequency)
 
-In [information retrieval](https://en.wikipedia.org/wiki/Information_retrieval), tf--idforTFIDF, short forterm frequency--inverse document frequency, is a numerical statistic that is intended to reflect how important a word is to a [document](https://en.wikipedia.org/wiki/Document) in a collection or [corpus](https://en.wikipedia.org/wiki/Text_corpus). It is often used as a [weighting factor](https://en.wikipedia.org/wiki/Weighting_factor) in searches of information retrieval, [text mining](https://en.wikipedia.org/wiki/Text_mining), and [user modeling](https://en.wikipedia.org/wiki/User_modeling). The tf--idf value increases [proportionally](https://en.wikipedia.org/wiki/Proportionality_(mathematics)) to the number of times a word appears in the document and is offset by the number of documents in the corpus that contain the word, which helps to adjust for the fact that some words appear more frequently in general. Tf--idf is one of the most popular term-weighting schemes today; 83% of text-based recommender systems in digital libraries use tf--idf.
+In [information retrieval](https://en.wikipedia.org/wiki/Information_retrieval), tf-id for TFIDF, short for term frequency - inverse document frequency, is a numerical statistic that is intended to reflect how important a word is to a [document](https://en.wikipedia.org/wiki/Document) in a collection or [corpus](https://en.wikipedia.org/wiki/Text_corpus). It is often used as a [weighting factor](https://en.wikipedia.org/wiki/Weighting_factor) in searches of information retrieval, [text mining](https://en.wikipedia.org/wiki/Text_mining), and [user modeling](https://en.wikipedia.org/wiki/User_modeling). The tf--idf value increases [proportionally](https://en.wikipedia.org/wiki/Proportionality_(mathematics)) to the number of times a word appears in the document and is offset by the number of documents in the corpus that contain the word, which helps to adjust for the fact that some words appear more frequently in general. Tf--idf is one of the most popular term-weighting schemes today; 83% of text-based recommender systems in digital libraries use tf-idf.
 
-Variations of the tf--idf weighting scheme are often used by [search engines](https://en.wikipedia.org/wiki/Search_engine) as a central tool in scoring and ranking a document's [relevance](https://en.wikipedia.org/wiki/Relevance_(information_retrieval)) given a user [query](https://en.wikipedia.org/wiki/Information_retrieval). tf--idf can be successfully used for [stop-words](https://en.wikipedia.org/wiki/Stop-words) filtering in various subject fields, including [text summarization](https://en.wikipedia.org/wiki/Automatic_summarization) and classification.
+Variations of the tf-idf weighting scheme are often used by [search engines](https://en.wikipedia.org/wiki/Search_engine) as a central tool in scoring and ranking a document's [relevance](https://en.wikipedia.org/wiki/Relevance_(information_retrieval)) given a user [query](https://en.wikipedia.org/wiki/Information_retrieval). tf-idf can be successfully used for [stop-words](https://en.wikipedia.org/wiki/Stop-words) filtering in various subject fields, including [text summarization](https://en.wikipedia.org/wiki/Automatic_summarization) and classification.
 
 One of the simplest [ranking functions](https://en.wikipedia.org/wiki/Ranking_function) is computed by summing the tf--idf for each query term; many more sophisticated ranking functions are variants of this simple model.
 
@@ -64,10 +64,9 @@ BM25 and its newer variants, e.g. BM25F (a version of BM25 that can take documen
 - Dimensionality reduction
 - Vector similarity scoring
 
-Solr
+### Solr
 
 1. Streaming expressions
-
 2. Vectors fields/functions in solr
 
 ![image](../../media/Technologies-Elasticsearch-Information-Retrieval-image6.jpg)
@@ -86,15 +85,15 @@ Solr
 
 ## Neural Search
 
-The core idea of neural search is to leverage state-of-the-art deep neural networks to buildeverycomponent of a search system. In short, neural search is deep neural network-powered information retrieval.In academia, it's often calledneural IR.
+The core idea of neural search is to leverage state-of-the-art deep neural networks to build every component of a search system. In short, neural search is deep neural network-powered information retrieval.In academia, it's often called neural IR.
 
-## What can it do?
+### What can it do?
 
 Thanks to recent advances in deep neural networks, a neural search system can go way beyond simple text search. It enables advanced intelligence on all kinds of unstructured data, such as images, audio, video, PDF, 3D mesh, you name it.
 
 For example, retrieving animation according to some beats; finding the best-fit memes according to some jokes; scanning a table with your iPhone's LiDAR camera and finding similar furniture at IKEA. Neural search systems enable what traditional search can't: multi/cross-modal data retrieval.
 
-## Think outside the (search)box
+### Think outside the (search)box
 
 Many neural search-powered applications do not have a search box:
 

@@ -49,23 +49,23 @@ The only difference is that theupdateAPI achieves this through a single client r
 
 ## Index
 
-Index (noun)
+### Index (noun)
 
-As explained previously, an *index* is like a *database* in a traditional relational database. It is the place to store related documents. The plural of *index*is *indices*or *indexes*.
+As explained previously, an *index* is like a *database* in a traditional relational database. It is the place to store related documents. The plural of *index* is *indices* or *indexes*.
 
-Index (verb)
+### Index (verb)
 
-*To index a document*is to store a document in an*index (noun)*so that it can be retrieved and queried. It is much like theINSERTkeyword in SQL except that, if the document already exists, the new document would replace the old.
+*To index a document* is to store a document in an *index (noun)* so that it can be retrieved and queried. It is much like the `INSERT` keyword in SQL except that, if the document already exists, the new document would replace the old.
 
-Inverted index
+### Inverted index
 
-Relational databases add an *index*, such as a B-tree index, to specific columns in order to improve the speed of data retrieval. Elasticsearch and Lucene use a structure calledan*inverted index*for exactly the same purpose.
+Relational databases add an *index*, such as a B-tree index, to specific columns in order to improve the speed of data retrieval. Elasticsearch and Lucene use a structure called an *inverted index* for exactly the same purpose.
 
 **By default, every field in a document is indexed (has an inverted index) and thus is searchable. A field without an inverted index is not searchable**
 
 ## Query
 
-Elasticsearch provides a rich, flexible, query language called the*query DSL*, whichallows us to build much more complicated, robust queries.
+Elasticsearch provides a rich, flexible, query language called the *query DSL*, which allows us to build much more complicated, robust queries.
 
 The *domain-specific language* (DSL) is specified using a JSON request body.
 
@@ -77,7 +77,7 @@ Leaf query clauses look for a particular value in a particular field, such as th
 
 ## Compound query clauses
 
-Compound query clauses wrap other leaforcompound queries and are used to combine multiple queries in a logical fashion (such as the [bool](https://www.elastic.co/guide/en/elasticsearch/reference/current/query-dsl-bool-query.html) or [dis_max](https://www.elastic.co/guide/en/elasticsearch/reference/current/query-dsl-dis-max-query.html) query), or to alter their behaviour (such as the [constant_score](https://www.elastic.co/guide/en/elasticsearch/reference/current/query-dsl-constant-score-query.html) query).
+Compound query clauses wrap other leaf or compound queries and are used to combine multiple queries in a logical fashion (such as the [bool](https://www.elastic.co/guide/en/elasticsearch/reference/current/query-dsl-bool-query.html) or [dis_max](https://www.elastic.co/guide/en/elasticsearch/reference/current/query-dsl-dis-max-query.html) query), or to alter their behaviour (such as the [constant_score](https://www.elastic.co/guide/en/elasticsearch/reference/current/query-dsl-constant-score-query.html) query).
 
 ## Relevance Score
 
@@ -111,6 +111,6 @@ A *search* can be any of the following:
 
 Data in Elasticsearch can be broadly divided into two types: exact values and full text.
 
-*Exact values*are exactly what they sound like.Examples are a date or a user ID, but can also include exact strings such as a username or an email address. The exact valueFoois not the same as the exact valuefoo. The exact value2014is not the same as the exact value2014-09-15.
+*Exact values* are exactly what they sound like.Examples are a date or a user ID, but can also include exact strings such as a username or an email address. The exact value Foo is not the same as the exact value foo. The exact value 2014 is not the same as the exact value 2014-09-15.
 
-*Full text*, on the other hand, refersto textual data - usually written in some human language --- like the text of a tweet or the body of an email.
+*Full text*, on the other hand, refers to textual data - usually written in some human language --- like the text of a tweet or the body of an email.

@@ -18,7 +18,7 @@ Typically, an entity will correspond to a table in your database, and the attrib
 
 ## Faceted Search
 
-Faceted searchis a technique that involves augmenting traditional search techniques with a faceted navigation system, allowing users to narrow down search results by applying multiple filters based on [faceted classification](https://en.wikipedia.org/wiki/Faceted_classification) of the items.A faceted classification system classifies each information element along multiple explicit dimensions, called facets, enabling the classifications to be accessed and ordered in multiple ways rather than in a single, pre-determined, [taxonomic](https://en.wikipedia.org/wiki/Taxonomy_(general)) order.
+Faceted search is a technique that involves augmenting traditional search techniques with a faceted navigation system, allowing users to narrow down search results by applying multiple filters based on [faceted classification](https://en.wikipedia.org/wiki/Faceted_classification) of the items.A faceted classification system classifies each information element along multiple explicit dimensions, called facets, enabling the classifications to be accessed and ordered in multiple ways rather than in a single, pre-determined, [taxonomic](https://en.wikipedia.org/wiki/Taxonomy_(general)) order.
 
 Facets correspond to properties of the information elements. They are often derived by analysis of the text of an item using [entity extraction](https://en.wikipedia.org/wiki/Entity_extraction) techniques or from pre-existing fields in a database such as author, descriptor, language, and format. Thus, existing web-pages, product descriptions or online collections of articles can be augmented with navigational facets.
 

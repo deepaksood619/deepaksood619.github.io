@@ -33,18 +33,14 @@ In addition to this basic usage, there are many other features that make alerts 
 ## Types
 
 1. spike
-
 2. frequency
-
 3. flatline
-
 4. new_term
-
 5. change
 
 ## Common Configuration Example
 
-1. Required settings
+### 1. Required settings
 
    - es_host
    - es_port
@@ -53,7 +49,7 @@ In addition to this basic usage, there are many other features that make alerts 
    - type
    - alert
 
-2. Optional settings
+### 2. Optional settings
 
    - import
    - use_ssl
