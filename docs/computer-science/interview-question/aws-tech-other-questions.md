@@ -99,6 +99,15 @@ https://aws.amazon.com/blogs/aws/fast-easy-free-sync-rds-to-redshift
 - Eating 3 big meals vs 6 small meals
 - Drinking just after eating or not
 
+### Jobs
+
+- How to learn so much
+- Management vs individual contributor
+- How's the job?
+	- Solutions architect
+- Love going into deep tech, but don't love competitive programming that much
+- Want a great set of people to work with
+
 ### Others
 
 - Which are the loudest / softest cultures in the world

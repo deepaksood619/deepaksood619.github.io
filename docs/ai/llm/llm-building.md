@@ -171,6 +171,8 @@ docker exec -it ollama ollama run mistral
 
 [LM Studio - Discover, download, and run local LLMs](https://lmstudio.ai/)
 
+[Ollama Course – Build AI Apps Locally - YouTube](https://www.youtube.com/watch?v=GWB9ApTPTv4&ab_channel=freeCodeCamp.org)
+
 ### oobabooga
 
 A Gradio web UI for Large Language Models. Supports transformers, GPTQ, AWQ, EXL2, llama.cpp (GGUF), Llama models.

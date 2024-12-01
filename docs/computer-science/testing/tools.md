@@ -94,3 +94,4 @@ Robotic Process Automation (RPA) is a software program that imitates human actio
 - [Tricentis Tosca – Accelerate & Automate Continuous Testing | Tricentis](https://www.tricentis.com/products/automate-continuous-testing-tosca)
 - [#1 Browser Automation Software - BrowserStack Automate](https://www.browserstack.com/dg/playwright-automation-testing)
 - [Applitools - AI-Powered Visual Test Automation](https://applitools.com/)
+- [AI Testing Tool | Automated AI Testing - Momentic](https://momentic.ai/) - No QA Required

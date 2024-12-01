@@ -1095,4 +1095,8 @@ Not all battles are fought for victory. Some are fought simply to tell the world
 
 This planet has everything for everyone's need but not for everyone's greed. -- Mahatma Gandhi
 
+If intelligence is the ability to respond to any argument, wisdom lies in knowing which arguments to respond to, and which parts of an argument to respond to.
+
+Archbishop Desmond Tutu said, "There comes a point where we need to stop just pulling people out of the river. We need to go upstream and find out why they're falling in".
+
 ## End

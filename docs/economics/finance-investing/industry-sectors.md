@@ -36,6 +36,12 @@ https://en.wikipedia.org/wiki/Global_Industry_Classification_Standard
 - educational services
 - healthcare
 
+## Pharmaceutical / Pharma
+
+Top 10 Pharma Companies
+
+![Top 10 Pharma Companies](../../media/Screenshot%202024-12-01%20at%2012.37.41%20AM.jpg)
+
 ## Links
 
 [Indian Markets](../../management/business/indian-market)

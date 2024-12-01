@@ -115,6 +115,8 @@ https://github.com/RockstarLang/rockstar
 
 https://blog.codinghorror.com/new-programming-jargon
 
+[To the Moon • Russ Olsen • GOTO 2024 - YouTube](https://www.youtube.com/watch?v=ntmkMLcveC0&ab_channel=GOTOConferences)
+
 ## Typosquatting
 
 https://medium.com/@williambengtson/python-typosquatting-for-fun-not-profit-99869579c35d

@@ -212,7 +212,7 @@ BEGIN
         JOIN (
             SELECT id
             FROM (
-                SELECT id, 
+                SELECT id,
                        ROW_NUMBER() OVER (PARTITION BY model_id ORDER BY created DESC, revision_no DESC) AS rn
                 FROM content_revisions
                 WHERE model_name = current_model_name

@@ -54,11 +54,11 @@ What is a potential issue with using locks in a highly concurrent system, and ho
 **Answer**
 
 - **Issues**:
-    
+
     - **Deadlocks**: Occurs when two Goroutines are waiting on each other to release locks.
     - **Performance Bottlenecks**: Locks serialize execution, reducing concurrency.
 - **Mitigation**:
-    
+
     - Use `sync.RWMutex` to allow multiple reads simultaneously but restrict writes.
     - Minimize the duration of critical sections to reduce contention.
     - Use atomic operations (`sync/atomic`) for lightweight synchronization when possible.
@@ -148,7 +148,7 @@ For structured logging:
 
 - Use libraries like `logrus` or `zap`.
 - Wrap errors with context using `fmt.Errorf`:
-    
+
 ```go
 return 0, fmt.Errorf("divide function failed: %w", err)
 ```

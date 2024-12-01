@@ -83,6 +83,10 @@ https://freefincal.com/fixed-income-investment-retirement
 
 https://freefincal.com/are-debt-mutual-funds-an-alternative-to-fixed-deposits
 
+[Best Liquid Fund 2025 | Top Liquid Fund 2025 - YouTube](https://www.youtube.com/watch?v=ejkekhSsttU&ab_channel=pranjalkamra)
+
+- Quantum liquid fund
+
 ## Gilt funds
 
 Gilt funds are debt funds that invest in government securities. The government bonds used to be issued in golden-edged certificates. The nickname gilt comes from gilded edge certificates. As per Sebi norms, gilt funds have the mandate to invest at least 80% of their assets in government securities.

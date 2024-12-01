@@ -270,6 +270,17 @@ Take the value of the home that you are considering multiply by 5% and divide by
 
 ## Documents / Property Investing
 
+### Thoughts
+
+- Will you buy a 20 year old flat, what's the rate of 20 year old flat in a 20 year old society???
+- So flats area not an investment. It's a bubble that will burst
+- Same for a commercial property
+- Will you go to a 20 year old Mall??
+- Once analyse the resell market too
+- Never buy a flat in a society without living in the society on rent for atleast 6 months to a year.
+
+### Documents
+
 [Don't Invest in Property before checking 10 DOCUMENTS ft. @LegalSHOTS | Real Estate - YouTube](https://www.youtube.com/watch?v=Zhxp1BGgBn8)
 
 1. Title document - Sale deed, gift deed, conveyance deed
@@ -385,6 +396,29 @@ A person feeding themselves a vegetarian diet would need about an acre of land a
 - [Addressing Short Term Real Estate Investors](https://youtu.be/zaHI01OlAi4)
 - [All Top Upcoming Projects | Real Estate | Noida | Ghaziabad](https://youtu.be/dAFvSRxwEhU)
 - [Noida Sec 150 Overview | Discover The Darker side and Future Opportunities | Whitehat Realty - YouTube](https://www.youtube.com/watch?v=K8o5Ky5VMV8&ab_channel=WhitehatRealty)
+
+### Rates
+
+1.25 - 1140 sq ft, 6th
+1390 sq ft - 20%, - 3 bhk - 1.35 lower, 3rd, 3.30
+
+1850 - 2.05 cr -
+
+1640 - 3 bhk, 1.65, mid floor (7 floor, 18 floor - phase 1)
+18
+2400 - 3+1
+3075 - 3+1 and 4 - 3.50 cr
+
+2bhk
+
+10 years
+
+Mahugan, - sector 78 - 2+study - 1250, 11th floor, 1.5 (7-8)
+Mahugan modern - 1550 - 2cr
+1250 - 1.59
+Hyde park - 2bhk - 1010, 3bhk - 1320 - 1.55 (6-8)
+
+Ravi - amrapali -
 
 ## Links
 

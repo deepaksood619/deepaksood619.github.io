@@ -32,6 +32,12 @@ Earth overshoot day - 27 July
 
 https://www.pmfias.com/carbon-nitrogen-phosphorus-sulphur-cycle
 
+## AQI  / Air Quality / Air Pollution
+
+[The smog cloud affecting south Asia is now so big it can be seen from space.](http://youtube.com/post/Ugkx8EBGDYt_0gxEtEeKv2WO4Of7X4P4JZQJ)
+
+[How This Couple Defeated Toxic Air Pollution To Breathe 'Mountain Air' While Staying In Delhi - YouTube](https://www.youtube.com/watch?v=3l8G2ZViF9A&ab_channel=Mint)
+
 ## Links
 
 [The Fourth Big Force: Climate Change](https://www.linkedin.com/pulse/fourth-big-force-climate-change-ray-dalio-vmt5e/)

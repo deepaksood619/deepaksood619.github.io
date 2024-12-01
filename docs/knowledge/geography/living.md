@@ -2,6 +2,8 @@
 
 Digital Nomad
 
+**Thanatology:** the study of preventing death, radically extending human lifespan, and optimizing health and longevity. Encompassing biology, genetics, neuroscience, technology, psychology, and ethics.
+
 ## Blue Zones
 
 Blue Zone is a term used to regions where some of the world's oldest people reside.

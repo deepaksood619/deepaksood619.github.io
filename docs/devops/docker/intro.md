@@ -84,3 +84,13 @@ https://www.toptal.com/docker/interview-questions
 https://codefresh.io/containers/docker-anti-patterns
 
 [Docker Image Pipelines and Patterns](https://www.youtube.com/watch?v=ODXSPVZA4c8)
+
+## Upgrades
+
+[Docker just got an upgrade - YouTube](https://www.youtube.com/watch?v=ilkZ27TwYVg&ab_channel=Coderized)
+
+- Docker init
+- Docker debug
+- Docker compose watch
+- Docker build cloud
+- Docker scout

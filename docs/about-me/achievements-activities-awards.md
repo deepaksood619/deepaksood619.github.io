@@ -28,17 +28,20 @@ I was responsible of creating a product and infrastructure around it to help sav
 
 ### Data Structures for Interview - UnsaidTalks (30 November 2024)
 
+- Presentation - [Data Structures for Interviews!](https://docs.google.com/presentation/d/1ISahc8FaxUfgjHESCnYCkH3Td0MZvHKupJGx6O7p90w/edit?usp=sharing)
+- Codes Notebook - Jupyter - Google Colab - [Session 13: Data Structures for Interviews!.ipynb - Colab](https://colab.research.google.com/drive/1Skn6Y3hHue0b9p9etHynRZ7x-iBY1xpP?usp=sharing)
 
+![Data Structures for Interview - UnsaidTalks](../media/WhatsApp%20Image%202024-11-30%20at%2009.18.59.jpeg)
 
 ### Meetup Talk - Real-Time Data Warehousing Solution with AWS and Confluent Cloud - OpsTree Solutions (23 November 2024)
 
 - Presentation - [Real-Time Data Warehousing Solution with AWS and Confluent Cloud ​](https://docs.google.com/presentation/d/118S2du_m7mJ2WFsbwtmFuLz6NApfblv-FmbBE3XQ6PU/edit?usp=sharing)
 - Recording - https://www.youtube.com/live/7NqLTGKFK0c
 - **Session 1**
-	- How to Build a Data Streaming Platform: Introduction to Stream Processing & Stream Governance with Kafka and Flink  
-	- Speaker: Diptiman Raichaudhuri , Staff Developer Advocate, Confluent  
+	- How to Build a Data Streaming Platform: Introduction to Stream Processing & Stream Governance with Kafka and Flink
+	- Speaker: Diptiman Raichaudhuri , Staff Developer Advocate, Confluent
 - **Session 2**
-	- Real-Time Data Warehousing Solution with AWS and Confluent Cloud  
+	- Real-Time Data Warehousing Solution with AWS and Confluent Cloud
 	- Speakers: Deepak Sood (Senior AI, Data & DevOps Architect) and Ramneek Kaur (Experienced Data Engineer), OpsTree Solutions
 
 #### Questions

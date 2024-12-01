@@ -112,3 +112,4 @@ https://nextjs.org/docs/advanced-features/static-html-export
 - [Learn Next.js by Building a Custom API with MongoDB](https://www.freecodecamp.org/news/full-stack-with-nextjs-and-appwrite-course/)
 - [Full Stack JavaScript Course: Build a Hotel Management Site with Next.js, Sanity.io, and Tailwind CSS](https://www.freecodecamp.org/news/build-and-deploy-a-hotel-management-site/)
 - [Learn NestJS – Complete Course - YouTube](https://www.youtube.com/watch?v=sFnAHC9lLaw&ab_channel=freeCodeCamp.org)
+- [Event-Driven Architecture Course – NextJS, Clerk, Webhooks - YouTube](https://www.youtube.com/watch?v=TtvytXHLAsc&ab_channel=freeCodeCamp.org)
