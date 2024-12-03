@@ -51,13 +51,11 @@ swizzling permits to **swap a theme component with your own implementation**, a
 
 ### Plugins
 
-[📦 plugin-client-redirects | Docusaurus](https://docusaurus.io/docs/api/plugins/@docusaurus/plugin-client-redirects)
-
-[📦 plugin-ideal-image | Docusaurus](https://docusaurus.io/docs/api/plugins/@docusaurus/plugin-ideal-image)
-
-[📦 plugin-google-gtag | Docusaurus](https://docusaurus.io/docs/api/plugins/@docusaurus/plugin-google-gtag)
-
-[📦 plugin-content-docs | Docusaurus](https://docusaurus.io/docs/api/plugins/@docusaurus/plugin-content-docs)
+- [📦 plugin-client-redirects | Docusaurus](https://docusaurus.io/docs/api/plugins/@docusaurus/plugin-client-redirects)
+- [📦 plugin-ideal-image | Docusaurus](https://docusaurus.io/docs/api/plugins/@docusaurus/plugin-ideal-image)
+- [📦 plugin-google-gtag | Docusaurus](https://docusaurus.io/docs/api/plugins/@docusaurus/plugin-google-gtag)
+- [📦 plugin-content-docs | Docusaurus](https://docusaurus.io/docs/api/plugins/@docusaurus/plugin-content-docs)
+- [Serving Optimized Docusaurus Images with Rehype, Markdown and Cloudinary - DevJams Episode #21 - YouTube](https://www.youtube.com/watch?v=9oBWMDK0Av4)
 
 ### Upgrading from v2 to v3
 

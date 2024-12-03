@@ -85,7 +85,7 @@ Additionally, site-wide events like site moves may trigger an increase in crawl 
 
 ## Links
 
-- [SEO / ASO](frontend/frontend-intro/seo-aso.md)
+- [SEO / ASO](frontend/seo/seo-aso.md)
 - [Google Search Central - YouTube](https://www.youtube.com/@GoogleSearchCentral)
 - [Ahrefs - YouTube](https://www.youtube.com/@AhrefsCom)
 - [How Search Works - YouTube](https://www.youtube.com/playlist?list=PLKoqnv2vTMUN83JWBNM6MoBuBcyqhFNY3)

@@ -1,4 +1,4 @@
-# Web Vitals
+# Core Web Vitals
 
 https://web.dev/vitals
 

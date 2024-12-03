@@ -8,12 +8,9 @@ The JAMstack is not about specific technologies. It's a new way of building webs
 
 The JAMstack allows people to create websites that are simpler, faster, and more secure than other web development methods. Sites created with the JAMstack are delivered by pre-rendering files that are served directly from a CDN, removing the requirement to manage or run web servers.
 
-J - client-side JavaScript
-
-A - reusable API
-
-M - prebuild Markup
-
+- J - client-side JavaScript
+- A - reusable API
+- M - prebuild Markup
 - No restriction on framework or library
 - Websites are served as static html files generated from source files, such as markdown using a static side generator like Gatsby
 - High performance, generated at deploy time
@@ -39,7 +36,7 @@ A CMS is used to add content to your website/application. It is great for client
 
 https://www.wpbeginner.com/showcase/best-cms-platforms-compared
 
-## Headless CMS
+## Headless CMS - Strapi
 
 https://strapi.io
 
@@ -54,7 +51,7 @@ Strapi is a free and open-source headless CMS delivering your content anywhere y
 - **Database agnostic.** Strapi works with SQL databases. You can choose the database you prefer: PostgreSQL, MySQL, MariaDB, and SQLite.
 - **Customizable.** You can quickly build your logic by fully customizing APIs, routes, or plugins to fit your needs perfectly.
 
-## Features
+### Features
 
 - Modern Admin Panel:Elegant, entirely customizable and a fully extensible admin panel.
 - Secure by default:Reusable policies, CORS, CSP, P3P, Xframe, XSS, and more.
@@ -64,51 +61,31 @@ Strapi is a free and open-source headless CMS delivering your content anywhere y
 - Powerful CLI:Scaffold projects and APIs on the fly.
 - SQL databases:Works with PostgreSQL, MySQL, MariaDB, and SQLite.
 
-## Strapi v4 - [Announcing Strapi v4](https://www.youtube.com/watch?v=qWKdF8N8LQU&list=PL7Q0DQYATmvjJyxrLw0xCOKwjv8Bh7yLx)
+### Strapi v4 - [Announcing Strapi v4](https://www.youtube.com/watch?v=qWKdF8N8LQU&list=PL7Q0DQYATmvjJyxrLw0xCOKwjv8Bh7yLx)
 
-https://design-system.strapi.io
-
-https://design-system-alpha.vercel.app
-
-https://github.com/strapi/strapi
-
-https://github.com/strapi/strapi-starter-next-corporate
-
-https://strapi.io/starters
-
-https://strapi.io/blog/user-authentication-in-next-js-with-strapi
-
-https://strapi.io/blog/how-the-strapi-marketing-team-uses-strapi
-
-https://strapi.io/showcases
-
-https://itnext.io/5-things-i-love-about-strapi-a-node-js-headless-cms-700b4fec544b
-
-[Strapi.js Crash Course | Headless CMS](https://www.youtube.com/watch?v=6FnwAbd2SDY)
-
-[Strapi CMS for content managers](https://www.youtube.com/watch?v=tbFmke56_UA&list=PL7Q0DQYATmvhRKC5UPPKHr9pFrdiGGgME)
-
-https://strapi.io/blog/virtual-event-starter-template-vercel-strapiconf
-
-https://strapi.io/blog/how-to-build-a-crud-app-with-react-and-a-headless-cms
-
-https://marmelab.com/blog/2020/06/18/build-an-application-in-fiften-minutes-using-strapijs.html
-
-react-admin strapi - https://github.com/nazirov91/ra-strapi-rest
-
-https://github.com/strapi/foodadvisor
-
-- strapi admin panel
-- strapi automatic frontend
-- https://strapi.io/demo
-
-https://jamstack.org/headless-cms
-
-https://www.contentful.com/r/knowledgebase/what-is-headless-cms
-
-https://www.storyblok.com/tp/headless-cms-explained
-
-[**https://www.gatsbyjs.com/docs/how-to/sourcing-data/headless-cms/**](https://www.gatsbyjs.com/docs/how-to/sourcing-data/headless-cms/)
+- https://design-system.strapi.io
+- https://design-system-alpha.vercel.app
+- https://github.com/strapi/strapi
+- https://github.com/strapi/strapi-starter-next-corporate
+- https://strapi.io/starters
+- https://strapi.io/blog/user-authentication-in-next-js-with-strapi
+- https://strapi.io/blog/how-the-strapi-marketing-team-uses-strapi
+- https://strapi.io/showcases
+- https://itnext.io/5-things-i-love-about-strapi-a-node-js-headless-cms-700b4fec544b
+- [Strapi.js Crash Course | Headless CMS](https://www.youtube.com/watch?v=6FnwAbd2SDY)
+- [Strapi CMS for content managers](https://www.youtube.com/watch?v=tbFmke56_UA&list=PL7Q0DQYATmvhRKC5UPPKHr9pFrdiGGgME)
+- https://strapi.io/blog/virtual-event-starter-template-vercel-strapiconf
+- https://strapi.io/blog/how-to-build-a-crud-app-with-react-and-a-headless-cms
+- https://marmelab.com/blog/2020/06/18/build-an-application-in-fiften-minutes-using-strapijs.html
+- react-admin strapi - https://github.com/nazirov91/ra-strapi-rest
+- https://github.com/strapi/foodadvisor
+	- strapi admin panel
+	- strapi automatic frontend
+	- https://strapi.io/demo
+- https://jamstack.org/headless-cms
+- https://www.contentful.com/r/knowledgebase/what-is-headless-cms
+- https://www.storyblok.com/tp/headless-cms-explained
+- [**https://www.gatsbyjs.com/docs/how-to/sourcing-data/headless-cms/**](https://www.gatsbyjs.com/docs/how-to/sourcing-data/headless-cms/)
 
 ## Popular CMSs
 
@@ -171,3 +148,8 @@ https://github.com/estruyf/vscode-front-matter
 https://pages.cloudflare.com
 
 Cloudflare Pages is a JAMstack platform for frontend developers to collaborate and deploy websites.
+
+## Links
+
+- [Static Site Generators](frontend/others/static-site-generators.md)
+- [Docusaurus](frontend/others/docusaurus.md)

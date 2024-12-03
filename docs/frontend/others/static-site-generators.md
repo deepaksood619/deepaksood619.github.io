@@ -53,8 +53,6 @@ pnpm astro --help
 - [Astro for Impatient Devs - YouTube](https://www.youtube.com/watch?v=Rx6Al347_AY&ab_channel=IsaacHarris-Holt)
 - [The Future of Astro is... - YouTube](https://www.youtube.com/watch?v=AaCMvEXM-HQ&ab_channel=Astro)
 
-## [Gatsby](gatsby) (React) and Gridsome (Vue)
-
 ## HUGO
 
 The world's fastest framework for building websites.
@@ -80,6 +78,8 @@ Transform your plain text into static websites and blogs
 
 ## Other Static Site Generators / Documentation Generators
 
+- [Docusaurus](frontend/others/docusaurus.md)
+- [Gatsby](gatsby) (React) and Gridsome (Vue)
 - [Backstage](devops/others/backstage.md)
 - https://www.mkdocs.org
 - https://docsify.js.org

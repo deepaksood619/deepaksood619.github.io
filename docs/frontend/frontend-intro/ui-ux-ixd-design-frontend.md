@@ -133,6 +133,7 @@ https://www.freecodecamp.org/news/glassmorphism-design-effect-with-html-css
 ### Creative Design Tools
 
 1. **Adobe Photoshop** - Industry-standard for photo editing, graphic design, and digital art.
+	1. Photopea - free photoshop alternative
 2. **Adobe Illustrator** - Vector-based design software for creating logos, icons, and illustrations.
 3. **Adobe InDesign** - Layout design tool for creating print and digital publications like magazines and eBooks.
 4. **Adobe XD** - UX/UI design tool for prototyping and designing user experiences for apps and websites.

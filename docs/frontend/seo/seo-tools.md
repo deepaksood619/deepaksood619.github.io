@@ -1,0 +1,33 @@
+# SEO Tools
+
+- [GitHub - serpapi/awesome-seo-tools: Curated list of awesome SEO tools](https://github.com/serpapi/awesome-seo-tools)
+	- [Awesome SEO tools list](https://seotoolslist.org/#/)
+- [GitHub - madawei2699/awesome-seo: Google SEO Research and Web Traffic Monetization](https://github.com/madawei2699/awesome-seo)
+- [Moz - Google Algorithm Update History](https://moz.com/google-algorithm-change)
+
+## SEO Sites
+
+- NeilPatel - ubersuggest
+- site:https://news.careers360.com/ (Google - Tools)
+- [Semrush - Online Marketing Can Be Easy](https://semrush.com/)
+- [SerpApi: Google Search API](https://serpapi.com/)
+- https://developers.google.com/speed/pagespeed/insights
+- https://sitechecker.pro
+- https://seositecheckup.com/seo-audit/www.example.com
+- https://www.seoptimer.com/deepaksood619.github.io
+- https://app.neilpatel.com/en/seo_analyzer/site_audit
+- https://answerthepublic.com
+- https://stories.google
+- https://purifycss.online
+- https://moz.com
+- [Rich Results Test - Google Search Console](https://search.google.com/test/rich-results)
+- [POP: On-Page SEO & Content Optimization Tool Suite](https://www.pageoptimizer.pro/)
+- [Ahrefs—Marketing Intelligence Tools Powered by Big Data.](https://ahrefs.com/)
+- [Siteliner - Find Duplicate Content on your site](https://www.siteliner.com/)
+
+## Tools
+
+- [SEOquake - Chrome Web Store](https://chromewebstore.google.com/detail/seoquake/akdgnmcogleenhbclghghlkkdndkjdjc)
+- [SEO Minion - Chrome Web Store](https://chromewebstore.google.com/detail/seo-minion/giihipjfimkajhlcilipnjeohabimjhi?pli=1)
+	- [SEO Minion - SEO Extension - YouTube](https://www.youtube.com/playlist?list=PL4ToiDFOv6A8S7RfsyoDDUMvwloHywQG2)
+- [Keywords Everywhere - Keyword Tool - Chrome Web Store](https://chromewebstore.google.com/detail/keywords-everywhere-keywo/hbapdpeemoojbophdfndmlgdhppljgmp)
