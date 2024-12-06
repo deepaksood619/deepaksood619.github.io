@@ -19,6 +19,7 @@
 - [Openstack](openstack)
 - [VMware](cloud/others/vmware.md)
 - [SAP](cloud/others/sap.md)
+- [Alibaba Cloud](cloud/others/alibaba-cloud.md)
 - [Content Delivery Network (CDN)](cloud/others/cdn-content-delivery-network.md)
 	- [CDN Cache Invalidation](cloud/others/cdn-cache-invalidation.md)
 	- [CDN Comparision](cloud/others/cdn-comparision.md)

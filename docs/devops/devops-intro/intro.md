@@ -51,4 +51,5 @@ Monitoring means knowing what's going on inside your system, how much traffic it
 
 ## References
 
-https://www.toptal.com/devops/bridging-gaps-devops-communication
+- https://www.toptal.com/devops/bridging-gaps-devops-communication
+- [Fundamentals of DevOps and Software Delivery](https://www.gruntwork.io/books/fundamentals-of-devops)

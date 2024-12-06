@@ -38,6 +38,8 @@ In other words, there are **no two words** in this list with the same first 4 ch
 
 That means if you have the first 4 letters, you know the rest of the word by looking for those first 4 letters in the [BIP39 wordlist](https://www.blockplate.com/pages/bip-39-wordlist "bip39 wordlist"). Some wallets will even fill in the rest of the word once the first 4 letters are entered.
 
+- https://www.blockplate.com/pages/bip-39-wordlist
+
 ## BIP39 Wallet Recovery
 
 Remember, your coins [**are not stored**](https://www.blockplate.com/blogs/blockplate/does-my-wallet-store-my-coins "wallet does not store coins") on your wallet device. They're stored on the blockchain (i.e. a universal network) and can be accessed by utilizing your seed phrase. Your wallet stores the "access" to those coins, not the coins themselves.
@@ -45,6 +47,15 @@ Remember, your coins [**are not stored**](https://www.blockplate.com/blogs/block
 If you are recovering an existing wallet, the wallet's software will ask you if you have an existing phrase or have the option to import one. You'll enter in your existing mnemonic seed phrase and voilà, your coins are recovered...right?
 
 Well actually, it's not that simple (but it should be!). Let's go into background as to why that is.
+
+- https://bitcoin.stackexchange.com/questions/105825/btc-wallet-recovery-i-have-a-17-word-backup-what-do-i-do
+- https://www.reddit.com/r/Bitcoin/comments/l65my4/17_word_pass_phrase/?rdt=42700
+- [Blockchain.info wallet recovery phrase - 17 words, not 12](https://bitcointalk.org/index.php?topic=2491439.0)
+- https://www.cryptorecovery.io/
+- https://www.cryptorecovery.io/post/recover-blockchain-com-wallet
+- [Recover blockchain seed 15 to 21 mnemonic | Medium](https://keychainx.medium.com/how-to-recover-blockchain-info-15-17-19-21-mnemonic-seed-8691cb59425)
+- [bitcoin core - BTC wallet recovery: I have a 17 word backup, what do I do? - Bitcoin Stack Exchange](https://bitcoin.stackexchange.com/questions/105825/btc-wallet-recovery-i-have-a-17-word-backup-what-do-i-do)
+- [17 Word Pass Phrase : r/Bitcoin](https://www.reddit.com/r/Bitcoin/comments/l65my4/17_word_pass_phrase/?rdt=42700)
 
 ## BIP39 is Not Enough to Recover Your Coins
 
@@ -60,7 +71,7 @@ You must know about a compatible wallet when importing an existing seed phrase:
 
 To understand what we mean by this, let’s first dive into what a "wallet" actually is.
 
-### Hierarchical Deterministic Wallets
+### Hierarchical Deterministic Wallets (HD Wallets)
 
 Your wallet is essentially a whole bunch of numbers (that can "store" coins) linked together starting from a single random number.
 
@@ -126,14 +137,24 @@ For these unique standards, they can only be recovered on wallets that support t
 
 Using an extended public key, you can generate billions of fresh receiving addresses ( 4,294,967,296 to be exact). This maintains your privacy, security and sanity (as there's only ever going to be one private key that can access the funds connected to those addresses.)
 
+## Extended Keys
+
+Keys that can derive new keys
+
+An extended key is a private key or public key that can be used derive new keys in an HD wallet.
+
+Therefore, you can have a single extended private key, and use it as the source for all the child private keys and public keys in your wallet.
+
+Furthermore, an extended private key can have a corresponding extended public key, which can be used generate the same child public keys only.
+
+[Extended Keys | Keys that can Derive new Keys](https://learnmeabitcoin.com/technical/keys/hd-wallets/extended-keys/)
+
+[HD Wallets and Derivation Paths: Explained | by MyEtherWallet | MEW Publications | Medium](https://medium.com/myetherwallet/hd-wallets-and-derivation-paths-explained-865a643c7bf2)
+
 ## Links
 
-[BIP39 Wallet List - Mnemonic Seed Phrase (Updated 2023)](https://www.blockplate.com/blogs/blockplate/list-of-bip39-wallets-mnemonic-seed)
-
-[How To Get Your Trust Wallet Private Key (And Export) - IsItCrypto](https://isitcrypto.com/get-trust-wallet-private-key/)
-
-[GitHub - iancoleman/bip39: A web tool for converting BIP39 mnemonic codes](https://github.com/iancoleman/bip39)
-
-[All bitcoin private keys](https://lbc.cryptoguru.org/dio/1)
-
-[User Guide: Secret Recovery Phrase, password, and private keys - MetaMask](https://support.metamask.io/hc/en-us/articles/4404722782107-User-Guide-Secret-Recovery-Phrase-password-and-private-keys)
+- [BIP39 Wallet List - Mnemonic Seed Phrase (Updated 2023)](https://www.blockplate.com/blogs/blockplate/list-of-bip39-wallets-mnemonic-seed)
+- [How To Get Your Trust Wallet Private Key (And Export) - IsItCrypto](https://isitcrypto.com/get-trust-wallet-private-key/)
+- [GitHub - iancoleman/bip39: A web tool for converting BIP39 mnemonic codes](https://github.com/iancoleman/bip39)
+- [All bitcoin private keys](https://lbc.cryptoguru.org/dio/1)
+- [User Guide: Secret Recovery Phrase, password, and private keys - MetaMask](https://support.metamask.io/hc/en-us/articles/4404722782107-User-Guide-Secret-Recovery-Phrase-password-and-private-keys)

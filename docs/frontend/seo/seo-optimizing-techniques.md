@@ -29,3 +29,8 @@ Optimizing websites is an art that few are familiar with. The more the engineer 
 - Make fewer HTTP requests, i.e., load as few external resources as possible
 - Avoid unnecessary images; where possible, use CSS
 - Ensure no validation errors with W3C
+
+## Links
+
+- [Flat Site Structure: Impact on Conversions and User Engagement | Flowmatters](https://www.flowmatters.com/blog/the-impact-of-flat-site-structure-on-conversion-rates-and-user-engagement/)
+- [What Is the Google E-A-T Principle and How To Apply it | Flowmatters](https://www.flowmatters.com/blog/what-is-the-google-e-a-t-principle-and-how-to-apply-it-to-boost-your-rankings/)

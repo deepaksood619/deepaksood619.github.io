@@ -94,7 +94,7 @@ There's 2000+ pages in here and lots of them I think are interesting. But these 
 - [Fallacies of Distributed Computing](computer-science/distributed-system/fallacies-and-problems) and [Biases / Fallacies](psychology/biases-fallacies) of Human Computing, which everyone should know and try to overcome in their lifetimes
 - [Types of Databases](databases/concepts/types-of-databases) to organize your data in the right database, since data has gravity, it becomes harder with quantity of data to migrate data over time to other databases
 - List of [YouTube / Podcasts](knowledge/youtube-podcasts-magazine-apps.md) that I follow and [YouTube Videos](knowledge/links.md) that I have watched. Also [Computer Science YouTube Videos](computer-science/links.md) that I have watched since keeping yourself updated with the field is a must.
-- [My Experiences](about-me/experience) over the years and [Social links](about-me/social-links) to connect with me
+- [My Experiences](about-me/experience) over the years, [Meetups / Talks](about-me/meetups-talks.md) I presented, and [Social links](about-me/social-links) to connect with me
 
 ## Donate
 

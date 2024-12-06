@@ -20,3 +20,7 @@ A good solutions architect looks at the existing environment and analyzes what t
 https://www.coursera.org/articles/solutions-architect
 
 ![Architect Roadmap](../../media/Pasted%20image%2020240905012811.jpg)
+
+## Others
+
+- MSAT - Manufacturing Science and Technology

@@ -37,6 +37,9 @@ The future of decentralized finance lies in the hands of those who dare to chall
 - [Gauntlet](https://gauntlet.network/)
 - [Webacy](https://www.webacy.com/)
 - [Sentio](https://www.sentio.xyz/)
+- [Enabling all companies to build fintech solutions](https://plaid.com/)
+- [Payments built to scale with your business | Finix](https://finix.com/)
+- [ACH Processing Solutions. eCheck and ACH Processing for Your Business • ACH & eCheck Processing with ACHQ](https://achq.com/)
 
 #### Platforms
 

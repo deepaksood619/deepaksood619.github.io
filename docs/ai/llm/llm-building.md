@@ -149,6 +149,10 @@ No matter what AI framework you pick, I always recommend using a robust data pla
 
 [Understanding LlamaIndex in 9 Minutes! - YouTube](https://www.youtube.com/watch?v=lOic_3bcxT8)
 
+#### LangGraph
+
+[Build Agentic Workflows Using LangGraph! - YouTube](https://www.youtube.com/watch?v=QblpBsipCwM)
+
 ### Ollama / LM Studio
 
 The easiest way to get up and running with large language models locally.
