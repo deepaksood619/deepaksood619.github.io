@@ -61,6 +61,6 @@ https://www.youtube.com/watch?v=bqa0kB59SUc
 - [Atlan](https://atlan.com/) (Enterprise Data Catalogs for DataOps)
     - The Leading Third-Gen Data Catalog
     - [Active Metadata Management with Atlan | Quick Demo - YouTube](https://www.youtube.com/watch?v=u47N6I3trNY)
-- [Databricks](technologies/databricks/readme.md)
-- [Snowflake](databases/nosql-databases/snowflake/readme.md)
+- [Databricks](databases/data-warehouses/databricks/readme.md)
+- [Snowflake](databases/data-warehouses/snowflake/readme.md)
 - Informatica

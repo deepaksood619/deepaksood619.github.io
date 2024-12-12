@@ -24,6 +24,9 @@
 - [POP: On-Page SEO & Content Optimization Tool Suite](https://www.pageoptimizer.pro/)
 - [Ahrefs—Marketing Intelligence Tools Powered by Big Data.](https://ahrefs.com/)
 - [Siteliner - Find Duplicate Content on your site](https://www.siteliner.com/)
+- [CrUX Vis](https://cruxvis.withgoogle.com/)
+	- [Google's New CrUX Vis Tool: Explore Core Web Vitals Data | DebugBear](https://www.debugbear.com/blog/google-crux-vis)
+- [mPulse — Real User Performance Monitoring and Real-Time Analytics | Akamai](https://www.akamai.com/products/mpulse-real-user-monitoring)
 
 ## Tools
 

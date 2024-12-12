@@ -14,6 +14,13 @@ SELECT @@performance_schema_max_digest_length;
 SET @@performance_schema_max_digest_length = 10240;
 -- need restart of RDS database
 
+-- update performance_schema table stats
+-- Enable
+UPDATE performance_schema.setup_instruments SET ENABLED = 'YES', TIMED = 'YES' WHERE NAME LIKE 'statement/%';
+
+-- Disable
+UPDATE performance_schema.setup_instruments SET ENABLED = 'NO', TIMED = 'NO' WHERE NAME LIKE 'statement/%';
+
 -- RDS
 SELECT @@global.transaction_ISOLATION;
 SELECT @@transaction_ISOLATION;

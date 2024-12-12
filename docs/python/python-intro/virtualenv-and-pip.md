@@ -129,13 +129,23 @@ conda install --use-local psycopg2-binary
 Install and Run Python Applications in Isolated Environments
 
 ```bash
+# run both the commands to below
 brew install pipx
-pipx ensurepath
+pipx ensurepath # Ensure directory where pipx stores apps is in your PATH environment variable
+
+sudo pipx ensurepath --global # optional to allow pipx actions with --global argument
+
+# https://fig.io/manual/pipx/ensurepath
+
 
 pipx completions
 ```
 
 [pipx](https://pypa.github.io/pipx/)
+
+[GitHub - pypa/pipx: Install and Run Python Applications in Isolated Environments](https://github.com/pypa/pipx)
+
+[Installation - pipx](https://pipx.pypa.io/stable/installation/)
 
 ## References
 

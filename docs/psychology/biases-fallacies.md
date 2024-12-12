@@ -400,7 +400,8 @@ And that misconception is called the broken window fallacy.
 
 - Ad Hominem
 - Hasty Generalization
-- Red Herring
+- Red Herring - a clue or piece of information that is, or is intended to be, misleading or distracting
+	- red herring something that distracts attention from the main issue, diversion
 - Tu QuoQue
 - Slippery Slope
 - Special Pleading

@@ -75,7 +75,7 @@ The factors that play a significant role in determining crawl demand are:
 
 - **Perceived inventory:** Without guidance from you, Googlebot will try to crawl all or most of the URLs that it knows about on your site. If many of these URLs are duplicates, or you don't want them crawled for some other reason (removed, unimportant, and so on), this wastes a lot of Google crawling time on your site. This is the factor that you can positively control the most.
 - **Popularity:** URLs that are more popular on the Internet tend to be crawled more often to keep them fresher in our index.
-- **Staleness:** Our systems want to recrawl documents frequently enough to pick up any changes.
+- **Staleness:** Our systems want to re-crawl documents frequently enough to pick up any changes.
 
 Additionally, site-wide events like site moves may trigger an increase in crawl demand in order to reindex the content under the new URLs.
 

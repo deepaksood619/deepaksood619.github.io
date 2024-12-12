@@ -33,6 +33,7 @@
     - [Amazon S3](storage/amazon-s3)
     - [Amazon S3 Storage Classes](cloud/aws/storage/amazon-s3-storage-classes.md)
     - [Amazon S3 Pricing](cloud/aws/storage/amazon-s3-pricing.md)
+    - [Amazon S3 Tables](cloud/aws/storage/amazon-s3-tables.md)
     - [Amazon EBS](storage/amazon-ebs)
     - [Amazon EFS](cloud/aws/storage/amazon-efs.md)
     - [IOPS](cloud/aws/storage/iops.md)

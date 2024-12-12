@@ -35,7 +35,7 @@ Some transformations in IICS include:
 
 ### Links
 
-- [Master Data Management (MDM)](databases/data-warehousing/master-data-management-mdm.md)
+- [Master Data Management (MDM)](databases/data-warehouses/concepts/master-data-management-mdm.md)
 - [How Informatica Cloud Data Governance and Catalog uses Amazon Neptune for knowledge graphs | AWS Database Blog](https://aws.amazon.com/blogs/database/how-informatica-cloud-data-governance-and-catalog-uses-amazon-neptune-for-knowledge-graphs/)
 
 ## DVC
@@ -62,11 +62,11 @@ Analytics engineering is the data transformation work that happens between loadi
 
 With dbt, data teams work directly within the warehouse to produce trusted datasets for reporting, ML modeling, and operational workflows.
 
-![DBT Platform](../../media/Pasted%20image%2020230308224022.png)
+![DBT Platform](media/Pasted%20image%2020230308224022.png)
 
 dbt is a SQL-first transformation workflow that lets teams quickly and collaboratively deploy analytics code following software engineering best practices like modularity, portability, CI/CD, and documentation. Now anyone on the data team can safely contribute to production-grade data pipelines.
 
-![image](../../media/Pasted%20image%2020230308224127.png)
+![image](media/Pasted%20image%2020230308224127.png)
 
 - https://www.getdbt.com
 - [What is dbt?](https://www.getdbt.com/product/what-is-dbt/)
@@ -118,3 +118,4 @@ To support CDC, Airbyte uses [Debezium](https://debezium.io/) internally.
 ## Others
 
 - [The Data Platform for Cloud & AI | WEKA - WEKA](https://www.weka.io/)
+- [Tinybird · The Way to build Real-time Data Products](https://www.tinybird.co/)

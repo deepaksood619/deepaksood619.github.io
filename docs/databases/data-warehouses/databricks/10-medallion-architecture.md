@@ -4,7 +4,7 @@
 
 A **medallion architecture** is a data design pattern used to logically organize data in a [lakehouse](https://www.databricks.com/glossary/data-lakehouse), with the goal of incrementally and progressively improving the structure and quality of data as it flows through each layer of the architecture (from Bronze ⇒ Silver ⇒ Gold layer tables). Medallion architectures are sometimes also referred to as "**multi-hop**" architectures.
 
-![Building Reliable, Performant Data Pipelines with Delta Lake](../../media/Pasted%20image%2020230307111403.png)
+![Building Reliable, Performant Data Pipelines with Delta Lake](media/Pasted%20image%2020230307111403.png)
 
 ## Benefits of a lakehouse architecture
 
@@ -18,7 +18,7 @@ A **medallion architecture** is a data design pattern used to logically organize
 
 A [**lakehouse**](https://www.databricks.com/product/data-lakehouse) is a new data platform architecture paradigm that combines the best features of data lakes and data warehouses. A modern lakehouse is a highly scalable and performant data platform hosting both raw and prepared data sets for quick business consumption and to drive advanced business insights and decisions. It breaks data silos and allows seamless, secure data access to authorized users across the enterprise on one platform.
 
-![Databricks Lakehouse Platform Architecture](../../media/Pasted%20image%2020230307111436.png)
+![Databricks Lakehouse Platform Architecture](media/Pasted%20image%2020230307111436.png)
 
 ### Bronze layer (raw data)
 

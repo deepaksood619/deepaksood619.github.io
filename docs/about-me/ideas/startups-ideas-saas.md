@@ -53,37 +53,39 @@ LLM that can finish your sentences, can read your minds, real time conversation
 
 [Introducing the eighth cohort of Google for Startups Accelerator: India](https://blog.google/intl/en-in/introducing-the-eighth-cohort-of-google-for-startups-accelerator-india/)
 
-### Economics of Data Business
+### AI Content Generation
+
+Startup Idea - Hindi book summaries - Audio - Content - make something for Indian consumer (there is a lot of opportunity in Indian Audience)
+
+Book summaries with Hindi/English content - GitHub domain for now
+[github.io](http://github.io/) book summaries
+Can we have multiple [GitHub.io](http://github.io/) pages
+Multiple languages
+Only 5-10 key points in a book
+Generate 1,00,000 book summaries
+
+Can we use astro instead of docusaurus
+
+## Economics of Data Business
 
 https://pivotal.substack.com/p/economics-of-data-biz
 
 ![image](../../media/Ideas-Startups-Ideas-SAAS-image1.jpg)
 
-Geospatial data startup
+- Geospatial data startup
+- Microfinance
+- **Free Open Source Ticketing + Chat system (hosted)**
+- **Free Open Source JIRA/Asana (hosted)**
+- Living as a service (Apartment swapping networks)
+- Child as a service
+- Flight as a service
+- Food as a service
+- Raising children roadmaps (step by step, day by day)
+- Teaching as a service (pedagogy)
+- Entertainment as a service
+- Vacation as a service
 
-Microfinance
-
-**Free Open Source Ticketing + Chat system (hosted)**
-
-**Free Open Source JIRA/Asana (hosted)**
-
-Living as a service (Apartment swapping networks)
-
-Child as a service
-
-Flight as a service
-
-Food as a service
-
-Raising children roadmaps (step by step, day by day)
-
-Teaching as a service (pedagogy)
-
-Entertainment as a service
-
-Vacation as a service
-
-### Online coding tool + Environment
+## Online coding tool + Environment
 
 - Just go to a repository and start coding
 - All tools are already there with lint checks and code formatting tools all in browser (mobile friendly)
@@ -93,12 +95,12 @@ Vacation as a service
 - Fine grained control over all repositories/files/docs in browsers direcly
 - Code testing / commiting / backup everything direcly in browser
 
-### Free Coding test taking platform (Think exam but free)
+## Free Coding test taking platform (Think exam but free)
 
 - Use AI to create exam and questions
 - Deterministic
 
-### Ecommerce for small businesses
+## Ecommerce for small businesses
 
 - Mobile product scanner
 - Any business can be online just by capturing photos of product

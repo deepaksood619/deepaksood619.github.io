@@ -49,6 +49,9 @@ INSERT INTO table_name (column_1, column_2, column_3) VALUES (value_1, 'value_2'
 INSERT statements are used to add a new row to a table.
 
 INSERT INTO cron_migrate_data (`table_name`, `start_date`, `end_date`, `s3_file_path`) VALUES ('equifax_raw_response', '2019-10-01 00:00:00', '2019-10-31 23:59:59', 's3-ap-south-1://stashfin-migration-data/rds/');
+
+-- copy whole table to new table
+INSERT INTO table_name_backup SELECT * FROM table_name;
 ```
 
 ### Bulk Insert / Extended Inserts

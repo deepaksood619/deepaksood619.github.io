@@ -2,6 +2,7 @@
 
 ```yaml
 version: "3.7"
+# the version attribute is obsolete and no longer required
 services:
  zenalytix-build:
   build:

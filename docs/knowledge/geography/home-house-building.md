@@ -27,6 +27,7 @@ https://www.youtube.com/watch?v=dy81ldYQdgY
 - [P R Sundar's Luxury Penthouse Tour!](https://www.youtube.com/watch?v=Y52kD7RIIuY)
 - [VITAAN : Luxury in the lap of nature… #allaboutarchitecture - YouTube](https://www.youtube.com/watch?v=Sw5tO6QQACI&ab_channel=ALLABOUTARCHITECTURE)
 - [Luxury Penthouse For Sale 5000Sqft Tripple Story On #Airport Road Mohali Lowest Price in #Mohali - YouTube](https://www.youtube.com/watch?v=vhCNDOULPwE&ab_channel=LiveSiteVisit)
+- $200,000 - 1.7 cr whole villa in bali
 
 ## Passive House
 

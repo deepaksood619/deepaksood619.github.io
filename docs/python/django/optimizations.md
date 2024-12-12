@@ -195,4 +195,5 @@ Efficient querying in Django involves:
 
 ## Links
 
-[ChatGPT - Exclude Columns Django Queryset](https://chatgpt.com/share/673ee089-3d00-8005-b0ed-43473870060f)
+- [ChatGPT - Exclude Columns Django Queryset](https://chatgpt.com/share/673ee089-3d00-8005-b0ed-43473870060f)
+- [ChatGPT - Optimizing Pagination in Django](https://chatgpt.com/share/674993dd-dd8c-8005-b0b0-b6ebc4a8d460)

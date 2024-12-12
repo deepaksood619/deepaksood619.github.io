@@ -1,4 +1,4 @@
-# Meetups / Talks
+# Meetups / Talks / Sessions
 
 ### Kong in Action: Simplifying API Management for Modern Applications - Kong (14 December 2024)
 
@@ -15,10 +15,17 @@ Introduction to Kong as an API gateway, key features, and benefits.
 Deepak Sood is a Senior AI, Data, and DevOps Architect with over 8 years of experience in designing, deploying, and optimizing scalable tech infrastructures. Specializing in DevOps, he has deep expertise in CI/CD pipelines, Kubernetes orchestration, and cloud platforms like AWS and Azure. His work includes automating deployments, implementing microservices, and ensuring infrastructure reliability through tools like Prometheus, Grafana, and Elasticsearch.
 
 - [Simplifying API Management for modern Application , Sat, Dec 14, 2024, 11:00 AM | Meetup](https://www.meetup.com/kong-delhi/events/304930016/?slug=kong-delhi&eventId=304930016)
+- [Deepak Sood on LinkedIn: #kongmeetup #apimanagement #techtalks #networking #delhitechcommunity](https://www.linkedin.com/feed/update/urn:li:share:7272973093516582912/)
+- [Kong](devops/others/kong.md)
+- [\[Meetup\] Mastering APIOps:From spec to portal with kong's Tools & Best Practices, Sat, Dec 7, 2024, 10:30 AM | Meetup](https://www.meetup.com/kong-bengaluru/events/302975712/)
 
-### Interview Study Schedule - Unsaid Talks (07 December 2024)
+### Interview Study Schedule - Unsaid Talks - Manav Rachna International Institute of Research & Studies (07 December 2024)
 
 - Presentation - [Feedback, Doubts (DS/SQL) & Interview Study Schedule Discussion](https://docs.google.com/presentation/d/1hJvmlCAyP2TFq127pgWvqO1beXhqylB7I2hxzgHB180/edit?usp=sharing)
+- Dr. Tapas Kumar - Associate Dean FET & Professor
+- Dr Divyanshu Sinha - Lecturer, Professor
+
+[Deepak Sood on LinkedIn: #techinterviews #careerguidance #placements #mriirs #unsaidtalks](https://www.linkedin.com/posts/deepaksood619_techinterviews-careerguidance-placements-activity-7271245841871306753-QC8H)
 
 ![about the mentor](../media/Screenshot%202024-12-06%20at%203.04.44%20PM.jpg)
 
@@ -26,6 +33,8 @@ Deepak Sood is a Senior AI, Data, and DevOps Architect with over 8 years of expe
 
 - Presentation - [Data Structures for Interviews!](https://docs.google.com/presentation/d/1ISahc8FaxUfgjHESCnYCkH3Td0MZvHKupJGx6O7p90w/edit?usp=sharing)
 - Codes Notebook - Jupyter - Google Colab - [Session 13: Data Structures for Interviews!.ipynb - Colab](https://colab.research.google.com/drive/1Skn6Y3hHue0b9p9etHynRZ7x-iBY1xpP?usp=sharing)
+- bit.ly/unsaid-session-14
+- [Session 2- Resource & Tasks - Cracking SDE - Big Tech](https://docs.google.com/document/d/1zL0WGVSkMjSDETfca43GTMCzJVmP40AlewAroIkpx7U/edit?usp=sharing)
 
 ![Data Structures for Interview - UnsaidTalks](../media/WhatsApp%20Image%202024-11-30%20at%2009.18.59.jpeg)
 
@@ -98,6 +107,8 @@ Deepak Sood is a Senior AI, Data, and DevOps Architect with over 8 years of expe
 [Deepak Sood on LinkedIn: #dataengineering #apachekafka #confluentcloud #realtimedata…](https://www.linkedin.com/posts/deepaksood619_theres-still-time-to-join-us-in-november-activity-7264225882469208064-xl9V)
 
 [Buildpiper - By Opstree on LinkedIn: Apache Kafka x OpsTree](https://www.linkedin.com/posts/buildpiper_apache-kafka-x-opstree-activity-7265250832239992832-p2NJ?utm_source=share&utm_medium=member_desktop)
+
+[Buildpiper - By Opstree on LinkedIn: #buildwithbuildpiper](https://www.linkedin.com/posts/buildpiper_buildwithbuildpiper-activity-7268216427860373504-cza3?utm_source=share&utm_medium=member_desktop)
 
 ### Podcast - Streamlining Cloud Migration Through Data Engineering
 

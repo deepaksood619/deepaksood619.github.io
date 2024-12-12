@@ -10,8 +10,6 @@
 - [AWS DyanamoDB](aws-dynamodb/readme.md)
 - [Time Series DB](time-series-db/readme.md)
 - [YugabyteDB](databases/nosql-databases/yugabytedb.md)
-- [Clickhouse](databases/nosql-databases/clickhouse.md)
-- [Snowflake](databases/nosql-databases/snowflake/readme.md)
 - [tidb](databases/nosql-databases/tidb.md)
 - [Comparisions](databases/nosql-databases/comparisions.md)
 

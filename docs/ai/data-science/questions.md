@@ -145,12 +145,33 @@ SELECT marks FROM (SELECT marks FROM student ORDER BY marks DESC LIMIT 2) AS Std
 SELECT max(marks) FROM student WHERE marks < SELECT max(marks) FROM student;
 
 -- working
-select name,sal from emp where sal = (select max(sal) from emp where sal < (select max(sal) from emp));
+SELECT NAME,
+       sal
+FROM   emp
+WHERE  sal = (SELECT Max(sal)
+              FROM   emp
+              WHERE  sal < (SELECT Max(sal)
+                            FROM   emp));
 
 -- using window function
-with cte (
-select ROW_NUMBER() over(order by sal desc)rnum ,name,sal from emp )
-select * from cte where rnum = 2
+SELECT *
+FROM   a
+WHERE  rnum = 2
+       (
+                SELECT   row_number() OVER(ORDER BY sal DESC)rnum ,
+                         NAME,
+                         sal
+                FROM     emp )a
+
+-- using window function with CTE
+WITH cte
+(
+         SELECT   row_number() OVER(ORDER BY sal DESC)rnum ,
+                  NAME,
+                  sal
+         FROM     emp )SELECT *
+FROM   cte
+WHERE  rnum = 2
 
 select * from
   ( select sal

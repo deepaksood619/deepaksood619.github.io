@@ -1,4 +1,4 @@
-# DW - Databases
+# List of Data Warehouses
 
 1. SnowFlake
 2. Clickhouse
@@ -11,7 +11,7 @@
 9. MemSQL
 10. Presto
 11. FireBolt
-12. [Databricks](technologies/databricks/readme.md)
+12. [Databricks](databases/data-warehouses/databricks/readme.md)
 
 ## Firebolt
 

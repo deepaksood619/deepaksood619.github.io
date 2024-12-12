@@ -1,5 +1,13 @@
 # Commands / Tools
 
+## Configurations
+
+- [The Many Problems with Celery | Log Blog Kebab](https://steve.dignam.xyz/2023/05/20/many-problems-with-celery/)
+- [Celery in Production: Three more years of fixing bugs](https://ayushshanker.com/posts/celery-in-production-bugfixes)
+- [Eliminating Task Processing Outages by Replacing RabbitMQ with Apache Kafka Without Downtime - DoorDash](https://careersatdoordash.com/blog/eliminating-task-processing-outages-with-kafka/)
+
+## Commands
+
 ```bash
 celery -A tasks worker --loglevel=INFO
 celery worker --help
@@ -134,3 +142,7 @@ https://flower.readthedocs.io/en/latest
 Jobtastic is a python library that adds useful features to your Celery tasks. Specifically, these are features you probably want if the results of your jobs are expensive or if your users need to wait while they compute their results.
 
 http://policystat.github.io/jobtastic
+
+## Links
+
+- [Celery Task Decorators Perameters](https://dnisha.github.io/mynotes/Streaming-technology/Celery/Celery-Task-Decorators-Perameters)

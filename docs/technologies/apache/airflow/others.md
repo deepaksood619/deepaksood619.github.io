@@ -142,6 +142,26 @@ The concepts, components, and features of the platform are described in detail a
 
 [The Airflow alternative worth checking out: Mage.ai - YouTube](https://www.youtube.com/watch?v=3gXsFEC3aYA)
 
+## Flyte
+
+Build & deploy data & ML pipelines, hassle-free
+
+The infinitely scalable and flexible workflow orchestration platform that seamlessly unifies data, ML and analytics stacks.
+
+Flyte is an open-source orchestrator that facilitates building production-grade data and ML pipelines. It is built for scalability and reproducibility, leveraging Kubernetes as its underlying platform. With Flyte, user teams can construct pipelines using the Python SDK, and seamlessly deploy them on both cloud and on-premises environments, enabling distributed processing and efficient resource utilization.
+
+[Build production-grade data and ML workflows, hassle-free with Flyte](https://flyte.org/)
+
+[GitHub - flyteorg/flyte: Scalable and flexible workflow orchestration platform that seamlessly unifies data, ML and analytics stacks.](https://github.com/flyteorg/flyte)
+
+### Flyte vs Airflow
+
+Flyte simplifies building data and ML workflows with its user-friendly SDK. It also supports flexible scaling with minimal infrastructure costs and effort. In contrast, Airflow does not offer an infrastructure-oriented setup, which means more effort to manage the platform. Designed for teams who want more productivity, Flyte helps you easily organize and manage your workflows from the start.
+
+[Airflow Alternate • Flyte vs. Airflow](https://flyte.org/airflow-alternative)
+
+[Orchestrating Data Pipelines at Lyft: comparing Flyte and Airflow | by Constantine Slisenka | Lyft Engineering](https://eng.lyft.com/orchestrating-data-pipelines-at-lyft-comparing-flyte-and-airflow-72c40d143aad)
+
 ## Others
 
 [GitHub - alseambusher/crontab-ui: Easy and safe way to manage your crontab file](https://github.com/alseambusher/crontab-ui)

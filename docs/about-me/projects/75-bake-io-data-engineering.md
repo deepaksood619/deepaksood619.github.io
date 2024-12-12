@@ -6,9 +6,9 @@
 
 ## Links to internal knowledge base during the project duration
 
-- [Databricks](technologies/databricks/readme.md)
+- [Databricks](databases/data-warehouses/databricks/readme.md)
 - [Delta Lake](networking/others/delta-lake.md)
-- [Medallion Architecture](technologies/databricks/10-medallion-architecture.md)
-- [Data Warehousing](databases/data-warehousing/readme.md)
-- [Warehousing Schemas](databases/data-warehousing/07-warehouse-schemas.md)
+- [Medallion Architecture](databases/data-warehouses/databricks/10-medallion-architecture.md)
+- [Data Warehousing](databases/data-warehouses/concepts/readme.md)
+- [Warehousing Schemas](databases/data-warehouses/concepts/07-warehouse-schemas.md)
 - [SQL](languages/sql/readme.md)

@@ -1,11 +1,11 @@
 # Databases
 
-- [Concepts](concepts/readme.md)
+- [Concepts](databases/concepts/readme.md)
 - [Indexing](indexing/readme.md)
 - [Modeling](modeling/readme.md)
 - [SQL Databases](sql-databases/readme.md)
 - [NoSQL Databases](nosql-databases/readme.md)
-- [Data Warehousing](data-warehousing/readme.md)
+- [Data Warehouses](databases/data-warehouses/readme.md)
 - [Others](others/readme.md)
 - Cloud DBs
     - [Amazon Aurora](databases/sql-databases/aws-aurora/readme.md)

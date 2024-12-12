@@ -97,6 +97,8 @@ https://medium.com/terminusdb/graph-fundamentals-part-1-rdf-60dcf8d0c459
 	- Use cases - [Graph Data Science for Fraud Detection & Analytics | Neo4j](https://neo4j.com/use-cases/fraud-detection/)
 	- [Graph Database Use Cases & Solutions](https://neo4j.com/use-cases/)
 	- [Generative AI - Ground LLMs with Knowledge Graphs](https://neo4j.com/generativeai/)
+	- [Analyzing the Panama Papers with Neo4j: Data Models, Queries & More](https://neo4j.com/blog/analyzing-panama-papers-neo4j/)
+	- [GraphRAG: Unlocking LLM discovery on narrative private data - Microsoft Research](https://www.microsoft.com/en-us/research/blog/graphrag-unlocking-llm-discovery-on-narrative-private-data/)
 - [neo4j-gremlin-bolt](https://github.com/SteelBridgeLabs/neo4j-gremlin-bolt)- OLTP graph database (using Bolt Protocol).
 - [OrientDB](https://github.com/orientechnologies/orientdb-gremlin)- OLTP graph database
 - [Apache S2Graph](https://s2graph.apache.org/)- OLTP graph database running on Apache HBase.

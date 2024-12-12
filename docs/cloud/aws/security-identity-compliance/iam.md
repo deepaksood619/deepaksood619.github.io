@@ -119,6 +119,55 @@ An inline policy is a policy that's embedded in an IAM identity (a user, group, 
 
 https://docs.aws.amazon.com/IAM/latest/UserGuide/access_policies_managed-vs-inline.html
 
+### Example Policies
+
+All certain users to access specific bucket path only
+
+```json
+{
+    "Version": "2012-10-17",
+    "Id": "allowAccessToBucketPath",
+    "Statement": [
+        {
+            "Sid": "",
+            "Effect": "Allow",
+            "Principal": {
+                "AWS": [
+                    "arn:aws:iam::123456789012:user/user1",
+                    "arn:aws:iam::123456789012:user/user2"
+                ]
+            },
+            "Action": [
+                "s3:PutObject",
+                "s3:List*",
+                "s3:Get*"
+            ],
+            "Resource": [
+                "arn:aws:s3:::my-bucket-name/path/*",
+                "arn:aws:s3:::my-bucket-name/path"
+            ]
+        },
+        {
+            "Sid": "",
+            "Effect": "Allow",
+            "Principal": {
+                "AWS": [
+                    "arn:aws:iam::123456789012:user/user1",
+                    "arn:aws:iam::123456789012:user/user2"
+                ]
+            },
+            "Action": "s3:ListBucket",
+            "Resource": "arn:aws:s3:::my-bucket-name",
+            "Condition": {
+                "StringLike": {
+                    "s3:prefix": "path/*"
+                }
+            }
+        }
+    ]
+}
+```
+
 ## IAM Roles
 
 An IAMroleis an IAM identity that you can create in your account that has specific permissions. An IAM role is similar to an IAM user, in that it is an AWS identity with permission policies that determine what the identity can and cannot do in AWS. However, instead of being uniquely associated with one person, a role is intended to be assumable by anyone who needs it. Also, a role does not have standard long-term credentials such as a password or access keys associated with it. Instead, when you assume a role, it provides you with temporary security credentials for your role session.

@@ -119,18 +119,23 @@ pytest has some other great features:
 ```bash
   pip install pytest
   pytest
+
   python -m pytest tests
   python -m pytest . #directory
   pytest src/tests/test_sms.py -k 'test_sms_score' #run specific test in specific file
+
   pytest --doctest-modules
   pytest --durations=3
    It’s important to keep the execution time of the tests low so that it doesn’t feel bad to execute the test suite. I like to print the time of the 3 slowest tests which were performed.
   pytest --junitxml=test-reports/junit.xml --html=test-reports/pytest_report.html --self-contained-html
 
-  def func(x):
+```
+
+```python
+def func(x):
    return x + 1
 
-  def test_answer():
+def test_answer():
    assert func(3) == 4
 
    assert response.status_code == 200

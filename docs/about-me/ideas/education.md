@@ -268,6 +268,10 @@ Just add a module of UPSC in khan academy. It has everything.
 
 [These Countries Have a Well-Developed Public Education System | U.S. News](https://www.usnews.com/news/best-countries/rankings/well-developed-public-education-system)
 
+### Indian Education System
+
+![total-spend-on-research](../../media/Screenshot%202024-12-12%20at%204.37.15%20PM.jpg)
+
 ## Links
 
 - [He's helped THOUSANDS of people learn to code \[Leon Noel of #100devs on freeCodeCamp Podcast #117\] - YouTube](https://www.youtube.com/watch?v=KYAakLooVuE&ab_channel=freeCodeCamp.org)

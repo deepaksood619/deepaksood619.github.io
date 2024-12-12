@@ -107,6 +107,7 @@
 - [aiPDF - Your AI-Powered PDF Chat App](https://aipdf.ai/)
 - [Knorish Flow AI - Knorish](https://knorish.com/knorish-flow-ai.html)
 	- Clone yourself with AI using your content. Coach and mentor your audience 24/7 with an AI digital version of yourself, offering expert advice and insights.
+- [Study.lol/](http://study.lol/) - Youtube.com summarizer
 
 ![ai-tools](../../media/image.png)
 

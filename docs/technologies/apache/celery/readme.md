@@ -153,3 +153,4 @@ Full journey for a single request is:
 - [task-aware celery worker autoscaling (+ \`pod-deletion-cost\`) · Issue #339 · airflow-helm/charts · GitHub](https://github.com/airflow-helm/charts/issues/339)
 - [Asynchronous Tasks With Django and Celery – Real Python](https://realpython.com/asynchronous-tasks-with-django-and-celery/)
 - [Celery Integration With Django - GeeksforGeeks](https://www.geeksforgeeks.org/celery-integration-with-django/)
+- [Docker compose with Django 4, Celery, Redis and Postgres | React and Django Tutorial](https://saasitive.com/tutorial/django-celery-redis-postgres-docker-compose/)

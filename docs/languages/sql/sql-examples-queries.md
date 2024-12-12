@@ -8,6 +8,24 @@
 
 ```sql
 SELECT
+    TABLE_SCHEMA AS 'Schema',
+    TABLE_NAME AS 'Table',
+    ROUND(SUM(INDEX_LENGTH) / 1024 / 1024, 2) AS 'Index Size (MB)',
+    ROUND(SUM(DATA_LENGTH) / 1024 / 1024, 2) AS 'Data Size (MB)',
+    ROUND((SUM(INDEX_LENGTH) + SUM(DATA_LENGTH)) / 1024 / 1024 / 1024, 2) AS 'Total Size (GB)',
+    ROUND((SUM(INDEX_LENGTH) + SUM(DATA_LENGTH)) / 1024 / 1024, 2) AS 'Total Size (MB)',
+    SUM(TABLE_ROWS) AS 'Number of Rows'
+FROM
+    information_schema.TABLES
+WHERE
+    TABLE_TYPE = 'BASE TABLE' -- Exclude views
+GROUP BY
+    TABLE_SCHEMA, TABLE_NAME
+ORDER BY
+    `Total Size (GB)` DESC limit 100000; -- Optional: Order by total size
+
+
+SELECT
   table_schema,
   table_name,
   ROUND((DATA_LENGTH) / 1024 / 1024 / 1024, 2) AS `Data Size (GB)`,

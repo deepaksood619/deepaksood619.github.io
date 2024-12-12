@@ -23,7 +23,7 @@ It consists of the Top, Middle and Bottom Tier.
 
 ## Architecture Components
 
-![image](../../media/Data-Warehousing_Architecture-image1.jpg)
+![image](media/Data-Warehousing_Architecture-image1.jpg)
 
 ## Data Warehouse Tech Stack
 

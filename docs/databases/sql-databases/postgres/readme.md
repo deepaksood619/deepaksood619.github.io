@@ -126,6 +126,12 @@ https://www.postgresql.org/docs/current/storage.html
 
 ## Advanced
 
+1. Transaction Wraparound Problem
+2. Transaction ID Freezing
+3. Integration of Freezing Logic in VACUUM
+4. Aggressive Freezing vs. Lazy Freezing
+5. Multi-page Freezing and Freeze Map Maintenance
+
 Low level working - https://erthalion.info/2019/12/06/postgresql-stay-curious
 
 Locking Tuples internals - https://github.com/postgres/postgres/blob/master/src/backend/access/heap/README.tuplock

@@ -23,6 +23,8 @@
 - [GitHub - themefisher/northendlab-light-astro: Northendlab is a highly customizable Astro theme designed specifically personal blog.](https://github.com/themefisher/northendlab-light-astro)
 - Paid - [Andromeda - Astro landing page](https://themefisher.com/products/andromeda-astro)
 - [Themes | Astro](https://astro.build/themes/)
+- [Starlight 🌟 Build documentation sites with Astro](https://starlight.astro.build/)
+	- [Starlight vs. Docusaurus for building documentation - LogRocket Blog](https://blog.logrocket.com/starlight-vs-docusaurus-building-documentation/)
 
 ### Commands
 
@@ -52,6 +54,8 @@ pnpm astro --help
 - [Astro Web Framework Crash Course - YouTube](https://www.youtube.com/watch?v=e-hTm5VmofI&t=83s&ab_channel=freeCodeCamp.org)
 - [Astro for Impatient Devs - YouTube](https://www.youtube.com/watch?v=Rx6Al347_AY&ab_channel=IsaacHarris-Holt)
 - [The Future of Astro is... - YouTube](https://www.youtube.com/watch?v=AaCMvEXM-HQ&ab_channel=Astro)
+- [New site, who dis? • Paul Armstrong](https://paularmstrong.dev/blog/2022/10/12/new-site-who-dis/)
+- [Migrating from Docusaurus | Docs](https://docs.astro.build/en/guides/migrate-to-astro/from-docusaurus/)
 
 ## HUGO
 
@@ -79,6 +83,7 @@ Transform your plain text into static websites and blogs
 ## Other Static Site Generators / Documentation Generators
 
 - [Docusaurus](frontend/others/docusaurus.md)
+- Startlight - Astro
 - [Gatsby](gatsby) (React) and Gridsome (Vue)
 - [Backstage](devops/others/backstage.md)
 - https://www.mkdocs.org
@@ -94,6 +99,14 @@ Transform your plain text into static websites and blogs
 - Sphinx
 - doxygen
 - Others - Company Knowledge Base - [obsidian](devops/ides/obsidian.md)
+- [Home | VuePress](https://vuepress.vuejs.org/)
+- Paid - [ReadMe](https://readme.com/)
+
+### Comparision
+
+- [astro vs docusaurus vs strapi vs vuepress | npm trends](https://npmtrends.com/astro-vs-docusaurus-vs-strapi-vs-vuepress)
+- [We rebuilt our docs from scratch. It was worth it.](https://www.tinybird.co/blog-posts/new-docs)
+- [Starlight vs. Docusaurus for building documentation - LogRocket Blog](https://blog.logrocket.com/starlight-vs-docusaurus-building-documentation/)
 
 ## Software documentation
 

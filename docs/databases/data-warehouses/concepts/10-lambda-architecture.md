@@ -4,9 +4,9 @@ Lambda architecture is a [data-processing](https://en.wikipedia.org/wiki/Data_pr
 
 Lambda architecture depends on a data model with an append-only, immutable data source that serves as a system of record.It is intended for ingesting and processing timestamped events that are appended to existing events rather than overwriting them. State is determined from the natural time-based ordering of the data.
 
-![image](../../media/Lambda-Architecture-image1.jpg)
+![image](media/Lambda-Architecture-image1.jpg)
 
-![image](../../media/Lambda-Architecture-image2.jpg)
+![image](media/Lambda-Architecture-image2.jpg)
 
 ## Overview
 

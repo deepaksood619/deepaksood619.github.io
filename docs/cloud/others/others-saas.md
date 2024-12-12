@@ -100,6 +100,9 @@ A warehouse management system is software that helps companies manage and contro
 
 [Google Workspace Email Alias and How to Create One Email for a Group - YouTube](https://www.youtube.com/watch?v=afcWKdPcDGk)
 
+- [Google Workspace Email Alias and How to Create One Email for a Group - YouTube](https://www.youtube.com/watch?v=afcWKdPcDGk&ab_channel=StuffedBox)
+- This video, tell how to reply from alias, instead of primary email
+
 [How To Create Group Emails in Google Workspace (Collaborative Inbox) - YouTube](https://www.youtube.com/watch?v=nMohSImw7eI)
 
 - Collaborative Inbox

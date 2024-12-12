@@ -3,6 +3,8 @@
 ## CREATE TABLE
 
 ```sql
+CREATE TABLE new_table_name LIKE old_table_name;
+
 INT UNSIGNED
 INT(11) ZEROFILL
 
@@ -33,6 +35,9 @@ ALTER TABLE communication_exceptions MODIFY update_date DATETIME NOT NULL DEFAUL
 
 ALTER TABLE table_name ADD column datatype;
 ALTER TABLE table_name ADD COLUMN column_name BOOLEAN;
+
+ALTER TABLE table_name ADD COLUMN createdAt DATETIME DEFAULT CURRENT_TIMESTAMP;
+
 ALTER TABLE st_quickwallet_payment DROP COLUMN payment_notes;
 
 ALTER TABLE table_name MODIFY column_name datatype;
