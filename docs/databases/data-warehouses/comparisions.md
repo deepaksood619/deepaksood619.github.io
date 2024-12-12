@@ -4,16 +4,16 @@
 
 [ClickBench - a Benchmark For Analytical DBMS](https://benchmark.clickhouse.com/)
 
-## Clickhouse vs Snowflake
+## ClickHouse vs Snowflake
 
 ClickHouse is designed for real-time data analytics and exploration at scale. Snowflake is a cloud data warehouse that is well-optimized for executing long-running reports and ad-hoc data analysis. When it comes to real-time analytics, ClickHouse shines with faster queries at a fraction of the cost.
 
-- Cost: ClickHouse is cost-effective. ClickHouse Cloud is 3-5x more cost-effective than Snowflake.
-- Performance: ClickHouse has faster queries. ClickHouse Cloud querying speeds are over 2x faster than Snowflake.
-- Data compression: ClickHouse Cloud results in 38% better data compression than Snowflake.
-- Architecture: ClickHouse uses Shared-Nothing Architecture by default, but also supports Shared-Disk Architecture.
-- Querying: ClickHouse uses SQL for querying, with support for SQL joins.
-- Integration: ClickHouse integrates with some common tools for visual analytics, including Superset, Grafana and Tableau.
+- **Cost:** ClickHouse is cost-effective. ClickHouse Cloud is 3-5x more cost-effective than Snowflake.
+- **Performance:** ClickHouse has faster queries. ClickHouse Cloud querying speeds are over 2x faster than Snowflake.
+- **Data compression:** ClickHouse Cloud results in 38% better data compression than Snowflake.
+- **Architecture:** ClickHouse uses Shared-Nothing Architecture by default, but also supports Shared-Disk Architecture.
+- **Querying:** ClickHouse uses SQL for querying, with support for SQL joins.
+- **Integration:** ClickHouse integrates with some common tools for visual analytics, including Superset, Grafana and Tableau.
 
 ### Links
 
@@ -76,6 +76,8 @@ Choosing between Snowflake and Databricks is like deciding between a swiss army 
 [Snowflake vs Databricks: 5 Key Features Compared](https://www.chaosgenius.io/blog/snowflake-vs-databricks/)
 
 [Databricks vs. Snowflake | Databricks](https://www.databricks.com/databricks-vs-snowflake)
+
+[ChatGPT - Databricks as Data Warehouse](https://chatgpt.com/share/675b1a8a-31e4-8005-b280-c1cd135f704d)
 
 ## Others
 
