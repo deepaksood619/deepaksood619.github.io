@@ -20,7 +20,7 @@ An Action is any RDD operation that does not produce an RDD as an output. Some e
 
 Most of what a lineage graph is was described in the Transformations and Actions sections, but to summarize, a lineage graph outlines what is called a "logical execution plan". What that means is that the compiler begins with the earliest RDDs that aren't dependent on any other RDDs, and follows a logical chain of Transformations until it ends with the RDD that an Action is called on. This feature is primarily what drives Spark's fault tolerance. If a node fails for some reason, all the information about what that node was supposed to be doing is stored in the lineage graph, which can be replicated elsewhere.
 
-![image](../../../media/Technologies-Apache-Terms-image1.jpg)
+![image](../../media/Technologies-Apache-Terms-image1.jpg)
 
 ## Spark Applications and Jobs
 

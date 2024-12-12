@@ -106,7 +106,7 @@
 
 ## State of Data Engineering 2024
 
-![](media/Screenshot%202024-07-15%20at%2012.16.36%20AM.jpg)
+![](../../../media/Screenshot%202024-07-15%20at%2012.16.36%20AM.jpg)
 
 [State of Data Engineering 2024](https://8040338.fs1.hubspotusercontent-na1.net/hubfs/8040338/lakeFS%20State%20of%20Data%20Engineering%202024.pdf)
 

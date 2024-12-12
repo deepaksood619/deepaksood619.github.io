@@ -5,7 +5,7 @@
 - Apache spark is a fast and general-purpose cluster computing system for large scale data processing
 - High-level APIs in Java, Scala, Python and R
 
-![image](../../../media/Technologies-Apache-Spark-Built-in-Libraries-image1.jpg)
+![image](../../media/Technologies-Apache-Spark-Built-in-Libraries-image1.jpg)
 
 ## Standard library for Big Data
 
@@ -28,7 +28,7 @@
 - Build graph using RDDs of nodes and edges
 - Large library of graph algorithms with composable steps
 
-![image](../../../media/Technologies-Apache-Spark-Built-in-Libraries-image2.jpg)
+![image](../../media/Technologies-Apache-Spark-Built-in-Libraries-image2.jpg)
 
 ## GraphX Algorithms
 
@@ -66,7 +66,7 @@
 - Ensure exactly one semantics
 - Integrated with Spark -> unifies batch, interactive, and streaming computations
 
-![image](../../../media/Technologies-Apache-Spark-Built-in-Libraries-image3.jpg)
+![image](../../media/Technologies-Apache-Spark-Built-in-Libraries-image3.jpg)
 
 ## Spark SQL
 

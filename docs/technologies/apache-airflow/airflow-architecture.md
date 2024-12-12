@@ -2,7 +2,7 @@
 
 At its core, Airflow is simply a queuing system built on top of a metadata database. The database stores the state of queued tasks and a scheduler uses these states to prioritize how other tasks are added to the queue. This functionality is orchestrated by four primary components
 
-![image](../../../media/Technologies-Apache-Airflow-Architecture-image2.jpg)
+![image](../../media/Technologies-Apache-Airflow-Architecture-image2.jpg)
 
 ### Metadata Database
 
@@ -96,7 +96,7 @@ Inside [Apache Airflow](https://airflow.apache.org/), tasks are carried out by a
 
 These are the processes that actually execute the logic of tasks, and are determined by the Executor being used.
 
-![image](../../../media/Technologies-Apache-Airflow-Architecture-image1.jpg)
+![image](../../media/Technologies-Apache-Airflow-Architecture-image1.jpg)
 
 Airflow's General Architecture.Airflow's operation is built atop a Metadata Database which stores the state of tasks and workflows (i.e. DAGs). The Scheduler and Executor send tasks to a queue for Worker processes to perform. The Webserver runs (often-times running on the same machine as the Scheduler) and communicates with the database to render task state and Task Execution Logs in the Web UI. Each colored box indicates that each component can exist in isolation from the other components, depending on the type of deployment configuration.
 
@@ -113,7 +113,7 @@ https://airflow.apache.org/docs/apache-airflow/stable/concepts.html
 
 In a single-node architecture all components are on the same node. To use a single node architecture, Airflow has to be configured with the LocalExecutor mode.
 
-![image](../../../media/Technologies-Apache-Airflow-Architecture-image3.jpg)
+![image](../../media/Technologies-Apache-Airflow-Architecture-image3.jpg)
 
 The single-node architecture is widely used by the users in case they have a moderate amount of DAGs. In this mode, the worker pulls tasks to run from an IPC (Inter Process Communication) queue. This mode doesn't any need external dependencies. It scales up well until all resources on the server are used. This solution works pretty well. However, to scale out to multiple servers, the Celery executor mode has to be used. Celery executor uses Celery (and a message-queuing server) to distribute the load on a pool of workers.
 
@@ -121,7 +121,7 @@ The single-node architecture is widely used by the users in case they have a mod
 
 In a multi node architecture daemons are spread in different machines. We decided to colocate the webserver and the scheduler. To use this architecture, Airflow has to be configure with the Celery Executor mode.
 
-![image](../../../media/Technologies-Apache-Airflow-Architecture-image4.jpg)
+![image](../../media/Technologies-Apache-Airflow-Architecture-image4.jpg)
 
 In this mode, a Celery backend has to be set (Redis in our case). Celery is an asynchronous queue based on distributed message passing. Airflow uses it to execute several tasks concurrently on several workers server using multiprocessing. This mode allows to scale up the Airflow cluster really easily by adding new workers.
 

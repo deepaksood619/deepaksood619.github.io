@@ -1,17 +1,17 @@
 # List of Data Warehouses
 
-1. SnowFlake
-2. Clickhouse
-3. AWS Redshift
-4. AWS Athena
-5. Google BigQuery
-6. Elastic
-7. Hadoop
-8. Druid/Impy
-9. MemSQL
-10. Presto
-11. FireBolt
-12. [Databricks](databases/data-warehouses/databricks/readme.md)
+1. [Snowflake](databases/data-warehouses/snowflake/readme.md)
+2. [Databricks](databases/data-warehouses/databricks/readme.md)
+3. [Clickhouse](databases/data-warehouses/clickhouse.md)
+4. [Amazon Redshift](databases/sql-databases/aws-redshift/readme.md)
+5. [Amazon Athena](cloud/aws/analytics/amazon-athena.md)
+6. [GCP BigQuery](cloud/others/gcp-bigquery-big-query.md)
+7. [Elasticsearch](technologies/elasticsearch/readme.md)
+8. [Hadoop](technologies/apache-hadoop/readme.md)
+9. [Druid](databases/nosql-databases/druid/readme.md)
+10. [MemSQL](databases/sql-databases/memsql/readme.md)
+11. [Presto](technologies/others/presto.md)
+12. FireBolt
 
 ## Firebolt
 

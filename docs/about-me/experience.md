@@ -19,6 +19,8 @@ At OpsTree, I spearheaded the creation of a data engineering vertical from the g
 - [Freecharge cost optimization and DBA](about-me/projects/56-freecharge-cost-optimization-dba.md) (Apr'24 - Jun'24)
 - [Careers360 cost optimization](about-me/projects/57-careers360-cost-optimization.md) (May'24 - Sep'24)
 - [Mozark - Cloud Cost Optimization and Performance Enhancement](about-me/projects/53-mozark-cloud-cost-optimization.md) (Jul'24)
+- Careers360 - Backend, Frontend, SEO, Product Overhaul, GenAI - careers.ai (Nov'24 - Present)
+- DealShare - Redshift to BQ Migration, ETL (Nov'24 - Present)
 
 ### Bake.io, Senior Data Engineer (Mar 2023 - Nov 2023)
 
@@ -34,9 +36,7 @@ At OpsTree, I spearheaded the creation of a data engineering vertical from the g
 ### Stashfin, Engineering Lead (September 2020 - Feb 2023)
 
 - Verticals managed - DevOps, Communications, Customer Support
-
 - Scaled the stack from Rs. 100M p.m. disbursals to Rs. 5000M p.m. disbursals
-
 - Managed around 40-60 people over multiples teams across engineering
     - Backend
         - PHP

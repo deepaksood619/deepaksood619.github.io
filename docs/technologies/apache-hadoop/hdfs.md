@@ -64,7 +64,7 @@ Block Size - 128 MB
 
 ## Basic architecture of HDFS
 
-![image](../../../media/Technologies-Apache-HDFS-image1.jpg)
+![image](../../media/Technologies-Apache-HDFS-image1.jpg)
 
 ## HDFS Architecture: Key components
 
@@ -105,7 +105,7 @@ Basically what we are doing is trying to have multiple data nodes, and multiple 
 - Heterogeneous storage and archival storage
     - ARCHIVE, DISK, SSD, RAM_DISK
 
-![image](../../../media/Technologies-Apache-HDFS-image2.jpg)
+![image](../../media/Technologies-Apache-HDFS-image2.jpg)
 
 ## HDFS Performance Measures
 
@@ -117,7 +117,7 @@ Basically what we are doing is trying to have multiple data nodes, and multiple 
 
 - Distributed data on local disks on several nodes
 
-![image](../../../media/Technologies-Apache-HDFS-image3.jpg)
+![image](../../media/Technologies-Apache-HDFS-image3.jpg)
 
 ## HDFS Block Size
 
@@ -130,7 +130,7 @@ Basically what we are doing is trying to have multiple data nodes, and multiple 
 - **NameNode memory usage:** Every block that you create basically every file could be a lot of blocks as we saw in the previous case, 160 blocks. And if you have millions of files that's millions of objects essentially. And for each object, it uses a bit of memory on the NameNode, so that is a direct effect of the number of blocks. But if you have replication, then you have 3 times the number of blocks
 - **Number of map tasks:** Number of maps typically depends on the number of blocks being processed.
 
-![image](../../../media/Technologies-Apache-HDFS-image4.jpg)
+![image](../../media/Technologies-Apache-HDFS-image4.jpg)
 
 ## Large No. of small files: Impact on Name node
 
@@ -152,9 +152,9 @@ Basically what we are doing is trying to have multiple data nodes, and multiple 
 
 ## Read / Write Processes in HDFS
 
-![image](../../../media/Technologies-Apache-HDFS-image5.jpg)
+![image](../../media/Technologies-Apache-HDFS-image5.jpg)
 
-![image](../../../media/Technologies-Apache-HDFS-image6.jpg)
+![image](../../media/Technologies-Apache-HDFS-image6.jpg)
 
 ## HDFS Tuning Parameters
 

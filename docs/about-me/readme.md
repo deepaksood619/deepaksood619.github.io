@@ -5,7 +5,7 @@
 - [Projects](about-me/projects/readme.md)
 - [Paper / Publications / References](paper-publications-references)
 - [Courses / Certifications](courses/readme.md)
-- [Meetups / Talks](about-me/meetups-talks-sessions.md)
+- [Meetups / Talks / Sessions](about-me/meetups-talks-sessions.md)
 - [Achievements / Activities / Awards](achievements-activities-awards)
 - [Social Links](social-links)
 - [FAQs](about-me/faqs.md)

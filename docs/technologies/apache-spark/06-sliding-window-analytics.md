@@ -28,25 +28,25 @@ There are four kinds of temporal windows to choose from
 
 Tumbling window functions are used to segment a data stream into distinct time segments and perform a function against them, such as the example below. The key differentiators of a Tumbling window are that they repeat, do not overlap, and an event cannot belong to more than one tumbling window.
 
-![image](../../../media/Technologies-Apache-Sliding-Window-Analytics-image1.jpg)
+![image](../../media/Technologies-Apache-Sliding-Window-Analytics-image1.jpg)
 
 ### Hopping Windows
 
 Hopping window functions hop forward in time by a fixed period. It may be easy to think of them as Tumbling windows that can overlap, so events can belong to more than one Hopping window result set. To make a Hopping window the same as a Tumbling window, specify the hop size to be the same as the window size.
 
-![image](../../../media/Technologies-Apache-Sliding-Window-Analytics-image2.jpg)
+![image](../../media/Technologies-Apache-Sliding-Window-Analytics-image2.jpg)
 
 ### Sliding Windows
 
 Sliding window functions, unlike Tumbling or Hopping windows, produce an output **only** when an event occurs. Every window will have at least one event and the window continuously moves forward by an € (epsilon). Like hopping windows, events can belong to more than one sliding window.
 
-![image](../../../media/Technologies-Apache-Sliding-Window-Analytics-image3.jpg)
+![image](../../media/Technologies-Apache-Sliding-Window-Analytics-image3.jpg)
 
 ### Session Windows
 
 Session window functions group events that arrive at similar times, filtering out periods of time where there is no data. It has three main parameters: timeout, maximum duration, and partitioning key (optional).
 
-![image](../../../media/Technologies-Apache-Sliding-Window-Analytics-image4.jpg)
+![image](../../media/Technologies-Apache-Sliding-Window-Analytics-image4.jpg)
 
 A session window begins when the first event occurs. If another event occurs within the specified timeout from the last ingested event, then the window extends to include the new event. Otherwise if no events occur within the timeout, then the window is closed at the timeout.
 

@@ -59,7 +59,7 @@ https://www.youtube.com/watch?v=VrsVbuo4ENE
 
 ## Airflow vs Luigi
 
-![image](../../../media/Technologies-Apache-Airflow-image1.jpg)
+![image](../../media/Technologies-Apache-Airflow-image1.jpg)
 
 https://towardsdatascience.com/why-quizlet-chose-apache-airflow-for-executing-data-workflows-3f97d40e9571
 

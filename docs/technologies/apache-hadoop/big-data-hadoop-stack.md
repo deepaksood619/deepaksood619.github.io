@@ -40,9 +40,9 @@
 - **Hadoop YARN:** It is a resource management platform responsible for managing compute resoures in the cluster and using them in order to schedule users and applications
 - **Hadoop MapReduce:** It is a programming model that scales across a lot of different processes
 
-![image](../../../media/Technologies-Apache-Big-Data-Hadoop-Stack-image1.jpg)
+![image](../../media/Technologies-Apache-Big-Data-Hadoop-Stack-image1.jpg)
 
-![image](../../../media/Technologies-Apache-Big-Data-Hadoop-Stack-image2.jpg)
+![image](../../media/Technologies-Apache-Big-Data-Hadoop-Stack-image2.jpg)
 
 ## Hadoop Distributed File System (HDFS)
 
@@ -50,13 +50,13 @@
 - Each node in Hadoop instance typically has a single name node, and a cluster of data nodes that formed this HDFS cluster
 - Each HDFS stores large files, typically in ranges of gigabytes to terabytes, and now petabytes, across multiple machines. And it can achieve reliability by replicating the cross multiple hosts, and therefore does not require any range storage on hosts
 
-![image](../../../media/Technologies-Apache-Big-Data-Hadoop-Stack-image3.jpg)
+![image](../../media/Technologies-Apache-Big-Data-Hadoop-Stack-image3.jpg)
 
-![image](../../../media/Technologies-Apache-Big-Data-Hadoop-Stack-image4.jpg)
+![image](../../media/Technologies-Apache-Big-Data-Hadoop-Stack-image4.jpg)
 
-![image](../../../media/Technologies-Apache-Big-Data-Hadoop-Stack-image5.jpg)
+![image](../../media/Technologies-Apache-Big-Data-Hadoop-Stack-image5.jpg)
 
-![image](../../../media/Technologies-Apache-Big-Data-Hadoop-Stack-image6.jpg)
+![image](../../media/Technologies-Apache-Big-Data-Hadoop-Stack-image6.jpg)
 
 App mstr - Application master
 
@@ -79,21 +79,21 @@ Resource manager and Node manager are client-server architecture
 - Now we can bring in additional programming models, such as graph process or iterative modeling, and now it's possible to process the data in your base. This is especially useful when we talk about machine learning applications
 - Yarn allows multiple access engines, either open source or proprietary, to use Hadoop as a common standard for either batch or interactive processing, and even real time engines that can simultaneous acts as a lot of different data, so you can put streaming kind of applications on top of YARN inside a Hadoop architecture, and seamlessly work and communicate between these environments.
 
-![image](../../../media/Technologies-Apache-Big-Data-Hadoop-Stack-image7.jpg)
+![image](../../media/Technologies-Apache-Big-Data-Hadoop-Stack-image7.jpg)
 
 ## Hadoop Zoo
 
-![image](../../../media/Technologies-Apache-Big-Data-Hadoop-Stack-image8.jpg)
+![image](../../media/Technologies-Apache-Big-Data-Hadoop-Stack-image8.jpg)
 
-![image](../../../media/Technologies-Apache-Big-Data-Hadoop-Stack-image9.jpg)
+![image](../../media/Technologies-Apache-Big-Data-Hadoop-Stack-image9.jpg)
 
-![image](../../../media/Technologies-Apache-Big-Data-Hadoop-Stack-image10.jpg)
+![image](../../media/Technologies-Apache-Big-Data-Hadoop-Stack-image10.jpg)
 
-![image](../../../media/Technologies-Apache-Big-Data-Hadoop-Stack-image11.jpg)
+![image](../../media/Technologies-Apache-Big-Data-Hadoop-Stack-image11.jpg)
 
-![image](../../../media/Technologies-Apache-Big-Data-Hadoop-Stack-image12.jpg)
+![image](../../media/Technologies-Apache-Big-Data-Hadoop-Stack-image12.jpg)
 
-![image](../../../media/Technologies-Apache-Big-Data-Hadoop-Stack-image13.jpg)
+![image](../../media/Technologies-Apache-Big-Data-Hadoop-Stack-image13.jpg)
 
 ## Hadoop Ecosystem Major Components
 

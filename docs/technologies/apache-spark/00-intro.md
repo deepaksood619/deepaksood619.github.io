@@ -8,7 +8,7 @@ Spark supports both Scala & Python. Even though Spark itself is written in Scala
 
 The basic structure of a Spark-cluster:
 
-![image](../../../media/Technologies-Apache-Apache-Spark-image1.jpg)
+![image](../../media/Technologies-Apache-Apache-Spark-image1.jpg)
 
 The cluster manager is not part of the Spark framework itself - even though Spark ships with its own, this one should not be used in production. Supported cluster managers are Mesos, Yarn, and Kubernetes.
 
@@ -20,7 +20,7 @@ Each worker node might run multiple executors (as configured: normally one per a
 
 The modules of Apache Spark run directly on top of its core:
 
-![image](../../../media/Technologies-Apache-Apache-Spark-image2.jpg)
+![image](../../media/Technologies-Apache-Apache-Spark-image2.jpg)
 
 ## Spark Abstractions & Concepts
 

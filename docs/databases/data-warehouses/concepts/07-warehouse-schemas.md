@@ -15,7 +15,7 @@ In the Star Schema, the center of the star can have one fact table and a number 
 
 Star schema is a mature modeling approach widely adopted by relational data warehouses. It requires modelers to classify their model tables as either dimension or fact.
 
-![image](media/Data-Warehousing_Warehouse-Schemas-image1.jpg)
+![image](../../../media/Data-Warehousing_Warehouse-Schemas-image1.jpg)
 
 ### Example of Star Schema
 
@@ -42,7 +42,7 @@ A Snowflake Schema is an extension of a Star Schema, and it adds additional dime
 
 The dimension tables are normalized which splits data into additional tables. In the following example, Country is further normalized into an individual table.
 
-![image](media/Data-Warehousing_Warehouse-Schemas-image2.jpg)
+![image](../../../media/Data-Warehousing_Warehouse-Schemas-image2.jpg)
 
 ### Characteristics of Snowflake Schema
 
@@ -69,7 +69,7 @@ The dimension tables are normalized which splits data into additional tables. In
 
 A Galaxy Schema contains two fact table that shares dimension tables. It is also called Fact Constellation Schema. The schema is viewed as a collection of stars hence the name Galaxy Schema.
 
-![image](media/Data-Warehousing_Warehouse-Schemas-image3.jpg)
+![image](../../../media/Data-Warehousing_Warehouse-Schemas-image3.jpg)
 
 As you can see in above figure, there are two facts table - Revenue & Product
 
@@ -85,7 +85,7 @@ In Galaxy schema shared dimensions are called **Conformed Dimensions.**
 
 ## What is Star Cluster Schema?
 
-![image](media/Data-Warehousing_Warehouse-Schemas-image4.jpg)
+![image](../../../media/Data-Warehousing_Warehouse-Schemas-image4.jpg)
 
 Snowflake schema contains fully expanded hierarchies. However, this can add complexity to the Schema and requires extra joins. On the other hand, star schema contains fully collapsed hierarchies, which may lead to redundancy. So, the best solution may be a balance between these two schemas which is star cluster schema design.
 

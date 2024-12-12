@@ -205,7 +205,7 @@ WHERE Student.id < Record.id ;
 
 [Join Algorithms](languages/sql/join-algorithms.md)
 
-[Spark Joins](technologies/apache/apache-spark/07-joins.md)
+[Spark Joins](technologies/apache-spark/07-joins.md)
 
 http://www.sql-join.com/sql-join-types
 

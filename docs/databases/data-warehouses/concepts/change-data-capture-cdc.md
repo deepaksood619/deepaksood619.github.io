@@ -29,7 +29,7 @@ There are many ways to identify new and updated rows in the source table. The mo
 
 A detailed implementation in Python for PostgreSQL CDC can be found [here](https://blog.devgenius.io/python-etl-pipeline-incremental-data-load-source-change-detection-28a7ceaa9840).
 
-![CDC table metadata technique](media/Pasted%20image%2020240123235509.png)
+![CDC table metadata technique](../../../media/Pasted%20image%2020240123235509.png)
 
 **Key challenges:**
 
@@ -40,7 +40,7 @@ A detailed implementation in Python for PostgreSQL CDC can be found [here](http
 
 This method identifies the difference between the source and the destination tables to detect new, updated, and even deleted rows. The difference can be calculated using a SQL query or specific utilities provided by the database (for example, SQL Server provides a [tablediff utility](https://docs.microsoft.com/en-us/sql/tools/tablediff-utility?view=sql-server-ver15)).
 
-![CDC table differences technique](media/Pasted%20image%2020240123235453.png)
+![CDC table differences technique](../../../media/Pasted%20image%2020240123235453.png)
 
 **Key challenges:**
 
@@ -52,7 +52,7 @@ This method requires the creation of database triggers with logic to manage the 
 
 Most databases allow the creation of triggers; you can see how to [create a trigger for PostgreSQL](https://www.postgresql.org/docs/current/sql-createtrigger.html).
 
-![Trigger-based CDC technique](media/Pasted%20image%2020240123235440.png)
+![Trigger-based CDC technique](../../../media/Pasted%20image%2020240123235440.png)
 
 **Key challenges:**
 
@@ -69,7 +69,7 @@ Log-based and trigger-based CDC are very similar - both keep a log of changes ev
 
 Since database logs are updated in every transaction, the experience is transparent, which means log-based CDC does not require any logical changes in database objects or the application running on top of the database. A system reads data directly from the database Change Data Capture logs to identify changes in a database, minimizing the impact of the capture process.
 
-![Log-based CDC technique](media/Pasted%20image%2020240123235410.png)
+![Log-based CDC technique](../../../media/Pasted%20image%2020240123235410.png)
 
 **Key challenges:**
 

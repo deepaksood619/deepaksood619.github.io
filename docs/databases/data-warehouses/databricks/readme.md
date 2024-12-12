@@ -12,4 +12,4 @@
 
 ## Links
 
-[Apache Spark](technologies/apache/apache-spark/readme.md)
+[Apache Spark](technologies/apache-spark/readme.md)

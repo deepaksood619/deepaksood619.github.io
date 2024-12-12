@@ -22,7 +22,7 @@ In the case of a Hash Join, a hash table is created based on the join key of the
 
 When Spark translates an operation in the execution plan as a Sort Merge Join it enables an all-to-all communication strategy among the nodes: the Driver Node will orchestrate the Executors, each of which will hold a particular set of joining keys. Before running the actual operation, the partitions are first sorted (this operation is obviously heavy itself). As you can imagine this kind of strategy can be expensive: nodes need to use the network to share data; note that Sort Merge Joins tend to **minimize data movements** in the cluster, especially compared to Shuffle Hash Joins.
 
-![image](../../../media/Technologies-Apache-Joins-image1.jpg)
+![image](../../media/Technologies-Apache-Joins-image1.jpg)
 
 In a Sort Merge Join partitions are sorted on the join key prior to the join operation.
 
@@ -30,7 +30,7 @@ In a Sort Merge Join partitions are sorted on the join key prior to the join ope
 
 Broadcast joins happen when Spark decides to send a copy of a table to all the executor nodes. The intuition here is that, if we broadcast one of the datasets, Spark no longer needs an all-to-all communication strategy and each Executor will be self-sufficient in joining the big dataset records in each node, with the small (broadcasted) table. We'll see that this simple idea improves performance... usually.
 
-![image](../../../media/Technologies-Apache-Joins-image2.jpg)
+![image](../../media/Technologies-Apache-Joins-image2.jpg)
 
 In a Broadcast Join a copy of the small table is sent to all the Executors. Each executor will then perform the join without the need of network communication
 
@@ -39,7 +39,7 @@ In a Broadcast Join a copy of the small table is sent to all the Executors. Each
 3. The property is configurable and has a max limit of 8GB.
 4. The table is cached on the driver node as well on the executor nodes and if a large table is broadcasted then it will be a network intensive operation leading to performance degradation.
 
-![Broadcast Hash Join Implementation](../../../media/Pasted%20image%2020230327110925.png)
+![Broadcast Hash Join Implementation](../../media/Pasted%20image%2020230327110925.png)
 
 ## Shuffle Hash Join
 
@@ -52,7 +52,7 @@ Shuffle Hash Join involves a two-phase process, the shuffle and hash join phase.
 
 > **spark.sql.join.preferSortMergeJoin=false (Default value is true)**
 
-![Shuffle Hash Join](../../../media/Pasted%20image%2020230327111057.png)
+![Shuffle Hash Join](../../media/Pasted%20image%2020230327111057.png)
 
 ## Shuffle Sort Merge Join
 
@@ -63,7 +63,7 @@ Shuffle Sort Merge Join as the name suggest involves a shuffle and sort-merge ph
 3. The join keys need to be sortable.
 4. All join types are supported.
 
-![Shuffle Sort Merge Join](../../../media/Pasted%20image%2020230327111131.png)
+![Shuffle Sort Merge Join](../../media/Pasted%20image%2020230327111131.png)
 
 ## Cartesian Join
 
@@ -117,7 +117,7 @@ Look at the join hints in the following order:
 - There are multiple ways to fight skewness, one is repartitioning.
 - We can create our own repartitioning key, e.g. using the key salting technique
 
-![spark-join-summary](../../../media/Pasted%20image%2020230327110541.png)
+![spark-join-summary](../../media/Pasted%20image%2020230327110541.png)
 
 https://towardsdatascience.com/the-art-of-joining-in-spark-dcbd33d693c
 

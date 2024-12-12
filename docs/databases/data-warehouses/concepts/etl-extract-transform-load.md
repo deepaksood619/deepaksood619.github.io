@@ -8,7 +8,7 @@ In [computing](https://en.wikipedia.org/wiki/Computing), **extract, transform, l
 
 Since the data extraction takes time, it is common to execute the three phases in parallel. While the data is being extracted, another transformation process executes while processing the data already received and prepares it for loading while the data loading begins without waiting for the completion of the previous phases.
 
-![image](media/ETL-(Extract-Transform-Load)-image1.jpg)
+![image](../../../media/ETL-(Extract-Transform-Load)-image1.jpg)
 
 https://www.toptal.com/etl/interview-questions
 

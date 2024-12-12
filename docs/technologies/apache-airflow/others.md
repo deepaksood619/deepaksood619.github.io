@@ -60,7 +60,7 @@ https://dkron.io
 
 ## Airflow + Genie on AWS Platform
 
-![image](../../../media/Technologies-Apache-Others-image1.jpg)
+![image](../../media/Technologies-Apache-Others-image1.jpg)
 
 https://aws.amazon.com/blogs/big-data/orchestrate-big-data-workflows-with-apache-airflow-genie-and-amazon-emr-part-1
 
@@ -170,4 +170,4 @@ Amazon Managed Workflows for Apache Airflow (MWAA) [What Is Amazon Managed Workf
 
 - [Amazon Managed Workflows for Apache Airflow: Getting Started - YouTube](https://www.youtube.com/watch?v=ZET50M20hkU)
 
-![Amazon MWAA Architecture](../../../media/Pasted%20image%2020240109123958.png)
+![Amazon MWAA Architecture](../../media/Pasted%20image%2020240109123958.png)

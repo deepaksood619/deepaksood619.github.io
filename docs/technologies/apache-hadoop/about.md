@@ -88,29 +88,29 @@ To process any data, the client first submits data and program. Hadoop store dat
       - Map --It is the first phase of processing. In which we specify all the complex logic/business rules/costly code. The map takes a set of data and converts it into another set of data. It also breaks individual elements into tuples (key-value pairs).
       - Reduce --It is the second phase of processing. In which we specify light-weight processing like aggregation/summation. The output from the map is the input to Reducer. Then, reducer combines tuples (key-value) based on the key. And then, modifies the value of the key accordingly.
 
-![image](../../../media/Technologies-Apache-Apache-Hadoop-image1.jpg)
+![image](../../media/Technologies-Apache-Apache-Hadoop-image1.jpg)
 
-![image](../../../media/Technologies-Apache-Apache-Hadoop-image2.jpg)
+![image](../../media/Technologies-Apache-Apache-Hadoop-image2.jpg)
 
 Map Reduce
 
 - MapReduce is a programming model and an associated implmentation for processing and generating large data sets
 - Users specify a map function that processs a key/value pair to generate a set of intermediate key/value pairs, and a reduce function that merges all intermediate values associated with the same intermediate key
 
-![image](../../../media/Technologies-Apache-Apache-Hadoop-image3.jpg)
+![image](../../media/Technologies-Apache-Apache-Hadoop-image3.jpg)
 
-![image](../../../media/Technologies-Apache-Apache-Hadoop-image4.jpg)
+![image](../../media/Technologies-Apache-Apache-Hadoop-image4.jpg)
 
-![image](../../../media/Technologies-Apache-Apache-Hadoop-image5.jpg)
+![image](../../media/Technologies-Apache-Apache-Hadoop-image5.jpg)
 
-![image](../../../media/Technologies-Apache-Apache-Hadoop-image6.jpg)
+![image](../../media/Technologies-Apache-Apache-Hadoop-image6.jpg)
 
 ## YARN - Yet Another Resource Manager
 
 - Apache Hadoop YARN is the resource management and job scheduling technology in the open source Hadoop distributed processing framework
 - YARN is responsible for allocating system resources to the various applications running in a Hadoop cluster and scheduling tasks to be executed on different cluster nodes
 
-![image](../../../media/Technologies-Apache-Apache-Hadoop-image7.jpg)
+![image](../../media/Technologies-Apache-Apache-Hadoop-image7.jpg)
 
 ## References
 

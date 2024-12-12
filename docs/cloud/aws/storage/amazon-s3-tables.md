@@ -12,7 +12,7 @@ The S3 Tables service will provide many services required to operationalize a da
 
 Why is this a big deal?
 
-Open data formats and data lakes have been all the rage over the past year. Many companies want to keep their data in their Cloud Storage provider and make it accessible to multiple services/query engines. 
+Open data formats and data lakes have been all the rage over the past year. Many companies want to keep their data in their Cloud Storage provider and make it accessible to multiple services/query engines.
 
 AWS coming out and adding first class support for Parquet/Iceberg will lay down the foundations for this trend to accelerate.
 
@@ -20,13 +20,13 @@ S3 Tables will become a new building block that many services (including Snowfla
 
 Now, back to Delta Lake...
 
-Delta Lake is the open source table format built & maintained by Databricks. It's an Iceberg alternative. 
+Delta Lake is the open source table format built & maintained by Databricks. It's an Iceberg alternative.
 
 Earlier this year, there were ongoing debates about what the best open source format is for your data lake. Iceberg and Delta Lake were the top two contenders.
 
 With AWS, the largest cloud provider, going out and building such a critical first class service centered entirely around Iceberg, they've gone out and stated very clearly: Iceberg is the winner.
 
-When a cloud giant this big throws all their weight behind Iceberg, people take notice. 
+When a cloud giant this big throws all their weight behind Iceberg, people take notice.
 
 With this in mind, when given the choice between the two, who would bet on Delta Lake as their long term data lake file format that your whole company will build around? I certainly wouldn't.
 

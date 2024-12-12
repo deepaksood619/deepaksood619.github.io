@@ -69,7 +69,7 @@ This can poll distributed logs like Apache Kafka or Amazon Kinesis (and some oth
 - Streaming data inputs from HDFS, Kafka, Flume, TCP sockets, kinesis, etc
 - Spark ML (Machine Learning) functions and GraphX graph processing algorithms are fully applicable to streaming data
 
-![image](../../../media/Technologies-Apache-Apache-Spark-image3.jpg)
+![image](../../media/Technologies-Apache-Apache-Spark-image3.jpg)
 
 ## Spark Streaming vs Kafka Streams vs Flink
 
@@ -102,7 +102,7 @@ MLlib provides high-level algorithms that are commonly used in general data anal
 
 ## Spark MLlib Component
 
-![image](../../../media/Technologies-Apache-Apache-Spark-image4.jpg)
+![image](../../media/Technologies-Apache-Apache-Spark-image4.jpg)
 
 ## Spark GraphX
 
@@ -110,7 +110,7 @@ MLlib provides high-level algorithms that are commonly used in general data anal
 - GraphX reuses Spark RDD concept, simplifies graph analytics tasks, provides the ability to make operations on a directed multigraph with properties attached to each vertex and edge
 - GraphX is a thin layer on top of the Spark general-purpose dataflow framework
 
-![image](../../../media/Technologies-Apache-Apache-Spark-image5.jpg)
+![image](../../media/Technologies-Apache-Apache-Spark-image5.jpg)
 
 ## pyspark
 
