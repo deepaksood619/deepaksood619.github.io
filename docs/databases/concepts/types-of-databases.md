@@ -90,15 +90,7 @@ https://rethinkdb.com
 - [IBM Graph](https://console.ng.bluemix.net/catalog/services/ibm-graph/)- OLTP graph database as a service.
 - [JanusGraph](http://janusgraph.org/)- Distributed OLTP and OLAP graph database with BerkeleyDB, Apache Cassandra and Apache HBase support.
 - [JanusGraph (Amazon)](https://github.com/awslabs/dynamodb-janusgraph-storage-backend/)- The Amazon DynamoDB Storage Backend for JanusGraph.
-
-https://medium.com/terminusdb/graph-fundamentals-part-1-rdf-60dcf8d0c459
-
-- [Neo4j](https://tinkerpop.apache.org/docs/current/reference/#neo4j-gremlin)- OLTP graph database (embedded and high availability) (open source, noSQL graph database) - [Build Graph Databases with Neo4j](https://www.freecodecamp.org/news/learn-neo4j-database-course/)
-	- Use cases - [Graph Data Science for Fraud Detection & Analytics | Neo4j](https://neo4j.com/use-cases/fraud-detection/)
-	- [Graph Database Use Cases & Solutions](https://neo4j.com/use-cases/)
-	- [Generative AI - Ground LLMs with Knowledge Graphs](https://neo4j.com/generativeai/)
-	- [Analyzing the Panama Papers with Neo4j: Data Models, Queries & More](https://neo4j.com/blog/analyzing-panama-papers-neo4j/)
-	- [GraphRAG: Unlocking LLM discovery on narrative private data - Microsoft Research](https://www.microsoft.com/en-us/research/blog/graphrag-unlocking-llm-discovery-on-narrative-private-data/)
+	- https://medium.com/terminusdb/graph-fundamentals-part-1-rdf-60dcf8d0c459
 - [neo4j-gremlin-bolt](https://github.com/SteelBridgeLabs/neo4j-gremlin-bolt)- OLTP graph database (using Bolt Protocol).
 - [OrientDB](https://github.com/orientechnologies/orientdb-gremlin)- OLTP graph database
 - [Apache S2Graph](https://s2graph.apache.org/)- OLTP graph database running on Apache HBase.
@@ -109,14 +101,26 @@ https://medium.com/terminusdb/graph-fundamentals-part-1-rdf-60dcf8d0c459
 - [Titan (Amazon)](https://github.com/awslabs/dynamodb-titan-storage-backend)- The Amazon DynamoDB storage backend for Titan.
 - [Titan (Tupl)](https://github.com/classmethod/tupl-titan-storage-backend)- The Tupl storage backend for Titan.
 - [Unipop](https://github.com/rmagen/unipop)- OLTP Elasticsearch and JDBC backed graph.
-
-http://tinkerpop.apache.org
+- http://tinkerpop.apache.org
 
 Examples
 
 - Filesystems
 - DNS
 - LDAP directories
+
+### Neo4j
+
+[Neo4j](https://tinkerpop.apache.org/docs/current/reference/#neo4j-gremlin)- OLTP graph database (embedded and high availability) (open source, noSQL graph database)
+
+- [Build Graph Databases with Neo4j](https://www.freecodecamp.org/news/learn-neo4j-database-course/)
+- Use cases - [Graph Data Science for Fraud Detection & Analytics | Neo4j](https://neo4j.com/use-cases/fraud-detection/)
+- [Graph Database Use Cases & Solutions](https://neo4j.com/use-cases/)
+- [Generative AI - Ground LLMs with Knowledge Graphs](https://neo4j.com/generativeai/)
+- [Analyzing the Panama Papers with Neo4j: Data Models, Queries & More](https://neo4j.com/blog/analyzing-panama-papers-neo4j/)
+- [GraphRAG: Unlocking LLM discovery on narrative private data - Microsoft Research](https://www.microsoft.com/en-us/research/blog/graphrag-unlocking-llm-discovery-on-narrative-private-data/)
+- [Free downloadable Neo4j presentation materials - Developer Guides](https://neo4j.com/developer/download-materials/)
+- [Neo4j Introduction Workshop for Partners | PPT](https://www.slideshare.net/slideshow/neo4j-introduction-workshop-for-partners/274021584)
 
 ## Network databases
 

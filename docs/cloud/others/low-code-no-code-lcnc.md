@@ -41,11 +41,14 @@
 - [Builder.io: Visual Development Platform](https://www.builder.io/) - Free Open Source
 	- [GitHub - BuilderIO/builder: Visual Development for React, Vue, Svelte, Qwik, and more](https://github.com/builderio/builder)
 - [Webflow: Create a custom website | No-code website builder](https://webflow.com/)
+	- [6,000+ Webflow HTML website templates | Webflow](https://webflow.com/templates)
 - [Drag and Drop Website Builder - Create Websites with WebWave](https://webwave.me/)
 - [Locofy.ai - ship your products 5-10x faster - with low code](https://www.locofy.ai/)
 - [Plasmic | Build powerful apps fast- without the limits](https://www.plasmic.app/) - [GitHub - plasmicapp/plasmic: Visual builder for React. Build apps, websites, and content. Integrate with your codebase.](https://github.com/plasmicapp/plasmic)
 - [DhiWise: App Development Platform for High Productivity](https://www.dhiwise.com/)
 - [Dora AI - Generating powerful websites, one prompt at a time](https://www.dora.run/ai)
+- [Framer - Start your dream site with AI. Zero code, maximum speed.](https://www.framer.com/)
+	- [Athos2 Template](https://athos2.framer.website/)
 
 ### Others
 

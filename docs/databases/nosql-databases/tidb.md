@@ -53,19 +53,13 @@ TiDB is suitable for companies that need to aggregate scattered data into the sa
 
 ## Links
 
-[GitHub - pingcap/tidb: TiDB is an open-source, cloud-native, distributed, MySQL-Compatible database for elastic scale and real-time analytics. Try AI-powered Chat2Query free at : https://www.pingcap.com/tidb-serverless/](https://github.com/pingcap/tidb)
-
-https://pingcap.com/success-stories/lesson-learned-from-queries-over-1.3-trillion-rows-of-data-within-milliseconds-of-response-time-at-zhihu
-
-https://dzone.com/articles/building-a-large-scale-distributed-storage-system
-
-[TiDB Architecture | PingCAP Docs](https://docs.pingcap.com/tidb/stable/tidb-architecture)
-
-[TiDB Storage | PingCAP Docs](https://docs.pingcap.com/tidb/stable/tidb-storage)
-
-[TiDB Computing | PingCAP Docs](https://docs.pingcap.com/tidb/stable/tidb-computing)
-
-[TiDB Scheduling | PingCAP Docs](https://docs.pingcap.com/tidb/stable/tidb-scheduling)
+- [GitHub - pingcap/tidb: TiDB is an open-source, cloud-native, distributed, MySQL-Compatible database for elastic scale and real-time analytics. Try AI-powered Chat2Query free at : https://www.pingcap.com/tidb-serverless/](https://github.com/pingcap/tidb)
+- https://pingcap.com/success-stories/lesson-learned-from-queries-over-1.3-trillion-rows-of-data-within-milliseconds-of-response-time-at-zhihu
+- https://dzone.com/articles/building-a-large-scale-distributed-storage-system
+- [TiDB Architecture | PingCAP Docs](https://docs.pingcap.com/tidb/stable/tidb-architecture)
+- [TiDB Storage | PingCAP Docs](https://docs.pingcap.com/tidb/stable/tidb-storage)
+- [TiDB Computing | PingCAP Docs](https://docs.pingcap.com/tidb/stable/tidb-computing)
+- [TiDB Scheduling | PingCAP Docs](https://docs.pingcap.com/tidb/stable/tidb-scheduling)
 
 ## tikv
 

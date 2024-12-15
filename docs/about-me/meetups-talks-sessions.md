@@ -10,6 +10,8 @@ Introduction to Kong as an API gateway, key features, and benefits.
 - API lifecycle management with Kong.
 - Tips for getting started effectively.
 
+Presentation - [Kong in Action: Simplifying API Management for modern Application](https://docs.google.com/presentation/d/1jOlgLiX3Bgu2daL7j8qPuuK4F8I8IOjplomguL0DQwU/edit?usp=sharing)
+
 ![Simplifying API Management for modern Application - Kong](../media/Pasted%20image%2020241206150616.png)
 
 Deepak Sood is a Senior AI, Data, and DevOps Architect with over 8 years of experience in designing, deploying, and optimizing scalable tech infrastructures. Specializing in DevOps, he has deep expertise in CI/CD pipelines, Kubernetes orchestration, and cloud platforms like AWS and Azure. His work includes automating deployments, implementing microservices, and ensuring infrastructure reliability through tools like Prometheus, Grafana, and Elasticsearch.
@@ -18,6 +20,19 @@ Deepak Sood is a Senior AI, Data, and DevOps Architect with over 8 years of expe
 - [Deepak Sood on LinkedIn: #kongmeetup #apimanagement #techtalks #networking #delhitechcommunity](https://www.linkedin.com/feed/update/urn:li:share:7272973093516582912/)
 - [Kong](devops/others/kong.md)
 - [\[Meetup\] Mastering APIOps:From spec to portal with kong's Tools & Best Practices, Sat, Dec 7, 2024, 10:30 AM | Meetup](https://www.meetup.com/kong-bengaluru/events/302975712/)
+
+### Neo4j Enablement Session at Opstree (12 December 2024)
+
+- What is a Graph database?
+- The Neo4j differences
+- Graph database concepts
+	- Architecture
+	- Schema
+- GDS, GenAI, 7 Graphs in an enterprise
+
+![Neo4j enablement session](../media/IMG20241212142546.jpg)
+
+[Deepak Sood on LinkedIn: #neo4j #graphdatabases #partnerenablement #opstree #datainnovation…](https://www.linkedin.com/feed/update/urn:li:ugcPost:7273262742159990784/)
 
 ### Interview Study Schedule - Unsaid Talks - Manav Rachna International Institute of Research & Studies (07 December 2024)
 

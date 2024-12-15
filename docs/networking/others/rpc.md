@@ -32,8 +32,8 @@ An important difference between remote procedure calls and local calls is that r
 ## Problems with RPC
 
 1. Non-Local Exceptions Problem2. Indirect Memory Allocation Problem
-3. Blocking Calls Problem
-4. Static Interface Problem
+2. Blocking Calls Problem
+3. Static Interface Problem
 
 ## Example - RPC Systems
 

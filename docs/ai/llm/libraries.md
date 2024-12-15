@@ -232,3 +232,7 @@
 ### Video Processing
 
 - [**VapourSynth**](https://github.com/vapoursynth/vapoursynth) - video processing framework with simplicity in mind. [Python docs](https://www.vapoursynth.com/doc/pythonreference.html).
+
+### Others
+
+- [Tools](ai/llm/tools.md)

@@ -86,7 +86,6 @@
 - [GitHub - mshumer/gpt-investor](https://github.com/mshumer/gpt-investor)
 - [Self-healing code is the future of software development - Stack Overflow Blog](https://stackoverflow.blog/2023/06/07/self-healing-code-is-the-future-of-software-development/)
 - [**H2O.ai** | The fastest, most accurate AI Cloud Platform](https://h2o.ai/)
-- [Framer - Start your dream site with AI. Zero code, maximum speed.](https://www.framer.com/)
 - [Air](https://www.air.ai/)
 - [Runway - Advancing creativity with artificial intelligence.](https://runwayml.com/)
 - [Milo](https://www.joinmilo.com/)
@@ -124,3 +123,4 @@
 ## Links
 
 - [code-generators](ai/llm/code-generators.md)
+- [Libraries](ai/llm/libraries.md)

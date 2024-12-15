@@ -105,6 +105,17 @@
 - [GitHub - agiresearch/AIOS: AIOS: LLM Agent Operating System](https://github.com/agiresearch/AIOS)
     - [LLM agent operating system (AIOS) and the future of LLM-powered agents | by Simeon Emanuilov | Apr, 2024 | Medium](https://medium.com/@simeon.emanuilov/llm-agent-operating-system-aios-and-the-future-of-llm-powered-agents-3d08b4e91c34)
 - [AirLLM Unleashed. Efficiently Running 70B LLM Inference… | by Haribaskar Dhanabalan | Medium](https://medium.com/@haribaskar.dhanabalan/airllm-unleashed-2e32dae74c3d)
+- [GitHub - microsoft/TinyTroupe: LLM-powered multiagent persona simulation for imagination enhancement and business insights.](https://github.com/microsoft/TinyTroupe)
+
+### Langchain
+
+[Welcome to LangChain - 🦜🔗 LangChain 0.0.180](https://python.langchain.com/en/latest/index.html)
+
+- [Building LLM applications for production](https://huyenchip.com/2023/04/11/llm-engineering.html)
+- [Introduction to LangChain LLM: A Beginner’s Guide](https://www.makeuseof.com/langchain-llm-introduction/)
+- [How to Build LLM Applications with LangChain | DataCamp](https://www.datacamp.com/tutorial/how-to-build-llm-applications-with-langchain)
+
+![Langchain Modules](../../media/Screenshot%202024-04-16%20at%207.02.28%20PM.jpg)
 
 ```bash
 python -m pip install --upgrade langchain[llm]
@@ -116,16 +127,6 @@ chainlit hello
 
 chainlit run document_qa.py
 ```
-
-### Langchain
-
-[Welcome to LangChain - 🦜🔗 LangChain 0.0.180](https://python.langchain.com/en/latest/index.html)
-
-- [Building LLM applications for production](https://huyenchip.com/2023/04/11/llm-engineering.html)
-- [Introduction to LangChain LLM: A Beginner’s Guide](https://www.makeuseof.com/langchain-llm-introduction/)
-- [How to Build LLM Applications with LangChain | DataCamp](https://www.datacamp.com/tutorial/how-to-build-llm-applications-with-langchain)
-
-![Langchain Modules](../../media/Screenshot%202024-04-16%20at%207.02.28%20PM.jpg)
 
 #### Langchain vs LlamaIndex
 
@@ -201,6 +202,7 @@ Ludwig enables you to apply state-of-the-art tabular, natural language processin
 
 - [DataRobot AI Platform | Deliver Value from AI](https://www.datarobot.com/)
 - [Accelerating Systems with Real-time AI Solutions - Groq](https://wow.groq.com/)
+- [CrewAI](https://www.crewai.com/)
 
 ## LLM Agent
 

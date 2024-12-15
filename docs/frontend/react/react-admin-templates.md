@@ -23,3 +23,8 @@
 - [Free Website Templates](https://freewebsitetemplates.com/)
 - [Website Templates | 800+ Free Website Templates | Wix.com](https://www.wix.com/website/templates)
 - [Web3Templates — Website Templates & Landing Pages](https://web3templates.com/)
+
+### Inspirations
+
+- [ibind Systems: Next-Gen Fintech Solutions](https://ibindsystems.io/)
+- [Land-book - website design inspiration gallery](https://land-book.com/)

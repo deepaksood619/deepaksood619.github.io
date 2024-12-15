@@ -6,7 +6,7 @@ Fifth is *function composition*
 
 ![image](../../media/Product-Rule-for-Derivatives-image2.jpg)
 
-3. Product Rule
+## Product Rule
 
 ![image](../../media/Product-Rule-for-Derivatives-image3.jpg)
 

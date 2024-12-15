@@ -17,6 +17,7 @@ Donor - finds a person and donate the required item or buy for him/her
 - Freecodecamp
     - [Free Code Camp Inc - GuideStar Profile](https://www.guidestar.org/profile/82-0779546)
 - givewell.org
+- **[GiveDirectly: Send money to people living in poverty](https://www.givedirectly.org/)**
 - Charitable organization, where donates can be directly facilitate study of some kid, directly interact with him/her (Full transparency)
 - Wikipedia (Gave Rs. 1000 on 29 July 2020)
 - mossy.earth

@@ -186,6 +186,18 @@ Apache Helix is a generic cluster management framework used for the automatic ma
 - Time Travel and Rollback
 - Data Compaction
 
+#### Features
+
+- Use SQL tables for big data
+- Work with the same tables simultaneously using engines like Spark, Trino, Flink, Presto, Hive, Impala, StarRocks, Doris, and Pig
+- Capture metadata information on the state of datasets as they change over time
+- Partition large tables into smaller ones to speed up read and load times
+- Run reproducible queries on the same table snapshot
+- Reset tables to their previous state to easily walk back errors
+- Enable ACID transactions at scale, allowing concurrent writers to work in tandem
+- Track changes to a table over time
+- Query historical data and verify changes between updates
+
 ![apache-iceberg](../../media/Screenshot%202023-12-26%20at%2012.39.39.PM.jpg)
 
 https://iceberg.apache.org

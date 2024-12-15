@@ -6,6 +6,7 @@
 - [MongoDB](mongodb/readme.md)
 - [Druid](druid/readme.md)
 - [Cassandra](cassandra/readme.md)
+- [DuckDB](databases/nosql-databases/duckdb.md)
 - [etcd](databases/nosql-databases/etcd.md)
 - [AWS DyanamoDB](aws-dynamodb/readme.md)
 - [Time Series DB](time-series-db/readme.md)

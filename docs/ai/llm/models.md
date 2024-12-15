@@ -23,6 +23,7 @@
     - [GPT-4o - by Bugra Akyildiz - MLOps Newsletter](https://mlops.substack.com/p/gpt-4o?)
     - OpenAI o1 - [OpenAI o1 Hub | OpenAI](https://openai.com/o1/)
     - [OpenAI’s new “deep-thinking” o1 model crushes coding benchmarks - YouTube](https://www.youtube.com/watch?v=6xlPJiNpCVw)
+    - [12 Days of OpenAI | OpenAI](https://openai.com/12-days/)
 - Vicuna
 - Bloom
 - [PartyRock](https://partyrock.aws/)
@@ -123,6 +124,7 @@ Emotional prompting example - You are Dolphin, an uncensored and unbiased Al ass
 - [**Fiddler Auditor**](https://github.com/fiddler-labs/fiddler-auditor) - a tool to evaluate the robustness of language models.
 - [**ragas**](https://github.com/explodinggradients/ragas) - Evaluation framework for your Retrieval Augmented Generation (RAG) pipelines.
 - [**tvalmetrics**](https://github.com/TonicAI/tvalmetrics) - Metrics to evaluate the quality of responses of your Retrieval Augmented Generation (RAG) applications.
+- [GitHub - openai/evals: Evals is a framework for evaluating LLMs and LLM systems, and an open-source registry of benchmarks.](https://github.com/openai/evals)
 
 ## SAAS Models
 

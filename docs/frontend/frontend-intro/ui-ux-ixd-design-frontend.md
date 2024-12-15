@@ -258,6 +258,8 @@ Information architecture (IA) involves the way a website/app is structured and h
 
 ![image](../../media/UI-UX-IxD-Design-Frontend-image4.jpg)
 
+### Inspiration
+
 [UX / UI Inspiration for 2019](https://www.youtube.com/watch?v=7wlM_uOhKH4)
 
 - **producthunt -** https://www.producthunt.com
@@ -267,6 +269,7 @@ Information architecture (IA) involves the way a website/app is structured and h
 - pageflows.com
 - informationisbeautiful.net
 - figma
+- [Land-book - website design inspiration gallery](https://land-book.com/)
 
 [Designing for Speed | Google Senior UX Designer | Mustafa Kurtuldu](https://www.youtube.com/watch?v=Drf5ZKd4aVY)
 
