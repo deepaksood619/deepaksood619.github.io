@@ -49,6 +49,7 @@
 
 SQLite is a C library that provides a lightweight disk-based database that doesn't require a separate server process and allows accessing the database using a nonstandard variant of the SQL query language. Some applications can use SQLite for internal data storage. It's also possible to prototype an application using SQLite and then port the code to a larger database such as PostgreSQL or Oracle.
 
+```python
 con = sqlite3.connect('mydatabase.db')
 
 c.execute("DROP TABLE ratings")
@@ -58,11 +59,13 @@ c.execute("CREATE TABLE IF NOT EXISTS ratings(userId int, movieId int, rating fl
 c.execute("INSERT INTO ratings(userId, movieId, rating, timestamp) VALUES (?,?,?,?)", row)
 
 for row in c.execute("SELECT * FROM ratings"):
-
-print(row)
+	print(row)
 
 con.commit()
+```
 
 This method commits the current transaction. If you don't call this method, anything you did since the last call tocommit()is not visible from other database connections.
 
 https://docs.python.org/3/library/sqlite3.html
+
+[SQLite and its weird new fork “libSQL” - YouTube](https://www.youtube.com/watch?v=PGpL5hYpY1o)

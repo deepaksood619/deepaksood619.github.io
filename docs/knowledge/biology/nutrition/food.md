@@ -409,3 +409,5 @@ It can become toxic and inedible quickly; when stored for more than 20 minutes, 
 [home - FIT SHIT](https://fitshit.in/)
 
 [Precaution vs. Proof: How the US and EU Differ on Food Safety](https://tbthealth.substack.com/p/precaution-vs-proof-how-the-us-and)
+
+[Why Some Fruits Won’t Ripen On Your Counter - YouTube](https://www.youtube.com/watch?v=ttCd60Qko5A)

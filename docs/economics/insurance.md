@@ -34,3 +34,7 @@ How much cover is needed
 ### Endowment Fund
 
 An endowment fund is a collection of investments that generates revenue to support charitable activities. The initial capital for an endowment fund comes from donations, which are often tax-deductible. The goal of an endowment fund is to provide a sustainable source of income for charitable activities, while also ensuring long-term financial stability.
+
+## Links
+
+- [Niva Bupa Health insurance VS HDFC ERGO | BEST HEALTH INSURANCE POLICY IN 2024-25 | Best health plan - YouTube](https://www.youtube.com/watch?v=15w1KKkjx8g)

@@ -457,6 +457,12 @@ Relatedness refers to our will to connect with others, interact and care for oth
 
 ![trust-team](../../media/Screenshot%202023-06-28%20at%2011.17.15%20PM.png)
 
+![Comic Agile - Team Topologies](../../media/Screenshot%202024-12-15%20at%209.11.04%20PM.jpg)
+
+[Team Topologies – Comic Agilé](https://www.comicagile.net/comic/team-topologies/)
+
+[Insights on How Team Topologies Drive Organizational Success • Manuel Pais • GOTO 2024 - YouTube](https://youtu.be/HKS5sKsIkkc)
+
 ## Links
 
 - [The Strengths, Weaknesses and Blind Spots of Managers](https://www.gallup.com/workplace/645299/strengths-weaknesses-blind-spots-managers.aspx)

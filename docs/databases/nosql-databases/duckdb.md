@@ -1,13 +1,13 @@
 # DuckDB
 
-DuckDB is an open-source, high-performance, in-process SQL database management system (RDBMS) for analytics: 
+DuckDB is an open-source, high-performance, in-process SQL database management system (RDBMS) for analytics:
 
-- **Designed for OLAP -** DuckDB is designed for online analytical processing (OLAP) workloads, rather than transactional (OLTP) applications. 
-- **Embedded -** DuckDB operates within the same process as your application or notebook, eliminating network overhead. 
-- **Versatile -** DuckDB can handle diverse data formats, such as CSV, JSON, Parquet, and Apache Arrow. It also integrates with databases like MySQL, SQLite, and Postgres. 
-- **Easy to use -** DuckDB provides a rich SQL dialect, with support for arbitrary and nested correlated subqueries, window functions, collations, and complex types. 
-- **Fast -** DuckDB is designed to be fast, reliable, and portable. It can efficiently process and query gigabytes of data from various sources. 
-- **Embeddable -** DuckDB enables users to analyze data on edge, which can improve response times and preserve bandwidth. 
+- **Designed for OLAP -** DuckDB is designed for online analytical processing (OLAP) workloads, rather than transactional (OLTP) applications.
+- **Embedded -** DuckDB operates within the same process as your application or notebook, eliminating network overhead.
+- **Versatile -** DuckDB can handle diverse data formats, such as CSV, JSON, Parquet, and Apache Arrow. It also integrates with databases like MySQL, SQLite, and Postgres.
+- **Easy to use -** DuckDB provides a rich SQL dialect, with support for arbitrary and nested correlated subqueries, window functions, collations, and complex types.
+- **Fast -** DuckDB is designed to be fast, reliable, and portable. It can efficiently process and query gigabytes of data from various sources.
+- **Embeddable -** DuckDB enables users to analyze data on edge, which can improve response times and preserve bandwidth.
 
 ## Commands
 

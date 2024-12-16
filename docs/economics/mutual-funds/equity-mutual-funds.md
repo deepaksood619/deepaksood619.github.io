@@ -38,6 +38,12 @@ For example, a multi-asset fund might invest in equity, debt, as well as gold.
 
 [Best midcap mutual fund 2023 | Detail Comparison of best performing midcap funds - YouTube](https://www.youtube.com/watch?v=gxPrsLCq0H4)
 
+![large & mid cap funds: best downside protection](../../media/Screenshot%202024-12-15%20at%204.56.03%20PM.jpg)
+
+![mid-cap funds: best downside protection](../../media/Screenshot%202024-12-15%20at%204.56.35%20PM.jpg)
+
+![small-cap funds](../../media/Screenshot%202024-12-15%20at%205.01.43%20PM.jpg)
+
 ## Momentum Investing
 
 ![Momentum Investing](../../media/Screenshot%202024-05-01%20at%2011.50.48%20AM.jpg)

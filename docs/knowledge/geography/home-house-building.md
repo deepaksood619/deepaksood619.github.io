@@ -43,6 +43,7 @@ https://www.youtube.com/watch?v=dy81ldYQdgY
 
 - [Buildofy - YouTube](https://www.youtube.com/@buildofy)
 - [Civil site visit - YouTube](https://www.youtube.com/@civilsitevisit)
+- [Harry Dutt - YouTube](https://www.youtube.com/@harrydutt)
 
 ## Links
 
@@ -58,3 +59,5 @@ https://www.youtube.com/watch?v=dy81ldYQdgY
 - [Inside DLF Camellias Ultra Luxury Home (Home Tour).](https://youtu.be/oNIKG0OUHb4)
 - [KHYAL: 5,000 sq. ft. Bungalow in Pune. #allaboutarchitecture #architect...](https://youtu.be/Hah_WISBDaU)
 - [I bought my Dream House!](https://youtu.be/BqvtFfkbQxs)
+- [1900 SQFT मैं 4 Bhk Flats with double road facing in indrapuram - YouTube](https://www.youtube.com/watch?v=ELoh31N_IcI)
+- [DLF’s New ‘Ultra-Luxury’ Project to Have the Costliest Apartments in India | Gurugram Real Estate - YouTube](https://www.youtube.com/watch?v=DUPyFm_2daY)

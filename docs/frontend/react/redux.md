@@ -278,3 +278,5 @@ https://github.com/pmndrs/zustand
 [Akita](https://datorama.github.io/akita/)
 
 [Recoil](https://recoiljs.org/)
+
+[Redux and Modern Redux Toolkit with Asynchronous Operation – Full Course - YouTube](https://www.youtube.com/watch?v=SlC8941Wwrk)

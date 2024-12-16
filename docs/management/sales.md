@@ -16,3 +16,4 @@ In the top-down model, you engage the CIO, CEO, or CTO directly and try to convi
 
 - [5 Sales Email Templates That Really Work | LinkedIn](https://business.linkedin.com/sales-solutions/resources/five-sales-email-templates)
 - [Google Trends for Marketing & Sales - YouTube](https://www.youtube.com/watch?v=HzHd2vusBRg)
+- [Google Trends Advanced Tips - YouTube](https://www.youtube.com/watch?v=Kkd2PkbCdSc)

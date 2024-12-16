@@ -162,6 +162,13 @@ An ETF is called an exchange-traded fund since it's traded on an exchange just l
 - Mon100
 - [How To Cash In On China & Hong Kong’s Market Surge I Investing In China Market - YouTube](https://www.youtube.com/watch?v=n0JbMoqoqN8&ab_channel=NDTVProfit)
 
+## Gold ETFs
+
+- ICICI prudential gold ETF
+- Kotak Gold ETF
+- HDFC Gold ETF
+- UTI Gold ETF
+
 ## Links
 
 - [Index Investing Options In India:](https://www.youtube.com/watch?v=IIV1Xt_rB3Y)

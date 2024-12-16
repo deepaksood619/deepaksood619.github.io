@@ -178,3 +178,4 @@ Different content on slash and non-slash URLs is okay for Google, but often is l
 - [React SEO Best Practices and Strategies | Toptal](https://www.toptal.com/react/react-seo-best-practices)
 - [I Used ChatGPT to Rank #1 in Google (in One Hour) - YouTube](https://www.youtube.com/watch?v=dHW-izBq2-I)
 - [Free SEO Training Series](https://www.youtube.com/playlist?list=PLV7hU9BBDbaQ-j5ZeICBG7dUtOn48Zoaq)
+- [How to avoid duplicate content - YouTube](https://www.youtube.com/watch?v=VQ0CW1fS2Og)

@@ -168,7 +168,7 @@ A loan tape is a snapshot of a fintech's customer base and outstanding balances,
 
 [3 Ways Startups Are Coming for Established Fintech Companies -- And What To Do About It - YouTube](https://www.youtube.com/watch?v=3KYM6JdW9d8&ab_channel=a16z)
 
-## Fintech players
+## Fintech players / Fintech companies
 
 1. Stashfin
 2. [Apply For MSME Loans, Loan Against Property & Vehicle Loans Online](https://www.kogta.in/)
@@ -223,6 +223,7 @@ A loan tape is a snapshot of a fintech's customer base and outstanding balances,
 51. axio, formerly Capital Float
 52. Piramal Finance, one of India's largest non-banking lenders
 53. Affirm (US - fintech)
+54. moneyHop
 
 https://tracxn.com/d/soonicorn-awards/top-startups-in-india-fintech-2021
 

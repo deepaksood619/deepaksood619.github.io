@@ -137,11 +137,9 @@ https://www.runnersworld.com/health-injuries/a20809473/five-exercises-to-do-befo
 
 ## Others
 
-[Cold-Water Immersion and Cryotherapy: Neuroendocrine and Fat Browning Effects](https://www.youtube.com/watch?v=XaLd5w6zF7A)
-
-[No.1 Heart Surgeon: Cardio Is A Waste Of Time For Weight Loss! Philip Ovadia | E240 - YouTube](https://www.youtube.com/watch?v=V7a8X8AB8yU)
-
-[Exercise Makes You Smarter - This Is Why (animated) - YouTube](https://www.youtube.com/watch?v=D4UKd1iOUeo)
-
-[Grow your brain by moving your body-just 10 minutes a day | Wendy Suzuki - YouTube](https://www.youtube.com/watch?v=vlDUW9f8wIs)
-[Forget weight loss. Exercise fights a hidden enemy.](https://tbthealth.substack.com/p/forget-weight-loss-exercise-fights)
+- [Cold-Water Immersion and Cryotherapy: Neuroendocrine and Fat Browning Effects](https://www.youtube.com/watch?v=XaLd5w6zF7A)
+- [No.1 Heart Surgeon: Cardio Is A Waste Of Time For Weight Loss! Philip Ovadia | E240 - YouTube](https://www.youtube.com/watch?v=V7a8X8AB8yU)
+- [Exercise Makes You Smarter - This Is Why (animated) - YouTube](https://www.youtube.com/watch?v=D4UKd1iOUeo)
+- [Grow your brain by moving your body-just 10 minutes a day | Wendy Suzuki - YouTube](https://www.youtube.com/watch?v=vlDUW9f8wIs)
+- [Forget weight loss. Exercise fights a hidden enemy.](https://tbthealth.substack.com/p/forget-weight-loss-exercise-fights)
+- [Exercise Scientist Dismantles My Longevity Workout (Dr. Andy Galpin) - YouTube](https://www.youtube.com/watch?v=QhL4VBHRBJY)

@@ -154,3 +154,4 @@ https://www.moneycontrol.com/india-investors-portfolio
 - [PE Ratio Decoded for Multibaggers 🕵️‍♂️ - YouTube](https://www.youtube.com/watch?v=EBx2oOZw9ic)
 - [Top 5 Themes for Diwali 5️⃣🧨🪔 - YouTube](https://www.youtube.com/watch?v=MuHYNkYOfgA&ab_channel=SOIC)
 - [Spotting Winners in Metals & Mining Sector 🏆 - YouTube](https://www.youtube.com/watch?v=osKVi2JSIzQ&ab_channel=SOIC)
+- [Smart Money is Buying these Stocks! 🏋️‍♀️ - YouTube](https://www.youtube.com/watch?v=rP2QvQI59lE)

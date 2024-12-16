@@ -129,3 +129,7 @@ https://www.django-rest-framework.org/api-guide/pagination/#cursorpagination
 https://slack.engineering/evolving-api-pagination-at-slack
 
 https://betterprogramming.pub/building-apis-a-comparison-between-cursor-and-offset-pagination-88261e3885f8
+
+[API Pagination: Making Billions of Products Scrolling Possible - YouTube](https://www.youtube.com/watch?v=14K_a2kKTxU)
+
+![Different types of Database and API Pagination](../../media/Screenshot%202024-12-15%20at%205.30.08%20PM.jpg)

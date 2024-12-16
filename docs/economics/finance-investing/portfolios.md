@@ -225,3 +225,5 @@ https://joinditto.in
 - [Best Sector to Invest for Long Term | Business Cycles & Ambit's Sector Attractiveness Framework - YouTube](https://www.youtube.com/watch?v=mTXkio4dE0Y)
 - [How to Identify Fundamentally STRONG Stocks using the FRAGILITY Scorecard | Stock Selection Strategy - YouTube](https://www.youtube.com/watch?v=FaMM4Dhe3D8)
 - [Best Sector to Invest for Long Term | Business Cycles & Ambit's Sector Attractiveness Framework - YouTube](https://www.youtube.com/watch?v=mTXkio4dE0Y)
+- [Inside Ashish Kacholia’s Stock Portfolio: Key Lessons from His Investment Strategy 🐳 - YouTube](https://www.youtube.com/watch?v=kUWE1T26du8)
+- [Learn How To Invest In Stock Market For Beginners | Ep 34 - YouTube](https://www.youtube.com/watch?v=Ao7WHrRw_VM)

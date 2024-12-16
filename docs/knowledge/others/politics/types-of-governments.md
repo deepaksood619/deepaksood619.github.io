@@ -212,6 +212,11 @@ Of or involving the agreement or cooperation of two political parties that usual
 
 [New Age - Wikipedia](https://en.wikipedia.org/wiki/New_Age)
 
+[Socio-Religious Reform Movements in \*ONE SHOT\* | Modern History Marathon for UPSC | Abhishek Mishra - YouTube](https://www.youtube.com/live/ngp6fXKyqlc)
+
+- Reformist movements - All social evils were intrinsic to the religion. Reform the religion
+- Revivalist movements - All social evils are later distortion or additions unto a pure, Nondistored religious discourse.
+
 ## Links
 
 [Consitution of Indian - others](knowledge/law/constitution-of-india/others.md)

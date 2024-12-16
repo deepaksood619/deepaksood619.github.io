@@ -296,3 +296,4 @@ Why kicking out children after 18 years is important, let's say you are very wea
 - [19-Month-Old Child](https://www.whattoexpect.com/toddler/19-month-old.aspx)
 - [12 Tricks to Get Your Toddler to Take Medicine](https://www.whattoexpect.com/toddler-health/get-toddler-to-take-medicine.aspx)
 - [Ways to manage your toddler's screen time | BabyCentre](https://www.babycentre.co.uk/a556933/ways-to-manage-your-toddlers-screen-time)
+- [Parenting Mistakes, Raising A Child, Ideal Routine & Psychology | Swati | Josh Talks Aasha - YouTube](https://www.youtube.com/watch?v=dakf6KN93Qs)

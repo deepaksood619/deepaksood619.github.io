@@ -197,3 +197,7 @@ Other types of jobs for task queues include
 - scheduling periodic jobs such as batch processes
 
 https://www.fullstackpython.com/task-queues.html
+
+## Links
+
+- [Scaling EDA Workloads with Kubernetes, KEDA & Karpenter • Natasha Wright • GOTO 2024 - YouTube](https://www.youtube.com/watch?v=AzxOG-RXDpc)

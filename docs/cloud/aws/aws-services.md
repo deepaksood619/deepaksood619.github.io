@@ -168,6 +168,8 @@ To serve traffic, Amplify Hosting points to a CloudFront URL via a CNAME record.
 
 [Troubleshooting custom domains - AWS Amplify Hosting](https://docs.aws.amazon.com/amplify/latest/userguide/custom-domain-troubleshoot-guide.html)
 
+[Build Fullstack AI Apps in Minutes With the New Amplify AI Kit - YouTube](https://www.youtube.com/watch?v=f-UeIlQ1tAI)
+
 #### Build settings
 
 ```bash

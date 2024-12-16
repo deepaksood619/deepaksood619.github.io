@@ -206,3 +206,4 @@ MuleSoft is a platform that gives IT the tools to automate everything. This incl
 - [Krutrim - India's own AI](https://cloud.olakrutrim.com/)
 - Intuit - QuickBooks
 	- [Use workflows to automate your business processes](https://quickbooks.intuit.com/learn-support/en-us/help-article/feature-preferences/use-workflows-quickbooks-online-advanced-send/L6uaB8H5G_US_en_US)
+- [Paying for software is stupid… 10 free and open-source SaaS replacements - YouTube](https://www.youtube.com/watch?v=e5dhaQm_J6U)

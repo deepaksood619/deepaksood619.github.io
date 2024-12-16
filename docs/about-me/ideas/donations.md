@@ -22,6 +22,7 @@ Donor - finds a person and donate the required item or buy for him/her
 - Wikipedia (Gave Rs. 1000 on 29 July 2020)
 - mossy.earth
 - Savitri computer
+- [The Cheapest Way To Save A Life - YouTube](https://www.youtube.com/watch?v=utUCsruUSoE)
 
 [The life you can save](../../book-summaries/the-life-you-can-save)
 

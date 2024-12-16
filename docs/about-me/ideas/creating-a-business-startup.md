@@ -320,3 +320,5 @@ Discovery commerce is the equivalent of 'I'm feeling lucky' in Google searches. 
 - [Co-Founder Equity Mistakes to Avoid | Startup School - YouTube](https://www.youtube.com/watch?v=DISocTmEwiI)
 - [Business Building Masterclass - Idea to Product ✈️ - YouTube](https://www.youtube.com/watch?v=juZmbYfGmiU&ab_channel=LabourLawAdvisor)
 - [How To Find A Co-Founder | Startup School - YouTube](https://www.youtube.com/watch?v=Fk9BCr5pLTU)
+- [How To Start A Dev Tools Company | Startup School - YouTube](https://www.youtube.com/watch?v=z1aKRhRnVNk)
+- [Make ₹50 Lakhs in 50 Days | E-Commerce/Business Masterclass - YouTube](https://www.youtube.com/watch?v=N3rZ6glHKTQ)

@@ -58,6 +58,7 @@
 - [How Agents for Amazon Bedrock works - Amazon Bedrock](https://docs.aws.amazon.com/bedrock/latest/userguide/agents-how.html)
 - [amazon-bedrock-workshop/02\_KnowledgeBases\_and\_RAG/1\_managed-rag-kb-retrieve-generate-api.ipynb at a7e62b80669378de1bae414e0b646399c7934f8e · aws-samples/amazon-bedrock-workshop · GitHub](https://github.com/aws-samples/amazon-bedrock-workshop/blob/a7e62b80669378de1bae414e0b646399c7934f8e/02_KnowledgeBases_and_RAG/1_managed-rag-kb-retrieve-generate-api.ipynb)
 - [amazon-bedrock-samples/rag-solutions/contextual-chatbot-using-knowledgebase at main · aws-samples/amazon-bedrock-samples · GitHub](https://github.com/aws-samples/amazon-bedrock-samples/tree/main/rag-solutions/contextual-chatbot-using-knowledgebase)
+- [Create a Superpowered AI Chatbot: Integrating Tools with Amazon Bedrock Converse API - YouTube](https://www.youtube.com/watch?v=oaIAyYLuZQw)
 
 ## Links
 
