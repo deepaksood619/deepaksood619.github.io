@@ -10,6 +10,6 @@
     - [Ansible Commands](devops/ansible/commands.md)
 - [Servers](devops/servers/readme.md)
 - [IDEs](ides/readme.md)
-- [Others](others/readme.md)
+- [Others](devops/others/readme.md)
 
 [DevOps Roadmap: Learn to become a DevOps Engineer or SRE](https://roadmap.sh/devops)

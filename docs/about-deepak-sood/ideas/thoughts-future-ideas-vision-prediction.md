@@ -81,7 +81,7 @@ The whole world is moving towards electric, but India is pushing more towards Hy
 
 ## Future
 
-- [news-problems](knowledge/others/news-problems.md)
+- [news-problems](knowledge/other-topics/news-problems.md)
 - [MIT Has Predicted that Society Will Collapse in 2040 | Economics Explained - YouTube](https://www.youtube.com/watch?v=kVOTPAxrrP4&ab_channel=EconomicsExplained)
 - [Do We Need More Or Less Children? | Economics Explained - YouTube](https://www.youtube.com/watch?v=A-PFgCM4jwM&ab_channel=EconomicsExplained)
 - [The Economy of Tomorrow | AI Revolution | Megacities | Documentary - YouTube](https://www.youtube.com/watch?v=jR2ho31tor4)

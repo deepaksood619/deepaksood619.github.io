@@ -9,4 +9,4 @@
 - [Elasticsearch](elasticsearch/readme.md)
 - [Brokers](brokers/readme.md)
 - [Celery](technologies/celery/readme.md)
-- [Others](others/readme.md)
+- [Others](technologies/others/readme.md)

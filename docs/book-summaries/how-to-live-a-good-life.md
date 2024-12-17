@@ -62,4 +62,4 @@ A guide to choosing your personal philosohy
 	1. If everyday is good, whole life is great.
 	2. Don't live for 2 weeks while toiling for whole year
 
-[Effective altruism](../knowledge/others/philosophy#effective-altruism)
+[Effective altruism](knowledge/other-topics/philosophy.md#effective-altruism)

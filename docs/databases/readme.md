@@ -6,7 +6,7 @@
 - [SQL Databases](sql-databases/readme.md)
 - [NoSQL Databases](nosql-databases/readme.md)
 - [Data Warehouses](databases/data-warehouses/readme.md)
-- [Others](others/readme.md)
+- [Others](databases/others/readme.md)
 - Cloud DBs
     - [Amazon Aurora](databases/sql-databases/aws-aurora/readme.md)
     - [Amazon DynamoDB](databases/nosql-databases/aws-dynamodb/readme.md)

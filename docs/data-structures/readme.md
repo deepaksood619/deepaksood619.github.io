@@ -6,4 +6,4 @@
 - [Graph](graph/readme.md)
 - [HashTable](hashtable/readme.md)
 - [Trie](trie/readme.md)
-- [Others](others/readme.md)
+- [Others](data-structures/others/readme.md)

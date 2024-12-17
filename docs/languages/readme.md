@@ -6,7 +6,7 @@
 - [PHP](php/readme.md)
 - [Golang](golang/readme.md)
 - [Frameworks](frameworks/readme.md)
-- [Others](others/readme.md)
+- [Others](languages/others/readme.md)
 
 ## Links
 
