@@ -40,10 +40,10 @@ loc
 
 ## Outline
 
-- [About me](https://deepaksood619.github.io/about-me/)
-    - [Experience](https://deepaksood619.github.io/about-me/experience/)
-    - [Projects](https://deepaksood619.github.io/about-me/projects/)
-    - [Meetups / Talks / Sessions](https://deepaksood619.github.io/about-me/meetups-talks-sessions/)
+- [About me](https://deepaksood619.github.io/about-deepak-sood/)
+    - [Experience](https://deepaksood619.github.io/about-deepak-sood/experience/)
+    - [Projects](https://deepaksood619.github.io/about-deepak-sood/projects/)
+    - [Meetups / Talks / Sessions](https://deepaksood619.github.io/about-deepak-sood/meetups-talks-sessions/)
 - [Computer Science](https://deepaksood619.github.io/computer-science/)
     - [AI](https://deepaksood619.github.io/ai/)
         - [ML Algorithms](https://deepaksood619.github.io/ai/ml-algorithms/)
@@ -103,7 +103,7 @@ There's 2000+ pages in here and lots of them I think are interesting. But these 
 - [Fallacies of Distributed Computing](https://deepaksood619.github.io/computer-science/distributed-system/fallacies-and-problems/) and [Biases / Fallacies](https://deepaksood619.github.io/psychology/biases-fallacies/) of Human Computing, which everyone should know and try to overcome in their lifetimes
 - [Types of Databases](https://deepaksood619.github.io/databases/concepts/types-of-databases/) to organize your data in the right database, since data has gravity, it becomes harder with quantity of data to migrate data over time to other databases
 - List of [YouTube / Podcasts](https://deepaksood619.github.io/knowledge/youtube-podcasts-magazine-apps/) that I follow and [YouTube Videos](https://deepaksood619.github.io/knowledge/links/) that I have watched. Also [Computer Science YouTube Videos](https://deepaksood619.github.io/computer-science/links/) that I have watched since keeping yourself updated with the field is a must.
-- [My Experiences](https://deepaksood619.github.io/about-me/experience/) over the years, [My Experiences](https://deepaksood619.github.io/about-me/meetups-talks-sessions/) I presented and [Social links](https://deepaksood619.github.io/about-me/social-links/) to connect with me
+- [My Experiences](https://deepaksood619.github.io/about-deepak-sood/experience/) over the years, [My Experiences](https://deepaksood619.github.io/about-deepak-sood/meetups-talks-sessions/) I presented and [Social links](https://deepaksood619.github.io/about-deepak-sood/social-links/) to connect with me
 
 ## Donate
 
