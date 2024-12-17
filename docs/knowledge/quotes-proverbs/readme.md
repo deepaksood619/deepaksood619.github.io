@@ -12,5 +12,5 @@
 - [Funny](funny)
 - [Tatoos Quotes](tatoos-quotes)
 - [Tips](tips)
-- [Startup Quotes](about-me/ideas/startup-quotes.md)
+- [Startup Quotes](about-deepak-sood/ideas/startup-quotes.md)
 - [Hindi](knowledge/quotes-proverbs/hindi.md)

@@ -127,7 +127,7 @@ Deepak Sood is a Senior AI, Data, and DevOps Architect with over 8 years of expe
 
 ### Podcast - Streamlining Cloud Migration Through Data Engineering
 
-[Podcast - Streamlining Cloud Migration Through Data Engineering](about-me/projects/46-podcast-streamlining-cloud-migration-through-data-engineering.md)
+[Podcast - Streamlining Cloud Migration Through Data Engineering](about-deepak-sood/projects/46-podcast-streamlining-cloud-migration-through-data-engineering.md)
 
 ### NIT Delhi - GenAI for Freshers (18 September 2024)
 

@@ -120,5 +120,5 @@ Customers say - https://www.amazon.in/Duracell-Slimmest-Charging-Portable-Simult
 
 ## Links
 
-- [AWS Gen AI Hackathon](about-me/projects/58-aws-gen-ai-hackathon-rag.md)
+- [AWS Gen AI Hackathon](about-deepak-sood/projects/58-aws-gen-ai-hackathon-rag.md)
 - [30+ large language model interview questions \[2024 Edition\]](https://www.analyticsvidhya.com/blog/2024/04/llm-interview-questions/)

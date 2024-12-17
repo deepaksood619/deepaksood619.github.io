@@ -1,0 +1,15 @@
+# About
+
+- [Resume](https://bit.ly/deepak_sood_resume)
+- [Experience](about-deepak-sood/experience.md)
+- [Projects](about-deepak-sood/projects/readme.md)
+- [Paper / Publications / References](about-deepak-sood/paper-publications-references.md)
+- [Courses / Certifications](courses/readme.md)
+- [Meetups / Talks / Sessions](about-deepak-sood/meetups-talks-sessions.md)
+- [Achievements / Activities / Awards](about-deepak-sood/achievements-activities-awards.md)
+- [Social Links](about-deepak-sood/social-links.md)
+- [FAQs](about-deepak-sood/faqs.md)
+- [Personality](about-deepak-sood/personality.md)
+- [Ideas](about-deepak-sood/ideas/readme.md)
+- [Soft Skills](../psychology/soft-skills/readme.md)
+- [Books](../book-summaries/readme.md)

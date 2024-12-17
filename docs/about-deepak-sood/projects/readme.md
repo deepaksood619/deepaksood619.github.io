@@ -6,54 +6,54 @@
 
 #### Projects
 
-- [Freecharge - Cost Optimization and Database Administration](about-me/projects/56-freecharge-cost-optimization-dba.md)
-- [Careers360 Cost Optimization](about-me/projects/57-careers360-cost-optimization.md)
-- [Azure Social Media Analytics](about-me/projects/55-azure-social-media-analytics.md)
-- [Airflow and Kafka Migration](about-me/projects/54-airflow-kafka-migration.md)
-- [AWS Gen AI Hackathon](about-me/projects/58-aws-gen-ai-hackathon-rag.md)
-- [Mozark - Cloud Cost Optimization and Performance Enhancement](about-me/projects/53-mozark-cloud-cost-optimization.md)
+- [Freecharge - Cost Optimization and Database Administration](about-deepak-sood/projects/56-freecharge-cost-optimization-dba.md)
+- [Careers360 Cost Optimization](about-deepak-sood/projects/57-careers360-cost-optimization.md)
+- [Azure Social Media Analytics](about-deepak-sood/projects/55-azure-social-media-analytics.md)
+- [Airflow and Kafka Migration](about-deepak-sood/projects/54-airflow-kafka-migration.md)
+- [AWS Gen AI Hackathon](about-deepak-sood/projects/58-aws-gen-ai-hackathon-rag.md)
+- [Mozark - Cloud Cost Optimization and Performance Enhancement](about-deepak-sood/projects/53-mozark-cloud-cost-optimization.md)
 
 #### Account Management / Sales
 
-- [Data Engineering Product Pitch IoT Industry](about-me/projects/59-data-engineering-product-pitch-iot-industry.md)
-- [MLOps Master Document](about-me/projects/63-mlops-master-document.md)
-- [Problems in IoT Industry](about-me/projects/65-problems-in-iot-industry.md)
-- [IoT Case Studies](about-me/projects/66-iot-case-studies.md)
-- [Data Engineering - Battle Cards](about-me/projects/67-data-engineering-battle-cards.md)
-- [Pull Request Risk Tagging Heuristics](about-me/projects/52-pull-request-risk-tagging-heuristics.md)
-- [Use Cases: AIML in Logistics and Warehousing](about-me/projects/50-use-cases-aiml-logistics-warehousing.md)
-- [Data Practical Use Cases](about-me/projects/49-data-practical-use-cases.md)
-- [RAG Presentation](about-me/projects/48-rag-genai-presentation.md)
-- [Opstree Standard Proposal Format](about-me/projects/71-opstree-standard-proposal-format.md)
-- [Podcast - Streamlining Cloud Migration Through Data Engineering](about-me/projects/46-podcast-streamlining-cloud-migration-through-data-engineering.md)
+- [Data Engineering Product Pitch IoT Industry](about-deepak-sood/projects/59-data-engineering-product-pitch-iot-industry.md)
+- [MLOps Master Document](about-deepak-sood/projects/63-mlops-master-document.md)
+- [Problems in IoT Industry](about-deepak-sood/projects/65-problems-in-iot-industry.md)
+- [IoT Case Studies](about-deepak-sood/projects/66-iot-case-studies.md)
+- [Data Engineering - Battle Cards](about-deepak-sood/projects/67-data-engineering-battle-cards.md)
+- [Pull Request Risk Tagging Heuristics](about-deepak-sood/projects/52-pull-request-risk-tagging-heuristics.md)
+- [Use Cases: AIML in Logistics and Warehousing](about-deepak-sood/projects/50-use-cases-aiml-logistics-warehousing.md)
+- [Data Practical Use Cases](about-deepak-sood/projects/49-data-practical-use-cases.md)
+- [RAG Presentation](about-deepak-sood/projects/48-rag-genai-presentation.md)
+- [Opstree Standard Proposal Format](about-deepak-sood/projects/71-opstree-standard-proposal-format.md)
+- [Podcast - Streamlining Cloud Migration Through Data Engineering](about-deepak-sood/projects/46-podcast-streamlining-cloud-migration-through-data-engineering.md)
 
 #### Case Studies
 
-- [Data Engineering Case Studies](about-me/projects/60-data-engineering-case-studies.md)
-- [General Application Management Case Study](about-me/projects/61-general-application-management-case-study.md)
-- [Application Management Case Study - Telecom](about-me/projects/62-application-management-case-study-telecom.md)
-- [MLOps Case Studies](about-me/projects/64-mlops-case-studies.md)
-- [Case Study: Anomaly Detection in Metric Data using Isolation Forest](about-me/projects/51-case-study-anomaly-detection.md)
-- [GenAI Case Study - Careers360](about-me/projects/47-genai-case-study-careers360.md)
-- [Traditional AI Case Studies](about-me/projects/45-traditional-ai-case-studies.md)
-- [Agri Tech Digital Transformation Case Study](about-me/projects/44-agri-tech-digital-transformation-case-study.md)
+- [Data Engineering Case Studies](about-deepak-sood/projects/60-data-engineering-case-studies.md)
+- [General Application Management Case Study](about-deepak-sood/projects/61-general-application-management-case-study.md)
+- [Application Management Case Study - Telecom](about-deepak-sood/projects/62-application-management-case-study-telecom.md)
+- [MLOps Case Studies](about-deepak-sood/projects/64-mlops-case-studies.md)
+- [Case Study: Anomaly Detection in Metric Data using Isolation Forest](about-deepak-sood/projects/51-case-study-anomaly-detection.md)
+- [GenAI Case Study - Careers360](about-deepak-sood/projects/47-genai-case-study-careers360.md)
+- [Traditional AI Case Studies](about-deepak-sood/projects/45-traditional-ai-case-studies.md)
+- [Agri Tech Digital Transformation Case Study](about-deepak-sood/projects/44-agri-tech-digital-transformation-case-study.md)
 
 ### Bake.io
 
-[Bake.io Data Engineering](about-me/projects/75-bake-io-data-engineering.md) (Mar'23 - Nov'23)
+[Bake.io Data Engineering](about-deepak-sood/projects/75-bake-io-data-engineering.md) (Mar'23 - Nov'23)
 
 ### Stashfin
 
-- [Stashfin](about-me/projects/80-stashfin.md) (Feb'20 - Feb'23)
-- [Stashfin Terms](about-me/projects/81-stashfin-terms.md) (Feb'20 - Feb'23)
-- [Stashfin Metrics](about-me/projects/82-stashfin-metrics.md)  (Feb'20 - Feb'23)
-- [Stashfin Customer Support](about-me/projects/86-stashfin-customer-support.md) (Nov'22 - Feb'23)
-- [Stashfin Twitter Bot](about-me/projects/85-stashfin-twitter-bot.md) (Nov'22 - Feb'23)
-- [Stashfin Team Management / Culture](about-me/projects/87-stashfin-team-management-culture.md) (Sep'21 - Feb'23)
-- [Stashfin Security IAM APIs](about-me/projects/88-stashfin-security-iam-apis.md) (Feb'20 - Feb'23)
-- [Stashfin Devops Overhaul](about-me/projects/89-stashfin-devops-overhaul.md) (Feb'20 - Jan'21)
-- [Stashfin Tech Stack / Infra](about-me/projects/90-stashfin-tech-stack-infra.md) (Feb'20 - Feb'23)
-- [Stashfin AIML Use Cases & Implementation](about-me/projects/91-stashfin-aiml-use-cases.md) (Feb'20 - Feb'23)
+- [Stashfin](about-deepak-sood/projects/80-stashfin.md) (Feb'20 - Feb'23)
+- [Stashfin Terms](about-deepak-sood/projects/81-stashfin-terms.md) (Feb'20 - Feb'23)
+- [Stashfin Metrics](about-deepak-sood/projects/82-stashfin-metrics.md)  (Feb'20 - Feb'23)
+- [Stashfin Customer Support](about-deepak-sood/projects/86-stashfin-customer-support.md) (Nov'22 - Feb'23)
+- [Stashfin Twitter Bot](about-deepak-sood/projects/85-stashfin-twitter-bot.md) (Nov'22 - Feb'23)
+- [Stashfin Team Management / Culture](about-deepak-sood/projects/87-stashfin-team-management-culture.md) (Sep'21 - Feb'23)
+- [Stashfin Security IAM APIs](about-deepak-sood/projects/88-stashfin-security-iam-apis.md) (Feb'20 - Feb'23)
+- [Stashfin Devops Overhaul](about-deepak-sood/projects/89-stashfin-devops-overhaul.md) (Feb'20 - Jan'21)
+- [Stashfin Tech Stack / Infra](about-deepak-sood/projects/90-stashfin-tech-stack-infra.md) (Feb'20 - Feb'23)
+- [Stashfin AIML Use Cases & Implementation](about-deepak-sood/projects/91-stashfin-aiml-use-cases.md) (Feb'20 - Feb'23)
 
 ### Zenatix (Aug'17 - Jan'20)
 
@@ -62,11 +62,11 @@
 
 ### CISO Cybersecurity
 
-[CISO Cybersecurity](about-me/projects/99-ciso-cybersecurity.md) (Dec'16 - July'17)
+[CISO Cybersecurity](about-deepak-sood/projects/99-ciso-cybersecurity.md) (Dec'16 - July'17)
 
 ## Personal Projects
 
-- [Interview - Datainsight Alerting Engine](about-me/projects/70-interview-datainsight-alerting-engine.md) (Nov'2023)
+- [Interview - Datainsight Alerting Engine](about-deepak-sood/projects/70-interview-datainsight-alerting-engine.md) (Nov'2023)
 - [GitHub - deepaksood619/react-shopping-cart](https://github.com/deepaksood619/react-shopping-cart) (May'21)
 - [GitHub - deepaksood619/FCC-Weather-App: FreeCodeCamp Weather Application Project](https://github.com/deepaksood619/FCC-Weather-App)  [FCC-Weather-App](https://codepen.io/deepaksood619/full/rpyRbZ) (Jan'18)
 - [GitHub - deepaksood619/FCC-Algorithm-Scripting: A Collection of JS Algorithm Scripting Challenges @FreeCodeCamp](https://github.com/deepaksood619/FCC-Algorithm-Scripting) (Dec'17 - Dec'21)
@@ -84,7 +84,7 @@
 - [GitHub - deepaksood619/MyWebsite: My Website from scratch.](https://github.com/deepaksood619/MyWebsite) (Apr'17)
 - [GitHub - deepaksood619/Competitive-Programming: https://www.hackerrank.com/deepaksood619, http://practice.geeksforgeeks.org/user-profile.php?user=Deepak%20Sood](https://github.com/deepaksood619/Competitive-Programming) (July'17 - Present)
     - My repository where I maintain all the competitive programming questions that I have solved. It's a collection of problems from various sites like HackerRank, GeeksForGeeks, HackerEarth, CodeChef, LeetCode, and basic algorithms and data structure questions
-- [Others](about-me/projects/98-others.md)
+- [Others](about-deepak-sood/projects/98-others.md)
 
 ### Kaggle Notebooks
 

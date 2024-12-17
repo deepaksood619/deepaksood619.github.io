@@ -14,11 +14,11 @@ I am a highly skilled and experienced engineer with 8+ years of experience with 
 
 At OpsTree, I spearheaded the creation of a data engineering vertical from the ground up, growing the team to 10-12 skilled professionals. Together, we successfully delivered numerous projects across AI, Data Engineering, and DBA domains over multiple clients. Our efforts not only enhanced the company's technical capabilities but also significantly reduced overall costs throughout the project lifecycle.
 
-- [coto.world](about-me/projects/54-airflow-kafka-migration.md) - Migration of Kafka and Airflow from SAAS to open source linode self-managed platform (Feb'24 - Apr'24)
-- [thriive.ai](about-me/projects/55-azure-social-media-analytics.md) - Social media listening (Mar'24)
-- [Freecharge cost optimization and DBA](about-me/projects/56-freecharge-cost-optimization-dba.md) (Apr'24 - Jun'24)
-- [Careers360 cost optimization](about-me/projects/57-careers360-cost-optimization.md) (May'24 - Sep'24)
-- [Mozark - Cloud Cost Optimization and Performance Enhancement](about-me/projects/53-mozark-cloud-cost-optimization.md) (Jul'24)
+- [coto.world](about-deepak-sood/projects/54-airflow-kafka-migration.md) - Migration of Kafka and Airflow from SAAS to open source linode self-managed platform (Feb'24 - Apr'24)
+- [thriive.ai](about-deepak-sood/projects/55-azure-social-media-analytics.md) - Social media listening (Mar'24)
+- [Freecharge cost optimization and DBA](about-deepak-sood/projects/56-freecharge-cost-optimization-dba.md) (Apr'24 - Jun'24)
+- [Careers360 cost optimization](about-deepak-sood/projects/57-careers360-cost-optimization.md) (May'24 - Sep'24)
+- [Mozark - Cloud Cost Optimization and Performance Enhancement](about-deepak-sood/projects/53-mozark-cloud-cost-optimization.md) (Jul'24)
 - Careers360 - Backend, Frontend, SEO, Product Overhaul, GenAI - careers.ai (Nov'24 - Present)
 - DealShare - Redshift to BQ Migration, ETL (Nov'24 - Present)
 

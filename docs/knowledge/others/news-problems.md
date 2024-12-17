@@ -18,4 +18,4 @@
 
 ## Links
 
-[thoughts-future-ideas-vision-prediction](about-me/ideas/thoughts-future-ideas-vision-prediction.md)
+[thoughts-future-ideas-vision-prediction](about-deepak-sood/ideas/thoughts-future-ideas-vision-prediction.md)
