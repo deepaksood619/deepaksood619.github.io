@@ -34,3 +34,17 @@ Long years ago we made a tryst with destiny, and now the time comes when we shal
 - Quasi-judicial Bodies
 
 [Constitutional, Statutory and Quasi-Judicial Bodies - Indian Polity Notes for UPSC](https://byjus.com/free-ias-prep/constitutional-statutory-and-quasi-judicial-bodies/)
+
+## Narendra Modi / PM Modi
+
+- Tanashah - dictator
+- More lies than others
+- Narcissist
+
+### References
+
+- [Fantastic Lies and Where to Find Them (in Case You Want to Fact-Check the PM) - The Wire](https://thewire.in/politics/fantastic-lies-and-where-to-find-them-in-case-you-want-to-fact-check-the-pm)
+- https://factsmodified.factchecker.in/
+- [Fact-checking five days of Narendra Modi’s speeches: A catalogue of lies](https://scroll.in/article/1067126/fact-checking-five-days-of-narendra-modis-speeches-a-catalogue-of-lies)
+- [Inside Indian polls: Modi’s lies, fake news and media that does not question](https://www.newslaundry.com/2024/04/18/inside-indian-polls-modis-lies-fake-news-and-media-that-does-not-question)
+- [43 Modi Claims That Are Not True, Over 5 Years](https://www.factchecker.in/43-modi-claims-that-are-not-true-over-5-years/)

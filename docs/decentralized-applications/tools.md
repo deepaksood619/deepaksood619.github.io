@@ -40,6 +40,7 @@ The future of decentralized finance lies in the hands of those who dare to chall
 - [Enabling all companies to build fintech solutions](https://plaid.com/)
 - [Payments built to scale with your business | Finix](https://finix.com/)
 - [ACH Processing Solutions. eCheck and ACH Processing for Your Business • ACH & eCheck Processing with ACHQ](https://achq.com/)
+- [World’s first Web Browser to enable Decentralized Identity | by qikfox Cybersecurity Systems, Inc. | Medium](https://qikfox.medium.com/enhance-consumer-privacy-with-qikfox-smart-browser-a1070004f554)
 
 #### Platforms
 

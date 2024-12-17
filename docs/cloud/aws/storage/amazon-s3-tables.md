@@ -75,3 +75,5 @@ AWS S3 Tables redefine how organizations manage and query Iceberg tables, combin
 [AWS re:Invent 2024 - What’s new with Amazon S3 (STG212) - YouTube](https://youtu.be/pbsIVmWqr2M?si=UYfb1GbqHUi2b3bi)
 
 [Amazon S3 Tables](https://aws.amazon.com/s3/features/tables/)
+
+[Amazon S3 Tables: A Game Changer in Analytics and Data Lake Space - DEV Community](https://dev.to/asankab/amazon-s3-tables-a-game-changer-in-analytics-and-data-lake-space-2mjo)

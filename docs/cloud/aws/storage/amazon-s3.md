@@ -256,6 +256,11 @@ aws glacier help
 
 A vault is a container for storing archives. When you create a vault, you specify a vault name and the AWS Region in which you want to create the vault
 
+## Storage Browser for Amazon S3
+
+- [Connect users to data through your apps with Storage Browser for Amazon S3 | AWS News Blog](https://aws.amazon.com/blogs/aws/connect-users-to-data-through-your-apps-with-storage-browser-for-amazon-s3/)
+- [Storage Browser for Amazon S3](https://aws.amazon.com/s3/features/storage-browser/)
+
 ## Links
 
 - [Stanislav Kozlovski on LinkedIn: AWS S3 Deep Dive](https://www.linkedin.com/posts/stanislavkozlovski_aws-s3-deep-dive-activity-7072826135792754688-I5pY?utm_source=share&utm_medium=member_desktop)

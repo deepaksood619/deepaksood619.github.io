@@ -12,6 +12,7 @@
 - [Time Series DB](time-series-db/readme.md)
 - [YugabyteDB](databases/nosql-databases/yugabytedb.md)
 - [tidb](databases/nosql-databases/tidb.md)
+- [Vector Databases](databases/nosql-databases/vector-databases.md)
 - [Comparisions](databases/nosql-databases/comparisions.md)
 
 ## Top 9 NoSQL DB Use Cases

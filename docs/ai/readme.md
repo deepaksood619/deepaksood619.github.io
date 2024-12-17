@@ -39,6 +39,7 @@ AGI will be intellectually, morally, ethically and creatively superior to humans
 - [Google's DeepMind Co-founder: AI Is Becoming More Dangerous And Threatening! - Mustafa Suleyman - YouTube](https://www.youtube.com/watch?v=CTxnLsYHWuI)
 - [Artificial consciousness - Wikipedia](https://en.wikipedia.org/wiki/Artificial_consciousness)
 - [A.I. ‐ Humanity's Final Invention? - YouTube](https://www.youtube.com/watch?v=fa8k8IQ1_X0)
+- [Once upon a time…AI created a religion about a Goat | by AJ | Medium](https://medium.com/@Paradith/once-upon-a-time-ai-created-a-religion-about-a-goat-1ff3f40c2f42)
 
 ## Links
 

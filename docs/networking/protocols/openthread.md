@@ -8,6 +8,7 @@ Thread is designed to address the unique interoperability, security, power, and 
 - Thread enables device-to-device and device-to-cloud communicationsand reliably connects hundreds (or thousands) of products and includes mandatory security features.
 - Thread networks have no single point of failure, can self-heal and reconfigure when a device is added or removed, and are simple to setup and use.
 - Thread is based on the broadly supported IEEE 802.15.4 radio standard, which is designed from the ground up for extremely low power consumption and low latency.
+
 [Thread](http://threadgroup.org/) is an IPv6-based networking protocol designed for low-power Internet of Things devices in an IEEE 802.15.4-2006 wireless mesh network, commonly called a Wireless Personal Area Network (WPAN). Thread is independent of other 802.15.4 mesh networking protocols, such a ZigBee, Z-Wave, and Bluetooth LE.
 
 Thread's primary features include:
@@ -73,7 +74,7 @@ An End Device (ED) is a node that:
 
 ## Device Types
 
-## Full Thread Device
+### Full Thread Device
 
 A Full Thread Device (FTD) always has its radio on, subscribes to the all-routers multicast address, and maintains IPv6 address mappings. There are three types of FTDs:
 
@@ -83,7 +84,7 @@ A Full Thread Device (FTD) always has its radio on, subscribes to the all-router
 
 An FTD can operate as a Router (Parent) or an End Device (Child).
 
-## Minimal Thread Device
+### Minimal Thread Device
 
 A Minimal Thread Device does not subscribe to multicast traffic and forwards all messages to its Parent. There are two types of MTDs:
 
@@ -92,12 +93,9 @@ A Minimal Thread Device does not subscribe to multicast traffic and forwards all
 
 An MTD can only operate as an End Device (Child).
 
-![image](../../media/OpenThread-image2.jpg)**References**
+## References
 
-https://openthread.io
-
-https://openthread.io/guides/thread-primer
-
-https://openthread.io/guides/thread-primer/node-roles-and-types
-
-https://openthread.io/guides/ncp
+- https://openthread.io
+- https://openthread.io/guides/thread-primer
+- https://openthread.io/guides/thread-primer/node-roles-and-types
+- https://openthread.io/guides/ncp

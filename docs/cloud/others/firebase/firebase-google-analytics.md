@@ -161,9 +161,39 @@ So, which ad campaign performed better? Seems like a no-brainer, right? Should y
 
 Well, suddenly, that second ad campaign seems like a much better deal, doesn't it?That's the idea behind attribution. **It's a powerful form of app analytics that not only determines which campaigns are bringing you users, but also which campaigns are bringing you valuable users that you care most about.**
 
-## Pushing data to GA4
+## Google Tag Manager (GTM)
 
-[GTM Guide: dataLayer.push with examples - Analytics Mania](https://www.analyticsmania.com/post/datalayer-push/)
+Tag Manager is an easy and efficient tagging system made for businesses of all sizes to manage analytics and marketing tags faster.
+
+Chrome Extension - Tag Assistant (by Google)
+
+https://support.google.com/tagmanager/answer/6102821?hl=en
+
+https://en.wikipedia.org/wiki/Tag_management_system
+
+https://www.freecodecamp.org/news/how-to-use-google-tag-manager-to-maintain-google-analytics-and-other-marketing-tags
+
+### Enhanced Measurements
+
+[\[GA4\] Enhanced measurement events - Analytics Help](https://support.google.com/analytics/answer/9216061?hl=en)
+
+[Enhanced Measurement in Google Analytics 4 (GA4) - Analytics Mania](https://www.analyticsmania.com/post/enhanced-measurement-in-google-analytics-4-the-guide/)
+
+### Pushing data to GA4 (Data Layer)
+
+- [GTM Guide: dataLayer.push with examples - Analytics Mania](https://www.analyticsmania.com/post/datalayer-push/)
+- [End-to-end guide on data layer in Google Tag Manager by Stape](https://stape.io/blog/end-to-end-guide-on-data-layer-in-google-tag-manager)
+- [Google Tag Manager Data Layer Explained (2024) - Analytics Mania](https://www.analyticsmania.com/post/what-is-data-layer-in-google-tag-manager/)
+- [The data layer  |  Tag Manager  |  Google for Developers](https://developers.google.com/tag-platform/tag-manager/datalayer)
+
+### References
+
+- **[Google Tag Manager Tutorial for Beginners (2024) with New Google Tag - YouTube](https://www.youtube.com/watch?v=DiAgCihHW58)**
+	- Tags
+	- Triggers
+	- Variables
+- **[Data Layer in Google Tag Manager || GTM Data Layer Tutorial with examples - YouTube](https://www.youtube.com/watch?v=hyZQLQITeV4)**
+- [Easily Track Button Clicks in Google Analytics 4 - YouTube](https://www.youtube.com/watch?v=kl-th7gl0HQ)
 
 ## Others
 

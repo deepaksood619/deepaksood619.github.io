@@ -681,6 +681,8 @@ kube-capacity --no-taint
 kube-capacity --pod-count
 
 kube-capacity --pods --util --sort memory.util.percentage --namespace prod
+
+kube-capacity --pods --util --sort memory.util.percentage --namespace tidb-cluster
 ```
 
 [Easy to list Kubernetes resource requests and limits with kube-capacity](https://viblo.asia/p/easy-to-list-kubernetes-resource-requests-and-limits-with-kube-capacity-english-Rk74avM6JeO)

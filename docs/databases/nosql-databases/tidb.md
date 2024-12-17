@@ -67,6 +67,42 @@ TiKV ("Ti" stands for Titanium) is an open source distributed transactional key-
 
 https://github.com/tikv/tikv
 
+## TiFlash
+
+The columnar storage extension that uses the Multi-Raft Learner protocol to replicate data from TiKV in real-time, ensuring consistent data between the TiKV row-based storage engine.
+
+## Tuning TiDB
+
+### Index Optimization
+
+Set the following parameters before starting the index.
+
+`@@global.tidb_ddl_reorg_worker_cnt = 16; SET @@global.tidb_ddl_reorg_batch_size = 4096;`
+
+Reset to default values after index creation.
+
+`@@global.tidb_ddl_reorg_worker_cnt = 4; SET @@global.tidb_ddl_reorg_batch_size = 256`
+
+### Partition Pruning
+
+This is mainly important for partitioned tables. It analyzes the filter conditions in query statements and eliminates (prunes) partitions when they do not contain any required data.
+
+`SET @@global.tidb_ddl_reorg_worker_cnt = 16;`
+
+`SET @@global.tidb_ddl_reorg_batch_size = 4096;`
+
+### Tuning Analyze
+
+Sometimes the auto analyzer in TiDB fails if a high volume of data is ingested. In that case, all the queries might use the wrong execution plan and end up scanning the full table. To avoid such a situation we made the following changes in TiDB configurations:
+
+```bash
+SET global tidb_max_auto_analyze_time = 86400;
+SET global tidb_enable_pseudo_for_outdated_stats = off;
+SET global tidb_sysproc_scan_concurrency = 15;
+```
+
+If you are working with partitioned tables, we suggest you run analyze table operations manually for one partition at a time to avoid analyzing failures.
+
 ## Links
 
 - [Why #TiDB? - YouTube](https://www.youtube.com/watch?v=aWBNNPm21zg&ab_channel=PingCAP)

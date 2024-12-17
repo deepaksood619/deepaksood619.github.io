@@ -93,7 +93,7 @@ Mis (Monthly Income Scheme) - Limit 9 lakh
 
 [Senior Citizen Savings Scheme (SCSS) - Interest Rate 2024, Tax Benefits, Eligibility, Rules and Opening SCSS Account](https://www.bajajfinserv.in/investments/scss-interest-rate)
 
-[Site Unreachable](https://cleartax.in/s/senior-citizen-savings-scheme)
+[Senior Citizen Savings Scheme (SCSS) - Interest Rate 2024, Tax Benefits, Eligibility, Rules & Opening SCSS Account](https://cleartax.in/s/senior-citizen-savings-scheme)
 
 ### Mahila Samman Saving certificate - 7.5% 2 lakh
 

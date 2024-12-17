@@ -36,9 +36,11 @@
 
 ## Crawl rate
 
-Crawl rate is the number of requests a [search engine crawler](https://www.lumar.io/learn/seo/crawlability/search-engine-crawling/) makes to a website in a day and was introduced to reduce server overload. Due to sophisticated algorithms, Google is able to determine and set an optimal crawl budget for individual sites, this is covered within our SEO Office Hours Notes along with further best practice advice.
+**Check Crawl Stats -** Google Search Console > Settings > Crawl Stats
 
-==If Your Average Server Response Time Goes Up Significantly Because of a CDN Implementation, Google Will Crawl Your Site Less.== This is because Google's crawl rate is based on average response time and server errors. A longer response time can mean that Googlebot is unable to crawl as much of a site as it would ideally like.
+- https://search.google.com/search-console/settings/crawl-stats
+
+Crawl rate is the number of requests a [search engine crawler](https://www.lumar.io/learn/seo/crawlability/search-engine-crawling/) makes to a website in a day and was introduced to reduce server overload. Due to sophisticated algorithms, Google is able to determine and set an optimal crawl budget for individual sites, this is covered within our SEO Office Hours Notes along with further best practice advice.
 
 Here are some things you can try to increase your site's crawl rate:
 
@@ -49,6 +51,25 @@ Here are some things you can try to increase your site's crawl rate:
 - Avoid duplicate content
 - Block unwanted pages via Robots
 - Optimize images and videos
+
+### Crawl Average Response Time
+
+A good average response time for a Google crawl is under 200 milliseconds (ms)
+
+- Under 100 ms: Excellent
+- 100 ms to 200 ms: Good
+- 200 ms to 1 second: Acceptable, but room for improvement
+- Above 1 second: Too slow and needs optimization
+
+A response time closer to 1,000 ms could mean Googlebot isn't able to crawl as much of a site as it ideally would.
+
+==If Your Average Server Response Time Goes Up Significantly because of a CDN Implementation, Google Will Crawl Your Site Less.== This is because Google's crawl rate is based on average response time and server errors. A longer response time can mean that Googlebot is unable to crawl as much of a site as it would ideally like.
+
+[How to Improve Server Response Time - Google Crawl Stat](https://opositive.io/blog/crawl-stats-what-is-server-response-time-in-gsc)
+
+[Google Crawl Stats & TTFB: A Critical Underrated Relationship - 🏆 Managed Server](https://www.managedserver.eu/google-crawl-stats-and-ttfb-a-critical-underrated-relationship/)
+
+[How to Use Google Search Console Crawl Stats Report](https://neilpatel.com/blog/google-search-console-crawl-stats/)
 
 ## Crawl Budget
 
@@ -82,6 +103,19 @@ Additionally, site-wide events like site moves may trigger an increase in crawl 
 [Google Crawling and Indexing | Google Search Central  |  Documentation  |  Google for Developers](https://developers.google.com/search/docs/crawling-indexing)
 
 [Google Crawler (User Agent) Overview | Google Search Central  |  Documentation  |  Google for Developers](https://developers.google.com/search/docs/crawling-indexing/overview-google-crawlers)
+
+[How Google Search Deals With Crawl Rate - SEO Insights - Lumar](https://www.lumar.io/office-hours/crawl-rate/)
+
+## Robots.txt
+
+- [How Robots.txt Works - YouTube](https://www.youtube.com/watch?v=IXNEVt9rZG8)
+- [Robots.txt Introduction and Guide | Google Search Central  |  Documentation  |  Google for Developers](https://developers.google.com/search/docs/crawling-indexing/robots/intro)
+- [​robots.txt report - Search Console Help](https://support.google.com/webmasters/answer/6062598?hl=en)
+
+### Tools
+
+- [| TechnicalSEO.com](https://technicalseo.com/tools/robots-txt/)
+- [Robots.txt Test | SEO Site Checkup](https://seositecheckup.com/tools/robotstxt-test)
 
 ## Links
 

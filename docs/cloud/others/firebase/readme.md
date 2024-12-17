@@ -8,18 +8,6 @@
 - Let's see an example: the user clicks a first ad on the smartphone, then clicks a second ad on a tablet and finally completes the conversion on a desktop (mobile > tablet> desktop).
 - You can now develop a holistic (aggregated) view of the cross-device interactions of the users and how they got to the final conversion. The feature is of huge help to enhance remarketing and reporting.
 
-## Google Tag Manager (GTM)
-
-Tag Manager is an easy and efficient tagging system made for businesses of all sizes to manage analytics and marketing tags faster.
-
-Chrome Extension - Tag Assistant (by Google)
-
-https://support.google.com/tagmanager/answer/6102821?hl=en
-
-https://en.wikipedia.org/wiki/Tag_management_system
-
-https://www.freecodecamp.org/news/how-to-use-google-tag-manager-to-maintain-google-analytics-and-other-marketing-tags
-
 ## Firebase Dynamic Links
 
 Firebase Dynamic Links are links that work the way you want, on multiple platforms, and whether or not your app is already installed.

@@ -26,6 +26,7 @@
 - [YOUR NEXT FIVE MOVES by Patrick Bet-David | Core Message - YouTube](https://www.youtube.com/watch?v=-CyEpjm-sEE)
 - [THE ALGEBRA OF WEALTH by Scott Galloway | Core Message - YouTube](https://www.youtube.com/watch?v=XUs4nTC0oOY&ab_channel=ProductivityGame)
 - [THE INTELLIGENT INVESTOR by Benjamin Graham | Core Message - YouTube](https://www.youtube.com/watch?v=eT2DA389c8w)
+- [Bruce Lee Wisdom: BE WATER, MY FRIEND by Shannon Lee | Core Message - YouTube](https://www.youtube.com/watch?v=dkpQGQcbOc0)
 
 ### [Learn to lead: THE 21 IRREFUTABLE LAWS OF LEADERSHIP by John Maxwell | Core Message - YouTube](https://www.youtube.com/watch?v=QQhdiktL99w)
 

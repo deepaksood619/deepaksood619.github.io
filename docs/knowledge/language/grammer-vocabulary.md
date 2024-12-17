@@ -201,6 +201,7 @@ https://myenglishmatters.com/2018/06/28/whats-the-difference-between-has-been-ha
 - orthodoxy - authorized or generally accepted theory, doctrine, or practice.
 - Incumbents - a person who is currently in an official position
 - Probity - Probity means complete honesty or the quality of being honest and behaving correctly. It's a formal word that implies tried and proven honesty or integrity. For example, you might describe someone as a person of probity. The word probity comes from the Latin word probus, which means "honest"
+- Putting legs on a snake - doing unnecessary work that can ruin the result
 
 ### Shill / Shilling
 

@@ -27,21 +27,13 @@
     - Design of Zookeeper
 - Week 5
     - Design of HBase
-
         1. What is HBase?
-
         2. HBase Architecture
-
         3. HBase Components
-
         4. Data model
-
         5. HBase Storage Hierarchy
-
         6. Cross-Datacenter Replication
-
         7. Auto Sharding and Distribution
-
         8. Bloom Filter and Fold, Store, and Shift
     - Spark Streaming and Sliding Window Analytics
     - Sliding Window Analytics

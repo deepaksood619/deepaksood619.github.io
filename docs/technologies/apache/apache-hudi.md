@@ -55,6 +55,18 @@ The choice between COW and MOR in Apache Hudi largely depends on your specific r
 2. **Data Consistency:** If your application requires strong consistency and atomicity during writes, COW is preferable. MOR is better suited for scenarios where eventual consistency is acceptable.
 3. **Use Case:** For analytical workloads and batch processing, COW shines. For real-time data processing and streaming applications, MOR is often the way to go.
 
+## Apache Hudi 1.0 Release
+
+- **Secondary Indexing -** 95% decreased query latency with additional indexes that accelerate queries beyond primary keys. For example, build a Bloom Index on any column using new SQL syntax to create/drop indexes asynchronously.
+- **Expression Indexes -** Borrowing a page from Postgres, you can now define indexes as expressions of columns. This allows you to build crucial metadata for data skipping without relying on table schema or directory structures typically needed for partitioning.
+- **Partial Updates -** 2.6x performance boost and 85% reduction in write amplification with MERGE INTO SQL statements that modify only changed fields of a record, massively improving performance for update-heavy workloads.
+- **Non-blocking Concurrency Control -** Simultaneous writing from multiple writers and compaction of the same record without blocking processes, achieved via lightweight distributed locks and new TrueTime semantics.
+- **Merge Modes -** First-class support for both stream processing styles: commit_time_ordering, event_time_ordering, and custom record merger APIs.
+- **LSM Timeline -** A revamped timeline storing all action history as a scalable LSM tree, enabling users to retain extensive table history.
+- **TrueTime -** Strengthened TrueTime semantics, ensuring forward-moving clocks for distributed processes with a maximum tolerable clock skew, similar to OLTP/NoSQL stores.
+
+[Announcing Apache Hudi 1.0 and the Next Generation of Data Lakehouses | Apache Hudi](https://hudi.apache.org/blog/2024/12/16/announcing-hudi-1-0-0/)
+
 ## Apache Hudi vs Clickhouse
 
 **Apache Hudi** and **ClickHouse** are both powerful tools in the data ecosystem, but they serve different purposes, making them complementary in many use cases rather than direct competitors.

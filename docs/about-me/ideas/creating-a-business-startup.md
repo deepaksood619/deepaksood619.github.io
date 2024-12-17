@@ -310,6 +310,12 @@ Discovery commerce is the equivalent of 'I'm feeling lucky' in Google searches. 
 
 [The New Digital Trend: Discovery Commerce | Sales Layer](https://blog.saleslayer.com/the-new-digital-trend-discovery-commerce)
 
+## Co-Founder
+
+- [Y Combinator Co-Founder Matching Platform - find a co-founder through YC | Y Combinator](https://www.ycombinator.com/cofounder-matching)
+- [Co-Founder Equity Mistakes to Avoid | Startup School - YouTube](https://www.youtube.com/watch?v=DISocTmEwiI)
+- [How To Find A Co-Founder | Startup School - YouTube](https://www.youtube.com/watch?v=Fk9BCr5pLTU)
+
 ## Links
 
 - [How I Turned $300 Into $5.1 Billion - YouTube](https://www.youtube.com/watch?v=XWwMr1jYIDE)
@@ -317,8 +323,6 @@ Discovery commerce is the equivalent of 'I'm feeling lucky' in Google searches. 
 - [How to build a company board as a founder?](https://shorts.growthx.club/how-to-build-a-board-with-intent)
 - [GitHub - sdg-1/consulting-handbook: A guide for technical professionals looking to start consulting](https://github.com/sdg-1/consulting-handbook)
 - [I Broke Down A Shocking Report About The Indian Luxury Market! - YouTube](https://www.youtube.com/watch?v=o5AAI5WaMFE)
-- [Co-Founder Equity Mistakes to Avoid | Startup School - YouTube](https://www.youtube.com/watch?v=DISocTmEwiI)
 - [Business Building Masterclass - Idea to Product ✈️ - YouTube](https://www.youtube.com/watch?v=juZmbYfGmiU&ab_channel=LabourLawAdvisor)
-- [How To Find A Co-Founder | Startup School - YouTube](https://www.youtube.com/watch?v=Fk9BCr5pLTU)
 - [How To Start A Dev Tools Company | Startup School - YouTube](https://www.youtube.com/watch?v=z1aKRhRnVNk)
 - [Make ₹50 Lakhs in 50 Days | E-Commerce/Business Masterclass - YouTube](https://www.youtube.com/watch?v=N3rZ6glHKTQ)

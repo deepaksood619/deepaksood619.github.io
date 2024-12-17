@@ -23,3 +23,30 @@ https://en.wikipedia.org/wiki/Message_Passing_Interface
 ## Concurrency vs Parallelism
 
 ![Concurrency vs Parallelism](../../media/Pasted%20image%2020240607132644.png)
+
+## Embarrassingly Parallel
+
+In parallel computing, an embarrassingly parallel problem is one that can be easily split into multiple parallel tasks with little to no communication between the tasks:
+
+### Characteristics
+
+These problems are considered relatively simple to parallelize, and are well suited to large, internet-based distributed platforms.
+
+### Examples
+
+Some examples of embarrassingly parallel jobs include:
+
+- Rendering 3D graphics
+- Monte Carlo simulations
+- Image or video processing
+- Parameter sweeps
+- Data mining
+- Brute-force search
+
+### Term origin
+
+The term "embarrassingly" refers to parallelization problems that are "embarrassingly easy".
+
+[Embarrassingly parallel - Wikipedia](https://en.wikipedia.org/wiki/Embarrassingly_parallel)
+
+[Embarrassingly Parallel Algorithms Explained](https://www.freecodecamp.org/news/embarrassingly-parallel-algorithms-explained-with-examples/)

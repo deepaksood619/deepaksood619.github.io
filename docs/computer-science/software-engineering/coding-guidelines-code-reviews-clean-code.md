@@ -93,6 +93,8 @@ https://www.fluentcpp.com/2016/12/15/respect-levels-of-abstraction
 - Never Nester
 - If you need more than 3 levels of indentation, you're screwed anyway, and should fix your program
 
+[Code Sexy Or Don’t Code At All!. Appearance matters a lot to everyone… | by Upnishad Deo | Medium](https://medium.com/@upanishaddeo/code-sexy-or-dont-code-at-all-53aa1488b92)
+
 ## Links
 
 [GitHub - google/git-appraise: Distributed code review system for Git repos](https://github.com/google/git-appraise)

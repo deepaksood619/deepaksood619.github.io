@@ -154,6 +154,11 @@ No matter what AI framework you pick, I always recommend using a robust data pla
 
 [Build Agentic Workflows Using LangGraph! - YouTube](https://www.youtube.com/watch?v=QblpBsipCwM)
 
+#### LangSmith
+
+- [LangSmith](https://www.langchain.com/langsmith)
+- [What is LangSmith and why should I care as a developer? | by Logan Kilpatrick | Around the Prompt | Medium](https://medium.com/around-the-prompt/what-is-langsmith-and-why-should-i-care-as-a-developer-e5921deb54b5)
+
 ### Ollama / LM Studio
 
 The easiest way to get up and running with large language models locally.

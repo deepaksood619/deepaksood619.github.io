@@ -54,3 +54,10 @@ https://www.youtube.com/watch?v=3hLmDS179YE
 - https://d1.awsstatic.com/whitepapers/architecture/AWS-Reliability-Pillar.pdf
 - https://d1.awsstatic.com/whitepapers/architecture/AWS-Cost-Optimization-Pillar.pdf
 - https://d1.awsstatic.com/whitepapers/architecture/AWS-Operational-Excellence-Pillar.pdf
+
+## AWS ReInvent 2024 Highlights
+
+- [Top announcements of AWS re:Invent 2024 | AWS News Blog](https://aws.amazon.com/blogs/aws/top-announcements-of-aws-reinvent-2024/)
+- [AWS cuts database prices almost 50% and adds distributed scaling capabilities | VentureBeat](https://venturebeat.com/data-infrastructure/aws-cuts-database-prices-almost-50-and-adds-distributed-scaling-capabilities/)
+- [AWS re:Invent 2024 announcements and keynote updates](https://www.aboutamazon.com/news/aws/aws-reinvent-2024-keynote-live-news-updates)
+- [AWS re:Invent 2024 Highlights - reInvent Keynote & New Features Summarized - YouTube](https://www.youtube.com/watch?v=VVGcp_Wypuo)

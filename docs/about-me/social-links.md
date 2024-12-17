@@ -66,3 +66,4 @@
     - RataType - http://www.ratatype.com/c519043
     - 10FastFingers - https://10fastfingers.com/user/1090885
 - Regex Crossword - https://regexcrossword.com/players/38485
+- YourStory - https://yourstory.com/people/deepak-sood

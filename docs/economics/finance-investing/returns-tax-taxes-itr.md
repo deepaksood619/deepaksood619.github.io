@@ -196,6 +196,8 @@ Taxes can be significantly reduced. For 60 lakh under 44ADA tax is only around 7
 
 LUT (Letter of Undertaking) - [GST: How to file an LUT?](https://www.thegalacticadvisors.com/post/gst-how-to-file-an-lut) - let's you export goods or services without payment of GST
 
+Proprietorship Taxation - [Proprietorship Tax Return Filing & Its Compliance - IndiaFilings](https://www.indiafilings.com/learn/proprietorship-tax-return-filing/)
+
 ## Deductions
 
 ### Deduction U/S 10 - HRA
