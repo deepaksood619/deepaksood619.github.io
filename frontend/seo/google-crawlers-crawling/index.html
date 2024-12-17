@@ -18,8 +18,8 @@
 <meta name="theme-color" content="rgb(47, 133, 85)">
 
 <script src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5616865131274062" async crossorigin="anonymous"></script><link rel="stylesheet" href="/assets/css/styles.1aa998db.css">
-<script src="/assets/js/runtime~main.24b3842a.js" defer="defer"></script>
-<script src="/assets/js/main.2b0e16c7.js" defer="defer"></script>
+<script src="/assets/js/runtime~main.e9ace29f.js" defer="defer"></script>
+<script src="/assets/js/main.d3e028ce.js" defer="defer"></script>
 </head>
 <body class="navigation-with-keyboard">
 <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TN3KBF4" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
@@ -64,8 +64,11 @@
 </ul>
 <p><a href="https://www.youtube.com/watch?v=BKZxZwUgL3Y" target="_blank" rel="noopener noreferrer">System Design distributed web crawler to crawl Billions of web pages | web crawler system design</a></p>
 <h2 class="anchor anchorWithStickyNavbar_LWe7" id="crawl-rate">Crawl rate<a href="#crawl-rate" class="hash-link" aria-label="Direct link to Crawl rate" title="Direct link to Crawl rate">​</a></h2>
+<p><strong>Check Crawl Stats -</strong> Google Search Console &gt; Settings &gt; Crawl Stats</p>
+<ul>
+<li><a href="https://search.google.com/search-console/settings/crawl-stats" target="_blank" rel="noopener noreferrer">https://search.google.com/search-console/settings/crawl-stats</a></li>
+</ul>
 <p>Crawl rate is the number of requests a <a href="https://www.lumar.io/learn/seo/crawlability/search-engine-crawling/" target="_blank" rel="noopener noreferrer">search engine crawler</a> makes to a website in a day and was introduced to reduce server overload. Due to sophisticated algorithms, Google is able to determine and set an optimal crawl budget for individual sites, this is covered within our SEO Office Hours Notes along with further best practice advice.</p>
-<p>==If Your Average Server Response Time Goes Up Significantly Because of a CDN Implementation, Google Will Crawl Your Site Less.== This is because Google&#x27;s crawl rate is based on average response time and server errors. A longer response time can mean that Googlebot is unable to crawl as much of a site as it would ideally like.</p>
 <p>Here are some things you can try to increase your site&#x27;s crawl rate:</p>
 <ul>
 <li>Add new content regularly</li>
@@ -76,6 +79,19 @@
 <li>Block unwanted pages via Robots</li>
 <li>Optimize images and videos</li>
 </ul>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="crawl-average-response-time">Crawl Average Response Time<a href="#crawl-average-response-time" class="hash-link" aria-label="Direct link to Crawl Average Response Time" title="Direct link to Crawl Average Response Time">​</a></h3>
+<p>A good average response time for a Google crawl is under 200 milliseconds (ms)</p>
+<ul>
+<li>Under 100 ms: Excellent</li>
+<li>100 ms to 200 ms: Good</li>
+<li>200 ms to 1 second: Acceptable, but room for improvement</li>
+<li>Above 1 second: Too slow and needs optimization</li>
+</ul>
+<p>A response time closer to 1,000 ms could mean Googlebot isn&#x27;t able to crawl as much of a site as it ideally would.</p>
+<p>==If Your Average Server Response Time Goes Up Significantly because of a CDN Implementation, Google Will Crawl Your Site Less.== This is because Google&#x27;s crawl rate is based on average response time and server errors. A longer response time can mean that Googlebot is unable to crawl as much of a site as it would ideally like.</p>
+<p><a href="https://opositive.io/blog/crawl-stats-what-is-server-response-time-in-gsc" target="_blank" rel="noopener noreferrer">How to Improve Server Response Time - Google Crawl Stat</a></p>
+<p><a href="https://www.managedserver.eu/google-crawl-stats-and-ttfb-a-critical-underrated-relationship/" target="_blank" rel="noopener noreferrer">Google Crawl Stats &amp; TTFB: A Critical Underrated Relationship - 🏆 Managed Server</a></p>
+<p><a href="https://neilpatel.com/blog/google-search-console-crawl-stats/" target="_blank" rel="noopener noreferrer">How to Use Google Search Console Crawl Stats Report</a></p>
 <h2 class="anchor anchorWithStickyNavbar_LWe7" id="crawl-budget">Crawl Budget<a href="#crawl-budget" class="hash-link" aria-label="Direct link to Crawl Budget" title="Direct link to Crawl Budget">​</a></h2>
 <p><a href="https://developers.google.com/search/docs/crawling-indexing/large-site-managing-crawl-budget" target="_blank" rel="noopener noreferrer">Crawl Budget Management For Large Sites | Google Search Central  |  Documentation  |  Google for Developers</a></p>
 <p>Crawl budget is determined by two main elements: <em>crawl capacity limit</em> and <em>crawl demand</em>.</p>
@@ -98,12 +114,24 @@
 <p>Additionally, site-wide events like site moves may trigger an increase in crawl demand in order to reindex the content under the new URLs.</p>
 <p><a href="https://developers.google.com/search/docs/crawling-indexing" target="_blank" rel="noopener noreferrer">Google Crawling and Indexing | Google Search Central  |  Documentation  |  Google for Developers</a></p>
 <p><a href="https://developers.google.com/search/docs/crawling-indexing/overview-google-crawlers" target="_blank" rel="noopener noreferrer">Google Crawler (User Agent) Overview | Google Search Central  |  Documentation  |  Google for Developers</a></p>
+<p><a href="https://www.lumar.io/office-hours/crawl-rate/" target="_blank" rel="noopener noreferrer">How Google Search Deals With Crawl Rate - SEO Insights - Lumar</a></p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="robotstxt">Robots.txt<a href="#robotstxt" class="hash-link" aria-label="Direct link to Robots.txt" title="Direct link to Robots.txt">​</a></h2>
+<ul>
+<li><a href="https://www.youtube.com/watch?v=IXNEVt9rZG8" target="_blank" rel="noopener noreferrer">How Robots.txt Works - YouTube</a></li>
+<li><a href="https://developers.google.com/search/docs/crawling-indexing/robots/intro" target="_blank" rel="noopener noreferrer">Robots.txt Introduction and Guide | Google Search Central  |  Documentation  |  Google for Developers</a></li>
+<li><a href="https://support.google.com/webmasters/answer/6062598?hl=en" target="_blank" rel="noopener noreferrer">​robots.txt report - Search Console Help</a></li>
+</ul>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="tools">Tools<a href="#tools" class="hash-link" aria-label="Direct link to Tools" title="Direct link to Tools">​</a></h3>
+<ul>
+<li><a href="https://technicalseo.com/tools/robots-txt/" target="_blank" rel="noopener noreferrer">| TechnicalSEO.com</a></li>
+<li><a href="https://seositecheckup.com/tools/robotstxt-test" target="_blank" rel="noopener noreferrer">Robots.txt Test | SEO Site Checkup</a></li>
+</ul>
 <h2 class="anchor anchorWithStickyNavbar_LWe7" id="links">Links<a href="#links" class="hash-link" aria-label="Direct link to Links" title="Direct link to Links">​</a></h2>
 <ul>
 <li><a href="/frontend/seo/seo-aso">SEO / ASO</a></li>
 <li><a href="https://www.youtube.com/@GoogleSearchCentral" target="_blank" rel="noopener noreferrer">Google Search Central - YouTube</a></li>
 <li><a href="https://www.youtube.com/@AhrefsCom" target="_blank" rel="noopener noreferrer">Ahrefs - YouTube</a></li>
 <li><a href="https://www.youtube.com/playlist?list=PLKoqnv2vTMUN83JWBNM6MoBuBcyqhFNY3" target="_blank" rel="noopener noreferrer">How Search Works - YouTube</a></li>
-</ul></div><footer class="theme-doc-footer docusaurus-mt-lg"><div class="theme-doc-footer-edit-meta-row row"><div class="col"><a href="https://github.com/deepaksood619/deepaksood619.github.io/tree/master/docs/frontend/seo/google-crawlers-crawling.md" target="_blank" rel="noopener noreferrer" class="theme-edit-this-page"><svg fill="currentColor" height="20" width="20" viewBox="0 0 40 40" class="iconEdit_Z9Sw" aria-hidden="true"><g><path d="m34.5 11.7l-3 3.1-6.3-6.3 3.1-3q0.5-0.5 1.2-0.5t1.1 0.5l3.9 3.9q0.5 0.4 0.5 1.1t-0.5 1.2z m-29.5 17.1l18.4-18.5 6.3 6.3-18.4 18.4h-6.3v-6.2z"></path></g></svg>Edit this page</a></div><div class="col lastUpdated_vwxv"><span class="theme-last-updated">Last updated<!-- --> on <b><time datetime="2024-12-12T16:25:43.000Z">Dec 12, 2024</time></b></span></div></div></footer></article><nav class="pagination-nav docusaurus-mt-lg" aria-label="Docs pages"><a class="pagination-nav__link pagination-nav__link--prev" href="/frontend/seo/core-web-vitals"><div class="pagination-nav__sublabel">Previous</div><div class="pagination-nav__label">Core Web Vitals</div></a><a class="pagination-nav__link pagination-nav__link--next" href="/frontend/seo/seo-aso"><div class="pagination-nav__sublabel">Next</div><div class="pagination-nav__label">SEO / ASO</div></a></nav></div></div><div class="col col--3"><div class="tableOfContents_bqdL thin-scrollbar theme-doc-toc-desktop"><ul class="table-of-contents table-of-contents__left-border"><li><a href="#web-crawlers" class="table-of-contents__link toc-highlight">Web Crawlers</a><ul><li><a href="#use-case" class="table-of-contents__link toc-highlight">Use Case</a></li><li><a href="#features" class="table-of-contents__link toc-highlight">Features</a></li></ul></li><li><a href="#crawl-rate" class="table-of-contents__link toc-highlight">Crawl rate</a></li><li><a href="#crawl-budget" class="table-of-contents__link toc-highlight">Crawl Budget</a><ul><li><a href="#crawl-capacity-limit" class="table-of-contents__link toc-highlight">Crawl capacity limit</a></li><li><a href="#crawl-demand" class="table-of-contents__link toc-highlight">Crawl demand</a></li></ul></li><li><a href="#links" class="table-of-contents__link toc-highlight">Links</a></li></ul></div></div></div></div></main></div></div></div><footer class="footer footer--dark"><div class="container container-fluid"><div class="footer__bottom text--center"><div class="footer__copyright">Copyright © 2024 Deep Notes, Built with ❤️</div></div></div></footer></div>
+</ul></div><footer class="theme-doc-footer docusaurus-mt-lg"><div class="theme-doc-footer-edit-meta-row row"><div class="col"><a href="https://github.com/deepaksood619/deepaksood619.github.io/tree/master/docs/frontend/seo/google-crawlers-crawling.md" target="_blank" rel="noopener noreferrer" class="theme-edit-this-page"><svg fill="currentColor" height="20" width="20" viewBox="0 0 40 40" class="iconEdit_Z9Sw" aria-hidden="true"><g><path d="m34.5 11.7l-3 3.1-6.3-6.3 3.1-3q0.5-0.5 1.2-0.5t1.1 0.5l3.9 3.9q0.5 0.4 0.5 1.1t-0.5 1.2z m-29.5 17.1l18.4-18.5 6.3 6.3-18.4 18.4h-6.3v-6.2z"></path></g></svg>Edit this page</a></div><div class="col lastUpdated_vwxv"><span class="theme-last-updated">Last updated<!-- --> on <b><time datetime="2024-12-17T18:40:08.000Z">Dec 17, 2024</time></b></span></div></div></footer></article><nav class="pagination-nav docusaurus-mt-lg" aria-label="Docs pages"><a class="pagination-nav__link pagination-nav__link--prev" href="/frontend/seo/core-web-vitals"><div class="pagination-nav__sublabel">Previous</div><div class="pagination-nav__label">Core Web Vitals</div></a><a class="pagination-nav__link pagination-nav__link--next" href="/frontend/seo/seo-aso"><div class="pagination-nav__sublabel">Next</div><div class="pagination-nav__label">SEO / ASO</div></a></nav></div></div><div class="col col--3"><div class="tableOfContents_bqdL thin-scrollbar theme-doc-toc-desktop"><ul class="table-of-contents table-of-contents__left-border"><li><a href="#web-crawlers" class="table-of-contents__link toc-highlight">Web Crawlers</a><ul><li><a href="#use-case" class="table-of-contents__link toc-highlight">Use Case</a></li><li><a href="#features" class="table-of-contents__link toc-highlight">Features</a></li></ul></li><li><a href="#crawl-rate" class="table-of-contents__link toc-highlight">Crawl rate</a><ul><li><a href="#crawl-average-response-time" class="table-of-contents__link toc-highlight">Crawl Average Response Time</a></li></ul></li><li><a href="#crawl-budget" class="table-of-contents__link toc-highlight">Crawl Budget</a><ul><li><a href="#crawl-capacity-limit" class="table-of-contents__link toc-highlight">Crawl capacity limit</a></li><li><a href="#crawl-demand" class="table-of-contents__link toc-highlight">Crawl demand</a></li></ul></li><li><a href="#robotstxt" class="table-of-contents__link toc-highlight">Robots.txt</a><ul><li><a href="#tools" class="table-of-contents__link toc-highlight">Tools</a></li></ul></li><li><a href="#links" class="table-of-contents__link toc-highlight">Links</a></li></ul></div></div></div></div></main></div></div></div><footer class="footer footer--dark"><div class="container container-fluid"><div class="footer__bottom text--center"><div class="footer__copyright">Copyright © 2024 Deep Notes, Built with ❤️</div></div></div></footer></div>
 </body>
 </html>
