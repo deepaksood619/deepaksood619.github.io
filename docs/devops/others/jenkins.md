@@ -188,8 +188,7 @@ https://www.jenkins.io/doc/book/pipeline/jenkinsfile
 
 ## Jenkins
 
-show all env variables in Jenkins
-[http://jenkins_server_url:port/env-vars.html/](http://%3cjenkins_server_url:port%3e/env-vars.html/)
+show all env variables in Jenkins - `http://jenkins_server_url:port/env-vars.html/`
 
 ## Multibranch Pipeline
 

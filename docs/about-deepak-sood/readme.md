@@ -1,6 +1,5 @@
-# About
+# About Deepak Sood
 
-- [Resume](https://bit.ly/deepak_sood_resume)
 - [Experience](about-deepak-sood/experience.md)
 - [Projects](about-deepak-sood/projects/readme.md)
 - [Paper / Publications / References](about-deepak-sood/paper-publications-references.md)
@@ -13,3 +12,4 @@
 - [Ideas](about-deepak-sood/ideas/readme.md)
 - [Soft Skills](../psychology/soft-skills/readme.md)
 - [Books](../book-summaries/readme.md)
+- [Resume](https://bit.ly/deepak_sood_resume)

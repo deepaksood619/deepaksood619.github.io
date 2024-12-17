@@ -54,7 +54,7 @@ https://www.investopedia.com/articles/markets/011116/worlds-top-10-private-equit
 - TPG Capital
 - Warburg Pincus LLC
 - Neuberger Berman Group LLC
-- https://www.strikerpartners.com> - The Graham Group
+- https://www.strikerpartners.com - The Graham Group
 - Chris Kolenaty - Founder of Snow Leopard Ventures / Snow Leopard Global Capital Management
 - QED Investors / qedinvestors (Nigel Morris founder of capital one)
 

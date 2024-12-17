@@ -24,6 +24,7 @@ services:
                 # cd deepaksood619.github.io/.layouts
                 # npm i
                 # npm start
+                # npm run start --host 0.0.0.0  # not working
                 # npm run build
                 # cd ..
                 # git checkout -b gh-pages
@@ -45,5 +46,5 @@ services:
                 # npm ci
                 # npm start
 
-        # volumes:
-        #     - .:/app/
+        volumes:
+            - .:/app/

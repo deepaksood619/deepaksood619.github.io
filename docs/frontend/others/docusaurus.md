@@ -68,6 +68,10 @@ swizzling permits to **swap a theme component with your own implementation**, a
 npx docusaurus-mdx-checker
 ```
 
+### Upgrading minor versions
+
+To upgrade a minor version in Docusaurus v3, simply open your `package.json` file, locate the `"@docusaurus/core"` dependency, and change the minor version number to the desired one, then run `npm install` or `yarn install` to install the updated version and its dependencies; ensure all "@docusaurus" packages are updated to the same minor version for consistency. 
+
 ## Search
 
 [Search | Docusaurus](https://docusaurus.io/docs/search)
@@ -124,3 +128,7 @@ algolia: {
 ```
 
 [Crawler Admin Console](https://crawler.algolia.com/)
+
+## Links
+
+- [Docusaurus](https://docusaurus.io/docs/blog)

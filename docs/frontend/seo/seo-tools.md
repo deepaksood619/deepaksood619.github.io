@@ -5,6 +5,12 @@
 - [GitHub - madawei2699/awesome-seo: Google SEO Research and Web Traffic Monetization](https://github.com/madawei2699/awesome-seo)
 - [Moz - Google Algorithm Update History](https://moz.com/google-algorithm-change)
 
+## Google Tools
+
+- https://search.google.com/test/rich-results
+- https://search.google.com/test/amp
+- https://pagespeed.web.dev/
+
 ## SEO Sites
 
 - NeilPatel - ubersuggest
